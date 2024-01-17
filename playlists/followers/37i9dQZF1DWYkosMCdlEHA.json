@@ -1,178 +1,1521 @@
 {
-  "2023-07-10": 109421,
-  "2023-07-11": 109516,
-  "2023-07-12": 109641,
-  "2023-07-13": 109749,
-  "2023-07-14": 109890,
-  "2023-07-15": 110018,
-  "2023-07-16": 110189,
-  "2023-07-17": 110349,
-  "2023-07-18": 110447,
-  "2023-07-19": 110563,
-  "2023-07-20": 110685,
-  "2023-07-21": 110828,
-  "2023-07-22": 110966,
-  "2023-07-23": 111168,
-  "2023-07-24": 111316,
-  "2023-07-25": 111447,
-  "2023-07-26": 111559,
-  "2023-07-27": 111712,
-  "2023-07-28": 111856,
-  "2023-07-29": 111980,
-  "2023-07-30": 112122,
-  "2023-07-31": 112266,
-  "2023-08-01": 112412,
-  "2023-08-02": 112587,
-  "2023-08-03": 112719,
-  "2023-08-04": 112885,
-  "2023-08-05": 113030,
-  "2023-08-06": 113386,
-  "2023-08-07": 113386,
-  "2023-08-08": 113553,
-  "2023-08-09": 113697,
-  "2023-08-10": 113843,
-  "2023-08-11": 113986,
-  "2023-08-12": 114136,
-  "2023-08-13": 114333,
-  "2023-08-14": 114502,
-  "2023-08-15": 114778,
-  "2023-08-16": 114778,
-  "2023-08-17": 114905,
-  "2023-08-18": 115088,
-  "2023-08-19": 115239,
-  "2023-08-20": 115373,
-  "2023-08-21": 115540,
-  "2023-08-22": 115695,
-  "2023-08-23": 115833,
-  "2023-08-24": 115987,
-  "2023-08-25": 116158,
-  "2023-08-26": 116328,
-  "2023-08-27": 116511,
-  "2023-08-28": 116657,
-  "2023-08-29": 116788,
-  "2023-08-30": 116910,
-  "2023-08-31": 117067,
-  "2023-09-01": 117364,
-  "2023-09-02": 117364,
-  "2023-09-03": 117492,
-  "2023-09-04": 117659,
-  "2023-09-05": 117778,
-  "2023-09-06": 117916,
-  "2023-09-07": 118044,
-  "2023-09-08": 118214,
-  "2023-09-09": 118334,
-  "2023-09-10": 118481,
-  "2023-09-11": 118647,
-  "2023-09-12": 118764,
-  "2023-09-13": 118899,
-  "2023-09-14": 119041,
-  "2023-09-15": 119162,
-  "2023-09-16": 119263,
-  "2023-09-17": 119362,
-  "2023-09-18": 119483,
-  "2023-09-19": 119604,
-  "2023-09-20": 119715,
-  "2023-09-21": 119833,
-  "2023-09-22": 119975,
-  "2023-09-23": 120134,
-  "2023-09-24": 120362,
-  "2023-09-25": 120496,
-  "2023-09-26": 120630,
-  "2023-09-27": 120748,
-  "2023-09-28": 120877,
-  "2023-09-29": 121010,
-  "2023-09-30": 121152,
-  "2023-10-01": 121294,
-  "2023-10-02": 121422,
-  "2023-10-03": 121513,
-  "2023-10-04": 121625,
-  "2023-10-05": 121741,
-  "2023-10-06": 121914,
-  "2023-10-07": 122071,
-  "2023-10-08": 122236,
-  "2023-10-09": 122405,
-  "2023-10-10": 122542,
-  "2023-10-11": 122728,
-  "2023-10-12": 122728,
-  "2023-10-13": 122874,
-  "2023-10-14": 123000,
-  "2023-10-15": 123182,
-  "2023-10-16": 123315,
-  "2023-10-17": 123435,
-  "2023-10-18": 123520,
-  "2023-10-19": 123660,
-  "2023-10-20": 123776,
-  "2023-10-21": 123893,
-  "2023-10-22": 124062,
-  "2023-10-23": 124193,
-  "2023-10-24": 124314,
-  "2023-10-25": 124444,
-  "2023-10-26": 124549,
-  "2023-10-27": 124715,
-  "2023-10-28": 124851,
-  "2023-10-29": 125024,
-  "2023-10-30": 125285,
-  "2023-10-31": 125285,
-  "2023-11-01": 125409,
-  "2023-11-02": 125519,
-  "2023-11-03": 125680,
-  "2023-11-04": 125813,
-  "2023-11-05": 126003,
-  "2023-11-06": 126155,
-  "2023-11-07": 126289,
-  "2023-11-08": 126415,
-  "2023-11-09": 126569,
-  "2023-11-10": 126696,
-  "2023-11-11": 126840,
-  "2023-11-12": 126987,
-  "2023-11-13": 127177,
-  "2023-11-14": 127289,
-  "2023-11-15": 127289,
-  "2023-11-16": 127567,
-  "2023-11-17": 127786,
-  "2023-11-18": 127786,
-  "2023-11-19": 127957,
-  "2023-11-20": 128070,
-  "2023-11-21": 128153,
-  "2023-11-22": 128261,
-  "2023-11-23": 128370,
-  "2023-11-24": 128473,
-  "2023-11-25": 128567,
-  "2023-11-26": 128701,
-  "2023-11-27": 128831,
-  "2023-11-28": 128944,
-  "2023-11-29": 129154,
-  "2023-11-30": 129154,
-  "2023-12-01": 129230,
-  "2023-12-02": 129317,
-  "2023-12-03": 129443,
-  "2023-12-04": 129541,
-  "2023-12-05": 129630,
-  "2023-12-06": 129733,
-  "2023-12-07": 129818,
-  "2023-12-08": 129939,
-  "2023-12-09": 130051,
-  "2023-12-10": 130204,
-  "2023-12-11": 130333,
-  "2023-12-12": 130421,
-  "2023-12-13": 130526,
-  "2023-12-14": 130638,
-  "2023-12-15": 130718,
-  "2023-12-16": 130798,
-  "2023-12-17": 130951,
-  "2023-12-18": 131041,
-  "2023-12-19": 131126,
-  "2023-12-20": 131215,
-  "2023-12-21": 131300,
-  "2023-12-22": 131406,
-  "2023-12-23": 131547,
-  "2023-12-24": 131709,
-  "2023-12-25": 131834,
-  "2023-12-26": 131945,
-  "2023-12-27": 132038,
-  "2023-12-30": 132551,
-  "2023-12-31": 132726,
-  "2024-01-01": 132907,
-  "2024-01-02": 133027,
-  "2024-01-03": 133183
+  "2024-01-17": 134913,
+  "date_first_scraped": "2023-07-10",
+  "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
+  "name": "Luau Jah",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308901,
+      "name": "A Casa do Sol/Sentimento - Ao Vivo",
+      "url": "https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM"
+    },
+    {
+      "album": {
+        "name": "A Cera (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA"
+      },
+      "artists": [
+        {
+          "name": "O Surto",
+          "url": "https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7"
+        },
+        {
+          "name": "Marcelo Magal",
+          "url": "https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243781,
+      "name": "A Cera - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287159,
+      "name": "A Ilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Wls6Mo3QpCTnfa1kSEs6X"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230840,
+      "name": "A Sombra da Maldade (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c"
+    },
+    {
+      "album": {
+        "name": "Na Cidade",
+        "url": "https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt"
+      },
+      "artists": [
+        {
+          "name": "Acustico Reggae",
+          "url": "https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "A Verdade",
+      "url": "https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu"
+    },
+    {
+      "album": {
+        "name": "Acorda Pra Vida",
+        "url": "https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef"
+      },
+      "artists": [
+        {
+          "name": "Nazir\u00ea",
+          "url": "https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213003,
+      "name": "Acorda Pra Vida",
+      "url": "https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Na Casa Do Lago (Ac\u00fastico / Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230060,
+      "name": "Amor Fora Da Lei - Ac\u00fastico / Ao Vivo",
+      "url": "https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ"
+    },
+    {
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263106,
+      "name": "Andei S\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em SP",
+        "url": "https://open.spotify.com/album/53YNXgcetI9DFp5XlXguZn"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243293,
+      "name": "Aurora Boreal (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2GI39Pk0Id5QjTZFTTq91q"
+    },
+    {
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 224413,
+      "name": "Beach in Hawaii",
+      "url": "https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0"
+    },
+    {
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224413,
+      "name": "Beach In Hawaii",
+      "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
+    },
+    {
+      "album": {
+        "name": "Papas Da L\u00edngua",
+        "url": "https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q"
+      },
+      "artists": [
+        {
+          "name": "Papas Da L\u00edngua",
+          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298453,
+      "name": "Blusinha Branca",
+      "url": "https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX"
+    },
+    {
+      "album": {
+        "name": "Easy Skanking In Boston '78",
+        "url": "https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335466,
+      "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
+      "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Helio Bentes, Vol. 02",
+        "url": "https://open.spotify.com/album/1mKc2nreQkWbuCKYNEyF4E"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-03",
+      "duration_ms": 283566,
+      "name": "Calor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/31wCSoGTNRPXOOfsLpvxBR"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Helio Bentes Vol. 2 (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2qiVyCE4Fnmuow8MC7YRA9"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283566,
+      "name": "Calor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3IUipHNAKErjn0c6LOzyxw"
+    },
+    {
+      "album": {
+        "name": "Corre Pro Meu Mar (Ac\u00fastico / Ao Vivo)",
+        "url": "https://open.spotify.com/album/6MYUGgADS5UKWNKwwdOyCw"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        },
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203924,
+      "name": "Corre Pro Meu Mar - Ac\u00fastico / Ao Vivo",
+      "url": "https://open.spotify.com/track/6o1uuE7FrCUUN1zqB37nLR"
+    },
+    {
+      "album": {
+        "name": "Casa de Praia Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215847,
+      "name": "Cravo e Canela - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu"
+    },
+    {
+      "album": {
+        "name": "De Tanto Sol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196262,
+      "name": "De Tanto Sol (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/4zOn4Xw4QIXZkFME9IIr5R"
+    },
+    {
+      "album": {
+        "name": "Deixe Me Ir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213191,
+      "name": "Deixe Me Ir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
+    },
+    {
+      "album": {
+        "name": "Segue em Frente",
+        "url": "https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250920,
+      "name": "Desde as Estrelas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Helio Bentes",
+        "url": "https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Emmano",
+          "url": "https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176920,
+      "name": "Estar Com Voc\u00ea - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy"
+    },
+    {
+      "album": {
+        "name": "Papas Da L\u00edngua",
+        "url": "https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q"
+      },
+      "artists": [
+        {
+          "name": "Papas Da L\u00edngua",
+          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Eu Sei",
+      "url": "https://open.spotify.com/track/5YQPOIAt3U7DMAswTVvzax"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221262,
+      "name": "Eu Tive um Sonho - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
+    },
+    {
+      "album": {
+        "name": "Duetos",
+        "url": "https://open.spotify.com/album/4lP3g60igscsY6Le63ZTeN"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301666,
+      "name": "Extra (Participa\u00e7\u00e3o especial de Cidade Negra) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ql2jVYt0hD3PFvcsKYVLP"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Planta e Raiz 2022, Pt. 1",
+        "url": "https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187093,
+      "name": "Filme de Romance",
+      "url": "https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222066,
+      "name": "Firmamento (Wrong Girl to Play With) [Ac\u00fastico]",
+      "url": "https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249706,
+      "name": "Girassol (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du"
+    },
+    {
+      "album": {
+        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
+        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
+      },
+      "artists": [
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        },
+        {
+          "name": "Rockers Control",
+          "url": "https://open.spotify.com/artist/1iPwoFhbDDW4WQGiehzuun"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220855,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/1BCX365xfyXvfhkMtUFGuE"
+    },
+    {
+      "album": {
+        "name": "Is This Love (Cover) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O"
+      },
+      "artists": [
+        {
+          "name": "Luana Camarah",
+          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232071,
+      "name": "Is This Love (Cover) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254533,
+      "name": "Johny B. Goode (Johny B. Goode) [Ac\u00fastico]",
+      "url": "https://open.spotify.com/track/1BkxFAodaIkcM2vynl4CVM"
+    },
+    {
+      "album": {
+        "name": "Lunar (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/34wfLXnN1uN11x0be2uoRS"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240666,
+      "name": "Lunar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0N9qQtxL7sNEqKbGO9qTTw"
+    },
+    {
+      "album": {
+        "name": "Natiruts Reggae Brasil (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2NANM7zBb4IIH5DzKqAoMG"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196493,
+      "name": "Me Namora (feat. Edu Ribeiro) - Natiruts Reggae Brasil - Ao Vivo",
+      "url": "https://open.spotify.com/track/0gRNBFAXFhq1Z8QgTd0aXI"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo No Rep\u00fablica do Reggae",
+        "url": "https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287053,
+      "name": "Medley: \u00c1rvore do Reggae / M\u00fasica de Jah / Ame Sua Miss\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bSV38EAZHHv8KdAwFbYt5"
+    },
+    {
+      "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231474,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe"
+    },
+    {
+      "album": {
+        "name": "Adrenalizou",
+        "url": "https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165625,
+      "name": "Morena - Acoustic Version",
+      "url": "https://open.spotify.com/track/45mAusxpKe7DVNT5O2FGah"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224264,
+      "name": "Nesses Olhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI"
+    },
+    {
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "No Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi"
+    },
+    {
+      "album": {
+        "name": "15 Anos (Ao vivo)",
+        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320653,
+      "name": "N\u00e3o basta ser rasta - Ao vivo",
+      "url": "https://open.spotify.com/track/15jmXHjWm3K2yvgVqSEcLe"
+    },
+    {
+      "album": {
+        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257604,
+      "name": "N\u00e3o \u00e9 S\u00e9rio - Ao Vivo - Chegou Quem Faltava",
+      "url": "https://open.spotify.com/track/4hXfkCgImL8rhqlppBrDPj"
+    },
+    {
+      "album": {
+        "name": "Maneva: Ac\u00fasticas",
+        "url": "https://open.spotify.com/album/4G8VnII4g89pxFrkObrjOr"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "O Destino N\u00e3o Quis",
+      "url": "https://open.spotify.com/track/05sQfg8PUdgc7XSAGUw7HJ"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236280,
+      "name": "O Er\u00ea (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1Mfx88JU9ztFfsGc2k5pCQ"
+    },
+    {
+      "album": {
+        "name": "Juntos Somos Fortes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252466,
+      "name": "Odiss\u00e9ia Na Babil\u00f4nia - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cUr7yd1UjtyPYwybL4fDi"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205856,
+      "name": "Onda do Arraial - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Pensamento (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NhI1Yc8XNEztaWxAR1SdD"
+    },
+    {
+      "album": {
+        "name": "Casinha",
+        "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179466,
+      "name": "Pescador",
+      "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
+    },
+    {
+      "album": {
+        "name": "Hist\u00f3rias Pra Cantar",
+        "url": "https://open.spotify.com/album/1jLZTYKG2LT3HUGWaJJd0e"
+      },
+      "artists": [
+        {
+          "name": "Onze:20",
+          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209499,
+      "name": "Pra Falar de Amor",
+      "url": "https://open.spotify.com/track/5KWvYZHwjJ6A3R41uJmpr7"
+    },
+    {
+      "album": {
+        "name": "Pra Voar / Posso Ser (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV"
+      },
+      "artists": [
+        {
+          "name": "Viegas",
+          "url": "https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261724,
+      "name": "Pra Voar / Posso Ser - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X"
+    },
+    {
+      "album": {
+        "name": "Proibiram as Flores (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Eltin",
+          "url": "https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238687,
+      "name": "Proibiram as Flores - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy"
+    },
+    {
+      "album": {
+        "name": "Pupila",
+        "url": "https://open.spotify.com/album/2YJviUWVUlAlKku8Ghb3sj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202287,
+      "name": "Pupila",
+      "url": "https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk"
+    },
+    {
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy"
+    },
+    {
+      "album": {
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+    },
+    {
+      "album": {
+        "name": "Flow and Slow (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM"
+      },
+      "artists": [
+        {
+          "name": "Da Vula Band",
+          "url": "https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222490,
+      "name": "Reggae de Bar\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325024,
+      "name": "Reggae do Manero - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5"
+    },
+    {
+      "album": {
+        "name": "Tribo",
+        "url": "https://open.spotify.com/album/384Jx7rHBTpn3Wt6e9CodH"
+      },
+      "artists": [
+        {
+          "name": "Good Vibe",
+          "url": "https://open.spotify.com/artist/3rpzzzuQFoqc1tNhQ3Xp6p"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 263906,
+      "name": "Reggae Good Vibe",
+      "url": "https://open.spotify.com/track/5OSWVxhBiidE6KVf3lvMno"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        },
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252352,
+      "name": "Reviso Meus Planos - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/0qEngYWXqMntXxTTUbdLnZ"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "Roots Dance",
+      "url": "https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB"
+    },
+    {
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292863,
+      "name": "Roots, Rock, Reggae - Live",
+      "url": "https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l"
+    },
+    {
+      "album": {
+        "name": "Rosa Flor (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5PbJJ1jOhlmZL1FZW2kMce"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "Rosa Flor - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5For9ZuNFUOpcDBq0dvWR6"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296977,
+      "name": "Saudades Do Tempo - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4CROpP2nRsHjCWUxJ7Ewpy"
+    },
+    {
+      "album": {
+        "name": "Seja Para Mim (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4py0EMy1CITQBCWso9zV0w"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181129,
+      "name": "Seja Para Mim - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1GKEM5KnfB07YrtTE7l6ft"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185659,
+      "name": "Seja Para Mim - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5RuScevud12uKYhhJkYTJ7"
+    },
+    {
+      "album": {
+        "name": "Circuito Reggae, Vol. 7",
+        "url": "https://open.spotify.com/album/3MpDXGTk8iSBPa5arnlAg5"
+      },
+      "artists": [
+        {
+          "name": "Circuito Reggae",
+          "url": "https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly"
+        },
+        {
+          "name": "Filosofia Reggae",
+          "url": "https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Sentimento Bom",
+      "url": "https://open.spotify.com/track/1FfIyMHfZKzGkJRE76pz9O"
+    },
+    {
+      "album": {
+        "name": "Serenou/Nosso Mundo (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ"
+      },
+      "artists": [
+        {
+          "name": "Yeti Reggae Club",
+          "url": "https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221483,
+      "name": "Serenou/Nosso Mundo - Acoustic Sessions",
+      "url": "https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn"
+    },
+    {
+      "album": {
+        "name": "Solst\u00edcio de Ver\u00e3o (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191664,
+      "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
+    },
+    {
+      "album": {
+        "name": "Rastafari Centennial: Live In Paris - Elysee Montmartre",
+        "url": "https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd"
+      },
+      "artists": [
+        {
+          "name": "Steel Pulse",
+          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358400,
+      "name": "Stepping Out - Live",
+      "url": "https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b"
+    },
+    {
+      "album": {
+        "name": "Camisa 10 joga bola at\u00e9 na chuva",
+        "url": "https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "S\u00f3 os Loucos Sabem",
+      "url": "https://open.spotify.com/track/3nI0piSOxAik2RCpHGloB7"
+    },
+    {
+      "album": {
+        "name": "Tranquila (Vers\u00e3o Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7cz1MN4Q2jnd1UgI49U6kh"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Tranquila - Versa\u0303o Acu\u0301stica",
+      "url": "https://open.spotify.com/track/0ohZWsvWdcGlXDiuBqxDuV"
+    },
+    {
+      "album": {
+        "name": "Peace in a Time of War",
+        "url": "https://open.spotify.com/album/3fmRr51BQGbdFUeFfyGn04"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256733,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1HnriuDThLq7bEl1QKiaJL"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "True To Myself",
+      "url": "https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige"
+    },
+    {
+      "album": {
+        "name": "We Are The People Tour",
+        "url": "https://open.spotify.com/album/7FQqRd0kh49AShH75FiT61"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237440,
+      "name": "True To Myself",
+      "url": "https://open.spotify.com/track/6Lamfb7pARZtIVYhVqFAaw"
+    },
+    {
+      "album": {
+        "name": "We Are the People Tour (Live)",
+        "url": "https://open.spotify.com/album/6GiFk4Ep2wpwXgeMEQTh2k"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-10",
+      "duration_ms": 237440,
+      "name": "True to Myself - Live in Saratoga, CA, 2019",
+      "url": "https://open.spotify.com/track/3SIcm5aQsxVfjB2rly20tV"
+    },
+    {
+      "album": {
+        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169472,
+      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
+    },
+    {
+      "album": {
+        "name": "Uma Brasileira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3siyY9J8CgcVlVOkYXgWf6"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250923,
+      "name": "Uma Brasileira - Ao Vivo",
+      "url": "https://open.spotify.com/track/7uHsVx7EDLLSuERDVBGcXC"
+    },
+    {
+      "album": {
+        "name": "15 Anos (Ao vivo)",
+        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
+      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em Buenos Aires",
+        "url": "https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        },
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187199,
+      "name": "Versos Simples - Ao Vivo",
+      "url": "https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG"
+    },
+    {
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "Voc\u00ea Me Encantou Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5iI2yN0RGxzFgdzlcQsTHi"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Na Casa Do Lago (Ac\u00fastico / Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205107,
+      "name": "V\u00e1 Viver - Ac\u00fastico / Ao Vivo",
+      "url": "https://open.spotify.com/track/6TuiSfDGYyVZ7C5fxKOszw"
+    },
+    {
+      "album": {
+        "name": "Reggae Nacional",
+        "url": "https://open.spotify.com/album/23f508qelLXWabAaI6Er7x"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224973,
+      "name": "Zoio De Lula - Ao Vivo",
+      "url": "https://open.spotify.com/track/12eZEpPuG8eJl0FVWvLSrP"
+    },
+    {
+      "album": {
+        "name": "Rock Ac\u00fastico Nacional",
+        "url": "https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 224973,
+      "name": "Zoio De Lula - Ao Vivo",
+      "url": "https://open.spotify.com/track/5LEVrEIMJ63r9w6BGu6BnB"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Bonito de Ver",
+        "url": "https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3"
+      },
+      "artists": [
+        {
+          "name": "Madayati",
+          "url": "https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201360,
+      "name": "\u00c9 Bonito de Ver",
+      "url": "https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYkosMCdlEHA"
 }

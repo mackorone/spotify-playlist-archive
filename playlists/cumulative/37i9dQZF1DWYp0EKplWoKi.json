@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La esquina donde las estrellas de la M\u00fasica Mexicana se juntan. Grupo Firme, Luis Mexia en portada.",
+  "description": "La esquina donde las estrellas de la M\u00fasica Mexicana se juntan. Calle 24, Chino Pacas en portada.",
   "name": "El Junte",
   "tracks": [
     {
@@ -574,6 +574,28 @@
       "duration_ms": 193220,
       "name": "Ant\u00eddoto",
       "url": "https://open.spotify.com/track/6cxQ0CafJh50tbiRtr6qou"
+    },
+    {
+      "album": {
+        "name": "Apaga El Cel",
+        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170832,
+      "name": "Apaga El Cel",
+      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
     },
     {
       "album": {
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 131172,
       "name": "El After",
       "url": "https://open.spotify.com/track/21OxiAu3VXFTrXhUkhryYb"
@@ -1704,7 +1726,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 167333,
       "name": "El Morrillo",
       "url": "https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV"
@@ -2435,6 +2457,28 @@
     },
     {
       "album": {
+        "name": "La Cumbia De La Baliniza",
+        "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
+      },
+      "artists": [
+        {
+          "name": "Los C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167235,
+      "name": "La Cumbia De La Baliniza",
+      "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
+    },
+    {
+      "album": {
         "name": "La Esquina del Mall",
         "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
       },
@@ -3004,7 +3048,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 179372,
       "name": "ME LIBER\u00c9",
       "url": "https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T"
@@ -3838,6 +3882,28 @@
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
     },
     {
       "album": {

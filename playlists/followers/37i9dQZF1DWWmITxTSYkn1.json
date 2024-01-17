@@ -1,180 +1,555 @@
 {
-  "2023-07-08": 31765,
-  "2023-07-09": 43153,
-  "2023-07-10": 50763,
-  "2023-07-11": 54458,
-  "2023-07-12": 56383,
-  "2023-07-13": 58342,
-  "2023-07-14": 60177,
-  "2023-07-15": 62206,
-  "2023-07-16": 64740,
-  "2023-07-17": 66617,
-  "2023-07-18": 68332,
-  "2023-07-19": 69848,
-  "2023-07-20": 71095,
-  "2023-07-21": 72517,
-  "2023-07-22": 73882,
-  "2023-07-23": 75155,
-  "2023-07-24": 76410,
-  "2023-07-25": 77656,
-  "2023-07-26": 78888,
-  "2023-07-27": 80006,
-  "2023-07-28": 81175,
-  "2023-07-29": 82327,
-  "2023-07-30": 83421,
-  "2023-07-31": 84442,
-  "2023-08-01": 85406,
-  "2023-08-02": 86291,
-  "2023-08-03": 87221,
-  "2023-08-04": 88194,
-  "2023-08-05": 89664,
-  "2023-08-06": 93998,
-  "2023-08-07": 93998,
-  "2023-08-08": 96892,
-  "2023-08-09": 98920,
-  "2023-08-10": 100536,
-  "2023-08-11": 101943,
-  "2023-08-12": 103434,
-  "2023-08-13": 104606,
-  "2023-08-14": 105846,
-  "2023-08-15": 108011,
-  "2023-08-16": 108011,
-  "2023-08-17": 109105,
-  "2023-08-18": 110233,
-  "2023-08-19": 111482,
-  "2023-08-20": 112549,
-  "2023-08-21": 113482,
-  "2023-08-22": 114346,
-  "2023-08-23": 115254,
-  "2023-08-24": 116096,
-  "2023-08-25": 116939,
-  "2023-08-26": 117883,
-  "2023-08-27": 118717,
-  "2023-08-28": 119527,
-  "2023-08-29": 120438,
-  "2023-08-30": 121274,
-  "2023-08-31": 122130,
-  "2023-09-01": 123144,
-  "2023-09-02": 123144,
-  "2023-09-03": 123537,
-  "2023-09-04": 124034,
-  "2023-09-05": 124470,
-  "2023-09-06": 124892,
-  "2023-09-07": 125332,
-  "2023-09-08": 125779,
-  "2023-09-09": 126443,
-  "2023-09-10": 126934,
-  "2023-09-11": 127500,
-  "2023-09-12": 127919,
-  "2023-09-13": 128386,
-  "2023-09-14": 128770,
-  "2023-09-15": 129097,
-  "2023-09-16": 129432,
-  "2023-09-17": 129868,
-  "2023-09-18": 130442,
-  "2023-09-19": 130906,
-  "2023-09-20": 131394,
-  "2023-09-21": 131829,
-  "2023-09-22": 132369,
-  "2023-09-23": 132947,
-  "2023-09-24": 133417,
-  "2023-09-25": 133882,
-  "2023-09-26": 134482,
-  "2023-09-27": 134808,
-  "2023-09-28": 135309,
-  "2023-09-29": 135731,
-  "2023-09-30": 136276,
-  "2023-10-01": 136784,
-  "2023-10-02": 137175,
-  "2023-10-03": 137554,
-  "2023-10-04": 138008,
-  "2023-10-05": 138403,
-  "2023-10-06": 138850,
-  "2023-10-07": 139285,
-  "2023-10-08": 139730,
-  "2023-10-09": 140106,
-  "2023-10-10": 140602,
-  "2023-10-11": 141513,
-  "2023-10-12": 141513,
-  "2023-10-13": 141954,
-  "2023-10-14": 142396,
-  "2023-10-15": 142816,
-  "2023-10-16": 143295,
-  "2023-10-17": 143724,
-  "2023-10-18": 144139,
-  "2023-10-19": 144559,
-  "2023-10-20": 145068,
-  "2023-10-21": 145502,
-  "2023-10-22": 146013,
-  "2023-10-23": 146494,
-  "2023-10-24": 146872,
-  "2023-10-25": 147235,
-  "2023-10-26": 147595,
-  "2023-10-27": 147918,
-  "2023-10-28": 148244,
-  "2023-10-29": 148524,
-  "2023-10-30": 149081,
-  "2023-10-31": 149081,
-  "2023-11-01": 149377,
-  "2023-11-02": 149675,
-  "2023-11-03": 150038,
-  "2023-11-04": 150604,
-  "2023-11-05": 151218,
-  "2023-11-06": 151751,
-  "2023-11-07": 152348,
-  "2023-11-08": 152896,
-  "2023-11-09": 153408,
-  "2023-11-10": 153809,
-  "2023-11-11": 154188,
-  "2023-11-12": 154521,
-  "2023-11-13": 154804,
-  "2023-11-14": 155099,
-  "2023-11-15": 155099,
-  "2023-11-16": 155654,
-  "2023-11-17": 156036,
-  "2023-11-18": 156036,
-  "2023-11-19": 156265,
-  "2023-11-20": 156501,
-  "2023-11-21": 156893,
-  "2023-11-22": 157172,
-  "2023-11-23": 157437,
-  "2023-11-24": 157709,
-  "2023-11-25": 157964,
-  "2023-11-26": 158240,
-  "2023-11-27": 158470,
-  "2023-11-28": 158742,
-  "2023-11-29": 159482,
-  "2023-11-30": 159482,
-  "2023-12-01": 159884,
-  "2023-12-02": 160279,
-  "2023-12-03": 160608,
-  "2023-12-04": 160903,
-  "2023-12-05": 161202,
-  "2023-12-06": 161454,
-  "2023-12-07": 161725,
-  "2023-12-08": 162000,
-  "2023-12-09": 162222,
-  "2023-12-10": 162544,
-  "2023-12-11": 162809,
-  "2023-12-12": 163051,
-  "2023-12-13": 163359,
-  "2023-12-14": 163740,
-  "2023-12-15": 164007,
-  "2023-12-16": 164383,
-  "2023-12-17": 164751,
-  "2023-12-18": 165081,
-  "2023-12-19": 165309,
-  "2023-12-20": 165585,
-  "2023-12-21": 165902,
-  "2023-12-22": 166210,
-  "2023-12-23": 166567,
-  "2023-12-24": 166843,
-  "2023-12-25": 167086,
-  "2023-12-26": 167311,
-  "2023-12-27": 167579,
-  "2023-12-30": 168351,
-  "2023-12-31": 168630,
-  "2024-01-01": 168869,
-  "2024-01-02": 169092,
-  "2024-01-03": 169404
+  "2024-01-17": 172953,
+  "date_first_scraped": "2023-07-08",
+  "description": "Enjoy the SUGA | Agust D Seoul concert LIVE SET including the voices of him on stage! (SUGA | Agust D\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c \uc11c\uc6b8 \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "SUGA | Agust D [D-DAY TOUR]",
+  "tracks": [
+    {
+      "album": {
+        "name": "SUGA | Agust D [D-DAY TOUR]",
+        "url": "https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230396,
+      "name": "About BTS Cypher 4",
+      "url": "https://open.spotify.com/track/66MrnmKXv1mkDUSA05XYt2"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234082,
+      "name": "Agust D",
+      "url": "https://open.spotify.com/track/6AknCCsxOsrJ2mkSdCtET1"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251533,
+      "name": "AMYGDALA",
+      "url": "https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294463,
+      "name": "BTS Cypher 4",
+      "url": "https://open.spotify.com/track/4cTSnpyaIR1qGaTOLJunDM"
+    },
+    {
+      "album": {
+        "name": "Dark & Wild",
+        "url": "https://open.spotify.com/album/35voVqYGkotyJ945O9egDY"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Supreme Boi",
+          "url": "https://open.spotify.com/artist/6sBiS0iWcCyMMgiYrEOxbt"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267782,
+      "name": "BTS Cypher Pt.3: Killer",
+      "url": "https://open.spotify.com/track/5OlieB5VdsOMuBuCtllXGW"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192106,
+      "name": "Burn It (feat. MAX)",
+      "url": "https://open.spotify.com/track/2hX8rtWyNxYyaBT64H3LYU"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "D-Day",
+      "url": "https://open.spotify.com/track/22W6wI4hDTjMAYKKBQW9dU"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225668,
+      "name": "Daechwita",
+      "url": "https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw"
+    },
+    {
+      "album": {
+        "name": "SUGA | Agust D [D-DAY TOUR]",
+        "url": "https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432465,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0PgpcwBfURH7ENtbdv3dtU"
+    },
+    {
+      "album": {
+        "name": "SUGA | Agust D [D-DAY TOUR]",
+        "url": "https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140173,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/6c0BbXnfRkLpgfgk5dRAcX"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149524,
+      "name": "give it to me",
+      "url": "https://open.spotify.com/track/1m0yEldZVNu9SzmtqfFWRt"
+    },
+    {
+      "album": {
+        "name": "SUGA | Agust D [D-DAY TOUR]",
+        "url": "https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145478,
+      "name": "Greeting from SUGA",
+      "url": "https://open.spotify.com/track/1n4Rlc4qt1qCGkbxTCIlhJ"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168926,
+      "name": "Haegeum",
+      "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183290,
+      "name": "HUH?! (feat. j-hope)",
+      "url": "https://open.spotify.com/track/6XrPzwKeGzEvtan3acn7VH"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259821,
+      "name": "Interlude : Shadow",
+      "url": "https://open.spotify.com/track/7om4LRoSct9hiMPo0fPn7m"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life Pt.2",
+        "url": "https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136428,
+      "name": "Intro: Never Mind",
+      "url": "https://open.spotify.com/track/6JbPyMiLnWaaKusic64bCq"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197638,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/7gv3UYPh05ZDP7Io5BIsn7"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163015,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1NuwEuQH7vbDLA9eg5TvEg"
+    },
+    {
+      "album": {
+        "name": "SUGA | Agust D [D-DAY TOUR]",
+        "url": "https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58458,
+      "name": "Narration about Ryuichi Sakamoto",
+      "url": "https://open.spotify.com/track/283QPjFaFzmGxvqjllaLth"
+    },
+    {
+      "album": {
+        "name": "SUGA | Agust D [D-DAY TOUR]",
+        "url": "https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105538,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/1QwtC0tnwts2QI3SiS1Uzt"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "People",
+      "url": "https://open.spotify.com/track/6HDHaCnH2FCSdEwXrJfEVF"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "People Pt.2 (feat. IU)",
+      "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165319,
+      "name": "Polar Night",
+      "url": "https://open.spotify.com/track/3JSodIIStqTwXSH7nXOuhe"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171442,
+      "name": "SDL",
+      "url": "https://open.spotify.com/track/2vRoAkwc3UBEPW2udvN0u9"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264760,
+      "name": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "url": "https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245757,
+      "name": "The Last",
+      "url": "https://open.spotify.com/track/2FUZnIf0LasXgvXMewJ0lO"
+    },
+    {
+      "album": {
+        "name": "SUGA | Agust D [D-DAY TOUR]",
+        "url": "https://open.spotify.com/album/7xbXfQMtszsEXF8YVyyS9d"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115782,
+      "name": "Transition",
+      "url": "https://open.spotify.com/track/2o5kzwuPQShtuR5MGHms7P"
+    },
+    {
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246334,
+      "name": "Trivia \u8f49 : Seesaw",
+      "url": "https://open.spotify.com/track/0mZI1NpihIVcho2f9MmqSW"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225012,
+      "name": "UGH!",
+      "url": "https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWmITxTSYkn1"
 }

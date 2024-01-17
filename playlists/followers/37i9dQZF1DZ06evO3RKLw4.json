@@ -1,472 +1,1489 @@
 {
-  "2022-09-17": 36875,
-  "2022-09-18": 36895,
-  "2022-09-19": 36903,
-  "2022-09-20": 36926,
-  "2022-09-21": 36936,
-  "2022-09-22": 36963,
-  "2022-09-23": 36976,
-  "2022-09-24": 36976,
-  "2022-09-25": 37024,
-  "2022-09-26": 37034,
-  "2022-09-27": 37046,
-  "2022-09-28": 37068,
-  "2022-09-29": 37087,
-  "2022-09-30": 37106,
-  "2022-10-01": 37131,
-  "2022-10-02": 37151,
-  "2022-10-03": 37162,
-  "2022-10-04": 37182,
-  "2022-10-05": 37199,
-  "2022-10-06": 37227,
-  "2022-10-07": 37249,
-  "2022-10-08": 37268,
-  "2022-10-09": 37294,
-  "2022-10-10": 37296,
-  "2022-10-11": 37305,
-  "2022-10-12": 37314,
-  "2022-10-13": 37336,
-  "2022-10-14": 37356,
-  "2022-10-15": 37383,
-  "2022-10-16": 37399,
-  "2022-10-17": 37414,
-  "2022-10-18": 37432,
-  "2022-10-19": 37448,
-  "2022-10-20": 37460,
-  "2022-10-21": 37475,
-  "2022-10-22": 37489,
-  "2022-10-23": 37502,
-  "2022-10-24": 37516,
-  "2022-10-25": 37521,
-  "2022-10-26": 37550,
-  "2022-10-27": 37560,
-  "2022-10-28": 37574,
-  "2022-10-29": 37591,
-  "2022-10-30": 37609,
-  "2022-10-31": 37628,
-  "2022-11-01": 37637,
-  "2022-11-02": 37657,
-  "2022-11-03": 37658,
-  "2022-11-04": 37682,
-  "2022-11-05": 37699,
-  "2022-11-06": 37711,
-  "2022-11-07": 37733,
-  "2022-11-08": 37754,
-  "2022-11-09": 37772,
-  "2022-11-10": 37790,
-  "2022-11-11": 37811,
-  "2022-11-12": 37835,
-  "2022-11-13": 37845,
-  "2022-11-14": 37855,
-  "2022-11-15": 37867,
-  "2022-11-16": 37878,
-  "2022-11-17": 37895,
-  "2022-11-18": 37892,
-  "2022-11-19": 37892,
-  "2022-11-20": 37912,
-  "2022-11-21": 37934,
-  "2022-11-22": 37939,
-  "2022-11-23": 37961,
-  "2022-11-24": 37983,
-  "2022-11-25": 38014,
-  "2022-11-26": 38026,
-  "2022-11-27": 38036,
-  "2022-11-28": 38051,
-  "2022-11-29": 38063,
-  "2022-11-30": 38090,
-  "2022-12-01": 38110,
-  "2022-12-02": 38120,
-  "2022-12-03": 38145,
-  "2022-12-04": 38164,
-  "2022-12-05": 38179,
-  "2022-12-06": 38196,
-  "2022-12-07": 38214,
-  "2022-12-08": 38228,
-  "2022-12-09": 38246,
-  "2022-12-10": 38270,
-  "2022-12-11": 38284,
-  "2022-12-12": 38298,
-  "2022-12-13": 38309,
-  "2022-12-14": 38327,
-  "2022-12-15": 38358,
-  "2022-12-16": 38382,
-  "2022-12-17": 38401,
-  "2022-12-18": 38421,
-  "2022-12-19": 38441,
-  "2022-12-20": 38490,
-  "2022-12-21": 38490,
-  "2022-12-22": 38503,
-  "2022-12-24": 38529,
-  "2022-12-25": 38548,
-  "2022-12-26": 38563,
-  "2022-12-27": 38575,
-  "2022-12-28": 38589,
-  "2022-12-29": 38605,
-  "2022-12-30": 38640,
-  "2022-12-31": 38651,
-  "2023-01-01": 38669,
-  "2023-01-02": 38684,
-  "2023-01-03": 38697,
-  "2023-01-04": 38711,
-  "2023-01-05": 38726,
-  "2023-01-06": 38747,
-  "2023-01-07": 38765,
-  "2023-01-08": 38769,
-  "2023-01-09": 38782,
-  "2023-01-10": 38797,
-  "2023-01-11": 38816,
-  "2023-01-12": 38834,
-  "2023-01-13": 38860,
-  "2023-01-14": 38899,
-  "2023-01-15": 38905,
-  "2023-01-16": 38913,
-  "2023-01-17": 38928,
-  "2023-01-18": 38937,
-  "2023-01-19": 38954,
-  "2023-01-20": 38967,
-  "2023-01-21": 38987,
-  "2023-01-22": 39023,
-  "2023-01-23": 39044,
-  "2023-01-24": 39070,
-  "2023-01-25": 39086,
-  "2023-01-26": 39104,
-  "2023-01-27": 39120,
-  "2023-01-28": 39137,
-  "2023-01-29": 39161,
-  "2023-01-30": 39178,
-  "2023-01-31": 39178,
-  "2023-02-01": 39218,
-  "2023-02-02": 39239,
-  "2023-02-03": 39257,
-  "2023-02-04": 39274,
-  "2023-02-05": 39300,
-  "2023-02-06": 39324,
-  "2023-02-07": 39339,
-  "2023-02-08": 39377,
-  "2023-02-09": 39377,
-  "2023-02-10": 39386,
-  "2023-02-11": 39407,
-  "2023-02-12": 39435,
-  "2023-02-13": 39456,
-  "2023-02-14": 39456,
-  "2023-02-15": 39471,
-  "2023-02-16": 39483,
-  "2023-02-17": 39503,
-  "2023-02-18": 39547,
-  "2023-02-19": 39551,
-  "2023-02-20": 39561,
-  "2023-02-21": 39578,
-  "2023-02-22": 39595,
-  "2023-02-23": 39618,
-  "2023-02-24": 39645,
-  "2023-02-25": 39673,
-  "2023-02-26": 39686,
-  "2023-02-27": 39726,
-  "2023-02-28": 39726,
-  "2023-03-01": 39734,
-  "2023-03-02": 39755,
-  "2023-03-03": 39787,
-  "2023-03-04": 39801,
-  "2023-03-05": 39827,
-  "2023-03-06": 39827,
-  "2023-03-07": 39842,
-  "2023-03-08": 39864,
-  "2023-03-09": 39878,
-  "2023-03-10": 39891,
-  "2023-03-11": 39916,
-  "2023-03-12": 39933,
-  "2023-03-13": 39946,
-  "2023-03-14": 39951,
-  "2023-03-15": 39971,
-  "2023-03-16": 39971,
-  "2023-03-17": 39971,
-  "2023-03-18": 40021,
-  "2023-03-19": 40021,
-  "2023-03-20": 40053,
-  "2023-03-21": 40072,
-  "2023-03-22": 40089,
-  "2023-03-23": 40098,
-  "2023-03-24": 40098,
-  "2023-03-25": 40131,
-  "2023-03-26": 40139,
-  "2023-03-27": 40150,
-  "2023-03-28": 40165,
-  "2023-03-29": 40187,
-  "2023-03-30": 40229,
-  "2023-03-31": 40229,
-  "2023-04-01": 40238,
-  "2023-04-02": 40253,
-  "2023-04-03": 40265,
-  "2023-04-04": 40286,
-  "2023-04-05": 40299,
-  "2023-04-06": 40317,
-  "2023-04-07": 40334,
-  "2023-04-09": 40361,
-  "2023-04-10": 40373,
-  "2023-04-11": 40394,
-  "2023-04-12": 40394,
-  "2023-04-13": 40411,
-  "2023-04-14": 40428,
-  "2023-04-15": 40449,
-  "2023-04-16": 40472,
-  "2023-04-17": 40491,
-  "2023-04-18": 40505,
-  "2023-04-19": 40555,
-  "2023-04-20": 40600,
-  "2023-04-21": 40636,
-  "2023-04-22": 40685,
-  "2023-04-23": 40734,
-  "2023-04-24": 40752,
-  "2023-04-25": 40778,
-  "2023-04-26": 40808,
-  "2023-04-27": 40831,
-  "2023-04-28": 40859,
-  "2023-04-29": 40888,
-  "2023-04-30": 40917,
-  "2023-05-01": 40936,
-  "2023-05-02": 40955,
-  "2023-05-03": 40971,
-  "2023-05-04": 40986,
-  "2023-05-05": 41004,
-  "2023-05-06": 41030,
-  "2023-05-07": 41053,
-  "2023-05-08": 41071,
-  "2023-05-09": 41088,
-  "2023-05-10": 41114,
-  "2023-05-11": 41131,
-  "2023-05-12": 41143,
-  "2023-05-13": 41161,
-  "2023-05-14": 41175,
-  "2023-05-15": 41193,
-  "2023-05-16": 41213,
-  "2023-05-17": 41227,
-  "2023-05-18": 41255,
-  "2023-05-19": 41291,
-  "2023-05-20": 41347,
-  "2023-05-21": 41347,
-  "2023-05-22": 41347,
-  "2023-05-23": 41380,
-  "2023-05-24": 41421,
-  "2023-05-25": 41426,
-  "2023-05-26": 41448,
-  "2023-05-27": 41470,
-  "2023-05-28": 41489,
-  "2023-05-29": 41489,
-  "2023-05-30": 41529,
-  "2023-05-31": 41551,
-  "2023-06-01": 41571,
-  "2023-06-02": 41599,
-  "2023-06-03": 41646,
-  "2023-06-04": 41679,
-  "2023-06-05": 41711,
-  "2023-06-06": 41738,
-  "2023-06-07": 41771,
-  "2023-06-08": 41798,
-  "2023-06-09": 41818,
-  "2023-06-10": 41855,
-  "2023-06-11": 41879,
-  "2023-06-12": 41902,
-  "2023-06-13": 41932,
-  "2023-06-14": 41965,
-  "2023-06-15": 41995,
-  "2023-06-16": 42012,
-  "2023-06-17": 42026,
-  "2023-06-18": 42055,
-  "2023-06-19": 42075,
-  "2023-06-20": 42096,
-  "2023-06-21": 42126,
-  "2023-06-22": 42160,
-  "2023-06-23": 42186,
-  "2023-06-24": 42206,
-  "2023-06-25": 42231,
-  "2023-06-26": 42253,
-  "2023-06-27": 42266,
-  "2023-06-28": 42283,
-  "2023-06-29": 42305,
-  "2023-06-30": 42320,
-  "2023-07-01": 42366,
-  "2023-07-02": 42366,
-  "2023-07-03": 42382,
-  "2023-07-04": 42395,
-  "2023-07-05": 42412,
-  "2023-07-06": 42442,
-  "2023-07-07": 42442,
-  "2023-07-08": 42442,
-  "2023-07-09": 42474,
-  "2023-07-10": 42491,
-  "2023-07-11": 42501,
-  "2023-07-12": 42519,
-  "2023-07-13": 42544,
-  "2023-07-14": 42559,
-  "2023-07-15": 42562,
-  "2023-07-16": 42576,
-  "2023-07-17": 42586,
-  "2023-07-18": 42606,
-  "2023-07-19": 42612,
-  "2023-07-20": 42612,
-  "2023-07-21": 42647,
-  "2023-07-22": 42657,
-  "2023-07-23": 42675,
-  "2023-07-24": 42690,
-  "2023-07-25": 42699,
-  "2023-07-26": 42722,
-  "2023-07-27": 42734,
-  "2023-07-28": 42754,
-  "2023-07-29": 42764,
-  "2023-07-30": 42779,
-  "2023-07-31": 42788,
-  "2023-08-01": 42808,
-  "2023-08-02": 42826,
-  "2023-08-03": 42847,
-  "2023-08-04": 42864,
-  "2023-08-05": 42886,
-  "2023-08-06": 42926,
-  "2023-08-07": 42926,
-  "2023-08-08": 42935,
-  "2023-08-09": 42949,
-  "2023-08-10": 42976,
-  "2023-08-11": 42989,
-  "2023-08-12": 42989,
-  "2023-08-13": 42989,
-  "2023-08-14": 42989,
-  "2023-08-15": 42989,
-  "2023-08-16": 42989,
-  "2023-08-17": 42989,
-  "2023-08-18": 42989,
-  "2023-08-19": 42989,
-  "2023-08-20": 43121,
-  "2023-08-21": 43121,
-  "2023-08-22": 43150,
-  "2023-08-23": 43150,
-  "2023-08-24": 43150,
-  "2023-08-25": 43150,
-  "2023-08-26": 43216,
-  "2023-08-27": 43216,
-  "2023-08-28": 43254,
-  "2023-08-29": 43254,
-  "2023-08-30": 43254,
-  "2023-08-31": 43304,
-  "2023-09-01": 43315,
-  "2023-09-02": 43315,
-  "2023-09-03": 43315,
-  "2023-09-04": 43315,
-  "2023-09-05": 43315,
-  "2023-09-06": 43315,
-  "2023-09-07": 43315,
-  "2023-09-08": 43315,
-  "2023-09-09": 43315,
-  "2023-09-10": 43315,
-  "2023-09-11": 43315,
-  "2023-09-12": 43315,
-  "2023-09-13": 43315,
-  "2023-09-14": 43315,
-  "2023-09-15": 43315,
-  "2023-09-16": 43576,
-  "2023-09-17": 43576,
-  "2023-09-18": 43576,
-  "2023-09-19": 43623,
-  "2023-09-20": 43623,
-  "2023-09-21": 43623,
-  "2023-09-22": 43661,
-  "2023-09-23": 43661,
-  "2023-09-24": 43661,
-  "2023-09-25": 43661,
-  "2023-09-26": 43709,
-  "2023-09-27": 43709,
-  "2023-09-28": 43709,
-  "2023-09-29": 43709,
-  "2023-09-30": 43709,
-  "2023-10-01": 43709,
-  "2023-10-02": 43709,
-  "2023-10-03": 43709,
-  "2023-10-04": 43709,
-  "2023-10-05": 43709,
-  "2023-10-06": 43709,
-  "2023-10-07": 43709,
-  "2023-10-08": 43709,
-  "2023-10-09": 43709,
-  "2023-10-10": 43709,
-  "2023-10-11": 43884,
-  "2023-10-12": 43884,
-  "2023-10-13": 43884,
-  "2023-10-14": 43884,
-  "2023-10-15": 43884,
-  "2023-10-16": 43884,
-  "2023-10-17": 43884,
-  "2023-10-18": 43884,
-  "2023-10-19": 43884,
-  "2023-10-20": 43884,
-  "2023-10-21": 43884,
-  "2023-10-22": 43884,
-  "2023-10-23": 43884,
-  "2023-10-24": 43884,
-  "2023-10-25": 43884,
-  "2023-10-26": 43884,
-  "2023-10-27": 43884,
-  "2023-10-28": 43884,
-  "2023-10-29": 43884,
-  "2023-10-30": 43884,
-  "2023-10-31": 43884,
-  "2023-11-01": 43884,
-  "2023-11-02": 43884,
-  "2023-11-03": 43884,
-  "2023-11-04": 43884,
-  "2023-11-05": 43884,
-  "2023-11-06": 43884,
-  "2023-11-07": 43884,
-  "2023-11-08": 43884,
-  "2023-11-09": 43884,
-  "2023-11-10": 43884,
-  "2023-11-11": 44299,
-  "2023-11-12": 44299,
-  "2023-11-13": 44299,
-  "2023-11-14": 44299,
-  "2023-11-15": 44299,
-  "2023-11-16": 44299,
-  "2023-11-17": 44299,
-  "2023-11-18": 44299,
-  "2023-11-19": 44299,
-  "2023-11-20": 44299,
-  "2023-11-21": 44299,
-  "2023-11-22": 44299,
-  "2023-11-23": 44299,
-  "2023-11-24": 44299,
-  "2023-11-25": 44299,
-  "2023-11-26": 44299,
-  "2023-11-27": 44299,
-  "2023-11-28": 44299,
-  "2023-11-29": 44299,
-  "2023-11-30": 44299,
-  "2023-12-01": 44299,
-  "2023-12-02": 44299,
-  "2023-12-03": 44299,
-  "2023-12-04": 44299,
-  "2023-12-05": 44299,
-  "2023-12-06": 44299,
-  "2023-12-07": 44299,
-  "2023-12-08": 44299,
-  "2023-12-09": 44299,
-  "2023-12-10": 44299,
-  "2023-12-11": 44299,
-  "2023-12-12": 44299,
-  "2023-12-13": 44299,
-  "2023-12-14": 44694,
-  "2023-12-15": 44712,
-  "2023-12-16": 44721,
-  "2023-12-17": 44738,
-  "2023-12-18": 44745,
-  "2023-12-19": 44758,
-  "2023-12-20": 44771,
-  "2023-12-21": 44785,
-  "2023-12-22": 44803,
-  "2023-12-23": 44811,
-  "2023-12-24": 44823,
-  "2023-12-25": 44833,
-  "2023-12-26": 44842,
-  "2023-12-27": 44854,
-  "2023-12-30": 44883,
-  "2023-12-31": 44893,
-  "2024-01-01": 44905,
-  "2024-01-02": 44913,
-  "2024-01-03": 44923
+  "2024-01-17": 45009,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Rancid. The essential tracks, all in one playlist.",
+  "name": "This Is Rancid",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99733,
+      "name": "Adina",
+      "url": "https://open.spotify.com/track/4PIRphLLoKGsjSNCBGr5Ha"
+    },
+    {
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154373,
+      "name": "An Intimate Close Up Of A Street Punk Trouble Maker",
+      "url": "https://open.spotify.com/track/7IejBxjTUvI6A1Kprlxqfz"
+    },
+    {
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70933,
+      "name": "Antennas",
+      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251260,
+      "name": "Arrested in Shanghai",
+      "url": "https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax"
+    },
+    {
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132026,
+      "name": "Back Where I Belong",
+      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
+    },
+    {
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 155306,
+      "name": "Black Derby Jacket",
+      "url": "https://open.spotify.com/track/63eDmxXVSiFiibXVaG7o5t"
+    },
+    {
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113426,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP"
+    },
+    {
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165240,
+      "name": "Bloodclot",
+      "url": "https://open.spotify.com/track/2RetS9VF5XDmuljJINowwu"
+    },
+    {
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 251106,
+      "name": "Civilian Ways",
+      "url": "https://open.spotify.com/track/1bbwuyXB1Ppr3SYVwYVNn0"
+    },
+    {
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117426,
+      "name": "Collision Course",
+      "url": "https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf"
+    },
+    {
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 87800,
+      "name": "Corruption",
+      "url": "https://open.spotify.com/track/4pMLW2yaVg2QKCP27ZcZus"
+    },
+    {
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
+      "duration_ms": 144400,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118618,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
+    },
+    {
+      "album": {
+        "name": "Devil In Disguise",
+        "url": "https://open.spotify.com/album/4TzP65zu3xapbdpBqGii7c"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 118618,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG"
+    },
+    {
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120480,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
+    },
+    {
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 163506,
+      "name": "Dominoes Fall",
+      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
+    },
+    {
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 35572,
+      "name": "Don Giovanni",
+      "url": "https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58371,
+      "name": "Don't Make Me Do It",
+      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
+    },
+    {
+      "album": {
+        "name": "Don't Make Me Do It",
+        "url": "https://open.spotify.com/album/6Mf3wSY9Zy1WqRX8xy2mK7"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
+      "duration_ms": 58371,
+      "name": "Don't Make Me Do It",
+      "url": "https://open.spotify.com/track/5t63QRCWRg7ji6WTsDYVOn"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 121245,
+      "name": "Drop Dead Inn",
+      "url": "https://open.spotify.com/track/7oZJ1XB2Aaz6MDCUKprOax"
+    },
+    {
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125693,
+      "name": "East Bay Night",
+      "url": "https://open.spotify.com/track/6WVak6Y3Fyts2tYsNMujru"
+    },
+    {
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129973,
+      "name": "Evil's My Friend",
+      "url": "https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223227,
+      "name": "Fall Back Down",
+      "url": "https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH"
+    },
+    {
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96053,
+      "name": "Ghost of a Chance",
+      "url": "https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr"
+    },
+    {
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        },
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161613,
+      "name": "Got Each Other",
+      "url": "https://open.spotify.com/track/0FyYR4Nnkbkk5BvECQRyXY"
+    },
+    {
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131960,
+      "name": "Honor Is All We Know",
+      "url": "https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2"
+    },
+    {
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152760,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/5uNrA98u8ZSoAaHaDSSmU4"
+    },
+    {
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174760,
+      "name": "Hyena",
+      "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
+    },
+    {
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 108160,
+      "name": "I Got Them Blues Again",
+      "url": "https://open.spotify.com/track/2i4urMvXqwEFOCuY2JWL0l"
+    },
+    {
+      "album": {
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "I Wanna Riot",
+      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+    },
+    {
+      "album": {
+        "name": "Give Em The Boot II",
+        "url": "https://open.spotify.com/album/2N7UbvqcQZDXWZrfHDeoYa"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 161693,
+      "name": "If The Kids Are United",
+      "url": "https://open.spotify.com/track/5aL313wM2AQsQvdDNXrMXR"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96584,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/6akNPd4acqhnBn86tEsfAb"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 138418,
+      "name": "It's a Road to Righteousness",
+      "url": "https://open.spotify.com/track/0oss8F8NQ40PWVXu1OoMYG"
+    },
+    {
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89666,
+      "name": "It's Quite Alright",
+      "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
+    },
+    {
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143600,
+      "name": "Last One To Die",
+      "url": "https://open.spotify.com/track/7Aulng5j4bWyRJ0emPhNGE"
+    },
+    {
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193437,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO"
+    },
+    {
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86133,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
+    },
+    {
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Life Won't Wait",
+      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81741,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 85996,
+      "name": "Magnificent Rogue",
+      "url": "https://open.spotify.com/track/3sdXZbbzcukoKpCGRT3kxK"
+    },
+    {
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 146346,
+      "name": "Malfunction",
+      "url": "https://open.spotify.com/track/6M6fcutwl872Iel0YPRtaR"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85863,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 85866,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72608,
+      "name": "Mud, Blood, & Gold",
+      "url": "https://open.spotify.com/track/3bHZv692gQiEzKiQ7iwdvr"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157643,
+      "name": "New American",
+      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
+    },
+    {
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121560,
+      "name": "Nihilism",
+      "url": "https://open.spotify.com/track/5g1jCZ5cQuPw6YvEkd7Yni"
+    },
+    {
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 112293,
+      "name": "Now We're Through With You",
+      "url": "https://open.spotify.com/track/1wD9IA6n3gwxMBM5yE9jdV"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 173800,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/12hrTdStYqC2lM5SAIQOcq"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174386,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/1F653irkyfBQgMg0yfVJFc"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 210626,
+      "name": "Olympia WA",
+      "url": "https://open.spotify.com/track/0TE5Q3XEPkEfmyNtr47wWa"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Olympia, WA",
+      "url": "https://open.spotify.com/track/0PcLpuKMkdy3hiG0rOJKll"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101407,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/5qwuP7ijQePKsUl8zSJUBD"
+    },
+    {
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 142840,
+      "name": "Outta My Mind",
+      "url": "https://open.spotify.com/track/4m6v9P3ZolPYizuYmYo3ym"
+    },
+    {
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78733,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 141172,
+      "name": "Prisoners Song",
+      "url": "https://open.spotify.com/track/74iLBeNOAZAwgmTe2O9nCd"
+    },
+    {
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/6tlRgNME7ULlY5OcvRdgYn"
+    },
+    {
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 141866,
+      "name": "Rats In The Hallway",
+      "url": "https://open.spotify.com/track/4xjmfrqmUWgLSoaRA78qs3"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216001,
+      "name": "Red Hot Moon",
+      "url": "https://open.spotify.com/track/3a0PmAzfzQfCZFGWkqQ2vi"
+    },
+    {
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 132466,
+      "name": "Rejected",
+      "url": "https://open.spotify.com/track/4XFsQiQbTZ9h8IlMDf8jTE"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 167506,
+      "name": "Roots Radical",
+      "url": "https://open.spotify.com/track/0LWkdUtorgGHr1bwT2C6tY"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167653,
+      "name": "Roots Radical",
+      "url": "https://open.spotify.com/track/3KXzazIiJfhSO8LrKmWVAR"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 157533,
+      "name": "Ruby Soho",
+      "url": "https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "Ruby Soho",
+      "url": "https://open.spotify.com/track/0vfhk1lH3zYesFN1x7vV46"
+    },
+    {
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173103,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH"
+    },
+    {
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121029,
+      "name": "Side Kick",
+      "url": "https://open.spotify.com/track/3tNYGRRCSU9wot9lXdX8Rh"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 202843,
+      "name": "Spirit of '87",
+      "url": "https://open.spotify.com/track/11LLAA8ur0h06BjAJmG4zl"
+    },
+    {
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129400,
+      "name": "St. Mary",
+      "url": "https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 185754,
+      "name": "Start Now",
+      "url": "https://open.spotify.com/track/1Ts1FH12LbJC2vw6zBd5p4"
+    },
+    {
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Telegraph Avenue",
+      "url": "https://open.spotify.com/track/3TtDUP3ijbAmWLmDAyrBe1"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 134827,
+      "name": "The Bloody & Violent History",
+      "url": "https://open.spotify.com/track/38SpJMkfu3f7YGA13tyuUm"
+    },
+    {
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-12",
+      "duration_ms": 158893,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/0rwQS0EU9Gg5EuA5d9Q5mm"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 144333,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144585,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/0CLKz1aW13bGfrNhqOmA7r"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
+      "duration_ms": 145367,
+      "name": "Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/1c985Seh2T4z0pUh2XZTgs"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145367,
+      "name": "Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83"
+    },
+    {
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58333,
+      "name": "Track Fast",
+      "url": "https://open.spotify.com/track/7yFYeo1l8wU6LEolRPS6wg"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Tropical London",
+      "url": "https://open.spotify.com/track/02wrYv8k1VgsZI0WD1xh7r"
+    },
+    {
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160360,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
+    },
+    {
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143546,
+      "name": "Where I'm Going",
+      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
+    },
+    {
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 176733,
+      "name": "Who Would've Thought",
+      "url": "https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj"
+    },
+    {
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96680,
+      "name": "You Want It, You Got It",
+      "url": "https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj"
+    },
+    {
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 112066,
+      "name": "Young Al Capone",
+      "url": "https://open.spotify.com/track/4oGvryWnZ0Q3ZG2Cb6cOfx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RKLw4"
 }

@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": null,
       "duration_ms": 241215,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/2EpO1NIjQl9ICdA27YMKRH"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 190522,
       "name": "Jacarandosa",
       "url": "https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi"
@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/16UZsarVMKLb5zvLd17S5a"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "Zapatos De Bailador",
+      "url": "https://open.spotify.com/track/4rmIfxQJ9Wcov4EgNsVFfR"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
       },
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 169433,
       "name": "Zapatos De Bailador",
       "url": "https://open.spotify.com/track/35UoR8RpKtdvI2TUFVeKmU"

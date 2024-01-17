@@ -1,735 +1,1183 @@
 {
-  "2021-12-25": 95021,
-  "2021-12-26": 95048,
-  "2021-12-27": 95091,
-  "2021-12-28": 95091,
-  "2021-12-29": 95109,
-  "2021-12-30": 95147,
-  "2021-12-31": 95176,
-  "2022-01-01": 95233,
-  "2022-01-02": 95255,
-  "2022-01-03": 95281,
-  "2022-01-04": 95329,
-  "2022-01-05": 95356,
-  "2022-01-06": 95378,
-  "2022-01-07": 95405,
-  "2022-01-08": 95446,
-  "2022-01-09": 95448,
-  "2022-01-10": 95491,
-  "2022-01-11": 95515,
-  "2022-01-12": 95544,
-  "2022-01-13": 95583,
-  "2022-01-14": 95617,
-  "2022-01-15": 95669,
-  "2022-01-16": 95672,
-  "2022-01-17": 95751,
-  "2022-01-18": 95757,
-  "2022-01-19": 95777,
-  "2022-01-20": 95794,
-  "2022-01-21": 95832,
-  "2022-01-22": 95864,
-  "2022-01-23": 95912,
-  "2022-01-24": 95950,
-  "2022-01-25": 95973,
-  "2022-01-26": 95994,
-  "2022-01-27": 96029,
-  "2022-01-28": 96064,
-  "2022-01-29": 96090,
-  "2022-01-30": 96125,
-  "2022-01-31": 96148,
-  "2022-02-01": 96171,
-  "2022-02-02": 96200,
-  "2022-02-03": 96207,
-  "2022-02-04": 96231,
-  "2022-02-05": 96260,
-  "2022-02-06": 96297,
-  "2022-02-07": 96311,
-  "2022-02-08": 96351,
-  "2022-02-09": 96372,
-  "2022-02-10": 96391,
-  "2022-02-11": 96412,
-  "2022-02-12": 96437,
-  "2022-02-13": 96480,
-  "2022-02-14": 96503,
-  "2022-02-15": 96522,
-  "2022-02-16": 96550,
-  "2022-02-17": 96583,
-  "2022-02-18": 96585,
-  "2022-02-19": 96607,
-  "2022-02-20": 96635,
-  "2022-02-21": 96650,
-  "2022-02-22": 96671,
-  "2022-02-23": 96706,
-  "2022-02-24": 96748,
-  "2022-02-25": 96786,
-  "2022-02-26": 96822,
-  "2022-02-27": 96890,
-  "2022-02-28": 96890,
-  "2022-03-01": 96916,
-  "2022-03-02": 96949,
-  "2022-03-03": 96992,
-  "2022-03-04": 97015,
-  "2022-03-05": 97054,
-  "2022-03-06": 97094,
-  "2022-03-07": 97117,
-  "2022-03-08": 97127,
-  "2022-03-09": 97144,
-  "2022-03-10": 97178,
-  "2022-03-11": 97215,
-  "2022-03-12": 97250,
-  "2022-03-13": 97280,
-  "2022-03-14": 97305,
-  "2022-03-15": 97331,
-  "2022-03-16": 97361,
-  "2022-03-17": 97396,
-  "2022-03-18": 97437,
-  "2022-03-19": 97461,
-  "2022-03-20": 97461,
-  "2022-03-21": 97524,
-  "2022-03-22": 97554,
-  "2022-03-23": 97589,
-  "2022-03-24": 97606,
-  "2022-03-25": 97640,
-  "2022-03-26": 97674,
-  "2022-03-27": 97701,
-  "2022-03-28": 97717,
-  "2022-03-30": 97781,
-  "2022-03-31": 97873,
-  "2022-04-01": 97913,
-  "2022-04-02": 97939,
-  "2022-04-03": 97952,
-  "2022-04-04": 97957,
-  "2022-04-05": 97975,
-  "2022-04-06": 97980,
-  "2022-04-07": 97980,
-  "2022-04-08": 97987,
-  "2022-04-09": 97992,
-  "2022-04-10": 98000,
-  "2022-04-11": 98006,
-  "2022-04-12": 98005,
-  "2022-04-13": 98007,
-  "2022-04-14": 98013,
-  "2022-04-15": 98007,
-  "2022-04-16": 98015,
-  "2022-04-17": 98015,
-  "2022-04-18": 98013,
-  "2022-04-19": 98015,
-  "2022-04-20": 98010,
-  "2022-04-21": 98017,
-  "2022-04-22": 98013,
-  "2022-04-23": 98015,
-  "2022-04-24": 98020,
-  "2022-04-25": 98041,
-  "2022-04-26": 98057,
-  "2022-04-27": 98073,
-  "2022-04-28": 98092,
-  "2022-04-29": 98147,
-  "2022-04-30": 98168,
-  "2022-05-01": 98186,
-  "2022-05-02": 98186,
-  "2022-05-03": 98210,
-  "2022-05-04": 98217,
-  "2022-05-05": 98253,
-  "2022-05-06": 98277,
-  "2022-05-07": 98308,
-  "2022-05-08": 98348,
-  "2022-05-09": 98355,
-  "2022-05-10": 98377,
-  "2022-05-11": 98402,
-  "2022-05-12": 98416,
-  "2022-05-13": 98445,
-  "2022-05-14": 98470,
-  "2022-05-15": 98488,
-  "2022-05-16": 98515,
-  "2022-05-17": 98538,
-  "2022-05-18": 98576,
-  "2022-05-19": 98602,
-  "2022-05-20": 98632,
-  "2022-05-21": 98659,
-  "2022-05-22": 98659,
-  "2022-05-23": 98692,
-  "2022-05-24": 98713,
-  "2022-05-25": 98745,
-  "2022-05-26": 98771,
-  "2022-05-27": 98797,
-  "2022-05-28": 98823,
-  "2022-05-29": 98866,
-  "2022-05-30": 98882,
-  "2022-05-31": 98899,
-  "2022-06-01": 98954,
-  "2022-06-02": 98960,
-  "2022-06-03": 98989,
-  "2022-06-04": 99002,
-  "2022-06-05": 99029,
-  "2022-06-06": 99050,
-  "2022-06-07": 99061,
-  "2022-06-08": 99087,
-  "2022-06-09": 99100,
-  "2022-06-10": 99121,
-  "2022-06-11": 99138,
-  "2022-06-12": 99153,
-  "2022-06-13": 99172,
-  "2022-06-14": 99198,
-  "2022-06-15": 99216,
-  "2022-06-16": 99238,
-  "2022-06-17": 99266,
-  "2022-06-18": 99281,
-  "2022-06-19": 99303,
-  "2022-06-20": 99303,
-  "2022-06-21": 99334,
-  "2022-06-22": 99380,
-  "2022-06-23": 99380,
-  "2022-06-24": 99392,
-  "2022-06-25": 99416,
-  "2022-06-26": 99410,
-  "2022-06-27": 99450,
-  "2022-06-28": 99468,
-  "2022-06-29": 99493,
-  "2022-06-30": 99513,
-  "2022-07-01": 99531,
-  "2022-07-02": 99549,
-  "2022-07-03": 99558,
-  "2022-07-04": 99583,
-  "2022-07-05": 99595,
-  "2022-07-06": 99620,
-  "2022-07-07": 99637,
-  "2022-07-08": 99657,
-  "2022-07-09": 99675,
-  "2022-07-10": 99697,
-  "2022-07-11": 99720,
-  "2022-07-12": 99743,
-  "2022-07-13": 99758,
-  "2022-07-14": 99772,
-  "2022-07-15": 99790,
-  "2022-07-16": 99814,
-  "2022-07-17": 99844,
-  "2022-07-18": 99862,
-  "2022-07-19": 99883,
-  "2022-07-20": 99893,
-  "2022-07-21": 99902,
-  "2022-07-22": 99928,
-  "2022-07-23": 99952,
-  "2022-07-24": 99967,
-  "2022-07-25": 99978,
-  "2022-07-26": 99999,
-  "2022-07-27": 100029,
-  "2022-07-28": 100050,
-  "2022-07-29": 100061,
-  "2022-07-30": 100109,
-  "2022-07-31": 100109,
-  "2022-08-01": 100134,
-  "2022-08-02": 100176,
-  "2022-08-03": 100176,
-  "2022-08-04": 100196,
-  "2022-08-05": 100227,
-  "2022-08-06": 100248,
-  "2022-08-07": 100260,
-  "2022-08-08": 100279,
-  "2022-08-09": 100297,
-  "2022-08-10": 100329,
-  "2022-08-11": 100358,
-  "2022-08-12": 100376,
-  "2022-08-13": 100404,
-  "2022-08-14": 100435,
-  "2022-08-15": 100461,
-  "2022-08-16": 100472,
-  "2022-08-17": 100506,
-  "2022-08-18": 100539,
-  "2022-08-19": 100550,
-  "2022-08-20": 100590,
-  "2022-08-21": 100623,
-  "2022-08-22": 100647,
-  "2022-08-23": 100660,
-  "2022-08-24": 100686,
-  "2022-08-25": 100710,
-  "2022-08-26": 100746,
-  "2022-08-27": 100774,
-  "2022-08-28": 100800,
-  "2022-08-29": 100833,
-  "2022-08-30": 100852,
-  "2022-08-31": 100877,
-  "2022-09-01": 100897,
-  "2022-09-02": 100930,
-  "2022-09-03": 100949,
-  "2022-09-04": 100960,
-  "2022-09-05": 100978,
-  "2022-09-06": 101018,
-  "2022-09-07": 101029,
-  "2022-09-09": 101068,
-  "2022-09-10": 101097,
-  "2022-09-11": 101134,
-  "2022-09-12": 101166,
-  "2022-09-13": 101193,
-  "2022-09-15": 101235,
-  "2022-09-16": 101262,
-  "2022-09-17": 101271,
-  "2022-09-18": 101300,
-  "2022-09-19": 101322,
-  "2022-09-20": 101347,
-  "2022-09-21": 101367,
-  "2022-09-22": 101393,
-  "2022-09-23": 101422,
-  "2022-09-24": 101462,
-  "2022-09-25": 101508,
-  "2022-09-26": 101539,
-  "2022-09-27": 101580,
-  "2022-09-28": 101616,
-  "2022-09-29": 101639,
-  "2022-09-30": 101681,
-  "2022-10-01": 101706,
-  "2022-10-02": 101747,
-  "2022-10-03": 101773,
-  "2022-10-04": 101809,
-  "2022-10-05": 101846,
-  "2022-10-06": 101874,
-  "2022-10-07": 101912,
-  "2022-10-08": 101958,
-  "2022-10-09": 102040,
-  "2022-10-10": 102053,
-  "2022-10-11": 102103,
-  "2022-10-12": 102156,
-  "2022-10-13": 102190,
-  "2022-10-14": 102252,
-  "2022-10-15": 102304,
-  "2022-10-16": 102348,
-  "2022-10-17": 102380,
-  "2022-10-18": 102433,
-  "2022-10-19": 102487,
-  "2022-10-20": 102553,
-  "2022-10-21": 102601,
-  "2022-10-22": 102637,
-  "2022-10-23": 102670,
-  "2022-10-24": 102714,
-  "2022-10-25": 102761,
-  "2022-10-26": 102806,
-  "2022-10-27": 102865,
-  "2022-10-28": 102904,
-  "2022-10-29": 102941,
-  "2022-10-30": 103011,
-  "2022-10-31": 103055,
-  "2022-11-01": 103111,
-  "2022-11-02": 103158,
-  "2022-11-03": 103210,
-  "2022-11-04": 103258,
-  "2022-11-05": 103303,
-  "2022-11-06": 103363,
-  "2022-11-07": 103428,
-  "2022-11-08": 103488,
-  "2022-11-09": 103550,
-  "2022-11-10": 103604,
-  "2022-11-11": 103661,
-  "2022-11-12": 103735,
-  "2022-11-13": 103787,
-  "2022-11-14": 103825,
-  "2022-11-15": 103862,
-  "2022-11-16": 103895,
-  "2022-11-17": 103959,
-  "2022-11-18": 103983,
-  "2022-11-19": 103962,
-  "2022-11-20": 103981,
-  "2022-11-21": 104052,
-  "2022-11-22": 104180,
-  "2022-11-23": 104162,
-  "2022-11-24": 104252,
-  "2022-11-25": 104355,
-  "2022-11-26": 104426,
-  "2022-11-27": 104482,
-  "2022-11-28": 104520,
-  "2022-11-29": 104562,
-  "2022-11-30": 104615,
-  "2022-12-01": 104666,
-  "2022-12-02": 104717,
-  "2022-12-03": 104767,
-  "2022-12-04": 104807,
-  "2022-12-05": 104851,
-  "2022-12-06": 104890,
-  "2022-12-07": 104930,
-  "2022-12-08": 104987,
-  "2022-12-09": 105051,
-  "2022-12-10": 105116,
-  "2022-12-11": 105174,
-  "2022-12-12": 105242,
-  "2022-12-13": 105296,
-  "2022-12-14": 105352,
-  "2022-12-15": 105389,
-  "2022-12-16": 105415,
-  "2022-12-17": 105474,
-  "2022-12-18": 105524,
-  "2022-12-19": 105564,
-  "2022-12-20": 105651,
-  "2022-12-21": 105651,
-  "2022-12-22": 105684,
-  "2022-12-24": 105767,
-  "2022-12-25": 105790,
-  "2022-12-26": 105811,
-  "2022-12-27": 105841,
-  "2022-12-28": 105886,
-  "2022-12-29": 105915,
-  "2022-12-30": 105962,
-  "2022-12-31": 106006,
-  "2023-01-01": 106076,
-  "2023-01-02": 106116,
-  "2023-01-03": 106171,
-  "2023-01-04": 106216,
-  "2023-01-05": 106246,
-  "2023-01-06": 106313,
-  "2023-01-07": 106401,
-  "2023-01-08": 106417,
-  "2023-01-09": 106465,
-  "2023-01-10": 106513,
-  "2023-01-11": 106562,
-  "2023-01-12": 106627,
-  "2023-01-13": 106686,
-  "2023-01-14": 106779,
-  "2023-01-15": 106798,
-  "2023-01-16": 106871,
-  "2023-01-17": 106928,
-  "2023-01-18": 106993,
-  "2023-01-19": 107063,
-  "2023-01-20": 107143,
-  "2023-01-21": 107198,
-  "2023-01-22": 107275,
-  "2023-01-23": 107334,
-  "2023-01-24": 107376,
-  "2023-01-25": 107417,
-  "2023-01-26": 107475,
-  "2023-01-27": 107520,
-  "2023-01-28": 107562,
-  "2023-01-29": 107620,
-  "2023-01-30": 107660,
-  "2023-01-31": 107660,
-  "2023-02-01": 107742,
-  "2023-02-02": 107789,
-  "2023-02-03": 107823,
-  "2023-02-04": 107855,
-  "2023-02-05": 107906,
-  "2023-02-06": 107951,
-  "2023-02-07": 107992,
-  "2023-02-08": 108073,
-  "2023-02-09": 108073,
-  "2023-02-10": 108128,
-  "2023-02-11": 108178,
-  "2023-02-12": 108278,
-  "2023-02-13": 108319,
-  "2023-02-14": 108319,
-  "2023-02-15": 108372,
-  "2023-02-16": 108417,
-  "2023-02-17": 108484,
-  "2023-02-18": 108572,
-  "2023-02-19": 108585,
-  "2023-02-20": 108620,
-  "2023-02-21": 108673,
-  "2023-02-22": 108716,
-  "2023-02-23": 108754,
-  "2023-02-24": 108817,
-  "2023-02-25": 108887,
-  "2023-02-26": 108929,
-  "2023-02-27": 109045,
-  "2023-02-28": 109045,
-  "2023-03-01": 109110,
-  "2023-03-02": 109153,
-  "2023-03-03": 109182,
-  "2023-03-04": 109215,
-  "2023-03-05": 109290,
-  "2023-03-06": 109290,
-  "2023-03-07": 109335,
-  "2023-03-08": 109372,
-  "2023-03-09": 109395,
-  "2023-03-10": 109437,
-  "2023-03-11": 109486,
-  "2023-03-12": 109538,
-  "2023-03-13": 109587,
-  "2023-03-14": 109629,
-  "2023-03-15": 109678,
-  "2023-03-16": 109727,
-  "2023-03-17": 109727,
-  "2023-03-18": 109786,
-  "2023-03-19": 109826,
-  "2023-03-20": 109860,
-  "2023-03-21": 109900,
-  "2023-03-22": 109925,
-  "2023-03-23": 109953,
-  "2023-03-24": 109953,
-  "2023-03-25": 110017,
-  "2023-03-26": 110057,
-  "2023-03-27": 110092,
-  "2023-03-28": 110133,
-  "2023-03-29": 110173,
-  "2023-03-30": 110244,
-  "2023-03-31": 110244,
-  "2023-04-01": 110269,
-  "2023-04-02": 110304,
-  "2023-04-03": 110352,
-  "2023-04-04": 110386,
-  "2023-04-05": 110419,
-  "2023-04-06": 110458,
-  "2023-04-07": 110494,
-  "2023-04-09": 110561,
-  "2023-04-10": 110593,
-  "2023-04-11": 110666,
-  "2023-04-12": 110666,
-  "2023-04-13": 110700,
-  "2023-04-14": 110729,
-  "2023-04-15": 110776,
-  "2023-04-16": 110808,
-  "2023-04-17": 110846,
-  "2023-04-18": 110877,
-  "2023-04-19": 110905,
-  "2023-04-20": 110943,
-  "2023-04-21": 110985,
-  "2023-04-22": 111023,
-  "2023-04-23": 111068,
-  "2023-04-24": 111114,
-  "2023-04-25": 111144,
-  "2023-04-26": 111162,
-  "2023-04-27": 111206,
-  "2023-04-28": 111247,
-  "2023-04-29": 111301,
-  "2023-04-30": 111374,
-  "2023-05-01": 111422,
-  "2023-05-02": 111455,
-  "2023-05-03": 111489,
-  "2023-05-04": 111525,
-  "2023-05-05": 111554,
-  "2023-05-06": 111593,
-  "2023-05-07": 111632,
-  "2023-05-08": 111677,
-  "2023-05-09": 111715,
-  "2023-05-10": 111754,
-  "2023-05-11": 111785,
-  "2023-05-12": 111820,
-  "2023-05-13": 111852,
-  "2023-05-14": 111897,
-  "2023-05-15": 111931,
-  "2023-05-16": 111948,
-  "2023-05-17": 111976,
-  "2023-05-18": 112011,
-  "2023-05-19": 112045,
-  "2023-05-20": 112118,
-  "2023-05-21": 112118,
-  "2023-05-22": 112118,
-  "2023-05-23": 112185,
-  "2023-05-24": 112236,
-  "2023-05-25": 112247,
-  "2023-05-26": 112277,
-  "2023-05-27": 112315,
-  "2023-05-28": 112348,
-  "2023-05-29": 112348,
-  "2023-05-30": 112425,
-  "2023-05-31": 112463,
-  "2023-06-01": 112506,
-  "2023-06-02": 112537,
-  "2023-06-03": 112575,
-  "2023-06-04": 112618,
-  "2023-06-05": 112650,
-  "2023-06-06": 112681,
-  "2023-06-07": 112712,
-  "2023-06-08": 112748,
-  "2023-06-09": 112781,
-  "2023-06-10": 112813,
-  "2023-06-11": 112856,
-  "2023-06-12": 112883,
-  "2023-06-13": 112933,
-  "2023-06-14": 112960,
-  "2023-06-15": 112996,
-  "2023-06-16": 113034,
-  "2023-06-17": 113052,
-  "2023-06-18": 113078,
-  "2023-06-19": 113083,
-  "2023-06-20": 113102,
-  "2023-06-21": 113127,
-  "2023-06-22": 113170,
-  "2023-06-23": 113210,
-  "2023-06-24": 113247,
-  "2023-06-25": 113281,
-  "2023-06-26": 113316,
-  "2023-06-27": 113348,
-  "2023-06-28": 113389,
-  "2023-06-29": 113415,
-  "2023-06-30": 113450,
-  "2023-07-01": 113526,
-  "2023-07-02": 113526,
-  "2023-07-03": 113570,
-  "2023-07-04": 113606,
-  "2023-07-05": 113640,
-  "2023-07-06": 113705,
-  "2023-07-07": 113705,
-  "2023-07-08": 113764,
-  "2023-07-09": 113782,
-  "2023-07-10": 113818,
-  "2023-07-11": 113854,
-  "2023-07-12": 113878,
-  "2023-07-13": 113917,
-  "2023-07-14": 113955,
-  "2023-07-15": 113973,
-  "2023-07-16": 114009,
-  "2023-07-17": 114043,
-  "2023-07-18": 114077,
-  "2023-07-19": 114111,
-  "2023-07-20": 114147,
-  "2023-07-21": 114186,
-  "2023-07-22": 114240,
-  "2023-07-23": 114273,
-  "2023-07-24": 114306,
-  "2023-07-25": 114342,
-  "2023-07-26": 114379,
-  "2023-07-27": 114417,
-  "2023-07-28": 114448,
-  "2023-07-29": 114498,
-  "2023-07-30": 114539,
-  "2023-07-31": 114577,
-  "2023-08-01": 114610,
-  "2023-08-02": 114659,
-  "2023-08-03": 114692,
-  "2023-08-04": 114720,
-  "2023-08-05": 114755,
-  "2023-08-06": 114815,
-  "2023-08-07": 114815,
-  "2023-08-08": 114842,
-  "2023-08-09": 114856,
-  "2023-08-10": 114896,
-  "2023-08-11": 114932,
-  "2023-08-12": 114968,
-  "2023-08-13": 115025,
-  "2023-08-14": 115064,
-  "2023-08-15": 115132,
-  "2023-08-16": 115132,
-  "2023-08-17": 115176,
-  "2023-08-18": 115196,
-  "2023-08-19": 115228,
-  "2023-08-20": 115266,
-  "2023-08-21": 115307,
-  "2023-08-22": 115342,
-  "2023-08-23": 115368,
-  "2023-08-24": 115396,
-  "2023-08-25": 115439,
-  "2023-08-26": 115480,
-  "2023-08-27": 115515,
-  "2023-08-28": 115565,
-  "2023-08-29": 115589,
-  "2023-08-30": 115621,
-  "2023-08-31": 115661,
-  "2023-09-01": 115749,
-  "2023-09-02": 115749,
-  "2023-09-03": 115792,
-  "2023-09-04": 115852,
-  "2023-09-05": 115909,
-  "2023-09-06": 115972,
-  "2023-09-07": 116032,
-  "2023-09-08": 116121,
-  "2023-09-09": 116193,
-  "2023-09-10": 116268,
-  "2023-09-11": 116327,
-  "2023-09-12": 116384,
-  "2023-09-13": 116456,
-  "2023-09-14": 116507,
-  "2023-09-15": 116558,
-  "2023-09-16": 116632,
-  "2023-09-17": 116688,
-  "2023-09-18": 116753,
-  "2023-09-19": 116812,
-  "2023-09-20": 116874,
-  "2023-09-21": 116937,
-  "2023-09-22": 117009,
-  "2023-09-23": 117066,
-  "2023-09-24": 117139,
-  "2023-09-25": 117203,
-  "2023-09-26": 117272,
-  "2023-09-27": 117342,
-  "2023-09-28": 117396,
-  "2023-09-29": 117446,
-  "2023-09-30": 117507,
-  "2023-10-01": 117575,
-  "2023-10-02": 117658,
-  "2023-10-03": 117740,
-  "2023-10-04": 117794,
-  "2023-10-05": 117850,
-  "2023-10-06": 117913,
-  "2023-10-07": 117980,
-  "2023-10-08": 118050,
-  "2023-10-09": 118127,
-  "2023-10-10": 118162,
-  "2023-10-11": 118242,
-  "2023-10-12": 118242,
-  "2023-10-13": 118290,
-  "2023-10-14": 118351,
-  "2023-10-15": 118415,
-  "2023-10-16": 118481,
-  "2023-10-17": 118538,
-  "2023-10-18": 118601,
-  "2023-10-19": 118660,
-  "2023-10-20": 118736,
-  "2023-10-21": 118797,
-  "2023-10-22": 118873,
-  "2023-10-23": 118939,
-  "2023-10-24": 118995,
-  "2023-10-25": 119046,
-  "2023-10-26": 119092,
-  "2023-10-27": 119155,
-  "2023-10-28": 119209,
-  "2023-10-29": 119268,
-  "2023-10-30": 119357,
-  "2023-10-31": 119357,
-  "2023-11-01": 119401,
-  "2023-11-02": 119448,
-  "2023-11-03": 119506,
-  "2023-11-04": 119561,
-  "2023-11-05": 119584,
-  "2023-11-06": 119639,
-  "2023-11-07": 119677,
-  "2023-11-08": 119723,
-  "2023-11-09": 119759,
-  "2023-11-10": 119821,
-  "2023-11-11": 119857,
-  "2023-11-12": 119899,
-  "2023-11-13": 119927,
-  "2023-11-14": 119964,
-  "2023-11-15": 119964,
-  "2023-11-16": 120033,
-  "2023-11-17": 120100,
-  "2023-11-18": 120100,
-  "2023-11-19": 120134,
-  "2023-11-20": 120185,
-  "2023-11-21": 120231,
-  "2023-11-22": 120279,
-  "2023-11-23": 120316,
-  "2023-11-24": 120351,
-  "2023-11-25": 120392,
-  "2023-11-26": 120433,
-  "2023-11-27": 120472,
-  "2023-11-28": 120497,
-  "2023-11-29": 120566,
-  "2023-11-30": 120566,
-  "2023-12-01": 120611,
-  "2023-12-02": 120636,
-  "2023-12-03": 120666,
-  "2023-12-04": 120710,
-  "2023-12-05": 120754,
-  "2023-12-06": 120785,
-  "2023-12-07": 120824,
-  "2023-12-08": 120851,
-  "2023-12-09": 120883,
-  "2023-12-10": 120895,
-  "2023-12-11": 120924,
-  "2023-12-12": 120942,
-  "2023-12-13": 120949,
-  "2023-12-14": 120969,
-  "2023-12-15": 120978,
-  "2023-12-16": 121003,
-  "2023-12-17": 121023,
-  "2023-12-18": 121036,
-  "2023-12-19": 121042,
-  "2023-12-20": 121053,
-  "2023-12-21": 121075,
-  "2023-12-22": 121084,
-  "2023-12-23": 121096,
-  "2023-12-24": 121117,
-  "2023-12-25": 121130,
-  "2023-12-26": 121148,
-  "2023-12-27": 121158,
-  "2023-12-30": 121197,
-  "2023-12-31": 121212,
-  "2024-01-01": 121243,
-  "2024-01-02": 121253,
-  "2024-01-03": 121274
+  "2024-01-17": 121423,
+  "date_first_scraped": "2021-12-21",
+  "description": "It\u2019s a swing thing.",
+  "name": "Swing Revival",
+  "tracks": [
+    {
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/7tuadIRZpGHMY09YcdyNmk"
+      },
+      "artists": [
+        {
+          "name": "Blue Harlem",
+          "url": "https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "5-10-15 Hours",
+      "url": "https://open.spotify.com/track/6s7xYIfyIZSYXUUwqmSkXO"
+    },
+    {
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/45tB7rhIUAFKLMbKIkYBPX"
+      },
+      "artists": [
+        {
+          "name": "Blue Harlem",
+          "url": "https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197373,
+      "name": "5-10-15 Hours",
+      "url": "https://open.spotify.com/track/7LadryxoGuqpQwdpV4my4E"
+    },
+    {
+      "album": {
+        "name": "Shake Those Hula Hips!",
+        "url": "https://open.spotify.com/album/3y7gQh1B6UZrBO6CGIxuDd"
+      },
+      "artists": [
+        {
+          "name": "Big Kahuna and the Copa Cat Pack",
+          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213160,
+      "name": "Ain't No Big Thing",
+      "url": "https://open.spotify.com/track/5FIuy1qgSfOENMDKHjsAsb"
+    },
+    {
+      "album": {
+        "name": "Shake Those Hula Hips!",
+        "url": "https://open.spotify.com/album/4x4yzQz1JaGpPwFT2lun72"
+      },
+      "artists": [
+        {
+          "name": "Big Kahuna and the Copa Cat Pack",
+          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213160,
+      "name": "Ain't No Big Thing",
+      "url": "https://open.spotify.com/track/7bYSJmk3fNGQeyB0ZttnFn"
+    },
+    {
+      "album": {
+        "name": "Mugzy's Move",
+        "url": "https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm"
+      },
+      "artists": [
+        {
+          "name": "Royal Crown Revue",
+          "url": "https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181653,
+      "name": "Barflies at the Beach",
+      "url": "https://open.spotify.com/track/5etDbpznJN71iUKaXUkwf3"
+    },
+    {
+      "album": {
+        "name": "Zoot Suit Riot",
+        "url": "https://open.spotify.com/album/2iVgBMU6oDxmtIljVmJwkz"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
+      "duration_ms": 179828,
+      "name": "Brown Derby Jump",
+      "url": "https://open.spotify.com/track/5SEiTOjPOmNHDAyv6dfkDT"
+    },
+    {
+      "album": {
+        "name": "prozac nation",
+        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
+      },
+      "artists": [
+        {
+          "name": "Bellevue Cadillac",
+          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 292440,
+      "name": "call of the wild",
+      "url": "https://open.spotify.com/track/299YvkbX55T4sUR6KKjfCd"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Swing",
+        "url": "https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj"
+      },
+      "artists": [
+        {
+          "name": "Big Kahuna and the Copa Cat Pack",
+          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130160,
+      "name": "Come On-A-My House",
+      "url": "https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe"
+    },
+    {
+      "album": {
+        "name": "The Romper Room",
+        "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
+      },
+      "artists": [
+        {
+          "name": "Eight To The Bar",
+          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208493,
+      "name": "Dirty Dog",
+      "url": "https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli"
+    },
+    {
+      "album": {
+        "name": "Come Out Swingin'",
+        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
+      },
+      "artists": [
+        {
+          "name": "Steve Lucky & The Rhumba Bums",
+          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250840,
+      "name": "Do The Pup",
+      "url": "https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4"
+    },
+    {
+      "album": {
+        "name": "Everybody's Talkin' Bout Miss Thing!",
+        "url": "https://open.spotify.com/album/1dwJAx7zBEoBpR0UiVzSJ9"
+      },
+      "artists": [
+        {
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Everybody's Talkin' Bout Miss Thing!",
+      "url": "https://open.spotify.com/track/7wBss3MP3jfqAwPMT3L75S"
+    },
+    {
+      "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
+      "duration_ms": 192893,
+      "name": "Go Daddy O",
+      "url": "https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H"
+    },
+    {
+      "album": {
+        "name": "Hot (Remastered / 20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Nut Zippers",
+          "url": "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150906,
+      "name": "Got My Own Thing Now - Remastered 2016",
+      "url": "https://open.spotify.com/track/1guXZjrIm5XkzdWM2OAk7p"
+    },
+    {
+      "album": {
+        "name": "Hot (Remastered / 20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Nut Zippers",
+          "url": "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Hell - Remastered 2016",
+      "url": "https://open.spotify.com/track/4efAv86uRxR4yQBcb3Vczq"
+    },
+    {
+      "album": {
+        "name": "Mugzy's Move",
+        "url": "https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm"
+      },
+      "artists": [
+        {
+          "name": "Royal Crown Revue",
+          "url": "https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214106,
+      "name": "Hey Pachuco!",
+      "url": "https://open.spotify.com/track/1z1m5WqzxzjRy4VGJMK2ft"
+    },
+    {
+      "album": {
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw"
+      },
+      "artists": [
+        {
+          "name": "Big Sandy",
+          "url": "https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135146,
+      "name": "Hey Se\u00f1orita",
+      "url": "https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l"
+    },
+    {
+      "album": {
+        "name": "Everybody's Talkin' 'Bout Miss Thing!",
+        "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
+      },
+      "artists": [
+        {
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Honey Pie",
+      "url": "https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh"
+    },
+    {
+      "album": {
+        "name": "I Dare You!",
+        "url": "https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2"
+      },
+      "artists": [
+        {
+          "name": "Blue Harlem",
+          "url": "https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179453,
+      "name": "I Dare You Baby",
+      "url": "https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw"
+    },
+    {
+      "album": {
+        "name": "The Dirty Boogie",
+        "url": "https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4"
+      },
+      "artists": [
+        {
+          "name": "The Brian Setzer Orchestra",
+          "url": "https://open.spotify.com/artist/7HQH1SJokcVMdstilKJ2S8"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Jump Jive An' Wail",
+      "url": "https://open.spotify.com/track/7FuRjlwyTY9uTAUgGpZtJU"
+    },
+    {
+      "album": {
+        "name": "Come Out Swingin'",
+        "url": "https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g"
+      },
+      "artists": [
+        {
+          "name": "Steve Lucky & The Rhumba Bums",
+          "url": "https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280493,
+      "name": "Jumptown",
+      "url": "https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb"
+    },
+    {
+      "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298600,
+      "name": "King Of Swing",
+      "url": "https://open.spotify.com/track/7gfvRgIRok1ceh4QmTbBk9"
+    },
+    {
+      "album": {
+        "name": "Mortyfied!",
+        "url": "https://open.spotify.com/album/3xsxAd9Nkl5uBw3qZe0A5e"
+      },
+      "artists": [
+        {
+          "name": "Morty Okin",
+          "url": "https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6"
+        },
+        {
+          "name": "Vise Grip",
+          "url": "https://open.spotify.com/artist/5vdxG8lIVgeuQAooxpcRPN"
+        },
+        {
+          "name": "Connie Champagne",
+          "url": "https://open.spotify.com/artist/70QwxuyNp0LtvRDWaQoRF1"
+        },
+        {
+          "name": "David Murotake",
+          "url": "https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0"
+        },
+        {
+          "name": "David Rubin",
+          "url": "https://open.spotify.com/artist/1xWWglzQnxLVVPNGgUgJSa"
+        },
+        {
+          "name": "John Quam",
+          "url": "https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E"
+        },
+        {
+          "name": "Tom Beyer",
+          "url": "https://open.spotify.com/artist/36PVk81h0GlEbiG3ABwafM"
+        },
+        {
+          "name": "Tom Griesser",
+          "url": "https://open.spotify.com/artist/4MFYRlA6OSe6jWYscM6VSF"
+        },
+        {
+          "name": "Van Hughes",
+          "url": "https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3"
+        },
+        {
+          "name": "Whitney Wilson",
+          "url": "https://open.spotify.com/artist/6OD4sZsyjT7T7PW3ZynaM7"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Knockin' At Your Door",
+      "url": "https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M"
+    },
+    {
+      "album": {
+        "name": "Rigormorty",
+        "url": "https://open.spotify.com/album/3nqKqVYdRaQyB2qd1kWTAk"
+      },
+      "artists": [
+        {
+          "name": "The New Morty Show",
+          "url": "https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r"
+        },
+        {
+          "name": "Brian Fishler",
+          "url": "https://open.spotify.com/artist/5fxyIuzJ5vK7Zx81wjdMcL"
+        },
+        {
+          "name": "Cynthia Lewis",
+          "url": "https://open.spotify.com/artist/0FJZBCtDYUDl0mYzgmWgYh"
+        },
+        {
+          "name": "Jeff Whipp",
+          "url": "https://open.spotify.com/artist/66RFLzdKcDlXlSxmff7BvA"
+        },
+        {
+          "name": "John Quam",
+          "url": "https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E"
+        },
+        {
+          "name": "Morty Okin",
+          "url": "https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6"
+        },
+        {
+          "name": "Robert Castillo",
+          "url": "https://open.spotify.com/artist/1KurYRB7eBuZFscPXhW3df"
+        },
+        {
+          "name": "Trevor Kinsel",
+          "url": "https://open.spotify.com/artist/3zNfLl2dwYGK9AgeFEeaPL"
+        },
+        {
+          "name": "Van Hughes",
+          "url": "https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3"
+        },
+        {
+          "name": "Matt Cowan",
+          "url": "https://open.spotify.com/artist/5oGRwSzCJN3v7DghqpKcj7"
+        },
+        {
+          "name": "David Murotake",
+          "url": "https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Ladies Man",
+      "url": "https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a"
+    },
+    {
+      "album": {
+        "name": "Shakin' The Shack",
+        "url": "https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a"
+      },
+      "artists": [
+        {
+          "name": "Mitch Woods and His Rocket 88\u2018S",
+          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Long, Lean And Lanky",
+      "url": "https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo"
+    },
+    {
+      "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307493,
+      "name": "Mambo Swing",
+      "url": "https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW"
+    },
+    {
+      "album": {
+        "name": "Torch This Place",
+        "url": "https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L"
+      },
+      "artists": [
+        {
+          "name": "The Atomic Fireballs",
+          "url": "https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Man with the Hex",
+      "url": "https://open.spotify.com/track/3uaN8CPKK8rvCoSjfYZOPH"
+    },
+    {
+      "album": {
+        "name": "Calling All Jitterbugs!",
+        "url": "https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI"
+      },
+      "artists": [
+        {
+          "name": "Bill Elliott Swing Orchestra",
+          "url": "https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223635,
+      "name": "Mildred, Won't You Behave?",
+      "url": "https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M"
+    },
+    {
+      "album": {
+        "name": "How Big Can You Get?: The Music Of Cab Calloway",
+        "url": "https://open.spotify.com/album/5EaHXOzSnLy8aRqD4gaCht"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299146,
+      "name": "Minnie The Moocher",
+      "url": "https://open.spotify.com/track/0LFIogdKLhuH3y1Tf78EYW"
+    },
+    {
+      "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Mr. Pinstripe Suit",
+      "url": "https://open.spotify.com/track/1cp7pENCkTI63S6TIjFyVN"
+    },
+    {
+      "album": {
+        "name": "Cool Thing",
+        "url": "https://open.spotify.com/album/2tW6hYlPyIZJzxwQEm0EYY"
+      },
+      "artists": [
+        {
+          "name": "Alien Fashion Show",
+          "url": "https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268961,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/4Oz4p6kdBfOgQUbyqAuVXR"
+    },
+    {
+      "album": {
+        "name": "Cool Thing",
+        "url": "https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg"
+      },
+      "artists": [
+        {
+          "name": "Alien Fashion Show",
+          "url": "https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268961,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9"
+    },
+    {
+      "album": {
+        "name": "One Hour Mama",
+        "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
+      },
+      "artists": [
+        {
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193453,
+      "name": "Oo Poppa Do",
+      "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
+    },
+    {
+      "album": {
+        "name": "Indigo Swing",
+        "url": "https://open.spotify.com/album/0BHd15407qFmwe0VNGoMQ4"
+      },
+      "artists": [
+        {
+          "name": "Indigo Swing",
+          "url": "https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Pink Cadillac",
+      "url": "https://open.spotify.com/track/4mXK4UWo8DTzJvoNsLOAOU"
+    },
+    {
+      "album": {
+        "name": "rapid city muscle car",
+        "url": "https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 224040,
+      "name": "Pink Elephant",
+      "url": "https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF"
+    },
+    {
+      "album": {
+        "name": "Rapid City Muscle Car",
+        "url": "https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224052,
+      "name": "Pink Elephant",
+      "url": "https://open.spotify.com/track/09ixyQNF20bjWpzg4zytga"
+    },
+    {
+      "album": {
+        "name": "Planet Jive",
+        "url": "https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7"
+      },
+      "artists": [
+        {
+          "name": "The Jive Aces",
+          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "Planet Jive",
+      "url": "https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst"
+    },
+    {
+      "album": {
+        "name": "prozac nation",
+        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
+      },
+      "artists": [
+        {
+          "name": "Bellevue Cadillac",
+          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285173,
+      "name": "prozac",
+      "url": "https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6"
+    },
+    {
+      "album": {
+        "name": "prozac nation",
+        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
+      },
+      "artists": [
+        {
+          "name": "Bellevue Cadillac",
+          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146760,
+      "name": "pull the plug",
+      "url": "https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT"
+    },
+    {
+      "album": {
+        "name": "The Best of Squirrel Nut Zippers",
+        "url": "https://open.spotify.com/album/1zfRj4Yk4OHWYVgzDD9y01"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Nut Zippers",
+          "url": "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "Put A Lid On It",
+      "url": "https://open.spotify.com/track/06HM8m5kmKG8AOt7eelGhI"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
+      },
+      "artists": [
+        {
+          "name": "Casey MacGill & the Spirits of Rhythm",
+          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167440,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/173Qo5lw33RFSTOahpwvtk"
+    },
+    {
+      "album": {
+        "name": "Flatland Boogie",
+        "url": "https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV"
+      },
+      "artists": [
+        {
+          "name": "Four Charms",
+          "url": "https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 148320,
+      "name": "Sausage Rock",
+      "url": "https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I"
+    },
+    {
+      "album": {
+        "name": "Flatland Boogie",
+        "url": "https://open.spotify.com/album/08kJRfomfkYlgjnlPSr5aE"
+      },
+      "artists": [
+        {
+          "name": "Four Charms",
+          "url": "https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148320,
+      "name": "Sausage Rock",
+      "url": "https://open.spotify.com/track/3SDLfXpRsjCJ84xJiwnxmE"
+    },
+    {
+      "album": {
+        "name": "Flatland Boogie",
+        "url": "https://open.spotify.com/album/0R2VxzfOni9EdVgxh38rLt"
+      },
+      "artists": [
+        {
+          "name": "Four Charms",
+          "url": "https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148320,
+      "name": "Sausage Rock",
+      "url": "https://open.spotify.com/track/3rMEuaPmugknOyKCNHUHci"
+    },
+    {
+      "album": {
+        "name": "Spread a Little Happiness",
+        "url": "https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7"
+      },
+      "artists": [
+        {
+          "name": "The Jive Aces",
+          "url": "https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164505,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8"
+    },
+    {
+      "album": {
+        "name": "Solid Gold Cadillac",
+        "url": "https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO"
+      },
+      "artists": [
+        {
+          "name": "Mitch Woods and His Rocket 88\u2018S",
+          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Solid Gold Cadillac",
+      "url": "https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b"
+    },
+    {
+      "album": {
+        "name": "Superhero Swinger Undercover",
+        "url": "https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN"
+      },
+      "artists": [
+        {
+          "name": "Eight To The Bar",
+          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "Sugar High",
+      "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
+    },
+    {
+      "album": {
+        "name": "Blue Pariah",
+        "url": "https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS"
+      },
+      "artists": [
+        {
+          "name": "Big Rude Jake",
+          "url": "https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202466,
+      "name": "Swing Baby!",
+      "url": "https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC"
+    },
+    {
+      "album": {
+        "name": "Song and Dance",
+        "url": "https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa"
+      },
+      "artists": [
+        {
+          "name": "The Lucky Strikes",
+          "url": "https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139506,
+      "name": "Swing Let's Swing",
+      "url": "https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg"
+    },
+    {
+      "album": {
+        "name": "Torch This Place",
+        "url": "https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L"
+      },
+      "artists": [
+        {
+          "name": "The Atomic Fireballs",
+          "url": "https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Swing Sweet Pussycat",
+      "url": "https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW"
+    },
+    {
+      "album": {
+        "name": "Jump For Joy",
+        "url": "https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7"
+      },
+      "artists": [
+        {
+          "name": "Mitch Woods and His Rocket 88\u2018S",
+          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
+      "duration_ms": 217373,
+      "name": "Swingin' At The Savoy",
+      "url": "https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb"
+    },
+    {
+      "album": {
+        "name": "All Aboard!",
+        "url": "https://open.spotify.com/album/2njHwS9Ic2gVrLrc2bgLwa"
+      },
+      "artists": [
+        {
+          "name": "Indigo Swing",
+          "url": "https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176866,
+      "name": "That's Where My Money Goes",
+      "url": "https://open.spotify.com/track/5ZX97cAgS6kRjqnudi7Ffq"
+    },
+    {
+      "album": {
+        "name": "rapid city muscle car",
+        "url": "https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 214266,
+      "name": "The Ding Dong Daddy of the D Car Line",
+      "url": "https://open.spotify.com/track/4uxRacg0PBqOIan3lhJ3Xt"
+    },
+    {
+      "album": {
+        "name": "Rapid City Muscle Car",
+        "url": "https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214279,
+      "name": "The Ding-Dong Daddy of the D-Car Line",
+      "url": "https://open.spotify.com/track/6yJif668Hq2RhlTpHpXeMf"
+    },
+    {
+      "album": {
+        "name": "Salutes the Great Entertainers",
+        "url": "https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s"
+      },
+      "artists": [
+        {
+          "name": "Ray Gelato",
+          "url": "https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165933,
+      "name": "The Joint is Jumpin'",
+      "url": "https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1"
+    },
+    {
+      "album": {
+        "name": "Swingin' the Century",
+        "url": "https://open.spotify.com/album/7rHzE5MqbD44u0IR8iV44R"
+      },
+      "artists": [
+        {
+          "name": "Bill Elliott Swing Orchestra",
+          "url": "https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "The Shim Sham Song",
+      "url": "https://open.spotify.com/track/4ayZeCFcpODpQMwz9PRDQN"
+    },
+    {
+      "album": {
+        "name": "The Dirty Boogie",
+        "url": "https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4"
+      },
+      "artists": [
+        {
+          "name": "The Brian Setzer Orchestra",
+          "url": "https://open.spotify.com/artist/7HQH1SJokcVMdstilKJ2S8"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139466,
+      "name": "This Cat's On A Hot Tin Roof",
+      "url": "https://open.spotify.com/track/4CAwwZXWojksW05Q2pD840"
+    },
+    {
+      "album": {
+        "name": "Thrill Thing",
+        "url": "https://open.spotify.com/album/5PdRCBpCi38UTpNckzAy1m"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Thrill Thing",
+      "url": "https://open.spotify.com/track/6Pt4JuiQOQb6Cxz0iQpzBJ"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
+      },
+      "artists": [
+        {
+          "name": "Casey MacGill & the Spirits of Rhythm",
+          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Whadaya Want",
+      "url": "https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ"
+    },
+    {
+      "album": {
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw"
+      },
+      "artists": [
+        {
+          "name": "Big Sandy",
+          "url": "https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162733,
+      "name": "Yama Yama Pretty Mama",
+      "url": "https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM"
+    },
+    {
+      "album": {
+        "name": "Mugzy's Move",
+        "url": "https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm"
+      },
+      "artists": [
+        {
+          "name": "Royal Crown Revue",
+          "url": "https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "Zip Gun Bop",
+      "url": "https://open.spotify.com/track/4I4jQb4fkv51CLeTYMXGKT"
+    },
+    {
+      "album": {
+        "name": "Zoot Suit Riot",
+        "url": "https://open.spotify.com/album/2iVgBMU6oDxmtIljVmJwkz"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "date_added": "2020-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233039,
+      "name": "Zoot Suit Riot",
+      "url": "https://open.spotify.com/track/1qmJbXpVLydNcN6VTR40GU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYotlhbgVGaH"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dpn9ROb26T.md) - [plain]
 
 > Our editorial picks for the best pop songs of 2023! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,085 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,107 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

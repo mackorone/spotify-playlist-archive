@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8oGHu3SOP0B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8oGHu3SOP0B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8oGHu3SOP0B)
 
-### [Best of EQUAL Thailand 2023](https://open.spotify.com/playlist/37i9dQZF1DX8oGHu3SOP0B)
+### [EQUAL Thailand](https://open.spotify.com/playlist/37i9dQZF1DX8oGHu3SOP0B)
 
-> ไฮไลท์ปี 2023 ฟังเสียงของศิลปินหญิงในประเทศไทย\. Highlights of 2023, listen to women at full volume\. ปก: RedSpin
+> ฟังเสียงของศิลปินหญิงในประเทศไทย\. ปก: RedSpin
 
-206 songs - 11 hr 59 min
+207 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [come around](https://open.spotify.com/track/5aS72tjLvmMreeR0khCjcE) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [come around](https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc) | 3:02 | 2023-08-01 | 2023-09-07 |
 | [Coming For You](https://open.spotify.com/track/6OYSnwjGIxqHd40tbHwU14) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [Coming For You](https://open.spotify.com/album/2FZ5ghZ454Qm9KcWZJaPPq) | 3:07 | 2023-09-06 | 2023-10-04 |
 | [Cruel World](https://open.spotify.com/track/2Y2hR1O1cJYvsWkUJRD8Xy) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [Cruel World](https://open.spotify.com/album/31i8l1jymUX8KLVq66XkXO) | 3:47 | 2023-11-07 | 2023-11-30 |
-| [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-08-01 |  |
+| [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-08-01 | 2024-01-10 |
 | [die tryin](https://open.spotify.com/track/6zjuUubQ26bJCSKRHl7HWe) | [PETITE](https://open.spotify.com/artist/5vWJurEtxoZLhVxk7IyUzF) | [die tryin](https://open.spotify.com/album/5s12mNEdkZejLi53ujMoyb) | 3:13 | 2023-06-06 | 2023-07-05 |
 | [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-10-03 | 2023-11-08 |
 | [Drama](https://open.spotify.com/track/33rftZ60bxUaaU4jvLu4H8) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2), [Anna](https://open.spotify.com/artist/5br4h6xtm7ia5hdlAOZNJB) | [Drama](https://open.spotify.com/album/2fMTQsZ61llG07WaxUosXf) | 3:31 | 2023-08-01 | 2023-09-07 |
@@ -110,6 +110,7 @@
 | [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 | 2023-05-02 | 2023-11-30 |
 | [ดีกว่ารักของเธอ](https://open.spotify.com/track/23zw7f81HnasyREo3SWDfZ) | [Pearwah](https://open.spotify.com/artist/5QJRejsVPjeqkRZkTMg6Pr) | [ดีกว่ารักของเธอ](https://open.spotify.com/album/1eBKr4jxRa0Xsp6V2vqJ93) | 3:34 | 2023-09-06 | 2023-10-04 |
 | [ตัดไปให้พอ](https://open.spotify.com/track/498pVEIIkgYvIkqm68PEqO) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [ตัดไปให้พอ](https://open.spotify.com/album/4Q629xdrAylg8VOpX1KC1f) | 4:38 | 2023-10-03 | 2023-11-08 |
+| [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-01-09 |  |
 | [ตื๊อ](https://open.spotify.com/track/6TrKXlH4G9PHUQoX7MTj17) | [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF) | [ตื๊อ](https://open.spotify.com/album/3uihD3dxiRAeTPwbT2yarP) | 1:39 | 2023-06-06 | 2023-07-05 |
 | [ถูกใจแต่ไม่ถูกศีล \- Right?](https://open.spotify.com/track/3v5c2OT1JReVDacxyLcPPY) | [fluffypak](https://open.spotify.com/artist/3plsvhYJrLQJrpwwwPWMkT) | [ถูกใจแต่ไม่ถูกศีล \(Right?\)](https://open.spotify.com/album/1Ub4wJT3YjOyZKxtKfljvs) | 3:55 | 2023-08-01 | 2023-09-07 |
 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 | 2023-05-02 |  |

@@ -1,577 +1,1199 @@
 {
-  "2022-06-02": 8472,
-  "2022-06-03": 8474,
-  "2022-06-04": 8474,
-  "2022-06-05": 8479,
-  "2022-06-06": 8484,
-  "2022-06-07": 8484,
-  "2022-06-08": 8486,
-  "2022-06-09": 8488,
-  "2022-06-10": 8491,
-  "2022-06-11": 8494,
-  "2022-06-12": 8499,
-  "2022-06-13": 8501,
-  "2022-06-14": 8501,
-  "2022-06-15": 8505,
-  "2022-06-16": 8508,
-  "2022-06-17": 8512,
-  "2022-06-18": 8517,
-  "2022-06-19": 8532,
-  "2022-06-20": 8532,
-  "2022-06-21": 8536,
-  "2022-06-22": 8547,
-  "2022-06-23": 8547,
-  "2022-06-24": 8549,
-  "2022-06-25": 8550,
-  "2022-06-26": 8556,
-  "2022-06-27": 8560,
-  "2022-06-28": 8564,
-  "2022-06-29": 8568,
-  "2022-06-30": 8572,
-  "2022-07-01": 8573,
-  "2022-07-02": 8578,
-  "2022-07-03": 8586,
-  "2022-07-04": 8590,
-  "2022-07-05": 8590,
-  "2022-07-06": 8590,
-  "2022-07-07": 8603,
-  "2022-07-08": 8606,
-  "2022-07-09": 8609,
-  "2022-07-10": 8617,
-  "2022-07-11": 8622,
-  "2022-07-12": 8626,
-  "2022-07-13": 8627,
-  "2022-07-14": 8630,
-  "2022-07-15": 8634,
-  "2022-07-16": 8638,
-  "2022-07-17": 8648,
-  "2022-07-18": 8649,
-  "2022-07-19": 8654,
-  "2022-07-20": 8656,
-  "2022-07-21": 8661,
-  "2022-07-22": 8666,
-  "2022-07-23": 8669,
-  "2022-07-24": 8672,
-  "2022-07-25": 8677,
-  "2022-07-26": 8679,
-  "2022-07-27": 8681,
-  "2022-07-28": 8683,
-  "2022-07-29": 8690,
-  "2022-07-30": 8699,
-  "2022-07-31": 8699,
-  "2022-08-01": 8700,
-  "2022-08-02": 8708,
-  "2022-08-03": 8708,
-  "2022-08-04": 8713,
-  "2022-08-05": 8723,
-  "2022-08-06": 8730,
-  "2022-08-07": 8735,
-  "2022-08-08": 8739,
-  "2022-08-09": 8739,
-  "2022-08-10": 8746,
-  "2022-08-11": 8749,
-  "2022-08-12": 8751,
-  "2022-08-13": 8755,
-  "2022-08-14": 8760,
-  "2022-08-15": 8773,
-  "2022-08-16": 8777,
-  "2022-08-17": 8782,
-  "2022-08-18": 8786,
-  "2022-08-19": 8791,
-  "2022-08-20": 8795,
-  "2022-08-21": 8808,
-  "2022-08-22": 8811,
-  "2022-08-23": 8814,
-  "2022-08-24": 8820,
-  "2022-08-25": 8822,
-  "2022-08-26": 8831,
-  "2022-08-27": 8838,
-  "2022-08-28": 8846,
-  "2022-08-29": 8858,
-  "2022-08-30": 8864,
-  "2022-08-31": 8868,
-  "2022-09-01": 8872,
-  "2022-09-02": 8875,
-  "2022-09-03": 8878,
-  "2022-09-04": 8885,
-  "2022-09-05": 8890,
-  "2022-09-06": 8895,
-  "2022-09-07": 8898,
-  "2022-09-09": 8907,
-  "2022-09-10": 8915,
-  "2022-09-11": 8917,
-  "2022-09-12": 8920,
-  "2022-09-13": 8925,
-  "2022-09-15": 8935,
-  "2022-09-16": 8940,
-  "2022-09-17": 8944,
-  "2022-09-18": 8947,
-  "2022-09-19": 8951,
-  "2022-09-20": 8957,
-  "2022-09-21": 8965,
-  "2022-09-22": 8973,
-  "2022-09-23": 8977,
-  "2022-09-24": 8977,
-  "2022-09-25": 8992,
-  "2022-09-26": 8995,
-  "2022-09-27": 8998,
-  "2022-09-28": 9007,
-  "2022-09-29": 9009,
-  "2022-09-30": 9008,
-  "2022-10-01": 9013,
-  "2022-10-02": 9021,
-  "2022-10-03": 9027,
-  "2022-10-04": 9032,
-  "2022-10-05": 9037,
-  "2022-10-06": 9041,
-  "2022-10-07": 9043,
-  "2022-10-08": 9051,
-  "2022-10-09": 9066,
-  "2022-10-10": 9066,
-  "2022-10-11": 9072,
-  "2022-10-12": 9073,
-  "2022-10-13": 9079,
-  "2022-10-14": 9082,
-  "2022-10-15": 9087,
-  "2022-10-16": 9093,
-  "2022-10-17": 9095,
-  "2022-10-18": 9099,
-  "2022-10-19": 9101,
-  "2022-10-20": 9106,
-  "2022-10-21": 9107,
-  "2022-10-22": 9109,
-  "2022-10-23": 9116,
-  "2022-10-24": 9126,
-  "2022-10-25": 9130,
-  "2022-10-26": 9132,
-  "2022-10-27": 9137,
-  "2022-10-28": 9142,
-  "2022-10-29": 9144,
-  "2022-10-30": 9152,
-  "2022-10-31": 9157,
-  "2022-11-01": 9162,
-  "2022-11-02": 9168,
-  "2022-11-03": 9175,
-  "2022-11-04": 9186,
-  "2022-11-05": 9192,
-  "2022-11-06": 9199,
-  "2022-11-07": 9204,
-  "2022-11-08": 9210,
-  "2022-11-09": 9215,
-  "2022-11-10": 9221,
-  "2022-11-11": 9223,
-  "2022-11-12": 9228,
-  "2022-11-13": 9232,
-  "2022-11-14": 9241,
-  "2022-11-15": 9244,
-  "2022-11-16": 9248,
-  "2022-11-17": 9253,
-  "2022-11-18": 9255,
-  "2022-11-19": 9258,
-  "2022-11-20": 9266,
-  "2022-11-21": 9276,
-  "2022-11-22": 9276,
-  "2022-11-23": 9277,
-  "2022-11-24": 9279,
-  "2022-11-25": 9281,
-  "2022-11-26": 9287,
-  "2022-11-27": 9292,
-  "2022-11-28": 9299,
-  "2022-11-29": 9296,
-  "2022-11-30": 9304,
-  "2022-12-01": 9308,
-  "2022-12-02": 9311,
-  "2022-12-03": 9318,
-  "2022-12-04": 9326,
-  "2022-12-05": 9333,
-  "2022-12-06": 9333,
-  "2022-12-07": 9332,
-  "2022-12-08": 9334,
-  "2022-12-09": 9334,
-  "2022-12-10": 9336,
-  "2022-12-11": 9344,
-  "2022-12-12": 9351,
-  "2022-12-13": 9353,
-  "2022-12-14": 9354,
-  "2022-12-15": 9358,
-  "2022-12-16": 9354,
-  "2022-12-17": 9362,
-  "2022-12-18": 9366,
-  "2022-12-19": 9369,
-  "2022-12-20": 9375,
-  "2022-12-21": 9375,
-  "2022-12-22": 9375,
-  "2022-12-24": 9392,
-  "2022-12-25": 9406,
-  "2022-12-26": 9412,
-  "2022-12-27": 9419,
-  "2022-12-28": 9426,
-  "2022-12-29": 9426,
-  "2022-12-30": 9432,
-  "2022-12-31": 9437,
-  "2023-01-01": 9442,
-  "2023-01-02": 9447,
-  "2023-01-03": 9453,
-  "2023-01-04": 9453,
-  "2023-01-05": 9456,
-  "2023-01-06": 9455,
-  "2023-01-07": 9460,
-  "2023-01-08": 9461,
-  "2023-01-09": 9468,
-  "2023-01-10": 9469,
-  "2023-01-11": 9470,
-  "2023-01-12": 9473,
-  "2023-01-13": 9472,
-  "2023-01-14": 9479,
-  "2023-01-15": 9480,
-  "2023-01-16": 9485,
-  "2023-01-17": 9493,
-  "2023-01-18": 9498,
-  "2023-01-19": 9502,
-  "2023-01-20": 9506,
-  "2023-01-21": 9516,
-  "2023-01-22": 9518,
-  "2023-01-23": 9526,
-  "2023-01-24": 9526,
-  "2023-01-25": 9525,
-  "2023-01-26": 9527,
-  "2023-01-27": 9530,
-  "2023-01-28": 9537,
-  "2023-01-29": 9545,
-  "2023-01-30": 9551,
-  "2023-01-31": 9551,
-  "2023-02-01": 9557,
-  "2023-02-02": 9558,
-  "2023-02-03": 9559,
-  "2023-02-04": 9567,
-  "2023-02-05": 9576,
-  "2023-02-06": 9583,
-  "2023-02-07": 9584,
-  "2023-02-08": 9595,
-  "2023-02-09": 9595,
-  "2023-02-10": 9605,
-  "2023-02-11": 9610,
-  "2023-02-12": 9626,
-  "2023-02-13": 9631,
-  "2023-02-14": 9631,
-  "2023-02-15": 9632,
-  "2023-02-16": 9634,
-  "2023-02-17": 9641,
-  "2023-02-18": 9649,
-  "2023-02-19": 9649,
-  "2023-02-20": 9654,
-  "2023-02-21": 9654,
-  "2023-02-22": 9663,
-  "2023-02-23": 9666,
-  "2023-02-24": 9678,
-  "2023-02-25": 9682,
-  "2023-02-26": 9689,
-  "2023-02-27": 9701,
-  "2023-02-28": 9701,
-  "2023-03-01": 9703,
-  "2023-03-02": 9706,
-  "2023-03-03": 9706,
-  "2023-03-04": 9712,
-  "2023-03-05": 9724,
-  "2023-03-06": 9724,
-  "2023-03-07": 9724,
-  "2023-03-08": 9732,
-  "2023-03-09": 9737,
-  "2023-03-10": 9741,
-  "2023-03-11": 9747,
-  "2023-03-12": 9751,
-  "2023-03-13": 9757,
-  "2023-03-14": 9761,
-  "2023-03-15": 9767,
-  "2023-03-16": 9767,
-  "2023-03-17": 9767,
-  "2023-03-18": 9781,
-  "2023-03-19": 9781,
-  "2023-03-20": 9788,
-  "2023-03-21": 9789,
-  "2023-03-22": 9786,
-  "2023-03-23": 9792,
-  "2023-03-24": 9792,
-  "2023-03-25": 9804,
-  "2023-03-26": 9810,
-  "2023-03-27": 9813,
-  "2023-03-28": 9815,
-  "2023-03-29": 9819,
-  "2023-03-30": 9823,
-  "2023-03-31": 9823,
-  "2023-04-01": 9829,
-  "2023-04-02": 9834,
-  "2023-04-03": 9838,
-  "2023-04-04": 9844,
-  "2023-04-05": 9843,
-  "2023-04-06": 9843,
-  "2023-04-07": 9850,
-  "2023-04-09": 9862,
-  "2023-04-10": 9864,
-  "2023-04-11": 9870,
-  "2023-04-12": 9870,
-  "2023-04-13": 9876,
-  "2023-04-14": 9877,
-  "2023-04-15": 9879,
-  "2023-04-16": 9891,
-  "2023-04-17": 9895,
-  "2023-04-18": 9892,
-  "2023-04-19": 9896,
-  "2023-04-20": 9900,
-  "2023-04-21": 9905,
-  "2023-04-22": 9912,
-  "2023-04-23": 9917,
-  "2023-04-24": 9928,
-  "2023-04-25": 9933,
-  "2023-04-26": 9944,
-  "2023-04-27": 9946,
-  "2023-04-28": 9952,
-  "2023-04-29": 9953,
-  "2023-04-30": 9960,
-  "2023-05-01": 9970,
-  "2023-05-02": 9974,
-  "2023-05-03": 9981,
-  "2023-05-04": 9984,
-  "2023-05-05": 9987,
-  "2023-05-06": 9990,
-  "2023-05-07": 9993,
-  "2023-05-08": 9997,
-  "2023-05-09": 10002,
-  "2023-05-10": 10004,
-  "2023-05-11": 10010,
-  "2023-05-12": 10013,
-  "2023-05-13": 10022,
-  "2023-05-14": 10029,
-  "2023-05-15": 10028,
-  "2023-05-16": 10036,
-  "2023-05-17": 10037,
-  "2023-05-18": 10041,
-  "2023-05-19": 10045,
-  "2023-05-20": 10046,
-  "2023-05-21": 10046,
-  "2023-05-22": 10046,
-  "2023-05-23": 10053,
-  "2023-05-24": 10057,
-  "2023-05-25": 10058,
-  "2023-05-26": 10063,
-  "2023-05-27": 10066,
-  "2023-05-28": 10071,
-  "2023-05-29": 10071,
-  "2023-05-30": 10080,
-  "2023-05-31": 10082,
-  "2023-06-01": 10085,
-  "2023-06-02": 10093,
-  "2023-06-03": 10097,
-  "2023-06-04": 10106,
-  "2023-06-05": 10112,
-  "2023-06-06": 10115,
-  "2023-06-07": 10120,
-  "2023-06-08": 10121,
-  "2023-06-09": 10125,
-  "2023-06-10": 10132,
-  "2023-06-11": 10138,
-  "2023-06-12": 10142,
-  "2023-06-13": 10147,
-  "2023-06-14": 10151,
-  "2023-06-15": 10157,
-  "2023-06-16": 10157,
-  "2023-06-17": 10161,
-  "2023-06-18": 10171,
-  "2023-06-19": 10177,
-  "2023-06-20": 10181,
-  "2023-06-21": 10185,
-  "2023-06-22": 10185,
-  "2023-06-23": 10190,
-  "2023-06-24": 10195,
-  "2023-06-25": 10203,
-  "2023-06-26": 10209,
-  "2023-06-27": 10212,
-  "2023-06-28": 10217,
-  "2023-06-29": 10216,
-  "2023-06-30": 10222,
-  "2023-07-01": 10228,
-  "2023-07-02": 10228,
-  "2023-07-03": 10231,
-  "2023-07-04": 10233,
-  "2023-07-05": 10240,
-  "2023-07-06": 10251,
-  "2023-07-07": 10251,
-  "2023-07-08": 10251,
-  "2023-07-09": 10261,
-  "2023-07-10": 10273,
-  "2023-07-11": 10274,
-  "2023-07-12": 10278,
-  "2023-07-13": 10289,
-  "2023-07-14": 10291,
-  "2023-07-15": 10292,
-  "2023-07-16": 10302,
-  "2023-07-17": 10304,
-  "2023-07-18": 10310,
-  "2023-07-19": 10322,
-  "2023-07-20": 10328,
-  "2023-07-21": 10327,
-  "2023-07-22": 10334,
-  "2023-07-23": 10343,
-  "2023-07-24": 10345,
-  "2023-07-25": 10349,
-  "2023-07-26": 10351,
-  "2023-07-27": 10356,
-  "2023-07-28": 10364,
-  "2023-07-29": 10369,
-  "2023-07-30": 10380,
-  "2023-07-31": 10381,
-  "2023-08-01": 10385,
-  "2023-08-02": 10388,
-  "2023-08-03": 10386,
-  "2023-08-04": 10388,
-  "2023-08-05": 10390,
-  "2023-08-06": 10395,
-  "2023-08-07": 10395,
-  "2023-08-08": 10400,
-  "2023-08-09": 10403,
-  "2023-08-10": 10405,
-  "2023-08-11": 10409,
-  "2023-08-12": 10409,
-  "2023-08-13": 10409,
-  "2023-08-14": 10437,
-  "2023-08-15": 10437,
-  "2023-08-16": 10437,
-  "2023-08-17": 10437,
-  "2023-08-18": 10437,
-  "2023-08-19": 10437,
-  "2023-08-20": 10456,
-  "2023-08-21": 10456,
-  "2023-08-22": 10464,
-  "2023-08-23": 10464,
-  "2023-08-24": 10464,
-  "2023-08-25": 10464,
-  "2023-08-26": 10481,
-  "2023-08-27": 10481,
-  "2023-08-28": 10494,
-  "2023-08-29": 10494,
-  "2023-08-30": 10494,
-  "2023-08-31": 10507,
-  "2023-09-01": 10510,
-  "2023-09-02": 10510,
-  "2023-09-03": 10523,
-  "2023-09-04": 10523,
-  "2023-09-05": 10523,
-  "2023-09-06": 10525,
-  "2023-09-07": 10525,
-  "2023-09-08": 10525,
-  "2023-09-09": 10525,
-  "2023-09-10": 10546,
-  "2023-09-11": 10546,
-  "2023-09-12": 10546,
-  "2023-09-13": 10563,
-  "2023-09-14": 10563,
-  "2023-09-15": 10563,
-  "2023-09-16": 10577,
-  "2023-09-17": 10577,
-  "2023-09-18": 10577,
-  "2023-09-19": 10594,
-  "2023-09-20": 10594,
-  "2023-09-21": 10594,
-  "2023-09-22": 10604,
-  "2023-09-23": 10604,
-  "2023-09-24": 10604,
-  "2023-09-25": 10604,
-  "2023-09-26": 10617,
-  "2023-09-27": 10617,
-  "2023-09-28": 10617,
-  "2023-09-29": 10617,
-  "2023-09-30": 10617,
-  "2023-10-01": 10617,
-  "2023-10-02": 10617,
-  "2023-10-03": 10617,
-  "2023-10-04": 10617,
-  "2023-10-05": 10617,
-  "2023-10-06": 10617,
-  "2023-10-07": 10617,
-  "2023-10-08": 10617,
-  "2023-10-09": 10617,
-  "2023-10-10": 10617,
-  "2023-10-11": 10644,
-  "2023-10-12": 10644,
-  "2023-10-13": 10644,
-  "2023-10-14": 10644,
-  "2023-10-15": 10644,
-  "2023-10-16": 10644,
-  "2023-10-17": 10644,
-  "2023-10-18": 10644,
-  "2023-10-19": 10644,
-  "2023-10-20": 10644,
-  "2023-10-21": 10644,
-  "2023-10-22": 10644,
-  "2023-10-23": 10644,
-  "2023-10-24": 10644,
-  "2023-10-25": 10644,
-  "2023-10-26": 10644,
-  "2023-10-27": 10644,
-  "2023-10-28": 10644,
-  "2023-10-29": 10644,
-  "2023-10-30": 10644,
-  "2023-10-31": 10644,
-  "2023-11-01": 10644,
-  "2023-11-02": 10644,
-  "2023-11-03": 10644,
-  "2023-11-04": 10644,
-  "2023-11-05": 10644,
-  "2023-11-06": 10644,
-  "2023-11-07": 10644,
-  "2023-11-08": 10644,
-  "2023-11-09": 10644,
-  "2023-11-10": 10644,
-  "2023-11-11": 10757,
-  "2023-11-12": 10757,
-  "2023-11-13": 10757,
-  "2023-11-14": 10757,
-  "2023-11-15": 10757,
-  "2023-11-16": 10757,
-  "2023-11-17": 10757,
-  "2023-11-18": 10757,
-  "2023-11-19": 10757,
-  "2023-11-20": 10757,
-  "2023-11-21": 10757,
-  "2023-11-22": 10757,
-  "2023-11-23": 10757,
-  "2023-11-24": 10757,
-  "2023-11-25": 10757,
-  "2023-11-26": 10757,
-  "2023-11-27": 10757,
-  "2023-11-28": 10757,
-  "2023-11-29": 10757,
-  "2023-11-30": 10757,
-  "2023-12-01": 10757,
-  "2023-12-02": 10757,
-  "2023-12-03": 10757,
-  "2023-12-04": 10757,
-  "2023-12-05": 10757,
-  "2023-12-06": 10757,
-  "2023-12-07": 10757,
-  "2023-12-08": 10757,
-  "2023-12-09": 10757,
-  "2023-12-10": 10757,
-  "2023-12-11": 10757,
-  "2023-12-12": 10757,
-  "2023-12-13": 10757,
-  "2023-12-14": 10850,
-  "2023-12-15": 10853,
-  "2023-12-16": 10854,
-  "2023-12-17": 10862,
-  "2023-12-18": 10868,
-  "2023-12-19": 10871,
-  "2023-12-20": 10870,
-  "2023-12-21": 10874,
-  "2023-12-22": 10882,
-  "2023-12-23": 10887,
-  "2023-12-24": 10892,
-  "2023-12-25": 10895,
-  "2023-12-26": 10902,
-  "2023-12-27": 10906,
-  "2023-12-30": 10919,
-  "2023-12-31": 10923,
-  "2024-01-01": 10928,
-  "2024-01-02": 10936,
-  "2024-01-03": 10934
+  "2024-01-17": 10950,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
+  "name": "This Is Los Alegres De Teran",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rancheras de Oro, Vol. II",
+        "url": "https://open.spotify.com/album/3UUulmLiWwBFqMCbHEw0nl"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 175020,
+      "name": "40 Cartas",
+      "url": "https://open.spotify.com/track/1HS46Ns75Zim9y0KYZmHYe"
+    },
+    {
+      "album": {
+        "name": "20 Exitos De Oro",
+        "url": "https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130507,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/1LspOkH26cxHWBV9m10uqn"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228026,
+      "name": "Alma Rendida",
+      "url": "https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7"
+    },
+    {
+      "album": {
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 143600,
+      "name": "Amor de Madre",
+      "url": "https://open.spotify.com/track/4VhhWGfF2A1oRvsuUdZ67g"
+    },
+    {
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197240,
+      "name": "Arnulfo Gonzalez",
+      "url": "https://open.spotify.com/track/3crxQKluxTRyJE4l5JQ7YM"
+    },
+    {
+      "album": {
+        "name": "20 Exitos De Oro",
+        "url": "https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176979,
+      "name": "Aun Se Acuerda De Mi",
+      "url": "https://open.spotify.com/track/1xHzz42RHgu6cj7kbZr5G3"
+    },
+    {
+      "album": {
+        "name": "Ca\u00f1onazos Norte\u00f1os",
+        "url": "https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152493,
+      "name": "Cajita de Oro",
+      "url": "https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6"
+    },
+    {
+      "album": {
+        "name": "ANORANZA NORTENA",
+        "url": "https://open.spotify.com/album/6626gtmDfSGPNkce5p8kfF"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165093,
+      "name": "carta jugada",
+      "url": "https://open.spotify.com/track/50rr7toY0hwRzLCHEmt1BB"
+    },
+    {
+      "album": {
+        "name": "Corridos Villistas Con Los Alegres De Ter\u00e1n",
+        "url": "https://open.spotify.com/album/3dehFGTHz2s4e17HNEgiK3"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 270453,
+      "name": "Corrido De Felipe Angeles",
+      "url": "https://open.spotify.com/track/04WwCNKM6hbBAc9IJ5d01f"
+    },
+    {
+      "album": {
+        "name": "Los Ojos De Pancha",
+        "url": "https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 168800,
+      "name": "Corrido De Pedro Infante",
+      "url": "https://open.spotify.com/track/0iHQIzCXXBuQG23sX1Wl1q"
+    },
+    {
+      "album": {
+        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
+        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151400,
+      "name": "Cuando Salgo A Los Campos",
+      "url": "https://open.spotify.com/track/0u0N27nvxh5ClF4sMgYMpV"
+    },
+    {
+      "album": {
+        "name": "Nostalgia Norte\u00f1a",
+        "url": "https://open.spotify.com/album/30ONqsYPJeKz3lMs1PjeLu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184706,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/2GapsLaCJN57fkVBmQiJ3P"
+    },
+    {
+      "album": {
+        "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
+        "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Desilusi\u00f3n",
+      "url": "https://open.spotify.com/track/4NEZkAs4jxwUSdyXfn6Q8w"
+    },
+    {
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162453,
+      "name": "El 24 De Junio",
+      "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
+    },
+    {
+      "album": {
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/0Hhcxil7ucwHVQgVxxIJTc"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157906,
+      "name": "El Cuervo Y El Escribano",
+      "url": "https://open.spotify.com/track/4zc9IeFLfP38imKJgRzuNc"
+    },
+    {
+      "album": {
+        "name": "Contestadas",
+        "url": "https://open.spotify.com/album/4cjI91TZkZfMf7FbvyljiY"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        },
+        {
+          "name": "Las Nortenitas",
+          "url": "https://open.spotify.com/artist/19Me5XQWAtXf5pwZXmO9Rt"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 165302,
+      "name": "El Descalzo",
+      "url": "https://open.spotify.com/track/2Srq6EvHcJNVFYK1UA4EfA"
+    },
+    {
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 173106,
+      "name": "El Desgastado",
+      "url": "https://open.spotify.com/track/21Slc5ctUKCzBLzDiRxwuq"
+    },
+    {
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146373,
+      "name": "El Golpe Traidor",
+      "url": "https://open.spotify.com/track/7bBKjaJ2bU7iLagUNwtJrW"
+    },
+    {
+      "album": {
+        "name": "Puras De Pegue",
+        "url": "https://open.spotify.com/album/5f2FwofNEjUSa8RlqSyMSc"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "El Troquero",
+      "url": "https://open.spotify.com/track/3gfJot7ZNa92ojtuJzw2Q3"
+    },
+    {
+      "album": {
+        "name": "Homenaje Norte\u00f1o A Felipe Valdes Leal Con",
+        "url": "https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163440,
+      "name": "Entre Copa y Copa",
+      "url": "https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq"
+    },
+    {
+      "album": {
+        "name": "Tesoros de Colecci\u00f3n - Los Mejores Duetos Rancheros de la Historia",
+        "url": "https://open.spotify.com/album/5fpkWn4ktePmZVnD4ajpNQ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151746,
+      "name": "Flor del R\u00edo",
+      "url": "https://open.spotify.com/track/2AXZr6AeT25FpjUxx1FOlO"
+    },
+    {
+      "album": {
+        "name": "Historias Del Siglo XX En 20 Corridos",
+        "url": "https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216520,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/7eWE0XtEh4ZbUjWzEDTSPJ"
+    },
+    {
+      "album": {
+        "name": "La Gran Coleccion de Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/7FgTvoZPZEOarrn1kKHWa0"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/7cXUofSYEealMPBcymmKGp"
+    },
+    {
+      "album": {
+        "name": "FOGATA NORTENA",
+        "url": "https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Hay Mujeres Ingratas en la Vida [Ranchera]",
+      "url": "https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ"
+    },
+    {
+      "album": {
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Hermos\u00edsimo Lucero",
+      "url": "https://open.spotify.com/track/19mrbn7SgoqJlTTyoCt5HP"
+    },
+    {
+      "album": {
+        "name": "Serenata Bajo Las Estrellas 15 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/0j2N0ZJPQjEQgcMN3OPNJk"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "Ingrato Amor",
+      "url": "https://open.spotify.com/track/1eaux4zfvoNc0LuXIVRgzB"
+    },
+    {
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2pzAQ1soE41kyiDbtEZCck"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 164360,
+      "name": "Ingrato Amor",
+      "url": "https://open.spotify.com/track/5t65uwfgs6ZYzdP3gGuIj7"
+    },
+    {
+      "album": {
+        "name": "24 Kilates Norte\u00f1os",
+        "url": "https://open.spotify.com/album/0vHDc1Dn4QCowqtjpipaGK"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140640,
+      "name": "Ingratos Ojos Mios",
+      "url": "https://open.spotify.com/track/0Kn2S21O1cMfiDx2T6VZba"
+    },
+    {
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "Jacinto Trevi\u00f1o",
+      "url": "https://open.spotify.com/track/25DxDNf0o4Uw1HhEAEFJ8p"
+    },
+    {
+      "album": {
+        "name": "Los Alegres de Teran, Vol. 2",
+        "url": "https://open.spotify.com/album/30rZXAD47Ls3seDAKPxDfp"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 173906,
+      "name": "Juarencita",
+      "url": "https://open.spotify.com/track/0Te82ukimFrHFfoTWXglzE"
+    },
+    {
+      "album": {
+        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
+        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "la carga blanca",
+      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
+    },
+    {
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "La C\u00e1rcel De Cananea",
+      "url": "https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U"
+    },
+    {
+      "album": {
+        "name": "Canciones Contestadas",
+        "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        },
+        {
+          "name": "Las Jilgueritas",
+          "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170266,
+      "name": "La Martina",
+      "url": "https://open.spotify.com/track/2h7YyAPzP2MGveT4XxbO9w"
+    },
+    {
+      "album": {
+        "name": "20 Exitos De Oro",
+        "url": "https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181211,
+      "name": "La Mesera",
+      "url": "https://open.spotify.com/track/2NYMwhPHGgIpPPLv8yLZEf"
+    },
+    {
+      "album": {
+        "name": "Canciones Contestadas",
+        "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        },
+        {
+          "name": "Las Jilgueritas",
+          "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "La Mosca",
+      "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
+    },
+    {
+      "album": {
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "La Mula Bronca",
+      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
+    },
+    {
+      "album": {
+        "name": "15 Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/6KsSJ2KeesPLNW6zU7j3Bz"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 192733,
+      "name": "La Pajarera",
+      "url": "https://open.spotify.com/track/0hfCoWU4MLBNJksoVUV7eo"
+    },
+    {
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "La Tumba de Villa",
+      "url": "https://open.spotify.com/track/5HitQXXbYmjUZwQraMjV1n"
+    },
+    {
+      "album": {
+        "name": "Los Alegres De Ter\u00e1n, Sus Mejores Corridos Y Rancheras Contestadas",
+        "url": "https://open.spotify.com/album/43Eu9c8JiKyvuWMAnJCuxc"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        },
+        {
+          "name": "Hermanas Huerta",
+          "url": "https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "Los Alegres de Ter\u00e1n",
+      "url": "https://open.spotify.com/track/7vtzM64OIUPLYTFwN0lzwA"
+    },
+    {
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218044,
+      "name": "Los Tequileros",
+      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
+    },
+    {
+      "album": {
+        "name": "Historias Del Siglo XX En 20 Corridos",
+        "url": "https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 226520,
+      "name": "Mariano Resendez",
+      "url": "https://open.spotify.com/track/0DV9ErAz39HdALK77p7Pib"
+    },
+    {
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 156240,
+      "name": "Mi Unico Camino",
+      "url": "https://open.spotify.com/track/4LWoe4xNQ8DcI1ky9fr0yR"
+    },
+    {
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 1",
+        "url": "https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190493,
+      "name": "Moneda Sin Valor",
+      "url": "https://open.spotify.com/track/7w4ZgZxpCt3Ulc4SuUH3ec"
+    },
+    {
+      "album": {
+        "name": "Los Grandes Exitos Con Los Grandes Del Norte",
+        "url": "https://open.spotify.com/album/3gVyzNysh0fdwJItrrxr35"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 191600,
+      "name": "Moneda Sin Valor",
+      "url": "https://open.spotify.com/track/1lBnOCmKx7JSpxMpZauJsU"
+    },
+    {
+      "album": {
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "Nocturno a Rosario",
+      "url": "https://open.spotify.com/track/5P9KFF9UpaPmA49QJO7huL"
+    },
+    {
+      "album": {
+        "name": "20 Exitos De Oro",
+        "url": "https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168411,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/2IOJaGlWLGg8ujTgVwDMAo"
+    },
+    {
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "Paso del Norte",
+      "url": "https://open.spotify.com/track/2HYz3vIPX8aoRYxDZTdBEW"
+    },
+    {
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 200306,
+      "name": "Pedro Rivas",
+      "url": "https://open.spotify.com/track/1zMbNKIz7tvmLQqq39j79q"
+    },
+    {
+      "album": {
+        "name": "Bonita Finca De Adobe",
+        "url": "https://open.spotify.com/album/4fSqKBmC0SrE0uPtOSMKmB"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 173986,
+      "name": "Pero Como Voy a Odiarte",
+      "url": "https://open.spotify.com/track/1rYJ1hXlob1r7kwCwUZQhg"
+    },
+    {
+      "album": {
+        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
+        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168640,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
+    },
+    {
+      "album": {
+        "name": "Los Alegres De Ter\u00e1n",
+        "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172896,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/6Wz4A5k7oGl8BkybDZ9gwF"
+    },
+    {
+      "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197453,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
+    },
+    {
+      "album": {
+        "name": "Siguen En La Honda Nortena",
+        "url": "https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139755,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/642HoTm4RHCmqhvsTAF1HD"
+    },
+    {
+      "album": {
+        "name": "Serie Coleccion Corridos, Vol. 3",
+        "url": "https://open.spotify.com/album/4Pqj08fWI2vKy8N4jTIaT8"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 202493,
+      "name": "Ramiro Y Miguel",
+      "url": "https://open.spotify.com/track/0paXCjyIqY0GNmgGf6DlFX"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita Cantinera (Serie 2000)",
+        "url": "https://open.spotify.com/album/0WZxY0v3nKJNBJHCXqlryw"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "Se\u00f1orita Cantinera",
+      "url": "https://open.spotify.com/track/7DWY2WaAOc6x7KztLZH6CS"
+    },
+    {
+      "album": {
+        "name": "24 Kilates Norte\u00f1os",
+        "url": "https://open.spotify.com/album/0vHDc1Dn4QCowqtjpipaGK"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        },
+        {
+          "name": "Los Alegres de Michoacan",
+          "url": "https://open.spotify.com/artist/2bIWWZmLp4vqhMj4m8x71J"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Si Tengo a Mi Madre",
+      "url": "https://open.spotify.com/track/7jZxsGZIyAg9a3gtMCHe98"
+    },
+    {
+      "album": {
+        "name": "Latin Classics",
+        "url": "https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Te Vas Angel M\u00edo",
+      "url": "https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI"
+    },
+    {
+      "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144173,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/0D2UGMhfFJMXoJagYaiyGl"
+    },
+    {
+      "album": {
+        "name": "Los Alegres De Ter\u00e1n",
+        "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176574,
+      "name": "Tomando Licor",
+      "url": "https://open.spotify.com/track/3JJDTrzSLZTPxd3EfiLOIS"
+    },
+    {
+      "album": {
+        "name": "20 Exitos De Oro",
+        "url": "https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131709,
+      "name": "Tres Flores",
+      "url": "https://open.spotify.com/track/6BBqV4VjTg5ihvbXjo3EY4"
+    },
+    {
+      "album": {
+        "name": "15 Super \u00c9xitos",
+        "url": "https://open.spotify.com/album/2DjhUqMnW46gQlBSMlc4IZ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Tres Viudas Solas",
+      "url": "https://open.spotify.com/track/4kouZcOHRtmm4Kdicirz7O"
+    },
+    {
+      "album": {
+        "name": "20 Exitos De Oro",
+        "url": "https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150883,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1TbxwY95RPMI3dQskajdWC"
+    },
+    {
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211826,
+      "name": "Valente Quintero",
+      "url": "https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj"
+    },
+    {
+      "album": {
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w"
+    },
+    {
+      "album": {
+        "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
+        "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130226,
+      "name": "Vino Maldito",
+      "url": "https://open.spotify.com/track/0SG5Pj8V7JhcK99z9m9vYe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO29E6gJ"
 }

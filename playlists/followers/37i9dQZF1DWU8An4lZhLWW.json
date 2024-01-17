@@ -1,621 +1,1451 @@
 {
-  "2022-04-19": 1051,
-  "2022-04-20": 1052,
-  "2022-04-21": 1052,
-  "2022-04-22": 1051,
-  "2022-04-23": 1051,
-  "2022-04-24": 1051,
-  "2022-04-25": 1052,
-  "2022-04-26": 1053,
-  "2022-04-27": 1053,
-  "2022-04-28": 1054,
-  "2022-04-29": 1054,
-  "2022-04-30": 1057,
-  "2022-05-01": 1057,
-  "2022-05-02": 1057,
-  "2022-05-03": 1058,
-  "2022-05-04": 1058,
-  "2022-05-05": 1058,
-  "2022-05-06": 1059,
-  "2022-05-07": 1059,
-  "2022-05-08": 1060,
-  "2022-05-09": 1060,
-  "2022-05-10": 1060,
-  "2022-05-11": 1060,
-  "2022-05-12": 1061,
-  "2022-05-13": 1060,
-  "2022-05-14": 1060,
-  "2022-05-15": 1060,
-  "2022-05-16": 1060,
-  "2022-05-17": 1062,
-  "2022-05-18": 1063,
-  "2022-05-19": 1062,
-  "2022-05-20": 1063,
-  "2022-05-21": 1063,
-  "2022-05-22": 1063,
-  "2022-05-23": 1063,
-  "2022-05-24": 1062,
-  "2022-05-25": 1063,
-  "2022-05-26": 1063,
-  "2022-05-27": 1064,
-  "2022-05-28": 1065,
-  "2022-05-29": 1066,
-  "2022-05-30": 1068,
-  "2022-05-31": 1068,
-  "2022-06-01": 1070,
-  "2022-06-02": 1071,
-  "2022-06-03": 1070,
-  "2022-06-04": 1070,
-  "2022-06-05": 1070,
-  "2022-06-06": 1071,
-  "2022-06-07": 1071,
-  "2022-06-08": 1072,
-  "2022-06-09": 1072,
-  "2022-06-10": 1072,
-  "2022-06-11": 1072,
-  "2022-06-12": 1072,
-  "2022-06-13": 1072,
-  "2022-06-14": 1071,
-  "2022-06-15": 1072,
-  "2022-06-16": 1072,
-  "2022-06-17": 1073,
-  "2022-06-18": 1073,
-  "2022-06-19": 1074,
-  "2022-06-20": 1074,
-  "2022-06-21": 1075,
-  "2022-06-22": 1076,
-  "2022-06-23": 1076,
-  "2022-06-24": 1075,
-  "2022-06-25": 1077,
-  "2022-06-26": 1077,
-  "2022-06-27": 1077,
-  "2022-06-28": 1076,
-  "2022-06-29": 1076,
-  "2022-06-30": 1076,
-  "2022-07-01": 1076,
-  "2022-07-02": 1076,
-  "2022-07-03": 1076,
-  "2022-07-04": 1076,
-  "2022-07-05": 1076,
-  "2022-07-06": 1076,
-  "2022-07-07": 1077,
-  "2022-07-08": 1077,
-  "2022-07-09": 1077,
-  "2022-07-10": 1078,
-  "2022-07-11": 1079,
-  "2022-07-12": 1079,
-  "2022-07-13": 1079,
-  "2022-07-14": 1080,
-  "2022-07-15": 1080,
-  "2022-07-16": 1080,
-  "2022-07-17": 1081,
-  "2022-07-18": 1081,
-  "2022-07-19": 1081,
-  "2022-07-20": 1080,
-  "2022-07-21": 1080,
-  "2022-07-22": 1080,
-  "2022-07-23": 1080,
-  "2022-07-24": 1080,
-  "2022-07-25": 1081,
-  "2022-07-26": 1081,
-  "2022-07-27": 1080,
-  "2022-07-28": 1080,
-  "2022-07-29": 1080,
-  "2022-07-30": 1083,
-  "2022-07-31": 1083,
-  "2022-08-01": 1083,
-  "2022-08-02": 1086,
-  "2022-08-03": 1086,
-  "2022-08-04": 1087,
-  "2022-08-05": 1088,
-  "2022-08-06": 1088,
-  "2022-08-07": 1088,
-  "2022-08-08": 1088,
-  "2022-08-09": 1089,
-  "2022-08-10": 1089,
-  "2022-08-11": 1089,
-  "2022-08-12": 1088,
-  "2022-08-13": 1091,
-  "2022-08-14": 1091,
-  "2022-08-15": 1091,
-  "2022-08-16": 1090,
-  "2022-08-17": 1090,
-  "2022-08-18": 1092,
-  "2022-08-19": 1092,
-  "2022-08-20": 1091,
-  "2022-08-21": 1091,
-  "2022-08-22": 1091,
-  "2022-08-23": 1089,
-  "2022-08-24": 1090,
-  "2022-08-25": 1090,
-  "2022-08-26": 1091,
-  "2022-08-27": 1091,
-  "2022-08-28": 1091,
-  "2022-08-29": 1091,
-  "2022-08-30": 1092,
-  "2022-08-31": 1090,
-  "2022-09-01": 1090,
-  "2022-09-02": 1091,
-  "2022-09-03": 1091,
-  "2022-09-04": 1092,
-  "2022-09-05": 1093,
-  "2022-09-06": 1094,
-  "2022-09-07": 1094,
-  "2022-09-09": 1094,
-  "2022-09-10": 1094,
-  "2022-09-11": 1095,
-  "2022-09-12": 1095,
-  "2022-09-13": 1095,
-  "2022-09-15": 1096,
-  "2022-09-16": 1097,
-  "2022-09-17": 1097,
-  "2022-09-18": 1097,
-  "2022-09-19": 1098,
-  "2022-09-20": 1098,
-  "2022-09-21": 1098,
-  "2022-09-22": 1098,
-  "2022-09-23": 1098,
-  "2022-09-24": 1098,
-  "2022-09-25": 1098,
-  "2022-09-26": 1098,
-  "2022-09-27": 1098,
-  "2022-09-28": 1098,
-  "2022-09-29": 1098,
-  "2022-09-30": 1099,
-  "2022-10-01": 1099,
-  "2022-10-02": 1100,
-  "2022-10-03": 1100,
-  "2022-10-04": 1100,
-  "2022-10-05": 1099,
-  "2022-10-06": 1100,
-  "2022-10-07": 1100,
-  "2022-10-08": 1100,
-  "2022-10-09": 1102,
-  "2022-10-10": 1102,
-  "2022-10-11": 1102,
-  "2022-10-12": 1102,
-  "2022-10-13": 1102,
-  "2022-10-14": 1102,
-  "2022-10-15": 1103,
-  "2022-10-16": 1103,
-  "2022-10-17": 1103,
-  "2022-10-18": 1104,
-  "2022-10-19": 1104,
-  "2022-10-20": 1103,
-  "2022-10-21": 1103,
-  "2022-10-22": 1105,
-  "2022-10-23": 1106,
-  "2022-10-24": 1105,
-  "2022-10-25": 1106,
-  "2022-10-26": 1106,
-  "2022-10-27": 1107,
-  "2022-10-28": 1106,
-  "2022-10-29": 1106,
-  "2022-10-30": 1106,
-  "2022-10-31": 1105,
-  "2022-11-01": 1104,
-  "2022-11-02": 1104,
-  "2022-11-03": 1105,
-  "2022-11-04": 1105,
-  "2022-11-05": 1106,
-  "2022-11-06": 1106,
-  "2022-11-07": 1106,
-  "2022-11-08": 1106,
-  "2022-11-09": 1106,
-  "2022-11-10": 1107,
-  "2022-11-11": 1107,
-  "2022-11-12": 1109,
-  "2022-11-13": 1108,
-  "2022-11-14": 1108,
-  "2022-11-15": 1109,
-  "2022-11-16": 1109,
-  "2022-11-17": 1109,
-  "2022-11-18": 1109,
-  "2022-11-19": 1108,
-  "2022-11-20": 1109,
-  "2022-11-21": 1109,
-  "2022-11-22": 1110,
-  "2022-11-23": 1110,
-  "2022-11-24": 1111,
-  "2022-11-25": 1114,
-  "2022-11-26": 1116,
-  "2022-11-27": 1116,
-  "2022-11-28": 1116,
-  "2022-11-29": 1117,
-  "2022-11-30": 1118,
-  "2022-12-01": 1119,
-  "2022-12-02": 1119,
-  "2022-12-03": 1120,
-  "2022-12-04": 1120,
-  "2022-12-05": 1120,
-  "2022-12-06": 1121,
-  "2022-12-07": 1121,
-  "2022-12-08": 1121,
-  "2022-12-09": 1121,
-  "2022-12-10": 1121,
-  "2022-12-11": 1121,
-  "2022-12-12": 1121,
-  "2022-12-13": 1120,
-  "2022-12-14": 1120,
-  "2022-12-15": 1120,
-  "2022-12-16": 1120,
-  "2022-12-17": 1120,
-  "2022-12-18": 1119,
-  "2022-12-19": 1120,
-  "2022-12-20": 1121,
-  "2022-12-21": 1121,
-  "2022-12-22": 1121,
-  "2022-12-24": 1120,
-  "2022-12-25": 1120,
-  "2022-12-26": 1120,
-  "2022-12-27": 1120,
-  "2022-12-28": 1119,
-  "2022-12-29": 1118,
-  "2022-12-30": 1118,
-  "2022-12-31": 1118,
-  "2023-01-01": 1120,
-  "2023-01-02": 1120,
-  "2023-01-03": 1120,
-  "2023-01-04": 1120,
-  "2023-01-05": 1119,
-  "2023-01-06": 1121,
-  "2023-01-07": 1121,
-  "2023-01-08": 1121,
-  "2023-01-09": 1121,
-  "2023-01-10": 1121,
-  "2023-01-11": 1122,
-  "2023-01-12": 1122,
-  "2023-01-13": 1122,
-  "2023-01-14": 1124,
-  "2023-01-15": 1124,
-  "2023-01-16": 1124,
-  "2023-01-17": 1124,
-  "2023-01-18": 1125,
-  "2023-01-19": 1126,
-  "2023-01-20": 1126,
-  "2023-01-21": 1127,
-  "2023-01-22": 1128,
-  "2023-01-23": 1128,
-  "2023-01-24": 1128,
-  "2023-01-25": 1129,
-  "2023-01-26": 1130,
-  "2023-01-27": 1131,
-  "2023-01-28": 1130,
-  "2023-01-29": 1130,
-  "2023-01-30": 1131,
-  "2023-01-31": 1131,
-  "2023-02-01": 1130,
-  "2023-02-02": 1131,
-  "2023-02-03": 1130,
-  "2023-02-04": 1131,
-  "2023-02-05": 1131,
-  "2023-02-06": 1133,
-  "2023-02-07": 1133,
-  "2023-02-08": 1135,
-  "2023-02-09": 1135,
-  "2023-02-10": 1136,
-  "2023-02-11": 1137,
-  "2023-02-12": 1137,
-  "2023-02-13": 1138,
-  "2023-02-14": 1138,
-  "2023-02-15": 1138,
-  "2023-02-16": 1139,
-  "2023-02-17": 1141,
-  "2023-02-18": 1155,
-  "2023-02-19": 1157,
-  "2023-02-20": 1163,
-  "2023-02-21": 1179,
-  "2023-02-22": 1193,
-  "2023-02-23": 1212,
-  "2023-02-24": 1234,
-  "2023-02-25": 1269,
-  "2023-02-26": 1282,
-  "2023-02-27": 1315,
-  "2023-02-28": 1315,
-  "2023-03-01": 1340,
-  "2023-03-02": 1369,
-  "2023-03-03": 1394,
-  "2023-03-04": 1421,
-  "2023-03-05": 1467,
-  "2023-03-06": 1467,
-  "2023-03-07": 1485,
-  "2023-03-08": 1507,
-  "2023-03-09": 1533,
-  "2023-03-10": 1561,
-  "2023-03-11": 1584,
-  "2023-03-12": 1612,
-  "2023-03-13": 1633,
-  "2023-03-14": 1648,
-  "2023-03-15": 1663,
-  "2023-03-16": 1671,
-  "2023-03-17": 1671,
-  "2023-03-18": 1702,
-  "2023-03-19": 1728,
-  "2023-03-20": 1741,
-  "2023-03-21": 1757,
-  "2023-03-22": 1786,
-  "2023-03-23": 1807,
-  "2023-03-24": 1807,
-  "2023-03-25": 1857,
-  "2023-03-26": 1875,
-  "2023-03-27": 1894,
-  "2023-03-28": 1913,
-  "2023-03-29": 1936,
-  "2023-03-30": 1978,
-  "2023-03-31": 1978,
-  "2023-04-01": 1999,
-  "2023-04-02": 2023,
-  "2023-04-03": 2040,
-  "2023-04-04": 2055,
-  "2023-04-05": 2072,
-  "2023-04-06": 2096,
-  "2023-04-07": 2111,
-  "2023-04-09": 2135,
-  "2023-04-10": 2158,
-  "2023-04-11": 2190,
-  "2023-04-12": 2190,
-  "2023-04-13": 2205,
-  "2023-04-14": 2223,
-  "2023-04-15": 2239,
-  "2023-04-16": 2252,
-  "2023-04-17": 2281,
-  "2023-04-18": 2299,
-  "2023-04-19": 2319,
-  "2023-04-20": 2339,
-  "2023-04-21": 2349,
-  "2023-04-22": 2372,
-  "2023-04-23": 2393,
-  "2023-04-24": 2408,
-  "2023-04-25": 2434,
-  "2023-04-26": 2463,
-  "2023-04-27": 2483,
-  "2023-04-28": 2504,
-  "2023-04-29": 2531,
-  "2023-04-30": 2545,
-  "2023-05-01": 2564,
-  "2023-05-02": 2579,
-  "2023-05-03": 2596,
-  "2023-05-04": 2614,
-  "2023-05-05": 2641,
-  "2023-05-06": 2665,
-  "2023-05-07": 2685,
-  "2023-05-08": 2708,
-  "2023-05-09": 2726,
-  "2023-05-10": 2741,
-  "2023-05-11": 2755,
-  "2023-05-12": 2765,
-  "2023-05-13": 2789,
-  "2023-05-14": 2805,
-  "2023-05-15": 2825,
-  "2023-05-16": 2841,
-  "2023-05-17": 2865,
-  "2023-05-18": 2882,
-  "2023-05-19": 2902,
-  "2023-05-20": 2941,
-  "2023-05-21": 2941,
-  "2023-05-22": 2941,
-  "2023-05-23": 2969,
-  "2023-05-24": 2985,
-  "2023-05-25": 2983,
-  "2023-05-26": 3002,
-  "2023-05-27": 3012,
-  "2023-05-28": 3023,
-  "2023-05-29": 3023,
-  "2023-05-30": 3054,
-  "2023-05-31": 3063,
-  "2023-06-01": 3092,
-  "2023-06-02": 3110,
-  "2023-06-03": 3148,
-  "2023-06-04": 3210,
-  "2023-06-05": 3253,
-  "2023-06-06": 3295,
-  "2023-06-07": 3315,
-  "2023-06-08": 3332,
-  "2023-06-09": 3350,
-  "2023-06-10": 3365,
-  "2023-06-11": 3386,
-  "2023-06-12": 3397,
-  "2023-06-13": 3416,
-  "2023-06-14": 3437,
-  "2023-06-15": 3451,
-  "2023-06-16": 3466,
-  "2023-06-17": 3488,
-  "2023-06-18": 3505,
-  "2023-06-19": 3525,
-  "2023-06-20": 3545,
-  "2023-06-21": 3563,
-  "2023-06-22": 3580,
-  "2023-06-23": 3596,
-  "2023-06-24": 3617,
-  "2023-06-25": 3633,
-  "2023-06-26": 3657,
-  "2023-06-27": 3673,
-  "2023-06-28": 3686,
-  "2023-06-29": 3710,
-  "2023-06-30": 3724,
-  "2023-07-01": 3755,
-  "2023-07-02": 3755,
-  "2023-07-03": 3782,
-  "2023-07-04": 3796,
-  "2023-07-05": 3811,
-  "2023-07-06": 3840,
-  "2023-07-07": 3840,
-  "2023-07-08": 3859,
-  "2023-07-09": 3877,
-  "2023-07-10": 3895,
-  "2023-07-11": 3913,
-  "2023-07-12": 3933,
-  "2023-07-13": 3948,
-  "2023-07-14": 3970,
-  "2023-07-15": 3986,
-  "2023-07-16": 4011,
-  "2023-07-17": 4033,
-  "2023-07-18": 4052,
-  "2023-07-19": 4075,
-  "2023-07-20": 4089,
-  "2023-07-21": 4105,
-  "2023-07-22": 4117,
-  "2023-07-23": 4135,
-  "2023-07-24": 4150,
-  "2023-07-25": 4161,
-  "2023-07-26": 4171,
-  "2023-07-27": 4180,
-  "2023-07-28": 4188,
-  "2023-07-29": 4204,
-  "2023-07-30": 4221,
-  "2023-07-31": 4234,
-  "2023-08-01": 4251,
-  "2023-08-02": 4264,
-  "2023-08-03": 4281,
-  "2023-08-04": 4292,
-  "2023-08-05": 4313,
-  "2023-08-06": 4352,
-  "2023-08-07": 4352,
-  "2023-08-08": 4370,
-  "2023-08-09": 4383,
-  "2023-08-10": 4402,
-  "2023-08-11": 4425,
-  "2023-08-12": 4434,
-  "2023-08-13": 4447,
-  "2023-08-14": 4457,
-  "2023-08-15": 4489,
-  "2023-08-16": 4489,
-  "2023-08-17": 4498,
-  "2023-08-18": 4516,
-  "2023-08-19": 4526,
-  "2023-08-20": 4546,
-  "2023-08-21": 4566,
-  "2023-08-22": 4571,
-  "2023-08-23": 4585,
-  "2023-08-24": 4604,
-  "2023-08-25": 4620,
-  "2023-08-26": 4646,
-  "2023-08-27": 4675,
-  "2023-08-28": 4698,
-  "2023-08-29": 4723,
-  "2023-08-30": 4742,
-  "2023-08-31": 4764,
-  "2023-09-01": 4838,
-  "2023-09-02": 4838,
-  "2023-09-03": 4875,
-  "2023-09-04": 4924,
-  "2023-09-05": 4959,
-  "2023-09-06": 5001,
-  "2023-09-07": 5034,
-  "2023-09-08": 5066,
-  "2023-09-09": 5113,
-  "2023-09-10": 5160,
-  "2023-09-11": 5211,
-  "2023-09-12": 5245,
-  "2023-09-13": 5286,
-  "2023-09-14": 5337,
-  "2023-09-15": 5373,
-  "2023-09-16": 5406,
-  "2023-09-17": 5457,
-  "2023-09-18": 5501,
-  "2023-09-19": 5532,
-  "2023-09-20": 5568,
-  "2023-09-21": 5596,
-  "2023-09-22": 5642,
-  "2023-09-23": 5680,
-  "2023-09-24": 5727,
-  "2023-09-25": 5768,
-  "2023-09-26": 5797,
-  "2023-09-27": 5819,
-  "2023-09-28": 5848,
-  "2023-09-29": 5879,
-  "2023-09-30": 5909,
-  "2023-10-01": 5948,
-  "2023-10-02": 5984,
-  "2023-10-03": 6012,
-  "2023-10-04": 6036,
-  "2023-10-05": 6070,
-  "2023-10-06": 6114,
-  "2023-10-07": 6140,
-  "2023-10-08": 6178,
-  "2023-10-09": 6223,
-  "2023-10-10": 6258,
-  "2023-10-11": 6332,
-  "2023-10-12": 6332,
-  "2023-10-13": 6365,
-  "2023-10-14": 6387,
-  "2023-10-15": 6417,
-  "2023-10-16": 6439,
-  "2023-10-17": 6464,
-  "2023-10-18": 6478,
-  "2023-10-19": 6516,
-  "2023-10-20": 6551,
-  "2023-10-21": 6580,
-  "2023-10-22": 6617,
-  "2023-10-23": 6647,
-  "2023-10-24": 6680,
-  "2023-10-25": 6717,
-  "2023-10-26": 6736,
-  "2023-10-27": 6770,
-  "2023-10-28": 6791,
-  "2023-10-29": 6823,
-  "2023-10-30": 6880,
-  "2023-10-31": 6880,
-  "2023-11-01": 6900,
-  "2023-11-02": 6931,
-  "2023-11-03": 6962,
-  "2023-11-04": 6982,
-  "2023-11-05": 7005,
-  "2023-11-06": 7023,
-  "2023-11-07": 7044,
-  "2023-11-08": 7065,
-  "2023-11-09": 7102,
-  "2023-11-10": 7130,
-  "2023-11-11": 7161,
-  "2023-11-12": 7185,
-  "2023-11-13": 7213,
-  "2023-11-14": 7244,
-  "2023-11-15": 7244,
-  "2023-11-16": 7289,
-  "2023-11-17": 7335,
-  "2023-11-18": 7335,
-  "2023-11-19": 7365,
-  "2023-11-20": 7391,
-  "2023-11-21": 7425,
-  "2023-11-22": 7452,
-  "2023-11-23": 7478,
-  "2023-11-24": 7510,
-  "2023-11-25": 7529,
-  "2023-11-26": 7555,
-  "2023-11-27": 7579,
-  "2023-11-28": 7602,
-  "2023-11-29": 7663,
-  "2023-11-30": 7663,
-  "2023-12-01": 7684,
-  "2023-12-02": 7707,
-  "2023-12-03": 7734,
-  "2023-12-04": 7771,
-  "2023-12-05": 7792,
-  "2023-12-06": 7820,
-  "2023-12-07": 7846,
-  "2023-12-08": 7865,
-  "2023-12-09": 7874,
-  "2023-12-10": 7880,
-  "2023-12-11": 7896,
-  "2023-12-12": 7908,
-  "2023-12-13": 7930,
-  "2023-12-14": 7950,
-  "2023-12-15": 7956,
-  "2023-12-16": 7963,
-  "2023-12-17": 7968,
-  "2023-12-18": 7985,
-  "2023-12-19": 7988,
-  "2023-12-20": 7998,
-  "2023-12-21": 8003,
-  "2023-12-22": 8017,
-  "2023-12-23": 8036,
-  "2023-12-24": 8046,
-  "2023-12-25": 8060,
-  "2023-12-26": 8076,
-  "2023-12-27": 8091,
-  "2023-12-30": 8125,
-  "2023-12-31": 8141,
-  "2024-01-01": 8156,
-  "2024-01-02": 8174,
-  "2024-01-03": 8187
+  "2024-01-17": 8379,
+  "date_first_scraped": "2022-04-19",
+  "description": "These songs from superhero movies and TV shows will take you up, up, and away!",
+  "name": "Super Songs",
+  "tracks": [
+    {
+      "album": {
+        "name": "Agents of S.H.I.E.LD Main Theme",
+        "url": "https://open.spotify.com/album/5o6SN2mbbA8c2xsLjT6Zhq"
+      },
+      "artists": [
+        {
+          "name": "Geek Music",
+          "url": "https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92251,
+      "name": "Agents of S.H.I.E.LD Main Theme",
+      "url": "https://open.spotify.com/track/3fTolElkOdrYaWnlc71qJK"
+    },
+    {
+      "album": {
+        "name": "Batman: The Animated Series (Original Soundtrack from the Warner Bros. Television Series), Vol. 1",
+        "url": "https://open.spotify.com/album/4jRzlJKnTfKxGvg5vGiDBt"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 61786,
+      "name": "Batman - The Animated Series - Main Title",
+      "url": "https://open.spotify.com/track/78MThQLsm0DxEZ6ogSZ14v"
+    },
+    {
+      "album": {
+        "name": "The Music of DC Comics (75th Anniversary Collection)",
+        "url": "https://open.spotify.com/album/6g9VtJbdPo9o1UjfIAJ1kE"
+      },
+      "artists": [
+        {
+          "name": "Kristopher Carter",
+          "url": "https://open.spotify.com/artist/5ut4S6Y5pM2jR72TAmAl1V"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60293,
+      "name": "Batman Beyond (Main Title)",
+      "url": "https://open.spotify.com/track/6VjQlKm1RgWB7ofR4xMe8R"
+    },
+    {
+      "album": {
+        "name": "The Music of DC Comics: 75th AnniversaryCollection",
+        "url": "https://open.spotify.com/album/3tDHDh6PDYzCVX5dFogAvo"
+      },
+      "artists": [
+        {
+          "name": "Kristopher Carter",
+          "url": "https://open.spotify.com/artist/5ut4S6Y5pM2jR72TAmAl1V"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 60293,
+      "name": "BATMAN BEYOND (MAIN TITLE)",
+      "url": "https://open.spotify.com/track/6w6eZVTEp3YGfjgJ1AyqlH"
+    },
+    {
+      "album": {
+        "name": "Batman: The Animated Series, Vol. 1 (Original Soundtrack from the Warner Bros. Television Series)",
+        "url": "https://open.spotify.com/album/7MlfJk6Wh9Ig315YKUDE01"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61786,
+      "name": "Batman: The Animated Series (Main Title)",
+      "url": "https://open.spotify.com/track/5l2FbSEaZJtQNv6Z2h1DnK"
+    },
+    {
+      "album": {
+        "name": "Batman: The Animated Series, Vol. 6 (Original Soundtrack from the Warner Bros. Television Series)",
+        "url": "https://open.spotify.com/album/1NUIQcFwDbrRq9GWU9A1dL"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 63786,
+      "name": "Batman: The Animated Series (Main Title) [With Sound Effects]",
+      "url": "https://open.spotify.com/track/3lz0AoHqvBrqqm5rCyRhYs"
+    },
+    {
+      "album": {
+        "name": "Batman v Superman: Dawn Of Justice (Original Motion Picture Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/408Zd9N7K8Z07GIQeyGDh7"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227140,
+      "name": "Beautiful Lie",
+      "url": "https://open.spotify.com/track/5Pe1X7rPkBnXc94mTLXt5O"
+    },
+    {
+      "album": {
+        "name": "Batman v Superman: Dawn of Justice (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4PAHIwIasrswKSU5KDzROJ"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227266,
+      "name": "Beautiful Lie",
+      "url": "https://open.spotify.com/track/4G3DXzZf0J3EFWgY1jfFbJ"
+    },
+    {
+      "album": {
+        "name": "Iron Man 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162200,
+      "name": "Can You Dig It (Iron Man 3 Main Titles)",
+      "url": "https://open.spotify.com/track/63toFNYr6cHaxMmhd2QmzQ"
+    },
+    {
+      "album": {
+        "name": "Captain America: The First Avenger",
+        "url": "https://open.spotify.com/album/0La1Tskamjd6akysepE8r5"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54293,
+      "name": "Captain America Main Titles",
+      "url": "https://open.spotify.com/track/6y8BWRP7CmQ1Zjy7D1f6BN"
+    },
+    {
+      "album": {
+        "name": "Captain Marvel (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0"
+      },
+      "artists": [
+        {
+          "name": "Pinar Toprak",
+          "url": "https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135311,
+      "name": "Captain Marvel",
+      "url": "https://open.spotify.com/track/4CQ8uwWfH9hDCbwj4PUs58"
+    },
+    {
+      "album": {
+        "name": "Captain America: Civil War (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RjfqRZ2wDniTD5ahkbOgo"
+      },
+      "artists": [
+        {
+          "name": "Henry Jackman",
+          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265760,
+      "name": "Civil War",
+      "url": "https://open.spotify.com/track/5UUZRLyBE80HsJWmnLM7A4"
+    },
+    {
+      "album": {
+        "name": "Justice League (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3aQNN5zuOmA20K0CNlI1O7"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193106,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/1ZZVwq386lhCrTBzPF09Tu"
+    },
+    {
+      "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
+    },
+    {
+      "album": {
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
+      },
+      "artists": [
+        {
+          "name": "Blake Neely",
+          "url": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50280,
+      "name": "DC's Legends of Tomorrow Theme",
+      "url": "https://open.spotify.com/track/0akKxKEcfviK7LAwzRlVy3"
+    },
+    {
+      "album": {
+        "name": "The Music of DC Comics: Volume 2",
+        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+      },
+      "artists": [
+        {
+          "name": "Blake Neely",
+          "url": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 50280,
+      "name": "DC's Legends of Tomorrow Theme (2016)",
+      "url": "https://open.spotify.com/track/3okneu49IAzmFzwEFqVDlg"
+    },
+    {
+      "album": {
+        "name": "Ant-Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/72mY2C05rfAbkHOax2gJYf"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134253,
+      "name": "Escape - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/5bjSpMat60v3eoOjGkL4rg"
+    },
+    {
+      "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138146,
+      "name": "Escape - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6"
+    },
+    {
+      "album": {
+        "name": "Justice League (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3aQNN5zuOmA20K0CNlI1O7"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265560,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/34b3PCTLUISY153eb2F72k"
+    },
+    {
+      "album": {
+        "name": "Aquaman (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/0LbBu7ge5bkDeI17ozc174"
+      },
+      "artists": [
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196234,
+      "name": "Everything I Need - Film Version",
+      "url": "https://open.spotify.com/track/5B6082J94hvTWxLjWBIm2g"
+    },
+    {
+      "album": {
+        "name": "Aquaman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6SSFokNpOOCKzrN6znsaCb"
+      },
+      "artists": [
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196234,
+      "name": "Everything I Need - Film Version",
+      "url": "https://open.spotify.com/track/6QcERmfQKHKtRE4yW7f0cC"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167373,
+      "name": "Flash - Remastered 2011",
+      "url": "https://open.spotify.com/track/4Xxra8s5kUaLy7CMRkw7mn"
+    },
+    {
+      "album": {
+        "name": "Flash Gordon (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4r9kNse038AoF2KfbqPUOS"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168213,
+      "name": "Flash - Single Version",
+      "url": "https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg"
+    },
+    {
+      "album": {
+        "name": "Flash Gordon (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0JCLXuGXJ7lKKOD5mc1Ela"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "Flash - Single Version",
+      "url": "https://open.spotify.com/track/6tYYT8zNxkadSCujCdR6Ur"
+    },
+    {
+      "album": {
+        "name": "Teen Titans Go! To The Movies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2"
+      },
+      "artists": [
+        {
+          "name": "Teen Titans Go!",
+          "url": "https://open.spotify.com/artist/7gbPHgWtOXiy5bgUpfRDt4"
+        },
+        {
+          "name": "Greg Cipes",
+          "url": "https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH"
+        },
+        {
+          "name": "Scott Menville",
+          "url": "https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB"
+        },
+        {
+          "name": "Khary Payton",
+          "url": "https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0"
+        },
+        {
+          "name": "Tara Strong",
+          "url": "https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp"
+        },
+        {
+          "name": "Hynden Walch",
+          "url": "https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97973,
+      "name": "Go! (feat. Greg Cipes, Scott Menville, Khary Payton, Tara Strong & Hynden Walch)",
+      "url": "https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd"
+    },
+    {
+      "album": {
+        "name": "Hero (feat. Josey Scott)",
+        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
+      },
+      "artists": [
+        {
+          "name": "Chad Kroeger",
+          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+        },
+        {
+          "name": "Josey Scott",
+          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200480,
+      "name": "Hero (feat. Josey Scott)",
+      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "album": {
+        "name": "Avengers: Age of Ultron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1UaUCko4qqWnT2gJKmaQLT"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127452,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/3h8DQEl5vgt5BRIlVXXycl"
+    },
+    {
+      "album": {
+        "name": "Avengers: Age of Ultron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127453,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/2ZPYWMdJ8ro0KXsPYBE8YE"
+    },
+    {
+      "album": {
+        "name": "Epic Gaming",
+        "url": "https://open.spotify.com/album/18ccuDm8AWBAbzPBB0JQPI"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 127453,
+      "name": "Heroes - From \"Avengers: Age of Ultron\"/Score",
+      "url": "https://open.spotify.com/track/3dGsXCMJLnWSBrlV424ZT2"
+    },
+    {
+      "album": {
+        "name": "Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe (The Definitive Soundtrack)",
+        "url": "https://open.spotify.com/album/0RcJ8J0sMvPQ2kVcnYs4iK"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hussey",
+          "url": "https://open.spotify.com/artist/6Lysm09zZS8y7uCxZai8Z3"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250320,
+      "name": "I Have the Power (Closing Credits)",
+      "url": "https://open.spotify.com/track/3XYQX943oWviE5s7rx4tKy"
+    },
+    {
+      "album": {
+        "name": "The Amazing Spider-Man 2 (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "The Magnificent Six",
+          "url": "https://open.spotify.com/artist/3TwaH6h6rvgPfzAiDMj0OY"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60360,
+      "name": "I'm Spider-Man",
+      "url": "https://open.spotify.com/track/7D42jUGCSe0BhIco9Pb7TB"
+    },
+    {
+      "album": {
+        "name": "Avengers: Infinity War (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "Infinity War",
+      "url": "https://open.spotify.com/track/51Amo7fyI2jL3sf2UgX75i"
+    },
+    {
+      "album": {
+        "name": "Iron Fist (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1j5GEpOvLbIKpeWm1BwJJ9"
+      },
+      "artists": [
+        {
+          "name": "Trevor Morris",
+          "url": "https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75373,
+      "name": "Iron Fist Main Titles",
+      "url": "https://open.spotify.com/track/5fwwIBebYWFriw4iamcsyj"
+    },
+    {
+      "album": {
+        "name": "Iron Fist (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2vRIJhPgd8GCtauVfW29wh"
+      },
+      "artists": [
+        {
+          "name": "Trevor Morris",
+          "url": "https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 75373,
+      "name": "Iron Fist Main Titles",
+      "url": "https://open.spotify.com/track/5mJV8ifMJipo96ErGJrAED"
+    },
+    {
+      "album": {
+        "name": "Ant-Man and The Wasp (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6xXdJOLhPTwoYzQU28zeih"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154028,
+      "name": "It Ain't Over Till the Wasp Lady Stings",
+      "url": "https://open.spotify.com/track/4CfZ8PFdTzGSdqiictXvj7"
+    },
+    {
+      "album": {
+        "name": "The Music of DC Comics: Volume 2",
+        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+      },
+      "artists": [
+        {
+          "name": "The Sensational Guitars of Dan and Dale",
+          "url": "https://open.spotify.com/artist/75lkcz4GkFoUfGT1bYic5Y"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 116973,
+      "name": "Joker Is Wild (1966)",
+      "url": "https://open.spotify.com/track/1b4j6aYit6XXDfNPr881kn"
+    },
+    {
+      "album": {
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
+      },
+      "artists": [
+        {
+          "name": "The Sensational Guitars of Dan and Dale",
+          "url": "https://open.spotify.com/artist/75lkcz4GkFoUfGT1bYic5Y"
+        },
+        {
+          "name": "Sun Ra",
+          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+        },
+        {
+          "name": "The Blues Project",
+          "url": "https://open.spotify.com/artist/1lvclIZLUGZ52gMi7uDDkv"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116973,
+      "name": "Joker Is Wild (feat. Sun Ra & The Blues Project)",
+      "url": "https://open.spotify.com/track/7LLGAqrhJfy2gh2DKVJfL0"
+    },
+    {
+      "album": {
+        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "Main on End",
+      "url": "https://open.spotify.com/track/5POrWnsqEV6HwTcRKLdXxk"
+    },
+    {
+      "album": {
+        "name": "The Incredible Hulk",
+        "url": "https://open.spotify.com/album/5x0CWYcRc6ek2M8W218T6G"
+      },
+      "artists": [
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158640,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/6cUKdJOB8sSjZLHcuwFHKJ"
+    },
+    {
+      "album": {
+        "name": "The Incredible Hulk Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/2PgkQuCa26nQxZrx4ZMHTR"
+      },
+      "artists": [
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 158679,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/4oNnRYkRnFzEeGnqJ1SuiG"
+    },
+    {
+      "album": {
+        "name": "Original Motion Picture Score Iron Man 2",
+        "url": "https://open.spotify.com/album/6bnGdcfwPDRSkj6H8GcbAh"
+      },
+      "artists": [
+        {
+          "name": "The Stark Expo Singers",
+          "url": "https://open.spotify.com/artist/4ZahdE5j5gbwTNG3O3NIjT"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111706,
+      "name": "Make Way For Tomorrow Today",
+      "url": "https://open.spotify.com/track/26kXeKuiQKn02awx4US5VR"
+    },
+    {
+      "album": {
+        "name": "Thor: The Dark World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OeadLLasL6zqGPjPEic6x"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 30733,
+      "name": "Marvel Studios Fanfare",
+      "url": "https://open.spotify.com/track/0GAIkIQFxTw4vr18anewE9"
+    },
+    {
+      "album": {
+        "name": "Thor: The Dark World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30733,
+      "name": "Marvel Studios Fanfare - From \"Thor: The Dark World\"/Score",
+      "url": "https://open.spotify.com/track/0vPZjeaM0cfbxZJntcD4iy"
+    },
+    {
+      "album": {
+        "name": "Suspense Soundtrack",
+        "url": "https://open.spotify.com/album/3l5D0nRTpsmjZBGDgGNORu"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 30733,
+      "name": "Marvel Studios Fanfare - From \"Thor: The Dark World\"/Score",
+      "url": "https://open.spotify.com/track/1AnHtZNh3mm3T9qAOQwEou"
+    },
+    {
+      "album": {
+        "name": "Avengers: Age of Ultron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "New Avengers - Avengers: Age of Ultron",
+      "url": "https://open.spotify.com/track/1fNwvHEncsLvhwEKmzlO6S"
+    },
+    {
+      "album": {
+        "name": "Thor: Ragnarok (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4gecrZPdDxMlVxBtpobpxr"
+      },
+      "artists": [
+        {
+          "name": "Mark Mothersbaugh",
+          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533293,
+      "name": "Ragnarok Suite",
+      "url": "https://open.spotify.com/track/646yYgVW5sZWJloaGEW728"
+    },
+    {
+      "album": {
+        "name": "Shazam! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6NQOygSHUeiiAEo4fJwyji"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239440,
+      "name": "SHAZAM!",
+      "url": "https://open.spotify.com/track/2PdCnTHon1MSzMpkCE6C6A"
+    },
+    {
+      "album": {
+        "name": "The Greatest Ever Cartoon Television Themes",
+        "url": "https://open.spotify.com/album/4kMrFZG6fCpDnzXHS2ZIbo"
+      },
+      "artists": [
+        {
+          "name": "TV Themes",
+          "url": "https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62066,
+      "name": "Spider Man",
+      "url": "https://open.spotify.com/track/2STg7P6dXeSJnSJ7m3wMGi"
+    },
+    {
+      "album": {
+        "name": "Invaders Must Die",
+        "url": "https://open.spotify.com/album/0NgCbFQaA3AayOPHYsvgyw"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 330106,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/1vP5y0jIQxsv5HKhSMFRZk"
+    },
+    {
+      "album": {
+        "name": "Invaders Must Die",
+        "url": "https://open.spotify.com/album/05FqRYaC6S9R1CnF85187v"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 330106,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/20c8AbFaKkM6sTYjOV83ds"
+    },
+    {
+      "album": {
+        "name": "Invaders Must Die",
+        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330106,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/27eOkcTYHslq8tlzsMMwMu"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "album": {
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
+      },
+      "artists": [
+        {
+          "name": "Blake Neely",
+          "url": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71573,
+      "name": "Supergirl Theme",
+      "url": "https://open.spotify.com/track/66B7UOtpZR4IXjYzycoYeS"
+    },
+    {
+      "album": {
+        "name": "The Music of DC Comics: Volume 2",
+        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+      },
+      "artists": [
+        {
+          "name": "Blake Neely",
+          "url": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 71573,
+      "name": "Supergirl Theme (2015)",
+      "url": "https://open.spotify.com/track/4OHZzKoB0Zt9jboLdt6yl1"
+    },
+    {
+      "album": {
+        "name": "John Williams: A Life In Music",
+        "url": "https://open.spotify.com/album/6qhYCCFVOQKNFq5QbYpje8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277173,
+      "name": "Superman March - From \"Superman\"",
+      "url": "https://open.spotify.com/track/0jIpvu2Xrb9q2vIKSQZioZ"
+    },
+    {
+      "album": {
+        "name": "Suicide Squad (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/0C8fz2LJQotVr0SZNta8H6"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 293233,
+      "name": "Task Force X",
+      "url": "https://open.spotify.com/track/57oOa3BFEEcyWTcqyBFtlI"
+    },
+    {
+      "album": {
+        "name": "Suicide Squad (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/54ELeWTUyq31j9N9rVo3BM"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293233,
+      "name": "Task Force X",
+      "url": "https://open.spotify.com/track/5cbLjpz9mPdlWzukPaxn6N"
+    },
+    {
+      "album": {
+        "name": "Cartoon Themes (10 Cartoon Favourites)",
+        "url": "https://open.spotify.com/album/4i06SveFnINFQRNy35btWM"
+      },
+      "artists": [
+        {
+          "name": "Anime Kei",
+          "url": "https://open.spotify.com/artist/0PMGIDR5OQokTICRFbNdeB"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61500,
+      "name": "Teen Titans Theme (From \"Teen Titans\") - Instrumental Mix",
+      "url": "https://open.spotify.com/track/5cefstO9Bg6cSW0EsSJmJm"
+    },
+    {
+      "album": {
+        "name": "The Avengers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123360,
+      "name": "The Avengers",
+      "url": "https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR"
+    },
+    {
+      "album": {
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
+      },
+      "artists": [
+        {
+          "name": "Kristopher Carter",
+          "url": "https://open.spotify.com/artist/5ut4S6Y5pM2jR72TAmAl1V"
+        },
+        {
+          "name": "Lolita Ritmanis",
+          "url": "https://open.spotify.com/artist/6ENZXZKAJBmuvH7e9HMwkz"
+        },
+        {
+          "name": "Michael McCuistion",
+          "url": "https://open.spotify.com/artist/6qDihxsWaBi3F5YG8igQiJ"
+        },
+        {
+          "name": "John DiMaggio",
+          "url": "https://open.spotify.com/artist/04jyrvfZFrbSjUlEXwsA53"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137946,
+      "name": "The Ballad of Batman (feat. John DiMaggio) - From Batman: The Brave and The Bold",
+      "url": "https://open.spotify.com/track/4W08FvkMp8Oxfr5OrMHmkz"
+    },
+    {
+      "album": {
+        "name": "The Music of DC Comics: Volume 2",
+        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+      },
+      "artists": [
+        {
+          "name": "John DiMaggio",
+          "url": "https://open.spotify.com/artist/04jyrvfZFrbSjUlEXwsA53"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 137946,
+      "name": "The Ballad of Batman (from Batman: The Brave and The Bold [2002])",
+      "url": "https://open.spotify.com/track/32KkHrVnaMIHezr8s2zuuN"
+    },
+    {
+      "album": {
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93040,
+      "name": "The Flash TV Series Theme",
+      "url": "https://open.spotify.com/track/2zz2k1QGpz62V7sPxBsiBX"
+    },
+    {
+      "album": {
+        "name": "The Music of DC Comics: Volume 2",
+        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 93040,
+      "name": "The Flash TV Series Theme (1990)",
+      "url": "https://open.spotify.com/track/2YrJIx7c6aywjBxlhwRgPE"
+    },
+    {
+      "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "The Glory Days",
+      "url": "https://open.spotify.com/track/59Djq0zGIu8HDZ8QXs2oiz"
+    },
+    {
+      "album": {
+        "name": "The Incredibles Original Soundtrack",
+        "url": "https://open.spotify.com/album/3CFGTROkG8NTb9FcGED0Hd"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 441320,
+      "name": "The Incredits",
+      "url": "https://open.spotify.com/track/1fgWcdALLy8iIJw8zfxLMr"
+    },
+    {
+      "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441453,
+      "name": "The Incredits",
+      "url": "https://open.spotify.com/track/3M7GXKcmP9WzW8zoOeTSTJ"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68560,
+      "name": "The Jabari",
+      "url": "https://open.spotify.com/track/6i0hIiIRiHU2CouXvYCq8Z"
+    },
+    {
+      "album": {
+        "name": "Justice League (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3aQNN5zuOmA20K0CNlI1O7"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48466,
+      "name": "The Justice League Theme - Logos",
+      "url": "https://open.spotify.com/track/360tlInWTYu7kOBWAi9YWJ"
+    },
+    {
+      "album": {
+        "name": "The Wolverine",
+        "url": "https://open.spotify.com/album/2wrlDHUaJOIgfOJMcYyW2w"
+      },
+      "artists": [
+        {
+          "name": "Marco Beltrami",
+          "url": "https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i"
+        },
+        {
+          "name": "Pete Anthony",
+          "url": "https://open.spotify.com/artist/5KKEMrGvNos1TXpuGz9Rbr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141626,
+      "name": "The Wolverine",
+      "url": "https://open.spotify.com/track/1rvznQo13QGGrqN596vIDH"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Homecoming (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Aao9FYpxQXuNrAPjJnud1"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39960,
+      "name": "Theme (from \"Spider Man\") [Original Television Series]",
+      "url": "https://open.spotify.com/track/1tzj2vY4twkNmZ5K3DUOPp"
+    },
+    {
+      "album": {
+        "name": "Ant-Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/72mY2C05rfAbkHOax2gJYf"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166106,
+      "name": "Theme from Ant-Man",
+      "url": "https://open.spotify.com/track/6yNPVGljyzMYTxEhL6fLBg"
+    },
+    {
+      "album": {
+        "name": "The Music of DC Comics: 75th Anniversary Collection",
+        "url": "https://open.spotify.com/album/774TWKXsJN4gVksN3iiqJH"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263960,
+      "name": "Theme from Superman (1978)",
+      "url": "https://open.spotify.com/track/2ZKkqaXcsVyqvrp94D31Eg"
+    },
+    {
+      "album": {
+        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240960,
+      "name": "To Be Human (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
+    },
+    {
+      "album": {
+        "name": "Avengers: Age of Ultron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227773,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/1Dtp117lQkZDKsqhraVF5U"
+    },
+    {
+      "album": {
+        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
+      },
+      "artists": [
+        {
+          "name": "Rupert Gregson-Williams",
+          "url": "https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246480,
+      "name": "Wonder Woman's Wrath",
+      "url": "https://open.spotify.com/track/7N31Y7XEzOvDzKuFkCgDon"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWU8An4lZhLWW"
 }

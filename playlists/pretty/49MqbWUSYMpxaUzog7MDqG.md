@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain]
 
 > Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop\. Cover: David Kushner
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,330 likes - 262 songs - 15 hr 20 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,262 likes - 263 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,5 +270,6 @@ pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain]
 | 260 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
 | 261 | [Get It Together \- Télépopmusik Lofi Flip](https://open.spotify.com/track/0JfWDfnnfkGa30FXFnogyl) | [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce), [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo), [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF) | [Get It Together \(Télépopmusik Lofi Flip\)](https://open.spotify.com/album/57mmXGq1pgO0OaLU235fzN) | 3:36 |
 | 262 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
+| 263 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `MzUzMSw2YzRmYmM5ZmRlN2ViN2ZmNmZjYjRiOTI2NTNkN2FkY2U2MGQxNmRi`
+Snapshot ID: `MzUzMiw3ZDBhZGFiOGQ4NDAzMmM4MzBlMTI4MzEyNzQyOGQ1MDIyNTZlMTBm`

@@ -692,10 +692,28 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 172853,
       "name": "Tucson Too Late",
       "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+    },
+    {
+      "album": {
+        "name": "Tucson Too Late (Live Acoustic)",
+        "url": "https://open.spotify.com/album/4fa2cd0EzHd4g92IY2fn5G"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186368,
+      "name": "Tucson Too Late - Live Acoustic",
+      "url": "https://open.spotify.com/track/27iEURX7ffTh0O6ULtqhRW"
     },
     {
       "album": {
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "You've Got My Number",
       "url": "https://open.spotify.com/track/4vFhJzZUikY09Jl2YVCa2n"

@@ -1,284 +1,1241 @@
 {
-  "2023-03-25": 446599,
-  "2023-03-26": 446790,
-  "2023-03-27": 446953,
-  "2023-03-28": 447128,
-  "2023-03-29": 447309,
-  "2023-03-30": 447573,
-  "2023-03-31": 447573,
-  "2023-04-01": 447736,
-  "2023-04-02": 447905,
-  "2023-04-03": 448068,
-  "2023-04-04": 448230,
-  "2023-04-05": 448394,
-  "2023-04-06": 448565,
-  "2023-04-07": 448762,
-  "2023-04-09": 449092,
-  "2023-04-10": 449247,
-  "2023-04-11": 449616,
-  "2023-04-12": 449616,
-  "2023-04-13": 449799,
-  "2023-04-14": 449977,
-  "2023-04-15": 450147,
-  "2023-04-16": 450314,
-  "2023-04-17": 450456,
-  "2023-04-18": 450600,
-  "2023-04-19": 450739,
-  "2023-04-20": 450911,
-  "2023-04-21": 451074,
-  "2023-04-22": 451246,
-  "2023-04-23": 451416,
-  "2023-04-24": 451596,
-  "2023-04-25": 451743,
-  "2023-04-26": 451848,
-  "2023-04-27": 451998,
-  "2023-04-28": 452136,
-  "2023-04-29": 452304,
-  "2023-04-30": 452473,
-  "2023-05-01": 452658,
-  "2023-05-02": 452816,
-  "2023-05-03": 452957,
-  "2023-05-04": 453101,
-  "2023-05-05": 453240,
-  "2023-05-06": 453400,
-  "2023-05-07": 453530,
-  "2023-05-08": 453688,
-  "2023-05-09": 453814,
-  "2023-05-10": 453964,
-  "2023-05-11": 454064,
-  "2023-05-12": 454197,
-  "2023-05-13": 454325,
-  "2023-05-14": 454509,
-  "2023-05-15": 454665,
-  "2023-05-16": 454830,
-  "2023-05-17": 454970,
-  "2023-05-18": 455114,
-  "2023-05-19": 455262,
-  "2023-05-20": 455522,
-  "2023-05-21": 455522,
-  "2023-05-22": 455522,
-  "2023-05-23": 455782,
-  "2023-05-24": 455993,
-  "2023-05-25": 456033,
-  "2023-05-26": 456158,
-  "2023-05-27": 456296,
-  "2023-05-28": 456427,
-  "2023-05-29": 456427,
-  "2023-05-30": 456711,
-  "2023-05-31": 456879,
-  "2023-06-01": 457010,
-  "2023-06-02": 457139,
-  "2023-06-03": 457280,
-  "2023-06-04": 457458,
-  "2023-06-05": 457582,
-  "2023-06-06": 457708,
-  "2023-06-07": 457845,
-  "2023-06-08": 457964,
-  "2023-06-09": 458094,
-  "2023-06-10": 458249,
-  "2023-06-11": 458415,
-  "2023-06-12": 458559,
-  "2023-06-13": 458688,
-  "2023-06-14": 458823,
-  "2023-06-15": 458951,
-  "2023-06-16": 459106,
-  "2023-06-17": 459261,
-  "2023-06-18": 459399,
-  "2023-06-19": 459528,
-  "2023-06-20": 459649,
-  "2023-06-21": 459782,
-  "2023-06-22": 459924,
-  "2023-06-23": 460054,
-  "2023-06-24": 460207,
-  "2023-06-25": 460356,
-  "2023-06-26": 460486,
-  "2023-06-27": 460586,
-  "2023-06-28": 460727,
-  "2023-06-29": 460866,
-  "2023-06-30": 461067,
-  "2023-07-01": 461372,
-  "2023-07-02": 461372,
-  "2023-07-03": 461514,
-  "2023-07-04": 461613,
-  "2023-07-05": 461758,
-  "2023-07-06": 462009,
-  "2023-07-07": 462009,
-  "2023-07-08": 462110,
-  "2023-07-09": 462267,
-  "2023-07-10": 462424,
-  "2023-07-11": 462575,
-  "2023-07-12": 462712,
-  "2023-07-13": 462856,
-  "2023-07-14": 463010,
-  "2023-07-15": 463148,
-  "2023-07-16": 463372,
-  "2023-07-17": 463540,
-  "2023-07-18": 463713,
-  "2023-07-19": 463886,
-  "2023-07-20": 464019,
-  "2023-07-21": 464145,
-  "2023-07-22": 464311,
-  "2023-07-23": 464453,
-  "2023-07-24": 464585,
-  "2023-07-25": 464709,
-  "2023-07-26": 464835,
-  "2023-07-27": 464983,
-  "2023-07-28": 465132,
-  "2023-07-29": 465268,
-  "2023-07-30": 465414,
-  "2023-07-31": 465542,
-  "2023-08-01": 465680,
-  "2023-08-02": 465797,
-  "2023-08-03": 465911,
-  "2023-08-04": 466040,
-  "2023-08-05": 466195,
-  "2023-08-06": 466455,
-  "2023-08-07": 466455,
-  "2023-08-08": 466583,
-  "2023-08-09": 466736,
-  "2023-08-10": 466879,
-  "2023-08-11": 467055,
-  "2023-08-12": 467261,
-  "2023-08-13": 467261,
-  "2023-08-14": 467607,
-  "2023-08-15": 467753,
-  "2023-08-16": 467753,
-  "2023-08-17": 468057,
-  "2023-08-18": 468057,
-  "2023-08-19": 468453,
-  "2023-08-20": 468629,
-  "2023-08-21": 468779,
-  "2023-08-22": 469014,
-  "2023-08-23": 469234,
-  "2023-08-24": 469487,
-  "2023-08-25": 469725,
-  "2023-08-26": 469968,
-  "2023-08-27": 470189,
-  "2023-08-28": 470383,
-  "2023-08-29": 470561,
-  "2023-08-30": 470561,
-  "2023-08-31": 470886,
-  "2023-09-01": 471224,
-  "2023-09-02": 471224,
-  "2023-09-03": 471390,
-  "2023-09-04": 471390,
-  "2023-09-05": 471707,
-  "2023-09-06": 471867,
-  "2023-09-07": 471867,
-  "2023-09-08": 471867,
-  "2023-09-09": 471867,
-  "2023-09-10": 472507,
-  "2023-09-11": 472672,
-  "2023-09-12": 472672,
-  "2023-09-13": 473016,
-  "2023-09-14": 473016,
-  "2023-09-15": 473016,
-  "2023-09-16": 473459,
-  "2023-09-17": 473459,
-  "2023-09-18": 473459,
-  "2023-09-19": 473884,
-  "2023-09-20": 473884,
-  "2023-09-21": 473884,
-  "2023-09-22": 474327,
-  "2023-09-23": 474327,
-  "2023-09-24": 474327,
-  "2023-09-25": 474327,
-  "2023-09-26": 474866,
-  "2023-09-27": 474866,
-  "2023-09-28": 474866,
-  "2023-09-29": 474866,
-  "2023-09-30": 474866,
-  "2023-10-01": 474866,
-  "2023-10-02": 475644,
-  "2023-10-03": 475644,
-  "2023-10-04": 475644,
-  "2023-10-05": 475971,
-  "2023-10-06": 476080,
-  "2023-10-07": 476080,
-  "2023-10-08": 476080,
-  "2023-10-09": 476080,
-  "2023-10-10": 476080,
-  "2023-10-11": 476319,
-  "2023-10-12": 476319,
-  "2023-10-13": 476319,
-  "2023-10-14": 476319,
-  "2023-10-15": 476319,
-  "2023-10-16": 476319,
-  "2023-10-17": 476319,
-  "2023-10-18": 476319,
-  "2023-10-19": 476319,
-  "2023-10-20": 476319,
-  "2023-10-21": 476319,
-  "2023-10-22": 476319,
-  "2023-10-23": 476319,
-  "2023-10-24": 476319,
-  "2023-10-25": 476319,
-  "2023-10-26": 476319,
-  "2023-10-27": 476319,
-  "2023-10-28": 476319,
-  "2023-10-29": 476319,
-  "2023-10-30": 476319,
-  "2023-10-31": 476319,
-  "2023-11-01": 476319,
-  "2023-11-02": 476319,
-  "2023-11-03": 476319,
-  "2023-11-04": 476319,
-  "2023-11-05": 476319,
-  "2023-11-06": 476319,
-  "2023-11-07": 476319,
-  "2023-11-08": 476319,
-  "2023-11-09": 476319,
-  "2023-11-10": 476319,
-  "2023-11-11": 480464,
-  "2023-11-12": 480464,
-  "2023-11-13": 480464,
-  "2023-11-14": 480464,
-  "2023-11-15": 480464,
-  "2023-11-16": 480464,
-  "2023-11-17": 480464,
-  "2023-11-18": 480464,
-  "2023-11-19": 480464,
-  "2023-11-20": 480464,
-  "2023-11-21": 480464,
-  "2023-11-22": 480464,
-  "2023-11-23": 480464,
-  "2023-11-24": 480464,
-  "2023-11-25": 480464,
-  "2023-11-26": 480464,
-  "2023-11-27": 480464,
-  "2023-11-28": 480464,
-  "2023-11-29": 480464,
-  "2023-11-30": 480464,
-  "2023-12-01": 480464,
-  "2023-12-02": 480464,
-  "2023-12-03": 480464,
-  "2023-12-04": 480464,
-  "2023-12-05": 480464,
-  "2023-12-06": 480464,
-  "2023-12-07": 480464,
-  "2023-12-08": 480464,
-  "2023-12-09": 480464,
-  "2023-12-10": 480464,
-  "2023-12-11": 480464,
-  "2023-12-12": 480464,
-  "2023-12-13": 480464,
-  "2023-12-14": 485768,
-  "2023-12-15": 485835,
-  "2023-12-16": 485934,
-  "2023-12-17": 486025,
-  "2023-12-18": 486092,
-  "2023-12-19": 486153,
-  "2023-12-20": 486233,
-  "2023-12-21": 486310,
-  "2023-12-22": 486389,
-  "2023-12-23": 486453,
-  "2023-12-24": 486550,
-  "2023-12-25": 486620,
-  "2023-12-26": 486663,
-  "2023-12-27": 486740,
-  "2023-12-30": 487017,
-  "2023-12-31": 487099,
-  "2024-01-01": 487157,
-  "2024-01-02": 487236,
-  "2024-01-03": 487298
+  "2024-01-17": 486679,
+  "date_first_scraped": "2023-03-25",
+  "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
+  "name": "This Is Natalia Lafourcade",
+  "tracks": [
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259586,
+      "name": "Alma M\u00eda (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
+    },
+    {
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Amor, Amor de Mis Amores (with Devendra Banhart)",
+      "url": "https://open.spotify.com/track/3dB42OEuVNiktvt3V5JRVI"
+    },
+    {
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "Antes de Huir",
+      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
+    },
+    {
+      "album": {
+        "name": "Ciudadana del Mundo Volumen 1",
+        "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278693,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "Caminar bonito",
+      "url": "https://open.spotify.com/track/6YnvENj0TdekZctNH1LiFQ"
+    },
+    {
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237880,
+      "name": "Ca\u00f3tica Belleza",
+      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+    },
+    {
+      "album": {
+        "name": "Radio la Colifata Presenta: El Canto del Loco",
+        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "Contigo (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
+    },
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 348840,
+      "name": "Derecho de Nacimiento (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Muerdes el Labio",
+        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "Diazepam",
+      "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231053,
+      "name": "El lugar correcto",
+      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
+    },
+    {
+      "album": {
+        "name": "HU HU HU",
+        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "Ella es Bonita",
+      "url": "https://open.spotify.com/track/3GLa0YFGyR9vL33Bw2kjHs"
+    },
+    {
+      "album": {
+        "name": "Natalia Lafourcade",
+        "url": "https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "En el 2000",
+      "url": "https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN"
+    },
+    {
+      "album": {
+        "name": "Golpes en el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211268,
+      "name": "Golpes en el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Alex Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/78fDoD3WYFLhBOdIocptJN"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Sergio Vallin",
+          "url": "https://open.spotify.com/artist/7ddlkMDmMXjqlrTdnglBST"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257493,
+      "name": "Gulliver (with Natalia Lafourcade, \u00c1lex Gonz\u00e1lez y Sergio Vall\u00edn) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3O38qNyWTWL4QOdFNJqMS2"
+    },
+    {
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "album": {
+        "name": "De Plaza en Plaza",
+        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 202280,
+      "name": "La Cumbia del Infinito",
+      "url": "https://open.spotify.com/track/2Adg6787i6N1YIqGzWOchz"
+    },
+    {
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 194920,
+      "name": "La Fugitiva (with Kevin Johansen)",
+      "url": "https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx"
+    },
+    {
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208289,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
+    },
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "Luz de Luna (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
+    },
+    {
+      "album": {
+        "name": "RawayanaLand",
+        "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267200,
+      "name": "Mamita (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
+    },
+    {
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241680,
+      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373760,
+      "name": "Mar\u00eda la Curandera",
+      "url": "https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb"
+    },
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209506,
+      "name": "Mexicana Hermosa (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/6GFMVhlYtV6BifvWjZ2b7j"
+    },
+    {
+      "album": {
+        "name": "Pel\u00edcula Muda, Pt. 1",
+        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
+    },
+    {
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297346,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233800,
+      "name": "Mi manera de querer",
+      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
+    },
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225573,
+      "name": "Mi Tierra Veracruzana (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1CIuTzWLQ3sxScgFJzUhWT"
+    },
+    {
+      "album": {
+        "name": "Toda la vida, un d\u00eda",
+        "url": "https://open.spotify.com/album/1PcfqYmzT3TMYQclrZJU0J"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 275661,
+      "name": "Mi \u00faltima canci\u00f3n triste - Mov.3: Mi Jard\u00edn",
+      "url": "https://open.spotify.com/track/0dcPQzyzN3sEFxYDok6KrK"
+    },
+    {
+      "album": {
+        "name": "Nave Especial",
+        "url": "https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136279,
+      "name": "Mudanza",
+      "url": "https://open.spotify.com/track/2p607VlsD6tMuYukIxolRw"
+    },
+    {
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Adrian Dargelos",
+          "url": "https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Mujer Divina (with Adri\u00e1n D\u00e1rgelos)",
+      "url": "https://open.spotify.com/track/5Q2bP4QKyM7nOPju1QVZiZ"
+    },
+    {
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266015,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+    },
+    {
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237106,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+    },
+    {
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226733,
+      "name": "Para Qu\u00e9 Sufrir",
+      "url": "https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG"
+    },
+    {
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Piensa en M\u00ed (with Vicentico)",
+      "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+    },
+    {
+      "album": {
+        "name": "Puntos Equidistantes",
+        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227375,
+      "name": "Puntos Equidistantes",
+      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
+    },
+    {
+      "album": {
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Que Nadie Sepa Mi Sufrir (with Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/5jy5rt0KuI9jfEps9K3wxz"
+    },
+    {
+      "album": {
+        "name": "A Casa",
+        "url": "https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll"
+      },
+      "artists": [
+        {
+          "name": "Los Daniels",
+          "url": "https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Quisiera Saber (with Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
+    },
+    {
+      "album": {
+        "name": "Contra el Viento",
+        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231946,
+      "name": "Remamos",
+      "url": "https://open.spotify.com/track/2mtmUkZBBPehTwrAp05VGv"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164453,
+      "name": "Remember Me (D\u00fao)",
+      "url": "https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY"
+    },
+    {
+      "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 209080,
+      "name": "Salvavidas de hielo (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/70LZISLWsPXGBn1bpJuYAU"
+    },
+    {
+      "album": {
+        "name": "Giralunas, Un Homenaje a L.E.Aute",
+        "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336813,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
+    },
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214546,
+      "name": "Soledad y el Mar (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h"
+    },
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223426,
+      "name": "Soy Lo Prohibido (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1g2ArBYODteuzTtYN7qOT2"
+    },
+    {
+      "album": {
+        "name": "Thunderdome [W.T.A.] (feat. Black Thought & Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 174727,
+      "name": "Thunderdome [W.T.A.] (feat. Black Thought & Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y"
+    },
+    {
+      "album": {
+        "name": "Chris Black Changed My Life",
+        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 174727,
+      "name": "Thunderdome [W.T.A.] (feat. Black Thought & Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/6jW0scPonEHW9zjPspVHrn"
+    },
+    {
+      "album": {
+        "name": "Tierra Querida",
+        "url": "https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168775,
+      "name": "Tierra Querida",
+      "url": "https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR"
+    },
+    {
+      "album": {
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "T\u00fa Me Acostumbraste (feat. Omara Portuondo & Los Macorinos)",
+      "url": "https://open.spotify.com/track/1rwrlXpk1XqdzHfCHKnJa1"
+    },
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244933,
+      "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238068,
+      "name": "T\u00fa Ve",
+      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
+    },
+    {
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Una Ma\u00f1ana (with Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77"
+    },
+    {
+      "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 243253,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
+    },
+    {
+      "album": {
+        "name": "Los Amigos Invisibles, Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236480,
+      "name": "Vivir\u00e9 para Ti (feat. Natalia Lafourcade) - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT"
+    },
+    {
+      "album": {
+        "name": "50 A\u00f1os de Ser el Divo de Ju\u00e1rez",
+        "url": "https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374106,
+      "name": "Ya No Vivo por Vivir (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HaZQk"
 }

@@ -1,579 +1,1017 @@
 {
-  "2022-05-31": 217478,
-  "2022-06-01": 217614,
-  "2022-06-02": 217636,
-  "2022-06-03": 217731,
-  "2022-06-04": 217805,
-  "2022-06-05": 217894,
-  "2022-06-06": 217963,
-  "2022-06-07": 218070,
-  "2022-06-08": 218179,
-  "2022-06-09": 218248,
-  "2022-06-10": 218328,
-  "2022-06-11": 218414,
-  "2022-06-12": 218515,
-  "2022-06-13": 218586,
-  "2022-06-14": 218671,
-  "2022-06-15": 218783,
-  "2022-06-16": 218900,
-  "2022-06-17": 219005,
-  "2022-06-18": 219132,
-  "2022-06-19": 219281,
-  "2022-06-20": 219281,
-  "2022-06-21": 219374,
-  "2022-06-22": 219561,
-  "2022-06-23": 219561,
-  "2022-06-24": 219650,
-  "2022-06-25": 219746,
-  "2022-06-26": 219815,
-  "2022-06-27": 219879,
-  "2022-06-28": 219974,
-  "2022-06-29": 220064,
-  "2022-06-30": 220108,
-  "2022-07-01": 220199,
-  "2022-07-02": 220298,
-  "2022-07-03": 220396,
-  "2022-07-04": 220492,
-  "2022-07-05": 220579,
-  "2022-07-06": 220579,
-  "2022-07-07": 220781,
-  "2022-07-08": 220893,
-  "2022-07-09": 221028,
-  "2022-07-10": 221163,
-  "2022-07-11": 221252,
-  "2022-07-12": 221332,
-  "2022-07-13": 221443,
-  "2022-07-14": 221553,
-  "2022-07-15": 221753,
-  "2022-07-16": 221980,
-  "2022-07-17": 222144,
-  "2022-07-18": 222288,
-  "2022-07-19": 222426,
-  "2022-07-20": 222574,
-  "2022-07-21": 222720,
-  "2022-07-22": 222862,
-  "2022-07-23": 223009,
-  "2022-07-24": 223161,
-  "2022-07-25": 223254,
-  "2022-07-26": 223362,
-  "2022-07-27": 223467,
-  "2022-07-28": 223581,
-  "2022-07-29": 223699,
-  "2022-07-30": 223894,
-  "2022-07-31": 223894,
-  "2022-08-01": 223990,
-  "2022-08-02": 224182,
-  "2022-08-03": 224182,
-  "2022-08-04": 224284,
-  "2022-08-05": 224402,
-  "2022-08-06": 224524,
-  "2022-08-07": 224639,
-  "2022-08-08": 224714,
-  "2022-08-09": 224827,
-  "2022-08-10": 224924,
-  "2022-08-11": 225039,
-  "2022-08-12": 225159,
-  "2022-08-13": 225238,
-  "2022-08-14": 225344,
-  "2022-08-15": 225445,
-  "2022-08-16": 225536,
-  "2022-08-17": 225629,
-  "2022-08-18": 225727,
-  "2022-08-19": 225808,
-  "2022-08-20": 225916,
-  "2022-08-21": 226027,
-  "2022-08-22": 226147,
-  "2022-08-23": 226229,
-  "2022-08-24": 226317,
-  "2022-08-25": 226449,
-  "2022-08-26": 226665,
-  "2022-08-27": 226847,
-  "2022-08-28": 227001,
-  "2022-08-29": 227113,
-  "2022-08-30": 227172,
-  "2022-08-31": 227123,
-  "2022-09-01": 227057,
-  "2022-09-02": 227003,
-  "2022-09-03": 226866,
-  "2022-09-04": 226857,
-  "2022-09-05": 226931,
-  "2022-09-06": 227009,
-  "2022-09-07": 227119,
-  "2022-09-09": 227343,
-  "2022-09-10": 227456,
-  "2022-09-11": 227514,
-  "2022-09-12": 227582,
-  "2022-09-13": 227667,
-  "2022-09-15": 227858,
-  "2022-09-16": 227947,
-  "2022-09-17": 228033,
-  "2022-09-18": 228109,
-  "2022-09-19": 228168,
-  "2022-09-20": 228231,
-  "2022-09-21": 228319,
-  "2022-09-22": 228416,
-  "2022-09-23": 228521,
-  "2022-09-24": 228521,
-  "2022-09-25": 228723,
-  "2022-09-26": 228790,
-  "2022-09-27": 228887,
-  "2022-09-28": 228994,
-  "2022-09-29": 229108,
-  "2022-09-30": 229239,
-  "2022-10-01": 229340,
-  "2022-10-02": 229435,
-  "2022-10-03": 229525,
-  "2022-10-04": 229651,
-  "2022-10-05": 229711,
-  "2022-10-06": 229818,
-  "2022-10-07": 229948,
-  "2022-10-08": 230051,
-  "2022-10-09": 230204,
-  "2022-10-10": 230221,
-  "2022-10-11": 230294,
-  "2022-10-12": 230402,
-  "2022-10-13": 230492,
-  "2022-10-14": 230575,
-  "2022-10-15": 230677,
-  "2022-10-16": 230784,
-  "2022-10-17": 230886,
-  "2022-10-18": 230975,
-  "2022-10-19": 231103,
-  "2022-10-20": 231224,
-  "2022-10-21": 231305,
-  "2022-10-22": 231416,
-  "2022-10-23": 231525,
-  "2022-10-24": 231616,
-  "2022-10-25": 231693,
-  "2022-10-26": 231779,
-  "2022-10-27": 231877,
-  "2022-10-28": 231992,
-  "2022-10-29": 232094,
-  "2022-10-30": 232194,
-  "2022-10-31": 232251,
-  "2022-11-01": 232321,
-  "2022-11-02": 232416,
-  "2022-11-03": 232503,
-  "2022-11-04": 232611,
-  "2022-11-05": 232697,
-  "2022-11-06": 232789,
-  "2022-11-07": 232875,
-  "2022-11-08": 232958,
-  "2022-11-09": 233050,
-  "2022-11-10": 233143,
-  "2022-11-11": 233243,
-  "2022-11-12": 233363,
-  "2022-11-13": 233441,
-  "2022-11-14": 233504,
-  "2022-11-15": 233574,
-  "2022-11-16": 233674,
-  "2022-11-17": 233800,
-  "2022-11-18": 233813,
-  "2022-11-19": 233843,
-  "2022-11-20": 233929,
-  "2022-11-21": 234017,
-  "2022-11-22": 234100,
-  "2022-11-23": 234192,
-  "2022-11-24": 234377,
-  "2022-11-25": 234552,
-  "2022-11-26": 234661,
-  "2022-11-27": 234752,
-  "2022-11-28": 234832,
-  "2022-11-29": 234948,
-  "2022-11-30": 235072,
-  "2022-12-01": 235194,
-  "2022-12-02": 235295,
-  "2022-12-03": 235522,
-  "2022-12-04": 235753,
-  "2022-12-05": 235949,
-  "2022-12-06": 236130,
-  "2022-12-07": 236326,
-  "2022-12-08": 236506,
-  "2022-12-09": 236711,
-  "2022-12-10": 236903,
-  "2022-12-11": 237092,
-  "2022-12-12": 237221,
-  "2022-12-13": 237398,
-  "2022-12-14": 237564,
-  "2022-12-15": 237760,
-  "2022-12-16": 237914,
-  "2022-12-17": 238088,
-  "2022-12-18": 238234,
-  "2022-12-19": 238352,
-  "2022-12-20": 238641,
-  "2022-12-21": 238641,
-  "2022-12-22": 238790,
-  "2022-12-24": 239066,
-  "2022-12-25": 239178,
-  "2022-12-26": 239266,
-  "2022-12-27": 239355,
-  "2022-12-28": 239461,
-  "2022-12-29": 239580,
-  "2022-12-30": 239690,
-  "2022-12-31": 239837,
-  "2023-01-01": 239944,
-  "2023-01-02": 240025,
-  "2023-01-03": 240117,
-  "2023-01-04": 240219,
-  "2023-01-05": 240327,
-  "2023-01-06": 240455,
-  "2023-01-07": 240615,
-  "2023-01-08": 240641,
-  "2023-01-09": 240763,
-  "2023-01-10": 240849,
-  "2023-01-11": 240945,
-  "2023-01-12": 241059,
-  "2023-01-13": 241155,
-  "2023-01-14": 241367,
-  "2023-01-15": 241412,
-  "2023-01-16": 241527,
-  "2023-01-17": 241613,
-  "2023-01-18": 241725,
-  "2023-01-19": 241862,
-  "2023-01-20": 242003,
-  "2023-01-21": 242157,
-  "2023-01-22": 242315,
-  "2023-01-23": 242426,
-  "2023-01-24": 242547,
-  "2023-01-25": 242672,
-  "2023-01-26": 242798,
-  "2023-01-27": 242915,
-  "2023-01-28": 243070,
-  "2023-01-29": 243194,
-  "2023-01-30": 243279,
-  "2023-01-31": 243279,
-  "2023-02-01": 243485,
-  "2023-02-02": 243589,
-  "2023-02-03": 243670,
-  "2023-02-04": 243780,
-  "2023-02-05": 243891,
-  "2023-02-06": 243982,
-  "2023-02-07": 244077,
-  "2023-02-08": 244302,
-  "2023-02-09": 244302,
-  "2023-02-10": 244423,
-  "2023-02-11": 244543,
-  "2023-02-12": 244711,
-  "2023-02-13": 244808,
-  "2023-02-14": 244808,
-  "2023-02-15": 244901,
-  "2023-02-16": 245017,
-  "2023-02-17": 245147,
-  "2023-02-18": 245356,
-  "2023-02-19": 245369,
-  "2023-02-20": 245430,
-  "2023-02-21": 245523,
-  "2023-02-22": 245618,
-  "2023-02-23": 245705,
-  "2023-02-24": 245837,
-  "2023-02-25": 245968,
-  "2023-02-26": 246080,
-  "2023-02-27": 246251,
-  "2023-02-28": 246251,
-  "2023-03-01": 246347,
-  "2023-03-02": 246462,
-  "2023-03-03": 246586,
-  "2023-03-04": 246686,
-  "2023-03-05": 246907,
-  "2023-03-06": 246907,
-  "2023-03-07": 247022,
-  "2023-03-08": 247109,
-  "2023-03-09": 247212,
-  "2023-03-10": 247317,
-  "2023-03-11": 247448,
-  "2023-03-12": 247553,
-  "2023-03-13": 247640,
-  "2023-03-14": 247759,
-  "2023-03-15": 247868,
-  "2023-03-16": 247868,
-  "2023-03-17": 247868,
-  "2023-03-18": 248271,
-  "2023-03-19": 248271,
-  "2023-03-20": 248477,
-  "2023-03-21": 248562,
-  "2023-03-22": 248660,
-  "2023-03-23": 248806,
-  "2023-03-24": 248806,
-  "2023-03-25": 249063,
-  "2023-03-26": 249189,
-  "2023-03-27": 249302,
-  "2023-03-28": 249428,
-  "2023-03-29": 249552,
-  "2023-03-30": 249750,
-  "2023-03-31": 249750,
-  "2023-04-01": 249882,
-  "2023-04-02": 249976,
-  "2023-04-03": 250068,
-  "2023-04-04": 250169,
-  "2023-04-05": 250307,
-  "2023-04-06": 250398,
-  "2023-04-07": 250556,
-  "2023-04-09": 250735,
-  "2023-04-10": 250809,
-  "2023-04-11": 250999,
-  "2023-04-12": 250999,
-  "2023-04-13": 251096,
-  "2023-04-14": 251210,
-  "2023-04-15": 251332,
-  "2023-04-16": 251423,
-  "2023-04-17": 251477,
-  "2023-04-18": 251565,
-  "2023-04-19": 251672,
-  "2023-04-20": 251762,
-  "2023-04-21": 251887,
-  "2023-04-22": 252018,
-  "2023-04-23": 252104,
-  "2023-04-24": 252197,
-  "2023-04-25": 252318,
-  "2023-04-26": 252414,
-  "2023-04-27": 252505,
-  "2023-04-28": 252627,
-  "2023-04-29": 252731,
-  "2023-04-30": 252848,
-  "2023-05-01": 252945,
-  "2023-05-02": 253040,
-  "2023-05-03": 253115,
-  "2023-05-04": 253213,
-  "2023-05-05": 253327,
-  "2023-05-06": 253432,
-  "2023-05-07": 253549,
-  "2023-05-08": 253651,
-  "2023-05-09": 253737,
-  "2023-05-10": 253853,
-  "2023-05-11": 253956,
-  "2023-05-12": 254050,
-  "2023-05-13": 254150,
-  "2023-05-14": 254255,
-  "2023-05-15": 254331,
-  "2023-05-16": 254409,
-  "2023-05-17": 254511,
-  "2023-05-18": 254623,
-  "2023-05-19": 254718,
-  "2023-05-20": 254921,
-  "2023-05-21": 254921,
-  "2023-05-22": 254921,
-  "2023-05-23": 255089,
-  "2023-05-24": 255238,
-  "2023-05-25": 255265,
-  "2023-05-26": 255366,
-  "2023-05-27": 255474,
-  "2023-05-28": 255565,
-  "2023-05-29": 255565,
-  "2023-05-30": 255720,
-  "2023-05-31": 255814,
-  "2023-06-01": 255931,
-  "2023-06-02": 256037,
-  "2023-06-03": 256152,
-  "2023-06-04": 256265,
-  "2023-06-05": 256345,
-  "2023-06-06": 256448,
-  "2023-06-07": 256533,
-  "2023-06-08": 256644,
-  "2023-06-09": 256744,
-  "2023-06-10": 256873,
-  "2023-06-11": 256957,
-  "2023-06-12": 257047,
-  "2023-06-13": 257136,
-  "2023-06-14": 257136,
-  "2023-06-15": 257353,
-  "2023-06-16": 257461,
-  "2023-06-17": 257591,
-  "2023-06-18": 257685,
-  "2023-06-19": 257800,
-  "2023-06-20": 257891,
-  "2023-06-21": 257993,
-  "2023-06-22": 258119,
-  "2023-06-23": 258254,
-  "2023-06-24": 258381,
-  "2023-06-25": 258499,
-  "2023-06-26": 258575,
-  "2023-06-27": 258685,
-  "2023-06-28": 258821,
-  "2023-06-29": 258920,
-  "2023-06-30": 259051,
-  "2023-07-01": 259269,
-  "2023-07-02": 259269,
-  "2023-07-03": 259346,
-  "2023-07-04": 259423,
-  "2023-07-05": 259516,
-  "2023-07-06": 259698,
-  "2023-07-07": 259698,
-  "2023-07-08": 259808,
-  "2023-07-09": 259890,
-  "2023-07-10": 259976,
-  "2023-07-11": 260059,
-  "2023-07-12": 260150,
-  "2023-07-13": 260249,
-  "2023-07-14": 260320,
-  "2023-07-15": 260395,
-  "2023-07-16": 260513,
-  "2023-07-17": 260599,
-  "2023-07-18": 260700,
-  "2023-07-19": 260796,
-  "2023-07-20": 260904,
-  "2023-07-21": 260991,
-  "2023-07-22": 261098,
-  "2023-07-23": 261194,
-  "2023-07-24": 261285,
-  "2023-07-25": 261379,
-  "2023-07-26": 261449,
-  "2023-07-27": 261573,
-  "2023-07-28": 261685,
-  "2023-07-29": 261788,
-  "2023-07-30": 261899,
-  "2023-07-31": 261975,
-  "2023-08-01": 262041,
-  "2023-08-02": 262146,
-  "2023-08-03": 262244,
-  "2023-08-04": 262369,
-  "2023-08-05": 262477,
-  "2023-08-06": 262697,
-  "2023-08-07": 262697,
-  "2023-08-08": 262820,
-  "2023-08-09": 262935,
-  "2023-08-10": 263069,
-  "2023-08-11": 263181,
-  "2023-08-12": 263181,
-  "2023-08-13": 263181,
-  "2023-08-14": 263504,
-  "2023-08-15": 263504,
-  "2023-08-16": 263504,
-  "2023-08-17": 263829,
-  "2023-08-18": 263829,
-  "2023-08-19": 264095,
-  "2023-08-20": 264208,
-  "2023-08-21": 264208,
-  "2023-08-22": 264428,
-  "2023-08-23": 264428,
-  "2023-08-24": 264633,
-  "2023-08-25": 264633,
-  "2023-08-26": 264894,
-  "2023-08-27": 264894,
-  "2023-08-28": 265103,
-  "2023-08-29": 265103,
-  "2023-08-30": 265103,
-  "2023-08-31": 265432,
-  "2023-09-01": 265700,
-  "2023-09-02": 265700,
-  "2023-09-03": 265812,
-  "2023-09-04": 265812,
-  "2023-09-05": 265812,
-  "2023-09-06": 266071,
-  "2023-09-07": 266071,
-  "2023-09-08": 266071,
-  "2023-09-09": 266071,
-  "2023-09-10": 266468,
-  "2023-09-11": 266468,
-  "2023-09-12": 266468,
-  "2023-09-13": 266720,
-  "2023-09-14": 266720,
-  "2023-09-15": 266720,
-  "2023-09-16": 266990,
-  "2023-09-17": 266990,
-  "2023-09-18": 266990,
-  "2023-09-19": 267211,
-  "2023-09-20": 267211,
-  "2023-09-21": 267211,
-  "2023-09-22": 267426,
-  "2023-09-23": 267426,
-  "2023-09-24": 267426,
-  "2023-09-25": 267426,
-  "2023-09-26": 267748,
-  "2023-09-27": 267748,
-  "2023-09-28": 267748,
-  "2023-09-29": 267748,
-  "2023-09-30": 267748,
-  "2023-10-01": 267748,
-  "2023-10-02": 268233,
-  "2023-10-03": 268233,
-  "2023-10-04": 268233,
-  "2023-10-05": 268452,
-  "2023-10-06": 268541,
-  "2023-10-07": 268541,
-  "2023-10-08": 268541,
-  "2023-10-09": 268541,
-  "2023-10-10": 268541,
-  "2023-10-11": 268787,
-  "2023-10-12": 268787,
-  "2023-10-13": 268787,
-  "2023-10-14": 268787,
-  "2023-10-15": 268787,
-  "2023-10-16": 268787,
-  "2023-10-17": 268787,
-  "2023-10-18": 268787,
-  "2023-10-19": 268787,
-  "2023-10-20": 268787,
-  "2023-10-21": 268787,
-  "2023-10-22": 268787,
-  "2023-10-23": 268787,
-  "2023-10-24": 268787,
-  "2023-10-25": 268787,
-  "2023-10-26": 268787,
-  "2023-10-27": 268787,
-  "2023-10-28": 268787,
-  "2023-10-29": 268787,
-  "2023-10-30": 268787,
-  "2023-10-31": 268787,
-  "2023-11-01": 268787,
-  "2023-11-02": 268787,
-  "2023-11-03": 268787,
-  "2023-11-04": 268787,
-  "2023-11-05": 268787,
-  "2023-11-06": 268787,
-  "2023-11-07": 268787,
-  "2023-11-08": 268787,
-  "2023-11-09": 268787,
-  "2023-11-10": 268787,
-  "2023-11-11": 271089,
-  "2023-11-12": 271089,
-  "2023-11-13": 271089,
-  "2023-11-14": 271089,
-  "2023-11-15": 271089,
-  "2023-11-16": 271089,
-  "2023-11-17": 271089,
-  "2023-11-18": 271089,
-  "2023-11-19": 271089,
-  "2023-11-20": 271089,
-  "2023-11-21": 271089,
-  "2023-11-22": 271089,
-  "2023-11-23": 271089,
-  "2023-11-24": 271089,
-  "2023-11-25": 271089,
-  "2023-11-26": 271089,
-  "2023-11-27": 271089,
-  "2023-11-28": 271089,
-  "2023-11-29": 271089,
-  "2023-11-30": 271089,
-  "2023-12-01": 271089,
-  "2023-12-02": 271089,
-  "2023-12-03": 271089,
-  "2023-12-04": 271089,
-  "2023-12-05": 271089,
-  "2023-12-06": 271089,
-  "2023-12-07": 271089,
-  "2023-12-08": 271089,
-  "2023-12-09": 271089,
-  "2023-12-10": 271089,
-  "2023-12-11": 271089,
-  "2023-12-12": 271089,
-  "2023-12-13": 271089,
-  "2023-12-14": 273773,
-  "2023-12-15": 273833,
-  "2023-12-16": 273920,
-  "2023-12-17": 273999,
-  "2023-12-18": 274047,
-  "2023-12-19": 274102,
-  "2023-12-20": 274152,
-  "2023-12-21": 274219,
-  "2023-12-22": 274280,
-  "2023-12-23": 274364,
-  "2023-12-24": 274437,
-  "2023-12-25": 274495,
-  "2023-12-26": 274529,
-  "2023-12-27": 274586,
-  "2023-12-30": 274800,
-  "2023-12-31": 274863,
-  "2024-01-01": 274919,
-  "2024-01-02": 274966,
-  "2024-01-03": 275012
+  "2024-01-17": 275451,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Pantera. The essential tracks, all in one playlist.",
+  "name": "This Is Pantera",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289893,
+      "name": "10's",
+      "url": "https://open.spotify.com/track/5qG4mrKUlmGce1FA4wGrr7"
+    },
+    {
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217506,
+      "name": "13 Steps to Nowhere",
+      "url": "https://open.spotify.com/track/5FnIQ4H58EixgtoQQoOBjg"
+    },
+    {
+      "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347440,
+      "name": "5 Minutes Alone",
+      "url": "https://open.spotify.com/track/5SAEMjVQbmin3g7b0RG6me"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "A New Level",
+      "url": "https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386755,
+      "name": "Avoid the Light",
+      "url": "https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu"
+    },
+    {
+      "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/3iV11AiIEDIOVjKy3kgjld"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 280333,
+      "name": "By Demons Be Driven",
+      "url": "https://open.spotify.com/track/6Kl2BY1d8KHjOjY3cynftv"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229015,
+      "name": "Cat Scratch Fever",
+      "url": "https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422933,
+      "name": "Cemetery Gates",
+      "url": "https://open.spotify.com/track/4vJr55lngvhSM8WIh9CjQc"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Death Rattle",
+      "url": "https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez"
+    },
+    {
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223826,
+      "name": "Dom / Hollow - Live",
+      "url": "https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305293,
+      "name": "Domination",
+      "url": "https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu"
+    },
+    {
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295773,
+      "name": "Drag the Waters",
+      "url": "https://open.spotify.com/track/5t8sFMJ2aQaHqLnrAd4Q40"
+    },
+    {
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419893,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 168600,
+      "name": "Fucking Hostile",
+      "url": "https://open.spotify.com/track/5RU50TPTgtxJLFNunUS2p5"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power (Expanded)",
+        "url": "https://open.spotify.com/album/1x09hOE124v9jMuQZRYqWN"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168453,
+      "name": "Fucking Hostile - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0GY3AhUEO5T1Q5LMEIE1vL"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296773,
+      "name": "Goddamn Electric",
+      "url": "https://open.spotify.com/track/5b3mIPS9eqmMfuoOr7JNkp"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160960,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 286693,
+      "name": "Heresy",
+      "url": "https://open.spotify.com/track/4c6yZLnA730uJgQf9fTW2M"
+    },
+    {
+      "album": {
+        "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
+        "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256586,
+      "name": "Hole in the Sky - 2003 Remaster",
+      "url": "https://open.spotify.com/track/2jjzYGxHwPUEajef0NbOw7"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345733,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9"
+    },
+    {
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 236040,
+      "name": "Hostile - Live",
+      "url": "https://open.spotify.com/track/4XDQGvmsZ0I3lANxJuhegH"
+    },
+    {
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136493,
+      "name": "I Can't Hide",
+      "url": "https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 319173,
+      "name": "I'll Cast a Shadow",
+      "url": "https://open.spotify.com/track/4zwzfzX5nXgD5Ro2tXIxhf"
+    },
+    {
+      "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264800,
+      "name": "I'm Broken",
+      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel - 20th Anniversary Deluxe Edition",
+        "url": "https://open.spotify.com/album/2nhNrmeayyt111lqj6Om4L"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311083,
+      "name": "Immortally Insane",
+      "url": "https://open.spotify.com/track/2tbdpZIOkV8kK0pZDBxXRQ"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 381933,
+      "name": "It Makes Them Disappear",
+      "url": "https://open.spotify.com/track/2rNljPJ1YPRIuP1fyhvn2N"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 300373,
+      "name": "Live in a Hole",
+      "url": "https://open.spotify.com/track/5gUcLzosEDmiPLDpQUKqTP"
+    },
+    {
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 290466,
+      "name": "Living Through Me (Hells' Wrath)",
+      "url": "https://open.spotify.com/track/6Vz3UetdNRrWuGAcs6a6ey"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "Mouth for War",
+      "url": "https://open.spotify.com/track/6rkeaQRCWZxwkjhyqgxjXi"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289760,
+      "name": "No Good (Attack the Radical)",
+      "url": "https://open.spotify.com/track/5q272ZCgwndbAJJhGdG2mI"
+    },
+    {
+      "album": {
+        "name": "Piss",
+        "url": "https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262328,
+      "name": "Piss",
+      "url": "https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28"
+    },
+    {
+      "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243426,
+      "name": "Planet Caravan",
+      "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133120,
+      "name": "Primal Concrete Sledge",
+      "url": "https://open.spotify.com/track/6lJJcUjhsp0TJRuzUIPOYO"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319133,
+      "name": "Psycho Holiday",
+      "url": "https://open.spotify.com/track/5JCZHWdFLg2rXtg684rTHt"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 327533,
+      "name": "Regular People (Conceit)",
+      "url": "https://open.spotify.com/track/0YgOMJldhmvg5mE2H2AbUA"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316493,
+      "name": "Revolution Is My Name",
+      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 276573,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1GgdgDHlEdmwbCZLLzV4Ik"
+    },
+    {
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 269400,
+      "name": "Sandblasted Skin - Live",
+      "url": "https://open.spotify.com/track/7A3ZvT0Pb1ib9w4yVnORNp"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Shattered",
+      "url": "https://open.spotify.com/track/5APqyicPSWwJgFH8D9a8i3"
+    },
+    {
+      "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336800,
+      "name": "Shedding Skin",
+      "url": "https://open.spotify.com/track/1eajy6fnktZk1rLVYWXr2P"
+    },
+    {
+      "album": {
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218640,
+      "name": "Strength Beyond Strength",
+      "url": "https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP"
+    },
+    {
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 284626,
+      "name": "Suicide Note, Pt. 1",
+      "url": "https://open.spotify.com/track/0CcmoDwo2KAACTPoy87F8V"
+    },
+    {
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 258093,
+      "name": "The Art of Shredding",
+      "url": "https://open.spotify.com/track/17sbfQLWxyC0ciBXi9g54f"
+    },
+    {
+      "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234733,
+      "name": "The Badge",
+      "url": "https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle"
+    },
+    {
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "The Great Southern Trendkill",
+      "url": "https://open.spotify.com/track/055Oi1gpZYQ3mVC5aOntx7"
+    },
+    {
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 273800,
+      "name": "The Underground in America",
+      "url": "https://open.spotify.com/track/02r2PCS9ayW0i45hgrJsHI"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393706,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/0Yfpc5zHc9pElVCQ1bPlF4"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 225840,
+      "name": "Uplift",
+      "url": "https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
+    },
+    {
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293360,
+      "name": "War Nerve",
+      "url": "https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224693,
+      "name": "We'll Grind That Axe for a Long Time",
+      "url": "https://open.spotify.com/track/1vIWmTJEagdqfcrVe5MIKl"
+    },
+    {
+      "album": {
+        "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
+        "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312746,
+      "name": "Where You Come From - 2003 Remaster",
+      "url": "https://open.spotify.com/track/1PWEA4Uq0fuwHv7yILK0G4"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259693,
+      "name": "Yesterday Don't Mean Shit",
+      "url": "https://open.spotify.com/track/0MT298VrmI1Kb7GFbxw43C"
+    },
+    {
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 253240,
+      "name": "You've Got to Belong to It",
+      "url": "https://open.spotify.com/track/0lk9vkhW4n1lb2zkrmo22y"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o"
 }

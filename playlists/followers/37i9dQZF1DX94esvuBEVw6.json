@@ -1,735 +1,1147 @@
 {
-  "2021-12-25": 129418,
-  "2021-12-26": 129547,
-  "2021-12-27": 129746,
-  "2021-12-28": 129745,
-  "2021-12-29": 129845,
-  "2021-12-30": 129923,
-  "2021-12-31": 129995,
-  "2022-01-01": 130181,
-  "2022-01-02": 130210,
-  "2022-01-03": 130282,
-  "2022-01-04": 130369,
-  "2022-01-05": 130434,
-  "2022-01-06": 130470,
-  "2022-01-07": 130539,
-  "2022-01-08": 130658,
-  "2022-01-09": 130659,
-  "2022-01-10": 130727,
-  "2022-01-11": 130752,
-  "2022-01-12": 130789,
-  "2022-01-13": 130789,
-  "2022-01-14": 130789,
-  "2022-01-15": 130789,
-  "2022-01-16": 130789,
-  "2022-01-17": 130789,
-  "2022-01-18": 130789,
-  "2022-01-19": 130789,
-  "2022-01-20": 130789,
-  "2022-01-21": 130789,
-  "2022-01-22": 130789,
-  "2022-01-23": 130789,
-  "2022-01-24": 130789,
-  "2022-01-25": 130789,
-  "2022-01-26": 130789,
-  "2022-01-27": 130789,
-  "2022-01-28": 130789,
-  "2022-01-29": 130789,
-  "2022-01-30": 130789,
-  "2022-01-31": 130789,
-  "2022-02-01": 130789,
-  "2022-02-02": 130789,
-  "2022-02-03": 130789,
-  "2022-02-04": 130789,
-  "2022-02-05": 130789,
-  "2022-02-06": 130789,
-  "2022-02-07": 130789,
-  "2022-02-08": 130789,
-  "2022-02-09": 130789,
-  "2022-02-10": 130789,
-  "2022-02-11": 130789,
-  "2022-02-12": 130789,
-  "2022-02-13": 130789,
-  "2022-02-14": 130789,
-  "2022-02-15": 130789,
-  "2022-02-16": 130789,
-  "2022-02-17": 130789,
-  "2022-02-18": 130789,
-  "2022-02-19": 130789,
-  "2022-02-20": 130789,
-  "2022-02-21": 130789,
-  "2022-02-22": 130789,
-  "2022-02-23": 130789,
-  "2022-02-24": 130789,
-  "2022-02-25": 130789,
-  "2022-02-26": 130789,
-  "2022-02-27": 130789,
-  "2022-02-28": 130789,
-  "2022-03-01": 130789,
-  "2022-03-02": 130789,
-  "2022-03-03": 130789,
-  "2022-03-04": 130789,
-  "2022-03-05": 130789,
-  "2022-03-06": 130789,
-  "2022-03-07": 130789,
-  "2022-03-08": 130789,
-  "2022-03-09": 130789,
-  "2022-03-10": 130789,
-  "2022-03-11": 130789,
-  "2022-03-12": 130789,
-  "2022-03-13": 130789,
-  "2022-03-14": 130789,
-  "2022-03-15": 130789,
-  "2022-03-16": 130789,
-  "2022-03-17": 130789,
-  "2022-03-18": 130789,
-  "2022-03-19": 130789,
-  "2022-03-20": 130789,
-  "2022-03-21": 130789,
-  "2022-03-22": 130789,
-  "2022-03-23": 130789,
-  "2022-03-24": 130789,
-  "2022-03-25": 130789,
-  "2022-03-26": 130789,
-  "2022-03-27": 130789,
-  "2022-03-28": 130789,
-  "2022-03-30": 130789,
-  "2022-03-31": 130789,
-  "2022-04-01": 130789,
-  "2022-04-02": 130789,
-  "2022-04-03": 130789,
-  "2022-04-04": 130789,
-  "2022-04-05": 130789,
-  "2022-04-06": 130789,
-  "2022-04-07": 130789,
-  "2022-04-08": 130789,
-  "2022-04-09": 130789,
-  "2022-04-10": 130789,
-  "2022-04-11": 130789,
-  "2022-04-12": 130789,
-  "2022-04-13": 130789,
-  "2022-04-14": 130789,
-  "2022-04-15": 130789,
-  "2022-04-16": 130789,
-  "2022-04-17": 130789,
-  "2022-04-18": 130789,
-  "2022-04-19": 130789,
-  "2022-04-20": 130789,
-  "2022-04-21": 130789,
-  "2022-04-22": 130789,
-  "2022-04-23": 130789,
-  "2022-04-24": 130789,
-  "2022-04-25": 130789,
-  "2022-04-26": 130789,
-  "2022-04-27": 130789,
-  "2022-04-28": 130789,
-  "2022-04-29": 130789,
-  "2022-04-30": 130789,
-  "2022-05-01": 130789,
-  "2022-05-02": 130789,
-  "2022-05-03": 130789,
-  "2022-05-04": 130789,
-  "2022-05-05": 130789,
-  "2022-05-06": 130789,
-  "2022-05-07": 130789,
-  "2022-05-08": 130789,
-  "2022-05-09": 130789,
-  "2022-05-10": 130789,
-  "2022-05-11": 130789,
-  "2022-05-12": 130789,
-  "2022-05-13": 130789,
-  "2022-05-14": 130789,
-  "2022-05-15": 130789,
-  "2022-05-16": 130789,
-  "2022-05-17": 130789,
-  "2022-05-18": 130789,
-  "2022-05-19": 130789,
-  "2022-05-20": 130789,
-  "2022-05-21": 130789,
-  "2022-05-22": 130789,
-  "2022-05-23": 130789,
-  "2022-05-24": 130789,
-  "2022-05-25": 130789,
-  "2022-05-26": 130789,
-  "2022-05-27": 130789,
-  "2022-05-28": 130789,
-  "2022-05-29": 130789,
-  "2022-05-30": 130789,
-  "2022-05-31": 130789,
-  "2022-06-01": 130789,
-  "2022-06-02": 130789,
-  "2022-06-03": 130789,
-  "2022-06-04": 130789,
-  "2022-06-05": 130789,
-  "2022-06-06": 130789,
-  "2022-06-07": 130789,
-  "2022-06-08": 130789,
-  "2022-06-09": 130789,
-  "2022-06-10": 130789,
-  "2022-06-11": 130789,
-  "2022-06-12": 130789,
-  "2022-06-13": 130789,
-  "2022-06-14": 130789,
-  "2022-06-15": 130789,
-  "2022-06-16": 130789,
-  "2022-06-17": 130789,
-  "2022-06-18": 130789,
-  "2022-06-19": 130789,
-  "2022-06-20": 130789,
-  "2022-06-21": 130789,
-  "2022-06-22": 130789,
-  "2022-06-23": 130789,
-  "2022-06-24": 130789,
-  "2022-06-25": 130789,
-  "2022-06-26": 130789,
-  "2022-06-27": 130789,
-  "2022-06-28": 130789,
-  "2022-06-29": 130789,
-  "2022-06-30": 130789,
-  "2022-07-01": 130789,
-  "2022-07-02": 130789,
-  "2022-07-03": 130789,
-  "2022-07-04": 130789,
-  "2022-07-05": 130789,
-  "2022-07-06": 130789,
-  "2022-07-07": 130789,
-  "2022-07-08": 130789,
-  "2022-07-09": 130789,
-  "2022-07-10": 130789,
-  "2022-07-11": 130789,
-  "2022-07-12": 130789,
-  "2022-07-13": 130789,
-  "2022-07-14": 130789,
-  "2022-07-15": 130789,
-  "2022-07-16": 130789,
-  "2022-07-17": 130789,
-  "2022-07-18": 130789,
-  "2022-07-19": 130789,
-  "2022-07-20": 130789,
-  "2022-07-21": 130789,
-  "2022-07-22": 130789,
-  "2022-07-23": 130789,
-  "2022-07-24": 130789,
-  "2022-07-25": 130789,
-  "2022-07-26": 130789,
-  "2022-07-27": 130789,
-  "2022-07-28": 130789,
-  "2022-07-29": 130789,
-  "2022-07-30": 130789,
-  "2022-07-31": 130789,
-  "2022-08-01": 130789,
-  "2022-08-02": 130789,
-  "2022-08-03": 130789,
-  "2022-08-04": 130789,
-  "2022-08-05": 130789,
-  "2022-08-06": 130789,
-  "2022-08-07": 130789,
-  "2022-08-08": 130789,
-  "2022-08-09": 130789,
-  "2022-08-10": 130789,
-  "2022-08-11": 130789,
-  "2022-08-12": 130789,
-  "2022-08-13": 130789,
-  "2022-08-14": 130789,
-  "2022-08-15": 130789,
-  "2022-08-16": 130789,
-  "2022-08-17": 130789,
-  "2022-08-18": 130789,
-  "2022-08-19": 130789,
-  "2022-08-20": 130789,
-  "2022-08-21": 130789,
-  "2022-08-22": 130789,
-  "2022-08-23": 130789,
-  "2022-08-24": 130789,
-  "2022-08-25": 130789,
-  "2022-08-26": 130789,
-  "2022-08-27": 130789,
-  "2022-08-28": 130789,
-  "2022-08-29": 130789,
-  "2022-08-30": 130789,
-  "2022-08-31": 130789,
-  "2022-09-01": 130789,
-  "2022-09-02": 130789,
-  "2022-09-03": 130789,
-  "2022-09-04": 130789,
-  "2022-09-05": 130789,
-  "2022-09-06": 130789,
-  "2022-09-07": 130789,
-  "2022-09-09": 130789,
-  "2022-09-10": 130789,
-  "2022-09-11": 130789,
-  "2022-09-12": 130789,
-  "2022-09-13": 130789,
-  "2022-09-15": 130789,
-  "2022-09-16": 130789,
-  "2022-09-17": 130789,
-  "2022-09-18": 130789,
-  "2022-09-19": 130789,
-  "2022-09-20": 130789,
-  "2022-09-21": 130789,
-  "2022-09-22": 130789,
-  "2022-09-23": 130789,
-  "2022-09-24": 130789,
-  "2022-09-25": 130789,
-  "2022-09-26": 130789,
-  "2022-09-27": 130789,
-  "2022-09-28": 130789,
-  "2022-09-29": 130789,
-  "2022-09-30": 130789,
-  "2022-10-01": 130789,
-  "2022-10-02": 130789,
-  "2022-10-03": 130789,
-  "2022-10-04": 130789,
-  "2022-10-05": 130789,
-  "2022-10-06": 130789,
-  "2022-10-07": 130789,
-  "2022-10-08": 130789,
-  "2022-10-09": 130789,
-  "2022-10-10": 130789,
-  "2022-10-11": 130789,
-  "2022-10-12": 130789,
-  "2022-10-13": 130789,
-  "2022-10-14": 130789,
-  "2022-10-15": 130789,
-  "2022-10-16": 130789,
-  "2022-10-17": 130789,
-  "2022-10-18": 130789,
-  "2022-10-19": 130789,
-  "2022-10-20": 130789,
-  "2022-10-21": 130789,
-  "2022-10-22": 130789,
-  "2022-10-23": 130789,
-  "2022-10-24": 130789,
-  "2022-10-25": 130789,
-  "2022-10-26": 130789,
-  "2022-10-27": 130789,
-  "2022-10-28": 130789,
-  "2022-10-29": 130789,
-  "2022-10-30": 130789,
-  "2022-10-31": 130789,
-  "2022-11-01": 130789,
-  "2022-11-02": 130789,
-  "2022-11-03": 130789,
-  "2022-11-04": 130789,
-  "2022-11-05": 130789,
-  "2022-11-06": 130789,
-  "2022-11-07": 130789,
-  "2022-11-08": 130789,
-  "2022-11-09": 130789,
-  "2022-11-10": 130789,
-  "2022-11-11": 130789,
-  "2022-11-12": 130789,
-  "2022-11-13": 130789,
-  "2022-11-14": 130789,
-  "2022-11-15": 130789,
-  "2022-11-16": 130789,
-  "2022-11-17": 130789,
-  "2022-11-18": 130789,
-  "2022-11-19": 130789,
-  "2022-11-20": 130789,
-  "2022-11-21": 130789,
-  "2022-11-22": 130789,
-  "2022-11-23": 130789,
-  "2022-11-24": 130789,
-  "2022-11-25": 130789,
-  "2022-11-26": 130789,
-  "2022-11-27": 130789,
-  "2022-11-28": 130789,
-  "2022-11-29": 130789,
-  "2022-11-30": 130789,
-  "2022-12-01": 130789,
-  "2022-12-02": 130789,
-  "2022-12-03": 130789,
-  "2022-12-04": 130789,
-  "2022-12-05": 130789,
-  "2022-12-06": 130789,
-  "2022-12-07": 130789,
-  "2022-12-08": 130789,
-  "2022-12-09": 130789,
-  "2022-12-10": 130789,
-  "2022-12-11": 130789,
-  "2022-12-12": 130789,
-  "2022-12-13": 130789,
-  "2022-12-14": 130789,
-  "2022-12-15": 130789,
-  "2022-12-16": 130789,
-  "2022-12-17": 130789,
-  "2022-12-18": 130789,
-  "2022-12-19": 130789,
-  "2022-12-20": 130789,
-  "2022-12-21": 130789,
-  "2022-12-22": 130789,
-  "2022-12-24": 130789,
-  "2022-12-25": 130789,
-  "2022-12-26": 130789,
-  "2022-12-27": 130789,
-  "2022-12-28": 130789,
-  "2022-12-29": 130789,
-  "2022-12-30": 130789,
-  "2022-12-31": 130789,
-  "2023-01-01": 130789,
-  "2023-01-02": 130789,
-  "2023-01-03": 130789,
-  "2023-01-04": 130789,
-  "2023-01-05": 130789,
-  "2023-01-06": 130789,
-  "2023-01-07": 130789,
-  "2023-01-08": 130789,
-  "2023-01-09": 130789,
-  "2023-01-10": 130789,
-  "2023-01-11": 130789,
-  "2023-01-12": 130789,
-  "2023-01-13": 130789,
-  "2023-01-14": 130789,
-  "2023-01-15": 130789,
-  "2023-01-16": 130789,
-  "2023-01-17": 130789,
-  "2023-01-18": 130789,
-  "2023-01-19": 130789,
-  "2023-01-20": 130789,
-  "2023-01-21": 130789,
-  "2023-01-22": 130789,
-  "2023-01-23": 130789,
-  "2023-01-24": 130789,
-  "2023-01-25": 130789,
-  "2023-01-26": 130789,
-  "2023-01-27": 130789,
-  "2023-01-28": 130789,
-  "2023-01-29": 130789,
-  "2023-01-30": 130789,
-  "2023-01-31": 130789,
-  "2023-02-01": 130789,
-  "2023-02-02": 130789,
-  "2023-02-03": 130789,
-  "2023-02-04": 130789,
-  "2023-02-05": 130789,
-  "2023-02-06": 130789,
-  "2023-02-07": 130789,
-  "2023-02-08": 130789,
-  "2023-02-09": 130789,
-  "2023-02-10": 130789,
-  "2023-02-11": 130789,
-  "2023-02-12": 130789,
-  "2023-02-13": 130789,
-  "2023-02-14": 130789,
-  "2023-02-15": 130789,
-  "2023-02-16": 130789,
-  "2023-02-17": 130789,
-  "2023-02-18": 130789,
-  "2023-02-19": 130789,
-  "2023-02-20": 130789,
-  "2023-02-21": 130789,
-  "2023-02-22": 130789,
-  "2023-02-23": 130789,
-  "2023-02-24": 130789,
-  "2023-02-25": 130789,
-  "2023-02-26": 130789,
-  "2023-02-27": 130789,
-  "2023-02-28": 130789,
-  "2023-03-01": 130789,
-  "2023-03-02": 130789,
-  "2023-03-03": 130789,
-  "2023-03-04": 130789,
-  "2023-03-05": 130789,
-  "2023-03-06": 130789,
-  "2023-03-07": 130789,
-  "2023-03-08": 130789,
-  "2023-03-09": 130789,
-  "2023-03-10": 130789,
-  "2023-03-11": 130789,
-  "2023-03-12": 130789,
-  "2023-03-13": 130789,
-  "2023-03-14": 130789,
-  "2023-03-15": 130789,
-  "2023-03-16": 130789,
-  "2023-03-17": 130789,
-  "2023-03-18": 130789,
-  "2023-03-19": 130789,
-  "2023-03-20": 130789,
-  "2023-03-21": 130789,
-  "2023-03-22": 130789,
-  "2023-03-23": 130789,
-  "2023-03-24": 130789,
-  "2023-03-25": 130789,
-  "2023-03-26": 130789,
-  "2023-03-27": 130789,
-  "2023-03-28": 130789,
-  "2023-03-29": 130789,
-  "2023-03-30": 130789,
-  "2023-03-31": 130789,
-  "2023-04-01": 130789,
-  "2023-04-02": 130789,
-  "2023-04-03": 130789,
-  "2023-04-04": 130789,
-  "2023-04-05": 130789,
-  "2023-04-06": 130789,
-  "2023-04-07": 130789,
-  "2023-04-09": 130789,
-  "2023-04-10": 130789,
-  "2023-04-11": 130789,
-  "2023-04-12": 130789,
-  "2023-04-13": 130789,
-  "2023-04-14": 130789,
-  "2023-04-15": 130789,
-  "2023-04-16": 130789,
-  "2023-04-17": 130789,
-  "2023-04-18": 130789,
-  "2023-04-19": 130789,
-  "2023-04-20": 130789,
-  "2023-04-21": 130789,
-  "2023-04-22": 130789,
-  "2023-04-23": 130789,
-  "2023-04-24": 130789,
-  "2023-04-25": 130789,
-  "2023-04-26": 130789,
-  "2023-04-27": 130789,
-  "2023-04-28": 130789,
-  "2023-04-29": 130789,
-  "2023-04-30": 130789,
-  "2023-05-01": 130789,
-  "2023-05-02": 130789,
-  "2023-05-03": 130789,
-  "2023-05-04": 130789,
-  "2023-05-05": 130789,
-  "2023-05-06": 130789,
-  "2023-05-07": 130789,
-  "2023-05-08": 130789,
-  "2023-05-09": 130789,
-  "2023-05-10": 130789,
-  "2023-05-11": 130789,
-  "2023-05-12": 130789,
-  "2023-05-13": 130789,
-  "2023-05-14": 130789,
-  "2023-05-15": 130789,
-  "2023-05-16": 130789,
-  "2023-05-17": 130789,
-  "2023-05-18": 130789,
-  "2023-05-19": 130789,
-  "2023-05-20": 130789,
-  "2023-05-21": 130789,
-  "2023-05-22": 130789,
-  "2023-05-23": 130789,
-  "2023-05-24": 130789,
-  "2023-05-25": 130789,
-  "2023-05-26": 130789,
-  "2023-05-27": 130789,
-  "2023-05-28": 130789,
-  "2023-05-29": 130789,
-  "2023-05-30": 130789,
-  "2023-05-31": 130789,
-  "2023-06-01": 130789,
-  "2023-06-02": 130789,
-  "2023-06-03": 130789,
-  "2023-06-04": 130789,
-  "2023-06-05": 130789,
-  "2023-06-06": 130789,
-  "2023-06-07": 130789,
-  "2023-06-08": 130789,
-  "2023-06-09": 130789,
-  "2023-06-10": 130789,
-  "2023-06-11": 130789,
-  "2023-06-12": 130789,
-  "2023-06-13": 130789,
-  "2023-06-14": 130789,
-  "2023-06-15": 130789,
-  "2023-06-16": 130789,
-  "2023-06-17": 130789,
-  "2023-06-18": 130789,
-  "2023-06-19": 130789,
-  "2023-06-20": 130789,
-  "2023-06-21": 130789,
-  "2023-06-22": 130789,
-  "2023-06-23": 130789,
-  "2023-06-24": 130789,
-  "2023-06-25": 130789,
-  "2023-06-26": 130789,
-  "2023-06-27": 130789,
-  "2023-06-28": 130789,
-  "2023-06-29": 130789,
-  "2023-06-30": 130789,
-  "2023-07-01": 130789,
-  "2023-07-02": 130789,
-  "2023-07-03": 130789,
-  "2023-07-04": 130789,
-  "2023-07-05": 130789,
-  "2023-07-06": 130789,
-  "2023-07-07": 130789,
-  "2023-07-08": 130789,
-  "2023-07-09": 130789,
-  "2023-07-10": 130789,
-  "2023-07-11": 130789,
-  "2023-07-12": 130789,
-  "2023-07-13": 130789,
-  "2023-07-14": 130789,
-  "2023-07-15": 130789,
-  "2023-07-16": 130789,
-  "2023-07-17": 130789,
-  "2023-07-18": 130789,
-  "2023-07-19": 130789,
-  "2023-07-20": 130789,
-  "2023-07-21": 130789,
-  "2023-07-22": 130789,
-  "2023-07-23": 130789,
-  "2023-07-24": 130789,
-  "2023-07-25": 130789,
-  "2023-07-26": 130789,
-  "2023-07-27": 130789,
-  "2023-07-28": 130789,
-  "2023-07-29": 130789,
-  "2023-07-30": 130789,
-  "2023-07-31": 130789,
-  "2023-08-01": 130789,
-  "2023-08-02": 130789,
-  "2023-08-03": 130789,
-  "2023-08-04": 130789,
-  "2023-08-05": 130789,
-  "2023-08-06": 130789,
-  "2023-08-07": 130789,
-  "2023-08-08": 130789,
-  "2023-08-09": 130789,
-  "2023-08-10": 130789,
-  "2023-08-11": 130789,
-  "2023-08-12": 130789,
-  "2023-08-13": 130789,
-  "2023-08-14": 130789,
-  "2023-08-15": 130789,
-  "2023-08-16": 130789,
-  "2023-08-17": 130789,
-  "2023-08-18": 130789,
-  "2023-08-19": 130789,
-  "2023-08-20": 130789,
-  "2023-08-21": 130789,
-  "2023-08-22": 130789,
-  "2023-08-23": 130789,
-  "2023-08-24": 130789,
-  "2023-08-25": 130789,
-  "2023-08-26": 130789,
-  "2023-08-27": 130789,
-  "2023-08-28": 130789,
-  "2023-08-29": 130789,
-  "2023-08-30": 130789,
-  "2023-08-31": 130789,
-  "2023-09-01": 130789,
-  "2023-09-02": 130789,
-  "2023-09-03": 130789,
-  "2023-09-04": 130789,
-  "2023-09-05": 130789,
-  "2023-09-06": 130789,
-  "2023-09-07": 130789,
-  "2023-09-08": 130789,
-  "2023-09-09": 130789,
-  "2023-09-10": 130789,
-  "2023-09-11": 130789,
-  "2023-09-12": 130789,
-  "2023-09-13": 130789,
-  "2023-09-14": 130789,
-  "2023-09-15": 130789,
-  "2023-09-16": 130789,
-  "2023-09-17": 130789,
-  "2023-09-18": 130789,
-  "2023-09-19": 130789,
-  "2023-09-20": 130789,
-  "2023-09-21": 130789,
-  "2023-09-22": 130789,
-  "2023-09-23": 130789,
-  "2023-09-24": 130789,
-  "2023-09-25": 130789,
-  "2023-09-26": 130789,
-  "2023-09-27": 130789,
-  "2023-09-28": 130789,
-  "2023-09-29": 130789,
-  "2023-09-30": 130789,
-  "2023-10-01": 130789,
-  "2023-10-02": 130789,
-  "2023-10-03": 130789,
-  "2023-10-04": 130789,
-  "2023-10-05": 130789,
-  "2023-10-06": 130789,
-  "2023-10-07": 130789,
-  "2023-10-08": 130789,
-  "2023-10-09": 130789,
-  "2023-10-10": 130789,
-  "2023-10-11": 130789,
-  "2023-10-12": 130789,
-  "2023-10-13": 130789,
-  "2023-10-14": 130789,
-  "2023-10-15": 130789,
-  "2023-10-16": 130789,
-  "2023-10-17": 130789,
-  "2023-10-18": 130789,
-  "2023-10-19": 130789,
-  "2023-10-20": 130789,
-  "2023-10-21": 130789,
-  "2023-10-22": 130789,
-  "2023-10-23": 130789,
-  "2023-10-24": 130789,
-  "2023-10-25": 130789,
-  "2023-10-26": 130789,
-  "2023-10-27": 130789,
-  "2023-10-28": 130789,
-  "2023-10-29": 130789,
-  "2023-10-30": 130789,
-  "2023-10-31": 130789,
-  "2023-11-01": 130789,
-  "2023-11-02": 130789,
-  "2023-11-03": 130789,
-  "2023-11-04": 130789,
-  "2023-11-05": 130789,
-  "2023-11-06": 130789,
-  "2023-11-07": 130789,
-  "2023-11-08": 130789,
-  "2023-11-09": 130789,
-  "2023-11-10": 130789,
-  "2023-11-11": 130789,
-  "2023-11-12": 130789,
-  "2023-11-13": 130789,
-  "2023-11-14": 130789,
-  "2023-11-15": 130789,
-  "2023-11-16": 130789,
-  "2023-11-17": 130789,
-  "2023-11-18": 130789,
-  "2023-11-19": 130789,
-  "2023-11-20": 130789,
-  "2023-11-21": 130789,
-  "2023-11-22": 130789,
-  "2023-11-23": 130789,
-  "2023-11-24": 130789,
-  "2023-11-25": 130789,
-  "2023-11-26": 130789,
-  "2023-11-27": 130789,
-  "2023-11-28": 130789,
-  "2023-11-29": 130789,
-  "2023-11-30": 130789,
-  "2023-12-01": 130789,
-  "2023-12-02": 130789,
-  "2023-12-03": 130789,
-  "2023-12-04": 130789,
-  "2023-12-05": 130789,
-  "2023-12-06": 130789,
-  "2023-12-07": 130789,
-  "2023-12-08": 130789,
-  "2023-12-09": 130789,
-  "2023-12-10": 130789,
-  "2023-12-11": 130789,
-  "2023-12-12": 130789,
-  "2023-12-13": 130789,
-  "2023-12-14": 130789,
-  "2023-12-15": 130789,
-  "2023-12-16": 130789,
-  "2023-12-17": 130789,
-  "2023-12-18": 130789,
-  "2023-12-19": 130789,
-  "2023-12-20": 130789,
-  "2023-12-21": 130789,
-  "2023-12-22": 130789,
-  "2023-12-23": 130789,
-  "2023-12-24": 130789,
-  "2023-12-25": 130789,
-  "2023-12-26": 130789,
-  "2023-12-27": 130789,
-  "2023-12-30": 130789,
-  "2023-12-31": 130789,
-  "2024-01-01": 130789,
-  "2024-01-02": 130789,
-  "2024-01-03": 130789
+  "2024-01-17": 130789,
+  "date_first_scraped": "2021-12-21",
+  "description": "Celebrate 50 years of her iconic album, \"Blue,\" alongside the very best songs of this songwriting icon.",
+  "name": "This Is Joni Mitchell",
+  "tracks": [
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263480,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
+    },
+    {
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352826,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/41JlTwBvRReaitzs36quB9"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/7jeSFewaQLq8t2x8OZFQxZ"
+    },
+    {
+      "album": {
+        "name": "Hejira",
+        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361933,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/0sWXc2HP7INhTEkuUbxJGk"
+    },
+    {
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268026,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/0fJ561ClK3pIJBr0c6dtUX"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134800,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "album": {
+        "name": "For the Roses",
+        "url": "https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162306,
+      "name": "Blonde in the Bleachers",
+      "url": "https://open.spotify.com/track/33vz15yfffUp8WHoSY4kxL"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC"
+    },
+    {
+      "album": {
+        "name": "Hejira",
+        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304306,
+      "name": "Blue Motel Room",
+      "url": "https://open.spotify.com/track/0wGyenCHkW7eFO2ZpokF6C"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274560,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
+    },
+    {
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345400,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/1pjATX7sbd6Y4jMVqIvzHk"
+    },
+    {
+      "album": {
+        "name": "Song to a Seagull",
+        "url": "https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278533,
+      "name": "Cactus Tree",
+      "url": "https://open.spotify.com/track/0TUPxOcJc4R3PbWo8QwC3m"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230226,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
+    },
+    {
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Car on a Hill",
+      "url": "https://open.spotify.com/track/27VoOUIDXAAgmEXSjOJ1gD"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Carey",
+      "url": "https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151600,
+      "name": "Chelsea Morning",
+      "url": "https://open.spotify.com/track/5G0q5jtbxFCoqfbIDCIGky"
+    },
+    {
+      "album": {
+        "name": "Wild Things Run Fast",
+        "url": "https://open.spotify.com/album/1dx7PzquqSK8PeCjobRs4Y"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319693,
+      "name": "Chinese Cafe/Unchained Melody",
+      "url": "https://open.spotify.com/track/1RiGCkbBGO2Zpwe428ZUYp"
+    },
+    {
+      "album": {
+        "name": "Night Ride Home",
+        "url": "https://open.spotify.com/album/37C1LyfEOiw9IbUhjor4i3"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451640,
+      "name": "Come In From The Cold",
+      "url": "https://open.spotify.com/track/6LqO3gpScF9SjVqzzcYI82"
+    },
+    {
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269440,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/1BHXcIIAqAHO1EHMjYBqSM"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266960,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/1wcbiRER4ChnikvcLc2OE6"
+    },
+    {
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166160,
+      "name": "Court and Spark",
+      "url": "https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH"
+    },
+    {
+      "album": {
+        "name": "Hejira",
+        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301440,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ"
+    },
+    {
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338733,
+      "name": "Down to You",
+      "url": "https://open.spotify.com/track/3eH95cySq82dDtpwrGCCfQ"
+    },
+    {
+      "album": {
+        "name": "The Hissing of Summer Lawns",
+        "url": "https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215960,
+      "name": "Edith and the Kingpin",
+      "url": "https://open.spotify.com/track/7CD5VhE2AWbCxqYHmpYoSi"
+    },
+    {
+      "album": {
+        "name": "For the Roses",
+        "url": "https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223293,
+      "name": "For the Roses",
+      "url": "https://open.spotify.com/track/4I5vSTy4Du2SSfWqb8K69l"
+    },
+    {
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183120,
+      "name": "Free Man in Paris",
+      "url": "https://open.spotify.com/track/2by5mqpQ1ZP2G5FOIccMnu"
+    },
+    {
+      "album": {
+        "name": "Hejira",
+        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306240,
+      "name": "Furry Sings the Blues",
+      "url": "https://open.spotify.com/track/2fCvO4vU4LLEzHLsKKrVr7"
+    },
+    {
+      "album": {
+        "name": "Hejira",
+        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402466,
+      "name": "Hejira",
+      "url": "https://open.spotify.com/track/5YoBEhJWkFwT0zsWD2rUst"
+    },
+    {
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/0tVzXGFyNPusa1VkHmYDLd"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "I Don't Know Where I Stand",
+      "url": "https://open.spotify.com/track/4rciOQyIBH3Z4UqtV5DQ7K"
+    },
+    {
+      "album": {
+        "name": "Song to a Seagull",
+        "url": "https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "I Had a King",
+      "url": "https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm"
+    },
+    {
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216240,
+      "name": "I Wish I Were in Love Again",
+      "url": "https://open.spotify.com/track/1AzhyJpGjqsBJpoKHqj5BB"
+    },
+    {
+      "album": {
+        "name": "The Hissing of Summer Lawns",
+        "url": "https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "In France They Kiss on Main Street",
+      "url": "https://open.spotify.com/track/16e1DJIznzArBOCSomdvSn"
+    },
+    {
+      "album": {
+        "name": "Miles of Aisles (Live)",
+        "url": "https://open.spotify.com/album/2nZveqbqe3w1xTfaZmRpbz"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206306,
+      "name": "Jericho - Live at Universal Amphitheatre, Los Angeles, CA, 8/14-17, 1974",
+      "url": "https://open.spotify.com/track/1CmiK0sHoPJDdFXghuykc8"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "Ladies of the Canyon",
+      "url": "https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207506,
+      "name": "Little Green",
+      "url": "https://open.spotify.com/track/11ZNWD9Xzq9p3n07NbWSZw"
+    },
+    {
+      "album": {
+        "name": "Song to a Seagull",
+        "url": "https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "Michael from Mountains",
+      "url": "https://open.spotify.com/track/6CcO32ou1zFavrfhfMOQTx"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Morning Morgantown",
+      "url": "https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214826,
+      "name": "My Old Man",
+      "url": "https://open.spotify.com/track/6NQRhp9Vv5RRySazV7ttBl"
+    },
+    {
+      "album": {
+        "name": "Shine [Standard Jewel - Parts Order Only]",
+        "url": "https://open.spotify.com/album/6YzkbMCzwf0CEkVWSx6rkN"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276640,
+      "name": "Night of the Iguana",
+      "url": "https://open.spotify.com/track/2OWvasdbKsfmnwKForl9hZ"
+    },
+    {
+      "album": {
+        "name": "Turbulent Indigo",
+        "url": "https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258173,
+      "name": "Not to Blame",
+      "url": "https://open.spotify.com/track/5QUBmoVPLT25eaeesozYrf"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299640,
+      "name": "One Week Last Summer",
+      "url": "https://open.spotify.com/track/6JI3FRIbLAUKQJRNuEQHEC"
+    },
+    {
+      "album": {
+        "name": "Night Ride Home",
+        "url": "https://open.spotify.com/album/37C1LyfEOiw9IbUhjor4i3"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325160,
+      "name": "Passion Play (When All The Slaves Are Free)",
+      "url": "https://open.spotify.com/track/7fFpmyhkMgCn7P13bCdtK3"
+    },
+    {
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135400,
+      "name": "People's Parties",
+      "url": "https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245040,
+      "name": "River",
+      "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
+    },
+    {
+      "album": {
+        "name": "Travelogue",
+        "url": "https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237106,
+      "name": "Sex Kills",
+      "url": "https://open.spotify.com/track/7t5K5BG9Z7wIDVHKihrYAX"
+    },
+    {
+      "album": {
+        "name": "Hejira",
+        "url": "https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517586,
+      "name": "Song for Sharon",
+      "url": "https://open.spotify.com/track/2DslWBUkrGFHWAQe0GpxkB"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Songs to Aging Children Come",
+      "url": "https://open.spotify.com/track/6VOo52HfSgjysDSD8VD5w2"
+    },
+    {
+      "album": {
+        "name": "Don Juan's Reckless Daughter",
+        "url": "https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/3mGSbvZPJjcKNuhsLeTWgJ"
+    },
+    {
+      "album": {
+        "name": "Chalk Mark In A Rain Storm",
+        "url": "https://open.spotify.com/album/2MTyBAdrS2I8zvEOdz92YA"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325466,
+      "name": "The Beat Of Black Wings",
+      "url": "https://open.spotify.com/track/5IZ2XV8OWBq6FQO2dxtfWa"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292600,
+      "name": "The Circle Game",
+      "url": "https://open.spotify.com/track/6MYDgkfu34kRRIdMfleVCV"
+    },
+    {
+      "album": {
+        "name": "Song to a Seagull",
+        "url": "https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304173,
+      "name": "The Dawntreader",
+      "url": "https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN"
+    },
+    {
+      "album": {
+        "name": "The Hissing of Summer Lawns",
+        "url": "https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "The Hissing of Summer Lawns",
+      "url": "https://open.spotify.com/track/6ar3x1gVqkABR1x6zQI9yH"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256773,
+      "name": "The Last Time I Saw Richard",
+      "url": "https://open.spotify.com/track/5LZLOOTwrA0HgTszqCgZ3C"
+    },
+    {
+      "album": {
+        "name": "Travelogue",
+        "url": "https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298226,
+      "name": "The Last Time I Saw Richard",
+      "url": "https://open.spotify.com/track/1EW6GTo7Du55ace0UJxRsd"
+    },
+    {
+      "album": {
+        "name": "Turbulent Indigo",
+        "url": "https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244533,
+      "name": "The Magdalene Laundries",
+      "url": "https://open.spotify.com/track/2zTlByELcZXPeLYxFLf66e"
+    },
+    {
+      "album": {
+        "name": "River: The Joni Letters",
+        "url": "https://open.spotify.com/album/4XkWqozX4Uqc0qwncCVZxi"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393920,
+      "name": "The Tea Leaf Prophecy (Lay Down Your Arms)",
+      "url": "https://open.spotify.com/track/3k9NJHvoQdtMwmcBk1x4lW"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172600,
+      "name": "This Flight Tonight",
+      "url": "https://open.spotify.com/track/0bpXQ5CZ9rzAaGUSPKzI1r"
+    },
+    {
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Trouble Child",
+      "url": "https://open.spotify.com/track/6xnWOh2QmFsggTxGsaPv7X"
+    },
+    {
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/0dFqUCRbAMalnd74c4tw25"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308013,
+      "name": "Urge for Going",
+      "url": "https://open.spotify.com/track/6DWrIR5yIbe95e3lZDiuDD"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Willy",
+      "url": "https://open.spotify.com/track/2cVTf2U4pLlkAfdpERUNYj"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326933,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/18o4mqgG9RmPAD8aItmvkO"
+    },
+    {
+      "album": {
+        "name": "For the Roses",
+        "url": "https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159946,
+      "name": "You Turn Me On, I'm a Radio",
+      "url": "https://open.spotify.com/track/0ClDL3UrFy6vXhuGPKlNMJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX94esvuBEVw6"
 }

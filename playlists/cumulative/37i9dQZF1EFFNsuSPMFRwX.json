@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-17",
       "duration_ms": 294058,
       "name": "Back To Love",
       "url": "https://open.spotify.com/track/5ieTob4Bbn9DF97YakQUO9"
@@ -86,6 +86,24 @@
       "duration_ms": 222399,
       "name": "Before You Enter My Soul",
       "url": "https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186599,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd"
     },
     {
       "album": {
@@ -538,7 +556,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-13",
       "duration_ms": 237862,
       "name": "Ride",
       "url": "https://open.spotify.com/track/2aBJYU2tcsHhEzDIPrPEnd"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 213290,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/7IGt2mJjJcFJ2DUzejQZF6"
@@ -646,10 +664,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 203091,
       "name": "Steam",
       "url": "https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx"
+    },
+    {
+      "album": {
+        "name": "Steam (Official Video)",
+        "url": "https://open.spotify.com/album/7Mrjn3uGcMWQGUN9jmX2ak"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276629,
+      "name": "Steam",
+      "url": "https://open.spotify.com/track/2FgKK4s8bx8hLePNTaA1PO"
     },
     {
       "album": {
@@ -718,7 +754,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 147083,
       "name": "Traumada",
       "url": "https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS"
@@ -736,7 +772,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 156330,
       "name": "Traumada",
       "url": "https://open.spotify.com/track/0fMQSHQBLUNHgBPofQyeGt"

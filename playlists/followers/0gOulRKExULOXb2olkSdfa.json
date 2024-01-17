@@ -1,186 +1,443 @@
 {
-  "2023-07-02": 1,
-  "2023-07-03": 1,
-  "2023-07-04": 1,
-  "2023-07-05": 1,
-  "2023-07-06": 1,
-  "2023-07-07": 1,
-  "2023-07-08": 1,
-  "2023-07-09": 1,
-  "2023-07-10": 1,
-  "2023-07-11": 1,
-  "2023-07-12": 1,
-  "2023-07-13": 1,
-  "2023-07-14": 1,
-  "2023-07-15": 1,
-  "2023-07-16": 1,
-  "2023-07-17": 1,
-  "2023-07-18": 1,
-  "2023-07-19": 1,
-  "2023-07-20": 1,
-  "2023-07-21": 1,
-  "2023-07-22": 1,
-  "2023-07-23": 1,
-  "2023-07-24": 1,
-  "2023-07-25": 1,
-  "2023-07-26": 1,
-  "2023-07-27": 1,
-  "2023-07-28": 1,
-  "2023-07-29": 1,
-  "2023-07-30": 1,
-  "2023-07-31": 1,
-  "2023-08-01": 1,
-  "2023-08-02": 1,
-  "2023-08-03": 1,
-  "2023-08-04": 1,
-  "2023-08-05": 1,
-  "2023-08-06": 1,
-  "2023-08-07": 1,
-  "2023-08-08": 1,
-  "2023-08-09": 1,
-  "2023-08-10": 1,
-  "2023-08-11": 1,
-  "2023-08-12": 1,
-  "2023-08-13": 1,
-  "2023-08-14": 1,
-  "2023-08-15": 1,
-  "2023-08-16": 1,
-  "2023-08-17": 1,
-  "2023-08-18": 1,
-  "2023-08-19": 1,
-  "2023-08-20": 1,
-  "2023-08-21": 1,
-  "2023-08-22": 1,
-  "2023-08-23": 1,
-  "2023-08-24": 1,
-  "2023-08-25": 1,
-  "2023-08-26": 1,
-  "2023-08-27": 1,
-  "2023-08-28": 1,
-  "2023-08-29": 1,
-  "2023-08-30": 1,
-  "2023-08-31": 1,
-  "2023-09-01": 1,
-  "2023-09-02": 1,
-  "2023-09-03": 1,
-  "2023-09-04": 1,
-  "2023-09-05": 1,
-  "2023-09-06": 1,
-  "2023-09-07": 1,
-  "2023-09-08": 1,
-  "2023-09-09": 1,
-  "2023-09-10": 1,
-  "2023-09-11": 1,
-  "2023-09-12": 1,
-  "2023-09-13": 1,
-  "2023-09-14": 1,
-  "2023-09-15": 1,
-  "2023-09-16": 1,
-  "2023-09-17": 1,
-  "2023-09-18": 1,
-  "2023-09-19": 1,
-  "2023-09-20": 1,
-  "2023-09-21": 1,
-  "2023-09-22": 1,
-  "2023-09-23": 1,
-  "2023-09-24": 1,
-  "2023-09-25": 1,
-  "2023-09-26": 1,
-  "2023-09-27": 1,
-  "2023-09-28": 1,
-  "2023-09-29": 1,
-  "2023-09-30": 1,
-  "2023-10-01": 1,
-  "2023-10-02": 1,
-  "2023-10-03": 1,
-  "2023-10-04": 1,
-  "2023-10-05": 1,
-  "2023-10-06": 1,
-  "2023-10-07": 1,
-  "2023-10-08": 1,
-  "2023-10-09": 1,
-  "2023-10-10": 1,
-  "2023-10-11": 1,
-  "2023-10-12": 1,
-  "2023-10-13": 1,
-  "2023-10-14": 1,
-  "2023-10-15": 1,
-  "2023-10-16": 1,
-  "2023-10-17": 1,
-  "2023-10-18": 1,
-  "2023-10-19": 1,
-  "2023-10-20": 1,
-  "2023-10-21": 1,
-  "2023-10-22": 1,
-  "2023-10-23": 1,
-  "2023-10-24": 1,
-  "2023-10-25": 1,
-  "2023-10-26": 1,
-  "2023-10-27": 1,
-  "2023-10-28": 1,
-  "2023-10-29": 1,
-  "2023-10-30": 1,
-  "2023-10-31": 1,
-  "2023-11-01": 1,
-  "2023-11-02": 1,
-  "2023-11-03": 1,
-  "2023-11-04": 1,
-  "2023-11-05": 1,
-  "2023-11-06": 1,
-  "2023-11-07": 1,
-  "2023-11-08": 1,
-  "2023-11-09": 1,
-  "2023-11-10": 1,
-  "2023-11-11": 1,
-  "2023-11-12": 1,
-  "2023-11-13": 1,
-  "2023-11-14": 1,
-  "2023-11-15": 1,
-  "2023-11-16": 1,
-  "2023-11-17": 1,
-  "2023-11-18": 1,
-  "2023-11-19": 1,
-  "2023-11-20": 1,
-  "2023-11-21": 1,
-  "2023-11-22": 1,
-  "2023-11-23": 1,
-  "2023-11-24": 1,
-  "2023-11-25": 1,
-  "2023-11-26": 1,
-  "2023-11-27": 1,
-  "2023-11-28": 1,
-  "2023-11-29": 1,
-  "2023-11-30": 1,
-  "2023-12-01": 1,
-  "2023-12-02": 1,
-  "2023-12-03": 1,
-  "2023-12-04": 1,
-  "2023-12-05": 1,
-  "2023-12-06": 1,
-  "2023-12-07": 1,
-  "2023-12-08": 1,
-  "2023-12-09": 1,
-  "2023-12-10": 1,
-  "2023-12-11": 1,
-  "2023-12-12": 1,
-  "2023-12-13": 1,
-  "2023-12-14": 1,
-  "2023-12-15": 1,
-  "2023-12-16": 1,
-  "2023-12-17": 1,
-  "2023-12-18": 1,
-  "2023-12-19": 1,
-  "2023-12-20": 1,
-  "2023-12-21": 1,
-  "2023-12-22": 1,
-  "2023-12-23": 1,
-  "2023-12-24": 1,
-  "2023-12-25": 1,
-  "2023-12-26": 1,
-  "2023-12-27": 1,
-  "2023-12-30": 1,
-  "2023-12-31": 1,
-  "2024-01-01": 1,
-  "2024-01-02": 1,
-  "2024-01-03": 1
+  "2024-01-17": 1,
+  "date_first_scraped": "2023-07-02",
+  "description": "feel good jams",
+  "name": "im not gay but this doesnt help",
+  "tracks": [
+    {
+      "album": {
+        "name": "Happy Songs 2010",
+        "url": "https://open.spotify.com/album/3rHwqq6ssBUCrqOulc980p"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/00Crfvu3dp6IBtAE6CzSVT"
+    },
+    {
+      "album": {
+        "name": "Backyard Boy (Stripped)",
+        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2021-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129240,
+      "name": "Backyard Boy",
+      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
+    },
+    {
+      "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "Blood // Water",
+      "url": "https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz"
+    },
+    {
+      "album": {
+        "name": "Brittle Bones Nicky",
+        "url": "https://open.spotify.com/album/4lvWCC5z1FRSWIsdHIxPzH"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2021-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202932,
+      "name": "Brittle Bones Nicky",
+      "url": "https://open.spotify.com/track/0Pne7iPkdfhZFh45nhBhHz"
+    },
+    {
+      "album": {
+        "name": "The Heart Goes to Heaven, The Head Goes to Hell",
+        "url": "https://open.spotify.com/album/19nAM8YpXFtHaAT9ZfTha4"
+      },
+      "artists": [
+        {
+          "name": "That Handsome Devil",
+          "url": "https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT"
+        }
+      ],
+      "date_added": "2021-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "Charlie's Inferno",
+      "url": "https://open.spotify.com/track/1ONC00cKNdFgKiATMtcxEc"
+    },
+    {
+      "album": {
+        "name": "Die Happy",
+        "url": "https://open.spotify.com/album/4CuNmnvTXi3R5cDqgf5poF"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186902,
+      "name": "Die Happy",
+      "url": "https://open.spotify.com/track/3sZSnOUL2kskr3gpyXCEWk"
+    },
+    {
+      "album": {
+        "name": "Death Of An Optimist",
+        "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208296,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/3pShTDa5E1bPBkrc1mxxGY"
+    },
+    {
+      "album": {
+        "name": "Thousand Peaces",
+        "url": "https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI"
+      },
+      "artists": [
+        {
+          "name": "Absofacto",
+          "url": "https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr"
+        },
+        {
+          "name": "NITESHIFT",
+          "url": "https://open.spotify.com/artist/31aY8MVhn7ZKrobYTLssax"
+        }
+      ],
+      "date_added": "2021-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224660,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/7pBrj5rt4SSxXwFKOyZfHR"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3h1NpsC8ScXsPHHzJZLH7m"
+      },
+      "artists": [
+        {
+          "name": "Confetti",
+          "url": "https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169413,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/30uCmqegKQnH5AbOE51gPD"
+    },
+    {
+      "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145147,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
+    },
+    {
+      "album": {
+        "name": "Let the Vultures In",
+        "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172071,
+      "name": "HVY MTL DRMR",
+      "url": "https://open.spotify.com/track/2SGbwxlRzSFjUgsQJyqB8o"
+    },
+    {
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2021-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174067,
+      "name": "Monsters (feat. blackbear)",
+      "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
+    },
+    {
+      "album": {
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2021-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159293,
+      "name": "overwhelmed",
+      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
+    },
+    {
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2021-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171880,
+      "name": "parents",
+      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
+    },
+    {
+      "album": {
+        "name": "Cry Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179867,
+      "name": "Play Date",
+      "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
+    },
+    {
+      "album": {
+        "name": "The Gloomy Tapes, Vol. 2",
+        "url": "https://open.spotify.com/album/3ukdoeD1Xxoh0lTp80Xkzu"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135899,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/7fBKbK8897K5V5zgr7ymIz"
+    },
+    {
+      "album": {
+        "name": "Record Player (with AJR)",
+        "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        },
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2021-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Record Player (with AJR)",
+      "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
+    },
+    {
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2021-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb"
+    },
+    {
+      "album": {
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
+    },
+    {
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2021-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
+    },
+    {
+      "album": {
+        "name": "Sociopath",
+        "url": "https://open.spotify.com/album/1ULTtkDHtkueGlH7isNkAl"
+      },
+      "artists": [
+        {
+          "name": "StayLoose",
+          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
+        },
+        {
+          "name": "Bryce Fox",
+          "url": "https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Sociopath",
+      "url": "https://open.spotify.com/track/0xx5CXMss5CFv2GPkg97aC"
+    },
+    {
+      "album": {
+        "name": "Strange Love",
+        "url": "https://open.spotify.com/album/54YxdzALRQHJYWPrgCHmo1"
+      },
+      "artists": [
+        {
+          "name": "Simple Creatures",
+          "url": "https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151631,
+      "name": "Strange Love",
+      "url": "https://open.spotify.com/track/51kzBRf8LFVFybAs7n71y4"
+    },
+    {
+      "album": {
+        "name": "Gangstalkers, Vol. 4",
+        "url": "https://open.spotify.com/album/1vL0hqDk8OieeVdirZp1Rj"
+      },
+      "artists": [
+        {
+          "name": "Rusty Cage",
+          "url": "https://open.spotify.com/artist/1OHoYWZrxs1JoT2kMLI4Uk"
+        }
+      ],
+      "date_added": "2021-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155858,
+      "name": "The Hearse Song",
+      "url": "https://open.spotify.com/track/4XqmIO6Rhx158OgvDIq4Xq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/0gOulRKExULOXb2olkSdfa"
 }

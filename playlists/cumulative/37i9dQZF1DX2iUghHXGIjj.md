@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-170 songs - 10 hr 39 min
+172 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 | 2021-09-10 |  |
 | [I Know the Blues](https://open.spotify.com/track/46nsFqBOhJ3qKWTQBTTGiX) | [Marco Descontus](https://open.spotify.com/artist/2w7qGk2290BWS3LWrxvuPQ), [The Italian Connection](https://open.spotify.com/artist/4R1OrT7otEReliIBrMMekn) | [I Know the Blues](https://open.spotify.com/album/3ZKQp9QDr7bdj7AZRy4wrw) | 4:04 | 2023-06-30 |  |
 | [I Won't Bitch](https://open.spotify.com/track/3KD3sURRyU5R5ofgj491qZ) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Welcome to My Nightmare](https://open.spotify.com/album/2cDa70BDjpfp2jJn9E4v2U) | 3:26 | 2020-11-06 |  |
+| [I'm Gone](https://open.spotify.com/track/4VNrVZjijlntOMeUqzTVKK) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Raw Blues 1](https://open.spotify.com/album/1eXV0McHkRo6xzbEBP6pCt) | 3:11 | 2023-03-17 |  |
 | [I'm Ready](https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh) | 2:17 | 2021-04-16 |  |
 | [I'm Ready](https://open.spotify.com/track/2v7vMQGFva7ePcl4BiBF2K) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [I'm Ready](https://open.spotify.com/album/5gvcJLqMU4GFtCSFrHifY0) | 2:17 | 2021-04-16 | 2022-10-15 |
 | [I'm Ready](https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/33kr65x9D148InPeYYIloG) | 2:17 | 2021-04-16 | 2023-03-31 |
@@ -85,7 +86,7 @@
 | [I'm So Lonely](https://open.spotify.com/track/6BsaK0v4nm49vNd5ccHyRX) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/0njoBaMuox6zxRG9Is8WRF) | 4:40 | 2020-08-11 | 2022-07-29 |
 | [in three years' time \- Stripped Back](https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back \(deluxe\)](https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS) | 2:55 | 2022-08-26 |  |
 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 | 2022-05-20 |  |
-| [I’m Gone](https://open.spotify.com/track/6ApksZhyT5U7HiKVdWiMmm) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Raw Blues 1](https://open.spotify.com/album/6SBifKJcv5Cm8PYH3akPeC) | 3:11 | 2023-03-17 |  |
+| [I’m Gone](https://open.spotify.com/track/6ApksZhyT5U7HiKVdWiMmm) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Raw Blues 1](https://open.spotify.com/album/6SBifKJcv5Cm8PYH3akPeC) | 3:11 | 2023-03-17 | 2024-01-14 |
 | [Johnny law](https://open.spotify.com/track/4z9Je08Qpyfn6q7bbiqmW5) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/3WjgDAPVhWl6cdc7q3EM1R) | 4:29 | 2020-08-11 | 2022-07-29 |
 | [Johnny law](https://open.spotify.com/track/50NxwJPlcjsT7IqFshyuYP) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J) | 4:29 | 2020-08-11 |  |
 | [Kansas City Blues](https://open.spotify.com/track/58TQAkARupFHoHVQ00Yj9S) | [Steve Howell](https://open.spotify.com/artist/3xJEpa8iyCscYkG3XlIxBU), [Jason Weinheimer](https://open.spotify.com/artist/4SVe1RgQ8VnJ5Lgb6NodF3) | [A Hundred Years from Today](https://open.spotify.com/album/2h4vnUECqd75oUIBehBMYl) | 3:07 | 2020-08-11 |  |
@@ -171,7 +172,8 @@
 | [What They Say](https://open.spotify.com/track/1Ksvwp4L3vKsWOJP9j1QoA) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/2SbPOPZJhWcY5bf81e4PIV) | 2:46 | 2020-08-11 |  |
 | [What They Say](https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7) | 2:46 | 2020-08-11 | 2023-04-29 |
 | [What They Say](https://open.spotify.com/track/6KbsA9kAmOcECPJeCy58XO) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/15qeyD4UdDxtNCAQyWEb44) | 2:46 | 2020-08-11 | 2022-07-29 |
-| [When the Hurt Is Over](https://open.spotify.com/track/0FtlOiBxDgFR6wz9N7Arz6) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [A Diamond in the Rough](https://open.spotify.com/album/0YKahH7gYqKnCX3eCcvr67) | 6:11 | 2020-08-11 |  |
+| [When the Hurt Is Over](https://open.spotify.com/track/0FtlOiBxDgFR6wz9N7Arz6) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [A Diamond in the Rough](https://open.spotify.com/album/0YKahH7gYqKnCX3eCcvr67) | 6:11 | 2020-08-11 | 2024-01-14 |
+| [When the Hurt Is Over](https://open.spotify.com/track/5hmrxXohb7HbRovzFAnKWJ) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [A Diamond in the Rough](https://open.spotify.com/album/6QxUFpQy5rx7JtIRXhBRIZ) | 6:11 | 2020-08-11 |  |
 | [When the Levee Breaks \(feat\. Jean Jacques Milteau\)](https://open.spotify.com/track/6uJKEvWD4zKL8PGwadftFv) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh), [Jean\-Jacques Milteau](https://open.spotify.com/artist/4ConspsaeqXp9c2pOc3M0n) | [Tiny Town](https://open.spotify.com/album/2oRSRMtrLn135wYYzdksnA) | 3:18 | 2020-08-11 |  |
 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 | 2021-07-02 |  |
 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 | 2020-08-11 |  |

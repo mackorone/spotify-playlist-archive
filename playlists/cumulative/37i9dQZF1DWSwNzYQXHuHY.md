@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-187 songs - 10 hr 32 min
+188 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,9 +86,10 @@
 | [I'm In Love](https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Woori The Virgin, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii) | 3:00 | 2022-06-13 | 2022-08-18 |
 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 | 2022-05-11 | 2022-07-21 |
 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 | 2022-05-11 |  |
+| [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 | 2024-01-08 |  |
 | [Insta lover](https://open.spotify.com/track/3tBJU6ap8mv45X9Z32xhpu) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr) | [Not a fairytale](https://open.spotify.com/album/1g2VqUtlR2v6KJL8X0lSr7) | 3:16 | 2022-06-13 | 2022-07-27 |
 | [Interview](https://open.spotify.com/track/2izPoWJ6xAuZUNJkdXO3YS) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:25 | 2022-05-11 | 2022-09-13 |
-| [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 | 2022-08-12 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 | 2022-08-12 | 2024-01-09 |
 | [I′ll tell you today](https://open.spotify.com/track/3mOQFlfQMDlJWp8AK4aTKj) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [I'll tell you today \(PRIENDS Original Soundtrack Part 2\)](https://open.spotify.com/album/0ahqw51XhfIX7Eevi5NtmW) | 2:41 | 2022-05-11 | 2022-07-28 |
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-09 |  |
 | [L.O.V.E](https://open.spotify.com/track/4cRAQZ8SzbTlqhD6jxhNFD) | [DANI \(Park Hyuck Jin\)](https://open.spotify.com/artist/1UzO0KpLhB7BGq2ejDKkpQ) | [Oh My Wedding OST Part.3](https://open.spotify.com/album/6nEZwWK3EoGPCbBcynPJOb) | 3:02 | 2022-07-04 | 2022-07-19 |

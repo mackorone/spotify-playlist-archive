@@ -1,580 +1,2761 @@
 {
-  "2022-05-30": 72222,
-  "2022-05-31": 72270,
-  "2022-06-01": 72399,
-  "2022-06-02": 72402,
-  "2022-06-03": 72468,
-  "2022-06-04": 72534,
-  "2022-06-05": 72610,
-  "2022-06-06": 72647,
-  "2022-06-07": 72706,
-  "2022-06-08": 72781,
-  "2022-06-09": 72844,
-  "2022-06-10": 72908,
-  "2022-06-11": 72960,
-  "2022-06-12": 73015,
-  "2022-06-13": 73042,
-  "2022-06-14": 73108,
-  "2022-06-15": 73147,
-  "2022-06-16": 73195,
-  "2022-06-17": 73273,
-  "2022-06-18": 73350,
-  "2022-06-19": 73440,
-  "2022-06-20": 73440,
-  "2022-06-21": 73509,
-  "2022-06-22": 73611,
-  "2022-06-23": 73611,
-  "2022-06-24": 73653,
-  "2022-06-25": 73653,
-  "2022-06-26": 73728,
-  "2022-06-27": 73781,
-  "2022-06-28": 73827,
-  "2022-06-29": 73870,
-  "2022-06-30": 73899,
-  "2022-07-01": 73943,
-  "2022-07-02": 73987,
-  "2022-07-03": 74053,
-  "2022-07-04": 74109,
-  "2022-07-05": 74168,
-  "2022-07-06": 74210,
-  "2022-07-07": 74250,
-  "2022-07-08": 74294,
-  "2022-07-09": 74342,
-  "2022-07-10": 74373,
-  "2022-07-11": 74425,
-  "2022-07-12": 74458,
-  "2022-07-13": 74514,
-  "2022-07-14": 74566,
-  "2022-07-15": 74607,
-  "2022-07-16": 74660,
-  "2022-07-17": 74723,
-  "2022-07-18": 74785,
-  "2022-07-19": 74834,
-  "2022-07-20": 74873,
-  "2022-07-21": 74923,
-  "2022-07-22": 74978,
-  "2022-07-23": 75033,
-  "2022-07-24": 75080,
-  "2022-07-25": 75115,
-  "2022-07-26": 75165,
-  "2022-07-27": 75216,
-  "2022-07-28": 75266,
-  "2022-07-29": 75315,
-  "2022-07-30": 75404,
-  "2022-07-31": 75404,
-  "2022-08-01": 75445,
-  "2022-08-02": 75511,
-  "2022-08-03": 75511,
-  "2022-08-04": 75550,
-  "2022-08-05": 75604,
-  "2022-08-06": 75657,
-  "2022-08-07": 75699,
-  "2022-08-08": 75754,
-  "2022-08-09": 75796,
-  "2022-08-10": 75848,
-  "2022-08-11": 75903,
-  "2022-08-12": 75963,
-  "2022-08-13": 76005,
-  "2022-08-14": 76066,
-  "2022-08-15": 76109,
-  "2022-08-16": 76162,
-  "2022-08-17": 76214,
-  "2022-08-18": 76258,
-  "2022-08-19": 76318,
-  "2022-08-20": 76374,
-  "2022-08-21": 76418,
-  "2022-08-22": 76467,
-  "2022-08-23": 76503,
-  "2022-08-24": 76554,
-  "2022-08-25": 76606,
-  "2022-08-26": 76649,
-  "2022-08-27": 76701,
-  "2022-08-28": 76728,
-  "2022-08-29": 76783,
-  "2022-08-30": 76816,
-  "2022-08-31": 76868,
-  "2022-09-01": 76887,
-  "2022-09-02": 76888,
-  "2022-09-03": 76898,
-  "2022-09-04": 76885,
-  "2022-09-05": 76891,
-  "2022-09-06": 76939,
-  "2022-09-07": 76993,
-  "2022-09-09": 77060,
-  "2022-09-10": 77093,
-  "2022-09-11": 77120,
-  "2022-09-12": 77159,
-  "2022-09-13": 77207,
-  "2022-09-15": 77286,
-  "2022-09-16": 77321,
-  "2022-09-17": 77369,
-  "2022-09-18": 77409,
-  "2022-09-19": 77469,
-  "2022-09-20": 77518,
-  "2022-09-21": 77577,
-  "2022-09-22": 77646,
-  "2022-09-23": 77699,
-  "2022-09-24": 77748,
-  "2022-09-25": 77801,
-  "2022-09-26": 77862,
-  "2022-09-27": 77939,
-  "2022-09-28": 77988,
-  "2022-09-29": 78029,
-  "2022-09-30": 78089,
-  "2022-10-01": 78133,
-  "2022-10-02": 78195,
-  "2022-10-03": 78252,
-  "2022-10-04": 78301,
-  "2022-10-05": 78357,
-  "2022-10-06": 78421,
-  "2022-10-07": 78466,
-  "2022-10-08": 78517,
-  "2022-10-09": 78606,
-  "2022-10-10": 78618,
-  "2022-10-11": 78666,
-  "2022-10-12": 78705,
-  "2022-10-13": 78760,
-  "2022-10-14": 78825,
-  "2022-10-15": 78864,
-  "2022-10-16": 78916,
-  "2022-10-17": 78962,
-  "2022-10-18": 79007,
-  "2022-10-19": 79053,
-  "2022-10-20": 79102,
-  "2022-10-21": 79153,
-  "2022-10-22": 79207,
-  "2022-10-23": 79267,
-  "2022-10-24": 79310,
-  "2022-10-25": 79364,
-  "2022-10-26": 79414,
-  "2022-10-27": 79459,
-  "2022-10-28": 79505,
-  "2022-10-29": 79545,
-  "2022-10-30": 79598,
-  "2022-10-31": 79647,
-  "2022-11-01": 79687,
-  "2022-11-02": 79729,
-  "2022-11-03": 79786,
-  "2022-11-04": 79849,
-  "2022-11-05": 79902,
-  "2022-11-06": 79954,
-  "2022-11-07": 80015,
-  "2022-11-08": 80060,
-  "2022-11-09": 80116,
-  "2022-11-10": 80162,
-  "2022-11-11": 80217,
-  "2022-11-12": 80269,
-  "2022-11-13": 80328,
-  "2022-11-14": 80392,
-  "2022-11-15": 80452,
-  "2022-11-16": 80509,
-  "2022-11-17": 80570,
-  "2022-11-18": 80590,
-  "2022-11-19": 80573,
-  "2022-11-20": 80581,
-  "2022-11-21": 80623,
-  "2022-11-22": 80682,
-  "2022-11-23": 80735,
-  "2022-11-24": 80846,
-  "2022-11-25": 80978,
-  "2022-11-26": 81072,
-  "2022-11-27": 81136,
-  "2022-11-28": 81188,
-  "2022-11-29": 81245,
-  "2022-11-30": 81300,
-  "2022-12-01": 81353,
-  "2022-12-02": 81436,
-  "2022-12-03": 81455,
-  "2022-12-04": 81559,
-  "2022-12-05": 81647,
-  "2022-12-06": 81700,
-  "2022-12-07": 81757,
-  "2022-12-08": 81797,
-  "2022-12-09": 81863,
-  "2022-12-10": 81907,
-  "2022-12-11": 81965,
-  "2022-12-12": 81994,
-  "2022-12-13": 82045,
-  "2022-12-14": 82091,
-  "2022-12-15": 82141,
-  "2022-12-16": 82185,
-  "2022-12-17": 82240,
-  "2022-12-18": 82294,
-  "2022-12-19": 82357,
-  "2022-12-20": 82448,
-  "2022-12-21": 82448,
-  "2022-12-22": 82503,
-  "2022-12-24": 82558,
-  "2022-12-25": 82606,
-  "2022-12-26": 82648,
-  "2022-12-27": 82703,
-  "2022-12-28": 82754,
-  "2022-12-29": 82791,
-  "2022-12-30": 82841,
-  "2022-12-31": 82883,
-  "2023-01-01": 82914,
-  "2023-01-02": 82943,
-  "2023-01-03": 83002,
-  "2023-01-04": 83045,
-  "2023-01-05": 83096,
-  "2023-01-06": 83173,
-  "2023-01-07": 83281,
-  "2023-01-08": 83290,
-  "2023-01-09": 83326,
-  "2023-01-10": 83391,
-  "2023-01-11": 83432,
-  "2023-01-12": 83480,
-  "2023-01-13": 83535,
-  "2023-01-14": 83610,
-  "2023-01-15": 83614,
-  "2023-01-16": 83681,
-  "2023-01-17": 83717,
-  "2023-01-18": 83755,
-  "2023-01-19": 83808,
-  "2023-01-20": 83850,
-  "2023-01-21": 83873,
-  "2023-01-22": 83935,
-  "2023-01-23": 83983,
-  "2023-01-24": 84027,
-  "2023-01-25": 84056,
-  "2023-01-26": 84093,
-  "2023-01-27": 84148,
-  "2023-01-28": 84192,
-  "2023-01-29": 84230,
-  "2023-01-30": 84259,
-  "2023-01-31": 84259,
-  "2023-02-01": 84348,
-  "2023-02-02": 84379,
-  "2023-02-03": 84419,
-  "2023-02-04": 84463,
-  "2023-02-05": 84510,
-  "2023-02-06": 84558,
-  "2023-02-07": 84590,
-  "2023-02-08": 84654,
-  "2023-02-09": 84654,
-  "2023-02-10": 84715,
-  "2023-02-11": 84756,
-  "2023-02-12": 84844,
-  "2023-02-13": 84890,
-  "2023-02-14": 84890,
-  "2023-02-15": 84907,
-  "2023-02-16": 84943,
-  "2023-02-17": 84997,
-  "2023-02-18": 85075,
-  "2023-02-19": 85091,
-  "2023-02-20": 85128,
-  "2023-02-21": 85162,
-  "2023-02-22": 85191,
-  "2023-02-23": 85224,
-  "2023-02-24": 85251,
-  "2023-02-25": 85322,
-  "2023-02-26": 85349,
-  "2023-02-27": 85430,
-  "2023-02-28": 85430,
-  "2023-03-01": 85474,
-  "2023-03-02": 85511,
-  "2023-03-03": 85549,
-  "2023-03-04": 85573,
-  "2023-03-05": 85671,
-  "2023-03-06": 85671,
-  "2023-03-07": 85707,
-  "2023-03-08": 85753,
-  "2023-03-09": 85797,
-  "2023-03-10": 85836,
-  "2023-03-11": 85868,
-  "2023-03-12": 85901,
-  "2023-03-13": 85933,
-  "2023-03-14": 85999,
-  "2023-03-15": 86035,
-  "2023-03-16": 86079,
-  "2023-03-17": 86079,
-  "2023-03-18": 86168,
-  "2023-03-19": 86210,
-  "2023-03-20": 86270,
-  "2023-03-21": 86293,
-  "2023-03-22": 86347,
-  "2023-03-23": 86374,
-  "2023-03-24": 86374,
-  "2023-03-25": 86456,
-  "2023-03-26": 86503,
-  "2023-03-27": 86545,
-  "2023-03-28": 86586,
-  "2023-03-29": 86636,
-  "2023-03-30": 86706,
-  "2023-03-31": 86706,
-  "2023-04-01": 86735,
-  "2023-04-02": 86768,
-  "2023-04-03": 86806,
-  "2023-04-04": 86841,
-  "2023-04-05": 86885,
-  "2023-04-06": 86917,
-  "2023-04-07": 86971,
-  "2023-04-09": 87036,
-  "2023-04-10": 87068,
-  "2023-04-11": 87129,
-  "2023-04-12": 87129,
-  "2023-04-13": 87152,
-  "2023-04-14": 87193,
-  "2023-04-15": 87241,
-  "2023-04-16": 87289,
-  "2023-04-17": 87340,
-  "2023-04-18": 87387,
-  "2023-04-19": 87439,
-  "2023-04-20": 87478,
-  "2023-04-21": 87540,
-  "2023-04-22": 87602,
-  "2023-04-23": 87644,
-  "2023-04-24": 87710,
-  "2023-04-25": 87747,
-  "2023-04-26": 87799,
-  "2023-04-27": 87854,
-  "2023-04-28": 87919,
-  "2023-04-29": 87967,
-  "2023-04-30": 88017,
-  "2023-05-01": 88062,
-  "2023-05-02": 88113,
-  "2023-05-03": 88146,
-  "2023-05-04": 88203,
-  "2023-05-05": 88243,
-  "2023-05-06": 88294,
-  "2023-05-07": 88347,
-  "2023-05-08": 88401,
-  "2023-05-09": 88448,
-  "2023-05-10": 88488,
-  "2023-05-11": 88544,
-  "2023-05-12": 88594,
-  "2023-05-13": 88652,
-  "2023-05-14": 88696,
-  "2023-05-15": 88733,
-  "2023-05-16": 88775,
-  "2023-05-17": 88820,
-  "2023-05-18": 88858,
-  "2023-05-19": 88896,
-  "2023-05-20": 88984,
-  "2023-05-21": 88984,
-  "2023-05-22": 88984,
-  "2023-05-23": 89089,
-  "2023-05-24": 89160,
-  "2023-05-25": 89164,
-  "2023-05-26": 89209,
-  "2023-05-27": 89261,
-  "2023-05-28": 89321,
-  "2023-05-29": 89321,
-  "2023-05-30": 89389,
-  "2023-05-31": 89442,
-  "2023-06-01": 89483,
-  "2023-06-02": 89513,
-  "2023-06-03": 89547,
-  "2023-06-04": 89584,
-  "2023-06-05": 89627,
-  "2023-06-06": 89671,
-  "2023-06-07": 89727,
-  "2023-06-08": 89768,
-  "2023-06-09": 89814,
-  "2023-06-10": 89859,
-  "2023-06-11": 89894,
-  "2023-06-12": 89945,
-  "2023-06-13": 89984,
-  "2023-06-14": 90001,
-  "2023-06-15": 90028,
-  "2023-06-16": 90048,
-  "2023-06-17": 90048,
-  "2023-06-18": 90048,
-  "2023-06-19": 90048,
-  "2023-06-20": 90048,
-  "2023-06-21": 90048,
-  "2023-06-22": 90048,
-  "2023-06-23": 90048,
-  "2023-06-24": 90048,
-  "2023-06-25": 90048,
-  "2023-06-26": 90048,
-  "2023-06-27": 90048,
-  "2023-06-28": 90048,
-  "2023-06-29": 90048,
-  "2023-06-30": 90048,
-  "2023-07-01": 90048,
-  "2023-07-02": 90048,
-  "2023-07-03": 90048,
-  "2023-07-04": 90048,
-  "2023-07-05": 90048,
-  "2023-07-06": 90048,
-  "2023-07-07": 90048,
-  "2023-07-08": 90048,
-  "2023-07-09": 90048,
-  "2023-07-10": 90048,
-  "2023-07-11": 90048,
-  "2023-07-12": 90048,
-  "2023-07-13": 90048,
-  "2023-07-14": 90048,
-  "2023-07-15": 90048,
-  "2023-07-16": 90048,
-  "2023-07-17": 90048,
-  "2023-07-18": 90048,
-  "2023-07-19": 90048,
-  "2023-07-20": 90048,
-  "2023-07-21": 90048,
-  "2023-07-22": 90048,
-  "2023-07-23": 90048,
-  "2023-07-24": 90048,
-  "2023-07-25": 90048,
-  "2023-07-26": 90048,
-  "2023-07-27": 90048,
-  "2023-07-28": 90048,
-  "2023-07-29": 90048,
-  "2023-07-30": 90048,
-  "2023-07-31": 90048,
-  "2023-08-01": 90048,
-  "2023-08-02": 90048,
-  "2023-08-03": 90048,
-  "2023-08-04": 90048,
-  "2023-08-05": 90048,
-  "2023-08-06": 90048,
-  "2023-08-07": 90048,
-  "2023-08-08": 90048,
-  "2023-08-09": 90048,
-  "2023-08-10": 90048,
-  "2023-08-11": 90048,
-  "2023-08-12": 90048,
-  "2023-08-13": 90048,
-  "2023-08-14": 90048,
-  "2023-08-15": 90048,
-  "2023-08-16": 90048,
-  "2023-08-17": 90048,
-  "2023-08-18": 90048,
-  "2023-08-19": 90048,
-  "2023-08-20": 90048,
-  "2023-08-21": 90048,
-  "2023-08-22": 90048,
-  "2023-08-23": 90048,
-  "2023-08-24": 90048,
-  "2023-08-25": 90048,
-  "2023-08-26": 90048,
-  "2023-08-27": 90048,
-  "2023-08-28": 90048,
-  "2023-08-29": 90048,
-  "2023-08-30": 90048,
-  "2023-08-31": 90048,
-  "2023-09-01": 90048,
-  "2023-09-02": 90048,
-  "2023-09-03": 90048,
-  "2023-09-04": 90048,
-  "2023-09-05": 90048,
-  "2023-09-06": 90048,
-  "2023-09-07": 90048,
-  "2023-09-08": 90048,
-  "2023-09-09": 90048,
-  "2023-09-10": 90048,
-  "2023-09-11": 90048,
-  "2023-09-12": 90048,
-  "2023-09-13": 90048,
-  "2023-09-14": 90048,
-  "2023-09-15": 90048,
-  "2023-09-16": 90048,
-  "2023-09-17": 90048,
-  "2023-09-18": 90048,
-  "2023-09-19": 90048,
-  "2023-09-20": 90048,
-  "2023-09-21": 90048,
-  "2023-09-22": 90048,
-  "2023-09-23": 90048,
-  "2023-09-24": 90048,
-  "2023-09-25": 90048,
-  "2023-09-26": 90048,
-  "2023-09-27": 90048,
-  "2023-09-28": 90048,
-  "2023-09-29": 90048,
-  "2023-09-30": 90048,
-  "2023-10-01": 90048,
-  "2023-10-02": 90048,
-  "2023-10-03": 90048,
-  "2023-10-04": 90048,
-  "2023-10-05": 90048,
-  "2023-10-06": 90048,
-  "2023-10-07": 90048,
-  "2023-10-08": 90048,
-  "2023-10-09": 90048,
-  "2023-10-10": 90048,
-  "2023-10-11": 90048,
-  "2023-10-12": 90048,
-  "2023-10-13": 90048,
-  "2023-10-14": 90048,
-  "2023-10-15": 90048,
-  "2023-10-16": 90048,
-  "2023-10-17": 90048,
-  "2023-10-18": 90048,
-  "2023-10-19": 90048,
-  "2023-10-20": 90048,
-  "2023-10-21": 90048,
-  "2023-10-22": 90048,
-  "2023-10-23": 90048,
-  "2023-10-24": 90048,
-  "2023-10-25": 90048,
-  "2023-10-26": 90048,
-  "2023-10-27": 90048,
-  "2023-10-28": 90048,
-  "2023-10-29": 90048,
-  "2023-10-30": 90048,
-  "2023-10-31": 90048,
-  "2023-11-01": 90048,
-  "2023-11-02": 90048,
-  "2023-11-03": 90048,
-  "2023-11-04": 90048,
-  "2023-11-05": 90048,
-  "2023-11-06": 90048,
-  "2023-11-07": 90048,
-  "2023-11-08": 90048,
-  "2023-11-09": 90048,
-  "2023-11-10": 90048,
-  "2023-11-11": 90048,
-  "2023-11-12": 90048,
-  "2023-11-13": 90048,
-  "2023-11-14": 90048,
-  "2023-11-15": 90048,
-  "2023-11-16": 90048,
-  "2023-11-17": 90048,
-  "2023-11-18": 90048,
-  "2023-11-19": 90048,
-  "2023-11-20": 90048,
-  "2023-11-21": 90048,
-  "2023-11-22": 90048,
-  "2023-11-23": 90048,
-  "2023-11-24": 90048,
-  "2023-11-25": 90048,
-  "2023-11-26": 90048,
-  "2023-11-27": 90048,
-  "2023-11-28": 90048,
-  "2023-11-29": 90048,
-  "2023-11-30": 90048,
-  "2023-12-01": 90048,
-  "2023-12-02": 90048,
-  "2023-12-03": 90048,
-  "2023-12-04": 90048,
-  "2023-12-05": 90048,
-  "2023-12-06": 90048,
-  "2023-12-07": 90048,
-  "2023-12-08": 90048,
-  "2023-12-09": 90048,
-  "2023-12-10": 90048,
-  "2023-12-11": 90048,
-  "2023-12-12": 90048,
-  "2023-12-13": 90048,
-  "2023-12-14": 90048,
-  "2023-12-15": 90048,
-  "2023-12-16": 90048,
-  "2023-12-17": 90048,
-  "2023-12-18": 90048,
-  "2023-12-19": 90048,
-  "2023-12-20": 90048,
-  "2023-12-21": 90048,
-  "2023-12-22": 90048,
-  "2023-12-23": 90048,
-  "2023-12-24": 90048,
-  "2023-12-25": 90048,
-  "2023-12-26": 90048,
-  "2023-12-27": 90048,
-  "2023-12-30": 90048,
-  "2023-12-31": 90048,
-  "2024-01-01": 90048,
-  "2024-01-02": 90048,
-  "2024-01-03": 90048
+  "2024-01-17": 90048,
+  "date_first_scraped": "2022-05-30",
+  "description": "Listen Korean indie queen BOL4's melting voice.",
+  "name": "This Is BOL4",
+  "tracks": [
+    {
+      "album": {
+        "name": "#First Love",
+        "url": "https://open.spotify.com/album/2Z85RK8Y8dK5VyyuXI7Jv9"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207491,
+      "name": "#First Love",
+      "url": "https://open.spotify.com/track/4tKN17Kw29gzlnZwMaAtZN"
+    },
+    {
+      "album": {
+        "name": "#First Love",
+        "url": "https://open.spotify.com/album/2sByiRAF7IAKVMF1TFlf5N"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207491,
+      "name": "#First Love",
+      "url": "https://open.spotify.com/track/75FNxI7FQWjLHNuVTuLIoq"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/5HXNArWUgb2KuPI6TH47cV"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "25",
+      "url": "https://open.spotify.com/track/2YvTKD1YK9Le0ZH9k0M3vP"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196080,
+      "name": "25",
+      "url": "https://open.spotify.com/track/4ap4V1LYFyBQDxHKQSavKq"
+    },
+    {
+      "album": {
+        "name": "Red Diary 'Hidden Track'",
+        "url": "https://open.spotify.com/album/56nlXCBPnmLfRbGphQuQkZ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165591,
+      "name": "6 o'clock",
+      "url": "https://open.spotify.com/track/0B2Wd0Wm6MUrQWJUhklTko"
+    },
+    {
+      "album": {
+        "name": "Red Diary 'Hidden Track'",
+        "url": "https://open.spotify.com/album/2oSC6E6Rf64fnm5qz3ZApB"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 165591,
+      "name": "6 o'clock",
+      "url": "https://open.spotify.com/track/7C7KpoaATVxv9FN79oatJ2"
+    },
+    {
+      "album": {
+        "name": "Our Beloved BoA #2 - SM STATION",
+        "url": "https://open.spotify.com/album/3UQxkD9aJu22ihimovD0qs"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211293,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/3NFXgRyGUH3j0dQ9PB4rWC"
+    },
+    {
+      "album": {
+        "name": "Shofar Music Compilation Vol.3 'Awkward'",
+        "url": "https://open.spotify.com/album/27MtP62luHa7EebaHV62ZS"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
+        },
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        },
+        {
+          "name": "Letter flow",
+          "url": "https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY"
+        },
+        {
+          "name": "Kim Ji Soo",
+          "url": "https://open.spotify.com/artist/5se8HfkMw6SGJEqC5BhEZV"
+        },
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        },
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        },
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/0PK1wA6tUt604p5foKSxL8"
+    },
+    {
+      "album": {
+        "name": "Shofar Music Compilation Vol.3 'Awkward'",
+        "url": "https://open.spotify.com/album/0o1G4mTK6d4SLt7aAY1qI1"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
+        },
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        },
+        {
+          "name": "Letter flow",
+          "url": "https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY"
+        },
+        {
+          "name": "Kim Ji Soo",
+          "url": "https://open.spotify.com/artist/5se8HfkMw6SGJEqC5BhEZV"
+        },
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        },
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        },
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191226,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/7pSZ5BoMd3sJT69cJwmNF1"
+    },
+    {
+      "album": {
+        "name": "Be Your Christmas",
+        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158226,
+      "name": "Be Your Christmas (feat. BOL4)",
+      "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
+    },
+    {
+      "album": {
+        "name": "Be Your Christmas",
+        "url": "https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158226,
+      "name": "Be Your Christmas (feat. BOL4)",
+      "url": "https://open.spotify.com/track/4zoiPeH0WyFLqStxsHtUHT"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183866,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/65ZKz9PJvsCibepaWe0btg"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/7CxGgqby0nFES5t8O5oJZt"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2oAktpQukxopxpFMbmG6JZ"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186213,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4rmCUodFiPbIIV9Vdof42A"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5EvQiidu2thxkBnZgvFKWx"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188139,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3Rpg8NT8XK0H5KMrYUmKvW"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/0jnUqXkSxqe8hLkPVfzIjz"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
+    },
+    {
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206349,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/7aWZ76OniT1DUi5L9gjRkY"
+    },
+    {
+      "album": {
+        "name": "Love.zip",
+        "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "HWANG MIN HYUN",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "Chase Love Hard (Feat. HWANG MIN HYUN)",
+      "url": "https://open.spotify.com/track/550CzT8fS8lxeyhXbJpm0F"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190279,
+      "name": "Chocolate Drive \ucd08\ucf5c\ub9bf",
+      "url": "https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190279,
+      "name": "Chocolate Drive \ucd08\ucf5c\ub9bf",
+      "url": "https://open.spotify.com/track/61WC79CvmOyqAWQA9OIhUu"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/0LqZ9ELhMDdIkpXvSqaLAp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234491,
+      "name": "Clip",
+      "url": "https://open.spotify.com/track/27WdrOLyrj1WctUYo78bh9"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/34SNI9SBQ8i8Uou4nf1YEW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234491,
+      "name": "Clip",
+      "url": "https://open.spotify.com/track/6YF6vzUiw3p3vnIj98dL8o"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205013,
+      "name": "Counseling",
+      "url": "https://open.spotify.com/track/1sFprdCRHX19ySK8Tmuf2c"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205013,
+      "name": "Counseling",
+      "url": "https://open.spotify.com/track/48zQoenU3LsNuwpY5DgXms"
+    },
+    {
+      "album": {
+        "name": "Filmlet",
+        "url": "https://open.spotify.com/album/4NxQycfCkfErlbw8mRY84G"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195080,
+      "name": "Dancing Cartoon",
+      "url": "https://open.spotify.com/track/1EZuQ5eAlxfdxRNrs8lox2"
+    },
+    {
+      "album": {
+        "name": "Filmlet",
+        "url": "https://open.spotify.com/album/36SIrWw7A1HED7riUn7vRa"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Dancing Cartoon",
+      "url": "https://open.spotify.com/track/7MkTtPEaCz9vYpXYtNbkcm"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/1jRyudbgX1kfVFaiO1uSvx"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243106,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/20ffMyUD9MU8xxlBCjshYJ"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192693,
+      "name": "Day off",
+      "url": "https://open.spotify.com/track/0gkV5S3xfKrfZwINYlT2CS"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/5HXNArWUgb2KuPI6TH47cV"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192693,
+      "name": "Day off",
+      "url": "https://open.spotify.com/track/5r0y0mqAkqEF1o15T3RPkB"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/34SNI9SBQ8i8Uou4nf1YEW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202381,
+      "name": "Dear. Teddy bear",
+      "url": "https://open.spotify.com/track/3rk0TwzQZjVcwdTJ4qlWat"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/0LqZ9ELhMDdIkpXvSqaLAp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202381,
+      "name": "Dear. Teddy bear",
+      "url": "https://open.spotify.com/track/6gbevNHLx32uK2PrKGivKw"
+    },
+    {
+      "album": {
+        "name": "Red Diary 'Hidden Track'",
+        "url": "https://open.spotify.com/album/2oSC6E6Rf64fnm5qz3ZApB"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181160,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/2rqJ2nKLVYaz0PlCz57NT4"
+    },
+    {
+      "album": {
+        "name": "Red Diary 'Hidden Track'",
+        "url": "https://open.spotify.com/album/56nlXCBPnmLfRbGphQuQkZ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/6Zup8TgLyDu7JiubqBLNgW"
+    },
+    {
+      "album": {
+        "name": "HWARANG, Pt. 3 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/2uzTJ23RCNhKiBdJ3jgs1V"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265840,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4mIZYWjjTpby53zIQ9FpIr"
+    },
+    {
+      "album": {
+        "name": "HWARANG (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/0DbUqmdD39ndx8EUlhhSUx"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265840,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/5XeIwW6rhNgm19rIm8d52H"
+    },
+    {
+      "album": {
+        "name": "farewell restaurant",
+        "url": "https://open.spotify.com/album/4RNkTXzhcpl5EGXLuRaQft"
+      },
+      "artists": [
+        {
+          "name": "Sosimboys",
+          "url": "https://open.spotify.com/artist/55F1ue35sl2l2kcpNSsQFl"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274910,
+      "name": "farewell restaurant",
+      "url": "https://open.spotify.com/track/1nrBJmYFyWTMdUcevAKpND"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189188,
+      "name": "Fight Day \uc2f8\uc6b4\ub0a0",
+      "url": "https://open.spotify.com/track/0Ic42O3IwCT2ywuPyadFzl"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189188,
+      "name": "Fight Day \uc2f8\uc6b4\ub0a0",
+      "url": "https://open.spotify.com/track/6vf5x16iT8hCzBvIQy3tDf"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186173,
+      "name": "Fix me",
+      "url": "https://open.spotify.com/track/6bSkF997fC5HQz6BuEZkXV"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186173,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/6f4CxfbXGtD1a4VPHEpN48"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186049,
+      "name": "Freesia \ud504\ub9ac\uc9c0\uc544",
+      "url": "https://open.spotify.com/track/0KX2V65DSgo9ii3A0rJAPw"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186049,
+      "name": "Freesia \ud504\ub9ac\uc9c0\uc544",
+      "url": "https://open.spotify.com/track/7dvuTUHJOScFrTKycUrAHO"
+    },
+    {
+      "album": {
+        "name": "Love.zip",
+        "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "FRIEND THE END",
+      "url": "https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb"
+    },
+    {
+      "album": {
+        "name": "The Emperor: Owner of the Mask (MBC Drama) OST Part.2",
+        "url": "https://open.spotify.com/album/2fG57s6vQIw6PkGsOahggY"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204123,
+      "name": "From the beginning You and I",
+      "url": "https://open.spotify.com/track/2t1WqERs4wHZ1NfEfetbSr"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET [Hidden Track] - \uc88b\ub2e4\uace0 \ub9d0\ud574",
+        "url": "https://open.spotify.com/album/2ABYJQMZhfstNvrieI2mG2"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201772,
+      "name": "Full Album RED PLANET [Hidden Track] - \uc88b\ub2e4\uace0 \ub9d0\ud574",
+      "url": "https://open.spotify.com/track/2mg7JShA6HPvWPvQQ70FDI"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET [Hidden Track] - \uc88b\ub2e4\uace0 \ub9d0\ud574",
+        "url": "https://open.spotify.com/album/7HmRBmSOe6e6dSY1js88Yi"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201772,
+      "name": "Full Album RED PLANET [Hidden Track] - \uc88b\ub2e4\uace0 \ub9d0\ud574",
+      "url": "https://open.spotify.com/track/5xuVcWfj8QTeRLRSKyQOyi"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Galaxy \uc6b0\uc8fc\ub97c \uc904\uac8c",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213853,
+      "name": "Galaxy \uc6b0\uc8fc\ub97c \uc904\uac8c",
+      "url": "https://open.spotify.com/track/6T3Mlx5fr71sm0u1YDAb4R"
+    },
+    {
+      "album": {
+        "name": "Love.zip",
+        "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96533,
+      "name": "Good night",
+      "url": "https://open.spotify.com/track/61Kv5xwk7bVgn7ysnkpuZw"
+    },
+    {
+      "album": {
+        "name": "Shofar Music Compilation Vol.3 'Awkward'",
+        "url": "https://open.spotify.com/album/27MtP62luHa7EebaHV62ZS"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
+        },
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        },
+        {
+          "name": "Letter flow",
+          "url": "https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY"
+        },
+        {
+          "name": "Kim Ji Soo",
+          "url": "https://open.spotify.com/artist/5se8HfkMw6SGJEqC5BhEZV"
+        },
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        },
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        },
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235146,
+      "name": "Happiness is all around",
+      "url": "https://open.spotify.com/track/0VdDKKj4ioLlRGeZeu4vYF"
+    },
+    {
+      "album": {
+        "name": "Shofar Music Compilation Vol.3 'Awkward'",
+        "url": "https://open.spotify.com/album/0o1G4mTK6d4SLt7aAY1qI1"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
+        },
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        },
+        {
+          "name": "Letter flow",
+          "url": "https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY"
+        },
+        {
+          "name": "Kim Ji Soo",
+          "url": "https://open.spotify.com/artist/5se8HfkMw6SGJEqC5BhEZV"
+        },
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        },
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        },
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235146,
+      "name": "Happiness is all around",
+      "url": "https://open.spotify.com/track/58S25QNR1aexfQK7jE0Ld4"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219481,
+      "name": "Hard To Love \ub098\ub9cc \uc548\ub418\ub294 \uc5f0\uc560",
+      "url": "https://open.spotify.com/track/2uaC8QIz0OocPl8bFcNFt0"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219481,
+      "name": "Hard To Love \ub098\ub9cc \uc548\ub418\ub294 \uc5f0\uc560",
+      "url": "https://open.spotify.com/track/4J5FI3nckt6wiZhTl9RM8N"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186120,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
+    },
+    {
+      "album": {
+        "name": "Hurry up (Feat. BOL4)",
+        "url": "https://open.spotify.com/album/78Dp1G0UfsysuBvCPf13b9"
+      },
+      "artists": [
+        {
+          "name": "SOHEE",
+          "url": "https://open.spotify.com/artist/3mYdRRihv7Oj0g4a7viHOX"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180778,
+      "name": "Hurry up (Feat. BOL4)",
+      "url": "https://open.spotify.com/track/5aSwxmO434mSCwIyp9WA8A"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175160,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175160,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/7IowzY0ZVbZ9PIrxBPjn92"
+    },
+    {
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "In the mirror",
+      "url": "https://open.spotify.com/track/7n5jmLC8G2Lt2wOb0PST8x"
+    },
+    {
+      "album": {
+        "name": "Leo (feat. BAEKHYUN)",
+        "url": "https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187986,
+      "name": "Leo (feat. BAEKHYUN)",
+      "url": "https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Leo (feat. BAEKHYUN)",
+      "url": "https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/0LqZ9ELhMDdIkpXvSqaLAp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217342,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4nKUOjjEeLsxbAxTYrwYOA"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/34SNI9SBQ8i8Uou4nf1YEW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217342,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5uJqmdgy5LeKrn7wTQueba"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5EvQiidu2thxkBnZgvFKWx"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187479,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0yhv9Z4ju5Wf6lgPpv1VaE"
+    },
+    {
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Love story",
+      "url": "https://open.spotify.com/track/6uEWYpv8HNAdbwHlqemG1F"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157749,
+      "name": "Mean \uc2ec\uc220",
+      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157749,
+      "name": "Mean \uc2ec\uc220",
+      "url": "https://open.spotify.com/track/4aEcNpsL9I0GLnD34onI6k"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296476,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/0fkLAVPtJP4f3fPF3PM2Ph"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 296476,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/35Hag1i7PY2FFTvflTUUr8"
+    },
+    {
+      "album": {
+        "name": "mohae",
+        "url": "https://open.spotify.com/album/4f4mtQGur9SM3pzSpRcFha"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203711,
+      "name": "mohae (feat. Bolbbalgan4)",
+      "url": "https://open.spotify.com/track/2kU8jORpeu3xCWAFYvLiPu"
+    },
+    {
+      "album": {
+        "name": "My Trouble",
+        "url": "https://open.spotify.com/album/6ZTQpZMX8i1RMzq2S27OuY"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197479,
+      "name": "My Trouble",
+      "url": "https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP"
+    },
+    {
+      "album": {
+        "name": "My Trouble",
+        "url": "https://open.spotify.com/album/0JhZBXWSzG0lDa36uQdsJo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197479,
+      "name": "My Trouble",
+      "url": "https://open.spotify.com/track/2EuMHx3gZTHwzytnfeINEq"
+    },
+    {
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/2MfsWGoFyWQF4jUV5XtrQm"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259265,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0xBeTQvH1Dam05yymDoAv2"
+    },
+    {
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/4aBTnVXPMVeD7jrSAENlSb"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259266,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/538iD010hO1udTC76GIhZN"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Picnic",
+      "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184680,
+      "name": "Picnic",
+      "url": "https://open.spotify.com/track/6Ujcy9lBpqQSmcZ2UtZzoy"
+    },
+    {
+      "album": {
+        "name": "Filmlet",
+        "url": "https://open.spotify.com/album/4NxQycfCkfErlbw8mRY84G"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193866,
+      "name": "Red Lipstick",
+      "url": "https://open.spotify.com/track/0XfYoIa5jOH2dF0ro7VbZv"
+    },
+    {
+      "album": {
+        "name": "Filmlet",
+        "url": "https://open.spotify.com/album/36SIrWw7A1HED7riUn7vRa"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "Red Lipstick",
+      "url": "https://open.spotify.com/track/2LZPFUmuIg6VC4JLxetOMc"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178526,
+      "name": "Ring \ubc18\uc9c0",
+      "url": "https://open.spotify.com/track/4VS1U0ePHyYpZeXn02M95t"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178526,
+      "name": "Ring \ubc18\uc9c0",
+      "url": "https://open.spotify.com/track/5qKuV1rDK7TOpKUvT08NUO"
+    },
+    {
+      "album": {
+        "name": "Romantic Wish",
+        "url": "https://open.spotify.com/album/1nafWf8KFi9sgPznYnFyFZ"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
+        },
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "Kim Sarang",
+          "url": "https://open.spotify.com/artist/1FWcrRkd61OaAIGKKAomrE"
+        },
+        {
+          "name": "Kim Ji Soo",
+          "url": "https://open.spotify.com/artist/5se8HfkMw6SGJEqC5BhEZV"
+        },
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        },
+        {
+          "name": "Letter flow",
+          "url": "https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254845,
+      "name": "Romantic Wish",
+      "url": "https://open.spotify.com/track/369MWNN5go9hEcxq7b2Llv"
+    },
+    {
+      "album": {
+        "name": "Romantic Wish",
+        "url": "https://open.spotify.com/album/0YfX28vI3XK1fTm6VFbSnA"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
+        },
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "Kim Sarang",
+          "url": "https://open.spotify.com/artist/1FWcrRkd61OaAIGKKAomrE"
+        },
+        {
+          "name": "Kim Ji Soo",
+          "url": "https://open.spotify.com/artist/5se8HfkMw6SGJEqC5BhEZV"
+        },
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        },
+        {
+          "name": "Letter flow",
+          "url": "https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254845,
+      "name": "Romantic Wish",
+      "url": "https://open.spotify.com/track/4iqzp2gZDfyydxeCuT72O6"
+    },
+    {
+      "album": {
+        "name": "Love.zip",
+        "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2x7M66PRarclPFFFdrBZtM"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214047,
+      "name": "Seattle Alone",
+      "url": "https://open.spotify.com/track/4Z1pWcSlg5HiwOzAHuN6RW"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214047,
+      "name": "Seattle Alone",
+      "url": "https://open.spotify.com/track/5aAhH8r9fuV2zm8SU50WkK"
+    },
+    {
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181373,
+      "name": "Some",
+      "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181373,
+      "name": "Some",
+      "url": "https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l"
+    },
+    {
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+    },
+    {
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207986,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5apKI7Cwh4wJhefjCnf7rt"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/34SNI9SBQ8i8Uou4nf1YEW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208889,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0DUnovCtsAb0G7sd43VuME"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/0LqZ9ELhMDdIkpXvSqaLAp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208889,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/7wVroNJzOAGgA7DwljC82b"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/4pR0eatWzDISWS8LHv5dzZ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200525,
+      "name": "Stars over me",
+      "url": "https://open.spotify.com/track/317rmVXSLB2kp1uxSMGVMi"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200525,
+      "name": "Stars over me",
+      "url": "https://open.spotify.com/track/6DUm0mHHRdQSaVMYYstk5x"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3060\u3051\u3001\u6625",
+        "url": "https://open.spotify.com/album/28M9D7jC927PJdl0eoOEnJ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "Stars over me",
+      "url": "https://open.spotify.com/track/7e0ped11lt3lOukL7c9y0z"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/5HXNArWUgb2KuPI6TH47cV"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/6gBNZQfj0j63TTsBSUxwjk"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185680,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/7m4i9WUvXhdF28TW38qLNq"
+    },
+    {
+      "album": {
+        "name": "Misaeng (Incomplete Life) (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3q9p1oHZd4xHFjiywBFMul"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262826,
+      "name": "The Covered Up Road",
+      "url": "https://open.spotify.com/track/0x436O5QnGWT1Gobmf4Cf3"
+    },
+    {
+      "album": {
+        "name": "Misaeng (Incomplete Life) (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7eMZnp58RQfFpLXtKbu6lI"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262826,
+      "name": "The Covered Up Road",
+      "url": "https://open.spotify.com/track/6rRGziCKizhmbfzPvdJjSy"
+    },
+    {
+      "album": {
+        "name": "Misaeng (Incomplete Life) (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7eMZnp58RQfFpLXtKbu6lI"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262640,
+      "name": "The Covered Up Road - Band Version",
+      "url": "https://open.spotify.com/track/1e1nTy3pVVOff72IWAxtiR"
+    },
+    {
+      "album": {
+        "name": "Misaeng (Incomplete Life) (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3q9p1oHZd4xHFjiywBFMul"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262640,
+      "name": "The Covered Up Road - Band Version",
+      "url": "https://open.spotify.com/track/7Ap2azyEjeRTBmHZ0KayYn"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222680,
+      "name": "To My Youth",
+      "url": "https://open.spotify.com/track/3MkYUoEo1Yk1peHN4cof0c"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222680,
+      "name": "To My Youth",
+      "url": "https://open.spotify.com/track/4gMPlHHAjOQnUrhsuqHivn"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/0LqZ9ELhMDdIkpXvSqaLAp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220980,
+      "name": "Travel",
+      "url": "https://open.spotify.com/track/2gat9tFMWBID4SmoPmQrFQ"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/34SNI9SBQ8i8Uou4nf1YEW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220980,
+      "name": "Travel",
+      "url": "https://open.spotify.com/track/4dMGKGfaWMZNLQEjkd8lme"
+    },
+    {
+      "album": {
+        "name": "We Loved",
+        "url": "https://open.spotify.com/album/0AKipWsFlP8QWND7BdwAor"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194627,
+      "name": "We Loved",
+      "url": "https://open.spotify.com/track/2aFIBOe4hOqh78bzjuORQV"
+    },
+    {
+      "album": {
+        "name": "We loved",
+        "url": "https://open.spotify.com/album/5F4GcQ5NIJB3iZ6SvvXtzd"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194627,
+      "name": "We loved",
+      "url": "https://open.spotify.com/track/2pSTlAho8T5oJ3GjrOvfZn"
+    },
+    {
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "What make us beautiful",
+      "url": "https://open.spotify.com/track/0FuDAmNLFEEO3eev0SBFTV"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230525,
+      "name": "When I Fall In Love \uc0ac\ub791\uc5d0 \ube60\uc84c\uc744 \ub54c",
+      "url": "https://open.spotify.com/track/1sqd3qplkbxnIx3KDCnTHR"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230525,
+      "name": "When I Fall In Love \uc0ac\ub791\uc5d0 \ube60\uc84c\uc744 \ub54c",
+      "url": "https://open.spotify.com/track/6NI5NpMwuf3Og5F6cIwVGd"
+    },
+    {
+      "album": {
+        "name": "Love.zip",
+        "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "When love becomes goodbye",
+      "url": "https://open.spotify.com/track/0WbYEnZ813b1F6ZHOJzZJ4"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/0LqZ9ELhMDdIkpXvSqaLAp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216791,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/0LQBbwnV80PYmPYLSutB8U"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/34SNI9SBQ8i8Uou4nf1YEW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216791,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/2yTX3FbCs19YsyteRyqmet"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191080,
+      "name": "Workaholic",
+      "url": "https://open.spotify.com/track/2WVpI9Og8Z7p8CGQK9CNX3"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/5HXNArWUgb2KuPI6TH47cV"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191080,
+      "name": "Workaholic",
+      "url": "https://open.spotify.com/track/4UYG6t46aWiMKrjnIcp19L"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226901,
+      "name": "X Song",
+      "url": "https://open.spotify.com/track/1cF8lhK9rFPgAxQIMbpvzo"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226901,
+      "name": "X Song",
+      "url": "https://open.spotify.com/track/48eUhWGojwo0FCUApjh5IM"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/5HXNArWUgb2KuPI6TH47cV"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "XX",
+      "url": "https://open.spotify.com/track/5g9p6nj9Ao2ijZEj8SruL5"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194800,
+      "name": "XX",
+      "url": "https://open.spotify.com/track/7ffi3nWxgyGiQW84Jghlhe"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/0UJsvx1tZnZRmcpzaG3wRH"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 95293,
+      "name": "XX (Acoustic Ver.)",
+      "url": "https://open.spotify.com/track/1rZFCFmM8CiN6Y0JsPgPXS"
+    },
+    {
+      "album": {
+        "name": "Two Five",
+        "url": "https://open.spotify.com/album/5HXNArWUgb2KuPI6TH47cV"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95293,
+      "name": "XX - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/0FxYBxTxzA2JPY7mScZOHl"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/2xvcemzzyUJOIXd9J2TbCo"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169477,
+      "name": "You(=I)",
+      "url": "https://open.spotify.com/track/2HaQSeci7UD6dkHWeIk7CV"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169477,
+      "name": "You(=I)",
+      "url": "https://open.spotify.com/track/6IBPrw5nYj84x8JpiOvXUp"
+    },
+    {
+      "album": {
+        "name": "RED PLANET (JAPAN EDITION)",
+        "url": "https://open.spotify.com/album/3H2mYPNMNlxP0526fFQdLU"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "\u5b87\u5b99\u3092\u3042\u3052\u308b",
+      "url": "https://open.spotify.com/track/6yyitDguIfosrN4cY3hVkn"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3060\u3051\u3001\u6625",
+        "url": "https://open.spotify.com/album/28M9D7jC927PJdl0eoOEnJ"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222480,
+      "name": "\u79c1\u3060\u3051\u3001\u6625",
+      "url": "https://open.spotify.com/track/5IUIJEiCbM8vveqOJ83aDH"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/32bYHeLBEGkEwdEHuv1IWp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223565,
+      "name": "\uac00\ub054\uc529 (\uc6b0\uc9c0\uc724\uc758 \ubcf4\uceec \uc2a4\ud2f8)",
+      "url": "https://open.spotify.com/track/0vxff4hUpCAU9O21MH33Ay"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/4agalTrdDSEjMB99voEDeP"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223565,
+      "name": "\uac00\ub054\uc529 (\uc6b0\uc9c0\uc724\uc758 \ubcf4\uceec \uc2a4\ud2f8)",
+      "url": "https://open.spotify.com/track/2jt96rnFVryY7VVOEKEraU"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/32bYHeLBEGkEwdEHuv1IWp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177647,
+      "name": "\ubc18\uc9c0",
+      "url": "https://open.spotify.com/track/03pealtiHje713zwrX2rDC"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/4agalTrdDSEjMB99voEDeP"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177647,
+      "name": "\ubc18\uc9c0",
+      "url": "https://open.spotify.com/track/0LeTvYYHY4uPGCPNU9A4Xx"
+    },
+    {
+      "album": {
+        "name": "\uc0c1\ub0a8\uc790\uc758 \uace0\ubc31",
+        "url": "https://open.spotify.com/album/5b1S83W59sPOZvmMByMLdg"
+      },
+      "artists": [
+        {
+          "name": "Kim Ji Soo",
+          "url": "https://open.spotify.com/artist/5se8HfkMw6SGJEqC5BhEZV"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "\uc0c1\ub0a8\uc790\uc758 \uace0\ubc31",
+      "url": "https://open.spotify.com/track/20AQxAUnugrQx9VrNw2fYu"
+    },
+    {
+      "album": {
+        "name": "\uc0c1\ub0a8\uc790\uc758 \uace0\ubc31",
+        "url": "https://open.spotify.com/album/4hysQRgky4HhVEcifOPKzT"
+      },
+      "artists": [
+        {
+          "name": "Kim Ji Soo",
+          "url": "https://open.spotify.com/artist/5se8HfkMw6SGJEqC5BhEZV"
+        },
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195000,
+      "name": "\uc0c1\ub0a8\uc790\uc758 \uace0\ubc31",
+      "url": "https://open.spotify.com/track/67MmfxanTj7kiwB4fhG87o"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/4agalTrdDSEjMB99voEDeP"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158461,
+      "name": "\uc2ec\uc220",
+      "url": "https://open.spotify.com/track/0xd12UCnFMjLnLlF5oSiWa"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/32bYHeLBEGkEwdEHuv1IWp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158461,
+      "name": "\uc2ec\uc220",
+      "url": "https://open.spotify.com/track/1oA76RZAamiCIxfOn3kBUj"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/32bYHeLBEGkEwdEHuv1IWp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189188,
+      "name": "\uc2f8\uc6b4\ub0a0",
+      "url": "https://open.spotify.com/track/5jWN9aN5p4A3AtTPBK2fmN"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/4agalTrdDSEjMB99voEDeP"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189188,
+      "name": "\uc2f8\uc6b4\ub0a0",
+      "url": "https://open.spotify.com/track/5vR8WjqhaWTzJ1OOjTlSPU"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/32bYHeLBEGkEwdEHuv1IWp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189714,
+      "name": "\ucd08\ucf5c\ub9bf",
+      "url": "https://open.spotify.com/track/1OVZTzxGzIeundQh9v52c0"
+    },
+    {
+      "album": {
+        "name": "Half Album RED ICKLE",
+        "url": "https://open.spotify.com/album/4agalTrdDSEjMB99voEDeP"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "\ucd08\ucf5c\ub9bf",
+      "url": "https://open.spotify.com/track/4sXijbVTrdhWb3BnYbVKSK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSwoxNySMdrh"
 }

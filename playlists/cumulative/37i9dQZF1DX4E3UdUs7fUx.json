@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
@@ -626,10 +626,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
+    },
+    {
+      "album": {
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
     },
     {
       "album": {
@@ -777,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "El B\u00faho",
+      "url": "https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW"
+    },
+    {
+      "album": {
         "name": "Colder Heavens EP",
         "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
       },
@@ -788,7 +824,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 231706,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv"
@@ -824,10 +860,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 195840,
       "name": "Eyes Wide Open - From \"North Star\"",
       "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open (From \"North Star\")",
+        "url": "https://open.spotify.com/album/0fouq8lLLJduDBkbsyh5UH"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Eyes Wide Open - From \"North Star\"",
+      "url": "https://open.spotify.com/track/4JfmeKq7mQtRaqMlFPxdMD"
     },
     {
       "album": {
@@ -1568,6 +1622,24 @@
       "duration_ms": 153533,
       "name": "Love Is Tall",
       "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
+    },
+    {
+      "album": {
+        "name": "Man Overboard",
+        "url": "https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z"
+      },
+      "artists": [
+        {
+          "name": "Ed Prosek",
+          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 176628,
+      "name": "Man Overboard",
+      "url": "https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W"
     },
     {
       "album": {
@@ -2318,7 +2390,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 146884,
       "name": "Saint Monica - Undone",
       "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
@@ -2690,7 +2762,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": "2024-01-09",
       "duration_ms": 210206,
       "name": "The Only Thing I Fear",
       "url": "https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK"

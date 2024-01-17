@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i?si=Tj2pMniQQDu3Zm2lEGp2NA">Bigbforever</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=Mi9JWXGuQSmsAbxFTgzyeg">Benjamen</a>
 
-119 songs - 6 hr 18 min
+120 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Dubbel of Niks](https://open.spotify.com/track/7fnEBmFyCoqJKtDyLBCd4s) | [RoYal King](https://open.spotify.com/artist/25ebsUtKejuWF9RW98C81q), [Wanie](https://open.spotify.com/artist/6Foq05rhSXH00XxLrvt6yn) | [Dubbel of Niks](https://open.spotify.com/album/4XpDHOUerLd2EokLmdAhO8) | 3:18 | 2023-07-20 | 2023-10-07 |
 | [Duidelik](https://open.spotify.com/track/0fzhyU8gk2lYMAzzyd2dg9) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Duidelik](https://open.spotify.com/album/7iZV2Pb6drsJNfwxwUgHDh) | 2:02 | 2023-07-13 |  |
 | [Dus Okay](https://open.spotify.com/track/2ySsXPwpuDV1SMyZ68JYUs) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [Jovie](https://open.spotify.com/artist/0vK7SrJ0Xm55soTAi4DE37), [EmGee](https://open.spotify.com/artist/7tztZahujREhfsctTM4czq) | [Dus Okay](https://open.spotify.com/album/4b47ILddnlUFGMyhSvvuZt) | 3:19 | 2023-12-08 |  |
-| [Ek Is Tussen](https://open.spotify.com/track/0XS9vnMfxqTuRDGeQroOKV) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [Ek Is Tussen](https://open.spotify.com/album/04XFXVW4dNH67A1AttIeo0) | 1:32 | 2023-03-30 |  |
+| [Ek Is Tussen](https://open.spotify.com/track/0XS9vnMfxqTuRDGeQroOKV) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [Ek Is Tussen](https://open.spotify.com/album/04XFXVW4dNH67A1AttIeo0) | 1:32 | 2023-03-30 | 2024-01-06 |
 | [Ek Is Tussen \- Remix](https://open.spotify.com/track/0WCKGTPqGTXl0wbaDHxY0t) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ), [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B) | [AFRIKAANS GENOEG?](https://open.spotify.com/album/1CHHHkhWAPapUTfpxRbXsi) | 2:34 | 2023-04-13 | 2023-04-21 |
 | [EK ISI UITIE](https://open.spotify.com/track/1ePwUxEbNEbHiYSgiFyydM) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [EK ISI UITIE](https://open.spotify.com/album/0CYLa1vPfWZYI9yk2FEsWR) | 3:25 | 2022-09-08 |  |
 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 | 2023-09-28 |  |
@@ -50,6 +50,7 @@
 | [Haartseer Naai](https://open.spotify.com/track/1o8sfR9JWRPgl2rwmiCaeR) | [King Burger](https://open.spotify.com/artist/1QOy8p4Pm8xxgw8EU4RjnP) | [Haartseer Naai](https://open.spotify.com/album/2Vap5cLVlsHvqI8ANAqmeg) | 3:06 | 2022-09-08 | 2022-12-02 |
 | [Happy Family](https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd), [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Happy Family](https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21) | 4:04 | 2022-09-22 | 2022-12-09 |
 | [Hi Mitchell](https://open.spotify.com/track/0W1f1HfOqPyBQ5VLoc9lgL) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Is Ekke Man](https://open.spotify.com/album/3JLW4br5PUjGqKJklfoHv7) | 1:59 | 2023-02-09 | 2023-03-25 |
+| [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 | 2024-01-05 |  |
 | [Hou Jou Leka](https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [Hou Jou Leka](https://open.spotify.com/album/4VSqBELCwNITeYYx2uPfx0) | 4:23 | 2022-09-08 | 2023-09-29 |
 | [Hou Jou Man Dop](https://open.spotify.com/track/77f9qpCn1u53KwSQYIO4zK) | [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam), [Irshaad Ally](https://open.spotify.com/artist/3oBGG9N0i0jS5rcvNZP80k), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Hou Jou Man Dop](https://open.spotify.com/album/1jFkerCNl3QQ2FtYNQx0qr) | 3:49 | 2022-09-08 | 2023-03-31 |
 | [Hou Vas](https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [Illrow](https://open.spotify.com/artist/7CsyTb53IWkpe2j43VIsg7) | [Hou Vas](https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU) | 3:06 | 2023-12-14 |  |
@@ -83,7 +84,7 @@
 | [Neus Breek](https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Die Evangelie Van Goeie Tye](https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13) | 3:21 | 2023-02-23 | 2023-07-28 |
 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 | 2023-10-27 |  |
 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 | 2023-01-27 |  |
-| [nog 'n bietjie](https://open.spotify.com/track/79PWs6HBChYuyQBZ6VF399) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [nog 'n bietjie](https://open.spotify.com/album/6ybeUMEKf4MNl6VPuafTRv) | 3:31 | 2023-03-02 |  |
+| [nog 'n bietjie](https://open.spotify.com/track/79PWs6HBChYuyQBZ6VF399) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [nog 'n bietjie](https://open.spotify.com/album/6ybeUMEKf4MNl6VPuafTRv) | 3:31 | 2023-03-02 | 2024-01-06 |
 | [okay, oraait](https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Ek Belowe, Demos \(pt\. 1\)](https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj) | 2:37 | 2022-09-08 | 2023-09-01 |
 | [Old MacDonald](https://open.spotify.com/track/6qZgQWFWFcT7GyQxZbVKNL) | [Rich Boy Clothing® Presents:](https://open.spotify.com/artist/76e3qSJLGlSyJUBjVMfCGZ), [21 Promo](https://open.spotify.com/artist/1tHFwKhC5RhKjvYn2SfvAw), [Pengii](https://open.spotify.com/artist/6MtwzM6nLQSPdeu9784WyQ) | [Old MacDonald](https://open.spotify.com/album/4tEzTuocvSXOmGHxuw0NND) | 2:24 | 2023-04-20 | 2023-05-06 |
 | [Ongerep](https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy) | [Jaak](https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm) | [Ongerep](https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5) | 3:32 | 2022-09-08 | 2022-11-18 |

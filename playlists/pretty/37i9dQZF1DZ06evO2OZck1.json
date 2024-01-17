@@ -1,15 +1,15 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 40270,
+  "num_followers": 40920,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTYsMDAwMDAwMDBjMTAyMGIzMGZkMWUwMGRhZTA2NzA1NjA5YzEyZTdlZA==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDAyZDdmNWQ4Yzk0NzIzMGU0MTNhZWI1MGU4OTk2Nzc5MA==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "Tokyo Calling",
         "url": "https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "WOO! GO!",
         "url": "https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX"
@@ -73,135 +73,7 @@
       "url": "https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "ICHIJIKIKOKU",
-        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Suki Lie",
-      "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "NAINAINAI",
-        "url": "https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 193877,
-      "name": "NAINAINAI",
-      "url": "https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/18upq1gGx7cAytSF7c7cld"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 165354,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/1F2rMyTiRvizxE45NXQfS6"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "MANINGEN",
-        "url": "https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 171566,
-      "name": "MANINGEN",
-      "url": "https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "ICHIJIKIKOKU",
-        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "Giri Giri",
-      "url": "https://open.spotify.com/track/0A1MywK95IyiQ8VhcP1VB9"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "HANAKO",
-        "url": "https://open.spotify.com/album/5d3BzQ6GQQqBa8y92I7hT5"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 221676,
-      "name": "HANAKO",
-      "url": "https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/18upq1gGx7cAytSF7c7cld"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Fantastico",
-      "url": "https://open.spotify.com/track/5Xgkhk8NnRDG47fnZiPRrX"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "Pineapple Kryptonite",
-        "url": "https://open.spotify.com/album/3KQ5M2NnAzJOKFoocKxBfq"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Pineapple Kryptonite",
-      "url": "https://open.spotify.com/track/3ZWvugfFBe9diBiS7oJTAm"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
@@ -217,7 +89,135 @@
       "url": "https://open.spotify.com/track/1dsB6klI4iqwcDcWzaI8zI"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "NAINAINAI",
+        "url": "https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 193877,
+      "name": "NAINAINAI",
+      "url": "https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/18upq1gGx7cAytSF7c7cld"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 165354,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/1F2rMyTiRvizxE45NXQfS6"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "MANINGEN",
+        "url": "https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 171566,
+      "name": "MANINGEN",
+      "url": "https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "Giri Giri",
+      "url": "https://open.spotify.com/track/0A1MywK95IyiQ8VhcP1VB9"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "HANAKO",
+        "url": "https://open.spotify.com/album/5d3BzQ6GQQqBa8y92I7hT5"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 221676,
+      "name": "HANAKO",
+      "url": "https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/18upq1gGx7cAytSF7c7cld"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Fantastico",
+      "url": "https://open.spotify.com/track/5Xgkhk8NnRDG47fnZiPRrX"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "Pineapple Kryptonite",
+        "url": "https://open.spotify.com/album/3KQ5M2NnAzJOKFoocKxBfq"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Pineapple Kryptonite",
+      "url": "https://open.spotify.com/track/3ZWvugfFBe9diBiS7oJTAm"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Suki Lie",
+      "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "Quesera sera",
         "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/31KJXQUrbyRqkNJxKHYQB0"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/7IdKSSqLyFsDCe5wKYe0aG"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
@@ -293,7 +293,23 @@
       "url": "https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "\u30de\u4eba\u9593",
+        "url": "https://open.spotify.com/album/2N4sRKgyRb8eKvFfIO5IQI"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 137136,
+      "name": "\u72d9\u3044\u3046\u3061 - 50th anniversary special cover",
+      "url": "https://open.spotify.com/track/11WB6KDgJNqrTRexgM7n2g"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
@@ -313,23 +329,7 @@
       "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "KOIBUMI",
         "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
@@ -361,7 +361,23 @@
       "url": "https://open.spotify.com/track/2EFaT09Ufx9xOKxt6nc5Q8"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i"
+    },
+    {
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
@@ -381,23 +397,7 @@
       "url": "https://open.spotify.com/track/58RpaRl4kdj9LAGA93ERcT"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "MANINGEN",
-        "url": "https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 137136,
-      "name": "Neraiuchi - 50th anniversary special cover",
-      "url": "https://open.spotify.com/track/2747l2vCNws9AxvFQzOBrh"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "SNACKTIME",
         "url": "https://open.spotify.com/album/18upq1gGx7cAytSF7c7cld"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/0iooR6wq8J6lJa32fNK40z"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/6JNvwvaHG3T2nuLRSI53Vr"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "SNACKTIME",
         "url": "https://open.spotify.com/album/18upq1gGx7cAytSF7c7cld"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/3JquBJkrgNWdapcHLwM0QM"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/25NLUXr2EgWnyWckSfMUzG"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/53LYWoukChENAf3hkdZS2X"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:30",
       "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"

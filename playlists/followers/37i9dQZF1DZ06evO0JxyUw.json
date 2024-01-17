@@ -1,159 +1,1295 @@
 {
-  "2023-07-29": 249256,
-  "2023-07-30": 249320,
-  "2023-07-31": 249365,
-  "2023-08-01": 249403,
-  "2023-08-02": 249453,
-  "2023-08-03": 249505,
-  "2023-08-04": 249538,
-  "2023-08-05": 249597,
-  "2023-08-06": 249700,
-  "2023-08-07": 249700,
-  "2023-08-08": 249741,
-  "2023-08-09": 249779,
-  "2023-08-10": 249833,
-  "2023-08-11": 249898,
-  "2023-08-12": 249959,
-  "2023-08-13": 249959,
-  "2023-08-14": 250040,
-  "2023-08-15": 250079,
-  "2023-08-16": 250079,
-  "2023-08-17": 250139,
-  "2023-08-18": 250139,
-  "2023-08-19": 250220,
-  "2023-08-20": 250272,
-  "2023-08-21": 250300,
-  "2023-08-22": 250341,
-  "2023-08-23": 250386,
-  "2023-08-24": 250419,
-  "2023-08-25": 250472,
-  "2023-08-26": 250533,
-  "2023-08-27": 250608,
-  "2023-08-28": 250639,
-  "2023-08-29": 250695,
-  "2023-08-30": 250695,
-  "2023-08-31": 250810,
-  "2023-09-01": 250933,
-  "2023-09-02": 250933,
-  "2023-09-03": 250984,
-  "2023-09-04": 250984,
-  "2023-09-05": 251061,
-  "2023-09-06": 251093,
-  "2023-09-07": 251093,
-  "2023-09-08": 251093,
-  "2023-09-09": 251093,
-  "2023-09-10": 251330,
-  "2023-09-11": 251378,
-  "2023-09-12": 251378,
-  "2023-09-13": 251477,
-  "2023-09-14": 251477,
-  "2023-09-15": 251477,
-  "2023-09-16": 251627,
-  "2023-09-17": 251627,
-  "2023-09-18": 251627,
-  "2023-09-19": 251766,
-  "2023-09-20": 251766,
-  "2023-09-21": 251766,
-  "2023-09-22": 251919,
-  "2023-09-23": 251919,
-  "2023-09-24": 251919,
-  "2023-09-25": 251919,
-  "2023-09-26": 252100,
-  "2023-09-27": 252100,
-  "2023-09-28": 252100,
-  "2023-09-29": 252100,
-  "2023-09-30": 252100,
-  "2023-10-01": 252100,
-  "2023-10-02": 252434,
-  "2023-10-03": 252434,
-  "2023-10-04": 252434,
-  "2023-10-05": 252565,
-  "2023-10-06": 252617,
-  "2023-10-07": 252617,
-  "2023-10-08": 252617,
-  "2023-10-09": 252617,
-  "2023-10-10": 252617,
-  "2023-10-11": 252758,
-  "2023-10-12": 252758,
-  "2023-10-13": 252758,
-  "2023-10-14": 252758,
-  "2023-10-15": 252758,
-  "2023-10-16": 252758,
-  "2023-10-17": 252758,
-  "2023-10-18": 252758,
-  "2023-10-19": 252758,
-  "2023-10-20": 252758,
-  "2023-10-21": 252758,
-  "2023-10-22": 252758,
-  "2023-10-23": 252758,
-  "2023-10-24": 252758,
-  "2023-10-25": 252758,
-  "2023-10-26": 252758,
-  "2023-10-27": 252758,
-  "2023-10-28": 252758,
-  "2023-10-29": 252758,
-  "2023-10-30": 252758,
-  "2023-10-31": 252758,
-  "2023-11-01": 252758,
-  "2023-11-02": 252758,
-  "2023-11-03": 252758,
-  "2023-11-04": 252758,
-  "2023-11-05": 252758,
-  "2023-11-06": 252758,
-  "2023-11-07": 252758,
-  "2023-11-08": 252758,
-  "2023-11-09": 252758,
-  "2023-11-10": 252758,
-  "2023-11-11": 254434,
-  "2023-11-12": 254434,
-  "2023-11-13": 254434,
-  "2023-11-14": 254434,
-  "2023-11-15": 254434,
-  "2023-11-16": 254434,
-  "2023-11-17": 254434,
-  "2023-11-18": 254434,
-  "2023-11-19": 254434,
-  "2023-11-20": 254434,
-  "2023-11-21": 254434,
-  "2023-11-22": 254434,
-  "2023-11-23": 254434,
-  "2023-11-24": 254434,
-  "2023-11-25": 254434,
-  "2023-11-26": 254434,
-  "2023-11-27": 254434,
-  "2023-11-28": 254434,
-  "2023-11-29": 254434,
-  "2023-11-30": 254434,
-  "2023-12-01": 254434,
-  "2023-12-02": 254434,
-  "2023-12-03": 254434,
-  "2023-12-04": 254434,
-  "2023-12-05": 254434,
-  "2023-12-06": 254434,
-  "2023-12-07": 254434,
-  "2023-12-08": 254434,
-  "2023-12-09": 254434,
-  "2023-12-10": 254434,
-  "2023-12-11": 254434,
-  "2023-12-12": 254434,
-  "2023-12-13": 254434,
-  "2023-12-14": 255924,
-  "2023-12-15": 255965,
-  "2023-12-16": 256008,
-  "2023-12-17": 256034,
-  "2023-12-18": 256075,
-  "2023-12-19": 256128,
-  "2023-12-20": 256189,
-  "2023-12-21": 256244,
-  "2023-12-22": 256295,
-  "2023-12-23": 256326,
-  "2023-12-24": 256365,
-  "2023-12-25": 256405,
-  "2023-12-26": 256438,
-  "2023-12-27": 256475,
-  "2023-12-30": 256612,
-  "2023-12-31": 256667,
-  "2024-01-01": 256702,
-  "2024-01-02": 256746,
-  "2024-01-03": 256768
+  "2024-01-17": 256908,
+  "date_first_scraped": "2023-07-29",
+  "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
+  "name": "This Is Christina Aguilera",
+  "tracks": [
+    {
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228906,
+      "name": "Ain't No Other Man",
+      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263826,
+      "name": "Bound To You - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR"
+    },
+    {
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149693,
+      "name": "But I Am A Good Girl - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255266,
+      "name": "Can't Hold Us Down (feat. Lil' Kim)",
+      "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
+    },
+    {
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194213,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Come on over Baby (All I Want Is You) - Radio Version",
+      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
+    },
+    {
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223493,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206542,
+      "name": "Cuando Me D\u00e9 la Gana",
+      "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298853,
+      "name": "Dirrty (feat. Redman)",
+      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
+    },
+    {
+      "album": {
+        "name": "Do What U Want",
+        "url": "https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216573,
+      "name": "Do What U Want",
+      "url": "https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo"
+    },
+    {
+      "album": {
+        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
+        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 163280,
+      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
+      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
+    },
+    {
+      "album": {
+        "name": "El Ultimo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
+        {
+          "name": "Jorge Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/5O2KyWcHYBmjmobgNLumcb"
+        },
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        },
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Emmanuele",
+          "url": "https://open.spotify.com/artist/7HBONupvCpvcMp1ZxK84Ii"
+        },
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        },
+        {
+          "name": "Alberto \"Beto\" Zapata",
+          "url": "https://open.spotify.com/artist/20VNXin5fi626FsmioiExE"
+        },
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
+        },
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Wilkins",
+          "url": "https://open.spotify.com/artist/5Awnuu794580X3uHQGx78O"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5gr23KYBk2FyIBx5xpHVjE"
+        },
+        {
+          "name": "Melina Leon",
+          "url": "https://open.spotify.com/artist/5oj50e6WeS3yFv92YDOfXA"
+        },
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
+      "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
+    },
+    {
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260040,
+      "name": "Express - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3e809RytbPZxM8BjbrjlqF"
+    },
+    {
+      "album": {
+        "name": "Fall In Line (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248544,
+      "name": "Fall In Line (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS"
+    },
+    {
+      "album": {
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 262820,
+      "name": "Fall On Me",
+      "url": "https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ"
+    },
+    {
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176960,
+      "name": "Falsas Esperanzas",
+      "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
+    },
+    {
+      "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "Feel This Moment (feat. Christina Aguilera)",
+      "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245960,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
+    },
+    {
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "Genio Atrapado",
+      "url": "https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ"
+    },
+    {
+      "album": {
+        "name": "Haunted Heart",
+        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
+    },
+    {
+      "album": {
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291106,
+      "name": "Hoy Tengo Ganas De Ti",
+      "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
+    },
+    {
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243373,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273706,
+      "name": "I Turn to You",
+      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257773,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 40175,
+      "name": "Intro (La Luz)",
+      "url": "https://open.spotify.com/track/3JizcqwxIkHLijphOhQHou"
+    },
+    {
+      "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253746,
+      "name": "Just A Fool",
+      "url": "https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D"
+    },
+    {
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
+    },
+    {
+      "album": {
+        "name": "Lady Marmalade",
+        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267960,
+      "name": "Lady Marmalade - Single Edit",
+      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "album": {
+        "name": "Learning To Fly",
+        "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176941,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
+    },
+    {
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166199,
+      "name": "Loyal Brave True",
+      "url": "https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h"
+    },
+    {
+      "album": {
+        "name": "Hands All Over (Revised International Standard version)",
+        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201493,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252706,
+      "name": "Nobody Wants to Be Lonely (with Christina Aguilera)",
+      "url": "https://open.spotify.com/track/45cVyfWuMAg8RNxmkcpmy9"
+    },
+    {
+      "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "Not Myself Tonight",
+      "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
+    },
+    {
+      "album": {
+        "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
+        "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216737,
+      "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
+      "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
+    },
+    {
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265733,
+      "name": "Pero Me Acuerdo de T\u00ed",
+      "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "XNDA",
+          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245293,
+      "name": "Pipe (feat. XNDA)",
+      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
+    },
+    {
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244933,
+      "name": "Por Siempre T\u00fa",
+      "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
+    },
+    {
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217996,
+      "name": "Reflection (2020)",
+      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
+    },
+    {
+      "album": {
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+    },
+    {
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193160,
+      "name": "Save Me from Myself",
+      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
+    },
+    {
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+    },
+    {
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 289200,
+      "name": "Si No Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/2tN1wKPCuQ6xO2sBTQDf1t"
+    },
+    {
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 181838,
+      "name": "Somos Nada",
+      "url": "https://open.spotify.com/track/0lbRmyhpAOybW1Qs7mpgcH"
+    },
+    {
+      "album": {
+        "name": "Amore (Remastered)",
+        "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/3Biuvi5NQdNpi2OiTgWNK4"
+    },
+    {
+      "album": {
+        "name": "Viva Duets",
+        "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122226,
+      "name": "Steppin' Out with My Baby (with Christina Aguilera)",
+      "url": "https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173922,
+      "name": "Su\u00e9ltame",
+      "url": "https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5"
+    },
+    {
+      "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 246146,
+      "name": "Tell Me (feat. Christina Aguilera)",
+      "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304013,
+      "name": "The Voice Within",
+      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
+    },
+    {
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120453,
+      "name": "Tough Lover - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd"
+    },
+    {
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190240,
+      "name": "Ven Conmigo (Solamente T\u00fa)",
+      "url": "https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "What a Girl Wants",
+      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
+    },
+    {
+      "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257252,
+      "name": "You Lost Me",
+      "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
+    },
+    {
+      "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239853,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JxyUw"
 }

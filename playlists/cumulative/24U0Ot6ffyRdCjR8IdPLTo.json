@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 213583,
       "name": "Bodybag",
       "url": "https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 132111,
       "name": "brainrot",
       "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 301480,
       "name": "Buddy's Rendezvous",
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 231560,
       "name": "burner phone",
       "url": "https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 180924,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC"
@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/4YTP4MQzeigSP2l9asDz0r"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129313,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/0GcLkedOfpccI5VpIHhWUx"
+    },
+    {
+      "album": {
         "name": "GHOST TOWN",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
@@ -1536,6 +1554,24 @@
       "duration_ms": 158594,
       "name": "Here's Your Perfect",
       "url": "https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P"
+    },
+    {
+      "album": {
+        "name": "The Good Witch (Deluxe)",
+        "url": "https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208280,
+      "name": "History Of Man",
+      "url": "https://open.spotify.com/track/3CwYjyptH0BfbSNPfA0ZyG"
     },
     {
       "album": {
@@ -2069,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -2377,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "NEVER AGAIN",
+        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145720,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
+    },
+    {
+      "album": {
         "name": "99 Nights",
         "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
@@ -2410,6 +2482,24 @@
       "duration_ms": 191000,
       "name": "Night Out",
       "url": "https://open.spotify.com/track/7rygtF1E2ztCZ9ESoWHh64"
+    },
+    {
+      "album": {
+        "name": "From The Valley",
+        "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215834,
+      "name": "No California",
+      "url": "https://open.spotify.com/track/2qWI9KeeGFSyshLALQ61MG"
     },
     {
       "album": {
@@ -2480,6 +2570,24 @@
     {
       "album": {
         "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
+    },
+    {
+      "album": {
+        "name": "Blondshell",
         "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
       },
       "artists": [
@@ -2490,7 +2598,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO"
@@ -2544,7 +2652,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 161137,
       "name": "Only In My Mind",
       "url": "https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw"
@@ -3028,6 +3136,24 @@
       "duration_ms": 166999,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/0pP0p7X4SXzdkjugDOPt4s"
+    },
+    {
+      "album": {
+        "name": "Slipping Through My Fingers",
+        "url": "https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263500,
+      "name": "Slipping Through My Fingers",
+      "url": "https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU"
     },
     {
       "album": {
@@ -3640,7 +3766,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 217620,
       "name": "There It Goes - Acoustic",
       "url": "https://open.spotify.com/track/0mRM8KuaZ62AKyNS00MRBn"
@@ -3922,6 +4048,24 @@
       "duration_ms": 137136,
       "name": "we were girls together",
       "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
+    },
+    {
+      "album": {
+        "name": "playpen",
+        "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151142,
+      "name": "we're all eating each other",
+      "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
     },
     {
       "album": {

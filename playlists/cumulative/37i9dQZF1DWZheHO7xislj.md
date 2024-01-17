@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-363 songs - 23 hr 28 min
+364 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Play Something Pretty](https://open.spotify.com/track/7E6jQdJaZAWUOgpxa0DZpr) | [George Jackson](https://open.spotify.com/artist/5PmB2ZWfKuqLb60qZdi4ys) | [All Because of Your Love](https://open.spotify.com/album/1blD6Kx3gBIpMcH0WrCE2D) | 3:23 | 2023-01-09 | 2023-06-28 |
 | [Please Love Me](https://open.spotify.com/track/5TAAAGDA3mqpGmlNqxNPGb) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me](https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx) | 2:57 | 2023-06-27 |  |
 | [Pledging My Love](https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT) | [Johnny Ace](https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah), [Johnny Otis & His Orchestra](https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1) | [Memorial Album](https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ) | 2:28 | 2023-01-09 | 2023-06-28 |
+| [Popsicle Toes](https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [The Best Of Michael Franks: A Backward Glance](https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg) | 4:35 | 2023-08-15 |  |
 | [Private Number](https://open.spotify.com/track/0j0NJyTIMkozPchYkvGoOS) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR), [Judy Clay](https://open.spotify.com/artist/6Bez6xFXAhRw4XTYVhUekp) | [The Best Of William Bell](https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb) | 2:40 | 2023-06-27 |  |
 | [Pure Love \(Single Version\)](https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [70s Classic Love Songs](https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg) | 2:35 | 2023-01-09 | 2023-06-28 |
 | [Rainy Night in Georgia](https://open.spotify.com/track/1o2qoDCK0vaEL1udkuMc8a) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [Atlantic 60th: Rainy Day Refrain](https://open.spotify.com/album/5T7kRP6K0WBIe5DM4bW6i0) | 3:48 | 2023-01-09 | 2023-06-28 |
@@ -281,7 +282,7 @@
 | [Some Type of Love](https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Some Type of Love](https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O) | 3:05 | 2023-01-09 | 2023-06-28 |
 | [Something](https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Family Dinner \- Vol\. 1](https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO) | 7:35 | 2023-06-27 |  |
 | [Something He Can Feel](https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Sparkle](https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3) | 6:21 | 2023-01-09 | 2023-06-28 |
-| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 | 2024-01-01 |
+| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 | 2024-01-15 |
 | [Spanish Harlem](https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 3:33 | 2023-01-09 |  |
 | [Spirit in the Dark](https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 4:03 | 2023-06-27 |  |
 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 | 2023-06-27 |  |
@@ -333,7 +334,7 @@
 | [Until You Came into My Life](https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 3:12 | 2023-06-27 |  |
 | [Use Me](https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 3:42 | 2023-06-27 |  |
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2023-01-09 | 2023-06-28 |
-| [W.E.L.F.A.R.E](https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF) | [Antonio Castro](https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y) | [W.E.L.F.A.R.E](https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw) | 2:48 | 2023-06-27 |  |
+| [W.E.L.F.A.R.E](https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF) | [Antonio Castro](https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y) | [W.E.L.F.A.R.E](https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw) | 2:48 | 2023-06-27 | 2024-01-05 |
 | [Wake up Everybody \(feat\. Common & Melanie Fiona\)](https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Wake Up!](https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP) | 4:24 | 2023-06-27 |  |
 | [Wake up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 3:31 | 2023-01-09 |  |
 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 | 2023-01-09 |  |

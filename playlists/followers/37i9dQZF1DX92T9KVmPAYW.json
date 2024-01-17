@@ -1,732 +1,1017 @@
 {
-  "2021-12-28": 21189,
-  "2021-12-29": 21333,
-  "2021-12-30": 21490,
-  "2021-12-31": 21663,
-  "2022-01-01": 21893,
-  "2022-01-02": 21989,
-  "2022-01-03": 22108,
-  "2022-01-04": 22290,
-  "2022-01-05": 22433,
-  "2022-01-06": 22541,
-  "2022-01-07": 22640,
-  "2022-01-08": 22872,
-  "2022-01-09": 22876,
-  "2022-01-10": 22982,
-  "2022-01-11": 23069,
-  "2022-01-12": 23156,
-  "2022-01-13": 23292,
-  "2022-01-14": 23410,
-  "2022-01-15": 23592,
-  "2022-01-16": 23595,
-  "2022-01-17": 23806,
-  "2022-01-18": 23822,
-  "2022-01-19": 23875,
-  "2022-01-20": 23977,
-  "2022-01-21": 24104,
-  "2022-01-22": 24190,
-  "2022-01-23": 24265,
-  "2022-01-24": 24382,
-  "2022-01-25": 24484,
-  "2022-01-26": 24574,
-  "2022-01-27": 24669,
-  "2022-01-28": 24743,
-  "2022-01-29": 24823,
-  "2022-01-30": 24899,
-  "2022-01-31": 24987,
-  "2022-02-01": 25088,
-  "2022-02-02": 25163,
-  "2022-02-03": 25238,
-  "2022-02-04": 25345,
-  "2022-02-05": 25419,
-  "2022-02-06": 25499,
-  "2022-02-07": 25589,
-  "2022-02-08": 25664,
-  "2022-02-09": 25759,
-  "2022-02-10": 25830,
-  "2022-02-11": 25924,
-  "2022-02-12": 26010,
-  "2022-02-13": 26078,
-  "2022-02-14": 26159,
-  "2022-02-15": 26223,
-  "2022-02-16": 26334,
-  "2022-02-17": 26421,
-  "2022-02-18": 26510,
-  "2022-02-19": 26576,
-  "2022-02-20": 26644,
-  "2022-02-21": 26706,
-  "2022-02-22": 26795,
-  "2022-02-23": 26876,
-  "2022-02-24": 26948,
-  "2022-02-25": 27018,
-  "2022-02-26": 27081,
-  "2022-02-27": 27217,
-  "2022-02-28": 27217,
-  "2022-03-01": 27286,
-  "2022-03-02": 27363,
-  "2022-03-03": 27438,
-  "2022-03-04": 27512,
-  "2022-03-05": 27599,
-  "2022-03-06": 27657,
-  "2022-03-07": 27741,
-  "2022-03-08": 27854,
-  "2022-03-09": 27914,
-  "2022-03-10": 27982,
-  "2022-03-11": 28072,
-  "2022-03-12": 28140,
-  "2022-03-13": 28221,
-  "2022-03-14": 28315,
-  "2022-03-15": 28400,
-  "2022-03-16": 28472,
-  "2022-03-17": 28568,
-  "2022-03-18": 28691,
-  "2022-03-19": 28724,
-  "2022-03-20": 28724,
-  "2022-03-21": 28873,
-  "2022-03-22": 28938,
-  "2022-03-23": 28998,
-  "2022-03-24": 29071,
-  "2022-03-25": 29126,
-  "2022-03-26": 29172,
-  "2022-03-27": 29213,
-  "2022-03-28": 29261,
-  "2022-03-30": 29370,
-  "2022-03-31": 29417,
-  "2022-04-01": 29482,
-  "2022-04-02": 29542,
-  "2022-04-03": 29584,
-  "2022-04-04": 29618,
-  "2022-04-05": 29662,
-  "2022-04-06": 29725,
-  "2022-04-07": 29774,
-  "2022-04-08": 29845,
-  "2022-04-09": 29889,
-  "2022-04-10": 29996,
-  "2022-04-11": 30044,
-  "2022-04-12": 30052,
-  "2022-04-13": 30109,
-  "2022-04-14": 30165,
-  "2022-04-15": 30209,
-  "2022-04-16": 30264,
-  "2022-04-17": 30319,
-  "2022-04-18": 30385,
-  "2022-04-19": 30426,
-  "2022-04-20": 30484,
-  "2022-04-21": 30536,
-  "2022-04-22": 30581,
-  "2022-04-23": 30629,
-  "2022-04-24": 30667,
-  "2022-04-25": 30701,
-  "2022-04-26": 30728,
-  "2022-04-27": 30796,
-  "2022-04-28": 30823,
-  "2022-04-29": 30916,
-  "2022-04-30": 30957,
-  "2022-05-01": 31027,
-  "2022-05-02": 31027,
-  "2022-05-03": 31076,
-  "2022-05-04": 31115,
-  "2022-05-05": 31157,
-  "2022-05-06": 31211,
-  "2022-05-07": 31255,
-  "2022-05-08": 31306,
-  "2022-05-09": 31311,
-  "2022-05-10": 31369,
-  "2022-05-11": 31418,
-  "2022-05-12": 31453,
-  "2022-05-13": 31496,
-  "2022-05-14": 31529,
-  "2022-05-15": 31541,
-  "2022-05-16": 31574,
-  "2022-05-17": 31616,
-  "2022-05-18": 31646,
-  "2022-05-19": 31667,
-  "2022-05-20": 31730,
-  "2022-05-21": 31792,
-  "2022-05-22": 31792,
-  "2022-05-23": 31832,
-  "2022-05-24": 31863,
-  "2022-05-25": 31888,
-  "2022-05-26": 31921,
-  "2022-05-27": 31971,
-  "2022-05-28": 32014,
-  "2022-05-29": 32048,
-  "2022-05-30": 32092,
-  "2022-05-31": 32124,
-  "2022-06-01": 32195,
-  "2022-06-02": 32200,
-  "2022-06-03": 32236,
-  "2022-06-04": 32272,
-  "2022-06-05": 32307,
-  "2022-06-06": 32331,
-  "2022-06-07": 32391,
-  "2022-06-08": 32459,
-  "2022-06-09": 32490,
-  "2022-06-10": 32531,
-  "2022-06-11": 32566,
-  "2022-06-12": 32605,
-  "2022-06-13": 32649,
-  "2022-06-14": 32688,
-  "2022-06-15": 32735,
-  "2022-06-16": 32783,
-  "2022-06-17": 32826,
-  "2022-06-18": 32873,
-  "2022-06-19": 32935,
-  "2022-06-20": 32935,
-  "2022-06-21": 32979,
-  "2022-06-22": 33099,
-  "2022-06-23": 33099,
-  "2022-06-24": 33137,
-  "2022-06-25": 33189,
-  "2022-06-26": 33206,
-  "2022-06-27": 33229,
-  "2022-06-28": 33249,
-  "2022-06-29": 33268,
-  "2022-06-30": 33292,
-  "2022-07-01": 33343,
-  "2022-07-02": 33376,
-  "2022-07-03": 33399,
-  "2022-07-04": 33432,
-  "2022-07-05": 33469,
-  "2022-07-06": 33501,
-  "2022-07-07": 33527,
-  "2022-07-08": 33554,
-  "2022-07-09": 33588,
-  "2022-07-10": 33643,
-  "2022-07-11": 33702,
-  "2022-07-12": 33751,
-  "2022-07-13": 33803,
-  "2022-07-14": 33831,
-  "2022-07-15": 33875,
-  "2022-07-16": 33910,
-  "2022-07-17": 33958,
-  "2022-07-18": 34009,
-  "2022-07-19": 34045,
-  "2022-07-20": 34090,
-  "2022-07-21": 34130,
-  "2022-07-22": 34159,
-  "2022-07-23": 34189,
-  "2022-07-24": 34230,
-  "2022-07-25": 34275,
-  "2022-07-26": 34313,
-  "2022-07-27": 34361,
-  "2022-07-28": 34402,
-  "2022-07-29": 34435,
-  "2022-07-30": 34510,
-  "2022-07-31": 34510,
-  "2022-08-01": 34557,
-  "2022-08-02": 34645,
-  "2022-08-03": 34645,
-  "2022-08-04": 34700,
-  "2022-08-05": 34726,
-  "2022-08-06": 34757,
-  "2022-08-07": 34816,
-  "2022-08-08": 34865,
-  "2022-08-09": 34900,
-  "2022-08-10": 34944,
-  "2022-08-11": 34982,
-  "2022-08-12": 35023,
-  "2022-08-13": 35059,
-  "2022-08-14": 35091,
-  "2022-08-15": 35125,
-  "2022-08-16": 35157,
-  "2022-08-17": 35209,
-  "2022-08-18": 35234,
-  "2022-08-19": 35277,
-  "2022-08-20": 35329,
-  "2022-08-21": 35368,
-  "2022-08-22": 35403,
-  "2022-08-23": 35448,
-  "2022-08-24": 35491,
-  "2022-08-25": 35537,
-  "2022-08-26": 35597,
-  "2022-08-27": 35639,
-  "2022-08-28": 35674,
-  "2022-08-29": 35713,
-  "2022-08-30": 35736,
-  "2022-08-31": 35714,
-  "2022-09-01": 35668,
-  "2022-09-02": 35614,
-  "2022-09-03": 35524,
-  "2022-09-04": 35487,
-  "2022-09-05": 35535,
-  "2022-09-06": 35584,
-  "2022-09-07": 35636,
-  "2022-09-09": 35722,
-  "2022-09-10": 35761,
-  "2022-09-11": 35812,
-  "2022-09-12": 35864,
-  "2022-09-13": 35907,
-  "2022-09-15": 36004,
-  "2022-09-16": 36040,
-  "2022-09-17": 36071,
-  "2022-09-18": 36119,
-  "2022-09-19": 36170,
-  "2022-09-20": 36195,
-  "2022-09-21": 36237,
-  "2022-09-22": 36282,
-  "2022-09-23": 36343,
-  "2022-09-24": 36378,
-  "2022-09-25": 36407,
-  "2022-09-26": 36451,
-  "2022-09-27": 36497,
-  "2022-09-28": 36542,
-  "2022-09-29": 36596,
-  "2022-09-30": 36643,
-  "2022-10-01": 36692,
-  "2022-10-02": 36739,
-  "2022-10-03": 36798,
-  "2022-10-04": 36855,
-  "2022-10-05": 36927,
-  "2022-10-06": 36975,
-  "2022-10-07": 37021,
-  "2022-10-08": 37065,
-  "2022-10-09": 37175,
-  "2022-10-10": 37188,
-  "2022-10-11": 37238,
-  "2022-10-12": 37277,
-  "2022-10-13": 37340,
-  "2022-10-14": 37405,
-  "2022-10-15": 37462,
-  "2022-10-16": 37500,
-  "2022-10-17": 37555,
-  "2022-10-18": 37618,
-  "2022-10-19": 37663,
-  "2022-10-20": 37711,
-  "2022-10-21": 37765,
-  "2022-10-22": 37819,
-  "2022-10-23": 37863,
-  "2022-10-24": 37917,
-  "2022-10-25": 37954,
-  "2022-10-26": 37992,
-  "2022-10-27": 38041,
-  "2022-10-28": 38087,
-  "2022-10-29": 38113,
-  "2022-10-30": 38159,
-  "2022-10-31": 38199,
-  "2022-11-01": 38255,
-  "2022-11-02": 38311,
-  "2022-11-03": 38394,
-  "2022-11-04": 38453,
-  "2022-11-05": 38515,
-  "2022-11-06": 38563,
-  "2022-11-07": 38612,
-  "2022-11-08": 38676,
-  "2022-11-09": 38739,
-  "2022-11-10": 38809,
-  "2022-11-11": 38878,
-  "2022-11-12": 38955,
-  "2022-11-13": 38991,
-  "2022-11-14": 39041,
-  "2022-11-15": 39096,
-  "2022-11-16": 39163,
-  "2022-11-17": 39212,
-  "2022-11-18": 39237,
-  "2022-11-19": 39248,
-  "2022-11-20": 39288,
-  "2022-11-21": 39334,
-  "2022-11-22": 39389,
-  "2022-11-23": 39437,
-  "2022-11-24": 39519,
-  "2022-11-25": 39608,
-  "2022-11-26": 39675,
-  "2022-11-27": 39737,
-  "2022-11-28": 39807,
-  "2022-11-29": 39859,
-  "2022-11-30": 39916,
-  "2022-12-01": 39981,
-  "2022-12-02": 40010,
-  "2022-12-03": 40092,
-  "2022-12-04": 40148,
-  "2022-12-05": 40210,
-  "2022-12-06": 40281,
-  "2022-12-07": 40338,
-  "2022-12-08": 40394,
-  "2022-12-09": 40442,
-  "2022-12-10": 40496,
-  "2022-12-11": 40547,
-  "2022-12-12": 40588,
-  "2022-12-13": 40649,
-  "2022-12-14": 40697,
-  "2022-12-15": 40758,
-  "2022-12-16": 40806,
-  "2022-12-17": 40857,
-  "2022-12-18": 40912,
-  "2022-12-19": 40956,
-  "2022-12-20": 41035,
-  "2022-12-21": 41035,
-  "2022-12-22": 41090,
-  "2022-12-24": 41182,
-  "2022-12-25": 41235,
-  "2022-12-26": 41270,
-  "2022-12-27": 41328,
-  "2022-12-28": 41378,
-  "2022-12-29": 41423,
-  "2022-12-30": 41486,
-  "2022-12-31": 41547,
-  "2023-01-01": 41598,
-  "2023-01-02": 41655,
-  "2023-01-03": 41710,
-  "2023-01-04": 41756,
-  "2023-01-05": 41827,
-  "2023-01-06": 41922,
-  "2023-01-07": 42006,
-  "2023-01-08": 42025,
-  "2023-01-09": 42085,
-  "2023-01-10": 42141,
-  "2023-01-11": 1789,
-  "2023-01-12": 551,
-  "2023-01-13": 370,
-  "2023-01-14": 457,
-  "2023-01-15": 464,
-  "2023-01-16": 555,
-  "2023-01-17": 639,
-  "2023-01-18": 722,
-  "2023-01-19": 789,
-  "2023-01-20": 872,
-  "2023-01-21": 945,
-  "2023-01-22": 1026,
-  "2023-01-23": 1111,
-  "2023-01-24": 1187,
-  "2023-01-25": 1265,
-  "2023-01-26": 1354,
-  "2023-01-27": 1427,
-  "2023-01-28": 1505,
-  "2023-01-29": 1568,
-  "2023-01-30": 1653,
-  "2023-01-31": 1653,
-  "2023-02-01": 1808,
-  "2023-02-02": 1880,
-  "2023-02-03": 1938,
-  "2023-02-04": 1992,
-  "2023-02-05": 2037,
-  "2023-02-06": 2117,
-  "2023-02-07": 2187,
-  "2023-02-08": 2349,
-  "2023-02-09": 2349,
-  "2023-02-10": 2349,
-  "2023-02-11": 2349,
-  "2023-02-12": 2349,
-  "2023-02-13": 2349,
-  "2023-02-14": 2349,
-  "2023-02-15": 2349,
-  "2023-02-16": 2349,
-  "2023-02-17": 2349,
-  "2023-02-18": 2349,
-  "2023-02-19": 2349,
-  "2023-02-20": 2349,
-  "2023-02-21": 2349,
-  "2023-02-22": 2349,
-  "2023-02-23": 2349,
-  "2023-02-24": 2349,
-  "2023-02-25": 2349,
-  "2023-02-26": 2349,
-  "2023-02-27": 2349,
-  "2023-02-28": 2349,
-  "2023-03-01": 2349,
-  "2023-03-02": 2349,
-  "2023-03-03": 2349,
-  "2023-03-04": 2349,
-  "2023-03-05": 2349,
-  "2023-03-06": 2349,
-  "2023-03-07": 2349,
-  "2023-03-08": 2349,
-  "2023-03-09": 2349,
-  "2023-03-10": 2349,
-  "2023-03-11": 2349,
-  "2023-03-12": 2349,
-  "2023-03-13": 2349,
-  "2023-03-14": 2349,
-  "2023-03-15": 2349,
-  "2023-03-16": 2349,
-  "2023-03-17": 2349,
-  "2023-03-18": 2349,
-  "2023-03-19": 2349,
-  "2023-03-20": 2349,
-  "2023-03-21": 2349,
-  "2023-03-22": 2349,
-  "2023-03-23": 2349,
-  "2023-03-24": 2349,
-  "2023-03-25": 2349,
-  "2023-03-26": 2349,
-  "2023-03-27": 2349,
-  "2023-03-28": 2349,
-  "2023-03-29": 2349,
-  "2023-03-30": 2349,
-  "2023-03-31": 2349,
-  "2023-04-01": 2349,
-  "2023-04-02": 2349,
-  "2023-04-03": 2349,
-  "2023-04-04": 2349,
-  "2023-04-05": 2349,
-  "2023-04-06": 2349,
-  "2023-04-07": 2349,
-  "2023-04-09": 2349,
-  "2023-04-10": 2349,
-  "2023-04-11": 2349,
-  "2023-04-12": 2349,
-  "2023-04-13": 2349,
-  "2023-04-14": 2349,
-  "2023-04-15": 2349,
-  "2023-04-16": 2349,
-  "2023-04-17": 2349,
-  "2023-04-18": 2349,
-  "2023-04-19": 2349,
-  "2023-04-20": 2349,
-  "2023-04-21": 2349,
-  "2023-04-22": 2349,
-  "2023-04-23": 2349,
-  "2023-04-24": 2349,
-  "2023-04-25": 2349,
-  "2023-04-26": 2349,
-  "2023-04-27": 2349,
-  "2023-04-28": 2349,
-  "2023-04-29": 2349,
-  "2023-04-30": 2349,
-  "2023-05-01": 2349,
-  "2023-05-02": 2349,
-  "2023-05-03": 2349,
-  "2023-05-04": 2349,
-  "2023-05-05": 2349,
-  "2023-05-06": 2349,
-  "2023-05-07": 2349,
-  "2023-05-08": 2349,
-  "2023-05-09": 2349,
-  "2023-05-10": 2349,
-  "2023-05-11": 2349,
-  "2023-05-12": 2349,
-  "2023-05-13": 2349,
-  "2023-05-14": 2349,
-  "2023-05-15": 2349,
-  "2023-05-16": 2349,
-  "2023-05-17": 2349,
-  "2023-05-18": 2349,
-  "2023-05-19": 2349,
-  "2023-05-20": 2349,
-  "2023-05-21": 2349,
-  "2023-05-22": 2349,
-  "2023-05-23": 2349,
-  "2023-05-24": 2349,
-  "2023-05-25": 2349,
-  "2023-05-26": 2349,
-  "2023-05-27": 2349,
-  "2023-05-28": 2349,
-  "2023-05-29": 2349,
-  "2023-05-30": 2349,
-  "2023-05-31": 2349,
-  "2023-06-01": 2349,
-  "2023-06-02": 2349,
-  "2023-06-03": 2349,
-  "2023-06-04": 2349,
-  "2023-06-05": 2349,
-  "2023-06-06": 2349,
-  "2023-06-07": 2349,
-  "2023-06-08": 2349,
-  "2023-06-09": 2349,
-  "2023-06-10": 2349,
-  "2023-06-11": 2349,
-  "2023-06-12": 2349,
-  "2023-06-13": 2349,
-  "2023-06-14": 2349,
-  "2023-06-15": 2349,
-  "2023-06-16": 2349,
-  "2023-06-17": 2349,
-  "2023-06-18": 2349,
-  "2023-06-19": 2349,
-  "2023-06-20": 2349,
-  "2023-06-21": 2349,
-  "2023-06-22": 2349,
-  "2023-06-23": 2349,
-  "2023-06-24": 2349,
-  "2023-06-25": 2349,
-  "2023-06-26": 2349,
-  "2023-06-27": 2349,
-  "2023-06-28": 2349,
-  "2023-06-29": 2349,
-  "2023-06-30": 2349,
-  "2023-07-01": 2349,
-  "2023-07-02": 2349,
-  "2023-07-03": 2349,
-  "2023-07-04": 2349,
-  "2023-07-05": 2349,
-  "2023-07-06": 2349,
-  "2023-07-07": 2349,
-  "2023-07-08": 2349,
-  "2023-07-09": 2349,
-  "2023-07-10": 2349,
-  "2023-07-11": 2349,
-  "2023-07-12": 2349,
-  "2023-07-13": 2349,
-  "2023-07-14": 2349,
-  "2023-07-15": 2349,
-  "2023-07-16": 2349,
-  "2023-07-17": 2349,
-  "2023-07-18": 2349,
-  "2023-07-19": 2349,
-  "2023-07-20": 2349,
-  "2023-07-21": 2349,
-  "2023-07-22": 2349,
-  "2023-07-23": 2349,
-  "2023-07-24": 2349,
-  "2023-07-25": 2349,
-  "2023-07-26": 2349,
-  "2023-07-27": 2349,
-  "2023-07-28": 2349,
-  "2023-07-29": 2349,
-  "2023-07-30": 2349,
-  "2023-07-31": 2349,
-  "2023-08-01": 2349,
-  "2023-08-02": 2349,
-  "2023-08-03": 2349,
-  "2023-08-04": 2349,
-  "2023-08-05": 2349,
-  "2023-08-06": 2349,
-  "2023-08-07": 2349,
-  "2023-08-08": 2349,
-  "2023-08-09": 2349,
-  "2023-08-10": 2349,
-  "2023-08-11": 2349,
-  "2023-08-12": 2349,
-  "2023-08-13": 2349,
-  "2023-08-14": 2349,
-  "2023-08-15": 2349,
-  "2023-08-16": 2349,
-  "2023-08-17": 2349,
-  "2023-08-18": 2349,
-  "2023-08-19": 2349,
-  "2023-08-20": 2349,
-  "2023-08-21": 2349,
-  "2023-08-22": 2349,
-  "2023-08-23": 2349,
-  "2023-08-24": 2349,
-  "2023-08-25": 2349,
-  "2023-08-26": 2349,
-  "2023-08-27": 2349,
-  "2023-08-28": 2349,
-  "2023-08-29": 2349,
-  "2023-08-30": 2349,
-  "2023-08-31": 2349,
-  "2023-09-01": 2349,
-  "2023-09-02": 2349,
-  "2023-09-03": 2349,
-  "2023-09-04": 2349,
-  "2023-09-05": 2349,
-  "2023-09-06": 2349,
-  "2023-09-07": 2349,
-  "2023-09-08": 2349,
-  "2023-09-09": 2349,
-  "2023-09-10": 2349,
-  "2023-09-11": 2349,
-  "2023-09-12": 2349,
-  "2023-09-13": 2349,
-  "2023-09-14": 2349,
-  "2023-09-15": 2349,
-  "2023-09-16": 2349,
-  "2023-09-17": 2349,
-  "2023-09-18": 2349,
-  "2023-09-19": 2349,
-  "2023-09-20": 2349,
-  "2023-09-21": 2349,
-  "2023-09-22": 2349,
-  "2023-09-23": 2349,
-  "2023-09-24": 2349,
-  "2023-09-25": 2349,
-  "2023-09-26": 2349,
-  "2023-09-27": 2349,
-  "2023-09-28": 2349,
-  "2023-09-29": 2349,
-  "2023-09-30": 2349,
-  "2023-10-01": 2349,
-  "2023-10-02": 2349,
-  "2023-10-03": 2349,
-  "2023-10-04": 2349,
-  "2023-10-05": 2349,
-  "2023-10-06": 2349,
-  "2023-10-07": 2349,
-  "2023-10-08": 2349,
-  "2023-10-09": 2349,
-  "2023-10-10": 2349,
-  "2023-10-11": 2349,
-  "2023-10-12": 2349,
-  "2023-10-13": 2349,
-  "2023-10-14": 2349,
-  "2023-10-15": 2349,
-  "2023-10-16": 2349,
-  "2023-10-17": 2349,
-  "2023-10-18": 2349,
-  "2023-10-19": 2349,
-  "2023-10-20": 2349,
-  "2023-10-21": 2349,
-  "2023-10-22": 2349,
-  "2023-10-23": 2349,
-  "2023-10-24": 2349,
-  "2023-10-25": 2349,
-  "2023-10-26": 2349,
-  "2023-10-27": 2349,
-  "2023-10-28": 2349,
-  "2023-10-29": 2349,
-  "2023-10-30": 2349,
-  "2023-10-31": 2349,
-  "2023-11-01": 2349,
-  "2023-11-02": 2349,
-  "2023-11-03": 2349,
-  "2023-11-04": 2349,
-  "2023-11-05": 2349,
-  "2023-11-06": 2349,
-  "2023-11-07": 2349,
-  "2023-11-08": 2349,
-  "2023-11-09": 2349,
-  "2023-11-10": 2349,
-  "2023-11-11": 2349,
-  "2023-11-12": 2349,
-  "2023-11-13": 2349,
-  "2023-11-14": 2349,
-  "2023-11-15": 2349,
-  "2023-11-16": 2349,
-  "2023-11-17": 2349,
-  "2023-11-18": 2349,
-  "2023-11-19": 2349,
-  "2023-11-20": 2349,
-  "2023-11-21": 2349,
-  "2023-11-22": 2349,
-  "2023-11-23": 2349,
-  "2023-11-24": 2349,
-  "2023-11-25": 2349,
-  "2023-11-26": 2349,
-  "2023-11-27": 2349,
-  "2023-11-28": 2349,
-  "2023-11-29": 2349,
-  "2023-11-30": 2349,
-  "2023-12-01": 2349,
-  "2023-12-02": 2349,
-  "2023-12-03": 2349,
-  "2023-12-04": 2349,
-  "2023-12-05": 2349,
-  "2023-12-06": 2349,
-  "2023-12-07": 2349,
-  "2023-12-08": 2349,
-  "2023-12-09": 2349,
-  "2023-12-10": 2349,
-  "2023-12-11": 2349,
-  "2023-12-12": 2349,
-  "2023-12-13": 2349,
-  "2023-12-14": 2349,
-  "2023-12-15": 2349,
-  "2023-12-16": 2349,
-  "2023-12-17": 2349,
-  "2023-12-18": 2349,
-  "2023-12-19": 2349,
-  "2023-12-20": 2349,
-  "2023-12-21": 2349,
-  "2023-12-22": 2349,
-  "2023-12-23": 2349,
-  "2023-12-24": 2349,
-  "2023-12-25": 2349,
-  "2023-12-26": 2349,
-  "2023-12-27": 2349,
-  "2023-12-30": 2349,
-  "2023-12-31": 2349,
-  "2024-01-01": 2349,
-  "2024-01-02": 2349,
-  "2024-01-03": 2349
+  "2024-01-17": 2349,
+  "date_first_scraped": "2021-12-28",
+  "description": "Classic Ambient and Environmental music made in Japan.  \n",
+  "name": "Kanky\u014d Ongaku",
+  "tracks": [
+    {
+      "album": {
+        "name": "DANZINDAN-POJIDON (New Master Edition)",
+        "url": "https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155533,
+      "name": "8\u30fb31",
+      "url": "https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q"
+    },
+    {
+      "album": {
+        "name": "Heisei No Oto: Japanese Left-field Pop From The CD Age, 1989-1996",
+        "url": "https://open.spotify.com/album/6EosUnPLduZ3HV9BKJBdts"
+      },
+      "artists": [
+        {
+          "name": "Synagetic Voice Orchestra",
+          "url": "https://open.spotify.com/artist/4ajIjToZA6Hfqo3U2vQqeN"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 335762,
+      "name": "A Tale",
+      "url": "https://open.spotify.com/track/7xCVZnISlnQ2v30xD6qGY1"
+    },
+    {
+      "album": {
+        "name": "Heisei No Oto: Japanese Left-field Pop From The CD Age, 1989-1996",
+        "url": "https://open.spotify.com/album/1HQaShZnkACQiXjJRaUzWi"
+      },
+      "artists": [
+        {
+          "name": "Synergetic Voice Orchestra",
+          "url": "https://open.spotify.com/artist/5shpMTYrRn3zNZsbvG5i3p"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335762,
+      "name": "A Tale",
+      "url": "https://open.spotify.com/track/0RwP29TYIWlQh6uvkyGT9y"
+    },
+    {
+      "album": {
+        "name": "NATURAL SONIC",
+        "url": "https://open.spotify.com/album/5VRnb3N2f1wASaAnOJ1a89"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Ochi",
+          "url": "https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/49xldL6I0FcKyrfKZoFF3J"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons II",
+        "url": "https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505160,
+      "name": "Atrium",
+      "url": "https://open.spotify.com/track/7CV8NzeND4AZIdKRRVAYW4"
+    },
+    {
+      "album": {
+        "name": "Commissions: 1977-2000",
+        "url": "https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460226,
+      "name": "Bananatron",
+      "url": "https://open.spotify.com/track/03CbUuPxmE1hvo5fuCs86N"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284386,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/0Bc4abgrOxonETzZupd4BE"
+    },
+    {
+      "album": {
+        "name": "Commissions: 1977-2000",
+        "url": "https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Candy Floss",
+      "url": "https://open.spotify.com/track/2ZtH2scL0aDBizjDrqewIW"
+    },
+    {
+      "album": {
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354693,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg"
+    },
+    {
+      "album": {
+        "name": "Commissions: 1977-2000",
+        "url": "https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/23HQOR3hBeeLbXdmcPQA8m"
+    },
+    {
+      "album": {
+        "name": "NATURAL SONIC",
+        "url": "https://open.spotify.com/album/5VRnb3N2f1wASaAnOJ1a89"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Ochi",
+          "url": "https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-11",
+      "duration_ms": 281866,
+      "name": "Ear Dreamin'",
+      "url": "https://open.spotify.com/track/2XrpPn36U2iof6eE4MS2l0"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Ochi",
+          "url": "https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285173,
+      "name": "Ear Dreamin'",
+      "url": "https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU"
+    },
+    {
+      "album": {
+        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT"
+      },
+      "artists": [
+        {
+          "name": "Shiho Yabuki",
+          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "Energy Flow (Ki No Nagare)",
+      "url": "https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons II",
+        "url": "https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431000,
+      "name": "Evocations 2",
+      "url": "https://open.spotify.com/track/7LsaMGZqUxbfujsF4ML0HG"
+    },
+    {
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373973,
+      "name": "FEET",
+      "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons I",
+        "url": "https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572600,
+      "name": "Flius",
+      "url": "https://open.spotify.com/track/7H6JZas9n5Lc3UkwWyXZoe"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons I",
+        "url": "https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342960,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/1gxfSEYoqHO3rUluVLFXRS"
+    },
+    {
+      "album": {
+        "name": "MERCURIC DANCE(\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30bf\u3099\u30f3\u30b9~\u8e8d\u52d5\u306e\u8e0a\u308a)",
+        "url": "https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511506,
+      "name": "FOSSIL OF FLAME/\u706b\u306e\u5316\u77f3~FIFTY BELL-TREES/\u4e94\u5341\u9234",
+      "url": "https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356520,
+      "name": "Glass Chattering",
+      "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
+    },
+    {
+      "album": {
+        "name": "Skintone Collection",
+        "url": "https://open.spotify.com/album/5rPFClBuGOO281xc2g0wAs"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231266,
+      "name": "Hagoromo",
+      "url": "https://open.spotify.com/track/6sjrK8k0GnUSSUe9EEcNfE"
+    },
+    {
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232493,
+      "name": "Hagoromo",
+      "url": "https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv"
+    },
+    {
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232493,
+      "name": "HAGOROMO",
+      "url": "https://open.spotify.com/track/57R46IG6M5tQ5xgQ30ZSOf"
+    },
+    {
+      "album": {
+        "name": "Best of Fumio: Music for Sleep",
+        "url": "https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V"
+      },
+      "artists": [
+        {
+          "name": "Fumio Miyashita",
+          "url": "https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416266,
+      "name": "Hana",
+      "url": "https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX"
+    },
+    {
+      "album": {
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175773,
+      "name": "Ice Copy",
+      "url": "https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Toshi Tsuchitori",
+          "url": "https://open.spotify.com/artist/7hXNts8FQfZudbAwVv5AWx"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313826,
+      "name": "Ishiura (Abridged)",
+      "url": "https://open.spotify.com/track/5p4jRUhL9DRX8mbITOJRiS"
+    },
+    {
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk"
+      },
+      "artists": [
+        {
+          "name": "Yumiko Morioka",
+          "url": "https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235266,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/15Dz5HggGfcT8zJkYQCB71"
+    },
+    {
+      "album": {
+        "name": "Nostalghia",
+        "url": "https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Hirose",
+          "url": "https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421906,
+      "name": "Moving layer",
+      "url": "https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx"
+    },
+    {
+      "album": {
+        "name": "Nova + 4 (Extended Version)",
+        "url": "https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Hirose",
+          "url": "https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 889260,
+      "name": "Old Dream Spell",
+      "url": "https://open.spotify.com/track/6y57EpCattl9PxuMRR0Vc0"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons II",
+        "url": "https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302160,
+      "name": "Orientate",
+      "url": "https://open.spotify.com/track/4NJ9PJPU4g7ArQcJXKqety"
+    },
+    {
+      "album": {
+        "name": "Skintone Collection",
+        "url": "https://open.spotify.com/album/5rPFClBuGOO281xc2g0wAs"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 343226,
+      "name": "Saku",
+      "url": "https://open.spotify.com/track/6uvbmhgIhT9fvAHYk743qO"
+    },
+    {
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 345840,
+      "name": "SAKU",
+      "url": "https://open.spotify.com/track/533TZP8RSOvLW5aydnvfRp"
+    },
+    {
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345840,
+      "name": "Saku",
+      "url": "https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg"
+    },
+    {
+      "album": {
+        "name": "Oto No Wa: Selected Sounds of Japan 1988-2018",
+        "url": "https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351313,
+      "name": "Sealed",
+      "url": "https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons II",
+        "url": "https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-11",
+      "duration_ms": 352240,
+      "name": "Sealed",
+      "url": "https://open.spotify.com/track/6BuzVuT1Iu2fgE6U7gWMMD"
+    },
+    {
+      "album": {
+        "name": "White Morning",
+        "url": "https://open.spotify.com/album/6iharVUME5RJn4wkC9sPmH"
+      },
+      "artists": [
+        {
+          "name": "Fumio Miyashita",
+          "url": "https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 1496653,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/4T9asf08sPU9aAMiPe3wWh"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Fumio Miyashita",
+          "url": "https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410613,
+      "name": "See The Light (Abridged)",
+      "url": "https://open.spotify.com/track/0Fcr8todn7RFAUrSWbURAj"
+    },
+    {
+      "album": {
+        "name": "Music For Commercials",
+        "url": "https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68600,
+      "name": "Seiko 2",
+      "url": "https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW"
+    },
+    {
+      "album": {
+        "name": "Music for Commercials",
+        "url": "https://open.spotify.com/album/6769wncEGDC4eRl66lcrpi"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 68600,
+      "name": "Seiko 2",
+      "url": "https://open.spotify.com/track/7vRbhipDnha1XKNlsEeIVr"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79693,
+      "name": "Seiko 3",
+      "url": "https://open.spotify.com/track/6SIBardoRzJ6gSxRS6rfH6"
+    },
+    {
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385666,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/4hNzwEykt9DWUiU7KRf6Pr"
+    },
+    {
+      "album": {
+        "name": "Nova + 4 (Extended Version)",
+        "url": "https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Hirose",
+          "url": "https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392500,
+      "name": "Slow Sky",
+      "url": "https://open.spotify.com/track/5DlLYv7xXpnM1Se5yUPjxB"
+    },
+    {
+      "album": {
+        "name": "Still Way (Wave Notation 2)",
+        "url": "https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg"
+      },
+      "artists": [
+        {
+          "name": "Satoshi Ashikawa",
+          "url": "https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 727173,
+      "name": "Still Park - Ensemble",
+      "url": "https://open.spotify.com/track/3Op3F8ipO0YQO8ps4p5kYv"
+    },
+    {
+      "album": {
+        "name": "Still Way (Wave Notation 2)",
+        "url": "https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg"
+      },
+      "artists": [
+        {
+          "name": "Satoshi Ashikawa",
+          "url": "https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515493,
+      "name": "Still Sky",
+      "url": "https://open.spotify.com/track/4O8E7XRXOp8TpqRUYsv0Q9"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Satoshi Ashikawa",
+          "url": "https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239173,
+      "name": "Still Space",
+      "url": "https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr"
+    },
+    {
+      "album": {
+        "name": "MERCURIC DANCE(\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30bf\u3099\u30f3\u30b9~\u8e8d\u52d5\u306e\u8e0a\u308a)",
+        "url": "https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "SUNNYSIDE OF THE WATER/\u6c34\u3068\u5149",
+      "url": "https://open.spotify.com/track/2Qf0RR9hkZ8CSX2XoePVrv"
+    },
+    {
+      "album": {
+        "name": "MERCURIC DANCE(\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30bf\u3099\u30f3\u30b9~\u8e8d\u52d5\u306e\u8e0a\u308a)",
+        "url": "https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311200,
+      "name": "TO THE AIR/\u7a7a\u3078",
+      "url": "https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w"
+    },
+    {
+      "album": {
+        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/0osucAydc2AxgQ1awGjT4x"
+      },
+      "artists": [
+        {
+          "name": "Shiho Yabuki",
+          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 420746,
+      "name": "Tomoshibi",
+      "url": "https://open.spotify.com/track/234pWX1mkGIB6ocTPfMyV9"
+    },
+    {
+      "album": {
+        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT"
+      },
+      "artists": [
+        {
+          "name": "Shiho Yabuki",
+          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420746,
+      "name": "Tomoshibi",
+      "url": "https://open.spotify.com/track/7lmpi4NLJ86s013B9f6XSf"
+    },
+    {
+      "album": {
+        "name": "Horizon, Volume 1",
+        "url": "https://open.spotify.com/album/0Tvs4LpQSHSH1gcfVdF3WV"
+      },
+      "artists": [
+        {
+          "name": "Masahiro Sugaya",
+          "url": "https://open.spotify.com/artist/0ZH37cF1gwuwRW86ueqau1"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364720,
+      "name": "Until the End of the World",
+      "url": "https://open.spotify.com/track/6zC5XZfQBCbLTsx9l9lrEu"
+    },
+    {
+      "album": {
+        "name": "DANZINDAN-POJIDON (New Master Edition)",
+        "url": "https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258826,
+      "name": "WASSER",
+      "url": "https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp"
+    },
+    {
+      "album": {
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371866,
+      "name": "Water Copy",
+      "url": "https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48"
+    },
+    {
+      "album": {
+        "name": "Dementos",
+        "url": "https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "\u3055\u3066\u3068",
+      "url": "https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0\u30fb\u30d4\u30af\u30c1\u30e3\u30fc",
+        "url": "https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Chin Suzuki",
+          "url": "https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306700,
+      "name": "\u30b6\u30fb\u30df\u30e9\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0\u30fb\u30d4\u30af\u30c1\u30e3\u30fc",
+        "url": "https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Chin Suzuki",
+          "url": "https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "\u30df\u30fc\u30c8\u30fb\u30df\u30fc\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30b7\u30fc\u30d7\u30fb\u30e1\u30c9\u30a6",
+      "url": "https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5"
+    },
+    {
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk"
+      },
+      "artists": [
+        {
+          "name": "Yumiko Morioka",
+          "url": "https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321941,
+      "name": "\u9280\u306e\u8239",
+      "url": "https://open.spotify.com/track/5BeIxIMY0exSWc7LyPrchH"
+    },
+    {
+      "album": {
+        "name": "Seventh Garden",
+        "url": "https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349933,
+      "name": "\u96ea",
+      "url": "https://open.spotify.com/track/6Yob39WAE8Um7Dox1ch886"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX92T9KVmPAYW"
 }

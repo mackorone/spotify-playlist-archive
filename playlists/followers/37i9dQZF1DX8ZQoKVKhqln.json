@@ -1,357 +1,459 @@
 {
-  "2023-01-11": 1,
-  "2023-01-12": 3,
-  "2023-01-13": 3,
-  "2023-01-14": 4,
-  "2023-01-15": 5,
-  "2023-01-16": 6,
-  "2023-01-17": 7,
-  "2023-01-18": 7,
-  "2023-01-19": 8,
-  "2023-01-20": 14,
-  "2023-01-21": 23,
-  "2023-01-22": 30,
-  "2023-01-23": 39,
-  "2023-01-24": 49,
-  "2023-01-25": 52,
-  "2023-01-26": 55,
-  "2023-01-27": 61,
-  "2023-01-28": 65,
-  "2023-01-29": 71,
-  "2023-01-30": 71,
-  "2023-01-31": 71,
-  "2023-02-01": 80,
-  "2023-02-02": 82,
-  "2023-02-03": 83,
-  "2023-02-04": 89,
-  "2023-02-05": 90,
-  "2023-02-06": 93,
-  "2023-02-07": 94,
-  "2023-02-08": 99,
-  "2023-02-09": 99,
-  "2023-02-10": 101,
-  "2023-02-11": 104,
-  "2023-02-12": 132,
-  "2023-02-13": 153,
-  "2023-02-14": 153,
-  "2023-02-15": 171,
-  "2023-02-16": 190,
-  "2023-02-17": 204,
-  "2023-02-18": 236,
-  "2023-02-19": 240,
-  "2023-02-20": 253,
-  "2023-02-21": 264,
-  "2023-02-22": 271,
-  "2023-02-23": 291,
-  "2023-02-24": 308,
-  "2023-02-25": 338,
-  "2023-02-26": 347,
-  "2023-02-27": 369,
-  "2023-02-28": 369,
-  "2023-03-01": 389,
-  "2023-03-02": 411,
-  "2023-03-03": 423,
-  "2023-03-04": 435,
-  "2023-03-05": 462,
-  "2023-03-06": 462,
-  "2023-03-07": 482,
-  "2023-03-08": 492,
-  "2023-03-09": 511,
-  "2023-03-10": 514,
-  "2023-03-11": 523,
-  "2023-03-12": 540,
-  "2023-03-13": 562,
-  "2023-03-14": 576,
-  "2023-03-15": 587,
-  "2023-03-16": 608,
-  "2023-03-17": 608,
-  "2023-03-18": 630,
-  "2023-03-19": 644,
-  "2023-03-20": 658,
-  "2023-03-21": 674,
-  "2023-03-22": 683,
-  "2023-03-23": 701,
-  "2023-03-24": 701,
-  "2023-03-25": 732,
-  "2023-03-26": 749,
-  "2023-03-27": 767,
-  "2023-03-28": 779,
-  "2023-03-29": 790,
-  "2023-03-30": 813,
-  "2023-03-31": 813,
-  "2023-04-01": 826,
-  "2023-04-02": 837,
-  "2023-04-03": 873,
-  "2023-04-04": 920,
-  "2023-04-05": 937,
-  "2023-04-06": 963,
-  "2023-04-07": 977,
-  "2023-04-09": 1026,
-  "2023-04-10": 1037,
-  "2023-04-11": 1069,
-  "2023-04-12": 1069,
-  "2023-04-13": 1082,
-  "2023-04-14": 1096,
-  "2023-04-15": 1105,
-  "2023-04-16": 1119,
-  "2023-04-17": 1137,
-  "2023-04-18": 1147,
-  "2023-04-19": 1167,
-  "2023-04-20": 1186,
-  "2023-04-21": 1200,
-  "2023-04-22": 1214,
-  "2023-04-23": 1230,
-  "2023-04-24": 1250,
-  "2023-04-25": 1263,
-  "2023-04-26": 1278,
-  "2023-04-27": 1296,
-  "2023-04-28": 1305,
-  "2023-04-29": 1314,
-  "2023-04-30": 1325,
-  "2023-05-01": 1341,
-  "2023-05-02": 1362,
-  "2023-05-03": 1373,
-  "2023-05-04": 1377,
-  "2023-05-05": 1387,
-  "2023-05-06": 1394,
-  "2023-05-07": 1403,
-  "2023-05-08": 1420,
-  "2023-05-09": 1431,
-  "2023-05-10": 1440,
-  "2023-05-11": 1448,
-  "2023-05-12": 1459,
-  "2023-05-13": 1464,
-  "2023-05-14": 1469,
-  "2023-05-15": 1478,
-  "2023-05-16": 1485,
-  "2023-05-17": 1496,
-  "2023-05-18": 1507,
-  "2023-05-19": 1535,
-  "2023-05-20": 1566,
-  "2023-05-21": 1566,
-  "2023-05-22": 1566,
-  "2023-05-23": 1591,
-  "2023-05-24": 1608,
-  "2023-05-25": 1613,
-  "2023-05-26": 1623,
-  "2023-05-27": 1634,
-  "2023-05-28": 1647,
-  "2023-05-29": 1647,
-  "2023-05-30": 1656,
-  "2023-05-31": 1674,
-  "2023-06-01": 1694,
-  "2023-06-02": 1706,
-  "2023-06-03": 1716,
-  "2023-06-04": 1726,
-  "2023-06-05": 1740,
-  "2023-06-06": 1755,
-  "2023-06-07": 1767,
-  "2023-06-08": 1775,
-  "2023-06-09": 1778,
-  "2023-06-10": 1790,
-  "2023-06-11": 1800,
-  "2023-06-12": 1810,
-  "2023-06-13": 1820,
-  "2023-06-14": 1820,
-  "2023-06-15": 1833,
-  "2023-06-16": 1843,
-  "2023-06-17": 1854,
-  "2023-06-18": 1864,
-  "2023-06-19": 1872,
-  "2023-06-20": 1877,
-  "2023-06-21": 1886,
-  "2023-06-22": 1898,
-  "2023-06-23": 1901,
-  "2023-06-24": 1917,
-  "2023-06-25": 1930,
-  "2023-06-26": 1942,
-  "2023-06-27": 1958,
-  "2023-06-28": 1965,
-  "2023-06-29": 1978,
-  "2023-06-30": 1986,
-  "2023-07-01": 2005,
-  "2023-07-02": 2005,
-  "2023-07-03": 2014,
-  "2023-07-04": 2028,
-  "2023-07-05": 2041,
-  "2023-07-06": 2068,
-  "2023-07-07": 2068,
-  "2023-07-08": 2080,
-  "2023-07-09": 2092,
-  "2023-07-10": 2108,
-  "2023-07-11": 2121,
-  "2023-07-12": 2133,
-  "2023-07-13": 2137,
-  "2023-07-14": 2147,
-  "2023-07-15": 2159,
-  "2023-07-16": 2174,
-  "2023-07-17": 2187,
-  "2023-07-18": 2193,
-  "2023-07-19": 2199,
-  "2023-07-20": 2217,
-  "2023-07-21": 2231,
-  "2023-07-22": 2239,
-  "2023-07-23": 2255,
-  "2023-07-24": 2264,
-  "2023-07-25": 2269,
-  "2023-07-26": 2276,
-  "2023-07-27": 2286,
-  "2023-07-28": 2297,
-  "2023-07-29": 2306,
-  "2023-07-30": 2315,
-  "2023-07-31": 2326,
-  "2023-08-01": 2340,
-  "2023-08-02": 2350,
-  "2023-08-03": 2362,
-  "2023-08-04": 2373,
-  "2023-08-05": 2381,
-  "2023-08-06": 2407,
-  "2023-08-07": 2407,
-  "2023-08-08": 2417,
-  "2023-08-09": 2423,
-  "2023-08-10": 2429,
-  "2023-08-11": 2441,
-  "2023-08-12": 2443,
-  "2023-08-13": 2447,
-  "2023-08-14": 2453,
-  "2023-08-15": 2480,
-  "2023-08-16": 2480,
-  "2023-08-17": 2489,
-  "2023-08-18": 2495,
-  "2023-08-19": 2501,
-  "2023-08-20": 2514,
-  "2023-08-21": 2520,
-  "2023-08-22": 2528,
-  "2023-08-23": 2539,
-  "2023-08-24": 2554,
-  "2023-08-25": 2567,
-  "2023-08-26": 2571,
-  "2023-08-27": 2585,
-  "2023-08-28": 2594,
-  "2023-08-29": 2602,
-  "2023-08-30": 2611,
-  "2023-08-31": 2621,
-  "2023-09-01": 2642,
-  "2023-09-02": 2642,
-  "2023-09-03": 2649,
-  "2023-09-04": 2656,
-  "2023-09-05": 2665,
-  "2023-09-06": 2675,
-  "2023-09-07": 2684,
-  "2023-09-08": 2689,
-  "2023-09-09": 2692,
-  "2023-09-10": 2703,
-  "2023-09-11": 2708,
-  "2023-09-12": 2710,
-  "2023-09-13": 2723,
-  "2023-09-14": 2739,
-  "2023-09-15": 2744,
-  "2023-09-16": 2754,
-  "2023-09-17": 2761,
-  "2023-09-18": 2762,
-  "2023-09-19": 2770,
-  "2023-09-20": 2776,
-  "2023-09-21": 2782,
-  "2023-09-22": 2797,
-  "2023-09-23": 2807,
-  "2023-09-24": 2811,
-  "2023-09-25": 2822,
-  "2023-09-26": 2833,
-  "2023-09-27": 2837,
-  "2023-09-28": 2845,
-  "2023-09-29": 2854,
-  "2023-09-30": 2861,
-  "2023-10-01": 2865,
-  "2023-10-02": 2870,
-  "2023-10-03": 2880,
-  "2023-10-04": 2889,
-  "2023-10-05": 2898,
-  "2023-10-06": 2903,
-  "2023-10-07": 2915,
-  "2023-10-08": 2930,
-  "2023-10-09": 2943,
-  "2023-10-10": 2950,
-  "2023-10-11": 2973,
-  "2023-10-12": 2973,
-  "2023-10-13": 2985,
-  "2023-10-14": 2989,
-  "2023-10-15": 2994,
-  "2023-10-16": 3002,
-  "2023-10-17": 3013,
-  "2023-10-18": 3024,
-  "2023-10-19": 3034,
-  "2023-10-20": 3043,
-  "2023-10-21": 3052,
-  "2023-10-22": 3063,
-  "2023-10-23": 3074,
-  "2023-10-24": 3082,
-  "2023-10-25": 3088,
-  "2023-10-26": 3090,
-  "2023-10-27": 3102,
-  "2023-10-28": 3102,
-  "2023-10-29": 3119,
-  "2023-10-30": 3122,
-  "2023-10-31": 3122,
-  "2023-11-01": 3137,
-  "2023-11-02": 3144,
-  "2023-11-03": 3151,
-  "2023-11-04": 3160,
-  "2023-11-05": 3168,
-  "2023-11-06": 3177,
-  "2023-11-07": 3184,
-  "2023-11-08": 3192,
-  "2023-11-09": 3203,
-  "2023-11-10": 3207,
-  "2023-11-11": 3223,
-  "2023-11-12": 3229,
-  "2023-11-13": 3243,
-  "2023-11-14": 3252,
-  "2023-11-15": 3252,
-  "2023-11-16": 3272,
-  "2023-11-17": 3291,
-  "2023-11-18": 3291,
-  "2023-11-19": 3303,
-  "2023-11-20": 3316,
-  "2023-11-21": 3328,
-  "2023-11-22": 3338,
-  "2023-11-23": 3349,
-  "2023-11-24": 3349,
-  "2023-11-25": 3360,
-  "2023-11-26": 3374,
-  "2023-11-27": 3383,
-  "2023-11-28": 3398,
-  "2023-11-29": 3418,
-  "2023-11-30": 3418,
-  "2023-12-01": 3428,
-  "2023-12-02": 3440,
-  "2023-12-03": 3454,
-  "2023-12-04": 3465,
-  "2023-12-05": 3476,
-  "2023-12-06": 3485,
-  "2023-12-07": 3501,
-  "2023-12-08": 3510,
-  "2023-12-09": 3533,
-  "2023-12-10": 3546,
-  "2023-12-11": 3563,
-  "2023-12-12": 3574,
-  "2023-12-13": 3597,
-  "2023-12-14": 3617,
-  "2023-12-15": 3625,
-  "2023-12-16": 3636,
-  "2023-12-17": 3649,
-  "2023-12-18": 3662,
-  "2023-12-19": 3679,
-  "2023-12-20": 3691,
-  "2023-12-21": 3707,
-  "2023-12-22": 3732,
-  "2023-12-23": 3751,
-  "2023-12-24": 3761,
-  "2023-12-25": 3775,
-  "2023-12-26": 3785,
-  "2023-12-27": 3793,
-  "2023-12-30": 3830,
-  "2023-12-31": 3846,
-  "2024-01-01": 3866,
-  "2024-01-02": 3875,
-  "2024-01-03": 3886
+  "2024-01-17": 4066,
+  "date_first_scraped": "2023-01-11",
+  "description": "Coldcut's Takeover selection, as previously featured on <a href=\"spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL\">Ambient X</a>.",
+  "name": "Ambient X Takeover: Coldcut",
+  "tracks": [
+    {
+      "album": {
+        "name": "Agate or Barium (Bersarin Quartett Remix)",
+        "url": "https://open.spotify.com/album/3GQJlJDzJNvOLGVKnS4hXt"
+      },
+      "artists": [
+        {
+          "name": "David Norland",
+          "url": "https://open.spotify.com/artist/74X47hyqQNSYXLNIZtUmu1"
+        },
+        {
+          "name": "Bersarin Quartett",
+          "url": "https://open.spotify.com/artist/1Qj0OFQUlN7VmkMaD1mPMi"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Agate or Barium - Bersarin Quartett Remix",
+      "url": "https://open.spotify.com/track/0nfS82i90nv96o9SWDc9fb"
+    },
+    {
+      "album": {
+        "name": "Agate or Barium (Bersarin Quartett Remix)",
+        "url": "https://open.spotify.com/album/7vDrQB6jGV67GcNQYX0fIZ"
+      },
+      "artists": [
+        {
+          "name": "David Norland",
+          "url": "https://open.spotify.com/artist/74X47hyqQNSYXLNIZtUmu1"
+        },
+        {
+          "name": "Bersarin Quartett",
+          "url": "https://open.spotify.com/artist/1Qj0OFQUlN7VmkMaD1mPMi"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 273000,
+      "name": "Agate or Barium - Bersarin Quartett Remix",
+      "url": "https://open.spotify.com/track/3xyFu3aZJo8tCVQvUI2PbB"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389133,
+      "name": "An Arc Of Doves - Remastered 2004",
+      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
+    },
+    {
+      "album": {
+        "name": "@0 EP3",
+        "url": "https://open.spotify.com/album/36ry6OLPgVNFDj7Vx1HCjv"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238750,
+      "name": "And She Came Home - Strings Version",
+      "url": "https://open.spotify.com/track/2iJFn6AhLd0NHUiIOvnKto"
+    },
+    {
+      "album": {
+        "name": "@0 EP3",
+        "url": "https://open.spotify.com/album/36ry6OLPgVNFDj7Vx1HCjv"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272666,
+      "name": "Aqua - from Playing Piano for the Isolated",
+      "url": "https://open.spotify.com/track/7eoKT5hry7dsZZ8JszbN6y"
+    },
+    {
+      "album": {
+        "name": "Chapel",
+        "url": "https://open.spotify.com/album/3sG7jKBT0I50c9ilFXUuET"
+      },
+      "artists": [
+        {
+          "name": "Andy Aquarius",
+          "url": "https://open.spotify.com/artist/3nH50r7bwZJdvvW2mw0DpI"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383490,
+      "name": "Chapel",
+      "url": "https://open.spotify.com/track/73OviuwhAgaaMB7y3iibYh"
+    },
+    {
+      "album": {
+        "name": "Music For Photographers",
+        "url": "https://open.spotify.com/album/6XeL6PInmZHGz0mvxlRoAM"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Dust Bunnies",
+      "url": "https://open.spotify.com/track/1uG8DEmAZnIVTkjnKdM2bP"
+    },
+    {
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314240,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
+    },
+    {
+      "album": {
+        "name": "Honest Labour",
+        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
+      },
+      "artists": [
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        },
+        {
+          "name": "HforSpirit",
+          "url": "https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231592,
+      "name": "Honest Labour (feat. HforSpirit)",
+      "url": "https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H"
+    },
+    {
+      "album": {
+        "name": "Seafields",
+        "url": "https://open.spotify.com/album/4ZKpcRya5XM5USp8FrSWSq"
+      },
+      "artists": [
+        {
+          "name": "Moss Covered Technology",
+          "url": "https://open.spotify.com/artist/6HFnyRY6gI7JSXJENeJLTd"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194386,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3s8So5vjHfoNqg485pLatQ"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 675853,
+      "name": "Last Night The Moon Came",
+      "url": "https://open.spotify.com/track/7EVB8TpxzTh6llHIcPANAi"
+    },
+    {
+      "album": {
+        "name": "Aquariusssssss",
+        "url": "https://open.spotify.com/album/52NZlBAaMGLlJxxB8Gb5ui"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        },
+        {
+          "name": "Miguel Atwood-Fergeson",
+          "url": "https://open.spotify.com/artist/0BQ125YvIGlDqYwWcAicoQ"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268573,
+      "name": "Mezame (Awakening)",
+      "url": "https://open.spotify.com/track/6J4s7Knu8oeAFycxXQnx0X"
+    },
+    {
+      "album": {
+        "name": "Mur",
+        "url": "https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE"
+      },
+      "artists": [
+        {
+          "name": "Taylor Deupree",
+          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 688958,
+      "name": "Mir",
+      "url": "https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P"
+    },
+    {
+      "album": {
+        "name": "Mur",
+        "url": "https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Deupree",
+          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 688958,
+      "name": "Mir",
+      "url": "https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v"
+    },
+    {
+      "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575320,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd"
+    },
+    {
+      "album": {
+        "name": "Surface Currents",
+        "url": "https://open.spotify.com/album/1wMnOqOBIjWFdapjL7apri"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 912614,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/0OsZjtaB8djRq9NGVBwRLO"
+    },
+    {
+      "album": {
+        "name": "Surface Currents",
+        "url": "https://open.spotify.com/album/53keOu4yvXslAYXogXGtTf"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 912614,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/4ED1r1V1kA5BGmTTYc4nf2"
+    },
+    {
+      "album": {
+        "name": "Evolution: Seeds & Streams",
+        "url": "https://open.spotify.com/album/3dDGq4AsCmgx1veAiJwrJt"
+      },
+      "artists": [
+        {
+          "name": "John Ellis",
+          "url": "https://open.spotify.com/artist/4rFHlpdKQUsvRYXbpoffXQ"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410278,
+      "name": "Poemander",
+      "url": "https://open.spotify.com/track/1ajcoXnHEoQbRyfMlEAGBb"
+    },
+    {
+      "album": {
+        "name": "Clarinet & Piano: Selected Works, Vol. 1",
+        "url": "https://open.spotify.com/album/1Og9tQJXutnIGZlZJrqVvM"
+      },
+      "artists": [
+        {
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289413,
+      "name": "Snow Canon",
+      "url": "https://open.spotify.com/track/7c4BrwUPbpKWpTWISpPOcp"
+    },
+    {
+      "album": {
+        "name": "Keleketla!",
+        "url": "https://open.spotify.com/album/0sqETr5mwDf494FaWzjnGD"
+      },
+      "artists": [
+        {
+          "name": "Keleketla!",
+          "url": "https://open.spotify.com/artist/7jIuM7cuEe0bBfoNhISVXU"
+        },
+        {
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+        },
+        {
+          "name": "ESKA",
+          "url": "https://open.spotify.com/artist/6pBfwu2Yt96wWprf96vhpg"
+        },
+        {
+          "name": "Tamar Osborn",
+          "url": "https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384400,
+      "name": "Swift Gathering",
+      "url": "https://open.spotify.com/track/0EizsVwsA4ABOtMXMS5REX"
+    },
+    {
+      "album": {
+        "name": "New Words for Old Wounds",
+        "url": "https://open.spotify.com/album/7v1e4jHG8B86JeLsyQvmyc"
+      },
+      "artists": [
+        {
+          "name": "William Ryan Fritch",
+          "url": "https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138948,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/3l3Wh4KRKll7nFdpCFfDe5"
+    },
+    {
+      "album": {
+        "name": "Orchestral Studies Collectanea",
+        "url": "https://open.spotify.com/album/4dFXejeA9c9P8wWpP4jiEM"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        },
+        {
+          "name": "Tyresta",
+          "url": "https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199502,
+      "name": "Violette",
+      "url": "https://open.spotify.com/track/5zlrVbeDcSWQRnX6QM88aA"
+    },
+    {
+      "album": {
+        "name": "By the River",
+        "url": "https://open.spotify.com/album/2XxkxuDG1NmPw1kGF8qyAp"
+      },
+      "artists": [
+        {
+          "name": "Valotihkuu",
+          "url": "https://open.spotify.com/artist/0OylZQzS2T7iRxTUzvdnhL"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244615,
+      "name": "Whispering Wind",
+      "url": "https://open.spotify.com/track/4sV8Xi1vPf4p6ILk6g6gJo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8ZQoKVKhqln"
 }

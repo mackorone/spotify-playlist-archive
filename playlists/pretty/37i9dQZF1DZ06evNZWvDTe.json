@@ -1,31 +1,39 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 9701,
+  "num_followers": 9806,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDBkNTBhYWI5ODQwZTZmMWNjNjI3NTJlNWQwYTg0YjMxOA==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDBlNTE2MzUyNWNlMzNhNjU0NjY3Yjc5MzUxNjFmNmRhNA==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
-        "name": "Otan",
-        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+        "name": "Vawulence (Remix)",
+        "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
       },
       "artists": [
         {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        },
+        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
         }
       ],
-      "duration_ms": 196951,
-      "name": "Otan",
-      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
+      "duration_ms": 174315,
+      "name": "Vawulence (Remix)",
+      "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Till We Die (feat. Ruger)",
         "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
@@ -45,7 +53,23 @@
       "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "JAMZ",
         "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
@@ -65,7 +89,7 @@
       "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
@@ -85,7 +109,7 @@
       "url": "https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
@@ -125,27 +149,7 @@
       "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 221603,
-      "name": "No Kissing Baby",
-      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "JAMZ",
         "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
@@ -165,27 +169,27 @@
       "url": "https://open.spotify.com/track/0ou0qN9oPjJ442ZHrEksLx"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 223166,
-      "name": "Can't Let You Go (feat. King Promise)",
-      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
+      "duration_ms": 221603,
+      "name": "No Kissing Baby",
+      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Adonai (Remix) [feat. Castro]",
         "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
@@ -205,7 +209,27 @@
       "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 223166,
+      "name": "Can't Let You Go (feat. King Promise)",
+      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "PALMWINE DIARIES VOL.1",
         "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
@@ -233,7 +257,7 @@
       "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
@@ -253,7 +277,27 @@
       "url": "https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 129427,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
@@ -277,47 +321,7 @@
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 191719,
-      "name": "Anadwo (feat. King Promise)",
-      "url": "https://open.spotify.com/track/5y1xgWDqsyrcOY7xrlwakX"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 129427,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
@@ -337,27 +341,7 @@
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Oofeets",
-        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Prince Bright",
-          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Oofeets",
-      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
@@ -377,47 +361,7 @@
       "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 212932,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Labadi (feat. King Promise)",
-      "url": "https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Africa Unite",
         "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
@@ -437,27 +381,67 @@
       "url": "https://open.spotify.com/track/7h35uAmKtfoUwTiUhHkmjs"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
-        "name": "Epistles of Mama",
-        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
+        "name": "Oofeets",
+        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Oofeets",
+      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
+      },
+      "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         }
       ],
-      "duration_ms": 207150,
-      "name": "Odo Bi",
-      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+      "duration_ms": 212932,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 191719,
+      "name": "Anadwo (feat. King Promise)",
+      "url": "https://open.spotify.com/track/5y1xgWDqsyrcOY7xrlwakX"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
@@ -477,7 +461,47 @@
       "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Epistles of Mama",
+        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 207150,
+      "name": "Odo Bi",
+      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Labadi (feat. King Promise)",
+      "url": "https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "M3gye Wo Girl (feat. Shatta Wale)",
         "url": "https://open.spotify.com/album/4MaseQ5e2j7Au8NaYrtyd4"
@@ -497,7 +521,7 @@
       "url": "https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
@@ -517,27 +541,47 @@
       "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+        "name": "This Is Not The Tape, Sorry 4 The Wait II",
+        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+      "duration_ms": 152369,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 286039,
+      "name": "Asikyire",
+      "url": "https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
@@ -557,27 +601,27 @@
       "url": "https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 300000,
-      "name": "She Bad (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5"
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Tonga",
         "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
@@ -597,43 +641,7 @@
       "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
-        }
-      ],
-      "duration_ms": 205578,
-      "name": "Mewu (feat. Akwaboah)",
-      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Rollies and Cigars",
-      "url": "https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/2OASYXR3lBYmnNKIT26hdq"
@@ -657,27 +665,7 @@
       "url": "https://open.spotify.com/track/6rjkvAGpEeyf67CAM9Lb09"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Burna Boy N Aka",
-          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
-        }
-      ],
-      "duration_ms": 258964,
-      "name": "Special Sumone (feat. Burna Boy n Aka)",
-      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/0uG6zMQnNUmVvI20N4lr1S"
@@ -693,67 +681,7 @@
       "url": "https://open.spotify.com/track/2EWgz1dixRunlenKM26QVo"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "This Is Not The Tape, Sorry 4 The Wait II",
-        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "Jehovah",
-      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Planning & Plotting",
-        "url": "https://open.spotify.com/album/5tzGN7v8ThskOevWZtZCUS"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/39XhbcJa05wPLIEHid0ETX"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL"
-      },
-      "artists": [
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 286039,
-      "name": "Asikyire",
-      "url": "https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "JAMZ",
         "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
@@ -762,54 +690,34 @@
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 223157,
-      "name": "Confam",
-      "url": "https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi"
+      "duration_ms": 300000,
+      "name": "She Bad (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
-        "name": "Hope (Brighter Day)",
-        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
         }
       ],
-      "duration_ms": 316421,
-      "name": "Hope (Brighter Day)",
-      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
+      "duration_ms": 207761,
+      "name": "Rollies and Cigars",
+      "url": "https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Who Da Man",
-        "url": "https://open.spotify.com/album/1ls27oDCfeUr4wIS4rupur"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Who Da Man",
-      "url": "https://open.spotify.com/track/397tmDWdvcdlAL1UaaJpi3"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
@@ -820,36 +728,16 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
         }
       ],
-      "duration_ms": 287261,
-      "name": "Always on My Mind (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Cougar (feat. Lojay)",
-      "url": "https://open.spotify.com/track/2a6AVT30VFGQ1ceA6PE3cA"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Masta Groove",
         "url": "https://open.spotify.com/album/5JdBaiXMegtbhQFdYYnGfY"
@@ -873,7 +761,107 @@
       "url": "https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Burna Boy N Aka",
+          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
+        }
+      ],
+      "duration_ms": 258964,
+      "name": "Special Sumone (feat. Burna Boy n Aka)",
+      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Planning & Plotting",
+        "url": "https://open.spotify.com/album/5tzGN7v8ThskOevWZtZCUS"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/39XhbcJa05wPLIEHid0ETX"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Hope (Brighter Day)",
+        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 316421,
+      "name": "Hope (Brighter Day)",
+      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Cougar (feat. Lojay)",
+      "url": "https://open.spotify.com/track/2a6AVT30VFGQ1ceA6PE3cA"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Who Da Man",
+        "url": "https://open.spotify.com/album/1ls27oDCfeUr4wIS4rupur"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Who Da Man",
+      "url": "https://open.spotify.com/track/397tmDWdvcdlAL1UaaJpi3"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
@@ -889,26 +877,10 @@
       "url": "https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 261009,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
       "artists": [
         {
@@ -920,12 +892,28 @@
           "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
         }
       ],
-      "duration_ms": 248713,
-      "name": "Saa Okodie No (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
+      "duration_ms": 287261,
+      "name": "Always on My Mind (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Confam",
+      "url": "https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "One Shot (feat. Shatta Wale & Sarkodie)",
         "url": "https://open.spotify.com/album/67FjgBHWQh0hxSiGJOeaZm"
@@ -949,7 +937,7 @@
       "url": "https://open.spotify.com/track/2uhNP5JVU6OVoL5lOvH1tR"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "For Days",
         "url": "https://open.spotify.com/album/5nrP882U8mOIPRdkmJvjbK"
@@ -969,7 +957,43 @@
       "url": "https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 248713,
+      "name": "Saa Okodie No (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Dw3",
         "url": "https://open.spotify.com/album/4taXdW8VaokKg5ycpjgLl6"
@@ -993,34 +1017,10 @@
       "url": "https://open.spotify.com/track/4ISf9ZEUJyhcTBC4C8NP6l"
     },
     {
-      "added_at": "2024-01-02 12:15:46",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
-        "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
-        "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 242860,
-      "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
-      "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
-    },
-    {
-      "added_at": "2024-01-02 12:15:46",
-      "album": {
-        "name": "Chingam (feat. Bisa Kdei)",
-        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
       },
       "artists": [
         {
@@ -1028,13 +1028,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Chingam (feat. Bisa Kdei)",
-      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     }
   ],
   "unique_name": "This Is Sarkodie",

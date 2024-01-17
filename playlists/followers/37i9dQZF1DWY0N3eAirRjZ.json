@@ -1,580 +1,1757 @@
 {
-  "2022-05-30": 65149,
-  "2022-05-31": 65186,
-  "2022-06-01": 65248,
-  "2022-06-02": 65253,
-  "2022-06-03": 65290,
-  "2022-06-04": 65322,
-  "2022-06-05": 65366,
-  "2022-06-06": 65400,
-  "2022-06-07": 65439,
-  "2022-06-08": 65487,
-  "2022-06-09": 65514,
-  "2022-06-10": 65535,
-  "2022-06-11": 65561,
-  "2022-06-12": 65587,
-  "2022-06-13": 65612,
-  "2022-06-14": 65654,
-  "2022-06-15": 65674,
-  "2022-06-16": 65705,
-  "2022-06-17": 65730,
-  "2022-06-18": 65771,
-  "2022-06-19": 65876,
-  "2022-06-20": 65876,
-  "2022-06-21": 65898,
-  "2022-06-22": 65957,
-  "2022-06-23": 65957,
-  "2022-06-24": 65985,
-  "2022-06-25": 66012,
-  "2022-06-26": 66058,
-  "2022-06-27": 66095,
-  "2022-06-28": 66122,
-  "2022-06-29": 66144,
-  "2022-06-30": 66177,
-  "2022-07-01": 66207,
-  "2022-07-02": 66241,
-  "2022-07-03": 66271,
-  "2022-07-04": 66315,
-  "2022-07-05": 66347,
-  "2022-07-06": 66372,
-  "2022-07-07": 66405,
-  "2022-07-08": 66445,
-  "2022-07-09": 66469,
-  "2022-07-10": 66519,
-  "2022-07-11": 66573,
-  "2022-07-12": 66599,
-  "2022-07-13": 66631,
-  "2022-07-14": 66648,
-  "2022-07-15": 66671,
-  "2022-07-16": 66702,
-  "2022-07-17": 66746,
-  "2022-07-18": 66782,
-  "2022-07-19": 66819,
-  "2022-07-20": 66851,
-  "2022-07-21": 66875,
-  "2022-07-22": 66905,
-  "2022-07-23": 66946,
-  "2022-07-24": 66982,
-  "2022-07-25": 67026,
-  "2022-07-26": 67080,
-  "2022-07-27": 67113,
-  "2022-07-28": 67135,
-  "2022-07-29": 67160,
-  "2022-07-30": 67223,
-  "2022-07-31": 67223,
-  "2022-08-01": 67251,
-  "2022-08-02": 67310,
-  "2022-08-03": 67310,
-  "2022-08-04": 67336,
-  "2022-08-05": 67380,
-  "2022-08-06": 67425,
-  "2022-08-07": 67462,
-  "2022-08-08": 67501,
-  "2022-08-09": 67529,
-  "2022-08-10": 67556,
-  "2022-08-11": 67593,
-  "2022-08-12": 67636,
-  "2022-08-13": 67660,
-  "2022-08-14": 67698,
-  "2022-08-15": 67722,
-  "2022-08-16": 67746,
-  "2022-08-17": 67786,
-  "2022-08-18": 67808,
-  "2022-08-19": 67847,
-  "2022-08-20": 67864,
-  "2022-08-21": 67894,
-  "2022-08-22": 67928,
-  "2022-08-23": 67959,
-  "2022-08-24": 67984,
-  "2022-08-25": 68029,
-  "2022-08-26": 68076,
-  "2022-08-27": 68108,
-  "2022-08-28": 68144,
-  "2022-08-29": 68193,
-  "2022-08-30": 68232,
-  "2022-08-31": 68266,
-  "2022-09-01": 68289,
-  "2022-09-02": 68313,
-  "2022-09-03": 68353,
-  "2022-09-04": 68398,
-  "2022-09-05": 68438,
-  "2022-09-06": 68476,
-  "2022-09-07": 68535,
-  "2022-09-09": 68633,
-  "2022-09-10": 68680,
-  "2022-09-11": 68713,
-  "2022-09-12": 68744,
-  "2022-09-13": 68788,
-  "2022-09-15": 68860,
-  "2022-09-16": 68890,
-  "2022-09-17": 68921,
-  "2022-09-18": 68962,
-  "2022-09-19": 69013,
-  "2022-09-20": 69039,
-  "2022-09-21": 69068,
-  "2022-09-22": 69101,
-  "2022-09-23": 69137,
-  "2022-09-24": 69171,
-  "2022-09-25": 69211,
-  "2022-09-26": 69244,
-  "2022-09-27": 69282,
-  "2022-09-28": 69307,
-  "2022-09-29": 69326,
-  "2022-09-30": 69362,
-  "2022-10-01": 69418,
-  "2022-10-02": 69452,
-  "2022-10-03": 69488,
-  "2022-10-04": 69534,
-  "2022-10-05": 69571,
-  "2022-10-06": 69614,
-  "2022-10-07": 69647,
-  "2022-10-08": 69686,
-  "2022-10-09": 69784,
-  "2022-10-10": 69800,
-  "2022-10-11": 69841,
-  "2022-10-12": 69891,
-  "2022-10-13": 69932,
-  "2022-10-14": 69979,
-  "2022-10-15": 70018,
-  "2022-10-16": 70073,
-  "2022-10-17": 70123,
-  "2022-10-18": 70168,
-  "2022-10-19": 70199,
-  "2022-10-20": 70237,
-  "2022-10-21": 70282,
-  "2022-10-22": 70325,
-  "2022-10-23": 70370,
-  "2022-10-24": 70416,
-  "2022-10-25": 70455,
-  "2022-10-26": 70498,
-  "2022-10-27": 70550,
-  "2022-10-28": 70597,
-  "2022-10-29": 70639,
-  "2022-10-30": 70686,
-  "2022-10-31": 70749,
-  "2022-11-01": 70781,
-  "2022-11-02": 70818,
-  "2022-11-03": 70856,
-  "2022-11-04": 70894,
-  "2022-11-05": 70939,
-  "2022-11-06": 70985,
-  "2022-11-07": 71024,
-  "2022-11-08": 71055,
-  "2022-11-09": 71088,
-  "2022-11-10": 71118,
-  "2022-11-11": 71169,
-  "2022-11-12": 71219,
-  "2022-11-13": 71260,
-  "2022-11-14": 71294,
-  "2022-11-15": 71338,
-  "2022-11-16": 71386,
-  "2022-11-17": 71433,
-  "2022-11-18": 71457,
-  "2022-11-19": 71448,
-  "2022-11-20": 71461,
-  "2022-11-21": 71499,
-  "2022-11-22": 71608,
-  "2022-11-23": 71591,
-  "2022-11-24": 71662,
-  "2022-11-25": 71744,
-  "2022-11-26": 71795,
-  "2022-11-27": 71839,
-  "2022-11-28": 71891,
-  "2022-11-29": 71925,
-  "2022-11-30": 71978,
-  "2022-12-01": 72047,
-  "2022-12-02": 72085,
-  "2022-12-03": 72136,
-  "2022-12-04": 72203,
-  "2022-12-05": 72241,
-  "2022-12-06": 72291,
-  "2022-12-07": 72354,
-  "2022-12-08": 72414,
-  "2022-12-09": 72474,
-  "2022-12-10": 72530,
-  "2022-12-11": 72579,
-  "2022-12-12": 72623,
-  "2022-12-13": 72658,
-  "2022-12-14": 72712,
-  "2022-12-15": 72756,
-  "2022-12-16": 72804,
-  "2022-12-17": 72843,
-  "2022-12-18": 72882,
-  "2022-12-19": 72926,
-  "2022-12-20": 73008,
-  "2022-12-21": 73008,
-  "2022-12-22": 73035,
-  "2022-12-24": 73107,
-  "2022-12-25": 73153,
-  "2022-12-26": 73195,
-  "2022-12-27": 73244,
-  "2022-12-28": 73301,
-  "2022-12-29": 73340,
-  "2022-12-30": 73388,
-  "2022-12-31": 73454,
-  "2023-01-01": 73517,
-  "2023-01-02": 73580,
-  "2023-01-03": 73639,
-  "2023-01-04": 73683,
-  "2023-01-05": 73742,
-  "2023-01-06": 73811,
-  "2023-01-07": 73889,
-  "2023-01-08": 73903,
-  "2023-01-09": 73937,
-  "2023-01-10": 73976,
-  "2023-01-11": 74024,
-  "2023-01-12": 74073,
-  "2023-01-13": 74126,
-  "2023-01-14": 74248,
-  "2023-01-15": 74268,
-  "2023-01-16": 74325,
-  "2023-01-17": 74378,
-  "2023-01-18": 74426,
-  "2023-01-19": 74485,
-  "2023-01-20": 74558,
-  "2023-01-21": 74616,
-  "2023-01-22": 74702,
-  "2023-01-23": 74758,
-  "2023-01-24": 74837,
-  "2023-01-25": 74907,
-  "2023-01-26": 74965,
-  "2023-01-27": 75032,
-  "2023-01-28": 75079,
-  "2023-01-29": 75143,
-  "2023-01-30": 75198,
-  "2023-01-31": 75198,
-  "2023-02-01": 75279,
-  "2023-02-02": 75348,
-  "2023-02-03": 75420,
-  "2023-02-04": 75482,
-  "2023-02-05": 75524,
-  "2023-02-06": 75591,
-  "2023-02-07": 75649,
-  "2023-02-08": 75762,
-  "2023-02-09": 75762,
-  "2023-02-10": 75809,
-  "2023-02-11": 75855,
-  "2023-02-12": 75971,
-  "2023-02-13": 76009,
-  "2023-02-14": 76009,
-  "2023-02-15": 76050,
-  "2023-02-16": 76100,
-  "2023-02-17": 76148,
-  "2023-02-18": 76246,
-  "2023-02-19": 76250,
-  "2023-02-20": 76302,
-  "2023-02-21": 76342,
-  "2023-02-22": 76402,
-  "2023-02-23": 76440,
-  "2023-02-24": 76474,
-  "2023-02-25": 76533,
-  "2023-02-26": 76575,
-  "2023-02-27": 76698,
-  "2023-02-28": 76698,
-  "2023-03-01": 76765,
-  "2023-03-02": 76816,
-  "2023-03-03": 76869,
-  "2023-03-04": 76921,
-  "2023-03-05": 77033,
-  "2023-03-06": 77033,
-  "2023-03-07": 77093,
-  "2023-03-08": 77131,
-  "2023-03-09": 77181,
-  "2023-03-10": 77223,
-  "2023-03-11": 77280,
-  "2023-03-12": 77331,
-  "2023-03-13": 77393,
-  "2023-03-14": 77446,
-  "2023-03-15": 77505,
-  "2023-03-16": 77558,
-  "2023-03-17": 77558,
-  "2023-03-18": 77656,
-  "2023-03-19": 77729,
-  "2023-03-20": 77776,
-  "2023-03-21": 77833,
-  "2023-03-22": 77885,
-  "2023-03-23": 77920,
-  "2023-03-24": 77920,
-  "2023-03-25": 78023,
-  "2023-03-26": 78089,
-  "2023-03-27": 78158,
-  "2023-03-28": 78213,
-  "2023-03-29": 78274,
-  "2023-03-30": 78382,
-  "2023-03-31": 78382,
-  "2023-04-01": 78442,
-  "2023-04-02": 78513,
-  "2023-04-03": 78564,
-  "2023-04-04": 78630,
-  "2023-04-05": 78677,
-  "2023-04-06": 78733,
-  "2023-04-07": 78805,
-  "2023-04-09": 78941,
-  "2023-04-10": 79024,
-  "2023-04-11": 79159,
-  "2023-04-12": 79159,
-  "2023-04-13": 79247,
-  "2023-04-14": 79309,
-  "2023-04-15": 79394,
-  "2023-04-16": 79483,
-  "2023-04-17": 79559,
-  "2023-04-18": 79623,
-  "2023-04-19": 79713,
-  "2023-04-20": 79794,
-  "2023-04-21": 79869,
-  "2023-04-22": 79952,
-  "2023-04-23": 80025,
-  "2023-04-24": 80101,
-  "2023-04-25": 80184,
-  "2023-04-26": 80281,
-  "2023-04-27": 80345,
-  "2023-04-28": 80440,
-  "2023-04-29": 80527,
-  "2023-04-30": 80608,
-  "2023-05-01": 80705,
-  "2023-05-02": 80845,
-  "2023-05-03": 81191,
-  "2023-05-04": 81342,
-  "2023-05-05": 81450,
-  "2023-05-06": 81546,
-  "2023-05-07": 81636,
-  "2023-05-08": 81716,
-  "2023-05-09": 81772,
-  "2023-05-10": 81853,
-  "2023-05-11": 81924,
-  "2023-05-12": 81986,
-  "2023-05-13": 82081,
-  "2023-05-14": 82257,
-  "2023-05-15": 82353,
-  "2023-05-16": 82440,
-  "2023-05-17": 82539,
-  "2023-05-18": 82622,
-  "2023-05-19": 82720,
-  "2023-05-20": 82881,
-  "2023-05-21": 82881,
-  "2023-05-22": 82881,
-  "2023-05-23": 83078,
-  "2023-05-24": 83237,
-  "2023-05-25": 83268,
-  "2023-05-26": 83358,
-  "2023-05-27": 83442,
-  "2023-05-28": 83647,
-  "2023-05-29": 83647,
-  "2023-05-30": 83817,
-  "2023-05-31": 83879,
-  "2023-06-01": 83964,
-  "2023-06-02": 84041,
-  "2023-06-03": 84115,
-  "2023-06-04": 84186,
-  "2023-06-05": 84270,
-  "2023-06-06": 84345,
-  "2023-06-07": 84420,
-  "2023-06-08": 84508,
-  "2023-06-09": 84573,
-  "2023-06-10": 84646,
-  "2023-06-11": 84721,
-  "2023-06-12": 84803,
-  "2023-06-13": 84870,
-  "2023-06-14": 84870,
-  "2023-06-15": 85009,
-  "2023-06-16": 85075,
-  "2023-06-17": 85119,
-  "2023-06-18": 85204,
-  "2023-06-19": 85277,
-  "2023-06-20": 85346,
-  "2023-06-21": 85396,
-  "2023-06-22": 85465,
-  "2023-06-23": 85518,
-  "2023-06-24": 85593,
-  "2023-06-25": 85662,
-  "2023-06-26": 85750,
-  "2023-06-27": 85799,
-  "2023-06-28": 85853,
-  "2023-06-29": 85919,
-  "2023-06-30": 85986,
-  "2023-07-01": 86102,
-  "2023-07-02": 86102,
-  "2023-07-03": 86180,
-  "2023-07-04": 86227,
-  "2023-07-05": 86273,
-  "2023-07-06": 86392,
-  "2023-07-07": 86392,
-  "2023-07-08": 86455,
-  "2023-07-09": 86525,
-  "2023-07-10": 86602,
-  "2023-07-11": 86655,
-  "2023-07-12": 86738,
-  "2023-07-13": 86804,
-  "2023-07-14": 86869,
-  "2023-07-15": 86923,
-  "2023-07-16": 87003,
-  "2023-07-17": 87087,
-  "2023-07-18": 87138,
-  "2023-07-19": 87200,
-  "2023-07-20": 87242,
-  "2023-07-21": 87298,
-  "2023-07-22": 87376,
-  "2023-07-23": 87442,
-  "2023-07-24": 87498,
-  "2023-07-25": 87563,
-  "2023-07-26": 87608,
-  "2023-07-27": 87662,
-  "2023-07-28": 87742,
-  "2023-07-29": 87801,
-  "2023-07-30": 87874,
-  "2023-07-31": 87937,
-  "2023-08-01": 88008,
-  "2023-08-02": 88050,
-  "2023-08-03": 88117,
-  "2023-08-04": 88179,
-  "2023-08-05": 88240,
-  "2023-08-06": 88368,
-  "2023-08-07": 88368,
-  "2023-08-08": 88409,
-  "2023-08-09": 88443,
-  "2023-08-10": 88490,
-  "2023-08-11": 88543,
-  "2023-08-12": 88632,
-  "2023-08-13": 88705,
-  "2023-08-14": 88785,
-  "2023-08-15": 88951,
-  "2023-08-16": 88951,
-  "2023-08-17": 89026,
-  "2023-08-18": 89098,
-  "2023-08-19": 89172,
-  "2023-08-20": 89254,
-  "2023-08-21": 89341,
-  "2023-08-22": 89402,
-  "2023-08-23": 89451,
-  "2023-08-24": 89514,
-  "2023-08-25": 89982,
-  "2023-08-26": 90591,
-  "2023-08-27": 91229,
-  "2023-08-28": 91705,
-  "2023-08-29": 91928,
-  "2023-08-30": 92015,
-  "2023-08-31": 92111,
-  "2023-09-01": 92329,
-  "2023-09-02": 92329,
-  "2023-09-03": 92458,
-  "2023-09-04": 92542,
-  "2023-09-05": 92658,
-  "2023-09-06": 92745,
-  "2023-09-07": 92846,
-  "2023-09-08": 92943,
-  "2023-09-09": 93080,
-  "2023-09-10": 93207,
-  "2023-09-11": 93322,
-  "2023-09-12": 93429,
-  "2023-09-13": 93535,
-  "2023-09-14": 93638,
-  "2023-09-15": 93710,
-  "2023-09-16": 93817,
-  "2023-09-17": 93917,
-  "2023-09-18": 94017,
-  "2023-09-19": 94122,
-  "2023-09-20": 94186,
-  "2023-09-21": 94279,
-  "2023-09-22": 94344,
-  "2023-09-23": 94463,
-  "2023-09-24": 94560,
-  "2023-09-25": 94671,
-  "2023-09-26": 94767,
-  "2023-09-27": 94823,
-  "2023-09-28": 94883,
-  "2023-09-29": 94960,
-  "2023-09-30": 95032,
-  "2023-10-01": 95117,
-  "2023-10-02": 95187,
-  "2023-10-03": 95271,
-  "2023-10-04": 95329,
-  "2023-10-05": 95396,
-  "2023-10-06": 95455,
-  "2023-10-07": 95516,
-  "2023-10-08": 95580,
-  "2023-10-09": 95659,
-  "2023-10-10": 95703,
-  "2023-10-11": 95811,
-  "2023-10-12": 95811,
-  "2023-10-13": 95848,
-  "2023-10-14": 95899,
-  "2023-10-15": 95963,
-  "2023-10-16": 96016,
-  "2023-10-17": 96049,
-  "2023-10-18": 96084,
-  "2023-10-19": 96117,
-  "2023-10-20": 96185,
-  "2023-10-21": 96241,
-  "2023-10-22": 96304,
-  "2023-10-23": 96353,
-  "2023-10-24": 96394,
-  "2023-10-25": 96452,
-  "2023-10-26": 96504,
-  "2023-10-27": 96565,
-  "2023-10-28": 96621,
-  "2023-10-29": 96679,
-  "2023-10-30": 96792,
-  "2023-10-31": 96792,
-  "2023-11-01": 96835,
-  "2023-11-02": 96879,
-  "2023-11-03": 96936,
-  "2023-11-04": 96976,
-  "2023-11-05": 97032,
-  "2023-11-06": 97088,
-  "2023-11-07": 97138,
-  "2023-11-08": 97178,
-  "2023-11-09": 97221,
-  "2023-11-10": 97273,
-  "2023-11-11": 97337,
-  "2023-11-12": 97369,
-  "2023-11-13": 97417,
-  "2023-11-14": 97450,
-  "2023-11-15": 97450,
-  "2023-11-16": 97537,
-  "2023-11-17": 97629,
-  "2023-11-18": 97629,
-  "2023-11-19": 97683,
-  "2023-11-20": 97711,
-  "2023-11-21": 97759,
-  "2023-11-22": 97799,
-  "2023-11-23": 97840,
-  "2023-11-24": 97881,
-  "2023-11-25": 97905,
-  "2023-11-26": 97929,
-  "2023-11-27": 97977,
-  "2023-11-28": 98004,
-  "2023-11-29": 98083,
-  "2023-11-30": 98083,
-  "2023-12-01": 98128,
-  "2023-12-02": 98168,
-  "2023-12-03": 98212,
-  "2023-12-04": 98248,
-  "2023-12-05": 98286,
-  "2023-12-06": 98323,
-  "2023-12-07": 98353,
-  "2023-12-08": 98392,
-  "2023-12-09": 98446,
-  "2023-12-10": 98518,
-  "2023-12-11": 98559,
-  "2023-12-12": 98578,
-  "2023-12-13": 98615,
-  "2023-12-14": 98671,
-  "2023-12-15": 98697,
-  "2023-12-16": 98740,
-  "2023-12-17": 98784,
-  "2023-12-18": 98834,
-  "2023-12-19": 98860,
-  "2023-12-20": 98893,
-  "2023-12-21": 98932,
-  "2023-12-22": 98965,
-  "2023-12-23": 98982,
-  "2023-12-24": 99024,
-  "2023-12-25": 99075,
-  "2023-12-26": 99128,
-  "2023-12-27": 99153,
-  "2023-12-30": 99315,
-  "2023-12-31": 99380,
-  "2024-01-01": 99426,
-  "2024-01-02": 99462,
-  "2024-01-03": 99522
+  "2024-01-17": 100266,
+  "date_first_scraped": "2022-05-30",
+  "description": "Please consider donating to Hawai'i Community Foundation's <a href=\"https://www.hawaiicommunityfoundation.org/maui-strong?fbclid=IwAR13k_bWcOzvA0EM6bF6CSmkSktK8G[%E2%80%A6]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ\">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui. ",
+  "name": "All the Aloha: Native Hawaii",
+  "tracks": [
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters, Vol. 2",
+        "url": "https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        },
+        {
+          "name": "David Kamakahi",
+          "url": "https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 256853,
+      "name": "'Ulili E - The Wandering Tattler",
+      "url": "https://open.spotify.com/track/7zyaeT1r2sjm9r1D74R6YR"
+    },
+    {
+      "album": {
+        "name": "Young Hawaii Plays Old Hawaii",
+        "url": "https://open.spotify.com/album/73EtyWy6eklV217lXyE89J"
+      },
+      "artists": [
+        {
+          "name": "Hui Ohana",
+          "url": "https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1"
+        },
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        },
+        {
+          "name": "Nedward Ka'apana",
+          "url": "https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR"
+        },
+        {
+          "name": "Dennis Pavao",
+          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149093,
+      "name": "'Ulupalakua",
+      "url": "https://open.spotify.com/track/2BLgfaenzrOblHnbojP3KY"
+    },
+    {
+      "album": {
+        "name": "Ohana",
+        "url": "https://open.spotify.com/album/5pqQAWqUSg4By78q9Ngx9C"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259266,
+      "name": "'\u00dclili E - vocal duet with David Kamakahi",
+      "url": "https://open.spotify.com/track/3bk9omZQSOmqpEo19iz1Xp"
+    },
+    {
+      "album": {
+        "name": "'Ohana",
+        "url": "https://open.spotify.com/album/38FeFAx49WBtJtC9hVg776"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        },
+        {
+          "name": "David Kamakahi",
+          "url": "https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 257800,
+      "name": "'\u016alili E",
+      "url": "https://open.spotify.com/track/3CyKFRT6jd0ADhxfDp7xif"
+    },
+    {
+      "album": {
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256466,
+      "name": "A Place In The Sun",
+      "url": "https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N"
+    },
+    {
+      "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/6EewmAh99YpSBvAfC8nV8o"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Jack Johnson with Paula Fuga",
+          "url": "https://open.spotify.com/artist/6C2EeNTJVptYpWFqeh6ifU"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 256466,
+      "name": "A Place In The Sun",
+      "url": "https://open.spotify.com/track/6bihRFJEMi8nDcC2zIwQKp"
+    },
+    {
+      "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/5u6B01T3unVu8ZuHUxGiID"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256466,
+      "name": "A Place In The Sun (feat. Jack Johnson with Paula Fuga)",
+      "url": "https://open.spotify.com/track/1g9zSBL1faQ12FBBuvVlZ5"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Blossom",
+        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
+      },
+      "artists": [
+        {
+          "name": "Raiatea Helm",
+          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "Ahulili",
+      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
+    },
+    {
+      "album": {
+        "name": "Music for the Hawaiian Islands, Vol.2 (Kahelelani, Niihau)",
+        "url": "https://open.spotify.com/album/4Mff6HYIsdgnedJYA5Bc5U"
+      },
+      "artists": [
+        {
+          "name": "Kuana Torres Kahele",
+          "url": "https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139289,
+      "name": "Aia I Niihau Kuu Pawehe",
+      "url": "https://open.spotify.com/track/0HluOOcAWZWaEDzemP90Na"
+    },
+    {
+      "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276693,
+      "name": "Alika",
+      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
+    },
+    {
+      "album": {
+        "name": "Proud as the Sun",
+        "url": "https://open.spotify.com/album/3hpjWOp3vPo04z7iWtT4c3"
+      },
+      "artists": [
+        {
+          "name": "Kimie Miner",
+          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/30KQItegXK7Refn1PbNcmI"
+    },
+    {
+      "album": {
+        "name": "E O Mai",
+        "url": "https://open.spotify.com/album/53GlD1PZG8AWOhpgCIIpCd"
+      },
+      "artists": [
+        {
+          "name": "Keali'i Reichel",
+          "url": "https://open.spotify.com/artist/5QieUEtijtUF3ABBp5JVYP"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277440,
+      "name": "E O Mai",
+      "url": "https://open.spotify.com/track/6kXkbhwZcz6d7h04WsYswt"
+    },
+    {
+      "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1"
+      },
+      "artists": [
+        {
+          "name": "Kolohe Kai",
+          "url": "https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8"
+        },
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Feel the Sunshine",
+      "url": "https://open.spotify.com/track/6ExZ4vG23GsUgAATjdPxwg"
+    },
+    {
+      "album": {
+        "name": "Funny Talk",
+        "url": "https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Funny Talk (with Fiji)",
+      "url": "https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6"
+    },
+    {
+      "album": {
+        "name": "Elua",
+        "url": "https://open.spotify.com/album/2E0mlWGm6bgO8AHGuVVYDf"
+      },
+      "artists": [
+        {
+          "name": "Cecilio & Kapono",
+          "url": "https://open.spotify.com/artist/2GG9Jh4qPx9iT0ynCtEFsy"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167866,
+      "name": "Goodnight And Goodmorning",
+      "url": "https://open.spotify.com/track/4LcetXHTxpEbUsPRYmVO90"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Justin Kawika Young",
+          "url": "https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220440,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ"
+    },
+    {
+      "album": {
+        "name": "Uluwehi Sings Na Mele Hula Aloha",
+        "url": "https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe"
+      },
+      "artists": [
+        {
+          "name": "Uluwehi Guerrero",
+          "url": "https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 155333,
+      "name": "Haleakala Hula",
+      "url": "https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb"
+    },
+    {
+      "album": {
+        "name": "E Walea",
+        "url": "https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt"
+      },
+      "artists": [
+        {
+          "name": "Kalani Pe'a",
+          "url": "https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189479,
+      "name": "Hanalei I Ka Pilimoe",
+      "url": "https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ"
+    },
+    {
+      "album": {
+        "name": "Facing Future",
+        "url": "https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9"
+      },
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305693,
+      "name": "Hawai'i '78 Introduction",
+      "url": "https://open.spotify.com/track/6DynsXxu5oaCgkt4lXutoM"
+    },
+    {
+      "album": {
+        "name": "I Le\u02bba",
+        "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156432,
+      "name": "Heha Waipi\u02bbo",
+      "url": "https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh"
+    },
+    {
+      "album": {
+        "name": "Pure Gabby",
+        "url": "https://open.spotify.com/album/2Ta9PRl0lN9Bz2SDttccd1"
+      },
+      "artists": [
+        {
+          "name": "Gabby Pahinui",
+          "url": "https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248893,
+      "name": "Hi'ilawe",
+      "url": "https://open.spotify.com/track/7qTlRtGYNd9emAr8eB6xLk"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Island Breeze",
+        "url": "https://open.spotify.com/album/2rOCJTDQKbDSxYWG930bMb"
+      },
+      "artists": [
+        {
+          "name": "Uluwehi Guerrero",
+          "url": "https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 151880,
+      "name": "Hilo Hula",
+      "url": "https://open.spotify.com/track/2XctnPVkwBKFcRWf0QGaGF"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2S6Y4khGh8zG8RVVvBAcP6"
+      },
+      "artists": [
+        {
+          "name": "Jay.Keyz",
+          "url": "https://open.spotify.com/artist/735Dj0ds517E8X1uPiJ35s"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236024,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2HvDdnIM3gzROq4jZ0t2ha"
+    },
+    {
+      "album": {
+        "name": "Honolulu City Lights",
+        "url": "https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3"
+      },
+      "artists": [
+        {
+          "name": "Keola & Kapono Beamer",
+          "url": "https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203960,
+      "name": "Honolulu City Lights",
+      "url": "https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163386,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
+    },
+    {
+      "album": {
+        "name": "Slack Key Huaka`i",
+        "url": "https://open.spotify.com/album/7hKvLXhooRXdqytXRZ6Ib7"
+      },
+      "artists": [
+        {
+          "name": "Patrick Landeza",
+          "url": "https://open.spotify.com/artist/7ujNPg1x9Q4n0CRNZ8JseP"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206072,
+      "name": "Huaka`i",
+      "url": "https://open.spotify.com/track/0ZAXFqWIT7Abz7RkXeMdFJ"
+    },
+    {
+      "album": {
+        "name": "Songs of Aloha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K"
+      },
+      "artists": [
+        {
+          "name": "Cyril Pahinui",
+          "url": "https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 310106,
+      "name": "Ipo Lei Manu",
+      "url": "https://open.spotify.com/track/4cXRygylIkwc1EgOJltbIw"
+    },
+    {
+      "album": {
+        "name": "6 & 12 String Slack Key Guitar",
+        "url": "https://open.spotify.com/album/7dgIUPKunBub5OYXGJf5UQ"
+      },
+      "artists": [
+        {
+          "name": "Cyril Pahinui",
+          "url": "https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310973,
+      "name": "Ipo Lei Manu",
+      "url": "https://open.spotify.com/track/0j1rPE5I0707BqbolAyT0G"
+    },
+    {
+      "album": {
+        "name": "6 & 12 String Slack Key Guitar",
+        "url": "https://open.spotify.com/album/5zuoYfUizX3LXBgKPSyXEk"
+      },
+      "artists": [
+        {
+          "name": "Cyril Pahinui",
+          "url": "https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 310973,
+      "name": "Ipo Lei Manu",
+      "url": "https://open.spotify.com/track/3jFOru56OBjrH30UUBkGpT"
+    },
+    {
+      "album": {
+        "name": "6 & 12 String Slack Key",
+        "url": "https://open.spotify.com/album/5v62N5kiseJw91NvmVt0S5"
+      },
+      "artists": [
+        {
+          "name": "Cyril Pahinui",
+          "url": "https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 313133,
+      "name": "Ipo Lei Manu",
+      "url": "https://open.spotify.com/track/5WyLpJPhodJDTTgtJEbq71"
+    },
+    {
+      "album": {
+        "name": "Na Pua o Hawai'i",
+        "url": "https://open.spotify.com/album/1KCDDKBw7SHsjAi8YqhtRq"
+      },
+      "artists": [
+        {
+          "name": "Makaha Sons & Friends",
+          "url": "https://open.spotify.com/artist/2kBl6WvpHJRYJ48UJbGIel"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198760,
+      "name": "Ka Loke",
+      "url": "https://open.spotify.com/track/4RvJa9TelSwFemuSziQyt2"
+    },
+    {
+      "album": {
+        "name": "Gabby",
+        "url": "https://open.spotify.com/album/3L1Dl7Nd63jKDQ3eTWfzkQ"
+      },
+      "artists": [
+        {
+          "name": "Gabby Pahinui",
+          "url": "https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173812,
+      "name": "Ka Makani Ka'ili Aloha",
+      "url": "https://open.spotify.com/track/1PixVvyOPz9LWBJAVUnVfP"
+    },
+    {
+      "album": {
+        "name": "Don McDiarmid, Jr. Presents: Hula Records' Hits!",
+        "url": "https://open.spotify.com/album/5p86JG9vj4i2Ie35S3ZFPg"
+      },
+      "artists": [
+        {
+          "name": "Edith Kanaka'ole",
+          "url": "https://open.spotify.com/artist/3GXiLen9s3pxDqeCYUiYdo"
+        },
+        {
+          "name": "Don McDiarmid, Jr.",
+          "url": "https://open.spotify.com/artist/0CHzW9ItbXe4NgyhJH6Scp"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300986,
+      "name": "Ka Uluwehi O Ke Kai",
+      "url": "https://open.spotify.com/track/2rM6AcX6kgljFsVYSplNdW"
+    },
+    {
+      "album": {
+        "name": "Rabbit Island Music Festival",
+        "url": "https://open.spotify.com/album/6lINMX2Lg6bcCmZKw69OXQ"
+      },
+      "artists": [
+        {
+          "name": "Gabby Pahinui",
+          "url": "https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "Kaua'I Beauty",
+      "url": "https://open.spotify.com/track/4ZATv5J2rmfnj3mta0qBAe"
+    },
+    {
+      "album": {
+        "name": "Kawaikini",
+        "url": "https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Kimie Miner",
+          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270840,
+      "name": "Kawaikini",
+      "url": "https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya"
+    },
+    {
+      "album": {
+        "name": "Robi Calling",
+        "url": "https://open.spotify.com/album/0TFTUwSIwkNZigONKD5ovm"
+      },
+      "artists": [
+        {
+          "name": "Robi Kahakalau",
+          "url": "https://open.spotify.com/artist/1qXPmO8voLWvytAkh7ffuP"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "Kawohikukapulani",
+      "url": "https://open.spotify.com/track/169se8C2wnc9nSEspeNsag"
+    },
+    {
+      "album": {
+        "name": "Eia",
+        "url": "https://open.spotify.com/album/3TVoC0p4iQP3aFSE4yaADG"
+      },
+      "artists": [
+        {
+          "name": "Natalie Ai Kamauu",
+          "url": "https://open.spotify.com/artist/2xNjvgxtzsBxo3iAyrxGux"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "Ke Kuko E Ka Manawa",
+      "url": "https://open.spotify.com/track/0MmoH7CeEX43zEYfI2YHxd"
+    },
+    {
+      "album": {
+        "name": "HAPA",
+        "url": "https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De"
+      },
+      "artists": [
+        {
+          "name": "Hapa",
+          "url": "https://open.spotify.com/artist/3w0M90LteiOnPZkklwQPqZ"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Ku'u Lei Awapuhi",
+      "url": "https://open.spotify.com/track/2l0zhAFbn7mELo8sCXbXcT"
+    },
+    {
+      "album": {
+        "name": "E Walea",
+        "url": "https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt"
+      },
+      "artists": [
+        {
+          "name": "Kalani Pe'a",
+          "url": "https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223412,
+      "name": "Ku'u Poli'ahu",
+      "url": "https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl"
+    },
+    {
+      "album": {
+        "name": "Lava (From \"Lava\")",
+        "url": "https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9"
+      },
+      "artists": [
+        {
+          "name": "Kuana Torres Kahele",
+          "url": "https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn"
+        },
+        {
+          "name": "Napua Greig",
+          "url": "https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B"
+        },
+        {
+          "name": "James Ford Murphy",
+          "url": "https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346493,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ"
+    },
+    {
+      "album": {
+        "name": "K\u012bk\u0101 Kila Meets K\u012b H\u014d'alu",
+        "url": "https://open.spotify.com/album/66dhjYbfLwwC4r87dSFYl6"
+      },
+      "artists": [
+        {
+          "name": "Bob Brozman",
+          "url": "https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V"
+        },
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282706,
+      "name": "Lei 'Awapuhi",
+      "url": "https://open.spotify.com/track/1dVyAJFUCAD5TjbWTKzpk0"
+    },
+    {
+      "album": {
+        "name": "K\u012bk\u0101 Kila Meets K\u012b H\u014d'alu",
+        "url": "https://open.spotify.com/album/4vv4ccQisOvmQcYAuItac5"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        },
+        {
+          "name": "Bob Brozman",
+          "url": "https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279640,
+      "name": "Lei 'Awapuhi (Yellow Ginger Lei)",
+      "url": "https://open.spotify.com/track/65u37xoJP0KacbWz40chq9"
+    },
+    {
+      "album": {
+        "name": "K\u012bk\u0101 Kila Meets K\u012b H\u014d'alu",
+        "url": "https://open.spotify.com/album/3lD6160vY7QdfYnjTh4tid"
+      },
+      "artists": [
+        {
+          "name": "Bob Brozman",
+          "url": "https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V"
+        },
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 279640,
+      "name": "Lei 'Awapuhi - Yellow Ginger Lei",
+      "url": "https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters, Vol. 2",
+        "url": "https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        },
+        {
+          "name": "Bob Brozman",
+          "url": "https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 278840,
+      "name": "Lei 'Awapuhi - Yellow Ginger Lei",
+      "url": "https://open.spotify.com/track/10sYxXLdFfPn93JPVBUBfL"
+    },
+    {
+      "album": {
+        "name": "HAPA",
+        "url": "https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De"
+      },
+      "artists": [
+        {
+          "name": "Hapa",
+          "url": "https://open.spotify.com/artist/3w0M90LteiOnPZkklwQPqZ"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329040,
+      "name": "Lei Pikake",
+      "url": "https://open.spotify.com/track/7xZZlNe5OhKQmrPvj5E6E6"
+    },
+    {
+      "album": {
+        "name": "Summer Solstice 2: A Windham Hill Collection",
+        "url": "https://open.spotify.com/album/0XMNoJSpGPHMjGFMYiExkG"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 279626,
+      "name": "Lei' Awapuhi (Yellow Ginger Lei)",
+      "url": "https://open.spotify.com/track/2jTdjUR4ZjPDawvtwWzGhE"
+    },
+    {
+      "album": {
+        "name": "Summertime EP",
+        "url": "https://open.spotify.com/album/1gGlsw6KLGCvC3lMaNMWW9"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249473,
+      "name": "Lover Tonight",
+      "url": "https://open.spotify.com/track/3TQm7m9rIQI7C5A5p78aG2"
+    },
+    {
+      "album": {
+        "name": "Na Lani 'Eha",
+        "url": "https://open.spotify.com/album/0fTOKGeG9xw0YDwWiORmaT"
+      },
+      "artists": [
+        {
+          "name": "Ku'uipo Kumukahi",
+          "url": "https://open.spotify.com/artist/2K7KDGiQOUiroJaJYWPyGS"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242866,
+      "name": "Manu Kapalulu",
+      "url": "https://open.spotify.com/track/6EJ580b3P2Xa1r5b9xuJLp"
+    },
+    {
+      "album": {
+        "name": "Destinations",
+        "url": "https://open.spotify.com/album/6ZoPZ5dkmEhZSuWgIT2NIV"
+      },
+      "artists": [
+        {
+          "name": "Kapena",
+          "url": "https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214615,
+      "name": "Masese",
+      "url": "https://open.spotify.com/track/6hs4GGBUTETtNC41YAdKQJ"
+    },
+    {
+      "album": {
+        "name": "The Best of Sons of Hawaii - Vol. 1",
+        "url": "https://open.spotify.com/album/3StaEONhQtqYpNNjsTiHBd"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kamae And The Sons Of Hawai`i",
+          "url": "https://open.spotify.com/artist/1CLvn8aRUUOP99CHGbDJ9D"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "Mauna Kea",
+      "url": "https://open.spotify.com/track/54svKMHlutnBrUsEOHubNx"
+    },
+    {
+      "album": {
+        "name": "Melelana",
+        "url": "https://open.spotify.com/album/6CdeMbz0vKvrM1lgLJMj0S"
+      },
+      "artists": [
+        {
+          "name": "Keali'i Reichel",
+          "url": "https://open.spotify.com/artist/5QieUEtijtUF3ABBp5JVYP"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280360,
+      "name": "Maunaleo",
+      "url": "https://open.spotify.com/track/503mB92m3gvzgiN4tXa3Ab"
+    },
+    {
+      "album": {
+        "name": "Gabby Pahinui Hawaiian Band, Vol. 1",
+        "url": "https://open.spotify.com/album/2mAXdR3BgOOvQCmRKsLecw"
+      },
+      "artists": [
+        {
+          "name": "Gabby Pahinui",
+          "url": "https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263852,
+      "name": "Moonlight Lady",
+      "url": "https://open.spotify.com/track/1HOMw6a7ywU1AiFMIS7FcV"
+    },
+    {
+      "album": {
+        "name": "The Best of Sons of Hawaii - Vol. 1",
+        "url": "https://open.spotify.com/album/3StaEONhQtqYpNNjsTiHBd"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kamae And The Sons Of Hawai`i",
+          "url": "https://open.spotify.com/artist/1CLvn8aRUUOP99CHGbDJ9D"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175706,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/6FmZlee5EidftqgWdWsgpY"
+    },
+    {
+      "album": {
+        "name": "Keauhou",
+        "url": "https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148893,
+      "name": "Nani Koolau",
+      "url": "https://open.spotify.com/track/2vj1gPvngTblmHXCvH3u2H"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/3VHTt7zdSR0YtKIDGqdEQi"
+      },
+      "artists": [
+        {
+          "name": "Manoa DNA",
+          "url": "https://open.spotify.com/artist/02q995uLAMcJKAqytCbHOf"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200306,
+      "name": "No'eno'e Maika'i Ke Aloha",
+      "url": "https://open.spotify.com/track/1t9s58TPhk7DsSTECtghSZ"
+    },
+    {
+      "album": {
+        "name": "Alone In Iz World",
+        "url": "https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn"
+      },
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
+    },
+    {
+      "album": {
+        "name": "A Gallery",
+        "url": "https://open.spotify.com/album/6BOkerDmpyiUNm8PaOc25k"
+      },
+      "artists": [
+        {
+          "name": "Teresa Bright",
+          "url": "https://open.spotify.com/artist/6zsIn96BUt3FjnorApFEH2"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262133,
+      "name": "Poliahu",
+      "url": "https://open.spotify.com/track/1ID6ZAYyyWb8HUwrhenIZl"
+    },
+    {
+      "album": {
+        "name": "Wa'ahila",
+        "url": "https://open.spotify.com/album/2EIWZ57Tbsd1RLdFVKRoSw"
+      },
+      "artists": [
+        {
+          "name": "Ray Kane",
+          "url": "https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 162960,
+      "name": "Popoki Slack Key",
+      "url": "https://open.spotify.com/track/6oipvFEyEy8DQS9dGKQ5wS"
+    },
+    {
+      "album": {
+        "name": "Wa`ahila",
+        "url": "https://open.spotify.com/album/5Uw3em9fZbu9FYvGzIbbq3"
+      },
+      "artists": [
+        {
+          "name": "Ray Kane",
+          "url": "https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 162000,
+      "name": "Popoki Slack Key - Instrumental",
+      "url": "https://open.spotify.com/track/63Fq2OlIJKdNK1kSl54iv5"
+    },
+    {
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/5kDBvjhGj56MWI1hjG6PCk"
+      },
+      "artists": [
+        {
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 260784,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/0DF1Vus2YUnfnLdsqekXBZ"
+    },
+    {
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/2V0I7vyGKDIgPjgSMhjITp"
+      },
+      "artists": [
+        {
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260784,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/27dhf3MNqSiNCSX5Z7le3E"
+    },
+    {
+      "album": {
+        "name": "Hoala",
+        "url": "https://open.spotify.com/album/6hSkHQVlc7e8Y1J70iDONh"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Cazimero",
+          "url": "https://open.spotify.com/artist/7oFAub69yHYo7cJVlTK4Zb"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "Pua Hone",
+      "url": "https://open.spotify.com/track/2Y579kQwREtBRxOzelmCGJ"
+    },
+    {
+      "album": {
+        "name": "Gabby Pahinui Hawaiian Band, Vol. 2",
+        "url": "https://open.spotify.com/album/6ZKOm6EM2prCwhhtSSxD05"
+      },
+      "artists": [
+        {
+          "name": "Gabby Pahinui",
+          "url": "https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234452,
+      "name": "Pua Kukui",
+      "url": "https://open.spotify.com/track/3Zc3GJyUPUotDpXWfzt2kJ"
+    },
+    {
+      "album": {
+        "name": "All Natural",
+        "url": "https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax"
+      },
+      "artists": [
+        {
+          "name": "Natural Vibrations",
+          "url": "https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "Put a Little Love",
+      "url": "https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL"
+    },
+    {
+      "album": {
+        "name": "Hanaiali'i",
+        "url": "https://open.spotify.com/album/5P41jVL17AKxQs1NT2apt0"
+      },
+      "artists": [
+        {
+          "name": "Amy Hanaiali'i",
+          "url": "https://open.spotify.com/artist/2EmDuzFyrKX0CVFgwnU61Q"
+        },
+        {
+          "name": "Willie K",
+          "url": "https://open.spotify.com/artist/2RzwqtC6CQeZUDXWz6wzlV"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "P\u0101lehua",
+      "url": "https://open.spotify.com/track/4yTG9hIbRRZHQcjcij3suF"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters, Vol. 2",
+        "url": "https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr"
+      },
+      "artists": [
+        {
+          "name": "Ray Kane",
+          "url": "https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 159960,
+      "name": "P\u014dpoki Slack Key",
+      "url": "https://open.spotify.com/track/06hR429T7qvOY5Dpw4y8iQ"
+    },
+    {
+      "album": {
+        "name": "Wa'ahila",
+        "url": "https://open.spotify.com/album/1PJVXFBe9QWdyEgu79F8vq"
+      },
+      "artists": [
+        {
+          "name": "Ray Kane",
+          "url": "https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "P\u014dpoki Slack Key",
+      "url": "https://open.spotify.com/track/1WtCzz23wlFimz0MxN4TQv"
+    },
+    {
+      "album": {
+        "name": "Roots Satisfaction (U.S. Release)",
+        "url": "https://open.spotify.com/album/67RxlEEtL4xJ9O8bpe9w8N"
+      },
+      "artists": [
+        {
+          "name": "Laga Savea",
+          "url": "https://open.spotify.com/artist/1VVHsW1mcNBjeiLFF3FcdZ"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194606,
+      "name": "Roots Satisfaction Featuring Fiji",
+      "url": "https://open.spotify.com/track/58S3oqkxQxdZTkx1RcMFO6"
+    },
+    {
+      "album": {
+        "name": "Round n Round",
+        "url": "https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ"
+      },
+      "artists": [
+        {
+          "name": "Vana Liya",
+          "url": "https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV"
+        },
+        {
+          "name": "Kaleo Wassman",
+          "url": "https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296719,
+      "name": "Round n Round (feat. Pepper & Kaleo Wassman)",
+      "url": "https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX"
+    },
+    {
+      "album": {
+        "name": "Shores of Waiehu",
+        "url": "https://open.spotify.com/album/40Y1O71qHycEQgzQtAoTPt"
+      },
+      "artists": [
+        {
+          "name": "Ekolu",
+          "url": "https://open.spotify.com/artist/3DK8L6LNTwmg5l3KfzgcRx"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217933,
+      "name": "Shores of Waiehu",
+      "url": "https://open.spotify.com/track/3WS1OpKVyB5oWYzh95afV5"
+    },
+    {
+      "album": {
+        "name": "A10: Best of Anuhea",
+        "url": "https://open.spotify.com/album/3aivd94f6fp7NhMxVz4ZrN"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224500,
+      "name": "Simple Love Song",
+      "url": "https://open.spotify.com/track/3HhqFgee7pgNVo7h87pVIm"
+    },
+    {
+      "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/2Canm6l7zAge5MV9iJ8ngy"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224986,
+      "name": "Simple Love Song",
+      "url": "https://open.spotify.com/track/2bDmYeA5ovrMJQJ9AR1Mxj"
+    },
+    {
+      "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Simple Love Song",
+      "url": "https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB"
+    },
+    {
+      "album": {
+        "name": "Songs of Aloha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        },
+        {
+          "name": "Mike Kaawa",
+          "url": "https://open.spotify.com/artist/7KtbS2lQxxvA4N75pIVCtX"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338960,
+      "name": "Slack Key Lullabye",
+      "url": "https://open.spotify.com/track/6BmBm3K2FU9Gn0bfXEYc1R"
+    },
+    {
+      "album": {
+        "name": "Stand By Me (Drew Forever)",
+        "url": "https://open.spotify.com/album/6AsVMB0zcOvHvGc3INNY44"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194530,
+      "name": "Stand By Me (Drew Forever)",
+      "url": "https://open.spotify.com/track/4Ua8dhnL9mKAZ78etjdOHX"
+    },
+    {
+      "album": {
+        "name": "Starting All Over Again (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/6eDLJL9ucaRjCbjHKjMcVi"
+      },
+      "artists": [
+        {
+          "name": "Iam Tongi",
+          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267743,
+      "name": "Starting All Over Again - Acoustic Sessions",
+      "url": "https://open.spotify.com/track/2FOMDrCQG2YVYbwBdqJ5M5"
+    },
+    {
+      "album": {
+        "name": "Hula! Big Island Style",
+        "url": "https://open.spotify.com/album/51Npcu6wgTkBQpq3IMFRWw"
+      },
+      "artists": [
+        {
+          "name": "Lim Family",
+          "url": "https://open.spotify.com/artist/0nO5vVfEwDuz1KXJUnEC7O"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200773,
+      "name": "Sweet Ka Makani, Ke Kaiaulu",
+      "url": "https://open.spotify.com/track/3OvWegDoaNxfgyMya5OcI2"
+    },
+    {
+      "album": {
+        "name": "Music & Highlights: Aloha to the World",
+        "url": "https://open.spotify.com/album/22sgQvWRghWgFowVZLqBDm"
+      },
+      "artists": [
+        {
+          "name": "Don Ho",
+          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134504,
+      "name": "The Hukilau Song",
+      "url": "https://open.spotify.com/track/563Zc7T3deOuITfis5zubv"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters, Vol. 2",
+        "url": "https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 268360,
+      "name": "Wahine 'Ilikea",
+      "url": "https://open.spotify.com/track/5CRB3UF0vLmQqb3VwNsZC0"
+    },
+    {
+      "album": {
+        "name": "Pua'ena \"Glow Brightly\"",
+        "url": "https://open.spotify.com/album/2RVLxKj9LQNp8PqCAXlSi6"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 269613,
+      "name": "Wahine 'Ilikea",
+      "url": "https://open.spotify.com/track/5W8F4fS064ny8IxyXvgUtp"
+    },
+    {
+      "album": {
+        "name": "Pua'ena \"Glow Brightly\"",
+        "url": "https://open.spotify.com/album/14qTaMf1Vf32iELPpl8RZp"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269613,
+      "name": "Wahine 'Ilikea",
+      "url": "https://open.spotify.com/track/7ctTIxYYyYYQ58pzkRrYiR"
+    },
+    {
+      "album": {
+        "name": "Pua'ena",
+        "url": "https://open.spotify.com/album/6l3VoFEh7GUOELXRtaHMHk"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 269626,
+      "name": "Wahine 'Ilikea",
+      "url": "https://open.spotify.com/track/1MtfC9i9HHG6DCXClvbwxw"
+    },
+    {
+      "album": {
+        "name": "We Are the Children",
+        "url": "https://open.spotify.com/album/5FLk6tZkmjTFiW07quOApM"
+      },
+      "artists": [
+        {
+          "name": "Country Comfort",
+          "url": "https://open.spotify.com/artist/67ca6wIED6oeHj5f84K93z"
+        },
+        {
+          "name": "Billy Kaui",
+          "url": "https://open.spotify.com/artist/5h8cor75Nc5j0OlW1qxpA5"
+        },
+        {
+          "name": "Chuck Lee",
+          "url": "https://open.spotify.com/artist/4AJY5AxgDGXnZePcpWlZ3O"
+        },
+        {
+          "name": "Randy Lorenzo",
+          "url": "https://open.spotify.com/artist/34b3evbwuaICTdl0YoE7uZ"
+        },
+        {
+          "name": "Jimmy Freudenberg",
+          "url": "https://open.spotify.com/artist/64MluByW6rSJzNtiMZqZUR"
+        },
+        {
+          "name": "Eugene Matsumura",
+          "url": "https://open.spotify.com/artist/1yU5CoWeJ5cGUlM3nrMdVF"
+        },
+        {
+          "name": "Huge Hawaiian Hit",
+          "url": "https://open.spotify.com/artist/5oGg6tyTExCb8dEo5cr2pL"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255880,
+      "name": "Waimanalo Blues",
+      "url": "https://open.spotify.com/track/6jt4XlR6GE96GPRUr2XdxX"
+    },
+    {
+      "album": {
+        "name": "MMO2",
+        "url": "https://open.spotify.com/album/3CmiVTobmHmZDOEKsgCt2a"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/5kJCFjKSlqamGV2CUPU1xm"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6BpspuHJBMZxI7Cc3Y9Tjr"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151920,
+      "name": "Whee Ha Swing",
+      "url": "https://open.spotify.com/track/2yfmFza2MM6TV3QBvC138Z"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 151920,
+      "name": "Whee Ha Swing",
+      "url": "https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters, Vol. 1",
+        "url": "https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157493,
+      "name": "Whee Ha Swing",
+      "url": "https://open.spotify.com/track/1ECsI8Z2IhCKpLZbsEe5iw"
+    },
+    {
+      "album": {
+        "name": "Feel Good Island Music",
+        "url": "https://open.spotify.com/album/4bRTEB4bs4fn408VdimJEN"
+      },
+      "artists": [
+        {
+          "name": "Ho'onu'a",
+          "url": "https://open.spotify.com/artist/7fNv44w4jZllwDLtLMxvup"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "When I Think About You",
+      "url": "https://open.spotify.com/track/60Mv9DQI1mxjaSpfwTJHQZ"
+    },
+    {
+      "album": {
+        "name": "The Uncle In Me Volume 1",
+        "url": "https://open.spotify.com/album/4U9VLjuXnFynCYvlH5xqYM"
+      },
+      "artists": [
+        {
+          "name": "Willie K",
+          "url": "https://open.spotify.com/artist/2RzwqtC6CQeZUDXWz6wzlV"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284160,
+      "name": "You Ku'uipo",
+      "url": "https://open.spotify.com/track/3VnRQ8M9wksw8cTXTXoxOw"
+    },
+    {
+      "album": {
+        "name": "'Ohana",
+        "url": "https://open.spotify.com/album/3gqr13mGk87I6YVstdFl82"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        },
+        {
+          "name": "David Kamakahi",
+          "url": "https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257799,
+      "name": "\u016alili E (feat. David Kamakahi)",
+      "url": "https://open.spotify.com/track/2QzWe2SeKCft3DWKO7DuBS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY0N3eAirRjZ"
 }

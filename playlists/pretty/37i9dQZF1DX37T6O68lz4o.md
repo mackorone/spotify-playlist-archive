@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: <a href="spotify:artist:1DN9Pgv4fiAaRSSgiisj5G">Felix!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,072 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,303 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 36 | [Declarations](https://open.spotify.com/track/75X92HqHCt21wu56OEoG68) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [Declarations](https://open.spotify.com/album/0hPTGUnRjDEdgkBE9ThBvn) | 2:06 |
 | 37 | [I Do I](https://open.spotify.com/track/6x75JRWcelMRPBMEHnGMiI) | [Nay $peaks](https://open.spotify.com/artist/5and6mMu319HtYPWAacsju) | [Nayborhood Healer](https://open.spotify.com/album/781crCQLQK320V8xWU6l9E) | 1:48 |
 | 38 | [DONE BEING BROKE](https://open.spotify.com/track/2ZFTzop62lkocOJ1nCkKiH) | [WHYTRI](https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys), [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh) | [DONE BEING BROKE](https://open.spotify.com/album/0X9xx1cnBVkqdGFwpz9Yu3) | 3:38 |
-| 39 | [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 |
+| 39 | [Yeah Yeah](https://open.spotify.com/track/3FScVu3qZNU2isUYNvCwh4) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/5jjL60rm8RzpoEQ3vs7lDf) | 2:46 |
 | 40 | [Ain't Trippin](https://open.spotify.com/track/2ztRHARBf4Mp13vbNRkEFS) | [Lee Bezel](https://open.spotify.com/artist/73lsSnZSw4FUrXyCtlKS1G) | [Ain't Trippin](https://open.spotify.com/album/45H9VeEuVkoZZMSRuVH4Zo) | 1:51 |
 | 41 | [Wave Affair](https://open.spotify.com/track/2gC3jb2rkTpLwt3fuKb7Bt) | [Grubby Pawz](https://open.spotify.com/artist/4kmovQMQ9hZIvJSyivXQAP), [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL), [al.divino](https://open.spotify.com/artist/5jyagx5BZME4APq93Q1HwZ), [Shaykh Hanif](https://open.spotify.com/artist/6EqAIMZx0lEotAZ7tDQvTg), [Hidden Character](https://open.spotify.com/artist/5XCmdhAHqNwTcRpg6Clnmz), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [WAVY BULLET](https://open.spotify.com/album/4cT5zvT4mBLlWOLIuy2vAX) | 4:43 |
 | 42 | [DEMNUHWANT](https://open.spotify.com/track/73Bq6FQ3FrlIxaPXL3WIiF) | [Kadeem](https://open.spotify.com/artist/6tvhrOPkBOrTrzpfOB5n4R), [Loman](https://open.spotify.com/artist/3Dub887prH9nL1AFHcXE5g) | [PEACE OF HOME](https://open.spotify.com/album/5OYghbL3835zfXgoBk8VzN) | 3:02 |

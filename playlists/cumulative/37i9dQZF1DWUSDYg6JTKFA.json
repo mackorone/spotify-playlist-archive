@@ -1703,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219558,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7E081VjB8ih6c6AElqlQiN"
+    },
+    {
+      "album": {
         "name": "Safe in My Father's Arms",
         "url": "https://open.spotify.com/album/28OzZnaTPga1VZFZ7OdiDV"
       },
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 213886,
       "name": "Stronger - With Cold Ending",
       "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"

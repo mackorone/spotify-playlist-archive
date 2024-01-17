@@ -1,6 +1,979 @@
 {
-  "2023-12-31": 140174,
-  "2024-01-01": 140283,
-  "2024-01-02": 140347,
-  "2024-01-03": 140403
+  "2024-01-17": 140733,
+  "date_first_scraped": "2023-12-31",
+  "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
+  "name": "carnavalizar",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ax\u00e9 Bahia",
+        "url": "https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ"
+      },
+      "artists": [
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194533,
+      "name": "A Luz De Tieta",
+      "url": "https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR"
+    },
+    {
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "album": {
+        "name": "Aconteceu",
+        "url": "https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Beijo",
+          "url": "https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232773,
+      "name": "A Vida \u00c9 Festa",
+      "url": "https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4"
+    },
+    {
+      "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        },
+        {
+          "name": "Quarteto Em Cy",
+          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235546,
+      "name": "Apesar De Voc\u00ea",
+      "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
+    },
+    {
+      "album": {
+        "name": "Gilberto Gil (1969)",
+        "url": "https://open.spotify.com/album/53eqd316Rs3te41yGRovYz"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323773,
+      "name": "Aquele Abra\u00e7o",
+      "url": "https://open.spotify.com/track/7CjSjWTdVPD0ov82Qz55Xb"
+    },
+    {
+      "album": {
+        "name": "Muitos Carnavais",
+        "url": "https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 162973,
+      "name": "Atr\u00e1s Do Trio El\u00e9trico",
+      "url": "https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX"
+    },
+    {
+      "album": {
+        "name": "SIM SIM SIM",
+        "url": "https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f"
+      },
+      "artists": [
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303516,
+      "name": "Baile De M\u00e1scaras (Recarnaval)",
+      "url": "https://open.spotify.com/track/46nVimyGfbnKUMU9rDvnUG"
+    },
+    {
+      "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Balanc\u00ea",
+      "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
+    },
+    {
+      "album": {
+        "name": "Apaixonada",
+        "url": "https://open.spotify.com/album/0gcWUwyIgjm4H5cfj25Iz4"
+      },
+      "artists": [
+        {
+          "name": "Banda Beijo",
+          "url": "https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Bate Lata",
+      "url": "https://open.spotify.com/track/2ATL6pmlSKBxn9M2U9Qp4t"
+    },
+    {
+      "album": {
+        "name": "Bloco do Silva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215493,
+      "name": "Beleza Rara - Ao Vivo",
+      "url": "https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP"
+    },
+    {
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264933,
+      "name": "Besta \u00e9 Tu",
+      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
+    },
+    {
+      "album": {
+        "name": "Minha Voz",
+        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Bloco Do Prazer",
+      "url": "https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w"
+    },
+    {
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ugs2BKvKNP48jzxQC6pFX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201655,
+      "name": "Caetano Veloso",
+      "url": "https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn"
+    },
+    {
+      "album": {
+        "name": "Muitos Carnavais",
+        "url": "https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "Chuva, Suor E Cerveja",
+      "url": "https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg"
+    },
+    {
+      "album": {
+        "name": "Anavit\u00f3ria Canta Para Foli\u00f5es De Bloco, Foli\u00f5es De Avenida E N\u00e3o Foli\u00f5es Tamb\u00e9m",
+        "url": "https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226388,
+      "name": "Clareiam\u00f4",
+      "url": "https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z"
+    },
+    {
+      "album": {
+        "name": "A M\u00fasica do Olodum",
+        "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "Deusa do amor - Ao vivo",
+      "url": "https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY"
+    },
+    {
+      "album": {
+        "name": "Bloco do Silva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196761,
+      "name": "Diga Que Valeu - Ao Vivo",
+      "url": "https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0"
+    },
+    {
+      "album": {
+        "name": "Nada Sem Ela",
+        "url": "https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44"
+      },
+      "artists": [
+        {
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306520,
+      "name": "Dorival",
+      "url": "https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr"
+    },
+    {
+      "album": {
+        "name": "Gera\u00e7\u00e3o Pop",
+        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "Eu tamb\u00e9m quero beijar",
+      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
+    },
+    {
+      "album": {
+        "name": "Tete a Tete Margareth",
+        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
+      },
+      "artists": [
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334133,
+      "name": "Fara\u00f3",
+      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
+    },
+    {
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/7CnmrVFElrgMKUSuIvYqgE"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Festa Do Interior",
+      "url": "https://open.spotify.com/track/1T3fc0CRPnVBWWiW9BAiw3"
+    },
+    {
+      "album": {
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306853,
+      "name": "Frevo Mulher - Ao Vivo",
+      "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
+    },
+    {
+      "album": {
+        "name": "Sambas De Enredo Das Escolas De Samba 2019",
+        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
+      },
+      "artists": [
+        {
+          "name": "Marquinho Art'Samba",
+          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
+        },
+        {
+          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
+          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271453,
+      "name": "Hist\u00f3ria Para Ninar Gente Grande",
+      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
+    },
+    {
+      "album": {
+        "name": "Refavela",
+        "url": "https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "Il\u00ea ay\u00ea",
+      "url": "https://open.spotify.com/track/6L9okk7atrGuieV4FtZybt"
+    },
+    {
+      "album": {
+        "name": "Ladainha",
+        "url": "https://open.spotify.com/album/3HuFPoYl9C1XWqwKkHvUpC"
+      },
+      "artists": [
+        {
+          "name": "Nat Guareschi",
+          "url": "https://open.spotify.com/artist/1X18fGGzvxN2txuNIJvHs0"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147468,
+      "name": "Ladainha",
+      "url": "https://open.spotify.com/track/3sKjN5oPlgyOREoxJ3zLru"
+    },
+    {
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/36SJ7ZFx8J1f1RsewmUwMX"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx"
+      },
+      "artists": [
+        {
+          "name": "Ara Ketu",
+          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263266,
+      "name": "Mal Acostumada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10"
+    },
+    {
+      "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "Maracatu At\u00f4mico",
+      "url": "https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf"
+    },
+    {
+      "album": {
+        "name": "Tribal Bahia",
+        "url": "https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI"
+      },
+      "artists": [
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307880,
+      "name": "Margarida Perfumada (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz"
+    },
+    {
+      "album": {
+        "name": "Mangueira - a Menina Dos Meus Olhos",
+        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63141,
+      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
+      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
+    },
+    {
+      "album": {
+        "name": "Maxximum - Pepeu Gomes E Baby Consuelo",
+        "url": "https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224560,
+      "name": "Masculino E Feminino",
+      "url": "https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB"
+    },
+    {
+      "album": {
+        "name": "Beleza Rara - O melhor De Banda Eva",
+        "url": "https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251293,
+      "name": "Me Abra\u00e7a",
+      "url": "https://open.spotify.com/track/0CNdiziA23RpZeX7T7gOkX"
+    },
+    {
+      "album": {
+        "name": "Nem Ouro Nem Prata",
+        "url": "https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ"
+      },
+      "artists": [
+        {
+          "name": "Ruy Maurity",
+          "url": "https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "Nem Ouro Nem Prata",
+      "url": "https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K"
+    },
+    {
+      "album": {
+        "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "Nobre Vagabundo",
+      "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
+    },
+    {
+      "album": {
+        "name": "O Canto da Cidade",
+        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "O Canto da Cidade",
+      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
+    },
+    {
+      "album": {
+        "name": "Samba Rock",
+        "url": "https://open.spotify.com/album/1Xi2cRkf7VYMp8U5x99XFJ"
+      },
+      "artists": [
+        {
+          "name": "Trio Mocoto",
+          "url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249533,
+      "name": "Os Orix\u00e1s",
+      "url": "https://open.spotify.com/track/513U1dzs6DITfRum7dM90X"
+    },
+    {
+      "album": {
+        "name": "Refavela",
+        "url": "https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155186,
+      "name": "Patuscada de Gandhi - Afox\u00e9 filhos de Gandhi",
+      "url": "https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S"
+    },
+    {
+      "album": {
+        "name": "FESTA DE ADEUS",
+        "url": "https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "QUERO UM CARNAVAL",
+      "url": "https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3"
+    },
+    {
+      "album": {
+        "name": "Saulo Ao Vivo",
+        "url": "https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk"
+      },
+      "artists": [
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205160,
+      "name": "Raiz de Todo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib"
+    },
+    {
+      "album": {
+        "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Rapunzel",
+      "url": "https://open.spotify.com/track/5IocKfGOEyFiBolTgguc5c"
+    },
+    {
+      "album": {
+        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
+        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300333,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+    },
+    {
+      "album": {
+        "name": "Daniela Mercury",
+        "url": "https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Swing da Cor",
+      "url": "https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq"
+    },
+    {
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "Swing de Campo Grande",
+      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
+    },
+    {
+      "album": {
+        "name": "Realce",
+        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226640,
+      "name": "Toda Menina Baiana",
+      "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
+    },
+    {
+      "album": {
+        "name": "Cavalo De Pau",
+        "url": "https://open.spotify.com/album/1CYI4of2nVuOBrQt6E24qJ"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "Tropicana (Morena Tropicana)",
+      "url": "https://open.spotify.com/track/5iehR5VxXMZpQ5MAmlY68f"
+    },
+    {
+      "album": {
+        "name": "Caetano Veloso",
+        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Tropic\u00e1lia - Remastered 2006",
+      "url": "https://open.spotify.com/track/4cMbAhrwsZsAHceaGvZy9y"
+    },
+    {
+      "album": {
+        "name": "A M\u00fasica do Olodum",
+        "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156240,
+      "name": "Vem meu amor",
+      "url": "https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC"
+    },
+    {
+      "album": {
+        "name": "De P\u00e9 No Ch\u00e3o",
+        "url": "https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189866,
+      "name": "Vou Festejar",
+      "url": "https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn"
+    },
+    {
+      "album": {
+        "name": "Sambas De Enredo Das Escolas De Samba 2019",
+        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
+      },
+      "artists": [
+        {
+          "name": "Emerson Dias",
+          "url": "https://open.spotify.com/artist/6X4xWRzBiyR5w1WnsetCsz"
+        },
+        {
+          "name": "Acad\u00eamicos Do Salgueiro",
+          "url": "https://open.spotify.com/artist/1o6Ib1rhaC0r4YoVKayJWz"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331853,
+      "name": "Xang\u00f4",
+      "url": "https://open.spotify.com/track/19K67ARK51RFvi3CDdB69g"
+    },
+    {
+      "album": {
+        "name": "Leci Brand\u00e3o",
+        "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
+      },
+      "artists": [
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204520,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9udUjwxj8v9"
 }

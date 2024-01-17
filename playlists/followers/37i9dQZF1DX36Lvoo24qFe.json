@@ -1,539 +1,727 @@
 {
-  "2022-07-10": 3041,
-  "2022-07-11": 3041,
-  "2022-07-12": 3039,
-  "2022-07-13": 3038,
-  "2022-07-14": 3037,
-  "2022-07-15": 3038,
-  "2022-07-16": 3038,
-  "2022-07-17": 3040,
-  "2022-07-18": 3040,
-  "2022-07-19": 3041,
-  "2022-07-20": 3041,
-  "2022-07-21": 3040,
-  "2022-07-22": 3041,
-  "2022-07-23": 3041,
-  "2022-07-24": 3042,
-  "2022-07-25": 3041,
-  "2022-07-26": 3045,
-  "2022-07-27": 3045,
-  "2022-07-28": 3044,
-  "2022-07-29": 3046,
-  "2022-07-30": 3048,
-  "2022-07-31": 3048,
-  "2022-08-01": 3048,
-  "2022-08-02": 3051,
-  "2022-08-03": 3051,
-  "2022-08-04": 3050,
-  "2022-08-05": 3048,
-  "2022-08-06": 3048,
-  "2022-08-07": 3047,
-  "2022-08-08": 3046,
-  "2022-08-09": 3046,
-  "2022-08-10": 3047,
-  "2022-08-11": 3046,
-  "2022-08-12": 3048,
-  "2022-08-13": 3047,
-  "2022-08-14": 3048,
-  "2022-08-15": 3049,
-  "2022-08-16": 3050,
-  "2022-08-17": 3048,
-  "2022-08-18": 3047,
-  "2022-08-19": 3047,
-  "2022-08-20": 3046,
-  "2022-08-21": 3045,
-  "2022-08-22": 3045,
-  "2022-08-23": 3046,
-  "2022-08-24": 3047,
-  "2022-08-25": 3045,
-  "2022-08-26": 3045,
-  "2022-08-27": 3044,
-  "2022-08-28": 3045,
-  "2022-08-29": 3042,
-  "2022-08-30": 3045,
-  "2022-08-31": 3043,
-  "2022-09-01": 3042,
-  "2022-09-02": 3041,
-  "2022-09-03": 3040,
-  "2022-09-04": 3040,
-  "2022-09-05": 3041,
-  "2022-09-06": 3042,
-  "2022-09-07": 3041,
-  "2022-09-09": 3041,
-  "2022-09-10": 3041,
-  "2022-09-11": 3041,
-  "2022-09-12": 3041,
-  "2022-09-13": 3040,
-  "2022-09-15": 3039,
-  "2022-09-16": 3039,
-  "2022-09-17": 3039,
-  "2022-09-18": 3038,
-  "2022-09-19": 3037,
-  "2022-09-20": 3035,
-  "2022-09-21": 3035,
-  "2022-09-22": 3032,
-  "2022-09-23": 3031,
-  "2022-09-24": 3029,
-  "2022-09-25": 3030,
-  "2022-09-26": 3029,
-  "2022-09-27": 3028,
-  "2022-09-28": 3026,
-  "2022-09-29": 3025,
-  "2022-09-30": 3025,
-  "2022-10-01": 3024,
-  "2022-10-02": 3026,
-  "2022-10-03": 3026,
-  "2022-10-04": 3027,
-  "2022-10-05": 3027,
-  "2022-10-06": 3028,
-  "2022-10-07": 3028,
-  "2022-10-08": 3028,
-  "2022-10-09": 3027,
-  "2022-10-10": 3027,
-  "2022-10-11": 3027,
-  "2022-10-12": 3026,
-  "2022-10-13": 3026,
-  "2022-10-14": 3025,
-  "2022-10-15": 3024,
-  "2022-10-16": 3023,
-  "2022-10-17": 3023,
-  "2022-10-18": 3023,
-  "2022-10-19": 3023,
-  "2022-10-20": 3023,
-  "2022-10-21": 3021,
-  "2022-10-22": 3021,
-  "2022-10-23": 3021,
-  "2022-10-24": 3021,
-  "2022-10-25": 3018,
-  "2022-10-26": 3019,
-  "2022-10-27": 3019,
-  "2022-10-28": 3020,
-  "2022-10-29": 3019,
-  "2022-10-30": 3019,
-  "2022-10-31": 3019,
-  "2022-11-01": 3018,
-  "2022-11-02": 3018,
-  "2022-11-03": 3017,
-  "2022-11-04": 3016,
-  "2022-11-05": 3015,
-  "2022-11-06": 3015,
-  "2022-11-07": 3013,
-  "2022-11-08": 3013,
-  "2022-11-09": 3012,
-  "2022-11-10": 3012,
-  "2022-11-11": 3012,
-  "2022-11-12": 3012,
-  "2022-11-13": 3012,
-  "2022-11-14": 3012,
-  "2022-11-15": 3012,
-  "2022-11-16": 3012,
-  "2022-11-17": 3014,
-  "2022-11-18": 3013,
-  "2022-11-19": 3012,
-  "2022-11-20": 3011,
-  "2022-11-21": 3010,
-  "2022-11-22": 3010,
-  "2022-11-23": 3010,
-  "2022-11-24": 3010,
-  "2022-11-25": 3010,
-  "2022-11-26": 3010,
-  "2022-11-27": 3008,
-  "2022-11-28": 3008,
-  "2022-11-29": 3008,
-  "2022-11-30": 3006,
-  "2022-12-01": 3006,
-  "2022-12-02": 3006,
-  "2022-12-03": 3006,
-  "2022-12-04": 3005,
-  "2022-12-05": 3004,
-  "2022-12-06": 3004,
-  "2022-12-07": 3003,
-  "2022-12-08": 3003,
-  "2022-12-09": 3002,
-  "2022-12-10": 3002,
-  "2022-12-11": 3003,
-  "2022-12-12": 3003,
-  "2022-12-13": 3003,
-  "2022-12-14": 3002,
-  "2022-12-15": 3003,
-  "2022-12-16": 3002,
-  "2022-12-17": 3001,
-  "2022-12-18": 3001,
-  "2022-12-19": 3001,
-  "2022-12-20": 3000,
-  "2022-12-21": 3000,
-  "2022-12-22": 3000,
-  "2022-12-24": 3000,
-  "2022-12-25": 2999,
-  "2022-12-26": 2999,
-  "2022-12-27": 2999,
-  "2022-12-28": 2997,
-  "2022-12-29": 2997,
-  "2022-12-30": 2997,
-  "2022-12-31": 2995,
-  "2023-01-01": 2996,
-  "2023-01-02": 2995,
-  "2023-01-03": 2996,
-  "2023-01-04": 2995,
-  "2023-01-05": 2995,
-  "2023-01-06": 2994,
-  "2023-01-07": 2994,
-  "2023-01-08": 2994,
-  "2023-01-09": 2994,
-  "2023-01-10": 2994,
-  "2023-01-11": 2991,
-  "2023-01-12": 2990,
-  "2023-01-13": 2990,
-  "2023-01-14": 2990,
-  "2023-01-15": 2990,
-  "2023-01-16": 2990,
-  "2023-01-17": 2989,
-  "2023-01-18": 2989,
-  "2023-01-19": 2988,
-  "2023-01-20": 2988,
-  "2023-01-21": 2988,
-  "2023-01-22": 2989,
-  "2023-01-23": 2989,
-  "2023-01-24": 2988,
-  "2023-01-25": 2987,
-  "2023-01-26": 2986,
-  "2023-01-27": 2986,
-  "2023-01-28": 2985,
-  "2023-01-29": 2985,
-  "2023-01-30": 2985,
-  "2023-01-31": 2985,
-  "2023-02-01": 2984,
-  "2023-02-02": 2982,
-  "2023-02-03": 2981,
-  "2023-02-04": 2980,
-  "2023-02-05": 2981,
-  "2023-02-06": 2981,
-  "2023-02-07": 2981,
-  "2023-02-08": 2979,
-  "2023-02-09": 2979,
-  "2023-02-10": 2978,
-  "2023-02-11": 2977,
-  "2023-02-12": 2977,
-  "2023-02-13": 2977,
-  "2023-02-14": 2977,
-  "2023-02-15": 2978,
-  "2023-02-16": 2978,
-  "2023-02-17": 2976,
-  "2023-02-18": 2976,
-  "2023-02-19": 2976,
-  "2023-02-20": 2976,
-  "2023-02-21": 2976,
-  "2023-02-22": 2976,
-  "2023-02-23": 2976,
-  "2023-02-24": 2976,
-  "2023-02-25": 2976,
-  "2023-02-26": 2976,
-  "2023-02-27": 2976,
-  "2023-02-28": 2976,
-  "2023-03-01": 2976,
-  "2023-03-02": 2976,
-  "2023-03-03": 2976,
-  "2023-03-04": 2976,
-  "2023-03-05": 2976,
-  "2023-03-06": 2976,
-  "2023-03-07": 2976,
-  "2023-03-08": 2976,
-  "2023-03-09": 2976,
-  "2023-03-10": 2976,
-  "2023-03-11": 2976,
-  "2023-03-12": 2976,
-  "2023-03-13": 2976,
-  "2023-03-14": 2976,
-  "2023-03-15": 2976,
-  "2023-03-16": 2976,
-  "2023-03-17": 2976,
-  "2023-03-18": 2976,
-  "2023-03-19": 2976,
-  "2023-03-20": 2976,
-  "2023-03-21": 2976,
-  "2023-03-22": 2976,
-  "2023-03-23": 2976,
-  "2023-03-24": 2976,
-  "2023-03-25": 2976,
-  "2023-03-26": 2976,
-  "2023-03-27": 2976,
-  "2023-03-28": 2976,
-  "2023-03-29": 2976,
-  "2023-03-30": 2976,
-  "2023-03-31": 2976,
-  "2023-04-01": 2976,
-  "2023-04-02": 2976,
-  "2023-04-03": 2976,
-  "2023-04-04": 2976,
-  "2023-04-05": 2976,
-  "2023-04-06": 2976,
-  "2023-04-07": 2976,
-  "2023-04-09": 2976,
-  "2023-04-10": 2976,
-  "2023-04-11": 2976,
-  "2023-04-12": 2976,
-  "2023-04-13": 2976,
-  "2023-04-14": 2976,
-  "2023-04-15": 2976,
-  "2023-04-16": 2976,
-  "2023-04-17": 2976,
-  "2023-04-18": 2976,
-  "2023-04-19": 2976,
-  "2023-04-20": 2976,
-  "2023-04-21": 2976,
-  "2023-04-22": 2976,
-  "2023-04-23": 2976,
-  "2023-04-24": 2976,
-  "2023-04-25": 2976,
-  "2023-04-26": 2976,
-  "2023-04-27": 2976,
-  "2023-04-28": 2976,
-  "2023-04-29": 2976,
-  "2023-04-30": 2976,
-  "2023-05-01": 2976,
-  "2023-05-02": 2976,
-  "2023-05-03": 2976,
-  "2023-05-04": 2976,
-  "2023-05-05": 2976,
-  "2023-05-06": 2976,
-  "2023-05-07": 2976,
-  "2023-05-08": 2976,
-  "2023-05-09": 2976,
-  "2023-05-10": 2976,
-  "2023-05-11": 2976,
-  "2023-05-12": 2976,
-  "2023-05-13": 2976,
-  "2023-05-14": 2976,
-  "2023-05-15": 2976,
-  "2023-05-16": 2976,
-  "2023-05-17": 2976,
-  "2023-05-18": 2976,
-  "2023-05-19": 2976,
-  "2023-05-20": 2976,
-  "2023-05-21": 2976,
-  "2023-05-22": 2976,
-  "2023-05-23": 2976,
-  "2023-05-24": 2976,
-  "2023-05-25": 2976,
-  "2023-05-26": 2976,
-  "2023-05-27": 2976,
-  "2023-05-28": 2976,
-  "2023-05-29": 2976,
-  "2023-05-30": 2976,
-  "2023-05-31": 2976,
-  "2023-06-01": 2976,
-  "2023-06-02": 2976,
-  "2023-06-03": 2976,
-  "2023-06-04": 2976,
-  "2023-06-05": 2976,
-  "2023-06-06": 2976,
-  "2023-06-07": 2976,
-  "2023-06-08": 2976,
-  "2023-06-09": 2976,
-  "2023-06-10": 2976,
-  "2023-06-11": 2976,
-  "2023-06-12": 2976,
-  "2023-06-13": 2976,
-  "2023-06-14": 2976,
-  "2023-06-15": 2976,
-  "2023-06-16": 2976,
-  "2023-06-17": 2976,
-  "2023-06-18": 2976,
-  "2023-06-19": 2976,
-  "2023-06-20": 2976,
-  "2023-06-21": 2976,
-  "2023-06-22": 2976,
-  "2023-06-23": 2976,
-  "2023-06-24": 2976,
-  "2023-06-25": 2976,
-  "2023-06-26": 2976,
-  "2023-06-27": 2976,
-  "2023-06-28": 2976,
-  "2023-06-29": 2976,
-  "2023-06-30": 2976,
-  "2023-07-01": 2976,
-  "2023-07-02": 2976,
-  "2023-07-03": 2976,
-  "2023-07-04": 2976,
-  "2023-07-05": 2976,
-  "2023-07-06": 2976,
-  "2023-07-07": 2976,
-  "2023-07-08": 2976,
-  "2023-07-09": 2976,
-  "2023-07-10": 2976,
-  "2023-07-11": 2976,
-  "2023-07-12": 2976,
-  "2023-07-13": 2976,
-  "2023-07-14": 2976,
-  "2023-07-15": 2976,
-  "2023-07-16": 2976,
-  "2023-07-17": 2976,
-  "2023-07-18": 2976,
-  "2023-07-19": 2976,
-  "2023-07-20": 2976,
-  "2023-07-21": 2976,
-  "2023-07-22": 2976,
-  "2023-07-23": 2976,
-  "2023-07-24": 2976,
-  "2023-07-25": 2976,
-  "2023-07-26": 2976,
-  "2023-07-27": 2976,
-  "2023-07-28": 2976,
-  "2023-07-29": 2976,
-  "2023-07-30": 2976,
-  "2023-07-31": 2976,
-  "2023-08-01": 2976,
-  "2023-08-02": 2976,
-  "2023-08-03": 2976,
-  "2023-08-04": 2976,
-  "2023-08-05": 2976,
-  "2023-08-06": 2976,
-  "2023-08-07": 2976,
-  "2023-08-08": 2976,
-  "2023-08-09": 2976,
-  "2023-08-10": 2976,
-  "2023-08-11": 2976,
-  "2023-08-12": 2976,
-  "2023-08-13": 2976,
-  "2023-08-14": 2976,
-  "2023-08-15": 2976,
-  "2023-08-16": 2976,
-  "2023-08-17": 2976,
-  "2023-08-18": 2976,
-  "2023-08-19": 2976,
-  "2023-08-20": 2976,
-  "2023-08-21": 2976,
-  "2023-08-22": 2976,
-  "2023-08-23": 2976,
-  "2023-08-24": 2976,
-  "2023-08-25": 2976,
-  "2023-08-26": 2976,
-  "2023-08-27": 2976,
-  "2023-08-28": 2976,
-  "2023-08-29": 2976,
-  "2023-08-30": 2976,
-  "2023-08-31": 2976,
-  "2023-09-01": 2976,
-  "2023-09-02": 2976,
-  "2023-09-03": 2976,
-  "2023-09-04": 2976,
-  "2023-09-05": 2976,
-  "2023-09-06": 2976,
-  "2023-09-07": 2976,
-  "2023-09-08": 2976,
-  "2023-09-09": 2976,
-  "2023-09-10": 2976,
-  "2023-09-11": 2976,
-  "2023-09-12": 2976,
-  "2023-09-13": 2976,
-  "2023-09-14": 2976,
-  "2023-09-15": 2976,
-  "2023-09-16": 2976,
-  "2023-09-17": 2976,
-  "2023-09-18": 2976,
-  "2023-09-19": 2976,
-  "2023-09-20": 2976,
-  "2023-09-21": 2976,
-  "2023-09-22": 2976,
-  "2023-09-23": 2976,
-  "2023-09-24": 2976,
-  "2023-09-25": 2976,
-  "2023-09-26": 2976,
-  "2023-09-27": 2976,
-  "2023-09-28": 2976,
-  "2023-09-29": 2976,
-  "2023-09-30": 2976,
-  "2023-10-01": 2976,
-  "2023-10-02": 2976,
-  "2023-10-03": 2976,
-  "2023-10-04": 2976,
-  "2023-10-05": 2976,
-  "2023-10-06": 2976,
-  "2023-10-07": 2976,
-  "2023-10-08": 2976,
-  "2023-10-09": 2976,
-  "2023-10-10": 2976,
-  "2023-10-11": 2976,
-  "2023-10-12": 2976,
-  "2023-10-13": 2976,
-  "2023-10-14": 2976,
-  "2023-10-15": 2976,
-  "2023-10-16": 2976,
-  "2023-10-17": 2976,
-  "2023-10-18": 2976,
-  "2023-10-19": 2976,
-  "2023-10-20": 2976,
-  "2023-10-21": 2976,
-  "2023-10-22": 2976,
-  "2023-10-23": 2976,
-  "2023-10-24": 2976,
-  "2023-10-25": 2976,
-  "2023-10-26": 2976,
-  "2023-10-27": 2976,
-  "2023-10-28": 2976,
-  "2023-10-29": 2976,
-  "2023-10-30": 2976,
-  "2023-10-31": 2976,
-  "2023-11-01": 2976,
-  "2023-11-02": 2976,
-  "2023-11-03": 2976,
-  "2023-11-04": 2976,
-  "2023-11-05": 2976,
-  "2023-11-06": 2976,
-  "2023-11-07": 2976,
-  "2023-11-08": 2976,
-  "2023-11-09": 2976,
-  "2023-11-10": 2976,
-  "2023-11-11": 2976,
-  "2023-11-12": 2976,
-  "2023-11-13": 2976,
-  "2023-11-14": 2976,
-  "2023-11-15": 2976,
-  "2023-11-16": 2976,
-  "2023-11-17": 2976,
-  "2023-11-18": 2976,
-  "2023-11-19": 2976,
-  "2023-11-20": 2976,
-  "2023-11-21": 2976,
-  "2023-11-22": 2976,
-  "2023-11-23": 2976,
-  "2023-11-24": 2976,
-  "2023-11-25": 2976,
-  "2023-11-26": 2976,
-  "2023-11-27": 2976,
-  "2023-11-28": 2976,
-  "2023-11-29": 2976,
-  "2023-11-30": 2976,
-  "2023-12-01": 2976,
-  "2023-12-02": 2976,
-  "2023-12-03": 2976,
-  "2023-12-04": 2976,
-  "2023-12-05": 2976,
-  "2023-12-06": 2976,
-  "2023-12-07": 2976,
-  "2023-12-08": 2976,
-  "2023-12-09": 2976,
-  "2023-12-10": 2976,
-  "2023-12-11": 2976,
-  "2023-12-12": 2976,
-  "2023-12-13": 2976,
-  "2023-12-14": 2976,
-  "2023-12-15": 2976,
-  "2023-12-16": 2976,
-  "2023-12-17": 2976,
-  "2023-12-18": 2976,
-  "2023-12-19": 2976,
-  "2023-12-20": 2976,
-  "2023-12-21": 2976,
-  "2023-12-22": 2976,
-  "2023-12-23": 2976,
-  "2023-12-24": 2976,
-  "2023-12-25": 2976,
-  "2023-12-26": 2976,
-  "2023-12-27": 2976,
-  "2023-12-30": 2976,
-  "2023-12-31": 2976,
-  "2024-01-01": 2976,
-  "2024-01-02": 2976,
-  "2024-01-03": 2976
+  "2024-01-17": 2976,
+  "date_first_scraped": "2022-07-10",
+  "description": "The ultimate playlist to water your plants to.",
+  "name": "Back To The Garden",
+  "tracks": [
+    {
+      "album": {
+        "name": "We Out Here",
+        "url": "https://open.spotify.com/album/3Pv6mwJhDCHsM04UqY0ueZ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424080,
+      "name": "Abusey Junction",
+      "url": "https://open.spotify.com/track/0M4ulR5HLZSGmuBKmdtDD5"
+    },
+    {
+      "album": {
+        "name": "The Maze To Nowhere",
+        "url": "https://open.spotify.com/album/4bplGkhwmNIVjMf2rTGeW5"
+      },
+      "artists": [
+        {
+          "name": "Lorn",
+          "url": "https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172473,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m"
+    },
+    {
+      "album": {
+        "name": "Aesthetic Girl (Slowed + Reverb) [Love Making Ver]",
+        "url": "https://open.spotify.com/album/6EMVGd2CgjonyXdwKUY19U"
+      },
+      "artists": [
+        {
+          "name": "Yusei",
+          "url": "https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319860,
+      "name": "Aesthetic Girl (Slowed + Reverb) [Love Making Ver]",
+      "url": "https://open.spotify.com/track/5077oyWMFY3CVOX53UfPpd"
+    },
+    {
+      "album": {
+        "name": "thinking",
+        "url": "https://open.spotify.com/album/7tmREtxIU8NPJmI6OoN8R7"
+      },
+      "artists": [
+        {
+          "name": "kelseydog",
+          "url": "https://open.spotify.com/artist/2ApxzswVcHDlqJYfonvcGU"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39706,
+      "name": "alex g treehouse cover",
+      "url": "https://open.spotify.com/track/1dQp6zZgvJj4dTrbQJrZn4"
+    },
+    {
+      "album": {
+        "name": "Rodeo (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/6scpNkWEmUxmKY7nYjVLsX"
+    },
+    {
+      "album": {
+        "name": "Are You All Good",
+        "url": "https://open.spotify.com/album/66nJ57hBwiExB3vfjWx6lA"
+      },
+      "artists": [
+        {
+          "name": "MDSH Coffee House",
+          "url": "https://open.spotify.com/artist/2ApjT0W9xDPdaYWlbTR2sy"
+        },
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/465mUUqEU9N2OGa85eZS5W"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 192052,
+      "name": "Are You All Good",
+      "url": "https://open.spotify.com/track/1z0wo0mMyQILrrQZBzKCoO"
+    },
+    {
+      "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/191t2Rd7QU3NbupbMbjgUP"
+      },
+      "artists": [
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191974,
+      "name": "Are You All Good?",
+      "url": "https://open.spotify.com/track/1kt7yK7e8c6ELn7mzb5UCQ"
+    },
+    {
+      "album": {
+        "name": "Breathe.",
+        "url": "https://open.spotify.com/album/71QcIcoDf84hU8CVrBNInN"
+      },
+      "artists": [
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 191974,
+      "name": "Are You All Good?",
+      "url": "https://open.spotify.com/track/5GCarc6IOkTIMGEVQ2YOQ4"
+    },
+    {
+      "album": {
+        "name": "Breathe.",
+        "url": "https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5"
+      },
+      "artists": [
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191974,
+      "name": "Are You All Good?",
+      "url": "https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9"
+    },
+    {
+      "album": {
+        "name": "permanent vacation",
+        "url": "https://open.spotify.com/album/2TT53c5M4tppT9pBTNpPcl"
+      },
+      "artists": [
+        {
+          "name": "89ine",
+          "url": "https://open.spotify.com/artist/3FyNBN3DLUkQ2WEi1vcyDl"
+        },
+        {
+          "name": "Shiloh dynasty",
+          "url": "https://open.spotify.com/artist/1VGplo3KNPpWv54O6mRrMQ"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157392,
+      "name": "bad idea",
+      "url": "https://open.spotify.com/track/46Sm6zDT4Yer5NcPHAY76g"
+    },
+    {
+      "album": {
+        "name": "Dah Shinin'",
+        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237720,
+      "name": "Bucktown",
+      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
+    },
+    {
+      "album": {
+        "name": "Burning Pile Slowed",
+        "url": "https://open.spotify.com/album/5t7bAfLepngxW6xsCUCD3s"
+      },
+      "artists": [
+        {
+          "name": "YounganYoungan",
+          "url": "https://open.spotify.com/artist/7CgEnGp4hEhpLEedNgG2oF"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 327907,
+      "name": "Burning Pile Slowed",
+      "url": "https://open.spotify.com/track/2qaJKtEUiWSxX8MfP97LzW"
+    },
+    {
+      "album": {
+        "name": "Burning Piles (Slowed)",
+        "url": "https://open.spotify.com/album/07bhsLYSg2xouNnOcSPgPM"
+      },
+      "artists": [
+        {
+          "name": "Tooney Tunes",
+          "url": "https://open.spotify.com/artist/6Vve3uh2knAhvVLKa2dvlS"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-13",
+      "duration_ms": 327907,
+      "name": "Burning Piles (Slowed)",
+      "url": "https://open.spotify.com/track/1LXQGofZiVKV1u7FNg6Yfi"
+    },
+    {
+      "album": {
+        "name": "burning piles (Slowed)",
+        "url": "https://open.spotify.com/album/52O3Ty6OQNnOfgLEZhY4RO"
+      },
+      "artists": [
+        {
+          "name": "Tooney Tunes",
+          "url": "https://open.spotify.com/artist/6Vve3uh2knAhvVLKa2dvlS"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 327993,
+      "name": "burning piles - Slowed",
+      "url": "https://open.spotify.com/track/4Nwb63vYtwv8KgVw5LsIW0"
+    },
+    {
+      "album": {
+        "name": "burning piles - Slowed (Remix)",
+        "url": "https://open.spotify.com/album/3tsPgAoL639q9gOZQckv8n"
+      },
+      "artists": [
+        {
+          "name": "Muppet DJ",
+          "url": "https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny"
+        },
+        {
+          "name": "SECA Records",
+          "url": "https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327977,
+      "name": "burning piles - Slowed - Remix",
+      "url": "https://open.spotify.com/track/26b5p4qw9SQxSWN0Bzoak6"
+    },
+    {
+      "album": {
+        "name": "Cute",
+        "url": "https://open.spotify.com/album/1LSNa2KWIaFcIP3j5uSM0S"
+      },
+      "artists": [
+        {
+          "name": "Prod by Rose",
+          "url": "https://open.spotify.com/artist/6rjf0fjRwaZK37QiKl9uBP"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178604,
+      "name": "Cute",
+      "url": "https://open.spotify.com/track/3wZfADUvka4MiCnOzo0VQ7"
+    },
+    {
+      "album": {
+        "name": "Cute",
+        "url": "https://open.spotify.com/album/57lPJkjkqRMcWj8KwCwxig"
+      },
+      "artists": [
+        {
+          "name": "Prod by Rose",
+          "url": "https://open.spotify.com/artist/6rjf0fjRwaZK37QiKl9uBP"
+        },
+        {
+          "name": "Artsounds Chill",
+          "url": "https://open.spotify.com/artist/3PV6UfM0IDdUodkwVieIJS"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Cute",
+      "url": "https://open.spotify.com/track/5hISAM5pN7ZI4rlyBA4iKM"
+    },
+    {
+      "album": {
+        "name": "Animals In The Median",
+        "url": "https://open.spotify.com/album/6FJCSBtJHYl1aOXl8iirjz"
+      },
+      "artists": [
+        {
+          "name": "Radiation City",
+          "url": "https://open.spotify.com/artist/1nlI6sCz1fw135KYwweoCk"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237586,
+      "name": "Foreign Bodies",
+      "url": "https://open.spotify.com/track/42kJ4xNjMHEeIuLxfIUOYd"
+    },
+    {
+      "album": {
+        "name": "Hopeless Romantic (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/1tvVMZ79HjX4vwnUXHgJDz"
+      },
+      "artists": [
+        {
+          "name": "Yusei",
+          "url": "https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316186,
+      "name": "Hopeless Romantic (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/1NkyGvvH5Vai7qC24P9bqm"
+    },
+    {
+      "album": {
+        "name": "it's ok, you're ok",
+        "url": "https://open.spotify.com/album/636BSUptgIPJ0vSeBAQNrm"
+      },
+      "artists": [
+        {
+          "name": "Bonjr",
+          "url": "https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215510,
+      "name": "it's ok, you're ok",
+      "url": "https://open.spotify.com/track/1rpKWA97PYmYI5TLHRuDnV"
+    },
+    {
+      "album": {
+        "name": "it's ok, you're ok",
+        "url": "https://open.spotify.com/album/0VsgtAta0KqSIodZfDnziG"
+      },
+      "artists": [
+        {
+          "name": "Bonjr",
+          "url": "https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 215510,
+      "name": "it's ok, you're ok",
+      "url": "https://open.spotify.com/track/26WAJZIwv0D1kkG7521PlO"
+    },
+    {
+      "album": {
+        "name": "Jasmine (Demo)",
+        "url": "https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253080,
+      "name": "Jasmine - Demo",
+      "url": "https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h"
+    },
+    {
+      "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "L$D",
+      "url": "https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud"
+    },
+    {
+      "album": {
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/4vzJrkfHbCGaodPA5RY5BV"
+    },
+    {
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297293,
+      "name": "Nine Is God",
+      "url": "https://open.spotify.com/track/5ZGM626be3ItMW4UPjfqdY"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 297293,
+      "name": "Nine Is God",
+      "url": "https://open.spotify.com/track/6sChW7Z0IwSvvBR6m4dMws"
+    },
+    {
+      "album": {
+        "name": "Pink Lotus",
+        "url": "https://open.spotify.com/album/1NVKzLWcSGbCaWS6tOn66Q"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 140487,
+      "name": "Opaul",
+      "url": "https://open.spotify.com/track/4areFtLMjGt4GmO4IAbGo0"
+    },
+    {
+      "album": {
+        "name": "Opaul",
+        "url": "https://open.spotify.com/album/7GkpKBGqHwo8SgHtIUhhHv"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "Opaul",
+      "url": "https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv"
+    },
+    {
+      "album": {
+        "name": "Locket",
+        "url": "https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191904,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/0vMr3GXZJi1IIIWE8bBJuZ"
+    },
+    {
+      "album": {
+        "name": "Locket",
+        "url": "https://open.spotify.com/album/2Q61Zm3rOli876QegmVY50"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191904,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/2cOzI3LOIkRIKEidcGZ1Bc"
+    },
+    {
+      "album": {
+        "name": "Plants",
+        "url": "https://open.spotify.com/album/35KTooHPTNp3GdfeDNnsSi"
+      },
+      "artists": [
+        {
+          "name": "Fruut",
+          "url": "https://open.spotify.com/artist/5swE2ci4vj5X2DDnHlYrYw"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/2FW8BM9oEft91tRVGr6gI8"
+    },
+    {
+      "album": {
+        "name": "Summer Days",
+        "url": "https://open.spotify.com/album/4uqJIUuSpvidPfFLDkAmHP"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207401,
+      "name": "Sao Paulo Sunset",
+      "url": "https://open.spotify.com/track/0vTJP35J4M1PY9iAA8UmbV"
+    },
+    {
+      "album": {
+        "name": "Before We Forgot How To Dream",
+        "url": "https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192392,
+      "name": "Sea Creatures",
+      "url": "https://open.spotify.com/track/6SrYiWztd4rAfYoIIYz7FL"
+    },
+    {
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/0f4ZcRoYPzppioLoB70vYc"
+      },
+      "artists": [
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 135415,
+      "name": "september rain",
+      "url": "https://open.spotify.com/track/1XREfGfPZGBoGP6KIKy8QR"
+    },
+    {
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/0ObtoFpjzJwwDeUeb8Ejyt"
+      },
+      "artists": [
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135415,
+      "name": "september rain",
+      "url": "https://open.spotify.com/track/59dBnabeKp9oMKpl4K194C"
+    },
+    {
+      "album": {
+        "name": "3 Songs",
+        "url": "https://open.spotify.com/album/5cDJTr4S1cldzVHEOqkMLi"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lights",
+          "url": "https://open.spotify.com/artist/3co8dAneVL9vedCNOD5Lkb"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181966,
+      "name": "Staring Out the Window",
+      "url": "https://open.spotify.com/track/0a9J9ZIWu6nTRR0LjdBrUm"
+    },
+    {
+      "album": {
+        "name": "...and all the pieces matter, Five Years of Music from The Wire (deluxe version)",
+        "url": "https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl"
+      },
+      "artists": [
+        {
+          "name": "Blake Leyh",
+          "url": "https://open.spotify.com/artist/2gKgSA1quoNlsq2RnNIQu8"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110133,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/4aoUYp6DBRT2JjDw9qOFO5"
+    },
+    {
+      "album": {
+        "name": "Violent (slowed + reverb)",
+        "url": "https://open.spotify.com/album/6XAdZ91yspefbJXDEzgFZW"
+      },
+      "artists": [
+        {
+          "name": "Leverutlo",
+          "url": "https://open.spotify.com/artist/0yVpvGeAKY4QMkYUopBu7a"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152346,
+      "name": "Violent - slowed + reverb",
+      "url": "https://open.spotify.com/track/04qNn4YcbE0O0UJXZosaQe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX36Lvoo24qFe"
 }

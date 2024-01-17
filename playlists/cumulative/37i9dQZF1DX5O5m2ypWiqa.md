@@ -4,7 +4,7 @@
 
 > ¡Y qué retumbe la bandona, pariente! Banda MS en portada
 
-229 songs - 12 hr 37 min
+230 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 | 2021-12-09 |  |
 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 | 2023-08-08 |  |
 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 | 2021-12-09 | 2022-07-29 |
-| [El Final De Nuestra Historia](https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Íconos 25 Éxitos](https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t) | 3:17 | 2021-12-09 | 2024-01-02 |
+| [El Final De Nuestra Historia](https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Íconos 25 Éxitos](https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t) | 3:17 | 2021-12-09 | 2024-01-15 |
 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 | 2022-07-18 | 2023-11-09 |
 | [El Indio Enamorado](https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Indio Enamorado](https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt) | 3:08 | 2023-04-27 |  |
 | [El Lujo De Tenerte](https://open.spotify.com/track/0bIBXi8kSiEkJhlCgg286I) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [El Lujo De Tenerte](https://open.spotify.com/album/4K3RiMOlwODnxsyX5JjiD4) | 2:56 | 2021-12-09 | 2022-06-21 |
@@ -120,7 +120,8 @@
 | [La Noche Perfecta](https://open.spotify.com/track/5ya7DwNmeV3ctx9xkZKwOE) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/5f4FQJrycVm3iEQJ6dMfFn) | 3:08 | 2021-12-09 | 2022-07-19 |
 | [La Número 20](https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 2:48 | 2023-04-27 |  |
 | [Las Edades](https://open.spotify.com/track/7rCcgP1xr0XOWWOiO0AjPW) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Los Amigos Del M](https://open.spotify.com/album/3XhpxlWiisEfUCRT5vtmFu) | 2:49 | 2021-12-09 |  |
-| [Lo Intentamos](https://open.spotify.com/track/0TE6IiCnzQdFTwnWZ84JOq) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo No Canto Pero Lo Intentamos](https://open.spotify.com/album/3M0CcOWFI6hwxNB8gr03hm) | 3:17 | 2021-12-09 |  |
+| [Lo Intentamos](https://open.spotify.com/track/0TE6IiCnzQdFTwnWZ84JOq) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo No Canto Pero Lo Intentamos](https://open.spotify.com/album/3M0CcOWFI6hwxNB8gr03hm) | 3:17 | 2021-12-09 | 2024-01-05 |
+| [Lo Intentamos](https://open.spotify.com/track/2vj3BAmA5hHlqLwofWN0aV) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo No Canto Pero Lo Intentamos](https://open.spotify.com/album/4IBO8BpS6FnMrud4jtMRnL) | 3:17 | 2023-11-08 |  |
 | [Lo Legal](https://open.spotify.com/track/2f42t2ofY9VdZo1rgWSGwO) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/3iw6NgJAe0kHY52IaUkuS6) | 3:18 | 2021-12-09 | 2022-07-29 |
 | [Lo Legal](https://open.spotify.com/track/46o6fYLws9P1XH8kcVVtyo) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk) | 3:18 | 2021-12-09 |  |
 | [Mas Alla Del Sol](https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 2:43 | 2021-12-09 | 2022-07-29 |

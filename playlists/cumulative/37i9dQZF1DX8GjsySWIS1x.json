@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 166355,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp"
@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 146523,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
@@ -3996,7 +3996,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 136000,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/3p94RpSxQdZocUfrzpemmm"
@@ -4156,7 +4156,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 161592,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/3LBLmC8gqvt1l43kdpx43w"
@@ -4943,6 +4943,36 @@
     },
     {
       "album": {
+        "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+        "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123624,
+      "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+      "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
+    },
+    {
+      "album": {
         "name": "X-MEN: FIRST CLASS",
         "url": "https://open.spotify.com/album/14jwLvbmFd60gtCScp5pcc"
       },
@@ -5652,7 +5682,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 169413,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/30uCmqegKQnH5AbOE51gPD"
@@ -8282,6 +8312,28 @@
       "duration_ms": 196612,
       "name": "Lonely King",
       "url": "https://open.spotify.com/track/6xkkNUxwMGoGHUE9bewC4O"
+    },
+    {
+      "album": {
+        "name": "D\u0101M-FunK Presents The Music of Grand Theft Auto Online Original Score",
+        "url": "https://open.spotify.com/album/2bhA2miYR9z7etELwRl7Us"
+      },
+      "artists": [
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178543,
+      "name": "LOS SANTOS DRUG WARS",
+      "url": "https://open.spotify.com/track/3ChHOgGHUSBJBCr4JwfvQP"
     },
     {
       "album": {
@@ -12759,6 +12811,36 @@
     },
     {
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/7KiawVJTzXPxU7vvtSY5eW"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Forts",
+          "url": "https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252453,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/0uipX8PqFOjgiY43E4lgLe"
+    },
+    {
+      "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
         "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
       },
@@ -12904,7 +12986,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 91820,
       "name": "SUICIDE YEAR",
       "url": "https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b"
@@ -13064,6 +13146,28 @@
       "duration_ms": 215500,
       "name": "Sweden",
       "url": "https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5"
+    },
+    {
+      "album": {
+        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/5G5hspjbhZC9s6btkm76rN"
     },
     {
       "album": {
@@ -14006,7 +14110,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 197694,
       "name": "The Search - Edit",
       "url": "https://open.spotify.com/track/4tZDUt8vHpvjfOXcHwOvtq"
@@ -14856,7 +14960,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 171946,
       "name": "Understand",
       "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
@@ -15842,6 +15946,32 @@
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+    },
+    {
+      "album": {
+        "name": "You & Me Makes Us",
+        "url": "https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "DEEGAN",
+          "url": "https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176055,
+      "name": "You & Me Makes Us",
+      "url": "https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q"
     },
     {
       "album": {

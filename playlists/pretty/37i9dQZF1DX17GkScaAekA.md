@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,402 likes - 69 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,571 likes - 69 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,6 +76,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 66 | [Music for a While \(from Oedipus, Z\. 583\)](https://open.spotify.com/track/2gqSse5NXNCpk898aExGqT) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF) | [Night Passages](https://open.spotify.com/album/3rtPQEquVFQAOUntfiPMvC) | 4:10 |
 | 67 | [Reminiscence](https://open.spotify.com/track/4rl0Zp21AhOflFl6ttv6Ou) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [The Chopin Project](https://open.spotify.com/album/4HA4XXhCzftKn9O59YnUwH) | 4:28 |
 | 68 | [Mahler / Transcr\. Tharaud: Symphony No\. 5 in C\-Sharp Minor, Pt\. 3: IV\. Adagietto](https://open.spotify.com/track/2wRDxGoCJWiWVNgjC8eHwJ) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Le Poète du piano](https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk) | 10:36 |
-| 69 | [Schubert: Cello Sonata in A Minor, D\. 821, "Arpeggione": II\. Adagio](https://open.spotify.com/track/0mphqBldbD5cTcWfnODhmI) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 3:40 |
+| 69 | [Schubert: Sonata in A Minor, D\. 821 "Arpeggione": II\. Adagio](https://open.spotify.com/track/0mphqBldbD5cTcWfnODhmI) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 3:40 |
 
 Snapshot ID: `MCwzZGQ0OTUxYzA2ZTg5ZmY2YjQwNWIyOTcwNWY0MzYyYmY3ZTE2Nzky`

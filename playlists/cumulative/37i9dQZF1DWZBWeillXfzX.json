@@ -42,6 +42,24 @@
     {
       "album": {
         "name": "Pressure",
+        "url": "https://open.spotify.com/album/6U5r2stVlrkxLZT7dUH4Vg"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 168293,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/4qx9q7xl37ijJrayYyOkRq"
+    },
+    {
+      "album": {
+        "name": "Pressure",
         "url": "https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi"
       },
       "artists": [
@@ -590,6 +608,24 @@
     {
       "album": {
         "name": "Chills & Thrills",
+        "url": "https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241706,
+      "name": "Groove With Me",
+      "url": "https://open.spotify.com/track/1p1A5KPgbC1cXP70BVzo4D"
+    },
+    {
+      "album": {
+        "name": "Chills & Thrills",
         "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
       },
       "artists": [
@@ -860,7 +896,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 268733,
       "name": "Royal Tea",
       "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"

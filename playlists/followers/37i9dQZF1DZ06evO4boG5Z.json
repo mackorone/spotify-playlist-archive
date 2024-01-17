@@ -1,472 +1,1179 @@
 {
-  "2022-09-17": 23124,
-  "2022-09-18": 23131,
-  "2022-09-19": 23139,
-  "2022-09-20": 23140,
-  "2022-09-21": 23150,
-  "2022-09-22": 23161,
-  "2022-09-23": 23173,
-  "2022-09-24": 23173,
-  "2022-09-25": 23200,
-  "2022-09-26": 23211,
-  "2022-09-27": 23222,
-  "2022-09-28": 23228,
-  "2022-09-29": 23235,
-  "2022-09-30": 23243,
-  "2022-10-01": 23256,
-  "2022-10-02": 23264,
-  "2022-10-03": 23281,
-  "2022-10-04": 23287,
-  "2022-10-05": 23292,
-  "2022-10-06": 23300,
-  "2022-10-07": 23308,
-  "2022-10-08": 23321,
-  "2022-10-09": 23330,
-  "2022-10-10": 23336,
-  "2022-10-11": 23346,
-  "2022-10-12": 23362,
-  "2022-10-13": 23381,
-  "2022-10-14": 23395,
-  "2022-10-15": 23406,
-  "2022-10-16": 23421,
-  "2022-10-17": 23430,
-  "2022-10-18": 23435,
-  "2022-10-19": 23449,
-  "2022-10-20": 23455,
-  "2022-10-21": 23465,
-  "2022-10-22": 23486,
-  "2022-10-23": 23497,
-  "2022-10-24": 23501,
-  "2022-10-25": 23508,
-  "2022-10-26": 23516,
-  "2022-10-27": 23529,
-  "2022-10-28": 23539,
-  "2022-10-29": 23551,
-  "2022-10-30": 23555,
-  "2022-10-31": 23561,
-  "2022-11-01": 23565,
-  "2022-11-02": 23577,
-  "2022-11-03": 23578,
-  "2022-11-04": 23591,
-  "2022-11-05": 23597,
-  "2022-11-06": 23603,
-  "2022-11-07": 23611,
-  "2022-11-08": 23621,
-  "2022-11-09": 23632,
-  "2022-11-10": 23637,
-  "2022-11-11": 23647,
-  "2022-11-12": 23655,
-  "2022-11-13": 23665,
-  "2022-11-14": 23672,
-  "2022-11-15": 23681,
-  "2022-11-16": 23687,
-  "2022-11-17": 23695,
-  "2022-11-18": 23694,
-  "2022-11-19": 23694,
-  "2022-11-20": 23710,
-  "2022-11-21": 23719,
-  "2022-11-22": 23727,
-  "2022-11-23": 23735,
-  "2022-11-24": 23747,
-  "2022-11-25": 23763,
-  "2022-11-26": 23771,
-  "2022-11-27": 23777,
-  "2022-11-28": 23787,
-  "2022-11-29": 23795,
-  "2022-11-30": 23803,
-  "2022-12-01": 23819,
-  "2022-12-02": 23827,
-  "2022-12-03": 23851,
-  "2022-12-04": 23864,
-  "2022-12-05": 23873,
-  "2022-12-06": 23892,
-  "2022-12-07": 23898,
-  "2022-12-08": 23905,
-  "2022-12-09": 23914,
-  "2022-12-10": 23921,
-  "2022-12-11": 23920,
-  "2022-12-12": 23927,
-  "2022-12-13": 23924,
-  "2022-12-14": 23929,
-  "2022-12-15": 23935,
-  "2022-12-16": 23947,
-  "2022-12-17": 23952,
-  "2022-12-18": 23961,
-  "2022-12-19": 23975,
-  "2022-12-20": 24003,
-  "2022-12-21": 24003,
-  "2022-12-22": 24012,
-  "2022-12-24": 24028,
-  "2022-12-25": 24037,
-  "2022-12-26": 24043,
-  "2022-12-27": 24047,
-  "2022-12-28": 24056,
-  "2022-12-29": 24059,
-  "2022-12-30": 24064,
-  "2022-12-31": 24067,
-  "2023-01-01": 24067,
-  "2023-01-02": 24068,
-  "2023-01-03": 24080,
-  "2023-01-04": 24097,
-  "2023-01-05": 24103,
-  "2023-01-06": 24114,
-  "2023-01-07": 24124,
-  "2023-01-08": 24127,
-  "2023-01-09": 24141,
-  "2023-01-10": 24146,
-  "2023-01-11": 24153,
-  "2023-01-12": 24162,
-  "2023-01-13": 24173,
-  "2023-01-14": 24196,
-  "2023-01-15": 24193,
-  "2023-01-16": 24213,
-  "2023-01-17": 24227,
-  "2023-01-18": 24236,
-  "2023-01-19": 24239,
-  "2023-01-20": 24249,
-  "2023-01-21": 24256,
-  "2023-01-22": 24267,
-  "2023-01-23": 24274,
-  "2023-01-24": 24284,
-  "2023-01-25": 24289,
-  "2023-01-26": 24299,
-  "2023-01-27": 24320,
-  "2023-01-28": 24333,
-  "2023-01-29": 24338,
-  "2023-01-30": 24347,
-  "2023-01-31": 24347,
-  "2023-02-01": 24359,
-  "2023-02-02": 24370,
-  "2023-02-03": 24381,
-  "2023-02-04": 24395,
-  "2023-02-05": 24403,
-  "2023-02-06": 24419,
-  "2023-02-07": 24433,
-  "2023-02-08": 24454,
-  "2023-02-09": 24454,
-  "2023-02-10": 24461,
-  "2023-02-11": 24467,
-  "2023-02-12": 24478,
-  "2023-02-13": 24485,
-  "2023-02-14": 24485,
-  "2023-02-15": 24487,
-  "2023-02-16": 24499,
-  "2023-02-17": 24501,
-  "2023-02-18": 24517,
-  "2023-02-19": 24519,
-  "2023-02-20": 24531,
-  "2023-02-21": 24543,
-  "2023-02-22": 24543,
-  "2023-02-23": 24552,
-  "2023-02-24": 24566,
-  "2023-02-25": 24578,
-  "2023-02-26": 24592,
-  "2023-02-27": 24612,
-  "2023-02-28": 24612,
-  "2023-03-01": 24615,
-  "2023-03-02": 24633,
-  "2023-03-03": 24644,
-  "2023-03-04": 24655,
-  "2023-03-05": 24681,
-  "2023-03-06": 24681,
-  "2023-03-07": 24691,
-  "2023-03-08": 24704,
-  "2023-03-09": 24722,
-  "2023-03-10": 24746,
-  "2023-03-11": 24767,
-  "2023-03-12": 24777,
-  "2023-03-13": 24794,
-  "2023-03-14": 24811,
-  "2023-03-15": 24827,
-  "2023-03-16": 24827,
-  "2023-03-17": 24827,
-  "2023-03-18": 24871,
-  "2023-03-19": 24871,
-  "2023-03-20": 24897,
-  "2023-03-21": 24914,
-  "2023-03-22": 24916,
-  "2023-03-23": 24917,
-  "2023-03-24": 24917,
-  "2023-03-25": 24938,
-  "2023-03-26": 24944,
-  "2023-03-27": 24951,
-  "2023-03-28": 24957,
-  "2023-03-29": 24961,
-  "2023-03-30": 24979,
-  "2023-03-31": 24979,
-  "2023-04-01": 24982,
-  "2023-04-02": 24993,
-  "2023-04-03": 25008,
-  "2023-04-04": 25013,
-  "2023-04-05": 25024,
-  "2023-04-06": 25028,
-  "2023-04-07": 25036,
-  "2023-04-09": 25060,
-  "2023-04-10": 25072,
-  "2023-04-11": 25088,
-  "2023-04-12": 25088,
-  "2023-04-13": 25088,
-  "2023-04-14": 25097,
-  "2023-04-15": 25109,
-  "2023-04-16": 25115,
-  "2023-04-17": 25117,
-  "2023-04-18": 25118,
-  "2023-04-19": 25130,
-  "2023-04-20": 25146,
-  "2023-04-21": 25151,
-  "2023-04-22": 25159,
-  "2023-04-23": 25166,
-  "2023-04-24": 25171,
-  "2023-04-25": 25174,
-  "2023-04-26": 25182,
-  "2023-04-27": 25190,
-  "2023-04-28": 25193,
-  "2023-04-29": 25206,
-  "2023-04-30": 25214,
-  "2023-05-01": 25221,
-  "2023-05-02": 25230,
-  "2023-05-03": 25244,
-  "2023-05-04": 25251,
-  "2023-05-05": 25259,
-  "2023-05-06": 25264,
-  "2023-05-07": 25270,
-  "2023-05-08": 25279,
-  "2023-05-09": 25291,
-  "2023-05-10": 25306,
-  "2023-05-11": 25309,
-  "2023-05-12": 25310,
-  "2023-05-13": 25315,
-  "2023-05-14": 25321,
-  "2023-05-15": 25328,
-  "2023-05-16": 25337,
-  "2023-05-17": 25347,
-  "2023-05-18": 25355,
-  "2023-05-19": 25368,
-  "2023-05-20": 25380,
-  "2023-05-21": 25380,
-  "2023-05-22": 25380,
-  "2023-05-23": 25399,
-  "2023-05-24": 25413,
-  "2023-05-25": 25417,
-  "2023-05-26": 25424,
-  "2023-05-27": 25435,
-  "2023-05-28": 25446,
-  "2023-05-29": 25446,
-  "2023-05-30": 25453,
-  "2023-05-31": 25468,
-  "2023-06-01": 25476,
-  "2023-06-02": 25487,
-  "2023-06-03": 25492,
-  "2023-06-04": 25499,
-  "2023-06-05": 25507,
-  "2023-06-06": 25507,
-  "2023-06-07": 25514,
-  "2023-06-08": 25518,
-  "2023-06-09": 25527,
-  "2023-06-10": 25529,
-  "2023-06-11": 25537,
-  "2023-06-12": 25541,
-  "2023-06-13": 25548,
-  "2023-06-14": 25563,
-  "2023-06-15": 25565,
-  "2023-06-16": 25577,
-  "2023-06-17": 25584,
-  "2023-06-18": 25594,
-  "2023-06-19": 25603,
-  "2023-06-20": 25610,
-  "2023-06-21": 25620,
-  "2023-06-22": 25628,
-  "2023-06-23": 25638,
-  "2023-06-24": 25643,
-  "2023-06-25": 25647,
-  "2023-06-26": 25658,
-  "2023-06-27": 25662,
-  "2023-06-28": 25666,
-  "2023-06-29": 25670,
-  "2023-06-30": 25680,
-  "2023-07-01": 25694,
-  "2023-07-02": 25694,
-  "2023-07-03": 25701,
-  "2023-07-04": 25710,
-  "2023-07-05": 25715,
-  "2023-07-06": 25723,
-  "2023-07-07": 25723,
-  "2023-07-08": 25723,
-  "2023-07-09": 25740,
-  "2023-07-10": 25748,
-  "2023-07-11": 25759,
-  "2023-07-12": 25762,
-  "2023-07-13": 25771,
-  "2023-07-14": 25777,
-  "2023-07-15": 25787,
-  "2023-07-16": 25791,
-  "2023-07-17": 25798,
-  "2023-07-18": 25802,
-  "2023-07-19": 25806,
-  "2023-07-20": 25806,
-  "2023-07-21": 25820,
-  "2023-07-22": 25831,
-  "2023-07-23": 25838,
-  "2023-07-24": 25845,
-  "2023-07-25": 25854,
-  "2023-07-26": 25858,
-  "2023-07-27": 25865,
-  "2023-07-28": 25865,
-  "2023-07-29": 25878,
-  "2023-07-30": 25878,
-  "2023-07-31": 25893,
-  "2023-08-01": 25900,
-  "2023-08-02": 25910,
-  "2023-08-03": 25922,
-  "2023-08-04": 25925,
-  "2023-08-05": 25926,
-  "2023-08-06": 25942,
-  "2023-08-07": 25942,
-  "2023-08-08": 25949,
-  "2023-08-09": 25957,
-  "2023-08-10": 25963,
-  "2023-08-11": 25970,
-  "2023-08-12": 25970,
-  "2023-08-13": 25970,
-  "2023-08-14": 25970,
-  "2023-08-15": 25970,
-  "2023-08-16": 25970,
-  "2023-08-17": 25970,
-  "2023-08-18": 25970,
-  "2023-08-19": 25970,
-  "2023-08-20": 26033,
-  "2023-08-21": 26033,
-  "2023-08-22": 26044,
-  "2023-08-23": 26044,
-  "2023-08-24": 26044,
-  "2023-08-25": 26044,
-  "2023-08-26": 26070,
-  "2023-08-27": 26070,
-  "2023-08-28": 26083,
-  "2023-08-29": 26083,
-  "2023-08-30": 26083,
-  "2023-08-31": 26095,
-  "2023-09-01": 26100,
-  "2023-09-02": 26100,
-  "2023-09-03": 26100,
-  "2023-09-04": 26100,
-  "2023-09-05": 26100,
-  "2023-09-06": 26100,
-  "2023-09-07": 26100,
-  "2023-09-08": 26100,
-  "2023-09-09": 26100,
-  "2023-09-10": 26100,
-  "2023-09-11": 26100,
-  "2023-09-12": 26100,
-  "2023-09-13": 26100,
-  "2023-09-14": 26100,
-  "2023-09-15": 26100,
-  "2023-09-16": 26100,
-  "2023-09-17": 26100,
-  "2023-09-18": 26100,
-  "2023-09-19": 26100,
-  "2023-09-20": 26100,
-  "2023-09-21": 26100,
-  "2023-09-22": 26240,
-  "2023-09-23": 26240,
-  "2023-09-24": 26240,
-  "2023-09-25": 26240,
-  "2023-09-26": 26258,
-  "2023-09-27": 26258,
-  "2023-09-28": 26258,
-  "2023-09-29": 26258,
-  "2023-09-30": 26258,
-  "2023-10-01": 26258,
-  "2023-10-02": 26258,
-  "2023-10-03": 26258,
-  "2023-10-04": 26258,
-  "2023-10-05": 26258,
-  "2023-10-06": 26258,
-  "2023-10-07": 26258,
-  "2023-10-08": 26258,
-  "2023-10-09": 26258,
-  "2023-10-10": 26258,
-  "2023-10-11": 26258,
-  "2023-10-12": 26258,
-  "2023-10-13": 26258,
-  "2023-10-14": 26258,
-  "2023-10-15": 26258,
-  "2023-10-16": 26258,
-  "2023-10-17": 26258,
-  "2023-10-18": 26258,
-  "2023-10-19": 26258,
-  "2023-10-20": 26258,
-  "2023-10-21": 26258,
-  "2023-10-22": 26258,
-  "2023-10-23": 26258,
-  "2023-10-24": 26258,
-  "2023-10-25": 26258,
-  "2023-10-26": 26258,
-  "2023-10-27": 26258,
-  "2023-10-28": 26258,
-  "2023-10-29": 26258,
-  "2023-10-30": 26258,
-  "2023-10-31": 26258,
-  "2023-11-01": 26258,
-  "2023-11-02": 26258,
-  "2023-11-03": 26258,
-  "2023-11-04": 26258,
-  "2023-11-05": 26258,
-  "2023-11-06": 26258,
-  "2023-11-07": 26258,
-  "2023-11-08": 26258,
-  "2023-11-09": 26258,
-  "2023-11-10": 26258,
-  "2023-11-11": 26557,
-  "2023-11-12": 26557,
-  "2023-11-13": 26557,
-  "2023-11-14": 26557,
-  "2023-11-15": 26557,
-  "2023-11-16": 26557,
-  "2023-11-17": 26557,
-  "2023-11-18": 26557,
-  "2023-11-19": 26557,
-  "2023-11-20": 26557,
-  "2023-11-21": 26557,
-  "2023-11-22": 26557,
-  "2023-11-23": 26557,
-  "2023-11-24": 26557,
-  "2023-11-25": 26557,
-  "2023-11-26": 26557,
-  "2023-11-27": 26557,
-  "2023-11-28": 26557,
-  "2023-11-29": 26557,
-  "2023-11-30": 26557,
-  "2023-12-01": 26557,
-  "2023-12-02": 26557,
-  "2023-12-03": 26557,
-  "2023-12-04": 26557,
-  "2023-12-05": 26557,
-  "2023-12-06": 26557,
-  "2023-12-07": 26557,
-  "2023-12-08": 26557,
-  "2023-12-09": 26557,
-  "2023-12-10": 26557,
-  "2023-12-11": 26557,
-  "2023-12-12": 26557,
-  "2023-12-13": 26557,
-  "2023-12-14": 26758,
-  "2023-12-15": 26764,
-  "2023-12-16": 26768,
-  "2023-12-17": 26774,
-  "2023-12-18": 26777,
-  "2023-12-19": 26785,
-  "2023-12-20": 26792,
-  "2023-12-21": 26799,
-  "2023-12-22": 26800,
-  "2023-12-23": 26802,
-  "2023-12-24": 26810,
-  "2023-12-25": 26812,
-  "2023-12-26": 26816,
-  "2023-12-27": 26819,
-  "2023-12-30": 26826,
-  "2023-12-31": 26830,
-  "2024-01-01": 26834,
-  "2024-01-02": 26837,
-  "2024-01-03": 26840
+  "2024-01-17": 26881,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Millencolin. The essential tracks, all in one playlist.",
+  "name": "This Is Millencolin",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115319,
+      "name": "A Whole Lot Less",
+      "url": "https://open.spotify.com/track/5bT1X7cPnnQHr7bUpsTsBI"
+    },
+    {
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119946,
+      "name": "Autopilot Mode",
+      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
+    },
+    {
+      "album": {
+        "name": "True Brew EP",
+        "url": "https://open.spotify.com/album/4p3MpATyX9lMAnCH2TdVhp"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 197295,
+      "name": "Balanced Boy",
+      "url": "https://open.spotify.com/track/3wV7dPlz2AxLgI9Oil3d8D"
+    },
+    {
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138002,
+      "name": "Biftek Supernova",
+      "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
+    },
+    {
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "Black Eye",
+      "url": "https://open.spotify.com/track/4pzwZoV0TGAByCLxlt2QCe"
+    },
+    {
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Boring Planet",
+      "url": "https://open.spotify.com/track/3OQfwNOhDOodlqBYixpc3A"
+    },
+    {
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147493,
+      "name": "Bring Me Home",
+      "url": "https://open.spotify.com/track/3LZEfNShP0RjbHyd9vXQ2m"
+    },
+    {
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120866,
+      "name": "Bullion",
+      "url": "https://open.spotify.com/track/3gooDJFGBLgQO9OOmYeB7s"
+    },
+    {
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 181266,
+      "name": "Da Strike",
+      "url": "https://open.spotify.com/track/1zpz6NAlgOE2bLvfidhQhN"
+    },
+    {
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121373,
+      "name": "Dance Craze",
+      "url": "https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2"
+    },
+    {
+      "album": {
+        "name": "Machine 15",
+        "url": "https://open.spotify.com/album/37R1jMircABSFxsoWulxTa"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 217306,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/61lH2PBKTjJ3M8CUe5YsND"
+    },
+    {
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220973,
+      "name": "Diznee Time",
+      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
+    },
+    {
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98426,
+      "name": "Domestic Subway",
+      "url": "https://open.spotify.com/track/54lIoeGRSmMGExbgCsgVo7"
+    },
+    {
+      "album": {
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "Duck Pond",
+      "url": "https://open.spotify.com/track/0a2k7X1UBRY9rotYQJg0mi"
+    },
+    {
+      "album": {
+        "name": "The Melancholy Connection",
+        "url": "https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "E20 Norr",
+      "url": "https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC"
+    },
+    {
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 154293,
+      "name": "Egocentric Man",
+      "url": "https://open.spotify.com/track/6gcTVs1P3Rkl4XYF2MF74j"
+    },
+    {
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 134173,
+      "name": "Entrance At Rudebrook",
+      "url": "https://open.spotify.com/track/0lodVk2uYM4UHyMBexlEHE"
+    },
+    {
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171920,
+      "name": "Farewell My Hell",
+      "url": "https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh"
+    },
+    {
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112733,
+      "name": "Fazil's Friend",
+      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
+    },
+    {
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/1Dsb0L3HuBIn11cO5MauJE"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166093,
+      "name": "For Yesterday",
+      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
+    },
+    {
+      "album": {
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122773,
+      "name": "Fox",
+      "url": "https://open.spotify.com/track/21eOk9YSfReHLXFvxPURtk"
+    },
+    {
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Friends 'Til the End",
+      "url": "https://open.spotify.com/track/00cjb9ge4OJllcoUN8l1jm"
+    },
+    {
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
+    },
+    {
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205106,
+      "name": "Happiness For Dogs",
+      "url": "https://open.spotify.com/track/5sSOSrmrxyiucqvoStb5oq"
+    },
+    {
+      "album": {
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "Hellman",
+      "url": "https://open.spotify.com/track/5OnxMW0KmSqiZjwnpTzqE8"
+    },
+    {
+      "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 176800,
+      "name": "In a Room",
+      "url": "https://open.spotify.com/track/3msKuwHFNaHteIb7E66Iou"
+    },
+    {
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "Kemp",
+      "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
+    },
+    {
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147693,
+      "name": "Killercrush",
+      "url": "https://open.spotify.com/track/4RyifJbF8JhMtFdR2Bzslt"
+    },
+    {
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141706,
+      "name": "Leona",
+      "url": "https://open.spotify.com/track/1meXK8bC29YKP011kHQml1"
+    },
+    {
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132933,
+      "name": "Lozin' Must",
+      "url": "https://open.spotify.com/track/7Kd6VbwhKBfEMV3aLbxLkC"
+    },
+    {
+      "album": {
+        "name": "Machine 15",
+        "url": "https://open.spotify.com/album/37R1jMircABSFxsoWulxTa"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 149400,
+      "name": "Machine 15",
+      "url": "https://open.spotify.com/track/0A0iJ8S2YskwUruZTHEAWu"
+    },
+    {
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "Man Or Mouse",
+      "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
+    },
+    {
+      "album": {
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Material Boy",
+      "url": "https://open.spotify.com/track/4IRDVWypOZIcxUOeVhLVCC"
+    },
+    {
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 146426,
+      "name": "Monkey Boogie",
+      "url": "https://open.spotify.com/track/0LzAsmWBfDkmL3ujeG7Y0x"
+    },
+    {
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132333,
+      "name": "Mooseman's Jukebox",
+      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
+    },
+    {
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 126573,
+      "name": "Move Your Car",
+      "url": "https://open.spotify.com/track/3LDqGUQfSMrJs4gQQID2ZZ"
+    },
+    {
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Mr. Clean",
+      "url": "https://open.spotify.com/track/0lFRuSSXio2yWeSBbw2Gis"
+    },
+    {
+      "album": {
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "No Cigar",
+      "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178989,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/7fQGfzF4ZEtyczeU7zXb1d"
+    },
+    {
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176493,
+      "name": "Olympic",
+      "url": "https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm"
+    },
+    {
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 171893,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/79kY2pnXKab11qrHoVlRgk"
+    },
+    {
+      "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 140840,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0tUXovjFyn5hyVLXXWMP5G"
+    },
+    {
+      "album": {
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "Penguins & Polarbears",
+      "url": "https://open.spotify.com/track/3jRsoe4Vkxa4BMYqGHX8L0"
+    },
+    {
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158280,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/7t6NcTfT2dWcI86fdvRwUl"
+    },
+    {
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160173,
+      "name": "Random I Am",
+      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
+    },
+    {
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/2WbxknLnzzrg2C1l3tivqc"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181113,
+      "name": "Reach You",
+      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
+    },
+    {
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157386,
+      "name": "Sense & Sensibility",
+      "url": "https://open.spotify.com/track/0UaOzDAzZPiPfXP2AbIrpf"
+    },
+    {
+      "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 134653,
+      "name": "Shake Me",
+      "url": "https://open.spotify.com/track/3aLD2mEsJpKgB1Ipq0dfSC"
+    },
+    {
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219504,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
+    },
+    {
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79533,
+      "name": "Silent Suicide",
+      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
+    },
+    {
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170986,
+      "name": "Something I Would Die For",
+      "url": "https://open.spotify.com/track/1DQ7ahNI475OGg2aNib4V2"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199589,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187276,
+      "name": "Sour Days",
+      "url": "https://open.spotify.com/track/2i27IazgPge4Q08c6YYhk0"
+    },
+    {
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 198200,
+      "name": "Stalemate",
+      "url": "https://open.spotify.com/track/3vBpFa87OtswBtpVKvke4I"
+    },
+    {
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 163826,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/3rakx65uBKaOsspCn71bYF"
+    },
+    {
+      "album": {
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 290266,
+      "name": "The Ballad",
+      "url": "https://open.spotify.com/track/4MW9YLsGZ0FoxrxmfAsrYc"
+    },
+    {
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153466,
+      "name": "The Story Of My Life",
+      "url": "https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4"
+    },
+    {
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165240,
+      "name": "Trendy Winds",
+      "url": "https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP"
+    },
+    {
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202213,
+      "name": "True Brew",
+      "url": "https://open.spotify.com/track/2Yj1mVu6ONbiz4zaxDq4PH"
+    },
+    {
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175640,
+      "name": "Twenty Two",
+      "url": "https://open.spotify.com/track/2xvDTagYO7g68Ap5dD77E1"
+    },
+    {
+      "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109693,
+      "name": "Vixen",
+      "url": "https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk"
+    },
+    {
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126893,
+      "name": "Vulcan Ears",
+      "url": "https://open.spotify.com/track/5N3LmVCqLneS7NkmDwozXZ"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168808,
+      "name": "Yanny & Laurel",
+      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4boG5Z"
 }

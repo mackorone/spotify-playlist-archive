@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FlJOXGyE6c.md) - [plain]
 
 > The world of”TOUKEN RANBU”! PCブラウザ・スマホアプリゲーム「刀剣乱舞\-ONLINE\-」。<br/>Musical、Animation、Movieと広がる革命的な世界を彩る楽曲を一つのプレイリストで！ \(C\)2015 EXNOA LLC/Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,626 likes - 95 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,760 likes - 95 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

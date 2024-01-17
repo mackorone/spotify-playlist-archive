@@ -1,735 +1,1833 @@
 {
-  "2021-12-25": 264852,
-  "2021-12-26": 264967,
-  "2021-12-27": 265326,
-  "2021-12-28": 265328,
-  "2021-12-29": 265528,
-  "2021-12-30": 265671,
-  "2021-12-31": 265803,
-  "2022-01-01": 265988,
-  "2022-01-02": 266034,
-  "2022-01-03": 266079,
-  "2022-01-04": 266178,
-  "2022-01-05": 266272,
-  "2022-01-06": 266381,
-  "2022-01-07": 266499,
-  "2022-01-08": 266828,
-  "2022-01-09": 266833,
-  "2022-01-10": 266972,
-  "2022-01-11": 267066,
-  "2022-01-12": 267195,
-  "2022-01-13": 267378,
-  "2022-01-14": 267584,
-  "2022-01-15": 267811,
-  "2022-01-16": 267829,
-  "2022-01-17": 268115,
-  "2022-01-18": 268129,
-  "2022-01-19": 268223,
-  "2022-01-20": 268344,
-  "2022-01-21": 268474,
-  "2022-01-22": 268603,
-  "2022-01-23": 268776,
-  "2022-01-24": 268908,
-  "2022-01-25": 269033,
-  "2022-01-26": 269197,
-  "2022-01-27": 269352,
-  "2022-01-28": 269495,
-  "2022-01-29": 269668,
-  "2022-01-30": 269831,
-  "2022-01-31": 269947,
-  "2022-02-01": 270053,
-  "2022-02-02": 270197,
-  "2022-02-03": 270343,
-  "2022-02-04": 270484,
-  "2022-02-05": 270618,
-  "2022-02-06": 270786,
-  "2022-02-07": 270914,
-  "2022-02-08": 271027,
-  "2022-02-09": 271157,
-  "2022-02-10": 271348,
-  "2022-02-11": 271502,
-  "2022-02-12": 271648,
-  "2022-02-13": 271817,
-  "2022-02-14": 271987,
-  "2022-02-15": 272104,
-  "2022-02-16": 272259,
-  "2022-02-17": 272361,
-  "2022-02-18": 272444,
-  "2022-02-19": 272604,
-  "2022-02-20": 272747,
-  "2022-02-21": 272886,
-  "2022-02-22": 273031,
-  "2022-02-23": 273157,
-  "2022-02-24": 273332,
-  "2022-02-25": 273444,
-  "2022-02-26": 273559,
-  "2022-02-27": 273796,
-  "2022-02-28": 273796,
-  "2022-03-01": 273865,
-  "2022-03-02": 273970,
-  "2022-03-03": 274104,
-  "2022-03-04": 274198,
-  "2022-03-05": 274338,
-  "2022-03-06": 274479,
-  "2022-03-07": 274600,
-  "2022-03-08": 274685,
-  "2022-03-09": 274786,
-  "2022-03-10": 274915,
-  "2022-03-11": 275021,
-  "2022-03-12": 275099,
-  "2022-03-13": 275254,
-  "2022-03-14": 275366,
-  "2022-03-15": 275456,
-  "2022-03-16": 275558,
-  "2022-03-17": 275670,
-  "2022-03-18": 275805,
-  "2022-03-19": 275888,
-  "2022-03-20": 275888,
-  "2022-03-21": 276153,
-  "2022-03-22": 276245,
-  "2022-03-23": 276339,
-  "2022-03-24": 276458,
-  "2022-03-25": 276591,
-  "2022-03-26": 276715,
-  "2022-03-27": 276838,
-  "2022-03-28": 276963,
-  "2022-03-30": 277175,
-  "2022-03-31": 277260,
-  "2022-04-01": 277400,
-  "2022-04-02": 277506,
-  "2022-04-03": 277651,
-  "2022-04-04": 277769,
-  "2022-04-05": 277881,
-  "2022-04-06": 277983,
-  "2022-04-07": 278105,
-  "2022-04-08": 278248,
-  "2022-04-09": 278369,
-  "2022-04-10": 278649,
-  "2022-04-11": 278756,
-  "2022-04-12": 278769,
-  "2022-04-13": 278874,
-  "2022-04-14": 278981,
-  "2022-04-15": 279103,
-  "2022-04-16": 279224,
-  "2022-04-17": 279317,
-  "2022-04-18": 279440,
-  "2022-04-19": 279493,
-  "2022-04-20": 279570,
-  "2022-04-21": 279667,
-  "2022-04-22": 279800,
-  "2022-04-23": 279929,
-  "2022-04-24": 280054,
-  "2022-04-25": 280164,
-  "2022-04-26": 280255,
-  "2022-04-27": 280393,
-  "2022-04-28": 280503,
-  "2022-04-29": 280673,
-  "2022-04-30": 280804,
-  "2022-05-01": 280929,
-  "2022-05-02": 280929,
-  "2022-05-03": 281019,
-  "2022-05-04": 281107,
-  "2022-05-05": 281210,
-  "2022-05-06": 281259,
-  "2022-05-07": 281388,
-  "2022-05-08": 281584,
-  "2022-05-09": 281626,
-  "2022-05-10": 281714,
-  "2022-05-11": 281810,
-  "2022-05-12": 281919,
-  "2022-05-13": 282008,
-  "2022-05-14": 282133,
-  "2022-05-15": 282253,
-  "2022-05-16": 282315,
-  "2022-05-17": 282380,
-  "2022-05-18": 282485,
-  "2022-05-19": 282578,
-  "2022-05-20": 282673,
-  "2022-05-21": 282838,
-  "2022-05-22": 282838,
-  "2022-05-23": 282904,
-  "2022-05-24": 282982,
-  "2022-05-25": 283046,
-  "2022-05-26": 283136,
-  "2022-05-27": 283246,
-  "2022-05-28": 283324,
-  "2022-05-29": 283412,
-  "2022-05-30": 283451,
-  "2022-05-31": 283499,
-  "2022-06-01": 283600,
-  "2022-06-02": 283621,
-  "2022-06-03": 283693,
-  "2022-06-04": 283768,
-  "2022-06-05": 283855,
-  "2022-06-06": 283930,
-  "2022-06-07": 284001,
-  "2022-06-08": 284060,
-  "2022-06-09": 284130,
-  "2022-06-10": 284206,
-  "2022-06-11": 284278,
-  "2022-06-12": 284375,
-  "2022-06-13": 284426,
-  "2022-06-14": 284475,
-  "2022-06-15": 284544,
-  "2022-06-16": 284632,
-  "2022-06-17": 284699,
-  "2022-06-18": 284743,
-  "2022-06-19": 284896,
-  "2022-06-20": 284896,
-  "2022-06-21": 284973,
-  "2022-06-22": 285115,
-  "2022-06-23": 285115,
-  "2022-06-24": 285196,
-  "2022-06-25": 285258,
-  "2022-06-26": 285313,
-  "2022-06-27": 285389,
-  "2022-06-28": 285459,
-  "2022-06-29": 285508,
-  "2022-06-30": 285536,
-  "2022-07-01": 285612,
-  "2022-07-02": 285720,
-  "2022-07-03": 285781,
-  "2022-07-04": 285845,
-  "2022-07-05": 285914,
-  "2022-07-06": 285983,
-  "2022-07-07": 286054,
-  "2022-07-08": 286107,
-  "2022-07-09": 286187,
-  "2022-07-10": 286271,
-  "2022-07-11": 286369,
-  "2022-07-12": 286437,
-  "2022-07-13": 286511,
-  "2022-07-14": 286579,
-  "2022-07-15": 286651,
-  "2022-07-16": 286734,
-  "2022-07-17": 286813,
-  "2022-07-18": 286915,
-  "2022-07-19": 286971,
-  "2022-07-20": 287064,
-  "2022-07-21": 287150,
-  "2022-07-22": 287206,
-  "2022-07-23": 287264,
-  "2022-07-24": 287371,
-  "2022-07-25": 287457,
-  "2022-07-26": 287560,
-  "2022-07-27": 287628,
-  "2022-07-28": 287680,
-  "2022-07-29": 287764,
-  "2022-07-30": 287914,
-  "2022-07-31": 287914,
-  "2022-08-01": 287999,
-  "2022-08-02": 288165,
-  "2022-08-03": 288165,
-  "2022-08-04": 288250,
-  "2022-08-05": 288350,
-  "2022-08-06": 288442,
-  "2022-08-07": 288529,
-  "2022-08-08": 288615,
-  "2022-08-09": 288691,
-  "2022-08-10": 288773,
-  "2022-08-11": 288853,
-  "2022-08-12": 288914,
-  "2022-08-13": 288960,
-  "2022-08-14": 289066,
-  "2022-08-15": 289176,
-  "2022-08-16": 289249,
-  "2022-08-17": 289347,
-  "2022-08-18": 289423,
-  "2022-08-19": 289522,
-  "2022-08-20": 289616,
-  "2022-08-21": 289733,
-  "2022-08-22": 289845,
-  "2022-08-23": 289930,
-  "2022-08-24": 290018,
-  "2022-08-25": 290122,
-  "2022-08-26": 290210,
-  "2022-08-27": 290337,
-  "2022-08-28": 290448,
-  "2022-08-29": 290530,
-  "2022-08-30": 290561,
-  "2022-08-31": 290569,
-  "2022-09-01": 290546,
-  "2022-09-02": 290554,
-  "2022-09-03": 290660,
-  "2022-09-04": 290575,
-  "2022-09-05": 290590,
-  "2022-09-06": 290649,
-  "2022-09-07": 290736,
-  "2022-09-09": 290899,
-  "2022-09-10": 290981,
-  "2022-09-11": 291056,
-  "2022-09-12": 291125,
-  "2022-09-13": 291192,
-  "2022-09-15": 291403,
-  "2022-09-16": 291479,
-  "2022-09-17": 291591,
-  "2022-09-18": 291715,
-  "2022-09-19": 291823,
-  "2022-09-20": 291929,
-  "2022-09-21": 292018,
-  "2022-09-22": 292142,
-  "2022-09-23": 292259,
-  "2022-09-24": 292366,
-  "2022-09-25": 292471,
-  "2022-09-26": 292538,
-  "2022-09-27": 292655,
-  "2022-09-28": 292777,
-  "2022-09-29": 292901,
-  "2022-09-30": 293038,
-  "2022-10-01": 293165,
-  "2022-10-02": 293256,
-  "2022-10-03": 293366,
-  "2022-10-04": 293474,
-  "2022-10-05": 293575,
-  "2022-10-06": 293704,
-  "2022-10-07": 293817,
-  "2022-10-08": 293964,
-  "2022-10-09": 294173,
-  "2022-10-10": 294224,
-  "2022-10-11": 294347,
-  "2022-10-12": 294464,
-  "2022-10-13": 294573,
-  "2022-10-14": 294704,
-  "2022-10-15": 294845,
-  "2022-10-16": 294982,
-  "2022-10-17": 295103,
-  "2022-10-18": 295208,
-  "2022-10-19": 295280,
-  "2022-10-20": 295376,
-  "2022-10-21": 295481,
-  "2022-10-22": 295576,
-  "2022-10-23": 295681,
-  "2022-10-24": 295749,
-  "2022-10-25": 295826,
-  "2022-10-26": 295900,
-  "2022-10-27": 296027,
-  "2022-10-28": 296130,
-  "2022-10-29": 296234,
-  "2022-10-30": 296337,
-  "2022-10-31": 296427,
-  "2022-11-01": 296501,
-  "2022-11-02": 296598,
-  "2022-11-03": 296724,
-  "2022-11-04": 296860,
-  "2022-11-05": 296978,
-  "2022-11-06": 297085,
-  "2022-11-07": 297205,
-  "2022-11-08": 297312,
-  "2022-11-09": 297416,
-  "2022-11-10": 297514,
-  "2022-11-11": 297644,
-  "2022-11-12": 297777,
-  "2022-11-13": 297887,
-  "2022-11-14": 298006,
-  "2022-11-15": 298114,
-  "2022-11-16": 298225,
-  "2022-11-17": 298343,
-  "2022-11-18": 298338,
-  "2022-11-19": 298223,
-  "2022-11-20": 298440,
-  "2022-11-21": 298351,
-  "2022-11-22": 298688,
-  "2022-11-23": 298597,
-  "2022-11-24": 299093,
-  "2022-11-25": 299272,
-  "2022-11-26": 299383,
-  "2022-11-27": 299491,
-  "2022-11-28": 299567,
-  "2022-11-29": 299638,
-  "2022-11-30": 299714,
-  "2022-12-01": 299809,
-  "2022-12-02": 299899,
-  "2022-12-03": 300050,
-  "2022-12-04": 300210,
-  "2022-12-05": 300330,
-  "2022-12-06": 300402,
-  "2022-12-07": 300500,
-  "2022-12-08": 300560,
-  "2022-12-09": 300674,
-  "2022-12-10": 300793,
-  "2022-12-11": 300953,
-  "2022-12-12": 301064,
-  "2022-12-13": 301176,
-  "2022-12-14": 301268,
-  "2022-12-15": 301395,
-  "2022-12-16": 301472,
-  "2022-12-17": 301595,
-  "2022-12-18": 301713,
-  "2022-12-19": 301831,
-  "2022-12-20": 302028,
-  "2022-12-21": 302028,
-  "2022-12-22": 302118,
-  "2022-12-24": 302387,
-  "2022-12-25": 302514,
-  "2022-12-26": 302648,
-  "2022-12-27": 302775,
-  "2022-12-28": 302924,
-  "2022-12-29": 303029,
-  "2022-12-30": 303221,
-  "2022-12-31": 303381,
-  "2023-01-01": 303509,
-  "2023-01-02": 303619,
-  "2023-01-03": 303712,
-  "2023-01-04": 303800,
-  "2023-01-05": 303861,
-  "2023-01-06": 304038,
-  "2023-01-07": 304269,
-  "2023-01-08": 304305,
-  "2023-01-09": 304428,
-  "2023-01-10": 304507,
-  "2023-01-11": 304620,
-  "2023-01-12": 304779,
-  "2023-01-13": 304886,
-  "2023-01-14": 305149,
-  "2023-01-15": 305215,
-  "2023-01-16": 305355,
-  "2023-01-17": 305499,
-  "2023-01-18": 305634,
-  "2023-01-19": 305749,
-  "2023-01-20": 305908,
-  "2023-01-21": 306046,
-  "2023-01-22": 306219,
-  "2023-01-23": 306351,
-  "2023-01-24": 306480,
-  "2023-01-25": 306627,
-  "2023-01-26": 306749,
-  "2023-01-27": 306904,
-  "2023-01-28": 307071,
-  "2023-01-29": 307225,
-  "2023-01-30": 307380,
-  "2023-01-31": 307380,
-  "2023-02-01": 307607,
-  "2023-02-02": 307763,
-  "2023-02-03": 307933,
-  "2023-02-04": 308076,
-  "2023-02-05": 308236,
-  "2023-02-06": 308373,
-  "2023-02-07": 308492,
-  "2023-02-08": 308775,
-  "2023-02-09": 308775,
-  "2023-02-10": 308946,
-  "2023-02-11": 309099,
-  "2023-02-12": 309394,
-  "2023-02-13": 309504,
-  "2023-02-14": 309504,
-  "2023-02-15": 309647,
-  "2023-02-16": 309790,
-  "2023-02-17": 309962,
-  "2023-02-18": 310309,
-  "2023-02-19": 310354,
-  "2023-02-20": 310452,
-  "2023-02-21": 310573,
-  "2023-02-22": 310696,
-  "2023-02-23": 310853,
-  "2023-02-24": 310975,
-  "2023-02-25": 311149,
-  "2023-02-26": 311247,
-  "2023-02-27": 311506,
-  "2023-02-28": 311506,
-  "2023-03-01": 311648,
-  "2023-03-02": 311813,
-  "2023-03-03": 312001,
-  "2023-03-04": 312142,
-  "2023-03-05": 312413,
-  "2023-03-06": 312413,
-  "2023-03-07": 312570,
-  "2023-03-08": 312667,
-  "2023-03-09": 312774,
-  "2023-03-10": 312941,
-  "2023-03-11": 313102,
-  "2023-03-12": 313200,
-  "2023-03-13": 313344,
-  "2023-03-14": 313450,
-  "2023-03-15": 313531,
-  "2023-03-16": 313661,
-  "2023-03-17": 313661,
-  "2023-03-18": 313988,
-  "2023-03-19": 314122,
-  "2023-03-20": 314270,
-  "2023-03-21": 314370,
-  "2023-03-22": 314514,
-  "2023-03-23": 314635,
-  "2023-03-24": 314635,
-  "2023-03-25": 314933,
-  "2023-03-26": 315132,
-  "2023-03-27": 315289,
-  "2023-03-28": 315406,
-  "2023-03-29": 315598,
-  "2023-03-30": 315980,
-  "2023-03-31": 315980,
-  "2023-04-01": 316189,
-  "2023-04-02": 316397,
-  "2023-04-03": 316546,
-  "2023-04-04": 316689,
-  "2023-04-05": 316874,
-  "2023-04-06": 317031,
-  "2023-04-07": 317190,
-  "2023-04-09": 317478,
-  "2023-04-10": 317599,
-  "2023-04-11": 317846,
-  "2023-04-12": 317846,
-  "2023-04-13": 318008,
-  "2023-04-14": 318152,
-  "2023-04-15": 318299,
-  "2023-04-16": 318437,
-  "2023-04-17": 318594,
-  "2023-04-18": 318761,
-  "2023-04-19": 318944,
-  "2023-04-20": 319131,
-  "2023-04-21": 319300,
-  "2023-04-22": 319519,
-  "2023-04-23": 319739,
-  "2023-04-24": 319946,
-  "2023-04-25": 320135,
-  "2023-04-26": 320334,
-  "2023-04-27": 320505,
-  "2023-04-28": 320737,
-  "2023-04-29": 320957,
-  "2023-04-30": 321161,
-  "2023-05-01": 321317,
-  "2023-05-02": 321439,
-  "2023-05-03": 321585,
-  "2023-05-04": 321741,
-  "2023-05-05": 321886,
-  "2023-05-06": 322051,
-  "2023-05-07": 322219,
-  "2023-05-08": 322375,
-  "2023-05-09": 322523,
-  "2023-05-10": 322667,
-  "2023-05-11": 322811,
-  "2023-05-12": 322946,
-  "2023-05-13": 323123,
-  "2023-05-14": 323284,
-  "2023-05-15": 323444,
-  "2023-05-16": 323542,
-  "2023-05-17": 323696,
-  "2023-05-18": 323852,
-  "2023-05-19": 324015,
-  "2023-05-20": 324335,
-  "2023-05-21": 324335,
-  "2023-05-22": 324335,
-  "2023-05-23": 324550,
-  "2023-05-24": 324809,
-  "2023-05-25": 324862,
-  "2023-05-26": 325012,
-  "2023-05-27": 325158,
-  "2023-05-28": 325289,
-  "2023-05-29": 325289,
-  "2023-05-30": 325502,
-  "2023-05-31": 325623,
-  "2023-06-01": 325754,
-  "2023-06-02": 325890,
-  "2023-06-03": 326018,
-  "2023-06-04": 326150,
-  "2023-06-05": 326267,
-  "2023-06-06": 326402,
-  "2023-06-07": 326532,
-  "2023-06-08": 326625,
-  "2023-06-09": 326720,
-  "2023-06-10": 326830,
-  "2023-06-11": 326949,
-  "2023-06-12": 327054,
-  "2023-06-13": 327148,
-  "2023-06-14": 327260,
-  "2023-06-15": 327339,
-  "2023-06-16": 327437,
-  "2023-06-17": 327520,
-  "2023-06-18": 327643,
-  "2023-06-19": 327742,
-  "2023-06-20": 327838,
-  "2023-06-21": 327959,
-  "2023-06-22": 328061,
-  "2023-06-23": 328190,
-  "2023-06-24": 328292,
-  "2023-06-25": 328401,
-  "2023-06-26": 328505,
-  "2023-06-27": 328587,
-  "2023-06-28": 328648,
-  "2023-06-29": 328714,
-  "2023-06-30": 328797,
-  "2023-07-01": 329020,
-  "2023-07-02": 329020,
-  "2023-07-03": 329136,
-  "2023-07-04": 329248,
-  "2023-07-05": 329379,
-  "2023-07-06": 329643,
-  "2023-07-07": 329643,
-  "2023-07-08": 329766,
-  "2023-07-09": 329864,
-  "2023-07-10": 329993,
-  "2023-07-11": 330060,
-  "2023-07-12": 330173,
-  "2023-07-13": 330311,
-  "2023-07-14": 330466,
-  "2023-07-15": 330551,
-  "2023-07-16": 330682,
-  "2023-07-17": 330805,
-  "2023-07-18": 330945,
-  "2023-07-19": 331036,
-  "2023-07-20": 331122,
-  "2023-07-21": 331239,
-  "2023-07-22": 331355,
-  "2023-07-23": 331473,
-  "2023-07-24": 331579,
-  "2023-07-25": 331702,
-  "2023-07-26": 331791,
-  "2023-07-27": 331883,
-  "2023-07-28": 331967,
-  "2023-07-29": 332085,
-  "2023-07-30": 332166,
-  "2023-07-31": 332274,
-  "2023-08-01": 332368,
-  "2023-08-02": 332432,
-  "2023-08-03": 332535,
-  "2023-08-04": 332644,
-  "2023-08-05": 332728,
-  "2023-08-06": 332889,
-  "2023-08-07": 332889,
-  "2023-08-08": 333000,
-  "2023-08-09": 333075,
-  "2023-08-10": 333180,
-  "2023-08-11": 333274,
-  "2023-08-12": 333413,
-  "2023-08-13": 333535,
-  "2023-08-14": 333629,
-  "2023-08-15": 333769,
-  "2023-08-16": 333769,
-  "2023-08-17": 333860,
-  "2023-08-18": 333976,
-  "2023-08-19": 334096,
-  "2023-08-20": 334196,
-  "2023-08-21": 334308,
-  "2023-08-22": 334411,
-  "2023-08-23": 334521,
-  "2023-08-24": 334629,
-  "2023-08-25": 334745,
-  "2023-08-26": 334872,
-  "2023-08-27": 334995,
-  "2023-08-28": 335091,
-  "2023-08-29": 335214,
-  "2023-08-30": 335321,
-  "2023-08-31": 335409,
-  "2023-09-01": 335720,
-  "2023-09-02": 335720,
-  "2023-09-03": 335819,
-  "2023-09-04": 335990,
-  "2023-09-05": 336157,
-  "2023-09-06": 336294,
-  "2023-09-07": 336446,
-  "2023-09-08": 336637,
-  "2023-09-09": 336793,
-  "2023-09-10": 336952,
-  "2023-09-11": 337077,
-  "2023-09-12": 337231,
-  "2023-09-13": 337388,
-  "2023-09-14": 337549,
-  "2023-09-15": 337748,
-  "2023-09-16": 337899,
-  "2023-09-17": 338114,
-  "2023-09-18": 338301,
-  "2023-09-19": 338444,
-  "2023-09-20": 338612,
-  "2023-09-21": 338829,
-  "2023-09-22": 339083,
-  "2023-09-23": 339362,
-  "2023-09-24": 339595,
-  "2023-09-25": 339784,
-  "2023-09-26": 340006,
-  "2023-09-27": 340181,
-  "2023-09-28": 340415,
-  "2023-09-29": 340647,
-  "2023-09-30": 340889,
-  "2023-10-01": 341104,
-  "2023-10-02": 341292,
-  "2023-10-03": 341516,
-  "2023-10-04": 341755,
-  "2023-10-05": 341970,
-  "2023-10-06": 342197,
-  "2023-10-07": 342459,
-  "2023-10-08": 342750,
-  "2023-10-09": 343005,
-  "2023-10-10": 343100,
-  "2023-10-11": 343537,
-  "2023-10-12": 343537,
-  "2023-10-13": 343703,
-  "2023-10-14": 343917,
-  "2023-10-15": 344183,
-  "2023-10-16": 344384,
-  "2023-10-17": 344642,
-  "2023-10-18": 344862,
-  "2023-10-19": 345148,
-  "2023-10-20": 345470,
-  "2023-10-21": 345783,
-  "2023-10-22": 346109,
-  "2023-10-23": 346341,
-  "2023-10-24": 346570,
-  "2023-10-25": 346808,
-  "2023-10-26": 347056,
-  "2023-10-27": 347332,
-  "2023-10-28": 347625,
-  "2023-10-29": 347860,
-  "2023-10-30": 348271,
-  "2023-10-31": 348271,
-  "2023-11-01": 348438,
-  "2023-11-02": 348622,
-  "2023-11-03": 348834,
-  "2023-11-04": 349054,
-  "2023-11-05": 349287,
-  "2023-11-06": 349482,
-  "2023-11-07": 349710,
-  "2023-11-08": 349927,
-  "2023-11-09": 350160,
-  "2023-11-10": 350382,
-  "2023-11-11": 350633,
-  "2023-11-12": 350800,
-  "2023-11-13": 351037,
-  "2023-11-14": 351197,
-  "2023-11-15": 351197,
-  "2023-11-16": 351597,
-  "2023-11-17": 352002,
-  "2023-11-18": 352002,
-  "2023-11-19": 352244,
-  "2023-11-20": 352425,
-  "2023-11-21": 352614,
-  "2023-11-22": 352825,
-  "2023-11-23": 353051,
-  "2023-11-24": 353214,
-  "2023-11-25": 353390,
-  "2023-11-26": 353563,
-  "2023-11-27": 353687,
-  "2023-11-28": 353877,
-  "2023-11-29": 354187,
-  "2023-11-30": 354187,
-  "2023-12-01": 354342,
-  "2023-12-02": 354489,
-  "2023-12-03": 354682,
-  "2023-12-04": 354830,
-  "2023-12-05": 355015,
-  "2023-12-06": 355194,
-  "2023-12-07": 355394,
-  "2023-12-08": 355627,
-  "2023-12-09": 355827,
-  "2023-12-10": 356092,
-  "2023-12-11": 356293,
-  "2023-12-12": 356495,
-  "2023-12-13": 356709,
-  "2023-12-14": 357004,
-  "2023-12-15": 357189,
-  "2023-12-16": 357413,
-  "2023-12-17": 357619,
-  "2023-12-18": 357830,
-  "2023-12-19": 357998,
-  "2023-12-20": 358188,
-  "2023-12-21": 358397,
-  "2023-12-22": 358613,
-  "2023-12-23": 358844,
-  "2023-12-24": 359041,
-  "2023-12-25": 359238,
-  "2023-12-26": 359408,
-  "2023-12-27": 359625,
-  "2023-12-30": 360171,
-  "2023-12-31": 360377,
-  "2024-01-01": 360549,
-  "2024-01-02": 360675,
-  "2024-01-03": 360811
+  "2024-01-17": 363120,
+  "date_first_scraped": "2021-12-21",
+  "description": "Where all Hamilton music coexists.",
+  "name": "Best of Hamilton",
+  "tracks": [
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69900,
+      "name": "A Winter's Ball",
+      "url": "https://open.spotify.com/track/2yBMVrq96wb9OHbMdBs0lF"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156630,
+      "name": "Aaron Burr, Sir",
+      "url": "https://open.spotify.com/track/6dr7ekfhlbquvsVY8D7gyk"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236737,
+      "name": "Alexander Hamilton",
+      "url": "https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Watsky",
+          "url": "https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi"
+        },
+        {
+          "name": "Shockwave",
+          "url": "https://open.spotify.com/artist/5F5mv4CeDI2styBTkko6zo"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68293,
+      "name": "An Open Letter (feat. Shockwave) - Interlude",
+      "url": "https://open.spotify.com/track/0clwOjS9p20cEIQkuB7bEP"
+    },
+    {
+      "album": {
+        "name": "Ben Franklin's Song",
+        "url": "https://open.spotify.com/album/54BSWfXrnag2Dy2SZsiqN9"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223175,
+      "name": "Ben Franklin's Song",
+      "url": "https://open.spotify.com/track/7aD6Q1DO3rlUFT6s7y4fGx"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47943,
+      "name": "Best of Wives and Best of Women",
+      "url": "https://open.spotify.com/track/1dZutYKh4BtPlxbC81wV34"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Sasha Hutchings",
+          "url": "https://open.spotify.com/artist/0Pg2rEmiZEnmxw4eQwtvsR"
+        },
+        {
+          "name": "Ephraim Sykes",
+          "url": "https://open.spotify.com/artist/3brilvMAN6ILRUMvaqJWdG"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173594,
+      "name": "Blow Us All Away",
+      "url": "https://open.spotify.com/track/6lsFGDo1IEEPFKh94c9kFe"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219440,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2ZVWg6VCq8FQdeD5yuWD9r"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/4B3qvzOMzLQXLeYgPsG3KA"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "Cabinet Battle #1",
+      "url": "https://open.spotify.com/track/3TfKt8mPpdXfQTMfRjHzyz"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142639,
+      "name": "Cabinet Battle #2",
+      "url": "https://open.spotify.com/track/6KRHMYPIWRgFWlXPgqO2Fp"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169293,
+      "name": "Cabinet Battle 3 - Demo",
+      "url": "https://open.spotify.com/track/4igquDw3JmJN6EXFgW3kUA"
+    },
+    {
+      "album": {
+        "name": "Cheering For Me Now",
+        "url": "https://open.spotify.com/album/66O5qRU06eOSB8U5HJ9BhE"
+      },
+      "artists": [
+        {
+          "name": "John Kander",
+          "url": "https://open.spotify.com/artist/7xSEQmlssbeoIUdQ0HFjUT"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173491,
+      "name": "Cheering For Me Now",
+      "url": "https://open.spotify.com/track/20nSyFWd7HBzwBlXr4swD8"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Dessa",
+          "url": "https://open.spotify.com/artist/2CQAfzpwwaMxj3YNlb4Gbj"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/5za2K5XXuEaFWps6pYdo2y"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184004,
+      "name": "Dear Theodosia",
+      "url": "https://open.spotify.com/track/2sEq2rC3ynYsT49x7utWnd"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        },
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145786,
+      "name": "Dear Theodosia (feat. Ben Folds)",
+      "url": "https://open.spotify.com/track/1fq4k7G5kYqUvKIuEmFAAo"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Dear Theodosia - Reprise",
+      "url": "https://open.spotify.com/track/0EPhiIcssW3jLKcGL8zYfl"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Thayne Jasperson",
+          "url": "https://open.spotify.com/artist/4lSm9vkdpKSs1O8nKflRaB"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112742,
+      "name": "Farmer Refuted",
+      "url": "https://open.spotify.com/track/2G9lekfCh83S0lt2yfffBz"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127578,
+      "name": "Guns and Ships",
+      "url": "https://open.spotify.com/track/7m9XR7FquXLP1FewdAcNS9"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249770,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/54Sc7mZQ1RM03STpk4SfaA"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215373,
+      "name": "Helpless (feat. Ja Rule)",
+      "url": "https://open.spotify.com/track/5CCNOyJdEWDCVMRRIshNUL"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97050,
+      "name": "History Has Its Eyes on You",
+      "url": "https://open.spotify.com/track/1mGO8rwCE9zk7H06OxcU5m"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196360,
+      "name": "History Has Its Eyes On You",
+      "url": "https://open.spotify.com/track/131fUGYVs2uriiDmB0TKn8"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143551,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/16sNPUamj4vnA7uQLozRpU"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97979,
+      "name": "I Know Him",
+      "url": "https://open.spotify.com/track/4eeN8erNIbW2osT0knz5vT"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Riz Ahmed",
+          "url": "https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW"
+        },
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281596,
+      "name": "Immigrants (We Get The Job Done)",
+      "url": "https://open.spotify.com/track/0bPREZOF43e3EIu0zdfLBp"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277880,
+      "name": "It's Quiet Uptown",
+      "url": "https://open.spotify.com/track/2w82KRjGk874HFjBkU4SPv"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270171,
+      "name": "It's Quiet Uptown",
+      "url": "https://open.spotify.com/track/40LYL1Z6xgCn5cBybo5K0D"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83632,
+      "name": "Meet Me Inside",
+      "url": "https://open.spotify.com/track/6p7jXaTJdpzGWnOJoK2jYr"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333154,
+      "name": "My Shot",
+      "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270746,
+      "name": "My Shot (feat. Busta Rhymes, Joell Ortiz & Nate Ruess) - Rise Up Remix",
+      "url": "https://open.spotify.com/track/7ElYuU4c2EVqtLpCBst0au"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46106,
+      "name": "No John Trumbull - Intro",
+      "url": "https://open.spotify.com/track/2XxeRadxMDJQX8R9wOKR61"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385438,
+      "name": "Non-Stop",
+      "url": "https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296387,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/0Iys022UwQ8xBfxE1g4nWZ"
+    },
+    {
+      "album": {
+        "name": "One Last Time (44 Remix)",
+        "url": "https://open.spotify.com/album/0ZIYMLPHgfVMqY0o8xV8PO"
+      },
+      "artists": [
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Barack Obama",
+          "url": "https://open.spotify.com/artist/4FySKEW0F2fAmS8Jc5ClRv"
+        },
+        {
+          "name": "Bebe Winans",
+          "url": "https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256822,
+      "name": "One Last Time - 44 Remix",
+      "url": "https://open.spotify.com/track/3BtgDbJ5V3YiCCrhVvKNXA"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321696,
+      "name": "Right Hand Man",
+      "url": "https://open.spotify.com/track/3nJYcY9yvKP8Oi2Ml8brXt"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329228,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318386,
+      "name": "Satisfied (feat. Miguel & Queen Latifah)",
+      "url": "https://open.spotify.com/track/3VyxvhpCUNVTvPO2B46lsa"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Cephas-Jones",
+          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Sydney James Harcourt",
+          "url": "https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242017,
+      "name": "Say No to This",
+      "url": "https://open.spotify.com/track/3s9itRgJYcKhem01P17865"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "Say Yes to This",
+      "url": "https://open.spotify.com/track/6cBwryv6XVRzGooXa1FjnM"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63558,
+      "name": "Schuyler Defeated",
+      "url": "https://open.spotify.com/track/05bhmaAD1urZnQMWNd6p3S"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159102,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/27MB0qHaYAZiTlwg25js1Y"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "J.PERIOD",
+          "url": "https://open.spotify.com/artist/1MGyQRNDBHqVYkW1nNKRBv"
+        },
+        {
+          "name": "Stro Elliot",
+          "url": "https://open.spotify.com/artist/35mEzAsFbM7OOTzFyjTgeU"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33093,
+      "name": "Stay Alive - Interlude",
+      "url": "https://open.spotify.com/track/72AHM4UKrD5E0hsBhlCE8Q"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111553,
+      "name": "Stay Alive - Reprise",
+      "url": "https://open.spotify.com/track/2ydKgIVZAQXeYLWtxU8DFS"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286485,
+      "name": "Take a Break",
+      "url": "https://open.spotify.com/track/2qFIJT5hjqaNFA1GKwl9me"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "!llmind",
+          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48386,
+      "name": "Take A Break - Interlude",
+      "url": "https://open.spotify.com/track/3MZ0Obyv6AnO1anmGBJydv"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Jon Rua",
+          "url": "https://open.spotify.com/artist/69NsP4MC1JbfvKMwpx2oy8"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106646,
+      "name": "Ten Duel Commandments",
+      "url": "https://open.spotify.com/track/3lXyAQ0kekAvY5LodpWmUs"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244973,
+      "name": "That Would Be Enough",
+      "url": "https://open.spotify.com/track/2MNUjJQ9rhoCqFtWYLT3ke"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178445,
+      "name": "That Would Be Enough",
+      "url": "https://open.spotify.com/track/6oF8ueLn5hIl4PRp17sxW6"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54840,
+      "name": "The Adams Administration",
+      "url": "https://open.spotify.com/track/68Ijc4fPmT3P5BN6Vrl2s2"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237982,
+      "name": "The Election of 1800",
+      "url": "https://open.spotify.com/track/0LpHC9mhPAQC98IjXZIrif"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128470,
+      "name": "The Reynolds Pamphlet",
+      "url": "https://open.spotify.com/track/7D1Lf7N7AtCuEq5PGJtIPz"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318214,
+      "name": "The Room Where It Happens",
+      "url": "https://open.spotify.com/track/2TK2KSrzXD6W01qjXVjNGh"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Jasmine Cephas-Jones",
+          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186542,
+      "name": "The Schuyler Sisters",
+      "url": "https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91980,
+      "name": "The Story of Tonight",
+      "url": "https://open.spotify.com/track/0NJWhm3hUwIZSy5s0TGJ8q"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115879,
+      "name": "The Story of Tonight - Reprise",
+      "url": "https://open.spotify.com/track/1CzeuSrm71wHP9qsjg7p3F"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302191,
+      "name": "The World Was Wide Enough",
+      "url": "https://open.spotify.com/track/0P09TBGSKiQwfUsEh1UafT"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166413,
+      "name": "Valley Forge - Demo",
+      "url": "https://open.spotify.com/track/7CZAOaxmSM1RtgxMuGtlpf"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193749,
+      "name": "Wait for It",
+      "url": "https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208520,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/3ZV6Ry07586w52Wy1cLbLL"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181477,
+      "name": "Washington on Your Side",
+      "url": "https://open.spotify.com/track/1WHNqqRWhJVZIdCScFKtl5"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175773,
+      "name": "Washingtons by Your Side",
+      "url": "https://open.spotify.com/track/6koe981h6mmlJUfupqiLgL"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142044,
+      "name": "We Know",
+      "url": "https://open.spotify.com/track/1DLfR4MOfLYbV6v3xrmWa8"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99343,
+      "name": "What Comes Next?",
+      "url": "https://open.spotify.com/track/3D4J0o9w44QKFrBrYrSVJY"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236701,
+      "name": "What'd I Miss",
+      "url": "https://open.spotify.com/track/2W9u3whoCkQYOUbmnSrHi1"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217229,
+      "name": "Who Lives, Who Dies, Who Tells Your Story",
+      "url": "https://open.spotify.com/track/7EsSVPxaYoAZjQwhspJBs2"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253853,
+      "name": "Who Tells Your Story (feat. Common & Ingrid Michaelson)",
+      "url": "https://open.spotify.com/track/2KxJv4AduPGxzI5NH2HUoC"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261306,
+      "name": "Wrote My Way Out",
+      "url": "https://open.spotify.com/track/0Cowgp3aB6IQSNJ8pNJYUN"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242587,
+      "name": "Yorktown (The World Turned Upside Down)",
+      "url": "https://open.spotify.com/track/733tju3KUeatsbjcTRQ04i"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250786,
+      "name": "You'll Be Back",
+      "url": "https://open.spotify.com/track/6Yq9kDhFvQ99Tl5DrYu3W4"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208321,
+      "name": "You'll Be Back",
+      "url": "https://open.spotify.com/track/6OG1S805gIrH5nAQbEOPY3"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2020-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150063,
+      "name": "Your Obedient Servant",
+      "url": "https://open.spotify.com/track/6SHI6STEW51cQkAXBRpLNj"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1nsfmnIDVAJ"
 }

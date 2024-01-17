@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-50 songs - 2 hr 46 min
+51 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [NOTHIN′](https://open.spotify.com/track/7KDtW0MJb331Hjez4iBVu0) | [SuperSu](https://open.spotify.com/artist/1Wd0Rsm7QUHUcnibVDiIC6) | [NOTHIN'](https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1) | 2:20 | 2023-11-09 |  |
 | [OMG, It's pointless](https://open.spotify.com/track/0PROctJxUWzqpBfuECVkvH) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [OMG, It's pointless](https://open.spotify.com/album/4Zi4DXDNL4LydfWS5vxPeN) | 3:22 | 2023-11-09 |  |
 | [ONE DAY \(Feat\. Chan\)](https://open.spotify.com/track/3SHnqFpmmpUewHcxiM8is8) | [1DAY](https://open.spotify.com/artist/62bupmhlc6QqEDiYkXfQ9l), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [ONE DAY \(Feat\. Chan\)](https://open.spotify.com/album/5wxGKKvTwGBgL87IJa00PR) | 3:19 | 2023-11-09 |  |
+| [Ordinary Loneliness](https://open.spotify.com/track/5O4VdhbB1PY0P0t9VyB98G) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Ordinary Loneliness](https://open.spotify.com/album/5b2HkRfL1LVo0ygJRg9XaN) | 3:04 | 2024-01-08 |  |
 | [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 | 2023-11-09 |  |
 | [Problems](https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me the Money 8 Episode 4](https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp) | 3:48 | 2023-11-09 |  |
 | [Rainy n Bed](https://open.spotify.com/track/7dkkW6rmoC4IAtVDpaZNX1) | [sumgoyange](https://open.spotify.com/artist/7kUElOJQ6VHTmIGp57pAff) | [Rainy n Bed](https://open.spotify.com/album/50lNXjV17xNe38bsHJ3Jvr) | 2:36 | 2023-11-09 |  |

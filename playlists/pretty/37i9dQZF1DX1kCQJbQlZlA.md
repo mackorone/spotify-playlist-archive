@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,217 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,129 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 18 | [Con Gái Miền Tây](https://open.spotify.com/track/3OQoJNtaqOephkNCrogBbd) | [Ngọc Hân](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Dân Ca Quê Hương](https://open.spotify.com/album/0pHd2saAqJPkkNB2ojUpmA) | 4:31 |
 | 19 | [Chim sáo ngày xưa](https://open.spotify.com/track/5bWqMXjLukN5Y6Cb3yIrVC) | [Quang Linh](https://open.spotify.com/artist/3JwyehW3Ls8vt8GSons5eA) | [Yêu nhau ghét nhau 1](https://open.spotify.com/album/4z6v1PQ0jpIWQqprhroBYN) | 5:56 |
 | 20 | [Chờ anh hát lý duyên tình](https://open.spotify.com/track/6GvtLglQzLNcxcbYo5f9vG) | [Bảo Trân](https://open.spotify.com/artist/0UV3QBxHETfHbFGJaqMtCj) | [Anh ba chị tư](https://open.spotify.com/album/5RtDxInFhzmbIixAdK5KFC) | 5:52 |
-| 21 | [Quê Hương Mùa Xuân](https://open.spotify.com/track/64gYBT1eCNEZMmmAoqSDMF) | [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Bài Ca Tết Cho Em](https://open.spotify.com/album/2n5hjxmiDk3FEpboumZX5s) | 3:55 |
+| 21 | [Quê Hương Mùa Xuân](https://open.spotify.com/track/2nO4YY62Al4BYSMgL23W0x) | [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Quê Hương Mùa Xuân](https://open.spotify.com/album/1hXTY0mNUIHhJuSkMmYYmo) | 3:56 |
 | 22 | [Khúc hát ân tình](https://open.spotify.com/track/2cBQPygQQosACNMTmQPBJk) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Mưa](https://open.spotify.com/album/2IyLUlrmGI0IPlzGfkuA6w) | 4:14 |
 | 23 | [Mưa Trên Quê Hương](https://open.spotify.com/track/2UzX3Sk6zabmMhmB3H0nAx) | [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Mưa Trên Quê Hương](https://open.spotify.com/album/0JfrVLSas2iH01dcIzyJhk) | 4:38 |
 | 24 | [Duyên Quê](https://open.spotify.com/track/2m6riy7oEECCFeJaOak972) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Tiếng Hát Hà Vân 3](https://open.spotify.com/album/4Y5L9iYIBHESSO3BgYYCS0) | 4:24 |

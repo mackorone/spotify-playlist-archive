@@ -1,735 +1,2043 @@
 {
-  "2021-12-25": 4790,
-  "2021-12-26": 4790,
-  "2021-12-27": 4788,
-  "2021-12-28": 4788,
-  "2021-12-29": 4787,
-  "2021-12-30": 4786,
-  "2021-12-31": 4787,
-  "2022-01-01": 4785,
-  "2022-01-02": 4782,
-  "2022-01-03": 4782,
-  "2022-01-04": 4781,
-  "2022-01-05": 4782,
-  "2022-01-06": 4782,
-  "2022-01-07": 4782,
-  "2022-01-08": 4780,
-  "2022-01-09": 4780,
-  "2022-01-10": 4779,
-  "2022-01-11": 4779,
-  "2022-01-12": 4779,
-  "2022-01-13": 4778,
-  "2022-01-14": 4778,
-  "2022-01-15": 4777,
-  "2022-01-16": 4777,
-  "2022-01-17": 4775,
-  "2022-01-18": 4775,
-  "2022-01-19": 4775,
-  "2022-01-20": 4776,
-  "2022-01-21": 4776,
-  "2022-01-22": 4775,
-  "2022-01-23": 4775,
-  "2022-01-24": 4775,
-  "2022-01-25": 4774,
-  "2022-01-26": 4774,
-  "2022-01-27": 4773,
-  "2022-01-28": 4773,
-  "2022-01-29": 4774,
-  "2022-01-30": 4774,
-  "2022-01-31": 4773,
-  "2022-02-01": 4772,
-  "2022-02-02": 4773,
-  "2022-02-03": 4770,
-  "2022-02-04": 4769,
-  "2022-02-05": 4769,
-  "2022-02-06": 4769,
-  "2022-02-07": 4769,
-  "2022-02-08": 4769,
-  "2022-02-09": 4769,
-  "2022-02-10": 4769,
-  "2022-02-11": 4769,
-  "2022-02-12": 4770,
-  "2022-02-13": 4769,
-  "2022-02-14": 4769,
-  "2022-02-15": 4769,
-  "2022-02-16": 4769,
-  "2022-02-17": 4769,
-  "2022-02-18": 4769,
-  "2022-02-19": 4770,
-  "2022-02-20": 4770,
-  "2022-02-21": 4769,
-  "2022-02-22": 4768,
-  "2022-02-23": 4765,
-  "2022-02-24": 4765,
-  "2022-02-25": 4764,
-  "2022-02-26": 4764,
-  "2022-02-27": 4765,
-  "2022-02-28": 4765,
-  "2022-03-01": 4764,
-  "2022-03-02": 4762,
-  "2022-03-03": 4762,
-  "2022-03-04": 4762,
-  "2022-03-05": 4762,
-  "2022-03-06": 4762,
-  "2022-03-07": 4762,
-  "2022-03-08": 4761,
-  "2022-03-09": 4761,
-  "2022-03-10": 4761,
-  "2022-03-11": 4761,
-  "2022-03-12": 4761,
-  "2022-03-13": 4760,
-  "2022-03-14": 4760,
-  "2022-03-15": 4760,
-  "2022-03-16": 4760,
-  "2022-03-17": 4760,
-  "2022-03-18": 4761,
-  "2022-03-19": 4761,
-  "2022-03-20": 4761,
-  "2022-03-21": 4761,
-  "2022-03-22": 4760,
-  "2022-03-23": 4759,
-  "2022-03-24": 4759,
-  "2022-03-25": 4760,
-  "2022-03-26": 4758,
-  "2022-03-27": 4758,
-  "2022-03-28": 4758,
-  "2022-03-30": 4757,
-  "2022-03-31": 4758,
-  "2022-04-01": 4758,
-  "2022-04-02": 4758,
-  "2022-04-03": 4758,
-  "2022-04-04": 4758,
-  "2022-04-05": 4758,
-  "2022-04-06": 4758,
-  "2022-04-07": 4758,
-  "2022-04-08": 4758,
-  "2022-04-09": 4758,
-  "2022-04-10": 4758,
-  "2022-04-11": 4758,
-  "2022-04-12": 4758,
-  "2022-04-13": 4758,
-  "2022-04-14": 4758,
-  "2022-04-15": 4758,
-  "2022-04-16": 4758,
-  "2022-04-17": 4758,
-  "2022-04-18": 4758,
-  "2022-04-19": 4758,
-  "2022-04-20": 4758,
-  "2022-04-21": 4758,
-  "2022-04-22": 4758,
-  "2022-04-23": 4758,
-  "2022-04-24": 4758,
-  "2022-04-25": 4758,
-  "2022-04-26": 4758,
-  "2022-04-27": 4758,
-  "2022-04-28": 4758,
-  "2022-04-29": 4758,
-  "2022-04-30": 4758,
-  "2022-05-01": 4758,
-  "2022-05-02": 4758,
-  "2022-05-03": 4758,
-  "2022-05-04": 4758,
-  "2022-05-05": 4758,
-  "2022-05-06": 4758,
-  "2022-05-07": 4758,
-  "2022-05-08": 4758,
-  "2022-05-09": 4758,
-  "2022-05-10": 4758,
-  "2022-05-11": 4758,
-  "2022-05-12": 4758,
-  "2022-05-13": 4758,
-  "2022-05-14": 4758,
-  "2022-05-15": 4758,
-  "2022-05-16": 4758,
-  "2022-05-17": 4758,
-  "2022-05-18": 4758,
-  "2022-05-19": 4758,
-  "2022-05-20": 4758,
-  "2022-05-21": 4758,
-  "2022-05-22": 4758,
-  "2022-05-23": 4758,
-  "2022-05-24": 4758,
-  "2022-05-25": 4758,
-  "2022-05-26": 4758,
-  "2022-05-27": 4758,
-  "2022-05-28": 4758,
-  "2022-05-29": 4758,
-  "2022-05-30": 4758,
-  "2022-05-31": 4758,
-  "2022-06-01": 4758,
-  "2022-06-02": 4758,
-  "2022-06-03": 4758,
-  "2022-06-04": 4758,
-  "2022-06-05": 4758,
-  "2022-06-06": 4758,
-  "2022-06-07": 4758,
-  "2022-06-08": 4758,
-  "2022-06-09": 4758,
-  "2022-06-10": 4758,
-  "2022-06-11": 4758,
-  "2022-06-12": 4758,
-  "2022-06-13": 4758,
-  "2022-06-14": 4758,
-  "2022-06-15": 4758,
-  "2022-06-16": 4758,
-  "2022-06-17": 4758,
-  "2022-06-18": 4758,
-  "2022-06-19": 4758,
-  "2022-06-20": 4758,
-  "2022-06-21": 4758,
-  "2022-06-22": 4758,
-  "2022-06-23": 4758,
-  "2022-06-24": 4758,
-  "2022-06-25": 4758,
-  "2022-06-26": 4758,
-  "2022-06-27": 4758,
-  "2022-06-28": 4758,
-  "2022-06-29": 4758,
-  "2022-06-30": 4758,
-  "2022-07-01": 4758,
-  "2022-07-02": 4758,
-  "2022-07-03": 4758,
-  "2022-07-04": 4758,
-  "2022-07-05": 4758,
-  "2022-07-06": 4758,
-  "2022-07-07": 4758,
-  "2022-07-08": 4758,
-  "2022-07-09": 4758,
-  "2022-07-10": 4758,
-  "2022-07-11": 4758,
-  "2022-07-12": 4758,
-  "2022-07-13": 4758,
-  "2022-07-14": 4758,
-  "2022-07-15": 4758,
-  "2022-07-16": 4758,
-  "2022-07-17": 4758,
-  "2022-07-18": 4758,
-  "2022-07-19": 4758,
-  "2022-07-20": 4758,
-  "2022-07-21": 4758,
-  "2022-07-22": 4758,
-  "2022-07-23": 4758,
-  "2022-07-24": 4758,
-  "2022-07-25": 4758,
-  "2022-07-26": 4758,
-  "2022-07-27": 4758,
-  "2022-07-28": 4758,
-  "2022-07-29": 4758,
-  "2022-07-30": 4758,
-  "2022-07-31": 4758,
-  "2022-08-01": 4758,
-  "2022-08-02": 4758,
-  "2022-08-03": 4758,
-  "2022-08-04": 4758,
-  "2022-08-05": 4758,
-  "2022-08-06": 4758,
-  "2022-08-07": 4758,
-  "2022-08-08": 4758,
-  "2022-08-09": 4758,
-  "2022-08-10": 4758,
-  "2022-08-11": 4758,
-  "2022-08-12": 4758,
-  "2022-08-13": 4758,
-  "2022-08-14": 4758,
-  "2022-08-15": 4758,
-  "2022-08-16": 4758,
-  "2022-08-17": 4758,
-  "2022-08-18": 4758,
-  "2022-08-19": 4758,
-  "2022-08-20": 4758,
-  "2022-08-21": 4758,
-  "2022-08-22": 4758,
-  "2022-08-23": 4758,
-  "2022-08-24": 4758,
-  "2022-08-25": 4758,
-  "2022-08-26": 4758,
-  "2022-08-27": 4758,
-  "2022-08-28": 4758,
-  "2022-08-29": 4758,
-  "2022-08-30": 4758,
-  "2022-08-31": 4758,
-  "2022-09-01": 4758,
-  "2022-09-02": 4758,
-  "2022-09-03": 4758,
-  "2022-09-04": 4758,
-  "2022-09-05": 4758,
-  "2022-09-06": 4758,
-  "2022-09-07": 4758,
-  "2022-09-09": 4758,
-  "2022-09-10": 4758,
-  "2022-09-11": 4758,
-  "2022-09-12": 4758,
-  "2022-09-13": 4758,
-  "2022-09-15": 4758,
-  "2022-09-16": 4758,
-  "2022-09-17": 4758,
-  "2022-09-18": 4758,
-  "2022-09-19": 4758,
-  "2022-09-20": 4758,
-  "2022-09-21": 4758,
-  "2022-09-22": 4758,
-  "2022-09-23": 4758,
-  "2022-09-24": 4758,
-  "2022-09-25": 4758,
-  "2022-09-26": 4758,
-  "2022-09-27": 4758,
-  "2022-09-28": 4758,
-  "2022-09-29": 4758,
-  "2022-09-30": 4758,
-  "2022-10-01": 4758,
-  "2022-10-02": 4758,
-  "2022-10-03": 4758,
-  "2022-10-04": 4758,
-  "2022-10-05": 4758,
-  "2022-10-06": 4758,
-  "2022-10-07": 4758,
-  "2022-10-08": 4758,
-  "2022-10-09": 4758,
-  "2022-10-10": 4758,
-  "2022-10-11": 4758,
-  "2022-10-12": 4758,
-  "2022-10-13": 4758,
-  "2022-10-14": 4758,
-  "2022-10-15": 4758,
-  "2022-10-16": 4758,
-  "2022-10-17": 4758,
-  "2022-10-18": 4758,
-  "2022-10-19": 4758,
-  "2022-10-20": 4758,
-  "2022-10-21": 4758,
-  "2022-10-22": 4758,
-  "2022-10-23": 4758,
-  "2022-10-24": 4758,
-  "2022-10-25": 4758,
-  "2022-10-26": 4758,
-  "2022-10-27": 4758,
-  "2022-10-28": 4758,
-  "2022-10-29": 4758,
-  "2022-10-30": 4758,
-  "2022-10-31": 4758,
-  "2022-11-01": 4758,
-  "2022-11-02": 4758,
-  "2022-11-03": 4758,
-  "2022-11-04": 4758,
-  "2022-11-05": 4758,
-  "2022-11-06": 4758,
-  "2022-11-07": 4758,
-  "2022-11-08": 4758,
-  "2022-11-09": 4758,
-  "2022-11-10": 4758,
-  "2022-11-11": 4758,
-  "2022-11-12": 4758,
-  "2022-11-13": 4758,
-  "2022-11-14": 4758,
-  "2022-11-15": 4758,
-  "2022-11-16": 4758,
-  "2022-11-17": 4758,
-  "2022-11-18": 4758,
-  "2022-11-19": 4758,
-  "2022-11-20": 4758,
-  "2022-11-21": 4758,
-  "2022-11-22": 4758,
-  "2022-11-23": 4758,
-  "2022-11-24": 4758,
-  "2022-11-25": 4758,
-  "2022-11-26": 4758,
-  "2022-11-27": 4758,
-  "2022-11-28": 4758,
-  "2022-11-29": 4758,
-  "2022-11-30": 4758,
-  "2022-12-01": 4758,
-  "2022-12-02": 4758,
-  "2022-12-03": 4758,
-  "2022-12-04": 4758,
-  "2022-12-05": 4758,
-  "2022-12-06": 4758,
-  "2022-12-07": 4758,
-  "2022-12-08": 4758,
-  "2022-12-09": 4758,
-  "2022-12-10": 4758,
-  "2022-12-11": 4758,
-  "2022-12-12": 4758,
-  "2022-12-13": 4758,
-  "2022-12-14": 4758,
-  "2022-12-15": 4758,
-  "2022-12-16": 4758,
-  "2022-12-17": 4758,
-  "2022-12-18": 4758,
-  "2022-12-19": 4758,
-  "2022-12-20": 4758,
-  "2022-12-21": 4758,
-  "2022-12-22": 4758,
-  "2022-12-24": 4758,
-  "2022-12-25": 4758,
-  "2022-12-26": 4758,
-  "2022-12-27": 4758,
-  "2022-12-28": 4758,
-  "2022-12-29": 4758,
-  "2022-12-30": 4758,
-  "2022-12-31": 4758,
-  "2023-01-01": 4758,
-  "2023-01-02": 4758,
-  "2023-01-03": 4758,
-  "2023-01-04": 4758,
-  "2023-01-05": 4758,
-  "2023-01-06": 4758,
-  "2023-01-07": 4758,
-  "2023-01-08": 4758,
-  "2023-01-09": 4758,
-  "2023-01-10": 4758,
-  "2023-01-11": 4758,
-  "2023-01-12": 4758,
-  "2023-01-13": 4758,
-  "2023-01-14": 4758,
-  "2023-01-15": 4758,
-  "2023-01-16": 4758,
-  "2023-01-17": 4758,
-  "2023-01-18": 4758,
-  "2023-01-19": 4758,
-  "2023-01-20": 4758,
-  "2023-01-21": 4758,
-  "2023-01-22": 4758,
-  "2023-01-23": 4758,
-  "2023-01-24": 4758,
-  "2023-01-25": 4758,
-  "2023-01-26": 4758,
-  "2023-01-27": 4758,
-  "2023-01-28": 4758,
-  "2023-01-29": 4758,
-  "2023-01-30": 4758,
-  "2023-01-31": 4758,
-  "2023-02-01": 4758,
-  "2023-02-02": 4758,
-  "2023-02-03": 4758,
-  "2023-02-04": 4758,
-  "2023-02-05": 4758,
-  "2023-02-06": 4758,
-  "2023-02-07": 4758,
-  "2023-02-08": 4758,
-  "2023-02-09": 4758,
-  "2023-02-10": 4758,
-  "2023-02-11": 4758,
-  "2023-02-12": 4758,
-  "2023-02-13": 4758,
-  "2023-02-14": 4758,
-  "2023-02-15": 4758,
-  "2023-02-16": 4758,
-  "2023-02-17": 4758,
-  "2023-02-18": 4758,
-  "2023-02-19": 4758,
-  "2023-02-20": 4758,
-  "2023-02-21": 4758,
-  "2023-02-22": 4758,
-  "2023-02-23": 4758,
-  "2023-02-24": 4758,
-  "2023-02-25": 4758,
-  "2023-02-26": 4758,
-  "2023-02-27": 4758,
-  "2023-02-28": 4758,
-  "2023-03-01": 4758,
-  "2023-03-02": 4758,
-  "2023-03-03": 4758,
-  "2023-03-04": 4758,
-  "2023-03-05": 4758,
-  "2023-03-06": 4758,
-  "2023-03-07": 4758,
-  "2023-03-08": 4758,
-  "2023-03-09": 4758,
-  "2023-03-10": 4758,
-  "2023-03-11": 4758,
-  "2023-03-12": 4758,
-  "2023-03-13": 4758,
-  "2023-03-14": 4758,
-  "2023-03-15": 4758,
-  "2023-03-16": 4758,
-  "2023-03-17": 4758,
-  "2023-03-18": 4758,
-  "2023-03-19": 4758,
-  "2023-03-20": 4758,
-  "2023-03-21": 4758,
-  "2023-03-22": 4758,
-  "2023-03-23": 4758,
-  "2023-03-24": 4758,
-  "2023-03-25": 4758,
-  "2023-03-26": 4758,
-  "2023-03-27": 4758,
-  "2023-03-28": 4758,
-  "2023-03-29": 4758,
-  "2023-03-30": 4758,
-  "2023-03-31": 4758,
-  "2023-04-01": 4758,
-  "2023-04-02": 4758,
-  "2023-04-03": 4758,
-  "2023-04-04": 4758,
-  "2023-04-05": 4758,
-  "2023-04-06": 4758,
-  "2023-04-07": 4758,
-  "2023-04-09": 4758,
-  "2023-04-10": 4758,
-  "2023-04-11": 4758,
-  "2023-04-12": 4758,
-  "2023-04-13": 4758,
-  "2023-04-14": 4758,
-  "2023-04-15": 4758,
-  "2023-04-16": 4758,
-  "2023-04-17": 4758,
-  "2023-04-18": 4758,
-  "2023-04-19": 4758,
-  "2023-04-20": 4758,
-  "2023-04-21": 4758,
-  "2023-04-22": 4758,
-  "2023-04-23": 4758,
-  "2023-04-24": 4758,
-  "2023-04-25": 4758,
-  "2023-04-26": 4758,
-  "2023-04-27": 4758,
-  "2023-04-28": 4758,
-  "2023-04-29": 4758,
-  "2023-04-30": 4758,
-  "2023-05-01": 4758,
-  "2023-05-02": 4758,
-  "2023-05-03": 4758,
-  "2023-05-04": 4758,
-  "2023-05-05": 4758,
-  "2023-05-06": 4758,
-  "2023-05-07": 4758,
-  "2023-05-08": 4758,
-  "2023-05-09": 4758,
-  "2023-05-10": 4758,
-  "2023-05-11": 4758,
-  "2023-05-12": 4758,
-  "2023-05-13": 4758,
-  "2023-05-14": 4758,
-  "2023-05-15": 4758,
-  "2023-05-16": 4758,
-  "2023-05-17": 4758,
-  "2023-05-18": 4758,
-  "2023-05-19": 4758,
-  "2023-05-20": 4758,
-  "2023-05-21": 4758,
-  "2023-05-22": 4758,
-  "2023-05-23": 4758,
-  "2023-05-24": 4758,
-  "2023-05-25": 4758,
-  "2023-05-26": 4758,
-  "2023-05-27": 4758,
-  "2023-05-28": 4758,
-  "2023-05-29": 4758,
-  "2023-05-30": 4758,
-  "2023-05-31": 4758,
-  "2023-06-01": 4758,
-  "2023-06-02": 4758,
-  "2023-06-03": 4758,
-  "2023-06-04": 4758,
-  "2023-06-05": 4758,
-  "2023-06-06": 4758,
-  "2023-06-07": 4758,
-  "2023-06-08": 4758,
-  "2023-06-09": 4758,
-  "2023-06-10": 4758,
-  "2023-06-11": 4758,
-  "2023-06-12": 4758,
-  "2023-06-13": 4758,
-  "2023-06-14": 4758,
-  "2023-06-15": 4758,
-  "2023-06-16": 4758,
-  "2023-06-17": 4758,
-  "2023-06-18": 4758,
-  "2023-06-19": 4758,
-  "2023-06-20": 4758,
-  "2023-06-21": 4758,
-  "2023-06-22": 4758,
-  "2023-06-23": 4758,
-  "2023-06-24": 4758,
-  "2023-06-25": 4758,
-  "2023-06-26": 4758,
-  "2023-06-27": 4758,
-  "2023-06-28": 4758,
-  "2023-06-29": 4758,
-  "2023-06-30": 4758,
-  "2023-07-01": 4758,
-  "2023-07-02": 4758,
-  "2023-07-03": 4758,
-  "2023-07-04": 4758,
-  "2023-07-05": 4758,
-  "2023-07-06": 4758,
-  "2023-07-07": 4758,
-  "2023-07-08": 4758,
-  "2023-07-09": 4758,
-  "2023-07-10": 4758,
-  "2023-07-11": 4758,
-  "2023-07-12": 4758,
-  "2023-07-13": 4758,
-  "2023-07-14": 4758,
-  "2023-07-15": 4758,
-  "2023-07-16": 4758,
-  "2023-07-17": 4758,
-  "2023-07-18": 4758,
-  "2023-07-19": 4758,
-  "2023-07-20": 4758,
-  "2023-07-21": 4758,
-  "2023-07-22": 4758,
-  "2023-07-23": 4758,
-  "2023-07-24": 4758,
-  "2023-07-25": 4758,
-  "2023-07-26": 4758,
-  "2023-07-27": 4758,
-  "2023-07-28": 4758,
-  "2023-07-29": 4758,
-  "2023-07-30": 4758,
-  "2023-07-31": 4758,
-  "2023-08-01": 4758,
-  "2023-08-02": 4758,
-  "2023-08-03": 4758,
-  "2023-08-04": 4758,
-  "2023-08-05": 4758,
-  "2023-08-06": 4758,
-  "2023-08-07": 4758,
-  "2023-08-08": 4758,
-  "2023-08-09": 4758,
-  "2023-08-10": 4758,
-  "2023-08-11": 4758,
-  "2023-08-12": 4758,
-  "2023-08-13": 4758,
-  "2023-08-14": 4758,
-  "2023-08-15": 4758,
-  "2023-08-16": 4758,
-  "2023-08-17": 4758,
-  "2023-08-18": 4758,
-  "2023-08-19": 4758,
-  "2023-08-20": 4758,
-  "2023-08-21": 4758,
-  "2023-08-22": 4758,
-  "2023-08-23": 4758,
-  "2023-08-24": 4758,
-  "2023-08-25": 4758,
-  "2023-08-26": 4758,
-  "2023-08-27": 4758,
-  "2023-08-28": 4758,
-  "2023-08-29": 4758,
-  "2023-08-30": 4758,
-  "2023-08-31": 4758,
-  "2023-09-01": 4758,
-  "2023-09-02": 4758,
-  "2023-09-03": 4758,
-  "2023-09-04": 4758,
-  "2023-09-05": 4758,
-  "2023-09-06": 4758,
-  "2023-09-07": 4758,
-  "2023-09-08": 4758,
-  "2023-09-09": 4758,
-  "2023-09-10": 4758,
-  "2023-09-11": 4758,
-  "2023-09-12": 4758,
-  "2023-09-13": 4758,
-  "2023-09-14": 4758,
-  "2023-09-15": 4758,
-  "2023-09-16": 4758,
-  "2023-09-17": 4758,
-  "2023-09-18": 4758,
-  "2023-09-19": 4758,
-  "2023-09-20": 4758,
-  "2023-09-21": 4758,
-  "2023-09-22": 4758,
-  "2023-09-23": 4758,
-  "2023-09-24": 4758,
-  "2023-09-25": 4758,
-  "2023-09-26": 4758,
-  "2023-09-27": 4758,
-  "2023-09-28": 4758,
-  "2023-09-29": 4758,
-  "2023-09-30": 4758,
-  "2023-10-01": 4758,
-  "2023-10-02": 4758,
-  "2023-10-03": 4758,
-  "2023-10-04": 4758,
-  "2023-10-05": 4758,
-  "2023-10-06": 4758,
-  "2023-10-07": 4758,
-  "2023-10-08": 4758,
-  "2023-10-09": 4758,
-  "2023-10-10": 4758,
-  "2023-10-11": 4758,
-  "2023-10-12": 4758,
-  "2023-10-13": 4758,
-  "2023-10-14": 4758,
-  "2023-10-15": 4758,
-  "2023-10-16": 4758,
-  "2023-10-17": 4758,
-  "2023-10-18": 4758,
-  "2023-10-19": 4758,
-  "2023-10-20": 4758,
-  "2023-10-21": 4758,
-  "2023-10-22": 4758,
-  "2023-10-23": 4758,
-  "2023-10-24": 4758,
-  "2023-10-25": 4758,
-  "2023-10-26": 4758,
-  "2023-10-27": 4758,
-  "2023-10-28": 4758,
-  "2023-10-29": 4758,
-  "2023-10-30": 4758,
-  "2023-10-31": 4758,
-  "2023-11-01": 4758,
-  "2023-11-02": 4758,
-  "2023-11-03": 4758,
-  "2023-11-04": 4758,
-  "2023-11-05": 4758,
-  "2023-11-06": 4758,
-  "2023-11-07": 4758,
-  "2023-11-08": 4758,
-  "2023-11-09": 4758,
-  "2023-11-10": 4758,
-  "2023-11-11": 4758,
-  "2023-11-12": 4758,
-  "2023-11-13": 4758,
-  "2023-11-14": 4758,
-  "2023-11-15": 4758,
-  "2023-11-16": 4758,
-  "2023-11-17": 4758,
-  "2023-11-18": 4758,
-  "2023-11-19": 4758,
-  "2023-11-20": 4758,
-  "2023-11-21": 4758,
-  "2023-11-22": 4758,
-  "2023-11-23": 4758,
-  "2023-11-24": 4758,
-  "2023-11-25": 4758,
-  "2023-11-26": 4758,
-  "2023-11-27": 4758,
-  "2023-11-28": 4758,
-  "2023-11-29": 4758,
-  "2023-11-30": 4758,
-  "2023-12-01": 4758,
-  "2023-12-02": 4758,
-  "2023-12-03": 4758,
-  "2023-12-04": 4758,
-  "2023-12-05": 4758,
-  "2023-12-06": 4758,
-  "2023-12-07": 4758,
-  "2023-12-08": 4758,
-  "2023-12-09": 4758,
-  "2023-12-10": 4758,
-  "2023-12-11": 4758,
-  "2023-12-12": 4758,
-  "2023-12-13": 4758,
-  "2023-12-14": 4758,
-  "2023-12-15": 4758,
-  "2023-12-16": 4758,
-  "2023-12-17": 4758,
-  "2023-12-18": 4758,
-  "2023-12-19": 4758,
-  "2023-12-20": 4758,
-  "2023-12-21": 4758,
-  "2023-12-22": 4758,
-  "2023-12-23": 4758,
-  "2023-12-24": 4758,
-  "2023-12-25": 4758,
-  "2023-12-26": 4758,
-  "2023-12-27": 4758,
-  "2023-12-30": 4758,
-  "2023-12-31": 4758,
-  "2024-01-01": 4758,
-  "2024-01-02": 4758,
-  "2024-01-03": 4758
+  "2024-01-17": 4758,
+  "date_first_scraped": "2021-12-21",
+  "description": "Les plus grands romans et autres nouvelles de la litt\u00e9rature fran\u00e7aise.",
+  "name": "La litt\u00e9rature fran\u00e7aise",
+  "tracks": [
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203906,
+      "name": "Appel au soutien des r\u00e9publicains espagnols (20 mars 1937) : \"Fraternit\u00e9 des paysans d'Espagne\"",
+      "url": "https://open.spotify.com/track/1qYDGaCc9ByzYp1nj9jhcW"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Appel au soutien des r\u00e9publicains espagnols (20 mars 1937) : \"Savoir la v\u00e9rit\u00e9 et...\"",
+      "url": "https://open.spotify.com/track/2oNvWECpzcSzIxCCPyHl1H"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325760,
+      "name": "Appel au soutien des r\u00e9publicains espagnols (20 mars 1937) : La lutte anti-fasciste",
+      "url": "https://open.spotify.com/track/06xVzumMrc01Be1FWcBP3t"
+    },
+    {
+      "album": {
+        "name": "Les po\u00e8tes maudits",
+        "url": "https://open.spotify.com/album/5DNro19AoOM1Gtyo7PoZct"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Suar\u00e8s-Pazos",
+          "url": "https://open.spotify.com/artist/6VBneL8UThy3IOzJtAICNd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2125008,
+      "name": "Arthur Rimbaud",
+      "url": "https://open.spotify.com/track/1aWks6F8DzkvgEnFlcSydX"
+    },
+    {
+      "album": {
+        "name": "Gigi, Cheri, Sido Et Autres Textes",
+        "url": "https://open.spotify.com/album/5rmbNawXtN8BhRhklTewxn"
+      },
+      "artists": [
+        {
+          "name": "Colette",
+          "url": "https://open.spotify.com/artist/70WunQA38zBt0BoNyirEjJ"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 676200,
+      "name": "Cheri",
+      "url": "https://open.spotify.com/track/0ELJU3CN5Pxn15VcE28DIH"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Complot contre Edmond Dant\u00e8s",
+      "url": "https://open.spotify.com/track/64cNFCJ2UqRwtShxGpYPZ4"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381533,
+      "name": "Coup de th\u00e9\u00e2tre pour Villefort",
+      "url": "https://open.spotify.com/track/6QVIg0el6SnsGespsH0L9B"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388066,
+      "name": "Discours devant les rescap\u00e9es de Ravensbr\u00fcck (10 mai 1975) : \"Il ne reste que vous...\"",
+      "url": "https://open.spotify.com/track/0AHgVm1RBiczB6LgU2ytp9"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243933,
+      "name": "Discours devant les rescap\u00e9es de Ravensbr\u00fcck (10 mai 1975) : \"L'immense cort\u00e8ge des ombres...\"",
+      "url": "https://open.spotify.com/track/28vQqCtk5KzdNDF3AON9S0"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417640,
+      "name": "Discours devant les rescap\u00e9es de Ravensbr\u00fcck (10 mai 1975) : \"Le mal absolu\"",
+      "url": "https://open.spotify.com/track/6LIgU0xUpbN5psutVarDKP"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250573,
+      "name": "Duel de mousquetaires",
+      "url": "https://open.spotify.com/track/48norP7zsSqLP7ZdMSmHJz"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "D\u2019Artagnan en mission pour la reine de France",
+      "url": "https://open.spotify.com/track/7F1SvgJXk7X4FsdEHLmOCk"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145746,
+      "name": "D\u2019Artagnan, lieutenant des mousquetaires du roi",
+      "url": "https://open.spotify.com/track/4BiD4pPyRFMBqXrZxD9ifV"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103480,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6hqTaH51V4USbnU8HZL1vy"
+    },
+    {
+      "album": {
+        "name": "Gigi, Cheri, Sido Et Autres Textes",
+        "url": "https://open.spotify.com/album/5rmbNawXtN8BhRhklTewxn"
+      },
+      "artists": [
+        {
+          "name": "Colette",
+          "url": "https://open.spotify.com/artist/70WunQA38zBt0BoNyirEjJ"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595360,
+      "name": "Flore Et Pomone",
+      "url": "https://open.spotify.com/track/48UQsN93OYQIU3s5LsPBR1"
+    },
+    {
+      "album": {
+        "name": "Gigi, Cheri, Sido Et Autres Textes",
+        "url": "https://open.spotify.com/album/5rmbNawXtN8BhRhklTewxn"
+      },
+      "artists": [
+        {
+          "name": "Colette",
+          "url": "https://open.spotify.com/artist/70WunQA38zBt0BoNyirEjJ"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 945840,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/3yIKOrlBjr6OReCJh9Y0Il"
+    },
+    {
+      "album": {
+        "name": "French Short Stories, Vol. 2: Read in French by Armand and Louise B\u00e9gu\u00e9 and Pierre Capritz",
+        "url": "https://open.spotify.com/album/3EjuJgb9BbKC0se9H50c7V"
+      },
+      "artists": [
+        {
+          "name": "Pierre Capritz",
+          "url": "https://open.spotify.com/artist/5wv5eODmp2fKciuvU6Au9G"
+        },
+        {
+          "name": "Louise B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm"
+        },
+        {
+          "name": "Armand B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 866053,
+      "name": "Guy de Maupassant - En Voyage",
+      "url": "https://open.spotify.com/track/3ojR76oK5ZeTTMY1ZyImYc"
+    },
+    {
+      "album": {
+        "name": "French Short Stories, Vol. 1: Read in French by Armand and Louise B\u00e9gu\u00e9 and Pierre Capritz",
+        "url": "https://open.spotify.com/album/310F9BY1VdIemtgDr0ac0y"
+      },
+      "artists": [
+        {
+          "name": "Armand B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c"
+        },
+        {
+          "name": "Pierre Capritz",
+          "url": "https://open.spotify.com/artist/5wv5eODmp2fKciuvU6Au9G"
+        },
+        {
+          "name": "Louise B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 738066,
+      "name": "Guy de Maupassant - Menuet",
+      "url": "https://open.spotify.com/track/0k79N0F88ysDU2vl8njedh"
+    },
+    {
+      "album": {
+        "name": "Boule De Suif",
+        "url": "https://open.spotify.com/album/6jzWdGVoJJ2DaP50THiQN3"
+      },
+      "artists": [
+        {
+          "name": "Manu Olinger",
+          "url": "https://open.spotify.com/artist/0PqSbTIUFhWFUjIiMCfWjy"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6437955,
+      "name": "Guy De Maupassant : Boule De Suif",
+      "url": "https://open.spotify.com/track/0yaI6YNqLW49gMlccMKkCD"
+    },
+    {
+      "album": {
+        "name": "Les Nourritures Terrestres",
+        "url": "https://open.spotify.com/album/6BtQqg7AYgYeFmksbKo9pA"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Mauriac",
+          "url": "https://open.spotify.com/artist/4aMDyxI5ZHeLMJ4qwdxF6H"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192586,
+      "name": "Hommage A Andre Gide",
+      "url": "https://open.spotify.com/track/3MpHFCSfyEAK7UJwos3APp"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Inauguration de la maison de la culture \u00e0 Amiens (19 Mars 1966) : Du pass\u00e9 au pr\u00e9sent...",
+      "url": "https://open.spotify.com/track/49RIwQkzje8CqSzVv7qADx"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265866,
+      "name": "Inauguration de la maison de la culture \u00e0 Amiens (19 Mars 1966) : La civilisation des loisirs",
+      "url": "https://open.spotify.com/track/5M4Cap2VvqbKZutyQOYiss"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321693,
+      "name": "Inauguration de la maison de la culture \u00e0 Amiens (19 Mars 1966) : La jeunesse",
+      "url": "https://open.spotify.com/track/7uRzAiog6Pz28B7FNx5IsI"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Inauguration de la maison de la culture \u00e0 Amiens (19 Mars 1966) : Les images d'immortalit\u00e9",
+      "url": "https://open.spotify.com/track/5NOkRLp0p1Dpc4Ln7FAwQS"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315400,
+      "name": "Inauguration de la maison de la culture \u00e0 Amiens (19 Mars 1966) : Pour une universalit\u00e9...",
+      "url": "https://open.spotify.com/track/07KHbNNW3UWkeSrzW4xZ97"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "Inauguration de la maison de la culture \u00e0 Amiens (19 Mars 1966) : Qu'est-ce que l'imaginaire ?",
+      "url": "https://open.spotify.com/track/2pgwC0ZE8qlSuND0VqQjmd"
+    },
+    {
+      "album": {
+        "name": "Nouvelles de maupassant",
+        "url": "https://open.spotify.com/album/5GebRT8END6HDEF3Bl1i3h"
+      },
+      "artists": [
+        {
+          "name": "Guy de Maupassant",
+          "url": "https://open.spotify.com/artist/3K9HsneR46MyyC73Knfzan"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1110073,
+      "name": "L'abandonn\u00e9",
+      "url": "https://open.spotify.com/track/6u8gunPxNGcwOGuMqmQs1F"
+    },
+    {
+      "album": {
+        "name": "L'Etranger (Albert Camus)",
+        "url": "https://open.spotify.com/album/75uQXzuJTQ4OCSFxxEbeFJ"
+      },
+      "artists": [
+        {
+          "name": "Serge Reggiani",
+          "url": "https://open.spotify.com/artist/5ce2Vgy5OXlTNvrqbBV2Gk"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4585640,
+      "name": "L'Etranger",
+      "url": "https://open.spotify.com/track/0xiX2b1jpGH62kbZgfXMXW"
+    },
+    {
+      "album": {
+        "name": "Les Nourritures Terrestres",
+        "url": "https://open.spotify.com/album/6BtQqg7AYgYeFmksbKo9pA"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Gide",
+          "url": "https://open.spotify.com/artist/3oSujC65BhT85nDwyjpCiS"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "La Bille",
+      "url": "https://open.spotify.com/track/5tArc1RXV3s7OrGGvLOC2f"
+    },
+    {
+      "album": {
+        "name": "Nouvelles de Maupassant II",
+        "url": "https://open.spotify.com/album/3VAswjeUZkcKXQFfDR53hQ"
+      },
+      "artists": [
+        {
+          "name": "Marc Locci",
+          "url": "https://open.spotify.com/artist/53ovoXXvwG5Dlby4tH9nAn"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1135229,
+      "name": "La chevelure - Guy de Maupassant",
+      "url": "https://open.spotify.com/track/3va1ism824eDnlIQ21T1Iz"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158920,
+      "name": "La chute de Danglars",
+      "url": "https://open.spotify.com/track/5wwAC6VuD6jTtwUYsZbz2d"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286840,
+      "name": "La femme d\u2019Athos",
+      "url": "https://open.spotify.com/track/0QYkpZyPwYqjAFcLR0Coja"
+    },
+    {
+      "album": {
+        "name": "Les Nourritures Terrestres",
+        "url": "https://open.spotify.com/album/6BtQqg7AYgYeFmksbKo9pA"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Gide",
+          "url": "https://open.spotify.com/artist/3oSujC65BhT85nDwyjpCiS"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610200,
+      "name": "La Lecon De Piano",
+      "url": "https://open.spotify.com/track/54BneAUcW3eUq76WjzzoSl"
+    },
+    {
+      "album": {
+        "name": "Gigi, Cheri, Sido Et Autres Textes",
+        "url": "https://open.spotify.com/album/5rmbNawXtN8BhRhklTewxn"
+      },
+      "artists": [
+        {
+          "name": "Pierre Blanchard",
+          "url": "https://open.spotify.com/artist/5t5o8hMABbsXWtXbdpNMSF"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436453,
+      "name": "La Main",
+      "url": "https://open.spotify.com/track/1wKqxQVxvF9ab03OkXowaA"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271026,
+      "name": "La main de Dieu",
+      "url": "https://open.spotify.com/track/4OxiwiEOrT8bChNTtCJz5p"
+    },
+    {
+      "album": {
+        "name": "Gigi, Cheri, Sido Et Autres Textes",
+        "url": "https://open.spotify.com/album/5rmbNawXtN8BhRhklTewxn"
+      },
+      "artists": [
+        {
+          "name": "Edwige Feuillere",
+          "url": "https://open.spotify.com/artist/4wEI9V26kc7sFZwdfE3JH7"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 622320,
+      "name": "La Maison De Claudine",
+      "url": "https://open.spotify.com/track/3ptA0OnfrHMMYYS76bZRsE"
+    },
+    {
+      "album": {
+        "name": "George Sand : La mare au Diable",
+        "url": "https://open.spotify.com/album/0RxRbD5yBRKkY4rxlsn30m"
+      },
+      "artists": [
+        {
+          "name": "Jean Martinelli",
+          "url": "https://open.spotify.com/artist/71ri5VDyMDm89vMpo5Urc2"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 918413,
+      "name": "La mare au Diable - Part. 1",
+      "url": "https://open.spotify.com/track/5Va1ERNvu9GrNo1MiMjrwO"
+    },
+    {
+      "album": {
+        "name": "George Sand : La mare au Diable",
+        "url": "https://open.spotify.com/album/0RxRbD5yBRKkY4rxlsn30m"
+      },
+      "artists": [
+        {
+          "name": "Jean Martinelli",
+          "url": "https://open.spotify.com/artist/71ri5VDyMDm89vMpo5Urc2"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 828473,
+      "name": "La mare au Diable - Part. 2",
+      "url": "https://open.spotify.com/track/5cpOUNMAaYSy6RoQ5OpXie"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "La vengeance du Comte de Monte Cristo",
+      "url": "https://open.spotify.com/track/1VxLImNGUoR8uoJEnDk0Al"
+    },
+    {
+      "album": {
+        "name": "Les plus beaux po\u00e8mes de la langue fran\u00e7aise",
+        "url": "https://open.spotify.com/album/6UR4bu0xgRnKrDJkHv2sRW"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Philipe",
+          "url": "https://open.spotify.com/artist/53p0jU0si7wv43yMUWtWD7"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469333,
+      "name": "Le bateau ivre",
+      "url": "https://open.spotify.com/track/2qdMXyVybk6ii7BC4R8VDc"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572280,
+      "name": "Le cardinal Richelieu re\u00e7oit d\u2019Artagnan",
+      "url": "https://open.spotify.com/track/7DiEk6sCq2aOvorFtlXXZN"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "Le Ch\u00e2teau d\u2019If",
+      "url": "https://open.spotify.com/track/73VYxTO8wOs1JnXc31JJEy"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706106,
+      "name": "Le conseil des mousquetaires",
+      "url": "https://open.spotify.com/track/3Md5fiEd1icAV87shasKmQ"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 636460,
+      "name": "Le jugement de Milady",
+      "url": "https://open.spotify.com/track/68mfBFjFLgzusXyLbsVv4P"
+    },
+    {
+      "album": {
+        "name": "Le petit Prince de Saint-Exup\u00e9ry",
+        "url": "https://open.spotify.com/album/3cIv75IL86LeNBx9u4pHGP"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Philipe",
+          "url": "https://open.spotify.com/artist/53p0jU0si7wv43yMUWtWD7"
+        },
+        {
+          "name": "Georges Poujouly",
+          "url": "https://open.spotify.com/artist/2XouItF0sWYRmvnB4khhkE"
+        },
+        {
+          "name": "Pierre Larquey",
+          "url": "https://open.spotify.com/artist/1a8hzeeRTyhBjuuxn5oSXJ"
+        },
+        {
+          "name": "Michel Roux",
+          "url": "https://open.spotify.com/artist/4DqOTSre2k2Z4ZjNBHrkmC"
+        },
+        {
+          "name": "Jacques Grello",
+          "url": "https://open.spotify.com/artist/2VsB8EDCHkvsXqKARIRuu8"
+        },
+        {
+          "name": "Sylvie Pelayo",
+          "url": "https://open.spotify.com/artist/3qKhlZ3jwmHYSN8v6SUGAN"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1015813,
+      "name": "Le petit Prince, pt. 1",
+      "url": "https://open.spotify.com/track/6ViqQBoIhbzq9fFmVPABTX"
+    },
+    {
+      "album": {
+        "name": "Le petit Prince de Saint-Exup\u00e9ry",
+        "url": "https://open.spotify.com/album/3cIv75IL86LeNBx9u4pHGP"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Philipe",
+          "url": "https://open.spotify.com/artist/53p0jU0si7wv43yMUWtWD7"
+        },
+        {
+          "name": "Georges Poujouly",
+          "url": "https://open.spotify.com/artist/2XouItF0sWYRmvnB4khhkE"
+        },
+        {
+          "name": "Pierre Larquey",
+          "url": "https://open.spotify.com/artist/1a8hzeeRTyhBjuuxn5oSXJ"
+        },
+        {
+          "name": "Michel Roux",
+          "url": "https://open.spotify.com/artist/4DqOTSre2k2Z4ZjNBHrkmC"
+        },
+        {
+          "name": "Jacques Grello",
+          "url": "https://open.spotify.com/artist/2VsB8EDCHkvsXqKARIRuu8"
+        },
+        {
+          "name": "Sylvie Pelayo",
+          "url": "https://open.spotify.com/artist/3qKhlZ3jwmHYSN8v6SUGAN"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1015080,
+      "name": "Le petit Prince, pt. 2",
+      "url": "https://open.spotify.com/track/2uIxa1qdyfgnOY19SVahmj"
+    },
+    {
+      "album": {
+        "name": "Le petit Prince de Saint-Exup\u00e9ry",
+        "url": "https://open.spotify.com/album/3cIv75IL86LeNBx9u4pHGP"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Philipe",
+          "url": "https://open.spotify.com/artist/53p0jU0si7wv43yMUWtWD7"
+        },
+        {
+          "name": "Georges Poujouly",
+          "url": "https://open.spotify.com/artist/2XouItF0sWYRmvnB4khhkE"
+        },
+        {
+          "name": "Pierre Larquey",
+          "url": "https://open.spotify.com/artist/1a8hzeeRTyhBjuuxn5oSXJ"
+        },
+        {
+          "name": "Michel Roux",
+          "url": "https://open.spotify.com/artist/4DqOTSre2k2Z4ZjNBHrkmC"
+        },
+        {
+          "name": "Jacques Grello",
+          "url": "https://open.spotify.com/artist/2VsB8EDCHkvsXqKARIRuu8"
+        },
+        {
+          "name": "Sylvie Pelayo",
+          "url": "https://open.spotify.com/artist/3qKhlZ3jwmHYSN8v6SUGAN"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123426,
+      "name": "Le petit Prince, pt. 3",
+      "url": "https://open.spotify.com/track/2ZEtcbklsOqJxKbcywGxfQ"
+    },
+    {
+      "album": {
+        "name": "Le petit Prince de Saint-Exup\u00e9ry",
+        "url": "https://open.spotify.com/album/3cIv75IL86LeNBx9u4pHGP"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Philipe",
+          "url": "https://open.spotify.com/artist/53p0jU0si7wv43yMUWtWD7"
+        },
+        {
+          "name": "Georges Poujouly",
+          "url": "https://open.spotify.com/artist/2XouItF0sWYRmvnB4khhkE"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337800,
+      "name": "Le petit Prince, pt. 4",
+      "url": "https://open.spotify.com/track/5hT7TN3zeTlPeeZBuk2dch"
+    },
+    {
+      "album": {
+        "name": "Le petit Prince de Saint-Exup\u00e9ry",
+        "url": "https://open.spotify.com/album/3cIv75IL86LeNBx9u4pHGP"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Philipe",
+          "url": "https://open.spotify.com/artist/53p0jU0si7wv43yMUWtWD7"
+        },
+        {
+          "name": "Georges Poujouly",
+          "url": "https://open.spotify.com/artist/2XouItF0sWYRmvnB4khhkE"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389066,
+      "name": "Le petit Prince, pt. 5",
+      "url": "https://open.spotify.com/track/4o3xRGNWGTg2ypf3872sko"
+    },
+    {
+      "album": {
+        "name": "Le petit Prince de Saint-Exup\u00e9ry",
+        "url": "https://open.spotify.com/album/3cIv75IL86LeNBx9u4pHGP"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Philipe",
+          "url": "https://open.spotify.com/artist/53p0jU0si7wv43yMUWtWD7"
+        },
+        {
+          "name": "Georges Poujouly",
+          "url": "https://open.spotify.com/artist/2XouItF0sWYRmvnB4khhkE"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556346,
+      "name": "Le petit Prince, pt. 6",
+      "url": "https://open.spotify.com/track/296x7UpIE3yMFvm6rb8vyx"
+    },
+    {
+      "album": {
+        "name": "Le petit Prince de Saint-Exup\u00e9ry",
+        "url": "https://open.spotify.com/album/3cIv75IL86LeNBx9u4pHGP"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Philipe",
+          "url": "https://open.spotify.com/artist/53p0jU0si7wv43yMUWtWD7"
+        },
+        {
+          "name": "Georges Poujouly",
+          "url": "https://open.spotify.com/artist/2XouItF0sWYRmvnB4khhkE"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Le petit Prince, pt. 7",
+      "url": "https://open.spotify.com/track/1IVUBycIptfkLHflnuZJCX"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290360,
+      "name": "Le prisonnier furieux et le prisonnier fou",
+      "url": "https://open.spotify.com/track/3oBF2OlW9ZsIRIOsZ4XvHt"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307350,
+      "name": "Le secret de Milady",
+      "url": "https://open.spotify.com/track/06ytGtSWp5pGnEc8LLIk0l"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162520,
+      "name": "Le suicide de Fernand de Morcef",
+      "url": "https://open.spotify.com/track/5pvadsaeb1zO4k9rF16p2n"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558920,
+      "name": "Le tr\u00e9sor de l\u2019abb\u00e9 Faria",
+      "url": "https://open.spotify.com/track/1n6JGKclXEWH0tBDfNLDR2"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234960,
+      "name": "Les adieux de Mercedes et de Monte Cristo",
+      "url": "https://open.spotify.com/track/7ufmxQo7Fzl93UFcXfyCRp"
+    },
+    {
+      "album": {
+        "name": "Les Nourritures Terrestres",
+        "url": "https://open.spotify.com/album/6BtQqg7AYgYeFmksbKo9pA"
+      },
+      "artists": [
+        {
+          "name": "Philippe Gerard",
+          "url": "https://open.spotify.com/artist/3e4RBMLKu33pL4hYgCt5FG"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590466,
+      "name": "Les Nourritures Terrestres",
+      "url": "https://open.spotify.com/track/0tzUood6mLJDslr4aYZG8l"
+    },
+    {
+      "album": {
+        "name": "A Lover's Gift: From Him To Her",
+        "url": "https://open.spotify.com/album/4snC32Pmnq0AJeGvLaGvMq"
+      },
+      "artists": [
+        {
+          "name": "Michael Sheen",
+          "url": "https://open.spotify.com/artist/1vGT1ARFxsjCIuv8RsLJw7"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Letter From Gustave Flaubert To Louise Colet",
+      "url": "https://open.spotify.com/track/5NzjCm2AjtolRivcGIZDAG"
+    },
+    {
+      "album": {
+        "name": "Les 9 plus belles lettres d'amour",
+        "url": "https://open.spotify.com/album/5NiZ8LKJcCTs1RFr6nRaro"
+      },
+      "artists": [
+        {
+          "name": "Juliette Lancrenon",
+          "url": "https://open.spotify.com/artist/7J7yzlH8sQECFRd3W7SNl0"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173322,
+      "name": "Lettre d'Alfred de Musset \u00e0 George Sand : Pauvre George",
+      "url": "https://open.spotify.com/track/5CoH1AsxJZD4XTbsSUhpP1"
+    },
+    {
+      "album": {
+        "name": "Les 9 plus belles lettres d'amour",
+        "url": "https://open.spotify.com/album/5NiZ8LKJcCTs1RFr6nRaro"
+      },
+      "artists": [
+        {
+          "name": "Juliette Lancrenon",
+          "url": "https://open.spotify.com/artist/7J7yzlH8sQECFRd3W7SNl0"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243617,
+      "name": "Lettre de George Sand \u00e0 Musset : Je t'aime encore d'amour",
+      "url": "https://open.spotify.com/track/3LPaUAkxVu1E9WhjAf1e74"
+    },
+    {
+      "album": {
+        "name": "Les 9 plus belles lettres d'amour",
+        "url": "https://open.spotify.com/album/5NiZ8LKJcCTs1RFr6nRaro"
+      },
+      "artists": [
+        {
+          "name": "Juliette Lancrenon",
+          "url": "https://open.spotify.com/artist/7J7yzlH8sQECFRd3W7SNl0"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336613,
+      "name": "Lettre de Gustave Flaubert \u00e0 Louise Collet",
+      "url": "https://open.spotify.com/track/4h8kO7gYEE8G4ifOWK1IGE"
+    },
+    {
+      "album": {
+        "name": "Les 9 plus belles lettres d'amour",
+        "url": "https://open.spotify.com/album/5NiZ8LKJcCTs1RFr6nRaro"
+      },
+      "artists": [
+        {
+          "name": "Juliette Lancrenon",
+          "url": "https://open.spotify.com/artist/7J7yzlH8sQECFRd3W7SNl0"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142132,
+      "name": "Lettre de Juliette Drouet \u00e0 Victor Hugo",
+      "url": "https://open.spotify.com/track/5ihTmuXbr5dh1s1y0iDwxa"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161786,
+      "name": "Lettre d\u2019adieu du Comte de Monte Cristo",
+      "url": "https://open.spotify.com/track/0T1Eub8fhZ7euLilyW9kgX"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491893,
+      "name": "Louis XIII re\u00e7oit le capitaine de Tr\u00e9ville",
+      "url": "https://open.spotify.com/track/10nmMCv3DzlkzJQ6P9MB9F"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "L\u2019amour d\u2019Hayd\u00e9e",
+      "url": "https://open.spotify.com/track/16vnmzibL5A7qmqowP59br"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113826,
+      "name": "L\u2019arrestation d\u2019Edmond Dant\u00e8s",
+      "url": "https://open.spotify.com/track/5Yno2csWLrSl4kon65v3jJ"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184688,
+      "name": "L\u2019ex\u00e9cution de Milady",
+      "url": "https://open.spotify.com/track/76edDUT0pzdQA8CPPc3ZXl"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316013,
+      "name": "L\u2019interrogatoire par Villefort, substitut du procureur",
+      "url": "https://open.spotify.com/track/2IFHpacalOOp88VleHN4LM"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389293,
+      "name": "Mercedes tente de sauver son fils de la vengeance",
+      "url": "https://open.spotify.com/track/1yT320P5TOwYF27F2bgIsZ"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273920,
+      "name": "Monte Cristo rencontre de Villefort",
+      "url": "https://open.spotify.com/track/5rubJwcKSR70OQvZYXWALR"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348293,
+      "name": "Monte Cristo rencontre Mercedes",
+      "url": "https://open.spotify.com/track/37Usf3YwNJsqAlrF6TMP3x"
+    },
+    {
+      "album": {
+        "name": "Honor\u00e9 De Balzac: L'\u00e9lixir De Longue Vie",
+        "url": "https://open.spotify.com/album/0gT6PMCFI7hzyQlNhVhfBH"
+      },
+      "artists": [
+        {
+          "name": "Christian Fromont",
+          "url": "https://open.spotify.com/artist/1WHVhwrkaYLICoROT5qf0o"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2085041,
+      "name": "Partie 1",
+      "url": "https://open.spotify.com/track/6Bd5Hxnmlc98b8Pj3WVrSl"
+    },
+    {
+      "album": {
+        "name": "Honor\u00e9 De Balzac: Adieu",
+        "url": "https://open.spotify.com/album/0zDz1EcE3EqNwBq55YLOLw"
+      },
+      "artists": [
+        {
+          "name": "Honor\u00e9 de Balzac",
+          "url": "https://open.spotify.com/artist/1Zqs11SYTDW5LZAefhqIBk"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2083996,
+      "name": "Partie 1",
+      "url": "https://open.spotify.com/track/6bOr5rZGM9RaEP0bMVC0S8"
+    },
+    {
+      "album": {
+        "name": "Honor\u00e9 De Balzac: L'\u00e9lixir De Longue Vie",
+        "url": "https://open.spotify.com/album/0gT6PMCFI7hzyQlNhVhfBH"
+      },
+      "artists": [
+        {
+          "name": "Christian Fromont",
+          "url": "https://open.spotify.com/artist/1WHVhwrkaYLICoROT5qf0o"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1915324,
+      "name": "Partie 2",
+      "url": "https://open.spotify.com/track/2tsn0uGXCYg09bIWkxlpK1"
+    },
+    {
+      "album": {
+        "name": "Honor\u00e9 De Balzac: Adieu",
+        "url": "https://open.spotify.com/album/0zDz1EcE3EqNwBq55YLOLw"
+      },
+      "artists": [
+        {
+          "name": "Honor\u00e9 de Balzac",
+          "url": "https://open.spotify.com/artist/1Zqs11SYTDW5LZAefhqIBk"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2641214,
+      "name": "Partie 2",
+      "url": "https://open.spotify.com/track/6vo65f0pQyFSdeMXhqIcIm"
+    },
+    {
+      "album": {
+        "name": "Honor\u00e9 De Balzac: Adieu",
+        "url": "https://open.spotify.com/album/0zDz1EcE3EqNwBq55YLOLw"
+      },
+      "artists": [
+        {
+          "name": "Honor\u00e9 de Balzac",
+          "url": "https://open.spotify.com/artist/1Zqs11SYTDW5LZAefhqIBk"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2416561,
+      "name": "Partie 3",
+      "url": "https://open.spotify.com/track/2dSOUh6EKa8GmN6ogg83Wz"
+    },
+    {
+      "album": {
+        "name": "French Short Stories, Vol. 1: Read in French by Armand and Louise B\u00e9gu\u00e9 and Pierre Capritz",
+        "url": "https://open.spotify.com/album/310F9BY1VdIemtgDr0ac0y"
+      },
+      "artists": [
+        {
+          "name": "Louise B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm"
+        },
+        {
+          "name": "Pierre Capritz",
+          "url": "https://open.spotify.com/artist/5wv5eODmp2fKciuvU6Au9G"
+        },
+        {
+          "name": "Armand B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409320,
+      "name": "Paul-Louis Courier - Une Aventure en Calabre",
+      "url": "https://open.spotify.com/track/3S8NET77LaSEGcoacFoADI"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149533,
+      "name": "Portrait du jeune d\u2019Artagnan",
+      "url": "https://open.spotify.com/track/6YqH4T8ah4qnoAxONVqY5d"
+    },
+    {
+      "album": {
+        "name": "Gigi, Cheri, Sido Et Autres Textes",
+        "url": "https://open.spotify.com/album/5rmbNawXtN8BhRhklTewxn"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9rique Hebrard",
+          "url": "https://open.spotify.com/artist/6VyuyLG2LbcZrir7v5vPC2"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283080,
+      "name": "Poum",
+      "url": "https://open.spotify.com/track/2PkbMYWK8Rf2AMEYgsu1WP"
+    },
+    {
+      "album": {
+        "name": "French Short Stories, Vol. 2: Read in French by Armand and Louise B\u00e9gu\u00e9 and Pierre Capritz",
+        "url": "https://open.spotify.com/album/3EjuJgb9BbKC0se9H50c7V"
+      },
+      "artists": [
+        {
+          "name": "Louise B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm"
+        },
+        {
+          "name": "Armand B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c"
+        },
+        {
+          "name": "Pierre Capritz",
+          "url": "https://open.spotify.com/artist/5wv5eODmp2fKciuvU6Au9G"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474293,
+      "name": "Prosper M\u00e9rim\u00e9e - Courtoisie d'un Bandit",
+      "url": "https://open.spotify.com/track/3ajzXUDh3q8nATskm7FvmC"
+    },
+    {
+      "album": {
+        "name": "Les plus beaux po\u00e8mes de la langue fran\u00e7aise",
+        "url": "https://open.spotify.com/album/6UR4bu0xgRnKrDJkHv2sRW"
+      },
+      "artists": [
+        {
+          "name": "Maria Casares",
+          "url": "https://open.spotify.com/artist/6XzUDQicM1C0YTBcfaPC6M"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89666,
+      "name": "Recueillement",
+      "url": "https://open.spotify.com/track/5YVS5dmZtAj1H4JIc4Bq66"
+    },
+    {
+      "album": {
+        "name": "Gigi, Cheri, Sido Et Autres Textes",
+        "url": "https://open.spotify.com/album/5rmbNawXtN8BhRhklTewxn"
+      },
+      "artists": [
+        {
+          "name": "Colette",
+          "url": "https://open.spotify.com/artist/70WunQA38zBt0BoNyirEjJ"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457720,
+      "name": "Sido Ma Mere",
+      "url": "https://open.spotify.com/track/7511onEgsuqbkU22Qy5if0"
+    },
+    {
+      "album": {
+        "name": "Nouvelles de Maupassant II",
+        "url": "https://open.spotify.com/album/3VAswjeUZkcKXQFfDR53hQ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Olinger",
+          "url": "https://open.spotify.com/artist/78PbknB8NZfv0MDCWrSkn0"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1068669,
+      "name": "Sur l'eau - Guy de Maupassant",
+      "url": "https://open.spotify.com/track/5IbCZOSqMPiS7SLRjnmKoI"
+    },
+    {
+      "album": {
+        "name": "Les Nourritures Terrestres",
+        "url": "https://open.spotify.com/album/6BtQqg7AYgYeFmksbKo9pA"
+      },
+      "artists": [
+        {
+          "name": "Jean-Louis Barrault",
+          "url": "https://open.spotify.com/artist/6eA53opP8MAXmxfXxsd69m"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497760,
+      "name": "Thesee",
+      "url": "https://open.spotify.com/track/4m2uAYoh75qipVgt6NM7F6"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Transfert des cendres de Jean Moulin au Panth\u00e9on (19 d\u00e9cembre 1964) : \"Comment organiser...\"",
+      "url": "https://open.spotify.com/track/4cinUm6TljKR3EgKZZE8oy"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212733,
+      "name": "Transfert des cendres de Jean Moulin au Panth\u00e9on (19 d\u00e9cembre 1964) : \"La grande lutte...\"",
+      "url": "https://open.spotify.com/track/1M8WnDBTfL9VxQEYCysTXA"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258773,
+      "name": "Transfert des cendres de Jean Moulin au Panth\u00e9on (19 d\u00e9cembre 1964) : \"Le Carnot de la r\u00e9sistance\"",
+      "url": "https://open.spotify.com/track/0wB3xY7TYwOAP1s8zdy93j"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131693,
+      "name": "Transfert des cendres de Jean Moulin au Panth\u00e9on (19 d\u00e9cembre 1964) : \"Le visage de la France\"",
+      "url": "https://open.spotify.com/track/5mKhEUdlHo5WZOrw4jXaeZ"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Transfert des cendres de Jean Moulin au Panth\u00e9on (19 d\u00e9cembre 1964) : \"Voici la victoire...\"",
+      "url": "https://open.spotify.com/track/1N1BuaubaH028l0qwVwHgt"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144933,
+      "name": "Transfert des cendres de Jean Moulin au Panth\u00e9on (19 d\u00e9cembre 1964) : \"Voil\u00e0 donc vingt ans...\"",
+      "url": "https://open.spotify.com/track/5ilA4ILv2jY7CjVzLZsrwt"
+    },
+    {
+      "album": {
+        "name": "Quatre discours majeurs",
+        "url": "https://open.spotify.com/album/6IAIW8c0M6648xM91uu1Dt"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Malraux",
+          "url": "https://open.spotify.com/artist/25jRZifKnmoXjH8k2uTa6c"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Transfert des cendres de Jean Moulin au Panth\u00e9on (19 d\u00e9cembre 1964) : L'unit\u00e9 d'action dans...",
+      "url": "https://open.spotify.com/track/0Xc6ogIbeoTFL1u2z5aAAl"
+    },
+    {
+      "album": {
+        "name": "Les Trois Mousquetaires",
+        "url": "https://open.spotify.com/album/6Bq3p90I87XZPZ3FmmVxOm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457373,
+      "name": "Un r\u00eave : \u00eatre mousquetaire du roi",
+      "url": "https://open.spotify.com/track/08XkP6ZlpII6pWTHWbsQcV"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte-Cristo",
+        "url": "https://open.spotify.com/album/6o4SIinB0c9KYj1VA4RTxZ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Alexandre Dumas",
+          "url": "https://open.spotify.com/artist/0V1ogjWW3Zo2raqh81ASUd"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141880,
+      "name": "Villefort terrass\u00e9 par Monte Cristo",
+      "url": "https://open.spotify.com/track/16xomUwvm5ihbLDYRrEZDE"
+    },
+    {
+      "album": {
+        "name": "French Short Stories, Vol. 1: Read in French by Armand and Louise B\u00e9gu\u00e9 and Pierre Capritz",
+        "url": "https://open.spotify.com/album/310F9BY1VdIemtgDr0ac0y"
+      },
+      "artists": [
+        {
+          "name": "Armand B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c"
+        },
+        {
+          "name": "Louise B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm"
+        },
+        {
+          "name": "Pierre Capritz",
+          "url": "https://open.spotify.com/artist/5wv5eODmp2fKciuvU6Au9G"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1181040,
+      "name": "Voltaire - Jeannot et Colin",
+      "url": "https://open.spotify.com/track/5RoscZwsFWbDwAte0SvOaB"
+    },
+    {
+      "album": {
+        "name": "French Short Stories, Vol. 2: Read in French by Armand and Louise B\u00e9gu\u00e9 and Pierre Capritz",
+        "url": "https://open.spotify.com/album/3EjuJgb9BbKC0se9H50c7V"
+      },
+      "artists": [
+        {
+          "name": "Pierre Capritz",
+          "url": "https://open.spotify.com/artist/5wv5eODmp2fKciuvU6Au9G"
+        },
+        {
+          "name": "Louise B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm"
+        },
+        {
+          "name": "Armand B\u00e9gu\u00e9",
+          "url": "https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c"
+        }
+      ],
+      "date_added": "2014-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422026,
+      "name": "Voltaire - Un Extrait de Zadig: Le Chien et le Cheval",
+      "url": "https://open.spotify.com/track/5mS74wOPNeENMzXHIKzgs7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8pbyATDkUwW"
 }

@@ -1,735 +1,1469 @@
 {
-  "2021-12-25": 234067,
-  "2021-12-26": 234157,
-  "2021-12-27": 234313,
-  "2021-12-28": 234313,
-  "2021-12-29": 234391,
-  "2021-12-30": 234465,
-  "2021-12-31": 234530,
-  "2022-01-01": 234675,
-  "2022-01-02": 234704,
-  "2022-01-03": 234755,
-  "2022-01-04": 234804,
-  "2022-01-05": 234874,
-  "2022-01-06": 234954,
-  "2022-01-07": 235012,
-  "2022-01-08": 235166,
-  "2022-01-09": 235171,
-  "2022-01-10": 235258,
-  "2022-01-11": 235324,
-  "2022-01-12": 235407,
-  "2022-01-13": 235473,
-  "2022-01-14": 235552,
-  "2022-01-15": 235714,
-  "2022-01-16": 235720,
-  "2022-01-17": 235879,
-  "2022-01-18": 235888,
-  "2022-01-19": 235936,
-  "2022-01-20": 236011,
-  "2022-01-21": 236087,
-  "2022-01-22": 236145,
-  "2022-01-23": 236216,
-  "2022-01-24": 236312,
-  "2022-01-25": 236391,
-  "2022-01-26": 236457,
-  "2022-01-27": 236517,
-  "2022-01-28": 236573,
-  "2022-01-29": 236639,
-  "2022-01-30": 236744,
-  "2022-01-31": 236836,
-  "2022-02-01": 236895,
-  "2022-02-02": 236979,
-  "2022-02-03": 237055,
-  "2022-02-04": 237131,
-  "2022-02-05": 237191,
-  "2022-02-06": 237286,
-  "2022-02-07": 237368,
-  "2022-02-08": 237418,
-  "2022-02-09": 237473,
-  "2022-02-10": 237536,
-  "2022-02-11": 237591,
-  "2022-02-12": 237654,
-  "2022-02-13": 237749,
-  "2022-02-14": 237839,
-  "2022-02-15": 237889,
-  "2022-02-16": 237928,
-  "2022-02-17": 237987,
-  "2022-02-18": 238048,
-  "2022-02-19": 238100,
-  "2022-02-20": 238174,
-  "2022-02-21": 238257,
-  "2022-02-22": 238335,
-  "2022-02-23": 238402,
-  "2022-02-24": 238445,
-  "2022-02-25": 238493,
-  "2022-02-26": 238556,
-  "2022-02-27": 238700,
-  "2022-02-28": 238700,
-  "2022-03-01": 238794,
-  "2022-03-02": 238865,
-  "2022-03-03": 238921,
-  "2022-03-04": 238983,
-  "2022-03-05": 239035,
-  "2022-03-06": 239125,
-  "2022-03-07": 239197,
-  "2022-03-08": 239264,
-  "2022-03-09": 239332,
-  "2022-03-10": 239408,
-  "2022-03-11": 239478,
-  "2022-03-12": 239550,
-  "2022-03-13": 239658,
-  "2022-03-14": 239753,
-  "2022-03-15": 239832,
-  "2022-03-16": 239946,
-  "2022-03-17": 240090,
-  "2022-03-18": 240633,
-  "2022-03-19": 240721,
-  "2022-03-20": 240721,
-  "2022-03-21": 240935,
-  "2022-03-22": 240984,
-  "2022-03-23": 241011,
-  "2022-03-24": 241100,
-  "2022-03-25": 241168,
-  "2022-03-26": 241216,
-  "2022-03-27": 241291,
-  "2022-03-28": 241348,
-  "2022-03-30": 241454,
-  "2022-03-31": 241515,
-  "2022-04-01": 241593,
-  "2022-04-02": 241688,
-  "2022-04-03": 241765,
-  "2022-04-04": 241829,
-  "2022-04-05": 241889,
-  "2022-04-06": 241953,
-  "2022-04-07": 242014,
-  "2022-04-08": 242086,
-  "2022-04-09": 242156,
-  "2022-04-10": 242300,
-  "2022-04-11": 242370,
-  "2022-04-12": 242371,
-  "2022-04-13": 242416,
-  "2022-04-14": 242477,
-  "2022-04-15": 242551,
-  "2022-04-16": 242623,
-  "2022-04-17": 242709,
-  "2022-04-18": 242779,
-  "2022-04-19": 242833,
-  "2022-04-20": 242882,
-  "2022-04-21": 242944,
-  "2022-04-22": 243008,
-  "2022-04-23": 243075,
-  "2022-04-24": 243144,
-  "2022-04-25": 243222,
-  "2022-04-26": 243270,
-  "2022-04-27": 243337,
-  "2022-04-28": 243394,
-  "2022-04-29": 243482,
-  "2022-04-30": 243568,
-  "2022-05-01": 243701,
-  "2022-05-02": 243701,
-  "2022-05-03": 243774,
-  "2022-05-04": 243864,
-  "2022-05-05": 243909,
-  "2022-05-06": 243987,
-  "2022-05-07": 244056,
-  "2022-05-08": 244183,
-  "2022-05-09": 244201,
-  "2022-05-10": 244275,
-  "2022-05-11": 244303,
-  "2022-05-12": 244352,
-  "2022-05-13": 244393,
-  "2022-05-14": 244466,
-  "2022-05-15": 244553,
-  "2022-05-16": 244617,
-  "2022-05-17": 244679,
-  "2022-05-18": 244740,
-  "2022-05-19": 244791,
-  "2022-05-20": 244852,
-  "2022-05-21": 245015,
-  "2022-05-22": 245015,
-  "2022-05-23": 245076,
-  "2022-05-24": 245130,
-  "2022-05-25": 245184,
-  "2022-05-26": 245255,
-  "2022-05-27": 245317,
-  "2022-05-28": 245384,
-  "2022-05-29": 245445,
-  "2022-05-30": 245488,
-  "2022-05-31": 245553,
-  "2022-06-01": 245640,
-  "2022-06-02": 245645,
-  "2022-06-03": 245699,
-  "2022-06-04": 245763,
-  "2022-06-05": 245843,
-  "2022-06-06": 245922,
-  "2022-06-07": 245972,
-  "2022-06-08": 246032,
-  "2022-06-09": 246092,
-  "2022-06-10": 246136,
-  "2022-06-11": 246190,
-  "2022-06-12": 246242,
-  "2022-06-13": 246329,
-  "2022-06-14": 246378,
-  "2022-06-15": 246427,
-  "2022-06-16": 246494,
-  "2022-06-17": 246571,
-  "2022-06-18": 246639,
-  "2022-06-19": 246788,
-  "2022-06-20": 246788,
-  "2022-06-21": 246848,
-  "2022-06-22": 246973,
-  "2022-06-23": 246973,
-  "2022-06-24": 247035,
-  "2022-06-25": 247094,
-  "2022-06-26": 247155,
-  "2022-06-27": 247206,
-  "2022-06-28": 247249,
-  "2022-06-29": 247281,
-  "2022-06-30": 247339,
-  "2022-07-01": 247403,
-  "2022-07-02": 247453,
-  "2022-07-03": 247497,
-  "2022-07-04": 247593,
-  "2022-07-05": 247672,
-  "2022-07-06": 247723,
-  "2022-07-07": 247780,
-  "2022-07-08": 247837,
-  "2022-07-09": 247917,
-  "2022-07-10": 247993,
-  "2022-07-11": 248043,
-  "2022-07-12": 248107,
-  "2022-07-13": 248160,
-  "2022-07-14": 248213,
-  "2022-07-15": 248277,
-  "2022-07-16": 248336,
-  "2022-07-17": 248395,
-  "2022-07-18": 248454,
-  "2022-07-19": 248530,
-  "2022-07-20": 248586,
-  "2022-07-21": 248645,
-  "2022-07-22": 248698,
-  "2022-07-23": 248744,
-  "2022-07-24": 248820,
-  "2022-07-25": 248881,
-  "2022-07-26": 248944,
-  "2022-07-27": 248993,
-  "2022-07-28": 249052,
-  "2022-07-29": 249087,
-  "2022-07-30": 249233,
-  "2022-07-31": 249233,
-  "2022-08-01": 249320,
-  "2022-08-02": 249448,
-  "2022-08-03": 249448,
-  "2022-08-04": 249518,
-  "2022-08-05": 249571,
-  "2022-08-06": 249635,
-  "2022-08-07": 249725,
-  "2022-08-08": 249800,
-  "2022-08-09": 249858,
-  "2022-08-10": 249921,
-  "2022-08-11": 249986,
-  "2022-08-12": 250032,
-  "2022-08-13": 250087,
-  "2022-08-14": 250158,
-  "2022-08-15": 250225,
-  "2022-08-16": 250292,
-  "2022-08-17": 250336,
-  "2022-08-18": 250398,
-  "2022-08-19": 250463,
-  "2022-08-20": 250534,
-  "2022-08-21": 250607,
-  "2022-08-22": 250684,
-  "2022-08-23": 250739,
-  "2022-08-24": 250798,
-  "2022-08-25": 250854,
-  "2022-08-26": 250918,
-  "2022-08-27": 250987,
-  "2022-08-28": 251053,
-  "2022-08-29": 251128,
-  "2022-08-30": 251140,
-  "2022-08-31": 251104,
-  "2022-09-01": 251043,
-  "2022-09-02": 251014,
-  "2022-09-03": 251071,
-  "2022-09-04": 250915,
-  "2022-09-05": 250990,
-  "2022-09-06": 251044,
-  "2022-09-07": 251112,
-  "2022-09-09": 251256,
-  "2022-09-10": 251415,
-  "2022-09-11": 251551,
-  "2022-09-12": 251667,
-  "2022-09-13": 251764,
-  "2022-09-15": 251892,
-  "2022-09-16": 251939,
-  "2022-09-17": 251995,
-  "2022-09-18": 252067,
-  "2022-09-19": 252153,
-  "2022-09-20": 252219,
-  "2022-09-21": 252291,
-  "2022-09-22": 252350,
-  "2022-09-23": 252409,
-  "2022-09-24": 252451,
-  "2022-09-25": 252533,
-  "2022-09-26": 252632,
-  "2022-09-27": 252700,
-  "2022-09-28": 252775,
-  "2022-09-29": 252813,
-  "2022-09-30": 252871,
-  "2022-10-01": 252946,
-  "2022-10-02": 253013,
-  "2022-10-03": 253073,
-  "2022-10-04": 253124,
-  "2022-10-05": 253179,
-  "2022-10-06": 253249,
-  "2022-10-07": 253306,
-  "2022-10-08": 253368,
-  "2022-10-09": 253486,
-  "2022-10-10": 253495,
-  "2022-10-11": 253586,
-  "2022-10-12": 253649,
-  "2022-10-13": 253704,
-  "2022-10-14": 253782,
-  "2022-10-15": 253868,
-  "2022-10-16": 253934,
-  "2022-10-17": 254015,
-  "2022-10-18": 254086,
-  "2022-10-19": 254132,
-  "2022-10-20": 254192,
-  "2022-10-21": 254251,
-  "2022-10-22": 254301,
-  "2022-10-23": 254375,
-  "2022-10-24": 254418,
-  "2022-10-25": 254484,
-  "2022-10-26": 254524,
-  "2022-10-27": 254585,
-  "2022-10-28": 254635,
-  "2022-10-29": 254689,
-  "2022-10-30": 254772,
-  "2022-10-31": 254821,
-  "2022-11-01": 254860,
-  "2022-11-02": 254916,
-  "2022-11-03": 254988,
-  "2022-11-04": 255063,
-  "2022-11-05": 255114,
-  "2022-11-06": 255191,
-  "2022-11-07": 255254,
-  "2022-11-08": 255321,
-  "2022-11-09": 255352,
-  "2022-11-10": 255400,
-  "2022-11-11": 255439,
-  "2022-11-12": 255536,
-  "2022-11-13": 255596,
-  "2022-11-14": 255689,
-  "2022-11-15": 255753,
-  "2022-11-16": 255804,
-  "2022-11-17": 255844,
-  "2022-11-18": 255862,
-  "2022-11-19": 255830,
-  "2022-11-20": 255933,
-  "2022-11-21": 255901,
-  "2022-11-22": 256076,
-  "2022-11-23": 256039,
-  "2022-11-24": 256235,
-  "2022-11-25": 256332,
-  "2022-11-26": 256403,
-  "2022-11-27": 256468,
-  "2022-11-28": 256536,
-  "2022-11-29": 256589,
-  "2022-11-30": 256660,
-  "2022-12-01": 256755,
-  "2022-12-02": 256783,
-  "2022-12-03": 256869,
-  "2022-12-04": 256920,
-  "2022-12-05": 256999,
-  "2022-12-06": 257060,
-  "2022-12-07": 257140,
-  "2022-12-08": 257193,
-  "2022-12-09": 257273,
-  "2022-12-10": 257348,
-  "2022-12-11": 257421,
-  "2022-12-12": 257522,
-  "2022-12-13": 257573,
-  "2022-12-14": 257633,
-  "2022-12-15": 257702,
-  "2022-12-16": 257788,
-  "2022-12-17": 257841,
-  "2022-12-18": 257916,
-  "2022-12-19": 257975,
-  "2022-12-20": 258117,
-  "2022-12-21": 258117,
-  "2022-12-22": 258190,
-  "2022-12-24": 258322,
-  "2022-12-25": 258401,
-  "2022-12-26": 258505,
-  "2022-12-27": 258597,
-  "2022-12-28": 258668,
-  "2022-12-29": 258741,
-  "2022-12-30": 258814,
-  "2022-12-31": 258883,
-  "2023-01-01": 258939,
-  "2023-01-02": 258996,
-  "2023-01-03": 259072,
-  "2023-01-04": 259135,
-  "2023-01-05": 259209,
-  "2023-01-06": 259304,
-  "2023-01-07": 259460,
-  "2023-01-08": 259495,
-  "2023-01-09": 259567,
-  "2023-01-10": 259631,
-  "2023-01-11": 259691,
-  "2023-01-12": 259752,
-  "2023-01-13": 259811,
-  "2023-01-14": 259969,
-  "2023-01-15": 260010,
-  "2023-01-16": 260097,
-  "2023-01-17": 260176,
-  "2023-01-18": 260247,
-  "2023-01-19": 260300,
-  "2023-01-20": 260367,
-  "2023-01-21": 260439,
-  "2023-01-22": 260529,
-  "2023-01-23": 260609,
-  "2023-01-24": 260669,
-  "2023-01-25": 260738,
-  "2023-01-26": 260804,
-  "2023-01-27": 260868,
-  "2023-01-28": 260930,
-  "2023-01-29": 261022,
-  "2023-01-30": 261099,
-  "2023-01-31": 261099,
-  "2023-02-01": 261215,
-  "2023-02-02": 261278,
-  "2023-02-03": 261363,
-  "2023-02-04": 261448,
-  "2023-02-05": 261520,
-  "2023-02-06": 261593,
-  "2023-02-07": 261659,
-  "2023-02-08": 261776,
-  "2023-02-09": 261776,
-  "2023-02-10": 261846,
-  "2023-02-11": 261912,
-  "2023-02-12": 262087,
-  "2023-02-13": 262149,
-  "2023-02-14": 262149,
-  "2023-02-15": 262208,
-  "2023-02-16": 262279,
-  "2023-02-17": 262336,
-  "2023-02-18": 262518,
-  "2023-02-19": 262527,
-  "2023-02-20": 262609,
-  "2023-02-21": 262692,
-  "2023-02-22": 262753,
-  "2023-02-23": 262852,
-  "2023-02-24": 262925,
-  "2023-02-25": 263001,
-  "2023-02-26": 263058,
-  "2023-02-27": 263218,
-  "2023-02-28": 263218,
-  "2023-03-01": 263293,
-  "2023-03-02": 263366,
-  "2023-03-03": 263437,
-  "2023-03-04": 263502,
-  "2023-03-05": 263710,
-  "2023-03-06": 263710,
-  "2023-03-07": 263795,
-  "2023-03-08": 263867,
-  "2023-03-09": 263929,
-  "2023-03-10": 264000,
-  "2023-03-11": 264094,
-  "2023-03-12": 264201,
-  "2023-03-13": 264298,
-  "2023-03-14": 264352,
-  "2023-03-15": 264421,
-  "2023-03-16": 264542,
-  "2023-03-17": 264542,
-  "2023-03-18": 265079,
-  "2023-03-19": 265250,
-  "2023-03-20": 265347,
-  "2023-03-21": 265422,
-  "2023-03-22": 265499,
-  "2023-03-23": 265596,
-  "2023-03-24": 265596,
-  "2023-03-25": 265760,
-  "2023-03-26": 265846,
-  "2023-03-27": 265928,
-  "2023-03-28": 265990,
-  "2023-03-29": 266070,
-  "2023-03-30": 266174,
-  "2023-03-31": 266174,
-  "2023-04-01": 266248,
-  "2023-04-02": 266330,
-  "2023-04-03": 266412,
-  "2023-04-04": 266474,
-  "2023-04-05": 266514,
-  "2023-04-06": 266587,
-  "2023-04-07": 266644,
-  "2023-04-09": 266773,
-  "2023-04-10": 266856,
-  "2023-04-11": 266955,
-  "2023-04-12": 266955,
-  "2023-04-13": 267009,
-  "2023-04-14": 267059,
-  "2023-04-15": 267139,
-  "2023-04-16": 267210,
-  "2023-04-17": 267267,
-  "2023-04-18": 267315,
-  "2023-04-19": 267396,
-  "2023-04-20": 267461,
-  "2023-04-21": 267523,
-  "2023-04-22": 267587,
-  "2023-04-23": 267631,
-  "2023-04-24": 267708,
-  "2023-04-25": 267749,
-  "2023-04-26": 267805,
-  "2023-04-27": 267867,
-  "2023-04-28": 267930,
-  "2023-04-29": 267980,
-  "2023-04-30": 268045,
-  "2023-05-01": 268104,
-  "2023-05-02": 268174,
-  "2023-05-03": 268223,
-  "2023-05-04": 268272,
-  "2023-05-05": 268324,
-  "2023-05-06": 268399,
-  "2023-05-07": 268460,
-  "2023-05-08": 268496,
-  "2023-05-09": 268529,
-  "2023-05-10": 268580,
-  "2023-05-11": 268633,
-  "2023-05-12": 268691,
-  "2023-05-13": 268753,
-  "2023-05-14": 268813,
-  "2023-05-15": 268864,
-  "2023-05-16": 268914,
-  "2023-05-17": 268970,
-  "2023-05-18": 269020,
-  "2023-05-19": 269117,
-  "2023-05-20": 269245,
-  "2023-05-21": 269245,
-  "2023-05-22": 269245,
-  "2023-05-23": 269371,
-  "2023-05-24": 269462,
-  "2023-05-25": 269467,
-  "2023-05-26": 269530,
-  "2023-05-27": 269585,
-  "2023-05-28": 269645,
-  "2023-05-29": 269645,
-  "2023-05-30": 269776,
-  "2023-05-31": 269832,
-  "2023-06-01": 269892,
-  "2023-06-02": 269938,
-  "2023-06-03": 270016,
-  "2023-06-04": 270085,
-  "2023-06-05": 270154,
-  "2023-06-06": 270228,
-  "2023-06-07": 270275,
-  "2023-06-08": 270323,
-  "2023-06-09": 270369,
-  "2023-06-10": 270421,
-  "2023-06-11": 270506,
-  "2023-06-12": 270572,
-  "2023-06-13": 270613,
-  "2023-06-14": 270613,
-  "2023-06-15": 270740,
-  "2023-06-16": 270790,
-  "2023-06-17": 270857,
-  "2023-06-18": 270928,
-  "2023-06-19": 270981,
-  "2023-06-20": 271009,
-  "2023-06-21": 271059,
-  "2023-06-22": 271110,
-  "2023-06-23": 271166,
-  "2023-06-24": 271215,
-  "2023-06-25": 271297,
-  "2023-06-26": 271363,
-  "2023-06-27": 271421,
-  "2023-06-28": 271461,
-  "2023-06-29": 271509,
-  "2023-06-30": 271553,
-  "2023-07-01": 271678,
-  "2023-07-02": 271678,
-  "2023-07-03": 271731,
-  "2023-07-04": 271779,
-  "2023-07-05": 271824,
-  "2023-07-06": 271929,
-  "2023-07-07": 271929,
-  "2023-07-08": 272007,
-  "2023-07-09": 272065,
-  "2023-07-10": 272128,
-  "2023-07-11": 272162,
-  "2023-07-12": 272218,
-  "2023-07-13": 272258,
-  "2023-07-14": 272335,
-  "2023-07-15": 272369,
-  "2023-07-16": 272442,
-  "2023-07-17": 272495,
-  "2023-07-18": 272538,
-  "2023-07-19": 272593,
-  "2023-07-20": 272637,
-  "2023-07-21": 272678,
-  "2023-07-22": 272727,
-  "2023-07-23": 272793,
-  "2023-07-24": 272856,
-  "2023-07-25": 272902,
-  "2023-07-26": 272955,
-  "2023-07-27": 273056,
-  "2023-07-28": 273179,
-  "2023-07-29": 273316,
-  "2023-07-30": 273429,
-  "2023-07-31": 273546,
-  "2023-08-01": 273612,
-  "2023-08-02": 273695,
-  "2023-08-03": 273772,
-  "2023-08-04": 273849,
-  "2023-08-05": 273968,
-  "2023-08-06": 274182,
-  "2023-08-07": 274182,
-  "2023-08-08": 274245,
-  "2023-08-09": 274342,
-  "2023-08-10": 274434,
-  "2023-08-11": 274497,
-  "2023-08-12": 274564,
-  "2023-08-13": 274659,
-  "2023-08-14": 274737,
-  "2023-08-15": 274888,
-  "2023-08-16": 274888,
-  "2023-08-17": 274968,
-  "2023-08-18": 275055,
-  "2023-08-19": 275136,
-  "2023-08-20": 275218,
-  "2023-08-21": 275309,
-  "2023-08-22": 275372,
-  "2023-08-23": 275438,
-  "2023-08-24": 275492,
-  "2023-08-25": 275552,
-  "2023-08-26": 275636,
-  "2023-08-27": 275716,
-  "2023-08-28": 275804,
-  "2023-08-29": 275852,
-  "2023-08-30": 275923,
-  "2023-08-31": 275978,
-  "2023-09-01": 276104,
-  "2023-09-02": 276104,
-  "2023-09-03": 276150,
-  "2023-09-04": 276223,
-  "2023-09-05": 276292,
-  "2023-09-06": 276349,
-  "2023-09-07": 276410,
-  "2023-09-08": 276463,
-  "2023-09-09": 276536,
-  "2023-09-10": 276583,
-  "2023-09-11": 276636,
-  "2023-09-12": 276699,
-  "2023-09-13": 276779,
-  "2023-09-14": 276834,
-  "2023-09-15": 276890,
-  "2023-09-16": 276947,
-  "2023-09-17": 277024,
-  "2023-09-18": 277088,
-  "2023-09-19": 277140,
-  "2023-09-20": 277192,
-  "2023-09-21": 277250,
-  "2023-09-22": 277307,
-  "2023-09-23": 277385,
-  "2023-09-24": 277445,
-  "2023-09-25": 277500,
-  "2023-09-26": 277573,
-  "2023-09-27": 277618,
-  "2023-09-28": 277672,
-  "2023-09-29": 277725,
-  "2023-09-30": 277784,
-  "2023-10-01": 277831,
-  "2023-10-02": 277877,
-  "2023-10-03": 277927,
-  "2023-10-04": 277980,
-  "2023-10-05": 278031,
-  "2023-10-06": 278085,
-  "2023-10-07": 278138,
-  "2023-10-08": 278197,
-  "2023-10-09": 278256,
-  "2023-10-10": 278212,
-  "2023-10-11": 278215,
-  "2023-10-12": 278215,
-  "2023-10-13": 278209,
-  "2023-10-14": 278191,
-  "2023-10-15": 278231,
-  "2023-10-16": 278295,
-  "2023-10-17": 278347,
-  "2023-10-18": 278382,
-  "2023-10-19": 278418,
-  "2023-10-20": 278476,
-  "2023-10-21": 278543,
-  "2023-10-22": 278600,
-  "2023-10-23": 278651,
-  "2023-10-24": 278696,
-  "2023-10-25": 278742,
-  "2023-10-26": 278786,
-  "2023-10-27": 278826,
-  "2023-10-28": 278877,
-  "2023-10-29": 278932,
-  "2023-10-30": 279010,
-  "2023-10-31": 279010,
-  "2023-11-01": 279040,
-  "2023-11-02": 279086,
-  "2023-11-03": 279136,
-  "2023-11-04": 279180,
-  "2023-11-05": 279228,
-  "2023-11-06": 279282,
-  "2023-11-07": 279322,
-  "2023-11-08": 279365,
-  "2023-11-09": 279407,
-  "2023-11-10": 279455,
-  "2023-11-11": 279509,
-  "2023-11-12": 279563,
-  "2023-11-13": 279608,
-  "2023-11-14": 279646,
-  "2023-11-15": 279646,
-  "2023-11-16": 279726,
-  "2023-11-17": 279796,
-  "2023-11-18": 279796,
-  "2023-11-19": 279850,
-  "2023-11-20": 279899,
-  "2023-11-21": 279940,
-  "2023-11-22": 279982,
-  "2023-11-23": 280025,
-  "2023-11-24": 280065,
-  "2023-11-25": 280109,
-  "2023-11-26": 280165,
-  "2023-11-27": 280199,
-  "2023-11-28": 280246,
-  "2023-11-29": 280329,
-  "2023-11-30": 280329,
-  "2023-12-01": 280450,
-  "2023-12-02": 280549,
-  "2023-12-03": 280652,
-  "2023-12-04": 280736,
-  "2023-12-05": 280791,
-  "2023-12-06": 280836,
-  "2023-12-07": 280891,
-  "2023-12-08": 280928,
-  "2023-12-09": 280980,
-  "2023-12-10": 281074,
-  "2023-12-11": 281134,
-  "2023-12-12": 281175,
-  "2023-12-13": 281219,
-  "2023-12-14": 281271,
-  "2023-12-15": 281316,
-  "2023-12-16": 281360,
-  "2023-12-17": 281390,
-  "2023-12-18": 281419,
-  "2023-12-19": 281429,
-  "2023-12-20": 281456,
-  "2023-12-21": 281499,
-  "2023-12-22": 281524,
-  "2023-12-23": 281574,
-  "2023-12-24": 281604,
-  "2023-12-25": 281653,
-  "2023-12-26": 281693,
-  "2023-12-27": 281740,
-  "2023-12-30": 281842,
-  "2023-12-31": 281880,
-  "2024-01-01": 281936,
-  "2024-01-02": 281967,
-  "2024-01-03": 281990
+  "2024-01-17": 282013,
+  "date_first_scraped": "2021-12-21",
+  "description": "Songs from the old country: the essential traditional Irish ballads.",
+  "name": "Irish Folk - Ballads",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301213,
+      "name": "A Pair of Brown Eyes",
+      "url": "https://open.spotify.com/track/32soEc9h0wDy1BEjV5egeh"
+    },
+    {
+      "album": {
+        "name": "The Best Of Mary Black Volume 2",
+        "url": "https://open.spotify.com/album/7Bm2WiKtfjcD9qumuZmwrC"
+      },
+      "artists": [
+        {
+          "name": "Mary Black",
+          "url": "https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 247160,
+      "name": "Ae Fond Kiss",
+      "url": "https://open.spotify.com/track/0ZLiaBeYAa8kbQNKUXlg8C"
+    },
+    {
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Tones",
+          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140693,
+      "name": "An D\u00f2rd Fienne (\u00d2r\u00f2 S\u00e8 Do Bheatha Abhaile)",
+      "url": "https://open.spotify.com/track/3NhWg4dF7igTohuYOgr3AB"
+    },
+    {
+      "album": {
+        "name": "James Connolly - The Irish Rebel",
+        "url": "https://open.spotify.com/album/0y3rEtlF9sLwtzVfjUebxM"
+      },
+      "artists": [
+        {
+          "name": "Eugene McEldowney",
+          "url": "https://open.spotify.com/artist/0PUpXAEPVuX0CShc4oGdwG"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "Arbour Hill",
+      "url": "https://open.spotify.com/track/3dZpG1lCzOollQ3qrylOS0"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3gTdmsL8kxatC6KYkFCOpE"
+      },
+      "artists": [
+        {
+          "name": "Paddy Reilly",
+          "url": "https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226626,
+      "name": "Black Velvet Band",
+      "url": "https://open.spotify.com/track/1E2C8AILQ4dJydKYM9cFSz"
+    },
+    {
+      "album": {
+        "name": "Paddy Reilly Now",
+        "url": "https://open.spotify.com/album/363k1Ot58qIRyLcKFFwa7E"
+      },
+      "artists": [
+        {
+          "name": "Paddy Reilly",
+          "url": "https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227293,
+      "name": "Black Velvet Band",
+      "url": "https://open.spotify.com/track/3q8BOrmMePwxbyswncqYCl"
+    },
+    {
+      "album": {
+        "name": "Brendan Bowyer's Ireland",
+        "url": "https://open.spotify.com/album/6GRzetvyCVfVLek5WANDRA"
+      },
+      "artists": [
+        {
+          "name": "Brendan Bowyer",
+          "url": "https://open.spotify.com/artist/6CynFO9vn6MsOOdLptSPwg"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222746,
+      "name": "Boolavogue",
+      "url": "https://open.spotify.com/track/6dXBgGcBKxOeNQFWmBDTo2"
+    },
+    {
+      "album": {
+        "name": "Traditional Irish Gaelic Children's Songs",
+        "url": "https://open.spotify.com/album/0pss1phhhe7ykfusGB0ck1"
+      },
+      "artists": [
+        {
+          "name": "Caera",
+          "url": "https://open.spotify.com/artist/2OzigumcbZNfTxnT1aacDw"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112026,
+      "name": "B\u00e1id\u00edn Fheilim\u00ed",
+      "url": "https://open.spotify.com/track/5fGkh5uh6XDRptv3WEF9A4"
+    },
+    {
+      "album": {
+        "name": "The Celtic Circle Collection",
+        "url": "https://open.spotify.com/album/1waiycUuGnGAfxZOTVmlnD"
+      },
+      "artists": [
+        {
+          "name": "Brian Kennedy",
+          "url": "https://open.spotify.com/artist/4xZbU7XXrgG0U2e3MIEXmS"
+        },
+        {
+          "name": "Heff Moraes",
+          "url": "https://open.spotify.com/artist/6HrqkCpPwHjWrg0YicMnzw"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298693,
+      "name": "Carrickfergus",
+      "url": "https://open.spotify.com/track/6JYdy6K3webBiLuR6kO5pT"
+    },
+    {
+      "album": {
+        "name": "The RCA Years",
+        "url": "https://open.spotify.com/album/2JZpC1Ub7u42a9XjuEITBB"
+      },
+      "artists": [
+        {
+          "name": "Brian Kennedy",
+          "url": "https://open.spotify.com/artist/4xZbU7XXrgG0U2e3MIEXmS"
+        },
+        {
+          "name": "Heff Moraes",
+          "url": "https://open.spotify.com/artist/6HrqkCpPwHjWrg0YicMnzw"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Carrickfergus",
+      "url": "https://open.spotify.com/track/6MeMNOhXJzPGJZIwya9Mdk"
+    },
+    {
+      "album": {
+        "name": "Three Chord Trick",
+        "url": "https://open.spotify.com/album/3mjzDTUEi3sABdt3Wb4udC"
+      },
+      "artists": [
+        {
+          "name": "Bert Jansch",
+          "url": "https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "Curragh Of Kildare",
+      "url": "https://open.spotify.com/track/3aA4NSYdryZqiGp3tV9MCB"
+    },
+    {
+      "album": {
+        "name": "Memories of Ireland",
+        "url": "https://open.spotify.com/album/570ebwhbkrU1bGIpG1zpGN"
+      },
+      "artists": [
+        {
+          "name": "Frank Patterson",
+          "url": "https://open.spotify.com/artist/3UZc24DOYrUhFnDPNw1L8A"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275626,
+      "name": "Danny Boy",
+      "url": "https://open.spotify.com/track/5f2ml25PS6hLYtADGsiTVk"
+    },
+    {
+      "album": {
+        "name": "Ireland's Golden Tenor - A Celebration",
+        "url": "https://open.spotify.com/album/1gOWpNBuPqI2VILLOT272d"
+      },
+      "artists": [
+        {
+          "name": "Frank Patterson",
+          "url": "https://open.spotify.com/artist/3UZc24DOYrUhFnDPNw1L8A"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278146,
+      "name": "Danny Boy",
+      "url": "https://open.spotify.com/track/2LMeRecVW5d3a1vxZV5jJR"
+    },
+    {
+      "album": {
+        "name": "Down By The Liffeyside: Irish Street Balads",
+        "url": "https://open.spotify.com/album/245YuwE5DWF9LbbDiG4rqx"
+      },
+      "artists": [
+        {
+          "name": "Dominic Behan",
+          "url": "https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 65946,
+      "name": "Dicey Riley",
+      "url": "https://open.spotify.com/track/2jK40Z0sAfpgev1oZw0tO5"
+    },
+    {
+      "album": {
+        "name": "Down By The Liffeyside: Irish Street Balads",
+        "url": "https://open.spotify.com/album/3tF4rec7ebkfNRjvW1nVV8"
+      },
+      "artists": [
+        {
+          "name": "Dominic Behan",
+          "url": "https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 65946,
+      "name": "Dicey Riley",
+      "url": "https://open.spotify.com/track/5386OSJOhXc7fglba9AUnJ"
+    },
+    {
+      "album": {
+        "name": "Down By The Liffeyside: Irish Street Balads",
+        "url": "https://open.spotify.com/album/0khzZCeOFVjhm4AMry75Jw"
+      },
+      "artists": [
+        {
+          "name": "Dominic Behan",
+          "url": "https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65946,
+      "name": "Dicey Riley",
+      "url": "https://open.spotify.com/track/5VWOa1qWDVjt2ElhIIJImR"
+    },
+    {
+      "album": {
+        "name": "Transatlantic Sessions - Series 2, Vol. Three",
+        "url": "https://open.spotify.com/album/2zviYEJfMBDVtoh9mz5SNq"
+      },
+      "artists": [
+        {
+          "name": "Maura O'Connell",
+          "url": "https://open.spotify.com/artist/2WkDGNlrAN48YIOi18jpEE"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "Down by the Sally Gardens",
+      "url": "https://open.spotify.com/track/60OEb5MtEmmepJPUJtYvFW"
+    },
+    {
+      "album": {
+        "name": "The Best Ever Collection Of Irish Pub Songs - Volume 1",
+        "url": "https://open.spotify.com/album/03EhSxO0WLA1axY6Nwb1H6"
+      },
+      "artists": [
+        {
+          "name": "Luke Kelly",
+          "url": "https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299133,
+      "name": "Dublin In The Rare Auld Times",
+      "url": "https://open.spotify.com/track/6WWLO6aWNAMdtOI6iOL86D"
+    },
+    {
+      "album": {
+        "name": "The Bee-Loud Glade",
+        "url": "https://open.spotify.com/album/7knf7ebylad5fMw2ofsWno"
+      },
+      "artists": [
+        {
+          "name": "Kate Burke & Ruth Hazleton",
+          "url": "https://open.spotify.com/artist/1TSPyEkn57ocOLWJ2zGk1M"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341346,
+      "name": "Erin-Go-Bragh / Rakish Paddy",
+      "url": "https://open.spotify.com/track/7JoxTFpjZjTbkO0UZV5GkO"
+    },
+    {
+      "album": {
+        "name": "Green Shamrock Shore",
+        "url": "https://open.spotify.com/album/64pdUYL9Swggj6FJrtbMUC"
+      },
+      "artists": [
+        {
+          "name": "Paddy Reilly",
+          "url": "https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223933,
+      "name": "Galtee Mountain Boy",
+      "url": "https://open.spotify.com/track/3jhxehAkgiGnd1ykiUiI4k"
+    },
+    {
+      "album": {
+        "name": "Ireland's Greatest Love Songs",
+        "url": "https://open.spotify.com/album/1ugKkTnNyJk1xMCKLortYM"
+      },
+      "artists": [
+        {
+          "name": "Jim McCann",
+          "url": "https://open.spotify.com/artist/2JubMFXFD0c3Ofhx6SdSOy"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281213,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/27Eoj5oSbu4rXUGU11PctX"
+    },
+    {
+      "album": {
+        "name": "Gospel Oak",
+        "url": "https://open.spotify.com/album/0qM33tay4N0Tp0Tf9PVFOH"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262933,
+      "name": "He Moved Through The Fair",
+      "url": "https://open.spotify.com/track/0DZEmAYrvWIoYZvoL4wsmN"
+    },
+    {
+      "album": {
+        "name": "Gospel Oak",
+        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262933,
+      "name": "He Moved Through the Fair",
+      "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
+    },
+    {
+      "album": {
+        "name": "M\u00e9av",
+        "url": "https://open.spotify.com/album/3W5BZfrxfWBa6J3IFEr7dS"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9av",
+          "url": "https://open.spotify.com/artist/0nBRo87bTZegzYDnIiWkH7"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232611,
+      "name": "I Dreamt I Dwelt in Marble Halls",
+      "url": "https://open.spotify.com/track/0FZxhprYVBPuzskKdBv6tG"
+    },
+    {
+      "album": {
+        "name": "No Force On Earth",
+        "url": "https://open.spotify.com/album/5NTLr7uctFVYnAIiPqVkfN"
+      },
+      "artists": [
+        {
+          "name": "Damien Dempsey",
+          "url": "https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306906,
+      "name": "James Connolly",
+      "url": "https://open.spotify.com/track/1hoXIRlsnmnW6DP64mJmBM"
+    },
+    {
+      "album": {
+        "name": "1916 Easter Rising Centenary Commemoration Collection",
+        "url": "https://open.spotify.com/album/6vfEfM1CkPxoNdwbaACkz4"
+      },
+      "artists": [
+        {
+          "name": "The Dublin City Ramblers",
+          "url": "https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252893,
+      "name": "Kevin Barry",
+      "url": "https://open.spotify.com/track/2tEiGjz3R89PW3SVvlCizr"
+    },
+    {
+      "album": {
+        "name": "Across the Broad Atlantic",
+        "url": "https://open.spotify.com/album/7GtuzkB394nAhWKAaMMxlo"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Tones",
+          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 145266,
+      "name": "Many Young Men of Twenty",
+      "url": "https://open.spotify.com/track/3soCbx22sTHCC8WkxPKcIE"
+    },
+    {
+      "album": {
+        "name": "Across The Broad Atlantic",
+        "url": "https://open.spotify.com/album/2zRV4121PCZ38zj2LwBImp"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Tones",
+          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145266,
+      "name": "Many Young Men Of Twenty",
+      "url": "https://open.spotify.com/track/4IinR6MPypoA1dggC79MzD"
+    },
+    {
+      "album": {
+        "name": "Across The Broad Atlantic",
+        "url": "https://open.spotify.com/album/6izN8jhhScP4GsPTJnvMIu"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Tones",
+          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145266,
+      "name": "Many Young Men Of Twenty",
+      "url": "https://open.spotify.com/track/57SKqppuloHRo83zt762vC"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/72w5kKwWOO5b065Flb8hv2"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234200,
+      "name": "Marble Halls",
+      "url": "https://open.spotify.com/track/4dsgd2vYv7xCPbkRIxoFhC"
+    },
+    {
+      "album": {
+        "name": "Shepherd Moons",
+        "url": "https://open.spotify.com/album/3SkCmzvX7X6li6Ox0fzyaa"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234626,
+      "name": "Marble Halls",
+      "url": "https://open.spotify.com/track/1bWHNlvBDJYJDjviGeDT7G"
+    },
+    {
+      "album": {
+        "name": "Shepherd Moons",
+        "url": "https://open.spotify.com/album/6ZuPbMe6CvQKl1nvAy0nZm"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234986,
+      "name": "Marble Halls - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3smqY3VDKQ4HLfvdFMCEuG"
+    },
+    {
+      "album": {
+        "name": "1916 Easter Rising (Commemorative Collection)",
+        "url": "https://open.spotify.com/album/58MT6pI2o0dAiAkTUyo0a6"
+      },
+      "artists": [
+        {
+          "name": "Johnny McEvoy",
+          "url": "https://open.spotify.com/artist/0wK5QhuLtbY2K4Rmm2FHE9"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334320,
+      "name": "Michael - The Ballad of Michael Collins",
+      "url": "https://open.spotify.com/track/6jCvLKDAdLJ6aT8PdWfbAV"
+    },
+    {
+      "album": {
+        "name": "Joe Lynch",
+        "url": "https://open.spotify.com/album/3byIo5Xb9ZaM8d7KPtOPgN"
+      },
+      "artists": [
+        {
+          "name": "Joe Lynch",
+          "url": "https://open.spotify.com/artist/3BWwtO1ioC4fSSsgjGhrAF"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168226,
+      "name": "On the Banks of My Own Lovely Lee",
+      "url": "https://open.spotify.com/track/4V81FFqdzb0xjbYziAn8yU"
+    },
+    {
+      "album": {
+        "name": "A Nation Once Again, Vol. 2 (A Collection of Irish Rebel Songs)",
+        "url": "https://open.spotify.com/album/7qCYFHaIAWifLzROi9Qncw"
+      },
+      "artists": [
+        {
+          "name": "Paddy Reilly",
+          "url": "https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Only Our Rivers Run Free",
+      "url": "https://open.spotify.com/track/2VKMmxvbCFDlyFuZqGBJxk"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/4HLAl7nA1j0FHMnuF9o4tW"
+      },
+      "artists": [
+        {
+          "name": "Luke Kelly",
+          "url": "https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257293,
+      "name": "Raglan Road",
+      "url": "https://open.spotify.com/track/66ia10eVRRx10XASRakso0"
+    },
+    {
+      "album": {
+        "name": "Ride On",
+        "url": "https://open.spotify.com/album/5Zah4fLbDN48as0KGmywh1"
+      },
+      "artists": [
+        {
+          "name": "Christy Moore",
+          "url": "https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/4v7zlBmIQU4lszrokRt8yP"
+    },
+    {
+      "album": {
+        "name": "The Best of Luke Kelly",
+        "url": "https://open.spotify.com/album/5NCrmdBxbvrlERv2VcYQks"
+      },
+      "artists": [
+        {
+          "name": "Luke Kelly",
+          "url": "https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "Scorn Not His Simplicity",
+      "url": "https://open.spotify.com/track/1edRAAeWBUknvXMj9FlvIu"
+    },
+    {
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2Q7wLG5eFud4DDSwSP36R5"
+      },
+      "artists": [
+        {
+          "name": "Mary Black",
+          "url": "https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Dolores Keane",
+          "url": "https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251093,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/7LupDPRLSzv59dBkkuxMCO"
+    },
+    {
+      "album": {
+        "name": "Twenty Five Years-Twenty Five Songs",
+        "url": "https://open.spotify.com/album/6w06lhQcIlyfGKEzQGF8FQ"
+      },
+      "artists": [
+        {
+          "name": "Mary Black",
+          "url": "https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA"
+        },
+        {
+          "name": "Emmylou Harris & Dolores Keane",
+          "url": "https://open.spotify.com/artist/2F5xYKmrB2BNGKTNbdY4lv"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249840,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/6xO1Egci5AmEX0nqrz7JGh"
+    },
+    {
+      "album": {
+        "name": "The Dubliners",
+        "url": "https://open.spotify.com/album/2JaU7begujrJQaORvAnVwD"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244840,
+      "name": "Spancil Hill",
+      "url": "https://open.spotify.com/track/23gju7aYMKGkVu5SNWExPs"
+    },
+    {
+      "album": {
+        "name": "The Colour of Freedom",
+        "url": "https://open.spotify.com/album/1jIZUFd7xC5k9xE8xAngYk"
+      },
+      "artists": [
+        {
+          "name": "The Kilkennys",
+          "url": "https://open.spotify.com/artist/13BdFViz8xaH8K47sWS6ge"
+        },
+        {
+          "name": "Gerry Moloney Accordian",
+          "url": "https://open.spotify.com/artist/3rsnPCoSoPQzH4CFODgELX"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Spanish Lady",
+      "url": "https://open.spotify.com/track/4Y5TDPW5UdcVHyGumdtRK5"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed 4: Black Flag (Sea Shanty Edition, Vol. 2) [Original Game Soundtrack]",
+        "url": "https://open.spotify.com/album/3xIHHyUh7RTAzLzXUzksBB"
+      },
+      "artists": [
+        {
+          "name": "Sean Dagher",
+          "url": "https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw"
+        },
+        {
+          "name": "Richard Irwin",
+          "url": "https://open.spotify.com/artist/6ZIDb0NiwfcqCTaOzHyTC8"
+        },
+        {
+          "name": "Nelson Carter",
+          "url": "https://open.spotify.com/artist/1HVyjDVd3Wq8B79G6P1g55"
+        },
+        {
+          "name": "Nils Brown",
+          "url": "https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu"
+        },
+        {
+          "name": "Michiel Shrey",
+          "url": "https://open.spotify.com/artist/1u2t9oc7xmpmuq6TNTwc9p"
+        },
+        {
+          "name": "David Gossage",
+          "url": "https://open.spotify.com/artist/4Goe26LiMjH9z6XLUaxQfM"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116160,
+      "name": "Star of the County Down",
+      "url": "https://open.spotify.com/track/1VvrPTVRMUa1aJF2xN6VgK"
+    },
+    {
+      "album": {
+        "name": "Spiral Staircase (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY"
+      },
+      "artists": [
+        {
+          "name": "Ralph McTell",
+          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 248586,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9"
+    },
+    {
+      "album": {
+        "name": "Spiral Staircase (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1KNG7O89f5oHbvvI3eOMPv"
+      },
+      "artists": [
+        {
+          "name": "Ralph McTell",
+          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248586,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/2zwH1NlxBEpzVlvzXNHQso"
+    },
+    {
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "Streets of Sorrow / Birmingham Six",
+      "url": "https://open.spotify.com/track/76yII1oubGA0n0Dz6jGfZk"
+    },
+    {
+      "album": {
+        "name": "St. Patrick's Day Collection (Irish Favourites)",
+        "url": "https://open.spotify.com/album/34rqD4ZpBk09oYnT6d1vyk"
+      },
+      "artists": [
+        {
+          "name": "Joe Lynch",
+          "url": "https://open.spotify.com/artist/3BWwtO1ioC4fSSsgjGhrAF"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167226,
+      "name": "The Banks of My Own Lovely Lee",
+      "url": "https://open.spotify.com/track/67Q1ofimvF2OFttbtoXdhD"
+    },
+    {
+      "album": {
+        "name": "Joe Lynch",
+        "url": "https://open.spotify.com/album/3yg2BbVmg026qkxtJm6gKh"
+      },
+      "artists": [
+        {
+          "name": "Joe Lynch",
+          "url": "https://open.spotify.com/artist/3BWwtO1ioC4fSSsgjGhrAF"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167226,
+      "name": "The Banks of My Own Lovely Lee",
+      "url": "https://open.spotify.com/track/7akq65cZi4VVRunPO2oocJ"
+    },
+    {
+      "album": {
+        "name": "Pura M\u00fasica Irlandesa - Folk",
+        "url": "https://open.spotify.com/album/5ovd8i6qSWxckukOwrmu9o"
+      },
+      "artists": [
+        {
+          "name": "Paddy Reilly",
+          "url": "https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223746,
+      "name": "The Black Velvet Band",
+      "url": "https://open.spotify.com/track/6uCtKXUGSczndUPxCp2SJa"
+    },
+    {
+      "album": {
+        "name": "The Fields of Athenry",
+        "url": "https://open.spotify.com/album/0h9f2ogbeIFvI4UPUnBlAF"
+      },
+      "artists": [
+        {
+          "name": "Paddy Reilly",
+          "url": "https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279333,
+      "name": "The Fields of Athenry",
+      "url": "https://open.spotify.com/track/7nKnM51I2qAD7BY9h8AMNu"
+    },
+    {
+      "album": {
+        "name": "The Fields Of Athenry",
+        "url": "https://open.spotify.com/album/2xHoni5Sdk23qiQniBWUQu"
+      },
+      "artists": [
+        {
+          "name": "Paddy Reilly",
+          "url": "https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280333,
+      "name": "The Fields Of Athenry",
+      "url": "https://open.spotify.com/track/3BPcgBQKNJnwLjcwXNPyx0"
+    },
+    {
+      "album": {
+        "name": "Irish Roots - Our Musical Legacy",
+        "url": "https://open.spotify.com/album/0bGK4RUAl05I7zXwMWOawy"
+      },
+      "artists": [
+        {
+          "name": "Paddy Reilly",
+          "url": "https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 283817,
+      "name": "The Fields of Athenry",
+      "url": "https://open.spotify.com/track/1jD2vBUt4RfZkULf2v1MWz"
+    },
+    {
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Tones",
+          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207293,
+      "name": "The Foggy Dew",
+      "url": "https://open.spotify.com/track/52bGJTusAslWsvpPguiFn6"
+    },
+    {
+      "album": {
+        "name": "The Fields Of Athenry",
+        "url": "https://open.spotify.com/album/2xHoni5Sdk23qiQniBWUQu"
+      },
+      "artists": [
+        {
+          "name": "Paddy Reilly",
+          "url": "https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224933,
+      "name": "The Galtee Mountain Boy",
+      "url": "https://open.spotify.com/track/4Y8wLkEqxpaBuWcISJZvJP"
+    },
+    {
+      "album": {
+        "name": "Pure Irish Pub Songs",
+        "url": "https://open.spotify.com/album/7lYYpatEqemfpuOajr9w3a"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Drew",
+          "url": "https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178706,
+      "name": "The Irish Rover",
+      "url": "https://open.spotify.com/track/2K7lZQojcmdcrl7rkvY3mL"
+    },
+    {
+      "album": {
+        "name": "Pure Irish Folk",
+        "url": "https://open.spotify.com/album/2tpUS0uPbCupZUZ8DyVQYY"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        },
+        {
+          "name": "Luke Kelly",
+          "url": "https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "The Jail of Cluain Meala",
+      "url": "https://open.spotify.com/track/18JyT0FmW3uJqQspISVbC4"
+    },
+    {
+      "album": {
+        "name": "Songs of the Irish Republic",
+        "url": "https://open.spotify.com/album/2139TNKGU2QxntFcxnt6SV"
+      },
+      "artists": [
+        {
+          "name": "Fee McGorman",
+          "url": "https://open.spotify.com/artist/0jeiwWSPCfU7UgVPzzwu90"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130813,
+      "name": "The Man from the Daily Mail",
+      "url": "https://open.spotify.com/track/19VwDKPmW2AMF0kZMvGYhz"
+    },
+    {
+      "album": {
+        "name": "Decade. The Songs, The Show, The Traditions, The Classics.",
+        "url": "https://open.spotify.com/album/2SsSLomiMLQDeVfSTXGUi9"
+      },
+      "artists": [
+        {
+          "name": "Celtic Woman",
+          "url": "https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256786,
+      "name": "The Parting Glass",
+      "url": "https://open.spotify.com/track/4GrSOtphVKCSE8NIvFjfbw"
+    },
+    {
+      "album": {
+        "name": "The Essential Fureys",
+        "url": "https://open.spotify.com/album/0gNDC9wgwaHZwT62llFeVa"
+      },
+      "artists": [
+        {
+          "name": "The Fureys",
+          "url": "https://open.spotify.com/artist/1WHVWwMFnjB3oRcjr7nVPP"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243133,
+      "name": "The Red Rose Cafe",
+      "url": "https://open.spotify.com/track/5tTtnr3lyvNIfvW3Wdunzq"
+    },
+    {
+      "album": {
+        "name": "Twenty Fifth Anniversary Collection",
+        "url": "https://open.spotify.com/album/7Aub6ay5NmxNxeHudMmcJ9"
+      },
+      "artists": [
+        {
+          "name": "The Fureys & Davey Arthur",
+          "url": "https://open.spotify.com/artist/2hzTqBd559jr5y71uz0WT1"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243253,
+      "name": "The Red Rose Cafe",
+      "url": "https://open.spotify.com/track/6SVM7vazjVQNSeFxpOvmt4"
+    },
+    {
+      "album": {
+        "name": "The Furey' Finest",
+        "url": "https://open.spotify.com/album/4TP38lDlIqm2A45zK5CiwQ"
+      },
+      "artists": [
+        {
+          "name": "The Fureys",
+          "url": "https://open.spotify.com/artist/1WHVWwMFnjB3oRcjr7nVPP"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242600,
+      "name": "The Red Rose Caf\u00e9",
+      "url": "https://open.spotify.com/track/584JvH95ZgfpiPQUln9HOu"
+    },
+    {
+      "album": {
+        "name": "Live From Ellis Island",
+        "url": "https://open.spotify.com/album/0O1J3RzGqLJkbalVzmYh1c"
+      },
+      "artists": [
+        {
+          "name": "The Irish Tenors",
+          "url": "https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288706,
+      "name": "The Rose Of Tralee",
+      "url": "https://open.spotify.com/track/4VwvxjCGSe36k8LjBmB5or"
+    },
+    {
+      "album": {
+        "name": "Live From Ellis Island",
+        "url": "https://open.spotify.com/album/01QoNZxOPi1pN0tUoZRIqW"
+      },
+      "artists": [
+        {
+          "name": "The Irish Tenors",
+          "url": "https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288706,
+      "name": "The Rose Of Tralee",
+      "url": "https://open.spotify.com/track/4oGBYcMWsGm9vZHJhjTLIU"
+    },
+    {
+      "album": {
+        "name": "Live From Ellis Island",
+        "url": "https://open.spotify.com/album/67UDn5SBqvaofJRqzJaIcJ"
+      },
+      "artists": [
+        {
+          "name": "The Irish Tenors",
+          "url": "https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 288706,
+      "name": "The Rose Of Tralee",
+      "url": "https://open.spotify.com/track/5iPqNP3HIuyyOQmUkO1vYs"
+    },
+    {
+      "album": {
+        "name": "The Parting Glass (The Very Best of Liam Clancy)",
+        "url": "https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn"
+      },
+      "artists": [
+        {
+          "name": "Liam Clancy",
+          "url": "https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241466,
+      "name": "The Streets of London",
+      "url": "https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo"
+    },
+    {
+      "album": {
+        "name": "The Time Has Come",
+        "url": "https://open.spotify.com/album/2FYYQ2GMMzRtR6hGuxTjFb"
+      },
+      "artists": [
+        {
+          "name": "Christy Moore",
+          "url": "https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "The Time Has Come",
+      "url": "https://open.spotify.com/track/11EhHpCJA9ztjUG13pVXjb"
+    },
+    {
+      "album": {
+        "name": "1916 Easter Rising (Commemorative Collection)",
+        "url": "https://open.spotify.com/album/58MT6pI2o0dAiAkTUyo0a6"
+      },
+      "artists": [
+        {
+          "name": "Johnny McEvoy",
+          "url": "https://open.spotify.com/artist/0wK5QhuLtbY2K4Rmm2FHE9"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207354,
+      "name": "The West's Awake",
+      "url": "https://open.spotify.com/track/28JJX47fHJppvYapuoHeRr"
+    },
+    {
+      "album": {
+        "name": "The Dubliners (Live;Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/18YkQtYXD4lybEsKDAPcR5"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "The Wild Rover (Live)",
+      "url": "https://open.spotify.com/track/5FOjVfggAcbto0JP3YR778"
+    },
+    {
+      "album": {
+        "name": "The Transatlantic Anthology (Live)",
+        "url": "https://open.spotify.com/album/4MaAakVsMaOMtniv2gJLgt"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 190466,
+      "name": "The Wild Rover - Live",
+      "url": "https://open.spotify.com/track/4CzPn2Wa5UOrCm6Yo3ClQt"
+    },
+    {
+      "album": {
+        "name": "The Dubliners At Their Best",
+        "url": "https://open.spotify.com/album/74l3GG47CU8mZwlMd7hbvO"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191466,
+      "name": "The Wild Rover - Live",
+      "url": "https://open.spotify.com/track/2YZxkxncqwdtAZWL1fi3zm"
+    },
+    {
+      "album": {
+        "name": "The Dubliners (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/14CsJA81k3sxsf3cCRztV5"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 193493,
+      "name": "The Wild Rover - Live",
+      "url": "https://open.spotify.com/track/20TTcvoIoyFKZJTT730ZVw"
+    },
+    {
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326839,
+      "name": "Thousands Are Sailing",
+      "url": "https://open.spotify.com/track/0OVhZl9SaOLjLvYE6hcLGc"
+    },
+    {
+      "album": {
+        "name": "True Born Irishman",
+        "url": "https://open.spotify.com/album/0M9fvpGHLr5Of2faZKmAJL"
+      },
+      "artists": [
+        {
+          "name": "Daoir\u00ed Farrell",
+          "url": "https://open.spotify.com/artist/3KBy2gO90CavieWCNjUxl8"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276786,
+      "name": "Valley of Knockanure",
+      "url": "https://open.spotify.com/track/1IUN6Bbkhc52DjZb96CfLp"
+    },
+    {
+      "album": {
+        "name": "True Born Irishman",
+        "url": "https://open.spotify.com/album/3MnNpFgo9Eg3wAJ1t59kHz"
+      },
+      "artists": [
+        {
+          "name": "Daoir\u00ed Farrell",
+          "url": "https://open.spotify.com/artist/3KBy2gO90CavieWCNjUxl8"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276786,
+      "name": "Valley Of Knockanure",
+      "url": "https://open.spotify.com/track/3krdH9jehlR1Vs678M94rK"
+    },
+    {
+      "album": {
+        "name": "Definitive Pub Songs Collection",
+        "url": "https://open.spotify.com/album/0LUkfcP3XT922V0uhE3SDQ"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        },
+        {
+          "name": "Ronnie Drew",
+          "url": "https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Weile Waila",
+      "url": "https://open.spotify.com/track/5ECXINnJLnuZPBR87EULUh"
+    },
+    {
+      "album": {
+        "name": "The Craic and the Porter Black (The Best of Irish Pub Songs)",
+        "url": "https://open.spotify.com/album/45LwCby0Z9mCgPgtB83m2N"
+      },
+      "artists": [
+        {
+          "name": "The Dublin City Ramblers",
+          "url": "https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Whiskey in the Jar",
+      "url": "https://open.spotify.com/track/0mWhyezAZ65Irfi71I8cUM"
+    },
+    {
+      "album": {
+        "name": "The Dubliners (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/6oIUWQrlAgGdKt0p0GXFiI"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193493,
+      "name": "Wild Rover - Live",
+      "url": "https://open.spotify.com/track/5PugzaQYxzwSvHeTyGFpOW"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/0wNj9JjAC9o2gMFXpGG5P0"
+      },
+      "artists": [
+        {
+          "name": "Jim McCann",
+          "url": "https://open.spotify.com/artist/2JubMFXFD0c3Ofhx6SdSOy"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Will Ye Go Lassie Go",
+      "url": "https://open.spotify.com/track/1iLDWUzgrDOm9h6fRCEKvI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2ULa1Ss8vbo"
 }

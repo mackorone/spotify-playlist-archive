@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,857 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,654 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

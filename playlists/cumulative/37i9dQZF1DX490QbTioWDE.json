@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "ESTE ES EL BAILE",
+        "url": "https://open.spotify.com/album/7jRbLidL1XL8Sjt1UADvRa"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229546,
+      "name": "ESTE ES EL BAILE",
+      "url": "https://open.spotify.com/track/2HoCyCC0wGosiTjKzfoTqY"
+    },
+    {
+      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -2360,6 +2378,28 @@
       "duration_ms": 204800,
       "name": "Hola Bebe",
       "url": "https://open.spotify.com/track/3ty9mgcIIvgQ0j9qCmtUKy"
+    },
+    {
+      "album": {
+        "name": "HOLA PERDIDA",
+        "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
     },
     {
       "album": {
@@ -2810,7 +2850,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 245053,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
@@ -4930,7 +4970,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 236890,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
@@ -6214,7 +6254,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 213333,
       "name": "Te Mentir\u00eda (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/7o3AnZAepnOd46KYzgpAMf"
@@ -6286,7 +6326,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 210266,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"

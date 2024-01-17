@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > Where you at? We outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,161 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,383 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 34 | [Nairobi](https://open.spotify.com/track/1D4Pjb9OYgGxPIKgusObu1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos II](https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M) | 2:41 |
 | 35 | [Durban](https://open.spotify.com/track/65DMtntgb3Ptc4Ag828z8J) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Home](https://open.spotify.com/album/7HSs5XfwIMll6DsjdyO1WR) | 4:07 |
 | 36 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 |
-| 37 | [Congo](https://open.spotify.com/track/5hdc76uABRjaZ7rZrE8mTb) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:44 |
+| 37 | [Congo](https://open.spotify.com/track/50ZTcX3axxFDTd0UIOhPDy) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/1LxfAAwpMpXYzCOlDQAUEZ) | 3:44 |
 | 38 | [Ugandan Girl](https://open.spotify.com/track/1F2GvDPgcGDSY2vpMU2aHt) | [Peter Rhymer](https://open.spotify.com/artist/45RRDt2C7hWV0c4MqemmBq), [Laxzy Mover](https://open.spotify.com/artist/1LQDdqSrOOVblPnopOL8zI) | [Ugandan Girl](https://open.spotify.com/album/3MemuIRsWm2NnO7LSDSmGh) | 3:45 |
 | 39 | [Kampala](https://open.spotify.com/track/4Gmr4iYGDdovOucPLEO3o2) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/4WxLFmBpRfwn2Xa38W6Juj) | 4:40 |
 | 40 | [Lagos](https://open.spotify.com/track/5u9wdFL8Gb6RWMtCGUa9Xw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lagos](https://open.spotify.com/album/2ZB7h9Nu1OYI0CMStgljYs) | 3:44 |

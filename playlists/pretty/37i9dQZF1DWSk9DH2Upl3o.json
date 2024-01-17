@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 27368,
+  "num_followers": 27925,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjVjMjU1ZTMxYzFkNmI4MWYwZjgxN2MxYmMxNDY5NDVhN2M2ZmNl",
+  "snapshot_id": "MCxjMzM1MTFlMmVkYmVkYWE4ZDkxMTQ0MWEzNGY4MTQ5NjBmYWU0Y2Nl",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Baked Shrimp",
+        "url": "https://open.spotify.com/album/54drhsF5JtrFOcaxlCshsa"
+      },
+      "artists": [
+        {
+          "name": "Baked Shrimp",
+          "url": "https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1"
+        }
+      ],
+      "duration_ms": 226018,
+      "name": "Can't Cut the Mustard",
+      "url": "https://open.spotify.com/track/7BUnS98zgtwP45KSpT3C61"
+    },
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
@@ -367,22 +383,6 @@
       "duration_ms": 338026,
       "name": "Warming Up",
       "url": "https://open.spotify.com/track/5atSKRkn8KIc6juTtZuRja"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Chop Suey",
-        "url": "https://open.spotify.com/album/7LZCNMm7U6K6NqX3P4ypQm"
-      },
-      "artists": [
-        {
-          "name": "Baked Shrimp",
-          "url": "https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1"
-        }
-      ],
-      "duration_ms": 399000,
-      "name": "Chop Suey",
-      "url": "https://open.spotify.com/track/52D0hGXHrME17EQhCtYPn6"
     },
     {
       "added_at": "2023-06-16 04:00:00",

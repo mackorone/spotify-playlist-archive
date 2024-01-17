@@ -1,99 +1,449 @@
 {
-  "2023-09-27": 963,
-  "2023-09-28": 973,
-  "2023-09-29": 984,
-  "2023-09-30": 994,
-  "2023-10-01": 1006,
-  "2023-10-02": 1016,
-  "2023-10-03": 1028,
-  "2023-10-04": 1035,
-  "2023-10-05": 1045,
-  "2023-10-06": 1057,
-  "2023-10-07": 1075,
-  "2023-10-08": 1088,
-  "2023-10-09": 1099,
-  "2023-10-10": 1111,
-  "2023-10-11": 1128,
-  "2023-10-12": 1128,
-  "2023-10-13": 1137,
-  "2023-10-14": 1150,
-  "2023-10-15": 1154,
-  "2023-10-16": 1162,
-  "2023-10-17": 1169,
-  "2023-10-18": 1178,
-  "2023-10-19": 1187,
-  "2023-10-20": 1196,
-  "2023-10-21": 1202,
-  "2023-10-22": 1211,
-  "2023-10-23": 1218,
-  "2023-10-24": 1238,
-  "2023-10-25": 1248,
-  "2023-10-26": 1259,
-  "2023-10-27": 1269,
-  "2023-10-28": 1280,
-  "2023-10-29": 1290,
-  "2023-10-30": 1317,
-  "2023-10-31": 1317,
-  "2023-11-01": 1324,
-  "2023-11-02": 1333,
-  "2023-11-03": 1341,
-  "2023-11-04": 1350,
-  "2023-11-05": 1357,
-  "2023-11-06": 1371,
-  "2023-11-07": 1371,
-  "2023-11-08": 1371,
-  "2023-11-09": 1371,
-  "2023-11-10": 1371,
-  "2023-11-11": 1371,
-  "2023-11-12": 1371,
-  "2023-11-13": 1371,
-  "2023-11-14": 1371,
-  "2023-11-15": 1371,
-  "2023-11-16": 1371,
-  "2023-11-17": 1371,
-  "2023-11-18": 1371,
-  "2023-11-19": 1371,
-  "2023-11-20": 1371,
-  "2023-11-21": 1371,
-  "2023-11-22": 1371,
-  "2023-11-23": 1371,
-  "2023-11-24": 1371,
-  "2023-11-25": 1371,
-  "2023-11-26": 1371,
-  "2023-11-27": 1371,
-  "2023-11-28": 1371,
-  "2023-11-29": 1371,
-  "2023-11-30": 1371,
-  "2023-12-01": 1371,
-  "2023-12-02": 1371,
-  "2023-12-03": 1371,
-  "2023-12-04": 1371,
-  "2023-12-05": 1371,
-  "2023-12-06": 1371,
-  "2023-12-07": 1371,
-  "2023-12-08": 1371,
-  "2023-12-09": 1371,
-  "2023-12-10": 1371,
-  "2023-12-11": 1371,
-  "2023-12-12": 1371,
-  "2023-12-13": 1371,
-  "2023-12-14": 1371,
-  "2023-12-15": 1371,
-  "2023-12-16": 1371,
-  "2023-12-17": 1371,
-  "2023-12-18": 1371,
-  "2023-12-19": 1371,
-  "2023-12-20": 1371,
-  "2023-12-21": 1371,
-  "2023-12-22": 1371,
-  "2023-12-23": 1371,
-  "2023-12-24": 1371,
-  "2023-12-25": 1371,
-  "2023-12-26": 1371,
-  "2023-12-27": 1371,
-  "2023-12-30": 1371,
-  "2023-12-31": 1371,
-  "2024-01-01": 1371,
-  "2024-01-02": 1371,
-  "2024-01-03": 1371
+  "2024-01-17": 1371,
+  "date_first_scraped": "2023-09-27",
+  "description": "Tap into the tech and music world with <a href=\"spotify:artist:78ZgfyDjF59qBIWrGHRdme \">DJ_Dave</a>'s latest mix, who uses livecoding in her productions.\n\n",
+  "name": "DJ_Dave DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aimin' at Yr Skull (Mixed)",
+        "url": "https://open.spotify.com/album/1Nt4Nrv43WJUdBS4ybDBoc"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "Aimin' at Yr Skull - Mixed",
+      "url": "https://open.spotify.com/track/7kqaShfvrJDgNtWPXNTv0x"
+    },
+    {
+      "album": {
+        "name": "Castles (Mixed)",
+        "url": "https://open.spotify.com/album/7fodeHDPMF2jS90O8dOjDv"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Castles - Mixed",
+      "url": "https://open.spotify.com/track/5dNHlWpeSZA1s8TL7uL8s2"
+    },
+    {
+      "album": {
+        "name": "Dealer's Gone - DJ_Dave Edit (Mixed)",
+        "url": "https://open.spotify.com/album/1We25o0Mms53b98xw4Ai8l"
+      },
+      "artists": [
+        {
+          "name": "Von",
+          "url": "https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Dealer's Gone - DJ_Dave Edit - Mixed",
+      "url": "https://open.spotify.com/track/2F8mpOsCtWB0zZnBCQoYza"
+    },
+    {
+      "album": {
+        "name": "Foolish Dub (Mixed)",
+        "url": "https://open.spotify.com/album/7rvQxMeAWviKE931TtaCuT"
+      },
+      "artists": [
+        {
+          "name": "Ben Prophet",
+          "url": "https://open.spotify.com/artist/0YRk8fU48dUpIGqJYh5b4U"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Foolish Dub - Mixed",
+      "url": "https://open.spotify.com/track/0UTsPbht7VkHCPbvwKTDTU"
+    },
+    {
+      "album": {
+        "name": "Glimmer (Mixed)",
+        "url": "https://open.spotify.com/album/4cbFTvv17MYURVfr8MErEn"
+      },
+      "artists": [
+        {
+          "name": "FOURA",
+          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Glimmer - Mixed",
+      "url": "https://open.spotify.com/track/0S5LtTTbFS8v9UlgNIyg3X"
+    },
+    {
+      "album": {
+        "name": "I Enter - Original Mix (Mixed)",
+        "url": "https://open.spotify.com/album/4j1T97RieGecBTovqg9Tsb"
+      },
+      "artists": [
+        {
+          "name": "Tyler Rowe",
+          "url": "https://open.spotify.com/artist/74oXDtl5ea6CxDhMSFmytI"
+        },
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "I Enter - Original Mix - Mixed",
+      "url": "https://open.spotify.com/track/0SdEYPXfplZ0VWumvEhFKI"
+    },
+    {
+      "album": {
+        "name": "Look (Mixed)",
+        "url": "https://open.spotify.com/album/5ukOXhJJcfOnzr1GRFLf4R"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Look - Mixed",
+      "url": "https://open.spotify.com/track/0Cvx3Ax1Gb3g4V5d886Byd"
+    },
+    {
+      "album": {
+        "name": "No One Dies From Love (DJ_Dave Edit) [Mixed]",
+        "url": "https://open.spotify.com/album/6FRL2S3QICMwzQd80yK8R5"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "No One Dies From Love (DJ_Dave Edit) - Mixed",
+      "url": "https://open.spotify.com/track/5wmwDfv6XaQ3j4YV1zLU1q"
+    },
+    {
+      "album": {
+        "name": "NOBODY (Mixed)",
+        "url": "https://open.spotify.com/album/0QXGZZJ6PDLgvke9qE8xco"
+      },
+      "artists": [
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "NOBODY - Mixed",
+      "url": "https://open.spotify.com/track/4UN2I7KSK07GjR0kZXwVGU"
+    },
+    {
+      "album": {
+        "name": "Orange Tesla (Mixed)",
+        "url": "https://open.spotify.com/album/3DACHk4UrY2ml16PppvDs7"
+      },
+      "artists": [
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Orange Tesla - Mixed",
+      "url": "https://open.spotify.com/track/7LDp2HqPXuBAKzSY7iniCk"
+    },
+    {
+      "album": {
+        "name": "Psychic Attack (Mixed)",
+        "url": "https://open.spotify.com/album/7dRFDTrbwQ1cppeCldcYLa"
+      },
+      "artists": [
+        {
+          "name": "Nala",
+          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Psychic Attack - Mixed",
+      "url": "https://open.spotify.com/track/25l4h2bht5c3FcjcSmAPWB"
+    },
+    {
+      "album": {
+        "name": "Satyr (Mixed)",
+        "url": "https://open.spotify.com/album/5qTWTkkPTh1kVUEpNtnf12"
+      },
+      "artists": [
+        {
+          "name": "Frazer Ray",
+          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
+        },
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Satyr - Mixed",
+      "url": "https://open.spotify.com/track/77ZaK49yn9V17Or4Pc9K7l"
+    },
+    {
+      "album": {
+        "name": "Smack the Door (Mixed)",
+        "url": "https://open.spotify.com/album/1iDbHmllmVdwi0WZ8NkVnF"
+      },
+      "artists": [
+        {
+          "name": "Van Basten",
+          "url": "https://open.spotify.com/artist/3RhrAAJ6NscgogAUdBP1eg"
+        },
+        {
+          "name": "Dismantle",
+          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "Smack the Door - Mixed",
+      "url": "https://open.spotify.com/track/70B9SZ7PhqXtLqDFM0z8Ta"
+    },
+    {
+      "album": {
+        "name": "State of Flow Ft. Oli Gosh - Adam Pits Remix (Mixed)",
+        "url": "https://open.spotify.com/album/0pi9gfGC504IkoAunTpFyq"
+      },
+      "artists": [
+        {
+          "name": "Oli Gosh",
+          "url": "https://open.spotify.com/artist/5IZbUWG5d3765l22StpVAU"
+        },
+        {
+          "name": "Subb-an",
+          "url": "https://open.spotify.com/artist/1GixPUcrjDq3qogmYXbGsh"
+        },
+        {
+          "name": "Adam Pits",
+          "url": "https://open.spotify.com/artist/0vrrcYDODaghHDyxGZCIis"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "State of Flow Ft. Oli Gosh - Adam Pits Remix - Mixed",
+      "url": "https://open.spotify.com/track/5aPj6YNnwCqFLXI1me2zul"
+    },
+    {
+      "album": {
+        "name": "Still Miss U (Mixed)",
+        "url": "https://open.spotify.com/album/50bqX4ZKpcJcCLGhh7wHtC"
+      },
+      "artists": [
+        {
+          "name": "Kitty",
+          "url": "https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Still Miss U - Mixed",
+      "url": "https://open.spotify.com/track/6SZbwVSxK7OnvjbF0XDacH"
+    },
+    {
+      "album": {
+        "name": "Take it Further (Mixed)",
+        "url": "https://open.spotify.com/album/7CH3DW0EaJwk09i5CS0VyQ"
+      },
+      "artists": [
+        {
+          "name": "BAKEY",
+          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Take it Further - Mixed",
+      "url": "https://open.spotify.com/track/5hkD5eKRrNcxVd5P3h1nEd"
+    },
+    {
+      "album": {
+        "name": "Tight Up (feat. Red Rat) [Mixed]",
+        "url": "https://open.spotify.com/album/0UdBoBy5nHMBubua6t7Bu0"
+      },
+      "artists": [
+        {
+          "name": "Nadia Rose",
+          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
+        },
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Tight Up (feat. Red Rat) - Mixed",
+      "url": "https://open.spotify.com/track/2TexNScitRZOQY3rReiP7h"
+    },
+    {
+      "album": {
+        "name": "Touchpad (Mixed)",
+        "url": "https://open.spotify.com/album/1QqPmK3G9uFzoKKUgH3J1y"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Touchpad - Mixed",
+      "url": "https://open.spotify.com/track/54nhHWMS6NUAlqkXKgDMbl"
+    },
+    {
+      "album": {
+        "name": "TWITCH - SWING TING REMIX (Mixed)",
+        "url": "https://open.spotify.com/album/5hs6OV92jasYdyF9EYxk44"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Swing Ting",
+          "url": "https://open.spotify.com/artist/6fvaKKPtpStFRXRTMmnYMX"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "TWITCH - SWING TING REMIX - Mixed",
+      "url": "https://open.spotify.com/track/1rgIYW8AkR6pezq6FiHeVb"
+    },
+    {
+      "album": {
+        "name": "U KNOW ME (Mixed)",
+        "url": "https://open.spotify.com/album/1F3ORaKotTuuXODskVehEL"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "U KNOW ME - Mixed",
+      "url": "https://open.spotify.com/track/1cpj7iARswkZmrjrmmmrEc"
+    },
+    {
+      "album": {
+        "name": "UUU (Mixed)",
+        "url": "https://open.spotify.com/album/58R3ctSJlbLskPo1kdN2ak"
+      },
+      "artists": [
+        {
+          "name": "Kumo 99",
+          "url": "https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "UUU - Mixed",
+      "url": "https://open.spotify.com/track/6or62pPK3S4Fdou1t4ny1L"
+    },
+    {
+      "album": {
+        "name": "Work It (Mixed)",
+        "url": "https://open.spotify.com/album/5sTtErpDQ1INxBEeRlkJLI"
+      },
+      "artists": [
+        {
+          "name": "MKJAY",
+          "url": "https://open.spotify.com/artist/20LoXYCfkUQLrhGAu0fXqC"
+        },
+        {
+          "name": "Confesser",
+          "url": "https://open.spotify.com/artist/3oAPMZYDVvAjaYi5FIwZJm"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74000,
+      "name": "Work It - Mixed",
+      "url": "https://open.spotify.com/track/1y0QfzRD5GYZoDghBHV3xO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWT5nbMVUZK4X"
 }

@@ -1,621 +1,2605 @@
 {
-  "2022-04-19": 4930,
-  "2022-04-20": 4930,
-  "2022-04-21": 4927,
-  "2022-04-22": 4926,
-  "2022-04-23": 4926,
-  "2022-04-24": 4926,
-  "2022-04-25": 4925,
-  "2022-04-26": 4925,
-  "2022-04-27": 4926,
-  "2022-04-28": 4926,
-  "2022-04-29": 4926,
-  "2022-04-30": 4929,
-  "2022-05-01": 4930,
-  "2022-05-02": 4930,
-  "2022-05-03": 4930,
-  "2022-05-04": 4930,
-  "2022-05-05": 4930,
-  "2022-05-06": 4930,
-  "2022-05-07": 4930,
-  "2022-05-08": 4932,
-  "2022-05-09": 4932,
-  "2022-05-10": 4934,
-  "2022-05-11": 4935,
-  "2022-05-12": 4934,
-  "2022-05-13": 4935,
-  "2022-05-14": 4935,
-  "2022-05-15": 4934,
-  "2022-05-16": 4934,
-  "2022-05-17": 4935,
-  "2022-05-18": 4933,
-  "2022-05-19": 4934,
-  "2022-05-20": 4932,
-  "2022-05-21": 4932,
-  "2022-05-22": 4932,
-  "2022-05-23": 4933,
-  "2022-05-24": 4931,
-  "2022-05-25": 4932,
-  "2022-05-26": 4932,
-  "2022-05-27": 4933,
-  "2022-05-28": 4931,
-  "2022-05-29": 4932,
-  "2022-05-30": 4930,
-  "2022-05-31": 4926,
-  "2022-06-01": 4926,
-  "2022-06-02": 4927,
-  "2022-06-03": 4927,
-  "2022-06-04": 4927,
-  "2022-06-05": 4927,
-  "2022-06-06": 4927,
-  "2022-06-07": 4927,
-  "2022-06-08": 4927,
-  "2022-06-09": 4926,
-  "2022-06-10": 4925,
-  "2022-06-11": 4925,
-  "2022-06-12": 4925,
-  "2022-06-13": 4925,
-  "2022-06-14": 4924,
-  "2022-06-15": 4924,
-  "2022-06-16": 4924,
-  "2022-06-17": 4923,
-  "2022-06-18": 4923,
-  "2022-06-19": 4923,
-  "2022-06-20": 4923,
-  "2022-06-21": 4922,
-  "2022-06-22": 4921,
-  "2022-06-23": 4921,
-  "2022-06-24": 4921,
-  "2022-06-25": 4921,
-  "2022-06-26": 4921,
-  "2022-06-27": 4921,
-  "2022-06-28": 4920,
-  "2022-06-29": 4920,
-  "2022-06-30": 4920,
-  "2022-07-01": 4919,
-  "2022-07-02": 4919,
-  "2022-07-03": 4919,
-  "2022-07-04": 4919,
-  "2022-07-05": 4919,
-  "2022-07-06": 4918,
-  "2022-07-07": 4918,
-  "2022-07-08": 4918,
-  "2022-07-09": 4918,
-  "2022-07-10": 4918,
-  "2022-07-11": 4918,
-  "2022-07-12": 4918,
-  "2022-07-13": 4918,
-  "2022-07-14": 4918,
-  "2022-07-15": 4918,
-  "2022-07-16": 4918,
-  "2022-07-17": 4917,
-  "2022-07-18": 4917,
-  "2022-07-19": 4917,
-  "2022-07-20": 4916,
-  "2022-07-21": 4916,
-  "2022-07-22": 4916,
-  "2022-07-23": 4916,
-  "2022-07-24": 4916,
-  "2022-07-25": 4915,
-  "2022-07-26": 4915,
-  "2022-07-27": 4915,
-  "2022-07-28": 4916,
-  "2022-07-29": 4916,
-  "2022-07-30": 4916,
-  "2022-07-31": 4916,
-  "2022-08-01": 4916,
-  "2022-08-02": 4916,
-  "2022-08-03": 4916,
-  "2022-08-04": 4915,
-  "2022-08-05": 4915,
-  "2022-08-06": 4915,
-  "2022-08-07": 4915,
-  "2022-08-08": 4915,
-  "2022-08-09": 4914,
-  "2022-08-10": 4914,
-  "2022-08-11": 4914,
-  "2022-08-12": 4913,
-  "2022-08-13": 4913,
-  "2022-08-14": 4914,
-  "2022-08-15": 4916,
-  "2022-08-16": 4917,
-  "2022-08-17": 4917,
-  "2022-08-18": 4918,
-  "2022-08-19": 4916,
-  "2022-08-20": 4916,
-  "2022-08-21": 4915,
-  "2022-08-22": 4916,
-  "2022-08-23": 4916,
-  "2022-08-24": 4915,
-  "2022-08-25": 4916,
-  "2022-08-26": 4916,
-  "2022-08-27": 4916,
-  "2022-08-28": 4916,
-  "2022-08-29": 4915,
-  "2022-08-30": 4915,
-  "2022-08-31": 4915,
-  "2022-09-01": 4915,
-  "2022-09-02": 4915,
-  "2022-09-03": 4914,
-  "2022-09-04": 4913,
-  "2022-09-05": 4913,
-  "2022-09-06": 4913,
-  "2022-09-07": 4913,
-  "2022-09-09": 4913,
-  "2022-09-10": 4911,
-  "2022-09-11": 4910,
-  "2022-09-12": 4909,
-  "2022-09-13": 4910,
-  "2022-09-15": 4910,
-  "2022-09-16": 4910,
-  "2022-09-17": 4910,
-  "2022-09-18": 4909,
-  "2022-09-19": 4908,
-  "2022-09-20": 4908,
-  "2022-09-21": 4908,
-  "2022-09-22": 4907,
-  "2022-09-23": 4907,
-  "2022-09-24": 4907,
-  "2022-09-25": 4908,
-  "2022-09-26": 4906,
-  "2022-09-27": 4906,
-  "2022-09-28": 4906,
-  "2022-09-29": 4907,
-  "2022-09-30": 4907,
-  "2022-10-01": 4907,
-  "2022-10-02": 4908,
-  "2022-10-03": 4907,
-  "2022-10-04": 4908,
-  "2022-10-05": 4906,
-  "2022-10-06": 4906,
-  "2022-10-07": 4906,
-  "2022-10-08": 4905,
-  "2022-10-09": 4905,
-  "2022-10-10": 4905,
-  "2022-10-11": 4905,
-  "2022-10-12": 4905,
-  "2022-10-13": 4905,
-  "2022-10-14": 4905,
-  "2022-10-15": 4906,
-  "2022-10-16": 4906,
-  "2022-10-17": 4906,
-  "2022-10-18": 4906,
-  "2022-10-19": 4906,
-  "2022-10-20": 4906,
-  "2022-10-21": 4906,
-  "2022-10-22": 4906,
-  "2022-10-23": 4906,
-  "2022-10-24": 4905,
-  "2022-10-25": 4905,
-  "2022-10-26": 4904,
-  "2022-10-27": 4904,
-  "2022-10-28": 4904,
-  "2022-10-29": 4904,
-  "2022-10-30": 4903,
-  "2022-10-31": 4903,
-  "2022-11-01": 4902,
-  "2022-11-02": 4902,
-  "2022-11-03": 4902,
-  "2022-11-04": 4903,
-  "2022-11-05": 4903,
-  "2022-11-06": 4903,
-  "2022-11-07": 4903,
-  "2022-11-08": 4903,
-  "2022-11-09": 4901,
-  "2022-11-10": 4901,
-  "2022-11-11": 4900,
-  "2022-11-12": 4900,
-  "2022-11-13": 4900,
-  "2022-11-14": 4900,
-  "2022-11-15": 4900,
-  "2022-11-16": 4900,
-  "2022-11-17": 4900,
-  "2022-11-18": 4900,
-  "2022-11-19": 4899,
-  "2022-11-20": 4899,
-  "2022-11-21": 4898,
-  "2022-11-22": 4897,
-  "2022-11-23": 4897,
-  "2022-11-24": 4897,
-  "2022-11-25": 4897,
-  "2022-11-26": 4897,
-  "2022-11-27": 4897,
-  "2022-11-28": 4897,
-  "2022-11-29": 4897,
-  "2022-11-30": 4897,
-  "2022-12-01": 4897,
-  "2022-12-02": 4896,
-  "2022-12-03": 4895,
-  "2022-12-04": 4895,
-  "2022-12-05": 4895,
-  "2022-12-06": 4895,
-  "2022-12-07": 4892,
-  "2022-12-08": 4891,
-  "2022-12-09": 4891,
-  "2022-12-10": 4890,
-  "2022-12-11": 4890,
-  "2022-12-12": 4888,
-  "2022-12-13": 4888,
-  "2022-12-14": 4888,
-  "2022-12-15": 4888,
-  "2022-12-16": 4888,
-  "2022-12-17": 4887,
-  "2022-12-18": 4887,
-  "2022-12-19": 4885,
-  "2022-12-20": 4883,
-  "2022-12-21": 4883,
-  "2022-12-22": 4883,
-  "2022-12-24": 4883,
-  "2022-12-25": 4883,
-  "2022-12-26": 4883,
-  "2022-12-27": 4884,
-  "2022-12-28": 4883,
-  "2022-12-29": 4881,
-  "2022-12-30": 4881,
-  "2022-12-31": 4881,
-  "2023-01-01": 4881,
-  "2023-01-02": 4881,
-  "2023-01-03": 4880,
-  "2023-01-04": 4880,
-  "2023-01-05": 4880,
-  "2023-01-06": 4878,
-  "2023-01-07": 4879,
-  "2023-01-08": 4879,
-  "2023-01-09": 4878,
-  "2023-01-10": 4878,
-  "2023-01-11": 4878,
-  "2023-01-12": 4878,
-  "2023-01-13": 4878,
-  "2023-01-14": 4878,
-  "2023-01-15": 4877,
-  "2023-01-16": 4877,
-  "2023-01-17": 4877,
-  "2023-01-18": 4878,
-  "2023-01-19": 4877,
-  "2023-01-20": 4877,
-  "2023-01-21": 4877,
-  "2023-01-22": 4877,
-  "2023-01-23": 4877,
-  "2023-01-24": 4877,
-  "2023-01-25": 4875,
-  "2023-01-26": 4875,
-  "2023-01-27": 4875,
-  "2023-01-28": 4875,
-  "2023-01-29": 4875,
-  "2023-01-30": 4875,
-  "2023-01-31": 4875,
-  "2023-02-01": 4874,
-  "2023-02-02": 4874,
-  "2023-02-03": 4874,
-  "2023-02-04": 4875,
-  "2023-02-05": 4875,
-  "2023-02-06": 4875,
-  "2023-02-07": 4875,
-  "2023-02-08": 4877,
-  "2023-02-09": 4877,
-  "2023-02-10": 4876,
-  "2023-02-11": 4876,
-  "2023-02-12": 4876,
-  "2023-02-13": 4876,
-  "2023-02-14": 4876,
-  "2023-02-15": 4876,
-  "2023-02-16": 4876,
-  "2023-02-17": 4876,
-  "2023-02-18": 4876,
-  "2023-02-19": 4876,
-  "2023-02-20": 4876,
-  "2023-02-21": 4876,
-  "2023-02-22": 4876,
-  "2023-02-23": 4876,
-  "2023-02-24": 4876,
-  "2023-02-25": 4876,
-  "2023-02-26": 4876,
-  "2023-02-27": 4873,
-  "2023-02-28": 4873,
-  "2023-03-01": 4873,
-  "2023-03-02": 4873,
-  "2023-03-03": 4873,
-  "2023-03-04": 4872,
-  "2023-03-05": 4870,
-  "2023-03-06": 4870,
-  "2023-03-07": 4869,
-  "2023-03-08": 4869,
-  "2023-03-09": 4869,
-  "2023-03-10": 4869,
-  "2023-03-11": 4869,
-  "2023-03-12": 4869,
-  "2023-03-13": 4869,
-  "2023-03-14": 4869,
-  "2023-03-15": 4869,
-  "2023-03-16": 4869,
-  "2023-03-17": 4869,
-  "2023-03-18": 4868,
-  "2023-03-19": 4868,
-  "2023-03-20": 4867,
-  "2023-03-21": 4866,
-  "2023-03-22": 4866,
-  "2023-03-23": 4866,
-  "2023-03-24": 4866,
-  "2023-03-25": 4865,
-  "2023-03-26": 4865,
-  "2023-03-27": 4864,
-  "2023-03-28": 4864,
-  "2023-03-29": 4864,
-  "2023-03-30": 4862,
-  "2023-03-31": 4862,
-  "2023-04-01": 4862,
-  "2023-04-02": 4862,
-  "2023-04-03": 4862,
-  "2023-04-04": 4862,
-  "2023-04-05": 4862,
-  "2023-04-06": 4862,
-  "2023-04-07": 4862,
-  "2023-04-09": 4862,
-  "2023-04-10": 4861,
-  "2023-04-11": 4861,
-  "2023-04-12": 4861,
-  "2023-04-13": 4862,
-  "2023-04-14": 4862,
-  "2023-04-15": 4862,
-  "2023-04-16": 4862,
-  "2023-04-17": 4862,
-  "2023-04-18": 4862,
-  "2023-04-19": 4861,
-  "2023-04-20": 4861,
-  "2023-04-21": 4861,
-  "2023-04-22": 4860,
-  "2023-04-23": 4859,
-  "2023-04-24": 4858,
-  "2023-04-25": 4857,
-  "2023-04-26": 4857,
-  "2023-04-27": 4856,
-  "2023-04-28": 4856,
-  "2023-04-29": 4856,
-  "2023-04-30": 4856,
-  "2023-05-01": 4856,
-  "2023-05-02": 4855,
-  "2023-05-03": 4853,
-  "2023-05-04": 4853,
-  "2023-05-05": 4853,
-  "2023-05-06": 4853,
-  "2023-05-07": 4853,
-  "2023-05-08": 4853,
-  "2023-05-09": 4854,
-  "2023-05-10": 4854,
-  "2023-05-11": 4854,
-  "2023-05-12": 4854,
-  "2023-05-13": 4854,
-  "2023-05-14": 4854,
-  "2023-05-15": 4854,
-  "2023-05-16": 4854,
-  "2023-05-17": 4854,
-  "2023-05-18": 4854,
-  "2023-05-19": 4854,
-  "2023-05-20": 4853,
-  "2023-05-21": 4853,
-  "2023-05-22": 4853,
-  "2023-05-23": 4853,
-  "2023-05-24": 4853,
-  "2023-05-25": 4852,
-  "2023-05-26": 4852,
-  "2023-05-27": 4852,
-  "2023-05-28": 4853,
-  "2023-05-29": 4853,
-  "2023-05-30": 4851,
-  "2023-05-31": 4850,
-  "2023-06-01": 4849,
-  "2023-06-02": 4849,
-  "2023-06-03": 4849,
-  "2023-06-04": 4849,
-  "2023-06-05": 4848,
-  "2023-06-06": 4849,
-  "2023-06-07": 4848,
-  "2023-06-08": 4848,
-  "2023-06-09": 4848,
-  "2023-06-10": 4847,
-  "2023-06-11": 4847,
-  "2023-06-12": 4847,
-  "2023-06-13": 4847,
-  "2023-06-14": 4846,
-  "2023-06-15": 4846,
-  "2023-06-16": 4847,
-  "2023-06-17": 4847,
-  "2023-06-18": 4847,
-  "2023-06-19": 4847,
-  "2023-06-20": 4847,
-  "2023-06-21": 4847,
-  "2023-06-22": 4847,
-  "2023-06-23": 4845,
-  "2023-06-24": 4845,
-  "2023-06-25": 4845,
-  "2023-06-26": 4845,
-  "2023-06-27": 4845,
-  "2023-06-28": 4845,
-  "2023-06-29": 4845,
-  "2023-06-30": 4845,
-  "2023-07-01": 4844,
-  "2023-07-02": 4844,
-  "2023-07-03": 4845,
-  "2023-07-04": 4845,
-  "2023-07-05": 4845,
-  "2023-07-06": 4845,
-  "2023-07-07": 4845,
-  "2023-07-08": 4845,
-  "2023-07-09": 4845,
-  "2023-07-10": 4845,
-  "2023-07-11": 4843,
-  "2023-07-12": 4843,
-  "2023-07-13": 4842,
-  "2023-07-14": 4841,
-  "2023-07-15": 4841,
-  "2023-07-16": 4840,
-  "2023-07-17": 4840,
-  "2023-07-18": 4839,
-  "2023-07-19": 4838,
-  "2023-07-20": 4838,
-  "2023-07-21": 4837,
-  "2023-07-22": 4837,
-  "2023-07-23": 4837,
-  "2023-07-24": 4837,
-  "2023-07-25": 4837,
-  "2023-07-26": 4837,
-  "2023-07-27": 4836,
-  "2023-07-28": 4835,
-  "2023-07-29": 4835,
-  "2023-07-30": 4835,
-  "2023-07-31": 4833,
-  "2023-08-01": 4833,
-  "2023-08-02": 4834,
-  "2023-08-03": 4834,
-  "2023-08-04": 4834,
-  "2023-08-05": 4834,
-  "2023-08-06": 4833,
-  "2023-08-07": 4833,
-  "2023-08-08": 4833,
-  "2023-08-09": 4833,
-  "2023-08-10": 4833,
-  "2023-08-11": 4833,
-  "2023-08-12": 4832,
-  "2023-08-13": 4832,
-  "2023-08-14": 4833,
-  "2023-08-15": 4832,
-  "2023-08-16": 4832,
-  "2023-08-17": 4831,
-  "2023-08-18": 4831,
-  "2023-08-19": 4831,
-  "2023-08-20": 4831,
-  "2023-08-21": 4831,
-  "2023-08-22": 4831,
-  "2023-08-23": 4830,
-  "2023-08-24": 4832,
-  "2023-08-25": 4832,
-  "2023-08-26": 4833,
-  "2023-08-27": 4833,
-  "2023-08-28": 4833,
-  "2023-08-29": 4833,
-  "2023-08-30": 4833,
-  "2023-08-31": 4833,
-  "2023-09-01": 4833,
-  "2023-09-02": 4833,
-  "2023-09-03": 4833,
-  "2023-09-04": 4834,
-  "2023-09-05": 4834,
-  "2023-09-06": 4833,
-  "2023-09-07": 4833,
-  "2023-09-08": 4833,
-  "2023-09-09": 4834,
-  "2023-09-10": 4834,
-  "2023-09-11": 4833,
-  "2023-09-12": 4834,
-  "2023-09-13": 4833,
-  "2023-09-14": 4833,
-  "2023-09-15": 4832,
-  "2023-09-16": 4833,
-  "2023-09-17": 4833,
-  "2023-09-18": 4834,
-  "2023-09-19": 4834,
-  "2023-09-20": 4834,
-  "2023-09-21": 4834,
-  "2023-09-22": 4835,
-  "2023-09-23": 4835,
-  "2023-09-24": 4835,
-  "2023-09-25": 4835,
-  "2023-09-26": 4834,
-  "2023-09-27": 4834,
-  "2023-09-28": 4834,
-  "2023-09-29": 4832,
-  "2023-09-30": 4832,
-  "2023-10-01": 4831,
-  "2023-10-02": 4831,
-  "2023-10-03": 4831,
-  "2023-10-04": 4831,
-  "2023-10-05": 4831,
-  "2023-10-06": 4831,
-  "2023-10-07": 4831,
-  "2023-10-08": 4831,
-  "2023-10-09": 4831,
-  "2023-10-10": 4825,
-  "2023-10-11": 4824,
-  "2023-10-12": 4824,
-  "2023-10-13": 4822,
-  "2023-10-14": 4822,
-  "2023-10-15": 4822,
-  "2023-10-16": 4822,
-  "2023-10-17": 4822,
-  "2023-10-18": 4822,
-  "2023-10-19": 4822,
-  "2023-10-20": 4822,
-  "2023-10-21": 4822,
-  "2023-10-22": 4822,
-  "2023-10-23": 4815,
-  "2023-10-24": 4816,
-  "2023-10-25": 4816,
-  "2023-10-26": 4816,
-  "2023-10-27": 4816,
-  "2023-10-28": 4816,
-  "2023-10-29": 4816,
-  "2023-10-30": 4816,
-  "2023-10-31": 4816,
-  "2023-11-01": 4816,
-  "2023-11-02": 4816,
-  "2023-11-03": 4816,
-  "2023-11-04": 4816,
-  "2023-11-05": 4816,
-  "2023-11-06": 4816,
-  "2023-11-07": 4816,
-  "2023-11-08": 4816,
-  "2023-11-09": 4816,
-  "2023-11-10": 4816,
-  "2023-11-11": 4808,
-  "2023-11-12": 4808,
-  "2023-11-13": 4808,
-  "2023-11-14": 4808,
-  "2023-11-15": 4808,
-  "2023-11-16": 4808,
-  "2023-11-17": 4812,
-  "2023-11-18": 4812,
-  "2023-11-19": 4812,
-  "2023-11-20": 4812,
-  "2023-11-21": 4812,
-  "2023-11-22": 4812,
-  "2023-11-23": 4810,
-  "2023-11-24": 4810,
-  "2023-11-25": 4810,
-  "2023-11-26": 4810,
-  "2023-11-27": 4810,
-  "2023-11-28": 4810,
-  "2023-11-29": 4810,
-  "2023-11-30": 4810,
-  "2023-12-01": 4810,
-  "2023-12-02": 4810,
-  "2023-12-03": 4810,
-  "2023-12-04": 4810,
-  "2023-12-05": 4810,
-  "2023-12-06": 4810,
-  "2023-12-07": 4810,
-  "2023-12-08": 4810,
-  "2023-12-09": 4810,
-  "2023-12-10": 4810,
-  "2023-12-11": 4810,
-  "2023-12-12": 4810,
-  "2023-12-13": 4810,
-  "2023-12-14": 4810,
-  "2023-12-15": 4810,
-  "2023-12-16": 4810,
-  "2023-12-17": 4809,
-  "2023-12-18": 4809,
-  "2023-12-19": 4809,
-  "2023-12-20": 4809,
-  "2023-12-21": 4809,
-  "2023-12-22": 4809,
-  "2023-12-23": 4809,
-  "2023-12-24": 4809,
-  "2023-12-25": 4810,
-  "2023-12-26": 4810,
-  "2023-12-27": 4808,
-  "2023-12-30": 4808,
-  "2023-12-31": 4806,
-  "2024-01-01": 4806,
-  "2024-01-02": 4806,
-  "2024-01-03": 4806
+  "2024-01-17": 4788,
+  "date_first_scraped": "2022-04-19",
+  "description": "Food sing-a-longs for breakfast, lunch, or snack time.",
+  "name": "Let's Eat!",
+  "tracks": [
+    {
+      "album": {
+        "name": "Dance, Sing & Laugh",
+        "url": "https://open.spotify.com/album/1KcQF5wcErz67SH9I3vSNR"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 119506,
+      "name": "1, 2 What Shall We Do? (Pancakes)",
+      "url": "https://open.spotify.com/track/1bsFHHcSeCZG5TJdPVHg7v"
+    },
+    {
+      "album": {
+        "name": "Dance, Sing & Laugh",
+        "url": "https://open.spotify.com/album/6TINDB2CCxmNG5S95S6LEV"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119506,
+      "name": "1, 2 What Shall We Do? (Pancakes)",
+      "url": "https://open.spotify.com/track/3xSOh4Xj9uLhAnIC2NxLdy"
+    },
+    {
+      "album": {
+        "name": "Activity Time",
+        "url": "https://open.spotify.com/album/3EtRvuANnyYg1ZGHhs8seE"
+      },
+      "artists": [
+        {
+          "name": "Pre-Teens",
+          "url": "https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 84533,
+      "name": "10 Fat Sausages",
+      "url": "https://open.spotify.com/track/3Qnsxavk66i1M1G6ZQqXa7"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kids Collection",
+        "url": "https://open.spotify.com/album/5iiEm8Wg3dkoLk9rI9bxBf"
+      },
+      "artists": [
+        {
+          "name": "The Kids Band",
+          "url": "https://open.spotify.com/artist/06Hm0MteCKQgT0fkP1iJyz"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 85066,
+      "name": "10 Fat Sausages",
+      "url": "https://open.spotify.com/track/0Y5snxothdk8mmuyqe2MOs"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Healthy Habits Songs (Pt. 1-3)",
+        "url": "https://open.spotify.com/album/57aoBY63rXYvnherisZpdh"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69402,
+      "name": "A Healthy Meal",
+      "url": "https://open.spotify.com/track/3Qy8BN2lRFY61MLVGlCTlc"
+    },
+    {
+      "album": {
+        "name": "Avocado",
+        "url": "https://open.spotify.com/album/548o11z8WtjhmKLFRzajvz"
+      },
+      "artists": [
+        {
+          "name": "Rolie Polie Guacamole",
+          "url": "https://open.spotify.com/artist/5B7XLUnkpg3TQYgP088xqT"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196382,
+      "name": "A Pizza Pie",
+      "url": "https://open.spotify.com/track/4zgJR2A0iGC3MeLZVxgfQJ"
+    },
+    {
+      "album": {
+        "name": "Whoopty Whoop",
+        "url": "https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198841,
+      "name": "All I Eat Is Pizza",
+      "url": "https://open.spotify.com/track/7LGN2GZWO52C2rfP3LZRVX"
+    },
+    {
+      "album": {
+        "name": "Big Round World",
+        "url": "https://open.spotify.com/album/5A4I8dQUpFqIBHWlRhgI4E"
+      },
+      "artists": [
+        {
+          "name": "Trout Fishing in America",
+          "url": "https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156373,
+      "name": "Always Chew Your Food",
+      "url": "https://open.spotify.com/track/2Mi2i9JXAnPzP42RNtOMwf"
+    },
+    {
+      "album": {
+        "name": "Big Round World",
+        "url": "https://open.spotify.com/album/76ylNwYtHrUZ1ch2V6Fd3z"
+      },
+      "artists": [
+        {
+          "name": "Trout Fishing in America",
+          "url": "https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156373,
+      "name": "Always Chew Your Food",
+      "url": "https://open.spotify.com/track/5XuVEus8jjyuRXDpfyg0gT"
+    },
+    {
+      "album": {
+        "name": "One Light, One Sun",
+        "url": "https://open.spotify.com/album/2IUydgYcN7LLZgsw5mTiJG"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98040,
+      "name": "Apples And Bananas",
+      "url": "https://open.spotify.com/track/2kLN6dEwdgyTbPnFZ1BONy"
+    },
+    {
+      "album": {
+        "name": "Old MacDonald Had a Farm & More Kids Songs",
+        "url": "https://open.spotify.com/album/2Sivlm6GK4dr21Ucf1UKV8"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113420,
+      "name": "Are You Hungry?",
+      "url": "https://open.spotify.com/track/3gsvzQe3KjPdsNA5ufI6lc"
+    },
+    {
+      "album": {
+        "name": "Echo Songs, Vol. 1 (Without the Echo)",
+        "url": "https://open.spotify.com/album/1kevLUJnWAXDF28NRpLSOb"
+      },
+      "artists": [
+        {
+          "name": "Noodle Loaf",
+          "url": "https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121684,
+      "name": "At The Salad Bar (without the echo)",
+      "url": "https://open.spotify.com/track/6ohR49fjiq0aVdD7gf3IA7"
+    },
+    {
+      "album": {
+        "name": "Kids Trap (In the House)",
+        "url": "https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf"
+      },
+      "artists": [
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        },
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118154,
+      "name": "Baking Cookies",
+      "url": "https://open.spotify.com/track/1kH1vKhV9jE74jAs0DyS5f"
+    },
+    {
+      "album": {
+        "name": "Radio Jungle",
+        "url": "https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 236079,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/17VG7Iu5vxG9h3XV0ZzX74"
+    },
+    {
+      "album": {
+        "name": "Radio Jungle",
+        "url": "https://open.spotify.com/album/4IYiLuEwpQ3ksLwzmagQxu"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236079,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/6uQ4WjitpoG07KEZHCtaHi"
+    },
+    {
+      "album": {
+        "name": "Away We Go!",
+        "url": "https://open.spotify.com/album/6gXAuYlj9SA4b0APIF1CGS"
+      },
+      "artists": [
+        {
+          "name": "Caspar Babypants",
+          "url": "https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144880,
+      "name": "Banana Bread",
+      "url": "https://open.spotify.com/track/72hJoAEGryRpRzkdl89nWp"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7eVTOjYvPv6uekXpjeDSss"
+      },
+      "artists": [
+        {
+          "name": "Trout Fishing in America",
+          "url": "https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125533,
+      "name": "Beans and Weenies",
+      "url": "https://open.spotify.com/track/4OVJqV9Qur5mmzIITiYBTu"
+    },
+    {
+      "album": {
+        "name": "Baby Beluga",
+        "url": "https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144733,
+      "name": "Biscuits in the Oven",
+      "url": "https://open.spotify.com/track/0p4oKH8NmM9xM6bSJeeEbc"
+    },
+    {
+      "album": {
+        "name": "Can You Make Music?",
+        "url": "https://open.spotify.com/album/5NZgvrWTdnPLkJDt7FBgBd"
+      },
+      "artists": [
+        {
+          "name": "Music with Michal",
+          "url": "https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151432,
+      "name": "Blueberries",
+      "url": "https://open.spotify.com/track/3kJ1HeCowScG4q35toItTF"
+    },
+    {
+      "album": {
+        "name": "Celebrate This!",
+        "url": "https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145996,
+      "name": "Bread / Cheese / Bread",
+      "url": "https://open.spotify.com/track/1MOd2B1bPqVNKFajpyELtp"
+    },
+    {
+      "album": {
+        "name": "Fast Casual",
+        "url": "https://open.spotify.com/album/0nsdGogR0v9D4bHUgfedBL"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Bread Bowl",
+      "url": "https://open.spotify.com/track/0NEaL5ls3pfxyKif9EZkVw"
+    },
+    {
+      "album": {
+        "name": "Let The Sun Shine",
+        "url": "https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx"
+      },
+      "artists": [
+        {
+          "name": "We Kids Rock",
+          "url": "https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191946,
+      "name": "C'mon Let's Make A Pizza",
+      "url": "https://open.spotify.com/track/6RxCH8C1ZWPgmV5VflTg5Q"
+    },
+    {
+      "album": {
+        "name": "Great Indoors",
+        "url": "https://open.spotify.com/album/0UHnvtbbdIIOkcm6eAlzxR"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126483,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/5osG2aM99V1qbeAROkU891"
+    },
+    {
+      "album": {
+        "name": "Dance Party!",
+        "url": "https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158994,
+      "name": "Cooking in the Kitchen",
+      "url": "https://open.spotify.com/track/2CJH3oNhDEBPTxjtpGZOLn"
+    },
+    {
+      "album": {
+        "name": "Big Round World",
+        "url": "https://open.spotify.com/album/5A4I8dQUpFqIBHWlRhgI4E"
+      },
+      "artists": [
+        {
+          "name": "Trout Fishing in America",
+          "url": "https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100693,
+      "name": "Curse of the Spinach",
+      "url": "https://open.spotify.com/track/16dU7TKc49MlHEXBzz2csB"
+    },
+    {
+      "album": {
+        "name": "Big Round World",
+        "url": "https://open.spotify.com/album/76ylNwYtHrUZ1ch2V6Fd3z"
+      },
+      "artists": [
+        {
+          "name": "Trout Fishing in America",
+          "url": "https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 100693,
+      "name": "Curse of the Spinach",
+      "url": "https://open.spotify.com/track/75tXfcwfWBw6quhQ57pOoM"
+    },
+    {
+      "album": {
+        "name": "Songs to Sing at Children",
+        "url": "https://open.spotify.com/album/58SHDR5ORDlCe909wOZeD8"
+      },
+      "artists": [
+        {
+          "name": "Mike Phirman",
+          "url": "https://open.spotify.com/artist/4RXwlvGvt3VjfVJjVIFQTJ"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239586,
+      "name": "Dance, Little Meatball, Dance",
+      "url": "https://open.spotify.com/track/69WrOpLyGJHRR5S2GL96QU"
+    },
+    {
+      "album": {
+        "name": "Macaroni Birthday Time",
+        "url": "https://open.spotify.com/album/5f0E7TWBJpzg9HeD3wiXQE"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Birthday",
+          "url": "https://open.spotify.com/artist/1VXYt4oC9gZCsYKMkguRZx"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90056,
+      "name": "Dessert First",
+      "url": "https://open.spotify.com/track/2wQzFdY7MMD5w5HjO20Twx"
+    },
+    {
+      "album": {
+        "name": "Dessert First",
+        "url": "https://open.spotify.com/album/4Rg3JYKqMjgLiKpjdwFVOA"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Birthday",
+          "url": "https://open.spotify.com/artist/1VXYt4oC9gZCsYKMkguRZx"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 90056,
+      "name": "Dessert First",
+      "url": "https://open.spotify.com/track/3ZL8p6pos3EO0xarQIaLUh"
+    },
+    {
+      "album": {
+        "name": "For Kids About To Rock",
+        "url": "https://open.spotify.com/album/1Y9WmnzSZAJiCBboZ92z8R"
+      },
+      "artists": [
+        {
+          "name": "Parry Gripp",
+          "url": "https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30013,
+      "name": "Do You Like Waffles?",
+      "url": "https://open.spotify.com/track/0jwrcvzJQacwH9mPVrigPh"
+    },
+    {
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4ST8f5iI7KoSvYGYma4Yjp"
+      },
+      "artists": [
+        {
+          "name": "Shine and the Moonbeams",
+          "url": "https://open.spotify.com/artist/5IwCPV7WRS7rIQN41cur1q"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "Don't Yuck My Yum",
+      "url": "https://open.spotify.com/track/3073TDRBWJU4oDuwAvc8FU"
+    },
+    {
+      "album": {
+        "name": "Ridiculously Silly Songs",
+        "url": "https://open.spotify.com/album/2r3znEus5zBNgqqIMM9j0W"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129362,
+      "name": "Doughnut Song",
+      "url": "https://open.spotify.com/track/4WQymeEijDI1Vmd17NLb1q"
+    },
+    {
+      "album": {
+        "name": "Colour the World",
+        "url": "https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb"
+      },
+      "artists": [
+        {
+          "name": "Tiptoe Giants",
+          "url": "https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98069,
+      "name": "Drip Drip Ice Cream",
+      "url": "https://open.spotify.com/track/28Bm2tH8yHFKXwyh5GhKbs"
+    },
+    {
+      "album": {
+        "name": "Kids Trap 8",
+        "url": "https://open.spotify.com/album/66sd4xuoNus5yIx9lFpamV"
+      },
+      "artists": [
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        },
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99310,
+      "name": "Eat Fruit Every Day",
+      "url": "https://open.spotify.com/track/3DhkQDmg8s17XR7JFW1waN"
+    },
+    {
+      "album": {
+        "name": "Pj Panda's New School",
+        "url": "https://open.spotify.com/album/7tg6ZDzC2btuNHbO7Ysm6D"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206000,
+      "name": "Eat Your Vegetables",
+      "url": "https://open.spotify.com/track/0nO99XLnup4wWlximqm3g8"
+    },
+    {
+      "album": {
+        "name": "My Favorite Rapper Is a Panda",
+        "url": "https://open.spotify.com/album/3GAtRif4sShnK1a227ZSIC"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206000,
+      "name": "Eat Your Vegetables",
+      "url": "https://open.spotify.com/track/6lZdXrUU4nah9ICIjg7Iwl"
+    },
+    {
+      "album": {
+        "name": "My Favorite Rapper Is a Panda",
+        "url": "https://open.spotify.com/album/6Qt49bY8iTOfbEbsJjCFzx"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Eat Your Vegetables",
+      "url": "https://open.spotify.com/track/7qXhPWK8VR2gJCGZPObT2U"
+    },
+    {
+      "album": {
+        "name": "Music for Tots",
+        "url": "https://open.spotify.com/album/1EUb0cGlwTpY36OH65FiO2"
+      },
+      "artists": [
+        {
+          "name": "Little Miss Ann",
+          "url": "https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112133,
+      "name": "Edamame",
+      "url": "https://open.spotify.com/track/36lnAVGACfOfLoOJx7XOkM"
+    },
+    {
+      "album": {
+        "name": "Kids In The City",
+        "url": "https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt"
+      },
+      "artists": [
+        {
+          "name": "Laura Doherty",
+          "url": "https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157306,
+      "name": "Farmer's Market",
+      "url": "https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh"
+    },
+    {
+      "album": {
+        "name": "Garbage Guts",
+        "url": "https://open.spotify.com/album/6TkleCwedPYt7eeRQe8no9"
+      },
+      "artists": [
+        {
+          "name": "Formidable Vegetable",
+          "url": "https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 186707,
+      "name": "Fonky Food",
+      "url": "https://open.spotify.com/track/17bXyzZutYIOEvwokdLBen"
+    },
+    {
+      "album": {
+        "name": "Garbage Guts",
+        "url": "https://open.spotify.com/album/3rhyPmh2KoHRrepxiygVIk"
+      },
+      "artists": [
+        {
+          "name": "Formidable Vegetable",
+          "url": "https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186707,
+      "name": "Fonky Food",
+      "url": "https://open.spotify.com/track/3ZUf1XW4tPO6JZySphvteo"
+    },
+    {
+      "album": {
+        "name": "Go!",
+        "url": "https://open.spotify.com/album/6o2B1S43upwy3y1eBDvbSl"
+      },
+      "artists": [
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142493,
+      "name": "Food Songs",
+      "url": "https://open.spotify.com/track/6bjWN0h8PH2hso2JUvK7hG"
+    },
+    {
+      "album": {
+        "name": "Songs to Brush Your Teeth To",
+        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
+      },
+      "artists": [
+        {
+          "name": "Chompers",
+          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146343,
+      "name": "Fruit Has Seeds",
+      "url": "https://open.spotify.com/track/0FtNUX33cZaAINdQ1yAEBI"
+    },
+    {
+      "album": {
+        "name": "Hot Potatoes! The Best of The Wiggles",
+        "url": "https://open.spotify.com/album/4E3YeOlS3XChnyBE1kpgwj"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 147053,
+      "name": "Fruit Salad",
+      "url": "https://open.spotify.com/track/6RxM8CU1h3OJ1p0v8JRLsA"
+    },
+    {
+      "album": {
+        "name": "Yummy Yummy",
+        "url": "https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Fruit Salad",
+      "url": "https://open.spotify.com/track/05VFDrNnvtKHn9GwCQrsSZ"
+    },
+    {
+      "album": {
+        "name": "Hit Songs and Rarities",
+        "url": "https://open.spotify.com/album/0sNCyOvNDTgmzFhmfASPzz"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 148066,
+      "name": "Fruit Salad",
+      "url": "https://open.spotify.com/track/0n73IMpYOJ4NdGzYn2tjNz"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Food Songs",
+        "url": "https://open.spotify.com/album/4pmKIaf9wRxAk6CGhpiQGc"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146260,
+      "name": "Fruit Salad Salsa",
+      "url": "https://open.spotify.com/track/5iV93FNre5YoeM7ATyybSn"
+    },
+    {
+      "album": {
+        "name": "Victor Vito",
+        "url": "https://open.spotify.com/album/2zvFlAi9Xy2IGXlaMYLgfl"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148026,
+      "name": "Fruit Salad Salsa",
+      "url": "https://open.spotify.com/track/1CIhNC8LIuzOJ0i9B29uCv"
+    },
+    {
+      "album": {
+        "name": "Guacamole",
+        "url": "https://open.spotify.com/album/17DIqmnctIXjOgBWkymHff"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "The Best Tees",
+          "url": "https://open.spotify.com/artist/0iMbhQ3qjEbpzE5c8vU8pp"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/6aDRlhhobcOIt1MkOUIbrV"
+    },
+    {
+      "album": {
+        "name": "Yo Gabba Gabba! Hey!",
+        "url": "https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB"
+      },
+      "artists": [
+        {
+          "name": "Rocket From The Crypt",
+          "url": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78741,
+      "name": "He's a Chef",
+      "url": "https://open.spotify.com/track/2zkzPVWZXSWFcBszZ0HvmH"
+    },
+    {
+      "album": {
+        "name": "Yo Gabba Gabba! Music Is Awesome: Vol. 4",
+        "url": "https://open.spotify.com/album/3TmM9wQILguHtXEsfr2P7K"
+      },
+      "artists": [
+        {
+          "name": "Rocket From The Crypt",
+          "url": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 80000,
+      "name": "He's a Chef",
+      "url": "https://open.spotify.com/track/1GCdjBxsfQFzviKCHkVxMq"
+    },
+    {
+      "album": {
+        "name": "CoComelon Fun Learning",
+        "url": "https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-01",
+      "duration_ms": 116493,
+      "name": "Healthy Eating",
+      "url": "https://open.spotify.com/track/359M3tiY30lcBM2UO2pXoX"
+    },
+    {
+      "album": {
+        "name": "CoComelon Fun Learning",
+        "url": "https://open.spotify.com/album/35spzlfd5pY8DoEQaVXcS1"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116493,
+      "name": "Healthy Eating",
+      "url": "https://open.spotify.com/track/47FqRNKFucQZ6Gp1Z0HEoo"
+    },
+    {
+      "album": {
+        "name": "Hot Potatoes! The Best of The Wiggles",
+        "url": "https://open.spotify.com/album/4E3YeOlS3XChnyBE1kpgwj"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 78920,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/19m3CyoifSlSRKCVXhyMSg"
+    },
+    {
+      "album": {
+        "name": "Hit Songs and Rarities",
+        "url": "https://open.spotify.com/album/0sNCyOvNDTgmzFhmfASPzz"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 79840,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/7GDLgYICHuTevdp8Kf7YjY"
+    },
+    {
+      "album": {
+        "name": "Yummy Yummy",
+        "url": "https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81066,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/0TQp3SpfrkWtGCyJJgMbHW"
+    },
+    {
+      "album": {
+        "name": "Moey's Music Party",
+        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
+      },
+      "artists": [
+        {
+          "name": "Moey",
+          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129560,
+      "name": "I Always Sit When I Eat",
+      "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
+    },
+    {
+      "album": {
+        "name": "Useful Songs for Little People",
+        "url": "https://open.spotify.com/album/44nDe0SKcKPjGCwY7qSJ7G"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161072,
+      "name": "I Ate a Rainbow",
+      "url": "https://open.spotify.com/track/0TP1EHJTqQzbGD13pjDsbT"
+    },
+    {
+      "album": {
+        "name": "Echo Songs, Vol. 1 (Without the Echo)",
+        "url": "https://open.spotify.com/album/1kevLUJnWAXDF28NRpLSOb"
+      },
+      "artists": [
+        {
+          "name": "Noodle Loaf",
+          "url": "https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152263,
+      "name": "I Can Cook (without the echo)",
+      "url": "https://open.spotify.com/track/5aHI1tiGbnbsPrwd9l3vK6"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6"
+      },
+      "artists": [
+        {
+          "name": "Secret Agent 23 Skidoo",
+          "url": "https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200906,
+      "name": "I Like Fruit",
+      "url": "https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe"
+    },
+    {
+      "album": {
+        "name": "Welcome Spring",
+        "url": "https://open.spotify.com/album/1gQzsrdjYnlTO1snfJ8FTN"
+      },
+      "artists": [
+        {
+          "name": "Little Miss Ann",
+          "url": "https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb"
+        },
+        {
+          "name": "Flor Bromley",
+          "url": "https://open.spotify.com/artist/2XPVWwERufmF4IX9a4Dtd1"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226364,
+      "name": "I Like Rice (feat. Flor Bromley)",
+      "url": "https://open.spotify.com/track/4YH6S50iLEJHeDerIVUy5M"
+    },
+    {
+      "album": {
+        "name": "Tag, You're It!",
+        "url": "https://open.spotify.com/album/5O0lrEav82bSTfEbcl37h3"
+      },
+      "artists": [
+        {
+          "name": "The Not-Its!",
+          "url": "https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171573,
+      "name": "I Love Food",
+      "url": "https://open.spotify.com/track/5oXvX5XuLiVtK3YQbE931Z"
+    },
+    {
+      "album": {
+        "name": "Something for Everyone",
+        "url": "https://open.spotify.com/album/3c7lnfv4Ef3Y36UtgB4cHr"
+      },
+      "artists": [
+        {
+          "name": "Kath Bee",
+          "url": "https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141168,
+      "name": "I Take My Lunch to School",
+      "url": "https://open.spotify.com/track/1mCjBXX6VXTFGrVcyZgkm0"
+    },
+    {
+      "album": {
+        "name": "I Take My Lunch to School",
+        "url": "https://open.spotify.com/album/3ybZmFqFJ3N81pwzfPQFoQ"
+      },
+      "artists": [
+        {
+          "name": "Kath Bee",
+          "url": "https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 141168,
+      "name": "I Take My Lunch to School",
+      "url": "https://open.spotify.com/track/4OUrLIGnPLeaq0VB1SjFca"
+    },
+    {
+      "album": {
+        "name": "What's Cooking in the Kitchen (Songs about Food)",
+        "url": "https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 162000,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/6o0CzOoSmMmzJ5Ycvhp52S"
+    },
+    {
+      "album": {
+        "name": "Trick or Treat! Halloween Party Hits for Kids",
+        "url": "https://open.spotify.com/album/22PbJHM4CqBVq2X0auxQ00"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/7xYWZMli2zPjtgqlFV3cZJ"
+    },
+    {
+      "album": {
+        "name": "Good Ideas",
+        "url": "https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 144906,
+      "name": "I'd Eat It Anyway",
+      "url": "https://open.spotify.com/track/0qGjCWPtmI8epcV6aeLALB"
+    },
+    {
+      "album": {
+        "name": "Good Ideas",
+        "url": "https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145106,
+      "name": "I'd Eat It Anyway",
+      "url": "https://open.spotify.com/track/4pNSUTNUmVicSriWSCoGDY"
+    },
+    {
+      "album": {
+        "name": "Ice Cream (Scoopy Doo)",
+        "url": "https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153808,
+      "name": "Ice Cream (Scoopy Doo)",
+      "url": "https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j"
+    },
+    {
+      "album": {
+        "name": "The Hipwaders",
+        "url": "https://open.spotify.com/album/09F5V1USMyqra4XFaWF5Ep"
+      },
+      "artists": [
+        {
+          "name": "The Hipwaders",
+          "url": "https://open.spotify.com/artist/1bl9sV1dYYUeY1XRYn1LQs"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106680,
+      "name": "Jelly Beans",
+      "url": "https://open.spotify.com/track/3UsXljh1OzBOjRie7kHRVV"
+    },
+    {
+      "album": {
+        "name": "Songs We Love to Sing",
+        "url": "https://open.spotify.com/album/21zqL2osz6mPQY4sFgvdG1"
+      },
+      "artists": [
+        {
+          "name": "Lucy and Her Pals",
+          "url": "https://open.spotify.com/artist/5NLrUBxk4nUxfSPIIolh6J"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126013,
+      "name": "Jelly on a Plate",
+      "url": "https://open.spotify.com/track/7nXMVGLRRUns0MV3Cd66OL"
+    },
+    {
+      "album": {
+        "name": "Children's Sing Along Time",
+        "url": "https://open.spotify.com/album/2WgYgtWq5OBar4M21XVzD0"
+      },
+      "artists": [
+        {
+          "name": "Lucy and Her Pals",
+          "url": "https://open.spotify.com/artist/5NLrUBxk4nUxfSPIIolh6J"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 126600,
+      "name": "Jelly on a Plate",
+      "url": "https://open.spotify.com/track/2boYf56YYXMxqLPu0ZMK6l"
+    },
+    {
+      "album": {
+        "name": "Song Time",
+        "url": "https://open.spotify.com/album/1r8aZcuQ83GGK2FlFpu6JE"
+      },
+      "artists": [
+        {
+          "name": "Pre-Teens",
+          "url": "https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 126693,
+      "name": "Jelly On A Plate",
+      "url": "https://open.spotify.com/track/76urTUQpOsUmi9nM8fqI5y"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday Travis",
+        "url": "https://open.spotify.com/album/40EzyLoHEobRZgEBFmJxzg"
+      },
+      "artists": [
+        {
+          "name": "The Birthday Bunch",
+          "url": "https://open.spotify.com/artist/0DLUrbFqDNVA1G5c3Dq3Ot"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 126253,
+      "name": "Jelly On A Plate",
+      "url": "https://open.spotify.com/track/343RCyqoTAPfdqRDjY1sVw"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kids Collection",
+        "url": "https://open.spotify.com/album/5iiEm8Wg3dkoLk9rI9bxBf"
+      },
+      "artists": [
+        {
+          "name": "The Kids Band",
+          "url": "https://open.spotify.com/artist/06Hm0MteCKQgT0fkP1iJyz"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127226,
+      "name": "Jelly On A Plate",
+      "url": "https://open.spotify.com/track/5V2sffHrOaupHL5gZ7IJaR"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz"
+      },
+      "artists": [
+        {
+          "name": "Dad Jokes Duo",
+          "url": "https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Ketchup(I like it, I love it)",
+      "url": "https://open.spotify.com/track/7GhPe9v9lvnNdug8aLYCLO"
+    },
+    {
+      "album": {
+        "name": "Celebrate This!",
+        "url": "https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        },
+        {
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/7chNNfvkeVylUbmpQHzfxf"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169942,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/6OoxPCCi2pICdzt4GngJMd"
+    },
+    {
+      "album": {
+        "name": "Action Songs Vol 2",
+        "url": "https://open.spotify.com/album/5Mloni5mCWqcmzf1gQMZiD"
+      },
+      "artists": [
+        {
+          "name": "Tumble Tots",
+          "url": "https://open.spotify.com/artist/0NcZOCgglyAmOdkiM9kQuv"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47546,
+      "name": "Little Green Apple",
+      "url": "https://open.spotify.com/track/2oW9kxPzj1GlvAxUHOHFS0"
+    },
+    {
+      "album": {
+        "name": "Best Of GoNoodle",
+        "url": "https://open.spotify.com/album/17qQDHKvpjpMkeZzLgxRrt"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Blazer Fresh",
+          "url": "https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80640,
+      "name": "Lunch",
+      "url": "https://open.spotify.com/track/2Y8khnYHrjO4RRXpIc87B5"
+    },
+    {
+      "album": {
+        "name": "Lunch",
+        "url": "https://open.spotify.com/album/4rkPHA48e9sUAzCd5JddlH"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Blazer Fresh",
+          "url": "https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80648,
+      "name": "Lunch",
+      "url": "https://open.spotify.com/track/5PG7oWzJJzIN3pvSS5a23n"
+    },
+    {
+      "album": {
+        "name": "Barbie Dream Jobs",
+        "url": "https://open.spotify.com/album/185HaDUdT8Sc5Z7lZzfjPR"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164682,
+      "name": "Magic in the Kitchen",
+      "url": "https://open.spotify.com/track/6v1RtJ5VS8ePyjhSVwOrSB"
+    },
+    {
+      "album": {
+        "name": "Make Myself a Sandwich",
+        "url": "https://open.spotify.com/album/2wcUoqPjlN114GYgbsAyTS"
+      },
+      "artists": [
+        {
+          "name": "Kath Bee",
+          "url": "https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 90641,
+      "name": "Make Myself a Sandwich",
+      "url": "https://open.spotify.com/track/0t9UE0H8cOcrGPaevrJVMu"
+    },
+    {
+      "album": {
+        "name": "Something for Everyone",
+        "url": "https://open.spotify.com/album/3c7lnfv4Ef3Y36UtgB4cHr"
+      },
+      "artists": [
+        {
+          "name": "Kath Bee",
+          "url": "https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90641,
+      "name": "Make Myself a Sandwich",
+      "url": "https://open.spotify.com/track/531PgCduOcdsUG50I1cnBw"
+    },
+    {
+      "album": {
+        "name": "Falu's Bazaar",
+        "url": "https://open.spotify.com/album/3wy3vxrfLLj3LtqORejl5o"
+      },
+      "artists": [
+        {
+          "name": "Falu",
+          "url": "https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152293,
+      "name": "Masala",
+      "url": "https://open.spotify.com/track/56FzilJIcpwZlq4cdk5D0C"
+    },
+    {
+      "album": {
+        "name": "Rock 'N' Roll Rodeo",
+        "url": "https://open.spotify.com/album/5B39MS8rewRPrAflhHMV0Q"
+      },
+      "artists": [
+        {
+          "name": "Roger Day",
+          "url": "https://open.spotify.com/artist/3BlEAcxGIkLA1pDys9rrDG"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160133,
+      "name": "Mosquito Burrito",
+      "url": "https://open.spotify.com/track/7qGckqbTTpjwL1GKHkLvma"
+    },
+    {
+      "album": {
+        "name": "Juice Box Heroes",
+        "url": "https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129186,
+      "name": "My Favorite Snack",
+      "url": "https://open.spotify.com/track/27FtRxsXJxxzuxYMC4eJo4"
+    },
+    {
+      "album": {
+        "name": "Good Ideas",
+        "url": "https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 129306,
+      "name": "My Favorite Snack",
+      "url": "https://open.spotify.com/track/16fs8Zn53hURmvswqPxHOc"
+    },
+    {
+      "album": {
+        "name": "Good Ideas",
+        "url": "https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 129306,
+      "name": "My Favorite Snack",
+      "url": "https://open.spotify.com/track/1zrcMESKYFeSVq7uwhBp8F"
+    },
+    {
+      "album": {
+        "name": "Old MacDonald Had a Farm (Food) [Learn About Food]",
+        "url": "https://open.spotify.com/album/3kxQPp0AQ3RbjHxH59yL98"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188918,
+      "name": "Old MacDonald Had a Farm (Food) - Learn About Food",
+      "url": "https://open.spotify.com/track/0ZGl2nD1EI9F0bjtJmAlea"
+    },
+    {
+      "album": {
+        "name": "Silly Songs",
+        "url": "https://open.spotify.com/album/6iTWkkheOlwhgY3m6Hxfuw"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78187,
+      "name": "On Top of My Pizza",
+      "url": "https://open.spotify.com/track/1afC9aSaTDAFNy460oDnuK"
+    },
+    {
+      "album": {
+        "name": "What's Cooking in the Kitchen (Songs about Food)",
+        "url": "https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 78187,
+      "name": "On Top of My Pizza",
+      "url": "https://open.spotify.com/track/5X6pkTV4V1pGFNHlfdPKA2"
+    },
+    {
+      "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+      },
+      "artists": [
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75010,
+      "name": "Pancakes & Syrup",
+      "url": "https://open.spotify.com/track/4nD4eWwuScEH9Vrr6gkPk0"
+    },
+    {
+      "album": {
+        "name": "Yo Gabba Gabba! Music Is Awesome: Vol. 4",
+        "url": "https://open.spotify.com/album/3TmM9wQILguHtXEsfr2P7K"
+      },
+      "artists": [
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 77000,
+      "name": "Pancakes & Syrup",
+      "url": "https://open.spotify.com/track/2NssBRRlKbgjELixQfRCga"
+    },
+    {
+      "album": {
+        "name": "Forest Friends' Nature Club Album",
+        "url": "https://open.spotify.com/album/6e79AwZQO9nJYq6qb7SL16"
+      },
+      "artists": [
+        {
+          "name": "Ginalina",
+          "url": "https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98733,
+      "name": "Pancakes for Breakfast",
+      "url": "https://open.spotify.com/track/7kRTWwrPgRCtwftX2oTRF4"
+    },
+    {
+      "album": {
+        "name": "Kids Songs! Fun Children's Music from Sesame Street, Phineas and Ferb and More!",
+        "url": "https://open.spotify.com/album/30CMD4AQlK6F83q96ntZA7"
+      },
+      "artists": [
+        {
+          "name": "The Montreal Children's Workshop",
+          "url": "https://open.spotify.com/artist/0NAOoExRWvbLIrFuPzMz5x"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142132,
+      "name": "Pat-a-Cake, Pat-a-Cake",
+      "url": "https://open.spotify.com/track/5W3cEk3UQTFeq9Tl4hrpAX"
+    },
+    {
+      "album": {
+        "name": "You Could Draw the Album Art!",
+        "url": "https://open.spotify.com/album/6fAkgy3mHYCHSIuLqacj82"
+      },
+      "artists": [
+        {
+          "name": "Ants on a Log",
+          "url": "https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 96053,
+      "name": "Pickles and Olives",
+      "url": "https://open.spotify.com/track/0wnwuYYSJZeuwjwwfDlQX4"
+    },
+    {
+      "album": {
+        "name": "You Could Draw the Album Art!",
+        "url": "https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw"
+      },
+      "artists": [
+        {
+          "name": "Ants on a Log",
+          "url": "https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96053,
+      "name": "Pickles and Olives",
+      "url": "https://open.spotify.com/track/34l6oJ7decqSfWF1cXss9C"
+    },
+    {
+      "album": {
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/4itSGSv8rIQLUjvv9CC5kd"
+      },
+      "artists": [
+        {
+          "name": "fleaBITE",
+          "url": "https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW"
+        },
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161133,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb"
+    },
+    {
+      "album": {
+        "name": "Snakes Alive (It's Fleabite 5)",
+        "url": "https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w"
+      },
+      "artists": [
+        {
+          "name": "fleaBITE",
+          "url": "https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW"
+        },
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 162248,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/391UWftWHqUopTUSkBm8zS"
+    },
+    {
+      "album": {
+        "name": "Snakes Alive - It's Fleabite 5",
+        "url": "https://open.spotify.com/album/5b6LTHNXt41OWI6f8JlOhT"
+      },
+      "artists": [
+        {
+          "name": "fleaBITE",
+          "url": "https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW"
+        },
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162248,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/6uTZBOLjGcq1YfhrQqx9Uk"
+    },
+    {
+      "album": {
+        "name": "John Mulaney & The Sack Lunch Bunch",
+        "url": "https://open.spotify.com/album/6voftk1KiRATintCChjvrW"
+      },
+      "artists": [
+        {
+          "name": "Orson Hong",
+          "url": "https://open.spotify.com/artist/4fOfG0cFnoMOqoF41egcYh"
+        },
+        {
+          "name": "The Sack Lunch Bunch",
+          "url": "https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Plain Plate Of Noodles",
+      "url": "https://open.spotify.com/track/14PayGOujnGIj6g4oG7v5i"
+    },
+    {
+      "album": {
+        "name": "John Mulaney & The Sack Lunch Bunch",
+        "url": "https://open.spotify.com/album/5as2GZU6iCKTHhMmVjqu4J"
+      },
+      "artists": [
+        {
+          "name": "Orson Hong",
+          "url": "https://open.spotify.com/artist/4fOfG0cFnoMOqoF41egcYh"
+        },
+        {
+          "name": "The Sack Lunch Bunch",
+          "url": "https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169973,
+      "name": "Plain Plate Of Noodles",
+      "url": "https://open.spotify.com/track/5Dylc4N929pK4WPgu0roRL"
+    },
+    {
+      "album": {
+        "name": "Falu's Bazaar",
+        "url": "https://open.spotify.com/album/3wy3vxrfLLj3LtqORejl5o"
+      },
+      "artists": [
+        {
+          "name": "Falu",
+          "url": "https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Pots and Pans",
+      "url": "https://open.spotify.com/track/5g5ehzNPVKsnboOu4DJwQ9"
+    },
+    {
+      "album": {
+        "name": "Parry Gripp Mega-Party (2008 - 2012)",
+        "url": "https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW"
+      },
+      "artists": [
+        {
+          "name": "Parry Gripp",
+          "url": "https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92693,
+      "name": "Raining Tacos",
+      "url": "https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 5: Exploring the World",
+        "url": "https://open.spotify.com/album/0qqCf7BPth3LnZHHPgJDPb"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Raspberry Song",
+      "url": "https://open.spotify.com/track/0chjU4hjfdQpTBrhyIsIZc"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 5: Exploring the World",
+        "url": "https://open.spotify.com/album/0oD1lSc3IQ2Zm8RFxgsX9O"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 132857,
+      "name": "Raspberry Song",
+      "url": "https://open.spotify.com/track/7jGM3TET9AgzYmB6ZIZD7y"
+    },
+    {
+      "album": {
+        "name": "Camp Songs",
+        "url": "https://open.spotify.com/album/6jAORO3gxxzExm1uOun6pO"
+      },
+      "artists": [
+        {
+          "name": "Peter Pan Pixie Players",
+          "url": "https://open.spotify.com/artist/46RxbP26waBNQAZ0gMkbCy"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90026,
+      "name": "Ravioli",
+      "url": "https://open.spotify.com/track/2NasF1zem8WKWM91S7x638"
+    },
+    {
+      "album": {
+        "name": "Camp Songs Sing-Along",
+        "url": "https://open.spotify.com/album/2z9ZODQ0BSXOP8UvZfpSuM"
+      },
+      "artists": [
+        {
+          "name": "Peter Pan Pixie Players",
+          "url": "https://open.spotify.com/artist/46RxbP26waBNQAZ0gMkbCy"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 90027,
+      "name": "Ravioli",
+      "url": "https://open.spotify.com/track/65eS4oAu6yXGtwsDRvcohB"
+    },
+    {
+      "album": {
+        "name": "Play Music",
+        "url": "https://open.spotify.com/album/29CsPLDKBk60dQifzVyB7a"
+      },
+      "artists": [
+        {
+          "name": "The Relative Minors",
+          "url": "https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250125,
+      "name": "Sandwich",
+      "url": "https://open.spotify.com/track/4iZILFHUOUY1G2B6mfhLKD"
+    },
+    {
+      "album": {
+        "name": "Barney Rocks",
+        "url": "https://open.spotify.com/album/5FH0wG5KbpeV8JwgKYWkI1"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 94130,
+      "name": "Sour Pickle Face",
+      "url": "https://open.spotify.com/track/2PvjgL2IjeOaw0gDo4brix"
+    },
+    {
+      "album": {
+        "name": "Barney Rocks!",
+        "url": "https://open.spotify.com/album/2smtpdsWQdu87DNcNC1xCw"
+      },
+      "artists": [
+        {
+          "name": "Barney",
+          "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94133,
+      "name": "Sour Pickle Face",
+      "url": "https://open.spotify.com/track/4TGEiXt5kJ0zUUJNpzuShL"
+    },
+    {
+      "album": {
+        "name": "Spaghetti",
+        "url": "https://open.spotify.com/album/34fa3FJWn3ug7ENXWAW1jd"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 141554,
+      "name": "Spaghetti",
+      "url": "https://open.spotify.com/track/1f14ookpbCXEivVZh8lDPs"
+    },
+    {
+      "album": {
+        "name": "Noise Factory",
+        "url": "https://open.spotify.com/album/7JrqM06vRbzoibxelpYD0r"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141554,
+      "name": "Spaghetti",
+      "url": "https://open.spotify.com/track/4QPQCoe4wGp5rYyxxSl6ut"
+    },
+    {
+      "album": {
+        "name": "Spaghetti",
+        "url": "https://open.spotify.com/album/2BpQGMFgXHLvPMThHo6yhW"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141554,
+      "name": "Spaghetti",
+      "url": "https://open.spotify.com/track/626Mh4uvliKUsCq0Yostte"
+    },
+    {
+      "album": {
+        "name": "Sushi Roll",
+        "url": "https://open.spotify.com/album/5L5Y7ngh1DNrgg7lYFF7HN"
+      },
+      "artists": [
+        {
+          "name": "Will's Jams",
+          "url": "https://open.spotify.com/artist/0bLuwS5s9quZsZYfBt3xdm"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182504,
+      "name": "Sushi Roll",
+      "url": "https://open.spotify.com/track/35kJF3E3yurBUizPJE310X"
+    },
+    {
+      "album": {
+        "name": "Children's Party Time",
+        "url": "https://open.spotify.com/album/6mnOxMPxDfMOs7YQJsh1kV"
+      },
+      "artists": [
+        {
+          "name": "Lucy and Her Pals",
+          "url": "https://open.spotify.com/artist/5NLrUBxk4nUxfSPIIolh6J"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84506,
+      "name": "Ten Fat Sausages",
+      "url": "https://open.spotify.com/track/6zUcwVZTbzbwbJE42mW6ke"
+    },
+    {
+      "album": {
+        "name": "Childrens Classic Nursery Rhymes",
+        "url": "https://open.spotify.com/album/1Pcqs639EaQ9oNWzpUhX8O"
+      },
+      "artists": [
+        {
+          "name": "New Tribute Kings",
+          "url": "https://open.spotify.com/artist/4mNfOTm9TO3w8v3TIzaNZ7"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 81432,
+      "name": "Ten Fat Sausages - Tribute Version",
+      "url": "https://open.spotify.com/track/4ncKWuessv3E76X1nMtIlX"
+    },
+    {
+      "album": {
+        "name": "Walk off the Earth & Romeo Eats, Vol. 1",
+        "url": "https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124338,
+      "name": "The Avocado Song",
+      "url": "https://open.spotify.com/track/7iqvladgrcQPGX1Ky5qeFr"
+    },
+    {
+      "album": {
+        "name": "The Broccoli Song",
+        "url": "https://open.spotify.com/album/6zJWNXIO7IKmlStR3EaS3D"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145468,
+      "name": "The Broccoli Song",
+      "url": "https://open.spotify.com/track/70kjwtJTTvHYg7vGrUxIgz"
+    },
+    {
+      "album": {
+        "name": "The Jackfruit Song",
+        "url": "https://open.spotify.com/album/7FpIebCGpeEGB8WoiWEywF"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139643,
+      "name": "The Jackfruit Song",
+      "url": "https://open.spotify.com/track/73FuPPW3RJQCXX7bpZoWfD"
+    },
+    {
+      "album": {
+        "name": "Walk off the Earth & Romeo Eats, Vol. 2",
+        "url": "https://open.spotify.com/album/6oUdTAKoVFhdHxXBma5Roe"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155711,
+      "name": "The Kiwi Song",
+      "url": "https://open.spotify.com/track/5UbMhVgUZGs9XpoIa7jQbl"
+    },
+    {
+      "album": {
+        "name": "The Pomelo Song",
+        "url": "https://open.spotify.com/album/7xPNHLCIel8X9XKm1RCmpN"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        },
+        {
+          "name": "Myles Erlick",
+          "url": "https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153150,
+      "name": "The Pomelo Song",
+      "url": "https://open.spotify.com/track/4DK1US7CPOkAa3uNiUPHEv"
+    },
+    {
+      "album": {
+        "name": "Walk off the Earth & Romeo Eats, Vol. 1",
+        "url": "https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163212,
+      "name": "The Sushi Song",
+      "url": "https://open.spotify.com/track/73JULBVnVxfA0BEhpFgyI0"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Food Songs",
+        "url": "https://open.spotify.com/album/1wQoxA5ERdJj7VNn25amOO"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120013,
+      "name": "The Valley Of Vegetables",
+      "url": "https://open.spotify.com/track/4a1U1EV6PCmnXL4DcLCnM8"
+    },
+    {
+      "album": {
+        "name": "Around the World with Baby Shark (Part 1-2)",
+        "url": "https://open.spotify.com/album/4NwevgCp4AsuzC05eEgHW2"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91812,
+      "name": "The World Food Cook-Off",
+      "url": "https://open.spotify.com/track/14gNGHNkQJgtvDkgc6rNfj"
+    },
+    {
+      "album": {
+        "name": "Time To Eat",
+        "url": "https://open.spotify.com/album/6mnhHmyuS8dZtSEuTjoUu7"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95868,
+      "name": "Time To Eat",
+      "url": "https://open.spotify.com/track/2J2hDDcafkw4EVQmGNpcAx"
+    },
+    {
+      "album": {
+        "name": "Daniel Tiger's Neighborhood: Life's Little Lessons",
+        "url": "https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62855,
+      "name": "Try a New Food, It Might Taste Good!",
+      "url": "https://open.spotify.com/track/2f6XgxjybNg1sz8haqiBaf"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 4",
+        "url": "https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140810,
+      "name": "Trying New Foods",
+      "url": "https://open.spotify.com/track/7Go2RKeKgTkwhZ7i2r931R"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams Vol. 4",
+        "url": "https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 140810,
+      "name": "Trying New Foods",
+      "url": "https://open.spotify.com/track/7KlXmSL2CAk3qGBxUjqOyc"
+    },
+    {
+      "album": {
+        "name": "Colors All Around",
+        "url": "https://open.spotify.com/album/3WgxrZri112sDeqa4Coxhm"
+      },
+      "artists": [
+        {
+          "name": "Ants Ants Ants",
+          "url": "https://open.spotify.com/artist/4X7iw0NoPQ1qL5XszCEAuf"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171084,
+      "name": "Vegetables",
+      "url": "https://open.spotify.com/track/6NjcUbybxOPUYwhIe6h12g"
+    },
+    {
+      "album": {
+        "name": "Vegetables Are Funky",
+        "url": "https://open.spotify.com/album/2AbOfnVI5f2mHw56HRjPrL"
+      },
+      "artists": [
+        {
+          "name": "The Vegetable Plot",
+          "url": "https://open.spotify.com/artist/25obYieOVBceEUnI5t5Jih"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185482,
+      "name": "Vegetables Are Funky",
+      "url": "https://open.spotify.com/track/1g5juy1l75wUGVmj70zTTu"
+    },
+    {
+      "album": {
+        "name": "Vegetables Are Funky",
+        "url": "https://open.spotify.com/album/3qXHFQDkLyPhw73sNoQCfE"
+      },
+      "artists": [
+        {
+          "name": "The Vegetable Plot",
+          "url": "https://open.spotify.com/artist/25obYieOVBceEUnI5t5Jih"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185482,
+      "name": "Vegetables Are Funky",
+      "url": "https://open.spotify.com/track/5Yoyp3Kk7Vi0eex0mZ9FlO"
+    },
+    {
+      "album": {
+        "name": "Vegetables Song (So Yummy!)",
+        "url": "https://open.spotify.com/album/1Uw6aLGnR2PxKtoHjTbwr2"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Vegetables Song (So Yummy!)",
+      "url": "https://open.spotify.com/track/12fJJHu9yLx6yoZpjFJ4SH"
+    },
+    {
+      "album": {
+        "name": "Ponderosa Bunchgrass and the Golden Rule",
+        "url": "https://open.spotify.com/album/4KLLD8QW7MrYVJpMlObyg9"
+      },
+      "artists": [
+        {
+          "name": "The Oot n' oots",
+          "url": "https://open.spotify.com/artist/4r7I9e1YST7G7EY8C2qnoK"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164498,
+      "name": "Waffles",
+      "url": "https://open.spotify.com/track/347yFXMIblbOAkkfC7OAGk"
+    },
+    {
+      "album": {
+        "name": "A Little Day out with Justine Clarke",
+        "url": "https://open.spotify.com/album/3RTfwpWXI9I3pu8MN1Tufb"
+      },
+      "artists": [
+        {
+          "name": "Justine Clarke",
+          "url": "https://open.spotify.com/artist/1r6nvWvnqJYcm8kW3cX1zQ"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/37tRXGwViDLyJPl1dY3Za5"
+    },
+    {
+      "album": {
+        "name": "Little Day Out",
+        "url": "https://open.spotify.com/album/58okeqCzf72cBXDX701j3E"
+      },
+      "artists": [
+        {
+          "name": "Justine Clarke",
+          "url": "https://open.spotify.com/artist/1r6nvWvnqJYcm8kW3cX1zQ"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156933,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/4zR7Vs5v3AmgBrO9fEoSs2"
+    },
+    {
+      "album": {
+        "name": "Songs to Sing at Children",
+        "url": "https://open.spotify.com/album/58SHDR5ORDlCe909wOZeD8"
+      },
+      "artists": [
+        {
+          "name": "Mike Phirman",
+          "url": "https://open.spotify.com/artist/4RXwlvGvt3VjfVJjVIFQTJ"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "What Makes the Breakfast?",
+      "url": "https://open.spotify.com/track/5SAonAPaOCBYgFyCT15I9l"
+    },
+    {
+      "album": {
+        "name": "Juice Box Heroes",
+        "url": "https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159173,
+      "name": "What's in the Fridge?",
+      "url": "https://open.spotify.com/track/5v98IgrNgXgIdg8P3BRdKh"
+    },
+    {
+      "album": {
+        "name": "Around the World with Baby Shark (Part 1-2)",
+        "url": "https://open.spotify.com/album/4NwevgCp4AsuzC05eEgHW2"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71000,
+      "name": "World Street Foods",
+      "url": "https://open.spotify.com/track/1h5W5q7gXZhgQw5XsmDAup"
+    },
+    {
+      "album": {
+        "name": "Baby Shark's Day at Home (Pt. 1)",
+        "url": "https://open.spotify.com/album/4JjYP7VLNu3djlEDBLgetx"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66888,
+      "name": "Yummy Yum Breakfast!",
+      "url": "https://open.spotify.com/track/2GGzYIBdnE5gHKZt3BKHCy"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcB9sN6ZkZ58"
 }

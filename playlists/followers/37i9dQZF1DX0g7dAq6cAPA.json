@@ -1,494 +1,1613 @@
 {
-  "2022-08-24": 14099,
-  "2022-08-25": 14154,
-  "2022-08-26": 14208,
-  "2022-08-27": 14246,
-  "2022-08-28": 14302,
-  "2022-08-29": 14353,
-  "2022-08-30": 14385,
-  "2022-08-31": 14429,
-  "2022-09-01": 14440,
-  "2022-09-02": 14486,
-  "2022-09-03": 14520,
-  "2022-09-04": 14534,
-  "2022-09-05": 14583,
-  "2022-09-06": 14624,
-  "2022-09-07": 14666,
-  "2022-09-09": 14772,
-  "2022-09-10": 14810,
-  "2022-09-11": 14861,
-  "2022-09-12": 14894,
-  "2022-09-13": 14934,
-  "2022-09-15": 15004,
-  "2022-09-16": 15034,
-  "2022-09-17": 15077,
-  "2022-09-18": 15123,
-  "2022-09-19": 15164,
-  "2022-09-20": 15194,
-  "2022-09-21": 15237,
-  "2022-09-22": 15272,
-  "2022-09-23": 15314,
-  "2022-09-24": 15372,
-  "2022-09-25": 15422,
-  "2022-09-26": 15476,
-  "2022-09-27": 15527,
-  "2022-09-28": 15583,
-  "2022-09-29": 15641,
-  "2022-09-30": 15688,
-  "2022-10-01": 15736,
-  "2022-10-02": 15779,
-  "2022-10-03": 15824,
-  "2022-10-04": 15858,
-  "2022-10-05": 15900,
-  "2022-10-06": 15950,
-  "2022-10-07": 15991,
-  "2022-10-08": 16026,
-  "2022-10-09": 16135,
-  "2022-10-10": 16145,
-  "2022-10-11": 16192,
-  "2022-10-12": 16251,
-  "2022-10-13": 16307,
-  "2022-10-14": 16361,
-  "2022-10-15": 16402,
-  "2022-10-16": 16455,
-  "2022-10-17": 16503,
-  "2022-10-18": 16558,
-  "2022-10-19": 16596,
-  "2022-10-20": 16621,
-  "2022-10-21": 16664,
-  "2022-10-22": 16698,
-  "2022-10-23": 16717,
-  "2022-10-24": 16758,
-  "2022-10-25": 16810,
-  "2022-10-26": 16840,
-  "2022-10-27": 16869,
-  "2022-10-28": 16901,
-  "2022-10-29": 16929,
-  "2022-10-30": 16958,
-  "2022-10-31": 16975,
-  "2022-11-01": 16999,
-  "2022-11-02": 17022,
-  "2022-11-03": 17053,
-  "2022-11-04": 17094,
-  "2022-11-05": 17127,
-  "2022-11-06": 17174,
-  "2022-11-07": 17218,
-  "2022-11-08": 17255,
-  "2022-11-09": 17297,
-  "2022-11-10": 17333,
-  "2022-11-11": 17366,
-  "2022-11-12": 17444,
-  "2022-11-13": 17488,
-  "2022-11-14": 17542,
-  "2022-11-15": 17594,
-  "2022-11-16": 17629,
-  "2022-11-17": 17673,
-  "2022-11-18": 17684,
-  "2022-11-19": 17674,
-  "2022-11-20": 17675,
-  "2022-11-21": 17699,
-  "2022-11-22": 17806,
-  "2022-11-23": 17794,
-  "2022-11-24": 17899,
-  "2022-11-25": 17953,
-  "2022-11-26": 17995,
-  "2022-11-27": 18056,
-  "2022-11-28": 18106,
-  "2022-11-29": 18150,
-  "2022-11-30": 18185,
-  "2022-12-01": 18233,
-  "2022-12-02": 18251,
-  "2022-12-03": 18313,
-  "2022-12-04": 18376,
-  "2022-12-05": 18432,
-  "2022-12-06": 18480,
-  "2022-12-07": 18530,
-  "2022-12-08": 18570,
-  "2022-12-09": 18617,
-  "2022-12-10": 18654,
-  "2022-12-11": 18684,
-  "2022-12-12": 18721,
-  "2022-12-13": 18757,
-  "2022-12-14": 18796,
-  "2022-12-15": 18832,
-  "2022-12-16": 18870,
-  "2022-12-17": 18905,
-  "2022-12-18": 18955,
-  "2022-12-19": 18987,
-  "2022-12-20": 19043,
-  "2022-12-21": 19043,
-  "2022-12-22": 19076,
-  "2022-12-24": 19124,
-  "2022-12-25": 19158,
-  "2022-12-26": 19183,
-  "2022-12-27": 19221,
-  "2022-12-28": 19250,
-  "2022-12-29": 19272,
-  "2022-12-30": 19323,
-  "2022-12-31": 19360,
-  "2023-01-01": 19402,
-  "2023-01-02": 19446,
-  "2023-01-03": 19484,
-  "2023-01-04": 19521,
-  "2023-01-05": 19546,
-  "2023-01-06": 19605,
-  "2023-01-07": 19681,
-  "2023-01-08": 19687,
-  "2023-01-09": 19723,
-  "2023-01-10": 19760,
-  "2023-01-11": 19793,
-  "2023-01-12": 19843,
-  "2023-01-13": 19877,
-  "2023-01-14": 19949,
-  "2023-01-15": 19957,
-  "2023-01-16": 19996,
-  "2023-01-17": 20022,
-  "2023-01-18": 20045,
-  "2023-01-19": 20072,
-  "2023-01-20": 20104,
-  "2023-01-21": 20135,
-  "2023-01-22": 20159,
-  "2023-01-23": 20194,
-  "2023-01-24": 20244,
-  "2023-01-25": 20277,
-  "2023-01-26": 20323,
-  "2023-01-27": 20338,
-  "2023-01-28": 20381,
-  "2023-01-29": 20423,
-  "2023-01-30": 20452,
-  "2023-01-31": 20452,
-  "2023-02-01": 20514,
-  "2023-02-02": 20541,
-  "2023-02-03": 20572,
-  "2023-02-04": 20603,
-  "2023-02-05": 20648,
-  "2023-02-06": 20694,
-  "2023-02-07": 20721,
-  "2023-02-08": 20785,
-  "2023-02-09": 20785,
-  "2023-02-10": 20821,
-  "2023-02-11": 20842,
-  "2023-02-12": 20901,
-  "2023-02-13": 20937,
-  "2023-02-14": 20937,
-  "2023-02-15": 20969,
-  "2023-02-16": 21011,
-  "2023-02-17": 21050,
-  "2023-02-18": 21105,
-  "2023-02-19": 21116,
-  "2023-02-20": 21136,
-  "2023-02-21": 21172,
-  "2023-02-22": 21198,
-  "2023-02-23": 21233,
-  "2023-02-24": 21255,
-  "2023-02-25": 21310,
-  "2023-02-26": 21330,
-  "2023-02-27": 21386,
-  "2023-02-28": 21386,
-  "2023-03-01": 21418,
-  "2023-03-02": 21455,
-  "2023-03-03": 21489,
-  "2023-03-04": 21516,
-  "2023-03-05": 21569,
-  "2023-03-06": 21569,
-  "2023-03-07": 21589,
-  "2023-03-08": 21621,
-  "2023-03-09": 21646,
-  "2023-03-10": 21688,
-  "2023-03-11": 21712,
-  "2023-03-12": 21760,
-  "2023-03-13": 21858,
-  "2023-03-14": 21917,
-  "2023-03-15": 21961,
-  "2023-03-16": 22016,
-  "2023-03-17": 22016,
-  "2023-03-18": 22126,
-  "2023-03-19": 22194,
-  "2023-03-20": 22261,
-  "2023-03-21": 22325,
-  "2023-03-22": 22379,
-  "2023-03-23": 22433,
-  "2023-03-24": 22433,
-  "2023-03-25": 22556,
-  "2023-03-26": 22638,
-  "2023-03-27": 22703,
-  "2023-03-28": 22765,
-  "2023-03-29": 22825,
-  "2023-03-30": 22953,
-  "2023-03-31": 22953,
-  "2023-04-01": 23001,
-  "2023-04-02": 23041,
-  "2023-04-03": 23098,
-  "2023-04-04": 23158,
-  "2023-04-05": 23208,
-  "2023-04-06": 23270,
-  "2023-04-07": 23321,
-  "2023-04-09": 23439,
-  "2023-04-10": 23486,
-  "2023-04-11": 23596,
-  "2023-04-12": 23596,
-  "2023-04-13": 23660,
-  "2023-04-14": 23726,
-  "2023-04-15": 23770,
-  "2023-04-16": 23861,
-  "2023-04-17": 23933,
-  "2023-04-18": 23984,
-  "2023-04-19": 24053,
-  "2023-04-20": 24107,
-  "2023-04-21": 24158,
-  "2023-04-22": 24209,
-  "2023-04-23": 24240,
-  "2023-04-24": 24310,
-  "2023-04-25": 24365,
-  "2023-04-26": 24419,
-  "2023-04-27": 24478,
-  "2023-04-28": 24511,
-  "2023-04-29": 24551,
-  "2023-04-30": 24602,
-  "2023-05-01": 24655,
-  "2023-05-02": 24733,
-  "2023-05-03": 24817,
-  "2023-05-04": 24898,
-  "2023-05-05": 24966,
-  "2023-05-06": 25017,
-  "2023-05-07": 25083,
-  "2023-05-08": 25111,
-  "2023-05-09": 25155,
-  "2023-05-10": 25195,
-  "2023-05-11": 25226,
-  "2023-05-12": 25273,
-  "2023-05-13": 25305,
-  "2023-05-14": 25340,
-  "2023-05-15": 25396,
-  "2023-05-16": 25446,
-  "2023-05-17": 25515,
-  "2023-05-18": 25573,
-  "2023-05-19": 25642,
-  "2023-05-20": 25753,
-  "2023-05-21": 25753,
-  "2023-05-22": 25753,
-  "2023-05-23": 25855,
-  "2023-05-24": 25967,
-  "2023-05-25": 25981,
-  "2023-05-26": 26028,
-  "2023-05-27": 26083,
-  "2023-05-28": 26134,
-  "2023-05-29": 26134,
-  "2023-05-30": 26236,
-  "2023-05-31": 26289,
-  "2023-06-01": 26329,
-  "2023-06-02": 26363,
-  "2023-06-03": 26403,
-  "2023-06-04": 26455,
-  "2023-06-05": 26510,
-  "2023-06-06": 26554,
-  "2023-06-07": 26609,
-  "2023-06-08": 26635,
-  "2023-06-09": 26676,
-  "2023-06-10": 26709,
-  "2023-06-11": 26748,
-  "2023-06-12": 26821,
-  "2023-06-13": 26873,
-  "2023-06-14": 26919,
-  "2023-06-15": 26960,
-  "2023-06-16": 27019,
-  "2023-06-17": 27060,
-  "2023-06-18": 27100,
-  "2023-06-19": 27136,
-  "2023-06-20": 27166,
-  "2023-06-21": 27205,
-  "2023-06-22": 27265,
-  "2023-06-23": 27311,
-  "2023-06-24": 27364,
-  "2023-06-25": 27410,
-  "2023-06-26": 27461,
-  "2023-06-27": 27513,
-  "2023-06-28": 27547,
-  "2023-06-29": 27579,
-  "2023-06-30": 27619,
-  "2023-07-01": 27726,
-  "2023-07-02": 27726,
-  "2023-07-03": 27761,
-  "2023-07-04": 27813,
-  "2023-07-05": 27874,
-  "2023-07-06": 27999,
-  "2023-07-07": 27999,
-  "2023-07-08": 28052,
-  "2023-07-09": 28095,
-  "2023-07-10": 28131,
-  "2023-07-11": 28177,
-  "2023-07-12": 28217,
-  "2023-07-13": 28267,
-  "2023-07-14": 28312,
-  "2023-07-15": 28334,
-  "2023-07-16": 28379,
-  "2023-07-17": 28433,
-  "2023-07-18": 28510,
-  "2023-07-19": 28558,
-  "2023-07-20": 28601,
-  "2023-07-21": 28652,
-  "2023-07-22": 28693,
-  "2023-07-23": 28735,
-  "2023-07-24": 28787,
-  "2023-07-25": 28825,
-  "2023-07-26": 28879,
-  "2023-07-27": 28921,
-  "2023-07-28": 28987,
-  "2023-07-29": 29037,
-  "2023-07-30": 29070,
-  "2023-07-31": 29127,
-  "2023-08-01": 29161,
-  "2023-08-02": 29201,
-  "2023-08-03": 29262,
-  "2023-08-04": 29301,
-  "2023-08-05": 29337,
-  "2023-08-06": 29454,
-  "2023-08-07": 29454,
-  "2023-08-08": 29521,
-  "2023-08-09": 29564,
-  "2023-08-10": 29623,
-  "2023-08-11": 29664,
-  "2023-08-12": 29715,
-  "2023-08-13": 29779,
-  "2023-08-14": 29858,
-  "2023-08-15": 29965,
-  "2023-08-16": 29965,
-  "2023-08-17": 30015,
-  "2023-08-18": 30066,
-  "2023-08-19": 30116,
-  "2023-08-20": 30152,
-  "2023-08-21": 30199,
-  "2023-08-22": 30245,
-  "2023-08-23": 30307,
-  "2023-08-24": 30362,
-  "2023-08-25": 30427,
-  "2023-08-26": 30489,
-  "2023-08-27": 30549,
-  "2023-08-28": 30599,
-  "2023-08-29": 30656,
-  "2023-08-30": 30716,
-  "2023-08-31": 30801,
-  "2023-09-01": 30894,
-  "2023-09-02": 30894,
-  "2023-09-03": 30921,
-  "2023-09-04": 30962,
-  "2023-09-05": 31002,
-  "2023-09-06": 31031,
-  "2023-09-07": 31073,
-  "2023-09-08": 31104,
-  "2023-09-09": 31145,
-  "2023-09-10": 31184,
-  "2023-09-11": 31249,
-  "2023-09-12": 31311,
-  "2023-09-13": 31355,
-  "2023-09-14": 31398,
-  "2023-09-15": 31457,
-  "2023-09-16": 31515,
-  "2023-09-17": 31571,
-  "2023-09-18": 31638,
-  "2023-09-19": 31702,
-  "2023-09-20": 31742,
-  "2023-09-21": 31790,
-  "2023-09-22": 31823,
-  "2023-09-23": 31872,
-  "2023-09-24": 31927,
-  "2023-09-25": 31975,
-  "2023-09-26": 32020,
-  "2023-09-27": 32061,
-  "2023-09-28": 32091,
-  "2023-09-29": 32137,
-  "2023-09-30": 32172,
-  "2023-10-01": 32225,
-  "2023-10-02": 32252,
-  "2023-10-03": 32269,
-  "2023-10-04": 32310,
-  "2023-10-05": 32345,
-  "2023-10-06": 32374,
-  "2023-10-07": 32412,
-  "2023-10-08": 32449,
-  "2023-10-09": 32488,
-  "2023-10-10": 32516,
-  "2023-10-11": 32595,
-  "2023-10-12": 32595,
-  "2023-10-13": 32636,
-  "2023-10-14": 32683,
-  "2023-10-15": 32713,
-  "2023-10-16": 32754,
-  "2023-10-17": 32802,
-  "2023-10-18": 32829,
-  "2023-10-19": 32869,
-  "2023-10-20": 32909,
-  "2023-10-21": 32937,
-  "2023-10-22": 32972,
-  "2023-10-23": 33017,
-  "2023-10-24": 33056,
-  "2023-10-25": 33080,
-  "2023-10-26": 33118,
-  "2023-10-27": 33153,
-  "2023-10-28": 33195,
-  "2023-10-29": 33248,
-  "2023-10-30": 33324,
-  "2023-10-31": 33324,
-  "2023-11-01": 33352,
-  "2023-11-02": 33389,
-  "2023-11-03": 33417,
-  "2023-11-04": 33458,
-  "2023-11-05": 33505,
-  "2023-11-06": 33547,
-  "2023-11-07": 33585,
-  "2023-11-08": 33634,
-  "2023-11-09": 33671,
-  "2023-11-10": 33699,
-  "2023-11-11": 33743,
-  "2023-11-12": 33776,
-  "2023-11-13": 33812,
-  "2023-11-14": 33849,
-  "2023-11-15": 33849,
-  "2023-11-16": 33920,
-  "2023-11-17": 33991,
-  "2023-11-18": 33991,
-  "2023-11-19": 34035,
-  "2023-11-20": 34072,
-  "2023-11-21": 34105,
-  "2023-11-22": 34142,
-  "2023-11-23": 34175,
-  "2023-11-24": 34222,
-  "2023-11-25": 34267,
-  "2023-11-26": 34307,
-  "2023-11-27": 34343,
-  "2023-11-28": 34379,
-  "2023-11-29": 34470,
-  "2023-11-30": 34470,
-  "2023-12-01": 34526,
-  "2023-12-02": 34564,
-  "2023-12-03": 34605,
-  "2023-12-04": 34654,
-  "2023-12-05": 34695,
-  "2023-12-06": 34729,
-  "2023-12-07": 34751,
-  "2023-12-08": 34797,
-  "2023-12-09": 34836,
-  "2023-12-10": 34887,
-  "2023-12-11": 34931,
-  "2023-12-12": 34984,
-  "2023-12-13": 35030,
-  "2023-12-14": 35090,
-  "2023-12-15": 35118,
-  "2023-12-16": 35166,
-  "2023-12-17": 35204,
-  "2023-12-18": 35249,
-  "2023-12-19": 35287,
-  "2023-12-20": 35330,
-  "2023-12-21": 35393,
-  "2023-12-22": 35433,
-  "2023-12-23": 35478,
-  "2023-12-24": 35537,
-  "2023-12-25": 35569,
-  "2023-12-26": 35613,
-  "2023-12-27": 35673,
-  "2023-12-30": 35832,
-  "2023-12-31": 35875,
-  "2024-01-01": 35920,
-  "2024-01-02": 35968,
-  "2024-01-03": 36019
+  "2024-01-17": 36835,
+  "date_first_scraped": "2022-08-24",
+  "description": "Music From \"Puella Magi Madoka Magica\"! \u97f3\u697d\u3067\u8fbf\u308b\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d\u306e\u4e16\u754c! \u00a9Magica Quartet\uff0fAniplex\u30fbMadoka Movie Project Rebellio",
+  "name": "Puella Magi Madoka Magica -\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab-",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105173,
+      "name": "Agmen clientum",
+      "url": "https://open.spotify.com/track/47XWtz3TMkdqJjbpNvngnG"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121360,
+      "name": "Amicae carae meae",
+      "url": "https://open.spotify.com/track/3DQhOz1jXPsUJs5QGdqsOc"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u6a39\u3055\u3084\u304b (CV:\u559c\u591a\u6751\u82f1\u68a8)",
+          "url": "https://open.spotify.com/artist/36y42taogcR024xS85HIHE"
+        },
+        {
+          "name": "\u4f50\u5009\u674f\u5b50 (CV:\u91ce\u4e2d\u85cd)",
+          "url": "https://open.spotify.com/artist/1VSGTuDTMQZ3aKjlDNVFYH"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169520,
+      "name": "and I'm home -Original Master Version.-",
+      "url": "https://open.spotify.com/track/3n8hAfucrvhw30brcAzRVB"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u6a39\u3055\u3084\u304b (CV:\u559c\u591a\u6751\u82f1\u68a8)",
+          "url": "https://open.spotify.com/artist/36y42taogcR024xS85HIHE"
+        },
+        {
+          "name": "\u4f50\u5009\u674f\u5b50 (CV:\u91ce\u4e2d\u85cd)",
+          "url": "https://open.spotify.com/artist/1VSGTuDTMQZ3aKjlDNVFYH"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "and I'm home -Original Master Version.-",
+      "url": "https://open.spotify.com/track/04MYBwT5u3n0o9YD9TSa5g"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106346,
+      "name": "Anima mala",
+      "url": "https://open.spotify.com/track/6hjQxJxrP0NnlYeWAVT1TZ"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/239yLrYqqC4fJoV2fj18Ca"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "Chiba\"Naotyu-\"Naoki",
+          "url": "https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122240,
+      "name": "Battle Bell",
+      "url": "https://open.spotify.com/track/5AfSF93s3jjUOUoKEps70c"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "Ryo Furukawa",
+          "url": "https://open.spotify.com/artist/3qp2cGncMSJabdUfhz24Bv"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104960,
+      "name": "Battle Fields",
+      "url": "https://open.spotify.com/track/6FlUqJ0GiJoNcHUHVupN3X"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection 2",
+        "url": "https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6674\u7d50\u83dc(CV:\u6dbc\u672c\u3042\u304d\u307b)",
+          "url": "https://open.spotify.com/artist/70Bkqq4HMLTcYwTDfxlGwg"
+        },
+        {
+          "name": "\u5927\u5ead\u6a39\u91cc(CV:\u677e\u672c\u82b1\u96ea)",
+          "url": "https://open.spotify.com/artist/6mlqunNlme8zdvMPtWaAs3"
+        },
+        {
+          "name": "\u7b20\u97f3\u30a2\u30aa(CV:\u5929\u91ce\u8061\u7f8e)",
+          "url": "https://open.spotify.com/artist/369VNDZInWR9a6b5oqFAO6"
+        },
+        {
+          "name": "\u714c\u91cc\u3072\u304b\u308b(CV:\u548c\u6cc9\u98a8\u82b1)",
+          "url": "https://open.spotify.com/artist/3BafcICHkDoD5EFM1iWyWy"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Bulimia",
+      "url": "https://open.spotify.com/track/2PQpV6yP9pNxgkHIACArJM"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "Yasuhisa Inoue",
+          "url": "https://open.spotify.com/artist/4rzORlMdEzhaP67oEU4m4B"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118360,
+      "name": "Calculated Future",
+      "url": "https://open.spotify.com/track/6DEJMcXUWMFTbrIWKr3S5V"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection 2",
+        "url": "https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u9ce5\u304b\u3054\u3081(CV:\u9ad8\u5c3e\u594f\u97f3)",
+          "url": "https://open.spotify.com/artist/2wXXdV3usHgHFSdIT53wnR"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "cinis",
+      "url": "https://open.spotify.com/track/694Jx1drYiL6XieCShCdYC"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118013,
+      "name": "Clementia",
+      "url": "https://open.spotify.com/track/1X4GRDoUg3uTj9TFamgUMX"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109400,
+      "name": "Confessio",
+      "url": "https://open.spotify.com/track/69dDnfotBtbj2hVHWpeKhO"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88733,
+      "name": "Conturbatio",
+      "url": "https://open.spotify.com/track/0gJLT6VVo8sfGT2VfP4zLP"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88066,
+      "name": "Cor destructum",
+      "url": "https://open.spotify.com/track/01bKOhw02iJm7VXqluohj9"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116600,
+      "name": "Credens justitiam",
+      "url": "https://open.spotify.com/track/4ArdP26tJNn0U5KI4FK5NV"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-04",
+      "duration_ms": 140786,
+      "name": "Cubilulum album",
+      "url": "https://open.spotify.com/track/40qk3bKtfAt4etLPpUMgWK"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109773,
+      "name": "Decretum",
+      "url": "https://open.spotify.com/track/6AICX6AYZYfM4lU24Fs08m"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "Chiba\"Naotyu-\"Naoki",
+          "url": "https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107773,
+      "name": "Depth in the Mirror",
+      "url": "https://open.spotify.com/track/0vgzC65Gib5dcRxXeRYMjH"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102466,
+      "name": "Desiderium",
+      "url": "https://open.spotify.com/track/2nOcNupR8YMJFAB1ew1a7L"
+    },
+    {
+      "album": {
+        "name": "GLOW",
+        "url": "https://open.spotify.com/album/7vNqDHhm2UThG4t713JO1a"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30e6\u30a4",
+          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216213,
+      "name": "GLOW",
+      "url": "https://open.spotify.com/track/6AP21pc2X40IiXdiNZytN1"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "Gradus prohibitus",
+      "url": "https://open.spotify.com/track/4CnyeXWlF4nKQiINkeXCIW"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100480,
+      "name": "Incertus",
+      "url": "https://open.spotify.com/track/5PTaPctnEar5L4V85T91Hk"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "Ryo Furukawa",
+          "url": "https://open.spotify.com/artist/3qp2cGncMSJabdUfhz24Bv"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108973,
+      "name": "Infinite Battle",
+      "url": "https://open.spotify.com/track/5imKWpPxUAEtPFn3hK4JXH"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "Chiba\"Naotyu-\"Naoki",
+          "url": "https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60253,
+      "name": "Intermediate",
+      "url": "https://open.spotify.com/track/5ZOdV5dWzK3aBRM0YCsBU5"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154306,
+      "name": "La Fille aux Cheveux de Lin",
+      "url": "https://open.spotify.com/track/6Kr3ygaZ9xsOaniA2OYL0A"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9\u3000\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d 2nd SEASON -\u899a\u9192\u524d\u591c-\u300dTheme Song Collection",
+        "url": "https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238359,
+      "name": "Lapis",
+      "url": "https://open.spotify.com/track/0I9XGKYjSmT5KC5RjIMfxE"
+    },
+    {
+      "album": {
+        "name": "Lapis",
+        "url": "https://open.spotify.com/album/2GL9ZK5r1hgBBrTn2evF1r"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239680,
+      "name": "Lapis",
+      "url": "https://open.spotify.com/track/2dLePVS1r2mw2L0uE0k8zD"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "Ryo Furukawa",
+          "url": "https://open.spotify.com/artist/3qp2cGncMSJabdUfhz24Bv"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118773,
+      "name": "Last Dungeon",
+      "url": "https://open.spotify.com/track/1sNOSm786SW07OKts4myIP"
+    },
+    {
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/5jqyT4Y5pq6qF7zmKw4FNc"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312933,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/34q0h9Les2HFVMPLIQVHbI"
+    },
+    {
+      "album": {
+        "name": "\u3072\u304b\u308a\u3075\u308b",
+        "url": "https://open.spotify.com/album/0jCSqIa5E2rqBGw3R93JSt"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316853,
+      "name": "Magia[quattro]",
+      "url": "https://open.spotify.com/track/20z9LowbUSLOowBWW6b4es"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "Kyohei Ozawa",
+          "url": "https://open.spotify.com/artist/1bOH55pNvcr1YKotMhcdxN"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-04",
+      "duration_ms": 111000,
+      "name": "Magical Artist",
+      "url": "https://open.spotify.com/track/46hRJczP0wROCzXxCqLWYD"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u6681\u7f8e\u307b\u3080\u3089 (CV:\u658e\u85e4\u5343\u548c)",
+          "url": "https://open.spotify.com/artist/6sabqK2dfqbzkF0jg2oHya"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "Mebius Ash",
+      "url": "https://open.spotify.com/track/2i6BYXATu18CBA4TuIdzMM"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306e\u9280\u306e\u5ead",
+        "url": "https://open.spotify.com/album/7t7RwR2ThlbTm7hqNaHr0n"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "misterioso",
+      "url": "https://open.spotify.com/track/1UdAcNwonnmKUjZR5n8FrT"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u9e7f\u76ee\u307e\u3069\u304b (CV:\u60a0\u6728\u78a7)",
+          "url": "https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO"
+        },
+        {
+          "name": "\u7f8e\u6a39\u3055\u3084\u304b (CV:\u559c\u591a\u6751\u82f1\u68a8)",
+          "url": "https://open.spotify.com/artist/36y42taogcR024xS85HIHE"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268573,
+      "name": "naturally",
+      "url": "https://open.spotify.com/track/7DAhdpK5bYIQzD8zp1dCju"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60253,
+      "name": "Noi!",
+      "url": "https://open.spotify.com/track/75dXCLRNjxt97ZxytZwEZn"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128065,
+      "name": "Numquam vincar",
+      "url": "https://open.spotify.com/track/62tvYuczkS21qfHyZNPw9H"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397040,
+      "name": "Numquam vincar(Live ver.)",
+      "url": "https://open.spotify.com/track/0iNIlKcCfbohUrH32oqW7F"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Nux Walpurgis",
+      "url": "https://open.spotify.com/track/4sPKrqfM6lBaCX0COmOgzQ"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132826,
+      "name": "Pergo pugnare",
+      "url": "https://open.spotify.com/track/6Yyr0DZl02sG4cOhN9p6Hx"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100440,
+      "name": "Postmeridie",
+      "url": "https://open.spotify.com/track/2ye6s1u1Xmpam9rpyfIgTa"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370746,
+      "name": "prelude to Act 1",
+      "url": "https://open.spotify.com/track/0BEnKTrkKp5saTb2iFxnT1"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117733,
+      "name": "Puella in somnio",
+      "url": "https://open.spotify.com/track/15qBxGjAD4kWONlicpYpuR"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115960,
+      "name": "Pugna infinita",
+      "url": "https://open.spotify.com/track/58yaRhYKGiBFqvacnpm9Dx"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90733,
+      "name": "Quamobrem?",
+      "url": "https://open.spotify.com/track/1e9DlkinU1eB0kwZtjr5XM"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343666,
+      "name": "Sagitta luminis",
+      "url": "https://open.spotify.com/track/7GGma2gnEI94xrvLtTNU2Q"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91440,
+      "name": "Salve, terrae magicae",
+      "url": "https://open.spotify.com/track/3NLVCk4lRLSupJqDd1MS6G"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110600,
+      "name": "Scaena felix",
+      "url": "https://open.spotify.com/track/6CVutH3LMC6jcPPIAJCbg2"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121546,
+      "name": "Serena ira",
+      "url": "https://open.spotify.com/track/4cfOnGRyTVNMwK9UywPHNO"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101253,
+      "name": "she is a witch",
+      "url": "https://open.spotify.com/track/7pzGD0fepRx0gwZKUrHdBH"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169493,
+      "name": "Sis puella magica!",
+      "url": "https://open.spotify.com/track/4S40MDl8IuzSHsmsctWaKI"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u5df4\u30de\u30df(CV:\u6c34\u6a4b\u304b\u304a\u308a)",
+          "url": "https://open.spotify.com/artist/7bPq8mMssFUlLTPp1dJ3P5"
+        },
+        {
+          "name": "\u4f50\u5009\u674f\u5b50 (CV:\u91ce\u4e2d\u85cd)",
+          "url": "https://open.spotify.com/artist/1VSGTuDTMQZ3aKjlDNVFYH"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "Stairs",
+      "url": "https://open.spotify.com/track/30qeDkDeFD59x2JCzwegRs"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216293,
+      "name": "Surgam identidem",
+      "url": "https://open.spotify.com/track/6RuikLOg4R47K3MweDhVpB"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105973,
+      "name": "Symposium magarum",
+      "url": "https://open.spotify.com/track/1maYnq1a9WoiNUPaTcs9uR"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131800,
+      "name": "Taenia memoriae",
+      "url": "https://open.spotify.com/track/319QhTdoNiAOfVvsZdvB5Y"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229266,
+      "name": "Terror adhaerens",
+      "url": "https://open.spotify.com/track/3FnxNuqCgaNJOIIoWStE3O"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Venari strigas",
+      "url": "https://open.spotify.com/track/1HsQK27GZ5Vo4DO2ooyYGt"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216573,
+      "name": "Vocalise Op. 34 no. 14",
+      "url": "https://open.spotify.com/track/1WjwWgTy9tDEpTOryohnsX"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "Chiba\"Naotyu-\"Naoki",
+          "url": "https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102946,
+      "name": "Welcome to Mirrors",
+      "url": "https://open.spotify.com/track/1fmeRcr2mozxVil5YkOxx9"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u9e7f\u76ee\u307e\u3069\u304b (CV:\u60a0\u6728\u78a7)",
+          "url": "https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231906,
+      "name": "\u3042\u3053\u304c\u308c\u54b2\u3044\u305f",
+      "url": "https://open.spotify.com/track/1KuGK9P4wUIuBjGhnsQ5Ld"
+    },
+    {
+      "album": {
+        "name": "Re Bon Voyage",
+        "url": "https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 230720,
+      "name": "\u3046\u3064\u308d\u3044",
+      "url": "https://open.spotify.com/track/6UaUAuwWqAbuSGTITLTZ2Y"
+    },
+    {
+      "album": {
+        "name": "\u3054\u307e\u304b\u3057\uff0f\u3046\u3064\u308d\u3044",
+        "url": "https://open.spotify.com/album/6gMkQKen4RoK0YredoBx5z"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231720,
+      "name": "\u3046\u3064\u308d\u3044",
+      "url": "https://open.spotify.com/track/37RGI624amDqOaI5nh1waH"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection",
+        "url": "https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263573,
+      "name": "\u304b\u304b\u308f\u308a",
+      "url": "https://open.spotify.com/track/7MdTnv03MnwSoNDeADoxgf"
+    },
+    {
+      "album": {
+        "name": "\u3054\u307e\u304b\u3057\uff0f\u3046\u3064\u308d\u3044",
+        "url": "https://open.spotify.com/album/6gMkQKen4RoK0YredoBx5z"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251906,
+      "name": "\u3054\u307e\u304b\u3057",
+      "url": "https://open.spotify.com/track/61fqqE7iW1rXSj1vGfWfdF"
+    },
+    {
+      "album": {
+        "name": "Re Bon Voyage",
+        "url": "https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 253413,
+      "name": "\u3054\u307e\u304b\u3057",
+      "url": "https://open.spotify.com/track/2xxaEkevNabHj6CDgX0BZT"
+    },
+    {
+      "album": {
+        "name": "\u3072\u304b\u308a\u3075\u308b",
+        "url": "https://open.spotify.com/album/0jCSqIa5E2rqBGw3R93JSt"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291840,
+      "name": "\u3072\u304b\u308a\u3075\u308b",
+      "url": "https://open.spotify.com/track/31pVFxgZROGaolgI211Og1"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "\u9e7f\u76ee\u307e\u3069\u304b (CV:\u60a0\u6728\u78a7)",
+          "url": "https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264426,
+      "name": "\u307e\u305f\u3000\u3042\u3057\u305f",
+      "url": "https://open.spotify.com/track/5sLtjikhdwpFxpQpt6NRB0"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57226,
+      "name": "\u307e\u3060\u30c0\u30e1\u3088",
+      "url": "https://open.spotify.com/track/2ZccAEcvxEzWqa5mIYrKFV"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30ea\u30b7\u30a2/\u30b7\u30af\u3099\u30ca\u30eb",
+        "url": "https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230560,
+      "name": "\u30a2\u30ea\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/1DGxaWI1MzZ6shRZx2LDgw"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection 2",
+        "url": "https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ"
+      },
+      "artists": [
+        {
+          "name": "\u85cd\u5bb6\u3072\u3081\u306a(CV:\u9996\u85e4\u5fd7\u5948)",
+          "url": "https://open.spotify.com/artist/3s71QBFLBxRna4OKaCI7kV"
+        },
+        {
+          "name": "\u5bae\u5c3e\u6642\u96e8(CV:\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/28XEIbuCr0L4qWv9ENTPx6"
+        },
+        {
+          "name": "\u5b89\u7a4d\u306f\u3050\u3080(CV:\u9ad8\u67f3\u77e5\u8449)",
+          "url": "https://open.spotify.com/artist/3vPGKJ2sSSnkTtIYC3LFaf"
+        },
+        {
+          "name": "\u795e\u697d\u71e6(CV:\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044)",
+          "url": "https://open.spotify.com/artist/1A34wLxAzOeRwn4Y7Pjaov"
+        },
+        {
+          "name": "\u904a\u72e9\u30df\u30e6\u30ea(CV:\u98ef\u7530\u30d2\u30ab\u30eb)",
+          "url": "https://open.spotify.com/artist/44lqAISlK4NvGMsfy3QM6A"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192813,
+      "name": "\u30a4\u30c7\u30aa\u30ed\u30ae\u30fc",
+      "url": "https://open.spotify.com/track/6IxmMt4hGvidnqsso1CYL4"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30eb\u30b4\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/1Pu3Zrzu1AzKByHmjlru2B"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        },
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "\u30aa\u30eb\u30b4\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6b8Hu7AWAANB43xmNAXvyz"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/3PWVzMnK8ZtdanDMssCIeN"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/54T0y1i3lBRgF8H6vGO6kR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9\u3000\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d 2nd SEASON -\u899a\u9192\u524d\u591c-\u300dTheme Song Collection",
+        "url": "https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254716,
+      "name": "\u30b1\u30a2\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30cd\u30af\u30c8",
+        "url": "https://open.spotify.com/album/2kcyfDBLNVuvP7ebwSw3SX"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271733,
+      "name": "\u30b3\u30cd\u30af\u30c8",
+      "url": "https://open.spotify.com/track/2ReLy6MAZB0lw65E7utuIt"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94720,
+      "name": "\u30b3\u30cd\u30af\u30c8 -\u30b2\u30fc\u30e0\u30a4\u30f3\u30b9\u30c8-",
+      "url": "https://open.spotify.com/track/6O7dVp1w20oN5dUjGVytoQ"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30b0\u30ca\u30eb",
+        "url": "https://open.spotify.com/album/7HNWph7EIYq0lDwuvgdAVt"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223379,
+      "name": "\u30b7\u30b0\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/6482HIZv5Bf8VDybXr1SwS"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30ec\u30c3\u30b8",
+        "url": "https://open.spotify.com/album/4u9TwUKkOBaXcSdbuH9v5o"
+      },
+      "artists": [
+        {
+          "name": "\u74b0\u3044\u308d\u306f(CV:\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/1cy5uXN8y8i5NhrfuRSvsM"
+        },
+        {
+          "name": "\u4e03\u6d77\u3084\u3061\u3088(CV:\u96e8\u5bae\u5929)",
+          "url": "https://open.spotify.com/artist/2NF2LvyC20LrgbIM0JARpy"
+        },
+        {
+          "name": "\u7531\u6bd4\u9db4\u4e43(CV:\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/7z5VXPhnlZMQ2y9iAfVkmd"
+        },
+        {
+          "name": "\u6df1\u6708\u30d5\u30a7\u30ea\u30b7\u30a2(CV:\u4f50\u5009\u7dbe\u97f3)",
+          "url": "https://open.spotify.com/artist/72FEmm4aelN7tQ2avKDOoS"
+        },
+        {
+          "name": "\u4e8c\u8449\u3055\u306a(CV:\u5c0f\u5009\u552f)",
+          "url": "https://open.spotify.com/artist/60ItUsKo0ZXHE3SJIyJdFh"
+        },
+        {
+          "name": "\u74b0\u3046\u3044(CV:\u77f3\u898b\u821e\u83dc\u9999)",
+          "url": "https://open.spotify.com/artist/02Z2U8A10g1BYk8FuR4j5P"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249230,
+      "name": "\u30d5\u30ec\u30c3\u30b8",
+      "url": "https://open.spotify.com/track/07b3tcdgzUIcBeRJDPvsFu"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "\u9e7f\u76ee\u307e\u3069\u304b (CV:\u60a0\u6728\u78a7)",
+          "url": "https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO"
+        },
+        {
+          "name": "\u6681\u7f8e\u307b\u3080\u3089 (CV:\u658e\u85e4\u5343\u548c)",
+          "url": "https://open.spotify.com/artist/6sabqK2dfqbzkF0jg2oHya"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236653,
+      "name": "\u30e6\u30e1\u304a\u3068",
+      "url": "https://open.spotify.com/track/6M3dD7YvWOMy4LU0ZCJcHn"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30df\u30ca\u30b9",
+        "url": "https://open.spotify.com/album/7i4MHVRVxRFWMwzr41RvcY"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251400,
+      "name": "\u30eb\u30df\u30ca\u30b9",
+      "url": "https://open.spotify.com/track/5OYi6DORnGytA7cNwVQpJC"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection 2",
+        "url": "https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30df\u30cf\u2606\u30de\u30ae\u30ab",
+          "url": "https://open.spotify.com/artist/24qLRcIuc6jVxzD82fcFAF"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231293,
+      "name": "\u53f6\u3048\u3061\u3083\u304a",
+      "url": "https://open.spotify.com/track/0DuKZazK7hATT0ycnAqqyA"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306e\u9280\u306e\u5ead",
+        "url": "https://open.spotify.com/album/7t7RwR2ThlbTm7hqNaHr0n"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307200,
+      "name": "\u541b\u306e\u9280\u306e\u5ead",
+      "url": "https://open.spotify.com/track/5z0sTqtZ73NliGt9LYjUO4"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d\u300d Music Collection 2",
+        "url": "https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ"
+      },
+      "artists": [
+        {
+          "name": "\u6642\u5973\u9759\u9999(CV:\u5185\u7530\u79c0)",
+          "url": "https://open.spotify.com/artist/2jUOqvas7LKVBv5Z3apT6J"
+        },
+        {
+          "name": "\u5e83\u6c5f\u3061\u306f\u308b(CV:\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/4UPLP5kPamHkAVUhl2wk7q"
+        },
+        {
+          "name": "\u571f\u5c90\u3059\u306a\u304a(CV:\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/2KRUEY27Eo3lC79i0ytDxj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262666,
+      "name": "\u5c71\u8336\u82b1\u306e\u8de1",
+      "url": "https://open.spotify.com/track/1ewrd7yGNQUquQgby3HD8C"
+    },
+    {
+      "album": {
+        "name": "\u3072\u304b\u308a\u3075\u308b",
+        "url": "https://open.spotify.com/album/0jCSqIa5E2rqBGw3R93JSt"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272306,
+      "name": "\u672a\u6765",
+      "url": "https://open.spotify.com/track/210tDGTwv4EKo08kv3Az3K"
+    },
+    {
+      "album": {
+        "name": "\u6f14\u846c",
+        "url": "https://open.spotify.com/album/1TCsRPEMCRgQ30tvw7aT1k"
+      },
+      "artists": [
+        {
+          "name": "\u6c37\u5ba4\u30e9\u30d3(CV:\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/3KnV3YQwxB3xbMSNtyNw8P"
+        },
+        {
+          "name": "\u4e09\u6d66\u65ed(CV:\u5165\u6c5f\u9ebb\u8863\u5b50)",
+          "url": "https://open.spotify.com/artist/6qu5SinDVQbFjTxDnjHpul"
+        },
+        {
+          "name": "\u6817\u6816\u30a2\u30ec\u30af\u30b5\u30f3\u30c9\u30e9(CV:\u65e9\u702c\u8389\u82b1)",
+          "url": "https://open.spotify.com/artist/6uzbFDfk3jMV7ZY2Mj8POe"
+        },
+        {
+          "name": "\u6709\u611b\u3046\u3089\u3089(CV:\u4e38\u5ca1\u548c\u4f73\u5948)",
+          "url": "https://open.spotify.com/artist/6fryL9K2Ph0foymc7biynb"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256663,
+      "name": "\u6f14\u846c",
+      "url": "https://open.spotify.com/track/0h14PnOE5asXq6oNAE8XxR"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0g7dAq6cAPA"
 }

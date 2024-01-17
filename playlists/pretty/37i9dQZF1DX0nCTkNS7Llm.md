@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nCTkNS7Llm.md) - [plain]
 
 > Featuring Tainy, paopao, Feid & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 600 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [mañana](https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 2:55 |
+| 1 | [mañana](https://open.spotify.com/track/1BT8gWiMLQvN7oPQHS8RSR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 2:55 |
 | 2 | [CUANDO BAJE EL SOL](https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:46 |
 | 3 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 | 4 | [Mxfix G5](https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mxfix G5](https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN) | 2:34 |

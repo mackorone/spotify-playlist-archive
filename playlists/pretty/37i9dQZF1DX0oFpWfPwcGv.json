@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 58225,
+  "num_followers": 58623,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzg5ZGNhZGI1YzM2NjA2ZjdmOTFjNmU1MzdmMmYyYWYyMDk1MWY4",
+  "snapshot_id": "MCw0YzkzMTgzYTNlYjcxM2VkMzQ1YjgzNzI5OGQwNTJhM2E1NmM5Nzkw",
   "tracks": [
     {
       "added_at": "2023-12-31 05:22:18",
@@ -247,6 +247,26 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
+        "name": "Xanadu",
+        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "Xanadu",
+      "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
+    },
+    {
+      "added_at": "2023-12-31 05:22:18",
+      "album": {
         "name": "Back To Back",
         "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
       },
@@ -295,22 +315,18 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Xanadu",
-        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
+        "name": "Pride Classics",
+        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
       },
       "artists": [
         {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
         }
       ],
-      "duration_ms": 208506,
-      "name": "Xanadu",
-      "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
+      "duration_ms": 326586,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -331,22 +347,6 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Pride Classics",
-        "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 326586,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
-    },
-    {
-      "added_at": "2023-12-31 05:22:18",
-      "album": {
         "name": "Triumph (Expanded Version)",
         "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
       },
@@ -359,42 +359,6 @@
       "duration_ms": 230967,
       "name": "Can You Feel It - 7\" Version",
       "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
-    },
-    {
-      "added_at": "2023-12-31 05:22:18",
-      "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
-    },
-    {
-      "added_at": "2023-12-31 05:22:18",
-      "album": {
-        "name": "Love Is The Message",
-        "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
-      },
-      "artists": [
-        {
-          "name": "MFSB",
-          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
-        },
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
-      "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -415,6 +379,22 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+    },
+    {
+      "added_at": "2023-12-31 05:22:18",
+      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 221026,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2023-12-31 05:22:18",
+      "album": {
+        "name": "Love Is The Message",
+        "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
+      "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
+        "name": "Odyssey (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 336466,
+      "name": "Native New Yorker - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+    },
+    {
+      "added_at": "2023-12-31 05:22:18",
+      "album": {
         "name": "The Best Of Cheryl Lynn: Got To Be Real",
         "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 305893,
       "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
       "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2023-12-31 05:22:18",
-      "album": {
-        "name": "Odyssey (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
-      },
-      "artists": [
-        {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
-        }
-      ],
-      "duration_ms": 336466,
-      "name": "Native New Yorker - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Keep On Jumpin'",
-        "url": "https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW"
-      },
-      "artists": [
-        {
-          "name": "Musique",
-          "url": "https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl"
-        }
-      ],
-      "duration_ms": 339946,
-      "name": "Keep On Jumpin'",
-      "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
-    },
-    {
-      "added_at": "2023-12-31 05:22:18",
-      "album": {
         "name": "Instant Replay (Expanded Edition)",
         "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 320480,
       "name": "Instant Replay",
       "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
+    },
+    {
+      "added_at": "2023-12-31 05:22:18",
+      "album": {
+        "name": "Keep On Jumpin'",
+        "url": "https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW"
+      },
+      "artists": [
+        {
+          "name": "Musique",
+          "url": "https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl"
+        }
+      ],
+      "duration_ms": 339946,
+      "name": "Keep On Jumpin'",
+      "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295125,
-      "name": "Bad Girls - 12\" Version",
-      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
-    },
-    {
-      "added_at": "2023-12-31 05:22:18",
-      "album": {
         "name": "Slippin' and Dippin' (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/4C7hI3pzIpwHKGFKZ8Zlv0"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
       "artists": [
         {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 203840,
-      "name": "I Need A Man",
-      "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
+      "duration_ms": 295125,
+      "name": "Bad Girls - 12\" Version",
+      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -983,6 +967,22 @@
       "duration_ms": 225160,
       "name": "My Body Keeps Changing My Mind",
       "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
+    },
+    {
+      "added_at": "2023-12-31 05:22:18",
+      "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "I Need A Man",
+      "url": "https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Delusions (Bonus Version)",
-        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
-      },
-      "artists": [
-        {
-          "name": "First Choice",
-          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
-        }
-      ],
-      "duration_ms": 457746,
-      "name": "Doctor Love (Tom Moulton 12\" Mix)",
-      "url": "https://open.spotify.com/track/1xifiLRb2Uo6kBzZruN6rw"
-    },
-    {
-      "added_at": "2023-12-31 05:22:18",
-      "album": {
         "name": "Club Columbia",
         "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Twelve Inch Classics from the 70s, Vol. 2",
-        "url": "https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa"
+        "name": "Delusions (Bonus Version)",
+        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
       },
       "artists": [
         {
-          "name": "Voyage",
-          "url": "https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6"
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
         }
       ],
-      "duration_ms": 407800,
-      "name": "Lady America",
-      "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
+      "duration_ms": 457746,
+      "name": "Doctor Love (Tom Moulton 12\" Mix)",
+      "url": "https://open.spotify.com/track/1xifiLRb2Uo6kBzZruN6rw"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-12-31 05:22:18",
       "album": {
-        "name": "Crooklyn Volume II",
-        "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
+        "name": "Twelve Inch Classics from the 70s, Vol. 2",
+        "url": "https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa"
       },
       "artists": [
         {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6"
         }
       ],
-      "duration_ms": 266560,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
+      "duration_ms": 407800,
+      "name": "Lady America",
+      "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
     },
     {
       "added_at": "2023-12-31 05:22:18",
@@ -1227,6 +1211,22 @@
       "duration_ms": 392034,
       "name": "Moment of My Life (12'' Version)",
       "url": "https://open.spotify.com/track/3K70DJ1PgpZYDGE67CZBAX"
+    },
+    {
+      "added_at": "2023-12-31 05:22:18",
+      "album": {
+        "name": "Crooklyn Volume II",
+        "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
     },
     {
       "added_at": "2023-12-31 05:22:18",

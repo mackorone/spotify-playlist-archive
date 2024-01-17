@@ -1,430 +1,1967 @@
 {
-  "2022-10-29": 8183,
-  "2022-10-30": 8192,
-  "2022-10-31": 8197,
-  "2022-11-01": 8207,
-  "2022-11-02": 8219,
-  "2022-11-03": 8224,
-  "2022-11-04": 8235,
-  "2022-11-05": 8250,
-  "2022-11-06": 8259,
-  "2022-11-07": 8272,
-  "2022-11-08": 8276,
-  "2022-11-09": 8282,
-  "2022-11-10": 8296,
-  "2022-11-11": 8313,
-  "2022-11-12": 8345,
-  "2022-11-13": 8361,
-  "2022-11-14": 8384,
-  "2022-11-15": 8400,
-  "2022-11-16": 8421,
-  "2022-11-17": 8441,
-  "2022-11-18": 8447,
-  "2022-11-19": 8456,
-  "2022-11-20": 8478,
-  "2022-11-21": 8499,
-  "2022-11-22": 8515,
-  "2022-11-23": 8524,
-  "2022-11-24": 8561,
-  "2022-11-25": 8596,
-  "2022-11-26": 8610,
-  "2022-11-27": 8633,
-  "2022-11-28": 8644,
-  "2022-11-29": 8658,
-  "2022-11-30": 8670,
-  "2022-12-01": 8694,
-  "2022-12-02": 8703,
-  "2022-12-03": 8711,
-  "2022-12-04": 8731,
-  "2022-12-05": 8750,
-  "2022-12-06": 8758,
-  "2022-12-07": 8767,
-  "2022-12-08": 8784,
-  "2022-12-09": 8793,
-  "2022-12-10": 8814,
-  "2022-12-11": 8831,
-  "2022-12-12": 8837,
-  "2022-12-13": 8845,
-  "2022-12-14": 8858,
-  "2022-12-15": 8870,
-  "2022-12-16": 8880,
-  "2022-12-17": 8896,
-  "2022-12-18": 8916,
-  "2022-12-19": 8923,
-  "2022-12-20": 8949,
-  "2022-12-21": 8949,
-  "2022-12-22": 8955,
-  "2022-12-24": 8970,
-  "2022-12-25": 8986,
-  "2022-12-26": 9003,
-  "2022-12-27": 9017,
-  "2022-12-28": 9025,
-  "2022-12-29": 9035,
-  "2022-12-30": 9041,
-  "2022-12-31": 9067,
-  "2023-01-01": 9075,
-  "2023-01-02": 9087,
-  "2023-01-03": 9101,
-  "2023-01-04": 9118,
-  "2023-01-05": 9130,
-  "2023-01-06": 9148,
-  "2023-01-07": 9178,
-  "2023-01-08": 9182,
-  "2023-01-09": 9201,
-  "2023-01-10": 9216,
-  "2023-01-11": 9224,
-  "2023-01-12": 9234,
-  "2023-01-13": 9245,
-  "2023-01-14": 9255,
-  "2023-01-15": 9260,
-  "2023-01-16": 9275,
-  "2023-01-17": 9293,
-  "2023-01-18": 9307,
-  "2023-01-19": 9329,
-  "2023-01-20": 9342,
-  "2023-01-21": 9359,
-  "2023-01-22": 9361,
-  "2023-01-23": 9373,
-  "2023-01-24": 9381,
-  "2023-01-25": 9390,
-  "2023-01-26": 9397,
-  "2023-01-27": 9416,
-  "2023-01-28": 9432,
-  "2023-01-29": 9449,
-  "2023-01-30": 9469,
-  "2023-01-31": 9469,
-  "2023-02-01": 9490,
-  "2023-02-02": 9505,
-  "2023-02-03": 9520,
-  "2023-02-04": 9533,
-  "2023-02-05": 9546,
-  "2023-02-06": 9561,
-  "2023-02-07": 9571,
-  "2023-02-08": 9607,
-  "2023-02-09": 9607,
-  "2023-02-10": 9629,
-  "2023-02-11": 9637,
-  "2023-02-12": 9652,
-  "2023-02-13": 9676,
-  "2023-02-14": 9676,
-  "2023-02-15": 9683,
-  "2023-02-16": 9697,
-  "2023-02-17": 9706,
-  "2023-02-18": 9729,
-  "2023-02-19": 9730,
-  "2023-02-20": 9745,
-  "2023-02-21": 9748,
-  "2023-02-22": 9765,
-  "2023-02-23": 9780,
-  "2023-02-24": 9796,
-  "2023-02-25": 9815,
-  "2023-02-26": 9828,
-  "2023-02-27": 9864,
-  "2023-02-28": 9864,
-  "2023-03-01": 9880,
-  "2023-03-02": 9891,
-  "2023-03-03": 9910,
-  "2023-03-04": 9921,
-  "2023-03-05": 9957,
-  "2023-03-06": 9957,
-  "2023-03-07": 9969,
-  "2023-03-08": 9976,
-  "2023-03-09": 9995,
-  "2023-03-10": 10007,
-  "2023-03-11": 10020,
-  "2023-03-12": 10042,
-  "2023-03-13": 10054,
-  "2023-03-14": 10069,
-  "2023-03-15": 10088,
-  "2023-03-16": 10088,
-  "2023-03-17": 10088,
-  "2023-03-18": 10140,
-  "2023-03-19": 10140,
-  "2023-03-20": 10172,
-  "2023-03-21": 10182,
-  "2023-03-22": 10189,
-  "2023-03-23": 10209,
-  "2023-03-24": 10209,
-  "2023-03-25": 10247,
-  "2023-03-26": 10262,
-  "2023-03-27": 10278,
-  "2023-03-28": 10294,
-  "2023-03-29": 10312,
-  "2023-03-30": 10345,
-  "2023-03-31": 10345,
-  "2023-04-01": 10363,
-  "2023-04-02": 10377,
-  "2023-04-03": 10398,
-  "2023-04-04": 10415,
-  "2023-04-05": 10422,
-  "2023-04-06": 10447,
-  "2023-04-07": 10458,
-  "2023-04-09": 10482,
-  "2023-04-10": 10490,
-  "2023-04-11": 10519,
-  "2023-04-12": 10519,
-  "2023-04-13": 10542,
-  "2023-04-14": 10555,
-  "2023-04-15": 10581,
-  "2023-04-16": 10595,
-  "2023-04-17": 10606,
-  "2023-04-18": 10628,
-  "2023-04-19": 10646,
-  "2023-04-20": 10662,
-  "2023-04-21": 10676,
-  "2023-04-22": 10699,
-  "2023-04-23": 10717,
-  "2023-04-24": 10740,
-  "2023-04-25": 10754,
-  "2023-04-26": 10763,
-  "2023-04-27": 10769,
-  "2023-04-28": 10790,
-  "2023-04-29": 10805,
-  "2023-04-30": 10817,
-  "2023-05-01": 10827,
-  "2023-05-02": 10842,
-  "2023-05-03": 10852,
-  "2023-05-04": 10858,
-  "2023-05-05": 10872,
-  "2023-05-06": 10886,
-  "2023-05-07": 10900,
-  "2023-05-08": 10914,
-  "2023-05-09": 10937,
-  "2023-05-10": 10953,
-  "2023-05-11": 10978,
-  "2023-05-12": 10985,
-  "2023-05-13": 11006,
-  "2023-05-14": 11022,
-  "2023-05-15": 11036,
-  "2023-05-16": 11045,
-  "2023-05-17": 11061,
-  "2023-05-18": 11078,
-  "2023-05-19": 11096,
-  "2023-05-20": 11129,
-  "2023-05-21": 11129,
-  "2023-05-22": 11129,
-  "2023-05-23": 11164,
-  "2023-05-24": 11188,
-  "2023-05-25": 11192,
-  "2023-05-26": 11205,
-  "2023-05-27": 11220,
-  "2023-05-28": 11233,
-  "2023-05-29": 11233,
-  "2023-05-30": 11255,
-  "2023-05-31": 11265,
-  "2023-06-01": 11281,
-  "2023-06-02": 11297,
-  "2023-06-03": 11304,
-  "2023-06-04": 11321,
-  "2023-06-05": 11339,
-  "2023-06-06": 11349,
-  "2023-06-07": 11358,
-  "2023-06-08": 11375,
-  "2023-06-09": 11383,
-  "2023-06-10": 11400,
-  "2023-06-11": 11417,
-  "2023-06-12": 11433,
-  "2023-06-13": 11449,
-  "2023-06-14": 11464,
-  "2023-06-15": 11473,
-  "2023-06-16": 11481,
-  "2023-06-17": 11491,
-  "2023-06-18": 11497,
-  "2023-06-19": 11507,
-  "2023-06-20": 11513,
-  "2023-06-21": 11528,
-  "2023-06-22": 11540,
-  "2023-06-23": 11554,
-  "2023-06-24": 11572,
-  "2023-06-25": 11578,
-  "2023-06-26": 11596,
-  "2023-06-27": 11611,
-  "2023-06-28": 11633,
-  "2023-06-29": 11643,
-  "2023-06-30": 11654,
-  "2023-07-01": 11682,
-  "2023-07-02": 11682,
-  "2023-07-03": 11701,
-  "2023-07-04": 11713,
-  "2023-07-05": 11731,
-  "2023-07-06": 11756,
-  "2023-07-07": 11756,
-  "2023-07-08": 11756,
-  "2023-07-09": 11780,
-  "2023-07-10": 11791,
-  "2023-07-11": 11800,
-  "2023-07-12": 11809,
-  "2023-07-13": 11816,
-  "2023-07-14": 11838,
-  "2023-07-15": 11841,
-  "2023-07-16": 11856,
-  "2023-07-17": 11868,
-  "2023-07-18": 11873,
-  "2023-07-19": 11881,
-  "2023-07-20": 11881,
-  "2023-07-21": 11900,
-  "2023-07-22": 11911,
-  "2023-07-23": 11928,
-  "2023-07-24": 11940,
-  "2023-07-25": 11943,
-  "2023-07-26": 11955,
-  "2023-07-27": 11968,
-  "2023-07-28": 11982,
-  "2023-07-29": 12006,
-  "2023-07-30": 12032,
-  "2023-07-31": 12051,
-  "2023-08-01": 12068,
-  "2023-08-02": 12093,
-  "2023-08-03": 12113,
-  "2023-08-04": 12130,
-  "2023-08-05": 12142,
-  "2023-08-06": 12164,
-  "2023-08-07": 12164,
-  "2023-08-08": 12173,
-  "2023-08-09": 12190,
-  "2023-08-10": 12207,
-  "2023-08-11": 12228,
-  "2023-08-12": 12228,
-  "2023-08-13": 12228,
-  "2023-08-14": 12228,
-  "2023-08-15": 12228,
-  "2023-08-16": 12228,
-  "2023-08-17": 12228,
-  "2023-08-18": 12228,
-  "2023-08-19": 12228,
-  "2023-08-20": 12353,
-  "2023-08-21": 12353,
-  "2023-08-22": 12370,
-  "2023-08-23": 12370,
-  "2023-08-24": 12370,
-  "2023-08-25": 12370,
-  "2023-08-26": 12407,
-  "2023-08-27": 12407,
-  "2023-08-28": 12436,
-  "2023-08-29": 12436,
-  "2023-08-30": 12436,
-  "2023-08-31": 12470,
-  "2023-09-01": 12479,
-  "2023-09-02": 12479,
-  "2023-09-03": 12479,
-  "2023-09-04": 12479,
-  "2023-09-05": 12479,
-  "2023-09-06": 12479,
-  "2023-09-07": 12479,
-  "2023-09-08": 12479,
-  "2023-09-09": 12479,
-  "2023-09-10": 12479,
-  "2023-09-11": 12479,
-  "2023-09-12": 12479,
-  "2023-09-13": 12479,
-  "2023-09-14": 12479,
-  "2023-09-15": 12479,
-  "2023-09-16": 12634,
-  "2023-09-17": 12634,
-  "2023-09-18": 12634,
-  "2023-09-19": 12651,
-  "2023-09-20": 12651,
-  "2023-09-21": 12651,
-  "2023-09-22": 12680,
-  "2023-09-23": 12680,
-  "2023-09-24": 12680,
-  "2023-09-25": 12680,
-  "2023-09-26": 12712,
-  "2023-09-27": 12712,
-  "2023-09-28": 12712,
-  "2023-09-29": 12712,
-  "2023-09-30": 12712,
-  "2023-10-01": 12712,
-  "2023-10-02": 12712,
-  "2023-10-03": 12712,
-  "2023-10-04": 12712,
-  "2023-10-05": 12712,
-  "2023-10-06": 12712,
-  "2023-10-07": 12712,
-  "2023-10-08": 12712,
-  "2023-10-09": 12712,
-  "2023-10-10": 12712,
-  "2023-10-11": 12883,
-  "2023-10-12": 12883,
-  "2023-10-13": 12883,
-  "2023-10-14": 12883,
-  "2023-10-15": 12883,
-  "2023-10-16": 12883,
-  "2023-10-17": 12883,
-  "2023-10-18": 12883,
-  "2023-10-19": 12883,
-  "2023-10-20": 12883,
-  "2023-10-21": 12883,
-  "2023-10-22": 12883,
-  "2023-10-23": 12883,
-  "2023-10-24": 12883,
-  "2023-10-25": 12883,
-  "2023-10-26": 12883,
-  "2023-10-27": 12883,
-  "2023-10-28": 12883,
-  "2023-10-29": 12883,
-  "2023-10-30": 12883,
-  "2023-10-31": 12883,
-  "2023-11-01": 12883,
-  "2023-11-02": 12883,
-  "2023-11-03": 12883,
-  "2023-11-04": 12883,
-  "2023-11-05": 12883,
-  "2023-11-06": 12883,
-  "2023-11-07": 12883,
-  "2023-11-08": 12883,
-  "2023-11-09": 12883,
-  "2023-11-10": 12883,
-  "2023-11-11": 13131,
-  "2023-11-12": 13131,
-  "2023-11-13": 13131,
-  "2023-11-14": 13131,
-  "2023-11-15": 13131,
-  "2023-11-16": 13131,
-  "2023-11-17": 13131,
-  "2023-11-18": 13131,
-  "2023-11-19": 13131,
-  "2023-11-20": 13131,
-  "2023-11-21": 13131,
-  "2023-11-22": 13131,
-  "2023-11-23": 13131,
-  "2023-11-24": 13131,
-  "2023-11-25": 13131,
-  "2023-11-26": 13131,
-  "2023-11-27": 13131,
-  "2023-11-28": 13131,
-  "2023-11-29": 13131,
-  "2023-11-30": 13131,
-  "2023-12-01": 13131,
-  "2023-12-02": 13131,
-  "2023-12-03": 13131,
-  "2023-12-04": 13131,
-  "2023-12-05": 13131,
-  "2023-12-06": 13131,
-  "2023-12-07": 13131,
-  "2023-12-08": 13131,
-  "2023-12-09": 13131,
-  "2023-12-10": 13131,
-  "2023-12-11": 13131,
-  "2023-12-12": 13131,
-  "2023-12-13": 13131,
-  "2023-12-14": 13314,
-  "2023-12-15": 13318,
-  "2023-12-16": 13332,
-  "2023-12-17": 13332,
-  "2023-12-18": 13339,
-  "2023-12-19": 13345,
-  "2023-12-20": 13349,
-  "2023-12-21": 13351,
-  "2023-12-22": 13357,
-  "2023-12-23": 13359,
-  "2023-12-24": 13367,
-  "2023-12-25": 13373,
-  "2023-12-26": 13381,
-  "2023-12-27": 13393,
-  "2023-12-30": 13414,
-  "2023-12-31": 13418,
-  "2024-01-01": 13428,
-  "2024-01-02": 13430,
-  "2024-01-03": 13433
+  "2024-01-17": 13523,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is BIA. The essential tracks, all in one playlist.",
+  "name": "This Is BIA",
+  "tracks": [
+    {
+      "album": {
+        "name": "a woman is a god (BIA Remix)",
+        "url": "https://open.spotify.com/album/1GM7yBzzTnJ7TvTysxvaQj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 178662,
+      "name": "a woman is a god - BIA Remix",
+      "url": "https://open.spotify.com/track/1bjKLAHQUcSOK6zBr9ZgDv"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 189105,
+      "name": "AUTOMATIC (feat. Doe Boy & 42 Dugg)",
+      "url": "https://open.spotify.com/track/0PDno6z7Wn9gPYLn75QEMZ"
+    },
+    {
+      "album": {
+        "name": "BADSIDE",
+        "url": "https://open.spotify.com/album/3j7poPDs9oT3VEMtPdw8jf"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 224316,
+      "name": "BADSIDE",
+      "url": "https://open.spotify.com/track/4i52IhZoFDXVxKhJewywbs"
+    },
+    {
+      "album": {
+        "name": "Bamba (feat. Aitch & BIA)",
+        "url": "https://open.spotify.com/album/3cOBmVLauHdg4S3F7sJHyF"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 203255,
+      "name": "Bamba (feat. Aitch & BIA)",
+      "url": "https://open.spotify.com/track/7nFJSfGvvV0WjatTZN6QYi"
+    },
+    {
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203560,
+      "name": "Bamba (feat. Aitch & BIA)",
+      "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
+    },
+    {
+      "album": {
+        "name": "BEACH BALL (feat. BIA)",
+        "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 144000,
+      "name": "BEACH BALL (feat. BIA)",
+      "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
+    },
+    {
+      "album": {
+        "name": "BLOCKBUSTA",
+        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144091,
+      "name": "BEACH BALL (feat. BIA)",
+      "url": "https://open.spotify.com/track/5NQIrsHnSQWQQUvd1ZqSOH"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
+    },
+    {
+      "album": {
+        "name": "SHAKE THE SNOW GLOBE",
+        "url": "https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "BEST ON EARTH (feat. BIA) - Bonus",
+      "url": "https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125440,
+      "name": "BIA BIA (feat. Lil Jon)",
+      "url": "https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR"
+    },
+    {
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101944,
+      "name": "BIG BUSINESS",
+      "url": "https://open.spotify.com/track/0J9owOEvifIjOT1akwYVOn"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153618,
+      "name": "BIG DEAL (feat. Sevyn Streeter)",
+      "url": "https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf"
+    },
+    {
+      "album": {
+        "name": "NICE GIRLS FINISH LAST: CUIDADO",
+        "url": "https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 156013,
+      "name": "BLUE BANK",
+      "url": "https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM"
+    },
+    {
+      "album": {
+        "name": "Bo$$day",
+        "url": "https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT"
+      },
+      "artists": [
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 145777,
+      "name": "Bo$$day",
+      "url": "https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d"
+    },
+    {
+      "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    {
+      "album": {
+        "name": "BRING IT ON",
+        "url": "https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Diarra Sylla",
+          "url": "https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 214838,
+      "name": "BRING IT ON",
+      "url": "https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 146597,
+      "name": "CAN'T TOUCH THIS",
+      "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
+    },
+    {
+      "album": {
+        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123214,
+      "name": "CAN'T TOUCH THIS - R3HAB Remix",
+      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+    },
+    {
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161555,
+      "name": "CHATTY",
+      "url": "https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO"
+    },
+    {
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 164188,
+      "name": "CHICKY TA",
+      "url": "https://open.spotify.com/track/3EELEIkaOtCQZ84LwU8dWK"
+    },
+    {
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114792,
+      "name": "CLASSY (feat. Swizz Beatz)",
+      "url": "https://open.spotify.com/track/00nzfB9qa5ZqVxbfxVJUok"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149497,
+      "name": "COVER GIRL",
+      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
+    },
+    {
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142258,
+      "name": "DON'T TELL (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/058XdfrLCP1tPxnc39ibGy"
+    },
+    {
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 142258,
+      "name": "DON'T TELL (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/7ANhqhDBoEZ3nLDqMNtmTG"
+    },
+    {
+      "album": {
+        "name": "NICE GIRLS FINISH LAST: CUIDADO",
+        "url": "https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
+      "duration_ms": 187320,
+      "name": "DROWN IN MY CUP",
+      "url": "https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN"
+    },
+    {
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195448,
+      "name": "DUBAI",
+      "url": "https://open.spotify.com/track/0RCFwZ4GluILfF8VDJoJV8"
+    },
+    {
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181812,
+      "name": "Eat It Up (feat. BIA)",
+      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
+    },
+    {
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151431,
+      "name": "FALLBACK",
+      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
+    },
+    {
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 97744,
+      "name": "FOUR SEASONS",
+      "url": "https://open.spotify.com/track/0YXBtZvPdUW55yxlvGkaCY"
+    },
+    {
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 97744,
+      "name": "FOUR SEASONS",
+      "url": "https://open.spotify.com/track/6GUr8jAn1xA9MUD6zfmEU6"
+    },
+    {
+      "album": {
+        "name": "Freak Remix",
+        "url": "https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184920,
+      "name": "Freak (Remix)",
+      "url": "https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 160769,
+      "name": "FREAK IN THE NIGHT",
+      "url": "https://open.spotify.com/track/3gf0CqnyjYb2IoyZSaDa9h"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 114602,
+      "name": "FREE BIA (1ST DAY OUT)",
+      "url": "https://open.spotify.com/track/7g3hyRYCjM27HBHgYRp8MI"
+    },
+    {
+      "album": {
+        "name": "FUNGSHWAY",
+        "url": "https://open.spotify.com/album/42wFEFxRYzwQiDyKIYn5pO"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 179754,
+      "name": "FUNGSHWAY",
+      "url": "https://open.spotify.com/track/1FPKkqAxaTAxLsercL5u4g"
+    },
+    {
+      "album": {
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43200,
+      "name": "Furious",
+      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
+    },
+    {
+      "album": {
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 43200,
+      "name": "Furious",
+      "url": "https://open.spotify.com/track/6JGVUY8EGiuzyTjya7xOZC"
+    },
+    {
+      "album": {
+        "name": "GEEKALEEK (feat. BIA)",
+        "url": "https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "GEEKALEEK (feat. BIA)",
+      "url": "https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R"
+    },
+    {
+      "album": {
+        "name": "Summer In The Winter",
+        "url": "https://open.spotify.com/album/6uG9BscYmPnAbtl6Cy9u91"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 196146,
+      "name": "Good Idea (feat. BIA)",
+      "url": "https://open.spotify.com/track/3sXcUMhBQLCyr6Cl6z7RP4"
+    },
+    {
+      "album": {
+        "name": "Gucci Comin' Home",
+        "url": "https://open.spotify.com/album/1dXVrNCauP1ZD51Xc2LCIU"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 179504,
+      "name": "Gucci Comin' Home",
+      "url": "https://open.spotify.com/track/4r6AFRv8b4KurDJvm7BZ5N"
+    },
+    {
+      "album": {
+        "name": "FW14 (Extended Version)",
+        "url": "https://open.spotify.com/album/6m2UrRkuLmSzi1yNhbyO0h"
+      },
+      "artists": [
+        {
+          "name": "Christian Rich",
+          "url": "https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 219428,
+      "name": "High (Kris Bowers Remix)",
+      "url": "https://open.spotify.com/track/1Tj0TcwUZZhbgKB6ACu7EE"
+    },
+    {
+      "album": {
+        "name": "HOLLYWOOD",
+        "url": "https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 213311,
+      "name": "HOLLYWOOD",
+      "url": "https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ"
+    },
+    {
+      "album": {
+        "name": "I Like Dat (feat. BIA & Kehlani)",
+        "url": "https://open.spotify.com/album/6j46dFtnzrjKNAmfcEtpKJ"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283305,
+      "name": "I Like Dat (feat. BIA & Kehlani)",
+      "url": "https://open.spotify.com/track/3e1C4xcn4REvbAa7M6VshF"
+    },
+    {
+      "album": {
+        "name": "I'm Geekin (feat. NLE Choppa & BIA) [Remix]",
+        "url": "https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
+      "url": "https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc"
+    },
+    {
+      "album": {
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+    },
+    {
+      "album": {
+        "name": "The End of an Era",
+        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170899,
+      "name": "Is That Right",
+      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
+    },
+    {
+      "album": {
+        "name": "It's You (feat. BIA)",
+        "url": "https://open.spotify.com/album/1bHsKvnj1DJaE2c9Ea4mHY"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132537,
+      "name": "It's You (feat. BIA)",
+      "url": "https://open.spotify.com/track/2vrrcekBMTpaadCzsBgGxw"
+    },
+    {
+      "album": {
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "Labels. (ft. Moneybagg Yo, BIA)",
+      "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
+    },
+    {
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201441,
+      "name": "LIFELINE",
+      "url": "https://open.spotify.com/track/7jmSuVVemJ0ixY1Xcd3F3t"
+    },
+    {
+      "album": {
+        "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
+        "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
+      },
+      "artists": [
+        {
+          "name": "Lil Blessin",
+          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228251,
+      "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
+      "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
+    },
+    {
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "album": {
+        "name": "Mami (feat. BIA)",
+        "url": "https://open.spotify.com/album/5Cfrwq2WmiSRAm5vRpjxse"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178398,
+      "name": "Mami (feat. BIA)",
+      "url": "https://open.spotify.com/track/2cEklOsQ4yr4SgtXZtHwvN"
+    },
+    {
+      "album": {
+        "name": "Mi Naturaleza",
+        "url": "https://open.spotify.com/album/02lrmDcKngoN0lk1D61uZ8"
+      },
+      "artists": [
+        {
+          "name": "K2",
+          "url": "https://open.spotify.com/artist/0l6S87tXngLhLA7h4gypUt"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 187089,
+      "name": "Mi Naturaleza",
+      "url": "https://open.spotify.com/track/5aKKt0NtDmvadXvIQbLHyD"
+    },
+    {
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243864,
+      "name": "Miami (feat. BIA)",
+      "url": "https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE"
+    },
+    {
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194675,
+      "name": "MILANO",
+      "url": "https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn"
+    },
+    {
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 147214,
+      "name": "MOTIONLESS",
+      "url": "https://open.spotify.com/track/4Oa6lFMvD8fCb3ciPJGe3D"
+    },
+    {
+      "album": {
+        "name": "Drunken Wordz Sober Thoughtz",
+        "url": "https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 168269,
+      "name": "Nasty Girl",
+      "url": "https://open.spotify.com/track/7AieOtwbgEHjfVLh8d1iit"
+    },
+    {
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97013,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/1ZvcFWX1gRGhkCQJwtPANZ"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/3Sdnzuh874KS2fpvbOKfVh"
+      },
+      "artists": [
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 181509,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/0KZgWM9NQnbJYxP31XtL4k"
+    },
+    {
+      "album": {
+        "name": "One Minute Warning",
+        "url": "https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61916,
+      "name": "One Minute Warning",
+      "url": "https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/3cPb7WoJvMKZdJNL9nU2UT"
+      },
+      "artists": [
+        {
+          "name": "Sam i",
+          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Mc Pikachu",
+          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 207405,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7v5fIXqgB0nd5KgekRDe4M"
+    },
+    {
+      "album": {
+        "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
+        "url": "https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS"
+      },
+      "artists": [
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197461,
+      "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
+      "url": "https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm"
+    },
+    {
+      "album": {
+        "name": "Pi\u00f1ata (feat. BIA, Kap G & Justin Quiles)",
+        "url": "https://open.spotify.com/album/6rYMjTdVEaCgI25ZVNwVca"
+      },
+      "artists": [
+        {
+          "name": "Vice",
+          "url": "https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ"
+        },
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 198200,
+      "name": "Pi\u00f1ata (feat. BIA, Kap G & Justin Quiles)",
+      "url": "https://open.spotify.com/track/1K2xnKlPqXhLuTwPkQxmrJ"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 156519,
+      "name": "PLATE",
+      "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
+    },
+    {
+      "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "RAISE THE STAKES",
+      "url": "https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8"
+    },
+    {
+      "album": {
+        "name": "Raised Me",
+        "url": "https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132677,
+      "name": "Raised Me",
+      "url": "https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237623,
+      "name": "Run (feat. Tyga, 21 Savage & BIA)",
+      "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
+    },
+    {
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "SAME HANDS (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
+    },
+    {
+      "album": {
+        "name": "SIXTEEN",
+        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152948,
+      "name": "SIXTEEN",
+      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162779,
+      "name": "SKATE",
+      "url": "https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR"
+    },
+    {
+      "album": {
+        "name": "Solitude (with BIA & Lucky Daye)",
+        "url": "https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174476,
+      "name": "Solitude (with BIA & Lucky Daye)",
+      "url": "https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu"
+    },
+    {
+      "album": {
+        "name": "Street Opera (Swizz Beatz feat. SAINt JHN, Fivio Foreign & BIA)",
+        "url": "https://open.spotify.com/album/5FdgYOSQ4ZrDo6E9JTT0l5"
+      },
+      "artists": [
+        {
+          "name": "Godfather of Harlem",
+          "url": "https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        },
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 213211,
+      "name": "Street Opera (Swizz Beatz feat. SAINt JHN, Fivio Foreign & BIA)",
+      "url": "https://open.spotify.com/track/4yLgJsjlI21tC6cdmuk6KW"
+    },
+    {
+      "album": {
+        "name": "Street Opera (Swizz Beatz feat. SAINt JHN, Fivio Foreign & BIA)",
+        "url": "https://open.spotify.com/album/4ydjUzXvQ5jyxNtCchd3j0"
+      },
+      "artists": [
+        {
+          "name": "Godfather of Harlem",
+          "url": "https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        },
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213211,
+      "name": "Street Opera (Swizz Beatz feat. SAINt JHN, Fivio Foreign & BIA)",
+      "url": "https://open.spotify.com/track/7qYGNevCXJh3xOzmr3XvyK"
+    },
+    {
+      "album": {
+        "name": "NICE GIRLS FINISH LAST: CUIDADO",
+        "url": "https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 103173,
+      "name": "SUPABIEN",
+      "url": "https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx"
+    },
+    {
+      "album": {
+        "name": "Super Freaky Girl (Queen Mix)",
+        "url": "https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Katie Got Bandz",
+          "url": "https://open.spotify.com/artist/48ObYO3GM7R76nRcfyvnM9"
+        },
+        {
+          "name": "Akbar V",
+          "url": "https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw"
+        },
+        {
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234899,
+      "name": "Super Freaky Girl (with JT & BIA feat. Katie Got Bandz, Akbar V & Maliibu Mitch) - Queen Mix",
+      "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Sam i",
+          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210631,
+      "name": "Su\u00e9ltate (with Sam i & Jarina De Marco feat. Anitta, BIA) - From Sing 2",
+      "url": "https://open.spotify.com/track/3nUcCMjX6up5Ik95sTpNU0"
+    },
+    {
+      "album": {
+        "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
+        "url": "https://open.spotify.com/album/2Pr2gqGNGdyyqUMCkQ0V2V"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144796,
+      "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
+      "url": "https://open.spotify.com/track/0gIVNoo3H05GyR4ExxmQOa"
+    },
+    {
+      "album": {
+        "name": "Distrito Federal",
+        "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172078,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
+    },
+    {
+      "album": {
+        "name": "NICE GIRLS FINISH LAST: CUIDADO",
+        "url": "https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 184160,
+      "name": "VIBES ON ME (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3cc1U9c0maT9xGxy4vOec4"
+    },
+    {
+      "album": {
+        "name": "Waiting On Me (feat. Swizz Beatz, YG, BIA & Giggs)",
+        "url": "https://open.spotify.com/album/61Lg0x5PtyijXiDxu9s8uJ"
+      },
+      "artists": [
+        {
+          "name": "Godfather of Harlem",
+          "url": "https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 216981,
+      "name": "Waiting On Me (feat. Swizz Beatz, YG, BIA & Giggs)",
+      "url": "https://open.spotify.com/track/22SS2T6TwIEI3FefmB9IRA"
+    },
+    {
+      "album": {
+        "name": "Whip It",
+        "url": "https://open.spotify.com/album/64RCa96sS1px5qoRTy3z1t"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 213239,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/1JWGPqQK0xxoiYG24S5Eo2"
+    },
+    {
+      "album": {
+        "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) [Remix]",
+        "url": "https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229601,
+      "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
+      "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
+    },
+    {
+      "album": {
+        "name": "Italiano",
+        "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174216,
+      "name": "X6 (feat. BIA)",
+      "url": "https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG"
+    },
+    {
+      "album": {
+        "name": "NICE GIRLS FINISH LAST: CUIDADO",
+        "url": "https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 162733,
+      "name": "YAKWTFGO (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/6rrP1mBTbBkJCP7FsBe0SM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx"
 }

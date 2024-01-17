@@ -1,471 +1,1507 @@
 {
-  "2022-09-18": 191997,
-  "2022-09-19": 192095,
-  "2022-09-20": 192169,
-  "2022-09-21": 192245,
-  "2022-09-22": 192330,
-  "2022-09-23": 192425,
-  "2022-09-24": 192425,
-  "2022-09-25": 192684,
-  "2022-09-26": 192789,
-  "2022-09-27": 192874,
-  "2022-09-28": 192984,
-  "2022-09-29": 193082,
-  "2022-09-30": 193178,
-  "2022-10-01": 193305,
-  "2022-10-02": 193436,
-  "2022-10-03": 193561,
-  "2022-10-04": 193669,
-  "2022-10-05": 193755,
-  "2022-10-06": 193850,
-  "2022-10-07": 193949,
-  "2022-10-08": 194068,
-  "2022-10-09": 194252,
-  "2022-10-10": 194272,
-  "2022-10-11": 194356,
-  "2022-10-12": 194472,
-  "2022-10-13": 194566,
-  "2022-10-14": 194673,
-  "2022-10-15": 194777,
-  "2022-10-16": 194900,
-  "2022-10-17": 195004,
-  "2022-10-18": 195079,
-  "2022-10-19": 195172,
-  "2022-10-20": 195274,
-  "2022-10-21": 195373,
-  "2022-10-22": 195482,
-  "2022-10-23": 195607,
-  "2022-10-24": 195708,
-  "2022-10-25": 195799,
-  "2022-10-26": 195888,
-  "2022-10-27": 196000,
-  "2022-10-28": 196103,
-  "2022-10-29": 196289,
-  "2022-10-30": 196486,
-  "2022-10-31": 196640,
-  "2022-11-01": 196775,
-  "2022-11-02": 196917,
-  "2022-11-03": 197056,
-  "2022-11-04": 197196,
-  "2022-11-05": 197338,
-  "2022-11-06": 197493,
-  "2022-11-07": 197633,
-  "2022-11-08": 197737,
-  "2022-11-09": 197850,
-  "2022-11-10": 197962,
-  "2022-11-11": 198065,
-  "2022-11-12": 198220,
-  "2022-11-13": 198352,
-  "2022-11-14": 198478,
-  "2022-11-15": 198561,
-  "2022-11-16": 198681,
-  "2022-11-17": 198791,
-  "2022-11-18": 198821,
-  "2022-11-19": 198842,
-  "2022-11-20": 198950,
-  "2022-11-21": 199081,
-  "2022-11-22": 199203,
-  "2022-11-23": 199285,
-  "2022-11-24": 199449,
-  "2022-11-25": 199605,
-  "2022-11-26": 199734,
-  "2022-11-27": 199834,
-  "2022-11-28": 199958,
-  "2022-11-29": 200057,
-  "2022-11-30": 200137,
-  "2022-12-01": 200232,
-  "2022-12-02": 200305,
-  "2022-12-03": 200452,
-  "2022-12-04": 200557,
-  "2022-12-05": 200649,
-  "2022-12-06": 200749,
-  "2022-12-07": 200845,
-  "2022-12-08": 200938,
-  "2022-12-09": 201063,
-  "2022-12-10": 201127,
-  "2022-12-11": 201230,
-  "2022-12-12": 201352,
-  "2022-12-13": 201437,
-  "2022-12-14": 201526,
-  "2022-12-15": 201610,
-  "2022-12-16": 201707,
-  "2022-12-17": 201828,
-  "2022-12-18": 201956,
-  "2022-12-19": 202044,
-  "2022-12-20": 202242,
-  "2022-12-21": 202242,
-  "2022-12-22": 202322,
-  "2022-12-24": 202550,
-  "2022-12-25": 202683,
-  "2022-12-26": 202795,
-  "2022-12-27": 202895,
-  "2022-12-28": 203001,
-  "2022-12-29": 203097,
-  "2022-12-30": 203219,
-  "2022-12-31": 203337,
-  "2023-01-01": 203503,
-  "2023-01-02": 203608,
-  "2023-01-03": 203692,
-  "2023-01-04": 203789,
-  "2023-01-05": 203883,
-  "2023-01-06": 204027,
-  "2023-01-07": 204213,
-  "2023-01-08": 204253,
-  "2023-01-09": 204368,
-  "2023-01-10": 204471,
-  "2023-01-11": 204568,
-  "2023-01-12": 204665,
-  "2023-01-13": 204764,
-  "2023-01-14": 204983,
-  "2023-01-15": 205015,
-  "2023-01-16": 205128,
-  "2023-01-17": 205236,
-  "2023-01-18": 205354,
-  "2023-01-19": 205460,
-  "2023-01-20": 205561,
-  "2023-01-21": 205680,
-  "2023-01-22": 205808,
-  "2023-01-23": 205956,
-  "2023-01-24": 206041,
-  "2023-01-25": 206142,
-  "2023-01-26": 206259,
-  "2023-01-27": 206367,
-  "2023-01-28": 206491,
-  "2023-01-29": 206641,
-  "2023-01-30": 206732,
-  "2023-01-31": 206732,
-  "2023-02-01": 206926,
-  "2023-02-02": 207032,
-  "2023-02-03": 207145,
-  "2023-02-04": 207254,
-  "2023-02-05": 207391,
-  "2023-02-06": 207509,
-  "2023-02-07": 207584,
-  "2023-02-08": 207785,
-  "2023-02-09": 207785,
-  "2023-02-10": 207908,
-  "2023-02-11": 208014,
-  "2023-02-12": 208244,
-  "2023-02-13": 208319,
-  "2023-02-14": 208319,
-  "2023-02-15": 208403,
-  "2023-02-16": 208503,
-  "2023-02-17": 208626,
-  "2023-02-18": 208876,
-  "2023-02-19": 208895,
-  "2023-02-20": 209014,
-  "2023-02-21": 209114,
-  "2023-02-22": 209214,
-  "2023-02-23": 209317,
-  "2023-02-24": 209437,
-  "2023-02-25": 209610,
-  "2023-02-26": 209708,
-  "2023-02-27": 209950,
-  "2023-02-28": 209950,
-  "2023-03-01": 210052,
-  "2023-03-02": 210150,
-  "2023-03-03": 210278,
-  "2023-03-04": 210408,
-  "2023-03-05": 210687,
-  "2023-03-06": 210687,
-  "2023-03-07": 210808,
-  "2023-03-08": 210929,
-  "2023-03-09": 211036,
-  "2023-03-10": 211142,
-  "2023-03-11": 211259,
-  "2023-03-12": 211396,
-  "2023-03-13": 211530,
-  "2023-03-14": 211620,
-  "2023-03-15": 211704,
-  "2023-03-16": 211704,
-  "2023-03-17": 211704,
-  "2023-03-18": 212049,
-  "2023-03-19": 212049,
-  "2023-03-20": 212256,
-  "2023-03-21": 212366,
-  "2023-03-22": 212451,
-  "2023-03-23": 212541,
-  "2023-03-24": 212541,
-  "2023-03-25": 212809,
-  "2023-03-26": 212965,
-  "2023-03-27": 213114,
-  "2023-03-28": 213221,
-  "2023-03-29": 213349,
-  "2023-03-30": 213572,
-  "2023-03-31": 213572,
-  "2023-04-01": 213706,
-  "2023-04-02": 213826,
-  "2023-04-03": 213959,
-  "2023-04-04": 214085,
-  "2023-04-05": 214216,
-  "2023-04-06": 214345,
-  "2023-04-07": 214444,
-  "2023-04-09": 214702,
-  "2023-04-10": 214806,
-  "2023-04-11": 215029,
-  "2023-04-12": 215029,
-  "2023-04-13": 215143,
-  "2023-04-14": 215250,
-  "2023-04-15": 215377,
-  "2023-04-16": 215522,
-  "2023-04-17": 215630,
-  "2023-04-18": 215748,
-  "2023-04-19": 215840,
-  "2023-04-20": 215949,
-  "2023-04-21": 216072,
-  "2023-04-22": 216192,
-  "2023-04-23": 216345,
-  "2023-04-24": 216460,
-  "2023-04-25": 216569,
-  "2023-04-26": 216676,
-  "2023-04-27": 216775,
-  "2023-04-28": 216910,
-  "2023-04-29": 217018,
-  "2023-04-30": 217158,
-  "2023-05-01": 217300,
-  "2023-05-02": 217407,
-  "2023-05-03": 217487,
-  "2023-05-04": 217594,
-  "2023-05-05": 217678,
-  "2023-05-06": 217800,
-  "2023-05-07": 217944,
-  "2023-05-08": 218056,
-  "2023-05-09": 218163,
-  "2023-05-10": 218267,
-  "2023-05-11": 218369,
-  "2023-05-12": 218479,
-  "2023-05-13": 218616,
-  "2023-05-14": 218748,
-  "2023-05-15": 218850,
-  "2023-05-16": 218945,
-  "2023-05-17": 219053,
-  "2023-05-18": 219171,
-  "2023-05-19": 219270,
-  "2023-05-20": 219550,
-  "2023-05-21": 219550,
-  "2023-05-22": 219550,
-  "2023-05-23": 219761,
-  "2023-05-24": 219933,
-  "2023-05-25": 219966,
-  "2023-05-26": 220079,
-  "2023-05-27": 220190,
-  "2023-05-28": 220300,
-  "2023-05-29": 220300,
-  "2023-05-30": 220492,
-  "2023-05-31": 220588,
-  "2023-06-01": 220693,
-  "2023-06-02": 220796,
-  "2023-06-03": 220904,
-  "2023-06-04": 221022,
-  "2023-06-05": 221121,
-  "2023-06-06": 221220,
-  "2023-06-07": 221327,
-  "2023-06-08": 221411,
-  "2023-06-09": 221541,
-  "2023-06-10": 221640,
-  "2023-06-11": 221722,
-  "2023-06-12": 221799,
-  "2023-06-13": 221853,
-  "2023-06-14": 221927,
-  "2023-06-15": 222004,
-  "2023-06-16": 222079,
-  "2023-06-17": 222187,
-  "2023-06-18": 222297,
-  "2023-06-19": 222390,
-  "2023-06-20": 222456,
-  "2023-06-21": 222521,
-  "2023-06-22": 222579,
-  "2023-06-23": 222647,
-  "2023-06-24": 222734,
-  "2023-06-25": 222826,
-  "2023-06-26": 222905,
-  "2023-06-27": 222990,
-  "2023-06-28": 223054,
-  "2023-06-29": 223127,
-  "2023-06-30": 223184,
-  "2023-07-01": 223317,
-  "2023-07-02": 223317,
-  "2023-07-03": 223388,
-  "2023-07-04": 223450,
-  "2023-07-05": 223515,
-  "2023-07-06": 223644,
-  "2023-07-07": 223644,
-  "2023-07-08": 223736,
-  "2023-07-09": 223808,
-  "2023-07-10": 223894,
-  "2023-07-11": 223938,
-  "2023-07-12": 223993,
-  "2023-07-13": 224065,
-  "2023-07-14": 224150,
-  "2023-07-15": 224225,
-  "2023-07-16": 224325,
-  "2023-07-17": 224403,
-  "2023-07-18": 224486,
-  "2023-07-19": 224554,
-  "2023-07-20": 224637,
-  "2023-07-21": 224698,
-  "2023-07-22": 224785,
-  "2023-07-23": 224862,
-  "2023-07-24": 224944,
-  "2023-07-25": 224997,
-  "2023-07-26": 225061,
-  "2023-07-27": 225131,
-  "2023-07-28": 225215,
-  "2023-07-29": 225312,
-  "2023-07-30": 225426,
-  "2023-07-31": 225490,
-  "2023-08-01": 225563,
-  "2023-08-02": 225626,
-  "2023-08-03": 225718,
-  "2023-08-04": 225808,
-  "2023-08-05": 225889,
-  "2023-08-06": 226061,
-  "2023-08-07": 226061,
-  "2023-08-08": 226129,
-  "2023-08-09": 226193,
-  "2023-08-10": 226279,
-  "2023-08-11": 226332,
-  "2023-08-12": 226332,
-  "2023-08-13": 226332,
-  "2023-08-14": 226556,
-  "2023-08-15": 226556,
-  "2023-08-16": 226556,
-  "2023-08-17": 226556,
-  "2023-08-18": 226556,
-  "2023-08-19": 226556,
-  "2023-08-20": 227001,
-  "2023-08-21": 227001,
-  "2023-08-22": 227117,
-  "2023-08-23": 227117,
-  "2023-08-24": 227117,
-  "2023-08-25": 227117,
-  "2023-08-26": 227407,
-  "2023-08-27": 227407,
-  "2023-08-28": 227566,
-  "2023-08-29": 227566,
-  "2023-08-30": 227566,
-  "2023-08-31": 227745,
-  "2023-09-01": 227819,
-  "2023-09-02": 227819,
-  "2023-09-03": 227983,
-  "2023-09-04": 227983,
-  "2023-09-05": 227983,
-  "2023-09-06": 228175,
-  "2023-09-07": 228175,
-  "2023-09-08": 228175,
-  "2023-09-09": 228175,
-  "2023-09-10": 228453,
-  "2023-09-11": 228453,
-  "2023-09-12": 228453,
-  "2023-09-13": 228638,
-  "2023-09-14": 228638,
-  "2023-09-15": 228638,
-  "2023-09-16": 228823,
-  "2023-09-17": 228823,
-  "2023-09-18": 228823,
-  "2023-09-19": 229011,
-  "2023-09-20": 229011,
-  "2023-09-21": 229011,
-  "2023-09-22": 229157,
-  "2023-09-23": 229157,
-  "2023-09-24": 229157,
-  "2023-09-25": 229157,
-  "2023-09-26": 229397,
-  "2023-09-27": 229397,
-  "2023-09-28": 229397,
-  "2023-09-29": 229397,
-  "2023-09-30": 229397,
-  "2023-10-01": 229397,
-  "2023-10-02": 229790,
-  "2023-10-03": 229790,
-  "2023-10-04": 229790,
-  "2023-10-05": 229935,
-  "2023-10-06": 229935,
-  "2023-10-07": 229935,
-  "2023-10-08": 229935,
-  "2023-10-09": 229935,
-  "2023-10-10": 229935,
-  "2023-10-11": 230221,
-  "2023-10-12": 230221,
-  "2023-10-13": 230221,
-  "2023-10-14": 230221,
-  "2023-10-15": 230221,
-  "2023-10-16": 230221,
-  "2023-10-17": 230221,
-  "2023-10-18": 230221,
-  "2023-10-19": 230221,
-  "2023-10-20": 230221,
-  "2023-10-21": 230221,
-  "2023-10-22": 230221,
-  "2023-10-23": 230221,
-  "2023-10-24": 230221,
-  "2023-10-25": 230221,
-  "2023-10-26": 230221,
-  "2023-10-27": 230221,
-  "2023-10-28": 230221,
-  "2023-10-29": 230221,
-  "2023-10-30": 230221,
-  "2023-10-31": 230221,
-  "2023-11-01": 230221,
-  "2023-11-02": 230221,
-  "2023-11-03": 230221,
-  "2023-11-04": 230221,
-  "2023-11-05": 230221,
-  "2023-11-06": 230221,
-  "2023-11-07": 230221,
-  "2023-11-08": 230221,
-  "2023-11-09": 230221,
-  "2023-11-10": 230221,
-  "2023-11-11": 231714,
-  "2023-11-12": 231714,
-  "2023-11-13": 231714,
-  "2023-11-14": 231714,
-  "2023-11-15": 231714,
-  "2023-11-16": 231714,
-  "2023-11-17": 231714,
-  "2023-11-18": 231714,
-  "2023-11-19": 231714,
-  "2023-11-20": 231714,
-  "2023-11-21": 231714,
-  "2023-11-22": 231714,
-  "2023-11-23": 231714,
-  "2023-11-24": 231714,
-  "2023-11-25": 231714,
-  "2023-11-26": 231714,
-  "2023-11-27": 231714,
-  "2023-11-28": 231714,
-  "2023-11-29": 231714,
-  "2023-11-30": 231714,
-  "2023-12-01": 231714,
-  "2023-12-02": 231714,
-  "2023-12-03": 231714,
-  "2023-12-04": 231714,
-  "2023-12-05": 231714,
-  "2023-12-06": 231714,
-  "2023-12-07": 231714,
-  "2023-12-08": 231714,
-  "2023-12-09": 231714,
-  "2023-12-10": 231714,
-  "2023-12-11": 231714,
-  "2023-12-12": 231714,
-  "2023-12-13": 231714,
-  "2023-12-14": 233313,
-  "2023-12-15": 233352,
-  "2023-12-16": 233393,
-  "2023-12-17": 233444,
-  "2023-12-18": 233493,
-  "2023-12-19": 233553,
-  "2023-12-20": 233597,
-  "2023-12-21": 233636,
-  "2023-12-22": 233658,
-  "2023-12-23": 233718,
-  "2023-12-24": 233771,
-  "2023-12-25": 233831,
-  "2023-12-26": 233870,
-  "2023-12-27": 233926,
-  "2023-12-30": 234085,
-  "2023-12-31": 234130,
-  "2024-01-01": 234165,
-  "2024-01-02": 234202,
-  "2024-01-03": 234229
+  "2024-01-17": 234473,
+  "date_first_scraped": "2022-09-18",
+  "description": "This is ZZ Top. The essential tracks, all in one playlist.",
+  "name": "This Is ZZ Top",
+  "tracks": [
+    {
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "(Somebody Else Been) Shaking Your Tree",
+      "url": "https://open.spotify.com/track/56osPBrG8UgZTlgJN6IUYD"
+    },
+    {
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254093,
+      "name": "A Fool for Your Stockings",
+      "url": "https://open.spotify.com/track/5sJEntK68Ecj0S61k41zQ8"
+    },
+    {
+      "album": {
+        "name": "One Foot in the Blues",
+        "url": "https://open.spotify.com/album/0etWjNu0rvWYY3fUMacV14"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 256399,
+      "name": "A Fool for Your Stockings",
+      "url": "https://open.spotify.com/track/0NmxhwG2NwLhY6iCJIfGWA"
+    },
+    {
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 159626,
+      "name": "Apologies to Pearly",
+      "url": "https://open.spotify.com/track/03AILJKNtXyZmvZV06yIsW"
+    },
+    {
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/5NR2RuQ5rQplGLaKS7ZwAu"
+    },
+    {
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 209626,
+      "name": "Asleep in the Desert - Instrumental",
+      "url": "https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 202400,
+      "name": "Bad Girl - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6xjNioXsWUYOduKYUrjuEX"
+    },
+    {
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156733,
+      "name": "Balinese - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1r6wqKNFYQbookhQtQz0uW"
+    },
+    {
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 205973,
+      "name": "Bar-B-Q",
+      "url": "https://open.spotify.com/track/5ondtkwlkDYxPagDIm8JsK"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "Beer Drinkers & Hell Raisers - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2ap1hCe7wyOWkMJsnIn0V1"
+    },
+    {
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282626,
+      "name": "Blue Jean Blues - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs"
+    },
+    {
+      "album": {
+        "name": "RAW ('That Little Ol' Band From Texas' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 257906,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/71QEoo6iXfDWY0PH6vXqRO"
+    },
+    {
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324560,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/5dGVIZ6oc0ScR4ldWGbXSU"
+    },
+    {
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 199760,
+      "name": "Burger Man",
+      "url": "https://open.spotify.com/track/4Nm1dKcDgsacRITdywmeWi"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Can't Stop Rockin'",
+      "url": "https://open.spotify.com/track/7A1G4cFoivSdoryjH9w2z6"
+    },
+    {
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "Certified Blues",
+      "url": "https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t"
+    },
+    {
+      "album": {
+        "name": "La Futura (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "Chartreuse",
+      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
+    },
+    {
+      "album": {
+        "name": "The Very Baddest of... ZZ Top",
+        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 160466,
+      "name": "Cheap Sunglasses",
+      "url": "https://open.spotify.com/track/23GKaCeOwUt6MQyCwi4M26"
+    },
+    {
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288400,
+      "name": "Cheap Sunglasses",
+      "url": "https://open.spotify.com/track/30jsPpxLvSCYTTTtdjRzBp"
+    },
+    {
+      "album": {
+        "name": "La Futura (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 227560,
+      "name": "Consumption",
+      "url": "https://open.spotify.com/track/2WtcpnIJRKuzrOA9BRzaEt"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 191240,
+      "name": "Dipping Low (In the Lap of Luxury)",
+      "url": "https://open.spotify.com/track/4m4XQfjhxm5lV7AT38aeK1"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 246613,
+      "name": "Dirty Dog - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1RLc2ojStMvkdkM00owYkm"
+    },
+    {
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj"
+    },
+    {
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150146,
+      "name": "Down Brownie",
+      "url": "https://open.spotify.com/track/0aipmEKEVMfYccmS4CQa6C"
+    },
+    {
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 261453,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/5I4TQ0g8A3H4fubtRr8uiy"
+    },
+    {
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Francine",
+      "url": "https://open.spotify.com/track/1dzfGr4PZ5npvdv6DWvycB"
+    },
+    {
+      "album": {
+        "name": "The Very Baddest of ZZ Top",
+        "url": "https://open.spotify.com/album/4ADUZQ1pM9r9f49MX8cUdl"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211773,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/251LsIzSjWnlnxvWYLCucN"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
+    },
+    {
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209426,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/470PZEQc7PUnvhp73hSrJc"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243066,
+      "name": "Got Me Under Pressure - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1jzZZsfzxsebFa6KpWXaAr"
+    },
+    {
+      "album": {
+        "name": "RAW ('That Little Ol' Band From Texas' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 170960,
+      "name": "Heard It On The X",
+      "url": "https://open.spotify.com/track/2hVpNA46kjPlYHapuFJ2yS"
+    },
+    {
+      "album": {
+        "name": "Heard It On The X",
+        "url": "https://open.spotify.com/album/6HThlq6qQOLiaOigjNpHaH"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 170960,
+      "name": "Heard It On The X",
+      "url": "https://open.spotify.com/track/4tbHJc3pgypdIGeWxK5CwS"
+    },
+    {
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144813,
+      "name": "Heard It on the X - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4ik8VdladXfzpN1jPU7rDu"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 197520,
+      "name": "Hot, Blue and Righteous - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0tH43q9uOXKh1shZCs53DP"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "I Got the Six - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2WcnvJKsp1aYs8xp2nJyDN"
+    },
+    {
+      "album": {
+        "name": "La Futura",
+        "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243160,
+      "name": "I Gotsta Get Paid",
+      "url": "https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378626,
+      "name": "I Need You Tonight - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4s22XSQoOFvN5HrXk9YZ3I"
+    },
+    {
+      "album": {
+        "name": "The Very Baddest of... ZZ Top",
+        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 181960,
+      "name": "I Thank You",
+      "url": "https://open.spotify.com/track/0XJ91yu0ZSLOIGyOCuIrOV"
+    },
+    {
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "I Thank You",
+      "url": "https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2"
+    },
+    {
+      "album": {
+        "name": "Chrome Smoke & BBQ: The ZZ Top Box",
+        "url": "https://open.spotify.com/album/3FZ3Hbn9rKDVn66EbpKypM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 203973,
+      "name": "I Thank You - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0GBxieUHB1YUPG0P6BnDzu"
+    },
+    {
+      "album": {
+        "name": "ZZ Top's Greatest Hits",
+        "url": "https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 286493,
+      "name": "I'm Bad, I'm Nationwide",
+      "url": "https://open.spotify.com/track/7hq8ntGVskliIPeoP99nA2"
+    },
+    {
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286573,
+      "name": "I'm Bad, I'm Nationwide",
+      "url": "https://open.spotify.com/track/39upzShiWUjweO2v6Ewfjw"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 220146,
+      "name": "If I Could Only Flag Her Down - 2008 Remaster",
+      "url": "https://open.spotify.com/track/12kRyzNezk2nE2EzJ2nq2l"
+    },
+    {
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 115973,
+      "name": "Jailhouse Rock - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1MRidycoVNBWpBTOkD84rX"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "Jesus Just Left Chicago - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
+    },
+    {
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "Just Got Back from Baby's",
+      "url": "https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t"
+    },
+    {
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267480,
+      "name": "Just Got Paid",
+      "url": "https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T"
+    },
+    {
+      "album": {
+        "name": "RAW ('That Little Ol' Band From Texas' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 281586,
+      "name": "La Grange",
+      "url": "https://open.spotify.com/track/3xjg84vWI81M4uGFIP9NHu"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273906,
+      "name": "Legs - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7t6CAWplijBj4sdl0q3z0e"
+    },
+    {
+      "album": {
+        "name": "El Loco",
+        "url": "https://open.spotify.com/album/3arG8ypefLVEmDBzFVCsyR"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 195133,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/7tnAAu1R09JUyjor6gwBrG"
+    },
+    {
+      "album": {
+        "name": "Rhythmeen",
+        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 226906,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/27KdS3l2l5hr611LJPZoxD"
+    },
+    {
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 169200,
+      "name": "Lowdown in the Street",
+      "url": "https://open.spotify.com/track/4LzgR48Ahifw6YMPom8WYD"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209786,
+      "name": "Master of Sparks - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5QlRoZ3eJRwFOK8xBQf44y"
+    },
+    {
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185626,
+      "name": "Mexican Blackbird - 2005 Remaster",
+      "url": "https://open.spotify.com/track/7rbm9b3fLOKCCBqNFVdkWV"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "Move Me on Down the Line - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2afW0UsI1mU9mREstUTwu6"
+    },
+    {
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261026,
+      "name": "My Head's in Mississippi",
+      "url": "https://open.spotify.com/track/57zvMcOgGJLQxZ2hsFgJ5S"
+    },
+    {
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162346,
+      "name": "Nasty Dogs and Funky Kings - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2nOkKjTkLvKeebQEHUB3Hi"
+    },
+    {
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 207200,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/1WryOnXklb939nAXxY0Ix2"
+    },
+    {
+      "album": {
+        "name": "La Futura",
+        "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 269640,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/0df15uIXfk3GdUQYjQNJYe"
+    },
+    {
+      "album": {
+        "name": "ZZ Top's Greatest Hits",
+        "url": "https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245533,
+      "name": "Pearl Necklace",
+      "url": "https://open.spotify.com/track/4anJfhuQLpdg637D6wt0cL"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242866,
+      "name": "Planet of Women",
+      "url": "https://open.spotify.com/track/6VdlbIPdzJYj35Tq05vsH5"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 189666,
+      "name": "Precious and Grace - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2RkypFpFvnvkjKVjBPVXEs"
+    },
+    {
+      "album": {
+        "name": "Rhythmeen",
+        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 232760,
+      "name": "Rhythmeen",
+      "url": "https://open.spotify.com/track/0ENGJrM4g0kODzoWGHjqOr"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289160,
+      "name": "Rough Boy",
+      "url": "https://open.spotify.com/track/09C7ULYG1WhWgngwkkvVxN"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258026,
+      "name": "Sharp Dressed Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
+    },
+    {
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143106,
+      "name": "She Loves My Automobile",
+      "url": "https://open.spotify.com/track/4AeZKrbiPqJuVrJvrngTkR"
+    },
+    {
+      "album": {
+        "name": "Rhythmeen",
+        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296933,
+      "name": "She's Just Killing Me",
+      "url": "https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q"
+    },
+    {
+      "album": {
+        "name": "Sixteen Tons (feat. Jeff Beck) [Live From London]",
+        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197734,
+      "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
+      "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242333,
+      "name": "Sleeping Bag",
+      "url": "https://open.spotify.com/track/1ESuT2y9AKu1zMdxq47qW5"
+    },
+    {
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "Squank",
+      "url": "https://open.spotify.com/track/5ndUXJQPTVDPVlQUgW2vgE"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212026,
+      "name": "Stages",
+      "url": "https://open.spotify.com/track/4Sx0FBH0vNWZVxeUCpdHoL"
+    },
+    {
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440946,
+      "name": "Sure Got Cold After the Rain Fell",
+      "url": "https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ"
+    },
+    {
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 250186,
+      "name": "Thunderbird - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3BMhtHTzh510RHekQ5YT3B"
+    },
+    {
+      "album": {
+        "name": "The ZZ Top Sixpack",
+        "url": "https://open.spotify.com/album/7qiuWLGm20GqQ19ykHbGAF"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184293,
+      "name": "Tube Snake Boogie",
+      "url": "https://open.spotify.com/track/0KbtyQ2oKJWiFJz5wY4HBX"
+    },
+    {
+      "album": {
+        "name": "RAW ('That Little Ol' Band From Texas' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 186146,
+      "name": "Tube Snake Boogie",
+      "url": "https://open.spotify.com/track/7fuEQbsUxgUpnvwuHl2S0Q"
+    },
+    {
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137933,
+      "name": "Tush - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 230573,
+      "name": "TV Dinners - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4c0IaYoW94OEFhJE40zcQb"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209133,
+      "name": "Velcro Fly",
+      "url": "https://open.spotify.com/track/511XWfaUgmaVcms4OhQ9oz"
+    },
+    {
+      "album": {
+        "name": "ZZ Top's Greatest Hits",
+        "url": "https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286546,
+      "name": "Viva Las Vegas",
+      "url": "https://open.spotify.com/track/5JFywJVhSvuJI6KB9ikgjA"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Waitin' for the Bus - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2s0XwRidJ0uVeXThGbeCCk"
+    },
+    {
+      "album": {
+        "name": "Rhythmeen",
+        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 321266,
+      "name": "What's Up With That",
+      "url": "https://open.spotify.com/track/1vZ3oSRyLRC4JOZ0S8j7G3"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 225533,
+      "name": "Woke up with Wood",
+      "url": "https://open.spotify.com/track/5DAWFvcrsfMOkLwGvxLcjG"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uge6k"
 }

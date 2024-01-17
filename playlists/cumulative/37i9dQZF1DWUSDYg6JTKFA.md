@@ -4,7 +4,7 @@
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-121 songs - 8 hr 31 min
+122 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Rescue](https://open.spotify.com/track/1TPOfLc3kTmlQLSK7jMelu) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1) | 3:35 | 2020-07-23 | 2022-07-29 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2020-07-23 |  |
 | [Rise](https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:37 | 2020-07-23 | 2023-11-04 |
+| [Rise](https://open.spotify.com/track/7E081VjB8ih6c6AElqlQiN) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:39 | 2020-07-23 |  |
 | [Safe in My Father's Arms](https://open.spotify.com/track/2CQtBxy0ZTymDPiNOm8xgX) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Safe in My Father's Arms](https://open.spotify.com/album/28OzZnaTPga1VZFZ7OdiDV) | 3:16 | 2020-07-23 | 2022-07-13 |
 | [Scars \(Come With Livin'\)](https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 4:21 | 2020-07-23 |  |
 | [Seasons](https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 4:34 | 2020-07-23 |  |
@@ -107,7 +108,7 @@
 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 | 2020-07-23 |  |
 | [Still Alive](https://open.spotify.com/track/10EsmmPLFJt1Ubof7uXegf) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Should've Been Me](https://open.spotify.com/album/1PZXNoyAoGzQCQ1SS2MAue) | 3:05 | 2020-07-23 | 2022-07-28 |
 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 | 2020-07-23 |  |
-| [Stronger \- With Cold Ending](https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [What If We Were Real](https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V) | 3:33 | 2020-07-23 |  |
+| [Stronger \- With Cold Ending](https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [What If We Were Real](https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V) | 3:33 | 2020-07-23 | 2024-01-16 |
 | [That Was Then, This Is Now](https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [That Was Then, This Is Now](https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq) | 3:17 | 2020-07-23 |  |
 | [The Comeback](https://open.spotify.com/track/3QiF0PF9ciUoyHFrr6DBme) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:11 | 2020-07-23 |  |
 | [The Comeback](https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:11 | 2020-07-23 | 2023-11-03 |

@@ -1,735 +1,2963 @@
 {
-  "2021-12-25": 187858,
-  "2021-12-26": 187908,
-  "2021-12-27": 188016,
-  "2021-12-28": 188016,
-  "2021-12-29": 188050,
-  "2021-12-30": 188102,
-  "2021-12-31": 188155,
-  "2022-01-01": 188263,
-  "2022-01-02": 188278,
-  "2022-01-03": 188328,
-  "2022-01-04": 188394,
-  "2022-01-05": 188437,
-  "2022-01-06": 188498,
-  "2022-01-07": 188544,
-  "2022-01-08": 188643,
-  "2022-01-09": 188648,
-  "2022-01-10": 188727,
-  "2022-01-11": 188766,
-  "2022-01-12": 188812,
-  "2022-01-13": 188844,
-  "2022-01-14": 188903,
-  "2022-01-15": 189001,
-  "2022-01-16": 189004,
-  "2022-01-17": 189112,
-  "2022-01-18": 189121,
-  "2022-01-19": 189154,
-  "2022-01-20": 189186,
-  "2022-01-21": 189227,
-  "2022-01-22": 189283,
-  "2022-01-23": 189338,
-  "2022-01-24": 189410,
-  "2022-01-25": 189449,
-  "2022-01-26": 189485,
-  "2022-01-27": 189527,
-  "2022-01-28": 189585,
-  "2022-01-29": 189623,
-  "2022-01-30": 189671,
-  "2022-01-31": 189706,
-  "2022-02-01": 189746,
-  "2022-02-02": 189778,
-  "2022-02-03": 189807,
-  "2022-02-04": 189856,
-  "2022-02-05": 189904,
-  "2022-02-06": 189946,
-  "2022-02-07": 190006,
-  "2022-02-08": 190054,
-  "2022-02-09": 190097,
-  "2022-02-10": 190136,
-  "2022-02-11": 190187,
-  "2022-02-12": 190226,
-  "2022-02-13": 190279,
-  "2022-02-14": 190332,
-  "2022-02-15": 190343,
-  "2022-02-16": 190364,
-  "2022-02-17": 190396,
-  "2022-02-18": 190434,
-  "2022-02-19": 190471,
-  "2022-02-20": 190522,
-  "2022-02-21": 190578,
-  "2022-02-22": 190629,
-  "2022-02-23": 190658,
-  "2022-02-24": 190704,
-  "2022-02-25": 190748,
-  "2022-02-26": 190778,
-  "2022-02-27": 190900,
-  "2022-02-28": 190900,
-  "2022-03-01": 190939,
-  "2022-03-02": 190988,
-  "2022-03-03": 191013,
-  "2022-03-04": 191075,
-  "2022-03-05": 191113,
-  "2022-03-06": 191169,
-  "2022-03-07": 191215,
-  "2022-03-08": 191260,
-  "2022-03-09": 191301,
-  "2022-03-10": 191344,
-  "2022-03-11": 191391,
-  "2022-03-12": 191414,
-  "2022-03-13": 191452,
-  "2022-03-14": 191494,
-  "2022-03-15": 191542,
-  "2022-03-16": 191595,
-  "2022-03-17": 191624,
-  "2022-03-18": 191662,
-  "2022-03-19": 191686,
-  "2022-03-20": 191686,
-  "2022-03-21": 191780,
-  "2022-03-22": 191814,
-  "2022-03-23": 191869,
-  "2022-03-24": 191938,
-  "2022-03-25": 192000,
-  "2022-03-26": 192038,
-  "2022-03-27": 192120,
-  "2022-03-28": 192191,
-  "2022-03-30": 192284,
-  "2022-03-31": 192335,
-  "2022-04-01": 192385,
-  "2022-04-02": 192451,
-  "2022-04-03": 192517,
-  "2022-04-04": 192594,
-  "2022-04-05": 192662,
-  "2022-04-06": 192723,
-  "2022-04-07": 192796,
-  "2022-04-08": 192841,
-  "2022-04-09": 192916,
-  "2022-04-10": 193033,
-  "2022-04-11": 193096,
-  "2022-04-12": 193101,
-  "2022-04-13": 193131,
-  "2022-04-14": 193169,
-  "2022-04-15": 193231,
-  "2022-04-16": 193283,
-  "2022-04-17": 193341,
-  "2022-04-18": 193393,
-  "2022-04-19": 193429,
-  "2022-04-20": 193455,
-  "2022-04-21": 193520,
-  "2022-04-22": 193574,
-  "2022-04-23": 193624,
-  "2022-04-24": 193665,
-  "2022-04-25": 193723,
-  "2022-04-26": 193768,
-  "2022-04-27": 193819,
-  "2022-04-28": 193843,
-  "2022-04-29": 193925,
-  "2022-04-30": 193972,
-  "2022-05-01": 194071,
-  "2022-05-02": 194071,
-  "2022-05-03": 194136,
-  "2022-05-04": 194194,
-  "2022-05-05": 194221,
-  "2022-05-06": 194275,
-  "2022-05-07": 194333,
-  "2022-05-08": 194388,
-  "2022-05-09": 194396,
-  "2022-05-10": 194447,
-  "2022-05-11": 194475,
-  "2022-05-12": 194524,
-  "2022-05-13": 194575,
-  "2022-05-14": 194621,
-  "2022-05-15": 194667,
-  "2022-05-16": 194719,
-  "2022-05-17": 194773,
-  "2022-05-18": 194819,
-  "2022-05-19": 194851,
-  "2022-05-20": 194911,
-  "2022-05-21": 194982,
-  "2022-05-22": 194982,
-  "2022-05-23": 195037,
-  "2022-05-24": 195064,
-  "2022-05-25": 195110,
-  "2022-05-26": 195149,
-  "2022-05-27": 195208,
-  "2022-05-28": 195236,
-  "2022-05-29": 195284,
-  "2022-05-30": 195324,
-  "2022-05-31": 195360,
-  "2022-06-01": 195420,
-  "2022-06-02": 195429,
-  "2022-06-03": 195469,
-  "2022-06-04": 195500,
-  "2022-06-05": 195549,
-  "2022-06-06": 195589,
-  "2022-06-07": 195629,
-  "2022-06-08": 195684,
-  "2022-06-09": 195711,
-  "2022-06-10": 195751,
-  "2022-06-11": 195781,
-  "2022-06-12": 195831,
-  "2022-06-13": 195863,
-  "2022-06-14": 195907,
-  "2022-06-15": 195934,
-  "2022-06-16": 195971,
-  "2022-06-17": 196009,
-  "2022-06-18": 196047,
-  "2022-06-19": 196151,
-  "2022-06-20": 196151,
-  "2022-06-21": 196208,
-  "2022-06-22": 196302,
-  "2022-06-23": 196302,
-  "2022-06-24": 196327,
-  "2022-06-25": 196361,
-  "2022-06-26": 196407,
-  "2022-06-27": 196448,
-  "2022-06-28": 196487,
-  "2022-06-29": 196515,
-  "2022-06-30": 196536,
-  "2022-07-01": 196574,
-  "2022-07-02": 196603,
-  "2022-07-03": 196655,
-  "2022-07-04": 196690,
-  "2022-07-05": 196731,
-  "2022-07-06": 196776,
-  "2022-07-07": 196800,
-  "2022-07-08": 196849,
-  "2022-07-09": 196880,
-  "2022-07-10": 196924,
-  "2022-07-11": 196974,
-  "2022-07-12": 197019,
-  "2022-07-13": 197071,
-  "2022-07-14": 197101,
-  "2022-07-15": 197139,
-  "2022-07-16": 197176,
-  "2022-07-17": 197225,
-  "2022-07-18": 197256,
-  "2022-07-19": 197311,
-  "2022-07-20": 197370,
-  "2022-07-21": 197403,
-  "2022-07-22": 197442,
-  "2022-07-23": 197495,
-  "2022-07-24": 197548,
-  "2022-07-25": 197618,
-  "2022-07-26": 197648,
-  "2022-07-27": 197684,
-  "2022-07-28": 197724,
-  "2022-07-29": 197771,
-  "2022-07-30": 197848,
-  "2022-07-31": 197848,
-  "2022-08-01": 197898,
-  "2022-08-02": 197960,
-  "2022-08-03": 197960,
-  "2022-08-04": 198002,
-  "2022-08-05": 198032,
-  "2022-08-06": 198055,
-  "2022-08-07": 198104,
-  "2022-08-08": 198155,
-  "2022-08-09": 198199,
-  "2022-08-10": 198233,
-  "2022-08-11": 198265,
-  "2022-08-12": 198311,
-  "2022-08-13": 198356,
-  "2022-08-14": 198415,
-  "2022-08-15": 198493,
-  "2022-08-16": 198565,
-  "2022-08-17": 198627,
-  "2022-08-18": 198711,
-  "2022-08-19": 198771,
-  "2022-08-20": 198815,
-  "2022-08-21": 198900,
-  "2022-08-22": 198952,
-  "2022-08-23": 199000,
-  "2022-08-24": 199039,
-  "2022-08-25": 199094,
-  "2022-08-26": 199137,
-  "2022-08-27": 199179,
-  "2022-08-28": 199223,
-  "2022-08-29": 199264,
-  "2022-08-30": 199294,
-  "2022-08-31": 199280,
-  "2022-09-01": 199238,
-  "2022-09-02": 199208,
-  "2022-09-03": 199267,
-  "2022-09-04": 199208,
-  "2022-09-05": 199215,
-  "2022-09-06": 199263,
-  "2022-09-07": 199299,
-  "2022-09-09": 199395,
-  "2022-09-10": 199434,
-  "2022-09-11": 199478,
-  "2022-09-12": 199523,
-  "2022-09-13": 199574,
-  "2022-09-15": 199664,
-  "2022-09-16": 199707,
-  "2022-09-17": 199745,
-  "2022-09-18": 199802,
-  "2022-09-19": 199850,
-  "2022-09-20": 199880,
-  "2022-09-21": 199924,
-  "2022-09-22": 199963,
-  "2022-09-23": 200004,
-  "2022-09-24": 200042,
-  "2022-09-25": 200081,
-  "2022-09-26": 200134,
-  "2022-09-27": 200167,
-  "2022-09-28": 200227,
-  "2022-09-29": 200286,
-  "2022-09-30": 200333,
-  "2022-10-01": 200399,
-  "2022-10-02": 200454,
-  "2022-10-03": 200495,
-  "2022-10-04": 200542,
-  "2022-10-05": 200585,
-  "2022-10-06": 200639,
-  "2022-10-07": 200681,
-  "2022-10-08": 200738,
-  "2022-10-09": 200827,
-  "2022-10-10": 200836,
-  "2022-10-11": 200880,
-  "2022-10-12": 200914,
-  "2022-10-13": 200945,
-  "2022-10-14": 200983,
-  "2022-10-15": 201022,
-  "2022-10-16": 201087,
-  "2022-10-17": 201135,
-  "2022-10-18": 201158,
-  "2022-10-19": 201200,
-  "2022-10-20": 201244,
-  "2022-10-21": 201294,
-  "2022-10-22": 201336,
-  "2022-10-23": 201383,
-  "2022-10-24": 201430,
-  "2022-10-25": 201477,
-  "2022-10-26": 201522,
-  "2022-10-27": 201578,
-  "2022-10-28": 201611,
-  "2022-10-29": 201654,
-  "2022-10-30": 201692,
-  "2022-10-31": 201730,
-  "2022-11-01": 201780,
-  "2022-11-02": 201828,
-  "2022-11-03": 201873,
-  "2022-11-04": 201934,
-  "2022-11-05": 201977,
-  "2022-11-06": 202037,
-  "2022-11-07": 202076,
-  "2022-11-08": 202105,
-  "2022-11-09": 202143,
-  "2022-11-10": 202197,
-  "2022-11-11": 202236,
-  "2022-11-12": 202288,
-  "2022-11-13": 202339,
-  "2022-11-14": 202386,
-  "2022-11-15": 202429,
-  "2022-11-16": 202472,
-  "2022-11-17": 202517,
-  "2022-11-18": 202532,
-  "2022-11-19": 202517,
-  "2022-11-20": 202578,
-  "2022-11-21": 202545,
-  "2022-11-22": 202667,
-  "2022-11-23": 202642,
-  "2022-11-24": 202792,
-  "2022-11-25": 202861,
-  "2022-11-26": 202911,
-  "2022-11-27": 202959,
-  "2022-11-28": 203011,
-  "2022-11-29": 203044,
-  "2022-11-30": 203088,
-  "2022-12-01": 203137,
-  "2022-12-02": 203154,
-  "2022-12-03": 203232,
-  "2022-12-04": 203271,
-  "2022-12-05": 203344,
-  "2022-12-06": 203392,
-  "2022-12-07": 203438,
-  "2022-12-08": 203482,
-  "2022-12-09": 203543,
-  "2022-12-10": 203595,
-  "2022-12-11": 203629,
-  "2022-12-12": 203669,
-  "2022-12-13": 203710,
-  "2022-12-14": 203768,
-  "2022-12-15": 203808,
-  "2022-12-16": 203845,
-  "2022-12-17": 203885,
-  "2022-12-18": 203925,
-  "2022-12-19": 203965,
-  "2022-12-20": 204076,
-  "2022-12-21": 204076,
-  "2022-12-22": 204124,
-  "2022-12-24": 204211,
-  "2022-12-25": 204260,
-  "2022-12-26": 204331,
-  "2022-12-27": 204392,
-  "2022-12-28": 204438,
-  "2022-12-29": 204499,
-  "2022-12-30": 204552,
-  "2022-12-31": 204638,
-  "2023-01-01": 204696,
-  "2023-01-02": 204749,
-  "2023-01-03": 204800,
-  "2023-01-04": 204837,
-  "2023-01-05": 204881,
-  "2023-01-06": 204965,
-  "2023-01-07": 205043,
-  "2023-01-08": 205054,
-  "2023-01-09": 205126,
-  "2023-01-10": 205186,
-  "2023-01-11": 205239,
-  "2023-01-12": 205312,
-  "2023-01-13": 205365,
-  "2023-01-14": 205478,
-  "2023-01-15": 205496,
-  "2023-01-16": 205567,
-  "2023-01-17": 205620,
-  "2023-01-18": 205688,
-  "2023-01-19": 205741,
-  "2023-01-20": 205789,
-  "2023-01-21": 205829,
-  "2023-01-22": 205890,
-  "2023-01-23": 205948,
-  "2023-01-24": 206015,
-  "2023-01-25": 206065,
-  "2023-01-26": 206126,
-  "2023-01-27": 206182,
-  "2023-01-28": 206228,
-  "2023-01-29": 206298,
-  "2023-01-30": 206351,
-  "2023-01-31": 206351,
-  "2023-02-01": 206461,
-  "2023-02-02": 206501,
-  "2023-02-03": 206557,
-  "2023-02-04": 206607,
-  "2023-02-05": 206663,
-  "2023-02-06": 206725,
-  "2023-02-07": 206796,
-  "2023-02-08": 206890,
-  "2023-02-09": 206890,
-  "2023-02-10": 206954,
-  "2023-02-11": 207011,
-  "2023-02-12": 207108,
-  "2023-02-13": 207131,
-  "2023-02-14": 207131,
-  "2023-02-15": 207176,
-  "2023-02-16": 207235,
-  "2023-02-17": 207296,
-  "2023-02-18": 207437,
-  "2023-02-19": 207445,
-  "2023-02-20": 207517,
-  "2023-02-21": 207594,
-  "2023-02-22": 207679,
-  "2023-02-23": 207754,
-  "2023-02-24": 207824,
-  "2023-02-25": 207884,
-  "2023-02-26": 207929,
-  "2023-02-27": 208078,
-  "2023-02-28": 208078,
-  "2023-03-01": 208157,
-  "2023-03-02": 208226,
-  "2023-03-03": 208335,
-  "2023-03-04": 208444,
-  "2023-03-05": 208629,
-  "2023-03-06": 208629,
-  "2023-03-07": 208693,
-  "2023-03-08": 208747,
-  "2023-03-09": 208816,
-  "2023-03-10": 208886,
-  "2023-03-11": 208943,
-  "2023-03-12": 209011,
-  "2023-03-13": 209090,
-  "2023-03-14": 209147,
-  "2023-03-15": 209201,
-  "2023-03-16": 209271,
-  "2023-03-17": 209271,
-  "2023-03-18": 209388,
-  "2023-03-19": 209467,
-  "2023-03-20": 209542,
-  "2023-03-21": 209599,
-  "2023-03-22": 209651,
-  "2023-03-23": 209711,
-  "2023-03-24": 209711,
-  "2023-03-25": 209806,
-  "2023-03-26": 209888,
-  "2023-03-27": 209974,
-  "2023-03-28": 210033,
-  "2023-03-29": 210103,
-  "2023-03-30": 210218,
-  "2023-03-31": 210218,
-  "2023-04-01": 210282,
-  "2023-04-02": 210358,
-  "2023-04-03": 210430,
-  "2023-04-04": 210494,
-  "2023-04-05": 210564,
-  "2023-04-06": 210631,
-  "2023-04-07": 210688,
-  "2023-04-09": 210796,
-  "2023-04-10": 210885,
-  "2023-04-11": 211015,
-  "2023-04-12": 211015,
-  "2023-04-13": 211069,
-  "2023-04-14": 211132,
-  "2023-04-15": 211195,
-  "2023-04-16": 211256,
-  "2023-04-17": 211326,
-  "2023-04-18": 211381,
-  "2023-04-19": 211455,
-  "2023-04-20": 211512,
-  "2023-04-21": 211588,
-  "2023-04-22": 211655,
-  "2023-04-23": 211707,
-  "2023-04-24": 211780,
-  "2023-04-25": 211835,
-  "2023-04-26": 211907,
-  "2023-04-27": 211974,
-  "2023-04-28": 212054,
-  "2023-04-29": 212129,
-  "2023-04-30": 212215,
-  "2023-05-01": 212275,
-  "2023-05-02": 212353,
-  "2023-05-03": 212395,
-  "2023-05-04": 212486,
-  "2023-05-05": 212564,
-  "2023-05-06": 212626,
-  "2023-05-07": 212713,
-  "2023-05-08": 212797,
-  "2023-05-09": 212851,
-  "2023-05-10": 212908,
-  "2023-05-11": 212971,
-  "2023-05-12": 213022,
-  "2023-05-13": 213071,
-  "2023-05-14": 213141,
-  "2023-05-15": 213218,
-  "2023-05-16": 213271,
-  "2023-05-17": 213323,
-  "2023-05-18": 213386,
-  "2023-05-19": 213450,
-  "2023-05-20": 213545,
-  "2023-05-21": 213545,
-  "2023-05-22": 213545,
-  "2023-05-23": 213666,
-  "2023-05-24": 213763,
-  "2023-05-25": 213791,
-  "2023-05-26": 213856,
-  "2023-05-27": 213931,
-  "2023-05-28": 214015,
-  "2023-05-29": 214015,
-  "2023-05-30": 214150,
-  "2023-05-31": 214221,
-  "2023-06-01": 214273,
-  "2023-06-02": 214346,
-  "2023-06-03": 214393,
-  "2023-06-04": 214467,
-  "2023-06-05": 214520,
-  "2023-06-06": 214564,
-  "2023-06-07": 214612,
-  "2023-06-08": 214690,
-  "2023-06-09": 214742,
-  "2023-06-10": 214804,
-  "2023-06-11": 214873,
-  "2023-06-12": 214945,
-  "2023-06-13": 215009,
-  "2023-06-14": 215051,
-  "2023-06-15": 215119,
-  "2023-06-16": 215175,
-  "2023-06-17": 215226,
-  "2023-06-18": 215279,
-  "2023-06-19": 215365,
-  "2023-06-20": 215432,
-  "2023-06-21": 215489,
-  "2023-06-22": 215546,
-  "2023-06-23": 215600,
-  "2023-06-24": 215660,
-  "2023-06-25": 215718,
-  "2023-06-26": 215803,
-  "2023-06-27": 215863,
-  "2023-06-28": 215911,
-  "2023-06-29": 215954,
-  "2023-06-30": 216005,
-  "2023-07-01": 216128,
-  "2023-07-02": 216128,
-  "2023-07-03": 216193,
-  "2023-07-04": 216267,
-  "2023-07-05": 216321,
-  "2023-07-06": 216457,
-  "2023-07-07": 216457,
-  "2023-07-08": 216544,
-  "2023-07-09": 216604,
-  "2023-07-10": 216663,
-  "2023-07-11": 216709,
-  "2023-07-12": 216762,
-  "2023-07-13": 216833,
-  "2023-07-14": 216891,
-  "2023-07-15": 216938,
-  "2023-07-16": 217010,
-  "2023-07-17": 217070,
-  "2023-07-18": 217135,
-  "2023-07-19": 217196,
-  "2023-07-20": 217244,
-  "2023-07-21": 217299,
-  "2023-07-22": 217340,
-  "2023-07-23": 217419,
-  "2023-07-24": 217491,
-  "2023-07-25": 217561,
-  "2023-07-26": 217626,
-  "2023-07-27": 217684,
-  "2023-07-28": 217754,
-  "2023-07-29": 217817,
-  "2023-07-30": 217871,
-  "2023-07-31": 217932,
-  "2023-08-01": 217989,
-  "2023-08-02": 218037,
-  "2023-08-03": 218108,
-  "2023-08-04": 218165,
-  "2023-08-05": 218221,
-  "2023-08-06": 218342,
-  "2023-08-07": 218342,
-  "2023-08-08": 218409,
-  "2023-08-09": 218477,
-  "2023-08-10": 218506,
-  "2023-08-11": 218558,
-  "2023-08-12": 218632,
-  "2023-08-13": 218692,
-  "2023-08-14": 218747,
-  "2023-08-15": 218850,
-  "2023-08-16": 218850,
-  "2023-08-17": 218922,
-  "2023-08-18": 219016,
-  "2023-08-19": 219059,
-  "2023-08-20": 219136,
-  "2023-08-21": 219211,
-  "2023-08-22": 219271,
-  "2023-08-23": 219334,
-  "2023-08-24": 219394,
-  "2023-08-25": 219449,
-  "2023-08-26": 219505,
-  "2023-08-27": 219565,
-  "2023-08-28": 219611,
-  "2023-08-29": 219684,
-  "2023-08-30": 219747,
-  "2023-08-31": 219794,
-  "2023-09-01": 219924,
-  "2023-09-02": 219924,
-  "2023-09-03": 219990,
-  "2023-09-04": 220056,
-  "2023-09-05": 220118,
-  "2023-09-06": 220165,
-  "2023-09-07": 220218,
-  "2023-09-08": 220269,
-  "2023-09-09": 220331,
-  "2023-09-10": 220408,
-  "2023-09-11": 220482,
-  "2023-09-12": 220529,
-  "2023-09-13": 220596,
-  "2023-09-14": 220664,
-  "2023-09-15": 220729,
-  "2023-09-16": 220800,
-  "2023-09-17": 220861,
-  "2023-09-18": 220946,
-  "2023-09-19": 221002,
-  "2023-09-20": 221037,
-  "2023-09-21": 221110,
-  "2023-09-22": 221156,
-  "2023-09-23": 221210,
-  "2023-09-24": 221289,
-  "2023-09-25": 221349,
-  "2023-09-26": 221426,
-  "2023-09-27": 221460,
-  "2023-09-28": 221525,
-  "2023-09-29": 221588,
-  "2023-09-30": 221642,
-  "2023-10-01": 221706,
-  "2023-10-02": 221763,
-  "2023-10-03": 221815,
-  "2023-10-04": 221864,
-  "2023-10-05": 221920,
-  "2023-10-06": 221988,
-  "2023-10-07": 222048,
-  "2023-10-08": 222116,
-  "2023-10-09": 222181,
-  "2023-10-10": 221954,
-  "2023-10-11": 221777,
-  "2023-10-12": 221777,
-  "2023-10-13": 221597,
-  "2023-10-14": 221464,
-  "2023-10-15": 221482,
-  "2023-10-16": 221557,
-  "2023-10-17": 221611,
-  "2023-10-18": 221644,
-  "2023-10-19": 221704,
-  "2023-10-20": 221751,
-  "2023-10-21": 221805,
-  "2023-10-22": 221863,
-  "2023-10-23": 221911,
-  "2023-10-24": 221962,
-  "2023-10-25": 222009,
-  "2023-10-26": 222058,
-  "2023-10-27": 222108,
-  "2023-10-28": 222175,
-  "2023-10-29": 222248,
-  "2023-10-30": 222360,
-  "2023-10-31": 222360,
-  "2023-11-01": 222406,
-  "2023-11-02": 222480,
-  "2023-11-03": 222539,
-  "2023-11-04": 222589,
-  "2023-11-05": 222652,
-  "2023-11-06": 222716,
-  "2023-11-07": 222782,
-  "2023-11-08": 222833,
-  "2023-11-09": 222887,
-  "2023-11-10": 222943,
-  "2023-11-11": 222994,
-  "2023-11-12": 223054,
-  "2023-11-13": 223109,
-  "2023-11-14": 223163,
-  "2023-11-15": 223163,
-  "2023-11-16": 223267,
-  "2023-11-17": 223399,
-  "2023-11-18": 223399,
-  "2023-11-19": 223470,
-  "2023-11-20": 223562,
-  "2023-11-21": 223655,
-  "2023-11-22": 223729,
-  "2023-11-23": 223810,
-  "2023-11-24": 223888,
-  "2023-11-25": 223934,
-  "2023-11-26": 224015,
-  "2023-11-27": 224077,
-  "2023-11-28": 224130,
-  "2023-11-29": 224262,
-  "2023-11-30": 224262,
-  "2023-12-01": 224334,
-  "2023-12-02": 224371,
-  "2023-12-03": 224424,
-  "2023-12-04": 224474,
-  "2023-12-05": 224518,
-  "2023-12-06": 224579,
-  "2023-12-07": 224630,
-  "2023-12-08": 224680,
-  "2023-12-09": 224744,
-  "2023-12-10": 224816,
-  "2023-12-11": 224907,
-  "2023-12-12": 224967,
-  "2023-12-13": 225032,
-  "2023-12-14": 225110,
-  "2023-12-15": 225148,
-  "2023-12-16": 225212,
-  "2023-12-17": 225273,
-  "2023-12-18": 225336,
-  "2023-12-19": 225387,
-  "2023-12-20": 225445,
-  "2023-12-21": 225496,
-  "2023-12-22": 225538,
-  "2023-12-23": 225593,
-  "2023-12-24": 225646,
-  "2023-12-25": 225702,
-  "2023-12-26": 225751,
-  "2023-12-27": 225826,
-  "2023-12-30": 225997,
-  "2023-12-31": 226069,
-  "2024-01-01": 226124,
-  "2024-01-02": 226182,
-  "2024-01-03": 226224
+  "2024-01-17": 226015,
+  "date_first_scraped": "2021-12-21",
+  "description": "The best tracks from the great Miles Davis.",
+  "name": "This Is Miles Davis",
+  "tracks": [
+    {
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355333,
+      "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
+    },
+    {
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350333,
+      "name": "Ah-Leu-Cha (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/5pNPLXfPS6ZC5EYxbHbWvD"
+    },
+    {
+      "album": {
+        "name": "Bags' Groove (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299680,
+      "name": "Airegin - RVG Remaster",
+      "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
+    },
+    {
+      "album": {
+        "name": "Bags' Groove (RVG Remaster)",
+        "url": "https://open.spotify.com/album/12pnhpbOmlqxhg3VL73TMR"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297746,
+      "name": "Airegin - RVG Remaster",
+      "url": "https://open.spotify.com/track/4j80lnJy3a5ODqyHjUBAYt"
+    },
+    {
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420693,
+      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
+    },
+    {
+      "album": {
+        "name": "Amandla",
+        "url": "https://open.spotify.com/album/0fabOosWong8kopy57JitO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321533,
+      "name": "Amandla",
+      "url": "https://open.spotify.com/track/2Ovs392mQ8DrOdYfgCLXI6"
+    },
+    {
+      "album": {
+        "name": "Miles In The Sky (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1qxketIip4Mbqb2TglxPuY"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444626,
+      "name": "Black Comedy",
+      "url": "https://open.spotify.com/track/3iC27VT5zft0EU3uibib6y"
+    },
+    {
+      "album": {
+        "name": "Miles Davis - A Jazz Legend",
+        "url": "https://open.spotify.com/album/6YlVEAfzDbm6ul89skqKXL"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371053,
+      "name": "Blue Haze",
+      "url": "https://open.spotify.com/track/26Mp8qAMY9WaFu9BJ8DghW"
+    },
+    {
+      "album": {
+        "name": "Chronicles - The Complete Prestige Recordings 1951-1956",
+        "url": "https://open.spotify.com/album/50ov4cmom8FGshv8F0LomX"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 366626,
+      "name": "Blue Haze",
+      "url": "https://open.spotify.com/track/3SB1t020ZMcxGD0YQx0CX7"
+    },
+    {
+      "album": {
+        "name": "Blue Haze - Miles Davis & the Modern Jazz Giants",
+        "url": "https://open.spotify.com/album/438JEFPa58t9nb9vgwxlbf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 369626,
+      "name": "Blue Haze",
+      "url": "https://open.spotify.com/track/1RtmLOItbFRFWcGcVlE0yT"
+    },
+    {
+      "album": {
+        "name": "Blue Haze",
+        "url": "https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 369760,
+      "name": "Blue Haze",
+      "url": "https://open.spotify.com/track/4aGwaTnpdI90cHPfgKV6jw"
+    },
+    {
+      "album": {
+        "name": "The Complete Miles Davis Featuring John Coltrane",
+        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 334226,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/62M7rdje0DMGlSN0oCGz6k"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue",
+        "url": "https://open.spotify.com/album/3pUQGAxKte7S6FokfKrmEm"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 337560,
+      "name": "Blue in Green",
+      "url": "https://open.spotify.com/track/1QxFPdYTJ1F5dTZwaJviSj"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337733,
+      "name": "Blue in Green (feat. John Coltrane & Bill Evans)",
+      "url": "https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi"
+    },
+    {
+      "album": {
+        "name": "Miles Davis And Horns",
+        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180693,
+      "name": "Blue Room - Take 2",
+      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
+    },
+    {
+      "album": {
+        "name": "Chronicles - The Complete Prestige Recordings 1951-1956",
+        "url": "https://open.spotify.com/album/0cRoLLAtFVtgCAaG20rc5K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181693,
+      "name": "Blue Room - Take 2",
+      "url": "https://open.spotify.com/track/6ziyfY0Z0Dh64bFWabD18T"
+    },
+    {
+      "album": {
+        "name": "Best Of The Complete Savoy & Dial Studio Recordings",
+        "url": "https://open.spotify.com/album/6sBk8DPt7M2JdAz1ibQWe8"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 176400,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/6QCBHyl1YK3lDqStNdJlwl"
+    },
+    {
+      "album": {
+        "name": "The Great Miles Davis Vol 2 (Feat. Charlie Parker)",
+        "url": "https://open.spotify.com/album/2uU8Qm34dLdh2IffhFNWDW"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176133,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/19obfEmqwfWGaXpmwjDhYv"
+    },
+    {
+      "album": {
+        "name": "Charlie Parker Memorial, Vol. 1",
+        "url": "https://open.spotify.com/album/1ZVtgzuTIOTBKn4LmgNwTX"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Bluebird - New Take 1",
+      "url": "https://open.spotify.com/track/1qJXyjyunPZG7lnvwRNGiI"
+    },
+    {
+      "album": {
+        "name": "Jazz Moods - Cool",
+        "url": "https://open.spotify.com/album/4LgXhrvf3eqzfRCspC1wNG"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 475066,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/3Iga2VcisdWRCGL0brwUcN"
+    },
+    {
+      "album": {
+        "name": "The Complete Miles Davis Featuring John Coltrane",
+        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 474226,
+      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/0MagexPWn62NXrxqFOS8Pu"
+    },
+    {
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474626,
+      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
+    },
+    {
+      "album": {
+        "name": "Miles Davis And Milt Jackson Quintet/Sextet",
+        "url": "https://open.spotify.com/album/0W7d8ucfVSxe9laRaO3hN0"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Milt Jackson Quintet",
+          "url": "https://open.spotify.com/artist/7FOIKk78Rah1SOdN9iyS2q"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 430693,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/37wmiTbVrRgIgS3QpP7u5D"
+    },
+    {
+      "album": {
+        "name": "Chronicles - The Complete Prestige Recordings 1951-1956",
+        "url": "https://open.spotify.com/album/50ov4cmom8FGshv8F0LomX"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis And Milt Jackson Quintet",
+          "url": "https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 430040,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0HPI2YSmwoR0bGzvzc2C5X"
+    },
+    {
+      "album": {
+        "name": "Miles Davis And Milt Jackson Quintet/Sextet",
+        "url": "https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis And Milt Jackson Quintet",
+          "url": "https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430693,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq"
+    },
+    {
+      "album": {
+        "name": "This Is Jazz #22 - Miles Davis Plays Ballads",
+        "url": "https://open.spotify.com/album/5SHwzt1aJGFZNHFN6zQuKF"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 350893,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/28zZBIhYUVubJuakJHY7AI"
+    },
+    {
+      "album": {
+        "name": "Miles Smiles",
+        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/67HzeILnvRD6gjciRW3B17"
+    },
+    {
+      "album": {
+        "name": "The Complete Prestige 10-Inch LP Collection",
+        "url": "https://open.spotify.com/album/7j8zzg392CqbbgrHHRlVZ3"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 244580,
+      "name": "Conception",
+      "url": "https://open.spotify.com/track/2y7nwFMt7hpYZZ0D8IasmM"
+    },
+    {
+      "album": {
+        "name": "Conception",
+        "url": "https://open.spotify.com/album/04LfJ95UuEIuFzr2Sqync5"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240960,
+      "name": "Conception",
+      "url": "https://open.spotify.com/track/6jwzFDTwWAuXgQ0ksByLdK"
+    },
+    {
+      "album": {
+        "name": "Dig [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/2nJMaFsTHKycqV2H3h4Fyj"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "Conception - Album - Remastered",
+      "url": "https://open.spotify.com/track/3EKpe9At9d7bzn1ddGmbrS"
+    },
+    {
+      "album": {
+        "name": "Sketches Of Spain 50th Anniversary (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4Gg3siRefHW8r2CndJxIiJ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 980506,
+      "name": "Concierto de Aranjuez: Adagio",
+      "url": "https://open.spotify.com/track/5snEgy8RMnkJZqfwqD6svi"
+    },
+    {
+      "album": {
+        "name": "The Best Of Miles Davis & John Coltrane (1955-1961)",
+        "url": "https://open.spotify.com/album/49TOkZTmPprVTmSs2FKde9"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 468573,
+      "name": "Dear Old Stockholm",
+      "url": "https://open.spotify.com/track/5F46p3ZaON2oXiSmyvMrdK"
+    },
+    {
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468666,
+      "name": "Dear Old Stockholm (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/1d0NjHhCDKCKZIbws021xD"
+    },
+    {
+      "album": {
+        "name": "'Round About Midnight (Mono Version)",
+        "url": "https://open.spotify.com/album/3pINVX7qD70F8U4EUKQoyO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 468226,
+      "name": "Dear Old Stockholm (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) - Mono Version",
+      "url": "https://open.spotify.com/track/1WKGqLgC5nrRqr5XELbicR"
+    },
+    {
+      "album": {
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345933,
+      "name": "Dr. Jackle (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/1d8nSRQam4oz1J0TDS6nvk"
+    },
+    {
+      "album": {
+        "name": "The Best Of Miles Davis",
+        "url": "https://open.spotify.com/album/14Gdsp33387vOEIskmNYUy"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 328466,
+      "name": "E.S.P.",
+      "url": "https://open.spotify.com/track/7rUY3EGXQIMZTQuW8P3w4N"
+    },
+    {
+      "album": {
+        "name": "The Complete Columbia Studio Recordings Of The Miles Davis Quintet January 1965 To June 1968",
+        "url": "https://open.spotify.com/album/2QzE84Dzdn1cLXMLwSnilN"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 328733,
+      "name": "E.S.P.",
+      "url": "https://open.spotify.com/track/1IPHdEjEFdVMPvqvbceEYK"
+    },
+    {
+      "album": {
+        "name": "The Complete Columbia Studio Recordings Of The Miles Davis Quintet January 1965 To June 1968",
+        "url": "https://open.spotify.com/album/1mM5BwiiPqVq8T0vucuKhI"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328733,
+      "name": "E.S.P.",
+      "url": "https://open.spotify.com/track/1TsAsyHFJZqkuEM26Sg34a"
+    },
+    {
+      "album": {
+        "name": "E.S.P. (2022 Remaster)",
+        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-17",
+      "duration_ms": 333171,
+      "name": "E.S.P. (2022 Remaster)",
+      "url": "https://open.spotify.com/track/61K5CsgNZy69TFzrsFS1XM"
+    },
+    {
+      "album": {
+        "name": "Blue Moods / The Musings Of Miles",
+        "url": "https://open.spotify.com/album/72uGp1PIdFF6PbZM4aoLpw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306066,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/0D4zoclhjrB0yvvkvxrPY5"
+    },
+    {
+      "album": {
+        "name": "The Complete Debut Recordings",
+        "url": "https://open.spotify.com/album/4mFHvcqplecJDsIT7dD1fe"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 303826,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/0fTlABpO8LnVVdyOcEq4fr"
+    },
+    {
+      "album": {
+        "name": "Blue Moods",
+        "url": "https://open.spotify.com/album/6QNUsyQxf8merg8Sv696aI"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303960,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/3QHeOALQbMukSiCWQrP2b0"
+    },
+    {
+      "album": {
+        "name": "E.S.P. (2022 Remaster)",
+        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377320,
+      "name": "Eighty-One (2022 Remaster)",
+      "url": "https://open.spotify.com/track/0eyDYZmV5seBW1j9Ga41AR"
+    },
+    {
+      "album": {
+        "name": "Miles Smiles",
+        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585960,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/2wjHWYJVAs5TYSRP83JLmc"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue",
+        "url": "https://open.spotify.com/album/3pUQGAxKte7S6FokfKrmEm"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 586160,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/5tuPK5qulyEnviLpw2nd9l"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586400,
+      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
+      "url": "https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB"
+    },
+    {
+      "album": {
+        "name": "Bluing: Miles Davis Plays The Blues",
+        "url": "https://open.spotify.com/album/0GGwXZ8DgKj4uNhGA8kA5M"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 347760,
+      "name": "Green Haze",
+      "url": "https://open.spotify.com/track/5lut3K3IpaLXdNZ9VvCDuE"
+    },
+    {
+      "album": {
+        "name": "Chronicles - The Complete Prestige Recordings 1951-1956",
+        "url": "https://open.spotify.com/album/50ov4cmom8FGshv8F0LomX"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 348026,
+      "name": "Green Haze",
+      "url": "https://open.spotify.com/track/5GHgxoCqNpzLXUzGhHKNi8"
+    },
+    {
+      "album": {
+        "name": "The Musings Of Miles",
+        "url": "https://open.spotify.com/album/7fRwdr4MvqlJhhhssTKutU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351040,
+      "name": "Green Haze - RVG Remaster",
+      "url": "https://open.spotify.com/track/6tDTNXUEGNaFgGibFZS5MU"
+    },
+    {
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168512,
+      "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
+    },
+    {
+      "album": {
+        "name": "You're Under Arrest (2022 Remaster)",
+        "url": "https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269408,
+      "name": "Human Nature (2022 Remaster)",
+      "url": "https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz"
+    },
+    {
+      "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253933,
+      "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
+      "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
+    },
+    {
+      "album": {
+        "name": "Relaxin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/1mQCpyWoI4vTore21DgOQG"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493160,
+      "name": "If I Were A Bell - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/0x3VS084OocWXmOs6nPYGC"
+    },
+    {
+      "album": {
+        "name": "Birth of the Cool",
+        "url": "https://open.spotify.com/album/3ayEpspwjW5zV15TuB4EoW"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 135516,
+      "name": "Israel",
+      "url": "https://open.spotify.com/track/38C59NtbLT2oY3LXanAXsT"
+    },
+    {
+      "album": {
+        "name": "Jazz Trip",
+        "url": "https://open.spotify.com/album/6HFiwZVUidqLrIwKg3xMun"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137573,
+      "name": "Israel",
+      "url": "https://open.spotify.com/track/3X5yelCLjW4tCAkia9vEWr"
+    },
+    {
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138321,
+      "name": "Israel",
+      "url": "https://open.spotify.com/track/6xdpwECaUdzv48eP9W9Urj"
+    },
+    {
+      "album": {
+        "name": "Relaxin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/1mQCpyWoI4vTore21DgOQG"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394466,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/4Wdvc5xLi2ptdlDQgrVLI1"
+    },
+    {
+      "album": {
+        "name": "Chronicles - The Complete Prestige Recordings 1951-1956",
+        "url": "https://open.spotify.com/album/50ov4cmom8FGshv8F0LomX"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321306,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/1BEVeS2cXELpJ28ludj5so"
+    },
+    {
+      "album": {
+        "name": "Miles Davis Hits and Rarities",
+        "url": "https://open.spotify.com/album/1ifKPS0YcI7OcZliDtd4bi"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/76ktUxxPkliT809jH1lxnQ"
+    },
+    {
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
+    },
+    {
+      "album": {
+        "name": "The Complete Birth Of The Cool",
+        "url": "https://open.spotify.com/album/2vm2b8COVMLIoHqB58iN4w"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193706,
+      "name": "Jeru - Remastered",
+      "url": "https://open.spotify.com/track/3kRg9wvgMf9IstjNYbZkkL"
+    },
+    {
+      "album": {
+        "name": "Seven Steps: The Complete Columbia Recordings Of Miles Davis 1963-1964",
+        "url": "https://open.spotify.com/album/1cURRxhG6jxK2mIcPzlNEs"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324360,
+      "name": "Joshua",
+      "url": "https://open.spotify.com/track/3M398IT8mJzKWUGOmO16GG"
+    },
+    {
+      "album": {
+        "name": "The New Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/5UrThO63Ij9bCoLgmVEk01"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 446733,
+      "name": "Just Squeeze Me",
+      "url": "https://open.spotify.com/track/514orWNnWjj6TtJ2ifaWF6"
+    },
+    {
+      "album": {
+        "name": "Muted Miles",
+        "url": "https://open.spotify.com/album/6QJATd5UumhYl04B8wZlng"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 448920,
+      "name": "Just Squeeze Me",
+      "url": "https://open.spotify.com/track/4OdeWWTGaNP8fEAvu0AAlk"
+    },
+    {
+      "album": {
+        "name": "The Legendary Prestige Quintet Sessions",
+        "url": "https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-15",
+      "duration_ms": 448986,
+      "name": "Just Squeeze Me",
+      "url": "https://open.spotify.com/track/3QWC9bsUI7weE7bkeEQz9a"
+    },
+    {
+      "album": {
+        "name": "Miles And His Quintet (Miles Davis And His Quintet)",
+        "url": "https://open.spotify.com/album/6AZ1jpH5CEub6Iza2HXZrp"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis And His Quintet",
+          "url": "https://open.spotify.com/artist/0LW6sREPWemmi5wZDhTh0M"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449760,
+      "name": "Just Squeeze Me - Miles Davis And His Quintet",
+      "url": "https://open.spotify.com/track/3C2iim4vUBGbQWBnTR6o9q"
+    },
+    {
+      "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/7iZcta4q9Z5Sk3Mvhe3Kbp"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 198293,
+      "name": "Kelo",
+      "url": "https://open.spotify.com/track/0x6iYV6HjYocs3rphJgnNj"
+    },
+    {
+      "album": {
+        "name": "Jazz Profile",
+        "url": "https://open.spotify.com/album/29fodpqtlnqDlZHlnmrbB9"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 198293,
+      "name": "Kelo",
+      "url": "https://open.spotify.com/track/2aYz8YsMwlTJ468YufM8yA"
+    },
+    {
+      "album": {
+        "name": "Jazz Legends: Miles Davis",
+        "url": "https://open.spotify.com/album/0G2uOeDDMYwHXKGDxIjz9X"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 198293,
+      "name": "Kelo",
+      "url": "https://open.spotify.com/track/45Gixa6r1Xee1MUNgitw6J"
+    },
+    {
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/23ZZVPL64HrPnLNIJ6bEze"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "Kelo",
+      "url": "https://open.spotify.com/track/5M78Uv9dWMW4oP69loBrHq"
+    },
+    {
+      "album": {
+        "name": "Miles Davis - Volume 2 (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4Ll4WvIw7CYlGCGtvLuikf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198133,
+      "name": "Kelo - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/1pMMmZCiVcYVSs61hNUSB7"
+    },
+    {
+      "album": {
+        "name": "Nefertiti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451093,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/4AhnRSiNKpHLTPJh7n9l3Q"
+    },
+    {
+      "album": {
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Miles Ahead",
+      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
+    },
+    {
+      "album": {
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342066,
+      "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh"
+    },
+    {
+      "album": {
+        "name": "Birth of the Cool",
+        "url": "https://open.spotify.com/album/3ayEpspwjW5zV15TuB4EoW"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197526,
+      "name": "Moon Dream",
+      "url": "https://open.spotify.com/track/2iU2HItcQ5V772GwE48li5"
+    },
+    {
+      "album": {
+        "name": "Ballads And Blues",
+        "url": "https://open.spotify.com/album/1KZshlMGMPVIqZFcv24oM4"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 200066,
+      "name": "Moon Dreams",
+      "url": "https://open.spotify.com/track/1MRlqKvGKXvmtEvbWPKcuD"
+    },
+    {
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200296,
+      "name": "Moon Dreams",
+      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
+    },
+    {
+      "album": {
+        "name": "Jazz Legends: Miles Davis",
+        "url": "https://open.spotify.com/album/0G2uOeDDMYwHXKGDxIjz9X"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153600,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7ztCJ7Xi2xHcKCIFTf7c6g"
+    },
+    {
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154340,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
+    },
+    {
+      "album": {
+        "name": "Birth Of The Cool (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3wG8DcAJVgr7sbWNvKanzS"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155266,
+      "name": "Move - 2000 - Remaster",
+      "url": "https://open.spotify.com/track/1NcCulpI9eKzddPK9misWY"
+    },
+    {
+      "album": {
+        "name": "Cookin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/50J57uCvPub0yK2kjkfC9J"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360826,
+      "name": "My Funny Valentine - Rudy Van Gelder Remaster 2007",
+      "url": "https://open.spotify.com/track/4Ti7XXjHWi4P3ygJ1GAZMn"
+    },
+    {
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/2mwqZ9EDDJB7iYxBrAVotJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197601,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/3qyYE0MZUhzwCeOJBXXJfA"
+    },
+    {
+      "album": {
+        "name": "Here's Miles",
+        "url": "https://open.spotify.com/album/5IvWLZRXZp5DkK9eRBAOia"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195760,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/2v8Zy2E59iASmJi3KtQX42"
+    },
+    {
+      "album": {
+        "name": "Nefertiti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470733,
+      "name": "Nefertiti",
+      "url": "https://open.spotify.com/track/6AanQLrt4GtYXutqNiiQJG"
+    },
+    {
+      "album": {
+        "name": "Nefertiti",
+        "url": "https://open.spotify.com/album/1RmFQt2sOrHvtYcCF94Z9b"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 470733,
+      "name": "Nefertiti",
+      "url": "https://open.spotify.com/track/6Uvdk0inOxp86dB1OVQSxZ"
+    },
+    {
+      "album": {
+        "name": "The Complete Columbia Studio Recordings Of The Miles Davis Quintet January 1965 To June 1968",
+        "url": "https://open.spotify.com/album/1mM5BwiiPqVq8T0vucuKhI"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 472066,
+      "name": "Nefertiti",
+      "url": "https://open.spotify.com/track/0JWv26kzupQAqUfeK1KAxv"
+    },
+    {
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314160,
+      "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
+    },
+    {
+      "album": {
+        "name": "The Complete On The Corner Sessions",
+        "url": "https://open.spotify.com/album/4ORrWT9p5FH1jhTCATKEcj"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316320,
+      "name": "On The Corner - Take 4",
+      "url": "https://open.spotify.com/track/3R1vAfFxWwZvli1NepW9TY"
+    },
+    {
+      "album": {
+        "name": "Miles Smiles",
+        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275960,
+      "name": "Orbits",
+      "url": "https://open.spotify.com/track/5AO8TeKZeo6ouwNaDn8xVE"
+    },
+    {
+      "album": {
+        "name": "The Original Parker",
+        "url": "https://open.spotify.com/album/5lxjQiA4mgkrGu7YyrPFdx"
+      },
+      "artists": [
+        {
+          "name": "Charlie &apos;Bird&apos; Parker",
+          "url": "https://open.spotify.com/artist/027R0vuFm1WlGGhlKVHZ3G"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244040,
+      "name": "Out of Nowhere",
+      "url": "https://open.spotify.com/track/4fkQnvetJP5CkSsFpIsYEm"
+    },
+    {
+      "album": {
+        "name": "Embraceable",
+        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
+    },
+    {
+      "album": {
+        "name": "Out of Nowhere - The Rise of Miles Davis",
+        "url": "https://open.spotify.com/album/0bCzFvDMhlmNRurlwuUcVM"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis & Charlie Parker",
+          "url": "https://open.spotify.com/artist/0TRfa0h5vgOv6yU5RhAjXD"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241706,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/5oIn8IS66c3Fx3xKoPqPLh"
+    },
+    {
+      "album": {
+        "name": "The Complete Prestige 10-Inch LP Collection",
+        "url": "https://open.spotify.com/album/7j8zzg392CqbbgrHHRlVZ3"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 375385,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/4GFu0tXcIsmzlit18fLWku"
+    },
+    {
+      "album": {
+        "name": "Dig (Remastered)",
+        "url": "https://open.spotify.com/album/1WM4FY3k9QFGTX3wI0lo6z"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 376200,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/3FXZ7WtCRpqEpnZCaHOhTY"
+    },
+    {
+      "album": {
+        "name": "Dig [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/2nJMaFsTHKycqV2H3h4Fyj"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379413,
+      "name": "Out Of The Blue - Album - Remastered",
+      "url": "https://open.spotify.com/track/4qCQh7NCxDzeSivKQO0aHB"
+    },
+    {
+      "album": {
+        "name": "Filles De Kilimanjaro",
+        "url": "https://open.spotify.com/album/3PNdqbnqRHlHqfV2O93M7m"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 484333,
+      "name": "Petits machins (Little Stuff)",
+      "url": "https://open.spotify.com/track/2j0lQZzeDUcg9bKPeZVEhG"
+    },
+    {
+      "album": {
+        "name": "Filles De Kilimanjaro",
+        "url": "https://open.spotify.com/album/7pFyY6SvB0XlUKp8srk8Az"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484333,
+      "name": "Petits Machins (Little Stuff)",
+      "url": "https://open.spotify.com/track/4ab96AVzqHKjsICyFFEBHi"
+    },
+    {
+      "album": {
+        "name": "Birth of the Cool",
+        "url": "https://open.spotify.com/album/3ayEpspwjW5zV15TuB4EoW"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183354,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/3m47noeb5U7xVeyTzKFjqv"
+    },
+    {
+      "album": {
+        "name": "The Blue Note And Capitol Recordings",
+        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186026,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/53dUm66IHdzhK90kO08yAg"
+    },
+    {
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186741,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/1KakNYJMxHUeX0WxqRuUtS"
+    },
+    {
+      "album": {
+        "name": "Rubberband",
+        "url": "https://open.spotify.com/album/0m3hXmvbvwjpIXai7HOWys"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344010,
+      "name": "Rubberband of Life (feat. Ledisi)",
+      "url": "https://open.spotify.com/track/2cKH6blsLnE8oEEmAu34YB"
+    },
+    {
+      "album": {
+        "name": "Steamin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/0Q0bftWuBSwZAHBKZr0lxB"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366973,
+      "name": "Salt Peanuts",
+      "url": "https://open.spotify.com/track/3N8RYqxZwy3IGACBYzZ4lN"
+    },
+    {
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383560,
+      "name": "Seven Steps to Heaven",
+      "url": "https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ"
+    },
+    {
+      "album": {
+        "name": "In A Silent Way",
+        "url": "https://open.spotify.com/album/0Hs3BomCdwIWRhgT57x22T"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1094733,
+      "name": "Shhh / Peaceful",
+      "url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
+    },
+    {
+      "album": {
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 779160,
+      "name": "Sid's Ahead (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/13fJE7vmTBJOx42MNkF9r4"
+    },
+    {
+      "album": {
+        "name": "Live - Evil",
+        "url": "https://open.spotify.com/album/4eK5DQxLCshZCUk6D5a8Q1"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 913826,
+      "name": "Sivad - Live at the Cellar Door, Washington, DC - December 1970",
+      "url": "https://open.spotify.com/track/17pDYuwdakHhG64f3CJSHX"
+    },
+    {
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416693,
+      "name": "So Near, So Far",
+      "url": "https://open.spotify.com/track/0CpyNb2RlzO7345kFiwXzg"
+    },
+    {
+      "album": {
+        "name": "Ken Burns Jazz-Miles Davis",
+        "url": "https://open.spotify.com/album/5fD8ooQJOZwhzLspyk9ImW"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 561973,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7tlw4WnLLZW4GA5pJAsExJ"
+    },
+    {
+      "album": {
+        "name": "Jazz Playlist",
+        "url": "https://open.spotify.com/album/4nY56CUHJuJMAWv3TumBC7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 561533,
+      "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/1XQiZmkP3JVDIy5zVr5Q1i"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562640,
+      "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
+    },
+    {
+      "album": {
+        "name": "Walkin'",
+        "url": "https://open.spotify.com/album/7nFwdPkEbfMUb1c5xuHGR6"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282866,
+      "name": "Solar - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/16KZuJfRKqMZQvmOibsVqX"
+    },
+    {
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542400,
+      "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+    },
+    {
+      "album": {
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207293,
+      "name": "Springsville",
+      "url": "https://open.spotify.com/track/4kML1OCLMXpEaWAgExXVdb"
+    },
+    {
+      "album": {
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/5g3sEbp7bfrhriTS6n57Ns"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207933,
+      "name": "Springsville - master",
+      "url": "https://open.spotify.com/track/6MpYSKP84DWr47RTecipe1"
+    },
+    {
+      "album": {
+        "name": "Star People",
+        "url": "https://open.spotify.com/album/1Ox2oNj6d021tgMZevm9eh"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 1126440,
+      "name": "Star People",
+      "url": "https://open.spotify.com/track/5T9KEP1FHVfrPEdPKXKMmW"
+    },
+    {
+      "album": {
+        "name": "Star People (2022 Remaster)",
+        "url": "https://open.spotify.com/album/2j4kRyY7kLm9NuciAHyzg5"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 1122730,
+      "name": "Star People (2022 Remaster)",
+      "url": "https://open.spotify.com/track/2IdNLuyCj6lDUA80VrFMaO"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284560,
+      "name": "Stella By Starlight (feat. John Coltrane & Bill Evans)",
+      "url": "https://open.spotify.com/track/4zxd4tiXPlWMqoJltbVTbE"
+    },
+    {
+      "album": {
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 635066,
+      "name": "Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo"
+    },
+    {
+      "album": {
+        "name": "Quiet Nights (2022 Remaster)",
+        "url": "https://open.spotify.com/album/37sPrSzrALZYsuH8i6zX1M"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366373,
+      "name": "Summer Night (2022 Remaster)",
+      "url": "https://open.spotify.com/track/3eN0rzXMRYXmXtBkFOXYdI"
+    },
+    {
+      "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197426,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/25H0Wd1ugPRXGM2LlpjVXM"
+    },
+    {
+      "album": {
+        "name": "Jazz Moods - Cool",
+        "url": "https://open.spotify.com/album/4LgXhrvf3eqzfRCspC1wNG"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198000,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4S2Yo2xIvrhBC5st03hDfo"
+    },
+    {
+      "album": {
+        "name": "Summer Cool Jazz",
+        "url": "https://open.spotify.com/album/3j47GWo6Gu4KY2FiOskzEw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200333,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5VUWO1RwcEcQhN1lA2qqFA"
+    },
+    {
+      "album": {
+        "name": "The Classic Prestige Sessions, 1951-1956",
+        "url": "https://open.spotify.com/album/5sEW8PRqhUpSm0NIUirUHe"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 172786,
+      "name": "The Blue Room [Take 1] - Album - Remastered",
+      "url": "https://open.spotify.com/track/2hUsyTFTjmUFy9r1qhPnDA"
+    },
+    {
+      "album": {
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297440,
+      "name": "The Doo-Bop Song",
+      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
+    },
+    {
+      "album": {
+        "name": "The Man With The Horn (2022 Remaster)",
+        "url": "https://open.spotify.com/album/1fRSDRiFk922cV3bgFCdtz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392487,
+      "name": "The Man With the Horn (2022 Remaster)",
+      "url": "https://open.spotify.com/track/47ULAV7jxxH7xf4qFrIe11"
+    },
+    {
+      "album": {
+        "name": "Sorcerer",
+        "url": "https://open.spotify.com/album/55tHsdolIq77ph1iiepCJt"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310066,
+      "name": "The Sorcerer",
+      "url": "https://open.spotify.com/track/7MzuCllm7kH5YYYWrDlVID"
+    },
+    {
+      "album": {
+        "name": "Sorcerer",
+        "url": "https://open.spotify.com/album/4ONkvBCQrd2A8qJ5Cw6FYo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313613,
+      "name": "The Sorcerer (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams)",
+      "url": "https://open.spotify.com/track/6RWbLrCrv9OwsPgHp7hH0A"
+    },
+    {
+      "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
+    },
+    {
+      "album": {
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310733,
+      "name": "Two Bass Hit (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/0DtEf3aHfOgaCFJQO98x0c"
+    },
+    {
+      "album": {
+        "name": "Birth of the Cool",
+        "url": "https://open.spotify.com/album/3ayEpspwjW5zV15TuB4EoW"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188774,
+      "name": "Venus de Milo",
+      "url": "https://open.spotify.com/track/10P8yZWorE51ZykYKhEUWb"
+    },
+    {
+      "album": {
+        "name": "The Blue Note And Capitol Recordings",
+        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191293,
+      "name": "Venus De Milo",
+      "url": "https://open.spotify.com/track/30osuS1HzfMWsyh67DLUkz"
+    },
+    {
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192992,
+      "name": "Venus De Milo",
+      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
+    },
+    {
+      "album": {
+        "name": "Water Babies",
+        "url": "https://open.spotify.com/album/20kXtVP3GMVWmnbttQGRPB"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306200,
+      "name": "Water Babies",
+      "url": "https://open.spotify.com/track/6XC0a2dZUjDLGJhG1AilVT"
+    },
+    {
+      "album": {
+        "name": "This Is Jazz #38-Miles Davis Electric",
+        "url": "https://open.spotify.com/album/6clQgbrpXu7bzAGq74LKr4"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 420333,
+      "name": "Water On The Pond",
+      "url": "https://open.spotify.com/track/3dK8pQca7JBOoI65NV6f3J"
+    },
+    {
+      "album": {
+        "name": "Directions",
+        "url": "https://open.spotify.com/album/3C76HsRwaTPs0z0baKfk38"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420720,
+      "name": "Water on the Pond",
+      "url": "https://open.spotify.com/track/5gwV3zf2K4do6cnMu7gSCu"
+    },
+    {
+      "album": {
+        "name": "The Complete Columbia Studio Recordings Of The Miles Davis Quintet January 1965 To June 1968",
+        "url": "https://open.spotify.com/album/1mM5BwiiPqVq8T0vucuKhI"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 424906,
+      "name": "Water On The Pond",
+      "url": "https://open.spotify.com/track/38uFCARfKD8lHFN2a3ZLVd"
+    },
+    {
+      "album": {
+        "name": "Steamin' [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/1H51LWYYu7Jx9z46KpKPhk"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263906,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6L0dJfv2ljsx4AGddksERX"
+    },
+    {
+      "album": {
+        "name": "Steamin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/0Q0bftWuBSwZAHBKZr0lxB"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264066,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/1Ame30MZ6yKnqaWFAch1m7"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/3FxWza4JZVZHVjZ4jTQAav"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 363026,
+      "name": "White",
+      "url": "https://open.spotify.com/track/5oMXKAyMtxhhUd8wYDcBcW"
+    },
+    {
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/2SaPfVOUN2nWhsk5dqt0v2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363026,
+      "name": "White",
+      "url": "https://open.spotify.com/track/7yEFRP0S68mIKlEDjCZdPu"
+    },
+    {
+      "album": {
+        "name": "The Musings Of Miles",
+        "url": "https://open.spotify.com/album/7fRwdr4MvqlJhhhssTKutU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381360,
+      "name": "Will You Still Be Mine - RVG Remaster",
+      "url": "https://open.spotify.com/track/1PH1sjijtkUjujNiiIgPUN"
+    },
+    {
+      "album": {
+        "name": "The Musings Of Miles (Remastered)",
+        "url": "https://open.spotify.com/album/3ASoBL3wTumlIG5I57Pz57"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 380800,
+      "name": "Will You Still Be Mine?",
+      "url": "https://open.spotify.com/track/784M5FJsdIvlImGFCfxcj3"
+    },
+    {
+      "album": {
+        "name": "The Musings Of Miles",
+        "url": "https://open.spotify.com/album/6qHXY7gdo21GsK0tfP4oLW"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 380800,
+      "name": "Will You Still Be Mine?",
+      "url": "https://open.spotify.com/track/7k3i1O3sfFtGbgAKFaX5Kg"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3BqHI5fuXWV"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,871 likes - 76 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,198 likes - 76 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 75 | [The Chipmunk Song \(Christmas Don't Be Late\) \[Instrumental Version\]](https://open.spotify.com/track/5EVvYH2ockerMq5ric8BT5) | [Acoustic Guitar Songs,Classical Guitar Masters & Classical Christmas Music](https://open.spotify.com/artist/5XdbiV13oxsZNUdwgXZnhn), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P) | [It's the Most Wonderful Time of the Year \- Christmas Guitar](https://open.spotify.com/album/4rHmFEhmly9U7FAV7GLsmp) | 2:21 |
 | 76 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 |
 
-Snapshot ID: `MCwxMDEyYjA2MjY3Zjc3MWMwYTQ0ZWFkMzQ0ZjEzZGMzMTY4ODY1NTcx`
+Snapshot ID: `MCw2MTM5MDIyM2ZhY2NlZDk0NWNhOTI2MGNkYTcxMmIxZGNiMzg0ODhm`

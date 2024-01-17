@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/daniebb3/">Danielle Brooks</a>
 
-1,366 songs - 3 day 15 hr 40 min
+1,367 songs - 3 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1341,7 +1341,8 @@
 | [Why You Wanna](https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 3:35 | 2023-01-01 | 2023-02-02 |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 | 2022-01-04 | 2022-12-02 |
 | [Wildfire](https://open.spotify.com/track/2WMRd3xAb9FwXopCRNWDq1) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/5fP2kgfePJZF4nB1XqC1i8) | 3:21 | 2021-12-06 | 2022-01-05 |
-| [Wipe Me Down \(feat\. Foxx, Webbie & Lil Boosie\) \- Remix](https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg) | 4:32 | 2024-01-01 |  |
+| [Wipe Me Down \(feat\. Foxx, Webbie & Boosie Badazz\) \- Remix](https://open.spotify.com/track/1csF3mqDAQ33FuLJhV4ESS) | [Trill Family](https://open.spotify.com/artist/1YMvmHRTq8YdlABZk6C8av), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/2G2MWbopwqEGfEMjGiMe3b) | 4:32 | 2024-01-01 |  |
+| [Wipe Me Down \(feat\. Foxx, Webbie & Lil Boosie\) \- Remix](https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg) | 4:32 | 2024-01-01 | 2024-01-05 |
 | [WISH I COULD TELL YOU](https://open.spotify.com/track/7mAIh2cjeAXId5k6j74mCj) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:56 | 2023-09-01 | 2023-10-07 |
 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 | 2023-07-01 | 2023-08-02 |
 | [Woke Up In Kingston](https://open.spotify.com/track/2AlgMImD9bUXygJi6gX9ov) | [I DO](https://open.spotify.com/artist/2CpKPyP4X3dR9vTHqwbnR8), [TRACKDILLA](https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR), [J.Lauryn](https://open.spotify.com/artist/6dZG8mYndxtpHBvaqdEeE2) | [Woke Up In Kingston](https://open.spotify.com/album/2mqrNbfoTsEJ30a5Z4ueKy) | 2:55 | 2021-12-06 | 2022-01-05 |

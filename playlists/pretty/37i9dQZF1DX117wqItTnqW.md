@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX117wqItTnqW.md) - [plain]
 
 > Le meilleur de la playlist Afro Hits en 2023\. Photo : Libianca
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,808 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,409 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

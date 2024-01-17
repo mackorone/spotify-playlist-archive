@@ -1,410 +1,1291 @@
 {
-  "2022-11-18": 5654,
-  "2022-11-19": 5657,
-  "2022-11-20": 5663,
-  "2022-11-21": 5672,
-  "2022-11-22": 5679,
-  "2022-11-23": 5694,
-  "2022-11-24": 5700,
-  "2022-11-25": 5717,
-  "2022-11-26": 5723,
-  "2022-11-27": 5728,
-  "2022-11-28": 5732,
-  "2022-11-29": 5731,
-  "2022-11-30": 5734,
-  "2022-12-01": 5737,
-  "2022-12-02": 5736,
-  "2022-12-03": 5749,
-  "2022-12-04": 5752,
-  "2022-12-05": 5759,
-  "2022-12-06": 5763,
-  "2022-12-07": 5766,
-  "2022-12-08": 5774,
-  "2022-12-09": 5779,
-  "2022-12-10": 5781,
-  "2022-12-11": 5787,
-  "2022-12-12": 5790,
-  "2022-12-13": 5792,
-  "2022-12-14": 5796,
-  "2022-12-15": 5794,
-  "2022-12-16": 5799,
-  "2022-12-17": 5802,
-  "2022-12-18": 5810,
-  "2022-12-19": 5812,
-  "2022-12-20": 5822,
-  "2022-12-21": 5822,
-  "2022-12-22": 5825,
-  "2022-12-24": 5833,
-  "2022-12-25": 5836,
-  "2022-12-26": 5838,
-  "2022-12-27": 5846,
-  "2022-12-28": 5853,
-  "2022-12-29": 5857,
-  "2022-12-30": 5861,
-  "2022-12-31": 5863,
-  "2023-01-01": 5863,
-  "2023-01-02": 5865,
-  "2023-01-03": 5868,
-  "2023-01-04": 5871,
-  "2023-01-05": 5872,
-  "2023-01-06": 5878,
-  "2023-01-07": 5881,
-  "2023-01-08": 5880,
-  "2023-01-09": 5886,
-  "2023-01-10": 5894,
-  "2023-01-11": 5900,
-  "2023-01-12": 5904,
-  "2023-01-13": 5909,
-  "2023-01-14": 5915,
-  "2023-01-15": 5917,
-  "2023-01-16": 5921,
-  "2023-01-17": 5923,
-  "2023-01-18": 5926,
-  "2023-01-19": 5928,
-  "2023-01-20": 5937,
-  "2023-01-21": 5941,
-  "2023-01-22": 5945,
-  "2023-01-23": 5954,
-  "2023-01-24": 5958,
-  "2023-01-25": 5968,
-  "2023-01-26": 5975,
-  "2023-01-27": 5982,
-  "2023-01-28": 5990,
-  "2023-01-29": 6000,
-  "2023-01-30": 6000,
-  "2023-01-31": 6000,
-  "2023-02-01": 6013,
-  "2023-02-02": 6017,
-  "2023-02-03": 6020,
-  "2023-02-04": 6025,
-  "2023-02-05": 6033,
-  "2023-02-06": 6042,
-  "2023-02-07": 6042,
-  "2023-02-08": 6052,
-  "2023-02-09": 6052,
-  "2023-02-10": 6057,
-  "2023-02-11": 6062,
-  "2023-02-12": 6063,
-  "2023-02-13": 6067,
-  "2023-02-14": 6067,
-  "2023-02-15": 6073,
-  "2023-02-16": 6079,
-  "2023-02-17": 6081,
-  "2023-02-18": 6089,
-  "2023-02-19": 6091,
-  "2023-02-20": 6095,
-  "2023-02-21": 6101,
-  "2023-02-22": 6110,
-  "2023-02-23": 6119,
-  "2023-02-24": 6120,
-  "2023-02-25": 6135,
-  "2023-02-26": 6143,
-  "2023-02-27": 6158,
-  "2023-02-28": 6158,
-  "2023-03-01": 6169,
-  "2023-03-02": 6171,
-  "2023-03-03": 6172,
-  "2023-03-04": 6177,
-  "2023-03-05": 6188,
-  "2023-03-06": 6188,
-  "2023-03-07": 6190,
-  "2023-03-08": 6196,
-  "2023-03-09": 6201,
-  "2023-03-10": 6208,
-  "2023-03-11": 6215,
-  "2023-03-12": 6222,
-  "2023-03-13": 6228,
-  "2023-03-14": 6232,
-  "2023-03-15": 6235,
-  "2023-03-16": 6235,
-  "2023-03-17": 6235,
-  "2023-03-18": 6246,
-  "2023-03-19": 6246,
-  "2023-03-20": 6249,
-  "2023-03-21": 6253,
-  "2023-03-22": 6258,
-  "2023-03-23": 6257,
-  "2023-03-24": 6257,
-  "2023-03-25": 6273,
-  "2023-03-26": 6277,
-  "2023-03-27": 6277,
-  "2023-03-28": 6289,
-  "2023-03-29": 6301,
-  "2023-03-30": 6308,
-  "2023-03-31": 6308,
-  "2023-04-01": 6318,
-  "2023-04-02": 6327,
-  "2023-04-03": 6337,
-  "2023-04-04": 6346,
-  "2023-04-05": 6352,
-  "2023-04-06": 6360,
-  "2023-04-07": 6366,
-  "2023-04-09": 6382,
-  "2023-04-10": 6388,
-  "2023-04-11": 6404,
-  "2023-04-12": 6404,
-  "2023-04-13": 6409,
-  "2023-04-14": 6415,
-  "2023-04-15": 6423,
-  "2023-04-16": 6429,
-  "2023-04-17": 6438,
-  "2023-04-18": 6447,
-  "2023-04-19": 6451,
-  "2023-04-20": 6459,
-  "2023-04-21": 6464,
-  "2023-04-22": 6466,
-  "2023-04-23": 6471,
-  "2023-04-24": 6474,
-  "2023-04-25": 6475,
-  "2023-04-26": 6481,
-  "2023-04-27": 6485,
-  "2023-04-28": 6492,
-  "2023-04-29": 6497,
-  "2023-04-30": 6498,
-  "2023-05-01": 6500,
-  "2023-05-02": 6502,
-  "2023-05-03": 6503,
-  "2023-05-04": 6507,
-  "2023-05-05": 6511,
-  "2023-05-06": 6516,
-  "2023-05-07": 6520,
-  "2023-05-08": 6525,
-  "2023-05-09": 6530,
-  "2023-05-10": 6535,
-  "2023-05-11": 6536,
-  "2023-05-12": 6541,
-  "2023-05-13": 6547,
-  "2023-05-14": 6554,
-  "2023-05-15": 6561,
-  "2023-05-16": 6570,
-  "2023-05-17": 6574,
-  "2023-05-18": 6577,
-  "2023-05-19": 6581,
-  "2023-05-20": 6590,
-  "2023-05-21": 6590,
-  "2023-05-22": 6590,
-  "2023-05-23": 6601,
-  "2023-05-24": 6609,
-  "2023-05-25": 6609,
-  "2023-05-26": 6610,
-  "2023-05-27": 6617,
-  "2023-05-28": 6622,
-  "2023-05-29": 6622,
-  "2023-05-30": 6628,
-  "2023-05-31": 6633,
-  "2023-06-01": 6640,
-  "2023-06-02": 6645,
-  "2023-06-03": 6650,
-  "2023-06-04": 6652,
-  "2023-06-05": 6660,
-  "2023-06-06": 6663,
-  "2023-06-07": 6669,
-  "2023-06-08": 6671,
-  "2023-06-09": 6673,
-  "2023-06-10": 6678,
-  "2023-06-11": 6681,
-  "2023-06-12": 6683,
-  "2023-06-13": 6686,
-  "2023-06-14": 6686,
-  "2023-06-15": 6690,
-  "2023-06-16": 6691,
-  "2023-06-17": 6699,
-  "2023-06-18": 6703,
-  "2023-06-19": 6708,
-  "2023-06-20": 6714,
-  "2023-06-21": 6721,
-  "2023-06-22": 6727,
-  "2023-06-23": 6735,
-  "2023-06-24": 6741,
-  "2023-06-25": 6752,
-  "2023-06-26": 6754,
-  "2023-06-27": 6757,
-  "2023-06-28": 6759,
-  "2023-06-29": 6767,
-  "2023-06-30": 6772,
-  "2023-07-01": 6776,
-  "2023-07-02": 6776,
-  "2023-07-03": 6777,
-  "2023-07-04": 6781,
-  "2023-07-05": 6784,
-  "2023-07-06": 6797,
-  "2023-07-07": 6797,
-  "2023-07-08": 6799,
-  "2023-07-09": 6802,
-  "2023-07-10": 6804,
-  "2023-07-11": 6816,
-  "2023-07-12": 6825,
-  "2023-07-13": 6828,
-  "2023-07-14": 6833,
-  "2023-07-15": 6842,
-  "2023-07-16": 6851,
-  "2023-07-17": 6853,
-  "2023-07-18": 6861,
-  "2023-07-19": 6863,
-  "2023-07-20": 6868,
-  "2023-07-21": 6872,
-  "2023-07-22": 6878,
-  "2023-07-23": 6880,
-  "2023-07-24": 6887,
-  "2023-07-25": 6891,
-  "2023-07-26": 6897,
-  "2023-07-27": 6903,
-  "2023-07-28": 6907,
-  "2023-07-29": 6914,
-  "2023-07-30": 6920,
-  "2023-07-31": 6926,
-  "2023-08-01": 6929,
-  "2023-08-02": 6935,
-  "2023-08-03": 6943,
-  "2023-08-04": 6945,
-  "2023-08-05": 6954,
-  "2023-08-06": 6960,
-  "2023-08-07": 6960,
-  "2023-08-08": 6965,
-  "2023-08-09": 6971,
-  "2023-08-10": 6975,
-  "2023-08-11": 6982,
-  "2023-08-12": 6982,
-  "2023-08-13": 6982,
-  "2023-08-14": 6990,
-  "2023-08-15": 6990,
-  "2023-08-16": 6990,
-  "2023-08-17": 7002,
-  "2023-08-18": 7002,
-  "2023-08-19": 7015,
-  "2023-08-20": 7018,
-  "2023-08-21": 7018,
-  "2023-08-22": 7025,
-  "2023-08-23": 7028,
-  "2023-08-24": 7042,
-  "2023-08-25": 7042,
-  "2023-08-26": 7052,
-  "2023-08-27": 7060,
-  "2023-08-28": 7064,
-  "2023-08-29": 7064,
-  "2023-08-30": 7064,
-  "2023-08-31": 7075,
-  "2023-09-01": 7076,
-  "2023-09-02": 7076,
-  "2023-09-03": 7080,
-  "2023-09-04": 7080,
-  "2023-09-05": 7080,
-  "2023-09-06": 7090,
-  "2023-09-07": 7090,
-  "2023-09-08": 7090,
-  "2023-09-09": 7090,
-  "2023-09-10": 7103,
-  "2023-09-11": 7107,
-  "2023-09-12": 7107,
-  "2023-09-13": 7109,
-  "2023-09-14": 7109,
-  "2023-09-15": 7109,
-  "2023-09-16": 7118,
-  "2023-09-17": 7118,
-  "2023-09-18": 7118,
-  "2023-09-19": 7130,
-  "2023-09-20": 7130,
-  "2023-09-21": 7130,
-  "2023-09-22": 7144,
-  "2023-09-23": 7144,
-  "2023-09-24": 7144,
-  "2023-09-25": 7144,
-  "2023-09-26": 7171,
-  "2023-09-27": 7171,
-  "2023-09-28": 7171,
-  "2023-09-29": 7171,
-  "2023-09-30": 7171,
-  "2023-10-01": 7171,
-  "2023-10-02": 7194,
-  "2023-10-03": 7194,
-  "2023-10-04": 7194,
-  "2023-10-05": 7214,
-  "2023-10-06": 7220,
-  "2023-10-07": 7220,
-  "2023-10-08": 7220,
-  "2023-10-09": 7220,
-  "2023-10-10": 7220,
-  "2023-10-11": 7234,
-  "2023-10-12": 7234,
-  "2023-10-13": 7234,
-  "2023-10-14": 7234,
-  "2023-10-15": 7234,
-  "2023-10-16": 7234,
-  "2023-10-17": 7234,
-  "2023-10-18": 7234,
-  "2023-10-19": 7234,
-  "2023-10-20": 7234,
-  "2023-10-21": 7234,
-  "2023-10-22": 7234,
-  "2023-10-23": 7234,
-  "2023-10-24": 7234,
-  "2023-10-25": 7234,
-  "2023-10-26": 7234,
-  "2023-10-27": 7234,
-  "2023-10-28": 7234,
-  "2023-10-29": 7234,
-  "2023-10-30": 7234,
-  "2023-10-31": 7234,
-  "2023-11-01": 7234,
-  "2023-11-02": 7234,
-  "2023-11-03": 7234,
-  "2023-11-04": 7234,
-  "2023-11-05": 7234,
-  "2023-11-06": 7234,
-  "2023-11-07": 7234,
-  "2023-11-08": 7234,
-  "2023-11-09": 7234,
-  "2023-11-10": 7234,
-  "2023-11-11": 7361,
-  "2023-11-12": 7361,
-  "2023-11-13": 7361,
-  "2023-11-14": 7361,
-  "2023-11-15": 7361,
-  "2023-11-16": 7361,
-  "2023-11-17": 7361,
-  "2023-11-18": 7361,
-  "2023-11-19": 7361,
-  "2023-11-20": 7361,
-  "2023-11-21": 7361,
-  "2023-11-22": 7361,
-  "2023-11-23": 7361,
-  "2023-11-24": 7361,
-  "2023-11-25": 7361,
-  "2023-11-26": 7361,
-  "2023-11-27": 7361,
-  "2023-11-28": 7361,
-  "2023-11-29": 7361,
-  "2023-11-30": 7361,
-  "2023-12-01": 7361,
-  "2023-12-02": 7361,
-  "2023-12-03": 7361,
-  "2023-12-04": 7361,
-  "2023-12-05": 7361,
-  "2023-12-06": 7361,
-  "2023-12-07": 7361,
-  "2023-12-08": 7361,
-  "2023-12-09": 7361,
-  "2023-12-10": 7361,
-  "2023-12-11": 7361,
-  "2023-12-12": 7361,
-  "2023-12-13": 7361,
-  "2023-12-14": 7498,
-  "2023-12-15": 7499,
-  "2023-12-16": 7502,
-  "2023-12-17": 7503,
-  "2023-12-18": 7506,
-  "2023-12-19": 7504,
-  "2023-12-20": 7511,
-  "2023-12-21": 7514,
-  "2023-12-22": 7513,
-  "2023-12-23": 7515,
-  "2023-12-24": 7516,
-  "2023-12-25": 7516,
-  "2023-12-26": 7517,
-  "2023-12-27": 7517,
-  "2023-12-30": 7516,
-  "2023-12-31": 7519,
-  "2024-01-01": 7522,
-  "2024-01-02": 7525,
-  "2024-01-03": 7526
+  "2024-01-17": 7559,
+  "date_first_scraped": "2022-11-18",
+  "description": "This is Helmet. The essential tracks, all in one playlist.",
+  "name": "This Is Helmet",
+  "tracks": [
+    {
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133733,
+      "name": "Bad Mood",
+      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
+    },
+    {
+      "album": {
+        "name": "Dead to the World",
+        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 156360,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/3PUTw7Aol3xShBCwWZNtXp"
+    },
+    {
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163649,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG"
+    },
+    {
+      "album": {
+        "name": "Big Shot",
+        "url": "https://open.spotify.com/album/6xsThAkPhe4okfWN4cQWu5"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 163649,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/1W8E07hkLSmtkIbpWmh3gv"
+    },
+    {
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173066,
+      "name": "Biscuits For Smut",
+      "url": "https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05"
+    },
+    {
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199360,
+      "name": "Blacktop",
+      "url": "https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx"
+    },
+    {
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191184,
+      "name": "Bombastic",
+      "url": "https://open.spotify.com/track/4RssOVgoIlIeiEntLWc4fS"
+    },
+    {
+      "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 363626,
+      "name": "Born Annoying (1989)",
+      "url": "https://open.spotify.com/track/3658BS7fkT41j9Bo6I2Ojn"
+    },
+    {
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 251080,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/3T2Fwwxr2Q7WlG45Jo7gK9"
+    },
+    {
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Broadcast Emotion",
+      "url": "https://open.spotify.com/track/1lfPYmFzLJzkrAo8J8bBtz"
+    },
+    {
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 271013,
+      "name": "Bury Me",
+      "url": "https://open.spotify.com/track/7JF5gAGflcwUyGwuejhBmk"
+    },
+    {
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151120,
+      "name": "Crashing Foreign Cars",
+      "url": "https://open.spotify.com/track/5aAr5Y5wXiUMHVEtvaCXkt"
+    },
+    {
+      "album": {
+        "name": "Dead to the World",
+        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 212240,
+      "name": "Dead to the World",
+      "url": "https://open.spotify.com/track/2D9Qj4JZEetH1mzALdz6pV"
+    },
+    {
+      "album": {
+        "name": "Unsung: The Best Of Helmet 1991-1997",
+        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 224973,
+      "name": "Disagreeable",
+      "url": "https://open.spotify.com/track/3kfYNMUlAhfrpOv2BexhB5"
+    },
+    {
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 199280,
+      "name": "Dislocated",
+      "url": "https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA"
+    },
+    {
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259266,
+      "name": "Driving Nowhere",
+      "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
+    },
+    {
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203986,
+      "name": "Drug Lord",
+      "url": "https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG"
+    },
+    {
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 300626,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/7BFKbXUdIyz10tE7d3eR3e"
+    },
+    {
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "Exactly What You Wanted",
+      "url": "https://open.spotify.com/track/1xl9a6GICzJisksmdrljt2"
+    },
+    {
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159640,
+      "name": "FBLA",
+      "url": "https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS"
+    },
+    {
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202293,
+      "name": "FBLA II",
+      "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw"
+    },
+    {
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256933,
+      "name": "Give It",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
+    },
+    {
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 211186,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1"
+    },
+    {
+      "album": {
+        "name": "Gun Fluf",
+        "url": "https://open.spotify.com/album/2TRMF7MNoh6fZn4HFa0X5Y"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 209882,
+      "name": "Gun Fluf",
+      "url": "https://open.spotify.com/track/4WPXpD0IxrsyYCsxej7iaU"
+    },
+    {
+      "album": {
+        "name": "Gun Fluf",
+        "url": "https://open.spotify.com/album/507rjc0epEQN9UJbwHcIlH"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 209882,
+      "name": "Gun Fluf",
+      "url": "https://open.spotify.com/track/7GxDGv0LeGzBKJsFPqlcDM"
+    },
+    {
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 209882,
+      "name": "Gun Fluf",
+      "url": "https://open.spotify.com/track/7JXXFL1CvoI2BOry9G7c06"
+    },
+    {
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/3vpPVavr1AP4hRv9ZCg1p1"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 202655,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/40nd6IOSBJsHtKJOKWvQlS"
+    },
+    {
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/352FAOL0hBkZebE02CPU6y"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 202655,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/523ztkM7sq10dRYBIavAxn"
+    },
+    {
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5YZc9o1Uk69v7fuO2R3cLG"
+    },
+    {
+      "album": {
+        "name": "Dead to the World",
+        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 171293,
+      "name": "I Love My Guru",
+      "url": "https://open.spotify.com/track/02oMpOsmAmFMnETgFCIqfO"
+    },
+    {
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 186080,
+      "name": "In Person",
+      "url": "https://open.spotify.com/track/1eeR14LMpSxl2KjrqHup3p"
+    },
+    {
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188693,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
+    },
+    {
+      "album": {
+        "name": "Live and Rare",
+        "url": "https://open.spotify.com/album/23LB0tzYvazXNVnYL1OZbo"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 99133,
+      "name": "Intro - Live at CBGB",
+      "url": "https://open.spotify.com/track/7G0GL6nuNPavq0qXmAASBF"
+    },
+    {
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "Iron Head",
+      "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX"
+    },
+    {
+      "album": {
+        "name": "Unsung: The Best Of Helmet 1991-1997",
+        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        },
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262160,
+      "name": "Just Another Victim",
+      "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
+    },
+    {
+      "album": {
+        "name": "Dead to the World",
+        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 182760,
+      "name": "Life or Death",
+      "url": "https://open.spotify.com/track/01x7Rmr1ZivytaToNGRhuF"
+    },
+    {
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "Like I Care",
+      "url": "https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M"
+    },
+    {
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 206773,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
+    },
+    {
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168856,
+      "name": "Make-Up",
+      "url": "https://open.spotify.com/track/3kdvSS7r98Ysi4OLX8buSD"
+    },
+    {
+      "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238999,
+      "name": "Milktoast",
+      "url": "https://open.spotify.com/track/0EV6881kagOULo42517dMX"
+    },
+    {
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Milquetoast",
+      "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
+    },
+    {
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 204813,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/0Odz0mm44aEHbMGHu2uZdS"
+    },
+    {
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy"
+    },
+    {
+      "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "No Nicky No",
+      "url": "https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl"
+    },
+    {
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154214,
+      "name": "NYC Tough Guy",
+      "url": "https://open.spotify.com/track/69hbQdjcPhITOxVBuIApkL"
+    },
+    {
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221863,
+      "name": "Powder Puff",
+      "url": "https://open.spotify.com/track/2o1sbJtl8qV6a9FGpOAQ6g"
+    },
+    {
+      "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 238106,
+      "name": "Primitive",
+      "url": "https://open.spotify.com/track/4rD9TawMBbDEGY90A9MfUX"
+    },
+    {
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213173,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/2IbXarUn4rwPepcPIS9sfm"
+    },
+    {
+      "album": {
+        "name": "Dead to the World",
+        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 199000,
+      "name": "Red Scare",
+      "url": "https://open.spotify.com/track/5khIBhLlizgeyCrMtaaEFl"
+    },
+    {
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Renovation",
+      "url": "https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq"
+    },
+    {
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Repetition",
+      "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
+    },
+    {
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101539,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD"
+    },
+    {
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 158066,
+      "name": "Rollo",
+      "url": "https://open.spotify.com/track/4JN0W9IgGlK5Obp8gnTlq3"
+    },
+    {
+      "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 146600,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/56nd5xG1zkJNYJtcz0mSM3"
+    },
+    {
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226720,
+      "name": "See You Dead",
+      "url": "https://open.spotify.com/track/3TA6HhnAnQP5t6xBpxgpOX"
+    },
+    {
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 243666,
+      "name": "Seeing Eye Dog",
+      "url": "https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z"
+    },
+    {
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
+    },
+    {
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224560,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l"
+    },
+    {
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/59dAspZDf4LjLpQ4OKVVz4"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 192426,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/3gAYxWLhMHIsrflpKmyC4F"
+    },
+    {
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 192426,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/4VP7mWCin77GP9PVGzaSUX"
+    },
+    {
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/2GN8Femwt83EIwInIuQj33"
+    },
+    {
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 234506,
+      "name": "Swallowing Everything",
+      "url": "https://open.spotify.com/track/7fdCDdBypKbgiHatHUXmcM"
+    },
+    {
+      "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113400,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ"
+    },
+    {
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224120,
+      "name": "Throwing Punches",
+      "url": "https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE"
+    },
+    {
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD"
+    },
+    {
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253493,
+      "name": "Turned Out",
+      "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq"
+    },
+    {
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Unsung",
+      "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
+    },
+    {
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252146,
+      "name": "Unwound",
+      "url": "https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj"
+    },
+    {
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 261786,
+      "name": "Welcome to Algiers",
+      "url": "https://open.spotify.com/track/2lzqK8W07iKSUm69xKhsiN"
+    },
+    {
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Wilma's Rainbow",
+      "url": "https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv"
+    },
+    {
+      "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 200733,
+      "name": "Your Head",
+      "url": "https://open.spotify.com/track/7cF2IWNliAdpy26eYNclbe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bwPeF"
 }

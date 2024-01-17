@@ -1,577 +1,1131 @@
 {
-  "2022-06-02": 53669,
-  "2022-06-03": 53692,
-  "2022-06-04": 53716,
-  "2022-06-05": 53747,
-  "2022-06-06": 53764,
-  "2022-06-07": 53774,
-  "2022-06-08": 53787,
-  "2022-06-09": 53797,
-  "2022-06-10": 53816,
-  "2022-06-11": 53839,
-  "2022-06-12": 53866,
-  "2022-06-13": 53883,
-  "2022-06-14": 53897,
-  "2022-06-15": 53916,
-  "2022-06-16": 53932,
-  "2022-06-17": 53962,
-  "2022-06-18": 53994,
-  "2022-06-19": 54054,
-  "2022-06-20": 54054,
-  "2022-06-21": 54070,
-  "2022-06-22": 54111,
-  "2022-06-23": 54111,
-  "2022-06-24": 54128,
-  "2022-06-25": 54150,
-  "2022-06-26": 54180,
-  "2022-06-27": 54216,
-  "2022-06-28": 54228,
-  "2022-06-29": 54251,
-  "2022-06-30": 54264,
-  "2022-07-01": 54296,
-  "2022-07-02": 54327,
-  "2022-07-03": 54361,
-  "2022-07-04": 54391,
-  "2022-07-05": 54416,
-  "2022-07-06": 54416,
-  "2022-07-07": 54463,
-  "2022-07-08": 54488,
-  "2022-07-09": 54517,
-  "2022-07-10": 54544,
-  "2022-07-11": 54571,
-  "2022-07-12": 54598,
-  "2022-07-13": 54623,
-  "2022-07-14": 54636,
-  "2022-07-15": 54653,
-  "2022-07-16": 54670,
-  "2022-07-17": 54702,
-  "2022-07-18": 54726,
-  "2022-07-19": 54754,
-  "2022-07-20": 54776,
-  "2022-07-21": 54794,
-  "2022-07-22": 54808,
-  "2022-07-23": 54834,
-  "2022-07-24": 54875,
-  "2022-07-25": 54898,
-  "2022-07-26": 54925,
-  "2022-07-27": 54946,
-  "2022-07-28": 54976,
-  "2022-07-29": 55004,
-  "2022-07-30": 55073,
-  "2022-07-31": 55073,
-  "2022-08-01": 55099,
-  "2022-08-02": 55146,
-  "2022-08-03": 55146,
-  "2022-08-04": 55169,
-  "2022-08-05": 55190,
-  "2022-08-06": 55205,
-  "2022-08-07": 55242,
-  "2022-08-08": 55265,
-  "2022-08-09": 55290,
-  "2022-08-10": 55314,
-  "2022-08-11": 55341,
-  "2022-08-12": 55364,
-  "2022-08-13": 55387,
-  "2022-08-14": 55429,
-  "2022-08-15": 55450,
-  "2022-08-16": 55463,
-  "2022-08-17": 55485,
-  "2022-08-18": 55508,
-  "2022-08-19": 55530,
-  "2022-08-20": 55568,
-  "2022-08-21": 55592,
-  "2022-08-22": 55632,
-  "2022-08-23": 55646,
-  "2022-08-24": 55663,
-  "2022-08-25": 55698,
-  "2022-08-26": 55713,
-  "2022-08-27": 55750,
-  "2022-08-28": 55771,
-  "2022-08-29": 55801,
-  "2022-08-30": 55822,
-  "2022-08-31": 55836,
-  "2022-09-01": 55853,
-  "2022-09-02": 55870,
-  "2022-09-03": 55888,
-  "2022-09-04": 55925,
-  "2022-09-05": 55954,
-  "2022-09-06": 55959,
-  "2022-09-07": 55975,
-  "2022-09-09": 56020,
-  "2022-09-10": 56050,
-  "2022-09-11": 56093,
-  "2022-09-12": 56132,
-  "2022-09-13": 56172,
-  "2022-09-15": 56229,
-  "2022-09-16": 56281,
-  "2022-09-17": 56333,
-  "2022-09-18": 56365,
-  "2022-09-19": 56396,
-  "2022-09-20": 56413,
-  "2022-09-21": 56437,
-  "2022-09-22": 56467,
-  "2022-09-23": 56495,
-  "2022-09-24": 56514,
-  "2022-09-25": 56550,
-  "2022-09-26": 56572,
-  "2022-09-27": 56581,
-  "2022-09-28": 56602,
-  "2022-09-29": 56617,
-  "2022-09-30": 56649,
-  "2022-10-01": 56672,
-  "2022-10-02": 56707,
-  "2022-10-03": 56735,
-  "2022-10-04": 56750,
-  "2022-10-05": 56769,
-  "2022-10-06": 56787,
-  "2022-10-07": 56794,
-  "2022-10-08": 56822,
-  "2022-10-09": 56866,
-  "2022-10-10": 56874,
-  "2022-10-11": 56896,
-  "2022-10-12": 56923,
-  "2022-10-13": 56948,
-  "2022-10-14": 56985,
-  "2022-10-15": 57009,
-  "2022-10-16": 57045,
-  "2022-10-17": 57088,
-  "2022-10-18": 57097,
-  "2022-10-19": 57124,
-  "2022-10-20": 57152,
-  "2022-10-21": 57173,
-  "2022-10-22": 57195,
-  "2022-10-23": 57221,
-  "2022-10-24": 57264,
-  "2022-10-25": 57286,
-  "2022-10-26": 57302,
-  "2022-10-27": 57323,
-  "2022-10-28": 57344,
-  "2022-10-29": 57368,
-  "2022-10-30": 57399,
-  "2022-10-31": 57422,
-  "2022-11-01": 57444,
-  "2022-11-02": 57467,
-  "2022-11-03": 57488,
-  "2022-11-04": 57509,
-  "2022-11-05": 57535,
-  "2022-11-06": 57568,
-  "2022-11-07": 57587,
-  "2022-11-08": 57602,
-  "2022-11-09": 57627,
-  "2022-11-10": 57643,
-  "2022-11-11": 57668,
-  "2022-11-12": 57694,
-  "2022-11-13": 57714,
-  "2022-11-14": 57738,
-  "2022-11-15": 57755,
-  "2022-11-16": 57771,
-  "2022-11-17": 57798,
-  "2022-11-18": 57796,
-  "2022-11-19": 57793,
-  "2022-11-20": 57802,
-  "2022-11-21": 57844,
-  "2022-11-22": 57877,
-  "2022-11-23": 57903,
-  "2022-11-24": 57951,
-  "2022-11-25": 57985,
-  "2022-11-26": 58031,
-  "2022-11-27": 58071,
-  "2022-11-28": 58112,
-  "2022-11-29": 58115,
-  "2022-11-30": 58129,
-  "2022-12-01": 58150,
-  "2022-12-02": 58156,
-  "2022-12-03": 58196,
-  "2022-12-04": 58230,
-  "2022-12-05": 58258,
-  "2022-12-06": 58271,
-  "2022-12-07": 58286,
-  "2022-12-08": 58301,
-  "2022-12-09": 58333,
-  "2022-12-10": 58357,
-  "2022-12-11": 58394,
-  "2022-12-12": 58434,
-  "2022-12-13": 58461,
-  "2022-12-14": 58490,
-  "2022-12-15": 58515,
-  "2022-12-16": 58540,
-  "2022-12-17": 58571,
-  "2022-12-18": 58610,
-  "2022-12-19": 58629,
-  "2022-12-20": 58682,
-  "2022-12-21": 58682,
-  "2022-12-22": 58720,
-  "2022-12-24": 58781,
-  "2022-12-25": 58839,
-  "2022-12-26": 58928,
-  "2022-12-27": 58946,
-  "2022-12-28": 58977,
-  "2022-12-29": 59016,
-  "2022-12-30": 59048,
-  "2022-12-31": 59082,
-  "2023-01-01": 59169,
-  "2023-01-02": 59299,
-  "2023-01-03": 59331,
-  "2023-01-04": 59364,
-  "2023-01-05": 59384,
-  "2023-01-06": 59407,
-  "2023-01-07": 59467,
-  "2023-01-08": 59474,
-  "2023-01-09": 59497,
-  "2023-01-10": 59515,
-  "2023-01-11": 59534,
-  "2023-01-12": 59557,
-  "2023-01-13": 59573,
-  "2023-01-14": 59628,
-  "2023-01-15": 59640,
-  "2023-01-16": 59675,
-  "2023-01-17": 59689,
-  "2023-01-18": 59704,
-  "2023-01-19": 59713,
-  "2023-01-20": 59735,
-  "2023-01-21": 59770,
-  "2023-01-22": 59801,
-  "2023-01-23": 59830,
-  "2023-01-24": 59847,
-  "2023-01-25": 59864,
-  "2023-01-26": 59899,
-  "2023-01-27": 59916,
-  "2023-01-28": 59940,
-  "2023-01-29": 59959,
-  "2023-01-30": 59973,
-  "2023-01-31": 59973,
-  "2023-02-01": 60027,
-  "2023-02-02": 60048,
-  "2023-02-03": 60078,
-  "2023-02-04": 60105,
-  "2023-02-05": 60135,
-  "2023-02-06": 60164,
-  "2023-02-07": 60187,
-  "2023-02-08": 60218,
-  "2023-02-09": 60218,
-  "2023-02-10": 60240,
-  "2023-02-11": 60252,
-  "2023-02-12": 60301,
-  "2023-02-13": 60324,
-  "2023-02-14": 60324,
-  "2023-02-15": 60336,
-  "2023-02-16": 60349,
-  "2023-02-17": 60374,
-  "2023-02-18": 60427,
-  "2023-02-19": 60436,
-  "2023-02-20": 60456,
-  "2023-02-21": 60481,
-  "2023-02-22": 60514,
-  "2023-02-23": 60539,
-  "2023-02-24": 60575,
-  "2023-02-25": 60613,
-  "2023-02-26": 60640,
-  "2023-02-27": 60710,
-  "2023-02-28": 60710,
-  "2023-03-01": 60734,
-  "2023-03-02": 60751,
-  "2023-03-03": 60779,
-  "2023-03-04": 60818,
-  "2023-03-05": 60880,
-  "2023-03-06": 60880,
-  "2023-03-07": 60893,
-  "2023-03-08": 60908,
-  "2023-03-09": 60941,
-  "2023-03-10": 60968,
-  "2023-03-11": 60997,
-  "2023-03-12": 61034,
-  "2023-03-13": 61057,
-  "2023-03-14": 61072,
-  "2023-03-15": 61098,
-  "2023-03-16": 61098,
-  "2023-03-17": 61098,
-  "2023-03-18": 61182,
-  "2023-03-19": 61182,
-  "2023-03-20": 61242,
-  "2023-03-21": 61268,
-  "2023-03-22": 61292,
-  "2023-03-23": 61316,
-  "2023-03-24": 61316,
-  "2023-03-25": 61385,
-  "2023-03-26": 61420,
-  "2023-03-27": 61451,
-  "2023-03-28": 61469,
-  "2023-03-29": 61497,
-  "2023-03-30": 61547,
-  "2023-03-31": 61547,
-  "2023-04-01": 61587,
-  "2023-04-02": 61607,
-  "2023-04-03": 61650,
-  "2023-04-04": 61677,
-  "2023-04-05": 61712,
-  "2023-04-06": 61741,
-  "2023-04-07": 61777,
-  "2023-04-09": 61854,
-  "2023-04-10": 61885,
-  "2023-04-11": 61929,
-  "2023-04-12": 61929,
-  "2023-04-13": 61961,
-  "2023-04-14": 61982,
-  "2023-04-15": 62008,
-  "2023-04-16": 62052,
-  "2023-04-17": 62092,
-  "2023-04-18": 62117,
-  "2023-04-19": 62130,
-  "2023-04-20": 62146,
-  "2023-04-21": 62178,
-  "2023-04-22": 62202,
-  "2023-04-23": 62236,
-  "2023-04-24": 62270,
-  "2023-04-25": 62297,
-  "2023-04-26": 62332,
-  "2023-04-27": 62354,
-  "2023-04-28": 62385,
-  "2023-04-29": 62412,
-  "2023-04-30": 62451,
-  "2023-05-01": 62495,
-  "2023-05-02": 62516,
-  "2023-05-03": 62544,
-  "2023-05-04": 62570,
-  "2023-05-05": 62600,
-  "2023-05-06": 62632,
-  "2023-05-07": 62674,
-  "2023-05-08": 62699,
-  "2023-05-09": 62725,
-  "2023-05-10": 62752,
-  "2023-05-11": 62774,
-  "2023-05-12": 62810,
-  "2023-05-13": 62841,
-  "2023-05-14": 62889,
-  "2023-05-15": 62927,
-  "2023-05-16": 62957,
-  "2023-05-17": 62989,
-  "2023-05-18": 63020,
-  "2023-05-19": 63061,
-  "2023-05-20": 63140,
-  "2023-05-21": 63140,
-  "2023-05-22": 63140,
-  "2023-05-23": 63190,
-  "2023-05-24": 63238,
-  "2023-05-25": 63245,
-  "2023-05-26": 63286,
-  "2023-05-27": 63322,
-  "2023-05-28": 63366,
-  "2023-05-29": 63366,
-  "2023-05-30": 63428,
-  "2023-05-31": 63448,
-  "2023-06-01": 63483,
-  "2023-06-02": 63507,
-  "2023-06-03": 63549,
-  "2023-06-04": 63584,
-  "2023-06-05": 63622,
-  "2023-06-06": 63642,
-  "2023-06-07": 63673,
-  "2023-06-08": 63699,
-  "2023-06-09": 63735,
-  "2023-06-10": 63756,
-  "2023-06-11": 63794,
-  "2023-06-12": 63830,
-  "2023-06-13": 63849,
-  "2023-06-14": 63868,
-  "2023-06-15": 63901,
-  "2023-06-16": 63937,
-  "2023-06-17": 63975,
-  "2023-06-18": 64026,
-  "2023-06-19": 64068,
-  "2023-06-20": 64090,
-  "2023-06-21": 64115,
-  "2023-06-22": 64153,
-  "2023-06-23": 64189,
-  "2023-06-24": 64219,
-  "2023-06-25": 64264,
-  "2023-06-26": 64295,
-  "2023-06-27": 64322,
-  "2023-06-28": 64330,
-  "2023-06-29": 64350,
-  "2023-06-30": 64368,
-  "2023-07-01": 64449,
-  "2023-07-02": 64449,
-  "2023-07-03": 64467,
-  "2023-07-04": 64478,
-  "2023-07-05": 64506,
-  "2023-07-06": 64564,
-  "2023-07-07": 64564,
-  "2023-07-08": 64594,
-  "2023-07-09": 64620,
-  "2023-07-10": 64659,
-  "2023-07-11": 64669,
-  "2023-07-12": 64690,
-  "2023-07-13": 64719,
-  "2023-07-14": 64740,
-  "2023-07-15": 64763,
-  "2023-07-16": 64824,
-  "2023-07-17": 64875,
-  "2023-07-18": 64902,
-  "2023-07-19": 64933,
-  "2023-07-20": 64944,
-  "2023-07-21": 64975,
-  "2023-07-22": 64999,
-  "2023-07-23": 65033,
-  "2023-07-24": 65069,
-  "2023-07-25": 65075,
-  "2023-07-26": 65101,
-  "2023-07-27": 65123,
-  "2023-07-28": 65155,
-  "2023-07-29": 65188,
-  "2023-07-30": 65223,
-  "2023-07-31": 65265,
-  "2023-08-01": 65294,
-  "2023-08-02": 65321,
-  "2023-08-03": 65341,
-  "2023-08-04": 65381,
-  "2023-08-05": 65411,
-  "2023-08-06": 65472,
-  "2023-08-07": 65472,
-  "2023-08-08": 65488,
-  "2023-08-09": 65513,
-  "2023-08-10": 65546,
-  "2023-08-11": 65585,
-  "2023-08-12": 65585,
-  "2023-08-13": 65585,
-  "2023-08-14": 65684,
-  "2023-08-15": 65684,
-  "2023-08-16": 65684,
-  "2023-08-17": 65778,
-  "2023-08-18": 65778,
-  "2023-08-19": 65858,
-  "2023-08-20": 65899,
-  "2023-08-21": 65899,
-  "2023-08-22": 65959,
-  "2023-08-23": 65992,
-  "2023-08-24": 66029,
-  "2023-08-25": 66029,
-  "2023-08-26": 66098,
-  "2023-08-27": 66133,
-  "2023-08-28": 66161,
-  "2023-08-29": 66161,
-  "2023-08-30": 66161,
-  "2023-08-31": 66245,
-  "2023-09-01": 66327,
-  "2023-09-02": 66327,
-  "2023-09-03": 66371,
-  "2023-09-04": 66371,
-  "2023-09-05": 66371,
-  "2023-09-06": 66466,
-  "2023-09-07": 66466,
-  "2023-09-08": 66466,
-  "2023-09-09": 66466,
-  "2023-09-10": 66601,
-  "2023-09-11": 66636,
-  "2023-09-12": 66636,
-  "2023-09-13": 66690,
-  "2023-09-14": 66690,
-  "2023-09-15": 66690,
-  "2023-09-16": 66804,
-  "2023-09-17": 66804,
-  "2023-09-18": 66804,
-  "2023-09-19": 66954,
-  "2023-09-20": 66954,
-  "2023-09-21": 66954,
-  "2023-09-22": 67010,
-  "2023-09-23": 67010,
-  "2023-09-24": 67010,
-  "2023-09-25": 67010,
-  "2023-09-26": 67111,
-  "2023-09-27": 67111,
-  "2023-09-28": 67111,
-  "2023-09-29": 67111,
-  "2023-09-30": 67111,
-  "2023-10-01": 67111,
-  "2023-10-02": 67231,
-  "2023-10-03": 67231,
-  "2023-10-04": 67231,
-  "2023-10-05": 67306,
-  "2023-10-06": 67328,
-  "2023-10-07": 67328,
-  "2023-10-08": 67328,
-  "2023-10-09": 67328,
-  "2023-10-10": 67328,
-  "2023-10-11": 67410,
-  "2023-10-12": 67410,
-  "2023-10-13": 67410,
-  "2023-10-14": 67410,
-  "2023-10-15": 67410,
-  "2023-10-16": 67410,
-  "2023-10-17": 67410,
-  "2023-10-18": 67410,
-  "2023-10-19": 67410,
-  "2023-10-20": 67410,
-  "2023-10-21": 67410,
-  "2023-10-22": 67410,
-  "2023-10-23": 67410,
-  "2023-10-24": 67410,
-  "2023-10-25": 67410,
-  "2023-10-26": 67410,
-  "2023-10-27": 67410,
-  "2023-10-28": 67410,
-  "2023-10-29": 67410,
-  "2023-10-30": 67410,
-  "2023-10-31": 67410,
-  "2023-11-01": 67410,
-  "2023-11-02": 67410,
-  "2023-11-03": 67410,
-  "2023-11-04": 67410,
-  "2023-11-05": 67410,
-  "2023-11-06": 67410,
-  "2023-11-07": 67410,
-  "2023-11-08": 67410,
-  "2023-11-09": 67410,
-  "2023-11-10": 67410,
-  "2023-11-11": 68143,
-  "2023-11-12": 68143,
-  "2023-11-13": 68143,
-  "2023-11-14": 68143,
-  "2023-11-15": 68143,
-  "2023-11-16": 68143,
-  "2023-11-17": 68143,
-  "2023-11-18": 68143,
-  "2023-11-19": 68143,
-  "2023-11-20": 68143,
-  "2023-11-21": 68143,
-  "2023-11-22": 68143,
-  "2023-11-23": 68143,
-  "2023-11-24": 68143,
-  "2023-11-25": 68143,
-  "2023-11-26": 68143,
-  "2023-11-27": 68143,
-  "2023-11-28": 68143,
-  "2023-11-29": 68143,
-  "2023-11-30": 68143,
-  "2023-12-01": 68143,
-  "2023-12-02": 68143,
-  "2023-12-03": 68143,
-  "2023-12-04": 68143,
-  "2023-12-05": 68143,
-  "2023-12-06": 68143,
-  "2023-12-07": 68143,
-  "2023-12-08": 68143,
-  "2023-12-09": 68143,
-  "2023-12-10": 68143,
-  "2023-12-11": 68143,
-  "2023-12-12": 68143,
-  "2023-12-13": 68143,
-  "2023-12-14": 68915,
-  "2023-12-15": 68930,
-  "2023-12-16": 68954,
-  "2023-12-17": 68984,
-  "2023-12-18": 69002,
-  "2023-12-19": 69017,
-  "2023-12-20": 69031,
-  "2023-12-21": 69048,
-  "2023-12-22": 69066,
-  "2023-12-23": 69093,
-  "2023-12-24": 69123,
-  "2023-12-25": 69164,
-  "2023-12-26": 69209,
-  "2023-12-27": 69231,
-  "2023-12-30": 69274,
-  "2023-12-31": 69309,
-  "2024-01-01": 69365,
-  "2024-01-02": 69436,
-  "2024-01-03": 69455
+  "2024-01-17": 69569,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
+  "name": "This Is Mi Banda El Mexicano",
+  "tracks": [
+    {
+      "album": {
+        "name": "Adi\u00f3s y Buena Suerte - En Vivo",
+        "url": "https://open.spotify.com/album/0iHo2i1ZYSIAnFs5CdKOxz"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "Francisco El Gallo Elizalde",
+          "url": "https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224593,
+      "name": "Adi\u00f3s y Buena Suerte - En Vivo",
+      "url": "https://open.spotify.com/track/4xQxN1A80B3CGFXVGOosGt"
+    },
+    {
+      "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179768,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/0Z8Jg2ji4tKeaGWpBidTxv"
+    },
+    {
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242538,
+      "name": "Bailando De Caballito",
+      "url": "https://open.spotify.com/track/4wypWBS82iSSvRROk87oNQ"
+    },
+    {
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165935,
+      "name": "Botas De Bot\u00edn",
+      "url": "https://open.spotify.com/track/2ckaGhvbzGZ3xRfqvkeIsA"
+    },
+    {
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293021,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/5B3DTCOYLv4zgEnAsGpT7d"
+    },
+    {
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195059,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5pTGrOYhX31Ilyr0LMZidJ"
+    },
+    {
+      "album": {
+        "name": "Dale Fondo",
+        "url": "https://open.spotify.com/album/7asLWlNrHhBKQDvp6QxBOD"
+      },
+      "artists": [
+        {
+          "name": "Sergio Hernandez y Su Maverick Show",
+          "url": "https://open.spotify.com/artist/1likoE8lTd2g6Br7PtwtzO"
+        },
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191936,
+      "name": "Dale Fondo",
+      "url": "https://open.spotify.com/track/3PhCYyHoHjR5NHn6HeUnfw"
+    },
+    {
+      "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216409,
+      "name": "D\u00f3nde Estar\u00e1s",
+      "url": "https://open.spotify.com/track/3WRkzHhVlfcedC9EHtKBTF"
+    },
+    {
+      "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200632,
+      "name": "E, O, E.",
+      "url": "https://open.spotify.com/track/1Ac2ySphUSkoVXlBH7JYNd"
+    },
+    {
+      "album": {
+        "name": "El Borrachito - En Vivo",
+        "url": "https://open.spotify.com/album/0sIgGD1443PKB9P0gp1Nn2"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262269,
+      "name": "El Borrachito - En Vivo",
+      "url": "https://open.spotify.com/track/5DtAFHmOdpjwi98AqbtsJa"
+    },
+    {
+      "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204556,
+      "name": "El Ni\u00f1o Travieso",
+      "url": "https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV"
+    },
+    {
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224875,
+      "name": "El Tiki Ta",
+      "url": "https://open.spotify.com/track/2Ogr9pqWfrEKh7PGGvC56I"
+    },
+    {
+      "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220427,
+      "name": "El Zapato Mocho",
+      "url": "https://open.spotify.com/track/2hN6W23OPsfHdF22wfd3TK"
+    },
+    {
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 225930,
+      "name": "Es Lupe",
+      "url": "https://open.spotify.com/track/1JcR3u5aYIhDC2flFAHYeQ"
+    },
+    {
+      "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205310,
+      "name": "Esta Cobard\u00eda",
+      "url": "https://open.spotify.com/track/76yq6AVKspVBgAbGUDelHY"
+    },
+    {
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    {
+      "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197299,
+      "name": "Florecilla Del Campo",
+      "url": "https://open.spotify.com/track/6IfR3khaeLoBiZZKYuBTL0"
+    },
+    {
+      "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207725,
+      "name": "Fue Su Voz",
+      "url": "https://open.spotify.com/track/2gmplUqmPHJ1jPvznz5zyM"
+    },
+    {
+      "album": {
+        "name": "A Bailar de Caballito",
+        "url": "https://open.spotify.com/album/0hqSpBCMjZ57t2uhcxdbpm"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178617,
+      "name": "Gozala Gozala",
+      "url": "https://open.spotify.com/track/30Jv68pHNfzEuASRGwYQ6X"
+    },
+    {
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208352,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+    },
+    {
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212230,
+      "name": "La Chela",
+      "url": "https://open.spotify.com/track/14orHg5z8RbwkqiDUtQQkZ"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220723,
+      "name": "La Chinita",
+      "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
+    },
+    {
+      "album": {
+        "name": "La Chona",
+        "url": "https://open.spotify.com/album/35HbDxOHRQuOCikY0TlXkX"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Mazatlecos",
+          "url": "https://open.spotify.com/artist/5iVAKb2ERQopiFURsf6g1b"
+        },
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 183832,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/1tdFl5ACRmcEFIRWAgTTQc"
+    },
+    {
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220641,
+      "name": "La Cuca",
+      "url": "https://open.spotify.com/track/6f5rIK5usr8AueDudM81y7"
+    },
+    {
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171230,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/1ch4u7n3GCyUYuLfRi8NAd"
+    },
+    {
+      "album": {
+        "name": "A Bailar de Caballito",
+        "url": "https://open.spotify.com/album/0hqSpBCMjZ57t2uhcxdbpm"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 173819,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/314bx0T8avvO9TqBTXYd4o"
+    },
+    {
+      "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248987,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/114fP40CgaxcCgWN5vVekB"
+    },
+    {
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201607,
+      "name": "La Negrita",
+      "url": "https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP"
+    },
+    {
+      "album": {
+        "name": "La Ni\u00f1a Quiere Cerveza - En Vivo",
+        "url": "https://open.spotify.com/album/0Ew74PwPRd1mIefKhLdibE"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212875,
+      "name": "La Ni\u00f1a Quiere Cerveza - En Vivo",
+      "url": "https://open.spotify.com/track/5IEsq0MLLm7NE61IryGDxj"
+    },
+    {
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160426,
+      "name": "Las Nachas",
+      "url": "https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh"
+    },
+    {
+      "album": {
+        "name": "El Hijo Desobediente",
+        "url": "https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 150987,
+      "name": "Libro Abierto",
+      "url": "https://open.spotify.com/track/2NtCzG7rsTeDjeFUVqcF4D"
+    },
+    {
+      "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188940,
+      "name": "Lupe",
+      "url": "https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j"
+    },
+    {
+      "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249840,
+      "name": "Ma, Me, Mi, Mo, Mu",
+      "url": "https://open.spotify.com/track/2gprKrCyLXFEYV80FvvgYg"
+    },
+    {
+      "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 239934,
+      "name": "Mambo Acelerado (Merengue Acelera'o)",
+      "url": "https://open.spotify.com/track/3szGgpDpvcxXYYP70GA9OP"
+    },
+    {
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214987,
+      "name": "Mambo Lupita",
+      "url": "https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE"
+    },
+    {
+      "album": {
+        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
+        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220589,
+      "name": "Mambo No. 5",
+      "url": "https://open.spotify.com/track/7BzDaOzYt5C0rLxRmMIUwz"
+    },
+    {
+      "album": {
+        "name": "Mary La Orgullosa",
+        "url": "https://open.spotify.com/album/5cZK3nGer1bMhIYBg6t66t"
+      },
+      "artists": [
+        {
+          "name": "Bruno De Jesus",
+          "url": "https://open.spotify.com/artist/2bevLvZC0Ojh6iqoPFWkl5"
+        },
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 210190,
+      "name": "Mary La Orgullosa",
+      "url": "https://open.spotify.com/track/3o8rROZqS9uyZqr7MR0jgz"
+    },
+    {
+      "album": {
+        "name": "Mary La Orgullosa - En Vivo",
+        "url": "https://open.spotify.com/album/5Z9khALrS2NBnErJ2C0bBY"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193815,
+      "name": "Mary La Orgullosa - En Vivo",
+      "url": "https://open.spotify.com/track/0pi1DshK1mQpeYTU4v3zzR"
+    },
+    {
+      "album": {
+        "name": "Me Canso Ganso",
+        "url": "https://open.spotify.com/album/00SE74SXNQKz0ldYyM39i3"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195326,
+      "name": "Me Canso Ganso",
+      "url": "https://open.spotify.com/track/0Tj9bh3K60iyNtsiNQIedb"
+    },
+    {
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241870,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
+    },
+    {
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207737,
+      "name": "Orgullosa Mar\u00eda",
+      "url": "https://open.spotify.com/track/1nZKtN7ZTkU3b49EtKW2Qj"
+    },
+    {
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182369,
+      "name": "Pa' Que Lo Bailes",
+      "url": "https://open.spotify.com/track/3mOJJ4cpkQNr9oAhARg9T6"
+    },
+    {
+      "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223410,
+      "name": "Paloma Blanca",
+      "url": "https://open.spotify.com/track/6Kmb4Ev2Zf2xBKvNW9KzWk"
+    },
+    {
+      "album": {
+        "name": "16 Enormes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171549,
+      "name": "Pelotero A La Bola",
+      "url": "https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm"
+    },
+    {
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167967,
+      "name": "Pel\u00f3n Pelonete",
+      "url": "https://open.spotify.com/track/1WAvL4sqqRDHRMbp96hFaG"
+    },
+    {
+      "album": {
+        "name": "Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres",
+        "url": "https://open.spotify.com/album/3HSSM7tr8DWdMJpNfj1Ajl"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        },
+        {
+          "name": "Roberto Junior Y Su Bande\u00f1o",
+          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 645067,
+      "name": "Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres",
+      "url": "https://open.spotify.com/track/3a7BpZWSfk1QuOG7qaxXoN"
+    },
+    {
+      "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200225,
+      "name": "Que G\u00fcera",
+      "url": "https://open.spotify.com/track/6UlhTa0PQQmZKy4KndGg2A"
+    },
+    {
+      "album": {
+        "name": "Que Le Pasa A Lupita",
+        "url": "https://open.spotify.com/album/13FVLL6Z5CFmuY5veXxl0O"
+      },
+      "artists": [
+        {
+          "name": "Bruno De Jesus",
+          "url": "https://open.spotify.com/artist/2bevLvZC0Ojh6iqoPFWkl5"
+        },
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 212741,
+      "name": "Que Le Pasa A Lupita",
+      "url": "https://open.spotify.com/track/0xfwBfJ0N4nxOMJONjFnAt"
+    },
+    {
+      "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225354,
+      "name": "Que Ricos Cocos",
+      "url": "https://open.spotify.com/track/6C2qUXLnmMgLc6wcVV3gVM"
+    },
+    {
+      "album": {
+        "name": "Mi Banda el Mexicano",
+        "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211057,
+      "name": "Qui\u00e9n Piensa En Ti",
+      "url": "https://open.spotify.com/track/4HwQuM4s5ZtsFcTo9MumnW"
+    },
+    {
+      "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Rabia Y Dolor",
+      "url": "https://open.spotify.com/track/1K2Ohi9UBIbuMjBUcwNiu2"
+    },
+    {
+      "album": {
+        "name": "Chacaloza Forever",
+        "url": "https://open.spotify.com/album/3IuGQUoSuQIGbbrBaD3bpI"
+      },
+      "artists": [
+        {
+          "name": "Banda La Chacaloza De Jerez Zacatecas",
+          "url": "https://open.spotify.com/artist/6mAjeRwULfOM15lFmbpVqU"
+        },
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5sau3wdX63rYl0nrDNY6Qb"
+    },
+    {
+      "album": {
+        "name": "Ramito De Violetas",
+        "url": "https://open.spotify.com/album/7yCjXbnM51jzI4otLWZSvg"
+      },
+      "artists": [
+        {
+          "name": "Banda La Chacaloza De Jerez Zacatecas",
+          "url": "https://open.spotify.com/artist/6mAjeRwULfOM15lFmbpVqU"
+        },
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 215893,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/2Dhjm7qvC3kwSOCFKoJA2x"
+    },
+    {
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "album": {
+        "name": "Ramito de Violetas 2.0",
+        "url": "https://open.spotify.com/album/67ANX7NhtANRGsg4iS4cNh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "JOS BRAHAM",
+          "url": "https://open.spotify.com/artist/1vRhcBEENG0mzx8UzTIH9x"
+        },
+        {
+          "name": "Banda La Fugitiva De Mike Miramontes",
+          "url": "https://open.spotify.com/artist/20lftkHSXXaaNVpe3Y2W2J"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261433,
+      "name": "Ramito de Violetas 2.0",
+      "url": "https://open.spotify.com/track/7rfgRQJHAaKvMtJJveP8Yv"
+    },
+    {
+      "album": {
+        "name": "Su Majestad con Ustedes",
+        "url": "https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175688,
+      "name": "Sin Suerte",
+      "url": "https://open.spotify.com/track/4JsvoDByUDdD3jcEcfgYOn"
+    },
+    {
+      "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 277559,
+      "name": "Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5wvzzRY88HCuzbNfYJX4Dn"
+    },
+    {
+      "album": {
+        "name": "El Hijo Desobediente",
+        "url": "https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174410,
+      "name": "Tu Y Las Nubes",
+      "url": "https://open.spotify.com/track/4PG9xHq6APPuMPcqREe9ql"
+    },
+    {
+      "album": {
+        "name": "Ven A Bailar",
+        "url": "https://open.spotify.com/album/4KHIwbQeJNifJj64VaVNso"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Ven A Bailar",
+      "url": "https://open.spotify.com/track/1asf9bx1OzvE8NaTXijT6V"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0pMfpd"
 }

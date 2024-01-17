@@ -1,246 +1,639 @@
 {
-  "2023-05-03": 2183,
-  "2023-05-04": 2184,
-  "2023-05-05": 2185,
-  "2023-05-06": 2186,
-  "2023-05-07": 2187,
-  "2023-05-08": 2189,
-  "2023-05-09": 2192,
-  "2023-05-10": 2193,
-  "2023-05-11": 2194,
-  "2023-05-12": 2195,
-  "2023-05-13": 2198,
-  "2023-05-14": 2200,
-  "2023-05-15": 2200,
-  "2023-05-16": 2203,
-  "2023-05-17": 2206,
-  "2023-05-18": 2206,
-  "2023-05-19": 2207,
-  "2023-05-20": 2208,
-  "2023-05-21": 2208,
-  "2023-05-22": 2208,
-  "2023-05-23": 2210,
-  "2023-05-24": 2211,
-  "2023-05-25": 2211,
-  "2023-05-26": 2212,
-  "2023-05-27": 2213,
-  "2023-05-28": 2216,
-  "2023-05-29": 2216,
-  "2023-05-30": 2215,
-  "2023-05-31": 2221,
-  "2023-06-01": 2220,
-  "2023-06-02": 2220,
-  "2023-06-03": 2220,
-  "2023-06-04": 2221,
-  "2023-06-05": 2222,
-  "2023-06-06": 2221,
-  "2023-06-07": 2223,
-  "2023-06-08": 2225,
-  "2023-06-09": 2227,
-  "2023-06-10": 2228,
-  "2023-06-11": 2230,
-  "2023-06-12": 2231,
-  "2023-06-13": 2232,
-  "2023-06-14": 2233,
-  "2023-06-15": 2234,
-  "2023-06-16": 2235,
-  "2023-06-17": 2235,
-  "2023-06-18": 2236,
-  "2023-06-19": 2237,
-  "2023-06-20": 2240,
-  "2023-06-21": 2241,
-  "2023-06-22": 2243,
-  "2023-06-23": 2245,
-  "2023-06-24": 2247,
-  "2023-06-25": 2246,
-  "2023-06-26": 2247,
-  "2023-06-27": 2246,
-  "2023-06-28": 2247,
-  "2023-06-29": 2247,
-  "2023-06-30": 2247,
-  "2023-07-01": 2249,
-  "2023-07-02": 2249,
-  "2023-07-03": 2250,
-  "2023-07-04": 2250,
-  "2023-07-05": 2252,
-  "2023-07-06": 2254,
-  "2023-07-07": 2254,
-  "2023-07-08": 2254,
-  "2023-07-09": 2254,
-  "2023-07-10": 2255,
-  "2023-07-11": 2256,
-  "2023-07-12": 2258,
-  "2023-07-13": 2260,
-  "2023-07-14": 2263,
-  "2023-07-15": 2263,
-  "2023-07-16": 2265,
-  "2023-07-17": 2266,
-  "2023-07-18": 2267,
-  "2023-07-19": 2267,
-  "2023-07-20": 2268,
-  "2023-07-21": 2266,
-  "2023-07-22": 2266,
-  "2023-07-23": 2267,
-  "2023-07-24": 2266,
-  "2023-07-25": 2268,
-  "2023-07-26": 2269,
-  "2023-07-27": 2270,
-  "2023-07-28": 2273,
-  "2023-07-29": 2271,
-  "2023-07-30": 2272,
-  "2023-07-31": 2275,
-  "2023-08-01": 2274,
-  "2023-08-02": 2276,
-  "2023-08-03": 2279,
-  "2023-08-04": 2281,
-  "2023-08-05": 2281,
-  "2023-08-06": 2285,
-  "2023-08-07": 2285,
-  "2023-08-08": 2286,
-  "2023-08-09": 2286,
-  "2023-08-10": 2284,
-  "2023-08-11": 2287,
-  "2023-08-12": 2287,
-  "2023-08-13": 2287,
-  "2023-08-14": 2291,
-  "2023-08-15": 2291,
-  "2023-08-16": 2291,
-  "2023-08-17": 2291,
-  "2023-08-18": 2291,
-  "2023-08-19": 2291,
-  "2023-08-20": 2295,
-  "2023-08-21": 2295,
-  "2023-08-22": 2297,
-  "2023-08-23": 2297,
-  "2023-08-24": 2297,
-  "2023-08-25": 2297,
-  "2023-08-26": 2301,
-  "2023-08-27": 2301,
-  "2023-08-28": 2304,
-  "2023-08-29": 2304,
-  "2023-08-30": 2304,
-  "2023-08-31": 2309,
-  "2023-09-01": 2312,
-  "2023-09-02": 2312,
-  "2023-09-03": 2312,
-  "2023-09-04": 2312,
-  "2023-09-05": 2312,
-  "2023-09-06": 2312,
-  "2023-09-07": 2312,
-  "2023-09-08": 2312,
-  "2023-09-09": 2312,
-  "2023-09-10": 2312,
-  "2023-09-11": 2312,
-  "2023-09-12": 2312,
-  "2023-09-13": 2312,
-  "2023-09-14": 2312,
-  "2023-09-15": 2312,
-  "2023-09-16": 2323,
-  "2023-09-17": 2323,
-  "2023-09-18": 2323,
-  "2023-09-19": 2326,
-  "2023-09-20": 2326,
-  "2023-09-21": 2326,
-  "2023-09-22": 2330,
-  "2023-09-23": 2330,
-  "2023-09-24": 2330,
-  "2023-09-25": 2330,
-  "2023-09-26": 2331,
-  "2023-09-27": 2331,
-  "2023-09-28": 2331,
-  "2023-09-29": 2331,
-  "2023-09-30": 2331,
-  "2023-10-01": 2331,
-  "2023-10-02": 2331,
-  "2023-10-03": 2331,
-  "2023-10-04": 2331,
-  "2023-10-05": 2331,
-  "2023-10-06": 2331,
-  "2023-10-07": 2331,
-  "2023-10-08": 2331,
-  "2023-10-09": 2331,
-  "2023-10-10": 2331,
-  "2023-10-11": 2343,
-  "2023-10-12": 2343,
-  "2023-10-13": 2343,
-  "2023-10-14": 2343,
-  "2023-10-15": 2343,
-  "2023-10-16": 2343,
-  "2023-10-17": 2343,
-  "2023-10-18": 2343,
-  "2023-10-19": 2343,
-  "2023-10-20": 2343,
-  "2023-10-21": 2343,
-  "2023-10-22": 2343,
-  "2023-10-23": 2343,
-  "2023-10-24": 2343,
-  "2023-10-25": 2343,
-  "2023-10-26": 2343,
-  "2023-10-27": 2343,
-  "2023-10-28": 2343,
-  "2023-10-29": 2343,
-  "2023-10-30": 2343,
-  "2023-10-31": 2343,
-  "2023-11-01": 2343,
-  "2023-11-02": 2343,
-  "2023-11-03": 2343,
-  "2023-11-04": 2343,
-  "2023-11-05": 2343,
-  "2023-11-06": 2343,
-  "2023-11-07": 2343,
-  "2023-11-08": 2343,
-  "2023-11-09": 2343,
-  "2023-11-10": 2343,
-  "2023-11-11": 2361,
-  "2023-11-12": 2361,
-  "2023-11-13": 2361,
-  "2023-11-14": 2361,
-  "2023-11-15": 2361,
-  "2023-11-16": 2361,
-  "2023-11-17": 2361,
-  "2023-11-18": 2361,
-  "2023-11-19": 2361,
-  "2023-11-20": 2361,
-  "2023-11-21": 2361,
-  "2023-11-22": 2361,
-  "2023-11-23": 2361,
-  "2023-11-24": 2361,
-  "2023-11-25": 2361,
-  "2023-11-26": 2361,
-  "2023-11-27": 2361,
-  "2023-11-28": 2361,
-  "2023-11-29": 2361,
-  "2023-11-30": 2361,
-  "2023-12-01": 2361,
-  "2023-12-02": 2361,
-  "2023-12-03": 2361,
-  "2023-12-04": 2361,
-  "2023-12-05": 2361,
-  "2023-12-06": 2361,
-  "2023-12-07": 2361,
-  "2023-12-08": 2361,
-  "2023-12-09": 2361,
-  "2023-12-10": 2361,
-  "2023-12-11": 2361,
-  "2023-12-12": 2361,
-  "2023-12-13": 2361,
-  "2023-12-14": 2387,
-  "2023-12-15": 2387,
-  "2023-12-16": 2386,
-  "2023-12-17": 2386,
-  "2023-12-18": 2386,
-  "2023-12-19": 2388,
-  "2023-12-20": 2390,
-  "2023-12-21": 2391,
-  "2023-12-22": 2393,
-  "2023-12-23": 2393,
-  "2023-12-24": 2393,
-  "2023-12-25": 2392,
-  "2023-12-26": 2392,
-  "2023-12-27": 2393,
-  "2023-12-30": 2396,
-  "2023-12-31": 2395,
-  "2024-01-01": 2394,
-  "2024-01-02": 2394,
-  "2024-01-03": 2396
+  "2024-01-17": 2420,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
+  "name": "This Is Auli'i Cravalho",
+  "tracks": [
+    {
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68692,
+      "name": "A Cautionary Tale",
+      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
+    },
+    {
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187960,
+      "name": "Apex Predator",
+      "url": "https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf"
+    },
+    {
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167590,
+      "name": "Born for This",
+      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
+    },
+    {
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/0eGPbc8BTRwmiKrYK9Mvlh"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Keegan DeWitt",
+          "url": "https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212693,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/3o68rA5ozeALCXNt7LbSlS"
+    },
+    {
+      "album": {
+        "name": "Glorious (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147952,
+      "name": "Glorious - Rise Cast Version",
+      "url": "https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163386,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162826,
+      "name": "I Am Moana (Song of the Ancestors)",
+      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
+    },
+    {
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176515,
+      "name": "I'd Rather Be Me",
+      "url": "https://open.spotify.com/track/4vndz7TD2SHRwEKbz158DR"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176477,
+      "name": "If Only - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/1WM0k6YUk7GwnxXjnDMNnC"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Vai Mahina",
+          "url": "https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9"
+        },
+        {
+          "name": "Olivia Foa'i",
+          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
+        },
+        {
+          "name": "Opetaia Foa'i",
+          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
+        },
+        {
+          "name": "Matthew Ineleo",
+          "url": "https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72626,
+      "name": "Know Who You Are",
+      "url": "https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj"
+    },
+    {
+      "album": {
+        "name": "Live Your Story",
+        "url": "https://open.spotify.com/album/4EZsKG8lQLmphvWsXFaYNx"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206007,
+      "name": "Live Your Story",
+      "url": "https://open.spotify.com/track/6dXkX4y7QWoTkhjAnjRw7h"
+    },
+    {
+      "album": {
+        "name": "Mama Who Bore Me (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/5htkwqMEyeNMvHdAKGcwm5"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120960,
+      "name": "Mama Who Bore Me - Rise Cast Version",
+      "url": "https://open.spotify.com/track/4AxvU1vUh19aQk9aA7QGCQ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132298,
+      "name": "Part of Your World (Reprise) - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 190830,
+      "name": "Part of Your World - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/05ET8TiuscvijP4b4b1Jg9"
+    },
+    {
+      "album": {
+        "name": "Rise Season 1: The Album (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278040,
+      "name": "Perfect - Rise Cast Version",
+      "url": "https://open.spotify.com/track/7Jt9Y3buDflRaSSuy20Byh"
+    },
+    {
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        },
+        {
+          "name": "Angourie Rice",
+          "url": "https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO"
+        },
+        {
+          "name": "Tim Meadows",
+          "url": "https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285221,
+      "name": "Revenge Party",
+      "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
+    },
+    {
+      "album": {
+        "name": "Scars To Your Beautiful (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258933,
+      "name": "Scars To Your Beautiful - Rise Cast Version",
+      "url": "https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE"
+    },
+    {
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
+    },
+    {
+      "album": {
+        "name": "The Future's in My Hands (Theme from \"Hailey's On It!\")",
+        "url": "https://open.spotify.com/album/1zQH2ZPY82Mul0Ki3tYRKj"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh"
+    },
+    {
+      "album": {
+        "name": "The Guilty Ones (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211956,
+      "name": "The Guilty Ones - Rise Cast Version",
+      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
+    },
+    {
+      "album": {
+        "name": "The Word Of Your Body (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "The Word Of Your Body - Rise Cast Version",
+      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
+    },
+    {
+      "album": {
+        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2"
+      },
+      "artists": [
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Burt Bacharach",
+          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+        },
+        {
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/4fUxmFLeAstWRQfcOi2uRL"
+    },
+    {
+      "album": {
+        "name": "Rise Season 1: The Album (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        },
+        {
+          "name": "Ellie Desautels",
+          "url": "https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111160,
+      "name": "Those You've Known - Rise Cast Version",
+      "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181089,
+      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Louise Bush",
+          "url": "https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
+    },
+    {
+      "album": {
+        "name": "Whispering (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Whispering - Rise Cast Version",
+      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+    },
+    {
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Manny Jacinto",
+          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88284,
+      "name": "You Fit Me Perfectly",
+      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO39wmQD"
 }

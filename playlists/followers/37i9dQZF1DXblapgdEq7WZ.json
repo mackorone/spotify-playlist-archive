@@ -1,275 +1,813 @@
 {
-  "2023-04-03": 616094,
-  "2023-04-04": 616954,
-  "2023-04-05": 617784,
-  "2023-04-06": 618574,
-  "2023-04-07": 619299,
-  "2023-04-09": 620427,
-  "2023-04-10": 621024,
-  "2023-04-11": 622420,
-  "2023-04-12": 622420,
-  "2023-04-13": 623136,
-  "2023-04-14": 623831,
-  "2023-04-15": 624507,
-  "2023-04-16": 625080,
-  "2023-04-17": 625615,
-  "2023-04-18": 626281,
-  "2023-04-19": 626963,
-  "2023-04-20": 627673,
-  "2023-04-21": 628378,
-  "2023-04-22": 629068,
-  "2023-04-23": 629649,
-  "2023-04-24": 630440,
-  "2023-04-25": 631371,
-  "2023-04-26": 632380,
-  "2023-04-27": 633453,
-  "2023-04-28": 634500,
-  "2023-04-29": 635420,
-  "2023-04-30": 636205,
-  "2023-05-01": 636874,
-  "2023-05-02": 637585,
-  "2023-05-03": 638372,
-  "2023-05-04": 639225,
-  "2023-05-05": 640112,
-  "2023-05-06": 640983,
-  "2023-05-07": 641634,
-  "2023-05-08": 642289,
-  "2023-05-09": 643026,
-  "2023-05-10": 643774,
-  "2023-05-11": 644551,
-  "2023-05-12": 645415,
-  "2023-05-13": 646162,
-  "2023-05-14": 646851,
-  "2023-05-15": 647394,
-  "2023-05-16": 648106,
-  "2023-05-17": 648916,
-  "2023-05-18": 649679,
-  "2023-05-19": 650403,
-  "2023-05-20": 651769,
-  "2023-05-21": 651769,
-  "2023-05-22": 651769,
-  "2023-05-23": 652926,
-  "2023-05-24": 654062,
-  "2023-05-25": 654287,
-  "2023-05-26": 654944,
-  "2023-05-27": 655599,
-  "2023-05-28": 656217,
-  "2023-05-29": 656217,
-  "2023-05-30": 657289,
-  "2023-05-31": 657991,
-  "2023-06-01": 658694,
-  "2023-06-02": 659448,
-  "2023-06-03": 660228,
-  "2023-06-04": 660832,
-  "2023-06-05": 661368,
-  "2023-06-06": 661972,
-  "2023-06-07": 662670,
-  "2023-06-08": 663359,
-  "2023-06-09": 664094,
-  "2023-06-10": 664786,
-  "2023-06-11": 665444,
-  "2023-06-12": 666018,
-  "2023-06-13": 666703,
-  "2023-06-14": 667060,
-  "2023-06-15": 667486,
-  "2023-06-16": 151320,
-  "2023-06-17": 151320,
-  "2023-06-18": 151320,
-  "2023-06-19": 151320,
-  "2023-06-20": 151320,
-  "2023-06-21": 151320,
-  "2023-06-22": 151320,
-  "2023-06-23": 151320,
-  "2023-06-24": 151320,
-  "2023-06-25": 151320,
-  "2023-06-26": 151320,
-  "2023-06-27": 151320,
-  "2023-06-28": 151320,
-  "2023-06-29": 151320,
-  "2023-06-30": 151320,
-  "2023-07-01": 151320,
-  "2023-07-02": 151320,
-  "2023-07-03": 151320,
-  "2023-07-04": 151320,
-  "2023-07-05": 151320,
-  "2023-07-06": 151320,
-  "2023-07-07": 151320,
-  "2023-07-08": 151320,
-  "2023-07-09": 151320,
-  "2023-07-10": 151320,
-  "2023-07-11": 151320,
-  "2023-07-12": 151320,
-  "2023-07-13": 151320,
-  "2023-07-14": 151320,
-  "2023-07-15": 151320,
-  "2023-07-16": 151320,
-  "2023-07-17": 151320,
-  "2023-07-18": 151320,
-  "2023-07-19": 151320,
-  "2023-07-20": 151320,
-  "2023-07-21": 151320,
-  "2023-07-22": 151320,
-  "2023-07-23": 151320,
-  "2023-07-24": 151320,
-  "2023-07-25": 151320,
-  "2023-07-26": 151320,
-  "2023-07-27": 151320,
-  "2023-07-28": 151320,
-  "2023-07-29": 151320,
-  "2023-07-30": 151320,
-  "2023-07-31": 151320,
-  "2023-08-01": 151320,
-  "2023-08-02": 151320,
-  "2023-08-03": 151320,
-  "2023-08-04": 151320,
-  "2023-08-05": 151320,
-  "2023-08-06": 151320,
-  "2023-08-07": 151320,
-  "2023-08-08": 151320,
-  "2023-08-09": 151320,
-  "2023-08-10": 151320,
-  "2023-08-11": 151320,
-  "2023-08-12": 151320,
-  "2023-08-13": 151320,
-  "2023-08-14": 151320,
-  "2023-08-15": 151320,
-  "2023-08-16": 151320,
-  "2023-08-17": 151320,
-  "2023-08-18": 151320,
-  "2023-08-19": 151320,
-  "2023-08-20": 151320,
-  "2023-08-21": 151320,
-  "2023-08-22": 151320,
-  "2023-08-23": 151320,
-  "2023-08-24": 151320,
-  "2023-08-25": 151320,
-  "2023-08-26": 151320,
-  "2023-08-27": 151320,
-  "2023-08-28": 151320,
-  "2023-08-29": 151320,
-  "2023-08-30": 151320,
-  "2023-08-31": 151320,
-  "2023-09-01": 151320,
-  "2023-09-02": 151320,
-  "2023-09-03": 151320,
-  "2023-09-04": 151320,
-  "2023-09-05": 151320,
-  "2023-09-06": 151320,
-  "2023-09-07": 151320,
-  "2023-09-08": 151320,
-  "2023-09-09": 151320,
-  "2023-09-10": 151320,
-  "2023-09-11": 151320,
-  "2023-09-12": 151320,
-  "2023-09-13": 151320,
-  "2023-09-14": 151320,
-  "2023-09-15": 151320,
-  "2023-09-16": 151320,
-  "2023-09-17": 151320,
-  "2023-09-18": 151320,
-  "2023-09-19": 151320,
-  "2023-09-20": 151320,
-  "2023-09-21": 151320,
-  "2023-09-22": 151320,
-  "2023-09-23": 151320,
-  "2023-09-24": 151320,
-  "2023-09-25": 151320,
-  "2023-09-26": 151320,
-  "2023-09-27": 151320,
-  "2023-09-28": 151320,
-  "2023-09-29": 151320,
-  "2023-09-30": 151320,
-  "2023-10-01": 151320,
-  "2023-10-02": 151320,
-  "2023-10-03": 151320,
-  "2023-10-04": 151320,
-  "2023-10-05": 151320,
-  "2023-10-06": 151320,
-  "2023-10-07": 151320,
-  "2023-10-08": 151320,
-  "2023-10-09": 151320,
-  "2023-10-10": 151320,
-  "2023-10-11": 151320,
-  "2023-10-12": 151320,
-  "2023-10-13": 151320,
-  "2023-10-14": 151320,
-  "2023-10-15": 151320,
-  "2023-10-16": 151320,
-  "2023-10-17": 151320,
-  "2023-10-18": 151320,
-  "2023-10-19": 151320,
-  "2023-10-20": 151320,
-  "2023-10-21": 151320,
-  "2023-10-22": 151320,
-  "2023-10-23": 151320,
-  "2023-10-24": 151320,
-  "2023-10-25": 151320,
-  "2023-10-26": 151320,
-  "2023-10-27": 151320,
-  "2023-10-28": 151320,
-  "2023-10-29": 151320,
-  "2023-10-30": 151320,
-  "2023-10-31": 151320,
-  "2023-11-01": 151320,
-  "2023-11-02": 151320,
-  "2023-11-03": 151320,
-  "2023-11-04": 151320,
-  "2023-11-05": 151320,
-  "2023-11-06": 151320,
-  "2023-11-07": 151320,
-  "2023-11-08": 151320,
-  "2023-11-09": 151320,
-  "2023-11-10": 151320,
-  "2023-11-11": 151320,
-  "2023-11-12": 151320,
-  "2023-11-13": 151320,
-  "2023-11-14": 151320,
-  "2023-11-15": 151320,
-  "2023-11-16": 151320,
-  "2023-11-17": 151320,
-  "2023-11-18": 151320,
-  "2023-11-19": 151320,
-  "2023-11-20": 151320,
-  "2023-11-21": 151320,
-  "2023-11-22": 151320,
-  "2023-11-23": 151320,
-  "2023-11-24": 151320,
-  "2023-11-25": 151320,
-  "2023-11-26": 151320,
-  "2023-11-27": 151320,
-  "2023-11-28": 151320,
-  "2023-11-29": 151320,
-  "2023-11-30": 151320,
-  "2023-12-01": 151320,
-  "2023-12-02": 151320,
-  "2023-12-03": 151320,
-  "2023-12-04": 151320,
-  "2023-12-05": 151320,
-  "2023-12-06": 151320,
-  "2023-12-07": 151320,
-  "2023-12-08": 151320,
-  "2023-12-09": 151320,
-  "2023-12-10": 151320,
-  "2023-12-11": 151320,
-  "2023-12-12": 151320,
-  "2023-12-13": 151320,
-  "2023-12-14": 151320,
-  "2023-12-15": 151320,
-  "2023-12-16": 151320,
-  "2023-12-17": 151320,
-  "2023-12-18": 151320,
-  "2023-12-19": 151320,
-  "2023-12-20": 151320,
-  "2023-12-21": 151320,
-  "2023-12-22": 151320,
-  "2023-12-23": 151320,
-  "2023-12-24": 151320,
-  "2023-12-25": 151320,
-  "2023-12-26": 151320,
-  "2023-12-27": 151320,
-  "2023-12-30": 151320,
-  "2023-12-31": 151320,
-  "2024-01-01": 151320,
-  "2024-01-02": 151320,
-  "2024-01-03": 151320
+  "2024-01-17": 151320,
+  "date_first_scraped": "2023-04-03",
+  "description": "Todo lo esencial.",
+  "name": "This Is Canserbero",
+  "tracks": [
+    {
+      "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216973,
+      "name": "A D\u00f3nde se Fue la Conciencia",
+      "url": "https://open.spotify.com/track/4A6PTcjJV25kngEkLFPVDp"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234292,
+      "name": "Aceptas",
+      "url": "https://open.spotify.com/track/5C0UjpLuu3eGJ0ECK0dTV3"
+    },
+    {
+      "album": {
+        "name": "Give Me 5",
+        "url": "https://open.spotify.com/album/3hZTnhf8nDaFuCesjGvyQ3"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "NicoJP",
+          "url": "https://open.spotify.com/artist/1OmO0lAKuNHuN7AIFbuJUP"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129197,
+      "name": "Adivina",
+      "url": "https://open.spotify.com/track/49d5fSUhEAqXOj4B6ZGvA9"
+    },
+    {
+      "album": {
+        "name": "Gu\u00eda Para la Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0D89PelnUR4nfJttKuvdIx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517146,
+      "name": "Advertencia",
+      "url": "https://open.spotify.com/track/49gJfcGEUmTt3tJOYxAW3W"
+    },
+    {
+      "album": {
+        "name": "Apa y Can",
+        "url": "https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303568,
+      "name": "Apa y Can",
+      "url": "https://open.spotify.com/track/1sYkjr3qck6jGImeQnMGNc"
+    },
+    {
+      "album": {
+        "name": "Gu\u00eda Para la Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0D89PelnUR4nfJttKuvdIx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262844,
+      "name": "As\u00ed Mismo",
+      "url": "https://open.spotify.com/track/3Z04bvI9rEqh3fzF9c4gGJ"
+    },
+    {
+      "album": {
+        "name": "Give Me 5",
+        "url": "https://open.spotify.com/album/3hZTnhf8nDaFuCesjGvyQ3"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "NicoJP",
+          "url": "https://open.spotify.com/artist/1OmO0lAKuNHuN7AIFbuJUP"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236225,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/5EBjirsg69LLpHqvkwm8nO"
+    },
+    {
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459363,
+      "name": "C'est La Mort",
+      "url": "https://open.spotify.com/track/2AplbqTzq1mK8wyAxsBvQ6"
+    },
+    {
+      "album": {
+        "name": "Gu\u00eda Para la Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0D89PelnUR4nfJttKuvdIx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236303,
+      "name": "CANbiate",
+      "url": "https://open.spotify.com/track/04eL7Mun5wCThY3P37onK4"
+    },
+    {
+      "album": {
+        "name": "Gu\u00eda Para la Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0D89PelnUR4nfJttKuvdIx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273319,
+      "name": "CANci\u00f3n de la Prisi\u00f3n",
+      "url": "https://open.spotify.com/track/1cB7ICDw725ZYDC7mkXxF2"
+    },
+    {
+      "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259578,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
+    },
+    {
+      "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252055,
+      "name": "Darealhipapitis",
+      "url": "https://open.spotify.com/track/7zwlmvgL3SbcRgxzfmU5z4"
+    },
+    {
+      "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/24RuYOdotpYBzP6U2sZoH0"
+    },
+    {
+      "album": {
+        "name": "El mundito del rap",
+        "url": "https://open.spotify.com/album/0o7IwuoXlczmdXX2xJttFK"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Solo Soul",
+          "url": "https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI"
+        },
+        {
+          "name": "Mcklopedia RMS",
+          "url": "https://open.spotify.com/artist/3APYz6vRhbTk0GRoc7j2xZ"
+        },
+        {
+          "name": "IceOD",
+          "url": "https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422133,
+      "name": "El mundito del rap",
+      "url": "https://open.spotify.com/track/3Fq7BcDUT8R3DDoFjLyZ1s"
+    },
+    {
+      "album": {
+        "name": "Gu\u00eda Para la Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0D89PelnUR4nfJttKuvdIx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217730,
+      "name": "El Mundo ya Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/7DMePP45IaGHRVFYDmmhqU"
+    },
+    {
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361978,
+      "name": "Es \u00c9pico",
+      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
+    },
+    {
+      "album": {
+        "name": "Give Me 5",
+        "url": "https://open.spotify.com/album/3hZTnhf8nDaFuCesjGvyQ3"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "NicoJP",
+          "url": "https://open.spotify.com/artist/1OmO0lAKuNHuN7AIFbuJUP"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127336,
+      "name": "Huno",
+      "url": "https://open.spotify.com/track/3QS8YTsGSyBnnucbf0XEMr"
+    },
+    {
+      "album": {
+        "name": "Jamming Sin Fronteras",
+        "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
+      },
+      "artists": [
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Rapsusklei",
+          "url": "https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG"
+        },
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "C\u00e9sar L\u00f3pez",
+          "url": "https://open.spotify.com/artist/5Ycbygh3IB5aqbNRcMYPkV"
+        },
+        {
+          "name": "Solo Soul",
+          "url": "https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250732,
+      "name": "Jamming Sin Fronteras",
+      "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
+    },
+    {
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318328,
+      "name": "Jerem\u00edas 17-5",
+      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212558,
+      "name": "Ley del Hielo",
+      "url": "https://open.spotify.com/track/7McYWSdRoKDO8Dl70bURcZ"
+    },
+    {
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292075,
+      "name": "Llov\u00eda",
+      "url": "https://open.spotify.com/track/0V5aSGaNYMwnpv4CZO7JkD"
+    },
+    {
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284708,
+      "name": "Maquiav\u00e9lico",
+      "url": "https://open.spotify.com/track/447r2keRxpkINmWYp83MlH"
+    },
+    {
+      "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199758,
+      "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
+      "url": "https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252604,
+      "name": "Mucho Gusto",
+      "url": "https://open.spotify.com/track/73USjsNtFcJJDJaMqZc9Dy"
+    },
+    {
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284813,
+      "name": "Mundo de Piedra",
+      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
+    },
+    {
+      "album": {
+        "name": "Give Me 5",
+        "url": "https://open.spotify.com/album/3hZTnhf8nDaFuCesjGvyQ3"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "NicoJP",
+          "url": "https://open.spotify.com/artist/1OmO0lAKuNHuN7AIFbuJUP"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128117,
+      "name": "No no",
+      "url": "https://open.spotify.com/track/0YwUA5eHliOWOAc6lE4xWY"
+    },
+    {
+      "album": {
+        "name": "Give Me 5",
+        "url": "https://open.spotify.com/album/3hZTnhf8nDaFuCesjGvyQ3"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "NicoJP",
+          "url": "https://open.spotify.com/artist/1OmO0lAKuNHuN7AIFbuJUP"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97631,
+      "name": "Outro Chavo",
+      "url": "https://open.spotify.com/track/32cOEwFcIRIHpQ8XVnIuv2"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244062,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/2auNjgM4xIOANxtZT4Xe9z"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266057,
+      "name": "Perdiendo la Fe",
+      "url": "https://open.spotify.com/track/3grYJajZn99R9PyPNIyz8A"
+    },
+    {
+      "album": {
+        "name": "Gu\u00eda Para la Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0D89PelnUR4nfJttKuvdIx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312320,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/44dkhB684HPxosPgaGNndR"
+    },
+    {
+      "album": {
+        "name": "Apa y Can",
+        "url": "https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181707,
+      "name": "P\u00f3nmela en el Aire",
+      "url": "https://open.spotify.com/track/78s7R23oTTnTgxVDGuVUBH"
+    },
+    {
+      "album": {
+        "name": "Apa y Can",
+        "url": "https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Oldtape",
+          "url": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495281,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/2Yfeyib4ecSlWMvrZySDnQ"
+    },
+    {
+      "album": {
+        "name": "Give Me 5",
+        "url": "https://open.spotify.com/album/3hZTnhf8nDaFuCesjGvyQ3"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "NicoJP",
+          "url": "https://open.spotify.com/artist/1OmO0lAKuNHuN7AIFbuJUP"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131254,
+      "name": "Seamos Honestos (Mars Voice Note)",
+      "url": "https://open.spotify.com/track/4kZW9cwbwQQnDjBrAfjSkp"
+    },
+    {
+      "album": {
+        "name": "Rap Epico",
+        "url": "https://open.spotify.com/album/2fSq489Gg9Z4HfIUESHuBX"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188961,
+      "name": "Sigo Siendo el Rey",
+      "url": "https://open.spotify.com/track/7xxwytQq6VonX80ht3xK9P"
+    },
+    {
+      "album": {
+        "name": "Apa y Can",
+        "url": "https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307252,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/1PB2PfPd0g68Jn1IhAOrOF"
+    },
+    {
+      "album": {
+        "name": "Apa y Can",
+        "url": "https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282697,
+      "name": "Stupid Love Story",
+      "url": "https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l"
+    },
+    {
+      "album": {
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/06Uov5qxdxo9tAN8s6AB5N"
+      },
+      "artists": [
+        {
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+        },
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192745,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/13rpxaxJTnxffe7SV7kvyL"
+    },
+    {
+      "album": {
+        "name": "Apa y Can",
+        "url": "https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196257,
+      "name": "Uno Por Ellas",
+      "url": "https://open.spotify.com/track/5qiDPRE4eqcEip1tAncl7Q"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296071,
+      "name": "Y la Felicidad Qu\u00e9",
+      "url": "https://open.spotify.com/track/24HYU0MQmeUQ6YLjl1o2NV"
+    },
+    {
+      "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/6sLP0iKkEnj6ybE0g2dkJs"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXblapgdEq7WZ"
 }

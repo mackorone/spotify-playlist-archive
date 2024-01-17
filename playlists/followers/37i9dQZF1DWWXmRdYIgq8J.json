@@ -1,732 +1,2133 @@
 {
-  "2021-12-28": 12043,
-  "2021-12-29": 12052,
-  "2021-12-30": 12061,
-  "2021-12-31": 12067,
-  "2022-01-01": 12093,
-  "2022-01-02": 12102,
-  "2022-01-03": 12111,
-  "2022-01-04": 12117,
-  "2022-01-05": 12122,
-  "2022-01-06": 12134,
-  "2022-01-07": 12142,
-  "2022-01-08": 12154,
-  "2022-01-09": 12153,
-  "2022-01-10": 12163,
-  "2022-01-11": 12171,
-  "2022-01-12": 12173,
-  "2022-01-13": 12191,
-  "2022-01-14": 12208,
-  "2022-01-15": 12225,
-  "2022-01-16": 12225,
-  "2022-01-17": 12242,
-  "2022-01-18": 12244,
-  "2022-01-19": 12247,
-  "2022-01-20": 12254,
-  "2022-01-21": 12262,
-  "2022-01-22": 12271,
-  "2022-01-23": 12285,
-  "2022-01-24": 12293,
-  "2022-01-25": 12298,
-  "2022-01-26": 12306,
-  "2022-01-27": 12321,
-  "2022-01-28": 12328,
-  "2022-01-29": 12337,
-  "2022-01-30": 12348,
-  "2022-01-31": 12359,
-  "2022-02-01": 12365,
-  "2022-02-02": 12376,
-  "2022-02-03": 12384,
-  "2022-02-04": 12393,
-  "2022-02-05": 12396,
-  "2022-02-06": 12406,
-  "2022-02-07": 12424,
-  "2022-02-08": 12434,
-  "2022-02-09": 12444,
-  "2022-02-10": 12455,
-  "2022-02-11": 12463,
-  "2022-02-12": 12478,
-  "2022-02-13": 12493,
-  "2022-02-14": 12510,
-  "2022-02-15": 12518,
-  "2022-02-16": 12528,
-  "2022-02-17": 12538,
-  "2022-02-18": 12546,
-  "2022-02-19": 12556,
-  "2022-02-20": 12563,
-  "2022-02-21": 12572,
-  "2022-02-22": 12576,
-  "2022-02-23": 12577,
-  "2022-02-24": 12585,
-  "2022-02-25": 12596,
-  "2022-02-26": 12606,
-  "2022-02-27": 12642,
-  "2022-02-28": 12642,
-  "2022-03-01": 12657,
-  "2022-03-02": 12673,
-  "2022-03-03": 12677,
-  "2022-03-04": 12687,
-  "2022-03-05": 12696,
-  "2022-03-06": 12711,
-  "2022-03-07": 12717,
-  "2022-03-08": 12729,
-  "2022-03-09": 12743,
-  "2022-03-10": 12752,
-  "2022-03-11": 12768,
-  "2022-03-12": 12779,
-  "2022-03-13": 12790,
-  "2022-03-14": 12800,
-  "2022-03-15": 12809,
-  "2022-03-16": 12819,
-  "2022-03-17": 12830,
-  "2022-03-18": 12843,
-  "2022-03-19": 12852,
-  "2022-03-20": 12852,
-  "2022-03-21": 12874,
-  "2022-03-22": 12877,
-  "2022-03-23": 12881,
-  "2022-03-24": 12892,
-  "2022-03-25": 12902,
-  "2022-03-26": 12911,
-  "2022-03-27": 12916,
-  "2022-03-28": 12927,
-  "2022-03-30": 12935,
-  "2022-03-31": 12942,
-  "2022-04-01": 12947,
-  "2022-04-02": 12954,
-  "2022-04-03": 12960,
-  "2022-04-04": 12968,
-  "2022-04-05": 12979,
-  "2022-04-06": 12986,
-  "2022-04-07": 12998,
-  "2022-04-08": 13003,
-  "2022-04-09": 13018,
-  "2022-04-10": 13047,
-  "2022-04-11": 13055,
-  "2022-04-12": 13057,
-  "2022-04-13": 13066,
-  "2022-04-14": 13074,
-  "2022-04-15": 13076,
-  "2022-04-16": 13082,
-  "2022-04-17": 13093,
-  "2022-04-18": 13110,
-  "2022-04-19": 13119,
-  "2022-04-20": 13125,
-  "2022-04-21": 13131,
-  "2022-04-22": 13137,
-  "2022-04-23": 13142,
-  "2022-04-24": 13150,
-  "2022-04-25": 13152,
-  "2022-04-26": 13165,
-  "2022-04-27": 13176,
-  "2022-04-28": 13186,
-  "2022-04-29": 13194,
-  "2022-04-30": 13208,
-  "2022-05-01": 13230,
-  "2022-05-02": 13230,
-  "2022-05-03": 13244,
-  "2022-05-04": 13256,
-  "2022-05-05": 13264,
-  "2022-05-06": 13272,
-  "2022-05-07": 13287,
-  "2022-05-08": 13312,
-  "2022-05-09": 13312,
-  "2022-05-10": 13315,
-  "2022-05-11": 13328,
-  "2022-05-12": 13341,
-  "2022-05-13": 13353,
-  "2022-05-14": 13366,
-  "2022-05-15": 13380,
-  "2022-05-16": 13391,
-  "2022-05-17": 13400,
-  "2022-05-18": 13410,
-  "2022-05-19": 13419,
-  "2022-05-20": 13428,
-  "2022-05-21": 13454,
-  "2022-05-22": 13454,
-  "2022-05-23": 13470,
-  "2022-05-24": 13477,
-  "2022-05-25": 13478,
-  "2022-05-26": 13485,
-  "2022-05-27": 13494,
-  "2022-05-28": 13507,
-  "2022-05-29": 13513,
-  "2022-05-30": 13532,
-  "2022-05-31": 13545,
-  "2022-06-01": 13551,
-  "2022-06-02": 13551,
-  "2022-06-03": 13558,
-  "2022-06-04": 13566,
-  "2022-06-05": 13576,
-  "2022-06-06": 13585,
-  "2022-06-07": 13597,
-  "2022-06-08": 13607,
-  "2022-06-09": 13617,
-  "2022-06-10": 13632,
-  "2022-06-11": 13644,
-  "2022-06-12": 13660,
-  "2022-06-13": 13663,
-  "2022-06-14": 13676,
-  "2022-06-15": 13687,
-  "2022-06-16": 13698,
-  "2022-06-17": 13707,
-  "2022-06-18": 13719,
-  "2022-06-19": 13751,
-  "2022-06-20": 13751,
-  "2022-06-21": 13761,
-  "2022-06-22": 13786,
-  "2022-06-23": 13786,
-  "2022-06-24": 13792,
-  "2022-06-25": 13810,
-  "2022-06-26": 13810,
-  "2022-06-27": 13830,
-  "2022-06-28": 13842,
-  "2022-06-29": 13853,
-  "2022-06-30": 13861,
-  "2022-07-01": 13863,
-  "2022-07-02": 13873,
-  "2022-07-03": 13880,
-  "2022-07-04": 13887,
-  "2022-07-05": 13893,
-  "2022-07-06": 13900,
-  "2022-07-07": 13909,
-  "2022-07-08": 13914,
-  "2022-07-09": 13931,
-  "2022-07-10": 13946,
-  "2022-07-11": 13955,
-  "2022-07-12": 13963,
-  "2022-07-13": 13973,
-  "2022-07-14": 13982,
-  "2022-07-15": 13992,
-  "2022-07-16": 14002,
-  "2022-07-17": 14009,
-  "2022-07-18": 14019,
-  "2022-07-19": 14032,
-  "2022-07-20": 14043,
-  "2022-07-21": 14040,
-  "2022-07-22": 14048,
-  "2022-07-23": 14063,
-  "2022-07-24": 14068,
-  "2022-07-25": 14074,
-  "2022-07-26": 14086,
-  "2022-07-27": 14091,
-  "2022-07-28": 14100,
-  "2022-07-29": 14105,
-  "2022-07-30": 14129,
-  "2022-07-31": 14129,
-  "2022-08-01": 14139,
-  "2022-08-02": 14163,
-  "2022-08-03": 14163,
-  "2022-08-04": 14173,
-  "2022-08-05": 14178,
-  "2022-08-06": 14190,
-  "2022-08-07": 14205,
-  "2022-08-08": 14221,
-  "2022-08-09": 14229,
-  "2022-08-10": 14237,
-  "2022-08-11": 14249,
-  "2022-08-12": 14252,
-  "2022-08-13": 14256,
-  "2022-08-14": 14271,
-  "2022-08-15": 14281,
-  "2022-08-16": 14295,
-  "2022-08-17": 14298,
-  "2022-08-18": 14307,
-  "2022-08-19": 14313,
-  "2022-08-20": 14321,
-  "2022-08-21": 14332,
-  "2022-08-22": 14346,
-  "2022-08-23": 14352,
-  "2022-08-24": 14366,
-  "2022-08-25": 14385,
-  "2022-08-26": 14394,
-  "2022-08-27": 14409,
-  "2022-08-28": 14420,
-  "2022-08-29": 14440,
-  "2022-08-30": 14451,
-  "2022-08-31": 14461,
-  "2022-09-01": 14476,
-  "2022-09-02": 14480,
-  "2022-09-03": 14490,
-  "2022-09-04": 14510,
-  "2022-09-05": 14518,
-  "2022-09-06": 14525,
-  "2022-09-07": 14533,
-  "2022-09-09": 14544,
-  "2022-09-10": 14555,
-  "2022-09-11": 14570,
-  "2022-09-12": 14579,
-  "2022-09-13": 14581,
-  "2022-09-15": 14604,
-  "2022-09-16": 14609,
-  "2022-09-17": 14620,
-  "2022-09-18": 14633,
-  "2022-09-19": 14643,
-  "2022-09-20": 14643,
-  "2022-09-21": 14644,
-  "2022-09-22": 14654,
-  "2022-09-23": 14664,
-  "2022-09-24": 14671,
-  "2022-09-25": 14688,
-  "2022-09-26": 14701,
-  "2022-09-27": 14708,
-  "2022-09-28": 14716,
-  "2022-09-29": 14722,
-  "2022-09-30": 14727,
-  "2022-10-01": 14744,
-  "2022-10-02": 14754,
-  "2022-10-03": 14767,
-  "2022-10-04": 14779,
-  "2022-10-05": 14783,
-  "2022-10-06": 14792,
-  "2022-10-07": 14803,
-  "2022-10-08": 14819,
-  "2022-10-09": 14838,
-  "2022-10-10": 14841,
-  "2022-10-11": 14844,
-  "2022-10-12": 14844,
-  "2022-10-13": 14853,
-  "2022-10-14": 14861,
-  "2022-10-15": 14871,
-  "2022-10-16": 14877,
-  "2022-10-17": 14883,
-  "2022-10-18": 14889,
-  "2022-10-19": 14895,
-  "2022-10-20": 14901,
-  "2022-10-21": 14909,
-  "2022-10-22": 14918,
-  "2022-10-23": 14933,
-  "2022-10-24": 14939,
-  "2022-10-25": 14950,
-  "2022-10-26": 14959,
-  "2022-10-27": 14972,
-  "2022-10-28": 14981,
-  "2022-10-29": 14990,
-  "2022-10-30": 14995,
-  "2022-10-31": 15002,
-  "2022-11-01": 15005,
-  "2022-11-02": 15014,
-  "2022-11-03": 15016,
-  "2022-11-04": 15023,
-  "2022-11-05": 15036,
-  "2022-11-06": 15044,
-  "2022-11-07": 15055,
-  "2022-11-08": 15059,
-  "2022-11-09": 15066,
-  "2022-11-10": 15079,
-  "2022-11-11": 15087,
-  "2022-11-12": 15093,
-  "2022-11-13": 15098,
-  "2022-11-14": 15113,
-  "2022-11-15": 15122,
-  "2022-11-16": 15133,
-  "2022-11-17": 15142,
-  "2022-11-18": 15144,
-  "2022-11-19": 15143,
-  "2022-11-20": 15144,
-  "2022-11-21": 15152,
-  "2022-11-22": 15173,
-  "2022-11-23": 15169,
-  "2022-11-24": 15185,
-  "2022-11-25": 15204,
-  "2022-11-26": 15220,
-  "2022-11-27": 15232,
-  "2022-11-28": 15248,
-  "2022-11-29": 15261,
-  "2022-11-30": 15268,
-  "2022-12-01": 15276,
-  "2022-12-02": 15288,
-  "2022-12-03": 15287,
-  "2022-12-04": 15303,
-  "2022-12-05": 15310,
-  "2022-12-06": 15315,
-  "2022-12-07": 15331,
-  "2022-12-08": 15333,
-  "2022-12-09": 15344,
-  "2022-12-10": 15354,
-  "2022-12-11": 15361,
-  "2022-12-12": 15368,
-  "2022-12-13": 15375,
-  "2022-12-14": 15388,
-  "2022-12-15": 15394,
-  "2022-12-16": 15406,
-  "2022-12-17": 15413,
-  "2022-12-18": 15422,
-  "2022-12-19": 15431,
-  "2022-12-20": 15442,
-  "2022-12-21": 15442,
-  "2022-12-22": 15455,
-  "2022-12-24": 15476,
-  "2022-12-25": 15488,
-  "2022-12-26": 15499,
-  "2022-12-27": 15512,
-  "2022-12-28": 15526,
-  "2022-12-29": 15535,
-  "2022-12-30": 15553,
-  "2022-12-31": 15563,
-  "2023-01-01": 15573,
-  "2023-01-02": 15582,
-  "2023-01-03": 15591,
-  "2023-01-04": 15594,
-  "2023-01-05": 15599,
-  "2023-01-06": 15617,
-  "2023-01-07": 15635,
-  "2023-01-08": 15643,
-  "2023-01-09": 15658,
-  "2023-01-10": 15663,
-  "2023-01-11": 15673,
-  "2023-01-12": 15682,
-  "2023-01-13": 15695,
-  "2023-01-14": 15713,
-  "2023-01-15": 15713,
-  "2023-01-16": 15726,
-  "2023-01-17": 15727,
-  "2023-01-18": 15738,
-  "2023-01-19": 15750,
-  "2023-01-20": 15757,
-  "2023-01-21": 15767,
-  "2023-01-22": 15784,
-  "2023-01-23": 15795,
-  "2023-01-24": 15799,
-  "2023-01-25": 15803,
-  "2023-01-26": 15815,
-  "2023-01-27": 15830,
-  "2023-01-28": 15838,
-  "2023-01-29": 15853,
-  "2023-01-30": 15861,
-  "2023-01-31": 15861,
-  "2023-02-01": 15873,
-  "2023-02-02": 15877,
-  "2023-02-03": 15886,
-  "2023-02-04": 15893,
-  "2023-02-05": 15912,
-  "2023-02-06": 15923,
-  "2023-02-07": 15937,
-  "2023-02-08": 15951,
-  "2023-02-09": 15951,
-  "2023-02-10": 15957,
-  "2023-02-11": 15965,
-  "2023-02-12": 15981,
-  "2023-02-13": 15985,
-  "2023-02-14": 15985,
-  "2023-02-15": 15998,
-  "2023-02-16": 16008,
-  "2023-02-17": 16016,
-  "2023-02-18": 16034,
-  "2023-02-19": 16034,
-  "2023-02-20": 16043,
-  "2023-02-21": 16056,
-  "2023-02-22": 16062,
-  "2023-02-23": 16067,
-  "2023-02-24": 16077,
-  "2023-02-25": 16093,
-  "2023-02-26": 16095,
-  "2023-02-27": 16112,
-  "2023-02-28": 16112,
-  "2023-03-01": 16121,
-  "2023-03-02": 16130,
-  "2023-03-03": 16135,
-  "2023-03-04": 16145,
-  "2023-03-05": 16168,
-  "2023-03-06": 16168,
-  "2023-03-07": 16183,
-  "2023-03-08": 16190,
-  "2023-03-09": 16202,
-  "2023-03-10": 16213,
-  "2023-03-11": 16223,
-  "2023-03-12": 16230,
-  "2023-03-13": 16251,
-  "2023-03-14": 16261,
-  "2023-03-15": 16277,
-  "2023-03-16": 16295,
-  "2023-03-17": 16295,
-  "2023-03-18": 16315,
-  "2023-03-19": 16325,
-  "2023-03-20": 16334,
-  "2023-03-21": 16341,
-  "2023-03-22": 16347,
-  "2023-03-23": 16353,
-  "2023-03-24": 16353,
-  "2023-03-25": 16371,
-  "2023-03-26": 16384,
-  "2023-03-27": 16396,
-  "2023-03-28": 16414,
-  "2023-03-29": 16430,
-  "2023-03-30": 16437,
-  "2023-03-31": 16437,
-  "2023-04-01": 16458,
-  "2023-04-02": 16469,
-  "2023-04-03": 16480,
-  "2023-04-04": 16492,
-  "2023-04-05": 16505,
-  "2023-04-06": 16525,
-  "2023-04-07": 16537,
-  "2023-04-09": 16562,
-  "2023-04-10": 16578,
-  "2023-04-11": 16599,
-  "2023-04-12": 16599,
-  "2023-04-13": 16617,
-  "2023-04-14": 16626,
-  "2023-04-15": 16640,
-  "2023-04-16": 16651,
-  "2023-04-17": 16663,
-  "2023-04-18": 16673,
-  "2023-04-19": 16691,
-  "2023-04-20": 16701,
-  "2023-04-21": 16715,
-  "2023-04-22": 16724,
-  "2023-04-23": 16748,
-  "2023-04-24": 16762,
-  "2023-04-25": 16771,
-  "2023-04-26": 16780,
-  "2023-04-27": 16798,
-  "2023-04-28": 16813,
-  "2023-04-29": 16821,
-  "2023-04-30": 16836,
-  "2023-05-01": 16853,
-  "2023-05-02": 16865,
-  "2023-05-03": 16872,
-  "2023-05-04": 16876,
-  "2023-05-05": 16888,
-  "2023-05-06": 16899,
-  "2023-05-07": 16918,
-  "2023-05-08": 16928,
-  "2023-05-09": 16935,
-  "2023-05-10": 16951,
-  "2023-05-11": 16962,
-  "2023-05-12": 16975,
-  "2023-05-13": 16983,
-  "2023-05-14": 16998,
-  "2023-05-15": 17008,
-  "2023-05-16": 17025,
-  "2023-05-17": 17044,
-  "2023-05-18": 17052,
-  "2023-05-19": 17064,
-  "2023-05-20": 17084,
-  "2023-05-21": 17084,
-  "2023-05-22": 17084,
-  "2023-05-23": 17100,
-  "2023-05-24": 17112,
-  "2023-05-25": 17117,
-  "2023-05-26": 17129,
-  "2023-05-27": 17149,
-  "2023-05-28": 17175,
-  "2023-05-29": 17175,
-  "2023-05-30": 17200,
-  "2023-05-31": 17212,
-  "2023-06-01": 17222,
-  "2023-06-02": 17227,
-  "2023-06-03": 17234,
-  "2023-06-04": 17254,
-  "2023-06-05": 17265,
-  "2023-06-06": 17279,
-  "2023-06-07": 17293,
-  "2023-06-08": 17299,
-  "2023-06-09": 17317,
-  "2023-06-10": 17325,
-  "2023-06-11": 17347,
-  "2023-06-12": 17357,
-  "2023-06-13": 17368,
-  "2023-06-14": 17379,
-  "2023-06-15": 17389,
-  "2023-06-16": 17404,
-  "2023-06-17": 17415,
-  "2023-06-18": 17433,
-  "2023-06-19": 17440,
-  "2023-06-20": 17452,
-  "2023-06-21": 17463,
-  "2023-06-22": 17475,
-  "2023-06-23": 17478,
-  "2023-06-24": 17480,
-  "2023-06-25": 17504,
-  "2023-06-26": 17524,
-  "2023-06-27": 17535,
-  "2023-06-28": 17542,
-  "2023-06-29": 17549,
-  "2023-06-30": 17564,
-  "2023-07-01": 17583,
-  "2023-07-02": 17583,
-  "2023-07-03": 17605,
-  "2023-07-04": 17621,
-  "2023-07-05": 17636,
-  "2023-07-06": 17656,
-  "2023-07-07": 17656,
-  "2023-07-08": 17672,
-  "2023-07-09": 17689,
-  "2023-07-10": 17702,
-  "2023-07-11": 17719,
-  "2023-07-12": 17733,
-  "2023-07-13": 17749,
-  "2023-07-14": 17767,
-  "2023-07-15": 17779,
-  "2023-07-16": 17800,
-  "2023-07-17": 17815,
-  "2023-07-18": 17832,
-  "2023-07-19": 17848,
-  "2023-07-20": 17864,
-  "2023-07-21": 17880,
-  "2023-07-22": 17912,
-  "2023-07-23": 17931,
-  "2023-07-24": 17954,
-  "2023-07-25": 17961,
-  "2023-07-26": 17972,
-  "2023-07-27": 17994,
-  "2023-07-28": 18007,
-  "2023-07-29": 18017,
-  "2023-07-30": 18033,
-  "2023-07-31": 18046,
-  "2023-08-01": 18056,
-  "2023-08-02": 18070,
-  "2023-08-03": 18089,
-  "2023-08-04": 18103,
-  "2023-08-05": 18119,
-  "2023-08-06": 18146,
-  "2023-08-07": 18146,
-  "2023-08-08": 18166,
-  "2023-08-09": 18174,
-  "2023-08-10": 18191,
-  "2023-08-11": 18205,
-  "2023-08-12": 18217,
-  "2023-08-13": 18232,
-  "2023-08-14": 18248,
-  "2023-08-15": 18275,
-  "2023-08-16": 18275,
-  "2023-08-17": 18286,
-  "2023-08-18": 18310,
-  "2023-08-19": 18326,
-  "2023-08-20": 18341,
-  "2023-08-21": 18355,
-  "2023-08-22": 18365,
-  "2023-08-23": 18381,
-  "2023-08-24": 18397,
-  "2023-08-25": 18416,
-  "2023-08-26": 18434,
-  "2023-08-27": 18459,
-  "2023-08-28": 18475,
-  "2023-08-29": 18484,
-  "2023-08-30": 18502,
-  "2023-08-31": 18508,
-  "2023-09-01": 18531,
-  "2023-09-02": 18531,
-  "2023-09-03": 18545,
-  "2023-09-04": 18559,
-  "2023-09-05": 18572,
-  "2023-09-06": 18581,
-  "2023-09-07": 18588,
-  "2023-09-08": 18595,
-  "2023-09-09": 18603,
-  "2023-09-10": 18615,
-  "2023-09-11": 18624,
-  "2023-09-12": 18632,
-  "2023-09-13": 18649,
-  "2023-09-14": 18653,
-  "2023-09-15": 18663,
-  "2023-09-16": 18665,
-  "2023-09-17": 18679,
-  "2023-09-18": 18684,
-  "2023-09-19": 18691,
-  "2023-09-20": 18698,
-  "2023-09-21": 18705,
-  "2023-09-22": 18709,
-  "2023-09-23": 18716,
-  "2023-09-24": 18727,
-  "2023-09-25": 18734,
-  "2023-09-26": 18749,
-  "2023-09-27": 18758,
-  "2023-09-28": 18766,
-  "2023-09-29": 18772,
-  "2023-09-30": 18779,
-  "2023-10-01": 18787,
-  "2023-10-02": 18796,
-  "2023-10-03": 18801,
-  "2023-10-04": 18808,
-  "2023-10-05": 18812,
-  "2023-10-06": 18823,
-  "2023-10-07": 18833,
-  "2023-10-08": 18841,
-  "2023-10-09": 18847,
-  "2023-10-10": 18854,
-  "2023-10-11": 18856,
-  "2023-10-12": 18856,
-  "2023-10-13": 18861,
-  "2023-10-14": 18870,
-  "2023-10-15": 18886,
-  "2023-10-16": 18895,
-  "2023-10-17": 18907,
-  "2023-10-18": 18913,
-  "2023-10-19": 18918,
-  "2023-10-20": 18924,
-  "2023-10-21": 18934,
-  "2023-10-22": 18948,
-  "2023-10-23": 18962,
-  "2023-10-24": 18974,
-  "2023-10-25": 18977,
-  "2023-10-26": 18985,
-  "2023-10-27": 18997,
-  "2023-10-28": 19007,
-  "2023-10-29": 19018,
-  "2023-10-30": 19031,
-  "2023-10-31": 19031,
-  "2023-11-01": 19033,
-  "2023-11-02": 19039,
-  "2023-11-03": 19048,
-  "2023-11-04": 19056,
-  "2023-11-05": 19062,
-  "2023-11-06": 19069,
-  "2023-11-07": 19072,
-  "2023-11-08": 19075,
-  "2023-11-09": 19078,
-  "2023-11-10": 19081,
-  "2023-11-11": 19091,
-  "2023-11-12": 19096,
-  "2023-11-13": 19106,
-  "2023-11-14": 19106,
-  "2023-11-15": 19106,
-  "2023-11-16": 19128,
-  "2023-11-17": 19133,
-  "2023-11-18": 19133,
-  "2023-11-19": 19144,
-  "2023-11-20": 19155,
-  "2023-11-21": 19162,
-  "2023-11-22": 19176,
-  "2023-11-23": 19186,
-  "2023-11-24": 19196,
-  "2023-11-25": 19200,
-  "2023-11-26": 19200,
-  "2023-11-27": 19205,
-  "2023-11-28": 19211,
-  "2023-11-29": 19232,
-  "2023-11-30": 19232,
-  "2023-12-01": 19241,
-  "2023-12-02": 19251,
-  "2023-12-03": 19257,
-  "2023-12-04": 19260,
-  "2023-12-05": 19269,
-  "2023-12-06": 19277,
-  "2023-12-07": 19285,
-  "2023-12-08": 19294,
-  "2023-12-09": 19305,
-  "2023-12-10": 19320,
-  "2023-12-11": 19331,
-  "2023-12-12": 19341,
-  "2023-12-13": 19342,
-  "2023-12-14": 19351,
-  "2023-12-15": 19356,
-  "2023-12-16": 19361,
-  "2023-12-17": 19369,
-  "2023-12-18": 19378,
-  "2023-12-19": 19381,
-  "2023-12-20": 19387,
-  "2023-12-21": 19393,
-  "2023-12-22": 19399,
-  "2023-12-23": 19406,
-  "2023-12-24": 19413,
-  "2023-12-25": 19422,
-  "2023-12-26": 19421,
-  "2023-12-27": 19429,
-  "2023-12-30": 19454,
-  "2023-12-31": 19462,
-  "2024-01-01": 19474,
-  "2024-01-02": 19481,
-  "2024-01-03": 19486
+  "2024-01-17": 19576,
+  "date_first_scraped": "2021-12-28",
+  "description": "Tropical tunes from the Indo-Caribbean diaspora.",
+  "name": "Pass The Chutney",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ab Na Jaibe",
+        "url": "https://open.spotify.com/album/2n5A0bEoYkn8q3wm6cc75q"
+      },
+      "artists": [
+        {
+          "name": "Kanchan",
+          "url": "https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Ab Na Jaibe",
+      "url": "https://open.spotify.com/track/42jxQLPSuH6OMrkDhPiWkE"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2010",
+        "url": "https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1"
+      },
+      "artists": [
+        {
+          "name": "Ravi B & Problem Child",
+          "url": "https://open.spotify.com/artist/4bdt4Twty5nZAjR3WsnzNg"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265240,
+      "name": "Ah Drinka",
+      "url": "https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw"
+    },
+    {
+      "album": {
+        "name": "Independent Lady",
+        "url": "https://open.spotify.com/album/5MX7SERtmC5ObbiWxgVhKb"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        },
+        {
+          "name": "Dil-E-Nadan",
+          "url": "https://open.spotify.com/artist/34B244yve10xAS2LK6VknY"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204056,
+      "name": "Aur Chale (feat. Dil-E-Nadan)",
+      "url": "https://open.spotify.com/track/0rqf6vbpvLhynNJz6ya5zG"
+    },
+    {
+      "album": {
+        "name": "Rum Till I Die",
+        "url": "https://open.spotify.com/album/0cJYhcoXcJOqlBpa7BOUTW"
+      },
+      "artists": [
+        {
+          "name": "Adesh Samaroo",
+          "url": "https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 268373,
+      "name": "Bahena Bahena",
+      "url": "https://open.spotify.com/track/2liG0SM5NNVNkHkGU3tdeZ"
+    },
+    {
+      "album": {
+        "name": "Balama (Chatak Matak Chutney 2017)",
+        "url": "https://open.spotify.com/album/6Gp9dJ8j1KUbw5xKJ0Rx6o"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Balama",
+      "url": "https://open.spotify.com/track/0YWBtnNdMdEuh8RK8AXDXg"
+    },
+    {
+      "album": {
+        "name": "Balama (Chatak Matak Chutney 2017)",
+        "url": "https://open.spotify.com/album/3iVghEVJNyxVfQP3bUMG77"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 232258,
+      "name": "Balama",
+      "url": "https://open.spotify.com/track/7mApM1xZlAiyJHT1xHn88S"
+    },
+    {
+      "album": {
+        "name": "Dekho Lawa",
+        "url": "https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "Balama",
+      "url": "https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe"
+    },
+    {
+      "album": {
+        "name": "Balkissoon",
+        "url": "https://open.spotify.com/album/0CpGJQDsla57RlmVUMahfy"
+      },
+      "artists": [
+        {
+          "name": "Omardath Maharaj",
+          "url": "https://open.spotify.com/artist/2ucwlWOsuVNoYQbVswk9Sz"
+        },
+        {
+          "name": "Raymond Ramnarine",
+          "url": "https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 224966,
+      "name": "Balkissoon",
+      "url": "https://open.spotify.com/track/2tx8gLbf1Iy7GbgV6vFl57"
+    },
+    {
+      "album": {
+        "name": "Balkissoon",
+        "url": "https://open.spotify.com/album/0sfSf7YckGZfACxpowk1vG"
+      },
+      "artists": [
+        {
+          "name": "Omardath Maharaj",
+          "url": "https://open.spotify.com/artist/2ucwlWOsuVNoYQbVswk9Sz"
+        },
+        {
+          "name": "Raymond Ramnarine",
+          "url": "https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224966,
+      "name": "Balkissoon",
+      "url": "https://open.spotify.com/track/4dbTsPxGxBKxVfF6ME1YWE"
+    },
+    {
+      "album": {
+        "name": "Bandarwah (feat. Ravi B)",
+        "url": "https://open.spotify.com/album/1EpG3o1xvOD2pcmMu0Jt9q"
+      },
+      "artists": [
+        {
+          "name": "Rasika Dindial",
+          "url": "https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ"
+        },
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265064,
+      "name": "Bandarwah (feat. Ravi B)",
+      "url": "https://open.spotify.com/track/3IGfrhOSd1eg1CSBzUX01w"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2010",
+        "url": "https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1"
+      },
+      "artists": [
+        {
+          "name": "Rikki Jai",
+          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293933,
+      "name": "Barman",
+      "url": "https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu"
+    },
+    {
+      "album": {
+        "name": "Chutney Party Mix",
+        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
+      },
+      "artists": [
+        {
+          "name": "Sarah",
+          "url": "https://open.spotify.com/artist/33Gx2JOUU4jrmRhjxwaOxb"
+        },
+        {
+          "name": "Sally Sagram",
+          "url": "https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231160,
+      "name": "Bhaio Bhin",
+      "url": "https://open.spotify.com/track/0FNWncnBxzqcxMlpGCf6mI"
+    },
+    {
+      "album": {
+        "name": "Explosive Moods",
+        "url": "https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag"
+      },
+      "artists": [
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234853,
+      "name": "Bhalay Ki - Sohar",
+      "url": "https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE"
+    },
+    {
+      "album": {
+        "name": "Chutney",
+        "url": "https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS"
+      },
+      "artists": [
+        {
+          "name": "Shelly G",
+          "url": "https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq"
+        },
+        {
+          "name": "Fojo",
+          "url": "https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft"
+        },
+        {
+          "name": "Fiona Singh",
+          "url": "https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236286,
+      "name": "Bholo Bholo",
+      "url": "https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN"
+    },
+    {
+      "album": {
+        "name": "Birana",
+        "url": "https://open.spotify.com/album/74qikSE4Wj924WHoPJYPgf"
+      },
+      "artists": [
+        {
+          "name": "Adesh Samaroo",
+          "url": "https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 273946,
+      "name": "Birana",
+      "url": "https://open.spotify.com/track/2ieNMS5bcrFHzeXuRltLlz"
+    },
+    {
+      "album": {
+        "name": "Birana",
+        "url": "https://open.spotify.com/album/2lZyQHX5F8QCMqQgC8QyTr"
+      },
+      "artists": [
+        {
+          "name": "Adesh Samaroo",
+          "url": "https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 273946,
+      "name": "Birana",
+      "url": "https://open.spotify.com/track/70NzqCskRA7XRDUos19Wq3"
+    },
+    {
+      "album": {
+        "name": "Curry Que Riddim",
+        "url": "https://open.spotify.com/album/3HzvqUiLh4iJD6TB096WLo"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        },
+        {
+          "name": "K RICH",
+          "url": "https://open.spotify.com/artist/4APcCG1bHmbxwPjbEQ6YQA"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 186479,
+      "name": "Bollywood",
+      "url": "https://open.spotify.com/track/70zwaLKQHTsfnpopKJ8RZN"
+    },
+    {
+      "album": {
+        "name": "Bread",
+        "url": "https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5"
+      },
+      "artists": [
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227540,
+      "name": "Bread",
+      "url": "https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X"
+    },
+    {
+      "album": {
+        "name": "Chutney Party Mix",
+        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
+      },
+      "artists": [
+        {
+          "name": "Boyie Basdeo",
+          "url": "https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP"
+    },
+    {
+      "album": {
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/2Fd7EJGE8564lHxKQclwAE"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/2CuEoTltt7yzIT7ORP75Vy"
+    },
+    {
+      "album": {
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2004",
+        "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
+      },
+      "artists": [
+        {
+          "name": "Adesh Samaroo",
+          "url": "https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 234333,
+      "name": "Caroni Close Down",
+      "url": "https://open.spotify.com/track/3dp0iCmm69qmzRROlU7oIX"
+    },
+    {
+      "album": {
+        "name": "Dance Party King",
+        "url": "https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Caroni Gyul",
+      "url": "https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM"
+    },
+    {
+      "album": {
+        "name": "Sundar Popo Greatest Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236960,
+      "name": "Chal Kechal",
+      "url": "https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/3LWQqkmaprr7Zf2LUnB9Mn"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Bravo",
+          "url": "https://open.spotify.com/artist/6ojv0aS0qisHLi5IgYowXI"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 149002,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/6AxialEjIE7B74QNAs1PGu"
+    },
+    {
+      "album": {
+        "name": "Chapar",
+        "url": "https://open.spotify.com/album/4dOCgZEUBvys0ZW6CYXhIQ"
+      },
+      "artists": [
+        {
+          "name": "Adesh Samaroo",
+          "url": "https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 216032,
+      "name": "Chapar",
+      "url": "https://open.spotify.com/track/578PfZQhcglyX136Y1nGpP"
+    },
+    {
+      "album": {
+        "name": "Chataniya",
+        "url": "https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU"
+      },
+      "artists": [
+        {
+          "name": "Savita Singh TT",
+          "url": "https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225576,
+      "name": "Chataniya",
+      "url": "https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B"
+    },
+    {
+      "album": {
+        "name": "Drupatee Ramgoonai",
+        "url": "https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz"
+      },
+      "artists": [
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310586,
+      "name": "Chutney",
+      "url": "https://open.spotify.com/track/6ipW3uRbbsH672TQZZWwMF"
+    },
+    {
+      "album": {
+        "name": "Soca Engine",
+        "url": "https://open.spotify.com/album/1XZv3qPdcRhpyQXpULHedg"
+      },
+      "artists": [
+        {
+          "name": "Byron Lee",
+          "url": "https://open.spotify.com/artist/1qerVYQkyneFNgZfMKH6HX"
+        },
+        {
+          "name": "The Dragonaires",
+          "url": "https://open.spotify.com/artist/6lSdMYrQWXU22MBTq1qc0y"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183533,
+      "name": "Chutney Bachannal",
+      "url": "https://open.spotify.com/track/5P0X7qfDz1XsrlOi31vi1g"
+    },
+    {
+      "album": {
+        "name": "Soca Engine",
+        "url": "https://open.spotify.com/album/5wfAK9kuhW8WcVjr5eiKGv"
+      },
+      "artists": [
+        {
+          "name": "Byron Lee & The Dragonaires",
+          "url": "https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183533,
+      "name": "Chutney Bachannal",
+      "url": "https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP"
+    },
+    {
+      "album": {
+        "name": "Chutney Party Mix",
+        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
+      },
+      "artists": [
+        {
+          "name": "Heeralal Rampartap",
+          "url": "https://open.spotify.com/artist/314CfLhAljnYV6PBjTTdsK"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 405373,
+      "name": "Chutney Possy",
+      "url": "https://open.spotify.com/track/18WPeo6KhokOa8ByGLf1ee"
+    },
+    {
+      "album": {
+        "name": "Come Nah",
+        "url": "https://open.spotify.com/album/271vwoxZzpWcXdqQtu44Tr"
+      },
+      "artists": [
+        {
+          "name": "Mr Renzo",
+          "url": "https://open.spotify.com/artist/0KScp699akXe713AEh7qzp"
+        },
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 176844,
+      "name": "Come Nah",
+      "url": "https://open.spotify.com/track/61Ahf0qU7kONJ5Op42e8Kd"
+    },
+    {
+      "album": {
+        "name": "Rise of a New King",
+        "url": "https://open.spotify.com/album/47ZPIYAGwct5LotU50oetq"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        },
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311824,
+      "name": "Cya Come (feat. Skinny Fabulous)",
+      "url": "https://open.spotify.com/track/1WXJZK7uTn3iRrbfaXYZ6n"
+    },
+    {
+      "album": {
+        "name": "D Strangest Thing",
+        "url": "https://open.spotify.com/album/2eZC9IeygOHih0TWz4WfHO"
+      },
+      "artists": [
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 201166,
+      "name": "D Strangest Thing",
+      "url": "https://open.spotify.com/track/2wlAJhE9mCJH0SMRdp1FI3"
+    },
+    {
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/5S3Q83egN0XOOyMB0sCEHO"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        },
+        {
+          "name": "Rikki Jai",
+          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 209738,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/2Zv52oKtfmYBt0EXO686bj"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2012",
+        "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
+      },
+      "artists": [
+        {
+          "name": "Rikki Jai",
+          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 280093,
+      "name": "De Drinkers Anthem - feat. Lady Saw",
+      "url": "https://open.spotify.com/track/106Qgd9zMm4hERhaksBOac"
+    },
+    {
+      "album": {
+        "name": "Dance D'Chatanie with D'Ranie",
+        "url": "https://open.spotify.com/album/5h7NSzWa3UkoyXWEKDy8x5"
+      },
+      "artists": [
+        {
+          "name": "Rasika Dindial",
+          "url": "https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 264306,
+      "name": "Dhobinya Kay Maar",
+      "url": "https://open.spotify.com/track/2b8Rf3fWIDZJCpJ1bm67xz"
+    },
+    {
+      "album": {
+        "name": "Dance D'Chatanie with D'Ranie",
+        "url": "https://open.spotify.com/album/5yRr40V8U61NXEPHQeNJhm"
+      },
+      "artists": [
+        {
+          "name": "Rasika Dindial",
+          "url": "https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 264306,
+      "name": "Dhobinya Kay Maar",
+      "url": "https://open.spotify.com/track/6YhVBfRPUnb3mY27Yae0fG"
+    },
+    {
+      "album": {
+        "name": "iShal",
+        "url": "https://open.spotify.com/album/3v6iti36iXjQ289j4zMcd1"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 121138,
+      "name": "Dip",
+      "url": "https://open.spotify.com/track/4GHN02Kv3PXDZM1a6IZP8X"
+    },
+    {
+      "album": {
+        "name": "iShal",
+        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121138,
+      "name": "Dip",
+      "url": "https://open.spotify.com/track/6l6RCCV2A9u3SHIt3mvaiN"
+    },
+    {
+      "album": {
+        "name": "Force It Riddim",
+        "url": "https://open.spotify.com/album/1846aL6BF1twe5PHfT1pha"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 122618,
+      "name": "Dip",
+      "url": "https://open.spotify.com/track/2NWKeFC8heQQ9AkxctKN4X"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/3qM287mPng6L7SItYtEtF7"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251080,
+      "name": "Diwana Gaiya",
+      "url": "https://open.spotify.com/track/3FIBaj6iAezqJvHhOqzpu4"
+    },
+    {
+      "album": {
+        "name": "Rise of a New King",
+        "url": "https://open.spotify.com/album/47ZPIYAGwct5LotU50oetq"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252030,
+      "name": "Drinka",
+      "url": "https://open.spotify.com/track/47Q0sApPOOLeEKzUKFeXu9"
+    },
+    {
+      "album": {
+        "name": "Dui Mutthi",
+        "url": "https://open.spotify.com/album/36iXCe2LDP7eKjptNACbVy"
+      },
+      "artists": [
+        {
+          "name": "Raj Mohan",
+          "url": "https://open.spotify.com/artist/6q9e4Kaz8B1rWUhn90FKHH"
+        },
+        {
+          "name": "Lourens van Haaften",
+          "url": "https://open.spotify.com/artist/4OXNlJwB0dS3OHKEy7fvcZ"
+        },
+        {
+          "name": "Pim van Ham",
+          "url": "https://open.spotify.com/artist/0g0hjwO0mOKmlgCnuuNWyj"
+        },
+        {
+          "name": "Suresh Sardjoe",
+          "url": "https://open.spotify.com/artist/7b35P4xYiYSBqIK6R6Eu7X"
+        },
+        {
+          "name": "Mark Alban Lotz",
+          "url": "https://open.spotify.com/artist/4BT7pe28q1DoqZ2RAGdqoL"
+        },
+        {
+          "name": "Marco Van Os",
+          "url": "https://open.spotify.com/artist/2iQp9PXU3p3B6Hkh3Ubqf0"
+        },
+        {
+          "name": "Floor Wittink",
+          "url": "https://open.spotify.com/artist/3LKc3qlrI8DU7TdGMtj4z0"
+        },
+        {
+          "name": "Brechtje Roos",
+          "url": "https://open.spotify.com/artist/58w6eh2rPTb7lmgym8eqAg"
+        },
+        {
+          "name": "Hermine Schneider",
+          "url": "https://open.spotify.com/artist/5hggtrKT48o2dHiXqpPdP8"
+        },
+        {
+          "name": "Zapp4 String Quartet",
+          "url": "https://open.spotify.com/artist/79ViaraJqaTKddHQHEv5qy"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336040,
+      "name": "Dui mutthi",
+      "url": "https://open.spotify.com/track/1rbdePMcbIrKU2d78CeaET"
+    },
+    {
+      "album": {
+        "name": "Karmageddon",
+        "url": "https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 308794,
+      "name": "Dularie Nanny",
+      "url": "https://open.spotify.com/track/401Vo3JWnHujTwe1HG6ofn"
+    },
+    {
+      "album": {
+        "name": "Gangs Of Wasseypur - 2",
+        "url": "https://open.spotify.com/album/7DBbDXQbei6e4X6EdXOyz2"
+      },
+      "artists": [
+        {
+          "name": "Rasika D Rani",
+          "url": "https://open.spotify.com/artist/2w4iE0LWFKbnoSkgERsqso"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 274552,
+      "name": "Electric Piya",
+      "url": "https://open.spotify.com/track/4EeCGjwk9d7iO9Ti5w2xlX"
+    },
+    {
+      "album": {
+        "name": "Ghunghat Gira Ke",
+        "url": "https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f"
+      },
+      "artists": [
+        {
+          "name": "Kem Chanlall",
+          "url": "https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354496,
+      "name": "Ghunghat Gira Ke",
+      "url": "https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm"
+    },
+    {
+      "album": {
+        "name": "Ghungroo (feat. Ravi B)",
+        "url": "https://open.spotify.com/album/1tWzdyvTgq5XXoN5KXJZxE"
+      },
+      "artists": [
+        {
+          "name": "Nisha B",
+          "url": "https://open.spotify.com/artist/6IajZXjeim787TECOi1vLR"
+        },
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256052,
+      "name": "Ghungroo (feat. Ravi B)",
+      "url": "https://open.spotify.com/track/5sn0V3nw7iS42hrj2mQ0Sl"
+    },
+    {
+      "album": {
+        "name": "Gunga Ghana",
+        "url": "https://open.spotify.com/album/5HHAYnNENqxTSYOnnx1Ilk"
+      },
+      "artists": [
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        },
+        {
+          "name": "Dubraj Persad",
+          "url": "https://open.spotify.com/artist/4utj62fmWsquEdUPamiUDX"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247614,
+      "name": "Gunga Ghana",
+      "url": "https://open.spotify.com/track/6scC03TvTwI1VbEGIYrD8R"
+    },
+    {
+      "album": {
+        "name": "Explosive Moods",
+        "url": "https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag"
+      },
+      "artists": [
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296080,
+      "name": "Ho More Raja",
+      "url": "https://open.spotify.com/track/4du8jzQa9JHA2BB9IVprmc"
+    },
+    {
+      "album": {
+        "name": "License to Wine",
+        "url": "https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177372,
+      "name": "Holi Kare",
+      "url": "https://open.spotify.com/track/3fd0xrRbadHWBQOxICpu5C"
+    },
+    {
+      "album": {
+        "name": "Gangs Of Wasseypur",
+        "url": "https://open.spotify.com/album/5lOKYvuSy6buolqIHSUwpG"
+      },
+      "artists": [
+        {
+          "name": "Vedesh Sookoo",
+          "url": "https://open.spotify.com/artist/7ISb9PCOxy0mfKcwsZY5wM"
+        },
+        {
+          "name": "Rajneesh",
+          "url": "https://open.spotify.com/artist/1gFEvcgoCtwF6USROCIs8d"
+        },
+        {
+          "name": "Shyamoo",
+          "url": "https://open.spotify.com/artist/09fbzAqn6OUh1MR2TbQkt6"
+        },
+        {
+          "name": "Munna",
+          "url": "https://open.spotify.com/artist/7sHZEksfZX6M6bvqp1XLRz"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257009,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/420E2n9BEBXL8J7uYAWXtR"
+    },
+    {
+      "album": {
+        "name": "Daayra",
+        "url": "https://open.spotify.com/album/3QQhDdanpaBO8M2AmtFZTu"
+      },
+      "artists": [
+        {
+          "name": "Raj Mohan",
+          "url": "https://open.spotify.com/artist/6q9e4Kaz8B1rWUhn90FKHH"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 217160,
+      "name": "I Tor Sahar",
+      "url": "https://open.spotify.com/track/7GScKqEfygFYwx3B16Ax3o"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2013",
+        "url": "https://open.spotify.com/album/5IUSWCDg7mjjflea2V86mC"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200200,
+      "name": "Indian Gyal",
+      "url": "https://open.spotify.com/track/0gFmU2a8x5zfDHupffa1Mi"
+    },
+    {
+      "album": {
+        "name": "Indian Gyal",
+        "url": "https://open.spotify.com/album/2XwOXmK2KAUVSXulFIqymD"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 202080,
+      "name": "Indian Gyal",
+      "url": "https://open.spotify.com/track/0Gwrr6kSMTbKoDhyNZPgY0"
+    },
+    {
+      "album": {
+        "name": "Indian Gyal",
+        "url": "https://open.spotify.com/album/6SYuxFQV5iyRoI43DtDtQp"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "Indian Gyal",
+      "url": "https://open.spotify.com/track/2Vwpai1MSuaBJRXnMjAa3Y"
+    },
+    {
+      "album": {
+        "name": "Karmageddon",
+        "url": "https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/68iG5R3a6uBj7F5m4Ek28d"
+        },
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        },
+        {
+          "name": "Andy Singh",
+          "url": "https://open.spotify.com/artist/3EyhGbKjTvUKakWogowSiz"
+        },
+        {
+          "name": "Neeshan Prabhoo",
+          "url": "https://open.spotify.com/artist/6cqqpiOe197K2rEGTzEsIs"
+        },
+        {
+          "name": "Anil Bheem",
+          "url": "https://open.spotify.com/artist/3kK0b5R9P49eBNFgKO4gQV"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 302629,
+      "name": "Jep Sting Naina (feat. Neeshan Prabhoo, Anil Bheem, Drupatee Ramgoonai, Andy Singh & Hunter)",
+      "url": "https://open.spotify.com/track/2zVidr0TGBdC3E0QzjBzWU"
+    },
+    {
+      "album": {
+        "name": "Jhulai Kai Jhulaneeya",
+        "url": "https://open.spotify.com/album/1J3jCiMaCw6vONtH5dD5CJ"
+      },
+      "artists": [
+        {
+          "name": "Savita Singh TT",
+          "url": "https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i"
+        },
+        {
+          "name": "Devanand Gattoo",
+          "url": "https://open.spotify.com/artist/6YJbkTQjvcQIlMgs6B0gUf"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233978,
+      "name": "Jhulai Kai Jhulaneeya",
+      "url": "https://open.spotify.com/track/4T2RNha3216ColKhrewoRe"
+    },
+    {
+      "album": {
+        "name": "This Is Chutney",
+        "url": "https://open.spotify.com/album/5Fmp7GwRXHWqxOwigb8Ywo"
+      },
+      "artists": [
+        {
+          "name": "Rasika Dindial",
+          "url": "https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 247786,
+      "name": "Kaha Ratiya",
+      "url": "https://open.spotify.com/track/0JrJLBUf8lOJOjdU2pFgYo"
+    },
+    {
+      "album": {
+        "name": "This Is Chutney",
+        "url": "https://open.spotify.com/album/1b1HzGS82dLZMBfYBbXVuF"
+      },
+      "artists": [
+        {
+          "name": "Rasika Dindial",
+          "url": "https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 247786,
+      "name": "Kaha Ratiya",
+      "url": "https://open.spotify.com/track/0f9AquQUA8NaCo4yZR3oTj"
+    },
+    {
+      "album": {
+        "name": "Daayra",
+        "url": "https://open.spotify.com/album/3QQhDdanpaBO8M2AmtFZTu"
+      },
+      "artists": [
+        {
+          "name": "Raj Mohan",
+          "url": "https://open.spotify.com/artist/6q9e4Kaz8B1rWUhn90FKHH"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 201853,
+      "name": "Kaise Boli",
+      "url": "https://open.spotify.com/track/6ZkkWGxh53dwgzN8VKa7fZ"
+    },
+    {
+      "album": {
+        "name": "Dui Mutthi",
+        "url": "https://open.spotify.com/album/36iXCe2LDP7eKjptNACbVy"
+      },
+      "artists": [
+        {
+          "name": "Raj Mohan",
+          "url": "https://open.spotify.com/artist/6q9e4Kaz8B1rWUhn90FKHH"
+        },
+        {
+          "name": "Lourens van Haaften",
+          "url": "https://open.spotify.com/artist/4OXNlJwB0dS3OHKEy7fvcZ"
+        },
+        {
+          "name": "Pim van Ham",
+          "url": "https://open.spotify.com/artist/0g0hjwO0mOKmlgCnuuNWyj"
+        },
+        {
+          "name": "Suresh Sardjoe",
+          "url": "https://open.spotify.com/artist/7b35P4xYiYSBqIK6R6Eu7X"
+        },
+        {
+          "name": "Mark Alban Lotz",
+          "url": "https://open.spotify.com/artist/4BT7pe28q1DoqZ2RAGdqoL"
+        },
+        {
+          "name": "Marco Van Os",
+          "url": "https://open.spotify.com/artist/2iQp9PXU3p3B6Hkh3Ubqf0"
+        },
+        {
+          "name": "Floor Wittink",
+          "url": "https://open.spotify.com/artist/3LKc3qlrI8DU7TdGMtj4z0"
+        },
+        {
+          "name": "Brechtje Roos",
+          "url": "https://open.spotify.com/artist/58w6eh2rPTb7lmgym8eqAg"
+        },
+        {
+          "name": "Hermine Schneider",
+          "url": "https://open.spotify.com/artist/5hggtrKT48o2dHiXqpPdP8"
+        },
+        {
+          "name": "Zapp4 String Quartet",
+          "url": "https://open.spotify.com/artist/79ViaraJqaTKddHQHEv5qy"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 263346,
+      "name": "Kantr\u00e1ki",
+      "url": "https://open.spotify.com/track/0w0qYgNDgQapQ6Y43gBrTg"
+    },
+    {
+      "album": {
+        "name": "Chutney Party Mix",
+        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
+      },
+      "artists": [
+        {
+          "name": "Ameena Ramsaran",
+          "url": "https://open.spotify.com/artist/13oaDW0k8DbnU6HJ4n7I3v"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339133,
+      "name": "Kariaiyan Na Toro",
+      "url": "https://open.spotify.com/track/63dPUEVIPdpwhML1EVS4CX"
+    },
+    {
+      "album": {
+        "name": "Kaylat Raha",
+        "url": "https://open.spotify.com/album/3UwRZEzfyvvQ9fvx5DIf7O"
+      },
+      "artists": [
+        {
+          "name": "Sally Sagram",
+          "url": "https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "Kaylat Raha",
+      "url": "https://open.spotify.com/track/1ynopzLTx72TqrkD9KyZLr"
+    },
+    {
+      "album": {
+        "name": "Chutney Party Mix",
+        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
+      },
+      "artists": [
+        {
+          "name": "Cecil Funrose",
+          "url": "https://open.spotify.com/artist/3wRM9dajPobZCh8VKpRxhR"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 276306,
+      "name": "Kirk Na Din",
+      "url": "https://open.spotify.com/track/5CHZlrPJRkmNVfzMyqt3mT"
+    },
+    {
+      "album": {
+        "name": "Lago Tore Paiya",
+        "url": "https://open.spotify.com/album/3LfDkwVOjVBEqFexB1va1i"
+      },
+      "artists": [
+        {
+          "name": "Nishard M",
+          "url": "https://open.spotify.com/artist/6z6RdNPFBjmUIsstVgTzqi"
+        },
+        {
+          "name": "Raymond Ramnarine",
+          "url": "https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 221074,
+      "name": "Lago Tore Paiya",
+      "url": "https://open.spotify.com/track/30QugxPxe1wtt7e7o0yoQz"
+    },
+    {
+      "album": {
+        "name": "Lago Tore Paiya",
+        "url": "https://open.spotify.com/album/0t0l1mRGOfyhFn1Ddvrb0I"
+      },
+      "artists": [
+        {
+          "name": "Nishard M",
+          "url": "https://open.spotify.com/artist/6z6RdNPFBjmUIsstVgTzqi"
+        },
+        {
+          "name": "Raymond Ramnarine",
+          "url": "https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 221074,
+      "name": "Lago Tore Paiya",
+      "url": "https://open.spotify.com/track/4kIvWWW7DVn5dNE5dZsTGK"
+    },
+    {
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/2smg9m98tURDyPbgN5b61p"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201163,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/5Ry1vM7AHWyygE3TDq8Gco"
+    },
+    {
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3t4xXfaFVDuqArHeCl2P2R"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 201163,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/6e5mgv3aosMtxjI15UssZp"
+    },
+    {
+      "album": {
+        "name": "Chutney Party Mix",
+        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
+      },
+      "artists": [
+        {
+          "name": "Sonny Man",
+          "url": "https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302426,
+      "name": "Loota La",
+      "url": "https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2",
+        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
+      },
+      "artists": [
+        {
+          "name": "Sonny Mann",
+          "url": "https://open.spotify.com/artist/7ISdKLHNOk7qDf9vIRwCa0"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302360,
+      "name": "Lootala",
+      "url": "https://open.spotify.com/track/1XbEmKkEdifeicWVbhbS3T"
+    },
+    {
+      "album": {
+        "name": "Explosive Moods",
+        "url": "https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag"
+      },
+      "artists": [
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300386,
+      "name": "Mohan Bina Gowna",
+      "url": "https://open.spotify.com/track/03qQAIUvSjPUzeonHQvjgY"
+    },
+    {
+      "album": {
+        "name": "The Xtatik Experience",
+        "url": "https://open.spotify.com/album/5CYbWsXSKUZ9lAZNeRNFVf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Rikki Jai",
+          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274626,
+      "name": "Mor Tor",
+      "url": "https://open.spotify.com/track/7oCilb334fFHHuYlpDE4RR"
+    },
+    {
+      "album": {
+        "name": "The Xtatik Experience",
+        "url": "https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Rikki Jai",
+          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 274626,
+      "name": "Mor Tor (feat. Rikki Jai)",
+      "url": "https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg"
+    },
+    {
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/0rOjGQxlQiNdFOzG30pCyX"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 201893,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/0WYb24evCLcxM68UKSAL6I"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2",
+        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
+      },
+      "artists": [
+        {
+          "name": "Drupatee",
+          "url": "https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 405093,
+      "name": "Mr Bissessar",
+      "url": "https://open.spotify.com/track/0Jj7sZ5QmuYh7kB8vxYEo8"
+    },
+    {
+      "album": {
+        "name": "Sundar Popo Greatest Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323693,
+      "name": "Naina Bandh",
+      "url": "https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Sundar Popo",
+        "url": "https://open.spotify.com/album/4LIBROVNLxLDZo4s32GiEC"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354746,
+      "name": "Nana & Nani",
+      "url": "https://open.spotify.com/track/6KCWJcmmtYMjZMgi4kAiyD"
+    },
+    {
+      "album": {
+        "name": "Obeah",
+        "url": "https://open.spotify.com/album/2TpAmI2KjKOO5LjEFhlRFe"
+      },
+      "artists": [
+        {
+          "name": "Ravi Babooram",
+          "url": "https://open.spotify.com/artist/53XwITiWYQMEoBE0sGqDZq"
+        },
+        {
+          "name": "Veekash",
+          "url": "https://open.spotify.com/artist/50u1YYfkoHXdbka6mc0IBR"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 227448,
+      "name": "Obeah",
+      "url": "https://open.spotify.com/track/63L6PQnx0IZnYzC6OOxskn"
+    },
+    {
+      "album": {
+        "name": "Drupatee Ramgoonai",
+        "url": "https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz"
+      },
+      "artists": [
+        {
+          "name": "Drupatee Ramgoonai",
+          "url": "https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264440,
+      "name": "Omere",
+      "url": "https://open.spotify.com/track/3tFQKzmd075MoWRYzph1pN"
+    },
+    {
+      "album": {
+        "name": "This Is Chutney",
+        "url": "https://open.spotify.com/album/1b1HzGS82dLZMBfYBbXVuF"
+      },
+      "artists": [
+        {
+          "name": "Rasika Dindial",
+          "url": "https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 212146,
+      "name": "Phoolan Kee Bahar",
+      "url": "https://open.spotify.com/track/65AHaeFpvuqSzZN21imPAT"
+    },
+    {
+      "album": {
+        "name": "This Is Chutney",
+        "url": "https://open.spotify.com/album/5Fmp7GwRXHWqxOwigb8Ywo"
+      },
+      "artists": [
+        {
+          "name": "Rasika Dindial",
+          "url": "https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 212146,
+      "name": "Phoolan Kee Bahar",
+      "url": "https://open.spotify.com/track/7nDjhlHgqmCK0WSym7E90m"
+    },
+    {
+      "album": {
+        "name": "Rise of a New King",
+        "url": "https://open.spotify.com/album/47ZPIYAGwct5LotU50oetq"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 179488,
+      "name": "Player",
+      "url": "https://open.spotify.com/track/3csfBEXjBNWz5FsKHyPsG8"
+    },
+    {
+      "album": {
+        "name": "Police",
+        "url": "https://open.spotify.com/album/6yQzV3QWccKKNZznWMLkAJ"
+      },
+      "artists": [
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 254615,
+      "name": "Police",
+      "url": "https://open.spotify.com/track/68YxGoLU3ahf6fg0Y36OXX"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2013",
+        "url": "https://open.spotify.com/album/3P4NsDb4H3rL9YSiLoFuSS"
+      },
+      "artists": [
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Prescription",
+      "url": "https://open.spotify.com/track/4LKcY2x9F64lJmr3qeNhBm"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2010",
+        "url": "https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1"
+      },
+      "artists": [
+        {
+          "name": "Hunter & Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/3oqsqsVc5IxwU2hX7qFSNM"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 265360,
+      "name": "Puncheon",
+      "url": "https://open.spotify.com/track/25AglYxsUwF2I1G506jOQZ"
+    },
+    {
+      "album": {
+        "name": "Elements of Chutney",
+        "url": "https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8"
+      },
+      "artists": [
+        {
+          "name": "Anand Yankaran",
+          "url": "https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343760,
+      "name": "Pussur Pussur",
+      "url": "https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG"
+    },
+    {
+      "album": {
+        "name": "Sundar Popo Greatest Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 212680,
+      "name": "Raat Kay Sapna",
+      "url": "https://open.spotify.com/track/6bK5f9cYKD3wdB9sbbp5da"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2009",
+        "url": "https://open.spotify.com/album/7cuPfx45vZRitCnf6mIpra"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Salick",
+          "url": "https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-15",
+      "duration_ms": 261266,
+      "name": "Radica",
+      "url": "https://open.spotify.com/track/2IiLuq9XbkC2JzbZM4QO22"
+    },
+    {
+      "album": {
+        "name": "Radica",
+        "url": "https://open.spotify.com/album/3YfmVhke219CS6MGDYjnKt"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Salick",
+          "url": "https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264346,
+      "name": "Radica",
+      "url": "https://open.spotify.com/track/15D65PvgOtMSNCNsPWNZUU"
+    },
+    {
+      "album": {
+        "name": "Ramsingh",
+        "url": "https://open.spotify.com/album/7IAzgQeohs1L7CvNPmxJYz"
+      },
+      "artists": [
+        {
+          "name": "Omardath Maharaj",
+          "url": "https://open.spotify.com/artist/2ucwlWOsuVNoYQbVswk9Sz"
+        },
+        {
+          "name": "Raymond Ramnarine",
+          "url": "https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 263110,
+      "name": "Ramsingh",
+      "url": "https://open.spotify.com/track/08D1EW2hCySkDVfr86E5lm"
+    },
+    {
+      "album": {
+        "name": "Karma Unleashed",
+        "url": "https://open.spotify.com/album/1Cq2RuKjDlOEobzvKpnPPc"
+      },
+      "artists": [
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        },
+        {
+          "name": "Karma the Band",
+          "url": "https://open.spotify.com/artist/52MoRnO0o1FgFRlFrNhc4E"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 272823,
+      "name": "Rum Is Meh Lover",
+      "url": "https://open.spotify.com/track/3KJotqUtXAGkgd97zVEQM4"
+    },
+    {
+      "album": {
+        "name": "Rum Till I Die",
+        "url": "https://open.spotify.com/album/0cJYhcoXcJOqlBpa7BOUTW"
+      },
+      "artists": [
+        {
+          "name": "Adesh Samaroo",
+          "url": "https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 296866,
+      "name": "Rum Till I Die",
+      "url": "https://open.spotify.com/track/5PTDSq4XPr4EQBhsCA8CKQ"
+    },
+    {
+      "album": {
+        "name": "Sundar Soca",
+        "url": "https://open.spotify.com/album/2a8UdL4RPbeJPBVyMZFMbX"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Saagar Paaniya Kay Gailay Ho Dono Jaana Na",
+      "url": "https://open.spotify.com/track/2wfwUwXIA0veMyh6vNCM3M"
+    },
+    {
+      "album": {
+        "name": "Sundar Soca",
+        "url": "https://open.spotify.com/album/2a8UdL4RPbeJPBVyMZFMbX"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Saiyan Toray",
+      "url": "https://open.spotify.com/track/3gzcu3KSs6NvikMaUQP7e0"
+    },
+    {
+      "album": {
+        "name": "Single (Chutney Version)",
+        "url": "https://open.spotify.com/album/7txbcoI2acsjixuAmmAeKS"
+      },
+      "artists": [
+        {
+          "name": "Orlando Octave",
+          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
+        },
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 180923,
+      "name": "Single (Chutney Version)",
+      "url": "https://open.spotify.com/track/25uIi1sQkkc1cMe8IysPhG"
+    },
+    {
+      "album": {
+        "name": "Soca Gold 2003",
+        "url": "https://open.spotify.com/album/5Eg7rfQh9NtDvffZ1yyyyP"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin & Shammi",
+          "url": "https://open.spotify.com/artist/6EE3XVTI99bu42FHGzTziR"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 236133,
+      "name": "Soca Bhangra",
+      "url": "https://open.spotify.com/track/1hEDFirSFxTFM4p6FHbSL5"
+    },
+    {
+      "album": {
+        "name": "Karmageddon",
+        "url": "https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        },
+        {
+          "name": "Andy Singh",
+          "url": "https://open.spotify.com/artist/3EyhGbKjTvUKakWogowSiz"
+        },
+        {
+          "name": "Hitman",
+          "url": "https://open.spotify.com/artist/7v1sbPiulgV8DjbanWz8VG"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300696,
+      "name": "Tek Meh Gul (feat. Hitman & Andy Singh)",
+      "url": "https://open.spotify.com/track/76bp1DQTIHFWdWGFc9yOyz"
+    },
+    {
+      "album": {
+        "name": "Karmageddon",
+        "url": "https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        },
+        {
+          "name": "Neeshan Prabhoo",
+          "url": "https://open.spotify.com/artist/6cqqpiOe197K2rEGTzEsIs"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 196572,
+      "name": "Tell Where Yuh From (feat. Neeshan Prabhoo)",
+      "url": "https://open.spotify.com/track/1mr68zqTjj5tHRVUkSyGfa"
+    },
+    {
+      "album": {
+        "name": "Chutney",
+        "url": "https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS"
+      },
+      "artists": [
+        {
+          "name": "Shelly G",
+          "url": "https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211394,
+      "name": "This Gyal Claim",
+      "url": "https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO"
+    },
+    {
+      "album": {
+        "name": "Kantr\u00e1ki / Contract Labourer",
+        "url": "https://open.spotify.com/album/6dP0XhtwqilpImIPxApFoN"
+      },
+      "artists": [
+        {
+          "name": "Raj Mohan",
+          "url": "https://open.spotify.com/artist/6q9e4Kaz8B1rWUhn90FKHH"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 283440,
+      "name": "Tu tani se lage hai",
+      "url": "https://open.spotify.com/track/00vleY8Bli2zfCLsmBjb6B"
+    },
+    {
+      "album": {
+        "name": "Karma Unleashed",
+        "url": "https://open.spotify.com/album/1Cq2RuKjDlOEobzvKpnPPc"
+      },
+      "artists": [
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        },
+        {
+          "name": "Karma the Band",
+          "url": "https://open.spotify.com/artist/52MoRnO0o1FgFRlFrNhc4E"
+        },
+        {
+          "name": "Kees",
+          "url": "https://open.spotify.com/artist/1gosPmtnE4fZcPbQb6QjTM"
+        },
+        {
+          "name": "Nisha Bissambhar",
+          "url": "https://open.spotify.com/artist/5zaF9yRIWE1zhToYvdzwRn"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 226456,
+      "name": "Wine on Me",
+      "url": "https://open.spotify.com/track/1AWYz94FX04hFocOxUwqFz"
+    },
+    {
+      "album": {
+        "name": "Yard Fowl",
+        "url": "https://open.spotify.com/album/5HZXzchA8gyOYaCujmpxTd"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Salick",
+          "url": "https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6"
+        },
+        {
+          "name": "Raymond Ramnarine",
+          "url": "https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "Yard Fowl",
+      "url": "https://open.spotify.com/track/0ig6iNhu240WdlFNdEO8z6"
+    },
+    {
+      "album": {
+        "name": "Yard Fowl",
+        "url": "https://open.spotify.com/album/66OX7dotLuIJuR5XOcrGEr"
+      },
+      "artists": [
+        {
+          "name": "Raymond Ramnarine",
+          "url": "https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI"
+        },
+        {
+          "name": "Kenneth Salick",
+          "url": "https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 238053,
+      "name": "Yard Fowl",
+      "url": "https://open.spotify.com/track/6YOozIEU54Llwp9nXczxBW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWXmRdYIgq8J"
 }

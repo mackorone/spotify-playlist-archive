@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qVlPzYQL5d.md) - [plain]
 
 > A stress\-free, calming introduction to Mozart, perfect for relaxation, study, and all sorts of mindful activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,490 likes - 53 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,349 likes - 53 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,165 +1,1673 @@
 {
-  "2023-07-23": 281360,
-  "2023-07-24": 281526,
-  "2023-07-25": 281627,
-  "2023-07-26": 281714,
-  "2023-07-27": 281788,
-  "2023-07-28": 281867,
-  "2023-07-29": 281988,
-  "2023-07-30": 282111,
-  "2023-07-31": 282229,
-  "2023-08-01": 282326,
-  "2023-08-02": 282439,
-  "2023-08-03": 282576,
-  "2023-08-04": 282715,
-  "2023-08-05": 282856,
-  "2023-08-06": 283146,
-  "2023-08-07": 283146,
-  "2023-08-08": 283227,
-  "2023-08-09": 283313,
-  "2023-08-10": 283402,
-  "2023-08-11": 283495,
-  "2023-08-12": 283603,
-  "2023-08-13": 283781,
-  "2023-08-14": 283914,
-  "2023-08-15": 284160,
-  "2023-08-16": 284160,
-  "2023-08-17": 284262,
-  "2023-08-18": 284396,
-  "2023-08-19": 284540,
-  "2023-08-20": 284696,
-  "2023-08-21": 284828,
-  "2023-08-22": 284941,
-  "2023-08-23": 285030,
-  "2023-08-24": 285122,
-  "2023-08-25": 285228,
-  "2023-08-26": 285341,
-  "2023-08-27": 285442,
-  "2023-08-28": 285564,
-  "2023-08-29": 285680,
-  "2023-08-30": 285792,
-  "2023-08-31": 285886,
-  "2023-09-01": 286214,
-  "2023-09-02": 286214,
-  "2023-09-03": 286388,
-  "2023-09-04": 286550,
-  "2023-09-05": 286613,
-  "2023-09-06": 286707,
-  "2023-09-07": 286831,
-  "2023-09-08": 286994,
-  "2023-09-09": 287246,
-  "2023-09-10": 287406,
-  "2023-09-11": 287556,
-  "2023-09-12": 287637,
-  "2023-09-13": 287741,
-  "2023-09-14": 287847,
-  "2023-09-15": 287959,
-  "2023-09-16": 288058,
-  "2023-09-17": 288166,
-  "2023-09-18": 288265,
-  "2023-09-19": 288380,
-  "2023-09-20": 288480,
-  "2023-09-21": 288565,
-  "2023-09-22": 288659,
-  "2023-09-23": 288715,
-  "2023-09-24": 288776,
-  "2023-09-25": 288881,
-  "2023-09-26": 288977,
-  "2023-09-27": 289054,
-  "2023-09-28": 289163,
-  "2023-09-29": 289256,
-  "2023-09-30": 289402,
-  "2023-10-01": 289521,
-  "2023-10-02": 289648,
-  "2023-10-03": 289719,
-  "2023-10-04": 289779,
-  "2023-10-05": 289855,
-  "2023-10-06": 289911,
-  "2023-10-07": 290041,
-  "2023-10-08": 290143,
-  "2023-10-09": 290233,
-  "2023-10-10": 290258,
-  "2023-10-11": 290350,
-  "2023-10-12": 290350,
-  "2023-10-13": 290412,
-  "2023-10-14": 290433,
-  "2023-10-15": 290486,
-  "2023-10-16": 290583,
-  "2023-10-17": 290648,
-  "2023-10-18": 290678,
-  "2023-10-19": 290729,
-  "2023-10-20": 290799,
-  "2023-10-21": 290885,
-  "2023-10-22": 290975,
-  "2023-10-23": 291046,
-  "2023-10-24": 291092,
-  "2023-10-25": 291156,
-  "2023-10-26": 291258,
-  "2023-10-27": 291342,
-  "2023-10-28": 291462,
-  "2023-10-29": 291551,
-  "2023-10-30": 291719,
-  "2023-10-31": 291719,
-  "2023-11-01": 291788,
-  "2023-11-02": 291890,
-  "2023-11-03": 291981,
-  "2023-11-04": 292054,
-  "2023-11-05": 292130,
-  "2023-11-06": 292202,
-  "2023-11-07": 292248,
-  "2023-11-08": 292327,
-  "2023-11-09": 292401,
-  "2023-11-10": 292500,
-  "2023-11-11": 292574,
-  "2023-11-12": 292649,
-  "2023-11-13": 292724,
-  "2023-11-14": 292777,
-  "2023-11-15": 292777,
-  "2023-11-16": 292937,
-  "2023-11-17": 293063,
-  "2023-11-18": 293063,
-  "2023-11-19": 293133,
-  "2023-11-20": 293219,
-  "2023-11-21": 293305,
-  "2023-11-22": 293381,
-  "2023-11-23": 293434,
-  "2023-11-24": 293500,
-  "2023-11-25": 293580,
-  "2023-11-26": 293672,
-  "2023-11-27": 293768,
-  "2023-11-28": 293833,
-  "2023-11-29": 293947,
-  "2023-11-30": 293947,
-  "2023-12-01": 294007,
-  "2023-12-02": 294104,
-  "2023-12-03": 294186,
-  "2023-12-04": 294280,
-  "2023-12-05": 294314,
-  "2023-12-06": 294379,
-  "2023-12-07": 294425,
-  "2023-12-08": 294494,
-  "2023-12-09": 294579,
-  "2023-12-10": 294664,
-  "2023-12-11": 294730,
-  "2023-12-12": 294764,
-  "2023-12-13": 294805,
-  "2023-12-14": 294871,
-  "2023-12-15": 294918,
-  "2023-12-16": 294976,
-  "2023-12-17": 295033,
-  "2023-12-18": 295099,
-  "2023-12-19": 295150,
-  "2023-12-20": 295214,
-  "2023-12-21": 295273,
-  "2023-12-22": 295371,
-  "2023-12-23": 295489,
-  "2023-12-24": 295567,
-  "2023-12-25": 295651,
-  "2023-12-26": 295732,
-  "2023-12-27": 295777,
-  "2023-12-30": 296010,
-  "2023-12-31": 296083,
-  "2024-01-01": 296131,
-  "2024-01-02": 296190,
-  "2024-01-03": 296255
+  "2024-01-17": 296881,
+  "date_first_scraped": "2023-07-23",
+  "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
+  "name": "Rock Ac\u00fastico",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "A Mais Pedida - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6kCGzPmsyJkzs0UnbXjply"
+    },
+    {
+      "album": {
+        "name": "Acustico (Live)",
+        "url": "https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212293,
+      "name": "Agora S\u00f3 Falta Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY"
+    },
+    {
+      "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215898,
+      "name": "Aposta - Ao Vivo",
+      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
+    },
+    {
+      "album": {
+        "name": "Are You Gonna Be My Girl",
+        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "Are You Gonna Be My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
+    },
+    {
+      "album": {
+        "name": "Bad Guy (Acoustic)",
+        "url": "https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi"
+      },
+      "artists": [
+        {
+          "name": "Luana Camarah",
+          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161589,
+      "name": "Bad Guy - Acoustic",
+      "url": "https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV"
+    },
+    {
+      "album": {
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187970,
+      "name": "Basket Case - 4-track demo",
+      "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
+    },
+    {
+      "album": {
+        "name": "Behind Your Walls",
+        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "Behind Your Walls - Acoustic",
+      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
+    },
+    {
+      "album": {
+        "name": "Pearl Jam Twenty Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339960,
+      "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
+      "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330840,
+      "name": "Black - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
+    },
+    {
+      "album": {
+        "name": "RoncaRonca Apresenta Os Paralamas do Sucesso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4I2EcdKiwes6vePNcrPSKz"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242109,
+      "name": "Caleidosc\u00f3pio (Ao Vivo)",
+      "url": "https://open.spotify.com/track/416HxK0h0JoSI6Qcgf0UMi"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo / Remastered)",
+        "url": "https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256466,
+      "name": "Caleidosc\u00f3pio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL"
+    },
+    {
+      "album": {
+        "name": "Can You Hear Me (Acoustic)",
+        "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174125,
+      "name": "Can You Hear Me - Acoustic",
+      "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
+    },
+    {
+      "album": {
+        "name": "Outros",
+        "url": "https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0"
+      },
+      "artists": [
+        {
+          "name": "Nenhum De N\u00f3s",
+          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242253,
+      "name": "Can\u00e7\u00e3o Da Meia Noite",
+      "url": "https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ"
+    },
+    {
+      "album": {
+        "name": "City Of Angels (Piano Version)",
+        "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262185,
+      "name": "City Of Angels - Piano Version",
+      "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253906,
+      "name": "Come As You Are - Live",
+      "url": "https://open.spotify.com/track/3sYWyVGfPuit80szWXhrRA"
+    },
+    {
+      "album": {
+        "name": "Conflitos (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ha8mzXCyPKldZDuwHuTnJ"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Badau\u00ed",
+          "url": "https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
+      "duration_ms": 203045,
+      "name": "Conflitos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7fvhpffV4tyXlPZi1ywyqt"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Popular Cai\u00e7ara: Edi\u00e7\u00e3o Luxo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6oXMHZ4TuFId1OgRb4Eb3Y"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200071,
+      "name": "C\u00e9u Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw"
+    },
+    {
+      "album": {
+        "name": "A C\u00e9u Aberto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu"
+      },
+      "artists": [
+        {
+          "name": "Nenhum De N\u00f3s",
+          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "Dan\u00e7a do Tempo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO"
+    },
+    {
+      "album": {
+        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141136,
+      "name": "Dias de Luta, Dias de Gl\u00f3ria - Ao Vivo - Chegou Quem Faltava",
+      "url": "https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38"
+    },
+    {
+      "album": {
+        "name": "Infinito (Deluxe)",
+        "url": "https://open.spotify.com/album/7bU1XtWYGWwUM67onYDnMQ"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 357337,
+      "name": "Diga, parte 2 - Vers\u00e3o Studio62",
+      "url": "https://open.spotify.com/track/36eh8nZR1pOejJoHIXDfmB"
+    },
+    {
+      "album": {
+        "name": "Digital (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
+      },
+      "artists": [
+        {
+          "name": "Pirredy",
+          "url": "https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196023,
+      "name": "Digital - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Jota Quest",
+        "url": "https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323882,
+      "name": "Do Seu Lado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3wYP8mfPEMBmCjT3DcG2la"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
+    },
+    {
+      "album": {
+        "name": "Enquanto Ela N\u00e3o Chegar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208316,
+      "name": "Enquanto Ela N\u00e3o Chegar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx"
+    },
+    {
+      "album": {
+        "name": "Tit\u00e3s Trio Ac\u00fastico",
+        "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2qv04G7U63Tzhe0k9Dt2ys"
+    },
+    {
+      "album": {
+        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 213760,
+      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250906,
+      "name": "Everlong - Acoustic Version",
+      "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283800,
+      "name": "Every Time I Look At You - Live",
+      "url": "https://open.spotify.com/track/3LhCtPskSnxOhbcXkS0wXn"
+    },
+    {
+      "album": {
+        "name": "Perdida",
+        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261880,
+      "name": "Fare Thee Well",
+      "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
+    },
+    {
+      "album": {
+        "name": "Black Pumas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341053,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw"
+    },
+    {
+      "album": {
+        "name": "Fast Car b/w Fire",
+        "url": "https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 342815,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "Feel It Still - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
+    },
+    {
+      "album": {
+        "name": "Follow Me Around",
+        "url": "https://open.spotify.com/album/2vTAZfcTyauC6ZG29d6yB5"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319288,
+      "name": "Follow Me Around",
+      "url": "https://open.spotify.com/track/6zc5BnlGNETdLqsu2gK3y2"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1zNkENtarEag1002VNNhT7"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 303081,
+      "name": "Go Let It Out - Recorded At Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/1sbfciYGPMMqR5dwfT54KQ"
+    },
+    {
+      "album": {
+        "name": "Gold on the Ceiling (BBC Session)",
+        "url": "https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228163,
+      "name": "Gold on the Ceiling - BBC Session",
+      "url": "https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu"
+    },
+    {
+      "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
+    },
+    {
+      "album": {
+        "name": "Sex on the Beach (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ricardo",
+          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Milton Guedes",
+          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Hear Me Now - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk"
+    },
+    {
+      "album": {
+        "name": "Here Without You (Acoustic)",
+        "url": "https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232973,
+      "name": "Here Without You - Acoustic",
+      "url": "https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP"
+    },
+    {
+      "album": {
+        "name": "Live From Soho",
+        "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290266,
+      "name": "How to Save a Life - Live in NYC - 2009",
+      "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
+    },
+    {
+      "album": {
+        "name": "Keep the Village Alive (Deluxe)",
+        "url": "https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257453,
+      "name": "I Wanna Get Lost With You (Acoustic 2015)",
+      "url": "https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2"
+    },
+    {
+      "album": {
+        "name": "Acoustic Now",
+        "url": "https://open.spotify.com/album/3GeJxvKkvaozN1bg0QxZtt"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Ignorance - Acoustic Version",
+      "url": "https://open.spotify.com/track/3gwP9by92tR3CpMAhy0zqU"
+    },
+    {
+      "album": {
+        "name": "100 Greatest Acoustic Songs",
+        "url": "https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-01",
+      "duration_ms": 220840,
+      "name": "Ignorance - Acoustic Version",
+      "url": "https://open.spotify.com/track/6x9Sf1jBFcSeSvMEkdKbOz"
+    },
+    {
+      "album": {
+        "name": "Imprevis\u00edvel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188821,
+      "name": "Imprevis\u00edvel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/26A68nUfZ08rQSrwjSdcR5"
+      },
+      "artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258586,
+      "name": "Infinita Highway - Ao Vivo",
+      "url": "https://open.spotify.com/track/0yDvCGnKcBuv0ltINV0nuu"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263919,
+      "name": "Invisible - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw"
+    },
+    {
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233946,
+      "name": "Ironic - Live / Unplugged",
+      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
+    },
+    {
+      "album": {
+        "name": "J\u00e1 Vou Me Acostumar",
+        "url": "https://open.spotify.com/album/6kkPACmXiwyKhK4axxpH2s"
+      },
+      "artists": [
+        {
+          "name": "Tuono",
+          "url": "https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
+      "duration_ms": 242636,
+      "name": "J\u00e1 Vou Me Acostumar",
+      "url": "https://open.spotify.com/track/46AU10i9KATIFs9dVAv5oI"
+    },
+    {
+      "album": {
+        "name": "Pop Brasil das Antigas",
+        "url": "https://open.spotify.com/album/1hszah1arYRilCMPwvB6Ib"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 240799,
+      "name": "Malandragem - Ao Vivo",
+      "url": "https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN"
+    },
+    {
+      "album": {
+        "name": "M\u00fasicas de amor",
+        "url": "https://open.spotify.com/album/6vaiqih5PBwWPezVD3If7T"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240799,
+      "name": "Malandragem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eF6c8ZvbGgVCiMkHITcJE"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        },
+        {
+          "name": "Dinho Ouro Preto",
+          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291125,
+      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
+    },
+    {
+      "album": {
+        "name": "00070725 Live At Studio 606",
+        "url": "https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279453,
+      "name": "My Hero - Live at Studio 606 West, Northridge, CA - September 2007",
+      "url": "https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr"
+    },
+    {
+      "album": {
+        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
+        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256773,
+      "name": "N\u00e3o Olhe Pra Tr\u00e1s (feat. Lenine) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fs1QLFTJ09BEnMTj9xQ4Z"
+    },
+    {
+      "album": {
+        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-20",
+      "duration_ms": 256773,
+      "name": "N\u00e3o Olhe Pra Tr\u00e1s (feat. Lenine) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7CGbTwDDVA3TEj5sCVMfhb"
+    },
+    {
+      "album": {
+        "name": "Chor\u00e3o: Marginal Alado",
+        "url": "https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128106,
+      "name": "O Coro Vai Come - Ao Vivo",
+      "url": "https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
+      },
+      "artists": [
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247160,
+      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
+    },
+    {
+      "album": {
+        "name": "C\u00e1ssia Eller Em Casa",
+        "url": "https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257105,
+      "name": "O Segundo Sol - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9"
+    },
+    {
+      "album": {
+        "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
+        "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
+      },
+      "artists": [
+        {
+          "name": "Dado Villa-Lobos",
+          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
+        },
+        {
+          "name": "Paulinho Moska",
+          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227541,
+      "name": "O Teatro dos Vampiros",
+      "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico MTV",
+        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296773,
+      "name": "Os Cegos do Castelo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo Em S\u00e3o Paulo / 1999)",
+        "url": "https://open.spotify.com/album/1vx6Vefn21ZLVTdlymgqSg"
+      },
+      "artists": [
+        {
+          "name": "Legi\u00e3o Urbana",
+          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379306,
+      "name": "Pais E Filhos - Ao Vivo Em S\u00e3o Paulo / 1999",
+      "url": "https://open.spotify.com/track/08JSatvoYTwDDkMov7oHKA"
+    },
+    {
+      "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369915,
+      "name": "Pescador de ilus\u00f5es - Ao vivo",
+      "url": "https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY"
+    },
+    {
+      "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346973,
+      "name": "Plush - Live; MTV Unplugged, 11/17/93",
+      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
+    },
+    {
+      "album": {
+        "name": "Tit\u00e3s Trio Ac\u00fastico",
+        "url": "https://open.spotify.com/album/58SJ5GEjT0MCqPJWft7osf"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/27653ZiyisDWx0K25dH2Sa"
+    },
+    {
+      "album": {
+        "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 224080,
+      "name": "Pra Dizer Adeus - Trio Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8"
+    },
+    {
+      "album": {
+        "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
+        "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237743,
+      "name": "Pride (In The Name Of Love) - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
+    },
+    {
+      "album": {
+        "name": "Rock Ac\u00fastico Nacional",
+        "url": "https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-17",
+      "duration_ms": 151666,
+      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ChjgMHSdaPiWGSMmsIECN"
+    },
+    {
+      "album": {
+        "name": "Rock Brasileiro",
+        "url": "https://open.spotify.com/album/1RK1b09Jzt9c78iAU3o4lY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3la3tXndnn0xnlm8y1Z3Kv"
+    },
+    {
+      "album": {
+        "name": "Quando Eu Te Encontrar",
+        "url": "https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy"
+      },
+      "artists": [
+        {
+          "name": "Biquini Cavad\u00e3o",
+          "url": "https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220265,
+      "name": "Quando Eu Te Encontrar",
+      "url": "https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX"
+    },
+    {
+      "album": {
+        "name": "CPM 22 - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4"
+      },
+      "artists": [
+        {
+          "name": "CPM 22",
+          "url": "https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "Regina Let's Go - Live",
+      "url": "https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF"
+    },
+    {
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
+    },
+    {
+      "album": {
+        "name": "Toy (Toy:Box)",
+        "url": "https://open.spotify.com/album/0NFcvZO9xMAnYhPn3sfhBp"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 258530,
+      "name": "Shadow Man - Unplugged & Somewhat Slightly Electric Mix",
+      "url": "https://open.spotify.com/track/18wwNNbXchWt4jowT65YyY"
+    },
+    {
+      "album": {
+        "name": "Shadow Of The Day (Acoustic)",
+        "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
+      },
+      "artists": [
+        {
+          "name": "Jota John",
+          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198715,
+      "name": "Shadow Of The Day - Acoustic",
+      "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
+    },
+    {
+      "album": {
+        "name": "Into The Wild (Music For The Motion Picture)",
+        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236306,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183052,
+      "name": "Stand by Me - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
+    },
+    {
+      "album": {
+        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182933,
+      "name": "Straight From The Heart - Live at The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0FVwOZ7tlwwXSymeRyPfud"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396968,
+      "name": "Sweet Child O' Mine - Acoustic",
+      "url": "https://open.spotify.com/track/1Qq7Tq8zZHuelGv9LQE2Yy"
+    },
+    {
+      "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277693,
+      "name": "S\u00f3 por hoje / Tenis Roque",
+      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
+    },
+    {
+      "album": {
+        "name": "Take On Me (MTV Unplugged / Edit)",
+        "url": "https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "Take On Me - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
+      },
+      "artists": [
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        },
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258265,
+      "name": "Tarde Vazia (feat. Samuel Rosa) - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307233,
+      "name": "The Little Things That Give You Away - Recorded at Neptune Valley, LA",
+      "url": "https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 261093,
+      "name": "The Man Who Sold The World",
+      "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Vai Lembrar de Mim (Edi\u00e7\u00e3o Especial)",
+        "url": "https://open.spotify.com/album/0WE73xCoDYeWVoU7b7Trlb"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Voc\u00ea Vai Lembrar de Mim - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Ewm2wXpotQexuHUJqdLuR"
+    },
+    {
+      "album": {
+        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
+        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65965,
+      "name": "Welcome To The Sky (Intro) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 231496,
+      "name": "What's Going On - Recorded at Neptune Valley, LA",
+      "url": "https://open.spotify.com/track/2oCvlNPQ3EsLOBo1WkWz0K"
+    },
+    {
+      "album": {
+        "name": "What's My Age Again? (Acoustic)",
+        "url": "https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr"
+      },
+      "artists": [
+        {
+          "name": "Jota John",
+          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146105,
+      "name": "What's My Age Again? - Acoustic",
+      "url": "https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh"
+    },
+    {
+      "album": {
+        "name": "12\" Masters - The Essential Mixes",
+        "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 237533,
+      "name": "When You're Gone - Acoustic Version",
+      "url": "https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon"
+    },
+    {
+      "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        },
+        {
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331293,
+      "name": "Wind of Change (with Morten Harket) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4iKTbuGckmJaWQAyKDR7Q7"
+    },
+    {
+      "album": {
+        "name": "With Or Without You (Songs Of Surrender)",
+        "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194812,
+      "name": "With Or Without You - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXZo3QlWdchi"
 }

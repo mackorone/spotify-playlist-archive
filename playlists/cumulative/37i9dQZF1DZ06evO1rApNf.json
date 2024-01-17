@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "OUCH",
+      "url": "https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun"
+    },
+    {
+      "album": {
         "name": "PAP\u00c1S",
         "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
       },
@@ -1270,10 +1288,32 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 174480,
       "name": "Vas a Destrozarme",
       "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"
+    },
+    {
+      "album": {
+        "name": "Vas a Destrozarme (Versi\u00f3n Eden Mu\u00f1oz)",
+        "url": "https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177654,
+      "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
+      "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
     },
     {
       "album": {

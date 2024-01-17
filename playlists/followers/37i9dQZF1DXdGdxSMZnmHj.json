@@ -1,577 +1,1799 @@
 {
-  "2022-06-02": 15610,
-  "2022-06-03": 15641,
-  "2022-06-04": 15680,
-  "2022-06-05": 15718,
-  "2022-06-06": 15763,
-  "2022-06-07": 15798,
-  "2022-06-08": 15831,
-  "2022-06-09": 15857,
-  "2022-06-10": 15900,
-  "2022-06-11": 15933,
-  "2022-06-12": 15969,
-  "2022-06-13": 16008,
-  "2022-06-14": 16038,
-  "2022-06-15": 16068,
-  "2022-06-16": 16102,
-  "2022-06-17": 16129,
-  "2022-06-18": 16156,
-  "2022-06-19": 16257,
-  "2022-06-20": 16257,
-  "2022-06-21": 16282,
-  "2022-06-22": 16351,
-  "2022-06-23": 16351,
-  "2022-06-24": 16388,
-  "2022-06-25": 16428,
-  "2022-06-26": 16470,
-  "2022-06-27": 16516,
-  "2022-06-28": 16549,
-  "2022-06-29": 16587,
-  "2022-06-30": 16620,
-  "2022-07-01": 16657,
-  "2022-07-02": 16695,
-  "2022-07-03": 16739,
-  "2022-07-04": 16776,
-  "2022-07-05": 16828,
-  "2022-07-06": 16852,
-  "2022-07-07": 16879,
-  "2022-07-08": 16912,
-  "2022-07-09": 16941,
-  "2022-07-10": 16998,
-  "2022-07-11": 17051,
-  "2022-07-12": 17086,
-  "2022-07-13": 17113,
-  "2022-07-14": 17130,
-  "2022-07-15": 17163,
-  "2022-07-16": 17197,
-  "2022-07-17": 17236,
-  "2022-07-18": 17281,
-  "2022-07-19": 17322,
-  "2022-07-20": 17346,
-  "2022-07-21": 17373,
-  "2022-07-22": 17397,
-  "2022-07-23": 17425,
-  "2022-07-24": 17467,
-  "2022-07-25": 17504,
-  "2022-07-26": 17536,
-  "2022-07-27": 17607,
-  "2022-07-28": 17643,
-  "2022-07-29": 17683,
-  "2022-07-30": 17740,
-  "2022-07-31": 17740,
-  "2022-08-01": 17790,
-  "2022-08-02": 17840,
-  "2022-08-03": 17840,
-  "2022-08-04": 17859,
-  "2022-08-05": 17885,
-  "2022-08-06": 17905,
-  "2022-08-07": 17945,
-  "2022-08-08": 17991,
-  "2022-08-09": 18023,
-  "2022-08-10": 18054,
-  "2022-08-11": 18088,
-  "2022-08-12": 18105,
-  "2022-08-13": 18151,
-  "2022-08-14": 18179,
-  "2022-08-15": 18219,
-  "2022-08-16": 18245,
-  "2022-08-17": 18262,
-  "2022-08-18": 18273,
-  "2022-08-19": 18293,
-  "2022-08-20": 18316,
-  "2022-08-21": 18355,
-  "2022-08-22": 18381,
-  "2022-08-23": 18401,
-  "2022-08-24": 18431,
-  "2022-08-25": 18458,
-  "2022-08-26": 18507,
-  "2022-08-27": 18532,
-  "2022-08-28": 18551,
-  "2022-08-29": 18580,
-  "2022-08-30": 18598,
-  "2022-08-31": 18594,
-  "2022-09-01": 18583,
-  "2022-09-02": 18574,
-  "2022-09-03": 18573,
-  "2022-09-04": 18584,
-  "2022-09-05": 18606,
-  "2022-09-06": 18626,
-  "2022-09-07": 18644,
-  "2022-09-09": 18683,
-  "2022-09-10": 18700,
-  "2022-09-11": 18730,
-  "2022-09-12": 18745,
-  "2022-09-13": 18752,
-  "2022-09-15": 18771,
-  "2022-09-16": 18781,
-  "2022-09-17": 18791,
-  "2022-09-18": 18806,
-  "2022-09-19": 18815,
-  "2022-09-20": 18822,
-  "2022-09-21": 18841,
-  "2022-09-22": 18857,
-  "2022-09-23": 18864,
-  "2022-09-24": 18877,
-  "2022-09-25": 18893,
-  "2022-09-26": 18919,
-  "2022-09-27": 18921,
-  "2022-09-28": 18936,
-  "2022-09-29": 18943,
-  "2022-09-30": 18966,
-  "2022-10-01": 18989,
-  "2022-10-02": 19000,
-  "2022-10-03": 19011,
-  "2022-10-04": 19022,
-  "2022-10-05": 19030,
-  "2022-10-06": 19040,
-  "2022-10-07": 19061,
-  "2022-10-08": 19076,
-  "2022-10-09": 19098,
-  "2022-10-10": 19100,
-  "2022-10-11": 19107,
-  "2022-10-12": 19122,
-  "2022-10-13": 19134,
-  "2022-10-14": 19140,
-  "2022-10-15": 19149,
-  "2022-10-16": 19161,
-  "2022-10-17": 19173,
-  "2022-10-18": 19187,
-  "2022-10-19": 19204,
-  "2022-10-20": 19210,
-  "2022-10-21": 19227,
-  "2022-10-22": 19237,
-  "2022-10-23": 19252,
-  "2022-10-24": 19270,
-  "2022-10-25": 19283,
-  "2022-10-26": 19299,
-  "2022-10-27": 19314,
-  "2022-10-28": 19331,
-  "2022-10-29": 19334,
-  "2022-10-30": 19352,
-  "2022-10-31": 19368,
-  "2022-11-01": 19370,
-  "2022-11-02": 19383,
-  "2022-11-03": 19393,
-  "2022-11-04": 19409,
-  "2022-11-05": 19425,
-  "2022-11-06": 19441,
-  "2022-11-07": 19459,
-  "2022-11-08": 19475,
-  "2022-11-09": 19482,
-  "2022-11-10": 19498,
-  "2022-11-11": 19510,
-  "2022-11-12": 19530,
-  "2022-11-13": 19542,
-  "2022-11-14": 19549,
-  "2022-11-15": 19559,
-  "2022-11-16": 19571,
-  "2022-11-17": 19583,
-  "2022-11-18": 19590,
-  "2022-11-19": 19592,
-  "2022-11-20": 19603,
-  "2022-11-21": 19614,
-  "2022-11-22": 19629,
-  "2022-11-23": 19638,
-  "2022-11-24": 19662,
-  "2022-11-25": 19685,
-  "2022-11-26": 19697,
-  "2022-11-27": 19717,
-  "2022-11-28": 19731,
-  "2022-11-29": 19744,
-  "2022-11-30": 19755,
-  "2022-12-01": 19774,
-  "2022-12-02": 19778,
-  "2022-12-03": 19790,
-  "2022-12-04": 19810,
-  "2022-12-05": 19821,
-  "2022-12-06": 19828,
-  "2022-12-07": 19834,
-  "2022-12-08": 19845,
-  "2022-12-09": 19851,
-  "2022-12-10": 19864,
-  "2022-12-11": 19878,
-  "2022-12-12": 19887,
-  "2022-12-13": 19901,
-  "2022-12-14": 19917,
-  "2022-12-15": 19926,
-  "2022-12-16": 19940,
-  "2022-12-17": 19947,
-  "2022-12-18": 19956,
-  "2022-12-19": 19974,
-  "2022-12-20": 19994,
-  "2022-12-21": 19994,
-  "2022-12-22": 20006,
-  "2022-12-24": 20035,
-  "2022-12-25": 20047,
-  "2022-12-26": 20062,
-  "2022-12-27": 20077,
-  "2022-12-28": 20091,
-  "2022-12-29": 20103,
-  "2022-12-30": 20125,
-  "2022-12-31": 20143,
-  "2023-01-01": 20162,
-  "2023-01-02": 20170,
-  "2023-01-03": 20191,
-  "2023-01-04": 20195,
-  "2023-01-05": 20216,
-  "2023-01-06": 20246,
-  "2023-01-07": 20261,
-  "2023-01-08": 20269,
-  "2023-01-09": 20287,
-  "2023-01-10": 20302,
-  "2023-01-11": 20325,
-  "2023-01-12": 20341,
-  "2023-01-13": 20361,
-  "2023-01-14": 20395,
-  "2023-01-15": 20395,
-  "2023-01-16": 20404,
-  "2023-01-17": 20416,
-  "2023-01-18": 20430,
-  "2023-01-19": 20445,
-  "2023-01-20": 20452,
-  "2023-01-21": 20469,
-  "2023-01-22": 20492,
-  "2023-01-23": 20517,
-  "2023-01-24": 20535,
-  "2023-01-25": 20552,
-  "2023-01-26": 20564,
-  "2023-01-27": 20579,
-  "2023-01-28": 20592,
-  "2023-01-29": 20619,
-  "2023-01-30": 20636,
-  "2023-01-31": 20636,
-  "2023-02-01": 20668,
-  "2023-02-02": 20681,
-  "2023-02-03": 20704,
-  "2023-02-04": 20718,
-  "2023-02-05": 20732,
-  "2023-02-06": 20766,
-  "2023-02-07": 20781,
-  "2023-02-08": 20819,
-  "2023-02-09": 20819,
-  "2023-02-10": 20837,
-  "2023-02-11": 20856,
-  "2023-02-12": 20915,
-  "2023-02-13": 20936,
-  "2023-02-14": 20936,
-  "2023-02-15": 20951,
-  "2023-02-16": 20972,
-  "2023-02-17": 20981,
-  "2023-02-18": 21014,
-  "2023-02-19": 21018,
-  "2023-02-20": 21029,
-  "2023-02-21": 21053,
-  "2023-02-22": 21077,
-  "2023-02-23": 21103,
-  "2023-02-24": 21131,
-  "2023-02-25": 21161,
-  "2023-02-26": 21194,
-  "2023-02-27": 21256,
-  "2023-02-28": 21256,
-  "2023-03-01": 21275,
-  "2023-03-02": 21296,
-  "2023-03-03": 21326,
-  "2023-03-04": 21348,
-  "2023-03-05": 21428,
-  "2023-03-06": 21428,
-  "2023-03-07": 21456,
-  "2023-03-08": 21481,
-  "2023-03-09": 21511,
-  "2023-03-10": 21550,
-  "2023-03-11": 21584,
-  "2023-03-12": 21610,
-  "2023-03-13": 21632,
-  "2023-03-14": 21658,
-  "2023-03-15": 21678,
-  "2023-03-16": 21713,
-  "2023-03-17": 21713,
-  "2023-03-18": 21774,
-  "2023-03-19": 21805,
-  "2023-03-20": 21829,
-  "2023-03-21": 21857,
-  "2023-03-22": 21878,
-  "2023-03-23": 21896,
-  "2023-03-24": 21896,
-  "2023-03-25": 21943,
-  "2023-03-26": 21971,
-  "2023-03-27": 22004,
-  "2023-03-28": 22038,
-  "2023-03-29": 22063,
-  "2023-03-30": 22103,
-  "2023-03-31": 22103,
-  "2023-04-01": 22126,
-  "2023-04-02": 22160,
-  "2023-04-03": 22194,
-  "2023-04-04": 22220,
-  "2023-04-05": 22255,
-  "2023-04-06": 22287,
-  "2023-04-07": 22302,
-  "2023-04-09": 22368,
-  "2023-04-10": 22400,
-  "2023-04-11": 22455,
-  "2023-04-12": 22455,
-  "2023-04-13": 22496,
-  "2023-04-14": 22528,
-  "2023-04-15": 22558,
-  "2023-04-16": 22590,
-  "2023-04-17": 22627,
-  "2023-04-18": 22679,
-  "2023-04-19": 22717,
-  "2023-04-20": 22752,
-  "2023-04-21": 22786,
-  "2023-04-22": 22825,
-  "2023-04-23": 22860,
-  "2023-04-24": 22907,
-  "2023-04-25": 22942,
-  "2023-04-26": 23026,
-  "2023-04-27": 23120,
-  "2023-04-28": 23170,
-  "2023-04-29": 23223,
-  "2023-04-30": 23273,
-  "2023-05-01": 23319,
-  "2023-05-02": 23351,
-  "2023-05-03": 23380,
-  "2023-05-04": 23410,
-  "2023-05-05": 23442,
-  "2023-05-06": 23472,
-  "2023-05-07": 23506,
-  "2023-05-08": 23553,
-  "2023-05-09": 23580,
-  "2023-05-10": 23629,
-  "2023-05-11": 23659,
-  "2023-05-12": 23688,
-  "2023-05-13": 23733,
-  "2023-05-14": 23780,
-  "2023-05-15": 23832,
-  "2023-05-16": 23856,
-  "2023-05-17": 23882,
-  "2023-05-18": 23917,
-  "2023-05-19": 23951,
-  "2023-05-20": 24028,
-  "2023-05-21": 24028,
-  "2023-05-22": 24028,
-  "2023-05-23": 24116,
-  "2023-05-24": 24181,
-  "2023-05-25": 24188,
-  "2023-05-26": 24230,
-  "2023-05-27": 24277,
-  "2023-05-28": 24349,
-  "2023-05-29": 24349,
-  "2023-05-30": 24482,
-  "2023-05-31": 24526,
-  "2023-06-01": 24567,
-  "2023-06-02": 24614,
-  "2023-06-03": 24663,
-  "2023-06-04": 24739,
-  "2023-06-05": 24805,
-  "2023-06-06": 24858,
-  "2023-06-07": 24904,
-  "2023-06-08": 24958,
-  "2023-06-09": 25004,
-  "2023-06-10": 25063,
-  "2023-06-11": 25126,
-  "2023-06-12": 25182,
-  "2023-06-13": 25216,
-  "2023-06-14": 25259,
-  "2023-06-15": 25302,
-  "2023-06-16": 25329,
-  "2023-06-17": 25393,
-  "2023-06-18": 25462,
-  "2023-06-19": 25538,
-  "2023-06-20": 25597,
-  "2023-06-21": 25643,
-  "2023-06-22": 25696,
-  "2023-06-23": 25764,
-  "2023-06-24": 25824,
-  "2023-06-25": 25889,
-  "2023-06-26": 25955,
-  "2023-06-27": 26002,
-  "2023-06-28": 26043,
-  "2023-06-29": 26088,
-  "2023-06-30": 26136,
-  "2023-07-01": 26219,
-  "2023-07-02": 26219,
-  "2023-07-03": 26264,
-  "2023-07-04": 26315,
-  "2023-07-05": 26363,
-  "2023-07-06": 26465,
-  "2023-07-07": 26465,
-  "2023-07-08": 26511,
-  "2023-07-09": 26574,
-  "2023-07-10": 26628,
-  "2023-07-11": 26678,
-  "2023-07-12": 26713,
-  "2023-07-13": 26760,
-  "2023-07-14": 26796,
-  "2023-07-15": 26842,
-  "2023-07-16": 26905,
-  "2023-07-17": 26956,
-  "2023-07-18": 26994,
-  "2023-07-19": 27042,
-  "2023-07-20": 27072,
-  "2023-07-21": 27114,
-  "2023-07-22": 27160,
-  "2023-07-23": 27208,
-  "2023-07-24": 27257,
-  "2023-07-25": 27298,
-  "2023-07-26": 27332,
-  "2023-07-27": 27376,
-  "2023-07-28": 27415,
-  "2023-07-29": 27457,
-  "2023-07-30": 27511,
-  "2023-07-31": 27557,
-  "2023-08-01": 27586,
-  "2023-08-02": 27627,
-  "2023-08-03": 27668,
-  "2023-08-04": 27708,
-  "2023-08-05": 27738,
-  "2023-08-06": 27818,
-  "2023-08-07": 27818,
-  "2023-08-08": 27846,
-  "2023-08-09": 27886,
-  "2023-08-10": 27931,
-  "2023-08-11": 27978,
-  "2023-08-12": 28025,
-  "2023-08-13": 28072,
-  "2023-08-14": 28110,
-  "2023-08-15": 28175,
-  "2023-08-16": 28175,
-  "2023-08-17": 28202,
-  "2023-08-18": 28239,
-  "2023-08-19": 28279,
-  "2023-08-20": 28316,
-  "2023-08-21": 28355,
-  "2023-08-22": 28376,
-  "2023-08-23": 28406,
-  "2023-08-24": 28432,
-  "2023-08-25": 28465,
-  "2023-08-26": 28505,
-  "2023-08-27": 28534,
-  "2023-08-28": 28578,
-  "2023-08-29": 28595,
-  "2023-08-30": 28623,
-  "2023-08-31": 28653,
-  "2023-09-01": 28694,
-  "2023-09-02": 28694,
-  "2023-09-03": 28716,
-  "2023-09-04": 28732,
-  "2023-09-05": 28755,
-  "2023-09-06": 28768,
-  "2023-09-07": 28777,
-  "2023-09-08": 28792,
-  "2023-09-09": 28814,
-  "2023-09-10": 28832,
-  "2023-09-11": 28854,
-  "2023-09-12": 28854,
-  "2023-09-13": 28897,
-  "2023-09-14": 28897,
-  "2023-09-15": 28934,
-  "2023-09-16": 28942,
-  "2023-09-17": 28942,
-  "2023-09-18": 28942,
-  "2023-09-19": 28987,
-  "2023-09-20": 29005,
-  "2023-09-21": 29018,
-  "2023-09-22": 29038,
-  "2023-09-23": 29038,
-  "2023-09-24": 29038,
-  "2023-09-25": 29038,
-  "2023-09-26": 29111,
-  "2023-09-27": 29111,
-  "2023-09-28": 29136,
-  "2023-09-29": 29149,
-  "2023-09-30": 29149,
-  "2023-10-01": 29177,
-  "2023-10-02": 29189,
-  "2023-10-03": 29187,
-  "2023-10-04": 29190,
-  "2023-10-05": 29201,
-  "2023-10-06": 29205,
-  "2023-10-07": 29205,
-  "2023-10-08": 29224,
-  "2023-10-09": 29224,
-  "2023-10-10": 29224,
-  "2023-10-11": 29248,
-  "2023-10-12": 29248,
-  "2023-10-13": 29268,
-  "2023-10-14": 29268,
-  "2023-10-15": 29268,
-  "2023-10-16": 29268,
-  "2023-10-17": 29268,
-  "2023-10-18": 29268,
-  "2023-10-19": 29268,
-  "2023-10-20": 29268,
-  "2023-10-21": 29268,
-  "2023-10-22": 29268,
-  "2023-10-23": 29268,
-  "2023-10-24": 29370,
-  "2023-10-25": 29370,
-  "2023-10-26": 29370,
-  "2023-10-27": 29370,
-  "2023-10-28": 29370,
-  "2023-10-29": 29370,
-  "2023-10-30": 29370,
-  "2023-10-31": 29370,
-  "2023-11-01": 29370,
-  "2023-11-02": 29370,
-  "2023-11-03": 29370,
-  "2023-11-04": 29370,
-  "2023-11-05": 29370,
-  "2023-11-06": 29370,
-  "2023-11-07": 29370,
-  "2023-11-08": 29370,
-  "2023-11-09": 29370,
-  "2023-11-10": 29370,
-  "2023-11-11": 29518,
-  "2023-11-12": 29518,
-  "2023-11-13": 29518,
-  "2023-11-14": 29518,
-  "2023-11-15": 29518,
-  "2023-11-16": 29518,
-  "2023-11-17": 29568,
-  "2023-11-18": 29568,
-  "2023-11-19": 29568,
-  "2023-11-20": 29568,
-  "2023-11-21": 29568,
-  "2023-11-22": 29568,
-  "2023-11-23": 29609,
-  "2023-11-24": 29609,
-  "2023-11-25": 29609,
-  "2023-11-26": 29609,
-  "2023-11-27": 29609,
-  "2023-11-28": 29609,
-  "2023-11-29": 29609,
-  "2023-11-30": 29609,
-  "2023-12-01": 29609,
-  "2023-12-02": 29609,
-  "2023-12-03": 29609,
-  "2023-12-04": 29609,
-  "2023-12-05": 29609,
-  "2023-12-06": 29609,
-  "2023-12-07": 29609,
-  "2023-12-08": 29609,
-  "2023-12-09": 29609,
-  "2023-12-10": 29609,
-  "2023-12-11": 29751,
-  "2023-12-12": 29751,
-  "2023-12-13": 29751,
-  "2023-12-14": 29773,
-  "2023-12-15": 29775,
-  "2023-12-16": 29776,
-  "2023-12-17": 29786,
-  "2023-12-18": 29794,
-  "2023-12-19": 29799,
-  "2023-12-20": 29803,
-  "2023-12-21": 29812,
-  "2023-12-22": 29817,
-  "2023-12-23": 29827,
-  "2023-12-24": 29834,
-  "2023-12-25": 29848,
-  "2023-12-26": 29853,
-  "2023-12-27": 29860,
-  "2023-12-30": 29880,
-  "2023-12-31": 29886,
-  "2024-01-01": 29893,
-  "2024-01-02": 29900,
-  "2024-01-03": 29902
+  "2024-01-17": 30064,
+  "date_first_scraped": "2022-06-02",
+  "description": "Kick back to the sound of the Caribbean.",
+  "name": "Summertime Steel Drums",
+  "tracks": [
+    {
+      "album": {
+        "name": "Havana Daydreamin' and More Jimmy Buffett Favorites",
+        "url": "https://open.spotify.com/album/2v2Z2Pu8WEIR7yyonvprod"
+      },
+      "artists": [
+        {
+          "name": "The Carnival Steel Drum Band",
+          "url": "https://open.spotify.com/artist/1Ez5OXrB9MKmpJHxU6cruZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161080,
+      "name": "Boat Drinks",
+      "url": "https://open.spotify.com/track/4FH9q9BuC2T0cBBB4xCUP8"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247693,
+      "name": "Brown Girl in the Ring",
+      "url": "https://open.spotify.com/track/19OGKP3ssbEFaYAgBQVb8e"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247693,
+      "name": "Brown Girl in the Ring",
+      "url": "https://open.spotify.com/track/7tSbTGF93pwJtYtuOTATwy"
+    },
+    {
+      "album": {
+        "name": "Carribean Cocktail",
+        "url": "https://open.spotify.com/album/4oTLbOotBgJHxMNAD1udNt"
+      },
+      "artists": [
+        {
+          "name": "The Sunshine Sound Of The Steel Band",
+          "url": "https://open.spotify.com/artist/0RAwbFfClhYmOiGlEQn7dj"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146826,
+      "name": "Caribbean Surfer",
+      "url": "https://open.spotify.com/track/67A13fmXuH2jb5cbs7oRdx"
+    },
+    {
+      "album": {
+        "name": "Steel Drum Beach Party",
+        "url": "https://open.spotify.com/album/7qFltwMHGNNAH8D1hVTQkN"
+      },
+      "artists": [
+        {
+          "name": "The Island Caribbean Steel Drum Band",
+          "url": "https://open.spotify.com/artist/1kMdTqTrYy7FSVIoxhGFy2"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270320,
+      "name": "Cayman Gossip",
+      "url": "https://open.spotify.com/track/1CK7d5TBA9B2jtlz2x0KZE"
+    },
+    {
+      "album": {
+        "name": "Latin Steeldrums",
+        "url": "https://open.spotify.com/album/0yjA4MTN9RbYKs99s0R5DE"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Band",
+          "url": "https://open.spotify.com/artist/7e57ixmA2mGRLZuEBeuIja"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317400,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/0fxmZUIuDM7MTXq7GxUbFD"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/7JT3uzoWESKfgewNkHdhJp"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 317400,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/2LG6Q2gdg5yar4Me0sKYkT"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/0LCotcXEELAodsG5eDwQTc"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 317400,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/6wKriylCRUPdLxwy4pQTdq"
+    },
+    {
+      "album": {
+        "name": "Barbados Steel Drums",
+        "url": "https://open.spotify.com/album/3YBD5RqiV8zhxJfFPFqbDu"
+      },
+      "artists": [
+        {
+          "name": "Barbados Steel Drums",
+          "url": "https://open.spotify.com/artist/2xoK9wlFfcdZGYHasB6GV4"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/2kSMSjbAuarf2lTB7p3kMu"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        },
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176386,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/5KK6dXigojJANqmoRhL5tF"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176386,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3wSKF0MgD3lmAzie5InlK8"
+    },
+    {
+      "album": {
+        "name": "Discover Calypso",
+        "url": "https://open.spotify.com/album/1o1WfqYKOxEhrh44MT92gV"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 176386,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7dLaFcpOLAkmuEglg7njd3"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168720,
+      "name": "For Carnival",
+      "url": "https://open.spotify.com/track/18yhDdgiXbZQdcUAqlmmqX"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168720,
+      "name": "For Carnival",
+      "url": "https://open.spotify.com/track/7ChFeKxBVF3gpvaLmlV3Rf"
+    },
+    {
+      "album": {
+        "name": "Latin Steeldrums",
+        "url": "https://open.spotify.com/album/0yjA4MTN9RbYKs99s0R5DE"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Band",
+          "url": "https://open.spotify.com/artist/7e57ixmA2mGRLZuEBeuIja"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Francilia Teresa",
+      "url": "https://open.spotify.com/track/1rJKzR9dlftd9OHxCjH8cp"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/3itd53AcdcfmNKXDE5WoKu"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254000,
+      "name": "Francilia Teresa",
+      "url": "https://open.spotify.com/track/3l2jMTY1z4P4HjMRXCuEZG"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/6gZlK7tecSIz9nvh1rLhKt"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254000,
+      "name": "Francilia Teresa",
+      "url": "https://open.spotify.com/track/7JUYH6gfsHs7sFVbm31NRN"
+    },
+    {
+      "album": {
+        "name": "Ebony Steelband: Best of Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/2d0MsEU2uRgC4cWU37d4lf"
+      },
+      "artists": [
+        {
+          "name": "Ebony Steelband",
+          "url": "https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 678666,
+      "name": "Free up",
+      "url": "https://open.spotify.com/track/3u8ywEfXOHYPaiwRinU1dy"
+    },
+    {
+      "album": {
+        "name": "Ebony Steelband: Best of Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/6OUVrlLsIKKyPmbqeJeNrC"
+      },
+      "artists": [
+        {
+          "name": "Christopher Herbert",
+          "url": "https://open.spotify.com/artist/0dEsBQjwCT6CvIrGzSIlXS"
+        },
+        {
+          "name": "Ebony Steelband",
+          "url": "https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 678666,
+      "name": "Free up (Arr. D. Joseph)",
+      "url": "https://open.spotify.com/track/711dUqtlMpSW5kwSBC1Lzs"
+    },
+    {
+      "album": {
+        "name": "Latin Steeldrums",
+        "url": "https://open.spotify.com/album/0yjA4MTN9RbYKs99s0R5DE"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Band",
+          "url": "https://open.spotify.com/artist/7e57ixmA2mGRLZuEBeuIja"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6t63dsL5RxPeJmePulzUi3"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/3itd53AcdcfmNKXDE5WoKu"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 316000,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/1fZjPKCJwIu7DY9YC5S9bF"
+    },
+    {
+      "album": {
+        "name": "Ebony Steelband: Best of Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/2d0MsEU2uRgC4cWU37d4lf"
+      },
+      "artists": [
+        {
+          "name": "Ebony Steelband",
+          "url": "https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Hadeed's Tune",
+      "url": "https://open.spotify.com/track/1ell7RI3WpB8MK4SaUnEGj"
+    },
+    {
+      "album": {
+        "name": "Ebony Steelband: Best of Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/6OUVrlLsIKKyPmbqeJeNrC"
+      },
+      "artists": [
+        {
+          "name": "Anesse Hadeed",
+          "url": "https://open.spotify.com/artist/146Gd040AZtcY7UYPQ98xU"
+        },
+        {
+          "name": "Ebony Steelband",
+          "url": "https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290000,
+      "name": "Hadeed's Tune (Arr. D. Joseph)",
+      "url": "https://open.spotify.com/track/3TroV5p8AMoOEXxDkXwXMi"
+    },
+    {
+      "album": {
+        "name": "Collection, Vol. 11: Boat Drinks & More Jimmy Buffett Favorites!",
+        "url": "https://open.spotify.com/album/76X2qIiVcwhe0Ah0qSZUKm"
+      },
+      "artists": [
+        {
+          "name": "Steel Drum Island",
+          "url": "https://open.spotify.com/artist/15Bo4JfE7a3HKsw3I9En44"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "Havana Daydreamin'",
+      "url": "https://open.spotify.com/track/3DqApJJcJz5XSoS9tcwZFh"
+    },
+    {
+      "album": {
+        "name": "Island Currents",
+        "url": "https://open.spotify.com/album/6P8Q7R8xxteFdu5WFrtCOz"
+      },
+      "artists": [
+        {
+          "name": "Kent Arnsbarger",
+          "url": "https://open.spotify.com/artist/2AeqXoCKrzaEPnGSlA5hSP"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Island Girl",
+      "url": "https://open.spotify.com/track/4ivy27iD0u2MVNih7yUm8f"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        },
+        {
+          "name": "Lord Burgess",
+          "url": "https://open.spotify.com/artist/1PbGLO5k5Wknia2nddGURA"
+        },
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212760,
+      "name": "Island in the Sun",
+      "url": "https://open.spotify.com/track/5CJF1Jjo2AueWn5LnlgGTx"
+    },
+    {
+      "album": {
+        "name": "Discover Calypso",
+        "url": "https://open.spotify.com/album/1o1WfqYKOxEhrh44MT92gV"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212760,
+      "name": "Island in the Sun",
+      "url": "https://open.spotify.com/track/2FbPeMW8qWzQRpLFzwZgeQ"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "Island in the Sun",
+      "url": "https://open.spotify.com/track/2pxPm4DwGueJXtO4n0TR22"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/7JT3uzoWESKfgewNkHdhJp"
+      },
+      "artists": [
+        {
+          "name": "Lambeth Community Youth Steelband",
+          "url": "https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123066,
+      "name": "Jamaica Farewell",
+      "url": "https://open.spotify.com/track/4Qy9DzaUYxauPNa3iJONBs"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/3itd53AcdcfmNKXDE5WoKu"
+      },
+      "artists": [
+        {
+          "name": "Lambeth Community Youth Steelband",
+          "url": "https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123066,
+      "name": "Jamaica Farewell",
+      "url": "https://open.spotify.com/track/6M6icy5WW4nfbAoznXtP5m"
+    },
+    {
+      "album": {
+        "name": "Discover Calypso",
+        "url": "https://open.spotify.com/album/6Ag2RrBLdzUV86vDnbzW5j"
+      },
+      "artists": [
+        {
+          "name": "Southside Harmonics Steel Orchestra",
+          "url": "https://open.spotify.com/artist/0InUwhs6Dkt2JHabJgCgMk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 125000,
+      "name": "Jamaica Farewell",
+      "url": "https://open.spotify.com/track/6Q0zzjXodoueIYevAKukIj"
+    },
+    {
+      "album": {
+        "name": "Steel Drum Beach Party",
+        "url": "https://open.spotify.com/album/7qFltwMHGNNAH8D1hVTQkN"
+      },
+      "artists": [
+        {
+          "name": "The Island Caribbean Steel Drum Band",
+          "url": "https://open.spotify.com/artist/1kMdTqTrYy7FSVIoxhGFy2"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258373,
+      "name": "Jamaica Farewell (I Left a Little Girl In Kingston Town)",
+      "url": "https://open.spotify.com/track/506BZIuXlSQluqckmxt336"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: The Ultimate Chill-Out Album",
+        "url": "https://open.spotify.com/album/3qujewxZFtSekUvwrr2ruO"
+      },
+      "artists": [
+        {
+          "name": "Ebony Steelband",
+          "url": "https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298173,
+      "name": "Let It be (Arr. For steelband)",
+      "url": "https://open.spotify.com/track/4p5DxMCU9Q3nyhyJGVL0Cv"
+    },
+    {
+      "album": {
+        "name": "Discover: Steelbands",
+        "url": "https://open.spotify.com/album/0ho8uxYbyBT1f8BRvkggha"
+      },
+      "artists": [
+        {
+          "name": "Ebony Steelband",
+          "url": "https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 298173,
+      "name": "Let it be (arr. for steelband)",
+      "url": "https://open.spotify.com/track/7kNfl44ZxOdZzbFWgflANp"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: The Ultimate Chill-Out Album",
+        "url": "https://open.spotify.com/album/3hRcVQPyuphmC9ouwIRwWy"
+      },
+      "artists": [
+        {
+          "name": "Ebony Steelband",
+          "url": "https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298173,
+      "name": "Let It Be (arr. for steelband): Let it be (arr. for steelband)",
+      "url": "https://open.spotify.com/track/1UHUM3vU5Yfy51Il2jKMhm"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219480,
+      "name": "Lorraine",
+      "url": "https://open.spotify.com/track/6jfBEsJUCXsEixom7tpZRz"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219480,
+      "name": "Lorraine",
+      "url": "https://open.spotify.com/track/1cwE1w4AIVjVLduQSvePTu"
+    },
+    {
+      "album": {
+        "name": "Steel Drum Sounds Of The Caribbean",
+        "url": "https://open.spotify.com/album/00CFkglXQwT0BRsilmeeSs"
+      },
+      "artists": [
+        {
+          "name": "Sweet Steel",
+          "url": "https://open.spotify.com/artist/1I1YOxXqkEQrcVuKVLKWOt"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300666,
+      "name": "Marianne/Matilda",
+      "url": "https://open.spotify.com/track/1yYmbtFqKx1J9Tk25SyfnL"
+    },
+    {
+      "album": {
+        "name": "Steel Drum Beach Party",
+        "url": "https://open.spotify.com/album/7qFltwMHGNNAH8D1hVTQkN"
+      },
+      "artists": [
+        {
+          "name": "The Island Caribbean Steel Drum Band",
+          "url": "https://open.spotify.com/artist/1kMdTqTrYy7FSVIoxhGFy2"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/55xIeyfE32dZYjManAg024"
+    },
+    {
+      "album": {
+        "name": "Jamaica Farewell: Best of Caribbean Steel Drums",
+        "url": "https://open.spotify.com/album/3k9rjsHvsdFReqSTLKBBND"
+      },
+      "artists": [
+        {
+          "name": "Southside Harmonics Steel Orchestra",
+          "url": "https://open.spotify.com/artist/0InUwhs6Dkt2JHabJgCgMk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/20EEmczcDpsbm8W7WAZNpm"
+    },
+    {
+      "album": {
+        "name": "Jamaica Farewell: Best of Caribbean Steel Drums",
+        "url": "https://open.spotify.com/album/5o0p1yFGnmsCNxEyVpoNvQ"
+      },
+      "artists": [
+        {
+          "name": "Southside Harmonics Steel Orchestra",
+          "url": "https://open.spotify.com/artist/0InUwhs6Dkt2JHabJgCgMk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231000,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/3jZ3A6MFg2PWfzuGFuiuZB"
+    },
+    {
+      "album": {
+        "name": "Discover: Steelbands",
+        "url": "https://open.spotify.com/album/0ho8uxYbyBT1f8BRvkggha"
+      },
+      "artists": [
+        {
+          "name": "Southside Harmonics Steel Orchestra",
+          "url": "https://open.spotify.com/artist/0InUwhs6Dkt2JHabJgCgMk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231000,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/5UwW1fT8OwzENoTjVevi9X"
+    },
+    {
+      "album": {
+        "name": "Steel Drums Of Trinidad",
+        "url": "https://open.spotify.com/album/4R7tn0DMc9b0ySZXIH8bTD"
+      },
+      "artists": [
+        {
+          "name": "Jamaican Steel Band",
+          "url": "https://open.spotify.com/artist/1NxmTb4M0OY7akmLTR079X"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154426,
+      "name": "Mongoose",
+      "url": "https://open.spotify.com/track/5jP4GXpWo2hVXIWrnnL1XK"
+    },
+    {
+      "album": {
+        "name": "Steel Drum Island Collection Vol. 12: Montego Bay And Many More Instrumental Favorites",
+        "url": "https://open.spotify.com/album/0XkQ7MhNznOjjXw9To5Z7z"
+      },
+      "artists": [
+        {
+          "name": "Steel Drum Island",
+          "url": "https://open.spotify.com/artist/15Bo4JfE7a3HKsw3I9En44"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171626,
+      "name": "Montego Bay",
+      "url": "https://open.spotify.com/track/3Sllc8KEJPsQcX8IHRMZVg"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/16noU9qlAqrPCk2wX2Y8Yg"
+      },
+      "artists": [
+        {
+          "name": "De Fosto",
+          "url": "https://open.spotify.com/artist/7LBNuDj0o8X8tTdXUlAAnr"
+        },
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 417093,
+      "name": "Mr. Pannist",
+      "url": "https://open.spotify.com/track/4QYpNIeIXKOYtA7ibstTYK"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/2i5KVW0z2qeMccwKrGukoE"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417093,
+      "name": "Mr. Pannist",
+      "url": "https://open.spotify.com/track/5VzWxHEK8L8W4j9cJkxyF5"
+    },
+    {
+      "album": {
+        "name": "Discover Calypso",
+        "url": "https://open.spotify.com/album/6Ag2RrBLdzUV86vDnbzW5j"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 417093,
+      "name": "Mr. Pannist",
+      "url": "https://open.spotify.com/track/5ZrN3vPkeIGslAarpVC4vn"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/3itd53AcdcfmNKXDE5WoKu"
+      },
+      "artists": [
+        {
+          "name": "Lambeth Community Youth Steelband",
+          "url": "https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 366693,
+      "name": "Nah Do Dat",
+      "url": "https://open.spotify.com/track/0OtI95N6So4Hk3WQwyJMWZ"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/7JT3uzoWESKfgewNkHdhJp"
+      },
+      "artists": [
+        {
+          "name": "Lambeth Community Youth Steelband",
+          "url": "https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366693,
+      "name": "Nah Do Dat",
+      "url": "https://open.spotify.com/track/1Vf21WdjNCSFqhGg4i8NX2"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/6gZlK7tecSIz9nvh1rLhKt"
+      },
+      "artists": [
+        {
+          "name": "Lambeth Community Youth Steelband",
+          "url": "https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 366693,
+      "name": "Nah Do Dat",
+      "url": "https://open.spotify.com/track/5WuJ6cQ3Bsy7hDeCSLlCQU"
+    },
+    {
+      "album": {
+        "name": "One Love and More Bob Marley Favorites",
+        "url": "https://open.spotify.com/album/1LP4FLHrU0Z57iOLCG8HPk"
+      },
+      "artists": [
+        {
+          "name": "The Carnival Steel Drum Band",
+          "url": "https://open.spotify.com/artist/1Ez5OXrB9MKmpJHxU6cruZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176986,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/7DfDcN4bqbqJbXZMo3xb36"
+    },
+    {
+      "album": {
+        "name": "King Selewa and His Calypsonians: Calypso Invasion",
+        "url": "https://open.spotify.com/album/1mpm7Dd8zdTxwjCdwQNLQS"
+      },
+      "artists": [
+        {
+          "name": "H. R. Charles",
+          "url": "https://open.spotify.com/artist/1nEcuug6UhlLAxoLAcfBVh"
+        },
+        {
+          "name": "King Selewa & His Calypsonians",
+          "url": "https://open.spotify.com/artist/7kkdZVfPqq6zDPwLj3lkrX"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224546,
+      "name": "Osine o D\u00e9",
+      "url": "https://open.spotify.com/track/29mk9Lauc484r8YDPuO5dz"
+    },
+    {
+      "album": {
+        "name": "Calypso Invasion",
+        "url": "https://open.spotify.com/album/0cL3paw3JEFv1GyA1v12XR"
+      },
+      "artists": [
+        {
+          "name": "King Selewa & His Calypsonians",
+          "url": "https://open.spotify.com/artist/7kkdZVfPqq6zDPwLj3lkrX"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224546,
+      "name": "Osine o D\u00e9",
+      "url": "https://open.spotify.com/track/0VmLNQmWf3Bwale4vQB4Wn"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/2i5KVW0z2qeMccwKrGukoE"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437773,
+      "name": "Pan Forever",
+      "url": "https://open.spotify.com/track/5zDtMr4KcfNbgRdKN5TaV2"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/16noU9qlAqrPCk2wX2Y8Yg"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/23zDp8t7FKwE42byeGtsQM"
+        },
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 437773,
+      "name": "Pan Forever",
+      "url": "https://open.spotify.com/track/6T9HKi7QHBGWAgQtiA0FJ4"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/2i5KVW0z2qeMccwKrGukoE"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390226,
+      "name": "Pan Here to Stay",
+      "url": "https://open.spotify.com/track/60fNz5nDCrhRltxIEN8QIV"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/16noU9qlAqrPCk2wX2Y8Yg"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        },
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 390226,
+      "name": "Pan Here to Stay",
+      "url": "https://open.spotify.com/track/1rJlWnYI7FE8To2ubBkzYs"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/2i5KVW0z2qeMccwKrGukoE"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495546,
+      "name": "Pan Night and Day",
+      "url": "https://open.spotify.com/track/3gMXdoHrc2rE82NElymWDg"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/16noU9qlAqrPCk2wX2Y8Yg"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        },
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 495546,
+      "name": "Pan Night and Day",
+      "url": "https://open.spotify.com/track/17MrItPfjztpkFrFNaiMI8"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/2i5KVW0z2qeMccwKrGukoE"
+      },
+      "artists": [
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500000,
+      "name": "Pan Woman",
+      "url": "https://open.spotify.com/track/7Fp9z1mqHEhikgV3LXjbBS"
+    },
+    {
+      "album": {
+        "name": "London All Stars Steel Orchestra: Pan Forever - Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/16noU9qlAqrPCk2wX2Y8Yg"
+      },
+      "artists": [
+        {
+          "name": "Ray Holman",
+          "url": "https://open.spotify.com/artist/2bvb4BDYtwmGkkhdnnZnWc"
+        },
+        {
+          "name": "London All Stars Steel Orchestra",
+          "url": "https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 500000,
+      "name": "Pan Woman",
+      "url": "https://open.spotify.com/track/4aaCsAEXqniIvt5X9EJeW4"
+    },
+    {
+      "album": {
+        "name": "Steel Drums of the Caribbean - Calypso Classics",
+        "url": "https://open.spotify.com/album/2vMdapchtaA7KEiLtPgDE9"
+      },
+      "artists": [
+        {
+          "name": "Jamaican Steel Band",
+          "url": "https://open.spotify.com/artist/1NxmTb4M0OY7akmLTR079X"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155693,
+      "name": "Peanut Vendor",
+      "url": "https://open.spotify.com/track/3qpsRIUajTkn50XTGlsEwZ"
+    },
+    {
+      "album": {
+        "name": "Jamaica Farewell: Best of Caribbean Steel Drums",
+        "url": "https://open.spotify.com/album/3k9rjsHvsdFReqSTLKBBND"
+      },
+      "artists": [
+        {
+          "name": "Southside Harmonics Steel Orchestra",
+          "url": "https://open.spotify.com/artist/0InUwhs6Dkt2JHabJgCgMk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "Poom Poom",
+      "url": "https://open.spotify.com/track/58IDya39G901N5IFerNCwT"
+    },
+    {
+      "album": {
+        "name": "Jamaica Farewell: Best of Caribbean Steel Drums",
+        "url": "https://open.spotify.com/album/5o0p1yFGnmsCNxEyVpoNvQ"
+      },
+      "artists": [
+        {
+          "name": "Southside Harmonics Steel Orchestra",
+          "url": "https://open.spotify.com/artist/0InUwhs6Dkt2JHabJgCgMk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233400,
+      "name": "Poom Poom",
+      "url": "https://open.spotify.com/track/5kc6X1ilBywFIVjVmLgmCw"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228213,
+      "name": "Quando, Quando, Quando",
+      "url": "https://open.spotify.com/track/2A1KvCTKHZNtTH0JWEpxKV"
+    },
+    {
+      "album": {
+        "name": "Discover Caribbean Music with ARC Music",
+        "url": "https://open.spotify.com/album/43preZvrCCuc76IrVkFB7z"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228213,
+      "name": "Quando, Quando, Quando",
+      "url": "https://open.spotify.com/track/6he4SRMkHUJtrCgwdB7Mby"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Tony Renis",
+          "url": "https://open.spotify.com/artist/55WUEyUburuMbmTBiIUzpm"
+        },
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228213,
+      "name": "Quando, Quando, Quando",
+      "url": "https://open.spotify.com/track/4mVawct9HvAzxJIEiTaoGK"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189346,
+      "name": "Rass Mass",
+      "url": "https://open.spotify.com/track/3KoAB7RibIOfIl00FWewRh"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Rass Mass",
+      "url": "https://open.spotify.com/track/6yPF08EQ2JIRU3ZsDsvNii"
+    },
+    {
+      "album": {
+        "name": "Tropical Steel Drum Essentials",
+        "url": "https://open.spotify.com/album/487WRrFTyimCL3qMWU9nWU"
+      },
+      "artists": [
+        {
+          "name": "Island Steel Drum Players",
+          "url": "https://open.spotify.com/artist/4En9umRfibmZr20sHPb0DY"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/0oJalvZMDBbjfcpBNpJf6X"
+    },
+    {
+      "album": {
+        "name": "Southside Harmonics Steel Orchestra: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/3Ug6FprpIzKpCEFQ3ai296"
+      },
+      "artists": [
+        {
+          "name": "Southside Harmonics Steel Orchestra",
+          "url": "https://open.spotify.com/artist/0InUwhs6Dkt2JHabJgCgMk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Roberta: Smoke gets in your eyes (arr. E. Benjamin): Smoke Gets in Your Eyes",
+      "url": "https://open.spotify.com/track/7FImhUc1WR8F3GDRUt6z3L"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/7JT3uzoWESKfgewNkHdhJp"
+      },
+      "artists": [
+        {
+          "name": "Lambeth Community Youth Steelband",
+          "url": "https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212906,
+      "name": "Roberta: Smoke Gets in Your Eyes - Au revoir, ma femme",
+      "url": "https://open.spotify.com/track/1lwk0p5YrjJ0SUv2BGpVt4"
+    },
+    {
+      "album": {
+        "name": "Steel Drums of the Caribbean: Original Songs",
+        "url": "https://open.spotify.com/album/0ttMQY3ocb2VrYhpzlFuI9"
+      },
+      "artists": [
+        {
+          "name": "Nashville Voices",
+          "url": "https://open.spotify.com/artist/6thzY2gQj8JHnG7ZM4QSmV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249653,
+      "name": "Rum Time",
+      "url": "https://open.spotify.com/track/3JtEUTpJRsQELOdBKFH34M"
+    },
+    {
+      "album": {
+        "name": "Steel Drums of the Carribean",
+        "url": "https://open.spotify.com/album/4qIfaA4mOjo4XJ4XNS5luw"
+      },
+      "artists": [
+        {
+          "name": "The Mick Lloyd Connection",
+          "url": "https://open.spotify.com/artist/5oJwrS9WFj1SRCgSevVZRV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249626,
+      "name": "Rum Time",
+      "url": "https://open.spotify.com/track/64g1jfTGenpPAwpYi8bRCl"
+    },
+    {
+      "album": {
+        "name": "Barbados Steel Drums",
+        "url": "https://open.spotify.com/album/3YBD5RqiV8zhxJfFPFqbDu"
+      },
+      "artists": [
+        {
+          "name": "Barbados Steel Drums",
+          "url": "https://open.spotify.com/artist/2xoK9wlFfcdZGYHasB6GV4"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144773,
+      "name": "Shame and Scandle",
+      "url": "https://open.spotify.com/track/1u1hto6YIFBW1QJjiWZwXg"
+    },
+    {
+      "album": {
+        "name": "Barbados Steel Drums",
+        "url": "https://open.spotify.com/album/0ClBndikskNNr3DEdt6whT"
+      },
+      "artists": [
+        {
+          "name": "Barbados Steel Drums",
+          "url": "https://open.spotify.com/artist/2xoK9wlFfcdZGYHasB6GV4"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144773,
+      "name": "Shame And Scandle",
+      "url": "https://open.spotify.com/track/4bqLV5dyLCPPcl8uGXcQ4X"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Sloop John B.",
+      "url": "https://open.spotify.com/track/1G2QtHytFWIEVRTnCRhS8g"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210773,
+      "name": "Sloop John B.",
+      "url": "https://open.spotify.com/track/7qKvRCW3eUt7izRaKJaO5G"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/0LCotcXEELAodsG5eDwQTc"
+      },
+      "artists": [
+        {
+          "name": "Southside Harmonics Steel Orchestra",
+          "url": "https://open.spotify.com/artist/0InUwhs6Dkt2JHabJgCgMk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212906,
+      "name": "Smoke Gets in Your Eyes / Au revoir, ma femme",
+      "url": "https://open.spotify.com/track/15Smmw3qUmGOpJrcz2DI0W"
+    },
+    {
+      "album": {
+        "name": "Ebony Steelband: Best of Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/2d0MsEU2uRgC4cWU37d4lf"
+      },
+      "artists": [
+        {
+          "name": "Ebony Steelband",
+          "url": "https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2NXbeocX1mNPegZZDDNy9z"
+    },
+    {
+      "album": {
+        "name": "Ebony Steelband: Best of Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/6OUVrlLsIKKyPmbqeJeNrC"
+      },
+      "artists": [
+        {
+          "name": "Timothy Watkins",
+          "url": "https://open.spotify.com/artist/2GPWamcWXAStcVrFtpjdMx"
+        },
+        {
+          "name": "Ebony Steelband",
+          "url": "https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 344000,
+      "name": "Somebody (Arr. D. Joseph)",
+      "url": "https://open.spotify.com/track/02MuKsaW8GmBCl6HvwAuAV"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Jerry Leiber",
+          "url": "https://open.spotify.com/artist/3oL5CpaC5cBSVmERMXuV7d"
+        },
+        {
+          "name": "Phil Spector",
+          "url": "https://open.spotify.com/artist/3jVMgT4X7YeuYE4aludcmE"
+        },
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186133,
+      "name": "Spanish Eyes",
+      "url": "https://open.spotify.com/track/7HCaDdRpczuC6xkvIhvsZu"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "Spanish Eyes",
+      "url": "https://open.spotify.com/track/03krQRjoVpguIyTavxYg8F"
+    },
+    {
+      "album": {
+        "name": "Steel Drum Sounds Of The Caribbean",
+        "url": "https://open.spotify.com/album/00CFkglXQwT0BRsilmeeSs"
+      },
+      "artists": [
+        {
+          "name": "Sweet Steel",
+          "url": "https://open.spotify.com/artist/1I1YOxXqkEQrcVuKVLKWOt"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291826,
+      "name": "Sugar Bum Bum/St. Thomas",
+      "url": "https://open.spotify.com/track/0xXu7Hn55V6mQMtUG8odNX"
+    },
+    {
+      "album": {
+        "name": "Sounds of the Caribbean",
+        "url": "https://open.spotify.com/album/6kTiKsL8W7v6n7UqYuDjJF"
+      },
+      "artists": [
+        {
+          "name": "Kent Arnsbarger",
+          "url": "https://open.spotify.com/artist/2AeqXoCKrzaEPnGSlA5hSP"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "The Hammer",
+      "url": "https://open.spotify.com/track/17PpJkTfqu2Amb79ayHa4D"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177026,
+      "name": "Too Much to Play",
+      "url": "https://open.spotify.com/track/3zDD7zYkleF8z0CMskZOIm"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177026,
+      "name": "Too Much to Play",
+      "url": "https://open.spotify.com/track/7MeYUAPAkRir4Et5BiBxIg"
+    },
+    {
+      "album": {
+        "name": "Steel Drums Of Trinidad",
+        "url": "https://open.spotify.com/album/4R7tn0DMc9b0ySZXIH8bTD"
+      },
+      "artists": [
+        {
+          "name": "Jamaican Steel Band",
+          "url": "https://open.spotify.com/artist/1NxmTb4M0OY7akmLTR079X"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179506,
+      "name": "Una Paloma Blanca",
+      "url": "https://open.spotify.com/track/5DaLNGhKCMP4J3mVOhGusT"
+    },
+    {
+      "album": {
+        "name": "Steel Drums of the Caribbean: Calypso Classics (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/7rpOZTLl094tzw0iv8BNmG"
+      },
+      "artists": [
+        {
+          "name": "Jamaican Steel Band",
+          "url": "https://open.spotify.com/artist/1NxmTb4M0OY7akmLTR079X"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215113,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/16mB4YHQsWS7Np2OnQiCpP"
+    },
+    {
+      "album": {
+        "name": "Tropical Steel Drum Essentials",
+        "url": "https://open.spotify.com/album/487WRrFTyimCL3qMWU9nWU"
+      },
+      "artists": [
+        {
+          "name": "Island Steel Drum Players",
+          "url": "https://open.spotify.com/artist/4En9umRfibmZr20sHPb0DY"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174426,
+      "name": "When The Saints Go Marching In",
+      "url": "https://open.spotify.com/track/3ecsiDaAzFddd6eZVhnVYh"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/1tVjlml2aSSpSgfZB5aiOl"
+      },
+      "artists": [
+        {
+          "name": "James Black",
+          "url": "https://open.spotify.com/artist/2lffXaYGum1bb21hUmUU3z"
+        },
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174426,
+      "name": "When the Saints Go Marching in",
+      "url": "https://open.spotify.com/track/41cNrdo1umkvKYnEpgRB0Z"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums: 20 Most Popular Melodies",
+        "url": "https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI"
+      },
+      "artists": [
+        {
+          "name": "Steelasophical,",
+          "url": "https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "When the Saints Go Marching in",
+      "url": "https://open.spotify.com/track/7fxrmgze5fzMgCDYSOwZPk"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/7JT3uzoWESKfgewNkHdhJp"
+      },
+      "artists": [
+        {
+          "name": "Lambeth Community Youth Steelband",
+          "url": "https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176893,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/0buYeiMPIiwmEIfddPC8nR"
+    },
+    {
+      "album": {
+        "name": "Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/6gZlK7tecSIz9nvh1rLhKt"
+      },
+      "artists": [
+        {
+          "name": "Lambeth Community Youth Steelband",
+          "url": "https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 176893,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oD92Xg7P5xxd3zbCbZHo9"
+    },
+    {
+      "album": {
+        "name": "World Travel: Caribbean Steeldrums",
+        "url": "https://open.spotify.com/album/3itd53AcdcfmNKXDE5WoKu"
+      },
+      "artists": [
+        {
+          "name": "Lambeth Community Youth Steelband",
+          "url": "https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176893,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/7tbcBtCPNBK88RIYDvRVaK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdGdxSMZnmHj"
 }

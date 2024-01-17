@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Good Bad Mother\. \(JTBC 드라마 나쁜엄마의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들도 플레이리스트와 클립스를 통해 확인하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,937 likes - 31 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,289 likes - 31 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oSqvXoB6jV.md) - [plain]
 | 20 | [달리기 Run](https://open.spotify.com/track/4knCGquFltgDzhO1VAbixL) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [달리기 Run](https://open.spotify.com/album/0H3i0ra42JzwEWdgYRWSSu) | 2:57 |
 | 21 | [Don't worry](https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2) | 3:51 |
 | 22 | [Don't Cry](https://open.spotify.com/track/1CK3AXEftHvx26jG8a7vFa) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [Graduation](https://open.spotify.com/album/0lVWUc9umG4kW4ZdClfj5l) | 4:29 |
-| 23 | [지금이 우리의 전부](https://open.spotify.com/track/7f3WNw4UdMs9IrRdt36yRj) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [지금이 우리의 전부](https://open.spotify.com/album/09RGAbZaeX5z2eGSs97LCA) | 3:15 |
+| 23 | [지금이 우리의 전부](https://open.spotify.com/track/0YRZJRVNOsiwAuAFkA6qq9) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [지금이 우리의 전부](https://open.spotify.com/album/4rMy2rJVLXBdlhnGvWyPMf) | 3:15 |
 | 24 | [너무 깊이 생각하지마](https://open.spotify.com/track/4xzgv2UElvb4bgvfFpZd10) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 4:00 |
 | 25 | [A Dreamy Town \- Instrumental](https://open.spotify.com/track/4SFQ7ivL8ea6ZKrDz3jD4a) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/2omLP9FjywLa5VPH0dyNB2) | 2:36 |
 | 26 | [Good Night \- Instrumental](https://open.spotify.com/track/3n9v0SjlbJVHbIa99mmSJX) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/34u5QnHo33LkkxDhfrokrQ) | 3:40 |

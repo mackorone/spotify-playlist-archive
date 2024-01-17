@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7NNfgnTcIC.md) - [plain]
 
 > Enjoy the world of <a href="http://caroleandtuesday.com/">CAROLE & TUESDAY</a> with great theme songs and soundtrack! ©ボンズ・渡辺信一郎／キャロル＆チューズデイ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,502 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,554 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

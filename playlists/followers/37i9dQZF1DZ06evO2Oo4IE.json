@@ -1,165 +1,1213 @@
 {
-  "2023-07-23": 166854,
-  "2023-07-24": 166906,
-  "2023-07-25": 166955,
-  "2023-07-26": 167009,
-  "2023-07-27": 167070,
-  "2023-07-28": 167122,
-  "2023-07-29": 167191,
-  "2023-07-30": 167246,
-  "2023-07-31": 167300,
-  "2023-08-01": 167354,
-  "2023-08-02": 167388,
-  "2023-08-03": 167428,
-  "2023-08-04": 167474,
-  "2023-08-05": 167531,
-  "2023-08-06": 167637,
-  "2023-08-07": 167637,
-  "2023-08-08": 167695,
-  "2023-08-09": 167744,
-  "2023-08-10": 167781,
-  "2023-08-11": 167823,
-  "2023-08-12": 167823,
-  "2023-08-13": 167823,
-  "2023-08-14": 168006,
-  "2023-08-15": 168006,
-  "2023-08-16": 168006,
-  "2023-08-17": 168006,
-  "2023-08-18": 168006,
-  "2023-08-19": 168006,
-  "2023-08-20": 168320,
-  "2023-08-21": 168320,
-  "2023-08-22": 168428,
-  "2023-08-23": 168428,
-  "2023-08-24": 168428,
-  "2023-08-25": 168428,
-  "2023-08-26": 168628,
-  "2023-08-27": 168628,
-  "2023-08-28": 168742,
-  "2023-08-29": 168742,
-  "2023-08-30": 168742,
-  "2023-08-31": 168869,
-  "2023-09-01": 168933,
-  "2023-09-02": 168933,
-  "2023-09-03": 169049,
-  "2023-09-04": 169049,
-  "2023-09-05": 169049,
-  "2023-09-06": 169183,
-  "2023-09-07": 169183,
-  "2023-09-08": 169183,
-  "2023-09-09": 169183,
-  "2023-09-10": 169406,
-  "2023-09-11": 169406,
-  "2023-09-12": 169406,
-  "2023-09-13": 169406,
-  "2023-09-14": 169406,
-  "2023-09-15": 169406,
-  "2023-09-16": 169647,
-  "2023-09-17": 169647,
-  "2023-09-18": 169647,
-  "2023-09-19": 169792,
-  "2023-09-20": 169792,
-  "2023-09-21": 169792,
-  "2023-09-22": 169910,
-  "2023-09-23": 169910,
-  "2023-09-24": 169910,
-  "2023-09-25": 169910,
-  "2023-09-26": 170086,
-  "2023-09-27": 170086,
-  "2023-09-28": 170086,
-  "2023-09-29": 170086,
-  "2023-09-30": 170086,
-  "2023-10-01": 170086,
-  "2023-10-02": 170086,
-  "2023-10-03": 170086,
-  "2023-10-04": 170086,
-  "2023-10-05": 170086,
-  "2023-10-06": 170086,
-  "2023-10-07": 170086,
-  "2023-10-08": 170086,
-  "2023-10-09": 170086,
-  "2023-10-10": 170086,
-  "2023-10-11": 170786,
-  "2023-10-12": 170786,
-  "2023-10-13": 170786,
-  "2023-10-14": 170786,
-  "2023-10-15": 170786,
-  "2023-10-16": 170786,
-  "2023-10-17": 170786,
-  "2023-10-18": 170786,
-  "2023-10-19": 170786,
-  "2023-10-20": 170786,
-  "2023-10-21": 170786,
-  "2023-10-22": 170786,
-  "2023-10-23": 170786,
-  "2023-10-24": 170786,
-  "2023-10-25": 170786,
-  "2023-10-26": 170786,
-  "2023-10-27": 170786,
-  "2023-10-28": 170786,
-  "2023-10-29": 170786,
-  "2023-10-30": 170786,
-  "2023-10-31": 170786,
-  "2023-11-01": 170786,
-  "2023-11-02": 170786,
-  "2023-11-03": 170786,
-  "2023-11-04": 170786,
-  "2023-11-05": 170786,
-  "2023-11-06": 170786,
-  "2023-11-07": 170786,
-  "2023-11-08": 170786,
-  "2023-11-09": 170786,
-  "2023-11-10": 170786,
-  "2023-11-11": 172621,
-  "2023-11-12": 172621,
-  "2023-11-13": 172621,
-  "2023-11-14": 172621,
-  "2023-11-15": 172621,
-  "2023-11-16": 172621,
-  "2023-11-17": 172621,
-  "2023-11-18": 172621,
-  "2023-11-19": 172621,
-  "2023-11-20": 172621,
-  "2023-11-21": 172621,
-  "2023-11-22": 172621,
-  "2023-11-23": 172621,
-  "2023-11-24": 172621,
-  "2023-11-25": 172621,
-  "2023-11-26": 172621,
-  "2023-11-27": 172621,
-  "2023-11-28": 172621,
-  "2023-11-29": 172621,
-  "2023-11-30": 172621,
-  "2023-12-01": 172621,
-  "2023-12-02": 172621,
-  "2023-12-03": 172621,
-  "2023-12-04": 172621,
-  "2023-12-05": 172621,
-  "2023-12-06": 172621,
-  "2023-12-07": 172621,
-  "2023-12-08": 172621,
-  "2023-12-09": 172621,
-  "2023-12-10": 172621,
-  "2023-12-11": 172621,
-  "2023-12-12": 172621,
-  "2023-12-13": 172621,
-  "2023-12-14": 174033,
-  "2023-12-15": 174074,
-  "2023-12-16": 174129,
-  "2023-12-17": 174185,
-  "2023-12-18": 174231,
-  "2023-12-19": 174262,
-  "2023-12-20": 174296,
-  "2023-12-21": 174348,
-  "2023-12-22": 174386,
-  "2023-12-23": 174420,
-  "2023-12-24": 174466,
-  "2023-12-25": 174499,
-  "2023-12-26": 174547,
-  "2023-12-27": 174586,
-  "2023-12-30": 174702,
-  "2023-12-31": 174753,
-  "2024-01-01": 174799,
-  "2024-01-02": 174834,
-  "2024-01-03": 174865
+  "2024-01-17": 175065,
+  "date_first_scraped": "2023-07-23",
+  "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
+  "name": "This Is Janis Joplin",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 46964,
+      "name": "\"Are We Taping Now?\"",
+      "url": "https://open.spotify.com/track/1ldDlELX4ZMOZL24BmUtPU"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46964,
+      "name": "\"Are We Taping Now?\"",
+      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 70487,
+      "name": "\"How 'Bout This?\"",
+      "url": "https://open.spotify.com/track/0R58rH87DdBPR18UH2c53F"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70487,
+      "name": "\"How 'Bout This?\"",
+      "url": "https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h"
+    },
+    {
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209666,
+      "name": "A Woman Left Lonely",
+      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
+    },
+    {
+      "album": {
+        "name": "Joplin In Concert",
+        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345800,
+      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
+      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
+    },
+    {
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567973,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw"
+    },
+    {
+      "album": {
+        "name": "Janis Joplin's Greatest Hits",
+        "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479600,
+      "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
+    },
+    {
+      "album": {
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143173,
+      "name": "Blindman",
+      "url": "https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ"
+    },
+    {
+      "album": {
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Bye, Bye Baby",
+      "url": "https://open.spotify.com/track/7E6RJ05OosW2yd7mv3EwpN"
+    },
+    {
+      "album": {
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152733,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/4HljoGSCvaFsesUZWpb2mK"
+    },
+    {
+      "album": {
+        "name": "Raw Velvet (Live '66)",
+        "url": "https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231549,
+      "name": "Call On Me - Live",
+      "url": "https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd"
+    },
+    {
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347360,
+      "name": "Combination of the Two",
+      "url": "https://open.spotify.com/track/6xxR2WCzYgE9ri0PXX5pV3"
+    },
+    {
+      "album": {
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116360,
+      "name": "Coo Coo",
+      "url": "https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2"
+    },
+    {
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238600,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/3L60Vu9qmY6fg2QroRIxgi"
+    },
+    {
+      "album": {
+        "name": "Box Of Pearls",
+        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151133,
+      "name": "Dear Landlord",
+      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
+    },
+    {
+      "album": {
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124760,
+      "name": "Down On Me",
+      "url": "https://open.spotify.com/track/42TKLlMFDXauhLzj7zOPUx"
+    },
+    {
+      "album": {
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143360,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
+    },
+    {
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 183706,
+      "name": "Flower In the Sun",
+      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
+    },
+    {
+      "album": {
+        "name": "Janis Joplin Live At Winterland '68",
+        "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
+      "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
+    },
+    {
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "Get It While You Can",
+      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
+    },
+    {
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 233800,
+      "name": "Half Moon",
+      "url": "https://open.spotify.com/track/2bD8JWzDBOnSeUcsjVU2SD"
+    },
+    {
+      "album": {
+        "name": "Hesitation Blues",
+        "url": "https://open.spotify.com/album/2QROsmgnjg4Z9C1hYHavXm"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 237559,
+      "name": "Hesitation Blues",
+      "url": "https://open.spotify.com/track/2Qwa7UIuzodgFFXSXkUFSN"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237559,
+      "name": "Hesitation Blues",
+      "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
+    },
+    {
+      "album": {
+        "name": "I Know You Rider",
+        "url": "https://open.spotify.com/album/2hOmBtJar9W2AQnENrBcLx"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193541,
+      "name": "I Know You Rider",
+      "url": "https://open.spotify.com/track/6GDpRUjZ4v6pQ4jK121ePG"
+    },
+    {
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293040,
+      "name": "I Need a Man to Love",
+      "url": "https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw"
+    },
+    {
+      "album": {
+        "name": "One From The Heart (Live 1969)",
+        "url": "https://open.spotify.com/album/6xJfgr3GTYls4N3ZDzQepN"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309251,
+      "name": "Instrumental - Live 1969",
+      "url": "https://open.spotify.com/track/6lTVCKo2uvXxzH8GLXnda3"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 202702,
+      "name": "Kansas City Blues",
+      "url": "https://open.spotify.com/track/492UHTIK1lBpdLMS2sXFDa"
+    },
+    {
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261893,
+      "name": "Kozmic Blues",
+      "url": "https://open.spotify.com/track/7eYYxblNEZKKeTT0HBQbXO"
+    },
+    {
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/6tv6EVWMV7AIWi8PhZ0uvO"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 234366,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/4LKfxjikyLTSaSVuOKM7yG"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234366,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
+    },
+    {
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
+    },
+    {
+      "album": {
+        "name": "Livin' Is Easy (Live 1969)",
+        "url": "https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110984,
+      "name": "Me - Live 1969",
+      "url": "https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS"
+    },
+    {
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107866,
+      "name": "Mercedes Benz",
+      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
+    },
+    {
+      "album": {
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247773,
+      "name": "Misery'n",
+      "url": "https://open.spotify.com/track/5KVGXJpiVtfHmY6kAOVos5"
+    },
+    {
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223826,
+      "name": "Move Over",
+      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 200205,
+      "name": "Nobody Knows You When You're Down and Out",
+      "url": "https://open.spotify.com/track/2QpLoCvw8nDgw9sDaz2IlO"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200205,
+      "name": "Nobody Knows You When You're Down and Out",
+      "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
+    },
+    {
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "One Good Man",
+      "url": "https://open.spotify.com/track/6Evy14WwFHLIJNxvBMnoX6"
+    },
+    {
+      "album": {
+        "name": "Farewell Song (Live)",
+        "url": "https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "One Night Stand",
+      "url": "https://open.spotify.com/track/2g4zxggyax2ABxVM4jRF39"
+    },
+    {
+      "album": {
+        "name": "The Pearl Sessions",
+        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99706,
+      "name": "Overheard In The Studio...",
+      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
+    },
+    {
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+    },
+    {
+      "album": {
+        "name": "Janis Joplin: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297066,
+      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
+    },
+    {
+      "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 208915,
+      "name": "Raise Your Hand (Live Tom Jones TV Show 4th December 1969)",
+      "url": "https://open.spotify.com/track/2ml5UVCSXDi7sxDrO0tXKG"
+    },
+    {
+      "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224386,
+      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
+      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
+    },
+    {
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/3eYCJXTViFwl5mdtcTsF4G"
+    },
+    {
+      "album": {
+        "name": "Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 - Remastered from Original Tape",
+        "url": "https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278061,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00"
+    },
+    {
+      "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234881,
+      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
+      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
+    },
+    {
+      "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83461,
+      "name": "Talk, Pt.1 - Live",
+      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
+    },
+    {
+      "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392520,
+      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/5cSLT6bJti7KpIQGEzA1Si"
+    },
+    {
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313066,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/1hxrGuTfeq8ayjB7fbIfpN"
+    },
+    {
+      "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 173230,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/11nblzv9v8bv5MAcEYqIpY"
+    },
+    {
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173230,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
+    },
+    {
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "Try (Just a Little Bit Harder)",
+      "url": "https://open.spotify.com/track/5Icqjqizh8TnwHdejZQQGQ"
+    },
+    {
+      "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77618,
+      "name": "Tuning & Talk, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
+    },
+    {
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261066,
+      "name": "Turtle Blues",
+      "url": "https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ"
+    },
+    {
+      "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306093,
+      "name": "Women Is Losers - Live at the Avalon Ballroom, San Francisco, CA - December 1966",
+      "url": "https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Oo4IE"
 }

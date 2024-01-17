@@ -1,735 +1,657 @@
 {
-  "2021-12-25": 19,
-  "2021-12-26": 19,
-  "2021-12-27": 19,
-  "2021-12-28": 19,
-  "2021-12-29": 19,
-  "2021-12-30": 19,
-  "2021-12-31": 19,
-  "2022-01-01": 19,
-  "2022-01-02": 19,
-  "2022-01-03": 19,
-  "2022-01-04": 19,
-  "2022-01-05": 19,
-  "2022-01-06": 19,
-  "2022-01-07": 19,
-  "2022-01-08": 19,
-  "2022-01-09": 19,
-  "2022-01-10": 19,
-  "2022-01-11": 19,
-  "2022-01-12": 19,
-  "2022-01-13": 19,
-  "2022-01-14": 19,
-  "2022-01-15": 19,
-  "2022-01-16": 19,
-  "2022-01-17": 19,
-  "2022-01-18": 19,
-  "2022-01-19": 19,
-  "2022-01-20": 19,
-  "2022-01-21": 19,
-  "2022-01-22": 19,
-  "2022-01-23": 19,
-  "2022-01-24": 19,
-  "2022-01-25": 19,
-  "2022-01-26": 19,
-  "2022-01-27": 19,
-  "2022-01-28": 19,
-  "2022-01-29": 19,
-  "2022-01-30": 19,
-  "2022-01-31": 19,
-  "2022-02-01": 19,
-  "2022-02-02": 19,
-  "2022-02-03": 19,
-  "2022-02-04": 19,
-  "2022-02-05": 19,
-  "2022-02-06": 19,
-  "2022-02-07": 19,
-  "2022-02-08": 19,
-  "2022-02-09": 19,
-  "2022-02-10": 19,
-  "2022-02-11": 19,
-  "2022-02-12": 19,
-  "2022-02-13": 19,
-  "2022-02-14": 19,
-  "2022-02-15": 19,
-  "2022-02-16": 19,
-  "2022-02-17": 19,
-  "2022-02-18": 19,
-  "2022-02-19": 19,
-  "2022-02-20": 19,
-  "2022-02-21": 19,
-  "2022-02-22": 19,
-  "2022-02-23": 19,
-  "2022-02-24": 19,
-  "2022-02-25": 19,
-  "2022-02-26": 19,
-  "2022-02-27": 19,
-  "2022-02-28": 19,
-  "2022-03-01": 19,
-  "2022-03-02": 19,
-  "2022-03-03": 19,
-  "2022-03-04": 19,
-  "2022-03-05": 19,
-  "2022-03-06": 19,
-  "2022-03-07": 19,
-  "2022-03-08": 19,
-  "2022-03-09": 19,
-  "2022-03-10": 19,
-  "2022-03-11": 19,
-  "2022-03-12": 19,
-  "2022-03-13": 19,
-  "2022-03-14": 19,
-  "2022-03-15": 19,
-  "2022-03-16": 19,
-  "2022-03-17": 19,
-  "2022-03-18": 19,
-  "2022-03-19": 19,
-  "2022-03-20": 19,
-  "2022-03-21": 19,
-  "2022-03-22": 19,
-  "2022-03-23": 19,
-  "2022-03-24": 19,
-  "2022-03-25": 19,
-  "2022-03-26": 19,
-  "2022-03-27": 19,
-  "2022-03-28": 19,
-  "2022-03-30": 19,
-  "2022-03-31": 19,
-  "2022-04-01": 19,
-  "2022-04-02": 19,
-  "2022-04-03": 19,
-  "2022-04-04": 19,
-  "2022-04-05": 19,
-  "2022-04-06": 19,
-  "2022-04-07": 19,
-  "2022-04-08": 19,
-  "2022-04-09": 19,
-  "2022-04-10": 19,
-  "2022-04-11": 19,
-  "2022-04-12": 19,
-  "2022-04-13": 19,
-  "2022-04-14": 19,
-  "2022-04-15": 19,
-  "2022-04-16": 19,
-  "2022-04-17": 19,
-  "2022-04-18": 19,
-  "2022-04-19": 19,
-  "2022-04-20": 19,
-  "2022-04-21": 19,
-  "2022-04-22": 19,
-  "2022-04-23": 19,
-  "2022-04-24": 19,
-  "2022-04-25": 19,
-  "2022-04-26": 19,
-  "2022-04-27": 19,
-  "2022-04-28": 19,
-  "2022-04-29": 19,
-  "2022-04-30": 19,
-  "2022-05-01": 19,
-  "2022-05-02": 19,
-  "2022-05-03": 19,
-  "2022-05-04": 19,
-  "2022-05-05": 19,
-  "2022-05-06": 19,
-  "2022-05-07": 19,
-  "2022-05-08": 19,
-  "2022-05-09": 19,
-  "2022-05-10": 19,
-  "2022-05-11": 19,
-  "2022-05-12": 19,
-  "2022-05-13": 19,
-  "2022-05-14": 19,
-  "2022-05-15": 19,
-  "2022-05-16": 19,
-  "2022-05-17": 19,
-  "2022-05-18": 19,
-  "2022-05-19": 20,
-  "2022-05-20": 20,
-  "2022-05-21": 20,
-  "2022-05-22": 20,
-  "2022-05-23": 20,
-  "2022-05-24": 20,
-  "2022-05-25": 20,
-  "2022-05-26": 20,
-  "2022-05-27": 20,
-  "2022-05-28": 20,
-  "2022-05-29": 20,
-  "2022-05-30": 20,
-  "2022-05-31": 20,
-  "2022-06-01": 20,
-  "2022-06-02": 20,
-  "2022-06-03": 20,
-  "2022-06-04": 20,
-  "2022-06-05": 20,
-  "2022-06-06": 20,
-  "2022-06-07": 20,
-  "2022-06-08": 20,
-  "2022-06-09": 20,
-  "2022-06-10": 20,
-  "2022-06-11": 20,
-  "2022-06-12": 20,
-  "2022-06-13": 20,
-  "2022-06-14": 20,
-  "2022-06-15": 20,
-  "2022-06-16": 20,
-  "2022-06-17": 20,
-  "2022-06-18": 20,
-  "2022-06-19": 20,
-  "2022-06-20": 20,
-  "2022-06-21": 20,
-  "2022-06-22": 20,
-  "2022-06-23": 20,
-  "2022-06-24": 20,
-  "2022-06-25": 20,
-  "2022-06-26": 20,
-  "2022-06-27": 20,
-  "2022-06-28": 20,
-  "2022-06-29": 20,
-  "2022-06-30": 20,
-  "2022-07-01": 20,
-  "2022-07-02": 20,
-  "2022-07-03": 20,
-  "2022-07-04": 20,
-  "2022-07-05": 20,
-  "2022-07-06": 20,
-  "2022-07-07": 20,
-  "2022-07-08": 20,
-  "2022-07-09": 20,
-  "2022-07-10": 20,
-  "2022-07-11": 20,
-  "2022-07-12": 20,
-  "2022-07-13": 20,
-  "2022-07-14": 20,
-  "2022-07-15": 20,
-  "2022-07-16": 20,
-  "2022-07-17": 20,
-  "2022-07-18": 20,
-  "2022-07-19": 20,
-  "2022-07-20": 20,
-  "2022-07-21": 20,
-  "2022-07-22": 20,
-  "2022-07-23": 20,
-  "2022-07-24": 20,
-  "2022-07-25": 20,
-  "2022-07-26": 20,
-  "2022-07-27": 20,
-  "2022-07-28": 20,
-  "2022-07-29": 20,
-  "2022-07-30": 20,
-  "2022-07-31": 20,
-  "2022-08-01": 20,
-  "2022-08-02": 20,
-  "2022-08-03": 20,
-  "2022-08-04": 20,
-  "2022-08-05": 20,
-  "2022-08-06": 20,
-  "2022-08-07": 20,
-  "2022-08-08": 20,
-  "2022-08-09": 19,
-  "2022-08-10": 19,
-  "2022-08-11": 19,
-  "2022-08-12": 19,
-  "2022-08-13": 19,
-  "2022-08-14": 19,
-  "2022-08-15": 19,
-  "2022-08-16": 19,
-  "2022-08-17": 19,
-  "2022-08-18": 19,
-  "2022-08-19": 19,
-  "2022-08-20": 19,
-  "2022-08-21": 19,
-  "2022-08-22": 19,
-  "2022-08-23": 19,
-  "2022-08-24": 19,
-  "2022-08-25": 19,
-  "2022-08-26": 19,
-  "2022-08-27": 19,
-  "2022-08-28": 19,
-  "2022-08-29": 19,
-  "2022-08-30": 19,
-  "2022-08-31": 19,
-  "2022-09-01": 19,
-  "2022-09-02": 19,
-  "2022-09-03": 19,
-  "2022-09-04": 19,
-  "2022-09-05": 19,
-  "2022-09-06": 19,
-  "2022-09-07": 19,
-  "2022-09-09": 19,
-  "2022-09-10": 19,
-  "2022-09-11": 19,
-  "2022-09-12": 19,
-  "2022-09-13": 19,
-  "2022-09-15": 19,
-  "2022-09-16": 19,
-  "2022-09-17": 19,
-  "2022-09-18": 19,
-  "2022-09-19": 19,
-  "2022-09-20": 19,
-  "2022-09-21": 19,
-  "2022-09-22": 19,
-  "2022-09-23": 20,
-  "2022-09-24": 20,
-  "2022-09-25": 20,
-  "2022-09-26": 20,
-  "2022-09-27": 20,
-  "2022-09-28": 20,
-  "2022-09-29": 20,
-  "2022-09-30": 20,
-  "2022-10-01": 20,
-  "2022-10-02": 20,
-  "2022-10-03": 20,
-  "2022-10-04": 20,
-  "2022-10-05": 20,
-  "2022-10-06": 20,
-  "2022-10-07": 20,
-  "2022-10-08": 20,
-  "2022-10-09": 20,
-  "2022-10-10": 20,
-  "2022-10-11": 20,
-  "2022-10-12": 20,
-  "2022-10-13": 20,
-  "2022-10-14": 20,
-  "2022-10-15": 20,
-  "2022-10-16": 20,
-  "2022-10-17": 20,
-  "2022-10-18": 20,
-  "2022-10-19": 20,
-  "2022-10-20": 20,
-  "2022-10-21": 20,
-  "2022-10-22": 20,
-  "2022-10-23": 20,
-  "2022-10-24": 20,
-  "2022-10-25": 20,
-  "2022-10-26": 20,
-  "2022-10-27": 21,
-  "2022-10-28": 21,
-  "2022-10-29": 21,
-  "2022-10-30": 21,
-  "2022-10-31": 21,
-  "2022-11-01": 22,
-  "2022-11-02": 22,
-  "2022-11-03": 22,
-  "2022-11-04": 22,
-  "2022-11-05": 22,
-  "2022-11-06": 22,
-  "2022-11-07": 22,
-  "2022-11-08": 23,
-  "2022-11-09": 23,
-  "2022-11-10": 24,
-  "2022-11-11": 27,
-  "2022-11-12": 26,
-  "2022-11-13": 26,
-  "2022-11-14": 26,
-  "2022-11-15": 26,
-  "2022-11-16": 26,
-  "2022-11-17": 26,
-  "2022-11-18": 26,
-  "2022-11-19": 26,
-  "2022-11-20": 25,
-  "2022-11-21": 23,
-  "2022-11-22": 22,
-  "2022-11-23": 22,
-  "2022-11-24": 22,
-  "2022-11-25": 22,
-  "2022-11-26": 22,
-  "2022-11-27": 22,
-  "2022-11-28": 22,
-  "2022-11-29": 22,
-  "2022-11-30": 22,
-  "2022-12-01": 22,
-  "2022-12-02": 22,
-  "2022-12-03": 22,
-  "2022-12-04": 22,
-  "2022-12-05": 22,
-  "2022-12-06": 22,
-  "2022-12-07": 22,
-  "2022-12-08": 22,
-  "2022-12-09": 22,
-  "2022-12-10": 22,
-  "2022-12-11": 22,
-  "2022-12-12": 22,
-  "2022-12-13": 22,
-  "2022-12-14": 22,
-  "2022-12-15": 22,
-  "2022-12-16": 22,
-  "2022-12-17": 22,
-  "2022-12-18": 22,
-  "2022-12-19": 22,
-  "2022-12-20": 22,
-  "2022-12-21": 22,
-  "2022-12-22": 22,
-  "2022-12-24": 22,
-  "2022-12-25": 22,
-  "2022-12-26": 22,
-  "2022-12-27": 22,
-  "2022-12-28": 22,
-  "2022-12-29": 22,
-  "2022-12-30": 22,
-  "2022-12-31": 22,
-  "2023-01-01": 22,
-  "2023-01-02": 22,
-  "2023-01-03": 22,
-  "2023-01-04": 22,
-  "2023-01-05": 22,
-  "2023-01-06": 22,
-  "2023-01-07": 22,
-  "2023-01-08": 22,
-  "2023-01-09": 22,
-  "2023-01-10": 22,
-  "2023-01-11": 22,
-  "2023-01-12": 22,
-  "2023-01-13": 22,
-  "2023-01-14": 22,
-  "2023-01-15": 22,
-  "2023-01-16": 22,
-  "2023-01-17": 22,
-  "2023-01-18": 22,
-  "2023-01-19": 22,
-  "2023-01-20": 22,
-  "2023-01-21": 22,
-  "2023-01-22": 22,
-  "2023-01-23": 22,
-  "2023-01-24": 22,
-  "2023-01-25": 22,
-  "2023-01-26": 22,
-  "2023-01-27": 22,
-  "2023-01-28": 22,
-  "2023-01-29": 22,
-  "2023-01-30": 22,
-  "2023-01-31": 22,
-  "2023-02-01": 22,
-  "2023-02-02": 22,
-  "2023-02-03": 22,
-  "2023-02-04": 22,
-  "2023-02-05": 22,
-  "2023-02-06": 22,
-  "2023-02-07": 22,
-  "2023-02-08": 22,
-  "2023-02-09": 22,
-  "2023-02-10": 22,
-  "2023-02-11": 22,
-  "2023-02-12": 22,
-  "2023-02-13": 22,
-  "2023-02-14": 22,
-  "2023-02-15": 22,
-  "2023-02-16": 22,
-  "2023-02-17": 22,
-  "2023-02-18": 22,
-  "2023-02-19": 22,
-  "2023-02-20": 22,
-  "2023-02-21": 22,
-  "2023-02-22": 22,
-  "2023-02-23": 22,
-  "2023-02-24": 22,
-  "2023-02-25": 22,
-  "2023-02-26": 22,
-  "2023-02-27": 22,
-  "2023-02-28": 22,
-  "2023-03-01": 22,
-  "2023-03-02": 22,
-  "2023-03-03": 22,
-  "2023-03-04": 22,
-  "2023-03-05": 22,
-  "2023-03-06": 22,
-  "2023-03-07": 22,
-  "2023-03-08": 22,
-  "2023-03-09": 22,
-  "2023-03-10": 22,
-  "2023-03-11": 22,
-  "2023-03-12": 22,
-  "2023-03-13": 22,
-  "2023-03-14": 22,
-  "2023-03-15": 22,
-  "2023-03-16": 22,
-  "2023-03-17": 22,
-  "2023-03-18": 22,
-  "2023-03-19": 22,
-  "2023-03-20": 22,
-  "2023-03-21": 22,
-  "2023-03-22": 22,
-  "2023-03-23": 22,
-  "2023-03-24": 22,
-  "2023-03-25": 22,
-  "2023-03-26": 22,
-  "2023-03-27": 22,
-  "2023-03-28": 22,
-  "2023-03-29": 22,
-  "2023-03-30": 22,
-  "2023-03-31": 22,
-  "2023-04-01": 22,
-  "2023-04-02": 22,
-  "2023-04-03": 22,
-  "2023-04-04": 22,
-  "2023-04-05": 22,
-  "2023-04-06": 22,
-  "2023-04-07": 22,
-  "2023-04-09": 22,
-  "2023-04-10": 22,
-  "2023-04-11": 22,
-  "2023-04-12": 22,
-  "2023-04-13": 22,
-  "2023-04-14": 22,
-  "2023-04-15": 22,
-  "2023-04-16": 22,
-  "2023-04-17": 22,
-  "2023-04-18": 22,
-  "2023-04-19": 22,
-  "2023-04-20": 22,
-  "2023-04-21": 22,
-  "2023-04-22": 22,
-  "2023-04-23": 22,
-  "2023-04-24": 22,
-  "2023-04-25": 22,
-  "2023-04-26": 22,
-  "2023-04-27": 22,
-  "2023-04-28": 22,
-  "2023-04-29": 22,
-  "2023-04-30": 22,
-  "2023-05-01": 22,
-  "2023-05-02": 22,
-  "2023-05-03": 22,
-  "2023-05-04": 22,
-  "2023-05-05": 22,
-  "2023-05-06": 22,
-  "2023-05-07": 22,
-  "2023-05-08": 22,
-  "2023-05-09": 22,
-  "2023-05-10": 22,
-  "2023-05-11": 22,
-  "2023-05-12": 22,
-  "2023-05-13": 22,
-  "2023-05-14": 22,
-  "2023-05-15": 22,
-  "2023-05-16": 22,
-  "2023-05-17": 22,
-  "2023-05-18": 22,
-  "2023-05-19": 22,
-  "2023-05-20": 22,
-  "2023-05-21": 22,
-  "2023-05-22": 22,
-  "2023-05-23": 22,
-  "2023-05-24": 22,
-  "2023-05-25": 22,
-  "2023-05-26": 22,
-  "2023-05-27": 22,
-  "2023-05-28": 22,
-  "2023-05-29": 22,
-  "2023-05-30": 22,
-  "2023-05-31": 22,
-  "2023-06-01": 22,
-  "2023-06-02": 22,
-  "2023-06-03": 22,
-  "2023-06-04": 22,
-  "2023-06-05": 22,
-  "2023-06-06": 22,
-  "2023-06-07": 22,
-  "2023-06-08": 22,
-  "2023-06-09": 22,
-  "2023-06-10": 22,
-  "2023-06-11": 22,
-  "2023-06-12": 22,
-  "2023-06-13": 22,
-  "2023-06-14": 22,
-  "2023-06-15": 22,
-  "2023-06-16": 22,
-  "2023-06-17": 22,
-  "2023-06-18": 22,
-  "2023-06-19": 22,
-  "2023-06-20": 22,
-  "2023-06-21": 22,
-  "2023-06-22": 22,
-  "2023-06-23": 22,
-  "2023-06-24": 22,
-  "2023-06-25": 22,
-  "2023-06-26": 22,
-  "2023-06-27": 23,
-  "2023-06-28": 23,
-  "2023-06-29": 23,
-  "2023-06-30": 23,
-  "2023-07-01": 23,
-  "2023-07-02": 23,
-  "2023-07-03": 23,
-  "2023-07-04": 23,
-  "2023-07-05": 23,
-  "2023-07-06": 23,
-  "2023-07-07": 23,
-  "2023-07-08": 23,
-  "2023-07-09": 22,
-  "2023-07-10": 22,
-  "2023-07-11": 22,
-  "2023-07-12": 22,
-  "2023-07-13": 22,
-  "2023-07-14": 22,
-  "2023-07-15": 22,
-  "2023-07-16": 22,
-  "2023-07-17": 22,
-  "2023-07-18": 22,
-  "2023-07-19": 22,
-  "2023-07-20": 22,
-  "2023-07-21": 22,
-  "2023-07-22": 22,
-  "2023-07-23": 22,
-  "2023-07-24": 22,
-  "2023-07-25": 22,
-  "2023-07-26": 22,
-  "2023-07-27": 22,
-  "2023-07-28": 22,
-  "2023-07-29": 22,
-  "2023-07-30": 22,
-  "2023-07-31": 22,
-  "2023-08-01": 22,
-  "2023-08-02": 22,
-  "2023-08-03": 22,
-  "2023-08-04": 22,
-  "2023-08-05": 22,
-  "2023-08-06": 22,
-  "2023-08-07": 22,
-  "2023-08-08": 22,
-  "2023-08-09": 22,
-  "2023-08-10": 22,
-  "2023-08-11": 22,
-  "2023-08-12": 22,
-  "2023-08-13": 22,
-  "2023-08-14": 22,
-  "2023-08-15": 22,
-  "2023-08-16": 22,
-  "2023-08-17": 22,
-  "2023-08-18": 22,
-  "2023-08-19": 22,
-  "2023-08-20": 22,
-  "2023-08-21": 22,
-  "2023-08-22": 22,
-  "2023-08-23": 22,
-  "2023-08-24": 22,
-  "2023-08-25": 22,
-  "2023-08-26": 22,
-  "2023-08-27": 22,
-  "2023-08-28": 22,
-  "2023-08-29": 22,
-  "2023-08-30": 22,
-  "2023-08-31": 22,
-  "2023-09-01": 22,
-  "2023-09-02": 22,
-  "2023-09-03": 22,
-  "2023-09-04": 22,
-  "2023-09-05": 22,
-  "2023-09-06": 22,
-  "2023-09-07": 22,
-  "2023-09-08": 22,
-  "2023-09-09": 22,
-  "2023-09-10": 22,
-  "2023-09-11": 22,
-  "2023-09-12": 22,
-  "2023-09-13": 22,
-  "2023-09-14": 22,
-  "2023-09-15": 22,
-  "2023-09-16": 22,
-  "2023-09-17": 22,
-  "2023-09-18": 22,
-  "2023-09-19": 22,
-  "2023-09-20": 22,
-  "2023-09-21": 22,
-  "2023-09-22": 22,
-  "2023-09-23": 22,
-  "2023-09-24": 22,
-  "2023-09-25": 22,
-  "2023-09-26": 22,
-  "2023-09-27": 22,
-  "2023-09-28": 22,
-  "2023-09-29": 22,
-  "2023-09-30": 22,
-  "2023-10-01": 22,
-  "2023-10-02": 22,
-  "2023-10-03": 22,
-  "2023-10-04": 22,
-  "2023-10-05": 22,
-  "2023-10-06": 22,
-  "2023-10-07": 22,
-  "2023-10-08": 22,
-  "2023-10-09": 22,
-  "2023-10-10": 22,
-  "2023-10-11": 22,
-  "2023-10-12": 22,
-  "2023-10-13": 22,
-  "2023-10-14": 22,
-  "2023-10-15": 22,
-  "2023-10-16": 22,
-  "2023-10-17": 22,
-  "2023-10-18": 22,
-  "2023-10-19": 22,
-  "2023-10-20": 22,
-  "2023-10-21": 22,
-  "2023-10-22": 22,
-  "2023-10-23": 22,
-  "2023-10-24": 22,
-  "2023-10-25": 22,
-  "2023-10-26": 22,
-  "2023-10-27": 22,
-  "2023-10-28": 22,
-  "2023-10-29": 22,
-  "2023-10-30": 22,
-  "2023-10-31": 22,
-  "2023-11-01": 22,
-  "2023-11-02": 22,
-  "2023-11-03": 22,
-  "2023-11-04": 22,
-  "2023-11-05": 22,
-  "2023-11-06": 22,
-  "2023-11-07": 22,
-  "2023-11-08": 22,
-  "2023-11-09": 22,
-  "2023-11-10": 22,
-  "2023-11-11": 22,
-  "2023-11-12": 22,
-  "2023-11-13": 22,
-  "2023-11-14": 22,
-  "2023-11-15": 22,
-  "2023-11-16": 22,
-  "2023-11-17": 22,
-  "2023-11-18": 22,
-  "2023-11-19": 22,
-  "2023-11-20": 22,
-  "2023-11-21": 22,
-  "2023-11-22": 22,
-  "2023-11-23": 22,
-  "2023-11-24": 22,
-  "2023-11-25": 22,
-  "2023-11-26": 22,
-  "2023-11-27": 22,
-  "2023-11-28": 22,
-  "2023-11-29": 22,
-  "2023-11-30": 22,
-  "2023-12-01": 22,
-  "2023-12-02": 22,
-  "2023-12-03": 22,
-  "2023-12-04": 22,
-  "2023-12-05": 22,
-  "2023-12-06": 22,
-  "2023-12-07": 22,
-  "2023-12-08": 22,
-  "2023-12-09": 22,
-  "2023-12-10": 22,
-  "2023-12-11": 22,
-  "2023-12-12": 22,
-  "2023-12-13": 22,
-  "2023-12-14": 22,
-  "2023-12-15": 22,
-  "2023-12-16": 22,
-  "2023-12-17": 22,
-  "2023-12-18": 22,
-  "2023-12-19": 22,
-  "2023-12-20": 22,
-  "2023-12-21": 22,
-  "2023-12-22": 22,
-  "2023-12-23": 22,
-  "2023-12-24": 22,
-  "2023-12-25": 22,
-  "2023-12-26": 22,
-  "2023-12-27": 22,
-  "2023-12-30": 22,
-  "2023-12-31": 22,
-  "2024-01-01": 22,
-  "2024-01-02": 22,
-  "2024-01-03": 22
+  "2024-01-17": 22,
+  "date_first_scraped": "2021-12-21",
+  "description": "Ystad Jazzfestival arrangeras i sommar f\u00f6r tredje g\u00e5ngen. 2012 \u00e5rs festival g\u00e5r av stapeln den 2:a augusti och p\u00e5g\u00e5r t.o.m. den 5:e. Hitta spellistor f\u00f6r alla tillf\u00e4llen p\u00e5 <a href=\"spottily:app:tunigo\">Tunigo</a>. ",
+  "name": "Ystad Sweden Jazzfestival 2012",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jazz - Det B\u00e4sta",
+        "url": "https://open.spotify.com/album/7fRZaK993vT1XZu3BNmMPq"
+      },
+      "artists": [
+        {
+          "name": "Bernt Rosengren",
+          "url": "https://open.spotify.com/artist/0A7N9l9mumtC0BbJXk46ds"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255573,
+      "name": "Afternoon In Paris",
+      "url": "https://open.spotify.com/track/6lv5mgC5wwuMqGElD9H5HC"
+    },
+    {
+      "album": {
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/30betiflBNpreZG1FTkDVO"
+      },
+      "artists": [
+        {
+          "name": "Bengt Hallberg",
+          "url": "https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J"
+        },
+        {
+          "name": "Jan Lundgren",
+          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187946,
+      "name": "All Things",
+      "url": "https://open.spotify.com/track/5q7R3pmQID4NTF7X6D52iK"
+    },
+    {
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/6Toz1AM5H3ppVFcTGdfZGC"
+      },
+      "artists": [
+        {
+          "name": "Deborah Brown Quartet",
+          "url": "https://open.spotify.com/artist/0WfeuufODrmfWlHTQq2Fa7"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371066,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/4l80wl2GeQdiWmO5Z5dA3C"
+    },
+    {
+      "album": {
+        "name": "Just Like That",
+        "url": "https://open.spotify.com/album/76hyQbJJ14CQHCdtQhMp3p"
+      },
+      "artists": [
+        {
+          "name": "Bo Sylv\u00e9n",
+          "url": "https://open.spotify.com/artist/2TdmKOsv2Oj82JhCY1ToHL"
+        },
+        {
+          "name": "Bo Sylven Major Seven Guitar Big Band",
+          "url": "https://open.spotify.com/artist/5TdCt5c5KhWnd5VqxKAAd4"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357773,
+      "name": "Brazilian Taste",
+      "url": "https://open.spotify.com/track/292petxDn8ZZcc64z04VWr"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6jAu4zosfpYzUplm1RWTPZ"
+      },
+      "artists": [
+        {
+          "name": "Tommy Smith",
+          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239498,
+      "name": "Cause and Effect",
+      "url": "https://open.spotify.com/track/1U6hTkatFSo5Lpit0Vsei2"
+    },
+    {
+      "album": {
+        "name": "Bluish",
+        "url": "https://open.spotify.com/album/7IZ9S0RutIbWpvZgT2Tqsj"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Sta\u0144ko",
+          "url": "https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7"
+        },
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/6QA4Up315AvBeLTYjU8dlC"
+    },
+    {
+      "album": {
+        "name": "Don't Be So Blue",
+        "url": "https://open.spotify.com/album/2Jd7uD2FTXLYEqZwLegO7C"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321573,
+      "name": "Don't Be So Blue",
+      "url": "https://open.spotify.com/track/5O6Rf6QtYvD7SycOzCtkDn"
+    },
+    {
+      "album": {
+        "name": "He Never Mentioned Love",
+        "url": "https://open.spotify.com/album/1w5nN4yEzbsY6pdRT6jvVd"
+      },
+      "artists": [
+        {
+          "name": "Claire Martin",
+          "url": "https://open.spotify.com/artist/7iIgJB2PSutn6IYzwdTomh"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318346,
+      "name": "Everything must change",
+      "url": "https://open.spotify.com/track/2bpRb6OwkfPEjURHQExLBo"
+    },
+    {
+      "album": {
+        "name": "Green's Blues",
+        "url": "https://open.spotify.com/album/5PF6nELJSEpIw2jDhioDF7"
+      },
+      "artists": [
+        {
+          "name": "Benny Green",
+          "url": "https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295733,
+      "name": "I've Heard That Song Before",
+      "url": "https://open.spotify.com/track/6Jo2vZRvciv4EboaKXTwZC"
+    },
+    {
+      "album": {
+        "name": "Insanely (feat. China Moses)",
+        "url": "https://open.spotify.com/album/3DNjLyZLa8Xr8HVQWCv9Rn"
+      },
+      "artists": [
+        {
+          "name": "Ikiz",
+          "url": "https://open.spotify.com/artist/1Rp1rMPJmN5J480POju2v2"
+        },
+        {
+          "name": "China Moses",
+          "url": "https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250160,
+      "name": "Insanely (feat. China Moses)",
+      "url": "https://open.spotify.com/track/5nEBBkfHa5HIuawjpuZ4uu"
+    },
+    {
+      "album": {
+        "name": "Know It Today, Know It Tomorrow",
+        "url": "https://open.spotify.com/album/5iT4fo739skCmGbsEcrdIt"
+      },
+      "artists": [
+        {
+          "name": "Victor Lewis Quintet",
+          "url": "https://open.spotify.com/artist/7pAlSPyd0ci5we6g7PvS1a"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271226,
+      "name": "Know It Today, Know It Tomorrow",
+      "url": "https://open.spotify.com/track/2h87NfDATHAyoyWX1KCspm"
+    },
+    {
+      "album": {
+        "name": "Eleanora Fagan (1915-1959): To Billie With Love From Dee Dee",
+        "url": "https://open.spotify.com/album/0StRmhx9ZrOA6qJcHBN2aQ"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Bridgewater",
+          "url": "https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210973,
+      "name": "Lady Sings The Blues",
+      "url": "https://open.spotify.com/track/4C4qTNVUgoDxLcNeNm9rXb"
+    },
+    {
+      "album": {
+        "name": "Straight From My Heart",
+        "url": "https://open.spotify.com/album/51Lpg49oLpP7bxyoYLH0H8"
+      },
+      "artists": [
+        {
+          "name": "Vivian Buczek",
+          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "Meditacao",
+      "url": "https://open.spotify.com/track/0yjtbsUxqBo5KhCA1TYFbF"
+    },
+    {
+      "album": {
+        "name": "Cooking! At the Jazz Bakery",
+        "url": "https://open.spotify.com/album/2zIOfzQa8kMcN1x1EHUB4L"
+      },
+      "artists": [
+        {
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239706,
+      "name": "Our Delight",
+      "url": "https://open.spotify.com/track/6VIs7tIJ6XkFvQMAnbo7Nw"
+    },
+    {
+      "album": {
+        "name": "Gullin On Guitar",
+        "url": "https://open.spotify.com/album/2liQspPtHmyVexFMAIf7iu"
+      },
+      "artists": [
+        {
+          "name": "Andreas Pettersson",
+          "url": "https://open.spotify.com/artist/1jMVhfKDzUsPle3DgAPnh4"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415733,
+      "name": "Portrait Of My Pals",
+      "url": "https://open.spotify.com/track/6PoTL9eUkoTOcLxWN1Fngm"
+    },
+    {
+      "album": {
+        "name": "Early Piano Music",
+        "url": "https://open.spotify.com/album/4HisXoNgp5deICStYPDBg3"
+      },
+      "artists": [
+        {
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291173,
+      "name": "Prelude 1",
+      "url": "https://open.spotify.com/track/5nXIpFRQjsrKpSMbvNzuq2"
+    },
+    {
+      "album": {
+        "name": "Sagn",
+        "url": "https://open.spotify.com/album/037KqNWiN7InJQWaErrROa"
+      },
+      "artists": [
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395415,
+      "name": "Sagn",
+      "url": "https://open.spotify.com/track/750ItCDPt2fOAjXoedIPdx"
+    },
+    {
+      "album": {
+        "name": "And So It Goes...",
+        "url": "https://open.spotify.com/album/0qXrOA5DjtddDmaBYskUNp"
+      },
+      "artists": [
+        {
+          "name": "Emilia M\u00e5rtensson & Barry Green",
+          "url": "https://open.spotify.com/artist/3u040kW3Zckfl905rkPX9Y"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "Something in the Way She Moves",
+      "url": "https://open.spotify.com/track/2s1MbE4Eo74aQKuxdjtku6"
+    },
+    {
+      "album": {
+        "name": "Light My Fire",
+        "url": "https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243400,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/10fj7s15DYKFptL2H6PSwZ"
+    },
+    {
+      "album": {
+        "name": "You've Got It Bad Girl",
+        "url": "https://open.spotify.com/album/4HIPVdLw3m6ZJX3LAHvXl9"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244440,
+      "name": "Summer In The City",
+      "url": "https://open.spotify.com/track/157llmCqs15bAa3T4z3H1a"
+    },
+    {
+      "album": {
+        "name": "C\u00e6cilie Norby",
+        "url": "https://open.spotify.com/album/4GPclbfWJbo2qZdX7CXCcf"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296666,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/7gOmfa0mK20d3PmSkm68wu"
+    },
+    {
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/6LKZICRdxdleXMsEzLwJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Lasse Lundstrom",
+          "url": "https://open.spotify.com/artist/6sOVv5IiRLmoznTqQRBf6U"
+        },
+        {
+          "name": "Lennart Gruvstedt",
+          "url": "https://open.spotify.com/artist/1IGTIEpZs2E9l4T6kEyjYS"
+        },
+        {
+          "name": "Vincent Nilsson",
+          "url": "https://open.spotify.com/artist/7HLLS9IL0ndObjyBCT5JsZ"
+        },
+        {
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
+        },
+        {
+          "name": "Anders Bergcrantz",
+          "url": "https://open.spotify.com/artist/4fOuim8RgJ4BZooUlXc6Bu"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409693,
+      "name": "That's Nice, Don't Stop",
+      "url": "https://open.spotify.com/track/5vn1NnsMhZQ5rIgq7hiT2u"
+    },
+    {
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/1qUBSV8SzGnpVIRcSux4no"
+      },
+      "artists": [
+        {
+          "name": "Filip Jers",
+          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233675,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/3X7SBNdS3V0fTKicT62WHb"
+    },
+    {
+      "album": {
+        "name": "The Moon, the Stars and You (Promo)",
+        "url": "https://open.spotify.com/album/4L6pAENvkCEM3JaDl8PNva"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208066,
+      "name": "The Moon, the Stars and You",
+      "url": "https://open.spotify.com/track/1f3PYXxC4BtGyswOwPnNCP"
+    },
+    {
+      "album": {
+        "name": "The Birth of a Band (Complete Edition)",
+        "url": "https://open.spotify.com/album/5tTHDmSIcDCT4fQr2vuQIM"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175824,
+      "name": "The preacher",
+      "url": "https://open.spotify.com/track/2QzGJc8EZvc95ZkfiheOWc"
+    },
+    {
+      "album": {
+        "name": "If Our Hearts Could Only See",
+        "url": "https://open.spotify.com/album/6Gd4Rw8bZNbHHmu9EjtTYA"
+      },
+      "artists": [
+        {
+          "name": "Billy Harper",
+          "url": "https://open.spotify.com/artist/7DACbUcNWTTQqRVMpvMjqK"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486226,
+      "name": "Time And Time Again",
+      "url": "https://open.spotify.com/track/729prEUISKPZhGZLbVJXfH"
+    },
+    {
+      "album": {
+        "name": "Mare Nostrum",
+        "url": "https://open.spotify.com/album/6cCr25Vg4zOqcTLp7Cck9u"
+      },
+      "artists": [
+        {
+          "name": "Mare Nostrum",
+          "url": "https://open.spotify.com/artist/7ppVQYsyvC4VgY162Q2zRb"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261973,
+      "name": "Ventu",
+      "url": "https://open.spotify.com/track/3lIMxeEFwq65jLFzodaOCL"
+    },
+    {
+      "album": {
+        "name": "Voice",
+        "url": "https://open.spotify.com/album/1LeBjxguhl0sNpmJSc4aKu"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553466,
+      "name": "Voice",
+      "url": "https://open.spotify.com/track/3STlNWa5f5P4XDh3LGFG0u"
+    },
+    {
+      "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286973,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/772lBovJFWwQdjQn5WnhhY"
+    },
+    {
+      "album": {
+        "name": "Bleak House",
+        "url": "https://open.spotify.com/album/6PCESkC622tjAPzAhcPcJB"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "Wes",
+      "url": "https://open.spotify.com/track/0ROXRpRxcFQUfxndF3Q76j"
+    },
+    {
+      "album": {
+        "name": "Feathers & Concrete",
+        "url": "https://open.spotify.com/album/4BY33Wi0yjGjWi6ifrEkpv"
+      },
+      "artists": [
+        {
+          "name": "Rebecka Larsdotter",
+          "url": "https://open.spotify.com/artist/6rDX4jCNV1rMjU2bUsiGRO"
+        },
+        {
+          "name": "Zane Musa",
+          "url": "https://open.spotify.com/artist/6fjqT34RrpTwfu1RSdm4Fb"
+        },
+        {
+          "name": "Charles Altura",
+          "url": "https://open.spotify.com/artist/1oReRJUysolacFVdZ0VP8k"
+        },
+        {
+          "name": "J.P. Maramba",
+          "url": "https://open.spotify.com/artist/3plVwu14cG6z6CU2ZRxlMF"
+        },
+        {
+          "name": "Hadrien Feraud",
+          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
+        },
+        {
+          "name": "Ruslan Sirota",
+          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
+        },
+        {
+          "name": "Vardan Ovsepian",
+          "url": "https://open.spotify.com/artist/1eCq5ldDWROlURGJXR44Aw"
+        },
+        {
+          "name": "Nick Mancini",
+          "url": "https://open.spotify.com/artist/15n2Wl2nRiKAybUmu6vwra"
+        },
+        {
+          "name": "Chris Coleman",
+          "url": "https://open.spotify.com/artist/4oxiHzFly0vvnEZNzvBRjZ"
+        },
+        {
+          "name": "Tony Austin",
+          "url": "https://open.spotify.com/artist/7lByrLeGq3GqlMk1dL04Qn"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372226,
+      "name": "Wise One",
+      "url": "https://open.spotify.com/track/0moXVPjlXMgAHgCziZfQT7"
+    },
+    {
+      "album": {
+        "name": "Our Secret World",
+        "url": "https://open.spotify.com/album/4FuLWXuaGtd7QyZ0JdArt5"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525026,
+      "name": "Zhivago",
+      "url": "https://open.spotify.com/track/65XhQCGWUESjTXw3YlEEqm"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/0DH66SG2vZ7dIocTxxA5q9"
 }

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 176360,
+      "name": "(I Won't) Pay Your Price",
+      "url": "https://open.spotify.com/track/3Y7Oo8QVUKqVLU4ojeWkun"
+    },
+    {
+      "album": {
         "name": "Ace of Spades (Expanded Edition)",
         "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
       },
@@ -311,6 +329,42 @@
     },
     {
       "album": {
+        "name": "Orgasmatron",
+        "url": "https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 266653,
+      "name": "Deaf Forever",
+      "url": "https://open.spotify.com/track/4U9PDEya4AvkU4yLDRIhsM"
+    },
+    {
+      "album": {
+        "name": "The L\u00f6st Tapes, Vol. 5",
+        "url": "https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250786,
+      "name": "Doctor Rock (Live at Download Festival, Donington, England, June 13, 2008)",
+      "url": "https://open.spotify.com/track/0qkYLlozbEJMgYWrYa8Qyt"
+    },
+    {
+      "album": {
         "name": "Rock N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU"
       },
@@ -484,7 +538,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-05",
       "duration_ms": 264106,
       "name": "Fast One (Demo)",
       "url": "https://open.spotify.com/track/2DpKUXgAncWPZ5dn3TEZFI"
@@ -1270,7 +1324,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 149093,
       "name": "Over the Top (Live at Download Festival, Donington, England, June 13, 2008)",
       "url": "https://open.spotify.com/track/1n1mXoqx7fzapLVRKq7ZBp"

@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Tekis & Cantores del Monte
 
-160 songs - 8 hr 52 min
+161 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,11 +113,12 @@
 | [No Somos Nada](https://open.spotify.com/track/7dz5falT5ubzi6zp4JKcBO) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/7coKEyXcZyT853mG0S4Bad) | 3:17 | 2022-11-04 | 2022-11-13 |
 | [No Somos Nada](https://open.spotify.com/track/0RPBYkItMt1otL1Llu5UHv) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/6QpqXyvCMqNHwXM4B840O2) | 3:18 | 2022-10-07 | 2023-09-09 |
 | [No Somos Nada](https://open.spotify.com/track/7b4nKzpEOc1Yc4gntR7FVA) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/2ekliaSLvcZmPGWEg56w3B) | 3:18 | 2022-10-07 | 2022-10-28 |
+| [No Te Vayas](https://open.spotify.com/track/1QyA5r8nr1tSE1Pcd5eP0E) | [Diableros Jujeños](https://open.spotify.com/artist/6LiuYJstfjOGqb4xANsncH), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [No Te Vayas](https://open.spotify.com/album/5HNF83mHiKqt73FiVYyZbs) | 3:37 | 2024-01-12 |  |
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
 | [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |
 | [Nuestras Flores](https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Nuestras Flores](https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE) | 4:29 | 2022-08-19 | 2023-07-15 |
 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 | 2022-09-23 |  |
-| [Otra Noche de Festival](https://open.spotify.com/track/3k42LI52pna0NpvCvPYX5I) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Otra Noche de Festival](https://open.spotify.com/album/32zGDmeiBrh4QFoNnyRdbz) | 2:48 | 2022-10-07 |  |
+| [Otra Noche de Festival](https://open.spotify.com/track/3k42LI52pna0NpvCvPYX5I) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Otra Noche de Festival](https://open.spotify.com/album/32zGDmeiBrh4QFoNnyRdbz) | 2:48 | 2022-10-07 | 2024-01-13 |
 | [Otra Vez en el Camino](https://open.spotify.com/track/7gnHVe6Juc2SFsc8UHvu7g) | [Pachi Herrera](https://open.spotify.com/artist/6dwTZmpwSlHawmTFTe5fRV) | [Otra Vez en el Camino](https://open.spotify.com/album/0oQTK9F6643YJRCNlPWc4C) | 2:53 | 2021-12-31 |  |
 | [Peregrinos](https://open.spotify.com/track/2w1rq3ysjtTcdavtECYLxE) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:02 | 2022-07-01 |  |
 | [Peregrinos](https://open.spotify.com/track/6zkFyFTX1jVxrd8s1cpa9A) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:02 | 2021-12-31 | 2022-07-29 |

@@ -1,646 +1,1709 @@
 {
-  "2022-03-24": 37481,
-  "2022-03-25": 37540,
-  "2022-03-26": 37617,
-  "2022-03-27": 37686,
-  "2022-03-28": 37747,
-  "2022-03-30": 37915,
-  "2022-03-31": 37992,
-  "2022-04-01": 38059,
-  "2022-04-02": 38130,
-  "2022-04-03": 38185,
-  "2022-04-04": 38232,
-  "2022-04-05": 38308,
-  "2022-04-06": 38391,
-  "2022-04-07": 38466,
-  "2022-04-08": 38546,
-  "2022-04-09": 38620,
-  "2022-04-10": 38777,
-  "2022-04-11": 38854,
-  "2022-04-12": 38858,
-  "2022-04-13": 38927,
-  "2022-04-14": 38988,
-  "2022-04-15": 39088,
-  "2022-04-16": 39175,
-  "2022-04-17": 39243,
-  "2022-04-18": 39331,
-  "2022-04-19": 39386,
-  "2022-04-20": 39479,
-  "2022-04-21": 39560,
-  "2022-04-22": 39627,
-  "2022-04-23": 39713,
-  "2022-04-24": 39777,
-  "2022-04-25": 39839,
-  "2022-04-26": 39909,
-  "2022-04-27": 39997,
-  "2022-04-28": 40065,
-  "2022-04-29": 40186,
-  "2022-04-30": 40260,
-  "2022-05-01": 40347,
-  "2022-05-02": 40347,
-  "2022-05-03": 40429,
-  "2022-05-04": 40497,
-  "2022-05-05": 40565,
-  "2022-05-06": 40619,
-  "2022-05-07": 40699,
-  "2022-05-08": 40820,
-  "2022-05-09": 40829,
-  "2022-05-10": 40889,
-  "2022-05-11": 40947,
-  "2022-05-12": 41028,
-  "2022-05-13": 41093,
-  "2022-05-14": 41170,
-  "2022-05-15": 41246,
-  "2022-05-16": 41305,
-  "2022-05-17": 41353,
-  "2022-05-18": 41440,
-  "2022-05-19": 41508,
-  "2022-05-20": 41588,
-  "2022-05-21": 41708,
-  "2022-05-22": 41708,
-  "2022-05-23": 41786,
-  "2022-05-24": 41833,
-  "2022-05-25": 41914,
-  "2022-05-26": 41991,
-  "2022-05-27": 42054,
-  "2022-05-28": 42130,
-  "2022-05-29": 42204,
-  "2022-05-30": 42260,
-  "2022-05-31": 42317,
-  "2022-06-01": 42410,
-  "2022-06-02": 42421,
-  "2022-06-03": 42493,
-  "2022-06-04": 42563,
-  "2022-06-05": 42623,
-  "2022-06-06": 42674,
-  "2022-06-07": 42725,
-  "2022-06-08": 42789,
-  "2022-06-09": 42862,
-  "2022-06-10": 42909,
-  "2022-06-11": 42976,
-  "2022-06-12": 43032,
-  "2022-06-13": 43091,
-  "2022-06-14": 43152,
-  "2022-06-15": 43218,
-  "2022-06-16": 43282,
-  "2022-06-17": 43363,
-  "2022-06-18": 43409,
-  "2022-06-19": 43543,
-  "2022-06-20": 43543,
-  "2022-06-21": 43592,
-  "2022-06-22": 43678,
-  "2022-06-23": 43678,
-  "2022-06-24": 43750,
-  "2022-06-25": 43800,
-  "2022-06-26": 43876,
-  "2022-06-27": 43930,
-  "2022-06-28": 43985,
-  "2022-06-29": 44041,
-  "2022-06-30": 44103,
-  "2022-07-01": 44179,
-  "2022-07-02": 44239,
-  "2022-07-03": 44295,
-  "2022-07-04": 44358,
-  "2022-07-05": 44410,
-  "2022-07-06": 44463,
-  "2022-07-07": 44523,
-  "2022-07-08": 44592,
-  "2022-07-09": 44650,
-  "2022-07-10": 44710,
-  "2022-07-11": 44759,
-  "2022-07-12": 44842,
-  "2022-07-13": 44905,
-  "2022-07-14": 44962,
-  "2022-07-15": 45023,
-  "2022-07-16": 45079,
-  "2022-07-17": 45126,
-  "2022-07-18": 45176,
-  "2022-07-19": 45221,
-  "2022-07-20": 45282,
-  "2022-07-21": 45350,
-  "2022-07-22": 45403,
-  "2022-07-23": 45478,
-  "2022-07-24": 45522,
-  "2022-07-25": 45557,
-  "2022-07-26": 45624,
-  "2022-07-27": 45706,
-  "2022-07-28": 45766,
-  "2022-07-29": 45830,
-  "2022-07-30": 45991,
-  "2022-07-31": 45991,
-  "2022-08-01": 46028,
-  "2022-08-02": 46146,
-  "2022-08-03": 46146,
-  "2022-08-04": 46216,
-  "2022-08-05": 46293,
-  "2022-08-06": 46351,
-  "2022-08-07": 46420,
-  "2022-08-08": 46474,
-  "2022-08-09": 46533,
-  "2022-08-10": 46596,
-  "2022-08-11": 46660,
-  "2022-08-12": 46716,
-  "2022-08-13": 46786,
-  "2022-08-14": 46858,
-  "2022-08-15": 46908,
-  "2022-08-16": 46969,
-  "2022-08-17": 47023,
-  "2022-08-18": 47094,
-  "2022-08-19": 47148,
-  "2022-08-20": 47222,
-  "2022-08-21": 47281,
-  "2022-08-22": 47333,
-  "2022-08-23": 47385,
-  "2022-08-24": 47452,
-  "2022-08-25": 47506,
-  "2022-08-26": 47570,
-  "2022-08-27": 47641,
-  "2022-08-28": 47716,
-  "2022-08-29": 47775,
-  "2022-08-30": 47840,
-  "2022-08-31": 47906,
-  "2022-09-01": 47953,
-  "2022-09-02": 48017,
-  "2022-09-03": 48091,
-  "2022-09-04": 48150,
-  "2022-09-05": 48212,
-  "2022-09-06": 48268,
-  "2022-09-07": 48312,
-  "2022-09-09": 48447,
-  "2022-09-10": 48505,
-  "2022-09-11": 48546,
-  "2022-09-12": 48598,
-  "2022-09-13": 48653,
-  "2022-09-15": 48761,
-  "2022-09-16": 48800,
-  "2022-09-17": 48848,
-  "2022-09-18": 48892,
-  "2022-09-19": 48933,
-  "2022-09-20": 48976,
-  "2022-09-21": 49017,
-  "2022-09-22": 49055,
-  "2022-09-23": 49122,
-  "2022-09-24": 49165,
-  "2022-09-25": 49226,
-  "2022-09-26": 49278,
-  "2022-09-27": 49323,
-  "2022-09-28": 49383,
-  "2022-09-29": 49432,
-  "2022-09-30": 49476,
-  "2022-10-01": 49516,
-  "2022-10-02": 49562,
-  "2022-10-03": 49615,
-  "2022-10-04": 49651,
-  "2022-10-05": 49676,
-  "2022-10-06": 49715,
-  "2022-10-07": 49774,
-  "2022-10-08": 49816,
-  "2022-10-09": 49906,
-  "2022-10-10": 49928,
-  "2022-10-11": 49959,
-  "2022-10-12": 50024,
-  "2022-10-13": 50071,
-  "2022-10-14": 50121,
-  "2022-10-15": 50178,
-  "2022-10-16": 50204,
-  "2022-10-17": 50255,
-  "2022-10-18": 50303,
-  "2022-10-19": 50365,
-  "2022-10-20": 50404,
-  "2022-10-21": 50460,
-  "2022-10-22": 50517,
-  "2022-10-23": 50557,
-  "2022-10-24": 50609,
-  "2022-10-25": 50650,
-  "2022-10-26": 50704,
-  "2022-10-27": 50769,
-  "2022-10-28": 50826,
-  "2022-10-29": 50888,
-  "2022-10-30": 50916,
-  "2022-10-31": 50973,
-  "2022-11-01": 51014,
-  "2022-11-02": 51060,
-  "2022-11-03": 51094,
-  "2022-11-04": 51135,
-  "2022-11-05": 51183,
-  "2022-11-06": 51232,
-  "2022-11-07": 51273,
-  "2022-11-08": 51321,
-  "2022-11-09": 51370,
-  "2022-11-10": 51418,
-  "2022-11-11": 51479,
-  "2022-11-12": 51535,
-  "2022-11-13": 51587,
-  "2022-11-14": 51631,
-  "2022-11-15": 51665,
-  "2022-11-16": 51708,
-  "2022-11-17": 51748,
-  "2022-11-18": 51743,
-  "2022-11-19": 51761,
-  "2022-11-20": 51797,
-  "2022-11-21": 51856,
-  "2022-11-22": 51904,
-  "2022-11-23": 51958,
-  "2022-11-24": 52048,
-  "2022-11-25": 52114,
-  "2022-11-26": 52158,
-  "2022-11-27": 52192,
-  "2022-11-28": 52224,
-  "2022-11-29": 52249,
-  "2022-11-30": 52288,
-  "2022-12-01": 52338,
-  "2022-12-02": 52362,
-  "2022-12-03": 52426,
-  "2022-12-04": 52465,
-  "2022-12-05": 52507,
-  "2022-12-06": 52538,
-  "2022-12-07": 52572,
-  "2022-12-08": 52625,
-  "2022-12-09": 52666,
-  "2022-12-10": 52707,
-  "2022-12-11": 52739,
-  "2022-12-12": 52782,
-  "2022-12-13": 52806,
-  "2022-12-14": 52831,
-  "2022-12-15": 52864,
-  "2022-12-16": 52877,
-  "2022-12-17": 52919,
-  "2022-12-18": 52955,
-  "2022-12-19": 52980,
-  "2022-12-20": 53048,
-  "2022-12-21": 53048,
-  "2022-12-22": 53069,
-  "2022-12-24": 53100,
-  "2022-12-25": 53124,
-  "2022-12-26": 53144,
-  "2022-12-27": 53171,
-  "2022-12-28": 53204,
-  "2022-12-29": 53240,
-  "2022-12-30": 53276,
-  "2022-12-31": 53309,
-  "2023-01-01": 53336,
-  "2023-01-02": 53356,
-  "2023-01-03": 53400,
-  "2023-01-04": 53433,
-  "2023-01-05": 53471,
-  "2023-01-06": 53511,
-  "2023-01-07": 53576,
-  "2023-01-08": 53588,
-  "2023-01-09": 53612,
-  "2023-01-10": 53641,
-  "2023-01-11": 53683,
-  "2023-01-12": 53719,
-  "2023-01-13": 53741,
-  "2023-01-14": 53802,
-  "2023-01-15": 53811,
-  "2023-01-16": 53846,
-  "2023-01-17": 53875,
-  "2023-01-18": 53932,
-  "2023-01-19": 53968,
-  "2023-01-20": 54024,
-  "2023-01-21": 54063,
-  "2023-01-22": 54104,
-  "2023-01-23": 54133,
-  "2023-01-24": 54169,
-  "2023-01-25": 54214,
-  "2023-01-26": 54243,
-  "2023-01-27": 54298,
-  "2023-01-28": 54314,
-  "2023-01-29": 54337,
-  "2023-01-30": 54380,
-  "2023-01-31": 54380,
-  "2023-02-01": 54445,
-  "2023-02-02": 54464,
-  "2023-02-03": 54489,
-  "2023-02-04": 54522,
-  "2023-02-05": 54562,
-  "2023-02-06": 54588,
-  "2023-02-07": 54621,
-  "2023-02-08": 54677,
-  "2023-02-09": 54677,
-  "2023-02-10": 54731,
-  "2023-02-11": 54752,
-  "2023-02-12": 54810,
-  "2023-02-13": 54847,
-  "2023-02-14": 54847,
-  "2023-02-15": 54897,
-  "2023-02-16": 54941,
-  "2023-02-17": 54989,
-  "2023-02-18": 55038,
-  "2023-02-19": 55043,
-  "2023-02-20": 55063,
-  "2023-02-21": 55106,
-  "2023-02-22": 55133,
-  "2023-02-23": 55172,
-  "2023-02-24": 55193,
-  "2023-02-25": 55225,
-  "2023-02-26": 55253,
-  "2023-02-27": 55320,
-  "2023-02-28": 55320,
-  "2023-03-01": 55343,
-  "2023-03-02": 55376,
-  "2023-03-03": 55402,
-  "2023-03-04": 55434,
-  "2023-03-05": 55482,
-  "2023-03-06": 55482,
-  "2023-03-07": 55512,
-  "2023-03-08": 55543,
-  "2023-03-09": 55566,
-  "2023-03-10": 55602,
-  "2023-03-11": 55633,
-  "2023-03-12": 55668,
-  "2023-03-13": 55700,
-  "2023-03-14": 55720,
-  "2023-03-15": 55750,
-  "2023-03-16": 55777,
-  "2023-03-17": 55777,
-  "2023-03-18": 55847,
-  "2023-03-19": 55879,
-  "2023-03-20": 55898,
-  "2023-03-21": 55920,
-  "2023-03-22": 55956,
-  "2023-03-23": 55981,
-  "2023-03-24": 55981,
-  "2023-03-25": 56029,
-  "2023-03-26": 56062,
-  "2023-03-27": 56061,
-  "2023-03-28": 56083,
-  "2023-03-29": 56102,
-  "2023-03-30": 56152,
-  "2023-03-31": 56152,
-  "2023-04-01": 56175,
-  "2023-04-02": 56201,
-  "2023-04-03": 56219,
-  "2023-04-04": 56251,
-  "2023-04-05": 56282,
-  "2023-04-06": 56323,
-  "2023-04-07": 56359,
-  "2023-04-09": 56408,
-  "2023-04-10": 56430,
-  "2023-04-11": 56491,
-  "2023-04-12": 56491,
-  "2023-04-13": 56522,
-  "2023-04-14": 56546,
-  "2023-04-15": 56573,
-  "2023-04-16": 56613,
-  "2023-04-17": 56628,
-  "2023-04-18": 56657,
-  "2023-04-19": 56690,
-  "2023-04-20": 56726,
-  "2023-04-21": 56757,
-  "2023-04-22": 56789,
-  "2023-04-23": 56819,
-  "2023-04-24": 56861,
-  "2023-04-25": 56894,
-  "2023-04-26": 56916,
-  "2023-04-27": 56958,
-  "2023-04-28": 56982,
-  "2023-04-29": 57016,
-  "2023-04-30": 57045,
-  "2023-05-01": 57069,
-  "2023-05-02": 57108,
-  "2023-05-03": 57132,
-  "2023-05-04": 57171,
-  "2023-05-05": 57210,
-  "2023-05-06": 57244,
-  "2023-05-07": 57266,
-  "2023-05-08": 57296,
-  "2023-05-09": 57319,
-  "2023-05-10": 57346,
-  "2023-05-11": 57387,
-  "2023-05-12": 57440,
-  "2023-05-13": 57479,
-  "2023-05-14": 57507,
-  "2023-05-15": 57532,
-  "2023-05-16": 57564,
-  "2023-05-17": 57601,
-  "2023-05-18": 57642,
-  "2023-05-19": 57698,
-  "2023-05-20": 57765,
-  "2023-05-21": 57765,
-  "2023-05-22": 57765,
-  "2023-05-23": 57830,
-  "2023-05-24": 57882,
-  "2023-05-25": 57889,
-  "2023-05-26": 58136,
-  "2023-05-27": 58221,
-  "2023-05-28": 58246,
-  "2023-05-29": 58246,
-  "2023-05-30": 58296,
-  "2023-05-31": 58331,
-  "2023-06-01": 58364,
-  "2023-06-02": 58383,
-  "2023-06-03": 58418,
-  "2023-06-04": 58441,
-  "2023-06-05": 58465,
-  "2023-06-06": 58485,
-  "2023-06-07": 58535,
-  "2023-06-08": 58570,
-  "2023-06-09": 58595,
-  "2023-06-10": 58601,
-  "2023-06-11": 58623,
-  "2023-06-12": 58641,
-  "2023-06-13": 58660,
-  "2023-06-14": 58685,
-  "2023-06-15": 58712,
-  "2023-06-16": 58738,
-  "2023-06-17": 58761,
-  "2023-06-18": 58776,
-  "2023-06-19": 58796,
-  "2023-06-20": 58834,
-  "2023-06-21": 58856,
-  "2023-06-22": 58890,
-  "2023-06-23": 58921,
-  "2023-06-24": 58957,
-  "2023-06-25": 58976,
-  "2023-06-26": 58982,
-  "2023-06-27": 59004,
-  "2023-06-28": 59017,
-  "2023-06-29": 59049,
-  "2023-06-30": 59078,
-  "2023-07-01": 59114,
-  "2023-07-02": 59114,
-  "2023-07-03": 59132,
-  "2023-07-04": 59154,
-  "2023-07-05": 59176,
-  "2023-07-06": 59238,
-  "2023-07-07": 59238,
-  "2023-07-08": 59263,
-  "2023-07-09": 59288,
-  "2023-07-10": 59288,
-  "2023-07-11": 59320,
-  "2023-07-12": 59346,
-  "2023-07-13": 59373,
-  "2023-07-14": 59398,
-  "2023-07-15": 59411,
-  "2023-07-16": 59441,
-  "2023-07-17": 59462,
-  "2023-07-18": 59480,
-  "2023-07-19": 59505,
-  "2023-07-20": 59517,
-  "2023-07-21": 59551,
-  "2023-07-22": 59576,
-  "2023-07-23": 59594,
-  "2023-07-24": 59615,
-  "2023-07-25": 59633,
-  "2023-07-26": 59651,
-  "2023-07-27": 59677,
-  "2023-07-28": 59709,
-  "2023-07-29": 59741,
-  "2023-07-30": 59758,
-  "2023-07-31": 59782,
-  "2023-08-01": 59794,
-  "2023-08-02": 59812,
-  "2023-08-03": 59832,
-  "2023-08-04": 59853,
-  "2023-08-05": 59871,
-  "2023-08-06": 59899,
-  "2023-08-07": 59899,
-  "2023-08-08": 59924,
-  "2023-08-09": 59942,
-  "2023-08-10": 59962,
-  "2023-08-11": 59978,
-  "2023-08-12": 60003,
-  "2023-08-13": 60016,
-  "2023-08-14": 60035,
-  "2023-08-15": 60095,
-  "2023-08-16": 60095,
-  "2023-08-17": 60122,
-  "2023-08-18": 60168,
-  "2023-08-19": 60192,
-  "2023-08-20": 60203,
-  "2023-08-21": 60227,
-  "2023-08-22": 60253,
-  "2023-08-23": 60286,
-  "2023-08-24": 60308,
-  "2023-08-25": 60343,
-  "2023-08-26": 60364,
-  "2023-08-27": 60384,
-  "2023-08-28": 60411,
-  "2023-08-29": 60427,
-  "2023-08-30": 60459,
-  "2023-08-31": 60495,
-  "2023-09-01": 60555,
-  "2023-09-02": 60555,
-  "2023-09-03": 60576,
-  "2023-09-04": 60585,
-  "2023-09-05": 60624,
-  "2023-09-06": 60659,
-  "2023-09-07": 60694,
-  "2023-09-08": 60713,
-  "2023-09-09": 60734,
-  "2023-09-10": 60757,
-  "2023-09-11": 60771,
-  "2023-09-12": 60802,
-  "2023-09-13": 60833,
-  "2023-09-14": 60863,
-  "2023-09-15": 60893,
-  "2023-09-16": 60925,
-  "2023-09-17": 60937,
-  "2023-09-18": 60945,
-  "2023-09-19": 60961,
-  "2023-09-20": 60984,
-  "2023-09-21": 61024,
-  "2023-09-22": 61060,
-  "2023-09-23": 61079,
-  "2023-09-24": 61099,
-  "2023-09-25": 61105,
-  "2023-09-26": 61128,
-  "2023-09-27": 61156,
-  "2023-09-28": 61198,
-  "2023-09-29": 61226,
-  "2023-09-30": 61263,
-  "2023-10-01": 61275,
-  "2023-10-02": 61291,
-  "2023-10-03": 61323,
-  "2023-10-04": 61337,
-  "2023-10-05": 61361,
-  "2023-10-06": 61373,
-  "2023-10-07": 61401,
-  "2023-10-08": 61413,
-  "2023-10-09": 61417,
-  "2023-10-10": 61438,
-  "2023-10-11": 61472,
-  "2023-10-12": 61472,
-  "2023-10-13": 61486,
-  "2023-10-14": 61494,
-  "2023-10-15": 61506,
-  "2023-10-16": 61509,
-  "2023-10-17": 61522,
-  "2023-10-18": 61538,
-  "2023-10-19": 61556,
-  "2023-10-20": 61580,
-  "2023-10-21": 61600,
-  "2023-10-22": 61629,
-  "2023-10-23": 61638,
-  "2023-10-24": 61666,
-  "2023-10-25": 61687,
-  "2023-10-26": 61712,
-  "2023-10-27": 61743,
-  "2023-10-28": 61743,
-  "2023-10-29": 61777,
-  "2023-10-30": 61788,
-  "2023-10-31": 61788,
-  "2023-11-01": 61832,
-  "2023-11-02": 61862,
-  "2023-11-03": 61880,
-  "2023-11-04": 61897,
-  "2023-11-05": 61919,
-  "2023-11-06": 61940,
-  "2023-11-07": 61952,
-  "2023-11-08": 61980,
-  "2023-11-09": 62019,
-  "2023-11-10": 62049,
-  "2023-11-11": 62067,
-  "2023-11-12": 62078,
-  "2023-11-13": 62097,
-  "2023-11-14": 62114,
-  "2023-11-15": 62114,
-  "2023-11-16": 62140,
-  "2023-11-17": 62155,
-  "2023-11-18": 62155,
-  "2023-11-19": 62166,
-  "2023-11-20": 62178,
-  "2023-11-21": 62198,
-  "2023-11-22": 62224,
-  "2023-11-23": 62242,
-  "2023-11-24": 62242,
-  "2023-11-25": 62274,
-  "2023-11-26": 62299,
-  "2023-11-27": 62309,
-  "2023-11-28": 62329,
-  "2023-11-29": 62350,
-  "2023-11-30": 62350,
-  "2023-12-01": 62354,
-  "2023-12-02": 62354,
-  "2023-12-03": 62364,
-  "2023-12-04": 62370,
-  "2023-12-05": 62375,
-  "2023-12-06": 62384,
-  "2023-12-07": 62406,
-  "2023-12-08": 62426,
-  "2023-12-09": 62447,
-  "2023-12-10": 62466,
-  "2023-12-11": 62483,
-  "2023-12-12": 62483,
-  "2023-12-13": 62508,
-  "2023-12-14": 62524,
-  "2023-12-15": 62536,
-  "2023-12-16": 62550,
-  "2023-12-17": 62564,
-  "2023-12-18": 62578,
-  "2023-12-19": 62593,
-  "2023-12-20": 62625,
-  "2023-12-21": 62645,
-  "2023-12-22": 62656,
-  "2023-12-23": 62677,
-  "2023-12-24": 62693,
-  "2023-12-25": 62715,
-  "2023-12-26": 62727,
-  "2023-12-27": 62737,
-  "2023-12-30": 62780,
-  "2023-12-31": 62790,
-  "2024-01-01": 62813,
-  "2024-01-02": 62820,
-  "2024-01-03": 62822
+  "2024-01-17": 63000,
+  "date_first_scraped": "2022-03-24",
+  "description": "Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.",
+  "name": "Rap Geek",
+  "tracks": [
+    {
+      "album": {
+        "name": "Akatsuki Gang",
+        "url": "https://open.spotify.com/album/2letRy6PxriThU7pGxNfeB"
+      },
+      "artists": [
+        {
+          "name": "Geekmusik",
+          "url": "https://open.spotify.com/artist/3kzjMNNmKlPwI0FvPQJzps"
+        },
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        },
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        },
+        {
+          "name": "Sidney Scaccio",
+          "url": "https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu"
+        },
+        {
+          "name": "TK Raps",
+          "url": "https://open.spotify.com/artist/1KeEGKVJWq67DtXPZFh2mq"
+        },
+        {
+          "name": "Fel\u00edcia Rock",
+          "url": "https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B"
+        },
+        {
+          "name": "Takr",
+          "url": "https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD"
+        },
+        {
+          "name": "Tauz",
+          "url": "https://open.spotify.com/artist/2fbeD4DgpQGFbowONHP6uj"
+        },
+        {
+          "name": "VG Beats",
+          "url": "https://open.spotify.com/artist/4Bh0y5G503CoxJazUbgKxY"
+        },
+        {
+          "name": "Jag",
+          "url": "https://open.spotify.com/artist/7I5OqFRkQwd3JJvUrCYK5k"
+        },
+        {
+          "name": "Marck",
+          "url": "https://open.spotify.com/artist/6rU9HFzoXT80f6ITVEgDsb"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 398764,
+      "name": "Akatsuki Gang",
+      "url": "https://open.spotify.com/track/6Q0UgUQaE8IdAwju7lUbk5"
+    },
+    {
+      "album": {
+        "name": "Amor Complicado",
+        "url": "https://open.spotify.com/album/11Nr9YVEykejmmWdaz6eJa"
+      },
+      "artists": [
+        {
+          "name": "Fel\u00edcia Rock",
+          "url": "https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B"
+        },
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 243010,
+      "name": "Amor Complicado",
+      "url": "https://open.spotify.com/track/1fiaPgQcrNhNPYdFouflft"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IruRk9n5F8C986iA5JGg2"
+      },
+      "artists": [
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251959,
+      "name": "Bbay",
+      "url": "https://open.spotify.com/track/12U9gfj6mqCY7HO1HiZYIw"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man",
+        "url": "https://open.spotify.com/album/5c5TZZCOaiwyBO479W12a2"
+      },
+      "artists": [
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "Chainsaw Man",
+      "url": "https://open.spotify.com/track/3AF9WkqyCw1U6Vlalt3pQ5"
+    },
+    {
+      "album": {
+        "name": "Chamas Azuis",
+        "url": "https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg"
+      },
+      "artists": [
+        {
+          "name": "Takr",
+          "url": "https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD"
+        },
+        {
+          "name": "808 Ander",
+          "url": "https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222608,
+      "name": "Chamas Azuis",
+      "url": "https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA"
+    },
+    {
+      "album": {
+        "name": "Chuva de Kunai",
+        "url": "https://open.spotify.com/album/6Ws7SAfsSmqkGGCjhX3LUk"
+      },
+      "artists": [
+        {
+          "name": "Fel\u00edcia Rock",
+          "url": "https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B"
+        },
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 199632,
+      "name": "Chuva de Kunai",
+      "url": "https://open.spotify.com/track/4usBkW8CT7JWQeKKFOrzmX"
+    },
+    {
+      "album": {
+        "name": "Chuva de Kunai",
+        "url": "https://open.spotify.com/album/30XPTajhSn4Ppj3V3UXvlZ"
+      },
+      "artists": [
+        {
+          "name": "Fel\u00edcia Rock",
+          "url": "https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B"
+        },
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199632,
+      "name": "Chuva de Kunai",
+      "url": "https://open.spotify.com/track/5nOfsUpaptWMqeyGmkyz9i"
+    },
+    {
+      "album": {
+        "name": "Chuva de Kunai",
+        "url": "https://open.spotify.com/album/3VfiWdnJHEUHT34XUUn68f"
+      },
+      "artists": [
+        {
+          "name": "Fel\u00edcia Rock",
+          "url": "https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B"
+        },
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 199632,
+      "name": "Chuva de Kunai",
+      "url": "https://open.spotify.com/track/7iKZKK9gpHpOeW0Hwredfy"
+    },
+    {
+      "album": {
+        "name": "Cria Da Folha",
+        "url": "https://open.spotify.com/album/74MIWbllspaCXOOGhX7UPb"
+      },
+      "artists": [
+        {
+          "name": "Takr",
+          "url": "https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD"
+        },
+        {
+          "name": "Sidney Scaccio",
+          "url": "https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu"
+        },
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Cria Da Folha",
+      "url": "https://open.spotify.com/track/2g57Cb8iArpvKqfEArfZcY"
+    },
+    {
+      "album": {
+        "name": "Death Note",
+        "url": "https://open.spotify.com/album/3odZS05zGujBVVRLMNEwR5"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231202,
+      "name": "Death Note",
+      "url": "https://open.spotify.com/track/1K6yxhSJsQuMzDhtmk7W81"
+    },
+    {
+      "album": {
+        "name": "Death Note",
+        "url": "https://open.spotify.com/album/0VsaLl72TuSij9cxQqBS1t"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 231202,
+      "name": "Death Note",
+      "url": "https://open.spotify.com/track/68ihXI8WnBpdrA8iLOirHw"
+    },
+    {
+      "album": {
+        "name": "Deidara: Nuke",
+        "url": "https://open.spotify.com/album/78rJ5rijVFOMChNbvzQt5g"
+      },
+      "artists": [
+        {
+          "name": "Flash Beats Manow",
+          "url": "https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 238000,
+      "name": "Deidara: Nuke",
+      "url": "https://open.spotify.com/track/0m5pkgoPtYqrj2y2j7BNrS"
+    },
+    {
+      "album": {
+        "name": "Dragon Ball Gang (TcheloBeats & Zatto Remix)",
+        "url": "https://open.spotify.com/album/2X7cWG1c9Q33PN6AHLIj3p"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        },
+        {
+          "name": "PTKZIN",
+          "url": "https://open.spotify.com/artist/3eCFudVzz38UzS7s2L0Map"
+        },
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/1WLZ4aZ98cFqryW57bfQkc"
+        },
+        {
+          "name": "AKASHI",
+          "url": "https://open.spotify.com/artist/6vozzZH9GTSlUBXjRJNgYi"
+        },
+        {
+          "name": "TcheloBeats",
+          "url": "https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B"
+        },
+        {
+          "name": "Zatto",
+          "url": "https://open.spotify.com/artist/4lkGiellFSP2r9s9oR9qo4"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235347,
+      "name": "Dragon Ball Gang - TcheloBeats & Zatto Remix",
+      "url": "https://open.spotify.com/track/4pH5wh6Nbmz5gvlRMv4nGm"
+    },
+    {
+      "album": {
+        "name": "Ent\u00e3o Eletrifique",
+        "url": "https://open.spotify.com/album/13xj1xw9CDK8KHcg9810kf"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 330039,
+      "name": "Ent\u00e3o Eletrifique",
+      "url": "https://open.spotify.com/track/58Vs1JCZm1Ozfg3dxRFW4T"
+    },
+    {
+      "album": {
+        "name": "Ent\u00e3o Eletrifique",
+        "url": "https://open.spotify.com/album/11WgBAEBpB8NbBx0allLYe"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 330039,
+      "name": "Ent\u00e3o Eletrifique",
+      "url": "https://open.spotify.com/track/63UGvxRZSJMHFjYcUs0TdL"
+    },
+    {
+      "album": {
+        "name": "Ent\u00e3o Eletrifique",
+        "url": "https://open.spotify.com/album/42W4kQnmlIzwrk6IhK75I6"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330039,
+      "name": "Ent\u00e3o Eletrifique",
+      "url": "https://open.spotify.com/track/6SLpDYpLCpPeYPCIvwoW9l"
+    },
+    {
+      "album": {
+        "name": "Ent\u00e3o Se Afogue",
+        "url": "https://open.spotify.com/album/2zO12kHYSqn4kuYRryCCXA"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 304353,
+      "name": "Ent\u00e3o Se Afogue",
+      "url": "https://open.spotify.com/track/1UAoopP5YgFJvpm5s4qJYP"
+    },
+    {
+      "album": {
+        "name": "Ent\u00e3o Se Afogue",
+        "url": "https://open.spotify.com/album/6H4led0139AUtgarjmkhvs"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304354,
+      "name": "Ent\u00e3o Se Afogue",
+      "url": "https://open.spotify.com/track/0TAPQcswcOefou6pXSKjjG"
+    },
+    {
+      "album": {
+        "name": "Ent\u00e3o Se Afogue",
+        "url": "https://open.spotify.com/album/341vwbxFVT1gzohGXxwET9"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 304354,
+      "name": "Ent\u00e3o Se Afogue",
+      "url": "https://open.spotify.com/track/65vQE4uU8Vl7qH5pB8lwRN"
+    },
+    {
+      "album": {
+        "name": "Esse \u00e9 o melhor Rap do Levi",
+        "url": "https://open.spotify.com/album/27MB9kSbxFtNMFsR4pqyDF"
+      },
+      "artists": [
+        {
+          "name": "Byakuran",
+          "url": "https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163657,
+      "name": "Esse \u00e9 o melhor Rap do Levi",
+      "url": "https://open.spotify.com/track/0TIL1uiTx69oaBUOSZZBXS"
+    },
+    {
+      "album": {
+        "name": "Estilo Ninja",
+        "url": "https://open.spotify.com/album/1UR0J9WLgYQIqbp2JvrU39"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206165,
+      "name": "Estilo Ninja",
+      "url": "https://open.spotify.com/track/051X68OEo3DDJD5Qieu4VX"
+    },
+    {
+      "album": {
+        "name": "Estilo Ninja",
+        "url": "https://open.spotify.com/album/1gHHeZFCqtSUUQmJiBYTWO"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 206165,
+      "name": "Estilo Ninja",
+      "url": "https://open.spotify.com/track/4s26Od5JQ2hhsTM3yhTeX0"
+    },
+    {
+      "album": {
+        "name": "Estilo Ninja",
+        "url": "https://open.spotify.com/album/5oRTrJ28ZEkRLckMsbvtV6"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 206165,
+      "name": "Estilo Ninja",
+      "url": "https://open.spotify.com/track/5gx959g5KMe4E1MPDYoBwN"
+    },
+    {
+      "album": {
+        "name": "Eu t\u00f4 viajando",
+        "url": "https://open.spotify.com/album/5arN4faBxWMvV9RroZAh8l"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168413,
+      "name": "Eu t\u00f4 viajando",
+      "url": "https://open.spotify.com/track/1TNHMVG6nuM1ZkmpsUT3rq"
+    },
+    {
+      "album": {
+        "name": "Homem Aranha 2099",
+        "url": "https://open.spotify.com/album/4nqeJtuIcFncsXgIdb9gIg"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244117,
+      "name": "Homem Aranha 2099",
+      "url": "https://open.spotify.com/track/7oXLXGVe9NCtKTLLt1m74F"
+    },
+    {
+      "album": {
+        "name": "Ira do Imperador",
+        "url": "https://open.spotify.com/album/17fPIDlmeA81BVhfy2PJeT"
+      },
+      "artists": [
+        {
+          "name": "WLO Raps",
+          "url": "https://open.spotify.com/artist/5mK0ia4fsBwPubjA05Zg4p"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 289598,
+      "name": "Ira do Imperador",
+      "url": "https://open.spotify.com/track/3mIDmzWZ0j6YCTmfx9HeZv"
+    },
+    {
+      "album": {
+        "name": "Lobo da Morte",
+        "url": "https://open.spotify.com/album/5ROinWZCjY4vRWTjiCBZXy"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209902,
+      "name": "Lobo da Morte",
+      "url": "https://open.spotify.com/track/3njxGUCNJwcYw5ngNbTvRu"
+    },
+    {
+      "album": {
+        "name": "Madara",
+        "url": "https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK"
+      },
+      "artists": [
+        {
+          "name": "nakashisam",
+          "url": "https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR"
+        },
+        {
+          "name": "Nerexx",
+          "url": "https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw"
+        },
+        {
+          "name": "Tukatrip",
+          "url": "https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 265714,
+      "name": "Madara",
+      "url": "https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9"
+    },
+    {
+      "album": {
+        "name": "Madara: A Lenda Reencarnada",
+        "url": "https://open.spotify.com/album/3a9dHWUNuQIK3zrslZsmnE"
+      },
+      "artists": [
+        {
+          "name": "Flash Beats Manow",
+          "url": "https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210717,
+      "name": "Madara: A Lenda Reencarnada",
+      "url": "https://open.spotify.com/track/70EKfzmUOGLZCbl2s9qJ8F"
+    },
+    {
+      "album": {
+        "name": "Maldi\u00e7\u00e3o do \u00d3dio",
+        "url": "https://open.spotify.com/album/1Yk3IYnEjuGb8zSmkbK7No"
+      },
+      "artists": [
+        {
+          "name": "Takr",
+          "url": "https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD"
+        },
+        {
+          "name": "Sidney Scaccio",
+          "url": "https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295848,
+      "name": "Maldi\u00e7\u00e3o do \u00d3dio",
+      "url": "https://open.spotify.com/track/0zMvUqDRnUxJVE7VBiCCFE"
+    },
+    {
+      "album": {
+        "name": "Os Tit\u00e3s Primordiais",
+        "url": "https://open.spotify.com/album/4k3S6NHWgwhVv16HAG2190"
+      },
+      "artists": [
+        {
+          "name": "anirap",
+          "url": "https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446896,
+      "name": "Os Tit\u00e3s Primordiais",
+      "url": "https://open.spotify.com/track/3aZ0jBsXRFbiXIFDLZR6wa"
+    },
+    {
+      "album": {
+        "name": "Os Tit\u00e3s Primordiais",
+        "url": "https://open.spotify.com/album/4wD4408RcHK6fkx4UVUyi6"
+      },
+      "artists": [
+        {
+          "name": "anirap",
+          "url": "https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-11",
+      "duration_ms": 446896,
+      "name": "Os Tit\u00e3s Primordiais",
+      "url": "https://open.spotify.com/track/5NHs07BtDcca8fOB8v9wNF"
+    },
+    {
+      "album": {
+        "name": "Outro Planeta",
+        "url": "https://open.spotify.com/album/1jede7bKc66D4u2xgkSrJJ"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        },
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 235485,
+      "name": "Outro Planeta",
+      "url": "https://open.spotify.com/track/4N6yQOXdqzkadCofN9z1GV"
+    },
+    {
+      "album": {
+        "name": "Pai da Humanidade (Ad\u00e3o)",
+        "url": "https://open.spotify.com/album/6aVdnN4n6d3g8py8alrKkm"
+      },
+      "artists": [
+        {
+          "name": "Enygma Rapper",
+          "url": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217435,
+      "name": "Pai da Humanidade (Ad\u00e3o)",
+      "url": "https://open.spotify.com/track/1By63MALvoiyxWv21qlX5r"
+    },
+    {
+      "album": {
+        "name": "Pai da Humanidade (Ad\u00e3o)",
+        "url": "https://open.spotify.com/album/6V7KPJGqmpgWKarpIogA7r"
+      },
+      "artists": [
+        {
+          "name": "Enygma Rapper",
+          "url": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 217435,
+      "name": "Pai da Humanidade (Ad\u00e3o)",
+      "url": "https://open.spotify.com/track/389oniwXlh3UjZNsXARb9B"
+    },
+    {
+      "album": {
+        "name": "Pique Minato",
+        "url": "https://open.spotify.com/album/5ri4PGz7cj1R9GTf5lHpr2"
+      },
+      "artists": [
+        {
+          "name": "Sidney Scaccio",
+          "url": "https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178299,
+      "name": "Pique Minato",
+      "url": "https://open.spotify.com/track/1hOuDUJ8pqh5gwGiZpl2xG"
+    },
+    {
+      "album": {
+        "name": "Pique Narut\u00e3o",
+        "url": "https://open.spotify.com/album/0NtyHYCaTcHk25sROuomEL"
+      },
+      "artists": [
+        {
+          "name": "Sidney Scaccio",
+          "url": "https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181834,
+      "name": "Pique Narut\u00e3o",
+      "url": "https://open.spotify.com/track/5b8WiNjA6ihEvaeB9J3eyQ"
+    },
+    {
+      "album": {
+        "name": "Puni\u00e7\u00e3o Divina",
+        "url": "https://open.spotify.com/album/05fzl1PzT4xtsxJok87zfV"
+      },
+      "artists": [
+        {
+          "name": "Flash Beats Manow",
+          "url": "https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 241136,
+      "name": "Puni\u00e7\u00e3o Divina",
+      "url": "https://open.spotify.com/track/5zYv54TK6OKcEfM74HWkkY"
+    },
+    {
+      "album": {
+        "name": "Putz Animes - Vibe Zabuza 2",
+        "url": "https://open.spotify.com/album/4gQBNib1VzNA7K3zST5ZUu"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221388,
+      "name": "Putz Animes - Vibe Zabuza 2",
+      "url": "https://open.spotify.com/track/6MTfh45Ywrgu1jS27Zd1kn"
+    },
+    {
+      "album": {
+        "name": "Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo (Nerd Hits)",
+        "url": "https://open.spotify.com/album/4VazcwScVO1t0fXDXXqQVr"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 591298,
+      "name": "Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo (Nerd Hits)",
+      "url": "https://open.spotify.com/track/2iNZMMFEii4fU827NTyQ1J"
+    },
+    {
+      "album": {
+        "name": "Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo (Nerd Hits)",
+        "url": "https://open.spotify.com/album/22mM3uheuOoCmlbe2079WE"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 591298,
+      "name": "Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo (Nerd Hits)",
+      "url": "https://open.spotify.com/track/3YWdolIwRLOeLbmj5Q9lIO"
+    },
+    {
+      "album": {
+        "name": "Rap Do Brook: Can\u00e7\u00e3o Solo",
+        "url": "https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo"
+      },
+      "artists": [
+        {
+          "name": "Basara",
+          "url": "https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232031,
+      "name": "Rap Do Brook: Can\u00e7\u00e3o Solo",
+      "url": "https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh"
+    },
+    {
+      "album": {
+        "name": "Rap Do Chopper: Flores de Cerejeira",
+        "url": "https://open.spotify.com/album/3EqMHlH0AMgUmx7xgf73aI"
+      },
+      "artists": [
+        {
+          "name": "Enygma Rapper",
+          "url": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 276951,
+      "name": "Rap Do Chopper: Flores de Cerejeira",
+      "url": "https://open.spotify.com/track/1Vc4CybtR522rCPaOnIfGq"
+    },
+    {
+      "album": {
+        "name": "Rap Do Chopper: Flores de Cerejeira",
+        "url": "https://open.spotify.com/album/2zzvk4nbKZT3sA7flUuTGu"
+      },
+      "artists": [
+        {
+          "name": "Enygma Rapper",
+          "url": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276951,
+      "name": "Rap Do Chopper: Flores de Cerejeira",
+      "url": "https://open.spotify.com/track/58oDtx7UCVl3TiKjjcGm92"
+    },
+    {
+      "album": {
+        "name": "Rap do Deidara: A Arte \u00e9 a Explos\u00e3o (Nerd Hits)",
+        "url": "https://open.spotify.com/album/6ydM4MMf11n5nlX4AApjVl"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 183529,
+      "name": "Rap do Deidara: A Arte \u00e9 a Explos\u00e3o (Nerd Hits)",
+      "url": "https://open.spotify.com/track/1w20E6WZTvi5HsKua0NG7M"
+    },
+    {
+      "album": {
+        "name": "Rap do Deidara: A Arte \u00e9 a Explos\u00e3o (Nerd Hits)",
+        "url": "https://open.spotify.com/album/2WRMKQP4RqmmCNktiP6lQS"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Rap do Deidara: A Arte \u00e9 a Explos\u00e3o (Nerd Hits)",
+      "url": "https://open.spotify.com/track/6JxtFNFJUV9rC75lc4knS0"
+    },
+    {
+      "album": {
+        "name": "Rap do Hidan: Vai Come\u00e7ar o Ritual (Nerd Hits)",
+        "url": "https://open.spotify.com/album/0crukJhJaU4xCCamzJFTNN"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247580,
+      "name": "Rap do Hidan: Vai Come\u00e7ar o Ritual (Nerd Hits)",
+      "url": "https://open.spotify.com/track/4RQfj4QMNXCLdheNn8yVD6"
+    },
+    {
+      "album": {
+        "name": "Rap do Hidan: Vai Come\u00e7ar o Ritual (Nerd Hits)",
+        "url": "https://open.spotify.com/album/7GuiTHccS9d8TS23nUJd8u"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247580,
+      "name": "Rap do Hidan: Vai Come\u00e7ar o Ritual (Nerd Hits)",
+      "url": "https://open.spotify.com/track/79EHb16oanzXi2wvzmnQJN"
+    },
+    {
+      "album": {
+        "name": "Rap do Itachi: Essa Dor Que Causei... (NERD HITS)",
+        "url": "https://open.spotify.com/album/51waJCCTeUhh893IsA9AeS"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192060,
+      "name": "Rap do Itachi: Essa Dor Que Causei... (NERD HITS)",
+      "url": "https://open.spotify.com/track/1AiQsM4HVi0A3xxrXKvdxu"
+    },
+    {
+      "album": {
+        "name": "Rap do Joel e Ellie: Os \u00daltimos de N\u00f3s (Nerd Hits)",
+        "url": "https://open.spotify.com/album/5x2ikiZvnPMizCzblW4Tlc"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209032,
+      "name": "Rap do Joel e Ellie: Os \u00daltimos de N\u00f3s (Nerd Hits)",
+      "url": "https://open.spotify.com/track/0ziohjywd3fnfwm9Qm8cGF"
+    },
+    {
+      "album": {
+        "name": "Rap do Joel e Ellie: Os \u00daltimos de N\u00f3s (Nerd Hits)",
+        "url": "https://open.spotify.com/album/6SGI4HBaLeqcy5BwiC3OWu"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Rap do Joel e Ellie: Os \u00daltimos de N\u00f3s (Nerd Hits)",
+      "url": "https://open.spotify.com/track/1k0Mtei0Qu87Xg16OMA6md"
+    },
+    {
+      "album": {
+        "name": "Rap do Killua: Godspeed",
+        "url": "https://open.spotify.com/album/73q2LBACwwMPPzkfITaduS"
+      },
+      "artists": [
+        {
+          "name": "Enygma Rapper",
+          "url": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180340,
+      "name": "Rap do Killua: Godspeed",
+      "url": "https://open.spotify.com/track/5bH36BU1Z4zAUcY2MTvL64"
+    },
+    {
+      "album": {
+        "name": "Rap do Meliodas: Consumido Pela Ira",
+        "url": "https://open.spotify.com/album/28CWz3qiQswT8wnvM49LlZ"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 203290,
+      "name": "Rap do Meliodas: Consumido Pela Ira",
+      "url": "https://open.spotify.com/track/2AFOndIrniASqg5sFXtBSs"
+    },
+    {
+      "album": {
+        "name": "Rap do Meliodas: Consumido Pela Ira",
+        "url": "https://open.spotify.com/album/4wEPmSVaWCsIiZEK6IGk1a"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 203290,
+      "name": "Rap do Meliodas: Consumido Pela Ira",
+      "url": "https://open.spotify.com/track/2pIUqduie7GAxlfCJSd9MW"
+    },
+    {
+      "album": {
+        "name": "Rap do Meliodas: Consumido Pela Ira",
+        "url": "https://open.spotify.com/album/5leNTgSaFHW5PqK5Mmbr7P"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203290,
+      "name": "Rap do Meliodas: Consumido Pela Ira",
+      "url": "https://open.spotify.com/track/64ULjIj27Iu3iYXZmCwV5v"
+    },
+    {
+      "album": {
+        "name": "Rap do Naruto: O S\u00e9timo Hokage (Nerd Hits)",
+        "url": "https://open.spotify.com/album/0JLQS1y6f2uTvyKP4izPAy"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 236420,
+      "name": "Rap do Naruto: O S\u00e9timo Hokage (Nerd Hits)",
+      "url": "https://open.spotify.com/track/3ksOOop62ZdT0MJuXttpxq"
+    },
+    {
+      "album": {
+        "name": "Rap do Naruto: O S\u00e9timo Hokage (Nerd Hits)",
+        "url": "https://open.spotify.com/album/6YNpUmtjrGTzAhEh56QA6F"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236420,
+      "name": "Rap do Naruto: O S\u00e9timo Hokage (Nerd Hits)",
+      "url": "https://open.spotify.com/track/7DWialEIm1eklBVKQwxgFl"
+    },
+    {
+      "album": {
+        "name": "Rap do Usopp: Um Bravo Guerreiro do Mar (Nerd Hits)",
+        "url": "https://open.spotify.com/album/1ji8ZZfUOYyqKDcCTfJfWO"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253220,
+      "name": "Rap do Usopp: Um Bravo Guerreiro do Mar (Nerd Hits)",
+      "url": "https://open.spotify.com/track/5NutfzyvLi2dqJLYxHdIgv"
+    },
+    {
+      "album": {
+        "name": "Rap do Zoro: O Maior Espadachim do Mundo (Nerd Hits)",
+        "url": "https://open.spotify.com/album/4bZJ9l9F1gnc4fFjJaWAv3"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209984,
+      "name": "Rap do Zoro: O Maior Espadachim do Mundo (Nerd Hits)",
+      "url": "https://open.spotify.com/track/4QZbAIUPX2qUIrs7oXEXnK"
+    },
+    {
+      "album": {
+        "name": "Rap do Zoro: O Maior Espadachim do Mundo (Nerd Hits)",
+        "url": "https://open.spotify.com/album/4M15kEp2oeRXUV3UsApUms"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209984,
+      "name": "Rap do Zoro: O Maior Espadachim do Mundo (Nerd Hits)",
+      "url": "https://open.spotify.com/track/4suKHiKiIP8uBmYWRBm3l9"
+    },
+    {
+      "album": {
+        "name": "Rap Dos Coringas: Circo Dos Horrores (Nerd Hits)",
+        "url": "https://open.spotify.com/album/5p1E1MImo4ZitXfCRDv7p0"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151314,
+      "name": "Rap Dos Coringas: Circo Dos Horrores (Nerd Hits)",
+      "url": "https://open.spotify.com/track/0AH0eFTZaQ6V7Qzj3ap7QY"
+    },
+    {
+      "album": {
+        "name": "Rap Dos Coringas: Circo Dos Horrores (Nerd Hits)",
+        "url": "https://open.spotify.com/album/3VeyxUS5BOFLenyKbNsscq"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 151314,
+      "name": "Rap Dos Coringas: Circo Dos Horrores (Nerd Hits)",
+      "url": "https://open.spotify.com/track/3j4bPNymMeOJOw0WXhc9FU"
+    },
+    {
+      "album": {
+        "name": "Rap dos Hokages: A Vontade do Fogo (Nerd Hits)",
+        "url": "https://open.spotify.com/album/6A85XFB7IFOOtxROr4Aj3B"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 561495,
+      "name": "Rap dos Hokages: A Vontade do Fogo (Nerd Hits)",
+      "url": "https://open.spotify.com/track/2hHMICUam5FJowur5Ca1Lj"
+    },
+    {
+      "album": {
+        "name": "Rap dos Hokages: A Vontade do Fogo (Nerd Hits)",
+        "url": "https://open.spotify.com/album/0epgFUtxp0mQwVWiGHbqzE"
+      },
+      "artists": [
+        {
+          "name": "7 Minutoz",
+          "url": "https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561495,
+      "name": "Rap dos Hokages: A Vontade do Fogo (Nerd Hits)",
+      "url": "https://open.spotify.com/track/6xcQRc6H2UdTX425C2YzNY"
+    },
+    {
+      "album": {
+        "name": "Rei dos Piratas",
+        "url": "https://open.spotify.com/album/5o1Rdvz6hHdG957z6Z3f9w"
+      },
+      "artists": [
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209966,
+      "name": "Rei dos Piratas",
+      "url": "https://open.spotify.com/track/3CDYKrq6GAp7AIw6ujmVn1"
+    },
+    {
+      "album": {
+        "name": "Revis\u00e3o",
+        "url": "https://open.spotify.com/album/2R9JVverYumzwMQAItWkNo"
+      },
+      "artists": [
+        {
+          "name": "Enygma Rapper",
+          "url": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275250,
+      "name": "Revis\u00e3o",
+      "url": "https://open.spotify.com/track/0yFxPVCoYaZIPDeuntqHpl"
+    },
+    {
+      "album": {
+        "name": "Revis\u00e3o",
+        "url": "https://open.spotify.com/album/03SB4h85dE0paMinzDBIbO"
+      },
+      "artists": [
+        {
+          "name": "Enygma Rapper",
+          "url": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
+      "duration_ms": 275250,
+      "name": "Revis\u00e3o",
+      "url": "https://open.spotify.com/track/3AQIGKFepAlEyMeV1VQVjZ"
+    },
+    {
+      "album": {
+        "name": "Se Ajoelhe",
+        "url": "https://open.spotify.com/album/7lzPoJm7sSXvqxyTwr9bmQ"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227633,
+      "name": "Se Ajoelhe",
+      "url": "https://open.spotify.com/track/1KaxJnnYE8BZ37FXPBPjmi"
+    },
+    {
+      "album": {
+        "name": "Se Ajoelhe",
+        "url": "https://open.spotify.com/album/79oJSsNswdXJ1wAH2JB929"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 227633,
+      "name": "Se Ajoelhe",
+      "url": "https://open.spotify.com/track/1xVzfXASMOg5zoBGRoe7in"
+    },
+    {
+      "album": {
+        "name": "Se Ajoelhe",
+        "url": "https://open.spotify.com/album/3ZyyV0HWP8Z0nAFyCa3UIx"
+      },
+      "artists": [
+        {
+          "name": "TK RAPS",
+          "url": "https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx"
+        },
+        {
+          "name": "Flash Beats",
+          "url": "https://open.spotify.com/artist/7IFhE5NzZZlsfvPZH84fY9"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 227633,
+      "name": "Se Ajoelhe",
+      "url": "https://open.spotify.com/track/4rKp63bn9KsACPgCahmLLP"
+    },
+    {
+      "album": {
+        "name": "Senpai",
+        "url": "https://open.spotify.com/album/47fz9EQIEJxhEx3lbvAMjn"
+      },
+      "artists": [
+        {
+          "name": "Fel\u00edcia Rock",
+          "url": "https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 193361,
+      "name": "Senpai",
+      "url": "https://open.spotify.com/track/3bT0HyZG4LDJmG5IB8BHSi"
+    },
+    {
+      "album": {
+        "name": "Senpai",
+        "url": "https://open.spotify.com/album/61qHIjDtaPBkftWKSHkqua"
+      },
+      "artists": [
+        {
+          "name": "Fel\u00edcia Rock",
+          "url": "https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 193361,
+      "name": "Senpai",
+      "url": "https://open.spotify.com/track/6jEhGdJj7F3mDf4ABc5Mrx"
+    },
+    {
+      "album": {
+        "name": "Senpai",
+        "url": "https://open.spotify.com/album/5rZU10IBURrvmenyMGF4zj"
+      },
+      "artists": [
+        {
+          "name": "Fel\u00edcia Rock",
+          "url": "https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193361,
+      "name": "Senpai",
+      "url": "https://open.spotify.com/track/70j0FQ3htaLkadLHHaiXDE"
+    },
+    {
+      "album": {
+        "name": "Sete Pecados Capitais",
+        "url": "https://open.spotify.com/album/7gZnPoiybTDKjXe7NmEvms"
+      },
+      "artists": [
+        {
+          "name": "anirap",
+          "url": "https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306814,
+      "name": "Sete Pecados Capitais",
+      "url": "https://open.spotify.com/track/7hOpo4Xghw0EX1HgShJU3o"
+    },
+    {
+      "album": {
+        "name": "SpeedLord: Akatsuki",
+        "url": "https://open.spotify.com/album/14iuVUCKKTKUqJIDRCktTG"
+      },
+      "artists": [
+        {
+          "name": "Flash Beats Manow",
+          "url": "https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313559,
+      "name": "SpeedLord: Akatsuki",
+      "url": "https://open.spotify.com/track/0Xo6kYVMKlisXIMUFJmbwS"
+    },
+    {
+      "album": {
+        "name": "Tai Otoshi",
+        "url": "https://open.spotify.com/album/4G9Zhc8lxnXKU6sB66N7Vj"
+      },
+      "artists": [
+        {
+          "name": "Zero Meia",
+          "url": "https://open.spotify.com/artist/4SqZO99ISUJpwisAug6yfQ"
+        },
+        {
+          "name": "Gean Brazy",
+          "url": "https://open.spotify.com/artist/5Xw6Mw9iq5Q9pBf24Cu0EQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Tai Otoshi",
+      "url": "https://open.spotify.com/track/1RYDGeACNeHLgK2XqJa3n8"
+    },
+    {
+      "album": {
+        "name": "Tipo Gotenks",
+        "url": "https://open.spotify.com/album/0GKL2s9FkkKtK3wBFDbUfI"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 202628,
+      "name": "Tipo Gotenks",
+      "url": "https://open.spotify.com/track/4XfvgreDThgRwqZui7VNx8"
+    },
+    {
+      "album": {
+        "name": "Tipo Hashirama",
+        "url": "https://open.spotify.com/album/3bNAqFuhuEB3YejTOnyyQU"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189477,
+      "name": "Tipo Hashirama",
+      "url": "https://open.spotify.com/track/1vX0KmArqxz2b0ByQQp81H"
+    },
+    {
+      "album": {
+        "name": "Tipo Kisame",
+        "url": "https://open.spotify.com/album/2IrjtJ2rw6bAa2MKoPRRK3"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191222,
+      "name": "Tipo Kisame",
+      "url": "https://open.spotify.com/track/6PoHGkWg6VR2xXnKdMPMkn"
+    },
+    {
+      "album": {
+        "name": "Tipo Levi",
+        "url": "https://open.spotify.com/album/2pu2qYzGmssUHGlj1fTOiL"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 209424,
+      "name": "Tipo Levi",
+      "url": "https://open.spotify.com/track/1cyyZkX9dUt8ilAfc96jg8"
+    },
+    {
+      "album": {
+        "name": "Tipo Madara",
+        "url": "https://open.spotify.com/album/7drkyFzSw3TI0sg7JPlynu"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198388,
+      "name": "Tipo Madara",
+      "url": "https://open.spotify.com/track/5X4H4ZCxjwHFuj5CMtgJ6s"
+    },
+    {
+      "album": {
+        "name": "Tipo Merus",
+        "url": "https://open.spotify.com/album/75LVPBkmocAq32tQhXqG7k"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192596,
+      "name": "Tipo Merus",
+      "url": "https://open.spotify.com/track/1mGOmr1USqOYEkGKymzmIQ"
+    },
+    {
+      "album": {
+        "name": "Tipo Narutin",
+        "url": "https://open.spotify.com/album/0ikI9k4kn5GqbML5UrGQnF"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188834,
+      "name": "Tipo Narutin",
+      "url": "https://open.spotify.com/track/4nqvl1yLuiGO5C6TtwbKhS"
+    },
+    {
+      "album": {
+        "name": "Tipo Tobi",
+        "url": "https://open.spotify.com/album/5ufXwSFcC7e6DcromjzEBc"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204448,
+      "name": "Tipo Tobi",
+      "url": "https://open.spotify.com/track/45vigZiVUySqgsMXqxhtvp"
+    },
+    {
+      "album": {
+        "name": "Tipo Tobirama",
+        "url": "https://open.spotify.com/album/1dAqa80c24lQQyj0sdObb7"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160810,
+      "name": "Tipo Tobirama",
+      "url": "https://open.spotify.com/track/4dmCXfDP4alC1JfQM3XB2h"
+    },
+    {
+      "album": {
+        "name": "Tripula\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5czSNphndXvBgjXWz102vt"
+      },
+      "artists": [
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149309,
+      "name": "Tripula\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2N9AvwuptNKvpF1BM5vl7E"
+    },
+    {
+      "album": {
+        "name": "Uni\u00e3o Otaku",
+        "url": "https://open.spotify.com/album/5b8AZgNHUnSisyN2BaJeUz"
+      },
+      "artists": [
+        {
+          "name": "Byakuran",
+          "url": "https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 139859,
+      "name": "Uni\u00e3o Otaku",
+      "url": "https://open.spotify.com/track/4O2QJmD4iRshtmNwPhnAXg"
+    },
+    {
+      "album": {
+        "name": "Vibe Zabuza",
+        "url": "https://open.spotify.com/album/45rh16gGALDIn93TdurKkg"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215839,
+      "name": "Vibe Zabuza",
+      "url": "https://open.spotify.com/track/3HWBHERbMiilhipGquIuuE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8dQ571UG10R"
 }

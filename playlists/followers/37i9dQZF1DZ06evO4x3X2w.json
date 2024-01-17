@@ -1,471 +1,1871 @@
 {
-  "2022-09-18": 585757,
-  "2022-09-19": 585963,
-  "2022-09-20": 586151,
-  "2022-09-21": 586338,
-  "2022-09-22": 586570,
-  "2022-09-23": 586803,
-  "2022-09-24": 586803,
-  "2022-09-25": 587345,
-  "2022-09-26": 587552,
-  "2022-09-27": 587771,
-  "2022-09-28": 588007,
-  "2022-09-29": 588292,
-  "2022-09-30": 588516,
-  "2022-10-01": 588763,
-  "2022-10-02": 588983,
-  "2022-10-03": 589226,
-  "2022-10-04": 589451,
-  "2022-10-05": 589647,
-  "2022-10-06": 589861,
-  "2022-10-07": 590117,
-  "2022-10-08": 590361,
-  "2022-10-09": 590793,
-  "2022-10-10": 590869,
-  "2022-10-11": 591054,
-  "2022-10-12": 591268,
-  "2022-10-13": 591545,
-  "2022-10-14": 591818,
-  "2022-10-15": 592055,
-  "2022-10-16": 592316,
-  "2022-10-17": 592556,
-  "2022-10-18": 592770,
-  "2022-10-19": 593006,
-  "2022-10-20": 593247,
-  "2022-10-21": 593522,
-  "2022-10-22": 593762,
-  "2022-10-23": 594018,
-  "2022-10-24": 594212,
-  "2022-10-25": 594387,
-  "2022-10-26": 594593,
-  "2022-10-27": 594836,
-  "2022-10-28": 595056,
-  "2022-10-29": 595330,
-  "2022-10-30": 595607,
-  "2022-10-31": 595827,
-  "2022-11-01": 595994,
-  "2022-11-02": 596221,
-  "2022-11-03": 596420,
-  "2022-11-04": 596667,
-  "2022-11-05": 596926,
-  "2022-11-06": 597158,
-  "2022-11-07": 597406,
-  "2022-11-08": 597637,
-  "2022-11-09": 597905,
-  "2022-11-10": 598159,
-  "2022-11-11": 598423,
-  "2022-11-12": 598713,
-  "2022-11-13": 598956,
-  "2022-11-14": 599177,
-  "2022-11-15": 599415,
-  "2022-11-16": 599653,
-  "2022-11-17": 599832,
-  "2022-11-18": 599901,
-  "2022-11-19": 599956,
-  "2022-11-20": 600172,
-  "2022-11-21": 600419,
-  "2022-11-22": 600657,
-  "2022-11-23": 600862,
-  "2022-11-24": 601299,
-  "2022-11-25": 601638,
-  "2022-11-26": 601904,
-  "2022-11-27": 602099,
-  "2022-11-28": 602294,
-  "2022-11-29": 602545,
-  "2022-11-30": 602756,
-  "2022-12-01": 603012,
-  "2022-12-02": 603161,
-  "2022-12-03": 603477,
-  "2022-12-04": 603732,
-  "2022-12-05": 603993,
-  "2022-12-06": 604223,
-  "2022-12-07": 604473,
-  "2022-12-08": 604715,
-  "2022-12-09": 604953,
-  "2022-12-10": 605164,
-  "2022-12-11": 605400,
-  "2022-12-12": 605671,
-  "2022-12-13": 605888,
-  "2022-12-14": 606057,
-  "2022-12-15": 606274,
-  "2022-12-16": 606478,
-  "2022-12-17": 606721,
-  "2022-12-18": 606962,
-  "2022-12-19": 607130,
-  "2022-12-20": 607551,
-  "2022-12-21": 607551,
-  "2022-12-22": 607747,
-  "2022-12-24": 608151,
-  "2022-12-25": 608391,
-  "2022-12-26": 608569,
-  "2022-12-27": 608795,
-  "2022-12-28": 609005,
-  "2022-12-29": 609265,
-  "2022-12-30": 609536,
-  "2022-12-31": 609843,
-  "2023-01-01": 610171,
-  "2023-01-02": 610366,
-  "2023-01-03": 610611,
-  "2023-01-04": 610816,
-  "2023-01-05": 611076,
-  "2023-01-06": 611394,
-  "2023-01-07": 611821,
-  "2023-01-08": 611909,
-  "2023-01-09": 612171,
-  "2023-01-10": 612437,
-  "2023-01-11": 612685,
-  "2023-01-12": 612986,
-  "2023-01-13": 613252,
-  "2023-01-14": 613833,
-  "2023-01-15": 613897,
-  "2023-01-16": 614197,
-  "2023-01-17": 614437,
-  "2023-01-18": 614677,
-  "2023-01-19": 614971,
-  "2023-01-20": 615255,
-  "2023-01-21": 615524,
-  "2023-01-22": 615837,
-  "2023-01-23": 616124,
-  "2023-01-24": 616364,
-  "2023-01-25": 616605,
-  "2023-01-26": 616817,
-  "2023-01-27": 617050,
-  "2023-01-28": 617284,
-  "2023-01-29": 617567,
-  "2023-01-30": 617831,
-  "2023-01-31": 617831,
-  "2023-02-01": 618275,
-  "2023-02-02": 618471,
-  "2023-02-03": 618729,
-  "2023-02-04": 618969,
-  "2023-02-05": 619278,
-  "2023-02-06": 619528,
-  "2023-02-07": 619736,
-  "2023-02-08": 620185,
-  "2023-02-09": 620185,
-  "2023-02-10": 620450,
-  "2023-02-11": 620712,
-  "2023-02-12": 621243,
-  "2023-02-13": 621429,
-  "2023-02-14": 621429,
-  "2023-02-15": 621640,
-  "2023-02-16": 621876,
-  "2023-02-17": 622125,
-  "2023-02-18": 622624,
-  "2023-02-19": 622665,
-  "2023-02-20": 622861,
-  "2023-02-21": 623090,
-  "2023-02-22": 623307,
-  "2023-02-23": 623557,
-  "2023-02-24": 623840,
-  "2023-02-25": 624156,
-  "2023-02-26": 624362,
-  "2023-02-27": 624828,
-  "2023-02-28": 624828,
-  "2023-03-01": 625071,
-  "2023-03-02": 625306,
-  "2023-03-03": 625567,
-  "2023-03-04": 625773,
-  "2023-03-05": 626275,
-  "2023-03-06": 626275,
-  "2023-03-07": 626540,
-  "2023-03-08": 626763,
-  "2023-03-09": 626989,
-  "2023-03-10": 627200,
-  "2023-03-11": 627430,
-  "2023-03-12": 627626,
-  "2023-03-13": 627846,
-  "2023-03-14": 628029,
-  "2023-03-15": 628243,
-  "2023-03-16": 628243,
-  "2023-03-17": 628243,
-  "2023-03-18": 629006,
-  "2023-03-19": 629006,
-  "2023-03-20": 629499,
-  "2023-03-21": 629665,
-  "2023-03-22": 629854,
-  "2023-03-23": 630061,
-  "2023-03-24": 630061,
-  "2023-03-25": 630546,
-  "2023-03-26": 630790,
-  "2023-03-27": 631069,
-  "2023-03-28": 631278,
-  "2023-03-29": 631531,
-  "2023-03-30": 631979,
-  "2023-03-31": 631979,
-  "2023-04-01": 632187,
-  "2023-04-02": 632438,
-  "2023-04-03": 632663,
-  "2023-04-04": 632847,
-  "2023-04-05": 633054,
-  "2023-04-06": 633279,
-  "2023-04-07": 633477,
-  "2023-04-09": 633901,
-  "2023-04-10": 634116,
-  "2023-04-11": 634511,
-  "2023-04-12": 634511,
-  "2023-04-13": 634707,
-  "2023-04-14": 634882,
-  "2023-04-15": 635121,
-  "2023-04-16": 635358,
-  "2023-04-17": 635594,
-  "2023-04-18": 635782,
-  "2023-04-19": 635960,
-  "2023-04-20": 636151,
-  "2023-04-21": 636392,
-  "2023-04-22": 636654,
-  "2023-04-23": 636883,
-  "2023-04-24": 637130,
-  "2023-04-25": 637320,
-  "2023-04-26": 637544,
-  "2023-04-27": 637752,
-  "2023-04-28": 637994,
-  "2023-04-29": 638254,
-  "2023-04-30": 638505,
-  "2023-05-01": 638737,
-  "2023-05-02": 639099,
-  "2023-05-03": 639475,
-  "2023-05-04": 639824,
-  "2023-05-05": 640111,
-  "2023-05-06": 640471,
-  "2023-05-07": 640801,
-  "2023-05-08": 641049,
-  "2023-05-09": 641260,
-  "2023-05-10": 641487,
-  "2023-05-11": 641725,
-  "2023-05-12": 641972,
-  "2023-05-13": 642219,
-  "2023-05-14": 642462,
-  "2023-05-15": 642686,
-  "2023-05-16": 642916,
-  "2023-05-17": 643124,
-  "2023-05-18": 643357,
-  "2023-05-19": 643616,
-  "2023-05-20": 644124,
-  "2023-05-21": 644124,
-  "2023-05-22": 644124,
-  "2023-05-23": 644573,
-  "2023-05-24": 644935,
-  "2023-05-25": 645006,
-  "2023-05-26": 645199,
-  "2023-05-27": 645459,
-  "2023-05-28": 645702,
-  "2023-05-29": 645702,
-  "2023-05-30": 646178,
-  "2023-05-31": 646403,
-  "2023-06-01": 646605,
-  "2023-06-02": 646829,
-  "2023-06-03": 647073,
-  "2023-06-04": 647349,
-  "2023-06-05": 647544,
-  "2023-06-06": 647735,
-  "2023-06-07": 647953,
-  "2023-06-08": 648127,
-  "2023-06-09": 648366,
-  "2023-06-10": 648516,
-  "2023-06-11": 648686,
-  "2023-06-12": 648836,
-  "2023-06-13": 648965,
-  "2023-06-14": 649085,
-  "2023-06-15": 649259,
-  "2023-06-16": 649399,
-  "2023-06-17": 649572,
-  "2023-06-18": 649725,
-  "2023-06-19": 649885,
-  "2023-06-20": 650007,
-  "2023-06-21": 650163,
-  "2023-06-22": 650310,
-  "2023-06-23": 650440,
-  "2023-06-24": 650569,
-  "2023-06-25": 650718,
-  "2023-06-26": 650870,
-  "2023-06-27": 650988,
-  "2023-06-28": 651127,
-  "2023-06-29": 651235,
-  "2023-06-30": 651375,
-  "2023-07-01": 651694,
-  "2023-07-02": 651694,
-  "2023-07-03": 651828,
-  "2023-07-04": 651956,
-  "2023-07-05": 652094,
-  "2023-07-06": 652316,
-  "2023-07-07": 652316,
-  "2023-07-08": 652316,
-  "2023-07-09": 652598,
-  "2023-07-10": 652598,
-  "2023-07-11": 652829,
-  "2023-07-12": 652943,
-  "2023-07-13": 652943,
-  "2023-07-14": 653258,
-  "2023-07-15": 653379,
-  "2023-07-16": 653598,
-  "2023-07-17": 653723,
-  "2023-07-18": 653827,
-  "2023-07-19": 653959,
-  "2023-07-20": 653959,
-  "2023-07-21": 654234,
-  "2023-07-22": 654411,
-  "2023-07-23": 654609,
-  "2023-07-24": 654746,
-  "2023-07-25": 654861,
-  "2023-07-26": 654989,
-  "2023-07-27": 655096,
-  "2023-07-28": 655096,
-  "2023-07-29": 655405,
-  "2023-07-30": 655405,
-  "2023-07-31": 655727,
-  "2023-08-01": 655875,
-  "2023-08-02": 656042,
-  "2023-08-03": 656214,
-  "2023-08-04": 656354,
-  "2023-08-05": 656525,
-  "2023-08-06": 656745,
-  "2023-08-07": 656745,
-  "2023-08-08": 657005,
-  "2023-08-09": 657135,
-  "2023-08-10": 657298,
-  "2023-08-11": 657476,
-  "2023-08-12": 657476,
-  "2023-08-13": 657476,
-  "2023-08-14": 657476,
-  "2023-08-15": 657476,
-  "2023-08-16": 657476,
-  "2023-08-17": 657476,
-  "2023-08-18": 657476,
-  "2023-08-19": 657476,
-  "2023-08-20": 658982,
-  "2023-08-21": 658982,
-  "2023-08-22": 659280,
-  "2023-08-23": 659280,
-  "2023-08-24": 659280,
-  "2023-08-25": 659280,
-  "2023-08-26": 659970,
-  "2023-08-27": 659970,
-  "2023-08-28": 660254,
-  "2023-08-29": 660254,
-  "2023-08-30": 660254,
-  "2023-08-31": 660712,
-  "2023-09-01": 660818,
-  "2023-09-02": 660818,
-  "2023-09-03": 660818,
-  "2023-09-04": 660818,
-  "2023-09-05": 660818,
-  "2023-09-06": 660818,
-  "2023-09-07": 660818,
-  "2023-09-08": 660818,
-  "2023-09-09": 660818,
-  "2023-09-10": 660818,
-  "2023-09-11": 660818,
-  "2023-09-12": 660818,
-  "2023-09-13": 660818,
-  "2023-09-14": 660818,
-  "2023-09-15": 660818,
-  "2023-09-16": 660818,
-  "2023-09-17": 660818,
-  "2023-09-18": 660818,
-  "2023-09-19": 660818,
-  "2023-09-20": 660818,
-  "2023-09-21": 660818,
-  "2023-09-22": 660818,
-  "2023-09-23": 660818,
-  "2023-09-24": 660818,
-  "2023-09-25": 660818,
-  "2023-09-26": 664469,
-  "2023-09-27": 664469,
-  "2023-09-28": 664469,
-  "2023-09-29": 664469,
-  "2023-09-30": 664469,
-  "2023-10-01": 664469,
-  "2023-10-02": 664469,
-  "2023-10-03": 664469,
-  "2023-10-04": 664469,
-  "2023-10-05": 664469,
-  "2023-10-06": 664469,
-  "2023-10-07": 664469,
-  "2023-10-08": 664469,
-  "2023-10-09": 664469,
-  "2023-10-10": 664469,
-  "2023-10-11": 664469,
-  "2023-10-12": 664469,
-  "2023-10-13": 664469,
-  "2023-10-14": 664469,
-  "2023-10-15": 664469,
-  "2023-10-16": 664469,
-  "2023-10-17": 664469,
-  "2023-10-18": 664469,
-  "2023-10-19": 664469,
-  "2023-10-20": 664469,
-  "2023-10-21": 664469,
-  "2023-10-22": 664469,
-  "2023-10-23": 664469,
-  "2023-10-24": 664469,
-  "2023-10-25": 664469,
-  "2023-10-26": 664469,
-  "2023-10-27": 664469,
-  "2023-10-28": 664469,
-  "2023-10-29": 664469,
-  "2023-10-30": 664469,
-  "2023-10-31": 664469,
-  "2023-11-01": 664469,
-  "2023-11-02": 664469,
-  "2023-11-03": 664469,
-  "2023-11-04": 664469,
-  "2023-11-05": 664469,
-  "2023-11-06": 664469,
-  "2023-11-07": 664469,
-  "2023-11-08": 664469,
-  "2023-11-09": 664469,
-  "2023-11-10": 664469,
-  "2023-11-11": 668414,
-  "2023-11-12": 668414,
-  "2023-11-13": 668414,
-  "2023-11-14": 668414,
-  "2023-11-15": 668414,
-  "2023-11-16": 668414,
-  "2023-11-17": 668414,
-  "2023-11-18": 668414,
-  "2023-11-19": 668414,
-  "2023-11-20": 668414,
-  "2023-11-21": 668414,
-  "2023-11-22": 668414,
-  "2023-11-23": 668414,
-  "2023-11-24": 668414,
-  "2023-11-25": 668414,
-  "2023-11-26": 668414,
-  "2023-11-27": 668414,
-  "2023-11-28": 668414,
-  "2023-11-29": 668414,
-  "2023-11-30": 668414,
-  "2023-12-01": 668414,
-  "2023-12-02": 668414,
-  "2023-12-03": 668414,
-  "2023-12-04": 668414,
-  "2023-12-05": 668414,
-  "2023-12-06": 668414,
-  "2023-12-07": 668414,
-  "2023-12-08": 668414,
-  "2023-12-09": 668414,
-  "2023-12-10": 668414,
-  "2023-12-11": 668414,
-  "2023-12-12": 668414,
-  "2023-12-13": 668414,
-  "2023-12-14": 671843,
-  "2023-12-15": 671908,
-  "2023-12-16": 672004,
-  "2023-12-17": 672085,
-  "2023-12-18": 672164,
-  "2023-12-19": 672261,
-  "2023-12-20": 672346,
-  "2023-12-21": 672447,
-  "2023-12-22": 672527,
-  "2023-12-23": 672631,
-  "2023-12-24": 672733,
-  "2023-12-25": 672782,
-  "2023-12-26": 672841,
-  "2023-12-27": 672937,
-  "2023-12-30": 673238,
-  "2023-12-31": 673326,
-  "2024-01-01": 673416,
-  "2024-01-02": 673476,
-  "2024-01-03": 673555
+  "2024-01-17": 672554,
+  "date_first_scraped": "2022-09-18",
+  "description": "This is Aerosmith. The essential tracks, all in one playlist.",
+  "name": "This Is Aerosmith",
+  "tracks": [
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273902,
+      "name": "Adam's Apple",
+      "url": "https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 325240,
+      "name": "Ain't That A Bitch",
+      "url": "https://open.spotify.com/track/5BYs1MzSOtId1t2itGmHh2"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325610,
+      "name": "Ain't That A Bitch",
+      "url": "https://open.spotify.com/track/2XFyFJtkbks4OKDE0dxBqK"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355915,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/60a5c4dDARPsksClcom0OD"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 356160,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/6beFuzSjwhOKFZp2aqYDdY"
+    },
+    {
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308906,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 280360,
+      "name": "Back In the Saddle",
+      "url": "https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280431,
+      "name": "Back In the Saddle",
+      "url": "https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs"
+    },
+    {
+      "album": {
+        "name": "Music From Another Dimension! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 184533,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/22zzEs67LrT6RL25pwpOPW"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135325,
+      "name": "Big Ten Inch Record",
+      "url": "https://open.spotify.com/track/74jtieTD4GbZSwfCfmaFxz"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 135400,
+      "name": "Big Ten Inch Record",
+      "url": "https://open.spotify.com/track/3sfdkh6pvMMvhcSIJ2j8AS"
+    },
+    {
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2JgnqOt5m0QNEo3VbplePI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 241040,
+      "name": "Blind Man",
+      "url": "https://open.spotify.com/track/269kNUOWTdD20N0s4ISsfN"
+    },
+    {
+      "album": {
+        "name": "Music From Another Dimension! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244386,
+      "name": "Can't Stop Lovin' You",
+      "url": "https://open.spotify.com/track/795ERoqNFbElIkkGNJV58Y"
+    },
+    {
+      "album": {
+        "name": "Music From Another Dimension! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 244386,
+      "name": "Can't Stop Lovin' You (with Carrie Underwood)",
+      "url": "https://open.spotify.com/track/4QiiT9eRGGSDZAxKN5BM46"
+    },
+    {
+      "album": {
+        "name": "Gems",
+        "url": "https://open.spotify.com/album/26sKrmxTexOwtnBfOZmIAj"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 240693,
+      "name": "Chip Away The Stone",
+      "url": "https://open.spotify.com/track/7KQgiJUV02AchguMMv7Ymr"
+    },
+    {
+      "album": {
+        "name": "Gems",
+        "url": "https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242256,
+      "name": "Chip Away The Stone",
+      "url": "https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H"
+    },
+    {
+      "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224583,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g"
+    },
+    {
+      "album": {
+        "name": "Aerosmith's Greatest Hits",
+        "url": "https://open.spotify.com/album/6IXRrteQyjBXc40XlIhnD3"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 224600,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/5OkZtvqYLkgy5ri5Ms6WBz"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 316693,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/74irxdVWstNlEQjsvArITq"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316826,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
+    },
+    {
+      "album": {
+        "name": "A Little South Of Sanity",
+        "url": "https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344693,
+      "name": "Crazy - Live Version",
+      "url": "https://open.spotify.com/track/47j0rhDZXAMMI7apSAOnZ7"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 308333,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308560,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/4t1fWWJQs5V9YErfsrDslC"
+    },
+    {
+      "album": {
+        "name": "A Little South Of Sanity",
+        "url": "https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310866,
+      "name": "Cryin' - Live Version",
+      "url": "https://open.spotify.com/track/6LIudS7VLqRA0GgzGQTiyt"
+    },
+    {
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "Deuces Are Wild",
+      "url": "https://open.spotify.com/track/4viUMIPk61pIvWUNDl0u4M"
+    },
+    {
+      "album": {
+        "name": "Draw The Line",
+        "url": "https://open.spotify.com/album/792SNee67NvAFZbsip969c"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 203893,
+      "name": "Draw The Line",
+      "url": "https://open.spotify.com/track/6wAt7QG4nA9DpVUTgfAfuh"
+    },
+    {
+      "album": {
+        "name": "Draw The Line",
+        "url": "https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204059,
+      "name": "Draw The Line",
+      "url": "https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 266960,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267596,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
+    },
+    {
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265773,
+      "name": "Dude (Looks Like A Lady)",
+      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 249706,
+      "name": "Eat The Rich",
+      "url": "https://open.spotify.com/track/0CFtlafteObzOEuJdESQkb"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250600,
+      "name": "Eat The Rich",
+      "url": "https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd"
+    },
+    {
+      "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "F.I.N.E.",
+      "url": "https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 205800,
+      "name": "Falling In Love (Is Hard On The Knees)",
+      "url": "https://open.spotify.com/track/1oBTw7IkWnEUxiestsAD1V"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205923,
+      "name": "Falling In Love (Is Hard On The Knees)",
+      "url": "https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR"
+    },
+    {
+      "album": {
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 301760,
+      "name": "Fly Away From Here",
+      "url": "https://open.spotify.com/track/4QB2cdh2v5zeRD1khGF9A5"
+    },
+    {
+      "album": {
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302151,
+      "name": "Fly Away From Here",
+      "url": "https://open.spotify.com/track/5PxQhGYkbGXzjOLaUfAYMf"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 300373,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/3J36VgHD5KvlNR7NinNph5"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300672,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Get A Grip",
+      "url": "https://open.spotify.com/track/0QDTTqEwu5IJ34wql1T03m"
+    },
+    {
+      "album": {
+        "name": "The Essential Aerosmith",
+        "url": "https://open.spotify.com/album/6qVrPDFldH0jxhALHppFQU"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 193160,
+      "name": "Girls of Summer",
+      "url": "https://open.spotify.com/track/5hmZHlQiPUMUKBtYmtZqAt"
+    },
+    {
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333200,
+      "name": "Hangman Jury",
+      "url": "https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 370093,
+      "name": "Hole In My Soul",
+      "url": "https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370410,
+      "name": "Hole In My Soul",
+      "url": "https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 196666,
+      "name": "Home Tonight",
+      "url": "https://open.spotify.com/track/5btAcDEgNCJDrfmINA4Qrn"
+    },
+    {
+      "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To Miss A Thing EP",
+        "url": "https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299723,
+      "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To Miss A Thing EP",
+        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 299760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
+    },
+    {
+      "album": {
+        "name": "1971: The Road Starts Hear",
+        "url": "https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 118640,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0ZDe0l0B9vEQEH6d5n0lcL"
+    },
+    {
+      "album": {
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 214333,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/4iihDHIoKZdOeOW1kFDUtR"
+    },
+    {
+      "album": {
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215823,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6uhj7EIZZm3OwVr0gWfkQn"
+    },
+    {
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330533,
+      "name": "Janie's Got A Gun",
+      "url": "https://open.spotify.com/track/5fMwvrqujbQjUxcNPcYrUF"
+    },
+    {
+      "album": {
+        "name": "Draw The Line",
+        "url": "https://open.spotify.com/album/792SNee67NvAFZbsip969c"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 295133,
+      "name": "Kings And Queens",
+      "url": "https://open.spotify.com/track/33fNAtcL4IKU5kei0P4psq"
+    },
+    {
+      "album": {
+        "name": "Draw The Line",
+        "url": "https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295637,
+      "name": "Kings And Queens",
+      "url": "https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 206266,
+      "name": "Last Child",
+      "url": "https://open.spotify.com/track/5jH8ecmEyX08pQ06T0h6ly"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206631,
+      "name": "Last Child",
+      "url": "https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r"
+    },
+    {
+      "album": {
+        "name": "Done With Mirrors",
+        "url": "https://open.spotify.com/album/4V95fty2dd1ig3a1JzmjYf"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 227040,
+      "name": "Let The Music Do The Talking",
+      "url": "https://open.spotify.com/track/2oUp3nS5lhoHZsoaLaKdRa"
+    },
+    {
+      "album": {
+        "name": "Rock In A Hard Place",
+        "url": "https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266749,
+      "name": "Lightning Strikes",
+      "url": "https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 380893,
+      "name": "Livin' On The Edge",
+      "url": "https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3"
+    },
+    {
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381400,
+      "name": "Livin' On The Edge",
+      "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
+    },
+    {
+      "album": {
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254686,
+      "name": "Lord Of The Thighs",
+      "url": "https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ"
+    },
+    {
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321826,
+      "name": "Love In An Elevator - Single Version",
+      "url": "https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 218960,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/1IkCG9jkzCrl3TadPTh4dU"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 267226,
+      "name": "Mama Kin",
+      "url": "https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269190,
+      "name": "Mama Kin",
+      "url": "https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 241240,
+      "name": "Nine Lives",
+      "url": "https://open.spotify.com/track/7l7xKcFmFRInQizauAJfyt"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241294,
+      "name": "Nine Lives",
+      "url": "https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274088,
+      "name": "No More No More",
+      "url": "https://open.spotify.com/track/7a9b2uPIeLUynTk6zmqacV"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 274106,
+      "name": "No More No More",
+      "url": "https://open.spotify.com/track/1oN1BiBoHTmiXRfuSgDMRd"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 420066,
+      "name": "One Way Street",
+      "url": "https://open.spotify.com/track/3ZqnF9T5vtvIPqHmloNb0o"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 422607,
+      "name": "One Way Street",
+      "url": "https://open.spotify.com/track/06ql7n0Wz0QLSFb9hWF3v1"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 235360,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235473,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx"
+    },
+    {
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265693,
+      "name": "Rag Doll",
+      "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
+    },
+    {
+      "album": {
+        "name": "1971: The Road Starts Hear",
+        "url": "https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 337960,
+      "name": "Reefer Head Woman",
+      "url": "https://open.spotify.com/track/58wkIWSCm3QXa5xlND4gl9"
+    },
+    {
+      "album": {
+        "name": "Night In The Ruts",
+        "url": "https://open.spotify.com/album/19MVMst4XtFfzLy0z2aKUF"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 244400,
+      "name": "Remember (Walking In The Sand)",
+      "url": "https://open.spotify.com/track/4AFHB8laVETw8ruPZscDbe"
+    },
+    {
+      "album": {
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 233160,
+      "name": "Same Old Song and Dance",
+      "url": "https://open.spotify.com/track/2ATTIE0sKIXysApJPlR3sB"
+    },
+    {
+      "album": {
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233567,
+      "name": "Same Old Song and Dance",
+      "url": "https://open.spotify.com/track/37Ptnxxd7WXAaCfWXxcElU"
+    },
+    {
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 295493,
+      "name": "Shut Up And Dance",
+      "url": "https://open.spotify.com/track/3BbWOytu8sLDD2pgU5z5xz"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 251533,
+      "name": "Sick As A Dog",
+      "url": "https://open.spotify.com/track/2R1HDqY6bSdb7G5mYbcItD"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 252115,
+      "name": "Sick As A Dog",
+      "url": "https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk"
+    },
+    {
+      "album": {
+        "name": "1971: The Road Starts Hear",
+        "url": "https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-28",
+      "duration_ms": 275266,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/5fcoCOuTYvAm1ap7d1zfB1"
+    },
+    {
+      "album": {
+        "name": "Honkin' On Bobo",
+        "url": "https://open.spotify.com/album/2BAMyErzVjBJ7kvQWBJmbT"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 269760,
+      "name": "Stop Messin' Around",
+      "url": "https://open.spotify.com/track/0D156dFOpliyPmemyptIzJ"
+    },
+    {
+      "album": {
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 217533,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4tQnVmMQBfOPax9jZeiwvD"
+    },
+    {
+      "album": {
+        "name": "Just Push Play",
+        "url": "https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217902,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 274133,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
+    },
+    {
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "The Other Side - Single Version",
+      "url": "https://open.spotify.com/track/2fcRBvP5G8mlJiTPXnfmE2"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185109,
+      "name": "Toys In The Attic",
+      "url": "https://open.spotify.com/track/4e4ukCLCov1UYoup2SdRHB"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 185133,
+      "name": "Toys In The Attic",
+      "url": "https://open.spotify.com/track/4pj8ElgSWmmy5LT9a7jb0s"
+    },
+    {
+      "album": {
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 333226,
+      "name": "Train Kept a Rollin'",
+      "url": "https://open.spotify.com/track/664NjRsLgSJtqX8VM0Ghh1"
+    },
+    {
+      "album": {
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333662,
+      "name": "Train Kept a Rollin'",
+      "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 249826,
+      "name": "Uncle Salty",
+      "url": "https://open.spotify.com/track/3XW2c507flCMzqd7Woc2mr"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 220400,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 192306,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/3TtNZafFdL1ccxVNERnh4w"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193514,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0"
+    },
+    {
+      "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338840,
+      "name": "Water Song/Janie's Got A Gun",
+      "url": "https://open.spotify.com/track/5XPDEg7yZT893Ocru6IEph"
+    },
+    {
+      "album": {
+        "name": "Music From Another Dimension! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 224373,
+      "name": "What Could Have Been Love",
+      "url": "https://open.spotify.com/track/0RWSLyiyfBktTFIs458CWV"
+    },
+    {
+      "album": {
+        "name": "Music From Another Dimension! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224377,
+      "name": "What Could Have Been Love",
+      "url": "https://open.spotify.com/track/5FKq1jZkkIC8LHkyp1TSBJ"
+    },
+    {
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310533,
+      "name": "What It Takes",
+      "url": "https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 311666,
+      "name": "You See Me Crying",
+      "url": "https://open.spotify.com/track/2aviXDjt6uZgYk6NkytZW9"
+    },
+    {
+      "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 258399,
+      "name": "Young Lust",
+      "url": "https://open.spotify.com/track/1NBBGTzsBg9gZxJHiXcDD1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4x3X2w"
 }

@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 175172,
       "name": "Alguien Me Espera en Madrid",
       "url": "https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl"
@@ -698,6 +698,24 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
+    },
+    {
+      "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281363,
+      "name": "Entregame Tu Amor - En Vivo",
+      "url": "https://open.spotify.com/track/6W5i0BEvbfAKFQRc9Vqrsf"
     },
     {
       "album": {
@@ -1662,10 +1680,32 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169418,
+      "name": "QUE VUELVAS",
+      "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
     },
     {
       "album": {
@@ -1894,6 +1934,32 @@
       "duration_ms": 172778,
       "name": "Si Lo Hice Y Que",
       "url": "https://open.spotify.com/track/3dvkomZJdNb3zZdmRAxix0"
+    },
+    {
+      "album": {
+        "name": "Si Me Llevas Contigo (Banda Sonora Original de la serie \"Zorro\")",
+        "url": "https://open.spotify.com/album/4etSne3jdILGk59Hi3ywKf"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120720,
+      "name": "Si Me Llevas Contigo - Banda Sonora Original de la serie \"Zorro\"",
+      "url": "https://open.spotify.com/track/7nc4CkRX4yGZwv2Vg5GqWb"
     },
     {
       "album": {

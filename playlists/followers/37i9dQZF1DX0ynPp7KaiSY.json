@@ -1,735 +1,1337 @@
 {
-  "2021-12-25": 41058,
-  "2021-12-26": 41070,
-  "2021-12-27": 41102,
-  "2021-12-28": 41102,
-  "2021-12-29": 41127,
-  "2021-12-30": 41150,
-  "2021-12-31": 41166,
-  "2022-01-01": 41191,
-  "2022-01-02": 41194,
-  "2022-01-03": 41199,
-  "2022-01-04": 41228,
-  "2022-01-05": 41232,
-  "2022-01-06": 41250,
-  "2022-01-07": 41273,
-  "2022-01-08": 41309,
-  "2022-01-09": 41309,
-  "2022-01-10": 41319,
-  "2022-01-11": 41332,
-  "2022-01-12": 41335,
-  "2022-01-13": 41356,
-  "2022-01-14": 41362,
-  "2022-01-15": 41386,
-  "2022-01-16": 41390,
-  "2022-01-17": 41412,
-  "2022-01-18": 41414,
-  "2022-01-19": 41422,
-  "2022-01-20": 41415,
-  "2022-01-21": 41421,
-  "2022-01-22": 41421,
-  "2022-01-23": 41421,
-  "2022-01-24": 41421,
-  "2022-01-25": 41421,
-  "2022-01-26": 41421,
-  "2022-01-27": 41421,
-  "2022-01-28": 41421,
-  "2022-01-29": 41421,
-  "2022-01-30": 41421,
-  "2022-01-31": 41421,
-  "2022-02-01": 41421,
-  "2022-02-02": 41421,
-  "2022-02-03": 41421,
-  "2022-02-04": 41421,
-  "2022-02-05": 41421,
-  "2022-02-06": 41421,
-  "2022-02-07": 41421,
-  "2022-02-08": 41421,
-  "2022-02-09": 41421,
-  "2022-02-10": 41421,
-  "2022-02-11": 41421,
-  "2022-02-12": 41421,
-  "2022-02-13": 41421,
-  "2022-02-14": 41421,
-  "2022-02-15": 41421,
-  "2022-02-16": 41421,
-  "2022-02-17": 41421,
-  "2022-02-18": 41421,
-  "2022-02-19": 41421,
-  "2022-02-20": 41421,
-  "2022-02-21": 41421,
-  "2022-02-22": 41421,
-  "2022-02-23": 41421,
-  "2022-02-24": 41421,
-  "2022-02-25": 41421,
-  "2022-02-26": 41421,
-  "2022-02-27": 41421,
-  "2022-02-28": 41421,
-  "2022-03-01": 41421,
-  "2022-03-02": 41421,
-  "2022-03-03": 41421,
-  "2022-03-04": 41421,
-  "2022-03-05": 41421,
-  "2022-03-06": 41421,
-  "2022-03-07": 41421,
-  "2022-03-08": 41421,
-  "2022-03-09": 41421,
-  "2022-03-10": 41421,
-  "2022-03-11": 41421,
-  "2022-03-12": 41421,
-  "2022-03-13": 41421,
-  "2022-03-14": 41421,
-  "2022-03-15": 41421,
-  "2022-03-16": 41421,
-  "2022-03-17": 41421,
-  "2022-03-18": 41421,
-  "2022-03-19": 41421,
-  "2022-03-20": 41421,
-  "2022-03-21": 41421,
-  "2022-03-22": 41421,
-  "2022-03-23": 41421,
-  "2022-03-24": 41421,
-  "2022-03-25": 41421,
-  "2022-03-26": 41421,
-  "2022-03-27": 41421,
-  "2022-03-28": 41421,
-  "2022-03-30": 41421,
-  "2022-03-31": 41421,
-  "2022-04-01": 41421,
-  "2022-04-02": 41421,
-  "2022-04-03": 41421,
-  "2022-04-04": 41421,
-  "2022-04-05": 41421,
-  "2022-04-06": 41421,
-  "2022-04-07": 41421,
-  "2022-04-08": 41421,
-  "2022-04-09": 41421,
-  "2022-04-10": 41421,
-  "2022-04-11": 41421,
-  "2022-04-12": 41421,
-  "2022-04-13": 41421,
-  "2022-04-14": 41421,
-  "2022-04-15": 41421,
-  "2022-04-16": 41421,
-  "2022-04-17": 41421,
-  "2022-04-18": 41421,
-  "2022-04-19": 41421,
-  "2022-04-20": 41421,
-  "2022-04-21": 41421,
-  "2022-04-22": 41421,
-  "2022-04-23": 41421,
-  "2022-04-24": 41421,
-  "2022-04-25": 41421,
-  "2022-04-26": 41421,
-  "2022-04-27": 41421,
-  "2022-04-28": 41421,
-  "2022-04-29": 41421,
-  "2022-04-30": 41421,
-  "2022-05-01": 41421,
-  "2022-05-02": 41421,
-  "2022-05-03": 41421,
-  "2022-05-04": 41421,
-  "2022-05-05": 41421,
-  "2022-05-06": 41421,
-  "2022-05-07": 41421,
-  "2022-05-08": 41421,
-  "2022-05-09": 41421,
-  "2022-05-10": 41421,
-  "2022-05-11": 41421,
-  "2022-05-12": 41421,
-  "2022-05-13": 41421,
-  "2022-05-14": 41421,
-  "2022-05-15": 41421,
-  "2022-05-16": 41421,
-  "2022-05-17": 41421,
-  "2022-05-18": 41421,
-  "2022-05-19": 41421,
-  "2022-05-20": 41421,
-  "2022-05-21": 41421,
-  "2022-05-22": 41421,
-  "2022-05-23": 41421,
-  "2022-05-24": 41421,
-  "2022-05-25": 41421,
-  "2022-05-26": 41421,
-  "2022-05-27": 41421,
-  "2022-05-28": 41421,
-  "2022-05-29": 41421,
-  "2022-05-30": 41421,
-  "2022-05-31": 41421,
-  "2022-06-01": 41421,
-  "2022-06-02": 41421,
-  "2022-06-03": 41421,
-  "2022-06-04": 41421,
-  "2022-06-05": 41421,
-  "2022-06-06": 41421,
-  "2022-06-07": 41421,
-  "2022-06-08": 41421,
-  "2022-06-09": 41421,
-  "2022-06-10": 41421,
-  "2022-06-11": 41421,
-  "2022-06-12": 41421,
-  "2022-06-13": 41421,
-  "2022-06-14": 41421,
-  "2022-06-15": 41421,
-  "2022-06-16": 41421,
-  "2022-06-17": 41421,
-  "2022-06-18": 41421,
-  "2022-06-19": 41421,
-  "2022-06-20": 41421,
-  "2022-06-21": 41421,
-  "2022-06-22": 41421,
-  "2022-06-23": 41421,
-  "2022-06-24": 41421,
-  "2022-06-25": 41421,
-  "2022-06-26": 41421,
-  "2022-06-27": 41421,
-  "2022-06-28": 41421,
-  "2022-06-29": 41421,
-  "2022-06-30": 41421,
-  "2022-07-01": 41421,
-  "2022-07-02": 41421,
-  "2022-07-03": 41421,
-  "2022-07-04": 41421,
-  "2022-07-05": 41421,
-  "2022-07-06": 41421,
-  "2022-07-07": 41421,
-  "2022-07-08": 41421,
-  "2022-07-09": 41421,
-  "2022-07-10": 41421,
-  "2022-07-11": 41421,
-  "2022-07-12": 41421,
-  "2022-07-13": 41421,
-  "2022-07-14": 41421,
-  "2022-07-15": 41421,
-  "2022-07-16": 41421,
-  "2022-07-17": 41421,
-  "2022-07-18": 41421,
-  "2022-07-19": 41421,
-  "2022-07-20": 41421,
-  "2022-07-21": 41421,
-  "2022-07-22": 41421,
-  "2022-07-23": 41421,
-  "2022-07-24": 41421,
-  "2022-07-25": 41421,
-  "2022-07-26": 41421,
-  "2022-07-27": 41421,
-  "2022-07-28": 41421,
-  "2022-07-29": 41421,
-  "2022-07-30": 41421,
-  "2022-07-31": 41421,
-  "2022-08-01": 41421,
-  "2022-08-02": 41421,
-  "2022-08-03": 41421,
-  "2022-08-04": 41421,
-  "2022-08-05": 41421,
-  "2022-08-06": 41421,
-  "2022-08-07": 41421,
-  "2022-08-08": 41421,
-  "2022-08-09": 41421,
-  "2022-08-10": 41421,
-  "2022-08-11": 41421,
-  "2022-08-12": 41421,
-  "2022-08-13": 41421,
-  "2022-08-14": 41421,
-  "2022-08-15": 41421,
-  "2022-08-16": 41421,
-  "2022-08-17": 41421,
-  "2022-08-18": 41421,
-  "2022-08-19": 41421,
-  "2022-08-20": 41421,
-  "2022-08-21": 41421,
-  "2022-08-22": 41421,
-  "2022-08-23": 41421,
-  "2022-08-24": 41421,
-  "2022-08-25": 41421,
-  "2022-08-26": 41421,
-  "2022-08-27": 41421,
-  "2022-08-28": 41421,
-  "2022-08-29": 41421,
-  "2022-08-30": 41421,
-  "2022-08-31": 41421,
-  "2022-09-01": 41421,
-  "2022-09-02": 41421,
-  "2022-09-03": 41421,
-  "2022-09-04": 41421,
-  "2022-09-05": 41421,
-  "2022-09-06": 41421,
-  "2022-09-07": 41421,
-  "2022-09-09": 41421,
-  "2022-09-10": 41421,
-  "2022-09-11": 41421,
-  "2022-09-12": 41421,
-  "2022-09-13": 41421,
-  "2022-09-15": 41421,
-  "2022-09-16": 41421,
-  "2022-09-17": 41421,
-  "2022-09-18": 41421,
-  "2022-09-19": 41421,
-  "2022-09-20": 41421,
-  "2022-09-21": 41421,
-  "2022-09-22": 41421,
-  "2022-09-23": 41421,
-  "2022-09-24": 41421,
-  "2022-09-25": 41421,
-  "2022-09-26": 41421,
-  "2022-09-27": 41421,
-  "2022-09-28": 41421,
-  "2022-09-29": 41421,
-  "2022-09-30": 41421,
-  "2022-10-01": 41421,
-  "2022-10-02": 41421,
-  "2022-10-03": 41421,
-  "2022-10-04": 41421,
-  "2022-10-05": 41421,
-  "2022-10-06": 41421,
-  "2022-10-07": 41421,
-  "2022-10-08": 41421,
-  "2022-10-09": 41421,
-  "2022-10-10": 41421,
-  "2022-10-11": 41421,
-  "2022-10-12": 41421,
-  "2022-10-13": 41421,
-  "2022-10-14": 41421,
-  "2022-10-15": 41421,
-  "2022-10-16": 41421,
-  "2022-10-17": 41421,
-  "2022-10-18": 41421,
-  "2022-10-19": 41421,
-  "2022-10-20": 41421,
-  "2022-10-21": 41421,
-  "2022-10-22": 41421,
-  "2022-10-23": 41421,
-  "2022-10-24": 41421,
-  "2022-10-25": 41421,
-  "2022-10-26": 41421,
-  "2022-10-27": 41421,
-  "2022-10-28": 41421,
-  "2022-10-29": 41421,
-  "2022-10-30": 41421,
-  "2022-10-31": 41421,
-  "2022-11-01": 41421,
-  "2022-11-02": 41421,
-  "2022-11-03": 41421,
-  "2022-11-04": 41421,
-  "2022-11-05": 41421,
-  "2022-11-06": 41421,
-  "2022-11-07": 41421,
-  "2022-11-08": 41421,
-  "2022-11-09": 41421,
-  "2022-11-10": 41421,
-  "2022-11-11": 41421,
-  "2022-11-12": 41421,
-  "2022-11-13": 41421,
-  "2022-11-14": 41421,
-  "2022-11-15": 41421,
-  "2022-11-16": 41421,
-  "2022-11-17": 41421,
-  "2022-11-18": 41421,
-  "2022-11-19": 41421,
-  "2022-11-20": 41421,
-  "2022-11-21": 41421,
-  "2022-11-22": 41421,
-  "2022-11-23": 41421,
-  "2022-11-24": 41421,
-  "2022-11-25": 41421,
-  "2022-11-26": 41421,
-  "2022-11-27": 41421,
-  "2022-11-28": 41421,
-  "2022-11-29": 41421,
-  "2022-11-30": 41421,
-  "2022-12-01": 41421,
-  "2022-12-02": 41421,
-  "2022-12-03": 41421,
-  "2022-12-04": 41421,
-  "2022-12-05": 41421,
-  "2022-12-06": 41421,
-  "2022-12-07": 41421,
-  "2022-12-08": 41421,
-  "2022-12-09": 41421,
-  "2022-12-10": 41421,
-  "2022-12-11": 41421,
-  "2022-12-12": 41421,
-  "2022-12-13": 41421,
-  "2022-12-14": 41421,
-  "2022-12-15": 41421,
-  "2022-12-16": 41421,
-  "2022-12-17": 41421,
-  "2022-12-18": 41421,
-  "2022-12-19": 41421,
-  "2022-12-20": 41421,
-  "2022-12-21": 41421,
-  "2022-12-22": 41421,
-  "2022-12-24": 41421,
-  "2022-12-25": 41421,
-  "2022-12-26": 41421,
-  "2022-12-27": 41421,
-  "2022-12-28": 41421,
-  "2022-12-29": 41421,
-  "2022-12-30": 41421,
-  "2022-12-31": 41421,
-  "2023-01-01": 41421,
-  "2023-01-02": 41421,
-  "2023-01-03": 41421,
-  "2023-01-04": 41421,
-  "2023-01-05": 41421,
-  "2023-01-06": 41421,
-  "2023-01-07": 41421,
-  "2023-01-08": 41421,
-  "2023-01-09": 41421,
-  "2023-01-10": 41421,
-  "2023-01-11": 41421,
-  "2023-01-12": 41421,
-  "2023-01-13": 41421,
-  "2023-01-14": 41421,
-  "2023-01-15": 41421,
-  "2023-01-16": 41421,
-  "2023-01-17": 41421,
-  "2023-01-18": 41421,
-  "2023-01-19": 41421,
-  "2023-01-20": 41421,
-  "2023-01-21": 41421,
-  "2023-01-22": 41421,
-  "2023-01-23": 41421,
-  "2023-01-24": 41421,
-  "2023-01-25": 41421,
-  "2023-01-26": 41421,
-  "2023-01-27": 41421,
-  "2023-01-28": 41421,
-  "2023-01-29": 41421,
-  "2023-01-30": 41421,
-  "2023-01-31": 41421,
-  "2023-02-01": 41421,
-  "2023-02-02": 41421,
-  "2023-02-03": 41421,
-  "2023-02-04": 41421,
-  "2023-02-05": 41421,
-  "2023-02-06": 41421,
-  "2023-02-07": 41421,
-  "2023-02-08": 41421,
-  "2023-02-09": 41421,
-  "2023-02-10": 41421,
-  "2023-02-11": 41421,
-  "2023-02-12": 41421,
-  "2023-02-13": 41421,
-  "2023-02-14": 41421,
-  "2023-02-15": 41421,
-  "2023-02-16": 41421,
-  "2023-02-17": 41421,
-  "2023-02-18": 41421,
-  "2023-02-19": 41421,
-  "2023-02-20": 41421,
-  "2023-02-21": 41421,
-  "2023-02-22": 41421,
-  "2023-02-23": 41421,
-  "2023-02-24": 41421,
-  "2023-02-25": 41421,
-  "2023-02-26": 41421,
-  "2023-02-27": 41421,
-  "2023-02-28": 41421,
-  "2023-03-01": 41421,
-  "2023-03-02": 41421,
-  "2023-03-03": 41421,
-  "2023-03-04": 41421,
-  "2023-03-05": 41421,
-  "2023-03-06": 41421,
-  "2023-03-07": 41421,
-  "2023-03-08": 41421,
-  "2023-03-09": 41421,
-  "2023-03-10": 41421,
-  "2023-03-11": 41421,
-  "2023-03-12": 41421,
-  "2023-03-13": 41421,
-  "2023-03-14": 41421,
-  "2023-03-15": 41421,
-  "2023-03-16": 41421,
-  "2023-03-17": 41421,
-  "2023-03-18": 41421,
-  "2023-03-19": 41421,
-  "2023-03-20": 41421,
-  "2023-03-21": 41421,
-  "2023-03-22": 41421,
-  "2023-03-23": 41421,
-  "2023-03-24": 41421,
-  "2023-03-25": 41421,
-  "2023-03-26": 41421,
-  "2023-03-27": 41421,
-  "2023-03-28": 41421,
-  "2023-03-29": 41421,
-  "2023-03-30": 41421,
-  "2023-03-31": 41421,
-  "2023-04-01": 41421,
-  "2023-04-02": 41421,
-  "2023-04-03": 41421,
-  "2023-04-04": 41421,
-  "2023-04-05": 41421,
-  "2023-04-06": 41421,
-  "2023-04-07": 41421,
-  "2023-04-09": 41421,
-  "2023-04-10": 41421,
-  "2023-04-11": 41421,
-  "2023-04-12": 41421,
-  "2023-04-13": 41421,
-  "2023-04-14": 41421,
-  "2023-04-15": 41421,
-  "2023-04-16": 41421,
-  "2023-04-17": 41421,
-  "2023-04-18": 41421,
-  "2023-04-19": 41421,
-  "2023-04-20": 41421,
-  "2023-04-21": 41421,
-  "2023-04-22": 41421,
-  "2023-04-23": 41421,
-  "2023-04-24": 41421,
-  "2023-04-25": 41421,
-  "2023-04-26": 41421,
-  "2023-04-27": 41421,
-  "2023-04-28": 41421,
-  "2023-04-29": 41421,
-  "2023-04-30": 41421,
-  "2023-05-01": 41421,
-  "2023-05-02": 41421,
-  "2023-05-03": 41421,
-  "2023-05-04": 41421,
-  "2023-05-05": 41421,
-  "2023-05-06": 41421,
-  "2023-05-07": 41421,
-  "2023-05-08": 41421,
-  "2023-05-09": 41421,
-  "2023-05-10": 41421,
-  "2023-05-11": 41421,
-  "2023-05-12": 41421,
-  "2023-05-13": 41421,
-  "2023-05-14": 41421,
-  "2023-05-15": 41421,
-  "2023-05-16": 41421,
-  "2023-05-17": 41421,
-  "2023-05-18": 41421,
-  "2023-05-19": 41421,
-  "2023-05-20": 41421,
-  "2023-05-21": 41421,
-  "2023-05-22": 41421,
-  "2023-05-23": 41421,
-  "2023-05-24": 41421,
-  "2023-05-25": 41421,
-  "2023-05-26": 41421,
-  "2023-05-27": 41421,
-  "2023-05-28": 41421,
-  "2023-05-29": 41421,
-  "2023-05-30": 41421,
-  "2023-05-31": 41421,
-  "2023-06-01": 41421,
-  "2023-06-02": 41421,
-  "2023-06-03": 41421,
-  "2023-06-04": 41421,
-  "2023-06-05": 41421,
-  "2023-06-06": 41421,
-  "2023-06-07": 41421,
-  "2023-06-08": 41421,
-  "2023-06-09": 41421,
-  "2023-06-10": 41421,
-  "2023-06-11": 41421,
-  "2023-06-12": 41421,
-  "2023-06-13": 41421,
-  "2023-06-14": 41421,
-  "2023-06-15": 41421,
-  "2023-06-16": 41421,
-  "2023-06-17": 41421,
-  "2023-06-18": 41421,
-  "2023-06-19": 41421,
-  "2023-06-20": 41421,
-  "2023-06-21": 41421,
-  "2023-06-22": 41421,
-  "2023-06-23": 41421,
-  "2023-06-24": 41421,
-  "2023-06-25": 41421,
-  "2023-06-26": 41421,
-  "2023-06-27": 41421,
-  "2023-06-28": 41421,
-  "2023-06-29": 41421,
-  "2023-06-30": 41421,
-  "2023-07-01": 41421,
-  "2023-07-02": 41421,
-  "2023-07-03": 41421,
-  "2023-07-04": 41421,
-  "2023-07-05": 41421,
-  "2023-07-06": 41421,
-  "2023-07-07": 41421,
-  "2023-07-08": 41421,
-  "2023-07-09": 41421,
-  "2023-07-10": 41421,
-  "2023-07-11": 41421,
-  "2023-07-12": 41421,
-  "2023-07-13": 41421,
-  "2023-07-14": 41421,
-  "2023-07-15": 41421,
-  "2023-07-16": 41421,
-  "2023-07-17": 41421,
-  "2023-07-18": 41421,
-  "2023-07-19": 41421,
-  "2023-07-20": 41421,
-  "2023-07-21": 41421,
-  "2023-07-22": 41421,
-  "2023-07-23": 41421,
-  "2023-07-24": 41421,
-  "2023-07-25": 41421,
-  "2023-07-26": 41421,
-  "2023-07-27": 41421,
-  "2023-07-28": 41421,
-  "2023-07-29": 41421,
-  "2023-07-30": 41421,
-  "2023-07-31": 41421,
-  "2023-08-01": 41421,
-  "2023-08-02": 41421,
-  "2023-08-03": 41421,
-  "2023-08-04": 41421,
-  "2023-08-05": 41421,
-  "2023-08-06": 41421,
-  "2023-08-07": 41421,
-  "2023-08-08": 41421,
-  "2023-08-09": 41421,
-  "2023-08-10": 41421,
-  "2023-08-11": 41421,
-  "2023-08-12": 41421,
-  "2023-08-13": 41421,
-  "2023-08-14": 41421,
-  "2023-08-15": 41421,
-  "2023-08-16": 41421,
-  "2023-08-17": 41421,
-  "2023-08-18": 41421,
-  "2023-08-19": 41421,
-  "2023-08-20": 41421,
-  "2023-08-21": 41421,
-  "2023-08-22": 41421,
-  "2023-08-23": 41421,
-  "2023-08-24": 41421,
-  "2023-08-25": 41421,
-  "2023-08-26": 41421,
-  "2023-08-27": 41421,
-  "2023-08-28": 41421,
-  "2023-08-29": 41421,
-  "2023-08-30": 41421,
-  "2023-08-31": 41421,
-  "2023-09-01": 41421,
-  "2023-09-02": 41421,
-  "2023-09-03": 41421,
-  "2023-09-04": 41421,
-  "2023-09-05": 41421,
-  "2023-09-06": 41421,
-  "2023-09-07": 41421,
-  "2023-09-08": 41421,
-  "2023-09-09": 41421,
-  "2023-09-10": 41421,
-  "2023-09-11": 41421,
-  "2023-09-12": 41421,
-  "2023-09-13": 41421,
-  "2023-09-14": 41421,
-  "2023-09-15": 41421,
-  "2023-09-16": 41421,
-  "2023-09-17": 41421,
-  "2023-09-18": 41421,
-  "2023-09-19": 41421,
-  "2023-09-20": 41421,
-  "2023-09-21": 41421,
-  "2023-09-22": 41421,
-  "2023-09-23": 41421,
-  "2023-09-24": 41421,
-  "2023-09-25": 41421,
-  "2023-09-26": 41421,
-  "2023-09-27": 41421,
-  "2023-09-28": 41421,
-  "2023-09-29": 41421,
-  "2023-09-30": 41421,
-  "2023-10-01": 41421,
-  "2023-10-02": 41421,
-  "2023-10-03": 41421,
-  "2023-10-04": 41421,
-  "2023-10-05": 41421,
-  "2023-10-06": 41421,
-  "2023-10-07": 41421,
-  "2023-10-08": 41421,
-  "2023-10-09": 41421,
-  "2023-10-10": 41421,
-  "2023-10-11": 41421,
-  "2023-10-12": 41421,
-  "2023-10-13": 41421,
-  "2023-10-14": 41421,
-  "2023-10-15": 41421,
-  "2023-10-16": 41421,
-  "2023-10-17": 41421,
-  "2023-10-18": 41421,
-  "2023-10-19": 41421,
-  "2023-10-20": 41421,
-  "2023-10-21": 41421,
-  "2023-10-22": 41421,
-  "2023-10-23": 41421,
-  "2023-10-24": 41421,
-  "2023-10-25": 41421,
-  "2023-10-26": 41421,
-  "2023-10-27": 41421,
-  "2023-10-28": 41421,
-  "2023-10-29": 41421,
-  "2023-10-30": 41421,
-  "2023-10-31": 41421,
-  "2023-11-01": 41421,
-  "2023-11-02": 41421,
-  "2023-11-03": 41421,
-  "2023-11-04": 41421,
-  "2023-11-05": 41421,
-  "2023-11-06": 41421,
-  "2023-11-07": 41421,
-  "2023-11-08": 41421,
-  "2023-11-09": 41421,
-  "2023-11-10": 41421,
-  "2023-11-11": 41421,
-  "2023-11-12": 41421,
-  "2023-11-13": 41421,
-  "2023-11-14": 41421,
-  "2023-11-15": 41421,
-  "2023-11-16": 41421,
-  "2023-11-17": 41421,
-  "2023-11-18": 41421,
-  "2023-11-19": 41421,
-  "2023-11-20": 41421,
-  "2023-11-21": 41421,
-  "2023-11-22": 41421,
-  "2023-11-23": 41421,
-  "2023-11-24": 41421,
-  "2023-11-25": 41421,
-  "2023-11-26": 41421,
-  "2023-11-27": 41421,
-  "2023-11-28": 41421,
-  "2023-11-29": 41421,
-  "2023-11-30": 41421,
-  "2023-12-01": 41421,
-  "2023-12-02": 41421,
-  "2023-12-03": 41421,
-  "2023-12-04": 41421,
-  "2023-12-05": 41421,
-  "2023-12-06": 41421,
-  "2023-12-07": 41421,
-  "2023-12-08": 41421,
-  "2023-12-09": 41421,
-  "2023-12-10": 41421,
-  "2023-12-11": 41421,
-  "2023-12-12": 41421,
-  "2023-12-13": 41421,
-  "2023-12-14": 41421,
-  "2023-12-15": 41421,
-  "2023-12-16": 41421,
-  "2023-12-17": 41421,
-  "2023-12-18": 41421,
-  "2023-12-19": 41421,
-  "2023-12-20": 41421,
-  "2023-12-21": 41421,
-  "2023-12-22": 41421,
-  "2023-12-23": 41421,
-  "2023-12-24": 41421,
-  "2023-12-25": 41421,
-  "2023-12-26": 41421,
-  "2023-12-27": 41421,
-  "2023-12-30": 41421,
-  "2023-12-31": 41421,
-  "2024-01-01": 41421,
-  "2024-01-02": 41421,
-  "2024-01-03": 41421
+  "2024-01-17": 41421,
+  "date_first_scraped": "2021-12-21",
+  "description": "The best <a href=\"spotify:genre:classical\">classical</a> pieces inspired by dancing snowflakes, or evoke images of winter landscapes. Enjoy the perfect soundtrack for a winter journey, or a quiet night's reading by the fireside. Other seasons: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWZm0IlR3JPVY\">Spring</a>, <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWYRUctuBGBo1\">Summer</a>, <a href=\"spotify:user:spotify:playlist:37i9dQZF1DX2d2B80QbRDa\">Autumn</a>.",
+  "name": "Winter Classical",
+  "tracks": [
+    {
+      "album": {
+        "name": "Transcendental - Daniil Trifonov Plays Franz Liszt (Etudes S. 139, S. 141, S. 144, S. 145)",
+        "url": "https://open.spotify.com/album/7JIZxqtVJPt8U7o8RwIEs4"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352120,
+      "name": "12 Etudes d'ex\u00e9cution transcendante, S.139: No.12 Chasse neige (Andante con moto)",
+      "url": "https://open.spotify.com/track/5Ewl0NXO6VRsS8pWnTETJ1"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Sonata No.3; Etudes Op.25 etc",
+        "url": "https://open.spotify.com/album/44f1K8K3D4i6BI7re28Zn9"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "12 Etudes, Op.25: No. 11 in A minor \"Winter Wind\"",
+      "url": "https://open.spotify.com/track/1x8iDb7mTd2zGeQUCQbCX6"
+    },
+    {
+      "album": {
+        "name": "Christmas Star: A Christmas Festival",
+        "url": "https://open.spotify.com/album/6Hr6HHfLCy9qr2kcTUKjdv"
+      },
+      "artists": [
+        {
+          "name": "Frederick Delius",
+          "url": "https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349160,
+      "name": "3 Small Tone Poems: No. 2. Winter Night (Sleigh Ride)",
+      "url": "https://open.spotify.com/track/70XgZpMMO1oBfN0MtJaBhL"
+    },
+    {
+      "album": {
+        "name": "Alwyn: Sonata Impromptu / Sonatina / Ballade / Rhapsody / 3 Winter Poems / Songs",
+        "url": "https://open.spotify.com/album/6boeiKz33QfGCuqggoSaUW"
+      },
+      "artists": [
+        {
+          "name": "William Alwyn",
+          "url": "https://open.spotify.com/artist/33yO64zQ3GSPwEC6ok4BDP"
+        },
+        {
+          "name": "The Bridge String Quartet",
+          "url": "https://open.spotify.com/artist/0ncLcj6CfzY4XlIL1kNY3W"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152133,
+      "name": "3 Winter Poems: No. 3. Serenade, \"Snow Shower\"",
+      "url": "https://open.spotify.com/track/07w9pbIzudHEfWw8E15Sfb"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Piano Works",
+        "url": "https://open.spotify.com/album/1pZ6SbzV6PoYc4R1oDySvA"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Kyoko Tabe",
+          "url": "https://open.spotify.com/artist/4XaU59x0M0HhDA4TKt18Oy"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138960,
+      "name": "5 Esquisses, Op. 114, No. 2, Winter Scene",
+      "url": "https://open.spotify.com/track/7HtiS6ubdQ8vUOMDLltiT3"
+    },
+    {
+      "album": {
+        "name": "Ceremony of Carols",
+        "url": "https://open.spotify.com/album/5yckGBEtZXQvw1WfL8krJ4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Derek Greten-Harrison",
+          "url": "https://open.spotify.com/artist/7lS3sq2pl29x5b46S5gdJp"
+        },
+        {
+          "name": "Lucy Fitz Gibbon",
+          "url": "https://open.spotify.com/artist/4QPrnOvrMpxampmmscRGg8"
+        },
+        {
+          "name": "Arianne Abela",
+          "url": "https://open.spotify.com/artist/5uuyQlYs69pw6f60CFhAUf"
+        },
+        {
+          "name": "Heather Petrie",
+          "url": "https://open.spotify.com/artist/2BbLpUJBH67kT6m3PzCFLS"
+        },
+        {
+          "name": "Awet Andemicael",
+          "url": "https://open.spotify.com/artist/2yfraqllXUa1ZZtUMBumY5"
+        },
+        {
+          "name": "Etherea Vocal Ensemble",
+          "url": "https://open.spotify.com/artist/1HG0YKDgFtj9fB8Dk7cnGE"
+        },
+        {
+          "name": "Grace Cloutier",
+          "url": "https://open.spotify.com/artist/1UIEIp9IKSChzon1NPPpXb"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "A Ceremony of Carols, Op. 28: No. 8. In freezing winter night",
+      "url": "https://open.spotify.com/track/5oianWhAxdjLCNlXV0QOCO"
+    },
+    {
+      "album": {
+        "name": "Schumann: Album for the Young",
+        "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Feltsman",
+          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144160,
+      "name": "Album for the Young, Op. 68: 38. Winterzeit I",
+      "url": "https://open.spotify.com/track/1V8MWDaYURiGXD907ghGVL"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Alexander Nevsky; The Stone Flower; Lieutenant Kij\u00e9 etc.",
+        "url": "https://open.spotify.com/album/6Lpz5yoKeDsDKAwuvTmTpP"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Choeur de l'Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/5UsqoUP7SvgIAMXyJDcOf2"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 745733,
+      "name": "Alexander Nevsky, Op. 78: 5. The Battle on Ice",
+      "url": "https://open.spotify.com/track/2AEGGJNnGa9UCG6p2lFBFx"
+    },
+    {
+      "album": {
+        "name": "Rautavaara: Cantus Arcticus / Piano Concerto No. 1 / Symphony No. 3",
+        "url": "https://open.spotify.com/album/03UIbm7SFPdgqovYERYb3N"
+      },
+      "artists": [
+        {
+          "name": "Einojuhani Rautavaara",
+          "url": "https://open.spotify.com/artist/3MXhtYDNuzQQmLfOKFgPiI"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        },
+        {
+          "name": "Hannu Lintu",
+          "url": "https://open.spotify.com/artist/5Tmg9YbCEQSH2gft7Ftpdo"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449973,
+      "name": "Cantus arcticus, Op. 61, \"Concerto for Birds and Orchestra\": III. Joutsenet muuttavat (Swans Migrating)",
+      "url": "https://open.spotify.com/track/2P6TCLy4NjwFb1axXZtqxy"
+    },
+    {
+      "album": {
+        "name": "Debussy: Children's Corner, Suite bergamasque, Images",
+        "url": "https://open.spotify.com/album/6kdiApKnIe8xQ1cTo9mWJJ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Alain Plan\u00e8s",
+          "url": "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164386,
+      "name": "Children's Corner: Children's Corner: IV. The Snow is Dancing. Mod\u00e9r\u00e9ment anim\u00e9",
+      "url": "https://open.spotify.com/track/4qOJpSWTdiuLX6tJQIZNBO"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Cinderella for 2 pianos / Ravel: Ma M\u00e8re l'Oye",
+        "url": "https://open.spotify.com/album/2dg7ZNIFlgqdiUckAarDw0"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253386,
+      "name": "Cinderella, Op.87 - Suite From The Ballet: Transcribed For 2 Pianos By Mikhail Pletnev: 3. Winter. Adagio",
+      "url": "https://open.spotify.com/track/0qGaUg98CswNq9FRROmZvU"
+    },
+    {
+      "album": {
+        "name": "Schubert Sessions: Lieder with Guitar",
+        "url": "https://open.spotify.com/album/3hMdd4yx4RqDnFNe3nvDrE"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Philippe Sly",
+          "url": "https://open.spotify.com/artist/5kfRwxjyr2hBQI8LGEqhaT"
+        },
+        {
+          "name": "John Charles Britton",
+          "url": "https://open.spotify.com/artist/5eP422HEYwhIHbxQBOArGe"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212813,
+      "name": "Der Leiermann, Op. 89, No. 24, D. 911",
+      "url": "https://open.spotify.com/track/27fanMbt9Se8e6FYgXfnKN"
+    },
+    {
+      "album": {
+        "name": "Escape To Paradise - The Hollywood Album",
+        "url": "https://open.spotify.com/album/7E881sWxIfp5efH4SfzBgs"
+      },
+      "artists": [
+        {
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Royal Stockholm Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
+        },
+        {
+          "name": "Alexander Shelley",
+          "url": "https://open.spotify.com/artist/149Zf0OZSjJKfsKOk6Zg0O"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155213,
+      "name": "Der Schneemann: Serenade",
+      "url": "https://open.spotify.com/track/40TIaYb7ozsugYwGe3cxgj"
+    },
+    {
+      "album": {
+        "name": "Haydn, J.: Die Jahreszeiten Hob.XXI:3 (2 CDs)",
+        "url": "https://open.spotify.com/album/5BlypmRvU5u2S4HPksatUs"
+      },
+      "artists": [
+        {
+          "name": "Franz Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Wiener Symphoniker",
+          "url": "https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O"
+        },
+        {
+          "name": "Karl B\u00f6hm",
+          "url": "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Die Jahreszeiten - Hob. XXI:3 / Der Winter: No.29a Einleitung",
+      "url": "https://open.spotify.com/track/5d7LdhjpNsMBMCDN9Zpl4h"
+    },
+    {
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/4TE1s26Ks49JwJgXtATsm4"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Arnor Dan Arnarson",
+          "url": "https://open.spotify.com/artist/7dv4NGURcNUyOmKjiNFTSv"
+        },
+        {
+          "name": "Voces8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285680,
+      "name": "For Now I Am Winter",
+      "url": "https://open.spotify.com/track/3uhagdWdvCsQIiI0CXgfup"
+    },
+    {
+      "album": {
+        "name": "20th Century Classics: Glazunov",
+        "url": "https://open.spotify.com/album/0jN9fRxGBBdHlaoqMK4xrQ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Glazunov",
+          "url": "https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Yevgeny Svetlanov",
+          "url": "https://open.spotify.com/artist/1xfayCGnoPqO2Wh3Y27IgG"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "Glazunov: The Seasons, Op. 67, Pt. 1 \"Winter\": No. 1, Introduction",
+      "url": "https://open.spotify.com/track/46SoGo0PSdEzhh3rFYjh8f"
+    },
+    {
+      "album": {
+        "name": "Richard Strauss: \"Die Zeit, die ist ein sonderbar' Ding\"",
+        "url": "https://open.spotify.com/album/250Quld5i2Wb6KU9yzyfxA"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Franz Welser-M\u00f6st",
+          "url": "https://open.spotify.com/artist/7JlPzWR6kQ48ZPLDixTTQ0"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405613,
+      "name": "Intermezzo, Op. 72, TrV 246a: 4 Symphonic Interludes: II. Traumerei am Kamin",
+      "url": "https://open.spotify.com/track/5IOrS56BLgx30M4QJ6aq2O"
+    },
+    {
+      "album": {
+        "name": "O Solitude",
+        "url": "https://open.spotify.com/album/1eUL368kvUkf7UwyIrWEyg"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Andreas Scholl",
+          "url": "https://open.spotify.com/artist/2LnE7uKchgVW2Uv7vzwixZ"
+        },
+        {
+          "name": "Accademia Bizantina",
+          "url": "https://open.spotify.com/artist/7vu3z34rL6rJiJVJyi9CfD"
+        },
+        {
+          "name": "Stefano Montanari",
+          "url": "https://open.spotify.com/artist/4F0wl1l8bennfUYUMhrovM"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189520,
+      "name": "King Arthur, or The British Worthy (1691) / Act 3: What Power art thou?",
+      "url": "https://open.spotify.com/track/0g4PPZhN9npPbOqCPN6oCC"
+    },
+    {
+      "album": {
+        "name": "The 7 Seasons",
+        "url": "https://open.spotify.com/album/76mCku3r549LsaAFdBzXF9"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Kuusisto",
+          "url": "https://open.spotify.com/artist/51adR4QESc2T8maS27YxWE"
+        },
+        {
+          "name": "The Helsinki Strings",
+          "url": "https://open.spotify.com/artist/2pPoEW4Ch9LsTTJzdKNWth"
+        },
+        {
+          "name": "Csaba Szilvay and G\u00e9za Szilvay",
+          "url": "https://open.spotify.com/artist/452oa7rSYwj3Jo0qAJseFB"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419360,
+      "name": "Kuusisto : Suite for String Orchestra and Harpsichord Op.7, 'Between Seasons' : First Snow",
+      "url": "https://open.spotify.com/track/6F2jBT3rpm5bZDLtl5kmE6"
+    },
+    {
+      "album": {
+        "name": "Piazzolla: Sinfonia Buenos Aires",
+        "url": "https://open.spotify.com/album/7e1k2HHlEiYooOUjvm2AUs"
+      },
+      "artists": [
+        {
+          "name": "Tianwa Yang",
+          "url": "https://open.spotify.com/artist/2yZ6PpNTnlmRGbbZd6pWpI"
+        },
+        {
+          "name": "Nashville Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5CmNgBR5IxvpiU5tQxc448"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483000,
+      "name": "Las 4 Estaciones Porte\u00f1as: Invierno Porteno (Winter) [Arr. L. Desyatnikov for Violin & Strings]",
+      "url": "https://open.spotify.com/track/1TjONGadXHcQd9QsteQkaO"
+    },
+    {
+      "album": {
+        "name": "Waldteufel: Famous Waltzes",
+        "url": "https://open.spotify.com/album/1Xkwr1UWALUBvT9qGF4hKY"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Waldteufel",
+          "url": "https://open.spotify.com/artist/7qdNQ64kU4miOYyt6OUch0"
+        },
+        {
+          "name": "Slovak State Philharmonic Orchestra, Kosice",
+          "url": "https://open.spotify.com/artist/2Eo4VORMdwb15W8WZh3vl6"
+        },
+        {
+          "name": "Alfred Walter",
+          "url": "https://open.spotify.com/artist/4AqJpvHAdYwzyOs2PjhviQ"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453960,
+      "name": "Les Patineurs, Op. 183, \"The Skater's Waltz\": Let Patineurs, Op. 183",
+      "url": "https://open.spotify.com/track/0ouscKuB5NdM4wBBMm9gzS"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Suite No. 4 / The Seasons",
+        "url": "https://open.spotify.com/album/5ZCKZ0qr3CNHu44bR1S4se"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Detroit Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280440,
+      "name": "Les saisons (the Seasons), Op. 37b: XII. December: Yuletide [arr. A. Gauk for orchestra]",
+      "url": "https://open.spotify.com/track/789n2vusCRuIoqklooMKkP"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Alexander Nevsky; Scythian Suite; Lieutenant Kij\u00e9",
+        "url": "https://open.spotify.com/album/02VP1KrctG3zMJaZJCF85r"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Lieutenant Kij\u00e9, Symphonic Suite, Op.60: 4. Tro\u00efka",
+      "url": "https://open.spotify.com/track/6eOZE6oyuZxEsIFbI8zpDM"
+    },
+    {
+      "album": {
+        "name": "Requiem for a Dying Planet",
+        "url": "https://open.spotify.com/album/4c2bRlj7AIpBeR9TSMYQ52"
+      },
+      "artists": [
+        {
+          "name": "Ernst Reijseger",
+          "url": "https://open.spotify.com/artist/3G3RD2OMqpKq9V234MF8TA"
+        }
+      ],
+      "date_added": "2017-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128933,
+      "name": "Longing for a frozen sky",
+      "url": "https://open.spotify.com/track/3kEav6xoyo72ik1LcSVupG"
+    },
+    {
+      "album": {
+        "name": "Tormis: Forgotten Peoples (Excerpts)",
+        "url": "https://open.spotify.com/album/7C1nzPHG6XcEDEAa8VNERX"
+      },
+      "artists": [
+        {
+          "name": "Veljo Tormis",
+          "url": "https://open.spotify.com/artist/0Idpvxe8nO6ZOciUbB5eSa"
+        },
+        {
+          "name": "musica intima",
+          "url": "https://open.spotify.com/artist/1p6D0AbVLgyNSt6AtESToF"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157533,
+      "name": "Looduspildid (Nature Pictures): IV. Talvemustrid (Winter Patterns): Virmalised (Northern Lights)",
+      "url": "https://open.spotify.com/track/6w6gpWGK6hapOOKoN3DcdP"
+    },
+    {
+      "album": {
+        "name": "Dowland: A Dream",
+        "url": "https://open.spotify.com/album/7kdDoVzaabzaaqCv5zDiGi"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Hopkinson Smith",
+          "url": "https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133813,
+      "name": "Melancholy Galliard",
+      "url": "https://open.spotify.com/track/6Us5q0svYk9yehYfx3AL8P"
+    },
+    {
+      "album": {
+        "name": "Chilcott: The Rose in the Middle of Winter",
+        "url": "https://open.spotify.com/album/3ssFb2650LNTxGnHJbhmAq"
+      },
+      "artists": [
+        {
+          "name": "Bob Chilcott",
+          "url": "https://open.spotify.com/artist/5Q2lvqropyKbugryLHx8e7"
+        },
+        {
+          "name": "Commotio",
+          "url": "https://open.spotify.com/artist/1aK8jJG1b09BFYmECQf4gE"
+        },
+        {
+          "name": "Alice James",
+          "url": "https://open.spotify.com/artist/5eykWl4OMjeF0PTzLxf3t7"
+        },
+        {
+          "name": "Tanya Houghton",
+          "url": "https://open.spotify.com/artist/1ODtAuRRp8Gem39F5XWWGK"
+        },
+        {
+          "name": "Matthew Berry",
+          "url": "https://open.spotify.com/artist/5CtxtzQxyOBTWrDbANKg2v"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227786,
+      "name": "Mid-Winter (version for chorus, flute and harp)",
+      "url": "https://open.spotify.com/track/48tuFV2msxPjwkQqVwrKIO"
+    },
+    {
+      "album": {
+        "name": "Gjeilo: Northern Lights",
+        "url": "https://open.spotify.com/album/0MF2LI2NzM06hTjMhS8ZUm"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Phoenix Chorale",
+          "url": "https://open.spotify.com/artist/33YCmNkqNaxaGlCMisYKCd"
+        },
+        {
+          "name": "Charles Bruffy",
+          "url": "https://open.spotify.com/artist/2ai9WL8wYLTiYqg1QFHQyT"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Northern Lights: Northern Lights, \"Pulchra es, amica mea\" (Live)",
+      "url": "https://open.spotify.com/track/06xbnCwbZ6ccSij5v9ccOt"
+    },
+    {
+      "album": {
+        "name": "Palmgren : Early and Middle-Period Piano Pieces",
+        "url": "https://open.spotify.com/album/22dvvjY5iKq7gcWWrCra5G"
+      },
+      "artists": [
+        {
+          "name": "Selim Palmgren",
+          "url": "https://open.spotify.com/artist/46Z0RZT3UN1areYmO771gE"
+        },
+        {
+          "name": "Izumi Tateno",
+          "url": "https://open.spotify.com/artist/1IDW9jgQRukXDqINZyrkue"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229933,
+      "name": "Palmgren : Snowflakes [Lumihiutaleita] Op.57 No.2",
+      "url": "https://open.spotify.com/track/25znKd7e292WC5JL4ZzSF3"
+    },
+    {
+      "album": {
+        "name": "Tveitt: Piano Concertos Nos. 1 and 4",
+        "url": "https://open.spotify.com/album/4mpGOwU6WMJCcYGAeQw0Av"
+      },
+      "artists": [
+        {
+          "name": "Geirr Tveitt",
+          "url": "https://open.spotify.com/artist/0Aa0y4YckuVyLI49SIxoUL"
+        },
+        {
+          "name": "H\u00e5kon Austb\u00f8",
+          "url": "https://open.spotify.com/artist/0TeMHLkl2Y7C96S0MsvKAP"
+        },
+        {
+          "name": "Stavanger Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6028AM0lpCOWtl8rCfm88l"
+        },
+        {
+          "name": "Ole Kristian Ruud",
+          "url": "https://open.spotify.com/artist/7cPsfvyyqzJFhxAvhyIUTw"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495720,
+      "name": "Piano Concerto No. 4, Op. 130, \"Aurora Borealis\": II. Sparkle in the Winter Sky and",
+      "url": "https://open.spotify.com/track/4g5f8hFxJoxhUn3j0Rqac5"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/3HAxkTZlKYzaB1OeKqOI3c"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Francesco Piemontesi",
+          "url": "https://open.spotify.com/artist/1snFy8CL2AGHTrQiWcvQR2"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275666,
+      "name": "Preludes, L. 117, Book I: VI. Des pas sur la neige",
+      "url": "https://open.spotify.com/track/2lHeLjJEW1hfLxbsUELHNu"
+    },
+    {
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/2Vqm0uPYqLZ9ndHT7XOBi5"
+      },
+      "artists": [
+        {
+          "name": "Franz Berwald",
+          "url": "https://open.spotify.com/artist/6ky9trvRb2Iv69Qg3aK9fH"
+        },
+        {
+          "name": "G\u00e4vle Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2DMF5PvArh8PhpR1YRDBgv"
+        },
+        {
+          "name": "Petri Sakari",
+          "url": "https://open.spotify.com/artist/4gI7F56dR6m2slYAMibRoa"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556800,
+      "name": "Reminiscence of the Norwegian Mountains",
+      "url": "https://open.spotify.com/track/2PULr1fR8VWmN3A4B550dU"
+    },
+    {
+      "album": {
+        "name": "Two x Four",
+        "url": "https://open.spotify.com/album/1nZDgzgAZp7RTb9Xf1Rx01"
+      },
+      "artists": [
+        {
+          "name": "David Ludwig",
+          "url": "https://open.spotify.com/artist/0immtsebGoLzKkHoORdJUs"
+        },
+        {
+          "name": "Jennifer Koh",
+          "url": "https://open.spotify.com/artist/5oz3ukvCydQ9fAfvAHwe3z"
+        },
+        {
+          "name": "Jaime Laredo",
+          "url": "https://open.spotify.com/artist/3f6FlxZfcsNeOZCXgbp1yW"
+        },
+        {
+          "name": "Curtis 20/21 Ensemble",
+          "url": "https://open.spotify.com/artist/2CmED444vRYCzCAraUBZWA"
+        },
+        {
+          "name": "Vinay Parameswaran",
+          "url": "https://open.spotify.com/artist/3ZrKYynNs0KUU2oXzmdh46"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174974,
+      "name": "Seasons Lost: I. Winter",
+      "url": "https://open.spotify.com/track/46BgLoFKA2ExzkdkQHAp2y"
+    },
+    {
+      "album": {
+        "name": "Anner Bylsma plays Cello Suites and Sonatas",
+        "url": "https://open.spotify.com/album/4e4hzOo1y4aU9z9A6PU86C"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Anner Bylsma",
+          "url": "https://open.spotify.com/artist/1gaUtaLxXEKVBrDMuX7QEU"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360173,
+      "name": "Sonata for Solo Violin No. 2 in A Minor, BWV 1003 (Arr. for Violoncello Piccolo): III. Andante",
+      "url": "https://open.spotify.com/track/2vHbwqaA9FsXtpKiZNx30V"
+    },
+    {
+      "album": {
+        "name": "Faure / Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/1VDm8CWY9oOYJI9SMuz8kL"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Ad Libitum Quartet",
+          "url": "https://open.spotify.com/artist/2SHxHRkUEV0AI8rdK67bZA"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 609533,
+      "name": "String Quartet in F Major: III. Tres lent",
+      "url": "https://open.spotify.com/track/06h33w7w0c8r7yV189UjOC"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 1 in G Minor, Op. 13 \"Winter Daydreams\"",
+        "url": "https://open.spotify.com/album/0iHvRsVJkuOJaudw0qG3og"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Oslo Filharmonien",
+          "url": "https://open.spotify.com/artist/23WEZfjvXzXUS1160xcrXr"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 711000,
+      "name": "Symphony No. 1 in G Minor, Op. 13, \"Winter Daydreams\": I. Allegro tranquillo (Dreams of a Winter Journey)",
+      "url": "https://open.spotify.com/track/051hrLvX28MMKcavkvUxp0"
+    },
+    {
+      "album": {
+        "name": "Sinkovsky Plays and Sings Vivaldi",
+        "url": "https://open.spotify.com/album/2VkyrOTwER1K6bsK1qona9"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Dmitry Sinkovsky",
+          "url": "https://open.spotify.com/artist/6KxLsPEyo1B169xGOWUCwD"
+        },
+        {
+          "name": "La Voce Strumentale",
+          "url": "https://open.spotify.com/artist/0hQy24Snm3txnO86NWwQe1"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117906,
+      "name": "The Four Seasons, Violin Concerto No. 4 in F Minor, RV 297 \"Winter\": II. Largo",
+      "url": "https://open.spotify.com/track/7njAZhca4o80qQdCgyEWya"
+    },
+    {
+      "album": {
+        "name": "David Lang: The National Anthems & The Little Match Girl Passion",
+        "url": "https://open.spotify.com/album/5ypsP7ZtxK0Jxp83zKy23U"
+      },
+      "artists": [
+        {
+          "name": "David Lang",
+          "url": "https://open.spotify.com/artist/7rdRfDNLKnGbxnnanaggQ2"
+        },
+        {
+          "name": "Matthew Brown",
+          "url": "https://open.spotify.com/artist/4bvoA0eiuvuBBRfUFJGqpC"
+        },
+        {
+          "name": "Los Angeles Master Chorale",
+          "url": "https://open.spotify.com/artist/66HwS8U1RybE701IOdJT1x"
+        },
+        {
+          "name": "Grant Gershon",
+          "url": "https://open.spotify.com/artist/6ue8YoBGM5IQGRKnCmCJ2W"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162226,
+      "name": "The Little Match Girl Passion (Version for 4 Voices, Percussion & Choir): In the dawn of morning",
+      "url": "https://open.spotify.com/track/0j13YK7C6xYrJgTCjup319"
+    },
+    {
+      "album": {
+        "name": "Cage: The Seasons",
+        "url": "https://open.spotify.com/album/1bdBVf3H1CHVji96warvSD"
+      },
+      "artists": [
+        {
+          "name": "John Cage",
+          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "Dennis Russell Davies",
+          "url": "https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8"
+        },
+        {
+          "name": "American Composers Orchestra",
+          "url": "https://open.spotify.com/artist/0ieoS7ZGm9kfJ1txuSjLUx"
+        }
+      ],
+      "date_added": "2017-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "The Seasons (Ballet In One Act) - (1947): Prelude 1, Winter",
+      "url": "https://open.spotify.com/track/0YlSjcxSLrpHMFCqGdyD7j"
+    },
+    {
+      "album": {
+        "name": "Simpson: The Seasons, The Monthes & other divisions of Time - I",
+        "url": "https://open.spotify.com/album/67fJyAswOSBvLXNJzzveSv"
+      },
+      "artists": [
+        {
+          "name": "Christopher Simpson",
+          "url": "https://open.spotify.com/artist/1vHvyfw9LvFAbhMCIGEiJm"
+        },
+        {
+          "name": "Sophie Watillon",
+          "url": "https://open.spotify.com/artist/6zmIIBpCofKSPM6Dk4Fs7y"
+        },
+        {
+          "name": "Friederike Heumann",
+          "url": "https://open.spotify.com/artist/2v3RzJbwMDB5FLNRqwTvHr"
+        },
+        {
+          "name": "Luca Guglielmi",
+          "url": "https://open.spotify.com/artist/5JifWABZr9HRhVfCb6VaIc"
+        },
+        {
+          "name": "Brian Franklin",
+          "url": "https://open.spotify.com/artist/1afRyKGxeB0TlQovUX0ynx"
+        },
+        {
+          "name": "Matthias Spaeter",
+          "url": "https://open.spotify.com/artist/0n9sfI3H91CSnfDoyUXygs"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "The Seasons, The Winter: II. Aire (Dessus de viole, 2 basses de viole, th\u00e9orbe, orgue & clavecin)",
+      "url": "https://open.spotify.com/track/0Z2t8vGYwXWlA2BoEBjK24"
+    },
+    {
+      "album": {
+        "name": "Rimsky-Korsakov, N.A.: The Snow Maiden Suite / Legend of the Invisible City of Kitezh / Night on Mount Triglav",
+        "url": "https://open.spotify.com/album/3nNQBTG6maLuRHbQwrnkVd"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Russian National Orchestra",
+          "url": "https://open.spotify.com/artist/1W3sZMluDmealiI6B5awE9"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222292,
+      "name": "The Snow Maiden Suite: IV. Danse des bouffons (Dance of the Clowns)",
+      "url": "https://open.spotify.com/track/785upDs2S36WTWNIb2v3Wd"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: The Nine Symphonies",
+        "url": "https://open.spotify.com/album/0fpq8dr37W06rLhuPeeDUx"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Norma Burrowes/London Philharmonic Choir/London Philharmonic Orchestra/Sir Adrian Boult",
+          "url": "https://open.spotify.com/artist/22eM9LwIgI6LvJHm9xhTfJ"
+        },
+        {
+          "name": "Adrian Boult",
+          "url": "https://open.spotify.com/artist/3p0NqvWPDFlJBC8nTpFYKm"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "Vaughan Williams: Symphony No. 7 \"Sinfonia Antartica\": II. Scherzo. Moderato",
+      "url": "https://open.spotify.com/track/25vLfvO1gm9ui3TuV910kI"
+    },
+    {
+      "album": {
+        "name": "New Seasons - Glass, P\u00e4rt, Kancheli, Umebayashi",
+        "url": "https://open.spotify.com/album/4tJc9ueg6xef2GDifyU3pb"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Kremerata Baltica",
+          "url": "https://open.spotify.com/artist/0ect9tEgQI3kYRdAshny5a"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 673280,
+      "name": "Violin Concerto No. 2 - The American Four Seasons: Movement II",
+      "url": "https://open.spotify.com/track/0unzDuU6nCGCNQRTsBWRok"
+    },
+    {
+      "album": {
+        "name": "Walking In The Air - The Music Of Howard Blake",
+        "url": "https://open.spotify.com/album/3woGIp3B7E3TzX9sn5PGyS"
+      },
+      "artists": [
+        {
+          "name": "Howard Blake",
+          "url": "https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Walking In The Air (Excerpt \"Lifecycle\"), Op. 310",
+      "url": "https://open.spotify.com/track/2wh2je0SeU5zZaNMghMfz9"
+    },
+    {
+      "album": {
+        "name": "Water Under Snow Is Weary / Vesi v\u00e4syy lumen alle",
+        "url": "https://open.spotify.com/album/5zuCl3kGouGKxmY1q1o415"
+      },
+      "artists": [
+        {
+          "name": "Harri Wessman",
+          "url": "https://open.spotify.com/artist/230GGVhjiX4gKkIVVZHZpv"
+        },
+        {
+          "name": "Tapiola Choir",
+          "url": "https://open.spotify.com/artist/2Ok3xCNSCDvqOQJ6RaQlOH"
+        },
+        {
+          "name": "Erkki Pohjola",
+          "url": "https://open.spotify.com/artist/1PaHI1c0aPJlu7iujSJZ0N"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255226,
+      "name": "Wessman : Vesi v\u00e4syy lumen alle (Water Under Snow Is Weary)",
+      "url": "https://open.spotify.com/track/36a8Ib1mdwlYpNbdcFg0uN"
+    },
+    {
+      "album": {
+        "name": "What Sweeter Music: Choral Favourites by John Rutter",
+        "url": "https://open.spotify.com/album/2fupHx6LhyFgorKcNljXXO"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "William Shakespeare",
+          "url": "https://open.spotify.com/artist/0xZ9fVp0OnYjYPeX9Z3c8x"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Duke Dobing",
+          "url": "https://open.spotify.com/artist/29IGwHD0BUR9FuQOKnYX1D"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235866,
+      "name": "When Icicles Hang: IV. Blow, Blow, Thou Winter Wind",
+      "url": "https://open.spotify.com/track/6j56lY5Ypqvd7EhLIYNnO4"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279093,
+      "name": "Winter 3",
+      "url": "https://open.spotify.com/track/1c0GZcSyXY3s1iUchPxoky"
+    },
+    {
+      "album": {
+        "name": "Ned Rorem: Winter Pages/Bright Music",
+        "url": "https://open.spotify.com/album/5VH0BD05vFRV3fessv3jiw"
+      },
+      "artists": [
+        {
+          "name": "Ned Rorem",
+          "url": "https://open.spotify.com/artist/6olAQ3T7TK9g1IJIq2OTYt"
+        },
+        {
+          "name": "Fred Sherry",
+          "url": "https://open.spotify.com/artist/5tPg8pW9iGrqqPaufyLbYH"
+        },
+        {
+          "name": "Frank Morelli",
+          "url": "https://open.spotify.com/artist/3xtv1Xpg9WADhBQoBZKlmn"
+        },
+        {
+          "name": "Ida Kavafian",
+          "url": "https://open.spotify.com/artist/1G76CZqNJ0VjTHuiVR9WFD"
+        },
+        {
+          "name": "Charles Wadsworth",
+          "url": "https://open.spotify.com/artist/63ZaEC88m2m8jFA27Ed5Wo"
+        },
+        {
+          "name": "Todd Palmer",
+          "url": "https://open.spotify.com/artist/565P3ziXGxpI2q8dRyAE1h"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "Winter Pages: II. The sun that brief December day",
+      "url": "https://open.spotify.com/track/7FsnjX75mLiMKznSCNm3US"
+    },
+    {
+      "album": {
+        "name": "Songs Of Ascension",
+        "url": "https://open.spotify.com/album/5NJRVO5pATxjfWyuTz5Bst"
+      },
+      "artists": [
+        {
+          "name": "Meredith Monk",
+          "url": "https://open.spotify.com/artist/1WN9bXZmI41JB1tCmrSC3M"
+        }
+      ],
+      "date_added": "2017-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111586,
+      "name": "Winter Variation",
+      "url": "https://open.spotify.com/track/7G8FIgNV7fKHeGLU4AdXeo"
+    },
+    {
+      "album": {
+        "name": "Schubert: Winterreise D.911",
+        "url": "https://open.spotify.com/album/4HR9merQilQj0dXw3EuSjg"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Werner G\u00fcra",
+          "url": "https://open.spotify.com/artist/5l99uDJZTV5zK5crn1Nt6V"
+        },
+        {
+          "name": "Christoph Berner",
+          "url": "https://open.spotify.com/artist/0qjUgu9gIYjeONfMjklJ89"
+        }
+      ],
+      "date_added": "2017-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298400,
+      "name": "Winterreise D.911: Erste Abteilung: Der Lindenbaum",
+      "url": "https://open.spotify.com/track/0QTjpkVJCqETkyph7D8IFu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0ynPp7KaiSY"
 }

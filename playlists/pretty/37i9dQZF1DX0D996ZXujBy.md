@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D996ZXujBy.md) - [plain]
 
 > Listen to the surprise songs from each night of Taylor Swift \| The Eras tour
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,317 likes - 102 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,899 likes - 102 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

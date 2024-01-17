@@ -1,291 +1,467 @@
 {
-  "2023-03-18": 232516,
-  "2023-03-19": 232516,
-  "2023-03-20": 232593,
-  "2023-03-21": 232644,
-  "2023-03-22": 232712,
-  "2023-03-23": 232752,
-  "2023-03-24": 232752,
-  "2023-03-25": 232856,
-  "2023-03-26": 232926,
-  "2023-03-27": 232964,
-  "2023-03-28": 233011,
-  "2023-03-29": 233072,
-  "2023-03-30": 233118,
-  "2023-03-31": 233118,
-  "2023-04-01": 233211,
-  "2023-04-02": 233240,
-  "2023-04-03": 233296,
-  "2023-04-04": 233399,
-  "2023-04-05": 233490,
-  "2023-04-06": 233580,
-  "2023-04-07": 233656,
-  "2023-04-09": 233784,
-  "2023-04-10": 233880,
-  "2023-04-11": 233998,
-  "2023-04-12": 233998,
-  "2023-04-13": 234067,
-  "2023-04-14": 234126,
-  "2023-04-15": 234178,
-  "2023-04-16": 234228,
-  "2023-04-17": 234240,
-  "2023-04-18": 234266,
-  "2023-04-19": 234315,
-  "2023-04-20": 234335,
-  "2023-04-21": 234398,
-  "2023-04-22": 234428,
-  "2023-04-23": 234467,
-  "2023-04-24": 234509,
-  "2023-04-25": 234554,
-  "2023-04-26": 234587,
-  "2023-04-27": 234617,
-  "2023-04-28": 234661,
-  "2023-04-29": 234701,
-  "2023-04-30": 234743,
-  "2023-05-01": 234764,
-  "2023-05-02": 234771,
-  "2023-05-03": 234802,
-  "2023-05-04": 234821,
-  "2023-05-05": 234866,
-  "2023-05-06": 234915,
-  "2023-05-07": 234928,
-  "2023-05-08": 234970,
-  "2023-05-09": 235034,
-  "2023-05-10": 235045,
-  "2023-05-11": 235071,
-  "2023-05-12": 235101,
-  "2023-05-13": 235133,
-  "2023-05-14": 235178,
-  "2023-05-15": 235202,
-  "2023-05-16": 235231,
-  "2023-05-17": 235273,
-  "2023-05-18": 235292,
-  "2023-05-19": 235339,
-  "2023-05-20": 235420,
-  "2023-05-21": 235420,
-  "2023-05-22": 235420,
-  "2023-05-23": 235482,
-  "2023-05-24": 235550,
-  "2023-05-25": 235572,
-  "2023-05-26": 235627,
-  "2023-05-27": 235658,
-  "2023-05-28": 235679,
-  "2023-05-29": 235679,
-  "2023-05-30": 235740,
-  "2023-05-31": 235792,
-  "2023-06-01": 235806,
-  "2023-06-02": 235858,
-  "2023-06-03": 235890,
-  "2023-06-04": 235970,
-  "2023-06-05": 236062,
-  "2023-06-06": 236108,
-  "2023-06-07": 236159,
-  "2023-06-08": 236193,
-  "2023-06-09": 236252,
-  "2023-06-10": 236312,
-  "2023-06-11": 236377,
-  "2023-06-12": 236437,
-  "2023-06-13": 236502,
-  "2023-06-14": 236535,
-  "2023-06-15": 236568,
-  "2023-06-16": 236611,
-  "2023-06-17": 236640,
-  "2023-06-18": 236677,
-  "2023-06-19": 236730,
-  "2023-06-20": 236775,
-  "2023-06-21": 236797,
-  "2023-06-22": 236829,
-  "2023-06-23": 236877,
-  "2023-06-24": 236929,
-  "2023-06-25": 236990,
-  "2023-06-26": 237040,
-  "2023-06-27": 237082,
-  "2023-06-28": 237141,
-  "2023-06-29": 237166,
-  "2023-06-30": 237186,
-  "2023-07-01": 237259,
-  "2023-07-02": 237259,
-  "2023-07-03": 237301,
-  "2023-07-04": 237309,
-  "2023-07-05": 237328,
-  "2023-07-06": 237351,
-  "2023-07-07": 237351,
-  "2023-07-08": 237351,
-  "2023-07-09": 237387,
-  "2023-07-10": 237409,
-  "2023-07-11": 237420,
-  "2023-07-12": 237451,
-  "2023-07-13": 237433,
-  "2023-07-14": 237458,
-  "2023-07-15": 237471,
-  "2023-07-16": 237490,
-  "2023-07-17": 237515,
-  "2023-07-18": 237527,
-  "2023-07-19": 237548,
-  "2023-07-20": 237585,
-  "2023-07-21": 237614,
-  "2023-07-22": 237641,
-  "2023-07-23": 237661,
-  "2023-07-24": 237659,
-  "2023-07-25": 237676,
-  "2023-07-26": 237712,
-  "2023-07-27": 237783,
-  "2023-07-28": 237833,
-  "2023-07-29": 237847,
-  "2023-07-30": 237863,
-  "2023-07-31": 237889,
-  "2023-08-01": 237926,
-  "2023-08-02": 237942,
-  "2023-08-03": 237966,
-  "2023-08-04": 238014,
-  "2023-08-05": 238049,
-  "2023-08-06": 238083,
-  "2023-08-07": 238083,
-  "2023-08-08": 238108,
-  "2023-08-09": 238132,
-  "2023-08-10": 238170,
-  "2023-08-11": 238212,
-  "2023-08-12": 238212,
-  "2023-08-13": 238212,
-  "2023-08-14": 238343,
-  "2023-08-15": 238343,
-  "2023-08-16": 238343,
-  "2023-08-17": 238343,
-  "2023-08-18": 238343,
-  "2023-08-19": 238343,
-  "2023-08-20": 238733,
-  "2023-08-21": 238733,
-  "2023-08-22": 238917,
-  "2023-08-23": 238917,
-  "2023-08-24": 238917,
-  "2023-08-25": 238917,
-  "2023-08-26": 239198,
-  "2023-08-27": 239198,
-  "2023-08-28": 239275,
-  "2023-08-29": 239275,
-  "2023-08-30": 239275,
-  "2023-08-31": 239456,
-  "2023-09-01": 239513,
-  "2023-09-02": 239513,
-  "2023-09-03": 239611,
-  "2023-09-04": 239611,
-  "2023-09-05": 239611,
-  "2023-09-06": 239755,
-  "2023-09-07": 239755,
-  "2023-09-08": 239755,
-  "2023-09-09": 239755,
-  "2023-09-10": 239954,
-  "2023-09-11": 239954,
-  "2023-09-12": 239954,
-  "2023-09-13": 240095,
-  "2023-09-14": 240095,
-  "2023-09-15": 240095,
-  "2023-09-16": 240240,
-  "2023-09-17": 240240,
-  "2023-09-18": 240240,
-  "2023-09-19": 240385,
-  "2023-09-20": 240385,
-  "2023-09-21": 240385,
-  "2023-09-22": 240474,
-  "2023-09-23": 240474,
-  "2023-09-24": 240474,
-  "2023-09-25": 240474,
-  "2023-09-26": 240603,
-  "2023-09-27": 240603,
-  "2023-09-28": 240603,
-  "2023-09-29": 240603,
-  "2023-09-30": 240603,
-  "2023-10-01": 240603,
-  "2023-10-02": 240603,
-  "2023-10-03": 240603,
-  "2023-10-04": 240603,
-  "2023-10-05": 241544,
-  "2023-10-06": 241544,
-  "2023-10-07": 241544,
-  "2023-10-08": 241544,
-  "2023-10-09": 241544,
-  "2023-10-10": 241544,
-  "2023-10-11": 242158,
-  "2023-10-12": 242158,
-  "2023-10-13": 242158,
-  "2023-10-14": 242158,
-  "2023-10-15": 242158,
-  "2023-10-16": 242158,
-  "2023-10-17": 242158,
-  "2023-10-18": 242158,
-  "2023-10-19": 242158,
-  "2023-10-20": 242158,
-  "2023-10-21": 242158,
-  "2023-10-22": 242158,
-  "2023-10-23": 242158,
-  "2023-10-24": 242158,
-  "2023-10-25": 242158,
-  "2023-10-26": 242158,
-  "2023-10-27": 242158,
-  "2023-10-28": 242158,
-  "2023-10-29": 242158,
-  "2023-10-30": 242158,
-  "2023-10-31": 242158,
-  "2023-11-01": 242158,
-  "2023-11-02": 242158,
-  "2023-11-03": 242158,
-  "2023-11-04": 242158,
-  "2023-11-05": 242158,
-  "2023-11-06": 242158,
-  "2023-11-07": 242158,
-  "2023-11-08": 242158,
-  "2023-11-09": 242158,
-  "2023-11-10": 242158,
-  "2023-11-11": 244231,
-  "2023-11-12": 244231,
-  "2023-11-13": 244231,
-  "2023-11-14": 244231,
-  "2023-11-15": 244231,
-  "2023-11-16": 244231,
-  "2023-11-17": 244231,
-  "2023-11-18": 244231,
-  "2023-11-19": 244231,
-  "2023-11-20": 244231,
-  "2023-11-21": 244231,
-  "2023-11-22": 244231,
-  "2023-11-23": 244231,
-  "2023-11-24": 244231,
-  "2023-11-25": 244231,
-  "2023-11-26": 244231,
-  "2023-11-27": 244231,
-  "2023-11-28": 244231,
-  "2023-11-29": 244231,
-  "2023-11-30": 244231,
-  "2023-12-01": 244231,
-  "2023-12-02": 244231,
-  "2023-12-03": 244231,
-  "2023-12-04": 244231,
-  "2023-12-05": 244231,
-  "2023-12-06": 244231,
-  "2023-12-07": 244231,
-  "2023-12-08": 244231,
-  "2023-12-09": 244231,
-  "2023-12-10": 244231,
-  "2023-12-11": 244231,
-  "2023-12-12": 244231,
-  "2023-12-13": 244231,
-  "2023-12-14": 245417,
-  "2023-12-15": 245427,
-  "2023-12-16": 245469,
-  "2023-12-17": 245487,
-  "2023-12-18": 245547,
-  "2023-12-19": 245569,
-  "2023-12-20": 245595,
-  "2023-12-21": 245632,
-  "2023-12-22": 245635,
-  "2023-12-23": 245670,
-  "2023-12-24": 245702,
-  "2023-12-25": 245716,
-  "2023-12-26": 245727,
-  "2023-12-27": 245764,
-  "2023-12-30": 245845,
-  "2023-12-31": 245865,
-  "2024-01-01": 245898,
-  "2024-01-02": 245909,
-  "2024-01-03": 245913
+  "2024-01-17": 246050,
+  "date_first_scraped": "2023-03-18",
+  "description": "This is girl in red. The essential tracks, all in one playlist.",
+  "name": "This Is girl in red",
+  "tracks": [
+    {
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166240,
+      "name": ".",
+      "url": "https://open.spotify.com/track/4r1AqGpB9YrXV2ivcrqfJY"
+    },
+    {
+      "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110861,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5"
+    },
+    {
+      "album": {
+        "name": "chapter 2",
+        "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs"
+    },
+    {
+      "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186672,
+      "name": "Body And Mind",
+      "url": "https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF"
+    },
+    {
+      "album": {
+        "name": "dead girl in the pool.",
+        "url": "https://open.spotify.com/album/7vWkk6Bzs6hwPGwPY3cgTo"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186642,
+      "name": "dead girl in the pool.",
+      "url": "https://open.spotify.com/track/0g9BOSeEnmv7L2qoFQKyBB"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143355,
+      "name": "forget her",
+      "url": "https://open.spotify.com/track/5vFuoZLvUmAzzIiLSEhk0K"
+    },
+    {
+      "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
+    },
+    {
+      "album": {
+        "name": "i need to be alone.",
+        "url": "https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "i need to be alone.",
+      "url": "https://open.spotify.com/track/2wHmH8OGgU6qi8NrLl0VRY"
+    },
+    {
+      "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204990,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
+    },
+    {
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201945,
+      "name": "I'll Call You Mine",
+      "url": "https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe"
+    },
+    {
+      "album": {
+        "name": "i'll die anyway.",
+        "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192612,
+      "name": "i'll die anyway.",
+      "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
+    },
+    {
+      "album": {
+        "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
+        "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Rothman",
+          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
+        },
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        },
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187364,
+      "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
+      "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
+    },
+    {
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193928,
+      "name": "midnight love",
+      "url": "https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA"
+    },
+    {
+      "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
+    },
+    {
+      "album": {
+        "name": "say anything",
+        "url": "https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142700,
+      "name": "say anything",
+      "url": "https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf"
+    },
+    {
+      "album": {
+        "name": "Say It - Spotify Studio Oyster Recording",
+        "url": "https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173175,
+      "name": "Say It - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/2k6qMVHTTzR5tJDjf1855E"
+    },
+    {
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+    },
+    {
+      "album": {
+        "name": "MOOMINVALLEY 2 (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205591,
+      "name": "something new",
+      "url": "https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175003,
+      "name": "Stay - Spotify Singles",
+      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
+      "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
+    },
+    {
+      "album": {
+        "name": "two queens in a king sized bed",
+        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190944,
+      "name": "two queens in a king sized bed",
+      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+    },
+    {
+      "album": {
+        "name": "watch you sleep.",
+        "url": "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180225,
+      "name": "watch you sleep.",
+      "url": "https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
+    },
+    {
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21OmAs"
 }

@@ -1,329 +1,917 @@
 {
-  "2023-02-08": 116247,
-  "2023-02-09": 116247,
-  "2023-02-10": 116302,
-  "2023-02-11": 116355,
-  "2023-02-12": 116516,
-  "2023-02-13": 116581,
-  "2023-02-14": 116581,
-  "2023-02-15": 116631,
-  "2023-02-16": 116700,
-  "2023-02-17": 116749,
-  "2023-02-18": 116881,
-  "2023-02-19": 116899,
-  "2023-02-20": 116956,
-  "2023-02-21": 117007,
-  "2023-02-22": 117057,
-  "2023-02-23": 117121,
-  "2023-02-24": 117158,
-  "2023-02-25": 117252,
-  "2023-02-26": 117303,
-  "2023-02-27": 117452,
-  "2023-02-28": 117452,
-  "2023-03-01": 117502,
-  "2023-03-02": 117567,
-  "2023-03-03": 117607,
-  "2023-03-04": 117661,
-  "2023-03-05": 117779,
-  "2023-03-06": 117779,
-  "2023-03-07": 117847,
-  "2023-03-08": 117892,
-  "2023-03-09": 117948,
-  "2023-03-10": 117995,
-  "2023-03-11": 118052,
-  "2023-03-12": 118156,
-  "2023-03-13": 118252,
-  "2023-03-14": 118306,
-  "2023-03-15": 118374,
-  "2023-03-16": 118436,
-  "2023-03-17": 118436,
-  "2023-03-18": 118551,
-  "2023-03-19": 118618,
-  "2023-03-20": 118698,
-  "2023-03-21": 118761,
-  "2023-03-22": 118804,
-  "2023-03-23": 118857,
-  "2023-03-24": 118857,
-  "2023-03-25": 119028,
-  "2023-03-26": 119138,
-  "2023-03-27": 119195,
-  "2023-03-28": 119244,
-  "2023-03-29": 119306,
-  "2023-03-30": 119431,
-  "2023-03-31": 119431,
-  "2023-04-01": 119526,
-  "2023-04-02": 119610,
-  "2023-04-03": 119683,
-  "2023-04-04": 119729,
-  "2023-04-05": 119795,
-  "2023-04-06": 119852,
-  "2023-04-07": 119914,
-  "2023-04-09": 120048,
-  "2023-04-10": 120122,
-  "2023-04-11": 120237,
-  "2023-04-12": 120237,
-  "2023-04-13": 120288,
-  "2023-04-14": 120334,
-  "2023-04-15": 120371,
-  "2023-04-16": 120447,
-  "2023-04-17": 120503,
-  "2023-04-18": 120541,
-  "2023-04-19": 120584,
-  "2023-04-20": 120629,
-  "2023-04-21": 120677,
-  "2023-04-22": 120744,
-  "2023-04-23": 120804,
-  "2023-04-24": 120861,
-  "2023-04-25": 120911,
-  "2023-04-26": 120954,
-  "2023-04-27": 121020,
-  "2023-04-28": 121045,
-  "2023-04-29": 121096,
-  "2023-04-30": 121150,
-  "2023-05-01": 121211,
-  "2023-05-02": 121252,
-  "2023-05-03": 121292,
-  "2023-05-04": 121331,
-  "2023-05-05": 121372,
-  "2023-05-06": 121416,
-  "2023-05-07": 121467,
-  "2023-05-08": 121525,
-  "2023-05-09": 121562,
-  "2023-05-10": 121608,
-  "2023-05-11": 121657,
-  "2023-05-12": 121699,
-  "2023-05-13": 121756,
-  "2023-05-14": 121872,
-  "2023-05-15": 121941,
-  "2023-05-16": 122003,
-  "2023-05-17": 122095,
-  "2023-05-18": 122190,
-  "2023-05-19": 122259,
-  "2023-05-20": 122426,
-  "2023-05-21": 122426,
-  "2023-05-22": 122426,
-  "2023-05-23": 122555,
-  "2023-05-24": 122649,
-  "2023-05-25": 122668,
-  "2023-05-26": 122731,
-  "2023-05-27": 122790,
-  "2023-05-28": 122879,
-  "2023-05-29": 122879,
-  "2023-05-30": 123005,
-  "2023-05-31": 123074,
-  "2023-06-01": 123146,
-  "2023-06-02": 123194,
-  "2023-06-03": 123213,
-  "2023-06-04": 123225,
-  "2023-06-05": 123226,
-  "2023-06-06": 123239,
-  "2023-06-07": 123257,
-  "2023-06-08": 24860,
-  "2023-06-09": 24860,
-  "2023-06-10": 24860,
-  "2023-06-11": 24860,
-  "2023-06-12": 24860,
-  "2023-06-13": 24860,
-  "2023-06-14": 24860,
-  "2023-06-15": 24860,
-  "2023-06-16": 24860,
-  "2023-06-17": 24860,
-  "2023-06-18": 24860,
-  "2023-06-19": 24860,
-  "2023-06-20": 24860,
-  "2023-06-21": 24860,
-  "2023-06-22": 24860,
-  "2023-06-23": 24860,
-  "2023-06-24": 24860,
-  "2023-06-25": 24860,
-  "2023-06-26": 24860,
-  "2023-06-27": 24860,
-  "2023-06-28": 24860,
-  "2023-06-29": 24860,
-  "2023-06-30": 24860,
-  "2023-07-01": 24860,
-  "2023-07-02": 24860,
-  "2023-07-03": 24860,
-  "2023-07-04": 24860,
-  "2023-07-05": 24860,
-  "2023-07-06": 24860,
-  "2023-07-07": 24860,
-  "2023-07-08": 24860,
-  "2023-07-09": 24860,
-  "2023-07-10": 24860,
-  "2023-07-11": 24860,
-  "2023-07-12": 24860,
-  "2023-07-13": 24860,
-  "2023-07-14": 24860,
-  "2023-07-15": 24860,
-  "2023-07-16": 24860,
-  "2023-07-17": 24860,
-  "2023-07-18": 24860,
-  "2023-07-19": 24860,
-  "2023-07-20": 24860,
-  "2023-07-21": 24860,
-  "2023-07-22": 24860,
-  "2023-07-23": 24860,
-  "2023-07-24": 24860,
-  "2023-07-25": 24860,
-  "2023-07-26": 24860,
-  "2023-07-27": 24860,
-  "2023-07-28": 24860,
-  "2023-07-29": 24860,
-  "2023-07-30": 24860,
-  "2023-07-31": 24860,
-  "2023-08-01": 24860,
-  "2023-08-02": 24860,
-  "2023-08-03": 24860,
-  "2023-08-04": 24860,
-  "2023-08-05": 24860,
-  "2023-08-06": 24860,
-  "2023-08-07": 24860,
-  "2023-08-08": 24860,
-  "2023-08-09": 24860,
-  "2023-08-10": 24860,
-  "2023-08-11": 24860,
-  "2023-08-12": 24860,
-  "2023-08-13": 24860,
-  "2023-08-14": 24860,
-  "2023-08-15": 24860,
-  "2023-08-16": 24860,
-  "2023-08-17": 24860,
-  "2023-08-18": 24860,
-  "2023-08-19": 24860,
-  "2023-08-20": 24860,
-  "2023-08-21": 24860,
-  "2023-08-22": 24860,
-  "2023-08-23": 24860,
-  "2023-08-24": 24860,
-  "2023-08-25": 24860,
-  "2023-08-26": 24860,
-  "2023-08-27": 24860,
-  "2023-08-28": 24860,
-  "2023-08-29": 24860,
-  "2023-08-30": 24860,
-  "2023-08-31": 24860,
-  "2023-09-01": 24860,
-  "2023-09-02": 24860,
-  "2023-09-03": 24860,
-  "2023-09-04": 24860,
-  "2023-09-05": 24860,
-  "2023-09-06": 24860,
-  "2023-09-07": 24860,
-  "2023-09-08": 24860,
-  "2023-09-09": 24860,
-  "2023-09-10": 24860,
-  "2023-09-11": 24860,
-  "2023-09-12": 24860,
-  "2023-09-13": 24860,
-  "2023-09-14": 24860,
-  "2023-09-15": 24860,
-  "2023-09-16": 24860,
-  "2023-09-17": 24860,
-  "2023-09-18": 24860,
-  "2023-09-19": 24860,
-  "2023-09-20": 24860,
-  "2023-09-21": 24860,
-  "2023-09-22": 24860,
-  "2023-09-23": 24860,
-  "2023-09-24": 24860,
-  "2023-09-25": 24860,
-  "2023-09-26": 24860,
-  "2023-09-27": 24860,
-  "2023-09-28": 24860,
-  "2023-09-29": 24860,
-  "2023-09-30": 24860,
-  "2023-10-01": 24860,
-  "2023-10-02": 24860,
-  "2023-10-03": 24860,
-  "2023-10-04": 24860,
-  "2023-10-05": 24860,
-  "2023-10-06": 24860,
-  "2023-10-07": 24860,
-  "2023-10-08": 24860,
-  "2023-10-09": 24860,
-  "2023-10-10": 24860,
-  "2023-10-11": 24860,
-  "2023-10-12": 24860,
-  "2023-10-13": 24860,
-  "2023-10-14": 24860,
-  "2023-10-15": 24860,
-  "2023-10-16": 24860,
-  "2023-10-17": 24860,
-  "2023-10-18": 24860,
-  "2023-10-19": 24860,
-  "2023-10-20": 24860,
-  "2023-10-21": 24860,
-  "2023-10-22": 24860,
-  "2023-10-23": 24860,
-  "2023-10-24": 24860,
-  "2023-10-25": 24860,
-  "2023-10-26": 24860,
-  "2023-10-27": 24860,
-  "2023-10-28": 24860,
-  "2023-10-29": 24860,
-  "2023-10-30": 24860,
-  "2023-10-31": 24860,
-  "2023-11-01": 24860,
-  "2023-11-02": 24860,
-  "2023-11-03": 24860,
-  "2023-11-04": 24860,
-  "2023-11-05": 24860,
-  "2023-11-06": 24860,
-  "2023-11-07": 24860,
-  "2023-11-08": 24860,
-  "2023-11-09": 24860,
-  "2023-11-10": 24860,
-  "2023-11-11": 24860,
-  "2023-11-12": 24860,
-  "2023-11-13": 24860,
-  "2023-11-14": 24860,
-  "2023-11-15": 24860,
-  "2023-11-16": 24860,
-  "2023-11-17": 24860,
-  "2023-11-18": 24860,
-  "2023-11-19": 24860,
-  "2023-11-20": 24860,
-  "2023-11-21": 24860,
-  "2023-11-22": 24860,
-  "2023-11-23": 24860,
-  "2023-11-24": 24860,
-  "2023-11-25": 24860,
-  "2023-11-26": 24860,
-  "2023-11-27": 24860,
-  "2023-11-28": 24860,
-  "2023-11-29": 24860,
-  "2023-11-30": 24860,
-  "2023-12-01": 24860,
-  "2023-12-02": 24860,
-  "2023-12-03": 24860,
-  "2023-12-04": 24860,
-  "2023-12-05": 24860,
-  "2023-12-06": 24860,
-  "2023-12-07": 24860,
-  "2023-12-08": 24860,
-  "2023-12-09": 24860,
-  "2023-12-10": 24860,
-  "2023-12-11": 24860,
-  "2023-12-12": 24860,
-  "2023-12-13": 24860,
-  "2023-12-14": 24860,
-  "2023-12-15": 24860,
-  "2023-12-16": 24860,
-  "2023-12-17": 24860,
-  "2023-12-18": 24860,
-  "2023-12-19": 24860,
-  "2023-12-20": 24860,
-  "2023-12-21": 24860,
-  "2023-12-22": 24860,
-  "2023-12-23": 24860,
-  "2023-12-24": 24860,
-  "2023-12-25": 24860,
-  "2023-12-26": 24860,
-  "2023-12-27": 24860,
-  "2023-12-30": 24860,
-  "2023-12-31": 24860,
-  "2024-01-01": 24860,
-  "2024-01-02": 24860,
-  "2024-01-03": 24860
+  "2024-01-17": 24860,
+  "date_first_scraped": "2023-02-09",
+  "description": "Bill Withers brought sunshine to all our lives with his timeless music.",
+  "name": "This Is Bill Withers",
+  "tracks": [
+    {
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "album": {
+        "name": "'Bout Love",
+        "url": "https://open.spotify.com/album/3dHnZMcA2O5Ck6E5QWXU4Q"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229946,
+      "name": "All Because of You",
+      "url": "https://open.spotify.com/track/2mQxn5c5xpFQ3RoWJmcoyv"
+    },
+    {
+      "album": {
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "Can We Pretend",
+      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+    },
+    {
+      "album": {
+        "name": "Naked & Warm",
+        "url": "https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 644826,
+      "name": "City of the Angels",
+      "url": "https://open.spotify.com/track/7yokzOJMDlz8WdZz92j33G"
+    },
+    {
+      "album": {
+        "name": "'Bout Love",
+        "url": "https://open.spotify.com/album/3dHnZMcA2O5Ck6E5QWXU4Q"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252306,
+      "name": "Don't It Make It Better",
+      "url": "https://open.spotify.com/track/5jO8BB4eIdrZ4EZE4zkHwX"
+    },
+    {
+      "album": {
+        "name": "Watching You Watching Me",
+        "url": "https://open.spotify.com/album/2SfDbgcq2U3hdyzsmlQzt7"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241293,
+      "name": "Don't Make Me Wait",
+      "url": "https://open.spotify.com/track/0nflo4jScDSM7FLB0K2wSm"
+    },
+    {
+      "album": {
+        "name": "The Essential Bill Withers",
+        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244120,
+      "name": "Don't You Want to Stay?",
+      "url": "https://open.spotify.com/track/6Uhx0EMpNhiq3TWZu9mbcb"
+    },
+    {
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
+    },
+    {
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268133,
+      "name": "Friend of Mine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/1Mnc4e18oDcELB8NkoMWbq"
+    },
+    {
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121080,
+      "name": "Grandma's Hands",
+      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
+    },
+    {
+      "album": {
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "Green Grass",
+      "url": "https://open.spotify.com/track/5kZ1Rmx0Z5Vr6hO9pM1mBF"
+    },
+    {
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Harlem",
+      "url": "https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s"
+    },
+    {
+      "album": {
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "Heartbreak Road",
+      "url": "https://open.spotify.com/track/2Ln4fno71kJLPZfy1XZoj1"
+    },
+    {
+      "album": {
+        "name": "The Essential Bill Withers",
+        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329573,
+      "name": "Hello Like Before",
+      "url": "https://open.spotify.com/track/1cjwmz8usNrrtkNCbzN2sS"
+    },
+    {
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230146,
+      "name": "Hope She'll Be Happier",
+      "url": "https://open.spotify.com/track/5Di9MiY5PnRbhfT9S8NBGW"
+    },
+    {
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403666,
+      "name": "I Can't Write Left-Handed - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/4u5caeri2MC9V32n9OBuZT"
+    },
+    {
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186710,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/16h3GCdEJ9lgiOyox4LJQA"
+    },
+    {
+      "album": {
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276733,
+      "name": "I Don't Want You On My Mind",
+      "url": "https://open.spotify.com/track/3BaFRtmUWO1Z3gzc9zYRh2"
+    },
+    {
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221133,
+      "name": "I Want to Spend the Night",
+      "url": "https://open.spotify.com/track/5O9oIsN5r0MKWuUrjWSa7W"
+    },
+    {
+      "album": {
+        "name": "Making Music",
+        "url": "https://open.spotify.com/album/5CfytRni4jhBrwM2MdPg1N"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237186,
+      "name": "I Wish You Well",
+      "url": "https://open.spotify.com/track/5CMqPxGLbwtNl5gtB3Me3m"
+    },
+    {
+      "album": {
+        "name": "Naked & Warm",
+        "url": "https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190693,
+      "name": "I'll Be with You",
+      "url": "https://open.spotify.com/track/0Bai1PH7iW2zeS2eX4HGxd"
+    },
+    {
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259959,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/4jZ2D5sXRGsVy2mJgnkY8U"
+    },
+    {
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "It Ain't Because of Me Baby",
+      "url": "https://open.spotify.com/track/1byRaJhSlEM60CWYGxsATq"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        },
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438493,
+      "name": "Just the Two of Us (feat. Bill Withers)",
+      "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
+    },
+    {
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231044,
+      "name": "Kissing My Love",
+      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
+    },
+    {
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156773,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/4vjNQBEWmeHP1M2fcWhSfA"
+    },
+    {
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284293,
+      "name": "Let Me Be the One You Need",
+      "url": "https://open.spotify.com/track/22beaVB5KBAffAVT6NhpJ2"
+    },
+    {
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225149,
+      "name": "Lonely Town, Lonely Street",
+      "url": "https://open.spotify.com/track/3oiVJNFAQQ77Yp3rXWGsVp"
+    },
+    {
+      "album": {
+        "name": "'Bout Love",
+        "url": "https://open.spotify.com/album/3dHnZMcA2O5Ck6E5QWXU4Q"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297840,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2SaTjbUkgSpqjrtNJITCmy"
+    },
+    {
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349800,
+      "name": "Lovely Night for Dancing",
+      "url": "https://open.spotify.com/track/6Zxubc85CUm7fFP9HDyAu3"
+    },
+    {
+      "album": {
+        "name": "'Bout Love",
+        "url": "https://open.spotify.com/album/3dHnZMcA2O5Ck6E5QWXU4Q"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306840,
+      "name": "Memories Are That Way",
+      "url": "https://open.spotify.com/track/2g1VJvnunEh5NKmSaa5z1k"
+    },
+    {
+      "album": {
+        "name": "Watching You Watching Me",
+        "url": "https://open.spotify.com/album/2SfDbgcq2U3hdyzsmlQzt7"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Oh Yeah!",
+      "url": "https://open.spotify.com/track/3R3UF0fn9DzRV7yPMs96GT"
+    },
+    {
+      "album": {
+        "name": "The Essential Bill Withers",
+        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388133,
+      "name": "Railroad Man",
+      "url": "https://open.spotify.com/track/5ymMx9GBPl9RaJ3UHd2qBR"
+    },
+    {
+      "album": {
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Ruby Lee",
+      "url": "https://open.spotify.com/track/0RTPZ8Yd44dsoR3uSkK9GT"
+    },
+    {
+      "album": {
+        "name": "Watching You Watching Me",
+        "url": "https://open.spotify.com/album/2SfDbgcq2U3hdyzsmlQzt7"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267440,
+      "name": "Something That Turns You On",
+      "url": "https://open.spotify.com/track/3eXCVGzenOoXfXlXtBhmgy"
+    },
+    {
+      "album": {
+        "name": "The Vocal Album",
+        "url": "https://open.spotify.com/album/2EQoTiaxaClZT1fni5YfdS"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        },
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383506,
+      "name": "Soul Shadows - Edit",
+      "url": "https://open.spotify.com/track/1gSP2PYlWu3429ySMUjc8s"
+    },
+    {
+      "album": {
+        "name": "Watching You Watching Me",
+        "url": "https://open.spotify.com/album/2SfDbgcq2U3hdyzsmlQzt7"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345600,
+      "name": "Steppin' Right Along",
+      "url": "https://open.spotify.com/track/08DiEWHGFXOHeDyFUzCyv3"
+    },
+    {
+      "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152773,
+      "name": "Sweet Wanomi",
+      "url": "https://open.spotify.com/track/0vJ3Y2MnDXi4hpxSeQdQEC"
+    },
+    {
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158905,
+      "name": "Take It All In and Check It All Out",
+      "url": "https://open.spotify.com/track/6i44NGNG9KIRPVVuEc1iky"
+    },
+    {
+      "album": {
+        "name": "The Essential Bill Withers",
+        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "The Same Love That Made Me Laugh",
+      "url": "https://open.spotify.com/track/6Y2WA0VUEgvRKJB9p4R61V"
+    },
+    {
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293666,
+      "name": "Then You Smile at Me",
+      "url": "https://open.spotify.com/track/1zM1PgepMQsQbyeHS6HJDC"
+    },
+    {
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228326,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
+    },
+    {
+      "album": {
+        "name": "Watching You Watching Me",
+        "url": "https://open.spotify.com/album/2SfDbgcq2U3hdyzsmlQzt7"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348800,
+      "name": "Watching You Watching Me",
+      "url": "https://open.spotify.com/track/5TxmGqsyCSDuWAkyn5XopG"
+    },
+    {
+      "album": {
+        "name": "Watching You Watching Me",
+        "url": "https://open.spotify.com/album/2SfDbgcq2U3hdyzsmlQzt7"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "We Could Be Sweet Lovers",
+      "url": "https://open.spotify.com/track/6ayiWjgowOfrJFAQoB5EAX"
+    },
+    {
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194427,
+      "name": "Who Is He (And What Is He to You)?",
+      "url": "https://open.spotify.com/track/1KywyxekfDEp3Ym7YP7S25"
+    },
+    {
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
+    },
+    {
+      "album": {
+        "name": "'Justments",
+        "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323053,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0sausBICBjXOjAtSZaa08k"
+    },
+    {
+      "album": {
+        "name": "'Bout Love",
+        "url": "https://open.spotify.com/album/3dHnZMcA2O5Ck6E5QWXU4Q"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2020-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434800,
+      "name": "You Got the Stuff",
+      "url": "https://open.spotify.com/track/0ftZ5CjzOWGDa7h0zQP6Z9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5MwHlrzAPLQ"
 }

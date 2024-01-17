@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,360 likes - 70 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,426 likes - 70 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

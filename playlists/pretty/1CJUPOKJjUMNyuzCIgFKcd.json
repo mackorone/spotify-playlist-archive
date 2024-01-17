@@ -1,13 +1,161 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 24896,
+  "num_followers": 24534,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "OTM5OCw1ZWRiYzJjNDljYjlkYTQ5NWVkZjE4MzM0OWQwOTUyMTEyNDMzMjZl",
+  "snapshot_id": "OTQxNCw5MDE5OTY0NGM2NjFmMThlNzdkODJhODM2OTYyMDgxOTZjZjliYzIy",
   "tracks": [
+    {
+      "added_at": "2024-01-12 20:33:36",
+      "album": {
+        "name": "MAFIA & MILITIA (feat. BabyTron)",
+        "url": "https://open.spotify.com/album/3yIPZjDDMqsnxze575vzbF"
+      },
+      "artists": [
+        {
+          "name": "DaeMoney",
+          "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 146448,
+      "name": "MAFIA & MILITIA (feat. BabyTron)",
+      "url": "https://open.spotify.com/track/0Jfh9rhwPoegyTVul05yR4"
+    },
+    {
+      "added_at": "2024-01-12 20:34:01",
+      "album": {
+        "name": "Mob",
+        "url": "https://open.spotify.com/album/3t4MBMVuq9899LgkqGSAAr"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "duration_ms": 87938,
+      "name": "Mob",
+      "url": "https://open.spotify.com/track/4zeLNybpK3UO6p3QhCYNGl"
+    },
+    {
+      "added_at": "2024-01-12 20:34:16",
+      "album": {
+        "name": "Hop Out The V!",
+        "url": "https://open.spotify.com/album/6jOO9YBwY6KGdDVCIdTRur"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        }
+      ],
+      "duration_ms": 97222,
+      "name": "Hop Out The V!",
+      "url": "https://open.spotify.com/track/6lDAYnMU80ULvsP6vDA2xT"
+    },
+    {
+      "added_at": "2024-01-12 20:33:02",
+      "album": {
+        "name": "Big Head",
+        "url": "https://open.spotify.com/album/68AvDy1psgvJhdmVai0kEM"
+      },
+      "artists": [
+        {
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        }
+      ],
+      "duration_ms": 130175,
+      "name": "Big Head",
+      "url": "https://open.spotify.com/track/6dfU4SRB7pO8HhHeSt76ZD"
+    },
+    {
+      "added_at": "2024-01-12 20:35:15",
+      "album": {
+        "name": "G Slim's Revenge",
+        "url": "https://open.spotify.com/album/5WbAFYPQXfuMB8VibCFt5s"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "G Slim's Revenge",
+      "url": "https://open.spotify.com/track/0yOapOAvr12TGvuELkWrW8"
+    },
+    {
+      "added_at": "2024-01-12 20:35:31",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/0BM7beWcnm0IPNaJWviZFr"
+      },
+      "artists": [
+        {
+          "name": "MBNel",
+          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
+        }
+      ],
+      "duration_ms": 215009,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/6UiC7IU7ZGC5yk7kK2IwYQ"
+    },
+    {
+      "added_at": "2024-01-12 20:35:42",
+      "album": {
+        "name": "Nissan",
+        "url": "https://open.spotify.com/album/2GG3MHE2CEPZMuArEhyTss"
+      },
+      "artists": [
+        {
+          "name": "Alexcis",
+          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
+        }
+      ],
+      "duration_ms": 138556,
+      "name": "Nissan",
+      "url": "https://open.spotify.com/track/6tUjn8hO7k71djAuR0ZkhX"
+    },
+    {
+      "added_at": "2024-01-12 20:34:28",
+      "album": {
+        "name": "I MIGHT SELF DESTRUCT",
+        "url": "https://open.spotify.com/album/5tx8t9vYKAl12GwhpwsBoX"
+      },
+      "artists": [
+        {
+          "name": "HAARPER",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "duration_ms": 125678,
+      "name": "I MIGHT SELF DESTRUCT",
+      "url": "https://open.spotify.com/track/2A54AQqJdE7jgKAOaKZa4l"
+    },
+    {
+      "added_at": "2024-01-12 20:32:49",
+      "album": {
+        "name": "Weight Class",
+        "url": "https://open.spotify.com/album/2rkuJWu9saMhpZn7ZmVBbX"
+      },
+      "artists": [
+        {
+          "name": "Mgm Lett",
+          "url": "https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Weight Class",
+      "url": "https://open.spotify.com/track/6Ps0PiM1yfdAa0OGxJDPge"
+    },
     {
       "added_at": "2023-12-08 22:13:47",
       "album": {
@@ -959,418 +1107,6 @@
       "duration_ms": 206092,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9"
-    },
-    {
-      "added_at": "2023-09-28 18:31:13",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/48eAYIvW7LSsqDVfOgJrER"
-      },
-      "artists": [
-        {
-          "name": "Danny Towers",
-          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
-        },
-        {
-          "name": "Tony Shhnow",
-          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/43pjKTwerf0zk3WSj1TE7I"
-    },
-    {
-      "added_at": "2023-09-28 18:31:27",
-      "album": {
-        "name": "MAKE IT HOT",
-        "url": "https://open.spotify.com/album/6nho8M9Q3oqB5rV7dZfeH7"
-      },
-      "artists": [
-        {
-          "name": "Ron Suno",
-          "url": "https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9"
-        }
-      ],
-      "duration_ms": 105264,
-      "name": "MAKE IT HOT",
-      "url": "https://open.spotify.com/track/1ETvswRlijobMKkLKTfHvJ"
-    },
-    {
-      "added_at": "2023-09-28 18:32:05",
-      "album": {
-        "name": "Black & Platinums",
-        "url": "https://open.spotify.com/album/3cgZK5L9bK9T1uQu7cVcAY"
-      },
-      "artists": [
-        {
-          "name": "HBK",
-          "url": "https://open.spotify.com/artist/5Px2gUGA6EDKiqqqUGR4ql"
-        },
-        {
-          "name": "Payroll Giovanni",
-          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
-        }
-      ],
-      "duration_ms": 125492,
-      "name": "Black & Platinums",
-      "url": "https://open.spotify.com/track/4yjiNUbEqrEcM9gpBCSIGb"
-    },
-    {
-      "added_at": "2023-09-29 22:13:45",
-      "album": {
-        "name": "No Socks 3",
-        "url": "https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb"
-      },
-      "artists": [
-        {
-          "name": "Cash Kidd",
-          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
-        },
-        {
-          "name": "Bfb Da Packman",
-          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
-        }
-      ],
-      "duration_ms": 204076,
-      "name": "Man Up",
-      "url": "https://open.spotify.com/track/2RqkLttkL59wqTbGd9VbaB"
-    },
-    {
-      "added_at": "2023-09-29 22:13:59",
-      "album": {
-        "name": "Rich & Player",
-        "url": "https://open.spotify.com/album/7vwtySRvkjDq6KPB9uddst"
-      },
-      "artists": [
-        {
-          "name": "D. Savage",
-          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
-        }
-      ],
-      "duration_ms": 113015,
-      "name": "Rich & Player",
-      "url": "https://open.spotify.com/track/4uAdk4WsvROzbhHpxlI744"
-    },
-    {
-      "added_at": "2023-09-29 22:14:19",
-      "album": {
-        "name": "Lil Mo",
-        "url": "https://open.spotify.com/album/7kV86VajOjgkskeUhwc2xX"
-      },
-      "artists": [
-        {
-          "name": "RJMrLA",
-          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 142680,
-      "name": "Lil Mo",
-      "url": "https://open.spotify.com/track/4lpYDPtkcyxXc8StYnqe1E"
-    },
-    {
-      "added_at": "2023-09-28 18:32:29",
-      "album": {
-        "name": "Dickie Set",
-        "url": "https://open.spotify.com/album/04tAcUoMqGX8foe1y6J2PT"
-      },
-      "artists": [
-        {
-          "name": "Jay Fizzle",
-          "url": "https://open.spotify.com/artist/1vxMyjYYKghLsYaIbeEHPP"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Dickie Set",
-      "url": "https://open.spotify.com/track/61jLuXgdLfS6CTxHQqzOIU"
-    },
-    {
-      "added_at": "2023-09-15 21:47:26",
-      "album": {
-        "name": "Hook Mitchell (feat. Dame D.O.L.L.A.)",
-        "url": "https://open.spotify.com/album/0f3GzsAigXJPTZj6pNmODH"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        },
-        {
-          "name": "Dame D.O.L.L.A",
-          "url": "https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ"
-        }
-      ],
-      "duration_ms": 219542,
-      "name": "Hook Mitchell (feat. Dame D.O.L.L.A.)",
-      "url": "https://open.spotify.com/track/6CKDa6mKBdGpllS72Bpj5V"
-    },
-    {
-      "added_at": "2023-09-15 21:48:09",
-      "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/3zQw7nR30Xwz2iKM1Frolo"
-      },
-      "artists": [
-        {
-          "name": "MBNel",
-          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
-        }
-      ],
-      "duration_ms": 160519,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/6DyXfw9Ur63oO68rINbpOy"
-    },
-    {
-      "added_at": "2023-09-15 21:47:37",
-      "album": {
-        "name": "Buckle Up",
-        "url": "https://open.spotify.com/album/2HJxcPLIKtKd8LPSAHwsQL"
-      },
-      "artists": [
-        {
-          "name": "RJMrLA",
-          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 118992,
-      "name": "Buckle Up",
-      "url": "https://open.spotify.com/track/225mfDVl2zv1gcS3QAtXXH"
-    },
-    {
-      "added_at": "2023-09-15 21:47:45",
-      "album": {
-        "name": "Bully Flow",
-        "url": "https://open.spotify.com/album/3mGduF88Hg7QiWf4vwQ9zR"
-      },
-      "artists": [
-        {
-          "name": "Tay Savage",
-          "url": "https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71"
-        }
-      ],
-      "duration_ms": 119901,
-      "name": "Bully Flow",
-      "url": "https://open.spotify.com/track/0CpvLQPZpypNSueYp4MCIb"
-    },
-    {
-      "added_at": "2023-09-08 17:24:10",
-      "album": {
-        "name": "Boss Blues",
-        "url": "https://open.spotify.com/album/7deP4NemY3eCBMgk3GmlWG"
-      },
-      "artists": [
-        {
-          "name": "Quin Nfn",
-          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
-        },
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        }
-      ],
-      "duration_ms": 196295,
-      "name": "Boss Blues",
-      "url": "https://open.spotify.com/track/2VAr6Z5n4pO3kI8m1ncYpb"
-    },
-    {
-      "added_at": "2023-09-05 20:48:18",
-      "album": {
-        "name": "Talkin Bout",
-        "url": "https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 117841,
-      "name": "Talkin Bout",
-      "url": "https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO"
-    },
-    {
-      "added_at": "2023-09-08 17:23:37",
-      "album": {
-        "name": "Celebrity Status",
-        "url": "https://open.spotify.com/album/6M1H4iaKsUYjEPoTMwqVlF"
-      },
-      "artists": [
-        {
-          "name": "Talibando",
-          "url": "https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI"
-        }
-      ],
-      "duration_ms": 86850,
-      "name": "Celebrity Status",
-      "url": "https://open.spotify.com/track/6qTVt8nIu3UzFe6qXmtEao"
-    },
-    {
-      "added_at": "2023-09-08 17:23:54",
-      "album": {
-        "name": "Da Trimmest",
-        "url": "https://open.spotify.com/album/6srl6Xvzq4YtTCUXr61Vbr"
-      },
-      "artists": [
-        {
-          "name": "Trigga500k",
-          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Da Trimmest",
-      "url": "https://open.spotify.com/track/5h3wsrfCIIXnbyQa0QRblC"
-    },
-    {
-      "added_at": "2023-09-08 17:25:28",
-      "album": {
-        "name": "CAPONE SEASON, VOL. 1",
-        "url": "https://open.spotify.com/album/53Odk9ErtFr6x4cqh8cT1X"
-      },
-      "artists": [
-        {
-          "name": "HMT TRAY",
-          "url": "https://open.spotify.com/artist/5PI3T8xABdYHl8b0NvHTxH"
-        }
-      ],
-      "duration_ms": 80200,
-      "name": "MY PEOPLES",
-      "url": "https://open.spotify.com/track/74drVzQ7gk2jTVd3EhzQ4J"
-    },
-    {
-      "added_at": "2023-09-05 20:48:34",
-      "album": {
-        "name": "4THECULTURE2",
-        "url": "https://open.spotify.com/album/5al53Znt8DCLtPe6rjcszX"
-      },
-      "artists": [
-        {
-          "name": "Lil Bean",
-          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
-        }
-      ],
-      "duration_ms": 138720,
-      "name": "Do It For Yo Section",
-      "url": "https://open.spotify.com/track/0TRB0EJ6u0gMJ6XeQMo6Kg"
-    },
-    {
-      "added_at": "2023-09-05 20:48:42",
-      "album": {
-        "name": "UHN UHN",
-        "url": "https://open.spotify.com/album/4q39sUFDo0CBaerE3KlYeb"
-      },
-      "artists": [
-        {
-          "name": "Kenny Muney",
-          "url": "https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX"
-        }
-      ],
-      "duration_ms": 134377,
-      "name": "UHN UHN",
-      "url": "https://open.spotify.com/track/1Enl7olSB7gy5UKkLIh7Ez"
-    },
-    {
-      "added_at": "2023-09-05 20:49:00",
-      "album": {
-        "name": "8 to Infinity",
-        "url": "https://open.spotify.com/album/3WDZzJ5bANP4qOUrQFLcrJ"
-      },
-      "artists": [
-        {
-          "name": "MBNel",
-          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
-        }
-      ],
-      "duration_ms": 160968,
-      "name": "8 to Infinity",
-      "url": "https://open.spotify.com/track/6f7Iyjqrggq7y25Zg4k97Y"
-    },
-    {
-      "added_at": "2023-08-28 17:17:26",
-      "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/7ActXZISNRFX3jBRPcE7XW"
-      },
-      "artists": [
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        }
-      ],
-      "duration_ms": 163581,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/3fpF1wbhka6wD52euq4UaU"
-    },
-    {
-      "added_at": "2023-08-28 17:17:32",
-      "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/0cWD3IQM9T3kYvIc5w7vpv"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 99813,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/37WO9r4U3LLqFkwHqZ2qg1"
-    },
-    {
-      "added_at": "2023-08-28 17:17:47",
-      "album": {
-        "name": "Who Am I?",
-        "url": "https://open.spotify.com/album/0FVlHF44IXXiCqJCbgSKE6"
-      },
-      "artists": [
-        {
-          "name": "Peewee Longway",
-          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
-        }
-      ],
-      "duration_ms": 135210,
-      "name": "Who Am I?",
-      "url": "https://open.spotify.com/track/5C5OTjlFFfrGnybSzEV6AI"
-    },
-    {
-      "added_at": "2023-08-28 17:18:09",
-      "album": {
-        "name": "Ears Bleeding",
-        "url": "https://open.spotify.com/album/2vASZo0aIK2v8jngVRqP57"
-      },
-      "artists": [
-        {
-          "name": "Cash Kidd",
-          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
-        }
-      ],
-      "duration_ms": 156151,
-      "name": "Ears Bleeding",
-      "url": "https://open.spotify.com/track/73tWYhqUEf22rdKVbJg2CD"
-    },
-    {
-      "added_at": "2023-08-28 17:18:16",
-      "album": {
-        "name": "Glitch Again",
-        "url": "https://open.spotify.com/album/3Tp2JbgBBWN98XUUXq4TYo"
-      },
-      "artists": [
-        {
-          "name": "Lil Seeto",
-          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
-        }
-      ],
-      "duration_ms": 130944,
-      "name": "Glitch Again",
-      "url": "https://open.spotify.com/track/2y9lKLfl0GUKiMfGt7jLPT"
     }
   ],
   "unique_name": "Fresh Out",

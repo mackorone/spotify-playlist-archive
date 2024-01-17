@@ -1,210 +1,1067 @@
 {
-  "2023-06-08": 773124,
-  "2023-06-09": 773517,
-  "2023-06-10": 773872,
-  "2023-06-11": 774205,
-  "2023-06-12": 774583,
-  "2023-06-13": 774949,
-  "2023-06-14": 775327,
-  "2023-06-15": 775694,
-  "2023-06-16": 776082,
-  "2023-06-17": 776454,
-  "2023-06-18": 776819,
-  "2023-06-19": 777189,
-  "2023-06-20": 777585,
-  "2023-06-21": 777935,
-  "2023-06-22": 778294,
-  "2023-06-23": 778681,
-  "2023-06-24": 779106,
-  "2023-06-25": 779472,
-  "2023-06-26": 779888,
-  "2023-06-27": 780294,
-  "2023-06-28": 780775,
-  "2023-06-29": 781225,
-  "2023-06-30": 781669,
-  "2023-07-01": 782430,
-  "2023-07-02": 782430,
-  "2023-07-03": 782741,
-  "2023-07-04": 783093,
-  "2023-07-05": 783407,
-  "2023-07-06": 784099,
-  "2023-07-07": 784099,
-  "2023-07-08": 784099,
-  "2023-07-09": 784815,
-  "2023-07-10": 785147,
-  "2023-07-11": 785463,
-  "2023-07-12": 785798,
-  "2023-07-13": 786173,
-  "2023-07-14": 786481,
-  "2023-07-15": 786782,
-  "2023-07-16": 787195,
-  "2023-07-17": 787502,
-  "2023-07-18": 787865,
-  "2023-07-19": 788230,
-  "2023-07-20": 788580,
-  "2023-07-21": 788950,
-  "2023-07-22": 789387,
-  "2023-07-23": 789765,
-  "2023-07-24": 790125,
-  "2023-07-25": 790519,
-  "2023-07-26": 790878,
-  "2023-07-27": 791234,
-  "2023-07-28": 791690,
-  "2023-07-29": 792053,
-  "2023-07-30": 792372,
-  "2023-07-31": 792654,
-  "2023-08-01": 793050,
-  "2023-08-02": 793681,
-  "2023-08-03": 794176,
-  "2023-08-04": 794714,
-  "2023-08-05": 795191,
-  "2023-08-06": 795994,
-  "2023-08-07": 795994,
-  "2023-08-08": 796462,
-  "2023-08-09": 796907,
-  "2023-08-10": 797315,
-  "2023-08-11": 797714,
-  "2023-08-12": 797714,
-  "2023-08-13": 797714,
-  "2023-08-14": 798925,
-  "2023-08-15": 798925,
-  "2023-08-16": 798925,
-  "2023-08-17": 798925,
-  "2023-08-18": 798925,
-  "2023-08-19": 798925,
-  "2023-08-20": 801308,
-  "2023-08-21": 801308,
-  "2023-08-22": 802008,
-  "2023-08-23": 802008,
-  "2023-08-24": 802008,
-  "2023-08-25": 802008,
-  "2023-08-26": 803506,
-  "2023-08-27": 803506,
-  "2023-08-28": 804192,
-  "2023-08-29": 804192,
-  "2023-08-30": 804192,
-  "2023-08-31": 805279,
-  "2023-09-01": 805637,
-  "2023-09-02": 805637,
-  "2023-09-03": 806411,
-  "2023-09-04": 806411,
-  "2023-09-05": 806411,
-  "2023-09-06": 807399,
-  "2023-09-07": 807399,
-  "2023-09-08": 807399,
-  "2023-09-09": 807399,
-  "2023-09-10": 809207,
-  "2023-09-11": 809207,
-  "2023-09-12": 809207,
-  "2023-09-13": 809207,
-  "2023-09-14": 809207,
-  "2023-09-15": 809207,
-  "2023-09-16": 811400,
-  "2023-09-17": 811400,
-  "2023-09-18": 811400,
-  "2023-09-19": 812327,
-  "2023-09-20": 812327,
-  "2023-09-21": 812327,
-  "2023-09-22": 813378,
-  "2023-09-23": 813378,
-  "2023-09-24": 813378,
-  "2023-09-25": 813378,
-  "2023-09-26": 814705,
-  "2023-09-27": 814705,
-  "2023-09-28": 814705,
-  "2023-09-29": 814705,
-  "2023-09-30": 814705,
-  "2023-10-01": 814705,
-  "2023-10-02": 814705,
-  "2023-10-03": 814705,
-  "2023-10-04": 814705,
-  "2023-10-05": 814705,
-  "2023-10-06": 814705,
-  "2023-10-07": 814705,
-  "2023-10-08": 814705,
-  "2023-10-09": 814705,
-  "2023-10-10": 814705,
-  "2023-10-11": 818818,
-  "2023-10-12": 818818,
-  "2023-10-13": 818818,
-  "2023-10-14": 818818,
-  "2023-10-15": 818818,
-  "2023-10-16": 818818,
-  "2023-10-17": 818818,
-  "2023-10-18": 818818,
-  "2023-10-19": 818818,
-  "2023-10-20": 818818,
-  "2023-10-21": 818818,
-  "2023-10-22": 818818,
-  "2023-10-23": 818818,
-  "2023-10-24": 818818,
-  "2023-10-25": 818818,
-  "2023-10-26": 818818,
-  "2023-10-27": 818818,
-  "2023-10-28": 818818,
-  "2023-10-29": 818818,
-  "2023-10-30": 818818,
-  "2023-10-31": 818818,
-  "2023-11-01": 818818,
-  "2023-11-02": 818818,
-  "2023-11-03": 818818,
-  "2023-11-04": 818818,
-  "2023-11-05": 818818,
-  "2023-11-06": 818818,
-  "2023-11-07": 818818,
-  "2023-11-08": 818818,
-  "2023-11-09": 818818,
-  "2023-11-10": 818818,
-  "2023-11-11": 826245,
-  "2023-11-12": 826245,
-  "2023-11-13": 826245,
-  "2023-11-14": 826245,
-  "2023-11-15": 826245,
-  "2023-11-16": 826245,
-  "2023-11-17": 826245,
-  "2023-11-18": 826245,
-  "2023-11-19": 826245,
-  "2023-11-20": 826245,
-  "2023-11-21": 826245,
-  "2023-11-22": 826245,
-  "2023-11-23": 826245,
-  "2023-11-24": 826245,
-  "2023-11-25": 826245,
-  "2023-11-26": 826245,
-  "2023-11-27": 826245,
-  "2023-11-28": 826245,
-  "2023-11-29": 826245,
-  "2023-11-30": 826245,
-  "2023-12-01": 826245,
-  "2023-12-02": 826245,
-  "2023-12-03": 826245,
-  "2023-12-04": 826245,
-  "2023-12-05": 826245,
-  "2023-12-06": 826245,
-  "2023-12-07": 826245,
-  "2023-12-08": 826245,
-  "2023-12-09": 826245,
-  "2023-12-10": 826245,
-  "2023-12-11": 826245,
-  "2023-12-12": 826245,
-  "2023-12-13": 826245,
-  "2023-12-14": 834260,
-  "2023-12-15": 834455,
-  "2023-12-16": 834716,
-  "2023-12-17": 834957,
-  "2023-12-18": 835198,
-  "2023-12-19": 835421,
-  "2023-12-20": 835722,
-  "2023-12-21": 836003,
-  "2023-12-22": 836236,
-  "2023-12-23": 836552,
-  "2023-12-24": 836789,
-  "2023-12-25": 836991,
-  "2023-12-26": 837153,
-  "2023-12-27": 837405,
-  "2023-12-30": 838127,
-  "2023-12-31": 838371,
-  "2024-01-01": 838578,
-  "2024-01-02": 838721,
-  "2024-01-03": 838926
+  "2024-01-17": 841868,
+  "date_first_scraped": "2023-06-08",
+  "description": "This is Mac Miller. The essential tracks, all in one playlist.",
+  "name": "This Is Mac Miller",
+  "tracks": [
+    {
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+    },
+    {
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 222670,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/1RkPqBGgFNPxdzlGD2Ar0m"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 292466,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165910,
+      "name": "Ayye",
+      "url": "https://open.spotify.com/track/78844Rxxkl8STQUVbp4vXi"
+    },
+    {
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243034,
+      "name": "BDE Bonus",
+      "url": "https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI"
+    },
+    {
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159119,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Blue World",
+      "url": "https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5"
+    },
+    {
+      "album": {
+        "name": "Buttons",
+        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228440,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180866,
+      "name": "Clubhouse",
+      "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "Come Back to Earth",
+      "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
+    },
+    {
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161653,
+      "name": "Coming Back (feat. Mac Miller)",
+      "url": "https://open.spotify.com/track/1WsRuvitfegWXQJKRgRZrj"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256426,
+      "name": "Congratulations (feat. Bilal)",
+      "url": "https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305350,
+      "name": "Dang! (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+    },
+    {
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198107,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
+    },
+    {
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164522,
+      "name": "Donald Trump",
+      "url": "https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342040,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298440,
+      "name": "Hand Me Downs",
+      "url": "https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "Hurt Feelings",
+      "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
+    },
+    {
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113217,
+      "name": "Inside Outside",
+      "url": "https://open.spotify.com/track/2EFqMCOdTTkcFYHoJH21Jr"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197929,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/46wojTgyEs6lbgaWB6yIuz"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157540,
+      "name": "Kool Aid & Frozen Pizza",
+      "url": "https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287040,
+      "name": "Ladders",
+      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+    },
+    {
+      "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170861,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI"
+    },
+    {
+      "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162875,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9"
+    },
+    {
+      "album": {
+        "name": "Blue Slide Park",
+        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178902,
+      "name": "Missed Calls",
+      "url": "https://open.spotify.com/track/2ySc7XpO3sdt01UG986MwE"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "My Favorite Part",
+      "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164631,
+      "name": "Nikes on My Feet",
+      "url": "https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj"
+    },
+    {
+      "album": {
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT"
+    },
+    {
+      "album": {
+        "name": "Watching Movies with the Sound Off (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4aia9Kt2F3gjPKfHA0nZXa"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/74IwzlYDUdP3OLVsEpFojX"
+    },
+    {
+      "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96915,
+      "name": "People Under The Stairs",
+      "url": "https://open.spotify.com/track/4eVXCp16ydaQq9yugTAykp"
+    },
+    {
+      "album": {
+        "name": "Programs",
+        "url": "https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190186,
+      "name": "Programs",
+      "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
+    },
+    {
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153881,
+      "name": "Rain (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd"
+    },
+    {
+      "album": {
+        "name": "Circles (Deluxe)",
+        "url": "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287871,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343213,
+      "name": "ROS",
+      "url": "https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201840,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345133,
+      "name": "Self Care",
+      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175782,
+      "name": "Senior Skip Day",
+      "url": "https://open.spotify.com/track/3BbS4oLUDNOLctshheQucc"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271733,
+      "name": "Small Worlds",
+      "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272973,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330506,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
+    },
+    {
+      "album": {
+        "name": "That's Life (feat. Mac Miller & Sia)",
+        "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
+      },
+      "artists": [
+        {
+          "name": "88-Keys",
+          "url": "https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202390,
+      "name": "That's Life (feat. Mac Miller & Sia)",
+      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
+    },
+    {
+      "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188065,
+      "name": "The Mourning After",
+      "url": "https://open.spotify.com/track/0xppJmfnjIQnMbMOez9bwT"
+    },
+    {
+      "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163033,
+      "name": "The Scoop On Heaven",
+      "url": "https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
+    },
+    {
+      "album": {
+        "name": "Watching Movies with the Sound Off (10th Anniversary)",
+        "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 264217,
+      "name": "The Star Room (OG Version) - Bonus Track",
+      "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj"
+    },
+    {
+      "album": {
+        "name": "Yours Truly (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 213694,
+      "name": "The Way - Live from London (feat. Mac Miller)",
+      "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
+    },
+    {
+      "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185779,
+      "name": "Thoughts from a Balcony",
+      "url": "https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw"
+    },
+    {
+      "album": {
+        "name": "Free Nationals",
+        "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210385,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319272,
+      "name": "We (feat. CeeLo Green)",
+      "url": "https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "Weekend (feat. Miguel)",
+      "url": "https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288640,
+      "name": "What's the Use?",
+      "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286386,
+      "name": "Woods",
+      "url": "https://open.spotify.com/track/3Qa944OTMZkg8DHjET8JQv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NufN6"
 }

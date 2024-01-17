@@ -1,435 +1,489 @@
 {
-  "2022-10-24": 2430,
-  "2022-10-25": 4195,
-  "2022-10-26": 5245,
-  "2022-10-27": 5921,
-  "2022-10-28": 6730,
-  "2022-10-29": 7368,
-  "2022-10-30": 8045,
-  "2022-10-31": 8415,
-  "2022-11-01": 8686,
-  "2022-11-02": 8962,
-  "2022-11-03": 9230,
-  "2022-11-04": 9594,
-  "2022-11-05": 9970,
-  "2022-11-06": 10389,
-  "2022-11-07": 10667,
-  "2022-11-08": 10911,
-  "2022-11-09": 11111,
-  "2022-11-10": 11319,
-  "2022-11-11": 11538,
-  "2022-11-12": 11770,
-  "2022-11-13": 11977,
-  "2022-11-14": 12191,
-  "2022-11-15": 12357,
-  "2022-11-16": 12539,
-  "2022-11-17": 12748,
-  "2022-11-18": 12810,
-  "2022-11-19": 12899,
-  "2022-11-20": 13086,
-  "2022-11-21": 13290,
-  "2022-11-22": 13462,
-  "2022-11-23": 13632,
-  "2022-11-24": 13934,
-  "2022-11-25": 14192,
-  "2022-11-26": 14395,
-  "2022-11-27": 14590,
-  "2022-11-28": 14751,
-  "2022-11-29": 14905,
-  "2022-11-30": 15094,
-  "2022-12-01": 15279,
-  "2022-12-02": 15407,
-  "2022-12-03": 15689,
-  "2022-12-04": 15947,
-  "2022-12-05": 16150,
-  "2022-12-06": 16336,
-  "2022-12-07": 16528,
-  "2022-12-08": 16732,
-  "2022-12-09": 16969,
-  "2022-12-10": 17156,
-  "2022-12-11": 17401,
-  "2022-12-12": 17597,
-  "2022-12-13": 17817,
-  "2022-12-14": 18026,
-  "2022-12-15": 18289,
-  "2022-12-16": 18542,
-  "2022-12-17": 18808,
-  "2022-12-18": 19074,
-  "2022-12-19": 19336,
-  "2022-12-20": 19850,
-  "2022-12-21": 19850,
-  "2022-12-22": 20108,
-  "2022-12-24": 20738,
-  "2022-12-25": 21026,
-  "2022-12-26": 21252,
-  "2022-12-27": 21493,
-  "2022-12-28": 21787,
-  "2022-12-29": 22137,
-  "2022-12-30": 22534,
-  "2022-12-31": 23699,
-  "2023-01-01": 24871,
-  "2023-01-02": 25282,
-  "2023-01-03": 25646,
-  "2023-01-04": 25927,
-  "2023-01-05": 26235,
-  "2023-01-06": 26611,
-  "2023-01-07": 27193,
-  "2023-01-08": 27297,
-  "2023-01-09": 27623,
-  "2023-01-10": 27910,
-  "2023-01-11": 28268,
-  "2023-01-12": 28591,
-  "2023-01-13": 28938,
-  "2023-01-14": 29583,
-  "2023-01-15": 29683,
-  "2023-01-16": 30056,
-  "2023-01-17": 30391,
-  "2023-01-18": 30747,
-  "2023-01-19": 31109,
-  "2023-01-20": 31496,
-  "2023-01-21": 31910,
-  "2023-01-22": 32331,
-  "2023-01-23": 32654,
-  "2023-01-24": 32990,
-  "2023-01-25": 33331,
-  "2023-01-26": 33695,
-  "2023-01-27": 34048,
-  "2023-01-28": 34421,
-  "2023-01-29": 34791,
-  "2023-01-30": 35134,
-  "2023-01-31": 35134,
-  "2023-02-01": 35752,
-  "2023-02-02": 36051,
-  "2023-02-03": 36403,
-  "2023-02-04": 36996,
-  "2023-02-05": 37455,
-  "2023-02-06": 37801,
-  "2023-02-07": 38107,
-  "2023-02-08": 38702,
-  "2023-02-09": 38702,
-  "2023-02-10": 39018,
-  "2023-02-11": 39564,
-  "2023-02-12": 40331,
-  "2023-02-13": 40620,
-  "2023-02-14": 40620,
-  "2023-02-15": 40887,
-  "2023-02-16": 41166,
-  "2023-02-17": 41436,
-  "2023-02-18": 42442,
-  "2023-02-19": 42525,
-  "2023-02-20": 42812,
-  "2023-02-21": 43079,
-  "2023-02-22": 43369,
-  "2023-02-23": 43653,
-  "2023-02-24": 43967,
-  "2023-02-25": 44693,
-  "2023-02-26": 44940,
-  "2023-02-27": 45495,
-  "2023-02-28": 45495,
-  "2023-03-01": 45794,
-  "2023-03-02": 46092,
-  "2023-03-03": 46379,
-  "2023-03-04": 46884,
-  "2023-03-05": 47692,
-  "2023-03-06": 47692,
-  "2023-03-07": 47982,
-  "2023-03-08": 48279,
-  "2023-03-09": 48563,
-  "2023-03-10": 48850,
-  "2023-03-11": 49172,
-  "2023-03-12": 49518,
-  "2023-03-13": 49825,
-  "2023-03-14": 50118,
-  "2023-03-15": 50405,
-  "2023-03-16": 50720,
-  "2023-03-17": 50720,
-  "2023-03-18": 51411,
-  "2023-03-19": 51780,
-  "2023-03-20": 52094,
-  "2023-03-21": 52392,
-  "2023-03-22": 52671,
-  "2023-03-23": 52993,
-  "2023-03-24": 52993,
-  "2023-03-25": 53633,
-  "2023-03-26": 53980,
-  "2023-03-27": 54333,
-  "2023-03-28": 54613,
-  "2023-03-29": 54974,
-  "2023-03-30": 55588,
-  "2023-03-31": 55588,
-  "2023-04-01": 55935,
-  "2023-04-02": 56270,
-  "2023-04-03": 56552,
-  "2023-04-04": 56812,
-  "2023-04-05": 57101,
-  "2023-04-06": 57385,
-  "2023-04-07": 57711,
-  "2023-04-09": 58729,
-  "2023-04-10": 58971,
-  "2023-04-11": 59548,
-  "2023-04-12": 59548,
-  "2023-04-13": 59866,
-  "2023-04-14": 60188,
-  "2023-04-15": 60507,
-  "2023-04-16": 60896,
-  "2023-04-17": 61197,
-  "2023-04-18": 61495,
-  "2023-04-19": 61760,
-  "2023-04-20": 62058,
-  "2023-04-21": 62387,
-  "2023-04-22": 62752,
-  "2023-04-23": 63096,
-  "2023-04-24": 63425,
-  "2023-04-25": 63724,
-  "2023-04-26": 64022,
-  "2023-04-27": 64326,
-  "2023-04-28": 64658,
-  "2023-04-29": 64985,
-  "2023-04-30": 65324,
-  "2023-05-01": 65624,
-  "2023-05-02": 65888,
-  "2023-05-03": 66118,
-  "2023-05-04": 66378,
-  "2023-05-05": 66650,
-  "2023-05-06": 66977,
-  "2023-05-07": 67275,
-  "2023-05-08": 67530,
-  "2023-05-09": 67720,
-  "2023-05-10": 67951,
-  "2023-05-11": 68157,
-  "2023-05-12": 68416,
-  "2023-05-13": 68673,
-  "2023-05-14": 68982,
-  "2023-05-15": 69207,
-  "2023-05-16": 69420,
-  "2023-05-17": 69668,
-  "2023-05-18": 69889,
-  "2023-05-19": 70154,
-  "2023-05-20": 70750,
-  "2023-05-21": 70750,
-  "2023-05-22": 70750,
-  "2023-05-23": 71190,
-  "2023-05-24": 71603,
-  "2023-05-25": 71688,
-  "2023-05-26": 71943,
-  "2023-05-27": 72274,
-  "2023-05-28": 72595,
-  "2023-05-29": 72595,
-  "2023-05-30": 73093,
-  "2023-05-31": 73343,
-  "2023-06-01": 73585,
-  "2023-06-02": 73832,
-  "2023-06-03": 74129,
-  "2023-06-04": 74438,
-  "2023-06-05": 74720,
-  "2023-06-06": 74975,
-  "2023-06-07": 75254,
-  "2023-06-08": 75545,
-  "2023-06-09": 75825,
-  "2023-06-10": 76151,
-  "2023-06-11": 76495,
-  "2023-06-12": 76790,
-  "2023-06-13": 77024,
-  "2023-06-14": 77301,
-  "2023-06-15": 77571,
-  "2023-06-16": 77851,
-  "2023-06-17": 78160,
-  "2023-06-18": 78496,
-  "2023-06-19": 78783,
-  "2023-06-20": 79003,
-  "2023-06-21": 79274,
-  "2023-06-22": 79531,
-  "2023-06-23": 79813,
-  "2023-06-24": 80094,
-  "2023-06-25": 80376,
-  "2023-06-26": 80653,
-  "2023-06-27": 80886,
-  "2023-06-28": 81130,
-  "2023-06-29": 81351,
-  "2023-06-30": 81623,
-  "2023-07-01": 82142,
-  "2023-07-02": 82142,
-  "2023-07-03": 82378,
-  "2023-07-04": 82604,
-  "2023-07-05": 82884,
-  "2023-07-06": 83405,
-  "2023-07-07": 83405,
-  "2023-07-08": 83684,
-  "2023-07-09": 83995,
-  "2023-07-10": 84283,
-  "2023-07-11": 84507,
-  "2023-07-12": 84781,
-  "2023-07-13": 85033,
-  "2023-07-14": 85288,
-  "2023-07-15": 85533,
-  "2023-07-16": 85890,
-  "2023-07-17": 86128,
-  "2023-07-18": 86359,
-  "2023-07-19": 86607,
-  "2023-07-20": 86851,
-  "2023-07-21": 87129,
-  "2023-07-22": 87391,
-  "2023-07-23": 87699,
-  "2023-07-24": 87963,
-  "2023-07-25": 88197,
-  "2023-07-26": 88442,
-  "2023-07-27": 88712,
-  "2023-07-28": 89030,
-  "2023-07-29": 89337,
-  "2023-07-30": 89630,
-  "2023-07-31": 89874,
-  "2023-08-01": 90127,
-  "2023-08-02": 90392,
-  "2023-08-03": 90634,
-  "2023-08-04": 90928,
-  "2023-08-05": 91253,
-  "2023-08-06": 91856,
-  "2023-08-07": 91856,
-  "2023-08-08": 92106,
-  "2023-08-09": 92348,
-  "2023-08-10": 92597,
-  "2023-08-11": 92859,
-  "2023-08-12": 93114,
-  "2023-08-13": 93379,
-  "2023-08-14": 93626,
-  "2023-08-15": 94072,
-  "2023-08-16": 94072,
-  "2023-08-17": 94336,
-  "2023-08-18": 94611,
-  "2023-08-19": 94896,
-  "2023-08-20": 95177,
-  "2023-08-21": 95439,
-  "2023-08-22": 95682,
-  "2023-08-23": 95942,
-  "2023-08-24": 96177,
-  "2023-08-25": 96423,
-  "2023-08-26": 96700,
-  "2023-08-27": 96954,
-  "2023-08-28": 97181,
-  "2023-08-29": 97423,
-  "2023-08-30": 97616,
-  "2023-08-31": 97880,
-  "2023-09-01": 98393,
-  "2023-09-02": 98393,
-  "2023-09-03": 98707,
-  "2023-09-04": 98968,
-  "2023-09-05": 99168,
-  "2023-09-06": 99410,
-  "2023-09-07": 99662,
-  "2023-09-08": 99962,
-  "2023-09-09": 100240,
-  "2023-09-10": 100516,
-  "2023-09-11": 100785,
-  "2023-09-12": 101004,
-  "2023-09-13": 101237,
-  "2023-09-14": 101485,
-  "2023-09-15": 101745,
-  "2023-09-16": 102020,
-  "2023-09-17": 102268,
-  "2023-09-18": 102492,
-  "2023-09-19": 102713,
-  "2023-09-20": 102942,
-  "2023-09-21": 103220,
-  "2023-09-22": 103513,
-  "2023-09-23": 103781,
-  "2023-09-24": 104086,
-  "2023-09-25": 104310,
-  "2023-09-26": 104610,
-  "2023-09-27": 104778,
-  "2023-09-28": 104944,
-  "2023-09-29": 105148,
-  "2023-09-30": 105327,
-  "2023-10-01": 105539,
-  "2023-10-02": 105710,
-  "2023-10-03": 105840,
-  "2023-10-04": 106017,
-  "2023-10-05": 106184,
-  "2023-10-06": 106329,
-  "2023-10-07": 106511,
-  "2023-10-08": 106684,
-  "2023-10-09": 106841,
-  "2023-10-10": 106993,
-  "2023-10-11": 107241,
-  "2023-10-12": 107241,
-  "2023-10-13": 107394,
-  "2023-10-14": 107394,
-  "2023-10-15": 107394,
-  "2023-10-16": 107891,
-  "2023-10-17": 107891,
-  "2023-10-18": 108151,
-  "2023-10-19": 108276,
-  "2023-10-20": 108435,
-  "2023-10-21": 108579,
-  "2023-10-22": 108579,
-  "2023-10-23": 108864,
-  "2023-10-24": 109007,
-  "2023-10-25": 109180,
-  "2023-10-26": 109327,
-  "2023-10-27": 109488,
-  "2023-10-28": 109488,
-  "2023-10-29": 109488,
-  "2023-10-30": 109943,
-  "2023-10-31": 109943,
-  "2023-11-01": 110218,
-  "2023-11-02": 110367,
-  "2023-11-03": 110530,
-  "2023-11-04": 110530,
-  "2023-11-05": 110530,
-  "2023-11-06": 111003,
-  "2023-11-07": 111003,
-  "2023-11-08": 111003,
-  "2023-11-09": 111003,
-  "2023-11-10": 111003,
-  "2023-11-11": 111003,
-  "2023-11-12": 111003,
-  "2023-11-13": 111003,
-  "2023-11-14": 111003,
-  "2023-11-15": 111003,
-  "2023-11-16": 111003,
-  "2023-11-17": 111003,
-  "2023-11-18": 111003,
-  "2023-11-19": 111003,
-  "2023-11-20": 111003,
-  "2023-11-21": 111003,
-  "2023-11-22": 111003,
-  "2023-11-23": 111003,
-  "2023-11-24": 111003,
-  "2023-11-25": 111003,
-  "2023-11-26": 111003,
-  "2023-11-27": 111003,
-  "2023-11-28": 111003,
-  "2023-11-29": 111003,
-  "2023-11-30": 111003,
-  "2023-12-01": 111003,
-  "2023-12-02": 111003,
-  "2023-12-03": 111003,
-  "2023-12-04": 111003,
-  "2023-12-05": 111003,
-  "2023-12-06": 111003,
-  "2023-12-07": 111003,
-  "2023-12-08": 111003,
-  "2023-12-09": 111003,
-  "2023-12-10": 111003,
-  "2023-12-11": 111003,
-  "2023-12-12": 111003,
-  "2023-12-13": 111003,
-  "2023-12-14": 111003,
-  "2023-12-15": 111003,
-  "2023-12-16": 111003,
-  "2023-12-17": 111003,
-  "2023-12-18": 111003,
-  "2023-12-19": 111003,
-  "2023-12-20": 111003,
-  "2023-12-21": 111003,
-  "2023-12-22": 111003,
-  "2023-12-23": 111003,
-  "2023-12-24": 111003,
-  "2023-12-25": 111003,
-  "2023-12-26": 111003,
-  "2023-12-27": 111003,
-  "2023-12-30": 111003,
-  "2023-12-31": 111003,
-  "2024-01-01": 111003,
-  "2024-01-02": 111003,
-  "2024-01-03": 111003
+  "2024-01-17": 111003,
+  "date_first_scraped": "2022-10-24",
+  "description": "International hitmaker, producer & DJ <a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a> shares his exclusive Spotify mix, featuring banger after banger.",
+  "name": "Ti\u00ebsto's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "1, 2 Step (Supersonic) [Mixed]",
+        "url": "https://open.spotify.com/album/0r7eH6QkuxemwjbfoOMGGf"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "1, 2 Step (Supersonic) - Mixed",
+      "url": "https://open.spotify.com/track/09gw5jxg7V7koCsneIGsSA"
+    },
+    {
+      "album": {
+        "name": "1, 2 Step (Supersonic) [Mixed]",
+        "url": "https://open.spotify.com/album/0kjGYHOMjDsYtfIiDtXmVA"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 154000,
+      "name": "1, 2 Step (Supersonic) - Mixed",
+      "url": "https://open.spotify.com/track/1AstBFivyakpfivzFC0ViG"
+    },
+    {
+      "album": {
+        "name": "Back Once More (Mixed)",
+        "url": "https://open.spotify.com/album/3AssGUn2sGlc6OGpSx66jO"
+      },
+      "artists": [
+        {
+          "name": "PAJANE",
+          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Back Once More - Mixed",
+      "url": "https://open.spotify.com/track/4wywjz2l4A1WI3Mf50lQIP"
+    },
+    {
+      "album": {
+        "name": "Baila Conmigo (Mixed)",
+        "url": "https://open.spotify.com/album/40tVWZgkMJW2qqjqTbokKZ"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Baila Conmigo - Mixed",
+      "url": "https://open.spotify.com/track/7cOoteCN7DpRSbH8kNGIS7"
+    },
+    {
+      "album": {
+        "name": "Belly Dancer (Mixed)",
+        "url": "https://open.spotify.com/album/3YXvypMu72Y87krDoJcu5D"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Belly Dancer - Mixed",
+      "url": "https://open.spotify.com/track/3lVZVPsbr7OA9ed6aKAO0r"
+    },
+    {
+      "album": {
+        "name": "Can U Dance (To My Beat) [Mixed]",
+        "url": "https://open.spotify.com/album/74GzUSP8ll2E5UQOOLJSk4"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Can U Dance (To My Beat) - Mixed",
+      "url": "https://open.spotify.com/track/1GcLWPGs2g0XfSmnnkeuiz"
+    },
+    {
+      "album": {
+        "name": "Chromatic (Mixed)",
+        "url": "https://open.spotify.com/album/6lVhEsy76EU3zYDyUh51eQ"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Chromatic - Mixed",
+      "url": "https://open.spotify.com/track/3M7tlESHk6GvQvx50y3T2O"
+    },
+    {
+      "album": {
+        "name": "Hot In It (Mixed)",
+        "url": "https://open.spotify.com/album/4EWykLQFMzXkfxvpdJ2FHW"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Hot In It - Mixed",
+      "url": "https://open.spotify.com/track/0HvlkQcPTvr8hSn0Tspyq1"
+    },
+    {
+      "album": {
+        "name": "I'm Good (Blue) - Ti\u00ebsto Remix Extended [Mixed]",
+        "url": "https://open.spotify.com/album/2JjnboO2qgijzSJbuTlWqX"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "I'm Good (Blue) - Ti\u00ebsto Remix Extended - Mixed",
+      "url": "https://open.spotify.com/track/2t5dDyJLq8Juln34zyzK0u"
+    },
+    {
+      "album": {
+        "name": "Let Me Take You - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/5HcjlsVT49DXMVRVgA2Aoj"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Let Me Take You - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/7jKCvvxBpGT8ipdBUTanMp"
+    },
+    {
+      "album": {
+        "name": "Melody - Ti\u00ebsto Remix (Mixed)",
+        "url": "https://open.spotify.com/album/2QNMojSSgB4mpN3Rq4ipAK"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Melody - Ti\u00ebsto Remix - Mixed",
+      "url": "https://open.spotify.com/track/39Bgr2yMe4MV8JIXUVe3vY"
+    },
+    {
+      "album": {
+        "name": "Move Your Body - Ti\u00ebsto Edit (Mixed)",
+        "url": "https://open.spotify.com/album/511ChmMpOYscOvFgpqE7Xc"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Move Your Body - Ti\u00ebsto Edit - Mixed",
+      "url": "https://open.spotify.com/track/1CGdirFaBflMJGqC2FXMqO"
+    },
+    {
+      "album": {
+        "name": "NO MIENTEN - Ti\u00ebsto Remix (Mixed)",
+        "url": "https://open.spotify.com/album/5tcykKJYLeIWzDbjSKyrHA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "NO MIENTEN - Ti\u00ebsto Remix - Mixed",
+      "url": "https://open.spotify.com/track/2gp3ZM6h0GemBI40D5iHeF"
+    },
+    {
+      "album": {
+        "name": "Once Again (Mixed)",
+        "url": "https://open.spotify.com/album/29D18cOi4YWwUIVjUFrLI4"
+      },
+      "artists": [
+        {
+          "name": "Jake Tarry",
+          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Once Again - Mixed",
+      "url": "https://open.spotify.com/track/2HWYLtVHUdl8iMDUJ3ylpU"
+    },
+    {
+      "album": {
+        "name": "Pump It Louder (Mixed)",
+        "url": "https://open.spotify.com/album/6VFpFPNPThdUbZSyQFCj8a"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Pump It Louder - Mixed",
+      "url": "https://open.spotify.com/track/2h8Is9sycXptoAS3ytzJPp"
+    },
+    {
+      "album": {
+        "name": "Savage (Mixed)",
+        "url": "https://open.spotify.com/album/2WypBJp2P5x9XogHwzLz7y"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Savage - Mixed",
+      "url": "https://open.spotify.com/track/2n56D9thfe2XQqe8NjalWE"
+    },
+    {
+      "album": {
+        "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix [Mixed]",
+        "url": "https://open.spotify.com/album/6dO1M7b2p2dzx8JfAuKwN0"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix - Mixed",
+      "url": "https://open.spotify.com/track/0a32J86J0a1bDAnS1UJC06"
+    },
+    {
+      "album": {
+        "name": "The Business (Mixed)",
+        "url": "https://open.spotify.com/album/3m6IobR1PVxHjrAMSiLBN3"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "The Business - Mixed",
+      "url": "https://open.spotify.com/track/5hXnGiiq4VwNcBRw7cWccP"
+    },
+    {
+      "album": {
+        "name": "The Motto - Ti\u00ebsto\u2019s VIP Mix (Mixed)",
+        "url": "https://open.spotify.com/album/6GbUkXBAMQ3XNUsVxpLS1W"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "The Motto - Ti\u00ebsto\u2019s VIP Mix - Mixed",
+      "url": "https://open.spotify.com/track/4j5cFdnUP2iC9c46O4CnoZ"
+    },
+    {
+      "album": {
+        "name": "This Feeling (Mixed)",
+        "url": "https://open.spotify.com/album/4zgTfY9tFgoENd13wFaHxe"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "This Feeling - Mixed",
+      "url": "https://open.spotify.com/track/2rknV08e5FBX4iyvjUGhXW"
+    },
+    {
+      "album": {
+        "name": "This Feeling (Mixed)",
+        "url": "https://open.spotify.com/album/2ERNyhR6CuKzqbScHK2MEs"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 207000,
+      "name": "This Feeling - Mixed",
+      "url": "https://open.spotify.com/track/6IB1Rk80kekawq0USeg4Lc"
+    },
+    {
+      "album": {
+        "name": "Time (Mixed)",
+        "url": "https://open.spotify.com/album/7mPPBwkShz8DGUO0BI739q"
+      },
+      "artists": [
+        {
+          "name": "Dark Heart",
+          "url": "https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy"
+        },
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Time - Mixed",
+      "url": "https://open.spotify.com/track/0aSi6uQjGbr4BNxnfylwQW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXafKxB0kzl3A"
 }

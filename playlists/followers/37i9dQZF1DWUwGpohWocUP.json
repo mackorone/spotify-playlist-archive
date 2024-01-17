@@ -1,276 +1,573 @@
 {
-  "2023-04-02": 3855,
-  "2023-04-03": 5479,
-  "2023-04-04": 7186,
-  "2023-04-05": 8369,
-  "2023-04-06": 8843,
-  "2023-04-07": 9478,
-  "2023-04-09": 10974,
-  "2023-04-10": 11334,
-  "2023-04-11": 11920,
-  "2023-04-12": 11920,
-  "2023-04-13": 12206,
-  "2023-04-14": 12481,
-  "2023-04-15": 12794,
-  "2023-04-16": 13138,
-  "2023-04-17": 13418,
-  "2023-04-18": 13661,
-  "2023-04-19": 13953,
-  "2023-04-20": 14229,
-  "2023-04-21": 14521,
-  "2023-04-22": 14816,
-  "2023-04-23": 15092,
-  "2023-04-24": 15385,
-  "2023-04-25": 15669,
-  "2023-04-26": 15928,
-  "2023-04-27": 16208,
-  "2023-04-28": 16494,
-  "2023-04-29": 16791,
-  "2023-04-30": 17109,
-  "2023-05-01": 17396,
-  "2023-05-02": 17649,
-  "2023-05-03": 17889,
-  "2023-05-04": 18158,
-  "2023-05-05": 18425,
-  "2023-05-06": 18684,
-  "2023-05-07": 18984,
-  "2023-05-08": 19255,
-  "2023-05-09": 19515,
-  "2023-05-10": 19761,
-  "2023-05-11": 20031,
-  "2023-05-12": 20341,
-  "2023-05-13": 20607,
-  "2023-05-14": 20919,
-  "2023-05-15": 21213,
-  "2023-05-16": 21498,
-  "2023-05-17": 21805,
-  "2023-05-18": 22085,
-  "2023-05-19": 22417,
-  "2023-05-20": 23045,
-  "2023-05-21": 23045,
-  "2023-05-22": 23045,
-  "2023-05-23": 23593,
-  "2023-05-24": 24071,
-  "2023-05-25": 24138,
-  "2023-05-26": 24412,
-  "2023-05-27": 24744,
-  "2023-05-28": 25099,
-  "2023-05-29": 25099,
-  "2023-05-30": 25673,
-  "2023-05-31": 25976,
-  "2023-06-01": 26256,
-  "2023-06-02": 26558,
-  "2023-06-03": 26880,
-  "2023-06-04": 27207,
-  "2023-06-05": 27523,
-  "2023-06-06": 27793,
-  "2023-06-07": 28095,
-  "2023-06-08": 28393,
-  "2023-06-09": 28663,
-  "2023-06-10": 28960,
-  "2023-06-11": 29279,
-  "2023-06-12": 29616,
-  "2023-06-13": 29905,
-  "2023-06-14": 30229,
-  "2023-06-15": 30530,
-  "2023-06-16": 30858,
-  "2023-06-17": 31155,
-  "2023-06-18": 31519,
-  "2023-06-19": 31814,
-  "2023-06-20": 32090,
-  "2023-06-21": 32357,
-  "2023-06-22": 32629,
-  "2023-06-23": 32864,
-  "2023-06-24": 33144,
-  "2023-06-25": 33432,
-  "2023-06-26": 33651,
-  "2023-06-27": 33868,
-  "2023-06-28": 34112,
-  "2023-06-29": 34324,
-  "2023-06-30": 34540,
-  "2023-07-01": 35009,
-  "2023-07-02": 35009,
-  "2023-07-03": 35192,
-  "2023-07-04": 35393,
-  "2023-07-05": 35625,
-  "2023-07-06": 36069,
-  "2023-07-07": 36069,
-  "2023-07-08": 36317,
-  "2023-07-09": 36536,
-  "2023-07-10": 36770,
-  "2023-07-11": 36982,
-  "2023-07-12": 37187,
-  "2023-07-13": 37411,
-  "2023-07-14": 37628,
-  "2023-07-15": 37785,
-  "2023-07-16": 38040,
-  "2023-07-17": 38264,
-  "2023-07-18": 38471,
-  "2023-07-19": 38712,
-  "2023-07-20": 38934,
-  "2023-07-21": 39113,
-  "2023-07-22": 39333,
-  "2023-07-23": 39567,
-  "2023-07-24": 39789,
-  "2023-07-25": 39972,
-  "2023-07-26": 40183,
-  "2023-07-27": 40424,
-  "2023-07-28": 40644,
-  "2023-07-29": 40873,
-  "2023-07-30": 41118,
-  "2023-07-31": 41319,
-  "2023-08-01": 41531,
-  "2023-08-02": 41751,
-  "2023-08-03": 41982,
-  "2023-08-04": 42169,
-  "2023-08-05": 42447,
-  "2023-08-06": 42904,
-  "2023-08-07": 42904,
-  "2023-08-08": 43106,
-  "2023-08-09": 43294,
-  "2023-08-10": 43491,
-  "2023-08-11": 43683,
-  "2023-08-12": 43900,
-  "2023-08-13": 44109,
-  "2023-08-14": 44321,
-  "2023-08-15": 44729,
-  "2023-08-16": 44729,
-  "2023-08-17": 44914,
-  "2023-08-18": 45125,
-  "2023-08-19": 45383,
-  "2023-08-20": 45602,
-  "2023-08-21": 45806,
-  "2023-08-22": 46017,
-  "2023-08-23": 46234,
-  "2023-08-24": 46457,
-  "2023-08-25": 46638,
-  "2023-08-26": 46837,
-  "2023-08-27": 47057,
-  "2023-08-28": 47269,
-  "2023-08-29": 47476,
-  "2023-08-30": 47706,
-  "2023-08-31": 47912,
-  "2023-09-01": 48330,
-  "2023-09-02": 48330,
-  "2023-09-03": 48552,
-  "2023-09-04": 48772,
-  "2023-09-05": 48916,
-  "2023-09-06": 49092,
-  "2023-09-07": 49291,
-  "2023-09-08": 49502,
-  "2023-09-09": 49705,
-  "2023-09-10": 49935,
-  "2023-09-11": 50121,
-  "2023-09-12": 50268,
-  "2023-09-13": 50442,
-  "2023-09-14": 50625,
-  "2023-09-15": 50821,
-  "2023-09-16": 51003,
-  "2023-09-17": 51168,
-  "2023-09-18": 51366,
-  "2023-09-19": 51547,
-  "2023-09-20": 51729,
-  "2023-09-21": 51903,
-  "2023-09-22": 52135,
-  "2023-09-23": 52319,
-  "2023-09-24": 52535,
-  "2023-09-25": 52745,
-  "2023-09-26": 52984,
-  "2023-09-27": 53112,
-  "2023-09-28": 53238,
-  "2023-09-29": 53361,
-  "2023-09-30": 53498,
-  "2023-10-01": 53629,
-  "2023-10-02": 53772,
-  "2023-10-03": 53908,
-  "2023-10-04": 53999,
-  "2023-10-05": 54159,
-  "2023-10-06": 54271,
-  "2023-10-07": 54423,
-  "2023-10-08": 54561,
-  "2023-10-09": 54691,
-  "2023-10-10": 54818,
-  "2023-10-11": 55053,
-  "2023-10-12": 55053,
-  "2023-10-13": 55172,
-  "2023-10-14": 55309,
-  "2023-10-15": 55455,
-  "2023-10-16": 55576,
-  "2023-10-17": 55670,
-  "2023-10-18": 55788,
-  "2023-10-19": 55877,
-  "2023-10-20": 55977,
-  "2023-10-21": 56076,
-  "2023-10-22": 56227,
-  "2023-10-23": 56337,
-  "2023-10-24": 56422,
-  "2023-10-25": 56518,
-  "2023-10-26": 56623,
-  "2023-10-27": 56722,
-  "2023-10-28": 56854,
-  "2023-10-29": 56987,
-  "2023-10-30": 57172,
-  "2023-10-31": 57172,
-  "2023-11-01": 57253,
-  "2023-11-02": 57356,
-  "2023-11-03": 57450,
-  "2023-11-04": 57544,
-  "2023-11-05": 57677,
-  "2023-11-06": 57775,
-  "2023-11-07": 57775,
-  "2023-11-08": 57775,
-  "2023-11-09": 57775,
-  "2023-11-10": 57775,
-  "2023-11-11": 57775,
-  "2023-11-12": 57775,
-  "2023-11-13": 57775,
-  "2023-11-14": 57775,
-  "2023-11-15": 57775,
-  "2023-11-16": 57775,
-  "2023-11-17": 57775,
-  "2023-11-18": 57775,
-  "2023-11-19": 57775,
-  "2023-11-20": 57775,
-  "2023-11-21": 57775,
-  "2023-11-22": 57775,
-  "2023-11-23": 57775,
-  "2023-11-24": 57775,
-  "2023-11-25": 57775,
-  "2023-11-26": 57775,
-  "2023-11-27": 57775,
-  "2023-11-28": 57775,
-  "2023-11-29": 57775,
-  "2023-11-30": 57775,
-  "2023-12-01": 57775,
-  "2023-12-02": 57775,
-  "2023-12-03": 57775,
-  "2023-12-04": 57775,
-  "2023-12-05": 57775,
-  "2023-12-06": 57775,
-  "2023-12-07": 57775,
-  "2023-12-08": 57775,
-  "2023-12-09": 57775,
-  "2023-12-10": 57775,
-  "2023-12-11": 57775,
-  "2023-12-12": 57775,
-  "2023-12-13": 57775,
-  "2023-12-14": 57775,
-  "2023-12-15": 57775,
-  "2023-12-16": 57775,
-  "2023-12-17": 57775,
-  "2023-12-18": 57775,
-  "2023-12-19": 57775,
-  "2023-12-20": 57775,
-  "2023-12-21": 57775,
-  "2023-12-22": 57775,
-  "2023-12-23": 57775,
-  "2023-12-24": 57775,
-  "2023-12-25": 57775,
-  "2023-12-26": 57775,
-  "2023-12-27": 57775,
-  "2023-12-30": 57775,
-  "2023-12-31": 57775,
-  "2024-01-01": 57775,
-  "2024-01-02": 57775,
-  "2024-01-03": 57775
+  "2024-01-17": 57775,
+  "date_first_scraped": "2023-04-02",
+  "description": "The hitmaker <a href=\"spotify:artist:7vk5e3vY1uw9plTHJAMwjN\">Alan Walker</a> delights us with this summer-like mix, which includes tracks from his latest album \"Walkerverse\"",
+  "name": "Alan Walker's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "All Falls Down (feat. Juliander) - Mark Villa Remix [Mixed]",
+        "url": "https://open.spotify.com/album/5SfxTvd3qFXzwSBNk7Zvq0"
+      },
+      "artists": [
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Juliander",
+          "url": "https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay"
+        },
+        {
+          "name": "Mark Villa",
+          "url": "https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "All Falls Down (feat. Juliander) - Mark Villa Remix - Mixed",
+      "url": "https://open.spotify.com/track/3mEbIqwPEuxD6zxrRNXlyl"
+    },
+    {
+      "album": {
+        "name": "All Nighter (Mixed)",
+        "url": "https://open.spotify.com/album/4uOrHHlnLhzNqrHOsMUnTb"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "All Nighter - Mixed",
+      "url": "https://open.spotify.com/track/5MY2aCSYFPARxe1DWptKv7"
+    },
+    {
+      "album": {
+        "name": "Alone, Pt. II - RetroVision Remix (Mixed)",
+        "url": "https://open.spotify.com/album/67Yy68oiGDbWjIcb0hszO2"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Alone, Pt. II - RetroVision Remix - Mixed",
+      "url": "https://open.spotify.com/track/3qqNfZOQpKVNxeNynSKpm0"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes (Mixed)",
+        "url": "https://open.spotify.com/album/5LS3reoXkcjyLEYjw27cXg"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Close Your Eyes - Mixed",
+      "url": "https://open.spotify.com/track/496EdiJpGa8fPKs9wkjCwT"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes - VIP Mix (Mixed)",
+        "url": "https://open.spotify.com/album/3gPQu88Gsfm9TIXXiFxiAL"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "Close Your Eyes - VIP Mix - Mixed",
+      "url": "https://open.spotify.com/track/1XlDRmeoA9I5p5gzzwhq7q"
+    },
+    {
+      "album": {
+        "name": "Colors of Mine (Mixed)",
+        "url": "https://open.spotify.com/album/6Rs3AKJledsdoX8P2mUFpP"
+      },
+      "artists": [
+        {
+          "name": "MONA",
+          "url": "https://open.spotify.com/artist/5XXTiLqt5XSOyFKFuSHftd"
+        },
+        {
+          "name": "MusicByDavid",
+          "url": "https://open.spotify.com/artist/53shc8lcXDfzwN5MWKqOFU"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76000,
+      "name": "Colors of Mine - Mixed",
+      "url": "https://open.spotify.com/track/1eGU5gfYFgfSZh5YlOjutV"
+    },
+    {
+      "album": {
+        "name": "Darkside (Mixed)",
+        "url": "https://open.spotify.com/album/0EmKIZpPXNj68zaMY5dwkf"
+      },
+      "artists": [
+        {
+          "name": "Tomine Harket",
+          "url": "https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Darkside - Mixed",
+      "url": "https://open.spotify.com/track/3hkyiZfCSZgnd74Qu2ghmb"
+    },
+    {
+      "album": {
+        "name": "Don't You Hold Me Down (Mixed)",
+        "url": "https://open.spotify.com/album/4pmb8gAZRHzZfpP1ChwYRh"
+      },
+      "artists": [
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Don't You Hold Me Down - Mixed",
+      "url": "https://open.spotify.com/track/7uRhrCOD2c9Pa8G6fjiji3"
+    },
+    {
+      "album": {
+        "name": "Faded (Mixed)",
+        "url": "https://open.spotify.com/album/7J0AGMSR3MIsFKI5A2r58b"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Faded - Mixed",
+      "url": "https://open.spotify.com/track/0KdLoxMEnTvSXpPPkuNIoh"
+    },
+    {
+      "album": {
+        "name": "Headlights (feat. KIDDO) [Mixed]",
+        "url": "https://open.spotify.com/album/27bsxFs3f52yZ7nNoJ6C5K"
+      },
+      "artists": [
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Headlights (feat. KIDDO) - Mixed",
+      "url": "https://open.spotify.com/track/2iMSYmb5TdjvNSjCbkcNPR"
+    },
+    {
+      "album": {
+        "name": "Lonely (feat. IS\u00c1K & Omar Noir) [Mixed]",
+        "url": "https://open.spotify.com/album/26U2Os0wkgcGR4REch0ons"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Omar Noir",
+          "url": "https://open.spotify.com/artist/5paQT78PtTz59108hibz4G"
+        },
+        {
+          "name": "IS\u00c1K",
+          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Lonely (feat. IS\u00c1K & Omar Noir) - Mixed",
+      "url": "https://open.spotify.com/track/04bCsGryPrShcVhznyBwzK"
+    },
+    {
+      "album": {
+        "name": "Lost (Mixed)",
+        "url": "https://open.spotify.com/album/00aA707WWzpmMhNkaLRpbJ"
+      },
+      "artists": [
+        {
+          "name": "VIANI",
+          "url": "https://open.spotify.com/artist/3qGToEQXzaFZGBZoCHqQN2"
+        },
+        {
+          "name": "Andrew A",
+          "url": "https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Lost - Mixed",
+      "url": "https://open.spotify.com/track/2WyAbcF2rBplSQF1hyWnSO"
+    },
+    {
+      "album": {
+        "name": "Love Language (Mixed)",
+        "url": "https://open.spotify.com/album/0LHhStZCpxhgIs6XSoqJLt"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "Bancali",
+          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77000,
+      "name": "Love Language - Mixed",
+      "url": "https://open.spotify.com/track/43M04CMOgoT6fUuxW2cwDm"
+    },
+    {
+      "album": {
+        "name": "Lovesick (Mixed)",
+        "url": "https://open.spotify.com/album/3eDH4NWEEAKFH2x6SJ7Ibw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Simmons",
+          "url": "https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Lovesick - Mixed",
+      "url": "https://open.spotify.com/track/7b464so6HV1IVqvfA3eBhn"
+    },
+    {
+      "album": {
+        "name": "On My Way (Mixed)",
+        "url": "https://open.spotify.com/album/15MGmJ9eF2vmtbLER77cUi"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "On My Way - Mixed",
+      "url": "https://open.spotify.com/track/4nIkBpb9CFTTue8W08dR6X"
+    },
+    {
+      "album": {
+        "name": "Running Out Of Roses (Mixed)",
+        "url": "https://open.spotify.com/album/3Gk23mGaOqQkgVZlI3c2ok"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Running Out Of Roses - Mixed",
+      "url": "https://open.spotify.com/track/15hhxb2mLyMkN3awQR50Rf"
+    },
+    {
+      "album": {
+        "name": "Somebody Like U (Mixed)",
+        "url": "https://open.spotify.com/album/48GEZmgvF07wcbldDduHN7"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Somebody Like U - Mixed",
+      "url": "https://open.spotify.com/track/06L5uwnHZuzwSetOg51Maa"
+    },
+    {
+      "album": {
+        "name": "Sorry (Mixed)",
+        "url": "https://open.spotify.com/album/08QRGxX2wIOODdIeCi1BTi"
+      },
+      "artists": [
+        {
+          "name": "IS\u00c1K",
+          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Sorry - Mixed",
+      "url": "https://open.spotify.com/track/0HPUEUrMJf42dx9kVkmc3m"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (Mixed)",
+        "url": "https://open.spotify.com/album/0ZtPAQhLE5QGfYwFgAe4o3"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Sweet Dreams - Mixed",
+      "url": "https://open.spotify.com/track/3FhfNVEpuB1wUDqYfOiVYv"
+    },
+    {
+      "album": {
+        "name": "Take My Breath Away (Mixed)",
+        "url": "https://open.spotify.com/album/0D71T7UxBMyVhq7UiM64Vx"
+      },
+      "artists": [
+        {
+          "name": "Mo Falk",
+          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Take My Breath Away - Mixed",
+      "url": "https://open.spotify.com/track/656fCHpS14b0ve5BgbStmy"
+    },
+    {
+      "album": {
+        "name": "The Drop - \u00d6wnboss Remix (Mixed)",
+        "url": "https://open.spotify.com/album/6ixDBLCK5k3VKRO0834Jxr"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50000,
+      "name": "The Drop - \u00d6wnboss Remix - Mixed",
+      "url": "https://open.spotify.com/track/7qBpdpPL5puYu2NhRhXGOD"
+    },
+    {
+      "album": {
+        "name": "The Drum (Mixed)",
+        "url": "https://open.spotify.com/album/0kuL6PBFMXg3w86DECdMwg"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "The Drum - Mixed",
+      "url": "https://open.spotify.com/track/1koNqnVNB0fbTMNz1xjgbf"
+    },
+    {
+      "album": {
+        "name": "The Spectre (Mixed)",
+        "url": "https://open.spotify.com/album/7JzHohSYiih6P5QAUXnHlG"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "The Spectre - Mixed",
+      "url": "https://open.spotify.com/track/1jcJiqEGoMPSwCcKKkQQg4"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (feat. John Martin) - Alan Walker Remix [Mixed]",
+        "url": "https://open.spotify.com/album/57JjNrurzEaLsgjVp2UhLL"
+      },
+      "artists": [
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Wherever You Go (feat. John Martin) - Alan Walker Remix - Mixed",
+      "url": "https://open.spotify.com/track/4gYK2RVq5uJYWFM5ZfmcdL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUwGpohWocUP"
 }

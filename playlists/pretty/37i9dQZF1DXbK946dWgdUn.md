@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK946dWgdUn.md) - [plain]
 
 > Groove to your favorite tracks from CoComelon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,277 likes - 89 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,476 likes - 89 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

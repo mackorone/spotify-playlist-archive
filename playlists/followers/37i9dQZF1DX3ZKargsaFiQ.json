@@ -1,674 +1,715 @@
 {
-  "2022-02-24": 34551,
-  "2022-02-25": 34561,
-  "2022-02-26": 34564,
-  "2022-02-27": 34579,
-  "2022-02-28": 34579,
-  "2022-03-01": 34583,
-  "2022-03-02": 34591,
-  "2022-03-03": 34596,
-  "2022-03-04": 34601,
-  "2022-03-05": 34612,
-  "2022-03-06": 34622,
-  "2022-03-07": 34643,
-  "2022-03-08": 34649,
-  "2022-03-09": 34659,
-  "2022-03-10": 34675,
-  "2022-03-11": 34679,
-  "2022-03-12": 34691,
-  "2022-03-13": 34696,
-  "2022-03-14": 34707,
-  "2022-03-15": 34722,
-  "2022-03-16": 34727,
-  "2022-03-17": 34735,
-  "2022-03-18": 34747,
-  "2022-03-19": 34750,
-  "2022-03-20": 34750,
-  "2022-03-21": 34759,
-  "2022-03-22": 34766,
-  "2022-03-23": 34775,
-  "2022-03-24": 34782,
-  "2022-03-25": 34786,
-  "2022-03-26": 34790,
-  "2022-03-27": 34798,
-  "2022-03-28": 34809,
-  "2022-03-30": 34818,
-  "2022-03-31": 34830,
-  "2022-04-01": 34830,
-  "2022-04-02": 34830,
-  "2022-04-03": 34830,
-  "2022-04-04": 34830,
-  "2022-04-05": 34830,
-  "2022-04-06": 34830,
-  "2022-04-07": 34830,
-  "2022-04-08": 34830,
-  "2022-04-09": 34830,
-  "2022-04-10": 34830,
-  "2022-04-11": 34830,
-  "2022-04-12": 34830,
-  "2022-04-13": 34830,
-  "2022-04-14": 34830,
-  "2022-04-15": 34830,
-  "2022-04-16": 34830,
-  "2022-04-17": 34830,
-  "2022-04-18": 34830,
-  "2022-04-19": 34830,
-  "2022-04-20": 34830,
-  "2022-04-21": 34830,
-  "2022-04-22": 34830,
-  "2022-04-23": 34830,
-  "2022-04-24": 34830,
-  "2022-04-25": 34830,
-  "2022-04-26": 34830,
-  "2022-04-27": 34830,
-  "2022-04-28": 34830,
-  "2022-04-29": 34830,
-  "2022-04-30": 34830,
-  "2022-05-01": 34830,
-  "2022-05-02": 34830,
-  "2022-05-03": 34830,
-  "2022-05-04": 34830,
-  "2022-05-05": 34830,
-  "2022-05-06": 34830,
-  "2022-05-07": 34830,
-  "2022-05-08": 34830,
-  "2022-05-09": 34830,
-  "2022-05-10": 34830,
-  "2022-05-11": 34830,
-  "2022-05-12": 34830,
-  "2022-05-13": 34830,
-  "2022-05-14": 34830,
-  "2022-05-15": 34830,
-  "2022-05-16": 34830,
-  "2022-05-17": 34830,
-  "2022-05-18": 34830,
-  "2022-05-19": 34830,
-  "2022-05-20": 34830,
-  "2022-05-21": 34830,
-  "2022-05-22": 34830,
-  "2022-05-23": 34830,
-  "2022-05-24": 34830,
-  "2022-05-25": 34830,
-  "2022-05-26": 34830,
-  "2022-05-27": 34830,
-  "2022-05-28": 34830,
-  "2022-05-29": 34830,
-  "2022-05-30": 34830,
-  "2022-05-31": 34830,
-  "2022-06-01": 34830,
-  "2022-06-02": 34830,
-  "2022-06-03": 34830,
-  "2022-06-04": 34830,
-  "2022-06-05": 34830,
-  "2022-06-06": 34830,
-  "2022-06-07": 34830,
-  "2022-06-08": 34830,
-  "2022-06-09": 34830,
-  "2022-06-10": 34830,
-  "2022-06-11": 34830,
-  "2022-06-12": 34830,
-  "2022-06-13": 34830,
-  "2022-06-14": 34830,
-  "2022-06-15": 34830,
-  "2022-06-16": 34830,
-  "2022-06-17": 34830,
-  "2022-06-18": 34830,
-  "2022-06-19": 34830,
-  "2022-06-20": 34830,
-  "2022-06-21": 34830,
-  "2022-06-22": 34830,
-  "2022-06-23": 34830,
-  "2022-06-24": 34830,
-  "2022-06-25": 34830,
-  "2022-06-26": 34830,
-  "2022-06-27": 34830,
-  "2022-06-28": 34830,
-  "2022-06-29": 34830,
-  "2022-06-30": 34830,
-  "2022-07-01": 34830,
-  "2022-07-02": 34830,
-  "2022-07-03": 34830,
-  "2022-07-04": 34830,
-  "2022-07-05": 34830,
-  "2022-07-06": 34830,
-  "2022-07-07": 34830,
-  "2022-07-08": 34830,
-  "2022-07-09": 34830,
-  "2022-07-10": 34830,
-  "2022-07-11": 34830,
-  "2022-07-12": 34830,
-  "2022-07-13": 34830,
-  "2022-07-14": 34830,
-  "2022-07-15": 34830,
-  "2022-07-16": 34830,
-  "2022-07-17": 34830,
-  "2022-07-18": 34830,
-  "2022-07-19": 34830,
-  "2022-07-20": 34830,
-  "2022-07-21": 34830,
-  "2022-07-22": 34830,
-  "2022-07-23": 34830,
-  "2022-07-24": 34830,
-  "2022-07-25": 34830,
-  "2022-07-26": 34830,
-  "2022-07-27": 34830,
-  "2022-07-28": 34830,
-  "2022-07-29": 34830,
-  "2022-07-30": 34830,
-  "2022-07-31": 34830,
-  "2022-08-01": 34830,
-  "2022-08-02": 34830,
-  "2022-08-03": 34830,
-  "2022-08-04": 34830,
-  "2022-08-05": 34830,
-  "2022-08-06": 34830,
-  "2022-08-07": 34830,
-  "2022-08-08": 34830,
-  "2022-08-09": 34830,
-  "2022-08-10": 34830,
-  "2022-08-11": 34830,
-  "2022-08-12": 34830,
-  "2022-08-13": 34830,
-  "2022-08-14": 34830,
-  "2022-08-15": 34830,
-  "2022-08-16": 34830,
-  "2022-08-17": 34830,
-  "2022-08-18": 34830,
-  "2022-08-19": 34830,
-  "2022-08-20": 34830,
-  "2022-08-21": 34830,
-  "2022-08-22": 34830,
-  "2022-08-23": 34830,
-  "2022-08-24": 34830,
-  "2022-08-25": 34830,
-  "2022-08-26": 34830,
-  "2022-08-27": 34830,
-  "2022-08-28": 34830,
-  "2022-08-29": 34830,
-  "2022-08-30": 34830,
-  "2022-08-31": 34830,
-  "2022-09-01": 34830,
-  "2022-09-02": 34830,
-  "2022-09-03": 34830,
-  "2022-09-04": 34830,
-  "2022-09-05": 34830,
-  "2022-09-06": 34830,
-  "2022-09-07": 34830,
-  "2022-09-09": 34830,
-  "2022-09-10": 34830,
-  "2022-09-11": 34830,
-  "2022-09-12": 34830,
-  "2022-09-13": 34830,
-  "2022-09-15": 34830,
-  "2022-09-16": 34830,
-  "2022-09-17": 34830,
-  "2022-09-18": 34830,
-  "2022-09-19": 34830,
-  "2022-09-20": 34830,
-  "2022-09-21": 34830,
-  "2022-09-22": 34830,
-  "2022-09-23": 34830,
-  "2022-09-24": 34830,
-  "2022-09-25": 34830,
-  "2022-09-26": 34830,
-  "2022-09-27": 34830,
-  "2022-09-28": 34830,
-  "2022-09-29": 34830,
-  "2022-09-30": 34830,
-  "2022-10-01": 34830,
-  "2022-10-02": 34830,
-  "2022-10-03": 34830,
-  "2022-10-04": 34830,
-  "2022-10-05": 34830,
-  "2022-10-06": 34830,
-  "2022-10-07": 34830,
-  "2022-10-08": 34830,
-  "2022-10-09": 34830,
-  "2022-10-10": 34830,
-  "2022-10-11": 34830,
-  "2022-10-12": 34830,
-  "2022-10-13": 34830,
-  "2022-10-14": 34830,
-  "2022-10-15": 34830,
-  "2022-10-16": 34830,
-  "2022-10-17": 34830,
-  "2022-10-18": 34830,
-  "2022-10-19": 34830,
-  "2022-10-20": 34830,
-  "2022-10-21": 34830,
-  "2022-10-22": 34830,
-  "2022-10-23": 34830,
-  "2022-10-24": 34830,
-  "2022-10-25": 34830,
-  "2022-10-26": 34830,
-  "2022-10-27": 34830,
-  "2022-10-28": 34830,
-  "2022-10-29": 34830,
-  "2022-10-30": 34830,
-  "2022-10-31": 34830,
-  "2022-11-01": 34830,
-  "2022-11-02": 34830,
-  "2022-11-03": 34830,
-  "2022-11-04": 34830,
-  "2022-11-05": 34830,
-  "2022-11-06": 34830,
-  "2022-11-07": 34830,
-  "2022-11-08": 34830,
-  "2022-11-09": 34830,
-  "2022-11-10": 34830,
-  "2022-11-11": 34830,
-  "2022-11-12": 34830,
-  "2022-11-13": 34830,
-  "2022-11-14": 34830,
-  "2022-11-15": 34830,
-  "2022-11-16": 34830,
-  "2022-11-17": 34830,
-  "2022-11-18": 34830,
-  "2022-11-19": 34830,
-  "2022-11-20": 34830,
-  "2022-11-21": 34830,
-  "2022-11-22": 34830,
-  "2022-11-23": 34830,
-  "2022-11-24": 34830,
-  "2022-11-25": 34830,
-  "2022-11-26": 34830,
-  "2022-11-27": 34830,
-  "2022-11-28": 34830,
-  "2022-11-29": 34830,
-  "2022-11-30": 34830,
-  "2022-12-01": 34830,
-  "2022-12-02": 34830,
-  "2022-12-03": 34830,
-  "2022-12-04": 34830,
-  "2022-12-05": 34830,
-  "2022-12-06": 34830,
-  "2022-12-07": 34830,
-  "2022-12-08": 34830,
-  "2022-12-09": 34830,
-  "2022-12-10": 34830,
-  "2022-12-11": 34830,
-  "2022-12-12": 34830,
-  "2022-12-13": 34830,
-  "2022-12-14": 34830,
-  "2022-12-15": 34830,
-  "2022-12-16": 34830,
-  "2022-12-17": 34830,
-  "2022-12-18": 34830,
-  "2022-12-19": 34830,
-  "2022-12-20": 34830,
-  "2022-12-21": 34830,
-  "2022-12-22": 34830,
-  "2022-12-24": 34830,
-  "2022-12-25": 34830,
-  "2022-12-26": 34830,
-  "2022-12-27": 34830,
-  "2022-12-28": 34830,
-  "2022-12-29": 34830,
-  "2022-12-30": 34830,
-  "2022-12-31": 34830,
-  "2023-01-01": 34830,
-  "2023-01-02": 34830,
-  "2023-01-03": 34830,
-  "2023-01-04": 34830,
-  "2023-01-05": 34830,
-  "2023-01-06": 34830,
-  "2023-01-07": 34830,
-  "2023-01-08": 34830,
-  "2023-01-09": 34830,
-  "2023-01-10": 34830,
-  "2023-01-11": 34830,
-  "2023-01-12": 34830,
-  "2023-01-13": 34830,
-  "2023-01-14": 34830,
-  "2023-01-15": 34830,
-  "2023-01-16": 34830,
-  "2023-01-17": 34830,
-  "2023-01-18": 34830,
-  "2023-01-19": 34830,
-  "2023-01-20": 34830,
-  "2023-01-21": 34830,
-  "2023-01-22": 34830,
-  "2023-01-23": 34830,
-  "2023-01-24": 34830,
-  "2023-01-25": 34830,
-  "2023-01-26": 34830,
-  "2023-01-27": 34830,
-  "2023-01-28": 34830,
-  "2023-01-29": 34830,
-  "2023-01-30": 34830,
-  "2023-01-31": 34830,
-  "2023-02-01": 34830,
-  "2023-02-02": 34830,
-  "2023-02-03": 34830,
-  "2023-02-04": 34830,
-  "2023-02-05": 34830,
-  "2023-02-06": 34830,
-  "2023-02-07": 34830,
-  "2023-02-08": 34830,
-  "2023-02-09": 34830,
-  "2023-02-10": 34830,
-  "2023-02-11": 34830,
-  "2023-02-12": 34830,
-  "2023-02-13": 34830,
-  "2023-02-14": 34830,
-  "2023-02-15": 34830,
-  "2023-02-16": 34830,
-  "2023-02-17": 34830,
-  "2023-02-18": 34830,
-  "2023-02-19": 34830,
-  "2023-02-20": 34830,
-  "2023-02-21": 34830,
-  "2023-02-22": 34830,
-  "2023-02-23": 34830,
-  "2023-02-24": 34830,
-  "2023-02-25": 34830,
-  "2023-02-26": 34830,
-  "2023-02-27": 34830,
-  "2023-02-28": 34830,
-  "2023-03-01": 34830,
-  "2023-03-02": 34830,
-  "2023-03-03": 34830,
-  "2023-03-04": 34830,
-  "2023-03-05": 34830,
-  "2023-03-06": 34830,
-  "2023-03-07": 34830,
-  "2023-03-08": 34830,
-  "2023-03-09": 34830,
-  "2023-03-10": 34830,
-  "2023-03-11": 34830,
-  "2023-03-12": 34830,
-  "2023-03-13": 34830,
-  "2023-03-14": 34830,
-  "2023-03-15": 34830,
-  "2023-03-16": 34830,
-  "2023-03-17": 34830,
-  "2023-03-18": 34830,
-  "2023-03-19": 34830,
-  "2023-03-20": 34830,
-  "2023-03-21": 34830,
-  "2023-03-22": 34830,
-  "2023-03-23": 34830,
-  "2023-03-24": 34830,
-  "2023-03-25": 34830,
-  "2023-03-26": 34830,
-  "2023-03-27": 34830,
-  "2023-03-28": 34830,
-  "2023-03-29": 34830,
-  "2023-03-30": 34830,
-  "2023-03-31": 34830,
-  "2023-04-01": 34830,
-  "2023-04-02": 34830,
-  "2023-04-03": 34830,
-  "2023-04-04": 34830,
-  "2023-04-05": 34830,
-  "2023-04-06": 34830,
-  "2023-04-07": 34830,
-  "2023-04-09": 34830,
-  "2023-04-10": 34830,
-  "2023-04-11": 34830,
-  "2023-04-12": 34830,
-  "2023-04-13": 34830,
-  "2023-04-14": 34830,
-  "2023-04-15": 34830,
-  "2023-04-16": 34830,
-  "2023-04-17": 34830,
-  "2023-04-18": 34830,
-  "2023-04-19": 34830,
-  "2023-04-20": 34830,
-  "2023-04-21": 34830,
-  "2023-04-22": 34830,
-  "2023-04-23": 34830,
-  "2023-04-24": 34830,
-  "2023-04-25": 34830,
-  "2023-04-26": 34830,
-  "2023-04-27": 34830,
-  "2023-04-28": 34830,
-  "2023-04-29": 34830,
-  "2023-04-30": 34830,
-  "2023-05-01": 34830,
-  "2023-05-02": 34830,
-  "2023-05-03": 34830,
-  "2023-05-04": 34830,
-  "2023-05-05": 34830,
-  "2023-05-06": 34830,
-  "2023-05-07": 34830,
-  "2023-05-08": 34830,
-  "2023-05-09": 34830,
-  "2023-05-10": 34830,
-  "2023-05-11": 34830,
-  "2023-05-12": 34830,
-  "2023-05-13": 34830,
-  "2023-05-14": 34830,
-  "2023-05-15": 34830,
-  "2023-05-16": 34830,
-  "2023-05-17": 34830,
-  "2023-05-18": 34830,
-  "2023-05-19": 34830,
-  "2023-05-20": 34830,
-  "2023-05-21": 34830,
-  "2023-05-22": 34830,
-  "2023-05-23": 34830,
-  "2023-05-24": 34830,
-  "2023-05-25": 34830,
-  "2023-05-26": 34830,
-  "2023-05-27": 34830,
-  "2023-05-28": 34830,
-  "2023-05-29": 34830,
-  "2023-05-30": 34830,
-  "2023-05-31": 34830,
-  "2023-06-01": 34830,
-  "2023-06-02": 34830,
-  "2023-06-03": 34830,
-  "2023-06-04": 34830,
-  "2023-06-05": 34830,
-  "2023-06-06": 34830,
-  "2023-06-07": 34830,
-  "2023-06-08": 34830,
-  "2023-06-09": 34830,
-  "2023-06-10": 34830,
-  "2023-06-11": 34830,
-  "2023-06-12": 34830,
-  "2023-06-13": 34830,
-  "2023-06-14": 34830,
-  "2023-06-15": 34830,
-  "2023-06-16": 34830,
-  "2023-06-17": 34830,
-  "2023-06-18": 34830,
-  "2023-06-19": 34830,
-  "2023-06-20": 34830,
-  "2023-06-21": 34830,
-  "2023-06-22": 34830,
-  "2023-06-23": 34830,
-  "2023-06-24": 34830,
-  "2023-06-25": 34830,
-  "2023-06-26": 34830,
-  "2023-06-27": 34830,
-  "2023-06-28": 34830,
-  "2023-06-29": 34830,
-  "2023-06-30": 34830,
-  "2023-07-01": 34830,
-  "2023-07-02": 34830,
-  "2023-07-03": 34830,
-  "2023-07-04": 34830,
-  "2023-07-05": 34830,
-  "2023-07-06": 34830,
-  "2023-07-07": 34830,
-  "2023-07-08": 34830,
-  "2023-07-09": 34830,
-  "2023-07-10": 34830,
-  "2023-07-11": 34830,
-  "2023-07-12": 34830,
-  "2023-07-13": 34830,
-  "2023-07-14": 34830,
-  "2023-07-15": 34830,
-  "2023-07-16": 34830,
-  "2023-07-17": 34830,
-  "2023-07-18": 34830,
-  "2023-07-19": 34830,
-  "2023-07-20": 34830,
-  "2023-07-21": 34830,
-  "2023-07-22": 34830,
-  "2023-07-23": 34830,
-  "2023-07-24": 34830,
-  "2023-07-25": 34830,
-  "2023-07-26": 34830,
-  "2023-07-27": 34830,
-  "2023-07-28": 34830,
-  "2023-07-29": 34830,
-  "2023-07-30": 34830,
-  "2023-07-31": 34830,
-  "2023-08-01": 34830,
-  "2023-08-02": 34830,
-  "2023-08-03": 34830,
-  "2023-08-04": 34830,
-  "2023-08-05": 34830,
-  "2023-08-06": 34830,
-  "2023-08-07": 34830,
-  "2023-08-08": 34830,
-  "2023-08-09": 34830,
-  "2023-08-10": 34830,
-  "2023-08-11": 34830,
-  "2023-08-12": 34830,
-  "2023-08-13": 34830,
-  "2023-08-14": 34830,
-  "2023-08-15": 34830,
-  "2023-08-16": 34830,
-  "2023-08-17": 34830,
-  "2023-08-18": 34830,
-  "2023-08-19": 34830,
-  "2023-08-20": 34830,
-  "2023-08-21": 34830,
-  "2023-08-22": 34830,
-  "2023-08-23": 34830,
-  "2023-08-24": 34830,
-  "2023-08-25": 34830,
-  "2023-08-26": 34830,
-  "2023-08-27": 34830,
-  "2023-08-28": 34830,
-  "2023-08-29": 34830,
-  "2023-08-30": 34830,
-  "2023-08-31": 34830,
-  "2023-09-01": 34830,
-  "2023-09-02": 34830,
-  "2023-09-03": 34830,
-  "2023-09-04": 34830,
-  "2023-09-05": 34830,
-  "2023-09-06": 34830,
-  "2023-09-07": 34830,
-  "2023-09-08": 34830,
-  "2023-09-09": 34830,
-  "2023-09-10": 34830,
-  "2023-09-11": 34830,
-  "2023-09-12": 34830,
-  "2023-09-13": 34830,
-  "2023-09-14": 34830,
-  "2023-09-15": 34830,
-  "2023-09-16": 34830,
-  "2023-09-17": 34830,
-  "2023-09-18": 34830,
-  "2023-09-19": 34830,
-  "2023-09-20": 34830,
-  "2023-09-21": 34830,
-  "2023-09-22": 34830,
-  "2023-09-23": 34830,
-  "2023-09-24": 34830,
-  "2023-09-25": 34830,
-  "2023-09-26": 34830,
-  "2023-09-27": 34830,
-  "2023-09-28": 34830,
-  "2023-09-29": 34830,
-  "2023-09-30": 34830,
-  "2023-10-01": 34830,
-  "2023-10-02": 34830,
-  "2023-10-03": 34830,
-  "2023-10-04": 34830,
-  "2023-10-05": 34830,
-  "2023-10-06": 34830,
-  "2023-10-07": 34830,
-  "2023-10-08": 34830,
-  "2023-10-09": 34830,
-  "2023-10-10": 34830,
-  "2023-10-11": 34830,
-  "2023-10-12": 34830,
-  "2023-10-13": 34830,
-  "2023-10-14": 34830,
-  "2023-10-15": 34830,
-  "2023-10-16": 34830,
-  "2023-10-17": 34830,
-  "2023-10-18": 34830,
-  "2023-10-19": 34830,
-  "2023-10-20": 34830,
-  "2023-10-21": 34830,
-  "2023-10-22": 34830,
-  "2023-10-23": 34830,
-  "2023-10-24": 34830,
-  "2023-10-25": 34830,
-  "2023-10-26": 34830,
-  "2023-10-27": 34830,
-  "2023-10-28": 34830,
-  "2023-10-29": 34830,
-  "2023-10-30": 34830,
-  "2023-10-31": 34830,
-  "2023-11-01": 34830,
-  "2023-11-02": 34830,
-  "2023-11-03": 34830,
-  "2023-11-04": 34830,
-  "2023-11-05": 34830,
-  "2023-11-06": 34830,
-  "2023-11-07": 34830,
-  "2023-11-08": 34830,
-  "2023-11-09": 34830,
-  "2023-11-10": 34830,
-  "2023-11-11": 34830,
-  "2023-11-12": 34830,
-  "2023-11-13": 34830,
-  "2023-11-14": 34830,
-  "2023-11-15": 34830,
-  "2023-11-16": 34830,
-  "2023-11-17": 34830,
-  "2023-11-18": 34830,
-  "2023-11-19": 34830,
-  "2023-11-20": 34830,
-  "2023-11-21": 34830,
-  "2023-11-22": 34830,
-  "2023-11-23": 34830,
-  "2023-11-24": 34830,
-  "2023-11-25": 34830,
-  "2023-11-26": 34830,
-  "2023-11-27": 34830,
-  "2023-11-28": 34830,
-  "2023-11-29": 34830,
-  "2023-11-30": 34830,
-  "2023-12-01": 34830,
-  "2023-12-02": 34830,
-  "2023-12-03": 34830,
-  "2023-12-04": 34830,
-  "2023-12-05": 34830,
-  "2023-12-06": 34830,
-  "2023-12-07": 34830,
-  "2023-12-08": 34830,
-  "2023-12-09": 34830,
-  "2023-12-10": 34830,
-  "2023-12-11": 34830,
-  "2023-12-12": 34830,
-  "2023-12-13": 34830,
-  "2023-12-14": 34830,
-  "2023-12-15": 34830,
-  "2023-12-16": 34830,
-  "2023-12-17": 34830,
-  "2023-12-18": 34830,
-  "2023-12-19": 34830,
-  "2023-12-20": 34830,
-  "2023-12-21": 34830,
-  "2023-12-22": 34830,
-  "2023-12-23": 34830,
-  "2023-12-24": 34830,
-  "2023-12-25": 34830,
-  "2023-12-26": 34830,
-  "2023-12-27": 34830,
-  "2023-12-30": 34830,
-  "2023-12-31": 34830,
-  "2024-01-01": 34830,
-  "2024-01-02": 34830,
-  "2024-01-03": 34830
+  "2024-01-17": 34830,
+  "date_first_scraped": "2022-02-24",
+  "description": "Brought to you by <a href=\"spotify:artist:2cADQgiLMjNhbsfeN52Bf3\">Swizz Beatz</a>, <a href=\"spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ\">Timbaland</a>, and <a href=\"spotify:user:m71fwq4d14sx9rjbf256hfrqg\">Femme It Forward</a>.",
+  "name": "Verzuz: Erykah Badu vs. Jill Scott",
+  "tracks": [
+    {
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280973,
+      "name": "A Long Walk",
+      "url": "https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL"
+    },
+    {
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265373,
+      "name": "Appletree",
+      "url": "https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT"
+    },
+    {
+      "album": {
+        "name": "Worldwide Underground",
+        "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286920,
+      "name": "Back In The Day",
+      "url": "https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO"
+    },
+    {
+      "album": {
+        "name": "Motown: The Complete No. 1's",
+        "url": "https://open.spotify.com/album/58pGMCX1LxShUleatShB4x"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245706,
+      "name": "Bag Lady - Radio Edit",
+      "url": "https://open.spotify.com/track/5GR2fnWVX0voHXkMku5Z4f"
+    },
+    {
+      "album": {
+        "name": "The Light of the Sun",
+        "url": "https://open.spotify.com/album/52UuhKOKOB1PWL1DVAC3os"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206893,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2jVi6EOcDaVUug4fUGO7ob"
+    },
+    {
+      "album": {
+        "name": "Black Radio 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342280,
+      "name": "Calls",
+      "url": "https://open.spotify.com/track/4a240k9KLePPa6QfGX6fXj"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6qTd2uORfBAOVIS7mzDfLS"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271666,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/6GXe7h7e3VTbRp8sQ7GLv6"
+    },
+    {
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Cleva",
+      "url": "https://open.spotify.com/track/1GoTvQP3JEeA8oh5I9b2xc"
+    },
+    {
+      "album": {
+        "name": "Beautifully Human: Words and Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284800,
+      "name": "Cross My Mind",
+      "url": "https://open.spotify.com/track/58wz6SXvLA7JjKtX5Ydq06"
+    },
+    {
+      "album": {
+        "name": "The Real Thing - Words & Sounds, Vol. 3",
+        "url": "https://open.spotify.com/album/3OUq3A9AOpYzd0qPSGU2hQ"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108506,
+      "name": "Crown Royal",
+      "url": "https://open.spotify.com/track/2mX2iJ6rw3ja90OPzHrmHT"
+    },
+    {
+      "album": {
+        "name": "Worldwide Underground",
+        "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349000,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/4dfvajW0PS2LG2kHFig8vy"
+    },
+    {
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6qTd2uORfBAOVIS7mzDfLS"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/4Q1grs5HY4n8uDIdoqYHCl"
+    },
+    {
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236493,
+      "name": "Gettin' In the Way",
+      "url": "https://open.spotify.com/track/5Kjf7kWia6Ey8nRM4Mgj5l"
+    },
+    {
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 604973,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/6qvtiA4wQQliK6K7oRdovk"
+    },
+    {
+      "album": {
+        "name": "Jill Scott Live In Paris",
+        "url": "https://open.spotify.com/album/2lF5mGt41A5MWhkP0vwAfd"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 661306,
+      "name": "He Loves Me (Lyzel In E Flat)",
+      "url": "https://open.spotify.com/track/6lXpxDeRANU6bsTMN4j5aV"
+    },
+    {
+      "album": {
+        "name": "New Amerykah Part One (4th World War)",
+        "url": "https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320973,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2z4ypE6YI1mybsczNx4eRU"
+    },
+    {
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Honey Molasses",
+      "url": "https://open.spotify.com/track/7ADtqh5XI5FMBa3PSbUOc3"
+    },
+    {
+      "album": {
+        "name": "Worldwide Underground",
+        "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 653160,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5aEiDuaUkizCkfcnjIdqgG"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6qTd2uORfBAOVIS7mzDfLS"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281413,
+      "name": "Jahraymecofasola",
+      "url": "https://open.spotify.com/track/1nei0lgg3TjPKPRWabawsi"
+    },
+    {
+      "album": {
+        "name": "Go! Common Classics",
+        "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337573,
+      "name": "Love Of My Life (An Ode To Hip Hop) - Longer Album Version",
+      "url": "https://open.spotify.com/track/0ieS2bue78yadTdPiyzsaO"
+    },
+    {
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        },
+        {
+          "name": "Vidal Davis",
+          "url": "https://open.spotify.com/artist/5kVvHkSM6GbOCmpkgQW5Ld"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305586,
+      "name": "Love Rain - Head Nod Mix",
+      "url": "https://open.spotify.com/track/7jPsiGoebOUVhLexlL1oXr"
+    },
+    {
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
+    },
+    {
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
+    },
+    {
+      "album": {
+        "name": "The Light of the Sun (Deluxe Version)",
+        "url": "https://open.spotify.com/album/30M08cscoQBug3v6YUbq97"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287293,
+      "name": "Rolling Hills",
+      "url": "https://open.spotify.com/track/2Yy7o47otxQ3AHsGLiJR7U"
+    },
+    {
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275666,
+      "name": "Slowly Surely",
+      "url": "https://open.spotify.com/track/0HC8gFuUfQklYNM0U53Db6"
+    },
+    {
+      "album": {
+        "name": "The Light of the Sun",
+        "url": "https://open.spotify.com/album/52UuhKOKOB1PWL1DVAC3os"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275400,
+      "name": "So In Love - feat. Anthony Hamilton",
+      "url": "https://open.spotify.com/track/78mehkHd1WUDxhcLXkbrLb"
+    },
+    {
+      "album": {
+        "name": "New Amerykah Part One (4th World War)",
+        "url": "https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239080,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/7otmKWoMlpWkrMnnIQHXEg"
+    },
+    {
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU"
+    },
+    {
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400840,
+      "name": "Time's A Wastin",
+      "url": "https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221866,
+      "name": "Tyrone - Live",
+      "url": "https://open.spotify.com/track/1MCem6JigI6jgQPMgriKbU"
+    },
+    {
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228333,
+      "name": "Watching Me",
+      "url": "https://open.spotify.com/track/3hurvlwdXcUva5R8ngDs6H"
+    },
+    {
+      "album": {
+        "name": "The Real Thing - Words & Sounds, Vol. 3",
+        "url": "https://open.spotify.com/album/3OUq3A9AOpYzd0qPSGU2hQ"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245026,
+      "name": "Whenever You're Around",
+      "url": "https://open.spotify.com/track/15EFDhVPZN6UCBv2FEuwie"
+    },
+    {
+      "album": {
+        "name": "New Amerykah Part Two: Return Of The Ankh",
+        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289720,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/74HYrIbnpc2xKCTenv5qKM"
+    },
+    {
+      "album": {
+        "name": "Things Fall Apart",
+        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Tariq Trotter",
+          "url": "https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259306,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
+    },
+    {
+      "album": {
+        "name": "The Roots Come Alive",
+        "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530866,
+      "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
+      "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3ZKargsaFiQ"
 }

@@ -1,735 +1,821 @@
 {
-  "2021-12-25": 8332,
-  "2021-12-26": 8332,
-  "2021-12-27": 8332,
-  "2021-12-28": 8332,
-  "2021-12-29": 8332,
-  "2021-12-30": 8330,
-  "2021-12-31": 8329,
-  "2022-01-01": 8327,
-  "2022-01-02": 8326,
-  "2022-01-03": 8326,
-  "2022-01-04": 8325,
-  "2022-01-05": 8325,
-  "2022-01-06": 8324,
-  "2022-01-07": 8324,
-  "2022-01-08": 8323,
-  "2022-01-09": 8323,
-  "2022-01-10": 8322,
-  "2022-01-11": 8322,
-  "2022-01-12": 8321,
-  "2022-01-13": 8321,
-  "2022-01-14": 8321,
-  "2022-01-15": 8320,
-  "2022-01-16": 8320,
-  "2022-01-17": 8319,
-  "2022-01-18": 8319,
-  "2022-01-19": 8318,
-  "2022-01-20": 8317,
-  "2022-01-21": 8317,
-  "2022-01-22": 8317,
-  "2022-01-23": 8317,
-  "2022-01-24": 8316,
-  "2022-01-25": 8316,
-  "2022-01-26": 8316,
-  "2022-01-27": 8315,
-  "2022-01-28": 8314,
-  "2022-01-29": 8313,
-  "2022-01-30": 8312,
-  "2022-01-31": 8312,
-  "2022-02-01": 8310,
-  "2022-02-02": 8310,
-  "2022-02-03": 8310,
-  "2022-02-04": 8310,
-  "2022-02-05": 8310,
-  "2022-02-06": 8308,
-  "2022-02-07": 8308,
-  "2022-02-08": 8308,
-  "2022-02-09": 8306,
-  "2022-02-10": 8306,
-  "2022-02-11": 8305,
-  "2022-02-12": 8305,
-  "2022-02-13": 8305,
-  "2022-02-14": 8305,
-  "2022-02-15": 8304,
-  "2022-02-16": 8303,
-  "2022-02-17": 8302,
-  "2022-02-18": 8301,
-  "2022-02-19": 8301,
-  "2022-02-20": 8301,
-  "2022-02-21": 8301,
-  "2022-02-22": 8300,
-  "2022-02-23": 8300,
-  "2022-02-24": 8300,
-  "2022-02-25": 8300,
-  "2022-02-26": 8300,
-  "2022-02-27": 8298,
-  "2022-02-28": 8298,
-  "2022-03-01": 8298,
-  "2022-03-02": 8297,
-  "2022-03-03": 8297,
-  "2022-03-04": 8297,
-  "2022-03-05": 8297,
-  "2022-03-06": 8296,
-  "2022-03-07": 8295,
-  "2022-03-08": 8296,
-  "2022-03-09": 8296,
-  "2022-03-10": 8295,
-  "2022-03-11": 8295,
-  "2022-03-12": 8295,
-  "2022-03-13": 8295,
-  "2022-03-14": 8295,
-  "2022-03-15": 8295,
-  "2022-03-16": 8294,
-  "2022-03-17": 8294,
-  "2022-03-18": 8294,
-  "2022-03-19": 8294,
-  "2022-03-20": 8294,
-  "2022-03-21": 8293,
-  "2022-03-22": 8293,
-  "2022-03-23": 8292,
-  "2022-03-24": 8291,
-  "2022-03-25": 8291,
-  "2022-03-26": 8290,
-  "2022-03-27": 8291,
-  "2022-03-28": 8290,
-  "2022-03-30": 8290,
-  "2022-03-31": 8289,
-  "2022-04-01": 8288,
-  "2022-04-02": 8286,
-  "2022-04-03": 8286,
-  "2022-04-04": 8286,
-  "2022-04-05": 8282,
-  "2022-04-06": 8280,
-  "2022-04-07": 8280,
-  "2022-04-08": 8280,
-  "2022-04-09": 8280,
-  "2022-04-10": 8276,
-  "2022-04-11": 8276,
-  "2022-04-12": 8276,
-  "2022-04-13": 8276,
-  "2022-04-14": 8276,
-  "2022-04-15": 8275,
-  "2022-04-16": 8275,
-  "2022-04-17": 8275,
-  "2022-04-18": 8273,
-  "2022-04-19": 8273,
-  "2022-04-20": 8273,
-  "2022-04-21": 8273,
-  "2022-04-22": 8273,
-  "2022-04-23": 8272,
-  "2022-04-24": 8272,
-  "2022-04-25": 8271,
-  "2022-04-26": 8271,
-  "2022-04-27": 8270,
-  "2022-04-28": 8270,
-  "2022-04-29": 8270,
-  "2022-04-30": 8270,
-  "2022-05-01": 8269,
-  "2022-05-02": 8269,
-  "2022-05-03": 8268,
-  "2022-05-04": 8267,
-  "2022-05-05": 8266,
-  "2022-05-06": 8266,
-  "2022-05-07": 8267,
-  "2022-05-08": 8267,
-  "2022-05-09": 8267,
-  "2022-05-10": 8267,
-  "2022-05-11": 8267,
-  "2022-05-12": 8266,
-  "2022-05-13": 8266,
-  "2022-05-14": 8266,
-  "2022-05-15": 8266,
-  "2022-05-16": 8266,
-  "2022-05-17": 8266,
-  "2022-05-18": 8265,
-  "2022-05-19": 8264,
-  "2022-05-20": 8263,
-  "2022-05-21": 8262,
-  "2022-05-22": 8262,
-  "2022-05-23": 8262,
-  "2022-05-24": 8262,
-  "2022-05-25": 8262,
-  "2022-05-26": 8262,
-  "2022-05-27": 8262,
-  "2022-05-28": 8262,
-  "2022-05-29": 8262,
-  "2022-05-30": 8262,
-  "2022-05-31": 8262,
-  "2022-06-01": 8262,
-  "2022-06-02": 8262,
-  "2022-06-03": 8262,
-  "2022-06-04": 8261,
-  "2022-06-05": 8260,
-  "2022-06-06": 8260,
-  "2022-06-07": 8260,
-  "2022-06-08": 8260,
-  "2022-06-09": 8260,
-  "2022-06-10": 8260,
-  "2022-06-11": 8260,
-  "2022-06-12": 8259,
-  "2022-06-13": 8259,
-  "2022-06-14": 8259,
-  "2022-06-15": 8258,
-  "2022-06-16": 8257,
-  "2022-06-17": 8257,
-  "2022-06-18": 8257,
-  "2022-06-19": 8255,
-  "2022-06-20": 8255,
-  "2022-06-21": 8255,
-  "2022-06-22": 8255,
-  "2022-06-23": 8255,
-  "2022-06-24": 8254,
-  "2022-06-25": 8254,
-  "2022-06-26": 8254,
-  "2022-06-27": 8254,
-  "2022-06-28": 8253,
-  "2022-06-29": 8253,
-  "2022-06-30": 8251,
-  "2022-07-01": 8250,
-  "2022-07-02": 8250,
-  "2022-07-03": 8250,
-  "2022-07-04": 8250,
-  "2022-07-05": 8250,
-  "2022-07-06": 8250,
-  "2022-07-07": 8250,
-  "2022-07-08": 8250,
-  "2022-07-09": 8250,
-  "2022-07-10": 8251,
-  "2022-07-11": 8251,
-  "2022-07-12": 8252,
-  "2022-07-13": 8251,
-  "2022-07-14": 8251,
-  "2022-07-15": 8252,
-  "2022-07-16": 8252,
-  "2022-07-17": 8252,
-  "2022-07-18": 8252,
-  "2022-07-19": 8252,
-  "2022-07-20": 8252,
-  "2022-07-21": 8253,
-  "2022-07-22": 8254,
-  "2022-07-23": 8255,
-  "2022-07-24": 8255,
-  "2022-07-25": 8254,
-  "2022-07-26": 8255,
-  "2022-07-27": 8255,
-  "2022-07-28": 8256,
-  "2022-07-29": 8257,
-  "2022-07-30": 8257,
-  "2022-07-31": 8257,
-  "2022-08-01": 8258,
-  "2022-08-02": 8258,
-  "2022-08-03": 8258,
-  "2022-08-04": 8258,
-  "2022-08-05": 8260,
-  "2022-08-06": 8260,
-  "2022-08-07": 8259,
-  "2022-08-08": 8259,
-  "2022-08-09": 8259,
-  "2022-08-10": 8258,
-  "2022-08-11": 8258,
-  "2022-08-12": 8258,
-  "2022-08-13": 8258,
-  "2022-08-14": 8258,
-  "2022-08-15": 8258,
-  "2022-08-16": 8258,
-  "2022-08-17": 8258,
-  "2022-08-18": 8258,
-  "2022-08-19": 8258,
-  "2022-08-20": 8258,
-  "2022-08-21": 8258,
-  "2022-08-22": 8258,
-  "2022-08-23": 8258,
-  "2022-08-24": 8258,
-  "2022-08-25": 8258,
-  "2022-08-26": 8258,
-  "2022-08-27": 8258,
-  "2022-08-28": 8258,
-  "2022-08-29": 8258,
-  "2022-08-30": 8258,
-  "2022-08-31": 8258,
-  "2022-09-01": 8258,
-  "2022-09-02": 8258,
-  "2022-09-03": 8258,
-  "2022-09-04": 8258,
-  "2022-09-05": 8258,
-  "2022-09-06": 8258,
-  "2022-09-07": 8258,
-  "2022-09-09": 8258,
-  "2022-09-10": 8258,
-  "2022-09-11": 8258,
-  "2022-09-12": 8258,
-  "2022-09-13": 8258,
-  "2022-09-15": 8258,
-  "2022-09-16": 8258,
-  "2022-09-17": 8258,
-  "2022-09-18": 8258,
-  "2022-09-19": 8258,
-  "2022-09-20": 8258,
-  "2022-09-21": 8258,
-  "2022-09-22": 8258,
-  "2022-09-23": 8258,
-  "2022-09-24": 8258,
-  "2022-09-25": 8258,
-  "2022-09-26": 8258,
-  "2022-09-27": 8258,
-  "2022-09-28": 8258,
-  "2022-09-29": 8258,
-  "2022-09-30": 8258,
-  "2022-10-01": 8258,
-  "2022-10-02": 8258,
-  "2022-10-03": 8258,
-  "2022-10-04": 8258,
-  "2022-10-05": 8258,
-  "2022-10-06": 8258,
-  "2022-10-07": 8258,
-  "2022-10-08": 8258,
-  "2022-10-09": 8258,
-  "2022-10-10": 8258,
-  "2022-10-11": 8258,
-  "2022-10-12": 8258,
-  "2022-10-13": 8258,
-  "2022-10-14": 8258,
-  "2022-10-15": 8258,
-  "2022-10-16": 8258,
-  "2022-10-17": 8258,
-  "2022-10-18": 8258,
-  "2022-10-19": 8258,
-  "2022-10-20": 8258,
-  "2022-10-21": 8258,
-  "2022-10-22": 8258,
-  "2022-10-23": 8258,
-  "2022-10-24": 8258,
-  "2022-10-25": 8258,
-  "2022-10-26": 8258,
-  "2022-10-27": 8258,
-  "2022-10-28": 8258,
-  "2022-10-29": 8258,
-  "2022-10-30": 8258,
-  "2022-10-31": 8258,
-  "2022-11-01": 8258,
-  "2022-11-02": 8258,
-  "2022-11-03": 8258,
-  "2022-11-04": 8258,
-  "2022-11-05": 8258,
-  "2022-11-06": 8258,
-  "2022-11-07": 8258,
-  "2022-11-08": 8258,
-  "2022-11-09": 8258,
-  "2022-11-10": 8258,
-  "2022-11-11": 8258,
-  "2022-11-12": 8258,
-  "2022-11-13": 8258,
-  "2022-11-14": 8258,
-  "2022-11-15": 8258,
-  "2022-11-16": 8258,
-  "2022-11-17": 8258,
-  "2022-11-18": 8258,
-  "2022-11-19": 8258,
-  "2022-11-20": 8258,
-  "2022-11-21": 8258,
-  "2022-11-22": 8258,
-  "2022-11-23": 8258,
-  "2022-11-24": 8258,
-  "2022-11-25": 8258,
-  "2022-11-26": 8258,
-  "2022-11-27": 8258,
-  "2022-11-28": 8258,
-  "2022-11-29": 8258,
-  "2022-11-30": 8258,
-  "2022-12-01": 8258,
-  "2022-12-02": 8258,
-  "2022-12-03": 8258,
-  "2022-12-04": 8258,
-  "2022-12-05": 8258,
-  "2022-12-06": 8258,
-  "2022-12-07": 8258,
-  "2022-12-08": 8258,
-  "2022-12-09": 8258,
-  "2022-12-10": 8258,
-  "2022-12-11": 8258,
-  "2022-12-12": 8258,
-  "2022-12-13": 8258,
-  "2022-12-14": 8258,
-  "2022-12-15": 8258,
-  "2022-12-16": 8258,
-  "2022-12-17": 8258,
-  "2022-12-18": 8258,
-  "2022-12-19": 8258,
-  "2022-12-20": 8258,
-  "2022-12-21": 8258,
-  "2022-12-22": 8258,
-  "2022-12-24": 8258,
-  "2022-12-25": 8258,
-  "2022-12-26": 8258,
-  "2022-12-27": 8258,
-  "2022-12-28": 8258,
-  "2022-12-29": 8258,
-  "2022-12-30": 8258,
-  "2022-12-31": 8258,
-  "2023-01-01": 8258,
-  "2023-01-02": 8258,
-  "2023-01-03": 8258,
-  "2023-01-04": 8258,
-  "2023-01-05": 8258,
-  "2023-01-06": 8258,
-  "2023-01-07": 8258,
-  "2023-01-08": 8258,
-  "2023-01-09": 8258,
-  "2023-01-10": 8258,
-  "2023-01-11": 8258,
-  "2023-01-12": 8258,
-  "2023-01-13": 8258,
-  "2023-01-14": 8258,
-  "2023-01-15": 8258,
-  "2023-01-16": 8258,
-  "2023-01-17": 8258,
-  "2023-01-18": 8258,
-  "2023-01-19": 8258,
-  "2023-01-20": 8258,
-  "2023-01-21": 8258,
-  "2023-01-22": 8258,
-  "2023-01-23": 8258,
-  "2023-01-24": 8258,
-  "2023-01-25": 8258,
-  "2023-01-26": 8258,
-  "2023-01-27": 8258,
-  "2023-01-28": 8258,
-  "2023-01-29": 8258,
-  "2023-01-30": 8258,
-  "2023-01-31": 8258,
-  "2023-02-01": 8258,
-  "2023-02-02": 8258,
-  "2023-02-03": 8258,
-  "2023-02-04": 8258,
-  "2023-02-05": 8258,
-  "2023-02-06": 8258,
-  "2023-02-07": 8258,
-  "2023-02-08": 8258,
-  "2023-02-09": 8258,
-  "2023-02-10": 8258,
-  "2023-02-11": 8258,
-  "2023-02-12": 8258,
-  "2023-02-13": 8258,
-  "2023-02-14": 8258,
-  "2023-02-15": 8258,
-  "2023-02-16": 8258,
-  "2023-02-17": 8258,
-  "2023-02-18": 8258,
-  "2023-02-19": 8258,
-  "2023-02-20": 8258,
-  "2023-02-21": 8258,
-  "2023-02-22": 8258,
-  "2023-02-23": 8258,
-  "2023-02-24": 8258,
-  "2023-02-25": 8258,
-  "2023-02-26": 8258,
-  "2023-02-27": 8258,
-  "2023-02-28": 8258,
-  "2023-03-01": 8258,
-  "2023-03-02": 8258,
-  "2023-03-03": 8258,
-  "2023-03-04": 8258,
-  "2023-03-05": 8258,
-  "2023-03-06": 8258,
-  "2023-03-07": 8258,
-  "2023-03-08": 8258,
-  "2023-03-09": 8258,
-  "2023-03-10": 8258,
-  "2023-03-11": 8258,
-  "2023-03-12": 8258,
-  "2023-03-13": 8258,
-  "2023-03-14": 8258,
-  "2023-03-15": 8258,
-  "2023-03-16": 8258,
-  "2023-03-17": 8258,
-  "2023-03-18": 8258,
-  "2023-03-19": 8258,
-  "2023-03-20": 8258,
-  "2023-03-21": 8258,
-  "2023-03-22": 8258,
-  "2023-03-23": 8258,
-  "2023-03-24": 8258,
-  "2023-03-25": 8258,
-  "2023-03-26": 8258,
-  "2023-03-27": 8258,
-  "2023-03-28": 8258,
-  "2023-03-29": 8258,
-  "2023-03-30": 8258,
-  "2023-03-31": 8258,
-  "2023-04-01": 8258,
-  "2023-04-02": 8258,
-  "2023-04-03": 8258,
-  "2023-04-04": 8258,
-  "2023-04-05": 8258,
-  "2023-04-06": 8258,
-  "2023-04-07": 8258,
-  "2023-04-09": 8258,
-  "2023-04-10": 8258,
-  "2023-04-11": 8258,
-  "2023-04-12": 8258,
-  "2023-04-13": 8258,
-  "2023-04-14": 8258,
-  "2023-04-15": 8258,
-  "2023-04-16": 8258,
-  "2023-04-17": 8258,
-  "2023-04-18": 8258,
-  "2023-04-19": 8258,
-  "2023-04-20": 8258,
-  "2023-04-21": 8258,
-  "2023-04-22": 8258,
-  "2023-04-23": 8258,
-  "2023-04-24": 8258,
-  "2023-04-25": 8258,
-  "2023-04-26": 8258,
-  "2023-04-27": 8258,
-  "2023-04-28": 8258,
-  "2023-04-29": 8258,
-  "2023-04-30": 8258,
-  "2023-05-01": 8258,
-  "2023-05-02": 8258,
-  "2023-05-03": 8258,
-  "2023-05-04": 8258,
-  "2023-05-05": 8258,
-  "2023-05-06": 8258,
-  "2023-05-07": 8258,
-  "2023-05-08": 8258,
-  "2023-05-09": 8258,
-  "2023-05-10": 8258,
-  "2023-05-11": 8258,
-  "2023-05-12": 8258,
-  "2023-05-13": 8258,
-  "2023-05-14": 8258,
-  "2023-05-15": 8258,
-  "2023-05-16": 8258,
-  "2023-05-17": 8258,
-  "2023-05-18": 8258,
-  "2023-05-19": 8258,
-  "2023-05-20": 8258,
-  "2023-05-21": 8258,
-  "2023-05-22": 8258,
-  "2023-05-23": 8258,
-  "2023-05-24": 8258,
-  "2023-05-25": 8258,
-  "2023-05-26": 8258,
-  "2023-05-27": 8258,
-  "2023-05-28": 8258,
-  "2023-05-29": 8258,
-  "2023-05-30": 8258,
-  "2023-05-31": 8258,
-  "2023-06-01": 8258,
-  "2023-06-02": 8258,
-  "2023-06-03": 8258,
-  "2023-06-04": 8258,
-  "2023-06-05": 8258,
-  "2023-06-06": 8258,
-  "2023-06-07": 8258,
-  "2023-06-08": 8258,
-  "2023-06-09": 8258,
-  "2023-06-10": 8258,
-  "2023-06-11": 8258,
-  "2023-06-12": 8258,
-  "2023-06-13": 8258,
-  "2023-06-14": 8258,
-  "2023-06-15": 8258,
-  "2023-06-16": 8258,
-  "2023-06-17": 8258,
-  "2023-06-18": 8258,
-  "2023-06-19": 8258,
-  "2023-06-20": 8258,
-  "2023-06-21": 8258,
-  "2023-06-22": 8258,
-  "2023-06-23": 8258,
-  "2023-06-24": 8258,
-  "2023-06-25": 8258,
-  "2023-06-26": 8258,
-  "2023-06-27": 8258,
-  "2023-06-28": 8258,
-  "2023-06-29": 8258,
-  "2023-06-30": 8258,
-  "2023-07-01": 8258,
-  "2023-07-02": 8258,
-  "2023-07-03": 8258,
-  "2023-07-04": 8258,
-  "2023-07-05": 8258,
-  "2023-07-06": 8258,
-  "2023-07-07": 8258,
-  "2023-07-08": 8258,
-  "2023-07-09": 8258,
-  "2023-07-10": 8258,
-  "2023-07-11": 8258,
-  "2023-07-12": 8258,
-  "2023-07-13": 8258,
-  "2023-07-14": 8258,
-  "2023-07-15": 8258,
-  "2023-07-16": 8258,
-  "2023-07-17": 8258,
-  "2023-07-18": 8258,
-  "2023-07-19": 8258,
-  "2023-07-20": 8258,
-  "2023-07-21": 8258,
-  "2023-07-22": 8258,
-  "2023-07-23": 8258,
-  "2023-07-24": 8258,
-  "2023-07-25": 8258,
-  "2023-07-26": 8258,
-  "2023-07-27": 8258,
-  "2023-07-28": 8258,
-  "2023-07-29": 8258,
-  "2023-07-30": 8258,
-  "2023-07-31": 8258,
-  "2023-08-01": 8258,
-  "2023-08-02": 8258,
-  "2023-08-03": 8258,
-  "2023-08-04": 8258,
-  "2023-08-05": 8258,
-  "2023-08-06": 8258,
-  "2023-08-07": 8258,
-  "2023-08-08": 8258,
-  "2023-08-09": 8258,
-  "2023-08-10": 8258,
-  "2023-08-11": 8258,
-  "2023-08-12": 8258,
-  "2023-08-13": 8258,
-  "2023-08-14": 8258,
-  "2023-08-15": 8258,
-  "2023-08-16": 8258,
-  "2023-08-17": 8258,
-  "2023-08-18": 8258,
-  "2023-08-19": 8258,
-  "2023-08-20": 8258,
-  "2023-08-21": 8258,
-  "2023-08-22": 8258,
-  "2023-08-23": 8258,
-  "2023-08-24": 8258,
-  "2023-08-25": 8258,
-  "2023-08-26": 8258,
-  "2023-08-27": 8258,
-  "2023-08-28": 8258,
-  "2023-08-29": 8258,
-  "2023-08-30": 8258,
-  "2023-08-31": 8258,
-  "2023-09-01": 8258,
-  "2023-09-02": 8258,
-  "2023-09-03": 8258,
-  "2023-09-04": 8258,
-  "2023-09-05": 8258,
-  "2023-09-06": 8258,
-  "2023-09-07": 8258,
-  "2023-09-08": 8258,
-  "2023-09-09": 8258,
-  "2023-09-10": 8258,
-  "2023-09-11": 8258,
-  "2023-09-12": 8258,
-  "2023-09-13": 8258,
-  "2023-09-14": 8258,
-  "2023-09-15": 8258,
-  "2023-09-16": 8258,
-  "2023-09-17": 8258,
-  "2023-09-18": 8258,
-  "2023-09-19": 8258,
-  "2023-09-20": 8258,
-  "2023-09-21": 8258,
-  "2023-09-22": 8258,
-  "2023-09-23": 8258,
-  "2023-09-24": 8258,
-  "2023-09-25": 8258,
-  "2023-09-26": 8258,
-  "2023-09-27": 8258,
-  "2023-09-28": 8258,
-  "2023-09-29": 8258,
-  "2023-09-30": 8258,
-  "2023-10-01": 8258,
-  "2023-10-02": 8258,
-  "2023-10-03": 8258,
-  "2023-10-04": 8258,
-  "2023-10-05": 8258,
-  "2023-10-06": 8258,
-  "2023-10-07": 8258,
-  "2023-10-08": 8258,
-  "2023-10-09": 8258,
-  "2023-10-10": 8258,
-  "2023-10-11": 8258,
-  "2023-10-12": 8258,
-  "2023-10-13": 8258,
-  "2023-10-14": 8258,
-  "2023-10-15": 8258,
-  "2023-10-16": 8258,
-  "2023-10-17": 8258,
-  "2023-10-18": 8258,
-  "2023-10-19": 8258,
-  "2023-10-20": 8258,
-  "2023-10-21": 8258,
-  "2023-10-22": 8258,
-  "2023-10-23": 8258,
-  "2023-10-24": 8258,
-  "2023-10-25": 8258,
-  "2023-10-26": 8258,
-  "2023-10-27": 8258,
-  "2023-10-28": 8258,
-  "2023-10-29": 8258,
-  "2023-10-30": 8258,
-  "2023-10-31": 8258,
-  "2023-11-01": 8258,
-  "2023-11-02": 8258,
-  "2023-11-03": 8258,
-  "2023-11-04": 8258,
-  "2023-11-05": 8258,
-  "2023-11-06": 8258,
-  "2023-11-07": 8258,
-  "2023-11-08": 8258,
-  "2023-11-09": 8258,
-  "2023-11-10": 8258,
-  "2023-11-11": 8258,
-  "2023-11-12": 8258,
-  "2023-11-13": 8258,
-  "2023-11-14": 8258,
-  "2023-11-15": 8258,
-  "2023-11-16": 8258,
-  "2023-11-17": 8258,
-  "2023-11-18": 8258,
-  "2023-11-19": 8258,
-  "2023-11-20": 8258,
-  "2023-11-21": 8258,
-  "2023-11-22": 8258,
-  "2023-11-23": 8258,
-  "2023-11-24": 8258,
-  "2023-11-25": 8258,
-  "2023-11-26": 8258,
-  "2023-11-27": 8258,
-  "2023-11-28": 8258,
-  "2023-11-29": 8258,
-  "2023-11-30": 8258,
-  "2023-12-01": 8258,
-  "2023-12-02": 8258,
-  "2023-12-03": 8258,
-  "2023-12-04": 8258,
-  "2023-12-05": 8258,
-  "2023-12-06": 8258,
-  "2023-12-07": 8258,
-  "2023-12-08": 8258,
-  "2023-12-09": 8258,
-  "2023-12-10": 8258,
-  "2023-12-11": 8258,
-  "2023-12-12": 8258,
-  "2023-12-13": 8258,
-  "2023-12-14": 8258,
-  "2023-12-15": 8258,
-  "2023-12-16": 8258,
-  "2023-12-17": 8258,
-  "2023-12-18": 8258,
-  "2023-12-19": 8258,
-  "2023-12-20": 8258,
-  "2023-12-21": 8258,
-  "2023-12-22": 8258,
-  "2023-12-23": 8258,
-  "2023-12-24": 8258,
-  "2023-12-25": 8258,
-  "2023-12-26": 8258,
-  "2023-12-27": 8258,
-  "2023-12-30": 8258,
-  "2023-12-31": 8258,
-  "2024-01-01": 8258,
-  "2024-01-02": 8258,
-  "2024-01-03": 8258
+  "2024-01-17": 8258,
+  "date_first_scraped": "2021-12-21",
+  "description": "'Tis the season to be melancholy.",
+  "name": "Alone on Christmas",
+  "tracks": [
+    {
+      "album": {
+        "name": "Recovering The Satellites",
+        "url": "https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295066,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi"
+    },
+    {
+      "album": {
+        "name": "Films About Ghosts (The Best Of Counting Crows)",
+        "url": "https://open.spotify.com/album/7FJlveNFRrWYiD6xWGPHSb"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297293,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/5V8518q2DbhoGDlI3qW1Be"
+    },
+    {
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221706,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/0QUxMKYur7kAtauLnmyBCc"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/4XMWdNscE9jXdgGJef0KDH"
+      },
+      "artists": [
+        {
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171831,
+      "name": "Christmas Ain't like Christmas Anymore",
+      "url": "https://open.spotify.com/track/4nRWjWjiytZGCKxVIiJAqD"
+    },
+    {
+      "album": {
+        "name": "Stories We Could Tell",
+        "url": "https://open.spotify.com/album/5ucnCsHTkWKXCcCjrSEdw0"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206040,
+      "name": "Christmas Eve Can Kill You",
+      "url": "https://open.spotify.com/track/6siVeocuKKnuynQK4PV7AE"
+    },
+    {
+      "album": {
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+    },
+    {
+      "album": {
+        "name": "Christmas Thanks For Nothing EP",
+        "url": "https://open.spotify.com/album/5bQr6FKJIFGrUT8gduh3ue"
+      },
+      "artists": [
+        {
+          "name": "Slow Club",
+          "url": "https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272426,
+      "name": "Christmas TV",
+      "url": "https://open.spotify.com/track/3rY8Jrj9Kl1hOxQEy3q0KL"
+    },
+    {
+      "album": {
+        "name": "A Very Special Christmas 25th Anniversary",
+        "url": "https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/7LcA08RfpEFEV0vJUsyDkA"
+    },
+    {
+      "album": {
+        "name": "Christmas Without You",
+        "url": "https://open.spotify.com/album/0a0KVX4qdIea6J0JdVHc6J"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197146,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/4gWpUjTbcwASiRVkJM319B"
+    },
+    {
+      "album": {
+        "name": "The Best Of/20th Century Masters: The Christmas Collection",
+        "url": "https://open.spotify.com/album/1x6bJdWl3Imquoi2Mu0BsC"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250893,
+      "name": "Cold December Nights",
+      "url": "https://open.spotify.com/track/3tgAvM8H74EqEywozKEz6u"
+    },
+    {
+      "album": {
+        "name": "Christmas Interpretations",
+        "url": "https://open.spotify.com/album/16LQRRb5ha3lxAwfZneVlq"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251693,
+      "name": "Cold December Nights",
+      "url": "https://open.spotify.com/track/5YD2z1KMfT3UihBJN0by39"
+    },
+    {
+      "album": {
+        "name": "Christmas Wish",
+        "url": "https://open.spotify.com/album/3NLZKv2k2obOnj34G2TSpn"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232053,
+      "name": "Every Time It Snows",
+      "url": "https://open.spotify.com/track/0ZyUVB6M3wzdVgO9VwtJZA"
+    },
+    {
+      "album": {
+        "name": "Christmas Wish",
+        "url": "https://open.spotify.com/album/2jTzkSMzKDEzU6iMuTQ48s"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232053,
+      "name": "Every Time It Snows",
+      "url": "https://open.spotify.com/track/2n4eizAr2bnAinEUR0DrFm"
+    },
+    {
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305226,
+      "name": "Every Year, Every Christmas",
+      "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
+    },
+    {
+      "album": {
+        "name": "A Hundred Miles Or More: A Collection",
+        "url": "https://open.spotify.com/album/2i3Fr0qXGyR57MfWNPcMKP"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        },
+        {
+          "name": "Natalie MacMaster",
+          "url": "https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390853,
+      "name": "Get Me Through December",
+      "url": "https://open.spotify.com/track/0Tiu34ejKfhhTY8nzUOUH6"
+    },
+    {
+      "album": {
+        "name": "A Hundred Miles Or More: A Collection",
+        "url": "https://open.spotify.com/album/2dE7kEc4OJzVRYiqt5E2pW"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        },
+        {
+          "name": "Natalie MacMaster",
+          "url": "https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 390853,
+      "name": "Get Me Through December",
+      "url": "https://open.spotify.com/track/70emYpaRMLv68qc85Zz6H3"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170964,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/6aT8FGBTfyAhIDQ0IDaebz"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170964,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7Hz6LLOVxrojLPIHJJ1S0E"
+    },
+    {
+      "album": {
+        "name": "Pure... Christmas",
+        "url": "https://open.spotify.com/album/3zTUnGeuX4PVvYAfNZlgkr"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241506,
+      "name": "I Don't Wanna Spend One More Christmas Without You",
+      "url": "https://open.spotify.com/track/5Kbd1qQPtaNpmtWUoOU9VV"
+    },
+    {
+      "album": {
+        "name": "Home For Christmas (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OkMfIZVXt3ju1eRrKt9W9"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "I Don't Wanna Spend One More Christmas Without You",
+      "url": "https://open.spotify.com/track/76D8jOHpc25GO952UlCbla"
+    },
+    {
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264826,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/0EJGgmA2uxiasDM5DmDKL1"
+    },
+    {
+      "album": {
+        "name": "Time Is Passed",
+        "url": "https://open.spotify.com/album/42zpwqhjCUHcaOVP6nuG8m"
+      },
+      "artists": [
+        {
+          "name": "Foxtails Brigade",
+          "url": "https://open.spotify.com/artist/6VNIsExpc6Sklt3ZWNXVtJ"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232906,
+      "name": "I'm Not Really in the Christmas Mood This Year",
+      "url": "https://open.spotify.com/track/1erwt70Knt2Rcl3V3xuDNC"
+    },
+    {
+      "album": {
+        "name": "Time Is Passed",
+        "url": "https://open.spotify.com/album/6oFbP7RmY2QrjGFg8nCMr2"
+      },
+      "artists": [
+        {
+          "name": "Foxtails Brigade",
+          "url": "https://open.spotify.com/artist/6VNIsExpc6Sklt3ZWNXVtJ"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "I'm Not Really in the Christmas Mood This Year",
+      "url": "https://open.spotify.com/track/5BWCqLhRe7mi8YVnBaDH8U"
+    },
+    {
+      "album": {
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/5EgWobILhHiYIpMOt8qkPb"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 154466,
+      "name": "It Doesn't Have To Be That Way",
+      "url": "https://open.spotify.com/track/2tYNY7zPBmB7XmXBbc8yJy"
+    },
+    {
+      "album": {
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154466,
+      "name": "It Doesn't Have to Be That Way",
+      "url": "https://open.spotify.com/track/5DqSOPvzr2LPxM0yKeR0qZ"
+    },
+    {
+      "album": {
+        "name": "Christmas Is The Time To Say I Love You",
+        "url": "https://open.spotify.com/album/3kMWXBaZ2veV8WZDL272DB"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "It\u2019s Not Christmas Without You",
+      "url": "https://open.spotify.com/track/5ShynzpggkdRNrOA4Mw035"
+    },
+    {
+      "album": {
+        "name": "Christmas Is The Time To Say I Love You",
+        "url": "https://open.spotify.com/album/6xk8LgSpBF7n0CAhc1S82p"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233733,
+      "name": "It\u2019s Not Christmas Without You",
+      "url": "https://open.spotify.com/track/5Tw3hk9eyKLJQHuVjqK6zO"
+    },
+    {
+      "album": {
+        "name": "A Classic Motown Christmas",
+        "url": "https://open.spotify.com/album/0laHjSQdV1SL7bGFHkhvtd"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145160,
+      "name": "Just A Lonely Christmas",
+      "url": "https://open.spotify.com/track/7Jw1oHkY6CnA25C9we9rXY"
+    },
+    {
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
+        "name": "Christmas Hits",
+        "url": "https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266146,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/0QPYn15U8IQHKcH2LDfrek"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Very KT Christmas",
+        "url": "https://open.spotify.com/album/4ZkKPj74Ia1jPFeXk4AdQL"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257493,
+      "name": "Lonely This Christmas",
+      "url": "https://open.spotify.com/track/2zW28wjFkMhxpoCCLaCD1n"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Very KT Christmas",
+        "url": "https://open.spotify.com/album/0SQB2ET4MjidXbuPyNqpEd"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257493,
+      "name": "Lonely This Christmas",
+      "url": "https://open.spotify.com/track/3CIvynowLFibpsDYR52OZ7"
+    },
+    {
+      "album": {
+        "name": "Christmas Portrait (Special Edition/Reissue)",
+        "url": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "Merry Christmas Darling - Remix",
+      "url": "https://open.spotify.com/track/0z5HSQGWgnjdNvwbOmhB2w"
+    },
+    {
+      "album": {
+        "name": "The Essential Collection (1965-1997)",
+        "url": "https://open.spotify.com/album/6QMgqNXQkj8gbZzIRIHR8W"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185906,
+      "name": "Merry Christmas Darling - Single Version",
+      "url": "https://open.spotify.com/track/7nxvcuBjqp1F2Jxqvtyx7H"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199080,
+      "name": "Please Come Home for Christmas (Bells Will Be Ringing)",
+      "url": "https://open.spotify.com/track/2mTtNTa2fnj9m4uyBbKPDr"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199080,
+      "name": "Please Come Home for Christmas (Bells Will Be Ringing)",
+      "url": "https://open.spotify.com/track/42X0uRpzqXXHJzX0mzThGL"
+    },
+    {
+      "album": {
+        "name": "Portrait: The Music Of Dan Fogelberg From 1972-1997",
+        "url": "https://open.spotify.com/album/3xzrUc5WHC8dv9UmiUWxH1"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320893,
+      "name": "Same Old Lang Syne",
+      "url": "https://open.spotify.com/track/4Vl4sf0EljY8GxAyjqJD6p"
+    },
+    {
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214160,
+      "name": "The Coldest Night of the Year",
+      "url": "https://open.spotify.com/track/4G1riMW9K3O9nI49UawBIX"
+    },
+    {
+      "album": {
+        "name": "Christmas In Soulsville",
+        "url": "https://open.spotify.com/album/00OBaIgdYLlBLRNWng5Sjq"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207333,
+      "name": "What Do The Lonely Do At Christmas?",
+      "url": "https://open.spotify.com/track/78yD3lSwoeA0NAvKNSyLdC"
+    },
+    {
+      "album": {
+        "name": "Sunshine!",
+        "url": "https://open.spotify.com/album/0v3fyTk380rEjpgufLVtGF"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "What Do The Lonely Do At Christmas?",
+      "url": "https://open.spotify.com/track/3sXl6SoKsHjCLKyrXu9HlD"
+    },
+    {
+      "album": {
+        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
+        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266640,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O"
+    },
+    {
+      "album": {
+        "name": "Wintersong",
+        "url": "https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210906,
+      "name": "Wintersong",
+      "url": "https://open.spotify.com/track/4p8qhuurSA5UOuMAFiyRSj"
+    },
+    {
+      "album": {
+        "name": "Christmas Hits",
+        "url": "https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211293,
+      "name": "Wintersong",
+      "url": "https://open.spotify.com/track/3KBh7JAfMwMhQ7OeDd8MSX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbgPVq1ydgmS"
 }

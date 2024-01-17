@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Megan Moroney
+> The extraordinary women making great country music today\. Cover: Hailey Whitters
 
-354 songs - 19 hr 23 min
+356 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Mama, Dolly, Jesus](https://open.spotify.com/track/7zggetlqMBzNpdCM0mdfzS) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 2:45 | 2022-12-09 | 2023-07-01 |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2022-03-25 |  |
 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 | 2021-12-01 |  |
+| [Match For My Memory](https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory](https://open.spotify.com/album/1btxskaPEUaAs39MnammfS) | 2:59 | 2024-01-12 |  |
 | [Maybe I'm Still Drunk](https://open.spotify.com/track/6pjaAhEIehFGEr2cQOrTkR) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Maybe I'm Still Drunk](https://open.spotify.com/album/0jvK7EcGlTq0ziRSMoC3Qw) | 3:30 | 2022-03-25 | 2022-04-21 |
 | [Me About Me](https://open.spotify.com/track/5T6blAaKgFyfRZ7yyK4SoQ) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Baytown EP](https://open.spotify.com/album/11QgrQnSwv0EKBEBjL244C) | 2:46 | 2021-12-01 | 2022-06-21 |
 | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/19GUqtVjLU3u6WKDYpOw5i) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:25 | 2023-07-14 | 2023-07-27 |
@@ -275,12 +276,12 @@
 | [Stay Golden](https://open.spotify.com/track/76GawWqBDrAdNzJDwqwiNF) | [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Stay Golden](https://open.spotify.com/album/2mz71ERp3XMn78Cel9SYiA) | 3:08 | 2022-03-25 | 2022-04-21 |
 | [Stompin' Grounds](https://open.spotify.com/track/53vwWIEwfyoYtblcIngWIs) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Stompin' Grounds](https://open.spotify.com/album/6ZrH2Rlec09MDpvAGjS3UN) | 3:19 | 2023-02-17 |  |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2021-12-01 |  |
-| [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 | 2022-08-05 |  |
+| [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 | 2022-08-05 | 2024-01-05 |
 | [Strangers](https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Strangers](https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY) | 3:32 | 2022-01-28 |  |
 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 | 2021-12-01 |  |
 | [Strawberry Wine \- 2021 Version](https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Did I Shave My Legs For This? \(25th Anniversary Edition\)](https://open.spotify.com/album/7LLjjbEIbUTpMROr1AkCSL) | 5:19 | 2021-12-01 | 2022-07-29 |
 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 | 2021-12-01 |  |
-| [Summer Don't Go](https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Summer Don't Go](https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK) | 2:48 | 2023-09-15 |  |
+| [Summer Don't Go](https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Summer Don't Go](https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK) | 2:48 | 2023-09-15 | 2024-01-17 |
 | [Sunday Morning Kinda Saturday Night](https://open.spotify.com/track/4xhnOiqFLxGf3IHqMiOm7C) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Sunday Morning Kinda Saturday Night](https://open.spotify.com/album/5FTBgPGbuzKi2l5IO2pYPc) | 3:32 | 2021-12-01 | 2022-08-22 |
 | [T\-Shirt](https://open.spotify.com/track/7xtgdNm04XHg4UphNBpLQx) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [backstory](https://open.spotify.com/album/5Ao4kczlRWv1zeEuwCy8M9) | 2:41 | 2021-12-01 | 2022-07-20 |
 | [Table For One Drinking For Two](https://open.spotify.com/track/6Qi5Bc5qDoYt7P9H2lTTiR) | [Dani Taylor](https://open.spotify.com/artist/2bLjPY6ejtLITcEE7plvG8) | [Table For One Drinking For Two](https://open.spotify.com/album/5MTCfDCGJQta6G1MK759j7) | 2:57 | 2021-12-01 | 2022-07-27 |
@@ -318,6 +319,7 @@
 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 | 2021-12-01 |  |
 | [To Hell & Back](https://open.spotify.com/track/226TUHo7YO5d5ceR0sg1aG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:15 | 2021-12-01 | 2022-07-29 |
 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 | 2022-07-22 |  |
+| [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 | 2024-01-05 |  |
 | [Trippin'](https://open.spotify.com/track/7hEVupgH8dwFemNPxTXscc) | [Amy Nelson](https://open.spotify.com/artist/1DN2RGLfpo8AxGwLw7Jw2w) | [Trippin'](https://open.spotify.com/album/4HEPilU7MKEtHoAzSFCT6R) | 3:23 | 2022-03-25 | 2022-04-18 |
 | [Turn Up the Night](https://open.spotify.com/track/5OZQEBXuSyDndyhLSmfsO4) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Turn Up the Night](https://open.spotify.com/album/4567kBWJTp2BWkwczE46fy) | 3:18 | 2022-03-25 | 2022-04-18 |
 | [Us](https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us](https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb) | 3:03 | 2021-12-01 | 2023-03-26 |

@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 209760,
       "name": "El Cachanilla",
       "url": "https://open.spotify.com/track/0TRM2GPcSWaZWJUr4cMDin"
@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 136866,
+      "name": "Esperanza Valero",
+      "url": "https://open.spotify.com/track/6YERvxBDNRxomS8A4YYR8i"
+    },
+    {
+      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -694,7 +712,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-08",
       "duration_ms": 160066,
       "name": "Esta Tristeza M\u00eda",
       "url": "https://open.spotify.com/track/3JaqxH3f3lGBXYQkhdRPRY"
@@ -1374,6 +1392,24 @@
       "duration_ms": 163826,
       "name": "Quiero Charlar Con La Muerte",
       "url": "https://open.spotify.com/track/5P1Fm2SSTWfcRmpCCjxwHd"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9reme Como Te Quiero",
+        "url": "https://open.spotify.com/album/7HQP7d39VLU5cwv2hGcO7X"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Qui\u00e9reme Como Te Quiero",
+      "url": "https://open.spotify.com/track/63Y5mRtWfTN8yarc8s7rCY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xM8v05mHON.md) - [plain]
 
 > Feed your focus with busy restaurant sounds, background chatter and coffee shop ambience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,788 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,477 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

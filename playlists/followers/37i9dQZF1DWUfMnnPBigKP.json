@@ -1,735 +1,1317 @@
 {
-  "2021-12-25": 20034,
-  "2021-12-26": 20040,
-  "2021-12-27": 20049,
-  "2021-12-28": 20049,
-  "2021-12-29": 20054,
-  "2021-12-30": 20061,
-  "2021-12-31": 20064,
-  "2022-01-01": 20077,
-  "2022-01-02": 20087,
-  "2022-01-03": 20093,
-  "2022-01-04": 20101,
-  "2022-01-05": 20107,
-  "2022-01-06": 20121,
-  "2022-01-07": 20122,
-  "2022-01-08": 20136,
-  "2022-01-09": 20136,
-  "2022-01-10": 20142,
-  "2022-01-11": 20157,
-  "2022-01-12": 20163,
-  "2022-01-13": 20178,
-  "2022-01-14": 20189,
-  "2022-01-15": 20211,
-  "2022-01-16": 20212,
-  "2022-01-17": 20245,
-  "2022-01-18": 20245,
-  "2022-01-19": 20256,
-  "2022-01-20": 20262,
-  "2022-01-21": 20272,
-  "2022-01-22": 20280,
-  "2022-01-23": 20286,
-  "2022-01-24": 20298,
-  "2022-01-25": 20310,
-  "2022-01-26": 20310,
-  "2022-01-27": 20310,
-  "2022-01-28": 20310,
-  "2022-01-29": 20310,
-  "2022-01-30": 20310,
-  "2022-01-31": 20310,
-  "2022-02-01": 20310,
-  "2022-02-02": 20310,
-  "2022-02-03": 20310,
-  "2022-02-04": 20310,
-  "2022-02-05": 20310,
-  "2022-02-06": 20310,
-  "2022-02-07": 20310,
-  "2022-02-08": 20310,
-  "2022-02-09": 20310,
-  "2022-02-10": 20310,
-  "2022-02-11": 20310,
-  "2022-02-12": 20310,
-  "2022-02-13": 20310,
-  "2022-02-14": 20310,
-  "2022-02-15": 20310,
-  "2022-02-16": 20310,
-  "2022-02-17": 20310,
-  "2022-02-18": 20310,
-  "2022-02-19": 20310,
-  "2022-02-20": 20310,
-  "2022-02-21": 20310,
-  "2022-02-22": 20310,
-  "2022-02-23": 20310,
-  "2022-02-24": 20310,
-  "2022-02-25": 20310,
-  "2022-02-26": 20310,
-  "2022-02-27": 20310,
-  "2022-02-28": 20310,
-  "2022-03-01": 20310,
-  "2022-03-02": 20310,
-  "2022-03-03": 20310,
-  "2022-03-04": 20310,
-  "2022-03-05": 20310,
-  "2022-03-06": 20310,
-  "2022-03-07": 20310,
-  "2022-03-08": 20310,
-  "2022-03-09": 20310,
-  "2022-03-10": 20310,
-  "2022-03-11": 20310,
-  "2022-03-12": 20310,
-  "2022-03-13": 20310,
-  "2022-03-14": 20310,
-  "2022-03-15": 20310,
-  "2022-03-16": 20310,
-  "2022-03-17": 20310,
-  "2022-03-18": 20310,
-  "2022-03-19": 20310,
-  "2022-03-20": 20310,
-  "2022-03-21": 20310,
-  "2022-03-22": 20310,
-  "2022-03-23": 20310,
-  "2022-03-24": 20310,
-  "2022-03-25": 20310,
-  "2022-03-26": 20310,
-  "2022-03-27": 20310,
-  "2022-03-28": 20310,
-  "2022-03-30": 20310,
-  "2022-03-31": 20310,
-  "2022-04-01": 20310,
-  "2022-04-02": 20310,
-  "2022-04-03": 20310,
-  "2022-04-04": 20310,
-  "2022-04-05": 20310,
-  "2022-04-06": 20310,
-  "2022-04-07": 20310,
-  "2022-04-08": 20310,
-  "2022-04-09": 20310,
-  "2022-04-10": 20310,
-  "2022-04-11": 20310,
-  "2022-04-12": 20310,
-  "2022-04-13": 20310,
-  "2022-04-14": 20310,
-  "2022-04-15": 20310,
-  "2022-04-16": 20310,
-  "2022-04-17": 20310,
-  "2022-04-18": 20310,
-  "2022-04-19": 20310,
-  "2022-04-20": 20310,
-  "2022-04-21": 20310,
-  "2022-04-22": 20310,
-  "2022-04-23": 20310,
-  "2022-04-24": 20310,
-  "2022-04-25": 20310,
-  "2022-04-26": 20310,
-  "2022-04-27": 20310,
-  "2022-04-28": 20310,
-  "2022-04-29": 20310,
-  "2022-04-30": 20310,
-  "2022-05-01": 20310,
-  "2022-05-02": 20310,
-  "2022-05-03": 20310,
-  "2022-05-04": 20310,
-  "2022-05-05": 20310,
-  "2022-05-06": 20310,
-  "2022-05-07": 20310,
-  "2022-05-08": 20310,
-  "2022-05-09": 20310,
-  "2022-05-10": 20310,
-  "2022-05-11": 20310,
-  "2022-05-12": 20310,
-  "2022-05-13": 20310,
-  "2022-05-14": 20310,
-  "2022-05-15": 20310,
-  "2022-05-16": 20310,
-  "2022-05-17": 20310,
-  "2022-05-18": 20310,
-  "2022-05-19": 20310,
-  "2022-05-20": 20310,
-  "2022-05-21": 20310,
-  "2022-05-22": 20310,
-  "2022-05-23": 20310,
-  "2022-05-24": 20310,
-  "2022-05-25": 20310,
-  "2022-05-26": 20310,
-  "2022-05-27": 20310,
-  "2022-05-28": 20310,
-  "2022-05-29": 20310,
-  "2022-05-30": 20310,
-  "2022-05-31": 20310,
-  "2022-06-01": 20310,
-  "2022-06-02": 20310,
-  "2022-06-03": 20310,
-  "2022-06-04": 20310,
-  "2022-06-05": 20310,
-  "2022-06-06": 20310,
-  "2022-06-07": 20310,
-  "2022-06-08": 20310,
-  "2022-06-09": 20310,
-  "2022-06-10": 20310,
-  "2022-06-11": 20310,
-  "2022-06-12": 20310,
-  "2022-06-13": 20310,
-  "2022-06-14": 20310,
-  "2022-06-15": 20310,
-  "2022-06-16": 20310,
-  "2022-06-17": 20310,
-  "2022-06-18": 20310,
-  "2022-06-19": 20310,
-  "2022-06-20": 20310,
-  "2022-06-21": 20310,
-  "2022-06-22": 20310,
-  "2022-06-23": 20310,
-  "2022-06-24": 20310,
-  "2022-06-25": 20310,
-  "2022-06-26": 20310,
-  "2022-06-27": 20310,
-  "2022-06-28": 20310,
-  "2022-06-29": 20310,
-  "2022-06-30": 20310,
-  "2022-07-01": 20310,
-  "2022-07-02": 20310,
-  "2022-07-03": 20310,
-  "2022-07-04": 20310,
-  "2022-07-05": 20310,
-  "2022-07-06": 20310,
-  "2022-07-07": 20310,
-  "2022-07-08": 20310,
-  "2022-07-09": 20310,
-  "2022-07-10": 20310,
-  "2022-07-11": 20310,
-  "2022-07-12": 20310,
-  "2022-07-13": 20310,
-  "2022-07-14": 20310,
-  "2022-07-15": 20310,
-  "2022-07-16": 20310,
-  "2022-07-17": 20310,
-  "2022-07-18": 20310,
-  "2022-07-19": 20310,
-  "2022-07-20": 20310,
-  "2022-07-21": 20310,
-  "2022-07-22": 20310,
-  "2022-07-23": 20310,
-  "2022-07-24": 20310,
-  "2022-07-25": 20310,
-  "2022-07-26": 20310,
-  "2022-07-27": 20310,
-  "2022-07-28": 20310,
-  "2022-07-29": 20310,
-  "2022-07-30": 20310,
-  "2022-07-31": 20310,
-  "2022-08-01": 20310,
-  "2022-08-02": 20310,
-  "2022-08-03": 20310,
-  "2022-08-04": 20310,
-  "2022-08-05": 20310,
-  "2022-08-06": 20310,
-  "2022-08-07": 20310,
-  "2022-08-08": 20310,
-  "2022-08-09": 20310,
-  "2022-08-10": 20310,
-  "2022-08-11": 20310,
-  "2022-08-12": 20310,
-  "2022-08-13": 20310,
-  "2022-08-14": 20310,
-  "2022-08-15": 20310,
-  "2022-08-16": 20310,
-  "2022-08-17": 20310,
-  "2022-08-18": 20310,
-  "2022-08-19": 20310,
-  "2022-08-20": 20310,
-  "2022-08-21": 20310,
-  "2022-08-22": 20310,
-  "2022-08-23": 20310,
-  "2022-08-24": 20310,
-  "2022-08-25": 20310,
-  "2022-08-26": 20310,
-  "2022-08-27": 20310,
-  "2022-08-28": 20310,
-  "2022-08-29": 20310,
-  "2022-08-30": 20310,
-  "2022-08-31": 20310,
-  "2022-09-01": 20310,
-  "2022-09-02": 20310,
-  "2022-09-03": 20310,
-  "2022-09-04": 20310,
-  "2022-09-05": 20310,
-  "2022-09-06": 20310,
-  "2022-09-07": 20310,
-  "2022-09-09": 20310,
-  "2022-09-10": 20310,
-  "2022-09-11": 20310,
-  "2022-09-12": 20310,
-  "2022-09-13": 20310,
-  "2022-09-15": 20310,
-  "2022-09-16": 20310,
-  "2022-09-17": 20310,
-  "2022-09-18": 20310,
-  "2022-09-19": 20310,
-  "2022-09-20": 20310,
-  "2022-09-21": 20310,
-  "2022-09-22": 20310,
-  "2022-09-23": 20310,
-  "2022-09-24": 20310,
-  "2022-09-25": 20310,
-  "2022-09-26": 20310,
-  "2022-09-27": 20310,
-  "2022-09-28": 20310,
-  "2022-09-29": 20310,
-  "2022-09-30": 20310,
-  "2022-10-01": 20310,
-  "2022-10-02": 20310,
-  "2022-10-03": 20310,
-  "2022-10-04": 20310,
-  "2022-10-05": 20310,
-  "2022-10-06": 20310,
-  "2022-10-07": 20310,
-  "2022-10-08": 20310,
-  "2022-10-09": 20310,
-  "2022-10-10": 20310,
-  "2022-10-11": 20310,
-  "2022-10-12": 20310,
-  "2022-10-13": 20310,
-  "2022-10-14": 20310,
-  "2022-10-15": 20310,
-  "2022-10-16": 20310,
-  "2022-10-17": 20310,
-  "2022-10-18": 20310,
-  "2022-10-19": 20310,
-  "2022-10-20": 20310,
-  "2022-10-21": 20310,
-  "2022-10-22": 20310,
-  "2022-10-23": 20310,
-  "2022-10-24": 20310,
-  "2022-10-25": 20310,
-  "2022-10-26": 20310,
-  "2022-10-27": 20310,
-  "2022-10-28": 20310,
-  "2022-10-29": 20310,
-  "2022-10-30": 20310,
-  "2022-10-31": 20310,
-  "2022-11-01": 20310,
-  "2022-11-02": 20310,
-  "2022-11-03": 20310,
-  "2022-11-04": 20310,
-  "2022-11-05": 20310,
-  "2022-11-06": 20310,
-  "2022-11-07": 20310,
-  "2022-11-08": 20310,
-  "2022-11-09": 20310,
-  "2022-11-10": 20310,
-  "2022-11-11": 20310,
-  "2022-11-12": 20310,
-  "2022-11-13": 20310,
-  "2022-11-14": 20310,
-  "2022-11-15": 20310,
-  "2022-11-16": 20310,
-  "2022-11-17": 20310,
-  "2022-11-18": 20310,
-  "2022-11-19": 20310,
-  "2022-11-20": 20310,
-  "2022-11-21": 20310,
-  "2022-11-22": 20310,
-  "2022-11-23": 20310,
-  "2022-11-24": 20310,
-  "2022-11-25": 20310,
-  "2022-11-26": 20310,
-  "2022-11-27": 20310,
-  "2022-11-28": 20310,
-  "2022-11-29": 20310,
-  "2022-11-30": 20310,
-  "2022-12-01": 20310,
-  "2022-12-02": 20310,
-  "2022-12-03": 20310,
-  "2022-12-04": 20310,
-  "2022-12-05": 20310,
-  "2022-12-06": 20310,
-  "2022-12-07": 20310,
-  "2022-12-08": 20310,
-  "2022-12-09": 20310,
-  "2022-12-10": 20310,
-  "2022-12-11": 20310,
-  "2022-12-12": 20310,
-  "2022-12-13": 20310,
-  "2022-12-14": 20310,
-  "2022-12-15": 20310,
-  "2022-12-16": 20310,
-  "2022-12-17": 20310,
-  "2022-12-18": 20310,
-  "2022-12-19": 20310,
-  "2022-12-20": 20310,
-  "2022-12-21": 20310,
-  "2022-12-22": 20310,
-  "2022-12-24": 20310,
-  "2022-12-25": 20310,
-  "2022-12-26": 20310,
-  "2022-12-27": 20310,
-  "2022-12-28": 20310,
-  "2022-12-29": 20310,
-  "2022-12-30": 20310,
-  "2022-12-31": 20310,
-  "2023-01-01": 20310,
-  "2023-01-02": 20310,
-  "2023-01-03": 20310,
-  "2023-01-04": 20310,
-  "2023-01-05": 20310,
-  "2023-01-06": 20310,
-  "2023-01-07": 20310,
-  "2023-01-08": 20310,
-  "2023-01-09": 20310,
-  "2023-01-10": 20310,
-  "2023-01-11": 20310,
-  "2023-01-12": 20310,
-  "2023-01-13": 20310,
-  "2023-01-14": 20310,
-  "2023-01-15": 20310,
-  "2023-01-16": 20310,
-  "2023-01-17": 20310,
-  "2023-01-18": 20310,
-  "2023-01-19": 20310,
-  "2023-01-20": 20310,
-  "2023-01-21": 20310,
-  "2023-01-22": 20310,
-  "2023-01-23": 20310,
-  "2023-01-24": 20310,
-  "2023-01-25": 20310,
-  "2023-01-26": 20310,
-  "2023-01-27": 20310,
-  "2023-01-28": 20310,
-  "2023-01-29": 20310,
-  "2023-01-30": 20310,
-  "2023-01-31": 20310,
-  "2023-02-01": 20310,
-  "2023-02-02": 20310,
-  "2023-02-03": 20310,
-  "2023-02-04": 20310,
-  "2023-02-05": 20310,
-  "2023-02-06": 20310,
-  "2023-02-07": 20310,
-  "2023-02-08": 20310,
-  "2023-02-09": 20310,
-  "2023-02-10": 20310,
-  "2023-02-11": 20310,
-  "2023-02-12": 20310,
-  "2023-02-13": 20310,
-  "2023-02-14": 20310,
-  "2023-02-15": 20310,
-  "2023-02-16": 20310,
-  "2023-02-17": 20310,
-  "2023-02-18": 20310,
-  "2023-02-19": 20310,
-  "2023-02-20": 20310,
-  "2023-02-21": 20310,
-  "2023-02-22": 20310,
-  "2023-02-23": 20310,
-  "2023-02-24": 20310,
-  "2023-02-25": 20310,
-  "2023-02-26": 20310,
-  "2023-02-27": 20310,
-  "2023-02-28": 20310,
-  "2023-03-01": 20310,
-  "2023-03-02": 20310,
-  "2023-03-03": 20310,
-  "2023-03-04": 20310,
-  "2023-03-05": 20310,
-  "2023-03-06": 20310,
-  "2023-03-07": 20310,
-  "2023-03-08": 20310,
-  "2023-03-09": 20310,
-  "2023-03-10": 20310,
-  "2023-03-11": 20310,
-  "2023-03-12": 20310,
-  "2023-03-13": 20310,
-  "2023-03-14": 20310,
-  "2023-03-15": 20310,
-  "2023-03-16": 20310,
-  "2023-03-17": 20310,
-  "2023-03-18": 20310,
-  "2023-03-19": 20310,
-  "2023-03-20": 20310,
-  "2023-03-21": 20310,
-  "2023-03-22": 20310,
-  "2023-03-23": 20310,
-  "2023-03-24": 20310,
-  "2023-03-25": 20310,
-  "2023-03-26": 20310,
-  "2023-03-27": 20310,
-  "2023-03-28": 20310,
-  "2023-03-29": 20310,
-  "2023-03-30": 20310,
-  "2023-03-31": 20310,
-  "2023-04-01": 20310,
-  "2023-04-02": 20310,
-  "2023-04-03": 20310,
-  "2023-04-04": 20310,
-  "2023-04-05": 20310,
-  "2023-04-06": 20310,
-  "2023-04-07": 20310,
-  "2023-04-09": 20310,
-  "2023-04-10": 20310,
-  "2023-04-11": 20310,
-  "2023-04-12": 20310,
-  "2023-04-13": 20310,
-  "2023-04-14": 20310,
-  "2023-04-15": 20310,
-  "2023-04-16": 20310,
-  "2023-04-17": 20310,
-  "2023-04-18": 20310,
-  "2023-04-19": 20310,
-  "2023-04-20": 20310,
-  "2023-04-21": 20310,
-  "2023-04-22": 20310,
-  "2023-04-23": 20310,
-  "2023-04-24": 20310,
-  "2023-04-25": 20310,
-  "2023-04-26": 20310,
-  "2023-04-27": 20310,
-  "2023-04-28": 20310,
-  "2023-04-29": 20310,
-  "2023-04-30": 20310,
-  "2023-05-01": 20310,
-  "2023-05-02": 20310,
-  "2023-05-03": 20310,
-  "2023-05-04": 20310,
-  "2023-05-05": 20310,
-  "2023-05-06": 20310,
-  "2023-05-07": 20310,
-  "2023-05-08": 20310,
-  "2023-05-09": 20310,
-  "2023-05-10": 20310,
-  "2023-05-11": 20310,
-  "2023-05-12": 20310,
-  "2023-05-13": 20310,
-  "2023-05-14": 20310,
-  "2023-05-15": 20310,
-  "2023-05-16": 20310,
-  "2023-05-17": 20310,
-  "2023-05-18": 20310,
-  "2023-05-19": 20310,
-  "2023-05-20": 20310,
-  "2023-05-21": 20310,
-  "2023-05-22": 20310,
-  "2023-05-23": 20310,
-  "2023-05-24": 20310,
-  "2023-05-25": 20310,
-  "2023-05-26": 20310,
-  "2023-05-27": 20310,
-  "2023-05-28": 20310,
-  "2023-05-29": 20310,
-  "2023-05-30": 20310,
-  "2023-05-31": 20310,
-  "2023-06-01": 20310,
-  "2023-06-02": 20310,
-  "2023-06-03": 20310,
-  "2023-06-04": 20310,
-  "2023-06-05": 20310,
-  "2023-06-06": 20310,
-  "2023-06-07": 20310,
-  "2023-06-08": 20310,
-  "2023-06-09": 20310,
-  "2023-06-10": 20310,
-  "2023-06-11": 20310,
-  "2023-06-12": 20310,
-  "2023-06-13": 20310,
-  "2023-06-14": 20310,
-  "2023-06-15": 20310,
-  "2023-06-16": 20310,
-  "2023-06-17": 20310,
-  "2023-06-18": 20310,
-  "2023-06-19": 20310,
-  "2023-06-20": 20310,
-  "2023-06-21": 20310,
-  "2023-06-22": 20310,
-  "2023-06-23": 20310,
-  "2023-06-24": 20310,
-  "2023-06-25": 20310,
-  "2023-06-26": 20310,
-  "2023-06-27": 20310,
-  "2023-06-28": 20310,
-  "2023-06-29": 20310,
-  "2023-06-30": 20310,
-  "2023-07-01": 20310,
-  "2023-07-02": 20310,
-  "2023-07-03": 20310,
-  "2023-07-04": 20310,
-  "2023-07-05": 20310,
-  "2023-07-06": 20310,
-  "2023-07-07": 20310,
-  "2023-07-08": 20310,
-  "2023-07-09": 20310,
-  "2023-07-10": 20310,
-  "2023-07-11": 20310,
-  "2023-07-12": 20310,
-  "2023-07-13": 20310,
-  "2023-07-14": 20310,
-  "2023-07-15": 20310,
-  "2023-07-16": 20310,
-  "2023-07-17": 20310,
-  "2023-07-18": 20310,
-  "2023-07-19": 20310,
-  "2023-07-20": 20310,
-  "2023-07-21": 20310,
-  "2023-07-22": 20310,
-  "2023-07-23": 20310,
-  "2023-07-24": 20310,
-  "2023-07-25": 20310,
-  "2023-07-26": 20310,
-  "2023-07-27": 20310,
-  "2023-07-28": 20310,
-  "2023-07-29": 20310,
-  "2023-07-30": 20310,
-  "2023-07-31": 20310,
-  "2023-08-01": 20310,
-  "2023-08-02": 20310,
-  "2023-08-03": 20310,
-  "2023-08-04": 20310,
-  "2023-08-05": 20310,
-  "2023-08-06": 20310,
-  "2023-08-07": 20310,
-  "2023-08-08": 20310,
-  "2023-08-09": 20310,
-  "2023-08-10": 20310,
-  "2023-08-11": 20310,
-  "2023-08-12": 20310,
-  "2023-08-13": 20310,
-  "2023-08-14": 20310,
-  "2023-08-15": 20310,
-  "2023-08-16": 20310,
-  "2023-08-17": 20310,
-  "2023-08-18": 20310,
-  "2023-08-19": 20310,
-  "2023-08-20": 20310,
-  "2023-08-21": 20310,
-  "2023-08-22": 20310,
-  "2023-08-23": 20310,
-  "2023-08-24": 20310,
-  "2023-08-25": 20310,
-  "2023-08-26": 20310,
-  "2023-08-27": 20310,
-  "2023-08-28": 20310,
-  "2023-08-29": 20310,
-  "2023-08-30": 20310,
-  "2023-08-31": 20310,
-  "2023-09-01": 20310,
-  "2023-09-02": 20310,
-  "2023-09-03": 20310,
-  "2023-09-04": 20310,
-  "2023-09-05": 20310,
-  "2023-09-06": 20310,
-  "2023-09-07": 20310,
-  "2023-09-08": 20310,
-  "2023-09-09": 20310,
-  "2023-09-10": 20310,
-  "2023-09-11": 20310,
-  "2023-09-12": 20310,
-  "2023-09-13": 20310,
-  "2023-09-14": 20310,
-  "2023-09-15": 20310,
-  "2023-09-16": 20310,
-  "2023-09-17": 20310,
-  "2023-09-18": 20310,
-  "2023-09-19": 20310,
-  "2023-09-20": 20310,
-  "2023-09-21": 20310,
-  "2023-09-22": 20310,
-  "2023-09-23": 20310,
-  "2023-09-24": 20310,
-  "2023-09-25": 20310,
-  "2023-09-26": 20310,
-  "2023-09-27": 20310,
-  "2023-09-28": 20310,
-  "2023-09-29": 20310,
-  "2023-09-30": 20310,
-  "2023-10-01": 20310,
-  "2023-10-02": 20310,
-  "2023-10-03": 20310,
-  "2023-10-04": 20310,
-  "2023-10-05": 20310,
-  "2023-10-06": 20310,
-  "2023-10-07": 20310,
-  "2023-10-08": 20310,
-  "2023-10-09": 20310,
-  "2023-10-10": 20310,
-  "2023-10-11": 20310,
-  "2023-10-12": 20310,
-  "2023-10-13": 20310,
-  "2023-10-14": 20310,
-  "2023-10-15": 20310,
-  "2023-10-16": 20310,
-  "2023-10-17": 20310,
-  "2023-10-18": 20310,
-  "2023-10-19": 20310,
-  "2023-10-20": 20310,
-  "2023-10-21": 20310,
-  "2023-10-22": 20310,
-  "2023-10-23": 20310,
-  "2023-10-24": 20310,
-  "2023-10-25": 20310,
-  "2023-10-26": 20310,
-  "2023-10-27": 20310,
-  "2023-10-28": 20310,
-  "2023-10-29": 20310,
-  "2023-10-30": 20310,
-  "2023-10-31": 20310,
-  "2023-11-01": 20310,
-  "2023-11-02": 20310,
-  "2023-11-03": 20310,
-  "2023-11-04": 20310,
-  "2023-11-05": 20310,
-  "2023-11-06": 20310,
-  "2023-11-07": 20310,
-  "2023-11-08": 20310,
-  "2023-11-09": 20310,
-  "2023-11-10": 20310,
-  "2023-11-11": 20310,
-  "2023-11-12": 20310,
-  "2023-11-13": 20310,
-  "2023-11-14": 20310,
-  "2023-11-15": 20310,
-  "2023-11-16": 20310,
-  "2023-11-17": 20310,
-  "2023-11-18": 20310,
-  "2023-11-19": 20310,
-  "2023-11-20": 20310,
-  "2023-11-21": 20310,
-  "2023-11-22": 20310,
-  "2023-11-23": 20310,
-  "2023-11-24": 20310,
-  "2023-11-25": 20310,
-  "2023-11-26": 20310,
-  "2023-11-27": 20310,
-  "2023-11-28": 20310,
-  "2023-11-29": 20310,
-  "2023-11-30": 20310,
-  "2023-12-01": 20310,
-  "2023-12-02": 20310,
-  "2023-12-03": 20310,
-  "2023-12-04": 20310,
-  "2023-12-05": 20310,
-  "2023-12-06": 20310,
-  "2023-12-07": 20310,
-  "2023-12-08": 20310,
-  "2023-12-09": 20310,
-  "2023-12-10": 20310,
-  "2023-12-11": 20310,
-  "2023-12-12": 20310,
-  "2023-12-13": 20310,
-  "2023-12-14": 20310,
-  "2023-12-15": 20310,
-  "2023-12-16": 20310,
-  "2023-12-17": 20310,
-  "2023-12-18": 20310,
-  "2023-12-19": 20310,
-  "2023-12-20": 20310,
-  "2023-12-21": 20310,
-  "2023-12-22": 20310,
-  "2023-12-23": 20310,
-  "2023-12-24": 20310,
-  "2023-12-25": 20310,
-  "2023-12-26": 20310,
-  "2023-12-27": 20310,
-  "2023-12-30": 20310,
-  "2023-12-31": 20310,
-  "2024-01-01": 20310,
-  "2024-01-02": 20310,
-  "2024-01-03": 20310
+  "2024-01-17": 20310,
+  "date_first_scraped": "2021-12-21",
+  "description": "50 outstanding pieces from the repertoire of <a href=\"https://en.wikipedia.org/wiki/Concert_band\">concert band</a> (also called wind ensemble, symphonic band or wind symphony). From cornerstone works by Dvo\u0159\u00e1k, Stravinsky, Grainger to new classics by John Corigliano, David Maslanka, Eric Whitacre, and many more. Also follow: <a href=\"spotify:user:spotify:playlist:73OZGA9KbKCzhNe7FcCp17\">brass band playlist</a>.",
+  "name": "Symphony of the Winds",
+  "tracks": [
+    {
+      "album": {
+        "name": "Places in the West: Music of Dan Welcher",
+        "url": "https://open.spotify.com/album/04gCUJ2KiTFJzptzCzZd0Z"
+      },
+      "artists": [
+        {
+          "name": "Dan Welcher",
+          "url": "https://open.spotify.com/artist/3xNifeP2FXSYhkOeH4gZnR"
+        },
+        {
+          "name": "The University of Texas Wind Ensemble",
+          "url": "https://open.spotify.com/artist/0QyjSRomk8pI4srgvJeDz0"
+        },
+        {
+          "name": "Jerry F. Junkin",
+          "url": "https://open.spotify.com/artist/4xNYwBwgFvR676S5ZYN4F5"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577920,
+      "name": "4 Places in the West: IV. Zion",
+      "url": "https://open.spotify.com/track/0z8eOJgg51WUyesBjBAwpy"
+    },
+    {
+      "album": {
+        "name": "The Music of Frank Ticheli, Vol. 3: Angels In the Architecture",
+        "url": "https://open.spotify.com/album/72Xq24IrLX5qkrDGAJtSlb"
+      },
+      "artists": [
+        {
+          "name": "Frank Ticheli",
+          "url": "https://open.spotify.com/artist/3EsHwqnc7kaHpK8oF27uNM"
+        },
+        {
+          "name": "Orit Amy Eylon",
+          "url": "https://open.spotify.com/artist/0qIK4KOvNWOZy8usInPLkY"
+        },
+        {
+          "name": "University of Texas at El Paso Symphonic Winds",
+          "url": "https://open.spotify.com/artist/7c5hMVoJABkCx1NGZeHeoa"
+        },
+        {
+          "name": "Ron Hufstader",
+          "url": "https://open.spotify.com/artist/0WJYxkoVV5djAl3rKiFJbb"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 840226,
+      "name": "Angels in the Architecture",
+      "url": "https://open.spotify.com/track/11COwCPR1LlGiddK0woQRj"
+    },
+    {
+      "album": {
+        "name": "Reed: Alfred Reed Live!, Vol. 1 - Armenian Dances",
+        "url": "https://open.spotify.com/album/3rHWH59nWzTkIKJY5lrxcO"
+      },
+      "artists": [
+        {
+          "name": "Alfred Reed",
+          "url": "https://open.spotify.com/artist/0FAHFZvh84fFGN81tZx6nr"
+        },
+        {
+          "name": "Otonowa Wind Symphonica",
+          "url": "https://open.spotify.com/artist/3DOgmRU5DnDhRsBIGvbu9c"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664893,
+      "name": "Armenian Dances: I. The Apricot Tree - The Partridge's Song - Hoy, Nazan Eem - Alagyaz - Go, Go",
+      "url": "https://open.spotify.com/track/1foIONDXJRB8B5cpzPAyVu"
+    },
+    {
+      "album": {
+        "name": "Hanson: Laude / Chorale and Alleluia / Dies Natalis / Centennial March / Merry Mount Suite",
+        "url": "https://open.spotify.com/album/7GrYPvZPJfnfoifcVU7I2k"
+      },
+      "artists": [
+        {
+          "name": "Howard Hanson",
+          "url": "https://open.spotify.com/artist/5w3Gf39zZgGOAz19DFJtcR"
+        },
+        {
+          "name": "Philharmonia A Vent",
+          "url": "https://open.spotify.com/artist/6euz46MV3hJG23cZb0ZxE4"
+        },
+        {
+          "name": "John P. Boyd",
+          "url": "https://open.spotify.com/artist/1atIwDFIkTNIs50xLtS777"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352773,
+      "name": "Chorale and Alleluia, Op. 42",
+      "url": "https://open.spotify.com/track/20Vxoj00f6kUPocuLZi8lg"
+    },
+    {
+      "album": {
+        "name": "Who Puts His Trust in God Most Just",
+        "url": "https://open.spotify.com/album/6FodkME7g5oRbBAoKFrNqU"
+      },
+      "artists": [
+        {
+          "name": "John P. Zdechlik",
+          "url": "https://open.spotify.com/artist/1dolxsYDl3dcdVQasFmYgM"
+        },
+        {
+          "name": "Concordia University Chicago Wind Symphony",
+          "url": "https://open.spotify.com/artist/17bU8dMSnsSOnR1Wb0Xjiu"
+        },
+        {
+          "name": "Richard Fischer",
+          "url": "https://open.spotify.com/artist/5TR7DVeuAhUETz7LF1C0P5"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585653,
+      "name": "Chorale and Shaker Dance",
+      "url": "https://open.spotify.com/track/6srpvgW9YPNNFpsQAXgcFU"
+    },
+    {
+      "album": {
+        "name": "Above and Beyond (Live)",
+        "url": "https://open.spotify.com/album/1ri8aYXe03VIbZ5stnDfJh"
+      },
+      "artists": [
+        {
+          "name": "Samuel Barber",
+          "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+        },
+        {
+          "name": "United States Marine Band",
+          "url": "https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM"
+        },
+        {
+          "name": "Gerard Schwarz",
+          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215373,
+      "name": "Commando March",
+      "url": "https://open.spotify.com/track/47shnPNVJAj0kvzCQobwgg"
+    },
+    {
+      "album": {
+        "name": "Dahl: Concerto for Alto Saxophone, Music for Brass Instruments, The Tower of Saint Barbara, et al.",
+        "url": "https://open.spotify.com/album/6OjgAoDkXSgMxNr1lm1CnY"
+      },
+      "artists": [
+        {
+          "name": "Ingolf Dahl",
+          "url": "https://open.spotify.com/artist/7g9GGEm3YlVkxJu5U76aPu"
+        },
+        {
+          "name": "New World Symphony",
+          "url": "https://open.spotify.com/artist/4biOwYXkvWGFJ1mRYSNrcr"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465840,
+      "name": "Concerto for Alto Saxophone",
+      "url": "https://open.spotify.com/track/27p07p7vJLhvrBRpFTLSeF"
+    },
+    {
+      "album": {
+        "name": "Dance Mix",
+        "url": "https://open.spotify.com/album/6sbKvBzWEU0pXnUJvC8ftQ"
+      },
+      "artists": [
+        {
+          "name": "Robert W. Smith",
+          "url": "https://open.spotify.com/artist/0Ujq3udJ06YLs1ljtmMxS2"
+        },
+        {
+          "name": "Rutgers Wind Ensemble",
+          "url": "https://open.spotify.com/artist/5ZEHFxdoLBY3xRipmvkjQU"
+        },
+        {
+          "name": "William Berz",
+          "url": "https://open.spotify.com/artist/7dBGej58xPoJBF4lRDqX9q"
+        }
+      ],
+      "date_added": "2017-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549653,
+      "name": "Dance Mix",
+      "url": "https://open.spotify.com/track/5wQpeE6tjfTPNOGu2sYRsW"
+    },
+    {
+      "album": {
+        "name": "Cincinnati Wind Symphony: Songs and Dances",
+        "url": "https://open.spotify.com/album/4JOrGZ8EGo7bdi6U4XaJjL"
+      },
+      "artists": [
+        {
+          "name": "Florent Schmitt",
+          "url": "https://open.spotify.com/artist/46ogc4ghPoxhfxvj3ahDNL"
+        },
+        {
+          "name": "Cincinnati Wind Symphony",
+          "url": "https://open.spotify.com/artist/5M5ADrM8vgdahvgJ7Yok0m"
+        },
+        {
+          "name": "Eugene Migliaro Corporon",
+          "url": "https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 674493,
+      "name": "Dionysiaques, Op. 62",
+      "url": "https://open.spotify.com/track/3AyRfJbOVn4Zqa0DfLNzWQ"
+    },
+    {
+      "album": {
+        "name": "Ticheli, F.: Wild Nights! / Etezady, R.: Anahita / Mackey, J.: Soprano Saxophone Concerto",
+        "url": "https://open.spotify.com/album/5VJhPUZrc9AAyBIzskkTWa"
+      },
+      "artists": [
+        {
+          "name": "Steven Bryant",
+          "url": "https://open.spotify.com/artist/21eV2R4BVV7JykrxaPCtXd"
+        },
+        {
+          "name": "University of Kansas Wind Ensemble",
+          "url": "https://open.spotify.com/artist/6jP1iG3NKr4ysS29rRE8oD"
+        },
+        {
+          "name": "Scott Weiss",
+          "url": "https://open.spotify.com/artist/2jDbogNdL5BIGUjecTGjZZ"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260413,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7abfUxNpRHuby0N2T4JCv1"
+    },
+    {
+      "album": {
+        "name": "Cincinnati Wind Symphony: Emblems",
+        "url": "https://open.spotify.com/album/1XYYnOYF5Wz6CBm4kPGaBm"
+      },
+      "artists": [
+        {
+          "name": "Aaron Copland",
+          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "name": "Cincinnati Wind Symphony",
+          "url": "https://open.spotify.com/artist/5M5ADrM8vgdahvgJ7Yok0m"
+        },
+        {
+          "name": "Eugene Migliaro Corporon",
+          "url": "https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 697320,
+      "name": "Emblems",
+      "url": "https://open.spotify.com/track/563FfxUyfmiscrmp6SlxyQ"
+    },
+    {
+      "album": {
+        "name": "British Wind Band Classics",
+        "url": "https://open.spotify.com/album/4uMrhdbVhHorEsHQVFtoHf"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Royal Northern College Of Music Wind Orchestra",
+          "url": "https://open.spotify.com/artist/0iWYVqttWtHgvLh6xq4Yq4"
+        },
+        {
+          "name": "Timothy Reynish",
+          "url": "https://open.spotify.com/artist/4VKtNRZBV5eyRQUNGejN2o"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "English Folk Song Suite: III. March \"Folk Songs from Somerset\"",
+      "url": "https://open.spotify.com/track/7zJDozH1UoihZXypgyvKSY"
+    },
+    {
+      "album": {
+        "name": "Messiaen: Orchestral Works",
+        "url": "https://open.spotify.com/album/6lhMetX6wtt2rF52vjOCxM"
+      },
+      "artists": [
+        {
+          "name": "Olivier Messiaen",
+          "url": "https://open.spotify.com/artist/6CS9O2pE67oq44GZuBEBuD"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173733,
+      "name": "Et exspecto resurrectionem mortuorum: 1. Des profondeurs de l'ab\u00eeme, je crie vers toi, Seigneur: Seigneur, \u00e9coute ma voix!",
+      "url": "https://open.spotify.com/track/0D8Bzayb1RqjXLM9ghzNlG"
+    },
+    {
+      "album": {
+        "name": "100 Best British Classics",
+        "url": "https://open.spotify.com/album/0Aa11dMOIY9hTyHSR8K7uh"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Central Band of the Royal Air Force/Wing Commander Eric Banks",
+          "url": "https://open.spotify.com/artist/6kZfHCtJc6heZJqgW2kqtr"
+        },
+        {
+          "name": "Wing Commander Eric Banks",
+          "url": "https://open.spotify.com/artist/0siKlAVmrAtNuWvr2Lvqet"
+        },
+        {
+          "name": "Eric Banks",
+          "url": "https://open.spotify.com/artist/7eeJvgZJ4DyVUVyk44fDno"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "First Suite in E flat H105 for military band (Op. 28 No. 1): III. March",
+      "url": "https://open.spotify.com/track/0nlBfy8ILabnnUgWE5NjLO"
+    },
+    {
+      "album": {
+        "name": "Berlioz: Grande Symphonie Fun\u00e8bre Et Triomphale",
+        "url": "https://open.spotify.com/album/5jHHBrttzqK6kFl6f5WjxV"
+      },
+      "artists": [
+        {
+          "name": "Hector Berlioz",
+          "url": "https://open.spotify.com/artist/11T8SOX82xraocZzUXzkvM"
+        },
+        {
+          "name": "The Wallace Collection",
+          "url": "https://open.spotify.com/artist/67K0cyAafV3Do2DK8DC3tZ"
+        },
+        {
+          "name": "John Wallace",
+          "url": "https://open.spotify.com/artist/2Jp1IUkeVQEQ52hD5ca9kk"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459506,
+      "name": "Grande Symphonie Fun\u00e8bre et Triomphale: III. Apoth\u00e9ose",
+      "url": "https://open.spotify.com/track/0nbumcBVv1lrJnCdGs51O4"
+    },
+    {
+      "album": {
+        "name": "Audibles",
+        "url": "https://open.spotify.com/album/7M570Zi7iLB7SeiYoVyxaz"
+      },
+      "artists": [
+        {
+          "name": "Carter Pann",
+          "url": "https://open.spotify.com/artist/3mE4FyAUwpdDUwJIsZxypt"
+        },
+        {
+          "name": "North Texas Wind Symphony",
+          "url": "https://open.spotify.com/artist/1MU0DtoPi3KRw38z1NnV5E"
+        },
+        {
+          "name": "Eugene Migliaro Corporon",
+          "url": "https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473720,
+      "name": "Hold This Boy and Listen",
+      "url": "https://open.spotify.com/track/6bqPSEkjKc1mlVo0ALaruT"
+    },
+    {
+      "album": {
+        "name": "Bells for Stokowski",
+        "url": "https://open.spotify.com/album/0ywL80agqmBtnW589QizTq"
+      },
+      "artists": [
+        {
+          "name": "David Del Tredici",
+          "url": "https://open.spotify.com/artist/2uSpHGRqp30nn4B7oRny5s"
+        },
+        {
+          "name": "The University of Texas Wind Ensemble",
+          "url": "https://open.spotify.com/artist/0QyjSRomk8pI4srgvJeDz0"
+        },
+        {
+          "name": "Jerry Junkin",
+          "url": "https://open.spotify.com/artist/6IEFj40kRnR24S1ZuTHmnK"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363866,
+      "name": "In Wartime: I. Hymn",
+      "url": "https://open.spotify.com/track/5ae5HkZiWsWPp87rtNmxpm"
+    },
+    {
+      "album": {
+        "name": "The Legacy of John Barnes Chance",
+        "url": "https://open.spotify.com/album/2yzaxcb2i7io48UjHeCu5l"
+      },
+      "artists": [
+        {
+          "name": "John Barnes Chance",
+          "url": "https://open.spotify.com/artist/2mICvoFUV9EpJMZ3dBxAZ1"
+        },
+        {
+          "name": "Illinois State University Wind Symphony",
+          "url": "https://open.spotify.com/artist/7M4Mnw6KuAADxmjYbuedvG"
+        },
+        {
+          "name": "Stephen Steele",
+          "url": "https://open.spotify.com/artist/5bqsoRyYnPgq7Zob6sRuPr"
+        }
+      ],
+      "date_added": "2017-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458893,
+      "name": "Incantation and Dance",
+      "url": "https://open.spotify.com/track/72XpYtLl8RfxLXYTKo22Zy"
+    },
+    {
+      "album": {
+        "name": "Weill: Violin Concerto, Op. 12, Kleine Dreigroschenmusik & Berlin im Licht",
+        "url": "https://open.spotify.com/album/5ZZacbid5XaR4PnO7MWNEJ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Weill",
+          "url": "https://open.spotify.com/artist/69a1b61a56mJlx8iAUMBsY"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Gerd M\u00fcller-Lorenz",
+          "url": "https://open.spotify.com/artist/1C6l4QsTlcnBSTCGqwMALu"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127066,
+      "name": "Kleine Dreigroschenmusik: II. The Ballad of Mack the Knife: Moderato assai",
+      "url": "https://open.spotify.com/track/28wNE6V0e5H4CPdY83TgVy"
+    },
+    {
+      "album": {
+        "name": "Orff: Carmina Burana Suite / Bird: Serenade / Reed: La Fiesta Mexicana",
+        "url": "https://open.spotify.com/album/0MzYNGenrfZ4hR7jlXnqlh"
+      },
+      "artists": [
+        {
+          "name": "H. Owen Reed",
+          "url": "https://open.spotify.com/artist/55eFoU1AgLZmdRhS1FuPEW"
+        },
+        {
+          "name": "Peabody Conservatory Wind Ensemble",
+          "url": "https://open.spotify.com/artist/7ypQptJx5jJwyniDj7XWb9"
+        },
+        {
+          "name": "Harlan D. Parker",
+          "url": "https://open.spotify.com/artist/2bCjSlQoy2ySKKSyGMjKoE"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538093,
+      "name": "La Fiesta Mexicana: I. Prelude and Aztec Dance",
+      "url": "https://open.spotify.com/track/0ryPtIFgSgqplFUFjVpvsY"
+    },
+    {
+      "album": {
+        "name": "Lincolnshire Posy",
+        "url": "https://open.spotify.com/album/3pl3vJY8UykcEVgEjtGhzK"
+      },
+      "artists": [
+        {
+          "name": "Percy Grainger",
+          "url": "https://open.spotify.com/artist/6evVLxWyiwmi8gDtHn1Vzx"
+        },
+        {
+          "name": "Dallas Wind Symphony",
+          "url": "https://open.spotify.com/artist/7cc7U4h3CiBlKlCTLCi5nn"
+        },
+        {
+          "name": "Jerry Junkin",
+          "url": "https://open.spotify.com/artist/6IEFj40kRnR24S1ZuTHmnK"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204386,
+      "name": "Lincolnshire Posy: II. Horkstow Grange",
+      "url": "https://open.spotify.com/track/6FwkSITKGSBNIpzdMDSgMR"
+    },
+    {
+      "album": {
+        "name": "No Mo' Chalumeau!",
+        "url": "https://open.spotify.com/album/0K9mmH31tMo6s2qPonToZQ"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "UNLV Wind Orchestra",
+          "url": "https://open.spotify.com/artist/36EJc7INaZeSABFeMxrWHb"
+        },
+        {
+          "name": "Gary E. Smith",
+          "url": "https://open.spotify.com/artist/0sUrkfG3N0i709D57ZsbjB"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "March in B-Flat Major, Op. 99",
+      "url": "https://open.spotify.com/track/5y1AnvJzyMrn9EdDSyZytp"
+    },
+    {
+      "album": {
+        "name": "North Texas Wind Symphony: Recollections",
+        "url": "https://open.spotify.com/album/6XhQ7TgYJrL7bG4R8aghKd"
+      },
+      "artists": [
+        {
+          "name": "Karel Husa",
+          "url": "https://open.spotify.com/artist/1WkxmEkOv0iGdOlPKkiAJK"
+        },
+        {
+          "name": "North Texas Wind Symphony",
+          "url": "https://open.spotify.com/artist/1MU0DtoPi3KRw38z1NnV5E"
+        },
+        {
+          "name": "Eugene Migliaro Corporon",
+          "url": "https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294080,
+      "name": "Music for Prague 1968: II. Aria",
+      "url": "https://open.spotify.com/track/4CN9OlrLoMdlWMFAMk87KN"
+    },
+    {
+      "album": {
+        "name": "Schuman: George Washington Bridge / Prelude for A Great Occasion / New England Triptych",
+        "url": "https://open.spotify.com/album/1pJ86eXdi85zERX8NbB5pM"
+      },
+      "artists": [
+        {
+          "name": "William Schuman",
+          "url": "https://open.spotify.com/artist/2JB24wDIlWOa0ctY9yZi21"
+        },
+        {
+          "name": "Keystone Wind Ensemble",
+          "url": "https://open.spotify.com/artist/2G70DpSkHbpbxaDS8tTlg8"
+        },
+        {
+          "name": "Jack Stamp",
+          "url": "https://open.spotify.com/artist/4h3YtOAuPa1yrkufKacTWh"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333666,
+      "name": "New England Triptych (version for wind ensemble): II. When Jesus Wept (arr. by W. Schuman)",
+      "url": "https://open.spotify.com/track/339BzSMa3uxTk1mQ9HkoiP"
+    },
+    {
+      "album": {
+        "name": "Daugherty: Ufo / Motown Metal / Niagara Falls / Desi / Red Cape Tango",
+        "url": "https://open.spotify.com/album/0JUGPrgdn2iHZEByyK8knx"
+      },
+      "artists": [
+        {
+          "name": "Michael Daugherty",
+          "url": "https://open.spotify.com/artist/4LKCxq8mQn0cFlccW9cCBQ"
+        },
+        {
+          "name": "North Texas Wind Symphony",
+          "url": "https://open.spotify.com/artist/1MU0DtoPi3KRw38z1NnV5E"
+        },
+        {
+          "name": "Eugene Migliaro Corporon",
+          "url": "https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593840,
+      "name": "Niagara Falls",
+      "url": "https://open.spotify.com/track/4UadwkQ7bCNhpffq4vAX3T"
+    },
+    {
+      "album": {
+        "name": "North Texas Wind Symphony: Passions",
+        "url": "https://open.spotify.com/album/5Z7uYpeJdb31NOIpM9Sw3o"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "North Texas Wind Symphony",
+          "url": "https://open.spotify.com/artist/1MU0DtoPi3KRw38z1NnV5E"
+        },
+        {
+          "name": "Eugene Migliaro Corporon",
+          "url": "https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452773,
+      "name": "October",
+      "url": "https://open.spotify.com/track/0NiKlQjjwoP2IoBhzuwf9j"
+    },
+    {
+      "album": {
+        "name": "Works for Symphonic Band By French And Italian Composers",
+        "url": "https://open.spotify.com/album/3Zsf49rmCxxsoY1TwE08X5"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Budapest Ferenc Liszt Music Academy Symphonic Band",
+          "url": "https://open.spotify.com/artist/4LaXQftVaTM4Bb2l9aN9IB"
+        },
+        {
+          "name": "L\u00e1szl\u00f3 Marosi",
+          "url": "https://open.spotify.com/artist/7hGpegHBN452hEMOfvz0eY"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476920,
+      "name": "Orient et occident, Op. 25",
+      "url": "https://open.spotify.com/track/2jQlj4c9zavtX8DWGAQz5T"
+    },
+    {
+      "album": {
+        "name": "Distinguished Music for the Developing Wind Band, Vol. 6",
+        "url": "https://open.spotify.com/album/4bV7wYIi5Ws3Mj7QC5WTo5"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Higdon",
+          "url": "https://open.spotify.com/artist/74DKkK5qRjAcHfifGufH4b"
+        },
+        {
+          "name": "Rutgers Wind Ensemble",
+          "url": "https://open.spotify.com/artist/5ZEHFxdoLBY3xRipmvkjQU"
+        },
+        {
+          "name": "Rutgers Symphonic Band",
+          "url": "https://open.spotify.com/artist/5b3SW2DM1pjbBquehvRXc6"
+        },
+        {
+          "name": "William Berz",
+          "url": "https://open.spotify.com/artist/7dBGej58xPoJBF4lRDqX9q"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151133,
+      "name": "Rhythm Stand",
+      "url": "https://open.spotify.com/track/1MSNRDKiJuqaEbA3x9zhGl"
+    },
+    {
+      "album": {
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/45rlA1LSpptplf1Gqzdfv8"
+      },
+      "artists": [
+        {
+          "name": "Julie Giroux",
+          "url": "https://open.spotify.com/artist/4j0pwNYhbLFrgU2wQdOmxj"
+        },
+        {
+          "name": "United States Air Force Band",
+          "url": "https://open.spotify.com/artist/1E48RxEELIDpEM30YVL3nc"
+        },
+        {
+          "name": "Larry H. Lang",
+          "url": "https://open.spotify.com/artist/2Kis6kcgCCl0u6nPnmBVbn"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381653,
+      "name": "Riften Wed",
+      "url": "https://open.spotify.com/track/3EtuGmDYetQ6C0bYlZV0vZ"
+    },
+    {
+      "album": {
+        "name": "Dallas Wind Symphony Sampler",
+        "url": "https://open.spotify.com/album/3jbGgN0NZJTbhqu8PpMKUA"
+      },
+      "artists": [
+        {
+          "name": "Ron Nelson",
+          "url": "https://open.spotify.com/artist/28EfkaQkxARM6fAaW3qkPh"
+        },
+        {
+          "name": "Dallas Wind Symphony",
+          "url": "https://open.spotify.com/artist/7cc7U4h3CiBlKlCTLCi5nn"
+        },
+        {
+          "name": "Frederick Fennell",
+          "url": "https://open.spotify.com/artist/10Z0NK86gcVn3YytVA4WfJ"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300533,
+      "name": "Rocky Point Holiday",
+      "url": "https://open.spotify.com/track/6yk2CG518SW7rwXyRmph0N"
+    },
+    {
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Serenade for Winds in D minor, Op. 44 - Gounod: Petite symphonie",
+        "url": "https://open.spotify.com/album/3whG1AfjWXvHM6WTUboAhb"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "M\u00fcnchner Bl\u00e4serakademie",
+          "url": "https://open.spotify.com/artist/2uTg0Bxt90YweCFYREEOeq"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383293,
+      "name": "Serenade in D Minor, Op. 44, B. 77: II. Minuetto",
+      "url": "https://open.spotify.com/track/2zhqlA5F4fyDCA8EmLlZvU"
+    },
+    {
+      "album": {
+        "name": "Gran Partita",
+        "url": "https://open.spotify.com/album/3Fj2IFbdIrVeqCue3aVzL9"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Thaous Ensemble",
+          "url": "https://open.spotify.com/artist/2FLuSdKX8stEANuhnSVaq0"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607066,
+      "name": "Sonatina No. 1 in F Major, TrV 288, \"Aus der Werkstatt eines Invaliden\": II. Romanze und Menuetto: Andante - Tempo di menuetto",
+      "url": "https://open.spotify.com/track/5WOMgv6ks1MyqIKpo4rCXN"
+    },
+    {
+      "album": {
+        "name": "Incursions",
+        "url": "https://open.spotify.com/album/02GqrUsXwgEEseNjpcOLDQ"
+      },
+      "artists": [
+        {
+          "name": "Darius Milhaud",
+          "url": "https://open.spotify.com/artist/6bwXuNL4AuC7w3AxspKXn6"
+        },
+        {
+          "name": "Southern Illinois University Edwardsville Wind Symphony",
+          "url": "https://open.spotify.com/artist/1oub2gWGJpSucI30kyGY9p"
+        },
+        {
+          "name": "John Raymond Bell",
+          "url": "https://open.spotify.com/artist/58pBk0JtdxIFuPd942Lvm8"
+        }
+      ],
+      "date_added": "2017-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244120,
+      "name": "Suite francaise, Op. 248: II. Bretagne",
+      "url": "https://open.spotify.com/track/3EI4asvJ4V1iZVcAkTSUfq"
+    },
+    {
+      "album": {
+        "name": "Grainger: Duke of Marlborough Fanfare (The) / Lincolnshire Posy / Roussel: A Glorious Day",
+        "url": "https://open.spotify.com/album/4z4ujUeqdtD2fC1ORziEXe"
+      },
+      "artists": [
+        {
+          "name": "Robert Russell Bennett",
+          "url": "https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q"
+        },
+        {
+          "name": "United States Air Force Band",
+          "url": "https://open.spotify.com/artist/1E48RxEELIDpEM30YVL3nc"
+        },
+        {
+          "name": "Lowell Graham",
+          "url": "https://open.spotify.com/artist/00gpmX5co5L1QxeiNlWkDa"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280066,
+      "name": "Symphonic Songs for Band: II. Spiritual",
+      "url": "https://open.spotify.com/track/1TD8yk933e5kgXNirub464"
+    },
+    {
+      "album": {
+        "name": "Stravinsky: 125th Anniversary Album: The Rite of Spring - Violin Concerto",
+        "url": "https://open.spotify.com/album/4iqn8tHvLjQEb3WVAV02Am"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Twentieth Century Classics Ensemble",
+          "url": "https://open.spotify.com/artist/5jzllQMGSrYQRHQK20sJf3"
+        },
+        {
+          "name": "Robert Craft",
+          "url": "https://open.spotify.com/artist/3aSbvbaiN2nvlFSftGKoJK"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479880,
+      "name": "Symphonies of Wind Instruments (original 1920 version)",
+      "url": "https://open.spotify.com/track/5u8Vmfr249qnrgOcPrvCNz"
+    },
+    {
+      "album": {
+        "name": "Wind Band Music - Hindemith, P. / Holst, G. / Grainger, P. / Schwantner, J. (Trendsetters)",
+        "url": "https://open.spotify.com/album/2qdQQY0P1BcfRKDolKmZqN"
+      },
+      "artists": [
+        {
+          "name": "Paul Hindemith",
+          "url": "https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8"
+        },
+        {
+          "name": "Peabody Conservatory Wind Ensemble",
+          "url": "https://open.spotify.com/artist/7ypQptJx5jJwyniDj7XWb9"
+        },
+        {
+          "name": "Harlan D. Parker",
+          "url": "https://open.spotify.com/artist/2bCjSlQoy2ySKKSyGMjKoE"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395320,
+      "name": "Symphony in B-Flat Major: I. Moderately fast with vigour - Molto agitato",
+      "url": "https://open.spotify.com/track/1vvzVNIPJxoTXtc8AO1ncY"
+    },
+    {
+      "album": {
+        "name": "Johan de Meij: The Symphonies",
+        "url": "https://open.spotify.com/album/2xim8z8YrGvWFZIEXf0zuw"
+      },
+      "artists": [
+        {
+          "name": "Johan de Meij",
+          "url": "https://open.spotify.com/artist/1GtGar1diZ2lTQNjQCLVxt"
+        },
+        {
+          "name": "Peabody Conservatory Wind Ensemble",
+          "url": "https://open.spotify.com/artist/7ypQptJx5jJwyniDj7XWb9"
+        },
+        {
+          "name": "Harlan D. Parker",
+          "url": "https://open.spotify.com/artist/2bCjSlQoy2ySKKSyGMjKoE"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467213,
+      "name": "Symphony No. 1, \"The Lord of the Rings\": II. Lothlorien (The Elvenwood)",
+      "url": "https://open.spotify.com/track/2T5TISZyuo3UE4rpUaX4jW"
+    },
+    {
+      "album": {
+        "name": "Corigliano, J.: Symphony No. 3, \"Circus Maximus\" / Gazebo Dances",
+        "url": "https://open.spotify.com/album/1DqyHIm4omf6dlZq6bhiHJ"
+      },
+      "artists": [
+        {
+          "name": "John Corigliano",
+          "url": "https://open.spotify.com/artist/0aHSAeZ39EVErXuOjm2XDR"
+        },
+        {
+          "name": "University of Texas Wind Ensemble",
+          "url": "https://open.spotify.com/artist/2embk9ou2NrDnk2DxXfnlS"
+        },
+        {
+          "name": "Jerry Junkin",
+          "url": "https://open.spotify.com/artist/6IEFj40kRnR24S1ZuTHmnK"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "Symphony No. 3, \"Circus Maximus\": I. Introitus",
+      "url": "https://open.spotify.com/track/0chhqzSKeOgwyunR6gVL4O"
+    },
+    {
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/495Hz7fjsyz5HqgP1JRkqX"
+      },
+      "artists": [
+        {
+          "name": "David Maslanka",
+          "url": "https://open.spotify.com/artist/4Y2OXwc53GsYa1MT3R17bR"
+        },
+        {
+          "name": "Northwestern University Symphonic Wind Ensemble",
+          "url": "https://open.spotify.com/artist/0ISp9v6gSNcasN40t6WXLq"
+        },
+        {
+          "name": "Mallory Thompson",
+          "url": "https://open.spotify.com/artist/3zzP6o24ttH0vQzKbKfIID"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1681306,
+      "name": "Symphony No. 4",
+      "url": "https://open.spotify.com/track/0v3NskaDbGsXPycx4qQWth"
+    },
+    {
+      "album": {
+        "name": "Hovhaness: Symphonies Nos. 4, 20 and 53",
+        "url": "https://open.spotify.com/album/6SEXVWKywIBmQQfPrh8Gak"
+      },
+      "artists": [
+        {
+          "name": "Alan Hovhaness",
+          "url": "https://open.spotify.com/artist/1nLYb4XbZumQcIqwEmYlli"
+        },
+        {
+          "name": "Royal Scottish Academy of Music and Drama Wind Orchestra",
+          "url": "https://open.spotify.com/artist/3aX5Z3nPbpZowMyYb64JC1"
+        },
+        {
+          "name": "Keith Brion",
+          "url": "https://open.spotify.com/artist/6iYrVk6QlklQqLyfvJDU9a"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525880,
+      "name": "Symphony No. 53, Op. 378, \"Star Dawn\": I. Maestoso sostenuto",
+      "url": "https://open.spotify.com/track/2euDU6SFC0bQElXUu6MdKP"
+    },
+    {
+      "album": {
+        "name": "Cincinnati Wind Symphony: Soundings",
+        "url": "https://open.spotify.com/album/3JncDzYKLmOzh3LXkkXwmd"
+      },
+      "artists": [
+        {
+          "name": "Vincent Persichetti",
+          "url": "https://open.spotify.com/artist/1WiSkCjZy8u96gb1GmVy45"
+        },
+        {
+          "name": "Cincinnati Wind Symphony",
+          "url": "https://open.spotify.com/artist/5M5ADrM8vgdahvgJ7Yok0m"
+        },
+        {
+          "name": "Eugene Migliaro Corporon",
+          "url": "https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364040,
+      "name": "Symphony No. 6, Op. 69, \"Symphony for Band\": I. Adagio - Allegro",
+      "url": "https://open.spotify.com/track/01D87p503wfqPqsYbjYwjb"
+    },
+    {
+      "album": {
+        "name": "Mozart: Gran Partita, S\u00e9r\u00e9nade No. 12 \"Nacht Musique\" K. 388",
+        "url": "https://open.spotify.com/album/6igvEywKXIbL9EVosVRiep"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Harmonie de l'Orchestre des Champs-Elys\u00e9es",
+          "url": "https://open.spotify.com/artist/0xkpo0uhIVHH2O8A0urVZE"
+        },
+        {
+          "name": "Philippe Herreweghe",
+          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315600,
+      "name": "S\u00e9r\u00e9nade No. 10 \"Gran Partita\" K.361, en Si B\u00e9mol Majeur: S\u00e9r\u00e9nade No. 10 \"Gran Partita\" K.361, en Si B\u00e9mol Majeur: III. Adagio",
+      "url": "https://open.spotify.com/track/3E3RCA2Fc96joc5sEOjOps"
+    },
+    {
+      "album": {
+        "name": "Shadow of Sirius",
+        "url": "https://open.spotify.com/album/6J9ogr5IhE24wbMmBcBXGC"
+      },
+      "artists": [
+        {
+          "name": "Joel Puckett",
+          "url": "https://open.spotify.com/artist/2gcUqrg2XBBRABHtXs0nhl"
+        },
+        {
+          "name": "Marianne Gedigian",
+          "url": "https://open.spotify.com/artist/2kCVyuf8BYZAqDRbMLgaMu"
+        },
+        {
+          "name": "University of Texas Wind Ensemble",
+          "url": "https://open.spotify.com/artist/2embk9ou2NrDnk2DxXfnlS"
+        },
+        {
+          "name": "Jerry Junkin",
+          "url": "https://open.spotify.com/artist/6IEFj40kRnR24S1ZuTHmnK"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512746,
+      "name": "The Shadow of Sirius: III. Into the Clouds",
+      "url": "https://open.spotify.com/track/47izGJieyXuFA1YyU4PQ1J"
+    },
+    {
+      "album": {
+        "name": "Sousa: Music for Wind Band, Vol. 8",
+        "url": "https://open.spotify.com/album/7AhsgHreGaSwuxqFhms6Km"
+      },
+      "artists": [
+        {
+          "name": "John Philip Sousa",
+          "url": "https://open.spotify.com/artist/6jNyNAMv2gNLnfaP0bzo7y"
+        },
+        {
+          "name": "Royal Artillery Band",
+          "url": "https://open.spotify.com/artist/3IzZdcF86S2YxqKkdbVvQG"
+        },
+        {
+          "name": "Keith Brion",
+          "url": "https://open.spotify.com/artist/6iYrVk6QlklQqLyfvJDU9a"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164253,
+      "name": "The Washington Post",
+      "url": "https://open.spotify.com/track/77IxzesBR8AmZnxslT4AXM"
+    },
+    {
+      "album": {
+        "name": "German Wind Band Classics",
+        "url": "https://open.spotify.com/album/1cHDhnp6G4469XDS281nCb"
+      },
+      "artists": [
+        {
+          "name": "Arnold Schoenberg",
+          "url": "https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9"
+        },
+        {
+          "name": "Royal Northern College Of Music Wind Orchestra",
+          "url": "https://open.spotify.com/artist/0iWYVqttWtHgvLh6xq4Yq4"
+        },
+        {
+          "name": "Timothy Reynish",
+          "url": "https://open.spotify.com/artist/4VKtNRZBV5eyRQUNGejN2o"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 721080,
+      "name": "Theme and Variations, Op. 43a",
+      "url": "https://open.spotify.com/track/5wBr6sZaeRb8YlSRbAs1DU"
+    },
+    {
+      "album": {
+        "name": "2003 WASBE J\u00f6nk\u00f6ping, Sweden: Guildhall Symphonic Wind Ensemble",
+        "url": "https://open.spotify.com/album/6JKmz6fZEdo5pvVWpfy3mj"
+      },
+      "artists": [
+        {
+          "name": "Michael Tippett",
+          "url": "https://open.spotify.com/artist/0hW5OU8cM6ANp2gTi5WR2P"
+        },
+        {
+          "name": "Guildhall Symphonic Wind Ensemble",
+          "url": "https://open.spotify.com/artist/4U4iU8QFzxuVB3qPK7UQHv"
+        },
+        {
+          "name": "Peter Gane",
+          "url": "https://open.spotify.com/artist/2ICa5r327iGFsO2Sw9XHXz"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 933000,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/0fUZT3uFZRKoGXuPLw1FeL"
+    },
+    {
+      "album": {
+        "name": "Radiant Joy",
+        "url": "https://open.spotify.com/album/4q7IAXgpCMX9NaHJel8Zcv"
+      },
+      "artists": [
+        {
+          "name": "Walter Piston",
+          "url": "https://open.spotify.com/artist/6TaiLV0CFJSuRhPfFLhnY8"
+        },
+        {
+          "name": "Indiana University of Pennsylvania Wind Ensemble",
+          "url": "https://open.spotify.com/artist/6xFIN1UBZtYLhtn1MSbgOW"
+        },
+        {
+          "name": "Jack Stamp",
+          "url": "https://open.spotify.com/artist/4h3YtOAuPa1yrkufKacTWh"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294200,
+      "name": "Tunbridge Fair",
+      "url": "https://open.spotify.com/track/6I6AQHwT7llU2JKBNDWrSM"
+    },
+    {
+      "album": {
+        "name": "North Texas Wind Symphony: Poetics",
+        "url": "https://open.spotify.com/album/0klDkR12y6YM9O1hJKUGJr"
+      },
+      "artists": [
+        {
+          "name": "Michael Gandolfi",
+          "url": "https://open.spotify.com/artist/4tmEZknMU2NvdewbBk5iyy"
+        },
+        {
+          "name": "North Texas Wind Symphony",
+          "url": "https://open.spotify.com/artist/1MU0DtoPi3KRw38z1NnV5E"
+        },
+        {
+          "name": "Eugene Migliaro Corporon",
+          "url": "https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 701066,
+      "name": "Vientos y Tangos",
+      "url": "https://open.spotify.com/track/3EiQxic1kxxQkUyCHbnzIf"
+    },
+    {
+      "album": {
+        "name": "Wine-Dark Sea",
+        "url": "https://open.spotify.com/album/71ThC106qycu5VAIdY50vT"
+      },
+      "artists": [
+        {
+          "name": "John Mackey",
+          "url": "https://open.spotify.com/artist/2Wy3uorkIXqb2oWLCNrFN0"
+        },
+        {
+          "name": "The University of Texas Wind Ensemble",
+          "url": "https://open.spotify.com/artist/0QyjSRomk8pI4srgvJeDz0"
+        },
+        {
+          "name": "Jerry Junkin",
+          "url": "https://open.spotify.com/artist/6IEFj40kRnR24S1ZuTHmnK"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512613,
+      "name": "Wine-Dark Sea (Symphony for Band): III. The attentions of souls",
+      "url": "https://open.spotify.com/track/3527uKxlEfmeXC7IZum4BY"
+    },
+    {
+      "album": {
+        "name": "North Texas Wind Symphony: Wildflowers",
+        "url": "https://open.spotify.com/album/4iy2vFosmSKGphoipkYPpP"
+      },
+      "artists": [
+        {
+          "name": "Joseph Schwantner",
+          "url": "https://open.spotify.com/artist/3Y46IlqnuYQKsla21taBPR"
+        },
+        {
+          "name": "Adam Wodnicki",
+          "url": "https://open.spotify.com/artist/17gBjZ2KiVQ6OExzfO5wRY"
+        },
+        {
+          "name": "North Texas Wind Symphony",
+          "url": "https://open.spotify.com/artist/1MU0DtoPi3KRw38z1NnV5E"
+        },
+        {
+          "name": "Eugene Migliaro Corporon",
+          "url": "https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 732906,
+      "name": "\u2026 and the mountains rising nowhere",
+      "url": "https://open.spotify.com/track/4zCaSn0F41Odtm7NbDcV4h"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUfMnnPBigKP"
 }

@@ -285,6 +285,32 @@
     },
     {
       "album": {
+        "name": "Bagh\u00e8t (Remastered)",
+        "url": "https://open.spotify.com/album/1arsrww8NTIgtt6YmV4rxm"
+      },
+      "artists": [
+        {
+          "name": "Gianluigi Trovesi",
+          "url": "https://open.spotify.com/artist/72vioIyz3G8Ihu1CboAVSA"
+        },
+        {
+          "name": "Paolo Damiani",
+          "url": "https://open.spotify.com/artist/4Kcev97eG1s5FLhs5iB1Xc"
+        },
+        {
+          "name": "Gianni Cazzola",
+          "url": "https://open.spotify.com/artist/0gMoZy1oz4x7XZiwbFSDl9"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354410,
+      "name": "Bagh\u00e8t",
+      "url": "https://open.spotify.com/track/21464HJPf8GrBxzWpDnq45"
+    },
+    {
+      "album": {
         "name": "blakey jazz",
         "url": "https://open.spotify.com/album/7ElnyXPSXcKtWbmyffJTKq"
       },
@@ -478,8 +504,8 @@
       },
       "artists": [
         {
-          "name": "Peter Evans",
-          "url": "https://open.spotify.com/artist/3js0AfR1xKDKNWyCMi1FM3"
+          "name": "peterevans",
+          "url": "https://open.spotify.com/artist/1BReGRlKJwzay9hego3nTo"
         }
       ],
       "date_added": "2020-08-25",

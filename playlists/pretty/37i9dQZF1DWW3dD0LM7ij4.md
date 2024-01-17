@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3dD0LM7ij4.md) - [plain]
 
 > Live performances by Pink Floyd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,687 likes - 41 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,492 likes - 41 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

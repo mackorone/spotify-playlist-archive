@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain]
 
 > 2022年4月にスタートした、TikTokとSpotifyの共同プログラム<a href="spotify:playlist:37i9dQZF1DXdTxsEGukhp4">「Buzz Tracker」</a>の総まとめ！2023年Buzz Trakcerで再生された楽曲ベスト50!  cover: Lucky Kilimanjaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,711 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,918 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

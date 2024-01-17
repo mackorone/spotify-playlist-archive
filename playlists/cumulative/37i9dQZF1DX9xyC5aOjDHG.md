@@ -4,7 +4,7 @@
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-140 songs - 12 hr 17 min
+141 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Party\-go\-round](https://open.spotify.com/track/3TWSWDBVhUqVXqeY4ZBFTY) | [シリカ \(CV:日高里菜\)](https://open.spotify.com/artist/4JdD6IvJpVxTvMgM20lL6H), [リズベット \(CV:高垣彩陽\)](https://open.spotify.com/artist/2xGMhsiYI1AXzBnxZMmmCW) | [ソードアート･オンライン　キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:49 | 2022-04-01 |  |
 | [Rea\(s\)oN](https://open.spotify.com/track/7cXiUiPBBvJlrijfy1N0MS) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [Elza](https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV) | 4:27 | 2022-04-01 | 2023-02-03 |
 | [Rea\(s\)oN](https://open.spotify.com/track/1a2t2yAMEczuoPbLE6SN49) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 4:27 | 2022-04-01 | 2022-07-29 |
-| [Rea\(s\)oN](https://open.spotify.com/track/6uBKzWKkMX5scyTy389SmX) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:27 | 2022-10-27 |  |
+| [Rea\(s\)oN](https://open.spotify.com/track/6uBKzWKkMX5scyTy389SmX) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I) | 4:27 | 2022-10-27 | 2024-01-05 |
 | [RELIEF BULLET](https://open.spotify.com/track/2pmA0R4c5h14O3gG6fgRBF) | [朝田詩乃 \(CV:沢城みゆき\)](https://open.spotify.com/artist/09nerR6qse2nkbw10JeEYE) | [ソードアート・オンライン　キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 5:41 | 2022-04-01 |  |
 | [RESISTER](https://open.spotify.com/track/5PLqMo0jab5Brdv8WtS4Aw) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/60j3m6DUpJMJ0dKBjJ08F4) | 3:47 | 2022-04-01 | 2022-07-29 |
 | [RESISTER](https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 3:47 | 2022-04-01 |  |
@@ -148,5 +148,6 @@
 | [虹の音](https://open.spotify.com/track/2T2P5sX4017qOkzbCCtI7u) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/6hAgWrckOj0IIXxWO0MCsf) | 4:51 | 2022-04-01 | 2022-07-29 |
 | [虹の音](https://open.spotify.com/track/3NplXjK5BivkwrHxVOCSgW) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [虹の音](https://open.spotify.com/album/47fc2EpqcDqXo27UIBgnic) | 4:52 | 2022-10-27 | 2022-11-14 |
 | [逆境スペクトル](https://open.spotify.com/track/6xNxbelw9s7lEQDBBzqyCX) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [逆境スペクトル](https://open.spotify.com/album/0mE1VM8t550ELymqN22oqO) | 3:39 | 2022-04-01 |  |
+| [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 | 2024-01-04 |  |
 
 \*This playlist was first scraped on 2022-07-25. Prior content cannot be recovered.

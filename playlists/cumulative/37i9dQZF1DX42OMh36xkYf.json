@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Adrian Bello en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Kali Uchis en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 341537,
       "name": "Barlovento",
       "url": "https://open.spotify.com/track/18lElsu2Ou1mQp9lmnkcJU"
@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Blood Milk Moon",
+        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177852,
+      "name": "Blood Milk Moon",
+      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+    },
+    {
+      "album": {
         "name": "Carta de Amor",
         "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 212036,
       "name": "cellphone",
       "url": "https://open.spotify.com/track/3ZQc1r9mfLCCJo5rxHBbe4"
@@ -358,6 +376,28 @@
       "duration_ms": 130602,
       "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
+    },
+    {
+      "album": {
+        "name": "CH\u00c9VERE",
+        "url": "https://open.spotify.com/album/1UHDzDHdvndCypdFrudyGY"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146147,
+      "name": "CH\u00c9VERE",
+      "url": "https://open.spotify.com/track/6aKTId77qaIrzo82M51eqm"
     },
     {
       "album": {
@@ -430,6 +470,24 @@
       "duration_ms": 200598,
       "name": "Dame Un Break",
       "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
+    },
+    {
+      "album": {
+        "name": "De Cabeza",
+        "url": "https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174286,
+      "name": "De Cabeza",
+      "url": "https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug"
     },
     {
       "album": {
@@ -705,6 +763,24 @@
     },
     {
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144135,
+      "name": "Heladito",
+      "url": "https://open.spotify.com/track/0xuR1uorCHBfBi0HDZPSYi"
+    },
+    {
+      "album": {
         "name": "Hora Loca",
         "url": "https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8"
       },
@@ -724,6 +800,28 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "album": {
@@ -1008,6 +1106,28 @@
     {
       "album": {
         "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232131,
+      "name": "MOJABI GHOST",
+      "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
+    },
+    {
+      "album": {
+        "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
       "artists": [
@@ -1022,7 +1142,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 232131,
       "name": "MOJABI GHOST",
       "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
@@ -1146,7 +1266,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
@@ -1258,10 +1378,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 202160,
       "name": "Pintando el Humo",
       "url": "https://open.spotify.com/track/72Sy0iRM8dW4ZnF9XH16OC"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o C\u00edtrico (El D\u00eda Despu\u00e9s)",
+        "url": "https://open.spotify.com/album/1c92815dElLk9cEKctEvEv"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171612,
+      "name": "Playita",
+      "url": "https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98"
     },
     {
       "album": {
@@ -1306,7 +1444,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 185600,
       "name": "PRIVILEGIOS",
       "url": "https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm"
@@ -1638,7 +1776,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 191008,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
@@ -1704,10 +1842,40 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 185806,
       "name": "VOLVER",
       "url": "https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
     },
     {
       "album": {

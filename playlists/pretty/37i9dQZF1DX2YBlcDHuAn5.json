@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6673,
+  "num_followers": 6755,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
         }
       ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -203,34 +203,18 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
       "artists": [
         {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "C'mon Baby, Cry",
-      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -247,6 +231,22 @@
       "duration_ms": 276826,
       "name": "All The Good Times",
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "C'mon Baby, Cry",
+      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "I Am The Moon: I. Crescent",
-        "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 334600,
-      "name": "Hear My Dear",
-      "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
         "name": "King of a Land",
         "url": "https://open.spotify.com/album/1oTVSpkoMbY4CiQC1NAVFG"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 273400,
       "name": "Pagan Run",
       "url": "https://open.spotify.com/track/7LwPaJBg7ySXzY5fQO3WbR"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "I Am The Moon: I. Crescent",
+        "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 334600,
+      "name": "Hear My Dear",
+      "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Love Is A Place",
-        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
         "name": "Down Every Road",
         "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 156021,
       "name": "Today I Started Loving You Again",
       "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "Love Is A Place",
+        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
+        "name": "The Epic Tale of the Stranded Man",
+        "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
       },
       "artists": [
         {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
         }
       ],
-      "duration_ms": 191760,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
+      "duration_ms": 212139,
+      "name": "Lola with the Light Eyes",
+      "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -567,6 +563,26 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 191760,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "The Epic Tale of the Stranded Man",
-        "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
-      },
-      "artists": [
-        {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
-        }
-      ],
-      "duration_ms": 212139,
-      "name": "Lola with the Light Eyes",
-      "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
       },
@@ -611,38 +611,6 @@
       "duration_ms": 299306,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
-        "name": "Safe in the Suburbs",
-        "url": "https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi"
-      },
-      "artists": [
-        {
-          "name": "Femke",
-          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
-        }
-      ],
-      "duration_ms": 178163,
-      "name": "Dead End Street",
-      "url": "https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -683,22 +651,18 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Times",
-        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
       "artists": [
         {
-          "name": "Marlayne",
-          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
-        },
-        {
-          "name": "Hans Vermeulen",
-          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 244060,
-      "name": "Times",
-      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -723,6 +687,58 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
+        "name": "Safe in the Suburbs",
+        "url": "https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi"
+      },
+      "artists": [
+        {
+          "name": "Femke",
+          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
+        }
+      ],
+      "duration_ms": 178163,
+      "name": "Dead End Street",
+      "url": "https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+      },
+      "artists": [
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "Times",
+        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
+      },
+      "artists": [
+        {
+          "name": "Marlayne",
+          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
+        },
+        {
+          "name": "Hans Vermeulen",
+          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
+        }
+      ],
+      "duration_ms": 244060,
+      "name": "Times",
+      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
         "name": "A Heightened Sense of Everything",
         "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
       },
@@ -735,6 +751,26 @@
       "duration_ms": 208440,
       "name": "Heat of the Moment",
       "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "What Kind of Woman",
+        "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        },
+        {
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "What Kind of Woman",
+      "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -771,42 +807,6 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "What Kind of Woman",
-        "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        },
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "What Kind of Woman",
-      "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
-      },
-      "artists": [
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
         "name": "Rollin' with the Punches",
         "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
+      },
+      "artists": [
+        {
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
+        }
+      ],
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
         "name": "In The Morning, When We Rise",
         "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 232725,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
-        "name": "Nighttime Walk",
-        "url": "https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48"
-      },
-      "artists": [
-        {
-          "name": "Mercy John",
-          "url": "https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ"
-        }
-      ],
-      "duration_ms": 336904,
-      "name": "Nighttime Walk",
-      "url": "https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO"
     }
   ],
   "unique_name": "Route Americana",

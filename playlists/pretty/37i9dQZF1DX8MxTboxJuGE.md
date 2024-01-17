@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,604 likes - 75 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,417 likes - 75 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 46 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 |
 | 47 | [Nothing Else Matters \(Orchestra/Clean Guitar/Vocal Mix \- July 8th, 1991\)](https://open.spotify.com/track/0GZ96dnp0Vpyk5CTElvDfI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ) | 6:45 |
 | 48 | [Rédeas](https://open.spotify.com/track/3jtrDtWGJamKClDQ51e2OL) | [Project46](https://open.spotify.com/artist/4PdFQIzACemw18MfVS1LCF) | [Rédeas](https://open.spotify.com/album/5WOsd8FK2nsfcS48bRFnVc) | 3:44 |
-| 49 | [Dance Of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/track/6ss0UUy8yBqhC83qSVn2hf) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Dance of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/album/2jOsnUll6EBUSO3Pa7Ue3r) | 4:29 |
+| 49 | [Dance Of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/track/3yPBHqSBVEyYKSujOWHyJ4) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Torn Arteries](https://open.spotify.com/album/7gLYRl6OVQjgsceV95XuUR) | 4:29 |
 | 50 | [Face of the Storm](https://open.spotify.com/track/4X8OFcU0z00WUHVV3n87u2) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [Vera Cruz](https://open.spotify.com/album/0gdT0litKVAVcypvujGegm) | 7:30 |
 | 51 | [Violent Times](https://open.spotify.com/track/1fUnlLKs0e7PrgJ2TnCxHv) | [Red Razor](https://open.spotify.com/artist/5unXbCLWuUcsnAnz4ecKbg) | [The Revolution Continues](https://open.spotify.com/album/1a6jTe9E3iX1hH4xuGT2Qp) | 2:54 |
 | 52 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 |

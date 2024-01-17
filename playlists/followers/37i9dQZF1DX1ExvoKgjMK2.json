@@ -1,176 +1,739 @@
 {
-  "2023-07-12": 1606,
-  "2023-07-13": 2629,
-  "2023-07-14": 3395,
-  "2023-07-15": 3470,
-  "2023-07-16": 3619,
-  "2023-07-17": 3671,
-  "2023-07-18": 3695,
-  "2023-07-19": 3731,
-  "2023-07-20": 3768,
-  "2023-07-21": 3800,
-  "2023-07-22": 3828,
-  "2023-07-23": 3845,
-  "2023-07-24": 3862,
-  "2023-07-25": 3881,
-  "2023-07-26": 3910,
-  "2023-07-27": 3933,
-  "2023-07-28": 3956,
-  "2023-07-29": 3986,
-  "2023-07-30": 4013,
-  "2023-07-31": 4029,
-  "2023-08-01": 4054,
-  "2023-08-02": 4080,
-  "2023-08-03": 4111,
-  "2023-08-04": 4139,
-  "2023-08-05": 4154,
-  "2023-08-06": 4186,
-  "2023-08-07": 4186,
-  "2023-08-08": 4201,
-  "2023-08-09": 4218,
-  "2023-08-10": 4234,
-  "2023-08-11": 4241,
-  "2023-08-12": 4263,
-  "2023-08-13": 4279,
-  "2023-08-14": 4290,
-  "2023-08-15": 4307,
-  "2023-08-16": 4307,
-  "2023-08-17": 4321,
-  "2023-08-18": 4334,
-  "2023-08-19": 4352,
-  "2023-08-20": 4377,
-  "2023-08-21": 4400,
-  "2023-08-22": 4420,
-  "2023-08-23": 4442,
-  "2023-08-24": 4465,
-  "2023-08-25": 4487,
-  "2023-08-26": 4501,
-  "2023-08-27": 4517,
-  "2023-08-28": 4538,
-  "2023-08-29": 4558,
-  "2023-08-30": 4580,
-  "2023-08-31": 4597,
-  "2023-09-01": 4621,
-  "2023-09-02": 4621,
-  "2023-09-03": 4633,
-  "2023-09-04": 4634,
-  "2023-09-05": 4648,
-  "2023-09-06": 4670,
-  "2023-09-07": 4677,
-  "2023-09-08": 4693,
-  "2023-09-09": 4707,
-  "2023-09-10": 4714,
-  "2023-09-11": 4727,
-  "2023-09-12": 4743,
-  "2023-09-13": 4753,
-  "2023-09-14": 4766,
-  "2023-09-15": 4778,
-  "2023-09-16": 4796,
-  "2023-09-17": 4818,
-  "2023-09-18": 4829,
-  "2023-09-19": 4838,
-  "2023-09-20": 4838,
-  "2023-09-21": 4853,
-  "2023-09-22": 4869,
-  "2023-09-23": 4891,
-  "2023-09-24": 4900,
-  "2023-09-25": 4918,
-  "2023-09-26": 4934,
-  "2023-09-27": 4943,
-  "2023-09-28": 4960,
-  "2023-09-29": 4973,
-  "2023-09-30": 4979,
-  "2023-10-01": 4995,
-  "2023-10-02": 5007,
-  "2023-10-03": 5020,
-  "2023-10-04": 5025,
-  "2023-10-05": 5034,
-  "2023-10-06": 5042,
-  "2023-10-07": 5057,
-  "2023-10-08": 5067,
-  "2023-10-09": 5078,
-  "2023-10-10": 5087,
-  "2023-10-11": 5096,
-  "2023-10-12": 5096,
-  "2023-10-13": 5103,
-  "2023-10-14": 5107,
-  "2023-10-15": 5113,
-  "2023-10-16": 5127,
-  "2023-10-17": 5138,
-  "2023-10-18": 5146,
-  "2023-10-19": 5154,
-  "2023-10-20": 5172,
-  "2023-10-21": 5188,
-  "2023-10-22": 5189,
-  "2023-10-23": 5196,
-  "2023-10-24": 5199,
-  "2023-10-25": 5204,
-  "2023-10-26": 5206,
-  "2023-10-27": 5211,
-  "2023-10-28": 5223,
-  "2023-10-29": 5227,
-  "2023-10-30": 5246,
-  "2023-10-31": 5246,
-  "2023-11-01": 5255,
-  "2023-11-02": 5262,
-  "2023-11-03": 5268,
-  "2023-11-04": 5279,
-  "2023-11-05": 5285,
-  "2023-11-06": 5297,
-  "2023-11-07": 5304,
-  "2023-11-08": 5309,
-  "2023-11-09": 5316,
-  "2023-11-10": 5324,
-  "2023-11-11": 5341,
-  "2023-11-12": 5354,
-  "2023-11-13": 5367,
-  "2023-11-14": 5374,
-  "2023-11-15": 5374,
-  "2023-11-16": 5393,
-  "2023-11-17": 5420,
-  "2023-11-18": 5420,
-  "2023-11-19": 5430,
-  "2023-11-20": 5445,
-  "2023-11-21": 5458,
-  "2023-11-22": 5470,
-  "2023-11-23": 5486,
-  "2023-11-24": 5505,
-  "2023-11-25": 5515,
-  "2023-11-26": 5537,
-  "2023-11-27": 5549,
-  "2023-11-28": 5555,
-  "2023-11-29": 5584,
-  "2023-11-30": 5584,
-  "2023-12-01": 5599,
-  "2023-12-02": 5606,
-  "2023-12-03": 5618,
-  "2023-12-04": 5624,
-  "2023-12-05": 5635,
-  "2023-12-06": 5638,
-  "2023-12-07": 5639,
-  "2023-12-08": 5646,
-  "2023-12-09": 5664,
-  "2023-12-10": 5685,
-  "2023-12-11": 5697,
-  "2023-12-12": 5708,
-  "2023-12-13": 5727,
-  "2023-12-14": 5758,
-  "2023-12-15": 5769,
-  "2023-12-16": 5783,
-  "2023-12-17": 5809,
-  "2023-12-18": 5828,
-  "2023-12-19": 5838,
-  "2023-12-20": 5852,
-  "2023-12-21": 5870,
-  "2023-12-22": 5887,
-  "2023-12-23": 5912,
-  "2023-12-24": 5933,
-  "2023-12-25": 5956,
-  "2023-12-26": 5970,
-  "2023-12-27": 5989,
-  "2023-12-30": 6052,
-  "2023-12-31": 6072,
-  "2024-01-01": 6082,
-  "2024-01-02": 6104,
-  "2024-01-03": 6122
+  "2024-01-17": 6386,
+  "date_first_scraped": "2023-07-12",
+  "description": "\ub9c8\uce68\ub0b4 \ud30c\uc778\uc560\ud50c \uc12c\uc5d0\uc11c \uc5f4\ub9ac\ub294 '\uc12c\uba38\uc18c\ub2e4 \ub77d\ud398\uc2a4\ud0c0'! \uadf8 \uc0dd\uc0dd\ud55c \ud604\uc7a5\uacfc \ud568\uaed8 \ubba4\uc9c0\uc158 \ucfe0\ud0a4\ub4e4\uc758 \ucd94\ucc9c\uace1\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!)",
+  "name": "Cookie Run: Kingdom \u2018Summer Soda Rock Festa (\u2019\ucfe0\ud0a4\ub7f0: \ud0b9\ub364 \u2018\uc12c\uba38\uc18c\ub2e4 \ub77d\ud398\uc2a4\ud0c0\u2019)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Black Lemonade Cookie audio liners",
+        "url": "https://open.spotify.com/album/7djaI8dEkKZfiktusWKeTo"
+      },
+      "artists": [
+        {
+          "name": "Black Lemonade Cookie",
+          "url": "https://open.spotify.com/artist/786vJUpXl2OfOsJ8J8ZnbP"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17653,
+      "name": "Curated by Black Lemonade Cookie",
+      "url": "https://open.spotify.com/track/1sRQxYiSTXOzbXfjCOHWFE"
+    },
+    {
+      "album": {
+        "name": "Parfait Cookie audio liners",
+        "url": "https://open.spotify.com/album/3xad9at6OrKV7luk9u3Ki6"
+      },
+      "artists": [
+        {
+          "name": "Parfait Cookie",
+          "url": "https://open.spotify.com/artist/6ATi28P4pkZjfDKqlJWDtR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14005,
+      "name": "Curated by Parfait Cookie",
+      "url": "https://open.spotify.com/track/5H1OLOCQ7W7mEIHwS5FEiJ"
+    },
+    {
+      "album": {
+        "name": "Rockstar Cookie audio liners",
+        "url": "https://open.spotify.com/album/7ja0j7TQ5JT9N6ZZrQ86Uc"
+      },
+      "artists": [
+        {
+          "name": "Rockstar Cookie",
+          "url": "https://open.spotify.com/artist/5dKAbu1nRg7VPCMYfkmxJc"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15427,
+      "name": "Curated by Rockstar Cookie",
+      "url": "https://open.spotify.com/track/0cVmZSW9OvZj2Xydl5A0Qg"
+    },
+    {
+      "album": {
+        "name": "Shining Glitter Cookie audio liners",
+        "url": "https://open.spotify.com/album/5Xlrdk16qXsq3vIjaMAYX8"
+      },
+      "artists": [
+        {
+          "name": "Shining Glitter Cookie",
+          "url": "https://open.spotify.com/artist/2Z1pjMZED8XfUqF5qmlIii"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 12388,
+      "name": "Curated by Shining Glitter Cookie",
+      "url": "https://open.spotify.com/track/1pOhFArU9McNeoDZj4ADLR"
+    },
+    {
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-10",
+      "duration_ms": 250986,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
+    },
+    {
+      "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/0FvWAtuJrMGOd2UQ3sAvdI"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 240360,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/62RxVBrMVey7CjROBLsMIL"
+    },
+    {
+      "album": {
+        "name": "Rockstar Cookie audio liners",
+        "url": "https://open.spotify.com/album/7ja0j7TQ5JT9N6ZZrQ86Uc"
+      },
+      "artists": [
+        {
+          "name": "Rockstar Cookie",
+          "url": "https://open.spotify.com/artist/5dKAbu1nRg7VPCMYfkmxJc"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30634,
+      "name": "Ending Ment from Rockstar Cookie",
+      "url": "https://open.spotify.com/track/6LpbWSrYiCrK9VWcSXTUoC"
+    },
+    {
+      "album": {
+        "name": "Momentary Sixth Sense",
+        "url": "https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262720,
+      "name": "Even If the World Ends Tomorrow",
+      "url": "https://open.spotify.com/track/3V3ORDW5cCr8LuGnWyUCMj"
+    },
+    {
+      "album": {
+        "name": "Music (Songs From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259911,
+      "name": "Eye To Eye",
+      "url": "https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq"
+    },
+    {
+      "album": {
+        "name": "Fast Slow Disco",
+        "url": "https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197005,
+      "name": "Fast Slow Disco",
+      "url": "https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A"
+    },
+    {
+      "album": {
+        "name": "Cookie Run: Kingdom OST Summer Soda Rock Festa",
+        "url": "https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG"
+      },
+      "artists": [
+        {
+          "name": "DEVSISTERS",
+          "url": "https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX"
+        },
+        {
+          "name": "Lee Yongshin",
+          "url": "https://open.spotify.com/artist/7IupjPUInYSwlSmdCL3mKM"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207493,
+      "name": "Glittering Dreams (Feat. Lee Yongshin)",
+      "url": "https://open.spotify.com/track/7ka3DtYOq1iYs26gVXcCJ2"
+    },
+    {
+      "album": {
+        "name": "Message dedicated to you alone",
+        "url": "https://open.spotify.com/album/7iEFSE5ZWUcNplkokbJMXJ"
+      },
+      "artists": [
+        {
+          "name": "YEGNY",
+          "url": "https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202533,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/3HJJBIkgywcEeJLWJcOEuN"
+    },
+    {
+      "album": {
+        "name": "dosii",
+        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265952,
+      "name": "Half Clear",
+      "url": "https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf"
+    },
+    {
+      "album": {
+        "name": "FIXION",
+        "url": "https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250973,
+      "name": "Kyouran Hey Kids!!",
+      "url": "https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm"
+    },
+    {
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/0qpYN6nZdr4CCp8Jj3EVPz"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/1I7LDTkosplUNc69ISjKJs"
+    },
+    {
+      "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289853,
+      "name": "Me and Michael",
+      "url": "https://open.spotify.com/track/0t4z0WaQomQqPONghWn8c2"
+    },
+    {
+      "album": {
+        "name": "Jaurim 04",
+        "url": "https://open.spotify.com/album/5dghwP7uiwcgwD4amNSxi2"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Principal investigator",
+      "url": "https://open.spotify.com/track/591DkW4rWEHSJyiKzLkIBV"
+    },
+    {
+      "album": {
+        "name": "Psychomania",
+        "url": "https://open.spotify.com/album/7zFWh5Ia6PnXBB8ketnf8p"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238498,
+      "name": "Psychomania",
+      "url": "https://open.spotify.com/track/1pIQGjcAUlqZEJ9wSvJn42"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+    },
+    {
+      "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220560,
+      "name": "Rock and Roll - Remaster",
+      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
+    },
+    {
+      "album": {
+        "name": "Cookie Run: Kingdom OST Summer Soda Rock Festa",
+        "url": "https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG"
+      },
+      "artists": [
+        {
+          "name": "DEVSISTERS",
+          "url": "https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX"
+        },
+        {
+          "name": "Lee Juseung",
+          "url": "https://open.spotify.com/artist/4VYWvx4JpgPYUbpAKgXH33"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214053,
+      "name": "Rocker's High (Feat. Lee Juseung)",
+      "url": "https://open.spotify.com/track/5qQYI0pBhlvP0CBhfCrLU0"
+    },
+    {
+      "album": {
+        "name": "Cookie Run: Kingdom OST Summer Soda Rock Festa",
+        "url": "https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG"
+      },
+      "artists": [
+        {
+          "name": "DEVSISTERS",
+          "url": "https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX"
+        },
+        {
+          "name": "Lee Juseung",
+          "url": "https://open.spotify.com/artist/4VYWvx4JpgPYUbpAKgXH33"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174997,
+      "name": "Rocker's High (Rock Battle ver.) (Feat. Lee Juseung)",
+      "url": "https://open.spotify.com/track/2AQyPXWSz3VGPqh7xqwvh8"
+    },
+    {
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "album": {
+        "name": "PLASMA",
+        "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Spinning World",
+      "url": "https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm"
+    },
+    {
+      "album": {
+        "name": "Black Lemonade Cookie audio liners",
+        "url": "https://open.spotify.com/album/7djaI8dEkKZfiktusWKeTo"
+      },
+      "artists": [
+        {
+          "name": "Black Lemonade Cookie",
+          "url": "https://open.spotify.com/artist/786vJUpXl2OfOsJ8J8ZnbP"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31616,
+      "name": "Stage Comment from Black Lemonade Cookie",
+      "url": "https://open.spotify.com/track/16fh04oSARqiF12rNLOhy7"
+    },
+    {
+      "album": {
+        "name": "Parfait Cookie audio liners",
+        "url": "https://open.spotify.com/album/3xad9at6OrKV7luk9u3Ki6"
+      },
+      "artists": [
+        {
+          "name": "Parfait Cookie",
+          "url": "https://open.spotify.com/artist/6ATi28P4pkZjfDKqlJWDtR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35189,
+      "name": "Stage Comment from Parfait Cookie",
+      "url": "https://open.spotify.com/track/1nujRFcGj8HmFULDs40AoZ"
+    },
+    {
+      "album": {
+        "name": "Rockstar Cookie audio liners",
+        "url": "https://open.spotify.com/album/7ja0j7TQ5JT9N6ZZrQ86Uc"
+      },
+      "artists": [
+        {
+          "name": "Rockstar Cookie",
+          "url": "https://open.spotify.com/artist/5dKAbu1nRg7VPCMYfkmxJc"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26998,
+      "name": "Stage Comment from Rockstar Cookie",
+      "url": "https://open.spotify.com/track/1LpC6iZ7zs4C4qTAWr2kns"
+    },
+    {
+      "album": {
+        "name": "Shining Glitter Cookie audio liners",
+        "url": "https://open.spotify.com/album/5Xlrdk16qXsq3vIjaMAYX8"
+      },
+      "artists": [
+        {
+          "name": "Shining Glitter Cookie",
+          "url": "https://open.spotify.com/artist/2Z1pjMZED8XfUqF5qmlIii"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30599,
+      "name": "Stage Comment from Shining Glitter Cookie",
+      "url": "https://open.spotify.com/track/79CnS98WsGMNdLjRzQNwmA"
+    },
+    {
+      "album": {
+        "name": "Cookie Run: Kingdom OST Summer Soda Rock Festa",
+        "url": "https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG"
+      },
+      "artists": [
+        {
+          "name": "DEVSISTERS",
+          "url": "https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX"
+        },
+        {
+          "name": "Park Ji Yoon",
+          "url": "https://open.spotify.com/artist/1iF0bgDBIthP30VjBK3KUO"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242111,
+      "name": "Sweet Serenade (Feat. Park Jiyoon)",
+      "url": "https://open.spotify.com/track/0tQy8qtHKnlCWcHHtGCkar"
+    },
+    {
+      "album": {
+        "name": "Cookie Run: Kingdom OST Summer Soda Rock Festa",
+        "url": "https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG"
+      },
+      "artists": [
+        {
+          "name": "DEVSISTERS",
+          "url": "https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX"
+        },
+        {
+          "name": "Kim Doyeong",
+          "url": "https://open.spotify.com/artist/6oyiogQiavwFCvd3YG6BSS"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211930,
+      "name": "Transfigure (Feat. Kim Doyeong)",
+      "url": "https://open.spotify.com/track/3Id3wHPoxdiS4BmrYQfe34"
+    },
+    {
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/0rXMja4kiy7d5IzYOHwtrK"
+      },
+      "artists": [
+        {
+          "name": "LudiSTELO",
+          "url": "https://open.spotify.com/artist/0EnwklCF9zZ5r5m6uZrve5"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366538,
+      "name": "Water Roof",
+      "url": "https://open.spotify.com/track/26LaK1Z9hUINXdk8SvxiOi"
+    },
+    {
+      "album": {
+        "name": "of us",
+        "url": "https://open.spotify.com/album/4x6THVlohmI8deJv3I1kU3"
+      },
+      "artists": [
+        {
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "WHAT TIME IS IT NOW?",
+      "url": "https://open.spotify.com/track/096Bx2bni4EOMZxfb2Hvm3"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "album": {
+        "name": "Enjoy Perfect Lemon Recipes vol.2 - My Own Summer",
+        "url": "https://open.spotify.com/album/73AbS440N3i0SY0VkYZ9ZF"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-04",
+      "duration_ms": 240360,
+      "name": "\ub4dc\ub77c\uc774\ube0c Drive",
+      "url": "https://open.spotify.com/track/0S7z9zHni3mSttpQcmQZDs"
+    },
+    {
+      "album": {
+        "name": "1202",
+        "url": "https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240026,
+      "name": "\ub4dc\ub77c\uc774\ube0c Drive (Live at Nodeul Live House, 2021)",
+      "url": "https://open.spotify.com/track/7lLDs1B9CBJeRVdDu2ZhsI"
+    },
+    {
+      "album": {
+        "name": "EGO FUN SHOW",
+        "url": "https://open.spotify.com/album/0g3Zm9Oya85UK6EkjO8GMk"
+      },
+      "artists": [
+        {
+          "name": "Ego Function Error",
+          "url": "https://open.spotify.com/artist/4EhoOhM4d7P3EkLZhjqVa6"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401346,
+      "name": "\ubc14\ubcf4\ub4e4\uc758 \uc655 The Queen of fools",
+      "url": "https://open.spotify.com/track/6stEqx6YkXslgAJgPZVuuy"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1ExvoKgjMK2"
 }

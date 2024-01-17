@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-218 songs - 12 hr 39 min
+219 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [En Algún Momento \(Ahora No\)](https://open.spotify.com/track/4LqkF0XoUPjOk7mykwuHit) | [Johan Sotelo](https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd) | [En Algún Momento \(Ahora No\)](https://open.spotify.com/album/2EYXnk2ySeQzxVzhccNQxh) | 2:43 | 2021-12-06 | 2022-07-28 |
 | [Enamórate De Alguien Más](https://open.spotify.com/track/1pDgS6HDNrrIawdhYEvI0s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:49 | 2023-01-06 |  |
 | [Estallo al Mundo](https://open.spotify.com/track/0y7gCUeZFDSjleaqyZCXhK) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Estallo al Mundo](https://open.spotify.com/album/4Ctoc7zT5X8dGDk3G7GAq7) | 3:31 | 2021-12-06 | 2022-05-25 |
+| [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 | 2024-01-12 |  |
 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 | 2023-12-08 |  |
 | [Falta Amor](https://open.spotify.com/track/16YNU7FBgfPAXJzVc4l1vc) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Falta Amor](https://open.spotify.com/album/4LDxlv1xCO3N1NXsrvKOC8) | 3:25 | 2021-12-06 | 2023-03-25 |
 | [Falta Amor](https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Falta Amor](https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m) | 3:23 | 2021-12-06 |  |
@@ -141,7 +142,7 @@
 | [Otra Mañana Más](https://open.spotify.com/track/5j9td3zUP5z2OUauQKh40y) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Otra Mañana Más](https://open.spotify.com/album/65dPQq9OQzPjpNTXGwg5la) | 3:00 | 2021-12-06 | 2022-07-26 |
 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 | 2021-12-06 | 2023-01-04 |
 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 | 2022-12-30 |  |
-| [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 | 2021-12-06 | 2023-05-16 |
+| [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 | 2021-12-06 | 2024-01-13 |
 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 | 2022-07-21 |  |
 | [Perdóname](https://open.spotify.com/track/7xC6lsS3oaZNm2TzMRaoOu) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Perdóname](https://open.spotify.com/album/6aP0bqgpdbuYNN4kp9e5Lo) | 3:29 | 2021-12-06 | 2022-07-29 |
 | [Por Qué Te Vas](https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Por Qué Te Vas](https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3) | 3:21 | 2021-12-06 | 2022-07-04 |
@@ -190,7 +191,7 @@
 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-03-03 | 2023-09-30 |
 | [Te Lo Prometo](https://open.spotify.com/track/609ItcFreOqmwRjmBbocds) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:09 | 2023-05-05 |  |
 | [Te miro a ti](https://open.spotify.com/track/33TPAEke4ngiWenZnNi5xq) | [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [Te miro a ti](https://open.spotify.com/album/36Kd5LZGDeE7ZhJB39J2c2) | 3:03 | 2021-12-06 | 2022-07-24 |
-| [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 | 2023-08-29 |  |
+| [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 | 2023-08-29 | 2024-01-10 |
 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 | 2021-12-06 | 2023-07-22 |
 | [Te Olvidaré](https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi) | 3:14 | 2021-12-06 | 2022-12-18 |
 | [Te Olvidaré](https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:14 | 2022-08-31 |  |

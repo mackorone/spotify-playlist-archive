@@ -1,291 +1,1441 @@
 {
-  "2023-03-18": 2294,
-  "2023-03-19": 2394,
-  "2023-03-20": 2497,
-  "2023-03-21": 2612,
-  "2023-03-22": 2783,
-  "2023-03-23": 2975,
-  "2023-03-24": 2975,
-  "2023-03-25": 3313,
-  "2023-03-26": 3505,
-  "2023-03-27": 3674,
-  "2023-03-28": 3807,
-  "2023-03-29": 3978,
-  "2023-03-30": 4235,
-  "2023-03-31": 4235,
-  "2023-04-01": 4369,
-  "2023-04-02": 4515,
-  "2023-04-03": 4666,
-  "2023-04-04": 4776,
-  "2023-04-05": 4890,
-  "2023-04-06": 5035,
-  "2023-04-07": 5139,
-  "2023-04-09": 5387,
-  "2023-04-10": 5496,
-  "2023-04-11": 5691,
-  "2023-04-12": 5691,
-  "2023-04-13": 5798,
-  "2023-04-14": 5902,
-  "2023-04-15": 6043,
-  "2023-04-16": 6166,
-  "2023-04-17": 6270,
-  "2023-04-18": 6356,
-  "2023-04-19": 6475,
-  "2023-04-20": 6578,
-  "2023-04-21": 6692,
-  "2023-04-22": 6780,
-  "2023-04-23": 6878,
-  "2023-04-24": 6984,
-  "2023-04-25": 7073,
-  "2023-04-26": 7175,
-  "2023-04-27": 7264,
-  "2023-04-28": 7380,
-  "2023-04-29": 7484,
-  "2023-04-30": 7590,
-  "2023-05-01": 7681,
-  "2023-05-02": 7781,
-  "2023-05-03": 7861,
-  "2023-05-04": 7936,
-  "2023-05-05": 8038,
-  "2023-05-06": 8139,
-  "2023-05-07": 8214,
-  "2023-05-08": 8315,
-  "2023-05-09": 8383,
-  "2023-05-10": 8452,
-  "2023-05-11": 8533,
-  "2023-05-12": 8602,
-  "2023-05-13": 8683,
-  "2023-05-14": 8784,
-  "2023-05-15": 8870,
-  "2023-05-16": 8944,
-  "2023-05-17": 9029,
-  "2023-05-18": 9118,
-  "2023-05-19": 9209,
-  "2023-05-20": 9399,
-  "2023-05-21": 9399,
-  "2023-05-22": 9399,
-  "2023-05-23": 9556,
-  "2023-05-24": 9678,
-  "2023-05-25": 9697,
-  "2023-05-26": 9754,
-  "2023-05-27": 9848,
-  "2023-05-28": 9925,
-  "2023-05-29": 9925,
-  "2023-05-30": 10084,
-  "2023-05-31": 10154,
-  "2023-06-01": 10222,
-  "2023-06-02": 10289,
-  "2023-06-03": 10353,
-  "2023-06-04": 10437,
-  "2023-06-05": 10515,
-  "2023-06-06": 10572,
-  "2023-06-07": 10636,
-  "2023-06-08": 10698,
-  "2023-06-09": 10758,
-  "2023-06-10": 10831,
-  "2023-06-11": 10904,
-  "2023-06-12": 10988,
-  "2023-06-13": 11035,
-  "2023-06-14": 11092,
-  "2023-06-15": 11173,
-  "2023-06-16": 11227,
-  "2023-06-17": 11272,
-  "2023-06-18": 11339,
-  "2023-06-19": 11403,
-  "2023-06-20": 11452,
-  "2023-06-21": 11504,
-  "2023-06-22": 11568,
-  "2023-06-23": 11629,
-  "2023-06-24": 11693,
-  "2023-06-25": 11779,
-  "2023-06-26": 11845,
-  "2023-06-27": 11893,
-  "2023-06-28": 11939,
-  "2023-06-29": 11982,
-  "2023-06-30": 12038,
-  "2023-07-01": 12157,
-  "2023-07-02": 12157,
-  "2023-07-03": 12210,
-  "2023-07-04": 12267,
-  "2023-07-05": 12323,
-  "2023-07-06": 12441,
-  "2023-07-07": 12441,
-  "2023-07-08": 12497,
-  "2023-07-09": 12556,
-  "2023-07-10": 12605,
-  "2023-07-11": 12650,
-  "2023-07-12": 12697,
-  "2023-07-13": 12746,
-  "2023-07-14": 12804,
-  "2023-07-15": 12849,
-  "2023-07-16": 12921,
-  "2023-07-17": 12982,
-  "2023-07-18": 13022,
-  "2023-07-19": 13066,
-  "2023-07-20": 13106,
-  "2023-07-21": 13154,
-  "2023-07-22": 13220,
-  "2023-07-23": 13268,
-  "2023-07-24": 13332,
-  "2023-07-25": 13386,
-  "2023-07-26": 13458,
-  "2023-07-27": 13521,
-  "2023-07-28": 13575,
-  "2023-07-29": 13644,
-  "2023-07-30": 13714,
-  "2023-07-31": 13786,
-  "2023-08-01": 13841,
-  "2023-08-02": 13902,
-  "2023-08-03": 13939,
-  "2023-08-04": 13991,
-  "2023-08-05": 14062,
-  "2023-08-06": 14190,
-  "2023-08-07": 14190,
-  "2023-08-08": 14238,
-  "2023-08-09": 14305,
-  "2023-08-10": 14371,
-  "2023-08-11": 14432,
-  "2023-08-12": 14494,
-  "2023-08-13": 14577,
-  "2023-08-14": 14654,
-  "2023-08-15": 14782,
-  "2023-08-16": 14782,
-  "2023-08-17": 14860,
-  "2023-08-18": 14941,
-  "2023-08-19": 14989,
-  "2023-08-20": 15070,
-  "2023-08-21": 15151,
-  "2023-08-22": 15228,
-  "2023-08-23": 15294,
-  "2023-08-24": 15372,
-  "2023-08-25": 15443,
-  "2023-08-26": 15511,
-  "2023-08-27": 15572,
-  "2023-08-28": 15643,
-  "2023-08-29": 15689,
-  "2023-08-30": 15752,
-  "2023-08-31": 15806,
-  "2023-09-01": 15898,
-  "2023-09-02": 15898,
-  "2023-09-03": 15942,
-  "2023-09-04": 15993,
-  "2023-09-05": 16051,
-  "2023-09-06": 16098,
-  "2023-09-07": 16165,
-  "2023-09-08": 16228,
-  "2023-09-09": 16295,
-  "2023-09-10": 16377,
-  "2023-09-11": 16444,
-  "2023-09-12": 16498,
-  "2023-09-13": 16555,
-  "2023-09-14": 16599,
-  "2023-09-15": 16666,
-  "2023-09-16": 16726,
-  "2023-09-17": 16790,
-  "2023-09-18": 16840,
-  "2023-09-19": 16886,
-  "2023-09-20": 16931,
-  "2023-09-21": 16995,
-  "2023-09-22": 17048,
-  "2023-09-23": 17102,
-  "2023-09-24": 17191,
-  "2023-09-25": 17253,
-  "2023-09-26": 17317,
-  "2023-09-27": 17363,
-  "2023-09-28": 17416,
-  "2023-09-29": 17465,
-  "2023-09-30": 17515,
-  "2023-10-01": 17567,
-  "2023-10-02": 17610,
-  "2023-10-03": 17651,
-  "2023-10-04": 17706,
-  "2023-10-05": 17740,
-  "2023-10-06": 17802,
-  "2023-10-07": 17852,
-  "2023-10-08": 17919,
-  "2023-10-09": 17978,
-  "2023-10-10": 18046,
-  "2023-10-11": 18162,
-  "2023-10-12": 18162,
-  "2023-10-13": 18219,
-  "2023-10-14": 18276,
-  "2023-10-15": 18347,
-  "2023-10-16": 18404,
-  "2023-10-17": 18483,
-  "2023-10-18": 18546,
-  "2023-10-19": 18601,
-  "2023-10-20": 18652,
-  "2023-10-21": 18700,
-  "2023-10-22": 18748,
-  "2023-10-23": 18822,
-  "2023-10-24": 18886,
-  "2023-10-25": 18931,
-  "2023-10-26": 19002,
-  "2023-10-27": 19064,
-  "2023-10-28": 19124,
-  "2023-10-29": 19187,
-  "2023-10-30": 19281,
-  "2023-10-31": 19281,
-  "2023-11-01": 19317,
-  "2023-11-02": 19362,
-  "2023-11-03": 19420,
-  "2023-11-04": 19462,
-  "2023-11-05": 19527,
-  "2023-11-06": 19572,
-  "2023-11-07": 19612,
-  "2023-11-08": 19658,
-  "2023-11-09": 19712,
-  "2023-11-10": 19782,
-  "2023-11-11": 19841,
-  "2023-11-12": 19908,
-  "2023-11-13": 19962,
-  "2023-11-14": 19997,
-  "2023-11-15": 19997,
-  "2023-11-16": 20087,
-  "2023-11-17": 20211,
-  "2023-11-18": 20211,
-  "2023-11-19": 20264,
-  "2023-11-20": 20313,
-  "2023-11-21": 20381,
-  "2023-11-22": 20454,
-  "2023-11-23": 20523,
-  "2023-11-24": 20571,
-  "2023-11-25": 20615,
-  "2023-11-26": 20679,
-  "2023-11-27": 20725,
-  "2023-11-28": 20764,
-  "2023-11-29": 20876,
-  "2023-11-30": 20876,
-  "2023-12-01": 20949,
-  "2023-12-02": 21019,
-  "2023-12-03": 21085,
-  "2023-12-04": 21152,
-  "2023-12-05": 21220,
-  "2023-12-06": 21280,
-  "2023-12-07": 21345,
-  "2023-12-08": 21440,
-  "2023-12-09": 21496,
-  "2023-12-10": 21580,
-  "2023-12-11": 21657,
-  "2023-12-12": 21736,
-  "2023-12-13": 21818,
-  "2023-12-14": 21903,
-  "2023-12-15": 21971,
-  "2023-12-16": 22037,
-  "2023-12-17": 22139,
-  "2023-12-18": 22206,
-  "2023-12-19": 22277,
-  "2023-12-20": 22351,
-  "2023-12-21": 22408,
-  "2023-12-22": 22503,
-  "2023-12-23": 22590,
-  "2023-12-24": 22681,
-  "2023-12-25": 22753,
-  "2023-12-26": 22823,
-  "2023-12-27": 22918,
-  "2023-12-30": 23216,
-  "2023-12-31": 23328,
-  "2024-01-01": 23437,
-  "2024-01-02": 23534,
-  "2024-01-03": 23631
+  "2024-01-17": 25199,
+  "date_first_scraped": "2023-03-18",
+  "description": "Long live the king. Listen to music from and inspired by Agent Elvis, now streaming on Netflix. ",
+  "name": "Agent Elvis Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107186,
+      "name": "(Let Me Be Your) Teddy Bear",
+      "url": "https://open.spotify.com/track/57j9wUmiHxii7VpbAdSkPQ"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records, Vol. 3",
+        "url": "https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127653,
+      "name": "(Marie's the Name Of) His Latest Flame",
+      "url": "https://open.spotify.com/track/1V3fmmv2zif98hsqvTsRyk"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "(Now and Then There's) A Fool Such as I",
+      "url": "https://open.spotify.com/track/6aKzxns1rGMjLSij4PuWhh"
+    },
+    {
+      "album": {
+        "name": "Fun in Acapulco",
+        "url": "https://open.spotify.com/album/6HKnyw3DYCaD1wdmzez463"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114653,
+      "name": "(There's) No Room to Rhumba in a Sports Car",
+      "url": "https://open.spotify.com/track/3oGWYA9GjE0Kxb6rgeg7qk"
+    },
+    {
+      "album": {
+        "name": "Elvis' Gold Records, Vol. 4",
+        "url": "https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140680,
+      "name": "(You're The) Devil In Disguise",
+      "url": "https://open.spotify.com/track/2hEwjc5DZVPcC4cVVBuMr5"
+    },
+    {
+      "album": {
+        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
+        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132840,
+      "name": "A Big Hunk O' Love",
+      "url": "https://open.spotify.com/track/7JmEO5mGOuloNVjYMYVlcp"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "JXL",
+          "url": "https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213240,
+      "name": "A Little Less Conversation - JXL Radio Edit Remix",
+      "url": "https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa"
+    },
+    {
+      "album": {
+        "name": "Elvis' Gold Records, Vol. 4",
+        "url": "https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "A Mess of Blues",
+      "url": "https://open.spotify.com/track/4dNfypQwue0e46rQTdBU1Q"
+    },
+    {
+      "album": {
+        "name": "Agent Elvis (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bates",
+          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
+        },
+        {
+          "name": "Timothy Williams",
+          "url": "https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44543,
+      "name": "Agent Elvis Theme",
+      "url": "https://open.spotify.com/track/4xMpsaqLkLiMeueNZqp7xi"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117080,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
+    },
+    {
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218440,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
+    },
+    {
+      "album": {
+        "name": "Elvis: As Recorded at Madison Square Garden (Live)",
+        "url": "https://open.spotify.com/album/3jEgFCvP4h9ENjnoyystsy"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271813,
+      "name": "American Trilogy - Live",
+      "url": "https://open.spotify.com/track/6CT7j3vaqT3KlnZEetnQqW"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records, Vol. 3",
+        "url": "https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Are You Lonesome Tonight",
+      "url": "https://open.spotify.com/track/6vXZs9rEQF7Nd6O8Ue7NrT"
+    },
+    {
+      "album": {
+        "name": "A Boy From Tupelo: The Complete 1953-1955 Recordings",
+        "url": "https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139040,
+      "name": "Baby, Let's Play House",
+      "url": "https://open.spotify.com/track/5j8cflZIx0GwvlkzPImbtK"
+    },
+    {
+      "album": {
+        "name": "A Boy From Tupelo: The Complete 1953-1955 Recordings",
+        "url": "https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126986,
+      "name": "Blue Moon of Kentucky",
+      "url": "https://open.spotify.com/track/18LwhRYqFsJjUH3Q4dMIr7"
+    },
+    {
+      "album": {
+        "name": "Elvis Presley",
+        "url": "https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119200,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/47gmoUrZV3w20JAnQOZMcO"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova Baby: The Ultimate Elvis Presley Party Album",
+        "url": "https://open.spotify.com/album/4RaW2vsKwtP8AxXVAgZyZN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185413,
+      "name": "Bossa Nova Baby - Viva Mix",
+      "url": "https://open.spotify.com/track/624w8FTIEDKBO954yWKU2H"
+    },
+    {
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/6s9uIGMkd43R48ssQKAhtH"
+    },
+    {
+      "album": {
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
+    },
+    {
+      "album": {
+        "name": "Let's Be Friends (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Y2xJiEIq4l8FMSLNTyzwd"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Change of Habit",
+      "url": "https://open.spotify.com/track/2mF94iWhTOcWPGwIY7qJyz"
+    },
+    {
+      "album": {
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145400,
+      "name": "Crying In the Chapel",
+      "url": "https://open.spotify.com/track/2inb1KNU2bGIkldLsuDb83"
+    },
+    {
+      "album": {
+        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
+        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168786,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4fgMsJGLDqy4HsJFRgaVNG"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122893,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+    },
+    {
+      "album": {
+        "name": "Agent Elvis (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bates",
+          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
+        },
+        {
+          "name": "Timothy Williams",
+          "url": "https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57418,
+      "name": "Elvis In Hawaii",
+      "url": "https://open.spotify.com/track/6UXn8SZa9GqhNVjiqkFzmt"
+    },
+    {
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+    },
+    {
+      "album": {
+        "name": "Harum Scarum",
+        "url": "https://open.spotify.com/album/0DDokriMy7L6hseGI6Ju7C"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114213,
+      "name": "Golden Coins",
+      "url": "https://open.spotify.com/track/3DNwXAqv9OI5BdmoAsdPWk"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records, Vol. 3",
+        "url": "https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "Good Luck Charm",
+      "url": "https://open.spotify.com/track/19gotedXtqeE8dWju6WURW"
+    },
+    {
+      "album": {
+        "name": "A Boy From Tupelo: The Complete 1953-1955 Recordings",
+        "url": "https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135053,
+      "name": "Good Rockin' Tonight",
+      "url": "https://open.spotify.com/track/0DZZctFgqmFbVayvOUhm0C"
+    },
+    {
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/4si8ktuNxnWyGb0t9Pi6ND"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Green, Green Grass of Home",
+      "url": "https://open.spotify.com/track/2WH9YnLBovcwvWn3cJBfD9"
+    },
+    {
+      "album": {
+        "name": "King Creole",
+        "url": "https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113480,
+      "name": "Hard Headed Woman",
+      "url": "https://open.spotify.com/track/32CVurlBxtEYQlDm3yzCLl"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127560,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Hello, I Love You",
+      "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133293,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/4l9rJRwlaMnPYD5DJtIIFo"
+    },
+    {
+      "album": {
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181293,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/0INrsW3dVLg8LpkQWLrxFx"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159920,
+      "name": "I Want You, I Need You, I Love You",
+      "url": "https://open.spotify.com/track/60tEaPHRJLnMzbyOPTeh3A"
+    },
+    {
+      "album": {
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152080,
+      "name": "I Was the One",
+      "url": "https://open.spotify.com/track/5m8SaS3pEMRVpgdBnOZcGp"
+    },
+    {
+      "album": {
+        "name": "The Essential Robert Goulet",
+        "url": "https://open.spotify.com/album/5oMHT5nCTGvtSrH4r64bw0"
+      },
+      "artists": [
+        {
+          "name": "Robert Goulet",
+          "url": "https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR"
+        },
+        {
+          "name": "Original Broadway Cast of Camelot",
+          "url": "https://open.spotify.com/artist/0pSo061DnbCpvQxDjzI8Q5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "If Ever I Would Leave You",
+      "url": "https://open.spotify.com/track/6XwsI37WkJFP7jKq0odpWi"
+    },
+    {
+      "album": {
+        "name": "NBC-TV Special (Live)",
+        "url": "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200057,
+      "name": "If I Can Dream - Live from the '68 Comeback Special",
+      "url": "https://open.spotify.com/track/1Uxk2dxmATlKH5quLX2iFG"
+    },
+    {
+      "album": {
+        "name": "From Elvis in Memphis",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167413,
+      "name": "In the Ghetto",
+      "url": "https://open.spotify.com/track/7KWoeBqSdZHEloYKVxssfG"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records, Vol. 3",
+        "url": "https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195906,
+      "name": "It's Now or Never",
+      "url": "https://open.spotify.com/track/5mlaaeSzFsH4ouhLrUHCbw"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146480,
+      "name": "Jailhouse Rock",
+      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
+    },
+    {
+      "album": {
+        "name": "From Elvis in Memphis",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Kentucky Rain",
+      "url": "https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX"
+    },
+    {
+      "album": {
+        "name": "King Creole",
+        "url": "https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127813,
+      "name": "King Creole",
+      "url": "https://open.spotify.com/track/5PK7WXObjGgZrtGOo5FBTW"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records, Vol. 3",
+        "url": "https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151386,
+      "name": "Little Sister",
+      "url": "https://open.spotify.com/track/5jRnmQJAwBbtikNcvYbp3B"
+    },
+    {
+      "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163786,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2DQ5r0crvortwaNRYcninK"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161360,
+      "name": "Love Me Tender - From the 20th Century-Fox CinemaScope Production, \"Love Me Tender\"",
+      "url": "https://open.spotify.com/track/4GAhAw0RCzNVP976NRMOqO"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136826,
+      "name": "Mean Woman Blues",
+      "url": "https://open.spotify.com/track/18eFeeErcRXRs7E173ZRWo"
+    },
+    {
+      "album": {
+        "name": "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
+        "url": "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "Memories - with The Royal Philharmonic Orchestra",
+      "url": "https://open.spotify.com/track/03wxVlXdqCzRImWLTSF21U"
+    },
+    {
+      "album": {
+        "name": "Elvis for Everyone!",
+        "url": "https://open.spotify.com/album/5xKTHMQU0bNNC471jCCKP8"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129800,
+      "name": "Memphis Tennessee",
+      "url": "https://open.spotify.com/track/0kgiv71S8AiXEXSz8XJRbB"
+    },
+    {
+      "album": {
+        "name": "Agent Elvis (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bates",
+          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
+        },
+        {
+          "name": "Timothy Williams",
+          "url": "https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee"
+        },
+        {
+          "name": "Craig Robinson",
+          "url": "https://open.spotify.com/artist/5KYG3pjlHT4zdP42vJsk6s"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Memphis, Tennessee",
+      "url": "https://open.spotify.com/track/4cLQusV6v3i6YLpl4QOJqN"
+    },
+    {
+      "album": {
+        "name": "Elvis Presley",
+        "url": "https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155093,
+      "name": "Money Honey",
+      "url": "https://open.spotify.com/track/0pwDaXboNy1UALAl3ZOZOF"
+    },
+    {
+      "album": {
+        "name": "Moody Blue",
+        "url": "https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169320,
+      "name": "Moody Blue",
+      "url": "https://open.spotify.com/track/5nP6bZZpeT9hbtvePmy9ko"
+    },
+    {
+      "album": {
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "My Baby Left Me",
+      "url": "https://open.spotify.com/track/1ZwHq094yOjH9hFYyouTOW"
+    },
+    {
+      "album": {
+        "name": "A Boy From Tupelo: The Complete 1953-1955 Recordings",
+        "url": "https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150386,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/3cYLYjqlwcvwWS5DowR23m"
+    },
+    {
+      "album": {
+        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
+        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/3nwxwYSwdFvyLngepyPxOZ"
+    },
+    {
+      "album": {
+        "name": "ELVIS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295053,
+      "name": "Polk Salad Annie (Film Mix)",
+      "url": "https://open.spotify.com/track/6wUtc1UZpSXvXd2UCQdJHI"
+    },
+    {
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173786,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/0SSKHTfyUmL8JUQtfpKcfB"
+    },
+    {
+      "album": {
+        "name": "Girls! Girls! Girls!",
+        "url": "https://open.spotify.com/album/6wH0jlf2q1yCprUO5XWSdz"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126693,
+      "name": "Return to Sender - From \"Girls! Girls! Girls!\"",
+      "url": "https://open.spotify.com/track/3uwIoa2emQILz6BmH6MtiW"
+    },
+    {
+      "album": {
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119893,
+      "name": "Rock-A-Hula Baby",
+      "url": "https://open.spotify.com/track/65ndJdPZmiV8egz8h3kPuf"
+    },
+    {
+      "album": {
+        "name": "Elvis 2nd To None",
+        "url": "https://open.spotify.com/album/0p8PgHjOZJ6MrbHUXQ8ENM"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209240,
+      "name": "Rubberneckin' - Paul Oakenfold Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/7M02kXq1w8EppeQzkc8BoB"
+    },
+    {
+      "album": {
+        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
+        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318026,
+      "name": "Space Oddity - 2015 Remaster",
+      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records, Vol. 3",
+        "url": "https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139640,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/39zODpVtRvghMyfNjZ3BVK"
+    },
+    {
+      "album": {
+        "name": "Elvis Is Back",
+        "url": "https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178760,
+      "name": "Such a Night",
+      "url": "https://open.spotify.com/track/1vGfZYrNSxT72PdgToMubU"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112226,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/1aECQTfv5SO42lU4fvrdJJ"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272360,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/3Dp4MHlmyh2yNqdWakNZi2"
+    },
+    {
+      "album": {
+        "name": "A Boy From Tupelo: The Complete 1953-1955 Recordings",
+        "url": "https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119653,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/1mKhiITXCIpves7QbT4xo7"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "That's When Your Heartaches Begin",
+      "url": "https://open.spotify.com/track/74u4y5uFhWbKtCIzFIkTQi"
+    },
+    {
+      "album": {
+        "name": "The Essential Elvis Presley",
+        "url": "https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "The Wonder of You",
+      "url": "https://open.spotify.com/track/0LfJkvPNCNEMLpZJgDQiV1"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152786,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/5MCLmWJgzC3wTptkENyntW"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131480,
+      "name": "Treat Me Nice",
+      "url": "https://open.spotify.com/track/6PjTKlBclT9fmXBJSnl2l4"
+    },
+    {
+      "album": {
+        "name": "The Best of The '68 Comeback Special (Live)",
+        "url": "https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Trouble / Guitar Man - Live from the '68 Comeback Special",
+      "url": "https://open.spotify.com/track/5blcqgpsuKhm0WQwMsmywj"
+    },
+    {
+      "album": {
+        "name": "Elvis Presley",
+        "url": "https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150720,
+      "name": "Trying to Get to You",
+      "url": "https://open.spotify.com/track/4zQLZPcTl8hJC5pJtooT3h"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151906,
+      "name": "Unchained Melody (Bonus Track) - Live at Ann Arbor, MI",
+      "url": "https://open.spotify.com/track/2gaN1NWKJEpQVAKk8FKwOe"
+    },
+    {
+      "album": {
+        "name": "Elvis' Gold Records, Vol. 4",
+        "url": "https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "Viva Las Vegas",
+      "url": "https://open.spotify.com/track/5Q7ayTarb9Tpmkik5cVMug"
+    },
+    {
+      "album": {
+        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
+        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133920,
+      "name": "Wear My Ring Around Your Neck",
+      "url": "https://open.spotify.com/track/36BT9FxW5dorOiUXZ5fb4B"
+    },
+    {
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150640,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3KVUsNUmJc2"
 }

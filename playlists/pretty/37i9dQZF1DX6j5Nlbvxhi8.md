@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6j5Nlbvxhi8.md) - [plain]
 
 > 2023年の<a href="spotify:user:spotify:playlist:37i9dQZF1DXayDMsJG9ZBv">Hot Hits Japan</a>総まとめ！今年Hot Hits Japanで再生された楽曲ベスト100!  <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,538 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,516 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

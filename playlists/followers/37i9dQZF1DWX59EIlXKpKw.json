@@ -1,512 +1,457 @@
 {
-  "2022-08-06": 468,
-  "2022-08-07": 468,
-  "2022-08-08": 470,
-  "2022-08-09": 472,
-  "2022-08-10": 474,
-  "2022-08-11": 478,
-  "2022-08-12": 482,
-  "2022-08-13": 486,
-  "2022-08-14": 486,
-  "2022-08-15": 488,
-  "2022-08-16": 491,
-  "2022-08-17": 493,
-  "2022-08-18": 495,
-  "2022-08-19": 499,
-  "2022-08-20": 501,
-  "2022-08-21": 503,
-  "2022-08-22": 507,
-  "2022-08-23": 508,
-  "2022-08-24": 512,
-  "2022-08-25": 516,
-  "2022-08-26": 519,
-  "2022-08-27": 521,
-  "2022-08-28": 519,
-  "2022-08-29": 523,
-  "2022-08-30": 524,
-  "2022-08-31": 526,
-  "2022-09-01": 530,
-  "2022-09-02": 532,
-  "2022-09-03": 530,
-  "2022-09-04": 533,
-  "2022-09-05": 542,
-  "2022-09-06": 547,
-  "2022-09-07": 556,
-  "2022-09-09": 571,
-  "2022-09-10": 580,
-  "2022-09-11": 587,
-  "2022-09-12": 599,
-  "2022-09-13": 605,
-  "2022-09-15": 620,
-  "2022-09-16": 628,
-  "2022-09-17": 634,
-  "2022-09-18": 638,
-  "2022-09-19": 645,
-  "2022-09-20": 653,
-  "2022-09-21": 659,
-  "2022-09-22": 663,
-  "2022-09-23": 673,
-  "2022-09-24": 677,
-  "2022-09-25": 684,
-  "2022-09-26": 689,
-  "2022-09-27": 694,
-  "2022-09-28": 699,
-  "2022-09-29": 701,
-  "2022-09-30": 704,
-  "2022-10-01": 717,
-  "2022-10-02": 721,
-  "2022-10-03": 729,
-  "2022-10-04": 733,
-  "2022-10-05": 737,
-  "2022-10-06": 739,
-  "2022-10-07": 748,
-  "2022-10-08": 758,
-  "2022-10-09": 771,
-  "2022-10-10": 772,
-  "2022-10-11": 775,
-  "2022-10-12": 780,
-  "2022-10-13": 782,
-  "2022-10-14": 788,
-  "2022-10-15": 795,
-  "2022-10-16": 802,
-  "2022-10-17": 810,
-  "2022-10-18": 813,
-  "2022-10-19": 817,
-  "2022-10-20": 820,
-  "2022-10-21": 828,
-  "2022-10-22": 833,
-  "2022-10-23": 839,
-  "2022-10-24": 842,
-  "2022-10-25": 846,
-  "2022-10-26": 850,
-  "2022-10-27": 855,
-  "2022-10-28": 857,
-  "2022-10-29": 861,
-  "2022-10-30": 862,
-  "2022-10-31": 864,
-  "2022-11-01": 867,
-  "2022-11-02": 876,
-  "2022-11-03": 880,
-  "2022-11-04": 884,
-  "2022-11-05": 888,
-  "2022-11-06": 891,
-  "2022-11-07": 897,
-  "2022-11-08": 904,
-  "2022-11-09": 909,
-  "2022-11-10": 914,
-  "2022-11-11": 922,
-  "2022-11-12": 931,
-  "2022-11-13": 936,
-  "2022-11-14": 941,
-  "2022-11-15": 948,
-  "2022-11-16": 951,
-  "2022-11-17": 953,
-  "2022-11-18": 954,
-  "2022-11-19": 953,
-  "2022-11-20": 951,
-  "2022-11-21": 956,
-  "2022-11-22": 965,
-  "2022-11-23": 964,
-  "2022-11-24": 974,
-  "2022-11-25": 987,
-  "2022-11-26": 999,
-  "2022-11-27": 1006,
-  "2022-11-28": 1012,
-  "2022-11-29": 1015,
-  "2022-11-30": 1020,
-  "2022-12-01": 1024,
-  "2022-12-02": 1023,
-  "2022-12-03": 1030,
-  "2022-12-04": 1035,
-  "2022-12-05": 1039,
-  "2022-12-06": 1043,
-  "2022-12-07": 1049,
-  "2022-12-08": 1056,
-  "2022-12-09": 1058,
-  "2022-12-10": 1060,
-  "2022-12-11": 1068,
-  "2022-12-12": 1071,
-  "2022-12-13": 1075,
-  "2022-12-14": 1081,
-  "2022-12-15": 1085,
-  "2022-12-16": 1089,
-  "2022-12-17": 1094,
-  "2022-12-18": 1099,
-  "2022-12-19": 1103,
-  "2022-12-20": 1110,
-  "2022-12-21": 1110,
-  "2022-12-22": 1115,
-  "2022-12-24": 1116,
-  "2022-12-25": 1118,
-  "2022-12-26": 1122,
-  "2022-12-27": 1127,
-  "2022-12-28": 1136,
-  "2022-12-29": 1142,
-  "2022-12-30": 1145,
-  "2022-12-31": 1149,
-  "2023-01-01": 1153,
-  "2023-01-02": 1162,
-  "2023-01-03": 1167,
-  "2023-01-04": 1172,
-  "2023-01-05": 1176,
-  "2023-01-06": 1181,
-  "2023-01-07": 1187,
-  "2023-01-08": 1187,
-  "2023-01-09": 1191,
-  "2023-01-10": 1194,
-  "2023-01-11": 1198,
-  "2023-01-12": 1204,
-  "2023-01-13": 1211,
-  "2023-01-14": 1218,
-  "2023-01-15": 1219,
-  "2023-01-16": 1226,
-  "2023-01-17": 1231,
-  "2023-01-18": 1234,
-  "2023-01-19": 1239,
-  "2023-01-20": 1245,
-  "2023-01-21": 1254,
-  "2023-01-22": 1260,
-  "2023-01-23": 1266,
-  "2023-01-24": 1270,
-  "2023-01-25": 1276,
-  "2023-01-26": 1282,
-  "2023-01-27": 1283,
-  "2023-01-28": 1287,
-  "2023-01-29": 1289,
-  "2023-01-30": 1293,
-  "2023-01-31": 1293,
-  "2023-02-01": 1310,
-  "2023-02-02": 1316,
-  "2023-02-03": 1318,
-  "2023-02-04": 1323,
-  "2023-02-05": 1328,
-  "2023-02-06": 1332,
-  "2023-02-07": 1340,
-  "2023-02-08": 1353,
-  "2023-02-09": 1353,
-  "2023-02-10": 1357,
-  "2023-02-11": 1356,
-  "2023-02-12": 1367,
-  "2023-02-13": 1375,
-  "2023-02-14": 1375,
-  "2023-02-15": 1383,
-  "2023-02-16": 1390,
-  "2023-02-17": 1398,
-  "2023-02-18": 1405,
-  "2023-02-19": 1405,
-  "2023-02-20": 1406,
-  "2023-02-21": 1410,
-  "2023-02-22": 1435,
-  "2023-02-23": 1511,
-  "2023-02-24": 1577,
-  "2023-02-25": 1674,
-  "2023-02-26": 1730,
-  "2023-02-27": 1847,
-  "2023-02-28": 1847,
-  "2023-03-01": 1909,
-  "2023-03-02": 1966,
-  "2023-03-03": 2034,
-  "2023-03-04": 2092,
-  "2023-03-05": 2271,
-  "2023-03-06": 2271,
-  "2023-03-07": 2338,
-  "2023-03-08": 2396,
-  "2023-03-09": 2461,
-  "2023-03-10": 2521,
-  "2023-03-11": 2577,
-  "2023-03-12": 2648,
-  "2023-03-13": 2738,
-  "2023-03-14": 2796,
-  "2023-03-15": 2862,
-  "2023-03-16": 2937,
-  "2023-03-17": 2937,
-  "2023-03-18": 3053,
-  "2023-03-19": 3140,
-  "2023-03-20": 3216,
-  "2023-03-21": 3272,
-  "2023-03-22": 3340,
-  "2023-03-23": 3402,
-  "2023-03-24": 3402,
-  "2023-03-25": 3536,
-  "2023-03-26": 3627,
-  "2023-03-27": 3728,
-  "2023-03-28": 3811,
-  "2023-03-29": 3887,
-  "2023-03-30": 4045,
-  "2023-03-31": 4045,
-  "2023-04-01": 4158,
-  "2023-04-02": 4243,
-  "2023-04-03": 4319,
-  "2023-04-04": 4394,
-  "2023-04-05": 4480,
-  "2023-04-06": 4571,
-  "2023-04-07": 4633,
-  "2023-04-09": 4785,
-  "2023-04-10": 4844,
-  "2023-04-11": 4967,
-  "2023-04-12": 4967,
-  "2023-04-13": 5013,
-  "2023-04-14": 5089,
-  "2023-04-15": 5157,
-  "2023-04-16": 5221,
-  "2023-04-17": 5296,
-  "2023-04-18": 5355,
-  "2023-04-19": 5426,
-  "2023-04-20": 5487,
-  "2023-04-21": 5545,
-  "2023-04-22": 5597,
-  "2023-04-23": 5667,
-  "2023-04-24": 5744,
-  "2023-04-25": 5813,
-  "2023-04-26": 5886,
-  "2023-04-27": 5937,
-  "2023-04-28": 5998,
-  "2023-04-29": 6073,
-  "2023-04-30": 6151,
-  "2023-05-01": 6194,
-  "2023-05-02": 6262,
-  "2023-05-03": 6334,
-  "2023-05-04": 6391,
-  "2023-05-05": 6460,
-  "2023-05-06": 6514,
-  "2023-05-07": 6597,
-  "2023-05-08": 6661,
-  "2023-05-09": 6710,
-  "2023-05-10": 6765,
-  "2023-05-11": 6820,
-  "2023-05-12": 6872,
-  "2023-05-13": 6931,
-  "2023-05-14": 6999,
-  "2023-05-15": 7051,
-  "2023-05-16": 7106,
-  "2023-05-17": 7158,
-  "2023-05-18": 7230,
-  "2023-05-19": 7299,
-  "2023-05-20": 7414,
-  "2023-05-21": 7414,
-  "2023-05-22": 7414,
-  "2023-05-23": 7581,
-  "2023-05-24": 7661,
-  "2023-05-25": 7675,
-  "2023-05-26": 7722,
-  "2023-05-27": 7785,
-  "2023-05-28": 7838,
-  "2023-05-29": 7838,
-  "2023-05-30": 7956,
-  "2023-05-31": 8009,
-  "2023-06-01": 8049,
-  "2023-06-02": 8095,
-  "2023-06-03": 8163,
-  "2023-06-04": 8226,
-  "2023-06-05": 8281,
-  "2023-06-06": 8337,
-  "2023-06-07": 8400,
-  "2023-06-08": 8468,
-  "2023-06-09": 8513,
-  "2023-06-10": 8563,
-  "2023-06-11": 8628,
-  "2023-06-12": 8677,
-  "2023-06-13": 8719,
-  "2023-06-14": 8760,
-  "2023-06-15": 8810,
-  "2023-06-16": 8862,
-  "2023-06-17": 8927,
-  "2023-06-18": 8985,
-  "2023-06-19": 9049,
-  "2023-06-20": 9102,
-  "2023-06-21": 9144,
-  "2023-06-22": 9193,
-  "2023-06-23": 9253,
-  "2023-06-24": 9305,
-  "2023-06-25": 9364,
-  "2023-06-26": 9432,
-  "2023-06-27": 9489,
-  "2023-06-28": 9544,
-  "2023-06-29": 9610,
-  "2023-06-30": 9679,
-  "2023-07-01": 9779,
-  "2023-07-02": 9779,
-  "2023-07-03": 9821,
-  "2023-07-04": 9866,
-  "2023-07-05": 9894,
-  "2023-07-06": 9948,
-  "2023-07-07": 9948,
-  "2023-07-08": 9997,
-  "2023-07-09": 10048,
-  "2023-07-10": 10093,
-  "2023-07-11": 10136,
-  "2023-07-12": 10193,
-  "2023-07-13": 10232,
-  "2023-07-14": 10283,
-  "2023-07-15": 10324,
-  "2023-07-16": 10389,
-  "2023-07-17": 10440,
-  "2023-07-18": 10486,
-  "2023-07-19": 10529,
-  "2023-07-20": 10570,
-  "2023-07-21": 10628,
-  "2023-07-22": 10692,
-  "2023-07-23": 10744,
-  "2023-07-24": 10803,
-  "2023-07-25": 10855,
-  "2023-07-26": 10898,
-  "2023-07-27": 10948,
-  "2023-07-28": 10986,
-  "2023-07-29": 11041,
-  "2023-07-30": 11111,
-  "2023-07-31": 11163,
-  "2023-08-01": 11220,
-  "2023-08-02": 11266,
-  "2023-08-03": 11320,
-  "2023-08-04": 11378,
-  "2023-08-05": 11438,
-  "2023-08-06": 11564,
-  "2023-08-07": 11564,
-  "2023-08-08": 11616,
-  "2023-08-09": 11668,
-  "2023-08-10": 11737,
-  "2023-08-11": 11783,
-  "2023-08-12": 11825,
-  "2023-08-13": 11891,
-  "2023-08-14": 11951,
-  "2023-08-15": 12072,
-  "2023-08-16": 12072,
-  "2023-08-17": 12126,
-  "2023-08-18": 12181,
-  "2023-08-19": 12236,
-  "2023-08-20": 12297,
-  "2023-08-21": 12370,
-  "2023-08-22": 12421,
-  "2023-08-23": 12452,
-  "2023-08-24": 12516,
-  "2023-08-25": 12563,
-  "2023-08-26": 12621,
-  "2023-08-27": 12669,
-  "2023-08-28": 12741,
-  "2023-08-29": 12788,
-  "2023-08-30": 12836,
-  "2023-08-31": 12893,
-  "2023-09-01": 12986,
-  "2023-09-02": 12986,
-  "2023-09-03": 13023,
-  "2023-09-04": 13098,
-  "2023-09-05": 13151,
-  "2023-09-06": 13216,
-  "2023-09-07": 13273,
-  "2023-09-08": 13339,
-  "2023-09-09": 13412,
-  "2023-09-10": 13486,
-  "2023-09-11": 13541,
-  "2023-09-12": 13596,
-  "2023-09-13": 13656,
-  "2023-09-14": 13717,
-  "2023-09-15": 13789,
-  "2023-09-16": 13848,
-  "2023-09-17": 13907,
-  "2023-09-18": 13988,
-  "2023-09-19": 14046,
-  "2023-09-20": 14096,
-  "2023-09-21": 14186,
-  "2023-09-22": 14237,
-  "2023-09-23": 14305,
-  "2023-09-24": 14375,
-  "2023-09-25": 14449,
-  "2023-09-26": 14498,
-  "2023-09-27": 14550,
-  "2023-09-28": 14609,
-  "2023-09-29": 14659,
-  "2023-09-30": 14726,
-  "2023-10-01": 14808,
-  "2023-10-02": 14882,
-  "2023-10-03": 14934,
-  "2023-10-04": 14974,
-  "2023-10-05": 15041,
-  "2023-10-06": 15095,
-  "2023-10-07": 15148,
-  "2023-10-08": 15211,
-  "2023-10-09": 15265,
-  "2023-10-10": 15307,
-  "2023-10-11": 15415,
-  "2023-10-12": 15415,
-  "2023-10-13": 15456,
-  "2023-10-14": 15503,
-  "2023-10-15": 15576,
-  "2023-10-16": 15640,
-  "2023-10-17": 15687,
-  "2023-10-18": 15760,
-  "2023-10-19": 15805,
-  "2023-10-20": 15853,
-  "2023-10-21": 15904,
-  "2023-10-22": 15971,
-  "2023-10-23": 16039,
-  "2023-10-24": 16084,
-  "2023-10-25": 16133,
-  "2023-10-26": 16175,
-  "2023-10-27": 16216,
-  "2023-10-28": 16280,
-  "2023-10-29": 16344,
-  "2023-10-30": 16464,
-  "2023-10-31": 16464,
-  "2023-11-01": 16514,
-  "2023-11-02": 16572,
-  "2023-11-03": 16625,
-  "2023-11-04": 16676,
-  "2023-11-05": 16733,
-  "2023-11-06": 16782,
-  "2023-11-07": 16820,
-  "2023-11-08": 16861,
-  "2023-11-09": 16920,
-  "2023-11-10": 16988,
-  "2023-11-11": 17057,
-  "2023-11-12": 17121,
-  "2023-11-13": 17184,
-  "2023-11-14": 17235,
-  "2023-11-15": 17235,
-  "2023-11-16": 17336,
-  "2023-11-17": 17447,
-  "2023-11-18": 17447,
-  "2023-11-19": 17505,
-  "2023-11-20": 17591,
-  "2023-11-21": 17632,
-  "2023-11-22": 17678,
-  "2023-11-23": 17746,
-  "2023-11-24": 17802,
-  "2023-11-25": 17857,
-  "2023-11-26": 17919,
-  "2023-11-27": 17981,
-  "2023-11-28": 18036,
-  "2023-11-29": 18125,
-  "2023-11-30": 18125,
-  "2023-12-01": 18176,
-  "2023-12-02": 18228,
-  "2023-12-03": 18287,
-  "2023-12-04": 18345,
-  "2023-12-05": 18389,
-  "2023-12-06": 18424,
-  "2023-12-07": 18466,
-  "2023-12-08": 18503,
-  "2023-12-09": 18535,
-  "2023-12-10": 18567,
-  "2023-12-11": 18611,
-  "2023-12-12": 18639,
-  "2023-12-13": 18669,
-  "2023-12-14": 18706,
-  "2023-12-15": 18729,
-  "2023-12-16": 18749,
-  "2023-12-17": 18784,
-  "2023-12-18": 18829,
-  "2023-12-19": 18861,
-  "2023-12-20": 18896,
-  "2023-12-21": 18929,
-  "2023-12-22": 18966,
-  "2023-12-23": 18996,
-  "2023-12-24": 19032,
-  "2023-12-25": 19070,
-  "2023-12-26": 19105,
-  "2023-12-27": 19140,
-  "2023-12-30": 19267,
-  "2023-12-31": 19307,
-  "2024-01-01": 19350,
-  "2024-01-02": 19402,
-  "2024-01-03": 19432
+  "2024-01-17": 20097,
+  "date_first_scraped": "2022-08-06",
+  "description": "Listen to all the music from the hit series, and your favorite science songs!",
+  "name": "Ada Twist's Science Songs Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Science Fair",
+        "url": "https://open.spotify.com/album/3CdiI8bJnXG5wmneRwPRDo"
+      },
+      "artists": [
+        {
+          "name": "Renee'",
+          "url": "https://open.spotify.com/artist/010Yy8BMF8WVfGA2do8sDm"
+        },
+        {
+          "name": "Jeremy",
+          "url": "https://open.spotify.com/artist/0YzWhtJkKuzLGaXOJT0ZEx"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "(I Wanna Be Like) Madam Curie",
+      "url": "https://open.spotify.com/track/4zGJOsyK5JCMdifXek8fTJ"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        },
+        {
+          "name": "Renee Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47274,
+      "name": "Ada Twist, Scientist Theme Song (From \"Ada Twist, Scientist\")",
+      "url": "https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Roy Moye III",
+          "url": "https://open.spotify.com/artist/1FBZZD3fC7SuYBb8PsZWuf"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Black Lives Made STEM History",
+      "url": "https://open.spotify.com/track/78MBph27OvsmvxCauXGZOx"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78397,
+      "name": "Brainstorm",
+      "url": "https://open.spotify.com/track/0KI9LENUe0rDhTe9mWbPeQ"
+    },
+    {
+      "album": {
+        "name": "Curious: Think Outside the Pipeline!",
+        "url": "https://open.spotify.com/album/0TgG27H7fFvAhb1RWvrAn6"
+      },
+      "artists": [
+        {
+          "name": "Ants on a Log",
+          "url": "https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Curious - Radio Edit",
+      "url": "https://open.spotify.com/track/5G0lNxYMUZFTIr1GL7EgQA"
+    },
+    {
+      "album": {
+        "name": "Giants of Science",
+        "url": "https://open.spotify.com/album/4ui5dHNvWSER4CI1gxYFEl"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-12",
+      "duration_ms": 115000,
+      "name": "How Do We Know?",
+      "url": "https://open.spotify.com/track/1g1IQy1dUQytk434js3Bxw"
+    },
+    {
+      "album": {
+        "name": "Giants of Science",
+        "url": "https://open.spotify.com/album/5XRx47sQo8DQR8KdevmJmA"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "How Do We Know?",
+      "url": "https://open.spotify.com/track/226AYbpi0Wqym8UdKciCx8"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90133,
+      "name": "Hypothesis",
+      "url": "https://open.spotify.com/track/51o2AxOpFq2jqLFUTtON90"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50666,
+      "name": "I Give Up",
+      "url": "https://open.spotify.com/track/4b0tUaeZ4mSt95nmuhgdFp"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101506,
+      "name": "Put It to the Test",
+      "url": "https://open.spotify.com/track/0ms5bzYdvWBnrayTs9RFcf"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "Roy G. Biv",
+      "url": "https://open.spotify.com/track/0UG9o1jtxAPt2aZXvWefBS"
+    },
+    {
+      "album": {
+        "name": "Thoughtful Songs for Little People",
+        "url": "https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220928,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/6y527slRv6wrd7eM7PjYaM"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114426,
+      "name": "Science Is Real",
+      "url": "https://open.spotify.com/track/7xFXq8zWrmUsM4geMf4ieS"
+    },
+    {
+      "album": {
+        "name": "Science Safety Song",
+        "url": "https://open.spotify.com/album/1kKsfxd9UKEUj59tYegN1t"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "Science Safety Song",
+      "url": "https://open.spotify.com/track/08zVXpxlOLeNAribgD0IU0"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87626,
+      "name": "Scientific Method",
+      "url": "https://open.spotify.com/track/5SvRpPCx20jXnwIRhaqLtN"
+    },
+    {
+      "album": {
+        "name": "StoryBots Professions",
+        "url": "https://open.spotify.com/album/5sM11oCLNXnZkf5S9dxUa2"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62117,
+      "name": "Scientist",
+      "url": "https://open.spotify.com/track/3qrwwhSKYFoQWpViXkNvaN"
+    },
+    {
+      "album": {
+        "name": "StoryBots Professions",
+        "url": "https://open.spotify.com/album/1LMhHcOYoUimpVAby72f5J"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 62117,
+      "name": "Scientist",
+      "url": "https://open.spotify.com/track/7F5weLKqeL2l4Pq30EmDSy"
+    },
+    {
+      "album": {
+        "name": "The New Periodic Table Song",
+        "url": "https://open.spotify.com/album/7hV9SjMjh5lSEDx34xz967"
+      },
+      "artists": [
+        {
+          "name": "AsapSCIENCE",
+          "url": "https://open.spotify.com/artist/7E8gU2qkctwGqHBizPRH9A"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169255,
+      "name": "The New Periodic Table Song",
+      "url": "https://open.spotify.com/track/2Cmth2GiA4UsABtEvYsCM1"
+    },
+    {
+      "album": {
+        "name": "Wonder Raps",
+        "url": "https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH"
+      },
+      "artists": [
+        {
+          "name": "MC Grammar",
+          "url": "https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189843,
+      "name": "The Volcano Song",
+      "url": "https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91624,
+      "name": "The Why Song",
+      "url": "https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad"
+    },
+    {
+      "album": {
+        "name": "Kids Songs: After School Fun!",
+        "url": "https://open.spotify.com/album/3tAe0A2NzURsyNRrysCmFZ"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Blazer Fresh",
+          "url": "https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 152708,
+      "name": "Think Like A Scientist",
+      "url": "https://open.spotify.com/track/5326NwvKqHt6kWOVATpSgF"
+    },
+    {
+      "album": {
+        "name": "GoNoodle Presents Blazer Fresh (Vol. 1)",
+        "url": "https://open.spotify.com/album/3lCBVaBrl8PogWylUxVqSk"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Blazer Fresh",
+          "url": "https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152708,
+      "name": "Think Like A Scientist",
+      "url": "https://open.spotify.com/track/5bXtUGHULEeYhW2MIEN6iy"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 2 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 74988,
+      "name": "What Is Electricity?",
+      "url": "https://open.spotify.com/track/4sCEgYgNLeyPmG5UUeEBuE"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 2 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/5wSjzGjvhotNbkyZDkYTqE"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74988,
+      "name": "What Is Electricity?",
+      "url": "https://open.spotify.com/track/7H02LUeobKAOOsEXQ7ZqnK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWX59EIlXKpKw"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,214 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,290 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 5 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
 | 6 | [不可逆リプレイス](https://open.spotify.com/track/7lFzS8uBjpXckGjQQcpJrW) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 3:51 |
 | 7 | [Enigma](https://open.spotify.com/track/2otEQ8u6yy6RrOdOAbAUfY) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [Enigma](https://open.spotify.com/album/0q24SGJZK1HhVfthfgRS23) | 3:13 |
-| 8 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 |
+| 8 | [Vengeance](https://open.spotify.com/track/2y0gkLQbblihOimgloMCPS) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Vengeance](https://open.spotify.com/album/353yfUyCKvr6jTcudZAE3w) | 3:53 |
 | 9 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 |
 | 10 | [JUNGLE BUN DEM](https://open.spotify.com/track/3wWMqIeTZcC6eLmR0G5dcG) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/24eIv5TgqoGWZNocPZsa5E) | 3:13 |
-| 11 | [Rave\-up Tonight](https://open.spotify.com/track/34iywbfxSn7AOaFoV7hixT) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [PHASE 2](https://open.spotify.com/album/3VDxaorPQIokHEviqIH8OW) | 3:22 |
-| 12 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 |
-| 13 | [GODBLAST](https://open.spotify.com/track/7DQ5JwO0oEwm9IjYfaQGfB) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [GODBLAST](https://open.spotify.com/album/1neW5Xgp9wEk3xZHDFq13s) | 3:06 |
-| 14 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 |
+| 11 | [Odyssey](https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K) | 4:04 |
+| 12 | [Gekokujo](https://open.spotify.com/track/12SHQE0LutzIe4ltA8s7WP) | [RYUJIN](https://open.spotify.com/artist/3SUKO4vAKUtulR6t99R1Zk) | [RYUJIN](https://open.spotify.com/album/5wXQup3iFUfm69IUXeeZtC) | 4:47 |
+| 13 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 |
+| 14 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 |
 | 15 | [ROCK'N'ROLL PHOENIX](https://open.spotify.com/track/4Xx5GuQZ3YTC7fErN1Lcy0) | [moreru](https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4), [Birds Fear Death](https://open.spotify.com/artist/65uuUPZ3mkqQ6gi0zfefHb) | [呪詛告白初恋そして世界](https://open.spotify.com/album/6cwRhM0fLNBpubbnh4o8hX) | 2:33 |
 | 16 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 |
 | 17 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 |
@@ -32,19 +32,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 22 | [I checked your cellphone](https://open.spotify.com/track/5qzkYYg7WmIj9yJVIglD7n) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:32 |
 | 23 | [Home](https://open.spotify.com/track/1YhaeT8EygMA6OaUVwrow4) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:01 |
 | 24 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 |
-| 25 | [Mad World \- Japanese Version](https://open.spotify.com/track/3iUNRtOmMsmnf0SNNtFHyY) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease \(Japanese Version\)](https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD) | 3:02 |
-| 26 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
-| 27 | [EXiSTENCE](https://open.spotify.com/track/4NOO855YQh16AF5FhhO41L) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THE BEAUTiFUL PEOPLE](https://open.spotify.com/album/5GZMmsnK1viNAVvxIBB98A) | 4:04 |
+| 25 | [Song For The Weak.](https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Song For The Weak.](https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6) | 5:14 |
+| 26 | [Mad World \- Japanese Version](https://open.spotify.com/track/3iUNRtOmMsmnf0SNNtFHyY) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease \(Japanese Version\)](https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD) | 3:02 |
+| 27 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
 | 28 | [Messiah](https://open.spotify.com/track/2bBMcewHW1zVhPkmrHhWwI) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [DUALITY](https://open.spotify.com/album/3kWm132i1QrxKGtu2eBD08) | 4:08 |
 | 29 | [KiLLiNG ME](https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [SEEDS OF HOPE](https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5) | 2:55 |
 | 30 | [I don't know](https://open.spotify.com/track/3qh01ZvWwxt1GV5bzOaUIC) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [OMOIDE IN MY HEAD 1 \~BEST & B\-SIDES\~](https://open.spotify.com/album/6ZVISn3PfMoymy86TllKg5) | 3:19 |
-| 31 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
+| 31 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 |
 | 32 | [Lost Grace](https://open.spotify.com/track/3d1rPXAFydkR2nU8IaN8uz) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [Have A Good Cult](https://open.spotify.com/album/44pHQUc72goqtick2zPk4f) | 2:38 |
-| 33 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 |
+| 33 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
 | 34 | [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 |
-| 35 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 |
+| 35 | [EXiSTENCE](https://open.spotify.com/track/4NOO855YQh16AF5FhhO41L) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THE BEAUTiFUL PEOPLE](https://open.spotify.com/album/5GZMmsnK1viNAVvxIBB98A) | 4:04 |
 | 36 | [DENGEKI](https://open.spotify.com/track/0Y6MovlfBfQwYaV6kPJBrd) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [AFJB](https://open.spotify.com/album/0G6Ecl2kJCspqH4sHqLL5b) | 3:36 |
-| 37 | [ゆきこさん](https://open.spotify.com/track/7EzsrJjJQBXRPiAPijADtG) | [ミドリ](https://open.spotify.com/artist/1Qjrx8NtccILLfR3wh1u3o) | [あらためまして、はじめまして、ミドリです。](https://open.spotify.com/album/5q8Hkakvwmb5Zyk4nUZKyD) | 3:08 |
+| 37 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 |
 | 38 | [神喰](https://open.spotify.com/track/2fBizJMoZl7rMkyOnOKU5e) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [神喰](https://open.spotify.com/album/3FoVC8Zy0jfO1StE9FZKXt) | 2:10 |
 | 39 | [星砕](https://open.spotify.com/track/1wi4BGqELDCfIb8hFOvZ5V) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [星砕](https://open.spotify.com/album/2DnmrJ6QAphwNkjcZqMRV5) | 2:58 |
 | 40 | [eat acid, see god\. \(feat\. Paledusk\)](https://open.spotify.com/track/3160hDliIYzBqceX8gTjwH) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:57 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 42 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 |
 | 43 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 |
 | 44 | [Curse](https://open.spotify.com/track/24CBIOlOxIMwXB8rmkYToW) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Curse](https://open.spotify.com/album/4IO7PP3b6sRhsJVrj8u4IK) | 3:14 |
-| 45 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
-| 46 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
+| 45 | [ゆきこさん](https://open.spotify.com/track/7EzsrJjJQBXRPiAPijADtG) | [ミドリ](https://open.spotify.com/artist/1Qjrx8NtccILLfR3wh1u3o) | [あらためまして、はじめまして、ミドリです。](https://open.spotify.com/album/5q8Hkakvwmb5Zyk4nUZKyD) | 3:08 |
+| 46 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
 | 47 | [Morgue](https://open.spotify.com/track/2tsDvDQaTkQAYsCHo4SGT9) | [Otus](https://open.spotify.com/artist/5NgVz693TXUKsh7wFGPEPe) | [Morgue](https://open.spotify.com/album/3QzIwDA0KnU6o8QKdeJnyt) | 2:33 |
 | 48 | [LIGHTS](https://open.spotify.com/track/0V0Dd9h94tRw37B8BdhZ4y) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HAPPY TALK](https://open.spotify.com/album/6AmYx6hJ0hNrCcg8u25FXk) | 4:44 |
-| 49 | [i don't wanna be](https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [i don't wanna be](https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh) | 3:36 |
+| 49 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 |
 | 50 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 |
 
-Snapshot ID: `MCxiMzVkMDI1OWU4OTUwODliNzM2YjhlNjk5ZDAxY2Y4ODZhNWQ5Nzg0`
+Snapshot ID: `MCxkYWZlMzA2MzllNWNiYzcwOTZmYWJkZTBjMjliZTE1MTBlNzU5OGJj`

@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": "2024-01-10",
       "duration_ms": 115906,
       "name": "Archer & Solomon Hike",
       "url": "https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 212533,
       "name": "Flying",
       "url": "https://open.spotify.com/track/2DS7nXQfAFmLzTicXi3riM"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 237960,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh"
@@ -526,10 +526,28 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 89093,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/6GBTGVUSVIvvgWbm17kIGB"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102226,
+      "name": "Katniss",
+      "url": "https://open.spotify.com/track/0sDeDYPGIfM9tTk5GluErY"
     },
     {
       "album": {
@@ -682,7 +700,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 121053,
       "name": "Meet the Mentor",
       "url": "https://open.spotify.com/track/6I7RePMDDF7a6VhjrtchJ8"
@@ -968,7 +986,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 118920,
       "name": "Sejanus",
       "url": "https://open.spotify.com/track/5WzSe25m3cnrkik2ZsHSvn"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 70400,
       "name": "The Hunger Games",
       "url": "https://open.spotify.com/track/1s9GYilV9guTnwidLuBV7I"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 172480,
       "name": "Vespertilio",
       "url": "https://open.spotify.com/track/5s1vSkSpX2N9VqMkt0uWls"

@@ -1,584 +1,2005 @@
 {
-  "2022-05-26": 7562,
-  "2022-05-27": 7567,
-  "2022-05-28": 7578,
-  "2022-05-29": 7585,
-  "2022-05-30": 7595,
-  "2022-05-31": 7602,
-  "2022-06-01": 7607,
-  "2022-06-02": 7608,
-  "2022-06-03": 7614,
-  "2022-06-04": 7622,
-  "2022-06-05": 7623,
-  "2022-06-06": 7632,
-  "2022-06-07": 7638,
-  "2022-06-08": 7641,
-  "2022-06-09": 7648,
-  "2022-06-10": 7653,
-  "2022-06-11": 7657,
-  "2022-06-12": 7663,
-  "2022-06-13": 7672,
-  "2022-06-14": 7683,
-  "2022-06-15": 7690,
-  "2022-06-16": 7695,
-  "2022-06-17": 7701,
-  "2022-06-18": 7707,
-  "2022-06-19": 7721,
-  "2022-06-20": 7721,
-  "2022-06-21": 7723,
-  "2022-06-22": 7734,
-  "2022-06-23": 7734,
-  "2022-06-24": 7743,
-  "2022-06-25": 7749,
-  "2022-06-26": 7754,
-  "2022-06-27": 7758,
-  "2022-06-28": 7762,
-  "2022-06-29": 7768,
-  "2022-06-30": 7770,
-  "2022-07-01": 7774,
-  "2022-07-02": 7775,
-  "2022-07-03": 7788,
-  "2022-07-04": 7794,
-  "2022-07-05": 7797,
-  "2022-07-06": 7797,
-  "2022-07-07": 7814,
-  "2022-07-08": 7824,
-  "2022-07-09": 7834,
-  "2022-07-10": 7840,
-  "2022-07-11": 7845,
-  "2022-07-12": 7852,
-  "2022-07-13": 7856,
-  "2022-07-14": 7865,
-  "2022-07-15": 7872,
-  "2022-07-16": 7876,
-  "2022-07-17": 7889,
-  "2022-07-18": 7894,
-  "2022-07-19": 7896,
-  "2022-07-20": 7902,
-  "2022-07-21": 7907,
-  "2022-07-22": 7918,
-  "2022-07-23": 7931,
-  "2022-07-24": 7937,
-  "2022-07-25": 7948,
-  "2022-07-26": 7956,
-  "2022-07-27": 7964,
-  "2022-07-28": 7972,
-  "2022-07-29": 7975,
-  "2022-07-30": 7985,
-  "2022-07-31": 7985,
-  "2022-08-01": 7997,
-  "2022-08-02": 8011,
-  "2022-08-03": 8011,
-  "2022-08-04": 8014,
-  "2022-08-05": 8020,
-  "2022-08-06": 8026,
-  "2022-08-07": 8032,
-  "2022-08-08": 8038,
-  "2022-08-09": 8040,
-  "2022-08-10": 8046,
-  "2022-08-11": 8052,
-  "2022-08-12": 8058,
-  "2022-08-13": 8061,
-  "2022-08-14": 8070,
-  "2022-08-15": 8077,
-  "2022-08-16": 8079,
-  "2022-08-17": 8089,
-  "2022-08-18": 8098,
-  "2022-08-19": 8101,
-  "2022-08-20": 8109,
-  "2022-08-21": 8118,
-  "2022-08-22": 8121,
-  "2022-08-23": 8126,
-  "2022-08-24": 8132,
-  "2022-08-25": 8135,
-  "2022-08-26": 8138,
-  "2022-08-27": 8142,
-  "2022-08-28": 8145,
-  "2022-08-29": 8147,
-  "2022-08-30": 8149,
-  "2022-08-31": 8154,
-  "2022-09-01": 8160,
-  "2022-09-02": 8169,
-  "2022-09-03": 8173,
-  "2022-09-04": 8188,
-  "2022-09-05": 8191,
-  "2022-09-06": 8195,
-  "2022-09-07": 8206,
-  "2022-09-09": 8219,
-  "2022-09-10": 8223,
-  "2022-09-11": 8229,
-  "2022-09-12": 8237,
-  "2022-09-13": 8242,
-  "2022-09-15": 8252,
-  "2022-09-16": 8258,
-  "2022-09-17": 8266,
-  "2022-09-18": 8273,
-  "2022-09-19": 8279,
-  "2022-09-20": 8289,
-  "2022-09-21": 8293,
-  "2022-09-22": 8298,
-  "2022-09-23": 8304,
-  "2022-09-24": 8309,
-  "2022-09-25": 8314,
-  "2022-09-26": 8319,
-  "2022-09-27": 8323,
-  "2022-09-28": 8325,
-  "2022-09-29": 8336,
-  "2022-09-30": 8344,
-  "2022-10-01": 8357,
-  "2022-10-02": 8364,
-  "2022-10-03": 8373,
-  "2022-10-04": 8377,
-  "2022-10-05": 8382,
-  "2022-10-06": 8384,
-  "2022-10-07": 8390,
-  "2022-10-08": 8388,
-  "2022-10-09": 8403,
-  "2022-10-10": 8404,
-  "2022-10-11": 8412,
-  "2022-10-12": 8413,
-  "2022-10-13": 8417,
-  "2022-10-14": 8426,
-  "2022-10-15": 8427,
-  "2022-10-16": 8442,
-  "2022-10-17": 8450,
-  "2022-10-18": 8457,
-  "2022-10-19": 8464,
-  "2022-10-20": 8466,
-  "2022-10-21": 8472,
-  "2022-10-22": 8483,
-  "2022-10-23": 8489,
-  "2022-10-24": 8497,
-  "2022-10-25": 8499,
-  "2022-10-26": 8503,
-  "2022-10-27": 8511,
-  "2022-10-28": 8519,
-  "2022-10-29": 8524,
-  "2022-10-30": 8534,
-  "2022-10-31": 8539,
-  "2022-11-01": 8542,
-  "2022-11-02": 8548,
-  "2022-11-03": 8554,
-  "2022-11-04": 8562,
-  "2022-11-05": 8572,
-  "2022-11-06": 8580,
-  "2022-11-07": 8585,
-  "2022-11-08": 8586,
-  "2022-11-09": 8593,
-  "2022-11-10": 8597,
-  "2022-11-11": 8601,
-  "2022-11-12": 8608,
-  "2022-11-13": 8613,
-  "2022-11-14": 8615,
-  "2022-11-15": 8621,
-  "2022-11-16": 8624,
-  "2022-11-17": 8627,
-  "2022-11-18": 8629,
-  "2022-11-19": 8632,
-  "2022-11-20": 8640,
-  "2022-11-21": 8646,
-  "2022-11-22": 8652,
-  "2022-11-23": 8658,
-  "2022-11-24": 8669,
-  "2022-11-25": 8675,
-  "2022-11-26": 8680,
-  "2022-11-27": 8682,
-  "2022-11-28": 8693,
-  "2022-11-29": 8703,
-  "2022-11-30": 8710,
-  "2022-12-01": 8714,
-  "2022-12-02": 8721,
-  "2022-12-03": 8731,
-  "2022-12-04": 8734,
-  "2022-12-05": 8741,
-  "2022-12-06": 8747,
-  "2022-12-07": 8751,
-  "2022-12-08": 8757,
-  "2022-12-09": 8765,
-  "2022-12-10": 8771,
-  "2022-12-11": 8772,
-  "2022-12-12": 8781,
-  "2022-12-13": 8786,
-  "2022-12-14": 8792,
-  "2022-12-15": 8794,
-  "2022-12-16": 8797,
-  "2022-12-17": 8801,
-  "2022-12-18": 8805,
-  "2022-12-19": 8811,
-  "2022-12-20": 8824,
-  "2022-12-21": 8824,
-  "2022-12-22": 8826,
-  "2022-12-24": 8839,
-  "2022-12-25": 8844,
-  "2022-12-26": 8848,
-  "2022-12-27": 8854,
-  "2022-12-28": 8859,
-  "2022-12-29": 8865,
-  "2022-12-30": 8869,
-  "2022-12-31": 8875,
-  "2023-01-01": 8888,
-  "2023-01-02": 8893,
-  "2023-01-03": 8905,
-  "2023-01-04": 8906,
-  "2023-01-05": 8916,
-  "2023-01-06": 8925,
-  "2023-01-07": 8934,
-  "2023-01-08": 8936,
-  "2023-01-09": 8942,
-  "2023-01-10": 8949,
-  "2023-01-11": 8957,
-  "2023-01-12": 8962,
-  "2023-01-13": 8972,
-  "2023-01-14": 8982,
-  "2023-01-15": 8985,
-  "2023-01-16": 8988,
-  "2023-01-17": 8994,
-  "2023-01-18": 9002,
-  "2023-01-19": 9004,
-  "2023-01-20": 9013,
-  "2023-01-21": 9022,
-  "2023-01-22": 9034,
-  "2023-01-23": 9041,
-  "2023-01-24": 9046,
-  "2023-01-25": 9052,
-  "2023-01-26": 9063,
-  "2023-01-27": 9066,
-  "2023-01-28": 9071,
-  "2023-01-29": 9075,
-  "2023-01-30": 9081,
-  "2023-01-31": 9081,
-  "2023-02-01": 9090,
-  "2023-02-02": 9094,
-  "2023-02-03": 9100,
-  "2023-02-04": 9100,
-  "2023-02-05": 9104,
-  "2023-02-06": 9106,
-  "2023-02-07": 9108,
-  "2023-02-08": 9124,
-  "2023-02-09": 9124,
-  "2023-02-10": 9131,
-  "2023-02-11": 9136,
-  "2023-02-12": 9155,
-  "2023-02-13": 9160,
-  "2023-02-14": 9160,
-  "2023-02-15": 9165,
-  "2023-02-16": 9170,
-  "2023-02-17": 9176,
-  "2023-02-18": 9182,
-  "2023-02-19": 9182,
-  "2023-02-20": 9186,
-  "2023-02-21": 9193,
-  "2023-02-22": 9198,
-  "2023-02-23": 9203,
-  "2023-02-24": 9218,
-  "2023-02-25": 9224,
-  "2023-02-26": 9234,
-  "2023-02-27": 9247,
-  "2023-02-28": 9247,
-  "2023-03-01": 9251,
-  "2023-03-02": 9255,
-  "2023-03-03": 9260,
-  "2023-03-04": 9269,
-  "2023-03-05": 9287,
-  "2023-03-06": 9287,
-  "2023-03-07": 9293,
-  "2023-03-08": 9294,
-  "2023-03-09": 9297,
-  "2023-03-10": 9303,
-  "2023-03-11": 9310,
-  "2023-03-12": 9314,
-  "2023-03-13": 9318,
-  "2023-03-14": 9323,
-  "2023-03-15": 9331,
-  "2023-03-16": 9331,
-  "2023-03-17": 9331,
-  "2023-03-18": 9362,
-  "2023-03-19": 9362,
-  "2023-03-20": 9374,
-  "2023-03-21": 9384,
-  "2023-03-22": 9394,
-  "2023-03-23": 9398,
-  "2023-03-24": 9398,
-  "2023-03-25": 9410,
-  "2023-03-26": 9420,
-  "2023-03-27": 9429,
-  "2023-03-28": 9436,
-  "2023-03-29": 9441,
-  "2023-03-30": 9456,
-  "2023-03-31": 9456,
-  "2023-04-01": 9462,
-  "2023-04-02": 9471,
-  "2023-04-03": 9474,
-  "2023-04-04": 9477,
-  "2023-04-05": 9477,
-  "2023-04-06": 9483,
-  "2023-04-07": 9493,
-  "2023-04-09": 9506,
-  "2023-04-10": 9511,
-  "2023-04-11": 9524,
-  "2023-04-12": 9524,
-  "2023-04-13": 9530,
-  "2023-04-14": 9534,
-  "2023-04-15": 9541,
-  "2023-04-16": 9545,
-  "2023-04-17": 9551,
-  "2023-04-18": 9558,
-  "2023-04-19": 9566,
-  "2023-04-20": 9575,
-  "2023-04-21": 9584,
-  "2023-04-22": 9589,
-  "2023-04-23": 9600,
-  "2023-04-24": 9606,
-  "2023-04-25": 9610,
-  "2023-04-26": 9611,
-  "2023-04-27": 9617,
-  "2023-04-28": 9616,
-  "2023-04-29": 9621,
-  "2023-04-30": 9624,
-  "2023-05-01": 9634,
-  "2023-05-02": 9646,
-  "2023-05-03": 9650,
-  "2023-05-04": 9656,
-  "2023-05-05": 9663,
-  "2023-05-06": 9667,
-  "2023-05-07": 9675,
-  "2023-05-08": 9682,
-  "2023-05-09": 9685,
-  "2023-05-10": 9684,
-  "2023-05-11": 9685,
-  "2023-05-12": 9687,
-  "2023-05-13": 9694,
-  "2023-05-14": 9698,
-  "2023-05-15": 9701,
-  "2023-05-16": 9706,
-  "2023-05-17": 9709,
-  "2023-05-18": 9713,
-  "2023-05-19": 9719,
-  "2023-05-20": 9728,
-  "2023-05-21": 9728,
-  "2023-05-22": 9728,
-  "2023-05-23": 9732,
-  "2023-05-24": 9739,
-  "2023-05-25": 9743,
-  "2023-05-26": 9750,
-  "2023-05-27": 9757,
-  "2023-05-28": 9765,
-  "2023-05-29": 9765,
-  "2023-05-30": 9769,
-  "2023-05-31": 9773,
-  "2023-06-01": 9778,
-  "2023-06-02": 9784,
-  "2023-06-03": 9789,
-  "2023-06-04": 9797,
-  "2023-06-05": 9804,
-  "2023-06-06": 9812,
-  "2023-06-07": 9818,
-  "2023-06-08": 9827,
-  "2023-06-09": 9835,
-  "2023-06-10": 9847,
-  "2023-06-11": 9854,
-  "2023-06-12": 9860,
-  "2023-06-13": 9866,
-  "2023-06-14": 9872,
-  "2023-06-15": 9878,
-  "2023-06-16": 9884,
-  "2023-06-17": 9887,
-  "2023-06-18": 9895,
-  "2023-06-19": 9902,
-  "2023-06-20": 9907,
-  "2023-06-21": 9910,
-  "2023-06-22": 9918,
-  "2023-06-23": 9922,
-  "2023-06-24": 9926,
-  "2023-06-25": 9934,
-  "2023-06-26": 9941,
-  "2023-06-27": 9945,
-  "2023-06-28": 9958,
-  "2023-06-29": 9960,
-  "2023-06-30": 9966,
-  "2023-07-01": 9980,
-  "2023-07-02": 9980,
-  "2023-07-03": 9982,
-  "2023-07-04": 9987,
-  "2023-07-05": 9993,
-  "2023-07-06": 9998,
-  "2023-07-07": 9998,
-  "2023-07-08": 10005,
-  "2023-07-09": 10013,
-  "2023-07-10": 10014,
-  "2023-07-11": 10019,
-  "2023-07-12": 10025,
-  "2023-07-13": 10034,
-  "2023-07-14": 10038,
-  "2023-07-15": 10043,
-  "2023-07-16": 10059,
-  "2023-07-17": 10070,
-  "2023-07-18": 10077,
-  "2023-07-19": 10084,
-  "2023-07-20": 10090,
-  "2023-07-21": 10092,
-  "2023-07-22": 10095,
-  "2023-07-23": 10101,
-  "2023-07-24": 10110,
-  "2023-07-25": 10112,
-  "2023-07-26": 10118,
-  "2023-07-27": 10120,
-  "2023-07-28": 10130,
-  "2023-07-29": 10135,
-  "2023-07-30": 10140,
-  "2023-07-31": 10143,
-  "2023-08-01": 10150,
-  "2023-08-02": 10154,
-  "2023-08-03": 10160,
-  "2023-08-04": 10169,
-  "2023-08-05": 10171,
-  "2023-08-06": 10179,
-  "2023-08-07": 10179,
-  "2023-08-08": 10187,
-  "2023-08-09": 10191,
-  "2023-08-10": 10196,
-  "2023-08-11": 10204,
-  "2023-08-12": 10210,
-  "2023-08-13": 10210,
-  "2023-08-14": 10224,
-  "2023-08-15": 10238,
-  "2023-08-16": 10238,
-  "2023-08-17": 10245,
-  "2023-08-18": 10245,
-  "2023-08-19": 10261,
-  "2023-08-20": 10266,
-  "2023-08-21": 10271,
-  "2023-08-22": 10276,
-  "2023-08-23": 10276,
-  "2023-08-24": 10281,
-  "2023-08-25": 10281,
-  "2023-08-26": 10297,
-  "2023-08-27": 10303,
-  "2023-08-28": 10313,
-  "2023-08-29": 10319,
-  "2023-08-30": 10319,
-  "2023-08-31": 10328,
-  "2023-09-01": 10342,
-  "2023-09-02": 10342,
-  "2023-09-03": 10348,
-  "2023-09-04": 10348,
-  "2023-09-05": 10348,
-  "2023-09-06": 10373,
-  "2023-09-07": 10373,
-  "2023-09-08": 10373,
-  "2023-09-09": 10373,
-  "2023-09-10": 10400,
-  "2023-09-11": 10408,
-  "2023-09-12": 10408,
-  "2023-09-13": 10425,
-  "2023-09-14": 10425,
-  "2023-09-15": 10425,
-  "2023-09-16": 10440,
-  "2023-09-17": 10440,
-  "2023-09-18": 10440,
-  "2023-09-19": 10464,
-  "2023-09-20": 10464,
-  "2023-09-21": 10464,
-  "2023-09-22": 10476,
-  "2023-09-23": 10476,
-  "2023-09-24": 10476,
-  "2023-09-25": 10476,
-  "2023-09-26": 10494,
-  "2023-09-27": 10494,
-  "2023-09-28": 10494,
-  "2023-09-29": 10494,
-  "2023-09-30": 10494,
-  "2023-10-01": 10494,
-  "2023-10-02": 10522,
-  "2023-10-03": 10522,
-  "2023-10-04": 10522,
-  "2023-10-05": 10537,
-  "2023-10-06": 10539,
-  "2023-10-07": 10539,
-  "2023-10-08": 10539,
-  "2023-10-09": 10539,
-  "2023-10-10": 10539,
-  "2023-10-11": 10556,
-  "2023-10-12": 10556,
-  "2023-10-13": 10556,
-  "2023-10-14": 10556,
-  "2023-10-15": 10556,
-  "2023-10-16": 10556,
-  "2023-10-17": 10556,
-  "2023-10-18": 10556,
-  "2023-10-19": 10556,
-  "2023-10-20": 10556,
-  "2023-10-21": 10556,
-  "2023-10-22": 10556,
-  "2023-10-23": 10556,
-  "2023-10-24": 10556,
-  "2023-10-25": 10556,
-  "2023-10-26": 10556,
-  "2023-10-27": 10556,
-  "2023-10-28": 10556,
-  "2023-10-29": 10556,
-  "2023-10-30": 10556,
-  "2023-10-31": 10556,
-  "2023-11-01": 10556,
-  "2023-11-02": 10556,
-  "2023-11-03": 10556,
-  "2023-11-04": 10556,
-  "2023-11-05": 10556,
-  "2023-11-06": 10556,
-  "2023-11-07": 10556,
-  "2023-11-08": 10556,
-  "2023-11-09": 10556,
-  "2023-11-10": 10556,
-  "2023-11-11": 10710,
-  "2023-11-12": 10710,
-  "2023-11-13": 10710,
-  "2023-11-14": 10710,
-  "2023-11-15": 10710,
-  "2023-11-16": 10710,
-  "2023-11-17": 10710,
-  "2023-11-18": 10710,
-  "2023-11-19": 10710,
-  "2023-11-20": 10710,
-  "2023-11-21": 10710,
-  "2023-11-22": 10710,
-  "2023-11-23": 10710,
-  "2023-11-24": 10710,
-  "2023-11-25": 10710,
-  "2023-11-26": 10710,
-  "2023-11-27": 10710,
-  "2023-11-28": 10710,
-  "2023-11-29": 10710,
-  "2023-11-30": 10710,
-  "2023-12-01": 10710,
-  "2023-12-02": 10710,
-  "2023-12-03": 10710,
-  "2023-12-04": 10710,
-  "2023-12-05": 10710,
-  "2023-12-06": 10710,
-  "2023-12-07": 10710,
-  "2023-12-08": 10710,
-  "2023-12-09": 10710,
-  "2023-12-10": 10710,
-  "2023-12-11": 10710,
-  "2023-12-12": 10710,
-  "2023-12-13": 10710,
-  "2023-12-14": 10876,
-  "2023-12-15": 10878,
-  "2023-12-16": 10883,
-  "2023-12-17": 10893,
-  "2023-12-18": 10894,
-  "2023-12-19": 10904,
-  "2023-12-20": 10908,
-  "2023-12-21": 10910,
-  "2023-12-22": 10914,
-  "2023-12-23": 10915,
-  "2023-12-24": 10918,
-  "2023-12-25": 10921,
-  "2023-12-26": 10925,
-  "2023-12-27": 10933,
-  "2023-12-30": 10946,
-  "2023-12-31": 10950,
-  "2024-01-01": 10953,
-  "2024-01-02": 10958,
-  "2024-01-03": 10963
+  "2024-01-17": 11000,
+  "date_first_scraped": "2022-05-26",
+  "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
+  "name": "This Is Lou Rawls",
+  "tracks": [
+    {
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 165960,
+      "name": "'Tain't Nobody's Biz-ness If I Do",
+      "url": "https://open.spotify.com/track/3YKl0GFke1KhVACpj59XtL"
+    },
+    {
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls And Les McCann Trio",
+          "url": "https://open.spotify.com/artist/4ldWE2nRMsjaNC9HZS6cRJ"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 225600,
+      "name": "(They Call It) Stormy Monday",
+      "url": "https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO"
+    },
+    {
+      "album": {
+        "name": "Black And Blue",
+        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 210000,
+      "name": "(What Did I Do To Be So) Black And Blue - 2006 Remaster",
+      "url": "https://open.spotify.com/track/72tlqAov3Octf3enkrYJkD"
+    },
+    {
+      "album": {
+        "name": "Portrait Of The Blues",
+        "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Phoebe Snow",
+          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "A Lover's Question",
+      "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
+    },
+    {
+      "album": {
+        "name": "Natural Man / Classic Lou",
+        "url": "https://open.spotify.com/album/2AuskfemNIIJnipCT670GV"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "A Natural Man",
+      "url": "https://open.spotify.com/track/1UhY3dJlChFoC9dOkD4ZzO"
+    },
+    {
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155906,
+      "name": "After The Lights Go Down Low",
+      "url": "https://open.spotify.com/track/0wUvmSed5xOamtUlTvdIHC"
+    },
+    {
+      "album": {
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278946,
+      "name": "Ain't That Loving You (For More Reasons Than One)",
+      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
+    },
+    {
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 201466,
+      "name": "All Around The World",
+      "url": "https://open.spotify.com/track/77Ia9N4Gsw38dvqlbFBs7f"
+    },
+    {
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
+    },
+    {
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/6GQJ5QhnjnkxwKOjSJzHnC"
+    },
+    {
+      "album": {
+        "name": "ARETHA",
+        "url": "https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 388320,
+      "name": "At Last (with Lou Rawls) - Live",
+      "url": "https://open.spotify.com/track/7wAleLENYvPLATrmuPkrA5"
+    },
+    {
+      "album": {
+        "name": "Now Is The Time",
+        "url": "https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz"
+    },
+    {
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 223493,
+      "name": "Be Anything (But Be Mine)",
+      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Service: God's Promise",
+        "url": "https://open.spotify.com/album/1FAfHaWyHBT9v0F5ZSXIMi"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 134840,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/02486Bl2PJbj0h5am6U5kT"
+    },
+    {
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178240,
+      "name": "Blues Is A Woman",
+      "url": "https://open.spotify.com/track/144kj4S4IGdWjcHjb1PyWL"
+    },
+    {
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "Bring It On Home - Digitally Remastered 00",
+      "url": "https://open.spotify.com/track/7lemF5PY2O8aGkhHUyz2Bp"
+    },
+    {
+      "album": {
+        "name": "Ladysmith Black Mambazo & Friends",
+        "url": "https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 228693,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/121zWRGmvv3D1fNIGmPMQp"
+    },
+    {
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 231416,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/4bxDuiQTJeJDSjn4JHcHzm"
+    },
+    {
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 231416,
+      "name": "Chain Gang (feat. Lou Rawls)",
+      "url": "https://open.spotify.com/track/5qdqlHz8qxgi86txQbXp3x"
+    },
+    {
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Dead End Street",
+      "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
+    },
+    {
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 339160,
+      "name": "Early Morning Love",
+      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
+    },
+    {
+      "album": {
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341270,
+      "name": "Early Morning Love",
+      "url": "https://open.spotify.com/track/4sy7qMHNQCBGJGLjwmnPt7"
+    },
+    {
+      "album": {
+        "name": "I Can't Make It Alone: The Axelrod Years",
+        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
+    },
+    {
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Fine Brown Frame",
+      "url": "https://open.spotify.com/track/529bZN7XbpbDog5xQqC3wA"
+    },
+    {
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294720,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX"
+    },
+    {
+      "album": {
+        "name": "Rhymes and Reasons",
+        "url": "https://open.spotify.com/album/6Jj2Qzi6a9x8FPWNe10x8I"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz"
+    },
+    {
+      "album": {
+        "name": "Black And Blue",
+        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-23",
+      "duration_ms": 173973,
+      "name": "Goin' To Chicago Blues - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4JT4LRlahM5LARTB93105T"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Groovy People",
+      "url": "https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq"
+    },
+    {
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 181826,
+      "name": "I Can't Make It Alone",
+      "url": "https://open.spotify.com/track/3wMEyUb0sc9CP9Hlw1dyP0"
+    },
+    {
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 232346,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
+    },
+    {
+      "album": {
+        "name": "Portrait Of The Blues",
+        "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 189733,
+      "name": "I Just Want To Make Love To You",
+      "url": "https://open.spotify.com/track/5pGeEPpwJiFyvBbKGBZcKZ"
+    },
+    {
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 207320,
+      "name": "I Wish It Were Yesterday",
+      "url": "https://open.spotify.com/track/54lpLkeJoX4Aai5JdgJnIB"
+    },
+    {
+      "album": {
+        "name": "Sweet Chariot",
+        "url": "https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 235706,
+      "name": "I'd Rather Drink Muddy Water",
+      "url": "https://open.spotify.com/track/4I677Lz5xosfi7M4k3nsF9"
+    },
+    {
+      "album": {
+        "name": "Black And Blue",
+        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 215240,
+      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+    },
+    {
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 188493,
+      "name": "I'd Rather Drink Muddy Water - Live/1968",
+      "url": "https://open.spotify.com/track/7ykrjb0F8haiGHwXobEY1q"
+    },
+    {
+      "album": {
+        "name": "Natural Man / Classic Lou",
+        "url": "https://open.spotify.com/album/2AuskfemNIIJnipCT670GV"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 139840,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/59EwOUncU2w4BoI6Zk7Pc8"
+    },
+    {
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272413,
+      "name": "If I Coulda, Woulda, Shoulda",
+      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
+    },
+    {
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183493,
+      "name": "If I Were A Magician",
+      "url": "https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n"
+    },
+    {
+      "album": {
+        "name": "Hit After Hit",
+        "url": "https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 131614,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/0ZMwnIDnRaSSxcbUl7Z8yo"
+    },
+    {
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 208866,
+      "name": "In The Evening When The Sun Goes Down",
+      "url": "https://open.spotify.com/track/449ERuFb4q69n28mdvpUS7"
+    },
+    {
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 170466,
+      "name": "It Was A Very Good Year - Digitally Remastered 00",
+      "url": "https://open.spotify.com/track/0MuK8gUKHaj9PdlOxgvygy"
+    },
+    {
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133466,
+      "name": "Kansas City - Digitally Remastered 00",
+      "url": "https://open.spotify.com/track/6HHVWXN2ItXtLdkH4pXgdR"
+    },
+    {
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242386,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg"
+    },
+    {
+      "album": {
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325853,
+      "name": "Let Me Be Good to You",
+      "url": "https://open.spotify.com/track/0Z1OoeOob3W4Qf4eAuz463"
+    },
+    {
+      "album": {
+        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
+        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
+      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 240600,
+      "name": "Let's Fall In Love All Over Again",
+      "url": "https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2"
+    },
+    {
+      "album": {
+        "name": "The Edge: David Axelrod At Capitol Records 1966-1970",
+        "url": "https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111586,
+      "name": "Lifetime Monologue - Remastered",
+      "url": "https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP"
+    },
+    {
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134426,
+      "name": "Love Is A Hurtin' Thing",
+      "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
+    },
+    {
+      "album": {
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 320066,
+      "name": "Lover's Holiday",
+      "url": "https://open.spotify.com/track/6tasaR3rJiSdRbuA9o5xop"
+    },
+    {
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 148000,
+      "name": "Mama Told Me Not To Come",
+      "url": "https://open.spotify.com/track/17ArYcblk6XbugVhEgNp65"
+    },
+    {
+      "album": {
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/3QzhFMsQAECe4fEeoRmVXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 206933,
+      "name": "Medley: Nearer My God to Thee / Touch the Hem of His Garment / Were You There",
+      "url": "https://open.spotify.com/track/6JrftCZWM4SpeVJKFBDYGb"
+    },
+    {
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 139026,
+      "name": "Memory Lane - Digitally Remastered 00",
+      "url": "https://open.spotify.com/track/3KGEE8xTPq9Af0NYDGpYwL"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 277000,
+      "name": "Need You Forever",
+      "url": "https://open.spotify.com/track/1eKsrQNO0oFGXn7xQxQYmd"
+    },
+    {
+      "album": {
+        "name": "Hit After Hit",
+        "url": "https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 134943,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/1gbdDazbGiV83TxannfdyL"
+    },
+    {
+      "album": {
+        "name": "Nobody But Lou",
+        "url": "https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164466,
+      "name": "Nobody But Me",
+      "url": "https://open.spotify.com/track/1TKnomDQTCtUQEKdGwaE5S"
+    },
+    {
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Not the Staying Kind",
+      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
+    },
+    {
+      "album": {
+        "name": "Now Is The Time",
+        "url": "https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 220933,
+      "name": "Now Is The Time For Love",
+      "url": "https://open.spotify.com/track/5gJrQaWzJmQI1LnUjmB2MC"
+    },
+    {
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 213973,
+      "name": "Oh, What A Nite",
+      "url": "https://open.spotify.com/track/1yUrw3yuITA18pUdmgLMfx"
+    },
+    {
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233146,
+      "name": "One Life to Live",
+      "url": "https://open.spotify.com/track/7K5oM0YifHysADifGna69g"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221453,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/0SYrCElkWSynWIEBKj1hwl"
+    },
+    {
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222960,
+      "name": "Save the Bones for Henry Jones",
+      "url": "https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq"
+    },
+    {
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "Scotch & Soda",
+      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
+    },
+    {
+      "album": {
+        "name": "Halloween's Gravest Hits",
+        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 351653,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/65CQSLIsCjbVyGXVRg97K4"
+    },
+    {
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 191600,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/0nm1sz6alpQnzQAZZ8oOPq"
+    },
+    {
+      "album": {
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268586,
+      "name": "See You When I Git There",
+      "url": "https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc"
+    },
+    {
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
+    },
+    {
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 180226,
+      "name": "She's No Lady",
+      "url": "https://open.spotify.com/track/5wtHVeMwtU2CoTwzeCnn4T"
+    },
+    {
+      "album": {
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293213,
+      "name": "Sit Down and Talk to Me",
+      "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 476266,
+      "name": "Southside Blues/Tobacco Road - Live/Medley",
+      "url": "https://open.spotify.com/track/7E7IVQTT08vYalrSXXQajt"
+    },
+    {
+      "album": {
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266872,
+      "name": "Spring Again",
+      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274306,
+      "name": "St. James Infirmary - Live/Remastered",
+      "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
+    },
+    {
+      "album": {
+        "name": "Tobacco Road",
+        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "Stormy Weather (Keeps Rainin' All The Time) - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1fSPsAKuv7b9E9dTKPmW4N"
+    },
+    {
+      "album": {
+        "name": "Tobacco Road",
+        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 214560,
+      "name": "Summertime - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1c8bdqWBc4SohLTuPX4Hge"
+    },
+    {
+      "album": {
+        "name": "Sweet Chariot",
+        "url": "https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 191306,
+      "name": "Sweet Lover",
+      "url": "https://open.spotify.com/track/0uLV5fXFiGv9i9UEKDOCGc"
+    },
+    {
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 188226,
+      "name": "Sweet Lover",
+      "url": "https://open.spotify.com/track/2D72GDowNf3mtz7WmtIOei"
+    },
+    {
+      "album": {
+        "name": "Sweet Chariot",
+        "url": "https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 162666,
+      "name": "Tain't Nobody's Biz-Ness If I Do",
+      "url": "https://open.spotify.com/track/1c8DBv0jzvNO2RZaRrieSq"
+    },
+    {
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 195000,
+      "name": "That's Where It's At",
+      "url": "https://open.spotify.com/track/5aJV6QT4rH2feDuUpk9Aim"
+    },
+    {
+      "album": {
+        "name": "Hit After Hit",
+        "url": "https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 154012,
+      "name": "The Biggest Lover In Town",
+      "url": "https://open.spotify.com/track/1eRtP4Opm3CpNNSc8yvocW"
+    },
+    {
+      "album": {
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263200,
+      "name": "The Girl From Ipanema - Live",
+      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
+    },
+    {
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
+    },
+    {
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280826,
+      "name": "The Shadow Of Your Smile - Digitally Remastered",
+      "url": "https://open.spotify.com/track/3lgZGL0dlI7ZLp3xlWWd0K"
+    },
+    {
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259613,
+      "name": "There Will Be Love",
+      "url": "https://open.spotify.com/track/2KjSNIlOeI6bHG9KaWIf3V"
+    },
+    {
+      "album": {
+        "name": "Stormy Monday (Original Album - Digitally Remastered)",
+        "url": "https://open.spotify.com/album/1jW4WcvIKURSkpAZ0wFH8T"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 225600,
+      "name": "They Call It Stormy Monday",
+      "url": "https://open.spotify.com/track/71vtUr8NIGW8lqAgsxCO0M"
+    },
+    {
+      "album": {
+        "name": "Session #55 (1936-2001)",
+        "url": "https://open.spotify.com/album/4fwPNbWSGj9VgPlPNufj65"
+      },
+      "artists": [
+        {
+          "name": "Les Brown & His Band Of Renown",
+          "url": "https://open.spotify.com/artist/4Xg35Eo56SHMw5oWbCmw9O"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 165840,
+      "name": "They Can't Take That Away from Me",
+      "url": "https://open.spotify.com/track/5wxU0hgoQovDevPToz0Urd"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305053,
+      "name": "This Song Will Last Forever",
+      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
+    },
+    {
+      "album": {
+        "name": "Lou Rawls And Strings",
+        "url": "https://open.spotify.com/album/1T75XVkrO7ppPS6PdleIuK"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 173333,
+      "name": "Three O'Clock In The Morning",
+      "url": "https://open.spotify.com/track/3WEb8n860JzyMxnRASarOI"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 173026,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu"
+    },
+    {
+      "album": {
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276093,
+      "name": "Time Will Take Care of Everything",
+      "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
+    },
+    {
+      "album": {
+        "name": "Tobacco Road",
+        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241680,
+      "name": "Tobacco Road - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2XV3Q00jCVoePVLoXl8nKn"
+    },
+    {
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169640,
+      "name": "Two Years Of Torture",
+      "url": "https://open.spotify.com/track/2h0PMVMul2UYYkef8i0OHZ"
+    },
+    {
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 203573,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/6DasyKHS773Ar1TBMEyKUn"
+    },
+    {
+      "album": {
+        "name": "Lou Rawls (Unplugged) Philadelphia - Chicago - Detroit [Live]",
+        "url": "https://open.spotify.com/album/6fe7BWXsHHmD0nX5YL5Zsi"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120986,
+      "name": "Unforgettable - Live",
+      "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"
+    },
+    {
+      "album": {
+        "name": "Masters of Jazz Presents Les McCann (1960 - 1962 Essential Works)",
+        "url": "https://open.spotify.com/album/120sYlBGcZVSLhThyHlEZs"
+      },
+      "artists": [
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 191453,
+      "name": "Vacushna",
+      "url": "https://open.spotify.com/track/2mE3taX82LfRsRM7QOAu6s"
+    },
+    {
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 256160,
+      "name": "We Understand Each Other",
+      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
+    },
+    {
+      "album": {
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 354906,
+      "name": "What's the Matter with the World",
+      "url": "https://open.spotify.com/track/6Vr7UhEQ5K4xJyLkoWEHlr"
+    },
+    {
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 357040,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
+    },
+    {
+      "album": {
+        "name": "Lou Rawls - The Very Best Of",
+        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 232826,
+      "name": "Wind Beneath My Wings - Single Version",
+      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
+    },
+    {
+      "album": {
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 291173,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
+    },
+    {
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 333466,
+      "name": "You Can't Go Home",
+      "url": "https://open.spotify.com/track/4PtxNIk3QS8ACAO9m9sn4R"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "You'll Never Find Another Love Like Mine",
+      "url": "https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M"
+    },
+    {
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 317506,
+      "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live",
+      "url": "https://open.spotify.com/track/6ANn9X1Fi3w1xcWdxBQMHZ"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318213,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD"
+    },
+    {
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 267400,
+      "name": "You've Made Me So Very Happy",
+      "url": "https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt"
+    },
+    {
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267333,
+      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
+      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
+    },
+    {
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "Your Good Thing (Is About To End)",
+      "url": "https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb"
 }

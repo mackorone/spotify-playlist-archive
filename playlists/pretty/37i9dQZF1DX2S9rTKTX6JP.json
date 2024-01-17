@@ -1,6 +1,6 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 667417,
+  "num_followers": 667891,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Results May Vary",
-        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "MTV Unplugged In New York",
         "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 261093,
       "name": "The Man Who Sold The World - Live",
       "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 247388,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/0KxKNPHZpOLvJaT8ATekoT"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 247388,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/0KxKNPHZpOLvJaT8ATekoT"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
-      },
-      "artists": [
-        {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        }
-      ],
-      "duration_ms": 183357,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "duration_ms": 183357,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Simple Man",
-        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Don't Worry About Me",
         "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
       },
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Temple of Love (feat. VV)",
-        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
+        "name": "Simple Man",
+        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
       },
       "artists": [
         {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        },
-        {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 204759,
-      "name": "Temple of Love (feat. VV)",
-      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
+      "duration_ms": 268560,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1283,18 +1263,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+        "name": "Temple of Love (feat. VV)",
+        "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
       },
       "artists": [
         {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
         }
       ],
-      "duration_ms": 154680,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
+      "duration_ms": 204759,
+      "name": "Temple of Love (feat. VV)",
+      "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 315491,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Life's Been Good",
-        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "eMOTIVe",
         "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
       },
@@ -1471,6 +1455,38 @@
       "duration_ms": 291440,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Life's Been Good",
+        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "If I Ever Lose My Faith in You",
+        "url": "https://open.spotify.com/album/4W5TsaInsp1dAZUE5qvm5g"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 274055,
+      "name": "If I Ever Lose My Faith in You",
+      "url": "https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1507,54 +1523,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Rebels",
-        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 278280,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "If I Ever Lose My Faith in You",
-        "url": "https://open.spotify.com/album/4W5TsaInsp1dAZUE5qvm5g"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 274055,
-      "name": "If I Ever Lose My Faith in You",
-      "url": "https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Real Thing",
         "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
       },
@@ -1571,18 +1539,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Age Of Ignorance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
         }
       ],
-      "duration_ms": 249411,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
+      "duration_ms": 278280,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1603,18 +1571,34 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "You're Living All Over Me",
-        "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
       "artists": [
         {
-          "name": "Dinosaur Jr.",
-          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Age Of Ignorance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1631,6 +1615,38 @@
       "duration_ms": 199386,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "You're Living All Over Me",
+        "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Live & Inspired",
+        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 276306,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Live & Inspired",
-        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Stairway to Nick John",
-        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 485018,
-      "name": "Stairway to Heaven",
-      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -1747,6 +1731,38 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Punk Goes Pop, Vol. 6",
+        "url": "https://open.spotify.com/album/1l6S45U20fiob98cV6siw8"
+      },
+      "artists": [
+        {
+          "name": "Youth in Revolt",
+          "url": "https://open.spotify.com/artist/2bAEq3Pn4AHfpyffs2s8ai"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/3RZxpy9ic7FhK3UPvxmPET"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Stairway to Nick John",
+        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 485018,
+      "name": "Stairway to Heaven",
+      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1771,18 +1787,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Punk Goes Pop, Vol. 6",
-        "url": "https://open.spotify.com/album/1l6S45U20fiob98cV6siw8"
+        "name": "Goes to the Movies (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ZgrTd5XdnWWwmfXGJMGAV"
       },
       "artists": [
         {
-          "name": "Youth in Revolt",
-          "url": "https://open.spotify.com/artist/2bAEq3Pn4AHfpyffs2s8ai"
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
         }
       ],
-      "duration_ms": 204653,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/3RZxpy9ic7FhK3UPvxmPET"
+      "duration_ms": 209586,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/1wb2o0e5qrwSSoDUVIz6WM"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1815,22 +1831,6 @@
       "duration_ms": 198545,
       "name": "Numb (Acoustic)",
       "url": "https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Goes to the Movies (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ZgrTd5XdnWWwmfXGJMGAV"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/1wb2o0e5qrwSSoDUVIz6WM"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "DJ Got Us Fallin in Love",
         "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
       },
@@ -1915,6 +1899,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Pisces Iscariot (Remastered)",
+        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Landslide - Remastered",
+      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Eleanor Rigby",
         "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
       },
@@ -1927,22 +1927,6 @@
       "duration_ms": 177413,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1979,22 +1963,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Pisces Iscariot (Remastered)",
-        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Landslide - Remastered",
-      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
       },
@@ -2023,6 +1991,22 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2059,38 +2043,6 @@
       "duration_ms": 214325,
       "name": "Give Me One Reason (The Plug)",
       "url": "https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
-        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Working Class Hero",
-      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2139,6 +2091,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Ballroom Blitz",
         "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
       },
@@ -2151,6 +2119,38 @@
       "duration_ms": 249853,
       "name": "Ballroom Blitz",
       "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
+        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 263733,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Uninvited",
-        "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
-      },
-      "artists": [
-        {
-          "name": "Red Sun Rising",
-          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
-        }
-      ],
-      "duration_ms": 259689,
-      "name": "Uninvited",
-      "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Chain (from Gears 5)",
         "url": "https://open.spotify.com/album/0oP07JNydHXvXKegHE675I"
       },
@@ -2203,18 +2187,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+        "name": "Uninvited",
+        "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
       },
       "artists": [
         {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
+      "duration_ms": 259689,
+      "name": "Uninvited",
+      "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2231,6 +2215,22 @@
       "duration_ms": 323666,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2259,18 +2259,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
         }
       ],
-      "duration_ms": 269946,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2291,6 +2291,42 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Origin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        },
+        {
+          "name": "Wow That's What I Call Metalcore",
+          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
+        }
+      ],
+      "duration_ms": 293732,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Masterplan (Remastered Edition)",
+        "url": "https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 385293,
+      "name": "I Am The Walrus \u2013 Live Glasgow Cathouse June '94 - Remastered",
+      "url": "https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Chain",
         "url": "https://open.spotify.com/album/6isNHMQ20tEx8dJ7CUAiAT"
       },
@@ -2303,22 +2339,6 @@
       "duration_ms": 275146,
       "name": "The Chain",
       "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Origin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 293732,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2379,22 +2399,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Mississippi Queen/Slow Hand",
-        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
-      },
-      "artists": [
-        {
-          "name": "Joyous Wolf",
-          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Enter Sandman",
         "url": "https://open.spotify.com/album/7sIrH5m7rD2dxhZVWehQjH"
       },
@@ -2415,6 +2419,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Mississippi Queen/Slow Hand",
+        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
+      },
+      "artists": [
+        {
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "White Room (feat. Jacoby Shaddix)",
         "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
       },
@@ -2431,38 +2451,6 @@
       "duration_ms": 245757,
       "name": "White Room (feat. Jacoby Shaddix)",
       "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 205341,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "The Masterplan (Remastered Edition)",
-        "url": "https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 385293,
-      "name": "I Am The Walrus \u2013 Live Glasgow Cathouse June '94 - Remastered",
-      "url": "https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2503,22 +2491,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
-        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
-      },
-      "artists": [
-        {
-          "name": "Eagles Of Death Metal",
-          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Across The Universe",
         "url": "https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F"
       },
@@ -2531,6 +2503,38 @@
       "duration_ms": 222274,
       "name": "Across The Universe",
       "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 205341,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
+        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
+      },
+      "artists": [
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
     }
   ],
   "unique_name": "Rock Covers",

@@ -1,230 +1,819 @@
 {
-  "2023-05-19": 50656,
-  "2023-05-20": 50811,
-  "2023-05-21": 50811,
-  "2023-05-22": 50811,
-  "2023-05-23": 50957,
-  "2023-05-24": 51082,
-  "2023-05-25": 51088,
-  "2023-05-26": 51163,
-  "2023-05-27": 51234,
-  "2023-05-28": 51298,
-  "2023-05-29": 51298,
-  "2023-05-30": 51435,
-  "2023-05-31": 51511,
-  "2023-06-01": 51597,
-  "2023-06-02": 51665,
-  "2023-06-03": 51739,
-  "2023-06-04": 51812,
-  "2023-06-05": 51888,
-  "2023-06-06": 51941,
-  "2023-06-07": 51991,
-  "2023-06-08": 52050,
-  "2023-06-09": 52100,
-  "2023-06-10": 52144,
-  "2023-06-11": 52194,
-  "2023-06-12": 52233,
-  "2023-06-13": 52281,
-  "2023-06-14": 52281,
-  "2023-06-15": 52387,
-  "2023-06-16": 52452,
-  "2023-06-17": 52536,
-  "2023-06-18": 52623,
-  "2023-06-19": 52697,
-  "2023-06-20": 52784,
-  "2023-06-21": 52881,
-  "2023-06-22": 52957,
-  "2023-06-23": 53041,
-  "2023-06-24": 53130,
-  "2023-06-25": 53215,
-  "2023-06-26": 53300,
-  "2023-06-27": 53395,
-  "2023-06-28": 53473,
-  "2023-06-29": 53549,
-  "2023-06-30": 53625,
-  "2023-07-01": 53768,
-  "2023-07-02": 53768,
-  "2023-07-03": 53861,
-  "2023-07-04": 53920,
-  "2023-07-05": 53993,
-  "2023-07-06": 54130,
-  "2023-07-07": 54130,
-  "2023-07-08": 54213,
-  "2023-07-09": 54307,
-  "2023-07-10": 54381,
-  "2023-07-11": 54443,
-  "2023-07-12": 54548,
-  "2023-07-13": 54664,
-  "2023-07-14": 54778,
-  "2023-07-15": 54886,
-  "2023-07-16": 55048,
-  "2023-07-17": 55199,
-  "2023-07-18": 55335,
-  "2023-07-19": 55447,
-  "2023-07-20": 55520,
-  "2023-07-21": 55592,
-  "2023-07-22": 55690,
-  "2023-07-23": 55786,
-  "2023-07-24": 55868,
-  "2023-07-25": 55954,
-  "2023-07-26": 56025,
-  "2023-07-27": 56126,
-  "2023-07-28": 56217,
-  "2023-07-29": 56307,
-  "2023-07-30": 56396,
-  "2023-07-31": 56483,
-  "2023-08-01": 56558,
-  "2023-08-02": 56624,
-  "2023-08-03": 56695,
-  "2023-08-04": 56774,
-  "2023-08-05": 56866,
-  "2023-08-06": 57031,
-  "2023-08-07": 57031,
-  "2023-08-08": 57108,
-  "2023-08-09": 57187,
-  "2023-08-10": 57257,
-  "2023-08-11": 57338,
-  "2023-08-12": 57427,
-  "2023-08-13": 57522,
-  "2023-08-14": 57609,
-  "2023-08-15": 57772,
-  "2023-08-16": 57772,
-  "2023-08-17": 57848,
-  "2023-08-18": 57914,
-  "2023-08-19": 57999,
-  "2023-08-20": 58078,
-  "2023-08-21": 58156,
-  "2023-08-22": 58227,
-  "2023-08-23": 58306,
-  "2023-08-24": 58367,
-  "2023-08-25": 58445,
-  "2023-08-26": 58530,
-  "2023-08-27": 58612,
-  "2023-08-28": 58690,
-  "2023-08-29": 58751,
-  "2023-08-30": 58836,
-  "2023-08-31": 58899,
-  "2023-09-01": 59018,
-  "2023-09-02": 59018,
-  "2023-09-03": 59059,
-  "2023-09-04": 59137,
-  "2023-09-05": 59193,
-  "2023-09-06": 59249,
-  "2023-09-07": 59289,
-  "2023-09-08": 59334,
-  "2023-09-09": 59390,
-  "2023-09-10": 59447,
-  "2023-09-11": 59485,
-  "2023-09-12": 59521,
-  "2023-09-13": 59558,
-  "2023-09-14": 59609,
-  "2023-09-15": 59649,
-  "2023-09-16": 59689,
-  "2023-09-17": 59737,
-  "2023-09-18": 59794,
-  "2023-09-19": 59829,
-  "2023-09-20": 59869,
-  "2023-09-21": 59911,
-  "2023-09-22": 59944,
-  "2023-09-23": 59985,
-  "2023-09-24": 60027,
-  "2023-09-25": 60094,
-  "2023-09-26": 60140,
-  "2023-09-27": 60170,
-  "2023-09-28": 60228,
-  "2023-09-29": 60271,
-  "2023-09-30": 60328,
-  "2023-10-01": 60370,
-  "2023-10-02": 60447,
-  "2023-10-03": 60494,
-  "2023-10-04": 60540,
-  "2023-10-05": 60594,
-  "2023-10-06": 60635,
-  "2023-10-07": 60686,
-  "2023-10-08": 60746,
-  "2023-10-09": 60778,
-  "2023-10-10": 60805,
-  "2023-10-11": 60885,
-  "2023-10-12": 60885,
-  "2023-10-13": 60930,
-  "2023-10-14": 60967,
-  "2023-10-15": 61010,
-  "2023-10-16": 61056,
-  "2023-10-17": 61098,
-  "2023-10-18": 61134,
-  "2023-10-19": 61169,
-  "2023-10-20": 61193,
-  "2023-10-21": 61241,
-  "2023-10-22": 61276,
-  "2023-10-23": 61317,
-  "2023-10-24": 61374,
-  "2023-10-25": 61424,
-  "2023-10-26": 61464,
-  "2023-10-27": 61511,
-  "2023-10-28": 61511,
-  "2023-10-29": 61511,
-  "2023-10-30": 61656,
-  "2023-10-31": 61656,
-  "2023-11-01": 61743,
-  "2023-11-02": 61785,
-  "2023-11-03": 61823,
-  "2023-11-04": 61875,
-  "2023-11-05": 61927,
-  "2023-11-06": 61968,
-  "2023-11-07": 62011,
-  "2023-11-08": 62050,
-  "2023-11-09": 62089,
-  "2023-11-10": 62121,
-  "2023-11-11": 62165,
-  "2023-11-12": 62196,
-  "2023-11-13": 62226,
-  "2023-11-14": 62266,
-  "2023-11-15": 62266,
-  "2023-11-16": 62339,
-  "2023-11-17": 62387,
-  "2023-11-18": 62387,
-  "2023-11-19": 62421,
-  "2023-11-20": 62454,
-  "2023-11-21": 62493,
-  "2023-11-22": 62519,
-  "2023-11-23": 62556,
-  "2023-11-24": 62556,
-  "2023-11-25": 62633,
-  "2023-11-26": 62670,
-  "2023-11-27": 62707,
-  "2023-11-28": 62763,
-  "2023-11-29": 62832,
-  "2023-11-30": 62832,
-  "2023-12-01": 62874,
-  "2023-12-02": 62921,
-  "2023-12-03": 62965,
-  "2023-12-04": 63003,
-  "2023-12-05": 63031,
-  "2023-12-06": 63068,
-  "2023-12-07": 63101,
-  "2023-12-08": 63150,
-  "2023-12-09": 63202,
-  "2023-12-10": 63239,
-  "2023-12-11": 63281,
-  "2023-12-12": 63281,
-  "2023-12-13": 63371,
-  "2023-12-14": 63435,
-  "2023-12-15": 63460,
-  "2023-12-16": 63501,
-  "2023-12-17": 63543,
-  "2023-12-18": 63591,
-  "2023-12-19": 63632,
-  "2023-12-20": 63681,
-  "2023-12-21": 63723,
-  "2023-12-22": 63769,
-  "2023-12-23": 63819,
-  "2023-12-24": 63880,
-  "2023-12-25": 63925,
-  "2023-12-26": 63967,
-  "2023-12-27": 64003,
-  "2023-12-30": 64184,
-  "2023-12-31": 64239,
-  "2024-01-01": 64283,
-  "2024-01-02": 64326,
-  "2024-01-03": 64359
+  "2024-01-17": 65067,
+  "date_first_scraped": "2023-05-19",
+  "description": "Prominent Indian independent music creators. Cover - Lucky Ali",
+  "name": "Legends of Indie India",
+  "tracks": [
+    {
+      "album": {
+        "name": "Euphoria Gully",
+        "url": "https://open.spotify.com/album/4rffxA0reylzJCU4fAZkIy"
+      },
+      "artists": [
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282480,
+      "name": "Aana Meri Gully",
+      "url": "https://open.spotify.com/track/78VFEHYy9TqY3DDqiISKAM"
+    },
+    {
+      "album": {
+        "name": "Fossils, Vol. 1",
+        "url": "https://open.spotify.com/album/4LK7A9a8z4UFHAL5MNpPdb"
+      },
+      "artists": [
+        {
+          "name": "Rupam Islam",
+          "url": "https://open.spotify.com/artist/1pRruDTNcEFpBPvpFZU76o"
+        },
+        {
+          "name": "Fossils",
+          "url": "https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404245,
+      "name": "Aaro Ekbar",
+      "url": "https://open.spotify.com/track/0OM0yZX9mjzK1FuKraQWvU"
+    },
+    {
+      "album": {
+        "name": "Nights in Shining Karma",
+        "url": "https://open.spotify.com/album/7Hg5bidAjLakmk9T86sNvo"
+      },
+      "artists": [
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "Anuva's Sky",
+      "url": "https://open.spotify.com/track/345H6NEZCjc7XKXaHtBXPd"
+    },
+    {
+      "album": {
+        "name": "Fossils",
+        "url": "https://open.spotify.com/album/5Il3OBfF2vxUbJXnRS4fzj"
+      },
+      "artists": [
+        {
+          "name": "Fossils",
+          "url": "https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 404245,
+      "name": "Aro Ekbar",
+      "url": "https://open.spotify.com/track/1cUq9SX7nQL1u0kKyhT7lX"
+    },
+    {
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/59nxyxeutJIEUdExqFivk5"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468600,
+      "name": "Bandeh",
+      "url": "https://open.spotify.com/track/1i8pdZ3FmoL70ghtsmmoIj"
+    },
+    {
+      "album": {
+        "name": "Rajar Raja",
+        "url": "https://open.spotify.com/album/6UeMitzv4cd2pBCVBTHgDZ"
+      },
+      "artists": [
+        {
+          "name": "Cactus",
+          "url": "https://open.spotify.com/artist/2PWPl2KNcCDDdhqT7vb2sR"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312530,
+      "name": "Bandhu Re",
+      "url": "https://open.spotify.com/track/3VQF1tKmEogJqV2XRKm7Qg"
+    },
+    {
+      "album": {
+        "name": "Tanha Dil...",
+        "url": "https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214066,
+      "name": "Bhool Ja",
+      "url": "https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5"
+    },
+    {
+      "album": {
+        "name": "Boondein",
+        "url": "https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk"
+      },
+      "artists": [
+        {
+          "name": "Silk Route",
+          "url": "https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290249,
+      "name": "Boondein",
+      "url": "https://open.spotify.com/track/2l4w5ctthghnZXpekYyBn4"
+    },
+    {
+      "album": {
+        "name": "Bulla Ki Jaana Mein Kaun",
+        "url": "https://open.spotify.com/album/5IjwmVLj8wcuZjv6MQrtO9"
+      },
+      "artists": [
+        {
+          "name": "Rabbi Shergill",
+          "url": "https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317425,
+      "name": "Bulla Ki Jaana Mein Kaun",
+      "url": "https://open.spotify.com/track/2mDayytAT6lXBYVDWpjhpR"
+    },
+    {
+      "album": {
+        "name": "But It Rained (Extended Version)",
+        "url": "https://open.spotify.com/album/4ONwuqLKxzElW9DQF8GxeB"
+      },
+      "artists": [
+        {
+          "name": "Parikrama",
+          "url": "https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425143,
+      "name": "But It Rained (Extended Version)",
+      "url": "https://open.spotify.com/track/6F0E0Af1cZpNczVczzSTC4"
+    },
+    {
+      "album": {
+        "name": "Channa Vey",
+        "url": "https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ"
+      },
+      "artists": [
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269960,
+      "name": "Channa Vey",
+      "url": "https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck"
+    },
+    {
+      "album": {
+        "name": "Sifar",
+        "url": "https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238066,
+      "name": "Dekha Hai Aise Bhi",
+      "url": "https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei"
+    },
+    {
+      "album": {
+        "name": "Dhoom",
+        "url": "https://open.spotify.com/album/0DaMYIIb9tPU2fpNHwsENo"
+      },
+      "artists": [
+        {
+          "name": "Palash Sen",
+          "url": "https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ"
+        },
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd"
+        },
+        {
+          "name": "Shubha Mudgal",
+          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Dhoom Pichuck (feat. Shubha Mudgal)",
+      "url": "https://open.spotify.com/track/2U6bhVBXGP2iTufLWSaKZR"
+    },
+    {
+      "album": {
+        "name": "Boondein",
+        "url": "https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk"
+      },
+      "artists": [
+        {
+          "name": "Silk Route",
+          "url": "https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303020,
+      "name": "Dooba Dooba",
+      "url": "https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/7j7I0kYfuUvdFuSoGOjnqy"
+      },
+      "artists": [
+        {
+          "name": "Indus Creed",
+          "url": "https://open.spotify.com/artist/29L00LK0aSCpgPBvMs483t"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293333,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2ixrCwnrSfmUruH61rFVPC"
+    },
+    {
+      "album": {
+        "name": "Fish Rock",
+        "url": "https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv"
+      },
+      "artists": [
+        {
+          "name": "Thaikkudam Bridge",
+          "url": "https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259127,
+      "name": "Fish Rock",
+      "url": "https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B"
+    },
+    {
+      "album": {
+        "name": "Mrigya",
+        "url": "https://open.spotify.com/album/2Q3TlImzYYIO54uQ6cwVqf"
+      },
+      "artists": [
+        {
+          "name": "Mrigya",
+          "url": "https://open.spotify.com/artist/0p5FLesLYt17BYby6Vjn43"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527754,
+      "name": "Kabeera",
+      "url": "https://open.spotify.com/track/4U7xldapTfEMmrNnWZd3yD"
+    },
+    {
+      "album": {
+        "name": "Kandisa",
+        "url": "https://open.spotify.com/album/3tybQyeUs76T0c1gFBFLzr"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460533,
+      "name": "Kandisa",
+      "url": "https://open.spotify.com/track/0Dynr2pQ9wrBD05IWGnxBv"
+    },
+    {
+      "album": {
+        "name": "Colonial Cousins",
+        "url": "https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC"
+      },
+      "artists": [
+        {
+          "name": "Colonial Cousins",
+          "url": "https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350146,
+      "name": "Krishna",
+      "url": "https://open.spotify.com/track/6g57S5SIlzmWBru2l6uFjM"
+    },
+    {
+      "album": {
+        "name": "Kya Surat Hai",
+        "url": "https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN"
+      },
+      "artists": [
+        {
+          "name": "Bombay Vikings",
+          "url": "https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233066,
+      "name": "Kya Soorat Hai",
+      "url": "https://open.spotify.com/track/2uGLo0jNB0LNDX5yHkZhFR"
+    },
+    {
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4H0jJJPERIedtxoC1mAvlB"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
+        },
+        {
+          "name": "Jahaziel",
+          "url": "https://open.spotify.com/artist/4mBjh7LoTi9rnCYG9swMjP"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Let's Work It Out",
+      "url": "https://open.spotify.com/track/4BtEy5bRmoYWBgswJe5eeU"
+    },
+    {
+      "album": {
+        "name": "Jag Changa",
+        "url": "https://open.spotify.com/album/6zeb7EfUZzNJ6YJTmeIL0V"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293571,
+      "name": "Lokada Kalaji",
+      "url": "https://open.spotify.com/track/2HHnW1zEozzxU9spZVGO5I"
+    },
+    {
+      "album": {
+        "name": "Phir Dhoom",
+        "url": "https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj"
+      },
+      "artists": [
+        {
+          "name": "Palash Sen",
+          "url": "https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ"
+        },
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332733,
+      "name": "Maaeri",
+      "url": "https://open.spotify.com/track/6Fvdk2eTzxEa9JsUUa1kP2"
+    },
+    {
+      "album": {
+        "name": "Manavyalakinchara (Mist of Capricorn) - Single",
+        "url": "https://open.spotify.com/album/4z3inK6h6bTRQJW2gozjjj"
+      },
+      "artists": [
+        {
+          "name": "Agam",
+          "url": "https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349786,
+      "name": "Manavyalakinchara (Mist of Capricorn)",
+      "url": "https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q"
+    },
+    {
+      "album": {
+        "name": "Manavyalakinchara (Mist of Capricorn) - Single",
+        "url": "https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR"
+      },
+      "artists": [
+        {
+          "name": "Agam",
+          "url": "https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 349786,
+      "name": "Manavyalakinchara (Mist of Capricorn)",
+      "url": "https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94"
+    },
+    {
+      "album": {
+        "name": "Ye Bhi Woh Bhi",
+        "url": "https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG"
+      },
+      "artists": [
+        {
+          "name": "A Band Of Boys",
+          "url": "https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300037,
+      "name": "Meri Neend",
+      "url": "https://open.spotify.com/track/56zSBd38fcPGjawa6TTTri"
+    },
+    {
+      "album": {
+        "name": "The Silent Sea",
+        "url": "https://open.spotify.com/album/3EnuabTWwljjKXRfjyePy3"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366520,
+      "name": "MoFunk",
+      "url": "https://open.spotify.com/track/3UwvtlbJbexgUmBtxVLJCp"
+    },
+    {
+      "album": {
+        "name": "Antaragni - The Fire Within",
+        "url": "https://open.spotify.com/album/7b27ftF01DYfRpwu7mOUBV"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281658,
+      "name": "Mysore Se Ayi",
+      "url": "https://open.spotify.com/track/3oXygAEuFopjsohfGjQfv7"
+    },
+    {
+      "album": {
+        "name": "Sunoh",
+        "url": "https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223027,
+      "name": "O Sanam",
+      "url": "https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ"
+    },
+    {
+      "album": {
+        "name": "Dhuan",
+        "url": "https://open.spotify.com/album/3aM2nInNBIUFZRbzevm0Jp"
+      },
+      "artists": [
+        {
+          "name": "Suneeta Rao",
+          "url": "https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361706,
+      "name": "Paree",
+      "url": "https://open.spotify.com/track/7xlZrgxFI83OCzNYFyO50x"
+    },
+    {
+      "album": {
+        "name": "Phir Dhoom",
+        "url": "https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj"
+      },
+      "artists": [
+        {
+          "name": "Palash Sen",
+          "url": "https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ"
+        },
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303425,
+      "name": "Phir Dhoom (Kaise Bhoolegi Mera Naam)",
+      "url": "https://open.spotify.com/track/3UBehIY2U0LXORmDyOhy4O"
+    },
+    {
+      "album": {
+        "name": "Ali Haider's Best Of The Best Vol- 1",
+        "url": "https://open.spotify.com/album/2Q4YL0QgSL985YNjtFWYkA"
+      },
+      "artists": [
+        {
+          "name": "Ali Haider",
+          "url": "https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304453,
+      "name": "Purani Jeans",
+      "url": "https://open.spotify.com/track/1fuM2tWkr4LC48kiGTerSX"
+    },
+    {
+      "album": {
+        "name": "Pal",
+        "url": "https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359373,
+      "name": "Pyaar Ke Pal",
+      "url": "https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V"
+    },
+    {
+      "album": {
+        "name": "Colonial Cousins",
+        "url": "https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC"
+      },
+      "artists": [
+        {
+          "name": "Colonial Cousins",
+          "url": "https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306053,
+      "name": "Sa Ni Dha Pa",
+      "url": "https://open.spotify.com/track/2sF9kShaPgkYHT2lr2OCy8"
+    },
+    {
+      "album": {
+        "name": "Agnee",
+        "url": "https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9"
+      },
+      "artists": [
+        {
+          "name": "Agnee",
+          "url": "https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251560,
+      "name": "Sadho Re",
+      "url": "https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq"
+    },
+    {
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
+      },
+      "artists": [
+        {
+          "name": "Soulmate",
+          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295346,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
+    },
+    {
+      "album": {
+        "name": "Agnee",
+        "url": "https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9"
+      },
+      "artists": [
+        {
+          "name": "Agnee",
+          "url": "https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299360,
+      "name": "Shaam Tanha",
+      "url": "https://open.spotify.com/track/5V6XcXBrCGI6JOeYr4Uyo3"
+    },
+    {
+      "album": {
+        "name": "Tanha Dil...",
+        "url": "https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291240,
+      "name": "Tanha Dil",
+      "url": "https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh"
+    },
+    {
+      "album": {
+        "name": "Rabbi",
+        "url": "https://open.spotify.com/album/0HUC7qxelpl3IJG5PmDKRb"
+      },
+      "artists": [
+        {
+          "name": "Rabbi Shergill",
+          "url": "https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322701,
+      "name": "Tere Bin",
+      "url": "https://open.spotify.com/track/4ynrGpHy0cTZPRBJrhIHNP"
+    },
+    {
+      "album": {
+        "name": "Rabbi",
+        "url": "https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo"
+      },
+      "artists": [
+        {
+          "name": "Rabbi Shergill",
+          "url": "https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 322701,
+      "name": "Tere Bin",
+      "url": "https://open.spotify.com/track/5frmIBzZKMjU2PlWJJ8Ir3"
+    },
+    {
+      "album": {
+        "name": "Aks",
+        "url": "https://open.spotify.com/album/4GdcSSWz7wOn0ZtOHfmINr"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272840,
+      "name": "Tere Mere Saath",
+      "url": "https://open.spotify.com/track/0ee11PpglgT26oqSiBHZjm"
+    },
+    {
+      "album": {
+        "name": "Kailasa",
+        "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Paresh Kamath",
+          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "name": "Naresh Kamath",
+          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323520,
+      "name": "Teri Deewani",
+      "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
+    },
+    {
+      "album": {
+        "name": "Teri Meri Zindagi",
+        "url": "https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm"
+      },
+      "artists": [
+        {
+          "name": "Leslee Lewis",
+          "url": "https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV"
+        },
+        {
+          "name": "Kavya Jones",
+          "url": "https://open.spotify.com/artist/1lydwiD3rVjbuurDYXpbXi"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Teri Meri Zindagi",
+      "url": "https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX93iJeaL99GF"
 }

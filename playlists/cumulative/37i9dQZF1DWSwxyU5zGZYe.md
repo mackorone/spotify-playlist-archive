@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-129 songs - 7 hr 46 min
+131 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,8 @@
 | [Jeena Jeena](https://open.spotify.com/track/0HEIct25CX0hhLucnhTkUr) | [Eser Inc.](https://open.spotify.com/artist/1xYwO3igKogfuoti47VcRO), [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj), [BazukaBeko](https://open.spotify.com/artist/3K1AAnD5alr3OR8SClyBmc) | [Jeena Jeena](https://open.spotify.com/album/4qBH6thoW5xgNIumimUVvD) | 3:55 | 2023-09-20 | 2023-10-11 |
 | [Jeena Jeena](https://open.spotify.com/track/2LyRMoTIhe3xg6SE2ZlETK) | [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht), [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [Batwohan](https://open.spotify.com/artist/4EQel8V9aw9yZ1pauAS1Wz) | [Jeena Jeena](https://open.spotify.com/album/1odKiWdjJF8jmltreHxrlO) | 3:55 | 2023-10-12 | 2023-11-01 |
 | [Jeena Jeena](https://open.spotify.com/track/4rBNoUUTuIozZyQ1sxodyj) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR) | [Jeena Jeena](https://open.spotify.com/album/4Kxt4A4CMi92tFoYpJnHMi) | 3:55 | 2023-08-03 | 2023-08-15 |
+| [Jeena Jeena](https://open.spotify.com/track/66ezsSqTUU35e0ZSeyZ5CP) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [Jeena Jeena](https://open.spotify.com/album/2kpqCkreyltfHnhXI89RM2) | 3:55 | 2023-12-26 | 2024-01-11 |
+| [Jeena Jeena](https://open.spotify.com/track/6lJOYj4UoqYzTt8GTCOmF9) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [Jeena Jeena](https://open.spotify.com/album/44hUhTdPuGXVlsIOaTXAb5) | 3:55 | 2023-12-26 | 2024-01-13 |
 | [Jeena Jeena](https://open.spotify.com/track/7faCbn9W24gbnPn4HyfyI2) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [Bexter](https://open.spotify.com/artist/2rPNU3ZalATWC8af5XRWOG), [Egemen Kazanır](https://open.spotify.com/artist/2NRUSasq9uE6t1RDdSpdXA) | [Jeena Jeena](https://open.spotify.com/album/2l3GIE7zT92CGRwdx9iQ91) | 3:55 | 2023-10-12 | 2023-11-05 |
 | [Jeena Jeena](https://open.spotify.com/track/3Q3c4z0Q9d7xyhbi0cj88U) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht), [Emre Root](https://open.spotify.com/artist/58gPiY6DihD2M1PH1g8Lpd) | [Jeena Jeena](https://open.spotify.com/album/1BDdxSaEQOpiujC9ELoE1Y) | 3:55 | 2023-10-12 | 2023-11-04 |
 | [Jeena Jeena](https://open.spotify.com/track/6kTavS1DM3ImGAAiIWGLPY) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht), [Emre Root](https://open.spotify.com/artist/58gPiY6DihD2M1PH1g8Lpd) | [Jeena Jeena](https://open.spotify.com/album/21GhtuOB7DbgAWjnMZqgUr) | 3:55 | 2023-10-12 | 2023-10-25 |

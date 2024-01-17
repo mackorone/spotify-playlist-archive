@@ -1,257 +1,1035 @@
 {
-  "2023-04-22": 7,
-  "2023-04-23": 52,
-  "2023-04-24": 100,
-  "2023-04-25": 148,
-  "2023-04-26": 199,
-  "2023-04-27": 246,
-  "2023-04-28": 294,
-  "2023-04-29": 337,
-  "2023-04-30": 398,
-  "2023-05-01": 460,
-  "2023-05-02": 538,
-  "2023-05-03": 639,
-  "2023-05-04": 1679,
-  "2023-05-05": 2539,
-  "2023-05-06": 3083,
-  "2023-05-07": 3139,
-  "2023-05-08": 3213,
-  "2023-05-09": 3260,
-  "2023-05-10": 3314,
-  "2023-05-11": 3365,
-  "2023-05-12": 3421,
-  "2023-05-13": 3460,
-  "2023-05-14": 3526,
-  "2023-05-15": 3622,
-  "2023-05-16": 3708,
-  "2023-05-17": 3764,
-  "2023-05-18": 3831,
-  "2023-05-19": 3884,
-  "2023-05-20": 3979,
-  "2023-05-21": 3979,
-  "2023-05-22": 3979,
-  "2023-05-23": 4130,
-  "2023-05-24": 4227,
-  "2023-05-25": 4247,
-  "2023-05-26": 4308,
-  "2023-05-27": 4365,
-  "2023-05-28": 4441,
-  "2023-05-29": 4441,
-  "2023-05-30": 4632,
-  "2023-05-31": 4704,
-  "2023-06-01": 4782,
-  "2023-06-02": 4845,
-  "2023-06-03": 4921,
-  "2023-06-04": 5012,
-  "2023-06-05": 5184,
-  "2023-06-06": 5347,
-  "2023-06-07": 5461,
-  "2023-06-08": 5551,
-  "2023-06-09": 5631,
-  "2023-06-10": 5704,
-  "2023-06-11": 5794,
-  "2023-06-12": 5856,
-  "2023-06-13": 5903,
-  "2023-06-14": 5933,
-  "2023-06-15": 5993,
-  "2023-06-16": 6045,
-  "2023-06-17": 6094,
-  "2023-06-18": 6157,
-  "2023-06-19": 6217,
-  "2023-06-20": 6261,
-  "2023-06-21": 6304,
-  "2023-06-22": 6355,
-  "2023-06-23": 6406,
-  "2023-06-24": 6447,
-  "2023-06-25": 6504,
-  "2023-06-26": 6536,
-  "2023-06-27": 6572,
-  "2023-06-28": 6618,
-  "2023-06-29": 6660,
-  "2023-06-30": 6699,
-  "2023-07-01": 6787,
-  "2023-07-02": 6787,
-  "2023-07-03": 6831,
-  "2023-07-04": 6879,
-  "2023-07-05": 6918,
-  "2023-07-06": 7047,
-  "2023-07-07": 7047,
-  "2023-07-08": 7094,
-  "2023-07-09": 7150,
-  "2023-07-10": 7201,
-  "2023-07-11": 7238,
-  "2023-07-12": 7270,
-  "2023-07-13": 7314,
-  "2023-07-14": 7346,
-  "2023-07-15": 7383,
-  "2023-07-16": 7431,
-  "2023-07-17": 7474,
-  "2023-07-18": 7503,
-  "2023-07-19": 7552,
-  "2023-07-20": 7577,
-  "2023-07-21": 7608,
-  "2023-07-22": 7634,
-  "2023-07-23": 7660,
-  "2023-07-24": 7686,
-  "2023-07-25": 7719,
-  "2023-07-26": 7748,
-  "2023-07-27": 7768,
-  "2023-07-28": 7800,
-  "2023-07-29": 7830,
-  "2023-07-30": 7855,
-  "2023-07-31": 7886,
-  "2023-08-01": 7911,
-  "2023-08-02": 7935,
-  "2023-08-03": 7968,
-  "2023-08-04": 7986,
-  "2023-08-05": 8012,
-  "2023-08-06": 8073,
-  "2023-08-07": 8073,
-  "2023-08-08": 8100,
-  "2023-08-09": 8119,
-  "2023-08-10": 8150,
-  "2023-08-11": 8194,
-  "2023-08-12": 8229,
-  "2023-08-13": 8252,
-  "2023-08-14": 8279,
-  "2023-08-15": 8327,
-  "2023-08-16": 8327,
-  "2023-08-17": 8355,
-  "2023-08-18": 8382,
-  "2023-08-19": 8401,
-  "2023-08-20": 8429,
-  "2023-08-21": 8450,
-  "2023-08-22": 8463,
-  "2023-08-23": 8479,
-  "2023-08-24": 8505,
-  "2023-08-25": 8524,
-  "2023-08-26": 8557,
-  "2023-08-27": 8580,
-  "2023-08-28": 8612,
-  "2023-08-29": 8639,
-  "2023-08-30": 8665,
-  "2023-08-31": 8693,
-  "2023-09-01": 8732,
-  "2023-09-02": 8732,
-  "2023-09-03": 8755,
-  "2023-09-04": 8781,
-  "2023-09-05": 8791,
-  "2023-09-06": 8805,
-  "2023-09-07": 8826,
-  "2023-09-08": 8857,
-  "2023-09-09": 8882,
-  "2023-09-10": 8902,
-  "2023-09-11": 8915,
-  "2023-09-12": 8934,
-  "2023-09-13": 8954,
-  "2023-09-14": 8978,
-  "2023-09-15": 8995,
-  "2023-09-16": 9001,
-  "2023-09-17": 9025,
-  "2023-09-18": 9043,
-  "2023-09-19": 9075,
-  "2023-09-20": 9095,
-  "2023-09-21": 9106,
-  "2023-09-22": 9123,
-  "2023-09-23": 9142,
-  "2023-09-24": 9168,
-  "2023-09-25": 9194,
-  "2023-09-26": 9220,
-  "2023-09-27": 9226,
-  "2023-09-28": 9239,
-  "2023-09-29": 9252,
-  "2023-09-30": 9265,
-  "2023-10-01": 9284,
-  "2023-10-02": 9298,
-  "2023-10-03": 9305,
-  "2023-10-04": 9321,
-  "2023-10-05": 9344,
-  "2023-10-06": 9359,
-  "2023-10-07": 9380,
-  "2023-10-08": 9400,
-  "2023-10-09": 9417,
-  "2023-10-10": 9443,
-  "2023-10-11": 9473,
-  "2023-10-12": 9473,
-  "2023-10-13": 9481,
-  "2023-10-14": 9500,
-  "2023-10-15": 9520,
-  "2023-10-16": 9533,
-  "2023-10-17": 9555,
-  "2023-10-18": 9567,
-  "2023-10-19": 9586,
-  "2023-10-20": 9595,
-  "2023-10-21": 9608,
-  "2023-10-22": 9618,
-  "2023-10-23": 9635,
-  "2023-10-24": 9643,
-  "2023-10-25": 9665,
-  "2023-10-26": 9674,
-  "2023-10-27": 9682,
-  "2023-10-28": 9698,
-  "2023-10-29": 9718,
-  "2023-10-30": 9741,
-  "2023-10-31": 9741,
-  "2023-11-01": 9755,
-  "2023-11-02": 9766,
-  "2023-11-03": 9769,
-  "2023-11-04": 9778,
-  "2023-11-05": 9790,
-  "2023-11-06": 9806,
-  "2023-11-07": 9816,
-  "2023-11-08": 9830,
-  "2023-11-09": 9837,
-  "2023-11-10": 9850,
-  "2023-11-11": 9864,
-  "2023-11-12": 9869,
-  "2023-11-13": 9878,
-  "2023-11-14": 9887,
-  "2023-11-15": 9887,
-  "2023-11-16": 9921,
-  "2023-11-17": 9935,
-  "2023-11-18": 9935,
-  "2023-11-19": 9942,
-  "2023-11-20": 9946,
-  "2023-11-21": 9955,
-  "2023-11-22": 9967,
-  "2023-11-23": 9980,
-  "2023-11-24": 9981,
-  "2023-11-25": 9996,
-  "2023-11-26": 10005,
-  "2023-11-27": 10014,
-  "2023-11-28": 10019,
-  "2023-11-29": 10040,
-  "2023-11-30": 10040,
-  "2023-12-01": 10037,
-  "2023-12-02": 10036,
-  "2023-12-03": 10038,
-  "2023-12-04": 10043,
-  "2023-12-05": 10048,
-  "2023-12-06": 10046,
-  "2023-12-07": 10041,
-  "2023-12-08": 10044,
-  "2023-12-09": 10042,
-  "2023-12-10": 10051,
-  "2023-12-11": 10056,
-  "2023-12-12": 10062,
-  "2023-12-13": 10063,
-  "2023-12-14": 10066,
-  "2023-12-15": 10069,
-  "2023-12-16": 10071,
-  "2023-12-17": 10073,
-  "2023-12-18": 10075,
-  "2023-12-19": 10075,
-  "2023-12-20": 10080,
-  "2023-12-21": 10077,
-  "2023-12-22": 10081,
-  "2023-12-23": 10082,
-  "2023-12-24": 10082,
-  "2023-12-25": 10084,
-  "2023-12-26": 10082,
-  "2023-12-27": 10086,
-  "2023-12-30": 10091,
-  "2023-12-31": 10095,
-  "2024-01-01": 10095,
-  "2024-01-02": 10102,
-  "2024-01-03": 10107
+  "2024-01-17": 10141,
+  "date_first_scraped": "2023-04-22",
+  "description": "Listen to the soundtracks of the drama Doctor Cha. (\ub4dc\ub77c\ub9c8 \ub2e5\ud130 \ucc28\uc815\uc219\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs  selected by the cast. (\ubc30\uc6b0\ub4e4\uc774  \uc9c1\uc811 \uc120\uc815\ud55c \uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
+  "name": "\ub2e5\ud130 \ucc28\uc815\uc219 (Doctor Cha)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU"
+      },
+      "artists": [
+        {
+          "name": "\uc548\uc2e0\uc560",
+          "url": "https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148586,
+      "name": "A Day For Me",
+      "url": "https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU"
+      },
+      "artists": [
+        {
+          "name": "\uc548\uc2e0\uc560",
+          "url": "https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148586,
+      "name": "A Day For Me - Instrumental",
+      "url": "https://open.spotify.com/track/54GQ7fVI1o5utWKYjeAAeh"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "After this night - Instrumental",
+      "url": "https://open.spotify.com/track/2RR3SMCgcEgt8v7Nz77mxh"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/41qO8KPuWWoGOzQYJ8ObV4"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4UVa6uMDD4ngcd2CXVQZ47"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/41qO8KPuWWoGOzQYJ8ObV4"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "Alone - Instrumental",
+      "url": "https://open.spotify.com/track/7kPeRke6FL6Y08Bsp8RaJG"
+    },
+    {
+      "album": {
+        "name": "Always With You",
+        "url": "https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a"
+      },
+      "artists": [
+        {
+          "name": "Ahn Heesu",
+          "url": "https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Always With You",
+      "url": "https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh"
+    },
+    {
+      "album": {
+        "name": "Under the Surface",
+        "url": "https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191570,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/66zdGutAO6NJmMjH8ejBIq"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/5teS918UxfihkdCYzHIwde"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Young",
+          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206419,
+      "name": "beginning",
+      "url": "https://open.spotify.com/track/2BtlbxJF9yfPNbza29VmoR"
+    },
+    {
+      "album": {
+        "name": "BLACK",
+        "url": "https://open.spotify.com/album/13WypOYwpnsGxffpzukMyB"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256298,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/0wflnphYackCuz8hYaI6sR"
+    },
+    {
+      "album": {
+        "name": "Blues On The Bayou",
+        "url": "https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209840,
+      "name": "Blues Boys Tune",
+      "url": "https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/6XHM5qjDlcJVT1afJZXUId"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "Breath - Instrumental",
+      "url": "https://open.spotify.com/track/18imXhFiJgGNzRuSzkMLe5"
+    },
+    {
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293120,
+      "name": "City Burns",
+      "url": "https://open.spotify.com/track/5hL8VGl2wsLWSXPiTq3Fdk"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha",
+        "url": "https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR"
+      },
+      "artists": [
+        {
+          "name": "Kim Byung Chul",
+          "url": "https://open.spotify.com/artist/0dMGnNOXRsX492vEOFwDFo"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32500,
+      "name": "Curated by Kim Byung Chul",
+      "url": "https://open.spotify.com/track/1f6G6j66YK9yGiDmelwi9b"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha",
+        "url": "https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR"
+      },
+      "artists": [
+        {
+          "name": "Min Woo Hyuk",
+          "url": "https://open.spotify.com/artist/6bxlijVemHgiCTJAQ6RFsI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33250,
+      "name": "Curated by Min Woo Hyuk",
+      "url": "https://open.spotify.com/track/6C1Oq0dmgpHz2ARz3n6dSP"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha",
+        "url": "https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR"
+      },
+      "artists": [
+        {
+          "name": "Myung Se Bin",
+          "url": "https://open.spotify.com/artist/6Sbp3sfwp4EFRGjH6uiisu"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29624,
+      "name": "Curated by Myung Se Bin",
+      "url": "https://open.spotify.com/track/0nAoGCoBRra6tMfJWUPsod"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha",
+        "url": "https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69000,
+      "name": "Curated by Uhm Jung Hwa",
+      "url": "https://open.spotify.com/track/5V6Gemol8wSlRTjeM4Pze3"
+    },
+    {
+      "album": {
+        "name": "Dancing With A Stranger (with Normani)",
+        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+    },
+    {
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282160,
+      "name": "Dani California",
+      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
+    },
+    {
+      "album": {
+        "name": "DON'T TOUCH ME",
+        "url": "https://open.spotify.com/album/6SEAMFqNh1pzaPqLMaAydK"
+      },
+      "artists": [
+        {
+          "name": "REFUND SISTERS",
+          "url": "https://open.spotify.com/artist/28Nk9B0LudPoufVThERUDi"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223226,
+      "name": "DON'T TOUCH ME",
+      "url": "https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC"
+    },
+    {
+      "album": {
+        "name": "The Cloud Dream of the Nine",
+        "url": "https://open.spotify.com/album/7KT1TmlxYsKFoe6IMLlBuk"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201795,
+      "name": "Ending Credit",
+      "url": "https://open.spotify.com/track/7hNy6Lj3Rl3fEwga6l34pC"
+    },
+    {
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267266,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
+    },
+    {
+      "album": {
+        "name": "Exhibition",
+        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
+      },
+      "artists": [
+        {
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313106,
+      "name": "Etude of Memory",
+      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
+    },
+    {
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/525nsPRabUCLac7QGjBiiz"
+      },
+      "artists": [
+        {
+          "name": "Kim Wan-sun",
+          "url": "https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/20nc5Bn27P2EsUFnpHrRSQ"
+    },
+    {
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "album": {
+        "name": "Hop in",
+        "url": "https://open.spotify.com/album/3H7SegvbrluL787hau5gQB"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220986,
+      "name": "Hop in (Feat. Hwa Sa, DPR LIVE)",
+      "url": "https://open.spotify.com/track/0m7EslFE30tsLNmh3gJdiS"
+    },
+    {
+      "album": {
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202204,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
+    },
+    {
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287741,
+      "name": "I say \"I love you\" again",
+      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry Baby (I'm Only Swimming)",
+        "url": "https://open.spotify.com/album/3gjS7c1wEOAqPXRcTbHFUZ"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 259466,
+      "name": "International Love Song",
+      "url": "https://open.spotify.com/track/3CVWdo53SX1WNqENdXXcrR"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry Baby (I'm Only Swimming)",
+        "url": "https://open.spotify.com/album/6CaKnIXQnlLAqU4WOALBM9"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "International Love Song",
+      "url": "https://open.spotify.com/track/3R3cXK6BHZ5JDAgPOAHPQw"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
+    },
+    {
+      "album": {
+        "name": "JUST KOREAN POP",
+        "url": "https://open.spotify.com/album/13s4xolZv7TTUI5JImwMNB"
+      },
+      "artists": [
+        {
+          "name": "Hoochus",
+          "url": "https://open.spotify.com/artist/3bEQ3MsehZrVvM6vNKQTmF"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210561,
+      "name": "JUST KOREAN POP",
+      "url": "https://open.spotify.com/track/28tTv9ZOz2eYWNv2arkzWU"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "album": {
+        "name": "Kingsman - The Secret Service (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TFIk6uv7f4GUsZAm3FWNp"
+      },
+      "artists": [
+        {
+          "name": "Henry Jackman",
+          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
+        },
+        {
+          "name": "Matthew Margeson",
+          "url": "https://open.spotify.com/artist/0XoDro3xyUJ9BEf5FlSECi"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97986,
+      "name": "Manners Maketh Man",
+      "url": "https://open.spotify.com/track/3QMozI3U5p1BDf7LGB6dan"
+    },
+    {
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+    },
+    {
+      "album": {
+        "name": "\uc815\ud6c8\ud76c Best",
+        "url": "https://open.spotify.com/album/18THfrj0GSfeQsF2tSmnG2"
+      },
+      "artists": [
+        {
+          "name": "Jung Hoon Hee",
+          "url": "https://open.spotify.com/artist/2xKCegXMvAaIVgEFEuJdSA"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197293,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/36j9kcESXeGztRjY74oDLl"
+    },
+    {
+      "album": {
+        "name": "Nothing But The Best (2008 Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276253,
+      "name": "My Way - 2008 Remastered",
+      "url": "https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO"
+    },
+    {
+      "album": {
+        "name": "No.1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "No.1",
+      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
+    },
+    {
+      "album": {
+        "name": "PPONG",
+        "url": "https://open.spotify.com/album/6A5LaZtfa7OvC3lDZFg5k4"
+      },
+      "artists": [
+        {
+          "name": "250",
+          "url": "https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277106,
+      "name": "Royal Blue",
+      "url": "https://open.spotify.com/track/7yvSOgDR61vayE6KjtsLWt"
+    },
+    {
+      "album": {
+        "name": "Second",
+        "url": "https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Second (feat. BIBI)",
+      "url": "https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/1UqsxHnWTmlyYgKHFTGWUX"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163213,
+      "name": "Shine Like a Star",
+      "url": "https://open.spotify.com/track/3wd5NszvPwHQs3iMH2GSmB"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/1UqsxHnWTmlyYgKHFTGWUX"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163213,
+      "name": "Shine Like a Star - Instrumental",
+      "url": "https://open.spotify.com/track/2LlAjmC9tzqtB7ni4mtXxh"
+    },
+    {
+      "album": {
+        "name": "No More Encore.",
+        "url": "https://open.spotify.com/album/2utEmutXyshGTAiom7eRBB"
+      },
+      "artists": [
+        {
+          "name": "Broccoli, you too?",
+          "url": "https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422562,
+      "name": "Song Is Universal",
+      "url": "https://open.spotify.com/track/261levqvyy1gnEuMut93Pi"
+    },
+    {
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194706,
+      "name": "Song of Ha Ha Ha",
+      "url": "https://open.spotify.com/track/7JExsx3xFQhEs63fP0V7Xu"
+    },
+    {
+      "album": {
+        "name": "NEW DIRECTION",
+        "url": "https://open.spotify.com/album/1Un7DnzEdn9Q5RrTDGilJ5"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        },
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216813,
+      "name": "Spring Breeze (feat.Naul of Brown Eyed Soul)",
+      "url": "https://open.spotify.com/track/2LD3U3IY43B9wIW7V1DEiO"
+    },
+    {
+      "album": {
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
+    },
+    {
+      "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370866,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
+    },
+    {
+      "album": {
+        "name": "MONKEY HOTEL",
+        "url": "https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi"
+    },
+    {
+      "album": {
+        "name": "Nancy & Lee",
+        "url": "https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        },
+        {
+          "name": "Lee Hazlewood",
+          "url": "https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224278,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/2JKRZGp4LwT9GGbcXtx2sw"
+    },
+    {
+      "album": {
+        "name": "Warm on a Cold Night EP",
+        "url": "https://open.spotify.com/album/2nDZpdEsAU4ULpAaM5PE7d"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261594,
+      "name": "Warm on a Cold Night",
+      "url": "https://open.spotify.com/track/7vKG1DfryZiZiTX2KVFTz8"
+    },
+    {
+      "album": {
+        "name": "Settle (The Remixes)",
+        "url": "https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282812,
+      "name": "You & Me - Flume Remix",
+      "url": "https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb"
+      },
+      "artists": [
+        {
+          "name": "DELISPICE",
+          "url": "https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323531,
+      "name": "\uace0\ubc31",
+      "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWGiOQ5f5blv"
 }

@@ -1,472 +1,963 @@
 {
-  "2022-09-17": 280466,
-  "2022-09-18": 280539,
-  "2022-09-19": 280634,
-  "2022-09-20": 280694,
-  "2022-09-21": 280779,
-  "2022-09-22": 280849,
-  "2022-09-23": 280936,
-  "2022-09-24": 280936,
-  "2022-09-25": 281144,
-  "2022-09-26": 281243,
-  "2022-09-27": 281315,
-  "2022-09-28": 281410,
-  "2022-09-29": 281497,
-  "2022-09-30": 281567,
-  "2022-10-01": 281663,
-  "2022-10-02": 281748,
-  "2022-10-03": 281828,
-  "2022-10-04": 281903,
-  "2022-10-05": 281962,
-  "2022-10-06": 282025,
-  "2022-10-07": 282115,
-  "2022-10-08": 282191,
-  "2022-10-09": 282387,
-  "2022-10-10": 282399,
-  "2022-10-11": 282474,
-  "2022-10-12": 282550,
-  "2022-10-13": 282648,
-  "2022-10-14": 282747,
-  "2022-10-15": 282832,
-  "2022-10-16": 282944,
-  "2022-10-17": 283036,
-  "2022-10-18": 283113,
-  "2022-10-19": 283182,
-  "2022-10-20": 283262,
-  "2022-10-21": 283331,
-  "2022-10-22": 283467,
-  "2022-10-23": 283572,
-  "2022-10-24": 283680,
-  "2022-10-25": 283743,
-  "2022-10-26": 283808,
-  "2022-10-27": 283888,
-  "2022-10-28": 283963,
-  "2022-10-29": 284040,
-  "2022-10-30": 284154,
-  "2022-10-31": 284242,
-  "2022-11-01": 284328,
-  "2022-11-02": 284412,
-  "2022-11-03": 284483,
-  "2022-11-04": 284569,
-  "2022-11-05": 284669,
-  "2022-11-06": 284780,
-  "2022-11-07": 284849,
-  "2022-11-08": 284926,
-  "2022-11-09": 285014,
-  "2022-11-10": 285079,
-  "2022-11-11": 285161,
-  "2022-11-12": 285263,
-  "2022-11-13": 285360,
-  "2022-11-14": 285454,
-  "2022-11-15": 285521,
-  "2022-11-16": 285591,
-  "2022-11-17": 285672,
-  "2022-11-18": 285687,
-  "2022-11-19": 285700,
-  "2022-11-20": 285753,
-  "2022-11-21": 285856,
-  "2022-11-22": 285950,
-  "2022-11-23": 286022,
-  "2022-11-24": 286165,
-  "2022-11-25": 286279,
-  "2022-11-26": 286384,
-  "2022-11-27": 286475,
-  "2022-11-28": 286553,
-  "2022-11-29": 286620,
-  "2022-11-30": 286661,
-  "2022-12-01": 286739,
-  "2022-12-02": 286785,
-  "2022-12-03": 286879,
-  "2022-12-04": 286979,
-  "2022-12-05": 287055,
-  "2022-12-06": 287118,
-  "2022-12-07": 287217,
-  "2022-12-08": 287319,
-  "2022-12-09": 287413,
-  "2022-12-10": 287491,
-  "2022-12-11": 287575,
-  "2022-12-12": 287671,
-  "2022-12-13": 287743,
-  "2022-12-14": 287802,
-  "2022-12-15": 287864,
-  "2022-12-16": 287947,
-  "2022-12-17": 288024,
-  "2022-12-18": 288103,
-  "2022-12-19": 288190,
-  "2022-12-20": 288340,
-  "2022-12-21": 288340,
-  "2022-12-22": 288412,
-  "2022-12-24": 288651,
-  "2022-12-25": 288765,
-  "2022-12-26": 288861,
-  "2022-12-27": 288963,
-  "2022-12-28": 289060,
-  "2022-12-29": 289156,
-  "2022-12-30": 289271,
-  "2022-12-31": 289408,
-  "2023-01-01": 289559,
-  "2023-01-02": 289669,
-  "2023-01-03": 289783,
-  "2023-01-04": 289859,
-  "2023-01-05": 289960,
-  "2023-01-06": 290065,
-  "2023-01-07": 290224,
-  "2023-01-08": 290255,
-  "2023-01-09": 290371,
-  "2023-01-10": 290453,
-  "2023-01-11": 290530,
-  "2023-01-12": 290602,
-  "2023-01-13": 290692,
-  "2023-01-14": 290854,
-  "2023-01-15": 290867,
-  "2023-01-16": 290969,
-  "2023-01-17": 291042,
-  "2023-01-18": 291140,
-  "2023-01-19": 291217,
-  "2023-01-20": 291312,
-  "2023-01-21": 291429,
-  "2023-01-22": 291562,
-  "2023-01-23": 291687,
-  "2023-01-24": 291779,
-  "2023-01-25": 291865,
-  "2023-01-26": 291958,
-  "2023-01-27": 292042,
-  "2023-01-28": 292129,
-  "2023-01-29": 292248,
-  "2023-01-30": 292345,
-  "2023-01-31": 292345,
-  "2023-02-01": 292518,
-  "2023-02-02": 292601,
-  "2023-02-03": 292677,
-  "2023-02-04": 292756,
-  "2023-02-05": 292858,
-  "2023-02-06": 292947,
-  "2023-02-07": 293013,
-  "2023-02-08": 293196,
-  "2023-02-09": 293196,
-  "2023-02-10": 293282,
-  "2023-02-11": 293385,
-  "2023-02-12": 293587,
-  "2023-02-13": 293655,
-  "2023-02-14": 293655,
-  "2023-02-15": 293727,
-  "2023-02-16": 293818,
-  "2023-02-17": 293929,
-  "2023-02-18": 294162,
-  "2023-02-19": 294182,
-  "2023-02-20": 294239,
-  "2023-02-21": 294326,
-  "2023-02-22": 294405,
-  "2023-02-23": 294479,
-  "2023-02-24": 294576,
-  "2023-02-25": 294716,
-  "2023-02-26": 294781,
-  "2023-02-27": 294979,
-  "2023-02-28": 294979,
-  "2023-03-01": 295046,
-  "2023-03-02": 295135,
-  "2023-03-03": 295227,
-  "2023-03-04": 295334,
-  "2023-03-05": 295579,
-  "2023-03-06": 295579,
-  "2023-03-07": 295668,
-  "2023-03-08": 295734,
-  "2023-03-09": 295817,
-  "2023-03-10": 295922,
-  "2023-03-11": 296025,
-  "2023-03-12": 296154,
-  "2023-03-13": 296262,
-  "2023-03-14": 296331,
-  "2023-03-15": 296396,
-  "2023-03-16": 296396,
-  "2023-03-17": 296396,
-  "2023-03-18": 296645,
-  "2023-03-19": 296645,
-  "2023-03-20": 296861,
-  "2023-03-21": 296948,
-  "2023-03-22": 297032,
-  "2023-03-23": 297119,
-  "2023-03-24": 297119,
-  "2023-03-25": 297295,
-  "2023-03-26": 297438,
-  "2023-03-27": 297538,
-  "2023-03-28": 297590,
-  "2023-03-29": 297682,
-  "2023-03-30": 297815,
-  "2023-03-31": 297815,
-  "2023-04-01": 297893,
-  "2023-04-02": 298023,
-  "2023-04-03": 298093,
-  "2023-04-04": 298165,
-  "2023-04-05": 298241,
-  "2023-04-06": 298329,
-  "2023-04-07": 298413,
-  "2023-04-09": 298585,
-  "2023-04-10": 298688,
-  "2023-04-11": 298879,
-  "2023-04-12": 298879,
-  "2023-04-13": 298952,
-  "2023-04-14": 299039,
-  "2023-04-15": 299127,
-  "2023-04-16": 299224,
-  "2023-04-17": 299329,
-  "2023-04-18": 299399,
-  "2023-04-19": 299456,
-  "2023-04-20": 299533,
-  "2023-04-21": 299612,
-  "2023-04-22": 299697,
-  "2023-04-23": 299783,
-  "2023-04-24": 299899,
-  "2023-04-25": 299960,
-  "2023-04-26": 300049,
-  "2023-04-27": 300128,
-  "2023-04-28": 300226,
-  "2023-04-29": 300320,
-  "2023-04-30": 300439,
-  "2023-05-01": 300562,
-  "2023-05-02": 300666,
-  "2023-05-03": 300737,
-  "2023-05-04": 300837,
-  "2023-05-05": 300937,
-  "2023-05-06": 301019,
-  "2023-05-07": 301124,
-  "2023-05-08": 301253,
-  "2023-05-09": 301340,
-  "2023-05-10": 301423,
-  "2023-05-11": 301524,
-  "2023-05-12": 301617,
-  "2023-05-13": 301717,
-  "2023-05-14": 301840,
-  "2023-05-15": 301952,
-  "2023-05-16": 302049,
-  "2023-05-17": 302162,
-  "2023-05-18": 302240,
-  "2023-05-19": 302332,
-  "2023-05-20": 302536,
-  "2023-05-21": 302536,
-  "2023-05-22": 302536,
-  "2023-05-23": 302719,
-  "2023-05-24": 302849,
-  "2023-05-25": 302872,
-  "2023-05-26": 302943,
-  "2023-05-27": 303045,
-  "2023-05-28": 303148,
-  "2023-05-29": 303148,
-  "2023-05-30": 303340,
-  "2023-05-31": 303427,
-  "2023-06-01": 303537,
-  "2023-06-02": 303632,
-  "2023-06-03": 303711,
-  "2023-06-04": 303813,
-  "2023-06-05": 303915,
-  "2023-06-06": 303985,
-  "2023-06-07": 304053,
-  "2023-06-08": 304136,
-  "2023-06-09": 304228,
-  "2023-06-10": 304329,
-  "2023-06-11": 304417,
-  "2023-06-12": 304540,
-  "2023-06-13": 304629,
-  "2023-06-14": 304713,
-  "2023-06-15": 304806,
-  "2023-06-16": 304900,
-  "2023-06-17": 305003,
-  "2023-06-18": 305134,
-  "2023-06-19": 305252,
-  "2023-06-20": 305331,
-  "2023-06-21": 305431,
-  "2023-06-22": 305513,
-  "2023-06-23": 305590,
-  "2023-06-24": 305663,
-  "2023-06-25": 305749,
-  "2023-06-26": 305904,
-  "2023-06-27": 305979,
-  "2023-06-28": 306058,
-  "2023-06-29": 306138,
-  "2023-06-30": 306213,
-  "2023-07-01": 306392,
-  "2023-07-02": 306392,
-  "2023-07-03": 306475,
-  "2023-07-04": 306561,
-  "2023-07-05": 306631,
-  "2023-07-06": 306803,
-  "2023-07-07": 306803,
-  "2023-07-08": 306803,
-  "2023-07-09": 307022,
-  "2023-07-10": 307120,
-  "2023-07-11": 307192,
-  "2023-07-12": 307282,
-  "2023-07-13": 307388,
-  "2023-07-14": 307491,
-  "2023-07-15": 307562,
-  "2023-07-16": 307728,
-  "2023-07-17": 307822,
-  "2023-07-18": 307903,
-  "2023-07-19": 307994,
-  "2023-07-20": 307994,
-  "2023-07-21": 308174,
-  "2023-07-22": 308291,
-  "2023-07-23": 308398,
-  "2023-07-24": 308510,
-  "2023-07-25": 308593,
-  "2023-07-26": 308670,
-  "2023-07-27": 308768,
-  "2023-07-28": 308768,
-  "2023-07-29": 308953,
-  "2023-07-30": 308953,
-  "2023-07-31": 309175,
-  "2023-08-01": 309267,
-  "2023-08-02": 309357,
-  "2023-08-03": 309450,
-  "2023-08-04": 309544,
-  "2023-08-05": 309648,
-  "2023-08-06": 309843,
-  "2023-08-07": 309843,
-  "2023-08-08": 309921,
-  "2023-08-09": 310011,
-  "2023-08-10": 310107,
-  "2023-08-11": 310198,
-  "2023-08-12": 310198,
-  "2023-08-13": 310198,
-  "2023-08-14": 310198,
-  "2023-08-15": 310198,
-  "2023-08-16": 310198,
-  "2023-08-17": 310198,
-  "2023-08-18": 310198,
-  "2023-08-19": 310198,
-  "2023-08-20": 311160,
-  "2023-08-21": 311160,
-  "2023-08-22": 311376,
-  "2023-08-23": 311376,
-  "2023-08-24": 311376,
-  "2023-08-25": 311376,
-  "2023-08-26": 311768,
-  "2023-08-27": 311768,
-  "2023-08-28": 311976,
-  "2023-08-29": 311976,
-  "2023-08-30": 311976,
-  "2023-08-31": 312229,
-  "2023-09-01": 312338,
-  "2023-09-02": 312338,
-  "2023-09-03": 312338,
-  "2023-09-04": 312338,
-  "2023-09-05": 312338,
-  "2023-09-06": 312338,
-  "2023-09-07": 312338,
-  "2023-09-08": 312338,
-  "2023-09-09": 312338,
-  "2023-09-10": 312338,
-  "2023-09-11": 312338,
-  "2023-09-12": 312338,
-  "2023-09-13": 312338,
-  "2023-09-14": 312338,
-  "2023-09-15": 312338,
-  "2023-09-16": 313673,
-  "2023-09-17": 313673,
-  "2023-09-18": 313673,
-  "2023-09-19": 313673,
-  "2023-09-20": 313673,
-  "2023-09-21": 313673,
-  "2023-09-22": 314183,
-  "2023-09-23": 314183,
-  "2023-09-24": 314183,
-  "2023-09-25": 314183,
-  "2023-09-26": 314703,
-  "2023-09-27": 314703,
-  "2023-09-28": 314703,
-  "2023-09-29": 314703,
-  "2023-09-30": 314703,
-  "2023-10-01": 314703,
-  "2023-10-02": 314703,
-  "2023-10-03": 314703,
-  "2023-10-04": 314703,
-  "2023-10-05": 314703,
-  "2023-10-06": 314703,
-  "2023-10-07": 314703,
-  "2023-10-08": 314703,
-  "2023-10-09": 314703,
-  "2023-10-10": 314703,
-  "2023-10-11": 314703,
-  "2023-10-12": 314703,
-  "2023-10-13": 314703,
-  "2023-10-14": 314703,
-  "2023-10-15": 314703,
-  "2023-10-16": 314703,
-  "2023-10-17": 314703,
-  "2023-10-18": 314703,
-  "2023-10-19": 314703,
-  "2023-10-20": 314703,
-  "2023-10-21": 314703,
-  "2023-10-22": 314703,
-  "2023-10-23": 314703,
-  "2023-10-24": 314703,
-  "2023-10-25": 314703,
-  "2023-10-26": 314703,
-  "2023-10-27": 314703,
-  "2023-10-28": 314703,
-  "2023-10-29": 314703,
-  "2023-10-30": 314703,
-  "2023-10-31": 314703,
-  "2023-11-01": 314703,
-  "2023-11-02": 314703,
-  "2023-11-03": 314703,
-  "2023-11-04": 314703,
-  "2023-11-05": 314703,
-  "2023-11-06": 314703,
-  "2023-11-07": 314703,
-  "2023-11-08": 314703,
-  "2023-11-09": 314703,
-  "2023-11-10": 314703,
-  "2023-11-11": 318338,
-  "2023-11-12": 318338,
-  "2023-11-13": 318338,
-  "2023-11-14": 318338,
-  "2023-11-15": 318338,
-  "2023-11-16": 318338,
-  "2023-11-17": 318338,
-  "2023-11-18": 318338,
-  "2023-11-19": 318338,
-  "2023-11-20": 318338,
-  "2023-11-21": 318338,
-  "2023-11-22": 318338,
-  "2023-11-23": 318338,
-  "2023-11-24": 318338,
-  "2023-11-25": 318338,
-  "2023-11-26": 318338,
-  "2023-11-27": 318338,
-  "2023-11-28": 318338,
-  "2023-11-29": 318338,
-  "2023-11-30": 318338,
-  "2023-12-01": 318338,
-  "2023-12-02": 318338,
-  "2023-12-03": 318338,
-  "2023-12-04": 318338,
-  "2023-12-05": 318338,
-  "2023-12-06": 318338,
-  "2023-12-07": 318338,
-  "2023-12-08": 318338,
-  "2023-12-09": 318338,
-  "2023-12-10": 318338,
-  "2023-12-11": 318338,
-  "2023-12-12": 318338,
-  "2023-12-13": 318338,
-  "2023-12-14": 320433,
-  "2023-12-15": 320479,
-  "2023-12-16": 320546,
-  "2023-12-17": 320596,
-  "2023-12-18": 320649,
-  "2023-12-19": 320703,
-  "2023-12-20": 320742,
-  "2023-12-21": 320793,
-  "2023-12-22": 320842,
-  "2023-12-23": 320893,
-  "2023-12-24": 320964,
-  "2023-12-25": 321036,
-  "2023-12-26": 321097,
-  "2023-12-27": 321174,
-  "2023-12-30": 321373,
-  "2023-12-31": 321440,
-  "2024-01-01": 321514,
-  "2024-01-02": 321581,
-  "2024-01-03": 321622
+  "2024-01-17": 322145,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
+  "name": "This Is Simon & Garfunkel",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 289160,
+      "name": "50 Ways to Leave Your Lover - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/5R7BOhW46EhAb8B7dnRciJ"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 137480,
+      "name": "A Hazy Shade of Winter",
+      "url": "https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp"
+    },
+    {
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181226,
+      "name": "A Heart In New York - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/6IyU2LIPfopCfbWewM2UdO"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150560,
+      "name": "A Most Peculiar Man",
+      "url": "https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9"
+    },
+    {
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 114626,
+      "name": "A Poem on the Underground Wall",
+      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
+    },
+    {
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275240,
+      "name": "American Tune - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/6xoFYGW7KJsF4SfTz8nxOk"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133720,
+      "name": "Anji",
+      "url": "https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109386,
+      "name": "April Come She Will",
+      "url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142293,
+      "name": "At the Zoo",
+      "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Baby Driver",
+      "url": "https://open.spotify.com/track/5Bh8l8evdBSIoaK6EP1bWI"
+    },
+    {
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "Bleecker Street",
+      "url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 193520,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/1NsReekFMb5e2wVcOQGoAL"
+    },
+    {
+      "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Blues Run the Game - Studio Outtake - 1965",
+      "url": "https://open.spotify.com/track/6tMRhn8hTFJm2A87tmjJPr"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80173,
+      "name": "Bookends Theme - Reprise",
+      "url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293120,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "album": {
+        "name": "Old Friends Live On Stage",
+        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "Citizen of the Planet",
+      "url": "https://open.spotify.com/track/1ir7Or967weO0kwfatM7W5"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "El Condor Pasa (If I Could)",
+      "url": "https://open.spotify.com/track/1eN42Q7IWRzRBq8eW2Y2TE"
+    },
+    {
+      "album": {
+        "name": "Old Friends Live On Stage",
+        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 102040,
+      "name": "Everly Brothers Intro - Live at Madison Square Garden, New York, NY - December 2003",
+      "url": "https://open.spotify.com/track/0E944iJ7SpGyrpW5yjy9gk"
+    },
+    {
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131746,
+      "name": "Flowers Never Bend with the Rainfall",
+      "url": "https://open.spotify.com/track/0qSITuCPLxjoDtESBy70WO"
+    },
+    {
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125413,
+      "name": "For Emily, Whenever I May Find Her",
+      "url": "https://open.spotify.com/track/76Fcbx3T7fUgA7phUkmsn7"
+    },
+    {
+      "album": {
+        "name": "Live 1969",
+        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 157093,
+      "name": "For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969",
+      "url": "https://open.spotify.com/track/2P6F1jmMgSScpvx4aZvbmY"
+    },
+    {
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 167813,
+      "name": "He Was My Brother",
+      "url": "https://open.spotify.com/track/5K1aYLWFU4FZlqldlYX8Yg"
+    },
+    {
+      "album": {
+        "name": "Old Friends Live On Stage",
+        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45280,
+      "name": "Hey, Schoolgirl - Live at Madison Square Garden, New York, NY - December 2003",
+      "url": "https://open.spotify.com/track/0gLKbk1cOAy2bbBOsbPALz"
+    },
+    {
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169520,
+      "name": "I Am a Rock",
+      "url": "https://open.spotify.com/track/0byOqNZN9ailhoORv5Ps0Z"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197773,
+      "name": "Kathy's Song",
+      "url": "https://open.spotify.com/track/4Acofe9hICRvyBTP5hFNk0"
+    },
+    {
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349613,
+      "name": "Kodachrome / Mabellene - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/1f4CJp5p2OWS0dsyK1symi"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141493,
+      "name": "Leaves That Are Green",
+      "url": "https://open.spotify.com/track/1DrirX7vAJMDAoz37ZbSeA"
+    },
+    {
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227693,
+      "name": "Me and Julio Down by the Schoolyard - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/48mETFQ8n1Cq04eR32eyAn"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+    },
+    {
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231946,
+      "name": "My Little Town",
+      "url": "https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155373,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul"
+    },
+    {
+      "album": {
+        "name": "Live 1969",
+        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Old Friends / Bookends Theme - Live in Toledo, OH - November 1969",
+      "url": "https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132613,
+      "name": "Punky's Dilemma",
+      "url": "https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 168600,
+      "name": "Save the Life of My Child",
+      "url": "https://open.spotify.com/track/12LiUnumZMkhKJxhiivVXW"
+    },
+    {
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190346,
+      "name": "Scarborough Fair / Canticle",
+      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
+    },
+    {
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282706,
+      "name": "Slip Slidin' Away - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF"
+    },
+    {
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "Sparrow",
+      "url": "https://open.spotify.com/track/7pz0HomuJsxkbrNQUHNYBE"
+    },
+    {
+      "album": {
+        "name": "Live 1969",
+        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "That Silver-Haired Daddy of Mine - Live at Long Beach Arena, Long Beach, CA - November 1969",
+      "url": "https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw"
+    },
+    {
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103560,
+      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "url": "https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308520,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
+    },
+    {
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158773,
+      "name": "The Dangling Conversation",
+      "url": "https://open.spotify.com/track/1tQy2AqgFc0AdddmIboIfX"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "The Sun Is Burning",
+      "url": "https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X"
+    },
+    {
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq"
+    },
+    {
+      "album": {
+        "name": "Old Friends Live On Stage",
+        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134213,
+      "name": "Tom and Jerry Story - Live at Madison Square Garden, New York, NY - December 2003",
+      "url": "https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS"
+    },
+    {
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138386,
+      "name": "Wake up Little Susie - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT"
+    },
+    {
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "Wednesday Morning, 3 A.M.",
+      "url": "https://open.spotify.com/track/6XlcraQqLY6wGnXpoVeoko"
+    },
+    {
+      "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "You Don't Know Where Your Interest Lies - Single B-Side - 1968",
+      "url": "https://open.spotify.com/track/0umD849rktmP7fcXCSukYk"
+    },
+    {
+      "album": {
+        "name": "\u30d9\u30b9\u30c8\u30fb\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 vol.3",
+        "url": "https://open.spotify.com/album/29IDW0VGSjNn4OTNKvSiZx"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 140826,
+      "name": "\u51ac\u306e\u6563\u6b69\u9053",
+      "url": "https://open.spotify.com/track/2wzNy58nAwmBvqMsiCcvdb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO48MYmY"
 }

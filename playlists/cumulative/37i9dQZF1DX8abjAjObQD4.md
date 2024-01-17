@@ -4,7 +4,7 @@
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-70 songs - 5 hr 9 min
+71 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Where Do the Children Play \(Live from the United States, 1976\)](https://open.spotify.com/track/1SH335ij0bvPl9MyjmKHnp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Majikat Earth Tour 1976 \(Live\)](https://open.spotify.com/album/6xXQLYVCQEEoNaHji8hgWa) | 3:20 | 2023-11-17 |  |
 | [Where Do The Children Play \- Live From the United States, 1976](https://open.spotify.com/track/5Bzwra6Zc1N8OUTodLTKjh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Majikat Earth Tour 1976 \(Live\)](https://open.spotify.com/album/68NajVn09hqWjSQwqcsQvo) | 3:20 | 2023-08-11 | 2023-11-18 |
 | [Where Is My Mind? \(Live\)](https://open.spotify.com/track/3lBzK00y8cKvFA1oDOcw0E) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Live at First Avenue](https://open.spotify.com/album/6YUPlYsj897dujBQfPeafC) | 3:31 | 2023-08-11 |  |
+| [Wildfire \- Live](https://open.spotify.com/track/0PVTCqBYECg1iqxOwYLP2I) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Austin City Limits Live At The Moody Theater](https://open.spotify.com/album/2mVo8SPzDL8AySVg7ikOL4) | 6:41 | 2024-01-12 |  |
 | [You Should've Seen The Other Guy \- Live](https://open.spotify.com/track/157T7vmMkcDmNk0dUWFhpu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Live At Red Rocks](https://open.spotify.com/album/5rGOviwofECt9K6BOkpBrR) | 3:46 | 2023-08-11 |  |
 
 \*This playlist was first scraped on 2023-08-12. Prior content cannot be recovered.

@@ -1,735 +1,2633 @@
 {
-  "2021-12-25": 39,
-  "2021-12-26": 39,
-  "2021-12-27": 39,
-  "2021-12-28": 39,
-  "2021-12-29": 39,
-  "2021-12-30": 39,
-  "2021-12-31": 39,
-  "2022-01-01": 39,
-  "2022-01-02": 39,
-  "2022-01-03": 39,
-  "2022-01-04": 39,
-  "2022-01-05": 39,
-  "2022-01-06": 39,
-  "2022-01-07": 39,
-  "2022-01-08": 39,
-  "2022-01-09": 39,
-  "2022-01-10": 39,
-  "2022-01-11": 39,
-  "2022-01-12": 39,
-  "2022-01-13": 39,
-  "2022-01-14": 39,
-  "2022-01-15": 39,
-  "2022-01-16": 39,
-  "2022-01-17": 39,
-  "2022-01-18": 39,
-  "2022-01-19": 39,
-  "2022-01-20": 39,
-  "2022-01-21": 39,
-  "2022-01-22": 39,
-  "2022-01-23": 39,
-  "2022-01-24": 39,
-  "2022-01-25": 39,
-  "2022-01-26": 39,
-  "2022-01-27": 39,
-  "2022-01-28": 39,
-  "2022-01-29": 39,
-  "2022-01-30": 39,
-  "2022-01-31": 39,
-  "2022-02-01": 39,
-  "2022-02-02": 39,
-  "2022-02-03": 39,
-  "2022-02-04": 39,
-  "2022-02-05": 39,
-  "2022-02-06": 39,
-  "2022-02-07": 39,
-  "2022-02-08": 39,
-  "2022-02-09": 39,
-  "2022-02-10": 39,
-  "2022-02-11": 39,
-  "2022-02-12": 39,
-  "2022-02-13": 39,
-  "2022-02-14": 39,
-  "2022-02-15": 39,
-  "2022-02-16": 39,
-  "2022-02-17": 39,
-  "2022-02-18": 39,
-  "2022-02-19": 39,
-  "2022-02-20": 39,
-  "2022-02-21": 39,
-  "2022-02-22": 39,
-  "2022-02-23": 39,
-  "2022-02-24": 39,
-  "2022-02-25": 39,
-  "2022-02-26": 39,
-  "2022-02-27": 39,
-  "2022-02-28": 39,
-  "2022-03-01": 39,
-  "2022-03-02": 39,
-  "2022-03-03": 39,
-  "2022-03-04": 39,
-  "2022-03-05": 39,
-  "2022-03-06": 39,
-  "2022-03-07": 39,
-  "2022-03-08": 39,
-  "2022-03-09": 39,
-  "2022-03-10": 39,
-  "2022-03-11": 39,
-  "2022-03-12": 39,
-  "2022-03-13": 39,
-  "2022-03-14": 39,
-  "2022-03-15": 39,
-  "2022-03-16": 39,
-  "2022-03-17": 39,
-  "2022-03-18": 39,
-  "2022-03-19": 39,
-  "2022-03-20": 39,
-  "2022-03-21": 39,
-  "2022-03-22": 39,
-  "2022-03-23": 39,
-  "2022-03-24": 39,
-  "2022-03-25": 39,
-  "2022-03-26": 39,
-  "2022-03-27": 39,
-  "2022-03-28": 39,
-  "2022-03-30": 39,
-  "2022-03-31": 39,
-  "2022-04-01": 39,
-  "2022-04-02": 39,
-  "2022-04-03": 39,
-  "2022-04-04": 39,
-  "2022-04-05": 39,
-  "2022-04-06": 39,
-  "2022-04-07": 39,
-  "2022-04-08": 39,
-  "2022-04-09": 39,
-  "2022-04-10": 39,
-  "2022-04-11": 39,
-  "2022-04-12": 39,
-  "2022-04-13": 39,
-  "2022-04-14": 39,
-  "2022-04-15": 39,
-  "2022-04-16": 39,
-  "2022-04-17": 39,
-  "2022-04-18": 39,
-  "2022-04-19": 39,
-  "2022-04-20": 39,
-  "2022-04-21": 39,
-  "2022-04-22": 39,
-  "2022-04-23": 39,
-  "2022-04-24": 39,
-  "2022-04-25": 39,
-  "2022-04-26": 39,
-  "2022-04-27": 39,
-  "2022-04-28": 39,
-  "2022-04-29": 39,
-  "2022-04-30": 39,
-  "2022-05-01": 39,
-  "2022-05-02": 39,
-  "2022-05-03": 39,
-  "2022-05-04": 39,
-  "2022-05-05": 39,
-  "2022-05-06": 39,
-  "2022-05-07": 39,
-  "2022-05-08": 39,
-  "2022-05-09": 39,
-  "2022-05-10": 39,
-  "2022-05-11": 39,
-  "2022-05-12": 39,
-  "2022-05-13": 39,
-  "2022-05-14": 39,
-  "2022-05-15": 39,
-  "2022-05-16": 39,
-  "2022-05-17": 39,
-  "2022-05-18": 39,
-  "2022-05-19": 39,
-  "2022-05-20": 39,
-  "2022-05-21": 39,
-  "2022-05-22": 39,
-  "2022-05-23": 39,
-  "2022-05-24": 39,
-  "2022-05-25": 39,
-  "2022-05-26": 39,
-  "2022-05-27": 39,
-  "2022-05-28": 39,
-  "2022-05-29": 39,
-  "2022-05-30": 39,
-  "2022-05-31": 39,
-  "2022-06-01": 39,
-  "2022-06-02": 39,
-  "2022-06-03": 39,
-  "2022-06-04": 39,
-  "2022-06-05": 39,
-  "2022-06-06": 39,
-  "2022-06-07": 39,
-  "2022-06-08": 39,
-  "2022-06-09": 39,
-  "2022-06-10": 39,
-  "2022-06-11": 39,
-  "2022-06-12": 39,
-  "2022-06-13": 39,
-  "2022-06-14": 39,
-  "2022-06-15": 39,
-  "2022-06-16": 39,
-  "2022-06-17": 39,
-  "2022-06-18": 39,
-  "2022-06-19": 39,
-  "2022-06-20": 39,
-  "2022-06-21": 39,
-  "2022-06-22": 39,
-  "2022-06-23": 39,
-  "2022-06-24": 39,
-  "2022-06-25": 39,
-  "2022-06-26": 39,
-  "2022-06-27": 39,
-  "2022-06-28": 39,
-  "2022-06-29": 39,
-  "2022-06-30": 39,
-  "2022-07-01": 39,
-  "2022-07-02": 39,
-  "2022-07-03": 39,
-  "2022-07-04": 39,
-  "2022-07-05": 39,
-  "2022-07-06": 39,
-  "2022-07-07": 39,
-  "2022-07-08": 39,
-  "2022-07-09": 39,
-  "2022-07-10": 39,
-  "2022-07-11": 39,
-  "2022-07-12": 39,
-  "2022-07-13": 39,
-  "2022-07-14": 39,
-  "2022-07-15": 39,
-  "2022-07-16": 39,
-  "2022-07-17": 39,
-  "2022-07-18": 39,
-  "2022-07-19": 39,
-  "2022-07-20": 40,
-  "2022-07-21": 39,
-  "2022-07-22": 39,
-  "2022-07-23": 39,
-  "2022-07-24": 39,
-  "2022-07-25": 39,
-  "2022-07-26": 39,
-  "2022-07-27": 39,
-  "2022-07-28": 39,
-  "2022-07-29": 39,
-  "2022-07-30": 39,
-  "2022-07-31": 39,
-  "2022-08-01": 39,
-  "2022-08-02": 39,
-  "2022-08-03": 39,
-  "2022-08-04": 39,
-  "2022-08-05": 39,
-  "2022-08-06": 39,
-  "2022-08-07": 39,
-  "2022-08-08": 39,
-  "2022-08-09": 38,
-  "2022-08-10": 38,
-  "2022-08-11": 38,
-  "2022-08-12": 38,
-  "2022-08-13": 38,
-  "2022-08-14": 38,
-  "2022-08-15": 38,
-  "2022-08-16": 38,
-  "2022-08-17": 38,
-  "2022-08-18": 38,
-  "2022-08-19": 38,
-  "2022-08-20": 38,
-  "2022-08-21": 38,
-  "2022-08-22": 38,
-  "2022-08-23": 38,
-  "2022-08-24": 38,
-  "2022-08-25": 38,
-  "2022-08-26": 38,
-  "2022-08-27": 38,
-  "2022-08-28": 38,
-  "2022-08-29": 38,
-  "2022-08-30": 38,
-  "2022-08-31": 38,
-  "2022-09-01": 38,
-  "2022-09-02": 38,
-  "2022-09-03": 38,
-  "2022-09-04": 38,
-  "2022-09-05": 38,
-  "2022-09-06": 38,
-  "2022-09-07": 38,
-  "2022-09-09": 38,
-  "2022-09-10": 38,
-  "2022-09-11": 38,
-  "2022-09-12": 38,
-  "2022-09-13": 38,
-  "2022-09-15": 38,
-  "2022-09-16": 38,
-  "2022-09-17": 38,
-  "2022-09-18": 38,
-  "2022-09-19": 38,
-  "2022-09-20": 38,
-  "2022-09-21": 38,
-  "2022-09-22": 38,
-  "2022-09-23": 38,
-  "2022-09-24": 38,
-  "2022-09-25": 38,
-  "2022-09-26": 38,
-  "2022-09-27": 38,
-  "2022-09-28": 38,
-  "2022-09-29": 38,
-  "2022-09-30": 38,
-  "2022-10-01": 38,
-  "2022-10-02": 38,
-  "2022-10-03": 38,
-  "2022-10-04": 38,
-  "2022-10-05": 38,
-  "2022-10-06": 38,
-  "2022-10-07": 38,
-  "2022-10-08": 38,
-  "2022-10-09": 38,
-  "2022-10-10": 38,
-  "2022-10-11": 38,
-  "2022-10-12": 38,
-  "2022-10-13": 38,
-  "2022-10-14": 38,
-  "2022-10-15": 38,
-  "2022-10-16": 38,
-  "2022-10-17": 38,
-  "2022-10-18": 38,
-  "2022-10-19": 38,
-  "2022-10-20": 38,
-  "2022-10-21": 38,
-  "2022-10-22": 38,
-  "2022-10-23": 38,
-  "2022-10-24": 38,
-  "2022-10-25": 38,
-  "2022-10-26": 38,
-  "2022-10-27": 38,
-  "2022-10-28": 38,
-  "2022-10-29": 38,
-  "2022-10-30": 38,
-  "2022-10-31": 38,
-  "2022-11-01": 38,
-  "2022-11-02": 38,
-  "2022-11-03": 38,
-  "2022-11-04": 38,
-  "2022-11-05": 38,
-  "2022-11-06": 38,
-  "2022-11-07": 38,
-  "2022-11-08": 38,
-  "2022-11-09": 39,
-  "2022-11-10": 44,
-  "2022-11-11": 45,
-  "2022-11-12": 45,
-  "2022-11-13": 45,
-  "2022-11-14": 45,
-  "2022-11-15": 45,
-  "2022-11-16": 45,
-  "2022-11-17": 45,
-  "2022-11-18": 45,
-  "2022-11-19": 45,
-  "2022-11-20": 40,
-  "2022-11-21": 40,
-  "2022-11-22": 39,
-  "2022-11-23": 39,
-  "2022-11-24": 39,
-  "2022-11-25": 39,
-  "2022-11-26": 39,
-  "2022-11-27": 39,
-  "2022-11-28": 39,
-  "2022-11-29": 39,
-  "2022-11-30": 39,
-  "2022-12-01": 39,
-  "2022-12-02": 39,
-  "2022-12-03": 39,
-  "2022-12-04": 39,
-  "2022-12-05": 39,
-  "2022-12-06": 39,
-  "2022-12-07": 39,
-  "2022-12-08": 39,
-  "2022-12-09": 39,
-  "2022-12-10": 39,
-  "2022-12-11": 39,
-  "2022-12-12": 39,
-  "2022-12-13": 39,
-  "2022-12-14": 39,
-  "2022-12-15": 39,
-  "2022-12-16": 39,
-  "2022-12-17": 39,
-  "2022-12-18": 39,
-  "2022-12-19": 39,
-  "2022-12-20": 39,
-  "2022-12-21": 39,
-  "2022-12-22": 39,
-  "2022-12-24": 39,
-  "2022-12-25": 39,
-  "2022-12-26": 39,
-  "2022-12-27": 39,
-  "2022-12-28": 39,
-  "2022-12-29": 39,
-  "2022-12-30": 39,
-  "2022-12-31": 39,
-  "2023-01-01": 39,
-  "2023-01-02": 39,
-  "2023-01-03": 39,
-  "2023-01-04": 39,
-  "2023-01-05": 39,
-  "2023-01-06": 39,
-  "2023-01-07": 39,
-  "2023-01-08": 39,
-  "2023-01-09": 39,
-  "2023-01-10": 39,
-  "2023-01-11": 39,
-  "2023-01-12": 39,
-  "2023-01-13": 39,
-  "2023-01-14": 39,
-  "2023-01-15": 39,
-  "2023-01-16": 39,
-  "2023-01-17": 39,
-  "2023-01-18": 39,
-  "2023-01-19": 39,
-  "2023-01-20": 39,
-  "2023-01-21": 39,
-  "2023-01-22": 39,
-  "2023-01-23": 39,
-  "2023-01-24": 39,
-  "2023-01-25": 39,
-  "2023-01-26": 39,
-  "2023-01-27": 39,
-  "2023-01-28": 39,
-  "2023-01-29": 39,
-  "2023-01-30": 39,
-  "2023-01-31": 39,
-  "2023-02-01": 39,
-  "2023-02-02": 39,
-  "2023-02-03": 39,
-  "2023-02-04": 39,
-  "2023-02-05": 39,
-  "2023-02-06": 38,
-  "2023-02-07": 38,
-  "2023-02-08": 38,
-  "2023-02-09": 38,
-  "2023-02-10": 38,
-  "2023-02-11": 38,
-  "2023-02-12": 38,
-  "2023-02-13": 38,
-  "2023-02-14": 38,
-  "2023-02-15": 38,
-  "2023-02-16": 38,
-  "2023-02-17": 38,
-  "2023-02-18": 38,
-  "2023-02-19": 38,
-  "2023-02-20": 38,
-  "2023-02-21": 38,
-  "2023-02-22": 38,
-  "2023-02-23": 38,
-  "2023-02-24": 38,
-  "2023-02-25": 38,
-  "2023-02-26": 38,
-  "2023-02-27": 38,
-  "2023-02-28": 38,
-  "2023-03-01": 38,
-  "2023-03-02": 38,
-  "2023-03-03": 38,
-  "2023-03-04": 38,
-  "2023-03-05": 38,
-  "2023-03-06": 38,
-  "2023-03-07": 38,
-  "2023-03-08": 38,
-  "2023-03-09": 38,
-  "2023-03-10": 38,
-  "2023-03-11": 38,
-  "2023-03-12": 38,
-  "2023-03-13": 38,
-  "2023-03-14": 38,
-  "2023-03-15": 38,
-  "2023-03-16": 38,
-  "2023-03-17": 38,
-  "2023-03-18": 38,
-  "2023-03-19": 38,
-  "2023-03-20": 38,
-  "2023-03-21": 38,
-  "2023-03-22": 38,
-  "2023-03-23": 38,
-  "2023-03-24": 38,
-  "2023-03-25": 38,
-  "2023-03-26": 38,
-  "2023-03-27": 38,
-  "2023-03-28": 38,
-  "2023-03-29": 38,
-  "2023-03-30": 38,
-  "2023-03-31": 38,
-  "2023-04-01": 38,
-  "2023-04-02": 38,
-  "2023-04-03": 38,
-  "2023-04-04": 38,
-  "2023-04-05": 38,
-  "2023-04-06": 38,
-  "2023-04-07": 38,
-  "2023-04-09": 38,
-  "2023-04-10": 38,
-  "2023-04-11": 38,
-  "2023-04-12": 38,
-  "2023-04-13": 38,
-  "2023-04-14": 38,
-  "2023-04-15": 38,
-  "2023-04-16": 38,
-  "2023-04-17": 38,
-  "2023-04-18": 38,
-  "2023-04-19": 38,
-  "2023-04-20": 38,
-  "2023-04-21": 38,
-  "2023-04-22": 38,
-  "2023-04-23": 38,
-  "2023-04-24": 38,
-  "2023-04-25": 38,
-  "2023-04-26": 38,
-  "2023-04-27": 38,
-  "2023-04-28": 38,
-  "2023-04-29": 38,
-  "2023-04-30": 38,
-  "2023-05-01": 38,
-  "2023-05-02": 38,
-  "2023-05-03": 38,
-  "2023-05-04": 38,
-  "2023-05-05": 38,
-  "2023-05-06": 38,
-  "2023-05-07": 38,
-  "2023-05-08": 38,
-  "2023-05-09": 38,
-  "2023-05-10": 38,
-  "2023-05-11": 38,
-  "2023-05-12": 38,
-  "2023-05-13": 38,
-  "2023-05-14": 38,
-  "2023-05-15": 38,
-  "2023-05-16": 38,
-  "2023-05-17": 38,
-  "2023-05-18": 38,
-  "2023-05-19": 38,
-  "2023-05-20": 38,
-  "2023-05-21": 38,
-  "2023-05-22": 38,
-  "2023-05-23": 38,
-  "2023-05-24": 38,
-  "2023-05-25": 38,
-  "2023-05-26": 38,
-  "2023-05-27": 38,
-  "2023-05-28": 38,
-  "2023-05-29": 38,
-  "2023-05-30": 38,
-  "2023-05-31": 38,
-  "2023-06-01": 38,
-  "2023-06-02": 38,
-  "2023-06-03": 38,
-  "2023-06-04": 38,
-  "2023-06-05": 38,
-  "2023-06-06": 38,
-  "2023-06-07": 38,
-  "2023-06-08": 38,
-  "2023-06-09": 38,
-  "2023-06-10": 38,
-  "2023-06-11": 38,
-  "2023-06-12": 38,
-  "2023-06-13": 38,
-  "2023-06-14": 38,
-  "2023-06-15": 38,
-  "2023-06-16": 38,
-  "2023-06-17": 38,
-  "2023-06-18": 38,
-  "2023-06-19": 38,
-  "2023-06-20": 38,
-  "2023-06-21": 38,
-  "2023-06-22": 38,
-  "2023-06-23": 38,
-  "2023-06-24": 38,
-  "2023-06-25": 38,
-  "2023-06-26": 38,
-  "2023-06-27": 39,
-  "2023-06-28": 39,
-  "2023-06-29": 39,
-  "2023-06-30": 39,
-  "2023-07-01": 39,
-  "2023-07-02": 39,
-  "2023-07-03": 39,
-  "2023-07-04": 39,
-  "2023-07-05": 39,
-  "2023-07-06": 39,
-  "2023-07-07": 39,
-  "2023-07-08": 39,
-  "2023-07-09": 38,
-  "2023-07-10": 38,
-  "2023-07-11": 38,
-  "2023-07-12": 38,
-  "2023-07-13": 38,
-  "2023-07-14": 38,
-  "2023-07-15": 38,
-  "2023-07-16": 38,
-  "2023-07-17": 38,
-  "2023-07-18": 38,
-  "2023-07-19": 38,
-  "2023-07-20": 38,
-  "2023-07-21": 38,
-  "2023-07-22": 38,
-  "2023-07-23": 38,
-  "2023-07-24": 38,
-  "2023-07-25": 38,
-  "2023-07-26": 38,
-  "2023-07-27": 38,
-  "2023-07-28": 38,
-  "2023-07-29": 38,
-  "2023-07-30": 38,
-  "2023-07-31": 38,
-  "2023-08-01": 38,
-  "2023-08-02": 38,
-  "2023-08-03": 38,
-  "2023-08-04": 38,
-  "2023-08-05": 38,
-  "2023-08-06": 38,
-  "2023-08-07": 38,
-  "2023-08-08": 38,
-  "2023-08-09": 38,
-  "2023-08-10": 38,
-  "2023-08-11": 38,
-  "2023-08-12": 38,
-  "2023-08-13": 38,
-  "2023-08-14": 38,
-  "2023-08-15": 38,
-  "2023-08-16": 38,
-  "2023-08-17": 38,
-  "2023-08-18": 38,
-  "2023-08-19": 38,
-  "2023-08-20": 38,
-  "2023-08-21": 38,
-  "2023-08-22": 38,
-  "2023-08-23": 38,
-  "2023-08-24": 38,
-  "2023-08-25": 38,
-  "2023-08-26": 38,
-  "2023-08-27": 38,
-  "2023-08-28": 38,
-  "2023-08-29": 38,
-  "2023-08-30": 38,
-  "2023-08-31": 38,
-  "2023-09-01": 38,
-  "2023-09-02": 38,
-  "2023-09-03": 38,
-  "2023-09-04": 38,
-  "2023-09-05": 38,
-  "2023-09-06": 38,
-  "2023-09-07": 38,
-  "2023-09-08": 38,
-  "2023-09-09": 38,
-  "2023-09-10": 38,
-  "2023-09-11": 38,
-  "2023-09-12": 38,
-  "2023-09-13": 38,
-  "2023-09-14": 38,
-  "2023-09-15": 38,
-  "2023-09-16": 38,
-  "2023-09-17": 38,
-  "2023-09-18": 38,
-  "2023-09-19": 38,
-  "2023-09-20": 38,
-  "2023-09-21": 38,
-  "2023-09-22": 38,
-  "2023-09-23": 38,
-  "2023-09-24": 38,
-  "2023-09-25": 38,
-  "2023-09-26": 38,
-  "2023-09-27": 38,
-  "2023-09-28": 38,
-  "2023-09-29": 38,
-  "2023-09-30": 38,
-  "2023-10-01": 38,
-  "2023-10-02": 38,
-  "2023-10-03": 38,
-  "2023-10-04": 38,
-  "2023-10-05": 38,
-  "2023-10-06": 38,
-  "2023-10-07": 38,
-  "2023-10-08": 38,
-  "2023-10-09": 38,
-  "2023-10-10": 38,
-  "2023-10-11": 38,
-  "2023-10-12": 38,
-  "2023-10-13": 38,
-  "2023-10-14": 37,
-  "2023-10-15": 37,
-  "2023-10-16": 37,
-  "2023-10-17": 37,
-  "2023-10-18": 37,
-  "2023-10-19": 37,
-  "2023-10-20": 37,
-  "2023-10-21": 37,
-  "2023-10-22": 37,
-  "2023-10-23": 37,
-  "2023-10-24": 37,
-  "2023-10-25": 37,
-  "2023-10-26": 37,
-  "2023-10-27": 37,
-  "2023-10-28": 37,
-  "2023-10-29": 37,
-  "2023-10-30": 37,
-  "2023-10-31": 37,
-  "2023-11-01": 37,
-  "2023-11-02": 37,
-  "2023-11-03": 37,
-  "2023-11-04": 37,
-  "2023-11-05": 37,
-  "2023-11-06": 37,
-  "2023-11-07": 37,
-  "2023-11-08": 37,
-  "2023-11-09": 37,
-  "2023-11-10": 37,
-  "2023-11-11": 37,
-  "2023-11-12": 37,
-  "2023-11-13": 37,
-  "2023-11-14": 37,
-  "2023-11-15": 37,
-  "2023-11-16": 37,
-  "2023-11-17": 37,
-  "2023-11-18": 37,
-  "2023-11-19": 37,
-  "2023-11-20": 37,
-  "2023-11-21": 37,
-  "2023-11-22": 37,
-  "2023-11-23": 37,
-  "2023-11-24": 37,
-  "2023-11-25": 37,
-  "2023-11-26": 37,
-  "2023-11-27": 37,
-  "2023-11-28": 37,
-  "2023-11-29": 37,
-  "2023-11-30": 37,
-  "2023-12-01": 37,
-  "2023-12-02": 37,
-  "2023-12-03": 38,
-  "2023-12-04": 38,
-  "2023-12-05": 38,
-  "2023-12-06": 38,
-  "2023-12-07": 38,
-  "2023-12-08": 38,
-  "2023-12-09": 38,
-  "2023-12-10": 38,
-  "2023-12-11": 38,
-  "2023-12-12": 38,
-  "2023-12-13": 38,
-  "2023-12-14": 38,
-  "2023-12-15": 38,
-  "2023-12-16": 38,
-  "2023-12-17": 38,
-  "2023-12-18": 38,
-  "2023-12-19": 38,
-  "2023-12-20": 38,
-  "2023-12-21": 38,
-  "2023-12-22": 38,
-  "2023-12-23": 38,
-  "2023-12-24": 38,
-  "2023-12-25": 38,
-  "2023-12-26": 38,
-  "2023-12-27": 38,
-  "2023-12-30": 38,
-  "2023-12-31": 38,
-  "2024-01-01": 38,
-  "2024-01-02": 38,
-  "2024-01-03": 38
+  "2024-01-17": 38,
+  "date_first_scraped": "2021-12-21",
+  "description": "Listen to a collection of inspiring women in music as they share the stories of their music icons, from Lera Lynn and Kelly Clarkson to Zendaya and Terri Nunn.",
+  "name": "Women in Music | Stories & Songs",
+  "tracks": [
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263480,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
+    },
+    {
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301986,
+      "name": "A Little Bit Stronger",
+      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
+    },
+    {
+      "album": {
+        "name": "Te Odio los S\u00e1bados",
+        "url": "https://open.spotify.com/album/7jpKThSWL5YlrIy2GtCxE5"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211934,
+      "name": "Agridulce",
+      "url": "https://open.spotify.com/track/3XwohiRBqQiJnIi7IjUlNI"
+    },
+    {
+      "album": {
+        "name": "Billie Holiday Love Songs",
+        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/79fXdfpOPGaXO1gfdq2onl"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5976,
+      "name": "Alo Lee - Women in Music Intro",
+      "url": "https://open.spotify.com/track/1LIt6isylvzU8xurH9SzS9"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38261,
+      "name": "Alo Lee on TA\u0304LA\u0304 & Banks",
+      "url": "https://open.spotify.com/track/4LPf2jCG9Z3valiLbVdtdE"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65250,
+      "name": "Amy Grant on Carole King",
+      "url": "https://open.spotify.com/track/4mC56d4QxYosEPUEo5mFJT"
+    },
+    {
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/4uLwKrzkKPTEX0A6BYQmT9"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200038,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5vnJrtKeyZNMDJx8E4JFXH"
+    },
+    {
+      "album": {
+        "name": "Julia Wolfe: Anthracite Fields",
+        "url": "https://open.spotify.com/album/3IQeodV04d0ZD2gIf2PGgB"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolfe",
+          "url": "https://open.spotify.com/artist/5uEap55hXon4eBDyIlYtQg"
+        },
+        {
+          "name": "Choir of Trinity Wall Street",
+          "url": "https://open.spotify.com/artist/1KBoKfkaxjSKZsmD9XCg3B"
+        },
+        {
+          "name": "Bang On A Can All-Stars",
+          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
+        },
+        {
+          "name": "Julian Wachner",
+          "url": "https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398493,
+      "name": "Anthracite Fields: IV. Flowers",
+      "url": "https://open.spotify.com/track/6zyRNdOZbIX9U2LszJf8mq"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60055,
+      "name": "Ashley Monroe on Dolly Parton",
+      "url": "https://open.spotify.com/track/3gSP3wVC034l0m3cY8EHHl"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2016-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236973,
+      "name": "Baby, Baby",
+      "url": "https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU"
+    },
+    {
+      "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5479,
+      "name": "BB Diamond - Women in Music",
+      "url": "https://open.spotify.com/track/5KiX0yBe0NELfiTdyBtdJr"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27250,
+      "name": "BB Diamond on Janet Jackson",
+      "url": "https://open.spotify.com/track/6YYk1bbAFuMpAY4QpiKOtk"
+    },
+    {
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/7JyQEhOF6cYOxwbghvGj28"
+      },
+      "artists": [
+        {
+          "name": "POWERS",
+          "url": "https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Beat Of My Drum",
+      "url": "https://open.spotify.com/track/1lvWhdFZyTkdnUBYpUE3e9"
+    },
+    {
+      "album": {
+        "name": "Outside Society",
+        "url": "https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76624,
+      "name": "Becca Stevens & Phyllis Hudgins in Conversation",
+      "url": "https://open.spotify.com/track/24ns9s8MSbwIYPt8QA49o0"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17554,
+      "name": "Betty Who on her Mother",
+      "url": "https://open.spotify.com/track/7jI4RB8Sq4rHjf4Yo3vGli"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De\u2026",
+        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/4hf6RvpyNlb7gYLgXnV98t"
+    },
+    {
+      "album": {
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "Bright",
+      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
+    },
+    {
+      "album": {
+        "name": "Untamed",
+        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40881,
+      "name": "Cam on Emmylou Harris",
+      "url": "https://open.spotify.com/track/78qByw5XQNo6cONxSRY5rV"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53250,
+      "name": "Charlie Belle on Linda Perry",
+      "url": "https://open.spotify.com/track/31dtwHijdBBsOAJZ4f9fCe"
+    },
+    {
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Cleva",
+      "url": "https://open.spotify.com/track/1GoTvQP3JEeA8oh5I9b2xc"
+    },
+    {
+      "album": {
+        "name": "Native Dreamer Kin",
+        "url": "https://open.spotify.com/album/5Ri0TGsU4wcJTBRLbo3gVh"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "date_added": "2016-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214008,
+      "name": "Cloudline",
+      "url": "https://open.spotify.com/track/5VXK0SX4IXRI1K9lkIWCEV"
+    },
+    {
+      "album": {
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249499,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/4FqMPJlvfY5Nfo3gRKcNxl"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78500,
+      "name": "Connie Constance on Billie Holiday",
+      "url": "https://open.spotify.com/track/4Ho2Ttbs3MVZiZpzfTge1l"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3kwl00I9hJSfwfWc4T3NAx"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "Crazy - Single Version",
+      "url": "https://open.spotify.com/track/4DuBNU1r50XEv4dvsrQcpY"
+    },
+    {
+      "album": {
+        "name": "Lloviendo Estrellas",
+        "url": "https://open.spotify.com/album/6XGA4bpZcJPP9AFm0C0AGf"
+      },
+      "artists": [
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231453,
+      "name": "C\u00f3mo Duele el Silencio",
+      "url": "https://open.spotify.com/track/0gvcjXtSi4Deo95V1OFvQ1"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32500,
+      "name": "Dawn Landes on Skeeter Davis",
+      "url": "https://open.spotify.com/track/0tENc0xiAvsiczovH6le1h"
+    },
+    {
+      "album": {
+        "name": "The One And Only Queen Of Hot Gospel",
+        "url": "https://open.spotify.com/album/6ACYJSOqQdPROs8D3Eiwl0"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        },
+        {
+          "name": "Marie Knight",
+          "url": "https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160146,
+      "name": "Didn't It Rain",
+      "url": "https://open.spotify.com/track/3MmBXeei7SACBgmdGiT6FB"
+    },
+    {
+      "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/1gTZk3SfArXJCgWQtGPyhE"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4eljrRffIeiEf24ukplrJ5"
+    },
+    {
+      "album": {
+        "name": "Ella & Friends",
+        "url": "https://open.spotify.com/album/0MgX1r8D5sEhpC3JPs6pLG"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/5MjAGtm2ihbBK9G30ZN3Ju"
+    },
+    {
+      "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/509VifKH3x4T8dhJp6RfVO"
+      },
+      "artists": [
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301373,
+      "name": "Easier To Hide",
+      "url": "https://open.spotify.com/track/3g6CKJpQWHNx0OG0AHjmu1"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26000,
+      "name": "Echosmith on Joni Mitchell",
+      "url": "https://open.spotify.com/track/5bPkD3EB1WuYcNC8DPiTEP"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16124,
+      "name": "Echosmith on WHM",
+      "url": "https://open.spotify.com/track/1kh0SEf7DVvd0Jq0AiHl8y"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories Vol. 2",
+        "url": "https://open.spotify.com/album/2x7Ejovh9f6DSf5uLoUyQB"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23562,
+      "name": "Eden xo on Shirley Manson",
+      "url": "https://open.spotify.com/track/4I7efNSsMZkrdAHh5MZQcY"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52187,
+      "name": "Emily Kinney on Mariah Carey",
+      "url": "https://open.spotify.com/track/52wkEBdEFM7YUGLMWRaABQ"
+    },
+    {
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/2ILIr7v8eK08GTot1yKkSE"
+      },
+      "artists": [
+        {
+          "name": "BB Diamond",
+          "url": "https://open.spotify.com/artist/04EClrOlfqnBEIvWbzS9H8"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201028,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/3ZQv4jc3MveLSs2ILZ0dYr"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/0NJwp4usn5T5PPURpwLDDD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/1VKsbTJ78G5bnfyoPz46LA"
+    },
+    {
+      "album": {
+        "name": "Kandace Springs",
+        "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196844,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
+    },
+    {
+      "album": {
+        "name": "Freight Train and Other North Carolina Folk Songs and Tunes",
+        "url": "https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Cotten",
+          "url": "https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166373,
+      "name": "Freight train",
+      "url": "https://open.spotify.com/track/5UlokrsKgBObpODBXwTW0B"
+    },
+    {
+      "album": {
+        "name": "Ladies, Women and Girls",
+        "url": "https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136880,
+      "name": "Gimme Brains",
+      "url": "https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16750,
+      "name": "Girls Rock Mission I",
+      "url": "https://open.spotify.com/track/0ALfCuVEY14cslWusFiRtB"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14750,
+      "name": "Girls Rock Mission II",
+      "url": "https://open.spotify.com/track/3C78GpAXDFhyxIqJHsXEE5"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14500,
+      "name": "Girls Rock on Mitski",
+      "url": "https://open.spotify.com/track/5BaAl2ThitfLHMthC8nin4"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18624,
+      "name": "Girls Rock on Speedy Ortiz",
+      "url": "https://open.spotify.com/track/6wutcmiLmgqBJma2MkKUIs"
+    },
+    {
+      "album": {
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Got 'Til It's Gone",
+      "url": "https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me As A Friend (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7ElzXR2E3kekE4wX1zDZq2"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2016-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Half The World Away",
+      "url": "https://open.spotify.com/track/7ptiETa5fvavCyw2NtzhjZ"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories Vol. 2",
+        "url": "https://open.spotify.com/album/2x7Ejovh9f6DSf5uLoUyQB"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23640,
+      "name": "Halsey on Patti Smith",
+      "url": "https://open.spotify.com/track/1fmic8v3pGriX5yfIqPg7H"
+    },
+    {
+      "album": {
+        "name": "Gold and Rust",
+        "url": "https://open.spotify.com/album/1i2UKFquAa9QjWi936r05T"
+      },
+      "artists": [
+        {
+          "name": "Lauren Shera",
+          "url": "https://open.spotify.com/artist/4BHgCTlgRJGkP54Ppwsz8R"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287613,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/5o2a1mjibu0Tb2qQaqh0b3"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1Eo1pg2D4beFgf3HFTJTMc"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295493,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0ENSn4fwAbCGeFGVUbXEU3"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257733,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI"
+    },
+    {
+      "album": {
+        "name": "Hold Me Now",
+        "url": "https://open.spotify.com/album/2zSLf9lUFDsge0C6ej8pon"
+      },
+      "artists": [
+        {
+          "name": "Eden xo",
+          "url": "https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0YLfg0RJfFYvVHKS1dmrZx"
+    },
+    {
+      "album": {
+        "name": "Family Dinner, Vol. 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0uVM7b6Ew7RHmgRjfTxaWe"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Becca Stevens",
+          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
+        },
+        {
+          "name": "V\u00e4sen",
+          "url": "https://open.spotify.com/artist/1Njrx1AMU4ymWHjfSlwLpE"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414364,
+      "name": "I Asked - Live",
+      "url": "https://open.spotify.com/track/3oOvnZE1l4lwwnn21HQ4lx"
+    },
+    {
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332960,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "album": {
+        "name": "I Hate the Weekend",
+        "url": "https://open.spotify.com/album/3winanUX7hk0gYN8LIBCZP"
+      },
+      "artists": [
+        {
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125935,
+      "name": "I Hate the Weekend",
+      "url": "https://open.spotify.com/track/2rSuWBGR6li7anapMGgPhu"
+    },
+    {
+      "album": {
+        "name": "Cut (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/2tlQN0gUJz6tW7bPunEaid"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1REqQsUK0WRYQVzsmdsj04"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212047,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/3sesq9P6ndjuqaq5om7sxT"
+    },
+    {
+      "album": {
+        "name": "Tapestry (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2016-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I"
+    },
+    {
+      "album": {
+        "name": "Little Secret",
+        "url": "https://open.spotify.com/album/5KU4ST7Ny1PXQbonTEfEM2"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179946,
+      "name": "Jeepers Creepers 2.0",
+      "url": "https://open.spotify.com/track/7mUUClKannlGG1xOlYIXXh"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24250,
+      "name": "Jennifer Higdon on Women's History Month",
+      "url": "https://open.spotify.com/track/4HzeW7VAEUgl5bKngCowtf"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/62MSYknWJzPS0cBnC1xJPt"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25624,
+      "name": "Joseph on Aurora",
+      "url": "https://open.spotify.com/track/45OXBb9DgEkZHSRyd0XGse"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19000,
+      "name": "Julia Wolfe on \"Anthracite Fields\"",
+      "url": "https://open.spotify.com/track/4ahAtLf3pjjYb5zadFSNnT"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18250,
+      "name": "Julia Wolfe on Inspiration",
+      "url": "https://open.spotify.com/track/3YPmzBVLRQEMjYMmA8AoMH"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10333,
+      "name": "Julia Wolfe on Women Composers",
+      "url": "https://open.spotify.com/track/0hNn4GcgyVNa39UsRAJUE1"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories Vol. 2",
+        "url": "https://open.spotify.com/album/2x7Ejovh9f6DSf5uLoUyQB"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26122,
+      "name": "Kandace Springs on Nina Simone",
+      "url": "https://open.spotify.com/track/2YQ6I059F4TMpOOFKjwprn"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51484,
+      "name": "Kari Faux on Erykah Badu",
+      "url": "https://open.spotify.com/track/5vVRJ7YpG8uELQHQw2sVgZ"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67134,
+      "name": "Kelly Clarkson on Annie Lennox",
+      "url": "https://open.spotify.com/track/38rXFAj14xVTGFY1GskEIo"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33880,
+      "name": "Kelly Clarkson on Aretha Franklin",
+      "url": "https://open.spotify.com/track/7Hyeo2sASjn4daGByCcxLX"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45165,
+      "name": "Kelly Clarkson on Bonnie Raitt",
+      "url": "https://open.spotify.com/track/048a2PS5RCm137BnP2XZP2"
+    },
+    {
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/3EEiy1rcaQwPtmil2TxIeV"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445706,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/16YoB3GZvLOF9RbCSOWQkU"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47203,
+      "name": "Larkin Poe on Heart",
+      "url": "https://open.spotify.com/track/4dYNEfDoa6mX4TSIRAYOUQ"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37146,
+      "name": "Lauren Shera on Elizabeth Cotten",
+      "url": "https://open.spotify.com/track/0eOZsA40uxbhoNZt9CS6Om"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45374,
+      "name": "Lera Lynn on Sister Rosetta Tharpe",
+      "url": "https://open.spotify.com/track/1Z8RtwUJG0NBNr12iifzNo"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10500,
+      "name": "Leslie Grace - Words of Wisdom",
+      "url": "https://open.spotify.com/track/5TkoFkTggvrDzvAaWWBDSV"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19250,
+      "name": "Leslie Grace on Selena Quintanilla",
+      "url": "https://open.spotify.com/track/2yIMotUDLRh5U0P3vxn5VE"
+    },
+    {
+      "album": {
+        "name": "At Newport",
+        "url": "https://open.spotify.com/album/1wRykEhSd6Q7MRPN8lixtU"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273666,
+      "name": "Li'l Liza Jane - Live at the Newport Jazz Festival, Newport, RI, June 30, 1960",
+      "url": "https://open.spotify.com/track/59ergcrbjTOTKEetpTQJhI"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77750,
+      "name": "Margaret Glaspy on Missy Elliott",
+      "url": "https://open.spotify.com/track/39beTl3NsLUcDwDVGH1G21"
+    },
+    {
+      "album": {
+        "name": "Realmente Lo Mejor",
+        "url": "https://open.spotify.com/album/2KqtwFrkURqzaX1Xr46y0K"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/5zp1uk1VA6EKloLl3Cjv4D"
+    },
+    {
+      "album": {
+        "name": "Oye Mi Canto...Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5U49SJBU6cQKlG2PgOMMv8"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279333,
+      "name": "Mi Tierra",
+      "url": "https://open.spotify.com/track/0TjLndVJk03f4fg3hRs7Yz"
+    },
+    {
+      "album": {
+        "name": "Monster Lead Me Home",
+        "url": "https://open.spotify.com/album/3riygse0VgPUp9tdIWLMyW"
+      },
+      "artists": [
+        {
+          "name": "Sara Hartman",
+          "url": "https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237394,
+      "name": "Monster Lead Me Home",
+      "url": "https://open.spotify.com/track/5LAnohaWXSFTIFZt8XB4yv"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49374,
+      "name": "Natalia Jimenez - What I've Learned",
+      "url": "https://open.spotify.com/track/2jVQ0L9LUJVr20VXb73yDA"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29244,
+      "name": "Natalia Jimenez on Gloria Estefan",
+      "url": "https://open.spotify.com/track/4cMbScuOqBRRMR35PdPlvX"
+    },
+    {
+      "album": {
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22883,
+      "name": "NERVO on Maya Jane Coles",
+      "url": "https://open.spotify.com/track/2ocWCR47rDzGvFFWUM7mva"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29257,
+      "name": "NERVO on Missy Elliott",
+      "url": "https://open.spotify.com/track/7eDEc5ge4ogDKSlusOXnEM"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37172,
+      "name": "Nikki Yanofsky on Ella Fitzgerald",
+      "url": "https://open.spotify.com/track/7jdgl643sGyOSVJvBRphv6"
+    },
+    {
+      "album": {
+        "name": "The Blade",
+        "url": "https://open.spotify.com/album/6P7WO2yLdzzVmRLILb85Gj"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "On to Something Good",
+      "url": "https://open.spotify.com/track/7A1HcvzL066dTcxUJDHDeb"
+    },
+    {
+      "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236533,
+      "name": "Only Happy When It Rains",
+      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
+    },
+    {
+      "album": {
+        "name": "The Essential Skeeter Davis",
+        "url": "https://open.spotify.com/album/0bxxb5V6CHyrZOTO5Swpyw"
+      },
+      "artists": [
+        {
+          "name": "Skeeter Davis",
+          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119560,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/3iidFyWqiIlUQDnISenQUK"
+    },
+    {
+      "album": {
+        "name": "Over Me",
+        "url": "https://open.spotify.com/album/3blehttrR6oDVL37oFAQ3S"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200975,
+      "name": "Over Me",
+      "url": "https://open.spotify.com/track/1TN1kv9wbaN2odn0Aou19A"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29500,
+      "name": "Paty Cantu\u0301 - What I've Learned",
+      "url": "https://open.spotify.com/track/4zqaXTz1TqrlRGxjF45Na5"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22000,
+      "name": "Paty Cantu\u0301 on Shakira",
+      "url": "https://open.spotify.com/track/3nPOaVsc12ZCGkHPUFCvms"
+    },
+    {
+      "album": {
+        "name": "Piece By Piece (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2puALR81qCmKmbOyuHAI94"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212280,
+      "name": "Piece by Piece - Idol Version",
+      "url": "https://open.spotify.com/track/3KbFtYPyVP6C7BQVgH2cCf"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45500,
+      "name": "Powers on Grace Jones",
+      "url": "https://open.spotify.com/track/408HttK1iGDx2NMS4AAXKQ"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date Con Ella",
+        "url": "https://open.spotify.com/album/4EZTuUQcepYWVKtDcnUKOd"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229788,
+      "name": "Qu\u00e9date Con Ella",
+      "url": "https://open.spotify.com/track/5atgs0KcPkL9rMdJmvbgQn"
+    },
+    {
+      "album": {
+        "name": "Foil Deer",
+        "url": "https://open.spotify.com/album/1HIJD84nu66Dk9wykAPhNB"
+      },
+      "artists": [
+        {
+          "name": "Speedy Ortiz",
+          "url": "https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253653,
+      "name": "Raising the Skate",
+      "url": "https://open.spotify.com/track/2K7SbbSN9r1zUKHk0t9Dqv"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13770,
+      "name": "Raquel Sofia - What I've Learned",
+      "url": "https://open.spotify.com/track/7DTUnuHfRgbYJCuWxqMMAV"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9483,
+      "name": "Raquel Sofia on Julieta Venegas",
+      "url": "https://open.spotify.com/track/1ArTpFNiSaRnVMO4rsO2Ky"
+    },
+    {
+      "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209186,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt"
+    },
+    {
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21624,
+      "name": "Sabrina Carpenter on Adele",
+      "url": "https://open.spotify.com/track/3Qqg51NwzRMMynsuCq1trR"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52323,
+      "name": "Sara Evans on Patsy Cline",
+      "url": "https://open.spotify.com/track/4H7wJ8lV5XqaLyxHRpNy4b"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41624,
+      "name": "Sara Hartman on Nina Simone",
+      "url": "https://open.spotify.com/track/1fqu5vQIRLwcaxX8k5VY6r"
+    },
+    {
+      "album": {
+        "name": "War On Women",
+        "url": "https://open.spotify.com/album/6KpvdcQk2MJ0iuAYFi4C2L"
+      },
+      "artists": [
+        {
+          "name": "War On Women",
+          "url": "https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182591,
+      "name": "Servilia",
+      "url": "https://open.spotify.com/track/0cjjoQJuCDh1KHnwWhhCkw"
+    },
+    {
+      "album": {
+        "name": "Shape Shifter",
+        "url": "https://open.spotify.com/album/6MTNmJGDZpWdJwfEvOYImO"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231226,
+      "name": "Shape Shifter",
+      "url": "https://open.spotify.com/track/0OoDLuLqH84eiHDjNWZki7"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories Vol. 2",
+        "url": "https://open.spotify.com/album/2x7Ejovh9f6DSf5uLoUyQB"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23562,
+      "name": "Shawna Potter on The Slits",
+      "url": "https://open.spotify.com/track/4pkL4Hn6rnLvBiUMsHH08F"
+    },
+    {
+      "album": {
+        "name": "Smoke and Fire",
+        "url": "https://open.spotify.com/album/6BNXa8shuN3ANF4P0J2ElP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225010,
+      "name": "Smoke and Fire",
+      "url": "https://open.spotify.com/track/67zT3NI4tTOj8GreXetF6s"
+    },
+    {
+      "album": {
+        "name": "Take Me When You Go",
+        "url": "https://open.spotify.com/album/3c2TzUftOakyVsesUMgAOB"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/3a9dxgyM2rbFUvmN35qTTj"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To Be Alone",
+        "url": "https://open.spotify.com/album/3eOwFAzvLN6oOm9wR90Mti"
+      },
+      "artists": [
+        {
+          "name": "Charlie Belle",
+          "url": "https://open.spotify.com/artist/0EWfFYULrCaEh1KIKqXLNB"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241855,
+      "name": "Speak Your Mind",
+      "url": "https://open.spotify.com/track/1GYgZw2y32NHt7NHfCp9mC"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78942,
+      "name": "Striking Matches on Bonnie Raitt",
+      "url": "https://open.spotify.com/track/5DxtKeGna8NIG4rjAtWD1c"
+    },
+    {
+      "album": {
+        "name": "Violin Recital: Koh, Jennifer - Higdon, J. / Harrison, L. / Adams, J. / Ruggles, C. (String Poetic)",
+        "url": "https://open.spotify.com/album/6YrympPZMzhrfI7yvXXqrs"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Higdon",
+          "url": "https://open.spotify.com/artist/74DKkK5qRjAcHfifGufH4b"
+        },
+        {
+          "name": "Jennifer Koh",
+          "url": "https://open.spotify.com/artist/5oz3ukvCydQ9fAfvAHwe3z"
+        },
+        {
+          "name": "Reiko Uchida",
+          "url": "https://open.spotify.com/artist/5akuCDYyeNsLVKTRnuKmtE"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286266,
+      "name": "String poetic: II. Nocturne",
+      "url": "https://open.spotify.com/track/1D5AWyG2oOk42eQFdLN1bK"
+    },
+    {
+      "album": {
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221946,
+      "name": "Stronger (What Doesn't Kill You)",
+      "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
+    },
+    {
+      "album": {
+        "name": "Pill EP",
+        "url": "https://open.spotify.com/album/2qF4zcx0RPdzaVyaqRRdJs"
+      },
+      "artists": [
+        {
+          "name": "Pill",
+          "url": "https://open.spotify.com/artist/6E16nSEJi8onSUTrpY8asH"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194602,
+      "name": "T.V. Wedding",
+      "url": "https://open.spotify.com/track/4Cy8yZZbHRT35oFcPUBSPP"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70312,
+      "name": "Tacocat on Bratmobile & Riot grrrl",
+      "url": "https://open.spotify.com/track/2xhjgZGKq4g5VLlor6mEMw"
+    },
+    {
+      "album": {
+        "name": "Count Three & Pray",
+        "url": "https://open.spotify.com/album/2zOp7ezYFkMz3oln7I4OIZ"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/7mcW98cnE6Osce4ae7t4oZ"
+    },
+    {
+      "album": {
+        "name": "Women in Music - 2015 Stories",
+        "url": "https://open.spotify.com/album/42xVRS4aI6UCuMfkwkZ9ne"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45453,
+      "name": "Terri Nunn on Carly Simon",
+      "url": "https://open.spotify.com/track/2ZML0OkaZezzGtdK5bOQPg"
+    },
+    {
+      "album": {
+        "name": "Roses in the Snow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "The Boxer - 2002 Remaster",
+      "url": "https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU"
+    },
+    {
+      "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/1CZnMTWdD8cApDRm2wLCZp"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296692,
+      "name": "The Other Boys (feat. Kylie Minogue, Jake Shears & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/49SgioQeGOwNYJJYT4fqmz"
+    },
+    {
+      "album": {
+        "name": "This Is War",
+        "url": "https://open.spotify.com/album/4Chley4OkvmLSKYyOg6dD5"
+      },
+      "artists": [
+        {
+          "name": "Emily Kinney",
+          "url": "https://open.spotify.com/artist/3D3uLH6igxgWnDrhvPPqHQ"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "This Is War",
+      "url": "https://open.spotify.com/track/3XyWadLEomXFnzK2hHTzqE"
+    },
+    {
+      "album": {
+        "name": "This Right Here",
+        "url": "https://open.spotify.com/album/4PhbLWQASCCRD1Bvu6xwDH"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "This Right Here",
+      "url": "https://open.spotify.com/track/1zuJopn21F5uzlW7MiYZBX"
+    },
+    {
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/472GvzwE3EZ0i2EEaly5mX"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205080,
+      "name": "Townie",
+      "url": "https://open.spotify.com/track/2HUIm4ZmwC5aIEQQakmgO4"
+    },
+    {
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/6ke1877tfbBGWSlHFwxomE"
+      },
+      "artists": [
+        {
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182374,
+      "name": "Try to Make a Fire Burn Again",
+      "url": "https://open.spotify.com/track/6rKfnpSyHhdVrukCPZT3hK"
+    },
+    {
+      "album": {
+        "name": "Videos",
+        "url": "https://open.spotify.com/album/4dqZjW2nXq7u9j5p3GR8Eb"
+      },
+      "artists": [
+        {
+          "name": "Alo Lee",
+          "url": "https://open.spotify.com/artist/4M3GTutKJlzmMGc4nr71el"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213793,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/5DGm2GovdFd9LVcrFG893N"
+    },
+    {
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/13mcbNo2dZG8GG1f5bVLWl"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255880,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/7w7QW1Di7wFYNw3iyWx7TE"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/2T7TgderJjXYr1htHBmGiK"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59750,
+      "name": "Veronica Torres on Community",
+      "url": "https://open.spotify.com/track/6v9nvDsWcBlXZqYnrVWhVS"
+    },
+    {
+      "album": {
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "album": {
+        "name": "Nothing But The Silence",
+        "url": "https://open.spotify.com/album/6Jursqhv5c10tKogSkG0gw"
+      },
+      "artists": [
+        {
+          "name": "Striking Matches",
+          "url": "https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247066,
+      "name": "When The Right One Comes Along",
+      "url": "https://open.spotify.com/track/55MS3w2ERn7S5k6gBrfFdY"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49570,
+      "name": "WILSN on Aretha Franklin",
+      "url": "https://open.spotify.com/track/2ERgaHGKzKYCXYx1qLN394"
+    },
+    {
+      "album": {
+        "name": "MALIKA - EP",
+        "url": "https://open.spotify.com/album/6vyUA4ha0AEhVhOLSrSWSd"
+      },
+      "artists": [
+        {
+          "name": "T\u0100L\u0100",
+          "url": "https://open.spotify.com/artist/0EF0xdjRZNktbZ8Aoqf4Di"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "Wolfpack",
+      "url": "https://open.spotify.com/track/1PhvTwusCB7hHCLrP8mrll"
+    },
+    {
+      "album": {
+        "name": "Women in Music 2016",
+        "url": "https://open.spotify.com/album/22p3NZgSeHXg2IpL3QwR8v"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21913,
+      "name": "Women in Music 2016",
+      "url": "https://open.spotify.com/track/64BOuhuPuBAQ9hPuI72gfd"
+    },
+    {
+      "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "album": {
+        "name": "You And I B/W Somebody To Anybody",
+        "url": "https://open.spotify.com/album/36XVGMsZ83DB7qmrth5T4Y"
+      },
+      "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        }
+      ],
+      "date_added": "2016-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149076,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/4W8ADNEo6PUxp0fcxoo4lB"
+    },
+    {
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7374,
+      "name": "Zendaya - Women in Music Intro",
+      "url": "https://open.spotify.com/track/1rWStuaAMCPT03BR8pJXYL"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44500,
+      "name": "Zendaya on Beyonce\u0301",
+      "url": "https://open.spotify.com/track/7DSafv1wQ6vORbAK9LnhFg"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47375,
+      "name": "Zendaya on Cyber Bullying",
+      "url": "https://open.spotify.com/track/5WvG6GTCksIPzWquoTHNyz"
+    },
+    {
+      "album": {
+        "name": "Women's History Month 2016",
+        "url": "https://open.spotify.com/album/21SsViFktYlsThiZc0DP1R"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19482,
+      "name": "Zendaya on Loving Yourself",
+      "url": "https://open.spotify.com/track/37uc1GStPFvhalbnBOhBCJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/1zriHsmiRJmTThtQk8UWPk"
 }

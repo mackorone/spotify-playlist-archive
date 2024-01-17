@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 
 > Acoustic versions of well\-known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,236 likes - 77 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,319 likes - 77 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

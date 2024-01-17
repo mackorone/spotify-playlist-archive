@@ -1,354 +1,1051 @@
 {
-  "2023-01-14": 20705,
-  "2023-01-15": 20710,
-  "2023-01-16": 20726,
-  "2023-01-17": 20750,
-  "2023-01-18": 20761,
-  "2023-01-19": 20778,
-  "2023-01-20": 20802,
-  "2023-01-21": 20824,
-  "2023-01-22": 20845,
-  "2023-01-23": 20864,
-  "2023-01-24": 20871,
-  "2023-01-25": 20902,
-  "2023-01-26": 20927,
-  "2023-01-27": 20950,
-  "2023-01-28": 20965,
-  "2023-01-29": 20979,
-  "2023-01-30": 20991,
-  "2023-01-31": 20991,
-  "2023-02-01": 21032,
-  "2023-02-02": 21050,
-  "2023-02-03": 21079,
-  "2023-02-04": 21094,
-  "2023-02-05": 21109,
-  "2023-02-06": 21134,
-  "2023-02-07": 21159,
-  "2023-02-08": 21207,
-  "2023-02-09": 21207,
-  "2023-02-10": 21235,
-  "2023-02-11": 21262,
-  "2023-02-12": 21305,
-  "2023-02-13": 21317,
-  "2023-02-14": 21317,
-  "2023-02-15": 21334,
-  "2023-02-16": 21346,
-  "2023-02-17": 21362,
-  "2023-02-18": 21407,
-  "2023-02-19": 21416,
-  "2023-02-20": 21435,
-  "2023-02-21": 21454,
-  "2023-02-22": 21473,
-  "2023-02-23": 21492,
-  "2023-02-24": 21512,
-  "2023-02-25": 21554,
-  "2023-02-26": 21565,
-  "2023-02-27": 21595,
-  "2023-02-28": 21595,
-  "2023-03-01": 21611,
-  "2023-03-02": 21634,
-  "2023-03-03": 21661,
-  "2023-03-04": 21675,
-  "2023-03-05": 21728,
-  "2023-03-06": 21728,
-  "2023-03-07": 21745,
-  "2023-03-08": 21764,
-  "2023-03-09": 21779,
-  "2023-03-10": 21801,
-  "2023-03-11": 21827,
-  "2023-03-12": 21840,
-  "2023-03-13": 21865,
-  "2023-03-14": 21883,
-  "2023-03-15": 21909,
-  "2023-03-16": 21909,
-  "2023-03-17": 21909,
-  "2023-03-18": 21967,
-  "2023-03-19": 21967,
-  "2023-03-20": 22004,
-  "2023-03-21": 22020,
-  "2023-03-22": 22051,
-  "2023-03-23": 22071,
-  "2023-03-24": 22071,
-  "2023-03-25": 22113,
-  "2023-03-26": 22140,
-  "2023-03-27": 22167,
-  "2023-03-28": 22190,
-  "2023-03-29": 22216,
-  "2023-03-30": 22254,
-  "2023-03-31": 22254,
-  "2023-04-01": 22282,
-  "2023-04-02": 22308,
-  "2023-04-03": 22339,
-  "2023-04-04": 22357,
-  "2023-04-05": 22387,
-  "2023-04-06": 22413,
-  "2023-04-07": 22428,
-  "2023-04-09": 22462,
-  "2023-04-10": 22472,
-  "2023-04-11": 22514,
-  "2023-04-12": 22514,
-  "2023-04-13": 22532,
-  "2023-04-14": 22565,
-  "2023-04-15": 22600,
-  "2023-04-16": 22622,
-  "2023-04-17": 22639,
-  "2023-04-18": 22658,
-  "2023-04-19": 22680,
-  "2023-04-20": 22698,
-  "2023-04-21": 22722,
-  "2023-04-22": 22745,
-  "2023-04-23": 22779,
-  "2023-04-24": 22800,
-  "2023-04-25": 22822,
-  "2023-04-26": 22847,
-  "2023-04-27": 22869,
-  "2023-04-28": 22897,
-  "2023-04-29": 22923,
-  "2023-04-30": 22946,
-  "2023-05-01": 22965,
-  "2023-05-02": 22978,
-  "2023-05-03": 22999,
-  "2023-05-04": 23020,
-  "2023-05-05": 23042,
-  "2023-05-06": 23076,
-  "2023-05-07": 23095,
-  "2023-05-08": 23121,
-  "2023-05-09": 23144,
-  "2023-05-10": 23171,
-  "2023-05-11": 23196,
-  "2023-05-12": 23212,
-  "2023-05-13": 23232,
-  "2023-05-14": 23258,
-  "2023-05-15": 23273,
-  "2023-05-16": 23297,
-  "2023-05-17": 23318,
-  "2023-05-18": 23341,
-  "2023-05-19": 23358,
-  "2023-05-20": 23393,
-  "2023-05-21": 23393,
-  "2023-05-22": 23393,
-  "2023-05-23": 23433,
-  "2023-05-24": 23470,
-  "2023-05-25": 23480,
-  "2023-05-26": 23514,
-  "2023-05-27": 23541,
-  "2023-05-28": 23562,
-  "2023-05-29": 23562,
-  "2023-05-30": 23596,
-  "2023-05-31": 23621,
-  "2023-06-01": 23646,
-  "2023-06-02": 23677,
-  "2023-06-03": 23702,
-  "2023-06-04": 23734,
-  "2023-06-05": 23753,
-  "2023-06-06": 23780,
-  "2023-06-07": 23805,
-  "2023-06-08": 23828,
-  "2023-06-09": 23854,
-  "2023-06-10": 23881,
-  "2023-06-11": 23912,
-  "2023-06-12": 23932,
-  "2023-06-13": 23953,
-  "2023-06-14": 23978,
-  "2023-06-15": 24008,
-  "2023-06-16": 24043,
-  "2023-06-17": 24072,
-  "2023-06-18": 24092,
-  "2023-06-19": 24119,
-  "2023-06-20": 24138,
-  "2023-06-21": 24167,
-  "2023-06-22": 24199,
-  "2023-06-23": 24236,
-  "2023-06-24": 24267,
-  "2023-06-25": 24291,
-  "2023-06-26": 24317,
-  "2023-06-27": 24337,
-  "2023-06-28": 24364,
-  "2023-06-29": 24388,
-  "2023-06-30": 24416,
-  "2023-07-01": 24468,
-  "2023-07-02": 24468,
-  "2023-07-03": 24490,
-  "2023-07-04": 24512,
-  "2023-07-05": 24538,
-  "2023-07-06": 24593,
-  "2023-07-07": 24593,
-  "2023-07-08": 24593,
-  "2023-07-09": 24644,
-  "2023-07-10": 24668,
-  "2023-07-11": 24682,
-  "2023-07-12": 24709,
-  "2023-07-13": 24734,
-  "2023-07-14": 24761,
-  "2023-07-15": 24777,
-  "2023-07-16": 24808,
-  "2023-07-17": 24843,
-  "2023-07-18": 24862,
-  "2023-07-19": 24895,
-  "2023-07-20": 24895,
-  "2023-07-21": 24945,
-  "2023-07-22": 24963,
-  "2023-07-23": 24988,
-  "2023-07-24": 25006,
-  "2023-07-25": 25027,
-  "2023-07-26": 25051,
-  "2023-07-27": 25088,
-  "2023-07-28": 25088,
-  "2023-07-29": 25142,
-  "2023-07-30": 25142,
-  "2023-07-31": 25186,
-  "2023-08-01": 25209,
-  "2023-08-02": 25221,
-  "2023-08-03": 25254,
-  "2023-08-04": 25279,
-  "2023-08-05": 25290,
-  "2023-08-06": 25343,
-  "2023-08-07": 25343,
-  "2023-08-08": 25367,
-  "2023-08-09": 25383,
-  "2023-08-10": 25410,
-  "2023-08-11": 25430,
-  "2023-08-12": 25430,
-  "2023-08-13": 25430,
-  "2023-08-14": 25430,
-  "2023-08-15": 25430,
-  "2023-08-16": 25430,
-  "2023-08-17": 25430,
-  "2023-08-18": 25430,
-  "2023-08-19": 25430,
-  "2023-08-20": 25629,
-  "2023-08-21": 25629,
-  "2023-08-22": 25682,
-  "2023-08-23": 25682,
-  "2023-08-24": 25682,
-  "2023-08-25": 25682,
-  "2023-08-26": 25801,
-  "2023-08-27": 25801,
-  "2023-08-28": 25858,
-  "2023-08-29": 25858,
-  "2023-08-30": 25858,
-  "2023-08-31": 25918,
-  "2023-09-01": 25942,
-  "2023-09-02": 25942,
-  "2023-09-03": 25942,
-  "2023-09-04": 25942,
-  "2023-09-05": 25942,
-  "2023-09-06": 25942,
-  "2023-09-07": 25942,
-  "2023-09-08": 25942,
-  "2023-09-09": 25942,
-  "2023-09-10": 25942,
-  "2023-09-11": 25942,
-  "2023-09-12": 25942,
-  "2023-09-13": 25942,
-  "2023-09-14": 25942,
-  "2023-09-15": 25942,
-  "2023-09-16": 26317,
-  "2023-09-17": 26317,
-  "2023-09-18": 26317,
-  "2023-09-19": 26317,
-  "2023-09-20": 26317,
-  "2023-09-21": 26317,
-  "2023-09-22": 26434,
-  "2023-09-23": 26434,
-  "2023-09-24": 26434,
-  "2023-09-25": 26434,
-  "2023-09-26": 26517,
-  "2023-09-27": 26517,
-  "2023-09-28": 26517,
-  "2023-09-29": 26517,
-  "2023-09-30": 26517,
-  "2023-10-01": 26517,
-  "2023-10-02": 26517,
-  "2023-10-03": 26517,
-  "2023-10-04": 26517,
-  "2023-10-05": 26517,
-  "2023-10-06": 26517,
-  "2023-10-07": 26517,
-  "2023-10-08": 26517,
-  "2023-10-09": 26517,
-  "2023-10-10": 26517,
-  "2023-10-11": 26517,
-  "2023-10-12": 26517,
-  "2023-10-13": 26517,
-  "2023-10-14": 26517,
-  "2023-10-15": 26517,
-  "2023-10-16": 26517,
-  "2023-10-17": 26517,
-  "2023-10-18": 26517,
-  "2023-10-19": 26517,
-  "2023-10-20": 26517,
-  "2023-10-21": 26517,
-  "2023-10-22": 26517,
-  "2023-10-23": 26517,
-  "2023-10-24": 26517,
-  "2023-10-25": 26517,
-  "2023-10-26": 26517,
-  "2023-10-27": 26517,
-  "2023-10-28": 26517,
-  "2023-10-29": 26517,
-  "2023-10-30": 26517,
-  "2023-10-31": 26517,
-  "2023-11-01": 26517,
-  "2023-11-02": 26517,
-  "2023-11-03": 26517,
-  "2023-11-04": 26517,
-  "2023-11-05": 26517,
-  "2023-11-06": 26517,
-  "2023-11-07": 26517,
-  "2023-11-08": 26517,
-  "2023-11-09": 26517,
-  "2023-11-10": 26517,
-  "2023-11-11": 27434,
-  "2023-11-12": 27434,
-  "2023-11-13": 27434,
-  "2023-11-14": 27434,
-  "2023-11-15": 27434,
-  "2023-11-16": 27434,
-  "2023-11-17": 27434,
-  "2023-11-18": 27434,
-  "2023-11-19": 27434,
-  "2023-11-20": 27434,
-  "2023-11-21": 27434,
-  "2023-11-22": 27434,
-  "2023-11-23": 27434,
-  "2023-11-24": 27434,
-  "2023-11-25": 27434,
-  "2023-11-26": 27434,
-  "2023-11-27": 27434,
-  "2023-11-28": 27434,
-  "2023-11-29": 27434,
-  "2023-11-30": 27434,
-  "2023-12-01": 27434,
-  "2023-12-02": 27434,
-  "2023-12-03": 27434,
-  "2023-12-04": 27434,
-  "2023-12-05": 27434,
-  "2023-12-06": 27434,
-  "2023-12-07": 27434,
-  "2023-12-08": 27434,
-  "2023-12-09": 27434,
-  "2023-12-10": 27434,
-  "2023-12-11": 27434,
-  "2023-12-12": 27434,
-  "2023-12-13": 27434,
-  "2023-12-14": 28264,
-  "2023-12-15": 28293,
-  "2023-12-16": 28327,
-  "2023-12-17": 28360,
-  "2023-12-18": 28374,
-  "2023-12-19": 28399,
-  "2023-12-20": 28452,
-  "2023-12-21": 28510,
-  "2023-12-22": 28569,
-  "2023-12-23": 28606,
-  "2023-12-24": 28641,
-  "2023-12-25": 28674,
-  "2023-12-26": 28695,
-  "2023-12-27": 28711,
-  "2023-12-30": 28765,
-  "2023-12-31": 28814,
-  "2024-01-01": 28847,
-  "2024-01-02": 28865,
-  "2024-01-03": 28888
+  "2024-01-17": 29266,
+  "date_first_scraped": "2023-01-14",
+  "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
+  "name": "This Is Liran' Roll",
+  "tracks": [
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132506,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm"
+    },
+    {
+      "album": {
+        "name": "Juntos por el Rock, Vol. 2",
+        "url": "https://open.spotify.com/album/3QkDfFUpzoOUYlIo9feu9a"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 255493,
+      "name": "Aburrida la Vida",
+      "url": "https://open.spotify.com/track/3cHLxUCHomsQ1J9MuNTCBw"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os De Resistencia (En Vivo)",
+        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219271,
+      "name": "As\u00ed Es Mi Vida (En Vivo)",
+      "url": "https://open.spotify.com/track/5N5r3huZlmt9wBgBN5YUMR"
+    },
+    {
+      "album": {
+        "name": "Quiero Cambiar (Remastered)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418795,
+      "name": "Barco Azul - Remastered",
+      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
+    },
+    {
+      "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200388,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
+    },
+    {
+      "album": {
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285893,
+      "name": "Cham\u00e1n",
+      "url": "https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8"
+    },
+    {
+      "album": {
+        "name": "Cinco Minutos",
+        "url": "https://open.spotify.com/album/2unwZbPaSvrV5Z3FLVKw4v"
+      },
+      "artists": [
+        {
+          "name": "Susanne Smolinska",
+          "url": "https://open.spotify.com/artist/31GlKkTwDtUaNgtWFiM7o9"
+        },
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 281652,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/0pBNdm9fBnHwQwaCrXASnr"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230713,
+      "name": "Cuarto para las Dos",
+      "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
+    },
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Diez Cuarenta y Siete",
+      "url": "https://open.spotify.com/track/3imJOXUD815t4kSwrY8HwA"
+    },
+    {
+      "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216177,
+      "name": "Dulce Ivonne",
+      "url": "https://open.spotify.com/track/4AsHJjBLfQgWRqwUX4HNJq"
+    },
+    {
+      "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266611,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/4st4LrNbI9DKOFwBEZ1W3R"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221843,
+      "name": "El Alcohol",
+      "url": "https://open.spotify.com/track/7q707LG7vCu4IEqFF2vzqf"
+    },
+    {
+      "album": {
+        "name": "En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/35S7ju9Drf5BQfUpQO4OTE"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284186,
+      "name": "El Pasado - En Vivo",
+      "url": "https://open.spotify.com/track/7bGAqkZPbllJnbAgdULh0D"
+    },
+    {
+      "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195326,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/3cxoJ9W0VD9FJLHlPYcLQg"
+    },
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319613,
+      "name": "El Pianista",
+      "url": "https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX"
+    },
+    {
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "El Tren",
+      "url": "https://open.spotify.com/track/7FEVzk8oZ43d1s09X6zrdd"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os De Resistencia (En Vivo)",
+        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344633,
+      "name": "El \u00daltimo Viaje (En Vivo)",
+      "url": "https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn"
+    },
+    {
+      "album": {
+        "name": "Cambios",
+        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239583,
+      "name": "Eres Fuego",
+      "url": "https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7"
+    },
+    {
+      "album": {
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Es Mi Vida",
+      "url": "https://open.spotify.com/track/1DYibmwksZBCZ8lNvYuxA3"
+    },
+    {
+      "album": {
+        "name": "Cambios",
+        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219475,
+      "name": "Esta Vez",
+      "url": "https://open.spotify.com/track/51pMwEZk5URoc852pQ565Y"
+    },
+    {
+      "album": {
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 221320,
+      "name": "Esta Vez",
+      "url": "https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 171038,
+      "name": "Este No Es Tu D\u00eda",
+      "url": "https://open.spotify.com/track/3mPjaBpH7EXkweRJUx79Ke"
+    },
+    {
+      "album": {
+        "name": "Estoy Perdiendo La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202556,
+      "name": "Estoy Perdiendo La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
+    },
+    {
+      "album": {
+        "name": "Siguiendo La L\u00ednea",
+        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258950,
+      "name": "F\u00fagate Conmigo",
+      "url": "https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6"
+    },
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q"
+    },
+    {
+      "album": {
+        "name": "Va por Ti",
+        "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258973,
+      "name": "Kisiera",
+      "url": "https://open.spotify.com/track/5DY35CHTE6FV8v2odkxV4W"
+    },
+    {
+      "album": {
+        "name": "En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/6NwUNxmwxnNDiYoxNU2q2u"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "La Falsa",
+      "url": "https://open.spotify.com/track/6eWXNEADmfH0yCXZEZ2yHH"
+    },
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224040,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol"
+    },
+    {
+      "album": {
+        "name": "Cambios",
+        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223886,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/7raSxI12uRYOuiDE77VR4D"
+    },
+    {
+      "album": {
+        "name": "Quiero Cambiar (Remastered)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213809,
+      "name": "La Vida Es Corta - Remastered",
+      "url": "https://open.spotify.com/track/6GP0NwjA95OGQiwIbmen36"
+    },
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 288293,
+      "name": "Le Dir\u00e9 a las Estrellas",
+      "url": "https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv"
+    },
+    {
+      "album": {
+        "name": "Quiero Cambiar (Remastered)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252029,
+      "name": "Mandar una Flor - Remastered",
+      "url": "https://open.spotify.com/track/768gdK0kUekavH5CCqie9o"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141734,
+      "name": "Mario",
+      "url": "https://open.spotify.com/track/7ucQ19pWXGcH8ypZFQNMLL"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264289,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215527,
+      "name": "Memorias",
+      "url": "https://open.spotify.com/track/3XY2U7BaIaMtcJt8Z6V1Ta"
+    },
+    {
+      "album": {
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231880,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/5feROmYN9sejKGAXKOv2Uf"
+    },
+    {
+      "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234057,
+      "name": "Ni\u00f1os de la Calle",
+      "url": "https://open.spotify.com/track/5BqUNhd6Ok2SxZsgCzaCsT"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5qhTvBl63Blw114264HUbn"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/3CCpEEfnMEJv7vlvKyTuZM"
+    },
+    {
+      "album": {
+        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272146,
+      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5qhTvBl63Blw114264HUbn"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262026,
+      "name": "No Todo Es Oro",
+      "url": "https://open.spotify.com/track/328Y6znBICauFKcJhJQ94W"
+    },
+    {
+      "album": {
+        "name": "Va por Ti",
+        "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/2iSj3AfJodVCat05Pp7a7r"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302323,
+      "name": "Pensaba en Ti",
+      "url": "https://open.spotify.com/track/6aGKGvcWMiQOwvlnxAb9ho"
+    },
+    {
+      "album": {
+        "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 2",
+        "url": "https://open.spotify.com/album/7IVey8jBvdauARuUEgPkjz"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/6g3Y2SO1mDnZfFLkskb0xU"
+    },
+    {
+      "album": {
+        "name": "D.F.",
+        "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279973,
+      "name": "Piensa en Mi",
+      "url": "https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265404,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH"
+    },
+    {
+      "album": {
+        "name": "Juntos por el Rock, Vol. 2",
+        "url": "https://open.spotify.com/album/3QkDfFUpzoOUYlIo9feu9a"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 157533,
+      "name": "Purgante de Amor",
+      "url": "https://open.spotify.com/track/5Ig9mRaPm4xRV11ASuxGcG"
+    },
+    {
+      "album": {
+        "name": "Quiero Cambiar (Remastered)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193700,
+      "name": "Quiero Cambiar - Remastered",
+      "url": "https://open.spotify.com/track/1sO2DqYJGiX5Gy6Jl4bCnx"
+    },
+    {
+      "album": {
+        "name": "15 Rolitas de Amor, Vol. 8",
+        "url": "https://open.spotify.com/album/0i8811SgM9nYes9hu8ORfi"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258933,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268376,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/4rFb49tbNuqaTc5VUZKLua"
+    },
+    {
+      "album": {
+        "name": "Quiero Cambiar (Remastered)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311379,
+      "name": "Se Acabo - Remastered",
+      "url": "https://open.spotify.com/track/4f1HgE54tbid4JMaEYvqkS"
+    },
+    {
+      "album": {
+        "name": "Siguiendo La L\u00ednea",
+        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254615,
+      "name": "Sin Tu Latido",
+      "url": "https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344677,
+      "name": "Tiempo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/50rKIJTytRZaR1Ndyc9qj3"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158267,
+      "name": "Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/5UGbVlpbOP666CxjZ1ma5A"
+    },
+    {
+      "album": {
+        "name": "D.F.",
+        "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243946,
+      "name": "Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/452k6YfwmgEowaTVupBo9s"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301580,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/6RmwaYf0muJ2WnDwc9rc3G"
+    },
+    {
+      "album": {
+        "name": "Quiero Cambiar (Remastered)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174428,
+      "name": "Ya Lo Se - Remastered",
+      "url": "https://open.spotify.com/track/25XLmWiicRdRlcoaHSrAkW"
+    },
+    {
+      "album": {
+        "name": "Drogas, Sexo y Alcohol",
+        "url": "https://open.spotify.com/album/3MGjJJHH8Jc7ZVbgab0hwO"
+      },
+      "artists": [
+        {
+          "name": "Alma Callejera",
+          "url": "https://open.spotify.com/artist/5XI6PvbOvooRX47lw2VOyO"
+        },
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 215174,
+      "name": "Ya no quiero verte",
+      "url": "https://open.spotify.com/track/0wX4Lj26Hy8WiPeentJPhU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40wGR1"
 }

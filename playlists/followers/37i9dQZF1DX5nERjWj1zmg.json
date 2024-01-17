@@ -1,735 +1,727 @@
 {
-  "2021-12-25": 51884,
-  "2021-12-26": 51880,
-  "2021-12-27": 51876,
-  "2021-12-28": 51876,
-  "2021-12-29": 51876,
-  "2021-12-30": 51873,
-  "2021-12-31": 51877,
-  "2022-01-01": 51872,
-  "2022-01-02": 51872,
-  "2022-01-03": 51875,
-  "2022-01-04": 51872,
-  "2022-01-05": 51875,
-  "2022-01-06": 51879,
-  "2022-01-07": 51881,
-  "2022-01-08": 51882,
-  "2022-01-09": 51882,
-  "2022-01-10": 51882,
-  "2022-01-11": 51884,
-  "2022-01-12": 51877,
-  "2022-01-13": 51881,
-  "2022-01-14": 51883,
-  "2022-01-15": 51879,
-  "2022-01-16": 51880,
-  "2022-01-17": 51877,
-  "2022-01-18": 51877,
-  "2022-01-19": 51875,
-  "2022-01-20": 51873,
-  "2022-01-21": 51871,
-  "2022-01-22": 51871,
-  "2022-01-23": 51879,
-  "2022-01-24": 51876,
-  "2022-01-25": 51873,
-  "2022-01-26": 51875,
-  "2022-01-27": 51874,
-  "2022-01-28": 51870,
-  "2022-01-29": 51867,
-  "2022-01-30": 51864,
-  "2022-01-31": 51860,
-  "2022-02-01": 51858,
-  "2022-02-02": 51856,
-  "2022-02-03": 51851,
-  "2022-02-04": 51851,
-  "2022-02-05": 51850,
-  "2022-02-06": 51850,
-  "2022-02-07": 51846,
-  "2022-02-08": 51846,
-  "2022-02-09": 51848,
-  "2022-02-10": 51846,
-  "2022-02-11": 51844,
-  "2022-02-12": 51844,
-  "2022-02-13": 51843,
-  "2022-02-14": 51839,
-  "2022-02-15": 51831,
-  "2022-02-16": 51828,
-  "2022-02-17": 51827,
-  "2022-02-18": 51822,
-  "2022-02-19": 51816,
-  "2022-02-20": 51817,
-  "2022-02-21": 51818,
-  "2022-02-22": 51816,
-  "2022-02-23": 51812,
-  "2022-02-24": 51806,
-  "2022-02-25": 51807,
-  "2022-02-26": 51803,
-  "2022-02-27": 51799,
-  "2022-02-28": 51799,
-  "2022-03-01": 51797,
-  "2022-03-02": 51794,
-  "2022-03-03": 51794,
-  "2022-03-04": 51788,
-  "2022-03-05": 51791,
-  "2022-03-06": 51791,
-  "2022-03-07": 51787,
-  "2022-03-08": 51784,
-  "2022-03-09": 51783,
-  "2022-03-10": 51781,
-  "2022-03-11": 51780,
-  "2022-03-12": 51778,
-  "2022-03-13": 51778,
-  "2022-03-14": 51773,
-  "2022-03-15": 51769,
-  "2022-03-16": 51766,
-  "2022-03-17": 51764,
-  "2022-03-18": 51763,
-  "2022-03-19": 51763,
-  "2022-03-20": 51763,
-  "2022-03-21": 51755,
-  "2022-03-22": 51756,
-  "2022-03-23": 51750,
-  "2022-03-24": 51749,
-  "2022-03-25": 51746,
-  "2022-03-26": 51743,
-  "2022-03-27": 51742,
-  "2022-03-28": 51744,
-  "2022-03-30": 51744,
-  "2022-03-31": 51744,
-  "2022-04-01": 51744,
-  "2022-04-02": 51744,
-  "2022-04-03": 51744,
-  "2022-04-04": 51744,
-  "2022-04-05": 51744,
-  "2022-04-06": 51744,
-  "2022-04-07": 51744,
-  "2022-04-08": 51744,
-  "2022-04-09": 51744,
-  "2022-04-10": 51744,
-  "2022-04-11": 51744,
-  "2022-04-12": 51744,
-  "2022-04-13": 51744,
-  "2022-04-14": 51744,
-  "2022-04-15": 51744,
-  "2022-04-16": 51744,
-  "2022-04-17": 51744,
-  "2022-04-18": 51744,
-  "2022-04-19": 51744,
-  "2022-04-20": 51744,
-  "2022-04-21": 51744,
-  "2022-04-22": 51744,
-  "2022-04-23": 51744,
-  "2022-04-24": 51744,
-  "2022-04-25": 51744,
-  "2022-04-26": 51744,
-  "2022-04-27": 51744,
-  "2022-04-28": 51744,
-  "2022-04-29": 51744,
-  "2022-04-30": 51744,
-  "2022-05-01": 51744,
-  "2022-05-02": 51744,
-  "2022-05-03": 51744,
-  "2022-05-04": 51744,
-  "2022-05-05": 51744,
-  "2022-05-06": 51744,
-  "2022-05-07": 51744,
-  "2022-05-08": 51744,
-  "2022-05-09": 51744,
-  "2022-05-10": 51744,
-  "2022-05-11": 51744,
-  "2022-05-12": 51744,
-  "2022-05-13": 51744,
-  "2022-05-14": 51744,
-  "2022-05-15": 51744,
-  "2022-05-16": 51744,
-  "2022-05-17": 51744,
-  "2022-05-18": 51744,
-  "2022-05-19": 51744,
-  "2022-05-20": 51744,
-  "2022-05-21": 51744,
-  "2022-05-22": 51744,
-  "2022-05-23": 51744,
-  "2022-05-24": 51744,
-  "2022-05-25": 51744,
-  "2022-05-26": 51744,
-  "2022-05-27": 51744,
-  "2022-05-28": 51744,
-  "2022-05-29": 51744,
-  "2022-05-30": 51744,
-  "2022-05-31": 51744,
-  "2022-06-01": 51744,
-  "2022-06-02": 51744,
-  "2022-06-03": 51744,
-  "2022-06-04": 51744,
-  "2022-06-05": 51744,
-  "2022-06-06": 51744,
-  "2022-06-07": 51744,
-  "2022-06-08": 51744,
-  "2022-06-09": 51744,
-  "2022-06-10": 51744,
-  "2022-06-11": 51744,
-  "2022-06-12": 51744,
-  "2022-06-13": 51744,
-  "2022-06-14": 51744,
-  "2022-06-15": 51744,
-  "2022-06-16": 51744,
-  "2022-06-17": 51744,
-  "2022-06-18": 51744,
-  "2022-06-19": 51744,
-  "2022-06-20": 51744,
-  "2022-06-21": 51744,
-  "2022-06-22": 51744,
-  "2022-06-23": 51744,
-  "2022-06-24": 51744,
-  "2022-06-25": 51744,
-  "2022-06-26": 51744,
-  "2022-06-27": 51744,
-  "2022-06-28": 51744,
-  "2022-06-29": 51744,
-  "2022-06-30": 51744,
-  "2022-07-01": 51744,
-  "2022-07-02": 51744,
-  "2022-07-03": 51744,
-  "2022-07-04": 51744,
-  "2022-07-05": 51744,
-  "2022-07-06": 51744,
-  "2022-07-07": 51744,
-  "2022-07-08": 51744,
-  "2022-07-09": 51744,
-  "2022-07-10": 51744,
-  "2022-07-11": 51744,
-  "2022-07-12": 51744,
-  "2022-07-13": 51744,
-  "2022-07-14": 51744,
-  "2022-07-15": 51744,
-  "2022-07-16": 51744,
-  "2022-07-17": 51744,
-  "2022-07-18": 51744,
-  "2022-07-19": 51744,
-  "2022-07-20": 51744,
-  "2022-07-21": 51744,
-  "2022-07-22": 51744,
-  "2022-07-23": 51744,
-  "2022-07-24": 51744,
-  "2022-07-25": 51744,
-  "2022-07-26": 51744,
-  "2022-07-27": 51744,
-  "2022-07-28": 51744,
-  "2022-07-29": 51744,
-  "2022-07-30": 51744,
-  "2022-07-31": 51744,
-  "2022-08-01": 51744,
-  "2022-08-02": 51744,
-  "2022-08-03": 51744,
-  "2022-08-04": 51744,
-  "2022-08-05": 51744,
-  "2022-08-06": 51744,
-  "2022-08-07": 51744,
-  "2022-08-08": 51744,
-  "2022-08-09": 51744,
-  "2022-08-10": 51744,
-  "2022-08-11": 51744,
-  "2022-08-12": 51744,
-  "2022-08-13": 51744,
-  "2022-08-14": 51744,
-  "2022-08-15": 51744,
-  "2022-08-16": 51744,
-  "2022-08-17": 51744,
-  "2022-08-18": 51744,
-  "2022-08-19": 51744,
-  "2022-08-20": 51744,
-  "2022-08-21": 51744,
-  "2022-08-22": 51744,
-  "2022-08-23": 51744,
-  "2022-08-24": 51744,
-  "2022-08-25": 51744,
-  "2022-08-26": 51744,
-  "2022-08-27": 51744,
-  "2022-08-28": 51744,
-  "2022-08-29": 51744,
-  "2022-08-30": 51744,
-  "2022-08-31": 51744,
-  "2022-09-01": 51744,
-  "2022-09-02": 51744,
-  "2022-09-03": 51744,
-  "2022-09-04": 51744,
-  "2022-09-05": 51744,
-  "2022-09-06": 51744,
-  "2022-09-07": 51744,
-  "2022-09-09": 51744,
-  "2022-09-10": 51744,
-  "2022-09-11": 51744,
-  "2022-09-12": 51744,
-  "2022-09-13": 51744,
-  "2022-09-15": 51744,
-  "2022-09-16": 51744,
-  "2022-09-17": 51744,
-  "2022-09-18": 51744,
-  "2022-09-19": 51744,
-  "2022-09-20": 51744,
-  "2022-09-21": 51744,
-  "2022-09-22": 51744,
-  "2022-09-23": 51744,
-  "2022-09-24": 51744,
-  "2022-09-25": 51744,
-  "2022-09-26": 51744,
-  "2022-09-27": 51744,
-  "2022-09-28": 51744,
-  "2022-09-29": 51744,
-  "2022-09-30": 51744,
-  "2022-10-01": 51744,
-  "2022-10-02": 51744,
-  "2022-10-03": 51744,
-  "2022-10-04": 51744,
-  "2022-10-05": 51744,
-  "2022-10-06": 51744,
-  "2022-10-07": 51744,
-  "2022-10-08": 51744,
-  "2022-10-09": 51744,
-  "2022-10-10": 51744,
-  "2022-10-11": 51744,
-  "2022-10-12": 51744,
-  "2022-10-13": 51744,
-  "2022-10-14": 51744,
-  "2022-10-15": 51744,
-  "2022-10-16": 51744,
-  "2022-10-17": 51744,
-  "2022-10-18": 51744,
-  "2022-10-19": 51744,
-  "2022-10-20": 51744,
-  "2022-10-21": 51744,
-  "2022-10-22": 51744,
-  "2022-10-23": 51744,
-  "2022-10-24": 51744,
-  "2022-10-25": 51744,
-  "2022-10-26": 51744,
-  "2022-10-27": 51744,
-  "2022-10-28": 51744,
-  "2022-10-29": 51744,
-  "2022-10-30": 51744,
-  "2022-10-31": 51744,
-  "2022-11-01": 51744,
-  "2022-11-02": 51744,
-  "2022-11-03": 51744,
-  "2022-11-04": 51744,
-  "2022-11-05": 51744,
-  "2022-11-06": 51744,
-  "2022-11-07": 51744,
-  "2022-11-08": 51744,
-  "2022-11-09": 51744,
-  "2022-11-10": 51744,
-  "2022-11-11": 51744,
-  "2022-11-12": 51744,
-  "2022-11-13": 51744,
-  "2022-11-14": 51744,
-  "2022-11-15": 51744,
-  "2022-11-16": 51744,
-  "2022-11-17": 51744,
-  "2022-11-18": 51744,
-  "2022-11-19": 51744,
-  "2022-11-20": 51744,
-  "2022-11-21": 51744,
-  "2022-11-22": 51744,
-  "2022-11-23": 51744,
-  "2022-11-24": 51744,
-  "2022-11-25": 51744,
-  "2022-11-26": 51744,
-  "2022-11-27": 51744,
-  "2022-11-28": 51744,
-  "2022-11-29": 51744,
-  "2022-11-30": 51744,
-  "2022-12-01": 51744,
-  "2022-12-02": 51744,
-  "2022-12-03": 51744,
-  "2022-12-04": 51744,
-  "2022-12-05": 51744,
-  "2022-12-06": 51744,
-  "2022-12-07": 51744,
-  "2022-12-08": 51744,
-  "2022-12-09": 51744,
-  "2022-12-10": 51744,
-  "2022-12-11": 51744,
-  "2022-12-12": 51744,
-  "2022-12-13": 51744,
-  "2022-12-14": 51744,
-  "2022-12-15": 51744,
-  "2022-12-16": 51744,
-  "2022-12-17": 51744,
-  "2022-12-18": 51744,
-  "2022-12-19": 51744,
-  "2022-12-20": 51744,
-  "2022-12-21": 51744,
-  "2022-12-22": 51744,
-  "2022-12-24": 51744,
-  "2022-12-25": 51744,
-  "2022-12-26": 51744,
-  "2022-12-27": 51744,
-  "2022-12-28": 51744,
-  "2022-12-29": 51744,
-  "2022-12-30": 51744,
-  "2022-12-31": 51744,
-  "2023-01-01": 51744,
-  "2023-01-02": 51744,
-  "2023-01-03": 51744,
-  "2023-01-04": 51744,
-  "2023-01-05": 51744,
-  "2023-01-06": 51744,
-  "2023-01-07": 51744,
-  "2023-01-08": 51744,
-  "2023-01-09": 51744,
-  "2023-01-10": 51744,
-  "2023-01-11": 51744,
-  "2023-01-12": 51744,
-  "2023-01-13": 51744,
-  "2023-01-14": 51744,
-  "2023-01-15": 51744,
-  "2023-01-16": 51744,
-  "2023-01-17": 51744,
-  "2023-01-18": 51744,
-  "2023-01-19": 51744,
-  "2023-01-20": 51744,
-  "2023-01-21": 51744,
-  "2023-01-22": 51744,
-  "2023-01-23": 51744,
-  "2023-01-24": 51744,
-  "2023-01-25": 51744,
-  "2023-01-26": 51744,
-  "2023-01-27": 51744,
-  "2023-01-28": 51744,
-  "2023-01-29": 51744,
-  "2023-01-30": 51744,
-  "2023-01-31": 51744,
-  "2023-02-01": 51744,
-  "2023-02-02": 51744,
-  "2023-02-03": 51744,
-  "2023-02-04": 51744,
-  "2023-02-05": 51744,
-  "2023-02-06": 51744,
-  "2023-02-07": 51744,
-  "2023-02-08": 51744,
-  "2023-02-09": 51744,
-  "2023-02-10": 51744,
-  "2023-02-11": 51744,
-  "2023-02-12": 51744,
-  "2023-02-13": 51744,
-  "2023-02-14": 51744,
-  "2023-02-15": 51744,
-  "2023-02-16": 51744,
-  "2023-02-17": 51744,
-  "2023-02-18": 51744,
-  "2023-02-19": 51744,
-  "2023-02-20": 51744,
-  "2023-02-21": 51744,
-  "2023-02-22": 51744,
-  "2023-02-23": 51744,
-  "2023-02-24": 51744,
-  "2023-02-25": 51744,
-  "2023-02-26": 51744,
-  "2023-02-27": 51744,
-  "2023-02-28": 51744,
-  "2023-03-01": 51744,
-  "2023-03-02": 51744,
-  "2023-03-03": 51744,
-  "2023-03-04": 51744,
-  "2023-03-05": 51744,
-  "2023-03-06": 51744,
-  "2023-03-07": 51744,
-  "2023-03-08": 51744,
-  "2023-03-09": 51744,
-  "2023-03-10": 51744,
-  "2023-03-11": 51744,
-  "2023-03-12": 51744,
-  "2023-03-13": 51744,
-  "2023-03-14": 51744,
-  "2023-03-15": 51744,
-  "2023-03-16": 51744,
-  "2023-03-17": 51744,
-  "2023-03-18": 51744,
-  "2023-03-19": 51744,
-  "2023-03-20": 51744,
-  "2023-03-21": 51744,
-  "2023-03-22": 51744,
-  "2023-03-23": 51744,
-  "2023-03-24": 51744,
-  "2023-03-25": 51744,
-  "2023-03-26": 51744,
-  "2023-03-27": 51744,
-  "2023-03-28": 51744,
-  "2023-03-29": 51744,
-  "2023-03-30": 51744,
-  "2023-03-31": 51744,
-  "2023-04-01": 51744,
-  "2023-04-02": 51744,
-  "2023-04-03": 51744,
-  "2023-04-04": 51744,
-  "2023-04-05": 51744,
-  "2023-04-06": 51744,
-  "2023-04-07": 51744,
-  "2023-04-09": 51744,
-  "2023-04-10": 51744,
-  "2023-04-11": 51744,
-  "2023-04-12": 51744,
-  "2023-04-13": 51744,
-  "2023-04-14": 51744,
-  "2023-04-15": 51744,
-  "2023-04-16": 51744,
-  "2023-04-17": 51744,
-  "2023-04-18": 51744,
-  "2023-04-19": 51744,
-  "2023-04-20": 51744,
-  "2023-04-21": 51744,
-  "2023-04-22": 51744,
-  "2023-04-23": 51744,
-  "2023-04-24": 51744,
-  "2023-04-25": 51744,
-  "2023-04-26": 51744,
-  "2023-04-27": 51744,
-  "2023-04-28": 51744,
-  "2023-04-29": 51744,
-  "2023-04-30": 51744,
-  "2023-05-01": 51744,
-  "2023-05-02": 51744,
-  "2023-05-03": 51744,
-  "2023-05-04": 51744,
-  "2023-05-05": 51744,
-  "2023-05-06": 51744,
-  "2023-05-07": 51744,
-  "2023-05-08": 51744,
-  "2023-05-09": 51744,
-  "2023-05-10": 51744,
-  "2023-05-11": 51744,
-  "2023-05-12": 51744,
-  "2023-05-13": 51744,
-  "2023-05-14": 51744,
-  "2023-05-15": 51744,
-  "2023-05-16": 51744,
-  "2023-05-17": 51744,
-  "2023-05-18": 51744,
-  "2023-05-19": 51744,
-  "2023-05-20": 51744,
-  "2023-05-21": 51744,
-  "2023-05-22": 51744,
-  "2023-05-23": 51744,
-  "2023-05-24": 51744,
-  "2023-05-25": 51744,
-  "2023-05-26": 51744,
-  "2023-05-27": 51744,
-  "2023-05-28": 51744,
-  "2023-05-29": 51744,
-  "2023-05-30": 51744,
-  "2023-05-31": 51744,
-  "2023-06-01": 51744,
-  "2023-06-02": 51744,
-  "2023-06-03": 51744,
-  "2023-06-04": 51744,
-  "2023-06-05": 51744,
-  "2023-06-06": 51744,
-  "2023-06-07": 51744,
-  "2023-06-08": 51744,
-  "2023-06-09": 51744,
-  "2023-06-10": 51744,
-  "2023-06-11": 51744,
-  "2023-06-12": 51744,
-  "2023-06-13": 51744,
-  "2023-06-14": 51744,
-  "2023-06-15": 51744,
-  "2023-06-16": 51744,
-  "2023-06-17": 51744,
-  "2023-06-18": 51744,
-  "2023-06-19": 51744,
-  "2023-06-20": 51744,
-  "2023-06-21": 51744,
-  "2023-06-22": 51744,
-  "2023-06-23": 51744,
-  "2023-06-24": 51744,
-  "2023-06-25": 51744,
-  "2023-06-26": 51744,
-  "2023-06-27": 51744,
-  "2023-06-28": 51744,
-  "2023-06-29": 51744,
-  "2023-06-30": 51744,
-  "2023-07-01": 51744,
-  "2023-07-02": 51744,
-  "2023-07-03": 51744,
-  "2023-07-04": 51744,
-  "2023-07-05": 51744,
-  "2023-07-06": 51744,
-  "2023-07-07": 51744,
-  "2023-07-08": 51744,
-  "2023-07-09": 51744,
-  "2023-07-10": 51744,
-  "2023-07-11": 51744,
-  "2023-07-12": 51744,
-  "2023-07-13": 51744,
-  "2023-07-14": 51744,
-  "2023-07-15": 51744,
-  "2023-07-16": 51744,
-  "2023-07-17": 51744,
-  "2023-07-18": 51744,
-  "2023-07-19": 51744,
-  "2023-07-20": 51744,
-  "2023-07-21": 51744,
-  "2023-07-22": 51744,
-  "2023-07-23": 51744,
-  "2023-07-24": 51744,
-  "2023-07-25": 51744,
-  "2023-07-26": 51744,
-  "2023-07-27": 51744,
-  "2023-07-28": 51744,
-  "2023-07-29": 51744,
-  "2023-07-30": 51744,
-  "2023-07-31": 51744,
-  "2023-08-01": 51744,
-  "2023-08-02": 51744,
-  "2023-08-03": 51744,
-  "2023-08-04": 51744,
-  "2023-08-05": 51744,
-  "2023-08-06": 51744,
-  "2023-08-07": 51744,
-  "2023-08-08": 51744,
-  "2023-08-09": 51744,
-  "2023-08-10": 51744,
-  "2023-08-11": 51744,
-  "2023-08-12": 51744,
-  "2023-08-13": 51744,
-  "2023-08-14": 51744,
-  "2023-08-15": 51744,
-  "2023-08-16": 51744,
-  "2023-08-17": 51744,
-  "2023-08-18": 51744,
-  "2023-08-19": 51744,
-  "2023-08-20": 51744,
-  "2023-08-21": 51744,
-  "2023-08-22": 51744,
-  "2023-08-23": 51744,
-  "2023-08-24": 51744,
-  "2023-08-25": 51744,
-  "2023-08-26": 51744,
-  "2023-08-27": 51744,
-  "2023-08-28": 51744,
-  "2023-08-29": 51744,
-  "2023-08-30": 51744,
-  "2023-08-31": 51744,
-  "2023-09-01": 51744,
-  "2023-09-02": 51744,
-  "2023-09-03": 51744,
-  "2023-09-04": 51744,
-  "2023-09-05": 51744,
-  "2023-09-06": 51744,
-  "2023-09-07": 51744,
-  "2023-09-08": 51744,
-  "2023-09-09": 51744,
-  "2023-09-10": 51744,
-  "2023-09-11": 51744,
-  "2023-09-12": 51744,
-  "2023-09-13": 51744,
-  "2023-09-14": 51744,
-  "2023-09-15": 51744,
-  "2023-09-16": 51744,
-  "2023-09-17": 51744,
-  "2023-09-18": 51744,
-  "2023-09-19": 51744,
-  "2023-09-20": 51744,
-  "2023-09-21": 51744,
-  "2023-09-22": 51744,
-  "2023-09-23": 51744,
-  "2023-09-24": 51744,
-  "2023-09-25": 51744,
-  "2023-09-26": 51744,
-  "2023-09-27": 51744,
-  "2023-09-28": 51744,
-  "2023-09-29": 51744,
-  "2023-09-30": 51744,
-  "2023-10-01": 51744,
-  "2023-10-02": 51744,
-  "2023-10-03": 51744,
-  "2023-10-04": 51744,
-  "2023-10-05": 51744,
-  "2023-10-06": 51744,
-  "2023-10-07": 51744,
-  "2023-10-08": 51744,
-  "2023-10-09": 51744,
-  "2023-10-10": 51744,
-  "2023-10-11": 51744,
-  "2023-10-12": 51744,
-  "2023-10-13": 51744,
-  "2023-10-14": 51744,
-  "2023-10-15": 51744,
-  "2023-10-16": 51744,
-  "2023-10-17": 51744,
-  "2023-10-18": 51744,
-  "2023-10-19": 51744,
-  "2023-10-20": 51744,
-  "2023-10-21": 51744,
-  "2023-10-22": 51744,
-  "2023-10-23": 51744,
-  "2023-10-24": 51744,
-  "2023-10-25": 51744,
-  "2023-10-26": 51744,
-  "2023-10-27": 51744,
-  "2023-10-28": 51744,
-  "2023-10-29": 51744,
-  "2023-10-30": 51744,
-  "2023-10-31": 51744,
-  "2023-11-01": 51744,
-  "2023-11-02": 51744,
-  "2023-11-03": 51744,
-  "2023-11-04": 51744,
-  "2023-11-05": 51744,
-  "2023-11-06": 51744,
-  "2023-11-07": 51744,
-  "2023-11-08": 51744,
-  "2023-11-09": 51744,
-  "2023-11-10": 51744,
-  "2023-11-11": 51744,
-  "2023-11-12": 51744,
-  "2023-11-13": 51744,
-  "2023-11-14": 51744,
-  "2023-11-15": 51744,
-  "2023-11-16": 51744,
-  "2023-11-17": 51744,
-  "2023-11-18": 51744,
-  "2023-11-19": 51744,
-  "2023-11-20": 51744,
-  "2023-11-21": 51744,
-  "2023-11-22": 51744,
-  "2023-11-23": 51744,
-  "2023-11-24": 51744,
-  "2023-11-25": 51744,
-  "2023-11-26": 51744,
-  "2023-11-27": 51744,
-  "2023-11-28": 51744,
-  "2023-11-29": 51744,
-  "2023-11-30": 51744,
-  "2023-12-01": 51744,
-  "2023-12-02": 51744,
-  "2023-12-03": 51744,
-  "2023-12-04": 51744,
-  "2023-12-05": 51744,
-  "2023-12-06": 51744,
-  "2023-12-07": 51744,
-  "2023-12-08": 51744,
-  "2023-12-09": 51744,
-  "2023-12-10": 51744,
-  "2023-12-11": 51744,
-  "2023-12-12": 51744,
-  "2023-12-13": 51744,
-  "2023-12-14": 51744,
-  "2023-12-15": 51744,
-  "2023-12-16": 51744,
-  "2023-12-17": 51744,
-  "2023-12-18": 51744,
-  "2023-12-19": 51744,
-  "2023-12-20": 51744,
-  "2023-12-21": 51744,
-  "2023-12-22": 51744,
-  "2023-12-23": 51744,
-  "2023-12-24": 51744,
-  "2023-12-25": 51744,
-  "2023-12-26": 51744,
-  "2023-12-27": 51744,
-  "2023-12-30": 51744,
-  "2023-12-31": 51744,
-  "2024-01-01": 51744,
-  "2024-01-02": 51744,
-  "2024-01-03": 51744
+  "2024-01-17": 51744,
+  "date_first_scraped": "2021-12-21",
+  "description": "A selection of classic short stories and literature by women.",
+  "name": "Women's Lit",
+  "tracks": [
+    {
+      "album": {
+        "name": "Women's Short Stories - Vol 1",
+        "url": "https://open.spotify.com/album/1ojXJySkYMfqUSbYzArl5a"
+      },
+      "artists": [
+        {
+          "name": "Eve Karpf",
+          "url": "https://open.spotify.com/artist/5qBGuyitasg6iGuo3MUpR7"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1123893,
+      "name": "A Dill Pickle - Kathrine Mansfield",
+      "url": "https://open.spotify.com/track/1mte1McGLpKjgd2XDWXvKx"
+    },
+    {
+      "album": {
+        "name": "Classic Women's Short Stories",
+        "url": "https://open.spotify.com/album/4cSujrriUyHiLyVv1mZcqg"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2568401,
+      "name": "A Midsummer Night's Dream by Mary Lamb",
+      "url": "https://open.spotify.com/track/18i5tc7KHCJyfFp7IlQrKg"
+    },
+    {
+      "album": {
+        "name": "Classic Short Stories With a Twist",
+        "url": "https://open.spotify.com/album/0oCi8miXCt7z4DeY5Mw2i5"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706888,
+      "name": "A Pair of Silk Stockings By Kate Chopin",
+      "url": "https://open.spotify.com/track/4Uy7a8FIQFgfQTSvg7Zzzh"
+    },
+    {
+      "album": {
+        "name": "Short Stories By Kate Chopin",
+        "url": "https://open.spotify.com/album/68zDlynf8EAXHmdojVfYY1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621351,
+      "name": "A Respectable Woman",
+      "url": "https://open.spotify.com/track/1UqwiOtuiDB7It0gpgnHY3"
+    },
+    {
+      "album": {
+        "name": "Classic Women's Short Stories",
+        "url": "https://open.spotify.com/album/4cSujrriUyHiLyVv1mZcqg"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1294241,
+      "name": "A Venetian Night's Entertainment by Edith Wharton - Chapter One",
+      "url": "https://open.spotify.com/track/2iMqz7IeQHfh7IdWk1BU2O"
+    },
+    {
+      "album": {
+        "name": "Classic Women's Short Stories",
+        "url": "https://open.spotify.com/album/4cSujrriUyHiLyVv1mZcqg"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 870000,
+      "name": "A Venetian Night's Entertainment by Edith Wharton - Chapter Three",
+      "url": "https://open.spotify.com/track/086uC54LQ2XSOq2BNnixhT"
+    },
+    {
+      "album": {
+        "name": "Classic Women's Short Stories",
+        "url": "https://open.spotify.com/album/4cSujrriUyHiLyVv1mZcqg"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 833186,
+      "name": "A Venetian Night's Entertainment by Edith Wharton - Chapter Two",
+      "url": "https://open.spotify.com/track/3Bu3feY34uOwAUAEB45CUb"
+    },
+    {
+      "album": {
+        "name": "Virginia Woolf - The Short Stories",
+        "url": "https://open.spotify.com/album/42hPC8K7XSbDM5or0JHgkM"
+      },
+      "artists": [
+        {
+          "name": "Virginia Woolf",
+          "url": "https://open.spotify.com/artist/6BW96bn7aMQW9idufxJGF9"
+        },
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1845057,
+      "name": "An Unwritten Novel",
+      "url": "https://open.spotify.com/track/6P0LHgfPUolusqZWRtTvu4"
+    },
+    {
+      "album": {
+        "name": "Virginia Woolf - The Short Stories",
+        "url": "https://open.spotify.com/album/42hPC8K7XSbDM5or0JHgkM"
+      },
+      "artists": [
+        {
+          "name": "Virginia Woolf",
+          "url": "https://open.spotify.com/artist/6BW96bn7aMQW9idufxJGF9"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124772,
+      "name": "Blue & Green",
+      "url": "https://open.spotify.com/track/7zxYEpPy4av7DA0jEgmHde"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630680,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/1T67VbijAaGf19NFhnA5Je"
+    },
+    {
+      "album": {
+        "name": "Timeless Short Stories",
+        "url": "https://open.spotify.com/album/0ZFNnNLuB2zqa74KjTAHwk"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 960611,
+      "name": "Desiree's Baby By Kate Chopin",
+      "url": "https://open.spotify.com/track/0WjM1Vcl0TOQDXWKLq3vkE"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Gaskell - The Short Stories",
+        "url": "https://open.spotify.com/album/0lQ7ipCjhwcVFyudIGoaLb"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2503111,
+      "name": "Hand And Heart",
+      "url": "https://open.spotify.com/track/0XXGzAui5eiXrTpKKgaONU"
+    },
+    {
+      "album": {
+        "name": "Short Stories",
+        "url": "https://open.spotify.com/album/5AVdl5FKD7L4n0Z8hLj4C4"
+      },
+      "artists": [
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 925760,
+      "name": "Jamie Freel & The Young Lady - By Leticia Maclintock",
+      "url": "https://open.spotify.com/track/4NNHvgsMLwj2DBdp2a3ht4"
+    },
+    {
+      "album": {
+        "name": "Katherine Mansfield - The Short Stories",
+        "url": "https://open.spotify.com/album/1tGxY749EIe8zP9B5t7uEr"
+      },
+      "artists": [
+        {
+          "name": "Eve Karpf",
+          "url": "https://open.spotify.com/artist/5qBGuyitasg6iGuo3MUpR7"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 993767,
+      "name": "Life Of Ma Parker",
+      "url": "https://open.spotify.com/track/2z7r7P10KoqE1crJunbUhU"
+    },
+    {
+      "album": {
+        "name": "Edith Nesbit - The Short Stories",
+        "url": "https://open.spotify.com/album/78DKhcHdkVNwtnzTtUwru5"
+      },
+      "artists": [
+        {
+          "name": "Edith Nesbit",
+          "url": "https://open.spotify.com/artist/3lQxoOegeJWXxVPlbCrjrz"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2534965,
+      "name": "Man Size In Marble",
+      "url": "https://open.spotify.com/track/74JIgXP8x3TlPkj8tCfnHG"
+    },
+    {
+      "album": {
+        "name": "Maya Angelou Interview with Ebony Moments (Live Interview)",
+        "url": "https://open.spotify.com/album/0fEhPkcpzvV3QAxpGojyt4"
+      },
+      "artists": [
+        {
+          "name": "Maya Angelou",
+          "url": "https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304108,
+      "name": "Maya Angelou Interview with Ebony Moments - Live Interview",
+      "url": "https://open.spotify.com/track/3i5P8iTZNBjoccQm5jljsp"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Women's Short Stories",
+        "url": "https://open.spotify.com/album/4A7L0QE2nsIpbNKl6Fw1VY"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9lia Johnson",
+          "url": "https://open.spotify.com/artist/3PEsPL7wyGPLAP0dXZnIMk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1622613,
+      "name": "Mrs. Dalloway",
+      "url": "https://open.spotify.com/track/1k9LeLAzVmUwluAvL7C10F"
+    },
+    {
+      "album": {
+        "name": "Women's Short Stories - Vol 3",
+        "url": "https://open.spotify.com/album/00e4kDdD4K8YoyUixACQdC"
+      },
+      "artists": [
+        {
+          "name": "Eve Karpf",
+          "url": "https://open.spotify.com/artist/5qBGuyitasg6iGuo3MUpR7"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1430240,
+      "name": "Obtaining Supplies - Louisa May Alcott",
+      "url": "https://open.spotify.com/track/0j5YeotbfUFpLyHg7vu3Il"
+    },
+    {
+      "album": {
+        "name": "75th Golden Globes",
+        "url": "https://open.spotify.com/album/0qkgX98Mjgslj9ycSEh8Ed"
+      },
+      "artists": [
+        {
+          "name": "Oprah Winfrey",
+          "url": "https://open.spotify.com/artist/1pzHHVOWwwvu4IPWVle6RW"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504750,
+      "name": "Oprah 75th Golden Globes Cecil B. DeMille Award Acceptance Speech",
+      "url": "https://open.spotify.com/track/1xGn1kNBQe21ZDBiQ8igBJ"
+    },
+    {
+      "album": {
+        "name": "Words For You",
+        "url": "https://open.spotify.com/album/7MN6GoQ07ePSs74gVZwUVc"
+      },
+      "artists": [
+        {
+          "name": "Ruby Dee",
+          "url": "https://open.spotify.com/artist/4h3T07QIlR7ws1Kclf0x6A"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159280,
+      "name": "Phenomenal Woman By Maya Angelou",
+      "url": "https://open.spotify.com/track/45hRiC1zMG0mIjZX83JYdt"
+    },
+    {
+      "album": {
+        "name": "Louisa May Alcott - The Short Stories",
+        "url": "https://open.spotify.com/album/4Wg4ikJDpFZW4psNNAyPl0"
+      },
+      "artists": [
+        {
+          "name": "Louisa May Alcott",
+          "url": "https://open.spotify.com/artist/2nrOwOfPi788ITVo9RGiCX"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2887517,
+      "name": "Psyche's Art",
+      "url": "https://open.spotify.com/track/6eeM6OklGEcRXxqw4jXd3s"
+    },
+    {
+      "album": {
+        "name": "Women's Short Stories - Vol 3",
+        "url": "https://open.spotify.com/album/00e4kDdD4K8YoyUixACQdC"
+      },
+      "artists": [
+        {
+          "name": "Eve Karpf",
+          "url": "https://open.spotify.com/artist/5qBGuyitasg6iGuo3MUpR7"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2277653,
+      "name": "Some Ways Of Love - Charlotte Mew",
+      "url": "https://open.spotify.com/track/1pqT8L4vh7S42CrhaerANp"
+    },
+    {
+      "album": {
+        "name": "South Riding by Winifred Holtby",
+        "url": "https://open.spotify.com/album/1t6HoBmG4TEdPdXQ8H6ZSp"
+      },
+      "artists": [
+        {
+          "name": "Charles Laughton",
+          "url": "https://open.spotify.com/artist/74evDUMRVybeiMz6DJhSDs"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3197360,
+      "name": "South Riding",
+      "url": "https://open.spotify.com/track/42GWoIbtf8X05PC5NgLMWJ"
+    },
+    {
+      "album": {
+        "name": "Classic Women's Short Stories",
+        "url": "https://open.spotify.com/album/4cSujrriUyHiLyVv1mZcqg"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1370696,
+      "name": "The Cold Embrace by Mary Elizabeth Braddon",
+      "url": "https://open.spotify.com/track/5aoOfnLITg0Z5Ko03rrReD"
+    },
+    {
+      "album": {
+        "name": "Mary Shelley - The Short Stories",
+        "url": "https://open.spotify.com/album/4qSj97JRDm6fSPlcbmIPlf"
+      },
+      "artists": [
+        {
+          "name": "Mary Shelley",
+          "url": "https://open.spotify.com/artist/6BsAGrET0hgt9jFafbP4Om"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2272629,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/6BJUdDgmpwHvAMVKAjOFYc"
+    },
+    {
+      "album": {
+        "name": "Short Stories by Katherine Mansfield",
+        "url": "https://open.spotify.com/album/7w8QyXlIkGEqxZRN0DTu7W"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2044221,
+      "name": "The Garden Party",
+      "url": "https://open.spotify.com/track/2jEZoq9bwKr7h1tygPOFGP"
+    },
+    {
+      "album": {
+        "name": "Short Stories By Kate Chopin",
+        "url": "https://open.spotify.com/album/68zDlynf8EAXHmdojVfYY1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432250,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/3ZFrwTN1xxqm2sDrCPL4XS"
+    },
+    {
+      "album": {
+        "name": "Timeless Short Stories",
+        "url": "https://open.spotify.com/album/0ZFNnNLuB2zqa74KjTAHwk"
+      },
+      "artists": [
+        {
+          "name": "David Moore",
+          "url": "https://open.spotify.com/artist/1w50KY0tLIblQTpeGbyYYE"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594372,
+      "name": "The Lady's Maid By Katherine Mansfield",
+      "url": "https://open.spotify.com/track/6stJSTvSoRCKh4vmjBf9pl"
+    },
+    {
+      "album": {
+        "name": "Classic Women's Short Stories",
+        "url": "https://open.spotify.com/album/4cSujrriUyHiLyVv1mZcqg"
+      },
+      "artists": [
+        {
+          "name": "David Philo",
+          "url": "https://open.spotify.com/artist/1PY6JcH5JwOahx9uVwGMgV"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3782155,
+      "name": "The Lifted Veil by George Eliot - Chapter One",
+      "url": "https://open.spotify.com/track/5XYDUX4DILiYKanYSOi18h"
+    },
+    {
+      "album": {
+        "name": "Classic Women's Short Stories",
+        "url": "https://open.spotify.com/album/4cSujrriUyHiLyVv1mZcqg"
+      },
+      "artists": [
+        {
+          "name": "David Philo",
+          "url": "https://open.spotify.com/artist/1PY6JcH5JwOahx9uVwGMgV"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3449695,
+      "name": "The Lifted Veil by George Eliot - Chapter Two",
+      "url": "https://open.spotify.com/track/1WILdxbkJIOLwe1rzC1bm4"
+    },
+    {
+      "album": {
+        "name": "Edith Wharton - The Short Stories",
+        "url": "https://open.spotify.com/album/1JxHF93slNIlZe8mY8vuBo"
+      },
+      "artists": [
+        {
+          "name": "Janet Maw",
+          "url": "https://open.spotify.com/artist/13CEmnet0cV8RtoY1NxrXi"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2277506,
+      "name": "The Muse's Tradegy",
+      "url": "https://open.spotify.com/track/34ZaS7Z81gZwVQdGDHIyem"
+    },
+    {
+      "album": {
+        "name": "Classic Women's Short Stories",
+        "url": "https://open.spotify.com/album/4cSujrriUyHiLyVv1mZcqg"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2237407,
+      "name": "The Phantom Coach by Amelia Edwards",
+      "url": "https://open.spotify.com/track/63l4tBp35V4y5Hc7KCznSz"
+    },
+    {
+      "album": {
+        "name": "Women's Short Stories - Vol 1",
+        "url": "https://open.spotify.com/album/1ojXJySkYMfqUSbYzArl5a"
+      },
+      "artists": [
+        {
+          "name": "Eve Karpf",
+          "url": "https://open.spotify.com/artist/5qBGuyitasg6iGuo3MUpR7"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1706080,
+      "name": "The Sexton's Hero - Elizabeth Gaskell",
+      "url": "https://open.spotify.com/track/5ff6BedQUIPV7iB7bvi1Y3"
+    },
+    {
+      "album": {
+        "name": "Short Stories by Katherine Mansfield",
+        "url": "https://open.spotify.com/album/7w8QyXlIkGEqxZRN0DTu7W"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 841741,
+      "name": "The Singing Lesson",
+      "url": "https://open.spotify.com/track/1qq4ztwAtrs6hw5y7VmyyZ"
+    },
+    {
+      "album": {
+        "name": "Timeless Short Stories",
+        "url": "https://open.spotify.com/album/0ZFNnNLuB2zqa74KjTAHwk"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 792817,
+      "name": "The Storm By Kate Chopin",
+      "url": "https://open.spotify.com/track/7MCWxO1knxye25Q3zF8fzX"
+    },
+    {
+      "album": {
+        "name": "A Collection of Short Stories",
+        "url": "https://open.spotify.com/album/0rZVUz9yyb9oc829lwLRFT"
+      },
+      "artists": [
+        {
+          "name": "Emma Hignett",
+          "url": "https://open.spotify.com/artist/2I31OmKUbh6WRIX3mG2KzN"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426000,
+      "name": "The Story of an Hour by Kate Chopin",
+      "url": "https://open.spotify.com/track/6VBeeF9gLCnh8aZEM8OFY9"
+    },
+    {
+      "album": {
+        "name": "The Yellow Wallpaper",
+        "url": "https://open.spotify.com/album/7500P4Mgk6chPJxC7Hu60f"
+      },
+      "artists": [
+        {
+          "name": "David Moore",
+          "url": "https://open.spotify.com/artist/1w50KY0tLIblQTpeGbyYYE"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2190226,
+      "name": "The Yellow Wallpaper",
+      "url": "https://open.spotify.com/track/4macfFatbEEGgZHWRAXyL1"
+    },
+    {
+      "album": {
+        "name": "Virginia Woolf",
+        "url": "https://open.spotify.com/album/3PEF8BFogIYrgjuamAMAs8"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9lia Johnson",
+          "url": "https://open.spotify.com/artist/3PEsPL7wyGPLAP0dXZnIMk"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1796266,
+      "name": "To The Lighthouse",
+      "url": "https://open.spotify.com/track/6BON1U6eUmVnKypcA01EMT"
+    },
+    {
+      "album": {
+        "name": "Virginia Woolf",
+        "url": "https://open.spotify.com/album/3PEF8BFogIYrgjuamAMAs8"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9lia Johnson",
+          "url": "https://open.spotify.com/artist/3PEsPL7wyGPLAP0dXZnIMk"
+        },
+        {
+          "name": "Virginia Woolf",
+          "url": "https://open.spotify.com/artist/6BW96bn7aMQW9idufxJGF9"
+        }
+      ],
+      "date_added": "2018-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130639,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/0bs7ac80wvpNTuifsEi8lU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5nERjWj1zmg"
 }

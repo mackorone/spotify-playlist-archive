@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,421 likes - 178 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,001 likes - 178 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 8 | [From Above \- Alpha Sinus 71Hz \- 81Hz](https://open.spotify.com/track/7ayDStd0Al7EGDZ7PjXB97) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [From Above \- Alpha Sinus 71Hz \- 81Hz](https://open.spotify.com/album/4teRsOhNnx0Ogd4QWM51wG) | 2:08 |
 | 9 | [Deep Soul \- Alpha Sinus 102Hz \- 110Hz](https://open.spotify.com/track/4m3pWrYXXRTO86g3dOUgIC) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Deep Soul \- Alpha Sinus 102Hz \- 110Hz](https://open.spotify.com/album/0WmAUMjEGYZlPG1hKjQBWz) | 2:08 |
 | 10 | [Quensimo Alpha Sinus 83Hz \- 91Hz](https://open.spotify.com/track/7nHI4JcpC3QhI5JbXDI3pU) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Quensimo Alpha Sinus 83Hz \- 91Hz](https://open.spotify.com/album/4y6AxPnrkb9doxWLl4nsTR) | 3:17 |
-| 11 | [Colors \- Alpha Sinus 100Hz \- 112Hz](https://open.spotify.com/track/6eKAnxOAUfeGz8wr6vbPSt) | [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Colors \- Alpha Sinus 100Hz \- 112Hz](https://open.spotify.com/album/6A9BWzxpAgJyV8LZx6p9ez) | 1:49 |
+| 11 | [Colors](https://open.spotify.com/track/6eKAnxOAUfeGz8wr6vbPSt) | [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Colors](https://open.spotify.com/album/6A9BWzxpAgJyV8LZx6p9ez) | 1:49 |
 | 12 | [Translucent \- Alpha Sinus 71,7 Hz \- 73,8 Hz](https://open.spotify.com/track/0BbLU0pwbzAzFkJjbl9KdJ) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Deep Alpha Focus](https://open.spotify.com/album/268lE50iJ6lqOuLDAgAmMb) | 2:58 |
 | 13 | [Universal \- Alpha sinus 91 \- 95hz](https://open.spotify.com/track/6jiSCHhcbgjL64g3F1sSw3) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Fields](https://open.spotify.com/album/1WDadxIT9t8fskmLJYCVCe) | 4:01 |
 | 14 | [Alpha Smooth Binaural Waves 107.9Hz \- 113.9Hz](https://open.spotify.com/track/4xzjMLRmXlEv3ztZPNdfx4) | [Particle Guidance](https://open.spotify.com/artist/2Ol6nr2IZ1Jqs1scycbjLZ) | [Alpha Revelation](https://open.spotify.com/album/4ZIa0LTJcE6NsvZbxoFnnB) | 3:51 |

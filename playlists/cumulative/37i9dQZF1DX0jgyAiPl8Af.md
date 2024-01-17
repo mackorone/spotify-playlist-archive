@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-712 songs - 1 day 6 hr 41 min
+720 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Sign of Solace](https://open.spotify.com/track/6IUMwWcgrdKyK58XBFWwGC) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [A Sign of Solace](https://open.spotify.com/album/2CzXhWYQjtElo9hHjqHh2F) | 2:49 | 2021-12-08 | 2022-04-06 |
 | [A Stranger In Love](https://open.spotify.com/track/4HTm7WPkq24oFXqGliyMif) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [A Stranger In Love](https://open.spotify.com/album/18gBpQ8j0JTFBASiMiEZjD) | 2:58 | 2023-04-21 |  |
 | [Above the vast forest](https://open.spotify.com/track/4rtMTP9GeyxBF4pykocGoP) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Above the vast forest](https://open.spotify.com/album/71ZmOMo10LD4o1tWtBoIvI) | 2:13 | 2022-07-08 | 2022-07-15 |
+| [Absolutely Nothing](https://open.spotify.com/track/3tK6DPMKK0sOFzjtIYO31C) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Absolutely Nothing](https://open.spotify.com/album/2doFeD2JvERQd22iG6AzfF) | 2:01 | 2024-01-12 |  |
 | [Across The Fields](https://open.spotify.com/track/7wCRPgEya03UoasCTb5BlA) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Across The Fields](https://open.spotify.com/album/2ocOyVhHiaO0BAXOzI7auu) | 2:22 | 2022-05-27 | 2022-09-23 |
 | [Adelita](https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Adelita](https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP) | 2:04 | 2023-03-10 |  |
 | [Adenau](https://open.spotify.com/track/2waJ83UhXRZ77H5Dy6vc8E) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Adenau](https://open.spotify.com/album/2oLQpBfyl20At9mH75t59L) | 3:52 | 2021-12-08 | 2022-11-26 |
@@ -127,6 +128,7 @@
 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 | 2023-05-26 |  |
 | [Confessions](https://open.spotify.com/track/2UhHY0tfFfAgwbI866sgP0) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Confessions](https://open.spotify.com/album/1velmJwil1Ej3htk0jGYFY) | 2:30 | 2021-12-08 | 2023-03-10 |
 | [Confidencen](https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Confidencen](https://open.spotify.com/album/2ponLnQXC8yHOsxtvs2Ypz) | 2:21 | 2023-04-21 |  |
+| [Confirmation](https://open.spotify.com/track/4fjlynkBlFfxY8qvZ75Yn1) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Confirmation](https://open.spotify.com/album/3DSrPW0S0FjoyzWjgP5RXS) | 2:39 | 2024-01-12 |  |
 | [Consuelo](https://open.spotify.com/track/7sLspn56JPVQPEaEcXEK7l) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Whitestone](https://open.spotify.com/album/27s31ruaJOf6k92c8OrVhJ) | 2:41 | 2021-12-08 | 2022-07-01 |
 | [Costa Brava](https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S) | [Brian Brohn](https://open.spotify.com/artist/4IvSlgyUcZU9Ru7rEAVtAQ) | [Tree Runner](https://open.spotify.com/album/3GDQ6Ds2GPGA7C505UseMo) | 3:05 | 2021-12-08 | 2022-07-08 |
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-09 | 2023-05-13 |
@@ -327,6 +329,7 @@
 | [L'amour au quotidien](https://open.spotify.com/track/48ny2v2vWno2OfQCmAFg91) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [L'amour au quotidien](https://open.spotify.com/album/0OOasuBJBlp4qfmuuHIelf) | 2:01 | 2022-10-28 |  |
 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 | 2022-07-29 |  |
 | [la familia](https://open.spotify.com/track/2ArbrTWgX8XTAVXMXmecq9) | [Anona Helene](https://open.spotify.com/artist/489KvuYBhHiNJYYnb2d2l2) | [la familia](https://open.spotify.com/album/7BmDGMolR3JJqisdj7vDKZ) | 3:38 | 2021-12-08 | 2022-05-11 |
+| [La Fenice](https://open.spotify.com/track/1x8cTmOxmRcRmySayLAJ9C) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [La Fenice](https://open.spotify.com/album/50dvR7Lo3Ir9wMOfpiby3Y) | 2:39 | 2024-01-12 |  |
 | [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 | 2021-12-08 | 2022-07-15 |
 | [La Table Solitaire](https://open.spotify.com/track/3fafaQOs2400DlCuZmdgTK) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [La Table Solitaire](https://open.spotify.com/album/7cubCU7XJawe0P6jIqsdko) | 2:12 | 2022-05-27 | 2022-09-09 |
 | [La Venue](https://open.spotify.com/track/17Z6iT4BizcR7BnqqBrzTi) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [La Venue](https://open.spotify.com/album/0eGdnNpMq1wzNMtLICDSHZ) | 1:48 | 2023-05-12 | 2023-08-19 |
@@ -412,6 +415,7 @@
 | [Misty Mountain](https://open.spotify.com/track/4P3uK33fTyCysCh6S4psZd) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Misty Mountain](https://open.spotify.com/album/13dlAe1Ubv4SvX9ZClmyXb) | 2:17 | 2022-12-09 | 2023-05-26 |
 | [Mittenwald](https://open.spotify.com/track/56gf0iOrvZQpwECebBy99R) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Mittenwald](https://open.spotify.com/album/6j8Tg0ERTdfiHWukxIHC8f) | 2:40 | 2021-12-08 | 2022-09-03 |
 | [Moi, toi et elle](https://open.spotify.com/track/4SQWZnUxFl825pqhyWrKJd) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Moi, toi et elle](https://open.spotify.com/album/6OSDdIhJhjaudk4cWncSG3) | 2:44 | 2022-10-07 | 2023-05-26 |
+| [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 | 2024-01-12 |  |
 | [Moments](https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Moments](https://open.spotify.com/album/1pN9aYINmhUNUH1KFVDjHJ) | 1:39 | 2023-05-12 | 2023-08-19 |
 | [Moments with you](https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Moments with you](https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi) | 2:29 | 2023-11-24 |  |
 | [Mond Stille](https://open.spotify.com/track/4R5W9Oq91uYpal40VdTGTl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Mond Stille](https://open.spotify.com/album/3Uil3hqZzTEUHRVZ9aBE9Y) | 2:51 | 2022-08-19 |  |
@@ -421,6 +425,7 @@
 | [Moon Hearts](https://open.spotify.com/track/6iC68UqmwcLfceDrhFdE69) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Moon Hearts](https://open.spotify.com/album/4m6Vz7DuJL1u4ezzqHZbOt) | 2:48 | 2022-10-28 |  |
 | [Moon River](https://open.spotify.com/track/68TB2FZJMOpnb7ZCypjxOv) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Moon River](https://open.spotify.com/album/1laCd0yZoeEPJTkVz880fv) | 4:55 | 2022-08-05 | 2022-09-23 |
 | [Moondust](https://open.spotify.com/track/4f4IeJgCi2IVwmjqbDzDON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Moondust](https://open.spotify.com/album/1qZvjFoXmGVvCTWNd9YPef) | 2:09 | 2022-12-09 | 2023-03-25 |
+| [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2021-12-08 |  |
 | [Morgensonne](https://open.spotify.com/track/1DVehVLP2YEOGjFgUl4DE0) | [Dominik Buchheim](https://open.spotify.com/artist/7e8fzJdZ6xHzokB2aGULSA) | [Morgensonne](https://open.spotify.com/album/1oAeUw1cBcoek76UVXFRer) | 3:03 | 2021-12-08 | 2022-05-11 |
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-05-26 | 2023-06-16 |
@@ -657,6 +662,8 @@
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |
 | [Tranquille](https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Tranquille](https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP) | 2:50 | 2021-12-08 | 2023-11-24 |
 | [Tranquillité](https://open.spotify.com/track/1IY7Sd93dqmjFu0Kb48Z90) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Tranquillité](https://open.spotify.com/album/6gC38WXTRW3FR65ThRvt6p) | 2:35 | 2023-08-10 |  |
+| [Translucent](https://open.spotify.com/track/5JTQZAulgYZHdYvsGzIPpr) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Translucent](https://open.spotify.com/album/52GxEBUMTXix3i2AhCaFVz) | 3:16 | 2024-01-12 |  |
+| [Trapped In My Own Emotions](https://open.spotify.com/track/14k2CmksFHrp9OEFYuwaJz) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Trapped In My Own Emotions](https://open.spotify.com/album/3UWUoCnrgwfUQGDRQj99Cb) | 3:16 | 2024-01-12 |  |
 | [Tree](https://open.spotify.com/track/4mjg3rP9kcWt8d2odidj0m) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Neo](https://open.spotify.com/album/5iCm1wlgWblxrGuQRmXIr0) | 4:25 | 2022-07-08 | 2022-07-15 |
 | [Tree and Traveller](https://open.spotify.com/track/3BpomYyWO3vmpre6yAqi9a) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Tree and Traveller](https://open.spotify.com/album/12WlSNJDYyL51vwPRHYZMw) | 2:43 | 2022-12-16 |  |
 | [Tromsø](https://open.spotify.com/track/5ULUonFYFa7qJ4Umftu0vP) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Tromsø](https://open.spotify.com/album/4ClsAjgzSXK2faHsFnwZrC) | 2:17 | 2023-01-06 |  |
@@ -684,6 +691,7 @@
 | [Vineyard romance](https://open.spotify.com/track/0hrERSWlhyvqO1hb6EvDCS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Vineyard romance](https://open.spotify.com/album/7jXnSO5CjtNIYU6e7g3hfa) | 2:02 | 2023-03-10 |  |
 | [Vintervisa](https://open.spotify.com/track/6qFynggiuKEUNZrzjuuzWQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Vintervisa](https://open.spotify.com/album/4LVE0PGhIdMkOmfch01eKl) | 1:44 | 2022-12-09 | 2023-08-19 |
 | [Viola](https://open.spotify.com/track/5RV00BhineeA8Pridv87II) | [R.J\. Smith](https://open.spotify.com/artist/0ViPLqxFKIDH5MH3YaTN28) | [Viola](https://open.spotify.com/album/2lWNoK5SqMEQw5DmmohMr9) | 3:09 | 2021-12-08 | 2022-09-09 |
+| [Visions](https://open.spotify.com/track/6vI1mGiTj4D8Lbi0G3Jl0z) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Visions](https://open.spotify.com/album/04JtQI5Xil1h3GCx8MyJJ8) | 2:02 | 2024-01-12 |  |
 | [Volar con el viento](https://open.spotify.com/track/22LSqWnEYxqZeJOSOMlp4C) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Volar con el viento](https://open.spotify.com/album/7quiaEPm1wVGreNGivVaeK) | 2:37 | 2021-12-08 | 2022-09-03 |
 | [Vorfreude](https://open.spotify.com/track/098EOJ4n3mTwtlNNbxP2BL) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Vorfreude](https://open.spotify.com/album/4NrIq79Bai7tVLP7ccEToG) | 2:33 | 2021-12-08 | 2023-02-11 |
 | [Vøringfossen](https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Vøringfossen](https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP) | 2:09 | 2023-05-12 | 2023-11-24 |

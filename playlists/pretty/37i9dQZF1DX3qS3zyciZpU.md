@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qS3zyciZpU.md) - [plain]
 
 > The perfect songs for the perfect day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,865 likes - 126 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,041 likes - 126 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

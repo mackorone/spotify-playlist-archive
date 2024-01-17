@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Cody Johnson
+> Top trending country tracks from the last few months\. Cover: The Red Clay Strays
 
 355 songs - 18 hr 58 min
 

@@ -974,7 +974,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 271013,
       "name": "Ciudadano",
       "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
@@ -3322,7 +3322,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": "2024-01-16",
       "duration_ms": 293020,
       "name": "Luces",
       "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
@@ -4383,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "At the Edge of the World",
+        "url": "https://open.spotify.com/album/5gaFRux02LGMzIf71qegbl"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347803,
+      "name": "Poinciana",
+      "url": "https://open.spotify.com/track/41yKDBimCZAZiJN6u5YK2L"
+    },
+    {
+      "album": {
         "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
         "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
       },
@@ -4937,6 +4955,24 @@
     },
     {
       "album": {
+        "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+        "url": "https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Perea",
+          "url": "https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353320,
+      "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+      "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
+    },
+    {
+      "album": {
         "name": "Ser\u00eda Una Pena",
         "url": "https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr"
       },
@@ -5378,7 +5414,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 425333,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6"

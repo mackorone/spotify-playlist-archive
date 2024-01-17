@@ -1722,7 +1722,7 @@
     {
       "album": {
         "name": "Pauline Croze",
-        "url": "https://open.spotify.com/album/2KfEcJpTsSl8a8kxrXuZPf"
+        "url": "https://open.spotify.com/album/0KUymSDjNL7ZaJrKcFNoNQ"
       },
       "artists": [
         {
@@ -1733,6 +1733,24 @@
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163188,
+      "name": "T'es beau",
+      "url": "https://open.spotify.com/track/52IOzi84P1GTbNsByXmaSc"
+    },
+    {
+      "album": {
+        "name": "Pauline Croze",
+        "url": "https://open.spotify.com/album/2KfEcJpTsSl8a8kxrXuZPf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
       "duration_ms": 163328,
       "name": "T'es beau",
       "url": "https://open.spotify.com/track/5yeE2zpSDyWMVB6DyPFZJr"

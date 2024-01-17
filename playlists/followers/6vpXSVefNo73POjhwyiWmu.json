@@ -1,735 +1,833 @@
 {
-  "2021-12-25": 950,
-  "2021-12-26": 950,
-  "2021-12-27": 950,
-  "2021-12-28": 950,
-  "2021-12-29": 950,
-  "2021-12-30": 950,
-  "2021-12-31": 950,
-  "2022-01-01": 950,
-  "2022-01-02": 949,
-  "2022-01-03": 949,
-  "2022-01-04": 949,
-  "2022-01-05": 949,
-  "2022-01-06": 949,
-  "2022-01-07": 949,
-  "2022-01-08": 949,
-  "2022-01-09": 949,
-  "2022-01-10": 949,
-  "2022-01-11": 949,
-  "2022-01-12": 949,
-  "2022-01-13": 949,
-  "2022-01-14": 949,
-  "2022-01-15": 949,
-  "2022-01-16": 949,
-  "2022-01-17": 949,
-  "2022-01-18": 948,
-  "2022-01-19": 948,
-  "2022-01-20": 948,
-  "2022-01-21": 948,
-  "2022-01-22": 948,
-  "2022-01-23": 948,
-  "2022-01-24": 948,
-  "2022-01-25": 948,
-  "2022-01-26": 948,
-  "2022-01-27": 948,
-  "2022-01-28": 948,
-  "2022-01-29": 948,
-  "2022-01-30": 947,
-  "2022-01-31": 947,
-  "2022-02-01": 947,
-  "2022-02-02": 947,
-  "2022-02-03": 947,
-  "2022-02-04": 947,
-  "2022-02-05": 947,
-  "2022-02-06": 947,
-  "2022-02-07": 947,
-  "2022-02-08": 947,
-  "2022-02-09": 947,
-  "2022-02-10": 947,
-  "2022-02-11": 947,
-  "2022-02-12": 947,
-  "2022-02-13": 947,
-  "2022-02-14": 947,
-  "2022-02-15": 947,
-  "2022-02-16": 947,
-  "2022-02-17": 947,
-  "2022-02-18": 947,
-  "2022-02-19": 947,
-  "2022-02-20": 947,
-  "2022-02-21": 947,
-  "2022-02-22": 947,
-  "2022-02-23": 947,
-  "2022-02-24": 947,
-  "2022-02-25": 947,
-  "2022-02-26": 947,
-  "2022-02-27": 947,
-  "2022-02-28": 947,
-  "2022-03-01": 947,
-  "2022-03-02": 947,
-  "2022-03-03": 947,
-  "2022-03-04": 947,
-  "2022-03-05": 947,
-  "2022-03-06": 947,
-  "2022-03-07": 947,
-  "2022-03-08": 947,
-  "2022-03-09": 947,
-  "2022-03-10": 947,
-  "2022-03-11": 947,
-  "2022-03-12": 947,
-  "2022-03-13": 947,
-  "2022-03-14": 947,
-  "2022-03-15": 947,
-  "2022-03-16": 947,
-  "2022-03-17": 947,
-  "2022-03-18": 947,
-  "2022-03-19": 947,
-  "2022-03-20": 947,
-  "2022-03-21": 947,
-  "2022-03-22": 947,
-  "2022-03-23": 947,
-  "2022-03-24": 947,
-  "2022-03-25": 947,
-  "2022-03-26": 947,
-  "2022-03-27": 947,
-  "2022-03-28": 947,
-  "2022-03-30": 947,
-  "2022-03-31": 947,
-  "2022-04-01": 947,
-  "2022-04-02": 947,
-  "2022-04-03": 947,
-  "2022-04-04": 947,
-  "2022-04-05": 947,
-  "2022-04-06": 947,
-  "2022-04-07": 947,
-  "2022-04-08": 947,
-  "2022-04-09": 947,
-  "2022-04-10": 947,
-  "2022-04-11": 947,
-  "2022-04-12": 947,
-  "2022-04-13": 947,
-  "2022-04-14": 947,
-  "2022-04-15": 947,
-  "2022-04-16": 947,
-  "2022-04-17": 947,
-  "2022-04-18": 947,
-  "2022-04-19": 947,
-  "2022-04-20": 947,
-  "2022-04-21": 947,
-  "2022-04-22": 947,
-  "2022-04-23": 947,
-  "2022-04-24": 947,
-  "2022-04-25": 947,
-  "2022-04-26": 947,
-  "2022-04-27": 947,
-  "2022-04-28": 947,
-  "2022-04-29": 947,
-  "2022-04-30": 947,
-  "2022-05-01": 947,
-  "2022-05-02": 947,
-  "2022-05-03": 947,
-  "2022-05-04": 947,
-  "2022-05-05": 947,
-  "2022-05-06": 947,
-  "2022-05-07": 947,
-  "2022-05-08": 947,
-  "2022-05-09": 947,
-  "2022-05-10": 947,
-  "2022-05-11": 947,
-  "2022-05-12": 947,
-  "2022-05-13": 947,
-  "2022-05-14": 947,
-  "2022-05-15": 947,
-  "2022-05-16": 947,
-  "2022-05-17": 946,
-  "2022-05-18": 946,
-  "2022-05-19": 946,
-  "2022-05-20": 946,
-  "2022-05-21": 946,
-  "2022-05-22": 946,
-  "2022-05-23": 946,
-  "2022-05-24": 946,
-  "2022-05-25": 946,
-  "2022-05-26": 946,
-  "2022-05-27": 946,
-  "2022-05-28": 945,
-  "2022-05-29": 945,
-  "2022-05-30": 945,
-  "2022-05-31": 945,
-  "2022-06-01": 945,
-  "2022-06-02": 945,
-  "2022-06-03": 945,
-  "2022-06-04": 945,
-  "2022-06-05": 945,
-  "2022-06-06": 945,
-  "2022-06-07": 944,
-  "2022-06-08": 944,
-  "2022-06-09": 944,
-  "2022-06-10": 944,
-  "2022-06-11": 944,
-  "2022-06-12": 944,
-  "2022-06-13": 944,
-  "2022-06-14": 944,
-  "2022-06-15": 944,
-  "2022-06-16": 944,
-  "2022-06-17": 944,
-  "2022-06-18": 944,
-  "2022-06-19": 944,
-  "2022-06-20": 944,
-  "2022-06-21": 944,
-  "2022-06-22": 944,
-  "2022-06-23": 944,
-  "2022-06-24": 944,
-  "2022-06-25": 944,
-  "2022-06-26": 944,
-  "2022-06-27": 944,
-  "2022-06-28": 944,
-  "2022-06-29": 944,
-  "2022-06-30": 944,
-  "2022-07-01": 944,
-  "2022-07-02": 944,
-  "2022-07-03": 944,
-  "2022-07-04": 944,
-  "2022-07-05": 944,
-  "2022-07-06": 944,
-  "2022-07-07": 944,
-  "2022-07-08": 944,
-  "2022-07-09": 944,
-  "2022-07-10": 944,
-  "2022-07-11": 944,
-  "2022-07-12": 944,
-  "2022-07-13": 944,
-  "2022-07-14": 944,
-  "2022-07-15": 944,
-  "2022-07-16": 944,
-  "2022-07-17": 944,
-  "2022-07-18": 944,
-  "2022-07-19": 944,
-  "2022-07-20": 944,
-  "2022-07-21": 944,
-  "2022-07-22": 944,
-  "2022-07-23": 944,
-  "2022-07-24": 944,
-  "2022-07-25": 944,
-  "2022-07-26": 944,
-  "2022-07-27": 944,
-  "2022-07-28": 943,
-  "2022-07-29": 943,
-  "2022-07-30": 942,
-  "2022-07-31": 942,
-  "2022-08-01": 942,
-  "2022-08-02": 942,
-  "2022-08-03": 942,
-  "2022-08-04": 942,
-  "2022-08-05": 942,
-  "2022-08-06": 942,
-  "2022-08-07": 942,
-  "2022-08-08": 942,
-  "2022-08-09": 942,
-  "2022-08-10": 942,
-  "2022-08-11": 943,
-  "2022-08-12": 943,
-  "2022-08-13": 943,
-  "2022-08-14": 943,
-  "2022-08-15": 943,
-  "2022-08-16": 943,
-  "2022-08-17": 943,
-  "2022-08-18": 943,
-  "2022-08-19": 943,
-  "2022-08-20": 943,
-  "2022-08-21": 943,
-  "2022-08-22": 943,
-  "2022-08-23": 943,
-  "2022-08-24": 943,
-  "2022-08-25": 943,
-  "2022-08-26": 943,
-  "2022-08-27": 942,
-  "2022-08-28": 942,
-  "2022-08-29": 942,
-  "2022-08-30": 942,
-  "2022-08-31": 942,
-  "2022-09-01": 942,
-  "2022-09-02": 942,
-  "2022-09-03": 942,
-  "2022-09-04": 942,
-  "2022-09-05": 942,
-  "2022-09-06": 942,
-  "2022-09-07": 942,
-  "2022-09-09": 942,
-  "2022-09-10": 942,
-  "2022-09-11": 942,
-  "2022-09-12": 942,
-  "2022-09-13": 942,
-  "2022-09-15": 942,
-  "2022-09-16": 942,
-  "2022-09-17": 942,
-  "2022-09-18": 942,
-  "2022-09-19": 942,
-  "2022-09-20": 942,
-  "2022-09-21": 942,
-  "2022-09-22": 942,
-  "2022-09-23": 942,
-  "2022-09-24": 942,
-  "2022-09-25": 942,
-  "2022-09-26": 942,
-  "2022-09-27": 942,
-  "2022-09-28": 942,
-  "2022-09-29": 942,
-  "2022-09-30": 942,
-  "2022-10-01": 942,
-  "2022-10-02": 942,
-  "2022-10-03": 942,
-  "2022-10-04": 942,
-  "2022-10-05": 942,
-  "2022-10-06": 942,
-  "2022-10-07": 942,
-  "2022-10-08": 942,
-  "2022-10-09": 942,
-  "2022-10-10": 942,
-  "2022-10-11": 942,
-  "2022-10-12": 942,
-  "2022-10-13": 941,
-  "2022-10-14": 941,
-  "2022-10-15": 941,
-  "2022-10-16": 941,
-  "2022-10-17": 941,
-  "2022-10-18": 941,
-  "2022-10-19": 941,
-  "2022-10-20": 941,
-  "2022-10-21": 941,
-  "2022-10-22": 941,
-  "2022-10-23": 941,
-  "2022-10-24": 941,
-  "2022-10-25": 941,
-  "2022-10-26": 941,
-  "2022-10-27": 941,
-  "2022-10-28": 941,
-  "2022-10-29": 941,
-  "2022-10-30": 941,
-  "2022-10-31": 941,
-  "2022-11-01": 942,
-  "2022-11-02": 942,
-  "2022-11-03": 943,
-  "2022-11-04": 943,
-  "2022-11-05": 943,
-  "2022-11-06": 943,
-  "2022-11-07": 943,
-  "2022-11-08": 943,
-  "2022-11-09": 943,
-  "2022-11-10": 944,
-  "2022-11-11": 945,
-  "2022-11-12": 945,
-  "2022-11-13": 945,
-  "2022-11-14": 945,
-  "2022-11-15": 945,
-  "2022-11-16": 944,
-  "2022-11-17": 944,
-  "2022-11-18": 944,
-  "2022-11-19": 943,
-  "2022-11-20": 942,
-  "2022-11-21": 941,
-  "2022-11-22": 941,
-  "2022-11-23": 941,
-  "2022-11-24": 941,
-  "2022-11-25": 941,
-  "2022-11-26": 941,
-  "2022-11-27": 941,
-  "2022-11-28": 941,
-  "2022-11-29": 941,
-  "2022-11-30": 941,
-  "2022-12-01": 941,
-  "2022-12-02": 941,
-  "2022-12-03": 941,
-  "2022-12-04": 941,
-  "2022-12-05": 941,
-  "2022-12-06": 941,
-  "2022-12-07": 941,
-  "2022-12-08": 941,
-  "2022-12-09": 941,
-  "2022-12-10": 941,
-  "2022-12-11": 941,
-  "2022-12-12": 941,
-  "2022-12-13": 941,
-  "2022-12-14": 941,
-  "2022-12-15": 941,
-  "2022-12-16": 941,
-  "2022-12-17": 941,
-  "2022-12-18": 941,
-  "2022-12-19": 941,
-  "2022-12-20": 941,
-  "2022-12-21": 941,
-  "2022-12-22": 941,
-  "2022-12-24": 941,
-  "2022-12-25": 941,
-  "2022-12-26": 941,
-  "2022-12-27": 941,
-  "2022-12-28": 941,
-  "2022-12-29": 941,
-  "2022-12-30": 941,
-  "2022-12-31": 941,
-  "2023-01-01": 941,
-  "2023-01-02": 941,
-  "2023-01-03": 941,
-  "2023-01-04": 941,
-  "2023-01-05": 941,
-  "2023-01-06": 941,
-  "2023-01-07": 941,
-  "2023-01-08": 941,
-  "2023-01-09": 941,
-  "2023-01-10": 941,
-  "2023-01-11": 941,
-  "2023-01-12": 941,
-  "2023-01-13": 941,
-  "2023-01-14": 941,
-  "2023-01-15": 941,
-  "2023-01-16": 941,
-  "2023-01-17": 941,
-  "2023-01-18": 941,
-  "2023-01-19": 941,
-  "2023-01-20": 941,
-  "2023-01-21": 941,
-  "2023-01-22": 941,
-  "2023-01-23": 941,
-  "2023-01-24": 941,
-  "2023-01-25": 941,
-  "2023-01-26": 941,
-  "2023-01-27": 941,
-  "2023-01-28": 941,
-  "2023-01-29": 941,
-  "2023-01-30": 941,
-  "2023-01-31": 941,
-  "2023-02-01": 941,
-  "2023-02-02": 941,
-  "2023-02-03": 941,
-  "2023-02-04": 941,
-  "2023-02-05": 941,
-  "2023-02-06": 941,
-  "2023-02-07": 941,
-  "2023-02-08": 941,
-  "2023-02-09": 941,
-  "2023-02-10": 941,
-  "2023-02-11": 941,
-  "2023-02-12": 941,
-  "2023-02-13": 941,
-  "2023-02-14": 941,
-  "2023-02-15": 941,
-  "2023-02-16": 941,
-  "2023-02-17": 941,
-  "2023-02-18": 941,
-  "2023-02-19": 941,
-  "2023-02-20": 941,
-  "2023-02-21": 941,
-  "2023-02-22": 941,
-  "2023-02-23": 941,
-  "2023-02-24": 941,
-  "2023-02-25": 941,
-  "2023-02-26": 941,
-  "2023-02-27": 941,
-  "2023-02-28": 941,
-  "2023-03-01": 941,
-  "2023-03-02": 941,
-  "2023-03-03": 941,
-  "2023-03-04": 941,
-  "2023-03-05": 941,
-  "2023-03-06": 941,
-  "2023-03-07": 941,
-  "2023-03-08": 941,
-  "2023-03-09": 941,
-  "2023-03-10": 941,
-  "2023-03-11": 941,
-  "2023-03-12": 941,
-  "2023-03-13": 941,
-  "2023-03-14": 941,
-  "2023-03-15": 941,
-  "2023-03-16": 941,
-  "2023-03-17": 941,
-  "2023-03-18": 941,
-  "2023-03-19": 941,
-  "2023-03-20": 941,
-  "2023-03-21": 941,
-  "2023-03-22": 941,
-  "2023-03-23": 941,
-  "2023-03-24": 941,
-  "2023-03-25": 941,
-  "2023-03-26": 941,
-  "2023-03-27": 941,
-  "2023-03-28": 941,
-  "2023-03-29": 941,
-  "2023-03-30": 941,
-  "2023-03-31": 941,
-  "2023-04-01": 941,
-  "2023-04-02": 941,
-  "2023-04-03": 940,
-  "2023-04-04": 940,
-  "2023-04-05": 940,
-  "2023-04-06": 940,
-  "2023-04-07": 940,
-  "2023-04-09": 940,
-  "2023-04-10": 940,
-  "2023-04-11": 940,
-  "2023-04-12": 940,
-  "2023-04-13": 940,
-  "2023-04-14": 940,
-  "2023-04-15": 940,
-  "2023-04-16": 940,
-  "2023-04-17": 940,
-  "2023-04-18": 940,
-  "2023-04-19": 940,
-  "2023-04-20": 940,
-  "2023-04-21": 940,
-  "2023-04-22": 940,
-  "2023-04-23": 940,
-  "2023-04-24": 940,
-  "2023-04-25": 940,
-  "2023-04-26": 940,
-  "2023-04-27": 940,
-  "2023-04-28": 940,
-  "2023-04-29": 940,
-  "2023-04-30": 940,
-  "2023-05-01": 940,
-  "2023-05-02": 940,
-  "2023-05-03": 940,
-  "2023-05-04": 940,
-  "2023-05-05": 940,
-  "2023-05-06": 940,
-  "2023-05-07": 940,
-  "2023-05-08": 940,
-  "2023-05-09": 940,
-  "2023-05-10": 940,
-  "2023-05-11": 940,
-  "2023-05-12": 939,
-  "2023-05-13": 939,
-  "2023-05-14": 939,
-  "2023-05-15": 939,
-  "2023-05-16": 939,
-  "2023-05-17": 939,
-  "2023-05-18": 939,
-  "2023-05-19": 939,
-  "2023-05-20": 939,
-  "2023-05-21": 939,
-  "2023-05-22": 939,
-  "2023-05-23": 939,
-  "2023-05-24": 939,
-  "2023-05-25": 939,
-  "2023-05-26": 939,
-  "2023-05-27": 939,
-  "2023-05-28": 939,
-  "2023-05-29": 939,
-  "2023-05-30": 939,
-  "2023-05-31": 939,
-  "2023-06-01": 939,
-  "2023-06-02": 939,
-  "2023-06-03": 939,
-  "2023-06-04": 939,
-  "2023-06-05": 939,
-  "2023-06-06": 939,
-  "2023-06-07": 939,
-  "2023-06-08": 939,
-  "2023-06-09": 939,
-  "2023-06-10": 939,
-  "2023-06-11": 939,
-  "2023-06-12": 939,
-  "2023-06-13": 939,
-  "2023-06-14": 939,
-  "2023-06-15": 939,
-  "2023-06-16": 939,
-  "2023-06-17": 939,
-  "2023-06-18": 939,
-  "2023-06-19": 939,
-  "2023-06-20": 939,
-  "2023-06-21": 939,
-  "2023-06-22": 939,
-  "2023-06-23": 939,
-  "2023-06-24": 939,
-  "2023-06-25": 939,
-  "2023-06-26": 939,
-  "2023-06-27": 940,
-  "2023-06-28": 940,
-  "2023-06-29": 940,
-  "2023-06-30": 940,
-  "2023-07-01": 940,
-  "2023-07-02": 940,
-  "2023-07-03": 940,
-  "2023-07-04": 940,
-  "2023-07-05": 940,
-  "2023-07-06": 940,
-  "2023-07-07": 940,
-  "2023-07-08": 940,
-  "2023-07-09": 939,
-  "2023-07-10": 939,
-  "2023-07-11": 939,
-  "2023-07-12": 939,
-  "2023-07-13": 939,
-  "2023-07-14": 939,
-  "2023-07-15": 939,
-  "2023-07-16": 939,
-  "2023-07-17": 939,
-  "2023-07-18": 939,
-  "2023-07-19": 939,
-  "2023-07-20": 939,
-  "2023-07-21": 939,
-  "2023-07-22": 939,
-  "2023-07-23": 939,
-  "2023-07-24": 939,
-  "2023-07-25": 939,
-  "2023-07-26": 939,
-  "2023-07-27": 939,
-  "2023-07-28": 939,
-  "2023-07-29": 939,
-  "2023-07-30": 939,
-  "2023-07-31": 939,
-  "2023-08-01": 939,
-  "2023-08-02": 939,
-  "2023-08-03": 939,
-  "2023-08-04": 939,
-  "2023-08-05": 939,
-  "2023-08-06": 939,
-  "2023-08-07": 939,
-  "2023-08-08": 939,
-  "2023-08-09": 939,
-  "2023-08-10": 939,
-  "2023-08-11": 939,
-  "2023-08-12": 939,
-  "2023-08-13": 939,
-  "2023-08-14": 939,
-  "2023-08-15": 939,
-  "2023-08-16": 939,
-  "2023-08-17": 939,
-  "2023-08-18": 939,
-  "2023-08-19": 939,
-  "2023-08-20": 939,
-  "2023-08-21": 939,
-  "2023-08-22": 939,
-  "2023-08-23": 939,
-  "2023-08-24": 939,
-  "2023-08-25": 939,
-  "2023-08-26": 939,
-  "2023-08-27": 939,
-  "2023-08-28": 939,
-  "2023-08-29": 939,
-  "2023-08-30": 939,
-  "2023-08-31": 939,
-  "2023-09-01": 939,
-  "2023-09-02": 939,
-  "2023-09-03": 939,
-  "2023-09-04": 939,
-  "2023-09-05": 939,
-  "2023-09-06": 939,
-  "2023-09-07": 939,
-  "2023-09-08": 939,
-  "2023-09-09": 939,
-  "2023-09-10": 939,
-  "2023-09-11": 939,
-  "2023-09-12": 939,
-  "2023-09-13": 939,
-  "2023-09-14": 939,
-  "2023-09-15": 939,
-  "2023-09-16": 939,
-  "2023-09-17": 939,
-  "2023-09-18": 939,
-  "2023-09-19": 939,
-  "2023-09-20": 939,
-  "2023-09-21": 939,
-  "2023-09-22": 939,
-  "2023-09-23": 939,
-  "2023-09-24": 939,
-  "2023-09-25": 939,
-  "2023-09-26": 939,
-  "2023-09-27": 939,
-  "2023-09-28": 939,
-  "2023-09-29": 939,
-  "2023-09-30": 939,
-  "2023-10-01": 939,
-  "2023-10-02": 939,
-  "2023-10-03": 939,
-  "2023-10-04": 939,
-  "2023-10-05": 939,
-  "2023-10-06": 939,
-  "2023-10-07": 939,
-  "2023-10-08": 939,
-  "2023-10-09": 939,
-  "2023-10-10": 939,
-  "2023-10-11": 939,
-  "2023-10-12": 939,
-  "2023-10-13": 939,
-  "2023-10-14": 939,
-  "2023-10-15": 939,
-  "2023-10-16": 939,
-  "2023-10-17": 939,
-  "2023-10-18": 939,
-  "2023-10-19": 939,
-  "2023-10-20": 939,
-  "2023-10-21": 939,
-  "2023-10-22": 939,
-  "2023-10-23": 939,
-  "2023-10-24": 939,
-  "2023-10-25": 939,
-  "2023-10-26": 939,
-  "2023-10-27": 939,
-  "2023-10-28": 939,
-  "2023-10-29": 939,
-  "2023-10-30": 939,
-  "2023-10-31": 939,
-  "2023-11-01": 939,
-  "2023-11-02": 939,
-  "2023-11-03": 939,
-  "2023-11-04": 939,
-  "2023-11-05": 939,
-  "2023-11-06": 939,
-  "2023-11-07": 939,
-  "2023-11-08": 939,
-  "2023-11-09": 939,
-  "2023-11-10": 939,
-  "2023-11-11": 939,
-  "2023-11-12": 939,
-  "2023-11-13": 939,
-  "2023-11-14": 939,
-  "2023-11-15": 939,
-  "2023-11-16": 939,
-  "2023-11-17": 939,
-  "2023-11-18": 939,
-  "2023-11-19": 939,
-  "2023-11-20": 939,
-  "2023-11-21": 939,
-  "2023-11-22": 939,
-  "2023-11-23": 939,
-  "2023-11-24": 939,
-  "2023-11-25": 939,
-  "2023-11-26": 939,
-  "2023-11-27": 939,
-  "2023-11-28": 939,
-  "2023-11-29": 939,
-  "2023-11-30": 939,
-  "2023-12-01": 939,
-  "2023-12-02": 939,
-  "2023-12-03": 939,
-  "2023-12-04": 939,
-  "2023-12-05": 939,
-  "2023-12-06": 939,
-  "2023-12-07": 939,
-  "2023-12-08": 939,
-  "2023-12-09": 939,
-  "2023-12-10": 939,
-  "2023-12-11": 939,
-  "2023-12-12": 939,
-  "2023-12-13": 939,
-  "2023-12-14": 909,
-  "2023-12-15": 909,
-  "2023-12-16": 909,
-  "2023-12-17": 909,
-  "2023-12-18": 909,
-  "2023-12-19": 909,
-  "2023-12-20": 909,
-  "2023-12-21": 909,
-  "2023-12-22": 909,
-  "2023-12-23": 909,
-  "2023-12-24": 909,
-  "2023-12-25": 909,
-  "2023-12-26": 909,
-  "2023-12-27": 909,
-  "2023-12-30": 909,
-  "2023-12-31": 909,
-  "2024-01-01": 909,
-  "2024-01-02": 909,
-  "2024-01-03": 909
+  "2024-01-17": 875,
+  "date_first_scraped": "2021-12-21",
+  "description": "",
+  "name": "Remembering 2Pac",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Great 2Pac",
+        "url": "https://open.spotify.com/album/0TBwMjqm1esajO8c3dtDAi"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242426,
+      "name": "2 of Americaz Most Wanted",
+      "url": "https://open.spotify.com/track/10chiJXQj9O21GtGII8mdE"
+    },
+    {
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/2lxYSUgQdH38FdZnegAt0f"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "Ballad Of A Dead Soulja",
+      "url": "https://open.spotify.com/track/0HDpViLSCC2M8GNFDkbMqo"
+    },
+    {
+      "album": {
+        "name": "The 10th Anniversary Collection: The Sex, the Soul & the Street",
+        "url": "https://open.spotify.com/album/2B55A6eYzOSt1AzImsFqLe"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280080,
+      "name": "Blasphemy",
+      "url": "https://open.spotify.com/track/63NcMN1RQkfHMfEdkoQPEc"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233426,
+      "name": "Brenda's Got A Baby",
+      "url": "https://open.spotify.com/track/6WFUKaybbXrMkaw07YnngG"
+    },
+    {
+      "album": {
+        "name": "Thug Life: Volume 1",
+        "url": "https://open.spotify.com/album/0zv9Yp2IiNxbav25dAyS6H"
+      },
+      "artists": [
+        {
+          "name": "Thug Life",
+          "url": "https://open.spotify.com/artist/76fO70b6BK2xt3UVOe4BIZ"
+        },
+        {
+          "name": "Natasha Walker",
+          "url": "https://open.spotify.com/artist/3cmNLYZiFAGUQ2HxjsTM9z"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298866,
+      "name": "Bury Me A G",
+      "url": "https://open.spotify.com/track/3A0R2q4U2Z8IEts6IwjSmi"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284906,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/2eU63GLRBeMOszGRTCEE9E"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Talent",
+          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268826,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/3Wyc7M8twhxeyaC51BcQYb"
+    },
+    {
+      "album": {
+        "name": "The Big Picture (Explicit Version)",
+        "url": "https://open.spotify.com/album/2GJNq4qI1bVUGheC2Qevfn"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Deadly Combination",
+      "url": "https://open.spotify.com/track/4vPIIhg8qD4GKhxhiX5iLy"
+    },
+    {
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/5ASoLiKB7ffqusD9X9wQlS"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Dear Mama",
+      "url": "https://open.spotify.com/track/2wdHKp5CBgJ8mlO7Cq84Xd"
+    },
+    {
+      "album": {
+        "name": "Loyal To The Game",
+        "url": "https://open.spotify.com/album/6reqzR9irdAHWR8abHyqbG"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "Ghetto Gospel",
+      "url": "https://open.spotify.com/track/2MQ51y5NhCyva4SgWmK2Me"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312373,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/0W79y7M0f7qbaIpYCJ6wWO"
+    },
+    {
+      "album": {
+        "name": "R U Still Down? [Remember Me]",
+        "url": "https://open.spotify.com/album/5rZPctLvC5HAZQUXZXjLIF"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Hellrazor",
+      "url": "https://open.spotify.com/track/34MTHbcQdJmj6UHLqtsaVF"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Edited Version)",
+        "url": "https://open.spotify.com/album/55t8JpxGCmvclW3n7XFfKW"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303573,
+      "name": "Hit 'Em Up - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/7BwU0CbA2gwWFggmGYpo3e"
+    },
+    {
+      "album": {
+        "name": "R U Still Down? [Remember Me]",
+        "url": "https://open.spotify.com/album/5rZPctLvC5HAZQUXZXjLIF"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Hold On Be Strong",
+      "url": "https://open.spotify.com/track/3s9vZmnmGKjNlccUq5360j"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295413,
+      "name": "Holla At Me",
+      "url": "https://open.spotify.com/track/1aBXNJsLuOeo6ZIeNRkbRc"
+    },
+    {
+      "album": {
+        "name": "Hip Hop Deluxe Vol. 3 (Pure Hip Hop)",
+        "url": "https://open.spotify.com/album/4wYxpt0NJres3BuwN0sJJT"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255293,
+      "name": "House of Pain",
+      "url": "https://open.spotify.com/track/1VFKAW4sasZv46WVQOfPbP"
+    },
+    {
+      "album": {
+        "name": "The Best of 2Pac - Pt. 1: Thug",
+        "url": "https://open.spotify.com/album/3oaGekoJ37K0waoYjDzaRr"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293866,
+      "name": "I Ain't Mad At Cha - (Explicit)",
+      "url": "https://open.spotify.com/track/5IruGb6BKWcB7hpPnj4YQO"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258640,
+      "name": "I Get Around",
+      "url": "https://open.spotify.com/track/0wgI5xdpNlv7vSVQCTSBPU"
+    },
+    {
+      "album": {
+        "name": "R U Still Down? [Remember Me]",
+        "url": "https://open.spotify.com/album/5rZPctLvC5HAZQUXZXjLIF"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259720,
+      "name": "I Wonder If Heaven Got A Ghetto",
+      "url": "https://open.spotify.com/track/1ec6IDtSwq5rJdCog7GDZz"
+    },
+    {
+      "album": {
+        "name": "2Pacalypse Now",
+        "url": "https://open.spotify.com/album/5Ijk8JGsEkwCZd5i0Iy09a"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258306,
+      "name": "If My Homie Calls",
+      "url": "https://open.spotify.com/track/0iX6mzHk8O0ydBnQJOX9wB"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263600,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/430TwEETfJUHGdslOabGoQ"
+    },
+    {
+      "album": {
+        "name": "Just Another Day",
+        "url": "https://open.spotify.com/album/5vRXdMF5ptpadANTrFofff"
+      },
+      "artists": [
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251200,
+      "name": "Me & My Homies",
+      "url": "https://open.spotify.com/track/1SI8ZvUR18udBOC0NnRnhG"
+    },
+    {
+      "album": {
+        "name": "Better Dayz (Explicit Version)",
+        "url": "https://open.spotify.com/album/3XckjsLRAxTYng0IeqS4aj"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322573,
+      "name": "My Block - Nitty Remix - Album Version",
+      "url": "https://open.spotify.com/track/2bh9H1cDsivDAbpg0hjxA6"
+    },
+    {
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/5ASoLiKB7ffqusD9X9wQlS"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279200,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/30RYNh3035tpMN8eF50VEB"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "Only God Can Judge Me",
+      "url": "https://open.spotify.com/track/13XHuE00ElL5thSxkaEXxK"
+    },
+    {
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/4fz5n9W5nHZJ1o4WCVK8vC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279720,
+      "name": "Panther Power",
+      "url": "https://open.spotify.com/track/3eQXXS12xUSBJR2WOT2Mjy"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314720,
+      "name": "Picture Me Rollin'",
+      "url": "https://open.spotify.com/track/37zQVgP3aTLKNvluXLB5Ii"
+    },
+    {
+      "album": {
+        "name": "Above The Rim",
+        "url": "https://open.spotify.com/album/4sVcB2ZFsFla2ltgFfjNBn"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Thug Life",
+          "url": "https://open.spotify.com/artist/76fO70b6BK2xt3UVOe4BIZ"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Pour Out A Little Liquor",
+      "url": "https://open.spotify.com/track/1KAc4MIYOwHPBO21Vqtko4"
+    },
+    {
+      "album": {
+        "name": "Runnin' (Dying To Live) [International Version]",
+        "url": "https://open.spotify.com/album/4iSFl3rxpjqZwWOEewvrAc"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231986,
+      "name": "Runnin' (Dying To Live)",
+      "url": "https://open.spotify.com/track/4yEBMoqgPhCmIQsyLZ0IA4"
+    },
+    {
+      "album": {
+        "name": "No Nose Job: The Legend of Digital Underground",
+        "url": "https://open.spotify.com/album/4RHzW0i7RW5T2bgZMlPiqI"
+      },
+      "artists": [
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238979,
+      "name": "Same Song",
+      "url": "https://open.spotify.com/track/2egsXB7S1yw6N9JFpb79LB"
+    },
+    {
+      "album": {
+        "name": "Pac's Life",
+        "url": "https://open.spotify.com/album/6scHUqEBwR5DCyqmxP3092"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "Chamillionaire",
+          "url": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249826,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/4RiCeO9MKbmsjgqcLUCZ5z"
+    },
+    {
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/5ASoLiKB7ffqusD9X9wQlS"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239226,
+      "name": "So Many Tears",
+      "url": "https://open.spotify.com/track/5aFLEMNvORv8MXpd4lR0HQ"
+    },
+    {
+      "album": {
+        "name": "The 10th Anniversary Collection: The Sex, the Soul & the Street",
+        "url": "https://open.spotify.com/album/2B55A6eYzOSt1AzImsFqLe"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313520,
+      "name": "Staring Through My Rearview (Featuring Outlawz)",
+      "url": "https://open.spotify.com/track/4uSO91Q6jEKKIj7zGJdEG1"
+    },
+    {
+      "album": {
+        "name": "Better Dayz (Explicit Version)",
+        "url": "https://open.spotify.com/album/3XckjsLRAxTYng0IeqS4aj"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266379,
+      "name": "Street Fame - Briss Remix - Album Version",
+      "url": "https://open.spotify.com/track/7n5VK1PYF2QSyvhsg2hLZ5"
+    },
+    {
+      "album": {
+        "name": "Better Dayz (Explicit Version)",
+        "url": "https://open.spotify.com/album/3XckjsLRAxTYng0IeqS4aj"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321333,
+      "name": "This Life I Lead",
+      "url": "https://open.spotify.com/track/53qPogqlbP5IxlQsFhYkns"
+    },
+    {
+      "album": {
+        "name": "Better Dayz (Explicit Version)",
+        "url": "https://open.spotify.com/album/3XckjsLRAxTYng0IeqS4aj"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "J. Phoenix",
+          "url": "https://open.spotify.com/artist/2yhOwlNZ2v49Vwq5Vco0mn"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Thugz Mansion - Nas Acoustic - Album Version",
+      "url": "https://open.spotify.com/track/2I3qhLbzYZg7I2Ee0UZiGO"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272626,
+      "name": "To Live & Die In L.A.",
+      "url": "https://open.spotify.com/track/4MVIUDItVUE29y6TMSsCqg"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329826,
+      "name": "Tradin War Stories",
+      "url": "https://open.spotify.com/track/0uvnwBGPHODpAvu3wwcNaV"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284106,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/0t10UnkoLi4xNB6KmhVTUH"
+    },
+    {
+      "album": {
+        "name": "2Pac Greatest Hits (Explicit Version)",
+        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "Unconditional Love",
+      "url": "https://open.spotify.com/track/6HT2i6jZ1iXGmuwKZK8nuv"
+    },
+    {
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/2lxYSUgQdH38FdZnegAt0f"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "R.L. Hugger",
+          "url": "https://open.spotify.com/artist/6tUtWRGkgU68o7EblHWxgM"
+        },
+        {
+          "name": "Samuel J. \"Tone\" Barnes",
+          "url": "https://open.spotify.com/artist/4huJyydJJ5UeK2tSuZ70gc"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266906,
+      "name": "Until The End Of Time",
+      "url": "https://open.spotify.com/track/02qO38tLXcbfwoEiDP7CbH"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258466,
+      "name": "Wonda Why They Call U B____",
+      "url": "https://open.spotify.com/track/47lnB0fWXHnI5CBMx0OXB3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/6vpXSVefNo73POjhwyiWmu"
 }

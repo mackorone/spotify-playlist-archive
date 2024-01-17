@@ -1,716 +1,1641 @@
 {
-  "2022-01-13": 988922,
-  "2022-01-14": 989111,
-  "2022-01-15": 989565,
-  "2022-01-16": 989577,
-  "2022-01-17": 990019,
-  "2022-01-18": 990048,
-  "2022-01-19": 990205,
-  "2022-01-20": 990399,
-  "2022-01-21": 990596,
-  "2022-01-22": 990770,
-  "2022-01-23": 990988,
-  "2022-01-24": 991201,
-  "2022-01-25": 991378,
-  "2022-01-26": 991582,
-  "2022-01-27": 991807,
-  "2022-01-28": 992056,
-  "2022-01-29": 992293,
-  "2022-01-30": 992544,
-  "2022-01-31": 992778,
-  "2022-02-01": 992958,
-  "2022-02-02": 993142,
-  "2022-02-03": 993357,
-  "2022-02-04": 993580,
-  "2022-02-05": 993827,
-  "2022-02-06": 994071,
-  "2022-02-07": 994311,
-  "2022-02-08": 994488,
-  "2022-02-09": 994678,
-  "2022-02-10": 994875,
-  "2022-02-11": 995105,
-  "2022-02-12": 995369,
-  "2022-02-13": 995595,
-  "2022-02-14": 995788,
-  "2022-02-15": 996043,
-  "2022-02-16": 996336,
-  "2022-02-17": 996600,
-  "2022-02-18": 996856,
-  "2022-02-19": 997154,
-  "2022-02-20": 997410,
-  "2022-02-21": 997637,
-  "2022-02-22": 997850,
-  "2022-02-23": 998064,
-  "2022-02-24": 998306,
-  "2022-02-25": 998467,
-  "2022-02-26": 998702,
-  "2022-02-27": 999161,
-  "2022-02-28": 999161,
-  "2022-03-01": 999359,
-  "2022-03-02": 999587,
-  "2022-03-03": 999826,
-  "2022-03-04": 1000103,
-  "2022-03-05": 1000401,
-  "2022-03-06": 1000657,
-  "2022-03-07": 1000888,
-  "2022-03-08": 1001118,
-  "2022-03-09": 1001321,
-  "2022-03-10": 1001569,
-  "2022-03-11": 1001777,
-  "2022-03-12": 1002048,
-  "2022-03-13": 1002278,
-  "2022-03-14": 1002513,
-  "2022-03-15": 1002716,
-  "2022-03-16": 1002933,
-  "2022-03-17": 1003120,
-  "2022-03-18": 1003396,
-  "2022-03-19": 1003549,
-  "2022-03-20": 1003549,
-  "2022-03-21": 1004061,
-  "2022-03-22": 1004239,
-  "2022-03-23": 1004462,
-  "2022-03-24": 1004689,
-  "2022-03-25": 1004880,
-  "2022-03-26": 1005048,
-  "2022-03-27": 1005270,
-  "2022-03-28": 1005437,
-  "2022-03-30": 1005793,
-  "2022-03-31": 1006003,
-  "2022-04-01": 1006231,
-  "2022-04-02": 1006459,
-  "2022-04-03": 1006689,
-  "2022-04-04": 1006898,
-  "2022-04-05": 1007086,
-  "2022-04-06": 1007286,
-  "2022-04-07": 1007445,
-  "2022-04-08": 1007678,
-  "2022-04-09": 1007916,
-  "2022-04-10": 1008288,
-  "2022-04-11": 1008478,
-  "2022-04-12": 1008502,
-  "2022-04-13": 1008684,
-  "2022-04-14": 1008894,
-  "2022-04-15": 1009165,
-  "2022-04-16": 1009383,
-  "2022-04-17": 1009571,
-  "2022-04-18": 1009802,
-  "2022-04-19": 1009960,
-  "2022-04-20": 1010193,
-  "2022-04-21": 1010410,
-  "2022-04-22": 1010614,
-  "2022-04-23": 1010807,
-  "2022-04-24": 1010981,
-  "2022-04-25": 1011178,
-  "2022-04-26": 1011362,
-  "2022-04-27": 1011610,
-  "2022-04-28": 1011773,
-  "2022-04-29": 1012111,
-  "2022-04-30": 1012314,
-  "2022-05-01": 1012528,
-  "2022-05-02": 1012528,
-  "2022-05-03": 1012714,
-  "2022-05-04": 1012882,
-  "2022-05-05": 1013043,
-  "2022-05-06": 1013236,
-  "2022-05-07": 1013449,
-  "2022-05-08": 1013732,
-  "2022-05-09": 1013776,
-  "2022-05-10": 1013949,
-  "2022-05-11": 1014150,
-  "2022-05-12": 1014309,
-  "2022-05-13": 1014495,
-  "2022-05-14": 1014718,
-  "2022-05-15": 1014908,
-  "2022-05-16": 1015085,
-  "2022-05-17": 1015250,
-  "2022-05-18": 1015423,
-  "2022-05-19": 1015556,
-  "2022-05-20": 1015808,
-  "2022-05-21": 1016120,
-  "2022-05-22": 1016120,
-  "2022-05-23": 1016260,
-  "2022-05-24": 1016414,
-  "2022-05-25": 1016593,
-  "2022-05-26": 1016800,
-  "2022-05-27": 1016948,
-  "2022-05-28": 1017150,
-  "2022-05-29": 1017346,
-  "2022-05-30": 1017528,
-  "2022-05-31": 1017699,
-  "2022-06-01": 1018023,
-  "2022-06-02": 1018055,
-  "2022-06-03": 1018256,
-  "2022-06-04": 1018460,
-  "2022-06-05": 1018656,
-  "2022-06-06": 1018844,
-  "2022-06-07": 1019027,
-  "2022-06-08": 1019279,
-  "2022-06-09": 1019409,
-  "2022-06-10": 1019579,
-  "2022-06-11": 1019784,
-  "2022-06-12": 1019957,
-  "2022-06-13": 1020118,
-  "2022-06-14": 1020269,
-  "2022-06-15": 1020457,
-  "2022-06-16": 1020605,
-  "2022-06-17": 1020777,
-  "2022-06-18": 1020925,
-  "2022-06-19": 1021249,
-  "2022-06-20": 1021249,
-  "2022-06-21": 1021439,
-  "2022-06-22": 1021751,
-  "2022-06-23": 1021751,
-  "2022-06-24": 1021948,
-  "2022-06-25": 1022118,
-  "2022-06-26": 1022307,
-  "2022-06-27": 1022444,
-  "2022-06-28": 1022628,
-  "2022-06-29": 1022833,
-  "2022-06-30": 1023035,
-  "2022-07-01": 1023226,
-  "2022-07-02": 1023386,
-  "2022-07-03": 1023581,
-  "2022-07-04": 1023763,
-  "2022-07-05": 1023763,
-  "2022-07-06": 1023763,
-  "2022-07-07": 1024228,
-  "2022-07-08": 1024372,
-  "2022-07-09": 1024550,
-  "2022-07-10": 1024713,
-  "2022-07-11": 1024873,
-  "2022-07-12": 1025071,
-  "2022-07-13": 1025216,
-  "2022-07-14": 1025353,
-  "2022-07-15": 1025547,
-  "2022-07-16": 1025784,
-  "2022-07-17": 1025963,
-  "2022-07-18": 1026202,
-  "2022-07-19": 1026392,
-  "2022-07-20": 1026576,
-  "2022-07-21": 1026710,
-  "2022-07-22": 1026944,
-  "2022-07-23": 1027185,
-  "2022-07-24": 1027394,
-  "2022-07-25": 1027562,
-  "2022-07-26": 1027743,
-  "2022-07-27": 1027924,
-  "2022-07-28": 1028101,
-  "2022-07-29": 1028321,
-  "2022-07-30": 1028801,
-  "2022-07-31": 1028801,
-  "2022-08-01": 1029000,
-  "2022-08-02": 1029410,
-  "2022-08-03": 1029410,
-  "2022-08-04": 1029612,
-  "2022-08-05": 1029813,
-  "2022-08-06": 1030040,
-  "2022-08-07": 1030278,
-  "2022-08-08": 1030519,
-  "2022-08-09": 1030744,
-  "2022-08-10": 1030938,
-  "2022-08-11": 1031116,
-  "2022-08-12": 1031339,
-  "2022-08-13": 1031562,
-  "2022-08-14": 1031778,
-  "2022-08-15": 1031976,
-  "2022-08-16": 1032169,
-  "2022-08-17": 1032356,
-  "2022-08-18": 1032512,
-  "2022-08-19": 1032730,
-  "2022-08-20": 1032985,
-  "2022-08-21": 1033161,
-  "2022-08-22": 1033349,
-  "2022-08-23": 1033496,
-  "2022-08-24": 1033663,
-  "2022-08-25": 1033795,
-  "2022-08-26": 1034008,
-  "2022-08-27": 1034212,
-  "2022-08-28": 1034371,
-  "2022-08-29": 1034525,
-  "2022-08-30": 1034606,
-  "2022-08-31": 1034574,
-  "2022-09-01": 1034501,
-  "2022-09-02": 1034459,
-  "2022-09-03": 1034297,
-  "2022-09-04": 1034304,
-  "2022-09-05": 1034470,
-  "2022-09-06": 1034620,
-  "2022-09-07": 1034814,
-  "2022-09-09": 1035123,
-  "2022-09-10": 1035311,
-  "2022-09-11": 1035537,
-  "2022-09-12": 1035768,
-  "2022-09-13": 1035915,
-  "2022-09-15": 1036245,
-  "2022-09-16": 1036425,
-  "2022-09-17": 1036632,
-  "2022-09-18": 1036853,
-  "2022-09-19": 1037039,
-  "2022-09-20": 1037216,
-  "2022-09-21": 1037407,
-  "2022-09-22": 1037615,
-  "2022-09-23": 1037861,
-  "2022-09-24": 1037861,
-  "2022-09-25": 1038379,
-  "2022-09-26": 1038596,
-  "2022-09-27": 1038817,
-  "2022-09-28": 1039013,
-  "2022-09-29": 1039238,
-  "2022-09-30": 1039560,
-  "2022-10-01": 1039863,
-  "2022-10-02": 1040113,
-  "2022-10-03": 1040363,
-  "2022-10-04": 1040611,
-  "2022-10-05": 1040855,
-  "2022-10-06": 1041141,
-  "2022-10-07": 1041461,
-  "2022-10-08": 1041739,
-  "2022-10-09": 1042168,
-  "2022-10-10": 1042216,
-  "2022-10-11": 1042429,
-  "2022-10-12": 1042683,
-  "2022-10-13": 1042901,
-  "2022-10-14": 1043174,
-  "2022-10-15": 1043441,
-  "2022-10-16": 1043708,
-  "2022-10-17": 1043972,
-  "2022-10-18": 1044194,
-  "2022-10-19": 1044444,
-  "2022-10-20": 1044690,
-  "2022-10-21": 1044927,
-  "2022-10-22": 1045203,
-  "2022-10-23": 1045465,
-  "2022-10-24": 1045679,
-  "2022-10-25": 1045902,
-  "2022-10-26": 1046148,
-  "2022-10-27": 1046417,
-  "2022-10-28": 1046703,
-  "2022-10-29": 1046959,
-  "2022-10-30": 1047156,
-  "2022-10-31": 1047363,
-  "2022-11-01": 1047555,
-  "2022-11-02": 1047786,
-  "2022-11-03": 1048011,
-  "2022-11-04": 1048239,
-  "2022-11-05": 1048496,
-  "2022-11-06": 1048716,
-  "2022-11-07": 1048905,
-  "2022-11-08": 1049096,
-  "2022-11-09": 1049308,
-  "2022-11-10": 1049538,
-  "2022-11-11": 1049819,
-  "2022-11-12": 1050113,
-  "2022-11-13": 1050309,
-  "2022-11-14": 1050575,
-  "2022-11-15": 1050749,
-  "2022-11-16": 1050988,
-  "2022-11-17": 1051180,
-  "2022-11-18": 1051225,
-  "2022-11-19": 1051232,
-  "2022-11-20": 1051428,
-  "2022-11-21": 1051655,
-  "2022-11-22": 1051890,
-  "2022-11-23": 1052084,
-  "2022-11-24": 1052553,
-  "2022-11-25": 1052883,
-  "2022-11-26": 1053127,
-  "2022-11-27": 1053368,
-  "2022-11-28": 1053553,
-  "2022-11-29": 1053769,
-  "2022-11-30": 1053942,
-  "2022-12-01": 1054108,
-  "2022-12-02": 1054215,
-  "2022-12-03": 1054480,
-  "2022-12-04": 1054733,
-  "2022-12-05": 1054933,
-  "2022-12-06": 1055114,
-  "2022-12-07": 1055335,
-  "2022-12-08": 1055575,
-  "2022-12-09": 1055771,
-  "2022-12-10": 1055969,
-  "2022-12-11": 1056204,
-  "2022-12-12": 1056368,
-  "2022-12-13": 1056566,
-  "2022-12-14": 1056744,
-  "2022-12-15": 1056958,
-  "2022-12-16": 1057158,
-  "2022-12-17": 1057368,
-  "2022-12-18": 1057552,
-  "2022-12-19": 1057713,
-  "2022-12-20": 1058038,
-  "2022-12-21": 1058038,
-  "2022-12-22": 1058183,
-  "2022-12-24": 1058589,
-  "2022-12-25": 1058808,
-  "2022-12-26": 1058951,
-  "2022-12-27": 1059167,
-  "2022-12-28": 1059336,
-  "2022-12-29": 1059562,
-  "2022-12-30": 1059842,
-  "2022-12-31": 1060102,
-  "2023-01-01": 1060388,
-  "2023-01-02": 1060551,
-  "2023-01-03": 1060799,
-  "2023-01-04": 1061028,
-  "2023-01-05": 1061223,
-  "2023-01-06": 1061515,
-  "2023-01-07": 1061923,
-  "2023-01-08": 1062001,
-  "2023-01-09": 1062239,
-  "2023-01-10": 1062414,
-  "2023-01-11": 1062602,
-  "2023-01-12": 1062839,
-  "2023-01-13": 1063065,
-  "2023-01-14": 1063495,
-  "2023-01-15": 1063548,
-  "2023-01-16": 1063782,
-  "2023-01-17": 1063982,
-  "2023-01-18": 1064198,
-  "2023-01-19": 1064392,
-  "2023-01-20": 1064657,
-  "2023-01-21": 1064942,
-  "2023-01-22": 1065220,
-  "2023-01-23": 1065462,
-  "2023-01-24": 1065726,
-  "2023-01-25": 1065953,
-  "2023-01-26": 1066186,
-  "2023-01-27": 1066427,
-  "2023-01-28": 1066606,
-  "2023-01-29": 1066904,
-  "2023-01-30": 1067133,
-  "2023-01-31": 1067133,
-  "2023-02-01": 1067570,
-  "2023-02-02": 1067786,
-  "2023-02-03": 1068006,
-  "2023-02-04": 1068263,
-  "2023-02-05": 1068446,
-  "2023-02-06": 1068666,
-  "2023-02-07": 1068877,
-  "2023-02-08": 1069247,
-  "2023-02-09": 1069247,
-  "2023-02-10": 1069463,
-  "2023-02-11": 1069718,
-  "2023-02-12": 1070130,
-  "2023-02-13": 1070667,
-  "2023-02-14": 1070667,
-  "2023-02-15": 1071057,
-  "2023-02-16": 1071441,
-  "2023-02-17": 1071870,
-  "2023-02-18": 1072629,
-  "2023-02-19": 1072710,
-  "2023-02-20": 1072986,
-  "2023-02-21": 1073304,
-  "2023-02-22": 1073627,
-  "2023-02-23": 1073938,
-  "2023-02-24": 1074273,
-  "2023-02-25": 1074665,
-  "2023-02-26": 1074865,
-  "2023-02-27": 1075419,
-  "2023-02-28": 1075419,
-  "2023-03-01": 1075664,
-  "2023-03-02": 1075943,
-  "2023-03-03": 1076229,
-  "2023-03-04": 1076486,
-  "2023-03-05": 1077018,
-  "2023-03-06": 1077018,
-  "2023-03-07": 1077250,
-  "2023-03-08": 1077484,
-  "2023-03-09": 1077751,
-  "2023-03-10": 1078006,
-  "2023-03-11": 1078250,
-  "2023-03-12": 1078521,
-  "2023-03-13": 1078751,
-  "2023-03-14": 1078992,
-  "2023-03-15": 1079211,
-  "2023-03-16": 1079211,
-  "2023-03-17": 1079211,
-  "2023-03-18": 1079888,
-  "2023-03-19": 1079888,
-  "2023-03-20": 1080358,
-  "2023-03-21": 1080603,
-  "2023-03-22": 1080815,
-  "2023-03-23": 1081071,
-  "2023-03-24": 1081071,
-  "2023-03-25": 1081534,
-  "2023-03-26": 1081802,
-  "2023-03-27": 1082029,
-  "2023-03-28": 1082272,
-  "2023-03-29": 1082519,
-  "2023-03-30": 1082987,
-  "2023-03-31": 1082987,
-  "2023-04-01": 1083224,
-  "2023-04-02": 1083487,
-  "2023-04-03": 1083693,
-  "2023-04-04": 1083912,
-  "2023-04-05": 1084148,
-  "2023-04-06": 1084404,
-  "2023-04-07": 1084661,
-  "2023-04-09": 1085128,
-  "2023-04-10": 1085413,
-  "2023-04-11": 1085839,
-  "2023-04-12": 1085839,
-  "2023-04-13": 1086081,
-  "2023-04-14": 1086354,
-  "2023-04-15": 1086603,
-  "2023-04-16": 1086827,
-  "2023-04-17": 1087063,
-  "2023-04-18": 1087290,
-  "2023-04-19": 1087510,
-  "2023-04-20": 1087756,
-  "2023-04-21": 1087966,
-  "2023-04-22": 1088247,
-  "2023-04-23": 1088515,
-  "2023-04-24": 1088726,
-  "2023-04-25": 1089004,
-  "2023-04-26": 1089213,
-  "2023-04-27": 1089474,
-  "2023-04-28": 1089752,
-  "2023-04-29": 1090058,
-  "2023-04-30": 1090322,
-  "2023-05-01": 1090553,
-  "2023-05-02": 1090791,
-  "2023-05-03": 1091019,
-  "2023-05-04": 1091213,
-  "2023-05-05": 1091443,
-  "2023-05-06": 1091677,
-  "2023-05-07": 1091978,
-  "2023-05-08": 1092413,
-  "2023-05-09": 1092851,
-  "2023-05-10": 1093172,
-  "2023-05-11": 1093475,
-  "2023-05-12": 1093727,
-  "2023-05-13": 1094058,
-  "2023-05-14": 1094340,
-  "2023-05-15": 1094568,
-  "2023-05-16": 1094803,
-  "2023-05-17": 1095043,
-  "2023-05-18": 1095235,
-  "2023-05-19": 1095513,
-  "2023-05-20": 1096026,
-  "2023-05-21": 1096026,
-  "2023-05-22": 1096026,
-  "2023-05-23": 1096502,
-  "2023-05-24": 1096904,
-  "2023-05-25": 1096949,
-  "2023-05-26": 1097167,
-  "2023-05-27": 1097431,
-  "2023-05-28": 1097638,
-  "2023-05-29": 1097638,
-  "2023-05-30": 1098028,
-  "2023-05-31": 1098228,
-  "2023-06-01": 1098467,
-  "2023-06-02": 1098680,
-  "2023-06-03": 1098879,
-  "2023-06-04": 1099119,
-  "2023-06-05": 1099298,
-  "2023-06-06": 1099529,
-  "2023-06-07": 1099748,
-  "2023-06-08": 1099966,
-  "2023-06-09": 1100209,
-  "2023-06-10": 1100484,
-  "2023-06-11": 1100687,
-  "2023-06-12": 1100896,
-  "2023-06-13": 1101101,
-  "2023-06-14": 1101292,
-  "2023-06-15": 1101540,
-  "2023-06-16": 1101747,
-  "2023-06-17": 1101989,
-  "2023-06-18": 1102218,
-  "2023-06-19": 1102417,
-  "2023-06-20": 1102610,
-  "2023-06-21": 1102843,
-  "2023-06-22": 1103089,
-  "2023-06-23": 1103320,
-  "2023-06-24": 1103604,
-  "2023-06-25": 1103836,
-  "2023-06-26": 1104067,
-  "2023-06-27": 1104292,
-  "2023-06-28": 1104476,
-  "2023-06-29": 1104726,
-  "2023-06-30": 1104976,
-  "2023-07-01": 1105460,
-  "2023-07-02": 1105460,
-  "2023-07-03": 1105647,
-  "2023-07-04": 1105841,
-  "2023-07-05": 1106061,
-  "2023-07-06": 1106501,
-  "2023-07-07": 1106501,
-  "2023-07-08": 1106501,
-  "2023-07-09": 1106939,
-  "2023-07-10": 1107132,
-  "2023-07-11": 1107349,
-  "2023-07-12": 1107556,
-  "2023-07-13": 1107748,
-  "2023-07-14": 1107981,
-  "2023-07-15": 1108213,
-  "2023-07-16": 1108441,
-  "2023-07-17": 1108679,
-  "2023-07-18": 1108880,
-  "2023-07-19": 1109103,
-  "2023-07-20": 1109103,
-  "2023-07-21": 1109531,
-  "2023-07-22": 1109805,
-  "2023-07-23": 1110024,
-  "2023-07-24": 1110223,
-  "2023-07-25": 1110444,
-  "2023-07-26": 1110663,
-  "2023-07-27": 1110908,
-  "2023-07-28": 1112329,
-  "2023-07-29": 1116568,
-  "2023-07-30": 1117227,
-  "2023-07-31": 1117609,
-  "2023-08-01": 1117913,
-  "2023-08-02": 1118120,
-  "2023-08-03": 1118340,
-  "2023-08-04": 1118523,
-  "2023-08-05": 1118722,
-  "2023-08-06": 1119133,
-  "2023-08-07": 1119133,
-  "2023-08-08": 1119325,
-  "2023-08-09": 1119507,
-  "2023-08-10": 1119733,
-  "2023-08-11": 1119946,
-  "2023-08-12": 1119946,
-  "2023-08-13": 1119946,
-  "2023-08-14": 1120609,
-  "2023-08-15": 1120609,
-  "2023-08-16": 1120609,
-  "2023-08-17": 1120609,
-  "2023-08-18": 1120609,
-  "2023-08-19": 1120609,
-  "2023-08-20": 1121813,
-  "2023-08-21": 1121813,
-  "2023-08-22": 1122152,
-  "2023-08-23": 1122152,
-  "2023-08-24": 1122152,
-  "2023-08-25": 1122152,
-  "2023-08-26": 1122995,
-  "2023-08-27": 1122995,
-  "2023-08-28": 1123436,
-  "2023-08-29": 1123436,
-  "2023-08-30": 1123436,
-  "2023-08-31": 1124050,
-  "2023-09-01": 1124242,
-  "2023-09-02": 1124242,
-  "2023-09-03": 1124242,
-  "2023-09-04": 1124242,
-  "2023-09-05": 1124242,
-  "2023-09-06": 1124242,
-  "2023-09-07": 1124242,
-  "2023-09-08": 1124242,
-  "2023-09-09": 1124242,
-  "2023-09-10": 1124242,
-  "2023-09-11": 1124242,
-  "2023-09-12": 1124242,
-  "2023-09-13": 1124242,
-  "2023-09-14": 1124242,
-  "2023-09-15": 1124242,
-  "2023-09-16": 1127587,
-  "2023-09-17": 1127587,
-  "2023-09-18": 1127587,
-  "2023-09-19": 1128252,
-  "2023-09-20": 1128252,
-  "2023-09-21": 1128252,
-  "2023-09-22": 1128990,
-  "2023-09-23": 1128990,
-  "2023-09-24": 1128990,
-  "2023-09-25": 1128990,
-  "2023-09-26": 1130146,
-  "2023-09-27": 1130146,
-  "2023-09-28": 1130146,
-  "2023-09-29": 1130146,
-  "2023-09-30": 1130146,
-  "2023-10-01": 1130146,
-  "2023-10-02": 1130146,
-  "2023-10-03": 1130146,
-  "2023-10-04": 1130146,
-  "2023-10-05": 1130146,
-  "2023-10-06": 1130146,
-  "2023-10-07": 1130146,
-  "2023-10-08": 1130146,
-  "2023-10-09": 1130146,
-  "2023-10-10": 1130146,
-  "2023-10-11": 1132206,
-  "2023-10-12": 1132206,
-  "2023-10-13": 1132206,
-  "2023-10-14": 1132206,
-  "2023-10-15": 1132206,
-  "2023-10-16": 1132206,
-  "2023-10-17": 1132206,
-  "2023-10-18": 1132206,
-  "2023-10-19": 1132206,
-  "2023-10-20": 1132206,
-  "2023-10-21": 1132206,
-  "2023-10-22": 1132206,
-  "2023-10-23": 1132206,
-  "2023-10-24": 1132206,
-  "2023-10-25": 1132206,
-  "2023-10-26": 1132206,
-  "2023-10-27": 1132206,
-  "2023-10-28": 1132206,
-  "2023-10-29": 1132206,
-  "2023-10-30": 1132206,
-  "2023-10-31": 1132206,
-  "2023-11-01": 1132206,
-  "2023-11-02": 1132206,
-  "2023-11-03": 1132206,
-  "2023-11-04": 1132206,
-  "2023-11-05": 1132206,
-  "2023-11-06": 1132206,
-  "2023-11-07": 1132206,
-  "2023-11-08": 1132206,
-  "2023-11-09": 1132206,
-  "2023-11-10": 1132206,
-  "2023-11-11": 1136222,
-  "2023-11-12": 1136222,
-  "2023-11-13": 1136222,
-  "2023-11-14": 1136222,
-  "2023-11-15": 1136222,
-  "2023-11-16": 1136222,
-  "2023-11-17": 1136222,
-  "2023-11-18": 1136222,
-  "2023-11-19": 1136222,
-  "2023-11-20": 1136222,
-  "2023-11-21": 1136222,
-  "2023-11-22": 1136222,
-  "2023-11-23": 1136222,
-  "2023-11-24": 1136222,
-  "2023-11-25": 1136222,
-  "2023-11-26": 1136222,
-  "2023-11-27": 1136222,
-  "2023-11-28": 1136222,
-  "2023-11-29": 1136222,
-  "2023-11-30": 1136222,
-  "2023-12-01": 1136222,
-  "2023-12-02": 1136222,
-  "2023-12-03": 1136222,
-  "2023-12-04": 1136222,
-  "2023-12-05": 1136222,
-  "2023-12-06": 1136222,
-  "2023-12-07": 1136222,
-  "2023-12-08": 1136222,
-  "2023-12-09": 1136222,
-  "2023-12-10": 1136222,
-  "2023-12-11": 1136222,
-  "2023-12-12": 1136222,
-  "2023-12-13": 1136222,
-  "2023-12-14": 1142638,
-  "2023-12-15": 1142786,
-  "2023-12-16": 1143015,
-  "2023-12-17": 1143218,
-  "2023-12-18": 1143398,
-  "2023-12-19": 1143528,
-  "2023-12-20": 1143664,
-  "2023-12-21": 1143819,
-  "2023-12-22": 1144017,
-  "2023-12-23": 1144186,
-  "2023-12-24": 1144333,
-  "2023-12-25": 1144488,
-  "2023-12-26": 1144611,
-  "2023-12-27": 1144802,
-  "2023-12-30": 1145408,
-  "2023-12-31": 1145647,
-  "2024-01-01": 1145827,
-  "2024-01-02": 1145942,
-  "2024-01-03": 1146109
+  "2024-01-17": 1144001,
+  "date_first_scraped": "2022-01-13",
+  "description": "This is Katy Perry. The essential tracks, all in one playlist.",
+  "name": "This Is Katy Perry",
+  "tracks": [
+    {
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181899,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d"
+    },
+    {
+      "album": {
+        "name": "One Of The Boys (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 256539,
+      "name": "A Cup Of Coffee - Remixed / Remastered 2023",
+      "url": "https://open.spotify.com/track/4036mSGS7NnpDnn2Cq3c5l"
+    },
+    {
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-19",
+      "duration_ms": 206138,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215042,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR"
+    },
+    {
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227813,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/4rHmKlFRiFzabiVO6e9w2e"
+    },
+    {
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 268790,
+      "name": "By The Grace Of God",
+      "url": "https://open.spotify.com/track/1i0Rv7GtiCnnhpEkNAya80"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234653,
+      "name": "California Gurls",
+      "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
+    },
+    {
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237733,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196218,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/5iKXqTVr88ghRPwMEeVKVM"
+    },
+    {
+      "album": {
+        "name": "Con Calma (Remix)",
+        "url": "https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181280,
+      "name": "Con Calma - Remix",
+      "url": "https://open.spotify.com/track/4au7FRcgZzChASRYu279xH"
+    },
+    {
+      "album": {
+        "name": "Cozy Little Christmas",
+        "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 182520,
+      "name": "Cozy Little Christmas",
+      "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
+    },
+    {
+      "album": {
+        "name": "Cry About It Later (feat. Lu\u00edsa Sonza & Bruno Martini)",
+        "url": "https://open.spotify.com/album/6a74WD13saUvUB52D62NV0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159285,
+      "name": "Cry About It Later (feat. Lu\u00edsa Sonza & Bruno Martini)",
+      "url": "https://open.spotify.com/track/43WYPxyEfIxlIjNlxQGYzc"
+    },
+    {
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173123,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
+    },
+    {
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215672,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 215672,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/4z8ssgZfs5TzKiO8HaGWXO"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45"
+    },
+    {
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193543,
+      "name": "Electric - Pokemon 25 Version",
+      "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
+    },
+    {
+      "album": {
+        "name": "Funk Wav Bounces Vol.1",
+        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223413,
+      "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+      "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-07",
+      "duration_ms": 227880,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 203362,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/665T5MrQUl7sSwivPm7pEW"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
+    },
+    {
+      "album": {
+        "name": "Harleys In Hawaii",
+        "url": "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 185815,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR"
+    },
+    {
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Hey Hey Hey",
+      "url": "https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu"
+    },
+    {
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
+    },
+    {
+      "album": {
+        "name": "Hot N Cold",
+        "url": "https://open.spotify.com/album/7t536KbHOO8GOEhHpk0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Hot N Cold - Rock Version",
+      "url": "https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 212280,
+      "name": "Hummingbird Heartbeat",
+      "url": "https://open.spotify.com/track/089keBWJUOsI9wUeVr1uIr"
+    },
+    {
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179640,
+      "name": "I Kissed A Girl",
+      "url": "https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV"
+    },
+    {
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176762,
+      "name": "I Kissed A Girl - Rock Remix",
+      "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
+    },
+    {
+      "album": {
+        "name": "Shock Value II",
+        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292706,
+      "name": "If We Ever Meet Again (Featuring Katy Perry)",
+      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
+    },
+    {
+      "album": {
+        "name": "If We Ever Meet Again (Featuring Katy Perry) [UK Version]",
+        "url": "https://open.spotify.com/album/7vRchjIhxXVAz5B22h30EY"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 238720,
+      "name": "If We Ever Meet Again - International Radio Edit",
+      "url": "https://open.spotify.com/track/1pU3C7v8zcEEPkdqaKSEi6"
+    },
+    {
+      "album": {
+        "name": "One Of The Boys (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 198346,
+      "name": "If You Can Afford Me",
+      "url": "https://open.spotify.com/track/4WqiQqsqWRqcLPnoxwfPAi"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 227820,
+      "name": "International Smile",
+      "url": "https://open.spotify.com/track/5OzIe9IL95B23n4rN59JZ3"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 234504,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/4MxGfhE3DKxBhdSWTYvc4h"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/1htQDV8JxSuXG2QsNj5ttr"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 230746,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Dr. Luke",
+          "url": "https://open.spotify.com/artist/3qk8IBcwEDBKBdExVhSLIb"
+        },
+        {
+          "name": "Cirkut",
+          "url": "https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv"
+        },
+        {
+          "name": "Dream Machine",
+          "url": "https://open.spotify.com/artist/1RXCSRl9JrHXl7cSGebdWG"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-27",
+      "duration_ms": 238746,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/4Smx7N3TVs9McglUSCWEYn"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224216,
+      "name": "Legendary Lovers",
+      "url": "https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 232675,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2BSFAQuiYKu4VcMjovRgRQ"
+    },
+    {
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 234280,
+      "name": "Miss You More",
+      "url": "https://open.spotify.com/track/7BZSIG9TyowrVzSdZJpmeI"
+    },
+    {
+      "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "album": {
+        "name": "Never Worn White",
+        "url": "https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225039,
+      "name": "Never Worn White",
+      "url": "https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178641,
+      "name": "Not the End of the World",
+      "url": "https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71"
+    },
+    {
+      "album": {
+        "name": "One Of The Boys (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247653,
+      "name": "One Of The Boys",
+      "url": "https://open.spotify.com/track/6uIODsxIHybW8ngRUAACb6"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 198724,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/6lWp5O5XH6smTt4vzd4Mgy"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 231920,
+      "name": "Peacock",
+      "url": "https://open.spotify.com/track/0rXw5rWZpOdfeeCbMln8MU"
+    },
+    {
+      "album": {
+        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198946,
+      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203474,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX"
+    },
+    {
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
+    },
+    {
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 198680,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES"
+    },
+    {
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161962,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 166898,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166898,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/59s3aMqR9uOzLIXAcgBCEm"
+    },
+    {
+      "album": {
+        "name": "Smile (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/7c47yayjXtwCHIz9fKdUkn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 181604,
+      "name": "Smile - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/4HpgUlwIh3JbSW4r8C2SmP"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-11",
+      "duration_ms": 275889,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/6lOS1dPkjHlAzRCMplJupN"
+    },
+    {
+      "album": {
+        "name": "WANT (Deluxe)",
+        "url": "https://open.spotify.com/album/10xgy5KkSpP3prnygQmFoN"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Matt Squire",
+          "url": "https://open.spotify.com/artist/3Pk9L2rUT7wj7queJvrlp5"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "STARSTRUKK (feat. Katy Perry)",
+      "url": "https://open.spotify.com/track/1hBM2D1ULT3aeKuddSwPsK"
+    },
+    {
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242520,
+      "name": "Swish Swish",
+      "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 182595,
+      "name": "Teary Eyes",
+      "url": "https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-29",
+      "duration_ms": 227760,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/55qBw1900pZKfXJ6Q9A2Lc"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream - Remix EP",
+        "url": "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234920,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/4uQY80TKE1u4ZQZQKHzVEi"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259040,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
+    },
+    {
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246410,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 204285,
+      "name": "This Is How We Do",
+      "url": "https://open.spotify.com/track/5vL0yvddknhGj7IrBc6UTj"
+    },
+    {
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "This Is How We Do",
+      "url": "https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187436,
+      "name": "Tucked",
+      "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
+    },
+    {
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228878,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"
+    },
+    {
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Waking Up In Vegas",
+      "url": "https://open.spotify.com/track/6fvxos1qSHrIgOkKw4dhWS"
+    },
+    {
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222448,
+      "name": "Walking On Air",
+      "url": "https://open.spotify.com/track/0RCsGhR44nFVAd5WiZZcGq"
+    },
+    {
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Where We Started",
+      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249933,
+      "name": "Who You Love (feat. Katy Perry)",
+      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220946,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Jefw4"
 }

@@ -1,472 +1,1737 @@
 {
-  "2022-09-17": 14464,
-  "2022-09-18": 14479,
-  "2022-09-19": 14487,
-  "2022-09-20": 14496,
-  "2022-09-21": 14500,
-  "2022-09-22": 14503,
-  "2022-09-23": 14511,
-  "2022-09-24": 14522,
-  "2022-09-25": 14526,
-  "2022-09-26": 14531,
-  "2022-09-27": 14544,
-  "2022-09-28": 14549,
-  "2022-09-29": 14564,
-  "2022-09-30": 14573,
-  "2022-10-01": 14585,
-  "2022-10-02": 14592,
-  "2022-10-03": 14601,
-  "2022-10-04": 14614,
-  "2022-10-05": 14626,
-  "2022-10-06": 14637,
-  "2022-10-07": 14643,
-  "2022-10-08": 14649,
-  "2022-10-09": 14662,
-  "2022-10-10": 14666,
-  "2022-10-11": 14672,
-  "2022-10-12": 14696,
-  "2022-10-13": 14729,
-  "2022-10-14": 14751,
-  "2022-10-15": 14771,
-  "2022-10-16": 14803,
-  "2022-10-17": 14817,
-  "2022-10-18": 14833,
-  "2022-10-19": 14855,
-  "2022-10-20": 14877,
-  "2022-10-21": 14890,
-  "2022-10-22": 14906,
-  "2022-10-23": 14918,
-  "2022-10-24": 14930,
-  "2022-10-25": 14941,
-  "2022-10-26": 14945,
-  "2022-10-27": 14963,
-  "2022-10-28": 14976,
-  "2022-10-29": 14992,
-  "2022-10-30": 15005,
-  "2022-10-31": 15018,
-  "2022-11-01": 15030,
-  "2022-11-02": 15041,
-  "2022-11-03": 15044,
-  "2022-11-04": 15054,
-  "2022-11-05": 15061,
-  "2022-11-06": 15073,
-  "2022-11-07": 15082,
-  "2022-11-08": 15088,
-  "2022-11-09": 15097,
-  "2022-11-10": 15101,
-  "2022-11-11": 15107,
-  "2022-11-12": 15119,
-  "2022-11-13": 15126,
-  "2022-11-14": 15136,
-  "2022-11-15": 15142,
-  "2022-11-16": 15154,
-  "2022-11-17": 15165,
-  "2022-11-18": 15164,
-  "2022-11-19": 15165,
-  "2022-11-20": 15180,
-  "2022-11-21": 15192,
-  "2022-11-22": 15205,
-  "2022-11-23": 15209,
-  "2022-11-24": 15226,
-  "2022-11-25": 15241,
-  "2022-11-26": 15250,
-  "2022-11-27": 15256,
-  "2022-11-28": 15262,
-  "2022-11-29": 15265,
-  "2022-11-30": 15270,
-  "2022-12-01": 15279,
-  "2022-12-02": 15286,
-  "2022-12-03": 15293,
-  "2022-12-04": 15301,
-  "2022-12-05": 15309,
-  "2022-12-06": 15317,
-  "2022-12-07": 15328,
-  "2022-12-08": 15333,
-  "2022-12-09": 15347,
-  "2022-12-10": 15352,
-  "2022-12-11": 15361,
-  "2022-12-12": 15365,
-  "2022-12-13": 15366,
-  "2022-12-14": 15370,
-  "2022-12-15": 15375,
-  "2022-12-16": 15385,
-  "2022-12-17": 15389,
-  "2022-12-18": 15395,
-  "2022-12-19": 15401,
-  "2022-12-20": 15413,
-  "2022-12-21": 15413,
-  "2022-12-22": 15422,
-  "2022-12-24": 15425,
-  "2022-12-25": 15432,
-  "2022-12-26": 15432,
-  "2022-12-27": 15439,
-  "2022-12-28": 15451,
-  "2022-12-29": 15458,
-  "2022-12-30": 15467,
-  "2022-12-31": 15477,
-  "2023-01-01": 15479,
-  "2023-01-02": 15482,
-  "2023-01-03": 15493,
-  "2023-01-04": 15499,
-  "2023-01-05": 15508,
-  "2023-01-06": 15513,
-  "2023-01-07": 15524,
-  "2023-01-08": 15527,
-  "2023-01-09": 15539,
-  "2023-01-10": 15545,
-  "2023-01-11": 15549,
-  "2023-01-12": 15559,
-  "2023-01-13": 15576,
-  "2023-01-14": 15590,
-  "2023-01-15": 15590,
-  "2023-01-16": 15594,
-  "2023-01-17": 15598,
-  "2023-01-18": 15605,
-  "2023-01-19": 15610,
-  "2023-01-20": 15614,
-  "2023-01-21": 15619,
-  "2023-01-22": 15618,
-  "2023-01-23": 15624,
-  "2023-01-24": 15632,
-  "2023-01-25": 15642,
-  "2023-01-26": 15648,
-  "2023-01-27": 15656,
-  "2023-01-28": 15666,
-  "2023-01-29": 15670,
-  "2023-01-30": 15670,
-  "2023-01-31": 15670,
-  "2023-02-01": 15695,
-  "2023-02-02": 15707,
-  "2023-02-03": 15725,
-  "2023-02-04": 15729,
-  "2023-02-05": 15730,
-  "2023-02-06": 15741,
-  "2023-02-07": 15760,
-  "2023-02-08": 15768,
-  "2023-02-09": 15768,
-  "2023-02-10": 15776,
-  "2023-02-11": 15789,
-  "2023-02-12": 15807,
-  "2023-02-13": 15810,
-  "2023-02-14": 15810,
-  "2023-02-15": 15821,
-  "2023-02-16": 15823,
-  "2023-02-17": 15824,
-  "2023-02-18": 15845,
-  "2023-02-19": 15845,
-  "2023-02-20": 15850,
-  "2023-02-21": 15856,
-  "2023-02-22": 15869,
-  "2023-02-23": 15880,
-  "2023-02-24": 15891,
-  "2023-02-25": 15897,
-  "2023-02-26": 15905,
-  "2023-02-27": 15913,
-  "2023-02-28": 15913,
-  "2023-03-01": 15914,
-  "2023-03-02": 15929,
-  "2023-03-03": 15934,
-  "2023-03-04": 15945,
-  "2023-03-05": 15964,
-  "2023-03-06": 15964,
-  "2023-03-07": 15966,
-  "2023-03-08": 15977,
-  "2023-03-09": 15982,
-  "2023-03-10": 15984,
-  "2023-03-11": 15995,
-  "2023-03-12": 15998,
-  "2023-03-13": 16006,
-  "2023-03-14": 16011,
-  "2023-03-15": 16013,
-  "2023-03-16": 16020,
-  "2023-03-17": 16020,
-  "2023-03-18": 16042,
-  "2023-03-19": 16051,
-  "2023-03-20": 16058,
-  "2023-03-21": 16070,
-  "2023-03-22": 16083,
-  "2023-03-23": 16095,
-  "2023-03-24": 16095,
-  "2023-03-25": 16113,
-  "2023-03-26": 16123,
-  "2023-03-27": 16130,
-  "2023-03-28": 16136,
-  "2023-03-29": 16141,
-  "2023-03-30": 16169,
-  "2023-03-31": 16169,
-  "2023-04-01": 16174,
-  "2023-04-02": 16176,
-  "2023-04-03": 16186,
-  "2023-04-04": 16197,
-  "2023-04-05": 16202,
-  "2023-04-06": 16213,
-  "2023-04-07": 16222,
-  "2023-04-09": 16237,
-  "2023-04-10": 16242,
-  "2023-04-11": 16260,
-  "2023-04-12": 16260,
-  "2023-04-13": 16264,
-  "2023-04-14": 16273,
-  "2023-04-15": 16278,
-  "2023-04-16": 16288,
-  "2023-04-17": 16292,
-  "2023-04-18": 16297,
-  "2023-04-19": 16304,
-  "2023-04-20": 16315,
-  "2023-04-21": 16323,
-  "2023-04-22": 16327,
-  "2023-04-23": 16338,
-  "2023-04-24": 16357,
-  "2023-04-25": 16367,
-  "2023-04-26": 16378,
-  "2023-04-27": 16387,
-  "2023-04-28": 16398,
-  "2023-04-29": 16410,
-  "2023-04-30": 16417,
-  "2023-05-01": 16432,
-  "2023-05-02": 16444,
-  "2023-05-03": 16453,
-  "2023-05-04": 16464,
-  "2023-05-05": 16474,
-  "2023-05-06": 16480,
-  "2023-05-07": 16493,
-  "2023-05-08": 16500,
-  "2023-05-09": 16510,
-  "2023-05-10": 16522,
-  "2023-05-11": 16533,
-  "2023-05-12": 16544,
-  "2023-05-13": 16548,
-  "2023-05-14": 16554,
-  "2023-05-15": 16567,
-  "2023-05-16": 16573,
-  "2023-05-17": 16578,
-  "2023-05-18": 16581,
-  "2023-05-19": 16589,
-  "2023-05-20": 16608,
-  "2023-05-21": 16608,
-  "2023-05-22": 16608,
-  "2023-05-23": 16623,
-  "2023-05-24": 16642,
-  "2023-05-25": 16642,
-  "2023-05-26": 16648,
-  "2023-05-27": 16655,
-  "2023-05-28": 16661,
-  "2023-05-29": 16661,
-  "2023-05-30": 16678,
-  "2023-05-31": 16690,
-  "2023-06-01": 16696,
-  "2023-06-02": 16706,
-  "2023-06-03": 16708,
-  "2023-06-04": 16719,
-  "2023-06-05": 16725,
-  "2023-06-06": 16727,
-  "2023-06-07": 16734,
-  "2023-06-08": 16741,
-  "2023-06-09": 16749,
-  "2023-06-10": 16759,
-  "2023-06-11": 16776,
-  "2023-06-12": 16789,
-  "2023-06-13": 16797,
-  "2023-06-14": 16808,
-  "2023-06-15": 16811,
-  "2023-06-16": 16821,
-  "2023-06-17": 16830,
-  "2023-06-18": 16835,
-  "2023-06-19": 16843,
-  "2023-06-20": 16858,
-  "2023-06-21": 16863,
-  "2023-06-22": 16884,
-  "2023-06-23": 16899,
-  "2023-06-24": 16910,
-  "2023-06-25": 16917,
-  "2023-06-26": 16924,
-  "2023-06-27": 16928,
-  "2023-06-28": 16934,
-  "2023-06-29": 16944,
-  "2023-06-30": 16953,
-  "2023-07-01": 16965,
-  "2023-07-02": 16965,
-  "2023-07-03": 16971,
-  "2023-07-04": 16976,
-  "2023-07-05": 16980,
-  "2023-07-06": 16992,
-  "2023-07-07": 16992,
-  "2023-07-08": 17001,
-  "2023-07-09": 17008,
-  "2023-07-10": 17018,
-  "2023-07-11": 17025,
-  "2023-07-12": 17029,
-  "2023-07-13": 17038,
-  "2023-07-14": 17048,
-  "2023-07-15": 17057,
-  "2023-07-16": 17074,
-  "2023-07-17": 17081,
-  "2023-07-18": 17080,
-  "2023-07-19": 17088,
-  "2023-07-20": 17099,
-  "2023-07-21": 17109,
-  "2023-07-22": 17123,
-  "2023-07-23": 17137,
-  "2023-07-24": 17141,
-  "2023-07-25": 17150,
-  "2023-07-26": 17154,
-  "2023-07-27": 17168,
-  "2023-07-28": 17175,
-  "2023-07-29": 17184,
-  "2023-07-30": 17189,
-  "2023-07-31": 17198,
-  "2023-08-01": 17204,
-  "2023-08-02": 17208,
-  "2023-08-03": 17212,
-  "2023-08-04": 17216,
-  "2023-08-05": 17229,
-  "2023-08-06": 17240,
-  "2023-08-07": 17240,
-  "2023-08-08": 17245,
-  "2023-08-09": 17256,
-  "2023-08-10": 17266,
-  "2023-08-11": 17274,
-  "2023-08-12": 17284,
-  "2023-08-13": 17284,
-  "2023-08-14": 17304,
-  "2023-08-15": 17314,
-  "2023-08-16": 17314,
-  "2023-08-17": 17331,
-  "2023-08-18": 17339,
-  "2023-08-19": 17347,
-  "2023-08-20": 17358,
-  "2023-08-21": 17367,
-  "2023-08-22": 17379,
-  "2023-08-23": 17389,
-  "2023-08-24": 17397,
-  "2023-08-25": 17404,
-  "2023-08-26": 17408,
-  "2023-08-27": 17418,
-  "2023-08-28": 17419,
-  "2023-08-29": 17436,
-  "2023-08-30": 17436,
-  "2023-08-31": 17448,
-  "2023-09-01": 17467,
-  "2023-09-02": 17467,
-  "2023-09-03": 17470,
-  "2023-09-04": 17470,
-  "2023-09-05": 17486,
-  "2023-09-06": 17491,
-  "2023-09-07": 17491,
-  "2023-09-08": 17491,
-  "2023-09-09": 17491,
-  "2023-09-10": 17523,
-  "2023-09-11": 17524,
-  "2023-09-12": 17524,
-  "2023-09-13": 17538,
-  "2023-09-14": 17538,
-  "2023-09-15": 17538,
-  "2023-09-16": 17557,
-  "2023-09-17": 17557,
-  "2023-09-18": 17557,
-  "2023-09-19": 17568,
-  "2023-09-20": 17568,
-  "2023-09-21": 17568,
-  "2023-09-22": 17592,
-  "2023-09-23": 17592,
-  "2023-09-24": 17592,
-  "2023-09-25": 17592,
-  "2023-09-26": 17619,
-  "2023-09-27": 17619,
-  "2023-09-28": 17619,
-  "2023-09-29": 17619,
-  "2023-09-30": 17619,
-  "2023-10-01": 17619,
-  "2023-10-02": 17673,
-  "2023-10-03": 17673,
-  "2023-10-04": 17673,
-  "2023-10-05": 17693,
-  "2023-10-06": 17703,
-  "2023-10-07": 17703,
-  "2023-10-08": 17703,
-  "2023-10-09": 17703,
-  "2023-10-10": 17703,
-  "2023-10-11": 17729,
-  "2023-10-12": 17729,
-  "2023-10-13": 17729,
-  "2023-10-14": 17729,
-  "2023-10-15": 17729,
-  "2023-10-16": 17729,
-  "2023-10-17": 17729,
-  "2023-10-18": 17729,
-  "2023-10-19": 17729,
-  "2023-10-20": 17729,
-  "2023-10-21": 17729,
-  "2023-10-22": 17729,
-  "2023-10-23": 17729,
-  "2023-10-24": 17729,
-  "2023-10-25": 17729,
-  "2023-10-26": 17729,
-  "2023-10-27": 17729,
-  "2023-10-28": 17729,
-  "2023-10-29": 17729,
-  "2023-10-30": 17729,
-  "2023-10-31": 17729,
-  "2023-11-01": 17729,
-  "2023-11-02": 17729,
-  "2023-11-03": 17729,
-  "2023-11-04": 17729,
-  "2023-11-05": 17729,
-  "2023-11-06": 17729,
-  "2023-11-07": 17729,
-  "2023-11-08": 17729,
-  "2023-11-09": 17729,
-  "2023-11-10": 17729,
-  "2023-11-11": 18181,
-  "2023-11-12": 18181,
-  "2023-11-13": 18181,
-  "2023-11-14": 18181,
-  "2023-11-15": 18181,
-  "2023-11-16": 18181,
-  "2023-11-17": 18181,
-  "2023-11-18": 18181,
-  "2023-11-19": 18181,
-  "2023-11-20": 18181,
-  "2023-11-21": 18181,
-  "2023-11-22": 18181,
-  "2023-11-23": 18181,
-  "2023-11-24": 18181,
-  "2023-11-25": 18181,
-  "2023-11-26": 18181,
-  "2023-11-27": 18181,
-  "2023-11-28": 18181,
-  "2023-11-29": 18181,
-  "2023-11-30": 18181,
-  "2023-12-01": 18181,
-  "2023-12-02": 18181,
-  "2023-12-03": 18181,
-  "2023-12-04": 18181,
-  "2023-12-05": 18181,
-  "2023-12-06": 18181,
-  "2023-12-07": 18181,
-  "2023-12-08": 18181,
-  "2023-12-09": 18181,
-  "2023-12-10": 18181,
-  "2023-12-11": 18181,
-  "2023-12-12": 18181,
-  "2023-12-13": 18181,
-  "2023-12-14": 18476,
-  "2023-12-15": 18481,
-  "2023-12-16": 18502,
-  "2023-12-17": 18510,
-  "2023-12-18": 18515,
-  "2023-12-19": 18521,
-  "2023-12-20": 18526,
-  "2023-12-21": 18535,
-  "2023-12-22": 18539,
-  "2023-12-23": 18545,
-  "2023-12-24": 18550,
-  "2023-12-25": 18557,
-  "2023-12-26": 18564,
-  "2023-12-27": 18569,
-  "2023-12-30": 18591,
-  "2023-12-31": 18598,
-  "2024-01-01": 18604,
-  "2024-01-02": 18609,
-  "2024-01-03": 18616
+  "2024-01-17": 18755,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
+  "name": "This Is Alkaline Trio",
+  "tracks": [
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240213,
+      "name": "All on Black",
+      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 240213,
+      "name": "All on Black",
+      "url": "https://open.spotify.com/track/4rfYCOLDI3HjU7Ma0Do2l4"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/4vjr73F3KT000ii3fzPrib"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 169173,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/5s4uRy5aXZnOBLeovT4jNt"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174440,
+      "name": "Back to Hell",
+      "url": "https://open.spotify.com/track/2GdhGYir1XgRuUQ13iCwLT"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 174440,
+      "name": "Back to Hell",
+      "url": "https://open.spotify.com/track/6xUF7fIIBlMKTCGu1x5s8p"
+    },
+    {
+      "album": {
+        "name": "Bad Time",
+        "url": "https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175480,
+      "name": "Bad Time",
+      "url": "https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
+    },
+    {
+      "album": {
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/5oXZKwnlG0mYFrjKYzYf92"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180573,
+      "name": "Blood, Hair, And Eyeballs",
+      "url": "https://open.spotify.com/track/6dYtCV39bCt10NMfzgOdtA"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 182280,
+      "name": "Blue in the Face",
+      "url": "https://open.spotify.com/track/6eo0pGSL1WVhZQjUfqix5M"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245373,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2gnxN79ZSX9bOZsAXsQEmk"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 245408,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2oOrzZmHfAhYBPsAFg079R"
+    },
+    {
+      "album": {
+        "name": "Agony & Irony",
+        "url": "https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Calling All Skeletons",
+      "url": "https://open.spotify.com/track/4uicyqoy9VwvWzxu5nbyDc"
+    },
+    {
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 148866,
+      "name": "Clavicle",
+      "url": "https://open.spotify.com/track/5vs0XuWAemXGTZK83eaF9f"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 207973,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/4VQaIjK8pTgdTKmZakfnQJ"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207973,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
+    },
+    {
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 138640,
+      "name": "Cop",
+      "url": "https://open.spotify.com/track/6oijxJm6ERumMuuxqsi9Bf"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 265266,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/3VsFBlBhHKN9TpsvRjH8c7"
+    },
+    {
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143893,
+      "name": "Cringe",
+      "url": "https://open.spotify.com/track/0rp47ZE0Ej8bc7KbgvoQRG"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196360,
+      "name": "Demon and Division",
+      "url": "https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 183533,
+      "name": "Dethbed",
+      "url": "https://open.spotify.com/track/0rXAiZQWz7QPoXeWVgAMj1"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 198893,
+      "name": "Every Thug Needs a Lady",
+      "url": "https://open.spotify.com/track/0bvat3eFe9HfUd1opSVXl7"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Every Thug Needs a Lady",
+      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 198266,
+      "name": "Fall Victim",
+      "url": "https://open.spotify.com/track/4NFV9MCy465LEe7vXMf6ZN"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Fall Victim",
+      "url": "https://open.spotify.com/track/5eAnduwqRr8gTOTxx8WOEk"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136160,
+      "name": "Fatally Yours",
+      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 136160,
+      "name": "Fatally Yours",
+      "url": "https://open.spotify.com/track/5ZQvdpuEbWiKQVWn8tsJ94"
+    },
+    {
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 289706,
+      "name": "Fuck You Aurora",
+      "url": "https://open.spotify.com/track/5a9yyZE83UskiAlIsQR7Lz"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 211773,
+      "name": "Goodbye Fire Island",
+      "url": "https://open.spotify.com/track/11b8iIU8p1DnkrMaVipeSp"
+    },
+    {
+      "album": {
+        "name": "The Alkaline Trio",
+        "url": "https://open.spotify.com/album/5waByzUzczyEbkV55jcIke"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 170360,
+      "name": "Goodbye Forever",
+      "url": "https://open.spotify.com/track/3SPNVZvfdJBzvAqzx6szsv"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140293,
+      "name": "Heart Attacks",
+      "url": "https://open.spotify.com/track/28vbpQYAJaUQvQ9s5Rc6lv"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229666,
+      "name": "Hell Yes",
+      "url": "https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 229666,
+      "name": "Hell Yes",
+      "url": "https://open.spotify.com/track/6J7SJqAZa4eFvoFCsKhsvb"
+    },
+    {
+      "album": {
+        "name": "Agony & Irony",
+        "url": "https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/1Fy9hQQLek2UpOYUEPjiYn"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241320,
+      "name": "I Can't Believe",
+      "url": "https://open.spotify.com/track/0YqdsM9x9NtKUfwqooo6iV"
+    },
+    {
+      "album": {
+        "name": "I Found a Way",
+        "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225533,
+      "name": "I Found a Way",
+      "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
+    },
+    {
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187480,
+      "name": "I Wanna Be A Warhol",
+      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 138693,
+      "name": "I'm Dying Tomorrow",
+      "url": "https://open.spotify.com/track/3KPa8afyEGV9CsBGVRiZWF"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138693,
+      "name": "I'm Dying Tomorrow",
+      "url": "https://open.spotify.com/track/4cIFLerFqmenkf3qzn1UPz"
+    },
+    {
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "I'm Only Here To Disappoint",
+      "url": "https://open.spotify.com/track/0QXKhyc7lfizn5IzeKk2fV"
+    },
+    {
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130720,
+      "name": "I, Pessimist",
+      "url": "https://open.spotify.com/track/219DU5WdarWWzSssghQqPH"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163506,
+      "name": "Is This Thing Cursed?",
+      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 207213,
+      "name": "Jaked on Green Beers",
+      "url": "https://open.spotify.com/track/0LWnqm6bl3aUqmlEeGuiry"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207213,
+      "name": "Jaked on Green Beers",
+      "url": "https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe"
+    },
+    {
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 250266,
+      "name": "Keep 'Em Coming",
+      "url": "https://open.spotify.com/track/7Cs6qrf3bKvbD5mL9vKmhP"
+    },
+    {
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201320,
+      "name": "Kiss You To Death",
+      "url": "https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 143106,
+      "name": "Little Help?",
+      "url": "https://open.spotify.com/track/2CzqIov2TzlGrM6Xn0qP7I"
+    },
+    {
+      "album": {
+        "name": "Agony & Irony",
+        "url": "https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 205240,
+      "name": "Love Love, Kiss Kiss",
+      "url": "https://open.spotify.com/track/23r9kDmwhUQuBHl523d87n"
+    },
+    {
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179853,
+      "name": "Madam Me",
+      "url": "https://open.spotify.com/track/7AEBa0RkzFSebX4HLSBskJ"
+    },
+    {
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187480,
+      "name": "Maybe I'll Catch Fire",
+      "url": "https://open.spotify.com/track/53S0JdlqoD0YJn1DVZGX4x"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 169497,
+      "name": "Mercy Me",
+      "url": "https://open.spotify.com/track/2YrB3vM3H7TcXZ0rAq4X8Y"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "Mercy Me",
+      "url": "https://open.spotify.com/track/5SZA0lHcG0ucCGBqKK32tF"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 221520,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/7bOjSUJ9F6R8VMnmLjC0wd"
+    },
+    {
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195208,
+      "name": "Minds Like Minefields",
+      "url": "https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH"
+    },
+    {
+      "album": {
+        "name": "Muppets: The Green Album",
+        "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "Movin' Right Along",
+      "url": "https://open.spotify.com/track/0avaVpOJTKyV87oMmjVMXw"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 185400,
+      "name": "Mr. Chainsaw",
+      "url": "https://open.spotify.com/track/20t6jJkDNQed6QGYlC0eFa"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "Mr. Chainsaw",
+      "url": "https://open.spotify.com/track/2LAL6TJoTWhqvI5b0rfYTV"
+    },
+    {
+      "album": {
+        "name": "The Alkaline Trio",
+        "url": "https://open.spotify.com/album/5waByzUzczyEbkV55jcIke"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134880,
+      "name": "My Friend Peter",
+      "url": "https://open.spotify.com/track/27jbQySldKEX1W17293Mto"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 154080,
+      "name": "My Standard Break from Life",
+      "url": "https://open.spotify.com/track/5o3o957pQk9riQYqg0iDoF"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 154080,
+      "name": "My Standard Break from Life",
+      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
+    },
+    {
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157626,
+      "name": "Nose Over Tail",
+      "url": "https://open.spotify.com/track/2S625H9Z7oaQD3p7pt5CvJ"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "Private Eye",
+      "url": "https://open.spotify.com/track/3pKd2WdIgHxw9ztbAjWUJ6"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 210173,
+      "name": "Private Eye",
+      "url": "https://open.spotify.com/track/5W68YeADvFGOegS3TmP7w8"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 236426,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/0Vx2PPv6MPcbOLJsm3wnuy"
+    },
+    {
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281040,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z"
+    },
+    {
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 186500,
+      "name": "Radio Violence",
+      "url": "https://open.spotify.com/track/5N65GlSHozEZomgqNyOV6J"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 278786,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/5KwPQNnzA87NSBilvBBDr1"
+    },
+    {
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 232666,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/0KL9AAHQythSFxCXGkH7di"
+    },
+    {
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168773,
+      "name": "She Lied To The FBI",
+      "url": "https://open.spotify.com/track/3rQWKxOJtn2EXr6j3KfHdO"
+    },
+    {
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156010,
+      "name": "Smokestack",
+      "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143533,
+      "name": "Stupid Kid",
+      "url": "https://open.spotify.com/track/1vb6phGMBr133Y4bwKxrsT"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 143533,
+      "name": "Stupid Kid",
+      "url": "https://open.spotify.com/track/504aMSptpjhMNdtYvbXzjv"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203480,
+      "name": "Sweet Vampires",
+      "url": "https://open.spotify.com/track/0bNh4dFYghzvk3uCNKweap"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 193826,
+      "name": "Take Lots with Alcohol",
+      "url": "https://open.spotify.com/track/12pC1Ij4F7Zeq60ptohMCi"
+    },
+    {
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "Take Lots with Alcohol",
+      "url": "https://open.spotify.com/track/415ZhkOYcKRuV6SbRmGTnS"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124560,
+      "name": "The Poison",
+      "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 124560,
+      "name": "The Poison",
+      "url": "https://open.spotify.com/track/5QzERXHiIcYXbs3EolGdJF"
+    },
+    {
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217973,
+      "name": "The Torture Doctor",
+      "url": "https://open.spotify.com/track/6sEggmTY2zxpmni8QdCYQp"
+    },
+    {
+      "album": {
+        "name": "This Addiction",
+        "url": "https://open.spotify.com/album/4wJjPJqEFDWbEK1UTLP4Da"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 154866,
+      "name": "This Addiction",
+      "url": "https://open.spotify.com/track/1D7mtUg27dzLEfDH8vDubE"
+    },
+    {
+      "album": {
+        "name": "This Addiction (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "This Addiction",
+      "url": "https://open.spotify.com/track/2LI6D6z57Lq2QTQH6Tgsz0"
+    },
+    {
+      "album": {
+        "name": "This Addiction",
+        "url": "https://open.spotify.com/album/3CI0i4QZjGBYgA9ZdCunTu"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 154866,
+      "name": "This Addiction",
+      "url": "https://open.spotify.com/track/2sTiGv2fPnxqH3igvfnaVf"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "This Could Be Love",
+      "url": "https://open.spotify.com/track/0jFqJQtQs9BjogBXNzK5Ag"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 227026,
+      "name": "This Could Be Love",
+      "url": "https://open.spotify.com/track/5rDLisLOgjDqLqEQNMAqmT"
+    },
+    {
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 198266,
+      "name": "Throw Me To The Lions",
+      "url": "https://open.spotify.com/track/13Gj4md0u6NbxORz9TiisU"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 251986,
+      "name": "Time to Waste",
+      "url": "https://open.spotify.com/track/0imHRp0dntswjXWQxkWhZP"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251986,
+      "name": "Time to Waste",
+      "url": "https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD"
+    },
+    {
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 235666,
+      "name": "Trouble Breathing",
+      "url": "https://open.spotify.com/track/0qx04qNqo0YmBoqdISK9Be"
+    },
+    {
+      "album": {
+        "name": "Versions Of You",
+        "url": "https://open.spotify.com/album/3PgfExqEE8aHKGRilrmrAS"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193986,
+      "name": "Versions Of You",
+      "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148306,
+      "name": "Warbrain",
+      "url": "https://open.spotify.com/track/4UrkfJvLfSeWBzK4ag1aW8"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 148306,
+      "name": "Warbrain",
+      "url": "https://open.spotify.com/track/6M8UhCdVuWxKwVRhe3sWQa"
+    },
+    {
+      "album": {
+        "name": "Tony Hawk's American Wasteland Soundtrack",
+        "url": "https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 207957,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/6SInb5FLqUK8NmlAtXUNaJ"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 171200,
+      "name": "We've Had Enough",
+      "url": "https://open.spotify.com/track/5I1ZxztCi4MdwQYFQgYJel"
+    },
+    {
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "We've Had Enough",
+      "url": "https://open.spotify.com/track/7HiVHdZfH5zK9pNttg9yX2"
+    },
+    {
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "You've Got So Far To Go",
+      "url": "https://open.spotify.com/track/03EV0UHtbLLZxRMk2k638B"
+    },
+    {
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 211466,
+      "name": "Young Lovers",
+      "url": "https://open.spotify.com/track/746Rz8yr8nn5TGka9o4Vog"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Df5sI"
 }

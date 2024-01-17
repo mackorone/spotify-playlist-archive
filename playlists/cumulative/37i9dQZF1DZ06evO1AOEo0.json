@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "O for a Thousand Tongues to Sing",
+        "url": "https://open.spotify.com/album/0pulAd7U6v0q0uUsXjcqYx"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248200,
+      "name": "O for a Thousand Tongues to Sing",
+      "url": "https://open.spotify.com/track/1QVSsndsS0mi29RrT33f88"
+    },
+    {
+      "album": {
         "name": "Psalms Live",
         "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
       },
@@ -1172,7 +1194,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 208126,
       "name": "You Know Everything (Psalm 139) - Live",
       "url": "https://open.spotify.com/track/6en45FpokCU2UHfZqtfKeY"

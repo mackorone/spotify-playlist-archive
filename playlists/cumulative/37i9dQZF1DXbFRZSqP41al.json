@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Versatile",
+        "url": "https://open.spotify.com/album/6YttNp6wg0mDmb9Pg86xBo"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/5KfXH2tHeTqIX9WvJwXTz1"
+    },
+    {
+      "album": {
         "name": "Brief Exchange (from DC's Dark Nights: Metal Soundtrack)",
         "url": "https://open.spotify.com/album/241DsmPg0tJwHCDkPo5WPT"
       },
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": "2024-01-11",
       "duration_ms": 225840,
       "name": "Don't Back Down",
       "url": "https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F"
@@ -3618,7 +3636,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 279752,
       "name": "SELF HELL",
       "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
@@ -4248,7 +4266,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": "2024-01-09",
       "duration_ms": 208395,
       "name": "The Violence",
       "url": "https://open.spotify.com/track/2xLnCpQUbDL1Vsmfaoj089"

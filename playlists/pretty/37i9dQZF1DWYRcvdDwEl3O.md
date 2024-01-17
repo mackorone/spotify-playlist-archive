@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,342 likes - 47 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,691 likes - 47 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 | 16 | [Out of Square](https://open.spotify.com/track/3I677uFtjzjCPbjkBvL67F) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Formations](https://open.spotify.com/album/4vrGFv7AlhdrYTK1UmHVPx) | 3:23 |
 | 17 | [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 |
 | 18 | [Above \- composed as the score to a Matthias Koenigswieser photograph](https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm) | [Slow Shiver](https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl) | [Above \(composed as the score to a Matthias Koenigswieser photograph\)](https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7) | 2:07 |
-| 19 | [Healing As A Family](https://open.spotify.com/track/3WiVNSxYwImI728OxgLA2h) | [Aisling Brouwer](https://open.spotify.com/artist/0laJTSeaECNmGVvVVXH6wn), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Healing As A Family](https://open.spotify.com/album/5n2epA4EVhH7U8woR1z3Jt) | 1:22 |
+| 19 | [Healing as a Family](https://open.spotify.com/track/0fs8CepANvhFGee0M6P5AW) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Savage Waters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BOpSC4KSgViq7DSgJfoXG) | 1:22 |
 | 20 | [歩風](https://open.spotify.com/track/1XSAuGdPV3ptrtslbrgn8T) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [琹の葉](https://open.spotify.com/album/0ab2TfwsIFt9RPG9uCMSSa) | 4:19 |
 | 21 | [Willeth](https://open.spotify.com/track/6t8pyLvHnewIRcsdriDaoL) | [Kino](https://open.spotify.com/artist/744LLMunibSJvXx6VVAKl3) | [Willeth](https://open.spotify.com/album/2mtynPQ9PKkRvaUbrk2FMT) | 1:38 |
 | 22 | [Patsy \- Instrumental](https://open.spotify.com/track/38pwFb1yj7CS2JUaLVyQ01) | [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9) | [The Way Forth \(Instrumentals\)](https://open.spotify.com/album/2GJmOoinJpsmNcnqaIiBc6) | 2:10 |

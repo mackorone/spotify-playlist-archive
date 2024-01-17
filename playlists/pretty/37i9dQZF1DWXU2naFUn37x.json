@@ -1,15 +1,35 @@
 {
-  "description": "Il sogno di ogni zanza si \u00e8 avverato: \ud835\udc75\ud835\udc82\ud835\udc95\ud835\udc90 \ud835\udc77\ud835\udc86\ud835\udc93 \ud835\udc78\ud835\udc96\ud835\udc86\ud835\udc94\ud835\udc95\ud835\udc90",
-  "num_followers": 881232,
+  "description": "Solo il meglio dello street rap italiano. Cover: Simba La Rue",
+  "num_followers": 881825,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzE0YzM2MzM4YTM5ZWQ4MmUxYWI0NTQzZDU5M2FiMjVjZDVkNmZl",
+  "snapshot_id": "MCxjOTY0ZDE5YmMwZTNhM2U0OTgzNDhjZjRmZDNkMGUzZGM3Y2ExOWFm",
   "tracks": [
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "TUNNEL",
+        "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 144864,
+      "name": "TUNNEL",
+      "url": "https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
@@ -37,47 +57,27 @@
       "url": "https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
-        "name": "MOTIVATION 4 THE STREETZ",
-        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
         },
         {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 156447,
-      "name": "HOODRICH",
-      "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"
+      "duration_ms": 185041,
+      "name": "Milly (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "PIZZA KEBAB Vol. 1",
         "url": "https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh"
@@ -97,115 +97,27 @@
       "url": "https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
-        "name": "N.47",
-        "url": "https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC"
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
       },
       "artists": [
         {
-          "name": "Fre_nky",
-          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 145851,
-      "name": "N.47",
-      "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "INNOCENTE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "J Lord",
-          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
-        }
-      ],
-      "duration_ms": 119329,
-      "name": "Bentley (feat. Simba La Rue, J Lord)",
-      "url": "https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
-        "url": "https://open.spotify.com/album/00xjYTrjvDKeWZVidjBiPT"
-      },
-      "artists": [
-        {
-          "name": "Digital Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
-      "url": "https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "LEVANTE (feat. Paky)",
-        "url": "https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 139610,
-      "name": "LEVANTE (feat. Paky)",
-      "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "RAP ITALIANO OLD SCHOOL HITS",
-        "url": "https://open.spotify.com/album/6PP2pdxkdWtsEEXT17AZwe"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        },
-        {
-          "name": "Vincenzo",
-          "url": "https://open.spotify.com/artist/4AaOibM7lYBox7yJQJcVLb"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Puro Bogot\u00e0",
-      "url": "https://open.spotify.com/track/0GO0UbQoLP78jWf6lmwSbq"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "TRAPHOUSE",
         "url": "https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS"
@@ -233,7 +145,91 @@
       "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 156447,
+      "name": "HOODRICH",
+      "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "TUNNEL",
+        "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 132308,
+      "name": "SOLDI A CASA (feat. Ghali)",
+      "url": "https://open.spotify.com/track/4pl1S8uglG2vYJ45IIgIo2"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "Paganini",
+        "url": "https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Paganini",
+      "url": "https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
+        "url": "https://open.spotify.com/album/00xjYTrjvDKeWZVidjBiPT"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
+      "url": "https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
@@ -242,14 +238,54 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 198260,
-      "name": "VDLC",
-      "url": "https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2"
+      "duration_ms": 229253,
+      "name": "G63",
+      "url": "https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 185168,
+      "name": "C\u2019era Una Volta In Italia",
+      "url": "https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "N.47",
+        "url": "https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        }
+      ],
+      "duration_ms": 145851,
+      "name": "N.47",
+      "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "NO REGULAR MUSIC",
         "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
@@ -277,7 +313,7 @@
       "url": "https://open.spotify.com/track/4qFrGuly7KCl3WMmGuECFC"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "Cadillac (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz"
@@ -301,43 +337,31 @@
       "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
-        "name": "Vile Denaro",
-        "url": "https://open.spotify.com/album/57LDZpXD1nSl88hpUGwtNe"
+        "name": "INNOCENTE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3"
       },
       "artists": [
         {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "M-I Bastard",
-      "url": "https://open.spotify.com/track/58LRqWuOEv8U7i916lK8fm"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "AGITATO",
-        "url": "https://open.spotify.com/album/5NuXTus8ALMOuPhH2C3Co9"
-      },
-      "artists": [
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
         {
           "name": "Simba La Rue",
           "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
         },
         {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+          "name": "J Lord",
+          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
         }
       ],
-      "duration_ms": 114782,
-      "name": "AGITATO",
-      "url": "https://open.spotify.com/track/6OIPXBCDzV0RO0beUqoW42"
+      "duration_ms": 119329,
+      "name": "Bentley (feat. Simba La Rue, J Lord)",
+      "url": "https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
@@ -346,86 +370,14 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
-      "duration_ms": 195750,
-      "name": "3uphon",
-      "url": "https://open.spotify.com/track/2mmbawJFVgPuQhdQpsHsRl"
+      "duration_ms": 198260,
+      "name": "VDLC",
+      "url": "https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "ADIOS (feat. Yunes LaGrintaa)",
-        "url": "https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4"
-      },
-      "artists": [
-        {
-          "name": "Fre_nky",
-          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
-        },
-        {
-          "name": "Yunes LaGrintaa",
-          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "ADIOS (feat. Yunes LaGrintaa)",
-      "url": "https://open.spotify.com/track/5F5STJurlkKk31rguyet4N"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "DOV'ERI? (feat. Baby Gang)",
-        "url": "https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY"
-      },
-      "artists": [
-        {
-          "name": "Sacky",
-          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "DOV'ERI? (feat. Baby Gang)",
-      "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "Spedizione punitiva",
-        "url": "https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        }
-      ],
-      "duration_ms": 156479,
-      "name": "Spedizione punitiva",
-      "url": "https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "PIZZA KEBAB Vol. 1",
         "url": "https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh"
@@ -453,7 +405,111 @@
       "url": "https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "BALLAS 2",
+        "url": "https://open.spotify.com/album/05ErXdPOeswAAeB7EXoUXB"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "duration_ms": 184041,
+      "name": "BALLAS 2",
+      "url": "https://open.spotify.com/track/5dftDcqeIMeoJcZX0YnZsl"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 160258,
+      "name": "BOULEVARD",
+      "url": "https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "DOV'ERI? (feat. Baby Gang)",
+        "url": "https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "DOV'ERI? (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "LEVANTE (feat. Paky)",
+        "url": "https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 139610,
+      "name": "LEVANTE (feat. Paky)",
+      "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "ADIOS (feat. Yunes LaGrintaa)",
+        "url": "https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "ADIOS (feat. Yunes LaGrintaa)",
+      "url": "https://open.spotify.com/track/5F5STJurlkKk31rguyet4N"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "Maltempo",
         "url": "https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag"
@@ -473,23 +529,47 @@
       "url": "https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
-        "name": "TAF TAF",
-        "url": "https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u"
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 163621,
+      "name": "Frate",
+      "url": "https://open.spotify.com/track/55BbuGqOvwaJd9tw16aVSc"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "TUNNEL",
+        "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
       },
       "artists": [
         {
           "name": "Simba La Rue",
           "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         }
       ],
-      "duration_ms": 183095,
-      "name": "TAF TAF",
-      "url": "https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O"
+      "duration_ms": 143384,
+      "name": "BECCARIA SAN VITTORE (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/71RDmxuDZrWm0ZuImtm4AP"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
@@ -500,40 +580,20 @@
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         },
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
-      "duration_ms": 229253,
-      "name": "G63",
-      "url": "https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes"
+      "duration_ms": 195750,
+      "name": "3uphon",
+      "url": "https://open.spotify.com/track/2mmbawJFVgPuQhdQpsHsRl"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "RED&BLUE",
-        "url": "https://open.spotify.com/album/3aVMMj8FWLf4e5cMZ5JdWC"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        }
-      ],
-      "duration_ms": 207435,
-      "name": "RED&BLUE",
-      "url": "https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "Nato Per Questo",
         "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
@@ -549,7 +609,51 @@
       "url": "https://open.spotify.com/track/2YQx1HsasbXKv8nVvXKidO"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 162411,
+      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
+      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "Gol",
+      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "NiHao - Red Bull Posse",
         "url": "https://open.spotify.com/album/1hj2cATljXkoHqP5ZNd9JQ"
@@ -573,43 +677,7 @@
       "url": "https://open.spotify.com/track/1PZFIe6MbNx400t7oKDog3"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "Nati Per Fare La Guerra",
-        "url": "https://open.spotify.com/album/3B72CwXRmMdlSSJW6cza0h"
-      },
-      "artists": [
-        {
-          "name": "Nabi",
-          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
-        }
-      ],
-      "duration_ms": 138782,
-      "name": "Nati Per Fare La Guerra",
-      "url": "https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "Gol",
-      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "GURU DEL BUSINESS",
         "url": "https://open.spotify.com/album/1BsmAW3BDFNwytA8TJ30t2"
@@ -629,7 +697,7 @@
       "url": "https://open.spotify.com/track/0IqoqvFdmvnHaOtKUJZ2Rw"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "NO REGULAR MUSIC",
         "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
@@ -665,75 +733,27 @@
       "url": "https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
-        "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
-        "url": "https://open.spotify.com/album/5J3YRgWiaxwdDR1zCJTph6"
+        "name": "BLA",
+        "url": "https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n"
       },
       "artists": [
         {
-          "name": "Escomar",
-          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
         },
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
         }
       ],
-      "duration_ms": 244363,
-      "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
-      "url": "https://open.spotify.com/track/6jiRQs8QM6ozzFxdIDUkm2"
+      "duration_ms": 137684,
+      "name": "BLA",
+      "url": "https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "FERRO (feat. Rasty Kilo)",
-        "url": "https://open.spotify.com/album/5GqANzKvHEhOzby11m8iUe"
-      },
-      "artists": [
-        {
-          "name": "emanuelino",
-          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
-        },
-        {
-          "name": "Rasty Kilo",
-          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        }
-      ],
-      "duration_ms": 167491,
-      "name": "FERRO (feat. Rasty Kilo)",
-      "url": "https://open.spotify.com/track/1PSoQsnBRfq3hIZGKQhoa8"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "Le cose cambiano",
-        "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "Senza Di Me (feat. Baby Gang)",
-      "url": "https://open.spotify.com/track/6JJksqiePG5LUjiayW0Kre"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "LAMBORGHINI (feat. Niky Savage)",
         "url": "https://open.spotify.com/album/1BSDD0LzYDJEotW20OvvcD"
@@ -753,75 +773,7 @@
       "url": "https://open.spotify.com/track/5Tsa3ifiL3M1m0BQkMNndb"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "Umile",
-        "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Victoria (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
-      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "BALLAS 2",
-        "url": "https://open.spotify.com/album/05ErXdPOeswAAeB7EXoUXB"
-      },
-      "artists": [
-        {
-          "name": "Diss Gacha",
-          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        },
-        {
-          "name": "Sala",
-          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
-        }
-      ],
-      "duration_ms": 184041,
-      "name": "BALLAS 2",
-      "url": "https://open.spotify.com/track/5dftDcqeIMeoJcZX0YnZsl"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -849,27 +801,7 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "MEZZA PAROLA",
-        "url": "https://open.spotify.com/album/6GosI4zndYwzR1ht3SOi8H"
-      },
-      "artists": [
-        {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 148394,
-      "name": "Tech Pack (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/3GNdB5bw9Nal39eCqCLJAm"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -889,43 +821,7 @@
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "BLA",
-        "url": "https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "BLA",
-      "url": "https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "EXPORT",
-        "url": "https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Si si (140bpm - Emin)",
-      "url": "https://open.spotify.com/track/3slUj8GoFg2hBcXhWwiq70"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "The Globe",
         "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"
@@ -941,7 +837,7 @@
       "url": "https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "A45S",
         "url": "https://open.spotify.com/album/6KQ0Nzqei7dU85H2OtzIrQ"
@@ -957,27 +853,47 @@
       "url": "https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
-        "name": "FEDE II",
-        "url": "https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO"
+        "name": "Lamborghini a Via Marina",
+        "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
       },
       "artists": [
         {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
         },
         {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         }
       ],
-      "duration_ms": 134068,
-      "name": "RSQ8 (feat. Ghali)",
-      "url": "https://open.spotify.com/track/5QwgVFAmGzj1jmPhwSJZoI"
+      "duration_ms": 137186,
+      "name": "IAU (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/5kPRBzfbzjY2aHRWoo4scu"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "MEZZA PAROLA",
+        "url": "https://open.spotify.com/album/6GosI4zndYwzR1ht3SOi8H"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 148394,
+      "name": "Tech Pack (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/3GNdB5bw9Nal39eCqCLJAm"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "FASHION",
         "url": "https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl"
@@ -993,59 +909,7 @@
       "url": "https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "Valentino Rossi",
-        "url": "https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 119495,
-      "name": "Valentino Rossi",
-      "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "Vita Nuova",
-        "url": "https://open.spotify.com/album/3u3wHdWqQt4Xlkb9suOeq6"
-      },
-      "artists": [
-        {
-          "name": "Yunes LaGrintaa",
-          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
-        }
-      ],
-      "duration_ms": 153579,
-      "name": "Vita Nuova",
-      "url": "https://open.spotify.com/track/7L5AMtUojyMd0bpVyWePE1"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
-      "album": {
-        "name": "Prova del 9",
-        "url": "https://open.spotify.com/album/1nVIAc5hUUWuNJ9DPt7WEK"
-      },
-      "artists": [
-        {
-          "name": "DrefGold",
-          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 129737,
-      "name": "Prova del 9",
-      "url": "https://open.spotify.com/track/5bGCx4HbNEC8KKiVifYX1s"
-    },
-    {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "OUTFIT",
         "url": "https://open.spotify.com/album/7vElcMaft4eJYSn6qruSFR"
@@ -1061,7 +925,75 @@
       "url": "https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "Valentino Rossi",
+        "url": "https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 119495,
+      "name": "Valentino Rossi",
+      "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "Vita Nuova",
+        "url": "https://open.spotify.com/album/3u3wHdWqQt4Xlkb9suOeq6"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "duration_ms": 153579,
+      "name": "Vita Nuova",
+      "url": "https://open.spotify.com/track/7L5AMtUojyMd0bpVyWePE1"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "Nati Per Fare La Guerra",
+        "url": "https://open.spotify.com/album/3B72CwXRmMdlSSJW6cza0h"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "duration_ms": 138782,
+      "name": "Nati Per Fare La Guerra",
+      "url": "https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "Le cose cambiano",
+        "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "Senza Di Me (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/6JJksqiePG5LUjiayW0Kre"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
       "album": {
         "name": "Cheerleader (feat. MamboLosco)",
         "url": "https://open.spotify.com/album/4rNXH9OKewtZdBqeWyjmL7"
@@ -1085,24 +1017,40 @@
       "url": "https://open.spotify.com/track/0Fo0FNgaE0TkiunXZbrhvR"
     },
     {
-      "added_at": "2024-01-02 10:32:18",
+      "added_at": "2024-01-15 15:23:51",
       "album": {
-        "name": "F**k the club up (feat. Diss Gacha)",
-        "url": "https://open.spotify.com/album/6mQDsMcWWITYk79BxBGhnQ"
+        "name": "EXPORT",
+        "url": "https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s"
       },
       "artists": [
         {
-          "name": "Side Baby",
-          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
-        },
-        {
-          "name": "Diss Gacha",
-          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 140950,
-      "name": "F**k the club up (feat. Diss Gacha)",
-      "url": "https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF"
+      "duration_ms": 164571,
+      "name": "Si si (140bpm - Emin)",
+      "url": "https://open.spotify.com/track/3slUj8GoFg2hBcXhWwiq70"
+    },
+    {
+      "added_at": "2024-01-15 15:23:51",
+      "album": {
+        "name": "Prova del 9",
+        "url": "https://open.spotify.com/album/1nVIAc5hUUWuNJ9DPt7WEK"
+      },
+      "artists": [
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 129737,
+      "name": "Prova del 9",
+      "url": "https://open.spotify.com/track/5bGCx4HbNEC8KKiVifYX1s"
     }
   ],
   "unique_name": "Street Culto",

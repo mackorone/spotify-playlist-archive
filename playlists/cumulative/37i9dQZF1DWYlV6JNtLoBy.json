@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "after all these years",
+        "url": "https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268365,
+      "name": "After All These Years",
+      "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
+    },
+    {
+      "album": {
         "name": "Aina Noma",
         "url": "https://open.spotify.com/album/3nz9nyVPp8s27GB2tIJRGD"
       },
@@ -210,6 +228,24 @@
     {
       "album": {
         "name": "Everything (Amen)",
+        "url": "https://open.spotify.com/album/2nF5JgRAYmjOPTsRVnHX9Q"
+      },
+      "artists": [
+        {
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237725,
+      "name": "Everything (Amen)",
+      "url": "https://open.spotify.com/track/0fMFygZkl6SxSgYbXNQZME"
+    },
+    {
+      "album": {
+        "name": "Everything (Amen)",
         "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
       },
       "artists": [
@@ -238,7 +274,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 237725,
       "name": "Everything (Amen)",
       "url": "https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX"
@@ -260,7 +296,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": "2024-01-13",
       "duration_ms": 194851,
       "name": "Gharama",
       "url": "https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu"
@@ -734,7 +770,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 490293,
       "name": "Mtetezi Wangu",
       "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
@@ -1398,7 +1434,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 316473,
       "name": "Sweetie Sweetie",
       "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
@@ -1572,7 +1608,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-15",
       "duration_ms": 365417,
       "name": "Tumeshinda",
       "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
@@ -1916,6 +1952,28 @@
       "duration_ms": 196363,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
+    },
+    {
+      "album": {
+        "name": "Worry About Nothing",
+        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204975,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
       "album": {

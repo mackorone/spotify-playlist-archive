@@ -1580,7 +1580,7 @@
     {
       "album": {
         "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
       "artists": [
         {
@@ -1599,6 +1599,32 @@
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215412,
+      "name": "si preguntas por mi",
+      "url": "https://open.spotify.com/track/5Uoni5ULnC7Aq69DsRR10G"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
       "duration_ms": 215412,
       "name": "si preguntas por mi",
       "url": "https://open.spotify.com/track/7z3rdMzhY122waIpkSsE7P"

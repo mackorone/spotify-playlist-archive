@@ -24,7 +24,7 @@
     {
       "album": {
         "name": "Bad Bad Thing",
-        "url": "https://open.spotify.com/album/2XjpjAXobOPnebIkp9XEyb"
+        "url": "https://open.spotify.com/album/0M2azJi1DDdM7ToeXPaXu1"
       },
       "artists": [
         {
@@ -39,6 +39,28 @@
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Bad Bad Thing",
+      "url": "https://open.spotify.com/track/08qOBOkagQCSC0hjtEVmza"
+    },
+    {
+      "album": {
+        "name": "Bad Bad Thing",
+        "url": "https://open.spotify.com/album/2XjpjAXobOPnebIkp9XEyb"
+      },
+      "artists": [
+        {
+          "name": "Future Royalty",
+          "url": "https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL"
+        },
+        {
+          "name": "AamityMae",
+          "url": "https://open.spotify.com/artist/2aInR6g8otK9hxZIhb41Gj"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
       "duration_ms": 214090,
       "name": "Bad Bad Thing",
       "url": "https://open.spotify.com/track/6W7YVVTjv1o7sZNhC9UxYZ"
@@ -522,7 +544,7 @@
     {
       "album": {
         "name": "Wandering Girl",
-        "url": "https://open.spotify.com/album/5SCSo7WwIPy27Yf7cbiKlf"
+        "url": "https://open.spotify.com/album/1cFNjo4jRsTv857lL8jRjd"
       },
       "artists": [
         {
@@ -533,6 +555,24 @@
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Wandering Girl",
+      "url": "https://open.spotify.com/track/0ml6VRj83ATU6oeRgKW7cm"
+    },
+    {
+      "album": {
+        "name": "Wandering Girl",
+        "url": "https://open.spotify.com/album/5SCSo7WwIPy27Yf7cbiKlf"
+      },
+      "artists": [
+        {
+          "name": "Future Royalty",
+          "url": "https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
       "duration_ms": 192750,
       "name": "Wandering Girl",
       "url": "https://open.spotify.com/track/1pN6erZYtidSPV6GtxnJsV"

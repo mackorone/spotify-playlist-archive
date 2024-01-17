@@ -1,110 +1,345 @@
 {
-  "2023-09-16": 2420,
-  "2023-09-17": 2420,
-  "2023-09-18": 2420,
-  "2023-09-19": 2451,
-  "2023-09-20": 2451,
-  "2023-09-21": 2451,
-  "2023-09-22": 2513,
-  "2023-09-23": 2513,
-  "2023-09-24": 2513,
-  "2023-09-25": 2513,
-  "2023-09-26": 2615,
-  "2023-09-27": 2615,
-  "2023-09-28": 2615,
-  "2023-09-29": 2615,
-  "2023-09-30": 2615,
-  "2023-10-01": 2615,
-  "2023-10-02": 2615,
-  "2023-10-03": 2615,
-  "2023-10-04": 2615,
-  "2023-10-05": 2615,
-  "2023-10-06": 2615,
-  "2023-10-07": 2615,
-  "2023-10-08": 2615,
-  "2023-10-09": 2615,
-  "2023-10-10": 2615,
-  "2023-10-11": 2615,
-  "2023-10-12": 2615,
-  "2023-10-13": 2615,
-  "2023-10-14": 2615,
-  "2023-10-15": 2615,
-  "2023-10-16": 2615,
-  "2023-10-17": 2615,
-  "2023-10-18": 2615,
-  "2023-10-19": 2615,
-  "2023-10-20": 2615,
-  "2023-10-21": 2615,
-  "2023-10-22": 2615,
-  "2023-10-23": 2615,
-  "2023-10-24": 2615,
-  "2023-10-25": 2615,
-  "2023-10-26": 2615,
-  "2023-10-27": 2615,
-  "2023-10-28": 2615,
-  "2023-10-29": 2615,
-  "2023-10-30": 2615,
-  "2023-10-31": 2615,
-  "2023-11-01": 2615,
-  "2023-11-02": 2615,
-  "2023-11-03": 2615,
-  "2023-11-04": 2615,
-  "2023-11-05": 2615,
-  "2023-11-06": 2615,
-  "2023-11-07": 2615,
-  "2023-11-08": 2615,
-  "2023-11-09": 2615,
-  "2023-11-10": 2615,
-  "2023-11-11": 3527,
-  "2023-11-12": 3527,
-  "2023-11-13": 3527,
-  "2023-11-14": 3527,
-  "2023-11-15": 3527,
-  "2023-11-16": 3527,
-  "2023-11-17": 3527,
-  "2023-11-18": 3527,
-  "2023-11-19": 3527,
-  "2023-11-20": 3527,
-  "2023-11-21": 3527,
-  "2023-11-22": 3527,
-  "2023-11-23": 3527,
-  "2023-11-24": 3527,
-  "2023-11-25": 3527,
-  "2023-11-26": 3527,
-  "2023-11-27": 3527,
-  "2023-11-28": 3527,
-  "2023-11-29": 3527,
-  "2023-11-30": 3527,
-  "2023-12-01": 3527,
-  "2023-12-02": 3527,
-  "2023-12-03": 3527,
-  "2023-12-04": 3527,
-  "2023-12-05": 3527,
-  "2023-12-06": 3527,
-  "2023-12-07": 3527,
-  "2023-12-08": 3527,
-  "2023-12-09": 3527,
-  "2023-12-10": 3527,
-  "2023-12-11": 3527,
-  "2023-12-12": 3527,
-  "2023-12-13": 3527,
-  "2023-12-14": 4025,
-  "2023-12-15": 4039,
-  "2023-12-16": 4056,
-  "2023-12-17": 4074,
-  "2023-12-18": 4083,
-  "2023-12-19": 4097,
-  "2023-12-20": 4113,
-  "2023-12-21": 4125,
-  "2023-12-22": 4146,
-  "2023-12-23": 4159,
-  "2023-12-24": 4171,
-  "2023-12-25": 4180,
-  "2023-12-26": 4190,
-  "2023-12-27": 4213,
-  "2023-12-30": 4298,
-  "2023-12-31": 4323,
-  "2024-01-01": 4366,
-  "2024-01-02": 4399,
-  "2024-01-03": 4422
+  "2024-01-17": 4775,
+  "date_first_scraped": "2023-09-16",
+  "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
+  "name": "This Is Megan Moroney",
+  "tracks": [
+    {
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233715,
+      "name": "'Til It All Goes South",
+      "url": "https://open.spotify.com/track/2Ks3jo0IfcK280NRyd4wfR"
+    },
+    {
+      "album": {
+        "name": "Can't Break Up Now",
+        "url": "https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        },
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Can't Break Up Now",
+      "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
+    },
+    {
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 187749,
+      "name": "Fix You Too",
+      "url": "https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA"
+    },
+    {
+      "album": {
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199383,
+      "name": "Fix You Too (feat. Kameron Marlowe)",
+      "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165099,
+      "name": "Girl in the Mirror",
+      "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
+    },
+    {
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224581,
+      "name": "Hair Salon",
+      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
+    },
+    {
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212301,
+      "name": "He Made Me Do It",
+      "url": "https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB"
+    },
+    {
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190730,
+      "name": "I Love Me",
+      "url": "https://open.spotify.com/track/7yL4l7X3nfMV6zYBgn1IfA"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
+    },
+    {
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237919,
+      "name": "Keep the Flowers",
+      "url": "https://open.spotify.com/track/6ax22G0NwhiX51oT3MRABN"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161042,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt"
+    },
+    {
+      "album": {
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191189,
+      "name": "Nothin\u2019 Crazy (feat. Mackenzie Carpenter)",
+      "url": "https://open.spotify.com/track/6CLi7ysa6YNvoBlYg9W5Qc"
+    },
+    {
+      "album": {
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "Reasons to Stay",
+      "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188931,
+      "name": "Sleep on My Side",
+      "url": "https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153296,
+      "name": "Traitor Joe",
+      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
+    },
+    {
+      "album": {
+        "name": "What Are You Listening To?",
+        "url": "https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251479,
+      "name": "What Are You Listening To?",
+      "url": "https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222139,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr"
 }

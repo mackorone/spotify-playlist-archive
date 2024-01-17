@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > We're celebrating 100 years of Hank Williams on Classic Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,484 likes - 94 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,182 likes - 94 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

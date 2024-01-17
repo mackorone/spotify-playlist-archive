@@ -1,284 +1,1481 @@
 {
-  "2023-03-25": 590575,
-  "2023-03-26": 590857,
-  "2023-03-27": 591123,
-  "2023-03-28": 591382,
-  "2023-03-29": 591747,
-  "2023-03-30": 592260,
-  "2023-03-31": 592260,
-  "2023-04-01": 592576,
-  "2023-04-02": 592882,
-  "2023-04-03": 593151,
-  "2023-04-04": 593447,
-  "2023-04-05": 593736,
-  "2023-04-06": 594040,
-  "2023-04-07": 594353,
-  "2023-04-09": 594864,
-  "2023-04-10": 595097,
-  "2023-04-11": 595578,
-  "2023-04-12": 595578,
-  "2023-04-13": 595875,
-  "2023-04-14": 596144,
-  "2023-04-15": 596407,
-  "2023-04-16": 596639,
-  "2023-04-17": 596826,
-  "2023-04-18": 597034,
-  "2023-04-19": 597305,
-  "2023-04-20": 597570,
-  "2023-04-21": 597808,
-  "2023-04-22": 598049,
-  "2023-04-23": 598268,
-  "2023-04-24": 598481,
-  "2023-04-25": 598694,
-  "2023-04-26": 598935,
-  "2023-04-27": 599184,
-  "2023-04-28": 599408,
-  "2023-04-29": 599636,
-  "2023-04-30": 599866,
-  "2023-05-01": 600070,
-  "2023-05-02": 600274,
-  "2023-05-03": 600456,
-  "2023-05-04": 600695,
-  "2023-05-05": 600908,
-  "2023-05-06": 601129,
-  "2023-05-07": 601335,
-  "2023-05-08": 601530,
-  "2023-05-09": 601722,
-  "2023-05-10": 601898,
-  "2023-05-11": 602132,
-  "2023-05-12": 602322,
-  "2023-05-13": 602549,
-  "2023-05-14": 602755,
-  "2023-05-15": 602961,
-  "2023-05-16": 603155,
-  "2023-05-17": 603355,
-  "2023-05-18": 603540,
-  "2023-05-19": 603773,
-  "2023-05-20": 604211,
-  "2023-05-21": 604211,
-  "2023-05-22": 604211,
-  "2023-05-23": 604611,
-  "2023-05-24": 604943,
-  "2023-05-25": 605018,
-  "2023-05-26": 605230,
-  "2023-05-27": 605502,
-  "2023-05-28": 605739,
-  "2023-05-29": 605739,
-  "2023-05-30": 606169,
-  "2023-05-31": 606391,
-  "2023-06-01": 606591,
-  "2023-06-02": 606812,
-  "2023-06-03": 607049,
-  "2023-06-04": 607263,
-  "2023-06-05": 607427,
-  "2023-06-06": 607619,
-  "2023-06-07": 607824,
-  "2023-06-08": 607992,
-  "2023-06-09": 608195,
-  "2023-06-10": 608437,
-  "2023-06-11": 608667,
-  "2023-06-12": 608850,
-  "2023-06-13": 609018,
-  "2023-06-14": 609227,
-  "2023-06-15": 609442,
-  "2023-06-16": 609648,
-  "2023-06-17": 609896,
-  "2023-06-18": 610122,
-  "2023-06-19": 610309,
-  "2023-06-20": 610504,
-  "2023-06-21": 610702,
-  "2023-06-22": 610915,
-  "2023-06-23": 611098,
-  "2023-06-24": 611347,
-  "2023-06-25": 611547,
-  "2023-06-26": 611687,
-  "2023-06-27": 611906,
-  "2023-06-28": 612070,
-  "2023-06-29": 612253,
-  "2023-06-30": 612428,
-  "2023-07-01": 612767,
-  "2023-07-02": 612767,
-  "2023-07-03": 612906,
-  "2023-07-04": 613035,
-  "2023-07-05": 613175,
-  "2023-07-06": 613511,
-  "2023-07-07": 613511,
-  "2023-07-08": 613511,
-  "2023-07-09": 613868,
-  "2023-07-10": 614040,
-  "2023-07-11": 614157,
-  "2023-07-12": 614297,
-  "2023-07-13": 614481,
-  "2023-07-14": 614699,
-  "2023-07-15": 614860,
-  "2023-07-16": 615057,
-  "2023-07-17": 615226,
-  "2023-07-18": 615407,
-  "2023-07-19": 615622,
-  "2023-07-20": 615790,
-  "2023-07-21": 615922,
-  "2023-07-22": 616125,
-  "2023-07-23": 616290,
-  "2023-07-24": 616451,
-  "2023-07-25": 616608,
-  "2023-07-26": 616809,
-  "2023-07-27": 617032,
-  "2023-07-28": 617296,
-  "2023-07-29": 617490,
-  "2023-07-30": 617690,
-  "2023-07-31": 617856,
-  "2023-08-01": 618034,
-  "2023-08-02": 618213,
-  "2023-08-03": 618432,
-  "2023-08-04": 618597,
-  "2023-08-05": 618790,
-  "2023-08-06": 619169,
-  "2023-08-07": 619169,
-  "2023-08-08": 619347,
-  "2023-08-09": 619556,
-  "2023-08-10": 619734,
-  "2023-08-11": 619937,
-  "2023-08-12": 619937,
-  "2023-08-13": 619937,
-  "2023-08-14": 620553,
-  "2023-08-15": 620553,
-  "2023-08-16": 620553,
-  "2023-08-17": 620553,
-  "2023-08-18": 620553,
-  "2023-08-19": 620553,
-  "2023-08-20": 621929,
-  "2023-08-21": 621929,
-  "2023-08-22": 622403,
-  "2023-08-23": 622403,
-  "2023-08-24": 622403,
-  "2023-08-25": 622403,
-  "2023-08-26": 623357,
-  "2023-08-27": 623357,
-  "2023-08-28": 623791,
-  "2023-08-29": 623791,
-  "2023-08-30": 623791,
-  "2023-08-31": 624461,
-  "2023-09-01": 624669,
-  "2023-09-02": 624669,
-  "2023-09-03": 624669,
-  "2023-09-04": 624669,
-  "2023-09-05": 624669,
-  "2023-09-06": 624669,
-  "2023-09-07": 624669,
-  "2023-09-08": 624669,
-  "2023-09-09": 624669,
-  "2023-09-10": 624669,
-  "2023-09-11": 624669,
-  "2023-09-12": 624669,
-  "2023-09-13": 624669,
-  "2023-09-14": 624669,
-  "2023-09-15": 624669,
-  "2023-09-16": 627970,
-  "2023-09-17": 627970,
-  "2023-09-18": 627970,
-  "2023-09-19": 628484,
-  "2023-09-20": 628484,
-  "2023-09-21": 628484,
-  "2023-09-22": 629012,
-  "2023-09-23": 629012,
-  "2023-09-24": 629012,
-  "2023-09-25": 629012,
-  "2023-09-26": 629805,
-  "2023-09-27": 629805,
-  "2023-09-28": 629805,
-  "2023-09-29": 629805,
-  "2023-09-30": 629805,
-  "2023-10-01": 629805,
-  "2023-10-02": 629805,
-  "2023-10-03": 629805,
-  "2023-10-04": 629805,
-  "2023-10-05": 629805,
-  "2023-10-06": 629805,
-  "2023-10-07": 629805,
-  "2023-10-08": 629805,
-  "2023-10-09": 629805,
-  "2023-10-10": 629805,
-  "2023-10-11": 631899,
-  "2023-10-12": 631899,
-  "2023-10-13": 631899,
-  "2023-10-14": 631899,
-  "2023-10-15": 631899,
-  "2023-10-16": 631899,
-  "2023-10-17": 631899,
-  "2023-10-18": 631899,
-  "2023-10-19": 631899,
-  "2023-10-20": 631899,
-  "2023-10-21": 631899,
-  "2023-10-22": 631899,
-  "2023-10-23": 631899,
-  "2023-10-24": 631899,
-  "2023-10-25": 631899,
-  "2023-10-26": 631899,
-  "2023-10-27": 631899,
-  "2023-10-28": 631899,
-  "2023-10-29": 631899,
-  "2023-10-30": 631899,
-  "2023-10-31": 631899,
-  "2023-11-01": 631899,
-  "2023-11-02": 631899,
-  "2023-11-03": 631899,
-  "2023-11-04": 631899,
-  "2023-11-05": 631899,
-  "2023-11-06": 631899,
-  "2023-11-07": 631899,
-  "2023-11-08": 631899,
-  "2023-11-09": 631899,
-  "2023-11-10": 631899,
-  "2023-11-11": 636037,
-  "2023-11-12": 636037,
-  "2023-11-13": 636037,
-  "2023-11-14": 636037,
-  "2023-11-15": 636037,
-  "2023-11-16": 636037,
-  "2023-11-17": 636037,
-  "2023-11-18": 636037,
-  "2023-11-19": 636037,
-  "2023-11-20": 636037,
-  "2023-11-21": 636037,
-  "2023-11-22": 636037,
-  "2023-11-23": 636037,
-  "2023-11-24": 636037,
-  "2023-11-25": 636037,
-  "2023-11-26": 636037,
-  "2023-11-27": 636037,
-  "2023-11-28": 636037,
-  "2023-11-29": 636037,
-  "2023-11-30": 636037,
-  "2023-12-01": 636037,
-  "2023-12-02": 636037,
-  "2023-12-03": 636037,
-  "2023-12-04": 636037,
-  "2023-12-05": 636037,
-  "2023-12-06": 636037,
-  "2023-12-07": 636037,
-  "2023-12-08": 636037,
-  "2023-12-09": 636037,
-  "2023-12-10": 636037,
-  "2023-12-11": 636037,
-  "2023-12-12": 636037,
-  "2023-12-13": 636037,
-  "2023-12-14": 642223,
-  "2023-12-15": 642378,
-  "2023-12-16": 642598,
-  "2023-12-17": 642828,
-  "2023-12-18": 643021,
-  "2023-12-19": 643201,
-  "2023-12-20": 643432,
-  "2023-12-21": 643625,
-  "2023-12-22": 643871,
-  "2023-12-23": 644036,
-  "2023-12-24": 644212,
-  "2023-12-25": 644351,
-  "2023-12-26": 644426,
-  "2023-12-27": 644586,
-  "2023-12-30": 645087,
-  "2023-12-31": 645259,
-  "2024-01-01": 645412,
-  "2024-01-02": 645502,
-  "2024-01-03": 645651
+  "2024-01-17": 645813,
+  "date_first_scraped": "2023-03-25",
+  "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
+  "name": "This Is Mon Laferte",
+  "tracks": [
+    {
+      "album": {
+        "name": "40 y MM",
+        "url": "https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 202373,
+      "name": "40 y MM",
+      "url": "https://open.spotify.com/track/7DBZjgdH5YHr8CQY5DKDAc"
+    },
+    {
+      "album": {
+        "name": "Algo Es Mejor",
+        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
+    },
+    {
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238893,
+      "name": "Amantes Suicidas",
+      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
+    },
+    {
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 182120,
+      "name": "Amigos Simplemente",
+      "url": "https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4"
+    },
+    {
+      "album": {
+        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312442,
+      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
+      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241880,
+      "name": "Amor Completo",
+      "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9"
+    },
+    {
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+    },
+    {
+      "album": {
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
+    },
+    {
+      "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Asilo (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
+    },
+    {
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250146,
+      "name": "Aunque Te Mueras Por Volver",
+      "url": "https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD"
+    },
+    {
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152453,
+      "name": "Autopoi\u00e9tica",
+      "url": "https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH"
+    },
+    {
+      "album": {
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
+        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "Bonita - Bonus Track",
+      "url": "https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa"
+    },
+    {
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "Caderas Blancas",
+      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n Sin Miedo",
+        "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213013,
+      "name": "Canci\u00f3n Sin Miedo",
+      "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
+    },
+    {
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2"
+    },
+    {
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178640,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
+    },
+    {
+      "album": {
+        "name": "El Canto de Todos",
+        "url": "https://open.spotify.com/album/5Y5gm7ty6In0hBDm7R39eO"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        },
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Isabel Parra",
+          "url": "https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt"
+        },
+        {
+          "name": "Tita Parra",
+          "url": "https://open.spotify.com/artist/4thdsnYghHc8bTB3GQ6zru"
+        },
+        {
+          "name": "Francesca Gagnon",
+          "url": "https://open.spotify.com/artist/75VPGcVJ0CLIYJr6fDZ5IV"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Roberto Marquez",
+          "url": "https://open.spotify.com/artist/0bGEitoGJUQPfiBhvzuScw"
+        },
+        {
+          "name": "Pancho Sazo",
+          "url": "https://open.spotify.com/artist/4cWDj4v7WAydE1CEl45G8w"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        },
+        {
+          "name": "Mapocho Orquesta",
+          "url": "https://open.spotify.com/artist/5zoXAWbqiovx7MFrNvuteu"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41880,
+      "name": "El Canto de Todos - Bonus Track",
+      "url": "https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr"
+    },
+    {
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "El Cristal",
+      "url": "https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6"
+    },
+    {
+      "album": {
+        "name": "El Derecho de Vivir en Paz",
+        "url": "https://open.spotify.com/album/72TMw0zavcWwbzU8j2gOmg"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasicxs De Chile",
+          "url": "https://open.spotify.com/artist/1XcFIWtpIjdO17IdGcjFmt"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        },
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        },
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+        },
+        {
+          "name": "Noche de Brujas",
+          "url": "https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl"
+        },
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        },
+        {
+          "name": "Consuelo Schuster",
+          "url": "https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk"
+        },
+        {
+          "name": "Schuster",
+          "url": "https://open.spotify.com/artist/0ExOaVFeqJBe9niEG4HZAX"
+        },
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/02loPkfxYFnifctWKXhfm8"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        },
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        },
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        },
+        {
+          "name": "Elizabeth Morris",
+          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
+        },
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        },
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Angel Parra",
+          "url": "https://open.spotify.com/artist/4zVtp9LhWzT5n1w27c0f6l"
+        },
+        {
+          "name": "Juan Angel",
+          "url": "https://open.spotify.com/artist/59flcQbO8ncuChTB2Ibnra"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227444,
+      "name": "El Derecho de Vivir en Paz",
+      "url": "https://open.spotify.com/track/2xuYcmQW7sFoVHygnyP2k1"
+    },
+    {
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
+    },
+    {
+      "album": {
+        "name": "El Perd\u00f3n (feat. Mon Laferte)",
+        "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 169145,
+      "name": "El Perd\u00f3n (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
+    },
+    {
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256773,
+      "name": "Flaco",
+      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
+    },
+    {
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268306,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth"
+    },
+    {
+      "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+    },
+    {
+      "album": {
+        "name": "Inv\u00e9ntame",
+        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
+    },
+    {
+      "album": {
+        "name": "La Danza de las Lib\u00e9lulas",
+        "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220867,
+      "name": "La Danza de las Lib\u00e9lulas",
+      "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
+    },
+    {
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
+    },
+    {
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Metamorfosis",
+      "url": "https://open.spotify.com/track/3CsUXmvprDXpBLACoBBJrN"
+    },
+    {
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "Mi Buen Amor",
+      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+    },
+    {
+      "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "No Soy Para Ti",
+      "url": "https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F"
+    },
+    {
+      "album": {
+        "name": "NO+SAD",
+        "url": "https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 174053,
+      "name": "NO+SAD",
+      "url": "https://open.spotify.com/track/1hdpMoNDNKvsgosL6c7ywF"
+    },
+    {
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 174053,
+      "name": "NO+SAD",
+      "url": "https://open.spotify.com/track/4CbeNOtHNUfy6yaQzlOQ2B"
+    },
+    {
+      "album": {
+        "name": "Paisaje Japon\u00e9s",
+        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 204733,
+      "name": "Paisaje Japon\u00e9s",
+      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Te Quiero Yo",
+        "url": "https://open.spotify.com/album/3gpg9uMXT5gX6AJkeDH4Ok"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231080,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/1UX1kt5jsniuhSpjIJTFGI"
+    },
+    {
+      "album": {
+        "name": "Palmar",
+        "url": "https://open.spotify.com/album/4yLAjcAidjMfi621CSBJTY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/06FhHrnpYCmIxIxIGUehxQ"
+    },
+    {
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249266,
+      "name": "Pa\u2019 D\u00f3nde Se Fue",
+      "url": "https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08"
+    },
+    {
+      "album": {
+        "name": "Pensamos",
+        "url": "https://open.spotify.com/album/3mhYvnYd8l0MGQVJsrPEK1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173514,
+      "name": "Pensamos",
+      "url": "https://open.spotify.com/track/1Y5G2UvRplEzSs7ngBKUgb"
+    },
+    {
+      "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219413,
+      "name": "Placer Hollywood",
+      "url": "https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn"
+    },
+    {
+      "album": {
+        "name": "Plata Ta T\u00e1",
+        "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 255506,
+      "name": "Plata Ta T\u00e1",
+      "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
+    },
+    {
+      "album": {
+        "name": "Sola Con Mis Monstruos (En Vivo, Desde El Lunario del Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar de Ti - En Vivo, Desde El Lunario del Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB"
+    },
+    {
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263533,
+      "name": "Pornocracia",
+      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
+    },
+    {
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Primaveral",
+      "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
+    },
+    {
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240746,
+      "name": "Pr\u00e9ndele Fuego",
+      "url": "https://open.spotify.com/track/6aVoAutMSg9BZv0jkwPKN1"
+    },
+    {
+      "album": {
+        "name": "Transformando La Cumbia",
+        "url": "https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 256493,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/0A2fcg05Ii6MpFCiuzfNfJ"
+    },
+    {
+      "album": {
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256532,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/6vKyXTggZFyTYQG8uoQt0q"
+    },
+    {
+      "album": {
+        "name": "Que Se Sepa Nuestro Amor",
+        "url": "https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "Que Se Sepa Nuestro Amor",
+      "url": "https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym"
+    },
+    {
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 203760,
+      "name": "Que S\u00ed",
+      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
+    },
+    {
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 230973,
+      "name": "Qu\u00e9date Esta Noche",
+      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
+    },
+    {
+      "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231320,
+      "name": "Qu\u00edmica Mayor",
+      "url": "https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl"
+    },
+    {
+      "album": {
+        "name": "Metr\u00f3polis (Live)",
+        "url": "https://open.spotify.com/album/6tfg5rWLaauuz4b9009iQT"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Rue Vieille Du Temple - Live",
+      "url": "https://open.spotify.com/track/3a9KZagWgkTU2YSsCtlMRl"
+    },
+    {
+      "album": {
+        "name": "EADDA9223",
+        "url": "https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Sasha, Sissi y el C\u00edrculo de Baba - EADDA9223 (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L"
+    },
+    {
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 238146,
+      "name": "Se Me Va A Quemar El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7"
+    },
+    {
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195883,
+      "name": "Se Portaba Mal",
+      "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
+    },
+    {
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Si T\u00fa Me Quisieras",
+      "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
+    },
+    {
+      "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214573,
+      "name": "Supermercado",
+      "url": "https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux"
+    },
+    {
+      "album": {
+        "name": "Dios Los Cr\u00eda",
+        "url": "https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 199018,
+      "name": "Tantas Veces",
+      "url": "https://open.spotify.com/track/1FV8DteSCiDnZDEQlQZMh3"
+    },
+    {
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 210226,
+      "name": "Te juro que volver\u00e9",
+      "url": "https://open.spotify.com/track/4bmPfEteHUchMec3gCPmNT"
+    },
+    {
+      "album": {
+        "name": "Te juro que volver\u00e9",
+        "url": "https://open.spotify.com/album/6CmRyotLh0DawLADSy5mPQ"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 210226,
+      "name": "Te juro que volver\u00e9",
+      "url": "https://open.spotify.com/track/4g9BWkumIqN1lbH3g0h24F"
+    },
+    {
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 216320,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/4DwnXwEVTipWr1u7ZAgoku"
+    },
+    {
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253840,
+      "name": "Tenochtitl\u00e1n",
+      "url": "https://open.spotify.com/track/1qL4NB9N5g20OiNcn5yAJc"
+    },
+    {
+      "album": {
+        "name": "Tenochtitl\u00e1n",
+        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 253840,
+      "name": "Tenochtitl\u00e1n",
+      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
+    },
+    {
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276733,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3"
+    },
+    {
+      "album": {
+        "name": "traguito",
+        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 236200,
+      "name": "traguito",
+      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
+    },
+    {
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "album": {
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
+        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278373,
+      "name": "Tu Falta De Querer - En Vivo",
+      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
+    },
+    {
+      "album": {
+        "name": "La Trenza (Deluxe)",
+        "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 214120,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
+    },
+    {
+      "album": {
+        "name": "Tornasol",
+        "url": "https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256540,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP"
+    },
+    {
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166093,
+      "name": "Yo Te Qui",
+      "url": "https://open.spotify.com/track/1i52sh56NRpwyO3qREWMX7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rButW"
 }

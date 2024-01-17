@@ -523,6 +523,28 @@
     },
     {
       "album": {
+        "name": "Goodbye, Hotel Arkada",
+        "url": "https://open.spotify.com/album/26k4Yg7IX877sxz5mnoQBK"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        },
+        {
+          "name": "Lol Tolhurst",
+          "url": "https://open.spotify.com/artist/0dpt5MouO4U9l189E5CIoN"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311441,
+      "name": "Arrivederci",
+      "url": "https://open.spotify.com/track/1tiAjr01WxvhtvGUQhwxxv"
+    },
+    {
+      "album": {
         "name": "Atlantic Diva",
         "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
@@ -1341,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Claro de Luna",
+        "url": "https://open.spotify.com/album/1IWoyDhqcmIEFs6VmjIt1s"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Claro de Luna",
+      "url": "https://open.spotify.com/track/7FIi8xh0J96N60yN1oE36r"
+    },
+    {
+      "album": {
         "name": "Clementine",
         "url": "https://open.spotify.com/album/4bNYz34i2RM9VRcQjPwQ8v"
       },
@@ -1778,7 +1818,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 197142,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
@@ -2144,7 +2184,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 420098,
       "name": "Flatiron",
       "url": "https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn"
@@ -3203,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Lake Of Gold",
+        "url": "https://open.spotify.com/album/4lJ3k8ZmLfvu7Voy8EJw6d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Barley",
+          "url": "https://open.spotify.com/artist/35yKqbBahxH38GhRc0vFrg"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281644,
+      "name": "Lake Of Gold",
+      "url": "https://open.spotify.com/track/0fI8RRzQhbc92lhT8bN7xr"
+    },
+    {
+      "album": {
         "name": "Landsort",
         "url": "https://open.spotify.com/album/70lHOZAgP8naWDMhixQ5LB"
       },
@@ -3518,7 +3576,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 366825,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd"
@@ -3606,7 +3664,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 182000,
       "name": "Maracuy\u00e1",
       "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
@@ -4694,7 +4752,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 678013,
       "name": "PHANTOM BRICKWORKS IV",
       "url": "https://open.spotify.com/track/4e2kZbzHiRIVqkgCrhRacI"
@@ -4896,7 +4954,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 259042,
       "name": "Pure",
       "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"
@@ -4968,7 +5026,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Rainforest Revival Shampoo Bar",
       "url": "https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp"
@@ -6385,6 +6443,32 @@
     },
     {
       "album": {
+        "name": "Xylem",
+        "url": "https://open.spotify.com/album/71CubrxJW16Hgxu8HBKd32"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        },
+        {
+          "name": "Rena Jones",
+          "url": "https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6"
+        },
+        {
+          "name": "Flowerpulse",
+          "url": "https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 211920,
+      "name": "Thus",
+      "url": "https://open.spotify.com/track/3zYbmJ5O9g3fgIni2B0Wh1"
+    },
+    {
+      "album": {
         "name": "Thus",
         "url": "https://open.spotify.com/album/5Uc6SeZfeDHPwbbyfbMOEv"
       },
@@ -6480,7 +6564,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 259075,
       "name": "Tomato Day",
       "url": "https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8"
@@ -6542,6 +6626,28 @@
       "duration_ms": 114285,
       "name": "Tropical",
       "url": "https://open.spotify.com/track/3ajXJnIwk0ufrze2chUUj8"
+    },
+    {
+      "album": {
+        "name": "Gravity Remixes",
+        "url": "https://open.spotify.com/album/32zeu7vyJ7lJoYqhqe3Mwc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263333,
+      "name": "Tunnels - East Forest Remix",
+      "url": "https://open.spotify.com/track/4yFA4m1ecMbZMHAVqSVsoN"
     },
     {
       "album": {
@@ -6744,7 +6850,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 501701,
       "name": "Untitled #1",
       "url": "https://open.spotify.com/track/67R6OxxmHwL0N1vLjetR75"
@@ -6834,7 +6940,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "venus mist",
       "url": "https://open.spotify.com/track/6UEHWnyYNSTjgqxxJF84wQ"

@@ -1,610 +1,1139 @@
 {
-  "2022-04-30": 12560,
-  "2022-05-01": 12570,
-  "2022-05-02": 12570,
-  "2022-05-03": 12576,
-  "2022-05-04": 12581,
-  "2022-05-05": 12587,
-  "2022-05-06": 12601,
-  "2022-05-07": 12612,
-  "2022-05-08": 12633,
-  "2022-05-09": 12635,
-  "2022-05-10": 12640,
-  "2022-05-11": 12646,
-  "2022-05-12": 12650,
-  "2022-05-13": 12656,
-  "2022-05-14": 12666,
-  "2022-05-15": 12676,
-  "2022-05-16": 12692,
-  "2022-05-17": 12708,
-  "2022-05-18": 12724,
-  "2022-05-19": 12737,
-  "2022-05-20": 12741,
-  "2022-05-21": 12771,
-  "2022-05-22": 12771,
-  "2022-05-23": 12789,
-  "2022-05-24": 12798,
-  "2022-05-25": 12811,
-  "2022-05-26": 12824,
-  "2022-05-27": 12832,
-  "2022-05-28": 12844,
-  "2022-05-29": 12856,
-  "2022-05-30": 12873,
-  "2022-05-31": 12896,
-  "2022-06-01": 12912,
-  "2022-06-02": 12913,
-  "2022-06-03": 12919,
-  "2022-06-04": 12932,
-  "2022-06-05": 12950,
-  "2022-06-06": 12968,
-  "2022-06-07": 12980,
-  "2022-06-08": 12996,
-  "2022-06-09": 13008,
-  "2022-06-10": 13014,
-  "2022-06-11": 13032,
-  "2022-06-12": 13048,
-  "2022-06-13": 13056,
-  "2022-06-14": 13072,
-  "2022-06-15": 13081,
-  "2022-06-16": 13089,
-  "2022-06-17": 13106,
-  "2022-06-18": 13122,
-  "2022-06-19": 13159,
-  "2022-06-20": 13159,
-  "2022-06-21": 13176,
-  "2022-06-22": 13203,
-  "2022-06-23": 13203,
-  "2022-06-24": 13218,
-  "2022-06-25": 13233,
-  "2022-06-26": 13254,
-  "2022-06-27": 13254,
-  "2022-06-28": 13284,
-  "2022-06-29": 13304,
-  "2022-06-30": 13325,
-  "2022-07-01": 13340,
-  "2022-07-02": 13353,
-  "2022-07-03": 13369,
-  "2022-07-04": 13384,
-  "2022-07-05": 13394,
-  "2022-07-06": 13406,
-  "2022-07-07": 13418,
-  "2022-07-08": 13426,
-  "2022-07-09": 13441,
-  "2022-07-10": 13456,
-  "2022-07-11": 13477,
-  "2022-07-12": 13488,
-  "2022-07-13": 13498,
-  "2022-07-14": 13506,
-  "2022-07-15": 13519,
-  "2022-07-16": 13537,
-  "2022-07-17": 13550,
-  "2022-07-18": 13571,
-  "2022-07-19": 13604,
-  "2022-07-20": 13618,
-  "2022-07-21": 13648,
-  "2022-07-22": 13657,
-  "2022-07-23": 13672,
-  "2022-07-24": 13689,
-  "2022-07-25": 13709,
-  "2022-07-26": 13723,
-  "2022-07-27": 13743,
-  "2022-07-28": 13747,
-  "2022-07-29": 13768,
-  "2022-07-30": 13799,
-  "2022-07-31": 13799,
-  "2022-08-01": 13814,
-  "2022-08-02": 13847,
-  "2022-08-03": 13847,
-  "2022-08-04": 13865,
-  "2022-08-05": 13887,
-  "2022-08-06": 13917,
-  "2022-08-07": 13937,
-  "2022-08-08": 13959,
-  "2022-08-09": 13964,
-  "2022-08-10": 13985,
-  "2022-08-11": 13998,
-  "2022-08-12": 14015,
-  "2022-08-13": 14044,
-  "2022-08-14": 14071,
-  "2022-08-15": 14091,
-  "2022-08-16": 14110,
-  "2022-08-17": 14123,
-  "2022-08-18": 14134,
-  "2022-08-19": 14140,
-  "2022-08-20": 14151,
-  "2022-08-21": 14170,
-  "2022-08-22": 14181,
-  "2022-08-23": 14191,
-  "2022-08-24": 14197,
-  "2022-08-25": 14199,
-  "2022-08-26": 14210,
-  "2022-08-27": 14226,
-  "2022-08-28": 14231,
-  "2022-08-29": 14240,
-  "2022-08-30": 14235,
-  "2022-08-31": 14220,
-  "2022-09-01": 14209,
-  "2022-09-02": 14194,
-  "2022-09-03": 14203,
-  "2022-09-04": 14158,
-  "2022-09-05": 14157,
-  "2022-09-06": 14164,
-  "2022-09-07": 14169,
-  "2022-09-09": 14179,
-  "2022-09-10": 14186,
-  "2022-09-11": 14189,
-  "2022-09-12": 14197,
-  "2022-09-13": 14203,
-  "2022-09-15": 14210,
-  "2022-09-16": 14216,
-  "2022-09-17": 14222,
-  "2022-09-18": 14232,
-  "2022-09-19": 14238,
-  "2022-09-20": 14237,
-  "2022-09-21": 14242,
-  "2022-09-22": 14245,
-  "2022-09-23": 14248,
-  "2022-09-24": 14255,
-  "2022-09-25": 14262,
-  "2022-09-26": 14261,
-  "2022-09-27": 14263,
-  "2022-09-28": 14268,
-  "2022-09-29": 14275,
-  "2022-09-30": 14277,
-  "2022-10-01": 14280,
-  "2022-10-02": 14283,
-  "2022-10-03": 14283,
-  "2022-10-04": 14289,
-  "2022-10-05": 14292,
-  "2022-10-06": 14295,
-  "2022-10-07": 14298,
-  "2022-10-08": 14301,
-  "2022-10-09": 14303,
-  "2022-10-10": 14304,
-  "2022-10-11": 14302,
-  "2022-10-12": 14307,
-  "2022-10-13": 14304,
-  "2022-10-14": 14312,
-  "2022-10-15": 14314,
-  "2022-10-16": 14318,
-  "2022-10-17": 14322,
-  "2022-10-18": 14327,
-  "2022-10-19": 14329,
-  "2022-10-20": 14334,
-  "2022-10-21": 14339,
-  "2022-10-22": 14341,
-  "2022-10-23": 14344,
-  "2022-10-24": 14348,
-  "2022-10-25": 14347,
-  "2022-10-26": 14345,
-  "2022-10-27": 14347,
-  "2022-10-28": 14350,
-  "2022-10-29": 14350,
-  "2022-10-30": 14358,
-  "2022-10-31": 14362,
-  "2022-11-01": 14370,
-  "2022-11-02": 14374,
-  "2022-11-03": 14381,
-  "2022-11-04": 14381,
-  "2022-11-05": 14383,
-  "2022-11-06": 14382,
-  "2022-11-07": 14386,
-  "2022-11-08": 14385,
-  "2022-11-09": 14393,
-  "2022-11-10": 14402,
-  "2022-11-11": 14403,
-  "2022-11-12": 14401,
-  "2022-11-13": 14412,
-  "2022-11-14": 14416,
-  "2022-11-15": 14423,
-  "2022-11-16": 14425,
-  "2022-11-17": 14429,
-  "2022-11-18": 14432,
-  "2022-11-19": 14428,
-  "2022-11-20": 14435,
-  "2022-11-21": 14429,
-  "2022-11-22": 14442,
-  "2022-11-23": 14439,
-  "2022-11-24": 14458,
-  "2022-11-25": 14475,
-  "2022-11-26": 14484,
-  "2022-11-27": 14495,
-  "2022-11-28": 14495,
-  "2022-11-29": 14498,
-  "2022-11-30": 14505,
-  "2022-12-01": 14505,
-  "2022-12-02": 14505,
-  "2022-12-03": 14509,
-  "2022-12-04": 14509,
-  "2022-12-05": 14518,
-  "2022-12-06": 14516,
-  "2022-12-07": 14519,
-  "2022-12-08": 14520,
-  "2022-12-09": 14523,
-  "2022-12-10": 14529,
-  "2022-12-11": 14535,
-  "2022-12-12": 14537,
-  "2022-12-13": 14541,
-  "2022-12-14": 14541,
-  "2022-12-15": 14543,
-  "2022-12-16": 14549,
-  "2022-12-17": 14553,
-  "2022-12-18": 14558,
-  "2022-12-19": 14565,
-  "2022-12-20": 14579,
-  "2022-12-21": 14579,
-  "2022-12-22": 14586,
-  "2022-12-24": 14605,
-  "2022-12-25": 14608,
-  "2022-12-26": 14608,
-  "2022-12-27": 14615,
-  "2022-12-28": 14626,
-  "2022-12-29": 14625,
-  "2022-12-30": 14635,
-  "2022-12-31": 14649,
-  "2023-01-01": 14661,
-  "2023-01-02": 14666,
-  "2023-01-03": 14670,
-  "2023-01-04": 14670,
-  "2023-01-05": 14674,
-  "2023-01-06": 14679,
-  "2023-01-07": 14680,
-  "2023-01-08": 14683,
-  "2023-01-09": 14690,
-  "2023-01-10": 14692,
-  "2023-01-11": 14692,
-  "2023-01-12": 14696,
-  "2023-01-13": 14697,
-  "2023-01-14": 14709,
-  "2023-01-15": 14713,
-  "2023-01-16": 14717,
-  "2023-01-17": 14721,
-  "2023-01-18": 14724,
-  "2023-01-19": 14725,
-  "2023-01-20": 14730,
-  "2023-01-21": 14733,
-  "2023-01-22": 14735,
-  "2023-01-23": 14741,
-  "2023-01-24": 14750,
-  "2023-01-25": 14754,
-  "2023-01-26": 14759,
-  "2023-01-27": 14763,
-  "2023-01-28": 14761,
-  "2023-01-29": 14767,
-  "2023-01-30": 14773,
-  "2023-01-31": 14773,
-  "2023-02-01": 14775,
-  "2023-02-02": 14783,
-  "2023-02-03": 14786,
-  "2023-02-04": 14794,
-  "2023-02-05": 14804,
-  "2023-02-06": 14808,
-  "2023-02-07": 14812,
-  "2023-02-08": 14821,
-  "2023-02-09": 14821,
-  "2023-02-10": 14827,
-  "2023-02-11": 14834,
-  "2023-02-12": 14843,
-  "2023-02-13": 14845,
-  "2023-02-14": 14845,
-  "2023-02-15": 14846,
-  "2023-02-16": 14855,
-  "2023-02-17": 14860,
-  "2023-02-18": 14883,
-  "2023-02-19": 14886,
-  "2023-02-20": 14886,
-  "2023-02-21": 14895,
-  "2023-02-22": 14895,
-  "2023-02-23": 14899,
-  "2023-02-24": 14906,
-  "2023-02-25": 14907,
-  "2023-02-26": 14915,
-  "2023-02-27": 14923,
-  "2023-02-28": 14923,
-  "2023-03-01": 14924,
-  "2023-03-02": 14926,
-  "2023-03-03": 14930,
-  "2023-03-04": 14934,
-  "2023-03-05": 14948,
-  "2023-03-06": 14948,
-  "2023-03-07": 14953,
-  "2023-03-08": 14950,
-  "2023-03-09": 14954,
-  "2023-03-10": 14957,
-  "2023-03-11": 14957,
-  "2023-03-12": 14965,
-  "2023-03-13": 14968,
-  "2023-03-14": 14975,
-  "2023-03-15": 14978,
-  "2023-03-16": 14987,
-  "2023-03-17": 14987,
-  "2023-03-18": 14995,
-  "2023-03-19": 14999,
-  "2023-03-20": 15003,
-  "2023-03-21": 15002,
-  "2023-03-22": 15004,
-  "2023-03-23": 15010,
-  "2023-03-24": 15010,
-  "2023-03-25": 15017,
-  "2023-03-26": 15021,
-  "2023-03-27": 15033,
-  "2023-03-28": 15037,
-  "2023-03-29": 15034,
-  "2023-03-30": 15052,
-  "2023-03-31": 15052,
-  "2023-04-01": 15055,
-  "2023-04-02": 15064,
-  "2023-04-03": 15065,
-  "2023-04-04": 15074,
-  "2023-04-05": 15082,
-  "2023-04-06": 15087,
-  "2023-04-07": 15094,
-  "2023-04-09": 15107,
-  "2023-04-10": 15114,
-  "2023-04-11": 15125,
-  "2023-04-12": 15125,
-  "2023-04-13": 15132,
-  "2023-04-14": 15142,
-  "2023-04-15": 15148,
-  "2023-04-16": 15156,
-  "2023-04-17": 15165,
-  "2023-04-18": 15179,
-  "2023-04-19": 15188,
-  "2023-04-20": 15196,
-  "2023-04-21": 15206,
-  "2023-04-22": 15211,
-  "2023-04-23": 15218,
-  "2023-04-24": 15219,
-  "2023-04-25": 15221,
-  "2023-04-26": 15229,
-  "2023-04-27": 15233,
-  "2023-04-28": 15237,
-  "2023-04-29": 15244,
-  "2023-04-30": 15246,
-  "2023-05-01": 15257,
-  "2023-05-02": 15261,
-  "2023-05-03": 15269,
-  "2023-05-04": 15278,
-  "2023-05-05": 15289,
-  "2023-05-06": 15302,
-  "2023-05-07": 15312,
-  "2023-05-08": 15323,
-  "2023-05-09": 15326,
-  "2023-05-10": 15334,
-  "2023-05-11": 15339,
-  "2023-05-12": 15345,
-  "2023-05-13": 15355,
-  "2023-05-14": 15373,
-  "2023-05-15": 15384,
-  "2023-05-16": 15390,
-  "2023-05-17": 15398,
-  "2023-05-18": 15413,
-  "2023-05-19": 15418,
-  "2023-05-20": 15433,
-  "2023-05-21": 15433,
-  "2023-05-22": 15433,
-  "2023-05-23": 15449,
-  "2023-05-24": 15466,
-  "2023-05-25": 15467,
-  "2023-05-26": 15478,
-  "2023-05-27": 15486,
-  "2023-05-28": 15505,
-  "2023-05-29": 15505,
-  "2023-05-30": 15529,
-  "2023-05-31": 15540,
-  "2023-06-01": 15557,
-  "2023-06-02": 15568,
-  "2023-06-03": 15578,
-  "2023-06-04": 15590,
-  "2023-06-05": 15604,
-  "2023-06-06": 15622,
-  "2023-06-07": 15626,
-  "2023-06-08": 15642,
-  "2023-06-09": 15655,
-  "2023-06-10": 15663,
-  "2023-06-11": 15682,
-  "2023-06-12": 15692,
-  "2023-06-13": 15706,
-  "2023-06-14": 15715,
-  "2023-06-15": 15724,
-  "2023-06-16": 15745,
-  "2023-06-17": 15761,
-  "2023-06-18": 15785,
-  "2023-06-19": 15806,
-  "2023-06-20": 15818,
-  "2023-06-21": 15827,
-  "2023-06-22": 15833,
-  "2023-06-23": 15848,
-  "2023-06-24": 15864,
-  "2023-06-25": 15880,
-  "2023-06-26": 15902,
-  "2023-06-27": 15914,
-  "2023-06-28": 15932,
-  "2023-06-29": 15940,
-  "2023-06-30": 15949,
-  "2023-07-01": 15977,
-  "2023-07-02": 15977,
-  "2023-07-03": 15989,
-  "2023-07-04": 16000,
-  "2023-07-05": 16015,
-  "2023-07-06": 16035,
-  "2023-07-07": 16035,
-  "2023-07-08": 16047,
-  "2023-07-09": 16057,
-  "2023-07-10": 16073,
-  "2023-07-11": 16087,
-  "2023-07-12": 16099,
-  "2023-07-13": 16115,
-  "2023-07-14": 16124,
-  "2023-07-15": 16133,
-  "2023-07-16": 16151,
-  "2023-07-17": 16157,
-  "2023-07-18": 16170,
-  "2023-07-19": 16179,
-  "2023-07-20": 16190,
-  "2023-07-21": 16195,
-  "2023-07-22": 16210,
-  "2023-07-23": 16228,
-  "2023-07-24": 16235,
-  "2023-07-25": 16248,
-  "2023-07-26": 16262,
-  "2023-07-27": 16273,
-  "2023-07-28": 16286,
-  "2023-07-29": 16300,
-  "2023-07-30": 16320,
-  "2023-07-31": 16333,
-  "2023-08-01": 16348,
-  "2023-08-02": 16356,
-  "2023-08-03": 16364,
-  "2023-08-04": 16375,
-  "2023-08-05": 16395,
-  "2023-08-06": 16420,
-  "2023-08-07": 16420,
-  "2023-08-08": 16431,
-  "2023-08-09": 16450,
-  "2023-08-10": 16464,
-  "2023-08-11": 16480,
-  "2023-08-12": 16498,
-  "2023-08-13": 16506,
-  "2023-08-14": 16528,
-  "2023-08-15": 16548,
-  "2023-08-16": 16548,
-  "2023-08-17": 16561,
-  "2023-08-18": 16570,
-  "2023-08-19": 16582,
-  "2023-08-20": 16594,
-  "2023-08-21": 16612,
-  "2023-08-22": 16620,
-  "2023-08-23": 16630,
-  "2023-08-24": 16642,
-  "2023-08-25": 16654,
-  "2023-08-26": 16661,
-  "2023-08-27": 16669,
-  "2023-08-28": 16689,
-  "2023-08-29": 16693,
-  "2023-08-30": 16697,
-  "2023-08-31": 16699,
-  "2023-09-01": 16719,
-  "2023-09-02": 16719,
-  "2023-09-03": 16727,
-  "2023-09-04": 16737,
-  "2023-09-05": 16750,
-  "2023-09-06": 16756,
-  "2023-09-07": 16766,
-  "2023-09-08": 16778,
-  "2023-09-09": 16792,
-  "2023-09-10": 16809,
-  "2023-09-11": 16817,
-  "2023-09-12": 16826,
-  "2023-09-13": 16833,
-  "2023-09-14": 16837,
-  "2023-09-15": 16844,
-  "2023-09-16": 16852,
-  "2023-09-17": 16860,
-  "2023-09-18": 16870,
-  "2023-09-19": 16878,
-  "2023-09-20": 16884,
-  "2023-09-21": 16893,
-  "2023-09-22": 16902,
-  "2023-09-23": 16907,
-  "2023-09-24": 16912,
-  "2023-09-25": 16923,
-  "2023-09-26": 16927,
-  "2023-09-27": 16932,
-  "2023-09-28": 16937,
-  "2023-09-29": 16948,
-  "2023-09-30": 16949,
-  "2023-10-01": 16954,
-  "2023-10-02": 16962,
-  "2023-10-03": 16970,
-  "2023-10-04": 16974,
-  "2023-10-05": 16976,
-  "2023-10-06": 16979,
-  "2023-10-07": 16983,
-  "2023-10-08": 16993,
-  "2023-10-09": 16996,
-  "2023-10-10": 16997,
-  "2023-10-11": 17003,
-  "2023-10-12": 17003,
-  "2023-10-13": 17007,
-  "2023-10-14": 17011,
-  "2023-10-15": 17017,
-  "2023-10-16": 17026,
-  "2023-10-17": 17036,
-  "2023-10-18": 17044,
-  "2023-10-19": 17048,
-  "2023-10-20": 17053,
-  "2023-10-21": 17061,
-  "2023-10-22": 17065,
-  "2023-10-23": 17072,
-  "2023-10-24": 17082,
-  "2023-10-25": 17086,
-  "2023-10-26": 17089,
-  "2023-10-27": 17096,
-  "2023-10-28": 17106,
-  "2023-10-29": 17112,
-  "2023-10-30": 17120,
-  "2023-10-31": 17120,
-  "2023-11-01": 17121,
-  "2023-11-02": 17127,
-  "2023-11-03": 17128,
-  "2023-11-04": 17137,
-  "2023-11-05": 17142,
-  "2023-11-06": 17148,
-  "2023-11-07": 17149,
-  "2023-11-08": 17150,
-  "2023-11-09": 17156,
-  "2023-11-10": 17161,
-  "2023-11-11": 17165,
-  "2023-11-12": 17169,
-  "2023-11-13": 17175,
-  "2023-11-14": 17182,
-  "2023-11-15": 17182,
-  "2023-11-16": 17197,
-  "2023-11-17": 17208,
-  "2023-11-18": 17208,
-  "2023-11-19": 17220,
-  "2023-11-20": 17222,
-  "2023-11-21": 17224,
-  "2023-11-22": 17222,
-  "2023-11-23": 17226,
-  "2023-11-24": 17233,
-  "2023-11-25": 17234,
-  "2023-11-26": 17239,
-  "2023-11-27": 17244,
-  "2023-11-28": 17242,
-  "2023-11-29": 17242,
-  "2023-11-30": 17242,
-  "2023-12-01": 17244,
-  "2023-12-02": 17248,
-  "2023-12-03": 17249,
-  "2023-12-04": 17252,
-  "2023-12-05": 17253,
-  "2023-12-06": 17255,
-  "2023-12-07": 17261,
-  "2023-12-08": 17258,
-  "2023-12-09": 17262,
-  "2023-12-10": 17263,
-  "2023-12-11": 17265,
-  "2023-12-12": 17269,
-  "2023-12-13": 17275,
-  "2023-12-14": 17280,
-  "2023-12-15": 17281,
-  "2023-12-16": 17287,
-  "2023-12-17": 17292,
-  "2023-12-18": 17293,
-  "2023-12-19": 17300,
-  "2023-12-20": 17305,
-  "2023-12-21": 17308,
-  "2023-12-22": 17310,
-  "2023-12-23": 17311,
-  "2023-12-24": 17315,
-  "2023-12-25": 17320,
-  "2023-12-26": 17322,
-  "2023-12-27": 17325,
-  "2023-12-30": 17335,
-  "2023-12-31": 17336,
-  "2024-01-01": 17338,
-  "2024-01-02": 17345,
-  "2024-01-03": 17347
+  "2024-01-17": 17386,
+  "date_first_scraped": "2022-04-30",
+  "description": "Classic blues for a blue summer day.",
+  "name": "Summertime Blues",
+  "tracks": [
+    {
+      "album": {
+        "name": "An Introduction To Otis Rush",
+        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157132,
+      "name": "All Your Love (I Miss Loving)",
+      "url": "https://open.spotify.com/track/46UVOp5pnAasev0rak9ta7"
+    },
+    {
+      "album": {
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "Ball N' Chain",
+      "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
+    },
+    {
+      "album": {
+        "name": "Ball And Chain",
+        "url": "https://open.spotify.com/album/2AOVcou4z2NUEEJ8p36eje"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271200,
+      "name": "Ball N' Chain",
+      "url": "https://open.spotify.com/track/4zBSdZ9E6FWnj7Ks64xdNZ"
+    },
+    {
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152350,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
+    },
+    {
+      "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV"
+    },
+    {
+      "album": {
+        "name": "Born Under A Bad Sign (Mono)",
+        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156397,
+      "name": "Crosscut Saw - Mono Mix",
+      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
+    },
+    {
+      "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Farther Up The Road",
+      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0Zyu5xdMOEjI7rWgUOG4TW"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176506,
+      "name": "Farther Up The Road - Single Version",
+      "url": "https://open.spotify.com/track/1nA9wOPmCLmmpTOCFGqUvV"
+    },
+    {
+      "album": {
+        "name": "Best Of The Blues",
+        "url": "https://open.spotify.com/album/1S7OZpDxCMctv23NyauY4U"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 179893,
+      "name": "Farther Up The Road - Single Version",
+      "url": "https://open.spotify.com/track/52Orpi1a7Md57vu8yZ1yZD"
+    },
+    {
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172059,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
+    },
+    {
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
+    },
+    {
+      "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157400,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
+    },
+    {
+      "album": {
+        "name": "Let's Dance Away And Hide Away",
+        "url": "https://open.spotify.com/album/1xSQ8zj6TJoUs6PQySJic1"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163346,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/1wPUZQCJhvCyOlEZIqSd5x"
+    },
+    {
+      "album": {
+        "name": "Old King Gold Volume 4",
+        "url": "https://open.spotify.com/album/2hkNiiSurEZAK6txnmB138"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 157520,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/0vpQF8zv6436C25Fcy7cO0"
+    },
+    {
+      "album": {
+        "name": "Blues Breakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        },
+        {
+          "name": "Sonny Thompson",
+          "url": "https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR"
+        },
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193560,
+      "name": "Hideaway - Mono",
+      "url": "https://open.spotify.com/track/43FVOV48LHhXOhZ0t5picb"
+    },
+    {
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+    },
+    {
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/2PcbVKT28p9mOlWBDL371J"
+    },
+    {
+      "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+    },
+    {
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/2DbjWyRtXmbOGyN1C1Kdbp"
+    },
+    {
+      "album": {
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+    },
+    {
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "album": {
+        "name": "Fast Fingers",
+        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251426,
+      "name": "It Serves Me Right To Suffer",
+      "url": "https://open.spotify.com/track/1R6geFUwTaYU8vnMkAtD2N"
+    },
+    {
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192706,
+      "name": "Junker's Blues",
+      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172826,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
+    },
+    {
+      "album": {
+        "name": "Jack, You're Dead: The Essential Blue Archive",
+        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "Let the Good Times Roll",
+      "url": "https://open.spotify.com/track/7e5etB94Bx7fVbJtlgkhjM"
+    },
+    {
+      "album": {
+        "name": "West Side Soul (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
+      },
+      "artists": [
+        {
+          "name": "Magic Sam",
+          "url": "https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO"
+        },
+        {
+          "name": "Mighty Joe Young",
+          "url": "https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL"
+        },
+        {
+          "name": "Stockholm Slim",
+          "url": "https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC"
+        },
+        {
+          "name": "Earnest Johnson",
+          "url": "https://open.spotify.com/artist/1zkJyhY4Yx9tiouTnGrs2I"
+        },
+        {
+          "name": "Odie Payne, Jr.",
+          "url": "https://open.spotify.com/artist/1A9aTffrO3x44CEX13JGIc"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Lookin' Good",
+      "url": "https://open.spotify.com/track/1Lw0Oi8JapLOIU8bfZV7PW"
+    },
+    {
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "Love Me Like a Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "album": {
+        "name": "Blues Ballads",
+        "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114946,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
+    },
+    {
+      "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Mean Mistreater",
+      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
+    },
+    {
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
+    },
+    {
+      "album": {
+        "name": "Buddy Guy & Junior Wells Play The Blues",
+        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135546,
+      "name": "Messin' with the Kid",
+      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
+    },
+    {
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "My Babe",
+      "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
+    },
+    {
+      "album": {
+        "name": "Evolution (The Most Recent)",
+        "url": "https://open.spotify.com/album/3TiJzhz6bELDjmTdnwOq9a"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268266,
+      "name": "Queen Bee",
+      "url": "https://open.spotify.com/track/4DxM8kI9DUFig4JkWiWxYr"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR"
+    },
+    {
+      "album": {
+        "name": "Nothing But The Truth",
+        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367533,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
+    },
+    {
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Someday (Electric)",
+      "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
+    },
+    {
+      "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431853,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
+    },
+    {
+      "album": {
+        "name": "Buddy's Blues",
+        "url": "https://open.spotify.com/album/1VUo4Kxd4tLGHrx13V1TVu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 431906,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/3vn0f3JPAErg8fzJs19ObG"
+    },
+    {
+      "album": {
+        "name": "I Was Walkin' Through The Woods",
+        "url": "https://open.spotify.com/album/3zAWUcaE9lzjf5qWcNqJlk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 434693,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/3FVpPBl3Jbd5TRLUFZamO9"
+    },
+    {
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
+      "album": {
+        "name": "The Best Of Duke-Peacock Blues",
+        "url": "https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q"
+      },
+      "artists": [
+        {
+          "name": "Larry Davis",
+          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163373,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9"
+    },
+    {
+      "album": {
+        "name": "Blues, Candy & Big Maybelle",
+        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "That's A Pretty Good Love",
+      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
+    },
+    {
+      "album": {
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 324266,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/4VCl2a5JvdrEx6PL2P29ty"
+    },
+    {
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324733,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
+    },
+    {
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: B.B. King",
+        "url": "https://open.spotify.com/album/2yMOWJ5fTfDJ6czMYcoa6F"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 325133,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/7ttYmKdps89NS0DOZkJivZ"
+    },
+    {
+      "album": {
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158902,
+      "name": "Tipitina - Mono",
+      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
+    },
+    {
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "Voodoo Woman",
+      "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
+    },
+    {
+      "album": {
+        "name": "Chicago Bound",
+        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167266,
+      "name": "Walking By Myself",
+      "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
+    },
+    {
+      "album": {
+        "name": "Sufferin' Mind",
+        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
+      },
+      "artists": [
+        {
+          "name": "Guitar Slim",
+          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147440,
+      "name": "Well I Done Got Over It",
+      "url": "https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl"
+    },
+    {
+      "album": {
+        "name": "Live And Well",
+        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517400,
+      "name": "Why I Sing The Blues",
+      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
+    },
+    {
+      "album": {
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219066,
+      "name": "Wild About You, Baby",
+      "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
+    },
+    {
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 237106,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/6NTCurUHy71S0XKVtyQtqT"
+    },
+    {
+      "album": {
+        "name": "Somebody Loan Me A Dime (Remastered)",
+        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233824,
+      "name": "You Don't Know What Love Is - Remastered",
+      "url": "https://open.spotify.com/track/0WfOWBaczM1RiKGNsLnKM0"
+    },
+    {
+      "album": {
+        "name": "Two Bugs And A Roach",
+        "url": "https://open.spotify.com/album/4OnXvgvHOupLeSaEVU8hpk"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/1bMCiGzKRJwmYkxtSBsTSM"
+    },
+    {
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "date_added": "2020-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4MTfCb9IRyO"
 }

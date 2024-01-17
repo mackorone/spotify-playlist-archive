@@ -1,6 +1,6 @@
 {
   "description": "This month: songs from an iconic era of Black film soundtracks.",
-  "num_followers": 1123817,
+  "num_followers": 1105724,
   "original_name": "Film & TV Favorites: 90s Black Cinema",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
+        "name": "Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
-        "name": "Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -95,22 +95,6 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "Boyz N The Hood",
-        "url": "https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
         "name": "Waiting To Exhale",
         "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 285106,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "Boyz N The Hood",
+        "url": "https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -275,26 +275,18 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "The Nutty Professor",
-        "url": "https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc"
+        "name": "Waiting To Exhale",
+        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
       "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        },
-        {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
-        },
         {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Touch Me Tease Me",
-      "url": "https://open.spotify.com/track/2tNDbNMvpgK8QlucdLcIBD"
+      "duration_ms": 298173,
+      "name": "Not Gon' Cry - from Waiting to Exhale - Original Soundtrack",
+      "url": "https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -351,18 +343,26 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "Waiting To Exhale",
-        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
+        "name": "The Nutty Professor",
+        "url": "https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc"
       },
       "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        },
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
         {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 298173,
-      "name": "Not Gon' Cry - from Waiting to Exhale - Original Soundtrack",
-      "url": "https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z"
+      "duration_ms": 232706,
+      "name": "Touch Me Tease Me",
+      "url": "https://open.spotify.com/track/2tNDbNMvpgK8QlucdLcIBD"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "Love Jones The Music",
-        "url": "https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z"
-      },
-      "artists": [
-        {
-          "name": "Dionne Farris",
-          "url": "https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Hopeless (From the New Line Cinema Film, \"Love Jones\")",
-      "url": "https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
         "name": "A Low Down Dirty Shame (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4wsZKe08Etc5Z1vE5fHN9M"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 254973,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1apzxNzMksJZtbDBKFIsdx"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "Love Jones The Music",
+        "url": "https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z"
+      },
+      "artists": [
+        {
+          "name": "Dionne Farris",
+          "url": "https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Hopeless (From the New Line Cinema Film, \"Love Jones\")",
+      "url": "https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
+        "name": "The Five Heartbeats (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7yyzbiqpfv5lKM5m4u4Wta"
+      },
+      "artists": [
+        {
+          "name": "The 5 Heartbeats",
+          "url": "https://open.spotify.com/artist/08XJ8En6r470i5QJV4vzrG"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "We Haven't Finished Yet",
+      "url": "https://open.spotify.com/track/1fDGra27Jnj1nF5xeUXRVS"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
         "name": "The Nutty Professor",
         "url": "https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 283306,
       "name": "New Jack Hustler (Nino's Theme)",
       "url": "https://open.spotify.com/track/3kPFTuTu8rBgSoglYRBRiE"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
-        "name": "The Five Heartbeats (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7yyzbiqpfv5lKM5m4u4Wta"
-      },
-      "artists": [
-        {
-          "name": "The 5 Heartbeats",
-          "url": "https://open.spotify.com/artist/08XJ8En6r470i5QJV4vzrG"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "We Haven't Finished Yet",
-      "url": "https://open.spotify.com/track/1fDGra27Jnj1nF5xeUXRVS"
     },
     {
       "added_at": "2021-02-02 15:31:39",

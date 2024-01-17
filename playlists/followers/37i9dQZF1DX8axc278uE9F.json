@@ -1,298 +1,981 @@
 {
-  "2023-03-11": 20681,
-  "2023-03-12": 20678,
-  "2023-03-13": 20687,
-  "2023-03-14": 20699,
-  "2023-03-15": 20704,
-  "2023-03-16": 20710,
-  "2023-03-17": 20710,
-  "2023-03-18": 20718,
-  "2023-03-19": 20722,
-  "2023-03-20": 20727,
-  "2023-03-21": 20734,
-  "2023-03-22": 20734,
-  "2023-03-23": 20738,
-  "2023-03-24": 20738,
-  "2023-03-25": 20752,
-  "2023-03-26": 20763,
-  "2023-03-27": 20775,
-  "2023-03-28": 20778,
-  "2023-03-29": 20791,
-  "2023-03-30": 20805,
-  "2023-03-31": 20805,
-  "2023-04-01": 20811,
-  "2023-04-02": 20811,
-  "2023-04-03": 20826,
-  "2023-04-04": 20831,
-  "2023-04-05": 20844,
-  "2023-04-06": 20855,
-  "2023-04-07": 20854,
-  "2023-04-09": 20869,
-  "2023-04-10": 20881,
-  "2023-04-11": 20887,
-  "2023-04-12": 20887,
-  "2023-04-13": 20899,
-  "2023-04-14": 20906,
-  "2023-04-15": 20908,
-  "2023-04-16": 20916,
-  "2023-04-17": 20921,
-  "2023-04-18": 20929,
-  "2023-04-19": 20937,
-  "2023-04-20": 20951,
-  "2023-04-21": 20963,
-  "2023-04-22": 20972,
-  "2023-04-23": 20974,
-  "2023-04-24": 20986,
-  "2023-04-25": 20988,
-  "2023-04-26": 20989,
-  "2023-04-27": 21004,
-  "2023-04-28": 21013,
-  "2023-04-29": 21017,
-  "2023-04-30": 21019,
-  "2023-05-01": 21018,
-  "2023-05-02": 21031,
-  "2023-05-03": 21042,
-  "2023-05-04": 21051,
-  "2023-05-05": 21056,
-  "2023-05-06": 21056,
-  "2023-05-07": 21062,
-  "2023-05-08": 21064,
-  "2023-05-09": 21073,
-  "2023-05-10": 21077,
-  "2023-05-11": 21078,
-  "2023-05-12": 21091,
-  "2023-05-13": 21099,
-  "2023-05-14": 21111,
-  "2023-05-15": 21120,
-  "2023-05-16": 21132,
-  "2023-05-17": 21136,
-  "2023-05-18": 21141,
-  "2023-05-19": 21154,
-  "2023-05-20": 21158,
-  "2023-05-21": 21158,
-  "2023-05-22": 21158,
-  "2023-05-23": 21176,
-  "2023-05-24": 21181,
-  "2023-05-25": 21182,
-  "2023-05-26": 21185,
-  "2023-05-27": 21191,
-  "2023-05-28": 21194,
-  "2023-05-29": 21194,
-  "2023-05-30": 21206,
-  "2023-05-31": 21209,
-  "2023-06-01": 21225,
-  "2023-06-02": 21233,
-  "2023-06-03": 21243,
-  "2023-06-04": 21248,
-  "2023-06-05": 21249,
-  "2023-06-06": 21254,
-  "2023-06-07": 21259,
-  "2023-06-08": 21262,
-  "2023-06-09": 21267,
-  "2023-06-10": 21279,
-  "2023-06-11": 21290,
-  "2023-06-12": 21298,
-  "2023-06-13": 21304,
-  "2023-06-14": 21303,
-  "2023-06-15": 21300,
-  "2023-06-16": 4261,
-  "2023-06-17": 4261,
-  "2023-06-18": 4261,
-  "2023-06-19": 4261,
-  "2023-06-20": 4261,
-  "2023-06-21": 4261,
-  "2023-06-22": 4261,
-  "2023-06-23": 4261,
-  "2023-06-24": 4261,
-  "2023-06-25": 4261,
-  "2023-06-26": 4261,
-  "2023-06-27": 4261,
-  "2023-06-28": 4261,
-  "2023-06-29": 4261,
-  "2023-06-30": 4261,
-  "2023-07-01": 4261,
-  "2023-07-02": 4261,
-  "2023-07-03": 4261,
-  "2023-07-04": 4261,
-  "2023-07-05": 4261,
-  "2023-07-06": 4261,
-  "2023-07-07": 4261,
-  "2023-07-08": 4261,
-  "2023-07-09": 4261,
-  "2023-07-10": 4261,
-  "2023-07-11": 4261,
-  "2023-07-12": 4261,
-  "2023-07-13": 4261,
-  "2023-07-14": 4261,
-  "2023-07-15": 4261,
-  "2023-07-16": 4261,
-  "2023-07-17": 4261,
-  "2023-07-18": 4261,
-  "2023-07-19": 4261,
-  "2023-07-20": 4261,
-  "2023-07-21": 4261,
-  "2023-07-22": 4261,
-  "2023-07-23": 4261,
-  "2023-07-24": 4261,
-  "2023-07-25": 4261,
-  "2023-07-26": 4261,
-  "2023-07-27": 4261,
-  "2023-07-28": 4261,
-  "2023-07-29": 4261,
-  "2023-07-30": 4261,
-  "2023-07-31": 4261,
-  "2023-08-01": 4261,
-  "2023-08-02": 4261,
-  "2023-08-03": 4261,
-  "2023-08-04": 4261,
-  "2023-08-05": 4261,
-  "2023-08-06": 4261,
-  "2023-08-07": 4261,
-  "2023-08-08": 4261,
-  "2023-08-09": 4261,
-  "2023-08-10": 4261,
-  "2023-08-11": 4261,
-  "2023-08-12": 4261,
-  "2023-08-13": 4261,
-  "2023-08-14": 4261,
-  "2023-08-15": 4261,
-  "2023-08-16": 4261,
-  "2023-08-17": 4261,
-  "2023-08-18": 4261,
-  "2023-08-19": 4261,
-  "2023-08-20": 4261,
-  "2023-08-21": 4261,
-  "2023-08-22": 4261,
-  "2023-08-23": 4261,
-  "2023-08-24": 4261,
-  "2023-08-25": 4261,
-  "2023-08-26": 4261,
-  "2023-08-27": 4261,
-  "2023-08-28": 4261,
-  "2023-08-29": 4261,
-  "2023-08-30": 4261,
-  "2023-08-31": 4261,
-  "2023-09-01": 4261,
-  "2023-09-02": 4261,
-  "2023-09-03": 4261,
-  "2023-09-04": 4261,
-  "2023-09-05": 4261,
-  "2023-09-06": 4261,
-  "2023-09-07": 4261,
-  "2023-09-08": 4261,
-  "2023-09-09": 4261,
-  "2023-09-10": 4261,
-  "2023-09-11": 4261,
-  "2023-09-12": 4261,
-  "2023-09-13": 4261,
-  "2023-09-14": 4261,
-  "2023-09-15": 4261,
-  "2023-09-16": 4261,
-  "2023-09-17": 4261,
-  "2023-09-18": 4261,
-  "2023-09-19": 4261,
-  "2023-09-20": 4261,
-  "2023-09-21": 4261,
-  "2023-09-22": 4261,
-  "2023-09-23": 4261,
-  "2023-09-24": 4261,
-  "2023-09-25": 4261,
-  "2023-09-26": 4261,
-  "2023-09-27": 4261,
-  "2023-09-28": 4261,
-  "2023-09-29": 4261,
-  "2023-09-30": 4261,
-  "2023-10-01": 4261,
-  "2023-10-02": 4261,
-  "2023-10-03": 4261,
-  "2023-10-04": 4261,
-  "2023-10-05": 4261,
-  "2023-10-06": 4261,
-  "2023-10-07": 4261,
-  "2023-10-08": 4261,
-  "2023-10-09": 4261,
-  "2023-10-10": 4261,
-  "2023-10-11": 4261,
-  "2023-10-12": 4261,
-  "2023-10-13": 4261,
-  "2023-10-14": 4261,
-  "2023-10-15": 4261,
-  "2023-10-16": 4261,
-  "2023-10-17": 4261,
-  "2023-10-18": 4261,
-  "2023-10-19": 4261,
-  "2023-10-20": 4261,
-  "2023-10-21": 4261,
-  "2023-10-22": 4261,
-  "2023-10-23": 4261,
-  "2023-10-24": 4261,
-  "2023-10-25": 4261,
-  "2023-10-26": 4261,
-  "2023-10-27": 4261,
-  "2023-10-28": 4261,
-  "2023-10-29": 4261,
-  "2023-10-30": 4261,
-  "2023-10-31": 4261,
-  "2023-11-01": 4261,
-  "2023-11-02": 4261,
-  "2023-11-03": 4261,
-  "2023-11-04": 4261,
-  "2023-11-05": 4261,
-  "2023-11-06": 4261,
-  "2023-11-07": 4261,
-  "2023-11-08": 4261,
-  "2023-11-09": 4261,
-  "2023-11-10": 4261,
-  "2023-11-11": 4261,
-  "2023-11-12": 4261,
-  "2023-11-13": 4261,
-  "2023-11-14": 4261,
-  "2023-11-15": 4261,
-  "2023-11-16": 4261,
-  "2023-11-17": 4261,
-  "2023-11-18": 4261,
-  "2023-11-19": 4261,
-  "2023-11-20": 4261,
-  "2023-11-21": 4261,
-  "2023-11-22": 4261,
-  "2023-11-23": 4261,
-  "2023-11-24": 4261,
-  "2023-11-25": 4261,
-  "2023-11-26": 4261,
-  "2023-11-27": 4261,
-  "2023-11-28": 4261,
-  "2023-11-29": 4261,
-  "2023-11-30": 4261,
-  "2023-12-01": 4261,
-  "2023-12-02": 4261,
-  "2023-12-03": 4261,
-  "2023-12-04": 4261,
-  "2023-12-05": 4261,
-  "2023-12-06": 4261,
-  "2023-12-07": 4261,
-  "2023-12-08": 4261,
-  "2023-12-09": 4261,
-  "2023-12-10": 4261,
-  "2023-12-11": 4261,
-  "2023-12-12": 4261,
-  "2023-12-13": 4261,
-  "2023-12-14": 4261,
-  "2023-12-15": 4261,
-  "2023-12-16": 4261,
-  "2023-12-17": 4261,
-  "2023-12-18": 4261,
-  "2023-12-19": 4261,
-  "2023-12-20": 4261,
-  "2023-12-21": 4261,
-  "2023-12-22": 4261,
-  "2023-12-23": 4261,
-  "2023-12-24": 4261,
-  "2023-12-25": 4261,
-  "2023-12-26": 4261,
-  "2023-12-27": 4261,
-  "2023-12-30": 4261,
-  "2023-12-31": 4261,
-  "2024-01-01": 4261,
-  "2024-01-02": 4261,
-  "2024-01-03": 4261
+  "2024-01-17": 4261,
+  "date_first_scraped": "2023-03-11",
+  "description": "The essential tracks, all in one place.",
+  "name": "This Is my bloody valentine",
+  "tracks": [
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "(When You Wake) You're Still in a Dream",
+      "url": "https://open.spotify.com/track/6V6CxbYYEnHWSLYPHJz41Q"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184093,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5bPw3HvMAFwAnV7n7ElptT"
+    },
+    {
+      "album": {
+        "name": "ep\u2019s 1988-1991 and rare tracks",
+        "url": "https://open.spotify.com/album/5WsJNCwUQ5rY7kF1hc8v6M"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282786,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/2jOBwq2JmfVjSgdp2QQY95"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216600,
+      "name": "Blown a Wish",
+      "url": "https://open.spotify.com/track/5iaeuSweyKjyrNa47uwwk3"
+    },
+    {
+      "album": {
+        "name": "you made me realise",
+        "url": "https://open.spotify.com/album/2koh1DylbwkKhvxGMpA4HJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210360,
+      "name": "cigarette in your bed",
+      "url": "https://open.spotify.com/track/6F7Es4pX9loG3v30IhZmSq"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238840,
+      "name": "Come in Alone",
+      "url": "https://open.spotify.com/track/5NziFO1dYnQPu2EXdTB4UL"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Cupid Come",
+      "url": "https://open.spotify.com/track/3IXItfQJeJihUaAQJFW7x2"
+    },
+    {
+      "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243306,
+      "name": "Don't Ask Why",
+      "url": "https://open.spotify.com/track/3YsLo6O3bxt0NhsDOgxBAd"
+    },
+    {
+      "album": {
+        "name": "you made me realise",
+        "url": "https://open.spotify.com/album/2koh1DylbwkKhvxGMpA4HJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186853,
+      "name": "drive it all over me",
+      "url": "https://open.spotify.com/track/6ruc46esqrjq8dA1PFiSjb"
+    },
+    {
+      "album": {
+        "name": "feed me with your kiss",
+        "url": "https://open.spotify.com/album/32urJuNJoupcMIDo9FRoaD"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "emptiness inside",
+      "url": "https://open.spotify.com/track/5Y1vsIHzNwzRwetpCLztDJ"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Feed Me with Your Kiss",
+      "url": "https://open.spotify.com/track/3yRVw6tj1WBOXVwfLkWH9q"
+    },
+    {
+      "album": {
+        "name": "ep\u2019s 1988-1991 and rare tracks",
+        "url": "https://open.spotify.com/album/3OKQrIvUbcJN9kcFLmycsk"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "glider",
+      "url": "https://open.spotify.com/track/4x81fOrnfPfx9Vfn6neDam"
+    },
+    {
+      "album": {
+        "name": "ep\u2019s 1988-1991 and rare tracks",
+        "url": "https://open.spotify.com/album/5WsJNCwUQ5rY7kF1hc8v6M"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615786,
+      "name": "glider - full length version",
+      "url": "https://open.spotify.com/track/1Vfmi25Jsob9Jf7NuSppR6"
+    },
+    {
+      "album": {
+        "name": "ep\u2019s 1988-1991 and rare tracks",
+        "url": "https://open.spotify.com/album/5WsJNCwUQ5rY7kF1hc8v6M"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151440,
+      "name": "good for you",
+      "url": "https://open.spotify.com/track/5zgkge9gBpaJMY7lQrd0Da"
+    },
+    {
+      "album": {
+        "name": "Tremolo",
+        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273760,
+      "name": "Honey Power (EP Version)",
+      "url": "https://open.spotify.com/track/63iAjv9t4EWVzwshRZBQst"
+    },
+    {
+      "album": {
+        "name": "ep\u2019s 1988-1991 and rare tracks",
+        "url": "https://open.spotify.com/album/5WsJNCwUQ5rY7kF1hc8v6M"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210453,
+      "name": "how do you do it",
+      "url": "https://open.spotify.com/track/2jJT9MZARgzt37l9F3m2dG"
+    },
+    {
+      "album": {
+        "name": "feed me with your kiss",
+        "url": "https://open.spotify.com/album/32urJuNJoupcMIDo9FRoaD"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "i believe",
+      "url": "https://open.spotify.com/track/1ots2Slrslc9yU4yqAiFfG"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "I Can See It (But I Can't Feel It)",
+      "url": "https://open.spotify.com/track/1Ln2Qxkvq5YhvBVbkG57Ke"
+    },
+    {
+      "album": {
+        "name": "feed me with your kiss",
+        "url": "https://open.spotify.com/album/32urJuNJoupcMIDo9FRoaD"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "i need no trust",
+      "url": "https://open.spotify.com/track/5WkBry0VEM3f4xhDhQU4Cu"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334400,
+      "name": "I Only Said",
+      "url": "https://open.spotify.com/track/0oiGUMBeL8Bn0csxAl4a1W"
+    },
+    {
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234280,
+      "name": "if i am",
+      "url": "https://open.spotify.com/track/4RKalKzz6hvzrLWiQVyItO"
+    },
+    {
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330906,
+      "name": "in another way",
+      "url": "https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe"
+    },
+    {
+      "album": {
+        "name": "ep\u2019s 1988-1991 and rare tracks",
+        "url": "https://open.spotify.com/album/5WsJNCwUQ5rY7kF1hc8v6M"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202186,
+      "name": "instrumental no. 1",
+      "url": "https://open.spotify.com/track/13wEICW3CjciCeZLqHeVwl"
+    },
+    {
+      "album": {
+        "name": "ep\u2019s 1988-1991 and rare tracks",
+        "url": "https://open.spotify.com/album/5WsJNCwUQ5rY7kF1hc8v6M"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284560,
+      "name": "instrumental no. 2",
+      "url": "https://open.spotify.com/track/1Y1ya8FWKj1HB8x60OFYJm"
+    },
+    {
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306600,
+      "name": "is this and yes",
+      "url": "https://open.spotify.com/track/0pKiRUUo88v5lIiSNZwEwj"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158306,
+      "name": "Loomer",
+      "url": "https://open.spotify.com/track/1kAQmY7yNW6LFdDftDbe1X"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
+    },
+    {
+      "album": {
+        "name": "Tremolo",
+        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206266,
+      "name": "Moon Song (EP Version)",
+      "url": "https://open.spotify.com/track/4Yzom8WJVugy6Z1A58d1gp"
+    },
+    {
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298946,
+      "name": "new you",
+      "url": "https://open.spotify.com/track/7lZIMb2AD7T09fZlqOQJ0q"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "No More Sorry",
+      "url": "https://open.spotify.com/track/5B7dSj3fDMG0bwN3D6pUxF"
+    },
+    {
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "nothing is",
+      "url": "https://open.spotify.com/track/0WdbwaMNuy2xKt78S9hOCB"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "Nothing Much to Lose",
+      "url": "https://open.spotify.com/track/3gOzKbPb3Atac29uUNY08H"
+    },
+    {
+      "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255426,
+      "name": "Off Your Face",
+      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+    },
+    {
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381626,
+      "name": "only tomorrow",
+      "url": "https://open.spotify.com/track/7gjo7CYtOAcm0q8hGEHQ23"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140840,
+      "name": "Several Girls Galore",
+      "url": "https://open.spotify.com/track/7AUXTC2dswY8bos2WQ6wci"
+    },
+    {
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306093,
+      "name": "she found now",
+      "url": "https://open.spotify.com/track/4g8Hx6Jg0Qf0t0VGl60pT0"
+    },
+    {
+      "album": {
+        "name": "you made me realise",
+        "url": "https://open.spotify.com/album/2koh1DylbwkKhvxGMpA4HJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "slow",
+      "url": "https://open.spotify.com/track/0YY6lMfcrZEa7BTn16MK7I"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141040,
+      "name": "Soft as Snow (But Warm Inside)",
+      "url": "https://open.spotify.com/track/06kqVxin2I9UDejcTUFqIl"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319226,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418706,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132733,
+      "name": "Sueisfine",
+      "url": "https://open.spotify.com/track/2jCeHHgdydR2N00tsGkF5O"
+    },
+    {
+      "album": {
+        "name": "ep\u2019s 1988-1991 and rare tracks",
+        "url": "https://open.spotify.com/album/5WsJNCwUQ5rY7kF1hc8v6M"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256453,
+      "name": "sugar",
+      "url": "https://open.spotify.com/track/16NOmBR3raJY5sHconK8yS"
+    },
+    {
+      "album": {
+        "name": "Tremolo",
+        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293840,
+      "name": "Swallow (EP Version)",
+      "url": "https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS"
+    },
+    {
+      "album": {
+        "name": "you made me realise",
+        "url": "https://open.spotify.com/album/2koh1DylbwkKhvxGMpA4HJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "thorn",
+      "url": "https://open.spotify.com/track/3kGDYOXxPrIZSo612DYIeC"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331226,
+      "name": "To Here Knows When",
+      "url": "https://open.spotify.com/track/41R4fI1Z1w2gsJEFQWdeJs"
+    },
+    {
+      "album": {
+        "name": "Tremolo",
+        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349866,
+      "name": "To Here Knows When - EP Version",
+      "url": "https://open.spotify.com/track/46L5rLfjCdaoPhWQilD8oe"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56666,
+      "name": "Touched",
+      "url": "https://open.spotify.com/track/1I63q5aYjoyai9CI8QXDrn"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333200,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/6TQMx46BOs5GHS3hcshYQf"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
+    },
+    {
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372213,
+      "name": "who sees you",
+      "url": "https://open.spotify.com/track/6MGkqYuQhx5AGMINNj5ZRU"
+    },
+    {
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351506,
+      "name": "wonder 2",
+      "url": "https://open.spotify.com/track/1BVb62zJabdiVOpOxheQoX"
+    },
+    {
+      "album": {
+        "name": "you made me realise",
+        "url": "https://open.spotify.com/album/2koh1DylbwkKhvxGMpA4HJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "you made me realise",
+      "url": "https://open.spotify.com/track/6XXcWVWc4Y8Msqypisg105"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "You Never Should",
+      "url": "https://open.spotify.com/track/2BdVMjLpO8xaLLm6wB122C"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8axc278uE9F"
 }

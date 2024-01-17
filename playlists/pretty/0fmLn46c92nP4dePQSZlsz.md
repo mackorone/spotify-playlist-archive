@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt?si=0QDmtGuMQeGVL\-2TIseEpA">Molly Lewis</a>
 
-[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,178 likes - 75 songs - 4 hr 31 min
+[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,125 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

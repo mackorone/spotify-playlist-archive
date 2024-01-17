@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,436 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,082 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 49 | [Lily](https://open.spotify.com/track/1vVqeVk2xv1NClP8Q1w4ol) | [Pierre Perret](https://open.spotify.com/artist/3IZrUS6JZOX0mULDy0QPra) | [L'âge de pierre](https://open.spotify.com/album/7wnjaC11wm2UDP3H17A8Qp) | 3:01 |
 | 50 | [Hexagone](https://open.spotify.com/track/1kctI6izBtrYuGvNsUUA3B) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Renaud CD Story](https://open.spotify.com/album/1QuRVhgQ3UM7N9dz0O1s0z) | 5:30 |
 
-Snapshot ID: `MCwzNThkMTY0YTc2YWUyNWE0MDY5Y2Q1N2M1YjRlZDA5ZTFlMGJmMmU4`
+Snapshot ID: `MCxkYjY2Njc1OTFmOWY5N2NjY2JlMjkwOTU2OTE2N2YyNTRiYzBjYmMy`

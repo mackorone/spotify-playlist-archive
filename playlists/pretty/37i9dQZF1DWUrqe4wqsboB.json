@@ -1,6 +1,6 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Sie7e",
-  "num_followers": 4490,
+  "num_followers": 4643,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "YOKO",
-        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 207426,
-      "name": "YOKO",
-      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
       },
@@ -223,8 +239,24 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+        "name": "Tejido de Laurel",
+        "url": "https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B"
+      },
+      "artists": [
+        {
+          "name": "Andrea Cruz",
+          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
+        }
+      ],
+      "duration_ms": 62986,
+      "name": "Hilos",
+      "url": "https://open.spotify.com/track/5jedB0wihSnYa93YAOwZZD"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
       "artists": [
         {
@@ -232,9 +264,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -251,22 +283,6 @@
       "duration_ms": 209000,
       "name": "falco",
       "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Tejido de Laurel",
-        "url": "https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B"
-      },
-      "artists": [
-        {
-          "name": "Andrea Cruz",
-          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
-        }
-      ],
-      "duration_ms": 62986,
-      "name": "Hilos",
-      "url": "https://open.spotify.com/track/5jedB0wihSnYa93YAOwZZD"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -299,22 +315,6 @@
       "duration_ms": 264038,
       "name": "Calma",
       "url": "https://open.spotify.com/track/0SPr1VZrc4sQ0IWz3iXkr6"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -475,6 +475,50 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Duo Deleite",
+        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
+      },
+      "artists": [
+        {
+          "name": "Duo Deleite",
+          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
+        },
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        },
+        {
+          "name": "Enyel C",
+          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
+        },
+        {
+          "name": "Balbi",
+          "url": "https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Lo Que No Te Dije",
         "url": "https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315"
       },
@@ -507,18 +551,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+        "name": "Letra Pa' tu Coco",
+        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
       },
       "artists": [
         {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
         }
       ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+      "duration_ms": 212453,
+      "name": "Live This One",
+      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -539,18 +583,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -571,18 +615,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Letra Pa' tu Coco",
-        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
+        "name": "Dama",
+        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
       },
       "artists": [
         {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Live This One",
-      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
+      "duration_ms": 226125,
+      "name": "Dama",
+      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -615,34 +659,6 @@
       "duration_ms": 194500,
       "name": "Duermo con fr\u00edo",
       "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Duo Deleite",
-        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
-      },
-      "artists": [
-        {
-          "name": "Duo Deleite",
-          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
-        },
-        {
-          "name": "Gyanma",
-          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
-        },
-        {
-          "name": "Enyel C",
-          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
-        },
-        {
-          "name": "Balbi",
-          "url": "https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -687,18 +703,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Dama",
-        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/3qjCjRW2rQEWqe0NP7Y9Nb"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "Valeria Cid",
+          "url": "https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U"
         }
       ],
-      "duration_ms": 226125,
-      "name": "Dama",
-      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
+      "duration_ms": 212983,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/6cRKwJ29ugWQmCyUhy2htP"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Diamante y L\u00e1grima",
-        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 200174,
-      "name": "Diamante y L\u00e1grima",
-      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Maldita Cach\u00e1",
         "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
       },
@@ -747,6 +747,42 @@
       "duration_ms": 144958,
       "name": "Maldita Cach\u00e1",
       "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Liberado",
+        "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        },
+        {
+          "name": "Manu Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/2KK7N3eQQiPWi7GRVJwxZL"
+        }
+      ],
+      "duration_ms": 199308,
+      "name": "Aguadilla",
+      "url": "https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Miel y Mantequilla",
+        "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
+      },
+      "artists": [
+        {
+          "name": "Seba Otero",
+          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        }
+      ],
+      "duration_ms": 227319,
+      "name": "Miel y Mantequilla",
+      "url": "https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -783,78 +819,34 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Miel y Mantequilla",
-        "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
+        "name": "Diamante y L\u00e1grima",
+        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
       },
       "artists": [
         {
-          "name": "Seba Otero",
-          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
         }
       ],
-      "duration_ms": 227319,
-      "name": "Miel y Mantequilla",
-      "url": "https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU"
+      "duration_ms": 200174,
+      "name": "Diamante y L\u00e1grima",
+      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
     },
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Beso Con Sal",
-        "url": "https://open.spotify.com/album/58E1Dd75D47aEixQBfwWmy"
+        "name": "Liberado",
+        "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
       },
       "artists": [
         {
-          "name": "Fux Beat",
-          "url": "https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Beso Con Sal",
-      "url": "https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Toco Madera",
-        "url": "https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8"
-      },
-      "artists": [
-        {
-          "name": "Cabra",
-          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
-        },
-        {
-          "name": "Seba Otero",
-          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
-        },
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 228073,
-      "name": "Toco Madera",
-      "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Mares\u00eda",
-        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 211169,
-      "name": "Mares\u00eda",
-      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
+      "duration_ms": 200022,
+      "name": "TQD",
+      "url": "https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM"
     }
   ],
   "unique_name": "Indie Boricua",

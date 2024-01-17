@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "All your favourite pop songs, remixed to perfection. Cover: Tyla",
+  "description": "All your favourite pop songs, remixed to perfection. Cover: Dua Lipa",
   "name": "Massive Pop Remixes",
   "tracks": [
     {
@@ -84,7 +84,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 181442,
       "name": "10:35 (feat. Tate McRae) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 238731,
       "name": "BREAK MY SOUL - will.i.am Remix",
       "url": "https://open.spotify.com/track/5EooBH2mT6qcsPY8ZgZPVW"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 165141,
       "name": "Good Ones - Joel Corry Remix",
       "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
@@ -939,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Houdini (Adam Port Mix)",
+        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Houdini - Adam Port Mix",
+      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
+    },
+    {
+      "album": {
         "name": "How Does It Feel (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6ko9r3KK7mLahvJoQVEQ9U"
       },
@@ -1050,6 +1072,28 @@
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
+    },
+    {
+      "album": {
+        "name": "Is It Love (goddard. Remix)",
+        "url": "https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158550,
+      "name": "Is It Love - goddard. Remix",
+      "url": "https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD"
     },
     {
       "album": {
@@ -1190,7 +1234,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 157647,
       "name": "Life Goes On - Alok Remix",
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
@@ -2378,6 +2422,32 @@
       "duration_ms": 172258,
       "name": "You & I - Emily Nash Remix",
       "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
+    },
+    {
+      "album": {
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVxqA801UP5W"

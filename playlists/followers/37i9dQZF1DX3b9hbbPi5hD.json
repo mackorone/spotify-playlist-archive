@@ -1,735 +1,1599 @@
 {
-  "2021-12-25": 546240,
-  "2021-12-26": 546426,
-  "2021-12-27": 546824,
-  "2021-12-28": 546825,
-  "2021-12-29": 547017,
-  "2021-12-30": 547219,
-  "2021-12-31": 547418,
-  "2022-01-01": 547817,
-  "2022-01-02": 547881,
-  "2022-01-03": 548015,
-  "2022-01-04": 548190,
-  "2022-01-05": 548391,
-  "2022-01-06": 548586,
-  "2022-01-07": 548788,
-  "2022-01-08": 549338,
-  "2022-01-09": 549345,
-  "2022-01-10": 549558,
-  "2022-01-11": 549775,
-  "2022-01-12": 549990,
-  "2022-01-13": 550194,
-  "2022-01-14": 550405,
-  "2022-01-15": 550922,
-  "2022-01-16": 550944,
-  "2022-01-17": 551487,
-  "2022-01-18": 551507,
-  "2022-01-19": 551669,
-  "2022-01-20": 551845,
-  "2022-01-21": 552100,
-  "2022-01-22": 552306,
-  "2022-01-23": 552582,
-  "2022-01-24": 552843,
-  "2022-01-25": 553030,
-  "2022-01-26": 553229,
-  "2022-01-27": 553423,
-  "2022-01-28": 553625,
-  "2022-01-29": 553871,
-  "2022-01-30": 554204,
-  "2022-01-31": 554475,
-  "2022-02-01": 554732,
-  "2022-02-02": 554911,
-  "2022-02-03": 555112,
-  "2022-02-04": 555320,
-  "2022-02-05": 555564,
-  "2022-02-06": 555784,
-  "2022-02-07": 556019,
-  "2022-02-08": 556203,
-  "2022-02-09": 556383,
-  "2022-02-10": 556564,
-  "2022-02-11": 556758,
-  "2022-02-12": 556991,
-  "2022-02-13": 557202,
-  "2022-02-14": 557412,
-  "2022-02-15": 557534,
-  "2022-02-16": 557656,
-  "2022-02-17": 557784,
-  "2022-02-18": 557951,
-  "2022-02-19": 558121,
-  "2022-02-20": 558317,
-  "2022-02-21": 558520,
-  "2022-02-22": 558662,
-  "2022-02-23": 558827,
-  "2022-02-24": 559055,
-  "2022-02-25": 559165,
-  "2022-02-26": 559329,
-  "2022-02-27": 559681,
-  "2022-02-28": 559681,
-  "2022-03-01": 559812,
-  "2022-03-02": 559939,
-  "2022-03-03": 560118,
-  "2022-03-04": 560273,
-  "2022-03-05": 560457,
-  "2022-03-06": 560662,
-  "2022-03-07": 560860,
-  "2022-03-08": 560997,
-  "2022-03-09": 561143,
-  "2022-03-10": 561306,
-  "2022-03-11": 561463,
-  "2022-03-12": 561637,
-  "2022-03-13": 561855,
-  "2022-03-14": 562048,
-  "2022-03-15": 562213,
-  "2022-03-16": 562377,
-  "2022-03-17": 562540,
-  "2022-03-18": 562801,
-  "2022-03-19": 562910,
-  "2022-03-20": 562910,
-  "2022-03-21": 563301,
-  "2022-03-22": 563422,
-  "2022-03-23": 563571,
-  "2022-03-24": 563713,
-  "2022-03-25": 563876,
-  "2022-03-26": 564028,
-  "2022-03-27": 564220,
-  "2022-03-28": 564412,
-  "2022-03-30": 564724,
-  "2022-03-31": 564880,
-  "2022-04-01": 565039,
-  "2022-04-02": 565224,
-  "2022-04-03": 565501,
-  "2022-04-04": 565727,
-  "2022-04-05": 565896,
-  "2022-04-06": 566072,
-  "2022-04-07": 566267,
-  "2022-04-08": 566514,
-  "2022-04-09": 566710,
-  "2022-04-10": 567122,
-  "2022-04-11": 567278,
-  "2022-04-12": 567290,
-  "2022-04-13": 567444,
-  "2022-04-14": 567622,
-  "2022-04-15": 567783,
-  "2022-04-16": 567986,
-  "2022-04-17": 568210,
-  "2022-04-18": 568433,
-  "2022-04-19": 568602,
-  "2022-04-20": 568768,
-  "2022-04-21": 568925,
-  "2022-04-22": 569108,
-  "2022-04-23": 569315,
-  "2022-04-24": 569553,
-  "2022-04-25": 569747,
-  "2022-04-26": 569908,
-  "2022-04-27": 570087,
-  "2022-04-28": 570254,
-  "2022-04-29": 570552,
-  "2022-04-30": 570814,
-  "2022-05-01": 571093,
-  "2022-05-02": 571093,
-  "2022-05-03": 571292,
-  "2022-05-04": 571494,
-  "2022-05-05": 571668,
-  "2022-05-06": 571863,
-  "2022-05-07": 572096,
-  "2022-05-08": 572414,
-  "2022-05-09": 572454,
-  "2022-05-10": 572610,
-  "2022-05-11": 572780,
-  "2022-05-12": 572901,
-  "2022-05-13": 573038,
-  "2022-05-14": 573205,
-  "2022-05-15": 573376,
-  "2022-05-16": 573565,
-  "2022-05-17": 573701,
-  "2022-05-18": 573821,
-  "2022-05-19": 573961,
-  "2022-05-20": 574119,
-  "2022-05-21": 574473,
-  "2022-05-22": 574473,
-  "2022-05-23": 574670,
-  "2022-05-24": 574799,
-  "2022-05-25": 574911,
-  "2022-05-26": 575047,
-  "2022-05-27": 575187,
-  "2022-05-28": 575332,
-  "2022-05-29": 575514,
-  "2022-05-30": 575676,
-  "2022-05-31": 575834,
-  "2022-06-01": 576071,
-  "2022-06-02": 576087,
-  "2022-06-03": 576230,
-  "2022-06-04": 576393,
-  "2022-06-05": 576554,
-  "2022-06-06": 576710,
-  "2022-06-07": 576870,
-  "2022-06-08": 577001,
-  "2022-06-09": 577093,
-  "2022-06-10": 577238,
-  "2022-06-11": 577376,
-  "2022-06-12": 577559,
-  "2022-06-13": 577740,
-  "2022-06-14": 577897,
-  "2022-06-15": 578030,
-  "2022-06-16": 578180,
-  "2022-06-17": 578341,
-  "2022-06-18": 578496,
-  "2022-06-19": 578819,
-  "2022-06-20": 578819,
-  "2022-06-21": 578916,
-  "2022-06-22": 579184,
-  "2022-06-23": 579184,
-  "2022-06-24": 579337,
-  "2022-06-25": 579496,
-  "2022-06-26": 579696,
-  "2022-06-27": 579881,
-  "2022-06-28": 580020,
-  "2022-06-29": 580129,
-  "2022-06-30": 580280,
-  "2022-07-01": 580435,
-  "2022-07-02": 580613,
-  "2022-07-03": 580835,
-  "2022-07-04": 581053,
-  "2022-07-05": 581199,
-  "2022-07-06": 581337,
-  "2022-07-07": 581518,
-  "2022-07-08": 581712,
-  "2022-07-09": 581863,
-  "2022-07-10": 582055,
-  "2022-07-11": 582225,
-  "2022-07-12": 582392,
-  "2022-07-13": 582544,
-  "2022-07-14": 582661,
-  "2022-07-15": 582834,
-  "2022-07-16": 583007,
-  "2022-07-17": 583203,
-  "2022-07-18": 583379,
-  "2022-07-19": 583551,
-  "2022-07-20": 583743,
-  "2022-07-21": 583899,
-  "2022-07-22": 584081,
-  "2022-07-23": 584307,
-  "2022-07-24": 584518,
-  "2022-07-25": 584755,
-  "2022-07-26": 584944,
-  "2022-07-27": 585111,
-  "2022-07-28": 585302,
-  "2022-07-29": 585513,
-  "2022-07-30": 585888,
-  "2022-07-31": 585888,
-  "2022-08-01": 586097,
-  "2022-08-02": 586433,
-  "2022-08-03": 586433,
-  "2022-08-04": 586615,
-  "2022-08-05": 586765,
-  "2022-08-06": 586942,
-  "2022-08-07": 587158,
-  "2022-08-08": 587314,
-  "2022-08-09": 587453,
-  "2022-08-10": 587622,
-  "2022-08-11": 587812,
-  "2022-08-12": 587979,
-  "2022-08-13": 588196,
-  "2022-08-14": 588367,
-  "2022-08-15": 588570,
-  "2022-08-16": 588767,
-  "2022-08-17": 588949,
-  "2022-08-18": 589159,
-  "2022-08-19": 589343,
-  "2022-08-20": 589511,
-  "2022-08-21": 589703,
-  "2022-08-22": 589875,
-  "2022-08-23": 590022,
-  "2022-08-24": 590171,
-  "2022-08-25": 590344,
-  "2022-08-26": 590492,
-  "2022-08-27": 590656,
-  "2022-08-28": 590822,
-  "2022-08-29": 590989,
-  "2022-08-30": 590722,
-  "2022-08-31": 590050,
-  "2022-09-01": 589294,
-  "2022-09-02": 588552,
-  "2022-09-03": 588687,
-  "2022-09-04": 586686,
-  "2022-09-05": 586745,
-  "2022-09-06": 586875,
-  "2022-09-07": 586988,
-  "2022-09-09": 587297,
-  "2022-09-10": 587474,
-  "2022-09-11": 587747,
-  "2022-09-12": 587989,
-  "2022-09-13": 588170,
-  "2022-09-15": 588560,
-  "2022-09-16": 588776,
-  "2022-09-17": 589009,
-  "2022-09-18": 589297,
-  "2022-09-19": 589529,
-  "2022-09-20": 589775,
-  "2022-09-21": 589974,
-  "2022-09-22": 590192,
-  "2022-09-23": 590456,
-  "2022-09-24": 590724,
-  "2022-09-25": 590991,
-  "2022-09-26": 591261,
-  "2022-09-27": 591488,
-  "2022-09-28": 591725,
-  "2022-09-29": 591948,
-  "2022-09-30": 592225,
-  "2022-10-01": 592510,
-  "2022-10-02": 592807,
-  "2022-10-03": 593069,
-  "2022-10-04": 593344,
-  "2022-10-05": 593604,
-  "2022-10-06": 593831,
-  "2022-10-07": 594103,
-  "2022-10-08": 594381,
-  "2022-10-09": 594915,
-  "2022-10-10": 594989,
-  "2022-10-11": 595232,
-  "2022-10-12": 595477,
-  "2022-10-13": 595696,
-  "2022-10-14": 595944,
-  "2022-10-15": 596231,
-  "2022-10-16": 596478,
-  "2022-10-17": 596717,
-  "2022-10-18": 596915,
-  "2022-10-19": 597111,
-  "2022-10-20": 597332,
-  "2022-10-21": 597540,
-  "2022-10-22": 597811,
-  "2022-10-23": 598091,
-  "2022-10-24": 598357,
-  "2022-10-25": 598564,
-  "2022-10-26": 598783,
-  "2022-10-27": 599063,
-  "2022-10-28": 599311,
-  "2022-10-29": 599638,
-  "2022-10-30": 599993,
-  "2022-10-31": 600291,
-  "2022-11-01": 600514,
-  "2022-11-02": 600768,
-  "2022-11-03": 600996,
-  "2022-11-04": 601251,
-  "2022-11-05": 601523,
-  "2022-11-06": 601867,
-  "2022-11-07": 602181,
-  "2022-11-08": 602452,
-  "2022-11-09": 602777,
-  "2022-11-10": 603018,
-  "2022-11-11": 603316,
-  "2022-11-12": 603697,
-  "2022-11-13": 603995,
-  "2022-11-14": 604303,
-  "2022-11-15": 604555,
-  "2022-11-16": 604806,
-  "2022-11-17": 604998,
-  "2022-11-18": 605070,
-  "2022-11-19": 604973,
-  "2022-11-20": 605405,
-  "2022-11-21": 605295,
-  "2022-11-22": 606071,
-  "2022-11-23": 605995,
-  "2022-11-24": 606868,
-  "2022-11-25": 607333,
-  "2022-11-26": 607705,
-  "2022-11-27": 608042,
-  "2022-11-28": 608381,
-  "2022-11-29": 608668,
-  "2022-11-30": 608969,
-  "2022-12-01": 609377,
-  "2022-12-02": 609553,
-  "2022-12-03": 609970,
-  "2022-12-04": 610372,
-  "2022-12-05": 610745,
-  "2022-12-06": 611084,
-  "2022-12-07": 611445,
-  "2022-12-08": 611772,
-  "2022-12-09": 612118,
-  "2022-12-10": 612500,
-  "2022-12-11": 612919,
-  "2022-12-12": 613290,
-  "2022-12-13": 613612,
-  "2022-12-14": 613964,
-  "2022-12-15": 614294,
-  "2022-12-16": 614666,
-  "2022-12-17": 615001,
-  "2022-12-18": 615413,
-  "2022-12-19": 615769,
-  "2022-12-20": 616476,
-  "2022-12-21": 616476,
-  "2022-12-22": 616908,
-  "2022-12-24": 617709,
-  "2022-12-25": 618174,
-  "2022-12-26": 618551,
-  "2022-12-27": 618901,
-  "2022-12-28": 619314,
-  "2022-12-29": 619634,
-  "2022-12-30": 620040,
-  "2022-12-31": 620436,
-  "2023-01-01": 620845,
-  "2023-01-02": 621190,
-  "2023-01-03": 621584,
-  "2023-01-04": 621913,
-  "2023-01-05": 622310,
-  "2023-01-06": 622797,
-  "2023-01-07": 623541,
-  "2023-01-08": 623710,
-  "2023-01-09": 624132,
-  "2023-01-10": 624461,
-  "2023-01-11": 624819,
-  "2023-01-12": 625253,
-  "2023-01-13": 625713,
-  "2023-01-14": 626482,
-  "2023-01-15": 626657,
-  "2023-01-16": 627065,
-  "2023-01-17": 627482,
-  "2023-01-18": 627891,
-  "2023-01-19": 628315,
-  "2023-01-20": 628710,
-  "2023-01-21": 629193,
-  "2023-01-22": 629716,
-  "2023-01-23": 630249,
-  "2023-01-24": 630626,
-  "2023-01-25": 631044,
-  "2023-01-26": 631394,
-  "2023-01-27": 631779,
-  "2023-01-28": 632158,
-  "2023-01-29": 632608,
-  "2023-01-30": 633027,
-  "2023-01-31": 633027,
-  "2023-02-01": 633744,
-  "2023-02-02": 634099,
-  "2023-02-03": 634433,
-  "2023-02-04": 634831,
-  "2023-02-05": 635216,
-  "2023-02-06": 635608,
-  "2023-02-07": 635931,
-  "2023-02-08": 636590,
-  "2023-02-09": 636590,
-  "2023-02-10": 636943,
-  "2023-02-11": 637312,
-  "2023-02-12": 638103,
-  "2023-02-13": 638397,
-  "2023-02-14": 638397,
-  "2023-02-15": 638739,
-  "2023-02-16": 639134,
-  "2023-02-17": 639506,
-  "2023-02-18": 640347,
-  "2023-02-19": 640413,
-  "2023-02-20": 640779,
-  "2023-02-21": 641105,
-  "2023-02-22": 641434,
-  "2023-02-23": 641746,
-  "2023-02-24": 642151,
-  "2023-02-25": 642819,
-  "2023-02-26": 643221,
-  "2023-02-27": 644144,
-  "2023-02-28": 644144,
-  "2023-03-01": 644513,
-  "2023-03-02": 644903,
-  "2023-03-03": 645314,
-  "2023-03-04": 645730,
-  "2023-03-05": 646728,
-  "2023-03-06": 646728,
-  "2023-03-07": 647142,
-  "2023-03-08": 647527,
-  "2023-03-09": 647883,
-  "2023-03-10": 648240,
-  "2023-03-11": 648647,
-  "2023-03-12": 649100,
-  "2023-03-13": 649538,
-  "2023-03-14": 649911,
-  "2023-03-15": 650241,
-  "2023-03-16": 650599,
-  "2023-03-17": 650599,
-  "2023-03-18": 651260,
-  "2023-03-19": 651628,
-  "2023-03-20": 651935,
-  "2023-03-21": 652215,
-  "2023-03-22": 652503,
-  "2023-03-23": 652800,
-  "2023-03-24": 652800,
-  "2023-03-25": 653482,
-  "2023-03-26": 653952,
-  "2023-03-27": 654358,
-  "2023-03-28": 654824,
-  "2023-03-29": 655321,
-  "2023-03-30": 656143,
-  "2023-03-31": 656143,
-  "2023-04-01": 656705,
-  "2023-04-02": 657242,
-  "2023-04-03": 657745,
-  "2023-04-04": 658098,
-  "2023-04-05": 658481,
-  "2023-04-06": 658822,
-  "2023-04-07": 659227,
-  "2023-04-09": 660115,
-  "2023-04-10": 660514,
-  "2023-04-11": 661250,
-  "2023-04-12": 661250,
-  "2023-04-13": 661609,
-  "2023-04-14": 662011,
-  "2023-04-15": 662367,
-  "2023-04-16": 662778,
-  "2023-04-17": 663189,
-  "2023-04-18": 663547,
-  "2023-04-19": 663975,
-  "2023-04-20": 664346,
-  "2023-04-21": 664713,
-  "2023-04-22": 665117,
-  "2023-04-23": 665566,
-  "2023-04-24": 665966,
-  "2023-04-25": 666271,
-  "2023-04-26": 666688,
-  "2023-04-27": 667011,
-  "2023-04-28": 667314,
-  "2023-04-29": 667658,
-  "2023-04-30": 668042,
-  "2023-05-01": 668438,
-  "2023-05-02": 668741,
-  "2023-05-03": 669065,
-  "2023-05-04": 669377,
-  "2023-05-05": 669746,
-  "2023-05-06": 670153,
-  "2023-05-07": 670585,
-  "2023-05-08": 670975,
-  "2023-05-09": 671301,
-  "2023-05-10": 671626,
-  "2023-05-11": 671983,
-  "2023-05-12": 672311,
-  "2023-05-13": 672722,
-  "2023-05-14": 673147,
-  "2023-05-15": 673582,
-  "2023-05-16": 673938,
-  "2023-05-17": 674236,
-  "2023-05-18": 674608,
-  "2023-05-19": 675087,
-  "2023-05-20": 675973,
-  "2023-05-21": 675973,
-  "2023-05-22": 675973,
-  "2023-05-23": 676702,
-  "2023-05-24": 677278,
-  "2023-05-25": 677382,
-  "2023-05-26": 677767,
-  "2023-05-27": 678152,
-  "2023-05-28": 678574,
-  "2023-05-29": 678574,
-  "2023-05-30": 679323,
-  "2023-05-31": 679657,
-  "2023-06-01": 679970,
-  "2023-06-02": 680273,
-  "2023-06-03": 680628,
-  "2023-06-04": 681049,
-  "2023-06-05": 681437,
-  "2023-06-06": 681804,
-  "2023-06-07": 682145,
-  "2023-06-08": 682474,
-  "2023-06-09": 682846,
-  "2023-06-10": 683229,
-  "2023-06-11": 683634,
-  "2023-06-12": 684035,
-  "2023-06-13": 684375,
-  "2023-06-14": 684703,
-  "2023-06-15": 685043,
-  "2023-06-16": 685377,
-  "2023-06-17": 685772,
-  "2023-06-18": 686182,
-  "2023-06-19": 686593,
-  "2023-06-20": 686891,
-  "2023-06-21": 687176,
-  "2023-06-22": 687520,
-  "2023-06-23": 687825,
-  "2023-06-24": 688213,
-  "2023-06-25": 688619,
-  "2023-06-26": 689004,
-  "2023-06-27": 689322,
-  "2023-06-28": 689668,
-  "2023-06-29": 689967,
-  "2023-06-30": 690321,
-  "2023-07-01": 691112,
-  "2023-07-02": 691112,
-  "2023-07-03": 691445,
-  "2023-07-04": 691791,
-  "2023-07-05": 692142,
-  "2023-07-06": 692850,
-  "2023-07-07": 692850,
-  "2023-07-08": 693244,
-  "2023-07-09": 693642,
-  "2023-07-10": 693987,
-  "2023-07-11": 694340,
-  "2023-07-12": 694704,
-  "2023-07-13": 695010,
-  "2023-07-14": 695362,
-  "2023-07-15": 695663,
-  "2023-07-16": 696138,
-  "2023-07-17": 696522,
-  "2023-07-18": 696859,
-  "2023-07-19": 697208,
-  "2023-07-20": 697572,
-  "2023-07-21": 697936,
-  "2023-07-22": 698309,
-  "2023-07-23": 698730,
-  "2023-07-24": 699120,
-  "2023-07-25": 699418,
-  "2023-07-26": 699751,
-  "2023-07-27": 700129,
-  "2023-07-28": 700487,
-  "2023-07-29": 700900,
-  "2023-07-30": 701305,
-  "2023-07-31": 701706,
-  "2023-08-01": 702034,
-  "2023-08-02": 702443,
-  "2023-08-03": 702790,
-  "2023-08-04": 703182,
-  "2023-08-05": 703578,
-  "2023-08-06": 704437,
-  "2023-08-07": 704437,
-  "2023-08-08": 704801,
-  "2023-08-09": 705145,
-  "2023-08-10": 705589,
-  "2023-08-11": 706044,
-  "2023-08-12": 706471,
-  "2023-08-13": 706944,
-  "2023-08-14": 707408,
-  "2023-08-15": 708212,
-  "2023-08-16": 708212,
-  "2023-08-17": 708527,
-  "2023-08-18": 708861,
-  "2023-08-19": 709237,
-  "2023-08-20": 709653,
-  "2023-08-21": 710089,
-  "2023-08-22": 710409,
-  "2023-08-23": 710784,
-  "2023-08-24": 711108,
-  "2023-08-25": 711482,
-  "2023-08-26": 711898,
-  "2023-08-27": 712301,
-  "2023-08-28": 713053,
-  "2023-08-29": 713373,
-  "2023-08-30": 713713,
-  "2023-08-31": 714066,
-  "2023-09-01": 714569,
-  "2023-09-02": 714569,
-  "2023-09-03": 714776,
-  "2023-09-04": 715064,
-  "2023-09-05": 715293,
-  "2023-09-06": 715524,
-  "2023-09-07": 715776,
-  "2023-09-08": 716012,
-  "2023-09-09": 716261,
-  "2023-09-10": 716514,
-  "2023-09-11": 716742,
-  "2023-09-12": 716914,
-  "2023-09-13": 717191,
-  "2023-09-14": 717401,
-  "2023-09-15": 717658,
-  "2023-09-16": 717883,
-  "2023-09-17": 718133,
-  "2023-09-18": 718337,
-  "2023-09-19": 718517,
-  "2023-09-20": 718709,
-  "2023-09-21": 718918,
-  "2023-09-22": 719109,
-  "2023-09-23": 719377,
-  "2023-09-24": 719638,
-  "2023-09-25": 719864,
-  "2023-09-26": 720071,
-  "2023-09-27": 720244,
-  "2023-09-28": 720467,
-  "2023-09-29": 720673,
-  "2023-09-30": 720915,
-  "2023-10-01": 721200,
-  "2023-10-02": 721459,
-  "2023-10-03": 721670,
-  "2023-10-04": 721909,
-  "2023-10-05": 722131,
-  "2023-10-06": 722353,
-  "2023-10-07": 722599,
-  "2023-10-08": 722880,
-  "2023-10-09": 723089,
-  "2023-10-10": 722920,
-  "2023-10-11": 722953,
-  "2023-10-12": 722953,
-  "2023-10-13": 722832,
-  "2023-10-14": 722767,
-  "2023-10-15": 722962,
-  "2023-10-16": 723194,
-  "2023-10-17": 723370,
-  "2023-10-18": 723514,
-  "2023-10-19": 723656,
-  "2023-10-20": 723817,
-  "2023-10-21": 724020,
-  "2023-10-22": 724234,
-  "2023-10-23": 724448,
-  "2023-10-24": 724615,
-  "2023-10-25": 724788,
-  "2023-10-26": 724987,
-  "2023-10-27": 725182,
-  "2023-10-28": 725392,
-  "2023-10-29": 725593,
-  "2023-10-30": 725990,
-  "2023-10-31": 725990,
-  "2023-11-01": 726195,
-  "2023-11-02": 726372,
-  "2023-11-03": 726558,
-  "2023-11-04": 726739,
-  "2023-11-05": 726938,
-  "2023-11-06": 727124,
-  "2023-11-07": 727318,
-  "2023-11-08": 727491,
-  "2023-11-09": 727684,
-  "2023-11-10": 727824,
-  "2023-11-11": 728040,
-  "2023-11-12": 728217,
-  "2023-11-13": 728407,
-  "2023-11-14": 728563,
-  "2023-11-15": 728563,
-  "2023-11-16": 728861,
-  "2023-11-17": 729187,
-  "2023-11-18": 729187,
-  "2023-11-19": 729396,
-  "2023-11-20": 729575,
-  "2023-11-21": 729729,
-  "2023-11-22": 729891,
-  "2023-11-23": 730052,
-  "2023-11-24": 730234,
-  "2023-11-25": 730427,
-  "2023-11-26": 730658,
-  "2023-11-27": 730838,
-  "2023-11-28": 730992,
-  "2023-11-29": 731256,
-  "2023-11-30": 731256,
-  "2023-12-01": 731402,
-  "2023-12-02": 731572,
-  "2023-12-03": 731754,
-  "2023-12-04": 731909,
-  "2023-12-05": 732045,
-  "2023-12-06": 732171,
-  "2023-12-07": 732350,
-  "2023-12-08": 732540,
-  "2023-12-09": 732745,
-  "2023-12-10": 732983,
-  "2023-12-11": 733234,
-  "2023-12-12": 733440,
-  "2023-12-13": 733626,
-  "2023-12-14": 733840,
-  "2023-12-15": 733991,
-  "2023-12-16": 734198,
-  "2023-12-17": 734455,
-  "2023-12-18": 734710,
-  "2023-12-19": 734905,
-  "2023-12-20": 735116,
-  "2023-12-21": 735342,
-  "2023-12-22": 735514,
-  "2023-12-23": 735755,
-  "2023-12-24": 735991,
-  "2023-12-25": 736227,
-  "2023-12-26": 736418,
-  "2023-12-27": 736645,
-  "2023-12-30": 737292,
-  "2023-12-31": 737585,
-  "2024-01-01": 737852,
-  "2024-01-02": 738059,
-  "2024-01-03": 738287
+  "2024-01-17": 740123,
+  "date_first_scraped": "2021-12-21",
+  "description": "Tarantino not only produces great movies, he produces great soundtracks.",
+  "name": "Best Tracks from Tarantino Films",
+  "tracks": [
+    {
+      "album": {
+        "name": "Quentin Tarantino's The Hateful Eight (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6K9qoK0Zuzog57Eg7EAtIR"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Jason Leigh",
+          "url": "https://open.spotify.com/artist/4PK3EB6NYijPMF9aAb8MKw"
+        },
+        {
+          "name": "Kurt Russell",
+          "url": "https://open.spotify.com/artist/3inse6IgsRovvG6oTiTYEc"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "url": "https://open.spotify.com/artist/7gusMvSJRCggGZPV5SDN9K"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32974,
+      "name": "\"Major Warren Meet Daisy Domergue\" - From \"The Hateful Eight\" Soundtrack",
+      "url": "https://open.spotify.com/track/1bpdYRadFTesAkM8gpMAJy"
+    },
+    {
+      "album": {
+        "name": "Quentin Tarantino's The Hateful Eight (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6YBCE5NFQQTVuZVhBCMnSe"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Jason Leigh",
+          "url": "https://open.spotify.com/artist/4PK3EB6NYijPMF9aAb8MKw"
+        },
+        {
+          "name": "Kurt Russell",
+          "url": "https://open.spotify.com/artist/3inse6IgsRovvG6oTiTYEc"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "url": "https://open.spotify.com/artist/7gusMvSJRCggGZPV5SDN9K"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 32974,
+      "name": "\"Major Warren Meet Daisy Domergue\" - From \"The Hateful Eight\" Soundtrack",
+      "url": "https://open.spotify.com/track/2SMua8XXjczTPUltl8Ofd9"
+    },
+    {
+      "album": {
+        "name": "Ridin' High",
+        "url": "https://open.spotify.com/album/3kCVkiAlYhOOUIom8GgGPy"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155506,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/6V9zt5xJ65Q2rugWX77iFb"
+    },
+    {
+      "album": {
+        "name": "Kill Bill Vol. 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm McLaren",
+          "url": "https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289986,
+      "name": "About Her",
+      "url": "https://open.spotify.com/track/0WN1ICX0u0NenOccX8gRp3"
+    },
+    {
+      "album": {
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-10",
+      "duration_ms": 228640,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/2Q5rvrn3qR5HpLlvz3fcOy"
+    },
+    {
+      "album": {
+        "name": "Midnight Mover: The Bobby Womack Story",
+        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230506,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
+    },
+    {
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133293,
+      "name": "Apple Blossom",
+      "url": "https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y"
+    },
+    {
+      "album": {
+        "name": "The White Stripes Greatest Hits",
+        "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 133293,
+      "name": "Apple Blossom",
+      "url": "https://open.spotify.com/track/74vRKLJEhtPLqw2BgAWPVY"
+    },
+    {
+      "album": {
+        "name": "Quentin Tarantino's The Hateful Eight (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6YBCE5NFQQTVuZVhBCMnSe"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133146,
+      "name": "Apple Blossom - From \"The Hateful Eight\" Soundtrack",
+      "url": "https://open.spotify.com/track/3gV2WMB3jR3Ff3ZgBOFx2J"
+    },
+    {
+      "album": {
+        "name": "The Best of David Bowie 1980 / 1987",
+        "url": "https://open.spotify.com/album/2FUCvmW24RbDwxyFaXm7Lt"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252466,
+      "name": "Cat People (Putting out Fire) - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0JclT9mkYAgOlXFu4loVH4"
+    },
+    {
+      "album": {
+        "name": "Quentin Tarantino's Inglourious Basterds (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4bjjJu3euJ6tVIeobbhwRO"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250840,
+      "name": "Cat People (Putting Out The Fire)",
+      "url": "https://open.spotify.com/track/6HXvGhmrsMEZ9AxD1Vjejz"
+    },
+    {
+      "album": {
+        "name": "The Blasters Collection",
+        "url": "https://open.spotify.com/album/5bFPCsAzT5pb4BiQIUleh1"
+      },
+      "artists": [
+        {
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 229040,
+      "name": "Dark Night",
+      "url": "https://open.spotify.com/track/3mY7dBi0uXzOrdS0qAUa5G"
+    },
+    {
+      "album": {
+        "name": "Hard Line",
+        "url": "https://open.spotify.com/album/3ynF02qfqdNaPYUfX8SWjH"
+      },
+      "artists": [
+        {
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 231466,
+      "name": "Dark Night",
+      "url": "https://open.spotify.com/track/3dKGK0ALdWHldGJEXpwt3K"
+    },
+    {
+      "album": {
+        "name": "Mandatory: The Best Of The Blasters",
+        "url": "https://open.spotify.com/album/3rAp2eKl3WVl7Nf3iXzYw8"
+      },
+      "artists": [
+        {
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Dark Night",
+      "url": "https://open.spotify.com/track/0WsetCp0v2260o3EHK50NX"
+    },
+    {
+      "album": {
+        "name": "The Delfonics",
+        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
+    },
+    {
+      "album": {
+        "name": "Love Train: The Sound of Philadelphia",
+        "url": "https://open.spotify.com/album/663hqwrhVT6rQafXM7MiMI"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201320,
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "url": "https://open.spotify.com/track/74U027gGHMCqdpFmYArxt1"
+    },
+    {
+      "album": {
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200933,
+      "name": "Didn't I Blow Your Mind This Time",
+      "url": "https://open.spotify.com/track/75D5cH21X8jAVdRKuUR70B"
+    },
+    {
+      "album": {
+        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
+      },
+      "artists": [
+        {
+          "name": "Santa Esmeralda",
+          "url": "https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628546,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
+    },
+    {
+      "album": {
+        "name": "Tarantino Fiction",
+        "url": "https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ"
+      },
+      "artists": [
+        {
+          "name": "Ann O'Day",
+          "url": "https://open.spotify.com/artist/1WXPtDK8q0vU5pL7ozqMhC"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0p8lGTQcHQx6XgsVLrkQdx"
+    },
+    {
+      "album": {
+        "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
+        "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
+      },
+      "artists": [
+        {
+          "name": "The Statler Brothers",
+          "url": "https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138800,
+      "name": "Flowers On the Wall",
+      "url": "https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6YnLyE9IkwBdoOWfkbjR4l"
+      },
+      "artists": [
+        {
+          "name": "The Mavericks",
+          "url": "https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 212573,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/1Yn80NKfGf8ajiwO4iMKQD"
+    },
+    {
+      "album": {
+        "name": "Music For All Occasions",
+        "url": "https://open.spotify.com/album/4gEFOyes5HJJMIzTHlGG76"
+      },
+      "artists": [
+        {
+          "name": "The Mavericks",
+          "url": "https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/0o0QiBgJqMJjaZLSR4aJFj"
+    },
+    {
+      "album": {
+        "name": "Music For All Occasions",
+        "url": "https://open.spotify.com/album/0OydCcpRFD3KOjswJhg9CQ"
+      },
+      "artists": [
+        {
+          "name": "The Mavericks",
+          "url": "https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217293,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/46gsGxk2iUctmgJUmQRTKz"
+    },
+    {
+      "album": {
+        "name": "The Kpm 1000 Series - Volume 1",
+        "url": "https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H"
+      },
+      "artists": [
+        {
+          "name": "Keith Mansfield",
+          "url": "https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148906,
+      "name": "Funky Fanfare",
+      "url": "https://open.spotify.com/track/3Vr406z58yyyO2Ofh1fbqA"
+    },
+    {
+      "album": {
+        "name": "Hits from Dance Movie",
+        "url": "https://open.spotify.com/album/2A10yR3eSX3yF68n8Uq2S9"
+      },
+      "artists": [
+        {
+          "name": "The Soundtrack Singers",
+          "url": "https://open.spotify.com/artist/5u1QsdLCSsWJjQsEtxlEU9"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "Girl You'll Be a Woman Soon (From \"Pulp Fiction\")",
+      "url": "https://open.spotify.com/track/0QWGQc1NVsgjm6T25Bcxxw"
+    },
+    {
+      "album": {
+        "name": "Movie Greats",
+        "url": "https://open.spotify.com/album/3QWM4C6zDHVLhOugWcSDFt"
+      },
+      "artists": [
+        {
+          "name": "The Film Score Orchestra",
+          "url": "https://open.spotify.com/artist/3YIY3cUEzRX8UADubGXYSK"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189240,
+      "name": "Girl You'll Be A Woman Soon (Pulp Fiction)",
+      "url": "https://open.spotify.com/track/0KpYiyexP4QpETO4Kn5Ewk"
+    },
+    {
+      "album": {
+        "name": "Kill Bill Vol. 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs"
+      },
+      "artists": [
+        {
+          "name": "Shivaree",
+          "url": "https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243777,
+      "name": "Goodnight Moon",
+      "url": "https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/25CUJO08rkvZV9rIIP4L4B"
+      },
+      "artists": [
+        {
+          "name": "Joe Tex",
+          "url": "https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132813,
+      "name": "I Gotcha",
+      "url": "https://open.spotify.com/track/15en5xAk3uORkyA01e6pIO"
+    },
+    {
+      "album": {
+        "name": "Simply Soul",
+        "url": "https://open.spotify.com/album/6RMGM5aukVj2UO2h6J8UoJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Tex",
+          "url": "https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133999,
+      "name": "I Gotcha",
+      "url": "https://open.spotify.com/track/40L8MWZPJ1imFgv5S3atRY"
+    },
+    {
+      "album": {
+        "name": "Tarantino Fiction",
+        "url": "https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ"
+      },
+      "artists": [
+        {
+          "name": "Kim Circle",
+          "url": "https://open.spotify.com/artist/5MtxtrfQgi9vKBMtE1oWCr"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/6zHTQ3QaQSsQSLEtZzh377"
+    },
+    {
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2"
+      },
+      "artists": [
+        {
+          "name": "Nymphomania",
+          "url": "https://open.spotify.com/artist/2gA8mpcqoWuwlXBmtBrxH1"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258093,
+      "name": "I Want Your Body",
+      "url": "https://open.spotify.com/track/1kLVrczTB5U6ljljVBJuBw"
+    },
+    {
+      "album": {
+        "name": "True Romance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG"
+      },
+      "artists": [
+        {
+          "name": "Nymphomania",
+          "url": "https://open.spotify.com/artist/2gA8mpcqoWuwlXBmtBrxH1"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258093,
+      "name": "I Want Your Body",
+      "url": "https://open.spotify.com/track/5keVHhRytkZTQ6tukYtXS9"
+    },
+    {
+      "album": {
+        "name": "Disco Funky Para Bailar",
+        "url": "https://open.spotify.com/album/46GEPH5eSaiGrhefPmPMdh"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 185600,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/56BO74M51Sazf3N266nqXF"
+    },
+    {
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
+    },
+    {
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3826fPFgIEBt3yXineniDV"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186533,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/4qxCDr5DquZsfaK7lvnY9G"
+    },
+    {
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199400,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
+    },
+    {
+      "album": {
+        "name": "The Ladies Man",
+        "url": "https://open.spotify.com/album/3Udzmy8WwbALei6UvwUsUO"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195933,
+      "name": "Let's Stay Together - Single Version",
+      "url": "https://open.spotify.com/track/2jNoQiOpN8QLD38eWqjwcj"
+    },
+    {
+      "album": {
+        "name": "The Heritage / Colossus Story",
+        "url": "https://open.spotify.com/album/1tGqutWu2yieaVEqR3AwUj"
+      },
+      "artists": [
+        {
+          "name": "George Baker Selection",
+          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Little Green Bag",
+      "url": "https://open.spotify.com/track/2RWMaxTOvjadKecWquqq09"
+    },
+    {
+      "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+        },
+        {
+          "name": "Edda Dell'Orso",
+          "url": "https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117960,
+      "name": "Lo Chiamavano King (His Name Is King)",
+      "url": "https://open.spotify.com/track/342v3Is0g1CfidoxekA4f8"
+    },
+    {
+      "album": {
+        "name": "The Legendary Masters Series (Volume 1)",
+        "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135840,
+      "name": "Lonesome Town - 1990 Digital Remaster",
+      "url": "https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof"
+    },
+    {
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157093,
+      "name": "Love Is The Tender Trap",
+      "url": "https://open.spotify.com/track/1mNodP87JBEkGg7cvhkcG7"
+    },
+    {
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152600,
+      "name": "Mary Had A Little Lamb",
+      "url": "https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ"
+    },
+    {
+      "album": {
+        "name": "Surfer's Choice",
+        "url": "https://open.spotify.com/album/4VhkkcKpV1ObX5OXrBNY7f"
+      },
+      "artists": [
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 135426,
+      "name": "Miserlou",
+      "url": "https://open.spotify.com/track/1MLUxFwS1d4eY0JWIEkn4X"
+    },
+    {
+      "album": {
+        "name": "Singles Collection '61-'65",
+        "url": "https://open.spotify.com/album/1vZlk4vdFQz6MenShWBqE5"
+      },
+      "artists": [
+        {
+          "name": "Dick Dale & His Del-Tones",
+          "url": "https://open.spotify.com/artist/7J77vP6EbI63lB3snZeRj4"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137333,
+      "name": "Miserlou",
+      "url": "https://open.spotify.com/track/2k7Xhc1NtwLmnoN1gCxwwZ"
+    },
+    {
+      "album": {
+        "name": "Wanna Surf?",
+        "url": "https://open.spotify.com/album/7bGmjO5Cthm1SNOwUhLwKE"
+      },
+      "artists": [
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135973,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/3OnCnEWgy79xR5pr2kv4TX"
+    },
+    {
+      "album": {
+        "name": "Quentin Tarantino's The Hateful Eight (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6K9qoK0Zuzog57Eg7EAtIR"
+      },
+      "artists": [
+        {
+          "name": "David Hess",
+          "url": "https://open.spotify.com/artist/4Jo7opiSc9fINVje0qcl4w"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89551,
+      "name": "Now You're All Alone - From \"The Hateful Eight\" Soundtrack",
+      "url": "https://open.spotify.com/track/2GVCSfDQIDhe9FCCxpRMAI"
+    },
+    {
+      "album": {
+        "name": "Quentin Tarantino's The Hateful Eight (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6YBCE5NFQQTVuZVhBCMnSe"
+      },
+      "artists": [
+        {
+          "name": "David Hess",
+          "url": "https://open.spotify.com/artist/4Jo7opiSc9fINVje0qcl4w"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 89551,
+      "name": "Now You're All Alone - From \"The Hateful Eight\" Soundtrack",
+      "url": "https://open.spotify.com/track/3SvXeAE6Io29kxfyHjK3H2"
+    },
+    {
+      "album": {
+        "name": "Out Of Limits!",
+        "url": "https://open.spotify.com/album/36SLEYpVr7zHe3oDCC6hcI"
+      },
+      "artists": [
+        {
+          "name": "The Marketts",
+          "url": "https://open.spotify.com/artist/2W9dD4SfW7p19JtzRgWGjz"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129293,
+      "name": "Out of Limits",
+      "url": "https://open.spotify.com/track/7xAJpAeopaV6rilu3iiwME"
+    },
+    {
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 312240,
+      "name": "Outshined",
+      "url": "https://open.spotify.com/track/6T6JONiYEqVOxInB2uZDA0"
+    },
+    {
+      "album": {
+        "name": "Badmotorfinger",
+        "url": "https://open.spotify.com/album/5o2p8FZAyEOSH7arjJLCJp"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 311000,
+      "name": "Outshined - Remastered",
+      "url": "https://open.spotify.com/track/2BJYoJPcVf0Pn4QMaLCfzj"
+    },
+    {
+      "album": {
+        "name": "Badmotorfinger (25th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Outshined - Remastered",
+      "url": "https://open.spotify.com/track/4VwPsMcRt1HPVKIdcwY9Uj"
+    },
+    {
+      "album": {
+        "name": "Rockabilly Insanity",
+        "url": "https://open.spotify.com/album/5cZvrLii3UfiNn7UYgVJtL"
+      },
+      "artists": [
+        {
+          "name": "Link Wray",
+          "url": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144653,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/0pxThPQcINQ8bBGFGYMwAD"
+    },
+    {
+      "album": {
+        "name": "Rumble / The Swag",
+        "url": "https://open.spotify.com/album/72BkQUvWYk5ykUeKqplwFE"
+      },
+      "artists": [
+        {
+          "name": "Link Wray & The Wraymen",
+          "url": "https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147693,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/3BdoWtWx0tuYgJziTESrjP"
+    },
+    {
+      "album": {
+        "name": "Rumble / The Swag",
+        "url": "https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB"
+      },
+      "artists": [
+        {
+          "name": "Link Wray & The Wraymen",
+          "url": "https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-20",
+      "duration_ms": 147693,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi"
+    },
+    {
+      "album": {
+        "name": "Kill Bill Vol. 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169160,
+      "name": "Satisfied Mind",
+      "url": "https://open.spotify.com/track/4H8wbuOyL7gBXfzN2f8kQ6"
+    },
+    {
+      "album": {
+        "name": "Rhythmeen",
+        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296933,
+      "name": "She's Just Killing Me",
+      "url": "https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q"
+    },
+    {
+      "album": {
+        "name": "Rock & Roll - The Best of The Robins",
+        "url": "https://open.spotify.com/album/2M6r8R8SZfy9D5io8aZYcs"
+      },
+      "artists": [
+        {
+          "name": "The Robins",
+          "url": "https://open.spotify.com/artist/0mxCHSMJZHtDuNRFdPiNRX"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140773,
+      "name": "Since I First Met You",
+      "url": "https://open.spotify.com/track/0vGyXveSjPnALkLiqfZDOg"
+    },
+    {
+      "album": {
+        "name": "The Silver Collection",
+        "url": "https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146626,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n"
+    },
+    {
+      "album": {
+        "name": "Lady Got Soul",
+        "url": "https://open.spotify.com/album/5fm4og0UIhIPAVm449ija4"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 148053,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/0whPSq9udyJmWb9VMHFnQq"
+    },
+    {
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "album": {
+        "name": "Tarantino Fiction",
+        "url": "https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ"
+      },
+      "artists": [
+        {
+          "name": "Peggy Simms",
+          "url": "https://open.spotify.com/artist/4VsWp6A8ee9dwWZmNpeJXh"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/3iudOmlAzKCHpsTP3DDgvf"
+    },
+    {
+      "album": {
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298160,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/1DmdXg5mmFOvlRvHYPjRU8"
+    },
+    {
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299066,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
+    },
+    {
+      "album": {
+        "name": "Hunk-a-Funk",
+        "url": "https://open.spotify.com/album/35KR5e5EhWbVWgUq0cJ86q"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 299773,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/3rXEmMIaZdJaJ7YiwVGk6s"
+    },
+    {
+      "album": {
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256613,
+      "name": "Street Life",
+      "url": "https://open.spotify.com/track/4CWUGKyUi4aJOq7tF6HAIF"
+    },
+    {
+      "album": {
+        "name": "Music For Seventies",
+        "url": "https://open.spotify.com/album/3L6yuuvIFVNQEOQ0F3rwn8"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203000,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/6pNVhq4m3S9iNRxpwmVQZm"
+    },
+    {
+      "album": {
+        "name": "70s Mixtape",
+        "url": "https://open.spotify.com/album/6QIXWqve4t2J6U95vAT2vP"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 203951,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/7CQ5iWky006sbSu9aprvAb"
+    },
+    {
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+    },
+    {
+      "album": {
+        "name": "Surf Rider",
+        "url": "https://open.spotify.com/album/0Sr5iRFquCQ5wFpKplZWSO"
+      },
+      "artists": [
+        {
+          "name": "The Lively Ones",
+          "url": "https://open.spotify.com/artist/63T2P0nIRzAj4rCSwnSC8J"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "Surf Rider",
+      "url": "https://open.spotify.com/track/7sOBuRK26Ov7CR5fRSR7Om"
+    },
+    {
+      "album": {
+        "name": "American Recordings",
+        "url": "https://open.spotify.com/album/19rYWxZfMdEOxTDODFjLyb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "Tennessee Stud",
+      "url": "https://open.spotify.com/track/5mRBBpUjXN3jHFT5GYNrrk"
+    },
+    {
+      "album": {
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174026,
+      "name": "Tennessee Stud - Live",
+      "url": "https://open.spotify.com/track/5sGPEJx6q4A2CIkvpfKEuQ"
+    },
+    {
+      "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "Brother Dege",
+          "url": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Too Old To Die Young",
+      "url": "https://open.spotify.com/track/43JngJ3vMsaTL8SiRwEYQp"
+    },
+    {
+      "album": {
+        "name": "The Best Of Roy Head",
+        "url": "https://open.spotify.com/album/1pY5yYIU9DNm9GTFhCyMTt"
+      },
+      "artists": [
+        {
+          "name": "Roy Head And The Traits",
+          "url": "https://open.spotify.com/artist/30rTY7YT6tAoAUoGJXQBqQ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "Treat Her Right",
+      "url": "https://open.spotify.com/track/2dq2J24oIF67Uvttut4dv7"
+    },
+    {
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213266,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/3qFSNhAr1AnMjFXZZ4pwgq"
+    },
+    {
+      "album": {
+        "name": "True Romance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213800,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/6KkQXByxduGSpHWiBn6Lvt"
+    },
+    {
+      "album": {
+        "name": "San Francisco Days",
+        "url": "https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/4s33OWdJwxpD4Va3XgAS1K"
+    },
+    {
+      "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171573,
+      "name": "Unchained (The Payback / Untouchable)",
+      "url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj"
+    },
+    {
+      "album": {
+        "name": "True Romance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG"
+      },
+      "artists": [
+        {
+          "name": "Howard Blake",
+          "url": "https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236493,
+      "name": "Viens Mallika Sous Le Dome Edais From Lakme",
+      "url": "https://open.spotify.com/track/1cXKvVWM24YaLlM5DzrPy4"
+    },
+    {
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/0PvKpJ49raopvXd6WyRlY2"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236506,
+      "name": "Viens Mallika Sous Le Dome Edais From Lakme",
+      "url": "https://open.spotify.com/track/3lfxz9aeX90sQWv06wvkZ8"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/43i7TB9pQalEi1y2tr4Ndw"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193733,
+      "name": "Who Is He (And What Is He to You)?",
+      "url": "https://open.spotify.com/track/7gsDss7xdUwMr9CTSUeqSD"
+    },
+    {
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194427,
+      "name": "Who Is He (And What Is He to You)?",
+      "url": "https://open.spotify.com/track/1KywyxekfDEp3Ym7YP7S25"
+    },
+    {
+      "album": {
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191866,
+      "name": "Who Is He - And What Is He To You?",
+      "url": "https://open.spotify.com/track/63G8lZIk7MFSi8lEQS2QJo"
+    },
+    {
+      "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "James Russo",
+          "url": "https://open.spotify.com/artist/2Gp78IIBNqoiSUlPGP67P4"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8573,
+      "name": "Winged",
+      "url": "https://open.spotify.com/track/5WRPV0uLJz0tVUqHb79f3X"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Chuck Berry",
+        "url": "https://open.spotify.com/album/4horrQ2IrDblCB4koIX6wa"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160866,
+      "name": "You Never Can Tell - 1964 Single Version / Mono",
+      "url": "https://open.spotify.com/track/2LcV5dZWN47XVCVZ1dFwfQ"
+    },
+    {
+      "album": {
+        "name": "The Best 60s Album In The World...Ever!",
+        "url": "https://open.spotify.com/album/42wnkjcgGg5CkmnGvwq3eZ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165226,
+      "name": "You Never Can Tell - 1986 Stereo Remix",
+      "url": "https://open.spotify.com/track/3cjCPhWvNDaecvcEOlZ0HP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3b9hbbPi5hD"
 }

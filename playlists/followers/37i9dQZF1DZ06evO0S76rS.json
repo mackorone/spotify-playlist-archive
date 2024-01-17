@@ -1,479 +1,1317 @@
 {
-  "2022-09-09": 97280,
-  "2022-09-10": 97349,
-  "2022-09-11": 97418,
-  "2022-09-12": 97481,
-  "2022-09-13": 97545,
-  "2022-09-15": 97653,
-  "2022-09-16": 97711,
-  "2022-09-17": 97781,
-  "2022-09-18": 97856,
-  "2022-09-19": 97922,
-  "2022-09-20": 97978,
-  "2022-09-21": 98023,
-  "2022-09-22": 98102,
-  "2022-09-23": 98156,
-  "2022-09-24": 98216,
-  "2022-09-25": 98292,
-  "2022-09-26": 98353,
-  "2022-09-27": 98411,
-  "2022-09-28": 98460,
-  "2022-09-29": 98526,
-  "2022-09-30": 98598,
-  "2022-10-01": 98689,
-  "2022-10-02": 98771,
-  "2022-10-03": 98847,
-  "2022-10-04": 98922,
-  "2022-10-05": 98990,
-  "2022-10-06": 99043,
-  "2022-10-07": 99115,
-  "2022-10-08": 99166,
-  "2022-10-09": 99280,
-  "2022-10-10": 99298,
-  "2022-10-11": 99356,
-  "2022-10-12": 99420,
-  "2022-10-13": 99490,
-  "2022-10-14": 99565,
-  "2022-10-15": 99648,
-  "2022-10-16": 99739,
-  "2022-10-17": 99809,
-  "2022-10-18": 99871,
-  "2022-10-19": 99928,
-  "2022-10-20": 99988,
-  "2022-10-21": 100047,
-  "2022-10-22": 100106,
-  "2022-10-23": 100189,
-  "2022-10-24": 100238,
-  "2022-10-25": 100291,
-  "2022-10-26": 100352,
-  "2022-10-27": 100418,
-  "2022-10-28": 100492,
-  "2022-10-29": 100556,
-  "2022-10-30": 100635,
-  "2022-10-31": 100701,
-  "2022-11-01": 100758,
-  "2022-11-02": 100807,
-  "2022-11-03": 100870,
-  "2022-11-04": 100940,
-  "2022-11-05": 101001,
-  "2022-11-06": 101093,
-  "2022-11-07": 101168,
-  "2022-11-08": 101222,
-  "2022-11-09": 101291,
-  "2022-11-10": 101348,
-  "2022-11-11": 101404,
-  "2022-11-12": 101498,
-  "2022-11-13": 101565,
-  "2022-11-14": 101648,
-  "2022-11-15": 101701,
-  "2022-11-16": 101757,
-  "2022-11-17": 101832,
-  "2022-11-18": 101836,
-  "2022-11-19": 101846,
-  "2022-11-20": 101900,
-  "2022-11-21": 101983,
-  "2022-11-22": 102054,
-  "2022-11-23": 102108,
-  "2022-11-24": 102176,
-  "2022-11-25": 102257,
-  "2022-11-26": 102313,
-  "2022-11-27": 102375,
-  "2022-11-28": 102437,
-  "2022-11-29": 102486,
-  "2022-11-30": 102549,
-  "2022-12-01": 102611,
-  "2022-12-02": 102642,
-  "2022-12-03": 102743,
-  "2022-12-04": 102825,
-  "2022-12-05": 102893,
-  "2022-12-06": 102940,
-  "2022-12-07": 103006,
-  "2022-12-08": 103058,
-  "2022-12-09": 103138,
-  "2022-12-10": 103207,
-  "2022-12-11": 103276,
-  "2022-12-12": 103380,
-  "2022-12-13": 103430,
-  "2022-12-14": 103486,
-  "2022-12-15": 103539,
-  "2022-12-16": 103617,
-  "2022-12-17": 103690,
-  "2022-12-18": 103770,
-  "2022-12-19": 103839,
-  "2022-12-20": 103974,
-  "2022-12-21": 103974,
-  "2022-12-22": 104027,
-  "2022-12-24": 104180,
-  "2022-12-25": 104298,
-  "2022-12-26": 104384,
-  "2022-12-27": 104455,
-  "2022-12-28": 104539,
-  "2022-12-29": 104625,
-  "2022-12-30": 104719,
-  "2022-12-31": 104861,
-  "2023-01-01": 104977,
-  "2023-01-02": 105066,
-  "2023-01-03": 105139,
-  "2023-01-04": 105203,
-  "2023-01-05": 105305,
-  "2023-01-06": 105404,
-  "2023-01-07": 105522,
-  "2023-01-08": 105553,
-  "2023-01-09": 105647,
-  "2023-01-10": 105720,
-  "2023-01-11": 105792,
-  "2023-01-12": 105849,
-  "2023-01-13": 105914,
-  "2023-01-14": 106043,
-  "2023-01-15": 106072,
-  "2023-01-16": 106136,
-  "2023-01-17": 106202,
-  "2023-01-18": 106261,
-  "2023-01-19": 106329,
-  "2023-01-20": 106396,
-  "2023-01-21": 106468,
-  "2023-01-22": 106581,
-  "2023-01-23": 106655,
-  "2023-01-24": 106724,
-  "2023-01-25": 106807,
-  "2023-01-26": 106906,
-  "2023-01-27": 106989,
-  "2023-01-28": 107073,
-  "2023-01-29": 107157,
-  "2023-01-30": 107232,
-  "2023-01-31": 107232,
-  "2023-02-01": 107344,
-  "2023-02-02": 107400,
-  "2023-02-03": 107485,
-  "2023-02-04": 107548,
-  "2023-02-05": 107622,
-  "2023-02-06": 107700,
-  "2023-02-07": 107755,
-  "2023-02-08": 107859,
-  "2023-02-09": 107859,
-  "2023-02-10": 107937,
-  "2023-02-11": 108010,
-  "2023-02-12": 108174,
-  "2023-02-13": 108238,
-  "2023-02-14": 108238,
-  "2023-02-15": 108291,
-  "2023-02-16": 108362,
-  "2023-02-17": 108426,
-  "2023-02-18": 108572,
-  "2023-02-19": 108590,
-  "2023-02-20": 108645,
-  "2023-02-21": 108704,
-  "2023-02-22": 108768,
-  "2023-02-23": 108845,
-  "2023-02-24": 108929,
-  "2023-02-25": 109041,
-  "2023-02-26": 109126,
-  "2023-02-27": 109279,
-  "2023-02-28": 109279,
-  "2023-03-01": 109365,
-  "2023-03-02": 109430,
-  "2023-03-03": 109517,
-  "2023-03-04": 109597,
-  "2023-03-05": 109782,
-  "2023-03-06": 109782,
-  "2023-03-07": 109857,
-  "2023-03-08": 109912,
-  "2023-03-09": 109994,
-  "2023-03-10": 110070,
-  "2023-03-11": 110168,
-  "2023-03-12": 110264,
-  "2023-03-13": 110342,
-  "2023-03-14": 110416,
-  "2023-03-15": 110495,
-  "2023-03-16": 110495,
-  "2023-03-17": 110495,
-  "2023-03-18": 110750,
-  "2023-03-19": 110750,
-  "2023-03-20": 110923,
-  "2023-03-21": 111001,
-  "2023-03-22": 111055,
-  "2023-03-23": 111122,
-  "2023-03-24": 111122,
-  "2023-03-25": 111290,
-  "2023-03-26": 111428,
-  "2023-03-27": 111510,
-  "2023-03-28": 111597,
-  "2023-03-29": 111698,
-  "2023-03-30": 111825,
-  "2023-03-31": 111825,
-  "2023-04-01": 111903,
-  "2023-04-02": 112019,
-  "2023-04-03": 112100,
-  "2023-04-04": 112176,
-  "2023-04-05": 112252,
-  "2023-04-06": 112341,
-  "2023-04-07": 112432,
-  "2023-04-09": 112608,
-  "2023-04-10": 112685,
-  "2023-04-11": 112806,
-  "2023-04-12": 112806,
-  "2023-04-13": 112869,
-  "2023-04-14": 112935,
-  "2023-04-15": 113011,
-  "2023-04-16": 113088,
-  "2023-04-17": 113182,
-  "2023-04-18": 113233,
-  "2023-04-19": 113295,
-  "2023-04-20": 113378,
-  "2023-04-21": 113448,
-  "2023-04-22": 113512,
-  "2023-04-23": 113608,
-  "2023-04-24": 113692,
-  "2023-04-25": 113761,
-  "2023-04-26": 113837,
-  "2023-04-27": 113923,
-  "2023-04-28": 114004,
-  "2023-04-29": 114112,
-  "2023-04-30": 114221,
-  "2023-05-01": 114318,
-  "2023-05-02": 114382,
-  "2023-05-03": 114450,
-  "2023-05-04": 114498,
-  "2023-05-05": 114580,
-  "2023-05-06": 114675,
-  "2023-05-07": 114743,
-  "2023-05-08": 114820,
-  "2023-05-09": 114878,
-  "2023-05-10": 114946,
-  "2023-05-11": 115018,
-  "2023-05-12": 115103,
-  "2023-05-13": 115181,
-  "2023-05-14": 115254,
-  "2023-05-15": 115320,
-  "2023-05-16": 115378,
-  "2023-05-17": 115437,
-  "2023-05-18": 115497,
-  "2023-05-19": 115570,
-  "2023-05-20": 115764,
-  "2023-05-21": 115764,
-  "2023-05-22": 115764,
-  "2023-05-23": 115915,
-  "2023-05-24": 116010,
-  "2023-05-25": 116032,
-  "2023-05-26": 116095,
-  "2023-05-27": 116168,
-  "2023-05-28": 116237,
-  "2023-05-29": 116237,
-  "2023-05-30": 116404,
-  "2023-05-31": 116476,
-  "2023-06-01": 116545,
-  "2023-06-02": 116612,
-  "2023-06-03": 116698,
-  "2023-06-04": 116788,
-  "2023-06-05": 116866,
-  "2023-06-06": 116932,
-  "2023-06-07": 116998,
-  "2023-06-08": 117085,
-  "2023-06-09": 117184,
-  "2023-06-10": 117276,
-  "2023-06-11": 117374,
-  "2023-06-12": 117460,
-  "2023-06-13": 117537,
-  "2023-06-14": 117608,
-  "2023-06-15": 117670,
-  "2023-06-16": 117737,
-  "2023-06-17": 117820,
-  "2023-06-18": 117919,
-  "2023-06-19": 118024,
-  "2023-06-20": 118110,
-  "2023-06-21": 118189,
-  "2023-06-22": 118255,
-  "2023-06-23": 118321,
-  "2023-06-24": 118406,
-  "2023-06-25": 118480,
-  "2023-06-26": 118556,
-  "2023-06-27": 118626,
-  "2023-06-28": 118700,
-  "2023-06-29": 118770,
-  "2023-06-30": 118864,
-  "2023-07-01": 119047,
-  "2023-07-02": 119047,
-  "2023-07-03": 119126,
-  "2023-07-04": 119197,
-  "2023-07-05": 119257,
-  "2023-07-06": 119426,
-  "2023-07-07": 119426,
-  "2023-07-08": 119530,
-  "2023-07-09": 119634,
-  "2023-07-10": 119713,
-  "2023-07-11": 119774,
-  "2023-07-12": 119852,
-  "2023-07-13": 119935,
-  "2023-07-14": 120001,
-  "2023-07-15": 120058,
-  "2023-07-16": 120177,
-  "2023-07-17": 120257,
-  "2023-07-18": 120316,
-  "2023-07-19": 120388,
-  "2023-07-20": 120449,
-  "2023-07-21": 120525,
-  "2023-07-22": 120598,
-  "2023-07-23": 120696,
-  "2023-07-24": 120771,
-  "2023-07-25": 120859,
-  "2023-07-26": 120933,
-  "2023-07-27": 121021,
-  "2023-07-28": 121133,
-  "2023-07-29": 121212,
-  "2023-07-30": 121317,
-  "2023-07-31": 121384,
-  "2023-08-01": 121455,
-  "2023-08-02": 121538,
-  "2023-08-03": 121619,
-  "2023-08-04": 121700,
-  "2023-08-05": 121785,
-  "2023-08-06": 122004,
-  "2023-08-07": 122004,
-  "2023-08-08": 122083,
-  "2023-08-09": 122154,
-  "2023-08-10": 122235,
-  "2023-08-11": 122315,
-  "2023-08-12": 122409,
-  "2023-08-13": 122409,
-  "2023-08-14": 122617,
-  "2023-08-15": 122693,
-  "2023-08-16": 122693,
-  "2023-08-17": 122833,
-  "2023-08-18": 122833,
-  "2023-08-19": 123042,
-  "2023-08-20": 123151,
-  "2023-08-21": 123253,
-  "2023-08-22": 123326,
-  "2023-08-23": 123417,
-  "2023-08-24": 123506,
-  "2023-08-25": 123506,
-  "2023-08-26": 123705,
-  "2023-08-27": 123864,
-  "2023-08-28": 124006,
-  "2023-08-29": 124112,
-  "2023-08-30": 124112,
-  "2023-08-31": 124339,
-  "2023-09-01": 124564,
-  "2023-09-02": 124564,
-  "2023-09-03": 124687,
-  "2023-09-04": 124687,
-  "2023-09-05": 124687,
-  "2023-09-06": 124952,
-  "2023-09-07": 124952,
-  "2023-09-08": 124952,
-  "2023-09-09": 124952,
-  "2023-09-10": 125404,
-  "2023-09-11": 125499,
-  "2023-09-12": 125499,
-  "2023-09-13": 125673,
-  "2023-09-14": 125673,
-  "2023-09-15": 125673,
-  "2023-09-16": 125951,
-  "2023-09-17": 125951,
-  "2023-09-18": 125951,
-  "2023-09-19": 126239,
-  "2023-09-20": 126239,
-  "2023-09-21": 126239,
-  "2023-09-22": 126455,
-  "2023-09-23": 126455,
-  "2023-09-24": 126455,
-  "2023-09-25": 126455,
-  "2023-09-26": 126796,
-  "2023-09-27": 126796,
-  "2023-09-28": 126796,
-  "2023-09-29": 126796,
-  "2023-09-30": 126796,
-  "2023-10-01": 126796,
-  "2023-10-02": 127230,
-  "2023-10-03": 127230,
-  "2023-10-04": 127230,
-  "2023-10-05": 127416,
-  "2023-10-06": 127474,
-  "2023-10-07": 127474,
-  "2023-10-08": 127474,
-  "2023-10-09": 127474,
-  "2023-10-10": 127474,
-  "2023-10-11": 127715,
-  "2023-10-12": 127715,
-  "2023-10-13": 127715,
-  "2023-10-14": 127715,
-  "2023-10-15": 127715,
-  "2023-10-16": 127715,
-  "2023-10-17": 127715,
-  "2023-10-18": 127715,
-  "2023-10-19": 127715,
-  "2023-10-20": 127715,
-  "2023-10-21": 127715,
-  "2023-10-22": 127715,
-  "2023-10-23": 127715,
-  "2023-10-24": 127715,
-  "2023-10-25": 127715,
-  "2023-10-26": 127715,
-  "2023-10-27": 127715,
-  "2023-10-28": 127715,
-  "2023-10-29": 127715,
-  "2023-10-30": 127715,
-  "2023-10-31": 127715,
-  "2023-11-01": 127715,
-  "2023-11-02": 127715,
-  "2023-11-03": 127715,
-  "2023-11-04": 127715,
-  "2023-11-05": 127715,
-  "2023-11-06": 127715,
-  "2023-11-07": 127715,
-  "2023-11-08": 127715,
-  "2023-11-09": 127715,
-  "2023-11-10": 127715,
-  "2023-11-11": 129540,
-  "2023-11-12": 129540,
-  "2023-11-13": 129540,
-  "2023-11-14": 129540,
-  "2023-11-15": 129540,
-  "2023-11-16": 129540,
-  "2023-11-17": 129540,
-  "2023-11-18": 129540,
-  "2023-11-19": 129540,
-  "2023-11-20": 129540,
-  "2023-11-21": 129540,
-  "2023-11-22": 129540,
-  "2023-11-23": 129540,
-  "2023-11-24": 129540,
-  "2023-11-25": 129540,
-  "2023-11-26": 129540,
-  "2023-11-27": 129540,
-  "2023-11-28": 129540,
-  "2023-11-29": 129540,
-  "2023-11-30": 129540,
-  "2023-12-01": 129540,
-  "2023-12-02": 129540,
-  "2023-12-03": 129540,
-  "2023-12-04": 129540,
-  "2023-12-05": 129540,
-  "2023-12-06": 129540,
-  "2023-12-07": 129540,
-  "2023-12-08": 129540,
-  "2023-12-09": 129540,
-  "2023-12-10": 129540,
-  "2023-12-11": 129540,
-  "2023-12-12": 129540,
-  "2023-12-13": 129540,
-  "2023-12-14": 131630,
-  "2023-12-15": 131667,
-  "2023-12-16": 131741,
-  "2023-12-17": 131804,
-  "2023-12-18": 131878,
-  "2023-12-19": 131926,
-  "2023-12-20": 131980,
-  "2023-12-21": 132033,
-  "2023-12-22": 132091,
-  "2023-12-23": 132165,
-  "2023-12-24": 132260,
-  "2023-12-25": 132344,
-  "2023-12-26": 132412,
-  "2023-12-27": 132465,
-  "2023-12-30": 132721,
-  "2023-12-31": 132817,
-  "2024-01-01": 132918,
-  "2024-01-02": 132980,
-  "2024-01-03": 133038
+  "2024-01-17": 133424,
+  "date_first_scraped": "2022-09-09",
+  "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
+  "name": "This Is Grupo Niche",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282066,
+      "name": "A Prueba De Fuego",
+      "url": "https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg"
+    },
+    {
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220135,
+      "name": "Algo Que Se Quede",
+      "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
+    },
+    {
+      "album": {
+        "name": "Salsa Pura",
+        "url": "https://open.spotify.com/album/1MZBhouOFfLyS0oTo7jdEu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338325,
+      "name": "Ana Mil\u00e9",
+      "url": "https://open.spotify.com/track/2krik8Sc5sddD3yb3qkBkr"
+    },
+    {
+      "album": {
+        "name": "Niche Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        },
+        {
+          "name": "Orquesta Sinf\u00f3nica Nacional de Colombia",
+          "url": "https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359182,
+      "name": "Atrate\u00f1o - Versi\u00f3n Sinf\u00f3nica",
+      "url": "https://open.spotify.com/track/3xwt3eOUASkgdHapmAN0uO"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 309963,
+      "name": "Buenaventura y Caney",
+      "url": "https://open.spotify.com/track/0LJKDAqnM2Evn6HclhDWaG"
+    },
+    {
+      "album": {
+        "name": "Querer Es Poder",
+        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309963,
+      "name": "Buenaventura y Caney",
+      "url": "https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354133,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
+    },
+    {
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257631,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG"
+    },
+    {
+      "album": {
+        "name": "Cielo De Tambores",
+        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277240,
+      "name": "Cali Aji",
+      "url": "https://open.spotify.com/track/32gkUsqe0yHTxRyijjADyI"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 276826,
+      "name": "Cali Aj\u00ed",
+      "url": "https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4"
+    },
+    {
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
+    },
+    {
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260865,
+      "name": "Canciones Viejas",
+      "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
+    },
+    {
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 337866,
+      "name": "Cielo de Tambores",
+      "url": "https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W"
+    },
+    {
+      "album": {
+        "name": "Salsa Rom\u00e1ntica de Siempre",
+        "url": "https://open.spotify.com/album/31qN90CYlcbqT0ErFJXJzi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334642,
+      "name": "Como Podre Disimular",
+      "url": "https://open.spotify.com/track/5hxXKkbhgD8g8Dvd40APFB"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/6JB01yiDfrkIeccoiVWb8G"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 334680,
+      "name": "Como Podre Disimular",
+      "url": "https://open.spotify.com/track/42PDNfuSrrF5nkDrvCPIeN"
+    },
+    {
+      "album": {
+        "name": "Cosas Bonitas",
+        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260632,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
+    },
+    {
+      "album": {
+        "name": "Cielo De Tambores",
+        "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264733,
+      "name": "Debiera Olvidarla",
+      "url": "https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 360066,
+      "name": "Del Puente Pa' All\u00e1",
+      "url": "https://open.spotify.com/track/0vWfzFRMmU2mhTw7eipl9R"
+    },
+    {
+      "album": {
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360066,
+      "name": "Del Puente Pa' All\u00e1",
+      "url": "https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV"
+    },
+    {
+      "album": {
+        "name": "Querer Es Poder",
+        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338964,
+      "name": "Digo Yo",
+      "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
+    },
+    {
+      "album": {
+        "name": "Un Alto en el Camino",
+        "url": "https://open.spotify.com/album/6zjMkgvzUOUiID1lJcFIgN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341787,
+      "name": "Duele Mas",
+      "url": "https://open.spotify.com/track/3ucblmon6wWteun2UQxzUg"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 338773,
+      "name": "Duele M\u00e1s",
+      "url": "https://open.spotify.com/track/3eccxwMeNfIAIxGVoHSchj"
+    },
+    {
+      "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291893,
+      "name": "El Amor Vendr\u00e1",
+      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
+    },
+    {
+      "album": {
+        "name": "Tierra de Mis Amores",
+        "url": "https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 241880,
+      "name": "El Coco",
+      "url": "https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G"
+    },
+    {
+      "album": {
+        "name": "Control Absoluto",
+        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252626,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC"
+    },
+    {
+      "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "Entrega",
+      "url": "https://open.spotify.com/track/0O2j5GTz60A3K7dMZn4WQC"
+    },
+    {
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268560,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1aBJ5ljG2GalxEl01vQn04"
+    },
+    {
+      "album": {
+        "name": "Huellas del Pasado",
+        "url": "https://open.spotify.com/album/0F3LBsvsqLGl5z4zwWtiI7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307410,
+      "name": "Es Mejor No Despertar",
+      "url": "https://open.spotify.com/track/3z6qlGYx2asqI6mQTTjjqZ"
+    },
+    {
+      "album": {
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 329493,
+      "name": "Etnia",
+      "url": "https://open.spotify.com/track/0EyxwFVgmB0uHK4QSM6lQz"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289341,
+      "name": "Falto un Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl"
+    },
+    {
+      "album": {
+        "name": "Control Absoluto",
+        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337998,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/2FyBP2WeAToXkjtulhFqqb"
+    },
+    {
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
+    },
+    {
+      "album": {
+        "name": "A Golpe de Folklore",
+        "url": "https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282536,
+      "name": "Han Cogido la Cosa",
+      "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
+    },
+    {
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
+    },
+    {
+      "album": {
+        "name": "Preparate",
+        "url": "https://open.spotify.com/album/0yW7ORJ2FD5SbLRe9gITDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 324826,
+      "name": "La Gota Fria",
+      "url": "https://open.spotify.com/track/6vBTEjh3IriR0Hb9tKV8iR"
+    },
+    {
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284200,
+      "name": "La Magia De Tus Besos",
+      "url": "https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 331673,
+      "name": "Listo Medell\u00edn",
+      "url": "https://open.spotify.com/track/0irGrW0zW3BZdqWe518knd"
+    },
+    {
+      "album": {
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 331673,
+      "name": "Listo Medell\u00edn",
+      "url": "https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF"
+    },
+    {
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296960,
+      "name": "Lo Bonito Y Lo Feo",
+      "url": "https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7"
+    },
+    {
+      "album": {
+        "name": "La Danza de la Chancaca",
+        "url": "https://open.spotify.com/album/4LLCCwFbIYh4nZ5JOxRntj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 246531,
+      "name": "Me Sabe a Peru",
+      "url": "https://open.spotify.com/track/00Hcq5S7P9lIJqioIW0Hxb"
+    },
+    {
+      "album": {
+        "name": "Me Sabe a Per\u00fa",
+        "url": "https://open.spotify.com/album/4ycsh8x6oNr9L1DdJLvXQX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262653,
+      "name": "Me Sabe a Per\u00fa",
+      "url": "https://open.spotify.com/track/60uygJSldCifzLzPAUkgHD"
+    },
+    {
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309746,
+      "name": "Mec\u00e1nico",
+      "url": "https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg"
+    },
+    {
+      "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335986,
+      "name": "Mi Hijo y Yo",
+      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
+    },
+    {
+      "album": {
+        "name": "Imaginacion",
+        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327160,
+      "name": "Mi Machete",
+      "url": "https://open.spotify.com/track/1rZmyIJitURlw2d35xb9fn"
+    },
+    {
+      "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 305506,
+      "name": "Mi Valle del Cauca",
+      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
+    },
+    {
+      "album": {
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322013,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315600,
+      "name": "Mujer de Novela",
+      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
+    },
+    {
+      "album": {
+        "name": "Imaginacion",
+        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292360,
+      "name": "Ni Como Amiga Ni Como Amante",
+      "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
+    },
+    {
+      "album": {
+        "name": "Llegando Al 100%",
+        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323026,
+      "name": "No Tuve A Quien Decirle Amor",
+      "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359226,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
+    },
+    {
+      "album": {
+        "name": "Niche Con Cuerdas",
+        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Perder Para Amar",
+      "url": "https://open.spotify.com/track/0PdohAxtL1wZBBYYiiMC4I"
+    },
+    {
+      "album": {
+        "name": "Preparate",
+        "url": "https://open.spotify.com/album/0yW7ORJ2FD5SbLRe9gITDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 368981,
+      "name": "Primero Y Qu\u00e9",
+      "url": "https://open.spotify.com/track/0sdn7O9lflE1GgapAS8TUp"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Rupelto Mena",
+      "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
+    },
+    {
+      "album": {
+        "name": "Rupelto Mena",
+        "url": "https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 289573,
+      "name": "Rupelto Mena",
+      "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328133,
+      "name": "Se Pareci\u00f3 Tanto a Ti",
+      "url": "https://open.spotify.com/track/36CmpO4k6RCa410JCgn3Er"
+    },
+    {
+      "album": {
+        "name": "Un Alto en el Camino",
+        "url": "https://open.spotify.com/album/6zjMkgvzUOUiID1lJcFIgN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-10",
+      "duration_ms": 299703,
+      "name": "Sin Palabras",
+      "url": "https://open.spotify.com/track/4BhR5u19BAULu1ybhcKQkV"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+    },
+    {
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284640,
+      "name": "Solo Tu Sabes",
+      "url": "https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD"
+    },
+    {
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356640,
+      "name": "Solo un Cari\u00f1o",
+      "url": "https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 356640,
+      "name": "Solo un Cari\u00f1o",
+      "url": "https://open.spotify.com/track/45pBvCV1eaj4Pcw7Pi5plW"
+    },
+    {
+      "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260431,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas, Vol. 1",
+        "url": "https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-29",
+      "duration_ms": 344293,
+      "name": "Te Amo, Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/67BqqOrOgEGitc1HmuQeNl"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 344293,
+      "name": "Te Amo, Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/6Td1PkXKrmmKRgcMG0GuC1"
+    },
+    {
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 250696,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
+    },
+    {
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287441,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6"
+    },
+    {
+      "album": {
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 288120,
+      "name": "Un Alto en el Camino",
+      "url": "https://open.spotify.com/track/5F9fsLJOvnMEAgFNBuO4xu"
+    },
+    {
+      "album": {
+        "name": "Un Alto en el Camino",
+        "url": "https://open.spotify.com/album/6zjMkgvzUOUiID1lJcFIgN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292415,
+      "name": "Un Alto en el Camino",
+      "url": "https://open.spotify.com/track/4BSO7TwZ5PfggmNEFgf9ug"
+    },
+    {
+      "album": {
+        "name": "Niche Con Cuerdas",
+        "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317180,
+      "name": "Un Caso Social",
+      "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
+    },
+    {
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326410,
+      "name": "Un D\u00eda Despu\u00e9s",
+      "url": "https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0S76rS"
 }

@@ -1,574 +1,1387 @@
 {
-  "2022-06-05": 111,
-  "2022-06-06": 111,
-  "2022-06-07": 111,
-  "2022-06-08": 111,
-  "2022-06-09": 111,
-  "2022-06-10": 111,
-  "2022-06-11": 112,
-  "2022-06-12": 111,
-  "2022-06-13": 113,
-  "2022-06-14": 113,
-  "2022-06-15": 113,
-  "2022-06-16": 113,
-  "2022-06-17": 114,
-  "2022-06-18": 114,
-  "2022-06-19": 114,
-  "2022-06-20": 114,
-  "2022-06-21": 114,
-  "2022-06-22": 115,
-  "2022-06-23": 115,
-  "2022-06-24": 116,
-  "2022-06-25": 116,
-  "2022-06-26": 117,
-  "2022-06-27": 117,
-  "2022-06-28": 117,
-  "2022-06-29": 118,
-  "2022-06-30": 118,
-  "2022-07-01": 118,
-  "2022-07-02": 118,
-  "2022-07-03": 119,
-  "2022-07-04": 119,
-  "2022-07-05": 119,
-  "2022-07-06": 119,
-  "2022-07-07": 120,
-  "2022-07-08": 121,
-  "2022-07-09": 121,
-  "2022-07-10": 122,
-  "2022-07-11": 123,
-  "2022-07-12": 123,
-  "2022-07-13": 124,
-  "2022-07-14": 124,
-  "2022-07-15": 124,
-  "2022-07-16": 124,
-  "2022-07-17": 124,
-  "2022-07-18": 124,
-  "2022-07-19": 124,
-  "2022-07-20": 124,
-  "2022-07-21": 124,
-  "2022-07-22": 124,
-  "2022-07-23": 124,
-  "2022-07-24": 125,
-  "2022-07-25": 126,
-  "2022-07-26": 126,
-  "2022-07-27": 126,
-  "2022-07-28": 127,
-  "2022-07-29": 127,
-  "2022-07-30": 127,
-  "2022-07-31": 127,
-  "2022-08-01": 127,
-  "2022-08-02": 129,
-  "2022-08-03": 129,
-  "2022-08-04": 129,
-  "2022-08-05": 129,
-  "2022-08-06": 129,
-  "2022-08-07": 129,
-  "2022-08-08": 129,
-  "2022-08-09": 129,
-  "2022-08-10": 129,
-  "2022-08-11": 129,
-  "2022-08-12": 129,
-  "2022-08-13": 129,
-  "2022-08-14": 129,
-  "2022-08-15": 130,
-  "2022-08-16": 131,
-  "2022-08-17": 131,
-  "2022-08-18": 131,
-  "2022-08-19": 131,
-  "2022-08-20": 131,
-  "2022-08-21": 131,
-  "2022-08-22": 131,
-  "2022-08-23": 131,
-  "2022-08-24": 132,
-  "2022-08-25": 132,
-  "2022-08-26": 133,
-  "2022-08-27": 133,
-  "2022-08-28": 133,
-  "2022-08-29": 133,
-  "2022-08-30": 133,
-  "2022-08-31": 132,
-  "2022-09-01": 131,
-  "2022-09-02": 131,
-  "2022-09-03": 131,
-  "2022-09-04": 132,
-  "2022-09-05": 132,
-  "2022-09-06": 133,
-  "2022-09-07": 132,
-  "2022-09-09": 133,
-  "2022-09-10": 132,
-  "2022-09-11": 132,
-  "2022-09-12": 132,
-  "2022-09-13": 132,
-  "2022-09-15": 132,
-  "2022-09-16": 132,
-  "2022-09-17": 134,
-  "2022-09-18": 134,
-  "2022-09-19": 133,
-  "2022-09-20": 133,
-  "2022-09-21": 134,
-  "2022-09-22": 135,
-  "2022-09-23": 135,
-  "2022-09-24": 135,
-  "2022-09-25": 136,
-  "2022-09-26": 138,
-  "2022-09-27": 137,
-  "2022-09-28": 137,
-  "2022-09-29": 137,
-  "2022-09-30": 137,
-  "2022-10-01": 137,
-  "2022-10-02": 138,
-  "2022-10-03": 138,
-  "2022-10-04": 138,
-  "2022-10-05": 139,
-  "2022-10-06": 139,
-  "2022-10-07": 139,
-  "2022-10-08": 139,
-  "2022-10-09": 141,
-  "2022-10-10": 141,
-  "2022-10-11": 141,
-  "2022-10-12": 141,
-  "2022-10-13": 141,
-  "2022-10-14": 141,
-  "2022-10-15": 141,
-  "2022-10-16": 141,
-  "2022-10-17": 141,
-  "2022-10-18": 141,
-  "2022-10-19": 142,
-  "2022-10-20": 142,
-  "2022-10-21": 142,
-  "2022-10-22": 143,
-  "2022-10-23": 143,
-  "2022-10-24": 143,
-  "2022-10-25": 143,
-  "2022-10-26": 143,
-  "2022-10-27": 143,
-  "2022-10-28": 144,
-  "2022-10-29": 144,
-  "2022-10-30": 143,
-  "2022-10-31": 144,
-  "2022-11-01": 144,
-  "2022-11-02": 144,
-  "2022-11-03": 144,
-  "2022-11-04": 144,
-  "2022-11-05": 145,
-  "2022-11-06": 145,
-  "2022-11-07": 145,
-  "2022-11-08": 146,
-  "2022-11-09": 146,
-  "2022-11-10": 146,
-  "2022-11-11": 146,
-  "2022-11-12": 147,
-  "2022-11-13": 147,
-  "2022-11-14": 147,
-  "2022-11-15": 147,
-  "2022-11-16": 147,
-  "2022-11-17": 147,
-  "2022-11-18": 147,
-  "2022-11-19": 147,
-  "2022-11-20": 147,
-  "2022-11-21": 147,
-  "2022-11-22": 147,
-  "2022-11-23": 147,
-  "2022-11-24": 147,
-  "2022-11-25": 147,
-  "2022-11-26": 147,
-  "2022-11-27": 148,
-  "2022-11-28": 148,
-  "2022-11-29": 149,
-  "2022-11-30": 150,
-  "2022-12-01": 150,
-  "2022-12-02": 150,
-  "2022-12-03": 150,
-  "2022-12-04": 150,
-  "2022-12-05": 150,
-  "2022-12-06": 150,
-  "2022-12-07": 150,
-  "2022-12-08": 150,
-  "2022-12-09": 150,
-  "2022-12-10": 151,
-  "2022-12-11": 151,
-  "2022-12-12": 151,
-  "2022-12-13": 151,
-  "2022-12-14": 151,
-  "2022-12-15": 152,
-  "2022-12-16": 152,
-  "2022-12-17": 152,
-  "2022-12-18": 152,
-  "2022-12-19": 152,
-  "2022-12-20": 153,
-  "2022-12-21": 153,
-  "2022-12-22": 154,
-  "2022-12-24": 155,
-  "2022-12-25": 155,
-  "2022-12-26": 155,
-  "2022-12-27": 155,
-  "2022-12-28": 155,
-  "2022-12-29": 155,
-  "2022-12-30": 156,
-  "2022-12-31": 156,
-  "2023-01-01": 158,
-  "2023-01-02": 158,
-  "2023-01-03": 159,
-  "2023-01-04": 159,
-  "2023-01-05": 159,
-  "2023-01-06": 159,
-  "2023-01-07": 161,
-  "2023-01-08": 161,
-  "2023-01-09": 161,
-  "2023-01-10": 164,
-  "2023-01-11": 165,
-  "2023-01-12": 166,
-  "2023-01-13": 167,
-  "2023-01-14": 170,
-  "2023-01-15": 170,
-  "2023-01-16": 171,
-  "2023-01-17": 172,
-  "2023-01-18": 173,
-  "2023-01-19": 173,
-  "2023-01-20": 173,
-  "2023-01-21": 172,
-  "2023-01-22": 172,
-  "2023-01-23": 171,
-  "2023-01-24": 171,
-  "2023-01-25": 171,
-  "2023-01-26": 171,
-  "2023-01-27": 171,
-  "2023-01-28": 171,
-  "2023-01-29": 172,
-  "2023-01-30": 173,
-  "2023-01-31": 173,
-  "2023-02-01": 174,
-  "2023-02-02": 175,
-  "2023-02-03": 176,
-  "2023-02-04": 177,
-  "2023-02-05": 177,
-  "2023-02-06": 176,
-  "2023-02-07": 176,
-  "2023-02-08": 176,
-  "2023-02-09": 176,
-  "2023-02-10": 175,
-  "2023-02-11": 175,
-  "2023-02-12": 175,
-  "2023-02-13": 176,
-  "2023-02-14": 176,
-  "2023-02-15": 176,
-  "2023-02-16": 175,
-  "2023-02-17": 176,
-  "2023-02-18": 176,
-  "2023-02-19": 176,
-  "2023-02-20": 176,
-  "2023-02-21": 176,
-  "2023-02-22": 176,
-  "2023-02-23": 176,
-  "2023-02-24": 177,
-  "2023-02-25": 177,
-  "2023-02-26": 177,
-  "2023-02-27": 177,
-  "2023-02-28": 177,
-  "2023-03-01": 177,
-  "2023-03-02": 177,
-  "2023-03-03": 177,
-  "2023-03-04": 177,
-  "2023-03-05": 177,
-  "2023-03-06": 177,
-  "2023-03-07": 177,
-  "2023-03-08": 177,
-  "2023-03-09": 177,
-  "2023-03-10": 177,
-  "2023-03-11": 177,
-  "2023-03-12": 176,
-  "2023-03-13": 176,
-  "2023-03-14": 176,
-  "2023-03-15": 176,
-  "2023-03-16": 176,
-  "2023-03-17": 176,
-  "2023-03-18": 176,
-  "2023-03-19": 176,
-  "2023-03-20": 177,
-  "2023-03-21": 178,
-  "2023-03-22": 178,
-  "2023-03-23": 178,
-  "2023-03-24": 178,
-  "2023-03-25": 178,
-  "2023-03-26": 177,
-  "2023-03-27": 177,
-  "2023-03-28": 177,
-  "2023-03-29": 178,
-  "2023-03-30": 178,
-  "2023-03-31": 178,
-  "2023-04-01": 178,
-  "2023-04-02": 179,
-  "2023-04-03": 179,
-  "2023-04-04": 180,
-  "2023-04-05": 180,
-  "2023-04-06": 181,
-  "2023-04-07": 181,
-  "2023-04-09": 184,
-  "2023-04-10": 184,
-  "2023-04-11": 185,
-  "2023-04-12": 185,
-  "2023-04-13": 186,
-  "2023-04-14": 187,
-  "2023-04-15": 187,
-  "2023-04-16": 187,
-  "2023-04-17": 188,
-  "2023-04-18": 188,
-  "2023-04-19": 188,
-  "2023-04-20": 188,
-  "2023-04-21": 188,
-  "2023-04-22": 188,
-  "2023-04-23": 188,
-  "2023-04-24": 188,
-  "2023-04-25": 188,
-  "2023-04-26": 188,
-  "2023-04-27": 188,
-  "2023-04-28": 188,
-  "2023-04-29": 188,
-  "2023-04-30": 188,
-  "2023-05-01": 188,
-  "2023-05-02": 188,
-  "2023-05-03": 189,
-  "2023-05-04": 189,
-  "2023-05-05": 189,
-  "2023-05-06": 189,
-  "2023-05-07": 189,
-  "2023-05-08": 188,
-  "2023-05-09": 188,
-  "2023-05-10": 188,
-  "2023-05-11": 189,
-  "2023-05-12": 189,
-  "2023-05-13": 190,
-  "2023-05-14": 191,
-  "2023-05-15": 191,
-  "2023-05-16": 191,
-  "2023-05-17": 191,
-  "2023-05-18": 191,
-  "2023-05-19": 191,
-  "2023-05-20": 191,
-  "2023-05-21": 191,
-  "2023-05-22": 191,
-  "2023-05-23": 191,
-  "2023-05-24": 191,
-  "2023-05-25": 191,
-  "2023-05-26": 191,
-  "2023-05-27": 191,
-  "2023-05-28": 191,
-  "2023-05-29": 191,
-  "2023-05-30": 191,
-  "2023-05-31": 190,
-  "2023-06-01": 190,
-  "2023-06-02": 190,
-  "2023-06-03": 190,
-  "2023-06-04": 190,
-  "2023-06-05": 190,
-  "2023-06-06": 190,
-  "2023-06-07": 190,
-  "2023-06-08": 190,
-  "2023-06-09": 192,
-  "2023-06-10": 192,
-  "2023-06-11": 192,
-  "2023-06-12": 192,
-  "2023-06-13": 192,
-  "2023-06-14": 192,
-  "2023-06-15": 192,
-  "2023-06-16": 192,
-  "2023-06-17": 192,
-  "2023-06-18": 192,
-  "2023-06-19": 192,
-  "2023-06-20": 195,
-  "2023-06-21": 194,
-  "2023-06-22": 194,
-  "2023-06-23": 194,
-  "2023-06-24": 194,
-  "2023-06-25": 194,
-  "2023-06-26": 193,
-  "2023-06-27": 194,
-  "2023-06-28": 194,
-  "2023-06-29": 194,
-  "2023-06-30": 194,
-  "2023-07-01": 196,
-  "2023-07-02": 196,
-  "2023-07-03": 195,
-  "2023-07-04": 196,
-  "2023-07-05": 196,
-  "2023-07-06": 194,
-  "2023-07-07": 194,
-  "2023-07-08": 194,
-  "2023-07-09": 194,
-  "2023-07-10": 194,
-  "2023-07-11": 193,
-  "2023-07-12": 193,
-  "2023-07-13": 193,
-  "2023-07-14": 194,
-  "2023-07-15": 194,
-  "2023-07-16": 194,
-  "2023-07-17": 194,
-  "2023-07-18": 194,
-  "2023-07-19": 194,
-  "2023-07-20": 194,
-  "2023-07-21": 194,
-  "2023-07-22": 194,
-  "2023-07-23": 194,
-  "2023-07-24": 194,
-  "2023-07-25": 194,
-  "2023-07-26": 194,
-  "2023-07-27": 194,
-  "2023-07-28": 194,
-  "2023-07-29": 194,
-  "2023-07-30": 194,
-  "2023-07-31": 194,
-  "2023-08-01": 195,
-  "2023-08-02": 195,
-  "2023-08-03": 195,
-  "2023-08-04": 195,
-  "2023-08-05": 195,
-  "2023-08-06": 195,
-  "2023-08-07": 195,
-  "2023-08-08": 195,
-  "2023-08-09": 194,
-  "2023-08-10": 195,
-  "2023-08-11": 194,
-  "2023-08-12": 194,
-  "2023-08-13": 194,
-  "2023-08-14": 194,
-  "2023-08-15": 194,
-  "2023-08-16": 194,
-  "2023-08-17": 194,
-  "2023-08-18": 194,
-  "2023-08-19": 194,
-  "2023-08-20": 196,
-  "2023-08-21": 196,
-  "2023-08-22": 195,
-  "2023-08-23": 195,
-  "2023-08-24": 195,
-  "2023-08-25": 195,
-  "2023-08-26": 195,
-  "2023-08-27": 195,
-  "2023-08-28": 195,
-  "2023-08-29": 195,
-  "2023-08-30": 195,
-  "2023-08-31": 196,
-  "2023-09-01": 196,
-  "2023-09-02": 196,
-  "2023-09-03": 196,
-  "2023-09-04": 196,
-  "2023-09-05": 196,
-  "2023-09-06": 196,
-  "2023-09-07": 196,
-  "2023-09-08": 196,
-  "2023-09-09": 196,
-  "2023-09-10": 196,
-  "2023-09-11": 196,
-  "2023-09-12": 196,
-  "2023-09-13": 196,
-  "2023-09-14": 196,
-  "2023-09-15": 196,
-  "2023-09-16": 196,
-  "2023-09-17": 196,
-  "2023-09-18": 196,
-  "2023-09-19": 196,
-  "2023-09-20": 196,
-  "2023-09-21": 196,
-  "2023-09-22": 196,
-  "2023-09-23": 196,
-  "2023-09-24": 196,
-  "2023-09-25": 196,
-  "2023-09-26": 196,
-  "2023-09-27": 196,
-  "2023-09-28": 196,
-  "2023-09-29": 196,
-  "2023-09-30": 196,
-  "2023-10-01": 196,
-  "2023-10-02": 196,
-  "2023-10-03": 196,
-  "2023-10-04": 196,
-  "2023-10-05": 196,
-  "2023-10-06": 196,
-  "2023-10-07": 196,
-  "2023-10-08": 196,
-  "2023-10-09": 196,
-  "2023-10-10": 196,
-  "2023-10-11": 196,
-  "2023-10-12": 196,
-  "2023-10-13": 196,
-  "2023-10-14": 196,
-  "2023-10-15": 196,
-  "2023-10-16": 196,
-  "2023-10-17": 196,
-  "2023-10-18": 196,
-  "2023-10-19": 196,
-  "2023-10-20": 196,
-  "2023-10-21": 196,
-  "2023-10-22": 196,
-  "2023-10-23": 196,
-  "2023-10-24": 196,
-  "2023-10-25": 196,
-  "2023-10-26": 196,
-  "2023-10-27": 196,
-  "2023-10-28": 196,
-  "2023-10-29": 196,
-  "2023-10-30": 196,
-  "2023-10-31": 196,
-  "2023-11-01": 196,
-  "2023-11-02": 196,
-  "2023-11-03": 196,
-  "2023-11-04": 196,
-  "2023-11-05": 196,
-  "2023-11-06": 196,
-  "2023-11-07": 196,
-  "2023-11-08": 196,
-  "2023-11-09": 196,
-  "2023-11-10": 196,
-  "2023-11-11": 196,
-  "2023-11-12": 196,
-  "2023-11-13": 196,
-  "2023-11-14": 196,
-  "2023-11-15": 196,
-  "2023-11-16": 196,
-  "2023-11-17": 196,
-  "2023-11-18": 196,
-  "2023-11-19": 196,
-  "2023-11-20": 196,
-  "2023-11-21": 196,
-  "2023-11-22": 196,
-  "2023-11-23": 196,
-  "2023-11-24": 196,
-  "2023-11-25": 196,
-  "2023-11-26": 196,
-  "2023-11-27": 196,
-  "2023-11-28": 196,
-  "2023-11-29": 196,
-  "2023-11-30": 196,
-  "2023-12-01": 196,
-  "2023-12-02": 196,
-  "2023-12-03": 196,
-  "2023-12-04": 196,
-  "2023-12-05": 196,
-  "2023-12-06": 196,
-  "2023-12-07": 196,
-  "2023-12-08": 196,
-  "2023-12-09": 196,
-  "2023-12-10": 196,
-  "2023-12-11": 196,
-  "2023-12-12": 196,
-  "2023-12-13": 196,
-  "2023-12-14": 200,
-  "2023-12-15": 200,
-  "2023-12-16": 200,
-  "2023-12-17": 200,
-  "2023-12-18": 200,
-  "2023-12-19": 200,
-  "2023-12-20": 200,
-  "2023-12-21": 200,
-  "2023-12-22": 200,
-  "2023-12-23": 200,
-  "2023-12-24": 200,
-  "2023-12-25": 200,
-  "2023-12-26": 200,
-  "2023-12-27": 201,
-  "2023-12-30": 202,
-  "2023-12-31": 202,
-  "2024-01-01": 202,
-  "2024-01-02": 202,
-  "2024-01-03": 202
+  "2024-01-17": 202,
+  "date_first_scraped": "2022-06-05",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2jEhW8ABFUBCiDxJs9q322\">Emy Perez</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By Emy Perez",
+  "tracks": [
+    {
+      "album": {
+        "name": "Acid Trippin",
+        "url": "https://open.spotify.com/album/4Y1DWTYR9EqZsVuSuPZ7O4"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162380,
+      "name": "Acid Trippin",
+      "url": "https://open.spotify.com/track/5P1QwpkXz0V2Gs1JHzIuRM"
+    },
+    {
+      "album": {
+        "name": "Club Files #1",
+        "url": "https://open.spotify.com/album/65ZVStUk2ISiu5LO0jtu6d"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259157,
+      "name": "Ain't Seen Before",
+      "url": "https://open.spotify.com/track/4AzRdtKnhVq57y6GrWPTSV"
+    },
+    {
+      "album": {
+        "name": "Ain't Seen Before",
+        "url": "https://open.spotify.com/album/1ByzzquvwSP9ZfpcgelBCg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-27",
+      "duration_ms": 259157,
+      "name": "Ain't Seen Before",
+      "url": "https://open.spotify.com/track/5aSFb2NDHDp4NU7rbegVJq"
+    },
+    {
+      "album": {
+        "name": "Anybody Out There",
+        "url": "https://open.spotify.com/album/2WU0WngVSULKuckza6tI1J"
+      },
+      "artists": [
+        {
+          "name": "Manuel Riva",
+          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196451,
+      "name": "Anybody Out There",
+      "url": "https://open.spotify.com/track/668C5FSQPOIeMsiWD9ChGz"
+    },
+    {
+      "album": {
+        "name": "Purple Alien",
+        "url": "https://open.spotify.com/album/0o0MOOWupdi4WELWGvjVrn"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Menasa",
+          "url": "https://open.spotify.com/artist/5jVEmgqUWoV06fNlLj6i5e"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169903,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2WnDMt0gHvxNDGZg1C5ubs"
+    },
+    {
+      "album": {
+        "name": "Because of You",
+        "url": "https://open.spotify.com/album/77RWx6wURqCDUFW4pxV7dy"
+      },
+      "artists": [
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        },
+        {
+          "name": "ADK",
+          "url": "https://open.spotify.com/artist/4iiQxJO8e9gXuFTeC5QJfo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5k26pPU2jenf6mhlWFlYo2"
+    },
+    {
+      "album": {
+        "name": "The Return of House Music",
+        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        },
+        {
+          "name": "Digitzz",
+          "url": "https://open.spotify.com/artist/4MCQBhrvHrufVxrKk5c5U3"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178320,
+      "name": "Boom Shakalaka",
+      "url": "https://open.spotify.com/track/5ijp0ctfwwkmkR6hWDQnwn"
+    },
+    {
+      "album": {
+        "name": "Bum",
+        "url": "https://open.spotify.com/album/5IF6tYxUjg2HPgXkEt8R77"
+      },
+      "artists": [
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2"
+        },
+        {
+          "name": "Repow",
+          "url": "https://open.spotify.com/artist/2o5HEaDbSZee4AcoksPIO2"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172741,
+      "name": "Bum",
+      "url": "https://open.spotify.com/track/4bS57BQrwhwhWROvMPG98U"
+    },
+    {
+      "album": {
+        "name": "Cocaina",
+        "url": "https://open.spotify.com/album/6KnEcN7zTiIOzDaYhR3qdk"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Dutch Movement",
+          "url": "https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184823,
+      "name": "Cocaina",
+      "url": "https://open.spotify.com/track/2YeZhfPOkFND5OYL6zp6we"
+    },
+    {
+      "album": {
+        "name": "Down By The River (feat. Emy Perez)",
+        "url": "https://open.spotify.com/album/1Nl1SBGIkh5xfBRWrJffCg"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140131,
+      "name": "Down By The River (feat. Emy Perez)",
+      "url": "https://open.spotify.com/track/2rBq9rceYqbr4YIqbSLhNg"
+    },
+    {
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K"
+      },
+      "artists": [
+        {
+          "name": "IBE",
+          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/1GDcRmGNKfntcKeyM2ZY3p"
+    },
+    {
+      "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/2LwVV5oGRP5viAyph9T22b"
+      },
+      "artists": [
+        {
+          "name": "IBE",
+          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 198440,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/3XaRZNhz6eOU1Fjk2aYCsE"
+    },
+    {
+      "album": {
+        "name": "Dutch (feat. Emy Perez)",
+        "url": "https://open.spotify.com/album/63O2ghuH6gd9LklYmroIFv"
+      },
+      "artists": [
+        {
+          "name": "Rave Radio",
+          "url": "https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 146880,
+      "name": "Dutch (feat. Emy Perez)",
+      "url": "https://open.spotify.com/track/5Z6JZqMoveVuOC9IPoROmo"
+    },
+    {
+      "album": {
+        "name": "El Mundo Baila",
+        "url": "https://open.spotify.com/album/6SrYNZDQKFaInFfdDgNRkg"
+      },
+      "artists": [
+        {
+          "name": "B'Elle",
+          "url": "https://open.spotify.com/artist/3Bp4EXpyHUtJn0HNOk7RVz"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "El Mundo Baila",
+      "url": "https://open.spotify.com/track/0KWPdSc26GIMEn7PA4Y1bP"
+    },
+    {
+      "album": {
+        "name": "El Mundo Baila",
+        "url": "https://open.spotify.com/album/6gfawBHQ4lX5d1G7stPJkt"
+      },
+      "artists": [
+        {
+          "name": "B'Elle",
+          "url": "https://open.spotify.com/artist/3Bp4EXpyHUtJn0HNOk7RVz"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 156097,
+      "name": "El Mundo Baila",
+      "url": "https://open.spotify.com/track/7ec664OOg6lMzOLz8aztZ8"
+    },
+    {
+      "album": {
+        "name": "Es Amor (What Is Love) (feat. Nicky Jam & Emy Perez)",
+        "url": "https://open.spotify.com/album/6VNA1VvqRbL9qfqhsWEYWT"
+      },
+      "artists": [
+        {
+          "name": "Stephen Oaks",
+          "url": "https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185946,
+      "name": "Es Amor (What Is Love) (feat. Nicky Jam & Emy Perez)",
+      "url": "https://open.spotify.com/track/568HkRjcNnuFYjtfH1rqMo"
+    },
+    {
+      "album": {
+        "name": "Get Ready To Dance",
+        "url": "https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 167857,
+      "name": "Everything I Need",
+      "url": "https://open.spotify.com/track/1g9eAXqn01rtonJSVeSmPI"
+    },
+    {
+      "album": {
+        "name": "Dit Ben Ik",
+        "url": "https://open.spotify.com/album/20kcLtOJpjKR8gDB9ouCg2"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167857,
+      "name": "Everything I Need",
+      "url": "https://open.spotify.com/track/7rE8RoUg9oIoultFTIbuJ3"
+    },
+    {
+      "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/1qisOburOSHmodwNMGltzp"
+      },
+      "artists": [
+        {
+          "name": "Lennert Wolfs",
+          "url": "https://open.spotify.com/artist/0T4Qr97ftW9NtSvoyqBvAt"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/0QFq6Cgos9qVMGcPgC9fcs"
+    },
+    {
+      "album": {
+        "name": "Family Matters, Vol. 1",
+        "url": "https://open.spotify.com/album/6D7ltbx4sEldooTWzlCGXX"
+      },
+      "artists": [
+        {
+          "name": "Mike Hawkins",
+          "url": "https://open.spotify.com/artist/0eW2N88UpBG0giW7LJOaY2"
+        },
+        {
+          "name": "Kazu",
+          "url": "https://open.spotify.com/artist/2OnRP9Tjxupbg23o1NekP0"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174230,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/4Qc8QOOGFtxtnfIvG2QwXa"
+    },
+    {
+      "album": {
+        "name": "Get Ready To Dance",
+        "url": "https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 199195,
+      "name": "Get Ready To Dance",
+      "url": "https://open.spotify.com/track/0rcNmoaGUvToo8Br2itnSH"
+    },
+    {
+      "album": {
+        "name": "Dit Ben Ik",
+        "url": "https://open.spotify.com/album/20kcLtOJpjKR8gDB9ouCg2"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199195,
+      "name": "Get Ready To Dance",
+      "url": "https://open.spotify.com/track/75I8iY2Bd8D9XqfabkREFB"
+    },
+    {
+      "album": {
+        "name": "The Return of House Music",
+        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212900,
+      "name": "Ghetto Gossip",
+      "url": "https://open.spotify.com/track/4MxzbBZw5fCFketoXuOTBM"
+    },
+    {
+      "album": {
+        "name": "Dit Ben Ik",
+        "url": "https://open.spotify.com/album/20kcLtOJpjKR8gDB9ouCg2"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164864,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/1FKHjfYS6Lj2GnUnNj7uNp"
+    },
+    {
+      "album": {
+        "name": "Get Ready To Dance",
+        "url": "https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 164864,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/1aM6hLSZycwIfqXF8UQb1Y"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7JXXX1QR2GLSONcFHSVp9v"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169398,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4LpcOXk1mmEUqGoVORZ2lk"
+    },
+    {
+      "album": {
+        "name": "GQOM",
+        "url": "https://open.spotify.com/album/3EKcdo0Io0bA9ZqTeIA7Zy"
+      },
+      "artists": [
+        {
+          "name": "Bang La Decks",
+          "url": "https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz"
+        },
+        {
+          "name": "Wiwek",
+          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 194317,
+      "name": "GQOM",
+      "url": "https://open.spotify.com/track/1XnurriC13rl5bdrjXhM59"
+    },
+    {
+      "album": {
+        "name": "GQOM",
+        "url": "https://open.spotify.com/album/3Sra9V0aRAsfzBv69ivVeJ"
+      },
+      "artists": [
+        {
+          "name": "Bang La Decks",
+          "url": "https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz"
+        },
+        {
+          "name": "Wiwek",
+          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194317,
+      "name": "GQOM",
+      "url": "https://open.spotify.com/track/5X5iDzl3tub8vqvVWzOdBm"
+    },
+    {
+      "album": {
+        "name": "Gypsy",
+        "url": "https://open.spotify.com/album/6ZIWLpoGHJWgAYjVPX4rAT"
+      },
+      "artists": [
+        {
+          "name": "LOthief",
+          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
+        },
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 198240,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/1gtoJYq7yhISk72RRpK82q"
+    },
+    {
+      "album": {
+        "name": "Gypsy",
+        "url": "https://open.spotify.com/album/3vxFPOYg85lQtPbn9LUNjf"
+      },
+      "artists": [
+        {
+          "name": "LOthief",
+          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
+        },
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/4UINZDQVlLV2QDJ5FPv6eT"
+    },
+    {
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/2d1PTvc0fyrS9wDLGKyF6r"
+      },
+      "artists": [
+        {
+          "name": "Matt Florgan",
+          "url": "https://open.spotify.com/artist/1hyFVrYjtDUnLJVzjMprlZ"
+        },
+        {
+          "name": "Davis Mallory",
+          "url": "https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/1zfLmKG6W76HcNwfT8yI3G"
+    },
+    {
+      "album": {
+        "name": "I Will Wait (feat. Hero Baldwin)",
+        "url": "https://open.spotify.com/album/36m1G2NmTQvGtRtjRTqc1Y"
+      },
+      "artists": [
+        {
+          "name": "Lulleaux",
+          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
+        },
+        {
+          "name": "Hero Baldwin",
+          "url": "https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147417,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/67OcYgRuZyiiNyQsDihSQd"
+    },
+    {
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/4rCFMkYoK4vDEkpONtcdZO"
+      },
+      "artists": [
+        {
+          "name": "Marco Carpentieri",
+          "url": "https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206829,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/5YAVXFERnWkGlRRF6d39wo"
+    },
+    {
+      "album": {
+        "name": "Jouw Geluk (Vivo Por Ti)",
+        "url": "https://open.spotify.com/album/5DYeSUrMJ1s0VaIFjmeAyy"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9on Leon",
+          "url": "https://open.spotify.com/artist/3oaUkKeOrroHK6zxaMttCj"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Jouw Geluk (Vivo Por Ti)",
+      "url": "https://open.spotify.com/track/2W6227oegq7pAkYGucvziS"
+    },
+    {
+      "album": {
+        "name": "LA City Limits (feat. Emy Perez)",
+        "url": "https://open.spotify.com/album/3Y1UR0IxI6PhZa8moiv5TC"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160008,
+      "name": "LA City Limits (feat. Emy Perez)",
+      "url": "https://open.spotify.com/track/6aCBL4rBMo9XqmzXgy0jCR"
+    },
+    {
+      "album": {
+        "name": "Wobblestep EP",
+        "url": "https://open.spotify.com/album/0O5np1Eu0H7DphgWg33g8N"
+      },
+      "artists": [
+        {
+          "name": "Luca Rezza",
+          "url": "https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186011,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2MurtNOTSzfR3UDmiM6qKu"
+    },
+    {
+      "album": {
+        "name": "Laat Maar Van Je Houden",
+        "url": "https://open.spotify.com/album/2wLv8ycuJ67wkFXFAVoWFm"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9on Leon",
+          "url": "https://open.spotify.com/artist/3oaUkKeOrroHK6zxaMttCj"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Laat Maar Van Je Houden",
+      "url": "https://open.spotify.com/track/2bt1VOjF1jAgVj5UbTJpvR"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2hHwH5zwnxIEVrRAczECMl"
+      },
+      "artists": [
+        {
+          "name": "SWACQ",
+          "url": "https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4djkKXYJu5FuNMwCJdGzYl"
+    },
+    {
+      "album": {
+        "name": "Loquita",
+        "url": "https://open.spotify.com/album/3TWxVMXRwH9EuH3MjhVNJa"
+      },
+      "artists": [
+        {
+          "name": "Claydee",
+          "url": "https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170723,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/5uuNPORdHV6PYNclkvNGaA"
+    },
+    {
+      "album": {
+        "name": "Gypsy Woman",
+        "url": "https://open.spotify.com/album/42efLsUxo2ZfeccocN1JCs"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1b9LW0jW9PvCnxa2wp3jqR"
+    },
+    {
+      "album": {
+        "name": "Me Gusta (feat. Emy Perez)",
+        "url": "https://open.spotify.com/album/34tls5asHYLA2GeWiaRJmN"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183517,
+      "name": "Me Gusta (feat. Emy Perez)",
+      "url": "https://open.spotify.com/track/4Kk8Xc3UaEPAQ0CepN6AaL"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/0PvKepM5NBjgDLstZ3ZT26"
+      },
+      "artists": [
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/7wNEVi5lEzMcQepjnRiDco"
+    },
+    {
+      "album": {
+        "name": "Nice & Slow (feat. Emy Perez)",
+        "url": "https://open.spotify.com/album/1xIzM2CPJzj56zJliMLxK0"
+      },
+      "artists": [
+        {
+          "name": "Johnny 500",
+          "url": "https://open.spotify.com/artist/53phw2rwTqJEtpZ1LgsPgj"
+        },
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130401,
+      "name": "Nice & Slow (feat. Emy Perez)",
+      "url": "https://open.spotify.com/track/3o5iWAwwnXFJQJyKL8vdpK"
+    },
+    {
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/5H2gM1ceIGo1cCwAGmd2LR"
+      },
+      "artists": [
+        {
+          "name": "BangLoud",
+          "url": "https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189017,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/334HzHK7nLLGRpMNrMUHh0"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/6OPSVmhi3yv28jHJht1krN"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159147,
+      "name": "No More (Boom Boom)",
+      "url": "https://open.spotify.com/track/4tTFkicK5glvQ4Mxin87sT"
+    },
+    {
+      "album": {
+        "name": "Not Afraid",
+        "url": "https://open.spotify.com/album/1g5ODHnFlBAjLZS1jSFc5I"
+      },
+      "artists": [
+        {
+          "name": "Justin Mylo",
+          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201520,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/2PAOqevh9KeK3axxRa8r71"
+    },
+    {
+      "album": {
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/7Gih5gVnGbNGxsi82QacGU"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182582,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/1BS8Q0JJ55uz7F1XVB9Qux"
+    },
+    {
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/0ZT8waFozsMUFCgYghL68k"
+      },
+      "artists": [
+        {
+          "name": "Eric Chase",
+          "url": "https://open.spotify.com/artist/6UaMv59B64t5wi1vH4H5HT"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169185,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/4sd19JwLdoB4zzIZI7PA3O"
+    },
+    {
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/5cAdDyWJBLVM5fuvFelunR"
+      },
+      "artists": [
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171375,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/5NJR3lo29KoZPxryReYVff"
+    },
+    {
+      "album": {
+        "name": "4.0",
+        "url": "https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "David Marley",
+          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
+        },
+        {
+          "name": "Eva Simons",
+          "url": "https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Pienso En El Momento",
+      "url": "https://open.spotify.com/track/1DUaFvwLIvXwqlET9Ke14s"
+    },
+    {
+      "album": {
+        "name": "Plomo",
+        "url": "https://open.spotify.com/album/0xwMZE8vwifDYgjWLcax8W"
+      },
+      "artists": [
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211486,
+      "name": "Plomo",
+      "url": "https://open.spotify.com/track/62mPzA5KOQ55LJEDa1TnUh"
+    },
+    {
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/1dcFZFF1T8BJlnxPNIpbdE"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4t N FrikK",
+          "url": "https://open.spotify.com/artist/3tpUngxYl0s3jkqFUQjDEJ"
+        },
+        {
+          "name": "Digitzz",
+          "url": "https://open.spotify.com/artist/4MCQBhrvHrufVxrKk5c5U3"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195970,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/6OUzYmWcUUWY8QHrLeK0u8"
+    },
+    {
+      "album": {
+        "name": "Moksi Family Rebirth Series Vol. 1: Nu Rave",
+        "url": "https://open.spotify.com/album/5Rv54Bkkse7VrxARn1Q6ll"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290434,
+      "name": "Ready To Kill",
+      "url": "https://open.spotify.com/track/0iCcrNC4cIXd43KAW2BW34"
+    },
+    {
+      "album": {
+        "name": "Grids EP",
+        "url": "https://open.spotify.com/album/37Izl9rkKHnHnPnXiSqIeJ"
+      },
+      "artists": [
+        {
+          "name": "Edlan",
+          "url": "https://open.spotify.com/artist/0kmYD4ijzuztxYkzJBbQQa"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315233,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/366P9vl9FbfTzvBZ5ja5Ck"
+    },
+    {
+      "album": {
+        "name": "Singshower (feat. Emy Perez)",
+        "url": "https://open.spotify.com/album/5w6nwff1JtZJZRMMf9W2NX"
+      },
+      "artists": [
+        {
+          "name": "Promise Land",
+          "url": "https://open.spotify.com/artist/0ktujbOLx1L1K8wj8o8dpJ"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173562,
+      "name": "Singshower (feat. Emy Perez)",
+      "url": "https://open.spotify.com/track/2w4YqVJNKAm2PpDLkxK0Zo"
+    },
+    {
+      "album": {
+        "name": "Slow Motion (feat. Emy Perez)",
+        "url": "https://open.spotify.com/album/2NaOWLlq2QIQ8GFDDS8erp"
+      },
+      "artists": [
+        {
+          "name": "Manuel Riva",
+          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226789,
+      "name": "Slow Motion (feat. Emy Perez)",
+      "url": "https://open.spotify.com/track/7tHB3Fd9rEOjinXVtU7OBH"
+    },
+    {
+      "album": {
+        "name": "Smoke Up (feat. Emy Perez)",
+        "url": "https://open.spotify.com/album/4SW9pEnVgQBBEeAnUBW8kV"
+      },
+      "artists": [
+        {
+          "name": "LOthief",
+          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
+        },
+        {
+          "name": "Diskover",
+          "url": "https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150562,
+      "name": "Smoke Up (feat. Emy Perez)",
+      "url": "https://open.spotify.com/track/3HC344e1WcJIdIVKXsMsgV"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/45joQYljjWbtQHKYgoFoQz"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213070,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/7BnARJhzGKD89USQRKGtbU"
+    },
+    {
+      "album": {
+        "name": "Les 5inq",
+        "url": "https://open.spotify.com/album/1UliRcbHEglMIQmsRnlspu"
+      },
+      "artists": [
+        {
+          "name": "Rouge",
+          "url": "https://open.spotify.com/artist/7oCPozHYsiILeiQlma8EEj"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185869,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/2etmwQR7SFXqZRteCNkxgQ"
+    },
+    {
+      "album": {
+        "name": "Ta Gucci",
+        "url": "https://open.spotify.com/album/4F1v8CEh2gq2HEWoT8ZMmB"
+      },
+      "artists": [
+        {
+          "name": "Golddiggers",
+          "url": "https://open.spotify.com/artist/5XOZGfeMFqgizyqfaUt4t1"
+        },
+        {
+          "name": "Matsoe Matsoe",
+          "url": "https://open.spotify.com/artist/6C8e75Sp96VE2cyEno7pKG"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146721,
+      "name": "Ta Gucci",
+      "url": "https://open.spotify.com/track/4yGZdI0NOegjWw2etshYex"
+    },
+    {
+      "album": {
+        "name": "That Saturday",
+        "url": "https://open.spotify.com/album/25aseBclBRyfOuUfiazxUO"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175469,
+      "name": "That Saturday",
+      "url": "https://open.spotify.com/track/0Teldg9fHAmWVIAAWkrnvd"
+    },
+    {
+      "album": {
+        "name": "Till The Sun Comes Down",
+        "url": "https://open.spotify.com/album/6dElwID4F5wWBRGxXQJXP0"
+      },
+      "artists": [
+        {
+          "name": "SOLR",
+          "url": "https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh"
+        },
+        {
+          "name": "The Trixx",
+          "url": "https://open.spotify.com/artist/3E3y0s1aMZIQYD9ExbitIT"
+        },
+        {
+          "name": "Emy",
+          "url": "https://open.spotify.com/artist/1VFBjda5d9AXc2QUweoi85"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234374,
+      "name": "Till The Sun Comes Down",
+      "url": "https://open.spotify.com/track/0lXHqJQ08GGhJMQN0WQEgd"
+    },
+    {
+      "album": {
+        "name": "Won't Stop",
+        "url": "https://open.spotify.com/album/4PhrSbIEkI3jgK2miwInX5"
+      },
+      "artists": [
+        {
+          "name": "Justin Mylo",
+          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+        },
+        {
+          "name": "Shaylen",
+          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198797,
+      "name": "Won't Stop",
+      "url": "https://open.spotify.com/track/5pEj5dgjKIqqr0yVINsR1P"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFEWwyyANPUmc"
 }

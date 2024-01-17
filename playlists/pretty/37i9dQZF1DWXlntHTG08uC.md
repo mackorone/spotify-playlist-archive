@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 ### [Sleep Frequency](https://open.spotify.com/playlist/37i9dQZF1DWXlntHTG08uC)
 
-> 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
+> Frecuencia solfeggio de 528 Hz, ritmos y música para un sueño profundo y noches de descanso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,449 likes - 155 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,953 likes - 155 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 90 | [Floating Through Solfeggio 528 Hz](https://open.spotify.com/track/5VGpVjeSr7r8w8uWIRQeef) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:10 |
 | 91 | [Borobudur](https://open.spotify.com/track/01tPWVf2QA5lchGfVtHvFI) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Borobudur](https://open.spotify.com/album/4TSZkThalBsuGfabncOxtY) | 2:21 |
 | 92 | [528 Hz Inner Peace](https://open.spotify.com/track/6C00maxhi2812pnderVXT4) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 1](https://open.spotify.com/album/35JMHwBhv21ehQgncjx2S4) | 3:04 |
-| 93 | [Manipura](https://open.spotify.com/track/0ckOIcIEpVucmnRPLXUMVX) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Solar Plexus](https://open.spotify.com/album/39xElyPS5xwUCLdozReOem) | 2:00 |
+| 93 | [Manipura](https://open.spotify.com/track/0kr9VuHRhE6GcCguZ1djgx) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Solar Plexus](https://open.spotify.com/album/2QzhtOdUdwmg8gEuHaDBEm) | 2:00 |
 | 94 | [528 Hz Quiet Mind](https://open.spotify.com/track/1XstVR60j8UZknphvF5f1E) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [528 Hz Quiet Mind](https://open.spotify.com/album/6jP4KV0E6u5efGvtQQd6Ch) | 2:59 |
 | 95 | [Asleep 528 Hz](https://open.spotify.com/track/0VARcJc27JQstL81X235Ac) | [Minna Doir](https://open.spotify.com/artist/1gTfaZF5b0RoFPNjc8dSEp) | [Asleep 528 Hz](https://open.spotify.com/album/0ikPwUtWz5QKSaGdPqQsML) | 3:00 |
 | 96 | [528 Hz \- Transformational Thoughts](https://open.spotify.com/track/0iq2UZSDbU9Pydhg9T1llq) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Transformational Thoughts](https://open.spotify.com/album/2RtnBSSV76vAhW7FyoDlDy) | 2:51 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 154 | [528 Hz \- Ethereal Sleep](https://open.spotify.com/track/3vtYExoYCVfURG0v770Lwc) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep \- Solfeggio](https://open.spotify.com/album/2lvIKEO0zvEuaV0tA9hcCj) | 2:02 |
 | 155 | [528 Hz Clarity Vibrations](https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Clarity Vibrations](https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC) | 2:12 |
 
-Snapshot ID: `MCw4NWIyYzUyMmMyZDlmZDVkNzFjOTVjYTljOGVjZGIyNmQ3NGM1OGEx`
+Snapshot ID: `MCwyNGZhNzk0MzVjNTU0MmYxOWZlODlhYmU2ZTA3YjA1MDY5MjExYzYx`

@@ -1,735 +1,2919 @@
 {
-  "2021-12-25": 4430,
-  "2021-12-26": 4430,
-  "2021-12-27": 4431,
-  "2021-12-28": 4431,
-  "2021-12-29": 4431,
-  "2021-12-30": 4430,
-  "2021-12-31": 4430,
-  "2022-01-01": 4430,
-  "2022-01-02": 4430,
-  "2022-01-03": 4429,
-  "2022-01-04": 4429,
-  "2022-01-05": 4428,
-  "2022-01-06": 4426,
-  "2022-01-07": 4424,
-  "2022-01-08": 4425,
-  "2022-01-09": 4425,
-  "2022-01-10": 4425,
-  "2022-01-11": 4425,
-  "2022-01-12": 4423,
-  "2022-01-13": 4423,
-  "2022-01-14": 4424,
-  "2022-01-15": 4424,
-  "2022-01-16": 4424,
-  "2022-01-17": 4422,
-  "2022-01-18": 4422,
-  "2022-01-19": 4422,
-  "2022-01-20": 4421,
-  "2022-01-21": 4422,
-  "2022-01-22": 4422,
-  "2022-01-23": 4422,
-  "2022-01-24": 4423,
-  "2022-01-25": 4421,
-  "2022-01-26": 4421,
-  "2022-01-27": 4421,
-  "2022-01-28": 4421,
-  "2022-01-29": 4421,
-  "2022-01-30": 4421,
-  "2022-01-31": 4421,
-  "2022-02-01": 4421,
-  "2022-02-02": 4418,
-  "2022-02-03": 4418,
-  "2022-02-04": 4418,
-  "2022-02-05": 4417,
-  "2022-02-06": 4418,
-  "2022-02-07": 4417,
-  "2022-02-08": 4416,
-  "2022-02-09": 4416,
-  "2022-02-10": 4416,
-  "2022-02-11": 4416,
-  "2022-02-12": 4415,
-  "2022-02-13": 4416,
-  "2022-02-14": 4416,
-  "2022-02-15": 4415,
-  "2022-02-16": 4415,
-  "2022-02-17": 4412,
-  "2022-02-18": 4412,
-  "2022-02-19": 4412,
-  "2022-02-20": 4411,
-  "2022-02-21": 4411,
-  "2022-02-22": 4411,
-  "2022-02-23": 4411,
-  "2022-02-24": 4410,
-  "2022-02-25": 4410,
-  "2022-02-26": 4409,
-  "2022-02-27": 4410,
-  "2022-02-28": 4410,
-  "2022-03-01": 4410,
-  "2022-03-02": 4411,
-  "2022-03-03": 4409,
-  "2022-03-04": 4410,
-  "2022-03-05": 4410,
-  "2022-03-06": 4409,
-  "2022-03-07": 4407,
-  "2022-03-08": 4407,
-  "2022-03-09": 4405,
-  "2022-03-10": 4404,
-  "2022-03-11": 4403,
-  "2022-03-12": 4403,
-  "2022-03-13": 4403,
-  "2022-03-14": 4403,
-  "2022-03-15": 4406,
-  "2022-03-16": 4406,
-  "2022-03-17": 4407,
-  "2022-03-18": 4406,
-  "2022-03-19": 4405,
-  "2022-03-20": 4405,
-  "2022-03-21": 4404,
-  "2022-03-22": 4405,
-  "2022-03-23": 4407,
-  "2022-03-24": 4406,
-  "2022-03-25": 4406,
-  "2022-03-26": 4406,
-  "2022-03-27": 4407,
-  "2022-03-28": 4407,
-  "2022-03-30": 4407,
-  "2022-03-31": 4407,
-  "2022-04-01": 4407,
-  "2022-04-02": 4406,
-  "2022-04-03": 4406,
-  "2022-04-04": 4408,
-  "2022-04-05": 4407,
-  "2022-04-06": 4407,
-  "2022-04-07": 4408,
-  "2022-04-08": 4408,
-  "2022-04-09": 4409,
-  "2022-04-10": 4410,
-  "2022-04-11": 4410,
-  "2022-04-12": 4410,
-  "2022-04-13": 4411,
-  "2022-04-14": 4411,
-  "2022-04-15": 4411,
-  "2022-04-16": 4411,
-  "2022-04-17": 4410,
-  "2022-04-18": 4410,
-  "2022-04-19": 4410,
-  "2022-04-20": 4411,
-  "2022-04-21": 4412,
-  "2022-04-22": 4412,
-  "2022-04-23": 4413,
-  "2022-04-24": 4412,
-  "2022-04-25": 4412,
-  "2022-04-26": 4412,
-  "2022-04-27": 4410,
-  "2022-04-28": 4409,
-  "2022-04-29": 4409,
-  "2022-04-30": 4409,
-  "2022-05-01": 4409,
-  "2022-05-02": 4409,
-  "2022-05-03": 4408,
-  "2022-05-04": 4408,
-  "2022-05-05": 4408,
-  "2022-05-06": 4408,
-  "2022-05-07": 4409,
-  "2022-05-08": 4409,
-  "2022-05-09": 4409,
-  "2022-05-10": 4410,
-  "2022-05-11": 4410,
-  "2022-05-12": 4409,
-  "2022-05-13": 4407,
-  "2022-05-14": 4407,
-  "2022-05-15": 4407,
-  "2022-05-16": 4406,
-  "2022-05-17": 4405,
-  "2022-05-18": 4405,
-  "2022-05-19": 4405,
-  "2022-05-20": 4406,
-  "2022-05-21": 4407,
-  "2022-05-22": 4407,
-  "2022-05-23": 4407,
-  "2022-05-24": 4409,
-  "2022-05-25": 4409,
-  "2022-05-26": 4409,
-  "2022-05-27": 4410,
-  "2022-05-28": 4411,
-  "2022-05-29": 4411,
-  "2022-05-30": 4411,
-  "2022-05-31": 4411,
-  "2022-06-01": 4412,
-  "2022-06-02": 4412,
-  "2022-06-03": 4412,
-  "2022-06-04": 4412,
-  "2022-06-05": 4412,
-  "2022-06-06": 4412,
-  "2022-06-07": 4412,
-  "2022-06-08": 4413,
-  "2022-06-09": 4413,
-  "2022-06-10": 4413,
-  "2022-06-11": 4415,
-  "2022-06-12": 4415,
-  "2022-06-13": 4418,
-  "2022-06-14": 4418,
-  "2022-06-15": 4418,
-  "2022-06-16": 4419,
-  "2022-06-17": 4419,
-  "2022-06-18": 4419,
-  "2022-06-19": 4421,
-  "2022-06-20": 4421,
-  "2022-06-21": 4420,
-  "2022-06-22": 4421,
-  "2022-06-23": 4421,
-  "2022-06-24": 4420,
-  "2022-06-25": 4420,
-  "2022-06-26": 4420,
-  "2022-06-27": 4420,
-  "2022-06-28": 4419,
-  "2022-06-29": 4419,
-  "2022-06-30": 4418,
-  "2022-07-01": 4418,
-  "2022-07-02": 4418,
-  "2022-07-03": 4419,
-  "2022-07-04": 4419,
-  "2022-07-05": 4419,
-  "2022-07-06": 4419,
-  "2022-07-07": 4418,
-  "2022-07-08": 4418,
-  "2022-07-09": 4418,
-  "2022-07-10": 4418,
-  "2022-07-11": 4419,
-  "2022-07-12": 4419,
-  "2022-07-13": 4419,
-  "2022-07-14": 4419,
-  "2022-07-15": 4419,
-  "2022-07-16": 4419,
-  "2022-07-17": 4418,
-  "2022-07-18": 4419,
-  "2022-07-19": 4419,
-  "2022-07-20": 4420,
-  "2022-07-21": 4420,
-  "2022-07-22": 4418,
-  "2022-07-23": 4418,
-  "2022-07-24": 4419,
-  "2022-07-25": 4419,
-  "2022-07-26": 4419,
-  "2022-07-27": 4419,
-  "2022-07-28": 4420,
-  "2022-07-29": 4420,
-  "2022-07-30": 4419,
-  "2022-07-31": 4419,
-  "2022-08-01": 4419,
-  "2022-08-02": 4418,
-  "2022-08-03": 4418,
-  "2022-08-04": 4418,
-  "2022-08-05": 4418,
-  "2022-08-06": 4417,
-  "2022-08-07": 4416,
-  "2022-08-08": 4415,
-  "2022-08-09": 4414,
-  "2022-08-10": 4414,
-  "2022-08-11": 4414,
-  "2022-08-12": 4413,
-  "2022-08-13": 4413,
-  "2022-08-14": 4413,
-  "2022-08-15": 4413,
-  "2022-08-16": 4413,
-  "2022-08-17": 4413,
-  "2022-08-18": 4413,
-  "2022-08-19": 4413,
-  "2022-08-20": 4414,
-  "2022-08-21": 4414,
-  "2022-08-22": 4415,
-  "2022-08-23": 4415,
-  "2022-08-24": 4415,
-  "2022-08-25": 4415,
-  "2022-08-26": 4415,
-  "2022-08-27": 4414,
-  "2022-08-28": 4414,
-  "2022-08-29": 4413,
-  "2022-08-30": 4412,
-  "2022-08-31": 4411,
-  "2022-09-01": 4411,
-  "2022-09-02": 4411,
-  "2022-09-03": 4410,
-  "2022-09-04": 4409,
-  "2022-09-05": 4409,
-  "2022-09-06": 4409,
-  "2022-09-07": 4408,
-  "2022-09-09": 4408,
-  "2022-09-10": 4407,
-  "2022-09-11": 4407,
-  "2022-09-12": 4407,
-  "2022-09-13": 4407,
-  "2022-09-15": 4407,
-  "2022-09-16": 4407,
-  "2022-09-17": 4407,
-  "2022-09-18": 4408,
-  "2022-09-19": 4408,
-  "2022-09-20": 4407,
-  "2022-09-21": 4406,
-  "2022-09-22": 4406,
-  "2022-09-23": 4405,
-  "2022-09-24": 4405,
-  "2022-09-25": 4405,
-  "2022-09-26": 4405,
-  "2022-09-27": 4404,
-  "2022-09-28": 4404,
-  "2022-09-29": 4404,
-  "2022-09-30": 4404,
-  "2022-10-01": 4404,
-  "2022-10-02": 4401,
-  "2022-10-03": 4401,
-  "2022-10-04": 4400,
-  "2022-10-05": 4400,
-  "2022-10-06": 4400,
-  "2022-10-07": 4400,
-  "2022-10-08": 4399,
-  "2022-10-09": 4399,
-  "2022-10-10": 4399,
-  "2022-10-11": 4399,
-  "2022-10-12": 4399,
-  "2022-10-13": 4398,
-  "2022-10-14": 4398,
-  "2022-10-15": 4398,
-  "2022-10-16": 4398,
-  "2022-10-17": 4398,
-  "2022-10-18": 4398,
-  "2022-10-19": 4400,
-  "2022-10-20": 4400,
-  "2022-10-21": 4400,
-  "2022-10-22": 4400,
-  "2022-10-23": 4400,
-  "2022-10-24": 4400,
-  "2022-10-25": 4402,
-  "2022-10-26": 4402,
-  "2022-10-27": 4402,
-  "2022-10-28": 4402,
-  "2022-10-29": 4402,
-  "2022-10-30": 4401,
-  "2022-10-31": 4401,
-  "2022-11-01": 4401,
-  "2022-11-02": 4401,
-  "2022-11-03": 4401,
-  "2022-11-04": 4402,
-  "2022-11-05": 4401,
-  "2022-11-06": 4402,
-  "2022-11-07": 4401,
-  "2022-11-08": 4402,
-  "2022-11-09": 4402,
-  "2022-11-10": 4408,
-  "2022-11-11": 4409,
-  "2022-11-12": 4408,
-  "2022-11-13": 4408,
-  "2022-11-14": 4408,
-  "2022-11-15": 4409,
-  "2022-11-16": 4409,
-  "2022-11-17": 4408,
-  "2022-11-18": 4408,
-  "2022-11-19": 4408,
-  "2022-11-20": 4402,
-  "2022-11-21": 4401,
-  "2022-11-22": 4400,
-  "2022-11-23": 4400,
-  "2022-11-24": 4400,
-  "2022-11-25": 4400,
-  "2022-11-26": 4400,
-  "2022-11-27": 4399,
-  "2022-11-28": 4399,
-  "2022-11-29": 4399,
-  "2022-11-30": 4399,
-  "2022-12-01": 4398,
-  "2022-12-02": 4397,
-  "2022-12-03": 4397,
-  "2022-12-04": 4398,
-  "2022-12-05": 4398,
-  "2022-12-06": 4396,
-  "2022-12-07": 4397,
-  "2022-12-08": 4397,
-  "2022-12-09": 4397,
-  "2022-12-10": 4397,
-  "2022-12-11": 4397,
-  "2022-12-12": 4397,
-  "2022-12-13": 4397,
-  "2022-12-14": 4398,
-  "2022-12-15": 4397,
-  "2022-12-16": 4398,
-  "2022-12-17": 4399,
-  "2022-12-18": 4398,
-  "2022-12-19": 4398,
-  "2022-12-20": 4398,
-  "2022-12-21": 4398,
-  "2022-12-22": 4396,
-  "2022-12-24": 4396,
-  "2022-12-25": 4395,
-  "2022-12-26": 4395,
-  "2022-12-27": 4395,
-  "2022-12-28": 4395,
-  "2022-12-29": 4395,
-  "2022-12-30": 4394,
-  "2022-12-31": 4393,
-  "2023-01-01": 4392,
-  "2023-01-02": 4392,
-  "2023-01-03": 4391,
-  "2023-01-04": 4391,
-  "2023-01-05": 4391,
-  "2023-01-06": 4391,
-  "2023-01-07": 4391,
-  "2023-01-08": 4390,
-  "2023-01-09": 4389,
-  "2023-01-10": 4389,
-  "2023-01-11": 4389,
-  "2023-01-12": 4390,
-  "2023-01-13": 4390,
-  "2023-01-14": 4388,
-  "2023-01-15": 4388,
-  "2023-01-16": 4388,
-  "2023-01-17": 4388,
-  "2023-01-18": 4386,
-  "2023-01-19": 4386,
-  "2023-01-20": 4387,
-  "2023-01-21": 4387,
-  "2023-01-22": 4387,
-  "2023-01-23": 4387,
-  "2023-01-24": 4387,
-  "2023-01-25": 4387,
-  "2023-01-26": 4387,
-  "2023-01-27": 4386,
-  "2023-01-28": 4388,
-  "2023-01-29": 4390,
-  "2023-01-30": 4388,
-  "2023-01-31": 4388,
-  "2023-02-01": 4388,
-  "2023-02-02": 4389,
-  "2023-02-03": 4389,
-  "2023-02-04": 4388,
-  "2023-02-05": 4388,
-  "2023-02-06": 4389,
-  "2023-02-07": 4390,
-  "2023-02-08": 4390,
-  "2023-02-09": 4390,
-  "2023-02-10": 4390,
-  "2023-02-11": 4390,
-  "2023-02-12": 4389,
-  "2023-02-13": 4389,
-  "2023-02-14": 4389,
-  "2023-02-15": 4389,
-  "2023-02-16": 4389,
-  "2023-02-17": 4389,
-  "2023-02-18": 4389,
-  "2023-02-19": 4390,
-  "2023-02-20": 4390,
-  "2023-02-21": 4390,
-  "2023-02-22": 4390,
-  "2023-02-23": 4391,
-  "2023-02-24": 4389,
-  "2023-02-25": 4388,
-  "2023-02-26": 4390,
-  "2023-02-27": 4389,
-  "2023-02-28": 4389,
-  "2023-03-01": 4390,
-  "2023-03-02": 4391,
-  "2023-03-03": 4391,
-  "2023-03-04": 4391,
-  "2023-03-05": 4392,
-  "2023-03-06": 4392,
-  "2023-03-07": 4391,
-  "2023-03-08": 4391,
-  "2023-03-09": 4390,
-  "2023-03-10": 4390,
-  "2023-03-11": 4389,
-  "2023-03-12": 4389,
-  "2023-03-13": 4389,
-  "2023-03-14": 4389,
-  "2023-03-15": 4389,
-  "2023-03-16": 4389,
-  "2023-03-17": 4389,
-  "2023-03-18": 4387,
-  "2023-03-19": 4387,
-  "2023-03-20": 4388,
-  "2023-03-21": 4388,
-  "2023-03-22": 4390,
-  "2023-03-23": 4391,
-  "2023-03-24": 4391,
-  "2023-03-25": 4392,
-  "2023-03-26": 4393,
-  "2023-03-27": 4393,
-  "2023-03-28": 4392,
-  "2023-03-29": 4393,
-  "2023-03-30": 4392,
-  "2023-03-31": 4392,
-  "2023-04-01": 4392,
-  "2023-04-02": 4392,
-  "2023-04-03": 4393,
-  "2023-04-04": 4392,
-  "2023-04-05": 4394,
-  "2023-04-06": 4394,
-  "2023-04-07": 4393,
-  "2023-04-09": 4394,
-  "2023-04-10": 4393,
-  "2023-04-11": 4396,
-  "2023-04-12": 4396,
-  "2023-04-13": 4397,
-  "2023-04-14": 4398,
-  "2023-04-15": 4399,
-  "2023-04-16": 4399,
-  "2023-04-17": 4399,
-  "2023-04-18": 4399,
-  "2023-04-19": 4400,
-  "2023-04-20": 4399,
-  "2023-04-21": 4398,
-  "2023-04-22": 4397,
-  "2023-04-23": 4397,
-  "2023-04-24": 4398,
-  "2023-04-25": 4398,
-  "2023-04-26": 4399,
-  "2023-04-27": 4399,
-  "2023-04-28": 4401,
-  "2023-04-29": 4403,
-  "2023-04-30": 4403,
-  "2023-05-01": 4403,
-  "2023-05-02": 4404,
-  "2023-05-03": 4404,
-  "2023-05-04": 4406,
-  "2023-05-05": 4405,
-  "2023-05-06": 4405,
-  "2023-05-07": 4406,
-  "2023-05-08": 4406,
-  "2023-05-09": 4407,
-  "2023-05-10": 4406,
-  "2023-05-11": 4406,
-  "2023-05-12": 4407,
-  "2023-05-13": 4407,
-  "2023-05-14": 4408,
-  "2023-05-15": 4410,
-  "2023-05-16": 4410,
-  "2023-05-17": 4411,
-  "2023-05-18": 4412,
-  "2023-05-19": 4413,
-  "2023-05-20": 4415,
-  "2023-05-21": 4415,
-  "2023-05-22": 4415,
-  "2023-05-23": 4416,
-  "2023-05-24": 4415,
-  "2023-05-25": 4415,
-  "2023-05-26": 4415,
-  "2023-05-27": 4415,
-  "2023-05-28": 4416,
-  "2023-05-29": 4416,
-  "2023-05-30": 4418,
-  "2023-05-31": 4419,
-  "2023-06-01": 4420,
-  "2023-06-02": 4420,
-  "2023-06-03": 4420,
-  "2023-06-04": 4422,
-  "2023-06-05": 4422,
-  "2023-06-06": 4423,
-  "2023-06-07": 4424,
-  "2023-06-08": 4424,
-  "2023-06-09": 4423,
-  "2023-06-10": 4423,
-  "2023-06-11": 4423,
-  "2023-06-12": 4424,
-  "2023-06-13": 4424,
-  "2023-06-14": 4422,
-  "2023-06-15": 4422,
-  "2023-06-16": 4422,
-  "2023-06-17": 4422,
-  "2023-06-18": 4422,
-  "2023-06-19": 4422,
-  "2023-06-20": 4422,
-  "2023-06-21": 4423,
-  "2023-06-22": 4423,
-  "2023-06-23": 4423,
-  "2023-06-24": 4425,
-  "2023-06-25": 4425,
-  "2023-06-26": 4425,
-  "2023-06-27": 4427,
-  "2023-06-28": 4427,
-  "2023-06-29": 4426,
-  "2023-06-30": 4427,
-  "2023-07-01": 4428,
-  "2023-07-02": 4428,
-  "2023-07-03": 4433,
-  "2023-07-04": 4434,
-  "2023-07-05": 4434,
-  "2023-07-06": 4435,
-  "2023-07-07": 4435,
-  "2023-07-08": 4435,
-  "2023-07-09": 4436,
-  "2023-07-10": 4436,
-  "2023-07-11": 4436,
-  "2023-07-12": 4436,
-  "2023-07-13": 4436,
-  "2023-07-14": 4439,
-  "2023-07-15": 4439,
-  "2023-07-16": 4439,
-  "2023-07-17": 4442,
-  "2023-07-18": 4441,
-  "2023-07-19": 4441,
-  "2023-07-20": 4441,
-  "2023-07-21": 4440,
-  "2023-07-22": 4440,
-  "2023-07-23": 4440,
-  "2023-07-24": 4440,
-  "2023-07-25": 4441,
-  "2023-07-26": 4441,
-  "2023-07-27": 4441,
-  "2023-07-28": 4441,
-  "2023-07-29": 4439,
-  "2023-07-30": 4439,
-  "2023-07-31": 4441,
-  "2023-08-01": 4442,
-  "2023-08-02": 4441,
-  "2023-08-03": 4441,
-  "2023-08-04": 4441,
-  "2023-08-05": 4441,
-  "2023-08-06": 4444,
-  "2023-08-07": 4444,
-  "2023-08-08": 4444,
-  "2023-08-09": 4447,
-  "2023-08-10": 4447,
-  "2023-08-11": 4448,
-  "2023-08-12": 4448,
-  "2023-08-13": 4448,
-  "2023-08-14": 4448,
-  "2023-08-15": 4448,
-  "2023-08-16": 4448,
-  "2023-08-17": 4448,
-  "2023-08-18": 4448,
-  "2023-08-19": 4448,
-  "2023-08-20": 4447,
-  "2023-08-21": 4447,
-  "2023-08-22": 4447,
-  "2023-08-23": 4447,
-  "2023-08-24": 4447,
-  "2023-08-25": 4447,
-  "2023-08-26": 4447,
-  "2023-08-27": 4447,
-  "2023-08-28": 4446,
-  "2023-08-29": 4446,
-  "2023-08-30": 4446,
-  "2023-08-31": 4446,
-  "2023-09-01": 4446,
-  "2023-09-02": 4446,
-  "2023-09-03": 4446,
-  "2023-09-04": 4446,
-  "2023-09-05": 4446,
-  "2023-09-06": 4446,
-  "2023-09-07": 4446,
-  "2023-09-08": 4446,
-  "2023-09-09": 4446,
-  "2023-09-10": 4446,
-  "2023-09-11": 4446,
-  "2023-09-12": 4446,
-  "2023-09-13": 4446,
-  "2023-09-14": 4446,
-  "2023-09-15": 4446,
-  "2023-09-16": 4446,
-  "2023-09-17": 4446,
-  "2023-09-18": 4446,
-  "2023-09-19": 4446,
-  "2023-09-20": 4446,
-  "2023-09-21": 4446,
-  "2023-09-22": 4446,
-  "2023-09-23": 4446,
-  "2023-09-24": 4446,
-  "2023-09-25": 4446,
-  "2023-09-26": 4446,
-  "2023-09-27": 4446,
-  "2023-09-28": 4446,
-  "2023-09-29": 4446,
-  "2023-09-30": 4446,
-  "2023-10-01": 4446,
-  "2023-10-02": 4446,
-  "2023-10-03": 4446,
-  "2023-10-04": 4446,
-  "2023-10-05": 4446,
-  "2023-10-06": 4446,
-  "2023-10-07": 4446,
-  "2023-10-08": 4446,
-  "2023-10-09": 4446,
-  "2023-10-10": 4446,
-  "2023-10-11": 4446,
-  "2023-10-12": 4446,
-  "2023-10-13": 4446,
-  "2023-10-14": 4446,
-  "2023-10-15": 4446,
-  "2023-10-16": 4446,
-  "2023-10-17": 4446,
-  "2023-10-18": 4446,
-  "2023-10-19": 4446,
-  "2023-10-20": 4446,
-  "2023-10-21": 4446,
-  "2023-10-22": 4446,
-  "2023-10-23": 4446,
-  "2023-10-24": 4446,
-  "2023-10-25": 4446,
-  "2023-10-26": 4446,
-  "2023-10-27": 4446,
-  "2023-10-28": 4446,
-  "2023-10-29": 4446,
-  "2023-10-30": 4446,
-  "2023-10-31": 4446,
-  "2023-11-01": 4446,
-  "2023-11-02": 4446,
-  "2023-11-03": 4446,
-  "2023-11-04": 4446,
-  "2023-11-05": 4446,
-  "2023-11-06": 4446,
-  "2023-11-07": 4446,
-  "2023-11-08": 4446,
-  "2023-11-09": 4446,
-  "2023-11-10": 4446,
-  "2023-11-11": 4446,
-  "2023-11-12": 4446,
-  "2023-11-13": 4446,
-  "2023-11-14": 4446,
-  "2023-11-15": 4446,
-  "2023-11-16": 4446,
-  "2023-11-17": 4446,
-  "2023-11-18": 4446,
-  "2023-11-19": 4446,
-  "2023-11-20": 4446,
-  "2023-11-21": 4446,
-  "2023-11-22": 4446,
-  "2023-11-23": 4446,
-  "2023-11-24": 4446,
-  "2023-11-25": 4446,
-  "2023-11-26": 4446,
-  "2023-11-27": 4446,
-  "2023-11-28": 4446,
-  "2023-11-29": 4446,
-  "2023-11-30": 4446,
-  "2023-12-01": 4446,
-  "2023-12-02": 4446,
-  "2023-12-03": 4446,
-  "2023-12-04": 4446,
-  "2023-12-05": 4446,
-  "2023-12-06": 4446,
-  "2023-12-07": 4446,
-  "2023-12-08": 4446,
-  "2023-12-09": 4446,
-  "2023-12-10": 4446,
-  "2023-12-11": 4446,
-  "2023-12-12": 4446,
-  "2023-12-13": 4446,
-  "2023-12-14": 4422,
-  "2023-12-15": 4421,
-  "2023-12-16": 4421,
-  "2023-12-17": 4421,
-  "2023-12-18": 4421,
-  "2023-12-19": 4420,
-  "2023-12-20": 4421,
-  "2023-12-21": 4421,
-  "2023-12-22": 4421,
-  "2023-12-23": 4421,
-  "2023-12-24": 4421,
-  "2023-12-25": 4421,
-  "2023-12-26": 4421,
-  "2023-12-27": 4420,
-  "2023-12-30": 4419,
-  "2023-12-31": 4419,
-  "2024-01-01": 4419,
-  "2024-01-02": 4419,
-  "2024-01-03": 4419
+  "2024-01-17": 4412,
+  "date_first_scraped": "2021-12-21",
+  "description": "Salt in the air... Sand in my hair... Rooftop sunsets... Celebrate a perfect summer day with hours of coastal acoustic, live versions, and chill hits. | Image: <a href=\"spotify:artist:24Bq9F6DJfzTaqgmoxT5vm\">Corey Harper</a>",
+  "name": "Summertime Vibes",
+  "tracks": [
+    {
+      "album": {
+        "name": "Hear The Bells",
+        "url": "https://open.spotify.com/album/5TacRpGPW76MMtfXge12OA"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278346,
+      "name": "A Thousand Miles (Live Acoustic)",
+      "url": "https://open.spotify.com/track/6t9smWoGTgUF2LVSQuJK5P"
+    },
+    {
+      "album": {
+        "name": "American Oxygen",
+        "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305093,
+      "name": "American Oxygen",
+      "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
+    },
+    {
+      "album": {
+        "name": "Under The Table And Dreaming",
+        "url": "https://open.spotify.com/album/3eAA4fvTVttgUlE43vRVMq"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270760,
+      "name": "Ants Marching",
+      "url": "https://open.spotify.com/track/3HL9dtbUo5mJwXQyaEUESR"
+    },
+    {
+      "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/7sQOtKcwp36OEtA14XhoRS"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2016-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216200,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/1zxZ8lz2mJspMvRrEd9sWT"
+    },
+    {
+      "album": {
+        "name": "Apologize / See You Again (Acoustic) [Deluxe Single]",
+        "url": "https://open.spotify.com/album/1JJftqO5YmyYuXXAvfIf1A"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151880,
+      "name": "Apologize (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6QT53ohGZeLGoYktBPRePD"
+    },
+    {
+      "album": {
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/1RMfz6rbIyrQYChfcCoiJ4"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "As Long As You Love Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/49rJsV4jSGjCLoks1fvzhP"
+    },
+    {
+      "album": {
+        "name": "Mignonette",
+        "url": "https://open.spotify.com/album/6HyngmlZ9SPrTBoYdsNiyf"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "At the Beach",
+      "url": "https://open.spotify.com/track/4W7kSD4CCC8cpjj9CVWj6E"
+    },
+    {
+      "album": {
+        "name": "Last Smoke Before The Snowstorm",
+        "url": "https://open.spotify.com/album/2BMReG9Ip2A6ZYXwnOfYXr"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Francis Leftwich",
+          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173080,
+      "name": "Atlas Hands",
+      "url": "https://open.spotify.com/track/6prHv5l1oTa7Vtgv1AWFTW"
+    },
+    {
+      "album": {
+        "name": "Back to the Earth",
+        "url": "https://open.spotify.com/album/2ZyxXs5j27wgM5UlVvRkqk"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "Back to the Earth",
+      "url": "https://open.spotify.com/track/0oR4SzaEYWNCIj6uEQQrbA"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
+    },
+    {
+      "album": {
+        "name": "Wanted on Voyage",
+        "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1yJZwBqTyGTB7mz8nZyiel"
+    },
+    {
+      "album": {
+        "name": "Duncan Sheik",
+        "url": "https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf"
+      },
+      "artists": [
+        {
+          "name": "Duncan Sheik",
+          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "Barely Breathing",
+      "url": "https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS"
+    },
+    {
+      "album": {
+        "name": "Lost And Gone Forever",
+        "url": "https://open.spotify.com/album/0IbyzNtPkB8p7uKmvyrC63"
+      },
+      "artists": [
+        {
+          "name": "Guster",
+          "url": "https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190480,
+      "name": "Barrel Of A Gun",
+      "url": "https://open.spotify.com/track/1M8wbxGt72j4nyD118oMuQ"
+    },
+    {
+      "album": {
+        "name": "Four Feet in the Forest",
+        "url": "https://open.spotify.com/album/6tb5Y6m0GxlqlcxljgR9KW"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335833,
+      "name": "Better off (The Captain Planet Song)",
+      "url": "https://open.spotify.com/track/2NGM3UajMjZgSTibvahWWZ"
+    },
+    {
+      "album": {
+        "name": "Grand National",
+        "url": "https://open.spotify.com/album/5uVgEgoBhThmu7Pse158wW"
+      },
+      "artists": [
+        {
+          "name": "John Butler Trio",
+          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207599,
+      "name": "Better Than",
+      "url": "https://open.spotify.com/track/04y7iJXobJhXuxLhC91LAd"
+    },
+    {
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/3j7z8hX2MtfUcv6Ebfgs45"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6KzL8s8GdRbd5Mal8yLz6R"
+    },
+    {
+      "album": {
+        "name": "Black Magic (Remixes)",
+        "url": "https://open.spotify.com/album/079x4fHBdbPtroJCQ8ILrE"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Black Magic - Acoustic",
+      "url": "https://open.spotify.com/track/7KZu6Rbeggzw3RbfiztAwJ"
+    },
+    {
+      "album": {
+        "name": "8Tracks, Vol. 2: Break the Internet",
+        "url": "https://open.spotify.com/album/2oQPxXisb6ym6p7NzNXEkl"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2016-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Break the Internet - 8Track",
+      "url": "https://open.spotify.com/track/1pUDc0dgxhY3JglGE9ZJvc"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/4VQu1ooCteGDynSZYUgvT4"
+    },
+    {
+      "album": {
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "Bright",
+      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
+    },
+    {
+      "album": {
+        "name": "The Clarence Greenwood Recordings",
+        "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Bullet and a Target",
+      "url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy"
+    },
+    {
+      "album": {
+        "name": "The Guest (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
+      },
+      "artists": [
+        {
+          "name": "Phantom Planet",
+          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "California - Tchad Blake Mix",
+      "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
+    },
+    {
+      "album": {
+        "name": "California Sun - Live at the Troubadour",
+        "url": "https://open.spotify.com/album/64eZkiz0X8IfR6elk0FKcr"
+      },
+      "artists": [
+        {
+          "name": "Corey Harper",
+          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247483,
+      "name": "California Sun - Live at the Troubadour",
+      "url": "https://open.spotify.com/track/5KM31eTEcsMPZK2Yzuw8rC"
+    },
+    {
+      "album": {
+        "name": "The Con",
+        "url": "https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141493,
+      "name": "Call It Off",
+      "url": "https://open.spotify.com/track/0Bo7grcJ9Api986n2RNcA8"
+    },
+    {
+      "album": {
+        "name": "Can't Stop The Feeling",
+        "url": "https://open.spotify.com/album/0SCOwnvbbVnw1uASXAZ1vx"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cross",
+          "url": "https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180989,
+      "name": "Can't Stop The Feeling",
+      "url": "https://open.spotify.com/track/0TENvIzDId3rFAivFQjiee"
+    },
+    {
+      "album": {
+        "name": "Music From The O.C. Mix 4",
+        "url": "https://open.spotify.com/album/0UGpMXZjVZQnOcO1j5NVCn"
+      },
+      "artists": [
+        {
+          "name": "Matt Pond PA",
+          "url": "https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432053,
+      "name": "Champagne Supernova",
+      "url": "https://open.spotify.com/track/1IsomfENySRECnzF6IdhUF"
+    },
+    {
+      "album": {
+        "name": "Closer To The Sun",
+        "url": "https://open.spotify.com/album/2ie5b9gQwHM40WM27VCV0b"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145560,
+      "name": "Closer To The Sun",
+      "url": "https://open.spotify.com/track/17xbKoCF5iDcSb9usFt2yO"
+    },
+    {
+      "album": {
+        "name": "G. Love And Special Sauce",
+        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153893,
+      "name": "Cold Beverage",
+      "url": "https://open.spotify.com/track/53QFfxB7PbI8YxfAElIdbZ"
+    },
+    {
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "album": {
+        "name": "White Moth",
+        "url": "https://open.spotify.com/album/4ivxr4pHrRXQlPSOeumMzB"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412226,
+      "name": "Come Let Go",
+      "url": "https://open.spotify.com/track/7kZ7sWTbtD3tEViVevxB8D"
+    },
+    {
+      "album": {
+        "name": "Some Mad Hope",
+        "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "Come On Get Higher",
+      "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
+    },
+    {
+      "album": {
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253546,
+      "name": "Comes And Goes (In Waves)",
+      "url": "https://open.spotify.com/track/2KhS0LVOw9ralhfbcIi7vL"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions (Live from Spotify NYC)",
+        "url": "https://open.spotify.com/album/357AFOYvuAzTKAVCKfMqV4"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193473,
+      "name": "Confident - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/69DAK6Dk2aa2uk5KdaPYC3"
+    },
+    {
+      "album": {
+        "name": "Cool Kids",
+        "url": "https://open.spotify.com/album/78IZNqs80hIMFNXo2RpkNj"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "Cool Kids - Acoustic",
+      "url": "https://open.spotify.com/track/5a4nevquuaHTv6FqyqwMik"
+    },
+    {
+      "album": {
+        "name": "Cool Kids/Riptide (Originally Performed by Echosmith and Vance Joy)",
+        "url": "https://open.spotify.com/album/4TyGmwiWLbl9sFF8raebWS"
+      },
+      "artists": [
+        {
+          "name": "Less Is More",
+          "url": "https://open.spotify.com/artist/2scCthfq8kpZS50gb8koTD"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133241,
+      "name": "Cool Kids/Riptide (Originally Performed by Echosmith and Vance Joy)",
+      "url": "https://open.spotify.com/track/5jtbbkTh7x4UeMVAvF2KaI"
+    },
+    {
+      "album": {
+        "name": "Cups",
+        "url": "https://open.spotify.com/album/3qwqpWxSkd8Mi2SjeWDHSh"
+      },
+      "artists": [
+        {
+          "name": "Lulu & The Lampshades",
+          "url": "https://open.spotify.com/artist/3JJAUqYAGTDFovH8FasVxl"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Cups",
+      "url": "https://open.spotify.com/track/4eiWWDbWczW2GLqg6Lyg48"
+    },
+    {
+      "album": {
+        "name": "Shut Up And Dance (Acoustic)",
+        "url": "https://open.spotify.com/album/7gVpldI2kuvncnrLtiOcDl"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Different Colors - Live Acoustic - 2015",
+      "url": "https://open.spotify.com/track/4rUzudRmiLHxC4cOQnyEKp"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257923,
+      "name": "Don't You Worry Child - Acoustic Version",
+      "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
+    },
+    {
+      "album": {
+        "name": "Drag Me Down / As Long As You Love Me",
+        "url": "https://open.spotify.com/album/3YymyiPBNOv6MW7TbDv98b"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206324,
+      "name": "Drag Me Down / As Long As You Love Me",
+      "url": "https://open.spotify.com/track/7B0hVrD5iwkiQhHSjUjSrz"
+    },
+    {
+      "album": {
+        "name": "Surf's Up Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/7sV5z1wmFC1Bpy8TVEPKwq"
+      },
+      "artists": [
+        {
+          "name": "Brandon Boyd",
+          "url": "https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO"
+        },
+        {
+          "name": "Michael Einziger",
+          "url": "https://open.spotify.com/artist/4M1N7cIFTN8S1Y53g3Beqi"
+        },
+        {
+          "name": "Jos\u00e9 Pasillas II",
+          "url": "https://open.spotify.com/artist/23ksFgttA3vHJYqNrgkNNH"
+        },
+        {
+          "name": "Alex Katunich",
+          "url": "https://open.spotify.com/artist/4eGgDqtslgXY98eNm3gXHm"
+        },
+        {
+          "name": "Chris Kilmore",
+          "url": "https://open.spotify.com/artist/4EE3IyRlPD096DDdtZt91L"
+        },
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232960,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3KadRk2d0zQlkdhxNVfrTo"
+    },
+    {
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "album": {
+        "name": "God Willin' & The Creek Don't Rise",
+        "url": "https://open.spotify.com/album/7uDlfwN1xFTRvTffXYPHM9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "The Pariah Dogs",
+          "url": "https://open.spotify.com/artist/5laLE4VUFPuDJkkem28T1b"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231320,
+      "name": "For the Summer (with The Pariah Dogs)",
+      "url": "https://open.spotify.com/track/09ZSm0xj0pknpfywcbBNkP"
+    },
+    {
+      "album": {
+        "name": "Donavon Frankenreiter",
+        "url": "https://open.spotify.com/album/63m9O71CQBiSWJYRWBImCE"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148600,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4oiPC90DjIQXXgMMgbHK4G"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0ek6Pb64QTm8DwCVIIdhuP"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0EXVbPhUaHZgW1jOLjUkGt"
+    },
+    {
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263573,
+      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
+    },
+    {
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+    },
+    {
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/1ocPEoqSFKqqpZB9AaiLIL"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/20daJNRk63gyzXTcZW5dwU"
+    },
+    {
+      "album": {
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249535,
+      "name": "Grenade - Acoustic",
+      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+    },
+    {
+      "album": {
+        "name": "Us Against The Crown",
+        "url": "https://open.spotify.com/album/1xodcHGCbzS48ETE2958cv"
+      },
+      "artists": [
+        {
+          "name": "Chadwick Stokes",
+          "url": "https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM"
+        },
+        {
+          "name": "State Radio",
+          "url": "https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343613,
+      "name": "Gunship Politico",
+      "url": "https://open.spotify.com/track/0Bvlws8s097hBzZpQXyPlv"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/48uCT6hN46rbN5aWjurC62"
+      },
+      "artists": [
+        {
+          "name": "Duncan Sheik",
+          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "Half-Life",
+      "url": "https://open.spotify.com/track/4SwcSQIRh7M1dmzyYgCAHs"
+    },
+    {
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/7M6XGBvDi3smtRuPUkrqsG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/11X4Gw3T4hoktVruLgTnm1"
+    },
+    {
+      "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/3VThTmMrzPDzNFSnzAUxqC"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/0yKK9to5WLMT35x8dRU1W5"
+    },
+    {
+      "album": {
+        "name": "Save Me, San Francisco",
+        "url": "https://open.spotify.com/album/7abzxOHgW8mcecRhBzlPnw"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/24YvUQnuPL8gObCfSnAobH"
+    },
+    {
+      "album": {
+        "name": "Hide - Single",
+        "url": "https://open.spotify.com/album/3jpKhWeKmJ57cG0eiv6wES"
+      },
+      "artists": [
+        {
+          "name": "Desiree Dawson",
+          "url": "https://open.spotify.com/artist/1BeMe0yy4Sqo29rnqkZ1tc"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/0SKt8TBUIBnRX5G8dwZscX"
+    },
+    {
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243280,
+      "name": "High",
+      "url": "https://open.spotify.com/track/13yEuYLJYxPCLJR0KNOqpk"
+    },
+    {
+      "album": {
+        "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
+        "url": "https://open.spotify.com/album/2EQBKTePJXgRBkQNk6LWf5"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304053,
+      "name": "High Tide Or Low Tide",
+      "url": "https://open.spotify.com/track/25s9gQB6i58zmOZdgdcTAQ"
+    },
+    {
+      "album": {
+        "name": "Hold Back The River",
+        "url": "https://open.spotify.com/album/05EJMq1Nm9rsfCA2KnNp58"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239520,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/1WqjYWH4BbGRLoVxQU3XS1"
+    },
+    {
+      "album": {
+        "name": "The Great Unknown",
+        "url": "https://open.spotify.com/album/49n3sqv2vCz36QNrO41yKr"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215120,
+      "name": "Hold on Forever",
+      "url": "https://open.spotify.com/track/2yARskwKoNDTbL61y3qqjy"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/79nGvSoOQr3WHK3Y96Qt0u"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+    },
+    {
+      "album": {
+        "name": "Hotline Bling",
+        "url": "https://open.spotify.com/album/4GI5rLey0S6OClEc7YAmV8"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Luke Preston",
+          "url": "https://open.spotify.com/artist/5q3F9c1HpdCd8WqSZiQM27"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207022,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/3iguYbB1S0h7cZQhfHFF8o"
+    },
+    {
+      "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/7fV0N8X3lHnKNxqphjPVjn"
+      },
+      "artists": [
+        {
+          "name": "Rod Ladgrove",
+          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159906,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/4KI5cdn58QtiqXovqU3B53"
+    },
+    {
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/6NcrH2lovDeIKiAdUTE1xJ"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181733,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/5F6x5MH7s8nG3Cd2Y4WZgo"
+    },
+    {
+      "album": {
+        "name": "The Hobbit - The Desolation Of Smaug (Original Motion Picture Soundtrack / Special Edition)",
+        "url": "https://open.spotify.com/album/2nsRpsb5aeOhNEWV1MoiHB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300840,
+      "name": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"",
+      "url": "https://open.spotify.com/track/3B7udSGy2PfgoCniMSb523"
+    },
+    {
+      "album": {
+        "name": "I Took a Pill in Ibiza, Youth (Acoustic Mashup) [feat. Taylor Leigh]",
+        "url": "https://open.spotify.com/album/2wkEfWat2Q7nn6lZPrhIRm"
+      },
+      "artists": [
+        {
+          "name": "Landon Austin",
+          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+        },
+        {
+          "name": "Taylor Leigh",
+          "url": "https://open.spotify.com/artist/6vxZqaVbMaaKOS3jL4IqV1"
+        }
+      ],
+      "date_added": "2016-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "I Took a Pill in Ibiza, Youth (Acoustic Mashup) [feat. Taylor Leigh]",
+      "url": "https://open.spotify.com/track/1LqLiOS2pby65qbMpvKdUh"
+    },
+    {
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "album": {
+        "name": "Simple Times",
+        "url": "https://open.spotify.com/album/5MMbkmzqBqnMN3AsYhGBkz"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "I'd Rather Be with You",
+      "url": "https://open.spotify.com/track/7h4ACCN4NZhXkYXj3B21Ar"
+    },
+    {
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244573,
+      "name": "I'm a Mess",
+      "url": "https://open.spotify.com/track/0xCA70t1ZA4fa9UOE0lIJm"
+    },
+    {
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+    },
+    {
+      "album": {
+        "name": "Goes Abroader",
+        "url": "https://open.spotify.com/album/03GOpD8etsOk4vtQEQfwF6"
+      },
+      "artists": [
+        {
+          "name": "My Bubba",
+          "url": "https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/1diTM3V5LmcjmmnwkAz6Tu"
+    },
+    {
+      "album": {
+        "name": "Smallville: The Talon Mix",
+        "url": "https://open.spotify.com/album/4ZS43VlYwOu0WUvFfQsleB"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/1IRZwD3r9VOehOR8rGeV3Y"
+    },
+    {
+      "album": {
+        "name": "Donavon Frankenreiter",
+        "url": "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "It Don't Matter",
+      "url": "https://open.spotify.com/track/2UjGyCvayHjGihV3oLhD8a"
+    },
+    {
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264546,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/2XFHhqYYnpgtMP2K1ZGQO9"
+    },
+    {
+      "album": {
+        "name": "You Get What You Give (Deluxe)",
+        "url": "https://open.spotify.com/album/0AXoQGOZDaYSaOo0qCTiCr"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203173,
+      "name": "Knee Deep (feat. Jimmy Buffett)",
+      "url": "https://open.spotify.com/track/1yEwEiTpsaPhQi9lb5EVV4"
+    },
+    {
+      "album": {
+        "name": "Learn Yourself",
+        "url": "https://open.spotify.com/album/4VEaIoa5Phit1pVtNSdHLh"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "La Mar (The Ocean)",
+      "url": "https://open.spotify.com/track/05CwKXfxViGloskFJbdPe0"
+    },
+    {
+      "album": {
+        "name": "In The Lonely Hour (Deluxe)",
+        "url": "https://open.spotify.com/album/48Q27KoyKp38caYPuy0KXD"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223429,
+      "name": "Latch - Acoustic",
+      "url": "https://open.spotify.com/track/7cG68oOj0pZYoSVuP1Jzot"
+    },
+    {
+      "album": {
+        "name": "Lemonade (feat. Mike Posner)",
+        "url": "https://open.spotify.com/album/6a8Q4EzInWMxhHrpWxbuAH"
+      },
+      "artists": [
+        {
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        },
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172907,
+      "name": "Lemonade (feat. Mike Posner)",
+      "url": "https://open.spotify.com/track/6MjyB01eNCjBAXbXWDSvju"
+    },
+    {
+      "album": {
+        "name": "All the Little Lights",
+        "url": "https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I"
+    },
+    {
+      "album": {
+        "name": "Life's a Beach",
+        "url": "https://open.spotify.com/album/7hnk5ezoGZqIK0Ab3781K3"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "Life's a Beach",
+      "url": "https://open.spotify.com/track/4OCyTIH3lUd3rZ0BNqS935"
+    },
+    {
+      "album": {
+        "name": "Little Talks",
+        "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
+      },
+      "artists": [
+        {
+          "name": "Julia Sheer",
+          "url": "https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF"
+        },
+        {
+          "name": "Jon D",
+          "url": "https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+    },
+    {
+      "album": {
+        "name": "Ways Not To Lose",
+        "url": "https://open.spotify.com/album/7hpun2BkR0F39r9iR9QM91"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Luckiest Man",
+      "url": "https://open.spotify.com/track/26uHwSHlaK5mskSMhbRod3"
+    },
+    {
+      "album": {
+        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
+        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Lucky (feat. Colbie Caillat) - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
+      "url": "https://open.spotify.com/track/7FMqPuhsyqfA65Mw0QgU1i"
+    },
+    {
+      "album": {
+        "name": "Melt (Acoustic Version)",
+        "url": "https://open.spotify.com/album/27DH2T3p73tXNspRnJ7XWZ"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "date_added": "2016-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221492,
+      "name": "Melt (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6W83GER4shtT9lpkYzEYeq"
+    },
+    {
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
+    },
+    {
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "Midnight Bottle",
+      "url": "https://open.spotify.com/track/6XFBqXyoQGIBzSvyaXUxCP"
+    },
+    {
+      "album": {
+        "name": "Misantrop\u00e9",
+        "url": "https://open.spotify.com/album/1CuJINvLEQUi0DbVAtgc6J"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "Misantrop\u00e9",
+      "url": "https://open.spotify.com/track/4r4FERPM2Zk6PBJnTojxvd"
+    },
+    {
+      "album": {
+        "name": "Montauk / She Can",
+        "url": "https://open.spotify.com/album/0QyEmL7rLFwlhQH8SaZCFD"
+      },
+      "artists": [
+        {
+          "name": "Matt Sucich",
+          "url": "https://open.spotify.com/artist/25nFuEKRzvWY4HzbskK93X"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262899,
+      "name": "Montauk",
+      "url": "https://open.spotify.com/track/3dO4CCgAm3OkTXwiMSKb14"
+    },
+    {
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262626,
+      "name": "Motorcycle Drive By",
+      "url": "https://open.spotify.com/track/47wtXjG0Sk6DI6cjkRBcEg"
+    },
+    {
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/4cP86SvNGv7qjGM3UhTjZG"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172386,
+      "name": "Need Your Love - Acoustic",
+      "url": "https://open.spotify.com/track/3yq8n0uSGggofAkcDp7nb5"
+    },
+    {
+      "album": {
+        "name": "Inside Wants Out",
+        "url": "https://open.spotify.com/album/6KArNArtkz54TL6C0euphZ"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Neon - EP Version",
+      "url": "https://open.spotify.com/track/2PoaRe7ulsv9eKew40b7XT"
+    },
+    {
+      "album": {
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "No Way No",
+      "url": "https://open.spotify.com/track/5xHooj89TQoQHj3dALvSh1"
+    },
+    {
+      "album": {
+        "name": "Ol\u00e9",
+        "url": "https://open.spotify.com/album/2kb8daEaTaL4sjxMTwSNSy"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "date_added": "2016-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238301,
+      "name": "Ol\u00e9",
+      "url": "https://open.spotify.com/track/0XPRGMIQQPFny719O7IPD0"
+    },
+    {
+      "album": {
+        "name": "Cover Collaborations, Vol. 4",
+        "url": "https://open.spotify.com/album/39tWA31h0NupVMMIOoUhHr"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "date_added": "2016-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3MEVxxi5nv6aH42UqK9Oml"
+    },
+    {
+      "album": {
+        "name": "Every Kingdom (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/3MdYFBIzPf7lSJnI8wi3Ka"
+    },
+    {
+      "album": {
+        "name": "Passion Parade",
+        "url": "https://open.spotify.com/album/4J1HN99AHyWfAwraMUBadK"
+      },
+      "artists": [
+        {
+          "name": "Kaurna Cronin",
+          "url": "https://open.spotify.com/artist/1MX0rqwtrd3dLgScnDm1P0"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Passion Parade",
+      "url": "https://open.spotify.com/track/1IJ3n2yBiedJlMa0NJig1n"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4kGTAPSJmF5g2IcPI8kFWU"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/5k4kC8xKezffWjkFLKIlq3"
+    },
+    {
+      "album": {
+        "name": "Hand Built By Robots",
+        "url": "https://open.spotify.com/album/4qNxTvUl9Xlt5kZF0Njr8H"
+      },
+      "artists": [
+        {
+          "name": "Newton Faulkner",
+          "url": "https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209053,
+      "name": "People Should Smile More",
+      "url": "https://open.spotify.com/track/1x2JDqVAPcaYLtTNG3O7EB"
+    },
+    {
+      "album": {
+        "name": "Perfect - EP",
+        "url": "https://open.spotify.com/album/2AZsm9cX8g9P3sSoZlQiOR"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "Perfect - Stripped",
+      "url": "https://open.spotify.com/track/5hA2ZHjvt1tgp55OzaqYKL"
+    },
+    {
+      "album": {
+        "name": "Perfect Strangers (Acoustic)",
+        "url": "https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2016-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191206,
+      "name": "Perfect Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/5AFMjlqAA0skXGqZHGZDxt"
+    },
+    {
+      "album": {
+        "name": "PILLOWTALK (the living room session)",
+        "url": "https://open.spotify.com/album/7bWxyXxuT9LVzVkgDEWm5V"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "PILLOWTALK - the living room session",
+      "url": "https://open.spotify.com/track/3Tluzy27Qdbe8aRK2OCQf3"
+    },
+    {
+      "album": {
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Princess of China - Acoustic",
+      "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
+    },
+    {
+      "album": {
+        "name": "Acoustic EP No. 1",
+        "url": "https://open.spotify.com/album/1JTSWanYWwWUeRBYnYxPCc"
+      },
+      "artists": [
+        {
+          "name": "NONONO",
+          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221880,
+      "name": "Pumpin Blood - Acoustic Version",
+      "url": "https://open.spotify.com/track/2yj5wWvw5Lz6HwEBbRLKKL"
+    },
+    {
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "Queen of California",
+      "url": "https://open.spotify.com/track/0CETmgFGt8Ne8vLnaLcduU"
+    },
+    {
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "date_added": "2016-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy"
+    },
+    {
+      "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197266,
+      "name": "Ready For You - Acoustic",
+      "url": "https://open.spotify.com/track/3Pq9d20H4XRUvoZNsytpZn"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/6Udtuid2uIXkAZY6zmElfJ"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2016-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/1WbYFNSUNn9fP1x0Z5DU95"
+    },
+    {
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/1oWwA79Sm3ePnwnF8CIIWj"
+    },
+    {
+      "album": {
+        "name": "Rude (Acoustic)",
+        "url": "https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223854,
+      "name": "Rude (Acoustic)",
+      "url": "https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia"
+    },
+    {
+      "album": {
+        "name": "Four Feet in the Forest",
+        "url": "https://open.spotify.com/album/6tb5Y6m0GxlqlcxljgR9KW"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4kg3VwDhN1NYZnqCV4opvs"
+    },
+    {
+      "album": {
+        "name": "Sublime (Explicit Version)",
+        "url": "https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/6cJqlSO19vsfCsH1FeFI35"
+    },
+    {
+      "album": {
+        "name": "All Rebel Rockers",
+        "url": "https://open.spotify.com/album/28E2t7qjE0j9zm5YOu6jPr"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        },
+        {
+          "name": "Cherine Anderson",
+          "url": "https://open.spotify.com/artist/1d5nqaOa3PXgjrHv7hEQg4"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "Say Hey (I Love You)",
+      "url": "https://open.spotify.com/track/2SwkHQpyK3Tq11RtJjQhJY"
+    },
+    {
+      "album": {
+        "name": "See You Again, Love Me Like You Do, Sugar (Acoustic Mashup)",
+        "url": "https://open.spotify.com/album/598yk60jws90rsCDHU4lkl"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231965,
+      "name": "See You Again, Love Me Like You Do, Sugar - Acoustic Mashup",
+      "url": "https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm"
+    },
+    {
+      "album": {
+        "name": "Shake It Off",
+        "url": "https://open.spotify.com/album/2nneTnyufZn9RbfYfQoC0u"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189231,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/0GnGS3Hqq7eg2sjMPwHl1F"
+    },
+    {
+      "album": {
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rTzNXoGCqPpatzaMAMvD2"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252502,
+      "name": "Shake It Out - Acoustic",
+      "url": "https://open.spotify.com/track/0XZZK5yapnsdmyreiL8hNy"
+    },
+    {
+      "album": {
+        "name": "1.22.03 Acoustic",
+        "url": "https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276786,
+      "name": "She Will Be Loved - Acoustic",
+      "url": "https://open.spotify.com/track/6AVbtprNn18sQcX54K5MTo"
+    },
+    {
+      "album": {
+        "name": "Last Smoke Before The Snowstorm",
+        "url": "https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Francis Leftwich",
+          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1z7ipCbtUKz3Nepd2r39bc"
+    },
+    {
+      "album": {
+        "name": "Shut Up And Dance (Acoustic)",
+        "url": "https://open.spotify.com/album/7gVpldI2kuvncnrLtiOcDl"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193986,
+      "name": "Shut Up and Dance - Live Acoustic - 2015",
+      "url": "https://open.spotify.com/track/3Xzog9enTvbsc0G7G9M58D"
+    },
+    {
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319401,
+      "name": "Sing - Live and in Session",
+      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Sitting, Waiting, Wishing",
+      "url": "https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL"
+    },
+    {
+      "album": {
+        "name": "Skinny Love",
+        "url": "https://open.spotify.com/album/4N50QyWU1zcBJBDMsppgHm"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200939,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/0xJtHBdhpdLuClaSQYddI4"
+    },
+    {
+      "album": {
+        "name": "So Good So Far",
+        "url": "https://open.spotify.com/album/2rqUv1m0DJLgvvsdiMuSlO"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216687,
+      "name": "So Good So Far",
+      "url": "https://open.spotify.com/track/1tT8ZTljrwN6bsWH4gEjvZ"
+    },
+    {
+      "album": {
+        "name": "Music From The WB Television Series One Tree Hill Volume 2: Friends With Benefit",
+        "url": "https://open.spotify.com/album/06QnZm7l0gp3pLq7d3wMFV"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "Son's Gonna Rise",
+      "url": "https://open.spotify.com/track/0NkCx4pvkAEWYD9xviIXMk"
+    },
+    {
+      "album": {
+        "name": "VCR & Chill",
+        "url": "https://open.spotify.com/album/5LGNNdeoLf9x21LI6OyPLy"
+      },
+      "artists": [
+        {
+          "name": "The Jepettos",
+          "url": "https://open.spotify.com/artist/35o58Gfmj3W9t641sufYep"
+        },
+        {
+          "name": "New Portals",
+          "url": "https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/4aOojIQ4cDgZncsXfRC0Jp"
+    },
+    {
+      "album": {
+        "name": "Stolen Dance",
+        "url": "https://open.spotify.com/album/0Qt0bpaJqOxRqDy3eiGXAO"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        },
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "Stolen Dance",
+      "url": "https://open.spotify.com/track/6tXrb9kJTmgGOZqpq1powO"
+    },
+    {
+      "album": {
+        "name": "LFO",
+        "url": "https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX"
+      },
+      "artists": [
+        {
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257333,
+      "name": "Summer Girls",
+      "url": "https://open.spotify.com/track/7uYroF9RRrhRJBrigRvB6H"
+    },
+    {
+      "album": {
+        "name": "R.E.V.O.",
+        "url": "https://open.spotify.com/album/3iOQHIPyl2ztUjvIPBz4L2"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186560,
+      "name": "Summer Vibe",
+      "url": "https://open.spotify.com/track/34pZbxevWGRKeBSKHmLLxI"
+    },
+    {
+      "album": {
+        "name": "Summertime Romance",
+        "url": "https://open.spotify.com/album/0mqEICOiFecAkABVPrq0fi"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304293,
+      "name": "Summertime Romance",
+      "url": "https://open.spotify.com/track/5UOcAKmaWWd2x6zL1cavI0"
+    },
+    {
+      "album": {
+        "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+        "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Keelan Donovan",
+          "url": "https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231013,
+      "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+      "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
+    },
+    {
+      "album": {
+        "name": "Lonely One",
+        "url": "https://open.spotify.com/album/3XL0Ty9YWthcVOiT2Rqa5J"
+      },
+      "artists": [
+        {
+          "name": "Dresses",
+          "url": "https://open.spotify.com/artist/4Om4kO491KUeVkwTLiVQq3"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "Sun Shy (Acoustic)",
+      "url": "https://open.spotify.com/track/1TdtHytW3PV3FOqHc0tcSO"
+    },
+    {
+      "album": {
+        "name": "A Hairdressers Called Sids",
+        "url": "https://open.spotify.com/album/1nCKGDwHpd9xULi3xd01G0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Williams",
+          "url": "https://open.spotify.com/artist/6XGj8QCc5uKv4dt6pkdCKS"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136125,
+      "name": "Sunglasses",
+      "url": "https://open.spotify.com/track/45pMsAfXFndQSEAH5h1NvS"
+    },
+    {
+      "album": {
+        "name": "Songs We Sing",
+        "url": "https://open.spotify.com/album/5kjjACS96ucWxm7a8ZTxp7"
+      },
+      "artists": [
+        {
+          "name": "Matt Costa",
+          "url": "https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4iKmlL8CCcgWPsJGJth7Xi"
+    },
+    {
+      "album": {
+        "name": "Endless Love (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2cn6DXanZWGYjUcslSIwWD"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208253,
+      "name": "Surround You",
+      "url": "https://open.spotify.com/track/1D5ZvPtj09MckFOp2NcadQ"
+    },
+    {
+      "album": {
+        "name": "Music From The WB Television Series One Tree Hill (change in 1 track bundle status)",
+        "url": "https://open.spotify.com/album/3XCBGh4tuBd9UXGYUudjz5"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230973,
+      "name": "The First Cut Is the Deepest - Acoustic Version",
+      "url": "https://open.spotify.com/track/4PzPvpE63ttEbKyMDRWB6q"
+    },
+    {
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi"
+      },
+      "artists": [
+        {
+          "name": "The Verve Pipe",
+          "url": "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "The Freshmen",
+      "url": "https://open.spotify.com/track/21jEuMn2lf37715rwjow2M"
+    },
+    {
+      "album": {
+        "name": "Bang Bang [Remastered]",
+        "url": "https://open.spotify.com/album/6Qy1wgmMPdz90bJDqyRRkL"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245413,
+      "name": "The General",
+      "url": "https://open.spotify.com/track/2tKKxF5LTNcSlVtrLSlaMD"
+    },
+    {
+      "album": {
+        "name": "The MySpace Transmissions",
+        "url": "https://open.spotify.com/album/0f91GIWLYiSFkuQoyVRAYh"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147680,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/3AYZwgbpVWBjrWuIPortPb"
+    },
+    {
+      "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166960,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259040,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
+    },
+    {
+      "album": {
+        "name": "Waiting for My Rocket to Come",
+        "url": "https://open.spotify.com/album/6I9GBueBmRdHdDQjbL7El1"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256440,
+      "name": "The Remedy (I Won't Worry)",
+      "url": "https://open.spotify.com/track/4tK4ARuilOrBzwVQK73E0Y"
+    },
+    {
+      "album": {
+        "name": "Tape Deck Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XW0PtYAsQhKNOOXcvQzgN"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221292,
+      "name": "The Way I Tend To Be",
+      "url": "https://open.spotify.com/track/33WV1lT63pq12t9jlyrxlW"
+    },
+    {
+      "album": {
+        "name": "Music From The O.C. Mix 1",
+        "url": "https://open.spotify.com/album/4ttkSoq4uoawALTcXoeYTs"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160746,
+      "name": "The Way We Get By",
+      "url": "https://open.spotify.com/track/5367A3pUfCCg4VSg5Jhlhw"
+    },
+    {
+      "album": {
+        "name": "Music For The Motion Picture Into The Wild",
+        "url": "https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60306,
+      "name": "Tuolumne",
+      "url": "https://open.spotify.com/track/33FEUJFG1lhlH4iPh3CHkF"
+    },
+    {
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
+    },
+    {
+      "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/3Jc0ABqhf9yMLn8bbAdmKX"
+    },
+    {
+      "album": {
+        "name": "fear",
+        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
+      },
+      "artists": [
+        {
+          "name": "Toad The Wet Sprocket",
+          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "Walk On the Ocean",
+      "url": "https://open.spotify.com/track/2JAECj9kBYQHb8AqJ2rsxt"
+    },
+    {
+      "album": {
+        "name": "Walking on a Dream",
+        "url": "https://open.spotify.com/album/5hDiwzgMUhCpZeTFZ5af9B"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "date_added": "2016-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Walking on a Dream",
+      "url": "https://open.spotify.com/track/0M2ZVZhA4aGuL0OyystUdQ"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "What Do You Mean? - Acoustic",
+      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
+    },
+    {
+      "album": {
+        "name": "Sublime (Explicit Version)",
+        "url": "https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171066,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3oVSsJXNADnYAnZWiEWFJH"
+    },
+    {
+      "album": {
+        "name": "Jason Derulo Special Edition EP",
+        "url": "https://open.spotify.com/album/5iCP6JeHtNV66LnfCKoFF1"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222520,
+      "name": "Whatcha Say - Acoustic",
+      "url": "https://open.spotify.com/track/3me9HZX5G0yKSTwRuzbsgD"
+    },
+    {
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/0i38l8BvajWcN009SoRDVp"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Wild Ones",
+      "url": "https://open.spotify.com/track/6UrF9LIhffllzblKlEVYxm"
+    },
+    {
+      "album": {
+        "name": "Monuments And Melodies",
+        "url": "https://open.spotify.com/album/2Khc1QMbYbStcXLlHZ6gMz"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/7dSJyc906iHdeC647aRkXo"
+    },
+    {
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248280,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
+    },
+    {
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "album": {
+        "name": "A Casual Affair - The Best Of Tonic",
+        "url": "https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg"
+      },
+      "artists": [
+        {
+          "name": "Tonic",
+          "url": "https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "You Wanted More - Acoustic Version",
+      "url": "https://open.spotify.com/track/33UdcDQAJEj88YeET1hL6M"
+    },
+    {
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2016-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/5v2J2noHVxPWgSrOw6lZsp"
 }

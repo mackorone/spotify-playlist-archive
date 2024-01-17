@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:5Sae4YeLcFZ1P75vhzUDrp\">piazzabologna</a>",
+  "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:3HRSdDvPAE54ocmaq0JRrJ\">Camilla Magli</a>",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Alta Tensione",
+        "url": "https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Alta Tensione",
+      "url": "https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz"
+    },
+    {
+      "album": {
         "name": "Amore&casino",
         "url": "https://open.spotify.com/album/3sNEQxM6ZYqeEScouZ1733"
       },
@@ -324,6 +342,24 @@
       "duration_ms": 194366,
       "name": "Avec moi",
       "url": "https://open.spotify.com/track/4b3d5gAAIUUhbzhRjQAZ97"
+    },
+    {
+      "album": {
+        "name": "Baby Don't Cry",
+        "url": "https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Baby Don't Cry",
+      "url": "https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei"
     },
     {
       "album": {
@@ -952,6 +988,32 @@
       "duration_ms": 160444,
       "name": "Fratelli & Sogni",
       "url": "https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd"
+    },
+    {
+      "album": {
+        "name": "GENNAIO 24",
+        "url": "https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Caffellatte",
+          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130039,
+      "name": "GENNAIO 24",
+      "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
     },
     {
       "album": {

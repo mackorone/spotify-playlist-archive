@@ -1,577 +1,1443 @@
 {
-  "2022-06-02": 47836,
-  "2022-06-03": 47871,
-  "2022-06-04": 47903,
-  "2022-06-05": 47935,
-  "2022-06-06": 47958,
-  "2022-06-07": 47985,
-  "2022-06-08": 48032,
-  "2022-06-09": 48052,
-  "2022-06-10": 48078,
-  "2022-06-11": 48123,
-  "2022-06-12": 48151,
-  "2022-06-13": 48198,
-  "2022-06-14": 48222,
-  "2022-06-15": 48247,
-  "2022-06-16": 48271,
-  "2022-06-17": 48293,
-  "2022-06-18": 48334,
-  "2022-06-19": 48409,
-  "2022-06-20": 48409,
-  "2022-06-21": 48448,
-  "2022-06-22": 48534,
-  "2022-06-23": 48534,
-  "2022-06-24": 48588,
-  "2022-06-25": 48637,
-  "2022-06-26": 48675,
-  "2022-06-27": 48714,
-  "2022-06-28": 48761,
-  "2022-06-29": 48783,
-  "2022-06-30": 48823,
-  "2022-07-01": 48862,
-  "2022-07-02": 48892,
-  "2022-07-03": 48938,
-  "2022-07-04": 48965,
-  "2022-07-05": 48965,
-  "2022-07-06": 48965,
-  "2022-07-07": 49064,
-  "2022-07-08": 49097,
-  "2022-07-09": 49125,
-  "2022-07-10": 49170,
-  "2022-07-11": 49212,
-  "2022-07-12": 49244,
-  "2022-07-13": 49278,
-  "2022-07-14": 49309,
-  "2022-07-15": 49382,
-  "2022-07-16": 49411,
-  "2022-07-17": 49444,
-  "2022-07-18": 49474,
-  "2022-07-19": 49501,
-  "2022-07-20": 49539,
-  "2022-07-21": 49590,
-  "2022-07-22": 49629,
-  "2022-07-23": 49681,
-  "2022-07-24": 49725,
-  "2022-07-25": 49759,
-  "2022-07-26": 49795,
-  "2022-07-27": 49841,
-  "2022-07-28": 49890,
-  "2022-07-29": 49931,
-  "2022-07-30": 50027,
-  "2022-07-31": 50027,
-  "2022-08-01": 50060,
-  "2022-08-02": 50135,
-  "2022-08-03": 50135,
-  "2022-08-04": 50171,
-  "2022-08-05": 50207,
-  "2022-08-06": 50251,
-  "2022-08-07": 50305,
-  "2022-08-08": 50356,
-  "2022-08-09": 50394,
-  "2022-08-10": 50437,
-  "2022-08-11": 50473,
-  "2022-08-12": 50517,
-  "2022-08-13": 50561,
-  "2022-08-14": 50596,
-  "2022-08-15": 50629,
-  "2022-08-16": 50659,
-  "2022-08-17": 50703,
-  "2022-08-18": 50747,
-  "2022-08-19": 50788,
-  "2022-08-20": 50830,
-  "2022-08-21": 50874,
-  "2022-08-22": 50920,
-  "2022-08-23": 50947,
-  "2022-08-24": 50987,
-  "2022-08-25": 51029,
-  "2022-08-26": 51087,
-  "2022-08-27": 51136,
-  "2022-08-28": 51195,
-  "2022-08-29": 51230,
-  "2022-08-30": 51279,
-  "2022-08-31": 51317,
-  "2022-09-01": 51360,
-  "2022-09-02": 51409,
-  "2022-09-03": 51463,
-  "2022-09-04": 51512,
-  "2022-09-05": 51560,
-  "2022-09-06": 51598,
-  "2022-09-07": 51646,
-  "2022-09-09": 51729,
-  "2022-09-10": 51787,
-  "2022-09-11": 51830,
-  "2022-09-12": 51881,
-  "2022-09-13": 51919,
-  "2022-09-15": 52022,
-  "2022-09-16": 52093,
-  "2022-09-17": 52140,
-  "2022-09-18": 52203,
-  "2022-09-19": 52244,
-  "2022-09-20": 52284,
-  "2022-09-21": 52328,
-  "2022-09-22": 52389,
-  "2022-09-23": 52434,
-  "2022-09-24": 52434,
-  "2022-09-25": 52546,
-  "2022-09-26": 52594,
-  "2022-09-27": 52632,
-  "2022-09-28": 52672,
-  "2022-09-29": 52714,
-  "2022-09-30": 52765,
-  "2022-10-01": 52819,
-  "2022-10-02": 52864,
-  "2022-10-03": 52913,
-  "2022-10-04": 52968,
-  "2022-10-05": 52993,
-  "2022-10-06": 53044,
-  "2022-10-07": 53101,
-  "2022-10-08": 53143,
-  "2022-10-09": 53237,
-  "2022-10-10": 53261,
-  "2022-10-11": 53311,
-  "2022-10-12": 53359,
-  "2022-10-13": 53414,
-  "2022-10-14": 53468,
-  "2022-10-15": 53524,
-  "2022-10-16": 53584,
-  "2022-10-17": 53641,
-  "2022-10-18": 53689,
-  "2022-10-19": 53757,
-  "2022-10-20": 53825,
-  "2022-10-21": 53868,
-  "2022-10-22": 53937,
-  "2022-10-23": 53994,
-  "2022-10-24": 54061,
-  "2022-10-25": 54113,
-  "2022-10-26": 54191,
-  "2022-10-27": 54237,
-  "2022-10-28": 54295,
-  "2022-10-29": 54351,
-  "2022-10-30": 54405,
-  "2022-10-31": 54473,
-  "2022-11-01": 54546,
-  "2022-11-02": 54587,
-  "2022-11-03": 54634,
-  "2022-11-04": 54698,
-  "2022-11-05": 54755,
-  "2022-11-06": 54811,
-  "2022-11-07": 54876,
-  "2022-11-08": 54923,
-  "2022-11-09": 54965,
-  "2022-11-10": 55015,
-  "2022-11-11": 55070,
-  "2022-11-12": 55139,
-  "2022-11-13": 55166,
-  "2022-11-14": 55232,
-  "2022-11-15": 55264,
-  "2022-11-16": 55318,
-  "2022-11-17": 55365,
-  "2022-11-18": 55378,
-  "2022-11-19": 55385,
-  "2022-11-20": 55421,
-  "2022-11-21": 55488,
-  "2022-11-22": 55534,
-  "2022-11-23": 55567,
-  "2022-11-24": 55653,
-  "2022-11-25": 55701,
-  "2022-11-26": 55764,
-  "2022-11-27": 55821,
-  "2022-11-28": 55848,
-  "2022-11-29": 55880,
-  "2022-11-30": 55921,
-  "2022-12-01": 55951,
-  "2022-12-02": 55981,
-  "2022-12-03": 56065,
-  "2022-12-04": 56121,
-  "2022-12-05": 56161,
-  "2022-12-06": 56185,
-  "2022-12-07": 56229,
-  "2022-12-08": 56276,
-  "2022-12-09": 56346,
-  "2022-12-10": 56402,
-  "2022-12-11": 56463,
-  "2022-12-12": 56512,
-  "2022-12-13": 56551,
-  "2022-12-14": 56601,
-  "2022-12-15": 56642,
-  "2022-12-16": 56680,
-  "2022-12-17": 56738,
-  "2022-12-18": 56785,
-  "2022-12-19": 56831,
-  "2022-12-20": 56927,
-  "2022-12-21": 56927,
-  "2022-12-22": 56981,
-  "2022-12-24": 57097,
-  "2022-12-25": 57149,
-  "2022-12-26": 57201,
-  "2022-12-27": 57235,
-  "2022-12-28": 57285,
-  "2022-12-29": 57342,
-  "2022-12-30": 57383,
-  "2022-12-31": 57428,
-  "2023-01-01": 57491,
-  "2023-01-02": 57541,
-  "2023-01-03": 57567,
-  "2023-01-04": 57608,
-  "2023-01-05": 57643,
-  "2023-01-06": 57683,
-  "2023-01-07": 57754,
-  "2023-01-08": 57768,
-  "2023-01-09": 57804,
-  "2023-01-10": 57850,
-  "2023-01-11": 57894,
-  "2023-01-12": 57939,
-  "2023-01-13": 57995,
-  "2023-01-14": 58064,
-  "2023-01-15": 58071,
-  "2023-01-16": 58143,
-  "2023-01-17": 58182,
-  "2023-01-18": 58224,
-  "2023-01-19": 58253,
-  "2023-01-20": 58316,
-  "2023-01-21": 58374,
-  "2023-01-22": 58430,
-  "2023-01-23": 58482,
-  "2023-01-24": 58533,
-  "2023-01-25": 58578,
-  "2023-01-26": 58610,
-  "2023-01-27": 58654,
-  "2023-01-28": 58719,
-  "2023-01-29": 58783,
-  "2023-01-30": 58828,
-  "2023-01-31": 58828,
-  "2023-02-01": 58900,
-  "2023-02-02": 58954,
-  "2023-02-03": 59001,
-  "2023-02-04": 59042,
-  "2023-02-05": 59108,
-  "2023-02-06": 59156,
-  "2023-02-07": 59177,
-  "2023-02-08": 59264,
-  "2023-02-09": 59264,
-  "2023-02-10": 59306,
-  "2023-02-11": 59365,
-  "2023-02-12": 59457,
-  "2023-02-13": 59491,
-  "2023-02-14": 59491,
-  "2023-02-15": 59519,
-  "2023-02-16": 59552,
-  "2023-02-17": 59591,
-  "2023-02-18": 59691,
-  "2023-02-19": 59706,
-  "2023-02-20": 59733,
-  "2023-02-21": 59779,
-  "2023-02-22": 59824,
-  "2023-02-23": 59871,
-  "2023-02-24": 59909,
-  "2023-02-25": 59993,
-  "2023-02-26": 60040,
-  "2023-02-27": 60134,
-  "2023-02-28": 60134,
-  "2023-03-01": 60179,
-  "2023-03-02": 60235,
-  "2023-03-03": 60286,
-  "2023-03-04": 60340,
-  "2023-03-05": 60454,
-  "2023-03-06": 60454,
-  "2023-03-07": 60487,
-  "2023-03-08": 60534,
-  "2023-03-09": 60577,
-  "2023-03-10": 60637,
-  "2023-03-11": 60696,
-  "2023-03-12": 60768,
-  "2023-03-13": 60818,
-  "2023-03-14": 60854,
-  "2023-03-15": 60904,
-  "2023-03-16": 60904,
-  "2023-03-17": 60904,
-  "2023-03-18": 61093,
-  "2023-03-19": 61093,
-  "2023-03-20": 61188,
-  "2023-03-21": 61231,
-  "2023-03-22": 61280,
-  "2023-03-23": 61323,
-  "2023-03-24": 61323,
-  "2023-03-25": 61427,
-  "2023-03-26": 61488,
-  "2023-03-27": 61528,
-  "2023-03-28": 61592,
-  "2023-03-29": 61630,
-  "2023-03-30": 61727,
-  "2023-03-31": 61727,
-  "2023-04-01": 61790,
-  "2023-04-02": 61840,
-  "2023-04-03": 61898,
-  "2023-04-04": 61948,
-  "2023-04-05": 61997,
-  "2023-04-06": 62045,
-  "2023-04-07": 62104,
-  "2023-04-09": 62205,
-  "2023-04-10": 62248,
-  "2023-04-11": 62336,
-  "2023-04-12": 62336,
-  "2023-04-13": 62405,
-  "2023-04-14": 62457,
-  "2023-04-15": 62509,
-  "2023-04-16": 62573,
-  "2023-04-17": 62614,
-  "2023-04-18": 62667,
-  "2023-04-19": 62706,
-  "2023-04-20": 62761,
-  "2023-04-21": 62807,
-  "2023-04-22": 62857,
-  "2023-04-23": 62907,
-  "2023-04-24": 62954,
-  "2023-04-25": 63004,
-  "2023-04-26": 63041,
-  "2023-04-27": 63088,
-  "2023-04-28": 63134,
-  "2023-04-29": 63190,
-  "2023-04-30": 63251,
-  "2023-05-01": 63313,
-  "2023-05-02": 63356,
-  "2023-05-03": 63402,
-  "2023-05-04": 63459,
-  "2023-05-05": 63507,
-  "2023-05-06": 63561,
-  "2023-05-07": 63624,
-  "2023-05-08": 63673,
-  "2023-05-09": 63709,
-  "2023-05-10": 63767,
-  "2023-05-11": 63827,
-  "2023-05-12": 63869,
-  "2023-05-13": 63930,
-  "2023-05-14": 63998,
-  "2023-05-15": 64048,
-  "2023-05-16": 64086,
-  "2023-05-17": 64135,
-  "2023-05-18": 64186,
-  "2023-05-19": 64235,
-  "2023-05-20": 64370,
-  "2023-05-21": 64370,
-  "2023-05-22": 64370,
-  "2023-05-23": 64458,
-  "2023-05-24": 64564,
-  "2023-05-25": 64576,
-  "2023-05-26": 64644,
-  "2023-05-27": 64718,
-  "2023-05-28": 64788,
-  "2023-05-29": 64788,
-  "2023-05-30": 64890,
-  "2023-05-31": 64961,
-  "2023-06-01": 65027,
-  "2023-06-02": 65073,
-  "2023-06-03": 65143,
-  "2023-06-04": 65210,
-  "2023-06-05": 65273,
-  "2023-06-06": 65346,
-  "2023-06-07": 65411,
-  "2023-06-08": 65478,
-  "2023-06-09": 65544,
-  "2023-06-10": 65613,
-  "2023-06-11": 65698,
-  "2023-06-12": 65760,
-  "2023-06-13": 65796,
-  "2023-06-14": 65868,
-  "2023-06-15": 65948,
-  "2023-06-16": 66019,
-  "2023-06-17": 66104,
-  "2023-06-18": 66186,
-  "2023-06-19": 66254,
-  "2023-06-20": 66305,
-  "2023-06-21": 66370,
-  "2023-06-22": 66451,
-  "2023-06-23": 66507,
-  "2023-06-24": 66571,
-  "2023-06-25": 66639,
-  "2023-06-26": 66685,
-  "2023-06-27": 66745,
-  "2023-06-28": 66796,
-  "2023-06-29": 66865,
-  "2023-06-30": 66927,
-  "2023-07-01": 67080,
-  "2023-07-02": 67080,
-  "2023-07-03": 67141,
-  "2023-07-04": 67186,
-  "2023-07-05": 67246,
-  "2023-07-06": 67380,
-  "2023-07-07": 67380,
-  "2023-07-08": 67380,
-  "2023-07-09": 67509,
-  "2023-07-10": 67572,
-  "2023-07-11": 67597,
-  "2023-07-12": 67662,
-  "2023-07-13": 67723,
-  "2023-07-14": 67802,
-  "2023-07-15": 67838,
-  "2023-07-16": 67945,
-  "2023-07-17": 67999,
-  "2023-07-18": 68045,
-  "2023-07-19": 68109,
-  "2023-07-20": 68167,
-  "2023-07-21": 68229,
-  "2023-07-22": 68295,
-  "2023-07-23": 68370,
-  "2023-07-24": 68428,
-  "2023-07-25": 68482,
-  "2023-07-26": 68543,
-  "2023-07-27": 68600,
-  "2023-07-28": 68681,
-  "2023-07-29": 68747,
-  "2023-07-30": 68816,
-  "2023-07-31": 68878,
-  "2023-08-01": 68936,
-  "2023-08-02": 68995,
-  "2023-08-03": 69058,
-  "2023-08-04": 69114,
-  "2023-08-05": 69181,
-  "2023-08-06": 69313,
-  "2023-08-07": 69313,
-  "2023-08-08": 69375,
-  "2023-08-09": 69424,
-  "2023-08-10": 69495,
-  "2023-08-11": 69556,
-  "2023-08-12": 69556,
-  "2023-08-13": 69556,
-  "2023-08-14": 69736,
-  "2023-08-15": 69736,
-  "2023-08-16": 69736,
-  "2023-08-17": 69736,
-  "2023-08-18": 69736,
-  "2023-08-19": 69736,
-  "2023-08-20": 70119,
-  "2023-08-21": 70119,
-  "2023-08-22": 70254,
-  "2023-08-23": 70254,
-  "2023-08-24": 70254,
-  "2023-08-25": 70254,
-  "2023-08-26": 70514,
-  "2023-08-27": 70514,
-  "2023-08-28": 70677,
-  "2023-08-29": 70677,
-  "2023-08-30": 70677,
-  "2023-08-31": 70848,
-  "2023-09-01": 70922,
-  "2023-09-02": 70922,
-  "2023-09-03": 70922,
-  "2023-09-04": 70922,
-  "2023-09-05": 70922,
-  "2023-09-06": 70922,
-  "2023-09-07": 70922,
-  "2023-09-08": 70922,
-  "2023-09-09": 70922,
-  "2023-09-10": 70922,
-  "2023-09-11": 70922,
-  "2023-09-12": 70922,
-  "2023-09-13": 70922,
-  "2023-09-14": 70922,
-  "2023-09-15": 70922,
-  "2023-09-16": 71999,
-  "2023-09-17": 71999,
-  "2023-09-18": 71999,
-  "2023-09-19": 72222,
-  "2023-09-20": 72222,
-  "2023-09-21": 72222,
-  "2023-09-22": 72465,
-  "2023-09-23": 72465,
-  "2023-09-24": 72465,
-  "2023-09-25": 72465,
-  "2023-09-26": 72734,
-  "2023-09-27": 72734,
-  "2023-09-28": 72734,
-  "2023-09-29": 72734,
-  "2023-09-30": 72734,
-  "2023-10-01": 72734,
-  "2023-10-02": 72734,
-  "2023-10-03": 72734,
-  "2023-10-04": 72734,
-  "2023-10-05": 72734,
-  "2023-10-06": 72734,
-  "2023-10-07": 72734,
-  "2023-10-08": 72734,
-  "2023-10-09": 72734,
-  "2023-10-10": 72734,
-  "2023-10-11": 73628,
-  "2023-10-12": 73628,
-  "2023-10-13": 73628,
-  "2023-10-14": 73628,
-  "2023-10-15": 73628,
-  "2023-10-16": 73628,
-  "2023-10-17": 73628,
-  "2023-10-18": 73628,
-  "2023-10-19": 73628,
-  "2023-10-20": 73628,
-  "2023-10-21": 73628,
-  "2023-10-22": 73628,
-  "2023-10-23": 73628,
-  "2023-10-24": 73628,
-  "2023-10-25": 73628,
-  "2023-10-26": 73628,
-  "2023-10-27": 73628,
-  "2023-10-28": 73628,
-  "2023-10-29": 73628,
-  "2023-10-30": 73628,
-  "2023-10-31": 73628,
-  "2023-11-01": 73628,
-  "2023-11-02": 73628,
-  "2023-11-03": 73628,
-  "2023-11-04": 73628,
-  "2023-11-05": 73628,
-  "2023-11-06": 73628,
-  "2023-11-07": 73628,
-  "2023-11-08": 73628,
-  "2023-11-09": 73628,
-  "2023-11-10": 73628,
-  "2023-11-11": 75660,
-  "2023-11-12": 75660,
-  "2023-11-13": 75660,
-  "2023-11-14": 75660,
-  "2023-11-15": 75660,
-  "2023-11-16": 75660,
-  "2023-11-17": 75660,
-  "2023-11-18": 75660,
-  "2023-11-19": 75660,
-  "2023-11-20": 75660,
-  "2023-11-21": 75660,
-  "2023-11-22": 75660,
-  "2023-11-23": 75660,
-  "2023-11-24": 75660,
-  "2023-11-25": 75660,
-  "2023-11-26": 75660,
-  "2023-11-27": 75660,
-  "2023-11-28": 75660,
-  "2023-11-29": 75660,
-  "2023-11-30": 75660,
-  "2023-12-01": 75660,
-  "2023-12-02": 75660,
-  "2023-12-03": 75660,
-  "2023-12-04": 75660,
-  "2023-12-05": 75660,
-  "2023-12-06": 75660,
-  "2023-12-07": 75660,
-  "2023-12-08": 75660,
-  "2023-12-09": 75660,
-  "2023-12-10": 75660,
-  "2023-12-11": 75660,
-  "2023-12-12": 75660,
-  "2023-12-13": 75660,
-  "2023-12-14": 77758,
-  "2023-12-15": 77787,
-  "2023-12-16": 77841,
-  "2023-12-17": 77888,
-  "2023-12-18": 77928,
-  "2023-12-19": 77961,
-  "2023-12-20": 78015,
-  "2023-12-21": 78064,
-  "2023-12-22": 78123,
-  "2023-12-23": 78197,
-  "2023-12-24": 78260,
-  "2023-12-25": 78327,
-  "2023-12-26": 78380,
-  "2023-12-27": 78428,
-  "2023-12-30": 78589,
-  "2023-12-31": 78657,
-  "2024-01-01": 78711,
-  "2024-01-02": 78772,
-  "2024-01-03": 78804
+  "2024-01-17": 79625,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Banda Peque\u00f1os Musical. The essential tracks, all in one playlist.",
+  "name": "This Is Banda Peque\u00f1os Musical",
+  "tracks": [
+    {
+      "album": {
+        "name": "2020 Rom\u00e1ntico Incurable/Un Loco Solitario",
+        "url": "https://open.spotify.com/album/28zbY61jrjElCJNQaOvk6U"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 200124,
+      "name": "2020 Rom\u00e1ntico Incurable/Un Loco Solitario",
+      "url": "https://open.spotify.com/track/6om6exl9c2oIOIbyr8VgPp"
+    },
+    {
+      "album": {
+        "name": "Serenata Digital",
+        "url": "https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223169,
+      "name": "2021 y Yo Que Te Amo / Me Encantar\u00eda",
+      "url": "https://open.spotify.com/track/3vsdKoBJXbWpjvNjV3mVGP"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195813,
+      "name": "Ahora que no est\u00e1s aqu\u00ed",
+      "url": "https://open.spotify.com/track/6gexgfw9UpdELEd77ztIWu"
+    },
+    {
+      "album": {
+        "name": "No Te Pedir\u00e9 Perd\u00f3n",
+        "url": "https://open.spotify.com/album/007n6PgM8fVRXBPbxw8dmh"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 193867,
+      "name": "Amor Compartido",
+      "url": "https://open.spotify.com/track/0pyuUsxcuBPBEw6x8pAiXt"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Am\u00e1ndome",
+      "url": "https://open.spotify.com/track/126Y0xmvil0XsIGPhwXGoE"
+    },
+    {
+      "album": {
+        "name": "Bola de Cristal",
+        "url": "https://open.spotify.com/album/3OKY0FukgMiktC2TXceUdg"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 190856,
+      "name": "Bola de Cristal",
+      "url": "https://open.spotify.com/track/4pyyICMmeUBNxFQFEZDlni"
+    },
+    {
+      "album": {
+        "name": "En grande",
+        "url": "https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 142106,
+      "name": "Chiquilina",
+      "url": "https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/6IWmc0xEesUHiuOvKGNEYX"
+    },
+    {
+      "album": {
+        "name": "El Grito de DolorEs",
+        "url": "https://open.spotify.com/album/6aaAtHJaZdLjd1ZeYD1Ome"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 219430,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/30Kg2SplsztQyDsurzkv50"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "Con 60 minutos",
+      "url": "https://open.spotify.com/track/74eRlfZmAw26Q3d8t5o0tY"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos 2004-2005",
+        "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Con Pensar En Ti",
+      "url": "https://open.spotify.com/track/6VrmX4vLI0iQLcogIfMZIn"
+    },
+    {
+      "album": {
+        "name": "Dar\u00eda Todo por Ti",
+        "url": "https://open.spotify.com/album/27CPLhGnj32W8AeYVO5aW9"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184145,
+      "name": "Dar\u00eda Todo por Ti",
+      "url": "https://open.spotify.com/track/47NVCfXd6FajWo50EcD4La"
+    },
+    {
+      "album": {
+        "name": "Dar\u00eda Todo por Ti",
+        "url": "https://open.spotify.com/album/7LalMyh8jS4b3AbrohmP2L"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 184145,
+      "name": "Dar\u00eda Todo por Ti",
+      "url": "https://open.spotify.com/track/4hKi0dBaw6nFsTV4DNeF4U"
+    },
+    {
+      "album": {
+        "name": "Romantico incurable",
+        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140026,
+      "name": "Demente",
+      "url": "https://open.spotify.com/track/4evZIOmeHWmUfDcFcESr0u"
+    },
+    {
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 197626,
+      "name": "Desnudos",
+      "url": "https://open.spotify.com/track/0nZz6tnshGTSRWYh8In6Hj"
+    },
+    {
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "Desnudos",
+      "url": "https://open.spotify.com/track/3yFUto83tuhUqsNsmGS6s3"
+    },
+    {
+      "album": {
+        "name": "Doler\u00e1",
+        "url": "https://open.spotify.com/album/3zBgO51TuNj2zbfeBqqAph"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 190760,
+      "name": "Doler\u00e1",
+      "url": "https://open.spotify.com/track/18hHM8kKKL6AUFtWYogA4X"
+    },
+    {
+      "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 186346,
+      "name": "El negrito",
+      "url": "https://open.spotify.com/track/3ELx3O1UQAXAMzfobMRhyn"
+    },
+    {
+      "album": {
+        "name": "Con paso sensual",
+        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "El retrato de mam\u00e1",
+      "url": "https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F"
+    },
+    {
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Eso no, no, no",
+      "url": "https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos 2004-2005",
+        "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Ganas De Ti - Balada Version",
+      "url": "https://open.spotify.com/track/4wJ6H2bngItDzDR7voKSqA"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197026,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/2mlnu9FhO0TQDUc9hFKIMj"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 197026,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/4n8svElL8bv2ho96dTj0TU"
+    },
+    {
+      "album": {
+        "name": "En grande",
+        "url": "https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175706,
+      "name": "La cuca",
+      "url": "https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7"
+    },
+    {
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174146,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos 2004-2005",
+        "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190040,
+      "name": "Libre De Culpa",
+      "url": "https://open.spotify.com/track/0fdo6qeipu1aNWzIyARkmS"
+    },
+    {
+      "album": {
+        "name": "Recuerdos y algo m\u00e1s",
+        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193893,
+      "name": "Llora el amor",
+      "url": "https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos 2004-2005",
+        "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254600,
+      "name": "Lo Que So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/7LpnnmmXpFRFCq0XjjdqSp"
+    },
+    {
+      "album": {
+        "name": "Lo Sigues Amando?",
+        "url": "https://open.spotify.com/album/40XPMDKS7AmTO52bNLj9Fr"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 218879,
+      "name": "Lo Sigues Amando",
+      "url": "https://open.spotify.com/track/3aOHjxwSUYgi8e1WVZlGrg"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Luna llena",
+      "url": "https://open.spotify.com/track/1SHsgQdBllRc2q46WwpHQh"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 176000,
+      "name": "Maldita Suerte",
+      "url": "https://open.spotify.com/track/3hlmOQjz6QMpG914K4SHT8"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Maldita Suerte",
+      "url": "https://open.spotify.com/track/4kcMWe9I1GY4aTu2wx1OiE"
+    },
+    {
+      "album": {
+        "name": "Me Beb\u00ed Tu Recuerdo",
+        "url": "https://open.spotify.com/album/4Mqn8eRxk1HBIH5iuH0dgU"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 178887,
+      "name": "Me Beb\u00ed Tu Recuerdo",
+      "url": "https://open.spotify.com/track/6pPya1ve3ytyk8MmCafkxY"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225640,
+      "name": "Me encantar\u00eda",
+      "url": "https://open.spotify.com/track/1BVfDRwrBnmr23EuL06dXA"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205813,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/2yHKjT0dQOZJQlyIATUXit"
+    },
+    {
+      "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174986,
+      "name": "Me toc\u00f3 perder",
+      "url": "https://open.spotify.com/track/1VSCn6pepqpFo3ZReTkpWQ"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos 2004-2005",
+        "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/6FWnydvF7AgcnrLzamaNx3"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 174400,
+      "name": "Mi coraz\u00f3n y yo",
+      "url": "https://open.spotify.com/track/5Xb6GxBcyLNdeYpu4BoGJX"
+    },
+    {
+      "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Mi coraz\u00f3n y yo",
+      "url": "https://open.spotify.com/track/6ALYG2LeuuLis4Yjnrnx2t"
+    },
+    {
+      "album": {
+        "name": "Romantico incurable",
+        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187960,
+      "name": "Mi fracaso",
+      "url": "https://open.spotify.com/track/1w11SiJRAxlFNNmTWs2Cue"
+    },
+    {
+      "album": {
+        "name": "Mi Reporte Hasta Hoy",
+        "url": "https://open.spotify.com/album/5eCpf7QleroJy4vEglXmAD"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121158,
+      "name": "Mi Reporte Hasta Hoy",
+      "url": "https://open.spotify.com/track/5K7pNfsRNU1VR0QGTvqM4f"
+    },
+    {
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/3f22Qlxv4l7CpdAPZt1eYE"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 213840,
+      "name": "Mis Emociones",
+      "url": "https://open.spotify.com/track/6NBzqrEgfJHQ9KDyA683tl"
+    },
+    {
+      "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "Mujer infiel",
+      "url": "https://open.spotify.com/track/6UVkP7C83ln9B3JbPPChDs"
+    },
+    {
+      "album": {
+        "name": "Necesito una Compa\u00f1era",
+        "url": "https://open.spotify.com/album/0sfSywmuYrmNGlbNzshOay"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 212380,
+      "name": "Necesito una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/6q0nkSXtokYfQN5atZGwRW"
+    },
+    {
+      "album": {
+        "name": "Con paso sensual",
+        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225186,
+      "name": "Ninguna de las dos",
+      "url": "https://open.spotify.com/track/4Bx95tG3pAxXmNElIEpFzg"
+    },
+    {
+      "album": {
+        "name": "No Es Cierto Que Nunca Te Quise",
+        "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140063,
+      "name": "No Es Cierto Que Nunca Te Quise",
+      "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
+    },
+    {
+      "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "No necesitas a Carlo",
+      "url": "https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 200080,
+      "name": "Nuevo Amor",
+      "url": "https://open.spotify.com/track/3Omc1JskWu7w1bJqBcB5dq"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "Nuevo Amor",
+      "url": "https://open.spotify.com/track/3tg5PBiaejeut5ENOCpRgW"
+    },
+    {
+      "album": {
+        "name": "Una Poes\u00eda",
+        "url": "https://open.spotify.com/album/5X4ge35zs3SC798wQzyb6x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 211293,
+      "name": "Obra Maestra",
+      "url": "https://open.spotify.com/track/1l1nG6NS9S89SBdpanadQF"
+    },
+    {
+      "album": {
+        "name": "Una Poes\u00eda",
+        "url": "https://open.spotify.com/album/2YJNuXQxw3KHCxLUPb7PXg"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195706,
+      "name": "Otro de Esos Cuentos",
+      "url": "https://open.spotify.com/track/2LWBwqpIaFDiWnPNTZNS8b"
+    },
+    {
+      "album": {
+        "name": "Una Poes\u00eda",
+        "url": "https://open.spotify.com/album/5X4ge35zs3SC798wQzyb6x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 195706,
+      "name": "Otro de Esos Cuentos",
+      "url": "https://open.spotify.com/track/5Eqwo0fk0nLt09SialM8UZ"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212292,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/2JGAeqfGwHqmPgjoLEjXpy"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos 2004-2005",
+        "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 196306,
+      "name": "Piel A Piel",
+      "url": "https://open.spotify.com/track/4AjaDTAr3qFQPq5z0xVbps"
+    },
+    {
+      "album": {
+        "name": "Una Poes\u00eda",
+        "url": "https://open.spotify.com/album/2YJNuXQxw3KHCxLUPb7PXg"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218386,
+      "name": "Por Mis Defectos",
+      "url": "https://open.spotify.com/track/2FT8RUWKtE7JYqZdfKorGE"
+    },
+    {
+      "album": {
+        "name": "Una Poes\u00eda",
+        "url": "https://open.spotify.com/album/5X4ge35zs3SC798wQzyb6x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 218386,
+      "name": "Por Mis Defectos",
+      "url": "https://open.spotify.com/track/3NAbsREctrB4ApvtNIILlN"
+    },
+    {
+      "album": {
+        "name": "Recuerdos y algo m\u00e1s",
+        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Qui\u00e9n",
+      "url": "https://open.spotify.com/track/0RD4ucWis1jf1HmmvLSCv5"
+    },
+    {
+      "album": {
+        "name": "Recuerdos y algo m\u00e1s",
+        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208533,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
+    },
+    {
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 226360,
+      "name": "Reencuentro",
+      "url": "https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS"
+    },
+    {
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226360,
+      "name": "Reencuentro",
+      "url": "https://open.spotify.com/track/3jq17jcifw4s9ORbLxr4iJ"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos 2004-2005",
+        "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175520,
+      "name": "Regresando",
+      "url": "https://open.spotify.com/track/5irLWAgnD8YXe3MdxI3jkx"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188293,
+      "name": "Reg\u00e1lame",
+      "url": "https://open.spotify.com/track/2SEwhWIcGazGlCwNLKrfHQ"
+    },
+    {
+      "album": {
+        "name": "Romantico incurable",
+        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "Rom\u00e1ntico incurable",
+      "url": "https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 177213,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/5Cvu39ORglPtZfr5ZeZzBI"
+    },
+    {
+      "album": {
+        "name": "Romantico incurable",
+        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/7wv6p1I2GWuZ1eQ1Iok3u1"
+    },
+    {
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Tengo que regresar",
+      "url": "https://open.spotify.com/track/7GV3ncNCPyywOjPGU0oVCw"
+    },
+    {
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204813,
+      "name": "Tengo que regresar",
+      "url": "https://open.spotify.com/track/17RGBYLFlyJzVPpgvgFW6j"
+    },
+    {
+      "album": {
+        "name": "Tenis M\u00e1gicos",
+        "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "Tenis m\u00e1gicos",
+      "url": "https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 172613,
+      "name": "Tu Castigo",
+      "url": "https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172613,
+      "name": "Tu Castigo",
+      "url": "https://open.spotify.com/track/32csFAG5BL1HtQBm6Dypk1"
+    },
+    {
+      "album": {
+        "name": "Segunda Caida",
+        "url": "https://open.spotify.com/album/2USZirqNELoAnEkd5kmZ0c"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 186300,
+      "name": "Tu No Necesitas a Carlo (Regrabada)",
+      "url": "https://open.spotify.com/track/3JpPcEH23YaZCoT14gd4PT"
+    },
+    {
+      "album": {
+        "name": "Tenis M\u00e1gicos",
+        "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Un loco solitario",
+      "url": "https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210640,
+      "name": "Ven t\u00fa",
+      "url": "https://open.spotify.com/track/5uv8cC9SHR5gtEwBscOr4d"
+    },
+    {
+      "album": {
+        "name": "Tenis M\u00e1gicos",
+        "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148520,
+      "name": "Voy a danzar",
+      "url": "https://open.spotify.com/track/2Wq4EMgJOEo2mosunFaNwf"
+    },
+    {
+      "album": {
+        "name": "Voy A Empinar El Codo",
+        "url": "https://open.spotify.com/album/1MwxDeOeF13RIcJNCHDYk6"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 139976,
+      "name": "Voy A Empinar El Codo",
+      "url": "https://open.spotify.com/track/5kv9jkic1Rx0tQHZ8Q4Mtw"
+    },
+    {
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 185773,
+      "name": "Vuela, vuela",
+      "url": "https://open.spotify.com/track/2JSf7lq71PuKFj9S6aimLA"
+    },
+    {
+      "album": {
+        "name": "Dar\u00eda Todo por Ti",
+        "url": "https://open.spotify.com/album/27CPLhGnj32W8AeYVO5aW9"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177998,
+      "name": "Y No Soy Tu Due\u00f1o",
+      "url": "https://open.spotify.com/track/4Tv6lUsTTJXothI5v7fA1M"
+    },
+    {
+      "album": {
+        "name": "Dar\u00eda Todo por Ti",
+        "url": "https://open.spotify.com/album/7LalMyh8jS4b3AbrohmP2L"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 177998,
+      "name": "Y No Soy Tu Due\u00f1o",
+      "url": "https://open.spotify.com/track/7JXE1oSJkgnX1F4uYoyEcJ"
+    },
+    {
+      "album": {
+        "name": "Con paso sensual",
+        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Y yo que te amo",
+      "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oVGJD"
 }

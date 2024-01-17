@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-136 songs - 18 hr 23 min
+137 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Attack of the Mikrokosmos](https://open.spotify.com/track/42wVyu4ZVkFLBMK2cqZEYB) | [Steve Swell](https://open.spotify.com/artist/63mW3Dk3IOcppvvV3R5Hlo), [Kende Dreams](https://open.spotify.com/artist/3UavYzlEiScQBO8Rsq8VVo) | [Hommage À Bartòk](https://open.spotify.com/album/3gHuZtGKNrYV5sOUvYouly) | 8:12 | 2020-08-25 |  |
 | [Awake Nu \(Remastered\)](https://open.spotify.com/track/1YlTuLs7h8VxqxImc1mh2l) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI) | [Now Playing Don Cherry](https://open.spotify.com/album/3fvpOLLX8Rhulm9ChxqX8O) | 6:55 | 2020-08-25 | 2022-07-29 |
 | [Awake Nu \- 2005 Remastered](https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI) | [Where Is Brooklyn](https://open.spotify.com/album/5MfuoMr4VQqgrjQcQiPc2z) | 6:55 | 2020-08-25 |  |
+| [Baghèt](https://open.spotify.com/track/21464HJPf8GrBxzWpDnq45) | [Gianluigi Trovesi](https://open.spotify.com/artist/72vioIyz3G8Ihu1CboAVSA), [Paolo Damiani](https://open.spotify.com/artist/4Kcev97eG1s5FLhs5iB1Xc), [Gianni Cazzola](https://open.spotify.com/artist/0gMoZy1oz4x7XZiwbFSDl9) | [Baghèt \(Remastered\)](https://open.spotify.com/album/1arsrww8NTIgtt6YmV4rxm) | 5:54 | 2024-01-12 |  |
 | [blakey jazz](https://open.spotify.com/track/2lcm5CnL3Eu6xobycEr7HJ) | [okuwaki teQ](https://open.spotify.com/artist/6MxdeL7D339oUVRyTmsbxU), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [blakey jazz](https://open.spotify.com/album/7ElnyXPSXcKtWbmyffJTKq) | 3:23 | 2022-07-15 |  |
 | [Blue Threads](https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY) | [Whit Dickey](https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo), [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [Morph](https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe) | 3:30 | 2020-08-25 |  |
 | [Blue Threads](https://open.spotify.com/track/1Vs1wAPWPnLondVj2OTguz) | [Whit Dickey](https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo), [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [Morph](https://open.spotify.com/album/2s9MewAV3KnqC0Pq0qjzgL) | 3:30 | 2020-08-25 | 2022-07-28 |
@@ -30,7 +31,7 @@
 | [Box Step](https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC) | [Chad Taylor](https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt), [Angelica Sanchez](https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi), [Chris Lightcap](https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a) | [Circle Down](https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB) | 5:59 | 2020-08-25 |  |
 | [Breaking Point](https://open.spotify.com/track/08didpMJM0vsICBS3uu2Xd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Essential Blue Note Collection](https://open.spotify.com/album/7dDZGuJMNFpIHa2J2jSdJT) | 10:19 | 2020-08-25 |  |
 | [Breaking Point](https://open.spotify.com/track/2GaaMfyaIL0QM9hI40Hrj3) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Anthology](https://open.spotify.com/album/5bAJnyJWlko8oH37pimRlH) | 10:19 | 2020-08-25 | 2022-07-27 |
-| [Broken Cycles](https://open.spotify.com/track/0wnIDv8Za64PpMPK08z3Jk) | [Peter Evans](https://open.spotify.com/artist/3js0AfR1xKDKNWyCMi1FM3) | [Zebulon](https://open.spotify.com/album/1fnzZglampHKANe3S2MT4l) | 15:37 | 2020-08-25 |  |
+| [Broken Cycles](https://open.spotify.com/track/0wnIDv8Za64PpMPK08z3Jk) | [peterevans](https://open.spotify.com/artist/1BReGRlKJwzay9hego3nTo) | [Zebulon](https://open.spotify.com/album/1fnzZglampHKANe3S2MT4l) | 15:37 | 2020-08-25 |  |
 | [Bugatti \(étude\)](https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Bugatti \(étude\)](https://open.spotify.com/album/3judRd8KJgyP9NVUDdGLJl) | 4:14 | 2022-01-28 |  |
 | [Cancellation \- Digital Remaster/2006](https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [It's Time](https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa) | 7:43 | 2020-08-25 |  |
 | [Canopy](https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T) | [Steph Richards](https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol) | [Supersense](https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj) | 3:41 | 2020-10-23 | 2023-04-30 |

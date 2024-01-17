@@ -1,13 +1,29 @@
 {
   "description": "All about aespa: meeting another self and experiencing the new world",
-  "num_followers": 145366,
+  "num_followers": 148427,
   "original_name": "This Is aespa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTZiN2E2ZWY1Njg4M2U3NzVlM2IzNWMwMWU3NGFiZWU2ZGFhM2Fm",
+  "snapshot_id": "MCwyZTQzOTM5ZjMyZGQ2MzIwOGE1ODJkMGRhYjUxYjY1NjA3NzMzYjY0",
   "tracks": [
+    {
+      "added_at": "2024-01-16 08:07:59",
+      "album": {
+        "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
+        "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Regret of the Times - 2024 aespa Remake Version",
+      "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
+    },
     {
       "added_at": "2023-11-24 09:41:18",
       "album": {

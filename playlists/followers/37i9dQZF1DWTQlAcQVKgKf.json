@@ -1,620 +1,1293 @@
 {
-  "2022-04-20": 48804,
-  "2022-04-21": 48832,
-  "2022-04-22": 48869,
-  "2022-04-23": 48900,
-  "2022-04-24": 48937,
-  "2022-04-25": 48971,
-  "2022-04-26": 49001,
-  "2022-04-27": 49022,
-  "2022-04-28": 49046,
-  "2022-04-29": 49095,
-  "2022-04-30": 49141,
-  "2022-05-01": 49183,
-  "2022-05-02": 49183,
-  "2022-05-03": 49228,
-  "2022-05-04": 49263,
-  "2022-05-05": 49305,
-  "2022-05-06": 49347,
-  "2022-05-07": 49411,
-  "2022-05-08": 49488,
-  "2022-05-09": 49497,
-  "2022-05-10": 49533,
-  "2022-05-11": 49586,
-  "2022-05-12": 49644,
-  "2022-05-13": 49673,
-  "2022-05-14": 49719,
-  "2022-05-15": 49761,
-  "2022-05-16": 49800,
-  "2022-05-17": 49841,
-  "2022-05-18": 49882,
-  "2022-05-19": 49927,
-  "2022-05-20": 49955,
-  "2022-05-21": 50013,
-  "2022-05-22": 50013,
-  "2022-05-23": 50059,
-  "2022-05-24": 50094,
-  "2022-05-25": 50130,
-  "2022-05-26": 50184,
-  "2022-05-27": 50233,
-  "2022-05-28": 50276,
-  "2022-05-29": 50318,
-  "2022-05-30": 50378,
-  "2022-05-31": 50411,
-  "2022-06-01": 50488,
-  "2022-06-02": 50488,
-  "2022-06-03": 50534,
-  "2022-06-04": 50567,
-  "2022-06-05": 50609,
-  "2022-06-06": 50645,
-  "2022-06-07": 50702,
-  "2022-06-08": 50740,
-  "2022-06-09": 50770,
-  "2022-06-10": 50818,
-  "2022-06-11": 50865,
-  "2022-06-12": 50921,
-  "2022-06-13": 50966,
-  "2022-06-14": 51006,
-  "2022-06-15": 51053,
-  "2022-06-16": 51085,
-  "2022-06-17": 51152,
-  "2022-06-18": 51199,
-  "2022-06-19": 51269,
-  "2022-06-20": 51269,
-  "2022-06-21": 51311,
-  "2022-06-22": 51380,
-  "2022-06-23": 51380,
-  "2022-06-24": 51412,
-  "2022-06-25": 51448,
-  "2022-06-26": 51492,
-  "2022-06-27": 51526,
-  "2022-06-28": 51564,
-  "2022-06-29": 51590,
-  "2022-06-30": 51620,
-  "2022-07-01": 51672,
-  "2022-07-02": 51694,
-  "2022-07-03": 51730,
-  "2022-07-04": 51765,
-  "2022-07-05": 51817,
-  "2022-07-06": 51845,
-  "2022-07-07": 51866,
-  "2022-07-08": 51911,
-  "2022-07-09": 51946,
-  "2022-07-10": 51978,
-  "2022-07-11": 52008,
-  "2022-07-12": 52049,
-  "2022-07-13": 52075,
-  "2022-07-14": 52104,
-  "2022-07-15": 52133,
-  "2022-07-16": 52164,
-  "2022-07-17": 52202,
-  "2022-07-18": 52228,
-  "2022-07-19": 52271,
-  "2022-07-20": 52320,
-  "2022-07-21": 52406,
-  "2022-07-22": 52478,
-  "2022-07-23": 52518,
-  "2022-07-24": 52559,
-  "2022-07-25": 52611,
-  "2022-07-26": 52664,
-  "2022-07-27": 52711,
-  "2022-07-28": 52749,
-  "2022-07-29": 52781,
-  "2022-07-30": 52875,
-  "2022-07-31": 52875,
-  "2022-08-01": 52906,
-  "2022-08-02": 52955,
-  "2022-08-03": 52955,
-  "2022-08-04": 52989,
-  "2022-08-05": 53030,
-  "2022-08-06": 53048,
-  "2022-08-07": 53081,
-  "2022-08-08": 53122,
-  "2022-08-09": 53152,
-  "2022-08-10": 53185,
-  "2022-08-11": 53220,
-  "2022-08-12": 53249,
-  "2022-08-13": 53289,
-  "2022-08-14": 53317,
-  "2022-08-15": 53360,
-  "2022-08-16": 53397,
-  "2022-08-17": 53434,
-  "2022-08-18": 53474,
-  "2022-08-19": 53513,
-  "2022-08-20": 53553,
-  "2022-08-21": 53584,
-  "2022-08-22": 53598,
-  "2022-08-23": 53621,
-  "2022-08-24": 53649,
-  "2022-08-25": 53681,
-  "2022-08-26": 53708,
-  "2022-08-27": 53733,
-  "2022-08-28": 53757,
-  "2022-08-29": 53789,
-  "2022-08-30": 53778,
-  "2022-08-31": 53693,
-  "2022-09-01": 53725,
-  "2022-09-02": 53640,
-  "2022-09-03": 53570,
-  "2022-09-04": 53405,
-  "2022-09-05": 53341,
-  "2022-09-06": 53350,
-  "2022-09-07": 53368,
-  "2022-09-09": 53417,
-  "2022-09-10": 53443,
-  "2022-09-11": 53474,
-  "2022-09-12": 53498,
-  "2022-09-13": 53526,
-  "2022-09-15": 53558,
-  "2022-09-16": 53573,
-  "2022-09-17": 53597,
-  "2022-09-18": 53645,
-  "2022-09-19": 53664,
-  "2022-09-20": 53675,
-  "2022-09-21": 53695,
-  "2022-09-22": 53719,
-  "2022-09-23": 53724,
-  "2022-09-24": 53747,
-  "2022-09-25": 53772,
-  "2022-09-26": 53799,
-  "2022-09-27": 53828,
-  "2022-09-28": 53844,
-  "2022-09-29": 53875,
-  "2022-09-30": 53896,
-  "2022-10-01": 53915,
-  "2022-10-02": 53935,
-  "2022-10-03": 53969,
-  "2022-10-04": 53992,
-  "2022-10-05": 54021,
-  "2022-10-06": 54046,
-  "2022-10-07": 54063,
-  "2022-10-08": 54075,
-  "2022-10-09": 54128,
-  "2022-10-10": 54138,
-  "2022-10-11": 54167,
-  "2022-10-12": 54184,
-  "2022-10-13": 54202,
-  "2022-10-14": 54215,
-  "2022-10-15": 54231,
-  "2022-10-16": 54262,
-  "2022-10-17": 54299,
-  "2022-10-18": 54314,
-  "2022-10-19": 54329,
-  "2022-10-20": 54337,
-  "2022-10-21": 54371,
-  "2022-10-22": 54394,
-  "2022-10-23": 54407,
-  "2022-10-24": 54430,
-  "2022-10-25": 54458,
-  "2022-10-26": 54473,
-  "2022-10-27": 54505,
-  "2022-10-28": 54520,
-  "2022-10-29": 54540,
-  "2022-10-30": 54574,
-  "2022-10-31": 54590,
-  "2022-11-01": 54614,
-  "2022-11-02": 54634,
-  "2022-11-03": 54658,
-  "2022-11-04": 54680,
-  "2022-11-05": 54708,
-  "2022-11-06": 54715,
-  "2022-11-07": 54731,
-  "2022-11-08": 54750,
-  "2022-11-09": 54784,
-  "2022-11-10": 54814,
-  "2022-11-11": 54845,
-  "2022-11-12": 54883,
-  "2022-11-13": 54911,
-  "2022-11-14": 54936,
-  "2022-11-15": 54964,
-  "2022-11-16": 54977,
-  "2022-11-17": 55017,
-  "2022-11-18": 55024,
-  "2022-11-19": 55015,
-  "2022-11-20": 55009,
-  "2022-11-21": 55029,
-  "2022-11-22": 55050,
-  "2022-11-23": 55085,
-  "2022-11-24": 55144,
-  "2022-11-25": 55211,
-  "2022-11-26": 55238,
-  "2022-11-27": 55265,
-  "2022-11-28": 55293,
-  "2022-11-29": 55326,
-  "2022-11-30": 55353,
-  "2022-12-01": 55393,
-  "2022-12-02": 55426,
-  "2022-12-03": 55448,
-  "2022-12-04": 55508,
-  "2022-12-05": 55536,
-  "2022-12-06": 55561,
-  "2022-12-07": 55587,
-  "2022-12-08": 55616,
-  "2022-12-09": 55650,
-  "2022-12-10": 55684,
-  "2022-12-11": 55709,
-  "2022-12-12": 55736,
-  "2022-12-13": 55743,
-  "2022-12-14": 55768,
-  "2022-12-15": 55791,
-  "2022-12-16": 55826,
-  "2022-12-17": 55842,
-  "2022-12-18": 55873,
-  "2022-12-19": 55889,
-  "2022-12-20": 55926,
-  "2022-12-21": 55926,
-  "2022-12-22": 55939,
-  "2022-12-24": 55978,
-  "2022-12-25": 55999,
-  "2022-12-26": 56008,
-  "2022-12-27": 56022,
-  "2022-12-28": 56067,
-  "2022-12-29": 56101,
-  "2022-12-30": 56118,
-  "2022-12-31": 56145,
-  "2023-01-01": 56167,
-  "2023-01-02": 56183,
-  "2023-01-03": 56206,
-  "2023-01-04": 56222,
-  "2023-01-05": 56242,
-  "2023-01-06": 56278,
-  "2023-01-07": 56299,
-  "2023-01-08": 56306,
-  "2023-01-09": 56329,
-  "2023-01-10": 56344,
-  "2023-01-11": 56370,
-  "2023-01-12": 56419,
-  "2023-01-13": 56443,
-  "2023-01-14": 56484,
-  "2023-01-15": 56490,
-  "2023-01-16": 56517,
-  "2023-01-17": 56540,
-  "2023-01-18": 56559,
-  "2023-01-19": 56584,
-  "2023-01-20": 56602,
-  "2023-01-21": 56624,
-  "2023-01-22": 56651,
-  "2023-01-23": 56673,
-  "2023-01-24": 56684,
-  "2023-01-25": 56699,
-  "2023-01-26": 56714,
-  "2023-01-27": 56740,
-  "2023-01-28": 56757,
-  "2023-01-29": 56769,
-  "2023-01-30": 56784,
-  "2023-01-31": 56784,
-  "2023-02-01": 56803,
-  "2023-02-02": 56824,
-  "2023-02-03": 56850,
-  "2023-02-04": 56865,
-  "2023-02-05": 56889,
-  "2023-02-06": 56904,
-  "2023-02-07": 56919,
-  "2023-02-08": 56966,
-  "2023-02-09": 56966,
-  "2023-02-10": 56980,
-  "2023-02-11": 56987,
-  "2023-02-12": 57034,
-  "2023-02-13": 57052,
-  "2023-02-14": 57052,
-  "2023-02-15": 57076,
-  "2023-02-16": 57087,
-  "2023-02-17": 57108,
-  "2023-02-18": 57147,
-  "2023-02-19": 57152,
-  "2023-02-20": 57163,
-  "2023-02-21": 57176,
-  "2023-02-22": 57199,
-  "2023-02-23": 57216,
-  "2023-02-24": 57247,
-  "2023-02-25": 57268,
-  "2023-02-26": 57300,
-  "2023-02-27": 57351,
-  "2023-02-28": 57351,
-  "2023-03-01": 57386,
-  "2023-03-02": 57406,
-  "2023-03-03": 57438,
-  "2023-03-04": 57453,
-  "2023-03-05": 57503,
-  "2023-03-06": 57503,
-  "2023-03-07": 57511,
-  "2023-03-08": 57527,
-  "2023-03-09": 57546,
-  "2023-03-10": 57568,
-  "2023-03-11": 57582,
-  "2023-03-12": 57608,
-  "2023-03-13": 57630,
-  "2023-03-14": 57642,
-  "2023-03-15": 57652,
-  "2023-03-16": 57664,
-  "2023-03-17": 57664,
-  "2023-03-18": 57701,
-  "2023-03-19": 57715,
-  "2023-03-20": 57727,
-  "2023-03-21": 57737,
-  "2023-03-22": 57759,
-  "2023-03-23": 57772,
-  "2023-03-24": 57772,
-  "2023-03-25": 57792,
-  "2023-03-26": 57814,
-  "2023-03-27": 57819,
-  "2023-03-28": 57832,
-  "2023-03-29": 57844,
-  "2023-03-30": 57880,
-  "2023-03-31": 57880,
-  "2023-04-01": 57893,
-  "2023-04-02": 57908,
-  "2023-04-03": 57915,
-  "2023-04-04": 57922,
-  "2023-04-05": 57941,
-  "2023-04-06": 57952,
-  "2023-04-07": 57974,
-  "2023-04-09": 57986,
-  "2023-04-10": 58007,
-  "2023-04-11": 58026,
-  "2023-04-12": 58026,
-  "2023-04-13": 58027,
-  "2023-04-14": 58059,
-  "2023-04-15": 58076,
-  "2023-04-16": 58094,
-  "2023-04-17": 58103,
-  "2023-04-18": 58115,
-  "2023-04-19": 58135,
-  "2023-04-20": 58153,
-  "2023-04-21": 58175,
-  "2023-04-22": 58187,
-  "2023-04-23": 58218,
-  "2023-04-24": 58229,
-  "2023-04-25": 58249,
-  "2023-04-26": 58280,
-  "2023-04-27": 58302,
-  "2023-04-28": 58320,
-  "2023-04-29": 58333,
-  "2023-04-30": 58358,
-  "2023-05-01": 58382,
-  "2023-05-02": 58386,
-  "2023-05-03": 58401,
-  "2023-05-04": 58415,
-  "2023-05-05": 58434,
-  "2023-05-06": 58453,
-  "2023-05-07": 58475,
-  "2023-05-08": 58483,
-  "2023-05-09": 58496,
-  "2023-05-10": 58496,
-  "2023-05-11": 58519,
-  "2023-05-12": 58539,
-  "2023-05-13": 58562,
-  "2023-05-14": 58573,
-  "2023-05-15": 58588,
-  "2023-05-16": 58616,
-  "2023-05-17": 58641,
-  "2023-05-18": 58658,
-  "2023-05-19": 58674,
-  "2023-05-20": 58712,
-  "2023-05-21": 58712,
-  "2023-05-22": 58712,
-  "2023-05-23": 58756,
-  "2023-05-24": 58774,
-  "2023-05-25": 58777,
-  "2023-05-26": 58792,
-  "2023-05-27": 58804,
-  "2023-05-28": 58810,
-  "2023-05-29": 58810,
-  "2023-05-30": 58830,
-  "2023-05-31": 58849,
-  "2023-06-01": 58861,
-  "2023-06-02": 58871,
-  "2023-06-03": 58896,
-  "2023-06-04": 58921,
-  "2023-06-05": 58940,
-  "2023-06-06": 58957,
-  "2023-06-07": 58975,
-  "2023-06-08": 58988,
-  "2023-06-09": 59008,
-  "2023-06-10": 59019,
-  "2023-06-11": 59040,
-  "2023-06-12": 59065,
-  "2023-06-13": 59079,
-  "2023-06-14": 59083,
-  "2023-06-15": 59094,
-  "2023-06-16": 11839,
-  "2023-06-17": 11839,
-  "2023-06-18": 11839,
-  "2023-06-19": 11839,
-  "2023-06-20": 11839,
-  "2023-06-21": 11839,
-  "2023-06-22": 11839,
-  "2023-06-23": 11839,
-  "2023-06-24": 11839,
-  "2023-06-25": 11839,
-  "2023-06-26": 11839,
-  "2023-06-27": 11839,
-  "2023-06-28": 11839,
-  "2023-06-29": 11839,
-  "2023-06-30": 11839,
-  "2023-07-01": 11839,
-  "2023-07-02": 11839,
-  "2023-07-03": 11839,
-  "2023-07-04": 11839,
-  "2023-07-05": 11839,
-  "2023-07-06": 11839,
-  "2023-07-07": 11839,
-  "2023-07-08": 11839,
-  "2023-07-09": 11839,
-  "2023-07-10": 11839,
-  "2023-07-11": 11839,
-  "2023-07-12": 11839,
-  "2023-07-13": 11839,
-  "2023-07-14": 11839,
-  "2023-07-15": 11839,
-  "2023-07-16": 11839,
-  "2023-07-17": 11839,
-  "2023-07-18": 11839,
-  "2023-07-19": 11839,
-  "2023-07-20": 11839,
-  "2023-07-21": 11839,
-  "2023-07-22": 11839,
-  "2023-07-23": 11839,
-  "2023-07-24": 11839,
-  "2023-07-25": 11839,
-  "2023-07-26": 11839,
-  "2023-07-27": 11839,
-  "2023-07-28": 11839,
-  "2023-07-29": 11839,
-  "2023-07-30": 11839,
-  "2023-07-31": 11839,
-  "2023-08-01": 11839,
-  "2023-08-02": 11839,
-  "2023-08-03": 11839,
-  "2023-08-04": 11839,
-  "2023-08-05": 11839,
-  "2023-08-06": 11839,
-  "2023-08-07": 11839,
-  "2023-08-08": 11839,
-  "2023-08-09": 11839,
-  "2023-08-10": 11839,
-  "2023-08-11": 11839,
-  "2023-08-12": 11839,
-  "2023-08-13": 11839,
-  "2023-08-14": 11839,
-  "2023-08-15": 11839,
-  "2023-08-16": 11839,
-  "2023-08-17": 11839,
-  "2023-08-18": 11839,
-  "2023-08-19": 11839,
-  "2023-08-20": 11839,
-  "2023-08-21": 11839,
-  "2023-08-22": 11839,
-  "2023-08-23": 11839,
-  "2023-08-24": 11839,
-  "2023-08-25": 11839,
-  "2023-08-26": 11839,
-  "2023-08-27": 11839,
-  "2023-08-28": 11839,
-  "2023-08-29": 11839,
-  "2023-08-30": 11839,
-  "2023-08-31": 11839,
-  "2023-09-01": 11839,
-  "2023-09-02": 11839,
-  "2023-09-03": 11839,
-  "2023-09-04": 11839,
-  "2023-09-05": 11839,
-  "2023-09-06": 11839,
-  "2023-09-07": 11839,
-  "2023-09-08": 11839,
-  "2023-09-09": 11839,
-  "2023-09-10": 11839,
-  "2023-09-11": 11839,
-  "2023-09-12": 11839,
-  "2023-09-13": 11839,
-  "2023-09-14": 11839,
-  "2023-09-15": 11839,
-  "2023-09-16": 11839,
-  "2023-09-17": 11839,
-  "2023-09-18": 11839,
-  "2023-09-19": 11839,
-  "2023-09-20": 11839,
-  "2023-09-21": 11839,
-  "2023-09-22": 11839,
-  "2023-09-23": 11839,
-  "2023-09-24": 11839,
-  "2023-09-25": 11839,
-  "2023-09-26": 11839,
-  "2023-09-27": 11839,
-  "2023-09-28": 11839,
-  "2023-09-29": 11839,
-  "2023-09-30": 11839,
-  "2023-10-01": 11839,
-  "2023-10-02": 11839,
-  "2023-10-03": 11839,
-  "2023-10-04": 11839,
-  "2023-10-05": 11839,
-  "2023-10-06": 11839,
-  "2023-10-07": 11839,
-  "2023-10-08": 11839,
-  "2023-10-09": 11839,
-  "2023-10-10": 11839,
-  "2023-10-11": 11839,
-  "2023-10-12": 11839,
-  "2023-10-13": 11839,
-  "2023-10-14": 11839,
-  "2023-10-15": 11839,
-  "2023-10-16": 11839,
-  "2023-10-17": 11839,
-  "2023-10-18": 11839,
-  "2023-10-19": 11839,
-  "2023-10-20": 11839,
-  "2023-10-21": 11839,
-  "2023-10-22": 11839,
-  "2023-10-23": 11839,
-  "2023-10-24": 11839,
-  "2023-10-25": 11839,
-  "2023-10-26": 11839,
-  "2023-10-27": 11839,
-  "2023-10-28": 11839,
-  "2023-10-29": 11839,
-  "2023-10-30": 11839,
-  "2023-10-31": 11839,
-  "2023-11-01": 11839,
-  "2023-11-02": 11839,
-  "2023-11-03": 11839,
-  "2023-11-04": 11839,
-  "2023-11-05": 11839,
-  "2023-11-06": 11839,
-  "2023-11-07": 11839,
-  "2023-11-08": 11839,
-  "2023-11-09": 11839,
-  "2023-11-10": 11839,
-  "2023-11-11": 11839,
-  "2023-11-12": 11839,
-  "2023-11-13": 11839,
-  "2023-11-14": 11839,
-  "2023-11-15": 11839,
-  "2023-11-16": 11839,
-  "2023-11-17": 11839,
-  "2023-11-18": 11839,
-  "2023-11-19": 11839,
-  "2023-11-20": 11839,
-  "2023-11-21": 11839,
-  "2023-11-22": 11839,
-  "2023-11-23": 11839,
-  "2023-11-24": 11839,
-  "2023-11-25": 11839,
-  "2023-11-26": 11839,
-  "2023-11-27": 11839,
-  "2023-11-28": 11839,
-  "2023-11-29": 11839,
-  "2023-11-30": 11839,
-  "2023-12-01": 11839,
-  "2023-12-02": 11839,
-  "2023-12-03": 11839,
-  "2023-12-04": 11839,
-  "2023-12-05": 11839,
-  "2023-12-06": 11839,
-  "2023-12-07": 11839,
-  "2023-12-08": 11839,
-  "2023-12-09": 11839,
-  "2023-12-10": 11839,
-  "2023-12-11": 11839,
-  "2023-12-12": 11839,
-  "2023-12-13": 11839,
-  "2023-12-14": 11839,
-  "2023-12-15": 11839,
-  "2023-12-16": 11839,
-  "2023-12-17": 11839,
-  "2023-12-18": 11839,
-  "2023-12-19": 11839,
-  "2023-12-20": 11839,
-  "2023-12-21": 11839,
-  "2023-12-22": 11839,
-  "2023-12-23": 11839,
-  "2023-12-24": 11839,
-  "2023-12-25": 11839,
-  "2023-12-26": 11839,
-  "2023-12-27": 11839,
-  "2023-12-30": 11839,
-  "2023-12-31": 11839,
-  "2024-01-01": 11839,
-  "2024-01-02": 11839,
-  "2024-01-03": 11839
+  "2024-01-17": 11839,
+  "date_first_scraped": "2022-04-20",
+  "description": "The sexy queen! Check out HyunA's music.",
+  "name": "This Is HyunA",
+  "tracks": [
+    {
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "G.NA",
+          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+        },
+        {
+          "name": "Yong Jun Hyung",
+          "url": "https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227448,
+      "name": "A Bitter Day (Feat. Jun Hyung Yong & G.NA)",
+      "url": "https://open.spotify.com/track/0qjtg6cadlTcAT2Ox5lpcM"
+    },
+    {
+      "album": {
+        "name": "A Bitter Day",
+        "url": "https://open.spotify.com/album/1uU6hbNWGtlMj2Iscurkdf"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Yong Jun Hyung",
+          "url": "https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo"
+        },
+        {
+          "name": "G.NA",
+          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227448,
+      "name": "A Bitter Day (Feat. Jun Hyung Yong & G.NA)",
+      "url": "https://open.spotify.com/track/5uBQ2wFMlFrM3AGp7fJ4dw"
+    },
+    {
+      "album": {
+        "name": "A Talk",
+        "url": "https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79516,
+      "name": "A Talk",
+      "url": "https://open.spotify.com/track/3LhzNNohNcHfnR36wjKP1M"
+    },
+    {
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86439,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/07IQN32qgj9aIwoHYqpA60"
+    },
+    {
+      "album": {
+        "name": "Following",
+        "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193328,
+      "name": "BABE",
+      "url": "https://open.spotify.com/track/5kFakScPV7ZWXStUSvQmxA"
+    },
+    {
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161539,
+      "name": "Bad Dog",
+      "url": "https://open.spotify.com/track/3e7f4ve2p94f8O1BlaiiLq"
+    },
+    {
+      "album": {
+        "name": "A Talk",
+        "url": "https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "ELLY",
+          "url": "https://open.spotify.com/artist/5h0QnpgJxd77A8UXYrcvhy"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209737,
+      "name": "Blacklist (Feat. LE)",
+      "url": "https://open.spotify.com/track/4FNEiAZkTqkdCgcUtBVu9E"
+    },
+    {
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212244,
+      "name": "Bubble Pop!",
+      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
+    },
+    {
+      "album": {
+        "name": "A+",
+        "url": "https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Il Hoon Jung",
+          "url": "https://open.spotify.com/artist/38msH2cFK8ui3GvbWqumqk"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202546,
+      "name": "Cause I'm God Girl (Feat. Il Hoon Jung Of BTOB)",
+      "url": "https://open.spotify.com/track/0AgMJriVSGWjN8WLaCqnDv"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0qtB7YKqjdu1F9uwKgE29L"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Yong Jun Hyung",
+          "url": "https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Change (Feat. Jun Hyung Yong From BEAST)",
+      "url": "https://open.spotify.com/track/6kFDvPj3FVpQ90HZ5PacxE"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/7rxIGZnWtFAmEP0LAGMF3E"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 192400,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7ehFSpcDs3PBExiLPwXQP9"
+    },
+    {
+      "album": {
+        "name": "Personal Taste (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6yG5uMF6dK0xar9DgCkf62"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Creating Love",
+      "url": "https://open.spotify.com/track/1ewy5akEgeJObkXlDLFhzf"
+    },
+    {
+      "album": {
+        "name": "Following",
+        "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193258,
+      "name": "DART",
+      "url": "https://open.spotify.com/track/5k1N6WChLzBUVScS3YJdO0"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222380,
+      "name": "Dear Boyfriend",
+      "url": "https://open.spotify.com/track/4EcjIKnQJSnOW7GIIMSTo7"
+    },
+    {
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
+      },
+      "artists": [
+        {
+          "name": "HyunA&DAWN",
+          "url": "https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113733,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/5YNHcGVvP7lZ6D4qzyePff"
+    },
+    {
+      "album": {
+        "name": "A`wesome",
+        "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199127,
+      "name": "Do it!",
+      "url": "https://open.spotify.com/track/3Ozahr3GUVyWS4K9AvRXpY"
+    },
+    {
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Ji Yoon Jun",
+          "url": "https://open.spotify.com/artist/6jNj6Y6sIxigyIX0gmYg35"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203232,
+      "name": "Downtown (Feat. Ji Yoon Jun)",
+      "url": "https://open.spotify.com/track/1HVlIvJ0FyvUYf9KARjTkT"
+    },
+    {
+      "album": {
+        "name": "FLOWER SHOWER",
+        "url": "https://open.spotify.com/album/2SUtN48rlxa2SfTtffOnlR"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188373,
+      "name": "FLOWER SHOWER",
+      "url": "https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC"
+    },
+    {
+      "album": {
+        "name": "FLOWER SHOWER",
+        "url": "https://open.spotify.com/album/6WEd55Evvtz5ZTMogdK8Uu"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "FLOWER SHOWER",
+      "url": "https://open.spotify.com/track/7sjnURvuXBKEdM3fw698iq"
+    },
+    {
+      "album": {
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188386,
+      "name": "FLOWER SHOWER",
+      "url": "https://open.spotify.com/track/7zswEelYoepv2FYsDaGhUD"
+    },
+    {
+      "album": {
+        "name": "A`wesome",
+        "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/5YLnTUkaycgu2u8CvQRWSm"
+    },
+    {
+      "album": {
+        "name": "A Talk",
+        "url": "https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191399,
+      "name": "French Kiss",
+      "url": "https://open.spotify.com/track/2b7Kon2nTvTDOX4CQ7sFPL"
+    },
+    {
+      "album": {
+        "name": "A+",
+        "url": "https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Jung Yeol Kwon",
+          "url": "https://open.spotify.com/artist/6WymcE59cneCq28juiL850"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "Get Outta My House (Feat. Jung Yeol Kwon)",
+      "url": "https://open.spotify.com/track/3IH4uDZKlyodQsR1e9RDjj"
+    },
+    {
+      "album": {
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "GOOD GIRL",
+      "url": "https://open.spotify.com/track/52bSWMZoUoWlQMlV7q5Dqn"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Not Cool",
+        "url": "https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185400,
+      "name": "GOOD GIRL",
+      "url": "https://open.spotify.com/track/5iMcihnPLMICfFhg3H694w"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Il Hoon Jung of BTOB",
+          "url": "https://open.spotify.com/artist/4viqH5lDwLHQSeDIZTJCK7"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195631,
+      "name": "Green Apple (Feat. Il Hoon Jung of BTOB)",
+      "url": "https://open.spotify.com/track/4U3gbP0ZUXE9k2YZGE2TMH"
+    },
+    {
+      "album": {
+        "name": "Act. 7",
+        "url": "https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3"
+    },
+    {
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/5EshYYiAPgdUAA1gsYA2UH"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231549,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/2Vs5y1cLMIbZHUy3E3dhS9"
+    },
+    {
+      "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208773,
+      "name": "Hot Issue",
+      "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
+    },
+    {
+      "album": {
+        "name": "A`wesome",
+        "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199210,
+      "name": "How's this",
+      "url": "https://open.spotify.com/track/6Wqmn89a8tItOh3NLEhNTD"
+    },
+    {
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/1Q3gr1hcLVJBVnyeqrRHhc"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Huh",
+      "url": "https://open.spotify.com/track/0qYMhsxFi4fBHRDorVMBPq"
+    },
+    {
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
+      },
+      "artists": [
+        {
+          "name": "HyunA&DAWN",
+          "url": "https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207893,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5l6IltuCt6Ex7XP3dG47o1"
+    },
+    {
+      "album": {
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "I'm Not Cool",
+      "url": "https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Not Cool",
+        "url": "https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174173,
+      "name": "I'm Not Cool",
+      "url": "https://open.spotify.com/track/7xTOqnsOV6qHBPWoCWpzGM"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Maboos",
+          "url": "https://open.spotify.com/artist/2uch5GhXkpT561NB95OYBL"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195787,
+      "name": "Ice Cream (Feat. Maboos)",
+      "url": "https://open.spotify.com/track/6TBGYsimcC1FarPc0I7AYN"
+    },
+    {
+      "album": {
+        "name": "A+",
+        "url": "https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Ji Dam Yook",
+          "url": "https://open.spotify.com/artist/0q5mCOaqzgDnmthha6f4W7"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "Ice Ice (Feat. Ji Dam Yook)",
+      "url": "https://open.spotify.com/track/142KEuaZKcjpSqYybDu68D"
+    },
+    {
+      "album": {
+        "name": "Is It Poppin'?",
+        "url": "https://open.spotify.com/album/1nu4yFtuXNSumMMUdOTq3y"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190171,
+      "name": "Is It Poppin'?",
+      "url": "https://open.spotify.com/track/6Yp2NcLYo4JbwQs4EQ2pO7"
+    },
+    {
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204982,
+      "name": "Just Follow (Feat. DOK2)",
+      "url": "https://open.spotify.com/track/5oiAchP69eu8pbWbeIDwrG"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Semi Final",
+        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+      },
+      "artists": [
+        {
+          "name": "JAMBINO",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "LIKE WATER (Feat. Loco, HyunA)",
+      "url": "https://open.spotify.com/track/6Vo3VtFuU8qHeXJpb5rDFa"
+    },
+    {
+      "album": {
+        "name": "Lip & Hip",
+        "url": "https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209746,
+      "name": "Lip & Hip",
+      "url": "https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2"
+    },
+    {
+      "album": {
+        "name": "Following",
+        "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187013,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/2NtHzG5UFl9s7plYUeYuHm"
+    },
+    {
+      "album": {
+        "name": "A`wesome",
+        "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Isle Qim",
+          "url": "https://open.spotify.com/artist/44qnpSp6VbJ48R4YXiv7LW"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211071,
+      "name": "Morning glory (Feat. Isle Qim)",
+      "url": "https://open.spotify.com/track/7jaMOoks3YLbOoQxYLUJTo"
+    },
+    {
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168462,
+      "name": "Nabillera",
+      "url": "https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N"
+    },
+    {
+      "album": {
+        "name": "Following",
+        "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "WOOSEOK",
+          "url": "https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188610,
+      "name": "PARTY (FOLLOW ME) (Feat. WooSeok Of PENTAGON)",
+      "url": "https://open.spotify.com/track/2UGoqqdJAcOUSvTxMZKON2"
+    },
+    {
+      "album": {
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209560,
+      "name": "Party, Feel, Love (Feat. DAWN)",
+      "url": "https://open.spotify.com/track/24UUm3hRRZvyPyasjgtHQ0"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Not Cool",
+        "url": "https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209560,
+      "name": "Party, Feel, Love (Feat. DAWN)",
+      "url": "https://open.spotify.com/track/2qR6lpnGS9AldPdElbzJ53"
+    },
+    {
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156836,
+      "name": "Picasso & Fernande Olivier",
+      "url": "https://open.spotify.com/track/2np36jtqZyvS4QJDgUOwOp"
+    },
+    {
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
+      },
+      "artists": [
+        {
+          "name": "HyunA&DAWN",
+          "url": "https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158253,
+      "name": "PING PONG",
+      "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/6pS98dlal9tYQYw5udDskl"
+      },
+      "artists": [
+        {
+          "name": "Trouble Maker",
+          "url": "https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9"
+        },
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225776,
+      "name": "Player (Feat. HYUNA)",
+      "url": "https://open.spotify.com/track/2lj0NyS3hDxtHZuCdo2eEF"
+    },
+    {
+      "album": {
+        "name": "Following",
+        "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "E",
+          "url": "https://open.spotify.com/artist/45tZVD9vAd4R6zl9D82kmt"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221586,
+      "name": "Purple (With E'dawn Of PENTAGON)",
+      "url": "https://open.spotify.com/track/6NJi9S8CKN0QsQGGt4lBBZ"
+    },
+    {
+      "album": {
+        "name": "A Talk",
+        "url": "https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199888,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/1kPJiJ3N8cuw5Kzev8Ilu0"
+    },
+    {
+      "album": {
+        "name": "Together Forever Vol. 1",
+        "url": "https://open.spotify.com/album/18GvXb9JVpiUVzh6848Blb"
+      },
+      "artists": [
+        {
+          "name": "Gina",
+          "url": "https://open.spotify.com/artist/0yLJhwFVWO6K7sDah3PUdL"
+        },
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183379,
+      "name": "Say you love me",
+      "url": "https://open.spotify.com/track/35FuyotQe6ViXcpbAw2MXW"
+    },
+    {
+      "album": {
+        "name": "A+",
+        "url": "https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222480,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/3PtpqAHDppoQ4EPaQmqExM"
+    },
+    {
+      "album": {
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190146,
+      "name": "Show Window",
+      "url": "https://open.spotify.com/track/2btctSpZ72GyaNgF5bhlBM"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Not Cool",
+        "url": "https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190146,
+      "name": "Show Window",
+      "url": "https://open.spotify.com/track/7KRsFDEkmdEZLpGR9BIs0Z"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174053,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/0Rne9W9aSoVYl520FvfS30"
+    },
+    {
+      "album": {
+        "name": "A`wesome",
+        "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207669,
+      "name": "U&ME\u2661",
+      "url": "https://open.spotify.com/track/5yuqTx5EOPGE0p5MOx0LHY"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Ri Won",
+          "url": "https://open.spotify.com/artist/2CkiqYnM6fBO2y13a1FFpO"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221048,
+      "name": "Very Hot (Feat. Ri Won)",
+      "url": "https://open.spotify.com/track/4AdkEHvkrZhDZevj7OBSqv"
+    },
+    {
+      "album": {
+        "name": "Volume Up",
+        "url": "https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230008,
+      "name": "Volume Up",
+      "url": "https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx"
+    },
+    {
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210887,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/1lsgh9qpdgKSIy77a3pZ3n"
+    },
+    {
+      "album": {
+        "name": "Name is 4minute",
+        "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186775,
+      "name": "What's your name?",
+      "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
+    },
+    {
+      "album": {
+        "name": "4minute WORLD",
+        "url": "https://open.spotify.com/album/3uI4TkXyzJKZEWeKXbB9PG"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206027,
+      "name": "Whatcha Doin' Today",
+      "url": "https://open.spotify.com/track/4zPF7ERedaIZGDIxnE1KVH"
+    },
+    {
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220527,
+      "name": "whatever",
+      "url": "https://open.spotify.com/track/4PLjGWQEcNihvnTGCAXKn6"
+    },
+    {
+      "album": {
+        "name": "A`wesome",
+        "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "Hanhae",
+          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234140,
+      "name": "Wolf (Feat. HANHAE)",
+      "url": "https://open.spotify.com/track/4sK554bQI0vLKWS2jEmpi7"
+    },
+    {
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
+      },
+      "artists": [
+        {
+          "name": "HyunA&DAWN",
+          "url": "https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/57hrHYEy9vLkpzgLtPIXfC"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTQlAcQVKgKf"
 }

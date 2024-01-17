@@ -1,21 +1,577 @@
 {
-  "2023-12-14": 27259,
-  "2023-12-15": 27260,
-  "2023-12-16": 27264,
-  "2023-12-17": 27264,
-  "2023-12-18": 27263,
-  "2023-12-19": 27266,
-  "2023-12-20": 27265,
-  "2023-12-21": 27266,
-  "2023-12-22": 27263,
-  "2023-12-23": 27264,
-  "2023-12-24": 27265,
-  "2023-12-25": 27268,
-  "2023-12-26": 27271,
-  "2023-12-27": 27270,
-  "2023-12-30": 27277,
-  "2023-12-31": 27277,
-  "2024-01-01": 27277,
-  "2024-01-02": 27278,
-  "2024-01-03": 27278
+  "2024-01-17": 27205,
+  "date_first_scraped": "2023-12-14",
+  "description": "A playlist for yoga, mindfulness and meditation with reflective moments. ",
+  "name": "Yoga & Meditation with Above & Beyond and Reflections",
+  "tracks": [
+    {
+      "album": {
+        "name": "Duality (Part One)",
+        "url": "https://open.spotify.com/album/5HPjhrehkdM0dLeO6dPN4h"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104973,
+      "name": "4/15/10 11:15 AM - Volcano",
+      "url": "https://open.spotify.com/track/6u4bejeGGrztfQlunIF8rJ"
+    },
+    {
+      "album": {
+        "name": "Reflections 03",
+        "url": "https://open.spotify.com/album/4EXx2YPYQKAb5ssT2w0yJo"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169188,
+      "name": "A Radiant Sign",
+      "url": "https://open.spotify.com/track/0GJmcHZCJp6bMxrhS92ixT"
+    },
+    {
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297493,
+      "name": "Abandon Window",
+      "url": "https://open.spotify.com/track/5YZ1S9UfTHUxuIF3eTIGGf"
+    },
+    {
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198195,
+      "name": "Beautiful Life - Acoustic Version Instrumental",
+      "url": "https://open.spotify.com/track/4uRVCRKp5WqaoPdLFKa6eX"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Common Ground - Edit",
+      "url": "https://open.spotify.com/track/5xCTa3zfwlMirRNUwCoisn"
+    },
+    {
+      "album": {
+        "name": "JODA",
+        "url": "https://open.spotify.com/album/5QoX8eEaLS9XKFFzYcFC6B"
+      },
+      "artists": [
+        {
+          "name": "JODA",
+          "url": "https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ"
+        },
+        {
+          "name": "Jono Grant",
+          "url": "https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E"
+        },
+        {
+          "name": "Darren Tate",
+          "url": "https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274323,
+      "name": "Dark Strings",
+      "url": "https://open.spotify.com/track/6ZPBmhMMfi7BRg5z4QS5jF"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163080,
+      "name": "Don't Leave - Edit",
+      "url": "https://open.spotify.com/track/3WJLyJ0q7ykBbL1ejq6yWw"
+    },
+    {
+      "album": {
+        "name": "\u2026like butterfly wings",
+        "url": "https://open.spotify.com/album/7nAJcSFG2d4zMwVUQGHIl9"
+      },
+      "artists": [
+        {
+          "name": "Lyndsie Alguire",
+          "url": "https://open.spotify.com/artist/2ccPuyFIeFmNpKb9ZVOlBc"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181620,
+      "name": "empty arms",
+      "url": "https://open.spotify.com/track/5th9j0lcNLxMkFdCnFCetf"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "Flow - Edit",
+      "url": "https://open.spotify.com/track/6zoU36yvo5hBIyyReTM5zv"
+    },
+    {
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99872,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/1leXj0r8M0dMFNWbRxq2Xe"
+    },
+    {
+      "album": {
+        "name": "Ice So Blue",
+        "url": "https://open.spotify.com/album/6n3JOxc96DV1USUc7YWgcD"
+      },
+      "artists": [
+        {
+          "name": "State Azure",
+          "url": "https://open.spotify.com/artist/2QYxWgXygoXPlh0b2ruP4O"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Ice So Blue",
+      "url": "https://open.spotify.com/track/1tshimxJ83bJ2OzxEN35Ua"
+    },
+    {
+      "album": {
+        "name": "199X (Chill Edition)",
+        "url": "https://open.spotify.com/album/4Wy7lOnDdeCjuo05xLOh1h"
+      },
+      "artists": [
+        {
+          "name": "Genix",
+          "url": "https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/7huozjmrAakZaPMbsM3EVq"
+    },
+    {
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104027,
+      "name": "Juno Reactor",
+      "url": "https://open.spotify.com/track/0aIptyh2BHzzKwTSiSemew"
+    },
+    {
+      "album": {
+        "name": "J\u014dhatsu (\u84b8\u767a)",
+        "url": "https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375459,
+      "name": "Kill All Ghosts (\u3059\u3079\u3066\u306e\u5e7d\u970a\u3092\u6bba\u3059)",
+      "url": "https://open.spotify.com/track/0bEswrKVVnRSw8WyTBAKps"
+    },
+    {
+      "album": {
+        "name": "Luminescence",
+        "url": "https://open.spotify.com/album/7avxDAfgk2SjLPa14uhuyP"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249339,
+      "name": "Luminescence",
+      "url": "https://open.spotify.com/track/441M07sKaXESCxdBfBOi7E"
+    },
+    {
+      "album": {
+        "name": "Lunar Tides EP",
+        "url": "https://open.spotify.com/album/4Ghh5Y3pvazUgGRjKtjBx4"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263877,
+      "name": "Lunar Tides",
+      "url": "https://open.spotify.com/track/1cey9Dak9AK8ahI64TVeFZ"
+    },
+    {
+      "album": {
+        "name": "Machine Keys (Cephas Azariah Revisit)",
+        "url": "https://open.spotify.com/album/6BFJ7URkYEfxDAbbm53tB3"
+      },
+      "artists": [
+        {
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+        },
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Machine Keys - Cephas Azariah Revisit",
+      "url": "https://open.spotify.com/track/3iSjAVKD8jMFyleSvbIvjQ"
+    },
+    {
+      "album": {
+        "name": "Morning In Deira / Time Heals",
+        "url": "https://open.spotify.com/album/6dG2goWXJqxCsdPWSOEYtM"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342093,
+      "name": "Morning In Deira",
+      "url": "https://open.spotify.com/track/5SweVCSfJekPl2UvtpPFnW"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "Night Light - Edit",
+      "url": "https://open.spotify.com/track/2zfITZqbWphmnbO2fH61XS"
+    },
+    {
+      "album": {
+        "name": "J\u014dhatsu (\u84b8\u767a)",
+        "url": "https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217594,
+      "name": "One Friday In September (9\u6708\u306e\u3042\u308b\u91d1\u66dc\u65e5)",
+      "url": "https://open.spotify.com/track/3B8Pw11A5Hrq8PfHKYpc3x"
+    },
+    {
+      "album": {
+        "name": "Meant To Be EP",
+        "url": "https://open.spotify.com/album/7xTzgKq7FJEengm6GyswWY"
+      },
+      "artists": [
+        {
+          "name": "Nourey",
+          "url": "https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323368,
+      "name": "Outer Reach",
+      "url": "https://open.spotify.com/track/34XS142HC0zWt26PogjLdG"
+    },
+    {
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143133,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
+    },
+    {
+      "album": {
+        "name": "Erased Dreams",
+        "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213357,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/6oDoN0p3hXIb4LLZ8MhKFj"
+    },
+    {
+      "album": {
+        "name": "Sleep Is Sacrament",
+        "url": "https://open.spotify.com/album/7ySRbBRPt31mah1cwD29g0"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232131,
+      "name": "Sleep Is Sacrament",
+      "url": "https://open.spotify.com/track/6wdiugsx4HdCiNvEQXh41Y"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238382,
+      "name": "Small Moments - Edit",
+      "url": "https://open.spotify.com/track/0aTJ8gI0DA0JdzC2BwJMuh"
+    },
+    {
+      "album": {
+        "name": "Reflections 01",
+        "url": "https://open.spotify.com/album/5ZuJWAa9ZIFQwgGqk0mzuq"
+      },
+      "artists": [
+        {
+          "name": "Lost In City",
+          "url": "https://open.spotify.com/artist/125x0yEgn0wJoM0YKur6Df"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/7eOBX0ec5FSBfDy7YmYQi0"
+    },
+    {
+      "album": {
+        "name": "Surge",
+        "url": "https://open.spotify.com/album/7vXpKyOzzgn4M82FtWXIKL"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144656,
+      "name": "Surge",
+      "url": "https://open.spotify.com/track/19ez4TX6bQxjAZsIAywNS1"
+    },
+    {
+      "album": {
+        "name": "New Blood",
+        "url": "https://open.spotify.com/album/35RlHjbw50faElwCWpubRD"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "The Nest That Sailed the Sky",
+      "url": "https://open.spotify.com/track/3QOnL9O4lA7iX97Y8V90Uq"
+    },
+    {
+      "album": {
+        "name": "Morning In Deira / Time Heals",
+        "url": "https://open.spotify.com/album/6dG2goWXJqxCsdPWSOEYtM"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297142,
+      "name": "Time Heals",
+      "url": "https://open.spotify.com/track/5x5XRcyeeJvP1HdGlpKL6q"
+    },
+    {
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/54VzJAmxKc0dFi0mbf31jW"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277520,
+      "name": "Untitled 01",
+      "url": "https://open.spotify.com/track/5zgjlfBXPCDn6wrNPUz5Lq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/71EOlNARIzTqcFXI4tUqsd"
 }

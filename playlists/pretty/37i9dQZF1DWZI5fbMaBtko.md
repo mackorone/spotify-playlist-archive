@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI5fbMaBtko.md) - [plain]
 
 > Baila Reggaeton Presents: Best Reggaeton of 2023<br/>Our editors' picks for the best Reggaeton songs of the year! \#SpotifyWrapped Cover: Yng Lvcas & Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,042 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,413 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

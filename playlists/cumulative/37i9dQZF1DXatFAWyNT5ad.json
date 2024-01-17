@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 121674,
       "name": "Alive and Unwell",
       "url": "https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": "2024-01-13",
       "duration_ms": 159677,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/3AgnnuHliXoWbS3TfCKirV"
@@ -1550,6 +1550,24 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165799,
+      "name": "Bitter Sweet Love",
+      "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
     },
     {
       "album": {
@@ -4286,7 +4304,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 189075,
       "name": "fmk (with blackbear)",
       "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
@@ -4360,7 +4378,7 @@
           "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         },
         {
-          "name": "Jaden Hossler",
+          "name": "jxdn",
           "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
@@ -4462,7 +4480,7 @@
       },
       "artists": [
         {
-          "name": "Jaden Hossler",
+          "name": "jxdn",
           "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
@@ -10588,7 +10606,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 200210,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/75CAy481QzLqCOKggIpsFi"
@@ -11268,7 +11286,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 191287,
       "name": "the feeling",
       "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
@@ -11960,6 +11978,24 @@
       "duration_ms": 141029,
       "name": "TRAVIS",
       "url": "https://open.spotify.com/track/7or0qYep2EYHNYOtMugkJq"
+    },
+    {
+      "album": {
+        "name": "Triumph",
+        "url": "https://open.spotify.com/album/6gnZgEs6IZaBrJWO8I6HSb"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158115,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/7lSTs6DLjCP2oqib43vyGB"
     },
     {
       "album": {

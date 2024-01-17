@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Nobody Gets Me",
+        "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158080,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV"
+    },
+    {
+      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
       },
@@ -1948,6 +1966,24 @@
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/41xT4BqzV4UUH2V9T8dAT5"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226727,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0s9e0j3kCt5Ofmm5LmJEl9"
     },
     {
       "album": {

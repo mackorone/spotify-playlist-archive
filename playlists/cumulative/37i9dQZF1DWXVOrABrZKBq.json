@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: Gazo x Tiakola",
+  "description": "Le rap francophone est en forme. Photo: Josman",
   "name": "Connexion Rap",
   "tracks": [
+    {
+      "album": {
+        "name": "1 2 3 4",
+        "url": "https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ"
+      },
+      "artists": [
+        {
+          "name": "Zokush",
+          "url": "https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180793,
+      "name": "1 2 3 4",
+      "url": "https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88"
+    },
     {
       "album": {
         "name": "LA MELO EST GANGX",
@@ -813,6 +835,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9g\u00e2ts",
+        "url": "https://open.spotify.com/album/2aOsyHYIRMMhEDwc6mFYbR"
+      },
+      "artists": [
+        {
+          "name": "Trappo officiel",
+          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "D\u00e9g\u00e2ts",
+      "url": "https://open.spotify.com/track/756EjIt63zjvcdx5jH6dKy"
+    },
+    {
+      "album": {
         "name": "EAU DE MARS",
         "url": "https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu"
       },
@@ -1182,6 +1222,28 @@
       "duration_ms": 205626,
       "name": "Ing\u00e9 son",
       "url": "https://open.spotify.com/track/2ErHbTIS7IZVBw7TEejW37"
+    },
+    {
+      "album": {
+        "name": "La route est longue",
+        "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "J'fais plaisir \u00e0 la zone",
+      "url": "https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr"
     },
     {
       "album": {
@@ -1582,7 +1644,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 193247,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg"
@@ -1750,7 +1812,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 229386,
       "name": "Nocif",
       "url": "https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X"
@@ -2064,7 +2126,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 176086,
       "name": "Roule un autre - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
@@ -2130,7 +2192,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Sans Coeur",
       "url": "https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4"
@@ -2232,6 +2294,32 @@
       "duration_ms": 157036,
       "name": "Sosa",
       "url": "https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4"
+    },
+    {
+      "album": {
+        "name": "T'aimerais (feat. Ziak)",
+        "url": "https://open.spotify.com/album/39BFIcWfCAGva6bjZ7MoUX"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Killemv",
+          "url": "https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf"
+        },
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "T'aimerais (feat. Ziak)",
+      "url": "https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa"
     },
     {
       "album": {
@@ -2414,7 +2502,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 228800,
       "name": "Voldemort",
       "url": "https://open.spotify.com/track/7CpI3rs2A4etl7VXghjfWe"
@@ -2476,7 +2564,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 190384,
       "name": "\u00c0 L'AUBE",
       "url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"

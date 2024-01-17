@@ -1,655 +1,1419 @@
 {
-  "2022-03-15": 1106,
-  "2022-03-16": 1183,
-  "2022-03-17": 1262,
-  "2022-03-18": 1367,
-  "2022-03-19": 1410,
-  "2022-03-20": 1410,
-  "2022-03-21": 1541,
-  "2022-03-22": 1608,
-  "2022-03-23": 1690,
-  "2022-03-24": 1758,
-  "2022-03-25": 1836,
-  "2022-03-26": 1914,
-  "2022-03-27": 1980,
-  "2022-03-28": 2070,
-  "2022-03-30": 2242,
-  "2022-03-31": 2356,
-  "2022-04-01": 2505,
-  "2022-04-02": 2668,
-  "2022-04-03": 2837,
-  "2022-04-04": 2966,
-  "2022-04-05": 3123,
-  "2022-04-06": 3255,
-  "2022-04-07": 3367,
-  "2022-04-08": 3494,
-  "2022-04-09": 3606,
-  "2022-04-10": 3786,
-  "2022-04-11": 3898,
-  "2022-04-12": 3913,
-  "2022-04-13": 3998,
-  "2022-04-14": 4112,
-  "2022-04-15": 4205,
-  "2022-04-16": 4306,
-  "2022-04-17": 4398,
-  "2022-04-18": 4491,
-  "2022-04-19": 4562,
-  "2022-04-20": 4640,
-  "2022-04-21": 4717,
-  "2022-04-22": 4808,
-  "2022-04-23": 4898,
-  "2022-04-24": 4948,
-  "2022-04-25": 5019,
-  "2022-04-26": 5105,
-  "2022-04-27": 5206,
-  "2022-04-28": 5274,
-  "2022-04-29": 5356,
-  "2022-04-30": 5396,
-  "2022-05-01": 5461,
-  "2022-05-02": 5461,
-  "2022-05-03": 5500,
-  "2022-05-04": 5528,
-  "2022-05-05": 5564,
-  "2022-05-06": 5594,
-  "2022-05-07": 5662,
-  "2022-05-08": 5710,
-  "2022-05-09": 5714,
-  "2022-05-10": 5764,
-  "2022-05-11": 5783,
-  "2022-05-12": 5808,
-  "2022-05-13": 5834,
-  "2022-05-14": 5847,
-  "2022-05-15": 5870,
-  "2022-05-16": 5904,
-  "2022-05-17": 5951,
-  "2022-05-18": 5982,
-  "2022-05-19": 6013,
-  "2022-05-20": 6048,
-  "2022-05-21": 6095,
-  "2022-05-22": 6095,
-  "2022-05-23": 6118,
-  "2022-05-24": 6151,
-  "2022-05-25": 6175,
-  "2022-05-26": 6203,
-  "2022-05-27": 6236,
-  "2022-05-28": 6259,
-  "2022-05-29": 6281,
-  "2022-05-30": 6307,
-  "2022-05-31": 6344,
-  "2022-06-01": 6385,
-  "2022-06-02": 6390,
-  "2022-06-03": 6405,
-  "2022-06-04": 6433,
-  "2022-06-05": 6459,
-  "2022-06-06": 6477,
-  "2022-06-07": 6513,
-  "2022-06-08": 6542,
-  "2022-06-09": 6567,
-  "2022-06-10": 6588,
-  "2022-06-11": 6622,
-  "2022-06-12": 6650,
-  "2022-06-13": 6684,
-  "2022-06-14": 6700,
-  "2022-06-15": 6726,
-  "2022-06-16": 6754,
-  "2022-06-17": 6789,
-  "2022-06-18": 6815,
-  "2022-06-19": 6868,
-  "2022-06-20": 6868,
-  "2022-06-21": 6892,
-  "2022-06-22": 6955,
-  "2022-06-23": 6955,
-  "2022-06-24": 6985,
-  "2022-06-25": 7010,
-  "2022-06-26": 7019,
-  "2022-06-27": 7019,
-  "2022-06-28": 7048,
-  "2022-06-29": 7079,
-  "2022-06-30": 7121,
-  "2022-07-01": 7189,
-  "2022-07-02": 7256,
-  "2022-07-03": 7334,
-  "2022-07-04": 7402,
-  "2022-07-05": 7474,
-  "2022-07-06": 7534,
-  "2022-07-07": 7572,
-  "2022-07-08": 7624,
-  "2022-07-09": 7699,
-  "2022-07-10": 7759,
-  "2022-07-11": 7830,
-  "2022-07-12": 7887,
-  "2022-07-13": 7964,
-  "2022-07-14": 8039,
-  "2022-07-15": 8120,
-  "2022-07-16": 8196,
-  "2022-07-17": 8259,
-  "2022-07-18": 8327,
-  "2022-07-19": 8407,
-  "2022-07-20": 8490,
-  "2022-07-21": 8572,
-  "2022-07-22": 8644,
-  "2022-07-23": 8733,
-  "2022-07-24": 8822,
-  "2022-07-25": 8908,
-  "2022-07-26": 8987,
-  "2022-07-27": 9070,
-  "2022-07-28": 9130,
-  "2022-07-29": 9216,
-  "2022-07-30": 9348,
-  "2022-07-31": 9348,
-  "2022-08-01": 9404,
-  "2022-08-02": 9560,
-  "2022-08-03": 9560,
-  "2022-08-04": 9642,
-  "2022-08-05": 9715,
-  "2022-08-06": 9805,
-  "2022-08-07": 9891,
-  "2022-08-08": 9964,
-  "2022-08-09": 10053,
-  "2022-08-10": 10155,
-  "2022-08-11": 10208,
-  "2022-08-12": 10264,
-  "2022-08-13": 10355,
-  "2022-08-14": 10449,
-  "2022-08-15": 10557,
-  "2022-08-16": 10664,
-  "2022-08-17": 10751,
-  "2022-08-18": 10839,
-  "2022-08-19": 10938,
-  "2022-08-20": 11007,
-  "2022-08-21": 11055,
-  "2022-08-22": 11134,
-  "2022-08-23": 11202,
-  "2022-08-24": 11280,
-  "2022-08-25": 11406,
-  "2022-08-26": 11518,
-  "2022-08-27": 11626,
-  "2022-08-28": 11734,
-  "2022-08-29": 11816,
-  "2022-08-30": 11928,
-  "2022-08-31": 12069,
-  "2022-09-01": 12176,
-  "2022-09-02": 12305,
-  "2022-09-03": 12431,
-  "2022-09-04": 12529,
-  "2022-09-05": 12672,
-  "2022-09-06": 12809,
-  "2022-09-07": 12928,
-  "2022-09-09": 13171,
-  "2022-09-10": 13300,
-  "2022-09-11": 13432,
-  "2022-09-12": 13554,
-  "2022-09-13": 13674,
-  "2022-09-15": 13910,
-  "2022-09-16": 14012,
-  "2022-09-17": 14132,
-  "2022-09-18": 14239,
-  "2022-09-19": 14367,
-  "2022-09-20": 14494,
-  "2022-09-21": 14612,
-  "2022-09-22": 14723,
-  "2022-09-23": 14828,
-  "2022-09-24": 14935,
-  "2022-09-25": 15039,
-  "2022-09-26": 15148,
-  "2022-09-27": 15276,
-  "2022-09-28": 15401,
-  "2022-09-29": 15520,
-  "2022-09-30": 15629,
-  "2022-10-01": 15735,
-  "2022-10-02": 15859,
-  "2022-10-03": 15965,
-  "2022-10-04": 16094,
-  "2022-10-05": 16213,
-  "2022-10-06": 16344,
-  "2022-10-07": 16455,
-  "2022-10-08": 16565,
-  "2022-10-09": 16762,
-  "2022-10-10": 16791,
-  "2022-10-11": 16929,
-  "2022-10-12": 17045,
-  "2022-10-13": 17151,
-  "2022-10-14": 17281,
-  "2022-10-15": 17395,
-  "2022-10-16": 17502,
-  "2022-10-17": 17629,
-  "2022-10-18": 17749,
-  "2022-10-19": 17877,
-  "2022-10-20": 17995,
-  "2022-10-21": 18101,
-  "2022-10-22": 18211,
-  "2022-10-23": 18331,
-  "2022-10-24": 18444,
-  "2022-10-25": 18574,
-  "2022-10-26": 18675,
-  "2022-10-27": 18784,
-  "2022-10-28": 18896,
-  "2022-10-29": 19039,
-  "2022-10-30": 19176,
-  "2022-10-31": 19309,
-  "2022-11-01": 19445,
-  "2022-11-02": 19586,
-  "2022-11-03": 19725,
-  "2022-11-04": 19921,
-  "2022-11-05": 20089,
-  "2022-11-06": 20230,
-  "2022-11-07": 20383,
-  "2022-11-08": 20583,
-  "2022-11-09": 20782,
-  "2022-11-10": 20911,
-  "2022-11-11": 21085,
-  "2022-11-12": 21256,
-  "2022-11-13": 21416,
-  "2022-11-14": 21579,
-  "2022-11-15": 21785,
-  "2022-11-16": 21949,
-  "2022-11-17": 22117,
-  "2022-11-18": 22182,
-  "2022-11-19": 22218,
-  "2022-11-20": 22332,
-  "2022-11-21": 22477,
-  "2022-11-22": 22622,
-  "2022-11-23": 22589,
-  "2022-11-24": 23179,
-  "2022-11-25": 23393,
-  "2022-11-26": 23552,
-  "2022-11-27": 23702,
-  "2022-11-28": 23870,
-  "2022-11-29": 24014,
-  "2022-11-30": 24165,
-  "2022-12-01": 24335,
-  "2022-12-02": 24424,
-  "2022-12-03": 24577,
-  "2022-12-04": 24690,
-  "2022-12-05": 24792,
-  "2022-12-06": 24895,
-  "2022-12-07": 24996,
-  "2022-12-08": 25114,
-  "2022-12-09": 133894,
-  "2022-12-10": 137275,
-  "2022-12-11": 137320,
-  "2022-12-12": 138199,
-  "2022-12-13": 138320,
-  "2022-12-14": 138366,
-  "2022-12-15": 138412,
-  "2022-12-16": 138450,
-  "2022-12-17": 138504,
-  "2022-12-18": 138553,
-  "2022-12-19": 138618,
-  "2022-12-20": 138743,
-  "2022-12-21": 138743,
-  "2022-12-22": 138775,
-  "2022-12-24": 138878,
-  "2022-12-25": 138907,
-  "2022-12-26": 138923,
-  "2022-12-27": 138973,
-  "2022-12-28": 139017,
-  "2022-12-29": 139091,
-  "2022-12-30": 139161,
-  "2022-12-31": 139222,
-  "2023-01-01": 139274,
-  "2023-01-02": 139352,
-  "2023-01-03": 139419,
-  "2023-01-04": 139512,
-  "2023-01-05": 139564,
-  "2023-01-06": 139674,
-  "2023-01-07": 139796,
-  "2023-01-08": 139818,
-  "2023-01-09": 139896,
-  "2023-01-10": 139995,
-  "2023-01-11": 140073,
-  "2023-01-12": 140154,
-  "2023-01-13": 140247,
-  "2023-01-14": 140369,
-  "2023-01-15": 140387,
-  "2023-01-16": 140488,
-  "2023-01-17": 140574,
-  "2023-01-18": 140652,
-  "2023-01-19": 140703,
-  "2023-01-20": 140780,
-  "2023-01-21": 140883,
-  "2023-01-22": 140966,
-  "2023-01-23": 141046,
-  "2023-01-24": 141139,
-  "2023-01-25": 141241,
-  "2023-01-26": 141370,
-  "2023-01-27": 141451,
-  "2023-01-28": 141535,
-  "2023-01-29": 141632,
-  "2023-01-30": 141706,
-  "2023-01-31": 141706,
-  "2023-02-01": 141894,
-  "2023-02-02": 142003,
-  "2023-02-03": 142130,
-  "2023-02-04": 142235,
-  "2023-02-05": 142332,
-  "2023-02-06": 142468,
-  "2023-02-07": 142565,
-  "2023-02-08": 142807,
-  "2023-02-09": 142807,
-  "2023-02-10": 142936,
-  "2023-02-11": 143027,
-  "2023-02-12": 143219,
-  "2023-02-13": 143342,
-  "2023-02-14": 143342,
-  "2023-02-15": 143489,
-  "2023-02-16": 143587,
-  "2023-02-17": 143676,
-  "2023-02-18": 143859,
-  "2023-02-19": 143879,
-  "2023-02-20": 143967,
-  "2023-02-21": 144082,
-  "2023-02-22": 144185,
-  "2023-02-23": 144323,
-  "2023-02-24": 144537,
-  "2023-02-25": 145137,
-  "2023-02-26": 145435,
-  "2023-02-27": 146292,
-  "2023-02-28": 146292,
-  "2023-03-01": 146697,
-  "2023-03-02": 147167,
-  "2023-03-03": 147700,
-  "2023-03-04": 148192,
-  "2023-03-05": 149267,
-  "2023-03-06": 149267,
-  "2023-03-07": 149866,
-  "2023-03-08": 150376,
-  "2023-03-09": 150891,
-  "2023-03-10": 151439,
-  "2023-03-11": 151906,
-  "2023-03-12": 152404,
-  "2023-03-13": 152988,
-  "2023-03-14": 153498,
-  "2023-03-15": 153994,
-  "2023-03-16": 154489,
-  "2023-03-17": 154489,
-  "2023-03-18": 155426,
-  "2023-03-19": 155924,
-  "2023-03-20": 156459,
-  "2023-03-21": 157013,
-  "2023-03-22": 157516,
-  "2023-03-23": 158017,
-  "2023-03-24": 158017,
-  "2023-03-25": 159092,
-  "2023-03-26": 159651,
-  "2023-03-27": 160235,
-  "2023-03-28": 160810,
-  "2023-03-29": 161418,
-  "2023-03-30": 162487,
-  "2023-03-31": 162487,
-  "2023-04-01": 163042,
-  "2023-04-02": 163574,
-  "2023-04-03": 164119,
-  "2023-04-04": 164671,
-  "2023-04-05": 165215,
-  "2023-04-06": 165708,
-  "2023-04-07": 166214,
-  "2023-04-09": 167138,
-  "2023-04-10": 167608,
-  "2023-04-11": 168536,
-  "2023-04-12": 168536,
-  "2023-04-13": 168984,
-  "2023-04-14": 169416,
-  "2023-04-15": 169804,
-  "2023-04-16": 170219,
-  "2023-04-17": 170682,
-  "2023-04-18": 171128,
-  "2023-04-19": 171683,
-  "2023-04-20": 172199,
-  "2023-04-21": 172662,
-  "2023-04-22": 173093,
-  "2023-04-23": 173512,
-  "2023-04-24": 173929,
-  "2023-04-25": 174356,
-  "2023-04-26": 174816,
-  "2023-04-27": 175263,
-  "2023-04-28": 175718,
-  "2023-04-29": 176105,
-  "2023-04-30": 176524,
-  "2023-05-01": 176927,
-  "2023-05-02": 177390,
-  "2023-05-03": 177819,
-  "2023-05-04": 178287,
-  "2023-05-05": 178737,
-  "2023-05-06": 179198,
-  "2023-05-07": 179658,
-  "2023-05-08": 180221,
-  "2023-05-09": 180770,
-  "2023-05-10": 181317,
-  "2023-05-11": 181846,
-  "2023-05-12": 182399,
-  "2023-05-13": 182890,
-  "2023-05-14": 183342,
-  "2023-05-15": 183832,
-  "2023-05-16": 184338,
-  "2023-05-17": 184775,
-  "2023-05-18": 185212,
-  "2023-05-19": 185728,
-  "2023-05-20": 186586,
-  "2023-05-21": 186586,
-  "2023-05-22": 186586,
-  "2023-05-23": 187529,
-  "2023-05-24": 188337,
-  "2023-05-25": 188422,
-  "2023-05-26": 188815,
-  "2023-05-27": 189157,
-  "2023-05-28": 189515,
-  "2023-05-29": 189515,
-  "2023-05-30": 190267,
-  "2023-05-31": 190660,
-  "2023-06-01": 191025,
-  "2023-06-02": 191351,
-  "2023-06-03": 191662,
-  "2023-06-04": 191996,
-  "2023-06-05": 192376,
-  "2023-06-06": 192743,
-  "2023-06-07": 193126,
-  "2023-06-08": 193479,
-  "2023-06-09": 193809,
-  "2023-06-10": 194128,
-  "2023-06-11": 194417,
-  "2023-06-12": 194759,
-  "2023-06-13": 195138,
-  "2023-06-14": 195607,
-  "2023-06-15": 195900,
-  "2023-06-16": 196212,
-  "2023-06-17": 196498,
-  "2023-06-18": 196806,
-  "2023-06-19": 197155,
-  "2023-06-20": 197490,
-  "2023-06-21": 197840,
-  "2023-06-22": 198146,
-  "2023-06-23": 198478,
-  "2023-06-24": 198750,
-  "2023-06-25": 199020,
-  "2023-06-26": 199334,
-  "2023-06-27": 199636,
-  "2023-06-28": 199950,
-  "2023-06-29": 200239,
-  "2023-06-30": 200572,
-  "2023-07-01": 201176,
-  "2023-07-02": 201176,
-  "2023-07-03": 201518,
-  "2023-07-04": 201855,
-  "2023-07-05": 202183,
-  "2023-07-06": 202811,
-  "2023-07-07": 202811,
-  "2023-07-08": 203076,
-  "2023-07-09": 203361,
-  "2023-07-10": 203613,
-  "2023-07-11": 203922,
-  "2023-07-12": 204217,
-  "2023-07-13": 204524,
-  "2023-07-14": 204828,
-  "2023-07-15": 205045,
-  "2023-07-16": 205416,
-  "2023-07-17": 205788,
-  "2023-07-18": 206158,
-  "2023-07-19": 206582,
-  "2023-07-20": 206902,
-  "2023-07-21": 207237,
-  "2023-07-22": 207545,
-  "2023-07-23": 207906,
-  "2023-07-24": 208281,
-  "2023-07-25": 208626,
-  "2023-07-26": 208938,
-  "2023-07-27": 209253,
-  "2023-07-28": 209612,
-  "2023-07-29": 209945,
-  "2023-07-30": 210264,
-  "2023-07-31": 210679,
-  "2023-08-01": 211046,
-  "2023-08-02": 211533,
-  "2023-08-03": 211962,
-  "2023-08-04": 212417,
-  "2023-08-05": 212826,
-  "2023-08-06": 213657,
-  "2023-08-07": 213657,
-  "2023-08-08": 214057,
-  "2023-08-09": 214492,
-  "2023-08-10": 214903,
-  "2023-08-11": 215344,
-  "2023-08-12": 215710,
-  "2023-08-13": 216167,
-  "2023-08-14": 216581,
-  "2023-08-15": 217474,
-  "2023-08-16": 217474,
-  "2023-08-17": 217916,
-  "2023-08-18": 218424,
-  "2023-08-19": 218853,
-  "2023-08-20": 219282,
-  "2023-08-21": 219752,
-  "2023-08-22": 220174,
-  "2023-08-23": 220598,
-  "2023-08-24": 220985,
-  "2023-08-25": 221436,
-  "2023-08-26": 221899,
-  "2023-08-27": 222342,
-  "2023-08-28": 222794,
-  "2023-08-29": 223251,
-  "2023-08-30": 223679,
-  "2023-08-31": 224156,
-  "2023-09-01": 225031,
-  "2023-09-02": 225031,
-  "2023-09-03": 225368,
-  "2023-09-04": 225842,
-  "2023-09-05": 226271,
-  "2023-09-06": 226680,
-  "2023-09-07": 227115,
-  "2023-09-08": 227518,
-  "2023-09-09": 227915,
-  "2023-09-10": 228314,
-  "2023-09-11": 228787,
-  "2023-09-12": 229234,
-  "2023-09-13": 229732,
-  "2023-09-14": 230185,
-  "2023-09-15": 230599,
-  "2023-09-16": 231010,
-  "2023-09-17": 231439,
-  "2023-09-18": 231896,
-  "2023-09-19": 232320,
-  "2023-09-20": 232714,
-  "2023-09-21": 233197,
-  "2023-09-22": 233647,
-  "2023-09-23": 234051,
-  "2023-09-24": 234500,
-  "2023-09-25": 234978,
-  "2023-09-26": 235542,
-  "2023-09-27": 235887,
-  "2023-09-28": 236343,
-  "2023-09-29": 236782,
-  "2023-09-30": 237194,
-  "2023-10-01": 237581,
-  "2023-10-02": 237992,
-  "2023-10-03": 238352,
-  "2023-10-04": 238755,
-  "2023-10-05": 239189,
-  "2023-10-06": 239584,
-  "2023-10-07": 239978,
-  "2023-10-08": 240321,
-  "2023-10-09": 240760,
-  "2023-10-10": 241130,
-  "2023-10-11": 241897,
-  "2023-10-12": 241897,
-  "2023-10-13": 242251,
-  "2023-10-14": 242587,
-  "2023-10-15": 242985,
-  "2023-10-16": 243405,
-  "2023-10-17": 243827,
-  "2023-10-18": 244212,
-  "2023-10-19": 244636,
-  "2023-10-20": 245037,
-  "2023-10-21": 245445,
-  "2023-10-22": 245845,
-  "2023-10-23": 246324,
-  "2023-10-24": 246756,
-  "2023-10-25": 247193,
-  "2023-10-26": 247588,
-  "2023-10-27": 248004,
-  "2023-10-28": 248358,
-  "2023-10-29": 248769,
-  "2023-10-30": 249582,
-  "2023-10-31": 249582,
-  "2023-11-01": 249978,
-  "2023-11-02": 250340,
-  "2023-11-03": 250744,
-  "2023-11-04": 251123,
-  "2023-11-05": 251487,
-  "2023-11-06": 251931,
-  "2023-11-07": 252336,
-  "2023-11-08": 252676,
-  "2023-11-09": 253039,
-  "2023-11-10": 253422,
-  "2023-11-11": 253815,
-  "2023-11-12": 254137,
-  "2023-11-13": 254530,
-  "2023-11-14": 254911,
-  "2023-11-15": 254911,
-  "2023-11-16": 255623,
-  "2023-11-17": 256327,
-  "2023-11-18": 256327,
-  "2023-11-19": 256708,
-  "2023-11-20": 257121,
-  "2023-11-21": 257525,
-  "2023-11-22": 257885,
-  "2023-11-23": 258175,
-  "2023-11-24": 258515,
-  "2023-11-25": 258800,
-  "2023-11-26": 259094,
-  "2023-11-27": 259422,
-  "2023-11-28": 259719,
-  "2023-11-29": 260410,
-  "2023-11-30": 260410,
-  "2023-12-01": 260726,
-  "2023-12-02": 260960,
-  "2023-12-03": 261256,
-  "2023-12-04": 261586,
-  "2023-12-05": 261897,
-  "2023-12-06": 262196,
-  "2023-12-07": 262500,
-  "2023-12-08": 262858,
-  "2023-12-09": 263173,
-  "2023-12-10": 263572,
-  "2023-12-11": 263983,
-  "2023-12-12": 264328,
-  "2023-12-13": 264661,
-  "2023-12-14": 265045,
-  "2023-12-15": 265263,
-  "2023-12-16": 265527,
-  "2023-12-17": 265814,
-  "2023-12-18": 266188,
-  "2023-12-19": 266448,
-  "2023-12-20": 266704,
-  "2023-12-21": 267015,
-  "2023-12-22": 267248,
-  "2023-12-23": 267503,
-  "2023-12-24": 267753,
-  "2023-12-25": 267998,
-  "2023-12-26": 268287,
-  "2023-12-27": 268561,
-  "2023-12-30": 269572,
-  "2023-12-31": 269889,
-  "2024-01-01": 270162,
-  "2024-01-02": 270439,
-  "2024-01-03": 270780
+  "2024-01-17": 275823,
+  "date_first_scraped": "2022-03-15",
+  "description": "POV: you're the main character in a romance novel.",
+  "name": "hopeless romantic",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Hidden Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "A Hidden Life",
+      "url": "https://open.spotify.com/track/6VhExWbPovba3QfMY1sw7U"
+    },
+    {
+      "album": {
+        "name": "Mozart: Adagio in E Flat (Arr. \u00d3lafsson from String Quintet No. 3 in G Minor, K. 516)",
+        "url": "https://open.spotify.com/album/2I4kned3lywzMzR6WcNgoo"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484220,
+      "name": "Adagio in E Flat (Arr. \u00d3lafsson from String Quintet No. 3 in G Minor, K. 516)",
+      "url": "https://open.spotify.com/track/1pcsXJHyzP8YXVOMH3Noox"
+    },
+    {
+      "album": {
+        "name": "Adore You (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
+        "url": "https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 198410,
+      "name": "Adore You (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
+      "url": "https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh"
+    },
+    {
+      "album": {
+        "name": "aubades",
+        "url": "https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277853,
+      "name": "amour",
+      "url": "https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7"
+    },
+    {
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306386,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN"
+    },
+    {
+      "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta"
+    },
+    {
+      "album": {
+        "name": "Bach: Cello Suites Nos. 1, 5 & 6",
+        "url": "https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152280,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B"
+    },
+    {
+      "album": {
+        "name": "The Secret Garden (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2axiSa5DMXwN5woIV4YKNn"
+      },
+      "artists": [
+        {
+          "name": "Zbigniew Preisner",
+          "url": "https://open.spotify.com/artist/3gGbSXSwHWmrUBIG9IUAau"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-07",
+      "duration_ms": 120173,
+      "name": "Colin Opens His Eyes - From \"The Secret Garden\"",
+      "url": "https://open.spotify.com/track/2r9bHz0Tk6AswHr3oUsDkx"
+    },
+    {
+      "album": {
+        "name": "Piano Chill",
+        "url": "https://open.spotify.com/album/01O3K6QN4xR3YR2j00ONtr"
+      },
+      "artists": [
+        {
+          "name": "Michael Forster",
+          "url": "https://open.spotify.com/artist/0TORlmlTHaneG9k4nWPn0V"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124453,
+      "name": "Cornfield Chase - Piano-Cello Version",
+      "url": "https://open.spotify.com/track/0dn7lN2ky5BnUJNoELXh3i"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
+      "duration_ms": 279840,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t"
+    },
+    {
+      "album": {
+        "name": "The Personal History of David Copperfield (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willis",
+          "url": "https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "David's Writings",
+      "url": "https://open.spotify.com/track/4Q0VPrw0jgRB7onKAtRnFG"
+    },
+    {
+      "album": {
+        "name": "Pride and Prejudice - OST",
+        "url": "https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Dawn - From \"Pride & Prejudice\" Soundtrack",
+      "url": "https://open.spotify.com/track/2k2MprlqkmDMKKOOWGREzW"
+    },
+    {
+      "album": {
+        "name": "Faur\u00e9: Dolly Suite; Nocturnes; Barcarolles; Impromptus",
+        "url": "https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176518,
+      "name": "Dolly Suite, Op. 56: I. Berceuse",
+      "url": "https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P"
+    },
+    {
+      "album": {
+        "name": "drivers license (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
+        "url": "https://open.spotify.com/album/6DYyz4hIsisHrB8VhKrWyF"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242003,
+      "name": "drivers license (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
+      "url": "https://open.spotify.com/track/4vy1RotKCE0qpxw3GZyLXS"
+    },
+    {
+      "album": {
+        "name": "In A Time Lapse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62dvhzEC1RtHI7tIpE4EmL"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "I Virtuosi Italiani",
+          "url": "https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315426,
+      "name": "Einaudi: Experience",
+      "url": "https://open.spotify.com/track/4BTPwdNcGQK2GQxwvKkiZI"
+    },
+    {
+      "album": {
+        "name": "Varese Sarabande: A 25th Anniversary Celebration (25 Years Of Great Film Music)",
+        "url": "https://open.spotify.com/album/0D10oCY4gRp4ASj1kJZsyp"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178466,
+      "name": "Emma - From \"Emma\"",
+      "url": "https://open.spotify.com/track/2W602jFzodgV2MWp52nrKe"
+    },
+    {
+      "album": {
+        "name": "EMMA. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2QwIcZ1a1FuDUw8i0u1dGS"
+      },
+      "artists": [
+        {
+          "name": "Isobel Waller-Bridge",
+          "url": "https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ"
+        },
+        {
+          "name": "David Schweitzer",
+          "url": "https://open.spotify.com/artist/1DUWnPlE7T4m8zBUYK6GIc"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367866,
+      "name": "Emma Suite",
+      "url": "https://open.spotify.com/track/6nQImNsFZlgsn9KeMbkjJT"
+    },
+    {
+      "album": {
+        "name": "Ever After: A Cinderella Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/53kbJAY9G04FCMqjlZorqc"
+      },
+      "artists": [
+        {
+          "name": "George Fenton",
+          "url": "https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-12",
+      "duration_ms": 212906,
+      "name": "Ever After Main Title",
+      "url": "https://open.spotify.com/track/4NjJLDSL2aChx1MKp78Gu7"
+    },
+    {
+      "album": {
+        "name": "Becoming Jane",
+        "url": "https://open.spotify.com/album/52sztZMsBAIe2jNcFNpQHk"
+      },
+      "artists": [
+        {
+          "name": "Adrian Johnston",
+          "url": "https://open.spotify.com/artist/5VeBbPzElOgdgevTlSgdf9"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145173,
+      "name": "First Impressions",
+      "url": "https://open.spotify.com/track/09I7DjJtkvTPORULHE7yCY"
+    },
+    {
+      "album": {
+        "name": "Flower Duet (Goldmund Rework)",
+        "url": "https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Scott Moore",
+          "url": "https://open.spotify.com/artist/3k5d36mzom5r3bYb2ZBI3E"
+        },
+        {
+          "name": "Emily Pisaturo",
+          "url": "https://open.spotify.com/artist/2s0fOzYaGHBDTbKTmY1rLm"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167432,
+      "name": "Flower Duet - Goldmund Rework",
+      "url": "https://open.spotify.com/track/3x5EerSpxWhkSvLKQ87U2S"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr Elise - Reimagined",
+        "url": "https://open.spotify.com/album/5Olt9x9Bp5NOvDx2Pex9CW"
+      },
+      "artists": [
+        {
+          "name": "Alexander Joseph",
+          "url": "https://open.spotify.com/artist/14UXdoHp8xbGJLLYDp9HqF"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360195,
+      "name": "F\u00fcr Elise - Reimagined",
+      "url": "https://open.spotify.com/track/6z720DAWxYJL5SacdZLlEN"
+    },
+    {
+      "album": {
+        "name": "GoldBergHain (Quodlibet on \"Kraut und R\u00fcben haben mich vertrieben\") for Violin & String Orchestra",
+        "url": "https://open.spotify.com/album/1QdcLEWjkLCvAdgxabQKLu"
+      },
+      "artists": [
+        {
+          "name": "Stephan Koncz",
+          "url": "https://open.spotify.com/artist/5bJ6Okk0z9ycR3goHVJ5e4"
+        },
+        {
+          "name": "Niklas Liepe",
+          "url": "https://open.spotify.com/artist/6ukAV4us7nVNQ1MQvj4sut"
+        },
+        {
+          "name": "NDR Radiophilharmonie",
+          "url": "https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR"
+        },
+        {
+          "name": "Jamie Phillips",
+          "url": "https://open.spotify.com/artist/1pdrpZawhbNj2mhFfNLzWq"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164973,
+      "name": "GoldBergHain (Quodlibet on \"Kraut und R\u00fcben haben mich vertrieben\") for Violin & String Orchestra",
+      "url": "https://open.spotify.com/track/5bmp5QR3Dwb5r9kgEX8kF3"
+    },
+    {
+      "album": {
+        "name": "Geek Wedding, Vol. 2: The Sequel",
+        "url": "https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184875,
+      "name": "Howl's Moving Castle - Merry-Go-Round of Life",
+      "url": "https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ"
+    },
+    {
+      "album": {
+        "name": "The Best Of Me (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1EVM5W3wBvfAW7LXfPSsMT"
+      },
+      "artists": [
+        {
+          "name": "Aaron Zigman",
+          "url": "https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90186,
+      "name": "I Waited For You",
+      "url": "https://open.spotify.com/track/3gpLoUSz1JsLb97VXUTtB5"
+    },
+    {
+      "album": {
+        "name": "The Best of Me (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2TRHx1axpzpqApnQgS8TU1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Zigman",
+          "url": "https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 90186,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/3sVFj8qVKJAFgZvD77xsau"
+    },
+    {
+      "album": {
+        "name": "ask the river",
+        "url": "https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 357960,
+      "name": "leaves and trees",
+      "url": "https://open.spotify.com/track/17Cv0iBOjWabaeLqAMAxQf"
+    },
+    {
+      "album": {
+        "name": "ask the river",
+        "url": "https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357960,
+      "name": "leaves and trees",
+      "url": "https://open.spotify.com/track/4fm8QxhBYRmmxU3Kp1pi3p"
+    },
+    {
+      "album": {
+        "name": "leaves and trees",
+        "url": "https://open.spotify.com/album/7F3CyaNx0b18PxiajqfyjS"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 358773,
+      "name": "leaves and trees",
+      "url": "https://open.spotify.com/track/7zFGjpozrCWREmakIErLxx"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 244339,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k"
+    },
+    {
+      "album": {
+        "name": "Sense & Sensibility - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq"
+      },
+      "artists": [
+        {
+          "name": "Patrick Doyle",
+          "url": "https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ"
+        },
+        {
+          "name": "Tony Hymas",
+          "url": "https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327573,
+      "name": "My Father's Favourite",
+      "url": "https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW"
+    },
+    {
+      "album": {
+        "name": "The Aftermath (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xqXGJJjt1fyaJzHnpoqF9"
+      },
+      "artists": [
+        {
+          "name": "Martin Phipps",
+          "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221668,
+      "name": "New Start - From BBC Series \"North & South\"",
+      "url": "https://open.spotify.com/track/50MGKn5CGI8es0itdbs851"
+    },
+    {
+      "album": {
+        "name": "Far from the Madding Crowd (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP"
+      },
+      "artists": [
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279546,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv"
+    },
+    {
+      "album": {
+        "name": "The French Album",
+        "url": "https://open.spotify.com/album/4QYFeRjBgVCv8Vrb3cK7wI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jorge Federico Osorio",
+          "url": "https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359463,
+      "name": "Pavane, Op. 50 (Version for Piano)",
+      "url": "https://open.spotify.com/track/2mNQl3DEWtkrwKllwYpxi0"
+    },
+    {
+      "album": {
+        "name": "Finding Neverland",
+        "url": "https://open.spotify.com/album/04J43Yr17N9A9uNcFVSTKx"
+      },
+      "artists": [
+        {
+          "name": "Jan A.P. Kaczmarek",
+          "url": "https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT"
+        },
+        {
+          "name": "Nick Ingman",
+          "url": "https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "Peter - Finding Neverland/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5yrUw3CtVT8BQuhsDdniW1"
+    },
+    {
+      "album": {
+        "name": "Beethoven Trilogy 2: Childhood",
+        "url": "https://open.spotify.com/album/4XiKDj6xqe9fxq7BSPxaE7"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "See Siang Wong",
+          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150906,
+      "name": "Piano Sonata in C Major, WoO 51: II. Adagio",
+      "url": "https://open.spotify.com/track/7EmiVtjY6KsnDgroaePON5"
+    },
+    {
+      "album": {
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Plumfield",
+      "url": "https://open.spotify.com/track/4RTmPGLfkrUJgfFAJOzWil"
+    },
+    {
+      "album": {
+        "name": "Sparrow: Pluto's Crossing",
+        "url": "https://open.spotify.com/album/1Gbeu75FH5vyS7mENKuqY8"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sparrow",
+          "url": "https://open.spotify.com/artist/0kIFcoCKn3Lfal4tQbWP0N"
+        },
+        {
+          "name": "The Czech Film Orchestra",
+          "url": "https://open.spotify.com/artist/0m8SPeJ3LOEnfuzXf5LN9b"
+        },
+        {
+          "name": "Marek Val\u00e1\u0161ek",
+          "url": "https://open.spotify.com/artist/5nycKcUvS0WElwhFKLmwx1"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124653,
+      "name": "Pluto's Crossing: Id. The Journey",
+      "url": "https://open.spotify.com/track/2B7DzfgaMkfVVv9pT2q43P"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Brunch with Vivaldi",
+        "url": "https://open.spotify.com/album/7vjUkzgBtOhL42fXMscbUW"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 155135,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/2WP7odDNsrrkceU9zarqqd"
+    },
+    {
+      "album": {
+        "name": "Bach: The Cello Suites - Recomposed by Peter Gregson",
+        "url": "https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        },
+        {
+          "name": "Richard Harwood",
+          "url": "https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9"
+        },
+        {
+          "name": "Reinoud Ford",
+          "url": "https://open.spotify.com/artist/5fVIkYGFnKyKO5CTphBoKO"
+        },
+        {
+          "name": "Tim Lowe",
+          "url": "https://open.spotify.com/artist/4c6Gwxq0m60hm6dx4dnAqB"
+        },
+        {
+          "name": "Ben Chappell",
+          "url": "https://open.spotify.com/artist/5Bcr5JYvl4wiO9jvoDvH8F"
+        },
+        {
+          "name": "Katherine Jenkinson",
+          "url": "https://open.spotify.com/artist/3GD1m7RLwgmITy17vj8Ht6"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168676,
+      "name": "Recomposed by Peter Gregson: Bach - Cello Suite No. 6 in D Major, BWV 1012: 6. Gigue",
+      "url": "https://open.spotify.com/track/6yPUtBVbbSpp7khUpcmcDu"
+    },
+    {
+      "album": {
+        "name": "Poldark: Music from the TV Series (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4swL8BznFgV5IhDRFyB7bO"
+      },
+      "artists": [
+        {
+          "name": "Anne Dudley",
+          "url": "https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b"
+        },
+        {
+          "name": "The Chamber Orchestra Of London",
+          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207106,
+      "name": "Resurgam",
+      "url": "https://open.spotify.com/track/4SsC4oX1tyBUFBSy4Gbw2l"
+    },
+    {
+      "album": {
+        "name": "Film Music - Williams, J. / Barry, J. / Bacharach, B. / Nyman, M. / Lloyd Webber, A. / Armstrong, C. (Film Harmonic) (Royal Philharmonic)",
+        "url": "https://open.spotify.com/album/4SijWdkTLRBhIfOvhAa4xN"
+      },
+      "artists": [
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        },
+        {
+          "name": "Paul Bateman",
+          "url": "https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349920,
+      "name": "Romeo + Juliet (arr. P. Bateman): Romeo and Juliet: The Balcony Scene (arr. P. Bateman for piano and orchestra)",
+      "url": "https://open.spotify.com/track/5FOHBhUtWl2x5Z6qflA8nd"
+    },
+    {
+      "album": {
+        "name": "Sixteen Contemporary Love Songs for Piano",
+        "url": "https://open.spotify.com/album/2OYyS1vSV7qEIYjA763YvF"
+      },
+      "artists": [
+        {
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+        },
+        {
+          "name": "William Howard",
+          "url": "https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "Roses in a Box",
+      "url": "https://open.spotify.com/track/20BUmbjIRXr7MnGjNaC2R2"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ"
+      },
+      "artists": [
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        },
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 289648,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS"
+    },
+    {
+      "album": {
+        "name": "Lullabies for Mila",
+        "url": "https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alessio Bax",
+          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318320,
+      "name": "Sheep May Safely Graze, BWV 208 (arr. Egon Petri)",
+      "url": "https://open.spotify.com/track/2md3xXPRJz9dIyFZi8MNyY"
+    },
+    {
+      "album": {
+        "name": "J.C. Bach: Sonata No. 5 in A Major, Op. 17, No. 5: I. Allegro",
+        "url": "https://open.spotify.com/album/1CxdegOyg36oudEmc71yB5"
+      },
+      "artists": [
+        {
+          "name": "Johann Christian Bach",
+          "url": "https://open.spotify.com/artist/0ebni9QrrWMvEgH40nOWZQ"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218786,
+      "name": "Sonata No. 5 in A Major, Op. 17, No. 5: I. Allegro",
+      "url": "https://open.spotify.com/track/72CwEwj0LHNDMgH2zXCa1f"
+    },
+    {
+      "album": {
+        "name": "Sparkler Dims",
+        "url": "https://open.spotify.com/album/12pm6r8rj8Zwmz87YZeIV6"
+      },
+      "artists": [
+        {
+          "name": "The Hillside Project",
+          "url": "https://open.spotify.com/artist/0ZTS8jiPsoSf6JM6zjvUyL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317086,
+      "name": "Sparkler Dims",
+      "url": "https://open.spotify.com/track/2W69qiB0iKaPrYmPeVpnB1"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151506,
+      "name": "Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 187626,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/3sBxUne6rvOPAgVmYUA2IC"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2014, Vol. 2",
+        "url": "https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 175240,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22"
+    },
+    {
+      "album": {
+        "name": "Dvor\u030c\u00e1k: American String Quartet & Quintet, Op. 96-97",
+        "url": "https://open.spotify.com/album/48x6JqIrcPPzbN8AydS2dQ"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "\u0160kampa Quartet",
+          "url": "https://open.spotify.com/artist/6vpf4VHLivdrVlO7yfaGwI"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248346,
+      "name": "String Quartet No. 12 in F Major, Op. 96 'The American': III. Molto vivace",
+      "url": "https://open.spotify.com/track/4zdQ0Tx3rbYaBmgG22fYUH"
+    },
+    {
+      "album": {
+        "name": "Enola Holmes (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6sFS4WAvywzoeormyV0tA5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101253,
+      "name": "Tewkesbury's Trail",
+      "url": "https://open.spotify.com/track/7i6aVrjKTpxz0I2G3IubY9"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-07",
+      "duration_ms": 206720,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S"
+    },
+    {
+      "album": {
+        "name": "Classic FM At The Movies",
+        "url": "https://open.spotify.com/album/5TI5SRLYZyS9R9tYEkrB1O"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Paul Bateman",
+          "url": "https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 348906,
+      "name": "The Balcony Scene (From \"Romeo and Juliet\")",
+      "url": "https://open.spotify.com/track/5X5x6oRSCHtHEz28ncMVd5"
+    },
+    {
+      "album": {
+        "name": "War & Peace (Original Soundtrack by Martin Phipps)",
+        "url": "https://open.spotify.com/album/783EdYKCbDqS0I6TrCGCnl"
+      },
+      "artists": [
+        {
+          "name": "Martin Phipps",
+          "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
+        },
+        {
+          "name": "Latvian Radio Choir",
+          "url": "https://open.spotify.com/artist/1FPk3Fo5EyBYOxEiT2V0jP"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/3h3dJgoTzyn1N6HN8Lan5g"
+    },
+    {
+      "album": {
+        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283226,
+      "name": "The Portrait",
+      "url": "https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb"
+    },
+    {
+      "album": {
+        "name": "The Princess Diaries",
+        "url": "https://open.spotify.com/album/5kLlsgivbVFDYAngLjfEZZ"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 129000,
+      "name": "The Princess Diaries Waltz - Score",
+      "url": "https://open.spotify.com/track/60vDJQPOMYUkL388zPpuNT"
+    },
+    {
+      "album": {
+        "name": "Var\u00e8se Sarabande: 40 Years of Great Film Music 1978-2018",
+        "url": "https://open.spotify.com/album/4KutdJWvtiOQwTbGxK2DXU"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 178093,
+      "name": "Theme - From \"Emma\"",
+      "url": "https://open.spotify.com/track/4UU5OMdwhOyHSSXU6GjKLd"
+    },
+    {
+      "album": {
+        "name": "Hollywood '96 (Themes From The Year's Biggest Films)",
+        "url": "https://open.spotify.com/album/0iEDyEwaKcNRLGpHz5vOZH"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179492,
+      "name": "Theme - From \"Emma\"",
+      "url": "https://open.spotify.com/track/06mi7oiYv5pftvpFU784jc"
+    },
+    {
+      "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Theme Music for a Dream",
+      "url": "https://open.spotify.com/track/1k3ZB5BjdvFTsryiCjbVkd"
+    },
+    {
+      "album": {
+        "name": "Anne With An E (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/18zn6reTQDMH7c3dxgpRGM"
+      },
+      "artists": [
+        {
+          "name": "Ari Posner",
+          "url": "https://open.spotify.com/artist/563dtu7YhG2vW5KPAwMgC4"
+        },
+        {
+          "name": "Amin Bhatia",
+          "url": "https://open.spotify.com/artist/3GvnGpA4bEqkq9FDeA2NEv"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-07",
+      "duration_ms": 150133,
+      "name": "Unrequited Love",
+      "url": "https://open.spotify.com/track/71Y4MDtbPbwgASI7RXSSCO"
+    },
+    {
+      "album": {
+        "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156)",
+        "url": "https://open.spotify.com/album/4oV1x8g9soPYY7dttgsang"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112352,
+      "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156)",
+      "url": "https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 291213,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP"
+    },
+    {
+      "album": {
+        "name": "Gjeilo: Winter Light",
+        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Winter Light",
+      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        },
+        {
+          "name": "Tom\u00e1s Peire-Serrate",
+          "url": "https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167609,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF"
+    },
+    {
+      "album": {
+        "name": "\u00c0 Bout de Souffle",
+        "url": "https://open.spotify.com/album/7FcUdtJyhF18dvIuGfpAJZ"
+      },
+      "artists": [
+        {
+          "name": "Tristan Seewer",
+          "url": "https://open.spotify.com/artist/1a0fCaPSHXJleGCRaTNi3N"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144603,
+      "name": "\u00c0 Bout de Souffle",
+      "url": "https://open.spotify.com/track/3IbO32QxBvn6bgyzjmqsJy"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6DLB6M8zkNk"
 }

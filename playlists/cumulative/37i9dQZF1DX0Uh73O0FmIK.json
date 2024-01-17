@@ -1282,6 +1282,24 @@
     {
       "album": {
         "name": "Country Girl Uncut",
+        "url": "https://open.spotify.com/album/0Gx2nIxhlYbpbk0BsjL15X"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205906,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/1fi9BN8F15rCUWjAsaMngw"
+    },
+    {
+      "album": {
+        "name": "Country Girl Uncut",
         "url": "https://open.spotify.com/album/73lHzvuzmDsRscdaCQoj9B"
       },
       "artists": [
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 205906,
       "name": "Electric",
       "url": "https://open.spotify.com/track/1oUpE2W9kXdpYYMof5nnQA"

@@ -1,6 +1,6 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 138232,
+  "num_followers": 138952,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
         "name": "Never Been Rocked Enough",
         "url": "https://open.spotify.com/album/3PSl0k14EYuc2IYOLL4hoM"
       },
@@ -119,6 +135,22 @@
       "duration_ms": 269933,
       "name": "Everytime I Roll The Dice",
       "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -141,20 +173,20 @@
       "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -175,38 +207,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Pride and Joy",
-      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Palace Of The King",
-      "url": "https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Family Style",
         "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
@@ -219,86 +219,6 @@
       "duration_ms": 261920,
       "name": "Good Texan",
       "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Wait On Time",
-      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Los Lonely Boys",
-        "url": "https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA"
-      },
-      "artists": [
-        {
-          "name": "Los Lonely Boys",
-          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
-        }
-      ],
-      "duration_ms": 287200,
-      "name": "Crazy Dream",
-      "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Have Blues, Will Travel",
-        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
-      },
-      "artists": [
-        {
-          "name": "Smokin' Joe Kubek & Bnois King",
-          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Have Blues, Will Travel",
-      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -319,18 +239,50 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 293400,
-      "name": "Mojo Boogie - Remastered",
-      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+      "duration_ms": 220240,
+      "name": "Palace Of The King",
+      "url": "https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Wait On Time",
+      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -349,6 +301,22 @@
       "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
     },
     {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Have Blues, Will Travel",
+        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
+      },
+      "artists": [
+        {
+          "name": "Smokin' Joe Kubek & Bnois King",
+          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Have Blues, Will Travel",
+      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
+    },
+    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Family Style",
@@ -363,6 +331,38 @@
       "duration_ms": 305053,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Los Lonely Boys",
+        "url": "https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA"
+      },
+      "artists": [
+        {
+          "name": "Los Lonely Boys",
+          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
+        }
+      ],
+      "duration_ms": 287200,
+      "name": "Crazy Dream",
+      "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Mojo Boogie - Remastered",
+      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -439,6 +439,22 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
+        "name": "Things I Used To Do",
+        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 197813,
       "name": "Shake",
       "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Things I Used To Do",
-        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -567,26 +567,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Big Town Playboy",
-        "url": "https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH"
-      },
-      "artists": [
-        {
-          "name": "Omar Kent Dykes",
-          "url": "https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF"
-        },
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Since I Met You Baby",
-      "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs"
       },
@@ -607,6 +587,26 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
+        "name": "Big Town Playboy",
+        "url": "https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH"
+      },
+      "artists": [
+        {
+          "name": "Omar Kent Dykes",
+          "url": "https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF"
+        },
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Since I Met You Baby",
+      "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
-      },
-      "artists": [
-        {
-          "name": "Tutu Jones",
-          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Starting All Over",
-      "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Diggin' On Dylan",
         "url": "https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 288613,
       "name": "Gotta Serve Somebody",
       "url": "https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+      },
+      "artists": [
+        {
+          "name": "Tutu Jones",
+          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Starting All Over",
+      "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -727,6 +727,26 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
+        "name": "Texas Bluesmen",
+        "url": "https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m"
+      },
+      "artists": [
+        {
+          "name": "Texas Bluesmen",
+          "url": "https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1"
+        },
+        {
+          "name": "Robert Ealey",
+          "url": "https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd"
+        }
+      ],
+      "duration_ms": 385453,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 314493,
       "name": "A Blue Song",
       "url": "https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Texas Bluesmen",
-        "url": "https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m"
-      },
-      "artists": [
-        {
-          "name": "Texas Bluesmen",
-          "url": "https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1"
-        },
-        {
-          "name": "Robert Ealey",
-          "url": "https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd"
-        }
-      ],
-      "duration_ms": 385453,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe"
     },
     {
       "added_at": "2018-02-27 16:43:49",

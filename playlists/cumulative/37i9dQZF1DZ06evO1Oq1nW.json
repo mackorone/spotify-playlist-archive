@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 136533,
       "name": "I Dig Your Act",
       "url": "https://open.spotify.com/track/4XZ5cpaPA4w1kC5AYvKHvs"
@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "The Essential O'Jays",
+        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 197613,
+      "name": "The Big Gangster",
+      "url": "https://open.spotify.com/track/52tSalNlWbR6DXOo49p4SM"
+    },
+    {
+      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-08",
       "duration_ms": 264266,
       "name": "This Time Baby",
       "url": "https://open.spotify.com/track/4rrvpJUUWEtdjuwrcRO2i9"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 236466,
       "name": "What Am I Waiting For",
       "url": "https://open.spotify.com/track/7uWj004PAUVTlu7kqlb8wn"

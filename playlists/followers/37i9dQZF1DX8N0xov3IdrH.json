@@ -1,735 +1,1253 @@
 {
-  "2021-12-25": 65076,
-  "2021-12-26": 65091,
-  "2021-12-27": 65128,
-  "2021-12-28": 65128,
-  "2021-12-29": 65143,
-  "2021-12-30": 65155,
-  "2021-12-31": 65163,
-  "2022-01-01": 65191,
-  "2022-01-02": 65202,
-  "2022-01-03": 65213,
-  "2022-01-04": 65225,
-  "2022-01-05": 65251,
-  "2022-01-06": 65271,
-  "2022-01-07": 65283,
-  "2022-01-08": 65306,
-  "2022-01-09": 65306,
-  "2022-01-10": 65322,
-  "2022-01-11": 65322,
-  "2022-01-12": 65334,
-  "2022-01-13": 65334,
-  "2022-01-14": 65334,
-  "2022-01-15": 65334,
-  "2022-01-16": 65334,
-  "2022-01-17": 65334,
-  "2022-01-18": 65334,
-  "2022-01-19": 65334,
-  "2022-01-20": 65334,
-  "2022-01-21": 65334,
-  "2022-01-22": 65334,
-  "2022-01-23": 65334,
-  "2022-01-24": 65334,
-  "2022-01-25": 65334,
-  "2022-01-26": 65334,
-  "2022-01-27": 65334,
-  "2022-01-28": 65334,
-  "2022-01-29": 65334,
-  "2022-01-30": 65334,
-  "2022-01-31": 65334,
-  "2022-02-01": 65334,
-  "2022-02-02": 65334,
-  "2022-02-03": 65334,
-  "2022-02-04": 65334,
-  "2022-02-05": 65334,
-  "2022-02-06": 65334,
-  "2022-02-07": 65334,
-  "2022-02-08": 65334,
-  "2022-02-09": 65334,
-  "2022-02-10": 65334,
-  "2022-02-11": 65334,
-  "2022-02-12": 65334,
-  "2022-02-13": 65334,
-  "2022-02-14": 65334,
-  "2022-02-15": 65334,
-  "2022-02-16": 65334,
-  "2022-02-17": 65334,
-  "2022-02-18": 65334,
-  "2022-02-19": 65334,
-  "2022-02-20": 65334,
-  "2022-02-21": 65334,
-  "2022-02-22": 65334,
-  "2022-02-23": 65334,
-  "2022-02-24": 65334,
-  "2022-02-25": 65334,
-  "2022-02-26": 65334,
-  "2022-02-27": 65334,
-  "2022-02-28": 65334,
-  "2022-03-01": 65334,
-  "2022-03-02": 65334,
-  "2022-03-03": 65334,
-  "2022-03-04": 65334,
-  "2022-03-05": 65334,
-  "2022-03-06": 65334,
-  "2022-03-07": 65334,
-  "2022-03-08": 65334,
-  "2022-03-09": 65334,
-  "2022-03-10": 65334,
-  "2022-03-11": 65334,
-  "2022-03-12": 65334,
-  "2022-03-13": 65334,
-  "2022-03-14": 65334,
-  "2022-03-15": 65334,
-  "2022-03-16": 65334,
-  "2022-03-17": 65334,
-  "2022-03-18": 65334,
-  "2022-03-19": 65334,
-  "2022-03-20": 65334,
-  "2022-03-21": 65334,
-  "2022-03-22": 65334,
-  "2022-03-23": 65334,
-  "2022-03-24": 65334,
-  "2022-03-25": 65334,
-  "2022-03-26": 65334,
-  "2022-03-27": 65334,
-  "2022-03-28": 65334,
-  "2022-03-30": 65334,
-  "2022-03-31": 65334,
-  "2022-04-01": 65334,
-  "2022-04-02": 65334,
-  "2022-04-03": 65334,
-  "2022-04-04": 65334,
-  "2022-04-05": 65334,
-  "2022-04-06": 65334,
-  "2022-04-07": 65334,
-  "2022-04-08": 65334,
-  "2022-04-09": 65334,
-  "2022-04-10": 65334,
-  "2022-04-11": 65334,
-  "2022-04-12": 65334,
-  "2022-04-13": 65334,
-  "2022-04-14": 65334,
-  "2022-04-15": 65334,
-  "2022-04-16": 65334,
-  "2022-04-17": 65334,
-  "2022-04-18": 65334,
-  "2022-04-19": 65334,
-  "2022-04-20": 65334,
-  "2022-04-21": 65334,
-  "2022-04-22": 65334,
-  "2022-04-23": 65334,
-  "2022-04-24": 65334,
-  "2022-04-25": 65334,
-  "2022-04-26": 65334,
-  "2022-04-27": 65334,
-  "2022-04-28": 65334,
-  "2022-04-29": 65334,
-  "2022-04-30": 65334,
-  "2022-05-01": 65334,
-  "2022-05-02": 65334,
-  "2022-05-03": 65334,
-  "2022-05-04": 65334,
-  "2022-05-05": 65334,
-  "2022-05-06": 65334,
-  "2022-05-07": 65334,
-  "2022-05-08": 65334,
-  "2022-05-09": 65334,
-  "2022-05-10": 65334,
-  "2022-05-11": 65334,
-  "2022-05-12": 65334,
-  "2022-05-13": 65334,
-  "2022-05-14": 65334,
-  "2022-05-15": 65334,
-  "2022-05-16": 65334,
-  "2022-05-17": 65334,
-  "2022-05-18": 65334,
-  "2022-05-19": 65334,
-  "2022-05-20": 65334,
-  "2022-05-21": 65334,
-  "2022-05-22": 65334,
-  "2022-05-23": 65334,
-  "2022-05-24": 65334,
-  "2022-05-25": 65334,
-  "2022-05-26": 65334,
-  "2022-05-27": 65334,
-  "2022-05-28": 65334,
-  "2022-05-29": 65334,
-  "2022-05-30": 65334,
-  "2022-05-31": 65334,
-  "2022-06-01": 65334,
-  "2022-06-02": 65334,
-  "2022-06-03": 65334,
-  "2022-06-04": 65334,
-  "2022-06-05": 65334,
-  "2022-06-06": 65334,
-  "2022-06-07": 65334,
-  "2022-06-08": 65334,
-  "2022-06-09": 65334,
-  "2022-06-10": 65334,
-  "2022-06-11": 65334,
-  "2022-06-12": 65334,
-  "2022-06-13": 65334,
-  "2022-06-14": 65334,
-  "2022-06-15": 65334,
-  "2022-06-16": 65334,
-  "2022-06-17": 65334,
-  "2022-06-18": 65334,
-  "2022-06-19": 65334,
-  "2022-06-20": 65334,
-  "2022-06-21": 65334,
-  "2022-06-22": 65334,
-  "2022-06-23": 65334,
-  "2022-06-24": 65334,
-  "2022-06-25": 65334,
-  "2022-06-26": 65334,
-  "2022-06-27": 65334,
-  "2022-06-28": 65334,
-  "2022-06-29": 65334,
-  "2022-06-30": 65334,
-  "2022-07-01": 65334,
-  "2022-07-02": 65334,
-  "2022-07-03": 65334,
-  "2022-07-04": 65334,
-  "2022-07-05": 65334,
-  "2022-07-06": 65334,
-  "2022-07-07": 65334,
-  "2022-07-08": 65334,
-  "2022-07-09": 65334,
-  "2022-07-10": 65334,
-  "2022-07-11": 65334,
-  "2022-07-12": 65334,
-  "2022-07-13": 65334,
-  "2022-07-14": 65334,
-  "2022-07-15": 65334,
-  "2022-07-16": 65334,
-  "2022-07-17": 65334,
-  "2022-07-18": 65334,
-  "2022-07-19": 65334,
-  "2022-07-20": 65334,
-  "2022-07-21": 65334,
-  "2022-07-22": 65334,
-  "2022-07-23": 65334,
-  "2022-07-24": 65334,
-  "2022-07-25": 65334,
-  "2022-07-26": 65334,
-  "2022-07-27": 65334,
-  "2022-07-28": 65334,
-  "2022-07-29": 65334,
-  "2022-07-30": 65334,
-  "2022-07-31": 65334,
-  "2022-08-01": 65334,
-  "2022-08-02": 65334,
-  "2022-08-03": 65334,
-  "2022-08-04": 65334,
-  "2022-08-05": 65334,
-  "2022-08-06": 65334,
-  "2022-08-07": 65334,
-  "2022-08-08": 65334,
-  "2022-08-09": 65334,
-  "2022-08-10": 65334,
-  "2022-08-11": 65334,
-  "2022-08-12": 65334,
-  "2022-08-13": 65334,
-  "2022-08-14": 65334,
-  "2022-08-15": 65334,
-  "2022-08-16": 65334,
-  "2022-08-17": 65334,
-  "2022-08-18": 65334,
-  "2022-08-19": 65334,
-  "2022-08-20": 65334,
-  "2022-08-21": 65334,
-  "2022-08-22": 65334,
-  "2022-08-23": 65334,
-  "2022-08-24": 65334,
-  "2022-08-25": 65334,
-  "2022-08-26": 65334,
-  "2022-08-27": 65334,
-  "2022-08-28": 65334,
-  "2022-08-29": 65334,
-  "2022-08-30": 65334,
-  "2022-08-31": 65334,
-  "2022-09-01": 65334,
-  "2022-09-02": 65334,
-  "2022-09-03": 65334,
-  "2022-09-04": 65334,
-  "2022-09-05": 65334,
-  "2022-09-06": 65334,
-  "2022-09-07": 65334,
-  "2022-09-09": 65334,
-  "2022-09-10": 65334,
-  "2022-09-11": 65334,
-  "2022-09-12": 65334,
-  "2022-09-13": 65334,
-  "2022-09-15": 65334,
-  "2022-09-16": 65334,
-  "2022-09-17": 65334,
-  "2022-09-18": 65334,
-  "2022-09-19": 65334,
-  "2022-09-20": 65334,
-  "2022-09-21": 65334,
-  "2022-09-22": 65334,
-  "2022-09-23": 65334,
-  "2022-09-24": 65334,
-  "2022-09-25": 65334,
-  "2022-09-26": 65334,
-  "2022-09-27": 65334,
-  "2022-09-28": 65334,
-  "2022-09-29": 65334,
-  "2022-09-30": 65334,
-  "2022-10-01": 65334,
-  "2022-10-02": 65334,
-  "2022-10-03": 65334,
-  "2022-10-04": 65334,
-  "2022-10-05": 65334,
-  "2022-10-06": 65334,
-  "2022-10-07": 65334,
-  "2022-10-08": 65334,
-  "2022-10-09": 65334,
-  "2022-10-10": 65334,
-  "2022-10-11": 65334,
-  "2022-10-12": 65334,
-  "2022-10-13": 65334,
-  "2022-10-14": 65334,
-  "2022-10-15": 65334,
-  "2022-10-16": 65334,
-  "2022-10-17": 65334,
-  "2022-10-18": 65334,
-  "2022-10-19": 65334,
-  "2022-10-20": 65334,
-  "2022-10-21": 65334,
-  "2022-10-22": 65334,
-  "2022-10-23": 65334,
-  "2022-10-24": 65334,
-  "2022-10-25": 65334,
-  "2022-10-26": 65334,
-  "2022-10-27": 65334,
-  "2022-10-28": 65334,
-  "2022-10-29": 65334,
-  "2022-10-30": 65334,
-  "2022-10-31": 65334,
-  "2022-11-01": 65334,
-  "2022-11-02": 65334,
-  "2022-11-03": 65334,
-  "2022-11-04": 65334,
-  "2022-11-05": 65334,
-  "2022-11-06": 65334,
-  "2022-11-07": 65334,
-  "2022-11-08": 65334,
-  "2022-11-09": 65334,
-  "2022-11-10": 65334,
-  "2022-11-11": 65334,
-  "2022-11-12": 65334,
-  "2022-11-13": 65334,
-  "2022-11-14": 65334,
-  "2022-11-15": 65334,
-  "2022-11-16": 65334,
-  "2022-11-17": 65334,
-  "2022-11-18": 65334,
-  "2022-11-19": 65334,
-  "2022-11-20": 65334,
-  "2022-11-21": 65334,
-  "2022-11-22": 65334,
-  "2022-11-23": 65334,
-  "2022-11-24": 65334,
-  "2022-11-25": 65334,
-  "2022-11-26": 65334,
-  "2022-11-27": 65334,
-  "2022-11-28": 65334,
-  "2022-11-29": 65334,
-  "2022-11-30": 65334,
-  "2022-12-01": 65334,
-  "2022-12-02": 65334,
-  "2022-12-03": 65334,
-  "2022-12-04": 65334,
-  "2022-12-05": 65334,
-  "2022-12-06": 65334,
-  "2022-12-07": 65334,
-  "2022-12-08": 65334,
-  "2022-12-09": 65334,
-  "2022-12-10": 65334,
-  "2022-12-11": 65334,
-  "2022-12-12": 65334,
-  "2022-12-13": 65334,
-  "2022-12-14": 65334,
-  "2022-12-15": 65334,
-  "2022-12-16": 65334,
-  "2022-12-17": 65334,
-  "2022-12-18": 65334,
-  "2022-12-19": 65334,
-  "2022-12-20": 65334,
-  "2022-12-21": 65334,
-  "2022-12-22": 65334,
-  "2022-12-24": 65334,
-  "2022-12-25": 65334,
-  "2022-12-26": 65334,
-  "2022-12-27": 65334,
-  "2022-12-28": 65334,
-  "2022-12-29": 65334,
-  "2022-12-30": 65334,
-  "2022-12-31": 65334,
-  "2023-01-01": 65334,
-  "2023-01-02": 65334,
-  "2023-01-03": 65334,
-  "2023-01-04": 65334,
-  "2023-01-05": 65334,
-  "2023-01-06": 65334,
-  "2023-01-07": 65334,
-  "2023-01-08": 65334,
-  "2023-01-09": 65334,
-  "2023-01-10": 65334,
-  "2023-01-11": 65334,
-  "2023-01-12": 65334,
-  "2023-01-13": 65334,
-  "2023-01-14": 65334,
-  "2023-01-15": 65334,
-  "2023-01-16": 65334,
-  "2023-01-17": 65334,
-  "2023-01-18": 65334,
-  "2023-01-19": 65334,
-  "2023-01-20": 65334,
-  "2023-01-21": 65334,
-  "2023-01-22": 65334,
-  "2023-01-23": 65334,
-  "2023-01-24": 65334,
-  "2023-01-25": 65334,
-  "2023-01-26": 65334,
-  "2023-01-27": 65334,
-  "2023-01-28": 65334,
-  "2023-01-29": 65334,
-  "2023-01-30": 65334,
-  "2023-01-31": 65334,
-  "2023-02-01": 65334,
-  "2023-02-02": 65334,
-  "2023-02-03": 65334,
-  "2023-02-04": 65334,
-  "2023-02-05": 65334,
-  "2023-02-06": 65334,
-  "2023-02-07": 65334,
-  "2023-02-08": 65334,
-  "2023-02-09": 65334,
-  "2023-02-10": 65334,
-  "2023-02-11": 65334,
-  "2023-02-12": 65334,
-  "2023-02-13": 65334,
-  "2023-02-14": 65334,
-  "2023-02-15": 65334,
-  "2023-02-16": 65334,
-  "2023-02-17": 65334,
-  "2023-02-18": 65334,
-  "2023-02-19": 65334,
-  "2023-02-20": 65334,
-  "2023-02-21": 65334,
-  "2023-02-22": 65334,
-  "2023-02-23": 65334,
-  "2023-02-24": 65334,
-  "2023-02-25": 65334,
-  "2023-02-26": 65334,
-  "2023-02-27": 65334,
-  "2023-02-28": 65334,
-  "2023-03-01": 65334,
-  "2023-03-02": 65334,
-  "2023-03-03": 65334,
-  "2023-03-04": 65334,
-  "2023-03-05": 65334,
-  "2023-03-06": 65334,
-  "2023-03-07": 65334,
-  "2023-03-08": 65334,
-  "2023-03-09": 65334,
-  "2023-03-10": 65334,
-  "2023-03-11": 65334,
-  "2023-03-12": 65334,
-  "2023-03-13": 65334,
-  "2023-03-14": 65334,
-  "2023-03-15": 65334,
-  "2023-03-16": 65334,
-  "2023-03-17": 65334,
-  "2023-03-18": 65334,
-  "2023-03-19": 65334,
-  "2023-03-20": 65334,
-  "2023-03-21": 65334,
-  "2023-03-22": 65334,
-  "2023-03-23": 65334,
-  "2023-03-24": 65334,
-  "2023-03-25": 65334,
-  "2023-03-26": 65334,
-  "2023-03-27": 65334,
-  "2023-03-28": 65334,
-  "2023-03-29": 65334,
-  "2023-03-30": 65334,
-  "2023-03-31": 65334,
-  "2023-04-01": 65334,
-  "2023-04-02": 65334,
-  "2023-04-03": 65334,
-  "2023-04-04": 65334,
-  "2023-04-05": 65334,
-  "2023-04-06": 65334,
-  "2023-04-07": 65334,
-  "2023-04-09": 65334,
-  "2023-04-10": 65334,
-  "2023-04-11": 65334,
-  "2023-04-12": 65334,
-  "2023-04-13": 65334,
-  "2023-04-14": 65334,
-  "2023-04-15": 65334,
-  "2023-04-16": 65334,
-  "2023-04-17": 65334,
-  "2023-04-18": 65334,
-  "2023-04-19": 65334,
-  "2023-04-20": 65334,
-  "2023-04-21": 65334,
-  "2023-04-22": 65334,
-  "2023-04-23": 65334,
-  "2023-04-24": 65334,
-  "2023-04-25": 65334,
-  "2023-04-26": 65334,
-  "2023-04-27": 65334,
-  "2023-04-28": 65334,
-  "2023-04-29": 65334,
-  "2023-04-30": 65334,
-  "2023-05-01": 65334,
-  "2023-05-02": 65334,
-  "2023-05-03": 65334,
-  "2023-05-04": 65334,
-  "2023-05-05": 65334,
-  "2023-05-06": 65334,
-  "2023-05-07": 65334,
-  "2023-05-08": 65334,
-  "2023-05-09": 65334,
-  "2023-05-10": 65334,
-  "2023-05-11": 65334,
-  "2023-05-12": 65334,
-  "2023-05-13": 65334,
-  "2023-05-14": 65334,
-  "2023-05-15": 65334,
-  "2023-05-16": 65334,
-  "2023-05-17": 65334,
-  "2023-05-18": 65334,
-  "2023-05-19": 65334,
-  "2023-05-20": 65334,
-  "2023-05-21": 65334,
-  "2023-05-22": 65334,
-  "2023-05-23": 65334,
-  "2023-05-24": 65334,
-  "2023-05-25": 65334,
-  "2023-05-26": 65334,
-  "2023-05-27": 65334,
-  "2023-05-28": 65334,
-  "2023-05-29": 65334,
-  "2023-05-30": 65334,
-  "2023-05-31": 65334,
-  "2023-06-01": 65334,
-  "2023-06-02": 65334,
-  "2023-06-03": 65334,
-  "2023-06-04": 65334,
-  "2023-06-05": 65334,
-  "2023-06-06": 65334,
-  "2023-06-07": 65334,
-  "2023-06-08": 65334,
-  "2023-06-09": 65334,
-  "2023-06-10": 65334,
-  "2023-06-11": 65334,
-  "2023-06-12": 65334,
-  "2023-06-13": 65334,
-  "2023-06-14": 65334,
-  "2023-06-15": 65334,
-  "2023-06-16": 65334,
-  "2023-06-17": 65334,
-  "2023-06-18": 65334,
-  "2023-06-19": 65334,
-  "2023-06-20": 65334,
-  "2023-06-21": 65334,
-  "2023-06-22": 65334,
-  "2023-06-23": 65334,
-  "2023-06-24": 65334,
-  "2023-06-25": 65334,
-  "2023-06-26": 65334,
-  "2023-06-27": 65334,
-  "2023-06-28": 65334,
-  "2023-06-29": 65334,
-  "2023-06-30": 65334,
-  "2023-07-01": 65334,
-  "2023-07-02": 65334,
-  "2023-07-03": 65334,
-  "2023-07-04": 65334,
-  "2023-07-05": 65334,
-  "2023-07-06": 65334,
-  "2023-07-07": 65334,
-  "2023-07-08": 65334,
-  "2023-07-09": 65334,
-  "2023-07-10": 65334,
-  "2023-07-11": 65334,
-  "2023-07-12": 65334,
-  "2023-07-13": 65334,
-  "2023-07-14": 65334,
-  "2023-07-15": 65334,
-  "2023-07-16": 65334,
-  "2023-07-17": 65334,
-  "2023-07-18": 65334,
-  "2023-07-19": 65334,
-  "2023-07-20": 65334,
-  "2023-07-21": 65334,
-  "2023-07-22": 65334,
-  "2023-07-23": 65334,
-  "2023-07-24": 65334,
-  "2023-07-25": 65334,
-  "2023-07-26": 65334,
-  "2023-07-27": 65334,
-  "2023-07-28": 65334,
-  "2023-07-29": 65334,
-  "2023-07-30": 65334,
-  "2023-07-31": 65334,
-  "2023-08-01": 65334,
-  "2023-08-02": 65334,
-  "2023-08-03": 65334,
-  "2023-08-04": 65334,
-  "2023-08-05": 65334,
-  "2023-08-06": 65334,
-  "2023-08-07": 65334,
-  "2023-08-08": 65334,
-  "2023-08-09": 65334,
-  "2023-08-10": 65334,
-  "2023-08-11": 65334,
-  "2023-08-12": 65334,
-  "2023-08-13": 65334,
-  "2023-08-14": 65334,
-  "2023-08-15": 65334,
-  "2023-08-16": 65334,
-  "2023-08-17": 65334,
-  "2023-08-18": 65334,
-  "2023-08-19": 65334,
-  "2023-08-20": 65334,
-  "2023-08-21": 65334,
-  "2023-08-22": 65334,
-  "2023-08-23": 65334,
-  "2023-08-24": 65334,
-  "2023-08-25": 65334,
-  "2023-08-26": 65334,
-  "2023-08-27": 65334,
-  "2023-08-28": 65334,
-  "2023-08-29": 65334,
-  "2023-08-30": 65334,
-  "2023-08-31": 65334,
-  "2023-09-01": 65334,
-  "2023-09-02": 65334,
-  "2023-09-03": 65334,
-  "2023-09-04": 65334,
-  "2023-09-05": 65334,
-  "2023-09-06": 65334,
-  "2023-09-07": 65334,
-  "2023-09-08": 65334,
-  "2023-09-09": 65334,
-  "2023-09-10": 65334,
-  "2023-09-11": 65334,
-  "2023-09-12": 65334,
-  "2023-09-13": 65334,
-  "2023-09-14": 65334,
-  "2023-09-15": 65334,
-  "2023-09-16": 65334,
-  "2023-09-17": 65334,
-  "2023-09-18": 65334,
-  "2023-09-19": 65334,
-  "2023-09-20": 65334,
-  "2023-09-21": 65334,
-  "2023-09-22": 65334,
-  "2023-09-23": 65334,
-  "2023-09-24": 65334,
-  "2023-09-25": 65334,
-  "2023-09-26": 65334,
-  "2023-09-27": 65334,
-  "2023-09-28": 65334,
-  "2023-09-29": 65334,
-  "2023-09-30": 65334,
-  "2023-10-01": 65334,
-  "2023-10-02": 65334,
-  "2023-10-03": 65334,
-  "2023-10-04": 65334,
-  "2023-10-05": 65334,
-  "2023-10-06": 65334,
-  "2023-10-07": 65334,
-  "2023-10-08": 65334,
-  "2023-10-09": 65334,
-  "2023-10-10": 65334,
-  "2023-10-11": 65334,
-  "2023-10-12": 65334,
-  "2023-10-13": 65334,
-  "2023-10-14": 65334,
-  "2023-10-15": 65334,
-  "2023-10-16": 65334,
-  "2023-10-17": 65334,
-  "2023-10-18": 65334,
-  "2023-10-19": 65334,
-  "2023-10-20": 65334,
-  "2023-10-21": 65334,
-  "2023-10-22": 65334,
-  "2023-10-23": 65334,
-  "2023-10-24": 65334,
-  "2023-10-25": 65334,
-  "2023-10-26": 65334,
-  "2023-10-27": 65334,
-  "2023-10-28": 65334,
-  "2023-10-29": 65334,
-  "2023-10-30": 65334,
-  "2023-10-31": 65334,
-  "2023-11-01": 65334,
-  "2023-11-02": 65334,
-  "2023-11-03": 65334,
-  "2023-11-04": 65334,
-  "2023-11-05": 65334,
-  "2023-11-06": 65334,
-  "2023-11-07": 65334,
-  "2023-11-08": 65334,
-  "2023-11-09": 65334,
-  "2023-11-10": 65334,
-  "2023-11-11": 65334,
-  "2023-11-12": 65334,
-  "2023-11-13": 65334,
-  "2023-11-14": 65334,
-  "2023-11-15": 65334,
-  "2023-11-16": 65334,
-  "2023-11-17": 65334,
-  "2023-11-18": 65334,
-  "2023-11-19": 65334,
-  "2023-11-20": 65334,
-  "2023-11-21": 65334,
-  "2023-11-22": 65334,
-  "2023-11-23": 65334,
-  "2023-11-24": 65334,
-  "2023-11-25": 65334,
-  "2023-11-26": 65334,
-  "2023-11-27": 65334,
-  "2023-11-28": 65334,
-  "2023-11-29": 65334,
-  "2023-11-30": 65334,
-  "2023-12-01": 65334,
-  "2023-12-02": 65334,
-  "2023-12-03": 65334,
-  "2023-12-04": 65334,
-  "2023-12-05": 65334,
-  "2023-12-06": 65334,
-  "2023-12-07": 65334,
-  "2023-12-08": 65334,
-  "2023-12-09": 65334,
-  "2023-12-10": 65334,
-  "2023-12-11": 65334,
-  "2023-12-12": 65334,
-  "2023-12-13": 65334,
-  "2023-12-14": 65334,
-  "2023-12-15": 65334,
-  "2023-12-16": 65334,
-  "2023-12-17": 65334,
-  "2023-12-18": 65334,
-  "2023-12-19": 65334,
-  "2023-12-20": 65334,
-  "2023-12-21": 65334,
-  "2023-12-22": 65334,
-  "2023-12-23": 65334,
-  "2023-12-24": 65334,
-  "2023-12-25": 65334,
-  "2023-12-26": 65334,
-  "2023-12-27": 65334,
-  "2023-12-30": 65334,
-  "2023-12-31": 65334,
-  "2024-01-01": 65334,
-  "2024-01-02": 65334,
-  "2024-01-03": 65334
+  "2024-01-17": 65334,
+  "date_first_scraped": "2021-12-21",
+  "description": "From early performances to iconic Grateful Dead, enjoy key picks that highlight the folk, bluegrass, and old time virtuosity of Jerry Garcia.",
+  "name": "This is Jerry Garcia",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Pizza Tapes",
+        "url": "https://open.spotify.com/album/0yXWEfqWaRrOEebmXriutZ"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/1yhekcwAz2jf0GRlS1rBjN"
+    },
+    {
+      "album": {
+        "name": "Garcia (Compliments) (Expanded)",
+        "url": "https://open.spotify.com/album/4k66KmzJvCkekpqyb67Lfj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428200,
+      "name": "Back Home In Indiana - Bonus Track",
+      "url": "https://open.spotify.com/track/6MElja7gRijbBd8Fy9zW2r"
+    },
+    {
+      "album": {
+        "name": "Been All Around This World",
+        "url": "https://open.spotify.com/album/1hzq9EGISX90ZV9rJzNBqE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Been All Around This World",
+      "url": "https://open.spotify.com/track/2PLPjZjBuUGmI4nNlxmltu"
+    },
+    {
+      "album": {
+        "name": "Reckoning (Live)",
+        "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456520,
+      "name": "Bird Song - Live",
+      "url": "https://open.spotify.com/track/00RhMZwmPZEZY3bbFV5VJK"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain Boys",
+          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132074,
+      "name": "Black Mountain Rag - Live",
+      "url": "https://open.spotify.com/track/1hO7DabV0lap4RN3ucr8yw"
+    },
+    {
+      "album": {
+        "name": "Ragged But Right",
+        "url": "https://open.spotify.com/album/0KQPscW2EjL95LC2ZMlHDw"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "Bright Morning Star - Live",
+      "url": "https://open.spotify.com/track/37kdCd34HN61fwUVFjNHT5"
+    },
+    {
+      "album": {
+        "name": "American Beauty (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249064,
+      "name": "Brokedown Palace - 2013 Remaster",
+      "url": "https://open.spotify.com/track/362CS15hE1upuTKoWApzLn"
+    },
+    {
+      "album": {
+        "name": "On Broadway: Act One - October 28th, 1987",
+        "url": "https://open.spotify.com/album/32SlCUQuwVdHnyDvjiRTwU"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416266,
+      "name": "Deep Elem Blues - Live",
+      "url": "https://open.spotify.com/track/3t0j7FUcWK5ddBjqX68NnW"
+    },
+    {
+      "album": {
+        "name": "Workingman's Dead",
+        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194491,
+      "name": "Dire Wolf - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108235,
+      "name": "Down in the Willow Garden - Live",
+      "url": "https://open.spotify.com/track/6TTHMVN27q0n1iObCqKaCz"
+    },
+    {
+      "album": {
+        "name": "The Complete Boarding House Shows",
+        "url": "https://open.spotify.com/album/1K4nQZB9nswB1vUy5efYP2"
+      },
+      "artists": [
+        {
+          "name": "Old & In The Way",
+          "url": "https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290586,
+      "name": "Drifting Too Far From the Shore",
+      "url": "https://open.spotify.com/track/7lgRmd5IXDVBpMFWAGI2F6"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "Sara Garcia",
+          "url": "https://open.spotify.com/artist/0bhFm4VVu14xSqjjz6AndJ"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "Foggy Mountain Top - Live",
+      "url": "https://open.spotify.com/track/1MxC3qVqssMDU34ZPPT1vz"
+    },
+    {
+      "album": {
+        "name": "Not For Kids Only",
+        "url": "https://open.spotify.com/album/4aHVExUb9ZqOppOMAdp5aw"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320266,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/2UWa9HNgColsejFsk1UwQ3"
+    },
+    {
+      "album": {
+        "name": "American Beauty (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204894,
+      "name": "Friend of the Devil - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6GgTJJmtDddHoo8Bp6lVcf"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "Asphalt Jungle Mountain Boys",
+          "url": "https://open.spotify.com/artist/3bON5NMwQzxtonS7tLbHKa"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110083,
+      "name": "Goodbye Old Pal - Live",
+      "url": "https://open.spotify.com/track/4HK7a8MoxqxNG0lGjJKY28"
+    },
+    {
+      "album": {
+        "name": "Jerry Garcia & David Grisman",
+        "url": "https://open.spotify.com/album/03Z05UmS6iV6NlbfgXmfvI"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Grateful Dawg",
+      "url": "https://open.spotify.com/track/68ufZEDfkz5thmM9MW0akS"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "Hart Valley Drifters",
+          "url": "https://open.spotify.com/artist/7vBzjAyp4JCqLnF7Uq9fiy"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138605,
+      "name": "Handsome Molly",
+      "url": "https://open.spotify.com/track/6elcoa6pvt5Q7tXVv7uALG"
+    },
+    {
+      "album": {
+        "name": "New Riders Of The Purple Sage",
+        "url": "https://open.spotify.com/album/7lFCCtkiXgIH1uQIWsCOPy"
+      },
+      "artists": [
+        {
+          "name": "New Riders of the Purple Sage",
+          "url": "https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148093,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/1gfwgzjAxaBApDZWKCie6H"
+    },
+    {
+      "album": {
+        "name": "Songs For Beginners",
+        "url": "https://open.spotify.com/album/3Lh1KbeS801PtOeojquUPk"
+      },
+      "artists": [
+        {
+          "name": "Graham Nash",
+          "url": "https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281893,
+      "name": "I Used to Be a King",
+      "url": "https://open.spotify.com/track/4GwREGuYf5RH8vfnk7ntZ9"
+    },
+    {
+      "album": {
+        "name": "Almost Acoustic",
+        "url": "https://open.spotify.com/album/7HlR8ss8vwkYDEmdwWT0GJ"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378813,
+      "name": "I've Been All Around This World - Live",
+      "url": "https://open.spotify.com/track/6MlbFxZqiZzQMTJiRGe6gq"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain Boys",
+          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195234,
+      "name": "In the Pines - Live",
+      "url": "https://open.spotify.com/track/3nBzQtw3zpksacQDZnyytC"
+    },
+    {
+      "album": {
+        "name": "Reckoning (Live)",
+        "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419226,
+      "name": "It Must Have Been the Roses - Live",
+      "url": "https://open.spotify.com/track/3lHYD0Eqkm2sTD792UCrUW"
+    },
+    {
+      "album": {
+        "name": "Live Albums Collection",
+        "url": "https://open.spotify.com/album/7ENQ5VEAlbbItHUL5qq9Wx"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Jack-A-Roe",
+      "url": "https://open.spotify.com/track/795tCByxFzuhtsljZo5Gub"
+    },
+    {
+      "album": {
+        "name": "Not For Kids Only",
+        "url": "https://open.spotify.com/album/4aHVExUb9ZqOppOMAdp5aw"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262213,
+      "name": "Jenny Jenkins",
+      "url": "https://open.spotify.com/track/5PHjY11RsSdAZZniGwcCf4"
+    },
+    {
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/1gWmSLQFKaP2CkxxZZXMg7"
+      },
+      "artists": [
+        {
+          "name": "Old & In The Way",
+          "url": "https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268866,
+      "name": "Jerry's Breakdown",
+      "url": "https://open.spotify.com/track/5yy9iuirAGdsFOvE31XpeJ"
+    },
+    {
+      "album": {
+        "name": "The Pizza Tapes",
+        "url": "https://open.spotify.com/album/0yXWEfqWaRrOEebmXriutZ"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347866,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/3UdZxNEolTsv3bAiXU1pg7"
+    },
+    {
+      "album": {
+        "name": "The Complete Boarding House Shows",
+        "url": "https://open.spotify.com/album/1K4nQZB9nswB1vUy5efYP2"
+      },
+      "artists": [
+        {
+          "name": "Old & In The Way",
+          "url": "https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271133,
+      "name": "Lonesome L.A. Cowboy",
+      "url": "https://open.spotify.com/track/3NKOnqvLFufw8uEPbZ0RK5"
+    },
+    {
+      "album": {
+        "name": "The Pizza Tapes",
+        "url": "https://open.spotify.com/album/0yXWEfqWaRrOEebmXriutZ"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270266,
+      "name": "Long Black Veil",
+      "url": "https://open.spotify.com/track/1bcMZm2nS9nDqmBQ7XDa2T"
+    },
+    {
+      "album": {
+        "name": "Garcia (Expanded)",
+        "url": "https://open.spotify.com/album/6c0Q017eSEvyNhAo1HLGGy"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250306,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/4I6YKLDPstcEZJvP9EaJBZ"
+    },
+    {
+      "album": {
+        "name": "The Pizza Tapes",
+        "url": "https://open.spotify.com/album/0yXWEfqWaRrOEebmXriutZ"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306573,
+      "name": "Man Of Constant Sorow",
+      "url": "https://open.spotify.com/track/47OOkQGbwEOgPM2LD2WIRb"
+    },
+    {
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/1gWmSLQFKaP2CkxxZZXMg7"
+      },
+      "artists": [
+        {
+          "name": "Old & In The Way",
+          "url": "https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316360,
+      "name": "Midnight Moonlight",
+      "url": "https://open.spotify.com/track/2gUTQZxqlEDuRMcqhHxTCn"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "The Wildwood Boys",
+          "url": "https://open.spotify.com/artist/5gTnOuXiy8bk9oYqHHXzWs"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202767,
+      "name": "Mule Skinner Blues - Live",
+      "url": "https://open.spotify.com/track/7f6JITDmeIHtmDHsbXJwoM"
+    },
+    {
+      "album": {
+        "name": "Workingman's Dead",
+        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246116,
+      "name": "New Speedway Boogie - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3YPBV5DacTbhgh7vharn6w"
+    },
+    {
+      "album": {
+        "name": "On Broadway: Act One - October 28th, 1987",
+        "url": "https://open.spotify.com/album/32SlCUQuwVdHnyDvjiRTwU"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343026,
+      "name": "Ragged but Right - Live",
+      "url": "https://open.spotify.com/track/19C4U3fx4EdFHKPA9CIazj"
+    },
+    {
+      "album": {
+        "name": "American Beauty (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Ripple - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1OE5l6sedVcIFELMuxQOPI"
+    },
+    {
+      "album": {
+        "name": "Guitar Preacher - The Polydor Years",
+        "url": "https://open.spotify.com/album/4Is8GgMzBkAiSYuCK4Ip10"
+      },
+      "artists": [
+        {
+          "name": "Link Wray",
+          "url": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161133,
+      "name": "Riverbend",
+      "url": "https://open.spotify.com/track/1ewbkwAHodTd2sXXUZafBl"
+    },
+    {
+      "album": {
+        "name": "Rosa Lee McFall (Live)",
+        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain Boys",
+          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150575,
+      "name": "Rosa Lee McFall - Live",
+      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
+    },
+    {
+      "album": {
+        "name": "Folk Time",
+        "url": "https://open.spotify.com/album/5C0iwKW78A2KMAKzpeUdfO"
+      },
+      "artists": [
+        {
+          "name": "Hart Valley Drifters",
+          "url": "https://open.spotify.com/artist/7vBzjAyp4JCqLnF7Uq9fiy"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225913,
+      "name": "Roving Gambler",
+      "url": "https://open.spotify.com/track/0rKeylnfyftjXegy9V8O4w"
+    },
+    {
+      "album": {
+        "name": "Pure Jerry: Marin Veteran's Memorial Auditorium, San Rafael, California, February 28, 1986",
+        "url": "https://open.spotify.com/album/0vwIHq1DdPfoNGoqQDeYwk"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "John Kahn",
+          "url": "https://open.spotify.com/artist/78wcNdGPVbyg6gPtNjjNC3"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Run For The Roses - Live",
+      "url": "https://open.spotify.com/track/623OupItdxd1OfokRDTccR"
+    },
+    {
+      "album": {
+        "name": "Jerry Garcia & David Grisman",
+        "url": "https://open.spotify.com/album/03Z05UmS6iV6NlbfgXmfvI"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Russian Lullaby",
+      "url": "https://open.spotify.com/track/5rLvmJg4L3V4fC6q2VXgHC"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hollow Hog Stompers",
+          "url": "https://open.spotify.com/artist/44IbuaM6ehwcD2grpN3POv"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125921,
+      "name": "Sally Goodin - Live",
+      "url": "https://open.spotify.com/track/7Kj5uJBPXsOYO03e61IUAF"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "Robert Hunter",
+          "url": "https://open.spotify.com/artist/6qirsjLFmIYz48bnq0rsvZ"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134523,
+      "name": "Santy Anno - Live",
+      "url": "https://open.spotify.com/track/7L0Gz0k20xaXP5yIMEzo0Z"
+    },
+    {
+      "album": {
+        "name": "Shady Grove",
+        "url": "https://open.spotify.com/album/2BGRgCUXutehfvbcsW9zD8"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259533,
+      "name": "Shady Grove",
+      "url": "https://open.spotify.com/track/1gCE4LxErCB25MSERdLCZX"
+    },
+    {
+      "album": {
+        "name": "Been All Around This World",
+        "url": "https://open.spotify.com/album/1hzq9EGISX90ZV9rJzNBqE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412866,
+      "name": "Sittin' Here In Limbo",
+      "url": "https://open.spotify.com/track/2duDLzaQ8RhCO0nWzoAMts"
+    },
+    {
+      "album": {
+        "name": "Folk Time",
+        "url": "https://open.spotify.com/album/5C0iwKW78A2KMAKzpeUdfO"
+      },
+      "artists": [
+        {
+          "name": "Hart Valley Drifters",
+          "url": "https://open.spotify.com/artist/7vBzjAyp4JCqLnF7Uq9fiy"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216539,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/3eFKRznCXk4wOdYq4j3RaX"
+    },
+    {
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/3L7iYmtjYRKV6epPHEE6zk"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413026,
+      "name": "So What (Miles Davis) Take 1, 3/8/91",
+      "url": "https://open.spotify.com/track/3lEd0jOaDdNgto4TOUgNgh"
+    },
+    {
+      "album": {
+        "name": "On Broadway: Act One - October 28th, 1987",
+        "url": "https://open.spotify.com/album/32SlCUQuwVdHnyDvjiRTwU"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426040,
+      "name": "Spike Driver Blues - Live",
+      "url": "https://open.spotify.com/track/34OReYkl9wnxEH3hLEJi9h"
+    },
+    {
+      "album": {
+        "name": "Shady Grove",
+        "url": "https://open.spotify.com/album/2BGRgCUXutehfvbcsW9zD8"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Stealin'",
+      "url": "https://open.spotify.com/track/0xhu0GilVIhvEkGPUPn7pG"
+    },
+    {
+      "album": {
+        "name": "Garcia (Expanded)",
+        "url": "https://open.spotify.com/album/6c0Q017eSEvyNhAo1HLGGy"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354600,
+      "name": "Sugaree",
+      "url": "https://open.spotify.com/track/29PDeKHTetRJY1fp8ZBGYU"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173466,
+      "name": "Teach Your Children",
+      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "Sara Garcia",
+          "url": "https://open.spotify.com/artist/0bhFm4VVu14xSqjjz6AndJ"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218226,
+      "name": "The Man Who Wrote Home Sweet Home Never Was a Married Man - Live",
+      "url": "https://open.spotify.com/track/2ochu2Xewv5cpeCcknSAfC"
+    },
+    {
+      "album": {
+        "name": "Shady Grove",
+        "url": "https://open.spotify.com/album/2BGRgCUXutehfvbcsW9zD8"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "The Sweet Sunny South",
+      "url": "https://open.spotify.com/track/3YOJZelIGRsylpMFPeTdnr"
+    },
+    {
+      "album": {
+        "name": "Jerry Garcia & David Grisman",
+        "url": "https://open.spotify.com/album/03Z05UmS6iV6NlbfgXmfvI"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284226,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/0xux34xBBIw9gCWXSLNjbw"
+    },
+    {
+      "album": {
+        "name": "Reckoning (Live)",
+        "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542880,
+      "name": "To Lay Me Down - Live",
+      "url": "https://open.spotify.com/track/78rA4TEETpXZpuUzirG8zE"
+    },
+    {
+      "album": {
+        "name": "Grateful Dawg The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0gMyDMGizWUXK0L0o6z0c1"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268426,
+      "name": "Wayfaring Stranger - Bill Monroe And His Blue Grass Boys",
+      "url": "https://open.spotify.com/track/4MgAjyWgu4Q4nlPE0t2tHr"
+    },
+    {
+      "album": {
+        "name": "Before The Dead (Live)",
+        "url": "https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A"
+      },
+      "artists": [
+        {
+          "name": "The Wildwood Boys",
+          "url": "https://open.spotify.com/artist/5gTnOuXiy8bk9oYqHHXzWs"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161944,
+      "name": "We Shall Not Be Moved - Live",
+      "url": "https://open.spotify.com/track/232N1eC838HLGarfWGCrr2"
+    },
+    {
+      "album": {
+        "name": "Shady Grove",
+        "url": "https://open.spotify.com/album/2BGRgCUXutehfvbcsW9zD8"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/69BhgVzGUe3V4QMFekmttL"
+    },
+    {
+      "album": {
+        "name": "The Complete Boarding House Shows",
+        "url": "https://open.spotify.com/album/1K4nQZB9nswB1vUy5efYP2"
+      },
+      "artists": [
+        {
+          "name": "Old & In The Way",
+          "url": "https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284386,
+      "name": "White Dove",
+      "url": "https://open.spotify.com/track/7vUqJ4ys7rKfBtkuniUHx6"
+    },
+    {
+      "album": {
+        "name": "Who Will Sing For Me? (Live)",
+        "url": "https://open.spotify.com/album/00F4ZgJ4CVI5Ak9I1iKbUc"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain Boys",
+          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127310,
+      "name": "Who Will Sing For Me? - Live",
+      "url": "https://open.spotify.com/track/6YcK9L2lMCSDZZy5e5YJ7i"
+    },
+    {
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/1gWmSLQFKaP2CkxxZZXMg7"
+      },
+      "artists": [
+        {
+          "name": "Old & In The Way",
+          "url": "https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh"
+        }
+      ],
+      "date_added": "2018-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278533,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/4xMmjrefx4NlEOHfGu3EQf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8N0xov3IdrH"
 }

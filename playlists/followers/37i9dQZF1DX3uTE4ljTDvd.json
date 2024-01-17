@@ -1,178 +1,1225 @@
 {
-  "2023-07-10": 110424,
-  "2023-07-11": 110475,
-  "2023-07-12": 110533,
-  "2023-07-13": 110601,
-  "2023-07-14": 110660,
-  "2023-07-15": 110703,
-  "2023-07-16": 110774,
-  "2023-07-17": 110840,
-  "2023-07-18": 110888,
-  "2023-07-19": 110953,
-  "2023-07-20": 111008,
-  "2023-07-21": 111056,
-  "2023-07-22": 111116,
-  "2023-07-23": 111180,
-  "2023-07-24": 111243,
-  "2023-07-25": 111317,
-  "2023-07-26": 111380,
-  "2023-07-27": 111444,
-  "2023-07-28": 111479,
-  "2023-07-29": 111531,
-  "2023-07-30": 111582,
-  "2023-07-31": 111639,
-  "2023-08-01": 111699,
-  "2023-08-02": 111747,
-  "2023-08-03": 111813,
-  "2023-08-04": 111878,
-  "2023-08-05": 111932,
-  "2023-08-06": 112045,
-  "2023-08-07": 112045,
-  "2023-08-08": 112108,
-  "2023-08-09": 112164,
-  "2023-08-10": 112245,
-  "2023-08-11": 112281,
-  "2023-08-12": 112322,
-  "2023-08-13": 112378,
-  "2023-08-14": 112421,
-  "2023-08-15": 112538,
-  "2023-08-16": 112538,
-  "2023-08-17": 112596,
-  "2023-08-18": 112657,
-  "2023-08-19": 112720,
-  "2023-08-20": 112749,
-  "2023-08-21": 112811,
-  "2023-08-22": 112864,
-  "2023-08-23": 112934,
-  "2023-08-24": 113003,
-  "2023-08-25": 113068,
-  "2023-08-26": 113146,
-  "2023-08-27": 113222,
-  "2023-08-28": 113319,
-  "2023-08-29": 113395,
-  "2023-08-30": 113455,
-  "2023-08-31": 113553,
-  "2023-09-01": 113731,
-  "2023-09-02": 113731,
-  "2023-09-03": 113781,
-  "2023-09-04": 113865,
-  "2023-09-05": 113949,
-  "2023-09-06": 114006,
-  "2023-09-07": 114071,
-  "2023-09-08": 114141,
-  "2023-09-09": 114227,
-  "2023-09-10": 114305,
-  "2023-09-11": 114383,
-  "2023-09-12": 114470,
-  "2023-09-13": 114569,
-  "2023-09-14": 114676,
-  "2023-09-15": 114762,
-  "2023-09-16": 114843,
-  "2023-09-17": 114928,
-  "2023-09-18": 115000,
-  "2023-09-19": 115102,
-  "2023-09-20": 115178,
-  "2023-09-21": 115279,
-  "2023-09-22": 115371,
-  "2023-09-23": 115457,
-  "2023-09-24": 115531,
-  "2023-09-25": 115591,
-  "2023-09-26": 115665,
-  "2023-09-27": 115733,
-  "2023-09-28": 115837,
-  "2023-09-29": 115932,
-  "2023-09-30": 116009,
-  "2023-10-01": 116096,
-  "2023-10-02": 116189,
-  "2023-10-03": 116260,
-  "2023-10-04": 116379,
-  "2023-10-05": 116481,
-  "2023-10-06": 116560,
-  "2023-10-07": 116583,
-  "2023-10-08": 116602,
-  "2023-10-09": 116623,
-  "2023-10-10": 116463,
-  "2023-10-11": 116325,
-  "2023-10-12": 116325,
-  "2023-10-13": 116163,
-  "2023-10-14": 116065,
-  "2023-10-15": 116086,
-  "2023-10-16": 116146,
-  "2023-10-17": 116210,
-  "2023-10-18": 116249,
-  "2023-10-19": 116326,
-  "2023-10-20": 116374,
-  "2023-10-21": 116430,
-  "2023-10-22": 116473,
-  "2023-10-23": 116504,
-  "2023-10-24": 116556,
-  "2023-10-25": 116612,
-  "2023-10-26": 116664,
-  "2023-10-27": 116711,
-  "2023-10-28": 116777,
-  "2023-10-29": 116821,
-  "2023-10-30": 116911,
-  "2023-10-31": 116911,
-  "2023-11-01": 116956,
-  "2023-11-02": 117020,
-  "2023-11-03": 117094,
-  "2023-11-04": 117149,
-  "2023-11-05": 117193,
-  "2023-11-06": 117237,
-  "2023-11-07": 117290,
-  "2023-11-08": 117336,
-  "2023-11-09": 117392,
-  "2023-11-10": 117442,
-  "2023-11-11": 117493,
-  "2023-11-12": 117541,
-  "2023-11-13": 117610,
-  "2023-11-14": 117651,
-  "2023-11-15": 117651,
-  "2023-11-16": 117741,
-  "2023-11-17": 117826,
-  "2023-11-18": 117826,
-  "2023-11-19": 117880,
-  "2023-11-20": 117929,
-  "2023-11-21": 117968,
-  "2023-11-22": 118009,
-  "2023-11-23": 118055,
-  "2023-11-24": 118102,
-  "2023-11-25": 118141,
-  "2023-11-26": 118178,
-  "2023-11-27": 118230,
-  "2023-11-28": 118281,
-  "2023-11-29": 118366,
-  "2023-11-30": 118366,
-  "2023-12-01": 118415,
-  "2023-12-02": 118449,
-  "2023-12-03": 118482,
-  "2023-12-04": 118521,
-  "2023-12-05": 118559,
-  "2023-12-06": 118613,
-  "2023-12-07": 118668,
-  "2023-12-08": 118720,
-  "2023-12-09": 118749,
-  "2023-12-10": 118781,
-  "2023-12-11": 118803,
-  "2023-12-12": 118838,
-  "2023-12-13": 118854,
-  "2023-12-14": 118886,
-  "2023-12-15": 118925,
-  "2023-12-16": 118954,
-  "2023-12-17": 118996,
-  "2023-12-18": 119018,
-  "2023-12-19": 119024,
-  "2023-12-20": 119051,
-  "2023-12-21": 119082,
-  "2023-12-22": 119129,
-  "2023-12-23": 119171,
-  "2023-12-24": 119202,
-  "2023-12-25": 119221,
-  "2023-12-26": 119252,
-  "2023-12-27": 119273,
-  "2023-12-30": 119387,
-  "2023-12-31": 119422,
-  "2024-01-01": 119458,
-  "2024-01-02": 119469,
-  "2024-01-03": 119494
+  "2024-01-17": 118944,
+  "date_first_scraped": "2023-07-10",
+  "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Milena Pina",
+  "name": "Revela\u00e7\u00e3o Gospel",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Igreja Te Adora",
+        "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Elizeu Alves",
+          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269165,
+      "name": "A Igreja Te Adora",
+      "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
+    },
+    {
+      "album": {
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
+    },
+    {
+      "album": {
+        "name": "Al\u00edvio",
+        "url": "https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 285098,
+      "name": "Al\u00edvio",
+      "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
+    },
+    {
+      "album": {
+        "name": "Andar Sobre As \u00c1guas",
+        "url": "https://open.spotify.com/album/2hQPAbaRfmLotiqzdMGMuT"
+      },
+      "artists": [
+        {
+          "name": "Bia Monteiro",
+          "url": "https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263260,
+      "name": "Andar Sobre As \u00c1guas",
+      "url": "https://open.spotify.com/track/40VTLWDGsKNLK9sHKIzZ7F"
+    },
+    {
+      "album": {
+        "name": "Anotando Pensamentos",
+        "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
+      },
+      "artists": [
+        {
+          "name": "Hellen Camargo",
+          "url": "https://open.spotify.com/artist/1ZIHKYRxb5VPQ4rFbS4e3f"
+        },
+        {
+          "name": "Cefas Music",
+          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271668,
+      "name": "Anotando Pensamentos",
+      "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
+    },
+    {
+      "album": {
+        "name": "Aviva-nos",
+        "url": "https://open.spotify.com/album/5PaxVBNCUxnZQWVAIPHebs"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        },
+        {
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324923,
+      "name": "Aviva-nos",
+      "url": "https://open.spotify.com/track/1yZBqpTaj8rUIBg0TMgEgI"
+    },
+    {
+      "album": {
+        "name": "Basta Uma Palavra",
+        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
+    },
+    {
+      "album": {
+        "name": "Boa Gra\u00e7a (Good Grace) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/3FcZsTAT49tBKp3T3um5W9"
+      },
+      "artists": [
+        {
+          "name": "Aproxime-Se",
+          "url": "https://open.spotify.com/artist/5X1v73lx5t9JTcl9QHVjtT"
+        },
+        {
+          "name": "Luiz Lima Sobrinho",
+          "url": "https://open.spotify.com/artist/2yHNIhCzAyRBh2XHOz7xW8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 303750,
+      "name": "Boa Gra\u00e7a (Good Grace) [Ac\u00fastico]",
+      "url": "https://open.spotify.com/track/4eYfddvw1Xc1mGbrCLIzXB"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cansado de Partir",
+        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291500,
+      "name": "Cora\u00e7\u00e3o Cansado de Partir",
+      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
+    },
+    {
+      "album": {
+        "name": "Daqui N\u00e3o Saio",
+        "url": "https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O"
+      },
+      "artists": [
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558500,
+      "name": "Daqui N\u00e3o Saio",
+      "url": "https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe"
+    },
+    {
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
+    },
+    {
+      "album": {
+        "name": "Descansa em Mim",
+        "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Canalis",
+          "url": "https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm"
+        },
+        {
+          "name": "Do Nosso Canto",
+          "url": "https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Descansa em Mim",
+      "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+    },
+    {
+      "album": {
+        "name": "Deserto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Deserto (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7"
+    },
+    {
+      "album": {
+        "name": "Destemida",
+        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
+      },
+      "artists": [
+        {
+          "name": "Adai Music",
+          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
+        },
+        {
+          "name": "Gislaine Rodrigues",
+          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298285,
+      "name": "Destemida",
+      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
+    },
+    {
+      "album": {
+        "name": "Deus Te Chama",
+        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
+      },
+      "artists": [
+        {
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263918,
+      "name": "Deus Te Chama",
+      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
+    },
+    {
+      "album": {
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "D\u00ea Mais uma Chance para o Mundo",
+      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
+    },
+    {
+      "album": {
+        "name": "Ele Vem",
+        "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
+        },
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359352,
+      "name": "Ele Vem",
+      "url": "https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2"
+    },
+    {
+      "album": {
+        "name": "Em Nome de Jesus",
+        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307600,
+      "name": "Em Nome de Jesus",
+      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
+    },
+    {
+      "album": {
+        "name": "Kethelen Baittinger",
+        "url": "https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5"
+      },
+      "artists": [
+        {
+          "name": "Kethelen Baittinger",
+          "url": "https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366222,
+      "name": "Em uma s\u00f3 voz",
+      "url": "https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/5gKW8nJBHsjNVUjW5TuJWV"
+      },
+      "artists": [
+        {
+          "name": "Atm Praise",
+          "url": "https://open.spotify.com/artist/1bb4IKt4oYKRRXFlu2f7oN"
+        },
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549181,
+      "name": "Emanuel",
+      "url": "https://open.spotify.com/track/17fYhMm4mxOnbo5vDn7567"
+    },
+    {
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
+      },
+      "artists": [
+        {
+          "name": "Casa Aberta",
+          "url": "https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Eterno",
+      "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
+    },
+    {
+      "album": {
+        "name": "Eu Me Rendo",
+        "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa Paiva",
+          "url": "https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294661,
+      "name": "Eu Me Rendo",
+      "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
+    },
+    {
+      "album": {
+        "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8"
+    },
+    {
+      "album": {
+        "name": "Eu Vou Mergulhar",
+        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
+      },
+      "artists": [
+        {
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291967,
+      "name": "Eu Vou Mergulhar",
+      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
+    },
+    {
+      "album": {
+        "name": "Fenda da Rocha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BwUstX6wBqQCiGrThGxfP"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/1fLVegrXjjxyZywzrxu7Gp"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323506,
+      "name": "Fenda da Rocha - Ao Vivo",
+      "url": "https://open.spotify.com/track/2l0Iqa3e3QzT0q798LiyhG"
+    },
+    {
+      "album": {
+        "name": "Promessa",
+        "url": "https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG"
+      },
+      "artists": [
+        {
+          "name": "Kau\u00ea Penna",
+          "url": "https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj"
+        },
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245749,
+      "name": "Fogo E Altar",
+      "url": "https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv"
+    },
+    {
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47"
+      },
+      "artists": [
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341333,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa"
+    },
+    {
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
+      },
+      "artists": [
+        {
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251936,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
+    },
+    {
+      "album": {
+        "name": "Incompar\u00e1vel",
+        "url": "https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300668,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh"
+    },
+    {
+      "album": {
+        "name": "Abra os C\u00e9us",
+        "url": "https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370746,
+      "name": "Majestade",
+      "url": "https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5"
+    },
+    {
+      "album": {
+        "name": "Me Mostra Tua Face",
+        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
+      },
+      "artists": [
+        {
+          "name": "RL Worship",
+          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384724,
+      "name": "Me Mostra Tua Face",
+      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
+    },
+    {
+      "album": {
+        "name": "Mesmo Sem Entender",
+        "url": "https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR"
+      },
+      "artists": [
+        {
+          "name": "Milena Pina",
+          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Mesmo Sem Entender",
+      "url": "https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3"
+    },
+    {
+      "album": {
+        "name": "Meu Grande Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI"
+      },
+      "artists": [
+        {
+          "name": "Giselle Knevitz",
+          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
+        },
+        {
+          "name": "Brasa Church Music",
+          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634368,
+      "name": "Meu Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
+    },
+    {
+      "album": {
+        "name": "Minha can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
+      },
+      "artists": [
+        {
+          "name": "ThreeSis",
+          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273514,
+      "name": "Minha can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
+    },
+    {
+      "album": {
+        "name": "Aprender Com a Vida",
+        "url": "https://open.spotify.com/album/4aLOyap4OFInGQPVDwGcKc"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203264,
+      "name": "N\u00e3o Adoro por Sinais",
+      "url": "https://open.spotify.com/track/5wHx18pp8YbZgyAzL3Yju4"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Serei o Mesmo",
+        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
+      },
+      "artists": [
+        {
+          "name": "Renata Reis",
+          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397096,
+      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
+      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
+    },
+    {
+      "album": {
+        "name": "Tua Presen\u00e7a Vale Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4vUCJMvYEyDx8Osu1I6W49"
+      },
+      "artists": [
+        {
+          "name": "Mateus Brito",
+          "url": "https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN"
+        },
+        {
+          "name": "Salvaon",
+          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461818,
+      "name": "N\u00e3o Temo Ondas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Q9QRqD40yE9jn0iRRg5qX"
+    },
+    {
+      "album": {
+        "name": "O Teu Poder (Creio em Ti)",
+        "url": "https://open.spotify.com/album/3gUFySRFOAKWn5VfZ9dvAI"
+      },
+      "artists": [
+        {
+          "name": "Alex Silva",
+          "url": "https://open.spotify.com/artist/72qyJQtv9lGSNCSMqRJ35H"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "O Teu Poder (Creio em Ti)",
+      "url": "https://open.spotify.com/track/7wpguZT8WHrxVimzWfEusv"
+    },
+    {
+      "album": {
+        "name": "Peda\u00e7os",
+        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Peda\u00e7os",
+      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
+    },
+    {
+      "album": {
+        "name": "Pode Dormir Tranquilo",
+        "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288457,
+      "name": "Pode Dormir Tranquilo",
+      "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
+    },
+    {
+      "album": {
+        "name": "Pra Que Eu Fosse Livre",
+        "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
+      },
+      "artists": [
+        {
+          "name": "Klev",
+          "url": "https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288857,
+      "name": "Pra Que Eu Fosse Livre",
+      "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
+    },
+    {
+      "album": {
+        "name": "Primeiro Amor",
+        "url": "https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236828,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
+    },
+    {
+      "album": {
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
+    },
+    {
+      "album": {
+        "name": "Quanto Amor",
+        "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224550,
+      "name": "Quanto Amor",
+      "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
+    },
+    {
+      "album": {
+        "name": "Quem Disse? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
+      },
+      "artists": [
+        {
+          "name": "Julliana Silva",
+          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330005,
+      "name": "Quem Disse? - Ao Vivo",
+      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
+    },
+    {
+      "album": {
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+      },
+      "artists": [
+        {
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+    },
+    {
+      "album": {
+        "name": "Raridade (Releitura)",
+        "url": "https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256161,
+      "name": "Raridade (Releitura)",
+      "url": "https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th"
+    },
+    {
+      "album": {
+        "name": "Recursos",
+        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346495,
+      "name": "Recursos",
+      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
+    },
+    {
+      "album": {
+        "name": "Redentor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3dkyvFAOlv1JUz30UPMDx6"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349267,
+      "name": "Redentor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YffYMKpricZh02Sh5nTMK"
+    },
+    {
+      "album": {
+        "name": "Santo dos Santos",
+        "url": "https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk"
+      },
+      "artists": [
+        {
+          "name": "Esther Marcos",
+          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
+        },
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278268,
+      "name": "Santo dos Santos",
+      "url": "https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ"
+    },
+    {
+      "album": {
+        "name": "Sinal de Amor",
+        "url": "https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt"
+      },
+      "artists": [
+        {
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        },
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215750,
+      "name": "Sinal de Amor",
+      "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"
+    },
+    {
+      "album": {
+        "name": "Sou o Teu Altar",
+        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275853,
+      "name": "Sou o Teu Altar",
+      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
+    },
+    {
+      "album": {
+        "name": "Sua Vida Em Mim",
+        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Sua Vida Em Mim",
+      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Faz Ajudar",
+        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267983,
+      "name": "S\u00f3 Faz Ajudar",
+      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
+    },
+    {
+      "album": {
+        "name": "Ter Paz",
+        "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
+      },
+      "artists": [
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285660,
+      "name": "Ter Paz",
+      "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
+    },
+    {
+      "album": {
+        "name": "Tu Me Fascinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
+      },
+      "artists": [
+        {
+          "name": "Mariana Vieira",
+          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283235,
+      "name": "Tu Me Fascinas - Ao Vivo",
+      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
+    },
+    {
+      "album": {
+        "name": "Tu \u00c9s Real",
+        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
+      },
+      "artists": [
+        {
+          "name": "Tamires Sabotage",
+          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302769,
+      "name": "Tu \u00c9s Real",
+      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
+    },
+    {
+      "album": {
+        "name": "Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Oliveira",
+          "url": "https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269722,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI"
+    },
+    {
+      "album": {
+        "name": "Vai Adorando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330409,
+      "name": "Vai Adorando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
+    },
+    {
+      "album": {
+        "name": "Ver Al\u00e9m",
+        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289879,
+      "name": "Ver Al\u00e9m",
+      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
+    },
+    {
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
+      },
+      "artists": [
+        {
+          "name": "Jayana Moreira",
+          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291253,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
+    },
+    {
+      "album": {
+        "name": "\u00c1gape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
+      },
+      "artists": [
+        {
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573739,
+      "name": "\u00c1gape - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3uTE4ljTDvd"
 }

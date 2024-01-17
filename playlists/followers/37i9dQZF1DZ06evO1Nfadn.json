@@ -1,577 +1,1971 @@
 {
-  "2022-06-02": 12642,
-  "2022-06-03": 12650,
-  "2022-06-04": 12661,
-  "2022-06-05": 12666,
-  "2022-06-06": 12674,
-  "2022-06-07": 12685,
-  "2022-06-08": 12694,
-  "2022-06-09": 12703,
-  "2022-06-10": 12705,
-  "2022-06-11": 12711,
-  "2022-06-12": 12723,
-  "2022-06-13": 12728,
-  "2022-06-14": 12734,
-  "2022-06-15": 12742,
-  "2022-06-16": 12752,
-  "2022-06-17": 12762,
-  "2022-06-18": 12773,
-  "2022-06-19": 12789,
-  "2022-06-20": 12789,
-  "2022-06-21": 12797,
-  "2022-06-22": 12821,
-  "2022-06-23": 12821,
-  "2022-06-24": 12828,
-  "2022-06-25": 12837,
-  "2022-06-26": 12844,
-  "2022-06-27": 12853,
-  "2022-06-28": 12860,
-  "2022-06-29": 12869,
-  "2022-06-30": 12872,
-  "2022-07-01": 12878,
-  "2022-07-02": 12886,
-  "2022-07-03": 12901,
-  "2022-07-04": 12904,
-  "2022-07-05": 12913,
-  "2022-07-06": 12913,
-  "2022-07-07": 12935,
-  "2022-07-08": 12949,
-  "2022-07-09": 12950,
-  "2022-07-10": 12967,
-  "2022-07-11": 12971,
-  "2022-07-12": 12983,
-  "2022-07-13": 12991,
-  "2022-07-14": 13004,
-  "2022-07-15": 13010,
-  "2022-07-16": 13018,
-  "2022-07-17": 13027,
-  "2022-07-18": 13036,
-  "2022-07-19": 13047,
-  "2022-07-20": 13052,
-  "2022-07-21": 13062,
-  "2022-07-22": 13077,
-  "2022-07-23": 13088,
-  "2022-07-24": 13097,
-  "2022-07-25": 13109,
-  "2022-07-26": 13122,
-  "2022-07-27": 13136,
-  "2022-07-28": 13147,
-  "2022-07-29": 13155,
-  "2022-07-30": 13172,
-  "2022-07-31": 13172,
-  "2022-08-01": 13181,
-  "2022-08-02": 13187,
-  "2022-08-03": 13187,
-  "2022-08-04": 13199,
-  "2022-08-05": 13213,
-  "2022-08-06": 13227,
-  "2022-08-07": 13240,
-  "2022-08-08": 13257,
-  "2022-08-09": 13267,
-  "2022-08-10": 13274,
-  "2022-08-11": 13278,
-  "2022-08-12": 13295,
-  "2022-08-13": 13310,
-  "2022-08-14": 13322,
-  "2022-08-15": 13336,
-  "2022-08-16": 13340,
-  "2022-08-17": 13351,
-  "2022-08-18": 13363,
-  "2022-08-19": 13379,
-  "2022-08-20": 13393,
-  "2022-08-21": 13412,
-  "2022-08-22": 13435,
-  "2022-08-23": 13442,
-  "2022-08-24": 13454,
-  "2022-08-25": 13472,
-  "2022-08-26": 13483,
-  "2022-08-27": 13495,
-  "2022-08-28": 13509,
-  "2022-08-29": 13513,
-  "2022-08-30": 13527,
-  "2022-08-31": 13539,
-  "2022-09-01": 13549,
-  "2022-09-02": 13562,
-  "2022-09-03": 13576,
-  "2022-09-04": 13598,
-  "2022-09-05": 13616,
-  "2022-09-06": 13626,
-  "2022-09-07": 13641,
-  "2022-09-09": 13669,
-  "2022-09-10": 13683,
-  "2022-09-11": 13699,
-  "2022-09-12": 13711,
-  "2022-09-13": 13722,
-  "2022-09-15": 13739,
-  "2022-09-16": 13754,
-  "2022-09-17": 13760,
-  "2022-09-18": 13775,
-  "2022-09-19": 13786,
-  "2022-09-20": 13798,
-  "2022-09-21": 13810,
-  "2022-09-22": 13823,
-  "2022-09-23": 13836,
-  "2022-09-24": 13836,
-  "2022-09-25": 13867,
-  "2022-09-26": 13873,
-  "2022-09-27": 13884,
-  "2022-09-28": 13896,
-  "2022-09-29": 13906,
-  "2022-09-30": 13921,
-  "2022-10-01": 13938,
-  "2022-10-02": 13951,
-  "2022-10-03": 13970,
-  "2022-10-04": 13981,
-  "2022-10-05": 13993,
-  "2022-10-06": 14012,
-  "2022-10-07": 14029,
-  "2022-10-08": 14049,
-  "2022-10-09": 14075,
-  "2022-10-10": 14085,
-  "2022-10-11": 14102,
-  "2022-10-12": 14111,
-  "2022-10-13": 14126,
-  "2022-10-14": 14134,
-  "2022-10-15": 14153,
-  "2022-10-16": 14169,
-  "2022-10-17": 14180,
-  "2022-10-18": 14189,
-  "2022-10-19": 14205,
-  "2022-10-20": 14220,
-  "2022-10-21": 14234,
-  "2022-10-22": 14243,
-  "2022-10-23": 14265,
-  "2022-10-24": 14281,
-  "2022-10-25": 14296,
-  "2022-10-26": 14311,
-  "2022-10-27": 14324,
-  "2022-10-28": 14334,
-  "2022-10-29": 14350,
-  "2022-10-30": 14362,
-  "2022-10-31": 14384,
-  "2022-11-01": 14398,
-  "2022-11-02": 14409,
-  "2022-11-03": 14420,
-  "2022-11-04": 14432,
-  "2022-11-05": 14445,
-  "2022-11-06": 14457,
-  "2022-11-07": 14469,
-  "2022-11-08": 14480,
-  "2022-11-09": 14492,
-  "2022-11-10": 14502,
-  "2022-11-11": 14515,
-  "2022-11-12": 14529,
-  "2022-11-13": 14537,
-  "2022-11-14": 14556,
-  "2022-11-15": 14566,
-  "2022-11-16": 14579,
-  "2022-11-17": 14597,
-  "2022-11-18": 14601,
-  "2022-11-19": 14599,
-  "2022-11-20": 14618,
-  "2022-11-21": 14638,
-  "2022-11-22": 14649,
-  "2022-11-23": 14660,
-  "2022-11-24": 14691,
-  "2022-11-25": 14710,
-  "2022-11-26": 14725,
-  "2022-11-27": 14740,
-  "2022-11-28": 14752,
-  "2022-11-29": 14760,
-  "2022-11-30": 14768,
-  "2022-12-01": 14778,
-  "2022-12-02": 14786,
-  "2022-12-03": 14806,
-  "2022-12-04": 14822,
-  "2022-12-05": 14835,
-  "2022-12-06": 14848,
-  "2022-12-07": 14857,
-  "2022-12-08": 14872,
-  "2022-12-09": 14883,
-  "2022-12-10": 14892,
-  "2022-12-11": 14903,
-  "2022-12-12": 14923,
-  "2022-12-13": 14932,
-  "2022-12-14": 14945,
-  "2022-12-15": 14954,
-  "2022-12-16": 14968,
-  "2022-12-17": 14980,
-  "2022-12-18": 14998,
-  "2022-12-19": 15011,
-  "2022-12-20": 15031,
-  "2022-12-21": 15031,
-  "2022-12-22": 15052,
-  "2022-12-24": 15086,
-  "2022-12-25": 15104,
-  "2022-12-26": 15131,
-  "2022-12-27": 15135,
-  "2022-12-28": 15157,
-  "2022-12-29": 15168,
-  "2022-12-30": 15183,
-  "2022-12-31": 15200,
-  "2023-01-01": 15215,
-  "2023-01-02": 15229,
-  "2023-01-03": 15247,
-  "2023-01-04": 15261,
-  "2023-01-05": 15277,
-  "2023-01-06": 15305,
-  "2023-01-07": 15334,
-  "2023-01-08": 15340,
-  "2023-01-09": 15357,
-  "2023-01-10": 15372,
-  "2023-01-11": 15386,
-  "2023-01-12": 15406,
-  "2023-01-13": 15424,
-  "2023-01-14": 15456,
-  "2023-01-15": 15460,
-  "2023-01-16": 15475,
-  "2023-01-17": 15485,
-  "2023-01-18": 15505,
-  "2023-01-19": 15516,
-  "2023-01-20": 15533,
-  "2023-01-21": 15552,
-  "2023-01-22": 15571,
-  "2023-01-23": 15586,
-  "2023-01-24": 15603,
-  "2023-01-25": 15621,
-  "2023-01-26": 15635,
-  "2023-01-27": 15645,
-  "2023-01-28": 15659,
-  "2023-01-29": 15678,
-  "2023-01-30": 15689,
-  "2023-01-31": 15689,
-  "2023-02-01": 15712,
-  "2023-02-02": 15725,
-  "2023-02-03": 15737,
-  "2023-02-04": 15748,
-  "2023-02-05": 15756,
-  "2023-02-06": 15766,
-  "2023-02-07": 15784,
-  "2023-02-08": 15809,
-  "2023-02-09": 15809,
-  "2023-02-10": 15825,
-  "2023-02-11": 15839,
-  "2023-02-12": 15865,
-  "2023-02-13": 15879,
-  "2023-02-14": 15879,
-  "2023-02-15": 15895,
-  "2023-02-16": 15912,
-  "2023-02-17": 15934,
-  "2023-02-18": 15962,
-  "2023-02-19": 15969,
-  "2023-02-20": 15983,
-  "2023-02-21": 16004,
-  "2023-02-22": 16025,
-  "2023-02-23": 16037,
-  "2023-02-24": 16052,
-  "2023-02-25": 16075,
-  "2023-02-26": 16084,
-  "2023-02-27": 16111,
-  "2023-02-28": 16111,
-  "2023-03-01": 16123,
-  "2023-03-02": 16143,
-  "2023-03-03": 16181,
-  "2023-03-04": 16206,
-  "2023-03-05": 16242,
-  "2023-03-06": 16242,
-  "2023-03-07": 16250,
-  "2023-03-08": 16261,
-  "2023-03-09": 16279,
-  "2023-03-10": 16282,
-  "2023-03-11": 16294,
-  "2023-03-12": 16311,
-  "2023-03-13": 16320,
-  "2023-03-14": 16331,
-  "2023-03-15": 16345,
-  "2023-03-16": 16345,
-  "2023-03-17": 16345,
-  "2023-03-18": 16376,
-  "2023-03-19": 16376,
-  "2023-03-20": 16415,
-  "2023-03-21": 16429,
-  "2023-03-22": 16437,
-  "2023-03-23": 16448,
-  "2023-03-24": 16448,
-  "2023-03-25": 16471,
-  "2023-03-26": 16486,
-  "2023-03-27": 16498,
-  "2023-03-28": 16516,
-  "2023-03-29": 16533,
-  "2023-03-30": 16555,
-  "2023-03-31": 16555,
-  "2023-04-01": 16577,
-  "2023-04-02": 16587,
-  "2023-04-03": 16605,
-  "2023-04-04": 16613,
-  "2023-04-05": 16632,
-  "2023-04-06": 16646,
-  "2023-04-07": 16664,
-  "2023-04-09": 16698,
-  "2023-04-10": 16709,
-  "2023-04-11": 16735,
-  "2023-04-12": 16735,
-  "2023-04-13": 16756,
-  "2023-04-14": 16769,
-  "2023-04-15": 16785,
-  "2023-04-16": 16805,
-  "2023-04-17": 16824,
-  "2023-04-18": 16840,
-  "2023-04-19": 16850,
-  "2023-04-20": 16865,
-  "2023-04-21": 16875,
-  "2023-04-22": 16897,
-  "2023-04-23": 16912,
-  "2023-04-24": 16927,
-  "2023-04-25": 16945,
-  "2023-04-26": 16960,
-  "2023-04-27": 16981,
-  "2023-04-28": 16996,
-  "2023-04-29": 17022,
-  "2023-04-30": 17034,
-  "2023-05-01": 17053,
-  "2023-05-02": 17069,
-  "2023-05-03": 17093,
-  "2023-05-04": 17098,
-  "2023-05-05": 17114,
-  "2023-05-06": 17134,
-  "2023-05-07": 17162,
-  "2023-05-08": 17183,
-  "2023-05-09": 17195,
-  "2023-05-10": 17217,
-  "2023-05-11": 17234,
-  "2023-05-12": 17250,
-  "2023-05-13": 17260,
-  "2023-05-14": 17273,
-  "2023-05-15": 17286,
-  "2023-05-16": 17302,
-  "2023-05-17": 17312,
-  "2023-05-18": 17331,
-  "2023-05-19": 17346,
-  "2023-05-20": 17395,
-  "2023-05-21": 17395,
-  "2023-05-22": 17395,
-  "2023-05-23": 17430,
-  "2023-05-24": 17454,
-  "2023-05-25": 17455,
-  "2023-05-26": 17470,
-  "2023-05-27": 17493,
-  "2023-05-28": 17519,
-  "2023-05-29": 17519,
-  "2023-05-30": 17540,
-  "2023-05-31": 17552,
-  "2023-06-01": 17564,
-  "2023-06-02": 17574,
-  "2023-06-03": 17594,
-  "2023-06-04": 17610,
-  "2023-06-05": 17620,
-  "2023-06-06": 17635,
-  "2023-06-07": 17647,
-  "2023-06-08": 17668,
-  "2023-06-09": 17682,
-  "2023-06-10": 17700,
-  "2023-06-11": 17724,
-  "2023-06-12": 17750,
-  "2023-06-13": 17756,
-  "2023-06-14": 17771,
-  "2023-06-15": 17793,
-  "2023-06-16": 17803,
-  "2023-06-17": 17823,
-  "2023-06-18": 17828,
-  "2023-06-19": 17839,
-  "2023-06-20": 17854,
-  "2023-06-21": 17870,
-  "2023-06-22": 17884,
-  "2023-06-23": 17899,
-  "2023-06-24": 17917,
-  "2023-06-25": 17937,
-  "2023-06-26": 17959,
-  "2023-06-27": 17962,
-  "2023-06-28": 17970,
-  "2023-06-29": 17992,
-  "2023-06-30": 18010,
-  "2023-07-01": 18045,
-  "2023-07-02": 18045,
-  "2023-07-03": 18062,
-  "2023-07-04": 18073,
-  "2023-07-05": 18087,
-  "2023-07-06": 18118,
-  "2023-07-07": 18118,
-  "2023-07-08": 18142,
-  "2023-07-09": 18158,
-  "2023-07-10": 18176,
-  "2023-07-11": 18192,
-  "2023-07-12": 18217,
-  "2023-07-13": 18244,
-  "2023-07-14": 18268,
-  "2023-07-15": 18289,
-  "2023-07-16": 18322,
-  "2023-07-17": 18349,
-  "2023-07-18": 18360,
-  "2023-07-19": 18377,
-  "2023-07-20": 18393,
-  "2023-07-21": 18420,
-  "2023-07-22": 18435,
-  "2023-07-23": 18449,
-  "2023-07-24": 18465,
-  "2023-07-25": 18482,
-  "2023-07-26": 18497,
-  "2023-07-27": 18522,
-  "2023-07-28": 18543,
-  "2023-07-29": 18568,
-  "2023-07-30": 18582,
-  "2023-07-31": 18599,
-  "2023-08-01": 18621,
-  "2023-08-02": 18638,
-  "2023-08-03": 18654,
-  "2023-08-04": 18674,
-  "2023-08-05": 18702,
-  "2023-08-06": 18748,
-  "2023-08-07": 18748,
-  "2023-08-08": 18758,
-  "2023-08-09": 18776,
-  "2023-08-10": 18794,
-  "2023-08-11": 18817,
-  "2023-08-12": 18817,
-  "2023-08-13": 18817,
-  "2023-08-14": 18875,
-  "2023-08-15": 18875,
-  "2023-08-16": 18875,
-  "2023-08-17": 18927,
-  "2023-08-18": 18927,
-  "2023-08-19": 18927,
-  "2023-08-20": 19003,
-  "2023-08-21": 19003,
-  "2023-08-22": 19041,
-  "2023-08-23": 19041,
-  "2023-08-24": 19070,
-  "2023-08-25": 19070,
-  "2023-08-26": 19135,
-  "2023-08-27": 19135,
-  "2023-08-28": 19199,
-  "2023-08-29": 19199,
-  "2023-08-30": 19199,
-  "2023-08-31": 19267,
-  "2023-09-01": 19299,
-  "2023-09-02": 19299,
-  "2023-09-03": 19365,
-  "2023-09-04": 19365,
-  "2023-09-05": 19365,
-  "2023-09-06": 19439,
-  "2023-09-07": 19439,
-  "2023-09-08": 19439,
-  "2023-09-09": 19439,
-  "2023-09-10": 19590,
-  "2023-09-11": 19590,
-  "2023-09-12": 19590,
-  "2023-09-13": 19681,
-  "2023-09-14": 19681,
-  "2023-09-15": 19681,
-  "2023-09-16": 19780,
-  "2023-09-17": 19780,
-  "2023-09-18": 19780,
-  "2023-09-19": 19844,
-  "2023-09-20": 19844,
-  "2023-09-21": 19844,
-  "2023-09-22": 19888,
-  "2023-09-23": 19888,
-  "2023-09-24": 19888,
-  "2023-09-25": 19888,
-  "2023-09-26": 19952,
-  "2023-09-27": 19952,
-  "2023-09-28": 19952,
-  "2023-09-29": 19952,
-  "2023-09-30": 19952,
-  "2023-10-01": 19952,
-  "2023-10-02": 20054,
-  "2023-10-03": 20054,
-  "2023-10-04": 20054,
-  "2023-10-05": 20098,
-  "2023-10-06": 20098,
-  "2023-10-07": 20098,
-  "2023-10-08": 20098,
-  "2023-10-09": 20098,
-  "2023-10-10": 20098,
-  "2023-10-11": 20190,
-  "2023-10-12": 20190,
-  "2023-10-13": 20190,
-  "2023-10-14": 20190,
-  "2023-10-15": 20190,
-  "2023-10-16": 20190,
-  "2023-10-17": 20190,
-  "2023-10-18": 20190,
-  "2023-10-19": 20190,
-  "2023-10-20": 20190,
-  "2023-10-21": 20190,
-  "2023-10-22": 20190,
-  "2023-10-23": 20190,
-  "2023-10-24": 20190,
-  "2023-10-25": 20190,
-  "2023-10-26": 20190,
-  "2023-10-27": 20190,
-  "2023-10-28": 20190,
-  "2023-10-29": 20190,
-  "2023-10-30": 20190,
-  "2023-10-31": 20190,
-  "2023-11-01": 20190,
-  "2023-11-02": 20190,
-  "2023-11-03": 20190,
-  "2023-11-04": 20190,
-  "2023-11-05": 20190,
-  "2023-11-06": 20190,
-  "2023-11-07": 20190,
-  "2023-11-08": 20190,
-  "2023-11-09": 20190,
-  "2023-11-10": 20190,
-  "2023-11-11": 20699,
-  "2023-11-12": 20699,
-  "2023-11-13": 20699,
-  "2023-11-14": 20699,
-  "2023-11-15": 20699,
-  "2023-11-16": 20699,
-  "2023-11-17": 20699,
-  "2023-11-18": 20699,
-  "2023-11-19": 20699,
-  "2023-11-20": 20699,
-  "2023-11-21": 20699,
-  "2023-11-22": 20699,
-  "2023-11-23": 20699,
-  "2023-11-24": 20699,
-  "2023-11-25": 20699,
-  "2023-11-26": 20699,
-  "2023-11-27": 20699,
-  "2023-11-28": 20699,
-  "2023-11-29": 20699,
-  "2023-11-30": 20699,
-  "2023-12-01": 20699,
-  "2023-12-02": 20699,
-  "2023-12-03": 20699,
-  "2023-12-04": 20699,
-  "2023-12-05": 20699,
-  "2023-12-06": 20699,
-  "2023-12-07": 20699,
-  "2023-12-08": 20699,
-  "2023-12-09": 20699,
-  "2023-12-10": 20699,
-  "2023-12-11": 20699,
-  "2023-12-12": 20699,
-  "2023-12-13": 20699,
-  "2023-12-14": 21353,
-  "2023-12-15": 21365,
-  "2023-12-16": 21382,
-  "2023-12-17": 21406,
-  "2023-12-18": 21428,
-  "2023-12-19": 21445,
-  "2023-12-20": 21467,
-  "2023-12-21": 21504,
-  "2023-12-22": 21525,
-  "2023-12-23": 21557,
-  "2023-12-24": 21584,
-  "2023-12-25": 21609,
-  "2023-12-26": 21635,
-  "2023-12-27": 21649,
-  "2023-12-30": 21708,
-  "2023-12-31": 21738,
-  "2024-01-01": 21771,
-  "2024-01-02": 21796,
-  "2024-01-03": 21807
+  "2024-01-17": 22046,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
+  "name": "This Is Banda Maguey",
+  "tracks": [
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151487,
+      "name": "A Mis Padres",
+      "url": "https://open.spotify.com/track/77tboh0O7eULVRwwIqUgax"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
+      "duration_ms": 154333,
+      "name": "A Mis Padres",
+      "url": "https://open.spotify.com/track/39fu6sQOQip2OC5JEbl209"
+    },
+    {
+      "album": {
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143906,
+      "name": "Alma de Acero",
+      "url": "https://open.spotify.com/track/4t6sb6BrGJXzjit9bdFrBO"
+    },
+    {
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 207320,
+      "name": "Aniversario De Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3eb16j5rbejD4pIR40wAt2"
+    },
+    {
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "Aniversario de un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
+    },
+    {
+      "album": {
+        "name": "Los 15 Para Coleccionar",
+        "url": "https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 148173,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/6NQSh4mdFDkukgwFfhlbfY"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148188,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 156546,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/6j6ueannDkdkD84e8VcRVp"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156703,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/3Vl4hefE2fB1C9Lxet9XrQ"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 147053,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/0MzJVPncnI3QcDe4dSSdcF"
+    },
+    {
+      "album": {
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Brinca Brita",
+      "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
+    },
+    {
+      "album": {
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 158560,
+      "name": "B\u00e1ilalo Suavecito",
+      "url": "https://open.spotify.com/track/4xqSBX0ygS4UZZqpzdCGWy"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 154533,
+      "name": "Como Chapulin",
+      "url": "https://open.spotify.com/track/2i63GltjvYmpj8hGioLfN5"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 181493,
+      "name": "Como la Luna",
+      "url": "https://open.spotify.com/track/70tWNfuIdbEL51aiR0kJav"
+    },
+    {
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181519,
+      "name": "Como La Luna",
+      "url": "https://open.spotify.com/track/2wLlLduOwyxNUCR8AnLPJr"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 142573,
+      "name": "Corazon Corazoncito",
+      "url": "https://open.spotify.com/track/6rd0Dpq4bZrb5V9ZQhkjar"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 205933,
+      "name": "Corazon De Oro",
+      "url": "https://open.spotify.com/track/1Z1zgVs2cRnfigMGvITbzQ"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202961,
+      "name": "Coraz\u00f3n de Oro",
+      "url": "https://open.spotify.com/track/2MBMZ97gVM4TImShPZ23Ey"
+    },
+    {
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 140960,
+      "name": "Cumbia Cusinela",
+      "url": "https://open.spotify.com/track/2mDmVHxoKuy9S0GUE1GeiW"
+    },
+    {
+      "album": {
+        "name": "Tesoros de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "Cu\u00e1nto Te Quiero",
+      "url": "https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E"
+    },
+    {
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 150946,
+      "name": "De Esta Sierra A La Otra",
+      "url": "https://open.spotify.com/track/78XrMgHFKr2RPYDcPd8dhF"
+    },
+    {
+      "album": {
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174040,
+      "name": "Dos Gotas de Agua",
+      "url": "https://open.spotify.com/track/6685gkTvHOFLb3go14K2I0"
+    },
+    {
+      "album": {
+        "name": "Mil Gracias",
+        "url": "https://open.spotify.com/album/0RE8GBPjlZBTx9RXHC0LGO"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 176906,
+      "name": "Dos Gotas de Agua",
+      "url": "https://open.spotify.com/track/3zOX9kZFskHnK2rp1abpCJ"
+    },
+    {
+      "album": {
+        "name": "Los 15 Para Coleccionar",
+        "url": "https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 222706,
+      "name": "Dulce Veneno",
+      "url": "https://open.spotify.com/track/2T6qeMzVsysTRD3dDpPxcI"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222820,
+      "name": "Dulce Veneno",
+      "url": "https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE"
+    },
+    {
+      "album": {
+        "name": "Soy Mexicano",
+        "url": "https://open.spotify.com/album/6Mc8AQvP2LBKHZGX5ihwpa"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 185751,
+      "name": "El",
+      "url": "https://open.spotify.com/track/5BVdLm5h0alj7oGfacbxy4"
+    },
+    {
+      "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 153520,
+      "name": "El alacr\u00e1n",
+      "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 153893,
+      "name": "El Alacr\u00e1n",
+      "url": "https://open.spotify.com/track/724EmguSZnZkNYegszQgig"
+    },
+    {
+      "album": {
+        "name": "Los 15 Para Coleccionar",
+        "url": "https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 136213,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/5Vu5F44eTqBpZVBWD6S01O"
+    },
+    {
+      "album": {
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136226,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/618y63IoyK0mX1nWOsvHYj"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "El Avestruz",
+      "url": "https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb"
+    },
+    {
+      "album": {
+        "name": "30 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5BPhDcAqh16xDcrUQu6onc"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 167693,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6fbKWJx0tCchEKbnUDc0hU"
+    },
+    {
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169953,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX"
+    },
+    {
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "El Jalisciense",
+      "url": "https://open.spotify.com/track/57SmAa0MAjSRxJOqKgKxZV"
+    },
+    {
+      "album": {
+        "name": "Exitos En Radio",
+        "url": "https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153960,
+      "name": "El Joven Viejo",
+      "url": "https://open.spotify.com/track/0acpP24ASl2qWpABqcjmIa"
+    },
+    {
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 170571,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/5GvgB8SL5laT3ZdRvt3VD0"
+    },
+    {
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176889,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 177066,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J"
+    },
+    {
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166900,
+      "name": "El Toca Toca",
+      "url": "https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv"
+    },
+    {
+      "album": {
+        "name": "El Toro Pinto",
+        "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211306,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 164053,
+      "name": "El Zancudito",
+      "url": "https://open.spotify.com/track/1Y3HAmViyeZjPisxX8R4H8"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "El Zancudito",
+      "url": "https://open.spotify.com/track/3IXUfO6OXDgk6ZnJwi9KGW"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 232506,
+      "name": "Estare Contigo",
+      "url": "https://open.spotify.com/track/6WIMzW10yHaUBVr262fcAH"
+    },
+    {
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
+    },
+    {
+      "album": {
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 181346,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7o0nQZWb5CJLUd6zOMGC7K"
+    },
+    {
+      "album": {
+        "name": "Tesoros de Coleccion",
+        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 141720,
+      "name": "Gr\u00edtenme Piedras del Campo",
+      "url": "https://open.spotify.com/track/0duYLzWicDpeFY1km3tSI2"
+    },
+    {
+      "album": {
+        "name": "Los 15 Para Coleccionar",
+        "url": "https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 186066,
+      "name": "Jacinto P\u00e9rez De La O",
+      "url": "https://open.spotify.com/track/5ZltgKoPzE2AKQQq8EeG0q"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186180,
+      "name": "Jacinto P\u00e9rez de la O",
+      "url": "https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149902,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ"
+    },
+    {
+      "album": {
+        "name": "Pa' Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/3qphrl3j2zNiNrPcqcrF8x"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 149920,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/5O56ZFb2wudJMlk6278gyB"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/1jThuw8Kx5lbEYEkZqsD1x"
+    },
+    {
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145867,
+      "name": "La Estrella De Los Bailes",
+      "url": "https://open.spotify.com/track/6tfwJHW5ie9ge5R0ZJ5qKp"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 148653,
+      "name": "La Estrella de Los Bailes",
+      "url": "https://open.spotify.com/track/6ys6m4XPqVCQcSMXzhFYdC"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 154213,
+      "name": "La Estrella de los Bailes - Live Version",
+      "url": "https://open.spotify.com/track/4cr6dHRu6p7sAVCUDrEjTn"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 153213,
+      "name": "La Mano de Dios",
+      "url": "https://open.spotify.com/track/6DuEpEA8q3Qn7afD6ep5QA"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153359,
+      "name": "La Mano De Dios",
+      "url": "https://open.spotify.com/track/07QCCzkYr17jJ7kTLLJltI"
+    },
+    {
+      "album": {
+        "name": "Serie 20 Exitos",
+        "url": "https://open.spotify.com/album/0LqVH79uT6txB15PXmZLci"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 176213,
+      "name": "La Negra Tete",
+      "url": "https://open.spotify.com/track/4DbREQlyfOX0p6PiymhkvW"
+    },
+    {
+      "album": {
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186173,
+      "name": "La Prendita",
+      "url": "https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE"
+    },
+    {
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 139680,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/4xy7wejmM34LnfhLDIpanB"
+    },
+    {
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149920,
+      "name": "La Ranchera Pajona",
+      "url": "https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm"
+    },
+    {
+      "album": {
+        "name": "Lagrimas De Sangre",
+        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135893,
+      "name": "La Traicionera",
+      "url": "https://open.spotify.com/track/1cHG4Z9p9qSwKVs8AetKAz"
+    },
+    {
+      "album": {
+        "name": "Lagrimas De Sangre",
+        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "Lagrimas de Sangre",
+      "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 195546,
+      "name": "Las Petacas",
+      "url": "https://open.spotify.com/track/76RQYa0a3rpPuwewAzKcrw"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 184866,
+      "name": "Llorar Por Ti",
+      "url": "https://open.spotify.com/track/4sbIIvuRZLYE9AiOc6fcDI"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184993,
+      "name": "Llorar Por Ti",
+      "url": "https://open.spotify.com/track/5oj3i46lvxcGO2vE04fmFY"
+    },
+    {
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 150813,
+      "name": "Los A\u00f1os Viejos",
+      "url": "https://open.spotify.com/track/57wEa7zAORP4Xd70ortlSP"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Los Hombres No Deben Llorar - Live Version",
+      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+    },
+    {
+      "album": {
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171573,
+      "name": "Los Luchadores",
+      "url": "https://open.spotify.com/track/2pvWTGb71qi76t1c17WCIB"
+    },
+    {
+      "album": {
+        "name": "Los 15 Para Coleccionar",
+        "url": "https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 171573,
+      "name": "Los Luchadores",
+      "url": "https://open.spotify.com/track/6AFzS3x0faurXevxmBYx36"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 154426,
+      "name": "Los Melones",
+      "url": "https://open.spotify.com/track/1SZfLRduAOlnFy80ORtuEO"
+    },
+    {
+      "album": {
+        "name": "Los 15 Para Coleccionar",
+        "url": "https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 160306,
+      "name": "Madrecita Querida",
+      "url": "https://open.spotify.com/track/4un4Y5oRumyvaUZHcXXvXd"
+    },
+    {
+      "album": {
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160306,
+      "name": "Madrecita Querida",
+      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
+    },
+    {
+      "album": {
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Mil Gracias",
+      "url": "https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 142493,
+      "name": "Mujer Paseada",
+      "url": "https://open.spotify.com/track/0pySFIvfAnwApyMz2i5SnS"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 189480,
+      "name": "Ni\u00f1o Travieso",
+      "url": "https://open.spotify.com/track/3Tnap1wm45mf3rAtUUJzV1"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 185173,
+      "name": "No Vales la Pena - Live Version",
+      "url": "https://open.spotify.com/track/4bBpVAW8b2bwgtng5Bx0nS"
+    },
+    {
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 189386,
+      "name": "Pa Que Sientas Lo Que Siento",
+      "url": "https://open.spotify.com/track/780DuUv8gplMFVTRe5Q9Tp"
+    },
+    {
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "Para Que No Me Olvides",
+      "url": "https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN"
+    },
+    {
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 191866,
+      "name": "Para Que No Me Olvides",
+      "url": "https://open.spotify.com/track/7Lb2R3yGVlHH12OwbejcZN"
+    },
+    {
+      "album": {
+        "name": "La Historia de Los Exitos",
+        "url": "https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Pero Te Amo",
+      "url": "https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 264013,
+      "name": "Pero Te Amo - Live Version",
+      "url": "https://open.spotify.com/track/61xuXpyNQ8VGTqNcI2JxV1"
+    },
+    {
+      "album": {
+        "name": "Tesoros de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 153426,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5Xl9nJxXWfeFDmF4qdZ6un"
+    },
+    {
+      "album": {
+        "name": "Que Se Apague el Sol",
+        "url": "https://open.spotify.com/album/2FfHFcmKb9jRKs6usSJGob"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-16",
+      "duration_ms": 334996,
+      "name": "Popurri\u0301 Cumbias",
+      "url": "https://open.spotify.com/track/05xTV0QyQyV87C9UNq9vuP"
+    },
+    {
+      "album": {
+        "name": "Los 15 Para Coleccionar",
+        "url": "https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 158066,
+      "name": "Por Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5XtoPh8NZ8L309wg60p1RE"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158157,
+      "name": "Por una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 150573,
+      "name": "Porque Es Amor",
+      "url": "https://open.spotify.com/track/1HpuLuxNb7xn0yAL9yRDL4"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150695,
+      "name": "Porque Es Amor",
+      "url": "https://open.spotify.com/track/0YQ0mzh7HZBYRtmO62cvd8"
+    },
+    {
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145972,
+      "name": "Que Sacrificio",
+      "url": "https://open.spotify.com/track/0H4sY34re8cnzGfwKQboiE"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 147506,
+      "name": "Que Sacrificio",
+      "url": "https://open.spotify.com/track/3g8CL3kQy1YYtTbjTKTt2H"
+    },
+    {
+      "album": {
+        "name": "Tesoros de Coleccion",
+        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Quiero Volver",
+      "url": "https://open.spotify.com/track/7vBRSk7UkuFjLjVVMsoHZx"
+    },
+    {
+      "album": {
+        "name": "Escorpion",
+        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158306,
+      "name": "Qu\u00e9 Bonito Amor",
+      "url": "https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I"
+    },
+    {
+      "album": {
+        "name": "Tesoros de Coleccion",
+        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170120,
+      "name": "Si la Ven por Ah\u00ed",
+      "url": "https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C"
+    },
+    {
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210721,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/1FAdX0a1ImX72Jjo3t5ybO"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 212640,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/1ajk4KliWOc9TeGXwtUR8y"
+    },
+    {
+      "album": {
+        "name": "Exitos En Radio",
+        "url": "https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 176000,
+      "name": "Sopa De Caracol",
+      "url": "https://open.spotify.com/track/5rqj3Llcp55FDRYvm768Bm"
+    },
+    {
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170933,
+      "name": "Te Lavaste la Cara, El Mono No",
+      "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
+    },
+    {
+      "album": {
+        "name": "Exitos En Radio",
+        "url": "https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 140826,
+      "name": "Te Ves Buena",
+      "url": "https://open.spotify.com/track/7GYLRVnCB9p58tEixmOqEy"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 151200,
+      "name": "Teresa",
+      "url": "https://open.spotify.com/track/1lXlsGFiG2TD84ldY55Byu"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 157746,
+      "name": "Toro Manchado",
+      "url": "https://open.spotify.com/track/2PF3QqXFV1skWAcC1YbfrF"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 220000,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
+    },
+    {
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220154,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169017,
+      "name": "Tu Precio",
+      "url": "https://open.spotify.com/track/2pe9uTpq1nSkdOgRmCml8u"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 172133,
+      "name": "Tu Precio",
+      "url": "https://open.spotify.com/track/1N7iPUvDor2HA8wOlS5LIB"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150293,
+      "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
+      "url": "https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
+    },
+    {
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168298,
+      "name": "Vamos a Bailar",
+      "url": "https://open.spotify.com/track/1BTacG6OfqCbqjwvXolIJS"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 170066,
+      "name": "Vamos a Bailar",
+      "url": "https://open.spotify.com/track/4z1epl2x7FM0r7ImLr2Lq7"
+    },
+    {
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 148320,
+      "name": "Y Andale",
+      "url": "https://open.spotify.com/track/6ZrnySwVbRAQVIxWUbXjkk"
+    },
+    {
+      "album": {
+        "name": "Soy Mexicano",
+        "url": "https://open.spotify.com/album/6Mc8AQvP2LBKHZGX5ihwpa"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 190756,
+      "name": "Yo Le Bautizo el Chiquito",
+      "url": "https://open.spotify.com/track/3D9tVDp399MoQvJD9g8F4P"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Nfadn"
 }

@@ -1,430 +1,1465 @@
 {
-  "2022-10-29": 285342,
-  "2022-10-30": 285311,
-  "2022-10-31": 285282,
-  "2022-11-01": 285234,
-  "2022-11-02": 285202,
-  "2022-11-03": 285180,
-  "2022-11-04": 285157,
-  "2022-11-05": 285137,
-  "2022-11-06": 285107,
-  "2022-11-07": 285095,
-  "2022-11-08": 285062,
-  "2022-11-09": 285077,
-  "2022-11-10": 285216,
-  "2022-11-11": 285466,
-  "2022-11-12": 285786,
-  "2022-11-13": 286003,
-  "2022-11-14": 286221,
-  "2022-11-15": 286461,
-  "2022-11-16": 286672,
-  "2022-11-17": 286890,
-  "2022-11-18": 286953,
-  "2022-11-19": 286884,
-  "2022-11-20": 287237,
-  "2022-11-21": 287172,
-  "2022-11-22": 287748,
-  "2022-11-23": 287655,
-  "2022-11-24": 288515,
-  "2022-11-25": 288917,
-  "2022-11-26": 289223,
-  "2022-11-27": 289518,
-  "2022-11-28": 289778,
-  "2022-11-29": 290033,
-  "2022-11-30": 290340,
-  "2022-12-01": 290783,
-  "2022-12-02": 291112,
-  "2022-12-03": 291651,
-  "2022-12-04": 292013,
-  "2022-12-05": 292387,
-  "2022-12-06": 292733,
-  "2022-12-07": 293061,
-  "2022-12-08": 293436,
-  "2022-12-09": 293776,
-  "2022-12-10": 294085,
-  "2022-12-11": 294366,
-  "2022-12-12": 294636,
-  "2022-12-13": 294953,
-  "2022-12-14": 295253,
-  "2022-12-15": 295526,
-  "2022-12-16": 295821,
-  "2022-12-17": 296065,
-  "2022-12-18": 296390,
-  "2022-12-19": 296608,
-  "2022-12-20": 297173,
-  "2022-12-21": 297173,
-  "2022-12-22": 297465,
-  "2022-12-24": 298012,
-  "2022-12-25": 298230,
-  "2022-12-26": 298517,
-  "2022-12-27": 298780,
-  "2022-12-28": 299080,
-  "2022-12-29": 299404,
-  "2022-12-30": 299705,
-  "2022-12-31": 300059,
-  "2023-01-01": 300345,
-  "2023-01-02": 300647,
-  "2023-01-03": 301017,
-  "2023-01-04": 301335,
-  "2023-01-05": 301662,
-  "2023-01-06": 302042,
-  "2023-01-07": 302575,
-  "2023-01-08": 302664,
-  "2023-01-09": 302953,
-  "2023-01-10": 303300,
-  "2023-01-11": 303677,
-  "2023-01-12": 304071,
-  "2023-01-13": 304446,
-  "2023-01-14": 305023,
-  "2023-01-15": 305117,
-  "2023-01-16": 305355,
-  "2023-01-17": 305731,
-  "2023-01-18": 306072,
-  "2023-01-19": 306433,
-  "2023-01-20": 306748,
-  "2023-01-21": 307075,
-  "2023-01-22": 307390,
-  "2023-01-23": 307677,
-  "2023-01-24": 308018,
-  "2023-01-25": 308363,
-  "2023-01-26": 308603,
-  "2023-01-27": 308919,
-  "2023-01-28": 309184,
-  "2023-01-29": 309421,
-  "2023-01-30": 309680,
-  "2023-01-31": 309680,
-  "2023-02-01": 310233,
-  "2023-02-02": 310516,
-  "2023-02-03": 310841,
-  "2023-02-04": 311154,
-  "2023-02-05": 311476,
-  "2023-02-06": 311779,
-  "2023-02-07": 312056,
-  "2023-02-08": 312653,
-  "2023-02-09": 312653,
-  "2023-02-10": 312939,
-  "2023-02-11": 313241,
-  "2023-02-12": 313726,
-  "2023-02-13": 313969,
-  "2023-02-14": 313969,
-  "2023-02-15": 314237,
-  "2023-02-16": 314507,
-  "2023-02-17": 314779,
-  "2023-02-18": 315334,
-  "2023-02-19": 315399,
-  "2023-02-20": 315597,
-  "2023-02-21": 315878,
-  "2023-02-22": 316199,
-  "2023-02-23": 316440,
-  "2023-02-24": 316704,
-  "2023-02-25": 317072,
-  "2023-02-26": 317243,
-  "2023-02-27": 317881,
-  "2023-02-28": 317881,
-  "2023-03-01": 318245,
-  "2023-03-02": 318527,
-  "2023-03-03": 318845,
-  "2023-03-04": 319157,
-  "2023-03-05": 319705,
-  "2023-03-06": 319705,
-  "2023-03-07": 320054,
-  "2023-03-08": 320294,
-  "2023-03-09": 320565,
-  "2023-03-10": 320880,
-  "2023-03-11": 321195,
-  "2023-03-12": 321474,
-  "2023-03-13": 321756,
-  "2023-03-14": 322047,
-  "2023-03-15": 322334,
-  "2023-03-16": 322639,
-  "2023-03-17": 322639,
-  "2023-03-18": 323281,
-  "2023-03-19": 323573,
-  "2023-03-20": 323870,
-  "2023-03-21": 324172,
-  "2023-03-22": 324547,
-  "2023-03-23": 324924,
-  "2023-03-24": 324924,
-  "2023-03-25": 325740,
-  "2023-03-26": 326164,
-  "2023-03-27": 326571,
-  "2023-03-28": 326984,
-  "2023-03-29": 327474,
-  "2023-03-30": 328270,
-  "2023-03-31": 328270,
-  "2023-04-01": 328663,
-  "2023-04-02": 329019,
-  "2023-04-03": 329365,
-  "2023-04-04": 329775,
-  "2023-04-05": 330162,
-  "2023-04-06": 330489,
-  "2023-04-07": 330870,
-  "2023-04-09": 331481,
-  "2023-04-10": 331774,
-  "2023-04-11": 332416,
-  "2023-04-12": 332416,
-  "2023-04-13": 332779,
-  "2023-04-14": 333121,
-  "2023-04-15": 333463,
-  "2023-04-16": 333758,
-  "2023-04-17": 334066,
-  "2023-04-18": 334431,
-  "2023-04-19": 334734,
-  "2023-04-20": 335119,
-  "2023-04-21": 335463,
-  "2023-04-22": 335845,
-  "2023-04-23": 336171,
-  "2023-04-24": 336469,
-  "2023-04-25": 336808,
-  "2023-04-26": 337180,
-  "2023-04-27": 337598,
-  "2023-04-28": 337984,
-  "2023-04-29": 338379,
-  "2023-04-30": 338756,
-  "2023-05-01": 339082,
-  "2023-05-02": 339374,
-  "2023-05-03": 339719,
-  "2023-05-04": 340095,
-  "2023-05-05": 340482,
-  "2023-05-06": 340813,
-  "2023-05-07": 341152,
-  "2023-05-08": 341460,
-  "2023-05-09": 341818,
-  "2023-05-10": 342196,
-  "2023-05-11": 342605,
-  "2023-05-12": 342969,
-  "2023-05-13": 343356,
-  "2023-05-14": 343733,
-  "2023-05-15": 344011,
-  "2023-05-16": 344313,
-  "2023-05-17": 344670,
-  "2023-05-18": 345031,
-  "2023-05-19": 345355,
-  "2023-05-20": 345993,
-  "2023-05-21": 345993,
-  "2023-05-22": 345993,
-  "2023-05-23": 346537,
-  "2023-05-24": 347064,
-  "2023-05-25": 347166,
-  "2023-05-26": 347490,
-  "2023-05-27": 347772,
-  "2023-05-28": 348062,
-  "2023-05-29": 348062,
-  "2023-05-30": 348576,
-  "2023-05-31": 348859,
-  "2023-06-01": 349184,
-  "2023-06-02": 349448,
-  "2023-06-03": 349757,
-  "2023-06-04": 350080,
-  "2023-06-05": 350324,
-  "2023-06-06": 350597,
-  "2023-06-07": 350855,
-  "2023-06-08": 351186,
-  "2023-06-09": 351534,
-  "2023-06-10": 351892,
-  "2023-06-11": 352212,
-  "2023-06-12": 352533,
-  "2023-06-13": 352878,
-  "2023-06-14": 353076,
-  "2023-06-15": 353312,
-  "2023-06-16": 71219,
-  "2023-06-17": 71219,
-  "2023-06-18": 71219,
-  "2023-06-19": 71219,
-  "2023-06-20": 71219,
-  "2023-06-21": 71219,
-  "2023-06-22": 71219,
-  "2023-06-23": 71219,
-  "2023-06-24": 71219,
-  "2023-06-25": 71219,
-  "2023-06-26": 71219,
-  "2023-06-27": 71219,
-  "2023-06-28": 71219,
-  "2023-06-29": 71219,
-  "2023-06-30": 71219,
-  "2023-07-01": 71219,
-  "2023-07-02": 71219,
-  "2023-07-03": 71219,
-  "2023-07-04": 71219,
-  "2023-07-05": 71219,
-  "2023-07-06": 71219,
-  "2023-07-07": 71219,
-  "2023-07-08": 71219,
-  "2023-07-09": 71219,
-  "2023-07-10": 71219,
-  "2023-07-11": 71219,
-  "2023-07-12": 71219,
-  "2023-07-13": 71219,
-  "2023-07-14": 71219,
-  "2023-07-15": 71219,
-  "2023-07-16": 71219,
-  "2023-07-17": 71219,
-  "2023-07-18": 71219,
-  "2023-07-19": 71219,
-  "2023-07-20": 71219,
-  "2023-07-21": 71219,
-  "2023-07-22": 71219,
-  "2023-07-23": 71219,
-  "2023-07-24": 71219,
-  "2023-07-25": 71219,
-  "2023-07-26": 71219,
-  "2023-07-27": 71219,
-  "2023-07-28": 71219,
-  "2023-07-29": 71219,
-  "2023-07-30": 71219,
-  "2023-07-31": 71219,
-  "2023-08-01": 71219,
-  "2023-08-02": 71219,
-  "2023-08-03": 71219,
-  "2023-08-04": 71219,
-  "2023-08-05": 71219,
-  "2023-08-06": 71219,
-  "2023-08-07": 71219,
-  "2023-08-08": 71219,
-  "2023-08-09": 71219,
-  "2023-08-10": 71219,
-  "2023-08-11": 71219,
-  "2023-08-12": 71219,
-  "2023-08-13": 71219,
-  "2023-08-14": 71219,
-  "2023-08-15": 71219,
-  "2023-08-16": 71219,
-  "2023-08-17": 71219,
-  "2023-08-18": 71219,
-  "2023-08-19": 71219,
-  "2023-08-20": 71219,
-  "2023-08-21": 71219,
-  "2023-08-22": 71219,
-  "2023-08-23": 71219,
-  "2023-08-24": 71219,
-  "2023-08-25": 71219,
-  "2023-08-26": 71219,
-  "2023-08-27": 71219,
-  "2023-08-28": 71219,
-  "2023-08-29": 71219,
-  "2023-08-30": 71219,
-  "2023-08-31": 71219,
-  "2023-09-01": 71219,
-  "2023-09-02": 71219,
-  "2023-09-03": 71219,
-  "2023-09-04": 71219,
-  "2023-09-05": 71219,
-  "2023-09-06": 71219,
-  "2023-09-07": 71219,
-  "2023-09-08": 71219,
-  "2023-09-09": 71219,
-  "2023-09-10": 71219,
-  "2023-09-11": 71219,
-  "2023-09-12": 71219,
-  "2023-09-13": 71219,
-  "2023-09-14": 71219,
-  "2023-09-15": 71219,
-  "2023-09-16": 71219,
-  "2023-09-17": 71219,
-  "2023-09-18": 71219,
-  "2023-09-19": 71219,
-  "2023-09-20": 71219,
-  "2023-09-21": 71219,
-  "2023-09-22": 71219,
-  "2023-09-23": 71219,
-  "2023-09-24": 71219,
-  "2023-09-25": 71219,
-  "2023-09-26": 71219,
-  "2023-09-27": 71219,
-  "2023-09-28": 71219,
-  "2023-09-29": 71219,
-  "2023-09-30": 71219,
-  "2023-10-01": 71219,
-  "2023-10-02": 71219,
-  "2023-10-03": 71219,
-  "2023-10-04": 71219,
-  "2023-10-05": 71219,
-  "2023-10-06": 71219,
-  "2023-10-07": 71219,
-  "2023-10-08": 71219,
-  "2023-10-09": 71219,
-  "2023-10-10": 71219,
-  "2023-10-11": 71219,
-  "2023-10-12": 71219,
-  "2023-10-13": 71219,
-  "2023-10-14": 71219,
-  "2023-10-15": 71219,
-  "2023-10-16": 71219,
-  "2023-10-17": 71219,
-  "2023-10-18": 71219,
-  "2023-10-19": 71219,
-  "2023-10-20": 71219,
-  "2023-10-21": 71219,
-  "2023-10-22": 71219,
-  "2023-10-23": 71219,
-  "2023-10-24": 71219,
-  "2023-10-25": 71219,
-  "2023-10-26": 71219,
-  "2023-10-27": 71219,
-  "2023-10-28": 71219,
-  "2023-10-29": 71219,
-  "2023-10-30": 71219,
-  "2023-10-31": 71219,
-  "2023-11-01": 71219,
-  "2023-11-02": 71219,
-  "2023-11-03": 71219,
-  "2023-11-04": 71219,
-  "2023-11-05": 71219,
-  "2023-11-06": 71219,
-  "2023-11-07": 71219,
-  "2023-11-08": 71219,
-  "2023-11-09": 71219,
-  "2023-11-10": 71219,
-  "2023-11-11": 71219,
-  "2023-11-12": 71219,
-  "2023-11-13": 71219,
-  "2023-11-14": 71219,
-  "2023-11-15": 71219,
-  "2023-11-16": 71219,
-  "2023-11-17": 71219,
-  "2023-11-18": 71219,
-  "2023-11-19": 71219,
-  "2023-11-20": 71219,
-  "2023-11-21": 71219,
-  "2023-11-22": 71219,
-  "2023-11-23": 71219,
-  "2023-11-24": 71219,
-  "2023-11-25": 71219,
-  "2023-11-26": 71219,
-  "2023-11-27": 71219,
-  "2023-11-28": 71219,
-  "2023-11-29": 71219,
-  "2023-11-30": 71219,
-  "2023-12-01": 71219,
-  "2023-12-02": 71219,
-  "2023-12-03": 71219,
-  "2023-12-04": 71219,
-  "2023-12-05": 71219,
-  "2023-12-06": 71219,
-  "2023-12-07": 71219,
-  "2023-12-08": 71219,
-  "2023-12-09": 71219,
-  "2023-12-10": 71219,
-  "2023-12-11": 71219,
-  "2023-12-12": 71219,
-  "2023-12-13": 71219,
-  "2023-12-14": 71219,
-  "2023-12-15": 71219,
-  "2023-12-16": 71219,
-  "2023-12-17": 71219,
-  "2023-12-18": 71219,
-  "2023-12-19": 71219,
-  "2023-12-20": 71219,
-  "2023-12-21": 71219,
-  "2023-12-22": 71219,
-  "2023-12-23": 71219,
-  "2023-12-24": 71219,
-  "2023-12-25": 71219,
-  "2023-12-26": 71219,
-  "2023-12-27": 71219,
-  "2023-12-30": 71219,
-  "2023-12-31": 71219,
-  "2024-01-01": 71219,
-  "2024-01-02": 71219,
-  "2024-01-03": 71219
+  "2024-01-17": 71219,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is Lil Baby. The essential tracks, all in one playlist. ",
+  "name": "This Is Lil Baby (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Epidemic (Deluxe)",
+        "url": "https://open.spotify.com/album/3raeLaYMyhfb67HgnnNrsg"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "24 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/0xUvi7wldroBzaZCengPa5"
+    },
+    {
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 120000,
+      "name": "25k jacket (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/6tsVFchreYTt2OPXSOoFCX"
+    },
+    {
+      "album": {
+        "name": "2step (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 163449,
+      "name": "2step (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt"
+    },
+    {
+      "album": {
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169531,
+      "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
+      "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142417,
+      "name": "Baby (Lil Baby feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121479,
+      "name": "Back and Forth (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
+    },
+    {
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 149040,
+      "name": "Bad Bad Bad (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
+    },
+    {
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 194117,
+      "name": "Be Something",
+      "url": "https://open.spotify.com/track/65jw6GhwQW3Db55PxlPEpS"
+    },
+    {
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 173783,
+      "name": "BIG TIME (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203881,
+      "name": "Close Friends (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A"
+    },
+    {
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214214,
+      "name": "Commercial (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA"
+    },
+    {
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145542,
+      "name": "Drip Too Hard (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197529,
+      "name": "Emotionally Scarred",
+      "url": "https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm"
+    },
+    {
+      "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236524,
+      "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+      "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "For The Night (feat. Lil Baby & DaBaby)",
+      "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167977,
+      "name": "Forever (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
+    },
+    {
+      "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162053,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 179706,
+      "name": "From Now On (feat. Future)",
+      "url": "https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh"
+    },
+    {
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179148,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221979,
+      "name": "Girls Want Girls (with Lil Baby)",
+      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
+    },
+    {
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203438,
+      "name": "Grace (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/01JMnRUs2YOK6DDpdQASGY"
+    },
+    {
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 257428,
+      "name": "Hats Off (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
+    },
+    {
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177314,
+      "name": "Heatin Up (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
+    },
+    {
+      "album": {
+        "name": "Heyy",
+        "url": "https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Heyy",
+      "url": "https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ"
+    },
+    {
+      "album": {
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235711,
+      "name": "HO4ME",
+      "url": "https://open.spotify.com/track/5Up7SD7MCUTWO6b5Zzj3vi"
+    },
+    {
+      "album": {
+        "name": "Hot Boy (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "Hot Boy (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ"
+    },
+    {
+      "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 165366,
+      "name": "I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",
+      "url": "https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf"
+    },
+    {
+      "album": {
+        "name": "90 Days",
+        "url": "https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196888,
+      "name": "If You Still Wit Me (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4EvFzNPsp8iyiEO9LDHopv"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
+    },
+    {
+      "album": {
+        "name": "In A Minute",
+        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
+    },
+    {
+      "album": {
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247054,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 132986,
+      "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
+    },
+    {
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144651,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
+    },
+    {
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 172400,
+      "name": "Man of my Word",
+      "url": "https://open.spotify.com/track/4nNw167LUp6j2VvuJdbtv8"
+    },
+    {
+      "album": {
+        "name": "Who is Nardo Wick?",
+        "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225533,
+      "name": "Me or Sum (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Never Hating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
+    },
+    {
+      "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194732,
+      "name": "Never Recover (Lil Baby & Gunna, Drake)",
+      "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
+    },
+    {
+      "album": {
+        "name": "Never Sleep",
+        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185785,
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163453,
+      "name": "Not Finished",
+      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
+    },
+    {
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135959,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
+    },
+    {
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 218320,
+      "name": "On The Road (feat. Meek Mill & Lil Baby)",
+      "url": "https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2"
+    },
+    {
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 218210,
+      "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
+      "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195197,
+      "name": "Pop Out (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/0VOMBffX1llDu37yQUt3u3"
+    },
+    {
+      "album": {
+        "name": "Street Gossip",
+        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154023,
+      "name": "Pure Cocaine",
+      "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
+    },
+    {
+      "album": {
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235987,
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+    },
+    {
+      "album": {
+        "name": "Ramen & OJ",
+        "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218447,
+      "name": "Ramen & OJ",
+      "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
+    },
+    {
+      "album": {
+        "name": "Street Gossip",
+        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213287,
+      "name": "Ready (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198722,
+      "name": "Real Spill",
+      "url": "https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1"
+    },
+    {
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "album": {
+        "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
+        "url": "https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
+      "url": "https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO"
+    },
+    {
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123658,
+      "name": "Shiest Talk (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/6FyYMbtmEgQDCgy9mYrOX8"
+    },
+    {
+      "album": {
+        "name": "Sleazy Flow (Remix)",
+        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161355,
+      "name": "Sleazy Flow (with Lil Baby) - Remix",
+      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "album": {
+        "name": "Sold Out Dates (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 166368,
+      "name": "Sold Out Dates (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
+    },
+    {
+      "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "album": {
+        "name": "Sum 2 Prove",
+        "url": "https://open.spotify.com/album/7KPtAktRGrVjy0QV3MXnZk"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205760,
+      "name": "Sum 2 Prove",
+      "url": "https://open.spotify.com/track/2u3EyuCqqV31woqGvO9LBz"
+    },
+    {
+      "album": {
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 136366,
+      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
+    },
+    {
+      "album": {
+        "name": "Ghetto Lenny's Love Songs",
+        "url": "https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 184699,
+      "name": "Trap (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2Y8hY4rRRQQjdaZkkwzpd9"
+    },
+    {
+      "album": {
+        "name": "U-Digg (feat. 42 Dugg & Veeze)",
+        "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 235500,
+      "name": "U-Digg (feat. 42 Dugg & Veeze)",
+      "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
+    },
+    {
+      "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192956,
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181929,
+      "name": "We Paid (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
+    },
+    {
+      "album": {
+        "name": "Woah",
+        "url": "https://open.spotify.com/album/393l0NdTr8Rv0hybf4FTxy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183011,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/598yNsG1JFrGd4n2kMoz7F"
+    },
+    {
+      "album": {
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142273,
+      "name": "Yes Indeed",
+      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3F3EumJCPca"
 }

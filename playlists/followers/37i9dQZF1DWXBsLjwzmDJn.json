@@ -1,361 +1,1515 @@
 {
-  "2023-01-07": 30203,
-  "2023-01-08": 30224,
-  "2023-01-09": 30361,
-  "2023-01-10": 30483,
-  "2023-01-11": 30631,
-  "2023-01-12": 30751,
-  "2023-01-13": 30867,
-  "2023-01-14": 31050,
-  "2023-01-15": 31082,
-  "2023-01-16": 31240,
-  "2023-01-17": 31377,
-  "2023-01-18": 31822,
-  "2023-01-19": 32211,
-  "2023-01-20": 32477,
-  "2023-01-21": 32727,
-  "2023-01-22": 32979,
-  "2023-01-23": 33163,
-  "2023-01-24": 33274,
-  "2023-01-25": 33377,
-  "2023-01-26": 33462,
-  "2023-01-27": 33555,
-  "2023-01-28": 33646,
-  "2023-01-29": 33723,
-  "2023-01-30": 33850,
-  "2023-01-31": 33850,
-  "2023-02-01": 34050,
-  "2023-02-02": 34129,
-  "2023-02-03": 34210,
-  "2023-02-04": 34276,
-  "2023-02-05": 34341,
-  "2023-02-06": 34387,
-  "2023-02-07": 34439,
-  "2023-02-08": 34547,
-  "2023-02-09": 34547,
-  "2023-02-10": 34613,
-  "2023-02-11": 34646,
-  "2023-02-12": 34804,
-  "2023-02-13": 34864,
-  "2023-02-14": 34864,
-  "2023-02-15": 34915,
-  "2023-02-16": 34985,
-  "2023-02-17": 35027,
-  "2023-02-18": 35132,
-  "2023-02-19": 35137,
-  "2023-02-20": 35179,
-  "2023-02-21": 35235,
-  "2023-02-22": 35282,
-  "2023-02-23": 35326,
-  "2023-02-24": 35384,
-  "2023-02-25": 35439,
-  "2023-02-26": 35468,
-  "2023-02-27": 35564,
-  "2023-02-28": 35564,
-  "2023-03-01": 35616,
-  "2023-03-02": 35642,
-  "2023-03-03": 35672,
-  "2023-03-04": 35705,
-  "2023-03-05": 35779,
-  "2023-03-06": 35779,
-  "2023-03-07": 35801,
-  "2023-03-08": 35825,
-  "2023-03-09": 35869,
-  "2023-03-10": 35912,
-  "2023-03-11": 35947,
-  "2023-03-12": 35989,
-  "2023-03-13": 36060,
-  "2023-03-14": 36128,
-  "2023-03-15": 36197,
-  "2023-03-16": 36261,
-  "2023-03-17": 36261,
-  "2023-03-18": 36388,
-  "2023-03-19": 36436,
-  "2023-03-20": 36508,
-  "2023-03-21": 36568,
-  "2023-03-22": 36623,
-  "2023-03-23": 36681,
-  "2023-03-24": 36681,
-  "2023-03-25": 36819,
-  "2023-03-26": 36893,
-  "2023-03-27": 36967,
-  "2023-03-28": 37017,
-  "2023-03-29": 37084,
-  "2023-03-30": 37195,
-  "2023-03-31": 37195,
-  "2023-04-01": 37262,
-  "2023-04-02": 37320,
-  "2023-04-03": 37380,
-  "2023-04-04": 37457,
-  "2023-04-05": 37519,
-  "2023-04-06": 37584,
-  "2023-04-07": 37653,
-  "2023-04-09": 37784,
-  "2023-04-10": 37862,
-  "2023-04-11": 37986,
-  "2023-04-12": 37986,
-  "2023-04-13": 38035,
-  "2023-04-14": 38102,
-  "2023-04-15": 38155,
-  "2023-04-16": 38237,
-  "2023-04-17": 38307,
-  "2023-04-18": 38378,
-  "2023-04-19": 38441,
-  "2023-04-20": 38504,
-  "2023-04-21": 38566,
-  "2023-04-22": 38624,
-  "2023-04-23": 38674,
-  "2023-04-24": 38743,
-  "2023-04-25": 38807,
-  "2023-04-26": 38861,
-  "2023-04-27": 38902,
-  "2023-04-28": 38948,
-  "2023-04-29": 39019,
-  "2023-04-30": 39073,
-  "2023-05-01": 39136,
-  "2023-05-02": 39187,
-  "2023-05-03": 39225,
-  "2023-05-04": 39279,
-  "2023-05-05": 39338,
-  "2023-05-06": 39391,
-  "2023-05-07": 39445,
-  "2023-05-08": 39505,
-  "2023-05-09": 39550,
-  "2023-05-10": 39592,
-  "2023-05-11": 39654,
-  "2023-05-12": 39706,
-  "2023-05-13": 39765,
-  "2023-05-14": 39835,
-  "2023-05-15": 39896,
-  "2023-05-16": 39943,
-  "2023-05-17": 40010,
-  "2023-05-18": 40052,
-  "2023-05-19": 40097,
-  "2023-05-20": 40190,
-  "2023-05-21": 40190,
-  "2023-05-22": 40190,
-  "2023-05-23": 40286,
-  "2023-05-24": 40377,
-  "2023-05-25": 40400,
-  "2023-05-26": 40459,
-  "2023-05-27": 40500,
-  "2023-05-28": 40547,
-  "2023-05-29": 40547,
-  "2023-05-30": 40640,
-  "2023-05-31": 40691,
-  "2023-06-01": 40740,
-  "2023-06-02": 40769,
-  "2023-06-03": 40812,
-  "2023-06-04": 40840,
-  "2023-06-05": 40898,
-  "2023-06-06": 40946,
-  "2023-06-07": 40983,
-  "2023-06-08": 41023,
-  "2023-06-09": 41068,
-  "2023-06-10": 41112,
-  "2023-06-11": 41144,
-  "2023-06-12": 41192,
-  "2023-06-13": 41227,
-  "2023-06-14": 41227,
-  "2023-06-15": 41319,
-  "2023-06-16": 41354,
-  "2023-06-17": 41395,
-  "2023-06-18": 41446,
-  "2023-06-19": 41495,
-  "2023-06-20": 41537,
-  "2023-06-21": 41577,
-  "2023-06-22": 41610,
-  "2023-06-23": 41639,
-  "2023-06-24": 41682,
-  "2023-06-25": 41734,
-  "2023-06-26": 41775,
-  "2023-06-27": 41806,
-  "2023-06-28": 41860,
-  "2023-06-29": 41893,
-  "2023-06-30": 41922,
-  "2023-07-01": 41994,
-  "2023-07-02": 41994,
-  "2023-07-03": 42017,
-  "2023-07-04": 42068,
-  "2023-07-05": 42083,
-  "2023-07-06": 42188,
-  "2023-07-07": 42188,
-  "2023-07-08": 42237,
-  "2023-07-09": 42286,
-  "2023-07-10": 42335,
-  "2023-07-11": 42380,
-  "2023-07-12": 42430,
-  "2023-07-13": 42467,
-  "2023-07-14": 42518,
-  "2023-07-15": 42562,
-  "2023-07-16": 42617,
-  "2023-07-17": 42677,
-  "2023-07-18": 42721,
-  "2023-07-19": 42767,
-  "2023-07-20": 42811,
-  "2023-07-21": 42855,
-  "2023-07-22": 42900,
-  "2023-07-23": 42940,
-  "2023-07-24": 42972,
-  "2023-07-25": 43015,
-  "2023-07-26": 43060,
-  "2023-07-27": 43101,
-  "2023-07-28": 43138,
-  "2023-07-29": 43174,
-  "2023-07-30": 43226,
-  "2023-07-31": 43277,
-  "2023-08-01": 43332,
-  "2023-08-02": 43398,
-  "2023-08-03": 43455,
-  "2023-08-04": 43504,
-  "2023-08-05": 43547,
-  "2023-08-06": 43640,
-  "2023-08-07": 43640,
-  "2023-08-08": 43683,
-  "2023-08-09": 43726,
-  "2023-08-10": 43776,
-  "2023-08-11": 43824,
-  "2023-08-12": 43855,
-  "2023-08-13": 43903,
-  "2023-08-14": 43944,
-  "2023-08-15": 44059,
-  "2023-08-16": 44059,
-  "2023-08-17": 44109,
-  "2023-08-18": 44168,
-  "2023-08-19": 44218,
-  "2023-08-20": 44260,
-  "2023-08-21": 44307,
-  "2023-08-22": 44342,
-  "2023-08-23": 44385,
-  "2023-08-24": 44424,
-  "2023-08-25": 44456,
-  "2023-08-26": 44512,
-  "2023-08-27": 44547,
-  "2023-08-28": 44604,
-  "2023-08-29": 44640,
-  "2023-08-30": 44683,
-  "2023-08-31": 44726,
-  "2023-09-01": 44787,
-  "2023-09-02": 44787,
-  "2023-09-03": 44804,
-  "2023-09-04": 44849,
-  "2023-09-05": 44879,
-  "2023-09-06": 44911,
-  "2023-09-07": 44950,
-  "2023-09-08": 45002,
-  "2023-09-09": 45036,
-  "2023-09-10": 45086,
-  "2023-09-11": 45123,
-  "2023-09-12": 45175,
-  "2023-09-13": 45211,
-  "2023-09-14": 45242,
-  "2023-09-15": 45258,
-  "2023-09-16": 45299,
-  "2023-09-17": 45344,
-  "2023-09-18": 45386,
-  "2023-09-19": 45423,
-  "2023-09-20": 45451,
-  "2023-09-21": 45490,
-  "2023-09-22": 45524,
-  "2023-09-23": 45557,
-  "2023-09-24": 45614,
-  "2023-09-25": 45672,
-  "2023-09-26": 45705,
-  "2023-09-27": 45730,
-  "2023-09-28": 45756,
-  "2023-09-29": 45792,
-  "2023-09-30": 45826,
-  "2023-10-01": 45857,
-  "2023-10-02": 45884,
-  "2023-10-03": 45902,
-  "2023-10-04": 45948,
-  "2023-10-05": 45997,
-  "2023-10-06": 46048,
-  "2023-10-07": 46081,
-  "2023-10-08": 46127,
-  "2023-10-09": 46171,
-  "2023-10-10": 46202,
-  "2023-10-11": 46274,
-  "2023-10-12": 46274,
-  "2023-10-13": 46317,
-  "2023-10-14": 46354,
-  "2023-10-15": 46419,
-  "2023-10-16": 46449,
-  "2023-10-17": 46490,
-  "2023-10-18": 46523,
-  "2023-10-19": 46570,
-  "2023-10-20": 46593,
-  "2023-10-21": 46640,
-  "2023-10-22": 46694,
-  "2023-10-23": 46724,
-  "2023-10-24": 46755,
-  "2023-10-25": 46790,
-  "2023-10-26": 46839,
-  "2023-10-27": 46885,
-  "2023-10-28": 46913,
-  "2023-10-29": 46945,
-  "2023-10-30": 46996,
-  "2023-10-31": 46996,
-  "2023-11-01": 47010,
-  "2023-11-02": 47046,
-  "2023-11-03": 47079,
-  "2023-11-04": 47120,
-  "2023-11-05": 47160,
-  "2023-11-06": 47192,
-  "2023-11-07": 47242,
-  "2023-11-08": 47301,
-  "2023-11-09": 47346,
-  "2023-11-10": 47399,
-  "2023-11-11": 47437,
-  "2023-11-12": 47466,
-  "2023-11-13": 47501,
-  "2023-11-14": 47530,
-  "2023-11-15": 47530,
-  "2023-11-16": 47596,
-  "2023-11-17": 47654,
-  "2023-11-18": 47654,
-  "2023-11-19": 47681,
-  "2023-11-20": 47725,
-  "2023-11-21": 47759,
-  "2023-11-22": 47782,
-  "2023-11-23": 47801,
-  "2023-11-24": 47828,
-  "2023-11-25": 47865,
-  "2023-11-26": 47903,
-  "2023-11-27": 47928,
-  "2023-11-28": 47949,
-  "2023-11-29": 48026,
-  "2023-11-30": 48026,
-  "2023-12-01": 48073,
-  "2023-12-02": 48098,
-  "2023-12-03": 48141,
-  "2023-12-04": 48174,
-  "2023-12-05": 48204,
-  "2023-12-06": 48245,
-  "2023-12-07": 48276,
-  "2023-12-08": 48321,
-  "2023-12-09": 48364,
-  "2023-12-10": 48404,
-  "2023-12-11": 48444,
-  "2023-12-12": 48474,
-  "2023-12-13": 48502,
-  "2023-12-14": 48546,
-  "2023-12-15": 48573,
-  "2023-12-16": 48625,
-  "2023-12-17": 48660,
-  "2023-12-18": 48708,
-  "2023-12-19": 48745,
-  "2023-12-20": 48787,
-  "2023-12-21": 48843,
-  "2023-12-22": 48916,
-  "2023-12-23": 48969,
-  "2023-12-24": 49007,
-  "2023-12-25": 49040,
-  "2023-12-26": 49086,
-  "2023-12-27": 49130,
-  "2023-12-30": 49272,
-  "2023-12-31": 49308,
-  "2024-01-01": 49347,
-  "2024-01-02": 49388,
-  "2024-01-03": 49421
+  "2024-01-17": 49839,
+  "date_first_scraped": "2023-01-07",
+  "description": "Enjoy music from \"TOKYO REVENGERS\"! /\u30a2\u30cb\u30e1&\u5b9f\u5199\u7248\u306e\u97f3\u697d\u3067\u8fbf\u308b\u300c\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300d\u306e\u4e16\u754c\u3002\u24b8\u548c\u4e45\u4e95\u5065\u30fb\u8b1b\u8ac7\u793e\uff0f\u30a2\u30cb\u30e1\u300c\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "Tokyo Revengers -\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba-",
+  "tracks": [
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 103706,
+      "name": "All You Do Is Apologize",
+      "url": "https://open.spotify.com/track/7rhsOXIRJ4ig2rYH2FKwYa"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 146720,
+      "name": "Before the Incident",
+      "url": "https://open.spotify.com/track/351WqpB01R6KlNWt5l7zxJ"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "BLOODTHIRST",
+      "url": "https://open.spotify.com/track/1aMkyrvVszLDQnBeGojnS2"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 02",
+        "url": "https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc"
+      },
+      "artists": [
+        {
+          "name": "Takashi Mitsuya (CV:Yoshitsugu Matsuoka)",
+          "url": "https://open.spotify.com/artist/1onCsjwDBKkJyswn0syvFI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206040,
+      "name": "Blue Fire",
+      "url": "https://open.spotify.com/track/2FrFJkwSqryurlNbrzxIIZ"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 02",
+        "url": "https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc"
+      },
+      "artists": [
+        {
+          "name": "Takashi Mitsuya (CV:Yoshitsugu Matsuoka)",
+          "url": "https://open.spotify.com/artist/1onCsjwDBKkJyswn0syvFI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206040,
+      "name": "Blue Fire - Instrumental",
+      "url": "https://open.spotify.com/track/42ATTAUpbNXPGmg63265J7"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 01",
+        "url": "https://open.spotify.com/album/3dlkO3OXaNtHDSDGmPGdh7"
+      },
+      "artists": [
+        {
+          "name": "Haruki Hayashida(CV:Subaru Kimura)",
+          "url": "https://open.spotify.com/artist/7nbjIcteM0qlsjmbJKWKJO"
+        },
+        {
+          "name": "Ryohei Hayashi(CV:Yukihiro Nozuyama)",
+          "url": "https://open.spotify.com/artist/3pSjDZKGlrs10PUbSn4GKK"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239400,
+      "name": "Buddy",
+      "url": "https://open.spotify.com/track/26IeTDCVLX3ApDAV4xB3iL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300fEP 05",
+        "url": "https://open.spotify.com/album/60dgEPYjEmpxFOmuIBL1sD"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u5ddd\u30a4\u30b6\u30ca(CV:\u5cf6\ufa11\u4fe1\u9577)",
+          "url": "https://open.spotify.com/artist/6pHTrniSHMVFnXa0934VPe"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 239320,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/5l6ATc9B59vwg1w1geGmz4"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 05",
+        "url": "https://open.spotify.com/album/1gbWeleTvZJfE1qxtWwFpr"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u5ddd\u30a4\u30b6\u30ca(CV:\u5cf6\ufa11\u4fe1\u9577)",
+          "url": "https://open.spotify.com/artist/6pHTrniSHMVFnXa0934VPe"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239320,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/6rq1xP1TTO3ymAM1GBNqgc"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u8056\u591c\u6c7a\u6226\u7de8\u30fb\u5929\u7afa\u7de8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5htdvGhb8VAtedxJWIx2b1"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 221893,
+      "name": "Christmas Showdown Arc",
+      "url": "https://open.spotify.com/track/0NiCtlRjzdN77sOyed3EEG"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Christmas Showdown Arc | Tenjiku Arc Original Soundtrack",
+        "url": "https://open.spotify.com/album/5Ena3sqizjPqGrhgz7f3PF"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221893,
+      "name": "Christmas Showdown Arc",
+      "url": "https://open.spotify.com/track/5oMxVEyE7hhRJ9Gj7mkoH2"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300fEP 05",
+        "url": "https://open.spotify.com/album/60dgEPYjEmpxFOmuIBL1sD"
+      },
+      "artists": [
+        {
+          "name": "\u534a\u9593\u4fee\u4e8c(CV:\u6c5f\u53e3\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/0L01zAuSAXNkoOrZIQijeX"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 208040,
+      "name": "CIRCUS IN THE DARK",
+      "url": "https://open.spotify.com/track/3iXtL69FDR81GGIPFYtcbY"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 05",
+        "url": "https://open.spotify.com/album/1gbWeleTvZJfE1qxtWwFpr"
+      },
+      "artists": [
+        {
+          "name": "\u534a\u9593\u4fee\u4e8c(CV:\u6c5f\u53e3\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/0L01zAuSAXNkoOrZIQijeX"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208040,
+      "name": "Circus in the Dark",
+      "url": "https://open.spotify.com/track/4TF9aoPMAP3fcH5VM6d4o0"
+    },
+    {
+      "album": {
+        "name": "Editorial",
+        "url": "https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241680,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 148813,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/7CNpgZURYhQUkfOcrKGfZj"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 05",
+        "url": "https://open.spotify.com/album/1gbWeleTvZJfE1qxtWwFpr"
+      },
+      "artists": [
+        {
+          "name": "\u7a00\u54b2\u9244\u592a(CV:\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/5NSeqYvAYKfe3VF4UQBvby"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261653,
+      "name": "Distorted Love",
+      "url": "https://open.spotify.com/track/2JyARMGby8G2m4O1821peu"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300fEP 05",
+        "url": "https://open.spotify.com/album/60dgEPYjEmpxFOmuIBL1sD"
+      },
+      "artists": [
+        {
+          "name": "\u7a00\u54b2\u9244\u592a(CV:\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/5NSeqYvAYKfe3VF4UQBvby"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 261653,
+      "name": "Distorted Love",
+      "url": "https://open.spotify.com/track/4MYMDjr8pALffNYiEfSQYC"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba2 \u8840\u306e\u30cf\u30ed\u30a6\u30a3\u30f3\u7de8 -\u904b\u547d-\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0bMYI8dYaunbl8UoQfaX4p"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294986,
+      "name": "Distortion",
+      "url": "https://open.spotify.com/track/0v2RmpX3OaLIYdJuIE1jQK"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 75626,
+      "name": "Familiar Faces",
+      "url": "https://open.spotify.com/track/60esGhFYvqcHHHXOEKbcPl"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Fight Against Time Limit",
+      "url": "https://open.spotify.com/track/2L2GtmHq0EaOBdwRB58pTZ"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 216146,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/27ecODHZIN51xExxAiZviH"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 147413,
+      "name": "Frenemy",
+      "url": "https://open.spotify.com/track/3aFUodW6T7hYMadmyGCLEJ"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 02",
+        "url": "https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc"
+      },
+      "artists": [
+        {
+          "name": "Kazutora Hanemiya (CV:Toki Shunichi)",
+          "url": "https://open.spotify.com/artist/6A0qQMYoQKR0R2JHGLehxx"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231786,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0QPAoDXl6JL37sUWBbJ07a"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 02",
+        "url": "https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc"
+      },
+      "artists": [
+        {
+          "name": "Kazutora Hanemiya (CV:Toki Shunichi)",
+          "url": "https://open.spotify.com/artist/6A0qQMYoQKR0R2JHGLehxx"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231786,
+      "name": "Ghosts - Instrumental",
+      "url": "https://open.spotify.com/track/6hbOy3EXlnEMGe3gtxNP1X"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145933,
+      "name": "Here We Go!",
+      "url": "https://open.spotify.com/track/6FlR4KDVhndfLjBEmY9f1T"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Christmas Showdown Arc | Tenjiku Arc Original Soundtrack",
+        "url": "https://open.spotify.com/album/5Ena3sqizjPqGrhgz7f3PF"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Here We Stand In The Dueling Grounds",
+      "url": "https://open.spotify.com/track/1QxJr55kuQrSyM1hOmYMJ0"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u8056\u591c\u6c7a\u6226\u7de8\u30fb\u5929\u7afa\u7de8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5htdvGhb8VAtedxJWIx2b1"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 229626,
+      "name": "Here We Stand In The Dueling Grounds",
+      "url": "https://open.spotify.com/track/7pFsxvPkBoQbZInBYCJBQt"
+    },
+    {
+      "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/3vA9QvoflQw1EamrD3H7DY"
+      },
+      "artists": [
+        {
+          "name": "Sir Vanity",
+          "url": "https://open.spotify.com/artist/7HAVj2cCdBRXq6BYf1C6qA"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197240,
+      "name": "HERO",
+      "url": "https://open.spotify.com/track/0DUfoBTgciEd3jAARWQokH"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113733,
+      "name": "Hi There Buddies",
+      "url": "https://open.spotify.com/track/35g3zUCDKxDbJJdj1oowtl"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 02",
+        "url": "https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc"
+      },
+      "artists": [
+        {
+          "name": "Chifuyu Matsuno (CV:Sho Karino)",
+          "url": "https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201773,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2hxuAPBIza2jYoZifRddTJ"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 02",
+        "url": "https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc"
+      },
+      "artists": [
+        {
+          "name": "Chifuyu Matsuno (CV:Sho Karino)",
+          "url": "https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201773,
+      "name": "I Believe - Instrumental",
+      "url": "https://open.spotify.com/track/2xQ5Ph1ZWfSKp1CNKO4f72"
+    },
+    {
+      "album": {
+        "name": "Under Mentality",
+        "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203166,
+      "name": "It Might Be Painful, But I Still Love It.",
+      "url": "https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg"
+    },
+    {
+      "album": {
+        "name": "It Might Be Painful, but I Still Love It.",
+        "url": "https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 204999,
+      "name": "It Might Be Painful, but I Still Love It.",
+      "url": "https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70"
+      },
+      "artists": [
+        {
+          "name": "YVY",
+          "url": "https://open.spotify.com/artist/6ZpEv6b0DmfqVK4XGhGfy2"
+        },
+        {
+          "name": "Frank Bentley",
+          "url": "https://open.spotify.com/artist/7dqEgtZn16N557PkibjXS9"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256359,
+      "name": "Kickin' It",
+      "url": "https://open.spotify.com/track/4SQbqc1i0YnQTF69QRkExL"
+    },
+    {
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215984,
+      "name": "Koko de Iki wo Shite",
+      "url": "https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba2 \u8840\u306e\u30cf\u30ed\u30a6\u30a3\u30f3\u7de8 -\u904b\u547d-\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0bMYI8dYaunbl8UoQfaX4p"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319746,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/2moPwFk4nCfbKy25aqax8c"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u8056\u591c\u6c7a\u6226\u7de8\u30fb\u5929\u7afa\u7de8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5htdvGhb8VAtedxJWIx2b1"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 138426,
+      "name": "Mikey, Here I Come",
+      "url": "https://open.spotify.com/track/3YALPM8qvAWsn6SrNV04A2"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Christmas Showdown Arc | Tenjiku Arc Original Soundtrack",
+        "url": "https://open.spotify.com/album/5Ena3sqizjPqGrhgz7f3PF"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138426,
+      "name": "Mikey, Here I Come",
+      "url": "https://open.spotify.com/track/5r93EDaCmrHax0NQ25AD5P"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 01",
+        "url": "https://open.spotify.com/album/3dlkO3OXaNtHDSDGmPGdh7"
+      },
+      "artists": [
+        {
+          "name": "Manjiro Sano (CV:Yuu Hayashi)",
+          "url": "https://open.spotify.com/artist/6hmu6G3WGEOi5iOhghjYBU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309626,
+      "name": "Mugen",
+      "url": "https://open.spotify.com/track/5fTzgI0mzYkIm3Cz2mrgXD"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162520,
+      "name": "No More Crying",
+      "url": "https://open.spotify.com/track/1DAhrza6Pik8Y1Dbvdpd4A"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 03",
+        "url": "https://open.spotify.com/album/2Ntwu2Ddi2hTyEvSGvtetA"
+      },
+      "artists": [
+        {
+          "name": "Mizo Mid's Five",
+          "url": "https://open.spotify.com/artist/6SLqzhcuZxasCSpey1waF9"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230933,
+      "name": "One Star",
+      "url": "https://open.spotify.com/track/10PXcLy3udSxxowXWi33kv"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115506,
+      "name": "Paint the Town Red!",
+      "url": "https://open.spotify.com/track/0g3gBrhXL9ohSNiVDMNS3Z"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 250386,
+      "name": "Powerless",
+      "url": "https://open.spotify.com/track/6jqkOq4zcj7QhVoPxK9X02"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u8056\u591c\u6c7a\u6226\u7de8\u30fb\u5929\u7afa\u7de8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5htdvGhb8VAtedxJWIx2b1"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 233826,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/20h4o44DBWGWBa3Cb5twWX"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Christmas Showdown Arc | Tenjiku Arc Original Soundtrack",
+        "url": "https://open.spotify.com/album/5Ena3sqizjPqGrhgz7f3PF"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233826,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/7BRIej6jVAQEbDLF16A7Gp"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 303973,
+      "name": "PUNKS",
+      "url": "https://open.spotify.com/track/29XmeCvULTNHYGimvmOHhE"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70"
+      },
+      "artists": [
+        {
+          "name": "YVY",
+          "url": "https://open.spotify.com/artist/6ZpEv6b0DmfqVK4XGhGfy2"
+        },
+        {
+          "name": "Michael Gildner",
+          "url": "https://open.spotify.com/artist/3EuqolhmT8IhjEWqoGjTJB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167640,
+      "name": "Ready 2 Brawl",
+      "url": "https://open.spotify.com/track/5FJIztO12wDEgYzkmQwxq2"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 144493,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/1lKs3roo8mM0WaSwF17T4D"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283960,
+      "name": "Rerise from My Worthless Life",
+      "url": "https://open.spotify.com/track/0o4KpeM39aSW0FIm8GYLYK"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 02",
+        "url": "https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc"
+      },
+      "artists": [
+        {
+          "name": "Keisuke Baji (CV:Masaaki Mizunaka)",
+          "url": "https://open.spotify.com/artist/0dnOSnktjKjMsUiGU8aE4F"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266573,
+      "name": "Rest In Rampage",
+      "url": "https://open.spotify.com/track/1sMlGYD3fRTyifWNfuoKne"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 02",
+        "url": "https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc"
+      },
+      "artists": [
+        {
+          "name": "Keisuke Baji (CV:Masaaki Mizunaka)",
+          "url": "https://open.spotify.com/artist/0dnOSnktjKjMsUiGU8aE4F"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266573,
+      "name": "Rest In Rampage - Instrumental",
+      "url": "https://open.spotify.com/track/2HF7GEgkW7tp0FMr3cWlkY"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 181693,
+      "name": "Retry Again and Again",
+      "url": "https://open.spotify.com/track/5lmhIeRS8YZRbUuRW52qXK"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 01",
+        "url": "https://open.spotify.com/album/3dlkO3OXaNtHDSDGmPGdh7"
+      },
+      "artists": [
+        {
+          "name": "Takemichi Hanagaki (CV:Shin Yuuki)",
+          "url": "https://open.spotify.com/artist/4QuIkyWuO39idNI17yH9PD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Rusted Fist",
+      "url": "https://open.spotify.com/track/1Yhai6jLA4RGB5P6hPHKVy"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 03",
+        "url": "https://open.spotify.com/album/2Ntwu2Ddi2hTyEvSGvtetA"
+      },
+      "artists": [
+        {
+          "name": "Hinata Tachibana (CV: Azumi Waki)",
+          "url": "https://open.spotify.com/artist/7rRiSJUM1zsxGEUfrZ63np"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Shiawase",
+      "url": "https://open.spotify.com/track/3D0lTOBuJnAwAflsBht7rk"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 01",
+        "url": "https://open.spotify.com/album/3dlkO3OXaNtHDSDGmPGdh7"
+      },
+      "artists": [
+        {
+          "name": "Ken Ryuguji (CV:Masaya Fukunishi)",
+          "url": "https://open.spotify.com/artist/4B1OAM4aAucqkW5QK6JkEP"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Sidekick",
+      "url": "https://open.spotify.com/track/0eFSMsXjYrT6rSvfuNTDmS"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Christmas Showdown Arc | Tenjiku Arc Original Soundtrack",
+        "url": "https://open.spotify.com/album/5Ena3sqizjPqGrhgz7f3PF"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123840,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/6C2ceITkzMqtEUukMwBD3F"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u8056\u591c\u6c7a\u6226\u7de8\u30fb\u5929\u7afa\u7de8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5htdvGhb8VAtedxJWIx2b1"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 123840,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/7mZPjQTGcllKB5U9UjefsI"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba2 \u8840\u306e\u30cf\u30ed\u30a6\u30a3\u30f3\u7de8 -\u904b\u547d-\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0bMYI8dYaunbl8UoQfaX4p"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 181293,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/6gMXRPdjytb5Ov479fUxns"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 05",
+        "url": "https://open.spotify.com/album/1gbWeleTvZJfE1qxtWwFpr"
+      },
+      "artists": [
+        {
+          "name": "\u9db4\u8776(CV:\u5c71\u4e0b\u8aa0\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/45q2HSDMd4laBRDT1DYLCS"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Steady Go",
+      "url": "https://open.spotify.com/track/2Pn0DAEVDGDSr8MeQlpxzF"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300fEP 05",
+        "url": "https://open.spotify.com/album/60dgEPYjEmpxFOmuIBL1sD"
+      },
+      "artists": [
+        {
+          "name": "\u9db4\u8776(CV:\u5c71\u4e0b\u8aa0\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/45q2HSDMd4laBRDT1DYLCS"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 197666,
+      "name": "Steady Go",
+      "url": "https://open.spotify.com/track/3tEQSrv5uFjRfCmbVj6NGP"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Tokyo Revengers\" EP 03",
+        "url": "https://open.spotify.com/album/2Ntwu2Ddi2hTyEvSGvtetA"
+      },
+      "artists": [
+        {
+          "name": "Naoto Tachibana (CV: Ryota Osaka)",
+          "url": "https://open.spotify.com/artist/6UGWpuV45eo6WRgeijkIOU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242986,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/72WybSuhjjNVtdyb5hdnq7"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149426,
+      "name": "The Battle for Me Myself",
+      "url": "https://open.spotify.com/track/1OuckNC8SPSUNhUbvzf32t"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u8056\u591c\u6c7a\u6226\u7de8\u30fb\u5929\u7afa\u7de8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5htdvGhb8VAtedxJWIx2b1"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 207026,
+      "name": "The Future Can't Be Changed",
+      "url": "https://open.spotify.com/track/3PA0XGzUvm1s0R2ROUo4y5"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Christmas Showdown Arc | Tenjiku Arc Original Soundtrack",
+        "url": "https://open.spotify.com/album/5Ena3sqizjPqGrhgz7f3PF"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "The Future Can't Be Changed",
+      "url": "https://open.spotify.com/track/7mvi8bm1hUywDkHd5q9KYq"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "The Mysteries Just Keep Coming",
+      "url": "https://open.spotify.com/track/2GYVXmu5BxIxfwZwXQDfl2"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Christmas Showdown Arc | Tenjiku Arc Original Soundtrack",
+        "url": "https://open.spotify.com/album/5Ena3sqizjPqGrhgz7f3PF"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190040,
+      "name": "The Past Can't Be Regained",
+      "url": "https://open.spotify.com/track/52jR5zpkgOIutZl5PDoM1B"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u8056\u591c\u6c7a\u6226\u7de8\u30fb\u5929\u7afa\u7de8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5htdvGhb8VAtedxJWIx2b1"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 190040,
+      "name": "The Past Can't Be Regained",
+      "url": "https://open.spotify.com/track/5Boa1ymBL0BmCqDeF0LHTU"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166960,
+      "name": "The Real Deal",
+      "url": "https://open.spotify.com/track/50JhIF7ryZONsVdy92Qf1e"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u8056\u591c\u6c7a\u6226\u7de8\u30fb\u5929\u7afa\u7de8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5htdvGhb8VAtedxJWIx2b1"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 138053,
+      "name": "Theme of Black Dragons",
+      "url": "https://open.spotify.com/track/0rVEDVZs6d9HTViRZRlkOe"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Christmas Showdown Arc | Tenjiku Arc Original Soundtrack",
+        "url": "https://open.spotify.com/album/5Ena3sqizjPqGrhgz7f3PF"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138053,
+      "name": "Theme of Black Dragons",
+      "url": "https://open.spotify.com/track/3B0dCUFWD7RTWCOaweqgsM"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295666,
+      "name": "This Is Revenge",
+      "url": "https://open.spotify.com/track/4VZoV9VDa9fbAu9bLNjJL3"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 118986,
+      "name": "Time Leap",
+      "url": "https://open.spotify.com/track/2JtTqBFRqHzsg7Jw8sKM6V"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211613,
+      "name": "Tokyo Revengers -Main Theme-",
+      "url": "https://open.spotify.com/track/0UGqF8JS1529GlEN1WSzAi"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 277413,
+      "name": "Tokyo Revengers -Reprise-",
+      "url": "https://open.spotify.com/track/1tq4MBYl1qKvndjXq2Q8ev"
+    },
+    {
+      "album": {
+        "name": "Tokyo Wonder.",
+        "url": "https://open.spotify.com/album/0QqwSYLopq7ob4Em8QB0qI"
+      },
+      "artists": [
+        {
+          "name": "Nakimushi",
+          "url": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150748,
+      "name": "Tokyo Wonder.",
+      "url": "https://open.spotify.com/track/2qzZWD9zaMaXGQmARikLhL"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157666,
+      "name": "Until You're Saved",
+      "url": "https://open.spotify.com/track/6DCqQvsfE1jZ1r94fq8v6A"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133840,
+      "name": "When I Can Spend Time with You",
+      "url": "https://open.spotify.com/track/7uUasKHD3MBuTbOrxWOHKq"
+    },
+    {
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254838,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
+    },
+    {
+      "album": {
+        "name": "Tokyo Revengers Original Soundtrack",
+        "url": "https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "Why Am I Crying?",
+      "url": "https://open.spotify.com/track/7KLMY1gHBL54hJRgVb4dip"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3pHkh16OhMgyAlF6PUdU70"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100160,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0kg63fJKXDWwPKko8zQPHw"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba2 \u8840\u306e\u30cf\u30ed\u30a6\u30a3\u30f3\u7de8 -\u904b\u547d-\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0bMYI8dYaunbl8UoQfaX4p"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Yamada",
+          "url": "https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 287733,
+      "name": "Wordless Outrage",
+      "url": "https://open.spotify.com/track/1VdyBKmXnr1aDvoWKOCpX0"
+    },
+    {
+      "album": {
+        "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240533,
+      "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg"
+    },
+    {
+      "album": {
+        "name": "\u30db\u30ef\u30a4\u30c8\u30ce\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 254838,
+      "name": "\u30db\u30ef\u30a4\u30c8\u30ce\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo"
+    },
+    {
+      "album": {
+        "name": "\u540d\u524d\u3092\u547c\u3076\u3088",
+        "url": "https://open.spotify.com/album/3CZJOaywz0wMS65pKt3b96"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277360,
+      "name": "\u540d\u524d\u3092\u547c\u3076\u3088",
+      "url": "https://open.spotify.com/track/5jtiIP4VKerDV7eTJwB7za"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXBsLjwzmDJn"
 }

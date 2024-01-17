@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: The Cleverlys",
+  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: B\u00e9la Fleck",
   "name": "Bluegrass Covers",
   "tracks": [
     {
@@ -3114,6 +3114,44 @@
       "duration_ms": 333000,
       "name": "Pursuit of Happiness",
       "url": "https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW"
+    },
+    {
+      "album": {
+        "name": "Rhapsody in Blue (grass)",
+        "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        },
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        },
+        {
+          "name": "Mark Schatz",
+          "url": "https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6"
+        },
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 729807,
+      "name": "Rhapsody in Blue(grass)",
+      "url": "https://open.spotify.com/track/0zx3CiQNU6sqLbgOnrqKNK"
     },
     {
       "album": {

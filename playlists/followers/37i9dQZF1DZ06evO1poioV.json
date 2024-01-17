@@ -1,472 +1,1611 @@
 {
-  "2022-09-17": 84028,
-  "2022-09-18": 84065,
-  "2022-09-19": 84137,
-  "2022-09-20": 84167,
-  "2022-09-21": 84205,
-  "2022-09-22": 84236,
-  "2022-09-23": 84277,
-  "2022-09-24": 84277,
-  "2022-09-25": 84373,
-  "2022-09-26": 84421,
-  "2022-09-27": 84471,
-  "2022-09-28": 84514,
-  "2022-09-29": 84558,
-  "2022-09-30": 84596,
-  "2022-10-01": 84640,
-  "2022-10-02": 84688,
-  "2022-10-03": 84769,
-  "2022-10-04": 84825,
-  "2022-10-05": 84856,
-  "2022-10-06": 84899,
-  "2022-10-07": 84932,
-  "2022-10-08": 84979,
-  "2022-10-09": 85138,
-  "2022-10-10": 85161,
-  "2022-10-11": 85220,
-  "2022-10-12": 85249,
-  "2022-10-13": 85287,
-  "2022-10-14": 85317,
-  "2022-10-15": 85363,
-  "2022-10-16": 85431,
-  "2022-10-17": 85469,
-  "2022-10-18": 85490,
-  "2022-10-19": 85549,
-  "2022-10-20": 85620,
-  "2022-10-21": 85732,
-  "2022-10-22": 85817,
-  "2022-10-23": 85895,
-  "2022-10-24": 85987,
-  "2022-10-25": 86046,
-  "2022-10-26": 86097,
-  "2022-10-27": 86149,
-  "2022-10-28": 86201,
-  "2022-10-29": 86238,
-  "2022-10-30": 86282,
-  "2022-10-31": 86327,
-  "2022-11-01": 86369,
-  "2022-11-02": 86412,
-  "2022-11-03": 86466,
-  "2022-11-04": 86515,
-  "2022-11-05": 86551,
-  "2022-11-06": 86576,
-  "2022-11-07": 86622,
-  "2022-11-08": 86660,
-  "2022-11-09": 86699,
-  "2022-11-10": 86739,
-  "2022-11-11": 86773,
-  "2022-11-12": 86803,
-  "2022-11-13": 86840,
-  "2022-11-14": 86897,
-  "2022-11-15": 87007,
-  "2022-11-16": 87078,
-  "2022-11-17": 87164,
-  "2022-11-18": 87192,
-  "2022-11-19": 87217,
-  "2022-11-20": 87278,
-  "2022-11-21": 87347,
-  "2022-11-22": 87445,
-  "2022-11-23": 87524,
-  "2022-11-24": 87640,
-  "2022-11-25": 87713,
-  "2022-11-26": 87773,
-  "2022-11-27": 87815,
-  "2022-11-28": 87861,
-  "2022-11-29": 87894,
-  "2022-11-30": 87926,
-  "2022-12-01": 87965,
-  "2022-12-02": 87988,
-  "2022-12-03": 88047,
-  "2022-12-04": 88090,
-  "2022-12-05": 88136,
-  "2022-12-06": 88171,
-  "2022-12-07": 88200,
-  "2022-12-08": 88229,
-  "2022-12-09": 88263,
-  "2022-12-10": 88296,
-  "2022-12-11": 88339,
-  "2022-12-12": 88865,
-  "2022-12-13": 89168,
-  "2022-12-14": 89349,
-  "2022-12-15": 89502,
-  "2022-12-16": 89621,
-  "2022-12-17": 89713,
-  "2022-12-18": 89813,
-  "2022-12-19": 89897,
-  "2022-12-20": 90000,
-  "2022-12-21": 90000,
-  "2022-12-22": 90055,
-  "2022-12-24": 90148,
-  "2022-12-25": 90184,
-  "2022-12-26": 90219,
-  "2022-12-27": 90262,
-  "2022-12-28": 90319,
-  "2022-12-29": 90364,
-  "2022-12-30": 90470,
-  "2022-12-31": 90538,
-  "2023-01-01": 90601,
-  "2023-01-02": 90683,
-  "2023-01-03": 90745,
-  "2023-01-04": 90808,
-  "2023-01-05": 90868,
-  "2023-01-06": 90939,
-  "2023-01-07": 91027,
-  "2023-01-08": 91046,
-  "2023-01-09": 91107,
-  "2023-01-10": 91145,
-  "2023-01-11": 91192,
-  "2023-01-12": 91243,
-  "2023-01-13": 91293,
-  "2023-01-14": 91407,
-  "2023-01-15": 91425,
-  "2023-01-16": 91485,
-  "2023-01-17": 91543,
-  "2023-01-18": 91576,
-  "2023-01-19": 91626,
-  "2023-01-20": 91675,
-  "2023-01-21": 91739,
-  "2023-01-22": 91787,
-  "2023-01-23": 91827,
-  "2023-01-24": 91859,
-  "2023-01-25": 91896,
-  "2023-01-26": 91942,
-  "2023-01-27": 91987,
-  "2023-01-28": 92033,
-  "2023-01-29": 92089,
-  "2023-01-30": 92115,
-  "2023-01-31": 92115,
-  "2023-02-01": 92181,
-  "2023-02-02": 92221,
-  "2023-02-03": 92274,
-  "2023-02-04": 92339,
-  "2023-02-05": 92393,
-  "2023-02-06": 92856,
-  "2023-02-07": 93536,
-  "2023-02-08": 93858,
-  "2023-02-09": 93858,
-  "2023-02-10": 93942,
-  "2023-02-11": 94038,
-  "2023-02-12": 94249,
-  "2023-02-13": 94314,
-  "2023-02-14": 94314,
-  "2023-02-15": 94360,
-  "2023-02-16": 94404,
-  "2023-02-17": 94453,
-  "2023-02-18": 94592,
-  "2023-02-19": 94608,
-  "2023-02-20": 94647,
-  "2023-02-21": 94688,
-  "2023-02-22": 94739,
-  "2023-02-23": 94776,
-  "2023-02-24": 94825,
-  "2023-02-25": 94894,
-  "2023-02-26": 94934,
-  "2023-02-27": 95044,
-  "2023-02-28": 95044,
-  "2023-03-01": 95079,
-  "2023-03-02": 95114,
-  "2023-03-03": 95153,
-  "2023-03-04": 95184,
-  "2023-03-05": 95306,
-  "2023-03-06": 95306,
-  "2023-03-07": 95357,
-  "2023-03-08": 95375,
-  "2023-03-09": 95412,
-  "2023-03-10": 95448,
-  "2023-03-11": 95510,
-  "2023-03-12": 95563,
-  "2023-03-13": 95606,
-  "2023-03-14": 95628,
-  "2023-03-15": 95679,
-  "2023-03-16": 95679,
-  "2023-03-17": 95679,
-  "2023-03-18": 95778,
-  "2023-03-19": 95778,
-  "2023-03-20": 95852,
-  "2023-03-21": 95895,
-  "2023-03-22": 95930,
-  "2023-03-23": 95960,
-  "2023-03-24": 95960,
-  "2023-03-25": 96034,
-  "2023-03-26": 96078,
-  "2023-03-27": 96107,
-  "2023-03-28": 96146,
-  "2023-03-29": 96182,
-  "2023-03-30": 96244,
-  "2023-03-31": 96244,
-  "2023-04-01": 96273,
-  "2023-04-02": 96324,
-  "2023-04-03": 96374,
-  "2023-04-04": 96405,
-  "2023-04-05": 96429,
-  "2023-04-06": 96460,
-  "2023-04-07": 96493,
-  "2023-04-09": 96577,
-  "2023-04-10": 96617,
-  "2023-04-11": 96716,
-  "2023-04-12": 96716,
-  "2023-04-13": 96761,
-  "2023-04-14": 96788,
-  "2023-04-15": 96827,
-  "2023-04-16": 96852,
-  "2023-04-17": 96888,
-  "2023-04-18": 96908,
-  "2023-04-19": 96939,
-  "2023-04-20": 96959,
-  "2023-04-21": 97000,
-  "2023-04-22": 97045,
-  "2023-04-23": 97085,
-  "2023-04-24": 97119,
-  "2023-04-25": 97140,
-  "2023-04-26": 97178,
-  "2023-04-27": 97201,
-  "2023-04-28": 97230,
-  "2023-04-29": 97278,
-  "2023-04-30": 97321,
-  "2023-05-01": 97356,
-  "2023-05-02": 97382,
-  "2023-05-03": 97408,
-  "2023-05-04": 97436,
-  "2023-05-05": 97469,
-  "2023-05-06": 97504,
-  "2023-05-07": 97549,
-  "2023-05-08": 97575,
-  "2023-05-09": 97599,
-  "2023-05-10": 97634,
-  "2023-05-11": 97657,
-  "2023-05-12": 97684,
-  "2023-05-13": 97711,
-  "2023-05-14": 97749,
-  "2023-05-15": 97771,
-  "2023-05-16": 97820,
-  "2023-05-17": 97855,
-  "2023-05-18": 97885,
-  "2023-05-19": 97918,
-  "2023-05-20": 98011,
-  "2023-05-21": 98011,
-  "2023-05-22": 98011,
-  "2023-05-23": 98098,
-  "2023-05-24": 98179,
-  "2023-05-25": 98197,
-  "2023-05-26": 98240,
-  "2023-05-27": 98262,
-  "2023-05-28": 98298,
-  "2023-05-29": 98298,
-  "2023-05-30": 98368,
-  "2023-05-31": 98409,
-  "2023-06-01": 98461,
-  "2023-06-02": 98513,
-  "2023-06-03": 98533,
-  "2023-06-04": 98581,
-  "2023-06-05": 98626,
-  "2023-06-06": 98670,
-  "2023-06-07": 98709,
-  "2023-06-08": 98751,
-  "2023-06-09": 98813,
-  "2023-06-10": 98891,
-  "2023-06-11": 98954,
-  "2023-06-12": 99022,
-  "2023-06-13": 99092,
-  "2023-06-14": 99167,
-  "2023-06-15": 99201,
-  "2023-06-16": 99255,
-  "2023-06-17": 99318,
-  "2023-06-18": 99377,
-  "2023-06-19": 99437,
-  "2023-06-20": 99475,
-  "2023-06-21": 99508,
-  "2023-06-22": 99541,
-  "2023-06-23": 99586,
-  "2023-06-24": 99619,
-  "2023-06-25": 99662,
-  "2023-06-26": 99708,
-  "2023-06-27": 99740,
-  "2023-06-28": 99765,
-  "2023-06-29": 99805,
-  "2023-06-30": 99834,
-  "2023-07-01": 99932,
-  "2023-07-02": 99932,
-  "2023-07-03": 99991,
-  "2023-07-04": 100043,
-  "2023-07-05": 100118,
-  "2023-07-06": 100206,
-  "2023-07-07": 100206,
-  "2023-07-08": 100261,
-  "2023-07-09": 100315,
-  "2023-07-10": 100363,
-  "2023-07-11": 100399,
-  "2023-07-12": 100460,
-  "2023-07-13": 100499,
-  "2023-07-14": 100539,
-  "2023-07-15": 100562,
-  "2023-07-16": 100627,
-  "2023-07-17": 100672,
-  "2023-07-18": 100714,
-  "2023-07-19": 100751,
-  "2023-07-20": 100785,
-  "2023-07-21": 100826,
-  "2023-07-22": 100879,
-  "2023-07-23": 100930,
-  "2023-07-24": 100995,
-  "2023-07-25": 101057,
-  "2023-07-26": 101152,
-  "2023-07-27": 101210,
-  "2023-07-28": 101319,
-  "2023-07-29": 101395,
-  "2023-07-30": 101473,
-  "2023-07-31": 101541,
-  "2023-08-01": 101583,
-  "2023-08-02": 101619,
-  "2023-08-03": 101672,
-  "2023-08-04": 101715,
-  "2023-08-05": 101779,
-  "2023-08-06": 101948,
-  "2023-08-07": 101948,
-  "2023-08-08": 101986,
-  "2023-08-09": 102041,
-  "2023-08-10": 102096,
-  "2023-08-11": 102134,
-  "2023-08-12": 102134,
-  "2023-08-13": 102134,
-  "2023-08-14": 102258,
-  "2023-08-15": 102258,
-  "2023-08-16": 102258,
-  "2023-08-17": 102258,
-  "2023-08-18": 102258,
-  "2023-08-19": 102258,
-  "2023-08-20": 102552,
-  "2023-08-21": 102552,
-  "2023-08-22": 102657,
-  "2023-08-23": 102657,
-  "2023-08-24": 102657,
-  "2023-08-25": 102657,
-  "2023-08-26": 102820,
-  "2023-08-27": 102820,
-  "2023-08-28": 102916,
-  "2023-08-29": 102916,
-  "2023-08-30": 102916,
-  "2023-08-31": 103055,
-  "2023-09-01": 103098,
-  "2023-09-02": 103098,
-  "2023-09-03": 103251,
-  "2023-09-04": 103251,
-  "2023-09-05": 103251,
-  "2023-09-06": 103361,
-  "2023-09-07": 103361,
-  "2023-09-08": 103361,
-  "2023-09-09": 103361,
-  "2023-09-10": 103599,
-  "2023-09-11": 103599,
-  "2023-09-12": 103599,
-  "2023-09-13": 103739,
-  "2023-09-14": 103739,
-  "2023-09-15": 103739,
-  "2023-09-16": 103849,
-  "2023-09-17": 103849,
-  "2023-09-18": 103849,
-  "2023-09-19": 104000,
-  "2023-09-20": 104000,
-  "2023-09-21": 104000,
-  "2023-09-22": 104137,
-  "2023-09-23": 104137,
-  "2023-09-24": 104137,
-  "2023-09-25": 104137,
-  "2023-09-26": 104315,
-  "2023-09-27": 104315,
-  "2023-09-28": 104315,
-  "2023-09-29": 104315,
-  "2023-09-30": 104315,
-  "2023-10-01": 104315,
-  "2023-10-02": 104581,
-  "2023-10-03": 104581,
-  "2023-10-04": 104581,
-  "2023-10-05": 104702,
-  "2023-10-06": 104702,
-  "2023-10-07": 104702,
-  "2023-10-08": 104702,
-  "2023-10-09": 104702,
-  "2023-10-10": 104702,
-  "2023-10-11": 105053,
-  "2023-10-12": 105053,
-  "2023-10-13": 105053,
-  "2023-10-14": 105053,
-  "2023-10-15": 105053,
-  "2023-10-16": 105053,
-  "2023-10-17": 105053,
-  "2023-10-18": 105053,
-  "2023-10-19": 105053,
-  "2023-10-20": 105053,
-  "2023-10-21": 105053,
-  "2023-10-22": 105053,
-  "2023-10-23": 105053,
-  "2023-10-24": 105053,
-  "2023-10-25": 105053,
-  "2023-10-26": 105053,
-  "2023-10-27": 105053,
-  "2023-10-28": 105053,
-  "2023-10-29": 105053,
-  "2023-10-30": 105053,
-  "2023-10-31": 105053,
-  "2023-11-01": 105053,
-  "2023-11-02": 105053,
-  "2023-11-03": 105053,
-  "2023-11-04": 105053,
-  "2023-11-05": 105053,
-  "2023-11-06": 105053,
-  "2023-11-07": 105053,
-  "2023-11-08": 105053,
-  "2023-11-09": 105053,
-  "2023-11-10": 105053,
-  "2023-11-11": 106051,
-  "2023-11-12": 106051,
-  "2023-11-13": 106051,
-  "2023-11-14": 106051,
-  "2023-11-15": 106051,
-  "2023-11-16": 106051,
-  "2023-11-17": 106051,
-  "2023-11-18": 106051,
-  "2023-11-19": 106051,
-  "2023-11-20": 106051,
-  "2023-11-21": 106051,
-  "2023-11-22": 106051,
-  "2023-11-23": 106051,
-  "2023-11-24": 106051,
-  "2023-11-25": 106051,
-  "2023-11-26": 106051,
-  "2023-11-27": 106051,
-  "2023-11-28": 106051,
-  "2023-11-29": 106051,
-  "2023-11-30": 106051,
-  "2023-12-01": 106051,
-  "2023-12-02": 106051,
-  "2023-12-03": 106051,
-  "2023-12-04": 106051,
-  "2023-12-05": 106051,
-  "2023-12-06": 106051,
-  "2023-12-07": 106051,
-  "2023-12-08": 106051,
-  "2023-12-09": 106051,
-  "2023-12-10": 106051,
-  "2023-12-11": 106051,
-  "2023-12-12": 106051,
-  "2023-12-13": 106051,
-  "2023-12-14": 106749,
-  "2023-12-15": 106775,
-  "2023-12-16": 106796,
-  "2023-12-17": 106819,
-  "2023-12-18": 106846,
-  "2023-12-19": 106845,
-  "2023-12-20": 106862,
-  "2023-12-21": 106875,
-  "2023-12-22": 106897,
-  "2023-12-23": 106919,
-  "2023-12-24": 106941,
-  "2023-12-25": 106955,
-  "2023-12-26": 106959,
-  "2023-12-27": 106977,
-  "2023-12-30": 107025,
-  "2023-12-31": 107037,
-  "2024-01-01": 107054,
-  "2024-01-02": 107077,
-  "2024-01-03": 107081
+  "2024-01-17": 107285,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
+  "name": "This Is Brandi Carlile",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Noise",
+        "url": "https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 199089,
+      "name": "A Beautiful Noise",
+      "url": "https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C"
+    },
+    {
+      "album": {
+        "name": "Habitaci\u00f3n Doble",
+        "url": "https://open.spotify.com/album/4DfVCpHDW9AN1DEw5nvssI"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 241826,
+      "name": "Already Home (with Brandi Carlile)",
+      "url": "https://open.spotify.com/track/6lYOxpP2BB48oEsX06Ini0"
+    },
+    {
+      "album": {
+        "name": "Cayamo Sessions At Sea",
+        "url": "https://open.spotify.com/album/4JbbKkl47kk0jNHWFWUjtF"
+      },
+      "artists": [
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287346,
+      "name": "Angel From Montgomery",
+      "url": "https://open.spotify.com/track/3JZRzBdRPCo2j8hXKGK0vZ"
+    },
+    {
+      "album": {
+        "name": "Give Up The Ghost",
+        "url": "https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 236866,
+      "name": "Before It Breaks",
+      "url": "https://open.spotify.com/track/0UYIEnvYPaXKkFRmeHZWNF"
+    },
+    {
+      "album": {
+        "name": "Breakfast In Birmingham [Feat. Brandi Carlile]",
+        "url": "https://open.spotify.com/album/2R5MdULbrzeoioeTF7xrpj"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 210160,
+      "name": "Breakfast In Birmingham [Feat. Brandi Carlile]",
+      "url": "https://open.spotify.com/track/3GOgNvOS69nv122eNjYGUG"
+    },
+    {
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "album": {
+        "name": "Onward (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213732,
+      "name": "Carried Me With You",
+      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
+    },
+    {
+      "album": {
+        "name": "Busted Jukebox Volume 2",
+        "url": "https://open.spotify.com/album/4cJyMkeK2D0fRaFZXFGK14"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 233998,
+      "name": "Cleanup Hitter",
+      "url": "https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU"
+    },
+    {
+      "album": {
+        "name": "Closer To Fine (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/0xmn6GY7CCPi7qYV0sZJ7p"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Catherine Carlile",
+          "url": "https://open.spotify.com/artist/4xEcoUxmI70KeAP1r1Fvb5"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352687,
+      "name": "Closer To Fine (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1v9iJFBaJCxBCdBNdvXeMd"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 217733,
+      "name": "Cocktail And A Song",
+      "url": "https://open.spotify.com/track/6sXLDERR5PP1aQlWVlaaNl"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209906,
+      "name": "Crowded Table",
+      "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268653,
+      "name": "Damage Gets Done (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
+    },
+    {
+      "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 206636,
+      "name": "Dance Around It (feat. Brandi Carlile & Sheryl Crow)",
+      "url": "https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro"
+    },
+    {
+      "album": {
+        "name": "Dear Insecurity (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/5vLQakn5RIIinS715tqgjI"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 276146,
+      "name": "Dear Insecurity (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/53KC9qJL3wxqbKQ7dkdR7E"
+    },
+    {
+      "album": {
+        "name": "Brandy Clark",
+        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 276146,
+      "name": "Dear Insecurity (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
+    },
+    {
+      "album": {
+        "name": "Dear Insecurity (feat. Brandi Carlile) [Live From The Gorge]",
+        "url": "https://open.spotify.com/album/7qJL9CoxCi3yZJzst36sCh"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286493,
+      "name": "Dear Insecurity (feat. Brandi Carlile) - Live From The Gorge",
+      "url": "https://open.spotify.com/track/58SPfZwpM4XNXyjCqKfBsZ"
+    },
+    {
+      "album": {
+        "name": "Folkocracy",
+        "url": "https://open.spotify.com/album/7FGoS4iN1v6SlsiUx1X5Wx"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 185613,
+      "name": "Down in the Willow Garden (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2V57WTkpAS8ndrPgWvtI0Q"
+    },
+    {
+      "album": {
+        "name": "Down in the Willow Garden (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/7MAmoUXsgLUzc887kZcX46"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 185613,
+      "name": "Down in the Willow Garden (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/5sUhZ4Q32gzQEbKR5HJzaF"
+    },
+    {
+      "album": {
+        "name": "Give Up The Ghost",
+        "url": "https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 211600,
+      "name": "Dying Day",
+      "url": "https://open.spotify.com/track/1c6Gl2V1HGYPprBmKJdiFj"
+    },
+    {
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+    },
+    {
+      "album": {
+        "name": "Live At Benaroya Hall with The Seattle Symphony",
+        "url": "https://open.spotify.com/album/7jKJ68WplsoCCnbpKUXiV8"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Seattle Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286093,
+      "name": "Forever Young - Live at Benaroya Hall, Seattle, WA - November 2010",
+      "url": "https://open.spotify.com/track/4o8k0A5ZB6WybwgCnn77ox"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346397,
+      "name": "Hallelujah - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "album": {
+        "name": "Brandi Carlile",
+        "url": "https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3SbQ1N1d9hNqTG4d4PeyvW"
+    },
+    {
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201493,
+      "name": "Hard Way Home",
+      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
+    },
+    {
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152946,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
+    },
+    {
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Heart's Content",
+      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
+    },
+    {
+      "album": {
+        "name": "XOBC",
+        "url": "https://open.spotify.com/album/2dUNitZMCbMgbBjlal2xBp"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 209706,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6nddAZdwg0qKNTce8WzzgQ"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 234133,
+      "name": "Heaven Is A Honky Tonk",
+      "url": "https://open.spotify.com/track/5pg5piAxkAjXqA7aXnOw5Z"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212480,
+      "name": "Highwomen",
+      "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        },
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209051,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN"
+    },
+    {
+      "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-09",
+      "duration_ms": 262866,
+      "name": "Hold Out Your Hand",
+      "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 212186,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
+    },
+    {
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
+    },
+    {
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 270962,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/1g3ZcTXYefhBrsNwTitiFL"
+    },
+    {
+      "album": {
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "If She Ever Leaves Me",
+      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
+    },
+    {
+      "album": {
+        "name": "Give Up The Ghost",
+        "url": "https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 159173,
+      "name": "If There Was No You",
+      "url": "https://open.spotify.com/track/4GBw1ipeO6q1OrBpZrXF8f"
+    },
+    {
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182186,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv"
+    },
+    {
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Keep Your Heart Young",
+      "url": "https://open.spotify.com/track/102LKbpOsGAXWYQx9sEd5e"
+    },
+    {
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 207786,
+      "name": "Late Morning Lullaby",
+      "url": "https://open.spotify.com/track/3vhaMxyoEBA0WhBXWIP3b6"
+    },
+    {
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "Letter To The Past",
+      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
+    },
+    {
+      "album": {
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142840,
+      "name": "Loose Change",
+      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
+    },
+    {
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221813,
+      "name": "Mama Werewolf",
+      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
+    },
+    {
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231693,
+      "name": "Most of All",
+      "url": "https://open.spotify.com/track/0E0aHF7AnmeMNIAb7GJSQa"
+    },
+    {
+      "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rYB02CvfMqjKeXaqCRBK6"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305173,
+      "name": "Nothing Compares 2 U (Live) (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/10CjBqsuPK534Xq7uIjuQ9"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 345026,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+    },
+    {
+      "album": {
+        "name": "Party of One (feat. Sam Smith)",
+        "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259558,
+      "name": "Party of One (feat. Sam Smith)",
+      "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
+    },
+    {
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Redesigning Women",
+      "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
+    },
+    {
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "album": {
+        "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
+        "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
+      },
+      "artists": [
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Run To Me (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
+    },
+    {
+      "album": {
+        "name": "In These Silent Days (Deluxe Edition) In The Canyon Haze",
+        "url": "https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 300066,
+      "name": "Space Oddity",
+      "url": "https://open.spotify.com/track/0bcEINLq5Giisn7fbgtl3N"
+    },
+    {
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185421,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
+    },
+    {
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222293,
+      "name": "That Wasn't Me",
+      "url": "https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L"
+    },
+    {
+      "album": {
+        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
+        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291533,
+      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
+      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+    },
+    {
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211674,
+      "name": "The Eye",
+      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
+    },
+    {
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279373,
+      "name": "The Joke",
+      "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
+    },
+    {
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
+    },
+    {
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym"
+    },
+    {
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206268,
+      "name": "The Things I Regret",
+      "url": "https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs"
+    },
+    {
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206267,
+      "name": "This Time Tomorrow",
+      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
+    },
+    {
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178320,
+      "name": "Turpentine",
+      "url": "https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL"
+    },
+    {
+      "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO"
+    },
+    {
+      "album": {
+        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270426,
+      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+    },
+    {
+      "album": {
+        "name": "Brandi Carlile",
+        "url": "https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "What Can I Say",
+      "url": "https://open.spotify.com/track/07WvoBV7oBTonCSw03UCud"
+    },
+    {
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247133,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY"
+    },
+    {
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230108,
+      "name": "Wherever is Your Heart",
+      "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
+    },
+    {
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "album": {
+        "name": "You're Not Alone [Feat. Brandi Carlile]",
+        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309746,
+      "name": "You're Not Alone [Feat. Brandi Carlile]",
+      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1poioV"
 }

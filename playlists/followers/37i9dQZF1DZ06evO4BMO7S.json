@@ -1,246 +1,719 @@
 {
-  "2023-05-03": 13717,
-  "2023-05-04": 13737,
-  "2023-05-05": 13764,
-  "2023-05-06": 13779,
-  "2023-05-07": 13792,
-  "2023-05-08": 13815,
-  "2023-05-09": 13817,
-  "2023-05-10": 13835,
-  "2023-05-11": 13851,
-  "2023-05-12": 13868,
-  "2023-05-13": 13887,
-  "2023-05-14": 13897,
-  "2023-05-15": 13919,
-  "2023-05-16": 13946,
-  "2023-05-17": 13972,
-  "2023-05-18": 13995,
-  "2023-05-19": 14031,
-  "2023-05-20": 14058,
-  "2023-05-21": 14058,
-  "2023-05-22": 14058,
-  "2023-05-23": 14096,
-  "2023-05-24": 14147,
-  "2023-05-25": 14153,
-  "2023-05-26": 14182,
-  "2023-05-27": 14195,
-  "2023-05-28": 14217,
-  "2023-05-29": 14217,
-  "2023-05-30": 14249,
-  "2023-05-31": 14276,
-  "2023-06-01": 14301,
-  "2023-06-02": 14322,
-  "2023-06-03": 14343,
-  "2023-06-04": 14364,
-  "2023-06-05": 14391,
-  "2023-06-06": 14414,
-  "2023-06-07": 14437,
-  "2023-06-08": 14451,
-  "2023-06-09": 14474,
-  "2023-06-10": 14491,
-  "2023-06-11": 14502,
-  "2023-06-12": 14525,
-  "2023-06-13": 14538,
-  "2023-06-14": 14553,
-  "2023-06-15": 14567,
-  "2023-06-16": 14582,
-  "2023-06-17": 14593,
-  "2023-06-18": 14611,
-  "2023-06-19": 14633,
-  "2023-06-20": 14643,
-  "2023-06-21": 14664,
-  "2023-06-22": 14686,
-  "2023-06-23": 14708,
-  "2023-06-24": 14723,
-  "2023-06-25": 14735,
-  "2023-06-26": 14757,
-  "2023-06-27": 14782,
-  "2023-06-28": 14795,
-  "2023-06-29": 14813,
-  "2023-06-30": 14830,
-  "2023-07-01": 14880,
-  "2023-07-02": 14880,
-  "2023-07-03": 14898,
-  "2023-07-04": 14909,
-  "2023-07-05": 14916,
-  "2023-07-06": 14949,
-  "2023-07-07": 14949,
-  "2023-07-08": 14949,
-  "2023-07-09": 14993,
-  "2023-07-10": 15007,
-  "2023-07-11": 15037,
-  "2023-07-12": 15044,
-  "2023-07-13": 15058,
-  "2023-07-14": 15069,
-  "2023-07-15": 15078,
-  "2023-07-16": 15095,
-  "2023-07-17": 15102,
-  "2023-07-18": 15110,
-  "2023-07-19": 15124,
-  "2023-07-20": 15124,
-  "2023-07-21": 15156,
-  "2023-07-22": 15177,
-  "2023-07-23": 15187,
-  "2023-07-24": 15195,
-  "2023-07-25": 15203,
-  "2023-07-26": 15207,
-  "2023-07-27": 15220,
-  "2023-07-28": 15220,
-  "2023-07-29": 15240,
-  "2023-07-30": 15240,
-  "2023-07-31": 15268,
-  "2023-08-01": 15275,
-  "2023-08-02": 15288,
-  "2023-08-03": 15301,
-  "2023-08-04": 15320,
-  "2023-08-05": 15328,
-  "2023-08-06": 15365,
-  "2023-08-07": 15365,
-  "2023-08-08": 15375,
-  "2023-08-09": 15414,
-  "2023-08-10": 15437,
-  "2023-08-11": 15446,
-  "2023-08-12": 15446,
-  "2023-08-13": 15446,
-  "2023-08-14": 15446,
-  "2023-08-15": 15446,
-  "2023-08-16": 15446,
-  "2023-08-17": 15446,
-  "2023-08-18": 15446,
-  "2023-08-19": 15446,
-  "2023-08-20": 15583,
-  "2023-08-21": 15583,
-  "2023-08-22": 15627,
-  "2023-08-23": 15627,
-  "2023-08-24": 15627,
-  "2023-08-25": 15627,
-  "2023-08-26": 15734,
-  "2023-08-27": 15734,
-  "2023-08-28": 15777,
-  "2023-08-29": 15777,
-  "2023-08-30": 15777,
-  "2023-08-31": 15833,
-  "2023-09-01": 15852,
-  "2023-09-02": 15852,
-  "2023-09-03": 15852,
-  "2023-09-04": 15852,
-  "2023-09-05": 15852,
-  "2023-09-06": 15852,
-  "2023-09-07": 15852,
-  "2023-09-08": 15852,
-  "2023-09-09": 15852,
-  "2023-09-10": 15852,
-  "2023-09-11": 15852,
-  "2023-09-12": 15852,
-  "2023-09-13": 15852,
-  "2023-09-14": 15852,
-  "2023-09-15": 15852,
-  "2023-09-16": 15852,
-  "2023-09-17": 15852,
-  "2023-09-18": 15852,
-  "2023-09-19": 15852,
-  "2023-09-20": 15852,
-  "2023-09-21": 15852,
-  "2023-09-22": 16151,
-  "2023-09-23": 16151,
-  "2023-09-24": 16151,
-  "2023-09-25": 16151,
-  "2023-09-26": 16189,
-  "2023-09-27": 16189,
-  "2023-09-28": 16189,
-  "2023-09-29": 16189,
-  "2023-09-30": 16189,
-  "2023-10-01": 16189,
-  "2023-10-02": 16189,
-  "2023-10-03": 16189,
-  "2023-10-04": 16189,
-  "2023-10-05": 16189,
-  "2023-10-06": 16189,
-  "2023-10-07": 16189,
-  "2023-10-08": 16189,
-  "2023-10-09": 16189,
-  "2023-10-10": 16189,
-  "2023-10-11": 16189,
-  "2023-10-12": 16189,
-  "2023-10-13": 16189,
-  "2023-10-14": 16189,
-  "2023-10-15": 16189,
-  "2023-10-16": 16189,
-  "2023-10-17": 16189,
-  "2023-10-18": 16189,
-  "2023-10-19": 16189,
-  "2023-10-20": 16189,
-  "2023-10-21": 16189,
-  "2023-10-22": 16189,
-  "2023-10-23": 16189,
-  "2023-10-24": 16189,
-  "2023-10-25": 16189,
-  "2023-10-26": 16189,
-  "2023-10-27": 16189,
-  "2023-10-28": 16189,
-  "2023-10-29": 16189,
-  "2023-10-30": 16189,
-  "2023-10-31": 16189,
-  "2023-11-01": 16189,
-  "2023-11-02": 16189,
-  "2023-11-03": 16189,
-  "2023-11-04": 16189,
-  "2023-11-05": 16189,
-  "2023-11-06": 16189,
-  "2023-11-07": 16189,
-  "2023-11-08": 16189,
-  "2023-11-09": 16189,
-  "2023-11-10": 16189,
-  "2023-11-11": 16617,
-  "2023-11-12": 16617,
-  "2023-11-13": 16617,
-  "2023-11-14": 16617,
-  "2023-11-15": 16617,
-  "2023-11-16": 16617,
-  "2023-11-17": 16617,
-  "2023-11-18": 16617,
-  "2023-11-19": 16617,
-  "2023-11-20": 16617,
-  "2023-11-21": 16617,
-  "2023-11-22": 16617,
-  "2023-11-23": 16617,
-  "2023-11-24": 16617,
-  "2023-11-25": 16617,
-  "2023-11-26": 16617,
-  "2023-11-27": 16617,
-  "2023-11-28": 16617,
-  "2023-11-29": 16617,
-  "2023-11-30": 16617,
-  "2023-12-01": 16617,
-  "2023-12-02": 16617,
-  "2023-12-03": 16617,
-  "2023-12-04": 16617,
-  "2023-12-05": 16617,
-  "2023-12-06": 16617,
-  "2023-12-07": 16617,
-  "2023-12-08": 16617,
-  "2023-12-09": 16617,
-  "2023-12-10": 16617,
-  "2023-12-11": 16617,
-  "2023-12-12": 16617,
-  "2023-12-13": 16617,
-  "2023-12-14": 16915,
-  "2023-12-15": 16917,
-  "2023-12-16": 16922,
-  "2023-12-17": 16927,
-  "2023-12-18": 16933,
-  "2023-12-19": 16941,
-  "2023-12-20": 16945,
-  "2023-12-21": 16952,
-  "2023-12-22": 16951,
-  "2023-12-23": 16957,
-  "2023-12-24": 16957,
-  "2023-12-25": 16961,
-  "2023-12-26": 16964,
-  "2023-12-27": 16968,
-  "2023-12-30": 16993,
-  "2023-12-31": 17005,
-  "2024-01-01": 17009,
-  "2024-01-02": 17013,
-  "2024-01-03": 17026
+  "2024-01-17": 17186,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
+  "name": "This Is Japanese Breakfast",
+  "tracks": [
+    {
+      "album": {
+        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
+        "url": "https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 200773,
+      "name": "2042",
+      "url": "https://open.spotify.com/track/7c8qbXUPulhesvYSzYpoHe"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179744,
+      "name": "Ballad 0 - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210625,
+      "name": "Better the Mask",
+      "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
+    },
+    {
+      "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213986,
+      "name": "Boyish",
+      "url": "https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66703,
+      "name": "Campfires",
+      "url": "https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV"
+    },
+    {
+      "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392600,
+      "name": "Diving Woman",
+      "url": "https://open.spotify.com/track/6V7c8Dd40BKFqWIYS5zTXx"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279232,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 193523,
+      "name": "Eccria (Day)",
+      "url": "https://open.spotify.com/track/66BCvBm0vvJTTy4ZoKbpT6"
+    },
+    {
+      "album": {
+        "name": "Essentially",
+        "url": "https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196214,
+      "name": "Essentially",
+      "url": "https://open.spotify.com/track/7MI12qNsacindN65MWoMYR"
+    },
+    {
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132631,
+      "name": "Everybody Wants to Love You",
+      "url": "https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250906,
+      "name": "Exploration (Ruins)",
+      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
+      "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
+    },
+    {
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/2E708oixNbIE32J644UTEj"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF"
+    },
+    {
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217543,
+      "name": "Heft",
+      "url": "https://open.spotify.com/track/5j7CjG3iZzyfOSoLCEzIHx"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150187,
+      "name": "Ibexxi Camp (Night)",
+      "url": "https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w"
+    },
+    {
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230322,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158358,
+      "name": "In Hell",
+      "url": "https://open.spotify.com/track/6AbCMuMMJbBcTtt2IaC0Wq"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218744,
+      "name": "Kokomo, IN",
+      "url": "https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222425,
+      "name": "Lindsey - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/0Wgjuj7ZgodP2eLzzjLSAc"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 64000,
+      "name": "Main Menu",
+      "url": "https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9"
+    },
+    {
+      "album": {
+        "name": "Too Real (Remixes)",
+        "url": "https://open.spotify.com/album/5jOMCJMBZIaAah4JOssJb7"
+      },
+      "artists": [
+        {
+          "name": "Giraffage",
+          "url": "https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6"
+        },
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234970,
+      "name": "Maybes - RAC Mix",
+      "url": "https://open.spotify.com/track/2QbTsEUF97LixvDbyKUdCj"
+    },
+    {
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 89552,
+      "name": "Moon on the Bath",
+      "url": "https://open.spotify.com/track/27sHOCHpJ0G0bm0sn2bTWj"
+    },
+    {
+      "album": {
+        "name": "Nobody Sees Me Like You Do",
+        "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211635,
+      "name": "Nobody Sees Me Like You Do",
+      "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220316,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
+    },
+    {
+      "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77293,
+      "name": "Planetary Ambience",
+      "url": "https://open.spotify.com/track/4RRRkSm8RiIDGRDeUSdO4q"
+    },
+    {
+      "album": {
+        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
+        "url": "https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 127725,
+      "name": "Posing in Bondage",
+      "url": "https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku"
+    },
+    {
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75707,
+      "name": "Psychopomp",
+      "url": "https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj"
+    },
+    {
+      "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Road Head",
+      "url": "https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL"
+    },
+    {
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173070,
+      "name": "Rugged Country",
+      "url": "https://open.spotify.com/track/5ezE3J5CjlBdPp2BFn8P7P"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146184,
+      "name": "Savage Good Boy",
+      "url": "https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257234,
+      "name": "Say It Ain't So - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226981,
+      "name": "Skinny Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219782,
+      "name": "Slide Tackle",
+      "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+    },
+    {
+      "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200973,
+      "name": "Soft Sounds from Another Planet",
+      "url": "https://open.spotify.com/track/17UaCbdhkzTaCj4DbKTrPW"
+    },
+    {
+      "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220386,
+      "name": "The Body Is a Blade",
+      "url": "https://open.spotify.com/track/6TBgnQqDXmGECYuZYgj6DI"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245562,
+      "name": "The Ewer (Day)",
+      "url": "https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP"
+    },
+    {
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144677,
+      "name": "The Woman That Loves You",
+      "url": "https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu"
+    },
+    {
+      "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 177206,
+      "name": "Till Death",
+      "url": "https://open.spotify.com/track/3wJVQr9ZfLZfcj19aIfjub"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BMO7S"
 }

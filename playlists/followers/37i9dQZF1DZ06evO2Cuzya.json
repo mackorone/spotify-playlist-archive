@@ -1,291 +1,809 @@
 {
-  "2023-03-18": 36618,
-  "2023-03-19": 36618,
-  "2023-03-20": 36907,
-  "2023-03-21": 37048,
-  "2023-03-22": 37199,
-  "2023-03-23": 37353,
-  "2023-03-24": 37353,
-  "2023-03-25": 37651,
-  "2023-03-26": 37845,
-  "2023-03-27": 38030,
-  "2023-03-28": 38201,
-  "2023-03-29": 38349,
-  "2023-03-30": 38584,
-  "2023-03-31": 38584,
-  "2023-04-01": 38724,
-  "2023-04-02": 38856,
-  "2023-04-03": 39124,
-  "2023-04-04": 39368,
-  "2023-04-05": 39591,
-  "2023-04-06": 39754,
-  "2023-04-07": 39902,
-  "2023-04-09": 40176,
-  "2023-04-10": 40289,
-  "2023-04-11": 40594,
-  "2023-04-12": 40594,
-  "2023-04-13": 40753,
-  "2023-04-14": 40908,
-  "2023-04-15": 41070,
-  "2023-04-16": 41177,
-  "2023-04-17": 41310,
-  "2023-04-18": 41441,
-  "2023-04-19": 41572,
-  "2023-04-20": 41700,
-  "2023-04-21": 41815,
-  "2023-04-22": 41953,
-  "2023-04-23": 42074,
-  "2023-04-24": 42198,
-  "2023-04-25": 42312,
-  "2023-04-26": 42459,
-  "2023-04-27": 42533,
-  "2023-04-28": 42631,
-  "2023-04-29": 42716,
-  "2023-04-30": 42819,
-  "2023-05-01": 42918,
-  "2023-05-02": 43011,
-  "2023-05-03": 43087,
-  "2023-05-04": 43166,
-  "2023-05-05": 43240,
-  "2023-05-06": 43281,
-  "2023-05-07": 43366,
-  "2023-05-08": 43489,
-  "2023-05-09": 43591,
-  "2023-05-10": 43673,
-  "2023-05-11": 43760,
-  "2023-05-12": 43824,
-  "2023-05-13": 43918,
-  "2023-05-14": 43981,
-  "2023-05-15": 44042,
-  "2023-05-16": 44132,
-  "2023-05-17": 44209,
-  "2023-05-18": 44261,
-  "2023-05-19": 44348,
-  "2023-05-20": 44487,
-  "2023-05-21": 44487,
-  "2023-05-22": 44487,
-  "2023-05-23": 44604,
-  "2023-05-24": 44737,
-  "2023-05-25": 44754,
-  "2023-05-26": 44825,
-  "2023-05-27": 44879,
-  "2023-05-28": 44944,
-  "2023-05-29": 44944,
-  "2023-05-30": 45071,
-  "2023-05-31": 45130,
-  "2023-06-01": 45215,
-  "2023-06-02": 45279,
-  "2023-06-03": 45349,
-  "2023-06-04": 45412,
-  "2023-06-05": 45488,
-  "2023-06-06": 45561,
-  "2023-06-07": 45631,
-  "2023-06-08": 45713,
-  "2023-06-09": 45799,
-  "2023-06-10": 45881,
-  "2023-06-11": 45972,
-  "2023-06-12": 46075,
-  "2023-06-13": 46159,
-  "2023-06-14": 46262,
-  "2023-06-15": 46359,
-  "2023-06-16": 46467,
-  "2023-06-17": 46578,
-  "2023-06-18": 46691,
-  "2023-06-19": 46791,
-  "2023-06-20": 46864,
-  "2023-06-21": 46953,
-  "2023-06-22": 47025,
-  "2023-06-23": 47090,
-  "2023-06-24": 47193,
-  "2023-06-25": 47275,
-  "2023-06-26": 47345,
-  "2023-06-27": 47432,
-  "2023-06-28": 47523,
-  "2023-06-29": 47584,
-  "2023-06-30": 47652,
-  "2023-07-01": 47789,
-  "2023-07-02": 47789,
-  "2023-07-03": 47982,
-  "2023-07-04": 48114,
-  "2023-07-05": 48234,
-  "2023-07-06": 48473,
-  "2023-07-07": 48473,
-  "2023-07-08": 48473,
-  "2023-07-09": 48673,
-  "2023-07-10": 48790,
-  "2023-07-11": 48860,
-  "2023-07-12": 48961,
-  "2023-07-13": 49060,
-  "2023-07-14": 49149,
-  "2023-07-15": 49216,
-  "2023-07-16": 49349,
-  "2023-07-17": 49444,
-  "2023-07-18": 49532,
-  "2023-07-19": 49616,
-  "2023-07-20": 49714,
-  "2023-07-21": 49776,
-  "2023-07-22": 49866,
-  "2023-07-23": 49978,
-  "2023-07-24": 50097,
-  "2023-07-25": 50212,
-  "2023-07-26": 50353,
-  "2023-07-27": 50520,
-  "2023-07-28": 50665,
-  "2023-07-29": 50769,
-  "2023-07-30": 50886,
-  "2023-07-31": 51016,
-  "2023-08-01": 51128,
-  "2023-08-02": 51217,
-  "2023-08-03": 51301,
-  "2023-08-04": 51433,
-  "2023-08-05": 51586,
-  "2023-08-06": 51789,
-  "2023-08-07": 51789,
-  "2023-08-08": 51899,
-  "2023-08-09": 52014,
-  "2023-08-10": 52127,
-  "2023-08-11": 52247,
-  "2023-08-12": 52247,
-  "2023-08-13": 52247,
-  "2023-08-14": 52493,
-  "2023-08-15": 52493,
-  "2023-08-16": 52493,
-  "2023-08-17": 52493,
-  "2023-08-18": 52493,
-  "2023-08-19": 52493,
-  "2023-08-20": 53130,
-  "2023-08-21": 53130,
-  "2023-08-22": 53318,
-  "2023-08-23": 53318,
-  "2023-08-24": 53318,
-  "2023-08-25": 53318,
-  "2023-08-26": 53708,
-  "2023-08-27": 53708,
-  "2023-08-28": 53870,
-  "2023-08-29": 53870,
-  "2023-08-30": 53870,
-  "2023-08-31": 54126,
-  "2023-09-01": 54233,
-  "2023-09-02": 54233,
-  "2023-09-03": 54438,
-  "2023-09-04": 54438,
-  "2023-09-05": 54438,
-  "2023-09-06": 54716,
-  "2023-09-07": 54716,
-  "2023-09-08": 54716,
-  "2023-09-09": 54716,
-  "2023-09-10": 55122,
-  "2023-09-11": 55122,
-  "2023-09-12": 55122,
-  "2023-09-13": 55500,
-  "2023-09-14": 55500,
-  "2023-09-15": 55500,
-  "2023-09-16": 55763,
-  "2023-09-17": 55763,
-  "2023-09-18": 55763,
-  "2023-09-19": 56048,
-  "2023-09-20": 56048,
-  "2023-09-21": 56048,
-  "2023-09-22": 56281,
-  "2023-09-23": 56281,
-  "2023-09-24": 56281,
-  "2023-09-25": 56281,
-  "2023-09-26": 56621,
-  "2023-09-27": 56621,
-  "2023-09-28": 56621,
-  "2023-09-29": 56621,
-  "2023-09-30": 56621,
-  "2023-10-01": 56621,
-  "2023-10-02": 56621,
-  "2023-10-03": 56621,
-  "2023-10-04": 56621,
-  "2023-10-05": 56621,
-  "2023-10-06": 56621,
-  "2023-10-07": 56621,
-  "2023-10-08": 56621,
-  "2023-10-09": 56621,
-  "2023-10-10": 56621,
-  "2023-10-11": 57896,
-  "2023-10-12": 57896,
-  "2023-10-13": 57896,
-  "2023-10-14": 57896,
-  "2023-10-15": 57896,
-  "2023-10-16": 57896,
-  "2023-10-17": 57896,
-  "2023-10-18": 57896,
-  "2023-10-19": 57896,
-  "2023-10-20": 57896,
-  "2023-10-21": 57896,
-  "2023-10-22": 57896,
-  "2023-10-23": 57896,
-  "2023-10-24": 57896,
-  "2023-10-25": 57896,
-  "2023-10-26": 57896,
-  "2023-10-27": 57896,
-  "2023-10-28": 57896,
-  "2023-10-29": 57896,
-  "2023-10-30": 57896,
-  "2023-10-31": 57896,
-  "2023-11-01": 57896,
-  "2023-11-02": 57896,
-  "2023-11-03": 57896,
-  "2023-11-04": 57896,
-  "2023-11-05": 57896,
-  "2023-11-06": 57896,
-  "2023-11-07": 57896,
-  "2023-11-08": 57896,
-  "2023-11-09": 57896,
-  "2023-11-10": 57896,
-  "2023-11-11": 59811,
-  "2023-11-12": 59811,
-  "2023-11-13": 59811,
-  "2023-11-14": 59811,
-  "2023-11-15": 59811,
-  "2023-11-16": 59811,
-  "2023-11-17": 59811,
-  "2023-11-18": 59811,
-  "2023-11-19": 59811,
-  "2023-11-20": 59811,
-  "2023-11-21": 59811,
-  "2023-11-22": 59811,
-  "2023-11-23": 59811,
-  "2023-11-24": 59811,
-  "2023-11-25": 59811,
-  "2023-11-26": 59811,
-  "2023-11-27": 59811,
-  "2023-11-28": 59811,
-  "2023-11-29": 59811,
-  "2023-11-30": 59811,
-  "2023-12-01": 59811,
-  "2023-12-02": 59811,
-  "2023-12-03": 59811,
-  "2023-12-04": 59811,
-  "2023-12-05": 59811,
-  "2023-12-06": 59811,
-  "2023-12-07": 59811,
-  "2023-12-08": 59811,
-  "2023-12-09": 59811,
-  "2023-12-10": 59811,
-  "2023-12-11": 59811,
-  "2023-12-12": 59811,
-  "2023-12-13": 59811,
-  "2023-12-14": 62207,
-  "2023-12-15": 62252,
-  "2023-12-16": 62346,
-  "2023-12-17": 62436,
-  "2023-12-18": 62487,
-  "2023-12-19": 62575,
-  "2023-12-20": 62634,
-  "2023-12-21": 62703,
-  "2023-12-22": 62778,
-  "2023-12-23": 62838,
-  "2023-12-24": 62908,
-  "2023-12-25": 62951,
-  "2023-12-26": 62994,
-  "2023-12-27": 63072,
-  "2023-12-30": 63292,
-  "2023-12-31": 63353,
-  "2024-01-01": 63391,
-  "2024-01-02": 63442,
-  "2024-01-03": 63483
+  "2024-01-17": 64463,
+  "date_first_scraped": "2023-03-18",
+  "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
+  "name": "This Is Gracie Abrams",
+  "tracks": [
+    {
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185172,
+      "name": "21",
+      "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 181900,
+      "name": "405",
+      "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/6rNKOFFX3RZTLftAHSPA1E"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 181900,
+      "name": "405",
+      "url": "https://open.spotify.com/track/2A2FHRyRHX4DKC2ABJHwIf"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233499,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 233499,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/5SJXktlo399QlOYBu4rB3m"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170805,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
+    },
+    {
+      "album": {
+        "name": "Block me out",
+        "url": "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249494,
+      "name": "Block me out",
+      "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
+    },
+    {
+      "album": {
+        "name": "Brush Fire",
+        "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Brush Fire",
+      "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246352,
+      "name": "Camden",
+      "url": "https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG"
+    },
+    {
+      "album": {
+        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252850,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
+      "duration_ms": 258901,
+      "name": "Difficult",
+      "url": "https://open.spotify.com/track/4OWcHdAmVvcL6o8RQYogXh"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258901,
+      "name": "Difficult",
+      "url": "https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7"
+    },
+    {
+      "album": {
+        "name": "Everywhere, Everything (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 267691,
+      "name": "Fault line",
+      "url": "https://open.spotify.com/track/6m9qTOnwtA88VyqJoE2PmL"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193602,
+      "name": "For Real This Time",
+      "url": "https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF"
+    },
+    {
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176946,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 255697,
+      "name": "Full machine",
+      "url": "https://open.spotify.com/track/6hPippCCh6sNjUbZBYU0LW"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245629,
+      "name": "I know it won't work",
+      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 245629,
+      "name": "I know it won't work",
+      "url": "https://open.spotify.com/track/5FGDtm3MXJe8LikBkOJnOQ"
+    },
+    {
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167538,
+      "name": "I miss you, I\u2019m sorry",
+      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 258948,
+      "name": "I should hate you",
+      "url": "https://open.spotify.com/track/1PV9R2n7xM53Nz3BOyJ973"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258948,
+      "name": "I should hate you",
+      "url": "https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7"
+    },
+    {
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218440,
+      "name": "Long Sleeves",
+      "url": "https://open.spotify.com/track/3wIRxCIGmdxld4ZC6yShZ9"
+    },
+    {
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171138,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
+    },
+    {
+      "album": {
+        "name": "Mess It Up",
+        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
+    },
+    {
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160506,
+      "name": "minor",
+      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 350836,
+      "name": "Right now",
+      "url": "https://open.spotify.com/track/5qCZTDYRqMENitupuEaILd"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217368,
+      "name": "Rockland",
+      "url": "https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177152,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
+    },
+    {
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 162506,
+      "name": "tehe",
+      "url": "https://open.spotify.com/track/2kp86yPhiPBTyoTYHB403F"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180488,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 245610,
+      "name": "This is what the drugs are for",
+      "url": "https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 253066,
+      "name": "Two people",
+      "url": "https://open.spotify.com/track/6LPi5m37Sv2N7N3ZdzH51T"
+    },
+    {
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141826,
+      "name": "Under / Over",
+      "url": "https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y"
+    },
+    {
+      "album": {
+        "name": "Unlearn (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155361,
+      "name": "Unlearn (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 250854,
+      "name": "Unsteady",
+      "url": "https://open.spotify.com/track/3TpU0c3HY1RUQSQkH37PvJ"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 243599,
+      "name": "Where do we go now?",
+      "url": "https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243599,
+      "name": "Where do we go now?",
+      "url": "https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 230131,
+      "name": "Will you cry?",
+      "url": "https://open.spotify.com/track/3UaaBFWIxrwDRc6pSisyuH"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 230131,
+      "name": "Will you cry?",
+      "url": "https://open.spotify.com/track/43UtrOTH0OLozYJDsGrDpv"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 160561,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Cuzya"
 }

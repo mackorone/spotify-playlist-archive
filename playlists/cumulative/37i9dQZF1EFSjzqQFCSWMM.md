@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-93 songs - 4 hr 22 min
+94 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,9 +37,10 @@
 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 | 2023-12-13 |  |
 | [Favourite Rapper / Hundred Million Religion](https://open.spotify.com/track/3vsuohYDStEaHt5EVPKKAz) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [I Think You've Gone Mad \(Or the Sins of the Father\)](https://open.spotify.com/album/4Yy43Ul14PbtMOBMDhjLgV) | 3:28 | 2023-12-13 |  |
 | [Fell In Love](https://open.spotify.com/track/44hFvYbXvLliVkeO9g9b7o) | [C3llyPizzaz](https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Fell In Love](https://open.spotify.com/album/5WcP2UBCmuvisS8trtAYCZ) | 2:45 | 2023-12-13 |  |
-| [Flashback](https://open.spotify.com/track/5HOkVAzmr3iDjBaIJH3CTb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:37 | 2023-12-13 | 2024-01-01 |
-| [Flashback](https://open.spotify.com/track/3M6uWThUeXWV1HCYnBz4wI) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Flashback](https://open.spotify.com/album/5l6Vbwho1oOexmkQ5GnBKu) | 4:03 | 2023-12-14 |  |
+| [Flashback](https://open.spotify.com/track/5HOkVAzmr3iDjBaIJH3CTb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:37 | 2023-12-13 |  |
+| [Flashback](https://open.spotify.com/track/3M6uWThUeXWV1HCYnBz4wI) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Flashback](https://open.spotify.com/album/5l6Vbwho1oOexmkQ5GnBKu) | 4:03 | 2023-12-14 | 2024-01-17 |
 | [Foto \(feat\. Gemitaiz & MadMan\)](https://open.spotify.com/track/2cFyGMKscEgtlS6gqqBxAR) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [RIOT](https://open.spotify.com/album/3iT9nm6Y0s0peiRwFKLA7f) | 4:15 | 2023-12-13 |  |
+| [fund$](https://open.spotify.com/track/0kSl3WjIB3A1u6aYvsphfU) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 2:32 | 2024-01-11 |  |
 | [Go Dumb \(feat\. H.E.R.\)](https://open.spotify.com/track/18sGGoM0OlrZNyMqVFIqP7) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:24 | 2023-12-13 |  |
 | [GO SHORTY](https://open.spotify.com/track/4zX3kNYoVwmU1dkkg5zvNt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:53 | 2023-12-13 |  |
 | [God Sent](https://open.spotify.com/track/0MyOenr6UKkwTFlBvO5dQz) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 0:54 | 2023-12-13 |  |
@@ -47,7 +48,7 @@
 | [Hard To Get](https://open.spotify.com/track/76EsDQYBWuwOSh8BBf8fIT) | [KUN](https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior) | [Hard To Get](https://open.spotify.com/album/11lQK5t31grTuIBjhCyL47) | 2:39 | 2023-12-13 |  |
 | [Hat Trick](https://open.spotify.com/track/02Y5afO1mCHxKp9ozmBv1Q) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:49 | 2023-12-13 |  |
 | [He Say She Say](https://open.spotify.com/track/2DOwIiI5L9lWsoUnZQlUqr) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 2:24 | 2023-12-16 |  |
-| [He Say She Say](https://open.spotify.com/track/7uJHdZPYExYDB6c23qjSrL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say \(Official Video\)](https://open.spotify.com/album/7o8mAtcvmvKJwEpZVXJRrB) | 2:26 | 2023-12-13 | 2024-01-02 |
+| [He Say She Say](https://open.spotify.com/track/7uJHdZPYExYDB6c23qjSrL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say \(Official Video\)](https://open.spotify.com/album/7o8mAtcvmvKJwEpZVXJRrB) | 2:26 | 2023-12-13 | 2024-01-16 |
 | [HICCUP](https://open.spotify.com/track/3xO0JG5aeKca9gp9SYcljz) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/6dqubyVt3aC3niJDXkSB5Q) | 2:10 | 2023-12-13 |  |
 | [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 | 2023-12-13 |  |
 | [I'm Ready For You](https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:54 | 2023-12-13 |  |

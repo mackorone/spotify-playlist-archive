@@ -1,259 +1,701 @@
 {
-  "2023-04-20": 309,
-  "2023-04-21": 310,
-  "2023-04-22": 310,
-  "2023-04-23": 310,
-  "2023-04-24": 309,
-  "2023-04-25": 308,
-  "2023-04-26": 309,
-  "2023-04-27": 309,
-  "2023-04-28": 309,
-  "2023-04-29": 309,
-  "2023-04-30": 310,
-  "2023-05-01": 310,
-  "2023-05-02": 310,
-  "2023-05-03": 310,
-  "2023-05-04": 312,
-  "2023-05-05": 312,
-  "2023-05-06": 312,
-  "2023-05-07": 313,
-  "2023-05-08": 313,
-  "2023-05-09": 314,
-  "2023-05-10": 314,
-  "2023-05-11": 314,
-  "2023-05-12": 315,
-  "2023-05-13": 315,
-  "2023-05-14": 314,
-  "2023-05-15": 314,
-  "2023-05-16": 314,
-  "2023-05-17": 315,
-  "2023-05-18": 315,
-  "2023-05-19": 315,
-  "2023-05-20": 316,
-  "2023-05-21": 316,
-  "2023-05-22": 316,
-  "2023-05-23": 315,
-  "2023-05-24": 315,
-  "2023-05-25": 315,
-  "2023-05-26": 317,
-  "2023-05-27": 317,
-  "2023-05-28": 318,
-  "2023-05-29": 318,
-  "2023-05-30": 319,
-  "2023-05-31": 318,
-  "2023-06-01": 317,
-  "2023-06-02": 317,
-  "2023-06-03": 319,
-  "2023-06-04": 320,
-  "2023-06-05": 321,
-  "2023-06-06": 322,
-  "2023-06-07": 322,
-  "2023-06-08": 322,
-  "2023-06-09": 322,
-  "2023-06-10": 322,
-  "2023-06-11": 323,
-  "2023-06-12": 325,
-  "2023-06-13": 325,
-  "2023-06-14": 325,
-  "2023-06-15": 325,
-  "2023-06-16": 325,
-  "2023-06-17": 325,
-  "2023-06-18": 326,
-  "2023-06-19": 326,
-  "2023-06-20": 326,
-  "2023-06-21": 327,
-  "2023-06-22": 328,
-  "2023-06-23": 328,
-  "2023-06-24": 328,
-  "2023-06-25": 327,
-  "2023-06-26": 327,
-  "2023-06-27": 327,
-  "2023-06-28": 327,
-  "2023-06-29": 327,
-  "2023-06-30": 327,
-  "2023-07-01": 327,
-  "2023-07-02": 327,
-  "2023-07-03": 327,
-  "2023-07-04": 327,
-  "2023-07-05": 329,
-  "2023-07-06": 331,
-  "2023-07-07": 331,
-  "2023-07-08": 334,
-  "2023-07-09": 333,
-  "2023-07-10": 333,
-  "2023-07-11": 333,
-  "2023-07-12": 334,
-  "2023-07-13": 335,
-  "2023-07-14": 336,
-  "2023-07-15": 337,
-  "2023-07-16": 337,
-  "2023-07-17": 339,
-  "2023-07-18": 339,
-  "2023-07-19": 338,
-  "2023-07-20": 338,
-  "2023-07-21": 339,
-  "2023-07-22": 339,
-  "2023-07-23": 339,
-  "2023-07-24": 338,
-  "2023-07-25": 340,
-  "2023-07-26": 340,
-  "2023-07-27": 340,
-  "2023-07-28": 340,
-  "2023-07-29": 341,
-  "2023-07-30": 340,
-  "2023-07-31": 340,
-  "2023-08-01": 342,
-  "2023-08-02": 343,
-  "2023-08-03": 342,
-  "2023-08-04": 342,
-  "2023-08-05": 342,
-  "2023-08-06": 342,
-  "2023-08-07": 342,
-  "2023-08-08": 343,
-  "2023-08-09": 343,
-  "2023-08-10": 343,
-  "2023-08-11": 343,
-  "2023-08-12": 343,
-  "2023-08-13": 343,
-  "2023-08-14": 343,
-  "2023-08-15": 344,
-  "2023-08-16": 344,
-  "2023-08-17": 344,
-  "2023-08-18": 344,
-  "2023-08-19": 344,
-  "2023-08-20": 344,
-  "2023-08-21": 345,
-  "2023-08-22": 345,
-  "2023-08-23": 345,
-  "2023-08-24": 345,
-  "2023-08-25": 345,
-  "2023-08-26": 346,
-  "2023-08-27": 348,
-  "2023-08-28": 348,
-  "2023-08-29": 348,
-  "2023-08-30": 347,
-  "2023-08-31": 347,
-  "2023-09-01": 348,
-  "2023-09-02": 348,
-  "2023-09-03": 348,
-  "2023-09-04": 347,
-  "2023-09-05": 347,
-  "2023-09-06": 347,
-  "2023-09-07": 349,
-  "2023-09-08": 349,
-  "2023-09-09": 349,
-  "2023-09-10": 349,
-  "2023-09-11": 349,
-  "2023-09-12": 349,
-  "2023-09-13": 349,
-  "2023-09-14": 350,
-  "2023-09-15": 350,
-  "2023-09-16": 349,
-  "2023-09-17": 349,
-  "2023-09-18": 349,
-  "2023-09-19": 350,
-  "2023-09-20": 350,
-  "2023-09-21": 350,
-  "2023-09-22": 350,
-  "2023-09-23": 349,
-  "2023-09-24": 349,
-  "2023-09-25": 349,
-  "2023-09-26": 349,
-  "2023-09-27": 349,
-  "2023-09-28": 349,
-  "2023-09-29": 349,
-  "2023-09-30": 349,
-  "2023-10-01": 350,
-  "2023-10-02": 350,
-  "2023-10-03": 350,
-  "2023-10-04": 351,
-  "2023-10-05": 352,
-  "2023-10-06": 352,
-  "2023-10-07": 351,
-  "2023-10-08": 351,
-  "2023-10-09": 351,
-  "2023-10-10": 351,
-  "2023-10-11": 352,
-  "2023-10-12": 352,
-  "2023-10-13": 352,
-  "2023-10-14": 352,
-  "2023-10-15": 352,
-  "2023-10-16": 352,
-  "2023-10-17": 352,
-  "2023-10-18": 352,
-  "2023-10-19": 352,
-  "2023-10-20": 352,
-  "2023-10-21": 352,
-  "2023-10-22": 352,
-  "2023-10-23": 352,
-  "2023-10-24": 352,
-  "2023-10-25": 354,
-  "2023-10-26": 354,
-  "2023-10-27": 354,
-  "2023-10-28": 354,
-  "2023-10-29": 355,
-  "2023-10-30": 355,
-  "2023-10-31": 355,
-  "2023-11-01": 354,
-  "2023-11-02": 355,
-  "2023-11-03": 355,
-  "2023-11-04": 355,
-  "2023-11-05": 355,
-  "2023-11-06": 355,
-  "2023-11-07": 355,
-  "2023-11-08": 355,
-  "2023-11-09": 355,
-  "2023-11-10": 355,
-  "2023-11-11": 354,
-  "2023-11-12": 355,
-  "2023-11-13": 356,
-  "2023-11-14": 355,
-  "2023-11-15": 355,
-  "2023-11-16": 355,
-  "2023-11-17": 355,
-  "2023-11-18": 355,
-  "2023-11-19": 353,
-  "2023-11-20": 355,
-  "2023-11-21": 353,
-  "2023-11-22": 353,
-  "2023-11-23": 353,
-  "2023-11-24": 353,
-  "2023-11-25": 353,
-  "2023-11-26": 352,
-  "2023-11-27": 352,
-  "2023-11-28": 352,
-  "2023-11-29": 352,
-  "2023-11-30": 352,
-  "2023-12-01": 352,
-  "2023-12-02": 352,
-  "2023-12-03": 352,
-  "2023-12-04": 353,
-  "2023-12-05": 353,
-  "2023-12-06": 352,
-  "2023-12-07": 352,
-  "2023-12-08": 352,
-  "2023-12-09": 352,
-  "2023-12-10": 352,
-  "2023-12-11": 352,
-  "2023-12-12": 352,
-  "2023-12-13": 352,
-  "2023-12-14": 352,
-  "2023-12-15": 351,
-  "2023-12-16": 352,
-  "2023-12-17": 352,
-  "2023-12-18": 352,
-  "2023-12-19": 352,
-  "2023-12-20": 352,
-  "2023-12-21": 352,
-  "2023-12-22": 352,
-  "2023-12-23": 352,
-  "2023-12-24": 352,
-  "2023-12-25": 352,
-  "2023-12-26": 352,
-  "2023-12-27": 352,
-  "2023-12-30": 352,
-  "2023-12-31": 352,
-  "2024-01-01": 353,
-  "2024-01-02": 353,
-  "2024-01-03": 354
+  "2024-01-17": 354,
+  "date_first_scraped": "2023-04-20",
+  "description": "The Official Playlist for Clark. Watch Now on Netflix. ",
+  "name": "Clark Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "H\u00e5llig\u00e5ng 1",
+        "url": "https://open.spotify.com/album/4QdqsjJrL3zCeI0DkqIX9x"
+      },
+      "artists": [
+        {
+          "name": "Schytts",
+          "url": "https://open.spotify.com/artist/2Zw1yhhUF3QDPXoqe2ylMN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "Aj aj aj",
+      "url": "https://open.spotify.com/track/5toD7E6z8zGcTnwWquqgl3"
+    },
+    {
+      "album": {
+        "name": "Diamanter - 80-Talet",
+        "url": "https://open.spotify.com/album/47v3cRlPKzVHCGUtlsNQoq"
+      },
+      "artists": [
+        {
+          "name": "Clabbe",
+          "url": "https://open.spotify.com/artist/3EaRFER7ODyHlxJ10J3SCc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268693,
+      "name": "An Evening in Paris (Deca-Dancing)",
+      "url": "https://open.spotify.com/track/6dnOvA409VoBs3tVrc6yY8"
+    },
+    {
+      "album": {
+        "name": "Ssss Shanes!",
+        "url": "https://open.spotify.com/album/70m0W00rX2ruXuAiZ0WXz3"
+      },
+      "artists": [
+        {
+          "name": "Shanes",
+          "url": "https://open.spotify.com/artist/191kMgIjWIxnfZuehKsfBD"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126720,
+      "name": "Chris Craft No 9",
+      "url": "https://open.spotify.com/track/5QaW85KXBQv70x0k20mzse"
+    },
+    {
+      "album": {
+        "name": "Hits (Special Edition) [Remastered]",
+        "url": "https://open.spotify.com/album/56pj9rI4vQgyLsDQh4ocfd"
+      },
+      "artists": [
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388092,
+      "name": "Co-Co / Funny Funny / Poppa Joe - Remastered",
+      "url": "https://open.spotify.com/track/5VnqLeAjR7gpOe9jeC9Uq0"
+    },
+    {
+      "album": {
+        "name": "Clark (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt"
+      },
+      "artists": [
+        {
+          "name": "Mikael \u00c5kerfeldt",
+          "url": "https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153565,
+      "name": "Druglord Panic",
+      "url": "https://open.spotify.com/track/7tLx1Z9IhoIs900ZL7MauQ"
+    },
+    {
+      "album": {
+        "name": "Diamanter - 50-talet",
+        "url": "https://open.spotify.com/album/2UCWZMZzb1VdOIyqm1zgj9"
+      },
+      "artists": [
+        {
+          "name": "Stig Olin",
+          "url": "https://open.spotify.com/artist/002Km70IpHm8DmiiFWy6mv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "En g\u00e5ng jag seglar i hamn",
+      "url": "https://open.spotify.com/track/5gtZZga52R9mL53GZD2Rgr"
+    },
+    {
+      "album": {
+        "name": "Det b\u00e4sta med Snoddas",
+        "url": "https://open.spotify.com/album/2JxIMVtd4DLiCLXSeCii9N"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6sta \"Snoddas\" Nordgren",
+          "url": "https://open.spotify.com/artist/55Mv9PuCTRfExD5y0l4Hg1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143506,
+      "name": "Flottark\u00e4rlek",
+      "url": "https://open.spotify.com/track/1ox1GfZqd4IYjHkbpIAPwF"
+    },
+    {
+      "album": {
+        "name": "Siws b\u00e4sta",
+        "url": "https://open.spotify.com/album/7rCkwVnsrySVnacJiOEfmG"
+      },
+      "artists": [
+        {
+          "name": "Siw Malmkvist",
+          "url": "https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174826,
+      "name": "F\u00f6r\u00e4lskad i K\u00f6penhamn",
+      "url": "https://open.spotify.com/track/7BGKKUrF0WlgHXO5LsGtTA"
+    },
+    {
+      "album": {
+        "name": "Gr\u00f6na sm\u00e5 \u00e4pplen",
+        "url": "https://open.spotify.com/album/2LaTtgxHN1GgPAY6DiSvCI"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225213,
+      "name": "Gr\u00f6na sm\u00e5 \u00e4pplen",
+      "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2"
+    },
+    {
+      "album": {
+        "name": "Folktoner och visor p\u00e5 klassiskt vis",
+        "url": "https://open.spotify.com/album/1mPsSL1ujXhaPfa8Q8mtYl"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6teborgs Symfonietta",
+          "url": "https://open.spotify.com/artist/4nl9UTIL3ppsexgT6bAMuk"
+        },
+        {
+          "name": "Tomas Blank",
+          "url": "https://open.spotify.com/artist/5SSD0QKd5eTn5pnNInsipO"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104266,
+      "name": "G\u00e5ngl\u00e5t fr\u00e5n Mockfj\u00e4rd",
+      "url": "https://open.spotify.com/track/721bqy1Z2J4uGG3a0oZlKw"
+    },
+    {
+      "album": {
+        "name": "Deepest Purple (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4OjTMhCfhJHdUDdIT1wi6D"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253493,
+      "name": "Hush - 1998 Remix",
+      "url": "https://open.spotify.com/track/4sTUkIe8cha0RCcTKvfc2J"
+    },
+    {
+      "album": {
+        "name": "Musikens historia del I och II",
+        "url": "https://open.spotify.com/album/4gHcVYrYYQojElRfZglvHY"
+      },
+      "artists": [
+        {
+          "name": "Philemon Arthur & The Dung",
+          "url": "https://open.spotify.com/artist/5o1e7nzu4Jwk0NTnb4mSLc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "In kommer G\u00f6sta",
+      "url": "https://open.spotify.com/track/0XzEb0HDIaJ6b0SE0qAM63"
+    },
+    {
+      "album": {
+        "name": "En typisk rund LP med h\u00e5l i mitten",
+        "url": "https://open.spotify.com/album/53cTy0dZLxqWoZ13bnkGlP"
+      },
+      "artists": [
+        {
+          "name": "Robert Broberg",
+          "url": "https://open.spotify.com/artist/05JNHlwtdHqPJ6wcW7Mil5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Insidan av ditt l\u00e5r",
+      "url": "https://open.spotify.com/track/1Me15CdSWachkVw3meFVkr"
+    },
+    {
+      "album": {
+        "name": "Ted",
+        "url": "https://open.spotify.com/album/7pY0hwPU10gaH4qDsDFA6d"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "Jag ska f\u00e5nga en \u00e4ngel",
+      "url": "https://open.spotify.com/track/3No0idjeViPyWDP4gh1YGo"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1olabweZy11HNOJwtPAnxE"
+      },
+      "artists": [
+        {
+          "name": "Eilert Pilarm",
+          "url": "https://open.spotify.com/artist/7aS6aXw9eYfVQxCG1RcVEK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114973,
+      "name": "Jailhouse Rock",
+      "url": "https://open.spotify.com/track/1j6hcZQjMfJqGtRCAIjdzU"
+    },
+    {
+      "album": {
+        "name": "Kenta",
+        "url": "https://open.spotify.com/album/5bIPIDLNlvUWHOm6UhRxs8"
+      },
+      "artists": [
+        {
+          "name": "Kenta",
+          "url": "https://open.spotify.com/artist/432eI2RoKNEXW7EK2UON6R"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218066,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/4TBEx9Vq1TyuVoIope0DMK"
+    },
+    {
+      "album": {
+        "name": "40 \u00e5r 40 hits ett samlingsalbum 1972 - 2012",
+        "url": "https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167440,
+      "name": "Just nu",
+      "url": "https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha"
+    },
+    {
+      "album": {
+        "name": "Bamalama",
+        "url": "https://open.spotify.com/album/1ic2i2UYZaXvAje3ziS9Cf"
+      },
+      "artists": [
+        {
+          "name": "Pugh Rogefeldt",
+          "url": "https://open.spotify.com/artist/22Wo43V44RtrpJZsjeI9EA"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373120,
+      "name": "K\u00e4rleksmaskinen",
+      "url": "https://open.spotify.com/track/0skWmaUjgHrLikVEWCdqrq"
+    },
+    {
+      "album": {
+        "name": "Liebeskummer lohnt sich nicht",
+        "url": "https://open.spotify.com/album/5jVBh4qTcB9zR4s2Yc1md2"
+      },
+      "artists": [
+        {
+          "name": "Siw Malmkvist",
+          "url": "https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158927,
+      "name": "K\u00fcsse Nie Nach Mitternacht",
+      "url": "https://open.spotify.com/track/7sh5oYwMO2E4xFHAbZZUfL"
+    },
+    {
+      "album": {
+        "name": "Clark (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt"
+      },
+      "artists": [
+        {
+          "name": "Mikael \u00c5kerfeldt",
+          "url": "https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114535,
+      "name": "Libertine Theme",
+      "url": "https://open.spotify.com/track/7IaZcqXNOe05Ch3AsYWjPY"
+    },
+    {
+      "album": {
+        "name": "Ja d\u00e4 \u00e4 d\u00e4",
+        "url": "https://open.spotify.com/album/2cCdsdbWfcagJut7abW3VQ"
+      },
+      "artists": [
+        {
+          "name": "Pugh Rogefeldt",
+          "url": "https://open.spotify.com/artist/22Wo43V44RtrpJZsjeI9EA"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198813,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/06pCe1Y6j7kTi6tt2qeMP1"
+    },
+    {
+      "album": {
+        "name": "Lagt kort ligger",
+        "url": "https://open.spotify.com/album/1GZgxhSsOFJv5sjtkvwXp9"
+      },
+      "artists": [
+        {
+          "name": "John Holm",
+          "url": "https://open.spotify.com/artist/1xYf0lops0uJn50bkJIuSc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "Maria m\u00e5nga mil och \u00e5r fr\u00e5n h\u00e4r",
+      "url": "https://open.spotify.com/track/0tvmfizpckmVSoNyMdFF47"
+    },
+    {
+      "album": {
+        "name": "Schiffz",
+        "url": "https://open.spotify.com/album/5NrYkuEoZEu9QmxFQ0bV27"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Skifs",
+          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196013,
+      "name": "Michelangelo (Men s\u00e5 svara d\u00e5!)",
+      "url": "https://open.spotify.com/track/7aleO65wxmrijCugl55XJz"
+    },
+    {
+      "album": {
+        "name": "Oh Susie",
+        "url": "https://open.spotify.com/album/2MVezbRRXClx8TazgWOMyp"
+      },
+      "artists": [
+        {
+          "name": "Secret Service",
+          "url": "https://open.spotify.com/artist/3xmyGL7g6crcLsRy1TNOQU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "Oh Susie",
+      "url": "https://open.spotify.com/track/0KOJA1DduTrI2J1diwL0oy"
+    },
+    {
+      "album": {
+        "name": "40-B\u00e4sta",
+        "url": "https://open.spotify.com/album/6OsJmsxR7JQ9TN17YSyoOk"
+      },
+      "artists": [
+        {
+          "name": "Lill-Babs",
+          "url": "https://open.spotify.com/artist/1YlYLkI3GlVDFSQGjMXWbt"
+        },
+        {
+          "name": "Thore Skogman",
+          "url": "https://open.spotify.com/artist/6NTX7EIJQEEUMPIBdYpzhs"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116040,
+      "name": "Pop-opp-i-topp",
+      "url": "https://open.spotify.com/track/15derM2poWCHV692nc70C8"
+    },
+    {
+      "album": {
+        "name": "Till dom som bryr sig om",
+        "url": "https://open.spotify.com/album/0tb8Uh0pjw0DZzuKpeuK1w"
+      },
+      "artists": [
+        {
+          "name": "Kaj R. Hansson",
+          "url": "https://open.spotify.com/artist/2yIDJmczrgpaGjbqgFneTn"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302594,
+      "name": "Rastl\u00f6s",
+      "url": "https://open.spotify.com/track/0er97yIDQR84g1InwYoLVw"
+    },
+    {
+      "album": {
+        "name": "Clark (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt"
+      },
+      "artists": [
+        {
+          "name": "Mikael \u00c5kerfeldt",
+          "url": "https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156679,
+      "name": "Rockefellers",
+      "url": "https://open.spotify.com/track/2ow42ghaRWokt9hb3UdQSQ"
+    },
+    {
+      "album": {
+        "name": "Gunnar Wiklund sjunger Jim Reeves",
+        "url": "https://open.spotify.com/album/6ptoI0wS6x710Z0u9uDkqv"
+      },
+      "artists": [
+        {
+          "name": "Gunnar Wiklund",
+          "url": "https://open.spotify.com/artist/7DNQbLb6TYUiLL9QNOivtG"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138680,
+      "name": "Sexton ton",
+      "url": "https://open.spotify.com/track/4neu5mhZnC40l8SkdIGpjP"
+    },
+    {
+      "album": {
+        "name": "Livet \u00e4r en fest - En samling 1972-80",
+        "url": "https://open.spotify.com/album/3iOSyCmrXz33OrpCL9loF2"
+      },
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209053,
+      "name": "Speedy Gonzales",
+      "url": "https://open.spotify.com/track/3Fwt36x6g3nnxeBVqKZxtD"
+    },
+    {
+      "album": {
+        "name": "Clark (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt"
+      },
+      "artists": [
+        {
+          "name": "Mikael \u00c5kerfeldt",
+          "url": "https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108406,
+      "name": "Tango Bizarre",
+      "url": "https://open.spotify.com/track/0v7mAsTxd1tw7svs2OB8gn"
+    },
+    {
+      "album": {
+        "name": "Livet \u00e4r en fest - En samling 1972-80",
+        "url": "https://open.spotify.com/album/3iOSyCmrXz33OrpCL9loF2"
+      },
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "Ut i kylan",
+      "url": "https://open.spotify.com/track/49M8hUFEjINPrDJE4IltOq"
+    },
+    {
+      "album": {
+        "name": "32'29 minuter med Gunnar Wiklund",
+        "url": "https://open.spotify.com/album/36Wry8voFXZ0kxm965ncgj"
+      },
+      "artists": [
+        {
+          "name": "Gunnar Wiklund",
+          "url": "https://open.spotify.com/artist/7DNQbLb6TYUiLL9QNOivtG"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146653,
+      "name": "Vandra vidare",
+      "url": "https://open.spotify.com/track/59B9EFh2ghzRwUMU8Vmgvd"
+    },
+    {
+      "album": {
+        "name": "14 x Owe Th\u00f6rnqvist",
+        "url": "https://open.spotify.com/album/12Mrq9D1C77Sa1ZH2rAfGQ"
+      },
+      "artists": [
+        {
+          "name": "Owe Th\u00f6rnqvist",
+          "url": "https://open.spotify.com/artist/5gcvW6H0e7pudeOGevacuw"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114786,
+      "name": "Varm korv boogie",
+      "url": "https://open.spotify.com/track/2huvYgcL2c9ortiXWtHOIx"
+    },
+    {
+      "album": {
+        "name": "Nya sp\u00e5r",
+        "url": "https://open.spotify.com/album/7C5rqgDo1c0mwVL4lNw3Fz"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155946,
+      "name": "Vilken h\u00e4rlig dag",
+      "url": "https://open.spotify.com/track/0nk3h30DqVdMWMFC6B8FS6"
+    },
+    {
+      "album": {
+        "name": "Clark (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt"
+      },
+      "artists": [
+        {
+          "name": "Mikael \u00c5kerfeldt",
+          "url": "https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214442,
+      "name": "Vintage Modern",
+      "url": "https://open.spotify.com/track/5MGXK89VLqRsiOqJqKib2n"
+    },
+    {
+      "album": {
+        "name": "We Are All The Winners",
+        "url": "https://open.spotify.com/album/6rJtluOZr0nkPsSIzN07rb"
+      },
+      "artists": [
+        {
+          "name": "Nick Borgen",
+          "url": "https://open.spotify.com/artist/08xbQKOh6oLZVa7VoxuJzU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "We Are All The Winners",
+      "url": "https://open.spotify.com/track/7K4nPxmgWTNRBN0PnCmfV7"
+    },
+    {
+      "album": {
+        "name": "Clark (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/7mzvn5Ibx0QyAIvAbODGQt"
+      },
+      "artists": [
+        {
+          "name": "Mikael \u00c5kerfeldt",
+          "url": "https://open.spotify.com/artist/2B9AfTKnBclUFAnxS96Yan"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171397,
+      "name": "Wish You Were There",
+      "url": "https://open.spotify.com/track/3GbKaVG1TvnO7jMsAOjOem"
+    },
+    {
+      "album": {
+        "name": "Metronome-\u00e5ren 1951-1958",
+        "url": "https://open.spotify.com/album/5gvx8DvTtHYAcBKsoVO9H4"
+      },
+      "artists": [
+        {
+          "name": "Alice Babs och Staffan Broms",
+          "url": "https://open.spotify.com/artist/0MnZLXx0VCQ7nlNiHSefnU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149266,
+      "name": "Zing en liten zong",
+      "url": "https://open.spotify.com/track/4tCM9K49azlLeNDqQyGShL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXJ3uKRXjFdH"
 }

@@ -122,6 +122,24 @@
     {
       "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2020-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 302493,
+      "name": "Cruz de Navajas",
+      "url": "https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr"
+    },
+    {
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
       "artists": [
@@ -309,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "date_added": "2020-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "La ingrata",
+      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -374,7 +410,7 @@
       ],
       "date_added": "2020-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 168344,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N"
@@ -414,7 +450,7 @@
       ],
       "date_added": "2020-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": "2024-01-09",
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"

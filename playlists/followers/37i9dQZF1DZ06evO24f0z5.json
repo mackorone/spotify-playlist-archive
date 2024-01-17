@@ -1,584 +1,1143 @@
 {
-  "2022-05-26": 54509,
-  "2022-05-27": 54532,
-  "2022-05-28": 54562,
-  "2022-05-29": 54587,
-  "2022-05-30": 54605,
-  "2022-05-31": 54621,
-  "2022-06-01": 54680,
-  "2022-06-02": 54690,
-  "2022-06-03": 54728,
-  "2022-06-04": 54763,
-  "2022-06-05": 54784,
-  "2022-06-06": 54812,
-  "2022-06-07": 54848,
-  "2022-06-08": 54884,
-  "2022-06-09": 54916,
-  "2022-06-10": 54941,
-  "2022-06-11": 54973,
-  "2022-06-12": 55000,
-  "2022-06-13": 55019,
-  "2022-06-14": 55051,
-  "2022-06-15": 55082,
-  "2022-06-16": 55121,
-  "2022-06-17": 55141,
-  "2022-06-18": 55176,
-  "2022-06-19": 55216,
-  "2022-06-20": 55216,
-  "2022-06-21": 55243,
-  "2022-06-22": 55310,
-  "2022-06-23": 55310,
-  "2022-06-24": 55349,
-  "2022-06-25": 55378,
-  "2022-06-26": 55402,
-  "2022-06-27": 55426,
-  "2022-06-28": 55442,
-  "2022-06-29": 55482,
-  "2022-06-30": 55520,
-  "2022-07-01": 55547,
-  "2022-07-02": 55580,
-  "2022-07-03": 55615,
-  "2022-07-04": 55629,
-  "2022-07-05": 55629,
-  "2022-07-06": 55629,
-  "2022-07-07": 55717,
-  "2022-07-08": 55753,
-  "2022-07-09": 55775,
-  "2022-07-10": 55800,
-  "2022-07-11": 55818,
-  "2022-07-12": 55842,
-  "2022-07-13": 55879,
-  "2022-07-14": 55909,
-  "2022-07-15": 55950,
-  "2022-07-16": 55981,
-  "2022-07-17": 56012,
-  "2022-07-18": 56050,
-  "2022-07-19": 56073,
-  "2022-07-20": 56113,
-  "2022-07-21": 56146,
-  "2022-07-22": 56184,
-  "2022-07-23": 56231,
-  "2022-07-24": 56269,
-  "2022-07-25": 56288,
-  "2022-07-26": 56321,
-  "2022-07-27": 56347,
-  "2022-07-28": 56385,
-  "2022-07-29": 56421,
-  "2022-07-30": 56519,
-  "2022-07-31": 56519,
-  "2022-08-01": 56562,
-  "2022-08-02": 56617,
-  "2022-08-03": 56617,
-  "2022-08-04": 56649,
-  "2022-08-05": 56699,
-  "2022-08-06": 56731,
-  "2022-08-07": 56757,
-  "2022-08-08": 56780,
-  "2022-08-09": 56801,
-  "2022-08-10": 56829,
-  "2022-08-11": 56868,
-  "2022-08-12": 56893,
-  "2022-08-13": 56915,
-  "2022-08-14": 56942,
-  "2022-08-15": 56963,
-  "2022-08-16": 56989,
-  "2022-08-17": 57030,
-  "2022-08-18": 57052,
-  "2022-08-19": 57077,
-  "2022-08-20": 57111,
-  "2022-08-21": 57145,
-  "2022-08-22": 57168,
-  "2022-08-23": 57196,
-  "2022-08-24": 57234,
-  "2022-08-25": 57282,
-  "2022-08-26": 57320,
-  "2022-08-27": 57352,
-  "2022-08-28": 57390,
-  "2022-08-29": 57413,
-  "2022-08-30": 57440,
-  "2022-08-31": 57474,
-  "2022-09-01": 57516,
-  "2022-09-02": 57551,
-  "2022-09-03": 57580,
-  "2022-09-04": 57603,
-  "2022-09-05": 57630,
-  "2022-09-06": 57646,
-  "2022-09-07": 57692,
-  "2022-09-09": 57766,
-  "2022-09-10": 57795,
-  "2022-09-11": 57818,
-  "2022-09-12": 57841,
-  "2022-09-13": 57866,
-  "2022-09-15": 57935,
-  "2022-09-16": 57967,
-  "2022-09-17": 57996,
-  "2022-09-18": 58026,
-  "2022-09-19": 58058,
-  "2022-09-20": 58102,
-  "2022-09-21": 58120,
-  "2022-09-22": 58161,
-  "2022-09-23": 58183,
-  "2022-09-24": 58183,
-  "2022-09-25": 58250,
-  "2022-09-26": 58274,
-  "2022-09-27": 58306,
-  "2022-09-28": 58338,
-  "2022-09-29": 58384,
-  "2022-09-30": 58412,
-  "2022-10-01": 58458,
-  "2022-10-02": 58493,
-  "2022-10-03": 58523,
-  "2022-10-04": 58538,
-  "2022-10-05": 58561,
-  "2022-10-06": 58595,
-  "2022-10-07": 58613,
-  "2022-10-08": 58646,
-  "2022-10-09": 58700,
-  "2022-10-10": 58703,
-  "2022-10-11": 58732,
-  "2022-10-12": 58770,
-  "2022-10-13": 58795,
-  "2022-10-14": 58838,
-  "2022-10-15": 58872,
-  "2022-10-16": 58901,
-  "2022-10-17": 58934,
-  "2022-10-18": 58977,
-  "2022-10-19": 59021,
-  "2022-10-20": 59070,
-  "2022-10-21": 59129,
-  "2022-10-22": 59173,
-  "2022-10-23": 59204,
-  "2022-10-24": 59230,
-  "2022-10-25": 59251,
-  "2022-10-26": 59301,
-  "2022-10-27": 59343,
-  "2022-10-28": 59396,
-  "2022-10-29": 59439,
-  "2022-10-30": 59481,
-  "2022-10-31": 59506,
-  "2022-11-01": 59543,
-  "2022-11-02": 59566,
-  "2022-11-03": 59595,
-  "2022-11-04": 59646,
-  "2022-11-05": 59681,
-  "2022-11-06": 59712,
-  "2022-11-07": 59736,
-  "2022-11-08": 59776,
-  "2022-11-09": 59816,
-  "2022-11-10": 59846,
-  "2022-11-11": 59894,
-  "2022-11-12": 59936,
-  "2022-11-13": 59953,
-  "2022-11-14": 59980,
-  "2022-11-15": 60014,
-  "2022-11-16": 60047,
-  "2022-11-17": 60082,
-  "2022-11-18": 60098,
-  "2022-11-19": 60102,
-  "2022-11-20": 60126,
-  "2022-11-21": 60160,
-  "2022-11-22": 60182,
-  "2022-11-23": 60210,
-  "2022-11-24": 60269,
-  "2022-11-25": 60319,
-  "2022-11-26": 60375,
-  "2022-11-27": 60400,
-  "2022-11-28": 60424,
-  "2022-11-29": 60457,
-  "2022-11-30": 60516,
-  "2022-12-01": 60558,
-  "2022-12-02": 60573,
-  "2022-12-03": 60627,
-  "2022-12-04": 60671,
-  "2022-12-05": 60700,
-  "2022-12-06": 60726,
-  "2022-12-07": 60751,
-  "2022-12-08": 60799,
-  "2022-12-09": 60830,
-  "2022-12-10": 60857,
-  "2022-12-11": 60890,
-  "2022-12-12": 60910,
-  "2022-12-13": 60942,
-  "2022-12-14": 60983,
-  "2022-12-15": 61018,
-  "2022-12-16": 61054,
-  "2022-12-17": 61088,
-  "2022-12-18": 61115,
-  "2022-12-19": 61130,
-  "2022-12-20": 61178,
-  "2022-12-21": 61178,
-  "2022-12-22": 61218,
-  "2022-12-24": 61286,
-  "2022-12-25": 61312,
-  "2022-12-26": 61334,
-  "2022-12-27": 61363,
-  "2022-12-28": 61396,
-  "2022-12-29": 61426,
-  "2022-12-30": 61454,
-  "2022-12-31": 61488,
-  "2023-01-01": 61528,
-  "2023-01-02": 61544,
-  "2023-01-03": 61583,
-  "2023-01-04": 61609,
-  "2023-01-05": 61649,
-  "2023-01-06": 61750,
-  "2023-01-07": 61882,
-  "2023-01-08": 61897,
-  "2023-01-09": 61946,
-  "2023-01-10": 62000,
-  "2023-01-11": 62035,
-  "2023-01-12": 62083,
-  "2023-01-13": 62131,
-  "2023-01-14": 62204,
-  "2023-01-15": 62214,
-  "2023-01-16": 62251,
-  "2023-01-17": 62289,
-  "2023-01-18": 62338,
-  "2023-01-19": 62383,
-  "2023-01-20": 62419,
-  "2023-01-21": 62469,
-  "2023-01-22": 62510,
-  "2023-01-23": 62551,
-  "2023-01-24": 62599,
-  "2023-01-25": 62648,
-  "2023-01-26": 62698,
-  "2023-01-27": 62741,
-  "2023-01-28": 62796,
-  "2023-01-29": 62835,
-  "2023-01-30": 62872,
-  "2023-01-31": 62872,
-  "2023-02-01": 62953,
-  "2023-02-02": 63001,
-  "2023-02-03": 63052,
-  "2023-02-04": 63091,
-  "2023-02-05": 63133,
-  "2023-02-06": 63170,
-  "2023-02-07": 63213,
-  "2023-02-08": 63320,
-  "2023-02-09": 63320,
-  "2023-02-10": 63376,
-  "2023-02-11": 63401,
-  "2023-02-12": 63472,
-  "2023-02-13": 63506,
-  "2023-02-14": 63506,
-  "2023-02-15": 63541,
-  "2023-02-16": 63578,
-  "2023-02-17": 63623,
-  "2023-02-18": 63719,
-  "2023-02-19": 63728,
-  "2023-02-20": 63751,
-  "2023-02-21": 63789,
-  "2023-02-22": 63834,
-  "2023-02-23": 63867,
-  "2023-02-24": 63913,
-  "2023-02-25": 63972,
-  "2023-02-26": 63995,
-  "2023-02-27": 64069,
-  "2023-02-28": 64069,
-  "2023-03-01": 64112,
-  "2023-03-02": 64167,
-  "2023-03-03": 64217,
-  "2023-03-04": 64261,
-  "2023-03-05": 64342,
-  "2023-03-06": 64342,
-  "2023-03-07": 64383,
-  "2023-03-08": 64431,
-  "2023-03-09": 64475,
-  "2023-03-10": 64508,
-  "2023-03-11": 64543,
-  "2023-03-12": 64577,
-  "2023-03-13": 64606,
-  "2023-03-14": 64640,
-  "2023-03-15": 64686,
-  "2023-03-16": 64686,
-  "2023-03-17": 64686,
-  "2023-03-18": 64809,
-  "2023-03-19": 64809,
-  "2023-03-20": 64898,
-  "2023-03-21": 64934,
-  "2023-03-22": 64988,
-  "2023-03-23": 65039,
-  "2023-03-24": 65039,
-  "2023-03-25": 65125,
-  "2023-03-26": 65152,
-  "2023-03-27": 65177,
-  "2023-03-28": 65219,
-  "2023-03-29": 65266,
-  "2023-03-30": 65371,
-  "2023-03-31": 65371,
-  "2023-04-01": 65412,
-  "2023-04-02": 65462,
-  "2023-04-03": 65486,
-  "2023-04-04": 65519,
-  "2023-04-05": 65555,
-  "2023-04-06": 65600,
-  "2023-04-07": 65637,
-  "2023-04-09": 65708,
-  "2023-04-10": 65741,
-  "2023-04-11": 65814,
-  "2023-04-12": 65814,
-  "2023-04-13": 65851,
-  "2023-04-14": 65903,
-  "2023-04-15": 65931,
-  "2023-04-16": 65953,
-  "2023-04-17": 65991,
-  "2023-04-18": 66035,
-  "2023-04-19": 66068,
-  "2023-04-20": 66104,
-  "2023-04-21": 66152,
-  "2023-04-22": 66198,
-  "2023-04-23": 66245,
-  "2023-04-24": 66271,
-  "2023-04-25": 66307,
-  "2023-04-26": 66361,
-  "2023-04-27": 66405,
-  "2023-04-28": 66448,
-  "2023-04-29": 66495,
-  "2023-04-30": 66532,
-  "2023-05-01": 66562,
-  "2023-05-02": 66594,
-  "2023-05-03": 66639,
-  "2023-05-04": 66681,
-  "2023-05-05": 66724,
-  "2023-05-06": 66756,
-  "2023-05-07": 66803,
-  "2023-05-08": 66830,
-  "2023-05-09": 66870,
-  "2023-05-10": 66916,
-  "2023-05-11": 66963,
-  "2023-05-12": 67000,
-  "2023-05-13": 67043,
-  "2023-05-14": 67090,
-  "2023-05-15": 67127,
-  "2023-05-16": 67161,
-  "2023-05-17": 67200,
-  "2023-05-18": 67244,
-  "2023-05-19": 67273,
-  "2023-05-20": 67353,
-  "2023-05-21": 67353,
-  "2023-05-22": 67353,
-  "2023-05-23": 67417,
-  "2023-05-24": 67496,
-  "2023-05-25": 67511,
-  "2023-05-26": 67556,
-  "2023-05-27": 67588,
-  "2023-05-28": 67626,
-  "2023-05-29": 67626,
-  "2023-05-30": 67676,
-  "2023-05-31": 67719,
-  "2023-06-01": 67766,
-  "2023-06-02": 67806,
-  "2023-06-03": 67859,
-  "2023-06-04": 67900,
-  "2023-06-05": 67939,
-  "2023-06-06": 67978,
-  "2023-06-07": 68027,
-  "2023-06-08": 68075,
-  "2023-06-09": 68119,
-  "2023-06-10": 68158,
-  "2023-06-11": 68191,
-  "2023-06-12": 68215,
-  "2023-06-13": 68239,
-  "2023-06-14": 68271,
-  "2023-06-15": 68308,
-  "2023-06-16": 68355,
-  "2023-06-17": 68402,
-  "2023-06-18": 68446,
-  "2023-06-19": 68472,
-  "2023-06-20": 68513,
-  "2023-06-21": 68539,
-  "2023-06-22": 68569,
-  "2023-06-23": 68611,
-  "2023-06-24": 68659,
-  "2023-06-25": 68696,
-  "2023-06-26": 68750,
-  "2023-06-27": 68793,
-  "2023-06-28": 68855,
-  "2023-06-29": 68909,
-  "2023-06-30": 68953,
-  "2023-07-01": 69044,
-  "2023-07-02": 69044,
-  "2023-07-03": 69076,
-  "2023-07-04": 69110,
-  "2023-07-05": 69154,
-  "2023-07-06": 69237,
-  "2023-07-07": 69237,
-  "2023-07-08": 69237,
-  "2023-07-09": 69305,
-  "2023-07-10": 69327,
-  "2023-07-11": 69370,
-  "2023-07-12": 69412,
-  "2023-07-13": 69464,
-  "2023-07-14": 69501,
-  "2023-07-15": 69527,
-  "2023-07-16": 69581,
-  "2023-07-17": 69623,
-  "2023-07-18": 69667,
-  "2023-07-19": 69711,
-  "2023-07-20": 69748,
-  "2023-07-21": 69798,
-  "2023-07-22": 69842,
-  "2023-07-23": 69892,
-  "2023-07-24": 69925,
-  "2023-07-25": 69964,
-  "2023-07-26": 70000,
-  "2023-07-27": 70036,
-  "2023-07-28": 70076,
-  "2023-07-29": 70117,
-  "2023-07-30": 70159,
-  "2023-07-31": 70186,
-  "2023-08-01": 70227,
-  "2023-08-02": 70268,
-  "2023-08-03": 70314,
-  "2023-08-04": 70368,
-  "2023-08-05": 70414,
-  "2023-08-06": 70474,
-  "2023-08-07": 70474,
-  "2023-08-08": 70511,
-  "2023-08-09": 70558,
-  "2023-08-10": 70597,
-  "2023-08-11": 70634,
-  "2023-08-12": 70634,
-  "2023-08-13": 70634,
-  "2023-08-14": 70757,
-  "2023-08-15": 70757,
-  "2023-08-16": 70757,
-  "2023-08-17": 70757,
-  "2023-08-18": 70757,
-  "2023-08-19": 70757,
-  "2023-08-20": 71030,
-  "2023-08-21": 71030,
-  "2023-08-22": 71108,
-  "2023-08-23": 71108,
-  "2023-08-24": 71108,
-  "2023-08-25": 71108,
-  "2023-08-26": 71284,
-  "2023-08-27": 71284,
-  "2023-08-28": 71328,
-  "2023-08-29": 71328,
-  "2023-08-30": 71328,
-  "2023-08-31": 71439,
-  "2023-09-01": 71478,
-  "2023-09-02": 71478,
-  "2023-09-03": 71560,
-  "2023-09-04": 71560,
-  "2023-09-05": 71560,
-  "2023-09-06": 71680,
-  "2023-09-07": 71680,
-  "2023-09-08": 71680,
-  "2023-09-09": 71680,
-  "2023-09-10": 71859,
-  "2023-09-11": 71859,
-  "2023-09-12": 71859,
-  "2023-09-13": 71981,
-  "2023-09-14": 71981,
-  "2023-09-15": 71981,
-  "2023-09-16": 72108,
-  "2023-09-17": 72108,
-  "2023-09-18": 72108,
-  "2023-09-19": 72217,
-  "2023-09-20": 72217,
-  "2023-09-21": 72217,
-  "2023-09-22": 72325,
-  "2023-09-23": 72325,
-  "2023-09-24": 72325,
-  "2023-09-25": 72325,
-  "2023-09-26": 72450,
-  "2023-09-27": 72450,
-  "2023-09-28": 72450,
-  "2023-09-29": 72450,
-  "2023-09-30": 72450,
-  "2023-10-01": 72450,
-  "2023-10-02": 72450,
-  "2023-10-03": 72450,
-  "2023-10-04": 72450,
-  "2023-10-05": 72752,
-  "2023-10-06": 72752,
-  "2023-10-07": 72752,
-  "2023-10-08": 72752,
-  "2023-10-09": 72752,
-  "2023-10-10": 72752,
-  "2023-10-11": 72912,
-  "2023-10-12": 72912,
-  "2023-10-13": 72912,
-  "2023-10-14": 72912,
-  "2023-10-15": 72912,
-  "2023-10-16": 72912,
-  "2023-10-17": 72912,
-  "2023-10-18": 72912,
-  "2023-10-19": 72912,
-  "2023-10-20": 72912,
-  "2023-10-21": 72912,
-  "2023-10-22": 72912,
-  "2023-10-23": 72912,
-  "2023-10-24": 72912,
-  "2023-10-25": 72912,
-  "2023-10-26": 72912,
-  "2023-10-27": 72912,
-  "2023-10-28": 72912,
-  "2023-10-29": 72912,
-  "2023-10-30": 72912,
-  "2023-10-31": 72912,
-  "2023-11-01": 72912,
-  "2023-11-02": 72912,
-  "2023-11-03": 72912,
-  "2023-11-04": 72912,
-  "2023-11-05": 72912,
-  "2023-11-06": 72912,
-  "2023-11-07": 72912,
-  "2023-11-08": 72912,
-  "2023-11-09": 72912,
-  "2023-11-10": 72912,
-  "2023-11-11": 73958,
-  "2023-11-12": 73958,
-  "2023-11-13": 73958,
-  "2023-11-14": 73958,
-  "2023-11-15": 73958,
-  "2023-11-16": 73958,
-  "2023-11-17": 73958,
-  "2023-11-18": 73958,
-  "2023-11-19": 73958,
-  "2023-11-20": 73958,
-  "2023-11-21": 73958,
-  "2023-11-22": 73958,
-  "2023-11-23": 73958,
-  "2023-11-24": 73958,
-  "2023-11-25": 73958,
-  "2023-11-26": 73958,
-  "2023-11-27": 73958,
-  "2023-11-28": 73958,
-  "2023-11-29": 73958,
-  "2023-11-30": 73958,
-  "2023-12-01": 73958,
-  "2023-12-02": 73958,
-  "2023-12-03": 73958,
-  "2023-12-04": 73958,
-  "2023-12-05": 73958,
-  "2023-12-06": 73958,
-  "2023-12-07": 73958,
-  "2023-12-08": 73958,
-  "2023-12-09": 73958,
-  "2023-12-10": 73958,
-  "2023-12-11": 73958,
-  "2023-12-12": 73958,
-  "2023-12-13": 73958,
-  "2023-12-14": 74992,
-  "2023-12-15": 75010,
-  "2023-12-16": 75057,
-  "2023-12-17": 75096,
-  "2023-12-18": 75128,
-  "2023-12-19": 75148,
-  "2023-12-20": 75177,
-  "2023-12-21": 75226,
-  "2023-12-22": 75249,
-  "2023-12-23": 75272,
-  "2023-12-24": 75313,
-  "2023-12-25": 75331,
-  "2023-12-26": 75339,
-  "2023-12-27": 75368,
-  "2023-12-30": 75463,
-  "2023-12-31": 75487,
-  "2024-01-01": 75518,
-  "2024-01-02": 75540,
-  "2024-01-03": 75565
+  "2024-01-17": 75865,
+  "date_first_scraped": "2022-05-26",
+  "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
+  "name": "This Is Zona Ganjah",
+  "tracks": [
+    {
+      "album": {
+        "name": "La B\u00fasqueda",
+        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "Algo mejor - Remastered",
+      "url": "https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx"
+    },
+    {
+      "album": {
+        "name": "La B\u00fasqueda",
+        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192882,
+      "name": "Alg\u00fan d\u00eda aprender\u00e9",
+      "url": "https://open.spotify.com/track/7ot3bEbYib3xXoMsycC2bU"
+    },
+    {
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317465,
+      "name": "Amar es mas",
+      "url": "https://open.spotify.com/track/2cQ08rh5IycjZ7XDcNizls"
+    },
+    {
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198855,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/5wleH1Q7TtVP81uDoCztKd"
+    },
+    {
+      "album": {
+        "name": "En Alabanza y Gracia",
+        "url": "https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191586,
+      "name": "Bendita",
+      "url": "https://open.spotify.com/track/6KEplTCsOOfPbnGMR6DyB6"
+    },
+    {
+      "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251640,
+      "name": "Buscar estar",
+      "url": "https://open.spotify.com/track/2SbiOwjYdEwPDvGdI9glxW"
+    },
+    {
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158113,
+      "name": "Busc\u00e1ndote",
+      "url": "https://open.spotify.com/track/0MZ8BVLMsfmzN5UUmqvtqX"
+    },
+    {
+      "album": {
+        "name": "Mas alla de la zona",
+        "url": "https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205750,
+      "name": "Cada quien",
+      "url": "https://open.spotify.com/track/7rD8eGGIOy2G5yxWlmiQH3"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 213453,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/4QrpejsTZZ17A9wbpct57e"
+    },
+    {
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 199699,
+      "name": "Caminos de la mente",
+      "url": "https://open.spotify.com/track/3DCHL7XQLzhlygfCZ4NtUt"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302386,
+      "name": "Cerca del r\u00edo",
+      "url": "https://open.spotify.com/track/5mzjAGV0xeLAQj6fFQUrVO"
+    },
+    {
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 488841,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/4pciFlNvRhxBMYGCgYRZeT"
+    },
+    {
+      "album": {
+        "name": "Con Rastafari Todo Concuerda",
+        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226413,
+      "name": "Con el diablo al lado",
+      "url": "https://open.spotify.com/track/6ISRzeO8GUnds3fdZuiPUj"
+    },
+    {
+      "album": {
+        "name": "En Alabanza y Gracia",
+        "url": "https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226640,
+      "name": "Con tanto amor",
+      "url": "https://open.spotify.com/track/3rFpPKZktSd0uvOdzEXyLv"
+    },
+    {
+      "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265546,
+      "name": "Conquista",
+      "url": "https://open.spotify.com/track/17sW761x3jqh4xrgGzVGbt"
+    },
+    {
+      "album": {
+        "name": "Cuanto Heredamos",
+        "url": "https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208596,
+      "name": "Cuanto Heredamos",
+      "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "De la Tierra Crece",
+      "url": "https://open.spotify.com/track/7nNhXCXJpRm9GWmeQJ6LwR"
+    },
+    {
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207943,
+      "name": "Dentro de mi",
+      "url": "https://open.spotify.com/track/1fCSgjSMIr8ZClzLIbGBHg"
+    },
+    {
+      "album": {
+        "name": "Con Rastafari Todo Concuerda",
+        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 218760,
+      "name": "Dicen y dicen",
+      "url": "https://open.spotify.com/track/6c2IWkxfyvAO1HO21AxbSI"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "Dos que Brillamos",
+      "url": "https://open.spotify.com/track/3g6a9iLkuWfUnqD7bslHC4"
+    },
+    {
+      "album": {
+        "name": "En Alabanza y Gracia",
+        "url": "https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 209960,
+      "name": "En la naturaleza",
+      "url": "https://open.spotify.com/track/7KM07uVWpOtSqwzvZfgZ73"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256665,
+      "name": "En Zion mi anhelo",
+      "url": "https://open.spotify.com/track/2DtKSErB8T984w0XGfSGIr"
+    },
+    {
+      "album": {
+        "name": "Con Rastafari Todo Concuerda",
+        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Es Ignorancia",
+      "url": "https://open.spotify.com/track/2VpS3jSmRQRx8jprvjz9qM"
+    },
+    {
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183103,
+      "name": "Esa luz",
+      "url": "https://open.spotify.com/track/7oybXXuWUzWRZ7SP9swASq"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334946,
+      "name": "Estoy bien",
+      "url": "https://open.spotify.com/track/3t6qVkQq25yy44BjjsMbUD"
+    },
+    {
+      "album": {
+        "name": "La B\u00fasqueda",
+        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Expandiendo fuera de mi",
+      "url": "https://open.spotify.com/track/66QJl19thUEzJORuX01lCV"
+    },
+    {
+      "album": {
+        "name": "Con Rastafari Todo Concuerda",
+        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241066,
+      "name": "Fuma del humo y sana",
+      "url": "https://open.spotify.com/track/5EmRwcbzzhuB2OpHizoSPz"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "Fumando Vamos a Casa",
+      "url": "https://open.spotify.com/track/4O8jfikpUqtZvWV7PAUwTv"
+    },
+    {
+      "album": {
+        "name": "En Alabanza y Gracia",
+        "url": "https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247053,
+      "name": "Guerrero de Jah",
+      "url": "https://open.spotify.com/track/4oaBALjaRWh6rNotIWyHSH"
+    },
+    {
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 202369,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/65NZr3FVk21eV5KSeS0g65"
+    },
+    {
+      "album": {
+        "name": "La B\u00fasqueda",
+        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224597,
+      "name": "Inconmensurable",
+      "url": "https://open.spotify.com/track/42iZRiHTAXU0LFMzIgPLSc"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Inescriptible sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/2U8IkNoq1MhpS13YlJ80ri"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195040,
+      "name": "Irie",
+      "url": "https://open.spotify.com/track/6AfJLMn5KquPoEfybycZ4J"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 242000,
+      "name": "Jah es bendici\u00f3n",
+      "url": "https://open.spotify.com/track/6rPJMTrXmALWSoZVOeygC5"
+    },
+    {
+      "album": {
+        "name": "Mas alla de la zona",
+        "url": "https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Juicio",
+      "url": "https://open.spotify.com/track/4o9ZnWYtZg2vPh6GT0tjT6"
+    },
+    {
+      "album": {
+        "name": "La vida",
+        "url": "https://open.spotify.com/album/1n6Ab0Qnl5nKt2MJfzeq8n"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-14",
+      "duration_ms": 231000,
+      "name": "La vida",
+      "url": "https://open.spotify.com/track/4Zsd5tcOdGhabgr3CUKDHA"
+    },
+    {
+      "album": {
+        "name": "Cristal 9",
+        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "La vida - Remastered",
+      "url": "https://open.spotify.com/track/4uG1CIuJ6uG6bWh6VMYlaF"
+    },
+    {
+      "album": {
+        "name": "La B\u00fasqueda",
+        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Laberinto interno",
+      "url": "https://open.spotify.com/track/4W5AGY6yA6jQb8UiHQpJD0"
+    },
+    {
+      "album": {
+        "name": "En Alabanza y Gracia",
+        "url": "https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250186,
+      "name": "Liberame",
+      "url": "https://open.spotify.com/track/7BuIXkMWLEumdFEEKngFXK"
+    },
+    {
+      "album": {
+        "name": "Mas alla de la zona",
+        "url": "https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "Libre te hara",
+      "url": "https://open.spotify.com/track/05FonB4ghTXAkpuogIzdhz"
+    },
+    {
+      "album": {
+        "name": "La B\u00fasqueda",
+        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 200000,
+      "name": "Lo importante",
+      "url": "https://open.spotify.com/track/6aTyDIjOo0oP4zCWTvITBP"
+    },
+    {
+      "album": {
+        "name": "Con Rastafari Todo Concuerda",
+        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Luces de la ciudad",
+      "url": "https://open.spotify.com/track/3zznC4iFBLSBcPFg1R0Adk"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 218600,
+      "name": "Me levante",
+      "url": "https://open.spotify.com/track/7bx8WLFijf42bIDJ7jJQy6"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162866,
+      "name": "M\u00fasica consciente",
+      "url": "https://open.spotify.com/track/5QDBaPPTjNuNwRrRA86Yi1"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288261,
+      "name": "Ninguna como ella",
+      "url": "https://open.spotify.com/track/18FaacFipwJJzBQaH9M4XM"
+    },
+    {
+      "album": {
+        "name": "En Alabanza y Gracia",
+        "url": "https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238013,
+      "name": "No estes triste",
+      "url": "https://open.spotify.com/track/2bAE47QK208a6EAv8YIUIf"
+    },
+    {
+      "album": {
+        "name": "La B\u00fasqueda",
+        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 180447,
+      "name": "No existen fronteras",
+      "url": "https://open.spotify.com/track/16bxK01sjphWvfyqX6x19L"
+    },
+    {
+      "album": {
+        "name": "Con Rastafari Todo Concuerda",
+        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 170506,
+      "name": "No m\u00e1s guerra",
+      "url": "https://open.spotify.com/track/2Lc8L8AgySC2tFfNIjDSji"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162853,
+      "name": "Por lo que obtuve",
+      "url": "https://open.spotify.com/track/01ernt9QunzqmKMegy3EQh"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260746,
+      "name": "Qu\u00e9 pasa contigo",
+      "url": "https://open.spotify.com/track/4HkR0w45bfzE8ueycZMhCG"
+    },
+    {
+      "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Rasta es",
+      "url": "https://open.spotify.com/track/79xm3eDXWsx3qgzljMjSnO"
+    },
+    {
+      "album": {
+        "name": "Mas alla de la zona",
+        "url": "https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 258375,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/3C3CL3eXVfBHsF5QfhzY03"
+    },
+    {
+      "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260532,
+      "name": "Se",
+      "url": "https://open.spotify.com/track/42sqXlSW3RaektIl6HrFu4"
+    },
+    {
+      "album": {
+        "name": "Mas alla de la zona",
+        "url": "https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289375,
+      "name": "Seguir\u00e9 Avanzando",
+      "url": "https://open.spotify.com/track/1F518frrGW0CuWmewWeVKk"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189866,
+      "name": "Somos R",
+      "url": "https://open.spotify.com/track/69N8sDFDYqlJxAIjlNIQbt"
+    },
+    {
+      "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196106,
+      "name": "Ten panciencia",
+      "url": "https://open.spotify.com/track/6yT0nthfc9qCCDgoH2raqU"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Todo comenz\u00f3",
+      "url": "https://open.spotify.com/track/4TEERAyxacIcXGaEinMEco"
+    },
+    {
+      "album": {
+        "name": "En Alabanza y Gracia",
+        "url": "https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "Todo Cuadra",
+      "url": "https://open.spotify.com/track/0humo0il6SEZs9uI4RS76H"
+    },
+    {
+      "album": {
+        "name": "Mas alla de la zona",
+        "url": "https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/5qj8urZqcDT5k0ZvaLBRrp"
+    },
+    {
+      "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372933,
+      "name": "Un nuevo d\u00eda",
+      "url": "https://open.spotify.com/track/0Xj4EqRWzMuTMvd0K6i9uq"
+    },
+    {
+      "album": {
+        "name": "Con Rastafari Todo Concuerda",
+        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259560,
+      "name": "Vibra Positiva",
+      "url": "https://open.spotify.com/track/6srdU7rKLC5DOuVBWDpmyD"
+    },
+    {
+      "album": {
+        "name": "Mas alla de la zona",
+        "url": "https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Vivo feliz",
+      "url": "https://open.spotify.com/track/7erjjvDimUHHNM0m9fYrSh"
+    },
+    {
+      "album": {
+        "name": "Sanazion",
+        "url": "https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208906,
+      "name": "Y mi coraz\u00f3n contento",
+      "url": "https://open.spotify.com/track/3FUhe43n5NShAfvPWSyPxE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO24f0z5"
 }

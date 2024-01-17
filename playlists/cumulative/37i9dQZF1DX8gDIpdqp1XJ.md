@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-935 songs - 2 day 13 hr 15 min
+936 songs - 2 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,6 +539,7 @@
 | [Multi\-Love](https://open.spotify.com/track/49UBmvRSxLa2Oq6HkYKovK) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/5lpGL8J316a8WdUtnIkrQu) | 4:10 | 2021-04-02 | 2022-07-11 |
 | [Murphy's Law](https://open.spotify.com/track/1nPercWuuhmchDfb4fsoFK) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Murphy's Law](https://open.spotify.com/album/1o8zBVgJK6gM8Tfpkydb3e) | 3:12 | 2024-01-02 |  |
 | [Mushroom Cloud](https://open.spotify.com/track/4CBdk3m49AsxYeRwPwQAFI) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Must Be a Dream](https://open.spotify.com/album/5zGfpfO04UiTB9g73oFi5F) | 4:18 | 2022-04-20 | 2022-10-26 |
+| [My Best Friend](https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [My Best Friend](https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba) | 3:16 | 2024-01-12 |  |
 | [My Funny Serpentine](https://open.spotify.com/track/1kdi05AbQ5etXv9PtfMpV3) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9 \(Deluxe Edition\)](https://open.spotify.com/album/1OPNyMf1xQGDLE1PEwdkgs) | 3:34 | 2022-05-20 | 2022-07-03 |
 | [My Girls](https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan) | 5:40 | 2022-07-11 | 2022-10-29 |
 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 | 2023-07-07 |  |
@@ -774,7 +775,7 @@
 | [Synthetic Romance](https://open.spotify.com/track/6UkjGT40uDh1RrEzRSSIm9) | [Cullen Omori](https://open.spotify.com/artist/0P0xfWeg32j9iUTHCullrj) | [New Misery](https://open.spotify.com/album/4voLdwuVKjqm7JAi7GNh1k) | 3:22 | 2021-04-02 | 2022-04-18 |
 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 | 2023-03-06 | 2023-11-18 |
 | [Taba](https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Pilar Pascual](https://open.spotify.com/artist/2I9yXr9A6I4IMV6aywoQf7) | [Taba](https://open.spotify.com/album/0RihlpLdBDnr3T9LApYotO) | 3:13 | 2021-10-08 | 2022-04-14 |
-| [Tabadaboum](https://open.spotify.com/track/7qzj5s3D7Vo0FlEPqPOrD3) | [Japanese Television](https://open.spotify.com/artist/5LLn18vxU1UTY1ypouVGNW) | [Tabadaboum](https://open.spotify.com/album/0ajc0Cy1f3XqMxLojKZY1l) | 3:32 | 2023-11-17 |  |
+| [Tabadaboum](https://open.spotify.com/track/7qzj5s3D7Vo0FlEPqPOrD3) | [Japanese Television](https://open.spotify.com/artist/5LLn18vxU1UTY1ypouVGNW) | [Tabadaboum](https://open.spotify.com/album/0ajc0Cy1f3XqMxLojKZY1l) | 3:32 | 2023-11-17 | 2024-01-13 |
 | [Table for Two](https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa) | 3:22 | 2021-04-02 | 2022-10-14 |
 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 | 2022-10-24 | 2023-03-07 |
 | [Take](https://open.spotify.com/track/1a47TGHdpraBmuMkoVSiTF) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Take](https://open.spotify.com/album/13hfnOETzKRNERgshH3m0G) | 3:39 | 2023-04-07 | 2023-05-27 |

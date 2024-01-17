@@ -1,735 +1,909 @@
 {
-  "2021-12-25": 1471868,
-  "2021-12-26": 1472250,
-  "2021-12-27": 1473135,
-  "2021-12-28": 1473139,
-  "2021-12-29": 1473610,
-  "2021-12-30": 1474038,
-  "2021-12-31": 1474554,
-  "2022-01-01": 1475438,
-  "2022-01-02": 1475551,
-  "2022-01-03": 1475821,
-  "2022-01-04": 1476177,
-  "2022-01-05": 1476612,
-  "2022-01-06": 1477041,
-  "2022-01-07": 1477436,
-  "2022-01-08": 1478412,
-  "2022-01-09": 1478428,
-  "2022-01-10": 1478806,
-  "2022-01-11": 1478825,
-  "2022-01-12": 1479613,
-  "2022-01-13": 1479613,
-  "2022-01-14": 1479613,
-  "2022-01-15": 1479613,
-  "2022-01-16": 1479613,
-  "2022-01-17": 1479613,
-  "2022-01-18": 1479613,
-  "2022-01-19": 1479613,
-  "2022-01-20": 1479613,
-  "2022-01-21": 1479613,
-  "2022-01-22": 1479613,
-  "2022-01-23": 1479613,
-  "2022-01-24": 1479613,
-  "2022-01-25": 1479613,
-  "2022-01-26": 1479613,
-  "2022-01-27": 1479613,
-  "2022-01-28": 1479613,
-  "2022-01-29": 1479613,
-  "2022-01-30": 1479613,
-  "2022-01-31": 1479613,
-  "2022-02-01": 1479613,
-  "2022-02-02": 1479613,
-  "2022-02-03": 1479613,
-  "2022-02-04": 1479613,
-  "2022-02-05": 1479613,
-  "2022-02-06": 1479613,
-  "2022-02-07": 1479613,
-  "2022-02-08": 1479613,
-  "2022-02-09": 1479613,
-  "2022-02-10": 1479613,
-  "2022-02-11": 1479613,
-  "2022-02-12": 1479613,
-  "2022-02-13": 1479613,
-  "2022-02-14": 1479613,
-  "2022-02-15": 1479613,
-  "2022-02-16": 1479613,
-  "2022-02-17": 1479613,
-  "2022-02-18": 1479613,
-  "2022-02-19": 1479613,
-  "2022-02-20": 1479613,
-  "2022-02-21": 1479613,
-  "2022-02-22": 1479613,
-  "2022-02-23": 1479613,
-  "2022-02-24": 1479613,
-  "2022-02-25": 1479613,
-  "2022-02-26": 1479613,
-  "2022-02-27": 1479613,
-  "2022-02-28": 1479613,
-  "2022-03-01": 1479613,
-  "2022-03-02": 1479613,
-  "2022-03-03": 1479613,
-  "2022-03-04": 1479613,
-  "2022-03-05": 1479613,
-  "2022-03-06": 1479613,
-  "2022-03-07": 1479613,
-  "2022-03-08": 1479613,
-  "2022-03-09": 1479613,
-  "2022-03-10": 1479613,
-  "2022-03-11": 1479613,
-  "2022-03-12": 1479613,
-  "2022-03-13": 1479613,
-  "2022-03-14": 1479613,
-  "2022-03-15": 1479613,
-  "2022-03-16": 1479613,
-  "2022-03-17": 1479613,
-  "2022-03-18": 1479613,
-  "2022-03-19": 1479613,
-  "2022-03-20": 1479613,
-  "2022-03-21": 1479613,
-  "2022-03-22": 1479613,
-  "2022-03-23": 1479613,
-  "2022-03-24": 1479613,
-  "2022-03-25": 1479613,
-  "2022-03-26": 1479613,
-  "2022-03-27": 1479613,
-  "2022-03-28": 1479613,
-  "2022-03-30": 1479613,
-  "2022-03-31": 1479613,
-  "2022-04-01": 1479613,
-  "2022-04-02": 1479613,
-  "2022-04-03": 1479613,
-  "2022-04-04": 1479613,
-  "2022-04-05": 1479613,
-  "2022-04-06": 1479613,
-  "2022-04-07": 1479613,
-  "2022-04-08": 1479613,
-  "2022-04-09": 1479613,
-  "2022-04-10": 1479613,
-  "2022-04-11": 1479613,
-  "2022-04-12": 1479613,
-  "2022-04-13": 1479613,
-  "2022-04-14": 1479613,
-  "2022-04-15": 1479613,
-  "2022-04-16": 1479613,
-  "2022-04-17": 1479613,
-  "2022-04-18": 1479613,
-  "2022-04-19": 1479613,
-  "2022-04-20": 1479613,
-  "2022-04-21": 1479613,
-  "2022-04-22": 1479613,
-  "2022-04-23": 1479613,
-  "2022-04-24": 1479613,
-  "2022-04-25": 1479613,
-  "2022-04-26": 1479613,
-  "2022-04-27": 1479613,
-  "2022-04-28": 1479613,
-  "2022-04-29": 1479613,
-  "2022-04-30": 1479613,
-  "2022-05-01": 1479613,
-  "2022-05-02": 1479613,
-  "2022-05-03": 1479613,
-  "2022-05-04": 1479613,
-  "2022-05-05": 1479613,
-  "2022-05-06": 1479613,
-  "2022-05-07": 1479613,
-  "2022-05-08": 1479613,
-  "2022-05-09": 1479613,
-  "2022-05-10": 1479613,
-  "2022-05-11": 1479613,
-  "2022-05-12": 1479613,
-  "2022-05-13": 1479613,
-  "2022-05-14": 1479613,
-  "2022-05-15": 1479613,
-  "2022-05-16": 1479613,
-  "2022-05-17": 1479613,
-  "2022-05-18": 1479613,
-  "2022-05-19": 1479613,
-  "2022-05-20": 1479613,
-  "2022-05-21": 1479613,
-  "2022-05-22": 1479613,
-  "2022-05-23": 1479613,
-  "2022-05-24": 1479613,
-  "2022-05-25": 1479613,
-  "2022-05-26": 1479613,
-  "2022-05-27": 1479613,
-  "2022-05-28": 1479613,
-  "2022-05-29": 1479613,
-  "2022-05-30": 1479613,
-  "2022-05-31": 1479613,
-  "2022-06-01": 1479613,
-  "2022-06-02": 1479613,
-  "2022-06-03": 1479613,
-  "2022-06-04": 1479613,
-  "2022-06-05": 1479613,
-  "2022-06-06": 1479613,
-  "2022-06-07": 1479613,
-  "2022-06-08": 1479613,
-  "2022-06-09": 1479613,
-  "2022-06-10": 1479613,
-  "2022-06-11": 1479613,
-  "2022-06-12": 1479613,
-  "2022-06-13": 1479613,
-  "2022-06-14": 1479613,
-  "2022-06-15": 1479613,
-  "2022-06-16": 1479613,
-  "2022-06-17": 1479613,
-  "2022-06-18": 1479613,
-  "2022-06-19": 1479613,
-  "2022-06-20": 1479613,
-  "2022-06-21": 1479613,
-  "2022-06-22": 1479613,
-  "2022-06-23": 1479613,
-  "2022-06-24": 1479613,
-  "2022-06-25": 1479613,
-  "2022-06-26": 1479613,
-  "2022-06-27": 1479613,
-  "2022-06-28": 1479613,
-  "2022-06-29": 1479613,
-  "2022-06-30": 1479613,
-  "2022-07-01": 1479613,
-  "2022-07-02": 1479613,
-  "2022-07-03": 1479613,
-  "2022-07-04": 1479613,
-  "2022-07-05": 1479613,
-  "2022-07-06": 1479613,
-  "2022-07-07": 1479613,
-  "2022-07-08": 1479613,
-  "2022-07-09": 1479613,
-  "2022-07-10": 1479613,
-  "2022-07-11": 1479613,
-  "2022-07-12": 1479613,
-  "2022-07-13": 1479613,
-  "2022-07-14": 1479613,
-  "2022-07-15": 1479613,
-  "2022-07-16": 1479613,
-  "2022-07-17": 1479613,
-  "2022-07-18": 1479613,
-  "2022-07-19": 1479613,
-  "2022-07-20": 1479613,
-  "2022-07-21": 1479613,
-  "2022-07-22": 1479613,
-  "2022-07-23": 1479613,
-  "2022-07-24": 1479613,
-  "2022-07-25": 1479613,
-  "2022-07-26": 1479613,
-  "2022-07-27": 1479613,
-  "2022-07-28": 1479613,
-  "2022-07-29": 1479613,
-  "2022-07-30": 1479613,
-  "2022-07-31": 1479613,
-  "2022-08-01": 1479613,
-  "2022-08-02": 1479613,
-  "2022-08-03": 1479613,
-  "2022-08-04": 1479613,
-  "2022-08-05": 1479613,
-  "2022-08-06": 1479613,
-  "2022-08-07": 1479613,
-  "2022-08-08": 1479613,
-  "2022-08-09": 1479613,
-  "2022-08-10": 1479613,
-  "2022-08-11": 1479613,
-  "2022-08-12": 1479613,
-  "2022-08-13": 1479613,
-  "2022-08-14": 1479613,
-  "2022-08-15": 1479613,
-  "2022-08-16": 1479613,
-  "2022-08-17": 1479613,
-  "2022-08-18": 1479613,
-  "2022-08-19": 1479613,
-  "2022-08-20": 1479613,
-  "2022-08-21": 1479613,
-  "2022-08-22": 1479613,
-  "2022-08-23": 1479613,
-  "2022-08-24": 1479613,
-  "2022-08-25": 1479613,
-  "2022-08-26": 1479613,
-  "2022-08-27": 1479613,
-  "2022-08-28": 1479613,
-  "2022-08-29": 1479613,
-  "2022-08-30": 1479613,
-  "2022-08-31": 1479613,
-  "2022-09-01": 1479613,
-  "2022-09-02": 1479613,
-  "2022-09-03": 1479613,
-  "2022-09-04": 1479613,
-  "2022-09-05": 1479613,
-  "2022-09-06": 1479613,
-  "2022-09-07": 1479613,
-  "2022-09-09": 1479613,
-  "2022-09-10": 1479613,
-  "2022-09-11": 1479613,
-  "2022-09-12": 1479613,
-  "2022-09-13": 1479613,
-  "2022-09-15": 1479613,
-  "2022-09-16": 1479613,
-  "2022-09-17": 1479613,
-  "2022-09-18": 1479613,
-  "2022-09-19": 1479613,
-  "2022-09-20": 1479613,
-  "2022-09-21": 1479613,
-  "2022-09-22": 1479613,
-  "2022-09-23": 1479613,
-  "2022-09-24": 1479613,
-  "2022-09-25": 1479613,
-  "2022-09-26": 1479613,
-  "2022-09-27": 1479613,
-  "2022-09-28": 1479613,
-  "2022-09-29": 1479613,
-  "2022-09-30": 1479613,
-  "2022-10-01": 1479613,
-  "2022-10-02": 1479613,
-  "2022-10-03": 1479613,
-  "2022-10-04": 1479613,
-  "2022-10-05": 1479613,
-  "2022-10-06": 1479613,
-  "2022-10-07": 1479613,
-  "2022-10-08": 1479613,
-  "2022-10-09": 1479613,
-  "2022-10-10": 1479613,
-  "2022-10-11": 1479613,
-  "2022-10-12": 1479613,
-  "2022-10-13": 1479613,
-  "2022-10-14": 1479613,
-  "2022-10-15": 1479613,
-  "2022-10-16": 1479613,
-  "2022-10-17": 1479613,
-  "2022-10-18": 1479613,
-  "2022-10-19": 1479613,
-  "2022-10-20": 1479613,
-  "2022-10-21": 1479613,
-  "2022-10-22": 1479613,
-  "2022-10-23": 1479613,
-  "2022-10-24": 1479613,
-  "2022-10-25": 1479613,
-  "2022-10-26": 1479613,
-  "2022-10-27": 1479613,
-  "2022-10-28": 1479613,
-  "2022-10-29": 1479613,
-  "2022-10-30": 1479613,
-  "2022-10-31": 1479613,
-  "2022-11-01": 1479613,
-  "2022-11-02": 1479613,
-  "2022-11-03": 1479613,
-  "2022-11-04": 1479613,
-  "2022-11-05": 1479613,
-  "2022-11-06": 1479613,
-  "2022-11-07": 1479613,
-  "2022-11-08": 1479613,
-  "2022-11-09": 1479613,
-  "2022-11-10": 1479613,
-  "2022-11-11": 1479613,
-  "2022-11-12": 1479613,
-  "2022-11-13": 1479613,
-  "2022-11-14": 1479613,
-  "2022-11-15": 1479613,
-  "2022-11-16": 1479613,
-  "2022-11-17": 1479613,
-  "2022-11-18": 1479613,
-  "2022-11-19": 1479613,
-  "2022-11-20": 1479613,
-  "2022-11-21": 1479613,
-  "2022-11-22": 1479613,
-  "2022-11-23": 1479613,
-  "2022-11-24": 1479613,
-  "2022-11-25": 1479613,
-  "2022-11-26": 1479613,
-  "2022-11-27": 1479613,
-  "2022-11-28": 1479613,
-  "2022-11-29": 1479613,
-  "2022-11-30": 1479613,
-  "2022-12-01": 1479613,
-  "2022-12-02": 1479613,
-  "2022-12-03": 1479613,
-  "2022-12-04": 1479613,
-  "2022-12-05": 1479613,
-  "2022-12-06": 1479613,
-  "2022-12-07": 1479613,
-  "2022-12-08": 1479613,
-  "2022-12-09": 1479613,
-  "2022-12-10": 1479613,
-  "2022-12-11": 1479613,
-  "2022-12-12": 1479613,
-  "2022-12-13": 1479613,
-  "2022-12-14": 1479613,
-  "2022-12-15": 1479613,
-  "2022-12-16": 1479613,
-  "2022-12-17": 1479613,
-  "2022-12-18": 1479613,
-  "2022-12-19": 1479613,
-  "2022-12-20": 1479613,
-  "2022-12-21": 1479613,
-  "2022-12-22": 1479613,
-  "2022-12-24": 1479613,
-  "2022-12-25": 1479613,
-  "2022-12-26": 1479613,
-  "2022-12-27": 1479613,
-  "2022-12-28": 1479613,
-  "2022-12-29": 1479613,
-  "2022-12-30": 1479613,
-  "2022-12-31": 1479613,
-  "2023-01-01": 1479613,
-  "2023-01-02": 1479613,
-  "2023-01-03": 1479613,
-  "2023-01-04": 1479613,
-  "2023-01-05": 1479613,
-  "2023-01-06": 1479613,
-  "2023-01-07": 1479613,
-  "2023-01-08": 1479613,
-  "2023-01-09": 1479613,
-  "2023-01-10": 1479613,
-  "2023-01-11": 1479613,
-  "2023-01-12": 1479613,
-  "2023-01-13": 1479613,
-  "2023-01-14": 1479613,
-  "2023-01-15": 1479613,
-  "2023-01-16": 1479613,
-  "2023-01-17": 1479613,
-  "2023-01-18": 1479613,
-  "2023-01-19": 1479613,
-  "2023-01-20": 1479613,
-  "2023-01-21": 1479613,
-  "2023-01-22": 1479613,
-  "2023-01-23": 1479613,
-  "2023-01-24": 1479613,
-  "2023-01-25": 1479613,
-  "2023-01-26": 1479613,
-  "2023-01-27": 1479613,
-  "2023-01-28": 1479613,
-  "2023-01-29": 1479613,
-  "2023-01-30": 1479613,
-  "2023-01-31": 1479613,
-  "2023-02-01": 1479613,
-  "2023-02-02": 1479613,
-  "2023-02-03": 1479613,
-  "2023-02-04": 1479613,
-  "2023-02-05": 1479613,
-  "2023-02-06": 1479613,
-  "2023-02-07": 1479613,
-  "2023-02-08": 1479613,
-  "2023-02-09": 1479613,
-  "2023-02-10": 1479613,
-  "2023-02-11": 1479613,
-  "2023-02-12": 1479613,
-  "2023-02-13": 1479613,
-  "2023-02-14": 1479613,
-  "2023-02-15": 1479613,
-  "2023-02-16": 1479613,
-  "2023-02-17": 1479613,
-  "2023-02-18": 1479613,
-  "2023-02-19": 1479613,
-  "2023-02-20": 1479613,
-  "2023-02-21": 1479613,
-  "2023-02-22": 1479613,
-  "2023-02-23": 1479613,
-  "2023-02-24": 1479613,
-  "2023-02-25": 1479613,
-  "2023-02-26": 1479613,
-  "2023-02-27": 1479613,
-  "2023-02-28": 1479613,
-  "2023-03-01": 1479613,
-  "2023-03-02": 1479613,
-  "2023-03-03": 1479613,
-  "2023-03-04": 1479613,
-  "2023-03-05": 1479613,
-  "2023-03-06": 1479613,
-  "2023-03-07": 1479613,
-  "2023-03-08": 1479613,
-  "2023-03-09": 1479613,
-  "2023-03-10": 1479613,
-  "2023-03-11": 1479613,
-  "2023-03-12": 1479613,
-  "2023-03-13": 1479613,
-  "2023-03-14": 1479613,
-  "2023-03-15": 1479613,
-  "2023-03-16": 1479613,
-  "2023-03-17": 1479613,
-  "2023-03-18": 1479613,
-  "2023-03-19": 1479613,
-  "2023-03-20": 1479613,
-  "2023-03-21": 1479613,
-  "2023-03-22": 1479613,
-  "2023-03-23": 1479613,
-  "2023-03-24": 1479613,
-  "2023-03-25": 1479613,
-  "2023-03-26": 1479613,
-  "2023-03-27": 1479613,
-  "2023-03-28": 1479613,
-  "2023-03-29": 1479613,
-  "2023-03-30": 1479613,
-  "2023-03-31": 1479613,
-  "2023-04-01": 1479613,
-  "2023-04-02": 1479613,
-  "2023-04-03": 1479613,
-  "2023-04-04": 1479613,
-  "2023-04-05": 1479613,
-  "2023-04-06": 1479613,
-  "2023-04-07": 1479613,
-  "2023-04-09": 1479613,
-  "2023-04-10": 1479613,
-  "2023-04-11": 1479613,
-  "2023-04-12": 1479613,
-  "2023-04-13": 1479613,
-  "2023-04-14": 1479613,
-  "2023-04-15": 1479613,
-  "2023-04-16": 1479613,
-  "2023-04-17": 1479613,
-  "2023-04-18": 1479613,
-  "2023-04-19": 1479613,
-  "2023-04-20": 1479613,
-  "2023-04-21": 1479613,
-  "2023-04-22": 1479613,
-  "2023-04-23": 1479613,
-  "2023-04-24": 1479613,
-  "2023-04-25": 1479613,
-  "2023-04-26": 1479613,
-  "2023-04-27": 1479613,
-  "2023-04-28": 1479613,
-  "2023-04-29": 1479613,
-  "2023-04-30": 1479613,
-  "2023-05-01": 1479613,
-  "2023-05-02": 1479613,
-  "2023-05-03": 1479613,
-  "2023-05-04": 1479613,
-  "2023-05-05": 1479613,
-  "2023-05-06": 1479613,
-  "2023-05-07": 1479613,
-  "2023-05-08": 1479613,
-  "2023-05-09": 1479613,
-  "2023-05-10": 1479613,
-  "2023-05-11": 1479613,
-  "2023-05-12": 1479613,
-  "2023-05-13": 1479613,
-  "2023-05-14": 1479613,
-  "2023-05-15": 1479613,
-  "2023-05-16": 1479613,
-  "2023-05-17": 1479613,
-  "2023-05-18": 1479613,
-  "2023-05-19": 1479613,
-  "2023-05-20": 1479613,
-  "2023-05-21": 1479613,
-  "2023-05-22": 1479613,
-  "2023-05-23": 1479613,
-  "2023-05-24": 1479613,
-  "2023-05-25": 1479613,
-  "2023-05-26": 1479613,
-  "2023-05-27": 1479613,
-  "2023-05-28": 1479613,
-  "2023-05-29": 1479613,
-  "2023-05-30": 1479613,
-  "2023-05-31": 1479613,
-  "2023-06-01": 1479613,
-  "2023-06-02": 1479613,
-  "2023-06-03": 1479613,
-  "2023-06-04": 1479613,
-  "2023-06-05": 1479613,
-  "2023-06-06": 1479613,
-  "2023-06-07": 1479613,
-  "2023-06-08": 1479613,
-  "2023-06-09": 1479613,
-  "2023-06-10": 1479613,
-  "2023-06-11": 1479613,
-  "2023-06-12": 1479613,
-  "2023-06-13": 1479613,
-  "2023-06-14": 1479613,
-  "2023-06-15": 1479613,
-  "2023-06-16": 1479613,
-  "2023-06-17": 1479613,
-  "2023-06-18": 1479613,
-  "2023-06-19": 1479613,
-  "2023-06-20": 1479613,
-  "2023-06-21": 1479613,
-  "2023-06-22": 1479613,
-  "2023-06-23": 1479613,
-  "2023-06-24": 1479613,
-  "2023-06-25": 1479613,
-  "2023-06-26": 1479613,
-  "2023-06-27": 1479613,
-  "2023-06-28": 1479613,
-  "2023-06-29": 1479613,
-  "2023-06-30": 1479613,
-  "2023-07-01": 1479613,
-  "2023-07-02": 1479613,
-  "2023-07-03": 1479613,
-  "2023-07-04": 1479613,
-  "2023-07-05": 1479613,
-  "2023-07-06": 1479613,
-  "2023-07-07": 1479613,
-  "2023-07-08": 1479613,
-  "2023-07-09": 1479613,
-  "2023-07-10": 1479613,
-  "2023-07-11": 1479613,
-  "2023-07-12": 1479613,
-  "2023-07-13": 1479613,
-  "2023-07-14": 1479613,
-  "2023-07-15": 1479613,
-  "2023-07-16": 1479613,
-  "2023-07-17": 1479613,
-  "2023-07-18": 1479613,
-  "2023-07-19": 1479613,
-  "2023-07-20": 1479613,
-  "2023-07-21": 1479613,
-  "2023-07-22": 1479613,
-  "2023-07-23": 1479613,
-  "2023-07-24": 1479613,
-  "2023-07-25": 1479613,
-  "2023-07-26": 1479613,
-  "2023-07-27": 1479613,
-  "2023-07-28": 1479613,
-  "2023-07-29": 1479613,
-  "2023-07-30": 1479613,
-  "2023-07-31": 1479613,
-  "2023-08-01": 1479613,
-  "2023-08-02": 1479613,
-  "2023-08-03": 1479613,
-  "2023-08-04": 1479613,
-  "2023-08-05": 1479613,
-  "2023-08-06": 1479613,
-  "2023-08-07": 1479613,
-  "2023-08-08": 1479613,
-  "2023-08-09": 1479613,
-  "2023-08-10": 1479613,
-  "2023-08-11": 1479613,
-  "2023-08-12": 1479613,
-  "2023-08-13": 1479613,
-  "2023-08-14": 1479613,
-  "2023-08-15": 1479613,
-  "2023-08-16": 1479613,
-  "2023-08-17": 1479613,
-  "2023-08-18": 1479613,
-  "2023-08-19": 1479613,
-  "2023-08-20": 1479613,
-  "2023-08-21": 1479613,
-  "2023-08-22": 1479613,
-  "2023-08-23": 1479613,
-  "2023-08-24": 1479613,
-  "2023-08-25": 1479613,
-  "2023-08-26": 1479613,
-  "2023-08-27": 1479613,
-  "2023-08-28": 1479613,
-  "2023-08-29": 1479613,
-  "2023-08-30": 1479613,
-  "2023-08-31": 1479613,
-  "2023-09-01": 1479613,
-  "2023-09-02": 1479613,
-  "2023-09-03": 1479613,
-  "2023-09-04": 1479613,
-  "2023-09-05": 1479613,
-  "2023-09-06": 1479613,
-  "2023-09-07": 1479613,
-  "2023-09-08": 1479613,
-  "2023-09-09": 1479613,
-  "2023-09-10": 1479613,
-  "2023-09-11": 1479613,
-  "2023-09-12": 1479613,
-  "2023-09-13": 1479613,
-  "2023-09-14": 1479613,
-  "2023-09-15": 1479613,
-  "2023-09-16": 1479613,
-  "2023-09-17": 1479613,
-  "2023-09-18": 1479613,
-  "2023-09-19": 1479613,
-  "2023-09-20": 1479613,
-  "2023-09-21": 1479613,
-  "2023-09-22": 1479613,
-  "2023-09-23": 1479613,
-  "2023-09-24": 1479613,
-  "2023-09-25": 1479613,
-  "2023-09-26": 1479613,
-  "2023-09-27": 1479613,
-  "2023-09-28": 1479613,
-  "2023-09-29": 1479613,
-  "2023-09-30": 1479613,
-  "2023-10-01": 1479613,
-  "2023-10-02": 1479613,
-  "2023-10-03": 1479613,
-  "2023-10-04": 1479613,
-  "2023-10-05": 1479613,
-  "2023-10-06": 1479613,
-  "2023-10-07": 1479613,
-  "2023-10-08": 1479613,
-  "2023-10-09": 1479613,
-  "2023-10-10": 1479613,
-  "2023-10-11": 1479613,
-  "2023-10-12": 1479613,
-  "2023-10-13": 1479613,
-  "2023-10-14": 1479613,
-  "2023-10-15": 1479613,
-  "2023-10-16": 1479613,
-  "2023-10-17": 1479613,
-  "2023-10-18": 1479613,
-  "2023-10-19": 1479613,
-  "2023-10-20": 1479613,
-  "2023-10-21": 1479613,
-  "2023-10-22": 1479613,
-  "2023-10-23": 1479613,
-  "2023-10-24": 1479613,
-  "2023-10-25": 1479613,
-  "2023-10-26": 1479613,
-  "2023-10-27": 1479613,
-  "2023-10-28": 1479613,
-  "2023-10-29": 1479613,
-  "2023-10-30": 1479613,
-  "2023-10-31": 1479613,
-  "2023-11-01": 1479613,
-  "2023-11-02": 1479613,
-  "2023-11-03": 1479613,
-  "2023-11-04": 1479613,
-  "2023-11-05": 1479613,
-  "2023-11-06": 1479613,
-  "2023-11-07": 1479613,
-  "2023-11-08": 1479613,
-  "2023-11-09": 1479613,
-  "2023-11-10": 1479613,
-  "2023-11-11": 1479613,
-  "2023-11-12": 1479613,
-  "2023-11-13": 1479613,
-  "2023-11-14": 1479613,
-  "2023-11-15": 1479613,
-  "2023-11-16": 1479613,
-  "2023-11-17": 1479613,
-  "2023-11-18": 1479613,
-  "2023-11-19": 1479613,
-  "2023-11-20": 1479613,
-  "2023-11-21": 1479613,
-  "2023-11-22": 1479613,
-  "2023-11-23": 1479613,
-  "2023-11-24": 1479613,
-  "2023-11-25": 1479613,
-  "2023-11-26": 1479613,
-  "2023-11-27": 1479613,
-  "2023-11-28": 1479613,
-  "2023-11-29": 1479613,
-  "2023-11-30": 1479613,
-  "2023-12-01": 1479613,
-  "2023-12-02": 1479613,
-  "2023-12-03": 1479613,
-  "2023-12-04": 1479613,
-  "2023-12-05": 1479613,
-  "2023-12-06": 1479613,
-  "2023-12-07": 1479613,
-  "2023-12-08": 1479613,
-  "2023-12-09": 1479613,
-  "2023-12-10": 1479613,
-  "2023-12-11": 1479613,
-  "2023-12-12": 1479613,
-  "2023-12-13": 1479613,
-  "2023-12-14": 1479613,
-  "2023-12-15": 1479613,
-  "2023-12-16": 1479613,
-  "2023-12-17": 1479613,
-  "2023-12-18": 1479613,
-  "2023-12-19": 1479613,
-  "2023-12-20": 1479613,
-  "2023-12-21": 1479613,
-  "2023-12-22": 1479613,
-  "2023-12-23": 1479613,
-  "2023-12-24": 1479613,
-  "2023-12-25": 1479613,
-  "2023-12-26": 1479613,
-  "2023-12-27": 1479613,
-  "2023-12-30": 1479613,
-  "2023-12-31": 1479613,
-  "2024-01-01": 1479613,
-  "2024-01-02": 1479613,
-  "2024-01-03": 1479613
+  "2024-01-17": 1479613,
+  "date_first_scraped": "2021-12-21",
+  "description": "The best of Metallica, all in one playlist.",
+  "name": "This Is Metallica (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/69oeRoYEpSsNPGVuYRxfoB"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586506,
+      "name": "...And Justice For All",
+      "url": "https://open.spotify.com/track/2VIk1zgNk6aRiIQ9C1T4Yu"
+    },
+    {
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3wAdN3V06Btox7NjFfBKRC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477013,
+      "name": "All Nightmare Long",
+      "url": "https://open.spotify.com/track/6VpUZlL6wGaVm98gGUs8Qq"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470133,
+      "name": "Am I Evil? (Remastered)",
+      "url": "https://open.spotify.com/track/4PVipA5hOmX3Su0pQJNt7Y"
+    },
+    {
+      "album": {
+        "name": "Atlas, Rise!",
+        "url": "https://open.spotify.com/album/3EJc7wWCcnOvqjj2vIKkxY"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388624,
+      "name": "Atlas, Rise!",
+      "url": "https://open.spotify.com/track/2CTYKRrwoUbnGZeT2C9lKl"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets",
+        "url": "https://open.spotify.com/album/41bTjcSaiEe4G40RVVHbux"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312706,
+      "name": "Battery",
+      "url": "https://open.spotify.com/track/4A1jq5W97gi5ok44CgZiab"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/69oeRoYEpSsNPGVuYRxfoB"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401093,
+      "name": "Blackened",
+      "url": "https://open.spotify.com/track/0Zx5fEgwEjyljQsuZYPYj8"
+    },
+    {
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497933,
+      "name": "Bleeding Me",
+      "url": "https://open.spotify.com/track/7FLm43IriB4jxAposCv9Ji"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "Blitzkrieg (Remastered)",
+      "url": "https://open.spotify.com/track/3EcGFrVhz4gco6laJDZ7WU"
+    },
+    {
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341266,
+      "name": "Breadfan",
+      "url": "https://open.spotify.com/track/5SZQ45ZPS89NEBrfromaCq"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395706,
+      "name": "Creeping Death (Remastered)",
+      "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318960,
+      "name": "Devil's Dance",
+      "url": "https://open.spotify.com/track/3IHyDrQOASm7R0WBamMJO8"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240293,
+      "name": "Don't Tread On Me",
+      "url": "https://open.spotify.com/track/2ANizw1jaLMP5UQHYyOvri"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331573,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/69oeRoYEpSsNPGVuYRxfoB"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390026,
+      "name": "Eye Of The Beholder",
+      "url": "https://open.spotify.com/track/0onIqmzvDvsbhCbd66QgSV"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417226,
+      "name": "Fade To Black (Remastered)",
+      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284506,
+      "name": "Fight Fire With Fire (Remastered)",
+      "url": "https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309973,
+      "name": "For Whom The Bell Tolls (Remastered)",
+      "url": "https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/73E6u02YIL3dK6UConUUv4"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269733,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/0NdidkH0EQwG7mx6F6SDkI"
+    },
+    {
+      "album": {
+        "name": "Hardwired",
+        "url": "https://open.spotify.com/album/4MQxwNLnVePt7CYmLE50kC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191331,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/01JszWYuKqRjddPQ4creVF"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/69oeRoYEpSsNPGVuYRxfoB"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343893,
+      "name": "Harvester Of Sorrow",
+      "url": "https://open.spotify.com/track/6tVjcfkg648NG5bXrstJij"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255866,
+      "name": "Hit The Lights (Remastered)",
+      "url": "https://open.spotify.com/track/52m8IrzripYje6bVxUILQU"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227733,
+      "name": "Holier Than Thou",
+      "url": "https://open.spotify.com/track/1yOvj5DRzCxeQCts03MVTw"
+    },
+    {
+      "album": {
+        "name": "I Disappear",
+        "url": "https://open.spotify.com/album/6IRGHFs8fyv2yc3JZzrOaU"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266240,
+      "name": "I Disappear",
+      "url": "https://open.spotify.com/track/4ZbB7Lokl4pZdX25VMgDIK"
+    },
+    {
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/2MD9zkmkFbrVyWy23nnAZQ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328133,
+      "name": "King Nothing",
+      "url": "https://open.spotify.com/track/4Ovpv1Z98LERzogBUa8MzH"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets",
+        "url": "https://open.spotify.com/album/41bTjcSaiEe4G40RVVHbux"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516293,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/6NwbeybX6TDtXlpXvnUOZC"
+    },
+    {
+      "album": {
+        "name": "Moth Into Flame",
+        "url": "https://open.spotify.com/album/6FNXTvsGAeuMTjoBF6ZhNf"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/3dEO0wAx9fVXQe06v0LDy1"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Motorbreath (Remastered)",
+      "url": "https://open.spotify.com/track/5iLhIpIgGZxI7kjgj9807I"
+    },
+    {
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3wAdN3V06Btox7NjFfBKRC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301013,
+      "name": "My Apocalypse",
+      "url": "https://open.spotify.com/track/20hFFeL5QykY9VWeV5RayW"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388733,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419074,
+      "name": "Now That We're Dead",
+      "url": "https://open.spotify.com/track/01LODLnhlfNphZ366BqKc0"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256600,
+      "name": "Of Wolf And Man",
+      "url": "https://open.spotify.com/track/1p9K2Qfhwvgi3hU9YV8Qd8"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/69oeRoYEpSsNPGVuYRxfoB"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447440,
+      "name": "One",
+      "url": "https://open.spotify.com/track/64Ret7Tf2M8pDE4aqbW2tX"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324560,
+      "name": "Sad But True",
+      "url": "https://open.spotify.com/track/5pQYjzkALsgYOcFTC8DMmU"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414720,
+      "name": "Seek & Destroy (Remastered)",
+      "url": "https://open.spotify.com/track/6vVRtEW5T51Zd8qnyrshR1"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429198,
+      "name": "Spit Out the Bone",
+      "url": "https://open.spotify.com/track/7MHkweinOceprzkRWIYTTc"
+    },
+    {
+      "album": {
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/4kwN2OnnrwY2ZBcm379Ahn"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441133,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/309o3PJag8FugLJTRTZa77"
+    },
+    {
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3wAdN3V06Btox7NjFfBKRC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476266,
+      "name": "The Day That Never Comes",
+      "url": "https://open.spotify.com/track/26i37IFvFmC3517jxxZAJP"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432546,
+      "name": "The Four Horsemen (Remastered)",
+      "url": "https://open.spotify.com/track/0adbIekxPM5cWQ1cwLwAEF"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/69oeRoYEpSsNPGVuYRxfoB"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395960,
+      "name": "The Shortest Straw",
+      "url": "https://open.spotify.com/track/3ULvzZ5AGeGfhpcJVM7vT1"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets",
+        "url": "https://open.spotify.com/album/41bTjcSaiEe4G40RVVHbux"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397066,
+      "name": "The Thing That Should Not Be",
+      "url": "https://open.spotify.com/track/7s0vuW12tMatfSPqLSHILG"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387133,
+      "name": "The Unforgiven",
+      "url": "https://open.spotify.com/track/5SnOyuBtyzufoXBAKOdcxD"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/73E6u02YIL3dK6UConUUv4"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396440,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/2D1O6DE5aJDGHsb0W38EAN"
+    },
+    {
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3wAdN3V06Btox7NjFfBKRC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/6xcpkEEppRQOqmo5MWflyF"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Through The Never",
+      "url": "https://open.spotify.com/track/1pHHcGYTlIc47MQv031XF9"
+    },
+    {
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366400,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/0qBvoubmrmKDsknLBbOtUg"
+    },
+    {
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/2MD9zkmkFbrVyWy23nnAZQ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269573,
+      "name": "Until It Sleeps",
+      "url": "https://open.spotify.com/track/0wmjY0IiSvwFYSJ0PWpDwz"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets",
+        "url": "https://open.spotify.com/album/41bTjcSaiEe4G40RVVHbux"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387840,
+      "name": "Welcome Home (Sanitarium)",
+      "url": "https://open.spotify.com/track/48Ih1FjoQ5KoCpsdKUk8Eu"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404240,
+      "name": "Wherever I May Roam",
+      "url": "https://open.spotify.com/track/4zJLpLsfY52ih6y8u4mhKH"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248546,
+      "name": "Whiplash (Remastered)",
+      "url": "https://open.spotify.com/track/0c7TUi67lKsso6WAKpOVzu"
+    },
+    {
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304893,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/77gY3WsOnEsq9JOWgBmdLj"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbj9Ksq4BAdj"
 }

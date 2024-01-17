@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Shanice Green",
-  "num_followers": 146282,
+  "num_followers": 145792,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTVlYjcwNjBiZjUyMTRmYjg3MzI5Zjc1MGEzYmQyMDcyMTc0M2I3",
+  "snapshot_id": "MCw2ZDA0ZWRmOTJhZDQ0ZDI0OWIyNjcwY2JhZWY3YzE1ZjE3MDBmOTFl",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Hill Country Love",
+        "url": "https://open.spotify.com/album/7MEKlnWzs60JzsxIvhxjon"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 184252,
+      "name": "Hill Country Love",
+      "url": "https://open.spotify.com/track/0UPU7pocbCGSLol1h2T87L"
+    },
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {

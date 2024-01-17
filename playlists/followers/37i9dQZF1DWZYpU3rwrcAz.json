@@ -1,732 +1,1391 @@
 {
-  "2021-12-28": 128099,
-  "2021-12-29": 128160,
-  "2021-12-30": 128223,
-  "2021-12-31": 128281,
-  "2022-01-01": 128393,
-  "2022-01-02": 128425,
-  "2022-01-03": 128470,
-  "2022-01-04": 128562,
-  "2022-01-05": 128649,
-  "2022-01-06": 128731,
-  "2022-01-07": 128800,
-  "2022-01-08": 128955,
-  "2022-01-09": 128953,
-  "2022-01-10": 129067,
-  "2022-01-11": 129141,
-  "2022-01-12": 129218,
-  "2022-01-13": 129313,
-  "2022-01-14": 129398,
-  "2022-01-15": 129564,
-  "2022-01-16": 129569,
-  "2022-01-17": 129764,
-  "2022-01-18": 129776,
-  "2022-01-19": 129827,
-  "2022-01-20": 129910,
-  "2022-01-21": 129967,
-  "2022-01-22": 130048,
-  "2022-01-23": 130135,
-  "2022-01-24": 130224,
-  "2022-01-25": 130322,
-  "2022-01-26": 130403,
-  "2022-01-27": 130487,
-  "2022-01-28": 130585,
-  "2022-01-29": 130653,
-  "2022-01-30": 130719,
-  "2022-01-31": 130790,
-  "2022-02-01": 130872,
-  "2022-02-02": 130922,
-  "2022-02-03": 130995,
-  "2022-02-04": 131075,
-  "2022-02-05": 131138,
-  "2022-02-06": 131207,
-  "2022-02-07": 131278,
-  "2022-02-08": 131346,
-  "2022-02-09": 131427,
-  "2022-02-10": 131475,
-  "2022-02-11": 131552,
-  "2022-02-12": 131614,
-  "2022-02-13": 131697,
-  "2022-02-14": 131799,
-  "2022-02-15": 131849,
-  "2022-02-16": 131906,
-  "2022-02-17": 131994,
-  "2022-02-18": 132077,
-  "2022-02-19": 132143,
-  "2022-02-20": 132199,
-  "2022-02-21": 132273,
-  "2022-02-22": 132350,
-  "2022-02-23": 132433,
-  "2022-02-24": 132503,
-  "2022-02-25": 132568,
-  "2022-02-26": 132619,
-  "2022-02-27": 132774,
-  "2022-02-28": 132774,
-  "2022-03-01": 132816,
-  "2022-03-02": 132880,
-  "2022-03-03": 132944,
-  "2022-03-04": 133026,
-  "2022-03-05": 133092,
-  "2022-03-06": 133159,
-  "2022-03-07": 133254,
-  "2022-03-08": 133327,
-  "2022-03-09": 133389,
-  "2022-03-10": 133444,
-  "2022-03-11": 133518,
-  "2022-03-12": 133567,
-  "2022-03-13": 133639,
-  "2022-03-14": 133720,
-  "2022-03-15": 133779,
-  "2022-03-16": 133835,
-  "2022-03-17": 133920,
-  "2022-03-18": 134011,
-  "2022-03-19": 134044,
-  "2022-03-20": 134044,
-  "2022-03-21": 134185,
-  "2022-03-22": 134247,
-  "2022-03-23": 134340,
-  "2022-03-24": 134419,
-  "2022-03-25": 134492,
-  "2022-03-26": 134566,
-  "2022-03-27": 134623,
-  "2022-03-28": 134676,
-  "2022-03-30": 134811,
-  "2022-03-31": 134873,
-  "2022-04-01": 134936,
-  "2022-04-02": 135028,
-  "2022-04-03": 135104,
-  "2022-04-04": 135191,
-  "2022-04-05": 135251,
-  "2022-04-06": 135340,
-  "2022-04-07": 135427,
-  "2022-04-08": 135502,
-  "2022-04-09": 135557,
-  "2022-04-10": 135709,
-  "2022-04-11": 135780,
-  "2022-04-12": 135796,
-  "2022-04-13": 135851,
-  "2022-04-14": 135918,
-  "2022-04-15": 135981,
-  "2022-04-16": 136056,
-  "2022-04-17": 136106,
-  "2022-04-18": 136180,
-  "2022-04-19": 136220,
-  "2022-04-20": 136294,
-  "2022-04-21": 136349,
-  "2022-04-22": 136404,
-  "2022-04-23": 136470,
-  "2022-04-24": 136537,
-  "2022-04-25": 136622,
-  "2022-04-26": 136693,
-  "2022-04-27": 136766,
-  "2022-04-28": 136829,
-  "2022-04-29": 136944,
-  "2022-04-30": 137003,
-  "2022-05-01": 137074,
-  "2022-05-02": 137074,
-  "2022-05-03": 137110,
-  "2022-05-04": 137170,
-  "2022-05-05": 137248,
-  "2022-05-06": 137319,
-  "2022-05-07": 137385,
-  "2022-05-08": 137463,
-  "2022-05-09": 137470,
-  "2022-05-10": 137560,
-  "2022-05-11": 137657,
-  "2022-05-12": 137775,
-  "2022-05-13": 137878,
-  "2022-05-14": 137978,
-  "2022-05-15": 138106,
-  "2022-05-16": 138230,
-  "2022-05-17": 138347,
-  "2022-05-18": 138454,
-  "2022-05-19": 138575,
-  "2022-05-20": 138688,
-  "2022-05-21": 138881,
-  "2022-05-22": 138881,
-  "2022-05-23": 139007,
-  "2022-05-24": 139130,
-  "2022-05-25": 139258,
-  "2022-05-26": 139363,
-  "2022-05-27": 139484,
-  "2022-05-28": 139586,
-  "2022-05-29": 139706,
-  "2022-05-30": 139856,
-  "2022-05-31": 139974,
-  "2022-06-01": 140212,
-  "2022-06-02": 140230,
-  "2022-06-03": 140355,
-  "2022-06-04": 140450,
-  "2022-06-05": 140543,
-  "2022-06-06": 140677,
-  "2022-06-07": 140793,
-  "2022-06-08": 140925,
-  "2022-06-09": 141005,
-  "2022-06-10": 141092,
-  "2022-06-11": 141193,
-  "2022-06-12": 141303,
-  "2022-06-13": 141420,
-  "2022-06-14": 141528,
-  "2022-06-15": 141602,
-  "2022-06-16": 141709,
-  "2022-06-17": 141826,
-  "2022-06-18": 141927,
-  "2022-06-19": 142111,
-  "2022-06-20": 142111,
-  "2022-06-21": 142236,
-  "2022-06-22": 142456,
-  "2022-06-23": 142456,
-  "2022-06-24": 142543,
-  "2022-06-25": 142632,
-  "2022-06-26": 142748,
-  "2022-06-27": 142863,
-  "2022-06-28": 142947,
-  "2022-06-29": 143049,
-  "2022-06-30": 143156,
-  "2022-07-01": 143261,
-  "2022-07-02": 143371,
-  "2022-07-03": 143469,
-  "2022-07-04": 143571,
-  "2022-07-05": 143684,
-  "2022-07-06": 143762,
-  "2022-07-07": 143862,
-  "2022-07-08": 143979,
-  "2022-07-09": 144077,
-  "2022-07-10": 144165,
-  "2022-07-11": 144300,
-  "2022-07-12": 144396,
-  "2022-07-13": 144451,
-  "2022-07-14": 144506,
-  "2022-07-15": 144555,
-  "2022-07-16": 144601,
-  "2022-07-17": 144671,
-  "2022-07-18": 144730,
-  "2022-07-19": 144800,
-  "2022-07-20": 144855,
-  "2022-07-21": 144903,
-  "2022-07-22": 144946,
-  "2022-07-23": 145003,
-  "2022-07-24": 145048,
-  "2022-07-25": 145103,
-  "2022-07-26": 145152,
-  "2022-07-27": 145224,
-  "2022-07-28": 145283,
-  "2022-07-29": 145334,
-  "2022-07-30": 145434,
-  "2022-07-31": 145434,
-  "2022-08-01": 145483,
-  "2022-08-02": 145579,
-  "2022-08-03": 145579,
-  "2022-08-04": 145628,
-  "2022-08-05": 145661,
-  "2022-08-06": 145704,
-  "2022-08-07": 145755,
-  "2022-08-08": 145844,
-  "2022-08-09": 145899,
-  "2022-08-10": 145956,
-  "2022-08-11": 146009,
-  "2022-08-12": 146063,
-  "2022-08-13": 146116,
-  "2022-08-14": 146184,
-  "2022-08-15": 146259,
-  "2022-08-16": 146319,
-  "2022-08-17": 146377,
-  "2022-08-18": 146457,
-  "2022-08-19": 146512,
-  "2022-08-20": 146566,
-  "2022-08-21": 146634,
-  "2022-08-22": 146717,
-  "2022-08-23": 146781,
-  "2022-08-24": 146852,
-  "2022-08-25": 146896,
-  "2022-08-26": 146958,
-  "2022-08-27": 147044,
-  "2022-08-28": 147104,
-  "2022-08-29": 147175,
-  "2022-08-30": 147186,
-  "2022-08-31": 147105,
-  "2022-09-01": 147028,
-  "2022-09-02": 147099,
-  "2022-09-03": 147032,
-  "2022-09-04": 146851,
-  "2022-09-05": 146788,
-  "2022-09-06": 146855,
-  "2022-09-07": 146938,
-  "2022-09-09": 147049,
-  "2022-09-10": 147110,
-  "2022-09-11": 147151,
-  "2022-09-12": 147219,
-  "2022-09-13": 147281,
-  "2022-09-15": 147407,
-  "2022-09-16": 147490,
-  "2022-09-17": 147530,
-  "2022-09-18": 147594,
-  "2022-09-19": 147679,
-  "2022-09-20": 147744,
-  "2022-09-21": 147816,
-  "2022-09-22": 147879,
-  "2022-09-23": 147950,
-  "2022-09-24": 148016,
-  "2022-09-25": 148088,
-  "2022-09-26": 148172,
-  "2022-09-27": 148242,
-  "2022-09-28": 148295,
-  "2022-09-29": 148364,
-  "2022-09-30": 148422,
-  "2022-10-01": 148500,
-  "2022-10-02": 148567,
-  "2022-10-03": 148641,
-  "2022-10-04": 148715,
-  "2022-10-05": 148803,
-  "2022-10-06": 148893,
-  "2022-10-07": 148963,
-  "2022-10-08": 149038,
-  "2022-10-09": 149142,
-  "2022-10-10": 149164,
-  "2022-10-11": 149218,
-  "2022-10-12": 149278,
-  "2022-10-13": 149357,
-  "2022-10-14": 149420,
-  "2022-10-15": 149476,
-  "2022-10-16": 149547,
-  "2022-10-17": 149613,
-  "2022-10-18": 149695,
-  "2022-10-19": 149767,
-  "2022-10-20": 149856,
-  "2022-10-21": 149941,
-  "2022-10-22": 150008,
-  "2022-10-23": 150080,
-  "2022-10-24": 150126,
-  "2022-10-25": 150185,
-  "2022-10-26": 150240,
-  "2022-10-27": 150296,
-  "2022-10-28": 150387,
-  "2022-10-29": 150442,
-  "2022-10-30": 150514,
-  "2022-10-31": 150579,
-  "2022-11-01": 150631,
-  "2022-11-02": 150705,
-  "2022-11-03": 150763,
-  "2022-11-04": 150853,
-  "2022-11-05": 150936,
-  "2022-11-06": 151004,
-  "2022-11-07": 151095,
-  "2022-11-08": 151161,
-  "2022-11-09": 151234,
-  "2022-11-10": 151287,
-  "2022-11-11": 151354,
-  "2022-11-12": 151416,
-  "2022-11-13": 151481,
-  "2022-11-14": 151562,
-  "2022-11-15": 151630,
-  "2022-11-16": 151700,
-  "2022-11-17": 151765,
-  "2022-11-18": 151791,
-  "2022-11-19": 151773,
-  "2022-11-20": 151790,
-  "2022-11-21": 151831,
-  "2022-11-22": 152005,
-  "2022-11-23": 151989,
-  "2022-11-24": 152097,
-  "2022-11-25": 152310,
-  "2022-11-26": 152367,
-  "2022-11-27": 152442,
-  "2022-11-28": 152499,
-  "2022-11-29": 152579,
-  "2022-11-30": 152651,
-  "2022-12-01": 152718,
-  "2022-12-02": 152788,
-  "2022-12-03": 152845,
-  "2022-12-04": 152920,
-  "2022-12-05": 152998,
-  "2022-12-06": 153070,
-  "2022-12-07": 153156,
-  "2022-12-08": 153226,
-  "2022-12-09": 153293,
-  "2022-12-10": 153367,
-  "2022-12-11": 153441,
-  "2022-12-12": 153516,
-  "2022-12-13": 153585,
-  "2022-12-14": 153639,
-  "2022-12-15": 153704,
-  "2022-12-16": 153758,
-  "2022-12-17": 153808,
-  "2022-12-18": 153879,
-  "2022-12-19": 153936,
-  "2022-12-20": 154044,
-  "2022-12-21": 154044,
-  "2022-12-22": 154100,
-  "2022-12-24": 154207,
-  "2022-12-25": 154251,
-  "2022-12-26": 154290,
-  "2022-12-27": 154373,
-  "2022-12-28": 154437,
-  "2022-12-29": 154508,
-  "2022-12-30": 154551,
-  "2022-12-31": 154617,
-  "2023-01-01": 154675,
-  "2023-01-02": 154721,
-  "2023-01-03": 154804,
-  "2023-01-04": 154868,
-  "2023-01-05": 154957,
-  "2023-01-06": 155014,
-  "2023-01-07": 155121,
-  "2023-01-08": 155138,
-  "2023-01-09": 155224,
-  "2023-01-10": 155307,
-  "2023-01-11": 155411,
-  "2023-01-12": 155485,
-  "2023-01-13": 155555,
-  "2023-01-14": 155683,
-  "2023-01-15": 155700,
-  "2023-01-16": 155781,
-  "2023-01-17": 155872,
-  "2023-01-18": 155949,
-  "2023-01-19": 156034,
-  "2023-01-20": 156089,
-  "2023-01-21": 156167,
-  "2023-01-22": 156241,
-  "2023-01-23": 156329,
-  "2023-01-24": 156420,
-  "2023-01-25": 156504,
-  "2023-01-26": 156583,
-  "2023-01-27": 156671,
-  "2023-01-28": 156747,
-  "2023-01-29": 156826,
-  "2023-01-30": 156896,
-  "2023-01-31": 156896,
-  "2023-02-01": 157090,
-  "2023-02-02": 157142,
-  "2023-02-03": 157217,
-  "2023-02-04": 157267,
-  "2023-02-05": 157351,
-  "2023-02-06": 157417,
-  "2023-02-07": 157491,
-  "2023-02-08": 157637,
-  "2023-02-09": 157637,
-  "2023-02-10": 157697,
-  "2023-02-11": 157745,
-  "2023-02-12": 157910,
-  "2023-02-13": 157989,
-  "2023-02-14": 157989,
-  "2023-02-15": 158081,
-  "2023-02-16": 158150,
-  "2023-02-17": 158212,
-  "2023-02-18": 158362,
-  "2023-02-19": 158378,
-  "2023-02-20": 158438,
-  "2023-02-21": 158496,
-  "2023-02-22": 158572,
-  "2023-02-23": 158672,
-  "2023-02-24": 158733,
-  "2023-02-25": 158844,
-  "2023-02-26": 158932,
-  "2023-02-27": 159079,
-  "2023-02-28": 159079,
-  "2023-03-01": 159141,
-  "2023-03-02": 159220,
-  "2023-03-03": 159298,
-  "2023-03-04": 159356,
-  "2023-03-05": 159519,
-  "2023-03-06": 159519,
-  "2023-03-07": 159606,
-  "2023-03-08": 159687,
-  "2023-03-09": 159753,
-  "2023-03-10": 159826,
-  "2023-03-11": 159901,
-  "2023-03-12": 159961,
-  "2023-03-13": 160036,
-  "2023-03-14": 160103,
-  "2023-03-15": 160176,
-  "2023-03-16": 160244,
-  "2023-03-17": 160244,
-  "2023-03-18": 160348,
-  "2023-03-19": 160432,
-  "2023-03-20": 160506,
-  "2023-03-21": 160559,
-  "2023-03-22": 160630,
-  "2023-03-23": 160707,
-  "2023-03-24": 160707,
-  "2023-03-25": 160848,
-  "2023-03-26": 160906,
-  "2023-03-27": 160980,
-  "2023-03-28": 161048,
-  "2023-03-29": 161122,
-  "2023-03-30": 161245,
-  "2023-03-31": 161245,
-  "2023-04-01": 161319,
-  "2023-04-02": 161391,
-  "2023-04-03": 161462,
-  "2023-04-04": 161538,
-  "2023-04-05": 161602,
-  "2023-04-06": 161658,
-  "2023-04-07": 161716,
-  "2023-04-09": 161868,
-  "2023-04-10": 161941,
-  "2023-04-11": 162080,
-  "2023-04-12": 162080,
-  "2023-04-13": 162121,
-  "2023-04-14": 162195,
-  "2023-04-15": 162277,
-  "2023-04-16": 162354,
-  "2023-04-17": 162431,
-  "2023-04-18": 162540,
-  "2023-04-19": 162645,
-  "2023-04-20": 162751,
-  "2023-04-21": 162824,
-  "2023-04-22": 162901,
-  "2023-04-23": 162974,
-  "2023-04-24": 163055,
-  "2023-04-25": 163125,
-  "2023-04-26": 163212,
-  "2023-04-27": 163287,
-  "2023-04-28": 163343,
-  "2023-04-29": 163392,
-  "2023-04-30": 163456,
-  "2023-05-01": 163511,
-  "2023-05-02": 163588,
-  "2023-05-03": 163650,
-  "2023-05-04": 163726,
-  "2023-05-05": 163772,
-  "2023-05-06": 163854,
-  "2023-05-07": 163932,
-  "2023-05-08": 163999,
-  "2023-05-09": 164065,
-  "2023-05-10": 164131,
-  "2023-05-11": 164200,
-  "2023-05-12": 164258,
-  "2023-05-13": 164319,
-  "2023-05-14": 164380,
-  "2023-05-15": 164434,
-  "2023-05-16": 164507,
-  "2023-05-17": 164561,
-  "2023-05-18": 164626,
-  "2023-05-19": 164707,
-  "2023-05-20": 164843,
-  "2023-05-21": 164843,
-  "2023-05-22": 164843,
-  "2023-05-23": 164955,
-  "2023-05-24": 165054,
-  "2023-05-25": 165071,
-  "2023-05-26": 165133,
-  "2023-05-27": 165172,
-  "2023-05-28": 165239,
-  "2023-05-29": 165239,
-  "2023-05-30": 165338,
-  "2023-05-31": 165410,
-  "2023-06-01": 165469,
-  "2023-06-02": 165521,
-  "2023-06-03": 165588,
-  "2023-06-04": 165644,
-  "2023-06-05": 165725,
-  "2023-06-06": 165776,
-  "2023-06-07": 165847,
-  "2023-06-08": 165901,
-  "2023-06-09": 165978,
-  "2023-06-10": 166010,
-  "2023-06-11": 166068,
-  "2023-06-12": 166134,
-  "2023-06-13": 166220,
-  "2023-06-14": 166285,
-  "2023-06-15": 166347,
-  "2023-06-16": 166395,
-  "2023-06-17": 166435,
-  "2023-06-18": 166485,
-  "2023-06-19": 166540,
-  "2023-06-20": 166581,
-  "2023-06-21": 166646,
-  "2023-06-22": 166708,
-  "2023-06-23": 166761,
-  "2023-06-24": 166806,
-  "2023-06-25": 166862,
-  "2023-06-26": 166912,
-  "2023-06-27": 166953,
-  "2023-06-28": 167015,
-  "2023-06-29": 167067,
-  "2023-06-30": 167111,
-  "2023-07-01": 167207,
-  "2023-07-02": 167207,
-  "2023-07-03": 167258,
-  "2023-07-04": 167297,
-  "2023-07-05": 167336,
-  "2023-07-06": 167440,
-  "2023-07-07": 167440,
-  "2023-07-08": 167480,
-  "2023-07-09": 167520,
-  "2023-07-10": 167586,
-  "2023-07-11": 167635,
-  "2023-07-12": 167675,
-  "2023-07-13": 167723,
-  "2023-07-14": 167780,
-  "2023-07-15": 167825,
-  "2023-07-16": 167871,
-  "2023-07-17": 167921,
-  "2023-07-18": 167964,
-  "2023-07-19": 168003,
-  "2023-07-20": 168034,
-  "2023-07-21": 168084,
-  "2023-07-22": 168130,
-  "2023-07-23": 168195,
-  "2023-07-24": 168247,
-  "2023-07-25": 168296,
-  "2023-07-26": 168362,
-  "2023-07-27": 168413,
-  "2023-07-28": 168471,
-  "2023-07-29": 168519,
-  "2023-07-30": 168579,
-  "2023-07-31": 168641,
-  "2023-08-01": 168711,
-  "2023-08-02": 168768,
-  "2023-08-03": 168841,
-  "2023-08-04": 168919,
-  "2023-08-05": 168954,
-  "2023-08-06": 169111,
-  "2023-08-07": 169111,
-  "2023-08-08": 169173,
-  "2023-08-09": 169235,
-  "2023-08-10": 169296,
-  "2023-08-11": 169360,
-  "2023-08-12": 169420,
-  "2023-08-13": 169481,
-  "2023-08-14": 169556,
-  "2023-08-15": 169705,
-  "2023-08-16": 169705,
-  "2023-08-17": 169786,
-  "2023-08-18": 169852,
-  "2023-08-19": 169914,
-  "2023-08-20": 169968,
-  "2023-08-21": 170021,
-  "2023-08-22": 170069,
-  "2023-08-23": 170100,
-  "2023-08-24": 170186,
-  "2023-08-25": 170241,
-  "2023-08-26": 170292,
-  "2023-08-27": 170344,
-  "2023-08-28": 170387,
-  "2023-08-29": 170459,
-  "2023-08-30": 170510,
-  "2023-08-31": 170571,
-  "2023-09-01": 170655,
-  "2023-09-02": 170655,
-  "2023-09-03": 170689,
-  "2023-09-04": 170752,
-  "2023-09-05": 170798,
-  "2023-09-06": 170856,
-  "2023-09-07": 170904,
-  "2023-09-08": 170952,
-  "2023-09-09": 170985,
-  "2023-09-10": 171051,
-  "2023-09-11": 171103,
-  "2023-09-12": 171138,
-  "2023-09-13": 171227,
-  "2023-09-14": 171278,
-  "2023-09-15": 171338,
-  "2023-09-16": 171377,
-  "2023-09-17": 171435,
-  "2023-09-18": 171495,
-  "2023-09-19": 171553,
-  "2023-09-20": 171596,
-  "2023-09-21": 171662,
-  "2023-09-22": 171729,
-  "2023-09-23": 171785,
-  "2023-09-24": 171855,
-  "2023-09-25": 171930,
-  "2023-09-26": 172027,
-  "2023-09-27": 172066,
-  "2023-09-28": 172144,
-  "2023-09-29": 172189,
-  "2023-09-30": 172228,
-  "2023-10-01": 172281,
-  "2023-10-02": 172323,
-  "2023-10-03": 172356,
-  "2023-10-04": 172409,
-  "2023-10-05": 172445,
-  "2023-10-06": 172482,
-  "2023-10-07": 172533,
-  "2023-10-08": 172588,
-  "2023-10-09": 172630,
-  "2023-10-10": 172641,
-  "2023-10-11": 172721,
-  "2023-10-12": 172721,
-  "2023-10-13": 172735,
-  "2023-10-14": 172757,
-  "2023-10-15": 172804,
-  "2023-10-16": 172879,
-  "2023-10-17": 172950,
-  "2023-10-18": 173024,
-  "2023-10-19": 173088,
-  "2023-10-20": 173148,
-  "2023-10-21": 173198,
-  "2023-10-22": 173248,
-  "2023-10-23": 173309,
-  "2023-10-24": 173357,
-  "2023-10-25": 173424,
-  "2023-10-26": 173474,
-  "2023-10-27": 173528,
-  "2023-10-28": 173571,
-  "2023-10-29": 173600,
-  "2023-10-30": 173735,
-  "2023-10-31": 173735,
-  "2023-11-01": 173779,
-  "2023-11-02": 173810,
-  "2023-11-03": 173865,
-  "2023-11-04": 173905,
-  "2023-11-05": 173972,
-  "2023-11-06": 174027,
-  "2023-11-07": 174093,
-  "2023-11-08": 174147,
-  "2023-11-09": 174195,
-  "2023-11-10": 174260,
-  "2023-11-11": 174309,
-  "2023-11-12": 174338,
-  "2023-11-13": 174369,
-  "2023-11-14": 174427,
-  "2023-11-15": 174427,
-  "2023-11-16": 174510,
-  "2023-11-17": 174620,
-  "2023-11-18": 174620,
-  "2023-11-19": 174670,
-  "2023-11-20": 174726,
-  "2023-11-21": 174764,
-  "2023-11-22": 174809,
-  "2023-11-23": 174868,
-  "2023-11-24": 174908,
-  "2023-11-25": 174940,
-  "2023-11-26": 174993,
-  "2023-11-27": 175029,
-  "2023-11-28": 175079,
-  "2023-11-29": 175188,
-  "2023-11-30": 175188,
-  "2023-12-01": 175226,
-  "2023-12-02": 175249,
-  "2023-12-03": 175298,
-  "2023-12-04": 175351,
-  "2023-12-05": 175387,
-  "2023-12-06": 175435,
-  "2023-12-07": 175479,
-  "2023-12-08": 175517,
-  "2023-12-09": 175571,
-  "2023-12-10": 175615,
-  "2023-12-11": 175673,
-  "2023-12-12": 175715,
-  "2023-12-13": 175748,
-  "2023-12-14": 175800,
-  "2023-12-15": 175837,
-  "2023-12-16": 175867,
-  "2023-12-17": 175915,
-  "2023-12-18": 175973,
-  "2023-12-19": 175986,
-  "2023-12-20": 176013,
-  "2023-12-21": 176037,
-  "2023-12-22": 176061,
-  "2023-12-23": 176092,
-  "2023-12-24": 176130,
-  "2023-12-25": 176164,
-  "2023-12-26": 176195,
-  "2023-12-27": 176224,
-  "2023-12-30": 176339,
-  "2023-12-31": 176388,
-  "2024-01-01": 176414,
-  "2024-01-02": 176450,
-  "2024-01-03": 176483
+  "2024-01-17": 176929,
+  "date_first_scraped": "2021-12-28",
+  "description": "Relaxing piano works by Chopin.",
+  "name": "Relaxing Chopin",
+  "tracks": [
+    {
+      "album": {
+        "name": "Chopin: Piano Works",
+        "url": "https://open.spotify.com/album/5nO4aw811eh3KVZYk5sYBA"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Tam\u00e1s V\u00e1s\u00e1ry",
+          "url": "https://open.spotify.com/artist/4ylqqqUMfc5TdqwoLuq6he"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242533,
+      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/28CUaWYIWxoeMl4eDvWzD7"
+    },
+    {
+      "album": {
+        "name": "Focus with Chopin",
+        "url": "https://open.spotify.com/album/5U30h2W6T5qo8AG9hmBT6Q"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Tam\u00e1s V\u00e1s\u00e1ry",
+          "url": "https://open.spotify.com/artist/4ylqqqUMfc5TdqwoLuq6he"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242826,
+      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/5xSs7eVtvW6m2sDGEKN9Jc"
+    },
+    {
+      "album": {
+        "name": "Chopin: 24 \u00c9tudes, Op. 10 & Op. 25 [Expanded Edition]",
+        "url": "https://open.spotify.com/album/1UJdNfDQPpxXJFY0P08sL1"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231546,
+      "name": "12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/2SZVGupkjNHEqsCDXbzko2"
+    },
+    {
+      "album": {
+        "name": "Chopin: 24 \u00c9tudes, Op. 10 & Op. 25",
+        "url": "https://open.spotify.com/album/5kUpAX73fnNouo85H5D3MK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232706,
+      "name": "12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/4h1blqY5LzPH8fNcglNJPX"
+    },
+    {
+      "album": {
+        "name": "Poetic Chopin",
+        "url": "https://open.spotify.com/album/6fiapO8BqQus8sXGKUo8PF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Joanna Brzezinska",
+          "url": "https://open.spotify.com/artist/6nYpQVHLUdklz2eQLOPTbh"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238800,
+      "name": "24 Preludes, Op. 28: No. 13 in F-Sharp Major. Lento",
+      "url": "https://open.spotify.com/track/4tFuBmZ0ZA8aYXY4FVK3AN"
+    },
+    {
+      "album": {
+        "name": "50 Relaxing Classical Works",
+        "url": "https://open.spotify.com/album/4OhAGlsVmx3hkpRZx8jIzP"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Joanna Brzezinska",
+          "url": "https://open.spotify.com/artist/6nYpQVHLUdklz2eQLOPTbh"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 240000,
+      "name": "24 Preludes, Op. 28: No. 13 Lento in F-Sharp Major",
+      "url": "https://open.spotify.com/track/5zj8hQtySqSzZaAc42hPfP"
+    },
+    {
+      "album": {
+        "name": "Chopin: Polonaises; Andante spianato;Minor Works",
+        "url": "https://open.spotify.com/album/1gAU8fHpTCco6SgNnsR5tm"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296266,
+      "name": "Andante spianato et Grande polonaise brillante, Op. 22: Andante spianato. Tranquillo",
+      "url": "https://open.spotify.com/track/06sDDrEwEG9ewXmV5fkETR"
+    },
+    {
+      "album": {
+        "name": "Chopin Recital 2",
+        "url": "https://open.spotify.com/album/5CbpsTOhs4TjtDbzUXUwqw"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Janina Fialkowska",
+          "url": "https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419000,
+      "name": "Ballade No. 2 en fa majeur, Op. 38",
+      "url": "https://open.spotify.com/track/2aKH74H4YPx8NSITKmrk9X"
+    },
+    {
+      "album": {
+        "name": "Chopin Recital 2",
+        "url": "https://open.spotify.com/album/1SgrW92t03BX4g4l11KaRZ"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Janina Fialkowska",
+          "url": "https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 419000,
+      "name": "Ballade No. 2 in F Major, Op. 38",
+      "url": "https://open.spotify.com/track/6AECxptTdcCHiLjOEYmsYj"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concerto No. 1; Ballades",
+        "url": "https://open.spotify.com/album/3uBOmT0tnbFyLB8X6hW8UN"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 469613,
+      "name": "Ballade No. 3 in A Flat Major, Op. 47",
+      "url": "https://open.spotify.com/track/1BPsXqDKyApGZTDQy69zOk"
+    },
+    {
+      "album": {
+        "name": "Chopin - Winter Vibes",
+        "url": "https://open.spotify.com/album/7nGjRnha8kq63mnUGQx9sj"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469613,
+      "name": "Ballade No. 3 in A Flat Major, Op. 47",
+      "url": "https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ"
+    },
+    {
+      "album": {
+        "name": "Piano Masters",
+        "url": "https://open.spotify.com/album/1mNOky85ElOSb4by6vu0JD"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 475506,
+      "name": "Ballade No. 3 in A Flat Major, Op. 47",
+      "url": "https://open.spotify.com/track/2duq6mtN9Me3kbLzaBFmRC"
+    },
+    {
+      "album": {
+        "name": "Chopin: Ballades & Impromptus",
+        "url": "https://open.spotify.com/album/1iiGu90suEAA4sFCc73UMj"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "G\u00e1bor Farkas",
+          "url": "https://open.spotify.com/artist/4hE6p1Mt73sZ4iTeN7np1x"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 700866,
+      "name": "Ballade No. 4 in F Minor, Op. 52",
+      "url": "https://open.spotify.com/track/7li21fptmhYM5rVzWG0GQJ"
+    },
+    {
+      "album": {
+        "name": "DG 120 \u2013 Concertos 2 (1994-2016)",
+        "url": "https://open.spotify.com/album/7sFyK4p1XMNF5Ruq1gY0Wg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726600,
+      "name": "Ballade No. 4 in F Minor, Op. 52",
+      "url": "https://open.spotify.com/track/5mBbZk0Nft6z1ZtxK9YOqB"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concerto No. 1; Ballades",
+        "url": "https://open.spotify.com/album/3uBOmT0tnbFyLB8X6hW8UN"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 726600,
+      "name": "Ballade No. 4 in F Minor, Op. 52",
+      "url": "https://open.spotify.com/track/60mXuNLcWyzYgEXI6hhLt8"
+    },
+    {
+      "album": {
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292546,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concerto No.2; Ballade No.4; Berceuse; Polonaise H\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/0NhBxrihXlNzRCHpr748QR"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/05Bpq895B93tdf1sXStxbY"
+    },
+    {
+      "album": {
+        "name": "Il meglio di Chopin",
+        "url": "https://open.spotify.com/album/4KdjkpbfuBzyQUCJ6VnwXU"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248613,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/2YQsPpEt7LxSCec3mm0S3O"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concerto No.2; Ballade No.4; Berceuse; Polonaise H\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/2Kd3p575a7bkpGVkvDnYrH"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248613,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/69oUJ4qeLrbFHCloblMglx"
+    },
+    {
+      "album": {
+        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
+        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348333,
+      "name": "Chopin: 24 Preludes, Op. 28: No. 15 in D-Flat Major \"Raindrop\"",
+      "url": "https://open.spotify.com/track/4q8f3Ls32PcXE8Ks4V1ufx"
+    },
+    {
+      "album": {
+        "name": "Chopin: Pi\u00e8ces pour piano",
+        "url": "https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539533,
+      "name": "Chopin: Ballade No. 1 in G Minor, Op. 23",
+      "url": "https://open.spotify.com/track/7gXWx5DBR5MfsFBzPm9zSS"
+    },
+    {
+      "album": {
+        "name": "Chopin \"journal intime\"",
+        "url": "https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 727280,
+      "name": "Chopin: Fantaisie in F Minor, Op. 49",
+      "url": "https://open.spotify.com/track/6aZvn2GoPxfjGrbVNOG4ly"
+    },
+    {
+      "album": {
+        "name": "Chopin: Pi\u00e8ces pour piano",
+        "url": "https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157400,
+      "name": "Chopin: Mazurka No. 41 in C-Sharp Minor, Op. 63 No. 3",
+      "url": "https://open.spotify.com/track/088OWVKqW0SPLbv7f78SUc"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes",
+        "url": "https://open.spotify.com/album/7kGObwwRrq6pgj9MwSu4Qx"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "YUNDI",
+          "url": "https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333226,
+      "name": "Chopin: Nocturne No. 1 in B-Flat Minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/1l9ra1BpB3DcS4gSBg8Qra"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes [Complete]",
+        "url": "https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Elisabeth Leonskaja",
+          "url": "https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393066,
+      "name": "Chopin: Nocturne No. 16 in E-Flat Major, Op. 55 No. 2",
+      "url": "https://open.spotify.com/track/78eHNe9UocsHmcgAyTxixZ"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes [Complete]",
+        "url": "https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Elisabeth Leonskaja",
+          "url": "https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475000,
+      "name": "Chopin: Nocturne No. 17 in B Major, Op. 62 No. 1",
+      "url": "https://open.spotify.com/track/3UiLTMeqt1zQOyZqmU5jiP"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes [Complete]",
+        "url": "https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Elisabeth Leonskaja",
+          "url": "https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 254800,
+      "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",
+      "url": "https://open.spotify.com/track/5tmpcGNMG3vlSYOxcQ62qF"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes [Complete]",
+        "url": "https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Elisabeth Leonskaja",
+          "url": "https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "Chopin: Nocturne No. 21 in C Minor, Op. Posth.",
+      "url": "https://open.spotify.com/track/4enYj5VBLp4qYox1BS6G3k"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes [Complete]",
+        "url": "https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Elisabeth Leonskaja",
+          "url": "https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442840,
+      "name": "Chopin: Nocturne No. 3 in B Major, Op. 9 No. 3",
+      "url": "https://open.spotify.com/track/5qQRvqCXuO3uZTazifcGvO"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes [Complete]",
+        "url": "https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Elisabeth Leonskaja",
+          "url": "https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310240,
+      "name": "Chopin: Nocturne No. 4 in F Major, Op. 15 No. 1",
+      "url": "https://open.spotify.com/track/5tx6c2YLbXJsldPeb1BQR8"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes [Complete]",
+        "url": "https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Elisabeth Leonskaja",
+          "url": "https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Chopin: Nocturne No. 5 in F-Sharp Major, Op. 15 No. 2",
+      "url": "https://open.spotify.com/track/2WIwqBA8i4KkY7r27r0SaT"
+    },
+    {
+      "album": {
+        "name": "Gabriela Montero: Piano Recital",
+        "url": "https://open.spotify.com/album/2Kvlzm7PyfuF30L3HIBrWw"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338253,
+      "name": "Chopin: Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
+      "url": "https://open.spotify.com/track/4hbvrHgfZ8lqFrPx1Ztd6j"
+    },
+    {
+      "album": {
+        "name": "Chopin",
+        "url": "https://open.spotify.com/album/2a3Zl21j8H7XqRgdMiNK30"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 506893,
+      "name": "Chopin: Piano Sonata No. 2 in B-Flat Minor, Op. 35 \"Funeral March\": III. Marche fun\u00e8bre. Lento",
+      "url": "https://open.spotify.com/track/6JoT2QRzUZ8IpkamI6WkeN"
+    },
+    {
+      "album": {
+        "name": "Chopin: The Complete Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/1rBvFJvaHtmVmMdBFO8Te7"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rafa\u0142 Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 339026,
+      "name": "Deux Nocturnes, Op. 62: 2. Nocturne In E (Lento)",
+      "url": "https://open.spotify.com/track/10uRxefFamrk6OGym4JLlS"
+    },
+    {
+      "album": {
+        "name": "Chopin: Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/7LA1cCKvKIPt4koVHjJzU6"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rafa\u0142 Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339026,
+      "name": "Deux Nocturnes, Op. 62: 2. Nocturne In E (Lento)",
+      "url": "https://open.spotify.com/track/14PfaAkLKxAUs7GTwdN96v"
+    },
+    {
+      "album": {
+        "name": "Sleep Calm",
+        "url": "https://open.spotify.com/album/0nSAs9CT5JZj2F1BKFdMvm"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rafa\u0142 Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 339026,
+      "name": "Deux Nocturnes, Op. 62: 2. Nocturne In E (Lento)",
+      "url": "https://open.spotify.com/track/7pYexC728YyvipJDrxI1ar"
+    },
+    {
+      "album": {
+        "name": "50 Greatest Works of Chopin",
+        "url": "https://open.spotify.com/album/4S22YpZzdLphm9hLCtaUfq"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Tam\u00e1s V\u00e1s\u00e1ry",
+          "url": "https://open.spotify.com/artist/4ylqqqUMfc5TdqwoLuq6he"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243884,
+      "name": "Etude \"Tristesse\" in B major, Op.10,3",
+      "url": "https://open.spotify.com/track/3nSDoy25fLyorJdiui7OwS"
+    },
+    {
+      "album": {
+        "name": "Piano, Vol. 1",
+        "url": "https://open.spotify.com/album/6N5f44guNYyKr0b6nyL1cs"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "sLs Japan",
+          "url": "https://open.spotify.com/artist/07QVnWmcTu7fsTZi7EzBbU"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224787,
+      "name": "Etude Op.10, No. 3 in E Major, Tristesse",
+      "url": "https://open.spotify.com/track/4xL2mnyAETA7xz8n0KLKpg"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kinderszenen; Papillons / Chopin: Nocturne Op. 55 No. 2; Mazurka Op. 41 No. 1",
+        "url": "https://open.spotify.com/album/7aOPPHgnzLnKguHCEZQKsL"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Katia Bronska",
+          "url": "https://open.spotify.com/artist/7uHYhThJnXYNiFa3dCXwyj"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "Four Mazurkas, Op. 41: II. Andantino",
+      "url": "https://open.spotify.com/track/6DtkdC9g7j5nprKIYwSVxx"
+    },
+    {
+      "album": {
+        "name": "Chopin: Ballades & Impromptus",
+        "url": "https://open.spotify.com/album/1iiGu90suEAA4sFCc73UMj"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "G\u00e1bor Farkas",
+          "url": "https://open.spotify.com/artist/4hE6p1Mt73sZ4iTeN7np1x"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355680,
+      "name": "Impromptu No. 2 in F-Sharp Major, Op. 36",
+      "url": "https://open.spotify.com/track/5yrOacLpKD7pHYPO5wsZ2Q"
+    },
+    {
+      "album": {
+        "name": "Chopin: Late Works, Opp. 59-64",
+        "url": "https://open.spotify.com/album/6Wzf1byg16zWinXnxldir8"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120106,
+      "name": "Mazurka in F Minor, Op. Posth. 68: No. 4 Andantino",
+      "url": "https://open.spotify.com/track/4bN6MHbUqqFS7tG5clItYc"
+    },
+    {
+      "album": {
+        "name": "Chopin: Complete Mazurkas",
+        "url": "https://open.spotify.com/album/7eS9QiFiXd4DwLt0ZdrLEt"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Janina Fialkowska",
+          "url": "https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129813,
+      "name": "Mazurka No. 43 en sol mineur, Op. Posth. 67 No. 2, WN 64",
+      "url": "https://open.spotify.com/track/6zvD6nMGrX5OrPrSnFgUXg"
+    },
+    {
+      "album": {
+        "name": "Chopin: Complete Mazurkas",
+        "url": "https://open.spotify.com/album/687yf7THjQUVpIKMJhVGsb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Janina Fialkowska",
+          "url": "https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129813,
+      "name": "Mazurka No. 43 in G Minor, Op. 67 No. 2",
+      "url": "https://open.spotify.com/track/2kdzG37VTbJRtCSfgqtrLB"
+    },
+    {
+      "album": {
+        "name": "Chopin: Etudes, Op. 10 - Grande Polonaise - Nocturne",
+        "url": "https://open.spotify.com/album/4ydJBYXuNFXOyT3fBCHOyK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Vitalij Margulis",
+          "url": "https://open.spotify.com/artist/3PIxxguXMIqAu6mSQkUTog"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394093,
+      "name": "Nocturne for Piano No. 8 in D-Flat Major, Op. 9",
+      "url": "https://open.spotify.com/track/3qtmteHNFbo5hp2XdsaXIy"
+    },
+    {
+      "album": {
+        "name": "Chopin: Complete Nocturnes, Barcarolle, Berceuse",
+        "url": "https://open.spotify.com/album/5hWRkuxBnUvjSIQex2SLKn"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Vladimir Feltsman",
+          "url": "https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334493,
+      "name": "Nocturne in B-Flat Minor, Op. 9, No. 1",
+      "url": "https://open.spotify.com/track/11mr6MSfxepLWMRqASkdVA"
+    },
+    {
+      "album": {
+        "name": "Chopin: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/2EJIGjaVFq9PKinjyA9yOn"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Brigitte Engerer",
+          "url": "https://open.spotify.com/artist/0WBFyyZxQ5CeA31cKSmhU2"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239973,
+      "name": "Nocturne in C-sharp minor, B. 49",
+      "url": "https://open.spotify.com/track/0bcGY7mfG10QfeaDbz97hC"
+    },
+    {
+      "album": {
+        "name": "The Pianist (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2GFVUnvZBGjE29iZzwbhZT"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Janusz Olejniczak",
+          "url": "https://open.spotify.com/artist/0MeUJOSv5a75mNQzh266Ay"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262600,
+      "name": "Nocturne in E minor, Op. 72, No. 1",
+      "url": "https://open.spotify.com/track/7znKXBOyLR50MmA99KgHO8"
+    },
+    {
+      "album": {
+        "name": "Chopin: Etudes - Lang Lang",
+        "url": "https://open.spotify.com/album/70CWcZa5F1uq0xmkMBOtah"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366320,
+      "name": "Nocturne in E-Flat Major, Op. 55, No. 2",
+      "url": "https://open.spotify.com/track/07BYxoTub5POnsajOsoTXb"
+    },
+    {
+      "album": {
+        "name": "Chopin: The Nocturnes",
+        "url": "https://open.spotify.com/album/1KPktR52hmJTJH8SdkiVmK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Claudio Arrau",
+          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Nocturne No. 19 in E minor, Op. 72 No. 1",
+      "url": "https://open.spotify.com/track/66zOdwAIuFXNrB3kcnrkyr"
+    },
+    {
+      "album": {
+        "name": "Benjamin Grosvenor: Chopin, Liszt, Ravel",
+        "url": "https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241986,
+      "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+      "url": "https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes",
+        "url": "https://open.spotify.com/album/3zHkuOkUqIgRwCcVnbX9qf"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273666,
+      "name": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
+      "url": "https://open.spotify.com/track/1VNvsvEsUpuUCbHpVop1vo"
+    },
+    {
+      "album": {
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373173,
+      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
+      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
+    },
+    {
+      "album": {
+        "name": "Chopin Favourites",
+        "url": "https://open.spotify.com/album/5JZN2y1ePhusziw1DpndlL"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311400,
+      "name": "Nocturne No. 9 in B Major, Op. 32 No. 1",
+      "url": "https://open.spotify.com/track/5UpQqGyhYg70rRXgPuy28o"
+    },
+    {
+      "album": {
+        "name": "Chopin: Etudes, Op. 10 - Fantasy, Op. 49 - Impromptu No. 4 - Nocturnes",
+        "url": "https://open.spotify.com/album/6D2SdGTG1ettEhCMyUoCGr"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Peter Schmalfuss",
+          "url": "https://open.spotify.com/artist/7mOe6jfxX9EILXET9l5L6H"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293893,
+      "name": "Nocturne, Op. 15: No. 3",
+      "url": "https://open.spotify.com/track/3D6cnlBHXkFAa0CSFAXeaK"
+    },
+    {
+      "album": {
+        "name": "Chopin, F.: Chopin Edition, Vol. 3 - Polonaises",
+        "url": "https://open.spotify.com/album/7nCwt76R4YZQwTi9h9VRZz"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Eugene Mursky",
+          "url": "https://open.spotify.com/artist/1rKvvrDCrGnvjFfRMOddjG"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327480,
+      "name": "Polonaise No. 15 in B-Flat Minor, \"Adieu\"",
+      "url": "https://open.spotify.com/track/3GIinvDCi2LlQdxPCH1ECa"
+    },
+    {
+      "album": {
+        "name": "Sviatoslav Richter - In Memoriam",
+        "url": "https://open.spotify.com/album/1AW2bzGrOJzUjwkcTys5fW"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 735000,
+      "name": "Polonaise No. 7 in A flat, Op. 61 Polonaise-Fantaisie: Polonaise No. 7 in A flat, Op. 61 Polonaise-Fantaisie",
+      "url": "https://open.spotify.com/track/2jsnOginmflAutN6efs6H5"
+    },
+    {
+      "album": {
+        "name": "Sviatoslav Richter - Complete DG Solo / Concerto Recordings",
+        "url": "https://open.spotify.com/album/7GvwKvzKLntRwxP5D7lJe1"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 735186,
+      "name": "Polonaise No. 7 in A flat, Op. 61 Polonaise-Fantaisie: Polonaise No. 7 in A flat, Op. 61 Polonaise-Fantaisie",
+      "url": "https://open.spotify.com/track/3AMlHGW2YxtPgn1r8pY9C1"
+    },
+    {
+      "album": {
+        "name": "Sviatoslav Richter Recital",
+        "url": "https://open.spotify.com/album/1EblNPXYOlNnCQDk54ME4K"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 736000,
+      "name": "Polonaise No.7 in A flat, Op.61 Polonaise-Fantaisie: Polonaise No.7 in A flat, Op.61 Polonaise-Fantaisie",
+      "url": "https://open.spotify.com/track/39s9QVDt83ZezQiQ6yTyLH"
+    },
+    {
+      "album": {
+        "name": "Poetic Chopin: Ballades, Mazurkas, Nocturnes, and Preludes by Fr\u00e9d\u00e9ric Chopin",
+        "url": "https://open.spotify.com/album/5o59MPLT2lvhxrvC1RRlTp"
+      },
+      "artists": [
+        {
+          "name": "Joanna Brezezinska",
+          "url": "https://open.spotify.com/artist/6f86sjWCK79DvjVLvzS2n4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Prelude No. 13 in F sharp Major Op. 28: Lento",
+      "url": "https://open.spotify.com/track/0xUNKDf4ntoVGWS1dXCm4p"
+    },
+    {
+      "album": {
+        "name": "Chopin: Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/49NR4iAFLGGtOpmGKEMtpK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339946,
+      "name": "Preludes, Op. 28: No. 15, Sostenuto",
+      "url": "https://open.spotify.com/track/5xXjqFnvQbxZglR1sGm0Yc"
+    },
+    {
+      "album": {
+        "name": "The Pianist (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2GFVUnvZBGjE29iZzwbhZT"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Janusz Olejniczak",
+          "url": "https://open.spotify.com/artist/0MeUJOSv5a75mNQzh266Ay"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146760,
+      "name": "Pr\u00e9lude in E minor, Op. 28, No. 4",
+      "url": "https://open.spotify.com/track/1aMUmQmSBpmMVpyY804ksh"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes, etc.",
+        "url": "https://open.spotify.com/album/41S7roh2KH78FqcrAvlv2U"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Peter Jablonski",
+          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132666,
+      "name": "Waltz No. 19 in A minor, Op. posth.",
+      "url": "https://open.spotify.com/track/71MpmxCJ1TW05c7Fvv1SfI"
+    },
+    {
+      "album": {
+        "name": "Chopin: Int\u00e9grale des valses",
+        "url": "https://open.spotify.com/album/5COrc0P5XfGZrbHM2UH6Fy"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180546,
+      "name": "Waltzes, Op. 69, B. 35: No. 1 in A-Flat Major, \"L'adieu\". Lento",
+      "url": "https://open.spotify.com/track/2GsXE49M5f126iuAFurXcq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZYpU3rwrcAz"
 }

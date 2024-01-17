@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: BRUCKNER, Eli Preiss",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Zartmann",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -28,8 +28,8 @@
       },
       "artists": [
         {
-          "name": "therror",
-          "url": "https://open.spotify.com/artist/19umoxJexdhKLQBrkUngZq"
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
         }
       ],
       "date_added": "2023-11-09",
@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "Boys Do Cry",
+        "url": "https://open.spotify.com/album/6KZdCzHwLoTvDyWAsLKQmD"
+      },
+      "artists": [
+        {
+          "name": "IL CIVETTO",
+          "url": "https://open.spotify.com/artist/337iYuRKw6oyOfxsxRuR0o"
+        },
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "Boys Do Cry",
+      "url": "https://open.spotify.com/track/0GsgFqyI21wVHP7itl1rvX"
+    },
+    {
+      "album": {
         "name": "boys don\u2019t cry",
         "url": "https://open.spotify.com/album/4UDlvkucIuKcxmYhExbCwL"
       },
@@ -1912,7 +1934,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 151417,
       "name": "Duftbaum",
       "url": "https://open.spotify.com/track/7igfdCIrQ3UjddTPeRDVhr"
@@ -3118,7 +3140,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 202709,
       "name": "Glatteis",
       "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
@@ -4068,7 +4090,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 164840,
       "name": "June",
       "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
@@ -5225,6 +5247,24 @@
     },
     {
       "album": {
+        "name": "Mitte 20",
+        "url": "https://open.spotify.com/album/2yEnMwdfZrhKs4WtUuxY5e"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134308,
+      "name": "Mitte 20",
+      "url": "https://open.spotify.com/track/6bpdsIBLD8UcP9mZl9FAdM"
+    },
+    {
+      "album": {
         "name": "Mo-Fr",
         "url": "https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt"
       },
@@ -5450,6 +5490,24 @@
       "duration_ms": 221749,
       "name": "Nicht Gern Allein",
       "url": "https://open.spotify.com/track/0zcHQjv29G0w1fwkBTzMOs"
+    },
+    {
+      "album": {
+        "name": "Nichts f\u00fcr immer",
+        "url": "https://open.spotify.com/album/1ikXu7Cq3SEFP34uqSNCRS"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151555,
+      "name": "Nichts f\u00fcr immer",
+      "url": "https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI"
     },
     {
       "album": {
@@ -6752,7 +6810,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 179853,
       "name": "Scooter",
       "url": "https://open.spotify.com/track/0iGfo2eIw23rv8djztx8tl"
@@ -8866,6 +8924,24 @@
       "duration_ms": 204413,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl"
+    },
+    {
+      "album": {
+        "name": "Zittern",
+        "url": "https://open.spotify.com/album/1N1Pe9J71EgxGBCcWnrRWY"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246530,
+      "name": "Zittern",
+      "url": "https://open.spotify.com/track/5dUdIExBgfgxWoqJ77Xi4W"
     },
     {
       "album": {

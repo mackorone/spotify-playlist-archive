@@ -1,210 +1,1189 @@
 {
-  "2023-06-08": 2869553,
-  "2023-06-09": 2870329,
-  "2023-06-10": 2871036,
-  "2023-06-11": 2871727,
-  "2023-06-12": 2872337,
-  "2023-06-13": 2873027,
-  "2023-06-14": 2873027,
-  "2023-06-15": 2874481,
-  "2023-06-16": 2875222,
-  "2023-06-17": 2875903,
-  "2023-06-18": 2876713,
-  "2023-06-19": 2877756,
-  "2023-06-20": 2878546,
-  "2023-06-21": 2879289,
-  "2023-06-22": 2879862,
-  "2023-06-23": 2880428,
-  "2023-06-24": 2880969,
-  "2023-06-25": 2881474,
-  "2023-06-26": 2881958,
-  "2023-06-27": 2882452,
-  "2023-06-28": 2882978,
-  "2023-06-29": 2883440,
-  "2023-06-30": 2884001,
-  "2023-07-01": 2885072,
-  "2023-07-02": 2885072,
-  "2023-07-03": 2885522,
-  "2023-07-04": 2886021,
-  "2023-07-05": 2886536,
-  "2023-07-06": 2887359,
-  "2023-07-07": 2887359,
-  "2023-07-08": 2887778,
-  "2023-07-09": 2888191,
-  "2023-07-10": 2888600,
-  "2023-07-11": 2889092,
-  "2023-07-12": 2889527,
-  "2023-07-13": 2890017,
-  "2023-07-14": 2890510,
-  "2023-07-15": 2890866,
-  "2023-07-16": 2891471,
-  "2023-07-17": 2891893,
-  "2023-07-18": 2892342,
-  "2023-07-19": 2892811,
-  "2023-07-20": 2893252,
-  "2023-07-21": 2893702,
-  "2023-07-22": 2894222,
-  "2023-07-23": 2894693,
-  "2023-07-24": 2895132,
-  "2023-07-25": 2895595,
-  "2023-07-26": 2896046,
-  "2023-07-27": 2896634,
-  "2023-07-28": 2897196,
-  "2023-07-29": 2897588,
-  "2023-07-30": 2898090,
-  "2023-07-31": 2898513,
-  "2023-08-01": 2898970,
-  "2023-08-02": 2899424,
-  "2023-08-03": 2899932,
-  "2023-08-04": 2900333,
-  "2023-08-05": 2900793,
-  "2023-08-06": 2901681,
-  "2023-08-07": 2901681,
-  "2023-08-08": 2902136,
-  "2023-08-09": 2902490,
-  "2023-08-10": 2902948,
-  "2023-08-11": 2903375,
-  "2023-08-12": 2903913,
-  "2023-08-13": 2903913,
-  "2023-08-14": 2904813,
-  "2023-08-15": 2905318,
-  "2023-08-16": 2905318,
-  "2023-08-17": 2906220,
-  "2023-08-18": 2906719,
-  "2023-08-19": 2907206,
-  "2023-08-20": 2907666,
-  "2023-08-21": 2908133,
-  "2023-08-22": 2908546,
-  "2023-08-23": 2908936,
-  "2023-08-24": 2909387,
-  "2023-08-25": 2909697,
-  "2023-08-26": 2910133,
-  "2023-08-27": 2910529,
-  "2023-08-28": 2910897,
-  "2023-08-29": 2911273,
-  "2023-08-30": 2911273,
-  "2023-08-31": 2912049,
-  "2023-09-01": 2912927,
-  "2023-09-02": 2912927,
-  "2023-09-03": 2913355,
-  "2023-09-04": 2913355,
-  "2023-09-05": 2914137,
-  "2023-09-06": 2914480,
-  "2023-09-07": 2914480,
-  "2023-09-08": 2914480,
-  "2023-09-09": 2914480,
-  "2023-09-10": 2916031,
-  "2023-09-11": 2916424,
-  "2023-09-12": 2916424,
-  "2023-09-13": 2917144,
-  "2023-09-14": 2917144,
-  "2023-09-15": 2917144,
-  "2023-09-16": 2918168,
-  "2023-09-17": 2918168,
-  "2023-09-18": 2918168,
-  "2023-09-19": 2919230,
-  "2023-09-20": 2919230,
-  "2023-09-21": 2919230,
-  "2023-09-22": 2920110,
-  "2023-09-23": 2920110,
-  "2023-09-24": 2920110,
-  "2023-09-25": 2920110,
-  "2023-09-26": 2921380,
-  "2023-09-27": 2921380,
-  "2023-09-28": 2921380,
-  "2023-09-29": 2921380,
-  "2023-09-30": 2921380,
-  "2023-10-01": 2921380,
-  "2023-10-02": 2923153,
-  "2023-10-03": 2923153,
-  "2023-10-04": 2923153,
-  "2023-10-05": 2923974,
-  "2023-10-06": 2924305,
-  "2023-10-07": 2924305,
-  "2023-10-08": 2924305,
-  "2023-10-09": 2924305,
-  "2023-10-10": 2924305,
-  "2023-10-11": 2922854,
-  "2023-10-12": 2922854,
-  "2023-10-13": 2922854,
-  "2023-10-14": 2922854,
-  "2023-10-15": 2922854,
-  "2023-10-16": 2922854,
-  "2023-10-17": 2922854,
-  "2023-10-18": 2922854,
-  "2023-10-19": 2922854,
-  "2023-10-20": 2922854,
-  "2023-10-21": 2922854,
-  "2023-10-22": 2922854,
-  "2023-10-23": 2922854,
-  "2023-10-24": 2922854,
-  "2023-10-25": 2922854,
-  "2023-10-26": 2922854,
-  "2023-10-27": 2922854,
-  "2023-10-28": 2922854,
-  "2023-10-29": 2922854,
-  "2023-10-30": 2922854,
-  "2023-10-31": 2922854,
-  "2023-11-01": 2922854,
-  "2023-11-02": 2922854,
-  "2023-11-03": 2922854,
-  "2023-11-04": 2922854,
-  "2023-11-05": 2922854,
-  "2023-11-06": 2922854,
-  "2023-11-07": 2922854,
-  "2023-11-08": 2922854,
-  "2023-11-09": 2922854,
-  "2023-11-10": 2922854,
-  "2023-11-11": 2925909,
-  "2023-11-12": 2925909,
-  "2023-11-13": 2925909,
-  "2023-11-14": 2925909,
-  "2023-11-15": 2925909,
-  "2023-11-16": 2925909,
-  "2023-11-17": 2925909,
-  "2023-11-18": 2925909,
-  "2023-11-19": 2925909,
-  "2023-11-20": 2925909,
-  "2023-11-21": 2925909,
-  "2023-11-22": 2925909,
-  "2023-11-23": 2925909,
-  "2023-11-24": 2925909,
-  "2023-11-25": 2925909,
-  "2023-11-26": 2925909,
-  "2023-11-27": 2925909,
-  "2023-11-28": 2925909,
-  "2023-11-29": 2925909,
-  "2023-11-30": 2925909,
-  "2023-12-01": 2925909,
-  "2023-12-02": 2925909,
-  "2023-12-03": 2925909,
-  "2023-12-04": 2925909,
-  "2023-12-05": 2925909,
-  "2023-12-06": 2925909,
-  "2023-12-07": 2925909,
-  "2023-12-08": 2925909,
-  "2023-12-09": 2925909,
-  "2023-12-10": 2925909,
-  "2023-12-11": 2925909,
-  "2023-12-12": 2925909,
-  "2023-12-13": 2925909,
-  "2023-12-14": 2934569,
-  "2023-12-15": 2934759,
-  "2023-12-16": 2935037,
-  "2023-12-17": 2935278,
-  "2023-12-18": 2935472,
-  "2023-12-19": 2935637,
-  "2023-12-20": 2935835,
-  "2023-12-21": 2936032,
-  "2023-12-22": 2936202,
-  "2023-12-23": 2936479,
-  "2023-12-24": 2936668,
-  "2023-12-25": 2936823,
-  "2023-12-26": 2936992,
-  "2023-12-27": 2937257,
-  "2023-12-30": 2937691,
-  "2023-12-31": 2937822,
-  "2024-01-01": 2937967,
-  "2024-01-02": 2938039,
-  "2024-01-03": 2938085
+  "2024-01-17": 2927078,
+  "date_first_scraped": "2023-06-08",
+  "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
+  "name": "This Is XXXTENTACION",
+  "tracks": [
+    {
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 173320,
+      "name": "#ImSippinTeaInYoHood",
+      "url": "https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w"
+    },
+    {
+      "album": {
+        "name": "A GHETTO CHRISTMAS CAROL",
+        "url": "https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104960,
+      "name": "A GHETTO CHRISTMAS CAROL",
+      "url": "https://open.spotify.com/track/1QKDXegQxJBzSs8ZBNtGbT"
+    },
+    {
+      "album": {
+        "name": "Again (feat. XXXTENTACION)",
+        "url": "https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193961,
+      "name": "Again (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
+    },
+    {
+      "album": {
+        "name": "Arms Around You (feat. Maluma & Swae Lee)",
+        "url": "https://open.spotify.com/album/3FtwiRgtcCLAiKHDvoj7bO"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198902,
+      "name": "Arms Around You (feat. Maluma & Swae Lee)",
+      "url": "https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh"
+    },
+    {
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120055,
+      "name": "ATTENTION!",
+      "url": "https://open.spotify.com/track/0RjJSBBEolCDJ6wDiuVCmh"
+    },
+    {
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150475,
+      "name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+      "url": "https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ"
+    },
+    {
+      "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94245,
+      "name": "BAD!",
+      "url": "https://open.spotify.com/track/22An65gG31JLf9n18qjdhZ"
+    },
+    {
+      "album": {
+        "name": "XXXTENTACION Presents: Members Only, Vol. 3",
+        "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77600,
+      "name": "Boost!",
+      "url": "https://open.spotify.com/track/455IYy22hKJXgEwgownVqT"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129720,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2"
+    },
+    {
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121886,
+      "name": "changes",
+      "url": "https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO"
+    },
+    {
+      "album": {
+        "name": "XXXTENTACION Presents: Members Only, Vol. 3",
+        "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
+      },
+      "artists": [
+        {
+          "name": "Bass Santana",
+          "url": "https://open.spotify.com/artist/0O1cTzccAEKaEFShgzAK9V"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Cooliecut",
+          "url": "https://open.spotify.com/artist/19uEVh7y7Y9RfjMphMamXc"
+        },
+        {
+          "name": "Kin$oul",
+          "url": "https://open.spotify.com/artist/6HhsbprrJmKeaH8SgSlGge"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118360,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 144733,
+      "name": "Depression & Obsession",
+      "url": "https://open.spotify.com/track/2H3wWrnO758y0fPH7Ilerg"
+    },
+    {
+      "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76973,
+      "name": "difference (interlude)",
+      "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
+    },
+    {
+      "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 249450,
+      "name": "Don't Cry (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/5BQrp63SHCVf4bzCzJePne"
+    },
+    {
+      "album": {
+        "name": "EMOJI",
+        "url": "https://open.spotify.com/album/2X4nnFNUTReSUy8okcYYAE"
+      },
+      "artists": [
+        {
+          "name": "RONNY J",
+          "url": "https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 170688,
+      "name": "EMOJI",
+      "url": "https://open.spotify.com/track/1KFXQEYaDjNDwgHSG2rqFa"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95466,
+      "name": "Everybody Dies In Their Nightmares",
+      "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
+    },
+    {
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121671,
+      "name": "Ex Bitch",
+      "url": "https://open.spotify.com/track/40KuvsFD0zpUFuCcmt5Xm0"
+    },
+    {
+      "album": {
+        "name": "Come Over When You're Sober, Pt. 2",
+        "url": "https://open.spotify.com/album/52JymrguPgkmmwLaWIusst"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "Falling Down - Bonus Track",
+      "url": "https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146520,
+      "name": "Fuck Love",
+      "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
+    },
+    {
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 160506,
+      "name": "FUXK (feat. Ski Mask the Slump God)",
+      "url": "https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS"
+    },
+    {
+      "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108034,
+      "name": "Guardian angel",
+      "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
+    },
+    {
+      "album": {
+        "name": "? (Deluxe)",
+        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 103986,
+      "name": "hate will never win",
+      "url": "https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt"
+    },
+    {
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136357,
+      "name": "HEARTEATER",
+      "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
+    },
+    {
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110886,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
+    },
+    {
+      "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121630,
+      "name": "I don't let go",
+      "url": "https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87560,
+      "name": "I Don't Wanna Do This Anymore",
+      "url": "https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD"
+    },
+    {
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "I spoke to the devil in miami, he said everything would be fine",
+      "url": "https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6"
+    },
+    {
+      "album": {
+        "name": "I'm Not Human (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195853,
+      "name": "I'm Not Human",
+      "url": "https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119133,
+      "name": "Jocelyn Flores",
+      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112800,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo"
+    },
+    {
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219560,
+      "name": "King Of The Dead",
+      "url": "https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW"
+    },
+    {
+      "album": {
+        "name": "let's pretend we're numb",
+        "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80105,
+      "name": "let's pretend we're numb",
+      "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
+    },
+    {
+      "album": {
+        "name": "Look At Me!",
+        "url": "https://open.spotify.com/album/3cyyJALrHc8LawnQNFYRWL"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126345,
+      "name": "Look At Me!",
+      "url": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137173,
+      "name": "Looking for a Star",
+      "url": "https://open.spotify.com/track/1B3TX5FbmcVROMv2riOwyE"
+    },
+    {
+      "album": {
+        "name": "ItWasntEnough",
+        "url": "https://open.spotify.com/album/6WJROqk9sHdhBaaQcpOGk7"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Wifisfuneral",
+          "url": "https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 181200,
+      "name": "MANIKIN (feat. Wifisfuneral)",
+      "url": "https://open.spotify.com/track/4DmPzOQ7WH9VfzWxX3J0GE"
+    },
+    {
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135090,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
+    },
+    {
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186267,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
+    },
+    {
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82470,
+      "name": "numb the pain",
+      "url": "https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO"
+    },
+    {
+      "album": {
+        "name": "XXXTENTACION Presents: Members Only, Vol. 3",
+        "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203493,
+      "name": "Off the Wall!",
+      "url": "https://open.spotify.com/track/0GRmh4ZlobfhvDE9L4CbOs"
+    },
+    {
+      "album": {
+        "name": "? (Deluxe)",
+        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 63693,
+      "name": "Red Light!",
+      "url": "https://open.spotify.com/track/3H8hmIx9tmqguxuZgi843R"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
+    },
+    {
+      "album": {
+        "name": "Riot",
+        "url": "https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78680,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169978,
+      "name": "RIP Roach",
+      "url": "https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE"
+    },
+    {
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213132,
+      "name": "Roll in Peace (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
+    },
+    {
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166605,
+      "name": "SAD!",
+      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+    },
+    {
+      "album": {
+        "name": "XXXTENTACION Presents: Members Only, Vol. 4",
+        "url": "https://open.spotify.com/album/4EeDFhIVRxOg4dx7ozSNXa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144724,
+      "name": "Sauce!",
+      "url": "https://open.spotify.com/track/3jq1RpStaB1YGyN3rRZGca"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163201,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/2UwbhMie1EAYuTZ0QXeMwl"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Scared of the Dark (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
+    },
+    {
+      "album": {
+        "name": "ItWasntEnough",
+        "url": "https://open.spotify.com/album/6WJROqk9sHdhBaaQcpOGk7"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Killstation",
+          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
+        }
+      ],
+      "date_added": "2023-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 108513,
+      "name": "Snow (feat. Killstation)",
+      "url": "https://open.spotify.com/track/1TAEtwlUr2yawioB2T9neG"
+    },
+    {
+      "album": {
+        "name": "You Will Regret (Reloaded)",
+        "url": "https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "Take A Step Back",
+      "url": "https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5"
+    },
+    {
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160184,
+      "name": "the remedy for a broken heart (why am I so in love)",
+      "url": "https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7"
+    },
+    {
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166032,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM"
+    },
+    {
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "album": {
+        "name": "VERY RARE FOREVER FREESTYLE",
+        "url": "https://open.spotify.com/album/33kv6G3jJt1lGfMIq9pqqb"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94041,
+      "name": "VERY RARE FOREVER FREESTYLE",
+      "url": "https://open.spotify.com/track/5jVQ5q8TKE1xZpqTmIF5B2"
+    },
+    {
+      "album": {
+        "name": "vice city",
+        "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220708,
+      "name": "vice city",
+      "url": "https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5"
+    },
+    {
+      "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "what are you so afraid of",
+      "url": "https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4"
+    },
+    {
+      "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157776,
+      "name": "whoa (mind in awe)",
+      "url": "https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa"
+    },
+    {
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 166533,
+      "name": "WingRiddenAngel",
+      "url": "https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO"
+    },
+    {
+      "album": {
+        "name": "INSANO",
+        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166626,
+      "name": "X & CUD (with XXXTENTACION)",
+      "url": "https://open.spotify.com/track/387j61utwXNE7Bvi5UTR2k"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101851,
+      "name": "YuNg BrAtZ",
+      "url": "https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AnZXW"
 }

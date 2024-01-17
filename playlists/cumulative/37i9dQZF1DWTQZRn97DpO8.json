@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Monsieur Nov",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Ana\u00efs Cardot",
   "name": "le miel",
   "tracks": [
     {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 153488,
       "name": "HOLD-UP",
       "url": "https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 203440,
       "name": "L'olivier",
       "url": "https://open.spotify.com/track/34oCxdqZUr1kfSQNYQJWKq"
@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Ton masque est tomb\u00e9",
+        "url": "https://open.spotify.com/album/125lRuq52JJvZiIcp4BCAZ"
+      },
+      "artists": [
+        {
+          "name": "IZAYA",
+          "url": "https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203320,
+      "name": "Ton masque est tomb\u00e9",
+      "url": "https://open.spotify.com/track/6XGUabUpTYkuj3Fkzmllkh"
+    },
+    {
+      "album": {
         "name": "Tout essay\u00e9 (Acoustic version)",
         "url": "https://open.spotify.com/album/2u4dt36M3jpHIBh1CiXfk9"
       },
@@ -1610,6 +1628,28 @@
       "duration_ms": 188973,
       "name": "Violence",
       "url": "https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ"
+    },
+    {
+      "album": {
+        "name": "BO Y Z Vol.2",
+        "url": "https://open.spotify.com/album/4tXyRGC1FcO6FXdpFUGfRW"
+      },
+      "artists": [
+        {
+          "name": "Prince Waly",
+          "url": "https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy"
+        },
+        {
+          "name": "Enchant\u00e9e Julia",
+          "url": "https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196973,
+      "name": "\u00c2me soeur (feat. Enchant\u00e9e Julia)",
+      "url": "https://open.spotify.com/track/0IiSb11VIooz2JYGDBFXo8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8"

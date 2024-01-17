@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYxUz0Ouugmb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYxUz0Ouugmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYxUz0Ouugmb)
 
-### [Best of RADAR Indonesia 2023](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
+### [RADAR Indonesia 2023](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
 

@@ -1354,7 +1354,7 @@
     {
       "album": {
         "name": "A Constant State of Ohio",
-        "url": "https://open.spotify.com/album/6vEyxIuSDfiR0qIfK7F167"
+        "url": "https://open.spotify.com/album/3a3XFNgXZLHSuUXORJgvmV"
       },
       "artists": [
         {
@@ -1365,6 +1365,24 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195060,
+      "name": "Smokey Eyes",
+      "url": "https://open.spotify.com/track/0VeJZDfCOxBFSmocsNIBei"
+    },
+    {
+      "album": {
+        "name": "A Constant State of Ohio",
+        "url": "https://open.spotify.com/album/6vEyxIuSDfiR0qIfK7F167"
+      },
+      "artists": [
+        {
+          "name": "Lincoln",
+          "url": "https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
       "duration_ms": 195060,
       "name": "Smokey Eyes",
       "url": "https://open.spotify.com/track/6nStFBb5DgiShZMXdyxgeo"

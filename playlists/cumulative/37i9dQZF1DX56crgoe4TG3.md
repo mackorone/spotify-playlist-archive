@@ -2,9 +2,9 @@
 
 ### [Bluegrass Covers](https://open.spotify.com/playlist/37i9dQZF1DX56crgoe4TG3)
 
-> A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
+> A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Béla Fleck
 
-255 songs - 16 hr 19 min
+256 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Pinball Wizard](https://open.spotify.com/track/61PS7u4z4JCXfN6VdVbcjT) | [The HillBenders](https://open.spotify.com/artist/2Igp5ty1Smn5hqFrVQmmXE) | [Tommy: A Bluegrass Opry](https://open.spotify.com/album/5ALFsEy1iZE8Megoyj77IW) | 3:43 | 2022-05-27 |  |
 | [Pursuit of Happiness](https://open.spotify.com/track/1geAoz2QzafYdcLYTTlCzB) | [Honeybucket](https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e) | [Stompin' Grounds](https://open.spotify.com/album/0PwVhOH4LzW48zVN6bisFz) | 3:33 | 2021-08-20 |  |
 | [Pursuit of Happiness](https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW) | [Tray Wellington Band](https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp), [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Pursuit of Happiness](https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq) | 5:33 | 2023-05-05 |  |
+| [Rhapsody in Blue\(grass\)](https://open.spotify.com/track/0zx3CiQNU6sqLbgOnrqKNK) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB), [Justin Moses](https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola), [Mark Schatz](https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6), [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [Rhapsody in Blue \(grass\)](https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB) | 12:09 | 2024-01-05 |  |
 | [Rich Girl](https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Rich Girl](https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf) | 3:50 | 2022-04-01 |  |
 | [Rocket Man](https://open.spotify.com/track/72dagJWCsNeAmHYBdQdksq) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Rocket Man](https://open.spotify.com/album/2OmgpU3fI3fmUvbl69QqB8) | 3:23 | 2021-08-20 |  |
 | [Royals](https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6) | [The Dirty Grass Players](https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X) | [Royals \(Bluegrass Cover\)](https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN) | 6:36 | 2023-08-25 |  |

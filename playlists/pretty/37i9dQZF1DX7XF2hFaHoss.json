@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Madi Diaz",
-  "num_followers": 151685,
+  "num_followers": 151259,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Crying in Cars",
+        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
+      },
+      "artists": [
+        {
+          "name": "Emily Rowed",
+          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
+        }
+      ],
+      "duration_ms": 222024,
+      "name": "Let Me Hurt (Acoustic)",
+      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Turn Out the Lights",
         "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Crying in Cars",
-        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
-      },
-      "artists": [
-        {
-          "name": "Emily Rowed",
-          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
-        }
-      ],
-      "duration_ms": 222024,
-      "name": "Let Me Hurt (Acoustic)",
-      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Like I Used To (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "FLOWERS for VASES / descansos",
-        "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 191949,
-      "name": "Over Those Hills",
-      "url": "https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "FLOWERS for VASES / descansos",
+        "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 191949,
+      "name": "Over Those Hills",
+      "url": "https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Cusp",
         "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Joan Shelley",
-        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
       "artists": [
         {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 194066,
-      "name": "Where I\u2019ll Find You",
-      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -923,38 +923,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -967,6 +935,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1015,18 +999,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Listen to Formation, Look for the Signs",
-        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
+        "name": "Joan Shelley",
+        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
       },
       "artists": [
         {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
         }
       ],
-      "duration_ms": 212816,
-      "name": "Call the Days",
-      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
+      "duration_ms": 194066,
+      "name": "Where I\u2019ll Find You",
+      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1047,34 +1031,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "With You - A Sweet Little Love Song Demo",
-        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
         }
       ],
-      "duration_ms": 154573,
-      "name": "With You - A Sweet Little Love Song Demo",
-      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Nebraska - Acoustic",
-      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1095,18 +1063,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+        "name": "With You - A Sweet Little Love Song Demo",
+        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+      "duration_ms": 154573,
+      "name": "With You - A Sweet Little Love Song Demo",
+      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1127,6 +1095,38 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Nebraska - Acoustic",
+      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "untitled",
         "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Transcendence",
-        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 173231,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Better Now (Acoustic)",
         "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 173231,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1239,54 +1239,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 215083,
-      "name": "Bud",
-      "url": "https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Old Country",
-        "url": "https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Portland",
-      "url": "https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Tender Warriors Club",
-        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
-      },
-      "artists": [
-        {
-          "name": "Lady Lamb",
-          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
-        }
-      ],
-      "duration_ms": 114120,
-      "name": "Crater Lake",
-      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Halfway There",
         "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
       },
@@ -1303,18 +1255,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "the sum of the in-between",
-        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
       "artists": [
         {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 167426,
-      "name": "eight hours",
-      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
+      "duration_ms": 215083,
+      "name": "Bud",
+      "url": "https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1335,18 +1287,50 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+        "name": "the sum of the in-between",
+        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
       },
       "artists": [
         {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
         }
       ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+      "duration_ms": 167426,
+      "name": "eight hours",
+      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Tender Warriors Club",
+        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "duration_ms": 114120,
+      "name": "Crater Lake",
+      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Old Country",
+        "url": "https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1367,22 +1351,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Songs to Break Up To (Acoustic)",
-        "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 200072,
-      "name": "Left Off - Acoustic",
-      "url": "https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "After a Time",
         "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
       },
@@ -1399,18 +1367,34 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Sugarcoated",
-        "url": "https://open.spotify.com/album/42CS9PFE6PmCjPVuyHA0wK"
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
       },
       "artists": [
         {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
         }
       ],
-      "duration_ms": 210856,
-      "name": "Grown",
-      "url": "https://open.spotify.com/track/76dZ7YgQgTvVHnUAxOs2wT"
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Songs to Break Up To (Acoustic)",
+        "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 200072,
+      "name": "Left Off - Acoustic",
+      "url": "https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1427,6 +1411,22 @@
       "duration_ms": 213503,
       "name": "Pegasi",
       "url": "https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Sugarcoated",
+        "url": "https://open.spotify.com/album/42CS9PFE6PmCjPVuyHA0wK"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 210856,
+      "name": "Grown",
+      "url": "https://open.spotify.com/track/76dZ7YgQgTvVHnUAxOs2wT"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1499,22 +1499,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "August (feat. Adam Melchor)",
-        "url": "https://open.spotify.com/album/7rCjzf8hQdihYpq1NbWAJn"
+        "name": "Wanted You to Know",
+        "url": "https://open.spotify.com/album/1lgJadT4fW7KnNRKHfAymy"
       },
       "artists": [
         {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        },
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
         }
       ],
-      "duration_ms": 221599,
-      "name": "August (feat. Adam Melchor)",
-      "url": "https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC"
+      "duration_ms": 178440,
+      "name": "that'd be alright",
+      "url": "https://open.spotify.com/track/3rm4a3WFvyx71gXPGXsrsd"
     }
   ],
   "unique_name": "Women of Acoustic",

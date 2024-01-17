@@ -3600,6 +3600,24 @@
     {
       "album": {
         "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
+    },
+    {
+      "album": {
+        "name": "On the Other Side",
         "url": "https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG"
       },
       "artists": [
@@ -3610,7 +3628,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 248160,
       "name": "Olalla",
       "url": "https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt"
@@ -4143,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252413,
+      "name": "Samara",
+      "url": "https://open.spotify.com/track/1uAvKraqOWgoCt8bwce9e9"
+    },
+    {
+      "album": {
         "name": "Samara",
         "url": "https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U"
       },
@@ -4154,7 +4190,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 256120,
       "name": "Samara",
       "url": "https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM"

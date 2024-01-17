@@ -1,732 +1,4095 @@
 {
-  "2021-12-28": 16259,
-  "2021-12-29": 16270,
-  "2021-12-30": 16277,
-  "2021-12-31": 16298,
-  "2022-01-01": 16322,
-  "2022-01-02": 16333,
-  "2022-01-03": 16338,
-  "2022-01-04": 16348,
-  "2022-01-05": 16352,
-  "2022-01-06": 16363,
-  "2022-01-07": 16374,
-  "2022-01-08": 16394,
-  "2022-01-09": 16394,
-  "2022-01-10": 16403,
-  "2022-01-11": 16419,
-  "2022-01-12": 16430,
-  "2022-01-13": 16440,
-  "2022-01-14": 16456,
-  "2022-01-15": 16460,
-  "2022-01-16": 16459,
-  "2022-01-17": 16487,
-  "2022-01-18": 16492,
-  "2022-01-19": 16506,
-  "2022-01-20": 16519,
-  "2022-01-21": 16530,
-  "2022-01-22": 16542,
-  "2022-01-23": 16553,
-  "2022-01-24": 16559,
-  "2022-01-25": 16574,
-  "2022-01-26": 16584,
-  "2022-01-27": 16598,
-  "2022-01-28": 16604,
-  "2022-01-29": 16611,
-  "2022-01-30": 16620,
-  "2022-01-31": 16643,
-  "2022-02-01": 16652,
-  "2022-02-02": 16660,
-  "2022-02-03": 16672,
-  "2022-02-04": 16683,
-  "2022-02-05": 16695,
-  "2022-02-06": 16700,
-  "2022-02-07": 16712,
-  "2022-02-08": 16721,
-  "2022-02-09": 16727,
-  "2022-02-10": 16737,
-  "2022-02-11": 16745,
-  "2022-02-12": 16752,
-  "2022-02-13": 16758,
-  "2022-02-14": 16770,
-  "2022-02-15": 16766,
-  "2022-02-16": 16783,
-  "2022-02-17": 16786,
-  "2022-02-18": 16797,
-  "2022-02-19": 16811,
-  "2022-02-20": 16824,
-  "2022-02-21": 16832,
-  "2022-02-22": 16845,
-  "2022-02-23": 16856,
-  "2022-02-24": 16868,
-  "2022-02-25": 16878,
-  "2022-02-26": 16888,
-  "2022-02-27": 16910,
-  "2022-02-28": 16910,
-  "2022-03-01": 16915,
-  "2022-03-02": 16923,
-  "2022-03-03": 16932,
-  "2022-03-04": 16939,
-  "2022-03-05": 16948,
-  "2022-03-06": 16952,
-  "2022-03-07": 16970,
-  "2022-03-08": 16980,
-  "2022-03-09": 16990,
-  "2022-03-10": 16999,
-  "2022-03-11": 17008,
-  "2022-03-12": 17010,
-  "2022-03-13": 17023,
-  "2022-03-14": 17034,
-  "2022-03-15": 17045,
-  "2022-03-16": 17051,
-  "2022-03-17": 17062,
-  "2022-03-18": 17078,
-  "2022-03-19": 17082,
-  "2022-03-20": 17082,
-  "2022-03-21": 17106,
-  "2022-03-22": 17115,
-  "2022-03-23": 17121,
-  "2022-03-24": 17131,
-  "2022-03-25": 17139,
-  "2022-03-26": 17150,
-  "2022-03-27": 17155,
-  "2022-03-28": 17160,
-  "2022-03-30": 17177,
-  "2022-03-31": 17188,
-  "2022-04-01": 17200,
-  "2022-04-02": 17220,
-  "2022-04-03": 17236,
-  "2022-04-04": 17240,
-  "2022-04-05": 17256,
-  "2022-04-06": 17270,
-  "2022-04-07": 17280,
-  "2022-04-08": 17286,
-  "2022-04-09": 17293,
-  "2022-04-10": 17306,
-  "2022-04-11": 17308,
-  "2022-04-12": 17307,
-  "2022-04-13": 17322,
-  "2022-04-14": 17330,
-  "2022-04-15": 17334,
-  "2022-04-16": 17345,
-  "2022-04-17": 17350,
-  "2022-04-18": 17360,
-  "2022-04-19": 17364,
-  "2022-04-20": 17377,
-  "2022-04-21": 17383,
-  "2022-04-22": 17393,
-  "2022-04-23": 17396,
-  "2022-04-24": 17406,
-  "2022-04-25": 17418,
-  "2022-04-26": 17429,
-  "2022-04-27": 17447,
-  "2022-04-28": 17457,
-  "2022-04-29": 17473,
-  "2022-04-30": 17479,
-  "2022-05-01": 17496,
-  "2022-05-02": 17496,
-  "2022-05-03": 17507,
-  "2022-05-04": 17520,
-  "2022-05-05": 17526,
-  "2022-05-06": 17530,
-  "2022-05-07": 17551,
-  "2022-05-08": 17572,
-  "2022-05-09": 17571,
-  "2022-05-10": 17581,
-  "2022-05-11": 17593,
-  "2022-05-12": 17601,
-  "2022-05-13": 17617,
-  "2022-05-14": 17626,
-  "2022-05-15": 17633,
-  "2022-05-16": 17643,
-  "2022-05-17": 17652,
-  "2022-05-18": 17659,
-  "2022-05-19": 17670,
-  "2022-05-20": 17684,
-  "2022-05-21": 17685,
-  "2022-05-22": 17685,
-  "2022-05-23": 17696,
-  "2022-05-24": 17704,
-  "2022-05-25": 17711,
-  "2022-05-26": 17718,
-  "2022-05-27": 17732,
-  "2022-05-28": 17742,
-  "2022-05-29": 17748,
-  "2022-05-30": 17762,
-  "2022-05-31": 17770,
-  "2022-06-01": 17789,
-  "2022-06-02": 17789,
-  "2022-06-03": 17791,
-  "2022-06-04": 17802,
-  "2022-06-05": 17811,
-  "2022-06-06": 17820,
-  "2022-06-07": 17830,
-  "2022-06-08": 17839,
-  "2022-06-09": 17845,
-  "2022-06-10": 17845,
-  "2022-06-11": 17854,
-  "2022-06-12": 17870,
-  "2022-06-13": 17883,
-  "2022-06-14": 17892,
-  "2022-06-15": 17897,
-  "2022-06-16": 17909,
-  "2022-06-17": 17911,
-  "2022-06-18": 17920,
-  "2022-06-19": 17935,
-  "2022-06-20": 17935,
-  "2022-06-21": 17945,
-  "2022-06-22": 17957,
-  "2022-06-23": 17957,
-  "2022-06-24": 17968,
-  "2022-06-25": 17968,
-  "2022-06-26": 17968,
-  "2022-06-27": 17989,
-  "2022-06-28": 17988,
-  "2022-06-29": 18000,
-  "2022-06-30": 18008,
-  "2022-07-01": 18016,
-  "2022-07-02": 18026,
-  "2022-07-03": 18033,
-  "2022-07-04": 18039,
-  "2022-07-05": 18045,
-  "2022-07-06": 18053,
-  "2022-07-07": 18061,
-  "2022-07-08": 18067,
-  "2022-07-09": 18073,
-  "2022-07-10": 18086,
-  "2022-07-11": 18097,
-  "2022-07-12": 18107,
-  "2022-07-13": 18118,
-  "2022-07-14": 18127,
-  "2022-07-15": 18138,
-  "2022-07-16": 18146,
-  "2022-07-17": 18158,
-  "2022-07-18": 18171,
-  "2022-07-19": 18184,
-  "2022-07-20": 18193,
-  "2022-07-21": 18199,
-  "2022-07-22": 18202,
-  "2022-07-23": 18206,
-  "2022-07-24": 18212,
-  "2022-07-25": 18215,
-  "2022-07-26": 18223,
-  "2022-07-27": 18237,
-  "2022-07-28": 18243,
-  "2022-07-29": 18259,
-  "2022-07-30": 18287,
-  "2022-07-31": 18287,
-  "2022-08-01": 18302,
-  "2022-08-02": 18326,
-  "2022-08-03": 18326,
-  "2022-08-04": 18335,
-  "2022-08-05": 18343,
-  "2022-08-06": 18345,
-  "2022-08-07": 18357,
-  "2022-08-08": 18375,
-  "2022-08-09": 18387,
-  "2022-08-10": 18395,
-  "2022-08-11": 18411,
-  "2022-08-12": 18419,
-  "2022-08-13": 18429,
-  "2022-08-14": 18444,
-  "2022-08-15": 18447,
-  "2022-08-16": 18460,
-  "2022-08-17": 18471,
-  "2022-08-18": 18484,
-  "2022-08-19": 18495,
-  "2022-08-20": 18504,
-  "2022-08-21": 18519,
-  "2022-08-22": 18535,
-  "2022-08-23": 18544,
-  "2022-08-24": 18556,
-  "2022-08-25": 18568,
-  "2022-08-26": 18577,
-  "2022-08-27": 18593,
-  "2022-08-28": 18598,
-  "2022-08-29": 18616,
-  "2022-08-30": 18628,
-  "2022-08-31": 18646,
-  "2022-09-01": 18659,
-  "2022-09-02": 18683,
-  "2022-09-03": 18700,
-  "2022-09-04": 18716,
-  "2022-09-05": 18740,
-  "2022-09-06": 18754,
-  "2022-09-07": 18773,
-  "2022-09-09": 18812,
-  "2022-09-10": 18831,
-  "2022-09-11": 18850,
-  "2022-09-12": 18867,
-  "2022-09-13": 18873,
-  "2022-09-15": 18909,
-  "2022-09-16": 18930,
-  "2022-09-17": 18946,
-  "2022-09-18": 18966,
-  "2022-09-19": 18989,
-  "2022-09-20": 19021,
-  "2022-09-21": 19039,
-  "2022-09-22": 19058,
-  "2022-09-23": 19090,
-  "2022-09-24": 19110,
-  "2022-09-25": 19133,
-  "2022-09-26": 19160,
-  "2022-09-27": 19192,
-  "2022-09-28": 19217,
-  "2022-09-29": 19242,
-  "2022-09-30": 19261,
-  "2022-10-01": 19285,
-  "2022-10-02": 19309,
-  "2022-10-03": 19322,
-  "2022-10-04": 19360,
-  "2022-10-05": 19387,
-  "2022-10-06": 19406,
-  "2022-10-07": 19428,
-  "2022-10-08": 19456,
-  "2022-10-09": 19489,
-  "2022-10-10": 19499,
-  "2022-10-11": 19520,
-  "2022-10-12": 19545,
-  "2022-10-13": 19560,
-  "2022-10-14": 19587,
-  "2022-10-15": 19606,
-  "2022-10-16": 19635,
-  "2022-10-17": 19662,
-  "2022-10-18": 19692,
-  "2022-10-19": 19710,
-  "2022-10-20": 19736,
-  "2022-10-21": 19760,
-  "2022-10-22": 19791,
-  "2022-10-23": 19818,
-  "2022-10-24": 19837,
-  "2022-10-25": 19859,
-  "2022-10-26": 19879,
-  "2022-10-27": 19898,
-  "2022-10-28": 19913,
-  "2022-10-29": 19922,
-  "2022-10-30": 19946,
-  "2022-10-31": 19967,
-  "2022-11-01": 19981,
-  "2022-11-02": 20009,
-  "2022-11-03": 20030,
-  "2022-11-04": 20047,
-  "2022-11-05": 20064,
-  "2022-11-06": 20079,
-  "2022-11-07": 20109,
-  "2022-11-08": 20142,
-  "2022-11-09": 20180,
-  "2022-11-10": 20196,
-  "2022-11-11": 20213,
-  "2022-11-12": 20238,
-  "2022-11-13": 20254,
-  "2022-11-14": 20288,
-  "2022-11-15": 20314,
-  "2022-11-16": 20330,
-  "2022-11-17": 20347,
-  "2022-11-18": 20350,
-  "2022-11-19": 20343,
-  "2022-11-20": 20364,
-  "2022-11-21": 20354,
-  "2022-11-22": 20412,
-  "2022-11-23": 20407,
-  "2022-11-24": 20478,
-  "2022-11-25": 20508,
-  "2022-11-26": 20518,
-  "2022-11-27": 20537,
-  "2022-11-28": 20561,
-  "2022-11-29": 20593,
-  "2022-11-30": 20609,
-  "2022-12-01": 20621,
-  "2022-12-02": 20629,
-  "2022-12-03": 20651,
-  "2022-12-04": 20661,
-  "2022-12-05": 20667,
-  "2022-12-06": 20667,
-  "2022-12-07": 20680,
-  "2022-12-08": 20697,
-  "2022-12-09": 20704,
-  "2022-12-10": 20720,
-  "2022-12-11": 20733,
-  "2022-12-12": 20748,
-  "2022-12-13": 20760,
-  "2022-12-14": 20778,
-  "2022-12-15": 20786,
-  "2022-12-16": 20797,
-  "2022-12-17": 20805,
-  "2022-12-18": 20814,
-  "2022-12-19": 20825,
-  "2022-12-20": 20842,
-  "2022-12-21": 20842,
-  "2022-12-22": 20860,
-  "2022-12-24": 20876,
-  "2022-12-25": 20886,
-  "2022-12-26": 20898,
-  "2022-12-27": 20905,
-  "2022-12-28": 20921,
-  "2022-12-29": 20940,
-  "2022-12-30": 20951,
-  "2022-12-31": 20977,
-  "2023-01-01": 20992,
-  "2023-01-02": 21003,
-  "2023-01-03": 21045,
-  "2023-01-04": 21075,
-  "2023-01-05": 21104,
-  "2023-01-06": 21137,
-  "2023-01-07": 21165,
-  "2023-01-08": 21169,
-  "2023-01-09": 21204,
-  "2023-01-10": 21221,
-  "2023-01-11": 21258,
-  "2023-01-12": 21291,
-  "2023-01-13": 21306,
-  "2023-01-14": 21365,
-  "2023-01-15": 21373,
-  "2023-01-16": 21397,
-  "2023-01-17": 21422,
-  "2023-01-18": 21442,
-  "2023-01-19": 21464,
-  "2023-01-20": 21490,
-  "2023-01-21": 21512,
-  "2023-01-22": 21540,
-  "2023-01-23": 21572,
-  "2023-01-24": 21598,
-  "2023-01-25": 21626,
-  "2023-01-26": 21641,
-  "2023-01-27": 21658,
-  "2023-01-28": 21682,
-  "2023-01-29": 21699,
-  "2023-01-30": 21715,
-  "2023-01-31": 21715,
-  "2023-02-01": 21771,
-  "2023-02-02": 21789,
-  "2023-02-03": 21817,
-  "2023-02-04": 21837,
-  "2023-02-05": 21860,
-  "2023-02-06": 21882,
-  "2023-02-07": 21901,
-  "2023-02-08": 21949,
-  "2023-02-09": 21949,
-  "2023-02-10": 21970,
-  "2023-02-11": 21997,
-  "2023-02-12": 22048,
-  "2023-02-13": 22072,
-  "2023-02-14": 22072,
-  "2023-02-15": 22095,
-  "2023-02-16": 22112,
-  "2023-02-17": 22130,
-  "2023-02-18": 22198,
-  "2023-02-19": 22206,
-  "2023-02-20": 22286,
-  "2023-02-21": 22476,
-  "2023-02-22": 22706,
-  "2023-02-23": 22941,
-  "2023-02-24": 23203,
-  "2023-02-25": 23529,
-  "2023-02-26": 23681,
-  "2023-02-27": 24193,
-  "2023-02-28": 24193,
-  "2023-03-01": 24438,
-  "2023-03-02": 24669,
-  "2023-03-03": 24924,
-  "2023-03-04": 25106,
-  "2023-03-05": 25597,
-  "2023-03-06": 25597,
-  "2023-03-07": 25863,
-  "2023-03-08": 26073,
-  "2023-03-09": 26265,
-  "2023-03-10": 26461,
-  "2023-03-11": 26672,
-  "2023-03-12": 26883,
-  "2023-03-13": 27123,
-  "2023-03-14": 27340,
-  "2023-03-15": 27537,
-  "2023-03-16": 27761,
-  "2023-03-17": 27761,
-  "2023-03-18": 28281,
-  "2023-03-19": 28543,
-  "2023-03-20": 28826,
-  "2023-03-21": 29121,
-  "2023-03-22": 29405,
-  "2023-03-23": 29671,
-  "2023-03-24": 29671,
-  "2023-03-25": 30206,
-  "2023-03-26": 30437,
-  "2023-03-27": 30661,
-  "2023-03-28": 30916,
-  "2023-03-29": 31140,
-  "2023-03-30": 31632,
-  "2023-03-31": 31632,
-  "2023-04-01": 31945,
-  "2023-04-02": 32243,
-  "2023-04-03": 32569,
-  "2023-04-04": 32866,
-  "2023-04-05": 33157,
-  "2023-04-06": 33461,
-  "2023-04-07": 33737,
-  "2023-04-09": 34402,
-  "2023-04-10": 34782,
-  "2023-04-11": 35295,
-  "2023-04-12": 35295,
-  "2023-04-13": 35589,
-  "2023-04-14": 35821,
-  "2023-04-15": 36045,
-  "2023-04-16": 36279,
-  "2023-04-17": 36549,
-  "2023-04-18": 36816,
-  "2023-04-19": 37147,
-  "2023-04-20": 37399,
-  "2023-04-21": 37633,
-  "2023-04-22": 37874,
-  "2023-04-23": 38096,
-  "2023-04-24": 38352,
-  "2023-04-25": 38592,
-  "2023-04-26": 38848,
-  "2023-04-27": 39077,
-  "2023-04-28": 39279,
-  "2023-04-29": 39498,
-  "2023-04-30": 39702,
-  "2023-05-01": 39934,
-  "2023-05-02": 40151,
-  "2023-05-03": 40344,
-  "2023-05-04": 40556,
-  "2023-05-05": 40772,
-  "2023-05-06": 40941,
-  "2023-05-07": 41143,
-  "2023-05-08": 41324,
-  "2023-05-09": 41518,
-  "2023-05-10": 41716,
-  "2023-05-11": 41902,
-  "2023-05-12": 42078,
-  "2023-05-13": 42268,
-  "2023-05-14": 42429,
-  "2023-05-15": 42613,
-  "2023-05-16": 42793,
-  "2023-05-17": 42994,
-  "2023-05-18": 43182,
-  "2023-05-19": 43375,
-  "2023-05-20": 43758,
-  "2023-05-21": 43758,
-  "2023-05-22": 43758,
-  "2023-05-23": 44205,
-  "2023-05-24": 44494,
-  "2023-05-25": 44527,
-  "2023-05-26": 44740,
-  "2023-05-27": 44940,
-  "2023-05-28": 45112,
-  "2023-05-29": 45112,
-  "2023-05-30": 45475,
-  "2023-05-31": 45652,
-  "2023-06-01": 45837,
-  "2023-06-02": 46007,
-  "2023-06-03": 46174,
-  "2023-06-04": 46348,
-  "2023-06-05": 46569,
-  "2023-06-06": 46773,
-  "2023-06-07": 46989,
-  "2023-06-08": 47185,
-  "2023-06-09": 47320,
-  "2023-06-10": 47485,
-  "2023-06-11": 47621,
-  "2023-06-12": 47806,
-  "2023-06-13": 47991,
-  "2023-06-14": 48136,
-  "2023-06-15": 48287,
-  "2023-06-16": 48452,
-  "2023-06-17": 48595,
-  "2023-06-18": 48753,
-  "2023-06-19": 48960,
-  "2023-06-20": 49158,
-  "2023-06-21": 49358,
-  "2023-06-22": 49517,
-  "2023-06-23": 49721,
-  "2023-06-24": 49873,
-  "2023-06-25": 50027,
-  "2023-06-26": 50230,
-  "2023-06-27": 50420,
-  "2023-06-28": 50583,
-  "2023-06-29": 50767,
-  "2023-06-30": 50958,
-  "2023-07-01": 51270,
-  "2023-07-02": 51270,
-  "2023-07-03": 51457,
-  "2023-07-04": 51600,
-  "2023-07-05": 51779,
-  "2023-07-06": 52114,
-  "2023-07-07": 52114,
-  "2023-07-08": 52285,
-  "2023-07-09": 52438,
-  "2023-07-10": 52618,
-  "2023-07-11": 52768,
-  "2023-07-12": 52940,
-  "2023-07-13": 53118,
-  "2023-07-14": 53277,
-  "2023-07-15": 53380,
-  "2023-07-16": 53563,
-  "2023-07-17": 53754,
-  "2023-07-18": 53913,
-  "2023-07-19": 54106,
-  "2023-07-20": 54257,
-  "2023-07-21": 54410,
-  "2023-07-22": 54554,
-  "2023-07-23": 54719,
-  "2023-07-24": 54918,
-  "2023-07-25": 55109,
-  "2023-07-26": 55265,
-  "2023-07-27": 55461,
-  "2023-07-28": 55626,
-  "2023-07-29": 55757,
-  "2023-07-30": 55936,
-  "2023-07-31": 56130,
-  "2023-08-01": 56310,
-  "2023-08-02": 56483,
-  "2023-08-03": 56668,
-  "2023-08-04": 56844,
-  "2023-08-05": 57029,
-  "2023-08-06": 57445,
-  "2023-08-07": 57445,
-  "2023-08-08": 57633,
-  "2023-08-09": 57798,
-  "2023-08-10": 57965,
-  "2023-08-11": 58127,
-  "2023-08-12": 58274,
-  "2023-08-13": 58448,
-  "2023-08-14": 58660,
-  "2023-08-15": 59032,
-  "2023-08-16": 59032,
-  "2023-08-17": 59220,
-  "2023-08-18": 59422,
-  "2023-08-19": 59608,
-  "2023-08-20": 59802,
-  "2023-08-21": 59966,
-  "2023-08-22": 60142,
-  "2023-08-23": 60311,
-  "2023-08-24": 60497,
-  "2023-08-25": 60662,
-  "2023-08-26": 60804,
-  "2023-08-27": 60961,
-  "2023-08-28": 61158,
-  "2023-08-29": 61343,
-  "2023-08-30": 61533,
-  "2023-08-31": 61703,
-  "2023-09-01": 62041,
-  "2023-09-02": 62041,
-  "2023-09-03": 62155,
-  "2023-09-04": 62362,
-  "2023-09-05": 62548,
-  "2023-09-06": 62729,
-  "2023-09-07": 62902,
-  "2023-09-08": 63097,
-  "2023-09-09": 63293,
-  "2023-09-10": 63478,
-  "2023-09-11": 63649,
-  "2023-09-12": 63859,
-  "2023-09-13": 64057,
-  "2023-09-14": 64250,
-  "2023-09-15": 64429,
-  "2023-09-16": 64578,
-  "2023-09-17": 64761,
-  "2023-09-18": 64925,
-  "2023-09-19": 65074,
-  "2023-09-20": 65242,
-  "2023-09-21": 65395,
-  "2023-09-22": 65542,
-  "2023-09-23": 65732,
-  "2023-09-24": 65928,
-  "2023-09-25": 66128,
-  "2023-09-26": 66370,
-  "2023-09-27": 66493,
-  "2023-09-28": 66668,
-  "2023-09-29": 66827,
-  "2023-09-30": 66982,
-  "2023-10-01": 67121,
-  "2023-10-02": 67275,
-  "2023-10-03": 67419,
-  "2023-10-04": 67570,
-  "2023-10-05": 67712,
-  "2023-10-06": 67874,
-  "2023-10-07": 68023,
-  "2023-10-08": 68184,
-  "2023-10-09": 68327,
-  "2023-10-10": 68449,
-  "2023-10-11": 68699,
-  "2023-10-12": 68699,
-  "2023-10-13": 68822,
-  "2023-10-14": 68930,
-  "2023-10-15": 69053,
-  "2023-10-16": 69188,
-  "2023-10-17": 69309,
-  "2023-10-18": 69430,
-  "2023-10-19": 69555,
-  "2023-10-20": 69702,
-  "2023-10-21": 69795,
-  "2023-10-22": 69898,
-  "2023-10-23": 70030,
-  "2023-10-24": 70134,
-  "2023-10-25": 70282,
-  "2023-10-26": 70409,
-  "2023-10-27": 70505,
-  "2023-10-28": 70583,
-  "2023-10-29": 70666,
-  "2023-10-30": 70884,
-  "2023-10-31": 70884,
-  "2023-11-01": 70987,
-  "2023-11-02": 71105,
-  "2023-11-03": 71193,
-  "2023-11-04": 71283,
-  "2023-11-05": 71369,
-  "2023-11-06": 71481,
-  "2023-11-07": 71562,
-  "2023-11-08": 71653,
-  "2023-11-09": 71744,
-  "2023-11-10": 71845,
-  "2023-11-11": 71982,
-  "2023-11-12": 72049,
-  "2023-11-13": 72143,
-  "2023-11-14": 72245,
-  "2023-11-15": 72245,
-  "2023-11-16": 72406,
-  "2023-11-17": 72552,
-  "2023-11-18": 72552,
-  "2023-11-19": 72640,
-  "2023-11-20": 72729,
-  "2023-11-21": 72811,
-  "2023-11-22": 72911,
-  "2023-11-23": 73001,
-  "2023-11-24": 73071,
-  "2023-11-25": 73129,
-  "2023-11-26": 73200,
-  "2023-11-27": 73292,
-  "2023-11-28": 73375,
-  "2023-11-29": 73539,
-  "2023-11-30": 73539,
-  "2023-12-01": 73601,
-  "2023-12-02": 73659,
-  "2023-12-03": 73728,
-  "2023-12-04": 73811,
-  "2023-12-05": 73875,
-  "2023-12-06": 73953,
-  "2023-12-07": 74036,
-  "2023-12-08": 74089,
-  "2023-12-09": 74102,
-  "2023-12-10": 74129,
-  "2023-12-11": 74136,
-  "2023-12-12": 74143,
-  "2023-12-13": 74161,
-  "2023-12-14": 74180,
-  "2023-12-15": 74181,
-  "2023-12-16": 74193,
-  "2023-12-17": 74191,
-  "2023-12-18": 74205,
-  "2023-12-19": 74214,
-  "2023-12-20": 74225,
-  "2023-12-21": 74226,
-  "2023-12-22": 74235,
-  "2023-12-23": 74244,
-  "2023-12-24": 74246,
-  "2023-12-25": 74249,
-  "2023-12-26": 74255,
-  "2023-12-27": 74262,
-  "2023-12-30": 74277,
-  "2023-12-31": 74281,
-  "2024-01-01": 74292,
-  "2024-01-02": 74302,
-  "2024-01-03": 74313
+  "2024-01-17": 74439,
+  "date_first_scraped": "2021-12-28",
+  "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
+  "name": "Modhymns",
+  "tracks": [
+    {
+      "album": {
+        "name": "Hymns - IV",
+        "url": "https://open.spotify.com/album/2HJKSxzziWNXmaeKlVdjQ5"
+      },
+      "artists": [
+        {
+          "name": "Page CXVI",
+          "url": "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 253520,
+      "name": "'tis So Sweet To Trust In Jesus",
+      "url": "https://open.spotify.com/track/0IIRQLWP8BAgVIr1EfQ7WW"
+    },
+    {
+      "album": {
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256933,
+      "name": "10,000 Reasons (Bless The Lord) [Radio Version] - Radio Version/Live",
+      "url": "https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m"
+    },
+    {
+      "album": {
+        "name": "Wake Thy Slumbering Children: Indelible Grace V",
+        "url": "https://open.spotify.com/album/1RMhj9PiOYUnhV4tmfJX99"
+      },
+      "artists": [
+        {
+          "name": "Indelible Grace Music",
+          "url": "https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244360,
+      "name": "Abide With Me [Mp Jones]",
+      "url": "https://open.spotify.com/track/3WIM3qKRu2OGenEq5OSke2"
+    },
+    {
+      "album": {
+        "name": "Joy Has Dawned",
+        "url": "https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8"
+      },
+      "artists": [
+        {
+          "name": "Kings (MHM)",
+          "url": "https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246106,
+      "name": "All Glory Be to Christ",
+      "url": "https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP"
+    },
+    {
+      "album": {
+        "name": "Joy Has Dawned",
+        "url": "https://open.spotify.com/album/5caVT9WZQY2QTCmGbY20gr"
+      },
+      "artists": [
+        {
+          "name": "Kings (MHM)",
+          "url": "https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 246106,
+      "name": "All Glory Be to Christ",
+      "url": "https://open.spotify.com/track/7aoSSFsRPPQzrtSyJQCjHw"
+    },
+    {
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497560,
+      "name": "All Hail King Jesus",
+      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
+    },
+    {
+      "album": {
+        "name": "All Hail King Jesus",
+        "url": "https://open.spotify.com/album/33G0UbjSX4yWwnETqnjXji"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 497560,
+      "name": "All Hail King Jesus",
+      "url": "https://open.spotify.com/track/670JVxPZMP2iKZKdh3WVXN"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/3OPnPJLLEqNh0emXgOFvr2"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291613,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/5RpRk6xZhV4gUimLrfA1R3"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace (feat. Alex Boy\u00e9)",
+        "url": "https://open.spotify.com/album/4dFzU6vymLHbnhu9toGD6e"
+      },
+      "artists": [
+        {
+          "name": "The Five Strings",
+          "url": "https://open.spotify.com/artist/0fhBSxFb3yd0f5iGi3RDFJ"
+        },
+        {
+          "name": "Alex Boy\u00e9",
+          "url": "https://open.spotify.com/artist/6SraGCznFUAZ3zb4zVe3DM"
+        },
+        {
+          "name": "Ricky Valadez",
+          "url": "https://open.spotify.com/artist/4fwJnkrxXiJHDmFkcm7Gpg"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 240719,
+      "name": "Amazing Grace (feat. Alex Boy\u00e9)",
+      "url": "https://open.spotify.com/track/0Vsda24FRm3DL3lFxj6kUg"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace (feat. Alex Boy\u00e9)",
+        "url": "https://open.spotify.com/album/2QYl1hk8SMThjPmF75qNK4"
+      },
+      "artists": [
+        {
+          "name": "The Five Strings",
+          "url": "https://open.spotify.com/artist/0fhBSxFb3yd0f5iGi3RDFJ"
+        },
+        {
+          "name": "Alex Boy\u00e9",
+          "url": "https://open.spotify.com/artist/6SraGCznFUAZ3zb4zVe3DM"
+        },
+        {
+          "name": "Ricky Valadez",
+          "url": "https://open.spotify.com/artist/4fwJnkrxXiJHDmFkcm7Gpg"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 240719,
+      "name": "Amazing Grace (feat. Alex Boy\u00e9)",
+      "url": "https://open.spotify.com/track/2lRfykF7mQGwE4sixaxfcJ"
+    },
+    {
+      "album": {
+        "name": "Through It All, Pt. 1 (Live)",
+        "url": "https://open.spotify.com/album/3M262kr8sfZmkXHqankWGi"
+      },
+      "artists": [
+        {
+          "name": "Aaron Keyes",
+          "url": "https://open.spotify.com/artist/1hVGwYOmDTYPGeymjvTmeq"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 358699,
+      "name": "And Can It Be (Live)",
+      "url": "https://open.spotify.com/track/3Z6nm5jGyvKnjNMCD6b1uR"
+    },
+    {
+      "album": {
+        "name": "Another In The Fire (Live)",
+        "url": "https://open.spotify.com/album/1StFSkLn6WcA8pORvC8KD8"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 393360,
+      "name": "Another In The Fire - Live",
+      "url": "https://open.spotify.com/track/58Ru1XZP3lxJ6wJoFT2PmL"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/4nethjIvc2RFvmhvssVdAD"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 393346,
+      "name": "Another In The Fire - Live",
+      "url": "https://open.spotify.com/track/33zmnhKQpbGq73yKcLP9El"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393360,
+      "name": "Another In The Fire - Live",
+      "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
+    },
+    {
+      "album": {
+        "name": "Praise 8 - As The Deer",
+        "url": "https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Music",
+          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "As The Deer",
+      "url": "https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf"
+    },
+    {
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3x5CRN5vXyPcBuaFOg4D6k"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239973,
+      "name": "At The Foot Of The Cross - Acoustic",
+      "url": "https://open.spotify.com/track/31LmKMgaBngNroZmoJgvy1"
+    },
+    {
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239973,
+      "name": "At the Foot of the Cross - Acoustic",
+      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
+    },
+    {
+      "album": {
+        "name": "Roots Run Deeper",
+        "url": "https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v"
+      },
+      "artists": [
+        {
+          "name": "Jadon Lavik",
+          "url": "https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-26",
+      "duration_ms": 282066,
+      "name": "Be Still My Soul",
+      "url": "https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw"
+    },
+    {
+      "album": {
+        "name": "Hymns Sampler",
+        "url": "https://open.spotify.com/album/1XAwj4FtK8ipTXKmhA0AEg"
+      },
+      "artists": [
+        {
+          "name": "Page CXVI",
+          "url": "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 239213,
+      "name": "Be Still My Soul",
+      "url": "https://open.spotify.com/track/4xZ0s7YTRru5pAw1WtSdNX"
+    },
+    {
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213730,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/2s1a8wNeH6IiOSowWj9veS"
+    },
+    {
+      "album": {
+        "name": "Be Thou My Vision",
+        "url": "https://open.spotify.com/album/27ZlsmMgJgbtLM7XzQQXKv"
+      },
+      "artists": [
+        {
+          "name": "Norton Hall Band",
+          "url": "https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/4TALuYddLLmJDM14GkhSmG"
+    },
+    {
+      "album": {
+        "name": "A Hymn Revival: Vol. 2",
+        "url": "https://open.spotify.com/album/6n5YhTwVVLpDz0pobKEe5P"
+      },
+      "artists": [
+        {
+          "name": "The Lower Lights",
+          "url": "https://open.spotify.com/artist/44FVyueHCLAMyJPnvCqqwM"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167013,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/5Dl6FoHQnYlfMDOMCBFrRp"
+    },
+    {
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
+    },
+    {
+      "album": {
+        "name": "Risen",
+        "url": "https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323133,
+      "name": "Behold Our God",
+      "url": "https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN"
+    },
+    {
+      "album": {
+        "name": "Tow'rs",
+        "url": "https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381467,
+      "name": "Belly of the Deepest Love",
+      "url": "https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn"
+    },
+    {
+      "album": {
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438200,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271906,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t"
+    },
+    {
+      "album": {
+        "name": "Housefires III",
+        "url": "https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491690,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s"
+    },
+    {
+      "album": {
+        "name": "Housefires III",
+        "url": "https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 491690,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp"
+    },
+    {
+      "album": {
+        "name": "The All Sons & Daughters Collection",
+        "url": "https://open.spotify.com/album/3Z0ByqDlZa1julfE0Gt9mk"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 355239,
+      "name": "Called Me Higher",
+      "url": "https://open.spotify.com/track/4QpqJ4AzFGV0gTqvOaIFCK"
+    },
+    {
+      "album": {
+        "name": "The Longing",
+        "url": "https://open.spotify.com/album/5eGkHTfJHgDOsF7KbcZfNc"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 355320,
+      "name": "Called Me Higher",
+      "url": "https://open.spotify.com/track/3NeKjtQmHU0r34J1hNt0zG"
+    },
+    {
+      "album": {
+        "name": "The Longing EP No. 3",
+        "url": "https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355320,
+      "name": "Called Me Higher",
+      "url": "https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42"
+    },
+    {
+      "album": {
+        "name": "The Undoing",
+        "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244479,
+      "name": "Cecie's Lullaby",
+      "url": "https://open.spotify.com/track/4swc1KilG2ZCsF26hvz3Cq"
+    },
+    {
+      "album": {
+        "name": "The Undoing",
+        "url": "https://open.spotify.com/album/3Fw3TlMk1XiUQlaIBMhNgt"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244479,
+      "name": "Cecie\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/1VNzpN2QspjP5us4nms4De"
+    },
+    {
+      "album": {
+        "name": "Messenger Hymns, Vol. 2 - EP",
+        "url": "https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234801,
+      "name": "Christ the Sure and Steady Anchor",
+      "url": "https://open.spotify.com/track/4Pq8VwiL1XA7MfpmDhY7dw"
+    },
+    {
+      "album": {
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
+    },
+    {
+      "album": {
+        "name": "Come Behold the Wondrous Mystery - Single",
+        "url": "https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 228437,
+      "name": "Come Behold the Wondrous Mystery",
+      "url": "https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ"
+    },
+    {
+      "album": {
+        "name": "Good to Me",
+        "url": "https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240801,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh"
+    },
+    {
+      "album": {
+        "name": "Asaph's Arrows",
+        "url": "https://open.spotify.com/album/0Pys5OxfX2iOtIUiFoDDMh"
+      },
+      "artists": [
+        {
+          "name": "Kings (MHM)",
+          "url": "https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 296800,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/3TjbpRjtWYHFwigdLMr8Zl"
+    },
+    {
+      "album": {
+        "name": "Asaph's Arrows - EP",
+        "url": "https://open.spotify.com/album/1GHtYOjEg073oStqoan99K"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296800,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/4KWqsra7XbtEdZTPYT1ZVJ"
+    },
+    {
+      "album": {
+        "name": "Laus Deo",
+        "url": "https://open.spotify.com/album/0Ti83UJsThYXnvVBRBJVAz"
+      },
+      "artists": [
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+        },
+        {
+          "name": "John Rhee",
+          "url": "https://open.spotify.com/artist/7kdZdS2FP5Eo3W4Y6H76wr"
+        },
+        {
+          "name": "Yuris Yoon",
+          "url": "https://open.spotify.com/artist/4CJebvyrxoOaB8vFTkPQSh"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 265493,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/6xm33FNagGQqZAawkJSFkh"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351718,
+      "name": "Come Thou Fount (Above All Else)",
+      "url": "https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v"
+    },
+    {
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Come Thou Fount Of Every Blessing",
+      "url": "https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR"
+    },
+    {
+      "album": {
+        "name": "Lead Thou Me On: Hymns and Inspiration",
+        "url": "https://open.spotify.com/album/0jakt8ILjsfPcOtFwg7cqT"
+      },
+      "artists": [
+        {
+          "name": "BYU Vocal Point",
+          "url": "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
+        },
+        {
+          "name": "Landon Peay",
+          "url": "https://open.spotify.com/artist/7lMvLskc1siIVCOaWM5o07"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203133,
+      "name": "Come, Thou Fount of Every Blessing",
+      "url": "https://open.spotify.com/track/60AQAm14aDJOnBREZaRPij"
+    },
+    {
+      "album": {
+        "name": "Lead Thou Me On: Hymns and Inspiration",
+        "url": "https://open.spotify.com/album/2lebc92AdkZlPsKtaaov6M"
+      },
+      "artists": [
+        {
+          "name": "BYU Vocal Point",
+          "url": "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "Come, Thou Fount of Every Blessing (Arr. Keith McKay Evans)",
+      "url": "https://open.spotify.com/track/5AtKT9gWXpzn8AJcuwT62k"
+    },
+    {
+      "album": {
+        "name": "Counting Every Blessing",
+        "url": "https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302780,
+      "name": "Counting Every Blessing",
+      "url": "https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG"
+    },
+    {
+      "album": {
+        "name": "Isla Vista Worship",
+        "url": "https://open.spotify.com/album/1GWDNLLPguXowYFSWx97Ef"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 264617,
+      "name": "Dancing on the Moon",
+      "url": "https://open.spotify.com/track/7w0JJqemxICJVhhZn2i8ut"
+    },
+    {
+      "album": {
+        "name": "Posters",
+        "url": "https://open.spotify.com/album/57Ny8gmLYJiuVsKxsCODI9"
+      },
+      "artists": [
+        {
+          "name": "Strahan",
+          "url": "https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 235240,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/4zix6HrTv8o34tmQXO91of"
+    },
+    {
+      "album": {
+        "name": "Posters",
+        "url": "https://open.spotify.com/album/41mwyfJfSsfuELRYdC0q6v"
+      },
+      "artists": [
+        {
+          "name": "Strahan",
+          "url": "https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235240,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/52Ow3Du0P5XMBIRvOMHXUj"
+    },
+    {
+      "album": {
+        "name": "The Collection EP",
+        "url": "https://open.spotify.com/album/7h98jraQkSZKqN3XlvfphI"
+      },
+      "artists": [
+        {
+          "name": "The Collection",
+          "url": "https://open.spotify.com/artist/3sva1UjOJOx6cGISZOpItl"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295226,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/7pJqpTz3eTq0aJIyoLxamG"
+    },
+    {
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464398,
+      "name": "Divine / Sailing / Time / Hymn - Acoustic",
+      "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
+    },
+    {
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3x5CRN5vXyPcBuaFOg4D6k"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 464400,
+      "name": "Divine / Sailing / Time / Hymn - Acoustic",
+      "url": "https://open.spotify.com/track/4pxrU6M8qULH1S9v0kv0YT"
+    },
+    {
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273293,
+      "name": "Do it Again (Acoustic)",
+      "url": "https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse"
+    },
+    {
+      "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 42373,
+      "name": "Doxology",
+      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
+    },
+    {
+      "album": {
+        "name": "Broken Voice",
+        "url": "https://open.spotify.com/album/2YrNDHsk3sdrG1273AqlPy"
+      },
+      "artists": [
+        {
+          "name": "My Epic",
+          "url": "https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 190880,
+      "name": "doxology",
+      "url": "https://open.spotify.com/track/2PMzoMvHUh8SRcSkx2E51K"
+    },
+    {
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124311,
+      "name": "Doxology (feat. Selah)",
+      "url": "https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP"
+    },
+    {
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/55y8iZYeiGKxYCxmWF5Nd4"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        },
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 124311,
+      "name": "Doxology (feat. Selah)",
+      "url": "https://open.spotify.com/track/7eDggDAqjNLmvPsWR4W4LY"
+    },
+    {
+      "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/4APhyYBjliHGPfs3zLsmVE"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278760,
+      "name": "Doxology//Amen",
+      "url": "https://open.spotify.com/track/6oJlEWCnw9lMejLEYlqH84"
+    },
+    {
+      "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279253,
+      "name": "Doxology//Amen",
+      "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
+    },
+    {
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 12",
+        "url": "https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Bethany Barnard",
+          "url": "https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 291708,
+      "name": "Ever Be",
+      "url": "https://open.spotify.com/track/4lpbumeJ0OhkUMR2ywRelJ"
+    },
+    {
+      "album": {
+        "name": "The Loft Sessions",
+        "url": "https://open.spotify.com/album/4j0qiJw946YRhJ9UpNcqaA"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264680,
+      "name": "Fall Afresh",
+      "url": "https://open.spotify.com/track/321jLsfufuG8Ot8GsYffdm"
+    },
+    {
+      "album": {
+        "name": "The Loft Sessions",
+        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "Fall Afresh",
+      "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
+    },
+    {
+      "album": {
+        "name": "Fire and Stone",
+        "url": "https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 264480,
+      "name": "Far Kingdom",
+      "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
+    },
+    {
+      "album": {
+        "name": "No 4: Creation",
+        "url": "https://open.spotify.com/album/1xBXUvPWnFj7NaKNNweqEz"
+      },
+      "artists": [
+        {
+          "name": "A New Liturgy",
+          "url": "https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 326907,
+      "name": "For the Beauty of the Earth",
+      "url": "https://open.spotify.com/track/5G7QaeDEy7kFPac5Hr5INn"
+    },
+    {
+      "album": {
+        "name": "Rise Up Dead Men",
+        "url": "https://open.spotify.com/album/4z9J9fjvzHJ06FSsdMjohG"
+      },
+      "artists": [
+        {
+          "name": "Andrew Laparra",
+          "url": "https://open.spotify.com/artist/63cOTTgz0xL3mMibwp4448"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 194716,
+      "name": "For The Beauty Of The Earth",
+      "url": "https://open.spotify.com/track/3VcanlxLngJ4UvZBiqriRL"
+    },
+    {
+      "album": {
+        "name": "A Hymn Revival",
+        "url": "https://open.spotify.com/album/6ILgwUXyeBGpu2lhztluNX"
+      },
+      "artists": [
+        {
+          "name": "The Lower Lights",
+          "url": "https://open.spotify.com/artist/44FVyueHCLAMyJPnvCqqwM"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208120,
+      "name": "For the Beauty of the Earth",
+      "url": "https://open.spotify.com/track/7LBbgWuEg6vTCl1RBJsfe7"
+    },
+    {
+      "album": {
+        "name": "Found",
+        "url": "https://open.spotify.com/album/5pY9YABRGvFwXfrWfFfcu6"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-23",
+      "duration_ms": 371000,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/3b3xjYpkw8FNNC7F80GY1V"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282681,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S"
+    },
+    {
+      "album": {
+        "name": "A Cappella Hymns: Great is Thy Faithfulness",
+        "url": "https://open.spotify.com/album/3LNvnRus6OtSIbYnWfadf9"
+      },
+      "artists": [
+        {
+          "name": "Discovery Singers",
+          "url": "https://open.spotify.com/artist/4XUltzTgP8sMvgKTOyjceo"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 102613,
+      "name": "God Be With You 'Til We Meet Again",
+      "url": "https://open.spotify.com/track/25KzYi6aoVQy2qtDuP4Viu"
+    },
+    {
+      "album": {
+        "name": "God I Look to You",
+        "url": "https://open.spotify.com/album/1t2UalMvs6V2pkCIuXDFfT"
+      },
+      "artists": [
+        {
+          "name": "John Ward",
+          "url": "https://open.spotify.com/artist/60vLjtgcrQRJuLfEvM2v2j"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 278936,
+      "name": "God I Look to You",
+      "url": "https://open.spotify.com/track/6sDKhTbn1Hd3niDhvrhfe9"
+    },
+    {
+      "album": {
+        "name": "Love Be the Loudest",
+        "url": "https://open.spotify.com/album/7GsP374qLlU2p3p7jx974W"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        },
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 146640,
+      "name": "God Is Love (feat. All Sons & Daughters)",
+      "url": "https://open.spotify.com/track/283BmGxKKhAhUQ1bP61Ve8"
+    },
+    {
+      "album": {
+        "name": "Becoming Who We Are",
+        "url": "https://open.spotify.com/album/4N0nmK7gWxKZvRwTv02FKs"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218973,
+      "name": "Grace Alone",
+      "url": "https://open.spotify.com/track/3JhCq2r9PbbWYdQ1qpoKEX"
+    },
+    {
+      "album": {
+        "name": "Becoming Who We Are",
+        "url": "https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218973,
+      "name": "Grace Alone",
+      "url": "https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS"
+    },
+    {
+      "album": {
+        "name": "The Water & the Blood (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/6q9ELI2GiibTPc1iQrLLZQ"
+      },
+      "artists": [
+        {
+          "name": "The Modern Post",
+          "url": "https://open.spotify.com/artist/6z989iXQpOqgPU7vDclfna"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 205404,
+      "name": "Grace Alone (Acoustic)",
+      "url": "https://open.spotify.com/track/4AMRgsSvJZJS7N71AM3px2"
+    },
+    {
+      "album": {
+        "name": "Hymned Again",
+        "url": "https://open.spotify.com/album/0CHpejz0x5Frhee4fcL5Zf"
+      },
+      "artists": [
+        {
+          "name": "Bart Millard",
+          "url": "https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179813,
+      "name": "Grace That Is Greater",
+      "url": "https://open.spotify.com/track/7cW1IGxINOv8u6Fx694tKr"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/3ipWSwVosGnKH72eeJlt35"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 290413,
+      "name": "Great Are You Lord - Live",
+      "url": "https://open.spotify.com/track/4gGUqjNxrpHx617qOH7WuF"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290413,
+      "name": "Great Are You Lord - Live",
+      "url": "https://open.spotify.com/track/4PYOh644yKjYyvyVUHqcof"
+    },
+    {
+      "album": {
+        "name": "Great Is Thy Faithfulness",
+        "url": "https://open.spotify.com/album/5THKPg2PJbxmj3nl6D7fpg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261600,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/3dbQ6EkRqF9QybiLBK6OtZ"
+    },
+    {
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281866,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 6",
+        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271766,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
+    },
+    {
+      "album": {
+        "name": "Great Is Thy Faithfulness (Live at T.G.C.)",
+        "url": "https://open.spotify.com/album/33AjyjiRc3YXSqQarTc3yq"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 417818,
+      "name": "Great Is Thy Faithfulness (Live at T.G.C.)",
+      "url": "https://open.spotify.com/track/0rZBcDIC2TRXOdfThAvesH"
+    },
+    {
+      "album": {
+        "name": "My Hope and Stay: Hymns Project, Vol. II",
+        "url": "https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO"
+      },
+      "artists": [
+        {
+          "name": "Norton Hall Band",
+          "url": "https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310000,
+      "name": "He Will Hold Me Fast",
+      "url": "https://open.spotify.com/track/2iPIKdiYSpxaS2MDgHwDQd"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282041,
+      "name": "He Will Hold Me Fast",
+      "url": "https://open.spotify.com/track/1Mp90z16Mneiqthtf7fOf9"
+    },
+    {
+      "album": {
+        "name": "Hymn Project, Vol. 1",
+        "url": "https://open.spotify.com/album/44hwEGMqCKs1OdTt6bXnBh"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Moon & Uncle Daddy",
+          "url": "https://open.spotify.com/artist/1tULQRiY641qjQerNaGKFT"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234318,
+      "name": "He's Always Been Faithful",
+      "url": "https://open.spotify.com/track/64Q7YZbFlT8IOtnrEEM7JN"
+    },
+    {
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320400,
+      "name": "Head to the Heart (Live)",
+      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 9",
+        "url": "https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306806,
+      "name": "Heart of Worship",
+      "url": "https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I"
+    },
+    {
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394186,
+      "name": "Hidden (Live) [feat. Will Reagan]",
+      "url": "https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC"
+    },
+    {
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249242,
+      "name": "Hills and Valleys (The Valleys Version)",
+      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
+    },
+    {
+      "album": {
+        "name": "Church Songs",
+        "url": "https://open.spotify.com/album/6FLtXL76cqZVn5f0L4vR84"
+      },
+      "artists": [
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206040,
+      "name": "His Mercy Is More",
+      "url": "https://open.spotify.com/track/058tyWQSQ3CrXp1locpRdN"
+    },
+    {
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189398,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/7JzvdSrUXSMXll3SISuO1K"
+    },
+    {
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg"
+    },
+    {
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-25",
+      "duration_ms": 230013,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6GjYRXGmP1CQrAb9ORvaFV"
+    },
+    {
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/7fGun1zK6PCspsA07Qtk0y"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 283986,
+      "name": "House Of God, Forever",
+      "url": "https://open.spotify.com/track/5Ubpu6Eyochmp3kmaVB7AN"
+    },
+    {
+      "album": {
+        "name": "Becoming Who We Are",
+        "url": "https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 303946,
+      "name": "How Deep",
+      "url": "https://open.spotify.com/track/2aeu7z7IAokrS2uowbiNkq"
+    },
+    {
+      "album": {
+        "name": "Becoming Who We Are",
+        "url": "https://open.spotify.com/album/5FvbA4A3Bz57q4RNQ1iKvt"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 303946,
+      "name": "How Deep",
+      "url": "https://open.spotify.com/track/4Kz43V5qjb5utJzpvdDtqf"
+    },
+    {
+      "album": {
+        "name": "The Dispatch",
+        "url": "https://open.spotify.com/album/0n8uwiRgvNI0u0XykZRUN9"
+      },
+      "artists": [
+        {
+          "name": "The Dispatch",
+          "url": "https://open.spotify.com/artist/2LTftJfriIYq8l6tdvml26"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 236853,
+      "name": "How Deep the Father's Love",
+      "url": "https://open.spotify.com/track/2JDXeVpYXOknuXknISsLSq"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 10",
+        "url": "https://open.spotify.com/album/2OA6y3LLLgVOtllgmapCDS"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255129,
+      "name": "How Deep The Father's Love",
+      "url": "https://open.spotify.com/track/3ThtFzQBcQmjDV6gqXRwAr"
+    },
+    {
+      "album": {
+        "name": "Bring The Morning, Bring the Sun",
+        "url": "https://open.spotify.com/album/3H29lyi715PnI7cufEoqJu"
+      },
+      "artists": [
+        {
+          "name": "Adam Wheatley",
+          "url": "https://open.spotify.com/artist/1VrytJtdUWHEzLlSUesCtK"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 185080,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/0HHFjgCLYoc1KUxGaJAWt1"
+    },
+    {
+      "album": {
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/0mj1P9XdKwUn2M2sVsIVFe"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216454,
+      "name": "How Deep the Father's Love for Us",
+      "url": "https://open.spotify.com/track/5yxV7E3ezJA6rF4ICYYSZV"
+    },
+    {
+      "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320626,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/4fvpSvvMoEd9ka3wfMGjKn"
+    },
+    {
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293986,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294386,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/1SnZi2eVU2kcXRNJT6ek4J"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 3",
+        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290682,
+      "name": "How He Loves Us",
+      "url": "https://open.spotify.com/track/2dyYBCVgOZTCYe6QvYhSsN"
+    },
+    {
+      "album": {
+        "name": "I Have Decided To Follow Jesus - Single",
+        "url": "https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK"
+      },
+      "artists": [
+        {
+          "name": "Jadon Lavik",
+          "url": "https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188291,
+      "name": "I Have Decided To Follow Jesus",
+      "url": "https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm"
+    },
+    {
+      "album": {
+        "name": "Lent to Maundy Thursday (Remastered)",
+        "url": "https://open.spotify.com/album/2NYpgPQoDpF1UdPsaM1zU2"
+      },
+      "artists": [
+        {
+          "name": "Page CXVI",
+          "url": "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 293000,
+      "name": "I Love the Lord",
+      "url": "https://open.spotify.com/track/39dBTIPkDWYulicumSFMaT"
+    },
+    {
+      "album": {
+        "name": "Fortunate Fall",
+        "url": "https://open.spotify.com/album/76I8fqOA2ZEoASDzbifCMA"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280666,
+      "name": "I Shall Not Want",
+      "url": "https://open.spotify.com/track/5rgukqlCowrFmIIAF4Cs8u"
+    },
+    {
+      "album": {
+        "name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/4rJtUMlnhJzlzlnxyoc3tb"
+    },
+    {
+      "album": {
+        "name": "Redemption Songs",
+        "url": "https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 282706,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q"
+    },
+    {
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 297333,
+      "name": "In Christ Alone / The Solid Rock - Medley",
+      "url": "https://open.spotify.com/track/7lFVnw9VGXTxUcjlrSH4g6"
+    },
+    {
+      "album": {
+        "name": "Sing On!",
+        "url": "https://open.spotify.com/album/3D5oSG744Vr3BWjj7teObu"
+      },
+      "artists": [
+        {
+          "name": "The Sing Team",
+          "url": "https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 309000,
+      "name": "In Tenderness",
+      "url": "https://open.spotify.com/track/6qXtLiSyCj8IGrQnb1AvFb"
+    },
+    {
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/6wuUosaTZizPH4t085tNVg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 385053,
+      "name": "It Is Well (Live)",
+      "url": "https://open.spotify.com/track/5t0izTLPeWYLiIfHPJbORJ"
+    },
+    {
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385053,
+      "name": "It Is Well - Live",
+      "url": "https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7"
+    },
+    {
+      "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279653,
+      "name": "It Is Well With My Soul",
+      "url": "https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn"
+    },
+    {
+      "album": {
+        "name": "From The Steepest Slopes",
+        "url": "https://open.spotify.com/album/3Mp355jCOPeTUNvkMuVUnW"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 225103,
+      "name": "Jesus Keep Me Near The Cross",
+      "url": "https://open.spotify.com/track/5PNCKp58MhyJgL7b6fYBVR"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 5",
+        "url": "https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228330,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
+    },
+    {
+      "album": {
+        "name": "30: Three Decades of Songs for the Church",
+        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        {
+          "name": "Brook Hills Music",
+          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292600,
+      "name": "Jesus, Thank You",
+      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
+    },
+    {
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273960,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R"
+    },
+    {
+      "album": {
+        "name": "Tell All My Friends",
+        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351760,
+      "name": "Lay It All Down",
+      "url": "https://open.spotify.com/track/2YkANIn2t02TQms674Vv9Z"
+    },
+    {
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Andrea Marie",
+          "url": "https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490453,
+      "name": "Let It Happen (Live) [feat. Andrea Marie]",
+      "url": "https://open.spotify.com/track/1MCxM27lS1cDA7py53mqRt"
+    },
+    {
+      "album": {
+        "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
+        "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 307157,
+      "name": "Little Things With Great Love (Live) [feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV"
+    },
+    {
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/2ZlyhJR1Y2Ik5cvkw6nx8I"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/5B58hgrfK6gaN5FxNyUeSJ"
+    },
+    {
+      "album": {
+        "name": "Looking for a Savior",
+        "url": "https://open.spotify.com/album/49Sji0qFHMPviE2XKNTxzk"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 398560,
+      "name": "Looking for a Savior (feat. Will Reagan)",
+      "url": "https://open.spotify.com/track/4921u7ihAcYQGZOTBtpC4d"
+    },
+    {
+      "album": {
+        "name": "Beyond Control",
+        "url": "https://open.spotify.com/album/788LGX06XoO0BYUNcumSTH"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 231400,
+      "name": "Lost?",
+      "url": "https://open.spotify.com/track/3T1CKrdMfrXJC5VXC19LUm"
+    },
+    {
+      "album": {
+        "name": "Immanuel",
+        "url": "https://open.spotify.com/album/0s96dihOjvhrc9HUbwu9Ga"
+      },
+      "artists": [
+        {
+          "name": "Melanie Penn",
+          "url": "https://open.spotify.com/artist/4WKIrizEfylpzQsdegJlfh"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 393613,
+      "name": "Love's Coming Down (Isaiah)",
+      "url": "https://open.spotify.com/track/23dfS88wEJaMeqCH1glu7y"
+    },
+    {
+      "album": {
+        "name": "Lovingkindness (Live)",
+        "url": "https://open.spotify.com/album/6Y1kTIjz03vm9rvRKczpJC"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267466,
+      "name": "Lovingkindness - Live",
+      "url": "https://open.spotify.com/track/5zCws40J94BwTOHDaZFuqU"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative",
+        "url": "https://open.spotify.com/album/2MXE4HXAhuYewZjWELE9Dq"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 311306,
+      "name": "Man of Sorrows",
+      "url": "https://open.spotify.com/track/3eytMjOdgSIFEUBJP6dujB"
+    },
+    {
+      "album": {
+        "name": "I'm Living Proof",
+        "url": "https://open.spotify.com/album/68lzPFCVrZVnm3eas1akxD"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 319960,
+      "name": "Man of Sorrows",
+      "url": "https://open.spotify.com/track/2ok2FRBdJTClHUN68whaEE"
+    },
+    {
+      "album": {
+        "name": "As Sure as the Sun",
+        "url": "https://open.spotify.com/album/7BLcea96Wy0Xo7Nm1HqNBC"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 191840,
+      "name": "Marvelous Light",
+      "url": "https://open.spotify.com/track/07qYyHbxpJq5SKRWGUutvG"
+    },
+    {
+      "album": {
+        "name": "My Hope and Stay: Hymns Project, Vol. II",
+        "url": "https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO"
+      },
+      "artists": [
+        {
+          "name": "Norton Hall Band",
+          "url": "https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "My Hope Is Built / The Solid Rock",
+      "url": "https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78"
+    },
+    {
+      "album": {
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 201533,
+      "name": "My Hope Is in the Lord",
+      "url": "https://open.spotify.com/track/5aWMousRRsFOROMVikDtpx"
+    },
+    {
+      "album": {
+        "name": "My Lighthouse (Audio Performance Trax)",
+        "url": "https://open.spotify.com/album/5GDk1kzQUjVPgy2BLLfiRS"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 224173,
+      "name": "My Lighthouse",
+      "url": "https://open.spotify.com/track/6dceN3dX8I2hNAIvapA0g1"
+    },
+    {
+      "album": {
+        "name": "The Burning Edge Of Dawn",
+        "url": "https://open.spotify.com/album/4entt8rqr2zBv3UyyhnTsc"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211600,
+      "name": "My One Safe Place",
+      "url": "https://open.spotify.com/track/6HZscFrTUoroKurbl77u3l"
+    },
+    {
+      "album": {
+        "name": "Facing A Task Unfinished",
+        "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274080,
+      "name": "My Worth Is Not In What I Own",
+      "url": "https://open.spotify.com/track/2P4h4BnBsFxdMbHFr0jCo9"
+    },
+    {
+      "album": {
+        "name": "Tell All My Friends",
+        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291197,
+      "name": "Not in a Hurry",
+      "url": "https://open.spotify.com/track/4Xwry2rjyXZg9unm8QaRFL"
+    },
+    {
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181586,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ"
+    },
+    {
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/4E2YvGzYMgr4DizJJ0PQoo"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181586,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/78ISLT33SRj50WR6nwN0WH"
+    },
+    {
+      "album": {
+        "name": "Oak & Apple",
+        "url": "https://open.spotify.com/album/0JmOjAuq7M5sGEoIvZfJ6T"
+      },
+      "artists": [
+        {
+          "name": "Wilder Adkins",
+          "url": "https://open.spotify.com/artist/2AQVIbXzroJV8VBwKdy7Pc"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 341760,
+      "name": "Nothing But the Blood",
+      "url": "https://open.spotify.com/track/18iW7hApX3xsGMM5XN874f"
+    },
+    {
+      "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207487,
+      "name": "Nothing but the Blood of Jesus",
+      "url": "https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk"
+    },
+    {
+      "album": {
+        "name": "Live at the Banks House",
+        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376093,
+      "name": "Nothing I Hold on to (Live)",
+      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
+    },
+    {
+      "album": {
+        "name": "Tell All My Friends",
+        "url": "https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282050,
+      "name": "Nothing Without You",
+      "url": "https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1"
+    },
+    {
+      "album": {
+        "name": "O Come to the Altar - EP",
+        "url": "https://open.spotify.com/album/5nYwT2GxPwn06IkPk3p99f"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310581,
+      "name": "O Come to the Altar (Acoustic)",
+      "url": "https://open.spotify.com/track/6AfazLbUs4Y5g4tEyTKnLq"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 12",
+        "url": "https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298168,
+      "name": "O Praise the Name (An\u00e1stasis)",
+      "url": "https://open.spotify.com/track/0uOFh6gGbvNdWZ20YZ9oAn"
+    },
+    {
+      "album": {
+        "name": "Campfire II: Simplicity",
+        "url": "https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Oceans (Where Feet May FaiI)",
+      "url": "https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK"
+    },
+    {
+      "album": {
+        "name": "Morning Sun, Rising Tide",
+        "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "Oh What a Father",
+      "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
+    },
+    {
+      "album": {
+        "name": "Morning Sun, Rising Tide",
+        "url": "https://open.spotify.com/album/5ZFrFQRF1EHUDh49toRT16"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 236466,
+      "name": "Oh What a Father",
+      "url": "https://open.spotify.com/track/599w7fRMgsd0TBKfKsej0D"
+    },
+    {
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        },
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157337,
+      "name": "Oh, the Deep, Deep Love of Jesus (feat. Fernando Ortega)",
+      "url": "https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e"
+    },
+    {
+      "album": {
+        "name": "The Hymn Sing (Live in Nashville)",
+        "url": "https://open.spotify.com/album/1DjEafJtRkGyO1VEAdn65y"
+      },
+      "artists": [
+        {
+          "name": "Indelible Grace Music",
+          "url": "https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 327973,
+      "name": "On Jordan's Stormy Banks (Live)",
+      "url": "https://open.spotify.com/track/0zllW9HG3BQ1QHNNxEORCS"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 2",
+        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299787,
+      "name": "Open the Eyes of My Heart",
+      "url": "https://open.spotify.com/track/2THCQcUx495TezaDX57Syx"
+    },
+    {
+      "album": {
+        "name": "The Undoing",
+        "url": "https://open.spotify.com/album/3Fw3TlMk1XiUQlaIBMhNgt"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268492,
+      "name": "Out of Hiding",
+      "url": "https://open.spotify.com/track/4QqJzSUAtJgZ3AiCjDc89y"
+    },
+    {
+      "album": {
+        "name": "The Undoing",
+        "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268492,
+      "name": "Out of Hiding (Father's Song)",
+      "url": "https://open.spotify.com/track/5E0PVkm5wM9hV6zEUwpZb6"
+    },
+    {
+      "album": {
+        "name": "He Will Not Cry Out: Anthology of Hymns and Spiritual Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/6HNlnG7BkFlXiu2pGBY0Jy"
+      },
+      "artists": [
+        {
+          "name": "Bifrost Arts",
+          "url": "https://open.spotify.com/artist/19YqJFv1Z3IYLdTzMe3f7J"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 246706,
+      "name": "Psalm 126 (feat. Molly Parden)",
+      "url": "https://open.spotify.com/track/2Urw2FGFCqSaPhhH9DpAzx"
+    },
+    {
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312592,
+      "name": "Psalm 139 (Far Too Wonderful)",
+      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
+    },
+    {
+      "album": {
+        "name": "Psalms Live",
+        "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 399291,
+      "name": "Psalm 34 (Live)",
+      "url": "https://open.spotify.com/track/6JIBqMgc90xVGcfKkfrJ7P"
+    },
+    {
+      "album": {
+        "name": "The Beauty Between",
+        "url": "https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217053,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3nuCQCHTJfoJP6Ws2FczPS"
+    },
+    {
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
+    },
+    {
+      "album": {
+        "name": "The House You're Building",
+        "url": "https://open.spotify.com/album/788vAn9mghQAWMYLR8sagN"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-05",
+      "duration_ms": 295064,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/3stuliHpnexsTj6uXFJ5iI"
+    },
+    {
+      "album": {
+        "name": "Resurrecting - EP",
+        "url": "https://open.spotify.com/album/0Pw8f54MEx8sIYpMYrIQSn"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264840,
+      "name": "Resurrecting (Studio Version)",
+      "url": "https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s"
+    },
+    {
+      "album": {
+        "name": "The Beauty Between",
+        "url": "https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Braille",
+          "url": "https://open.spotify.com/artist/6RYTz1tFNDF2qP0mwqEwDO"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282160,
+      "name": "Safe Retreat (feat. Braille)",
+      "url": "https://open.spotify.com/track/6ygVhMeWmK6uW7IPQKdrnq"
+    },
+    {
+      "album": {
+        "name": "Oh! Great Is Our God! - EP",
+        "url": "https://open.spotify.com/album/6Qwaa0eRLxUUOgZbopMY41"
+      },
+      "artists": [
+        {
+          "name": "The Sing Team",
+          "url": "https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350226,
+      "name": "Satisfied in You (Psalm 42)",
+      "url": "https://open.spotify.com/track/0ML25KciIhm4UgAVKrDjAo"
+    },
+    {
+      "album": {
+        "name": "Oh! Great Is Our God!",
+        "url": "https://open.spotify.com/album/0ADYG6esFFJ0I3vfktmMTE"
+      },
+      "artists": [
+        {
+          "name": "The Sing Team",
+          "url": "https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 350226,
+      "name": "Satisfied in You (Psalm 42)",
+      "url": "https://open.spotify.com/track/40jK6rrM6gR5Bju6EuyP2P"
+    },
+    {
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a"
+      },
+      "artists": [
+        {
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346750,
+      "name": "Shepherd of My Soul",
+      "url": "https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz"
+    },
+    {
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Simple Gospel (Live)",
+      "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
+    },
+    {
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Brandon Hampton",
+          "url": "https://open.spotify.com/artist/5dC9jxV6hFvZpUmxvEKyQQ"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482386,
+      "name": "Since Your Love (Live) [feat. Brandon Hampton]",
+      "url": "https://open.spotify.com/track/0XPZo7uag05Vi90Tz0G8ry"
+    },
+    {
+      "album": {
+        "name": "Origin (A Beauty Initiative Within FOCUS)",
+        "url": "https://open.spotify.com/album/3gualeeJFIImqVS26w6Tzn"
+      },
+      "artists": [
+        {
+          "name": "FOCUS ",
+          "url": "https://open.spotify.com/artist/3864XPpbFZbVDI2wY1qdjK"
+        },
+        {
+          "name": "John Marc Skoch",
+          "url": "https://open.spotify.com/artist/1LQ166KWgN5KLIqT20qe12"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 481507,
+      "name": "Sing My Love / Like an Avalanche (feat. John Marc Skoch & Sarah Kroger)",
+      "url": "https://open.spotify.com/track/5HLQdmLAZhEqVo5slSeTIE"
+    },
+    {
+      "album": {
+        "name": "Softly And Tenderly",
+        "url": "https://open.spotify.com/album/0Mi5UCbI2mPA4Ws6Ql60Wj"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 329626,
+      "name": "Softly And Tenderly",
+      "url": "https://open.spotify.com/track/3RVSPxPCT29wt3NgJgAQNn"
+    },
+    {
+      "album": {
+        "name": "Sooner Count the Stars: Worshiping the Triune God",
+        "url": "https://open.spotify.com/album/4nnETGFb2jOnogd5TUc4bw"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271626,
+      "name": "Sooner Count the Stars",
+      "url": "https://open.spotify.com/track/3Eao8XJ5auwZRSIMjL6oHq"
+    },
+    {
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241013,
+      "name": "Speak O Lord",
+      "url": "https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV"
+    },
+    {
+      "album": {
+        "name": "The Beauty Between",
+        "url": "https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245986,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf"
+    },
+    {
+      "album": {
+        "name": "Simple Gospel B-Sides",
+        "url": "https://open.spotify.com/album/3HwQXwC4V5Gbhwz8QJ6t80"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 580280,
+      "name": "Take a Moment (Live) [feat. Will Reagan]",
+      "url": "https://open.spotify.com/track/3J7vBrecAaQpAf5CpbXpj4"
+    },
+    {
+      "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/2sjw2PGhdFIHpVbamv41q0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene Di Marco",
+          "url": "https://open.spotify.com/artist/63hMbJ08jrIVgp9rdxivpP"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 378693,
+      "name": "Take Courage (Live)",
+      "url": "https://open.spotify.com/track/1h8OjoX94lp8npq80D6yLK"
+    },
+    {
+      "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378693,
+      "name": "Take Courage - Live",
+      "url": "https://open.spotify.com/track/6fiARGC2wsBpuOech1FAun"
+    },
+    {
+      "album": {
+        "name": "Limbs & Branches",
+        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283986,
+      "name": "The House Of God, Forever",
+      "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
+    },
+    {
+      "album": {
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 8",
+        "url": "https://open.spotify.com/album/10mYLdNmVV5zvPO6EVxzPB"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 297125,
+      "name": "The Stand",
+      "url": "https://open.spotify.com/track/2JwkJmy6oO38biks4DHDfK"
+    },
+    {
+      "album": {
+        "name": "Age to Age",
+        "url": "https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        },
+        {
+          "name": "Moriah Hazeltine",
+          "url": "https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282771,
+      "name": "There Came a Light",
+      "url": "https://open.spotify.com/track/4qBzmRgakEiYxjLBCFE6Mr"
+    },
+    {
+      "album": {
+        "name": "Come Away",
+        "url": "https://open.spotify.com/album/1geY7Bt8b8q1HOn8EOpFIk"
+      },
+      "artists": [
+        {
+          "name": "Scott Cunningham Band",
+          "url": "https://open.spotify.com/artist/440q5WuNyKO9LHgZACm6bf"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 269640,
+      "name": "There May Be Tears",
+      "url": "https://open.spotify.com/track/1oe3sWhApeuqleeD16rtgi"
+    },
+    {
+      "album": {
+        "name": "No 4: Creation",
+        "url": "https://open.spotify.com/album/1xBXUvPWnFj7NaKNNweqEz"
+      },
+      "artists": [
+        {
+          "name": "A New Liturgy",
+          "url": "https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 314073,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/5MBHprWbl2bkNplRVarZ6Q"
+    },
+    {
+      "album": {
+        "name": "This Is My Father's World",
+        "url": "https://open.spotify.com/album/03ox5Kk1wNCRo3UYNhKiBV"
+      },
+      "artists": [
+        {
+          "name": "People & Songs",
+          "url": "https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 368378,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/4FLpCfvea5IELWT889oa9k"
+    },
+    {
+      "album": {
+        "name": "Bring Your Nothing",
+        "url": "https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 278706,
+      "name": "Though You Slay Me",
+      "url": "https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6"
+    },
+    {
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347853,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 415826,
+      "name": "Tis So Sweet",
+      "url": "https://open.spotify.com/track/3723hh92hbdijpc1zeOnQC"
+    },
+    {
+      "album": {
+        "name": "To Those Who Wait - Live EP",
+        "url": "https://open.spotify.com/album/7nYvVuM3y8OI6xUCBSKv43"
+      },
+      "artists": [
+        {
+          "name": "Bethany Dillon",
+          "url": "https://open.spotify.com/artist/7xDONBHUmOSBJ6i1SNgq55"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 359199,
+      "name": "To Those Who Wait",
+      "url": "https://open.spotify.com/track/6VVhZK0c3rvgkxn82K00kV"
+    },
+    {
+      "album": {
+        "name": "Where Eyes Don't Go",
+        "url": "https://open.spotify.com/album/2nnMft6cQ30obFgypxym41"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286213,
+      "name": "Train Station",
+      "url": "https://open.spotify.com/track/5oxefjY11DCyrPo6nSZPfM"
+    },
+    {
+      "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238546,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
+    },
+    {
+      "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
+    },
+    {
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/4O8BfAKhLfTWgRjPo2ZRDb"
+      },
+      "artists": [
+        {
+          "name": "Becca VanDerbeck",
+          "url": "https://open.spotify.com/artist/2VNtrixP67qJG8d8smmPrF"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/4C69pGcZlRTTpYbQZEM9Ye"
+    },
+    {
+      "album": {
+        "name": "Turn Your Eyes Upon Jesus",
+        "url": "https://open.spotify.com/album/27mHDiy8IP1LX4az5zN9AO"
+      },
+      "artists": [
+        {
+          "name": "Helen Lemmel",
+          "url": "https://open.spotify.com/artist/6UxKHKgjVEfRUSy3u75ITW"
+        },
+        {
+          "name": "KO",
+          "url": "https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256000,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/0iSGQGFLu3xUx9yyIP6EEs"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389760,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/0ZMOWXDlnlkMGTn4H0u24u"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 389760,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/5KH55BmbdrXCUCVlzwx6YZ"
+    },
+    {
+      "album": {
+        "name": "Hymns EP",
+        "url": "https://open.spotify.com/album/2BVLcwRbPBmqxhteoC4U6J"
+      },
+      "artists": [
+        {
+          "name": "Noah James & The Executives",
+          "url": "https://open.spotify.com/artist/4A5PRMT58SrQ4IhPLMVRG6"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 229373,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/3yMbyjwBb3kJyBnA0UXy65"
+    },
+    {
+      "album": {
+        "name": "Turn Your Eyes Upon Jesus",
+        "url": "https://open.spotify.com/album/4oiS2A4mcwwsJBxHellUOi"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201627,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/3Yo3Ba8ESTuf3mAtksAQjS"
+    },
+    {
+      "album": {
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/1pZAS9QQIIZksQoY6xKiEY"
+      },
+      "artists": [
+        {
+          "name": "The Liturgists",
+          "url": "https://open.spotify.com/artist/1xhBl0B2ayeRAOh9uZS2da"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 339231,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/2vmlukhGcxkeFDnfjbGZ1P"
+    },
+    {
+      "album": {
+        "name": "Posters",
+        "url": "https://open.spotify.com/album/57Ny8gmLYJiuVsKxsCODI9"
+      },
+      "artists": [
+        {
+          "name": "Strahan",
+          "url": "https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 267133,
+      "name": "Vineyard",
+      "url": "https://open.spotify.com/track/7lF6Jbf9GCTEF9SdYmLte3"
+    },
+    {
+      "album": {
+        "name": "Just This",
+        "url": "https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 127157,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/4OYE671tr7tLa3vUG21pop"
+    },
+    {
+      "album": {
+        "name": "Two Coasts for Comfort",
+        "url": "https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 205026,
+      "name": "Were You There",
+      "url": "https://open.spotify.com/track/59NpCm0lOMObumSe0soohI"
+    },
+    {
+      "album": {
+        "name": "What A Savior (Psalm 65) Featuring Waterdeep",
+        "url": "https://open.spotify.com/album/3OEjeCz9gEYPJnQYJvQJNX"
+      },
+      "artists": [
+        {
+          "name": "Melanie Waldman",
+          "url": "https://open.spotify.com/artist/4v8E8IXJ7pnmbQvMhQxjjd"
+        },
+        {
+          "name": "Waterdeep",
+          "url": "https://open.spotify.com/artist/3jPKY265XrMlohnJw3nGt0"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212231,
+      "name": "What A Savior (Psalm 65)",
+      "url": "https://open.spotify.com/track/30f1fbavDCP11JFP3cTEDo"
+    },
+    {
+      "album": {
+        "name": "The Sea in Between (Soundtrack)",
+        "url": "https://open.spotify.com/album/0Ao2w5SU5pRoHJKrwg2D1Z"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        },
+        {
+          "name": "Mason Jar Music",
+          "url": "https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 120650,
+      "name": "What Wondrous Love Is This (Live from Mayne Island)",
+      "url": "https://open.spotify.com/track/1zyEnquNOscqlJwO672XJ7"
+    },
+    {
+      "album": {
+        "name": "The Good King",
+        "url": "https://open.spotify.com/album/1LTSHnMYH04nF5rl6nmnHC"
+      },
+      "artists": [
+        {
+          "name": "Ghost Ship",
+          "url": "https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240520,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/2eTurD5VqA537xWPDQ5v3s"
+    },
+    {
+      "album": {
+        "name": "The Good King",
+        "url": "https://open.spotify.com/album/6RK6TNZLiXPbIWOxtQwAH4"
+      },
+      "artists": [
+        {
+          "name": "Ghost Ship",
+          "url": "https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240520,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/6Xmcw141LKERzrhLJuXVLu"
+    },
+    {
+      "album": {
+        "name": "Who Am I / Praise You in This Storm",
+        "url": "https://open.spotify.com/album/0RhKUYlJuERerUmQoOfh48"
+      },
+      "artists": [
+        {
+          "name": "Chad Graham",
+          "url": "https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 179966,
+      "name": "Who Am I / Praise You in This Storm",
+      "url": "https://open.spotify.com/track/2Q2xuQY3UybDZx9kQ9Yf36"
+    },
+    {
+      "album": {
+        "name": "Prepare Him Room: Celebrating the Birth of Jesus in Song",
+        "url": "https://open.spotify.com/album/11tcda5WmtOqrd7zfGpbgG"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 232496,
+      "name": "Who Would Have Dreamed",
+      "url": "https://open.spotify.com/track/7Ltz3D5rdlqkJACASe7aRS"
+    },
+    {
+      "album": {
+        "name": "Prepare Him Room: Celebrating the Birth of Jesus in Song",
+        "url": "https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Who Would Have Dreamed",
+      "url": "https://open.spotify.com/track/4jTuubX6rorxTmB2sAz6qf"
+    },
+    {
+      "album": {
+        "name": "Hear (Live)",
+        "url": "https://open.spotify.com/album/2lEAHW9pdH9fWTbIgngkqK"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 364586,
+      "name": "You Alone - Live",
+      "url": "https://open.spotify.com/track/2QeyM42EEDT5Kaczb0MYLY"
+    },
+    {
+      "album": {
+        "name": "Hear (Live)",
+        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364586,
+      "name": "You Alone - Live",
+      "url": "https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX"
+    },
+    {
+      "album": {
+        "name": "Atlas: I",
+        "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180086,
+      "name": "You Are Enough",
+      "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
+    },
+    {
+      "album": {
+        "name": "Even So Come: A Worship Album",
+        "url": "https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz"
+      },
+      "artists": [
+        {
+          "name": "Brooke Griffith",
+          "url": "https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318566,
+      "name": "You Are My All In All",
+      "url": "https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9"
+    },
+    {
+      "album": {
+        "name": "Even so Come: A Worship Album",
+        "url": "https://open.spotify.com/album/4E11bbGHMyq7oq9L1rczq9"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Brooke Griffith",
+          "url": "https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 318566,
+      "name": "You Are My All in All",
+      "url": "https://open.spotify.com/track/0rHBitRCioqWavjAomwhOC"
+    },
+    {
+      "album": {
+        "name": "To Those Who Wait - Live EP",
+        "url": "https://open.spotify.com/album/7nYvVuM3y8OI6xUCBSKv43"
+      },
+      "artists": [
+        {
+          "name": "Bethany Dillon",
+          "url": "https://open.spotify.com/artist/7xDONBHUmOSBJ6i1SNgq55"
+        },
+        {
+          "name": "Shane Barnard",
+          "url": "https://open.spotify.com/artist/35Z9afqqyhcVLBABONQ5Ej"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299613,
+      "name": "You're The Best Song (feat. Shane Barnard)",
+      "url": "https://open.spotify.com/track/3Nr7NFoUUBPCNZEhozxmYh"
+    },
+    {
+      "album": {
+        "name": "Age to Age",
+        "url": "https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        },
+        {
+          "name": "Moriah Hazeltine",
+          "url": "https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337459,
+      "name": "You're the Only One",
+      "url": "https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib"
+    },
+    {
+      "album": {
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-28",
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3ZaylsK87YU"
 }

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: jisokuryClub(\uc9c0\uc18c\ucfe0\ub9ac\ud074\ub7fd)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: KYUL(\uacb0)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 183638,
       "name": "ALARM",
       "url": "https://open.spotify.com/track/3QewaWem7ughKSawOqIMs9"
@@ -4068,7 +4068,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 186120,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
@@ -4436,6 +4436,24 @@
       "duration_ms": 215000,
       "name": "I'll Eat Up Your Darkness",
       "url": "https://open.spotify.com/track/4NKa7tW2N6mCdQSJKCP2hF"
+    },
+    {
+      "album": {
+        "name": "I'll Get Off",
+        "url": "https://open.spotify.com/album/0GlIcMH98qVp8K8UmbuS0h"
+      },
+      "artists": [
+        {
+          "name": "Im DAI",
+          "url": "https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 202291,
+      "name": "I'll Get Off",
+      "url": "https://open.spotify.com/track/5benJ7SrT8nDWv5folm7bi"
     },
     {
       "album": {
@@ -7490,7 +7508,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 181266,
       "name": "pony",
       "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
@@ -10616,7 +10634,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 232893,
       "name": "Winter Breath",
       "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
@@ -10742,7 +10760,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 202800,
       "name": "work, shit, sleep",
       "url": "https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK"
@@ -11128,7 +11146,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 361426,
       "name": "Youth",
       "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
@@ -11243,6 +11261,24 @@
     },
     {
       "album": {
+        "name": "\ub09c \uba5c\ub85c\ub294 \uc6d0\ub798 \uc7ac\ubbf8\uc5c6\ub294 \uac74 \uc904 \uc54c\uc558\uc5b4 Melodrama",
+        "url": "https://open.spotify.com/album/4AF9BFNJ4FMoL7rM3owTQn"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "\ub09c \uba5c\ub85c\ub294 \uc6d0\ub798 \uc7ac\ubbf8\uc5c6\ub294 \uac74 \uc904 \uc54c\uc558\uc5b4 Melodrama",
+      "url": "https://open.spotify.com/track/5HgpGY1jWcla3bnHWQ9Ib8"
+    },
+    {
+      "album": {
         "name": "\uc5ec\ub984 \uac10\uc131",
         "url": "https://open.spotify.com/album/4yOWIAHIQYOWGkZ3BOKi3o"
       },
@@ -11276,6 +11312,24 @@
       "duration_ms": 217500,
       "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
       "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
+    },
+    {
+      "album": {
+        "name": "\ubd89\uac8c \ubb3c\ub4e0 \uc80a\uc74c\uacfc \uc790\uc8fc \ud5e4\ub9e4\ub358 \uc0c8\ubcbd\uc5d0\uc11c Scarlet youth in Nomadic daybreak",
+        "url": "https://open.spotify.com/album/6hx1MoGmRaNOrN0ygAerYA"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 175435,
+      "name": "\ub2e8\ucd98 Scarlet youth",
+      "url": "https://open.spotify.com/track/7AI5Iglkp074EzjqQXtnGn"
     },
     {
       "album": {
@@ -11388,6 +11442,24 @@
       "duration_ms": 217714,
       "name": "\uc0ac\ub791\ud574 \uc918",
       "url": "https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV"
+    },
+    {
+      "album": {
+        "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
+        "url": "https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210850,
+      "name": "\uc2ac\ud37c\ud558\uc9c0\ub9c8 Don't be sad",
+      "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"
     },
     {
       "album": {

@@ -904,7 +904,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 264009,
       "name": "Roll Away Your Stone",
       "url": "https://open.spotify.com/track/6jC4VpzLZwfD6YkWqGY09s"
@@ -948,6 +948,32 @@
     {
       "album": {
         "name": "Traveler",
+        "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
+    },
+    {
+      "album": {
+        "name": "Traveler",
         "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
       },
       "artists": [
@@ -966,7 +992,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
@@ -1006,7 +1032,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 217984,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
@@ -1306,7 +1332,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 219628,
       "name": "Winter Winds",
       "url": "https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc"
@@ -1342,7 +1368,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 219706,
       "name": "Winter Winds",
       "url": "https://open.spotify.com/track/2Fs75T6oa9QifkDHaPkf6k"

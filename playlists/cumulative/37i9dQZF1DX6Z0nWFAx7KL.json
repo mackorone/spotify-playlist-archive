@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Can't Stop Thinking",
+        "url": "https://open.spotify.com/album/1BlrF6cvnYpn6F5UUVtC7E"
+      },
+      "artists": [
+        {
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+        },
+        {
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146730,
+      "name": "Can't Stop Thinking",
+      "url": "https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6"
+    },
+    {
+      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
       },
@@ -812,6 +834,28 @@
       "duration_ms": 148965,
       "name": "Dollar For A Dime",
       "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
+    },
+    {
+      "album": {
+        "name": "Don't Hide",
+        "url": "https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr"
+      },
+      "artists": [
+        {
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+        },
+        {
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "Don't Hide",
+      "url": "https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w"
     },
     {
       "album": {
@@ -1530,7 +1574,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": "2024-01-07",
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
@@ -3070,7 +3114,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 166693,
       "name": "Shatterproof - Sebastian Davidson Remix",
       "url": "https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v"
@@ -3282,7 +3326,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 150394,
       "name": "Summer Stars",
       "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
@@ -3488,6 +3532,28 @@
       "duration_ms": 132742,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
+    },
+    {
+      "album": {
+        "name": "That Kinda Love",
+        "url": "https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        },
+        {
+          "name": "JIMINI",
+          "url": "https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164125,
+      "name": "That Kinda Love",
+      "url": "https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15"
     },
     {
       "album": {
@@ -3710,7 +3776,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 319175,
       "name": "Valente",
       "url": "https://open.spotify.com/track/6aYjAIKYxP86Jd7OxjlM9t"

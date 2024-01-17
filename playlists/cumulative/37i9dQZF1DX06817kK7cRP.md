@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-162 songs - 7 hr 22 min
+163 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [get up and go](https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [get up and go](https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM) | 2:27 | 2023-01-12 |  |
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 |  |
 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 | 2023-01-12 |  |
+| [Gomorra](https://open.spotify.com/track/7b2pxrFGHyyzoClnxKqEVC) | [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [Gomorra](https://open.spotify.com/album/6VVBTVyunenDGqNgmTKZZT) | 2:47 | 2023-12-22 |  |
 | [Good feeling](https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:15 | 2023-06-20 |  |
 | [Hard Work](https://open.spotify.com/track/7Evl21t46qtbJ9wpYeJ7I3) | [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [Hard Work](https://open.spotify.com/album/1hwYLeyaEykEvPT5xM9FYq) | 2:40 | 2023-11-26 |  |
 | [Harvest Time](https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 3:00 | 2023-01-12 |  |
@@ -92,7 +93,7 @@
 | [Modified Strat Mode](https://open.spotify.com/track/3PPGiojAjFUI7nuaW3mNAY) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Modified Strat Mode](https://open.spotify.com/album/24ziSm20W3yM9ZGsqqawZG) | 1:57 | 2023-04-20 | 2023-08-19 |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2023-01-12 | 2023-03-29 |
 | [Moonwalker](https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Moonwalker](https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS) | 2:42 | 2023-11-26 |  |
-| [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 | 2023-11-26 |  |
+| [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 | 2023-11-26 | 2024-01-17 |
 | [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 | 2023-01-13 | 2023-07-22 |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-01-12 |  |
 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 | 2023-01-12 | 2023-10-20 |

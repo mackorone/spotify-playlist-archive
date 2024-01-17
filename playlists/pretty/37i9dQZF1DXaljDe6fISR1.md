@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,154 likes - 76 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,920 likes - 76 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 |
 | 2 | [Compton Brasil](https://open.spotify.com/track/2oREOLfcHFrj7k9leuRZsh) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Compton Brasil](https://open.spotify.com/album/2TCNSz7BPIYf2ECMLxbfxI) | 4:15 |
 | 3 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 |
-| 4 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 |
+| 4 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 |
 | 5 | [Gostou do Meu Rap](https://open.spotify.com/track/6SZpWjWoDVI2HyrUOJRr9o) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Invisível Azul](https://open.spotify.com/album/2NRLRvaELqvwnW9E3xzuKH) | 2:52 |
 | 6 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/66073TiPtbCattnpSkyuKq) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 6:23 |
 | 7 | [Dança do Pensamento](https://open.spotify.com/track/38sNUG2AIrO7P2lWqLQEHG) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Invisível Azul](https://open.spotify.com/album/2NRLRvaELqvwnW9E3xzuKH) | 3:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 75 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 76 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/3Dyhym3tetqLh2Axf0MrYl) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/4osx7Hsw9f45WPHTBzjmVu) | 4:01 |
 
-Snapshot ID: `MCxlMzM0OTUyODllOTk4YzkzNTBkNWJjNzgwYTRjMjcwNDkyYTM3MjIy`
+Snapshot ID: `MCwxY2U4NzA1ZWNhNzkyYjFhNzI4MDY3MTgyODg5MWE5ZTFmZTYzNGJi`

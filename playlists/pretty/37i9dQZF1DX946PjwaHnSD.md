@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 
 > Os batidões mais agitados pra animar sua malhação!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,245 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,997 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 210659,
       "name": "FRIENDZONE",
       "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 178050,
       "name": "MELONI",
       "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
@@ -1525,6 +1525,28 @@
     },
     {
       "album": {
+        "name": "MUY MUCHO",
+        "url": "https://open.spotify.com/album/07J3RchD8DscOvvyRPxT9A"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154893,
+      "name": "PARACETAMOL (perd\u00f3n x ser bella)",
+      "url": "https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad"
+    },
+    {
+      "album": {
         "name": "TODO SOBRE LA NADA",
         "url": "https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9"
       },
@@ -1606,6 +1628,24 @@
       "duration_ms": 252631,
       "name": "POKITO",
       "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
+    },
+    {
+      "album": {
+        "name": "POSE!",
+        "url": "https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172714,
+      "name": "POSE!",
+      "url": "https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj"
     },
     {
       "album": {
@@ -1874,7 +1914,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 310890,
       "name": "Sombras en la Pared - Vivo Buenos Aires",
       "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
@@ -2020,6 +2060,28 @@
       "duration_ms": 170095,
       "name": "TU SI K TA LOKO",
       "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
+    },
+    {
+      "album": {
+        "name": "Un Dia de Verano",
+        "url": "https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy"
+      },
+      "artists": [
+        {
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215046,
+      "name": "Un Dia de Verano",
+      "url": "https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I"
     },
     {
       "album": {

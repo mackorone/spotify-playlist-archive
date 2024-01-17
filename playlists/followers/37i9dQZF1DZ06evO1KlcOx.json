@@ -1,580 +1,1345 @@
 {
-  "2022-05-30": 3517,
-  "2022-05-31": 3523,
-  "2022-06-01": 3532,
-  "2022-06-02": 3532,
-  "2022-06-03": 3539,
-  "2022-06-04": 3541,
-  "2022-06-05": 3544,
-  "2022-06-06": 3554,
-  "2022-06-07": 3560,
-  "2022-06-08": 3566,
-  "2022-06-09": 3567,
-  "2022-06-10": 3571,
-  "2022-06-11": 3573,
-  "2022-06-12": 3571,
-  "2022-06-13": 3571,
-  "2022-06-14": 3574,
-  "2022-06-15": 3580,
-  "2022-06-16": 3585,
-  "2022-06-17": 3589,
-  "2022-06-18": 3594,
-  "2022-06-19": 3606,
-  "2022-06-20": 3606,
-  "2022-06-21": 3608,
-  "2022-06-22": 3613,
-  "2022-06-23": 3613,
-  "2022-06-24": 3616,
-  "2022-06-25": 3617,
-  "2022-06-26": 3619,
-  "2022-06-27": 3620,
-  "2022-06-28": 3621,
-  "2022-06-29": 3625,
-  "2022-06-30": 3628,
-  "2022-07-01": 3633,
-  "2022-07-02": 3638,
-  "2022-07-03": 3643,
-  "2022-07-04": 3646,
-  "2022-07-05": 3650,
-  "2022-07-06": 3650,
-  "2022-07-07": 3661,
-  "2022-07-08": 3662,
-  "2022-07-09": 3671,
-  "2022-07-10": 3677,
-  "2022-07-11": 3681,
-  "2022-07-12": 3683,
-  "2022-07-13": 3690,
-  "2022-07-14": 3698,
-  "2022-07-15": 3704,
-  "2022-07-16": 3707,
-  "2022-07-17": 3716,
-  "2022-07-18": 3724,
-  "2022-07-19": 3732,
-  "2022-07-20": 3737,
-  "2022-07-21": 3744,
-  "2022-07-22": 3747,
-  "2022-07-23": 3753,
-  "2022-07-24": 3761,
-  "2022-07-25": 3762,
-  "2022-07-26": 3762,
-  "2022-07-27": 3763,
-  "2022-07-28": 3764,
-  "2022-07-29": 3766,
-  "2022-07-30": 3763,
-  "2022-07-31": 3763,
-  "2022-08-01": 3766,
-  "2022-08-02": 3772,
-  "2022-08-03": 3772,
-  "2022-08-04": 3775,
-  "2022-08-05": 3782,
-  "2022-08-06": 3787,
-  "2022-08-07": 3790,
-  "2022-08-08": 3796,
-  "2022-08-09": 3796,
-  "2022-08-10": 3802,
-  "2022-08-11": 3805,
-  "2022-08-12": 3814,
-  "2022-08-13": 3817,
-  "2022-08-14": 3824,
-  "2022-08-15": 3824,
-  "2022-08-16": 3829,
-  "2022-08-17": 3831,
-  "2022-08-18": 3834,
-  "2022-08-19": 3836,
-  "2022-08-20": 3848,
-  "2022-08-21": 3850,
-  "2022-08-22": 3857,
-  "2022-08-23": 3862,
-  "2022-08-24": 3864,
-  "2022-08-25": 3871,
-  "2022-08-26": 3875,
-  "2022-08-27": 3877,
-  "2022-08-28": 3884,
-  "2022-08-29": 3887,
-  "2022-08-30": 3886,
-  "2022-08-31": 3882,
-  "2022-09-01": 3874,
-  "2022-09-02": 3866,
-  "2022-09-03": 3849,
-  "2022-09-04": 3843,
-  "2022-09-05": 3841,
-  "2022-09-06": 3847,
-  "2022-09-07": 3850,
-  "2022-09-09": 3858,
-  "2022-09-10": 3865,
-  "2022-09-11": 3867,
-  "2022-09-12": 3869,
-  "2022-09-13": 3872,
-  "2022-09-15": 3883,
-  "2022-09-16": 3888,
-  "2022-09-17": 3894,
-  "2022-09-18": 3899,
-  "2022-09-19": 3909,
-  "2022-09-20": 3910,
-  "2022-09-21": 3919,
-  "2022-09-22": 3926,
-  "2022-09-23": 3932,
-  "2022-09-24": 3932,
-  "2022-09-25": 3944,
-  "2022-09-26": 3951,
-  "2022-09-27": 3960,
-  "2022-09-28": 3966,
-  "2022-09-29": 3973,
-  "2022-09-30": 3976,
-  "2022-10-01": 3978,
-  "2022-10-02": 3979,
-  "2022-10-03": 3986,
-  "2022-10-04": 3990,
-  "2022-10-05": 3989,
-  "2022-10-06": 3991,
-  "2022-10-07": 3991,
-  "2022-10-08": 3995,
-  "2022-10-09": 4002,
-  "2022-10-10": 4002,
-  "2022-10-11": 4005,
-  "2022-10-12": 4006,
-  "2022-10-13": 4006,
-  "2022-10-14": 4007,
-  "2022-10-15": 4012,
-  "2022-10-16": 4022,
-  "2022-10-17": 4027,
-  "2022-10-18": 4029,
-  "2022-10-19": 4035,
-  "2022-10-20": 4039,
-  "2022-10-21": 4045,
-  "2022-10-22": 4048,
-  "2022-10-23": 4054,
-  "2022-10-24": 4056,
-  "2022-10-25": 4062,
-  "2022-10-26": 4067,
-  "2022-10-27": 4070,
-  "2022-10-28": 4076,
-  "2022-10-29": 4080,
-  "2022-10-30": 4084,
-  "2022-10-31": 4092,
-  "2022-11-01": 4099,
-  "2022-11-02": 4109,
-  "2022-11-03": 4115,
-  "2022-11-04": 4122,
-  "2022-11-05": 4129,
-  "2022-11-06": 4134,
-  "2022-11-07": 4139,
-  "2022-11-08": 4146,
-  "2022-11-09": 4147,
-  "2022-11-10": 4147,
-  "2022-11-11": 4156,
-  "2022-11-12": 4162,
-  "2022-11-13": 4168,
-  "2022-11-14": 4170,
-  "2022-11-15": 4177,
-  "2022-11-16": 4180,
-  "2022-11-17": 4181,
-  "2022-11-18": 4187,
-  "2022-11-19": 4189,
-  "2022-11-20": 4192,
-  "2022-11-21": 4190,
-  "2022-11-22": 4197,
-  "2022-11-23": 4201,
-  "2022-11-24": 4207,
-  "2022-11-25": 4213,
-  "2022-11-26": 4215,
-  "2022-11-27": 4221,
-  "2022-11-28": 4227,
-  "2022-11-29": 4235,
-  "2022-11-30": 4238,
-  "2022-12-01": 4237,
-  "2022-12-02": 4238,
-  "2022-12-03": 4244,
-  "2022-12-04": 4250,
-  "2022-12-05": 4250,
-  "2022-12-06": 4253,
-  "2022-12-07": 4262,
-  "2022-12-08": 4269,
-  "2022-12-09": 4272,
-  "2022-12-10": 4280,
-  "2022-12-11": 4283,
-  "2022-12-12": 4291,
-  "2022-12-13": 4296,
-  "2022-12-14": 4300,
-  "2022-12-15": 4303,
-  "2022-12-16": 4309,
-  "2022-12-17": 4313,
-  "2022-12-18": 4320,
-  "2022-12-19": 4319,
-  "2022-12-20": 4327,
-  "2022-12-21": 4327,
-  "2022-12-22": 4334,
-  "2022-12-24": 4344,
-  "2022-12-25": 4351,
-  "2022-12-26": 4355,
-  "2022-12-27": 4357,
-  "2022-12-28": 4367,
-  "2022-12-29": 4374,
-  "2022-12-30": 4379,
-  "2022-12-31": 4385,
-  "2023-01-01": 4386,
-  "2023-01-02": 4392,
-  "2023-01-03": 4397,
-  "2023-01-04": 4400,
-  "2023-01-05": 4405,
-  "2023-01-06": 4413,
-  "2023-01-07": 4419,
-  "2023-01-08": 4421,
-  "2023-01-09": 4427,
-  "2023-01-10": 4430,
-  "2023-01-11": 4434,
-  "2023-01-12": 4442,
-  "2023-01-13": 4446,
-  "2023-01-14": 4456,
-  "2023-01-15": 4458,
-  "2023-01-16": 4469,
-  "2023-01-17": 4478,
-  "2023-01-18": 4480,
-  "2023-01-19": 4483,
-  "2023-01-20": 4484,
-  "2023-01-21": 4487,
-  "2023-01-22": 4492,
-  "2023-01-23": 4495,
-  "2023-01-24": 4505,
-  "2023-01-25": 4508,
-  "2023-01-26": 4514,
-  "2023-01-27": 4517,
-  "2023-01-28": 4521,
-  "2023-01-29": 4527,
-  "2023-01-30": 4530,
-  "2023-01-31": 4530,
-  "2023-02-01": 4538,
-  "2023-02-02": 4543,
-  "2023-02-03": 4547,
-  "2023-02-04": 4551,
-  "2023-02-05": 4560,
-  "2023-02-06": 4567,
-  "2023-02-07": 4576,
-  "2023-02-08": 4587,
-  "2023-02-09": 4587,
-  "2023-02-10": 4596,
-  "2023-02-11": 4604,
-  "2023-02-12": 4606,
-  "2023-02-13": 4609,
-  "2023-02-14": 4609,
-  "2023-02-15": 4611,
-  "2023-02-16": 4614,
-  "2023-02-17": 4617,
-  "2023-02-18": 4624,
-  "2023-02-19": 4624,
-  "2023-02-20": 4626,
-  "2023-02-21": 4631,
-  "2023-02-22": 4638,
-  "2023-02-23": 4643,
-  "2023-02-24": 4648,
-  "2023-02-25": 4650,
-  "2023-02-26": 4652,
-  "2023-02-27": 4659,
-  "2023-02-28": 4659,
-  "2023-03-01": 4661,
-  "2023-03-02": 4667,
-  "2023-03-03": 4673,
-  "2023-03-04": 4678,
-  "2023-03-05": 4684,
-  "2023-03-06": 4684,
-  "2023-03-07": 4686,
-  "2023-03-08": 4690,
-  "2023-03-09": 4695,
-  "2023-03-10": 4696,
-  "2023-03-11": 4700,
-  "2023-03-12": 4703,
-  "2023-03-13": 4706,
-  "2023-03-14": 4708,
-  "2023-03-15": 4711,
-  "2023-03-16": 4711,
-  "2023-03-17": 4711,
-  "2023-03-18": 4724,
-  "2023-03-19": 4724,
-  "2023-03-20": 4726,
-  "2023-03-21": 4728,
-  "2023-03-22": 4731,
-  "2023-03-23": 4733,
-  "2023-03-24": 4733,
-  "2023-03-25": 4736,
-  "2023-03-26": 4741,
-  "2023-03-27": 4747,
-  "2023-03-28": 4753,
-  "2023-03-29": 4764,
-  "2023-03-30": 4769,
-  "2023-03-31": 4769,
-  "2023-04-01": 4773,
-  "2023-04-02": 4778,
-  "2023-04-03": 4781,
-  "2023-04-04": 4783,
-  "2023-04-05": 4783,
-  "2023-04-06": 4786,
-  "2023-04-07": 4790,
-  "2023-04-09": 4799,
-  "2023-04-10": 4803,
-  "2023-04-11": 4810,
-  "2023-04-12": 4810,
-  "2023-04-13": 4813,
-  "2023-04-14": 4818,
-  "2023-04-15": 4825,
-  "2023-04-16": 4834,
-  "2023-04-17": 4835,
-  "2023-04-18": 4842,
-  "2023-04-19": 4845,
-  "2023-04-20": 4845,
-  "2023-04-21": 4854,
-  "2023-04-22": 4860,
-  "2023-04-23": 4864,
-  "2023-04-24": 4868,
-  "2023-04-25": 4870,
-  "2023-04-26": 4875,
-  "2023-04-27": 4878,
-  "2023-04-28": 4881,
-  "2023-04-29": 4886,
-  "2023-04-30": 4887,
-  "2023-05-01": 4893,
-  "2023-05-02": 4897,
-  "2023-05-03": 4898,
-  "2023-05-04": 4900,
-  "2023-05-05": 4904,
-  "2023-05-06": 4912,
-  "2023-05-07": 4915,
-  "2023-05-08": 4926,
-  "2023-05-09": 4935,
-  "2023-05-10": 4937,
-  "2023-05-11": 4939,
-  "2023-05-12": 4947,
-  "2023-05-13": 4953,
-  "2023-05-14": 4962,
-  "2023-05-15": 4965,
-  "2023-05-16": 4970,
-  "2023-05-17": 4972,
-  "2023-05-18": 4976,
-  "2023-05-19": 4981,
-  "2023-05-20": 4995,
-  "2023-05-21": 4995,
-  "2023-05-22": 4995,
-  "2023-05-23": 5003,
-  "2023-05-24": 5011,
-  "2023-05-25": 5011,
-  "2023-05-26": 5019,
-  "2023-05-27": 5024,
-  "2023-05-28": 5027,
-  "2023-05-29": 5027,
-  "2023-05-30": 5040,
-  "2023-05-31": 5042,
-  "2023-06-01": 5045,
-  "2023-06-02": 5048,
-  "2023-06-03": 5059,
-  "2023-06-04": 5065,
-  "2023-06-05": 5066,
-  "2023-06-06": 5070,
-  "2023-06-07": 5078,
-  "2023-06-08": 5086,
-  "2023-06-09": 5088,
-  "2023-06-10": 5089,
-  "2023-06-11": 5096,
-  "2023-06-12": 5097,
-  "2023-06-13": 5101,
-  "2023-06-14": 5107,
-  "2023-06-15": 5111,
-  "2023-06-16": 5111,
-  "2023-06-17": 5117,
-  "2023-06-18": 5122,
-  "2023-06-19": 5124,
-  "2023-06-20": 5128,
-  "2023-06-21": 5130,
-  "2023-06-22": 5132,
-  "2023-06-23": 5136,
-  "2023-06-24": 5136,
-  "2023-06-25": 5140,
-  "2023-06-26": 5143,
-  "2023-06-27": 5153,
-  "2023-06-28": 5153,
-  "2023-06-29": 5159,
-  "2023-06-30": 5163,
-  "2023-07-01": 5173,
-  "2023-07-02": 5173,
-  "2023-07-03": 5176,
-  "2023-07-04": 5182,
-  "2023-07-05": 5190,
-  "2023-07-06": 5202,
-  "2023-07-07": 5202,
-  "2023-07-08": 5206,
-  "2023-07-09": 5208,
-  "2023-07-10": 5207,
-  "2023-07-11": 5212,
-  "2023-07-12": 5215,
-  "2023-07-13": 5221,
-  "2023-07-14": 5226,
-  "2023-07-15": 5223,
-  "2023-07-16": 5227,
-  "2023-07-17": 5232,
-  "2023-07-18": 5235,
-  "2023-07-19": 5235,
-  "2023-07-20": 5240,
-  "2023-07-21": 5243,
-  "2023-07-22": 5250,
-  "2023-07-23": 5254,
-  "2023-07-24": 5260,
-  "2023-07-25": 5270,
-  "2023-07-26": 5278,
-  "2023-07-27": 5283,
-  "2023-07-28": 5290,
-  "2023-07-29": 5291,
-  "2023-07-30": 5298,
-  "2023-07-31": 5302,
-  "2023-08-01": 5308,
-  "2023-08-02": 5312,
-  "2023-08-03": 5320,
-  "2023-08-04": 5327,
-  "2023-08-05": 5326,
-  "2023-08-06": 5335,
-  "2023-08-07": 5335,
-  "2023-08-08": 5347,
-  "2023-08-09": 5351,
-  "2023-08-10": 5353,
-  "2023-08-11": 5354,
-  "2023-08-12": 5354,
-  "2023-08-13": 5354,
-  "2023-08-14": 5361,
-  "2023-08-15": 5361,
-  "2023-08-16": 5361,
-  "2023-08-17": 5377,
-  "2023-08-18": 5377,
-  "2023-08-19": 5377,
-  "2023-08-20": 5389,
-  "2023-08-21": 5389,
-  "2023-08-22": 5402,
-  "2023-08-23": 5402,
-  "2023-08-24": 5407,
-  "2023-08-25": 5407,
-  "2023-08-26": 5412,
-  "2023-08-27": 5412,
-  "2023-08-28": 5422,
-  "2023-08-29": 5422,
-  "2023-08-30": 5422,
-  "2023-08-31": 5437,
-  "2023-09-01": 5440,
-  "2023-09-02": 5440,
-  "2023-09-03": 5455,
-  "2023-09-04": 5455,
-  "2023-09-05": 5455,
-  "2023-09-06": 5462,
-  "2023-09-07": 5462,
-  "2023-09-08": 5462,
-  "2023-09-09": 5462,
-  "2023-09-10": 5489,
-  "2023-09-11": 5489,
-  "2023-09-12": 5489,
-  "2023-09-13": 5508,
-  "2023-09-14": 5508,
-  "2023-09-15": 5508,
-  "2023-09-16": 5519,
-  "2023-09-17": 5519,
-  "2023-09-18": 5519,
-  "2023-09-19": 5529,
-  "2023-09-20": 5529,
-  "2023-09-21": 5529,
-  "2023-09-22": 5535,
-  "2023-09-23": 5535,
-  "2023-09-24": 5535,
-  "2023-09-25": 5535,
-  "2023-09-26": 5560,
-  "2023-09-27": 5560,
-  "2023-09-28": 5560,
-  "2023-09-29": 5560,
-  "2023-09-30": 5560,
-  "2023-10-01": 5560,
-  "2023-10-02": 5589,
-  "2023-10-03": 5589,
-  "2023-10-04": 5589,
-  "2023-10-05": 5602,
-  "2023-10-06": 5602,
-  "2023-10-07": 5602,
-  "2023-10-08": 5602,
-  "2023-10-09": 5602,
-  "2023-10-10": 5602,
-  "2023-10-11": 5620,
-  "2023-10-12": 5620,
-  "2023-10-13": 5620,
-  "2023-10-14": 5620,
-  "2023-10-15": 5620,
-  "2023-10-16": 5620,
-  "2023-10-17": 5620,
-  "2023-10-18": 5620,
-  "2023-10-19": 5620,
-  "2023-10-20": 5620,
-  "2023-10-21": 5620,
-  "2023-10-22": 5620,
-  "2023-10-23": 5620,
-  "2023-10-24": 5620,
-  "2023-10-25": 5620,
-  "2023-10-26": 5620,
-  "2023-10-27": 5620,
-  "2023-10-28": 5620,
-  "2023-10-29": 5620,
-  "2023-10-30": 5620,
-  "2023-10-31": 5620,
-  "2023-11-01": 5620,
-  "2023-11-02": 5620,
-  "2023-11-03": 5620,
-  "2023-11-04": 5620,
-  "2023-11-05": 5620,
-  "2023-11-06": 5620,
-  "2023-11-07": 5620,
-  "2023-11-08": 5620,
-  "2023-11-09": 5620,
-  "2023-11-10": 5620,
-  "2023-11-11": 5754,
-  "2023-11-12": 5754,
-  "2023-11-13": 5754,
-  "2023-11-14": 5754,
-  "2023-11-15": 5754,
-  "2023-11-16": 5754,
-  "2023-11-17": 5754,
-  "2023-11-18": 5754,
-  "2023-11-19": 5754,
-  "2023-11-20": 5754,
-  "2023-11-21": 5754,
-  "2023-11-22": 5754,
-  "2023-11-23": 5754,
-  "2023-11-24": 5754,
-  "2023-11-25": 5754,
-  "2023-11-26": 5754,
-  "2023-11-27": 5754,
-  "2023-11-28": 5754,
-  "2023-11-29": 5754,
-  "2023-11-30": 5754,
-  "2023-12-01": 5754,
-  "2023-12-02": 5754,
-  "2023-12-03": 5754,
-  "2023-12-04": 5754,
-  "2023-12-05": 5754,
-  "2023-12-06": 5754,
-  "2023-12-07": 5754,
-  "2023-12-08": 5754,
-  "2023-12-09": 5754,
-  "2023-12-10": 5754,
-  "2023-12-11": 5754,
-  "2023-12-12": 5754,
-  "2023-12-13": 5754,
-  "2023-12-14": 5987,
-  "2023-12-15": 5991,
-  "2023-12-16": 6000,
-  "2023-12-17": 6002,
-  "2023-12-18": 6012,
-  "2023-12-19": 6016,
-  "2023-12-20": 6023,
-  "2023-12-21": 6031,
-  "2023-12-22": 6032,
-  "2023-12-23": 6040,
-  "2023-12-24": 6038,
-  "2023-12-25": 6039,
-  "2023-12-26": 6040,
-  "2023-12-27": 6042,
-  "2023-12-30": 6056,
-  "2023-12-31": 6058,
-  "2024-01-01": 6062,
-  "2024-01-02": 6063,
-  "2024-01-03": 6068
+  "2024-01-17": 6116,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Grouper. The essential tracks, all in one playlist.",
+  "name": "This Is Grouper",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109546,
+      "name": "6",
+      "url": "https://open.spotify.com/track/7gNvcPwwQ72oogfFOjBUci"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "A Cover Over",
+      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
+    },
+    {
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 313680,
+      "name": "A Lie",
+      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
+    },
+    {
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "A Light Change",
+      "url": "https://open.spotify.com/track/2wy9QMJdpa74PVkr1V7NmY"
+    },
+    {
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236480,
+      "name": "Alien Observer",
+      "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
+    },
+    {
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295826,
+      "name": "Atone",
+      "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 317749,
+      "name": "Basement Mix",
+      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
+    },
+    {
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285866,
+      "name": "Being Her Shadow",
+      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
+    },
+    {
+      "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/76m9qTSWvcVVhyC3JW7tnY"
+    },
+    {
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45266,
+      "name": "Black Blood",
+      "url": "https://open.spotify.com/track/0TkXfH8zPdYgaySFmjwcmI"
+    },
+    {
+      "album": {
+        "name": "Way Their Crept",
+        "url": "https://open.spotify.com/album/2UbTwil7eR6Lov37LRyVhb"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 303506,
+      "name": "Black Out",
+      "url": "https://open.spotify.com/track/6oa3Hi3B1M3eOtEr3wPAA8"
+    },
+    {
+      "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/1qfJaIIBYBfl5QNXHjfT6Y"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "Call Across Rooms",
+      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281680,
+      "name": "Clearing",
+      "url": "https://open.spotify.com/track/3IL43TRkEnh4buGOZ1Brb5"
+    },
+    {
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 245306,
+      "name": "Cloud in Places",
+      "url": "https://open.spotify.com/track/0diPy4X3fZ253nxtUXXitO"
+    },
+    {
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273986,
+      "name": "Come Softly - For Daniel D.",
+      "url": "https://open.spotify.com/track/3JyPrk7TuXyBY5eTmwZsSk"
+    },
+    {
+      "album": {
+        "name": "Stain Licker",
+        "url": "https://open.spotify.com/album/4U5588OifAJPFrUK8pkrSF"
+      },
+      "artists": [
+        {
+          "name": "Imagine Drowning",
+          "url": "https://open.spotify.com/artist/00Z6TAeTxPFq45NrCtj7M9"
+        },
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142025,
+      "name": "Con",
+      "url": "https://open.spotify.com/track/7gMeu7u38sAcWH8TGdhtuD"
+    },
+    {
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "Cover the Long Way",
+      "url": "https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu"
+    },
+    {
+      "album": {
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 347453,
+      "name": "Cover the Windows and the Walls",
+      "url": "https://open.spotify.com/track/3Jd6G5xoykZ9IA2LOuQrGh"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274999,
+      "name": "Disordered Minds",
+      "url": "https://open.spotify.com/track/4vI3Dngn2KjBZmEVzfHVDb"
+    },
+    {
+      "album": {
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 367720,
+      "name": "Down to the Ocean",
+      "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
+    },
+    {
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 380226,
+      "name": "Dragging the Streets - First Heart Tone",
+      "url": "https://open.spotify.com/track/7xpVS1KQiRFWgZGi1bdijA"
+    },
+    {
+      "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
+    },
+    {
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247093,
+      "name": "Fallow",
+      "url": "https://open.spotify.com/track/6sgr20vGQkBEHg0fXhz4EJ"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 231800,
+      "name": "Fishing Bird (Empty Gutted in the Evening Breeze)",
+      "url": "https://open.spotify.com/track/637sViSUUQTBice1wmz5id"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 174874,
+      "name": "Followed the ocean",
+      "url": "https://open.spotify.com/track/7nDGJYN5fltv5bUk9spwnD"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304460,
+      "name": "Headache",
+      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+    },
+    {
+      "album": {
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 281386,
+      "name": "Heart Current",
+      "url": "https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "Heavy Water/I'd Rather Be Sleeping",
+      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
+    },
+    {
+      "album": {
+        "name": "Hold / Sick - Single",
+        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330373,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 476626,
+      "name": "Holding",
+      "url": "https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92786,
+      "name": "Holofernes",
+      "url": "https://open.spotify.com/track/4UL9DScE7SnHhcDlNVq4v0"
+    },
+    {
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 296600,
+      "name": "I Saw a Ray",
+      "url": "https://open.spotify.com/track/53No0sPkMULuEJqeWgLGsc"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174370,
+      "name": "I'm Clean Now",
+      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141746,
+      "name": "I'm Dragging a Dead Deer Up a Hill",
+      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
+    },
+    {
+      "album": {
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362253,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/3qKYIZTq1u62J2o98CzmGR"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344160,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
+    },
+    {
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Little Boat/Bone Dance (Audrey)",
+      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
+    },
+    {
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265893,
+      "name": "Little Gray Cat",
+      "url": "https://open.spotify.com/track/1Sllhw0OERRlTU9tjFpbW3"
+    },
+    {
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142120,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/1nJV1JGWf61WRJy851LO34"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 684360,
+      "name": "Made of Air",
+      "url": "https://open.spotify.com/track/6PI2CNvpsv3k2ofK6cq42N"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98946,
+      "name": "Made of Metal",
+      "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
+    },
+    {
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
+    },
+    {
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367933,
+      "name": "Mary, On the Wall - Second Heart Tone",
+      "url": "https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie"
+    },
+    {
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408946,
+      "name": "Moon Is Sharp",
+      "url": "https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB"
+    },
+    {
+      "album": {
+        "name": "Water People 7\"",
+        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 310351,
+      "name": "Moving Machine",
+      "url": "https://open.spotify.com/track/2K1CarKyRcBNV47HSPAnZV"
+    },
+    {
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/2zmNpl4DSTf388swxiV7F3"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/6XtReyR9KbyDt8J3Va1UCM"
+    },
+    {
+      "album": {
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 322146,
+      "name": "Opened Space",
+      "url": "https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4AOl8fZE2eTR6vocAYxqP4"
+    },
+    {
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "Poison Tree",
+      "url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF"
+    },
+    {
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514133,
+      "name": "She Loves Me That Way",
+      "url": "https://open.spotify.com/track/6SAtmwkARP0M3BF11EsVqy"
+    },
+    {
+      "album": {
+        "name": "Hold / Sick - Single",
+        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 308066,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/574DJfC8RrVqyaybr1AabW"
+    },
+    {
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 480440,
+      "name": "Soul Eraser",
+      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
+    },
+    {
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366373,
+      "name": "STS",
+      "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 359826,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/7smnmEyvR4MtnyqK9eiAjx"
+    },
+    {
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 300973,
+      "name": "The Man Who Died in His Boat",
+      "url": "https://open.spotify.com/track/0Fxc7REWedvbv2DCRQbtIU"
+    },
+    {
+      "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50000,
+      "name": "The Races",
+      "url": "https://open.spotify.com/track/7wAqt1ZqGRzY2CiVBpBAG8"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "The way her hair falls",
+      "url": "https://open.spotify.com/track/0uwDgbSX1wIBVMSv4yHUKN"
+    },
+    {
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 319200,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/16B3iA9vo22DeOe8ohyTcZ"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263960,
+      "name": "Traveling Through a Sea",
+      "url": "https://open.spotify.com/track/5uOBRzLWxGnE564iW0PF7y"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231125,
+      "name": "Unclean mind",
+      "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
+    },
+    {
+      "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544533,
+      "name": "Vapor Trails",
+      "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
+    },
+    {
+      "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254040,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/4BzmSQYR6wYkjG894IMfdd"
+    },
+    {
+      "album": {
+        "name": "Water People 7\"",
+        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247713,
+      "name": "Water People",
+      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
+    },
+    {
+      "album": {
+        "name": "Way Their Crept",
+        "url": "https://open.spotify.com/album/2UbTwil7eR6Lov37LRyVhb"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 153960,
+      "name": "Way Their Crept",
+      "url": "https://open.spotify.com/track/2LhBBwOS7Aoo3VtmpdCYab"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127680,
+      "name": "When We Fall",
+      "url": "https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR"
+    },
+    {
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 270680,
+      "name": "Wind and Snow",
+      "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
+    },
+    {
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 355813,
+      "name": "Wind Return",
+      "url": "https://open.spotify.com/track/5zGdE2LqYQia3ZOO6DVJ9j"
+    },
+    {
+      "album": {
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 335360,
+      "name": "You Never Came",
+      "url": "https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KlcOx"
 }

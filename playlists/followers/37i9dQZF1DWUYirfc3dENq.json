@@ -1,243 +1,583 @@
 {
-  "2023-05-06": 5,
-  "2023-05-07": 10,
-  "2023-05-08": 14,
-  "2023-05-09": 21,
-  "2023-05-10": 45,
-  "2023-05-11": 74,
-  "2023-05-12": 116,
-  "2023-05-13": 153,
-  "2023-05-14": 189,
-  "2023-05-15": 216,
-  "2023-05-16": 239,
-  "2023-05-17": 257,
-  "2023-05-18": 281,
-  "2023-05-19": 300,
-  "2023-05-20": 355,
-  "2023-05-21": 355,
-  "2023-05-22": 355,
-  "2023-05-23": 402,
-  "2023-05-24": 430,
-  "2023-05-25": 435,
-  "2023-05-26": 454,
-  "2023-05-27": 482,
-  "2023-05-28": 513,
-  "2023-05-29": 513,
-  "2023-05-30": 563,
-  "2023-05-31": 592,
-  "2023-06-01": 624,
-  "2023-06-02": 660,
-  "2023-06-03": 693,
-  "2023-06-04": 724,
-  "2023-06-05": 752,
-  "2023-06-06": 766,
-  "2023-06-07": 787,
-  "2023-06-08": 812,
-  "2023-06-09": 833,
-  "2023-06-10": 872,
-  "2023-06-11": 898,
-  "2023-06-12": 930,
-  "2023-06-13": 950,
-  "2023-06-14": 963,
-  "2023-06-15": 993,
-  "2023-06-16": 1014,
-  "2023-06-17": 1043,
-  "2023-06-18": 1069,
-  "2023-06-19": 1086,
-  "2023-06-20": 1101,
-  "2023-06-21": 1124,
-  "2023-06-22": 1136,
-  "2023-06-23": 1159,
-  "2023-06-24": 1185,
-  "2023-06-25": 1198,
-  "2023-06-26": 1213,
-  "2023-06-27": 1231,
-  "2023-06-28": 1255,
-  "2023-06-29": 1269,
-  "2023-06-30": 1281,
-  "2023-07-01": 1319,
-  "2023-07-02": 1319,
-  "2023-07-03": 1332,
-  "2023-07-04": 1341,
-  "2023-07-05": 1353,
-  "2023-07-06": 1380,
-  "2023-07-07": 1380,
-  "2023-07-08": 1390,
-  "2023-07-09": 1401,
-  "2023-07-10": 1413,
-  "2023-07-11": 1417,
-  "2023-07-12": 1432,
-  "2023-07-13": 1437,
-  "2023-07-14": 1447,
-  "2023-07-15": 1453,
-  "2023-07-16": 1464,
-  "2023-07-17": 1470,
-  "2023-07-18": 1475,
-  "2023-07-19": 1481,
-  "2023-07-20": 1482,
-  "2023-07-21": 1489,
-  "2023-07-22": 1502,
-  "2023-07-23": 1512,
-  "2023-07-24": 1520,
-  "2023-07-25": 1521,
-  "2023-07-26": 1527,
-  "2023-07-27": 1535,
-  "2023-07-28": 1541,
-  "2023-07-29": 1543,
-  "2023-07-30": 1553,
-  "2023-07-31": 1556,
-  "2023-08-01": 1563,
-  "2023-08-02": 1568,
-  "2023-08-03": 1573,
-  "2023-08-04": 1580,
-  "2023-08-05": 1584,
-  "2023-08-06": 1591,
-  "2023-08-07": 1591,
-  "2023-08-08": 1594,
-  "2023-08-09": 1597,
-  "2023-08-10": 1600,
-  "2023-08-11": 1602,
-  "2023-08-12": 1607,
-  "2023-08-13": 1615,
-  "2023-08-14": 1618,
-  "2023-08-15": 1630,
-  "2023-08-16": 1630,
-  "2023-08-17": 1636,
-  "2023-08-18": 1639,
-  "2023-08-19": 1645,
-  "2023-08-20": 1651,
-  "2023-08-21": 1656,
-  "2023-08-22": 1660,
-  "2023-08-23": 1665,
-  "2023-08-24": 1669,
-  "2023-08-25": 1676,
-  "2023-08-26": 1676,
-  "2023-08-27": 1682,
-  "2023-08-28": 1691,
-  "2023-08-29": 1693,
-  "2023-08-30": 1698,
-  "2023-08-31": 1702,
-  "2023-09-01": 1727,
-  "2023-09-02": 1727,
-  "2023-09-03": 1735,
-  "2023-09-04": 1743,
-  "2023-09-05": 1756,
-  "2023-09-06": 1767,
-  "2023-09-07": 1778,
-  "2023-09-08": 1796,
-  "2023-09-09": 1812,
-  "2023-09-10": 1830,
-  "2023-09-11": 1843,
-  "2023-09-12": 1854,
-  "2023-09-13": 1869,
-  "2023-09-14": 1881,
-  "2023-09-15": 1900,
-  "2023-09-16": 1919,
-  "2023-09-17": 1938,
-  "2023-09-18": 1944,
-  "2023-09-19": 1955,
-  "2023-09-20": 1972,
-  "2023-09-21": 1982,
-  "2023-09-22": 1997,
-  "2023-09-23": 2004,
-  "2023-09-24": 2017,
-  "2023-09-25": 2027,
-  "2023-09-26": 2043,
-  "2023-09-27": 2049,
-  "2023-09-28": 2059,
-  "2023-09-29": 2075,
-  "2023-09-30": 2086,
-  "2023-10-01": 2093,
-  "2023-10-02": 2098,
-  "2023-10-03": 2105,
-  "2023-10-04": 2108,
-  "2023-10-05": 2111,
-  "2023-10-06": 2126,
-  "2023-10-07": 2142,
-  "2023-10-08": 2171,
-  "2023-10-09": 2194,
-  "2023-10-10": 2206,
-  "2023-10-11": 2233,
-  "2023-10-12": 2233,
-  "2023-10-13": 2249,
-  "2023-10-14": 2271,
-  "2023-10-15": 2284,
-  "2023-10-16": 2299,
-  "2023-10-17": 2311,
-  "2023-10-18": 2319,
-  "2023-10-19": 2332,
-  "2023-10-20": 2340,
-  "2023-10-21": 2346,
-  "2023-10-22": 2356,
-  "2023-10-23": 2364,
-  "2023-10-24": 2370,
-  "2023-10-25": 2380,
-  "2023-10-26": 2391,
-  "2023-10-27": 2402,
-  "2023-10-28": 2410,
-  "2023-10-29": 2419,
-  "2023-10-30": 2425,
-  "2023-10-31": 2425,
-  "2023-11-01": 2430,
-  "2023-11-02": 2434,
-  "2023-11-03": 2438,
-  "2023-11-04": 2444,
-  "2023-11-05": 2454,
-  "2023-11-06": 2458,
-  "2023-11-07": 2463,
-  "2023-11-08": 2469,
-  "2023-11-09": 2474,
-  "2023-11-10": 2480,
-  "2023-11-11": 2488,
-  "2023-11-12": 2489,
-  "2023-11-13": 2492,
-  "2023-11-14": 2494,
-  "2023-11-15": 2494,
-  "2023-11-16": 2505,
-  "2023-11-17": 2514,
-  "2023-11-18": 2514,
-  "2023-11-19": 2521,
-  "2023-11-20": 2531,
-  "2023-11-21": 2531,
-  "2023-11-22": 2537,
-  "2023-11-23": 2541,
-  "2023-11-24": 2545,
-  "2023-11-25": 2546,
-  "2023-11-26": 2547,
-  "2023-11-27": 2548,
-  "2023-11-28": 2552,
-  "2023-11-29": 2562,
-  "2023-11-30": 2562,
-  "2023-12-01": 2563,
-  "2023-12-02": 2570,
-  "2023-12-03": 2576,
-  "2023-12-04": 2579,
-  "2023-12-05": 2584,
-  "2023-12-06": 2591,
-  "2023-12-07": 2597,
-  "2023-12-08": 2601,
-  "2023-12-09": 2604,
-  "2023-12-10": 2606,
-  "2023-12-11": 2609,
-  "2023-12-12": 2611,
-  "2023-12-13": 2615,
-  "2023-12-14": 2616,
-  "2023-12-15": 2617,
-  "2023-12-16": 2622,
-  "2023-12-17": 2620,
-  "2023-12-18": 2623,
-  "2023-12-19": 2625,
-  "2023-12-20": 2626,
-  "2023-12-21": 2627,
-  "2023-12-22": 2627,
-  "2023-12-23": 2630,
-  "2023-12-24": 2633,
-  "2023-12-25": 2636,
-  "2023-12-26": 2638,
-  "2023-12-27": 2639,
-  "2023-12-30": 2644,
-  "2023-12-31": 2649,
-  "2024-01-01": 2653,
-  "2024-01-02": 2657,
-  "2024-01-03": 2659
+  "2024-01-17": 2689,
+  "date_first_scraped": "2023-05-06",
+  "description": "Featuring Anuel AA, Young Miko, NATTI NATASHA & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
+  "name": "Fuego #049",
+  "tracks": [
+    {
+      "album": {
+        "name": "ALGARETE",
+        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208549,
+      "name": "ALGARETE",
+      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170480,
+      "name": "AMARGURA",
+      "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
+    },
+    {
+      "album": {
+        "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
+        "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223019,
+      "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
+      "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
+    },
+    {
+      "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "album": {
+        "name": "Big Booty",
+        "url": "https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191052,
+      "name": "Big Booty",
+      "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
+    },
+    {
+      "album": {
+        "name": "CLASSY 101",
+        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195986,
+      "name": "CLASSY 101",
+      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+    },
+    {
+      "album": {
+        "name": "Copas",
+        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237388,
+      "name": "Copas",
+      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
+    },
+    {
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "DON & TEGO",
+      "url": "https://open.spotify.com/track/6wTX1zUPc2qdQnDZnVhuoV"
+    },
+    {
+      "album": {
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162624,
+      "name": "Donde?",
+      "url": "https://open.spotify.com/track/2ZV9wvj6gu8C0oB16aD0vR"
+    },
+    {
+      "album": {
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
+      "duration_ms": 162624,
+      "name": "Donde?",
+      "url": "https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD"
+    },
+    {
+      "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ"
+    },
+    {
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 164494,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
+    },
+    {
+      "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151400,
+      "name": "EL CUARTO DE FERXXO",
+      "url": "https://open.spotify.com/track/1WBwck9KqWfe6mr2j06UEM"
+    },
+    {
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "album": {
+        "name": "LA TV",
+        "url": "https://open.spotify.com/album/5KhZU65XT7dcQp9LRGTFh6"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Aivan Beatz",
+          "url": "https://open.spotify.com/artist/0AAFjvGFVnBqs85PXiMAvb"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168900,
+      "name": "LA TV",
+      "url": "https://open.spotify.com/track/4KzVwJfvQjyHEsWtuB0chE"
+    },
+    {
+      "album": {
+        "name": "Marianela (Que Pasa)",
+        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145766,
+      "name": "Marianela (Que Pasa)",
+      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
+    },
+    {
+      "album": {
+        "name": "Mas Rica Que Ayer",
+        "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "Mas Rica Que Ayer",
+      "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
+    },
+    {
+      "album": {
+        "name": "Mi Nena Remix",
+        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Mi Nena Remix",
+      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+    },
+    {
+      "album": {
+        "name": "Reggaetonea",
+        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/4jiYaQVHzMfKhEeLypWpNO"
+    },
+    {
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+    },
+    {
+      "album": {
+        "name": "Ya Casi Vienen",
+        "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218080,
+      "name": "Party De Electr\u00f3nica",
+      "url": "https://open.spotify.com/track/140pAWVcH6vpI1z0eKt9pl"
+    },
+    {
+      "album": {
+        "name": "Replica (feat. El Alfa)",
+        "url": "https://open.spotify.com/album/3VRRzMuuqpMX5UsObjwTPp"
+      },
+      "artists": [
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171355,
+      "name": "Replica (feat. El Alfa)",
+      "url": "https://open.spotify.com/track/289vPItCYBhBik7acU46qI"
+    },
+    {
+      "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+    },
+    {
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+    },
+    {
+      "album": {
+        "name": "Un Finde | CROSSOVER #2",
+        "url": "https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Un Finde | CROSSOVER #2",
+      "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
+    },
+    {
+      "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUYirfc3dENq"
 }

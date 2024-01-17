@@ -4,7 +4,7 @@
 
 > 01101110 01100101 01110010 01100100
 
-207 songs - 14 hr 43 min
+208 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Dream Machine](https://open.spotify.com/track/7LMs6dgUY3YK9R12uf8TXA) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Redline](https://open.spotify.com/album/0A9H0uAwdTCWNofsksO2fX) | 3:27 | 2023-10-11 |  |
 | [Drone Warfare](https://open.spotify.com/track/1vY0rBYejpyFOsmc80xcVw) | [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Drone Warfare](https://open.spotify.com/album/7EJoE0moH5KkABacJsogXp) | 4:25 | 2023-10-11 |  |
 | [Drowning](https://open.spotify.com/track/0e2af43kcIHbC44U9zXOzB) | [OXWAVE](https://open.spotify.com/artist/7B2UfSm1zprogJ0TulxZp9) | [Drowning](https://open.spotify.com/album/1jxyUPHCk8mc31yxhGI7jx) | 2:38 | 2022-05-19 | 2023-10-12 |
-| [Electric](https://open.spotify.com/track/1oUpE2W9kXdpYYMof5nnQA) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/73lHzvuzmDsRscdaCQoj9B) | 3:25 | 2023-10-11 |  |
+| [Electric](https://open.spotify.com/track/1fi9BN8F15rCUWjAsaMngw) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/0Gx2nIxhlYbpbk0BsjL15X) | 3:25 | 2023-12-11 |  |
+| [Electric](https://open.spotify.com/track/1oUpE2W9kXdpYYMof5nnQA) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/73lHzvuzmDsRscdaCQoj9B) | 3:25 | 2023-10-11 | 2024-01-12 |
 | [End of Line \- From "TRON: Legacy"/Score](https://open.spotify.com/track/72MoCPAnz0UljAVmwHHw3Y) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 2:36 | 2022-05-19 |  |
 | [Energizor](https://open.spotify.com/track/5LNOf9uPRbr9LcCmAFrWav) | [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw) | [FOZZOR](https://open.spotify.com/album/5WmOTTFyMiCqclhqAKx03Y) | 3:00 | 2023-10-11 |  |
 | [Eternal Loneliness](https://open.spotify.com/track/3CyJNVETICgG6wsx2MNEYB) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Totsuka No Tsurugi](https://open.spotify.com/album/6DEJErUUiixATMvkg9XtHN) | 10:09 | 2023-10-11 |  |

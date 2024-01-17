@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Madihu",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: V\u0169.",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 200727,
       "name": "b\u00e9 \u01a1i t\u1eeb t\u1eeb",
       "url": "https://open.spotify.com/track/0tGmDUHDoT8pxYhgAT3yNG"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 214736,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/08GUMwJRpisuxHGyRzoSuu"
@@ -1480,6 +1480,28 @@
       "duration_ms": 197333,
       "name": "Em L\u00e0",
       "url": "https://open.spotify.com/track/6A1IbMKwjvXibcrU1sdqKH"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1eb8P",
+        "url": "https://open.spotify.com/album/0Y4fLNVEo2CKhaHEb0CjJ3"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
+        },
+        {
+          "name": "Onionn.",
+          "url": "https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183236,
+      "name": "Em Xinh",
+      "url": "https://open.spotify.com/track/6IHLOkgZftkcqS3fM0jMCT"
     },
     {
       "album": {
@@ -3868,6 +3890,28 @@
       "duration_ms": 215172,
       "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
       "url": "https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv"
+    },
+    {
+      "album": {
+        "name": "LOI CHOI: The Neo Pop Punk",
+        "url": "https://open.spotify.com/album/1c4nTHI2hreFeF5P37wf4f"
+      },
+      "artists": [
+        {
+          "name": "Wren Evans",
+          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+        },
+        {
+          "name": "itsnk",
+          "url": "https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "T\u00f2 Te T\u00ed",
+      "url": "https://open.spotify.com/track/0X28PqBpbQhWdi4usYw0w5"
     },
     {
       "album": {

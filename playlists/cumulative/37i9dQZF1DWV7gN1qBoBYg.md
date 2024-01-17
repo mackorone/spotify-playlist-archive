@@ -4,14 +4,16 @@
 
 > Welcome to RADAR: A space for storytelling going beyond the music featuring Yaeger, Sam Ezeh, LOVA, Mina Okabe, Augustine & IVAN$ITO from the Nordics!
 
-61 songs - 3 hr 1 min
+63 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ahorita](https://open.spotify.com/track/6eaupQfbjsvOsTCNqz4SQv) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Everything Is Reggaeton](https://open.spotify.com/album/3uudLdE8l4cC7ridZzYf0O) | 3:23 | 2022-04-25 |  |
 | [All My Thoughts](https://open.spotify.com/track/1XUFRMGnLUjESmegODafq9) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:20 | 2022-04-25 |  |
 | [Awful Lot of Time](https://open.spotify.com/track/2rHwZH39RB1aCRQSQETOzf) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Weeks Above The Earth](https://open.spotify.com/album/030P1hbKI1OLAPVpThG5gl) | 3:46 | 2022-04-25 |  |
-| [Awkward](https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba) | 2:33 | 2023-10-26 |  |
+| [Awkward](https://open.spotify.com/track/0jIDBEwh9keW6w9IXnJLIf) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr) | 2:33 | 2023-10-26 |  |
+| [Awkward](https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba) | 2:33 | 2023-10-26 | 2024-01-07 |
+| [Awkward](https://open.spotify.com/track/2N58SiWuGPXBbOxRWNlLf8) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Vinterlåtar](https://open.spotify.com/album/6AFsAtbPuqJ4Mkd7tasitn) | 2:33 | 2023-10-26 | 2024-01-08 |
 | [Backseat](https://open.spotify.com/track/4Sec4YoFHueidjEW8fQDSj) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Weeks Above The Earth](https://open.spotify.com/album/030P1hbKI1OLAPVpThG5gl) | 3:04 | 2022-04-25 |  |
 | [Black Converse](https://open.spotify.com/track/2NQtXwEgMkIeTiThSdbWPq) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Varm Sommar 2020](https://open.spotify.com/album/5bBWHe49fHsZ2vQyPS9gWy) | 3:06 | 2022-04-25 | 2023-10-22 |
 | [Black Converse](https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:06 | 2023-10-05 |  |

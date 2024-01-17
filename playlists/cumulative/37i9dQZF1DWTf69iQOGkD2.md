@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck
 
-209 songs - 13 hr 6 min
+210 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Framboesa](https://open.spotify.com/track/1H59wxH6UVpIxWZ0XWi4op) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Framboesa](https://open.spotify.com/album/38yNZ6bgEWDTHdqKKsDCca) | 2:27 | 2022-07-29 | 2022-08-23 |
 | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0) | 4:54 | 2022-10-28 |  |
 | [FRASES E FASES](https://open.spotify.com/track/5Ys2IHGK5S07i1MXpizbYn) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [FRASES E FASES](https://open.spotify.com/album/03PvqDcf6tUWXhx6JKEX5l) | 2:06 | 2023-04-21 | 2023-12-09 |
+| [Fresh Sesh \#03 \- Se Enganou](https://open.spotify.com/track/4hcY8qf6qfkFGNlOWcXvdV) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [LH Emici](https://open.spotify.com/artist/2W1myCBiCFdRWmQuzQWCdK), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Fresh Sesh \#03 – Se Enganou](https://open.spotify.com/album/0bCYS00OLUx6hhCc6cB3w7) | 3:37 | 2024-01-12 |  |
 | [Fui Eu](https://open.spotify.com/track/1fleF67U8sTqrCgbt58ujl) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [RESENHV](https://open.spotify.com/artist/7qvo2lIj7T6DUuIkTzs7Vm) | [Fui Eu](https://open.spotify.com/album/3qwj0K7CI3VH6j27jOukK4) | 1:41 | 2022-05-06 | 2022-05-28 |
 | [Gasolina](https://open.spotify.com/track/5F2Gq7rl3Ab4u3wXy47Yfi) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Giovanna Vampesi](https://open.spotify.com/artist/5OdyMGgVHjCj7Wi3YsSQjk), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Gasolina](https://open.spotify.com/album/2DAEEYqpvSxmNbX8pS9F27) | 2:10 | 2022-10-07 | 2022-10-29 |
 | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/track/5b8A3MH3e2gD8RFEcNggAs) | [Papasessions](https://open.spotify.com/artist/1bzpK4GDoDGGXX9eqIkwFs), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Geribá \(Papasessions \#8\) \[feat\. OIK\]](https://open.spotify.com/album/7AqekLGMeEV8MnMmpeq7h1) | 3:42 | 2022-03-18 |  |

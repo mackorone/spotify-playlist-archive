@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,377,202 likes - 360 songs - 16 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,865 likes - 360 songs - 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

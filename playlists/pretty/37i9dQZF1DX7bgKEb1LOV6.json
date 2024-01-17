@@ -1,13 +1,29 @@
 {
   "description": "To the world, Here is NCT! Hi we are NCT!",
-  "num_followers": 655657,
+  "num_followers": 652663,
   "original_name": "This Is NCT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTEyZDVlNzI2NWM2MTVkOWE4N2RmNzg0NTA0YzVjMzM1MjMxNGZh",
+  "snapshot_id": "MCxhYTdlODQ0MGQxNmNjNjBmYTA1MTY1ZTYxZWE3YjcyMGFlMTgxOGM2",
   "tracks": [
+    {
+      "added_at": "2024-01-16 03:25:17",
+      "album": {
+        "name": "Do It (Let\u2019s Play) (NCT ZONE OST)",
+        "url": "https://open.spotify.com/album/5QZRGNvfpETjoXK47LESUf"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Do It (Let\u2019s Play)",
+      "url": "https://open.spotify.com/track/11r8LiIeQSXJWWHMkXuFsh"
+    },
     {
       "added_at": "2023-08-28 09:00:00",
       "album": {
@@ -559,8 +575,8 @@
     {
       "added_at": "2023-06-05 09:05:10",
       "album": {
-        "name": "MAXIS BY RYAN JHUN PT. 1",
-        "url": "https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc"
+        "name": "MAXIS BY RYAN JHUN Pt. 1-Maniac",
+        "url": "https://open.spotify.com/album/4NMbE48vf6THQoyiAxiOCZ"
       },
       "artists": [
         {
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Maniac (Sung by DOYOUNG, HAECHAN) (Prod. RYAN JHUN)",
-      "url": "https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4"
+      "duration_ms": 208482,
+      "name": "MAXIS BY RYAN JHUN Pt. 1-Maniac",
+      "url": "https://open.spotify.com/track/4Q90kkPqyBv3G7ixxKWow4"
     },
     {
       "added_at": "2023-06-05 09:05:10",

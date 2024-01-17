@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > ¡Con sabor y perrenque, aquí está lo mejor de "la tierra de los mil ritmos"! En portada: Fonseca
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,485 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,951 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

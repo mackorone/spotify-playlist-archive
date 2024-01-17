@@ -1,584 +1,2401 @@
 {
-  "2022-05-26": 203684,
-  "2022-05-27": 203666,
-  "2022-05-28": 203657,
-  "2022-05-29": 203643,
-  "2022-05-30": 203636,
-  "2022-05-31": 203619,
-  "2022-06-01": 203585,
-  "2022-06-02": 203582,
-  "2022-06-03": 203573,
-  "2022-06-04": 203558,
-  "2022-06-05": 203541,
-  "2022-06-06": 203536,
-  "2022-06-07": 203509,
-  "2022-06-08": 203506,
-  "2022-06-09": 203498,
-  "2022-06-10": 203479,
-  "2022-06-11": 203471,
-  "2022-06-12": 203455,
-  "2022-06-13": 203449,
-  "2022-06-14": 203440,
-  "2022-06-15": 203425,
-  "2022-06-16": 203414,
-  "2022-06-17": 203402,
-  "2022-06-18": 203388,
-  "2022-06-19": 203369,
-  "2022-06-20": 203369,
-  "2022-06-21": 203354,
-  "2022-06-22": 203324,
-  "2022-06-23": 203324,
-  "2022-06-24": 203308,
-  "2022-06-25": 203296,
-  "2022-06-26": 203287,
-  "2022-06-27": 203281,
-  "2022-06-28": 203268,
-  "2022-06-29": 203256,
-  "2022-06-30": 203248,
-  "2022-07-01": 203240,
-  "2022-07-02": 203228,
-  "2022-07-03": 203215,
-  "2022-07-04": 203210,
-  "2022-07-05": 203199,
-  "2022-07-06": 203200,
-  "2022-07-07": 203188,
-  "2022-07-08": 203179,
-  "2022-07-09": 203168,
-  "2022-07-10": 203147,
-  "2022-07-11": 203125,
-  "2022-07-12": 203109,
-  "2022-07-13": 203090,
-  "2022-07-14": 203079,
-  "2022-07-15": 203057,
-  "2022-07-16": 203042,
-  "2022-07-17": 203032,
-  "2022-07-18": 203032,
-  "2022-07-19": 203022,
-  "2022-07-20": 203010,
-  "2022-07-21": 202997,
-  "2022-07-22": 202988,
-  "2022-07-23": 202978,
-  "2022-07-24": 202964,
-  "2022-07-25": 202955,
-  "2022-07-26": 202937,
-  "2022-07-27": 202926,
-  "2022-07-28": 202908,
-  "2022-07-29": 202890,
-  "2022-07-30": 202869,
-  "2022-07-31": 202869,
-  "2022-08-01": 202852,
-  "2022-08-02": 202821,
-  "2022-08-03": 202821,
-  "2022-08-04": 202810,
-  "2022-08-05": 202794,
-  "2022-08-06": 202785,
-  "2022-08-07": 202779,
-  "2022-08-08": 202771,
-  "2022-08-09": 202751,
-  "2022-08-10": 202736,
-  "2022-08-11": 202722,
-  "2022-08-12": 202706,
-  "2022-08-13": 202692,
-  "2022-08-14": 202681,
-  "2022-08-15": 202673,
-  "2022-08-16": 202661,
-  "2022-08-17": 202647,
-  "2022-08-18": 202629,
-  "2022-08-19": 202613,
-  "2022-08-20": 202598,
-  "2022-08-21": 202590,
-  "2022-08-22": 202585,
-  "2022-08-23": 202591,
-  "2022-08-24": 202585,
-  "2022-08-25": 202592,
-  "2022-08-26": 202589,
-  "2022-08-27": 202589,
-  "2022-08-28": 202596,
-  "2022-08-29": 202604,
-  "2022-08-30": 202564,
-  "2022-08-31": 202485,
-  "2022-09-01": 202380,
-  "2022-09-02": 202287,
-  "2022-09-03": 202110,
-  "2022-09-04": 202018,
-  "2022-09-05": 202003,
-  "2022-09-06": 202001,
-  "2022-09-07": 202001,
-  "2022-09-09": 202005,
-  "2022-09-10": 202002,
-  "2022-09-11": 201996,
-  "2022-09-12": 201999,
-  "2022-09-13": 201995,
-  "2022-09-15": 202010,
-  "2022-09-16": 202000,
-  "2022-09-17": 202010,
-  "2022-09-18": 202003,
-  "2022-09-19": 201996,
-  "2022-09-20": 201997,
-  "2022-09-21": 201996,
-  "2022-09-22": 201997,
-  "2022-09-23": 202001,
-  "2022-09-24": 202008,
-  "2022-09-25": 202002,
-  "2022-09-26": 202004,
-  "2022-09-27": 202000,
-  "2022-09-28": 202000,
-  "2022-09-29": 202002,
-  "2022-09-30": 201990,
-  "2022-10-01": 201987,
-  "2022-10-02": 201995,
-  "2022-10-03": 201992,
-  "2022-10-04": 201987,
-  "2022-10-05": 201985,
-  "2022-10-06": 201998,
-  "2022-10-07": 202002,
-  "2022-10-08": 201993,
-  "2022-10-09": 202002,
-  "2022-10-10": 201998,
-  "2022-10-11": 202001,
-  "2022-10-12": 202002,
-  "2022-10-13": 202006,
-  "2022-10-14": 202006,
-  "2022-10-15": 202000,
-  "2022-10-16": 202000,
-  "2022-10-17": 201997,
-  "2022-10-18": 201993,
-  "2022-10-19": 202000,
-  "2022-10-20": 201995,
-  "2022-10-21": 202001,
-  "2022-10-22": 201999,
-  "2022-10-23": 202000,
-  "2022-10-24": 201997,
-  "2022-10-25": 201999,
-  "2022-10-26": 202003,
-  "2022-10-27": 202010,
-  "2022-10-28": 202015,
-  "2022-10-29": 202029,
-  "2022-10-30": 202044,
-  "2022-10-31": 202045,
-  "2022-11-01": 202042,
-  "2022-11-02": 202043,
-  "2022-11-03": 202047,
-  "2022-11-04": 202046,
-  "2022-11-05": 202049,
-  "2022-11-06": 202046,
-  "2022-11-07": 202053,
-  "2022-11-08": 202046,
-  "2022-11-09": 202041,
-  "2022-11-10": 202034,
-  "2022-11-11": 202033,
-  "2022-11-12": 202033,
-  "2022-11-13": 202034,
-  "2022-11-14": 202038,
-  "2022-11-15": 202040,
-  "2022-11-16": 202035,
-  "2022-11-17": 202026,
-  "2022-11-18": 202010,
-  "2022-11-19": 202009,
-  "2022-11-20": 202014,
-  "2022-11-21": 202018,
-  "2022-11-22": 202019,
-  "2022-11-23": 202014,
-  "2022-11-24": 202025,
-  "2022-11-25": 202039,
-  "2022-11-26": 202046,
-  "2022-11-27": 202044,
-  "2022-11-28": 202050,
-  "2022-11-29": 202048,
-  "2022-11-30": 202038,
-  "2022-12-01": 202018,
-  "2022-12-02": 202009,
-  "2022-12-03": 202004,
-  "2022-12-04": 202009,
-  "2022-12-05": 202008,
-  "2022-12-06": 202009,
-  "2022-12-07": 202000,
-  "2022-12-08": 201991,
-  "2022-12-09": 201987,
-  "2022-12-10": 201986,
-  "2022-12-11": 201983,
-  "2022-12-12": 201980,
-  "2022-12-13": 201972,
-  "2022-12-14": 201969,
-  "2022-12-15": 201963,
-  "2022-12-16": 201961,
-  "2022-12-17": 201952,
-  "2022-12-18": 201946,
-  "2022-12-19": 201943,
-  "2022-12-20": 201923,
-  "2022-12-21": 201923,
-  "2022-12-22": 201916,
-  "2022-12-24": 201912,
-  "2022-12-25": 201909,
-  "2022-12-26": 201907,
-  "2022-12-27": 201905,
-  "2022-12-28": 201902,
-  "2022-12-29": 201900,
-  "2022-12-30": 201890,
-  "2022-12-31": 201892,
-  "2023-01-01": 201887,
-  "2023-01-02": 201874,
-  "2023-01-03": 201863,
-  "2023-01-04": 201853,
-  "2023-01-05": 201839,
-  "2023-01-06": 201830,
-  "2023-01-07": 201819,
-  "2023-01-08": 201818,
-  "2023-01-09": 201817,
-  "2023-01-10": 201812,
-  "2023-01-11": 201801,
-  "2023-01-12": 201796,
-  "2023-01-13": 201799,
-  "2023-01-14": 201786,
-  "2023-01-15": 201781,
-  "2023-01-16": 201788,
-  "2023-01-17": 201779,
-  "2023-01-18": 201784,
-  "2023-01-19": 201775,
-  "2023-01-20": 201768,
-  "2023-01-21": 201755,
-  "2023-01-22": 201744,
-  "2023-01-23": 201748,
-  "2023-01-24": 201742,
-  "2023-01-25": 201735,
-  "2023-01-26": 201747,
-  "2023-01-27": 201742,
-  "2023-01-28": 201736,
-  "2023-01-29": 201735,
-  "2023-01-30": 201738,
-  "2023-01-31": 201738,
-  "2023-02-01": 201725,
-  "2023-02-02": 201722,
-  "2023-02-03": 201718,
-  "2023-02-04": 201724,
-  "2023-02-05": 201726,
-  "2023-02-06": 201728,
-  "2023-02-07": 201722,
-  "2023-02-08": 201717,
-  "2023-02-09": 201717,
-  "2023-02-10": 201706,
-  "2023-02-11": 201708,
-  "2023-02-12": 201743,
-  "2023-02-13": 201768,
-  "2023-02-14": 201768,
-  "2023-02-15": 201795,
-  "2023-02-16": 201812,
-  "2023-02-17": 201840,
-  "2023-02-18": 201895,
-  "2023-02-19": 201903,
-  "2023-02-20": 201920,
-  "2023-02-21": 201958,
-  "2023-02-22": 201985,
-  "2023-02-23": 202015,
-  "2023-02-24": 202050,
-  "2023-02-25": 202086,
-  "2023-02-26": 202110,
-  "2023-02-27": 202154,
-  "2023-02-28": 202154,
-  "2023-03-01": 202175,
-  "2023-03-02": 202195,
-  "2023-03-03": 202225,
-  "2023-03-04": 202237,
-  "2023-03-05": 202298,
-  "2023-03-06": 202298,
-  "2023-03-07": 202324,
-  "2023-03-08": 202349,
-  "2023-03-09": 202370,
-  "2023-03-10": 202379,
-  "2023-03-11": 202405,
-  "2023-03-12": 202426,
-  "2023-03-13": 202452,
-  "2023-03-14": 202476,
-  "2023-03-15": 202529,
-  "2023-03-16": 202537,
-  "2023-03-17": 202537,
-  "2023-03-18": 202576,
-  "2023-03-19": 202614,
-  "2023-03-20": 202634,
-  "2023-03-21": 202645,
-  "2023-03-22": 202671,
-  "2023-03-23": 202689,
-  "2023-03-24": 202689,
-  "2023-03-25": 202724,
-  "2023-03-26": 202746,
-  "2023-03-27": 202772,
-  "2023-03-28": 202795,
-  "2023-03-29": 202825,
-  "2023-03-30": 202853,
-  "2023-03-31": 202853,
-  "2023-04-01": 202890,
-  "2023-04-02": 202908,
-  "2023-04-03": 202934,
-  "2023-04-04": 202951,
-  "2023-04-05": 202984,
-  "2023-04-06": 203012,
-  "2023-04-07": 203043,
-  "2023-04-09": 203106,
-  "2023-04-10": 203131,
-  "2023-04-11": 203196,
-  "2023-04-12": 203196,
-  "2023-04-13": 203219,
-  "2023-04-14": 203235,
-  "2023-04-15": 203254,
-  "2023-04-16": 203270,
-  "2023-04-17": 203301,
-  "2023-04-18": 203322,
-  "2023-04-19": 203350,
-  "2023-04-20": 203376,
-  "2023-04-21": 203396,
-  "2023-04-22": 203412,
-  "2023-04-23": 203442,
-  "2023-04-24": 203469,
-  "2023-04-25": 203476,
-  "2023-04-26": 203510,
-  "2023-04-27": 203539,
-  "2023-04-28": 203565,
-  "2023-04-29": 203595,
-  "2023-04-30": 203643,
-  "2023-05-01": 203660,
-  "2023-05-02": 203688,
-  "2023-05-03": 203714,
-  "2023-05-04": 203733,
-  "2023-05-05": 203757,
-  "2023-05-06": 203778,
-  "2023-05-07": 203791,
-  "2023-05-08": 203823,
-  "2023-05-09": 203840,
-  "2023-05-10": 203866,
-  "2023-05-11": 203897,
-  "2023-05-12": 203908,
-  "2023-05-13": 203927,
-  "2023-05-14": 203953,
-  "2023-05-15": 203976,
-  "2023-05-16": 203991,
-  "2023-05-17": 204021,
-  "2023-05-18": 204051,
-  "2023-05-19": 204081,
-  "2023-05-20": 204131,
-  "2023-05-21": 204131,
-  "2023-05-22": 204131,
-  "2023-05-23": 204172,
-  "2023-05-24": 204204,
-  "2023-05-25": 204210,
-  "2023-05-26": 204225,
-  "2023-05-27": 204260,
-  "2023-05-28": 204285,
-  "2023-05-29": 204285,
-  "2023-05-30": 204319,
-  "2023-05-31": 204342,
-  "2023-06-01": 204362,
-  "2023-06-02": 204377,
-  "2023-06-03": 204399,
-  "2023-06-04": 204422,
-  "2023-06-05": 204441,
-  "2023-06-06": 204476,
-  "2023-06-07": 204497,
-  "2023-06-08": 204530,
-  "2023-06-09": 204559,
-  "2023-06-10": 204569,
-  "2023-06-11": 204588,
-  "2023-06-12": 204614,
-  "2023-06-13": 204641,
-  "2023-06-14": 204666,
-  "2023-06-15": 204695,
-  "2023-06-16": 204723,
-  "2023-06-17": 204748,
-  "2023-06-18": 204773,
-  "2023-06-19": 204811,
-  "2023-06-20": 204836,
-  "2023-06-21": 204869,
-  "2023-06-22": 204890,
-  "2023-06-23": 204907,
-  "2023-06-24": 204923,
-  "2023-06-25": 204943,
-  "2023-06-26": 204977,
-  "2023-06-27": 204994,
-  "2023-06-28": 205000,
-  "2023-06-29": 205023,
-  "2023-06-30": 205041,
-  "2023-07-01": 205073,
-  "2023-07-02": 205073,
-  "2023-07-03": 205090,
-  "2023-07-04": 205106,
-  "2023-07-05": 205125,
-  "2023-07-06": 205150,
-  "2023-07-07": 205150,
-  "2023-07-08": 205178,
-  "2023-07-09": 205185,
-  "2023-07-10": 205211,
-  "2023-07-11": 205230,
-  "2023-07-12": 205234,
-  "2023-07-13": 205243,
-  "2023-07-14": 205262,
-  "2023-07-15": 205276,
-  "2023-07-16": 205311,
-  "2023-07-17": 205341,
-  "2023-07-18": 205367,
-  "2023-07-19": 205385,
-  "2023-07-20": 205412,
-  "2023-07-21": 205428,
-  "2023-07-22": 205460,
-  "2023-07-23": 205482,
-  "2023-07-24": 205496,
-  "2023-07-25": 205508,
-  "2023-07-26": 205531,
-  "2023-07-27": 205542,
-  "2023-07-28": 205564,
-  "2023-07-29": 205603,
-  "2023-07-30": 205619,
-  "2023-07-31": 205626,
-  "2023-08-01": 205652,
-  "2023-08-02": 205670,
-  "2023-08-03": 205696,
-  "2023-08-04": 205719,
-  "2023-08-05": 205741,
-  "2023-08-06": 205811,
-  "2023-08-07": 205811,
-  "2023-08-08": 205831,
-  "2023-08-09": 205856,
-  "2023-08-10": 205879,
-  "2023-08-11": 205899,
-  "2023-08-12": 205907,
-  "2023-08-13": 205933,
-  "2023-08-14": 205965,
-  "2023-08-15": 206029,
-  "2023-08-16": 206029,
-  "2023-08-17": 206061,
-  "2023-08-18": 206087,
-  "2023-08-19": 206112,
-  "2023-08-20": 206153,
-  "2023-08-21": 206166,
-  "2023-08-22": 206185,
-  "2023-08-23": 206207,
-  "2023-08-24": 206239,
-  "2023-08-25": 206254,
-  "2023-08-26": 206280,
-  "2023-08-27": 206303,
-  "2023-08-28": 206333,
-  "2023-08-29": 206353,
-  "2023-08-30": 206388,
-  "2023-08-31": 206417,
-  "2023-09-01": 206592,
-  "2023-09-02": 206592,
-  "2023-09-03": 206649,
-  "2023-09-04": 206649,
-  "2023-09-05": 206881,
-  "2023-09-06": 206970,
-  "2023-09-07": 206970,
-  "2023-09-08": 206970,
-  "2023-09-09": 207280,
-  "2023-09-10": 207392,
-  "2023-09-11": 207505,
-  "2023-09-12": 207505,
-  "2023-09-13": 207727,
-  "2023-09-14": 207727,
-  "2023-09-15": 207946,
-  "2023-09-16": 208034,
-  "2023-09-17": 208034,
-  "2023-09-18": 208034,
-  "2023-09-19": 208351,
-  "2023-09-20": 208456,
-  "2023-09-21": 208586,
-  "2023-09-22": 208683,
-  "2023-09-23": 208683,
-  "2023-09-24": 208683,
-  "2023-09-25": 208683,
-  "2023-09-26": 209172,
-  "2023-09-27": 209172,
-  "2023-09-28": 209172,
-  "2023-09-29": 209172,
-  "2023-09-30": 209172,
-  "2023-10-01": 209721,
-  "2023-10-02": 209848,
-  "2023-10-03": 209944,
-  "2023-10-04": 209944,
-  "2023-10-05": 210172,
-  "2023-10-06": 210288,
-  "2023-10-07": 210288,
-  "2023-10-08": 210552,
-  "2023-10-09": 210552,
-  "2023-10-10": 210552,
-  "2023-10-11": 210807,
-  "2023-10-12": 210807,
-  "2023-10-13": 210913,
-  "2023-10-14": 210913,
-  "2023-10-15": 210913,
-  "2023-10-16": 210913,
-  "2023-10-17": 210913,
-  "2023-10-18": 210913,
-  "2023-10-19": 210913,
-  "2023-10-20": 210913,
-  "2023-10-21": 210913,
-  "2023-10-22": 210913,
-  "2023-10-23": 210913,
-  "2023-10-24": 210913,
-  "2023-10-25": 210913,
-  "2023-10-26": 210913,
-  "2023-10-27": 210913,
-  "2023-10-28": 210913,
-  "2023-10-29": 210913,
-  "2023-10-30": 210913,
-  "2023-10-31": 210913,
-  "2023-11-01": 210913,
-  "2023-11-02": 210913,
-  "2023-11-03": 210913,
-  "2023-11-04": 210913,
-  "2023-11-05": 210913,
-  "2023-11-06": 210913,
-  "2023-11-07": 210913,
-  "2023-11-08": 210913,
-  "2023-11-09": 210913,
-  "2023-11-10": 210913,
-  "2023-11-11": 213753,
-  "2023-11-12": 213753,
-  "2023-11-13": 213753,
-  "2023-11-14": 213753,
-  "2023-11-15": 213753,
-  "2023-11-16": 213753,
-  "2023-11-17": 214387,
-  "2023-11-18": 214387,
-  "2023-11-19": 214387,
-  "2023-11-20": 214387,
-  "2023-11-21": 214387,
-  "2023-11-22": 214387,
-  "2023-11-23": 214387,
-  "2023-11-24": 214387,
-  "2023-11-25": 214387,
-  "2023-11-26": 214387,
-  "2023-11-27": 214387,
-  "2023-11-28": 214387,
-  "2023-11-29": 214387,
-  "2023-11-30": 214387,
-  "2023-12-01": 214387,
-  "2023-12-02": 214387,
-  "2023-12-03": 214387,
-  "2023-12-04": 214387,
-  "2023-12-05": 214387,
-  "2023-12-06": 214387,
-  "2023-12-07": 214387,
-  "2023-12-08": 214387,
-  "2023-12-09": 214387,
-  "2023-12-10": 214387,
-  "2023-12-11": 214387,
-  "2023-12-12": 214387,
-  "2023-12-13": 214387,
-  "2023-12-14": 216593,
-  "2023-12-15": 216619,
-  "2023-12-16": 216663,
-  "2023-12-17": 216693,
-  "2023-12-18": 216746,
-  "2023-12-19": 216773,
-  "2023-12-20": 216808,
-  "2023-12-21": 216833,
-  "2023-12-22": 216865,
-  "2023-12-23": 216898,
-  "2023-12-24": 216931,
-  "2023-12-25": 216982,
-  "2023-12-26": 217017,
-  "2023-12-27": 217057,
-  "2023-12-30": 217198,
-  "2023-12-31": 217264,
-  "2024-01-01": 217301,
-  "2024-01-02": 217349,
-  "2024-01-03": 217384
+  "2024-01-17": 217533,
+  "date_first_scraped": "2022-05-26",
+  "description": "What is dead may never die. Listen to the most memorable and pinnacle tracks from all eight seasons of Game of Thrones. ",
+  "name": "Game of Thrones: The Official Soundtrack",
+  "tracks": [
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119660,
+      "name": "A Knight of the Seven Kingdoms",
+      "url": "https://open.spotify.com/track/0uURGp4Fsf5hMn2vMORmah"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "A Lannister Always Pays His Debts",
+      "url": "https://open.spotify.com/track/1vPEPhmGDnp8RR6GCBozaa"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202155,
+      "name": "A Painless Death",
+      "url": "https://open.spotify.com/track/1OGSQtO20009npx6yGy7kN"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131888,
+      "name": "A Song of Ice and Fire",
+      "url": "https://open.spotify.com/track/1AvLUHxSunGMWWRfEFmWSC"
+    },
+    {
+      "album": {
+        "name": "All The Best",
+        "url": "https://open.spotify.com/album/2F8UwYqcTH62Z7H45WD3VG"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 163466,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/0MDJjySh4ydA8CyFVkcFQh"
+    },
+    {
+      "album": {
+        "name": "Black Holes",
+        "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 193053,
+      "name": "Be My Fire",
+      "url": "https://open.spotify.com/track/0f2QFb1ghqUzM5Cl3HTQcc"
+    },
+    {
+      "album": {
+        "name": "Black Holes",
+        "url": "https://open.spotify.com/album/7uDSOgunaHsoMJchpIU44T"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193053,
+      "name": "Be My Fire",
+      "url": "https://open.spotify.com/track/1DqpFQJcBRkfTs6U6XlfIQ"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215261,
+      "name": "Blood of My Blood",
+      "url": "https://open.spotify.com/track/31Euo4DTJpj6Y4u5lVHsHV"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93106,
+      "name": "Blood of the Dragon",
+      "url": "https://open.spotify.com/track/3As7Ugnc8VMp1Xf54VwwLW"
+    },
+    {
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 227847,
+      "name": "Born For Greatness",
+      "url": "https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2"
+    },
+    {
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 231586,
+      "name": "Bottom Of The Deep Blue Sea",
+      "url": "https://open.spotify.com/track/6AvslIXIi9iaGvukefyVVK"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269723,
+      "name": "Break the Wheel",
+      "url": "https://open.spotify.com/track/5DAb4aqsRXqjelTTJ4dlem"
+    },
+    {
+      "album": {
+        "name": "The Alchemy Index, Vols. 1 & 2: Fire & Water",
+        "url": "https://open.spotify.com/album/4qJ6YCuvhSRNik047WYgG2"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 226613,
+      "name": "Burn the Fleet",
+      "url": "https://open.spotify.com/track/4Cq9KdtlA2VyRFtc2ykhuU"
+    },
+    {
+      "album": {
+        "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
+        "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 278297,
+      "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
+      "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Chaos Is a Ladder",
+      "url": "https://open.spotify.com/track/6iEvRqryWDEFleImTSLqR4"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 214386,
+      "name": "Cold Cold Cold",
+      "url": "https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106618,
+      "name": "Coronation",
+      "url": "https://open.spotify.com/track/1bsXTYMwTwgDJ4M40q4ku7"
+    },
+    {
+      "album": {
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/4TQDU2C2TcvDQGeFs4UgGT"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229373,
+      "name": "Crown on the Ground",
+      "url": "https://open.spotify.com/track/1gCXJrP4nGLdRKWy8v0209"
+    },
+    {
+      "album": {
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 229373,
+      "name": "Crown On The Ground",
+      "url": "https://open.spotify.com/track/7MKFtAnWUeJBYTXZCsHQxH"
+    },
+    {
+      "album": {
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/1Lci4bx7JIuCC8pnBNX7ds"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214986,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/3j5DVpcCELigVZrmwGOw3X"
+    },
+    {
+      "album": {
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 214986,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "Dance of Dragons",
+      "url": "https://open.spotify.com/track/6YTc18izaUvCS2XD7rK9Am"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "Dark Wings, Dark Words",
+      "url": "https://open.spotify.com/track/2YZy9wVrWyWIGJK7LsJbgZ"
+    },
+    {
+      "album": {
+        "name": "Seasons In The Abyss",
+        "url": "https://open.spotify.com/album/416nVgqae48Dw0EjD6N4EU"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 320533,
+      "name": "Dead Skin Mask",
+      "url": "https://open.spotify.com/track/2L2XquxTZBmzzNBCPCzq0p"
+    },
+    {
+      "album": {
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 218188,
+      "name": "Devil's Spoke",
+      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+    },
+    {
+      "album": {
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/5oLHp7Jv0pwh8Dczdbwl6x"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218188,
+      "name": "Devil's Spoke",
+      "url": "https://open.spotify.com/track/7sY4my7bMwktoF3RKUuTIq"
+    },
+    {
+      "album": {
+        "name": "Workingman's Dead",
+        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 194491,
+      "name": "Dire Wolf - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "Dracarys",
+      "url": "https://open.spotify.com/track/1eW5pYWfahrmseEKvCyoYR"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306120,
+      "name": "Dragonstone",
+      "url": "https://open.spotify.com/track/65KG1BEtR85y2cvIaukuaO"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/3Z0QYWxOndrwwtiUyybjSl"
+    },
+    {
+      "album": {
+        "name": "The Dull Drums - EP",
+        "url": "https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 197579,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/18q85q12rFgJQY8VL56O8p"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171561,
+      "name": "Flight of Dragons",
+      "url": "https://open.spotify.com/track/4OG2BR10XdGsOjWNiOdVjr"
+    },
+    {
+      "album": {
+        "name": "\u00c1g\u00e6tis byrjun",
+        "url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 467933,
+      "name": "Flugufrelsarinn",
+      "url": "https://open.spotify.com/track/2f4zQEtyo2gja8Kok7sNEc"
+    },
+    {
+      "album": {
+        "name": "\u00c1g\u00e6tis Byrjun",
+        "url": "https://open.spotify.com/album/7LKQtdC6uWxqLzSbDonFij"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 468506,
+      "name": "Flugufrelsarinn",
+      "url": "https://open.spotify.com/track/7rbllPSJ7BI3EG6FqxKvgj"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263974,
+      "name": "For Cersei",
+      "url": "https://open.spotify.com/track/5Tbs8ANBjOB9d9RyTXyReH"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91093,
+      "name": "For the Realm",
+      "url": "https://open.spotify.com/track/3CNGmZVbvs4UVY2fWHXBvD"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/5gwkDChaGwyTKXCGDNDpgB"
+    },
+    {
+      "album": {
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247506,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL"
+    },
+    {
+      "album": {
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 247515,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
+    },
+    {
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 220400,
+      "name": "Girl from the North Country",
+      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+    },
+    {
+      "album": {
+        "name": "Go To War",
+        "url": "https://open.spotify.com/album/3iN7zyUi2NQuc2BSJLhbd4"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 245195,
+      "name": "Go To War",
+      "url": "https://open.spotify.com/track/1mU8A0bKStnhYuS043o6Je"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 187133,
+      "name": "Gold Lion",
+      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
+    },
+    {
+      "album": {
+        "name": "Gold Lion (International Maxi)",
+        "url": "https://open.spotify.com/album/6UWou2TmJXBCsq9jDyIgEo"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187880,
+      "name": "Gold Lion",
+      "url": "https://open.spotify.com/track/0ZxlWWronnmSO4KitM4WXl"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "Goodbye Brother",
+      "url": "https://open.spotify.com/track/5n44Y1e8exufbm9mmAvopf"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134186,
+      "name": "Heir to Winterfell",
+      "url": "https://open.spotify.com/track/6hL134phTqx5bNFcVtbSyq"
+    },
+    {
+      "album": {
+        "name": "Danzig II: Lucifuge",
+        "url": "https://open.spotify.com/album/3kPaVfOEEHBDOoAbOMWvRS"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 287240,
+      "name": "Her Black Wings",
+      "url": "https://open.spotify.com/track/4wM61bPrvM8HScuxtskTbd"
+    },
+    {
+      "album": {
+        "name": "The Body, The Blood, The Machine",
+        "url": "https://open.spotify.com/album/67MDdjEiJyAqfpuVVVTHxT"
+      },
+      "artists": [
+        {
+          "name": "The Thermals",
+          "url": "https://open.spotify.com/artist/4qAJ54O4V0W8SQcSz0bl1C"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148866,
+      "name": "Here's Your Future",
+      "url": "https://open.spotify.com/track/3JtdmGmWOoZ4j37gj9Uzmp"
+    },
+    {
+      "album": {
+        "name": "The Body, The Blood, The Machine",
+        "url": "https://open.spotify.com/album/6gfxrkh1u7KfAoppbBdWD6"
+      },
+      "artists": [
+        {
+          "name": "The Thermals",
+          "url": "https://open.spotify.com/artist/4qAJ54O4V0W8SQcSz0bl1C"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 148866,
+      "name": "Here's Your Future",
+      "url": "https://open.spotify.com/track/6Ga63cZkqQevUlwTiOjPd7"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441888,
+      "name": "Hold the Door",
+      "url": "https://open.spotify.com/track/5VndDUveS2gqBbZEw0cjPc"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150373,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0PmH79CmZR3HCvTukh4Nge"
+    },
+    {
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 218600,
+      "name": "Hot Blood",
+      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308466,
+      "name": "House of Black and White",
+      "url": "https://open.spotify.com/track/0KWc0FEwbN9Ikh3MYZhIbC"
+    },
+    {
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138213,
+      "name": "I Am Hers, She Is Mine",
+      "url": "https://open.spotify.com/track/0VCGSZGmYAmtj6at7gREwe"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150623,
+      "name": "Jenny of Oldstones",
+      "url": "https://open.spotify.com/track/2YmIcPF20FEaQd8qwTK8zm"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185710,
+      "name": "Khaleesi",
+      "url": "https://open.spotify.com/track/7i3cRwxEeIcZsJBuSy93M2"
+    },
+    {
+      "album": {
+        "name": "Danzig II: Lucifuge",
+        "url": "https://open.spotify.com/album/3kPaVfOEEHBDOoAbOMWvRS"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 239200,
+      "name": "Killer Wolf",
+      "url": "https://open.spotify.com/track/1ZLpqfA3SoMSVQAeiYy9kY"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88160,
+      "name": "King Of The North",
+      "url": "https://open.spotify.com/track/27tYMG6SdydZhJMYjIUpR1"
+    },
+    {
+      "album": {
+        "name": "Let the Vultures In",
+        "url": "https://open.spotify.com/album/0fnAV8la7b1AZjAfY1oyXZ"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 207141,
+      "name": "Let Me Live / Let Me Die",
+      "url": "https://open.spotify.com/track/481idAnpIOHEjR4YPsbA0y"
+    },
+    {
+      "album": {
+        "name": "Let The Vultures In",
+        "url": "https://open.spotify.com/album/4xPEjD84ueU6Oq6l2saC2d"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207141,
+      "name": "Let Me Live / Let Me Die",
+      "url": "https://open.spotify.com/track/5bCDC7qkmxiJc0lPsqiALj"
+    },
+    {
+      "album": {
+        "name": "The Fear Record",
+        "url": "https://open.spotify.com/album/7yXRUMXLWJ0KIBrAcYbDYd"
+      },
+      "artists": [
+        {
+          "name": "Fear",
+          "url": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 141586,
+      "name": "Let's Have A War",
+      "url": "https://open.spotify.com/track/6eHSYA1vChdEZ4pPRaGUtA"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351315,
+      "name": "Let's Play a Game",
+      "url": "https://open.spotify.com/track/4v8f7iBCJ9bAyTTu0R7LAw"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589094,
+      "name": "Light of the Seven",
+      "url": "https://open.spotify.com/track/1SbsbLsUMnAKWHx1zAV6ER"
+    },
+    {
+      "album": {
+        "name": "Saint Dominic's Preview",
+        "url": "https://open.spotify.com/album/0i3c1sR3poI6S2VIH2VP7Q"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 671133,
+      "name": "Listen to the Lion",
+      "url": "https://open.spotify.com/track/4gXwWfGICSNmWHwvtbZfby"
+    },
+    {
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 212309,
+      "name": "Little Monster",
+      "url": "https://open.spotify.com/track/3cuxZTcxBj7AL3bgSCIuWL"
+    },
+    {
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 263346,
+      "name": "Love Is Blindness",
+      "url": "https://open.spotify.com/track/3MqgRB20fpPXIovSSuK7na"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106280,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz"
+    },
+    {
+      "album": {
+        "name": "G N' R Lies",
+        "url": "https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235173,
+      "name": "Mama Kin",
+      "url": "https://open.spotify.com/track/0XRlRULMnFbsm9EhJDHGYW"
+    },
+    {
+      "album": {
+        "name": "G N' R Lies",
+        "url": "https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 235200,
+      "name": "Mama Kin - Live Version",
+      "url": "https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103440,
+      "name": "Message for Cersei",
+      "url": "https://open.spotify.com/track/1sjjGEdTtw50cTk6yY6hgY"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "Mhysa",
+      "url": "https://open.spotify.com/track/4wxaEgPlUbEUwiAnThBUkw"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2c7XK3szugi5FXXyULDCc2"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 305345,
+      "name": "Mother - Single Version",
+      "url": "https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155720,
+      "name": "Mother Of Dragons - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/4E7bdPSJTPdAMg0H2CUoqf"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173991,
+      "name": "My Watch Has Ended",
+      "url": "https://open.spotify.com/track/0tQYAO0Js3CQeBkkllItdA"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Needle",
+      "url": "https://open.spotify.com/track/4XKsRlvpCKY6xtyRJ8WQ1P"
+    },
+    {
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141821,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/1liDIUrQ6W9LLb4RYZ8wyQ"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126304,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/033CxxrB9WzRtTUdLnHDcC"
+    },
+    {
+      "album": {
+        "name": "W H O K I L L",
+        "url": "https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 303800,
+      "name": "Powa",
+      "url": "https://open.spotify.com/track/1NjmSXMzvwoM3lHmDRcUfs"
+    },
+    {
+      "album": {
+        "name": "W H O K I L L",
+        "url": "https://open.spotify.com/album/3ZjiKy5Tb1MIFRyGBBzoos"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 303800,
+      "name": "Powa",
+      "url": "https://open.spotify.com/track/4g1LEUNAre7Ck4ZEu24EYh"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/3mTzxRrrUuEywAXKIfV2WB"
+      },
+      "artists": [
+        {
+          "name": "AJ Ghent [ j-ent ]",
+          "url": "https://open.spotify.com/artist/6gLGK4HewZQk0009RLQ3nx"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 221106,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7LOzA341dmGGFwDyOvVDEC"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "album": {
+        "name": "Too Bright",
+        "url": "https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 230719,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/1DfRCC2qpjjzc6l5DmTjkG"
+    },
+    {
+      "album": {
+        "name": "Too Bright",
+        "url": "https://open.spotify.com/album/28FxHb9OJRzAch4DwUUsaT"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230719,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/52WTLETEHs5jwCr7LCq0VW"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196256,
+      "name": "Reign",
+      "url": "https://open.spotify.com/track/4G2QBUTKjSNn4JRuShT7lB"
+    },
+    {
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
+      },
+      "artists": [
+        {
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 146560,
+      "name": "Rise Above",
+      "url": "https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129320,
+      "name": "See You for What You Are",
+      "url": "https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231733,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/7i6r9KotUPQg3ozKKgEPIN"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84080,
+      "name": "Shall We Begin?",
+      "url": "https://open.spotify.com/track/6Rlybp1JsE3GUjYp5rC0mo"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 91800,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/05ggCWQusGFRTaxqPh7eXP"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 91800,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/7xJhd7nbOoi5yWKRw5yLbP"
+    },
+    {
+      "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 205600,
+      "name": "Sleep Now In the Fire",
+      "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317840,
+      "name": "Son of the Harpy",
+      "url": "https://open.spotify.com/track/5gf6mW4nrYQCtvxzSQCVQJ"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "Spoils of War, Pt. 1",
+      "url": "https://open.spotify.com/track/07OCvp44fIyFjp7IJBVnQD"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243635,
+      "name": "The Battle of Winterfell",
+      "url": "https://open.spotify.com/track/0l1yrAWnbH0LsTy2qnnmxI"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/09oEC9b2VasoCbeAruESjF"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161253,
+      "name": "The Children",
+      "url": "https://open.spotify.com/track/3TMbKB8CN7PHHWDvbrkEOv"
+    },
+    {
+      "album": {
+        "name": "The Doors (50th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3zVyMAtWiXugudXuCRiUjL"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 710826,
+      "name": "The End - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4KGMuqdT1XEzzOJDJFXu7T"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344026,
+      "name": "The Lannisters Send Their Regards",
+      "url": "https://open.spotify.com/track/0qKL49f02I5BCc4IwljtUt"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292490,
+      "name": "The Last of the Starks",
+      "url": "https://open.spotify.com/track/4fXqpIzgHDBhylBBOLOKVX"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457437,
+      "name": "The Last War",
+      "url": "https://open.spotify.com/track/0G8UYZZWp4VsieywyyNJNg"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530532,
+      "name": "The Night King",
+      "url": "https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153866,
+      "name": "The North Remembers",
+      "url": "https://open.spotify.com/track/4ASe4ZKyRZi7PTfarkYGww"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81506,
+      "name": "The Queen's Justice",
+      "url": "https://open.spotify.com/track/3ePV31RchRjxR3VmEEKb3v"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224305,
+      "name": "The Rains of Castamere",
+      "url": "https://open.spotify.com/track/0CHvs1UmxA90B2apIpbWCC"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "The Rains of Castamere",
+      "url": "https://open.spotify.com/track/6pFzkSbJLsfulYxJv7yh7b"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144253,
+      "name": "The Rains Of Castomere - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/6IATEuuMeh5SymNQucovVo"
+    },
+    {
+      "album": {
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 180346,
+      "name": "The Sick Bed of Cuchulainn",
+      "url": "https://open.spotify.com/track/7wSco4c7DSaTvcrryRmy6S"
+    },
+    {
+      "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/4q2j9WIFtxSosMcFh4fu2K"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 199959,
+      "name": "The Time Is Now",
+      "url": "https://open.spotify.com/track/6wpHmxmxPa3N3Gi3aGdTJL"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209808,
+      "name": "The Winds of Winter",
+      "url": "https://open.spotify.com/track/4mToVZMYxUrYFQ0OlkG2Ck"
+    },
+    {
+      "album": {
+        "name": "This Sentence Will Ruin/ Save Your Life",
+        "url": "https://open.spotify.com/album/4OESbILHepeIbeuWmJYR8g"
+      },
+      "artists": [
+        {
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 140946,
+      "name": "This Sentence Will Ruin/ Save Your Life",
+      "url": "https://open.spotify.com/track/1h5qFnZNp0i2q0FQ0R3sbN"
+    },
+    {
+      "album": {
+        "name": "Born Ruffians",
+        "url": "https://open.spotify.com/album/6dhYi4MWTnFmU2KtEizSbL"
+      },
+      "artists": [
+        {
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 141080,
+      "name": "This Sentence Will Ruin/Save Your Life",
+      "url": "https://open.spotify.com/track/3WDL8y55uu0EYb7vnmb1KR"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80226,
+      "name": "Throne for the Game",
+      "url": "https://open.spotify.com/track/0U701KlBYeApwmRXjlSVDd"
+    },
+    {
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 218933,
+      "name": "Toxicity",
+      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/5QKK7785dSYrutocW7lGub"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109986,
+      "name": "Two Swords",
+      "url": "https://open.spotify.com/track/2tTL5i8WbAHjytktA4NTHR"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "Valar Morghulis - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/49xSKuTCVjDyFYWZD2p6r9"
+    },
+    {
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/1vXIt4f3khLgyHd3Uyw8R0"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 211500,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1IqYyJ37a3gUr0NC2vOD2b"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 474400,
+      "name": "War Pigs",
+      "url": "https://open.spotify.com/track/0HVQuuXGAcQ2P5mBN521ae"
+    },
+    {
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 123906,
+      "name": "Wave Of Mutilation",
+      "url": "https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr"
+    },
+    {
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124773,
+      "name": "Wave of Mutilation",
+      "url": "https://open.spotify.com/track/1yJiE307EBIzOB9kqH1deb"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127786,
+      "name": "What Is Dead May Never Die - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/5PArlF8k9m8KF4QmAsKa6X"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194713,
+      "name": "Winter Has Come",
+      "url": "https://open.spotify.com/track/0L1aUXwaUwRTHqDvxOLAK3"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174160,
+      "name": "Winter Is Here",
+      "url": "https://open.spotify.com/track/3fYO6sRqHy1BdF8EiLGyop"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Winterfell - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/6NTKYkRWHOMZz4O8N3NMZS"
+    },
+    {
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/2mFcOZBh8JmZdwIiOVeTw7"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 188040,
+      "name": "Winterlong - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2SiN8njxfRDBEiXht5lV80"
+    },
+    {
+      "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 279293,
+      "name": "Wolf Like Me",
+      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
+    },
+    {
+      "album": {
+        "name": "Ellipsis (Deluxe)",
+        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2019-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 248517,
+      "name": "Wolves of Winter",
+      "url": "https://open.spotify.com/track/3n4r9HS59J2Utzr9wHbte4"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269200,
+      "name": "You Are No Son of Mine",
+      "url": "https://open.spotify.com/track/2YOy1e7sBLXi5DL2klc9Nv"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199893,
+      "name": "You Know Nothing",
+      "url": "https://open.spotify.com/track/0KKPRgsM7LkJqhYgofhgkO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdnZT5DhATDx"
 }

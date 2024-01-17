@@ -1,159 +1,1497 @@
 {
-  "2023-07-29": 436464,
-  "2023-07-30": 436646,
-  "2023-07-31": 436832,
-  "2023-08-01": 437028,
-  "2023-08-02": 437169,
-  "2023-08-03": 437348,
-  "2023-08-04": 437489,
-  "2023-08-05": 437630,
-  "2023-08-06": 437965,
-  "2023-08-07": 437965,
-  "2023-08-08": 438096,
-  "2023-08-09": 438254,
-  "2023-08-10": 438424,
-  "2023-08-11": 438573,
-  "2023-08-12": 438573,
-  "2023-08-13": 438573,
-  "2023-08-14": 439105,
-  "2023-08-15": 439105,
-  "2023-08-16": 439105,
-  "2023-08-17": 439105,
-  "2023-08-18": 439105,
-  "2023-08-19": 439105,
-  "2023-08-20": 440072,
-  "2023-08-21": 440072,
-  "2023-08-22": 440402,
-  "2023-08-23": 440402,
-  "2023-08-24": 440402,
-  "2023-08-25": 440402,
-  "2023-08-26": 441159,
-  "2023-08-27": 441159,
-  "2023-08-28": 441488,
-  "2023-08-29": 441488,
-  "2023-08-30": 441488,
-  "2023-08-31": 441944,
-  "2023-09-01": 442119,
-  "2023-09-02": 442119,
-  "2023-09-03": 442119,
-  "2023-09-04": 442119,
-  "2023-09-05": 442119,
-  "2023-09-06": 442119,
-  "2023-09-07": 442119,
-  "2023-09-08": 442119,
-  "2023-09-09": 442119,
-  "2023-09-10": 442119,
-  "2023-09-11": 442119,
-  "2023-09-12": 442119,
-  "2023-09-13": 442119,
-  "2023-09-14": 442119,
-  "2023-09-15": 442119,
-  "2023-09-16": 444547,
-  "2023-09-17": 444547,
-  "2023-09-18": 444547,
-  "2023-09-19": 444944,
-  "2023-09-20": 444944,
-  "2023-09-21": 444944,
-  "2023-09-22": 445314,
-  "2023-09-23": 445314,
-  "2023-09-24": 445314,
-  "2023-09-25": 445314,
-  "2023-09-26": 445893,
-  "2023-09-27": 445893,
-  "2023-09-28": 445893,
-  "2023-09-29": 445893,
-  "2023-09-30": 445893,
-  "2023-10-01": 445893,
-  "2023-10-02": 445893,
-  "2023-10-03": 445893,
-  "2023-10-04": 445893,
-  "2023-10-05": 445893,
-  "2023-10-06": 445893,
-  "2023-10-07": 445893,
-  "2023-10-08": 445893,
-  "2023-10-09": 445893,
-  "2023-10-10": 445893,
-  "2023-10-11": 447615,
-  "2023-10-12": 447615,
-  "2023-10-13": 447615,
-  "2023-10-14": 447615,
-  "2023-10-15": 447615,
-  "2023-10-16": 447615,
-  "2023-10-17": 447615,
-  "2023-10-18": 447615,
-  "2023-10-19": 447615,
-  "2023-10-20": 447615,
-  "2023-10-21": 447615,
-  "2023-10-22": 447615,
-  "2023-10-23": 447615,
-  "2023-10-24": 447615,
-  "2023-10-25": 447615,
-  "2023-10-26": 447615,
-  "2023-10-27": 447615,
-  "2023-10-28": 447615,
-  "2023-10-29": 447615,
-  "2023-10-30": 447615,
-  "2023-10-31": 447615,
-  "2023-11-01": 447615,
-  "2023-11-02": 447615,
-  "2023-11-03": 447615,
-  "2023-11-04": 447615,
-  "2023-11-05": 447615,
-  "2023-11-06": 447615,
-  "2023-11-07": 447615,
-  "2023-11-08": 447615,
-  "2023-11-09": 447615,
-  "2023-11-10": 447615,
-  "2023-11-11": 451516,
-  "2023-11-12": 451516,
-  "2023-11-13": 451516,
-  "2023-11-14": 451516,
-  "2023-11-15": 451516,
-  "2023-11-16": 451516,
-  "2023-11-17": 451516,
-  "2023-11-18": 451516,
-  "2023-11-19": 451516,
-  "2023-11-20": 451516,
-  "2023-11-21": 451516,
-  "2023-11-22": 451516,
-  "2023-11-23": 451516,
-  "2023-11-24": 451516,
-  "2023-11-25": 451516,
-  "2023-11-26": 451516,
-  "2023-11-27": 451516,
-  "2023-11-28": 451516,
-  "2023-11-29": 451516,
-  "2023-11-30": 451516,
-  "2023-12-01": 451516,
-  "2023-12-02": 451516,
-  "2023-12-03": 451516,
-  "2023-12-04": 451516,
-  "2023-12-05": 451516,
-  "2023-12-06": 451516,
-  "2023-12-07": 451516,
-  "2023-12-08": 451516,
-  "2023-12-09": 451516,
-  "2023-12-10": 451516,
-  "2023-12-11": 451516,
-  "2023-12-12": 451516,
-  "2023-12-13": 451516,
-  "2023-12-14": 456220,
-  "2023-12-15": 456318,
-  "2023-12-16": 456464,
-  "2023-12-17": 456608,
-  "2023-12-18": 456769,
-  "2023-12-19": 456896,
-  "2023-12-20": 457038,
-  "2023-12-21": 457170,
-  "2023-12-22": 457307,
-  "2023-12-23": 457436,
-  "2023-12-24": 457561,
-  "2023-12-25": 457678,
-  "2023-12-26": 457740,
-  "2023-12-27": 457850,
-  "2023-12-30": 458194,
-  "2023-12-31": 458349,
-  "2024-01-01": 458459,
-  "2024-01-02": 458558,
-  "2024-01-03": 458671
+  "2024-01-17": 458772,
+  "date_first_scraped": "2023-07-29",
+  "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
+  "name": "This Is Mariah Carey",
+  "tracks": [
+    {
+      "album": {
+        "name": "Me. I Am Mariah\u2026The Elusive Chanteuse",
+        "url": "https://open.spotify.com/album/6hGRm1piHNE0Xp7I5Guesy"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199946,
+      "name": "#Beautiful",
+      "url": "https://open.spotify.com/track/1ahAuX3F6tDdNRfMdiLsv6"
+    },
+    {
+      "album": {
+        "name": "Against All Odds (Take A Look at Me Now) EP",
+        "url": "https://open.spotify.com/album/3Jx6tgsjoX2oL7vqfnb89j"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Against All Odds (Take A Look at Me Now) - Mariah Only",
+      "url": "https://open.spotify.com/track/6PS1YRjdJ5Muakh2oh0UB2"
+    },
+    {
+      "album": {
+        "name": "Music Box: 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 268359,
+      "name": "All I Live For - Extended Version",
+      "url": "https://open.spotify.com/track/5DONusVYuZizlOE1Ieleot"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258133,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+    },
+    {
+      "album": {
+        "name": "Angels Cry Remix feat. Ne-Yo",
+        "url": "https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233746,
+      "name": "Angels Cry Remix - Remix",
+      "url": "https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265424,
+      "name": "Anytime You Need a Friend",
+      "url": "https://open.spotify.com/track/6tsBYvprVAntHx8rQLedqn"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 265466,
+      "name": "Anytime You Need a Friend",
+      "url": "https://open.spotify.com/track/0S8xKy1efKy3LvR53qe3Cq"
+    },
+    {
+      "album": {
+        "name": "Big Energy (feat. DJ Khaled) [Remix]",
+        "url": "https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181665,
+      "name": "Big Energy (feat. DJ Khaled) - Remix",
+      "url": "https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP"
+    },
+    {
+      "album": {
+        "name": "Breakdown EP",
+        "url": "https://open.spotify.com/album/6PfEOXBX3iiNNsDbhGTBlT"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296800,
+      "name": "Breakdown (feat. Bone Thugs-n-Harmony) - The Mo' Thugs Remix",
+      "url": "https://open.spotify.com/track/5XK0dMccjLSG1oVrEzN6Fz"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Wish Bone",
+          "url": "https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283573,
+      "name": "Breakdown (feat. Krayzie Bone & Wish Bone)",
+      "url": "https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273933,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3hp4ojt7tHLWwz6SaR7vkw"
+    },
+    {
+      "album": {
+        "name": "E=MC2",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266826,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7q587HLz90L2PFrhKZjIYa"
+    },
+    {
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0ikbcCJIJaY9sKEivAXJ4I"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272293,
+      "name": "Can't Take That Away (Mariah's Theme)",
+      "url": "https://open.spotify.com/track/2Epqce6wM48J6Wnlmhn42c"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 153240,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
+    },
+    {
+      "album": {
+        "name": "Circles (feat. Mariah Carey)",
+        "url": "https://open.spotify.com/album/6whfBjD94WUB3kHIhDFPYG"
+      },
+      "artists": [
+        {
+          "name": "e-lie",
+          "url": "https://open.spotify.com/artist/0GtpciMDV8Z7j30Tg0Ew7x"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 182400,
+      "name": "Circles (feat. Mariah Carey)",
+      "url": "https://open.spotify.com/track/1KTNJSTPYBLByQ14cJRGlO"
+    },
+    {
+      "album": {
+        "name": "The Emancipation Of Mimi (Ultra Platinum Edition)",
+        "url": "https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233866,
+      "name": "Don't Forget About Us - Radio Edit",
+      "url": "https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 232960,
+      "name": "Dreamlover",
+      "url": "https://open.spotify.com/track/6HcQZfMrw3KwGyzrKw1Pjy"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233641,
+      "name": "Dreamlover",
+      "url": "https://open.spotify.com/track/5m9aremBVDMMMAP1tfFCbx"
+    },
+    {
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248093,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
+    },
+    {
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259665,
+      "name": "Endless Love (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243493,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 240773,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/74EIDs3yEsMR1gcUmFD4FB"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 179440,
+      "name": "Hark! The Herald Angels Sing / Gloria (In Excelsis Deo)",
+      "url": "https://open.spotify.com/track/74VQqRHWXDUyErPqwdeG5D"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285706,
+      "name": "Heartbreaker (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 257733,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257920,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+    },
+    {
+      "album": {
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288826,
+      "name": "I Don't Wanna Cry",
+      "url": "https://open.spotify.com/track/1hFtJ5rV3aAm58ErijHdFO"
+    },
+    {
+      "album": {
+        "name": "It Ain't Safe No More. . .",
+        "url": "https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Flipmode Squad",
+          "url": "https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324306,
+      "name": "I Know What You Want (feat. Flipmode Squad)",
+      "url": "https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY"
+    },
+    {
+      "album": {
+        "name": "E=MC2",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "I Stay In Love",
+      "url": "https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr"
+    },
+    {
+      "album": {
+        "name": "I Still Believe EP",
+        "url": "https://open.spotify.com/album/1xq3CF71gkQhjPdORWp4rt"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/2feekrJqyB9lBEBgC54IQn"
+    },
+    {
+      "album": {
+        "name": "Memoirs of an imperfect Angel (International Version)",
+        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "I Want To Know What Love Is",
+      "url": "https://open.spotify.com/track/4ttCCNTaRSKmgFYOmNQzsO"
+    },
+    {
+      "album": {
+        "name": "E=MC2",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "I'll Be Lovin' U Long Time",
+      "url": "https://open.spotify.com/track/1PzVLh1uoq5pAUnqNQElQq"
+    },
+    {
+      "album": {
+        "name": "#1's",
+        "url": "https://open.spotify.com/album/4brWwgz4lEG49fVDXajWvL"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Trey Lorenz",
+          "url": "https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263933,
+      "name": "I'll Be There (feat. Trey Lorenz) - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
+      "url": "https://open.spotify.com/track/5t1OvYkhjQzWrxlE3UcDb6"
+    },
+    {
+      "album": {
+        "name": "It's A Wrap",
+        "url": "https://open.spotify.com/album/2qsPqj28ZqwQDXLTQsAOsY"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "It's A Wrap - Sped Up",
+      "url": "https://open.spotify.com/track/4Py8h4C5kdNmH74gDzZoeI"
+    },
+    {
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/6qFEkCFsHB8rNerOBfY5Su"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 257933,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA"
+    },
+    {
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 233000,
+      "name": "Lead the Way",
+      "url": "https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA"
+    },
+    {
+      "album": {
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "Love Takes Time",
+      "url": "https://open.spotify.com/track/48l7PNpT2fBoT4cdLW6EzP"
+    },
+    {
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220093,
+      "name": "Melt Away",
+      "url": "https://open.spotify.com/track/7c010UJj6NGc5QcM8EaIt3"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 271560,
+      "name": "Miss You Most (At Christmas Time)",
+      "url": "https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230933,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
+    },
+    {
+      "album": {
+        "name": "Love Vs Money",
+        "url": "https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204613,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/07o5JbRuDi5ir7rhsOi0ap"
+    },
+    {
+      "album": {
+        "name": "Music Box: 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 170372,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/12Xk0yMK6GJEmz1DufsV9H"
+    },
+    {
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 261596,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 266933,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
+    },
+    {
+      "album": {
+        "name": "Memoirs of an imperfect Angel (International Version)",
+        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/5EGPf0nqO7vEIwsOX6Er98"
+    },
+    {
+      "album": {
+        "name": "Mariah Carey's Magical Christmas Special (Apple TV+ Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5VfesyhwiNgpEEPXlO5c84"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 200466,
+      "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
+      "url": "https://open.spotify.com/track/2VkuxjlbnbaBiWYpdBGVol"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281066,
+      "name": "One Sweet Day",
+      "url": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 204173,
+      "name": "Santa Claus Is Comin' to Town",
+      "url": "https://open.spotify.com/track/1f2lkuLldqRzvaFjJdjGXX"
+    },
+    {
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232840,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 219293,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y"
+    },
+    {
+      "album": {
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246106,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6TSM5vkz0WzyZsNAKKYDcw"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        },
+        {
+          "name": "98\u00ba",
+          "url": "https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257360,
+      "name": "Thank God I Found You (feat. Joe & 98\u00b0)",
+      "url": "https://open.spotify.com/track/1RS3LStQYhju50eBdD9Uul"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301573,
+      "name": "The Prince Of Egypt (When You Believe)",
+      "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
+    },
+    {
+      "album": {
+        "name": "Butterfly: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 294103,
+      "name": "The Roof (When I Feel the Need) (feat. Brandy)",
+      "url": "https://open.spotify.com/track/3rptYWhwQWNWcACrYu4CGg"
+    },
+    {
+      "album": {
+        "name": "Charmbracelet",
+        "url": "https://open.spotify.com/album/2UYie72CXeuwIB7YepDidw"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288640,
+      "name": "Through The Rain",
+      "url": "https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA"
+    },
+    {
+      "album": {
+        "name": "E=MC2",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Touch My Body",
+      "url": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "Underneath the Stars",
+      "url": "https://open.spotify.com/track/1kkbUvmqZiNmWCR9TLd4tO"
+    },
+    {
+      "album": {
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Vision of Love",
+      "url": "https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X"
+    },
+    {
+      "album": {
+        "name": "Spirito Italiano",
+        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        },
+        {
+          "name": "Renato Zero",
+          "url": "https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Shawn Pelton",
+          "url": "https://open.spotify.com/artist/3JamY45rtaJluNZPgdVSkl"
+        },
+        {
+          "name": "Boyzone",
+          "url": "https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS"
+        },
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Rob Mathes",
+          "url": "https://open.spotify.com/artist/0h4fam4nEXq1bnQa4HDdrC"
+        },
+        {
+          "name": "Robbie Kondor",
+          "url": "https://open.spotify.com/artist/2hfCYgRwaKOMYfqgYhK0SY"
+        },
+        {
+          "name": "Ars Canto G. Verdi",
+          "url": "https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE"
+        },
+        {
+          "name": "Guatemala Choir",
+          "url": "https://open.spotify.com/artist/5eySdJvKNQBHSVoYSEzOUv"
+        },
+        {
+          "name": "Orchestra Sinfonica Italiana",
+          "url": "https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P"
+        },
+        {
+          "name": "Jos\u00e9 Molina",
+          "url": "https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh"
+        },
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Melanie Daniels",
+          "url": "https://open.spotify.com/artist/5jvE66Ni52GSuPV93HfTLK"
+        },
+        {
+          "name": "Marianne Tatum",
+          "url": "https://open.spotify.com/artist/7ETieLHfYlRHklsCXWnDKJ"
+        },
+        {
+          "name": "Trey Lorenz",
+          "url": "https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350866,
+      "name": "We Are The World - Live",
+      "url": "https://open.spotify.com/track/0HEC0KkDwxtucNsufufCys"
+    },
+    {
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 263626,
+      "name": "When I Saw You",
+      "url": "https://open.spotify.com/track/3Iq58ceNpVxghuRWqMLGHy"
+    },
+    {
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272893,
+      "name": "When You Believe - from The Prince of Egypt",
+      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
+    },
+    {
+      "album": {
+        "name": "Butterfly: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262104,
+      "name": "Whenever You Call",
+      "url": "https://open.spotify.com/track/2TXyiwnpA1gS25Y74s0sfR"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 213666,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS"
+    },
+    {
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215110,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
+    },
+    {
+      "album": {
+        "name": "Music Box: 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 209545,
+      "name": "Workin' Hard",
+      "url": "https://open.spotify.com/track/30KHfXcIfKyiDBojwclxy7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2w0gZW"
 }

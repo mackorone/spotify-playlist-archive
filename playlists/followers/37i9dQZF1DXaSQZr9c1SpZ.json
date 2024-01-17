@@ -1,735 +1,807 @@
 {
-  "2021-12-25": 210547,
-  "2021-12-26": 210597,
-  "2021-12-27": 210807,
-  "2021-12-28": 210809,
-  "2021-12-29": 210909,
-  "2021-12-30": 210995,
-  "2021-12-31": 211083,
-  "2022-01-01": 211217,
-  "2022-01-02": 211253,
-  "2022-01-03": 211306,
-  "2022-01-04": 211381,
-  "2022-01-05": 211475,
-  "2022-01-06": 211547,
-  "2022-01-07": 211617,
-  "2022-01-08": 211756,
-  "2022-01-09": 211757,
-  "2022-01-10": 211830,
-  "2022-01-11": 211857,
-  "2022-01-12": 211870,
-  "2022-01-13": 211870,
-  "2022-01-14": 211870,
-  "2022-01-15": 211870,
-  "2022-01-16": 211870,
-  "2022-01-17": 211870,
-  "2022-01-18": 211870,
-  "2022-01-19": 211870,
-  "2022-01-20": 211870,
-  "2022-01-21": 211870,
-  "2022-01-22": 211870,
-  "2022-01-23": 211870,
-  "2022-01-24": 211870,
-  "2022-01-25": 211870,
-  "2022-01-26": 211870,
-  "2022-01-27": 211870,
-  "2022-01-28": 211870,
-  "2022-01-29": 211870,
-  "2022-01-30": 211870,
-  "2022-01-31": 211870,
-  "2022-02-01": 211870,
-  "2022-02-02": 211870,
-  "2022-02-03": 211870,
-  "2022-02-04": 211870,
-  "2022-02-05": 211870,
-  "2022-02-06": 211870,
-  "2022-02-07": 211870,
-  "2022-02-08": 211870,
-  "2022-02-09": 211870,
-  "2022-02-10": 211870,
-  "2022-02-11": 211870,
-  "2022-02-12": 211870,
-  "2022-02-13": 211870,
-  "2022-02-14": 211870,
-  "2022-02-15": 211870,
-  "2022-02-16": 211870,
-  "2022-02-17": 211870,
-  "2022-02-18": 211870,
-  "2022-02-19": 211870,
-  "2022-02-20": 211870,
-  "2022-02-21": 211870,
-  "2022-02-22": 211870,
-  "2022-02-23": 211870,
-  "2022-02-24": 211870,
-  "2022-02-25": 211870,
-  "2022-02-26": 211870,
-  "2022-02-27": 211870,
-  "2022-02-28": 211870,
-  "2022-03-01": 211870,
-  "2022-03-02": 211870,
-  "2022-03-03": 211870,
-  "2022-03-04": 211870,
-  "2022-03-05": 211870,
-  "2022-03-06": 211870,
-  "2022-03-07": 211870,
-  "2022-03-08": 211870,
-  "2022-03-09": 211870,
-  "2022-03-10": 211870,
-  "2022-03-11": 211870,
-  "2022-03-12": 211870,
-  "2022-03-13": 211870,
-  "2022-03-14": 211870,
-  "2022-03-15": 211870,
-  "2022-03-16": 211870,
-  "2022-03-17": 211870,
-  "2022-03-18": 211870,
-  "2022-03-19": 211870,
-  "2022-03-20": 211870,
-  "2022-03-21": 211870,
-  "2022-03-22": 211870,
-  "2022-03-23": 211870,
-  "2022-03-24": 211870,
-  "2022-03-25": 211870,
-  "2022-03-26": 211870,
-  "2022-03-27": 211870,
-  "2022-03-28": 211870,
-  "2022-03-30": 211870,
-  "2022-03-31": 211870,
-  "2022-04-01": 211870,
-  "2022-04-02": 211870,
-  "2022-04-03": 211870,
-  "2022-04-04": 211870,
-  "2022-04-05": 211870,
-  "2022-04-06": 211870,
-  "2022-04-07": 211870,
-  "2022-04-08": 211870,
-  "2022-04-09": 211870,
-  "2022-04-10": 211870,
-  "2022-04-11": 211870,
-  "2022-04-12": 211870,
-  "2022-04-13": 211870,
-  "2022-04-14": 211870,
-  "2022-04-15": 211870,
-  "2022-04-16": 211870,
-  "2022-04-17": 211870,
-  "2022-04-18": 211870,
-  "2022-04-19": 211870,
-  "2022-04-20": 211870,
-  "2022-04-21": 211870,
-  "2022-04-22": 211870,
-  "2022-04-23": 211870,
-  "2022-04-24": 211870,
-  "2022-04-25": 211870,
-  "2022-04-26": 211870,
-  "2022-04-27": 211870,
-  "2022-04-28": 211870,
-  "2022-04-29": 211870,
-  "2022-04-30": 211870,
-  "2022-05-01": 211870,
-  "2022-05-02": 211870,
-  "2022-05-03": 211870,
-  "2022-05-04": 211870,
-  "2022-05-05": 211870,
-  "2022-05-06": 211870,
-  "2022-05-07": 211870,
-  "2022-05-08": 211870,
-  "2022-05-09": 211870,
-  "2022-05-10": 211870,
-  "2022-05-11": 211870,
-  "2022-05-12": 211870,
-  "2022-05-13": 211870,
-  "2022-05-14": 211870,
-  "2022-05-15": 211870,
-  "2022-05-16": 211870,
-  "2022-05-17": 211870,
-  "2022-05-18": 211870,
-  "2022-05-19": 211870,
-  "2022-05-20": 211870,
-  "2022-05-21": 211870,
-  "2022-05-22": 211870,
-  "2022-05-23": 211870,
-  "2022-05-24": 211870,
-  "2022-05-25": 211870,
-  "2022-05-26": 211870,
-  "2022-05-27": 211870,
-  "2022-05-28": 211870,
-  "2022-05-29": 211870,
-  "2022-05-30": 211870,
-  "2022-05-31": 211870,
-  "2022-06-01": 211870,
-  "2022-06-02": 211870,
-  "2022-06-03": 211870,
-  "2022-06-04": 211870,
-  "2022-06-05": 211870,
-  "2022-06-06": 211870,
-  "2022-06-07": 211870,
-  "2022-06-08": 211870,
-  "2022-06-09": 211870,
-  "2022-06-10": 211870,
-  "2022-06-11": 211870,
-  "2022-06-12": 211870,
-  "2022-06-13": 211870,
-  "2022-06-14": 211870,
-  "2022-06-15": 211870,
-  "2022-06-16": 211870,
-  "2022-06-17": 211870,
-  "2022-06-18": 211870,
-  "2022-06-19": 211870,
-  "2022-06-20": 211870,
-  "2022-06-21": 211870,
-  "2022-06-22": 211870,
-  "2022-06-23": 211870,
-  "2022-06-24": 211870,
-  "2022-06-25": 211870,
-  "2022-06-26": 211870,
-  "2022-06-27": 211870,
-  "2022-06-28": 211870,
-  "2022-06-29": 211870,
-  "2022-06-30": 211870,
-  "2022-07-01": 211870,
-  "2022-07-02": 211870,
-  "2022-07-03": 211870,
-  "2022-07-04": 211870,
-  "2022-07-05": 211870,
-  "2022-07-06": 211870,
-  "2022-07-07": 211870,
-  "2022-07-08": 211870,
-  "2022-07-09": 211870,
-  "2022-07-10": 211870,
-  "2022-07-11": 211870,
-  "2022-07-12": 211870,
-  "2022-07-13": 211870,
-  "2022-07-14": 211870,
-  "2022-07-15": 211870,
-  "2022-07-16": 211870,
-  "2022-07-17": 211870,
-  "2022-07-18": 211870,
-  "2022-07-19": 211870,
-  "2022-07-20": 211870,
-  "2022-07-21": 211870,
-  "2022-07-22": 211870,
-  "2022-07-23": 211870,
-  "2022-07-24": 211870,
-  "2022-07-25": 211870,
-  "2022-07-26": 211870,
-  "2022-07-27": 211870,
-  "2022-07-28": 211870,
-  "2022-07-29": 211870,
-  "2022-07-30": 211870,
-  "2022-07-31": 211870,
-  "2022-08-01": 211870,
-  "2022-08-02": 211870,
-  "2022-08-03": 211870,
-  "2022-08-04": 211870,
-  "2022-08-05": 211870,
-  "2022-08-06": 211870,
-  "2022-08-07": 211870,
-  "2022-08-08": 211870,
-  "2022-08-09": 211870,
-  "2022-08-10": 211870,
-  "2022-08-11": 211870,
-  "2022-08-12": 211870,
-  "2022-08-13": 211870,
-  "2022-08-14": 211870,
-  "2022-08-15": 211870,
-  "2022-08-16": 211870,
-  "2022-08-17": 211870,
-  "2022-08-18": 211870,
-  "2022-08-19": 211870,
-  "2022-08-20": 211870,
-  "2022-08-21": 211870,
-  "2022-08-22": 211870,
-  "2022-08-23": 211870,
-  "2022-08-24": 211870,
-  "2022-08-25": 211870,
-  "2022-08-26": 211870,
-  "2022-08-27": 211870,
-  "2022-08-28": 211870,
-  "2022-08-29": 211870,
-  "2022-08-30": 211870,
-  "2022-08-31": 211870,
-  "2022-09-01": 211870,
-  "2022-09-02": 211870,
-  "2022-09-03": 211870,
-  "2022-09-04": 211870,
-  "2022-09-05": 211870,
-  "2022-09-06": 211870,
-  "2022-09-07": 211870,
-  "2022-09-09": 211870,
-  "2022-09-10": 211870,
-  "2022-09-11": 211870,
-  "2022-09-12": 211870,
-  "2022-09-13": 211870,
-  "2022-09-15": 211870,
-  "2022-09-16": 211870,
-  "2022-09-17": 211870,
-  "2022-09-18": 211870,
-  "2022-09-19": 211870,
-  "2022-09-20": 211870,
-  "2022-09-21": 211870,
-  "2022-09-22": 211870,
-  "2022-09-23": 211870,
-  "2022-09-24": 211870,
-  "2022-09-25": 211870,
-  "2022-09-26": 211870,
-  "2022-09-27": 211870,
-  "2022-09-28": 211870,
-  "2022-09-29": 211870,
-  "2022-09-30": 211870,
-  "2022-10-01": 211870,
-  "2022-10-02": 211870,
-  "2022-10-03": 211870,
-  "2022-10-04": 211870,
-  "2022-10-05": 211870,
-  "2022-10-06": 211870,
-  "2022-10-07": 211870,
-  "2022-10-08": 211870,
-  "2022-10-09": 211870,
-  "2022-10-10": 211870,
-  "2022-10-11": 211870,
-  "2022-10-12": 211870,
-  "2022-10-13": 211870,
-  "2022-10-14": 211870,
-  "2022-10-15": 211870,
-  "2022-10-16": 211870,
-  "2022-10-17": 211870,
-  "2022-10-18": 211870,
-  "2022-10-19": 211870,
-  "2022-10-20": 211870,
-  "2022-10-21": 211870,
-  "2022-10-22": 211870,
-  "2022-10-23": 211870,
-  "2022-10-24": 211870,
-  "2022-10-25": 211870,
-  "2022-10-26": 211870,
-  "2022-10-27": 211870,
-  "2022-10-28": 211870,
-  "2022-10-29": 211870,
-  "2022-10-30": 211870,
-  "2022-10-31": 211870,
-  "2022-11-01": 211870,
-  "2022-11-02": 211870,
-  "2022-11-03": 211870,
-  "2022-11-04": 211870,
-  "2022-11-05": 211870,
-  "2022-11-06": 211870,
-  "2022-11-07": 211870,
-  "2022-11-08": 211870,
-  "2022-11-09": 211870,
-  "2022-11-10": 211870,
-  "2022-11-11": 211870,
-  "2022-11-12": 211870,
-  "2022-11-13": 211870,
-  "2022-11-14": 211870,
-  "2022-11-15": 211870,
-  "2022-11-16": 211870,
-  "2022-11-17": 211870,
-  "2022-11-18": 211870,
-  "2022-11-19": 211870,
-  "2022-11-20": 211870,
-  "2022-11-21": 211870,
-  "2022-11-22": 211870,
-  "2022-11-23": 211870,
-  "2022-11-24": 211870,
-  "2022-11-25": 211870,
-  "2022-11-26": 211870,
-  "2022-11-27": 211870,
-  "2022-11-28": 211870,
-  "2022-11-29": 211870,
-  "2022-11-30": 211870,
-  "2022-12-01": 211870,
-  "2022-12-02": 211870,
-  "2022-12-03": 211870,
-  "2022-12-04": 211870,
-  "2022-12-05": 211870,
-  "2022-12-06": 211870,
-  "2022-12-07": 211870,
-  "2022-12-08": 211870,
-  "2022-12-09": 211870,
-  "2022-12-10": 211870,
-  "2022-12-11": 211870,
-  "2022-12-12": 211870,
-  "2022-12-13": 211870,
-  "2022-12-14": 211870,
-  "2022-12-15": 211870,
-  "2022-12-16": 211870,
-  "2022-12-17": 211870,
-  "2022-12-18": 211870,
-  "2022-12-19": 211870,
-  "2022-12-20": 211870,
-  "2022-12-21": 211870,
-  "2022-12-22": 211870,
-  "2022-12-24": 211870,
-  "2022-12-25": 211870,
-  "2022-12-26": 211870,
-  "2022-12-27": 211870,
-  "2022-12-28": 211870,
-  "2022-12-29": 211870,
-  "2022-12-30": 211870,
-  "2022-12-31": 211870,
-  "2023-01-01": 211870,
-  "2023-01-02": 211870,
-  "2023-01-03": 211870,
-  "2023-01-04": 211870,
-  "2023-01-05": 211870,
-  "2023-01-06": 211870,
-  "2023-01-07": 211870,
-  "2023-01-08": 211870,
-  "2023-01-09": 211870,
-  "2023-01-10": 211870,
-  "2023-01-11": 211870,
-  "2023-01-12": 211870,
-  "2023-01-13": 211870,
-  "2023-01-14": 211870,
-  "2023-01-15": 211870,
-  "2023-01-16": 211870,
-  "2023-01-17": 211870,
-  "2023-01-18": 211870,
-  "2023-01-19": 211870,
-  "2023-01-20": 211870,
-  "2023-01-21": 211870,
-  "2023-01-22": 211870,
-  "2023-01-23": 211870,
-  "2023-01-24": 211870,
-  "2023-01-25": 211870,
-  "2023-01-26": 211870,
-  "2023-01-27": 211870,
-  "2023-01-28": 211870,
-  "2023-01-29": 211870,
-  "2023-01-30": 211870,
-  "2023-01-31": 211870,
-  "2023-02-01": 211870,
-  "2023-02-02": 211870,
-  "2023-02-03": 211870,
-  "2023-02-04": 211870,
-  "2023-02-05": 211870,
-  "2023-02-06": 211870,
-  "2023-02-07": 211870,
-  "2023-02-08": 211870,
-  "2023-02-09": 211870,
-  "2023-02-10": 211870,
-  "2023-02-11": 211870,
-  "2023-02-12": 211870,
-  "2023-02-13": 211870,
-  "2023-02-14": 211870,
-  "2023-02-15": 211870,
-  "2023-02-16": 211870,
-  "2023-02-17": 211870,
-  "2023-02-18": 211870,
-  "2023-02-19": 211870,
-  "2023-02-20": 211870,
-  "2023-02-21": 211870,
-  "2023-02-22": 211870,
-  "2023-02-23": 211870,
-  "2023-02-24": 211870,
-  "2023-02-25": 211870,
-  "2023-02-26": 211870,
-  "2023-02-27": 211870,
-  "2023-02-28": 211870,
-  "2023-03-01": 211870,
-  "2023-03-02": 211870,
-  "2023-03-03": 211870,
-  "2023-03-04": 211870,
-  "2023-03-05": 211870,
-  "2023-03-06": 211870,
-  "2023-03-07": 211870,
-  "2023-03-08": 211870,
-  "2023-03-09": 211870,
-  "2023-03-10": 211870,
-  "2023-03-11": 211870,
-  "2023-03-12": 211870,
-  "2023-03-13": 211870,
-  "2023-03-14": 211870,
-  "2023-03-15": 211870,
-  "2023-03-16": 211870,
-  "2023-03-17": 211870,
-  "2023-03-18": 211870,
-  "2023-03-19": 211870,
-  "2023-03-20": 211870,
-  "2023-03-21": 211870,
-  "2023-03-22": 211870,
-  "2023-03-23": 211870,
-  "2023-03-24": 211870,
-  "2023-03-25": 211870,
-  "2023-03-26": 211870,
-  "2023-03-27": 211870,
-  "2023-03-28": 211870,
-  "2023-03-29": 211870,
-  "2023-03-30": 211870,
-  "2023-03-31": 211870,
-  "2023-04-01": 211870,
-  "2023-04-02": 211870,
-  "2023-04-03": 211870,
-  "2023-04-04": 211870,
-  "2023-04-05": 211870,
-  "2023-04-06": 211870,
-  "2023-04-07": 211870,
-  "2023-04-09": 211870,
-  "2023-04-10": 211870,
-  "2023-04-11": 211870,
-  "2023-04-12": 211870,
-  "2023-04-13": 211870,
-  "2023-04-14": 211870,
-  "2023-04-15": 211870,
-  "2023-04-16": 211870,
-  "2023-04-17": 211870,
-  "2023-04-18": 211870,
-  "2023-04-19": 211870,
-  "2023-04-20": 211870,
-  "2023-04-21": 211870,
-  "2023-04-22": 211870,
-  "2023-04-23": 211870,
-  "2023-04-24": 211870,
-  "2023-04-25": 211870,
-  "2023-04-26": 211870,
-  "2023-04-27": 211870,
-  "2023-04-28": 211870,
-  "2023-04-29": 211870,
-  "2023-04-30": 211870,
-  "2023-05-01": 211870,
-  "2023-05-02": 211870,
-  "2023-05-03": 211870,
-  "2023-05-04": 211870,
-  "2023-05-05": 211870,
-  "2023-05-06": 211870,
-  "2023-05-07": 211870,
-  "2023-05-08": 211870,
-  "2023-05-09": 211870,
-  "2023-05-10": 211870,
-  "2023-05-11": 211870,
-  "2023-05-12": 211870,
-  "2023-05-13": 211870,
-  "2023-05-14": 211870,
-  "2023-05-15": 211870,
-  "2023-05-16": 211870,
-  "2023-05-17": 211870,
-  "2023-05-18": 211870,
-  "2023-05-19": 211870,
-  "2023-05-20": 211870,
-  "2023-05-21": 211870,
-  "2023-05-22": 211870,
-  "2023-05-23": 211870,
-  "2023-05-24": 211870,
-  "2023-05-25": 211870,
-  "2023-05-26": 211870,
-  "2023-05-27": 211870,
-  "2023-05-28": 211870,
-  "2023-05-29": 211870,
-  "2023-05-30": 211870,
-  "2023-05-31": 211870,
-  "2023-06-01": 211870,
-  "2023-06-02": 211870,
-  "2023-06-03": 211870,
-  "2023-06-04": 211870,
-  "2023-06-05": 211870,
-  "2023-06-06": 211870,
-  "2023-06-07": 211870,
-  "2023-06-08": 211870,
-  "2023-06-09": 211870,
-  "2023-06-10": 211870,
-  "2023-06-11": 211870,
-  "2023-06-12": 211870,
-  "2023-06-13": 211870,
-  "2023-06-14": 211870,
-  "2023-06-15": 211870,
-  "2023-06-16": 211870,
-  "2023-06-17": 211870,
-  "2023-06-18": 211870,
-  "2023-06-19": 211870,
-  "2023-06-20": 211870,
-  "2023-06-21": 211870,
-  "2023-06-22": 211870,
-  "2023-06-23": 211870,
-  "2023-06-24": 211870,
-  "2023-06-25": 211870,
-  "2023-06-26": 211870,
-  "2023-06-27": 211870,
-  "2023-06-28": 211870,
-  "2023-06-29": 211870,
-  "2023-06-30": 211870,
-  "2023-07-01": 211870,
-  "2023-07-02": 211870,
-  "2023-07-03": 211870,
-  "2023-07-04": 211870,
-  "2023-07-05": 211870,
-  "2023-07-06": 211870,
-  "2023-07-07": 211870,
-  "2023-07-08": 211870,
-  "2023-07-09": 211870,
-  "2023-07-10": 211870,
-  "2023-07-11": 211870,
-  "2023-07-12": 211870,
-  "2023-07-13": 211870,
-  "2023-07-14": 211870,
-  "2023-07-15": 211870,
-  "2023-07-16": 211870,
-  "2023-07-17": 211870,
-  "2023-07-18": 211870,
-  "2023-07-19": 211870,
-  "2023-07-20": 211870,
-  "2023-07-21": 211870,
-  "2023-07-22": 211870,
-  "2023-07-23": 211870,
-  "2023-07-24": 211870,
-  "2023-07-25": 211870,
-  "2023-07-26": 211870,
-  "2023-07-27": 211870,
-  "2023-07-28": 211870,
-  "2023-07-29": 211870,
-  "2023-07-30": 211870,
-  "2023-07-31": 211870,
-  "2023-08-01": 211870,
-  "2023-08-02": 211870,
-  "2023-08-03": 211870,
-  "2023-08-04": 211870,
-  "2023-08-05": 211870,
-  "2023-08-06": 211870,
-  "2023-08-07": 211870,
-  "2023-08-08": 211870,
-  "2023-08-09": 211870,
-  "2023-08-10": 211870,
-  "2023-08-11": 211870,
-  "2023-08-12": 211870,
-  "2023-08-13": 211870,
-  "2023-08-14": 211870,
-  "2023-08-15": 211870,
-  "2023-08-16": 211870,
-  "2023-08-17": 211870,
-  "2023-08-18": 211870,
-  "2023-08-19": 211870,
-  "2023-08-20": 211870,
-  "2023-08-21": 211870,
-  "2023-08-22": 211870,
-  "2023-08-23": 211870,
-  "2023-08-24": 211870,
-  "2023-08-25": 211870,
-  "2023-08-26": 211870,
-  "2023-08-27": 211870,
-  "2023-08-28": 211870,
-  "2023-08-29": 211870,
-  "2023-08-30": 211870,
-  "2023-08-31": 211870,
-  "2023-09-01": 211870,
-  "2023-09-02": 211870,
-  "2023-09-03": 211870,
-  "2023-09-04": 211870,
-  "2023-09-05": 211870,
-  "2023-09-06": 211870,
-  "2023-09-07": 211870,
-  "2023-09-08": 211870,
-  "2023-09-09": 211870,
-  "2023-09-10": 211870,
-  "2023-09-11": 211870,
-  "2023-09-12": 211870,
-  "2023-09-13": 211870,
-  "2023-09-14": 211870,
-  "2023-09-15": 211870,
-  "2023-09-16": 211870,
-  "2023-09-17": 211870,
-  "2023-09-18": 211870,
-  "2023-09-19": 211870,
-  "2023-09-20": 211870,
-  "2023-09-21": 211870,
-  "2023-09-22": 211870,
-  "2023-09-23": 211870,
-  "2023-09-24": 211870,
-  "2023-09-25": 211870,
-  "2023-09-26": 211870,
-  "2023-09-27": 211870,
-  "2023-09-28": 211870,
-  "2023-09-29": 211870,
-  "2023-09-30": 211870,
-  "2023-10-01": 211870,
-  "2023-10-02": 211870,
-  "2023-10-03": 211870,
-  "2023-10-04": 211870,
-  "2023-10-05": 211870,
-  "2023-10-06": 211870,
-  "2023-10-07": 211870,
-  "2023-10-08": 211870,
-  "2023-10-09": 211870,
-  "2023-10-10": 211870,
-  "2023-10-11": 211870,
-  "2023-10-12": 211870,
-  "2023-10-13": 211870,
-  "2023-10-14": 211870,
-  "2023-10-15": 211870,
-  "2023-10-16": 211870,
-  "2023-10-17": 211870,
-  "2023-10-18": 211870,
-  "2023-10-19": 211870,
-  "2023-10-20": 211870,
-  "2023-10-21": 211870,
-  "2023-10-22": 211870,
-  "2023-10-23": 211870,
-  "2023-10-24": 211870,
-  "2023-10-25": 211870,
-  "2023-10-26": 211870,
-  "2023-10-27": 211870,
-  "2023-10-28": 211870,
-  "2023-10-29": 211870,
-  "2023-10-30": 211870,
-  "2023-10-31": 211870,
-  "2023-11-01": 211870,
-  "2023-11-02": 211870,
-  "2023-11-03": 211870,
-  "2023-11-04": 211870,
-  "2023-11-05": 211870,
-  "2023-11-06": 211870,
-  "2023-11-07": 211870,
-  "2023-11-08": 211870,
-  "2023-11-09": 211870,
-  "2023-11-10": 211870,
-  "2023-11-11": 211870,
-  "2023-11-12": 211870,
-  "2023-11-13": 211870,
-  "2023-11-14": 211870,
-  "2023-11-15": 211870,
-  "2023-11-16": 211870,
-  "2023-11-17": 211870,
-  "2023-11-18": 211870,
-  "2023-11-19": 211870,
-  "2023-11-20": 211870,
-  "2023-11-21": 211870,
-  "2023-11-22": 211870,
-  "2023-11-23": 211870,
-  "2023-11-24": 211870,
-  "2023-11-25": 211870,
-  "2023-11-26": 211870,
-  "2023-11-27": 211870,
-  "2023-11-28": 211870,
-  "2023-11-29": 211870,
-  "2023-11-30": 211870,
-  "2023-12-01": 211870,
-  "2023-12-02": 211870,
-  "2023-12-03": 211870,
-  "2023-12-04": 211870,
-  "2023-12-05": 211870,
-  "2023-12-06": 211870,
-  "2023-12-07": 211870,
-  "2023-12-08": 211870,
-  "2023-12-09": 211870,
-  "2023-12-10": 211870,
-  "2023-12-11": 211870,
-  "2023-12-12": 211870,
-  "2023-12-13": 211870,
-  "2023-12-14": 211870,
-  "2023-12-15": 211870,
-  "2023-12-16": 211870,
-  "2023-12-17": 211870,
-  "2023-12-18": 211870,
-  "2023-12-19": 211870,
-  "2023-12-20": 211870,
-  "2023-12-21": 211870,
-  "2023-12-22": 211870,
-  "2023-12-23": 211870,
-  "2023-12-24": 211870,
-  "2023-12-25": 211870,
-  "2023-12-26": 211870,
-  "2023-12-27": 211870,
-  "2023-12-30": 211870,
-  "2023-12-31": 211870,
-  "2024-01-01": 211870,
-  "2024-01-02": 211870,
-  "2024-01-03": 211870
+  "2024-01-17": 211870,
+  "date_first_scraped": "2021-12-21",
+  "description": "The best of Bon Iver, and a bit more of founder Justin Vernon's other projects.",
+  "name": "This Is Bon Iver (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "22/10",
+        "url": "https://open.spotify.com/album/1hz6PP58vVLFpbfufj5c2z"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202603,
+      "name": "22 (OVER S\u221e\u221eN) - Bob Moose Extended Cab Version",
+      "url": "https://open.spotify.com/track/4HEqM4RSvXQAXqSdqqD8qE"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/4VZM71F8XAoLRuNyNLxwWS"
+    },
+    {
+      "album": {
+        "name": "33 \u201cGOD\u201d",
+        "url": "https://open.spotify.com/album/358KWP6KjgXI9JbViBTzqT"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/1gil9V4XyCurI6DIwN0xrM"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "666 \u0287",
+      "url": "https://open.spotify.com/track/7eRU0RltchvgOTSbX6vmdv"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "715 - CR\u2211\u2211KS",
+      "url": "https://open.spotify.com/track/0H2MmFtJgoeywCIbAN3sid"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0"
+    },
+    {
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160093,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/7oRNU7Tmek0nm2lqyDojoG"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/0XOyEsl3kgwwVpYcLV5rRs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316800,
+      "name": "Beth/Rest",
+      "url": "https://open.spotify.com/track/0BWaLzdLiiDEhYfw9Of3Gr"
+    },
+    {
+      "album": {
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/19aZxgHJEtveuVPhDFTMMG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby and DeYarmond Edison",
+          "url": "https://open.spotify.com/artist/4CHfXDnf1WfLpn7XfCainh"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458403,
+      "name": "Black Muddy River",
+      "url": "https://open.spotify.com/track/6JjpTagq6klHgMRRvR2ydc"
+    },
+    {
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl"
+    },
+    {
+      "album": {
+        "name": "Silent Signs",
+        "url": "https://open.spotify.com/album/6cdzG9rk4pDUlP3CyUTQJx"
+      },
+      "artists": [
+        {
+          "name": "DeYarmond Edison",
+          "url": "https://open.spotify.com/artist/6arKuGbH3PuYfGN6yJ7RA9"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323826,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/5wjnYblO49lbaWO24gzQwQ"
+    },
+    {
+      "album": {
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine",
+        "url": "https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL"
+      },
+      "artists": [
+        {
+          "name": "Justin Vernon",
+          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241986,
+      "name": "Bruised Orange (Chain of Sorrow)",
+      "url": "https://open.spotify.com/track/0YcAWPUwih5MrIlD90oiNu"
+    },
+    {
+      "album": {
+        "name": "Repave",
+        "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
+      },
+      "artists": [
+        {
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "Byegone",
+      "url": "https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc"
+    },
+    {
+      "album": {
+        "name": "Repave",
+        "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
+      },
+      "artists": [
+        {
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274506,
+      "name": "Comrade",
+      "url": "https://open.spotify.com/track/6UQQX0VsSDCBe2r3wh3hVN"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2020-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/6udb0IhmEdSQvWwjfnh6UA"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/3mZHmZahGKJwP0GDtWaOq8"
+    },
+    {
+      "album": {
+        "name": "Fall Creek Boys Choir",
+        "url": "https://open.spotify.com/album/2HnE4FWtu2qLciJDCqIJpV"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280822,
+      "name": "Fall Creek Boys Choir",
+      "url": "https://open.spotify.com/track/2BMx3N1HFThlRbiScVcDez"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/15WS5DLuxA4zBF0tH1sOR9"
+    },
+    {
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188336,
+      "name": "Friends (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
+    },
+    {
+      "album": {
+        "name": "Hey, Ma",
+        "url": "https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+    },
+    {
+      "album": {
+        "name": "Holyfields,",
+        "url": "https://open.spotify.com/album/1oztJvqexlJyJtTUdkH2wH"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Holyfields,",
+      "url": "https://open.spotify.com/track/1Gz0wsD8w1XkB4xQVSh5wy"
+    },
+    {
+      "album": {
+        "name": "Unmap",
+        "url": "https://open.spotify.com/album/03RN67Pc5FEWgZnqKgncS6"
+      },
+      "artists": [
+        {
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "Husks And Shells",
+      "url": "https://open.spotify.com/track/05PxNZJfr9OTpCo2JjH0xe"
+    },
+    {
+      "album": {
+        "name": "The Colour In Anything",
+        "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257219,
+      "name": "I Need A Forest Fire",
+      "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "album": {
+        "name": "iMi",
+        "url": "https://open.spotify.com/album/3bPUex8ZN4NWUqsJPGO57f"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196360,
+      "name": "iMi",
+      "url": "https://open.spotify.com/track/7xcaurF9h0C7cRmybuVUES"
+    },
+    {
+      "album": {
+        "name": "Unmap",
+        "url": "https://open.spotify.com/album/03RN67Pc5FEWgZnqKgncS6"
+      },
+      "artists": [
+        {
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248786,
+      "name": "Island, IS",
+      "url": "https://open.spotify.com/track/6CzmpoUsrCYKrDyeCLWphe"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256586,
+      "name": "Lost In The World",
+      "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198013,
+      "name": "Lump Sum",
+      "url": "https://open.spotify.com/track/2PHjonbOla16RwCUqkgCtI"
+    },
+    {
+      "album": {
+        "name": "Marion",
+        "url": "https://open.spotify.com/album/1hYANxqSqTLYjaeHdD2TfC"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141666,
+      "name": "Marion",
+      "url": "https://open.spotify.com/track/7bcsnVCS4rCicgaLGlO371"
+    },
+    {
+      "album": {
+        "name": "RABi",
+        "url": "https://open.spotify.com/album/3epsxig8zZITVeZ5PKNlaG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "RABi",
+      "url": "https://open.spotify.com/track/17qeBt6Tq43vp7i6D5bYWY"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401413,
+      "name": "Re:Stacks",
+      "url": "https://open.spotify.com/track/1RuyGO0kmkNkfixUFKkjuC"
+    },
+    {
+      "album": {
+        "name": "Salem",
+        "url": "https://open.spotify.com/album/4Vr20z6geWzLvK5kcT4uR5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "Salem",
+      "url": "https://open.spotify.com/track/2I9ujc2hgn7mJgFiMYbNnm"
+    },
+    {
+      "album": {
+        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242149,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
+    },
+    {
+      "album": {
+        "name": "Sh'Diah",
+        "url": "https://open.spotify.com/album/0OI5Gfd2whDpr89gf7ygmK"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "Sh'Diah",
+      "url": "https://open.spotify.com/track/5eT7tvilxqz057gmVNJWcQ"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR"
+    },
+    {
+      "album": {
+        "name": "Unmap",
+        "url": "https://open.spotify.com/album/03RN67Pc5FEWgZnqKgncS6"
+      },
+      "artists": [
+        {
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415920,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/7o28R0XuIjvD3cdepj3cjL"
+    },
+    {
+      "album": {
+        "name": "Relayted",
+        "url": "https://open.spotify.com/album/31oyGwiewTzgbSLuE9tBgy"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427226,
+      "name": "The Gaudy Side of Town",
+      "url": "https://open.spotify.com/track/6CuFNqgHYbHenYaT4u3C5r"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322040,
+      "name": "The Wolves (Act I and II)",
+      "url": "https://open.spotify.com/track/0Tps1iVuFudov2alVP3bUF"
+    },
+    {
+      "album": {
+        "name": "Repave",
+        "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
+      },
+      "artists": [
+        {
+          "name": "Volcano Choir",
+          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297306,
+      "name": "Tiderays",
+      "url": "https://open.spotify.com/track/7eEEgizmmwDNvdUI7yOiAF"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/0XOyEsl3kgwwVpYcLV5rRs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/2DsCJbMZVnhejenFWrO6My"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298586,
+      "name": "Wash.",
+      "url": "https://open.spotify.com/track/3g9mw4A8vdljOKgwrit88g"
+    },
+    {
+      "album": {
+        "name": "We",
+        "url": "https://open.spotify.com/album/0c3Jxsi5WxIco9sBidSZLz"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142880,
+      "name": "We",
+      "url": "https://open.spotify.com/track/1D0JZaZh2rjrZXv5pxFoUD"
+    },
+    {
+      "album": {
+        "name": "Hadestown",
+        "url": "https://open.spotify.com/album/4E34mVDBUF21VATsoZNbdI"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "Justin Vernon",
+          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
+        }
+      ],
+      "date_added": "2016-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "Wedding Song",
+      "url": "https://open.spotify.com/track/29F8kIbvl5GNViRnJLHwGs"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaSQZr9c1SpZ"
 }

@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IbLOJtWiun.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [What About Now](https://open.spotify.com/track/2wDG5STU4yPWUY2g3dwMdv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [What About Now \(Deluxe Version\)](https://open.spotify.com/album/1RQ4QHvRTEeaIIqARjCea1) | 3:44 |
+| 1 | [What About Now](https://open.spotify.com/track/2xpX9sgLf5Jc9uI7dfYW6o) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [What About Now \(Deluxe Version\)](https://open.spotify.com/album/7A7tfMDctYnuSOnC9Xn0y0) | 3:44 |
 | 2 | [Anthem For The Underdog](https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm) | [12 Stones](https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6) | [Anthem For The Underdog \(Bonus Track Version\)](https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv) | 3:04 |
 | 3 | [The Fighter](https://open.spotify.com/track/6vjx106C6hEmiw2qapyPFV) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Scars & Stories](https://open.spotify.com/album/1Nu3r7EuveXog0rPvXExSF) | 4:20 |
 | 4 | [Underdog](https://open.spotify.com/track/0C8lb6I28tiXq6eH5z3EcR) | [The Lost Trailers](https://open.spotify.com/artist/3A5urS1Gh3qwxSvQgCx9ow) | [Underdog \- Single](https://open.spotify.com/album/2Plu4lGL3fokd7bZqNMEVf) | 4:08 |

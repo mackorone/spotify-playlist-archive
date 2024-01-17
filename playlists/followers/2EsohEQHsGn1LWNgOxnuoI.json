@@ -1,734 +1,1165 @@
 {
-  "2021-12-25": 337,
-  "2021-12-26": 337,
-  "2021-12-27": 337,
-  "2021-12-28": 337,
-  "2021-12-29": 337,
-  "2021-12-30": 337,
-  "2021-12-31": 337,
-  "2022-01-01": 337,
-  "2022-01-02": 337,
-  "2022-01-03": 337,
-  "2022-01-04": 337,
-  "2022-01-05": 337,
-  "2022-01-06": 337,
-  "2022-01-07": 337,
-  "2022-01-08": 337,
-  "2022-01-09": 337,
-  "2022-01-10": 337,
-  "2022-01-11": 337,
-  "2022-01-12": 337,
-  "2022-01-13": 337,
-  "2022-01-14": 337,
-  "2022-01-15": 337,
-  "2022-01-16": 337,
-  "2022-01-17": 337,
-  "2022-01-18": 337,
-  "2022-01-19": 337,
-  "2022-01-20": 337,
-  "2022-01-21": 337,
-  "2022-01-22": 337,
-  "2022-01-23": 337,
-  "2022-01-24": 337,
-  "2022-01-25": 337,
-  "2022-01-26": 337,
-  "2022-01-27": 337,
-  "2022-01-28": 337,
-  "2022-01-29": 337,
-  "2022-01-30": 337,
-  "2022-01-31": 337,
-  "2022-02-01": 337,
-  "2022-02-02": 337,
-  "2022-02-03": 337,
-  "2022-02-04": 337,
-  "2022-02-05": 337,
-  "2022-02-06": 337,
-  "2022-02-07": 337,
-  "2022-02-08": 337,
-  "2022-02-09": 337,
-  "2022-02-10": 337,
-  "2022-02-11": 337,
-  "2022-02-12": 337,
-  "2022-02-13": 337,
-  "2022-02-14": 337,
-  "2022-02-15": 337,
-  "2022-02-16": 337,
-  "2022-02-17": 337,
-  "2022-02-18": 337,
-  "2022-02-19": 337,
-  "2022-02-20": 337,
-  "2022-02-21": 337,
-  "2022-02-22": 337,
-  "2022-02-23": 337,
-  "2022-02-24": 337,
-  "2022-02-25": 337,
-  "2022-02-26": 337,
-  "2022-02-27": 337,
-  "2022-02-28": 337,
-  "2022-03-01": 337,
-  "2022-03-02": 337,
-  "2022-03-03": 337,
-  "2022-03-04": 337,
-  "2022-03-05": 337,
-  "2022-03-06": 337,
-  "2022-03-07": 337,
-  "2022-03-08": 337,
-  "2022-03-09": 337,
-  "2022-03-10": 337,
-  "2022-03-11": 337,
-  "2022-03-12": 337,
-  "2022-03-13": 337,
-  "2022-03-14": 337,
-  "2022-03-15": 337,
-  "2022-03-16": 337,
-  "2022-03-17": 337,
-  "2022-03-18": 337,
-  "2022-03-19": 337,
-  "2022-03-20": 337,
-  "2022-03-21": 337,
-  "2022-03-22": 337,
-  "2022-03-23": 337,
-  "2022-03-24": 337,
-  "2022-03-25": 337,
-  "2022-03-26": 337,
-  "2022-03-27": 337,
-  "2022-03-28": 337,
-  "2022-03-30": 337,
-  "2022-03-31": 337,
-  "2022-04-01": 337,
-  "2022-04-02": 337,
-  "2022-04-03": 337,
-  "2022-04-04": 333,
-  "2022-04-05": 337,
-  "2022-04-06": 337,
-  "2022-04-07": 337,
-  "2022-04-08": 337,
-  "2022-04-09": 337,
-  "2022-04-10": 337,
-  "2022-04-11": 337,
-  "2022-04-12": 337,
-  "2022-04-13": 337,
-  "2022-04-14": 337,
-  "2022-04-15": 337,
-  "2022-04-16": 337,
-  "2022-04-17": 337,
-  "2022-04-18": 337,
-  "2022-04-19": 337,
-  "2022-04-20": 337,
-  "2022-04-21": 338,
-  "2022-04-22": 338,
-  "2022-04-23": 338,
-  "2022-04-24": 338,
-  "2022-04-25": 338,
-  "2022-04-26": 338,
-  "2022-04-27": 338,
-  "2022-04-28": 338,
-  "2022-04-29": 338,
-  "2022-04-30": 338,
-  "2022-05-01": 338,
-  "2022-05-02": 338,
-  "2022-05-03": 338,
-  "2022-05-04": 338,
-  "2022-05-05": 338,
-  "2022-05-06": 338,
-  "2022-05-07": 338,
-  "2022-05-08": 338,
-  "2022-05-09": 338,
-  "2022-05-10": 338,
-  "2022-05-11": 338,
-  "2022-05-12": 338,
-  "2022-05-13": 338,
-  "2022-05-14": 338,
-  "2022-05-15": 338,
-  "2022-05-16": 338,
-  "2022-05-17": 338,
-  "2022-05-18": 338,
-  "2022-05-19": 338,
-  "2022-05-20": 338,
-  "2022-05-21": 338,
-  "2022-05-22": 338,
-  "2022-05-23": 338,
-  "2022-05-24": 338,
-  "2022-05-25": 338,
-  "2022-05-26": 338,
-  "2022-05-27": 338,
-  "2022-05-28": 338,
-  "2022-05-29": 338,
-  "2022-05-30": 338,
-  "2022-05-31": 338,
-  "2022-06-01": 338,
-  "2022-06-02": 338,
-  "2022-06-03": 338,
-  "2022-06-04": 338,
-  "2022-06-05": 338,
-  "2022-06-06": 338,
-  "2022-06-07": 338,
-  "2022-06-08": 338,
-  "2022-06-09": 338,
-  "2022-06-10": 338,
-  "2022-06-11": 338,
-  "2022-06-12": 338,
-  "2022-06-13": 338,
-  "2022-06-14": 338,
-  "2022-06-15": 338,
-  "2022-06-16": 338,
-  "2022-06-17": 338,
-  "2022-06-18": 338,
-  "2022-06-19": 338,
-  "2022-06-20": 338,
-  "2022-06-21": 338,
-  "2022-06-22": 338,
-  "2022-06-23": 338,
-  "2022-06-24": 338,
-  "2022-06-25": 338,
-  "2022-06-26": 338,
-  "2022-06-27": 338,
-  "2022-06-28": 338,
-  "2022-06-29": 338,
-  "2022-06-30": 338,
-  "2022-07-01": 338,
-  "2022-07-02": 338,
-  "2022-07-03": 338,
-  "2022-07-04": 338,
-  "2022-07-05": 338,
-  "2022-07-06": 338,
-  "2022-07-07": 338,
-  "2022-07-08": 338,
-  "2022-07-09": 338,
-  "2022-07-10": 338,
-  "2022-07-11": 338,
-  "2022-07-12": 338,
-  "2022-07-13": 338,
-  "2022-07-14": 338,
-  "2022-07-15": 338,
-  "2022-07-16": 338,
-  "2022-07-17": 338,
-  "2022-07-18": 338,
-  "2022-07-19": 338,
-  "2022-07-20": 339,
-  "2022-07-21": 339,
-  "2022-07-22": 339,
-  "2022-07-23": 339,
-  "2022-07-24": 339,
-  "2022-07-25": 339,
-  "2022-07-26": 339,
-  "2022-07-27": 339,
-  "2022-07-28": 339,
-  "2022-07-29": 339,
-  "2022-07-30": 339,
-  "2022-07-31": 339,
-  "2022-08-01": 339,
-  "2022-08-02": 339,
-  "2022-08-03": 339,
-  "2022-08-04": 339,
-  "2022-08-05": 339,
-  "2022-08-06": 339,
-  "2022-08-07": 339,
-  "2022-08-08": 339,
-  "2022-08-09": 338,
-  "2022-08-10": 338,
-  "2022-08-11": 338,
-  "2022-08-12": 338,
-  "2022-08-13": 338,
-  "2022-08-14": 338,
-  "2022-08-15": 338,
-  "2022-08-16": 338,
-  "2022-08-17": 337,
-  "2022-08-18": 337,
-  "2022-08-19": 337,
-  "2022-08-20": 337,
-  "2022-08-21": 337,
-  "2022-08-22": 337,
-  "2022-08-23": 337,
-  "2022-08-24": 337,
-  "2022-08-25": 337,
-  "2022-08-26": 337,
-  "2022-08-27": 337,
-  "2022-08-28": 337,
-  "2022-08-29": 337,
-  "2022-08-30": 337,
-  "2022-08-31": 337,
-  "2022-09-01": 337,
-  "2022-09-02": 337,
-  "2022-09-03": 337,
-  "2022-09-04": 337,
-  "2022-09-05": 337,
-  "2022-09-06": 337,
-  "2022-09-07": 337,
-  "2022-09-09": 337,
-  "2022-09-10": 337,
-  "2022-09-11": 337,
-  "2022-09-12": 337,
-  "2022-09-13": 337,
-  "2022-09-15": 337,
-  "2022-09-16": 337,
-  "2022-09-17": 337,
-  "2022-09-18": 337,
-  "2022-09-19": 337,
-  "2022-09-20": 337,
-  "2022-09-21": 337,
-  "2022-09-22": 337,
-  "2022-09-23": 337,
-  "2022-09-24": 337,
-  "2022-09-25": 337,
-  "2022-09-26": 337,
-  "2022-09-27": 337,
-  "2022-09-28": 337,
-  "2022-09-29": 337,
-  "2022-09-30": 337,
-  "2022-10-01": 337,
-  "2022-10-02": 337,
-  "2022-10-03": 337,
-  "2022-10-04": 337,
-  "2022-10-05": 337,
-  "2022-10-06": 337,
-  "2022-10-07": 337,
-  "2022-10-08": 337,
-  "2022-10-09": 337,
-  "2022-10-10": 337,
-  "2022-10-11": 337,
-  "2022-10-12": 337,
-  "2022-10-13": 337,
-  "2022-10-14": 337,
-  "2022-10-15": 337,
-  "2022-10-16": 336,
-  "2022-10-17": 336,
-  "2022-10-18": 336,
-  "2022-10-19": 336,
-  "2022-10-20": 336,
-  "2022-10-21": 336,
-  "2022-10-22": 336,
-  "2022-10-23": 336,
-  "2022-10-24": 336,
-  "2022-10-25": 336,
-  "2022-10-26": 336,
-  "2022-10-27": 336,
-  "2022-10-28": 336,
-  "2022-10-29": 336,
-  "2022-10-30": 336,
-  "2022-10-31": 336,
-  "2022-11-01": 336,
-  "2022-11-02": 339,
-  "2022-11-03": 339,
-  "2022-11-04": 341,
-  "2022-11-05": 341,
-  "2022-11-06": 341,
-  "2022-11-07": 341,
-  "2022-11-08": 342,
-  "2022-11-09": 342,
-  "2022-11-10": 342,
-  "2022-11-11": 342,
-  "2022-11-12": 342,
-  "2022-11-13": 342,
-  "2022-11-14": 342,
-  "2022-11-15": 342,
-  "2022-11-16": 342,
-  "2022-11-17": 342,
-  "2022-11-18": 342,
-  "2022-11-19": 342,
-  "2022-11-20": 340,
-  "2022-11-21": 340,
-  "2022-11-22": 340,
-  "2022-11-23": 340,
-  "2022-11-24": 340,
-  "2022-11-25": 340,
-  "2022-11-26": 340,
-  "2022-11-27": 340,
-  "2022-11-28": 340,
-  "2022-11-29": 340,
-  "2022-11-30": 340,
-  "2022-12-01": 340,
-  "2022-12-02": 340,
-  "2022-12-03": 340,
-  "2022-12-04": 340,
-  "2022-12-05": 340,
-  "2022-12-06": 340,
-  "2022-12-07": 340,
-  "2022-12-08": 340,
-  "2022-12-09": 340,
-  "2022-12-10": 340,
-  "2022-12-11": 340,
-  "2022-12-12": 340,
-  "2022-12-13": 340,
-  "2022-12-14": 339,
-  "2022-12-15": 337,
-  "2022-12-16": 337,
-  "2022-12-17": 337,
-  "2022-12-18": 337,
-  "2022-12-19": 337,
-  "2022-12-20": 337,
-  "2022-12-21": 337,
-  "2022-12-22": 337,
-  "2022-12-24": 337,
-  "2022-12-25": 336,
-  "2022-12-26": 336,
-  "2022-12-27": 336,
-  "2022-12-28": 336,
-  "2022-12-29": 336,
-  "2022-12-30": 336,
-  "2022-12-31": 336,
-  "2023-01-01": 336,
-  "2023-01-02": 336,
-  "2023-01-03": 336,
-  "2023-01-04": 336,
-  "2023-01-05": 336,
-  "2023-01-06": 336,
-  "2023-01-07": 336,
-  "2023-01-08": 336,
-  "2023-01-09": 336,
-  "2023-01-10": 336,
-  "2023-01-11": 336,
-  "2023-01-12": 336,
-  "2023-01-13": 336,
-  "2023-01-14": 336,
-  "2023-01-15": 336,
-  "2023-01-16": 336,
-  "2023-01-17": 336,
-  "2023-01-18": 336,
-  "2023-01-19": 336,
-  "2023-01-20": 336,
-  "2023-01-21": 336,
-  "2023-01-22": 336,
-  "2023-01-23": 336,
-  "2023-01-24": 336,
-  "2023-01-25": 336,
-  "2023-01-26": 336,
-  "2023-01-27": 336,
-  "2023-01-28": 336,
-  "2023-01-29": 336,
-  "2023-01-30": 336,
-  "2023-01-31": 336,
-  "2023-02-01": 336,
-  "2023-02-02": 336,
-  "2023-02-03": 336,
-  "2023-02-04": 336,
-  "2023-02-05": 336,
-  "2023-02-06": 336,
-  "2023-02-07": 336,
-  "2023-02-08": 336,
-  "2023-02-09": 336,
-  "2023-02-10": 336,
-  "2023-02-11": 336,
-  "2023-02-12": 336,
-  "2023-02-13": 336,
-  "2023-02-14": 336,
-  "2023-02-15": 336,
-  "2023-02-16": 336,
-  "2023-02-17": 336,
-  "2023-02-18": 336,
-  "2023-02-19": 336,
-  "2023-02-20": 336,
-  "2023-02-21": 336,
-  "2023-02-22": 336,
-  "2023-02-23": 336,
-  "2023-02-24": 336,
-  "2023-02-25": 336,
-  "2023-02-26": 336,
-  "2023-02-27": 336,
-  "2023-02-28": 336,
-  "2023-03-01": 336,
-  "2023-03-02": 336,
-  "2023-03-03": 336,
-  "2023-03-04": 336,
-  "2023-03-05": 336,
-  "2023-03-06": 336,
-  "2023-03-07": 336,
-  "2023-03-08": 336,
-  "2023-03-09": 336,
-  "2023-03-10": 336,
-  "2023-03-11": 336,
-  "2023-03-12": 336,
-  "2023-03-13": 336,
-  "2023-03-14": 336,
-  "2023-03-15": 336,
-  "2023-03-16": 336,
-  "2023-03-17": 336,
-  "2023-03-18": 336,
-  "2023-03-19": 336,
-  "2023-03-20": 336,
-  "2023-03-21": 336,
-  "2023-03-22": 336,
-  "2023-03-23": 336,
-  "2023-03-24": 336,
-  "2023-03-25": 336,
-  "2023-03-26": 336,
-  "2023-03-27": 336,
-  "2023-03-28": 336,
-  "2023-03-29": 336,
-  "2023-03-30": 336,
-  "2023-03-31": 336,
-  "2023-04-01": 336,
-  "2023-04-02": 336,
-  "2023-04-03": 336,
-  "2023-04-04": 336,
-  "2023-04-05": 336,
-  "2023-04-06": 336,
-  "2023-04-07": 336,
-  "2023-04-09": 336,
-  "2023-04-10": 336,
-  "2023-04-11": 336,
-  "2023-04-12": 336,
-  "2023-04-13": 336,
-  "2023-04-14": 336,
-  "2023-04-15": 336,
-  "2023-04-16": 336,
-  "2023-04-17": 336,
-  "2023-04-18": 336,
-  "2023-04-19": 336,
-  "2023-04-20": 336,
-  "2023-04-21": 336,
-  "2023-04-22": 336,
-  "2023-04-23": 336,
-  "2023-04-24": 335,
-  "2023-04-25": 335,
-  "2023-04-26": 335,
-  "2023-04-27": 335,
-  "2023-04-28": 335,
-  "2023-04-29": 335,
-  "2023-04-30": 335,
-  "2023-05-01": 335,
-  "2023-05-02": 335,
-  "2023-05-03": 335,
-  "2023-05-04": 335,
-  "2023-05-05": 335,
-  "2023-05-06": 335,
-  "2023-05-07": 335,
-  "2023-05-08": 335,
-  "2023-05-09": 335,
-  "2023-05-10": 335,
-  "2023-05-11": 335,
-  "2023-05-12": 335,
-  "2023-05-13": 335,
-  "2023-05-14": 335,
-  "2023-05-15": 335,
-  "2023-05-16": 335,
-  "2023-05-17": 335,
-  "2023-05-18": 335,
-  "2023-05-19": 335,
-  "2023-05-20": 335,
-  "2023-05-21": 335,
-  "2023-05-22": 335,
-  "2023-05-23": 335,
-  "2023-05-24": 335,
-  "2023-05-25": 335,
-  "2023-05-26": 335,
-  "2023-05-27": 335,
-  "2023-05-28": 335,
-  "2023-05-29": 335,
-  "2023-05-30": 335,
-  "2023-05-31": 335,
-  "2023-06-01": 335,
-  "2023-06-02": 335,
-  "2023-06-03": 335,
-  "2023-06-04": 335,
-  "2023-06-05": 335,
-  "2023-06-06": 335,
-  "2023-06-07": 335,
-  "2023-06-08": 335,
-  "2023-06-09": 335,
-  "2023-06-10": 335,
-  "2023-06-11": 335,
-  "2023-06-12": 335,
-  "2023-06-13": 335,
-  "2023-06-14": 335,
-  "2023-06-15": 335,
-  "2023-06-16": 335,
-  "2023-06-17": 335,
-  "2023-06-18": 335,
-  "2023-06-19": 335,
-  "2023-06-20": 335,
-  "2023-06-21": 335,
-  "2023-06-22": 335,
-  "2023-06-23": 335,
-  "2023-06-24": 335,
-  "2023-06-25": 335,
-  "2023-06-26": 335,
-  "2023-06-27": 336,
-  "2023-06-28": 336,
-  "2023-06-29": 336,
-  "2023-06-30": 336,
-  "2023-07-01": 336,
-  "2023-07-02": 336,
-  "2023-07-03": 336,
-  "2023-07-04": 336,
-  "2023-07-05": 336,
-  "2023-07-06": 336,
-  "2023-07-07": 336,
-  "2023-07-08": 336,
-  "2023-07-09": 335,
-  "2023-07-10": 335,
-  "2023-07-11": 335,
-  "2023-07-12": 335,
-  "2023-07-13": 335,
-  "2023-07-14": 335,
-  "2023-07-15": 335,
-  "2023-07-16": 335,
-  "2023-07-17": 335,
-  "2023-07-18": 335,
-  "2023-07-19": 335,
-  "2023-07-20": 335,
-  "2023-07-21": 335,
-  "2023-07-22": 335,
-  "2023-07-23": 335,
-  "2023-07-24": 335,
-  "2023-07-25": 335,
-  "2023-07-26": 335,
-  "2023-07-27": 335,
-  "2023-07-28": 335,
-  "2023-07-29": 335,
-  "2023-07-30": 335,
-  "2023-07-31": 335,
-  "2023-08-01": 335,
-  "2023-08-02": 335,
-  "2023-08-03": 335,
-  "2023-08-04": 335,
-  "2023-08-05": 335,
-  "2023-08-06": 335,
-  "2023-08-07": 335,
-  "2023-08-08": 335,
-  "2023-08-09": 335,
-  "2023-08-10": 335,
-  "2023-08-11": 335,
-  "2023-08-12": 335,
-  "2023-08-13": 335,
-  "2023-08-14": 335,
-  "2023-08-15": 335,
-  "2023-08-16": 335,
-  "2023-08-17": 335,
-  "2023-08-18": 335,
-  "2023-08-19": 335,
-  "2023-08-20": 335,
-  "2023-08-21": 335,
-  "2023-08-22": 335,
-  "2023-08-23": 335,
-  "2023-08-24": 335,
-  "2023-08-25": 335,
-  "2023-08-26": 335,
-  "2023-08-27": 335,
-  "2023-08-28": 335,
-  "2023-08-29": 335,
-  "2023-08-30": 335,
-  "2023-08-31": 335,
-  "2023-09-01": 335,
-  "2023-09-02": 335,
-  "2023-09-03": 335,
-  "2023-09-04": 335,
-  "2023-09-05": 335,
-  "2023-09-06": 335,
-  "2023-09-07": 335,
-  "2023-09-08": 335,
-  "2023-09-09": 335,
-  "2023-09-10": 335,
-  "2023-09-11": 335,
-  "2023-09-12": 335,
-  "2023-09-13": 335,
-  "2023-09-14": 335,
-  "2023-09-15": 335,
-  "2023-09-16": 335,
-  "2023-09-17": 335,
-  "2023-09-18": 335,
-  "2023-09-19": 335,
-  "2023-09-20": 335,
-  "2023-09-21": 335,
-  "2023-09-22": 335,
-  "2023-09-23": 335,
-  "2023-09-24": 335,
-  "2023-09-25": 335,
-  "2023-09-26": 335,
-  "2023-09-27": 335,
-  "2023-09-28": 335,
-  "2023-09-29": 335,
-  "2023-09-30": 335,
-  "2023-10-01": 335,
-  "2023-10-02": 335,
-  "2023-10-03": 335,
-  "2023-10-04": 335,
-  "2023-10-05": 335,
-  "2023-10-06": 335,
-  "2023-10-07": 335,
-  "2023-10-08": 335,
-  "2023-10-09": 335,
-  "2023-10-10": 332,
-  "2023-10-11": 329,
-  "2023-10-12": 329,
-  "2023-10-13": 326,
-  "2023-10-14": 326,
-  "2023-10-15": 326,
-  "2023-10-16": 326,
-  "2023-10-17": 326,
-  "2023-10-18": 326,
-  "2023-10-19": 326,
-  "2023-10-20": 326,
-  "2023-10-21": 326,
-  "2023-10-22": 326,
-  "2023-10-23": 326,
-  "2023-10-24": 326,
-  "2023-10-25": 326,
-  "2023-10-26": 326,
-  "2023-10-27": 326,
-  "2023-10-28": 326,
-  "2023-10-29": 326,
-  "2023-10-30": 326,
-  "2023-10-31": 326,
-  "2023-11-01": 326,
-  "2023-11-02": 326,
-  "2023-11-03": 326,
-  "2023-11-04": 326,
-  "2023-11-05": 326,
-  "2023-11-06": 326,
-  "2023-11-07": 326,
-  "2023-11-08": 326,
-  "2023-11-09": 326,
-  "2023-11-10": 326,
-  "2023-11-11": 326,
-  "2023-11-12": 326,
-  "2023-11-13": 326,
-  "2023-11-14": 326,
-  "2023-11-15": 326,
-  "2023-11-17": 326,
-  "2023-11-18": 326,
-  "2023-11-19": 326,
-  "2023-11-20": 326,
-  "2023-11-21": 326,
-  "2023-11-22": 326,
-  "2023-11-23": 326,
-  "2023-11-24": 326,
-  "2023-11-25": 326,
-  "2023-11-26": 326,
-  "2023-11-27": 326,
-  "2023-11-28": 326,
-  "2023-11-29": 326,
-  "2023-11-30": 326,
-  "2023-12-01": 326,
-  "2023-12-02": 326,
-  "2023-12-03": 326,
-  "2023-12-04": 326,
-  "2023-12-05": 326,
-  "2023-12-06": 326,
-  "2023-12-07": 326,
-  "2023-12-08": 326,
-  "2023-12-09": 326,
-  "2023-12-10": 326,
-  "2023-12-11": 326,
-  "2023-12-12": 326,
-  "2023-12-13": 326,
-  "2023-12-14": 326,
-  "2023-12-15": 326,
-  "2023-12-16": 326,
-  "2023-12-17": 326,
-  "2023-12-18": 326,
-  "2023-12-19": 326,
-  "2023-12-20": 326,
-  "2023-12-21": 326,
-  "2023-12-22": 326,
-  "2023-12-23": 326,
-  "2023-12-24": 326,
-  "2023-12-25": 326,
-  "2023-12-26": 326,
-  "2023-12-27": 326,
-  "2023-12-30": 326,
-  "2023-12-31": 326,
-  "2024-01-01": 327,
-  "2024-01-02": 327,
-  "2024-01-03": 327
+  "2024-01-17": 314,
+  "date_first_scraped": "2021-12-21",
+  "description": "",
+  "name": "Global Music Day",
+  "tracks": [
+    {
+      "album": {
+        "name": "Debo Band",
+        "url": "https://open.spotify.com/album/3pjEVLMzx287BwDUPtTYJc"
+      },
+      "artists": [
+        {
+          "name": "Debo Band",
+          "url": "https://open.spotify.com/artist/2PNJIaILxBrRzWUciB8r11"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313426,
+      "name": "Asha Gedawo",
+      "url": "https://open.spotify.com/track/0iI8JdNhkVDmUo7TSP388d"
+    },
+    {
+      "album": {
+        "name": "Jivan Gasparyan: The Soul Of Armenia",
+        "url": "https://open.spotify.com/album/1oVUCCRwpBYAB96T4GK4Sg"
+      },
+      "artists": [
+        {
+          "name": "Djivan Gasparyan Duo",
+          "url": "https://open.spotify.com/artist/25fcRiLTgepM2dItKkIls7"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377346,
+      "name": "Ashkharums akh chim kashi (I Will Not Be Sad)",
+      "url": "https://open.spotify.com/track/7gBEzYtKfSAIKD4YbdHR3T"
+    },
+    {
+      "album": {
+        "name": "Ethiopiques 28 - Great Oromo Music",
+        "url": "https://open.spotify.com/album/5IuThMnaayjZACJ1QhVDf0"
+      },
+      "artists": [
+        {
+          "name": "Ali Mohammed Birra",
+          "url": "https://open.spotify.com/artist/1EfXYEX4mRIXi0yegqviAF"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225026,
+      "name": "Awash - 1973",
+      "url": "https://open.spotify.com/track/2eUUSMhQajBogKnpu3WPKx"
+    },
+    {
+      "album": {
+        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso (International Version)",
+        "url": "https://open.spotify.com/album/3P6uQWr5arKaAkd42XQ01Y"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212733,
+      "name": "Baby - Original Album",
+      "url": "https://open.spotify.com/track/5NgNJZAMuO71cp74XZbemi"
+    },
+    {
+      "album": {
+        "name": "Everything is Possible!",
+        "url": "https://open.spotify.com/album/7rsSQZns1Dp7nEUma2xdC0"
+      },
+      "artists": [
+        {
+          "name": "Os Mutantes",
+          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "Bat Macumba",
+      "url": "https://open.spotify.com/track/2vfpme1wJDLTsssYUmMHfB"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/7a7Xdw5yyPKB5AZnfvDvUy"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300466,
+      "name": "Bi Lambam",
+      "url": "https://open.spotify.com/track/4pgTYZB7JEkfELePL5ARcE"
+    },
+    {
+      "album": {
+        "name": "The Dub Factor",
+        "url": "https://open.spotify.com/album/2Cc1z1E5FMEpWXrFNDNuWt"
+      },
+      "artists": [
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246360,
+      "name": "Big Spliff",
+      "url": "https://open.spotify.com/track/6sCGaHcRyj4Q8ZY81hoFVk"
+    },
+    {
+      "album": {
+        "name": "Music of Bali",
+        "url": "https://open.spotify.com/album/1sflSkdOKKe0kE96cN5Tzy"
+      },
+      "artists": [
+        {
+          "name": "Gamelan Semara Pegulingan",
+          "url": "https://open.spotify.com/artist/7JLtmFFoZOOamNWkYTgK2q"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277133,
+      "name": "Bopong",
+      "url": "https://open.spotify.com/track/7uHNrkIJCr7QtaHeRxTXrL"
+    },
+    {
+      "album": {
+        "name": "Os Afro Samba (feat. Vinicius de Moraes)",
+        "url": "https://open.spotify.com/album/0Loxjsl5DmgzD8lO5qrVcD"
+      },
+      "artists": [
+        {
+          "name": "Baden Powell",
+          "url": "https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257133,
+      "name": "Canto de Ossanha",
+      "url": "https://open.spotify.com/track/2TDf04arGq5CrZiYlduMVY"
+    },
+    {
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/4g0dGimxnz4S2pvMknYjEx"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/6Zh1zzzZSF9V1jEUWlFRr4"
+    },
+    {
+      "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/74HnW4H7keYtcEM65MZ1sr"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/5uscjCcGU5eMxCoN2o1ACp"
+    },
+    {
+      "album": {
+        "name": "Africa North",
+        "url": "https://open.spotify.com/album/3jn0tINHSIUjjTHNl3SQOg"
+      },
+      "artists": [
+        {
+          "name": "Anouar Brahem",
+          "url": "https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650346,
+      "name": "Conte De L'Incrovable Amour",
+      "url": "https://open.spotify.com/track/5k2sprCz7xZRzWTlZjbAbg"
+    },
+    {
+      "album": {
+        "name": "Getz/Gilberto (Classics International Version)",
+        "url": "https://open.spotify.com/album/5p7LZlOPMvScCXw5M77xyV"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253933,
+      "name": "Corcovado - Quiet Nights Of Quiet Stars",
+      "url": "https://open.spotify.com/track/5i2sgqnzaxYpvXmGAB592h"
+    },
+    {
+      "album": {
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/0FbaelnFRq9PaSmi2w1PJC"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261066,
+      "name": "C\u00f3mo Puedes Vivir Contigo Mismo?",
+      "url": "https://open.spotify.com/track/4VJ0N1INhV301imjFjTc14"
+    },
+    {
+      "album": {
+        "name": "Djiriyo",
+        "url": "https://open.spotify.com/album/77Nqn4echAi90cMNiKpvLn"
+      },
+      "artists": [
+        {
+          "name": "Abdoulaye Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/6SferzHRUVZYD8ik3BwbrL"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337226,
+      "name": "Djiriyo",
+      "url": "https://open.spotify.com/track/0gjn0NAKDKWNgBCYe2CRsl"
+    },
+    {
+      "album": {
+        "name": "Kita Kan",
+        "url": "https://open.spotify.com/album/5viIBmxx2h4cK3vPxxJxSV"
+      },
+      "artists": [
+        {
+          "name": "Kandia Kouyate",
+          "url": "https://open.spotify.com/artist/5360uOindw6F5DjT5y1m0k"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436226,
+      "name": "Donink\u00e9",
+      "url": "https://open.spotify.com/track/7kFw52bLwE3Okwfrmftnet"
+    },
+    {
+      "album": {
+        "name": "In The Dub Zone",
+        "url": "https://open.spotify.com/album/2uu6AxfA9UEp4JCZMi05i7"
+      },
+      "artists": [
+        {
+          "name": "Ja Man All Stars",
+          "url": "https://open.spotify.com/artist/0lhz2yrMdqRR2mGExicSuS"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157840,
+      "name": "Dub Zone",
+      "url": "https://open.spotify.com/track/5kU5irECPZ1tqct2Gjx7hQ"
+    },
+    {
+      "album": {
+        "name": "East of the River Nile",
+        "url": "https://open.spotify.com/album/1AUvNZutChtzlaYFeVc9q8"
+      },
+      "artists": [
+        {
+          "name": "Augustus Pablo",
+          "url": "https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173638,
+      "name": "East of the River Nile",
+      "url": "https://open.spotify.com/track/2MndE5fM1ozXneNLgYxsI5"
+    },
+    {
+      "album": {
+        "name": "Diwan 2",
+        "url": "https://open.spotify.com/album/3gmat02IPqiGf5ZnMBeBM7"
+      },
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405080,
+      "name": "Ecoute-Moi Camarade",
+      "url": "https://open.spotify.com/track/0XkDaQlLS9VeVhTZZogEJ2"
+    },
+    {
+      "album": {
+        "name": "Electric Sufi",
+        "url": "https://open.spotify.com/album/1qV5xG6bpzS6OSgje43rey"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296946,
+      "name": "Electric Sufi",
+      "url": "https://open.spotify.com/track/6B4jStHGyQD725q2uX4NAR"
+    },
+    {
+      "album": {
+        "name": "Entre Dos Aguas",
+        "url": "https://open.spotify.com/album/3pWmGwLDx5CRtha5fhPdOS"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/7KKx4INB8LyGUeNXKiqQHK"
+    },
+    {
+      "album": {
+        "name": "The Art of Am\u00e1lia Rodrigues Vol. I",
+        "url": "https://open.spotify.com/album/6vlBFxsmBV0BDsdOL8rDrx"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e1lia Rodrigues",
+          "url": "https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298280,
+      "name": "Fado Portugu\u00eas",
+      "url": "https://open.spotify.com/track/0fzYtbrlvjnw3rXbxAyUZp"
+    },
+    {
+      "album": {
+        "name": "People's Spring",
+        "url": "https://open.spotify.com/album/1Aa5AQaq6Wtaxu9wrTPIgg"
+      },
+      "artists": [
+        {
+          "name": "Warsaw Village Band",
+          "url": "https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "I Had A Lover",
+      "url": "https://open.spotify.com/track/1YbVeANd1apbjcmcPtMdXL"
+    },
+    {
+      "album": {
+        "name": "Malagasy",
+        "url": "https://open.spotify.com/album/1OtOcgQ20I2jK7qXsv0F4k"
+      },
+      "artists": [
+        {
+          "name": "Jaojoby",
+          "url": "https://open.spotify.com/artist/5KL2vJiSdNo1rrkhurd6St"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Indosiko anao",
+      "url": "https://open.spotify.com/track/3Z2oW60MoTeFZ8UjXVVcgI"
+    },
+    {
+      "album": {
+        "name": "Japanese Koto Music",
+        "url": "https://open.spotify.com/album/7dO4ofpRc2lVKuVvfpCGwG"
+      },
+      "artists": [
+        {
+          "name": "Satomi Saeki",
+          "url": "https://open.spotify.com/artist/7mYaEybTvYFjOayusQ9QXp"
+        },
+        {
+          "name": "Michio Miyagi",
+          "url": "https://open.spotify.com/artist/7pwpEMJZkvLqFq2HnFfuuJ"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438240,
+      "name": "Isuzugawa \u201cThe Holy River of Isuzu\u201d",
+      "url": "https://open.spotify.com/track/3d6Cbi5hwvByKKy120jbmf"
+    },
+    {
+      "album": {
+        "name": "Camping Shaabi",
+        "url": "https://open.spotify.com/album/4AJRFjonONusjKMEJpZaYS"
+      },
+      "artists": [
+        {
+          "name": "Think of One",
+          "url": "https://open.spotify.com/artist/500bn4MyLlQ1pGIMlWAOsu"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349866,
+      "name": "J'etais Jetee",
+      "url": "https://open.spotify.com/track/5dx5ObMxbgU9DJPkUTXQfO"
+    },
+    {
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428800,
+      "name": "Ja Funmi",
+      "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
+    },
+    {
+      "album": {
+        "name": "Willie Bobo's Finest Hour",
+        "url": "https://open.spotify.com/album/1nTjdlMtgzZDlWwIzkY9Ls"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146120,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/4E6mTrdxzTGib8StPPPlyz"
+    },
+    {
+      "album": {
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/0yA2fo2cfYJbbiIQN8UVTZ"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336186,
+      "name": "La Drogue",
+      "url": "https://open.spotify.com/track/1tr4fnIBewxG2ikhoDm0wV"
+    },
+    {
+      "album": {
+        "name": "Mr. Gavitt: Calypsos of Costa Rica",
+        "url": "https://open.spotify.com/album/02NnETQ7zO9FrsevagJ4pw"
+      },
+      "artists": [
+        {
+          "name": "Walter Ferguson",
+          "url": "https://open.spotify.com/artist/3jPtTw8hEo3XXnq51028sT"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "Landlady",
+      "url": "https://open.spotify.com/track/2rZAMwBOHf9kRofedmYSvh"
+    },
+    {
+      "album": {
+        "name": "Kinshasa Succursale",
+        "url": "https://open.spotify.com/album/07X5lKve22VZ3ICX0hNoBA"
+      },
+      "artists": [
+        {
+          "name": "Baloji",
+          "url": "https://open.spotify.com/artist/5u45xl7D9HpJJvRo0joct8"
+        },
+        {
+          "name": "Royce Mbumba",
+          "url": "https://open.spotify.com/artist/570k1YYSBLjsCuj58csZga"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228653,
+      "name": "Le Jour D\u2019Apr\u00e8s / Siku Ya Baabaye (Ind\u00e9pendance Cha-Cha)",
+      "url": "https://open.spotify.com/track/6trSZumariUHLPxUU91H6F"
+    },
+    {
+      "album": {
+        "name": "Nunca Te Vi De Boa",
+        "url": "https://open.spotify.com/album/61qD9yVV6JLLj0YmcG41At"
+      },
+      "artists": [
+        {
+          "name": "Sexy Fi",
+          "url": "https://open.spotify.com/artist/6bEHvxjSrx7TtZcz9y7PPn"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286373,
+      "name": "Loro on Loro",
+      "url": "https://open.spotify.com/track/5o2JwSCDjMbnfFmvO68UgO"
+    },
+    {
+      "album": {
+        "name": "Congotronics",
+        "url": "https://open.spotify.com/album/2zcyIXaD6h9Mmmhw7CY9oM"
+      },
+      "artists": [
+        {
+          "name": "Konono N\u00b01",
+          "url": "https://open.spotify.com/artist/6Sr77iisVrcSg7bQfqqRHk"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567493,
+      "name": "Lufuala Ndonga",
+      "url": "https://open.spotify.com/track/4HGafTZk65vezbglD1BMJ6"
+    },
+    {
+      "album": {
+        "name": "Vietnamese Traditional Music",
+        "url": "https://open.spotify.com/album/5O2Blb3Ti3eHPluZq7hfrk"
+      },
+      "artists": [
+        {
+          "name": "Ph\u1ea1m \u0110\u1ee9c Th\u00e0nh",
+          "url": "https://open.spotify.com/artist/4mh6FZsF9gO7mRUOfTTMIU"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297626,
+      "name": "Ly Ngua O",
+      "url": "https://open.spotify.com/track/6v86PBCIQwFInFfNnHnQTi"
+    },
+    {
+      "album": {
+        "name": "Tango: Zero Hour",
+        "url": "https://open.spotify.com/album/6NNvUtOmrKH7DlRUfnbx7d"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391440,
+      "name": "Milonga Del Angel",
+      "url": "https://open.spotify.com/track/1Gas3HGCmNODYQiMU13LqL"
+    },
+    {
+      "album": {
+        "name": "Kodo Vs. Yosuke Yamashita In Live",
+        "url": "https://open.spotify.com/album/5AaIFO1bAbWOIluxKYuIqH"
+      },
+      "artists": [
+        {
+          "name": "Kodo",
+          "url": "https://open.spotify.com/artist/3nmREzlLOE9LEtFUHVIloD"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 884600,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/5TFlTbxrnVg2SH12cHtSkB"
+    },
+    {
+      "album": {
+        "name": "Radio Salone",
+        "url": "https://open.spotify.com/album/4Vk0YjQnngkGS8DytPTHyY"
+      },
+      "artists": [
+        {
+          "name": "Sierra Leone's Refugee All Stars",
+          "url": "https://open.spotify.com/artist/1AG27cavGwcfNWSiGZRSQy"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316013,
+      "name": "Mother In Law",
+      "url": "https://open.spotify.com/track/5sRqZPlhgsv3g1RKQWBfQO"
+    },
+    {
+      "album": {
+        "name": "Rising Tide",
+        "url": "https://open.spotify.com/album/4tWi5oykfNz19HE6O6P6st"
+      },
+      "artists": [
+        {
+          "name": "Mokoomba",
+          "url": "https://open.spotify.com/artist/4JWMsMMZQJX6ZqNMdBiN9I"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Njoka",
+      "url": "https://open.spotify.com/track/71ZNvqBU2SDEFhnifpHlIG"
+    },
+    {
+      "album": {
+        "name": "Frida (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2Y4xLyhc1la4T2vkwo1CbD"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Mendez",
+          "url": "https://open.spotify.com/artist/0MfgaiVRCd8uO8bShMlwDw"
+        },
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        },
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        },
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        },
+        {
+          "name": "Trio Huasteco Caimanes de Tamuin",
+          "url": "https://open.spotify.com/artist/7wEjXhWBxejyOWZoqwZlRn"
+        },
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        },
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/2rtoQWzN7JEpiVUmLvyNVe"
+        },
+        {
+          "name": "Trio Marimberos",
+          "url": "https://open.spotify.com/artist/2fr7AggwkjJeISmfbjnEn1"
+        },
+        {
+          "name": "Mariachi Juvenil Tecalitlan",
+          "url": "https://open.spotify.com/artist/66tqE24wyvVSLPULbPoBAv"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Paloma negra",
+      "url": "https://open.spotify.com/track/79W6Sh7ez050wszB5FJYDr"
+    },
+    {
+      "album": {
+        "name": "Lappish Joik Songs from Northern Norway",
+        "url": "https://open.spotify.com/album/4rIjfkg7xyL8ZdiWwZST2u"
+      },
+      "artists": [
+        {
+          "name": "Per Henderak Haetta",
+          "url": "https://open.spotify.com/artist/5PRA0OKBevyPE3RvPntvUK"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33800,
+      "name": "Piera\u0161 Mikkal",
+      "url": "https://open.spotify.com/track/1oNqh01Kshrxg9q1uzOUgU"
+    },
+    {
+      "album": {
+        "name": "Maestro's Choice - Ravi Shankar",
+        "url": "https://open.spotify.com/album/1NPrqF6rCHdm9bWHFYZ8wT"
+      },
+      "artists": [
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1248160,
+      "name": "Raga Kausi Kanhara",
+      "url": "https://open.spotify.com/track/4qEqenHTEfM1Q2VKOc1vii"
+    },
+    {
+      "album": {
+        "name": "Seis Poemas",
+        "url": "https://open.spotify.com/album/1cpSrVnvqJvNp4eVFpuqrd"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465480,
+      "name": "Resbalosas",
+      "url": "https://open.spotify.com/track/7qlO41S2e3lUIf9pVPyKt9"
+    },
+    {
+      "album": {
+        "name": "Welcome to Mali",
+        "url": "https://open.spotify.com/album/2YSMgxnak8l90gUi37TRgM"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196813,
+      "name": "Sabali",
+      "url": "https://open.spotify.com/track/3YrIjupEa0IWX0LZcqdEaU"
+    },
+    {
+      "album": {
+        "name": "Blue Camel",
+        "url": "https://open.spotify.com/album/4Qxx712hAyTvTsl1EsWeRj"
+      },
+      "artists": [
+        {
+          "name": "Rabih Abou-Khalil",
+          "url": "https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498360,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/3kvTe64Xa7dvlETa8ZvaIN"
+    },
+    {
+      "album": {
+        "name": "Fatou",
+        "url": "https://open.spotify.com/album/4cIsRsgaaVwIiLYDh2abEY"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        },
+        {
+          "name": "Guimba Kouyate",
+          "url": "https://open.spotify.com/artist/2RgplABTNsG49ExXFPWv9n"
+        },
+        {
+          "name": "Sebastian Rochford",
+          "url": "https://open.spotify.com/artist/2HK0XyXwfJg8qxJzHIg02p"
+        },
+        {
+          "name": "Sonny",
+          "url": "https://open.spotify.com/artist/1NZs33oLK1j4qUzXzcaeTy"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188186,
+      "name": "Sowa",
+      "url": "https://open.spotify.com/track/5EpBgdTvIHWQNi6bB0DVD5"
+    },
+    {
+      "album": {
+        "name": "Tres Tres Fort",
+        "url": "https://open.spotify.com/album/1DDvPtrcgjYwhtsREhaLaf"
+      },
+      "artists": [
+        {
+          "name": "Staff Benda Bilili",
+          "url": "https://open.spotify.com/artist/18yvYM7OTI5lLkbcz0Daio"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354480,
+      "name": "Staff Benda Bilili",
+      "url": "https://open.spotify.com/track/7FJMdtMJaSn9FFXTNY8sIh"
+    },
+    {
+      "album": {
+        "name": "Le Mystere Des Voix Bulgares",
+        "url": "https://open.spotify.com/album/6sq0xFq7n6ToKZjBcQvYwI"
+      },
+      "artists": [
+        {
+          "name": "Bulgarian State Television Female Choir",
+          "url": "https://open.spotify.com/artist/5j3PVTaVrMlssk4IC0kumd"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87226,
+      "name": "Svatba (The Wedding)",
+      "url": "https://open.spotify.com/track/3xcMsaYrlt9P8dXRFvPnKC"
+    },
+    {
+      "album": {
+        "name": "More Live",
+        "url": "https://open.spotify.com/album/7IX9ipTZ1Amh5XeqThepgi"
+      },
+      "artists": [
+        {
+          "name": "Huun-Huur-Tu",
+          "url": "https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436346,
+      "name": "The Orphan's Lament",
+      "url": "https://open.spotify.com/track/5GVH1dtTZQKebAsjOPeoJ3"
+    },
+    {
+      "album": {
+        "name": "Ondatr\u00f3pica (Album Sampler)",
+        "url": "https://open.spotify.com/album/0DjvcW12AxJ2yhMEceLkFq"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273466,
+      "name": "Tiene Sabor, Tiene Saz\u00f3n",
+      "url": "https://open.spotify.com/track/382x0IaQk1Nqx2f3Xzfy14"
+    },
+    {
+      "album": {
+        "name": "The Best Of Mercedes Sosa",
+        "url": "https://open.spotify.com/album/59GCFh4QKbFRrv4yFeud7A"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Todo Cambia",
+      "url": "https://open.spotify.com/track/7cO9msJnQ55nQSX0f9H790"
+    },
+    {
+      "album": {
+        "name": "African High Life",
+        "url": "https://open.spotify.com/album/3yDLQPnZtasdFAIQ1uwzsn"
+      },
+      "artists": [
+        {
+          "name": "Solomon Ilori",
+          "url": "https://open.spotify.com/artist/0hRkmTdO6Lybn9ftVQ6Uue"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464560,
+      "name": "Tolani (African Love Song) - Remastered",
+      "url": "https://open.spotify.com/track/6jJZISubrKGy7rLQCP23go"
+    },
+    {
+      "album": {
+        "name": "Clube Da Esquina 1",
+        "url": "https://open.spotify.com/album/0nSO875vzrNiNNaVcz5G0P"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Tudo o Que Voc\u00ea Podia Ser",
+      "url": "https://open.spotify.com/track/1f6de3eEaw9aHU91T9iORn"
+    },
+    {
+      "album": {
+        "name": "Precious Platinum",
+        "url": "https://open.spotify.com/album/7sXPcvHWApjquNNVPUXTLW"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278680,
+      "name": "Tum Jo Mile",
+      "url": "https://open.spotify.com/track/4hf9AcMxdo12yNT4gQSDpR"
+    },
+    {
+      "album": {
+        "name": "The Venezuelan Zinga Son Vol. 1",
+        "url": "https://open.spotify.com/album/4amkkU4q2cfq1Tlv1CbM5z"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331766,
+      "name": "Una Disco Llena",
+      "url": "https://open.spotify.com/track/76qDfugauy5dqRKUdhg9cr"
+    },
+    {
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365040,
+      "name": "Waraya",
+      "url": "https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu"
+    },
+    {
+      "album": {
+        "name": "Expensive Shit",
+        "url": "https://open.spotify.com/album/3q4V97eIqEhtOq43Jk9P4D"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 660480,
+      "name": "Water No Get Enemy",
+      "url": "https://open.spotify.com/track/6jzbUvXYVbH6NrUS3WRMoL"
+    },
+    {
+      "album": {
+        "name": "Next Stop ... Soweto Vol. 2: Soultown. R&B, Funk & Psych Sounds from the Townships 1969-1976",
+        "url": "https://open.spotify.com/album/0worVyMa1C4CxD8E8bh7xE"
+      },
+      "artists": [
+        {
+          "name": "Mahotella Queens",
+          "url": "https://open.spotify.com/artist/2IUmEbKT6wvT8Jv7AEaMIA"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140851,
+      "name": "Wozani Mahipi",
+      "url": "https://open.spotify.com/track/6sNGSMBa2YFx45FSDmEIjJ"
+    },
+    {
+      "album": {
+        "name": "W\u00e1tina",
+        "url": "https://open.spotify.com/album/24QYrCfEyBo70dgZua1dFT"
+      },
+      "artists": [
+        {
+          "name": "Andy Palacio",
+          "url": "https://open.spotify.com/artist/1IJwtnPhystMxUjfwfSKdn"
+        },
+        {
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284626,
+      "name": "W\u00e1tina (I Called Out)",
+      "url": "https://open.spotify.com/track/3MwlC7swQlnlMqNi6USsp6"
+    },
+    {
+      "album": {
+        "name": "Yol Bolsin",
+        "url": "https://open.spotify.com/album/0QOh0V8sdXMTmJXaGmrkLM"
+      },
+      "artists": [
+        {
+          "name": "Sevara Nazarkhan",
+          "url": "https://open.spotify.com/artist/3gSQW5t8VYxRsomvOP64L1"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255240,
+      "name": "Yor-Yor (Song to the Bride)",
+      "url": "https://open.spotify.com/track/2Fhb02Mf4RiroQ4mf47yxI"
+    },
+    {
+      "album": {
+        "name": "For\u00e7a Bruta",
+        "url": "https://open.spotify.com/album/3Im5AnYcI0mSwDGX8anfgX"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "date_added": "2013-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "Z\u00e9 Canjica",
+      "url": "https://open.spotify.com/track/1VqUuv2KVUJPf1hqfX1ylo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/2EsohEQHsGn1LWNgOxnuoI"
 }

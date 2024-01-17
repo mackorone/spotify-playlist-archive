@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-562 songs - 1 day 7 hr 40 min
+563 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Gradient](https://open.spotify.com/track/3lyF43hdw1AULXQyvrfRpa) | [Starya](https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX) | [Gradient](https://open.spotify.com/album/3WJrVYaL23cnjReefwIBWs) | 3:40 | 2023-10-27 |  |
 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 | 2023-06-29 | 2023-10-06 |
 | [Grid Lines](https://open.spotify.com/track/7i4HvCVazy9piUZwumS44x) | [Shae District](https://open.spotify.com/artist/7h9Pbr7lcfxk8TyOXe8uCX) | [Grid Lines](https://open.spotify.com/album/2145oDTM1FqcH51ieqtfSd) | 6:17 | 2023-01-19 | 2023-07-20 |
+| [Growing Pains](https://open.spotify.com/track/094tCgchiXY2srShd51TvA) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Growing Pains](https://open.spotify.com/album/2ALJwbBEAUpuqg7JFuhtlv) | 4:24 | 2024-01-08 |  |
 | [Haircut](https://open.spotify.com/track/3vJ7IorxIUTETdUYc8Wmif) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Haircut](https://open.spotify.com/album/6MpnYFXkjVgmzpDwlvofou) | 2:58 | 2022-03-30 | 2022-04-19 |
 | [Halo](https://open.spotify.com/track/5CvVWD27KlJNkvzDLU1zPS) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [Halo](https://open.spotify.com/album/1aY0os7oA39KJiT4cfWf6x) | 3:46 | 2022-06-30 | 2023-10-06 |
 | [Handyman](https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Handyman](https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h) | 3:06 | 2022-02-28 | 2022-03-31 |

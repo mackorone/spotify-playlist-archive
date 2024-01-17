@@ -1,99 +1,909 @@
 {
-  "2023-09-27": 4852,
-  "2023-09-28": 4886,
-  "2023-09-29": 4909,
-  "2023-09-30": 4929,
-  "2023-10-01": 4954,
-  "2023-10-02": 4987,
-  "2023-10-03": 5023,
-  "2023-10-04": 5052,
-  "2023-10-05": 5088,
-  "2023-10-06": 5116,
-  "2023-10-07": 5145,
-  "2023-10-08": 5171,
-  "2023-10-09": 5204,
-  "2023-10-10": 5228,
-  "2023-10-11": 5304,
-  "2023-10-12": 5304,
-  "2023-10-13": 5339,
-  "2023-10-14": 5373,
-  "2023-10-15": 5399,
-  "2023-10-16": 5434,
-  "2023-10-17": 5464,
-  "2023-10-18": 5500,
-  "2023-10-19": 5531,
-  "2023-10-20": 5571,
-  "2023-10-21": 5584,
-  "2023-10-22": 5608,
-  "2023-10-23": 5637,
-  "2023-10-24": 5662,
-  "2023-10-25": 5693,
-  "2023-10-26": 5718,
-  "2023-10-27": 5746,
-  "2023-10-28": 5756,
-  "2023-10-29": 5770,
-  "2023-10-30": 5828,
-  "2023-10-31": 5828,
-  "2023-11-01": 5851,
-  "2023-11-02": 5878,
-  "2023-11-03": 5910,
-  "2023-11-04": 5938,
-  "2023-11-05": 5964,
-  "2023-11-06": 5999,
-  "2023-11-07": 6027,
-  "2023-11-08": 6048,
-  "2023-11-09": 6076,
-  "2023-11-10": 6099,
-  "2023-11-11": 6129,
-  "2023-11-12": 6158,
-  "2023-11-13": 6170,
-  "2023-11-14": 6202,
-  "2023-11-15": 6202,
-  "2023-11-16": 6242,
-  "2023-11-17": 6288,
-  "2023-11-18": 6288,
-  "2023-11-19": 6307,
-  "2023-11-20": 6324,
-  "2023-11-21": 6338,
-  "2023-11-22": 6364,
-  "2023-11-23": 6385,
-  "2023-11-24": 6404,
-  "2023-11-25": 6422,
-  "2023-11-26": 6443,
-  "2023-11-27": 6468,
-  "2023-11-28": 6497,
-  "2023-11-29": 6546,
-  "2023-11-30": 6546,
-  "2023-12-01": 6572,
-  "2023-12-02": 6575,
-  "2023-12-03": 6597,
-  "2023-12-04": 6613,
-  "2023-12-05": 6631,
-  "2023-12-06": 6650,
-  "2023-12-07": 6668,
-  "2023-12-08": 6692,
-  "2023-12-09": 6714,
-  "2023-12-10": 6733,
-  "2023-12-11": 6756,
-  "2023-12-12": 6781,
-  "2023-12-13": 6805,
-  "2023-12-14": 6834,
-  "2023-12-15": 6845,
-  "2023-12-16": 6867,
-  "2023-12-17": 6886,
-  "2023-12-18": 6907,
-  "2023-12-19": 6923,
-  "2023-12-20": 6944,
-  "2023-12-21": 6970,
-  "2023-12-22": 6992,
-  "2023-12-23": 7021,
-  "2023-12-24": 7045,
-  "2023-12-25": 7054,
-  "2023-12-26": 7069,
-  "2023-12-27": 7085,
-  "2023-12-30": 7169,
-  "2023-12-31": 7204,
-  "2024-01-01": 7223,
-  "2024-01-02": 7243,
-  "2024-01-03": 7264
+  "2024-01-17": 7646,
+  "date_first_scraped": "2023-09-27",
+  "description": "Bastante cuentos para la familia a disfrutar.",
+  "name": "50 Cuentos",
+  "tracks": [
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398493,
+      "name": "Aladino y la L\u00e1mpara Maravillosa",
+      "url": "https://open.spotify.com/track/77uF4L3Nh0hBJXIT0EDFez"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515720,
+      "name": "Ali Baba y los 40 Ladrones",
+      "url": "https://open.spotify.com/track/2ve1jxv1encCwptB452AwM"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545680,
+      "name": "Alicia en el Pa\u00eds de las Maravillas",
+      "url": "https://open.spotify.com/track/55D3jlemD3tQF22qH6Acku"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381320,
+      "name": "Almendrita",
+      "url": "https://open.spotify.com/track/1s0YzeeuA4694BDgeaoe9Z"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 853680,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5nm0aW7AR5bzhQllT9WEeM"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 669253,
+      "name": "Blancanieves y los Siete Enanitos",
+      "url": "https://open.spotify.com/track/5AF5X8yDVq4jkztxSkTM1r"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425040,
+      "name": "Caperucita Roja",
+      "url": "https://open.spotify.com/track/0kXiBO3YF5Wq5tJXz4c43q"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471613,
+      "name": "El Burro Flautista",
+      "url": "https://open.spotify.com/track/5eqOeNI5XUtg3WktjVhqx3"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608480,
+      "name": "El Califa Cig\u00fce\u00f1a",
+      "url": "https://open.spotify.com/track/3Ufl8fWmIFpj2OJbqh0Rf2"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350066,
+      "name": "El Enanito Barbudo",
+      "url": "https://open.spotify.com/track/00tW604uWUmeEi3fh1wKmQ"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 579746,
+      "name": "El Enano Saltar\u00edn",
+      "url": "https://open.spotify.com/track/19WkG0fUmVczqSBN8jz1cA"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467200,
+      "name": "El Examen de Maginet",
+      "url": "https://open.spotify.com/track/3QZVDDoteDCs9i0pMsFeIv"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1296053,
+      "name": "El Fantasma de Canterville",
+      "url": "https://open.spotify.com/track/6LIu7eMdLTzMjbmIz0CVBp"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425866,
+      "name": "El Flautista de Hamelin",
+      "url": "https://open.spotify.com/track/47qlnU5fXDOQiS7bBbYq0I"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 606186,
+      "name": "El Gato Con Botas",
+      "url": "https://open.spotify.com/track/4t6pKYeKjwNncJTXhdUiQL"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574866,
+      "name": "El Libro de la Selva",
+      "url": "https://open.spotify.com/track/0sLZGbD9Dibh8dHTw6rv1A"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630146,
+      "name": "El Osito Pelus\u00f3n",
+      "url": "https://open.spotify.com/track/2tceGl5WV62QlWS0VDtXw5"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503146,
+      "name": "El Pastor Mentiroso",
+      "url": "https://open.spotify.com/track/1mbczFfME8ah3h0P4BW4oU"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383573,
+      "name": "El Patito Feo",
+      "url": "https://open.spotify.com/track/5518E9SbHC0LiMN78QWQQr"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 859706,
+      "name": "El Rey de la Monta\u00f1a de Oro",
+      "url": "https://open.spotify.com/track/0UzAqhZu5eNESEgh6fwF71"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483880,
+      "name": "El Sastrecillo Valiente",
+      "url": "https://open.spotify.com/track/4MgBXftRNu6fhwb3RwftVP"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615066,
+      "name": "El Silbato M\u00e1gico",
+      "url": "https://open.spotify.com/track/00hHwRQRXDmKLEuu21svZw"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343013,
+      "name": "El Soldadito de Plomo",
+      "url": "https://open.spotify.com/track/4e58J7OaPOCOiyGnd9UvwI"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493186,
+      "name": "Garbancito",
+      "url": "https://open.spotify.com/track/5blaGCOXyPzxHP6QzEzQtv"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488786,
+      "name": "Juan Sin Miedo",
+      "url": "https://open.spotify.com/track/4w5tu0P2TgzEbmzn8uiiRU"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1001493,
+      "name": "La Bella Durmiente del Bosque",
+      "url": "https://open.spotify.com/track/1Oi4i6OTE6DztuFhlEohqd"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479013,
+      "name": "La Casita de Chocolate",
+      "url": "https://open.spotify.com/track/50HHgXSAtj7rGQOYEKY8oT"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 701533,
+      "name": "La Cenicienta",
+      "url": "https://open.spotify.com/track/0Z7VuTiieKsAjHmwBz3uVK"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486266,
+      "name": "La Cigarra y la Hormiga",
+      "url": "https://open.spotify.com/track/7FbffLSPs0Lvy9SJphJfHy"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445346,
+      "name": "La Gallina Marcelina",
+      "url": "https://open.spotify.com/track/0GA47bDEiABy2B7gO2foGG"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386293,
+      "name": "La Lechera",
+      "url": "https://open.spotify.com/track/3Uri0qOP81Nyo53hgQgrmG"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481040,
+      "name": "La Ni\u00f1a Lista",
+      "url": "https://open.spotify.com/track/30s0EVbnlZz6f4IWZF5syt"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425053,
+      "name": "La Peque\u00f1a Vendedora de F\u00f3sforos",
+      "url": "https://open.spotify.com/track/6Vji4HYoMQD3L1a7Fr8iA9"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642026,
+      "name": "La Princesa de los Cabellos de Oro",
+      "url": "https://open.spotify.com/track/3HW764XHhnfPuxDK7biPps"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487786,
+      "name": "La Ratita Deportista",
+      "url": "https://open.spotify.com/track/1R0FbwahGOjAOr7AWRCxJf"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582986,
+      "name": "La Ratita Presumida",
+      "url": "https://open.spotify.com/track/3vCBx5luUkoxGBXNS127b6"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482813,
+      "name": "La Tortuga y la Liebre",
+      "url": "https://open.spotify.com/track/2bpGLn3EqICgOF6CGs77Ca"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459493,
+      "name": "La Trastada de Maginet",
+      "url": "https://open.spotify.com/track/7k3g7JtvxH6yJMd2aHvnlV"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532653,
+      "name": "Las Siete Cabritilllas y el Lobo",
+      "url": "https://open.spotify.com/track/6G4H7SmuDaVgRLPQ4wuylJ"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290066,
+      "name": "Los Dos Conejos",
+      "url": "https://open.spotify.com/track/6CpHoBwaHPA7zUSEJoXGS9"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 759706,
+      "name": "Los Hermanitos",
+      "url": "https://open.spotify.com/track/3w6AUsMifMSmGypNiBL0ko"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367986,
+      "name": "Los Tres Cerditos",
+      "url": "https://open.spotify.com/track/3qcdxWQWSLvYZp3VLhHuR1"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460626,
+      "name": "Los Tres Ositos",
+      "url": "https://open.spotify.com/track/5dQhE1ugqi8XwEJmIGxfM2"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595946,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/79s2YWr64mNr8xTit0nMf8"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566386,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/3acM9v1Gn9kVjHzFLJvGPj"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 603760,
+      "name": "Pulgarcito",
+      "url": "https://open.spotify.com/track/0DXKb0tI5jMFBDb0YUD3MF"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517773,
+      "name": "Rapoenzel",
+      "url": "https://open.spotify.com/track/575cHEivMlb7GWoiqM0vTe"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234586,
+      "name": "Reyes Magos",
+      "url": "https://open.spotify.com/track/3hZxcXaYBJndEnbDICQa6X"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 659586,
+      "name": "Timoteo",
+      "url": "https://open.spotify.com/track/4eoymfdWtPTjIwihLwEFct"
+    },
+    {
+      "album": {
+        "name": "Cuentos Infantiles",
+        "url": "https://open.spotify.com/album/7ks28G98IFM2telJvQ9e3F"
+      },
+      "artists": [
+        {
+          "name": "Carlitos El Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/3JglqAyRsc7rHo8p76WbeT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440346,
+      "name": "Una Nueva Luz",
+      "url": "https://open.spotify.com/track/6HUjKY3Gmu1rgiTcU9pDYU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVho4mm2ryVZ"
 }

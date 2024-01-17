@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 134400,
       "name": "Monday Blues",
       "url": "https://open.spotify.com/track/3zB9poibhdiyIGVR9BSzXm"
@@ -3690,6 +3690,28 @@
       "duration_ms": 178095,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/1rVmk8oSQNPor1w1M0RIh9"
+    },
+    {
+      "album": {
+        "name": "Turtle Jazz",
+        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "Turtle Jazz",
+      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
     },
     {
       "album": {

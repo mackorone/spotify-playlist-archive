@@ -1,727 +1,1727 @@
 {
-  "2022-01-02": 103849,
-  "2022-01-03": 103853,
-  "2022-01-04": 103860,
-  "2022-01-05": 103868,
-  "2022-01-06": 103878,
-  "2022-01-07": 103887,
-  "2022-01-08": 103917,
-  "2022-01-09": 103918,
-  "2022-01-10": 103933,
-  "2022-01-11": 103947,
-  "2022-01-12": 103958,
-  "2022-01-13": 103976,
-  "2022-01-14": 103995,
-  "2022-01-15": 104036,
-  "2022-01-16": 104039,
-  "2022-01-17": 104087,
-  "2022-01-18": 104093,
-  "2022-01-19": 104111,
-  "2022-01-20": 104143,
-  "2022-01-21": 104164,
-  "2022-01-22": 104189,
-  "2022-01-23": 104202,
-  "2022-01-24": 104218,
-  "2022-01-25": 104256,
-  "2022-01-26": 104274,
-  "2022-01-27": 104286,
-  "2022-01-28": 104311,
-  "2022-01-29": 104332,
-  "2022-01-30": 104350,
-  "2022-01-31": 104376,
-  "2022-02-01": 104398,
-  "2022-02-02": 104421,
-  "2022-02-03": 104430,
-  "2022-02-04": 104458,
-  "2022-02-05": 104473,
-  "2022-02-06": 104497,
-  "2022-02-07": 104530,
-  "2022-02-08": 104543,
-  "2022-02-09": 104573,
-  "2022-02-10": 104587,
-  "2022-02-11": 104611,
-  "2022-02-12": 104641,
-  "2022-02-13": 104663,
-  "2022-02-14": 104684,
-  "2022-02-15": 104694,
-  "2022-02-16": 104715,
-  "2022-02-17": 104730,
-  "2022-02-18": 104737,
-  "2022-02-19": 104755,
-  "2022-02-20": 104781,
-  "2022-02-21": 104804,
-  "2022-02-22": 104832,
-  "2022-02-23": 104857,
-  "2022-02-24": 104873,
-  "2022-02-25": 104889,
-  "2022-02-26": 104918,
-  "2022-02-27": 104974,
-  "2022-02-28": 104974,
-  "2022-03-01": 104990,
-  "2022-03-02": 105010,
-  "2022-03-03": 105029,
-  "2022-03-04": 105045,
-  "2022-03-05": 105059,
-  "2022-03-06": 105101,
-  "2022-03-07": 105117,
-  "2022-03-08": 105135,
-  "2022-03-09": 105158,
-  "2022-03-10": 105179,
-  "2022-03-11": 105196,
-  "2022-03-12": 105221,
-  "2022-03-13": 105247,
-  "2022-03-14": 105271,
-  "2022-03-15": 105301,
-  "2022-03-16": 105371,
-  "2022-03-17": 105415,
-  "2022-03-18": 105444,
-  "2022-03-19": 105463,
-  "2022-03-20": 105463,
-  "2022-03-21": 105521,
-  "2022-03-22": 105543,
-  "2022-03-23": 105563,
-  "2022-03-24": 105578,
-  "2022-03-25": 105607,
-  "2022-03-26": 105630,
-  "2022-03-27": 105653,
-  "2022-03-28": 105681,
-  "2022-03-30": 105730,
-  "2022-03-31": 105752,
-  "2022-04-01": 105772,
-  "2022-04-02": 105798,
-  "2022-04-03": 105835,
-  "2022-04-04": 105855,
-  "2022-04-05": 105889,
-  "2022-04-06": 105914,
-  "2022-04-07": 105936,
-  "2022-04-08": 105973,
-  "2022-04-09": 105990,
-  "2022-04-10": 106047,
-  "2022-04-11": 106068,
-  "2022-04-12": 106076,
-  "2022-04-13": 106103,
-  "2022-04-14": 106126,
-  "2022-04-15": 106153,
-  "2022-04-16": 106186,
-  "2022-04-17": 106214,
-  "2022-04-18": 106242,
-  "2022-04-19": 106265,
-  "2022-04-20": 106295,
-  "2022-04-21": 106325,
-  "2022-04-22": 106371,
-  "2022-04-23": 106400,
-  "2022-04-24": 106449,
-  "2022-04-25": 106483,
-  "2022-04-26": 106516,
-  "2022-04-27": 106533,
-  "2022-04-28": 106566,
-  "2022-04-29": 106617,
-  "2022-04-30": 106649,
-  "2022-05-01": 106680,
-  "2022-05-02": 106680,
-  "2022-05-03": 106699,
-  "2022-05-04": 106729,
-  "2022-05-05": 106758,
-  "2022-05-06": 106783,
-  "2022-05-07": 106801,
-  "2022-05-08": 106833,
-  "2022-05-09": 106835,
-  "2022-05-10": 106862,
-  "2022-05-11": 106880,
-  "2022-05-12": 106902,
-  "2022-05-13": 106933,
-  "2022-05-14": 106957,
-  "2022-05-15": 106970,
-  "2022-05-16": 106989,
-  "2022-05-17": 107012,
-  "2022-05-18": 107028,
-  "2022-05-19": 107050,
-  "2022-05-20": 107064,
-  "2022-05-21": 107113,
-  "2022-05-22": 107113,
-  "2022-05-23": 107149,
-  "2022-05-24": 107170,
-  "2022-05-25": 107188,
-  "2022-05-26": 107210,
-  "2022-05-27": 107233,
-  "2022-05-28": 107259,
-  "2022-05-29": 107282,
-  "2022-05-30": 107307,
-  "2022-05-31": 107334,
-  "2022-06-01": 107362,
-  "2022-06-02": 107367,
-  "2022-06-03": 107386,
-  "2022-06-04": 107412,
-  "2022-06-05": 107432,
-  "2022-06-06": 107444,
-  "2022-06-07": 107462,
-  "2022-06-08": 107488,
-  "2022-06-09": 107500,
-  "2022-06-10": 107512,
-  "2022-06-11": 107522,
-  "2022-06-12": 107537,
-  "2022-06-13": 107561,
-  "2022-06-14": 107568,
-  "2022-06-15": 107587,
-  "2022-06-16": 107605,
-  "2022-06-17": 107625,
-  "2022-06-18": 107654,
-  "2022-06-19": 107683,
-  "2022-06-20": 107683,
-  "2022-06-21": 107704,
-  "2022-06-22": 107731,
-  "2022-06-23": 107731,
-  "2022-06-24": 107749,
-  "2022-06-25": 107763,
-  "2022-06-26": 107776,
-  "2022-06-27": 107787,
-  "2022-06-28": 107806,
-  "2022-06-29": 107819,
-  "2022-06-30": 107829,
-  "2022-07-01": 107838,
-  "2022-07-02": 107852,
-  "2022-07-03": 107859,
-  "2022-07-04": 107863,
-  "2022-07-05": 107882,
-  "2022-07-06": 107893,
-  "2022-07-07": 107896,
-  "2022-07-08": 107903,
-  "2022-07-09": 107910,
-  "2022-07-10": 107931,
-  "2022-07-11": 107939,
-  "2022-07-12": 107959,
-  "2022-07-13": 107961,
-  "2022-07-14": 107970,
-  "2022-07-15": 107991,
-  "2022-07-16": 107996,
-  "2022-07-17": 108007,
-  "2022-07-18": 108017,
-  "2022-07-19": 108025,
-  "2022-07-20": 108039,
-  "2022-07-21": 108054,
-  "2022-07-22": 108066,
-  "2022-07-23": 108079,
-  "2022-07-24": 108088,
-  "2022-07-25": 108091,
-  "2022-07-26": 108100,
-  "2022-07-27": 108115,
-  "2022-07-28": 108128,
-  "2022-07-29": 108138,
-  "2022-07-30": 108175,
-  "2022-07-31": 108175,
-  "2022-08-01": 108183,
-  "2022-08-02": 108210,
-  "2022-08-03": 108210,
-  "2022-08-04": 108229,
-  "2022-08-05": 108236,
-  "2022-08-06": 108247,
-  "2022-08-07": 108263,
-  "2022-08-08": 108275,
-  "2022-08-09": 108302,
-  "2022-08-10": 108303,
-  "2022-08-11": 108318,
-  "2022-08-12": 108332,
-  "2022-08-13": 108349,
-  "2022-08-14": 108367,
-  "2022-08-15": 108377,
-  "2022-08-16": 108386,
-  "2022-08-17": 108407,
-  "2022-08-18": 108411,
-  "2022-08-19": 108421,
-  "2022-08-20": 108435,
-  "2022-08-21": 108440,
-  "2022-08-22": 108450,
-  "2022-08-23": 108468,
-  "2022-08-24": 108480,
-  "2022-08-25": 108498,
-  "2022-08-26": 108511,
-  "2022-08-27": 108522,
-  "2022-08-28": 108534,
-  "2022-08-29": 108542,
-  "2022-08-30": 108558,
-  "2022-08-31": 108561,
-  "2022-09-01": 108550,
-  "2022-09-02": 108539,
-  "2022-09-03": 108530,
-  "2022-09-04": 108537,
-  "2022-09-05": 108559,
-  "2022-09-06": 108582,
-  "2022-09-07": 108601,
-  "2022-09-09": 108646,
-  "2022-09-10": 108662,
-  "2022-09-11": 108697,
-  "2022-09-12": 108724,
-  "2022-09-13": 108741,
-  "2022-09-15": 108792,
-  "2022-09-16": 108816,
-  "2022-09-17": 108842,
-  "2022-09-18": 108864,
-  "2022-09-19": 108884,
-  "2022-09-20": 108898,
-  "2022-09-21": 108912,
-  "2022-09-22": 108928,
-  "2022-09-23": 108939,
-  "2022-09-24": 108962,
-  "2022-09-25": 108977,
-  "2022-09-26": 108992,
-  "2022-09-27": 109008,
-  "2022-09-28": 109032,
-  "2022-09-29": 109051,
-  "2022-09-30": 109062,
-  "2022-10-01": 109089,
-  "2022-10-02": 109102,
-  "2022-10-03": 109122,
-  "2022-10-04": 109139,
-  "2022-10-05": 109147,
-  "2022-10-06": 109160,
-  "2022-10-07": 109170,
-  "2022-10-08": 109182,
-  "2022-10-09": 109217,
-  "2022-10-10": 109217,
-  "2022-10-11": 109245,
-  "2022-10-12": 109256,
-  "2022-10-13": 109270,
-  "2022-10-14": 109288,
-  "2022-10-15": 109306,
-  "2022-10-16": 109323,
-  "2022-10-17": 109338,
-  "2022-10-18": 109349,
-  "2022-10-19": 109362,
-  "2022-10-20": 109385,
-  "2022-10-21": 109409,
-  "2022-10-22": 109429,
-  "2022-10-23": 109460,
-  "2022-10-24": 109482,
-  "2022-10-25": 109504,
-  "2022-10-26": 109514,
-  "2022-10-27": 109525,
-  "2022-10-28": 109529,
-  "2022-10-29": 109544,
-  "2022-10-30": 109565,
-  "2022-10-31": 109576,
-  "2022-11-01": 109581,
-  "2022-11-02": 109593,
-  "2022-11-03": 109606,
-  "2022-11-04": 109602,
-  "2022-11-05": 109612,
-  "2022-11-06": 109627,
-  "2022-11-07": 109635,
-  "2022-11-08": 109652,
-  "2022-11-09": 109662,
-  "2022-11-10": 109672,
-  "2022-11-11": 109685,
-  "2022-11-12": 109700,
-  "2022-11-13": 109714,
-  "2022-11-14": 109731,
-  "2022-11-15": 109746,
-  "2022-11-16": 109764,
-  "2022-11-17": 109772,
-  "2022-11-18": 109768,
-  "2022-11-19": 109767,
-  "2022-11-20": 109785,
-  "2022-11-21": 109798,
-  "2022-11-22": 109809,
-  "2022-11-23": 109815,
-  "2022-11-24": 109843,
-  "2022-11-25": 109865,
-  "2022-11-26": 109877,
-  "2022-11-27": 109885,
-  "2022-11-28": 109897,
-  "2022-11-29": 109904,
-  "2022-11-30": 109909,
-  "2022-12-01": 109913,
-  "2022-12-02": 109912,
-  "2022-12-03": 109921,
-  "2022-12-04": 109932,
-  "2022-12-05": 109947,
-  "2022-12-06": 109954,
-  "2022-12-07": 109965,
-  "2022-12-08": 109967,
-  "2022-12-09": 109974,
-  "2022-12-10": 109990,
-  "2022-12-11": 110000,
-  "2022-12-12": 110010,
-  "2022-12-13": 110012,
-  "2022-12-14": 110024,
-  "2022-12-15": 110032,
-  "2022-12-16": 110031,
-  "2022-12-17": 110035,
-  "2022-12-18": 110048,
-  "2022-12-19": 110054,
-  "2022-12-20": 110082,
-  "2022-12-21": 110082,
-  "2022-12-22": 110089,
-  "2022-12-24": 110104,
-  "2022-12-25": 110105,
-  "2022-12-26": 110111,
-  "2022-12-27": 110119,
-  "2022-12-28": 110120,
-  "2022-12-29": 110132,
-  "2022-12-30": 110134,
-  "2022-12-31": 110145,
-  "2023-01-01": 110155,
-  "2023-01-02": 110167,
-  "2023-01-03": 110169,
-  "2023-01-04": 110178,
-  "2023-01-05": 110185,
-  "2023-01-06": 110195,
-  "2023-01-07": 110209,
-  "2023-01-08": 110217,
-  "2023-01-09": 110227,
-  "2023-01-10": 110233,
-  "2023-01-11": 110240,
-  "2023-01-12": 110244,
-  "2023-01-13": 110261,
-  "2023-01-14": 110303,
-  "2023-01-15": 110304,
-  "2023-01-16": 110320,
-  "2023-01-17": 110337,
-  "2023-01-18": 110348,
-  "2023-01-19": 110354,
-  "2023-01-20": 110366,
-  "2023-01-21": 110391,
-  "2023-01-22": 110409,
-  "2023-01-23": 110420,
-  "2023-01-24": 110440,
-  "2023-01-25": 110451,
-  "2023-01-26": 110465,
-  "2023-01-27": 110463,
-  "2023-01-28": 110479,
-  "2023-01-29": 110488,
-  "2023-01-30": 110508,
-  "2023-01-31": 110508,
-  "2023-02-01": 110542,
-  "2023-02-02": 110550,
-  "2023-02-03": 110572,
-  "2023-02-04": 110587,
-  "2023-02-05": 110609,
-  "2023-02-06": 110622,
-  "2023-02-07": 110629,
-  "2023-02-08": 110667,
-  "2023-02-09": 110667,
-  "2023-02-10": 110673,
-  "2023-02-11": 110682,
-  "2023-02-12": 110725,
-  "2023-02-13": 110749,
-  "2023-02-14": 110749,
-  "2023-02-15": 110767,
-  "2023-02-16": 110806,
-  "2023-02-17": 110829,
-  "2023-02-18": 110845,
-  "2023-02-19": 110850,
-  "2023-02-20": 110862,
-  "2023-02-21": 110880,
-  "2023-02-22": 110892,
-  "2023-02-23": 110912,
-  "2023-02-24": 110923,
-  "2023-02-25": 110950,
-  "2023-02-26": 110958,
-  "2023-02-27": 110998,
-  "2023-02-28": 110998,
-  "2023-03-01": 111013,
-  "2023-03-02": 111033,
-  "2023-03-03": 111045,
-  "2023-03-04": 111052,
-  "2023-03-05": 111087,
-  "2023-03-06": 111087,
-  "2023-03-07": 111094,
-  "2023-03-08": 111108,
-  "2023-03-09": 111119,
-  "2023-03-10": 111134,
-  "2023-03-11": 111151,
-  "2023-03-12": 111165,
-  "2023-03-13": 111185,
-  "2023-03-14": 111199,
-  "2023-03-15": 111209,
-  "2023-03-16": 111223,
-  "2023-03-17": 111223,
-  "2023-03-18": 111260,
-  "2023-03-19": 111282,
-  "2023-03-20": 111309,
-  "2023-03-21": 111324,
-  "2023-03-22": 111340,
-  "2023-03-23": 111365,
-  "2023-03-24": 111365,
-  "2023-03-25": 111393,
-  "2023-03-26": 111416,
-  "2023-03-27": 111431,
-  "2023-03-28": 111443,
-  "2023-03-29": 111457,
-  "2023-03-30": 111500,
-  "2023-03-31": 111500,
-  "2023-04-01": 111513,
-  "2023-04-02": 111538,
-  "2023-04-03": 111556,
-  "2023-04-04": 111573,
-  "2023-04-05": 111576,
-  "2023-04-06": 111593,
-  "2023-04-07": 111619,
-  "2023-04-09": 111653,
-  "2023-04-10": 111659,
-  "2023-04-11": 111684,
-  "2023-04-12": 111684,
-  "2023-04-13": 111682,
-  "2023-04-14": 111702,
-  "2023-04-15": 111723,
-  "2023-04-16": 111745,
-  "2023-04-17": 111758,
-  "2023-04-18": 111766,
-  "2023-04-19": 111791,
-  "2023-04-20": 111811,
-  "2023-04-21": 111828,
-  "2023-04-22": 111835,
-  "2023-04-23": 111855,
-  "2023-04-24": 111872,
-  "2023-04-25": 111876,
-  "2023-04-26": 111895,
-  "2023-04-27": 111913,
-  "2023-04-28": 111928,
-  "2023-04-29": 111937,
-  "2023-04-30": 111955,
-  "2023-05-01": 111964,
-  "2023-05-02": 111975,
-  "2023-05-03": 111985,
-  "2023-05-04": 111996,
-  "2023-05-05": 112009,
-  "2023-05-06": 112027,
-  "2023-05-07": 112045,
-  "2023-05-08": 112061,
-  "2023-05-09": 112076,
-  "2023-05-10": 112097,
-  "2023-05-11": 112112,
-  "2023-05-12": 112134,
-  "2023-05-13": 112145,
-  "2023-05-14": 112164,
-  "2023-05-15": 112180,
-  "2023-05-16": 112177,
-  "2023-05-17": 112192,
-  "2023-05-18": 112197,
-  "2023-05-19": 112216,
-  "2023-05-20": 112255,
-  "2023-05-21": 112255,
-  "2023-05-22": 112255,
-  "2023-05-23": 112300,
-  "2023-05-24": 112323,
-  "2023-05-25": 112326,
-  "2023-05-26": 112333,
-  "2023-05-27": 112401,
-  "2023-05-28": 112471,
-  "2023-05-29": 112471,
-  "2023-05-30": 112612,
-  "2023-05-31": 112620,
-  "2023-06-01": 112632,
-  "2023-06-02": 112649,
-  "2023-06-03": 112666,
-  "2023-06-04": 112671,
-  "2023-06-05": 112689,
-  "2023-06-06": 112696,
-  "2023-06-07": 112696,
-  "2023-06-08": 112695,
-  "2023-06-09": 112706,
-  "2023-06-10": 112723,
-  "2023-06-11": 112731,
-  "2023-06-12": 112742,
-  "2023-06-13": 112749,
-  "2023-06-14": 112751,
-  "2023-06-15": 112760,
-  "2023-06-16": 112764,
-  "2023-06-17": 112782,
-  "2023-06-18": 112799,
-  "2023-06-19": 112811,
-  "2023-06-20": 112818,
-  "2023-06-21": 112829,
-  "2023-06-22": 112844,
-  "2023-06-23": 112867,
-  "2023-06-24": 112878,
-  "2023-06-25": 112890,
-  "2023-06-26": 112901,
-  "2023-06-27": 112908,
-  "2023-06-28": 112910,
-  "2023-06-29": 112917,
-  "2023-06-30": 112929,
-  "2023-07-01": 112942,
-  "2023-07-02": 112942,
-  "2023-07-03": 112951,
-  "2023-07-04": 112956,
-  "2023-07-05": 112974,
-  "2023-07-06": 113004,
-  "2023-07-07": 113004,
-  "2023-07-08": 113008,
-  "2023-07-09": 113019,
-  "2023-07-10": 113023,
-  "2023-07-11": 113032,
-  "2023-07-12": 113042,
-  "2023-07-13": 113054,
-  "2023-07-14": 113071,
-  "2023-07-15": 113075,
-  "2023-07-16": 113088,
-  "2023-07-17": 113108,
-  "2023-07-18": 113110,
-  "2023-07-19": 113120,
-  "2023-07-20": 113133,
-  "2023-07-21": 113138,
-  "2023-07-22": 113142,
-  "2023-07-23": 113155,
-  "2023-07-24": 113167,
-  "2023-07-25": 113172,
-  "2023-07-26": 113188,
-  "2023-07-27": 113201,
-  "2023-07-28": 113214,
-  "2023-07-29": 113228,
-  "2023-07-30": 113240,
-  "2023-07-31": 113252,
-  "2023-08-01": 113259,
-  "2023-08-02": 113269,
-  "2023-08-03": 113277,
-  "2023-08-04": 113283,
-  "2023-08-05": 113294,
-  "2023-08-06": 113320,
-  "2023-08-07": 113320,
-  "2023-08-08": 113332,
-  "2023-08-09": 113342,
-  "2023-08-10": 113352,
-  "2023-08-11": 113362,
-  "2023-08-12": 113377,
-  "2023-08-13": 113393,
-  "2023-08-14": 113400,
-  "2023-08-15": 113403,
-  "2023-08-16": 113403,
-  "2023-08-17": 113418,
-  "2023-08-18": 113431,
-  "2023-08-19": 113443,
-  "2023-08-20": 113453,
-  "2023-08-21": 113476,
-  "2023-08-22": 113489,
-  "2023-08-23": 113509,
-  "2023-08-24": 113521,
-  "2023-08-25": 113538,
-  "2023-08-26": 113549,
-  "2023-08-27": 113550,
-  "2023-08-28": 113558,
-  "2023-08-29": 113572,
-  "2023-08-30": 113581,
-  "2023-08-31": 113593,
-  "2023-09-01": 113628,
-  "2023-09-02": 113628,
-  "2023-09-03": 113632,
-  "2023-09-04": 113632,
-  "2023-09-05": 113644,
-  "2023-09-06": 113642,
-  "2023-09-07": 113642,
-  "2023-09-08": 113642,
-  "2023-09-09": 113648,
-  "2023-09-10": 113652,
-  "2023-09-11": 113653,
-  "2023-09-12": 113653,
-  "2023-09-13": 113673,
-  "2023-09-14": 113673,
-  "2023-09-15": 113675,
-  "2023-09-16": 113677,
-  "2023-09-17": 113677,
-  "2023-09-18": 113677,
-  "2023-09-19": 113705,
-  "2023-09-20": 113713,
-  "2023-09-21": 113725,
-  "2023-09-22": 113728,
-  "2023-09-23": 113728,
-  "2023-09-24": 113728,
-  "2023-09-25": 113728,
-  "2023-09-26": 113772,
-  "2023-09-27": 113772,
-  "2023-09-28": 113777,
-  "2023-09-29": 113781,
-  "2023-09-30": 113781,
-  "2023-10-01": 113797,
-  "2023-10-02": 113801,
-  "2023-10-03": 113803,
-  "2023-10-04": 113815,
-  "2023-10-05": 113816,
-  "2023-10-06": 113832,
-  "2023-10-07": 113832,
-  "2023-10-08": 113837,
-  "2023-10-09": 113837,
-  "2023-10-10": 113837,
-  "2023-10-11": 113751,
-  "2023-10-12": 113751,
-  "2023-10-13": 113651,
-  "2023-10-14": 113651,
-  "2023-10-15": 113651,
-  "2023-10-16": 113651,
-  "2023-10-17": 113651,
-  "2023-10-18": 113651,
-  "2023-10-19": 113651,
-  "2023-10-20": 113651,
-  "2023-10-21": 113651,
-  "2023-10-22": 113651,
-  "2023-10-23": 113651,
-  "2023-10-24": 113651,
-  "2023-10-25": 113651,
-  "2023-10-26": 113651,
-  "2023-10-27": 113651,
-  "2023-10-28": 113651,
-  "2023-10-29": 113651,
-  "2023-10-30": 113651,
-  "2023-10-31": 113651,
-  "2023-11-01": 113651,
-  "2023-11-02": 113651,
-  "2023-11-03": 113651,
-  "2023-11-04": 113651,
-  "2023-11-05": 113651,
-  "2023-11-06": 113651,
-  "2023-11-07": 113651,
-  "2023-11-08": 113651,
-  "2023-11-09": 113651,
-  "2023-11-10": 113651,
-  "2023-11-11": 113763,
-  "2023-11-12": 113763,
-  "2023-11-13": 113763,
-  "2023-11-14": 113763,
-  "2023-11-15": 113763,
-  "2023-11-16": 113763,
-  "2023-11-17": 113809,
-  "2023-11-18": 113809,
-  "2023-11-19": 113809,
-  "2023-11-20": 113809,
-  "2023-11-21": 113809,
-  "2023-11-22": 113809,
-  "2023-11-23": 113831,
-  "2023-11-24": 113831,
-  "2023-11-25": 113831,
-  "2023-11-26": 113831,
-  "2023-11-27": 113831,
-  "2023-11-28": 113831,
-  "2023-11-29": 113831,
-  "2023-11-30": 113831,
-  "2023-12-01": 113831,
-  "2023-12-02": 113831,
-  "2023-12-03": 113831,
-  "2023-12-04": 113831,
-  "2023-12-05": 113831,
-  "2023-12-06": 113831,
-  "2023-12-07": 113831,
-  "2023-12-08": 113831,
-  "2023-12-09": 113831,
-  "2023-12-10": 113831,
-  "2023-12-11": 113831,
-  "2023-12-12": 113831,
-  "2023-12-13": 113831,
-  "2023-12-14": 113974,
-  "2023-12-15": 113983,
-  "2023-12-16": 113995,
-  "2023-12-17": 113992,
-  "2023-12-18": 114006,
-  "2023-12-19": 114006,
-  "2023-12-20": 114019,
-  "2023-12-21": 114026,
-  "2023-12-22": 114032,
-  "2023-12-23": 114043,
-  "2023-12-24": 114052,
-  "2023-12-25": 114058,
-  "2023-12-26": 114065,
-  "2023-12-27": 114082,
-  "2023-12-30": 114103,
-  "2023-12-31": 114120,
-  "2024-01-01": 114128,
-  "2024-01-02": 114135,
-  "2024-01-03": 114132
+  "2024-01-17": 113863,
+  "date_first_scraped": "2022-01-02",
+  "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
+  "name": "Spotify Singles: Country",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 200515,
+      "name": "Any Ol' Barstool - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1ANqk7eCLJ5FqjHiL1ln9e"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200515,
+      "name": "Any Ol' Barstool - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5fghXy9xCMweLOu6kQgAul"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200515,
+      "name": "Any Ol\u2019 Barstool (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/3iZ7yYvQ1oxWgYvMMM23WH"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207622,
+      "name": "Attention - Recorded at Woodshed Recording Malibu",
+      "url": "https://open.spotify.com/track/1FldaNEv6PQQetkRwB9DLR"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225318,
+      "name": "Before You Called Me Baby - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250733,
+      "name": "Best Shot (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2WfVAdZp1iQ0OqwnNyKzlU"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 250733,
+      "name": "Best Shot - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255553,
+      "name": "Better Place - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 136120,
+      "name": "Blue Canadian Rockies - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/170TUtt0aRoo2UddwvxnxT"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202690,
+      "name": "Blue Tacoma",
+      "url": "https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0eEpAjX1A8PhmqDrDvWP4b"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202690,
+      "name": "Blue Tacoma - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2j8r46vPmaj1O1G1R6r3il"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
+    },
+    {
+      "album": {
+        "name": "Carrying Your Love With Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243920,
+      "name": "Carrying Your Love With Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255126,
+      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287440,
+      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 287440,
+      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6qi0gC43ZZ0dAtLwdamJ0I"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109605,
+      "name": "Dang Me (Recorded at Sound Stage Studios Nashville)",
+      "url": "https://open.spotify.com/track/1rMNgB6oJVZPZlKJ0zJllV"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182469,
+      "name": "Dear God - Recorded at Woodshed Recording Malibu",
+      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228460,
+      "name": "Delicate - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260862,
+      "name": "Dive - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "Doing It to Country Songs (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/5PoxKc3OfdHr2uQEnIRRyw"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Elvira (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Avenue Beat",
+          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207458,
+      "name": "Everywhere I'm Goin' (featuring Avenue Beat)",
+      "url": "https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Folsom Prison Blues - Spotify Singles",
+      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184742,
+      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
+      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        },
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233414,
+      "name": "Girl from the North Country - (Hot Country Artists to Watch) - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224977,
+      "name": "Giving You Up - Spotify Singles",
+      "url": "https://open.spotify.com/track/0DNcfs2vfNvwa3o7MEDSGG"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Good Together - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/5cnouImxhCqfrgzl6oxIZX"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278167,
+      "name": "Green Eyes - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346397,
+      "name": "Hallelujah - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225632,
+      "name": "Happier - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        },
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        },
+        {
+          "name": "Larry Cordle",
+          "url": "https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196435,
+      "name": "Highway 40 Blues (feat. Ricky Skaggs & Larry Cordle)",
+      "url": "https://open.spotify.com/track/5E5Ixhxfgqf4Ke0kgwXrhl"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 214393,
+      "name": "Hold Your Head Up High - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241456,
+      "name": "Hotel Key - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        },
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214655,
+      "name": "House Fire (feat. The Travelin' McCourys)",
+      "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243562,
+      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
+      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243562,
+      "name": "I Feel It Coming - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Lady Like",
+      "url": "https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257787,
+      "name": "Liar Liar - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197493,
+      "name": "Long Live Love - Recorded at Spotify Studios Nyc",
+      "url": "https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197493,
+      "name": "Long Live Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7LILyHS0z6PXDt34ZrCD0h"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4kcKkpeoD0ZcykltRXb0Ty"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208949,
+      "name": "Love Someone (feat. Sabina Ddumba) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/0XxW0lU2ZgFvMzVF6F3Xb5"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7nOgjBllSIbcsJN5CYSrwU"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208949,
+      "name": "Love Someone (feat. Sabina Ddumba) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/2Em5ZsKqKHwGa2gM5JznZf"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259373,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0eEpAjX1A8PhmqDrDvWP4b"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259373,
+      "name": "Man in the Mirror - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4olvbCz8avPRUGi5l6hz7b"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253735,
+      "name": "Mercy - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Middle Finger - Spotify Singles",
+      "url": "https://open.spotify.com/track/0aioEeNyDjBwl7yb0xH0Rg"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 156160,
+      "name": "Middle Finger - Spotify Singles",
+      "url": "https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193115,
+      "name": "Miss Me More - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2wZrc1KD0oKVec9hpTtOD3"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157025,
+      "name": "Much Too Young To Feel This Damn Old (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/7DMm8vpHp1uC5jXRLXD1mz"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234873,
+      "name": "My Old Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/30x7X9Mjo0Spbb2POIc3E0"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234873,
+      "name": "My Old Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201332,
+      "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269382,
+      "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215281,
+      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 312586,
+      "name": "One More Try - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0QeopWycQsDAo0p1sp3OcQ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312586,
+      "name": "One More Try - Recorded at Spotify Studios Nyc",
+      "url": "https://open.spotify.com/track/5qoey0nfhko0BZh5w1Xq0y"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224987,
+      "name": "One Number Away - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247312,
+      "name": "Psycho - Recorded at Sound Stage Studios, Nashville",
+      "url": "https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155612,
+      "name": "Queen Of Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 195850,
+      "name": "Real Peach - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185331,
+      "name": "Reasons (Recorded At Sound Stage Nashville)",
+      "url": "https://open.spotify.com/track/0p0zVDWG6vS77NKDy9EiWL"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185331,
+      "name": "Reasons - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3ORTR7IKpwANt7TdbGwfwN"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134615,
+      "name": "Shitty Golfer (Recorded at Sound Stage Studios Nashville)",
+      "url": "https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO"
+    },
+    {
+      "album": {
+        "name": "Smalltown Boy (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317729,
+      "name": "Smalltown Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "album": {
+        "name": "Strawberry Wine - Spotify Singles",
+        "url": "https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260368,
+      "name": "Strawberry Wine - Spotify Singles",
+      "url": "https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174973,
+      "name": "Tequila - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT"
+    },
+    {
+      "album": {
+        "name": "The Devil\u2019s Still Down in Georgia",
+        "url": "https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193702,
+      "name": "The Devil\u2019s Still Down in Georgia",
+      "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "Tougher Than The Rest - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2ypb4O6v2rZgmqxw8lPF2W"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158501,
+      "name": "Unforgettable - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267802,
+      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Avenue Beat",
+          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177261,
+      "name": "Watermelon Sugar (featuring Avenue Beat)",
+      "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259430,
+      "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Whiskey - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7KeNKDufYkAf3VKOumK12r"
+    },
+    {
+      "album": {
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/5Z9d9Ahszcra0XWI7WZeL9"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240224,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/6ks9FWHuzpSQkDdGo2Jqgu"
+    },
+    {
+      "album": {
+        "name": "Wide Open Spaces - Spotify Singles",
+        "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 240224,
+      "name": "Wide Open Spaces - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205986,
+      "name": "Yours If You Want It - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7IEKsQr25onXLLYaOyD27n"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdXh4ecan7Hh"
 }

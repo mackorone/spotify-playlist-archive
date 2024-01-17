@@ -1,200 +1,1187 @@
 {
-  "2023-06-18": 18530,
-  "2023-06-19": 18538,
-  "2023-06-20": 18547,
-  "2023-06-21": 18555,
-  "2023-06-22": 18566,
-  "2023-06-23": 18575,
-  "2023-06-24": 18578,
-  "2023-06-25": 18582,
-  "2023-06-26": 18591,
-  "2023-06-27": 18597,
-  "2023-06-28": 18602,
-  "2023-06-29": 18610,
-  "2023-06-30": 18614,
-  "2023-07-01": 18634,
-  "2023-07-02": 18634,
-  "2023-07-03": 18640,
-  "2023-07-04": 18643,
-  "2023-07-05": 18657,
-  "2023-07-06": 18690,
-  "2023-07-07": 18690,
-  "2023-07-08": 18690,
-  "2023-07-09": 18705,
-  "2023-07-10": 18714,
-  "2023-07-11": 18719,
-  "2023-07-12": 18727,
-  "2023-07-13": 18735,
-  "2023-07-14": 18740,
-  "2023-07-15": 18745,
-  "2023-07-16": 18754,
-  "2023-07-17": 18761,
-  "2023-07-18": 18768,
-  "2023-07-19": 18775,
-  "2023-07-20": 18784,
-  "2023-07-21": 18789,
-  "2023-07-22": 18799,
-  "2023-07-23": 18807,
-  "2023-07-24": 18810,
-  "2023-07-25": 18813,
-  "2023-07-26": 18814,
-  "2023-07-27": 18820,
-  "2023-07-28": 18830,
-  "2023-07-29": 18838,
-  "2023-07-30": 18856,
-  "2023-07-31": 18861,
-  "2023-08-01": 18869,
-  "2023-08-02": 18874,
-  "2023-08-03": 18888,
-  "2023-08-04": 18892,
-  "2023-08-05": 18897,
-  "2023-08-06": 18915,
-  "2023-08-07": 18915,
-  "2023-08-08": 18926,
-  "2023-08-09": 18929,
-  "2023-08-10": 18937,
-  "2023-08-11": 18945,
-  "2023-08-12": 18945,
-  "2023-08-13": 18945,
-  "2023-08-14": 18964,
-  "2023-08-15": 18964,
-  "2023-08-16": 18964,
-  "2023-08-17": 18964,
-  "2023-08-18": 18964,
-  "2023-08-19": 18964,
-  "2023-08-20": 19004,
-  "2023-08-21": 19004,
-  "2023-08-22": 19025,
-  "2023-08-23": 19025,
-  "2023-08-24": 19025,
-  "2023-08-25": 19025,
-  "2023-08-26": 19065,
-  "2023-08-27": 19065,
-  "2023-08-28": 19082,
-  "2023-08-29": 19082,
-  "2023-08-30": 19082,
-  "2023-08-31": 19098,
-  "2023-09-01": 19105,
-  "2023-09-02": 19105,
-  "2023-09-03": 19105,
-  "2023-09-04": 19105,
-  "2023-09-05": 19105,
-  "2023-09-06": 19105,
-  "2023-09-07": 19105,
-  "2023-09-08": 19105,
-  "2023-09-09": 19105,
-  "2023-09-10": 19105,
-  "2023-09-11": 19105,
-  "2023-09-12": 19105,
-  "2023-09-13": 19105,
-  "2023-09-14": 19105,
-  "2023-09-15": 19105,
-  "2023-09-16": 19216,
-  "2023-09-17": 19216,
-  "2023-09-18": 19216,
-  "2023-09-19": 19235,
-  "2023-09-20": 19235,
-  "2023-09-21": 19235,
-  "2023-09-22": 19262,
-  "2023-09-23": 19262,
-  "2023-09-24": 19262,
-  "2023-09-25": 19262,
-  "2023-09-26": 19300,
-  "2023-09-27": 19300,
-  "2023-09-28": 19300,
-  "2023-09-29": 19300,
-  "2023-09-30": 19300,
-  "2023-10-01": 19300,
-  "2023-10-02": 19300,
-  "2023-10-03": 19300,
-  "2023-10-04": 19300,
-  "2023-10-05": 19300,
-  "2023-10-06": 19300,
-  "2023-10-07": 19300,
-  "2023-10-08": 19300,
-  "2023-10-09": 19300,
-  "2023-10-10": 19300,
-  "2023-10-11": 19397,
-  "2023-10-12": 19397,
-  "2023-10-13": 19397,
-  "2023-10-14": 19397,
-  "2023-10-15": 19397,
-  "2023-10-16": 19397,
-  "2023-10-17": 19397,
-  "2023-10-18": 19397,
-  "2023-10-19": 19397,
-  "2023-10-20": 19397,
-  "2023-10-21": 19397,
-  "2023-10-22": 19397,
-  "2023-10-23": 19397,
-  "2023-10-24": 19397,
-  "2023-10-25": 19397,
-  "2023-10-26": 19397,
-  "2023-10-27": 19397,
-  "2023-10-28": 19397,
-  "2023-10-29": 19397,
-  "2023-10-30": 19397,
-  "2023-10-31": 19397,
-  "2023-11-01": 19397,
-  "2023-11-02": 19397,
-  "2023-11-03": 19397,
-  "2023-11-04": 19397,
-  "2023-11-05": 19397,
-  "2023-11-06": 19397,
-  "2023-11-07": 19397,
-  "2023-11-08": 19397,
-  "2023-11-09": 19397,
-  "2023-11-10": 19397,
-  "2023-11-11": 19563,
-  "2023-11-12": 19563,
-  "2023-11-13": 19563,
-  "2023-11-14": 19563,
-  "2023-11-15": 19563,
-  "2023-11-16": 19563,
-  "2023-11-17": 19563,
-  "2023-11-18": 19563,
-  "2023-11-19": 19563,
-  "2023-11-20": 19563,
-  "2023-11-21": 19563,
-  "2023-11-22": 19563,
-  "2023-11-23": 19563,
-  "2023-11-24": 19563,
-  "2023-11-25": 19563,
-  "2023-11-26": 19563,
-  "2023-11-27": 19563,
-  "2023-11-28": 19563,
-  "2023-11-29": 19563,
-  "2023-11-30": 19563,
-  "2023-12-01": 19563,
-  "2023-12-02": 19563,
-  "2023-12-03": 19563,
-  "2023-12-04": 19563,
-  "2023-12-05": 19563,
-  "2023-12-06": 19563,
-  "2023-12-07": 19563,
-  "2023-12-08": 19563,
-  "2023-12-09": 19563,
-  "2023-12-10": 19563,
-  "2023-12-11": 19563,
-  "2023-12-12": 19563,
-  "2023-12-13": 19563,
-  "2023-12-14": 19716,
-  "2023-12-15": 19719,
-  "2023-12-16": 19722,
-  "2023-12-17": 19730,
-  "2023-12-18": 19736,
-  "2023-12-19": 19740,
-  "2023-12-20": 19738,
-  "2023-12-21": 19747,
-  "2023-12-22": 19750,
-  "2023-12-23": 19755,
-  "2023-12-24": 19761,
-  "2023-12-25": 19769,
-  "2023-12-26": 19773,
-  "2023-12-27": 19781,
-  "2023-12-30": 19803,
-  "2023-12-31": 19810,
-  "2024-01-01": 19820,
-  "2024-01-02": 19821,
-  "2024-01-03": 19826
+  "2024-01-17": 19873,
+  "date_first_scraped": "2023-06-18",
+  "description": "This is John Williamson. The essential tracks, all in one playlist.",
+  "name": "This Is John Williamson",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "A Bushman Can't Survive",
+      "url": "https://open.spotify.com/track/3fAEJ8DRvfoByUrC0oo6qb"
+    },
+    {
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "A Flag of Our Own",
+      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
+    },
+    {
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        },
+        {
+          "name": "Warren H. Williams",
+          "url": "https://open.spotify.com/artist/24mAUpCTQNw1yhDus8rwrY"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170173,
+      "name": "A Thousand Feet (with Warren H. Williams)",
+      "url": "https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo"
+    },
+    {
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 75533,
+      "name": "Advance Australia Fair",
+      "url": "https://open.spotify.com/track/58pM9ynyyEXzrFFsmM4olc"
+    },
+    {
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "Amazing Day",
+      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+    },
+    {
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272066,
+      "name": "Ancient Mountains",
+      "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
+    },
+    {
+      "album": {
+        "name": "Looking for a Story",
+        "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378133,
+      "name": "And the Band Played Waltzing Matilda - Live",
+      "url": "https://open.spotify.com/track/7oPSc8krbyi0YMrxWGmmla"
+    },
+    {
+      "album": {
+        "name": "Mulga to Mangoes",
+        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 173093,
+      "name": "Aussie Balladeer",
+      "url": "https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd"
+    },
+    {
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Australia Is Another Word for Free",
+      "url": "https://open.spotify.com/track/12GHwnYl5kQOCIxKDLuvEZ"
+    },
+    {
+      "album": {
+        "name": "Be A Part Of This Land",
+        "url": "https://open.spotify.com/album/48bcvUhnGV51RgMB0194BQ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 158545,
+      "name": "Be A Part Of This Land",
+      "url": "https://open.spotify.com/track/2cNyXjlxnRKFecpiBsHjr6"
+    },
+    {
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 159640,
+      "name": "Big Bad Bushranger",
+      "url": "https://open.spotify.com/track/1RI9fIdHsBb1DbcRG8YGqg"
+    },
+    {
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "Campfire on the Road",
+      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
+    },
+    {
+      "album": {
+        "name": "Mates on the Road",
+        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71520,
+      "name": "Chain Around My Ankle",
+      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
+    },
+    {
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195426,
+      "name": "Chandelier of Stars",
+      "url": "https://open.spotify.com/track/0K8bNqCPf3DzxWOpS9U1Wc"
+    },
+    {
+      "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Cootamundra Wattle",
+      "url": "https://open.spotify.com/track/0gyWlfuZqPzfBdbE5sF3kM"
+    },
+    {
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180866,
+      "name": "Cydi",
+      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+    },
+    {
+      "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182933,
+      "name": "Diamantina Drover",
+      "url": "https://open.spotify.com/track/2MVhIpEf23BMw7NxlU3AGZ"
+    },
+    {
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215906,
+      "name": "Diggers of the Anzac (This Is Gallipoli)",
+      "url": "https://open.spotify.com/track/7HBaB4e77Q1Vcg16y8ft6K"
+    },
+    {
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "Dingo",
+      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
+    },
+    {
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 217800,
+      "name": "Drovers Boy",
+      "url": "https://open.spotify.com/track/1xHzFR5aBiIJH0IhWuJAxY"
+    },
+    {
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 193013,
+      "name": "Flower on the Water",
+      "url": "https://open.spotify.com/track/0QnMzXTaJeGjSGg1uGB7UZ"
+    },
+    {
+      "album": {
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193013,
+      "name": "Flower on the Water",
+      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
+    },
+    {
+      "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250693,
+      "name": "Galleries of Pink Galahs",
+      "url": "https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit"
+    },
+    {
+      "album": {
+        "name": "J.W.'s Family Album",
+        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "Goodbye Blinky Bill",
+      "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
+    },
+    {
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Goondiwindi Pork",
+      "url": "https://open.spotify.com/track/0dvoVIjcF2xszyR0A4gfx8"
+    },
+    {
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284466,
+      "name": "Hang My Hat in Queensland - Orchestra Version",
+      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
+    },
+    {
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208560,
+      "name": "Hawkesbury River Lovin'",
+      "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
+    },
+    {
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Hillbilly Road",
+      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
+    },
+    {
+      "album": {
+        "name": "J.W.'s Family Album",
+        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170213,
+      "name": "Home Among the Gumtrees",
+      "url": "https://open.spotify.com/track/3FYDkfPfPwFREohfO9uUel"
+    },
+    {
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "I Can't Feel Those Chains Any Longer - Live",
+      "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
+    },
+    {
+      "album": {
+        "name": "Looking for a Story",
+        "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304493,
+      "name": "I Was Only 19 - Live",
+      "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
+    },
+    {
+      "album": {
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Keeper of the Stones",
+      "url": "https://open.spotify.com/track/6PYxwr2xxfwbH73yWFxfxt"
+    },
+    {
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
+      },
+      "artists": [
+        {
+          "name": "Adam Harvey",
+          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
+        },
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126586,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+    },
+    {
+      "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Mallee Boy",
+      "url": "https://open.spotify.com/track/72NkwThw0PDHasUu7WomDm"
+    },
+    {
+      "album": {
+        "name": "Mulga to Mangoes",
+        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 178293,
+      "name": "My Oath to Australia",
+      "url": "https://open.spotify.com/track/0iLLmm3cmUXctmOEilxi9E"
+    },
+    {
+      "album": {
+        "name": "Old Farts in Caravan Parks",
+        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 234440,
+      "name": "Old Farts in Caravan Parks",
+      "url": "https://open.spotify.com/track/6xwtfMFUuqJPsfAtWcNwP5"
+    },
+    {
+      "album": {
+        "name": "J.W.'s Family Album",
+        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Old Man Emu",
+      "url": "https://open.spotify.com/track/6CdOcSuE9dHBzPAL8obZkj"
+    },
+    {
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199360,
+      "name": "Papa Whisky November",
+      "url": "https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ"
+    },
+    {
+      "album": {
+        "name": "Butcherbird",
+        "url": "https://open.spotify.com/album/58QlinFcLAkRng01NJ5RYk"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142440,
+      "name": "Please Don't Forget Me",
+      "url": "https://open.spotify.com/track/4MXQODzOgncAf1nZ5ViEXH"
+    },
+    {
+      "album": {
+        "name": "The Big Red",
+        "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "Prairie Hotel Parachilna",
+      "url": "https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO"
+    },
+    {
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "Queensland Bungalow",
+      "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
+    },
+    {
+      "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "Raining on the Rock",
+      "url": "https://open.spotify.com/track/4RZXrZvFHCZY8BOQG2JzAK"
+    },
+    {
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182893,
+      "name": "Rip Rip Woodchip",
+      "url": "https://open.spotify.com/track/2b56dVNyNzRDP01lM3b8n0"
+    },
+    {
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 198240,
+      "name": "Sail the Nullarbor",
+      "url": "https://open.spotify.com/track/1ly3rS7ZDDSh8Fmk59Utbq"
+    },
+    {
+      "album": {
+        "name": "Boomerang Caf\u00e9",
+        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Sail the Nullarbor",
+      "url": "https://open.spotify.com/track/6f8fJZWKhNcWTU51MujI6f"
+    },
+    {
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 215520,
+      "name": "Salisbury Street",
+      "url": "https://open.spotify.com/track/78LUWt8uDvQZD0WjnEYuUF"
+    },
+    {
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171306,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/4OGlxdoxuVUIrYVUY6x3vs"
+    },
+    {
+      "album": {
+        "name": "The Big Red",
+        "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227146,
+      "name": "The Big Red",
+      "url": "https://open.spotify.com/track/6eUiyTK9pXGpekx53Ag5w7"
+    },
+    {
+      "album": {
+        "name": "Mulga to Mangoes",
+        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 199693,
+      "name": "The Farming Game",
+      "url": "https://open.spotify.com/track/5BqNSAK62LaKi1zshEZcqp"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/52HsOtg3ATx6ZDr8YNVLoO"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 176939,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/3aSBY4nOY4OsnI8tnfjLuR"
+    },
+    {
+      "album": {
+        "name": "Road Thru The Heart",
+        "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159773,
+      "name": "The Shed",
+      "url": "https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI"
+    },
+    {
+      "album": {
+        "name": "Boomerang Caf\u00e9",
+        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "The Truckies Wife",
+      "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
+    },
+    {
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "This Is Australia Calling",
+      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
+    },
+    {
+      "album": {
+        "name": "Those Fifty Years",
+        "url": "https://open.spotify.com/album/2GsqBaBzoi8KViq3dYA3PI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 114011,
+      "name": "Those Fifty Years",
+      "url": "https://open.spotify.com/track/7AZvZOOIuTVEU6BKceSkom"
+    },
+    {
+      "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189733,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
+    },
+    {
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "Three Sons",
+      "url": "https://open.spotify.com/track/3MHWH1UtxXtRyVm6m1DkNR"
+    },
+    {
+      "album": {
+        "name": "Old Man Emu",
+        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/2MGZFL6kqsXxXojlm64BUn"
+    },
+    {
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "Tubbo Station",
+      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
+    },
+    {
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242786,
+      "name": "Waltzing Matilda",
+      "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"
+    },
+    {
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "Waltzing Matilda 2000",
+      "url": "https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU"
+    },
+    {
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "Why They Call Him Sundown",
+      "url": "https://open.spotify.com/track/2biGoEHo1LIcddn2NeXvXm"
+    },
+    {
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158866,
+      "name": "Wobbly Boot Hotel",
+      "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
+    },
+    {
+      "album": {
+        "name": "Mates on the Road",
+        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169520,
+      "name": "You and My Guitar",
+      "url": "https://open.spotify.com/track/2PTMb71adWDRDJLv0JAjWj"
+    },
+    {
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 169520,
+      "name": "You and My Guitar",
+      "url": "https://open.spotify.com/track/3cRRh344Xx0FD1y7ZplP6Y"
+    },
+    {
+      "album": {
+        "name": "Family Album No.2",
+        "url": "https://open.spotify.com/album/0xuEMIv7f7oEMCtqM9Tgxu"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 200626,
+      "name": "You Come Back to Tassie",
+      "url": "https://open.spotify.com/track/1WzMWFopWcmhjCNr5eriDA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38AmhQ"
 }

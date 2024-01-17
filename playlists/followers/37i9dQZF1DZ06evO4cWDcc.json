@@ -1,423 +1,1371 @@
 {
-  "2022-11-05": 250125,
-  "2022-11-06": 250285,
-  "2022-11-07": 250419,
-  "2022-11-08": 250541,
-  "2022-11-09": 250699,
-  "2022-11-10": 250835,
-  "2022-11-11": 250986,
-  "2022-11-12": 251152,
-  "2022-11-13": 251304,
-  "2022-11-14": 251440,
-  "2022-11-15": 251554,
-  "2022-11-16": 251696,
-  "2022-11-17": 251821,
-  "2022-11-18": 251861,
-  "2022-11-19": 251900,
-  "2022-11-20": 252065,
-  "2022-11-21": 252227,
-  "2022-11-22": 252363,
-  "2022-11-23": 252518,
-  "2022-11-24": 252795,
-  "2022-11-25": 253031,
-  "2022-11-26": 253214,
-  "2022-11-27": 253437,
-  "2022-11-28": 253688,
-  "2022-11-29": 253905,
-  "2022-11-30": 254065,
-  "2022-12-01": 254257,
-  "2022-12-02": 254387,
-  "2022-12-03": 254645,
-  "2022-12-04": 254851,
-  "2022-12-05": 255051,
-  "2022-12-06": 255181,
-  "2022-12-07": 255337,
-  "2022-12-08": 255502,
-  "2022-12-09": 255662,
-  "2022-12-10": 255845,
-  "2022-12-11": 256010,
-  "2022-12-12": 256161,
-  "2022-12-13": 256273,
-  "2022-12-14": 256396,
-  "2022-12-15": 256534,
-  "2022-12-16": 256669,
-  "2022-12-17": 256829,
-  "2022-12-18": 257005,
-  "2022-12-19": 257111,
-  "2022-12-20": 257393,
-  "2022-12-21": 257393,
-  "2022-12-22": 257546,
-  "2022-12-24": 257839,
-  "2022-12-25": 257994,
-  "2022-12-26": 258150,
-  "2022-12-27": 258266,
-  "2022-12-28": 258473,
-  "2022-12-29": 258636,
-  "2022-12-30": 258808,
-  "2022-12-31": 258984,
-  "2023-01-01": 259156,
-  "2023-01-02": 259280,
-  "2023-01-03": 259448,
-  "2023-01-04": 259565,
-  "2023-01-05": 259738,
-  "2023-01-06": 259921,
-  "2023-01-07": 260171,
-  "2023-01-08": 260213,
-  "2023-01-09": 260370,
-  "2023-01-10": 260521,
-  "2023-01-11": 260698,
-  "2023-01-12": 260885,
-  "2023-01-13": 261059,
-  "2023-01-14": 261362,
-  "2023-01-15": 261411,
-  "2023-01-16": 261593,
-  "2023-01-17": 261768,
-  "2023-01-18": 261929,
-  "2023-01-19": 262105,
-  "2023-01-20": 262269,
-  "2023-01-21": 262461,
-  "2023-01-22": 262657,
-  "2023-01-23": 262849,
-  "2023-01-24": 263020,
-  "2023-01-25": 263165,
-  "2023-01-26": 263310,
-  "2023-01-27": 263463,
-  "2023-01-28": 263642,
-  "2023-01-29": 263818,
-  "2023-01-30": 263974,
-  "2023-01-31": 263974,
-  "2023-02-01": 264289,
-  "2023-02-02": 264434,
-  "2023-02-03": 264604,
-  "2023-02-04": 264739,
-  "2023-02-05": 264904,
-  "2023-02-06": 265077,
-  "2023-02-07": 265245,
-  "2023-02-08": 265565,
-  "2023-02-09": 265565,
-  "2023-02-10": 265741,
-  "2023-02-11": 265903,
-  "2023-02-12": 266202,
-  "2023-02-13": 266315,
-  "2023-02-14": 266315,
-  "2023-02-15": 266438,
-  "2023-02-16": 266560,
-  "2023-02-17": 266710,
-  "2023-02-18": 267041,
-  "2023-02-19": 267068,
-  "2023-02-20": 267212,
-  "2023-02-21": 267352,
-  "2023-02-22": 267495,
-  "2023-02-23": 267631,
-  "2023-02-24": 267807,
-  "2023-02-25": 267995,
-  "2023-02-26": 268148,
-  "2023-02-27": 268446,
-  "2023-02-28": 268446,
-  "2023-03-01": 268595,
-  "2023-03-02": 268755,
-  "2023-03-03": 268947,
-  "2023-03-04": 269076,
-  "2023-03-05": 269421,
-  "2023-03-06": 269421,
-  "2023-03-07": 269580,
-  "2023-03-08": 269714,
-  "2023-03-09": 269826,
-  "2023-03-10": 270012,
-  "2023-03-11": 270189,
-  "2023-03-12": 270345,
-  "2023-03-13": 270484,
-  "2023-03-14": 270643,
-  "2023-03-15": 270808,
-  "2023-03-16": 270808,
-  "2023-03-17": 270808,
-  "2023-03-18": 271235,
-  "2023-03-19": 271235,
-  "2023-03-20": 271570,
-  "2023-03-21": 271707,
-  "2023-03-22": 271872,
-  "2023-03-23": 272007,
-  "2023-03-24": 272007,
-  "2023-03-25": 272350,
-  "2023-03-26": 272520,
-  "2023-03-27": 272727,
-  "2023-03-28": 272854,
-  "2023-03-29": 272983,
-  "2023-03-30": 273243,
-  "2023-03-31": 273243,
-  "2023-04-01": 273395,
-  "2023-04-02": 273553,
-  "2023-04-03": 273694,
-  "2023-04-04": 273848,
-  "2023-04-05": 273991,
-  "2023-04-06": 274154,
-  "2023-04-07": 274298,
-  "2023-04-09": 274607,
-  "2023-04-10": 274758,
-  "2023-04-11": 275031,
-  "2023-04-12": 275031,
-  "2023-04-13": 275168,
-  "2023-04-14": 275306,
-  "2023-04-15": 275469,
-  "2023-04-16": 275613,
-  "2023-04-17": 275777,
-  "2023-04-18": 275879,
-  "2023-04-19": 275998,
-  "2023-04-20": 276140,
-  "2023-04-21": 276274,
-  "2023-04-22": 276416,
-  "2023-04-23": 276577,
-  "2023-04-24": 276750,
-  "2023-04-25": 276863,
-  "2023-04-26": 277003,
-  "2023-04-27": 277129,
-  "2023-04-28": 277282,
-  "2023-04-29": 277413,
-  "2023-04-30": 277590,
-  "2023-05-01": 277731,
-  "2023-05-02": 277874,
-  "2023-05-03": 277999,
-  "2023-05-04": 278153,
-  "2023-05-05": 278279,
-  "2023-05-06": 278419,
-  "2023-05-07": 278599,
-  "2023-05-08": 278725,
-  "2023-05-09": 278863,
-  "2023-05-10": 278982,
-  "2023-05-11": 279121,
-  "2023-05-12": 279284,
-  "2023-05-13": 279441,
-  "2023-05-14": 279605,
-  "2023-05-15": 279747,
-  "2023-05-16": 279880,
-  "2023-05-17": 280041,
-  "2023-05-18": 280182,
-  "2023-05-19": 280346,
-  "2023-05-20": 280684,
-  "2023-05-21": 280684,
-  "2023-05-22": 280684,
-  "2023-05-23": 280970,
-  "2023-05-24": 281201,
-  "2023-05-25": 281239,
-  "2023-05-26": 281368,
-  "2023-05-27": 281517,
-  "2023-05-28": 281686,
-  "2023-05-29": 281686,
-  "2023-05-30": 281922,
-  "2023-05-31": 282060,
-  "2023-06-01": 282192,
-  "2023-06-02": 282335,
-  "2023-06-03": 282495,
-  "2023-06-04": 282653,
-  "2023-06-05": 282786,
-  "2023-06-06": 282901,
-  "2023-06-07": 283015,
-  "2023-06-08": 283159,
-  "2023-06-09": 283300,
-  "2023-06-10": 283375,
-  "2023-06-11": 283448,
-  "2023-06-12": 283540,
-  "2023-06-13": 283613,
-  "2023-06-14": 283662,
-  "2023-06-15": 283752,
-  "2023-06-16": 283856,
-  "2023-06-17": 283956,
-  "2023-06-18": 284051,
-  "2023-06-19": 284116,
-  "2023-06-20": 284178,
-  "2023-06-21": 284254,
-  "2023-06-22": 284309,
-  "2023-06-23": 284398,
-  "2023-06-24": 284473,
-  "2023-06-25": 284592,
-  "2023-06-26": 284641,
-  "2023-06-27": 284727,
-  "2023-06-28": 284813,
-  "2023-06-29": 284885,
-  "2023-06-30": 284970,
-  "2023-07-01": 285161,
-  "2023-07-02": 285161,
-  "2023-07-03": 285266,
-  "2023-07-04": 285342,
-  "2023-07-05": 285411,
-  "2023-07-06": 285579,
-  "2023-07-07": 285579,
-  "2023-07-08": 285579,
-  "2023-07-09": 285719,
-  "2023-07-10": 285787,
-  "2023-07-11": 285868,
-  "2023-07-12": 285945,
-  "2023-07-13": 286015,
-  "2023-07-14": 286115,
-  "2023-07-15": 286187,
-  "2023-07-16": 286285,
-  "2023-07-17": 286369,
-  "2023-07-18": 286439,
-  "2023-07-19": 286510,
-  "2023-07-20": 286510,
-  "2023-07-21": 286672,
-  "2023-07-22": 286722,
-  "2023-07-23": 286814,
-  "2023-07-24": 286889,
-  "2023-07-25": 286961,
-  "2023-07-26": 287026,
-  "2023-07-27": 287115,
-  "2023-07-28": 287115,
-  "2023-07-29": 287290,
-  "2023-07-30": 287290,
-  "2023-07-31": 287442,
-  "2023-08-01": 287503,
-  "2023-08-02": 287598,
-  "2023-08-03": 287659,
-  "2023-08-04": 287749,
-  "2023-08-05": 287812,
-  "2023-08-06": 287979,
-  "2023-08-07": 287979,
-  "2023-08-08": 288068,
-  "2023-08-09": 288138,
-  "2023-08-10": 288208,
-  "2023-08-11": 288303,
-  "2023-08-12": 288303,
-  "2023-08-13": 288303,
-  "2023-08-14": 288303,
-  "2023-08-15": 288303,
-  "2023-08-16": 288303,
-  "2023-08-17": 288303,
-  "2023-08-18": 288303,
-  "2023-08-19": 288303,
-  "2023-08-20": 289038,
-  "2023-08-21": 289038,
-  "2023-08-22": 289190,
-  "2023-08-23": 289190,
-  "2023-08-24": 289190,
-  "2023-08-25": 289190,
-  "2023-08-26": 289524,
-  "2023-08-27": 289524,
-  "2023-08-28": 289658,
-  "2023-08-29": 289658,
-  "2023-08-30": 289658,
-  "2023-08-31": 289850,
-  "2023-09-01": 289920,
-  "2023-09-02": 289920,
-  "2023-09-03": 289920,
-  "2023-09-04": 289920,
-  "2023-09-05": 289920,
-  "2023-09-06": 289920,
-  "2023-09-07": 289920,
-  "2023-09-08": 289920,
-  "2023-09-09": 289920,
-  "2023-09-10": 289920,
-  "2023-09-11": 289920,
-  "2023-09-12": 289920,
-  "2023-09-13": 289920,
-  "2023-09-14": 289920,
-  "2023-09-15": 289920,
-  "2023-09-16": 289920,
-  "2023-09-17": 289920,
-  "2023-09-18": 289920,
-  "2023-09-19": 289920,
-  "2023-09-20": 289920,
-  "2023-09-21": 289920,
-  "2023-09-22": 291534,
-  "2023-09-23": 291534,
-  "2023-09-24": 291534,
-  "2023-09-25": 291534,
-  "2023-09-26": 291822,
-  "2023-09-27": 291822,
-  "2023-09-28": 291822,
-  "2023-09-29": 291822,
-  "2023-09-30": 291822,
-  "2023-10-01": 291822,
-  "2023-10-02": 291822,
-  "2023-10-03": 291822,
-  "2023-10-04": 291822,
-  "2023-10-05": 291822,
-  "2023-10-06": 291822,
-  "2023-10-07": 291822,
-  "2023-10-08": 291822,
-  "2023-10-09": 291822,
-  "2023-10-10": 291822,
-  "2023-10-11": 291822,
-  "2023-10-12": 291822,
-  "2023-10-13": 291822,
-  "2023-10-14": 291822,
-  "2023-10-15": 291822,
-  "2023-10-16": 291822,
-  "2023-10-17": 291822,
-  "2023-10-18": 291822,
-  "2023-10-19": 291822,
-  "2023-10-20": 291822,
-  "2023-10-21": 291822,
-  "2023-10-22": 291822,
-  "2023-10-23": 291822,
-  "2023-10-24": 291822,
-  "2023-10-25": 291822,
-  "2023-10-26": 291822,
-  "2023-10-27": 291822,
-  "2023-10-28": 291822,
-  "2023-10-29": 291822,
-  "2023-10-30": 291822,
-  "2023-10-31": 291822,
-  "2023-11-01": 291822,
-  "2023-11-02": 291822,
-  "2023-11-03": 291822,
-  "2023-11-04": 291822,
-  "2023-11-05": 291822,
-  "2023-11-06": 291822,
-  "2023-11-07": 291822,
-  "2023-11-08": 291822,
-  "2023-11-09": 291822,
-  "2023-11-10": 291822,
-  "2023-11-11": 294532,
-  "2023-11-12": 294532,
-  "2023-11-13": 294532,
-  "2023-11-14": 294532,
-  "2023-11-15": 294532,
-  "2023-11-16": 294532,
-  "2023-11-17": 294532,
-  "2023-11-18": 294532,
-  "2023-11-19": 294532,
-  "2023-11-20": 294532,
-  "2023-11-21": 294532,
-  "2023-11-22": 294532,
-  "2023-11-23": 294532,
-  "2023-11-24": 294532,
-  "2023-11-25": 294532,
-  "2023-11-26": 294532,
-  "2023-11-27": 294532,
-  "2023-11-28": 294532,
-  "2023-11-29": 294532,
-  "2023-11-30": 294532,
-  "2023-12-01": 294532,
-  "2023-12-02": 294532,
-  "2023-12-03": 294532,
-  "2023-12-04": 294532,
-  "2023-12-05": 294532,
-  "2023-12-06": 294532,
-  "2023-12-07": 294532,
-  "2023-12-08": 294532,
-  "2023-12-09": 294532,
-  "2023-12-10": 294532,
-  "2023-12-11": 294532,
-  "2023-12-12": 294532,
-  "2023-12-13": 294532,
-  "2023-12-14": 296475,
-  "2023-12-15": 296535,
-  "2023-12-16": 296583,
-  "2023-12-17": 296642,
-  "2023-12-18": 296694,
-  "2023-12-19": 296731,
-  "2023-12-20": 296798,
-  "2023-12-21": 296860,
-  "2023-12-22": 296920,
-  "2023-12-23": 296993,
-  "2023-12-24": 297047,
-  "2023-12-25": 297094,
-  "2023-12-26": 297154,
-  "2023-12-27": 297219,
-  "2023-12-30": 297440,
-  "2023-12-31": 297488,
-  "2024-01-01": 297539,
-  "2024-01-02": 297570,
-  "2024-01-03": 297612
+  "2024-01-17": 298224,
+  "date_first_scraped": "2022-11-05",
+  "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
+  "name": "This Is Jimi Hendrix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 108373,
+      "name": "Ain't No Telling",
+      "url": "https://open.spotify.com/track/1ToNKcpVRTxzAgRiywifMt"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 265813,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263947,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17"
+    },
+    {
+      "album": {
+        "name": "Songs For Groovy Children: The Fillmore East Concerts",
+        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Auld Lang Syne - Live at the Fillmore East, NY - 12/31/69 - 2nd Set",
+      "url": "https://open.spotify.com/track/3AqVSxLsEpGtg1NbqOiid9"
+    },
+    {
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
+    },
+    {
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251013,
+      "name": "Bold as Love",
+      "url": "https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457600,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 219613,
+      "name": "Burning of the Midnight Lamp",
+      "url": "https://open.spotify.com/track/36SULeBeglappJysOY6WzQ"
+    },
+    {
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168920,
+      "name": "Castles Made of Sand",
+      "url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467426,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
+    },
+    {
+      "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 493400,
+      "name": "Catfish Blues - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1"
+    },
+    {
+      "album": {
+        "name": "Live In Maui",
+        "url": "https://open.spotify.com/album/0LfCx4srto1jxBVvW4uqJy"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 106840,
+      "name": "Chuck Wein Introduction - Live In Maui, 1970",
+      "url": "https://open.spotify.com/track/6ZmOfbPSylxWUv1M9lpBgS"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249373,
+      "name": "Come On (Let the Good Times Roll)",
+      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146573,
+      "name": "Crosstown Traffic",
+      "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
+    },
+    {
+      "album": {
+        "name": "BBC Sessions",
+        "url": "https://open.spotify.com/album/3DnRgUY7EP00cklj0vGiVv"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204840,
+      "name": "Day Tripper - BBC Sessions",
+      "url": "https://open.spotify.com/track/3UweOS7TngjWWQsdh9uKfb"
+    },
+    {
+      "album": {
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284333,
+      "name": "Dolly Dagger",
+      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
+    },
+    {
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 285386,
+      "name": "Dolly Dagger",
+      "url": "https://open.spotify.com/track/417qXCSHPqUYQHyPbRTpM2"
+    },
+    {
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+    },
+    {
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Earth Blues",
+      "url": "https://open.spotify.com/track/7aAholeRCIGZD1QhHYKDDq"
+    },
+    {
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Ezy Ryder",
+      "url": "https://open.spotify.com/track/11t59LqOhOEG40yqALXZon"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
+    },
+    {
+      "album": {
+        "name": "You Can't Use My Name (feat. Jimi Hendrix)",
+        "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
+      },
+      "artists": [
+        {
+          "name": "Curtis Knight & The Squires",
+          "url": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
+        },
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Fool for You Baby (feat. Jimi Hendrix)",
+      "url": "https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "Foxey Lady",
+      "url": "https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B"
+    },
+    {
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO"
+    },
+    {
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475373,
+      "name": "Georgia Blues",
+      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223680,
+      "name": "Gypsy Eyes",
+      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130039,
+      "name": "Have You Ever Been (To Electric Ladyland)",
+      "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
+    },
+    {
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341800,
+      "name": "Hear My Train a Comin'",
+      "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
+    },
+    {
+      "album": {
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364626,
+      "name": "Hey Baby (New Rising Sun)",
+      "url": "https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm"
+    },
+    {
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219573,
+      "name": "Hey Gypsy Boy",
+      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+    },
+    {
+      "album": {
+        "name": "I Don't Live Today (Live at the Los Angeles Forum, Inglewood, CA - April 26, 1969)",
+        "url": "https://open.spotify.com/album/02SkmcP563zdlqptvIA9NX"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 427786,
+      "name": "I Don't Live Today - Live at the Los Angeles Forum, Inglewood, CA - April 26, 1969",
+      "url": "https://open.spotify.com/track/0JIcu18BdmFKFB2Aek4oWu"
+    },
+    {
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 334520,
+      "name": "If 6 Was 9",
+      "url": "https://open.spotify.com/track/0J3CHAStO3pNGTnYnxKZod"
+    },
+    {
+      "album": {
+        "name": "Live In Maui",
+        "url": "https://open.spotify.com/album/0LfCx4srto1jxBVvW4uqJy"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 265800,
+      "name": "In From the Storm - Live In Maui, 1970",
+      "url": "https://open.spotify.com/track/4T63pVTfnB0yqYCxBeNes0"
+    },
+    {
+      "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58253,
+      "name": "Introduction - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ"
+    },
+    {
+      "album": {
+        "name": "Los Angeles Forum - April 26, 1969 (Live)",
+        "url": "https://open.spotify.com/album/2UjqG36E2iVJ14XiJXL7jT"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 147226,
+      "name": "Introduction - Live at the Los Angeles Forum, Inglewood, CA - April 26, 1969",
+      "url": "https://open.spotify.com/track/2K8x0Nf3AnhDjx9899Bl4Y"
+    },
+    {
+      "album": {
+        "name": "Songs For Groovy Children: The Fillmore East Concerts",
+        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 208520,
+      "name": "Izabella - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
+      "url": "https://open.spotify.com/track/4qCjs9O9rjhe8YIQgiIswu"
+    },
+    {
+      "album": {
+        "name": "Hendrix In The West",
+        "url": "https://open.spotify.com/album/0C9zGX5oAjQ87jkSlzXOz1"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 283786,
+      "name": "Johnny B. Goode - Live Berkeley Community Center, Berkeley, CA May 30, 1970",
+      "url": "https://open.spotify.com/track/2Evi89iMO3vQMsGPMuSwhx"
+    },
+    {
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208120,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/4f5nUYzeUioPwNbz2mGx5S"
+    },
+    {
+      "album": {
+        "name": "Live At Monterey",
+        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 194653,
+      "name": "Killing Floor - Live At Monterey",
+      "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
+    },
+    {
+      "album": {
+        "name": "Killing Floor (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
+        "url": "https://open.spotify.com/album/2WI9lpUoCz2iXHWfrv2O2q"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223616,
+      "name": "Killing Floor - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/7JAjSAKtzRgfiYnnOyAaWH"
+    },
+    {
+      "album": {
+        "name": "Live At Monterey",
+        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426613,
+      "name": "Like A Rolling Stone - Live At Monterey",
+      "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
+    },
+    {
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 141453,
+      "name": "Little Miss Lover",
+      "url": "https://open.spotify.com/track/4pvY1WQBeAgPGMnWglrWY4"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 172200,
+      "name": "Little Miss Strange",
+      "url": "https://open.spotify.com/track/1jhH7vvy8hoHuc0mGuZsLX"
+    },
+    {
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145746,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 207760,
+      "name": "Long Hot Summer Night",
+      "url": "https://open.spotify.com/track/1HFj7yC7uZfqjWuoH6DO9r"
+    },
+    {
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU"
+    },
+    {
+      "album": {
+        "name": "Songs For Groovy Children: The Fillmore East Concerts",
+        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533680,
+      "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
+      "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
+    },
+    {
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301520,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
+    },
+    {
+      "album": {
+        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 145146,
+      "name": "Mercy, Mercy - Single/LP Version",
+      "url": "https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P"
+    },
+    {
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277346,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/065DgHzdiTnwiwEEBHFrIN"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469600,
+      "name": "Once I Had a Woman",
+      "url": "https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM"
+    },
+    {
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "One Rainy Wish",
+      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
+    },
+    {
+      "album": {
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307453,
+      "name": "Pali Gap",
+      "url": "https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID"
+    },
+    {
+      "album": {
+        "name": "Songs For Groovy Children: The Fillmore East Concerts",
+        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 330133,
+      "name": "Power of Soul - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
+      "url": "https://open.spotify.com/track/1xdaiO16taT9WMES2GeQCW"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170813,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222066,
+      "name": "Rainy Day, Dream Away",
+      "url": "https://open.spotify.com/track/0xwG5stzrc5B70TycPwenY"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR"
+    },
+    {
+      "album": {
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 215133,
+      "name": "Room Full of Mirrors",
+      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
+    },
+    {
+      "album": {
+        "name": "The Jimi Hendrix Experience (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/1tNYWgvzsqA4OqNDX9Qhoq"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 111173,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band (Live in Stockholm, Sweden, September 5, 1967)",
+      "url": "https://open.spotify.com/track/5zOiE2wgEC6Q4WSGjKMbv5"
+    },
+    {
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967)",
+        "url": "https://open.spotify.com/album/6XW3aKGGCReIq2NIhTJRq8"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100618,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/2kwUETBvq1zr0HpUsM2B3n"
+    },
+    {
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k"
+    },
+    {
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Spanish Castle Magic",
+      "url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
+    },
+    {
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 226586,
+      "name": "Star Spangled Banner - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/5nJ9WqiiVz9Rz6a2xLhHlZ"
+    },
+    {
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Sweet Angel",
+      "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
+    },
+    {
+      "album": {
+        "name": "Los Angeles Forum - April 26, 1969 (Live)",
+        "url": "https://open.spotify.com/album/2UjqG36E2iVJ14XiJXL7jT"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 934026,
+      "name": "Tax Free - Live at the Los Angeles Forum, Inglewood, CA - April 26, 1969",
+      "url": "https://open.spotify.com/track/6aafnoN8DyLju1SVjN3YVH"
+    },
+    {
+      "album": {
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 42906,
+      "name": "The Star Spangled Banner - Woodstock Festival Excerpt",
+      "url": "https://open.spotify.com/track/57im5UyAqXFTO6IfbjDOnx"
+    },
+    {
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "The Wind Cries Mary",
+      "url": "https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"
+    },
+    {
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "Things I Used to Do",
+      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
+    },
+    {
+      "album": {
+        "name": "Valleys Of Neptune",
+        "url": "https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "Valleys of Neptune",
+      "url": "https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528133,
+      "name": "Voodoo Chile Blues",
+      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
+    },
+    {
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182546,
+      "name": "Wait Until Tomorrow",
+      "url": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"
+    },
+    {
+      "album": {
+        "name": "Band Of Gypsys (50th Anniversary / Live)",
+        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576360,
+      "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
+      "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cWDcc"
 }

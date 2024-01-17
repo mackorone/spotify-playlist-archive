@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the The Escape of the Seven\. \(7인의 탈출의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-32 songs - 1 hr 37 min
+34 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,13 @@
 | [Fire!](https://open.spotify.com/track/3KxwePed3M2ItHEyxI59Gt) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:15 | 2023-10-21 |  |
 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 | 2023-10-21 |  |
 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 | 2023-10-21 |  |
-| [Lonely Sailing](https://open.spotify.com/track/60HW5OezE9PdVounCVzOrY) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [The World of the Married, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2NQlkVEtbwLnNr8XfaSAvD) | 4:41 | 2023-10-21 |  |
+| [Lonely Sailing](https://open.spotify.com/track/0SUH0PR74mpBLTXOoPQcSg) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [The World of the Married, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3wt72mNGlmx3PFSuzizGC2) | 4:41 | 2023-10-22 |  |
+| [Lonely Sailing](https://open.spotify.com/track/60HW5OezE9PdVounCVzOrY) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [The World of the Married, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2NQlkVEtbwLnNr8XfaSAvD) | 4:41 | 2023-10-21 | 2024-01-10 |
 | [Long Black Night](https://open.spotify.com/track/0oi3D2PxgQMZIPUoIJw3It) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [The Glory, Pt\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0OR9LHwVKfeRjkHxcDm1mc) | 4:09 | 2023-10-21 |  |
 | [Losing Her Heart to a Fake](https://open.spotify.com/track/6TqMHhBiuFUl5XJDLNYzJE) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:19 | 2023-10-21 |  |
 | [Prelude To The Glory](https://open.spotify.com/track/4FQQun1A4LoltKWawFzmht) | [Jung Se Rin](https://open.spotify.com/artist/1ueh3BEkIrO9i87v8Ymr5e) | [The Glory, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bt1BOedK4Rmq0FgNKLPux) | 4:34 | 2023-10-21 |  |
-| [Sad](https://open.spotify.com/track/5GCgK80s9iTYIguVt8AAso) | [Sonnet Son](https://open.spotify.com/artist/1Dq0pavG6AfUkfbYmRRBjC) | [The World of the Married, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1gP5RgwQ47g8d1KrAsKnSS) | 3:36 | 2023-10-21 |  |
+| [Sad](https://open.spotify.com/track/4vTIBbi4V4l0XCWp07LEDX) | [Sonnet Son](https://open.spotify.com/artist/1Dq0pavG6AfUkfbYmRRBjC) | [The World of the Married, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6F5cFF1b5zgSYzHYQZYl7I) | 3:36 | 2023-10-22 |  |
+| [Sad](https://open.spotify.com/track/5GCgK80s9iTYIguVt8AAso) | [Sonnet Son](https://open.spotify.com/artist/1Dq0pavG6AfUkfbYmRRBjC) | [The World of the Married, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1gP5RgwQ47g8d1KrAsKnSS) | 3:36 | 2023-10-21 | 2024-01-11 |
 | [Sunset Kiss](https://open.spotify.com/track/5uAPDJnAl6Iide6UfzXZ3J) | [MONE](https://open.spotify.com/artist/2XJnHK08g01FSgC9xavdwo) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 | 2023-10-22 |  |
 | [Sunset Kiss \(Inst.\)](https://open.spotify.com/track/3msC9dJ6Jec8iQsHSJ4FPr) | [MONE](https://open.spotify.com/artist/2XJnHK08g01FSgC9xavdwo) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:06 | 2023-10-22 |  |
 | [Sunset Kiss \(Pool Party Ver.\)](https://open.spotify.com/track/5o10SzMQAeOsImjqzs8Byl) | [MONE](https://open.spotify.com/artist/2XJnHK08g01FSgC9xavdwo) | [The Escape of the Seven OST Special Track](https://open.spotify.com/album/5JZyqZsqZmuYo7fnwMAnDZ) | 3:14 | 2023-10-22 |  |

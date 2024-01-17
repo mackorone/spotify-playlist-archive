@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 
 > All E.L.F's go to playlist! Check out SUPER JUNIOR: THE LAST MAN STANDING on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,072 likes - 138 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,629 likes - 138 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

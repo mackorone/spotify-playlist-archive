@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【セットリスト公開】5/20\(土\)・21\(日\)、神戸メリケンパークにて開催される都市型音楽フェス<a href="https://kobe\-mellow\-cruise.com/">「KOBE MELLOW CRUISE」</a>の出演アーティストをピックアップ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,330 likes - 228 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,338 likes - 228 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

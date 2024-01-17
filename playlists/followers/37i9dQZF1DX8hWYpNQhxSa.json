@@ -1,569 +1,2997 @@
 {
-  "2022-06-10": 22026,
-  "2022-06-11": 22411,
-  "2022-06-12": 22821,
-  "2022-06-13": 23289,
-  "2022-06-14": 23684,
-  "2022-06-15": 24088,
-  "2022-06-16": 24448,
-  "2022-06-17": 24797,
-  "2022-06-18": 25138,
-  "2022-06-19": 25978,
-  "2022-06-20": 25978,
-  "2022-06-21": 26304,
-  "2022-06-22": 26973,
-  "2022-06-23": 26973,
-  "2022-06-24": 27272,
-  "2022-06-25": 27615,
-  "2022-06-26": 28008,
-  "2022-06-27": 28578,
-  "2022-06-28": 29073,
-  "2022-06-29": 29560,
-  "2022-06-30": 30079,
-  "2022-07-01": 30419,
-  "2022-07-02": 30666,
-  "2022-07-03": 30900,
-  "2022-07-04": 31119,
-  "2022-07-05": 31326,
-  "2022-07-06": 31565,
-  "2022-07-07": 31783,
-  "2022-07-08": 32002,
-  "2022-07-09": 32168,
-  "2022-07-10": 32365,
-  "2022-07-11": 32605,
-  "2022-07-12": 32772,
-  "2022-07-13": 32936,
-  "2022-07-14": 33103,
-  "2022-07-15": 33281,
-  "2022-07-16": 33446,
-  "2022-07-17": 33638,
-  "2022-07-18": 33829,
-  "2022-07-19": 33989,
-  "2022-07-20": 34135,
-  "2022-07-21": 34321,
-  "2022-07-22": 34456,
-  "2022-07-23": 34625,
-  "2022-07-24": 34782,
-  "2022-07-25": 34959,
-  "2022-07-26": 35091,
-  "2022-07-27": 35241,
-  "2022-07-28": 35389,
-  "2022-07-29": 35517,
-  "2022-07-30": 35805,
-  "2022-07-31": 35805,
-  "2022-08-01": 35970,
-  "2022-08-02": 36227,
-  "2022-08-03": 36227,
-  "2022-08-04": 36351,
-  "2022-08-05": 36473,
-  "2022-08-06": 36574,
-  "2022-08-07": 36694,
-  "2022-08-08": 36819,
-  "2022-08-09": 36931,
-  "2022-08-10": 37030,
-  "2022-08-11": 37142,
-  "2022-08-12": 37266,
-  "2022-08-13": 37362,
-  "2022-08-14": 37483,
-  "2022-08-15": 37634,
-  "2022-08-16": 37740,
-  "2022-08-17": 37846,
-  "2022-08-18": 37922,
-  "2022-08-19": 38007,
-  "2022-08-20": 38084,
-  "2022-08-21": 38194,
-  "2022-08-22": 38277,
-  "2022-08-23": 38376,
-  "2022-08-24": 38476,
-  "2022-08-25": 38575,
-  "2022-08-26": 38653,
-  "2022-08-27": 38733,
-  "2022-08-28": 38840,
-  "2022-08-29": 38940,
-  "2022-08-30": 39000,
-  "2022-08-31": 39087,
-  "2022-09-01": 39172,
-  "2022-09-02": 39262,
-  "2022-09-03": 39330,
-  "2022-09-04": 39413,
-  "2022-09-05": 39517,
-  "2022-09-06": 39595,
-  "2022-09-07": 39680,
-  "2022-09-09": 39808,
-  "2022-09-10": 39884,
-  "2022-09-11": 39984,
-  "2022-09-12": 40058,
-  "2022-09-13": 40141,
-  "2022-09-15": 40248,
-  "2022-09-16": 40310,
-  "2022-09-17": 40396,
-  "2022-09-18": 40484,
-  "2022-09-19": 40581,
-  "2022-09-20": 40648,
-  "2022-09-21": 40712,
-  "2022-09-22": 40758,
-  "2022-09-23": 40828,
-  "2022-09-24": 40914,
-  "2022-09-25": 41006,
-  "2022-09-26": 41092,
-  "2022-09-27": 41165,
-  "2022-09-28": 41245,
-  "2022-09-29": 41350,
-  "2022-09-30": 41461,
-  "2022-10-01": 41617,
-  "2022-10-02": 42051,
-  "2022-10-03": 42745,
-  "2022-10-04": 43223,
-  "2022-10-05": 43589,
-  "2022-10-06": 43885,
-  "2022-10-07": 44119,
-  "2022-10-08": 44340,
-  "2022-10-09": 44936,
-  "2022-10-10": 44990,
-  "2022-10-11": 45317,
-  "2022-10-12": 45513,
-  "2022-10-13": 45767,
-  "2022-10-14": 45982,
-  "2022-10-15": 46181,
-  "2022-10-16": 46505,
-  "2022-10-17": 46842,
-  "2022-10-18": 47113,
-  "2022-10-19": 47267,
-  "2022-10-20": 47449,
-  "2022-10-21": 47619,
-  "2022-10-22": 47788,
-  "2022-10-23": 48009,
-  "2022-10-24": 48233,
-  "2022-10-25": 48422,
-  "2022-10-26": 48596,
-  "2022-10-27": 48747,
-  "2022-10-28": 48888,
-  "2022-10-29": 49070,
-  "2022-10-30": 49270,
-  "2022-10-31": 49502,
-  "2022-11-01": 49652,
-  "2022-11-02": 49826,
-  "2022-11-03": 49970,
-  "2022-11-04": 50168,
-  "2022-11-05": 50321,
-  "2022-11-06": 50497,
-  "2022-11-07": 50719,
-  "2022-11-08": 50880,
-  "2022-11-09": 51023,
-  "2022-11-10": 51166,
-  "2022-11-11": 51307,
-  "2022-11-12": 51478,
-  "2022-11-13": 51606,
-  "2022-11-14": 51836,
-  "2022-11-15": 52021,
-  "2022-11-16": 52175,
-  "2022-11-17": 52338,
-  "2022-11-18": 52405,
-  "2022-11-19": 52433,
-  "2022-11-20": 52548,
-  "2022-11-21": 52711,
-  "2022-11-22": 52898,
-  "2022-11-23": 53064,
-  "2022-11-24": 53349,
-  "2022-11-25": 53562,
-  "2022-11-26": 53706,
-  "2022-11-27": 53924,
-  "2022-11-28": 54121,
-  "2022-11-29": 54289,
-  "2022-11-30": 54475,
-  "2022-12-01": 54669,
-  "2022-12-02": 54770,
-  "2022-12-03": 55002,
-  "2022-12-04": 55167,
-  "2022-12-05": 55368,
-  "2022-12-06": 55487,
-  "2022-12-07": 55630,
-  "2022-12-08": 55753,
-  "2022-12-09": 55881,
-  "2022-12-10": 56021,
-  "2022-12-11": 56167,
-  "2022-12-12": 56341,
-  "2022-12-13": 56489,
-  "2022-12-14": 56607,
-  "2022-12-15": 56734,
-  "2022-12-16": 56873,
-  "2022-12-17": 57016,
-  "2022-12-18": 57184,
-  "2022-12-19": 57393,
-  "2022-12-20": 57734,
-  "2022-12-21": 57734,
-  "2022-12-22": 57945,
-  "2022-12-24": 58297,
-  "2022-12-25": 58462,
-  "2022-12-26": 58671,
-  "2022-12-27": 58856,
-  "2022-12-28": 59040,
-  "2022-12-29": 59229,
-  "2022-12-30": 59382,
-  "2022-12-31": 59542,
-  "2023-01-01": 59693,
-  "2023-01-02": 59830,
-  "2023-01-03": 59980,
-  "2023-01-04": 60090,
-  "2023-01-05": 60220,
-  "2023-01-06": 60386,
-  "2023-01-07": 60594,
-  "2023-01-08": 60607,
-  "2023-01-09": 60782,
-  "2023-01-10": 60907,
-  "2023-01-11": 60985,
-  "2023-01-12": 61095,
-  "2023-01-13": 61220,
-  "2023-01-14": 61444,
-  "2023-01-15": 61463,
-  "2023-01-16": 61565,
-  "2023-01-17": 61627,
-  "2023-01-18": 61697,
-  "2023-01-19": 61761,
-  "2023-01-20": 61861,
-  "2023-01-21": 61959,
-  "2023-01-22": 62052,
-  "2023-01-23": 62149,
-  "2023-01-24": 62240,
-  "2023-01-25": 62316,
-  "2023-01-26": 62402,
-  "2023-01-27": 62486,
-  "2023-01-28": 62587,
-  "2023-01-29": 62667,
-  "2023-01-30": 62720,
-  "2023-01-31": 62720,
-  "2023-02-01": 62870,
-  "2023-02-02": 62921,
-  "2023-02-03": 62990,
-  "2023-02-04": 63093,
-  "2023-02-05": 63207,
-  "2023-02-06": 63291,
-  "2023-02-07": 63364,
-  "2023-02-08": 63486,
-  "2023-02-09": 63486,
-  "2023-02-10": 63582,
-  "2023-02-11": 63655,
-  "2023-02-12": 63880,
-  "2023-02-13": 63940,
-  "2023-02-14": 63940,
-  "2023-02-15": 64012,
-  "2023-02-16": 64079,
-  "2023-02-17": 64138,
-  "2023-02-18": 64251,
-  "2023-02-19": 64265,
-  "2023-02-20": 64323,
-  "2023-02-21": 64407,
-  "2023-02-22": 64469,
-  "2023-02-23": 64512,
-  "2023-02-24": 64560,
-  "2023-02-25": 64647,
-  "2023-02-26": 64682,
-  "2023-02-27": 64827,
-  "2023-02-28": 64827,
-  "2023-03-01": 64901,
-  "2023-03-02": 64962,
-  "2023-03-03": 65023,
-  "2023-03-04": 65063,
-  "2023-03-05": 65214,
-  "2023-03-06": 65214,
-  "2023-03-07": 65259,
-  "2023-03-08": 65314,
-  "2023-03-09": 65354,
-  "2023-03-10": 65418,
-  "2023-03-11": 65460,
-  "2023-03-12": 65535,
-  "2023-03-13": 65652,
-  "2023-03-14": 65744,
-  "2023-03-15": 65817,
-  "2023-03-16": 65884,
-  "2023-03-17": 65884,
-  "2023-03-18": 66035,
-  "2023-03-19": 66112,
-  "2023-03-20": 66205,
-  "2023-03-21": 66277,
-  "2023-03-22": 66373,
-  "2023-03-23": 66434,
-  "2023-03-24": 66434,
-  "2023-03-25": 66572,
-  "2023-03-26": 66652,
-  "2023-03-27": 66737,
-  "2023-03-28": 66798,
-  "2023-03-29": 66863,
-  "2023-03-30": 66982,
-  "2023-03-31": 66982,
-  "2023-04-01": 67071,
-  "2023-04-02": 67157,
-  "2023-04-03": 67255,
-  "2023-04-04": 67334,
-  "2023-04-05": 67403,
-  "2023-04-06": 67467,
-  "2023-04-07": 67559,
-  "2023-04-09": 67699,
-  "2023-04-10": 67790,
-  "2023-04-11": 67940,
-  "2023-04-12": 67940,
-  "2023-04-13": 68009,
-  "2023-04-14": 68090,
-  "2023-04-15": 68164,
-  "2023-04-16": 68202,
-  "2023-04-17": 68287,
-  "2023-04-18": 68347,
-  "2023-04-19": 68409,
-  "2023-04-20": 68474,
-  "2023-04-21": 68527,
-  "2023-04-22": 68584,
-  "2023-04-23": 68699,
-  "2023-04-24": 68768,
-  "2023-04-25": 68825,
-  "2023-04-26": 68868,
-  "2023-04-27": 68940,
-  "2023-04-28": 68989,
-  "2023-04-29": 69061,
-  "2023-04-30": 69115,
-  "2023-05-01": 69191,
-  "2023-05-02": 69260,
-  "2023-05-03": 69312,
-  "2023-05-04": 69361,
-  "2023-05-05": 69420,
-  "2023-05-06": 69469,
-  "2023-05-07": 69546,
-  "2023-05-08": 69608,
-  "2023-05-09": 69658,
-  "2023-05-10": 69713,
-  "2023-05-11": 69758,
-  "2023-05-12": 69807,
-  "2023-05-13": 69878,
-  "2023-05-14": 69966,
-  "2023-05-15": 70027,
-  "2023-05-16": 70077,
-  "2023-05-17": 70127,
-  "2023-05-18": 70178,
-  "2023-05-19": 70230,
-  "2023-05-20": 70331,
-  "2023-05-21": 70331,
-  "2023-05-22": 70331,
-  "2023-05-23": 70446,
-  "2023-05-24": 70535,
-  "2023-05-25": 70540,
-  "2023-05-26": 70595,
-  "2023-05-27": 70627,
-  "2023-05-28": 70690,
-  "2023-05-29": 70690,
-  "2023-05-30": 70809,
-  "2023-05-31": 70848,
-  "2023-06-01": 70887,
-  "2023-06-02": 70941,
-  "2023-06-03": 70993,
-  "2023-06-04": 71058,
-  "2023-06-05": 71119,
-  "2023-06-06": 71153,
-  "2023-06-07": 71180,
-  "2023-06-08": 71235,
-  "2023-06-09": 71290,
-  "2023-06-10": 71322,
-  "2023-06-11": 71393,
-  "2023-06-12": 71428,
-  "2023-06-13": 71476,
-  "2023-06-14": 71528,
-  "2023-06-15": 71583,
-  "2023-06-16": 71633,
-  "2023-06-17": 71682,
-  "2023-06-18": 71727,
-  "2023-06-19": 71774,
-  "2023-06-20": 71809,
-  "2023-06-21": 71845,
-  "2023-06-22": 71882,
-  "2023-06-23": 71915,
-  "2023-06-24": 71959,
-  "2023-06-25": 72010,
-  "2023-06-26": 72075,
-  "2023-06-27": 72133,
-  "2023-06-28": 72171,
-  "2023-06-29": 72217,
-  "2023-06-30": 72256,
-  "2023-07-01": 72351,
-  "2023-07-02": 72351,
-  "2023-07-03": 72374,
-  "2023-07-04": 72427,
-  "2023-07-05": 72465,
-  "2023-07-06": 72534,
-  "2023-07-07": 72534,
-  "2023-07-08": 72569,
-  "2023-07-09": 72618,
-  "2023-07-10": 72659,
-  "2023-07-11": 72692,
-  "2023-07-12": 72732,
-  "2023-07-13": 72778,
-  "2023-07-14": 72826,
-  "2023-07-15": 72863,
-  "2023-07-16": 72912,
-  "2023-07-17": 72950,
-  "2023-07-18": 73005,
-  "2023-07-19": 73056,
-  "2023-07-20": 73118,
-  "2023-07-21": 73145,
-  "2023-07-22": 73181,
-  "2023-07-23": 73222,
-  "2023-07-24": 73250,
-  "2023-07-25": 73285,
-  "2023-07-26": 73330,
-  "2023-07-27": 73378,
-  "2023-07-28": 73431,
-  "2023-07-29": 73477,
-  "2023-07-30": 73527,
-  "2023-07-31": 73572,
-  "2023-08-01": 73614,
-  "2023-08-02": 73647,
-  "2023-08-03": 73688,
-  "2023-08-04": 73731,
-  "2023-08-05": 73775,
-  "2023-08-06": 73894,
-  "2023-08-07": 73894,
-  "2023-08-08": 73926,
-  "2023-08-09": 73971,
-  "2023-08-10": 74018,
-  "2023-08-11": 74062,
-  "2023-08-12": 74106,
-  "2023-08-13": 74156,
-  "2023-08-14": 74227,
-  "2023-08-15": 74318,
-  "2023-08-16": 74318,
-  "2023-08-17": 74369,
-  "2023-08-18": 74412,
-  "2023-08-19": 74472,
-  "2023-08-20": 74504,
-  "2023-08-21": 74557,
-  "2023-08-22": 74595,
-  "2023-08-23": 74621,
-  "2023-08-24": 74680,
-  "2023-08-25": 74718,
-  "2023-08-26": 74772,
-  "2023-08-27": 74833,
-  "2023-08-28": 74885,
-  "2023-08-29": 74935,
-  "2023-08-30": 74971,
-  "2023-08-31": 75022,
-  "2023-09-01": 75119,
-  "2023-09-02": 75119,
-  "2023-09-03": 75155,
-  "2023-09-04": 75219,
-  "2023-09-05": 75267,
-  "2023-09-06": 75315,
-  "2023-09-07": 75364,
-  "2023-09-08": 75420,
-  "2023-09-09": 75463,
-  "2023-09-10": 75546,
-  "2023-09-11": 75596,
-  "2023-09-12": 75644,
-  "2023-09-13": 75689,
-  "2023-09-14": 75720,
-  "2023-09-15": 75759,
-  "2023-09-16": 75794,
-  "2023-09-17": 75859,
-  "2023-09-18": 75939,
-  "2023-09-19": 75983,
-  "2023-09-20": 76037,
-  "2023-09-21": 76084,
-  "2023-09-22": 76120,
-  "2023-09-23": 76154,
-  "2023-09-24": 76199,
-  "2023-09-25": 76260,
-  "2023-09-26": 76329,
-  "2023-09-27": 76377,
-  "2023-09-28": 76425,
-  "2023-09-29": 76492,
-  "2023-09-30": 76544,
-  "2023-10-01": 76615,
-  "2023-10-02": 76663,
-  "2023-10-03": 76704,
-  "2023-10-04": 76759,
-  "2023-10-05": 76816,
-  "2023-10-06": 76889,
-  "2023-10-07": 76965,
-  "2023-10-08": 77315,
-  "2023-10-09": 77970,
-  "2023-10-10": 78652,
-  "2023-10-11": 79167,
-  "2023-10-12": 79167,
-  "2023-10-13": 79302,
-  "2023-10-14": 79482,
-  "2023-10-15": 79715,
-  "2023-10-16": 79915,
-  "2023-10-17": 80075,
-  "2023-10-18": 80180,
-  "2023-10-19": 80321,
-  "2023-10-20": 80465,
-  "2023-10-21": 80661,
-  "2023-10-22": 80862,
-  "2023-10-23": 81041,
-  "2023-10-24": 81181,
-  "2023-10-25": 81311,
-  "2023-10-26": 81454,
-  "2023-10-27": 81574,
-  "2023-10-28": 81574,
-  "2023-10-29": 81893,
-  "2023-10-30": 82060,
-  "2023-10-31": 82060,
-  "2023-11-01": 82303,
-  "2023-11-02": 82428,
-  "2023-11-03": 82571,
-  "2023-11-04": 82729,
-  "2023-11-05": 82883,
-  "2023-11-06": 83062,
-  "2023-11-07": 83163,
-  "2023-11-08": 83274,
-  "2023-11-09": 83379,
-  "2023-11-10": 83497,
-  "2023-11-11": 83613,
-  "2023-11-12": 83702,
-  "2023-11-13": 83794,
-  "2023-11-14": 83877,
-  "2023-11-15": 83877,
-  "2023-11-16": 84057,
-  "2023-11-17": 84218,
-  "2023-11-18": 84218,
-  "2023-11-19": 84313,
-  "2023-11-20": 84422,
-  "2023-11-21": 84495,
-  "2023-11-22": 84576,
-  "2023-11-23": 84664,
-  "2023-11-24": 84664,
-  "2023-11-25": 84846,
-  "2023-11-26": 84938,
-  "2023-11-27": 85020,
-  "2023-11-28": 85112,
-  "2023-11-29": 85236,
-  "2023-11-30": 85236,
-  "2023-12-01": 85296,
-  "2023-12-02": 85360,
-  "2023-12-03": 85412,
-  "2023-12-04": 85483,
-  "2023-12-05": 85541,
-  "2023-12-06": 85610,
-  "2023-12-07": 85685,
-  "2023-12-08": 85750,
-  "2023-12-09": 85826,
-  "2023-12-10": 85890,
-  "2023-12-11": 85963,
-  "2023-12-12": 85963,
-  "2023-12-13": 86248,
-  "2023-12-14": 86790,
-  "2023-12-15": 87025,
-  "2023-12-16": 87369,
-  "2023-12-17": 87709,
-  "2023-12-18": 87988,
-  "2023-12-19": 88124,
-  "2023-12-20": 88277,
-  "2023-12-21": 88464,
-  "2023-12-22": 88687,
-  "2023-12-23": 89346,
-  "2023-12-24": 90004,
-  "2023-12-25": 90344,
-  "2023-12-26": 90592,
-  "2023-12-27": 90969,
-  "2023-12-30": 92490,
-  "2023-12-31": 92933,
-  "2024-01-01": 93223,
-  "2024-01-02": 93395,
-  "2024-01-03": 93582
+  "2024-01-17": 95497,
+  "date_first_scraped": "2022-06-10",
+  "description": "Enjoy music & episodes of \"SPY\u00d7FAMILY\"! /\u300cSPY\u00d7FAMILY\u300d\u306e\u697d\u66f2\u3068\u30a8\u30d4\u30bd\u30fc\u30c9\u3092\uff11\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\u00a92023\u300c\u5287\u5834\u7248 SPY\u00d7FAMILY\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a\u3000\u00a9\u9060\u85e4\u9054\u54c9\uff0f\u96c6\u82f1\u793e",
+  "name": "SPY\u00d7FAMILY",
+  "tracks": [
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1562253,
+      "name": "#01 \u30a2\u30fc\u30cb\u30e3\u5f79\u306e\u7a2e\ufa11\u6566\u7f8e\u3055\u3093\u300cSPY\u00d7FAMILY\u3063\u3066\u3001\u3007\u3007\u304c\u30b9\u30b4\u30a4\uff01\u300d",
+      "url": "https://open.spotify.com/episode/6Df19NXTuQY7UqjIzI5YSN"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1760705,
+      "name": "#02 \u30a2\u30fc\u30cb\u30e3\u5f79\u306e\u7a2e\ufa11\u6566\u7f8e\u3055\u3093\u300c\u30d5\u30a9\u30fc\u30b8\u30e3\u30fc\u5bb6\u3092\u7e4b\u3050\u306e\u306f\u25cb\u25cb\u25cb\uff01\u300d",
+      "url": "https://open.spotify.com/episode/02o3oVpkn05BiUCCeMn073"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1789126,
+      "name": "#03 \u30d5\u30a9\u30fc\u30b8\u30e3\u30fc\u5bb6\u306e\uff13\u4eba\u304c\u52e2\u63c3\u3044\uff01\u300c\u81ea\u5b85\u3067\uff11\u756a\u843d\u3061\u7740\u304f\u5834\u6240\u306f\u25cf\u25cf\u25cf\u25cf\uff01\u300d",
+      "url": "https://open.spotify.com/episode/0zi55Uy9QUHQTNhEDLpnIH"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1882801,
+      "name": "#04 \u5f15\u7d9a\u304d\u30d5\u30a9\u30fc\u30b8\u30e3\u30fc\u5bb6\u306e\uff13\u4eba\u3067\uff01\u3000\u300c\u826f\u3044\u5b50\u306f\uff2e\uff27\uff01\uff1f\u5e7c\u5c11\u671f\u306e\u6c5f\u53e3\u3055\u3093\u304c\u30cf\u30de\u3063\u3066\u3044\u305f\u25cf\u25cf\u25cf\u25cf\uff01\u300d",
+      "url": "https://open.spotify.com/episode/1sPJwGntFVIAsWXigW93Yn"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1823477,
+      "name": "#05 \u30d5\u30e9\u30f3\u30ad\u30fc\u30fb\u30d5\u30e9\u30f3\u30af\u30ea\u30f3\u5f79\u306e\u5409\u91ce\u88d5\u884c\u3055\u3093\u304c\u30b2\u30b9\u30c8\uff01\u300c\u5409\u91ce\u3055\u3093\u304c\u30a2\u30cb\u30e1\u7b2c5\u8a71\u3067\u5165\u308c\u305f\u30a2\u30c9\u30ea\u30d6\u306f\u25cf\u25cf\u25cf\u25cf\uff01\u300d",
+      "url": "https://open.spotify.com/episode/1aFOOyg8hnImS3LqaLeR9y"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1901008,
+      "name": "#06 \u30b2\u30b9\u30c8\u306f\u5f15\u304d\u7d9a\u304d\u3001\u30d5\u30e9\u30f3\u30ad\u30fc\u5f79\u306e\u5409\u91ce\u88d5\u884c\u3055\u3093\uff01\u300c\u5409\u91ce\u3055\u3093\u3082\u7d0d\u5f97\uff01\u6c5f\u53e3\u5c11\u5e74\u304c\u6050\u6016\u3057\u305f\u58c1\u306b\u4e26\u3076\u25cf\u25cf\u25cf\u25cf\uff01\u300d",
+      "url": "https://open.spotify.com/episode/4kWcEUiXyiEa0UOscUEFe9"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1756316,
+      "name": "#07 \u30b2\u30b9\u30c8\u306f\u3001\u30c0\u30df\u30a2\u30f3\u30fb\u30c7\u30ba\u30e2\u30f3\u30c9\u5f79\u306e\u85e4\u539f\u590f\u6d77\u3055\u3093\uff01\u300c\u5e78\u305b\u306a\u306e\u306f\u25cf\u25cf\u25cf\u25cf\u3092\u3057\u3066\u308b\u6642\uff01\u9577\u3044\u3068\u304d\u306f3\u6642\u9593!?\u300d",
+      "url": "https://open.spotify.com/episode/5YcATOQ5ePigAXynAhr18X"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1965714,
+      "name": "#08 \u30b2\u30b9\u30c8\u306f\u5f15\u304d\u7d9a\u304d\u30c0\u30df\u30a2\u30f3\u5f79\u306e\u85e4\u539f\u590f\u6d77\u3055\u3093\uff01\u300c\u85e4\u539f\u3055\u3093\u304c\u5b50\u3069\u3082\u306e\u3053\u308d\u306b\u904a\u3093\u3067\u305f\u306e\u306f\u25cf\u25cf\u25cf\u25cf\u3054\u3063\u3053!?\u300d",
+      "url": "https://open.spotify.com/episode/1nXgYVi4TFODHLtEUW4jLm"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2247262,
+      "name": "#09 \u4eca\u56de\u306e\u30b2\u30b9\u30c8\u306fOfficial\u9aed\u7537dism\u304b\u3089\u85e4\u539f\u3055\u3093\u3068\u677e\u6d66\u3055\u3093\uff01\u300c\u6c5f\u53e3\u3055\u3093\u3082\u76ee\u6483\uff01\u30d2\u30b2\u30c0\u30f3\u306eLIVE\u3067\u25cf\u25cf\u25cf\u30cf\u30d7\u30cb\u30f3\u30b0!\u300d",
+      "url": "https://open.spotify.com/episode/2uTfcTzFAcgvt1sxGGLt8D"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2145906,
+      "name": "#10 Official\u9aed\u7537dism\u306e\u85e4\u539f\u3055\u3093\u3068\u677e\u6d66\u3055\u3093\u3068\u5f15\u7d9a\u304d\u2026\u300c\u85e4\u539f\u3055\u3093\u306e\u30b9\u30bf\u30b8\u30aa\u4f5c\u696d\u4e2d\u3067\u3082\u8b72\u308c\u306a\u3044\u25cf\u25cf\u25cf\u3068\u306f\uff01\uff1f\u300d",
+      "url": "https://open.spotify.com/episode/23V13OciOxuQssOMsTcsDL"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2516375,
+      "name": "#11 \u3054\u7121\u6c99\u6c70\uff01\u30a2\u30fc\u30cb\u30e3\u5f79\u306e\u7a2e\ufa11\u3055\u3093\uff06\u30e8\u30eb\u5f79\u306e\u65e9\u898b\u3055\u3093\u304c\u767b\u5834\uff01\u300c\u30a8\u30ec\u30ac\u30f3\u30c8\u306a\u201c\u3072\u306a\u304c\u306a\u201d1\u6587\u5b57\u306f\u2026\u25cf\u3067\u6c7a\u5b9a\uff01\uff1f\u300d",
+      "url": "https://open.spotify.com/episode/5mouqYmqbEXkfRtGHk7Zns"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2472280,
+      "name": "#12 \u5f15\u7d9a\u304d\u30d5\u30a9\u30fc\u30b8\u30e3\u30fc\u5bb6\u306e3\u4eba\u3067\uff01\u300c\u3061\u3061(\u5f79)\u3068\u3080\u3059\u3081(\u5f79)\u306e\u5171\u901a\u70b9\u25cf\u25cf&\u25cf\u25cf\u306f\u30ab\u30c3\u30b3\u30a4\u30a4\u300d",
+      "url": "https://open.spotify.com/episode/2lPUKWLOfSgW3zE3jHwl4v"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1696182,
+      "name": "#39 \u65b0\u5e74\u306b\u5165\u308a\u307e\u3057\u305f\u304c\u3001\u3053\u308c\u3092\u3082\u3063\u3066\u4e00\u65e6\u304a\u3084\u3059\u307f\uff01\u3068\u3044\u3046\u56de\uff01\u300c\u3053\u306e\u756a\u7d44\u304c\u306a\u304b\u3063\u305f\u3089\u3001\u5168\u7136\u25cf\u25cf\u3057\u3066\u306a\u304b\u3063\u305f\u300d",
+      "url": "https://open.spotify.com/episode/240g0JTMFB0dFci1MH8gol"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 110166,
+      "name": "As a mother. As a wife.",
+      "url": "https://open.spotify.com/track/6rV1a0PhjCCsYu7tjOB4eB"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 110166,
+      "name": "As a mother. As a wife.",
+      "url": "https://open.spotify.com/track/76d6kzvLLKh6oHdU6jh6iJ"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152766,
+      "name": "BAR",
+      "url": "https://open.spotify.com/track/0TsmKNo4DbEWDtOVtVCmbD"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 96500,
+      "name": "Berlint",
+      "url": "https://open.spotify.com/track/4haknQRm1AE0Ixc56uOHes"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96500,
+      "name": "Berlint",
+      "url": "https://open.spotify.com/track/5UTvCCeRR5BlJcDM4jn66Q"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 101333,
+      "name": "Bondman",
+      "url": "https://open.spotify.com/track/1JOBdK2yf2X7srMa9EGS9d"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101333,
+      "name": "Bondman",
+      "url": "https://open.spotify.com/track/75oYpYVq6NJBKMxE5LoX8p"
+    },
+    {
+      "album": {
+        "name": "Breeze - insert song from SPY x FAMILY (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3HoxvfHDsMRrRNMcx8rljY"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204033,
+      "name": "Breeze - insert song from SPY x FAMILY (Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/5FTyvoW0szvB83VY5lQPgP"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 135066,
+      "name": "Cecile Hall",
+      "url": "https://open.spotify.com/track/5JZ1hlRauEImYgN6rtSsDv"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135066,
+      "name": "Cecile Hall",
+      "url": "https://open.spotify.com/track/5eTNSg4xXJdtVweGK9Cjp0"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 148500,
+      "name": "City \u200b\u200bhall director",
+      "url": "https://open.spotify.com/track/2NcPWn9F7BDKQVt4CmiuGR"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "City \u200b\u200bhall director",
+      "url": "https://open.spotify.com/track/72kR48cv1WoZs6dXzwCOap"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY CODE: White (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "CODE: White",
+      "url": "https://open.spotify.com/track/00GJmYsKFm2DL8UpEuRqCA"
+    },
+    {
+      "album": {
+        "name": "Comedy",
+        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 42666,
+      "name": "Commence",
+      "url": "https://open.spotify.com/track/22YX9W1GYFDFdF5WLSjeh7"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 42666,
+      "name": "Commence",
+      "url": "https://open.spotify.com/track/71QaUzY1Ht4o2aCVfvvRAR"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116800,
+      "name": "Competitor",
+      "url": "https://open.spotify.com/track/5WTd3D7WyUdL4ZDhIgGYD5"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 103866,
+      "name": "Crack Down",
+      "url": "https://open.spotify.com/track/3EbPtRAUuUp9jYOQbXleMm"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 103866,
+      "name": "Crack Down",
+      "url": "https://open.spotify.com/track/3nuTJeKmfdkWZZ7QjRQaH0"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105033,
+      "name": "Crisis of my home",
+      "url": "https://open.spotify.com/track/2MSnxMYehw5oZWlcgHMay6"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 105033,
+      "name": "Crisis of my home",
+      "url": "https://open.spotify.com/track/4QWAtSGLf2viRGnOQtQj8Q"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 126466,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/35OddnJHOVABnzMPlBCExW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 126466,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/4KI1Qj1GgKtWtvWubOe9yH"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 100500,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/0zNs9JN9vmzay8LHCW4N57"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100500,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/4pQRZ0Pt9VPWtqpYsMvomM"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174366,
+      "name": "Eden College",
+      "url": "https://open.spotify.com/track/0stiAPNBiFGDPA2tRSHjcl"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174366,
+      "name": "Eden College",
+      "url": "https://open.spotify.com/track/7Esg5AZ67nqCWfjpM9I3eO"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 102433,
+      "name": "Elusive man",
+      "url": "https://open.spotify.com/track/3CfCyFSH5aLmhRAcamdJGX"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 102433,
+      "name": "Elusive man",
+      "url": "https://open.spotify.com/track/4hsxjXCzkUpj867iMQw5QC"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Faithful Dog",
+      "url": "https://open.spotify.com/track/2cnnc5oxlWt5SLH3M4DhxF"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 161500,
+      "name": "Faithful Dog",
+      "url": "https://open.spotify.com/track/3CkusI2yIe0JYVlZlzdDml"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96133,
+      "name": "Final points",
+      "url": "https://open.spotify.com/track/6XwRjB6E8g4Q4tyHMemmUC"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY CODE: White (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Find the ingredients!",
+      "url": "https://open.spotify.com/track/6E8fLOminxclTsJ3LYPCfm"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 124433,
+      "name": "forever and ever",
+      "url": "https://open.spotify.com/track/5xxShFmIT75e3hmkXTJDnb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124433,
+      "name": "forever and ever",
+      "url": "https://open.spotify.com/track/65Icdm8OTwrDWMqikZvg09"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 100500,
+      "name": "Front Line",
+      "url": "https://open.spotify.com/track/2Jii3ESVjJ0aQAbSTbB4tl"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100500,
+      "name": "Front Line",
+      "url": "https://open.spotify.com/track/2lOhR6hK9Qmdd3fqxVEDRu"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99200,
+      "name": "Gain wider knowledge",
+      "url": "https://open.spotify.com/track/3tEkcswnJhrLdbJLqrS9Tf"
+    },
+    {
+      "album": {
+        "name": "Garden (Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Insert Song)",
+        "url": "https://open.spotify.com/album/0qUqGs6PP9wiM0ImrMoYV4"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "(K)NoW_NAME:NIKIIE",
+          "url": "https://open.spotify.com/artist/3EP7ddYLORL4iAKy1gaTk8"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119006,
+      "name": "Garden (Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Insert Song)",
+      "url": "https://open.spotify.com/track/4V6fcozb4qSZBsQto6nQ7g"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 101333,
+      "name": "Girl's pastime",
+      "url": "https://open.spotify.com/track/4zoedjiawRokXIEWZsjTUf"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101333,
+      "name": "Girl's pastime",
+      "url": "https://open.spotify.com/track/6WHNjcCEkVSujv7xkoIE8w"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2XV23pZFYRgvDvr9qU7iiV"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 152600,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/31fHBQWCMDUJdHuG41EzRp"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152600,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/4eW3SwTKhAP85wIaopALTy"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 155100,
+      "name": "GOOD DAY (Instrumental)",
+      "url": "https://open.spotify.com/track/47R4Yw5mNQ9GlNVCmcOGGO"
+    },
+    {
+      "album": {
+        "name": "GOOD DAY - inspired by SPY x FAMILY (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6mSYsjSBR2PdZ8jOvePpXr"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 152600,
+      "name": "GOOD DAY - inspired by SPY x FAMILY (Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/1reF4pkXyJRSbC3FGSi1TB"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 117066,
+      "name": "Gorgeous step",
+      "url": "https://open.spotify.com/track/2kjTuStXqriHVsYOgUzEIQ"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117066,
+      "name": "Gorgeous step",
+      "url": "https://open.spotify.com/track/70IAu6qwc3N3H90qXrH8Sn"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118633,
+      "name": "Guard dog",
+      "url": "https://open.spotify.com/track/7nIZDvlQudGJP3cVl94WNv"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 152033,
+      "name": "Handler",
+      "url": "https://open.spotify.com/track/30R0wNanmQcGO6i8iw65g2"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 130233,
+      "name": "Housemaster",
+      "url": "https://open.spotify.com/track/23rOPYqeBfFiOdVDlBaS3Z"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 130233,
+      "name": "Housemaster",
+      "url": "https://open.spotify.com/track/3NKzmUyHdysp0X8926AwTA"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101733,
+      "name": "housework",
+      "url": "https://open.spotify.com/track/2GTfetNw3IuHrRvSyV7QeI"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 101733,
+      "name": "housework",
+      "url": "https://open.spotify.com/track/2wC93S6g4HW9DsIShpGgYE"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91333,
+      "name": "jealousy",
+      "url": "https://open.spotify.com/track/0vxuqvOjQYWWoTcWWhbZKO"
+    },
+    {
+      "album": {
+        "name": "Kura Kura",
+        "url": "https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191105,
+      "name": "Kura Kura",
+      "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100766,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0wDOlPfdq0XHuCjqDEHQy8"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 100766,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4KvgnEJsg3qcRcjUEUBYNo"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 107300,
+      "name": "little by little",
+      "url": "https://open.spotify.com/track/3F9ERq4EWsnTxlw2FbB1lx"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107300,
+      "name": "little by little",
+      "url": "https://open.spotify.com/track/6Cq4LlXZkuSw8B8BUVJYFA"
+    },
+    {
+      "album": {
+        "name": "Little steps\uff08TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u633f\u5165\u6b4c\uff09",
+        "url": "https://open.spotify.com/album/6qohjfb1eC5gveRdxYd5kH"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 267500,
+      "name": "Little steps",
+      "url": "https://open.spotify.com/track/5x3zRaTo5gHTsEvNvbt5C8"
+    },
+    {
+      "album": {
+        "name": "Little steps (Animation \u300eSPY\u00d7FAMILY\u300f Season 2 Insert Song)",
+        "url": "https://open.spotify.com/album/1Xs0trImpgjtvJDgtIi5sL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "Little steps (Animation \u300eSPY\u00d7FAMILY\u300f Season 2 Insert Song)",
+      "url": "https://open.spotify.com/track/0A80wKj5AHoEWl478awt4B"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Looks like a nice family",
+      "url": "https://open.spotify.com/track/6AuKc1uIooF5Yv6SbXAHuI"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 105000,
+      "name": "Looks like a nice family",
+      "url": "https://open.spotify.com/track/6wOohqUNOnnG2bPakvSsl6"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Love is blind",
+      "url": "https://open.spotify.com/track/2fjpyS4XAEmLGHaakxXRVb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 214000,
+      "name": "Love is blind",
+      "url": "https://open.spotify.com/track/5WPLRYVMb6GrnXkQURIDyg"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Make all ladies happy",
+      "url": "https://open.spotify.com/track/4vG0yWI2ORXLHWzOOnwfFr"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 152500,
+      "name": "Make all ladies happy",
+      "url": "https://open.spotify.com/track/51wNa1DbDVEX9AslAdxxV3"
+    },
+    {
+      "album": {
+        "name": "Mixed Nuts",
+        "url": "https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213438,
+      "name": "Mixed Nuts",
+      "url": "https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74133,
+      "name": "Mother's Cooking",
+      "url": "https://open.spotify.com/track/0511DtUwr7DgzxMu0CLHmL"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 17233,
+      "name": "NEXT MISSION",
+      "url": "https://open.spotify.com/track/1EAn1lEWxyc3hwD9P7mfZA"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 17233,
+      "name": "NEXT MISSION",
+      "url": "https://open.spotify.com/track/7kQUKjF2w1uu52Nf3XJqmH"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 145693,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/1AW3CTC4LJi2ZmV7SwCURD"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 99233,
+      "name": "No one knows",
+      "url": "https://open.spotify.com/track/5WrFaVGlvGnqZyq2SwLLDe"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 99233,
+      "name": "No one knows",
+      "url": "https://open.spotify.com/track/6oiQkae6pMuDjbpAolYIWk"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "(K)NoW_NAME:Makoto Miyazaki",
+          "url": "https://open.spotify.com/artist/0yA5waA44MLHSxyaZia5MN"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103300,
+      "name": "Pitapat",
+      "url": "https://open.spotify.com/track/1CBuiVza0sSA5B7dsaKGsa"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115300,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2nfgyprnJBIBNPhbieJgl1"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 115300,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/5HG2kkDHiLWSWKBmUqNAKV"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 102633,
+      "name": "Ponder",
+      "url": "https://open.spotify.com/track/3hO1zrOJuycDnLtzJVdJ38"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 102633,
+      "name": "Ponder",
+      "url": "https://open.spotify.com/track/5GqYOXvd96QW1WvmEsEQHT"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140666,
+      "name": "Precocious",
+      "url": "https://open.spotify.com/track/07lMp0FAmLW4lBks9XFfJW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 140666,
+      "name": "Precocious",
+      "url": "https://open.spotify.com/track/7GQvws0KOPPsVy0DiZ9El5"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Princess Lorelei",
+      "url": "https://open.spotify.com/track/3ISx72cAM0e0SvwMh1xdlG"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 136500,
+      "name": "Princess Lorelei",
+      "url": "https://open.spotify.com/track/4BIgxnWbKmGQfAE2fjZwAz"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY CODE: White (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "pseudo family",
+      "url": "https://open.spotify.com/track/61NuxPXlj2WtxQF2JaoQZm"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 114933,
+      "name": "Questioning",
+      "url": "https://open.spotify.com/track/1ojgvLhNUYZaxAfOOEJ3Bg"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 114933,
+      "name": "Questioning",
+      "url": "https://open.spotify.com/track/4Jrhga32zMFAXaEnWWasEZ"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115533,
+      "name": "Second Son",
+      "url": "https://open.spotify.com/track/1e6bYEeqBW0XP9SXWNncGo"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 115533,
+      "name": "Second Son",
+      "url": "https://open.spotify.com/track/5mMQsxIopaFw14Xkm4cLuX"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119100,
+      "name": "sheep",
+      "url": "https://open.spotify.com/track/2Z4zAG3c7hvPJ5eiOwBY3E"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110033,
+      "name": "Shoot-out",
+      "url": "https://open.spotify.com/track/1ebdCI1I00SlA4cMa4yCcv"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 114200,
+      "name": "Small Daily Life",
+      "url": "https://open.spotify.com/track/3I21oJlMTEMTkNldjIOWiB"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 114200,
+      "name": "Small Daily Life",
+      "url": "https://open.spotify.com/track/4eGZlL5m5KT627dtNj7zxs"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 137300,
+      "name": "snake in the grass",
+      "url": "https://open.spotify.com/track/0yIkqTBYemyfdUZfVXRj2p"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 137300,
+      "name": "snake in the grass",
+      "url": "https://open.spotify.com/track/1PXozEaoPMr6H4mG79BGBP"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY CODE: White (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123500,
+      "name": "Snow Smoke",
+      "url": "https://open.spotify.com/track/1vO7qAzy2xMAqDXYa7KcgT"
+    },
+    {
+      "album": {
+        "name": "SOULSOUP",
+        "url": "https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314469,
+      "name": "SOULSOUP",
+      "url": "https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi"
+    },
+    {
+      "album": {
+        "name": "SOUVENIR",
+        "url": "https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264126,
+      "name": "SOUVENIR",
+      "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 106633,
+      "name": "State Security Service",
+      "url": "https://open.spotify.com/track/2xS1SaDq0xETzdA7DJHOdt"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106633,
+      "name": "State Security Service",
+      "url": "https://open.spotify.com/track/5QPa7jsgJUnxw405SLh4iW"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120800,
+      "name": "Stella Stars",
+      "url": "https://open.spotify.com/track/7mIubKZQfgDwRyPoHNR0Vv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217973,
+      "name": "Strange Marriage",
+      "url": "https://open.spotify.com/track/6PU2RillcHKuxDrszxemty"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 217973,
+      "name": "Strange Marriage",
+      "url": "https://open.spotify.com/track/785ETWXTJSfLQGLSmtDlAv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144833,
+      "name": "STRIX",
+      "url": "https://open.spotify.com/track/1ReifYy4YQWlAHu1yJjf7s"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144833,
+      "name": "STRIX",
+      "url": "https://open.spotify.com/track/4G0wGof3uWHhX0s6kcqRiz"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "STRIX (Season2)",
+      "url": "https://open.spotify.com/track/3V8MSbTxaQOPJ14s8pNA98"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 133000,
+      "name": "STRIX\uff08Season2\uff09",
+      "url": "https://open.spotify.com/track/5V45Ot7VXJtI2kC4KAEKQt"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104466,
+      "name": "stroll",
+      "url": "https://open.spotify.com/track/42iKxyU09JRGFkOMAjIeV9"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 104333,
+      "name": "SUBJECT 007",
+      "url": "https://open.spotify.com/track/1Swn3D2OQWxk33fPMVTYyM"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 104333,
+      "name": "SUBJECT 007",
+      "url": "https://open.spotify.com/track/6amHp5uGRGEiFuz9wjuope"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116133,
+      "name": "sunset",
+      "url": "https://open.spotify.com/track/0UG9nhDKZiW8FyoNAOVqVG"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 116133,
+      "name": "sunset",
+      "url": "https://open.spotify.com/track/47SfIjyYK9YXttCi0fNg74"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "TBD",
+      "url": "https://open.spotify.com/track/1nEaayEdWvl8YtQwjUjaJW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3eTggf0BQGCCjSKTPehaHD"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236000,
+      "name": "TBD",
+      "url": "https://open.spotify.com/track/6t4HZstA6tlgXyhTwcry6R"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129731,
+      "name": "teacups",
+      "url": "https://open.spotify.com/track/46HTpiHb4wy0pjbEH945If"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129731,
+      "name": "teacups",
+      "url": "https://open.spotify.com/track/50iwvUSGVygTCMsf3mmDR3"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY CODE: White (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "The beginning of the journey",
+      "url": "https://open.spotify.com/track/1dA9cBemBzbdj1hi3W91Lo"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 133066,
+      "name": "The Forgers",
+      "url": "https://open.spotify.com/track/3byEuIFkJboGhU6wBvSg0B"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133066,
+      "name": "The Forgers",
+      "url": "https://open.spotify.com/track/7I5CokF3UjwM2V8DbbuQZV"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127700,
+      "name": "Thorn Princess",
+      "url": "https://open.spotify.com/track/0YbS45CyIX5oCvMMtvoDQh"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127700,
+      "name": "Thorn Princess",
+      "url": "https://open.spotify.com/track/3VBtRTweZ2CvZaGRmABDwM"
+    },
+    {
+      "album": {
+        "name": "Todome no ichigeki (feat. Cory Wong)",
+        "url": "https://open.spotify.com/album/6BOkaOo3G5lmEsWYOqNdLK"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 310160,
+      "name": "Todome no ichigeki (feat. Cory Wong)",
+      "url": "https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 100033,
+      "name": "transient calm",
+      "url": "https://open.spotify.com/track/28jLXVNNEjpU8xQmwFmkHQ"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100033,
+      "name": "transient calm",
+      "url": "https://open.spotify.com/track/2nzLXdAAzjqJnbT8RKcova"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110666,
+      "name": "try again",
+      "url": "https://open.spotify.com/track/6AECqCV3b5Czh9qVEsGI2j"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 110666,
+      "name": "try again",
+      "url": "https://open.spotify.com/track/7LPI1LMZ8cx1kmSfWdL6bu"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123166,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/33k3wkuJv5uVM1uxbpP8Dg"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 123166,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/5mpFXqtrkBAvi49Kth24SH"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QOg6O0RjamjflHdu7NWNF"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "(K)NoW_NAME:NIKIIE",
+          "url": "https://open.spotify.com/artist/3EP7ddYLORL4iAKy1gaTk8"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 245513,
+      "name": "uneven fruit",
+      "url": "https://open.spotify.com/track/0wvwmnT6T4d9wokxeOCTdV"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "(K)NoW_NAME:NIKIIE",
+          "url": "https://open.spotify.com/artist/3EP7ddYLORL4iAKy1gaTk8"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245513,
+      "name": "uneven fruit",
+      "url": "https://open.spotify.com/track/5ZpSrTuhtfkMWTcA5wYSqn"
+    },
+    {
+      "album": {
+        "name": "Until the End \uff08TV\u30a2\u30cb\u30e1\u300eSPY\u00d7FAMILY\u300fSeason 2 \u633f\u5165\u6b4c\uff09",
+        "url": "https://open.spotify.com/album/5vAmBbnf5oeyKQKnxuhQSP"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "(K)NoW_NAME:Ayaka Tachibana",
+          "url": "https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-04",
+      "duration_ms": 173500,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/2o782mZSwxR34O9j9HaLwN"
+    },
+    {
+      "album": {
+        "name": "Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "(K)NoW_NAME:Ayaka Tachibana",
+          "url": "https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/2zgOXu13AuQKKfZl3mBTRo"
+    },
+    {
+      "album": {
+        "name": "Until the End (Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Insert Song)",
+        "url": "https://open.spotify.com/album/5Fn3ukbNzl5b7ntiMKnRp3"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        },
+        {
+          "name": "(K)NoW_NAME:Ayaka Tachibana",
+          "url": "https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 173500,
+      "name": "Until the End (Animation\u300eSPY\u00d7FAMILY\u300fSeason 2 Insert Song)",
+      "url": "https://open.spotify.com/track/71kA6J6oOgpv4cGswDPqGu"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 112233,
+      "name": "verge of a setback",
+      "url": "https://open.spotify.com/track/0FqBlrQG8uNWYLvwJQo64G"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 112233,
+      "name": "verge of a setback",
+      "url": "https://open.spotify.com/track/5Ajdp8WVFj2px9prPRYYx8"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 135500,
+      "name": "Very Elegant",
+      "url": "https://open.spotify.com/track/46rgVwV7tuEi5MIOfhM2ks"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Very Elegant",
+      "url": "https://open.spotify.com/track/6fNKFeZUwRbCEhBAJCscv9"
+    },
+    {
+      "album": {
+        "name": "Why / Life",
+        "url": "https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101166,
+      "name": "WISE",
+      "url": "https://open.spotify.com/track/3wf5Sdu75ioCuDubkBOtNv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 101166,
+      "name": "WISE",
+      "url": "https://open.spotify.com/track/6OVNaqOK6r5CYsZCTcWHNd"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY Soundtrack Vol. 1 (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 238166,
+      "name": "without tears",
+      "url": "https://open.spotify.com/track/17AAEk14kARZqTVti9uqvq"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238166,
+      "name": "without tears",
+      "url": "https://open.spotify.com/track/3mPTk5z1YXfJIRDzZLjv0s"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103333,
+      "name": "woolly",
+      "url": "https://open.spotify.com/track/2Fl0EuplSz1Q8EqxlGKtWR"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/06Rq1cHo2LJxitn2h629qN"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f",
+          "url": "https://open.spotify.com/artist/16AwjLUzJT8iLBo6LDLCse"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26901,
+      "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/6HujhRfSJqGnJ1cG3Gi7xb"
+    },
+    {
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "date_added": "2023-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310448,
+      "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483",
+      "url": "https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
+        "url": "https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz"
+      },
+      "artists": [
+        {
+          "name": "Official HIGE DANdism",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213438,
+      "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
+      "url": "https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ"
+    },
+    {
+      "album": {
+        "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+        "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+      },
+      "artists": [
+        {
+          "name": "SPY\u00d7FAMILY \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u3008\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3009",
+          "url": "https://open.spotify.com/show/5vSDpbHdx2YaXQPWzLSFri"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 60368,
+      "name": "\u4e88\u544a\u7de8 \u301c\u672c\u7de8\u306f4/10\u30b9\u30bf\u30fc\u30c8",
+      "url": "https://open.spotify.com/episode/6AnGu6LG6tOWAOaBT5h4xa"
+    },
+    {
+      "album": {
+        "name": "\u5149\u306e\u8de1\uff0f\u751f\u547d\u4f53",
+        "url": "https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 250333,
+      "name": "\u5149\u306e\u8de1",
+      "url": "https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/1OKiciCC6AscQfSTJBOqU4"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f",
+          "url": "https://open.spotify.com/artist/16AwjLUzJT8iLBo6LDLCse"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29029,
+      "name": "\u516c\u958b\u4e2d\u300e\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White\u300f\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/4EsU9GtLP4jM5j2cGs9Xv0"
+    },
+    {
+      "album": {
+        "name": "\u559c\u5287",
+        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230666,
+      "name": "\u559c\u5287",
+      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
+    },
+    {
+      "album": {
+        "name": "SPY x FAMILY (ORIGINAL TELEVISION SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic"
+      },
+      "artists": [
+        {
+          "name": "(K)NoW_NAME",
+          "url": "https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "\u5b50\u5b88\u5504",
+      "url": "https://open.spotify.com/track/1Vo6Bz6ekS0Yn64LwTgaMY"
+    },
+    {
+      "album": {
+        "name": "\u8272\u5f69",
+        "url": "https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192175,
+      "name": "\u8272\u5f69",
+      "url": "https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8hWYpNQhxSa"
 }

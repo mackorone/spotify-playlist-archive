@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "birdies",
+        "url": "https://open.spotify.com/album/2k6Ommgt2VnJFEMRxhP6mh"
+      },
+      "artists": [
+        {
+          "name": "Flaminguez",
+          "url": "https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103374,
+      "name": "birdies",
+      "url": "https://open.spotify.com/track/4kYC7liqGKYiPtBIkcUcHO"
+    },
+    {
+      "album": {
         "name": "clear skies",
         "url": "https://open.spotify.com/album/5z1cpl3Hy1z9XPDkPZ1bBh"
       },
@@ -868,6 +886,24 @@
       "duration_ms": 130588,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/2v7HrJYKJQrYGJYvu0cBG7"
+    },
+    {
+      "album": {
+        "name": "Blue as Her Eyes",
+        "url": "https://open.spotify.com/album/15BqNYAo53uoahnnopOw7I"
+      },
+      "artists": [
+        {
+          "name": "HPY DAYZ",
+          "url": "https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136141,
+      "name": "Blue as Her Eyes",
+      "url": "https://open.spotify.com/track/5XxdWW83EggodEdnIqni8X"
     },
     {
       "album": {
@@ -2672,6 +2708,24 @@
       "duration_ms": 144007,
       "name": "Flight 747",
       "url": "https://open.spotify.com/track/1eUz5dNUwjcr6NrO6RxlRM"
+    },
+    {
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/7Et180mnH7h72mrE53mt6o"
+      },
+      "artists": [
+        {
+          "name": "Fya Playce",
+          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131830,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/3NtmYToDopQNSUUEXOccEJ"
     },
     {
       "album": {
@@ -6136,6 +6190,24 @@
       "duration_ms": 149647,
       "name": "Papayas",
       "url": "https://open.spotify.com/track/1bDLcjxSbBR4MCmxlkJpq7"
+    },
+    {
+      "album": {
+        "name": "papillon de jour",
+        "url": "https://open.spotify.com/album/1O1qMnXAfsDVkZ9qoMtVpy"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103166,
+      "name": "papillon de jour",
+      "url": "https://open.spotify.com/track/1UetHUSGSYXyIegGaFcnkE"
     },
     {
       "album": {

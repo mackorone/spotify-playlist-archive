@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6W1YbI0Nbnc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc)
 
-### [Best of EQUAL Hong Kong 2023](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
+### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> Highlights of 2023, listen to women at full volume\. 結集2023，香港EQUAL女聲力量！\(cover: Anita Mui 梅艷芳\)
+> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Anita Mui 梅艷芳\)
 
-261 songs - 16 hr 35 min
+263 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [I'm Fine, Thx.](https://open.spotify.com/track/2MHibR4RkeGXkSvnVcTj13) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [I'm Fine, Thx.](https://open.spotify.com/album/2Hj7d0PyY4gWtmmQG7SMck) | 3:39 | 2022-01-04 | 2022-03-08 |
 | [IDK](https://open.spotify.com/track/4TlU4jNsch6P9hgbFxNK8L) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [IDK](https://open.spotify.com/album/6TA2BHMMBRmW2dGthzsQZV) | 3:22 | 2021-12-07 | 2022-01-05 |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2021-12-07 | 2023-11-30 |
+| [kill the thought](https://open.spotify.com/track/5VWmYzMPAm3GLkYlMWT9zu) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [kill the thought](https://open.spotify.com/album/4frxdpM4eCcnLoUTlucFZe) | 3:04 | 2024-01-09 |  |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-03-07 | 2023-11-30 |
 | [lengjai^^](https://open.spotify.com/track/7yDruVlhR2MJTiLYSpvIhh) | [GTB](https://open.spotify.com/artist/0vnu65ZX92UZbd1cYPXDwP) | [Whoa.](https://open.spotify.com/album/3grmmzVBjbgZhN8FCVmlPi) | 2:42 | 2022-01-04 | 2022-02-03 |
 | [Let Us Go Then You and I](https://open.spotify.com/track/68bpbRXf2ICC7yQYZoOykS) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him](https://open.spotify.com/album/1E5h69F88qemJq7si8rLrW) | 5:28 | 2021-12-07 | 2022-01-05 |
@@ -52,6 +53,7 @@
 | [LOVELOST](https://open.spotify.com/track/4PEtmljaGQoAiohJWB4MxR) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [LOVELOST](https://open.spotify.com/album/1f0iHWy57iLnZ24gval97V) | 3:42 | 2022-01-04 | 2022-03-08 |
 | [Midsommar](https://open.spotify.com/track/5QlrGkuEC3vRSU147A9Urj) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [Midsommar](https://open.spotify.com/album/3RqSIvLM1Eq96zR6lHLfXg) | 4:31 | 2021-12-07 | 2022-03-08 |
 | [My Dear, Best Friend \(電影《喜歡妳是妳》主題曲\)](https://open.spotify.com/track/4s8bxtk4eKTilYs0IbfztA) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [My Dear, Best Friend \(電影《喜歡妳是妳》主題曲\)](https://open.spotify.com/album/1PRYfE5EGQ5g8Gf21wZoT2) | 4:14 | 2021-12-07 | 2022-01-05 |
+| [need/give me](https://open.spotify.com/track/2I5lObSyl2UqX6PrykvJAS) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [need/give me](https://open.spotify.com/album/5OS7a9coLERbREP13y3QBG) | 3:21 | 2024-01-09 |  |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-04-05 | 2023-11-30 |
 | [Neverland](https://open.spotify.com/track/7pO9B12E4T2E77osXssCm5) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [Neverland](https://open.spotify.com/album/3Nnur1VDPCFr1sh6JoyTEa) | 3:36 | 2022-01-04 | 2022-03-08 |
 | [Not too close](https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Not Too Close](https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ) | 2:55 | 2023-07-04 |  |
@@ -105,7 +107,7 @@
 | [修養動物](https://open.spotify.com/track/3gEclAuA5BZASJXkqubeJP) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [修養動物](https://open.spotify.com/album/74P05iBehlh9oJaiL2kgh2) | 4:11 | 2022-01-04 | 2022-12-01 |
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2023-01-03 |  |
 | [傻瓜機](https://open.spotify.com/track/23LQXqdTK8DhJVhWttUiw7) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [傻瓜機](https://open.spotify.com/album/7bzVRrsAmXcBTR89pULxDL) | 3:57 | 2022-01-04 | 2022-03-08 |
-| [先哭為敬](https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 4:10 | 2022-02-02 |  |
+| [先哭為敬](https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 4:10 | 2022-02-02 | 2024-01-10 |
 | [先哭為敬](https://open.spotify.com/track/4QgsL3BOO0VvMAFhh2nZVU) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [先哭為敬](https://open.spotify.com/album/0gFvFiJYdnFH8zACLXmImt) | 4:10 | 2021-12-07 | 2022-01-05 |
 | [兩個你](https://open.spotify.com/track/1vpxFxx27sDpx9oaeBPzyF) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [兩個你](https://open.spotify.com/album/04vZzjRIBZPqPqZiB9GwFX) | 3:16 | 2021-12-07 | 2022-01-05 |
 | [兩個月亮](https://open.spotify.com/track/5S3X9HuM3jsTUvQDTMSdae) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [兩個月亮](https://open.spotify.com/album/6IjLpaESpUOblB9qf56RhA) | 3:12 | 2021-12-07 | 2022-01-05 |
@@ -159,7 +161,7 @@
 | [忽然之間](https://open.spotify.com/track/1VY48jCBWuapKl0N5MXoJD) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [就是莫文蔚](https://open.spotify.com/album/2uNig55B76kXgNg54GGY2D) | 3:19 | 2022-11-30 | 2023-11-30 |
 | [怎麼可以吃兔兔](https://open.spotify.com/track/6MEtMzFqknx74ohaCIlKS0) | [GTB](https://open.spotify.com/artist/0vnu65ZX92UZbd1cYPXDwP) | [大香港精神](https://open.spotify.com/album/5e0aMfvhPr5IEMEf4F5t3q) | 3:07 | 2022-01-04 | 2022-02-03 |
 | [怕黑](https://open.spotify.com/track/4jO2OsxutgsDsedqUs2sYL) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Petit Fours](https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P) | 3:37 | 2022-08-02 | 2022-12-01 |
-| [恐懼蠶食心靈](https://open.spotify.com/track/5B5cFo2zP4DoPucjFLpiuj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [恐懼蠶食心靈](https://open.spotify.com/album/0FrVK9qBrzzP1WRDRgGL1M) | 3:30 | 2022-11-30 |  |
+| [恐懼蠶食心靈](https://open.spotify.com/track/5B5cFo2zP4DoPucjFLpiuj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [恐懼蠶食心靈](https://open.spotify.com/album/0FrVK9qBrzzP1WRDRgGL1M) | 3:30 | 2022-11-30 | 2024-01-10 |
 | [情緒勒索](https://open.spotify.com/track/41jjkuSFOuEygeQB0wlB4j) | [Elly艾妮](https://open.spotify.com/artist/1Qr8KvDLnY4wY8ndgYOu9S) | [情緒勒索](https://open.spotify.com/album/44Wh5ITHmLVnLQvd4ykw99) | 4:06 | 2022-02-02 | 2022-03-08 |
 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 | 2023-01-31 |  |
 | [愛情是一種法國甜品](https://open.spotify.com/track/1K3oDw5cEqKnzmc6AWgSgO) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [初音](https://open.spotify.com/album/4fVFgdlOH9JZVH60Su5Dkw) | 3:59 | 2022-11-30 | 2023-11-30 |

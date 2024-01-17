@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,196 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,572 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Can´t Buy Me Love \- Cover](https://open.spotify.com/track/0R7FUONHrec67CHQFimQx7) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Can´t Buy Me Love \(Cover\)](https://open.spotify.com/album/1mskFTnHBiTxtgyMLMZp00) | 4:34 |
+| 1 | [Minor Blues](https://open.spotify.com/track/6t2HcjnnEhuXSGqvAHyMFW) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Sven Jungbeck](https://open.spotify.com/artist/7zzUbMyOmvQtFCtlekdLoO), [Volker Kamp](https://open.spotify.com/artist/7FvlT1VctBs8JBH0O28jYc) | [Minor Blues](https://open.spotify.com/album/0ztTKEfTXBzWqnBYPNzs2X) | 6:37 |
 | 2 | [Someday My Prince Will Come](https://open.spotify.com/track/3jvxbohfMCNSV9K8rvVThF) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Antoine Boyer](https://open.spotify.com/artist/2UKlumP0ZZDFcnuOSeNxHP) | [French Connection, Vol\. 2](https://open.spotify.com/album/03aOf3MFWIlm1dSnE01Rlr) | 3:26 |
 | 3 | [A Fadin' Blue](https://open.spotify.com/track/6AvCrfnM8SZOuRrOZGsuER) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x), [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [A Fadin' Blue](https://open.spotify.com/album/21CGyD3PVhXNfMlq6QVLXc) | 3:09 |
 | 4 | [Billet doux](https://open.spotify.com/track/0q7dCoFz7QlS7vWwcuzQEO) | [Tchavolo Schmitt](https://open.spotify.com/artist/500N0I1rRpN81oULt3QUFY), [César Poirier](https://open.spotify.com/artist/2U6OrSeML4qxUzx9PNbB4d) | [Miri Chterna](https://open.spotify.com/album/15fwr9nsJzCGFj1Xv26pmf) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 74 | [Hungaria](https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Move](https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl) | 2:51 |
 | 75 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `MCxiZWYxYjQxOTY2NDI1Yzc3MDlmMjU5MzNlNDhhMWIwNWRlM2U4NDI1`
+Snapshot ID: `MCw3MjFlODE4NGI1ODM2ZGJjNjA5YjllYTQ3NWZlOWVlMmE0OGU2NTZi`

@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "album": {
         "name": "Avenida da Paix\u00e3o",
         "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
       },
@@ -342,7 +364,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 180481,
       "name": "Enquanto Houver",
       "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
@@ -432,7 +454,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
@@ -544,7 +566,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 195000,
       "name": "Garota Cai\u00e7ara",
       "url": "https://open.spotify.com/track/67ByPHrfGloIWO9FkELfOO"
@@ -1208,7 +1230,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 192446,
       "name": "sei l\u00e1",
       "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
@@ -1414,7 +1436,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 153253,
       "name": "Terra do Sol",
       "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"

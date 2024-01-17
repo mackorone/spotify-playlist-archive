@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 384973,
       "name": "In The Sky: Expansion",
       "url": "https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 181289,
       "name": "Sunflowers - Instrumental",
       "url": "https://open.spotify.com/track/4QbGLxnTppGc8Ezpj7sPz7"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 228413,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5PAQ2JpAOHW8q7u17qqh58"
@@ -2611,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "The Colour Purple",
+        "url": "https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "The Colour Purple",
+      "url": "https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI"
+    },
+    {
+      "album": {
         "name": "Motions",
         "url": "https://open.spotify.com/album/4kI3cs7XkyzACcl9suYQ6s"
       },
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 223256,
       "name": "The Pearl That Glitters",
       "url": "https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0"
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 161600,
       "name": "Twinkles",
       "url": "https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7"

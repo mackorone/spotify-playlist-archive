@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-16",
       "duration_ms": 191616,
       "name": "10%",
       "url": "https://open.spotify.com/track/7m0GLNroVLwS55FviKS0h7"
@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/500oNCqdXLgK8vLhE3BQnu"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209327,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/18pHQ7Tjkb8EKzq69qebUB"
+    },
+    {
+      "album": {
         "name": "Sweet Justice",
         "url": "https://open.spotify.com/album/27lT3u386mVfOWF2wwwP1i"
       },
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 234026,
       "name": "Ghost!",
       "url": "https://open.spotify.com/track/4aO23RMylJhaKG9VCzy3kG"
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 263445,
       "name": "Meditation",
       "url": "https://open.spotify.com/track/69sZjq2UfKfT46g0mVbgnv"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 137706,
       "name": "Need It",
       "url": "https://open.spotify.com/track/11NwaUSqSYmZrFWo2qO2Ng"
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 240810,
       "name": "Need It",
       "url": "https://open.spotify.com/track/03Q5Fy0QQXinaMSbmx2nWA"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits ! Photo : Teddy Swims",
+  "description": "Le meilleur des hits ! Photo : Sia",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 192387,
       "name": "Crush",
       "url": "https://open.spotify.com/track/5xAZbiKC3j8IVU3XQUybZ4"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 170261,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "The Ballet Girl",
+        "url": "https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199405,
+      "name": "Galileo Galilei",
+      "url": "https://open.spotify.com/track/3Ox5iyqF3SeTC2bqOA9V9u"
+    },
+    {
+      "album": {
         "name": "Gimme Love",
         "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
       },
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 237160,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/6dEysAhgnVJ9905XmZmwty"
@@ -1578,6 +1596,42 @@
       "duration_ms": 213178,
       "name": "Les petites gens - Radio Edit",
       "url": "https://open.spotify.com/track/0xULefKNTqOSzZQK7CJznN"
+    },
+    {
+      "album": {
+        "name": "Sentiments Heureux (nan j'd\u00e9conne)",
+        "url": "https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207035,
+      "name": "Les \u00e9toiles",
+      "url": "https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3"
+    },
+    {
+      "album": {
+        "name": "Life Is Life (C'est la vie)",
+        "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145525,
+      "name": "Life Is Life (C'est la vie)",
+      "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
     },
     {
       "album": {
@@ -1762,6 +1816,24 @@
       "duration_ms": 249920,
       "name": "Night Heights",
       "url": "https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU"
+    },
+    {
+      "album": {
+        "name": "On a chang\u00e9",
+        "url": "https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6"
+      },
+      "artists": [
+        {
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161552,
+      "name": "On a chang\u00e9",
+      "url": "https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6"
     },
     {
       "album": {

@@ -1,532 +1,1339 @@
 {
-  "2022-07-17": 18,
-  "2022-07-18": 35,
-  "2022-07-19": 42,
-  "2022-07-20": 88,
-  "2022-07-21": 136,
-  "2022-07-22": 182,
-  "2022-07-23": 230,
-  "2022-07-24": 280,
-  "2022-07-25": 333,
-  "2022-07-26": 377,
-  "2022-07-27": 428,
-  "2022-07-28": 460,
-  "2022-07-29": 511,
-  "2022-07-30": 614,
-  "2022-07-31": 614,
-  "2022-08-01": 671,
-  "2022-08-02": 753,
-  "2022-08-03": 753,
-  "2022-08-04": 800,
-  "2022-08-05": 842,
-  "2022-08-06": 875,
-  "2022-08-07": 924,
-  "2022-08-08": 964,
-  "2022-08-09": 998,
-  "2022-08-10": 1022,
-  "2022-08-11": 1063,
-  "2022-08-12": 1095,
-  "2022-08-13": 1136,
-  "2022-08-14": 1197,
-  "2022-08-15": 1241,
-  "2022-08-16": 1282,
-  "2022-08-17": 1320,
-  "2022-08-18": 1368,
-  "2022-08-19": 1408,
-  "2022-08-20": 1451,
-  "2022-08-21": 1498,
-  "2022-08-22": 1540,
-  "2022-08-23": 1582,
-  "2022-08-24": 1627,
-  "2022-08-25": 1678,
-  "2022-08-26": 1716,
-  "2022-08-27": 1759,
-  "2022-08-28": 1797,
-  "2022-08-29": 1840,
-  "2022-08-30": 1869,
-  "2022-08-31": 1917,
-  "2022-09-01": 1953,
-  "2022-09-02": 1998,
-  "2022-09-03": 2033,
-  "2022-09-04": 2078,
-  "2022-09-05": 2138,
-  "2022-09-06": 2175,
-  "2022-09-07": 2206,
-  "2022-09-09": 2278,
-  "2022-09-10": 2310,
-  "2022-09-11": 2349,
-  "2022-09-12": 2383,
-  "2022-09-13": 2416,
-  "2022-09-15": 2467,
-  "2022-09-16": 2497,
-  "2022-09-17": 2526,
-  "2022-09-18": 2566,
-  "2022-09-19": 2606,
-  "2022-09-20": 2636,
-  "2022-09-21": 2664,
-  "2022-09-22": 2704,
-  "2022-09-23": 2730,
-  "2022-09-24": 2785,
-  "2022-09-25": 2826,
-  "2022-09-26": 2868,
-  "2022-09-27": 2908,
-  "2022-09-28": 2947,
-  "2022-09-29": 2996,
-  "2022-09-30": 3031,
-  "2022-10-01": 3056,
-  "2022-10-02": 3098,
-  "2022-10-03": 3141,
-  "2022-10-04": 3171,
-  "2022-10-05": 3194,
-  "2022-10-06": 3233,
-  "2022-10-07": 3262,
-  "2022-10-08": 3312,
-  "2022-10-09": 3384,
-  "2022-10-10": 3401,
-  "2022-10-11": 3431,
-  "2022-10-12": 3464,
-  "2022-10-13": 3504,
-  "2022-10-14": 3532,
-  "2022-10-15": 3563,
-  "2022-10-16": 3611,
-  "2022-10-17": 3639,
-  "2022-10-18": 3658,
-  "2022-10-19": 3686,
-  "2022-10-20": 3720,
-  "2022-10-21": 3744,
-  "2022-10-22": 3773,
-  "2022-10-23": 3810,
-  "2022-10-24": 3848,
-  "2022-10-25": 3875,
-  "2022-10-26": 3911,
-  "2022-10-27": 3937,
-  "2022-10-28": 3975,
-  "2022-10-29": 4007,
-  "2022-10-30": 4053,
-  "2022-10-31": 4090,
-  "2022-11-01": 4111,
-  "2022-11-02": 4148,
-  "2022-11-03": 4179,
-  "2022-11-04": 4215,
-  "2022-11-05": 4243,
-  "2022-11-06": 4285,
-  "2022-11-07": 4319,
-  "2022-11-08": 4363,
-  "2022-11-09": 4404,
-  "2022-11-10": 4435,
-  "2022-11-11": 4475,
-  "2022-11-12": 4498,
-  "2022-11-13": 4533,
-  "2022-11-14": 4564,
-  "2022-11-15": 4593,
-  "2022-11-16": 4624,
-  "2022-11-17": 4649,
-  "2022-11-18": 4667,
-  "2022-11-19": 4679,
-  "2022-11-20": 4711,
-  "2022-11-21": 4750,
-  "2022-11-22": 4788,
-  "2022-11-23": 4817,
-  "2022-11-24": 4884,
-  "2022-11-25": 4940,
-  "2022-11-26": 4974,
-  "2022-11-27": 5006,
-  "2022-11-28": 5046,
-  "2022-11-29": 5075,
-  "2022-11-30": 5105,
-  "2022-12-01": 5160,
-  "2022-12-02": 5172,
-  "2022-12-03": 5225,
-  "2022-12-04": 5271,
-  "2022-12-05": 5299,
-  "2022-12-06": 5344,
-  "2022-12-07": 5376,
-  "2022-12-08": 5409,
-  "2022-12-09": 5438,
-  "2022-12-10": 5470,
-  "2022-12-11": 5501,
-  "2022-12-12": 5536,
-  "2022-12-13": 5561,
-  "2022-12-14": 5598,
-  "2022-12-15": 5625,
-  "2022-12-16": 5649,
-  "2022-12-17": 5674,
-  "2022-12-18": 5705,
-  "2022-12-19": 5740,
-  "2022-12-20": 5779,
-  "2022-12-21": 5779,
-  "2022-12-22": 5804,
-  "2022-12-24": 5849,
-  "2022-12-25": 5871,
-  "2022-12-26": 5896,
-  "2022-12-27": 5935,
-  "2022-12-28": 5979,
-  "2022-12-29": 6009,
-  "2022-12-30": 6041,
-  "2022-12-31": 6081,
-  "2023-01-01": 6111,
-  "2023-01-02": 6146,
-  "2023-01-03": 6190,
-  "2023-01-04": 6205,
-  "2023-01-05": 6230,
-  "2023-01-06": 6275,
-  "2023-01-07": 6320,
-  "2023-01-08": 6330,
-  "2023-01-09": 6367,
-  "2023-01-10": 6392,
-  "2023-01-11": 6420,
-  "2023-01-12": 6452,
-  "2023-01-13": 6477,
-  "2023-01-14": 6537,
-  "2023-01-15": 6548,
-  "2023-01-16": 6586,
-  "2023-01-17": 6608,
-  "2023-01-18": 6637,
-  "2023-01-19": 6673,
-  "2023-01-20": 6722,
-  "2023-01-21": 6771,
-  "2023-01-22": 6823,
-  "2023-01-23": 6868,
-  "2023-01-24": 6903,
-  "2023-01-25": 6930,
-  "2023-01-26": 6979,
-  "2023-01-27": 7015,
-  "2023-01-28": 7044,
-  "2023-01-29": 7080,
-  "2023-01-30": 7115,
-  "2023-01-31": 7115,
-  "2023-02-01": 7170,
-  "2023-02-02": 7207,
-  "2023-02-03": 7239,
-  "2023-02-04": 7263,
-  "2023-02-05": 7304,
-  "2023-02-06": 7336,
-  "2023-02-07": 7361,
-  "2023-02-08": 7424,
-  "2023-02-09": 7424,
-  "2023-02-10": 7458,
-  "2023-02-11": 7492,
-  "2023-02-12": 7570,
-  "2023-02-13": 7592,
-  "2023-02-14": 7592,
-  "2023-02-15": 7624,
-  "2023-02-16": 7645,
-  "2023-02-17": 7672,
-  "2023-02-18": 7741,
-  "2023-02-19": 7749,
-  "2023-02-20": 7770,
-  "2023-02-21": 7804,
-  "2023-02-22": 7835,
-  "2023-02-23": 7864,
-  "2023-02-24": 7897,
-  "2023-02-25": 7946,
-  "2023-02-26": 7974,
-  "2023-02-27": 8059,
-  "2023-02-28": 8059,
-  "2023-03-01": 8088,
-  "2023-03-02": 8120,
-  "2023-03-03": 8167,
-  "2023-03-04": 8195,
-  "2023-03-05": 8262,
-  "2023-03-06": 8262,
-  "2023-03-07": 8290,
-  "2023-03-08": 8324,
-  "2023-03-09": 8355,
-  "2023-03-10": 8387,
-  "2023-03-11": 8421,
-  "2023-03-12": 8452,
-  "2023-03-13": 8489,
-  "2023-03-14": 8515,
-  "2023-03-15": 8538,
-  "2023-03-16": 8567,
-  "2023-03-17": 8567,
-  "2023-03-18": 8615,
-  "2023-03-19": 8648,
-  "2023-03-20": 8684,
-  "2023-03-21": 8712,
-  "2023-03-22": 8742,
-  "2023-03-23": 8768,
-  "2023-03-24": 8768,
-  "2023-03-25": 8826,
-  "2023-03-26": 8857,
-  "2023-03-27": 8886,
-  "2023-03-28": 8902,
-  "2023-03-29": 8949,
-  "2023-03-30": 8989,
-  "2023-03-31": 8989,
-  "2023-04-01": 9023,
-  "2023-04-02": 9058,
-  "2023-04-03": 9095,
-  "2023-04-04": 9126,
-  "2023-04-05": 9157,
-  "2023-04-06": 9187,
-  "2023-04-07": 9222,
-  "2023-04-09": 9292,
-  "2023-04-10": 9325,
-  "2023-04-11": 9381,
-  "2023-04-12": 9381,
-  "2023-04-13": 9419,
-  "2023-04-14": 9452,
-  "2023-04-15": 9494,
-  "2023-04-16": 9535,
-  "2023-04-17": 9570,
-  "2023-04-18": 9601,
-  "2023-04-19": 9650,
-  "2023-04-20": 9694,
-  "2023-04-21": 9728,
-  "2023-04-22": 9766,
-  "2023-04-23": 9808,
-  "2023-04-24": 9852,
-  "2023-04-25": 9885,
-  "2023-04-26": 9940,
-  "2023-04-27": 9984,
-  "2023-04-28": 10016,
-  "2023-04-29": 10049,
-  "2023-04-30": 10104,
-  "2023-05-01": 10130,
-  "2023-05-02": 10155,
-  "2023-05-03": 10205,
-  "2023-05-04": 10250,
-  "2023-05-05": 10290,
-  "2023-05-06": 10325,
-  "2023-05-07": 10369,
-  "2023-05-08": 10400,
-  "2023-05-09": 10427,
-  "2023-05-10": 10465,
-  "2023-05-11": 10498,
-  "2023-05-12": 10526,
-  "2023-05-13": 10557,
-  "2023-05-14": 10601,
-  "2023-05-15": 10639,
-  "2023-05-16": 10672,
-  "2023-05-17": 10693,
-  "2023-05-18": 10721,
-  "2023-05-19": 10759,
-  "2023-05-20": 10831,
-  "2023-05-21": 10831,
-  "2023-05-22": 10831,
-  "2023-05-23": 10903,
-  "2023-05-24": 10959,
-  "2023-05-25": 10972,
-  "2023-05-26": 10987,
-  "2023-05-27": 11027,
-  "2023-05-28": 11068,
-  "2023-05-29": 11068,
-  "2023-05-30": 11141,
-  "2023-05-31": 11162,
-  "2023-06-01": 11191,
-  "2023-06-02": 11212,
-  "2023-06-03": 11241,
-  "2023-06-04": 11272,
-  "2023-06-05": 11301,
-  "2023-06-06": 11326,
-  "2023-06-07": 11345,
-  "2023-06-08": 11366,
-  "2023-06-09": 11394,
-  "2023-06-10": 11428,
-  "2023-06-11": 11462,
-  "2023-06-12": 11493,
-  "2023-06-13": 11525,
-  "2023-06-14": 11547,
-  "2023-06-15": 11578,
-  "2023-06-16": 11590,
-  "2023-06-17": 11620,
-  "2023-06-18": 11664,
-  "2023-06-19": 11698,
-  "2023-06-20": 11725,
-  "2023-06-21": 11749,
-  "2023-06-22": 11770,
-  "2023-06-23": 11801,
-  "2023-06-24": 11823,
-  "2023-06-25": 11854,
-  "2023-06-26": 11883,
-  "2023-06-27": 11910,
-  "2023-06-28": 11932,
-  "2023-06-29": 11961,
-  "2023-06-30": 11978,
-  "2023-07-01": 12038,
-  "2023-07-02": 12038,
-  "2023-07-03": 12065,
-  "2023-07-04": 12104,
-  "2023-07-05": 12141,
-  "2023-07-06": 12217,
-  "2023-07-07": 12217,
-  "2023-07-08": 12259,
-  "2023-07-09": 12298,
-  "2023-07-10": 12329,
-  "2023-07-11": 12352,
-  "2023-07-12": 12391,
-  "2023-07-13": 12415,
-  "2023-07-14": 12440,
-  "2023-07-15": 12470,
-  "2023-07-16": 12512,
-  "2023-07-17": 12534,
-  "2023-07-18": 12566,
-  "2023-07-19": 12594,
-  "2023-07-20": 12630,
-  "2023-07-21": 12659,
-  "2023-07-22": 12689,
-  "2023-07-23": 12727,
-  "2023-07-24": 12755,
-  "2023-07-25": 12788,
-  "2023-07-26": 12819,
-  "2023-07-27": 12846,
-  "2023-07-28": 12885,
-  "2023-07-29": 12972,
-  "2023-07-30": 13031,
-  "2023-07-31": 13083,
-  "2023-08-01": 13127,
-  "2023-08-02": 13163,
-  "2023-08-03": 13186,
-  "2023-08-04": 13231,
-  "2023-08-05": 13269,
-  "2023-08-06": 13353,
-  "2023-08-07": 13353,
-  "2023-08-08": 13396,
-  "2023-08-09": 13432,
-  "2023-08-10": 13468,
-  "2023-08-11": 13500,
-  "2023-08-12": 13541,
-  "2023-08-13": 13541,
-  "2023-08-14": 13620,
-  "2023-08-15": 13693,
-  "2023-08-16": 13693,
-  "2023-08-17": 13740,
-  "2023-08-18": 13786,
-  "2023-08-19": 13832,
-  "2023-08-20": 13885,
-  "2023-08-21": 13917,
-  "2023-08-22": 13943,
-  "2023-08-23": 13972,
-  "2023-08-24": 14005,
-  "2023-08-25": 14035,
-  "2023-08-26": 14080,
-  "2023-08-27": 14111,
-  "2023-08-28": 14149,
-  "2023-08-29": 14184,
-  "2023-08-30": 14205,
-  "2023-08-31": 14238,
-  "2023-09-01": 14357,
-  "2023-09-02": 14357,
-  "2023-09-03": 14434,
-  "2023-09-04": 14434,
-  "2023-09-05": 14642,
-  "2023-09-06": 14728,
-  "2023-09-07": 14728,
-  "2023-09-08": 14728,
-  "2023-09-09": 14728,
-  "2023-09-10": 15106,
-  "2023-09-11": 15184,
-  "2023-09-12": 15184,
-  "2023-09-13": 15332,
-  "2023-09-14": 15332,
-  "2023-09-15": 15494,
-  "2023-09-16": 15585,
-  "2023-09-17": 15585,
-  "2023-09-18": 15585,
-  "2023-09-19": 15843,
-  "2023-09-20": 15921,
-  "2023-09-21": 16014,
-  "2023-09-22": 16109,
-  "2023-09-23": 16109,
-  "2023-09-24": 16109,
-  "2023-09-25": 16109,
-  "2023-09-26": 16465,
-  "2023-09-27": 16465,
-  "2023-09-28": 16465,
-  "2023-09-29": 16465,
-  "2023-09-30": 16465,
-  "2023-10-01": 16465,
-  "2023-10-02": 16899,
-  "2023-10-03": 16899,
-  "2023-10-04": 16899,
-  "2023-10-05": 17089,
-  "2023-10-06": 17160,
-  "2023-10-07": 17160,
-  "2023-10-08": 17160,
-  "2023-10-09": 17160,
-  "2023-10-10": 17160,
-  "2023-10-11": 17524,
-  "2023-10-12": 17524,
-  "2023-10-13": 17658,
-  "2023-10-14": 17658,
-  "2023-10-15": 17658,
-  "2023-10-16": 17658,
-  "2023-10-17": 17658,
-  "2023-10-18": 17658,
-  "2023-10-19": 17658,
-  "2023-10-20": 17658,
-  "2023-10-21": 17658,
-  "2023-10-22": 17658,
-  "2023-10-23": 17658,
-  "2023-10-24": 17658,
-  "2023-10-25": 17658,
-  "2023-10-26": 17658,
-  "2023-10-27": 17658,
-  "2023-10-28": 17658,
-  "2023-10-29": 17658,
-  "2023-10-30": 17658,
-  "2023-10-31": 17658,
-  "2023-11-01": 17658,
-  "2023-11-02": 17658,
-  "2023-11-03": 17658,
-  "2023-11-04": 17658,
-  "2023-11-05": 17658,
-  "2023-11-06": 17658,
-  "2023-11-07": 17658,
-  "2023-11-08": 17658,
-  "2023-11-09": 17658,
-  "2023-11-10": 17658,
-  "2023-11-11": 19674,
-  "2023-11-12": 19674,
-  "2023-11-13": 19674,
-  "2023-11-14": 19674,
-  "2023-11-15": 19674,
-  "2023-11-16": 19674,
-  "2023-11-17": 20118,
-  "2023-11-18": 20118,
-  "2023-11-19": 20118,
-  "2023-11-20": 20118,
-  "2023-11-21": 20118,
-  "2023-11-22": 20118,
-  "2023-11-23": 20118,
-  "2023-11-24": 20118,
-  "2023-11-25": 20118,
-  "2023-11-26": 20118,
-  "2023-11-27": 20118,
-  "2023-11-28": 20118,
-  "2023-11-29": 20118,
-  "2023-11-30": 20118,
-  "2023-12-01": 20118,
-  "2023-12-02": 20118,
-  "2023-12-03": 20118,
-  "2023-12-04": 20118,
-  "2023-12-05": 20118,
-  "2023-12-06": 20118,
-  "2023-12-07": 20118,
-  "2023-12-08": 20118,
-  "2023-12-09": 20118,
-  "2023-12-10": 20118,
-  "2023-12-11": 20118,
-  "2023-12-12": 20118,
-  "2023-12-13": 20118,
-  "2023-12-14": 21916,
-  "2023-12-15": 21939,
-  "2023-12-16": 21993,
-  "2023-12-17": 22031,
-  "2023-12-18": 22079,
-  "2023-12-19": 22112,
-  "2023-12-20": 22154,
-  "2023-12-21": 22215,
-  "2023-12-22": 22252,
-  "2023-12-23": 22288,
-  "2023-12-24": 22326,
-  "2023-12-25": 22378,
-  "2023-12-26": 22427,
-  "2023-12-27": 22492,
-  "2023-12-30": 22700,
-  "2023-12-31": 22747,
-  "2024-01-01": 22815,
-  "2024-01-02": 22875,
-  "2024-01-03": 22927
+  "2024-01-17": 23669,
+  "date_first_scraped": "2022-07-17",
+  "description": "Eagles at their best. Explore their deep catalog as a band and as solo artists.",
+  "name": "Eagles & Beyond",
+  "tracks": [
+    {
+      "album": {
+        "name": "There Goes the Neighborhood",
+        "url": "https://open.spotify.com/album/2hsMdQyMatj8wUABiwGgkN"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "A Life of Illusion",
+      "url": "https://open.spotify.com/track/19P4fwkPhE6yVAXApFWDoF"
+    },
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236663,
+      "name": "After the Thrill Is Gone - 2013 Remaster",
+      "url": "https://open.spotify.com/track/73gx888k1raTwjFeuqIV5D"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255345,
+      "name": "Already Gone - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0CKxrnF9KplS21LTjkkqsW"
+    },
+    {
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301049,
+      "name": "Bitter Creek - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2h3bBo0QAPd3jbbAiqCdYZ"
+    },
+    {
+      "album": {
+        "name": "Cass County (Deluxe)",
+        "url": "https://open.spotify.com/album/4vM5KEIIw02lUaOUwYloJp"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        },
+        {
+          "name": "Mick Jagger",
+          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 270334,
+      "name": "Bramble Rose",
+      "url": "https://open.spotify.com/track/19pTbi9xqbInEHxpTIIhBN"
+    },
+    {
+      "album": {
+        "name": "Cass County (Deluxe)",
+        "url": "https://open.spotify.com/album/3qsw8b2cxvBthq1OQIKBB3"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        },
+        {
+          "name": "Mick Jagger",
+          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270334,
+      "name": "Bramble Rose",
+      "url": "https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n"
+    },
+    {
+      "album": {
+        "name": "Long Road out of Eden",
+        "url": "https://open.spotify.com/album/2cWtnFvM7BmyQG1ojQDcCT"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260893,
+      "name": "Busy Being Fabulous",
+      "url": "https://open.spotify.com/track/5wOGGVXcqG8HQnAO6FV3Ew"
+    },
+    {
+      "album": {
+        "name": "So What (Reissue)",
+        "url": "https://open.spotify.com/album/2ZRni2AFuPtW6z5jBUD3Vf"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410760,
+      "name": "County Fair",
+      "url": "https://open.spotify.com/track/4xbMohp9CBKxfLhnjsV9l2"
+    },
+    {
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213712,
+      "name": "Desperado - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
+    },
+    {
+      "album": {
+        "name": "I Can\u2019t Stand Still",
+        "url": "https://open.spotify.com/album/0C4C2xUJxiRsY4X0QcIS4Z"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336800,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/1deZHQ9Na7bnWA9pulmlXD"
+    },
+    {
+      "album": {
+        "name": "I Can't Stand Still",
+        "url": "https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 336800,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/4RFNorcvSYeK06o3DjKV4P"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 336893,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/1Zqngj1RHFoYW7X6PKmP2o"
+    },
+    {
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207059,
+      "name": "Doolin-Dalton - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0huHTieLTlluurvasQLB74"
+    },
+    {
+      "album": {
+        "name": "Yer' Album",
+        "url": "https://open.spotify.com/album/5rsl1kj0N1N7yKQcBsjmMK"
+      },
+      "artists": [
+        {
+          "name": "James Gang",
+          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Funk #48",
+      "url": "https://open.spotify.com/track/14R4uuf0SMjNmfLfHvMLZJ"
+    },
+    {
+      "album": {
+        "name": "Rides Again",
+        "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
+      },
+      "artists": [
+        {
+          "name": "James Gang",
+          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246293,
+      "name": "Funk #49",
+      "url": "https://open.spotify.com/track/5h6SovHOYpIMlAkafxcbq3"
+    },
+    {
+      "album": {
+        "name": "Natural Progressions",
+        "url": "https://open.spotify.com/album/4ydY0zl9N3xXEhGjQ6FuAq"
+      },
+      "artists": [
+        {
+          "name": "Bernie Leadon",
+          "url": "https://open.spotify.com/artist/6Owil7XUQjKn5rnhhcBelK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407293,
+      "name": "Glass Off",
+      "url": "https://open.spotify.com/track/5y3Uzcl2XAIlOJ8cHXMdjP"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265678,
+      "name": "Heartache Tonight - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr"
+    },
+    {
+      "album": {
+        "name": "One More Song",
+        "url": "https://open.spotify.com/album/5AjIAixuRsoNterGSS4uum"
+      },
+      "artists": [
+        {
+          "name": "Randy Meisner",
+          "url": "https://open.spotify.com/artist/00f43SIUld0KU349dnwsmC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "Hearts On Fire",
+      "url": "https://open.spotify.com/track/1NWART8FuUdzfE8d8ueETL"
+    },
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241648,
+      "name": "Hollywood Waltz - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0UO8DI12zDPa40eXCfpMoY"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+    },
+    {
+      "album": {
+        "name": "Long Road out of Eden",
+        "url": "https://open.spotify.com/album/2cWtnFvM7BmyQG1ojQDcCT"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/7hq1Zo9SwHN8Hi2Q4vn6PU"
+    },
+    {
+      "album": {
+        "name": "You Bought It - You Name It",
+        "url": "https://open.spotify.com/album/2e9fTNNnhdHMNnzgTfXqnz"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183240,
+      "name": "I Can Play That Rock & Roll",
+      "url": "https://open.spotify.com/track/5JyQsSlG4lKkcOQ8pi8NfH"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295049,
+      "name": "I Can't Tell You Why - 2013 Remaster",
+      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
+    },
+    {
+      "album": {
+        "name": "Tell Me The Truth",
+        "url": "https://open.spotify.com/album/2W5sZrfKcp5cShm2gH5IZu"
+      },
+      "artists": [
+        {
+          "name": "Timothy B. Schmit",
+          "url": "https://open.spotify.com/artist/2VbrivHnDf4Z43xPTgqvym"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250533,
+      "name": "In Roxy's Eyes",
+      "url": "https://open.spotify.com/track/4S5Mt54CjTI9YmikxrCqzg"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224549,
+      "name": "In the City - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3fgch6faHYPKqE6C3hIYfo"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218269,
+      "name": "James Dean - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
+    },
+    {
+      "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298893,
+      "name": "Just Can't Be",
+      "url": "https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp"
+    },
+    {
+      "album": {
+        "name": "But Seriously, Folks...",
+        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536226,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
+    },
+    {
+      "album": {
+        "name": "Hell Freezes Over (Remaster 2018)",
+        "url": "https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243453,
+      "name": "Love Will Keep Us Alive",
+      "url": "https://open.spotify.com/track/7bJSiwLFnhoO7g83bWkCtA"
+    },
+    {
+      "album": {
+        "name": "The Allnighter",
+        "url": "https://open.spotify.com/album/1XrMP6S74aDQjLvDpSFD9c"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251400,
+      "name": "Lover's Moon",
+      "url": "https://open.spotify.com/track/2QlVjJhaIWXoN6LfCIVfPi"
+    },
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
+      "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/4fITTowTregwKJsupg4DW2"
+      },
+      "artists": [
+        {
+          "name": "Timothy B. Schmit",
+          "url": "https://open.spotify.com/artist/2VbrivHnDf4Z43xPTgqvym"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227506,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/7afDrKRFdJYqdUvcs613hk"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238163,
+      "name": "Midnight Flyer - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0q4oNTRAUqHcBMhwMDlcnn"
+    },
+    {
+      "album": {
+        "name": "Leap of Faith",
+        "url": "https://open.spotify.com/album/6P53Q3awyJP662ExqPLREW"
+      },
+      "artists": [
+        {
+          "name": "Timothy B. Schmit",
+          "url": "https://open.spotify.com/artist/2VbrivHnDf4Z43xPTgqvym"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320133,
+      "name": "My Hat",
+      "url": "https://open.spotify.com/track/04t73PQ7Y04oXizteqJSYb"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209762,
+      "name": "My Man - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3mCiJj4dZftJvh1s1wOoLs"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261238,
+      "name": "Ol' 55 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0pH4QNsSphVLCy9zjPzqiP"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263456,
+      "name": "On the Border - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4ks6ecD50moKz0FD5dJKFJ"
+    },
+    {
+      "album": {
+        "name": "Analog Man",
+        "url": "https://open.spotify.com/album/076bM8NjtRgmIGGrF3Mb6k"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "One Day At A Time",
+      "url": "https://open.spotify.com/track/1z3PhiWMUpj2Lu43T3rQfK"
+    },
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "album": {
+        "name": "Ordinary Average Guy",
+        "url": "https://open.spotify.com/album/1ktJ6umFTeO2gDeEODzjZG"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "Ordinary Average Guy",
+      "url": "https://open.spotify.com/track/6LBpVY2dEIemTyGQpkBUj1"
+    },
+    {
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213430,
+      "name": "Outlaw Man - 2013 Remaster",
+      "url": "https://open.spotify.com/track/798K1FlIgRmuIIJeSbmmA0"
+    },
+    {
+      "album": {
+        "name": "Expando",
+        "url": "https://open.spotify.com/album/3f6tXDLHjevUNut9AXtt7c"
+      },
+      "artists": [
+        {
+          "name": "Timothy B. Schmit",
+          "url": "https://open.spotify.com/artist/2VbrivHnDf4Z43xPTgqvym"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379413,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/27eRs5GCCZfvqXG4Ds3xti"
+    },
+    {
+      "album": {
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/7cDlByy88QX3tyuVZgiSIt"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "Part Of Me, Part Of You",
+      "url": "https://open.spotify.com/track/5wsflCTlGxNn2z91O7KVgK"
+    },
+    {
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257962,
+      "name": "Peaceful Easy Feeling - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239493,
+      "name": "Pretty Maids All in a Row - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1LWDDpoVNF6YAFt95ETAS2"
+    },
+    {
+      "album": {
+        "name": "Longbranch/Pennywhistle (Remastered)",
+        "url": "https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp"
+      },
+      "artists": [
+        {
+          "name": "Longbranch/Pennywhistle",
+          "url": "https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168493,
+      "name": "Rebecca - Remastered",
+      "url": "https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl"
+    },
+    {
+      "album": {
+        "name": "Linda Ronstadt",
+        "url": "https://open.spotify.com/album/3O8Xv08sL6yK13WXed09ys"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "Rock Me On The Water",
+      "url": "https://open.spotify.com/track/50DGEghpwDFdZovHi0nz7K"
+    },
+    {
+      "album": {
+        "name": "The Smoker You Drink, The Player You Get",
+        "url": "https://open.spotify.com/album/6Sdkho6t0ure9XTzZXM2CK"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315400,
+      "name": "Rocky Mountain Way",
+      "url": "https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5"
+    },
+    {
+      "album": {
+        "name": "Playin' It Cool",
+        "url": "https://open.spotify.com/album/78MYE6N6PfoZDoikNBdjP9"
+      },
+      "artists": [
+        {
+          "name": "Timothy B. Schmit",
+          "url": "https://open.spotify.com/artist/2VbrivHnDf4Z43xPTgqvym"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136893,
+      "name": "So Much in Love",
+      "url": "https://open.spotify.com/track/4HIcn25dIDQgUURWvGKRUq"
+    },
+    {
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "album": {
+        "name": "Randy Meisner",
+        "url": "https://open.spotify.com/album/0e2SRIvDcdx7xXKZBEb48h"
+      },
+      "artists": [
+        {
+          "name": "Randy Meisner",
+          "url": "https://open.spotify.com/artist/00f43SIUld0KU349dnwsmC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259413,
+      "name": "Take It to the Limit",
+      "url": "https://open.spotify.com/track/2EhszzA7t9Jptste4v3CPT"
+    },
+    {
+      "album": {
+        "name": "Soft Rock For Kids",
+        "url": "https://open.spotify.com/album/3TdyAkbn8phqy6xoCx6tXu"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 331600,
+      "name": "Taking You Home",
+      "url": "https://open.spotify.com/track/2Ro4mKGAO5zgfwZmThAWhj"
+    },
+    {
+      "album": {
+        "name": "Inside Job",
+        "url": "https://open.spotify.com/album/6joEVcRAygVpcDBWh7extk"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 331666,
+      "name": "Taking You Home",
+      "url": "https://open.spotify.com/track/114ZIcx0S3gJkZmT3wmGte"
+    },
+    {
+      "album": {
+        "name": "Inside Job",
+        "url": "https://open.spotify.com/album/5WgUhTGN9wJsZ6kJDcz9mM"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331666,
+      "name": "Taking You Home",
+      "url": "https://open.spotify.com/track/7AoJXxRBfLVF2Dpx75lcg9"
+    },
+    {
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "Tequila Sunrise - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274891,
+      "name": "The Best of My Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO"
+    },
+    {
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "album": {
+        "name": "The Confessor",
+        "url": "https://open.spotify.com/album/2VjJO68TbOPy1Id8a1PCoO"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426533,
+      "name": "The Confessor",
+      "url": "https://open.spotify.com/track/2gBq12zOMMa5ZAl9zFMjfK"
+    },
+    {
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444911,
+      "name": "The Last Resort - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0MrZG1nTNQVzeSJKi6gFVF"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221234,
+      "name": "The Long Run - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2YOwVfcUTRjNpcLny4UC4r"
+    },
+    {
+      "album": {
+        "name": "No Fun Aloud",
+        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274560,
+      "name": "The One You Love",
+      "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
+    },
+    {
+      "album": {
+        "name": "Got Any Gum?",
+        "url": "https://open.spotify.com/album/6Is4r41K1zGhe0dOYhoAZV"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211733,
+      "name": "The Radio Song",
+      "url": "https://open.spotify.com/track/4pOy712tjNNZxIhX5VllU6"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294835,
+      "name": "Those Shoes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/13TrgZ4RqtjXd8w9wAuwxE"
+    },
+    {
+      "album": {
+        "name": "Soul Searchin'",
+        "url": "https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279693,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311068,
+      "name": "Try and Love Again - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3ULgE72PnMaeV6lzA0G6Jv"
+    },
+    {
+      "album": {
+        "name": "Barnstorm",
+        "url": "https://open.spotify.com/album/2mSYM0x3K8DxJar56FRlx4"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320200,
+      "name": "Turn To Stone",
+      "url": "https://open.spotify.com/track/20IZ33kPSL7XV0WmKNaZVa"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250089,
+      "name": "Victim of Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1tKha6Q0lYlW1qsWYbZB2N"
+    },
+    {
+      "album": {
+        "name": "Thirds",
+        "url": "https://open.spotify.com/album/0QoD6z28TltvI4pVY4bEGl"
+      },
+      "artists": [
+        {
+          "name": "James Gang",
+          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212694,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/65aeHyw8GdHFwmEvdSns21"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296172,
+      "name": "Wasted Time - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0Q5YtY85lz5n7rQkeMNpoe"
+    },
+    {
+      "album": {
+        "name": "Pickin' Up The Pieces",
+        "url": "https://open.spotify.com/album/31JHlS7gDQo3AqxpJOP7ht"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "What A Day",
+      "url": "https://open.spotify.com/track/6qlJdhyWNWMHteqkOCinRy"
+    },
+    {
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250888,
+      "name": "Witchy Woman - 2013 Remaster",
+      "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdzvUJyTnhLh"
 }

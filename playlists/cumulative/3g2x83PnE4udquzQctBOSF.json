@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/07XMRuimaG7X1vbryMOpib"
+      },
+      "artists": [
+        {
+          "name": "Des & Del",
+          "url": "https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148953,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7AJy67TqJVYSSlp4z01H4d"
+    },
+    {
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
       },
@@ -1453,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/1FPIVz5o2Hg39u3Z1f9g2p"
+      },
+      "artists": [
+        {
+          "name": "Survival Mode",
+          "url": "https://open.spotify.com/artist/71ZV9O3HAnc2zBk1Pq3LwZ"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/4PBW79WVzYojdwSPdzHXjA"
+    },
+    {
+      "album": {
         "name": "Do My Thing",
         "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
       },
@@ -1500,7 +1536,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 223631,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
@@ -1951,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/2yQPHbFZ8h17Be5OsICWIi"
+      },
+      "artists": [
+        {
+          "name": "Rimbano",
+          "url": "https://open.spotify.com/artist/3v1oNkquKNV6nyXjpQvF3W"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326504,
+      "name": "Face To Face",
+      "url": "https://open.spotify.com/track/4xc2PKPPWvHs4z6zRdQwyx"
+    },
+    {
+      "album": {
         "name": "Fake ID",
         "url": "https://open.spotify.com/album/6JVsvw6mrOOD6fgJZmRb0A"
       },
@@ -2100,7 +2154,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 358139,
       "name": "Flash",
       "url": "https://open.spotify.com/track/0jvrVHIuoIvC8kaxZPjCmO"
@@ -2326,7 +2380,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 198750,
       "name": "Funk Soul Brother - GENESI Edit",
       "url": "https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z"
@@ -2526,6 +2580,24 @@
       "duration_ms": 217410,
       "name": "Gimme That Bounce",
       "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "album": {
+        "name": "Give You",
+        "url": "https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Give You",
+      "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
     },
     {
       "album": {
@@ -2950,7 +3022,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 179999,
       "name": "If U Need It",
       "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
@@ -3736,10 +3808,28 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
+    },
+    {
+      "album": {
+        "name": "Mind Off",
+        "url": "https://open.spotify.com/album/6jKW9d2z4n5o547bPVHIVK"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190393,
+      "name": "Mind Off",
+      "url": "https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp"
     },
     {
       "album": {
@@ -5674,7 +5764,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 165000,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/1Q1clcocESI1KAgIQ638lS"
@@ -5696,7 +5786,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 215091,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
@@ -5801,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "Wu Tang",
+        "url": "https://open.spotify.com/album/1ebAXsBdHujq09tlX49MuA"
+      },
+      "artists": [
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217790,
+      "name": "Wu Tang",
+      "url": "https://open.spotify.com/track/2pZZo8nD0TTbtad8az4tPF"
+    },
+    {
+      "album": {
         "name": "XTC",
         "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
       },
@@ -5852,6 +5960,24 @@
       "duration_ms": 329999,
       "name": "You",
       "url": "https://open.spotify.com/track/64XuVVslGI3wdiz1nbFRcp"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv"
     },
     {
       "album": {

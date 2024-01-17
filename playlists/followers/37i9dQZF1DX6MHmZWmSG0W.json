@@ -1,284 +1,435 @@
 {
-  "2023-03-25": 954,
-  "2023-03-26": 1086,
-  "2023-03-27": 1165,
-  "2023-03-28": 1196,
-  "2023-03-29": 1228,
-  "2023-03-30": 1306,
-  "2023-03-31": 1306,
-  "2023-04-01": 1341,
-  "2023-04-02": 1372,
-  "2023-04-03": 1386,
-  "2023-04-04": 1413,
-  "2023-04-05": 1424,
-  "2023-04-06": 1440,
-  "2023-04-07": 1461,
-  "2023-04-09": 1512,
-  "2023-04-10": 1521,
-  "2023-04-11": 1546,
-  "2023-04-12": 1546,
-  "2023-04-13": 1559,
-  "2023-04-14": 1579,
-  "2023-04-15": 1585,
-  "2023-04-16": 1599,
-  "2023-04-17": 1606,
-  "2023-04-18": 1618,
-  "2023-04-19": 1628,
-  "2023-04-20": 1639,
-  "2023-04-21": 1655,
-  "2023-04-22": 1669,
-  "2023-04-23": 1681,
-  "2023-04-24": 1691,
-  "2023-04-25": 1702,
-  "2023-04-26": 1709,
-  "2023-04-27": 1723,
-  "2023-04-28": 1732,
-  "2023-04-29": 1749,
-  "2023-04-30": 1756,
-  "2023-05-01": 1766,
-  "2023-05-02": 1775,
-  "2023-05-03": 1788,
-  "2023-05-04": 1800,
-  "2023-05-05": 1808,
-  "2023-05-06": 1827,
-  "2023-05-07": 1836,
-  "2023-05-08": 1849,
-  "2023-05-09": 1860,
-  "2023-05-10": 1870,
-  "2023-05-11": 1883,
-  "2023-05-12": 1890,
-  "2023-05-13": 1909,
-  "2023-05-14": 1921,
-  "2023-05-15": 1932,
-  "2023-05-16": 1945,
-  "2023-05-17": 1955,
-  "2023-05-18": 1964,
-  "2023-05-19": 1976,
-  "2023-05-20": 2009,
-  "2023-05-21": 2009,
-  "2023-05-22": 2009,
-  "2023-05-23": 2033,
-  "2023-05-24": 2048,
-  "2023-05-25": 2050,
-  "2023-05-26": 2059,
-  "2023-05-27": 2070,
-  "2023-05-28": 2083,
-  "2023-05-29": 2083,
-  "2023-05-30": 2095,
-  "2023-05-31": 2101,
-  "2023-06-01": 2106,
-  "2023-06-02": 2111,
-  "2023-06-03": 2121,
-  "2023-06-04": 2126,
-  "2023-06-05": 2135,
-  "2023-06-06": 2138,
-  "2023-06-07": 2149,
-  "2023-06-08": 2166,
-  "2023-06-09": 2182,
-  "2023-06-10": 2187,
-  "2023-06-11": 2200,
-  "2023-06-12": 2212,
-  "2023-06-13": 2223,
-  "2023-06-14": 2224,
-  "2023-06-15": 2230,
-  "2023-06-16": 2241,
-  "2023-06-17": 2249,
-  "2023-06-18": 2259,
-  "2023-06-19": 2266,
-  "2023-06-20": 2276,
-  "2023-06-21": 2287,
-  "2023-06-22": 2307,
-  "2023-06-23": 2313,
-  "2023-06-24": 2323,
-  "2023-06-25": 2335,
-  "2023-06-26": 2343,
-  "2023-06-27": 2358,
-  "2023-06-28": 2366,
-  "2023-06-29": 2371,
-  "2023-06-30": 2381,
-  "2023-07-01": 2399,
-  "2023-07-02": 2399,
-  "2023-07-03": 2407,
-  "2023-07-04": 2414,
-  "2023-07-05": 2420,
-  "2023-07-06": 2432,
-  "2023-07-07": 2432,
-  "2023-07-08": 2443,
-  "2023-07-09": 2449,
-  "2023-07-10": 2458,
-  "2023-07-11": 2473,
-  "2023-07-12": 2492,
-  "2023-07-13": 2511,
-  "2023-07-14": 2527,
-  "2023-07-15": 2544,
-  "2023-07-16": 2562,
-  "2023-07-17": 2572,
-  "2023-07-18": 2577,
-  "2023-07-19": 2589,
-  "2023-07-20": 2595,
-  "2023-07-21": 2612,
-  "2023-07-22": 2627,
-  "2023-07-23": 2646,
-  "2023-07-24": 2656,
-  "2023-07-25": 2672,
-  "2023-07-26": 2693,
-  "2023-07-27": 2706,
-  "2023-07-28": 2723,
-  "2023-07-29": 2739,
-  "2023-07-30": 2755,
-  "2023-07-31": 2763,
-  "2023-08-01": 2771,
-  "2023-08-02": 2784,
-  "2023-08-03": 2800,
-  "2023-08-04": 2813,
-  "2023-08-05": 2828,
-  "2023-08-06": 2845,
-  "2023-08-07": 2845,
-  "2023-08-08": 2861,
-  "2023-08-09": 2876,
-  "2023-08-10": 2889,
-  "2023-08-11": 2898,
-  "2023-08-12": 2911,
-  "2023-08-13": 2922,
-  "2023-08-14": 2936,
-  "2023-08-15": 2949,
-  "2023-08-16": 2949,
-  "2023-08-17": 2963,
-  "2023-08-18": 2979,
-  "2023-08-19": 2992,
-  "2023-08-20": 3007,
-  "2023-08-21": 3022,
-  "2023-08-22": 3030,
-  "2023-08-23": 3041,
-  "2023-08-24": 3048,
-  "2023-08-25": 3054,
-  "2023-08-26": 3055,
-  "2023-08-27": 3062,
-  "2023-08-28": 3068,
-  "2023-08-29": 3080,
-  "2023-08-30": 3088,
-  "2023-08-31": 3095,
-  "2023-09-01": 3122,
-  "2023-09-02": 3122,
-  "2023-09-03": 3141,
-  "2023-09-04": 3153,
-  "2023-09-05": 3171,
-  "2023-09-06": 3177,
-  "2023-09-07": 3188,
-  "2023-09-08": 3198,
-  "2023-09-09": 3210,
-  "2023-09-10": 3220,
-  "2023-09-11": 3230,
-  "2023-09-12": 3242,
-  "2023-09-13": 3252,
-  "2023-09-14": 3266,
-  "2023-09-15": 3281,
-  "2023-09-16": 3297,
-  "2023-09-17": 3312,
-  "2023-09-18": 3323,
-  "2023-09-19": 3330,
-  "2023-09-20": 3339,
-  "2023-09-21": 3349,
-  "2023-09-22": 3361,
-  "2023-09-23": 3369,
-  "2023-09-24": 3380,
-  "2023-09-25": 3388,
-  "2023-09-26": 3402,
-  "2023-09-27": 3408,
-  "2023-09-28": 3424,
-  "2023-09-29": 3428,
-  "2023-09-30": 3439,
-  "2023-10-01": 3451,
-  "2023-10-02": 3462,
-  "2023-10-03": 3473,
-  "2023-10-04": 3480,
-  "2023-10-05": 3488,
-  "2023-10-06": 3501,
-  "2023-10-07": 3514,
-  "2023-10-08": 3530,
-  "2023-10-09": 3550,
-  "2023-10-10": 3560,
-  "2023-10-11": 3578,
-  "2023-10-12": 3578,
-  "2023-10-13": 3591,
-  "2023-10-14": 3601,
-  "2023-10-15": 3606,
-  "2023-10-16": 3611,
-  "2023-10-17": 3613,
-  "2023-10-18": 3623,
-  "2023-10-19": 3631,
-  "2023-10-20": 3640,
-  "2023-10-21": 3651,
-  "2023-10-22": 3657,
-  "2023-10-23": 3661,
-  "2023-10-24": 3671,
-  "2023-10-25": 3677,
-  "2023-10-26": 3689,
-  "2023-10-27": 3699,
-  "2023-10-28": 3706,
-  "2023-10-29": 3716,
-  "2023-10-30": 3724,
-  "2023-10-31": 3724,
-  "2023-11-01": 3725,
-  "2023-11-02": 3732,
-  "2023-11-03": 3736,
-  "2023-11-04": 3744,
-  "2023-11-05": 3749,
-  "2023-11-06": 3759,
-  "2023-11-07": 3759,
-  "2023-11-08": 3759,
-  "2023-11-09": 3759,
-  "2023-11-10": 3759,
-  "2023-11-11": 3759,
-  "2023-11-12": 3759,
-  "2023-11-13": 3759,
-  "2023-11-14": 3759,
-  "2023-11-15": 3759,
-  "2023-11-16": 3759,
-  "2023-11-17": 3759,
-  "2023-11-18": 3759,
-  "2023-11-19": 3759,
-  "2023-11-20": 3759,
-  "2023-11-21": 3759,
-  "2023-11-22": 3759,
-  "2023-11-23": 3759,
-  "2023-11-24": 3759,
-  "2023-11-25": 3759,
-  "2023-11-26": 3759,
-  "2023-11-27": 3759,
-  "2023-11-28": 3759,
-  "2023-11-29": 3759,
-  "2023-11-30": 3759,
-  "2023-12-01": 3759,
-  "2023-12-02": 3759,
-  "2023-12-03": 3759,
-  "2023-12-04": 3759,
-  "2023-12-05": 3759,
-  "2023-12-06": 3759,
-  "2023-12-07": 3759,
-  "2023-12-08": 3759,
-  "2023-12-09": 3759,
-  "2023-12-10": 3759,
-  "2023-12-11": 3759,
-  "2023-12-12": 3759,
-  "2023-12-13": 3759,
-  "2023-12-14": 3759,
-  "2023-12-15": 3759,
-  "2023-12-16": 3759,
-  "2023-12-17": 3759,
-  "2023-12-18": 3759,
-  "2023-12-19": 3759,
-  "2023-12-20": 3759,
-  "2023-12-21": 3759,
-  "2023-12-22": 3759,
-  "2023-12-23": 3759,
-  "2023-12-24": 3759,
-  "2023-12-25": 3759,
-  "2023-12-26": 3759,
-  "2023-12-27": 3759,
-  "2023-12-30": 3759,
-  "2023-12-31": 3759,
-  "2024-01-01": 3759,
-  "2024-01-02": 3759,
-  "2024-01-03": 3759
+  "2024-01-17": 3759,
+  "date_first_scraped": "2023-03-25",
+  "description": "Let <a href=\"spotify:artist:5PdkRVDASsw6P7QoqRpz0F\">Salvatore Ganacci</a>'s uniqueness be heard in this energetic mix filled with his own productions.",
+  "name": "Salvatore Ganacci's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "And Dance (Mixed)",
+        "url": "https://open.spotify.com/album/79sHKm3O5JaOLIYdWyrvMq"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "And Dance - Mixed",
+      "url": "https://open.spotify.com/track/58OyAeuAx3i1WNe2Sg45N5"
+    },
+    {
+      "album": {
+        "name": "Bizerte (Mixed)",
+        "url": "https://open.spotify.com/album/2qhDCxY9G8KpxvByt89KDf"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107000,
+      "name": "Bizerte - Mixed",
+      "url": "https://open.spotify.com/track/2AyMGCc1KxJf3sT3JqGOIh"
+    },
+    {
+      "album": {
+        "name": "Can you speak English (Mixed)",
+        "url": "https://open.spotify.com/album/4vTlFXIt6WVptyfdsFVgK3"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "Can you speak English - Mixed",
+      "url": "https://open.spotify.com/track/4OPfq9RRRznMPhcOvmG9HP"
+    },
+    {
+      "album": {
+        "name": "Church (Mixed)",
+        "url": "https://open.spotify.com/album/0SMrRf78Rk88Ye3OymbWHm"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Buy Now",
+          "url": "https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Church - Mixed",
+      "url": "https://open.spotify.com/track/50rzsaM9NTEmCw4vLmqQRE"
+    },
+    {
+      "album": {
+        "name": "Fight Dirty (Mixed)",
+        "url": "https://open.spotify.com/album/6DEi0Yie8MfO1mj3MTloOa"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Fight Dirty - Mixed",
+      "url": "https://open.spotify.com/track/6I0oTtHOzGp1N9rM04FNx1"
+    },
+    {
+      "album": {
+        "name": "Heartbass (feat. Tommy Cash) [Mixed]",
+        "url": "https://open.spotify.com/album/2eNSUkyGMhPhDORn8FvacX"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        },
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Heartbass (feat. Tommy Cash) - Mixed",
+      "url": "https://open.spotify.com/track/41uvCyYZ7yWQncNDo3NnDM"
+    },
+    {
+      "album": {
+        "name": "Horse (Mixed)",
+        "url": "https://open.spotify.com/album/1kXlZpC8l8YcMlFpA0X0KL"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Horse - Mixed",
+      "url": "https://open.spotify.com/track/5SwTqtm0Bs0wfjsR5tXf1B"
+    },
+    {
+      "album": {
+        "name": "Interest in Sport (Mixed)",
+        "url": "https://open.spotify.com/album/4amPqPAoCPIon7VTnk1ZdR"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Interest in Sport - Mixed",
+      "url": "https://open.spotify.com/track/3VbPWcJZ0RYKQ6NxVxqVOY"
+    },
+    {
+      "album": {
+        "name": "Let You Do This (with Buy Now) [Mixed]",
+        "url": "https://open.spotify.com/album/5wbSRV1ofo7I6i6rdKBC7u"
+      },
+      "artists": [
+        {
+          "name": "Buy Now",
+          "url": "https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Let You Do This (with Buy Now) - Mixed",
+      "url": "https://open.spotify.com/track/2Hiw33bI4x8olA2XrTstl9"
+    },
+    {
+      "album": {
+        "name": "Marriage (Mixed)",
+        "url": "https://open.spotify.com/album/4QQgFnIhN6f1CPB7qgJvBu"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Marriage - Mixed",
+      "url": "https://open.spotify.com/track/2ZmTIrDzzKZT8ovekN9Z01"
+    },
+    {
+      "album": {
+        "name": "New Generation (Mixed)",
+        "url": "https://open.spotify.com/album/53Z44hBbBUeUwq9HEciKR3"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        },
+        {
+          "name": "Jonjon",
+          "url": "https://open.spotify.com/artist/5l8xCiqHtpk3XDXJ2ZfgK7"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "New Generation - Mixed",
+      "url": "https://open.spotify.com/track/33SgXOjByuShq39vNLhZ6f"
+    },
+    {
+      "album": {
+        "name": "No Tell Motel (Mixed)",
+        "url": "https://open.spotify.com/album/1V19HMvcCmeRN7GYRLlgG0"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Dubyshkin",
+          "url": "https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "No Tell Motel - Mixed",
+      "url": "https://open.spotify.com/track/0fn7EKXPNBeEmb8ZmbSbGD"
+    },
+    {
+      "album": {
+        "name": "No Worries - 2022 Version (Mixed)",
+        "url": "https://open.spotify.com/album/6kdKTtIMMo2kBe5XkRE0QQ"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "No Worries - 2022 Version - Mixed",
+      "url": "https://open.spotify.com/track/3xNWZ0cXvAInDIaqJB9lmD"
+    },
+    {
+      "album": {
+        "name": "Nu World - Solomun Remix (Mixed)",
+        "url": "https://open.spotify.com/album/7sTkdQcFLhU66D972Wl7oo"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Nu World - Solomun Remix - Mixed",
+      "url": "https://open.spotify.com/track/1sjsVuC4Q1i9du1RWPW7Ft"
+    },
+    {
+      "album": {
+        "name": "Siki Siki Baba (Mixed)",
+        "url": "https://open.spotify.com/album/1TxBuKbCSxL9ZiDR8lnDpb"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        },
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/1GpIknY20BVWsFGF8CdBBw"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Siki Siki Baba - Mixed",
+      "url": "https://open.spotify.com/track/6Dq4Ntc1FD1zXrzSjckEYC"
+    },
+    {
+      "album": {
+        "name": "Step-Grandma (Mixed)",
+        "url": "https://open.spotify.com/album/2UL0cvoyDd6UxJxXMZUMh1"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Step-Grandma - Mixed",
+      "url": "https://open.spotify.com/track/3eAPpfcGv3JRPaqNA0RI7H"
+    },
+    {
+      "album": {
+        "name": "Take Me To America (Mixed)",
+        "url": "https://open.spotify.com/album/56Vfx5jx85xwz3TI58TM8D"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Take Me To America - Mixed",
+      "url": "https://open.spotify.com/track/6xKMGe9i8xMGZBceRG1LWx"
+    },
+    {
+      "album": {
+        "name": "TASTY - Boys Noize Remix (Mixed)",
+        "url": "https://open.spotify.com/album/1BlQPRqw02alFNxSsmXZav"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "TASTY - Boys Noize Remix - Mixed",
+      "url": "https://open.spotify.com/track/3etPUXZlImQMB1GQBySdmn"
+    },
+    {
+      "album": {
+        "name": "The Concert (Mixed)",
+        "url": "https://open.spotify.com/album/0WB0q4C1pyU78R8qKRe62e"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "The Concert - Mixed",
+      "url": "https://open.spotify.com/track/0ReTSluIODIuTIzTDJxvEy"
+    },
+    {
+      "album": {
+        "name": "We Shall Overcum (Mixed)",
+        "url": "https://open.spotify.com/album/2pH6y8tQWjTXb5NQDnZqra"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "We Shall Overcum - Mixed",
+      "url": "https://open.spotify.com/track/2X469hTGtoo0uO777pJTu5"
+    },
+    {
+      "album": {
+        "name": "What Makes Us Wonderful (Mixed)",
+        "url": "https://open.spotify.com/album/1WAt66q7CGDngTS6TTmdy4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Somerville",
+          "url": "https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7"
+        },
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "What Makes Us Wonderful - Mixed",
+      "url": "https://open.spotify.com/track/6kp6Y7ot56PbQfeAtuRCyp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6MHmZWmSG0W"
 }

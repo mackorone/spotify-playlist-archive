@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 | 2020-11-17 |  |
-| [A Labio Dulce](https://open.spotify.com/track/6PRqxCVfcSaFzRl97xQm9q) | [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p) | [Fresas Con Vodka](https://open.spotify.com/album/71677AuNq2EJeafIOJS3RG) | 3:50 | 2020-11-17 | 2023-11-21 |
+| [A Labio Dulce](https://open.spotify.com/track/6PRqxCVfcSaFzRl97xQm9q) | [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p) | [Fresas Con Vodka](https://open.spotify.com/album/71677AuNq2EJeafIOJS3RG) | 3:50 | 2020-11-17 | 2024-01-17 |
 | [A quien tú decidiste amar](https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Lo Que Siempre Soñamos Ser](https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx) | 3:49 | 2020-11-17 |  |
 | [Afortunadamente No Eres Tu](https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Afortunadamente No Eres Tu](https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1) | 3:08 | 2020-11-17 |  |
 | [Amargo Adiós](https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:48 | 2020-11-17 |  |

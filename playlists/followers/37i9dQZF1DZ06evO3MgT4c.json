@@ -1,210 +1,1243 @@
 {
-  "2023-06-08": 417392,
-  "2023-06-09": 417483,
-  "2023-06-10": 417578,
-  "2023-06-11": 417682,
-  "2023-06-12": 417770,
-  "2023-06-13": 417862,
-  "2023-06-14": 417949,
-  "2023-06-15": 418050,
-  "2023-06-16": 418156,
-  "2023-06-17": 418255,
-  "2023-06-18": 418339,
-  "2023-06-19": 418434,
-  "2023-06-20": 418517,
-  "2023-06-21": 418594,
-  "2023-06-22": 418672,
-  "2023-06-23": 418756,
-  "2023-06-24": 418823,
-  "2023-06-25": 418896,
-  "2023-06-26": 418980,
-  "2023-06-27": 419120,
-  "2023-06-28": 419259,
-  "2023-06-29": 419366,
-  "2023-06-30": 419493,
-  "2023-07-01": 419720,
-  "2023-07-02": 419720,
-  "2023-07-03": 419789,
-  "2023-07-04": 419868,
-  "2023-07-05": 419954,
-  "2023-07-06": 420104,
-  "2023-07-07": 420104,
-  "2023-07-08": 420104,
-  "2023-07-09": 420265,
-  "2023-07-10": 420337,
-  "2023-07-11": 420385,
-  "2023-07-12": 420444,
-  "2023-07-13": 420546,
-  "2023-07-14": 420618,
-  "2023-07-15": 420676,
-  "2023-07-16": 420778,
-  "2023-07-17": 420831,
-  "2023-07-18": 420893,
-  "2023-07-19": 420968,
-  "2023-07-20": 420968,
-  "2023-07-21": 421075,
-  "2023-07-22": 421149,
-  "2023-07-23": 421215,
-  "2023-07-24": 421267,
-  "2023-07-25": 421350,
-  "2023-07-26": 421427,
-  "2023-07-27": 421510,
-  "2023-07-28": 421579,
-  "2023-07-29": 421618,
-  "2023-07-30": 421658,
-  "2023-07-31": 421696,
-  "2023-08-01": 421743,
-  "2023-08-02": 421781,
-  "2023-08-03": 421866,
-  "2023-08-04": 421926,
-  "2023-08-05": 421988,
-  "2023-08-06": 422114,
-  "2023-08-07": 422114,
-  "2023-08-08": 422154,
-  "2023-08-09": 422207,
-  "2023-08-10": 422254,
-  "2023-08-11": 422318,
-  "2023-08-12": 422318,
-  "2023-08-13": 422318,
-  "2023-08-14": 422529,
-  "2023-08-15": 422529,
-  "2023-08-16": 422529,
-  "2023-08-17": 422529,
-  "2023-08-18": 422529,
-  "2023-08-19": 422529,
-  "2023-08-20": 422977,
-  "2023-08-21": 422977,
-  "2023-08-22": 423106,
-  "2023-08-23": 423106,
-  "2023-08-24": 423106,
-  "2023-08-25": 423106,
-  "2023-08-26": 423391,
-  "2023-08-27": 423391,
-  "2023-08-28": 423504,
-  "2023-08-29": 423504,
-  "2023-08-30": 423504,
-  "2023-08-31": 423760,
-  "2023-09-01": 423844,
-  "2023-09-02": 423844,
-  "2023-09-03": 423844,
-  "2023-09-04": 423844,
-  "2023-09-05": 423844,
-  "2023-09-06": 423844,
-  "2023-09-07": 423844,
-  "2023-09-08": 423844,
-  "2023-09-09": 423844,
-  "2023-09-10": 423844,
-  "2023-09-11": 423844,
-  "2023-09-12": 423844,
-  "2023-09-13": 423844,
-  "2023-09-14": 423844,
-  "2023-09-15": 423844,
-  "2023-09-16": 424773,
-  "2023-09-17": 424773,
-  "2023-09-18": 424773,
-  "2023-09-19": 424965,
-  "2023-09-20": 424965,
-  "2023-09-21": 424965,
-  "2023-09-22": 425184,
-  "2023-09-23": 425184,
-  "2023-09-24": 425184,
-  "2023-09-25": 425184,
-  "2023-09-26": 425399,
-  "2023-09-27": 425399,
-  "2023-09-28": 425399,
-  "2023-09-29": 425399,
-  "2023-09-30": 425399,
-  "2023-10-01": 425399,
-  "2023-10-02": 425399,
-  "2023-10-03": 425399,
-  "2023-10-04": 425399,
-  "2023-10-05": 425399,
-  "2023-10-06": 425399,
-  "2023-10-07": 425399,
-  "2023-10-08": 425399,
-  "2023-10-09": 425399,
-  "2023-10-10": 425399,
-  "2023-10-11": 426028,
-  "2023-10-12": 426028,
-  "2023-10-13": 426028,
-  "2023-10-14": 426028,
-  "2023-10-15": 426028,
-  "2023-10-16": 426028,
-  "2023-10-17": 426028,
-  "2023-10-18": 426028,
-  "2023-10-19": 426028,
-  "2023-10-20": 426028,
-  "2023-10-21": 426028,
-  "2023-10-22": 426028,
-  "2023-10-23": 426028,
-  "2023-10-24": 426028,
-  "2023-10-25": 426028,
-  "2023-10-26": 426028,
-  "2023-10-27": 426028,
-  "2023-10-28": 426028,
-  "2023-10-29": 426028,
-  "2023-10-30": 426028,
-  "2023-10-31": 426028,
-  "2023-11-01": 426028,
-  "2023-11-02": 426028,
-  "2023-11-03": 426028,
-  "2023-11-04": 426028,
-  "2023-11-05": 426028,
-  "2023-11-06": 426028,
-  "2023-11-07": 426028,
-  "2023-11-08": 426028,
-  "2023-11-09": 426028,
-  "2023-11-10": 426028,
-  "2023-11-11": 427224,
-  "2023-11-12": 427224,
-  "2023-11-13": 427224,
-  "2023-11-14": 427224,
-  "2023-11-15": 427224,
-  "2023-11-16": 427224,
-  "2023-11-17": 427224,
-  "2023-11-18": 427224,
-  "2023-11-19": 427224,
-  "2023-11-20": 427224,
-  "2023-11-21": 427224,
-  "2023-11-22": 427224,
-  "2023-11-23": 427224,
-  "2023-11-24": 427224,
-  "2023-11-25": 427224,
-  "2023-11-26": 427224,
-  "2023-11-27": 427224,
-  "2023-11-28": 427224,
-  "2023-11-29": 427224,
-  "2023-11-30": 427224,
-  "2023-12-01": 427224,
-  "2023-12-02": 427224,
-  "2023-12-03": 427224,
-  "2023-12-04": 427224,
-  "2023-12-05": 427224,
-  "2023-12-06": 427224,
-  "2023-12-07": 427224,
-  "2023-12-08": 427224,
-  "2023-12-09": 427224,
-  "2023-12-10": 427224,
-  "2023-12-11": 427224,
-  "2023-12-12": 427224,
-  "2023-12-13": 427224,
-  "2023-12-14": 428906,
-  "2023-12-15": 428947,
-  "2023-12-16": 429001,
-  "2023-12-17": 429028,
-  "2023-12-18": 429090,
-  "2023-12-19": 429155,
-  "2023-12-20": 429207,
-  "2023-12-21": 429249,
-  "2023-12-22": 429293,
-  "2023-12-23": 429360,
-  "2023-12-24": 429418,
-  "2023-12-25": 429467,
-  "2023-12-26": 429500,
-  "2023-12-27": 429537,
-  "2023-12-30": 429694,
-  "2023-12-31": 429745,
-  "2024-01-01": 429794,
-  "2024-01-02": 429833,
-  "2024-01-03": 429877
+  "2024-01-17": 429131,
+  "date_first_scraped": "2023-06-08",
+  "description": "This is Migos. The essential tracks, all in one playlist.",
+  "name": "This Is Migos",
+  "tracks": [
+    {
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262340,
+      "name": "Antisocial (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX"
+    },
+    {
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206271,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343150,
+      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+    },
+    {
+      "album": {
+        "name": "The Bedroom Tour Playlist",
+        "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
+      },
+      "artists": [
+        {
+          "name": "Niykee Heaton",
+          "url": "https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245722,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls Like Trap Music",
+        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308733,
+      "name": "Blue Cheese",
+      "url": "https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu"
+    },
+    {
+      "album": {
+        "name": "Mad Love The Prequel",
+        "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 206059,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/3PGubBdFfQSHAHsXb068eG"
+    },
+    {
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227813,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/4rHmKlFRiFzabiVO6e9w2e"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241505,
+      "name": "Bosses Don't Speak",
+      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
+    },
+    {
+      "album": {
+        "name": "Papi Gordo",
+        "url": "https://open.spotify.com/album/4YlVZDAPmGGRneJh8Bx8Oy"
+      },
+      "artists": [
+        {
+          "name": "Carnage",
+          "url": "https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 264000,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/6VJD8tzKgfQjxy8SwneeOX"
+    },
+    {
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/6JtYy6EVN5e6o09gpM5Q7X"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297800,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/7E09pB6FdMumBbWQAKwS1M"
+    },
+    {
+      "album": {
+        "name": "Danger (with Migos & Marshmello) [From Bright: The Album]",
+        "url": "https://open.spotify.com/album/0829Pk9WEro3oPVnWT2B4B"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "Danger (with Migos & Marshmello)",
+      "url": "https://open.spotify.com/track/0nhVrTiCGiGRCoZOJiWzm1"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274096,
+      "name": "Deadz (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/3sTsxjv7yb0cM3rWvQdVan"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262308,
+      "name": "Drip (feat. Migos)",
+      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
+    },
+    {
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216247,
+      "name": "Fight Night",
+      "url": "https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5"
+    },
+    {
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198077,
+      "name": "First 48",
+      "url": "https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK"
+    },
+    {
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207682,
+      "name": "Freak No More",
+      "url": "https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258741,
+      "name": "Frosted Flakes",
+      "url": "https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257545,
+      "name": "Get Right Witcha",
+      "url": "https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA"
+    },
+    {
+      "album": {
+        "name": "Give No Fxk",
+        "url": "https://open.spotify.com/album/5PGZpfzDkbbTvhDAuZlSQo"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224243,
+      "name": "Give No Fxk",
+      "url": "https://open.spotify.com/track/6ZelF5APDN5r6XnFqcnvWR"
+    },
+    {
+      "album": {
+        "name": "Ransom 2",
+        "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274846,
+      "name": "Gucci On My (feat. 21 Savage, YG & Migos)",
+      "url": "https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY"
+    },
+    {
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210556,
+      "name": "Handsome And Wealthy",
+      "url": "https://open.spotify.com/track/2ZBnK2CGFK6jcagWrpyPzA"
+    },
+    {
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278191,
+      "name": "Having Our Way (feat. Drake)",
+      "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
+    },
+    {
+      "album": {
+        "name": "Hot Summer",
+        "url": "https://open.spotify.com/album/6BEHK0e0rknUYbDUIFv4Sl"
+      },
+      "artists": [
+        {
+          "name": "DJ Durel",
+          "url": "https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 231481,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/3fEpuoSr8ufvyRR7s2jB3U"
+    },
+    {
+      "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229434,
+      "name": "How We Coming",
+      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
+    },
+    {
+      "album": {
+        "name": "Mr. Davis",
+        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233087,
+      "name": "I Get the Bag (feat. Migos)",
+      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
+    },
+    {
+      "album": {
+        "name": "Is You Ready (From \"Mile 22\")",
+        "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184276,
+      "name": "Is You Ready - From \"Mile 22\"",
+      "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363934,
+      "name": "Kelly Price (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5Q6DJEgNTiN9xcOQzKmw9F"
+    },
+    {
+      "album": {
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Trouble",
+          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281986,
+      "name": "Key to the Streets",
+      "url": "https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ"
+    },
+    {
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248651,
+      "name": "Malibu (feat. Polo G)",
+      "url": "https://open.spotify.com/track/3v1zVVdzNVNt7vmI9VG2gq"
+    },
+    {
+      "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144938,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS"
+    },
+    {
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241790,
+      "name": "Modern Day",
+      "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303076,
+      "name": "MotorSport",
+      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+    },
+    {
+      "album": {
+        "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
+        "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Rock Mafia",
+          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177352,
+      "name": "My Family - from \"The Addams Family\"",
+      "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255378,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK"
+    },
+    {
+      "album": {
+        "name": "Need It",
+        "url": "https://open.spotify.com/album/3L3WBqghAN3LeGZa5eRIBk"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 195680,
+      "name": "Need It",
+      "url": "https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ"
+    },
+    {
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Need It (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1cMMVJ4FDqhCci9efd1BU6"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233880,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/3OnOomd79OjqSYHchCQ6ht"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245797,
+      "name": "Open It Up",
+      "url": "https://open.spotify.com/track/2LOkdHHNKdEx24cQELBaD8"
+    },
+    {
+      "album": {
+        "name": "Peek A Boo",
+        "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247612,
+      "name": "Peek A Boo",
+      "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
+    },
+    {
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192470,
+      "name": "Pure Water (with Migos)",
+      "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
+    },
+    {
+      "album": {
+        "name": "Racks 2 Skinny",
+        "url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178024,
+      "name": "Racks 2 Skinny",
+      "url": "https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216677,
+      "name": "RAW SHIT (feat. Migos)",
+      "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
+    },
+    {
+      "album": {
+        "name": "I Decided.",
+        "url": "https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287320,
+      "name": "Sacrifices",
+      "url": "https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5"
+    },
+    {
+      "album": {
+        "name": "The Fate of the Furious: The Album",
+        "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 239826,
+      "name": "Seize The Block",
+      "url": "https://open.spotify.com/track/0WQJIDidlJOv2C2PyvDUv5"
+    },
+    {
+      "album": {
+        "name": "Funk Wav Bounces Vol.1",
+        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230813,
+      "name": "Slide (feat. Frank Ocean & Migos)",
+      "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304041,
+      "name": "Slippery (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/0TBgMKD86t1VP3IzhxCoUl"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
+    },
+    {
+      "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242407,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/1rkfJLgTlB6XYNjgZ0sVaK"
+    },
+    {
+      "album": {
+        "name": "Taco Tuesday",
+        "url": "https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96563,
+      "name": "Taco Tuesday",
+      "url": "https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Eurielle",
+          "url": "https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295997,
+      "name": "Too Hotty",
+      "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
+    },
+    {
+      "album": {
+        "name": "Versace (feat. Drake) [Remix] - Single",
+        "url": "https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246047,
+      "name": "Versace (Remix)",
+      "url": "https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276147,
+      "name": "Walk It Talk It",
+      "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
+    },
+    {
+      "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196037,
+      "name": "WE GOING CRAZY (feat. H.E.R. & Migos)",
+      "url": "https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP"
+    },
+    {
+      "album": {
+        "name": "We Set The Trends (Remix) [feat. \u200eMigos & Juelz Santana]",
+        "url": "https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217815,
+      "name": "We Set The Trends (feat. Migos & \u200eJuelz Santana) - Remix",
+      "url": "https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 248506,
+      "name": "What the Price",
+      "url": "https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0"
+    },
+    {
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 179652,
+      "name": "What You See (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/58H8cWvvaFLFg2g7SdOO44"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MgT4c"
 }

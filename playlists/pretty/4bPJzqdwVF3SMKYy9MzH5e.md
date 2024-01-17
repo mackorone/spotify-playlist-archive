@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,842 songs - 4 day 3 hr 36 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,849 songs - 4 day 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1850,5 +1850,12 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1840 | [IYDKMIGTHTKY \(Gimme That\)](https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 6:20 |
 | 1841 | [AREAMATE MIZ](https://open.spotify.com/track/41ickhOwnmWX33HhsRNA6w) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/6OdcDL26C2YfsKp1kk22cx) | 1:16 |
 | 1842 | [Mein](https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 3:58 |
+| 1843 | [Backstairs Breathing](https://open.spotify.com/track/2Eb52yvmy4yZRJkGVgSstE) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:56 |
+| 1844 | [All That Glitters Is Not Gold, But It's Still Damn Beautiful](https://open.spotify.com/track/23A29DEDxMZdwpl0ZRrMOk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(III\)](https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD) | 2:17 |
+| 1845 | [Swerve City](https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 2:44 |
+| 1846 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 |
+| 1847 | [Foreign](https://open.spotify.com/track/0dhIREu2eVTBCbwLsJhgmJ) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 5:05 |
+| 1848 | [What Was Really Said](https://open.spotify.com/track/7dO1Pnoy2Evv4QyL1fimWc) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Demo](https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI) | 2:33 |
+| 1849 | [Alto Saxophone Sonatina: III\. Allegretto](https://open.spotify.com/track/6UDByt65uoaq4HPtsRpzWp) | [Pierre Max Dubois](https://open.spotify.com/artist/6Jyj1F9xSqxa3ZiPdMiFAV), [Rigó Sándor](https://open.spotify.com/artist/2F9MKgJojWJE7BVpaFRs2G), [Christina Leeb\-Grill](https://open.spotify.com/artist/4mHpSu2etjk2gCfpyJfXFu) | [Dubois: Divertissement](https://open.spotify.com/album/0HSJdp7xvGgBNdLIrnXFir) | 2:21 |
 
-Snapshot ID: `NjkzLDJjM2U4ODRlYWJlNzNiMzJlNTNmMWZjZTVhZWExOGQxYjQ2ZmNjMDM=`
+Snapshot ID: `NzAwLGRkY2ZiNWI0OGU3NjQxODY5ZmI2MTkwNDAzNmQ1NzRhNzI1YmE3NmY=`

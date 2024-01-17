@@ -1,312 +1,353 @@
 {
-  "2023-02-25": 4,
-  "2023-02-26": 7,
-  "2023-02-27": 8,
-  "2023-02-28": 8,
-  "2023-03-01": 8,
-  "2023-03-02": 15,
-  "2023-03-03": 16,
-  "2023-03-04": 21,
-  "2023-03-05": 25,
-  "2023-03-06": 25,
-  "2023-03-07": 30,
-  "2023-03-08": 34,
-  "2023-03-09": 35,
-  "2023-03-10": 38,
-  "2023-03-11": 38,
-  "2023-03-12": 40,
-  "2023-03-13": 42,
-  "2023-03-14": 45,
-  "2023-03-15": 47,
-  "2023-03-16": 47,
-  "2023-03-17": 47,
-  "2023-03-18": 52,
-  "2023-03-19": 52,
-  "2023-03-20": 54,
-  "2023-03-21": 57,
-  "2023-03-22": 56,
-  "2023-03-23": 58,
-  "2023-03-24": 58,
-  "2023-03-25": 64,
-  "2023-03-26": 65,
-  "2023-03-27": 66,
-  "2023-03-28": 68,
-  "2023-03-29": 72,
-  "2023-03-30": 80,
-  "2023-03-31": 80,
-  "2023-04-01": 81,
-  "2023-04-02": 84,
-  "2023-04-03": 86,
-  "2023-04-04": 88,
-  "2023-04-05": 88,
-  "2023-04-06": 90,
-  "2023-04-07": 93,
-  "2023-04-09": 95,
-  "2023-04-10": 95,
-  "2023-04-11": 97,
-  "2023-04-12": 97,
-  "2023-04-13": 97,
-  "2023-04-14": 98,
-  "2023-04-15": 98,
-  "2023-04-16": 97,
-  "2023-04-17": 97,
-  "2023-04-18": 97,
-  "2023-04-19": 98,
-  "2023-04-20": 97,
-  "2023-04-21": 98,
-  "2023-04-22": 99,
-  "2023-04-23": 101,
-  "2023-04-24": 102,
-  "2023-04-25": 102,
-  "2023-04-26": 102,
-  "2023-04-27": 102,
-  "2023-04-28": 103,
-  "2023-04-29": 104,
-  "2023-04-30": 105,
-  "2023-05-01": 104,
-  "2023-05-02": 104,
-  "2023-05-03": 104,
-  "2023-05-04": 105,
-  "2023-05-05": 107,
-  "2023-05-06": 109,
-  "2023-05-07": 111,
-  "2023-05-08": 111,
-  "2023-05-09": 114,
-  "2023-05-10": 114,
-  "2023-05-11": 114,
-  "2023-05-12": 116,
-  "2023-05-13": 116,
-  "2023-05-14": 118,
-  "2023-05-15": 120,
-  "2023-05-16": 121,
-  "2023-05-17": 123,
-  "2023-05-18": 123,
-  "2023-05-19": 123,
-  "2023-05-20": 127,
-  "2023-05-21": 127,
-  "2023-05-22": 127,
-  "2023-05-23": 127,
-  "2023-05-24": 127,
-  "2023-05-25": 127,
-  "2023-05-26": 127,
-  "2023-05-27": 127,
-  "2023-05-28": 130,
-  "2023-05-29": 130,
-  "2023-05-30": 132,
-  "2023-05-31": 134,
-  "2023-06-01": 134,
-  "2023-06-02": 136,
-  "2023-06-03": 137,
-  "2023-06-04": 138,
-  "2023-06-05": 138,
-  "2023-06-06": 138,
-  "2023-06-07": 139,
-  "2023-06-08": 140,
-  "2023-06-09": 137,
-  "2023-06-10": 140,
-  "2023-06-11": 141,
-  "2023-06-12": 144,
-  "2023-06-13": 145,
-  "2023-06-14": 145,
-  "2023-06-15": 146,
-  "2023-06-16": 146,
-  "2023-06-17": 146,
-  "2023-06-18": 146,
-  "2023-06-19": 145,
-  "2023-06-20": 147,
-  "2023-06-21": 147,
-  "2023-06-22": 147,
-  "2023-06-23": 147,
-  "2023-06-24": 148,
-  "2023-06-25": 148,
-  "2023-06-26": 152,
-  "2023-06-27": 150,
-  "2023-06-28": 155,
-  "2023-06-29": 158,
-  "2023-06-30": 158,
-  "2023-07-01": 159,
-  "2023-07-02": 159,
-  "2023-07-03": 159,
-  "2023-07-04": 161,
-  "2023-07-05": 161,
-  "2023-07-06": 162,
-  "2023-07-07": 162,
-  "2023-07-08": 162,
-  "2023-07-09": 164,
-  "2023-07-10": 164,
-  "2023-07-11": 167,
-  "2023-07-12": 167,
-  "2023-07-13": 167,
-  "2023-07-14": 169,
-  "2023-07-15": 169,
-  "2023-07-16": 169,
-  "2023-07-17": 170,
-  "2023-07-18": 171,
-  "2023-07-19": 172,
-  "2023-07-20": 172,
-  "2023-07-21": 174,
-  "2023-07-22": 175,
-  "2023-07-23": 175,
-  "2023-07-24": 178,
-  "2023-07-25": 181,
-  "2023-07-26": 184,
-  "2023-07-27": 184,
-  "2023-07-28": 184,
-  "2023-07-29": 197,
-  "2023-07-30": 197,
-  "2023-07-31": 198,
-  "2023-08-01": 199,
-  "2023-08-02": 200,
-  "2023-08-03": 202,
-  "2023-08-04": 202,
-  "2023-08-05": 202,
-  "2023-08-06": 203,
-  "2023-08-07": 203,
-  "2023-08-08": 203,
-  "2023-08-09": 205,
-  "2023-08-10": 205,
-  "2023-08-11": 206,
-  "2023-08-12": 206,
-  "2023-08-13": 206,
-  "2023-08-14": 206,
-  "2023-08-15": 206,
-  "2023-08-16": 206,
-  "2023-08-17": 206,
-  "2023-08-18": 206,
-  "2023-08-19": 206,
-  "2023-08-20": 209,
-  "2023-08-21": 209,
-  "2023-08-22": 210,
-  "2023-08-23": 210,
-  "2023-08-24": 210,
-  "2023-08-25": 210,
-  "2023-08-26": 210,
-  "2023-08-27": 210,
-  "2023-08-28": 218,
-  "2023-08-29": 218,
-  "2023-08-30": 218,
-  "2023-08-31": 223,
-  "2023-09-01": 224,
-  "2023-09-02": 224,
-  "2023-09-03": 224,
-  "2023-09-04": 224,
-  "2023-09-05": 224,
-  "2023-09-06": 224,
-  "2023-09-07": 224,
-  "2023-09-08": 224,
-  "2023-09-09": 224,
-  "2023-09-10": 224,
-  "2023-09-11": 224,
-  "2023-09-12": 224,
-  "2023-09-13": 224,
-  "2023-09-14": 224,
-  "2023-09-15": 224,
-  "2023-09-16": 224,
-  "2023-09-17": 224,
-  "2023-09-18": 224,
-  "2023-09-19": 224,
-  "2023-09-20": 224,
-  "2023-09-21": 224,
-  "2023-09-22": 224,
-  "2023-09-23": 224,
-  "2023-09-24": 224,
-  "2023-09-25": 224,
-  "2023-09-26": 239,
-  "2023-09-27": 239,
-  "2023-09-28": 239,
-  "2023-09-29": 239,
-  "2023-09-30": 239,
-  "2023-10-01": 239,
-  "2023-10-02": 239,
-  "2023-10-03": 239,
-  "2023-10-04": 239,
-  "2023-10-05": 239,
-  "2023-10-06": 239,
-  "2023-10-07": 239,
-  "2023-10-08": 239,
-  "2023-10-09": 239,
-  "2023-10-10": 239,
-  "2023-10-11": 239,
-  "2023-10-12": 239,
-  "2023-10-13": 239,
-  "2023-10-14": 239,
-  "2023-10-15": 239,
-  "2023-10-16": 239,
-  "2023-10-17": 239,
-  "2023-10-18": 239,
-  "2023-10-19": 239,
-  "2023-10-20": 239,
-  "2023-10-21": 239,
-  "2023-10-22": 239,
-  "2023-10-23": 239,
-  "2023-10-24": 239,
-  "2023-10-25": 239,
-  "2023-10-26": 239,
-  "2023-10-27": 239,
-  "2023-10-28": 239,
-  "2023-10-29": 239,
-  "2023-10-30": 239,
-  "2023-10-31": 239,
-  "2023-11-01": 239,
-  "2023-11-02": 239,
-  "2023-11-03": 239,
-  "2023-11-04": 239,
-  "2023-11-05": 239,
-  "2023-11-06": 239,
-  "2023-11-07": 239,
-  "2023-11-08": 239,
-  "2023-11-09": 239,
-  "2023-11-10": 239,
-  "2023-11-11": 239,
-  "2023-11-12": 239,
-  "2023-11-13": 239,
-  "2023-11-14": 239,
-  "2023-11-15": 239,
-  "2023-11-16": 239,
-  "2023-11-17": 239,
-  "2023-11-18": 239,
-  "2023-11-19": 239,
-  "2023-11-20": 239,
-  "2023-11-21": 239,
-  "2023-11-22": 239,
-  "2023-11-23": 239,
-  "2023-11-24": 239,
-  "2023-11-25": 239,
-  "2023-11-26": 239,
-  "2023-11-27": 239,
-  "2023-11-28": 239,
-  "2023-11-29": 239,
-  "2023-11-30": 239,
-  "2023-12-01": 239,
-  "2023-12-02": 239,
-  "2023-12-03": 239,
-  "2023-12-04": 239,
-  "2023-12-05": 239,
-  "2023-12-06": 239,
-  "2023-12-07": 239,
-  "2023-12-08": 239,
-  "2023-12-09": 239,
-  "2023-12-10": 239,
-  "2023-12-11": 239,
-  "2023-12-12": 239,
-  "2023-12-13": 239,
-  "2023-12-14": 275,
-  "2023-12-15": 275,
-  "2023-12-16": 275,
-  "2023-12-17": 275,
-  "2023-12-18": 276,
-  "2023-12-19": 276,
-  "2023-12-20": 276,
-  "2023-12-21": 276,
-  "2023-12-22": 276,
-  "2023-12-23": 276,
-  "2023-12-24": 277,
-  "2023-12-25": 277,
-  "2023-12-26": 278,
-  "2023-12-27": 278,
-  "2023-12-30": 277,
-  "2023-12-31": 277,
-  "2024-01-01": 276,
-  "2024-01-02": 276,
-  "2024-01-03": 276
+  "2024-01-17": 286,
+  "date_first_scraped": "2023-02-25",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/68LkD9fctywmdQCAfFQ8X2\">Johnny Kosich (of Beach Noise)</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By Johnny Kosich (of Beach Noise)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281069,
+      "name": "Auntie Diaries",
+      "url": "https://open.spotify.com/track/1uY1X8YeBixs1FdQ3fQ7d4"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
+    },
+    {
+      "album": {
+        "name": "Forgiving Myself",
+        "url": "https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175784,
+      "name": "Forgiving Myself",
+      "url": "https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y"
+    },
+    {
+      "album": {
+        "name": "Hell N Back (Official Video)",
+        "url": "https://open.spotify.com/album/4DiWDnRzt32BNJBEcThPVv"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212437,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/4ANroRNPXEBaZqT14dt8W0"
+    },
+    {
+      "album": {
+        "name": "Hell N Back (Sped Up)",
+        "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
+    },
+    {
+      "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153727,
+      "name": "MY EX",
+      "url": "https://open.spotify.com/track/5Yfy4sbXzwFRe4gxrV2TAS"
+    },
+    {
+      "album": {
+        "name": "The Melodic Blue (Deluxe)",
+        "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141953,
+      "name": "patience interlude",
+      "url": "https://open.spotify.com/track/24xpL4l70GDGIVFIxLbW8s"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/4QFU1zIY53hxuX85LyGi4B"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Pit stop",
+      "url": "https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
+    },
+    {
+      "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266010,
+      "name": "scars",
+      "url": "https://open.spotify.com/track/350l5Tkctw6RMcIdl7MlaS"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332228,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5qbhVL3vB7HwWvb0042B7y"
+    },
+    {
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5UjQVk1us5C41LGRtpOQeo"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 340181,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/7klg1KjLB55dA3U7HeuGty"
+    },
+    {
+      "album": {
+        "name": "Sleepy Soldier",
+        "url": "https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98005,
+      "name": "The Love Intro",
+      "url": "https://open.spotify.com/track/3hjCUYBBJUCB9nyBNRIVj8"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255377,
+      "name": "United In Grief",
+      "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
+    },
+    {
+      "album": {
+        "name": "Sleepy Soldier",
+        "url": "https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84910,
+      "name": "Wave Watching Interlude",
+      "url": "https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFyBQlHaB2TvT"
 }

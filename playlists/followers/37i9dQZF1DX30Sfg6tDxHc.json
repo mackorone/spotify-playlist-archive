@@ -1,20 +1,1225 @@
 {
-  "2023-12-15": 8744,
-  "2023-12-16": 8939,
-  "2023-12-17": 9155,
-  "2023-12-18": 9348,
-  "2023-12-19": 9507,
-  "2023-12-20": 9691,
-  "2023-12-21": 9857,
-  "2023-12-22": 10040,
-  "2023-12-23": 10241,
-  "2023-12-24": 10516,
-  "2023-12-25": 10836,
-  "2023-12-26": 11037,
-  "2023-12-27": 11131,
-  "2023-12-30": 11215,
-  "2023-12-31": 11230,
-  "2024-01-01": 11226,
-  "2024-01-02": 11219,
-  "2024-01-03": 11204
+  "2024-01-17": 11050,
+  "date_first_scraped": "2023-12-15",
+  "description": "Time to enjoy some mulled wine, a bag of roasted almonds, and a few classic Christmas carols.",
+  "name": "Christmas Market",
+  "tracks": [
+    {
+      "album": {
+        "name": "Festival of Carols (Live)",
+        "url": "https://open.spotify.com/album/7yx3b7eo1GDJADsjEp3z0r"
+      },
+      "artists": [
+        {
+          "name": "William Goldstein",
+          "url": "https://open.spotify.com/artist/4eZcS71JyYmqtlxVR2TSIe"
+        },
+        {
+          "name": "Clement Clarke Moore",
+          "url": "https://open.spotify.com/artist/1hhyKBy5qPasZzv1sDkc9B"
+        },
+        {
+          "name": "Sherry Stark",
+          "url": "https://open.spotify.com/artist/3x5FFHbFzrOZqk0lASUIfo"
+        },
+        {
+          "name": "Indianapolis Symphonic Choir",
+          "url": "https://open.spotify.com/artist/3NZEbKOSY1pmBNMGuwhsEo"
+        },
+        {
+          "name": "Indianapolis Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5EgNHVKktXHFlWzUgIsvHm"
+        },
+        {
+          "name": "Eric Stark",
+          "url": "https://open.spotify.com/artist/5vx3De31Xl9WNDDpdVUepe"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373640,
+      "name": "'Twas the Night Before Christmas (Live)",
+      "url": "https://open.spotify.com/track/41O5yLPiInoPA63v1dAfhz"
+    },
+    {
+      "album": {
+        "name": "Lutoslawski: 20 Polish Christmas Carols / Lacrimosa / 5 Songs",
+        "url": "https://open.spotify.com/album/6OD7zZ6clBnICKozqRGHjJ"
+      },
+      "artists": [
+        {
+          "name": "Witold Lutos\u0142awski",
+          "url": "https://open.spotify.com/artist/5Ks8fS8lZJnTFbtvxkDOkM"
+        },
+        {
+          "name": "Olga Pasichnyk",
+          "url": "https://open.spotify.com/artist/5RHCTR2Ux0jqeeiJqOjBbg"
+        },
+        {
+          "name": "Polish Radio Choir",
+          "url": "https://open.spotify.com/artist/1rb7CB5Bi6Wh76dVfqZxP4"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121960,
+      "name": "20 Polish Christmas Carols: Angels to the shepherds came",
+      "url": "https://open.spotify.com/track/663mGg0YyMEZoPji2gOIO0"
+    },
+    {
+      "album": {
+        "name": "A Ceremony Of Carols - Britten Choral Works II",
+        "url": "https://open.spotify.com/album/3ee0s8TfRCuJjhp6C9Avkd"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Sioned Williams",
+          "url": "https://open.spotify.com/artist/5PZFbxL7dweZV41V0BDvw2"
+        },
+        {
+          "name": "Libby Crabtree",
+          "url": "https://open.spotify.com/artist/4yd6zR12TkdKe8u1tCS4ls"
+        },
+        {
+          "name": "Sally Dunkley",
+          "url": "https://open.spotify.com/artist/5Kd0RNDp3wk5SScrlOCUFm"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63560,
+      "name": "A Ceremony Of Carols, Op. 28: Spring Carol",
+      "url": "https://open.spotify.com/track/5X1jMQB7A7OgRYHbR8RrK5"
+    },
+    {
+      "album": {
+        "name": "Warlock: Choral Music",
+        "url": "https://open.spotify.com/album/6jtG0EbGwoiDPAqMIlCGV1"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "The Carice Singers",
+          "url": "https://open.spotify.com/artist/6j8xxQkSVDGw5n8DJoiTWC"
+        },
+        {
+          "name": "George Parris",
+          "url": "https://open.spotify.com/artist/0cZ3n9z2dzZJc2BWUw4iEM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "A Cornish Christmas Carol",
+      "url": "https://open.spotify.com/track/5DOSRAizKWMDn5D5xacGYS"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols From Tewkesbury Abbey",
+        "url": "https://open.spotify.com/album/1BCTTrLVeS68wGHvkj3zag"
+      },
+      "artists": [
+        {
+          "name": "Boris Ord",
+          "url": "https://open.spotify.com/artist/6HWTGBazaK8i89CmozJNEr"
+        },
+        {
+          "name": "Tewkesbury Abbey Choir",
+          "url": "https://open.spotify.com/artist/4NOFolaAMP4kBDVq8GwEfQ"
+        },
+        {
+          "name": "Andrew Sackett",
+          "url": "https://open.spotify.com/artist/2Q4Ge9DEARr3PU0lCHb6kz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76000,
+      "name": "Adam lay y-bounden",
+      "url": "https://open.spotify.com/track/4PkcH3Fy8Fw8gQ3986Xb4V"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas From Vienna",
+        "url": "https://open.spotify.com/album/5ZIJMld7vQnpn9kHk9wFig"
+      },
+      "artists": [
+        {
+          "name": "John Francis Wade",
+          "url": "https://open.spotify.com/artist/5j5woz2m4ZA9BzME8vcbza"
+        },
+        {
+          "name": "Vienna Boys' Choir",
+          "url": "https://open.spotify.com/artist/5D5J2cMoaGHFaipckBl5xZ"
+        },
+        {
+          "name": "Schubert Akademie",
+          "url": "https://open.spotify.com/artist/2UnQA3bAlxWwV93eU6StL9"
+        },
+        {
+          "name": "Gerald Wirth",
+          "url": "https://open.spotify.com/artist/72O47DksYrgTnTvsVYvnkk"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126413,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/1W65EK8joWZqzApxf96cdo"
+    },
+    {
+      "album": {
+        "name": "The John Rutter Christmas Album",
+        "url": "https://open.spotify.com/album/229Ap7BM41Vld93zoov3Jn"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Angels' Carol",
+      "url": "https://open.spotify.com/track/7GsEueJ2mjRCrMm8PHkdie"
+    },
+    {
+      "album": {
+        "name": "Star Over Bethlehem: Choral Jewels for Christmas",
+        "url": "https://open.spotify.com/album/6Jb9ELSqMBjepVEm0Sqn0I"
+      },
+      "artists": [
+        {
+          "name": "Edmund Walters",
+          "url": "https://open.spotify.com/artist/65ezRihpRkRDgHj9WXG97B"
+        },
+        {
+          "name": "The Choral Arts Society Of Washington",
+          "url": "https://open.spotify.com/artist/3nzFSiXqzHReuI3sjDaJ4l"
+        },
+        {
+          "name": "The Choral Arts Society of Washington Orchestra",
+          "url": "https://open.spotify.com/artist/10jGLGvozxXSVp5yHrHr5e"
+        },
+        {
+          "name": "Norman Scribner",
+          "url": "https://open.spotify.com/artist/3Q9D8pWtObSOuuGzhpJY10"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "Babe of Bethlehem",
+      "url": "https://open.spotify.com/track/21pVHjftN16N4yyeUr77Qc"
+    },
+    {
+      "album": {
+        "name": "A Winter's Light: A Christmas Collection",
+        "url": "https://open.spotify.com/album/5Mdv6Guj9j0nOqDGPV4KN4"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Rathbone",
+          "url": "https://open.spotify.com/artist/7LRknX2g5QAxAPks0Pt6zf"
+        },
+        {
+          "name": "Vasari Singers",
+          "url": "https://open.spotify.com/artist/2QInYkK0ys9Uj6aa0n8XFx"
+        },
+        {
+          "name": "Martin Ford",
+          "url": "https://open.spotify.com/artist/1rTrL9fvYRF56bfiH2GOYZ"
+        },
+        {
+          "name": "Jeremy Backhouse",
+          "url": "https://open.spotify.com/artist/53briF9i45bOTMyBWWkmzy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "Carol Medley",
+      "url": "https://open.spotify.com/track/3SsxELm4uM3NLhfrrxs3dC"
+    },
+    {
+      "album": {
+        "name": "Carol of the Bells",
+        "url": "https://open.spotify.com/album/5MJwxkGvLqvkoPcP0JbYC4"
+      },
+      "artists": [
+        {
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
+        {
+          "name": "Desmond Earley",
+          "url": "https://open.spotify.com/artist/0G1V70m83Z5zAG8Pp8MS2s"
+        },
+        {
+          "name": "The Choral Scholars of University College Dublin",
+          "url": "https://open.spotify.com/artist/5utrkuva7MklQHstAWALQm"
+        },
+        {
+          "name": "Irish Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5BEsC9s9MiyK1GKlef4TMN"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129106,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/2kQshpfW7a9Pj6BrVzgl63"
+    },
+    {
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85266,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "album": {
+        "name": "The John Rutter Christmas Album",
+        "url": "https://open.spotify.com/album/3RfvXpfCMVhoXWOXOCk7jt"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104880,
+      "name": "Deck the Hall",
+      "url": "https://open.spotify.com/track/7zMKyFK073w01tgi8DFFWb"
+    },
+    {
+      "album": {
+        "name": "Carols From Cambridge: The Very Best Sacred Christmas Carols",
+        "url": "https://open.spotify.com/album/0J5mxoyU8lNsqPmepDLvmu"
+      },
+      "artists": [
+        {
+          "name": "Choir of Clare College, Cambridge",
+          "url": "https://open.spotify.com/artist/0sHmVvDwPMhpqcFLBtiDPd"
+        },
+        {
+          "name": "Orchestra of Clare College, Cambridge",
+          "url": "https://open.spotify.com/artist/6Epkp141HpLSLEb2Kp7lP4"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129692,
+      "name": "Ding Dong! Merrily on High",
+      "url": "https://open.spotify.com/track/4zOmmPgqE0P7amaIAkQer8"
+    },
+    {
+      "album": {
+        "name": "Carols from Clare College, Cambridge",
+        "url": "https://open.spotify.com/album/56XlR6Jna2qY4V2QAQ9Hyq"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Choir of Clare College, Cambridge",
+          "url": "https://open.spotify.com/artist/0sHmVvDwPMhpqcFLBtiDPd"
+        },
+        {
+          "name": "Orchestra of Clare College, Cambridge",
+          "url": "https://open.spotify.com/artist/6Epkp141HpLSLEb2Kp7lP4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "Donkey Carol",
+      "url": "https://open.spotify.com/track/1AYZHSyQPUhxG9F592UyLu"
+    },
+    {
+      "album": {
+        "name": "The John Rutter Christmas Album",
+        "url": "https://open.spotify.com/album/3RfvXpfCMVhoXWOXOCk7jt"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219120,
+      "name": "Donkey Carol",
+      "url": "https://open.spotify.com/track/60zg5ZAE8lRNmHjnTKaMZc"
+    },
+    {
+      "album": {
+        "name": "Carols With St. Paul's Cathedral Choir",
+        "url": "https://open.spotify.com/album/70fS0YQEU6BhtsEg5o5C8O"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "St. Paul's Cathedral Choir",
+          "url": "https://open.spotify.com/artist/4Psmt0Ic0BpoXNg5skm46Q"
+        },
+        {
+          "name": "Simon Johnson",
+          "url": "https://open.spotify.com/artist/4yANo5kd8UdZ90uQKj5zPP"
+        },
+        {
+          "name": "Andrew Carwood",
+          "url": "https://open.spotify.com/artist/2qiN7C6MoDKUmkEGZpuToZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/3EAsHU974nSTgrfTdu4zkR"
+    },
+    {
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/2cktOhRA6BmLAW5WRROymz"
+      },
+      "artists": [
+        {
+          "name": "Hugh Martin",
+          "url": "https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW"
+        },
+        {
+          "name": "Ralph Blane",
+          "url": "https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL"
+        },
+        {
+          "name": "German Brass",
+          "url": "https://open.spotify.com/artist/23OFuPJgFz1jGnHFW4WBiM"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/2joLjXHYPu0w8x5uM2ATzU"
+    },
+    {
+      "album": {
+        "name": "A Winter's Light: A Christmas Collection",
+        "url": "https://open.spotify.com/album/5Mdv6Guj9j0nOqDGPV4KN4"
+      },
+      "artists": [
+        {
+          "name": "Jan Pieterszoon Sweelinck",
+          "url": "https://open.spotify.com/artist/1py3vNdZzIlMyUlW4TNfwG"
+        },
+        {
+          "name": "Vasari Singers",
+          "url": "https://open.spotify.com/artist/2QInYkK0ys9Uj6aa0n8XFx"
+        },
+        {
+          "name": "Jeremy Backhouse",
+          "url": "https://open.spotify.com/artist/53briF9i45bOTMyBWWkmzy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221613,
+      "name": "Hodie Christus natus est",
+      "url": "https://open.spotify.com/track/5f563vq3CS8MYtSAZKtGaS"
+    },
+    {
+      "album": {
+        "name": "A Winter's Light: A Christmas Collection",
+        "url": "https://open.spotify.com/album/5Mdv6Guj9j0nOqDGPV4KN4"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Rathbone",
+          "url": "https://open.spotify.com/artist/7LRknX2g5QAxAPks0Pt6zf"
+        },
+        {
+          "name": "Greg Lake",
+          "url": "https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8"
+        },
+        {
+          "name": "Vasari Singers",
+          "url": "https://open.spotify.com/artist/2QInYkK0ys9Uj6aa0n8XFx"
+        },
+        {
+          "name": "Jeremy Backhouse",
+          "url": "https://open.spotify.com/artist/53briF9i45bOTMyBWWkmzy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "I Believe in Father Christmas (arr. J. Rathbone)",
+      "url": "https://open.spotify.com/track/2SfRnrxao1DYGa0zdH3q1v"
+    },
+    {
+      "album": {
+        "name": "Carols From Cambridge: The Very Best Sacred Christmas Carols",
+        "url": "https://open.spotify.com/album/0J5mxoyU8lNsqPmepDLvmu"
+      },
+      "artists": [
+        {
+          "name": "Choir of Clare College, Cambridge",
+          "url": "https://open.spotify.com/artist/0sHmVvDwPMhpqcFLBtiDPd"
+        },
+        {
+          "name": "Orchestra of Clare College, Cambridge",
+          "url": "https://open.spotify.com/artist/6Epkp141HpLSLEb2Kp7lP4"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174040,
+      "name": "I Saw A Maiden",
+      "url": "https://open.spotify.com/track/0VLt9kP0KC2YNLS2aAJ6hb"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols by King's College Choir",
+        "url": "https://open.spotify.com/album/6gQ37FNJ47EtvKntHVndwJ"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Douglas Tang",
+          "url": "https://open.spotify.com/artist/32BWWlzvypcS4sZzrQIbDT"
+        },
+        {
+          "name": "Adam Banwell",
+          "url": "https://open.spotify.com/artist/5dufBcMicGrPRrZyrdP5c7"
+        },
+        {
+          "name": "Joel Williams",
+          "url": "https://open.spotify.com/artist/34gm5vLyiSTINMDgGzQEQA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125533,
+      "name": "I Saw Three Ships (Arr. Simon Preston)",
+      "url": "https://open.spotify.com/track/3Csu136Xiv3YQ7QsmIOcMx"
+    },
+    {
+      "album": {
+        "name": "A Winter's Light: A Christmas Collection",
+        "url": "https://open.spotify.com/album/5Mdv6Guj9j0nOqDGPV4KN4"
+      },
+      "artists": [
+        {
+          "name": "Ben Parry",
+          "url": "https://open.spotify.com/artist/29WzzsoFvLAKulpjdtIaT9"
+        },
+        {
+          "name": "James Lord Pierpont",
+          "url": "https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb"
+        },
+        {
+          "name": "Vasari Singers",
+          "url": "https://open.spotify.com/artist/2QInYkK0ys9Uj6aa0n8XFx"
+        },
+        {
+          "name": "Jeremy Backhouse",
+          "url": "https://open.spotify.com/artist/53briF9i45bOTMyBWWkmzy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Jingle Bells (arr. B. Parry)",
+      "url": "https://open.spotify.com/track/5h6skgJPwd1NKDY4RwjrbL"
+    },
+    {
+      "album": {
+        "name": "Celestial Christmas 4: A Special Collection of Seasonal Choral Music",
+        "url": "https://open.spotify.com/album/5R7ETjH4BRTt8myh4l832h"
+      },
+      "artists": [
+        {
+          "name": "Worcester Cathedral Choir",
+          "url": "https://open.spotify.com/artist/2Q8CT4BXxx2vm5KcaeLoQz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92626,
+      "name": "Joy To the World",
+      "url": "https://open.spotify.com/track/2b5IrGP3v7bWo2uKux3JLj"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/4HffNrQ5TRTLlbHuPiJHYV"
+      },
+      "artists": [
+        {
+          "name": "Worcester Cathedral Choir",
+          "url": "https://open.spotify.com/artist/2Q8CT4BXxx2vm5KcaeLoQz"
+        },
+        {
+          "name": "Robert Stringer",
+          "url": "https://open.spotify.com/artist/44L94lUy9LjKKzBBTmihao"
+        },
+        {
+          "name": "Raymond Johnston",
+          "url": "https://open.spotify.com/artist/5UWZBoWuSJtbK9dDpvRMZp"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149240,
+      "name": "Joys Seven - Arr. Stephen Cleobury",
+      "url": "https://open.spotify.com/track/4KuqPiZFfhFnfA3Q4XnGOK"
+    },
+    {
+      "album": {
+        "name": "The Mystery of Christmas",
+        "url": "https://open.spotify.com/album/0RqXNvldA4k444jpai59He"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Elora Festival Singers",
+          "url": "https://open.spotify.com/artist/5nT4cLeFAQJszMSk06DvDy"
+        },
+        {
+          "name": "Noel Edison",
+          "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "King Jesus hath a Garden",
+      "url": "https://open.spotify.com/track/4cuI804v1BQPBKS68vBKHU"
+    },
+    {
+      "album": {
+        "name": "Christmas Choral Classics",
+        "url": "https://open.spotify.com/album/7flf53PSWVU2cHuNn6oVJi"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Crouch End Festival Chorus",
+          "url": "https://open.spotify.com/artist/5z1FDKqosEGwr8HrgzNa0q"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/7Dt5udIZei9CnQ9dSlckpG"
+    },
+    {
+      "album": {
+        "name": "A Christmas Festival",
+        "url": "https://open.spotify.com/album/3Xnd3MsioB1TNQag1qnCnY"
+      },
+      "artists": [
+        {
+          "name": "Jester Hairston",
+          "url": "https://open.spotify.com/artist/3tgxh3cqdCA5UvqwuNYWWl"
+        },
+        {
+          "name": "Melanie Marshall",
+          "url": "https://open.spotify.com/artist/5FjvOVRThV4lQqze0kF35h"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269040,
+      "name": "Mary's Boy Child (Arr. J. Rutter for Voice & Orchestra)",
+      "url": "https://open.spotify.com/track/270nOIGAN7gIJZ548hbNA0"
+    },
+    {
+      "album": {
+        "name": "The John Rutter Christmas Album",
+        "url": "https://open.spotify.com/album/229Ap7BM41Vld93zoov3Jn"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268400,
+      "name": "Nativity Carol",
+      "url": "https://open.spotify.com/track/1QrYNyzm91YKxzcyNrso0j"
+    },
+    {
+      "album": {
+        "name": "Favourite Carols from King's",
+        "url": "https://open.spotify.com/album/1g2S8YsPx59vWvDNOOI7MA"
+      },
+      "artists": [
+        {
+          "name": "John Francis Wade",
+          "url": "https://open.spotify.com/artist/5j5woz2m4ZA9BzME8vcbza"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Douglas Tang",
+          "url": "https://open.spotify.com/artist/32BWWlzvypcS4sZzrQIbDT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268748,
+      "name": "O Come, All Ye Faithful (Arr. David Willcocks)",
+      "url": "https://open.spotify.com/track/3G98E0Ywi8wors3UX6NBos"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl baroque",
+        "url": "https://open.spotify.com/album/1kwtB2zKgJ5JLTJYQx9pWD"
+      },
+      "artists": [
+        {
+          "name": "Michel Corrette",
+          "url": "https://open.spotify.com/artist/6YqejfdahJrTfoRRKLsX4F"
+        },
+        {
+          "name": "Les Musiciens De Saint-Julien",
+          "url": "https://open.spotify.com/artist/3BOobwybtBO4mg4PDHRL5Q"
+        },
+        {
+          "name": "Fran\u00e7ois Lazarevitch",
+          "url": "https://open.spotify.com/artist/1w0VWTx6MNhPyOiUdqlEwm"
+        },
+        {
+          "name": "Ma\u00eetrise de Radio France",
+          "url": "https://open.spotify.com/artist/6DanD7KHwrNSqjxHKdLGzG"
+        },
+        {
+          "name": "Sofi Jeannin",
+          "url": "https://open.spotify.com/artist/0N5s1R0xem7sYxgCykIaFJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243306,
+      "name": "Quand Dieu naquit \u00e0 No\u00ebl",
+      "url": "https://open.spotify.com/track/1IJ6HQDv50SSKiEslDMjxI"
+    },
+    {
+      "album": {
+        "name": "Fincham: Ring the Bells",
+        "url": "https://open.spotify.com/album/3rKmNEG7zR44Vyh4u8wW2E"
+      },
+      "artists": [
+        {
+          "name": "Paul Fincham",
+          "url": "https://open.spotify.com/artist/6E7mHPZ7DAdJyOzww7J3Zf"
+        },
+        {
+          "name": "London Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/7GUhTBqD7CAbbIjjBd0SdN"
+        },
+        {
+          "name": "Neville Creed",
+          "url": "https://open.spotify.com/artist/5NZbFEagW04SQnp1Bw5trZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "Ring the Bells",
+      "url": "https://open.spotify.com/track/5SjCRkqkzCNoucCSB0Me3N"
+    },
+    {
+      "album": {
+        "name": "On Christmas Night",
+        "url": "https://open.spotify.com/album/4Yw06lpH2oZhsxDqAfdvbW"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Choir of Magdalen College, Oxford",
+          "url": "https://open.spotify.com/artist/1iZZQ9LJg4rERzOzLwjkRW"
+        },
+        {
+          "name": "William Fox",
+          "url": "https://open.spotify.com/artist/4FDWdWwCLh8GIukQM1QST2"
+        },
+        {
+          "name": "Daniel Hyde",
+          "url": "https://open.spotify.com/artist/7H6L3HVFT9SDD9TK50x21K"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188760,
+      "name": "Shepherd's Pipe Carol",
+      "url": "https://open.spotify.com/track/6rMcn0FYxvIdzB8uQOULEz"
+    },
+    {
+      "album": {
+        "name": "The John Rutter Christmas Album",
+        "url": "https://open.spotify.com/album/3RfvXpfCMVhoXWOXOCk7jt"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176080,
+      "name": "Star Carol",
+      "url": "https://open.spotify.com/track/77dFjiEaqqwBoqZzT4UC5J"
+    },
+    {
+      "album": {
+        "name": "Carols From King's",
+        "url": "https://open.spotify.com/album/2D5eBb5JOTdithBNHTsUeG"
+      },
+      "artists": [
+        {
+          "name": "Traditional English",
+          "url": "https://open.spotify.com/artist/4upF1andWmhr2efZCaoOMQ"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "John Wells",
+          "url": "https://open.spotify.com/artist/700bt4lcuIjZirKbMl83Q4"
+        },
+        {
+          "name": "Sir David Willcocks",
+          "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212826,
+      "name": "Sullivan: It Came Upon the Midnight Clear (arr. David Willcocks)",
+      "url": "https://open.spotify.com/track/6C1JnqhRS4t0runZNdaF4o"
+    },
+    {
+      "album": {
+        "name": "Christmas With The Academy",
+        "url": "https://open.spotify.com/album/6iTdvF2QKKP9ZQtPuhwl0e"
+      },
+      "artists": [
+        {
+          "name": "Academy of St Martin in the Fields Chorus",
+          "url": "https://open.spotify.com/artist/1GxYERY1PDh1dEuFqvTDa5"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90373,
+      "name": "Sussex Carol (On Christmas Night)",
+      "url": "https://open.spotify.com/track/1sMvrOQMFWdbHnYDgXUDfn"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/4HffNrQ5TRTLlbHuPiJHYV"
+      },
+      "artists": [
+        {
+          "name": "Worcester Cathedral Choir",
+          "url": "https://open.spotify.com/artist/2Q8CT4BXxx2vm5KcaeLoQz"
+        },
+        {
+          "name": "Raymond Johnston",
+          "url": "https://open.spotify.com/artist/5UWZBoWuSJtbK9dDpvRMZp"
+        },
+        {
+          "name": "Robert Stringer",
+          "url": "https://open.spotify.com/artist/44L94lUy9LjKKzBBTmihao"
+        },
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169680,
+      "name": "The Cherry Tree Carol - Arr. Donald Hunt",
+      "url": "https://open.spotify.com/track/3VpC4fbEqtPyRjflD0bTkc"
+    },
+    {
+      "album": {
+        "name": "Christmas Piano with Alexis",
+        "url": "https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125502,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/6NsZBLdyz1zYFns4QnoDrx"
+    },
+    {
+      "album": {
+        "name": "Gift Wrapping",
+        "url": "https://open.spotify.com/album/0ZBJQZ9oM9BypxdmjCYuaX"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Sir David Willcocks",
+          "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "The Holly and the Ivy (Arr. Walford Davies)",
+      "url": "https://open.spotify.com/track/1mHXDcHYSWu2Q4IbRd0FOU"
+    },
+    {
+      "album": {
+        "name": "The Mystery of Christmas",
+        "url": "https://open.spotify.com/album/0RqXNvldA4k444jpai59He"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Elora Festival Singers",
+          "url": "https://open.spotify.com/artist/5nT4cLeFAQJszMSk06DvDy"
+        },
+        {
+          "name": "Noel Edison",
+          "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101533,
+      "name": "The Linden Tree Carol",
+      "url": "https://open.spotify.com/track/5YlwlNV59U0LfnGHjHL4VB"
+    },
+    {
+      "album": {
+        "name": "Christmas With The Academy",
+        "url": "https://open.spotify.com/album/6iTdvF2QKKP9ZQtPuhwl0e"
+      },
+      "artists": [
+        {
+          "name": "Academy of St Martin in the Fields Chorus",
+          "url": "https://open.spotify.com/artist/1GxYERY1PDh1dEuFqvTDa5"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Tomorrow Shall Be My Dancing Day",
+      "url": "https://open.spotify.com/track/1A8nYIdFHeICD56TDHwIR9"
+    },
+    {
+      "album": {
+        "name": "A Festival of Lessons & Carols from King's",
+        "url": "https://open.spotify.com/album/3jO89atDNCNnCkDlqltzVf"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Philip Ledger",
+          "url": "https://open.spotify.com/artist/66xtCjvWWjyvuD96T7uMXc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "Traditional / Arr. Ledger: Angels from the Realm of Glory",
+      "url": "https://open.spotify.com/track/6OWLJMwh3aRy56uAb64dPC"
+    },
+    {
+      "album": {
+        "name": "Classic Christmas Carols",
+        "url": "https://open.spotify.com/album/15BBrIbwANZ2pgyOIQuTyo"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Philip Ledger",
+          "url": "https://open.spotify.com/artist/66xtCjvWWjyvuD96T7uMXc"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Traditional: In dulci jubilo (Arr. Pearsall)",
+      "url": "https://open.spotify.com/track/0ctFpoyjVokzT891reP7G6"
+    },
+    {
+      "album": {
+        "name": "Celestial Christmas 4: A Special Collection of Seasonal Choral Music",
+        "url": "https://open.spotify.com/album/5R7ETjH4BRTt8myh4l832h"
+      },
+      "artists": [
+        {
+          "name": "Worcester Cathedral Choir",
+          "url": "https://open.spotify.com/artist/2Q8CT4BXxx2vm5KcaeLoQz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118160,
+      "name": "Unto Us Is Born a Son - Puer Nobis Nascitor",
+      "url": "https://open.spotify.com/track/3ZmF2n2rPIqSN3vhEBNDDD"
+    },
+    {
+      "album": {
+        "name": "The John Rutter Christmas Album",
+        "url": "https://open.spotify.com/album/3RfvXpfCMVhoXWOXOCk7jt"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258946,
+      "name": "What Sweeter Music",
+      "url": "https://open.spotify.com/track/2rZqcMWnyo5F9IKqQdAQZO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX30Sfg6tDxHc"
 }

@@ -1,474 +1,563 @@
 {
-  "2022-09-15": 6731,
-  "2022-09-16": 6734,
-  "2022-09-17": 6737,
-  "2022-09-18": 6739,
-  "2022-09-19": 6741,
-  "2022-09-20": 6741,
-  "2022-09-21": 6743,
-  "2022-09-22": 6744,
-  "2022-09-23": 6745,
-  "2022-09-24": 6744,
-  "2022-09-25": 6747,
-  "2022-09-26": 6750,
-  "2022-09-27": 6752,
-  "2022-09-28": 6753,
-  "2022-09-29": 6754,
-  "2022-09-30": 6753,
-  "2022-10-01": 6754,
-  "2022-10-02": 6755,
-  "2022-10-03": 6757,
-  "2022-10-04": 6757,
-  "2022-10-05": 6757,
-  "2022-10-06": 6757,
-  "2022-10-07": 6760,
-  "2022-10-08": 6760,
-  "2022-10-09": 6764,
-  "2022-10-10": 6764,
-  "2022-10-11": 6764,
-  "2022-10-12": 6763,
-  "2022-10-13": 6767,
-  "2022-10-14": 6767,
-  "2022-10-15": 6767,
-  "2022-10-16": 6769,
-  "2022-10-17": 6769,
-  "2022-10-18": 6777,
-  "2022-10-19": 6778,
-  "2022-10-20": 6776,
-  "2022-10-21": 6777,
-  "2022-10-22": 6777,
-  "2022-10-23": 6779,
-  "2022-10-24": 6780,
-  "2022-10-25": 6781,
-  "2022-10-26": 6781,
-  "2022-10-27": 6781,
-  "2022-10-28": 6783,
-  "2022-10-29": 6785,
-  "2022-10-30": 6787,
-  "2022-10-31": 6788,
-  "2022-11-01": 6790,
-  "2022-11-02": 6790,
-  "2022-11-03": 6792,
-  "2022-11-04": 6792,
-  "2022-11-05": 6793,
-  "2022-11-06": 6795,
-  "2022-11-07": 6793,
-  "2022-11-08": 6797,
-  "2022-11-09": 6798,
-  "2022-11-10": 6798,
-  "2022-11-11": 6799,
-  "2022-11-12": 6800,
-  "2022-11-13": 6802,
-  "2022-11-14": 6804,
-  "2022-11-15": 6806,
-  "2022-11-16": 6809,
-  "2022-11-17": 6812,
-  "2022-11-18": 6812,
-  "2022-11-19": 6812,
-  "2022-11-20": 6812,
-  "2022-11-21": 6811,
-  "2022-11-22": 6812,
-  "2022-11-23": 6811,
-  "2022-11-24": 6819,
-  "2022-11-25": 6823,
-  "2022-11-26": 6827,
-  "2022-11-27": 6828,
-  "2022-11-28": 6828,
-  "2022-11-29": 6829,
-  "2022-11-30": 6830,
-  "2022-12-01": 6829,
-  "2022-12-02": 6827,
-  "2022-12-03": 6831,
-  "2022-12-04": 6832,
-  "2022-12-05": 6836,
-  "2022-12-06": 6835,
-  "2022-12-07": 6837,
-  "2022-12-08": 6838,
-  "2022-12-09": 6841,
-  "2022-12-10": 6843,
-  "2022-12-11": 6842,
-  "2022-12-12": 6846,
-  "2022-12-13": 6847,
-  "2022-12-14": 6849,
-  "2022-12-15": 6855,
-  "2022-12-16": 6859,
-  "2022-12-17": 6860,
-  "2022-12-18": 6861,
-  "2022-12-19": 6861,
-  "2022-12-20": 6863,
-  "2022-12-21": 6863,
-  "2022-12-22": 6866,
-  "2022-12-24": 6873,
-  "2022-12-25": 6879,
-  "2022-12-26": 6881,
-  "2022-12-27": 6882,
-  "2022-12-28": 6884,
-  "2022-12-29": 6886,
-  "2022-12-30": 6886,
-  "2022-12-31": 6887,
-  "2023-01-01": 6890,
-  "2023-01-02": 6894,
-  "2023-01-03": 6899,
-  "2023-01-04": 6903,
-  "2023-01-05": 6905,
-  "2023-01-06": 6907,
-  "2023-01-07": 6911,
-  "2023-01-08": 6911,
-  "2023-01-09": 6911,
-  "2023-01-10": 6915,
-  "2023-01-11": 6917,
-  "2023-01-12": 6919,
-  "2023-01-13": 6920,
-  "2023-01-14": 6925,
-  "2023-01-15": 6924,
-  "2023-01-16": 6925,
-  "2023-01-17": 6927,
-  "2023-01-18": 6930,
-  "2023-01-19": 6932,
-  "2023-01-20": 6932,
-  "2023-01-21": 6934,
-  "2023-01-22": 6936,
-  "2023-01-23": 6937,
-  "2023-01-24": 6936,
-  "2023-01-25": 6935,
-  "2023-01-26": 6936,
-  "2023-01-27": 6939,
-  "2023-01-28": 6940,
-  "2023-01-29": 6939,
-  "2023-01-30": 6942,
-  "2023-01-31": 6942,
-  "2023-02-01": 6947,
-  "2023-02-02": 6946,
-  "2023-02-03": 6948,
-  "2023-02-04": 6955,
-  "2023-02-05": 6956,
-  "2023-02-06": 6961,
-  "2023-02-07": 6963,
-  "2023-02-08": 6969,
-  "2023-02-09": 6969,
-  "2023-02-10": 6967,
-  "2023-02-11": 6969,
-  "2023-02-12": 6977,
-  "2023-02-13": 6977,
-  "2023-02-14": 6977,
-  "2023-02-15": 6979,
-  "2023-02-16": 6983,
-  "2023-02-17": 6987,
-  "2023-02-18": 6993,
-  "2023-02-19": 6993,
-  "2023-02-20": 7005,
-  "2023-02-21": 7047,
-  "2023-02-22": 7089,
-  "2023-02-23": 7123,
-  "2023-02-24": 7172,
-  "2023-02-25": 7217,
-  "2023-02-26": 7249,
-  "2023-02-27": 7335,
-  "2023-02-28": 7335,
-  "2023-03-01": 7376,
-  "2023-03-02": 7413,
-  "2023-03-03": 7459,
-  "2023-03-04": 7504,
-  "2023-03-05": 7592,
-  "2023-03-06": 7592,
-  "2023-03-07": 7614,
-  "2023-03-08": 7655,
-  "2023-03-09": 7688,
-  "2023-03-10": 7720,
-  "2023-03-11": 7771,
-  "2023-03-12": 7811,
-  "2023-03-13": 7851,
-  "2023-03-14": 7881,
-  "2023-03-15": 7907,
-  "2023-03-16": 7937,
-  "2023-03-17": 7937,
-  "2023-03-18": 8007,
-  "2023-03-19": 8038,
-  "2023-03-20": 8070,
-  "2023-03-21": 8103,
-  "2023-03-22": 8138,
-  "2023-03-23": 8180,
-  "2023-03-24": 8180,
-  "2023-03-25": 8228,
-  "2023-03-26": 8252,
-  "2023-03-27": 8278,
-  "2023-03-28": 8309,
-  "2023-03-29": 8349,
-  "2023-03-30": 8406,
-  "2023-03-31": 8406,
-  "2023-04-01": 8429,
-  "2023-04-02": 8448,
-  "2023-04-03": 8488,
-  "2023-04-04": 8520,
-  "2023-04-05": 8558,
-  "2023-04-06": 8589,
-  "2023-04-07": 8627,
-  "2023-04-09": 8703,
-  "2023-04-10": 8731,
-  "2023-04-11": 8821,
-  "2023-04-12": 8821,
-  "2023-04-13": 8860,
-  "2023-04-14": 8897,
-  "2023-04-15": 8941,
-  "2023-04-16": 8973,
-  "2023-04-17": 9011,
-  "2023-04-18": 9053,
-  "2023-04-19": 9105,
-  "2023-04-20": 9149,
-  "2023-04-21": 9197,
-  "2023-04-22": 9252,
-  "2023-04-23": 9299,
-  "2023-04-24": 9331,
-  "2023-04-25": 9382,
-  "2023-04-26": 9439,
-  "2023-04-27": 9473,
-  "2023-04-28": 9519,
-  "2023-04-29": 9560,
-  "2023-04-30": 9583,
-  "2023-05-01": 9623,
-  "2023-05-02": 9658,
-  "2023-05-03": 9687,
-  "2023-05-04": 9730,
-  "2023-05-05": 9763,
-  "2023-05-06": 9802,
-  "2023-05-07": 9834,
-  "2023-05-08": 9871,
-  "2023-05-09": 9901,
-  "2023-05-10": 9951,
-  "2023-05-11": 9994,
-  "2023-05-12": 10026,
-  "2023-05-13": 10064,
-  "2023-05-14": 10101,
-  "2023-05-15": 10120,
-  "2023-05-16": 10159,
-  "2023-05-17": 10194,
-  "2023-05-18": 10225,
-  "2023-05-19": 10265,
-  "2023-05-20": 10350,
-  "2023-05-21": 10350,
-  "2023-05-22": 10350,
-  "2023-05-23": 10412,
-  "2023-05-24": 10486,
-  "2023-05-25": 10499,
-  "2023-05-26": 10551,
-  "2023-05-27": 10601,
-  "2023-05-28": 10632,
-  "2023-05-29": 10632,
-  "2023-05-30": 10686,
-  "2023-05-31": 10726,
-  "2023-06-01": 10770,
-  "2023-06-02": 10797,
-  "2023-06-03": 10830,
-  "2023-06-04": 10861,
-  "2023-06-05": 10897,
-  "2023-06-06": 10941,
-  "2023-06-07": 10970,
-  "2023-06-08": 11022,
-  "2023-06-09": 11053,
-  "2023-06-10": 11097,
-  "2023-06-11": 11133,
-  "2023-06-12": 11166,
-  "2023-06-13": 11203,
-  "2023-06-14": 11241,
-  "2023-06-15": 11270,
-  "2023-06-16": 11290,
-  "2023-06-17": 11325,
-  "2023-06-18": 11373,
-  "2023-06-19": 11395,
-  "2023-06-20": 11429,
-  "2023-06-21": 11463,
-  "2023-06-22": 11512,
-  "2023-06-23": 11554,
-  "2023-06-24": 11596,
-  "2023-06-25": 11628,
-  "2023-06-26": 11675,
-  "2023-06-27": 11713,
-  "2023-06-28": 11752,
-  "2023-06-29": 11793,
-  "2023-06-30": 11816,
-  "2023-07-01": 11898,
-  "2023-07-02": 11898,
-  "2023-07-03": 11924,
-  "2023-07-04": 11967,
-  "2023-07-05": 12012,
-  "2023-07-06": 12082,
-  "2023-07-07": 12082,
-  "2023-07-08": 12116,
-  "2023-07-09": 12156,
-  "2023-07-10": 12197,
-  "2023-07-11": 12228,
-  "2023-07-12": 12261,
-  "2023-07-13": 12295,
-  "2023-07-14": 12328,
-  "2023-07-15": 12348,
-  "2023-07-16": 12385,
-  "2023-07-17": 12416,
-  "2023-07-18": 12449,
-  "2023-07-19": 12497,
-  "2023-07-20": 12537,
-  "2023-07-21": 12571,
-  "2023-07-22": 12613,
-  "2023-07-23": 12654,
-  "2023-07-24": 12684,
-  "2023-07-25": 12724,
-  "2023-07-26": 12755,
-  "2023-07-27": 12797,
-  "2023-07-28": 12835,
-  "2023-07-29": 12864,
-  "2023-07-30": 12903,
-  "2023-07-31": 12939,
-  "2023-08-01": 12976,
-  "2023-08-02": 13003,
-  "2023-08-03": 13047,
-  "2023-08-04": 13090,
-  "2023-08-05": 13124,
-  "2023-08-06": 13189,
-  "2023-08-07": 13189,
-  "2023-08-08": 13218,
-  "2023-08-09": 13262,
-  "2023-08-10": 13298,
-  "2023-08-11": 13336,
-  "2023-08-12": 13371,
-  "2023-08-13": 13416,
-  "2023-08-14": 13450,
-  "2023-08-15": 13528,
-  "2023-08-16": 13528,
-  "2023-08-17": 13565,
-  "2023-08-18": 13607,
-  "2023-08-19": 13638,
-  "2023-08-20": 13677,
-  "2023-08-21": 13717,
-  "2023-08-22": 13748,
-  "2023-08-23": 13775,
-  "2023-08-24": 13796,
-  "2023-08-25": 13835,
-  "2023-08-26": 13877,
-  "2023-08-27": 13900,
-  "2023-08-28": 13939,
-  "2023-08-29": 13973,
-  "2023-08-30": 14018,
-  "2023-08-31": 14047,
-  "2023-09-01": 14085,
-  "2023-09-02": 14085,
-  "2023-09-03": 14103,
-  "2023-09-04": 14134,
-  "2023-09-05": 14179,
-  "2023-09-06": 14225,
-  "2023-09-07": 14264,
-  "2023-09-08": 14292,
-  "2023-09-09": 14339,
-  "2023-09-10": 14383,
-  "2023-09-11": 14411,
-  "2023-09-12": 14445,
-  "2023-09-13": 14486,
-  "2023-09-14": 14524,
-  "2023-09-15": 14563,
-  "2023-09-16": 14589,
-  "2023-09-17": 14625,
-  "2023-09-18": 14659,
-  "2023-09-19": 14703,
-  "2023-09-20": 14730,
-  "2023-09-21": 14762,
-  "2023-09-22": 14801,
-  "2023-09-23": 14843,
-  "2023-09-24": 14872,
-  "2023-09-25": 14894,
-  "2023-09-26": 14938,
-  "2023-09-27": 14962,
-  "2023-09-28": 14999,
-  "2023-09-29": 15033,
-  "2023-09-30": 15065,
-  "2023-10-01": 15091,
-  "2023-10-02": 15119,
-  "2023-10-03": 15144,
-  "2023-10-04": 15184,
-  "2023-10-05": 15222,
-  "2023-10-06": 15249,
-  "2023-10-07": 15271,
-  "2023-10-08": 15299,
-  "2023-10-09": 15328,
-  "2023-10-10": 15354,
-  "2023-10-11": 15395,
-  "2023-10-12": 15395,
-  "2023-10-13": 15427,
-  "2023-10-14": 15442,
-  "2023-10-15": 15470,
-  "2023-10-16": 15492,
-  "2023-10-17": 15524,
-  "2023-10-18": 15552,
-  "2023-10-19": 15593,
-  "2023-10-20": 15624,
-  "2023-10-21": 15663,
-  "2023-10-22": 15694,
-  "2023-10-23": 15725,
-  "2023-10-24": 15742,
-  "2023-10-25": 15778,
-  "2023-10-26": 15811,
-  "2023-10-27": 15831,
-  "2023-10-28": 15860,
-  "2023-10-29": 15888,
-  "2023-10-30": 15928,
-  "2023-10-31": 15928,
-  "2023-11-01": 15959,
-  "2023-11-02": 15991,
-  "2023-11-03": 16020,
-  "2023-11-04": 16041,
-  "2023-11-05": 16071,
-  "2023-11-06": 16093,
-  "2023-11-07": 16126,
-  "2023-11-08": 16159,
-  "2023-11-09": 16191,
-  "2023-11-10": 16218,
-  "2023-11-11": 16245,
-  "2023-11-12": 16275,
-  "2023-11-13": 16303,
-  "2023-11-14": 16322,
-  "2023-11-15": 16322,
-  "2023-11-16": 16362,
-  "2023-11-17": 16408,
-  "2023-11-18": 16408,
-  "2023-11-19": 16426,
-  "2023-11-20": 16447,
-  "2023-11-21": 16479,
-  "2023-11-22": 16508,
-  "2023-11-23": 16540,
-  "2023-11-24": 16558,
-  "2023-11-25": 16583,
-  "2023-11-26": 16604,
-  "2023-11-27": 16634,
-  "2023-11-28": 16659,
-  "2023-11-29": 16732,
-  "2023-11-30": 16732,
-  "2023-12-01": 16769,
-  "2023-12-02": 16800,
-  "2023-12-03": 16825,
-  "2023-12-04": 16847,
-  "2023-12-05": 16878,
-  "2023-12-06": 16898,
-  "2023-12-07": 16927,
-  "2023-12-08": 16954,
-  "2023-12-09": 16974,
-  "2023-12-10": 17001,
-  "2023-12-11": 17022,
-  "2023-12-12": 17044,
-  "2023-12-13": 17066,
-  "2023-12-14": 17093,
-  "2023-12-15": 17114,
-  "2023-12-16": 17123,
-  "2023-12-17": 17148,
-  "2023-12-18": 17165,
-  "2023-12-19": 17178,
-  "2023-12-20": 17201,
-  "2023-12-21": 17221,
-  "2023-12-22": 17248,
-  "2023-12-23": 17269,
-  "2023-12-24": 17286,
-  "2023-12-25": 17313,
-  "2023-12-26": 17335,
-  "2023-12-27": 17352,
-  "2023-12-30": 17420,
-  "2023-12-31": 17448,
-  "2024-01-01": 17473,
-  "2024-01-02": 17493,
-  "2024-01-03": 17507
+  "2024-01-17": 17772,
+  "date_first_scraped": "2022-09-15",
+  "description": "In honor of our beloved friend and Kuya Dj Efechto. This a collection of songs he loved, that influenced him, and tracks he produced or scratched on. Turn your system to the Red for Efechto.  Guest curated by Propaganda.",
+  "name": "The Blaze",
+  "tracks": [
+    {
+      "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52040,
+      "name": "B-Boy Theme",
+      "url": "https://open.spotify.com/track/4m7V6cSn3opOkpmdQWhjEw"
+    },
+    {
+      "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
+      },
+      "artists": [
+        {
+          "name": "Jaylib",
+          "url": "https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143653,
+      "name": "Champion Sound",
+      "url": "https://open.spotify.com/track/4yrqHxAUBDU6Uwrcn3oVo9"
+    },
+    {
+      "album": {
+        "name": "The Shining Instrumentals",
+        "url": "https://open.spotify.com/album/4CjZRdriTNh1CyIEwjzoTB"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196386,
+      "name": "E=MC2 - Instrumental",
+      "url": "https://open.spotify.com/track/0TuoKn9PL2cYzvri17YV3I"
+    },
+    {
+      "album": {
+        "name": "Crooked",
+        "url": "https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221572,
+      "name": "Gentrify",
+      "url": "https://open.spotify.com/track/13HHsnKEWcPq855u8f9fVH"
+    },
+    {
+      "album": {
+        "name": "JackPot",
+        "url": "https://open.spotify.com/album/6EKGi4ktGyBERrHkwEqxk8"
+      },
+      "artists": [
+        {
+          "name": "JGivens",
+          "url": "https://open.spotify.com/artist/1Xq1gv1FyECCWgSyTP0dN3"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "JackPot",
+      "url": "https://open.spotify.com/track/2sjdXoU475of3JCq16gYc6"
+    },
+    {
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/0K7EywH4ha7JWgjcwi4xTE"
+      },
+      "artists": [
+        {
+          "name": "The Bridge",
+          "url": "https://open.spotify.com/artist/74e9bWJx8AXx8MJy6wWvbE"
+        },
+        {
+          "name": "D. Steele",
+          "url": "https://open.spotify.com/artist/3v7GYILYt8orXKbs86JwIj"
+        },
+        {
+          "name": "Efechto",
+          "url": "https://open.spotify.com/artist/5x69RJMXwFDWpDAsmdJScW"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95346,
+      "name": "Jalapeno Bizness",
+      "url": "https://open.spotify.com/track/3ukUndK6lNmQpmSqvhPnx8"
+    },
+    {
+      "album": {
+        "name": "Invitation Only",
+        "url": "https://open.spotify.com/album/14QqEVs1jDkcgsnd9zPBAr"
+      },
+      "artists": [
+        {
+          "name": "Scribbling Idiots",
+          "url": "https://open.spotify.com/artist/5wtqb9aDZC2CuiumSWsv7L"
+        },
+        {
+          "name": "DJ Efechto",
+          "url": "https://open.spotify.com/artist/3URMfrDdC2LRia3gcWlpG1"
+        },
+        {
+          "name": "Magestik Legend",
+          "url": "https://open.spotify.com/artist/3CByGtJcf5rs4nztXSw1YS"
+        },
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        },
+        {
+          "name": "Theory Hazit",
+          "url": "https://open.spotify.com/artist/23yxO4nVI3C2CoXIkYLifD"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Last But Not Least",
+      "url": "https://open.spotify.com/track/6MCQnvP1QGtArwqdS2ELWw"
+    },
+    {
+      "album": {
+        "name": "Ruff Draft",
+        "url": "https://open.spotify.com/album/1TRrUIWutAg8Xe99cAzmbm"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130479,
+      "name": "Let's Take It Back",
+      "url": "https://open.spotify.com/track/3C3DIE5j3J53S9jXo9Btcl"
+    },
+    {
+      "album": {
+        "name": "Ruff Draft",
+        "url": "https://open.spotify.com/album/1TRrUIWutAg8Xe99cAzmbm"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 126640,
+      "name": "Let's Take It Back (Instrumental)",
+      "url": "https://open.spotify.com/track/42ntbDo7vKUaT1sB5K9bWE"
+    },
+    {
+      "album": {
+        "name": "The Shining Instrumental",
+        "url": "https://open.spotify.com/album/2ZcZ21vMvMSt1JFhCe1SME"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/11ESYBYIiBt1Z2MKwfW9Bv"
+    },
+    {
+      "album": {
+        "name": "Church Clothes",
+        "url": "https://open.spotify.com/album/3pUf0MTDcXjmlzDYAAPqX8"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/1CW22g5tscyuqyeszR4CsC"
+        },
+        {
+          "name": "Beautiful Eulogy",
+          "url": "https://open.spotify.com/artist/1aoAseexNuwSuXVAGPfLex"
+        },
+        {
+          "name": "DJ Efechto",
+          "url": "https://open.spotify.com/artist/3URMfrDdC2LRia3gcWlpG1"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276950,
+      "name": "Misconception",
+      "url": "https://open.spotify.com/track/2FjaC9cRoOy1Hv3rHuoFts"
+    },
+    {
+      "album": {
+        "name": "The Upside Eternal",
+        "url": "https://open.spotify.com/album/0wmfUb1Cr1MdfxVoyXBok5"
+      },
+      "artists": [
+        {
+          "name": "Alert312",
+          "url": "https://open.spotify.com/artist/2WMTYfACe7p99zN3X3ZMrE"
+        },
+        {
+          "name": "DJ Efechto",
+          "url": "https://open.spotify.com/artist/3URMfrDdC2LRia3gcWlpG1"
+        },
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "No Holds Tongue",
+      "url": "https://open.spotify.com/track/59bTN3tvY9wXq0vdP5wKjP"
+    },
+    {
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/0K7EywH4ha7JWgjcwi4xTE"
+      },
+      "artists": [
+        {
+          "name": "The Bridge",
+          "url": "https://open.spotify.com/artist/74e9bWJx8AXx8MJy6wWvbE"
+        },
+        {
+          "name": "D. Steele",
+          "url": "https://open.spotify.com/artist/3v7GYILYt8orXKbs86JwIj"
+        },
+        {
+          "name": "Efechto",
+          "url": "https://open.spotify.com/artist/5x69RJMXwFDWpDAsmdJScW"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85213,
+      "name": "Pack Yo Bags",
+      "url": "https://open.spotify.com/track/6i4VdiosDEqYBIs06arK1A"
+    },
+    {
+      "album": {
+        "name": "The Mocker and the Monarch",
+        "url": "https://open.spotify.com/album/5Y8N0cF7FPCurd4NObF1ck"
+      },
+      "artists": [
+        {
+          "name": "Taelor Gray",
+          "url": "https://open.spotify.com/artist/581tKXVRFKxu6aSyhYMqan"
+        },
+        {
+          "name": "Beleaf",
+          "url": "https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T"
+        },
+        {
+          "name": "Jurny Big",
+          "url": "https://open.spotify.com/artist/6si2QWdLMMGoSjIgyhmcSu"
+        },
+        {
+          "name": "DJ Efechto",
+          "url": "https://open.spotify.com/artist/3URMfrDdC2LRia3gcWlpG1"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349500,
+      "name": "Powdered Toast Man (feat. Beleaf, Jurny Big & DJ Efechto)",
+      "url": "https://open.spotify.com/track/3tgkFAWTPpnzfFBa47qOBb"
+    },
+    {
+      "album": {
+        "name": "Crooked",
+        "url": "https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238940,
+      "name": "Slow Cook",
+      "url": "https://open.spotify.com/track/6OMuYzjJwxY12osD8QAXU1"
+    },
+    {
+      "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336813,
+      "name": "So Far to Go",
+      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
+    },
+    {
+      "album": {
+        "name": "The Shining Instrumentals",
+        "url": "https://open.spotify.com/album/4CjZRdriTNh1CyIEwjzoTB"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 336853,
+      "name": "So Far To Go - Instrumental",
+      "url": "https://open.spotify.com/track/4b6Vfi3nqr6B3BJKkwLmJr"
+    },
+    {
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/0K7EywH4ha7JWgjcwi4xTE"
+      },
+      "artists": [
+        {
+          "name": "The Bridge",
+          "url": "https://open.spotify.com/artist/74e9bWJx8AXx8MJy6wWvbE"
+        },
+        {
+          "name": "D. Steele",
+          "url": "https://open.spotify.com/artist/3v7GYILYt8orXKbs86JwIj"
+        },
+        {
+          "name": "Efechto",
+          "url": "https://open.spotify.com/artist/5x69RJMXwFDWpDAsmdJScW"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100520,
+      "name": "Speed Racer",
+      "url": "https://open.spotify.com/track/1rY5OtQ8yOdh4SixnIOPFI"
+    },
+    {
+      "album": {
+        "name": "Rapper's Best Friend",
+        "url": "https://open.spotify.com/album/3U6uass3FUMZKMx2VFku4T"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "Stuck To You",
+      "url": "https://open.spotify.com/track/7uOYN99KG67r2hxiqx2fz7"
+    },
+    {
+      "album": {
+        "name": "This Is The Shack",
+        "url": "https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU"
+      },
+      "artists": [
+        {
+          "name": "Dove Shack",
+          "url": "https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Summertime In The LBC",
+      "url": "https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN"
+    },
+    {
+      "album": {
+        "name": "Beat Konducta Vol. 1-2: Movie Scenes",
+        "url": "https://open.spotify.com/album/7wKrftuMRji6JskeRGEoHz"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78453,
+      "name": "Tape Hiss (Dirty)",
+      "url": "https://open.spotify.com/track/30E0RS7utw9Ef0XR2Fz7Oz"
+    },
+    {
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/0K7EywH4ha7JWgjcwi4xTE"
+      },
+      "artists": [
+        {
+          "name": "The Bridge",
+          "url": "https://open.spotify.com/artist/74e9bWJx8AXx8MJy6wWvbE"
+        },
+        {
+          "name": "D. Steele",
+          "url": "https://open.spotify.com/artist/3v7GYILYt8orXKbs86JwIj"
+        },
+        {
+          "name": "Efechto",
+          "url": "https://open.spotify.com/artist/5x69RJMXwFDWpDAsmdJScW"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113933,
+      "name": "The Bridge Is Ova",
+      "url": "https://open.spotify.com/track/1b3uVI5zDTDNeDmTkoiNh4"
+    },
+    {
+      "album": {
+        "name": "Beat Konducta Vol. 1-2: Movie Scenes",
+        "url": "https://open.spotify.com/album/7wKrftuMRji6JskeRGEoHz"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73880,
+      "name": "The Comeback (Madlib)",
+      "url": "https://open.spotify.com/track/65I8SFvK8rurlVkl6UPZhA"
+    },
+    {
+      "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
+      },
+      "artists": [
+        {
+          "name": "Jaylib",
+          "url": "https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "The Red",
+      "url": "https://open.spotify.com/track/39DqjGQSh3UvzQxueQSauA"
+    },
+    {
+      "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "date_added": "2018-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165693,
+      "name": "Whenimondamic",
+      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX47STdWoPX6D"
 }

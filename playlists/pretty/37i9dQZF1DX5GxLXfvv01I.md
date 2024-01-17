@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,721 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,703 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

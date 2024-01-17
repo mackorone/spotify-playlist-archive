@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,835 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,997 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

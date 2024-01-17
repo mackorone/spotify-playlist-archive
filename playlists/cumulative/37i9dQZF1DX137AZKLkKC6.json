@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Las Compuse Para Ti",
+        "url": "https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200384,
+      "name": "Que Te Lo Crea Tu Madre",
+      "url": "https://open.spotify.com/track/0Z0pPhqm32Caybjnozf0Vk"
+    },
+    {
+      "album": {
         "name": "Las Compuse para Ti",
         "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
       },
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 200384,
       "name": "Que Te Lo Crea Tu Madre",
       "url": "https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag"
@@ -3048,10 +3066,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 197819,
       "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
       "url": "https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4"
+    },
+    {
+      "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
     },
     {
       "album": {
@@ -3400,10 +3436,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 231916,
       "name": "Soltero Feliz",
       "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
+    },
+    {
+      "album": {
+        "name": "Que No Se Caiga el Ritmo",
+        "url": "https://open.spotify.com/album/5OLQHzC7PupWPDPVPFMiUB"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231916,
+      "name": "Soltero Feliz",
+      "url": "https://open.spotify.com/track/2om0MQWST4Dt67seH9vKwN"
     },
     {
       "album": {

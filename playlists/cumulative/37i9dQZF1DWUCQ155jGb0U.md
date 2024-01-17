@@ -2,9 +2,9 @@
 
 ### [Rock Me](https://open.spotify.com/playlist/37i9dQZF1DWUCQ155jGb0U)
 
-> Sonido contemporáneo y algunos clásicos\. <br/>Foto: Arctic Monkeys
+> Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-224 songs - 14 hr 23 min
+225 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bad Decisions](https://open.spotify.com/track/6e2pJqucDMxbp061B40r6O) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Bad Decisions](https://open.spotify.com/album/0XhfCV0t2XTMc5TLirBmT1) | 4:53 | 2022-04-18 | 2022-07-26 |
 | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d) | 4:10 | 2022-04-18 | 2022-07-26 |
 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 | 2023-07-21 | 2023-07-29 |
+| [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-12 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-04-18 |  |
 | [Birds](https://open.spotify.com/track/2DWn3Qnk2MLaKSR2O6BcI6) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Birds](https://open.spotify.com/album/0OXJFBFvYP5b2U0qWUQehJ) | 3:39 | 2022-04-18 | 2022-09-06 |
 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 | 2023-08-28 | 2023-10-21 |
@@ -97,7 +98,7 @@
 | [Fluorescent Adolescent](https://open.spotify.com/track/5z8UBfhE6K2akrmEqzpVLw) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/7fs84A1nvT19DGHdd4mGT8) | 3:03 | 2022-10-14 | 2022-11-13 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-07-25 |  |
 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 | 2023-11-22 |  |
-| [Gamma Ray](https://open.spotify.com/track/2iWfZFAF8BCi0CY4NyuP8D) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Modern Guilt](https://open.spotify.com/album/3D278bVsRcK48RvV5yLVt8) | 2:56 | 2023-11-22 |  |
+| [Gamma Ray](https://open.spotify.com/track/2iWfZFAF8BCi0CY4NyuP8D) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Modern Guilt](https://open.spotify.com/album/3D278bVsRcK48RvV5yLVt8) | 2:56 | 2023-11-22 | 2024-01-13 |
 | [Get It Back](https://open.spotify.com/track/6rT2aU4P6l0NL4yr2lEwUr) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Get It Back](https://open.spotify.com/album/6OxeYR6XlbyBvYMrUzAfe3) | 3:41 | 2022-04-18 | 2022-07-26 |
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-10 | 2023-08-19 |
 | [Going Down South](https://open.spotify.com/track/1Bm1YppuoO7oTAJ7s0Eyma) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Going Down South](https://open.spotify.com/album/5TeN9UapR2EHe4UDBW9lsh) | 3:48 | 2022-04-18 | 2022-07-26 |

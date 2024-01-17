@@ -1,580 +1,2965 @@
 {
-  "2022-05-30": 256152,
-  "2022-05-31": 256222,
-  "2022-06-01": 256311,
-  "2022-06-02": 256319,
-  "2022-06-03": 256383,
-  "2022-06-04": 256448,
-  "2022-06-05": 256507,
-  "2022-06-06": 256559,
-  "2022-06-07": 256609,
-  "2022-06-08": 256692,
-  "2022-06-09": 256773,
-  "2022-06-10": 256840,
-  "2022-06-11": 256869,
-  "2022-06-12": 256924,
-  "2022-06-13": 256976,
-  "2022-06-14": 257009,
-  "2022-06-15": 257069,
-  "2022-06-16": 257127,
-  "2022-06-17": 257157,
-  "2022-06-18": 257213,
-  "2022-06-19": 257298,
-  "2022-06-20": 257298,
-  "2022-06-21": 257339,
-  "2022-06-22": 257421,
-  "2022-06-23": 257421,
-  "2022-06-24": 257466,
-  "2022-06-25": 257508,
-  "2022-06-26": 257527,
-  "2022-06-27": 257576,
-  "2022-06-28": 257613,
-  "2022-06-29": 257672,
-  "2022-06-30": 257709,
-  "2022-07-01": 257768,
-  "2022-07-02": 257834,
-  "2022-07-03": 257862,
-  "2022-07-04": 257890,
-  "2022-07-05": 257931,
-  "2022-07-06": 257958,
-  "2022-07-07": 257974,
-  "2022-07-08": 258043,
-  "2022-07-09": 258076,
-  "2022-07-10": 258122,
-  "2022-07-11": 258166,
-  "2022-07-12": 258219,
-  "2022-07-13": 258273,
-  "2022-07-14": 258308,
-  "2022-07-15": 258380,
-  "2022-07-16": 258416,
-  "2022-07-17": 258449,
-  "2022-07-18": 258483,
-  "2022-07-19": 258524,
-  "2022-07-20": 258566,
-  "2022-07-21": 258588,
-  "2022-07-22": 258641,
-  "2022-07-23": 258692,
-  "2022-07-24": 258743,
-  "2022-07-25": 258798,
-  "2022-07-26": 258824,
-  "2022-07-27": 258855,
-  "2022-07-28": 258874,
-  "2022-07-29": 258935,
-  "2022-07-30": 259025,
-  "2022-07-31": 259025,
-  "2022-08-01": 259058,
-  "2022-08-02": 259135,
-  "2022-08-03": 259135,
-  "2022-08-04": 259180,
-  "2022-08-05": 259220,
-  "2022-08-06": 259278,
-  "2022-08-07": 259296,
-  "2022-08-08": 259368,
-  "2022-08-09": 259424,
-  "2022-08-10": 259460,
-  "2022-08-11": 259504,
-  "2022-08-12": 259545,
-  "2022-08-13": 259594,
-  "2022-08-14": 259637,
-  "2022-08-15": 259665,
-  "2022-08-16": 259711,
-  "2022-08-17": 259749,
-  "2022-08-18": 259790,
-  "2022-08-19": 259853,
-  "2022-08-20": 259901,
-  "2022-08-21": 259945,
-  "2022-08-22": 259975,
-  "2022-08-23": 260010,
-  "2022-08-24": 260058,
-  "2022-08-25": 260119,
-  "2022-08-26": 260196,
-  "2022-08-27": 260237,
-  "2022-08-28": 260260,
-  "2022-08-29": 260301,
-  "2022-08-30": 260179,
-  "2022-08-31": 259866,
-  "2022-09-01": 259561,
-  "2022-09-02": 259242,
-  "2022-09-03": 259281,
-  "2022-09-04": 258366,
-  "2022-09-05": 258374,
-  "2022-09-06": 258382,
-  "2022-09-07": 258426,
-  "2022-09-09": 258530,
-  "2022-09-10": 258577,
-  "2022-09-11": 258612,
-  "2022-09-12": 258660,
-  "2022-09-13": 258702,
-  "2022-09-15": 258789,
-  "2022-09-16": 258824,
-  "2022-09-17": 258849,
-  "2022-09-18": 258871,
-  "2022-09-19": 258910,
-  "2022-09-20": 258972,
-  "2022-09-21": 259009,
-  "2022-09-22": 259032,
-  "2022-09-23": 259059,
-  "2022-09-24": 259114,
-  "2022-09-25": 259148,
-  "2022-09-26": 259186,
-  "2022-09-27": 259235,
-  "2022-09-28": 259296,
-  "2022-09-29": 259331,
-  "2022-09-30": 259376,
-  "2022-10-01": 259419,
-  "2022-10-02": 259452,
-  "2022-10-03": 259498,
-  "2022-10-04": 259535,
-  "2022-10-05": 259582,
-  "2022-10-06": 259625,
-  "2022-10-07": 259663,
-  "2022-10-08": 259720,
-  "2022-10-09": 259777,
-  "2022-10-10": 259784,
-  "2022-10-11": 259822,
-  "2022-10-12": 259859,
-  "2022-10-13": 259885,
-  "2022-10-14": 259920,
-  "2022-10-15": 259956,
-  "2022-10-16": 259986,
-  "2022-10-17": 260013,
-  "2022-10-18": 260049,
-  "2022-10-19": 260090,
-  "2022-10-20": 260117,
-  "2022-10-21": 260155,
-  "2022-10-22": 260203,
-  "2022-10-23": 260227,
-  "2022-10-24": 260251,
-  "2022-10-25": 260278,
-  "2022-10-26": 260295,
-  "2022-10-27": 260334,
-  "2022-10-28": 260382,
-  "2022-10-29": 260417,
-  "2022-10-30": 260446,
-  "2022-10-31": 260488,
-  "2022-11-01": 260517,
-  "2022-11-02": 260535,
-  "2022-11-03": 260578,
-  "2022-11-04": 260612,
-  "2022-11-05": 260638,
-  "2022-11-06": 260657,
-  "2022-11-07": 260665,
-  "2022-11-08": 260694,
-  "2022-11-09": 260723,
-  "2022-11-10": 260752,
-  "2022-11-11": 260787,
-  "2022-11-12": 260828,
-  "2022-11-13": 260872,
-  "2022-11-14": 260903,
-  "2022-11-15": 260948,
-  "2022-11-16": 260986,
-  "2022-11-17": 261023,
-  "2022-11-18": 261025,
-  "2022-11-19": 260972,
-  "2022-11-20": 261057,
-  "2022-11-21": 261010,
-  "2022-11-22": 261162,
-  "2022-11-23": 261099,
-  "2022-11-24": 261285,
-  "2022-11-25": 261363,
-  "2022-11-26": 261410,
-  "2022-11-27": 261449,
-  "2022-11-28": 261497,
-  "2022-11-29": 261539,
-  "2022-11-30": 261569,
-  "2022-12-01": 261604,
-  "2022-12-02": 261652,
-  "2022-12-03": 261723,
-  "2022-12-04": 261771,
-  "2022-12-05": 261833,
-  "2022-12-06": 261881,
-  "2022-12-07": 261900,
-  "2022-12-08": 261925,
-  "2022-12-09": 261976,
-  "2022-12-10": 262002,
-  "2022-12-11": 262035,
-  "2022-12-12": 262073,
-  "2022-12-13": 262095,
-  "2022-12-14": 262113,
-  "2022-12-15": 262149,
-  "2022-12-16": 262191,
-  "2022-12-17": 262221,
-  "2022-12-18": 262254,
-  "2022-12-19": 262285,
-  "2022-12-20": 262344,
-  "2022-12-21": 262344,
-  "2022-12-22": 262355,
-  "2022-12-24": 262423,
-  "2022-12-25": 262456,
-  "2022-12-26": 262500,
-  "2022-12-27": 262514,
-  "2022-12-28": 262544,
-  "2022-12-29": 262567,
-  "2022-12-30": 262615,
-  "2022-12-31": 262678,
-  "2023-01-01": 262713,
-  "2023-01-02": 262751,
-  "2023-01-03": 262791,
-  "2023-01-04": 262818,
-  "2023-01-05": 262867,
-  "2023-01-06": 262936,
-  "2023-01-07": 263024,
-  "2023-01-08": 263029,
-  "2023-01-09": 263077,
-  "2023-01-10": 263166,
-  "2023-01-11": 263251,
-  "2023-01-12": 263334,
-  "2023-01-13": 263463,
-  "2023-01-14": 263738,
-  "2023-01-15": 263774,
-  "2023-01-16": 263898,
-  "2023-01-17": 263984,
-  "2023-01-18": 264085,
-  "2023-01-19": 264187,
-  "2023-01-20": 264266,
-  "2023-01-21": 264363,
-  "2023-01-22": 264465,
-  "2023-01-23": 264549,
-  "2023-01-24": 264650,
-  "2023-01-25": 264732,
-  "2023-01-26": 264815,
-  "2023-01-27": 264892,
-  "2023-01-28": 264962,
-  "2023-01-29": 265029,
-  "2023-01-30": 265071,
-  "2023-01-31": 265071,
-  "2023-02-01": 265170,
-  "2023-02-02": 265206,
-  "2023-02-03": 265274,
-  "2023-02-04": 265342,
-  "2023-02-05": 265401,
-  "2023-02-06": 265454,
-  "2023-02-07": 265509,
-  "2023-02-08": 265600,
-  "2023-02-09": 265600,
-  "2023-02-10": 265658,
-  "2023-02-11": 265715,
-  "2023-02-12": 265775,
-  "2023-02-13": 265834,
-  "2023-02-14": 265834,
-  "2023-02-15": 265874,
-  "2023-02-16": 265934,
-  "2023-02-17": 265972,
-  "2023-02-18": 266084,
-  "2023-02-19": 266095,
-  "2023-02-20": 266139,
-  "2023-02-21": 266189,
-  "2023-02-22": 266243,
-  "2023-02-23": 266303,
-  "2023-02-24": 266343,
-  "2023-02-25": 266396,
-  "2023-02-26": 266429,
-  "2023-02-27": 266528,
-  "2023-02-28": 266528,
-  "2023-03-01": 266585,
-  "2023-03-02": 266637,
-  "2023-03-03": 266694,
-  "2023-03-04": 266731,
-  "2023-03-05": 266847,
-  "2023-03-06": 266847,
-  "2023-03-07": 266910,
-  "2023-03-08": 266951,
-  "2023-03-09": 266990,
-  "2023-03-10": 267028,
-  "2023-03-11": 267058,
-  "2023-03-12": 267097,
-  "2023-03-13": 267144,
-  "2023-03-14": 267201,
-  "2023-03-15": 267229,
-  "2023-03-16": 267287,
-  "2023-03-17": 267287,
-  "2023-03-18": 267384,
-  "2023-03-19": 267435,
-  "2023-03-20": 267472,
-  "2023-03-21": 267505,
-  "2023-03-22": 267547,
-  "2023-03-23": 267606,
-  "2023-03-24": 267606,
-  "2023-03-25": 267704,
-  "2023-03-26": 267774,
-  "2023-03-27": 267831,
-  "2023-03-28": 267877,
-  "2023-03-29": 267917,
-  "2023-03-30": 268012,
-  "2023-03-31": 268012,
-  "2023-04-01": 268071,
-  "2023-04-02": 268134,
-  "2023-04-03": 268169,
-  "2023-04-04": 268197,
-  "2023-04-05": 268246,
-  "2023-04-06": 268289,
-  "2023-04-07": 268332,
-  "2023-04-09": 268374,
-  "2023-04-10": 268405,
-  "2023-04-11": 268505,
-  "2023-04-12": 268505,
-  "2023-04-13": 268529,
-  "2023-04-14": 268568,
-  "2023-04-15": 268655,
-  "2023-04-16": 268696,
-  "2023-04-17": 268733,
-  "2023-04-18": 268766,
-  "2023-04-19": 268795,
-  "2023-04-20": 268847,
-  "2023-04-21": 268939,
-  "2023-04-22": 269039,
-  "2023-04-23": 269119,
-  "2023-04-24": 269174,
-  "2023-04-25": 269245,
-  "2023-04-26": 269332,
-  "2023-04-27": 269410,
-  "2023-04-28": 269477,
-  "2023-04-29": 269527,
-  "2023-04-30": 269574,
-  "2023-05-01": 269639,
-  "2023-05-02": 269689,
-  "2023-05-03": 269743,
-  "2023-05-04": 269793,
-  "2023-05-05": 269831,
-  "2023-05-06": 269886,
-  "2023-05-07": 269927,
-  "2023-05-08": 269995,
-  "2023-05-09": 270078,
-  "2023-05-10": 270136,
-  "2023-05-11": 270169,
-  "2023-05-12": 270200,
-  "2023-05-13": 270257,
-  "2023-05-14": 270303,
-  "2023-05-15": 270340,
-  "2023-05-16": 270387,
-  "2023-05-17": 270446,
-  "2023-05-18": 270502,
-  "2023-05-19": 270543,
-  "2023-05-20": 270608,
-  "2023-05-21": 270608,
-  "2023-05-22": 270608,
-  "2023-05-23": 270693,
-  "2023-05-24": 270737,
-  "2023-05-25": 270753,
-  "2023-05-26": 270803,
-  "2023-05-27": 270854,
-  "2023-05-28": 270890,
-  "2023-05-29": 270890,
-  "2023-05-30": 270979,
-  "2023-05-31": 271016,
-  "2023-06-01": 271045,
-  "2023-06-02": 271067,
-  "2023-06-03": 271110,
-  "2023-06-04": 271152,
-  "2023-06-05": 271155,
-  "2023-06-06": 271181,
-  "2023-06-07": 271232,
-  "2023-06-08": 271263,
-  "2023-06-09": 271286,
-  "2023-06-10": 271316,
-  "2023-06-11": 271348,
-  "2023-06-12": 271399,
-  "2023-06-13": 271456,
-  "2023-06-14": 271509,
-  "2023-06-15": 271528,
-  "2023-06-16": 271561,
-  "2023-06-17": 271606,
-  "2023-06-18": 271636,
-  "2023-06-19": 271661,
-  "2023-06-20": 271691,
-  "2023-06-21": 271723,
-  "2023-06-22": 271751,
-  "2023-06-23": 271813,
-  "2023-06-24": 271848,
-  "2023-06-25": 271902,
-  "2023-06-26": 271943,
-  "2023-06-27": 271966,
-  "2023-06-28": 272002,
-  "2023-06-29": 272048,
-  "2023-06-30": 272073,
-  "2023-07-01": 272148,
-  "2023-07-02": 272148,
-  "2023-07-03": 272166,
-  "2023-07-04": 272198,
-  "2023-07-05": 272224,
-  "2023-07-06": 272277,
-  "2023-07-07": 272277,
-  "2023-07-08": 272304,
-  "2023-07-09": 272330,
-  "2023-07-10": 272356,
-  "2023-07-11": 272368,
-  "2023-07-12": 272409,
-  "2023-07-13": 272447,
-  "2023-07-14": 272492,
-  "2023-07-15": 272506,
-  "2023-07-16": 272553,
-  "2023-07-17": 272576,
-  "2023-07-18": 272583,
-  "2023-07-19": 272610,
-  "2023-07-20": 272637,
-  "2023-07-21": 272666,
-  "2023-07-22": 272670,
-  "2023-07-23": 272688,
-  "2023-07-24": 272714,
-  "2023-07-25": 272728,
-  "2023-07-26": 272767,
-  "2023-07-27": 272794,
-  "2023-07-28": 272840,
-  "2023-07-29": 272864,
-  "2023-07-30": 272877,
-  "2023-07-31": 272897,
-  "2023-08-01": 272902,
-  "2023-08-02": 272922,
-  "2023-08-03": 272955,
-  "2023-08-04": 272991,
-  "2023-08-05": 273019,
-  "2023-08-06": 273085,
-  "2023-08-07": 273085,
-  "2023-08-08": 273119,
-  "2023-08-09": 273131,
-  "2023-08-10": 273158,
-  "2023-08-11": 273176,
-  "2023-08-12": 273197,
-  "2023-08-13": 273198,
-  "2023-08-14": 273215,
-  "2023-08-15": 273272,
-  "2023-08-16": 273272,
-  "2023-08-17": 273301,
-  "2023-08-18": 273326,
-  "2023-08-19": 273348,
-  "2023-08-20": 273396,
-  "2023-08-21": 273399,
-  "2023-08-22": 273432,
-  "2023-08-23": 273464,
-  "2023-08-24": 273480,
-  "2023-08-25": 273508,
-  "2023-08-26": 273546,
-  "2023-08-27": 273561,
-  "2023-08-28": 273580,
-  "2023-08-29": 273615,
-  "2023-08-30": 273636,
-  "2023-08-31": 273653,
-  "2023-09-01": 273716,
-  "2023-09-02": 273716,
-  "2023-09-03": 273737,
-  "2023-09-04": 273766,
-  "2023-09-05": 273790,
-  "2023-09-06": 273825,
-  "2023-09-07": 273841,
-  "2023-09-08": 273874,
-  "2023-09-09": 273945,
-  "2023-09-10": 273977,
-  "2023-09-11": 274005,
-  "2023-09-12": 274037,
-  "2023-09-13": 274062,
-  "2023-09-14": 274092,
-  "2023-09-15": 274116,
-  "2023-09-16": 274145,
-  "2023-09-17": 274177,
-  "2023-09-18": 274200,
-  "2023-09-19": 274222,
-  "2023-09-20": 274239,
-  "2023-09-21": 274293,
-  "2023-09-22": 274301,
-  "2023-09-23": 274324,
-  "2023-09-24": 274354,
-  "2023-09-25": 274366,
-  "2023-09-26": 274424,
-  "2023-09-27": 274461,
-  "2023-09-28": 274491,
-  "2023-09-29": 274509,
-  "2023-09-30": 274550,
-  "2023-10-01": 274596,
-  "2023-10-02": 274621,
-  "2023-10-03": 274644,
-  "2023-10-04": 274681,
-  "2023-10-05": 274717,
-  "2023-10-06": 274757,
-  "2023-10-07": 274800,
-  "2023-10-08": 274817,
-  "2023-10-09": 274819,
-  "2023-10-10": 274494,
-  "2023-10-11": 274181,
-  "2023-10-12": 274181,
-  "2023-10-13": 273883,
-  "2023-10-14": 273665,
-  "2023-10-15": 273622,
-  "2023-10-16": 273634,
-  "2023-10-17": 273663,
-  "2023-10-18": 273683,
-  "2023-10-19": 273701,
-  "2023-10-20": 273728,
-  "2023-10-21": 273737,
-  "2023-10-22": 273766,
-  "2023-10-23": 273770,
-  "2023-10-24": 273794,
-  "2023-10-25": 273812,
-  "2023-10-26": 273843,
-  "2023-10-27": 273863,
-  "2023-10-28": 273867,
-  "2023-10-29": 273886,
-  "2023-10-30": 273952,
-  "2023-10-31": 273952,
-  "2023-11-01": 273981,
-  "2023-11-02": 274012,
-  "2023-11-03": 274025,
-  "2023-11-04": 274041,
-  "2023-11-05": 274043,
-  "2023-11-06": 274043,
-  "2023-11-07": 274051,
-  "2023-11-08": 274066,
-  "2023-11-09": 274075,
-  "2023-11-10": 274073,
-  "2023-11-11": 274082,
-  "2023-11-12": 274095,
-  "2023-11-13": 274111,
-  "2023-11-14": 274125,
-  "2023-11-15": 274125,
-  "2023-11-16": 274153,
-  "2023-11-17": 274191,
-  "2023-11-18": 274191,
-  "2023-11-19": 274205,
-  "2023-11-20": 274213,
-  "2023-11-21": 274233,
-  "2023-11-22": 274255,
-  "2023-11-23": 274278,
-  "2023-11-24": 274294,
-  "2023-11-25": 274303,
-  "2023-11-26": 274327,
-  "2023-11-27": 274335,
-  "2023-11-28": 274339,
-  "2023-11-29": 274368,
-  "2023-11-30": 274368,
-  "2023-12-01": 274385,
-  "2023-12-02": 274397,
-  "2023-12-03": 274413,
-  "2023-12-04": 274400,
-  "2023-12-05": 274423,
-  "2023-12-06": 274436,
-  "2023-12-07": 274444,
-  "2023-12-08": 274471,
-  "2023-12-09": 274493,
-  "2023-12-10": 274505,
-  "2023-12-11": 274521,
-  "2023-12-12": 274551,
-  "2023-12-13": 274574,
-  "2023-12-14": 274616,
-  "2023-12-15": 274627,
-  "2023-12-16": 274644,
-  "2023-12-17": 274671,
-  "2023-12-18": 274708,
-  "2023-12-19": 274725,
-  "2023-12-20": 274741,
-  "2023-12-21": 274766,
-  "2023-12-22": 274782,
-  "2023-12-23": 274798,
-  "2023-12-24": 274822,
-  "2023-12-25": 274825,
-  "2023-12-26": 274848,
-  "2023-12-27": 274850,
-  "2023-12-30": 274876,
-  "2023-12-31": 274904,
-  "2024-01-01": 274916,
-  "2024-01-02": 274919,
-  "2024-01-03": 274932
+  "2024-01-17": 273369,
+  "date_first_scraped": "2022-05-30",
+  "description": "Every Monbebe's HERO.",
+  "name": "This Is Monsta X",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153261,
+      "name": "About Last Night",
+      "url": "https://open.spotify.com/track/0yTk9fzasypv10HQ0UzBth"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 153261,
+      "name": "About Last Night",
+      "url": "https://open.spotify.com/track/5NFYLelEuY7cf4Wtoyk3Ml"
+    },
+    {
+      "album": {
+        "name": "One of a Kind",
+        "url": "https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186480,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/1BBNX3VBikQkDdNMJ201kk"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2.5 [BEAUTIFUL]",
+        "url": "https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218059,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/65qvZNR4wUWFJrNHHQBkTs"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.1 <LOST>",
+        "url": "https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190796,
+      "name": "All in",
+      "url": "https://open.spotify.com/track/72gnMfNZSb5oCrYlXWvtyc"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192515,
+      "name": "Alligator",
+      "url": "https://open.spotify.com/track/2pmbxzWBNM6j5p9CQH32f1"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176693,
+      "name": "AND",
+      "url": "https://open.spotify.com/track/39xj5RnMsDkujav0N57yaz"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 176693,
+      "name": "AND",
+      "url": "https://open.spotify.com/track/5baDbnn0EPGWcGsxFtLooL"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 197960,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/4azGSkYUdVFf4Z5lUrpIXX"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2 <GUILTY>",
+        "url": "https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182262,
+      "name": "Be Quiet",
+      "url": "https://open.spotify.com/track/3JQpHo7uX0O2IjC6BRpS2o"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "BEASTMODE",
+      "url": "https://open.spotify.com/track/1eE7QzYxnnh06pJaZ4QhwN"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2.5 [BEAUTIFUL]",
+        "url": "https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204009,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3utoyXrzB3d8ahf4tqazTs"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183120,
+      "name": "Beautiful Liar",
+      "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
+    },
+    {
+      "album": {
+        "name": "FANTASIA X",
+        "url": "https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6kDTdIoSgVqm4hWj0EIhHz"
+    },
+    {
+      "album": {
+        "name": "One of a Kind",
+        "url": "https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225573,
+      "name": "BEBE",
+      "url": "https://open.spotify.com/track/6VaRKTYjONpko7YC6mBpEC"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.1 <LOST>",
+        "url": "https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183869,
+      "name": "Because of U",
+      "url": "https://open.spotify.com/track/0KCKvKmHFoIbVqrETayBan"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188031,
+      "name": "BESIDE U (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/0sr5kxI49ITycq3NDelwjn"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212518,
+      "name": "BESIDE U (I.M RAP VER) (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/5SJQSRZ7HhG7J2Jf7ezGIE"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 139035,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5l7PVb1ZWJ9hRxVjNGafzB"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139035,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/66GMyEE0aW4xOxWTujGql1"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Blame Me",
+      "url": "https://open.spotify.com/track/6bBcSQU3T9GZ76TKIBgpdB"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 188181,
+      "name": "Blame Me",
+      "url": "https://open.spotify.com/track/7z1MZoiPunukB3kCkKRBKh"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2 <GUILTY>",
+        "url": "https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/26AqSoEgtHfqpWIwj7uuVk"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 130395,
+      "name": "Blow Your Mind",
+      "url": "https://open.spotify.com/track/0av3641PFyw7SS5rWbzYff"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130395,
+      "name": "Blow Your Mind",
+      "url": "https://open.spotify.com/track/6SO6S7rEE1fMYRFYSw9xuW"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 142173,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0ovdVUlmpwFABG7D7xsUb8"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142173,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QqozqxrWE5YIzbJUALuPw"
+    },
+    {
+      "album": {
+        "name": "Breathe For You",
+        "url": "https://open.spotify.com/album/2P8qHjgJpt3OQhr0hcHJcx"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213707,
+      "name": "Breathe For You",
+      "url": "https://open.spotify.com/track/03XXbMFb0v4Yb4u26oJELG"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200426,
+      "name": "Burning Up (feat. R3HAB)",
+      "url": "https://open.spotify.com/track/0Rb6T3b7j7cYDmGP9oZbcL"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 200426,
+      "name": "Burning Up (feat. R3HAB)",
+      "url": "https://open.spotify.com/track/5fw5CY7DwCTw4Jef87yUNv"
+    },
+    {
+      "album": {
+        "name": "SHINE FOREVER",
+        "url": "https://open.spotify.com/album/3rrZlvTQ6Bxvz7Kzxjkagj"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186925,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6rYoO4mP8czbTTyOz4BAzm"
+    },
+    {
+      "album": {
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/6APn2IbS6uJSVauXAQlQXk"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Carry on",
+      "url": "https://open.spotify.com/track/0QOLYRdOahFvQkWJkrm1eQ"
+    },
+    {
+      "album": {
+        "name": "FANTASIA X",
+        "url": "https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215746,
+      "name": "Chaotic",
+      "url": "https://open.spotify.com/track/4yGRanEl6SCBuUsmprGhZH"
+    },
+    {
+      "album": {
+        "name": "THE LOVE OF SUMMER : THE PERFORMANCE",
+        "url": "https://open.spotify.com/album/6FVAyZtifggLrVvbz5IH7b"
+      },
+      "artists": [
+        {
+          "name": "HONGBIN",
+          "url": "https://open.spotify.com/artist/42v37YfovlfevjT7WkYk9G"
+        },
+        {
+          "name": "HYUNGWON",
+          "url": "https://open.spotify.com/artist/2X7BGapA7C4ELFcpFWNNTx"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203088,
+      "name": "COOL LOVE (Prod. dress)",
+      "url": "https://open.spotify.com/track/3BgamBEaNxWkO7BFe1EzzL"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/17WqzLortqHvftKKGRAxXu"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146226,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/1UbjPSgETXPg3bdzYLCrhO"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "Deny",
+      "url": "https://open.spotify.com/track/7Kg8zkls7jEP5H89mCG1vz"
+    },
+    {
+      "album": {
+        "name": "THE CODE",
+        "url": "https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186295,
+      "name": "DRAMARAMA",
+      "url": "https://open.spotify.com/track/1BSncOsSJPQkpl29QM0ipj"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.1 <LOST>",
+        "url": "https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "Ex Girl (feat.Whee In Of MAMAMOO)",
+      "url": "https://open.spotify.com/track/1Nuhlx9wTWUECCGZ3XpiVs"
+    },
+    {
+      "album": {
+        "name": "FANTASIA X",
+        "url": "https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186106,
+      "name": "FANTASIA",
+      "url": "https://open.spotify.com/track/59lh6XYTsfhoXXTNU8TUrz"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2 <GUILTY>",
+        "url": "https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218836,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/2dBHdjWalG33aCj1WCDi9R"
+    },
+    {
+      "album": {
+        "name": "FOLLOW - FIND YOU",
+        "url": "https://open.spotify.com/album/3s5WpeDw4JOec54wEgmJBy"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218306,
+      "name": "Find you",
+      "url": "https://open.spotify.com/track/0vewmpnpkzr24oImA5vLaI"
+    },
+    {
+      "album": {
+        "name": "Flavors of love",
+        "url": "https://open.spotify.com/album/7rCi68Tnlj8DWwFycetmve"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197693,
+      "name": "Flavors of love",
+      "url": "https://open.spotify.com/track/4FIw3GVcUKtT8UKGJbOZiD"
+    },
+    {
+      "album": {
+        "name": "FANTASIA X",
+        "url": "https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "FLOW",
+      "url": "https://open.spotify.com/track/2t4z8kk5mjTBmZ4MsgXzH8"
+    },
+    {
+      "album": {
+        "name": "FOLLOW - FIND YOU",
+        "url": "https://open.spotify.com/album/3s5WpeDw4JOec54wEgmJBy"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/7ri0aUbwDcItOnQbywEGU5"
+    },
+    {
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a"
+    },
+    {
+      "album": {
+        "name": "THE CODE",
+        "url": "https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206122,
+      "name": "From Zero",
+      "url": "https://open.spotify.com/track/7EzmCxS5OMbH4XViWGvV8v"
+    },
+    {
+      "album": {
+        "name": "One of a Kind",
+        "url": "https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213026,
+      "name": "GAMBLER",
+      "url": "https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205429,
+      "name": "Give Me Dat",
+      "url": "https://open.spotify.com/track/42i396f8Oen7VVyA7ujBMi"
+    },
+    {
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/0ESTAnvX2zjMBxzesNAiR7"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222374,
+      "name": "Gone Bad",
+      "url": "https://open.spotify.com/track/5XaKlbCu1SK1M83wOccc3X"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Got me in chains",
+      "url": "https://open.spotify.com/track/3pqHfAhXksB03r8jrJuhrl"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 187693,
+      "name": "Got me in chains",
+      "url": "https://open.spotify.com/track/7v8dcItRk0W546Puw0woW9"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171273,
+      "name": "GOT MY NUMBER",
+      "url": "https://open.spotify.com/track/0sSNtd41cDj9BccLnEkeP9"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "Guess Who",
+      "url": "https://open.spotify.com/track/180VPsis7DEfxa6uoA3FhP"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178187,
+      "name": "HAPPY WITHOUT ME",
+      "url": "https://open.spotify.com/track/1VbvywcEbD1A88KfNTXPtr"
+    },
+    {
+      "album": {
+        "name": "One of a Kind",
+        "url": "https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3U6avVr8ubNg0B5VB6TPf1"
+    },
+    {
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/0ESTAnvX2zjMBxzesNAiR7"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231951,
+      "name": "HERO",
+      "url": "https://open.spotify.com/track/6gorwqDJ7bsdCHcVs5uS9u"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 203293,
+      "name": "I got love",
+      "url": "https://open.spotify.com/track/1qcWe8WuPOXdaXg34Lw5tw"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "I got love",
+      "url": "https://open.spotify.com/track/58d5LtaqcDdk88tkJ6i3ql"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2.5 [BEAUTIFUL]",
+        "url": "https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192175,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/3AhSHpQhUasqq1Ni8xRh3c"
+    },
+    {
+      "album": {
+        "name": "If with U",
+        "url": "https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 187160,
+      "name": "If with U",
+      "url": "https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2"
+    },
+    {
+      "album": {
+        "name": "If with U",
+        "url": "https://open.spotify.com/album/1DrOqfrJUpjQLc0G83Pa76"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "If with U",
+      "url": "https://open.spotify.com/track/16Dierwlers6wGaInlSZUB"
+    },
+    {
+      "album": {
+        "name": "SHINE FOREVER",
+        "url": "https://open.spotify.com/album/3rrZlvTQ6Bxvz7Kzxjkagj"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223827,
+      "name": "Incomparable",
+      "url": "https://open.spotify.com/track/1z7cjsOaKkcEnNMVkFS3fU"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72795,
+      "name": "INTRO: WE ARE HERE",
+      "url": "https://open.spotify.com/track/1cFrRHNHae4bw6ssxvGdNZ"
+    },
+    {
+      "album": {
+        "name": "FANTASIA X",
+        "url": "https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "IT AIN'T OVER",
+      "url": "https://open.spotify.com/track/6N45wltlGQDQbxabEYhxun"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "IT'S ALRIGHT",
+      "url": "https://open.spotify.com/track/4oy5p3PSyc3QGgBEUqdiXn"
+    },
+    {
+      "album": {
+        "name": "THE CONNECT : DEJAVU",
+        "url": "https://open.spotify.com/album/33jGMiM6HwvRfrW8bevNWo"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207029,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/3TM7sUA8tMzndo6G8E526g"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 192213,
+      "name": "Just love",
+      "url": "https://open.spotify.com/track/1JYumffldxoPtGhe7HN8Mx"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192213,
+      "name": "Just love",
+      "url": "https://open.spotify.com/track/4ms7Udwv7O0frJech2wH3o"
+    },
+    {
+      "album": {
+        "name": "KISS OR DEATH",
+        "url": "https://open.spotify.com/album/7jvDaGCtBMlNNccPPUurqh"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "KISS OR DEATH",
+      "url": "https://open.spotify.com/track/31NoynLg4SrXK8Lcb9mLmL"
+    },
+    {
+      "album": {
+        "name": "KISS OR DEATH",
+        "url": "https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 207306,
+      "name": "KISS OR DEATH",
+      "url": "https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "Last Carnival",
+      "url": "https://open.spotify.com/track/2ToiAuPuVZGOUC96jOvmmW"
+    },
+    {
+      "album": {
+        "name": "Late Night Feels",
+        "url": "https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173157,
+      "name": "Late Night Feels",
+      "url": "https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm"
+    },
+    {
+      "album": {
+        "name": "One of a Kind",
+        "url": "https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224346,
+      "name": "Livin' It Up - Korean Version",
+      "url": "https://open.spotify.com/track/7faNO2qAPfd8oFlMUQaxpn"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "LONE RANGER",
+      "url": "https://open.spotify.com/track/0R4axRx5Y4rwYY22UZhx2e"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/10Km8owVoN85qfQdp8qGy2"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 215613,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Love Killa",
+      "url": "https://open.spotify.com/track/4hxNs73449mNhfLIvAC9zz"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160224,
+      "name": "LOVE U",
+      "url": "https://open.spotify.com/track/1RWlEElordcRjV8qNjgKxw"
+    },
+    {
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7p7sMoHzbLumNCUaW2mRIu"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4ZtiN13yPgoDtQB8TkIrv1"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190586,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0dKwCfn6KgQhUkx2EDmtcX"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 190586,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3k9tiwbGNmznma8hCuLMhp"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166213,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/3wci4gJBHXHzpHyDHm0xj6"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204946,
+      "name": "MISBEHAVE",
+      "url": "https://open.spotify.com/track/7hemsIJRQ45qEFCrBUtabJ"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2.5 [BEAUTIFUL]",
+        "url": "https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198574,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/3TYvJKmqwPmFvVONerbnlg"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2.5 [BEAUTIFUL]",
+        "url": "https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197999,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/2sEKfvw0KsuclWNCwLx65d"
+    },
+    {
+      "album": {
+        "name": "WANTED",
+        "url": "https://open.spotify.com/album/3dfC0XVjUGulciucTt3pBT"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242333,
+      "name": "NEO UNIVERSE",
+      "url": "https://open.spotify.com/track/62XPYDpiO9bTf1NOllJpPx"
+    },
+    {
+      "album": {
+        "name": "NEWTON",
+        "url": "https://open.spotify.com/album/6i20w15dpAdJotp50iH6kS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239540,
+      "name": "NEWTON",
+      "url": "https://open.spotify.com/track/6ATioaqJ9qGKdK3FZnbrbN"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189306,
+      "name": "Night View",
+      "url": "https://open.spotify.com/track/0cCodghRuNyt6AOtz46y5L"
+    },
+    {
+      "album": {
+        "name": "TRESPASS",
+        "url": "https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "No Exit",
+      "url": "https://open.spotify.com/track/1FPVD4nged0Vts6C3qnnX7"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204941,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/6zSXg2Ejji6GcwvjGTgK60"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182213,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/68qPGupXKOqzykZVJrWEpe"
+    },
+    {
+      "album": {
+        "name": "THE CODE",
+        "url": "https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191431,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/5trVbkxq7o5UtqHWVTu5ro"
+    },
+    {
+      "album": {
+        "name": "SOULBYSEL Compilation 03",
+        "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153686,
+      "name": "nvrmnd",
+      "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2.5 [BEAUTIFUL]",
+        "url": "https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191050,
+      "name": "Oi",
+      "url": "https://open.spotify.com/track/0zwI1aFLA85Ux0wM9vZjjY"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146096,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1EFp3r8qhj1MKmRaWEZOx6"
+    },
+    {
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 146096,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190543,
+      "name": "Party Time",
+      "url": "https://open.spotify.com/track/2t9tdvke67nevmj0sGMqF0"
+    },
+    {
+      "album": {
+        "name": "RUSH DIGITAL REPACKAGE \u201cHERO\u201d",
+        "url": "https://open.spotify.com/album/0rsnG5TJ9jv9XuLgri1E77"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219665,
+      "name": "Perfect Girl",
+      "url": "https://open.spotify.com/track/21ywLifMY5LlvVn1lbnLhT"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186798,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/0gxkqxGiLg1ylKzgToCcHY"
+    },
+    {
+      "album": {
+        "name": "Neon Future IV",
+        "url": "https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-22",
+      "duration_ms": 169812,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/1gdLUGdyYpXcckmzP1rTUm"
+    },
+    {
+      "album": {
+        "name": "Play It Cool",
+        "url": "https://open.spotify.com/album/28WUoBcwY0V5acKZhnzakN"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169812,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/3WE4GE18Yq8s3Z7uV743I4"
+    },
+    {
+      "album": {
+        "name": "Neon Future IV",
+        "url": "https://open.spotify.com/album/7IzDIMRk24CJxqUADOSbZ4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169812,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/4g7pzUm1o1Td48BPc5iJqr"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2 <GUILTY>",
+        "url": "https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192659,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/6RikqnZEtACiF2w12v0u51"
+    },
+    {
+      "album": {
+        "name": "Flavors of love",
+        "url": "https://open.spotify.com/album/6Otl9FYuwf1KGPkxydpBo1"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209920,
+      "name": "RE:VERSEDAY",
+      "url": "https://open.spotify.com/track/0lcmuzw50wKOLbphR9Cwk3"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2.5 [BEAUTIFUL]",
+        "url": "https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197553,
+      "name": "Ready or Not",
+      "url": "https://open.spotify.com/track/7akSYiJG7WgwicKdXnrHDo"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "Ride with U",
+      "url": "https://open.spotify.com/track/2efh8WBVQzqKWHxodAknuc"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 204773,
+      "name": "Ride with U",
+      "url": "https://open.spotify.com/track/6KlRydEgSlWQ4MqmfVgeor"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223965,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/6u8iBHK8aKQNBWLpUk5WTL"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2 <GUILTY>",
+        "url": "https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196369,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/7MtWhRqyWn0rveoFCrn7xu"
+    },
+    {
+      "album": {
+        "name": "One of a Kind",
+        "url": "https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Rotate",
+      "url": "https://open.spotify.com/track/1QSjtZowSRAe2PTrhuqNBc"
+    },
+    {
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/0ESTAnvX2zjMBxzesNAiR7"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222526,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/3dKx1EvSEaceoN5Qnhe5iS"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 202840,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/4ezRIZ02AlrPl8LDGrA3KL"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 180358,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/25c0iiE0EMtiVMWWQ3JYFZ"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180358,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/3Dg57X2VDfE9Yg9FOe5bcc"
+    },
+    {
+      "album": {
+        "name": "One of a Kind",
+        "url": "https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201613,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/6E9VBOX4VOf0z6HSam491R"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199312,
+      "name": "SHE'S THE ONE",
+      "url": "https://open.spotify.com/track/1PE7hpCDgcg5GMY3SCwstp"
+    },
+    {
+      "album": {
+        "name": "SHINE FOREVER",
+        "url": "https://open.spotify.com/album/3rrZlvTQ6Bxvz7Kzxjkagj"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208035,
+      "name": "SHINE FOREVER",
+      "url": "https://open.spotify.com/track/63SRW26EEF9RF6GgeUgJqx"
+    },
+    {
+      "album": {
+        "name": "Take.1 Are You There?",
+        "url": "https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "Shoot Out",
+      "url": "https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "SOMEONE'S SOMEONE",
+      "url": "https://open.spotify.com/track/6qEqNxAkfSEzNa8KdO5ewa"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207639,
+      "name": "Sorry I'm Not Sorry",
+      "url": "https://open.spotify.com/track/0SEy222w1gkxs6eJioH794"
+    },
+    {
+      "album": {
+        "name": "PIECE",
+        "url": "https://open.spotify.com/album/25JXdPqltw5vOH8KPOzd2c"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236986,
+      "name": "SPOTLIGHT",
+      "url": "https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL"
+    },
+    {
+      "album": {
+        "name": "SPOTLIGHT",
+        "url": "https://open.spotify.com/album/3TesGv9z2jzsum7wAzF5fu"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239226,
+      "name": "SPOTLIGHT",
+      "url": "https://open.spotify.com/track/1VLJS6hjrzQHH8f1ciW2wF"
+    },
+    {
+      "album": {
+        "name": "SPOTLIGHT",
+        "url": "https://open.spotify.com/album/2EACxpJBI294N9hY6VQA6k"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239226,
+      "name": "SPOTLIGHT",
+      "url": "https://open.spotify.com/track/6fMODL9vNyFi54ONiQLoXw"
+    },
+    {
+      "album": {
+        "name": "FANTASIA X",
+        "url": "https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk"
+    },
+    {
+      "album": {
+        "name": "TRESPASS",
+        "url": "https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "Steal Your Heart",
+      "url": "https://open.spotify.com/track/1MJysUk6TYYFdGRdj61iug"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208534,
+      "name": "Stealer",
+      "url": "https://open.spotify.com/track/79NmwJEiY9maHX8djC3FN7"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.1 <LOST>",
+        "url": "https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225448,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0BPLuVAnbqric4LMcBjGCc"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.1 <LOST>",
+        "url": "https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195851,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/1PM3hV7cOPE3cbq34UXxbE"
+    },
+    {
+      "album": {
+        "name": "SWING",
+        "url": "https://open.spotify.com/album/4uNvdfYBW4VM4IZuVZKZuy"
+      },
+      "artists": [
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191029,
+      "name": "SWING",
+      "url": "https://open.spotify.com/track/5WfMg2QraqveYpt5pNJD6z"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237756,
+      "name": "The Dreaming",
+      "url": "https://open.spotify.com/track/0itLxqryWXsAsvMA8A7Ldh"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 237756,
+      "name": "The Dreaming",
+      "url": "https://open.spotify.com/track/2cua5TG4yhtmknb2L8RKDR"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/3biqfRb3wRbU9Kqk1UxUFh"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 129145,
+      "name": "Tied to Your Body",
+      "url": "https://open.spotify.com/track/0myekv84cuSeVRSboWQqpo"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129145,
+      "name": "Tied to Your Body",
+      "url": "https://open.spotify.com/track/5kMjYIqev1f4VOlMUs9p7x"
+    },
+    {
+      "album": {
+        "name": "TRESPASS",
+        "url": "https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Trespass",
+      "url": "https://open.spotify.com/track/0kRrmWLPSnOGQjoMEdW5RN"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.1 <LOST>",
+        "url": "https://open.spotify.com/album/54JAEnkFl5ocPIx7aEInXK"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198022,
+      "name": "Unfair Love",
+      "url": "https://open.spotify.com/track/4oNK3kcmrao31ScHYJRZui"
+    },
+    {
+      "album": {
+        "name": "WANTED",
+        "url": "https://open.spotify.com/album/3dfC0XVjUGulciucTt3pBT"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "WANTED",
+      "url": "https://open.spotify.com/track/6N05xLfdMZvRN4B1ksLi4B"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 220545,
+      "name": "Whispers in the Dark",
+      "url": "https://open.spotify.com/track/1qOla2w5bk6jb5C4RCDZyE"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220545,
+      "name": "Whispers in the Dark",
+      "url": "https://open.spotify.com/track/53sXJ3GstoyTGSlJkAZ9re"
+    },
+    {
+      "album": {
+        "name": "THE CLAN pt.2 <GUILTY>",
+        "url": "https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230711,
+      "name": "White Love",
+      "url": "https://open.spotify.com/track/0OQasRxkPfUzBhkyu7q1xz"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189035,
+      "name": "WHO DO U LOVE? (feat. French Montana)",
+      "url": "https://open.spotify.com/track/0i2MQDEYFoU22ykVzfipkK"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208682,
+      "name": "WHO DO U LOVE? (feat. French Montana) - will.i.am Remix",
+      "url": "https://open.spotify.com/track/3B1YSEn8btOynx5yICvLkE"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 218880,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/31swab24TD27FuYp62SWg6"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/7FivN8zfUEyi1oSDzK3LQq"
+    },
+    {
+      "album": {
+        "name": "Wish on the same sky",
+        "url": "https://open.spotify.com/album/1aQ5RCzh7TMiLqyKPNZkOc"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Wish on the same sky",
+      "url": "https://open.spotify.com/track/1bGyEXjNXcsFMXjYw8oi3z"
+    },
+    {
+      "album": {
+        "name": "ALL ABOUT LUV (Extended Version)",
+        "url": "https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181111,
+      "name": "YOU CAN'T HOLD MY HEART",
+      "url": "https://open.spotify.com/track/40kHRSAnO03Nm31Mbn8kCN"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 199209,
+      "name": "You Problem",
+      "url": "https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/6Ope4loKrpjkM1pmPj63Gs"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199209,
+      "name": "You Problem",
+      "url": "https://open.spotify.com/track/5W0NyS4MgvxWIEsrvbnBdp"
+    },
+    {
+      "album": {
+        "name": "FANTASIA X",
+        "url": "https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "ZONE",
+      "url": "https://open.spotify.com/track/0yRFfmmFKSXdM1e9tj55tw"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238613,
+      "name": "\u1100\u1161\u11af\u110c\u1173\u11bc",
+      "url": "https://open.spotify.com/track/0qgeQ8XdmXbqTGiyre27zb"
+    },
+    {
+      "album": {
+        "name": "Fatal Love",
+        "url": "https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "\u1103\u1162\u1103\u1169\u11bc\u1103\u1161\u11ab\u1100\u1167\u11af",
+      "url": "https://open.spotify.com/track/5D6RMJ23dre5lxGuZF7Q2d"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201654,
+      "name": "\ub09c\uae30\ub958",
+      "url": "https://open.spotify.com/track/06vXZ4guKCWbhPtenXWESL"
+    },
+    {
+      "album": {
+        "name": "\uc1fc\ud551\uc655 \ub8e8\uc774 Shopping King Louie (Music from the Korean Tv Drama)",
+        "url": "https://open.spotify.com/album/5akkvAV2X14XXJdWawFUxm"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "\ubd80\ub098\ube44 (The Tiger Moth)",
+      "url": "https://open.spotify.com/track/1h68rW9DjBqyphvchkFHNE"
+    },
+    {
+      "album": {
+        "name": "\uc1fc\ud551\uc655 \ub8e8\uc774 Shopping King Louie (Music from the Korean Tv Drama)",
+        "url": "https://open.spotify.com/album/7EMKu5tGIDNQHUY31EBzwf"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204373,
+      "name": "\ubd80\ub098\ube44 The Tiger Moth",
+      "url": "https://open.spotify.com/track/4UM6PVSTq5LssDNyUPDfrY"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/7KncCixIi7xhPSYBHGMm3q"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206920,
+      "name": "\uc0ac\ub791\ud55c\ub2e4",
+      "url": "https://open.spotify.com/track/1TK0O4J4jE4hGfDtFXDTs2"
+    },
+    {
+      "album": {
+        "name": "SHAPE OF LOVE",
+        "url": "https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 206920,
+      "name": "\uc0ac\ub791\ud55c\ub2e4",
+      "url": "https://open.spotify.com/track/5YeSFZaZCgvK1LcjZp3MnC"
+    },
+    {
+      "album": {
+        "name": "Take.2 We Are Here.",
+        "url": "https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208659,
+      "name": "\uc545\ubabd",
+      "url": "https://open.spotify.com/track/4sp4wcAMElt3t7rQ1M9am6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX44JzWntsLKr"
 }

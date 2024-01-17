@@ -1,354 +1,1363 @@
 {
-  "2023-01-14": 107905,
-  "2023-01-15": 107924,
-  "2023-01-16": 107977,
-  "2023-01-17": 108039,
-  "2023-01-18": 108088,
-  "2023-01-19": 108149,
-  "2023-01-20": 108211,
-  "2023-01-21": 108289,
-  "2023-01-22": 108353,
-  "2023-01-23": 108407,
-  "2023-01-24": 108446,
-  "2023-01-25": 108517,
-  "2023-01-26": 108594,
-  "2023-01-27": 108661,
-  "2023-01-28": 108745,
-  "2023-01-29": 108798,
-  "2023-01-30": 108858,
-  "2023-01-31": 108858,
-  "2023-02-01": 108963,
-  "2023-02-02": 109025,
-  "2023-02-03": 109072,
-  "2023-02-04": 109126,
-  "2023-02-05": 109175,
-  "2023-02-06": 109228,
-  "2023-02-07": 109284,
-  "2023-02-08": 109412,
-  "2023-02-09": 109412,
-  "2023-02-10": 109483,
-  "2023-02-11": 109539,
-  "2023-02-12": 109626,
-  "2023-02-13": 109683,
-  "2023-02-14": 109683,
-  "2023-02-15": 109741,
-  "2023-02-16": 109808,
-  "2023-02-17": 109863,
-  "2023-02-18": 109976,
-  "2023-02-19": 109997,
-  "2023-02-20": 110037,
-  "2023-02-21": 110102,
-  "2023-02-22": 110146,
-  "2023-02-23": 110211,
-  "2023-02-24": 110278,
-  "2023-02-25": 110371,
-  "2023-02-26": 110397,
-  "2023-02-27": 110523,
-  "2023-02-28": 110523,
-  "2023-03-01": 110554,
-  "2023-03-02": 110622,
-  "2023-03-03": 110661,
-  "2023-03-04": 110710,
-  "2023-03-05": 110850,
-  "2023-03-06": 110850,
-  "2023-03-07": 110900,
-  "2023-03-08": 110953,
-  "2023-03-09": 111006,
-  "2023-03-10": 111052,
-  "2023-03-11": 111096,
-  "2023-03-12": 111162,
-  "2023-03-13": 111209,
-  "2023-03-14": 111257,
-  "2023-03-15": 111313,
-  "2023-03-16": 111313,
-  "2023-03-17": 111313,
-  "2023-03-18": 111508,
-  "2023-03-19": 111508,
-  "2023-03-20": 111618,
-  "2023-03-21": 111694,
-  "2023-03-22": 111739,
-  "2023-03-23": 111794,
-  "2023-03-24": 111794,
-  "2023-03-25": 111910,
-  "2023-03-26": 111965,
-  "2023-03-27": 112021,
-  "2023-03-28": 112090,
-  "2023-03-29": 112153,
-  "2023-03-30": 112225,
-  "2023-03-31": 112225,
-  "2023-04-01": 112292,
-  "2023-04-02": 112342,
-  "2023-04-03": 112418,
-  "2023-04-04": 112463,
-  "2023-04-05": 112528,
-  "2023-04-06": 112593,
-  "2023-04-07": 112656,
-  "2023-04-09": 112751,
-  "2023-04-10": 112778,
-  "2023-04-11": 112882,
-  "2023-04-12": 112882,
-  "2023-04-13": 112940,
-  "2023-04-14": 113010,
-  "2023-04-15": 113074,
-  "2023-04-16": 113123,
-  "2023-04-17": 113175,
-  "2023-04-18": 113211,
-  "2023-04-19": 113260,
-  "2023-04-20": 113312,
-  "2023-04-21": 113359,
-  "2023-04-22": 113422,
-  "2023-04-23": 113486,
-  "2023-04-24": 113538,
-  "2023-04-25": 113600,
-  "2023-04-26": 113644,
-  "2023-04-27": 113725,
-  "2023-04-28": 113801,
-  "2023-04-29": 113874,
-  "2023-04-30": 113933,
-  "2023-05-01": 113997,
-  "2023-05-02": 114091,
-  "2023-05-03": 114155,
-  "2023-05-04": 114215,
-  "2023-05-05": 114273,
-  "2023-05-06": 114309,
-  "2023-05-07": 114364,
-  "2023-05-08": 114418,
-  "2023-05-09": 114474,
-  "2023-05-10": 114528,
-  "2023-05-11": 114579,
-  "2023-05-12": 114634,
-  "2023-05-13": 114691,
-  "2023-05-14": 114747,
-  "2023-05-15": 114805,
-  "2023-05-16": 114859,
-  "2023-05-17": 114920,
-  "2023-05-18": 114985,
-  "2023-05-19": 115035,
-  "2023-05-20": 115142,
-  "2023-05-21": 115142,
-  "2023-05-22": 115142,
-  "2023-05-23": 115250,
-  "2023-05-24": 115351,
-  "2023-05-25": 115369,
-  "2023-05-26": 115425,
-  "2023-05-27": 115491,
-  "2023-05-28": 115541,
-  "2023-05-29": 115541,
-  "2023-05-30": 115645,
-  "2023-05-31": 115703,
-  "2023-06-01": 115749,
-  "2023-06-02": 115820,
-  "2023-06-03": 115882,
-  "2023-06-04": 115946,
-  "2023-06-05": 116004,
-  "2023-06-06": 116074,
-  "2023-06-07": 116129,
-  "2023-06-08": 116180,
-  "2023-06-09": 116260,
-  "2023-06-10": 116338,
-  "2023-06-11": 116412,
-  "2023-06-12": 116469,
-  "2023-06-13": 116541,
-  "2023-06-14": 116588,
-  "2023-06-15": 116646,
-  "2023-06-16": 116712,
-  "2023-06-17": 116764,
-  "2023-06-18": 116846,
-  "2023-06-19": 116910,
-  "2023-06-20": 116954,
-  "2023-06-21": 117021,
-  "2023-06-22": 117086,
-  "2023-06-23": 117142,
-  "2023-06-24": 117205,
-  "2023-06-25": 117257,
-  "2023-06-26": 117326,
-  "2023-06-27": 117369,
-  "2023-06-28": 117415,
-  "2023-06-29": 117459,
-  "2023-06-30": 117502,
-  "2023-07-01": 117637,
-  "2023-07-02": 117637,
-  "2023-07-03": 117664,
-  "2023-07-04": 117713,
-  "2023-07-05": 117770,
-  "2023-07-06": 117895,
-  "2023-07-07": 117895,
-  "2023-07-08": 117895,
-  "2023-07-09": 118019,
-  "2023-07-10": 118057,
-  "2023-07-11": 118087,
-  "2023-07-12": 118152,
-  "2023-07-13": 118209,
-  "2023-07-14": 118266,
-  "2023-07-15": 118294,
-  "2023-07-16": 118368,
-  "2023-07-17": 118414,
-  "2023-07-18": 118464,
-  "2023-07-19": 118528,
-  "2023-07-20": 118586,
-  "2023-07-21": 118643,
-  "2023-07-22": 118693,
-  "2023-07-23": 118730,
-  "2023-07-24": 118775,
-  "2023-07-25": 118821,
-  "2023-07-26": 118873,
-  "2023-07-27": 118930,
-  "2023-07-28": 119000,
-  "2023-07-29": 119053,
-  "2023-07-30": 119107,
-  "2023-07-31": 119153,
-  "2023-08-01": 119189,
-  "2023-08-02": 119229,
-  "2023-08-03": 119294,
-  "2023-08-04": 119367,
-  "2023-08-05": 119430,
-  "2023-08-06": 119569,
-  "2023-08-07": 119569,
-  "2023-08-08": 119624,
-  "2023-08-09": 119670,
-  "2023-08-10": 119722,
-  "2023-08-11": 119776,
-  "2023-08-12": 119776,
-  "2023-08-13": 119776,
-  "2023-08-14": 119978,
-  "2023-08-15": 119978,
-  "2023-08-16": 119978,
-  "2023-08-17": 119978,
-  "2023-08-18": 119978,
-  "2023-08-19": 119978,
-  "2023-08-20": 120360,
-  "2023-08-21": 120360,
-  "2023-08-22": 120495,
-  "2023-08-23": 120495,
-  "2023-08-24": 120495,
-  "2023-08-25": 120495,
-  "2023-08-26": 120754,
-  "2023-08-27": 120754,
-  "2023-08-28": 120891,
-  "2023-08-29": 120891,
-  "2023-08-30": 120891,
-  "2023-08-31": 121080,
-  "2023-09-01": 121151,
-  "2023-09-02": 121151,
-  "2023-09-03": 121291,
-  "2023-09-04": 121291,
-  "2023-09-05": 121291,
-  "2023-09-06": 121488,
-  "2023-09-07": 121488,
-  "2023-09-08": 121488,
-  "2023-09-09": 121488,
-  "2023-09-10": 121748,
-  "2023-09-11": 121748,
-  "2023-09-12": 121748,
-  "2023-09-13": 121913,
-  "2023-09-14": 121913,
-  "2023-09-15": 121913,
-  "2023-09-16": 122096,
-  "2023-09-17": 122096,
-  "2023-09-18": 122096,
-  "2023-09-19": 122226,
-  "2023-09-20": 122226,
-  "2023-09-21": 122226,
-  "2023-09-22": 122362,
-  "2023-09-23": 122362,
-  "2023-09-24": 122362,
-  "2023-09-25": 122362,
-  "2023-09-26": 122587,
-  "2023-09-27": 122587,
-  "2023-09-28": 122587,
-  "2023-09-29": 122587,
-  "2023-09-30": 122587,
-  "2023-10-01": 122587,
-  "2023-10-02": 122587,
-  "2023-10-03": 122587,
-  "2023-10-04": 122587,
-  "2023-10-05": 122587,
-  "2023-10-06": 122587,
-  "2023-10-07": 122587,
-  "2023-10-08": 122587,
-  "2023-10-09": 122587,
-  "2023-10-10": 122587,
-  "2023-10-11": 123902,
-  "2023-10-12": 123902,
-  "2023-10-13": 123902,
-  "2023-10-14": 123902,
-  "2023-10-15": 123902,
-  "2023-10-16": 123902,
-  "2023-10-17": 123902,
-  "2023-10-18": 123902,
-  "2023-10-19": 123902,
-  "2023-10-20": 123902,
-  "2023-10-21": 123902,
-  "2023-10-22": 123902,
-  "2023-10-23": 123902,
-  "2023-10-24": 123902,
-  "2023-10-25": 123902,
-  "2023-10-26": 123902,
-  "2023-10-27": 123902,
-  "2023-10-28": 123902,
-  "2023-10-29": 123902,
-  "2023-10-30": 123902,
-  "2023-10-31": 123902,
-  "2023-11-01": 123902,
-  "2023-11-02": 123902,
-  "2023-11-03": 123902,
-  "2023-11-04": 123902,
-  "2023-11-05": 123902,
-  "2023-11-06": 123902,
-  "2023-11-07": 123902,
-  "2023-11-08": 123902,
-  "2023-11-09": 123902,
-  "2023-11-10": 123902,
-  "2023-11-11": 125687,
-  "2023-11-12": 125687,
-  "2023-11-13": 125687,
-  "2023-11-14": 125687,
-  "2023-11-15": 125687,
-  "2023-11-16": 125687,
-  "2023-11-17": 125687,
-  "2023-11-18": 125687,
-  "2023-11-19": 125687,
-  "2023-11-20": 125687,
-  "2023-11-21": 125687,
-  "2023-11-22": 125687,
-  "2023-11-23": 125687,
-  "2023-11-24": 125687,
-  "2023-11-25": 125687,
-  "2023-11-26": 125687,
-  "2023-11-27": 125687,
-  "2023-11-28": 125687,
-  "2023-11-29": 125687,
-  "2023-11-30": 125687,
-  "2023-12-01": 125687,
-  "2023-12-02": 125687,
-  "2023-12-03": 125687,
-  "2023-12-04": 125687,
-  "2023-12-05": 125687,
-  "2023-12-06": 125687,
-  "2023-12-07": 125687,
-  "2023-12-08": 125687,
-  "2023-12-09": 125687,
-  "2023-12-10": 125687,
-  "2023-12-11": 125687,
-  "2023-12-12": 125687,
-  "2023-12-13": 125687,
-  "2023-12-14": 127684,
-  "2023-12-15": 127716,
-  "2023-12-16": 127774,
-  "2023-12-17": 127819,
-  "2023-12-18": 127851,
-  "2023-12-19": 127903,
-  "2023-12-20": 127952,
-  "2023-12-21": 127983,
-  "2023-12-22": 128009,
-  "2023-12-23": 128056,
-  "2023-12-24": 128111,
-  "2023-12-25": 128145,
-  "2023-12-26": 128181,
-  "2023-12-27": 128206,
-  "2023-12-30": 128326,
-  "2023-12-31": 128385,
-  "2024-01-01": 128425,
-  "2024-01-02": 128457,
-  "2024-01-03": 128493
+  "2024-01-17": 128603,
+  "date_first_scraped": "2023-01-14",
+  "description": "This is El Tri. The essential tracks, all in one playlist.",
+  "name": "This Is El Tri",
+  "tracks": [
+    {
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294586,
+      "name": "A.D.O.",
+      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
+    },
+    {
+      "album": {
+        "name": "A talonear!!",
+        "url": "https://open.spotify.com/album/0HRGrsD1AKAqShL4GtOnfp"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 243280,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/1Ul3KRSxw5t5pffvUqnL5u"
+    },
+    {
+      "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 246960,
+      "name": "Caseta de cobro",
+      "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
+    },
+    {
+      "album": {
+        "name": "Chavo De Onda",
+        "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
+      },
+      "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209578,
+      "name": "Chavo De Onda",
+      "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363146,
+      "name": "Chavo de onda - Live",
+      "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "Chilango incomprendido",
+      "url": "https://open.spotify.com/track/7AkqlTL6TgMZdYX0w5xuaC"
+    },
+    {
+      "album": {
+        "name": "40 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "Chilangolandia",
+      "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
+    },
+    {
+      "album": {
+        "name": "Cuando t\u00fa no est\u00e1s",
+        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266160,
+      "name": "Cuando t\u00fa no est\u00e1s",
+      "url": "https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n"
+    },
+    {
+      "album": {
+        "name": "Dama De Los Callejones",
+        "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Dama De Los Callejones",
+      "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 166920,
+      "name": "Dif\u00edcil",
+      "url": "https://open.spotify.com/track/31Hutqdoy7EZrLiF855CCO"
+    },
+    {
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166920,
+      "name": "Dif\u00edcil",
+      "url": "https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs"
+    },
+    {
+      "album": {
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "El hablador",
+      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
+    },
+    {
+      "album": {
+        "name": "Cuando t\u00fa no est\u00e1s",
+        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310013,
+      "name": "El muchacho chicho",
+      "url": "https://open.spotify.com/track/2qGjcYq5GlLPdRlQC88q04"
+    },
+    {
+      "album": {
+        "name": "El ni\u00f1o sin amor (Editado 7 Tracks)",
+        "url": "https://open.spotify.com/album/33UOKo7tuxsWlDUtTXswic"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187893,
+      "name": "El ni\u00f1o sin amor",
+      "url": "https://open.spotify.com/track/1Yu18BneXx007JcwcOh5Wa"
+    },
+    {
+      "album": {
+        "name": "En vivo y a todo calor (En el Hollywood Palladium)",
+        "url": "https://open.spotify.com/album/30XSCjeJiHkWqEUrWvx6o3"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 442800,
+      "name": "Encuentros cercanos del 3er. sexo - En vivo",
+      "url": "https://open.spotify.com/track/1hAExu07HNO7SkljuiUUfm"
+    },
+    {
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/5p5V4KWu8WYfOiFrOM0Xk1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Nacho Cano",
+          "url": "https://open.spotify.com/artist/3sNPNZwXgDcCY71Jqa7kMe"
+        },
+        {
+          "name": "Reparto Original Malinche El Musical",
+          "url": "https://open.spotify.com/artist/414Ri5Zew60OnucnMZ0ZNg"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 147272,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/4CylBNj92fpsrBDF897Amk"
+    },
+    {
+      "album": {
+        "name": "Hard to Handle",
+        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190632,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 129266,
+      "name": "Hasta que el cuerpo aguante",
+      "url": "https://open.spotify.com/track/5pSwGig86mqtRobelUwPGO"
+    },
+    {
+      "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "Hoyos en la bolsa",
+      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
+    },
+    {
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250893,
+      "name": "La raza m\u00e1s chida",
+      "url": "https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll"
+    },
+    {
+      "album": {
+        "name": "La Vecina (Trapeada Mix)",
+        "url": "https://open.spotify.com/album/21Cm0UU0Dl5Qmr081bGnie"
+      },
+      "artists": [
+        {
+          "name": "Riesgo de Contagio",
+          "url": "https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "Luisito Rey",
+          "url": "https://open.spotify.com/artist/4xIGd0rRvlvEw9XMwVEA8Q"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Jeronimo Gorraez",
+          "url": "https://open.spotify.com/artist/4EoBAFFhWcdz9m4RQ9gRzR"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 213000,
+      "name": "La Vecina (Trapeada Mix)",
+      "url": "https://open.spotify.com/track/2Qa3Sd1Hi2eJa2mGdr0cqe"
+    },
+    {
+      "album": {
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "Las piedras rodantes",
+      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
+    },
+    {
+      "album": {
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Los minusv\u00e1lidos",
+      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
+    },
+    {
+      "album": {
+        "name": "Clasicas para Rockear",
+        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311773,
+      "name": "Mar\u00eda Sabina",
+      "url": "https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258120,
+      "name": "Mente rockera",
+      "url": "https://open.spotify.com/track/09DBgWM8izjfcoPpjCQZmc"
+    },
+    {
+      "album": {
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347493,
+      "name": "Mente roquera",
+      "url": "https://open.spotify.com/track/6siM0kfxKHLW5zhM5g80x9"
+    },
+    {
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342706,
+      "name": "Metro balderas",
+      "url": "https://open.spotify.com/track/6ShfvZJYI3GSdaNaQ1bMVR"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263200,
+      "name": "Mi chava no me comprende",
+      "url": "https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg"
+    },
+    {
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 556360,
+      "name": "Millones de ni\u00f1os",
+      "url": "https://open.spotify.com/track/75JIJSHFyBHV1MuRKSoxEx"
+    },
+    {
+      "album": {
+        "name": "Nezayork",
+        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154005,
+      "name": "Nezayork",
+      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336080,
+      "name": "Ni\u00f1o sin amor - Live",
+      "url": "https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc"
+    },
+    {
+      "album": {
+        "name": "No Soy Tu Perro",
+        "url": "https://open.spotify.com/album/5N04Cpk0KQpwZioDIcvtEw"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 267419,
+      "name": "No Soy Tu Perro",
+      "url": "https://open.spotify.com/track/3XVHMzqnE8vhVVGDKPFxR8"
+    },
+    {
+      "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Nocivo para la salud",
+      "url": "https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr"
+    },
+    {
+      "album": {
+        "name": "Fin de siglo",
+        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266120,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/560VWBRAFAYoY7uieHdKVt"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314240,
+      "name": "Nunca digas que no",
+      "url": "https://open.spotify.com/track/1PfgTzxz8fqqOjIIO81ZXy"
+    },
+    {
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342893,
+      "name": "Oye cantinero",
+      "url": "https://open.spotify.com/track/6G1omxCOzzW0KSTpfnovu7"
+    },
+    {
+      "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281600,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
+    },
+    {
+      "album": {
+        "name": "Cuando t\u00fa no est\u00e1s",
+        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274653,
+      "name": "Parece f\u00e1cil",
+      "url": "https://open.spotify.com/track/75dHHUzOPXZcFjFYEPa7cj"
+    },
+    {
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0UPYJkfkr2rKGWy2XArkb0"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197814,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/0UltH1Tab95oO7XZtOvK1w"
+    },
+    {
+      "album": {
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237973,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/6Vuzr2eTcUzHzsynYacaCE"
+    },
+    {
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 283906,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Perro negro - Live",
+      "url": "https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ"
+    },
+    {
+      "album": {
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230693,
+      "name": "Pobre so\u00f1ador",
+      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
+    },
+    {
+      "album": {
+        "name": "Medio Siglo Rocanroleando",
+        "url": "https://open.spotify.com/album/5fW4k9txGizJQusLl3VSvv"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 183797,
+      "name": "Que Hueva",
+      "url": "https://open.spotify.com/track/2RTWNCT0xSoHjOLBY6UT0c"
+    },
+    {
+      "album": {
+        "name": "Medio Siglo Rocanroleando",
+        "url": "https://open.spotify.com/album/4Oo1kMWKvF45R3JwB3RqeI"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "Que Hueva",
+      "url": "https://open.spotify.com/track/3v9EK2VcxwXfjW9knCEmOW"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "Que viva el rocanrol - En vivo",
+      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
+    },
+    {
+      "album": {
+        "name": "Sam El Bigot\u00f3n",
+        "url": "https://open.spotify.com/album/034wKcuMzgFDMuu1pCjOeC"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Rockabilly",
+          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175065,
+      "name": "Sam El Bigot\u00f3n",
+      "url": "https://open.spotify.com/track/1cPaytgR4EP7GrUQ8RIEn6"
+    },
+    {
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK"
+    },
+    {
+      "album": {
+        "name": "40 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 232600,
+      "name": "Santa Martha",
+      "url": "https://open.spotify.com/track/38w1ZH0Zoj5Ap1TDluxhLG"
+    },
+    {
+      "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+    },
+    {
+      "album": {
+        "name": "No te olvides de la banda",
+        "url": "https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306773,
+      "name": "Solamente Dios",
+      "url": "https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg"
+    },
+    {
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 273400,
+      "name": "S\u00f3pleme usted primero",
+      "url": "https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp"
+    },
+    {
+      "album": {
+        "name": "40 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Todo me sale mal",
+      "url": "https://open.spotify.com/track/3xq1MPeN7lZkzZhSPxXGwy"
+    },
+    {
+      "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284640,
+      "name": "Todo sea por el rocanrol",
+      "url": "https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI"
+    },
+    {
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342520,
+      "name": "Triste canci\u00f3n",
+      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
+    },
+    {
+      "album": {
+        "name": "Triste Canci\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/5NNUdAIDVTLjmQekSc8eO3"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Gerardo Guardia",
+          "url": "https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 206426,
+      "name": "Triste Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/2LaWii0vzeYdke3KLymykJ"
+    },
+    {
+      "album": {
+        "name": "Rayito Colombiano y los Grandes Compositores",
+        "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Gerardo Guardia",
+          "url": "https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206426,
+      "name": "Triste Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
+    },
+    {
+      "album": {
+        "name": "Miguel R\u00edos y las estrellas del Rock latino",
+        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Triste canci\u00f3n de amor (con El Tri)",
+      "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
+    },
+    {
+      "album": {
+        "name": "Triste Canci\u00f3n de Amor (Remix)",
+        "url": "https://open.spotify.com/album/4tfabT7g2WL02c2blHZZLJ"
+      },
+      "artists": [
+        {
+          "name": "Broz Rodriguez",
+          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 222556,
+      "name": "Triste Canci\u00f3n de Amor - Remix",
+      "url": "https://open.spotify.com/track/36hBGko1ADEYXuG8hDQt1J"
+    },
+    {
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309893,
+      "name": "Un d\u00eda en la vida",
+      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+    },
+    {
+      "album": {
+        "name": "Hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158533,
+      "name": "Una y otra vez",
+      "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
+    },
+    {
+      "album": {
+        "name": "Unos Quieren Subir",
+        "url": "https://open.spotify.com/album/2HnLY7Rd7Zd15xQPMwBf5H"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 189646,
+      "name": "Unos Quieren Subir",
+      "url": "https://open.spotify.com/track/0J6vQFjGJH7EANyRL5xjNH"
+    },
+    {
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145093,
+      "name": "Vicioso",
+      "url": "https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo"
+    },
+    {
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-09",
+      "duration_ms": 223826,
+      "name": "Violencia, drogas y sexo",
+      "url": "https://open.spotify.com/track/645QyPDX8aZDuzheODCpBL"
+    },
+    {
+      "album": {
+        "name": "Clasicas para Rockear",
+        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272306,
+      "name": "Virgen morena",
+      "url": "https://open.spotify.com/track/7nt6ghHg0orx4dieH5bFHp"
+    },
+    {
+      "album": {
+        "name": "We Never Give Up (Todo Venceremos)",
+        "url": "https://open.spotify.com/album/7wWbD4WnxyLy7bix3d07r3"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        },
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        },
+        {
+          "name": "Vaezques Sounds",
+          "url": "https://open.spotify.com/artist/22umhHGysrBolX8U1xQbPw"
+        },
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        },
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        },
+        {
+          "name": "Juan Carlos Baglietto",
+          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+        },
+        {
+          "name": "Deepak Chopra",
+          "url": "https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "We Never Give Up (Todo Venceremos)",
+      "url": "https://open.spotify.com/track/2G6gnsbzUJYDCGHOtIBoWy"
+    },
+    {
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Ya estamos hartos",
+      "url": "https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO29tDB6"
 }

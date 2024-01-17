@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Nicki Minaj
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: TiaCorine
 
-448 songs - 20 hr 19 min
+449 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 | 2022-06-17 | 2022-10-22 |
 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 | 2023-04-28 | 2023-05-27 |
 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 | 2021-09-24 | 2022-02-19 |
-| [UFHO](https://open.spotify.com/track/2g3pFa3ySgKc86ZzcgBts5) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [UFHO](https://open.spotify.com/album/6RSzn0zreMMYliXT0L1E9k) | 2:11 | 2023-12-15 |  |
+| [UFHO](https://open.spotify.com/track/2g3pFa3ySgKc86ZzcgBts5) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [UFHO](https://open.spotify.com/album/6RSzn0zreMMYliXT0L1E9k) | 2:11 | 2023-12-15 | 2024-01-13 |
 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 | 2022-11-11 | 2022-12-17 |
 | [Universal Swamp Anthem](https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Universal Swamp Anthem](https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1) | 2:31 | 2023-07-28 | 2023-08-05 |
 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 | 2022-02-11 | 2022-06-11 |
@@ -456,5 +456,6 @@
 | [You The Type](https://open.spotify.com/track/7x5u4be4YDbkD31q3tNj2u) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [You The Type](https://open.spotify.com/album/7H6MsLhxLDDNpeymsKNXDH) | 3:25 | 2023-02-10 | 2023-02-25 |
 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-06-23 | 2023-09-09 |
 | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 | 2023-09-08 |  |
+| [Yung Joc \(feat\. Luh Tyler\)](https://open.spotify.com/track/38f9cuHs7dmGcyRCXAHxy5) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Yung Joc \(feat\. Luh Tyler\)](https://open.spotify.com/album/555Jn3qacCtSCx2kMk40nB) | 2:10 | 2024-01-12 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

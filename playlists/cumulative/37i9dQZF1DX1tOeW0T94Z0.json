@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Nothing but precious sounds from the 90s & 2000s. Cover: Kardinal Offishall",
+  "description": "Nothing but precious sounds from the 90s & 2000s. Cover: Keshia Chant\u00e9",
   "name": "Canadian Gems",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 215626,
       "name": "Been Gone",
       "url": "https://open.spotify.com/track/0MoFEIqW3QFpI4GjRx5FaW"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 257666,
       "name": "Everyday (Rudebwoy)",
       "url": "https://open.spotify.com/track/3rIbZ1ElW0ZFF646ZQrYTj"
@@ -1119,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "It's Fo Twenty (Explicit Version)",
+        "url": "https://open.spotify.com/album/2L2Ia4j1mNUec5fi5PS35O"
+      },
+      "artists": [
+        {
+          "name": "Bishop Brigante",
+          "url": "https://open.spotify.com/artist/4yGFddIt30417yFQiq2QaS"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226920,
+      "name": "It's Fo Twenty",
+      "url": "https://open.spotify.com/track/6IHYCWWWyKOV54i5eXbSKq"
+    },
+    {
+      "album": {
         "name": "Just a Second",
         "url": "https://open.spotify.com/album/5O7awejDSOSd92idYH870A"
       },
@@ -1130,7 +1152,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 266000,
       "name": "Just a Second",
       "url": "https://open.spotify.com/track/63khjxx6Jcz8YGhWFWrL2P"

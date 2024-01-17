@@ -1,512 +1,1595 @@
 {
-  "2022-08-06": 32666,
-  "2022-08-07": 32701,
-  "2022-08-08": 32728,
-  "2022-08-09": 32757,
-  "2022-08-10": 32779,
-  "2022-08-11": 32800,
-  "2022-08-12": 32835,
-  "2022-08-13": 32859,
-  "2022-08-14": 32889,
-  "2022-08-15": 32913,
-  "2022-08-16": 32931,
-  "2022-08-17": 32958,
-  "2022-08-18": 32976,
-  "2022-08-19": 32998,
-  "2022-08-20": 33034,
-  "2022-08-21": 33076,
-  "2022-08-22": 33111,
-  "2022-08-23": 33138,
-  "2022-08-24": 33162,
-  "2022-08-25": 33194,
-  "2022-08-26": 33207,
-  "2022-08-27": 33238,
-  "2022-08-28": 33276,
-  "2022-08-29": 33308,
-  "2022-08-30": 33324,
-  "2022-08-31": 33345,
-  "2022-09-01": 33361,
-  "2022-09-02": 33381,
-  "2022-09-03": 33395,
-  "2022-09-04": 33421,
-  "2022-09-05": 33436,
-  "2022-09-06": 33459,
-  "2022-09-07": 33475,
-  "2022-09-09": 33520,
-  "2022-09-10": 33543,
-  "2022-09-11": 33568,
-  "2022-09-12": 33586,
-  "2022-09-13": 33610,
-  "2022-09-15": 33656,
-  "2022-09-16": 33675,
-  "2022-09-17": 33684,
-  "2022-09-18": 33714,
-  "2022-09-19": 33743,
-  "2022-09-20": 33762,
-  "2022-09-21": 33786,
-  "2022-09-22": 33814,
-  "2022-09-23": 33841,
-  "2022-09-24": 33841,
-  "2022-09-25": 33886,
-  "2022-09-26": 33913,
-  "2022-09-27": 33932,
-  "2022-09-28": 33947,
-  "2022-09-29": 33975,
-  "2022-09-30": 34001,
-  "2022-10-01": 34021,
-  "2022-10-02": 34050,
-  "2022-10-03": 34078,
-  "2022-10-04": 34099,
-  "2022-10-05": 34115,
-  "2022-10-06": 34133,
-  "2022-10-07": 34155,
-  "2022-10-08": 34185,
-  "2022-10-09": 34228,
-  "2022-10-10": 34234,
-  "2022-10-11": 34261,
-  "2022-10-12": 34288,
-  "2022-10-13": 34314,
-  "2022-10-14": 34342,
-  "2022-10-15": 34359,
-  "2022-10-16": 34387,
-  "2022-10-17": 34408,
-  "2022-10-18": 34435,
-  "2022-10-19": 34453,
-  "2022-10-20": 34480,
-  "2022-10-21": 34492,
-  "2022-10-22": 34510,
-  "2022-10-23": 34536,
-  "2022-10-24": 34559,
-  "2022-10-25": 34583,
-  "2022-10-26": 34599,
-  "2022-10-27": 34615,
-  "2022-10-28": 34632,
-  "2022-10-29": 34656,
-  "2022-10-30": 34681,
-  "2022-10-31": 34695,
-  "2022-11-01": 34716,
-  "2022-11-02": 34729,
-  "2022-11-03": 34746,
-  "2022-11-04": 34762,
-  "2022-11-05": 34776,
-  "2022-11-06": 34802,
-  "2022-11-07": 34832,
-  "2022-11-08": 34855,
-  "2022-11-09": 34892,
-  "2022-11-10": 34916,
-  "2022-11-11": 34948,
-  "2022-11-12": 34996,
-  "2022-11-13": 35026,
-  "2022-11-14": 35039,
-  "2022-11-15": 35057,
-  "2022-11-16": 35076,
-  "2022-11-17": 35103,
-  "2022-11-18": 35105,
-  "2022-11-19": 35113,
-  "2022-11-20": 35141,
-  "2022-11-21": 35172,
-  "2022-11-22": 35191,
-  "2022-11-23": 35212,
-  "2022-11-24": 35242,
-  "2022-11-25": 35274,
-  "2022-11-26": 35294,
-  "2022-11-27": 35309,
-  "2022-11-28": 35329,
-  "2022-11-29": 35350,
-  "2022-11-30": 35363,
-  "2022-12-01": 35377,
-  "2022-12-02": 35395,
-  "2022-12-03": 35418,
-  "2022-12-04": 35443,
-  "2022-12-05": 35460,
-  "2022-12-06": 35487,
-  "2022-12-07": 35505,
-  "2022-12-08": 35524,
-  "2022-12-09": 35548,
-  "2022-12-10": 35562,
-  "2022-12-11": 35581,
-  "2022-12-12": 35603,
-  "2022-12-13": 35621,
-  "2022-12-14": 35629,
-  "2022-12-15": 35649,
-  "2022-12-16": 35661,
-  "2022-12-17": 35679,
-  "2022-12-18": 35705,
-  "2022-12-19": 35725,
-  "2022-12-20": 35768,
-  "2022-12-21": 35768,
-  "2022-12-22": 35785,
-  "2022-12-24": 35835,
-  "2022-12-25": 35848,
-  "2022-12-26": 35870,
-  "2022-12-27": 35889,
-  "2022-12-28": 35910,
-  "2022-12-29": 35929,
-  "2022-12-30": 35955,
-  "2022-12-31": 35983,
-  "2023-01-01": 36015,
-  "2023-01-02": 36044,
-  "2023-01-03": 36066,
-  "2023-01-04": 36084,
-  "2023-01-05": 36098,
-  "2023-01-06": 36120,
-  "2023-01-07": 36201,
-  "2023-01-08": 36206,
-  "2023-01-09": 36243,
-  "2023-01-10": 36260,
-  "2023-01-11": 36273,
-  "2023-01-12": 36301,
-  "2023-01-13": 36321,
-  "2023-01-14": 36391,
-  "2023-01-15": 36402,
-  "2023-01-16": 36419,
-  "2023-01-17": 36440,
-  "2023-01-18": 36456,
-  "2023-01-19": 36476,
-  "2023-01-20": 36500,
-  "2023-01-21": 36526,
-  "2023-01-22": 36556,
-  "2023-01-23": 36577,
-  "2023-01-24": 36593,
-  "2023-01-25": 36615,
-  "2023-01-26": 36629,
-  "2023-01-27": 36656,
-  "2023-01-28": 36684,
-  "2023-01-29": 36715,
-  "2023-01-30": 36735,
-  "2023-01-31": 36735,
-  "2023-02-01": 36783,
-  "2023-02-02": 36815,
-  "2023-02-03": 36848,
-  "2023-02-04": 36885,
-  "2023-02-05": 36935,
-  "2023-02-06": 36987,
-  "2023-02-07": 37612,
-  "2023-02-08": 38037,
-  "2023-02-09": 38037,
-  "2023-02-10": 38128,
-  "2023-02-11": 38222,
-  "2023-02-12": 38399,
-  "2023-02-13": 38437,
-  "2023-02-14": 38437,
-  "2023-02-15": 38476,
-  "2023-02-16": 38514,
-  "2023-02-17": 38554,
-  "2023-02-18": 38628,
-  "2023-02-19": 38634,
-  "2023-02-20": 38671,
-  "2023-02-21": 38703,
-  "2023-02-22": 38736,
-  "2023-02-23": 38764,
-  "2023-02-24": 38801,
-  "2023-02-25": 38843,
-  "2023-02-26": 38877,
-  "2023-02-27": 38936,
-  "2023-02-28": 38936,
-  "2023-03-01": 38963,
-  "2023-03-02": 38994,
-  "2023-03-03": 39034,
-  "2023-03-04": 39053,
-  "2023-03-05": 39136,
-  "2023-03-06": 39136,
-  "2023-03-07": 39167,
-  "2023-03-08": 39193,
-  "2023-03-09": 39231,
-  "2023-03-10": 39260,
-  "2023-03-11": 39293,
-  "2023-03-12": 39326,
-  "2023-03-13": 39361,
-  "2023-03-14": 39393,
-  "2023-03-15": 39422,
-  "2023-03-16": 39422,
-  "2023-03-17": 39422,
-  "2023-03-18": 39538,
-  "2023-03-19": 39538,
-  "2023-03-20": 39629,
-  "2023-03-21": 39646,
-  "2023-03-22": 39678,
-  "2023-03-23": 39724,
-  "2023-03-24": 39724,
-  "2023-03-25": 39781,
-  "2023-03-26": 39832,
-  "2023-03-27": 39860,
-  "2023-03-28": 39884,
-  "2023-03-29": 39915,
-  "2023-03-30": 39968,
-  "2023-03-31": 39968,
-  "2023-04-01": 39992,
-  "2023-04-02": 40022,
-  "2023-04-03": 40048,
-  "2023-04-04": 40067,
-  "2023-04-05": 40096,
-  "2023-04-06": 40133,
-  "2023-04-07": 40162,
-  "2023-04-09": 40251,
-  "2023-04-10": 40285,
-  "2023-04-11": 40329,
-  "2023-04-12": 40329,
-  "2023-04-13": 40360,
-  "2023-04-14": 40376,
-  "2023-04-15": 40397,
-  "2023-04-16": 40424,
-  "2023-04-17": 40443,
-  "2023-04-18": 40457,
-  "2023-04-19": 40485,
-  "2023-04-20": 40510,
-  "2023-04-21": 40528,
-  "2023-04-22": 40543,
-  "2023-04-23": 40571,
-  "2023-04-24": 40596,
-  "2023-04-25": 40624,
-  "2023-04-26": 40652,
-  "2023-04-27": 40678,
-  "2023-04-28": 40694,
-  "2023-04-29": 40724,
-  "2023-04-30": 40750,
-  "2023-05-01": 40776,
-  "2023-05-02": 40810,
-  "2023-05-03": 40835,
-  "2023-05-04": 40863,
-  "2023-05-05": 40888,
-  "2023-05-06": 40902,
-  "2023-05-07": 40927,
-  "2023-05-08": 40956,
-  "2023-05-09": 40972,
-  "2023-05-10": 41000,
-  "2023-05-11": 41022,
-  "2023-05-12": 41035,
-  "2023-05-13": 41058,
-  "2023-05-14": 41093,
-  "2023-05-15": 41119,
-  "2023-05-16": 41144,
-  "2023-05-17": 41171,
-  "2023-05-18": 41194,
-  "2023-05-19": 41223,
-  "2023-05-20": 41277,
-  "2023-05-21": 41277,
-  "2023-05-22": 41277,
-  "2023-05-23": 41321,
-  "2023-05-24": 41343,
-  "2023-05-25": 41354,
-  "2023-05-26": 41369,
-  "2023-05-27": 41390,
-  "2023-05-28": 41415,
-  "2023-05-29": 41415,
-  "2023-05-30": 41472,
-  "2023-05-31": 41486,
-  "2023-06-01": 41517,
-  "2023-06-02": 41529,
-  "2023-06-03": 41560,
-  "2023-06-04": 41581,
-  "2023-06-05": 41629,
-  "2023-06-06": 41661,
-  "2023-06-07": 41687,
-  "2023-06-08": 41713,
-  "2023-06-09": 41732,
-  "2023-06-10": 41766,
-  "2023-06-11": 41791,
-  "2023-06-12": 41818,
-  "2023-06-13": 41845,
-  "2023-06-14": 41870,
-  "2023-06-15": 41899,
-  "2023-06-16": 41931,
-  "2023-06-17": 41960,
-  "2023-06-18": 41992,
-  "2023-06-19": 42027,
-  "2023-06-20": 42049,
-  "2023-06-21": 42079,
-  "2023-06-22": 42101,
-  "2023-06-23": 42121,
-  "2023-06-24": 42151,
-  "2023-06-25": 42182,
-  "2023-06-26": 42215,
-  "2023-06-27": 42234,
-  "2023-06-28": 42255,
-  "2023-06-29": 42289,
-  "2023-06-30": 42313,
-  "2023-07-01": 42358,
-  "2023-07-02": 42358,
-  "2023-07-03": 42382,
-  "2023-07-04": 42403,
-  "2023-07-05": 42430,
-  "2023-07-06": 42471,
-  "2023-07-07": 42471,
-  "2023-07-08": 42471,
-  "2023-07-09": 42517,
-  "2023-07-10": 42547,
-  "2023-07-11": 42564,
-  "2023-07-12": 42578,
-  "2023-07-13": 42605,
-  "2023-07-14": 42619,
-  "2023-07-15": 42634,
-  "2023-07-16": 42669,
-  "2023-07-17": 42698,
-  "2023-07-18": 42716,
-  "2023-07-19": 42734,
-  "2023-07-20": 42757,
-  "2023-07-21": 42770,
-  "2023-07-22": 42795,
-  "2023-07-23": 42825,
-  "2023-07-24": 42844,
-  "2023-07-25": 42866,
-  "2023-07-26": 42878,
-  "2023-07-27": 42904,
-  "2023-07-28": 42931,
-  "2023-07-29": 42948,
-  "2023-07-30": 42969,
-  "2023-07-31": 42993,
-  "2023-08-01": 43015,
-  "2023-08-02": 43039,
-  "2023-08-03": 43057,
-  "2023-08-04": 43081,
-  "2023-08-05": 43110,
-  "2023-08-06": 43171,
-  "2023-08-07": 43171,
-  "2023-08-08": 43188,
-  "2023-08-09": 43208,
-  "2023-08-10": 43232,
-  "2023-08-11": 43269,
-  "2023-08-12": 43269,
-  "2023-08-13": 43269,
-  "2023-08-14": 43339,
-  "2023-08-15": 43339,
-  "2023-08-16": 43339,
-  "2023-08-17": 43339,
-  "2023-08-18": 43339,
-  "2023-08-19": 43339,
-  "2023-08-20": 43516,
-  "2023-08-21": 43516,
-  "2023-08-22": 43558,
-  "2023-08-23": 43558,
-  "2023-08-24": 43558,
-  "2023-08-25": 43558,
-  "2023-08-26": 43641,
-  "2023-08-27": 43641,
-  "2023-08-28": 43699,
-  "2023-08-29": 43699,
-  "2023-08-30": 43699,
-  "2023-08-31": 43764,
-  "2023-09-01": 43772,
-  "2023-09-02": 43772,
-  "2023-09-03": 43844,
-  "2023-09-04": 43844,
-  "2023-09-05": 43844,
-  "2023-09-06": 43919,
-  "2023-09-07": 43919,
-  "2023-09-08": 43919,
-  "2023-09-09": 43919,
-  "2023-09-10": 44045,
-  "2023-09-11": 44045,
-  "2023-09-12": 44045,
-  "2023-09-13": 44045,
-  "2023-09-14": 44045,
-  "2023-09-15": 44045,
-  "2023-09-16": 44199,
-  "2023-09-17": 44199,
-  "2023-09-18": 44199,
-  "2023-09-19": 44291,
-  "2023-09-20": 44291,
-  "2023-09-21": 44291,
-  "2023-09-22": 44344,
-  "2023-09-23": 44344,
-  "2023-09-24": 44344,
-  "2023-09-25": 44344,
-  "2023-09-26": 44457,
-  "2023-09-27": 44457,
-  "2023-09-28": 44457,
-  "2023-09-29": 44457,
-  "2023-09-30": 44457,
-  "2023-10-01": 44457,
-  "2023-10-02": 44457,
-  "2023-10-03": 44457,
-  "2023-10-04": 44457,
-  "2023-10-05": 44457,
-  "2023-10-06": 44457,
-  "2023-10-07": 44457,
-  "2023-10-08": 44457,
-  "2023-10-09": 44457,
-  "2023-10-10": 44457,
-  "2023-10-11": 44766,
-  "2023-10-12": 44766,
-  "2023-10-13": 44766,
-  "2023-10-14": 44766,
-  "2023-10-15": 44766,
-  "2023-10-16": 44766,
-  "2023-10-17": 44766,
-  "2023-10-18": 44766,
-  "2023-10-19": 44766,
-  "2023-10-20": 44766,
-  "2023-10-21": 44766,
-  "2023-10-22": 44766,
-  "2023-10-23": 44766,
-  "2023-10-24": 44766,
-  "2023-10-25": 44766,
-  "2023-10-26": 44766,
-  "2023-10-27": 44766,
-  "2023-10-28": 44766,
-  "2023-10-29": 44766,
-  "2023-10-30": 44766,
-  "2023-10-31": 44766,
-  "2023-11-01": 44766,
-  "2023-11-02": 44766,
-  "2023-11-03": 44766,
-  "2023-11-04": 44766,
-  "2023-11-05": 44766,
-  "2023-11-06": 44766,
-  "2023-11-07": 44766,
-  "2023-11-08": 44766,
-  "2023-11-09": 44766,
-  "2023-11-10": 44766,
-  "2023-11-11": 45344,
-  "2023-11-12": 45344,
-  "2023-11-13": 45344,
-  "2023-11-14": 45344,
-  "2023-11-15": 45344,
-  "2023-11-16": 45344,
-  "2023-11-17": 45344,
-  "2023-11-18": 45344,
-  "2023-11-19": 45344,
-  "2023-11-20": 45344,
-  "2023-11-21": 45344,
-  "2023-11-22": 45344,
-  "2023-11-23": 45344,
-  "2023-11-24": 45344,
-  "2023-11-25": 45344,
-  "2023-11-26": 45344,
-  "2023-11-27": 45344,
-  "2023-11-28": 45344,
-  "2023-11-29": 45344,
-  "2023-11-30": 45344,
-  "2023-12-01": 45344,
-  "2023-12-02": 45344,
-  "2023-12-03": 45344,
-  "2023-12-04": 45344,
-  "2023-12-05": 45344,
-  "2023-12-06": 45344,
-  "2023-12-07": 45344,
-  "2023-12-08": 45344,
-  "2023-12-09": 45344,
-  "2023-12-10": 45344,
-  "2023-12-11": 45344,
-  "2023-12-12": 45344,
-  "2023-12-13": 45344,
-  "2023-12-14": 45819,
-  "2023-12-15": 45831,
-  "2023-12-16": 45839,
-  "2023-12-17": 45856,
-  "2023-12-18": 45862,
-  "2023-12-19": 45877,
-  "2023-12-20": 45892,
-  "2023-12-21": 45915,
-  "2023-12-22": 45926,
-  "2023-12-23": 45945,
-  "2023-12-24": 45961,
-  "2023-12-25": 45967,
-  "2023-12-26": 45977,
-  "2023-12-27": 45995,
-  "2023-12-30": 46025,
-  "2023-12-31": 46043,
-  "2024-01-01": 46056,
-  "2024-01-02": 46065,
-  "2024-01-03": 46080
+  "2024-01-17": 46260,
+  "date_first_scraped": "2022-08-06",
+  "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
+  "name": "This Is Bonnie Raitt",
+  "tracks": [
+    {
+      "album": {
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 191520,
+      "name": "All Alone With Something To Say",
+      "url": "https://open.spotify.com/track/67hnL3LuKs6JiphyY6SHgl"
+    },
+    {
+      "album": {
+        "name": "John Prine (Live)",
+        "url": "https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256666,
+      "name": "Angel from Montgomery (feat. Bonnie Raitt) - Live",
+      "url": "https://open.spotify.com/track/53OnUdsF4yWSaUevfD3EjW"
+    },
+    {
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143933,
+      "name": "Any Day Woman - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2"
+    },
+    {
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347840,
+      "name": "Blame it On Me",
+      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
+    },
+    {
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 209133,
+      "name": "Bluebird - 2008 Remaster",
+      "url": "https://open.spotify.com/track/78bu2DHF5nvCWmvh5VCe9P"
+    },
+    {
+      "album": {
+        "name": "Call It Home, Vol. 1",
+        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248080,
+      "name": "Call It Home",
+      "url": "https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM"
+    },
+    {
+      "album": {
+        "name": "Call It Home: Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 248080,
+      "name": "Call It Home",
+      "url": "https://open.spotify.com/track/70M4idjXPiTmBs2E6uTuyC"
+    },
+    {
+      "album": {
+        "name": "Gerald's Evil Game The Complete Fantasy Playlist",
+        "url": "https://open.spotify.com/album/4jSy7M83rJx0oGAqy9oLSe"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Can't Find My Way Home",
+      "url": "https://open.spotify.com/track/2tguJA2ZWhkhhNf4QS0csZ"
+    },
+    {
+      "album": {
+        "name": "Under The Falling Sky",
+        "url": "https://open.spotify.com/album/30IMv7jvl0uGinaXg4Lp0T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 187533,
+      "name": "Can't Find My Way Home",
+      "url": "https://open.spotify.com/track/4E2HtOs7OvTqXCLvvHXCfj"
+    },
+    {
+      "album": {
+        "name": "Gerald's Evil Game The Complete Fantasy Playlist",
+        "url": "https://open.spotify.com/album/58iea9RDlr1v2yM7yh1788"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 187533,
+      "name": "Can't Find My Way Home",
+      "url": "https://open.spotify.com/track/7nIykpm45vKrsuW0KCEQ6i"
+    },
+    {
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260760,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/77jvkoKzy83gHwYe4pLi1Y"
+    },
+    {
+      "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 235000,
+      "name": "Cry Like a Rainstorm - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2m6vNzNZHmhMNYaLMnMaph"
+    },
+    {
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Cry On My Shoulder",
+      "url": "https://open.spotify.com/track/6YQ2RgaJVn2aeFFsNHB4Yb"
+    },
+    {
+      "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "Dimming Of The Day",
+      "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
+    },
+    {
+      "album": {
+        "name": "Genius Loves Company",
+        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274910,
+      "name": "Do I Ever Cross Your Mind",
+      "url": "https://open.spotify.com/track/3GH1udndeAMY27JfXe0ecZ"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 270133,
+      "name": "Down The Hall",
+      "url": "https://open.spotify.com/track/6gTPIdCMVPosz8p2BlNLFM"
+    },
+    {
+      "album": {
+        "name": "Music From The Motion Picture Michael",
+        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264786,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
+    },
+    {
+      "album": {
+        "name": "Feels Like Rain",
+        "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275266,
+      "name": "Feels Like Rain (feat. Bonnie Raitt)",
+      "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
+    },
+    {
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282066,
+      "name": "Finest Lovin' Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
+    },
+    {
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269600,
+      "name": "Give It Up or Let Me Go - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
+    },
+    {
+      "album": {
+        "name": "Oakland 1989",
+        "url": "https://open.spotify.com/album/2bvC10g4TXozsZnxha30GY"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 364310,
+      "name": "Give It Up or Let Me Go - Live",
+      "url": "https://open.spotify.com/track/0Wdzw1MuCCqm9ykpy6WjCB"
+    },
+    {
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Good Man, Good Woman",
+      "url": "https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei"
+    },
+    {
+      "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Guilty - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
+    },
+    {
+      "album": {
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 249093,
+      "name": "Gypsy In Me",
+      "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
+    },
+    {
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289970,
+      "name": "Have A Heart",
+      "url": "https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC"
+    },
+    {
+      "album": {
+        "name": "A Fool To Care",
+        "url": "https://open.spotify.com/album/4LzBJVxW5Pr77G7d4CrRbX"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375057,
+      "name": "Hell To Pay",
+      "url": "https://open.spotify.com/track/5oBFPW3PpybYWSsvEuuGnv"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 255146,
+      "name": "Here Comes Love",
+      "url": "https://open.spotify.com/track/1S3hErTMkCKWTihpAvsYrB"
+    },
+    {
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Home - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
+    },
+    {
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+    },
+    {
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332960,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "album": {
+        "name": "Bonnie Raitt And Friends",
+        "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300400,
+      "name": "I Don't Want Anything To Change - Live",
+      "url": "https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs"
+    },
+    {
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 189960,
+      "name": "I Got Plenty - 2008 Remaster",
+      "url": "https://open.spotify.com/track/39I0PqL6CGz9Nh3LnJt3R2"
+    },
+    {
+      "album": {
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 240293,
+      "name": "I Knew",
+      "url": "https://open.spotify.com/track/45SHYNKBPf0ExzyMZ5Vw8n"
+    },
+    {
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "I Know - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
+    },
+    {
+      "album": {
+        "name": "Souls Alike",
+        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "I Will Not Be Broken",
+      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
+    },
+    {
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271133,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305160,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
+    },
+    {
+      "album": {
+        "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
+        "url": "https://open.spotify.com/album/64rpqujJSzvu5vn4xDT5k9"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 283160,
+      "name": "Kisses Sweeter than Wine",
+      "url": "https://open.spotify.com/track/4cOOdma7wXLkuFomD0dyiC"
+    },
+    {
+      "album": {
+        "name": "Big Easy Blues (Live New Orleans '77)",
+        "url": "https://open.spotify.com/album/39GnE6zq5cW9l1HG3itlVl"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 249902,
+      "name": "Kokomo Blues - Live",
+      "url": "https://open.spotify.com/track/00mIBUDwzTSxCpAGjjgeA9"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 184760,
+      "name": "Livin' for the Ones",
+      "url": "https://open.spotify.com/track/37X2K4YYwEudXUnLA7xLrd"
+    },
+    {
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Louise - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Rock & Roll Hall Of Fame Concerts",
+        "url": "https://open.spotify.com/album/53AiGaRJym6bxyEkk7WCKr"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 308320,
+      "name": "Love Has No Pride (with Bonnie Raitt)",
+      "url": "https://open.spotify.com/track/3Yu08KtR7UlHpKMgnWsEBZ"
+    },
+    {
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Love Has No Pride - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb"
+    },
+    {
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244560,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
+    },
+    {
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240666,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
+    },
+    {
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "Love Me Like a Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 221626,
+      "name": "Love Sneakin' Up On You",
+      "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+    },
+    {
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 260173,
+      "name": "Mighty Tight Woman - 2008 Remaster",
+      "url": "https://open.spotify.com/track/3kivvDedMfdapBPKKmLxVE"
+    },
+    {
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 381893,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
+    },
+    {
+      "album": {
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG"
+    },
+    {
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232866,
+      "name": "Nick Of Time",
+      "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
+    },
+    {
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194908,
+      "name": "Nobody's Girl",
+      "url": "https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8"
+    },
+    {
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "Not Cause I Wanted To",
+      "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
+    },
+    {
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303800,
+      "name": "Not The Only One",
+      "url": "https://open.spotify.com/track/13p06XYJaV05Q65hSU87jW"
+    },
+    {
+      "album": {
+        "name": "Big Easy Blues (Live New Orleans '77)",
+        "url": "https://open.spotify.com/album/39GnE6zq5cW9l1HG3itlVl"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 314455,
+      "name": "Nothing Seems To Matter - Live",
+      "url": "https://open.spotify.com/track/0pIP5yV3oXNapqJM3F0OnK"
+    },
+    {
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "Papa Come Quick (Jody And Chico)",
+      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
+    },
+    {
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "Rainy Day Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6K6uLBktAdE5MSx7fBOM9k"
+    },
+    {
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 267133,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/7Fu24Eo9nj8dNIlsA2bWDI"
+    },
+    {
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327760,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
+    },
+    {
+      "album": {
+        "name": "Road Tested",
+        "url": "https://open.spotify.com/album/6oIKQNRvcNeSAO2nTfZt6V"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 252666,
+      "name": "Rock Steady - Live",
+      "url": "https://open.spotify.com/track/6QTzhcDkKupkvztUgGZooF"
+    },
+    {
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Runaway - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897"
+    },
+    {
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 186200,
+      "name": "Since I Fell for You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
+    },
+    {
+      "album": {
+        "name": "The Essential Jimmie Vaughan",
+        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        },
+        {
+          "name": "Art Neville",
+          "url": "https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381066,
+      "name": "Six Strings Down",
+      "url": "https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8"
+    },
+    {
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 239600,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/1GPDkspA12EOQRsoh1xXoH"
+    },
+    {
+      "album": {
+        "name": "Souls Alike",
+        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/28XBCFfqb1GSp268v0k3Mi"
+    },
+    {
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227573,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 292053,
+      "name": "Something's Got a Hold of My Heart",
+      "url": "https://open.spotify.com/track/4cKrYwhGunX19sdbFZueAc"
+    },
+    {
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 292803,
+      "name": "Tangled And Dark",
+      "url": "https://open.spotify.com/track/6YCMmNAdiflEXA5Elny783"
+    },
+    {
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+    },
+    {
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 284600,
+      "name": "That Song About the Midway - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1MsYN2LmlINM37KGbfs91P"
+    },
+    {
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Thing Called Love",
+      "url": "https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66"
+    },
+    {
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Too Long at the Fair - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
+    },
+    {
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 229693,
+      "name": "Two Lives - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5WDhUWoBMq0f03Nxl1yYpt"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 327186,
+      "name": "Waitin' For You to Blow",
+      "url": "https://open.spotify.com/track/2GhXfhOIkPrtwPZv9luHb6"
+    },
+    {
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 300960,
+      "name": "When We Say Goodnight",
+      "url": "https://open.spotify.com/track/73dOXyOiMMVeO1JyrK2eik"
+    },
+    {
+      "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 216626,
+      "name": "Write Me a Few of Your Lines / Kokomo Blues - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP"
+    },
+    {
+      "album": {
+        "name": "Bonnie Raitt And Friends",
+        "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339466,
+      "name": "You - Live",
+      "url": "https://open.spotify.com/track/6mG1WZbhkUsTSJRhdfYP78"
+    },
+    {
+      "album": {
+        "name": "Joy of Nothing (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3oM8N8qEv9DKuK7sKO5SWU"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 271403,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/42jyfbRwV3a2iNulCIl3Xm"
+    },
+    {
+      "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "You've Been in Love Too Long - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
+    },
+    {
+      "album": {
+        "name": "Home Plate (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
+      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MOc1x"
 }

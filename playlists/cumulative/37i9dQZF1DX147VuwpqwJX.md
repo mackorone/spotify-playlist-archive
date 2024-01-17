@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-142 songs - 9 hr 26 min
+143 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [c u in me](https://open.spotify.com/track/5f0Y7zvpZjAvUp2mPAJ8UI) | [Divinecowgurl](https://open.spotify.com/artist/0nWzNAwYw3ZGhvW3uhyM2p) | [c u in me](https://open.spotify.com/album/56VldJig1Tq1v5m88MbrRE) | 2:38 | 2023-06-01 |  |
 | [CHIC](https://open.spotify.com/track/4R8jnfHxBJHO0ILuCbf5iq) | [Thee Emperor Smith](https://open.spotify.com/artist/0kvrve4FH1KbKFg6luJPV6) | [VILLAIN](https://open.spotify.com/album/1sz87xjywU1sDO618R1YJK) | 3:20 | 2023-06-01 |  |
 | [Children \- MikeQ and 2LIVE Remix](https://open.spotify.com/track/4vRFbT8QjtQ9Sit1lW4CZh) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [2LIVE](https://open.spotify.com/artist/38ioOcIBEKSsIod3REVdkW) | [Children \(MikeQ and 2LIVE Remix\)](https://open.spotify.com/album/62ZJgdQsB2x1OOgZ94XUQ2) | 3:09 | 2022-02-25 |  |
+| [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 | 2024-01-12 |  |
 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4RMtFI3hGFBnyDg9YIvLLs) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit](https://open.spotify.com/album/25XfRZJiNYItar9V08ZOWn) | 6:27 | 2021-11-19 |  |
 | [Club Queen](https://open.spotify.com/track/5Vvs5tTd4jbCIkCsB1JQgV) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Queen](https://open.spotify.com/album/79d0CCtR8YtThcWgQIlTgC) | 4:03 | 2021-11-19 |  |
 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 | 2021-11-19 |  |
@@ -138,7 +139,7 @@
 | [Wig](https://open.spotify.com/track/0yj26qPypXRRG3QEfzcZT2) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5flGecLa0gsN4RSOA2YIyn) | 3:40 | 2022-07-01 | 2023-02-15 |
 | [Wig](https://open.spotify.com/track/40n4caMKy5TSzxKtKOeKRp) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/16oQd9JhXxh1swlhdFzedL) | 3:40 | 2021-11-19 | 2022-07-29 |
 | [Wig](https://open.spotify.com/track/4HuRHiYqoQTsxqiAGbJNdI) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5W5ECnqLf2p45cIojnvVmC) | 3:40 | 2023-01-27 |  |
-| [Witch Doktor](https://open.spotify.com/track/1z8cY06EB1MQmKMny2zTSf) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Armand Van Helden](https://open.spotify.com/album/52xHlWtXJ8jhIhDaJMFnhp) | 6:46 | 2023-07-14 |  |
+| [Witch Doktor](https://open.spotify.com/track/1z8cY06EB1MQmKMny2zTSf) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Armand Van Helden](https://open.spotify.com/album/52xHlWtXJ8jhIhDaJMFnhp) | 6:46 | 2023-07-14 | 2024-01-13 |
 | [Witch Doktor](https://open.spotify.com/track/3RsGqdtkBVxk8mWoERAIp1) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Rhythm The Definitive 30](https://open.spotify.com/album/5sGoSZWP5ZPArN6tSvpN8s) | 6:46 | 2023-07-14 | 2023-12-14 |
 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 | 2021-11-19 | 2023-11-04 |
 | [Work](https://open.spotify.com/track/3WXUvkBTSkZfMIsp8dKzvy) | [A.](https://open.spotify.com/artist/5Oi5eqLshqruHdSmWvJPdF), [Dr\. Bass & the Experiment](https://open.spotify.com/artist/1xKoV5VuDzJRiLnXBa1eNw) | [Work](https://open.spotify.com/album/4FiqaznOQwBo6C7oAA8oNH) | 2:10 | 2021-11-19 |  |

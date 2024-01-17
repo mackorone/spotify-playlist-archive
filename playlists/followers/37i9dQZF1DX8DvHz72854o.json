@@ -1,312 +1,1233 @@
 {
-  "2023-02-25": 8837,
-  "2023-02-26": 8882,
-  "2023-02-27": 9016,
-  "2023-02-28": 9016,
-  "2023-03-01": 9103,
-  "2023-03-02": 9194,
-  "2023-03-03": 9269,
-  "2023-03-04": 9333,
-  "2023-03-05": 9497,
-  "2023-03-06": 9497,
-  "2023-03-07": 9565,
-  "2023-03-08": 9643,
-  "2023-03-09": 9724,
-  "2023-03-10": 9814,
-  "2023-03-11": 9888,
-  "2023-03-12": 9936,
-  "2023-03-13": 10020,
-  "2023-03-14": 10103,
-  "2023-03-15": 10175,
-  "2023-03-16": 10250,
-  "2023-03-17": 10250,
-  "2023-03-18": 10426,
-  "2023-03-19": 10508,
-  "2023-03-20": 10635,
-  "2023-03-21": 10719,
-  "2023-03-22": 10812,
-  "2023-03-23": 10921,
-  "2023-03-24": 10921,
-  "2023-03-25": 11134,
-  "2023-03-26": 11255,
-  "2023-03-27": 11383,
-  "2023-03-28": 11499,
-  "2023-03-29": 11654,
-  "2023-03-30": 11855,
-  "2023-03-31": 11855,
-  "2023-04-01": 11946,
-  "2023-04-02": 12038,
-  "2023-04-03": 12149,
-  "2023-04-04": 12230,
-  "2023-04-05": 12341,
-  "2023-04-06": 12448,
-  "2023-04-07": 12536,
-  "2023-04-09": 12748,
-  "2023-04-10": 12877,
-  "2023-04-11": 13120,
-  "2023-04-12": 13120,
-  "2023-04-13": 13238,
-  "2023-04-14": 13344,
-  "2023-04-15": 13428,
-  "2023-04-16": 13501,
-  "2023-04-17": 13601,
-  "2023-04-18": 13696,
-  "2023-04-19": 13812,
-  "2023-04-20": 13900,
-  "2023-04-21": 13985,
-  "2023-04-22": 14050,
-  "2023-04-23": 14136,
-  "2023-04-24": 14232,
-  "2023-04-25": 14310,
-  "2023-04-26": 14396,
-  "2023-04-27": 14473,
-  "2023-04-28": 14540,
-  "2023-04-29": 14605,
-  "2023-04-30": 14672,
-  "2023-05-01": 14739,
-  "2023-05-02": 14816,
-  "2023-05-03": 14893,
-  "2023-05-04": 14972,
-  "2023-05-05": 15031,
-  "2023-05-06": 15103,
-  "2023-05-07": 15151,
-  "2023-05-08": 15213,
-  "2023-05-09": 15274,
-  "2023-05-10": 15358,
-  "2023-05-11": 15408,
-  "2023-05-12": 15478,
-  "2023-05-13": 15529,
-  "2023-05-14": 15608,
-  "2023-05-15": 15680,
-  "2023-05-16": 15759,
-  "2023-05-17": 15836,
-  "2023-05-18": 15896,
-  "2023-05-19": 16000,
-  "2023-05-20": 16125,
-  "2023-05-21": 16125,
-  "2023-05-22": 16125,
-  "2023-05-23": 16244,
-  "2023-05-24": 16355,
-  "2023-05-25": 16367,
-  "2023-05-26": 16436,
-  "2023-05-27": 16485,
-  "2023-05-28": 16546,
-  "2023-05-29": 16546,
-  "2023-05-30": 16663,
-  "2023-05-31": 16738,
-  "2023-06-01": 16807,
-  "2023-06-02": 16863,
-  "2023-06-03": 16917,
-  "2023-06-04": 16978,
-  "2023-06-05": 17058,
-  "2023-06-06": 17127,
-  "2023-06-07": 17182,
-  "2023-06-08": 17246,
-  "2023-06-09": 17321,
-  "2023-06-10": 17356,
-  "2023-06-11": 17443,
-  "2023-06-12": 17490,
-  "2023-06-13": 17559,
-  "2023-06-14": 17634,
-  "2023-06-15": 17706,
-  "2023-06-16": 17775,
-  "2023-06-17": 17857,
-  "2023-06-18": 17917,
-  "2023-06-19": 17977,
-  "2023-06-20": 18028,
-  "2023-06-21": 18086,
-  "2023-06-22": 18152,
-  "2023-06-23": 18218,
-  "2023-06-24": 18282,
-  "2023-06-25": 18331,
-  "2023-06-26": 18413,
-  "2023-06-27": 18470,
-  "2023-06-28": 18561,
-  "2023-06-29": 18633,
-  "2023-06-30": 18680,
-  "2023-07-01": 18836,
-  "2023-07-02": 18836,
-  "2023-07-03": 18913,
-  "2023-07-04": 19005,
-  "2023-07-05": 19076,
-  "2023-07-06": 19208,
-  "2023-07-07": 19208,
-  "2023-07-08": 19294,
-  "2023-07-09": 19372,
-  "2023-07-10": 19460,
-  "2023-07-11": 19538,
-  "2023-07-12": 19621,
-  "2023-07-13": 19712,
-  "2023-07-14": 19803,
-  "2023-07-15": 19831,
-  "2023-07-16": 19932,
-  "2023-07-17": 20029,
-  "2023-07-18": 20144,
-  "2023-07-19": 20259,
-  "2023-07-20": 20348,
-  "2023-07-21": 20429,
-  "2023-07-22": 20492,
-  "2023-07-23": 20559,
-  "2023-07-24": 20617,
-  "2023-07-25": 20711,
-  "2023-07-26": 20798,
-  "2023-07-27": 20865,
-  "2023-07-28": 20947,
-  "2023-07-29": 21024,
-  "2023-07-30": 21081,
-  "2023-07-31": 21170,
-  "2023-08-01": 21262,
-  "2023-08-02": 21349,
-  "2023-08-03": 21448,
-  "2023-08-04": 21532,
-  "2023-08-05": 21592,
-  "2023-08-06": 21716,
-  "2023-08-07": 21716,
-  "2023-08-08": 21808,
-  "2023-08-09": 21888,
-  "2023-08-10": 21999,
-  "2023-08-11": 22079,
-  "2023-08-12": 22161,
-  "2023-08-13": 22226,
-  "2023-08-14": 22296,
-  "2023-08-15": 22487,
-  "2023-08-16": 22487,
-  "2023-08-17": 22561,
-  "2023-08-18": 22650,
-  "2023-08-19": 22717,
-  "2023-08-20": 22804,
-  "2023-08-21": 22906,
-  "2023-08-22": 22980,
-  "2023-08-23": 23051,
-  "2023-08-24": 23143,
-  "2023-08-25": 23229,
-  "2023-08-26": 23313,
-  "2023-08-27": 23397,
-  "2023-08-28": 23474,
-  "2023-08-29": 23560,
-  "2023-08-30": 23646,
-  "2023-08-31": 23733,
-  "2023-09-01": 23939,
-  "2023-09-02": 23939,
-  "2023-09-03": 24018,
-  "2023-09-04": 24140,
-  "2023-09-05": 24258,
-  "2023-09-06": 24369,
-  "2023-09-07": 24503,
-  "2023-09-08": 24625,
-  "2023-09-09": 24723,
-  "2023-09-10": 24826,
-  "2023-09-11": 24954,
-  "2023-09-12": 25073,
-  "2023-09-13": 25220,
-  "2023-09-14": 25344,
-  "2023-09-15": 25476,
-  "2023-09-16": 25565,
-  "2023-09-17": 25665,
-  "2023-09-18": 25791,
-  "2023-09-19": 25946,
-  "2023-09-20": 26039,
-  "2023-09-21": 26194,
-  "2023-09-22": 26321,
-  "2023-09-23": 26438,
-  "2023-09-24": 26528,
-  "2023-09-25": 26658,
-  "2023-09-26": 26811,
-  "2023-09-27": 26874,
-  "2023-09-28": 26988,
-  "2023-09-29": 27088,
-  "2023-09-30": 27183,
-  "2023-10-01": 27278,
-  "2023-10-02": 27372,
-  "2023-10-03": 27467,
-  "2023-10-04": 27592,
-  "2023-10-05": 27698,
-  "2023-10-06": 27774,
-  "2023-10-07": 27847,
-  "2023-10-08": 27916,
-  "2023-10-09": 27985,
-  "2023-10-10": 28076,
-  "2023-10-11": 28231,
-  "2023-10-12": 28231,
-  "2023-10-13": 28295,
-  "2023-10-14": 28380,
-  "2023-10-15": 28447,
-  "2023-10-16": 28516,
-  "2023-10-17": 28610,
-  "2023-10-18": 28679,
-  "2023-10-19": 28741,
-  "2023-10-20": 28806,
-  "2023-10-21": 28874,
-  "2023-10-22": 28924,
-  "2023-10-23": 28980,
-  "2023-10-24": 29052,
-  "2023-10-25": 29099,
-  "2023-10-26": 29158,
-  "2023-10-27": 29210,
-  "2023-10-28": 29210,
-  "2023-10-29": 29295,
-  "2023-10-30": 29356,
-  "2023-10-31": 29356,
-  "2023-11-01": 29469,
-  "2023-11-02": 29515,
-  "2023-11-03": 29549,
-  "2023-11-04": 29594,
-  "2023-11-05": 29635,
-  "2023-11-06": 29697,
-  "2023-11-07": 29763,
-  "2023-11-08": 29827,
-  "2023-11-09": 29890,
-  "2023-11-10": 29937,
-  "2023-11-11": 30005,
-  "2023-11-12": 30055,
-  "2023-11-13": 30120,
-  "2023-11-14": 30188,
-  "2023-11-15": 30188,
-  "2023-11-16": 30318,
-  "2023-11-17": 30407,
-  "2023-11-18": 30407,
-  "2023-11-19": 30466,
-  "2023-11-20": 30531,
-  "2023-11-21": 30594,
-  "2023-11-22": 30649,
-  "2023-11-23": 30690,
-  "2023-11-24": 30690,
-  "2023-11-25": 30761,
-  "2023-11-26": 30838,
-  "2023-11-27": 30886,
-  "2023-11-28": 30946,
-  "2023-11-29": 31071,
-  "2023-11-30": 31071,
-  "2023-12-01": 31133,
-  "2023-12-02": 31189,
-  "2023-12-03": 31246,
-  "2023-12-04": 31310,
-  "2023-12-05": 31359,
-  "2023-12-06": 31428,
-  "2023-12-07": 31502,
-  "2023-12-08": 31557,
-  "2023-12-09": 31608,
-  "2023-12-10": 31669,
-  "2023-12-11": 31725,
-  "2023-12-12": 31790,
-  "2023-12-13": 31850,
-  "2023-12-14": 31923,
-  "2023-12-15": 31950,
-  "2023-12-16": 31999,
-  "2023-12-17": 32045,
-  "2023-12-18": 32092,
-  "2023-12-19": 32133,
-  "2023-12-20": 32178,
-  "2023-12-21": 32223,
-  "2023-12-22": 32268,
-  "2023-12-23": 32314,
-  "2023-12-24": 32363,
-  "2023-12-25": 32399,
-  "2023-12-26": 32438,
-  "2023-12-27": 32484,
-  "2023-12-30": 32611,
-  "2023-12-31": 32673,
-  "2024-01-01": 32698,
-  "2024-01-02": 32756,
-  "2024-01-03": 32806
+  "2024-01-17": 33552,
+  "date_first_scraped": "2023-02-25",
+  "description": "Soothing sounds and vibrations to settle in...",
+  "name": "Crystal Singing Bowls for Sleep",
+  "tracks": [
+    {
+      "album": {
+        "name": "340 H - Crystal Bowl",
+        "url": "https://open.spotify.com/album/3zfg14zFZ9K15G9MddRvYZ"
+      },
+      "artists": [
+        {
+          "name": "Wellness Portal",
+          "url": "https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "340 H - Crystal Bowl",
+      "url": "https://open.spotify.com/track/2hA1rPR79a5rjSbyg51K5X"
+    },
+    {
+      "album": {
+        "name": "340 Hz Crystal Bowl (Sound Bath)",
+        "url": "https://open.spotify.com/album/7ovrUCBeHq6AZm9QROOVQn"
+      },
+      "artists": [
+        {
+          "name": "Aum Pro",
+          "url": "https://open.spotify.com/artist/6sxGvi2ZDbc3zzQGr0u3Bu"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "340 Hz Crystal Bowl (Sound Bath)",
+      "url": "https://open.spotify.com/track/5trb6HdVFr7zQ2FieN1tSo"
+    },
+    {
+      "album": {
+        "name": "Quiet Stars",
+        "url": "https://open.spotify.com/album/7HtP4dHkmBSY6bmEzRUqAg"
+      },
+      "artists": [
+        {
+          "name": "Advaitas",
+          "url": "https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115914,
+      "name": "396 Hz - Quiet Stars",
+      "url": "https://open.spotify.com/track/1nM6lZpHxu1vDB7b0oQtAM"
+    },
+    {
+      "album": {
+        "name": "432 Hz Crystal Bowl",
+        "url": "https://open.spotify.com/album/4swun98t4e747mTtz4qkxg"
+      },
+      "artists": [
+        {
+          "name": "Tibetanian",
+          "url": "https://open.spotify.com/artist/2w4slIer7XY7fDEehJLONJ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "432 Hz Crystal Bowl",
+      "url": "https://open.spotify.com/track/77E3mdW9Yyw2SoSxod4UgG"
+    },
+    {
+      "album": {
+        "name": "432 Hz Sharp Bowl",
+        "url": "https://open.spotify.com/album/2JrmG6JapDVknabbzFtPCG"
+      },
+      "artists": [
+        {
+          "name": "Wangmo Lhamo",
+          "url": "https://open.spotify.com/artist/3dodLXsbBGHho6yKUubQBp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "432 Hz Sharp Bowl",
+      "url": "https://open.spotify.com/track/4yZvt2kZM3WLs5NrR5fwP2"
+    },
+    {
+      "album": {
+        "name": "Baby Sleep Bowl (Rivers & Creeks)",
+        "url": "https://open.spotify.com/album/2nt9ATyTtEKCymqnkbdKoD"
+      },
+      "artists": [
+        {
+          "name": "Kristina Loveflower",
+          "url": "https://open.spotify.com/artist/0DksfCfY3vEEIgwBRlmNkp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "432 Hz Sharp Bowl - Rivers & Creeks",
+      "url": "https://open.spotify.com/track/46t2E9jYF9cGwo07HTxXOk"
+    },
+    {
+      "album": {
+        "name": "Alpha bowls 10hz",
+        "url": "https://open.spotify.com/album/0sKl2EuUpiTvxLZhXTWzZ5"
+      },
+      "artists": [
+        {
+          "name": "Dream WIzard",
+          "url": "https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Alpha bowls 10hz",
+      "url": "https://open.spotify.com/track/0fuhECv0YvMEBtx2AN7Vm7"
+    },
+    {
+      "album": {
+        "name": "Before Sunrise",
+        "url": "https://open.spotify.com/album/7s07QhYbfveHtORoHGGnr0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Nieminen",
+          "url": "https://open.spotify.com/artist/6NNzUhgjyPoZBtFy3VtqK7"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267750,
+      "name": "Before Sunrise",
+      "url": "https://open.spotify.com/track/2cYp7CBDKMhyEwUgFzXUw5"
+    },
+    {
+      "album": {
+        "name": "Bowls & Beat Sync",
+        "url": "https://open.spotify.com/album/4oERJRSmD1YuIAg3NfSrVE"
+      },
+      "artists": [
+        {
+          "name": "Endorphin Rush",
+          "url": "https://open.spotify.com/artist/0FLOOV2AD3QNUt2nLsU6pR"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184598,
+      "name": "Bowls & Beat Sync",
+      "url": "https://open.spotify.com/track/0d3eeQXiOyh1tDYsFkREyB"
+    },
+    {
+      "album": {
+        "name": "Cacophony A432",
+        "url": "https://open.spotify.com/album/2sict1ksexBHINmD0zIL5T"
+      },
+      "artists": [
+        {
+          "name": "Natural Tuning",
+          "url": "https://open.spotify.com/artist/0db3whzEc8o8hAIp7Q9wp5"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220111,
+      "name": "Cacophony A432",
+      "url": "https://open.spotify.com/track/4UUY9ZUYBzZiFsYbfxXeki"
+    },
+    {
+      "album": {
+        "name": "Meditation Sounds",
+        "url": "https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20"
+      },
+      "artists": [
+        {
+          "name": "EXOPIRS",
+          "url": "https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184723,
+      "name": "Chakra Healing Bowl (Sound Bath)",
+      "url": "https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG"
+    },
+    {
+      "album": {
+        "name": "Circling Air",
+        "url": "https://open.spotify.com/album/09FSu0e52Cf4O8BxAnHWrp"
+      },
+      "artists": [
+        {
+          "name": "Three Jewels",
+          "url": "https://open.spotify.com/artist/1uSV6zmPoVgtt7WZ7oEvYA"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Circling Air",
+      "url": "https://open.spotify.com/track/4eGV3x6oFODltbqTKOjzP3"
+    },
+    {
+      "album": {
+        "name": "Sacred Healing",
+        "url": "https://open.spotify.com/album/4QLBC4WpLRzrYLFzt52ZuP"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Arroway",
+          "url": "https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Cleansing (417 Hz)",
+      "url": "https://open.spotify.com/track/2fTtAEx3nJjz2hZsGUWbp9"
+    },
+    {
+      "album": {
+        "name": "Cosmic Bowl Sounds",
+        "url": "https://open.spotify.com/album/0ZveSVeUjBAMQS2CpVBNkD"
+      },
+      "artists": [
+        {
+          "name": "Everglades",
+          "url": "https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185716,
+      "name": "Cosmic Bowl Sounds",
+      "url": "https://open.spotify.com/track/6G3WPRoYrty6I4UfYUuqjs"
+    },
+    {
+      "album": {
+        "name": "Chakra Healing Crystal Bowls",
+        "url": "https://open.spotify.com/album/05JU1kP1IlHuw8EDtzNzb5"
+      },
+      "artists": [
+        {
+          "name": "Picturesque Sound",
+          "url": "https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195463,
+      "name": "Crown Chakra Peace",
+      "url": "https://open.spotify.com/track/3S5MSpRE7d1Q0QniLAvACO"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowl",
+        "url": "https://open.spotify.com/album/396hWZSFCkjPOr93k4aatg"
+      },
+      "artists": [
+        {
+          "name": "Voz Cristal",
+          "url": "https://open.spotify.com/artist/0hhAuaCqqItxB9wzqDeWhw"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181487,
+      "name": "Crystal Bowl",
+      "url": "https://open.spotify.com/track/1MDmrmYQFYLMaxan60iMmL"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowl & Shamanic Shells",
+        "url": "https://open.spotify.com/album/448uGKK2wcs9EXl8NX8KMO"
+      },
+      "artists": [
+        {
+          "name": "Crystal Relaxations",
+          "url": "https://open.spotify.com/artist/2fOp9yWKqkoEaLevqSKkHi"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268561,
+      "name": "Crystal Bowl & Shamanic Shells",
+      "url": "https://open.spotify.com/track/3htZk2uZHjlkRhlaqaM3d8"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowl 310 Hz",
+        "url": "https://open.spotify.com/album/4yIicYVSlrQdsibqXxgGIr"
+      },
+      "artists": [
+        {
+          "name": "Pedro Caceres",
+          "url": "https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Crystal Bowl 310 Hz",
+      "url": "https://open.spotify.com/track/177Z1WYwEvOKm6uDVYOPT4"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowl Dream",
+        "url": "https://open.spotify.com/album/6Bo4QllINweqhoOyn90NtA"
+      },
+      "artists": [
+        {
+          "name": "iD8",
+          "url": "https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Crystal Bowl Dream",
+      "url": "https://open.spotify.com/track/0f8DS6g7JIPQMzaONezO4g"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowl Frequencies",
+        "url": "https://open.spotify.com/album/1003TZvmVPWaDjSjY7NCdM"
+      },
+      "artists": [
+        {
+          "name": "Elof Sunflower",
+          "url": "https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Crystal Bowl Frequencies",
+      "url": "https://open.spotify.com/track/6d9J5KjEOV5yYkcZWBssnv"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowl Hit & Swell",
+        "url": "https://open.spotify.com/album/7CU51tL2ui1Q1rBUL55q7F"
+      },
+      "artists": [
+        {
+          "name": "iD8",
+          "url": "https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Crystal Bowl Hit & Swell",
+      "url": "https://open.spotify.com/track/79Jb022JAy6zMD52EIgwO9"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowl Tranquility",
+        "url": "https://open.spotify.com/album/2eOJnGIAQA6NkUUDdE4NWQ"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Crystal Bowl Soundbath (with Rain)",
+      "url": "https://open.spotify.com/track/6N5SUIWEXiyBTE4WEDZ8AG"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowl Hit & Swell",
+        "url": "https://open.spotify.com/album/7CU51tL2ui1Q1rBUL55q7F"
+      },
+      "artists": [
+        {
+          "name": "iD8",
+          "url": "https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Crystal Bowl Tones",
+      "url": "https://open.spotify.com/track/5Eo0AYZmNc3QiS905rxBKe"
+    },
+    {
+      "album": {
+        "name": "Baby Sleep Bowl (Rivers & Creeks)",
+        "url": "https://open.spotify.com/album/2nt9ATyTtEKCymqnkbdKoD"
+      },
+      "artists": [
+        {
+          "name": "Kristina Loveflower",
+          "url": "https://open.spotify.com/artist/0DksfCfY3vEEIgwBRlmNkp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "D E F Sharp Bowl - Rivers & Creeks",
+      "url": "https://open.spotify.com/track/4m77sJnHAWNNs4Ed1iUBQC"
+    },
+    {
+      "album": {
+        "name": "Deep Crystal Bowl Sound",
+        "url": "https://open.spotify.com/album/1hwTh930aVfP3LZpaT2qvI"
+      },
+      "artists": [
+        {
+          "name": "Sahlene Williams",
+          "url": "https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Deep Crystal Bowl Sound",
+      "url": "https://open.spotify.com/track/2wCfgjo7HokxLKhlayV4E6"
+    },
+    {
+      "album": {
+        "name": "Meditative Garden",
+        "url": "https://open.spotify.com/album/5TUz2OzC9QstVk5C3bMYyv"
+      },
+      "artists": [
+        {
+          "name": "Healing Potion",
+          "url": "https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202206,
+      "name": "Deep Within",
+      "url": "https://open.spotify.com/track/3OeWBahx1Q1QRNyovUtsNN"
+    },
+    {
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/3UG51jaBaJ1ylORsICu3eg"
+      },
+      "artists": [
+        {
+          "name": "Self Lovers",
+          "url": "https://open.spotify.com/artist/0xSZkXuemR32ESBfNTw5CC"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Dharma Tibetan Bowl (Sound Bath)",
+      "url": "https://open.spotify.com/track/2KlUpKBLSijKL3ZCHwWtCB"
+    },
+    {
+      "album": {
+        "name": "Namaste",
+        "url": "https://open.spotify.com/album/3M7xLE04DvF9sM9gnTBPdY"
+      },
+      "artists": [
+        {
+          "name": "Sat-Chit",
+          "url": "https://open.spotify.com/artist/4Cru1k3r3v36wCWfcJMK2y"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366000,
+      "name": "El Templo \u2022 432 Hz",
+      "url": "https://open.spotify.com/track/4iSYPblMS4IVq6Ec3F2C48"
+    },
+    {
+      "album": {
+        "name": "Relaxing Tibetan Bowls",
+        "url": "https://open.spotify.com/album/0YxSxTbuVd8T3NFa4kotBZ"
+      },
+      "artists": [
+        {
+          "name": "Smooth Meditation Bowls",
+          "url": "https://open.spotify.com/artist/14mVKwmaklKARGbeuuudC7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62023,
+      "name": "Enjoyable Bowls for Mind Focus",
+      "url": "https://open.spotify.com/track/03YPsqCbuP65rHYHFYoWNh"
+    },
+    {
+      "album": {
+        "name": "Equipoise",
+        "url": "https://open.spotify.com/album/3ZbKVAGQCVGvLtjKz71txP"
+      },
+      "artists": [
+        {
+          "name": "Everlights",
+          "url": "https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180857,
+      "name": "Equipoise",
+      "url": "https://open.spotify.com/track/612NwtubGzCA41IJRpYZJh"
+    },
+    {
+      "album": {
+        "name": "Singing Bowls",
+        "url": "https://open.spotify.com/album/6fsshu03QNMFvD5UUbD123"
+      },
+      "artists": [
+        {
+          "name": "Tales of the Monk",
+          "url": "https://open.spotify.com/artist/0Re4A8cte2gZ2fDKTdxD03"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170750,
+      "name": "Floating Bowls",
+      "url": "https://open.spotify.com/track/2TCsXa4vNwuk1qClUmn5nY"
+    },
+    {
+      "album": {
+        "name": "Relaxing Tibetan Bowls",
+        "url": "https://open.spotify.com/album/0YxSxTbuVd8T3NFa4kotBZ"
+      },
+      "artists": [
+        {
+          "name": "Smooth Meditation Bowls",
+          "url": "https://open.spotify.com/artist/14mVKwmaklKARGbeuuudC7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66002,
+      "name": "Gentle Meditation Existence with Bowls Control",
+      "url": "https://open.spotify.com/track/4ECIEYblbD8sLFnC1BgHV4"
+    },
+    {
+      "album": {
+        "name": "Golden water",
+        "url": "https://open.spotify.com/album/6HPawn1FQT3f9mfIQVgpdn"
+      },
+      "artists": [
+        {
+          "name": "Afar Lux",
+          "url": "https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Golden water",
+      "url": "https://open.spotify.com/track/31xrniztiGG2ogmYNSlAzH"
+    },
+    {
+      "album": {
+        "name": "Gotas y cuencos de cuarzo",
+        "url": "https://open.spotify.com/album/6JvcnqO2qRFsIl8g8JpvPz"
+      },
+      "artists": [
+        {
+          "name": "Oriqi Soundhealing",
+          "url": "https://open.spotify.com/artist/04CPMYxePrUcNhtu2kX91q"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Gotas y cuencos de cuarzo",
+      "url": "https://open.spotify.com/track/7vIOggIr837ocFBosnqJtY"
+    },
+    {
+      "album": {
+        "name": "Intentional Impact",
+        "url": "https://open.spotify.com/album/6nuc9pLSPyY5gJ0XOU8t6L"
+      },
+      "artists": [
+        {
+          "name": "Intentional Vibes",
+          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Heal (417 Hz)",
+      "url": "https://open.spotify.com/track/6DPJLtFHtCImIfLBLNCL1j"
+    },
+    {
+      "album": {
+        "name": "Healing Bowl Meditation",
+        "url": "https://open.spotify.com/album/0TWoAqIzn8AzbewrNelTIW"
+      },
+      "artists": [
+        {
+          "name": "Now & Anatma",
+          "url": "https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Healing Bowl Meditation",
+      "url": "https://open.spotify.com/track/57V9F3ty7ps7Gh7m76BEie"
+    },
+    {
+      "album": {
+        "name": "Spiritual Sounds",
+        "url": "https://open.spotify.com/album/7v9NZZBD7LTDNygTnTIgkT"
+      },
+      "artists": [
+        {
+          "name": "Kayce Laine",
+          "url": "https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161843,
+      "name": "Healing Sound Bath",
+      "url": "https://open.spotify.com/track/5hrfFPvIzsRiY6Hg2T9ZeY"
+    },
+    {
+      "album": {
+        "name": "Heavenly Harmony",
+        "url": "https://open.spotify.com/album/0UNyqJLmNwlDwb5IxXaGeo"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Heavenly Harmony",
+      "url": "https://open.spotify.com/track/51HmqenuPlvudo20PcSxqB"
+    },
+    {
+      "album": {
+        "name": "Herinneringen (Sound Bath)",
+        "url": "https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru"
+      },
+      "artists": [
+        {
+          "name": "Sohn Aelia",
+          "url": "https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182759,
+      "name": "Herinneringen (Sound Bath)",
+      "url": "https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp"
+    },
+    {
+      "album": {
+        "name": "Frame of Frequencies",
+        "url": "https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229859,
+      "name": "Instincts 528 Hz",
+      "url": "https://open.spotify.com/track/0Zhgcle6jS4c3q046sGnPU"
+    },
+    {
+      "album": {
+        "name": "Dakpa Nepali",
+        "url": "https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT"
+      },
+      "artists": [
+        {
+          "name": "Dakpa Nepali",
+          "url": "https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Lamrim (Sound Bath)",
+      "url": "https://open.spotify.com/track/4SntEk9w1JNvIgiAShAKc0"
+    },
+    {
+      "album": {
+        "name": "Mind Balance Soundbath",
+        "url": "https://open.spotify.com/album/4g32jjcR70RDKYwCr2skD1"
+      },
+      "artists": [
+        {
+          "name": "Sound of Muses",
+          "url": "https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173248,
+      "name": "Mind Balance Soundbath",
+      "url": "https://open.spotify.com/track/2heKEPVkDUFTE8GSCyY3v4"
+    },
+    {
+      "album": {
+        "name": "Meditation Bowls",
+        "url": "https://open.spotify.com/album/6Jxjl9oi2NcmWSYnr0BmQl"
+      },
+      "artists": [
+        {
+          "name": "Meditators",
+          "url": "https://open.spotify.com/artist/35qLVQ5G13Moug3HQcf90C"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Mixed Meditation Bowl Sounds (Sound Bath)",
+      "url": "https://open.spotify.com/track/7kzsjfIiCZLTxKlOwmUpZU"
+    },
+    {
+      "album": {
+        "name": "Moon Attraction",
+        "url": "https://open.spotify.com/album/5l4HEEPL5cxlYnibbsQphB"
+      },
+      "artists": [
+        {
+          "name": "Suraj Ives",
+          "url": "https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152051,
+      "name": "Moon Attraction (432 Hz)",
+      "url": "https://open.spotify.com/track/2ZElMcc6WmB8pkGyeEJ58o"
+    },
+    {
+      "album": {
+        "name": "Mountain Bowls 432 Hz",
+        "url": "https://open.spotify.com/album/4t5FIf53mao4sBGNtTl3Rj"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Master",
+          "url": "https://open.spotify.com/artist/72TBf7KYpR1sRPLf5YW4u4"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119029,
+      "name": "Mountain Bowls 432 Hz",
+      "url": "https://open.spotify.com/track/1PTKjMXNncH3LRTu5MjGj9"
+    },
+    {
+      "album": {
+        "name": "Newcomer",
+        "url": "https://open.spotify.com/album/5F7VR2yDkEHPrTKDxWCMty"
+      },
+      "artists": [
+        {
+          "name": "Elmau Dunkel",
+          "url": "https://open.spotify.com/artist/6mzee09oEU916FziuofHI8"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290667,
+      "name": "Newcomer",
+      "url": "https://open.spotify.com/track/1WSEWYFryvia9ORsrxdZWj"
+    },
+    {
+      "album": {
+        "name": "Northern Lights (432 Hz)",
+        "url": "https://open.spotify.com/album/3dD6gBDfm1P2nOKo8DVzjp"
+      },
+      "artists": [
+        {
+          "name": "Atmosferion",
+          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208292,
+      "name": "Northern Lights (432 Hz)",
+      "url": "https://open.spotify.com/track/0WPfTE1oDpabffha6ib2We"
+    },
+    {
+      "album": {
+        "name": "Light and Vibration",
+        "url": "https://open.spotify.com/album/0BuTMBr9X9c6lc4VcMEDfW"
+      },
+      "artists": [
+        {
+          "name": "Sonic Xaman",
+          "url": "https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Open The Heart Chakra",
+      "url": "https://open.spotify.com/track/5Bptf1SqoUEmJ5YZnExvTf"
+    },
+    {
+      "album": {
+        "name": "Place to rest",
+        "url": "https://open.spotify.com/album/5uyPLvnu3CnZLFjUKTQ8TA"
+      },
+      "artists": [
+        {
+          "name": "Himalayan Meditation",
+          "url": "https://open.spotify.com/artist/2XMxTDifaHaXbbKHC1AmvH"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180870,
+      "name": "Place to rest",
+      "url": "https://open.spotify.com/track/7IBYtHBUBCHzKfl5hcojdq"
+    },
+    {
+      "album": {
+        "name": "Tibetan Morning",
+        "url": "https://open.spotify.com/album/7KRfVQzaJDGKXHvPLCQfDI"
+      },
+      "artists": [
+        {
+          "name": "Aum Pro",
+          "url": "https://open.spotify.com/artist/6sxGvi2ZDbc3zzQGr0u3Bu"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Positivity (Sound Bath)",
+      "url": "https://open.spotify.com/track/6rNNLUeCMGpAbMqlZBKXpK"
+    },
+    {
+      "album": {
+        "name": "Crystal Sound Bath Sanctuary",
+        "url": "https://open.spotify.com/album/0F9ckcZjOUN0mvg1tU2yil"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201688,
+      "name": "Reconstructed Awareness",
+      "url": "https://open.spotify.com/track/73WNAKlfOq84UK7pgSQs1p"
+    },
+    {
+      "album": {
+        "name": "741 Hz Attunement",
+        "url": "https://open.spotify.com/album/1ELYDuAZSJ0HmdpSjgWURC"
+      },
+      "artists": [
+        {
+          "name": "Magnapinna",
+          "url": "https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209737,
+      "name": "Resonant Heart",
+      "url": "https://open.spotify.com/track/0XtXGssTZzO9YyHsCyFA4L"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowls for Meditation (Rivers & Creeks)",
+        "url": "https://open.spotify.com/album/13uzcrAviSel5HR9vCRKiP"
+      },
+      "artists": [
+        {
+          "name": "Wellness Portal",
+          "url": "https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Sacral Chakra - Rivers & Creeks",
+      "url": "https://open.spotify.com/track/5eFmrcIIFUPJoXVN5SXjHl"
+    },
+    {
+      "album": {
+        "name": "Healing Bowl Meditation",
+        "url": "https://open.spotify.com/album/0TWoAqIzn8AzbewrNelTIW"
+      },
+      "artists": [
+        {
+          "name": "Now & Anatma",
+          "url": "https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123078,
+      "name": "Singing Bowl Sunrise",
+      "url": "https://open.spotify.com/track/0qVSB7iOzb5IZQUqyAU7GG"
+    },
+    {
+      "album": {
+        "name": "Meditative Crystal",
+        "url": "https://open.spotify.com/album/1K6od3RmJnR6XSW4yYvLW8"
+      },
+      "artists": [
+        {
+          "name": "Zen Gaya",
+          "url": "https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Singing Crystal 432 Hz",
+      "url": "https://open.spotify.com/track/33o3GxEfZkx76sQAvcQiZs"
+    },
+    {
+      "album": {
+        "name": "Sleep Meditation Crystal Bowl",
+        "url": "https://open.spotify.com/album/2hMhXbAN4ePJyWEK8O8yDB"
+      },
+      "artists": [
+        {
+          "name": "Mindful Eclipse",
+          "url": "https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Sleep Meditation Crystal Bowl",
+      "url": "https://open.spotify.com/track/1SB2AzT7daTdCKFlWxNxyM"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowls & Gong",
+        "url": "https://open.spotify.com/album/0qSnXtV66sT0o2GpqwMvBi"
+      },
+      "artists": [
+        {
+          "name": "Dhy\u0101na One",
+          "url": "https://open.spotify.com/artist/0UFdIjW2UB80v8wuOMUrYC"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Smooth Crystal Bowl",
+      "url": "https://open.spotify.com/track/3g7QSa67wr6YtSEPGrYLAG"
+    },
+    {
+      "album": {
+        "name": "Solfy Bowl 417 Hz",
+        "url": "https://open.spotify.com/album/4CEdgJ8EIkCvTPpU4xdzhr"
+      },
+      "artists": [
+        {
+          "name": "Drone-Dax",
+          "url": "https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "Solfy Bowl 417 Hz",
+      "url": "https://open.spotify.com/track/4OB3iTixrzXfxO6FNMrXYu"
+    },
+    {
+      "album": {
+        "name": "Soothing Bell Waves",
+        "url": "https://open.spotify.com/album/43gBqW4xcoATOChgqNPl8U"
+      },
+      "artists": [
+        {
+          "name": "Altered Source",
+          "url": "https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229800,
+      "name": "Soothing Bell Waves",
+      "url": "https://open.spotify.com/track/02l1QkI7CQS54MSY8jf9df"
+    },
+    {
+      "album": {
+        "name": "Soul Shower",
+        "url": "https://open.spotify.com/album/7c7bUDAMlzqPhgtyr6FL0V"
+      },
+      "artists": [
+        {
+          "name": "Larrek",
+          "url": "https://open.spotify.com/artist/6VFekblOut967g4jD8w46E"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212805,
+      "name": "Soul Shower",
+      "url": "https://open.spotify.com/track/3RCLYLBaVc2vSjSof1phdk"
+    },
+    {
+      "album": {
+        "name": "Sound Bath Bowl 300 Hz",
+        "url": "https://open.spotify.com/album/1HgNBELL9GcwS6Q8IcGGVX"
+      },
+      "artists": [
+        {
+          "name": "Tibetanian",
+          "url": "https://open.spotify.com/artist/2w4slIer7XY7fDEehJLONJ"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sound Bath Bowl 300 Hz",
+      "url": "https://open.spotify.com/track/34Rd6BlvqQqo0BbmI51UeP"
+    },
+    {
+      "album": {
+        "name": "Zen Gaya",
+        "url": "https://open.spotify.com/album/2jGEItbwzeGSiVvU9lfKnf"
+      },
+      "artists": [
+        {
+          "name": "Zen Gaya",
+          "url": "https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Sound of Sarvastivada (Sound Bath)",
+      "url": "https://open.spotify.com/track/5WnYwONaiD9U262drLfcLv"
+    },
+    {
+      "album": {
+        "name": "Soundbath - Crystal Bowls",
+        "url": "https://open.spotify.com/album/6tY4heyR4sEJAX5Hp3ih8P"
+      },
+      "artists": [
+        {
+          "name": "Dakpa Nepali",
+          "url": "https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175347,
+      "name": "Soundbath - Pad",
+      "url": "https://open.spotify.com/track/128kpvDRsmJKqlqQyCBFGk"
+    },
+    {
+      "album": {
+        "name": "Spirit sparks",
+        "url": "https://open.spotify.com/album/4J4EBQorQAiTFLEYslJ4uv"
+      },
+      "artists": [
+        {
+          "name": "Afar Lux",
+          "url": "https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179624,
+      "name": "Spirit sparks",
+      "url": "https://open.spotify.com/track/3BhHwX1YCt0zCeExO4iDGK"
+    },
+    {
+      "album": {
+        "name": "The Sound of Crystal",
+        "url": "https://open.spotify.com/album/0znq1XYIBUMz4vcle9glWP"
+      },
+      "artists": [
+        {
+          "name": "Laksmi Sand",
+          "url": "https://open.spotify.com/artist/7H5gwCLGNCQ8guLmXFdoJy"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "The Sound of Crystal",
+      "url": "https://open.spotify.com/track/2C0YVGbIt2YyoRaugjHEpV"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/74OsPzLQSWP6P30HDjrHcM"
+      },
+      "artists": [
+        {
+          "name": "Soul Elevation",
+          "url": "https://open.spotify.com/artist/33uRqE15Wfnc0rnvEkhTKw"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Tibetan Healing Sound (Sound Bath)",
+      "url": "https://open.spotify.com/track/5K8lW44qS3mAmXPUBjlE1N"
+    },
+    {
+      "album": {
+        "name": "Urstand 936 Hz",
+        "url": "https://open.spotify.com/album/5Vwq5vKOdhSxkgAZiLY9tR"
+      },
+      "artists": [
+        {
+          "name": "Tales of the Monk",
+          "url": "https://open.spotify.com/artist/0Re4A8cte2gZ2fDKTdxD03"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153124,
+      "name": "Urstand 936 Hz",
+      "url": "https://open.spotify.com/track/3gJKF37mgMZoM3gOz3LuQB"
+    },
+    {
+      "album": {
+        "name": "Mindful Meditation",
+        "url": "https://open.spotify.com/album/1RkIzOVRLMe6VJezRD32c6"
+      },
+      "artists": [
+        {
+          "name": "Elof Sunflower",
+          "url": "https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092e\u094d (Sound Bath)",
+      "url": "https://open.spotify.com/track/36yfMAlr2nCwrQnFhWkFTx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8DvHz72854o"
 }

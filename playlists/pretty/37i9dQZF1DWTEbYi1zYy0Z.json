@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 58127,
+  "num_followers": 58644,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTdkMWE2YjViY2QyYTA3ODZjYWEyNWZlZWY1OWNmMWFlNDMyOTI4",
+  "snapshot_id": "MCwwZjkyZGFlYjkzMDRhOWRhOWFhZmMwMDQ5ZjJmMjA3YjY1MWNkZmU3",
   "tracks": [
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "She's the One",
+        "url": "https://open.spotify.com/album/5d3BymfR4DxduPx2cCCMYl"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 258144,
+      "name": "She's the One",
+      "url": "https://open.spotify.com/track/7boFERPF09XcIqpT3PnYAt"
+    },
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
@@ -23,6 +39,34 @@
       "duration_ms": 706580,
       "name": "Summer Groove",
       "url": "https://open.spotify.com/track/4SMExf2UAgf4k3jZDjelHL"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "The Midnight Hour",
+        "url": "https://open.spotify.com/album/61ab02LuWOgobf26KFTzNt"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Kenny McNeil",
+          "url": "https://open.spotify.com/artist/2f4y9aaQv5kxA2xDdsXGEg"
+        },
+        {
+          "name": "Sami Turunen",
+          "url": "https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO"
+        },
+        {
+          "name": "Cord Martin",
+          "url": "https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx"
+        }
+      ],
+      "duration_ms": 300331,
+      "name": "The Midnight Hour",
+      "url": "https://open.spotify.com/track/3jqojVnh48SfXj2habMRC3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -141,6 +185,22 @@
       "url": "https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS"
     },
     {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Pocket Change",
+        "url": "https://open.spotify.com/album/5TSjBEXc9N8wFHUigfIjxx"
+      },
+      "artists": [
+        {
+          "name": "D.S. Wilson",
+          "url": "https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO"
+        }
+      ],
+      "duration_ms": 243073,
+      "name": "Pocket Change",
+      "url": "https://open.spotify.com/track/20snJJndKSSbLElgCXgdIe"
+    },
+    {
       "added_at": "2023-11-10 05:01:00",
       "album": {
         "name": "Lullaby Tres",
@@ -207,30 +267,6 @@
       "duration_ms": 273500,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Victoria Falls",
-        "url": "https://open.spotify.com/album/3fYI1OMxP4ZkBRfklrnVWg"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shell",
-          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
-        },
-        {
-          "name": "Douglas Lira",
-          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
-        },
-        {
-          "name": "Angie Nicole",
-          "url": "https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws"
-        }
-      ],
-      "duration_ms": 318578,
-      "name": "Victoria Falls",
-      "url": "https://open.spotify.com/track/5bMOMAvO7ZgE3Nqij4plFk"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1335,7 +1371,7 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Breakthrough (Radio Version)",
+        "name": "Breakthrough",
         "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
       },
       "artists": [
@@ -1345,7 +1381,7 @@
         }
       ],
       "duration_ms": 252877,
-      "name": "Breakthrough - Radio Version",
+      "name": "Breakthrough",
       "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
     },
     {
@@ -1537,22 +1573,6 @@
       "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Good On You",
-        "url": "https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 251432,
-      "name": "Good On You",
-      "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Donut Jam",
@@ -1583,22 +1603,6 @@
       "duration_ms": 231509,
       "name": "In His Vision",
       "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Big Bounce (Radio Edit)",
-        "url": "https://open.spotify.com/album/2mgYJZ25KAcK71giR7cV7s"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 218421,
-      "name": "Big Bounce - Radio Edit",
-      "url": "https://open.spotify.com/track/65dlj118kna1m12fW40VYE"
     },
     {
       "added_at": "2023-04-14 04:01:00",

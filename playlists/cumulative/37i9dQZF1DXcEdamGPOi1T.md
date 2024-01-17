@@ -4,11 +4,12 @@
 
 > De la vitamine D en musique!
 
-308 songs - 16 hr 29 min
+309 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+ La vie](https://open.spotify.com/track/6UWcp6ASpVIvUWX5eZMtp2) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [+ La vie](https://open.spotify.com/album/0apX9070waecOi5Fp1YWIo) | 3:49 | 2022-05-27 | 2022-06-23 |
+| [1+1](https://open.spotify.com/track/3WID8m6M9eEQ1w1k486vMc) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [1+1](https://open.spotify.com/album/7cP06bf7dmkZN52CEaoz4a) | 3:36 | 2024-01-16 |  |
 | [1+1 \(feat\. Amir\) \- Banx & Ranx Remix](https://open.spotify.com/track/1OWLQ4FQrO13w6ssWgP8tk) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [1+1 \(feat\. Amir\) \[Banx & Ranx Remix\]](https://open.spotify.com/album/6FsQVRlDW4YyTRtGMQrST7) | 3:16 | 2022-05-27 | 2022-07-29 |
 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-07-01 | 2023-04-09 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-04-07 |  |
@@ -205,7 +206,7 @@
 | [On ira](https://open.spotify.com/track/3V6h6WqheHEvSMyYJEdw3Y) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:22 | 2022-05-27 | 2023-04-09 |
 | [On s'aimera toujours](https://open.spotify.com/track/76Ef208V2nkxvbvs7pzKdA) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [On s'aimera toujours](https://open.spotify.com/album/22Chd1Dy935MCU987LAZrm) | 3:28 | 2022-05-27 | 2022-07-29 |
 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 | 2023-04-07 | 2023-05-27 |
-| [ON THE LOW](https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [ON THE LOW](https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A) | 2:37 | 2023-09-15 |  |
+| [ON THE LOW](https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [ON THE LOW](https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A) | 2:37 | 2023-09-15 | 2024-01-17 |
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2022-07-26 |  |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-07-26 |  |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2022-05-27 | 2023-07-02 |

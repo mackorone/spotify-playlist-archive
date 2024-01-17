@@ -405,6 +405,66 @@
     },
     {
       "album": {
+        "name": "L\u00e1 na Quebrada",
+        "url": "https://open.spotify.com/album/3963cMjeQJL3N278ax8twb"
+      },
+      "artists": [
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "L\u00e1 na Quebrada",
+      "url": "https://open.spotify.com/track/30rKkDORVEkgrUTPKMoqfK"
+    },
+    {
+      "album": {
+        "name": "Bivolt",
+        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 208000,
+      "name": "Mary End",
+      "url": "https://open.spotify.com/track/05IJD2tXhyTzcwWiNGVutB"
+    },
+    {
+      "album": {
         "name": "Bivolt",
         "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
       },
@@ -420,6 +480,28 @@
       "duration_ms": 206000,
       "name": "Me Salva",
       "url": "https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv"
+    },
+    {
+      "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 143485,
+      "name": "Melhor da Vida",
+      "url": "https://open.spotify.com/track/2yU6aVrosiFWiLj2VfzrEn"
     },
     {
       "album": {
@@ -910,7 +992,7 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "J\u00e9 Santiago",
+          "name": "J\u00e9",
           "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
         }
       ],
@@ -990,7 +1072,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 197151,
       "name": "Vidaloca",
       "url": "https://open.spotify.com/track/1FTrDJp6ykcw9WTib7pi9v"
@@ -1008,7 +1090,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 208747,
       "name": "Vista Loka",
       "url": "https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8"

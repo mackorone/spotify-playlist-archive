@@ -1,716 +1,1651 @@
 {
-  "2022-01-12": 221995,
-  "2022-01-13": 222662,
-  "2022-01-14": 222817,
-  "2022-01-15": 223021,
-  "2022-01-16": 223023,
-  "2022-01-17": 223096,
-  "2022-01-18": 223099,
-  "2022-01-19": 223130,
-  "2022-01-20": 223156,
-  "2022-01-21": 223192,
-  "2022-01-22": 223227,
-  "2022-01-23": 223264,
-  "2022-01-24": 223290,
-  "2022-01-25": 223310,
-  "2022-01-26": 223349,
-  "2022-01-27": 223402,
-  "2022-01-28": 223459,
-  "2022-01-29": 223495,
-  "2022-01-30": 223531,
-  "2022-01-31": 223575,
-  "2022-02-01": 223626,
-  "2022-02-02": 223680,
-  "2022-02-03": 223715,
-  "2022-02-04": 223777,
-  "2022-02-05": 223824,
-  "2022-02-06": 223898,
-  "2022-02-07": 223956,
-  "2022-02-08": 224006,
-  "2022-02-09": 224057,
-  "2022-02-10": 224077,
-  "2022-02-11": 224127,
-  "2022-02-12": 224178,
-  "2022-02-13": 224238,
-  "2022-02-14": 224288,
-  "2022-02-15": 224308,
-  "2022-02-16": 224324,
-  "2022-02-17": 224363,
-  "2022-02-18": 224408,
-  "2022-02-19": 224441,
-  "2022-02-20": 224502,
-  "2022-02-21": 224550,
-  "2022-02-22": 224596,
-  "2022-02-23": 224614,
-  "2022-02-24": 224638,
-  "2022-02-25": 224674,
-  "2022-02-26": 224724,
-  "2022-02-27": 224812,
-  "2022-02-28": 224812,
-  "2022-03-01": 224845,
-  "2022-03-02": 224879,
-  "2022-03-03": 224903,
-  "2022-03-04": 224931,
-  "2022-03-05": 224969,
-  "2022-03-06": 225003,
-  "2022-03-07": 225054,
-  "2022-03-08": 225084,
-  "2022-03-09": 225118,
-  "2022-03-10": 225165,
-  "2022-03-11": 225276,
-  "2022-03-12": 225411,
-  "2022-03-13": 225512,
-  "2022-03-14": 225617,
-  "2022-03-15": 225703,
-  "2022-03-16": 225791,
-  "2022-03-17": 225874,
-  "2022-03-18": 225980,
-  "2022-03-19": 226069,
-  "2022-03-20": 226069,
-  "2022-03-21": 226218,
-  "2022-03-22": 226274,
-  "2022-03-23": 226353,
-  "2022-03-24": 226434,
-  "2022-03-25": 226520,
-  "2022-03-26": 226606,
-  "2022-03-27": 226694,
-  "2022-03-28": 226760,
-  "2022-03-30": 226854,
-  "2022-03-31": 226933,
-  "2022-04-01": 227011,
-  "2022-04-02": 227073,
-  "2022-04-03": 227158,
-  "2022-04-04": 227213,
-  "2022-04-05": 227277,
-  "2022-04-06": 227341,
-  "2022-04-07": 227427,
-  "2022-04-08": 227505,
-  "2022-04-09": 227570,
-  "2022-04-10": 227704,
-  "2022-04-11": 227786,
-  "2022-04-12": 227793,
-  "2022-04-13": 227847,
-  "2022-04-14": 227923,
-  "2022-04-15": 227979,
-  "2022-04-16": 228049,
-  "2022-04-17": 228120,
-  "2022-04-18": 228197,
-  "2022-04-19": 228238,
-  "2022-04-20": 228314,
-  "2022-04-21": 228388,
-  "2022-04-22": 228440,
-  "2022-04-23": 228513,
-  "2022-04-24": 228597,
-  "2022-04-25": 228656,
-  "2022-04-26": 228706,
-  "2022-04-27": 228788,
-  "2022-04-28": 228875,
-  "2022-04-29": 229008,
-  "2022-04-30": 229102,
-  "2022-05-01": 229198,
-  "2022-05-02": 229198,
-  "2022-05-03": 229251,
-  "2022-05-04": 229317,
-  "2022-05-05": 229401,
-  "2022-05-06": 229486,
-  "2022-05-07": 229590,
-  "2022-05-08": 229723,
-  "2022-05-09": 229736,
-  "2022-05-10": 229800,
-  "2022-05-11": 229947,
-  "2022-05-12": 230209,
-  "2022-05-13": 230429,
-  "2022-05-14": 230661,
-  "2022-05-15": 230821,
-  "2022-05-16": 230977,
-  "2022-05-17": 231117,
-  "2022-05-18": 231236,
-  "2022-05-19": 231340,
-  "2022-05-20": 231484,
-  "2022-05-21": 231694,
-  "2022-05-22": 231694,
-  "2022-05-23": 231774,
-  "2022-05-24": 231876,
-  "2022-05-25": 231967,
-  "2022-05-26": 232062,
-  "2022-05-27": 232161,
-  "2022-05-28": 232256,
-  "2022-05-29": 232341,
-  "2022-05-30": 232416,
-  "2022-05-31": 232495,
-  "2022-06-01": 232607,
-  "2022-06-02": 232613,
-  "2022-06-03": 232713,
-  "2022-06-04": 232802,
-  "2022-06-05": 232880,
-  "2022-06-06": 232941,
-  "2022-06-07": 233000,
-  "2022-06-08": 233066,
-  "2022-06-09": 233132,
-  "2022-06-10": 233205,
-  "2022-06-11": 233279,
-  "2022-06-12": 233373,
-  "2022-06-13": 233450,
-  "2022-06-14": 233501,
-  "2022-06-15": 233547,
-  "2022-06-16": 233600,
-  "2022-06-17": 233677,
-  "2022-06-18": 233744,
-  "2022-06-19": 233870,
-  "2022-06-20": 233870,
-  "2022-06-21": 233923,
-  "2022-06-22": 234052,
-  "2022-06-23": 234052,
-  "2022-06-24": 234121,
-  "2022-06-25": 234181,
-  "2022-06-26": 234248,
-  "2022-06-27": 234308,
-  "2022-06-28": 234365,
-  "2022-06-29": 234426,
-  "2022-06-30": 234475,
-  "2022-07-01": 234522,
-  "2022-07-02": 234614,
-  "2022-07-03": 234696,
-  "2022-07-04": 234774,
-  "2022-07-05": 234774,
-  "2022-07-06": 234774,
-  "2022-07-07": 234962,
-  "2022-07-08": 235026,
-  "2022-07-09": 235120,
-  "2022-07-10": 235287,
-  "2022-07-11": 235380,
-  "2022-07-12": 235456,
-  "2022-07-13": 235540,
-  "2022-07-14": 235599,
-  "2022-07-15": 235696,
-  "2022-07-16": 235771,
-  "2022-07-17": 235876,
-  "2022-07-18": 235955,
-  "2022-07-19": 236022,
-  "2022-07-20": 236083,
-  "2022-07-21": 236153,
-  "2022-07-22": 236220,
-  "2022-07-23": 236343,
-  "2022-07-24": 236490,
-  "2022-07-26": 236690,
-  "2022-07-27": 236774,
-  "2022-07-28": 236869,
-  "2022-07-29": 236942,
-  "2022-07-30": 237136,
-  "2022-07-31": 237136,
-  "2022-08-01": 237206,
-  "2022-08-02": 238898,
-  "2022-08-03": 238898,
-  "2022-08-04": 238955,
-  "2022-08-05": 239045,
-  "2022-08-06": 239119,
-  "2022-08-07": 239201,
-  "2022-08-08": 239256,
-  "2022-08-09": 239298,
-  "2022-08-10": 239386,
-  "2022-08-11": 239459,
-  "2022-08-12": 239536,
-  "2022-08-13": 239617,
-  "2022-08-14": 239690,
-  "2022-08-15": 239749,
-  "2022-08-16": 239812,
-  "2022-08-17": 239872,
-  "2022-08-18": 239936,
-  "2022-08-19": 239999,
-  "2022-08-20": 240071,
-  "2022-08-21": 240144,
-  "2022-08-22": 240210,
-  "2022-08-23": 240266,
-  "2022-08-24": 240336,
-  "2022-08-25": 240405,
-  "2022-08-26": 240484,
-  "2022-08-27": 240547,
-  "2022-08-28": 240622,
-  "2022-08-29": 240706,
-  "2022-08-30": 240734,
-  "2022-08-31": 240718,
-  "2022-09-01": 240723,
-  "2022-09-02": 240736,
-  "2022-09-03": 240689,
-  "2022-09-04": 240698,
-  "2022-09-05": 240757,
-  "2022-09-06": 240835,
-  "2022-09-07": 240940,
-  "2022-09-09": 241097,
-  "2022-09-10": 241175,
-  "2022-09-11": 241234,
-  "2022-09-12": 241277,
-  "2022-09-13": 241336,
-  "2022-09-15": 241443,
-  "2022-09-16": 241509,
-  "2022-09-17": 241591,
-  "2022-09-18": 241638,
-  "2022-09-19": 241692,
-  "2022-09-20": 241745,
-  "2022-09-21": 241800,
-  "2022-09-22": 241844,
-  "2022-09-23": 241900,
-  "2022-09-24": 241900,
-  "2022-09-25": 242027,
-  "2022-09-26": 242081,
-  "2022-09-27": 242138,
-  "2022-09-28": 242204,
-  "2022-09-29": 242253,
-  "2022-09-30": 242309,
-  "2022-10-01": 242393,
-  "2022-10-02": 242475,
-  "2022-10-03": 242542,
-  "2022-10-04": 242619,
-  "2022-10-05": 242689,
-  "2022-10-06": 242755,
-  "2022-10-07": 242828,
-  "2022-10-08": 242923,
-  "2022-10-09": 243066,
-  "2022-10-10": 243093,
-  "2022-10-11": 243150,
-  "2022-10-12": 243213,
-  "2022-10-13": 243287,
-  "2022-10-14": 243347,
-  "2022-10-15": 243413,
-  "2022-10-16": 243493,
-  "2022-10-17": 243550,
-  "2022-10-18": 243601,
-  "2022-10-19": 243651,
-  "2022-10-20": 243695,
-  "2022-10-21": 243759,
-  "2022-10-22": 243840,
-  "2022-10-23": 243900,
-  "2022-10-24": 243948,
-  "2022-10-25": 243989,
-  "2022-10-26": 244053,
-  "2022-10-27": 244102,
-  "2022-10-28": 244158,
-  "2022-10-29": 244217,
-  "2022-10-30": 244267,
-  "2022-10-31": 244317,
-  "2022-11-01": 244355,
-  "2022-11-02": 244386,
-  "2022-11-03": 244425,
-  "2022-11-04": 244492,
-  "2022-11-05": 244540,
-  "2022-11-06": 244586,
-  "2022-11-07": 244632,
-  "2022-11-08": 244674,
-  "2022-11-09": 244728,
-  "2022-11-10": 244779,
-  "2022-11-11": 244829,
-  "2022-11-12": 244922,
-  "2022-11-13": 244979,
-  "2022-11-14": 245025,
-  "2022-11-15": 245057,
-  "2022-11-16": 245111,
-  "2022-11-17": 245161,
-  "2022-11-18": 245172,
-  "2022-11-19": 245173,
-  "2022-11-20": 245227,
-  "2022-11-21": 245289,
-  "2022-11-22": 245326,
-  "2022-11-23": 245377,
-  "2022-11-24": 245461,
-  "2022-11-25": 245554,
-  "2022-11-26": 245613,
-  "2022-11-27": 245654,
-  "2022-11-28": 245688,
-  "2022-11-29": 245733,
-  "2022-11-30": 245776,
-  "2022-12-01": 245826,
-  "2022-12-02": 245873,
-  "2022-12-03": 245959,
-  "2022-12-04": 246020,
-  "2022-12-05": 246056,
-  "2022-12-06": 246136,
-  "2022-12-07": 246204,
-  "2022-12-08": 246287,
-  "2022-12-09": 246370,
-  "2022-12-10": 246418,
-  "2022-12-11": 246484,
-  "2022-12-12": 246554,
-  "2022-12-13": 246596,
-  "2022-12-14": 246674,
-  "2022-12-15": 246743,
-  "2022-12-16": 246795,
-  "2022-12-17": 246851,
-  "2022-12-18": 246913,
-  "2022-12-19": 246967,
-  "2022-12-20": 247076,
-  "2022-12-21": 247076,
-  "2022-12-22": 247120,
-  "2022-12-24": 247253,
-  "2022-12-25": 247300,
-  "2022-12-26": 247363,
-  "2022-12-27": 247424,
-  "2022-12-28": 247478,
-  "2022-12-29": 247546,
-  "2022-12-30": 247623,
-  "2022-12-31": 247689,
-  "2023-01-01": 247746,
-  "2023-01-02": 247793,
-  "2023-01-03": 247890,
-  "2023-01-04": 247965,
-  "2023-01-05": 248034,
-  "2023-01-06": 248104,
-  "2023-01-07": 248213,
-  "2023-01-08": 248226,
-  "2023-01-09": 248307,
-  "2023-01-10": 248380,
-  "2023-01-11": 248438,
-  "2023-01-12": 248507,
-  "2023-01-13": 248558,
-  "2023-01-14": 248676,
-  "2023-01-15": 248688,
-  "2023-01-16": 248756,
-  "2023-01-17": 248815,
-  "2023-01-18": 248886,
-  "2023-01-19": 248930,
-  "2023-01-20": 248992,
-  "2023-01-21": 249056,
-  "2023-01-22": 249136,
-  "2023-01-23": 249215,
-  "2023-01-24": 249271,
-  "2023-01-25": 249341,
-  "2023-01-26": 249392,
-  "2023-01-27": 249450,
-  "2023-01-28": 249512,
-  "2023-01-29": 249586,
-  "2023-01-30": 249647,
-  "2023-01-31": 249647,
-  "2023-02-01": 249755,
-  "2023-02-02": 249804,
-  "2023-02-03": 249860,
-  "2023-02-04": 249918,
-  "2023-02-05": 249992,
-  "2023-02-06": 250070,
-  "2023-02-07": 250143,
-  "2023-02-08": 250245,
-  "2023-02-09": 250245,
-  "2023-02-10": 250312,
-  "2023-02-11": 250392,
-  "2023-02-12": 250568,
-  "2023-02-13": 250633,
-  "2023-02-14": 250633,
-  "2023-02-15": 250680,
-  "2023-02-16": 250744,
-  "2023-02-17": 250815,
-  "2023-02-18": 250954,
-  "2023-02-19": 250959,
-  "2023-02-20": 251013,
-  "2023-02-21": 251066,
-  "2023-02-22": 251123,
-  "2023-02-23": 251185,
-  "2023-02-24": 251261,
-  "2023-02-25": 251343,
-  "2023-02-26": 251393,
-  "2023-02-27": 251487,
-  "2023-02-28": 251487,
-  "2023-03-01": 251542,
-  "2023-03-02": 251598,
-  "2023-03-03": 251672,
-  "2023-03-04": 251751,
-  "2023-03-05": 251875,
-  "2023-03-06": 251875,
-  "2023-03-07": 251932,
-  "2023-03-08": 251975,
-  "2023-03-09": 252014,
-  "2023-03-10": 252085,
-  "2023-03-11": 252126,
-  "2023-03-12": 252202,
-  "2023-03-13": 252249,
-  "2023-03-14": 252325,
-  "2023-03-15": 252381,
-  "2023-03-16": 252381,
-  "2023-03-17": 252381,
-  "2023-03-18": 252573,
-  "2023-03-19": 252573,
-  "2023-03-20": 252677,
-  "2023-03-21": 252724,
-  "2023-03-22": 252787,
-  "2023-03-23": 252846,
-  "2023-03-24": 252846,
-  "2023-03-25": 252980,
-  "2023-03-26": 253067,
-  "2023-03-27": 253125,
-  "2023-03-28": 253196,
-  "2023-03-29": 253272,
-  "2023-03-30": 253376,
-  "2023-03-31": 253376,
-  "2023-04-01": 253437,
-  "2023-04-02": 253511,
-  "2023-04-03": 253567,
-  "2023-04-04": 253631,
-  "2023-04-05": 253710,
-  "2023-04-06": 253779,
-  "2023-04-07": 253856,
-  "2023-04-09": 253987,
-  "2023-04-10": 254039,
-  "2023-04-11": 254172,
-  "2023-04-12": 254172,
-  "2023-04-13": 254220,
-  "2023-04-14": 254270,
-  "2023-04-15": 254343,
-  "2023-04-16": 254394,
-  "2023-04-17": 254460,
-  "2023-04-18": 254510,
-  "2023-04-19": 254563,
-  "2023-04-20": 254643,
-  "2023-04-21": 254702,
-  "2023-04-22": 254790,
-  "2023-04-23": 254872,
-  "2023-04-24": 254949,
-  "2023-04-25": 254996,
-  "2023-04-26": 255055,
-  "2023-04-27": 255111,
-  "2023-04-28": 255169,
-  "2023-04-29": 255222,
-  "2023-04-30": 255305,
-  "2023-05-01": 255365,
-  "2023-05-02": 255411,
-  "2023-05-03": 255452,
-  "2023-05-04": 255513,
-  "2023-05-05": 255574,
-  "2023-05-06": 255636,
-  "2023-05-07": 255709,
-  "2023-05-08": 255752,
-  "2023-05-09": 255813,
-  "2023-05-10": 255882,
-  "2023-05-11": 255961,
-  "2023-05-12": 256022,
-  "2023-05-13": 256073,
-  "2023-05-14": 256142,
-  "2023-05-15": 256204,
-  "2023-05-16": 256253,
-  "2023-05-17": 256311,
-  "2023-05-18": 256375,
-  "2023-05-19": 256433,
-  "2023-05-20": 256587,
-  "2023-05-21": 256587,
-  "2023-05-22": 256587,
-  "2023-05-23": 256711,
-  "2023-05-24": 256809,
-  "2023-05-25": 256823,
-  "2023-05-26": 256878,
-  "2023-05-27": 256952,
-  "2023-05-28": 257013,
-  "2023-05-29": 257013,
-  "2023-05-30": 257158,
-  "2023-05-31": 257242,
-  "2023-06-01": 257318,
-  "2023-06-02": 257392,
-  "2023-06-03": 257480,
-  "2023-06-04": 257582,
-  "2023-06-05": 257675,
-  "2023-06-06": 257787,
-  "2023-06-07": 257902,
-  "2023-06-08": 257997,
-  "2023-06-09": 258110,
-  "2023-06-10": 258198,
-  "2023-06-11": 258279,
-  "2023-06-12": 258329,
-  "2023-06-13": 258400,
-  "2023-06-14": 258494,
-  "2023-06-15": 258590,
-  "2023-06-16": 258686,
-  "2023-06-17": 258774,
-  "2023-06-18": 258906,
-  "2023-06-19": 259073,
-  "2023-06-20": 259203,
-  "2023-06-21": 259337,
-  "2023-06-22": 259500,
-  "2023-06-23": 259643,
-  "2023-06-24": 259740,
-  "2023-06-25": 259848,
-  "2023-06-26": 259963,
-  "2023-06-27": 260051,
-  "2023-06-28": 260133,
-  "2023-06-29": 260251,
-  "2023-06-30": 260346,
-  "2023-07-01": 260590,
-  "2023-07-02": 260590,
-  "2023-07-03": 260689,
-  "2023-07-04": 260774,
-  "2023-07-05": 260864,
-  "2023-07-06": 261104,
-  "2023-07-07": 261104,
-  "2023-07-08": 261104,
-  "2023-07-09": 261315,
-  "2023-07-10": 261411,
-  "2023-07-11": 261464,
-  "2023-07-12": 261530,
-  "2023-07-13": 261606,
-  "2023-07-14": 261682,
-  "2023-07-15": 261733,
-  "2023-07-16": 261829,
-  "2023-07-17": 261881,
-  "2023-07-18": 261942,
-  "2023-07-19": 261988,
-  "2023-07-20": 261988,
-  "2023-07-21": 262097,
-  "2023-07-22": 262161,
-  "2023-07-23": 262234,
-  "2023-07-24": 262277,
-  "2023-07-25": 262322,
-  "2023-07-26": 262380,
-  "2023-07-27": 262444,
-  "2023-07-28": 262444,
-  "2023-07-29": 262575,
-  "2023-07-30": 262575,
-  "2023-07-31": 262706,
-  "2023-08-01": 262757,
-  "2023-08-02": 262799,
-  "2023-08-03": 262842,
-  "2023-08-04": 262887,
-  "2023-08-05": 262945,
-  "2023-08-06": 263075,
-  "2023-08-07": 263075,
-  "2023-08-08": 263149,
-  "2023-08-09": 263206,
-  "2023-08-10": 263270,
-  "2023-08-11": 263323,
-  "2023-08-12": 263323,
-  "2023-08-13": 263323,
-  "2023-08-14": 263323,
-  "2023-08-15": 263323,
-  "2023-08-16": 263323,
-  "2023-08-17": 263323,
-  "2023-08-18": 263323,
-  "2023-08-19": 263323,
-  "2023-08-20": 263903,
-  "2023-08-21": 263903,
-  "2023-08-22": 264018,
-  "2023-08-23": 264018,
-  "2023-08-24": 264018,
-  "2023-08-25": 264018,
-  "2023-08-26": 264250,
-  "2023-08-27": 264250,
-  "2023-08-28": 264357,
-  "2023-08-29": 264357,
-  "2023-08-30": 264357,
-  "2023-08-31": 264521,
-  "2023-09-01": 264562,
-  "2023-09-02": 264562,
-  "2023-09-03": 264562,
-  "2023-09-04": 264562,
-  "2023-09-05": 264562,
-  "2023-09-06": 264562,
-  "2023-09-07": 264562,
-  "2023-09-08": 264562,
-  "2023-09-09": 264562,
-  "2023-09-10": 264562,
-  "2023-09-11": 264562,
-  "2023-09-12": 264562,
-  "2023-09-13": 264562,
-  "2023-09-14": 264562,
-  "2023-09-15": 264562,
-  "2023-09-16": 264562,
-  "2023-09-17": 264562,
-  "2023-09-18": 264562,
-  "2023-09-19": 264562,
-  "2023-09-20": 264562,
-  "2023-09-21": 264562,
-  "2023-09-22": 265620,
-  "2023-09-23": 265620,
-  "2023-09-24": 265620,
-  "2023-09-25": 265620,
-  "2023-09-26": 265785,
-  "2023-09-27": 265785,
-  "2023-09-28": 265785,
-  "2023-09-29": 265785,
-  "2023-09-30": 265785,
-  "2023-10-01": 265785,
-  "2023-10-02": 265785,
-  "2023-10-03": 265785,
-  "2023-10-04": 265785,
-  "2023-10-05": 265785,
-  "2023-10-06": 265785,
-  "2023-10-07": 265785,
-  "2023-10-08": 265785,
-  "2023-10-09": 265785,
-  "2023-10-10": 265785,
-  "2023-10-11": 265785,
-  "2023-10-12": 265785,
-  "2023-10-13": 265785,
-  "2023-10-14": 265785,
-  "2023-10-15": 265785,
-  "2023-10-16": 265785,
-  "2023-10-17": 265785,
-  "2023-10-18": 265785,
-  "2023-10-19": 265785,
-  "2023-10-20": 265785,
-  "2023-10-21": 265785,
-  "2023-10-22": 265785,
-  "2023-10-23": 265785,
-  "2023-10-24": 265785,
-  "2023-10-25": 265785,
-  "2023-10-26": 265785,
-  "2023-10-27": 265785,
-  "2023-10-28": 265785,
-  "2023-10-29": 265785,
-  "2023-10-30": 265785,
-  "2023-10-31": 265785,
-  "2023-11-01": 265785,
-  "2023-11-02": 265785,
-  "2023-11-03": 265785,
-  "2023-11-04": 265785,
-  "2023-11-05": 265785,
-  "2023-11-06": 265785,
-  "2023-11-07": 265785,
-  "2023-11-08": 265785,
-  "2023-11-09": 265785,
-  "2023-11-10": 265785,
-  "2023-11-11": 267888,
-  "2023-11-12": 267888,
-  "2023-11-13": 267888,
-  "2023-11-14": 267888,
-  "2023-11-15": 267888,
-  "2023-11-16": 267888,
-  "2023-11-17": 267888,
-  "2023-11-18": 267888,
-  "2023-11-19": 267888,
-  "2023-11-20": 267888,
-  "2023-11-21": 267888,
-  "2023-11-22": 267888,
-  "2023-11-23": 267888,
-  "2023-11-24": 267888,
-  "2023-11-25": 267888,
-  "2023-11-26": 267888,
-  "2023-11-27": 267888,
-  "2023-11-28": 267888,
-  "2023-11-29": 267888,
-  "2023-11-30": 267888,
-  "2023-12-01": 267888,
-  "2023-12-02": 267888,
-  "2023-12-03": 267888,
-  "2023-12-04": 267888,
-  "2023-12-05": 267888,
-  "2023-12-06": 267888,
-  "2023-12-07": 267888,
-  "2023-12-08": 267888,
-  "2023-12-09": 267888,
-  "2023-12-10": 267888,
-  "2023-12-11": 267888,
-  "2023-12-12": 267888,
-  "2023-12-13": 267888,
-  "2023-12-14": 269628,
-  "2023-12-15": 269660,
-  "2023-12-16": 269705,
-  "2023-12-17": 269750,
-  "2023-12-18": 269788,
-  "2023-12-19": 269816,
-  "2023-12-20": 269860,
-  "2023-12-21": 269906,
-  "2023-12-22": 269954,
-  "2023-12-23": 270009,
-  "2023-12-24": 270051,
-  "2023-12-25": 270089,
-  "2023-12-26": 270123,
-  "2023-12-27": 270155,
-  "2023-12-30": 270290,
-  "2023-12-31": 270329,
-  "2024-01-01": 270381,
-  "2024-01-02": 270420,
-  "2024-01-03": 270455
+  "2024-01-17": 271152,
+  "date_first_scraped": "2022-01-12",
+  "description": "This is The Black Keys. The essential tracks, all in one playlist.",
+  "name": "This Is The Black Keys",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "10 A.M. Automatic",
+      "url": "https://open.spotify.com/track/4HIx4KL2XRilgBf6WzfLqI"
+    },
+    {
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "10 Lovers",
+      "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
+    },
+    {
+      "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Act Nice and Gentle",
+      "url": "https://open.spotify.com/track/0xjiVZARgDnyYQF3dOXeOp"
+    },
+    {
+      "album": {
+        "name": "Beautiful People (Stay High)",
+        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167312,
+      "name": "Beautiful People (Stay High)",
+      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Burn the Damn Thing Down",
+      "url": "https://open.spotify.com/track/6UpqYTSz30LQREVtYeVQLR"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 153986,
+      "name": "Busted",
+      "url": "https://open.spotify.com/track/49MHRxcJij2MQ6x8BbwCBM"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153986,
+      "name": "Busted",
+      "url": "https://open.spotify.com/track/5qnOCQW9EwKd6kG6HVecHo"
+    },
+    {
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 355434,
+      "name": "Come on and Go with Me",
+      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
+    },
+    {
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 368702,
+      "name": "Crawling Kingsnake",
+      "url": "https://open.spotify.com/track/4Yk7nkmqitDCycO0Z0UsKe"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/3UD4sghkq8dHUwvKxln1nB"
+    },
+    {
+      "album": {
+        "name": "Rave On Buddy Holly",
+        "url": "https://open.spotify.com/album/6BpXVKdWpGhI4FzHZrZdur"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 124920,
+      "name": "Dearest",
+      "url": "https://open.spotify.com/track/32lewphnrnKx7lgsanoakd"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 241960,
+      "name": "Didn't I Love You",
+      "url": "https://open.spotify.com/track/3ODV8hlwa7eLVuPMskWnQi"
+    },
+    {
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 301318,
+      "name": "Do the Romp",
+      "url": "https://open.spotify.com/track/3Zx3knFZ9hOCGFqZX3OWlE"
+    },
+    {
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160543,
+      "name": "Eagle Birds",
+      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
+    },
+    {
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Everlasting Light",
+      "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
+    },
+    {
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246306,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+    },
+    {
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178229,
+      "name": "Fire Walk With Me",
+      "url": "https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
+    },
+    {
+      "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 208173,
+      "name": "Girl Is on My Mind",
+      "url": "https://open.spotify.com/track/4KVYCdoWmDa4KS1OY6sgMa"
+    },
+    {
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146596,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
+    },
+    {
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228972,
+      "name": "Going Down South",
+      "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Gold on the Ceiling",
+      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217640,
+      "name": "Good Love (feat. Billy F Gibbons)",
+      "url": "https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z"
+    },
+    {
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "Gotta Get Away",
+      "url": "https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6"
+    },
+    {
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 195520,
+      "name": "Hard Row",
+      "url": "https://open.spotify.com/track/6D6xygnjsY8hxZ01QH2ovP"
+    },
+    {
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184720,
+      "name": "Have Love Will Travel",
+      "url": "https://open.spotify.com/track/46XzvI0GXvRwK7LV6vdn2v"
+    },
+    {
+      "album": {
+        "name": "Chulahoma",
+        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 282760,
+      "name": "Have Mercy on Me",
+      "url": "https://open.spotify.com/track/5l4K6OAwpIUlAsItJoZwYr"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 128893,
+      "name": "Heavy Soul",
+      "url": "https://open.spotify.com/track/5BvuyYHjA98IxU0nQUGzZr"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128893,
+      "name": "Heavy Soul",
+      "url": "https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo"
+    },
+    {
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 199706,
+      "name": "Hold Me in Your Arms",
+      "url": "https://open.spotify.com/track/2FbBdId9VlKkTl3QcD7wkn"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 200986,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/0hPLjCtNnCwt3InwsDgux6"
+    },
+    {
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 191956,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck"
+    },
+    {
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239146,
+      "name": "I Got Mine",
+      "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/1nIUgRxbi4aY4fV5A26Jrp"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
+    },
+    {
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268120,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq"
+    },
+    {
+      "album": {
+        "name": "It Ain't Over",
+        "url": "https://open.spotify.com/album/4Jbu5TQmeAmE1pdLkZQGng"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-22",
+      "duration_ms": 228533,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/46NnMrWFwS0P6HyJ8tgNi8"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228533,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4"
+    },
+    {
+      "album": {
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-30",
+      "duration_ms": 221293,
+      "name": "Just a Little Heat",
+      "url": "https://open.spotify.com/track/5oZM584rzCURMzGC7IeGZ7"
+    },
+    {
+      "album": {
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-27",
+      "duration_ms": 180160,
+      "name": "Just Got to Be",
+      "url": "https://open.spotify.com/track/0WyD0V9Mf8aILlexKswK4w"
+    },
+    {
+      "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172093,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/5wGmaQYNYxJZrnWykQG3HF"
+    },
+    {
+      "album": {
+        "name": "Chulahoma",
+        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 186533,
+      "name": "Keep Your Hands off Her",
+      "url": "https://open.spotify.com/track/13MmPbjOg6fLI98TWEfm87"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "Little Black Submarines",
+      "url": "https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb"
+    },
+    {
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193653,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
+    },
+    {
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 263653,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/1hSs0tmaoUt9YPxjr0l9oc"
+    },
+    {
+      "album": {
+        "name": "Chulahoma",
+        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218466,
+      "name": "Meet Me in the City",
+      "url": "https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu"
+    },
+    {
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-08",
+      "duration_ms": 227386,
+      "name": "Mellow Peaches",
+      "url": "https://open.spotify.com/track/5ofmqMOODzJ9iEeDmER1Th"
+    },
+    {
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 243013,
+      "name": "Midnight in Her Eyes",
+      "url": "https://open.spotify.com/track/2l8qA0PtOz6JLMzxMnKOaO"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 194586,
+      "name": "Mind Eraser",
+      "url": "https://open.spotify.com/track/0hzBN7DGgtjBsTyZwTTKRS"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 177240,
+      "name": "Money Maker",
+      "url": "https://open.spotify.com/track/1S8PKtVKvJWwOwfQpQxzWV"
+    },
+    {
+      "album": {
+        "name": "Chulahoma",
+        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-06",
+      "duration_ms": 405173,
+      "name": "My Mind Is Ramblin",
+      "url": "https://open.spotify.com/track/56Pc2hxq8ahbmJ1vyKZ27b"
+    },
+    {
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 197971,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/4yWWuAW3bywNtneUa4L6YJ"
+    },
+    {
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198213,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk"
+    },
+    {
+      "album": {
+        "name": "Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound)",
+        "url": "https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257532,
+      "name": "No Lovin\u2019",
+      "url": "https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 207040,
+      "name": "Nova Baby",
+      "url": "https://open.spotify.com/track/5S7kFUo496CoItemffWQb9"
+    },
+    {
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 205600,
+      "name": "Oceans & Streams",
+      "url": "https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K"
+    },
+    {
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+    },
+    {
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250706,
+      "name": "Psychotic Girl",
+      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Run Right Back",
+      "url": "https://open.spotify.com/track/5HgAZuHFAU5qLLMYuIQkgq"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 152253,
+      "name": "She Said, She Said",
+      "url": "https://open.spotify.com/track/1e8Y35sK08V3BbHKkgYZAM"
+    },
+    {
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "She's Long Gone",
+      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
+    },
+    {
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196776,
+      "name": "Shine A Little Light",
+      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
+    },
+    {
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf"
+    },
+    {
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160501,
+      "name": "Sit Around And Miss You",
+      "url": "https://open.spotify.com/track/4yBxXm4dDL00YGdO5G9ubK"
+    },
+    {
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 344288,
+      "name": "Stay All Night",
+      "url": "https://open.spotify.com/track/44LBdduHzDcSiLSDzH8Gvy"
+    },
+    {
+      "album": {
+        "name": "Your Touch - The EP",
+        "url": "https://open.spotify.com/album/31GPHU2JgpCLdXeE730BTh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-17",
+      "duration_ms": 260480,
+      "name": "Strange Desire",
+      "url": "https://open.spotify.com/track/5LeB7SGsODdnmJJANvu8SQ"
+    },
+    {
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "Strange Times",
+      "url": "https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn"
+    },
+    {
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 269306,
+      "name": "Ten Cent Pistol",
+      "url": "https://open.spotify.com/track/2qoLCpTRYv6h8Vx94hxkvl"
+    },
+    {
+      "album": {
+        "name": "The Man with the Iron Fists",
+        "url": "https://open.spotify.com/album/2JZ5XCIRD5OWQzSdMCdtwX"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-25",
+      "duration_ms": 230906,
+      "name": "The Baddest Man Alive",
+      "url": "https://open.spotify.com/track/2Gg9tkVjRYoZHhXzBeYyuV"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 181306,
+      "name": "The Breaks",
+      "url": "https://open.spotify.com/track/2W1OhZFB3uGJ3FpU19BpvZ"
+    },
+    {
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "The Breaks",
+      "url": "https://open.spotify.com/track/3pyTeNilPDFq10Ce60WROE"
+    },
+    {
+      "album": {
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 294933,
+      "name": "The Lengths",
+      "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
+    },
+    {
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300611,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
+    },
+    {
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228373,
+      "name": "Thickfreakness",
+      "url": "https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk"
+    },
+    {
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211080,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
+    },
+    {
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 211336,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/3C542UknrX76XSRXTyQ1Qg"
+    },
+    {
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205037,
+      "name": "Too Afraid to Love You",
+      "url": "https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs"
+    },
+    {
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222960,
+      "name": "Turn Blue",
+      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
+    },
+    {
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 217120,
+      "name": "Waiting on Words",
+      "url": "https://open.spotify.com/track/7ctca1Hz43SyMcI4qUrpY7"
+    },
+    {
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 235841,
+      "name": "Walk Across The Water",
+      "url": "https://open.spotify.com/track/5AEyKKiz6YPTLR7EDFLqMS"
+    },
+    {
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410186,
+      "name": "Weight of Love",
+      "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "album": {
+        "name": "Wild Child",
+        "url": "https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
+    },
+    {
+      "album": {
+        "name": "Chulahoma",
+        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-17",
+      "duration_ms": 255973,
+      "name": "Work Me",
+      "url": "https://open.spotify.com/track/4S31xqzm7uNjjd0JCdaAGj"
+    },
+    {
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 228120,
+      "name": "Year in Review",
+      "url": "https://open.spotify.com/track/0MV8NQXGDMR0EKX314JlN9"
+    },
+    {
+      "album": {
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/1ZJf6hZVPU1NoOPS5ThJvA"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Your Team Is Looking Good",
+      "url": "https://open.spotify.com/track/50J9zbu0UzOFnUVSjvecl7"
+    },
+    {
+      "album": {
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4m87u0"
 }

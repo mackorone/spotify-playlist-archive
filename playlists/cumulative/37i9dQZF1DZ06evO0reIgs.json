@@ -735,6 +735,32 @@
     },
     {
       "album": {
+        "name": "Meus Olhos",
+        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188548,
+      "name": "Meus Olhos",
+      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
+    },
+    {
+      "album": {
         "name": "M\u00f4-Zaico",
         "url": "https://open.spotify.com/album/1GNTB8OIhFhnHPfKdJzbaj"
       },
@@ -838,7 +864,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 142274,
       "name": "N\u00e3o Vou Insistir",
       "url": "https://open.spotify.com/track/382CvsTyFK8MemBGng0k66"
@@ -860,6 +886,32 @@
       "duration_ms": 181500,
       "name": "O Que Voc\u00ea Faz",
       "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
+    },
+    {
+      "album": {
+        "name": "O Troco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qmayW0UP1sJLj6eX0g1EM"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191533,
+      "name": "O Troco - Ao Vivo",
+      "url": "https://open.spotify.com/track/44dzl8rVR1mMPccqsc0rdV"
     },
     {
       "album": {

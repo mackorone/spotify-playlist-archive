@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeEqNTwYhBR.md) - [plain]
 
 > Les enfants vont danser et se déchaîner!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,982 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,081 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

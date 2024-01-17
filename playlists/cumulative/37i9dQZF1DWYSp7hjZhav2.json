@@ -192,6 +192,28 @@
     {
       "album": {
         "name": "Aria",
+        "url": "https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
+    },
+    {
+      "album": {
+        "name": "Aria",
         "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
       },
       "artists": [
@@ -206,7 +228,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -898,6 +920,24 @@
     {
       "album": {
         "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
+    },
+    {
+      "album": {
+        "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
       },
       "artists": [
@@ -908,7 +948,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
@@ -2116,10 +2156,50 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 222580,
       "name": "Manifesto",
       "url": "https://open.spotify.com/track/3EquvUexPKfu02fbsZAbli"
+    },
+    {
+      "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/27Nw4ermfLnyKvnmEa6WWS"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Manifesto",
+      "url": "https://open.spotify.com/track/4tskcpaSK17TTUZHc6jJi5"
+    },
+    {
+      "album": {
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239585,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z"
     },
     {
       "album": {
@@ -2138,7 +2218,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 239585,
       "name": "Metro",
       "url": "https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ"
@@ -2680,6 +2760,28 @@
     {
       "album": {
         "name": "Pantheon",
+        "url": "https://open.spotify.com/album/3o6o0yUeCKF0qDRKFlb8E7"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272255,
+      "name": "Pantheon",
+      "url": "https://open.spotify.com/track/26aWJtrJ75vXeZavBBY89G"
+    },
+    {
+      "album": {
+        "name": "Pantheon",
         "url": "https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT"
       },
       "artists": [
@@ -2694,10 +2796,32 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 272255,
       "name": "Pantheon",
       "url": "https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG"
+    },
+    {
+      "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
     },
     {
       "album": {
@@ -2716,7 +2840,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
@@ -3142,6 +3266,24 @@
     {
       "album": {
         "name": "In My System EP",
+        "url": "https://open.spotify.com/album/2qIcJiNHC3TOROP79PFEYm"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368840,
+      "name": "The Feeling (2022 Remaster)",
+      "url": "https://open.spotify.com/track/1unXvavR2QS22taOlliPeI"
+    },
+    {
+      "album": {
+        "name": "In My System EP",
         "url": "https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R"
       },
       "artists": [
@@ -3152,7 +3294,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 368840,
       "name": "The Feeling - 2022 Remaster",
       "url": "https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9"

@@ -1,6 +1,6 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 20680,
+  "num_followers": 21176,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
@@ -99,26 +99,6 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "Hush (Still Woozy Remix)",
-        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Hush - Still Woozy Remix",
-      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 196560,
       "name": "Fuera de Lugar",
       "url": "https://open.spotify.com/track/2BWTYAiWbBGCJeKbQ6rpFA"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
+        "name": "Hush (Still Woozy Remix)",
+        "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Hush - Still Woozy Remix",
+      "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
+        "name": "Como Nunca",
+        "url": "https://open.spotify.com/album/4Pp1hdXYkrDZSkwDuTFVnO"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 192486,
+      "name": "Gordo Funky",
+      "url": "https://open.spotify.com/track/24uwH6cnhvjLtwBxrNS21N"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
         "name": "Leche",
         "url": "https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU"
       },
@@ -259,42 +275,6 @@
       "duration_ms": 185994,
       "name": "Despacio",
       "url": "https://open.spotify.com/track/4M8EITXCAirNIaYcwmf1LI"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
-        "name": "Como Nunca",
-        "url": "https://open.spotify.com/album/4Pp1hdXYkrDZSkwDuTFVnO"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 192486,
-      "name": "Gordo Funky",
-      "url": "https://open.spotify.com/track/24uwH6cnhvjLtwBxrNS21N"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 260299,
-      "name": "Funky Fiesta",
-      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -331,18 +311,22 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "Funk Your Bones (Side B)",
-        "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 196874,
-      "name": "Young Girl",
-      "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
+      "duration_ms": 260299,
+      "name": "Funky Fiesta",
+      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -363,6 +347,22 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
+        "name": "Funk Your Bones (Side B)",
+        "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 196874,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
         "name": "Arepa 3000",
         "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 239613,
       "name": "Qu\u00e9 Rico",
       "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 275785,
-      "name": "A\u00f1ejo",
-      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -443,6 +427,22 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 275785,
+      "name": "A\u00f1ejo",
+      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
         "name": "\u00d3yeme Bien",
         "url": "https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2"
       },
@@ -455,38 +455,6 @@
       "duration_ms": 229997,
       "name": "\u00d3yeme Bien",
       "url": "https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -507,34 +475,18 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
       "artists": [
         {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/7vXrkuRXeIT87UXQhjtznW"
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -555,6 +507,54 @@
       "duration_ms": 237564,
       "name": "muero x ti",
       "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/7vXrkuRXeIT87UXQhjtznW"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
       },
       "artists": [
         {
-          "name": "Eddie Chacon",
-          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         }
       ],
-      "duration_ms": 192973,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
+      "duration_ms": 243113,
+      "name": "No Puedo Parar",
+      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -683,34 +683,34 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
       },
       "artists": [
         {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
         }
       ],
-      "duration_ms": 243113,
-      "name": "No Puedo Parar",
-      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
+      "duration_ms": 192973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
     },
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "Terciopelo",
-        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
+        "name": "CAMALOVE",
+        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
       },
       "artists": [
         {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+          "name": "Cocofunka",
+          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Terciopelo",
-      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
+      "duration_ms": 254492,
+      "name": "Asturi\u00f3n",
+      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "CAMALOVE",
-        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
+        "name": "Terciopelo",
+        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
       },
       "artists": [
         {
-          "name": "Cocofunka",
-          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
         }
       ],
-      "duration_ms": 254492,
-      "name": "Asturi\u00f3n",
-      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
+      "duration_ms": 178064,
+      "name": "Terciopelo",
+      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
         "name": "Ritmo Natural",
         "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
       },
@@ -923,26 +923,6 @@
       "duration_ms": 235000,
       "name": "Mi Necedad",
       "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        }
-      ],
-      "duration_ms": 205462,
-      "name": "Leche de Tigre",
-      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -967,6 +947,26 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        }
+      ],
+      "duration_ms": 205462,
+      "name": "Leche de Tigre",
+      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
         "name": "Vida Cotidiana",
         "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
@@ -979,26 +979,6 @@
       "duration_ms": 232813,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
-        "name": "Coral Way",
-        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Cimafunk",
-          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
-        }
-      ],
-      "duration_ms": 221786,
-      "name": "El Llamado",
-      "url": "https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -1035,6 +1015,26 @@
       "duration_ms": 253747,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
+        "name": "Coral Way",
+        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        }
+      ],
+      "duration_ms": 221786,
+      "name": "El Llamado",
+      "url": "https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I"
     },
     {
       "added_at": "2023-12-12 21:09:53",

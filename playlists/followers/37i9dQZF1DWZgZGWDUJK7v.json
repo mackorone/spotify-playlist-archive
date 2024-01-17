@@ -1,595 +1,2969 @@
 {
-  "2022-05-15": 5536,
-  "2022-05-16": 5744,
-  "2022-05-17": 5958,
-  "2022-05-18": 6139,
-  "2022-05-19": 6328,
-  "2022-05-20": 6554,
-  "2022-05-21": 6862,
-  "2022-05-22": 6862,
-  "2022-05-23": 7076,
-  "2022-05-24": 7223,
-  "2022-05-25": 7393,
-  "2022-05-26": 7536,
-  "2022-05-27": 7723,
-  "2022-05-28": 7951,
-  "2022-05-29": 8199,
-  "2022-05-30": 8449,
-  "2022-05-31": 8705,
-  "2022-06-01": 9167,
-  "2022-06-02": 9192,
-  "2022-06-03": 9405,
-  "2022-06-04": 9649,
-  "2022-06-05": 9890,
-  "2022-06-06": 10172,
-  "2022-06-07": 10394,
-  "2022-06-08": 10670,
-  "2022-06-09": 10852,
-  "2022-06-10": 11091,
-  "2022-06-11": 11355,
-  "2022-06-12": 11625,
-  "2022-06-13": 11871,
-  "2022-06-14": 12107,
-  "2022-06-15": 12379,
-  "2022-06-16": 12676,
-  "2022-06-17": 12966,
-  "2022-06-18": 13281,
-  "2022-06-19": 13832,
-  "2022-06-20": 13832,
-  "2022-06-21": 14109,
-  "2022-06-22": 14665,
-  "2022-06-23": 14665,
-  "2022-06-24": 14978,
-  "2022-06-25": 15295,
-  "2022-06-26": 15610,
-  "2022-06-27": 15895,
-  "2022-06-28": 16183,
-  "2022-06-29": 16457,
-  "2022-06-30": 16700,
-  "2022-07-01": 16950,
-  "2022-07-02": 17208,
-  "2022-07-03": 17489,
-  "2022-07-04": 17721,
-  "2022-07-05": 17989,
-  "2022-07-06": 18268,
-  "2022-07-07": 18504,
-  "2022-07-08": 18755,
-  "2022-07-09": 19006,
-  "2022-07-10": 19238,
-  "2022-07-11": 19488,
-  "2022-07-12": 19734,
-  "2022-07-13": 20010,
-  "2022-07-14": 20248,
-  "2022-07-15": 20482,
-  "2022-07-16": 20725,
-  "2022-07-17": 20958,
-  "2022-07-18": 21196,
-  "2022-07-19": 21423,
-  "2022-07-20": 21660,
-  "2022-07-21": 21879,
-  "2022-07-22": 22105,
-  "2022-07-23": 22337,
-  "2022-07-24": 22572,
-  "2022-07-25": 22843,
-  "2022-07-26": 23033,
-  "2022-07-27": 23278,
-  "2022-07-28": 23492,
-  "2022-07-29": 23664,
-  "2022-07-30": 24016,
-  "2022-07-31": 24016,
-  "2022-08-01": 24200,
-  "2022-08-02": 24501,
-  "2022-08-03": 24501,
-  "2022-08-04": 24556,
-  "2022-08-05": 24629,
-  "2022-08-06": 24681,
-  "2022-08-07": 24752,
-  "2022-08-08": 24818,
-  "2022-08-09": 24868,
-  "2022-08-10": 24921,
-  "2022-08-11": 24998,
-  "2022-08-12": 25050,
-  "2022-08-13": 25130,
-  "2022-08-14": 25322,
-  "2022-08-15": 25506,
-  "2022-08-16": 25674,
-  "2022-08-17": 25829,
-  "2022-08-18": 26013,
-  "2022-08-19": 26172,
-  "2022-08-20": 26341,
-  "2022-08-21": 26527,
-  "2022-08-22": 26710,
-  "2022-08-23": 26893,
-  "2022-08-24": 27064,
-  "2022-08-25": 27207,
-  "2022-08-26": 27388,
-  "2022-08-27": 27587,
-  "2022-08-28": 27759,
-  "2022-08-29": 27958,
-  "2022-08-30": 28145,
-  "2022-08-31": 28327,
-  "2022-09-01": 28513,
-  "2022-09-02": 28700,
-  "2022-09-03": 28886,
-  "2022-09-04": 29091,
-  "2022-09-05": 29320,
-  "2022-09-06": 29512,
-  "2022-09-07": 29688,
-  "2022-09-09": 29861,
-  "2022-09-10": 29921,
-  "2022-09-11": 29980,
-  "2022-09-12": 30034,
-  "2022-09-13": 30087,
-  "2022-09-15": 30213,
-  "2022-09-16": 30276,
-  "2022-09-17": 30325,
-  "2022-09-18": 30378,
-  "2022-09-19": 30441,
-  "2022-09-20": 30487,
-  "2022-09-21": 30547,
-  "2022-09-22": 30612,
-  "2022-09-23": 30667,
-  "2022-09-24": 30701,
-  "2022-09-25": 30796,
-  "2022-09-26": 30920,
-  "2022-09-27": 31069,
-  "2022-09-28": 31249,
-  "2022-09-29": 31423,
-  "2022-09-30": 31576,
-  "2022-10-01": 31753,
-  "2022-10-02": 31891,
-  "2022-10-03": 32092,
-  "2022-10-04": 32241,
-  "2022-10-05": 32429,
-  "2022-10-06": 32587,
-  "2022-10-07": 32763,
-  "2022-10-08": 32944,
-  "2022-10-09": 33272,
-  "2022-10-10": 33298,
-  "2022-10-11": 33448,
-  "2022-10-12": 33606,
-  "2022-10-13": 33750,
-  "2022-10-14": 33891,
-  "2022-10-15": 34059,
-  "2022-10-16": 34263,
-  "2022-10-17": 34448,
-  "2022-10-18": 34619,
-  "2022-10-19": 34762,
-  "2022-10-20": 34898,
-  "2022-10-21": 35037,
-  "2022-10-22": 35205,
-  "2022-10-23": 35380,
-  "2022-10-24": 35572,
-  "2022-10-25": 35736,
-  "2022-10-26": 35890,
-  "2022-10-27": 36071,
-  "2022-10-28": 36221,
-  "2022-10-29": 36339,
-  "2022-10-30": 36463,
-  "2022-10-31": 36600,
-  "2022-11-01": 36714,
-  "2022-11-02": 36831,
-  "2022-11-03": 36930,
-  "2022-11-04": 37048,
-  "2022-11-05": 37181,
-  "2022-11-06": 37299,
-  "2022-11-07": 37442,
-  "2022-11-08": 37569,
-  "2022-11-09": 37705,
-  "2022-11-10": 37805,
-  "2022-11-11": 37881,
-  "2022-11-12": 37939,
-  "2022-11-13": 37998,
-  "2022-11-14": 38050,
-  "2022-11-15": 38121,
-  "2022-11-16": 38183,
-  "2022-11-17": 38252,
-  "2022-11-18": 38283,
-  "2022-11-19": 38255,
-  "2022-11-20": 38257,
-  "2022-11-21": 38295,
-  "2022-11-22": 38450,
-  "2022-11-23": 38426,
-  "2022-11-24": 38566,
-  "2022-11-25": 38737,
-  "2022-11-26": 38786,
-  "2022-11-27": 38868,
-  "2022-11-28": 38948,
-  "2022-11-29": 38999,
-  "2022-11-30": 39071,
-  "2022-12-01": 39160,
-  "2022-12-02": 39211,
-  "2022-12-03": 39354,
-  "2022-12-04": 39452,
-  "2022-12-05": 39529,
-  "2022-12-06": 39592,
-  "2022-12-07": 39669,
-  "2022-12-08": 39750,
-  "2022-12-09": 39812,
-  "2022-12-10": 39883,
-  "2022-12-11": 39970,
-  "2022-12-12": 40048,
-  "2022-12-13": 40195,
-  "2022-12-14": 40368,
-  "2022-12-15": 40546,
-  "2022-12-16": 40678,
-  "2022-12-17": 40850,
-  "2022-12-18": 41030,
-  "2022-12-19": 41210,
-  "2022-12-20": 41579,
-  "2022-12-21": 41579,
-  "2022-12-22": 41773,
-  "2022-12-24": 42099,
-  "2022-12-25": 42273,
-  "2022-12-26": 42467,
-  "2022-12-27": 42647,
-  "2022-12-28": 42829,
-  "2022-12-29": 43020,
-  "2022-12-30": 43184,
-  "2022-12-31": 43390,
-  "2023-01-01": 43547,
-  "2023-01-02": 43725,
-  "2023-01-03": 43928,
-  "2023-01-04": 44122,
-  "2023-01-05": 44355,
-  "2023-01-06": 44572,
-  "2023-01-07": 44913,
-  "2023-01-08": 44948,
-  "2023-01-09": 45147,
-  "2023-01-10": 45323,
-  "2023-01-11": 45476,
-  "2023-01-12": 45684,
-  "2023-01-13": 45874,
-  "2023-01-14": 46262,
-  "2023-01-15": 46315,
-  "2023-01-16": 46517,
-  "2023-01-17": 46726,
-  "2023-01-18": 46898,
-  "2023-01-19": 47045,
-  "2023-01-20": 47181,
-  "2023-01-21": 47322,
-  "2023-01-22": 47447,
-  "2023-01-23": 47578,
-  "2023-01-24": 47714,
-  "2023-01-25": 47861,
-  "2023-01-26": 47963,
-  "2023-01-27": 48101,
-  "2023-01-28": 48260,
-  "2023-01-29": 48399,
-  "2023-01-30": 48536,
-  "2023-01-31": 48536,
-  "2023-02-01": 48785,
-  "2023-02-02": 48890,
-  "2023-02-03": 49016,
-  "2023-02-04": 49138,
-  "2023-02-05": 49283,
-  "2023-02-06": 49426,
-  "2023-02-07": 49557,
-  "2023-02-08": 49764,
-  "2023-02-09": 49764,
-  "2023-02-10": 49880,
-  "2023-02-11": 49981,
-  "2023-02-12": 50221,
-  "2023-02-13": 50330,
-  "2023-02-14": 50330,
-  "2023-02-15": 50444,
-  "2023-02-16": 50539,
-  "2023-02-17": 50648,
-  "2023-02-18": 50875,
-  "2023-02-19": 50899,
-  "2023-02-20": 50980,
-  "2023-02-21": 51083,
-  "2023-02-22": 51196,
-  "2023-02-23": 51331,
-  "2023-02-24": 51474,
-  "2023-02-25": 51661,
-  "2023-02-26": 51741,
-  "2023-02-27": 51969,
-  "2023-02-28": 51969,
-  "2023-03-01": 52076,
-  "2023-03-02": 52191,
-  "2023-03-03": 52303,
-  "2023-03-04": 52386,
-  "2023-03-05": 52621,
-  "2023-03-06": 52621,
-  "2023-03-07": 52737,
-  "2023-03-08": 52840,
-  "2023-03-09": 52929,
-  "2023-03-10": 53031,
-  "2023-03-11": 53133,
-  "2023-03-12": 53259,
-  "2023-03-13": 53407,
-  "2023-03-14": 53502,
-  "2023-03-15": 53611,
-  "2023-03-16": 53712,
-  "2023-03-17": 53712,
-  "2023-03-18": 53924,
-  "2023-03-19": 54018,
-  "2023-03-20": 54130,
-  "2023-03-21": 54220,
-  "2023-03-22": 54319,
-  "2023-03-23": 54413,
-  "2023-03-24": 54413,
-  "2023-03-25": 54598,
-  "2023-03-26": 54672,
-  "2023-03-27": 54779,
-  "2023-03-28": 54889,
-  "2023-03-29": 55002,
-  "2023-03-30": 55156,
-  "2023-03-31": 55156,
-  "2023-04-01": 55254,
-  "2023-04-02": 55372,
-  "2023-04-03": 55496,
-  "2023-04-04": 55596,
-  "2023-04-05": 55662,
-  "2023-04-06": 55754,
-  "2023-04-07": 55859,
-  "2023-04-09": 56047,
-  "2023-04-10": 56159,
-  "2023-04-11": 56356,
-  "2023-04-12": 56356,
-  "2023-04-13": 56457,
-  "2023-04-14": 56546,
-  "2023-04-15": 56639,
-  "2023-04-16": 56746,
-  "2023-04-17": 56848,
-  "2023-04-18": 56942,
-  "2023-04-19": 57025,
-  "2023-04-20": 57117,
-  "2023-04-21": 57188,
-  "2023-04-22": 57293,
-  "2023-04-23": 57360,
-  "2023-04-24": 57468,
-  "2023-04-25": 57552,
-  "2023-04-26": 57681,
-  "2023-04-27": 57818,
-  "2023-04-28": 57908,
-  "2023-04-29": 58002,
-  "2023-04-30": 58102,
-  "2023-05-01": 58228,
-  "2023-05-02": 58359,
-  "2023-05-03": 58457,
-  "2023-05-04": 58569,
-  "2023-05-05": 58639,
-  "2023-05-06": 58752,
-  "2023-05-07": 58856,
-  "2023-05-08": 58974,
-  "2023-05-09": 59060,
-  "2023-05-10": 59156,
-  "2023-05-11": 59242,
-  "2023-05-12": 59332,
-  "2023-05-13": 59439,
-  "2023-05-14": 59533,
-  "2023-05-15": 59631,
-  "2023-05-16": 59750,
-  "2023-05-17": 59892,
-  "2023-05-18": 60031,
-  "2023-05-19": 60187,
-  "2023-05-20": 60454,
-  "2023-05-21": 60454,
-  "2023-05-22": 60454,
-  "2023-05-23": 60735,
-  "2023-05-24": 60993,
-  "2023-05-25": 61021,
-  "2023-05-26": 61142,
-  "2023-05-27": 61310,
-  "2023-05-28": 61450,
-  "2023-05-29": 61450,
-  "2023-05-30": 61707,
-  "2023-05-31": 61836,
-  "2023-06-01": 61983,
-  "2023-06-02": 62133,
-  "2023-06-03": 62286,
-  "2023-06-04": 62448,
-  "2023-06-05": 62607,
-  "2023-06-06": 62759,
-  "2023-06-07": 62934,
-  "2023-06-08": 63042,
-  "2023-06-09": 63186,
-  "2023-06-10": 63321,
-  "2023-06-11": 63500,
-  "2023-06-12": 63654,
-  "2023-06-13": 63792,
-  "2023-06-14": 63894,
-  "2023-06-15": 64016,
-  "2023-06-16": 64132,
-  "2023-06-17": 64254,
-  "2023-06-18": 64373,
-  "2023-06-19": 64487,
-  "2023-06-20": 64608,
-  "2023-06-21": 64717,
-  "2023-06-22": 64814,
-  "2023-06-23": 64935,
-  "2023-06-24": 65047,
-  "2023-06-25": 65153,
-  "2023-06-26": 65258,
-  "2023-06-27": 65361,
-  "2023-06-28": 65467,
-  "2023-06-29": 65562,
-  "2023-06-30": 65653,
-  "2023-07-01": 65838,
-  "2023-07-02": 65838,
-  "2023-07-03": 65927,
-  "2023-07-04": 66036,
-  "2023-07-05": 66140,
-  "2023-07-06": 66356,
-  "2023-07-07": 66356,
-  "2023-07-08": 66467,
-  "2023-07-09": 66589,
-  "2023-07-10": 66709,
-  "2023-07-11": 66797,
-  "2023-07-12": 66892,
-  "2023-07-13": 66979,
-  "2023-07-14": 67066,
-  "2023-07-15": 67135,
-  "2023-07-16": 67247,
-  "2023-07-17": 67357,
-  "2023-07-18": 67466,
-  "2023-07-19": 67584,
-  "2023-07-20": 67687,
-  "2023-07-21": 67760,
-  "2023-07-22": 67840,
-  "2023-07-23": 67945,
-  "2023-07-24": 68032,
-  "2023-07-25": 68141,
-  "2023-07-26": 68260,
-  "2023-07-27": 68389,
-  "2023-07-28": 68507,
-  "2023-07-29": 68641,
-  "2023-07-30": 68767,
-  "2023-07-31": 68889,
-  "2023-08-01": 69014,
-  "2023-08-02": 69130,
-  "2023-08-03": 69211,
-  "2023-08-04": 69331,
-  "2023-08-05": 69421,
-  "2023-08-06": 69679,
-  "2023-08-07": 69679,
-  "2023-08-08": 69756,
-  "2023-08-09": 69861,
-  "2023-08-10": 69991,
-  "2023-08-11": 70113,
-  "2023-08-12": 70212,
-  "2023-08-13": 70347,
-  "2023-08-14": 70463,
-  "2023-08-15": 70647,
-  "2023-08-16": 70647,
-  "2023-08-17": 70746,
-  "2023-08-18": 70837,
-  "2023-08-19": 70930,
-  "2023-08-20": 71030,
-  "2023-08-21": 71131,
-  "2023-08-22": 71209,
-  "2023-08-23": 71304,
-  "2023-08-24": 71410,
-  "2023-08-25": 71509,
-  "2023-08-26": 71623,
-  "2023-08-27": 71735,
-  "2023-08-28": 71836,
-  "2023-08-29": 71931,
-  "2023-08-30": 72026,
-  "2023-08-31": 72118,
-  "2023-09-01": 72340,
-  "2023-09-02": 72340,
-  "2023-09-03": 72442,
-  "2023-09-04": 72597,
-  "2023-09-05": 72749,
-  "2023-09-06": 72851,
-  "2023-09-07": 72956,
-  "2023-09-08": 73097,
-  "2023-09-09": 73217,
-  "2023-09-10": 73353,
-  "2023-09-11": 73497,
-  "2023-09-12": 73607,
-  "2023-09-13": 73760,
-  "2023-09-14": 73855,
-  "2023-09-15": 73983,
-  "2023-09-16": 74101,
-  "2023-09-17": 74238,
-  "2023-09-18": 74400,
-  "2023-09-19": 74529,
-  "2023-09-20": 74631,
-  "2023-09-21": 74771,
-  "2023-09-22": 74890,
-  "2023-09-23": 75053,
-  "2023-09-24": 75202,
-  "2023-09-25": 75372,
-  "2023-09-26": 75546,
-  "2023-09-27": 75651,
-  "2023-09-28": 75777,
-  "2023-09-29": 75896,
-  "2023-09-30": 76037,
-  "2023-10-01": 76156,
-  "2023-10-02": 76303,
-  "2023-10-03": 76400,
-  "2023-10-04": 76515,
-  "2023-10-05": 76621,
-  "2023-10-06": 76748,
-  "2023-10-07": 76884,
-  "2023-10-08": 76991,
-  "2023-10-09": 77082,
-  "2023-10-10": 77176,
-  "2023-10-11": 77409,
-  "2023-10-12": 77409,
-  "2023-10-13": 77511,
-  "2023-10-14": 77612,
-  "2023-10-15": 77733,
-  "2023-10-16": 77842,
-  "2023-10-17": 77945,
-  "2023-10-18": 78064,
-  "2023-10-19": 78165,
-  "2023-10-20": 78266,
-  "2023-10-21": 78341,
-  "2023-10-22": 78413,
-  "2023-10-23": 78478,
-  "2023-10-24": 78562,
-  "2023-10-25": 78622,
-  "2023-10-26": 78706,
-  "2023-10-27": 78782,
-  "2023-10-28": 78835,
-  "2023-10-29": 78916,
-  "2023-10-30": 79076,
-  "2023-10-31": 79076,
-  "2023-11-01": 79125,
-  "2023-11-02": 79171,
-  "2023-11-03": 79239,
-  "2023-11-04": 79285,
-  "2023-11-05": 79371,
-  "2023-11-06": 79439,
-  "2023-11-07": 79517,
-  "2023-11-08": 79581,
-  "2023-11-09": 79647,
-  "2023-11-10": 79718,
-  "2023-11-11": 79792,
-  "2023-11-12": 79865,
-  "2023-11-13": 79958,
-  "2023-11-14": 80039,
-  "2023-11-15": 80039,
-  "2023-11-16": 80182,
-  "2023-11-17": 80354,
-  "2023-11-18": 80354,
-  "2023-11-19": 80451,
-  "2023-11-20": 80570,
-  "2023-11-21": 80675,
-  "2023-11-22": 80774,
-  "2023-11-23": 80889,
-  "2023-11-24": 80987,
-  "2023-11-25": 81059,
-  "2023-11-26": 81162,
-  "2023-11-27": 81279,
-  "2023-11-28": 81399,
-  "2023-11-29": 81608,
-  "2023-11-30": 81608,
-  "2023-12-01": 81725,
-  "2023-12-02": 81817,
-  "2023-12-03": 81940,
-  "2023-12-04": 82038,
-  "2023-12-05": 82129,
-  "2023-12-06": 82231,
-  "2023-12-07": 82308,
-  "2023-12-08": 82378,
-  "2023-12-09": 82454,
-  "2023-12-10": 82513,
-  "2023-12-11": 82545,
-  "2023-12-12": 82588,
-  "2023-12-13": 82655,
-  "2023-12-14": 82721,
-  "2023-12-15": 82754,
-  "2023-12-16": 82812,
-  "2023-12-17": 82863,
-  "2023-12-18": 82896,
-  "2023-12-19": 82939,
-  "2023-12-20": 82990,
-  "2023-12-21": 83049,
-  "2023-12-22": 83086,
-  "2023-12-23": 83116,
-  "2023-12-24": 83150,
-  "2023-12-25": 83189,
-  "2023-12-26": 83237,
-  "2023-12-27": 83292,
-  "2023-12-30": 83447,
-  "2023-12-31": 83481,
-  "2024-01-01": 83517,
-  "2024-01-02": 83578,
-  "2024-01-03": 83627
+  "2024-01-17": 84093,
+  "date_first_scraped": "2022-05-15",
+  "description": "Meet the popular webtoon OSTs now! (Cover: The Moon during the Day(\ub0ae\uc5d0 \ub728\ub294 \ub2ec)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
+  "tracks": [
+    {
+      "album": {
+        "name": "1second 1minute 1hour (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yh02vaodFrkPZzC7Oei0H"
+      },
+      "artists": [
+        {
+          "name": "2am",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216426,
+      "name": "1second 1minute 1hour (Something Between Us X 2am)",
+      "url": "https://open.spotify.com/track/3EbrxxZPM9DF1AtpTRWIxJ"
+    },
+    {
+      "album": {
+        "name": "1second 1minute 1hour (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/0kvfmlPE9ZmDt5gazP1jsG"
+      },
+      "artists": [
+        {
+          "name": "2AM",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 216426,
+      "name": "1second 1minute 1hour (Something Between Us X 2am)",
+      "url": "https://open.spotify.com/track/3zOfZsJpefV3GP8YVvEpxf"
+    },
+    {
+      "album": {
+        "name": "99 (Guide to Proper Romance X Standing Egg)",
+        "url": "https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 212786,
+      "name": "99 (Guide to Proper Romance X Standing Egg)",
+      "url": "https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Farewell - I am Re:Born #1",
+        "url": "https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250211,
+      "name": "A Beautiful Farewell",
+      "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
+    },
+    {
+      "album": {
+        "name": "Zombie daughter (Original Soundtrack) : A long dream",
+        "url": "https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd"
+      },
+      "artists": [
+        {
+          "name": "ThorThor",
+          "url": "https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213972,
+      "name": "A long dream (Full Ver.)",
+      "url": "https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi"
+    },
+    {
+      "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "album": {
+        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.4 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5y7G9hLSy3gym4N4E3ZyEU"
+      },
+      "artists": [
+        {
+          "name": "mim",
+          "url": "https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248063,
+      "name": "a trace of you",
+      "url": "https://open.spotify.com/track/6tyvohlALbw5BFxF4coKIA"
+    },
+    {
+      "album": {
+        "name": "Dr. Choi Ki Seok (Original Webtoon Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q"
+      },
+      "artists": [
+        {
+          "name": "Mackelli",
+          "url": "https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228333,
+      "name": "About time",
+      "url": "https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT"
+    },
+    {
+      "album": {
+        "name": "The Holy Idol (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix"
+      },
+      "artists": [
+        {
+          "name": "Choe Yeong Jun",
+          "url": "https://open.spotify.com/artist/4eh2KdcEPuclJXPn0eJmmX"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205652,
+      "name": "Again, Goodbye",
+      "url": "https://open.spotify.com/track/3z3bLtpy3MYFEChJ4HmA8i"
+    },
+    {
+      "album": {
+        "name": "An Old Love Story (2021) (Romance 101 X KCM)",
+        "url": "https://open.spotify.com/album/0QxfahBU97uktmdLCLr6xG"
+      },
+      "artists": [
+        {
+          "name": "KCM",
+          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 266829,
+      "name": "An Old Love Story (2021) (Romance 101 X KCM)",
+      "url": "https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ"
+    },
+    {
+      "album": {
+        "name": "Anymore (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/2A6nEYKyCf7nF5uGlR24Ds"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167572,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/3vKX4347uUOuEECpHJwITb"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 Anchorage OST Part.2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5Qoe81SSf2cpo4QpYV0NU4"
+      },
+      "artists": [
+        {
+          "name": "The Daisy",
+          "url": "https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215672,
+      "name": "As if nothing had happened",
+      "url": "https://open.spotify.com/track/1R5QflmLVc3SvSTLRS0Nc2"
+    },
+    {
+      "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "album": {
+        "name": "Warm Black Tea (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4qbWHHolrtV3k5UUhvPOGc"
+      },
+      "artists": [
+        {
+          "name": "THE NEW SIX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "Beautiful world (Warm Black Tea Original Soundtrack)",
+      "url": "https://open.spotify.com/track/14iSjtKMGWN8lGsaOgBZwm"
+    },
+    {
+      "album": {
+        "name": "Better for Me (Nth Romance X MeloMance)",
+        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239853,
+      "name": "Better for Me (Nth Romance X MeloMance)",
+      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
+    },
+    {
+      "album": {
+        "name": "A Kiss at Tiffany's (Original Soundtrack), Part.1",
+        "url": "https://open.spotify.com/album/4MAj4sqXeEyqtzEeWnOUGs"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 195200,
+      "name": "breath",
+      "url": "https://open.spotify.com/track/2Jj5O7jDSKkgsSTTuGuQc4"
+    },
+    {
+      "album": {
+        "name": "By My Side (Webtoon 'The Beloved Little Princess' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KjhisTl80v6Uu9w1Y01mu"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209051,
+      "name": "By My Side (Webtoon 'The Beloved Little Princess' Original Soundtrack)",
+      "url": "https://open.spotify.com/track/4Xsa6atNGdwG3U85u2FZcV"
+    },
+    {
+      "album": {
+        "name": "Oh, Boy! OST Part.6 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0fTmqsnPjWnTAyf5BGLeET"
+      },
+      "artists": [
+        {
+          "name": "Lydia",
+          "url": "https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262677,
+      "name": "Can you see",
+      "url": "https://open.spotify.com/track/14K731siyf3Yj1Q6eQ8zZq"
+    },
+    {
+      "album": {
+        "name": "Daily JoJo (Original Webtoon Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176946,
+      "name": "Cinderella's Love (Daily JoJo)",
+      "url": "https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj"
+    },
+    {
+      "album": {
+        "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
+        "url": "https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 207560,
+      "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
+      "url": "https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15"
+    },
+    {
+      "album": {
+        "name": "Crush on you (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/5vwF93uqQGNxV1BiDuWqqr"
+      },
+      "artists": [
+        {
+          "name": "Jeong Yu Jin",
+          "url": "https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD"
+        },
+        {
+          "name": "Sujin",
+          "url": "https://open.spotify.com/artist/1CO3fh4c1J46zsUWpHMITX"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 188003,
+      "name": "Crush on you (No brakes for your curves)",
+      "url": "https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q"
+    },
+    {
+      "album": {
+        "name": "Cry Baby",
+        "url": "https://open.spotify.com/album/5gvtuOuBl0BECmw76yifnW"
+      },
+      "artists": [
+        {
+          "name": "Official HIGE DANdism",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 240284,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/3IDF7N86lrcWaJEt9C1gbS"
+    },
+    {
+      "album": {
+        "name": "Cry Baby",
+        "url": "https://open.spotify.com/album/0OWATchDPifiDyvGEf2ddO"
+      },
+      "artists": [
+        {
+          "name": "Official HIGE DANdism",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240284,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/7vBX6cVsCPFSx2C58hpZ4f"
+    },
+    {
+      "album": {
+        "name": "Editorial",
+        "url": "https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 241680,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK"
+    },
+    {
+      "album": {
+        "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
+        "url": "https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228720,
+      "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
+      "url": "https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC"
+    },
+    {
+      "album": {
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
+    },
+    {
+      "album": {
+        "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+        "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226560,
+      "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
+      "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
+    },
+    {
+      "album": {
+        "name": "Don't Move Away (WEBTOON 'Good Doctor' X KIM JAE HYUNG)",
+        "url": "https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HYUNG",
+          "url": "https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "Don\u2032t Move Away",
+      "url": "https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y"
+    },
+    {
+      "album": {
+        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243866,
+      "name": "Draw",
+      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
+    },
+    {
+      "album": {
+        "name": "The Crush Of Spring OST Part.1",
+        "url": "https://open.spotify.com/album/1ayPFczFbalnsDqBh92GoP"
+      },
+      "artists": [
+        {
+          "name": "YEO-EUN",
+          "url": "https://open.spotify.com/artist/16fjppxQxQKpRH2Z1FUxww"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 222685,
+      "name": "Drip Drip Drip",
+      "url": "https://open.spotify.com/track/1rfYUwAohM9nZJbscZFCWl"
+    },
+    {
+      "album": {
+        "name": "Drive Away (Marriage Or Death X SURAN)",
+        "url": "https://open.spotify.com/album/2IbKSIHCu6c5Tfw5SjbDCA"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209960,
+      "name": "Drive Away",
+      "url": "https://open.spotify.com/track/6QE9JHwECUV28SeCVk4zO1"
+    },
+    {
+      "album": {
+        "name": "Echo [From \"Solo Leveling\" (Original Soundtrack)]",
+        "url": "https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 225973,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre"
+    },
+    {
+      "album": {
+        "name": "Yeolguk Scandal (Original Soundtrack), Part. 1",
+        "url": "https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Empty Spot",
+      "url": "https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8"
+    },
+    {
+      "album": {
+        "name": "Feel Empty (WEBTOON 'Discovery of Love' X OuiOui)",
+        "url": "https://open.spotify.com/album/66yLRKVouimpFdrbQupUdL"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 202920,
+      "name": "Feel Empty (WEBTOON 'Discovery of Love' X OuiOui)",
+      "url": "https://open.spotify.com/track/0tEJych2LdCffCFYVn5vU0"
+    },
+    {
+      "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
+    },
+    {
+      "album": {
+        "name": "Fox Rain (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "Fox Rain (The Moon during the Day)",
+      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
+    },
+    {
+      "album": {
+        "name": "Webtoon The Red Sleeve (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2FxNxbv5XY55H700JbvoK3"
+      },
+      "artists": [
+        {
+          "name": "Rumble Fish",
+          "url": "https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 233647,
+      "name": "Good bye my love",
+      "url": "https://open.spotify.com/track/4sTXT0ArcrA5FHRjQLm6qc"
+    },
+    {
+      "album": {
+        "name": "It Was All a Mistake OST Part. 1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224266,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt"
+    },
+    {
+      "album": {
+        "name": "Goodbye Now (Love Revolution X TOMORROW X TOGETHER) [Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/6dT50XMh2FjyJOINykOAd3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276520,
+      "name": "Goodbye Now",
+      "url": "https://open.spotify.com/track/1bIhEN6lxZTokWS7Qk5DJP"
+    },
+    {
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.18 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3ardg1OkWTrhUc8pH9b18n"
+      },
+      "artists": [
+        {
+          "name": "CANDO",
+          "url": "https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228096,
+      "name": "Guess I still miss you",
+      "url": "https://open.spotify.com/track/4foQqq9ScD8LlcLkxpmPiU"
+    },
+    {
+      "album": {
+        "name": "Hanyang Diaries, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2HtX81YADYdTbNt4wlpcCS"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 209653,
+      "name": "Half of Half",
+      "url": "https://open.spotify.com/track/4yAaTghM4WlFmkcMn8OltI"
+    },
+    {
+      "album": {
+        "name": "The Crush Of Spring OST Part.3",
+        "url": "https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji"
+      },
+      "artists": [
+        {
+          "name": "ALi",
+          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224103,
+      "name": "Hold me \u2026",
+      "url": "https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi"
+    },
+    {
+      "album": {
+        "name": "The Crush Of Spring OST Part.15",
+        "url": "https://open.spotify.com/album/2Vs9a6xFjTehdTeIueAF5u"
+      },
+      "artists": [
+        {
+          "name": "Han Ga Bin",
+          "url": "https://open.spotify.com/artist/5VXpgnStSS71wk0kWGKwQv"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222623,
+      "name": "I can't even love you",
+      "url": "https://open.spotify.com/track/0V62KTZFy4GcURYyK67QDi"
+    },
+    {
+      "album": {
+        "name": "Oh, Boy! OST Part.17 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3zaTEUZbs7Sg3Um8AeC3rb"
+      },
+      "artists": [
+        {
+          "name": "CANDO",
+          "url": "https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204002,
+      "name": "I can't forget",
+      "url": "https://open.spotify.com/track/6Z0WLXnpWWkHSgHTgUzw6Y"
+    },
+    {
+      "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 306499,
+      "name": "I Don't Want To Say Goodbye",
+      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubc88 \uc0dd\ub3c4 \uc798 \ubd80\ud0c1\ud574 (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/1N6PHZyXcosA53JZgqfkZC"
+      },
+      "artists": [
+        {
+          "name": "Yeoeun",
+          "url": "https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 226321,
+      "name": "I feel you (My life is in your hands X Yeo Eun)",
+      "url": "https://open.spotify.com/track/1DJY4YIgrOqvV6dgDG7pZK"
+    },
+    {
+      "album": {
+        "name": "Naver webtoon 'Love Revolution' (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh"
+      },
+      "artists": [
+        {
+          "name": "Oisobagi",
+          "url": "https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 256314,
+      "name": "I Like You, But Got Tired of Liking You",
+      "url": "https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ"
+    },
+    {
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/2E2XzUwbkkjeOkCVIScLmO"
+      },
+      "artists": [
+        {
+          "name": "Song Pu Reum",
+          "url": "https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 237957,
+      "name": "I still miss you",
+      "url": "https://open.spotify.com/track/707JA03fZSI9FJGSzenyMf"
+    },
+    {
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.10 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM"
+      },
+      "artists": [
+        {
+          "name": "Tae Hwa Yoon",
+          "url": "https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223442,
+      "name": "I wait for you without knowing",
+      "url": "https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU"
+    },
+    {
+      "album": {
+        "name": "The Legendary Moonlight Sculptor Webtoon OST Part.1",
+        "url": "https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Chul",
+          "url": "https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 223693,
+      "name": "I will give you all",
+      "url": "https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y"
+    },
+    {
+      "album": {
+        "name": "I'M BACK (Killer Peter X BLAS\u00c9)[Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176711,
+      "name": "I'M BACK",
+      "url": "https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd"
+    },
+    {
+      "album": {
+        "name": "Webtoon YeonNom OST Part.4",
+        "url": "https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 244986,
+      "name": "I'm into you, I mean Love you",
+      "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
+    },
+    {
+      "album": {
+        "name": "The Holy Idol (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182469,
+      "name": "If we\u2026",
+      "url": "https://open.spotify.com/track/3hN9w8H3x1Aufiz5gjug2a"
+    },
+    {
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.28 (Soundtrack)",
+        "url": "https://open.spotify.com/album/4YmmFQg7H9aosnIhLeAFJf"
+      },
+      "artists": [
+        {
+          "name": "Hwang Si Yeon",
+          "url": "https://open.spotify.com/artist/6fOuKiA7NquVRt5TLWQ1nk"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208743,
+      "name": "If you hold my hand",
+      "url": "https://open.spotify.com/track/2LMIQGEQVRGADX8rgsbohA"
+    },
+    {
+      "album": {
+        "name": "In this world (Webtoon'Plainwalker of Stigmatization' X KIMJAEJOONG) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5efMyrzwotQXz5qxucXZQA"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 237173,
+      "name": "In this world",
+      "url": "https://open.spotify.com/track/2vXa3jnw1puqq9mRw4Nuit"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c (Original Soundtrack), Pt1",
+        "url": "https://open.spotify.com/album/0EkaOnrGPsSU6XRE6AW0DX"
+      },
+      "artists": [
+        {
+          "name": "Ran",
+          "url": "https://open.spotify.com/artist/45WeznifMIAugR9udUQTNS"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253218,
+      "name": "Is it all right",
+      "url": "https://open.spotify.com/track/0KngKTAh6HAlvAWp1rmmrj"
+    },
+    {
+      "album": {
+        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 204013,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 Anchorage OST Part.3 (Soundtrack)",
+        "url": "https://open.spotify.com/album/25VwWPtgnTjfsczZ7KwMj0"
+      },
+      "artists": [
+        {
+          "name": "Han Kyung Il",
+          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210469,
+      "name": "It's always you",
+      "url": "https://open.spotify.com/track/0eK4urzQJx9OtXbkzyp6qs"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 Anchorage OST Part.19 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0IEOcub1mb7jJz3wvvtXWn"
+      },
+      "artists": [
+        {
+          "name": "BBAHN",
+          "url": "https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202575,
+      "name": "It's not what I want",
+      "url": "https://open.spotify.com/track/6tEAPcJcKXUfAs2QveWgpQ"
+    },
+    {
+      "album": {
+        "name": "JAMSOO (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/7DaBWuXwdIRQtlzI5aKbsi"
+      },
+      "artists": [
+        {
+          "name": "Mommy Son",
+          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
+        },
+        {
+          "name": "Chanju",
+          "url": "https://open.spotify.com/artist/0NRIbW4KwwagasAJw8GfTm"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 203760,
+      "name": "JAMSOO",
+      "url": "https://open.spotify.com/track/66iI9spr5VTGqkdmdjKz3G"
+    },
+    {
+      "album": {
+        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
+        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195906,
+      "name": "Just stay with me (Feat. Swan)",
+      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
+    },
+    {
+      "album": {
+        "name": "Webtoon 'Return of the Blossoming Blade' Part. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3YQ7TbgFOVsiWt3nneBhFm"
+      },
+      "artists": [
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        },
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 207013,
+      "name": "Last Sword Dance (Feat. Koonta)",
+      "url": "https://open.spotify.com/track/5lRbrmGzrBFqDRNS95yY9l"
+    },
+    {
+      "album": {
+        "name": "The stairway of Time OST Part 2. Last trip",
+        "url": "https://open.spotify.com/album/52xTAL9ScEQC9OzO2tCdLm"
+      },
+      "artists": [
+        {
+          "name": "Kim NamJoo",
+          "url": "https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 245880,
+      "name": "Last trip (The stairway of Time X Kim Namjoo (Apink))",
+      "url": "https://open.spotify.com/track/1knhMBYdhLHleCJwPbJtvi"
+    },
+    {
+      "album": {
+        "name": "Tomb Raider King (Original Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/1ABAgDrnDMD9MzWVBOuLJA"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 241973,
+      "name": "Leaving you (From \"Tomb Raider King\")",
+      "url": "https://open.spotify.com/track/15SkcMXeM3kBDqC0ckm7Bq"
+    },
+    {
+      "album": {
+        "name": "Tomb Raider King (Original Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/2HKIoDcbh22DS3R1xxEe88"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241973,
+      "name": "Leaving you (From \"Tomb Raider King\")",
+      "url": "https://open.spotify.com/track/6BnQTBEWTioAJ8wVUQXthB"
+    },
+    {
+      "album": {
+        "name": "LETTER (True Beauty X VIINI)",
+        "url": "https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o"
+      },
+      "artists": [
+        {
+          "name": "VIINI",
+          "url": "https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 222207,
+      "name": "LETTER (True Beauty X VIINI)",
+      "url": "https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7"
+    },
+    {
+      "album": {
+        "name": "Dr. Choi Ki Seok (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6jcnqltbs1c31gfYAN1lFJ"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc11c\ud55c",
+          "url": "https://open.spotify.com/artist/34Ptc7mUlhZcBgXALaQZuc"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/5k2RprgovPaCBYahMWKSGV"
+    },
+    {
+      "album": {
+        "name": "Lost Way (Good Doctor X Gaho)",
+        "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "Lost Way",
+      "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
+    },
+    {
+      "album": {
+        "name": "Love Diary (Back to You X Lee MinHyuk)",
+        "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230853,
+      "name": "Love Diary (Back to You X Lee MinHyuk)",
+      "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
+    },
+    {
+      "album": {
+        "name": "Love is always thisty (Nth Romance X Lee Hae Ri)",
+        "url": "https://open.spotify.com/album/1hYLPYFP9kprWeymUwGIN1"
+      },
+      "artists": [
+        {
+          "name": "Lee Hae Ri",
+          "url": "https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 276693,
+      "name": "Love is always thisty (Nth Romance X Lee Hae Ri)",
+      "url": "https://open.spotify.com/track/3AxlCZSy0Yk9vQfAW6l4rI"
+    },
+    {
+      "album": {
+        "name": "Love Me Back (From \"Operation: True Love\")",
+        "url": "https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Love Me Back",
+      "url": "https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
+    },
+    {
+      "album": {
+        "name": "Meeting (The Moon during the Day) [2023 Remake]",
+        "url": "https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "date_added": "2023-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Meeting (The Moon during the Day) [2023 Remake]",
+      "url": "https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq"
+    },
+    {
+      "album": {
+        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
+    },
+    {
+      "album": {
+        "name": "Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1",
+        "url": "https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f"
+      },
+      "artists": [
+        {
+          "name": "AleXa",
+          "url": "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260173,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK"
+    },
+    {
+      "album": {
+        "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
+        "url": "https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
+      "url": "https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir"
+    },
+    {
+      "album": {
+        "name": "Oh, Boy! OST Part.18 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1uhGglTdvY0sFWq99dCEyw"
+      },
+      "artists": [
+        {
+          "name": "Geum Nara",
+          "url": "https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198815,
+      "name": "Missing you at the night",
+      "url": "https://open.spotify.com/track/2yligKIUYBMtw9XW8CfjN2"
+    },
+    {
+      "album": {
+        "name": "Moonlight (From ''Love Revolution'' Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/3NyfTWpWxCZD0kI0zmBITJ"
+      },
+      "artists": [
+        {
+          "name": "Minhyun",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 194466,
+      "name": "Moonlight (From ''Love Revolution'' Original Webtoon Soundtrack)",
+      "url": "https://open.spotify.com/track/5VMzbtKYJUMwE358F4aa9Z"
+    },
+    {
+      "album": {
+        "name": "My 20th Twenty (Original Webdrama Sountrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/71EhGfqFpVNw0fsLfgyyfx"
+      },
+      "artists": [
+        {
+          "name": "Park Jin Joo",
+          "url": "https://open.spotify.com/artist/05AYUT9lXm5E4N2Z2wVlXm"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222252,
+      "name": "My 20th Twenty",
+      "url": "https://open.spotify.com/track/6EbXl39EhKldo6XU4q9MCe"
+    },
+    {
+      "album": {
+        "name": "My Love is Pain (Marriage Or Death X Mad Clown, Sondia)",
+        "url": "https://open.spotify.com/album/7glE3yJAC0V371XkEJYVqf"
+      },
+      "artists": [
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        },
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 222653,
+      "name": "My Love is Pain",
+      "url": "https://open.spotify.com/track/4de2K1NmgYTYiuCp1EioYs"
+    },
+    {
+      "album": {
+        "name": "My Reflection (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/2uLI89pW1DWuduHzqjTqQs"
+      },
+      "artists": [
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 187480,
+      "name": "My Reflection (Original Soundtrack from the Webtoon Fight For My Way)",
+      "url": "https://open.spotify.com/track/2z7QJnit7gxHVx2ASw5EzX"
+    },
+    {
+      "album": {
+        "name": "Never Loved This Way Before (From \u201cOdd Girl Out\u201d [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/5LfgBPnKXHErPlbLBdQyvG"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259346,
+      "name": "Never Loved This Way Before",
+      "url": "https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx"
+    },
+    {
+      "album": {
+        "name": "\uc789\uc5b4\ub2d8\uacfc \ub5a1\ubcf6\uc774 OST Part.24 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1KYa1Zcm38TDO0xIO2kehB"
+      },
+      "artists": [
+        {
+          "name": "CANDO",
+          "url": "https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243765,
+      "name": "Never say",
+      "url": "https://open.spotify.com/track/0g123qCff4LxJwlOakrrEZ"
+    },
+    {
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.27 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1kYAQYCwWf0KtJe7FY6OqP"
+      },
+      "artists": [
+        {
+          "name": "Damu",
+          "url": "https://open.spotify.com/artist/2djPGnMPnVWhKcVvjcpAF6"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200558,
+      "name": "No, I shouldn't",
+      "url": "https://open.spotify.com/track/2jxU1hwrnitK6rZ59xZXsY"
+    },
+    {
+      "album": {
+        "name": "A Match Made in the Past OST",
+        "url": "https://open.spotify.com/album/362clfXMZn5EiwE3M81Zeu"
+      },
+      "artists": [
+        {
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196210,
+      "name": "Only if I have you",
+      "url": "https://open.spotify.com/track/3A4Sa8vjPGVpG0YHSCrFqq"
+    },
+    {
+      "album": {
+        "name": "Only you (Romance 101 X Yang Yo Seop)",
+        "url": "https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ"
+      },
+      "artists": [
+        {
+          "name": "YANG YO SEOP",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 203253,
+      "name": "Only you (Romance 101 X Yang Yo Seop)",
+      "url": "https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi"
+    },
+    {
+      "album": {
+        "name": "Only you (The Moon during the Day X GB9)",
+        "url": "https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw"
+      },
+      "artists": [
+        {
+          "name": "GB9",
+          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286013,
+      "name": "Only you (The Moon during the Day X GB9)",
+      "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
+    },
+    {
+      "album": {
+        "name": "Painful, Angry and Sorry",
+        "url": "https://open.spotify.com/album/6qPARj3DqxMNepmW1cnMLO"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "Painful, Angry and Sorry",
+      "url": "https://open.spotify.com/track/5nYbI8sOHwRGBEGsSLh9bM"
+    },
+    {
+      "album": {
+        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
+    },
+    {
+      "album": {
+        "name": "Pont Alexandre iii (Nth Romance X KIMMUSEUM)",
+        "url": "https://open.spotify.com/album/2LhHwUyIqFp8dlJc6OGxGT"
+      },
+      "artists": [
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 165590,
+      "name": "Pont Alexandre iii (Nth Romance X KIMMUSEUM)",
+      "url": "https://open.spotify.com/track/1JfGO5Y59Ly5KK5cjncV1r"
+    },
+    {
+      "album": {
+        "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
+        "url": "https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR"
+      },
+      "artists": [
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217813,
+      "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
+      "url": "https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT"
+    },
+    {
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/1Cw2pkPhAdMgC4Rbxvw3hY"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244293,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/1sEzRGv6CMdCDjaAskPDCR"
+    },
+    {
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/6FJeK4tNoD7IOBVdSOr3Zq"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 244293,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/4rawC7AAxKfUdDB75IVTXu"
+    },
+    {
+      "album": {
+        "name": "Sad Ending [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 5]",
+        "url": "https://open.spotify.com/album/15WI2IO8kqv9cChrbc65A2"
+      },
+      "artists": [
+        {
+          "name": "Kang Min Hee",
+          "url": "https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 207727,
+      "name": "Sad Ending [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 5]",
+      "url": "https://open.spotify.com/track/5qYNQiXaRyUV2JBux6kIXv"
+    },
+    {
+      "album": {
+        "name": "Same as Your Ex (Marriage Or Death X Leehwamyeong)",
+        "url": "https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq"
+      },
+      "artists": [
+        {
+          "name": "\uc774\ud654\uba85",
+          "url": "https://open.spotify.com/artist/6gkwLpOhRKekMHrlThg9Y5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 221000,
+      "name": "Same as Your Ex",
+      "url": "https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ"
+    },
+    {
+      "album": {
+        "name": "Oh, Boy! OST Part.14 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5iRBd5MR76tUNyUS0qgNAN"
+      },
+      "artists": [
+        {
+          "name": "The Daisy",
+          "url": "https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203648,
+      "name": "Saying I love you is not enough",
+      "url": "https://open.spotify.com/track/72znvgKko4lB4fXqrHQe00"
+    },
+    {
+      "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/4Ddvn34VTjczpUK8FvyI35"
+      },
+      "artists": [
+        {
+          "name": "YOO YEONJUNG(WJSN)",
+          "url": "https://open.spotify.com/artist/5qZUq6ijHZTasLNjljdFKO"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/3ELM8jqcULO29nHsTup8WQ"
+    },
+    {
+      "album": {
+        "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
+        "url": "https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 227986,
+      "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
+      "url": "https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR"
+    },
+    {
+      "album": {
+        "name": "The Crush Of Spring OST Part.11",
+        "url": "https://open.spotify.com/album/23J6KpkSpALFrMGcXd2VZw"
+      },
+      "artists": [
+        {
+          "name": "\ub780(RAN)",
+          "url": "https://open.spotify.com/artist/5JCsBzT5iTN0rGLMLfb2EF"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 225908,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF"
+    },
+    {
+      "album": {
+        "name": "something between us (Romance 101 X george)",
+        "url": "https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 248076,
+      "name": "something between us (Romance 101 X george)",
+      "url": "https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH"
+    },
+    {
+      "album": {
+        "name": "Lee Doona Project Part 2",
+        "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
+      },
+      "artists": [
+        {
+          "name": "Lee Doona",
+          "url": "https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Something I want to tell you only.",
+      "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
+    },
+    {
+      "album": {
+        "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
+        "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "An da eun",
+          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207613,
+      "name": "Spring Is Come By Chance",
+      "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
+    },
+    {
+      "album": {
+        "name": "Star (Back to you X An Da Eun)",
+        "url": "https://open.spotify.com/album/15gLG6IxJWK0Fa33mehRzV"
+      },
+      "artists": [
+        {
+          "name": "An da eun",
+          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 298640,
+      "name": "Star (Back to you X An Da Eun)",
+      "url": "https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn"
+    },
+    {
+      "album": {
+        "name": "Stay Alive (Prod. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210928,
+      "name": "Stay Alive (Prod. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+    },
+    {
+      "album": {
+        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
+      },
+      "artists": [
+        {
+          "name": "Choco And Vanilla",
+          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176997,
+      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
+    },
+    {
+      "album": {
+        "name": "Survival Log X YOUNGDOONG - Keep going(Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/6gXXtK0DiUHEttuZnWjyc3"
+      },
+      "artists": [
+        {
+          "name": "Kenzi",
+          "url": "https://open.spotify.com/artist/6WNQgcI0bd9sNw8EznPOgF"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 153132,
+      "name": "Survival Log X YOUNGDOONG - Keep going(Original Webtoon Soundtrack)",
+      "url": "https://open.spotify.com/track/2K5aam6OaUxiSIkPARLFkZ"
+    },
+    {
+      "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "album": {
+        "name": "Tear Thief (The Forbidden Marriage X Kim Jong Kook)",
+        "url": "https://open.spotify.com/album/5uRHJ5gqXFB7q4Je5PlhLR"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 230960,
+      "name": "Tear Thief (The Forbidden Marriage X Kim Jong Kook)",
+      "url": "https://open.spotify.com/track/67Ouhn0JV62GyxpLBDXfVZ"
+    },
+    {
+      "album": {
+        "name": "TEARS (WEBTOON 'Discovery of Love' X HWANG CHI YEUL)",
+        "url": "https://open.spotify.com/album/5aXUCMv5HgCScCSUKhxVPT"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 231640,
+      "name": "TEARS (WEBTOON 'Discovery of Love' X HWANG CHI YEUL)",
+      "url": "https://open.spotify.com/track/0pRpX95wMdfhszOe7QkVYx"
+    },
+    {
+      "album": {
+        "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
+        "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
+      },
+      "artists": [
+        {
+          "name": "YANG YO SEOP",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        },
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 192493,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
+    },
+    {
+      "album": {
+        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c"
+      },
+      "artists": [
+        {
+          "name": "\uc2b9\ud76c",
+          "url": "https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "The day",
+      "url": "https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI"
+    },
+    {
+      "album": {
+        "name": "The day, you left",
+        "url": "https://open.spotify.com/album/7lvmg9mp90fdnTOSHQ0Bmi"
+      },
+      "artists": [
+        {
+          "name": "Ryu Su Jeong",
+          "url": "https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 215266,
+      "name": "The day, you left",
+      "url": "https://open.spotify.com/track/6XwYhpviRrXo0gcxE9whmC"
+    },
+    {
+      "album": {
+        "name": "The Extra (One of a Kind Romance)",
+        "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
+      },
+      "artists": [
+        {
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 175480,
+      "name": "The Extra (One of a Kind Romance)",
+      "url": "https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg"
+    },
+    {
+      "album": {
+        "name": "The first love [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 3]",
+        "url": "https://open.spotify.com/album/0JzL8yKGTU8CxBmZRFFOmR"
+      },
+      "artists": [
+        {
+          "name": "YODAYOUNG",
+          "url": "https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 236190,
+      "name": "The first love [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 3]",
+      "url": "https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7"
+    },
+    {
+      "album": {
+        "name": "The invention of romance (WEBTOON 'Discovery of Love' X BIG Naughty)",
+        "url": "https://open.spotify.com/album/3aoVOedTKPTcLJBa7F5ofg"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179853,
+      "name": "The invention of romance (WEBTOON 'Discovery of Love' X BIG Naughty)",
+      "url": "https://open.spotify.com/track/3VwwxnQlYfAIIIWwgvdAWR"
+    },
+    {
+      "album": {
+        "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
+        "url": "https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233040,
+      "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
+      "url": "https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5"
+    },
+    {
+      "album": {
+        "name": "The Moon Has Passed (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226386,
+      "name": "The Moon Has Passed",
+      "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
+    },
+    {
+      "album": {
+        "name": "\uc789\uc5b4\ub2d8\uacfc \ub5a1\ubcf6\uc774 OST Part.17 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5rRUcHvm5fmjI9ZFuzIfwp"
+      },
+      "artists": [
+        {
+          "name": "Yeoeun",
+          "url": "https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250737,
+      "name": "The saddest song",
+      "url": "https://open.spotify.com/track/2PQnxR5z0a7DK7pUonHAY3"
+    },
+    {
+      "album": {
+        "name": "Oh, Boy! OST Part.5 (Soundtrack)",
+        "url": "https://open.spotify.com/album/33UKFC52oo23UDKlVcJAD6"
+      },
+      "artists": [
+        {
+          "name": "An Ye Seul",
+          "url": "https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "The sweetest words in the world 'I Love You'",
+      "url": "https://open.spotify.com/track/14SOF44GRNxuaWU6ImnK1e"
+    },
+    {
+      "album": {
+        "name": "The Crush Of Spring OST Part.9",
+        "url": "https://open.spotify.com/album/7uA5KDUQnGaPpE1Ccs8gwf"
+      },
+      "artists": [
+        {
+          "name": "Han Kyung Il",
+          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231008,
+      "name": "The two of us",
+      "url": "https://open.spotify.com/track/211qUU0CXl8NqovMvW3LSc"
+    },
+    {
+      "album": {
+        "name": "Oh, Boy! OST Part.4 (Soundtrack)",
+        "url": "https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q"
+      },
+      "artists": [
+        {
+          "name": "BBAHN",
+          "url": "https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234128,
+      "name": "The way I love you",
+      "url": "https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k"
+    },
+    {
+      "album": {
+        "name": "The Crush Of Spring OST Part.6",
+        "url": "https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI"
+      },
+      "artists": [
+        {
+          "name": "Suki",
+          "url": "https://open.spotify.com/artist/3nvehGmSWu2jlnWSC2EacH"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216565,
+      "name": "To be honest I still love you",
+      "url": "https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq"
+    },
+    {
+      "album": {
+        "name": "Today's Weather (From \"Spring Is Gone\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/6RCjA02nGoEqphsjT6ZQGZ"
+      },
+      "artists": [
+        {
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220745,
+      "name": "Today's Weather (From \"Spring Is Gone\" [Original Soundtrack])",
+      "url": "https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl"
+    },
+    {
+      "album": {
+        "name": "The Crush Of Spring OST Special Track",
+        "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
+      },
+      "artists": [
+        {
+          "name": "MJ",
+          "url": "https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 190522,
+      "name": "Walking In The Memory",
+      "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
+    },
+    {
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.11 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs"
+      },
+      "artists": [
+        {
+          "name": "Geum Nara",
+          "url": "https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200165,
+      "name": "Way too young",
+      "url": "https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp"
+    },
+    {
+      "album": {
+        "name": "What I want (From \"Odd Girl Out\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/3lWs144DBXJa8j6hERrwQK"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 238066,
+      "name": "What I want",
+      "url": "https://open.spotify.com/track/2ScUp6vBAjf54kK6nxSHdo"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (Good Doctor X XIA)",
+        "url": "https://open.spotify.com/album/5PF1OECcTJ7s3XhEHr1lNd"
+      },
+      "artists": [
+        {
+          "name": "XIA",
+          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz"
+    },
+    {
+      "album": {
+        "name": "When You Believe",
+        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
+    },
+    {
+      "album": {
+        "name": "Why isn't love always easy? (Romance 101 X JOY)",
+        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 221040,
+      "name": "Why isn't love always easy? (Romance 101 X JOY)",
+      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
+    },
+    {
+      "album": {
+        "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
+        "url": "https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260493,
+      "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
+      "url": "https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis"
+    },
+    {
+      "album": {
+        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237253,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
+    },
+    {
+      "album": {
+        "name": "Write about you (Romance 101 X Lyn)",
+        "url": "https://open.spotify.com/album/6sD8MQDSyDX4CYQeOG5rWo"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 207346,
+      "name": "Write about you (Romance 101 X Lyn)",
+      "url": "https://open.spotify.com/track/340ukejhWUMEDKdHCCpJm4"
+    },
+    {
+      "album": {
+        "name": "Living as A Villain OST Part.18 (Soundtrack)",
+        "url": "https://open.spotify.com/album/7HXjoRtOSdGEOeKf1u6soW"
+      },
+      "artists": [
+        {
+          "name": "Dearming",
+          "url": "https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200409,
+      "name": "You didn't love me from the beginning",
+      "url": "https://open.spotify.com/track/0gjJEpjTCU5jZeqCwduQD4"
+    },
+    {
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.21 (Soundtrack)",
+        "url": "https://open.spotify.com/album/6bCJ6pN7Pa2s5plf463iFq"
+      },
+      "artists": [
+        {
+          "name": "Jo Moon Geun",
+          "url": "https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240543,
+      "name": "You know",
+      "url": "https://open.spotify.com/track/3cP2EqkvaKpcPI3EGXPLX7"
+    },
+    {
+      "album": {
+        "name": "You, you (Nth Romance X Whee In)",
+        "url": "https://open.spotify.com/album/2AwYEmQzovBhhQ4chgiQcz"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271213,
+      "name": "You, you (Nth Romance X Whee In)",
+      "url": "https://open.spotify.com/track/2vqbApjmIGDYunVMD4hXBB"
+    },
+    {
+      "album": {
+        "name": "Your Day (Romance 101 X Loco)",
+        "url": "https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 199986,
+      "name": "Your Day (Romance 101 X Loco)",
+      "url": "https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn"
+    },
+    {
+      "album": {
+        "name": "Your Name [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 1]",
+        "url": "https://open.spotify.com/album/0425VpxacGwIfKNdxvR4rj"
+      },
+      "artists": [
+        {
+          "name": "EB",
+          "url": "https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 194120,
+      "name": "Your Name [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 1]",
+      "url": "https://open.spotify.com/track/77HhbrrRrEJzBcgaaUx3cZ"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.12",
+        "url": "https://open.spotify.com/album/0YCzPT5o16rWbEXm7k3p62"
+      },
+      "artists": [
+        {
+          "name": "Han Kyung Il",
+          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210224,
+      "name": "\uadf8\ub300\uc758 \uc190\uc7a1\uace0 \uac78\uc5b4\uac08\ub54c\uba74",
+      "url": "https://open.spotify.com/track/7uiYOkO9RAHKxBIWQ4tlG5"
+    },
+    {
+      "album": {
+        "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt.24",
+        "url": "https://open.spotify.com/album/2SbPuwSFkGEeqYYvTsQRsW"
+      },
+      "artists": [
+        {
+          "name": "JOO WON TAK",
+          "url": "https://open.spotify.com/artist/2xiWDvlMPYGgbTIzySLyO8"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196255,
+      "name": "\uadf8\ub550 \ub0b4\uac00 \uba3c\uc800 \uc6c3\uc5b4\ubcfc\uac8c",
+      "url": "https://open.spotify.com/track/0gYMkoKZZHsXAPBWd92gJh"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.17",
+        "url": "https://open.spotify.com/album/4b1AKObPeD9RwpbEqYNUTl"
+      },
+      "artists": [
+        {
+          "name": "An Ye Seul",
+          "url": "https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236831,
+      "name": "\uae30\uc801\uc774\ub780 \uc774\ub7f0\uac78\uae4c",
+      "url": "https://open.spotify.com/track/1P4T8jbSKFn1eQwUxJWeFl"
+    },
+    {
+      "album": {
+        "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt. 9",
+        "url": "https://open.spotify.com/album/0BHhkr4LxrVN0GcEtLrUG6"
+      },
+      "artists": [
+        {
+          "name": "Rumy",
+          "url": "https://open.spotify.com/artist/56q60vgstYOBFxfFQ6Q0PL"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 206506,
+      "name": "\ub0b4\uac00 \ubbf8\uc548\ud574",
+      "url": "https://open.spotify.com/track/4aoDe43Tdn2bd8hXWn0cgX"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt. 26",
+        "url": "https://open.spotify.com/album/44JbHSUAKi1QAtpU4bptjH"
+      },
+      "artists": [
+        {
+          "name": "Gureum",
+          "url": "https://open.spotify.com/artist/2m4VsaCNtjT7HT6miUYOD1"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208223,
+      "name": "\ub3cc\uc544\uc62c\uc9c0\ub3c4 \ubaa8\ub974\ub2c8",
+      "url": "https://open.spotify.com/track/09rB3mnutNJbSxvEYfAS5o"
+    },
+    {
+      "album": {
+        "name": "\ub3d9\ud589 (\uc6f9\ud230 '\uc81c\ub3c5\uc758 \uad34\ubb3c\uc544\ub0b4' OST X \uc815\ud64d\uc77c)",
+        "url": "https://open.spotify.com/album/768NZNG8kbhEJxqJBIilaM"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 251253,
+      "name": "\ub3d9\ud589",
+      "url": "https://open.spotify.com/track/26UHIMqrtQsEVvxRNJXYFa"
+    },
+    {
+      "album": {
+        "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt.12",
+        "url": "https://open.spotify.com/album/2JS3Y3BUIEyeRb4oTSHUdB"
+      },
+      "artists": [
+        {
+          "name": "Woo Yi Kyung",
+          "url": "https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 207423,
+      "name": "\ub610 \ud55c\ubc88 \ucc3e\uc544\uc62c\uae4c\uc694",
+      "url": "https://open.spotify.com/track/3k9W2HpTJNVaoMAyd9tR4e"
+    },
+    {
+      "album": {
+        "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (From \"\uc5f0\uc560\ud601\uba85\") [Soundtrack]",
+        "url": "https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc"
+      },
+      "artists": [
+        {
+          "name": "Minhyun",
+          "url": "https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194466,
+      "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c",
+      "url": "https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP"
+    },
+    {
+      "album": {
+        "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (\uc5f0\uc560\ud601\uba85 X \ubbfc\ud604 (\ub274\uc774\uc2a4\ud2b8))",
+        "url": "https://open.spotify.com/album/0i7pJETu1u7QToz2Qh9MvD"
+      },
+      "artists": [
+        {
+          "name": "\ubbfc\ud604 (\ub274\uc774\uc2a4\ud2b8)",
+          "url": "https://open.spotify.com/artist/64HIRG4yzI1n1Me435NQTa"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 194466,
+      "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (\uc5f0\uc560\ud601\uba85 X \ubbfc\ud604 (\ub274\uc774\uc2a4\ud2b8))",
+      "url": "https://open.spotify.com/track/36EBMnghpYhNvzMLkZP8Ur"
+    },
+    {
+      "album": {
+        "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt.20",
+        "url": "https://open.spotify.com/album/3skFiykxDtnPExs0m25jGi"
+      },
+      "artists": [
+        {
+          "name": "05",
+          "url": "https://open.spotify.com/artist/4vItQUuV7osVvOHUARHBnS"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242186,
+      "name": "\ubaab",
+      "url": "https://open.spotify.com/track/6lArlDCsWvxFjBK4UyxZi1"
+    },
+    {
+      "album": {
+        "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt.23",
+        "url": "https://open.spotify.com/album/3NFXkReFhOYDZdwVsc5tqW"
+      },
+      "artists": [
+        {
+          "name": "Jo Moon Geun",
+          "url": "https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232949,
+      "name": "\ubc14\ub78c\uc774 \ubd88\uba74",
+      "url": "https://open.spotify.com/track/4zq4UL2YHc50NB4KGfwdRF"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.18",
+        "url": "https://open.spotify.com/album/2wPVlr6UUDhEkmVjRUJhmX"
+      },
+      "artists": [
+        {
+          "name": "Huie",
+          "url": "https://open.spotify.com/artist/3YLz1R7PcLpYtTue8dGWlW"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230923,
+      "name": "\ubcc4\uc774 \uc9c0\uace0 \uc788\ub124\uc694",
+      "url": "https://open.spotify.com/track/7uF6STZnY2IDIdxoPsD0uh"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.11",
+        "url": "https://open.spotify.com/album/0msxFMPXqR7Vl6KYlYyxjT"
+      },
+      "artists": [
+        {
+          "name": "Huh Gong",
+          "url": "https://open.spotify.com/artist/2vV9tyqzm5Tz6TeeJaPAQj"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266090,
+      "name": "\ubd99\uc7a1\uace0 \uc2f6\uc5c8\uc5b4",
+      "url": "https://open.spotify.com/track/4eGVd6EScWz6MNZBqzGMaD"
+    },
+    {
+      "album": {
+        "name": "PETER PANDA (Original Webtoon Soundtrack) Pt.5",
+        "url": "https://open.spotify.com/album/70IKwOIoIauNtfMRTSlKUr"
+      },
+      "artists": [
+        {
+          "name": "CANDO",
+          "url": "https://open.spotify.com/artist/0xO9wbV9n5wWpzsVqtxK7a"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185493,
+      "name": "\uc0ac\ub791\uc774\uc5c8\ub2e4\uba74 \uc0ac\ub791\ud588\uc5c8\ub2e4\uba74",
+      "url": "https://open.spotify.com/track/3xbqvnMWtjMkvtYHbShgZl"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt. 28",
+        "url": "https://open.spotify.com/album/6qo1VC3B2K7WaiZZNTa3LF"
+      },
+      "artists": [
+        {
+          "name": "CODA BRIDGE",
+          "url": "https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219657,
+      "name": "\uc628\uc138\uc0c1\uc774 \ub108",
+      "url": "https://open.spotify.com/track/6sWpb7Ked0QP1LuVCKmcJZ"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.15",
+        "url": "https://open.spotify.com/album/5fkLsPU9j82Jbp32POjrFa"
+      },
+      "artists": [
+        {
+          "name": "\uae08\ub098\ub77c",
+          "url": "https://open.spotify.com/artist/5b7jOv3a6jUtgOmPiCcbEs"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202957,
+      "name": "\uc65c \uc0ac\ub791\ud558\uac8c \ud588\ub2c8",
+      "url": "https://open.spotify.com/track/5SIOX7fHJsYXbs1GRBUaE0"
+    },
+    {
+      "album": {
+        "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt.27",
+        "url": "https://open.spotify.com/album/5x98JmAAXWbA5u5G0xrB6r"
+      },
+      "artists": [
+        {
+          "name": "\ub2e4\uc5f0",
+          "url": "https://open.spotify.com/artist/67hQhPoS4fge0kmZcxHr0T"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189980,
+      "name": "\uc6b0\ub9ac \ud55c\ubc88 \ub9cc\ub098\ubcfc\uae4c",
+      "url": "https://open.spotify.com/track/1ljt74AIcMTbyvlwsGFS3a"
+    },
+    {
+      "album": {
+        "name": "I Wasn't the Cinderella OST part 2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/07sXBVe7RpL5Lux5mqpQ3Y"
+      },
+      "artists": [
+        {
+          "name": "Seo Moon Tak",
+          "url": "https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258573,
+      "name": "\uc774 \ubc24\uc744 \uc9c0\ub098",
+      "url": "https://open.spotify.com/track/11KcLs1eRcTGZQ82tJntVx"
+    },
+    {
+      "album": {
+        "name": "\ud50c\ub808\uc778\uc6cc\ucee4 X \uae40\uc7ac\uc911 (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/0M7wvYPIu6ZJ1bIG2q1Quf"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "\uc774 \uc138\uc0c1\uc5d0\uc11c (Original Webtoon Soundtrack) - Japan Version",
+      "url": "https://open.spotify.com/track/03ZOAg3nzly7ZhoP7VRcWV"
+    },
+    {
+      "album": {
+        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
+        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205050,
+      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
+      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+    },
+    {
+      "album": {
+        "name": "\ubc84\ub824\uc9c4 \uc655\ub140\ub294 \ubc18\uc5ed\ud55c\ub2e4(Original Webtoon Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/1d1anmnBgRisaPuoHTfMYC"
+      },
+      "artists": [
+        {
+          "name": "Jo Moon Geun",
+          "url": "https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208671,
+      "name": "\ucd94\uc5b5\uc744 \ub530\ub77c",
+      "url": "https://open.spotify.com/track/5bEnO13DJKHOPEaIVf2Lr0"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt. 29",
+        "url": "https://open.spotify.com/album/4Ep6MfNWCisZZGVjZd5eiK"
+      },
+      "artists": [
+        {
+          "name": "Kajin",
+          "url": "https://open.spotify.com/artist/7q4cacEQUFUHxQWwgIfSTZ"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224048,
+      "name": "\ud488",
+      "url": "https://open.spotify.com/track/4BhPMX4CcdGvd9KIQNIhnz"
+    },
+    {
+      "album": {
+        "name": "PETER PANDA (Original Webtoon Soundtrack) Pt.7",
+        "url": "https://open.spotify.com/album/5kXr2na8z5s6ugdZPbqNaA"
+      },
+      "artists": [
+        {
+          "name": "Jo Moon Geun",
+          "url": "https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240789,
+      "name": "\ud558\ub8e8\ub9cc",
+      "url": "https://open.spotify.com/track/4zFeRmRMTIlTHOYkOcZbSp"
+    },
+    {
+      "album": {
+        "name": "\ubca0\uc774\ube44 \ub4dc\ub798\uace4 (Original Webtoon Soundtrack) Pt. 7",
+        "url": "https://open.spotify.com/album/5mOdHlkIdGAgMvpJCKDLwt"
+      },
+      "artists": [
+        {
+          "name": "\uc774\ub3d9\uc724",
+          "url": "https://open.spotify.com/artist/2hxQRFmEpUBMDS4mYCkcgM"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237056,
+      "name": "\ud587\uc0b4\uac19\uc740 \uc0ac\ub791\uc785\ub2c8\ub2e4",
+      "url": "https://open.spotify.com/track/5ZYBeXAnNAQBuEZcJsb00Q"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v"
 }

@@ -1,635 +1,1809 @@
 {
-  "2022-04-05": 11339,
-  "2022-04-06": 11408,
-  "2022-04-07": 11476,
-  "2022-04-08": 11547,
-  "2022-04-09": 11667,
-  "2022-04-10": 11862,
-  "2022-04-11": 11947,
-  "2022-04-12": 11955,
-  "2022-04-13": 12061,
-  "2022-04-14": 12182,
-  "2022-04-15": 12302,
-  "2022-04-16": 12400,
-  "2022-04-17": 12533,
-  "2022-04-18": 12669,
-  "2022-04-19": 12749,
-  "2022-04-20": 12833,
-  "2022-04-21": 12933,
-  "2022-04-22": 13027,
-  "2022-04-23": 13136,
-  "2022-04-24": 13261,
-  "2022-04-25": 13357,
-  "2022-04-26": 13457,
-  "2022-04-27": 13565,
-  "2022-04-28": 13646,
-  "2022-04-29": 13785,
-  "2022-04-30": 13903,
-  "2022-05-01": 14053,
-  "2022-05-02": 14053,
-  "2022-05-03": 14128,
-  "2022-05-04": 14229,
-  "2022-05-05": 14323,
-  "2022-05-06": 14433,
-  "2022-05-07": 14542,
-  "2022-05-08": 14716,
-  "2022-05-09": 14732,
-  "2022-05-10": 14822,
-  "2022-05-11": 14905,
-  "2022-05-12": 14992,
-  "2022-05-13": 15079,
-  "2022-05-14": 15163,
-  "2022-05-15": 15265,
-  "2022-05-16": 15380,
-  "2022-05-17": 15458,
-  "2022-05-18": 15544,
-  "2022-05-19": 15629,
-  "2022-05-20": 15688,
-  "2022-05-21": 15766,
-  "2022-05-22": 15766,
-  "2022-05-23": 15800,
-  "2022-05-24": 15839,
-  "2022-05-25": 15876,
-  "2022-05-26": 15909,
-  "2022-05-27": 15943,
-  "2022-05-28": 15976,
-  "2022-05-29": 16004,
-  "2022-05-30": 16039,
-  "2022-05-31": 16082,
-  "2022-06-01": 16157,
-  "2022-06-02": 16164,
-  "2022-06-03": 16201,
-  "2022-06-04": 16234,
-  "2022-06-05": 16267,
-  "2022-06-06": 16299,
-  "2022-06-07": 16340,
-  "2022-06-08": 16379,
-  "2022-06-09": 16405,
-  "2022-06-10": 16445,
-  "2022-06-11": 16481,
-  "2022-06-12": 16518,
-  "2022-06-13": 16557,
-  "2022-06-14": 16585,
-  "2022-06-15": 16612,
-  "2022-06-16": 16649,
-  "2022-06-17": 16675,
-  "2022-06-18": 16706,
-  "2022-06-19": 16779,
-  "2022-06-20": 16779,
-  "2022-06-21": 16805,
-  "2022-06-22": 16867,
-  "2022-06-23": 16867,
-  "2022-06-24": 16894,
-  "2022-06-25": 16924,
-  "2022-06-26": 16958,
-  "2022-06-27": 16984,
-  "2022-06-28": 17017,
-  "2022-06-29": 17047,
-  "2022-06-30": 17089,
-  "2022-07-01": 17117,
-  "2022-07-02": 17147,
-  "2022-07-03": 17182,
-  "2022-07-04": 17215,
-  "2022-07-05": 17235,
-  "2022-07-06": 17285,
-  "2022-07-07": 17303,
-  "2022-07-08": 17339,
-  "2022-07-09": 17366,
-  "2022-07-10": 17405,
-  "2022-07-11": 17435,
-  "2022-07-12": 17466,
-  "2022-07-13": 17486,
-  "2022-07-14": 17511,
-  "2022-07-15": 17538,
-  "2022-07-16": 17560,
-  "2022-07-17": 17594,
-  "2022-07-18": 17622,
-  "2022-07-19": 17640,
-  "2022-07-20": 17677,
-  "2022-07-21": 17695,
-  "2022-07-22": 17730,
-  "2022-07-23": 17768,
-  "2022-07-24": 17801,
-  "2022-07-25": 17839,
-  "2022-07-26": 17858,
-  "2022-07-27": 17882,
-  "2022-07-28": 17903,
-  "2022-07-29": 17943,
-  "2022-07-30": 18014,
-  "2022-07-31": 18014,
-  "2022-08-01": 18045,
-  "2022-08-02": 18102,
-  "2022-08-03": 18102,
-  "2022-08-04": 18127,
-  "2022-08-05": 18166,
-  "2022-08-06": 18193,
-  "2022-08-07": 18226,
-  "2022-08-08": 18261,
-  "2022-08-09": 18281,
-  "2022-08-10": 18309,
-  "2022-08-11": 18335,
-  "2022-08-12": 18368,
-  "2022-08-13": 18394,
-  "2022-08-14": 18425,
-  "2022-08-15": 18471,
-  "2022-08-16": 18498,
-  "2022-08-17": 18542,
-  "2022-08-18": 18582,
-  "2022-08-19": 18620,
-  "2022-08-20": 18666,
-  "2022-08-21": 18704,
-  "2022-08-22": 18730,
-  "2022-08-23": 18761,
-  "2022-08-24": 18801,
-  "2022-08-25": 18823,
-  "2022-08-26": 18852,
-  "2022-08-27": 18885,
-  "2022-08-28": 18921,
-  "2022-08-29": 18952,
-  "2022-08-30": 18993,
-  "2022-08-31": 19011,
-  "2022-09-01": 19012,
-  "2022-09-02": 19025,
-  "2022-09-03": 19024,
-  "2022-09-04": 19034,
-  "2022-09-05": 19064,
-  "2022-09-06": 19101,
-  "2022-09-07": 19118,
-  "2022-09-09": 19161,
-  "2022-09-10": 19186,
-  "2022-09-11": 19224,
-  "2022-09-12": 19250,
-  "2022-09-13": 19270,
-  "2022-09-15": 19314,
-  "2022-09-16": 19330,
-  "2022-09-17": 19357,
-  "2022-09-18": 19379,
-  "2022-09-19": 19398,
-  "2022-09-20": 19433,
-  "2022-09-21": 19460,
-  "2022-09-22": 19491,
-  "2022-09-23": 19516,
-  "2022-09-24": 19539,
-  "2022-09-25": 19569,
-  "2022-09-26": 19601,
-  "2022-09-27": 19623,
-  "2022-09-28": 19666,
-  "2022-09-29": 19693,
-  "2022-09-30": 19720,
-  "2022-10-01": 19749,
-  "2022-10-02": 19780,
-  "2022-10-03": 19807,
-  "2022-10-04": 19832,
-  "2022-10-05": 19854,
-  "2022-10-06": 19885,
-  "2022-10-07": 19900,
-  "2022-10-08": 19926,
-  "2022-10-09": 19990,
-  "2022-10-10": 19993,
-  "2022-10-11": 20022,
-  "2022-10-12": 20056,
-  "2022-10-13": 20090,
-  "2022-10-14": 20126,
-  "2022-10-15": 20174,
-  "2022-10-16": 20217,
-  "2022-10-17": 20262,
-  "2022-10-18": 20296,
-  "2022-10-19": 20327,
-  "2022-10-20": 20359,
-  "2022-10-21": 20393,
-  "2022-10-22": 20417,
-  "2022-10-23": 20446,
-  "2022-10-24": 20466,
-  "2022-10-25": 20490,
-  "2022-10-26": 20516,
-  "2022-10-27": 20556,
-  "2022-10-28": 20582,
-  "2022-10-29": 20614,
-  "2022-10-30": 20642,
-  "2022-10-31": 20672,
-  "2022-11-01": 20712,
-  "2022-11-02": 20737,
-  "2022-11-03": 20762,
-  "2022-11-04": 20787,
-  "2022-11-05": 20813,
-  "2022-11-06": 20862,
-  "2022-11-07": 20903,
-  "2022-11-08": 20917,
-  "2022-11-09": 20942,
-  "2022-11-10": 20968,
-  "2022-11-11": 21004,
-  "2022-11-12": 21031,
-  "2022-11-13": 21068,
-  "2022-11-14": 21096,
-  "2022-11-15": 21119,
-  "2022-11-16": 21152,
-  "2022-11-17": 21187,
-  "2022-11-18": 21193,
-  "2022-11-19": 21206,
-  "2022-11-20": 21232,
-  "2022-11-21": 21264,
-  "2022-11-22": 21299,
-  "2022-11-23": 21341,
-  "2022-11-24": 21393,
-  "2022-11-25": 21444,
-  "2022-11-26": 21483,
-  "2022-11-27": 21528,
-  "2022-11-28": 21573,
-  "2022-11-29": 21595,
-  "2022-11-30": 21613,
-  "2022-12-01": 21645,
-  "2022-12-02": 21656,
-  "2022-12-03": 21698,
-  "2022-12-04": 21744,
-  "2022-12-05": 21783,
-  "2022-12-06": 21812,
-  "2022-12-07": 21837,
-  "2022-12-08": 21878,
-  "2022-12-09": 21911,
-  "2022-12-10": 21942,
-  "2022-12-11": 21977,
-  "2022-12-12": 22033,
-  "2022-12-13": 22060,
-  "2022-12-14": 22081,
-  "2022-12-15": 22118,
-  "2022-12-16": 22156,
-  "2022-12-17": 22184,
-  "2022-12-18": 22224,
-  "2022-12-19": 22262,
-  "2022-12-20": 22320,
-  "2022-12-21": 22320,
-  "2022-12-22": 22355,
-  "2022-12-24": 22408,
-  "2022-12-25": 22439,
-  "2022-12-26": 22469,
-  "2022-12-27": 22502,
-  "2022-12-28": 22530,
-  "2022-12-29": 22561,
-  "2022-12-30": 22616,
-  "2022-12-31": 22657,
-  "2023-01-01": 22694,
-  "2023-01-02": 22727,
-  "2023-01-03": 22762,
-  "2023-01-04": 22794,
-  "2023-01-05": 22836,
-  "2023-01-06": 22901,
-  "2023-01-07": 22968,
-  "2023-01-08": 22977,
-  "2023-01-09": 23001,
-  "2023-01-10": 23040,
-  "2023-01-11": 23067,
-  "2023-01-12": 23093,
-  "2023-01-13": 23134,
-  "2023-01-14": 23192,
-  "2023-01-15": 23207,
-  "2023-01-16": 23241,
-  "2023-01-17": 23268,
-  "2023-01-18": 23294,
-  "2023-01-19": 23328,
-  "2023-01-20": 23362,
-  "2023-01-21": 23398,
-  "2023-01-22": 23428,
-  "2023-01-23": 23465,
-  "2023-01-24": 23500,
-  "2023-01-25": 23522,
-  "2023-01-26": 23559,
-  "2023-01-27": 23586,
-  "2023-01-28": 23621,
-  "2023-01-29": 23650,
-  "2023-01-30": 23687,
-  "2023-01-31": 23687,
-  "2023-02-01": 23746,
-  "2023-02-02": 23776,
-  "2023-02-03": 23814,
-  "2023-02-04": 23859,
-  "2023-02-05": 23908,
-  "2023-02-06": 23936,
-  "2023-02-07": 23967,
-  "2023-02-08": 24046,
-  "2023-02-09": 24046,
-  "2023-02-10": 24091,
-  "2023-02-11": 24121,
-  "2023-02-12": 24191,
-  "2023-02-13": 24234,
-  "2023-02-14": 24234,
-  "2023-02-15": 24272,
-  "2023-02-16": 24299,
-  "2023-02-17": 24332,
-  "2023-02-18": 24393,
-  "2023-02-19": 24400,
-  "2023-02-20": 24433,
-  "2023-02-21": 24450,
-  "2023-02-22": 24475,
-  "2023-02-23": 24501,
-  "2023-02-24": 24517,
-  "2023-02-25": 24565,
-  "2023-02-26": 24578,
-  "2023-02-27": 24621,
-  "2023-02-28": 24621,
-  "2023-03-01": 24650,
-  "2023-03-02": 24680,
-  "2023-03-03": 24714,
-  "2023-03-04": 24759,
-  "2023-03-05": 24836,
-  "2023-03-06": 24836,
-  "2023-03-07": 24858,
-  "2023-03-08": 24882,
-  "2023-03-09": 24917,
-  "2023-03-10": 24939,
-  "2023-03-11": 24978,
-  "2023-03-12": 25006,
-  "2023-03-13": 25045,
-  "2023-03-14": 25069,
-  "2023-03-15": 25088,
-  "2023-03-16": 25117,
-  "2023-03-17": 25117,
-  "2023-03-18": 25169,
-  "2023-03-19": 25207,
-  "2023-03-20": 25250,
-  "2023-03-21": 25272,
-  "2023-03-22": 25307,
-  "2023-03-23": 25329,
-  "2023-03-24": 25329,
-  "2023-03-25": 25365,
-  "2023-03-26": 25407,
-  "2023-03-27": 25437,
-  "2023-03-28": 25462,
-  "2023-03-29": 25488,
-  "2023-03-30": 25528,
-  "2023-03-31": 25528,
-  "2023-04-01": 25557,
-  "2023-04-02": 25605,
-  "2023-04-03": 25621,
-  "2023-04-04": 25650,
-  "2023-04-05": 25674,
-  "2023-04-06": 25702,
-  "2023-04-07": 25722,
-  "2023-04-09": 25767,
-  "2023-04-10": 25796,
-  "2023-04-11": 25845,
-  "2023-04-12": 25845,
-  "2023-04-13": 25873,
-  "2023-04-14": 25894,
-  "2023-04-15": 25925,
-  "2023-04-16": 25964,
-  "2023-04-17": 25990,
-  "2023-04-18": 26010,
-  "2023-04-19": 26051,
-  "2023-04-20": 26082,
-  "2023-04-21": 26113,
-  "2023-04-22": 26154,
-  "2023-04-23": 26174,
-  "2023-04-24": 26201,
-  "2023-04-25": 26225,
-  "2023-04-26": 26264,
-  "2023-04-27": 26292,
-  "2023-04-28": 26316,
-  "2023-04-29": 26362,
-  "2023-04-30": 26436,
-  "2023-05-01": 26494,
-  "2023-05-02": 26536,
-  "2023-05-03": 26560,
-  "2023-05-04": 26595,
-  "2023-05-05": 26613,
-  "2023-05-06": 26639,
-  "2023-05-07": 26666,
-  "2023-05-08": 26695,
-  "2023-05-09": 26713,
-  "2023-05-10": 26739,
-  "2023-05-11": 26758,
-  "2023-05-12": 26785,
-  "2023-05-13": 26812,
-  "2023-05-14": 26834,
-  "2023-05-15": 26854,
-  "2023-05-16": 26881,
-  "2023-05-17": 26895,
-  "2023-05-18": 26918,
-  "2023-05-19": 26953,
-  "2023-05-20": 27022,
-  "2023-05-21": 27022,
-  "2023-05-22": 27022,
-  "2023-05-23": 27066,
-  "2023-05-24": 27110,
-  "2023-05-25": 27115,
-  "2023-05-26": 27129,
-  "2023-05-27": 27162,
-  "2023-05-28": 27205,
-  "2023-05-29": 27205,
-  "2023-05-30": 27252,
-  "2023-05-31": 27290,
-  "2023-06-01": 27306,
-  "2023-06-02": 27333,
-  "2023-06-03": 27359,
-  "2023-06-04": 27400,
-  "2023-06-05": 27431,
-  "2023-06-06": 27455,
-  "2023-06-07": 27477,
-  "2023-06-08": 27505,
-  "2023-06-09": 27533,
-  "2023-06-10": 27569,
-  "2023-06-11": 27608,
-  "2023-06-12": 27648,
-  "2023-06-13": 27671,
-  "2023-06-14": 27699,
-  "2023-06-15": 27727,
-  "2023-06-16": 27744,
-  "2023-06-17": 27771,
-  "2023-06-18": 27796,
-  "2023-06-19": 27822,
-  "2023-06-20": 27843,
-  "2023-06-21": 27871,
-  "2023-06-22": 27887,
-  "2023-06-23": 27912,
-  "2023-06-24": 27940,
-  "2023-06-25": 27962,
-  "2023-06-26": 27995,
-  "2023-06-27": 28007,
-  "2023-06-28": 28031,
-  "2023-06-29": 28053,
-  "2023-06-30": 28074,
-  "2023-07-01": 28132,
-  "2023-07-02": 28132,
-  "2023-07-03": 28151,
-  "2023-07-04": 28180,
-  "2023-07-05": 28201,
-  "2023-07-06": 28256,
-  "2023-07-07": 28256,
-  "2023-07-08": 28291,
-  "2023-07-09": 28319,
-  "2023-07-10": 28349,
-  "2023-07-11": 28378,
-  "2023-07-12": 28422,
-  "2023-07-13": 28449,
-  "2023-07-14": 28476,
-  "2023-07-15": 28501,
-  "2023-07-16": 28538,
-  "2023-07-17": 28569,
-  "2023-07-18": 28584,
-  "2023-07-19": 28612,
-  "2023-07-20": 28640,
-  "2023-07-21": 28652,
-  "2023-07-22": 28736,
-  "2023-07-23": 28802,
-  "2023-07-24": 28857,
-  "2023-07-25": 28894,
-  "2023-07-26": 28919,
-  "2023-07-27": 28940,
-  "2023-07-28": 28967,
-  "2023-07-29": 28998,
-  "2023-07-30": 29028,
-  "2023-07-31": 29066,
-  "2023-08-01": 29086,
-  "2023-08-02": 29113,
-  "2023-08-03": 29139,
-  "2023-08-04": 29175,
-  "2023-08-05": 29209,
-  "2023-08-06": 29280,
-  "2023-08-07": 29280,
-  "2023-08-08": 29303,
-  "2023-08-09": 29332,
-  "2023-08-10": 29355,
-  "2023-08-11": 29369,
-  "2023-08-12": 29396,
-  "2023-08-13": 29425,
-  "2023-08-14": 29466,
-  "2023-08-15": 29515,
-  "2023-08-16": 29515,
-  "2023-08-17": 29536,
-  "2023-08-18": 29569,
-  "2023-08-19": 29608,
-  "2023-08-20": 29638,
-  "2023-08-21": 29685,
-  "2023-08-22": 29718,
-  "2023-08-23": 29741,
-  "2023-08-24": 29770,
-  "2023-08-25": 29798,
-  "2023-08-26": 29824,
-  "2023-08-27": 29853,
-  "2023-08-28": 29873,
-  "2023-08-29": 29895,
-  "2023-08-30": 29921,
-  "2023-08-31": 29953,
-  "2023-09-01": 30042,
-  "2023-09-02": 30042,
-  "2023-09-03": 30073,
-  "2023-09-04": 30137,
-  "2023-09-05": 30180,
-  "2023-09-06": 30213,
-  "2023-09-07": 30255,
-  "2023-09-08": 30294,
-  "2023-09-09": 30371,
-  "2023-09-10": 30434,
-  "2023-09-11": 30472,
-  "2023-09-12": 30510,
-  "2023-09-13": 30555,
-  "2023-09-14": 30587,
-  "2023-09-15": 30628,
-  "2023-09-16": 30671,
-  "2023-09-17": 30734,
-  "2023-09-18": 30773,
-  "2023-09-19": 30808,
-  "2023-09-20": 30844,
-  "2023-09-21": 30887,
-  "2023-09-22": 30916,
-  "2023-09-23": 30956,
-  "2023-09-24": 31004,
-  "2023-09-25": 31068,
-  "2023-09-26": 31119,
-  "2023-09-27": 31161,
-  "2023-09-28": 31206,
-  "2023-09-29": 31252,
-  "2023-09-30": 31288,
-  "2023-10-01": 31331,
-  "2023-10-02": 31370,
-  "2023-10-03": 31414,
-  "2023-10-04": 31454,
-  "2023-10-05": 31496,
-  "2023-10-06": 31538,
-  "2023-10-07": 31587,
-  "2023-10-08": 31633,
-  "2023-10-09": 31679,
-  "2023-10-10": 31721,
-  "2023-10-11": 31805,
-  "2023-10-12": 31805,
-  "2023-10-13": 31834,
-  "2023-10-14": 31876,
-  "2023-10-15": 31914,
-  "2023-10-16": 31979,
-  "2023-10-17": 32009,
-  "2023-10-18": 32037,
-  "2023-10-19": 32072,
-  "2023-10-20": 32107,
-  "2023-10-21": 32162,
-  "2023-10-22": 32208,
-  "2023-10-23": 32260,
-  "2023-10-24": 32291,
-  "2023-10-25": 32324,
-  "2023-10-26": 32361,
-  "2023-10-27": 32436,
-  "2023-10-28": 32436,
-  "2023-10-29": 32550,
-  "2023-10-30": 32614,
-  "2023-10-31": 32614,
-  "2023-11-01": 32776,
-  "2023-11-02": 32833,
-  "2023-11-03": 32900,
-  "2023-11-04": 32946,
-  "2023-11-05": 32993,
-  "2023-11-06": 33047,
-  "2023-11-07": 33071,
-  "2023-11-08": 33120,
-  "2023-11-09": 33157,
-  "2023-11-10": 33199,
-  "2023-11-11": 33262,
-  "2023-11-12": 33305,
-  "2023-11-13": 33352,
-  "2023-11-14": 33394,
-  "2023-11-15": 33394,
-  "2023-11-16": 33471,
-  "2023-11-17": 33563,
-  "2023-11-18": 33563,
-  "2023-11-19": 33623,
-  "2023-11-20": 33682,
-  "2023-11-21": 33734,
-  "2023-11-22": 33771,
-  "2023-11-23": 33811,
-  "2023-11-24": 33811,
-  "2023-11-25": 33893,
-  "2023-11-26": 33944,
-  "2023-11-27": 34001,
-  "2023-11-28": 34048,
-  "2023-11-29": 34136,
-  "2023-11-30": 34136,
-  "2023-12-01": 34188,
-  "2023-12-02": 34223,
-  "2023-12-03": 34277,
-  "2023-12-04": 34326,
-  "2023-12-05": 34368,
-  "2023-12-06": 34413,
-  "2023-12-07": 34454,
-  "2023-12-08": 34484,
-  "2023-12-09": 34511,
-  "2023-12-10": 34558,
-  "2023-12-11": 34590,
-  "2023-12-12": 34625,
-  "2023-12-13": 34661,
-  "2023-12-14": 34711,
-  "2023-12-15": 34741,
-  "2023-12-16": 34778,
-  "2023-12-17": 34815,
-  "2023-12-18": 34861,
-  "2023-12-19": 34885,
-  "2023-12-20": 34919,
-  "2023-12-21": 34974,
-  "2023-12-22": 35021,
-  "2023-12-23": 35065,
-  "2023-12-24": 35114,
-  "2023-12-25": 35156,
-  "2023-12-26": 35207,
-  "2023-12-27": 35249,
-  "2023-12-30": 35387,
-  "2023-12-31": 35432,
-  "2024-01-01": 35504,
-  "2024-01-02": 35546,
-  "2024-01-03": 35591
+  "2024-01-17": 36294,
+  "date_first_scraped": "2022-04-05",
+  "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
+  "name": "The Cole Porter Songbook",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119426,
+      "name": "Ace In The Hole",
+      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
+    },
+    {
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104360,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/65O89M7GMB8pA88VyxxJm7"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
+    },
+    {
+      "album": {
+        "name": "The Jazz Collection",
+        "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221959,
+      "name": "Allez-Vous En, Go Away",
+      "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
+    },
+    {
+      "album": {
+        "name": "Whatever Julie Wants",
+        "url": "https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 151213,
+      "name": "Always True To You (In My Fashion)",
+      "url": "https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN"
+    },
+    {
+      "album": {
+        "name": "The Liberty Years",
+        "url": "https://open.spotify.com/album/2sH9FC8gzWUaO5TV6gu1A6"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151466,
+      "name": "Always True To You (In My Fashion)",
+      "url": "https://open.spotify.com/track/0106Y0rjTFd3aYvPQ91GKO"
+    },
+    {
+      "album": {
+        "name": "Sings The Choicest Of Cole Porter",
+        "url": "https://open.spotify.com/album/3F4IYhwKciP7QKehk6KB0y"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 151600,
+      "name": "Always True To You (In My Fashion)",
+      "url": "https://open.spotify.com/track/2R89yuJOH2fgmnPPRACWV1"
+    },
+    {
+      "album": {
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
+    },
+    {
+      "album": {
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "At Long Last Love",
+      "url": "https://open.spotify.com/track/4xavtlLxd9kswqwpOCjkAC"
+    },
+    {
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375173,
+      "name": "Begin The Beguine - Alternate Take",
+      "url": "https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r"
+    },
+    {
+      "album": {
+        "name": "Night and Day With Cole Porter",
+        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
+      },
+      "artists": [
+        {
+          "name": "Behia Jazz Band",
+          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Achat",
+          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
+        },
+        {
+          "name": "Manu Carr\u00e9",
+          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
+        },
+        {
+          "name": "Philippe Brassoud",
+          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
+        },
+        {
+          "name": "Philippe Cocogne",
+          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281733,
+      "name": "Blue Swing",
+      "url": "https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ"
+    },
+    {
+      "album": {
+        "name": "French Style",
+        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156906,
+      "name": "C'est Magnifique",
+      "url": "https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC"
+    },
+    {
+      "album": {
+        "name": "Night and Day With Cole Porter",
+        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
+      },
+      "artists": [
+        {
+          "name": "Behia Jazz Band",
+          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Achat",
+          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
+        },
+        {
+          "name": "Manu Carr\u00e9",
+          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
+        },
+        {
+          "name": "Philippe Brassoud",
+          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
+        },
+        {
+          "name": "Philippe Cocogne",
+          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "Conversation Blues",
+      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
+    },
+    {
+      "album": {
+        "name": "Beauty And The Beat! (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
+      "duration_ms": 183266,
+      "name": "Do I Love You? - Live In Miami, FL/1959",
+      "url": "https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix"
+    },
+    {
+      "album": {
+        "name": "Beauty And The Beat! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1lfNVAwkwZLIPwAmkSUtlQ"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "Do I Love You? - Live In Miami, FL/1959",
+      "url": "https://open.spotify.com/track/32k3wUYW5lOUKa5waNJKu9"
+    },
+    {
+      "album": {
+        "name": "Their Greatest Hits And Finest Performances",
+        "url": "https://open.spotify.com/album/3GK2W9eAOQ6585VCGKvKkh"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Don't Fence Me In",
+      "url": "https://open.spotify.com/track/1Bis647TLxkQ6T2hhIFyC5"
+    },
+    {
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179466,
+      "name": "Don't Look At Me That Way",
+      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
+    },
+    {
+      "album": {
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+    },
+    {
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345266,
+      "name": "Everytime We Say Goodbye",
+      "url": "https://open.spotify.com/track/7tZDxcJeLzyjBKYc7TWbsr"
+    },
+    {
+      "album": {
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+      },
+      "artists": [
+        {
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152369,
+      "name": "Experiment",
+      "url": "https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB"
+    },
+    {
+      "album": {
+        "name": "An Evening With Anita O'Day",
+        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "From This Moment On - 1955 Version",
+      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
+    },
+    {
+      "album": {
+        "name": "Swedish Vocal Collection",
+        "url": "https://open.spotify.com/album/1uju5fPXQCF7PcnKUpQcoM"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 154000,
+      "name": "Get Out Of Town (Med Andra Ord...)",
+      "url": "https://open.spotify.com/track/1CDWZYK3qVTuzjq6kFuI6m"
+    },
+    {
+      "album": {
+        "name": "Don't Dream of Anybody but Me",
+        "url": "https://open.spotify.com/album/5g9BdZChSpUZ2X3vgGNaTa"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Get Out of Town - Med Andra Ord...",
+      "url": "https://open.spotify.com/track/7jDgC41FKERGLL0RQXc05K"
+    },
+    {
+      "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189906,
+      "name": "Goodbye Little Dream, Goodbye",
+      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
+    },
+    {
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111306,
+      "name": "I Am Ashamed That Women Are so Simple",
+      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
+    },
+    {
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153866,
+      "name": "I Am In Love - Remastered",
+      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
+    },
+    {
+      "album": {
+        "name": "Sinatra Sings Cole Porter",
+        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
+    },
+    {
+      "album": {
+        "name": "The Astaire Story",
+        "url": "https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164133,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX"
+    },
+    {
+      "album": {
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+    },
+    {
+      "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127906,
+      "name": "I Happen To Like New York",
+      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
+    },
+    {
+      "album": {
+        "name": "Latin Kick",
+        "url": "https://open.spotify.com/album/6XxDxfs4XBAjRv3dgOSoE2"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353200,
+      "name": "I Love Paris",
+      "url": "https://open.spotify.com/track/62UVjAjo8ra1PVSeHfnxk3"
+    },
+    {
+      "album": {
+        "name": "High Society (O.S.T - 1956)",
+        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Johnny Green & His Orchestra",
+          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252818,
+      "name": "I Love You Samantha",
+      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+    },
+    {
+      "album": {
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "I've Got My Eyes On You",
+      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
+    },
+    {
+      "album": {
+        "name": "Desmond Blue",
+        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279146,
+      "name": "I've Got You Under My Skin - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165893,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
+    },
+    {
+      "album": {
+        "name": "Worktime (RVG)",
+        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369053,
+      "name": "It's All Right With Me",
+      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
+    },
+    {
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133466,
+      "name": "It's Bad For Me",
+      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
+    },
+    {
+      "album": {
+        "name": "SK Collection",
+        "url": "https://open.spotify.com/album/2018VcvI7PtBfHWGrv9vua"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 204986,
+      "name": "It's Delovely",
+      "url": "https://open.spotify.com/track/3RCNPY63tbog6NCohMJwDO"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Andrew De Jong Cleyndert",
+          "url": "https://open.spotify.com/artist/5G1ofevTZdgiPERUk64PLM"
+        },
+        {
+          "name": "Colin Oxley",
+          "url": "https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs"
+        },
+        {
+          "name": "David Newton",
+          "url": "https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy"
+        },
+        {
+          "name": "Jim Tomlinson",
+          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
+        },
+        {
+          "name": "Steve Brown",
+          "url": "https://open.spotify.com/artist/7DLSRkdZGUdCN98UT44PAd"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Its Delovely",
+      "url": "https://open.spotify.com/track/7iPqb64Shlib9ta9ouKyTC"
+    },
+    {
+      "album": {
+        "name": "It's A Wonderful World",
+        "url": "https://open.spotify.com/album/7A0VtrrFraHAEbggockFbb"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Jim Tomlinson",
+          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
+        },
+        {
+          "name": "David Newton",
+          "url": "https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy"
+        },
+        {
+          "name": "Andrew De Jong Cleyndert",
+          "url": "https://open.spotify.com/artist/5G1ofevTZdgiPERUk64PLM"
+        },
+        {
+          "name": "Colin Oxley",
+          "url": "https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs"
+        },
+        {
+          "name": "Steve Brown",
+          "url": "https://open.spotify.com/artist/7DLSRkdZGUdCN98UT44PAd"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205666,
+      "name": "Its Delovely",
+      "url": "https://open.spotify.com/track/4DilU52ZMTc5g3EVdzcTop"
+    },
+    {
+      "album": {
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/07KWDsIcRU6r5Ej273QCY3"
+    },
+    {
+      "album": {
+        "name": "The One And Only",
+        "url": "https://open.spotify.com/album/2h2bi5subCD6Y1JLy9TbS3"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 135506,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/307sTSd6uNMwnCWJzybLy4"
+    },
+    {
+      "album": {
+        "name": "Ultra-Lounge: Vegas Baby Too!",
+        "url": "https://open.spotify.com/album/3nQS57i4K7YsQK3sHHzA2m"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 134906,
+      "name": "Just One Of Those Things - Remastered",
+      "url": "https://open.spotify.com/track/5UPpZGM31AdJ4lpvfELs8r"
+    },
+    {
+      "album": {
+        "name": "In the Land of Hi-Fi",
+        "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157893,
+      "name": "Let's Do It (Let's Fall in Love)",
+      "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
+    },
+    {
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "Let's Fly Away",
+      "url": "https://open.spotify.com/track/23OvK9AlKo3Se4xcAMDwUY"
+    },
+    {
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173840,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
+    },
+    {
+      "album": {
+        "name": "Oscar Peterson Plays The Cole Porter Songbook",
+        "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/6fqHlcomOg6NBwa25EK58m"
+    },
+    {
+      "album": {
+        "name": "Great Songs From Stage And Screen",
+        "url": "https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221962,
+      "name": "Mind If I Make Love To You",
+      "url": "https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Miss Otis Regrets (She's Unable To Lunch Today)",
+      "url": "https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi"
+    },
+    {
+      "album": {
+        "name": "Cool Heat",
+        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "My Heart Belongs To Daddy",
+      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
+    },
+    {
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Night and Day - Take 1",
+      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
+    },
+    {
+      "album": {
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+      },
+      "artists": [
+        {
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Old Fashioned Garden",
+      "url": "https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2"
+    },
+    {
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Ours",
+      "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
+    },
+    {
+      "album": {
+        "name": "Silk Stockings (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        },
+        {
+          "name": "Carole Richards",
+          "url": "https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 163933,
+      "name": "Paris Loves Lovers",
+      "url": "https://open.spotify.com/track/2YGrnkcnmyAtHxTCWNGa0x"
+    },
+    {
+      "album": {
+        "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        },
+        {
+          "name": "Carole Richards",
+          "url": "https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "Paris Loves Lovers",
+      "url": "https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO"
+    },
+    {
+      "album": {
+        "name": "Silk Stockings (1957 Film Original Score)",
+        "url": "https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire (performer), Carol Richards (performer)",
+          "url": "https://open.spotify.com/artist/1Z0vfvtXmLPTqlA6SyraDX"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163944,
+      "name": "Paris Loves Lovers",
+      "url": "https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9"
+    },
+    {
+      "album": {
+        "name": "Bobby Short Loves Cole Porter",
+        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Rap Tap on Wood",
+      "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
+    },
+    {
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130199,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
+    },
+    {
+      "album": {
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+      },
+      "artists": [
+        {
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169001,
+      "name": "Rosalie",
+      "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
+    },
+    {
+      "album": {
+        "name": "A Man and His Trombone",
+        "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
+      },
+      "artists": [
+        {
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168442,
+      "name": "Silk Stockings",
+      "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
+    },
+    {
+      "album": {
+        "name": "Tears And Laughter",
+        "url": "https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267840,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx"
+    },
+    {
+      "album": {
+        "name": "Silk Stockings (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        },
+        {
+          "name": "MGM Studio Chorus",
+          "url": "https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "The Ritz Roll and Rock",
+      "url": "https://open.spotify.com/track/6avQ8KrsVqggui50H5zLTb"
+    },
+    {
+      "album": {
+        "name": "Silk Stockings (1957 Film Original Score)",
+        "url": "https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire (performer), The MGM Studio Chorus",
+          "url": "https://open.spotify.com/artist/5WJ0grrC4TlglvEZQoZaFJ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215588,
+      "name": "The Ritz Roll and Rock",
+      "url": "https://open.spotify.com/track/1gu0OMIllqEM8ozrzyJ6Ty"
+    },
+    {
+      "album": {
+        "name": "Work From Home with Cole Porter",
+        "url": "https://open.spotify.com/album/3lrQTyMWG0ZDNfTqptq9wI"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Orchestra",
+          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 165453,
+      "name": "Too Darn Hot",
+      "url": "https://open.spotify.com/track/7JPv3gGjnKmgrCEVmDZjvE"
+    },
+    {
+      "album": {
+        "name": "Let's Dance Jazz (Jazz Club)",
+        "url": "https://open.spotify.com/album/0VG1QP6ZxoPRd1lUBSvk57"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Orchestra",
+          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 165986,
+      "name": "Too Darn Hot",
+      "url": "https://open.spotify.com/track/7k3m2CrQlUdSq4f9H8BxOp"
+    },
+    {
+      "album": {
+        "name": "Mel Torme: Swings Shubert Alley",
+        "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Orchestra",
+          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168373,
+      "name": "Too Darn Hot",
+      "url": "https://open.spotify.com/track/6hY98FQBkn7yb0UjaneOOg"
+    },
+    {
+      "album": {
+        "name": "Plays Cole Porter Love Songs",
+        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
+      },
+      "artists": [
+        {
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203386,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy"
+    },
+    {
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Use Your Imagination",
+      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
+    },
+    {
+      "album": {
+        "name": "The Sammy Davis Jr. Show with Special Guests Stars Frank Sinatra and Dean Martin",
+        "url": "https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB"
+      },
+      "artists": [
+        {
+          "name": "The Rat Pack",
+          "url": "https://open.spotify.com/artist/75kHCUYCZGNvAfSyoEuJTz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134040,
+      "name": "We Open in Venice",
+      "url": "https://open.spotify.com/track/1SOKPop4Zk9mIHUKpAv6qm"
+    },
+    {
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "Weren't We Fools",
+      "url": "https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7"
+    },
+    {
+      "album": {
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276693,
+      "name": "What Is This Thing Called Love",
+      "url": "https://open.spotify.com/track/1ZaytyFQnDuAvGxglzlxfa"
+    },
+    {
+      "album": {
+        "name": "Plays Cole Porter Love Songs",
+        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
+      },
+      "artists": [
+        {
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315373,
+      "name": "When Love Comes Around",
+      "url": "https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii"
+    },
+    {
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193160,
+      "name": "When Love Comes Your Way",
+      "url": "https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU"
+    },
+    {
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131173,
+      "name": "Where Oh Where",
+      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
+    },
+    {
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161026,
+      "name": "Which?",
+      "url": "https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw"
+    },
+    {
+      "album": {
+        "name": "High Society - OST",
+        "url": "https://open.spotify.com/album/6bV6aP0K7VIGyOr7e39wSE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra and Celeste Holm",
+          "url": "https://open.spotify.com/artist/3dWvcPLAgwWVbDkJndTCPc"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127226,
+      "name": "Who Want's To Be A Millionaire?",
+      "url": "https://open.spotify.com/track/4oOkqjjXr4NzkrPJQsscc5"
+    },
+    {
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Celeste Holm",
+          "url": "https://open.spotify.com/artist/6hDtmqaHJfVhDj48VTtWeb"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127360,
+      "name": "Who Wants To Be A Millionaire",
+      "url": "https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3"
+    },
+    {
+      "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
+    },
+    {
+      "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266466,
+      "name": "Why Don't We Try Staying Home?",
+      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+    },
+    {
+      "album": {
+        "name": "Chet Baker & Strings",
+        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Why Shouldn't I?",
+      "url": "https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO"
+    },
+    {
+      "album": {
+        "name": "My Funny Valentine: The Best Of Chet Baker",
+        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214666,
+      "name": "Why Shouldn't I?",
+      "url": "https://open.spotify.com/track/5TZUTN9vUjjxy4vDDxhlKm"
+    },
+    {
+      "album": {
+        "name": "Plays Cole Porter",
+        "url": "https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276426,
+      "name": "Wunderbar",
+      "url": "https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn"
+    },
+    {
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411866,
+      "name": "You Do Something to Me - Remastered",
+      "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
+    },
+    {
+      "album": {
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168440,
+      "name": "You Don't Remind Me",
+      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
+    },
+    {
+      "album": {
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+      },
+      "artists": [
+        {
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
+    },
+    {
+      "album": {
+        "name": "Blue Trane",
+        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed Trio",
+          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412133,
+      "name": "You're Sensational",
+      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
+    },
+    {
+      "album": {
+        "name": "The Best of Cole Porter",
+        "url": "https://open.spotify.com/album/6y6Lrz8I1jlMdBvW51rJcf"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        },
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182466,
+      "name": "You're the Top",
+      "url": "https://open.spotify.com/track/6OmaPqehiNi2Q2cLq5uE9m"
+    },
+    {
+      "album": {
+        "name": "Work From Home with Carmen McRae",
+        "url": "https://open.spotify.com/album/22PNDunntHWUybtjuMCI5k"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182466,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/2H2CC5b4sDi1O8iAcDkhRZ"
+    },
+    {
+      "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
+    },
+    {
+      "album": {
+        "name": "Bobby Short Loves Cole Porter",
+        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203533,
+      "name": "You've Got That Thing",
+      "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
+    },
+    {
+      "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143066,
+      "name": "\u00c7a, C'est l'Amour",
+      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8HwEXibv1ID"
 }

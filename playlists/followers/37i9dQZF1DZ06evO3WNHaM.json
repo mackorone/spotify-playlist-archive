@@ -1,579 +1,945 @@
 {
-  "2022-05-31": 189477,
-  "2022-06-01": 189728,
-  "2022-06-02": 189750,
-  "2022-06-03": 189879,
-  "2022-06-04": 190034,
-  "2022-06-05": 190149,
-  "2022-06-06": 190272,
-  "2022-06-07": 190467,
-  "2022-06-08": 190680,
-  "2022-06-09": 190828,
-  "2022-06-10": 191026,
-  "2022-06-11": 191183,
-  "2022-06-12": 191308,
-  "2022-06-13": 191452,
-  "2022-06-14": 191622,
-  "2022-06-15": 191780,
-  "2022-06-16": 191926,
-  "2022-06-17": 192100,
-  "2022-06-18": 192257,
-  "2022-06-19": 192540,
-  "2022-06-20": 192540,
-  "2022-06-21": 192734,
-  "2022-06-22": 193217,
-  "2022-06-23": 193217,
-  "2022-06-24": 193494,
-  "2022-06-25": 193732,
-  "2022-06-26": 193960,
-  "2022-06-27": 194182,
-  "2022-06-28": 194451,
-  "2022-06-29": 194683,
-  "2022-06-30": 194890,
-  "2022-07-01": 195144,
-  "2022-07-02": 195352,
-  "2022-07-03": 195552,
-  "2022-07-04": 195749,
-  "2022-07-05": 195749,
-  "2022-07-06": 195749,
-  "2022-07-07": 196428,
-  "2022-07-08": 196698,
-  "2022-07-09": 196913,
-  "2022-07-10": 197140,
-  "2022-07-11": 197344,
-  "2022-07-12": 197536,
-  "2022-07-13": 197730,
-  "2022-07-14": 197956,
-  "2022-07-15": 198160,
-  "2022-07-16": 198397,
-  "2022-07-17": 198633,
-  "2022-07-18": 198944,
-  "2022-07-19": 199152,
-  "2022-07-20": 199362,
-  "2022-07-21": 199597,
-  "2022-07-22": 199858,
-  "2022-07-23": 200107,
-  "2022-07-24": 200328,
-  "2022-07-25": 200611,
-  "2022-07-26": 200919,
-  "2022-07-27": 201170,
-  "2022-07-28": 201418,
-  "2022-07-29": 201696,
-  "2022-07-30": 202158,
-  "2022-07-31": 202158,
-  "2022-08-01": 202341,
-  "2022-08-02": 202787,
-  "2022-08-03": 202787,
-  "2022-08-04": 203003,
-  "2022-08-05": 203219,
-  "2022-08-06": 203462,
-  "2022-08-07": 203714,
-  "2022-08-08": 203997,
-  "2022-08-09": 204230,
-  "2022-08-10": 204473,
-  "2022-08-11": 204699,
-  "2022-08-12": 204946,
-  "2022-08-13": 205223,
-  "2022-08-14": 205454,
-  "2022-08-15": 205667,
-  "2022-08-16": 205949,
-  "2022-08-17": 206241,
-  "2022-08-18": 206563,
-  "2022-08-19": 206876,
-  "2022-08-20": 207175,
-  "2022-08-21": 207448,
-  "2022-08-22": 207738,
-  "2022-08-23": 208020,
-  "2022-08-24": 208299,
-  "2022-08-25": 208562,
-  "2022-08-26": 208802,
-  "2022-08-27": 209063,
-  "2022-08-28": 209297,
-  "2022-08-29": 209525,
-  "2022-08-30": 209721,
-  "2022-08-31": 209783,
-  "2022-09-01": 209849,
-  "2022-09-02": 209937,
-  "2022-09-03": 209889,
-  "2022-09-04": 209991,
-  "2022-09-05": 210206,
-  "2022-09-06": 210416,
-  "2022-09-07": 210693,
-  "2022-09-09": 211230,
-  "2022-09-10": 211488,
-  "2022-09-11": 211740,
-  "2022-09-12": 211963,
-  "2022-09-13": 212228,
-  "2022-09-15": 212742,
-  "2022-09-16": 212969,
-  "2022-09-17": 213231,
-  "2022-09-18": 213473,
-  "2022-09-19": 213753,
-  "2022-09-20": 213961,
-  "2022-09-21": 214176,
-  "2022-09-22": 214464,
-  "2022-09-23": 214739,
-  "2022-09-24": 214739,
-  "2022-09-25": 215244,
-  "2022-09-26": 215435,
-  "2022-09-27": 215663,
-  "2022-09-28": 215928,
-  "2022-09-29": 216171,
-  "2022-09-30": 216459,
-  "2022-10-01": 216701,
-  "2022-10-02": 216927,
-  "2022-10-03": 217160,
-  "2022-10-04": 217408,
-  "2022-10-05": 217643,
-  "2022-10-06": 217869,
-  "2022-10-07": 218099,
-  "2022-10-08": 218303,
-  "2022-10-09": 218699,
-  "2022-10-10": 218748,
-  "2022-10-11": 219025,
-  "2022-10-12": 219301,
-  "2022-10-13": 219606,
-  "2022-10-14": 219893,
-  "2022-10-15": 220129,
-  "2022-10-16": 220349,
-  "2022-10-17": 220557,
-  "2022-10-18": 220822,
-  "2022-10-19": 221091,
-  "2022-10-20": 221368,
-  "2022-10-21": 221591,
-  "2022-10-22": 221846,
-  "2022-10-23": 222050,
-  "2022-10-24": 222230,
-  "2022-10-25": 222415,
-  "2022-10-26": 222645,
-  "2022-10-27": 222848,
-  "2022-10-28": 223044,
-  "2022-10-29": 223270,
-  "2022-10-30": 223477,
-  "2022-10-31": 223618,
-  "2022-11-01": 223825,
-  "2022-11-02": 224034,
-  "2022-11-03": 224235,
-  "2022-11-04": 224447,
-  "2022-11-05": 224661,
-  "2022-11-06": 224843,
-  "2022-11-07": 225019,
-  "2022-11-08": 225246,
-  "2022-11-09": 225545,
-  "2022-11-10": 225806,
-  "2022-11-11": 226057,
-  "2022-11-12": 226305,
-  "2022-11-13": 226486,
-  "2022-11-14": 226678,
-  "2022-11-15": 226882,
-  "2022-11-16": 227089,
-  "2022-11-17": 227345,
-  "2022-11-18": 227404,
-  "2022-11-19": 227470,
-  "2022-11-20": 227678,
-  "2022-11-21": 227876,
-  "2022-11-22": 228079,
-  "2022-11-23": 228285,
-  "2022-11-24": 228706,
-  "2022-11-25": 229018,
-  "2022-11-26": 229241,
-  "2022-11-27": 229429,
-  "2022-11-28": 229602,
-  "2022-11-29": 229839,
-  "2022-11-30": 230029,
-  "2022-12-01": 230331,
-  "2022-12-02": 230549,
-  "2022-12-03": 230924,
-  "2022-12-04": 231181,
-  "2022-12-05": 231381,
-  "2022-12-06": 231637,
-  "2022-12-07": 231860,
-  "2022-12-08": 232127,
-  "2022-12-09": 232392,
-  "2022-12-10": 232597,
-  "2022-12-11": 232794,
-  "2022-12-12": 233002,
-  "2022-12-13": 233204,
-  "2022-12-14": 233451,
-  "2022-12-15": 233690,
-  "2022-12-16": 233906,
-  "2022-12-17": 234113,
-  "2022-12-18": 234298,
-  "2022-12-19": 234492,
-  "2022-12-20": 234940,
-  "2022-12-21": 234940,
-  "2022-12-22": 235186,
-  "2022-12-24": 235688,
-  "2022-12-25": 235894,
-  "2022-12-26": 236062,
-  "2022-12-27": 236282,
-  "2022-12-28": 236544,
-  "2022-12-29": 236809,
-  "2022-12-30": 237059,
-  "2022-12-31": 237329,
-  "2023-01-01": 237575,
-  "2023-01-02": 237828,
-  "2023-01-03": 238137,
-  "2023-01-04": 238381,
-  "2023-01-05": 238651,
-  "2023-01-06": 238985,
-  "2023-01-07": 239452,
-  "2023-01-08": 239534,
-  "2023-01-09": 239772,
-  "2023-01-10": 240054,
-  "2023-01-11": 240363,
-  "2023-01-12": 240679,
-  "2023-01-13": 241012,
-  "2023-01-14": 241552,
-  "2023-01-15": 241619,
-  "2023-01-16": 241888,
-  "2023-01-17": 242178,
-  "2023-01-18": 242471,
-  "2023-01-19": 242762,
-  "2023-01-20": 243074,
-  "2023-01-21": 243396,
-  "2023-01-22": 243625,
-  "2023-01-23": 243841,
-  "2023-01-24": 244173,
-  "2023-01-25": 244485,
-  "2023-01-26": 244732,
-  "2023-01-27": 244992,
-  "2023-01-28": 245203,
-  "2023-01-29": 245433,
-  "2023-01-30": 245677,
-  "2023-01-31": 245677,
-  "2023-02-01": 246223,
-  "2023-02-02": 246497,
-  "2023-02-03": 246757,
-  "2023-02-04": 246998,
-  "2023-02-05": 247268,
-  "2023-02-06": 247498,
-  "2023-02-07": 247750,
-  "2023-02-08": 248237,
-  "2023-02-09": 248237,
-  "2023-02-10": 248540,
-  "2023-02-11": 248811,
-  "2023-02-12": 249387,
-  "2023-02-13": 249795,
-  "2023-02-14": 249795,
-  "2023-02-15": 250212,
-  "2023-02-16": 250695,
-  "2023-02-17": 251160,
-  "2023-02-18": 251868,
-  "2023-02-19": 251928,
-  "2023-02-20": 252191,
-  "2023-02-21": 252466,
-  "2023-02-22": 252809,
-  "2023-02-23": 253158,
-  "2023-02-24": 253470,
-  "2023-02-25": 253895,
-  "2023-02-26": 254100,
-  "2023-02-27": 254640,
-  "2023-02-28": 254640,
-  "2023-03-01": 254971,
-  "2023-03-02": 255288,
-  "2023-03-03": 255611,
-  "2023-03-04": 255889,
-  "2023-03-05": 256400,
-  "2023-03-06": 256400,
-  "2023-03-07": 256744,
-  "2023-03-08": 257036,
-  "2023-03-09": 257376,
-  "2023-03-10": 257651,
-  "2023-03-11": 257943,
-  "2023-03-12": 258158,
-  "2023-03-13": 258392,
-  "2023-03-14": 258683,
-  "2023-03-15": 258928,
-  "2023-03-16": 258928,
-  "2023-03-17": 258928,
-  "2023-03-18": 259781,
-  "2023-03-19": 259781,
-  "2023-03-20": 260320,
-  "2023-03-21": 260609,
-  "2023-03-22": 260908,
-  "2023-03-23": 261212,
-  "2023-03-24": 261212,
-  "2023-03-25": 261820,
-  "2023-03-26": 262139,
-  "2023-03-27": 262406,
-  "2023-03-28": 262711,
-  "2023-03-29": 263063,
-  "2023-03-30": 263582,
-  "2023-03-31": 263582,
-  "2023-04-01": 263912,
-  "2023-04-02": 264194,
-  "2023-04-03": 264494,
-  "2023-04-04": 264830,
-  "2023-04-05": 265152,
-  "2023-04-06": 265503,
-  "2023-04-07": 265834,
-  "2023-04-09": 266365,
-  "2023-04-10": 266635,
-  "2023-04-11": 267247,
-  "2023-04-12": 267247,
-  "2023-04-13": 267604,
-  "2023-04-14": 267975,
-  "2023-04-15": 268306,
-  "2023-04-16": 268592,
-  "2023-04-17": 268883,
-  "2023-04-18": 269201,
-  "2023-04-19": 269500,
-  "2023-04-20": 269806,
-  "2023-04-21": 270101,
-  "2023-04-22": 270421,
-  "2023-04-23": 270650,
-  "2023-04-24": 270873,
-  "2023-04-25": 271170,
-  "2023-04-26": 271448,
-  "2023-04-27": 271701,
-  "2023-04-28": 271972,
-  "2023-04-29": 272225,
-  "2023-04-30": 272506,
-  "2023-05-01": 272710,
-  "2023-05-02": 272945,
-  "2023-05-03": 273209,
-  "2023-05-04": 273488,
-  "2023-05-05": 273764,
-  "2023-05-06": 274018,
-  "2023-05-07": 274280,
-  "2023-05-08": 274517,
-  "2023-05-09": 274758,
-  "2023-05-10": 275033,
-  "2023-05-11": 275268,
-  "2023-05-12": 275503,
-  "2023-05-13": 275812,
-  "2023-05-14": 276050,
-  "2023-05-15": 276307,
-  "2023-05-16": 276593,
-  "2023-05-17": 276877,
-  "2023-05-18": 277210,
-  "2023-05-19": 277464,
-  "2023-05-20": 277959,
-  "2023-05-21": 277959,
-  "2023-05-22": 277959,
-  "2023-05-23": 278439,
-  "2023-05-24": 278827,
-  "2023-05-25": 278898,
-  "2023-05-26": 279109,
-  "2023-05-27": 279323,
-  "2023-05-28": 279564,
-  "2023-05-29": 279564,
-  "2023-05-30": 279929,
-  "2023-05-31": 280172,
-  "2023-06-01": 280392,
-  "2023-06-02": 280629,
-  "2023-06-03": 280839,
-  "2023-06-04": 281061,
-  "2023-06-05": 281257,
-  "2023-06-06": 281494,
-  "2023-06-07": 281753,
-  "2023-06-08": 281993,
-  "2023-06-09": 282233,
-  "2023-06-10": 282471,
-  "2023-06-11": 282678,
-  "2023-06-12": 282916,
-  "2023-06-13": 283155,
-  "2023-06-14": 283155,
-  "2023-06-15": 283604,
-  "2023-06-16": 283828,
-  "2023-06-17": 284042,
-  "2023-06-18": 284244,
-  "2023-06-19": 284458,
-  "2023-06-20": 284679,
-  "2023-06-21": 284939,
-  "2023-06-22": 285182,
-  "2023-06-23": 285453,
-  "2023-06-24": 285685,
-  "2023-06-25": 285909,
-  "2023-06-26": 286121,
-  "2023-06-27": 286355,
-  "2023-06-28": 286575,
-  "2023-06-29": 286822,
-  "2023-06-30": 287041,
-  "2023-07-01": 287529,
-  "2023-07-02": 287529,
-  "2023-07-03": 287733,
-  "2023-07-04": 287942,
-  "2023-07-05": 288175,
-  "2023-07-06": 288628,
-  "2023-07-07": 288628,
-  "2023-07-08": 288628,
-  "2023-07-09": 289067,
-  "2023-07-10": 289279,
-  "2023-07-11": 289458,
-  "2023-07-12": 289716,
-  "2023-07-13": 289997,
-  "2023-07-14": 290242,
-  "2023-07-15": 290427,
-  "2023-07-16": 290695,
-  "2023-07-17": 290866,
-  "2023-07-18": 291103,
-  "2023-07-19": 291333,
-  "2023-07-20": 291333,
-  "2023-07-21": 291753,
-  "2023-07-22": 292006,
-  "2023-07-23": 292241,
-  "2023-07-24": 292467,
-  "2023-07-25": 292694,
-  "2023-07-26": 292925,
-  "2023-07-27": 293226,
-  "2023-07-28": 293545,
-  "2023-07-29": 293785,
-  "2023-07-30": 293785,
-  "2023-07-31": 294265,
-  "2023-08-01": 294479,
-  "2023-08-02": 294688,
-  "2023-08-03": 294966,
-  "2023-08-04": 295167,
-  "2023-08-05": 295412,
-  "2023-08-06": 295897,
-  "2023-08-07": 295897,
-  "2023-08-08": 296131,
-  "2023-08-09": 296346,
-  "2023-08-10": 296611,
-  "2023-08-11": 296853,
-  "2023-08-12": 296853,
-  "2023-08-13": 296853,
-  "2023-08-14": 296853,
-  "2023-08-15": 296853,
-  "2023-08-16": 296853,
-  "2023-08-17": 296853,
-  "2023-08-18": 296853,
-  "2023-08-19": 296853,
-  "2023-08-20": 298970,
-  "2023-08-21": 298970,
-  "2023-08-22": 299415,
-  "2023-08-23": 299415,
-  "2023-08-24": 299415,
-  "2023-08-25": 299415,
-  "2023-08-26": 300404,
-  "2023-08-27": 300404,
-  "2023-08-28": 300726,
-  "2023-08-29": 300726,
-  "2023-08-30": 300726,
-  "2023-08-31": 301393,
-  "2023-09-01": 301609,
-  "2023-09-02": 301609,
-  "2023-09-03": 301609,
-  "2023-09-04": 301609,
-  "2023-09-05": 301609,
-  "2023-09-06": 301609,
-  "2023-09-07": 301609,
-  "2023-09-08": 301609,
-  "2023-09-09": 301609,
-  "2023-09-10": 301609,
-  "2023-09-11": 301609,
-  "2023-09-12": 301609,
-  "2023-09-13": 301609,
-  "2023-09-14": 301609,
-  "2023-09-15": 301609,
-  "2023-09-16": 305046,
-  "2023-09-17": 305046,
-  "2023-09-18": 305046,
-  "2023-09-19": 305706,
-  "2023-09-20": 305706,
-  "2023-09-21": 305706,
-  "2023-09-22": 306413,
-  "2023-09-23": 306413,
-  "2023-09-24": 306413,
-  "2023-09-25": 306413,
-  "2023-09-26": 307234,
-  "2023-09-27": 307234,
-  "2023-09-28": 307234,
-  "2023-09-29": 307234,
-  "2023-09-30": 307234,
-  "2023-10-01": 307234,
-  "2023-10-02": 307234,
-  "2023-10-03": 307234,
-  "2023-10-04": 307234,
-  "2023-10-05": 307234,
-  "2023-10-06": 307234,
-  "2023-10-07": 307234,
-  "2023-10-08": 307234,
-  "2023-10-09": 307234,
-  "2023-10-10": 307234,
-  "2023-10-11": 310467,
-  "2023-10-12": 310467,
-  "2023-10-13": 310467,
-  "2023-10-14": 310467,
-  "2023-10-15": 310467,
-  "2023-10-16": 310467,
-  "2023-10-17": 310467,
-  "2023-10-18": 310467,
-  "2023-10-19": 310467,
-  "2023-10-20": 310467,
-  "2023-10-21": 310467,
-  "2023-10-22": 310467,
-  "2023-10-23": 310467,
-  "2023-10-24": 310467,
-  "2023-10-25": 310467,
-  "2023-10-26": 310467,
-  "2023-10-27": 310467,
-  "2023-10-28": 310467,
-  "2023-10-29": 310467,
-  "2023-10-30": 310467,
-  "2023-10-31": 310467,
-  "2023-11-01": 310467,
-  "2023-11-02": 310467,
-  "2023-11-03": 310467,
-  "2023-11-04": 310467,
-  "2023-11-05": 310467,
-  "2023-11-06": 310467,
-  "2023-11-07": 310467,
-  "2023-11-08": 310467,
-  "2023-11-09": 310467,
-  "2023-11-10": 310467,
-  "2023-11-11": 316327,
-  "2023-11-12": 316327,
-  "2023-11-13": 316327,
-  "2023-11-14": 316327,
-  "2023-11-15": 316327,
-  "2023-11-16": 316327,
-  "2023-11-17": 316327,
-  "2023-11-18": 316327,
-  "2023-11-19": 316327,
-  "2023-11-20": 316327,
-  "2023-11-21": 316327,
-  "2023-11-22": 316327,
-  "2023-11-23": 316327,
-  "2023-11-24": 316327,
-  "2023-11-25": 316327,
-  "2023-11-26": 316327,
-  "2023-11-27": 316327,
-  "2023-11-28": 316327,
-  "2023-11-29": 316327,
-  "2023-11-30": 316327,
-  "2023-12-01": 316327,
-  "2023-12-02": 316327,
-  "2023-12-03": 316327,
-  "2023-12-04": 316327,
-  "2023-12-05": 316327,
-  "2023-12-06": 316327,
-  "2023-12-07": 316327,
-  "2023-12-08": 316327,
-  "2023-12-09": 316327,
-  "2023-12-10": 316327,
-  "2023-12-11": 316327,
-  "2023-12-12": 316327,
-  "2023-12-13": 316327,
-  "2023-12-14": 322124,
-  "2023-12-15": 322312,
-  "2023-12-16": 322564,
-  "2023-12-17": 322742,
-  "2023-12-18": 322898,
-  "2023-12-19": 323078,
-  "2023-12-20": 323284,
-  "2023-12-21": 323490,
-  "2023-12-22": 323699,
-  "2023-12-23": 323925,
-  "2023-12-24": 324132,
-  "2023-12-25": 324275,
-  "2023-12-26": 324429,
-  "2023-12-27": 324647,
-  "2023-12-30": 325304,
-  "2023-12-31": 325506,
-  "2024-01-01": 325621,
-  "2024-01-02": 325776,
-  "2024-01-03": 325969
+  "2024-01-17": 328602,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Deftones. The essential tracks, all in one playlist.",
+  "name": "This Is Deftones",
+  "tracks": [
+    {
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "7 Words",
+      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
+    },
+    {
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "976-EVIL",
+      "url": "https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5"
+    },
+    {
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211733,
+      "name": "Around the Fur",
+      "url": "https://open.spotify.com/track/3Fwe3XoPOiyWUPYdBKMTqV"
+    },
+    {
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "Back to School (Mini Maggit)",
+      "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
+    },
+    {
+      "album": {
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301866,
+      "name": "Battle-axe",
+      "url": "https://open.spotify.com/track/2ouqll9zsD2cjcGUfgtInW"
+    },
+    {
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299866,
+      "name": "Be Quiet and Drive (Far Away)",
+      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
+    },
+    {
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287840,
+      "name": "Beauty School",
+      "url": "https://open.spotify.com/track/5sUCU4eiyf0pplIJ7OGEoc"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360666,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS"
+    },
+    {
+      "album": {
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215626,
+      "name": "Bloody Cape",
+      "url": "https://open.spotify.com/track/66ace8nbTVjgHTed107cDn"
+    },
+    {
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245973,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW"
+    },
+    {
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207752,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo"
+    },
+    {
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299533,
+      "name": "Change (In the House of Flies)",
+      "url": "https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317706,
+      "name": "Cherry Waves",
+      "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3"
+    },
+    {
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276573,
+      "name": "Dai the Flu",
+      "url": "https://open.spotify.com/track/2cN7qiHMJflO91pkG9HoO1"
+    },
+    {
+      "album": {
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328173,
+      "name": "Deathblow",
+      "url": "https://open.spotify.com/track/09QuitJuAP87RoBSpiCXPs"
+    },
+    {
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188266,
+      "name": "Diamond Eyes",
+      "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ"
+    },
+    {
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "Digital Bath",
+      "url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS"
+    },
+    {
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Engine No. 9",
+      "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
+    },
+    {
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299240,
+      "name": "Entombed",
+      "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5"
+    },
+    {
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290339,
+      "name": "Error",
+      "url": "https://open.spotify.com/track/5XQPlP8yHnXz5qTjIZ10gC"
+    },
+    {
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317281,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/6FfMQVzOC46ZL5byOQfUhT"
+    },
+    {
+      "album": {
+        "name": "Gore",
+        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320546,
+      "name": "Hearts / Wires",
+      "url": "https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2"
+    },
+    {
+      "album": {
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250893,
+      "name": "Hexagram",
+      "url": "https://open.spotify.com/track/2xgvuJvwjnaJHFHb66E3nq"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249320,
+      "name": "Hole in the Earth",
+      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 194306,
+      "name": "Kimdracula",
+      "url": "https://open.spotify.com/track/4K0fUJcm1hUaysX5txW6XR"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "Kimdracula",
+      "url": "https://open.spotify.com/track/4m8wPzkI1y0sUdqEh4A7fq"
+    },
+    {
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Knife Prty",
+      "url": "https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB"
+    },
+    {
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248893,
+      "name": "Leathers",
+      "url": "https://open.spotify.com/track/0RLhtEt50QUwKXNwKI4dSJ"
+    },
+    {
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "Lhabia",
+      "url": "https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5"
+    },
+    {
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225293,
+      "name": "Mascara",
+      "url": "https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238040,
+      "name": "Mein",
+      "url": "https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA"
+    },
+    {
+      "album": {
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257813,
+      "name": "Minerva",
+      "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
+    },
+    {
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244293,
+      "name": "Minus Blindfold",
+      "url": "https://open.spotify.com/track/5zFalOg043nNnRYtU7TS1T"
+    },
+    {
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "My Own Summer (Shove It)",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
+    },
+    {
+      "album": {
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203066,
+      "name": "Needles and Pins",
+      "url": "https://open.spotify.com/track/1oTKnx7AgEhA5wUs3Z8rrr"
+    },
+    {
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250222,
+      "name": "Ohms",
+      "url": "https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1"
+    },
+    {
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268973,
+      "name": "One Weak",
+      "url": "https://open.spotify.com/track/4Bj9dhsxbIwrblcmBs9BpZ"
+    },
+    {
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368666,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF"
+    },
+    {
+      "album": {
+        "name": "Gore",
+        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293053,
+      "name": "Phantom Bride",
+      "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
+    },
+    {
+      "album": {
+        "name": "Gore",
+        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 217920,
+      "name": "Prayers / Triangles",
+      "url": "https://open.spotify.com/track/0B1Iqqq8wVoXM5R5glHQES"
+    },
+    {
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215450,
+      "name": "Radiant City",
+      "url": "https://open.spotify.com/track/33Mdiqg5G8TNeaKQHntgyU"
+    },
+    {
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ"
+    },
+    {
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278106,
+      "name": "Romantic Dreams",
+      "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"
+    },
+    {
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220826,
+      "name": "Root",
+      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
+    },
+    {
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413346,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J"
+    },
+    {
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268026,
+      "name": "Rx Queen",
+      "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
+    },
+    {
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241533,
+      "name": "Sextape",
+      "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE"
+    },
+    {
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "Swerve City",
+      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
+    },
+    {
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365480,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW"
+    },
+    {
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270476,
+      "name": "Urantia",
+      "url": "https://open.spotify.com/track/33WXUh74RZ4CEfUkpJwHWE"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "Xerces",
+      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
+    },
+    {
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211146,
+      "name": "You've Seen the Butcher",
+      "url": "https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WNHaM"
 }

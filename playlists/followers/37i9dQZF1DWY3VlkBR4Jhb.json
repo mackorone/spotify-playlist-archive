@@ -1,735 +1,2917 @@
 {
-  "2021-12-25": 82212,
-  "2021-12-26": 82256,
-  "2021-12-27": 82359,
-  "2021-12-28": 82358,
-  "2021-12-29": 82396,
-  "2021-12-30": 82427,
-  "2021-12-31": 82475,
-  "2022-01-01": 82526,
-  "2022-01-02": 82536,
-  "2022-01-03": 82567,
-  "2022-01-04": 82612,
-  "2022-01-05": 82641,
-  "2022-01-06": 82692,
-  "2022-01-07": 82744,
-  "2022-01-08": 82827,
-  "2022-01-09": 82830,
-  "2022-01-10": 82887,
-  "2022-01-11": 82944,
-  "2022-01-12": 83001,
-  "2022-01-13": 83035,
-  "2022-01-14": 83084,
-  "2022-01-15": 83171,
-  "2022-01-16": 83175,
-  "2022-01-17": 83274,
-  "2022-01-18": 83277,
-  "2022-01-19": 83303,
-  "2022-01-20": 83342,
-  "2022-01-21": 83385,
-  "2022-01-22": 83425,
-  "2022-01-23": 83474,
-  "2022-01-24": 83525,
-  "2022-01-25": 83558,
-  "2022-01-26": 83601,
-  "2022-01-27": 83654,
-  "2022-01-28": 83701,
-  "2022-01-29": 83756,
-  "2022-01-30": 83814,
-  "2022-01-31": 83877,
-  "2022-02-01": 83947,
-  "2022-02-02": 84003,
-  "2022-02-03": 84053,
-  "2022-02-04": 84093,
-  "2022-02-05": 84136,
-  "2022-02-06": 84184,
-  "2022-02-07": 84233,
-  "2022-02-08": 84292,
-  "2022-02-09": 84332,
-  "2022-02-10": 84370,
-  "2022-02-11": 84409,
-  "2022-02-12": 84449,
-  "2022-02-13": 84484,
-  "2022-02-14": 84522,
-  "2022-02-15": 84558,
-  "2022-02-16": 84603,
-  "2022-02-17": 84657,
-  "2022-02-18": 84710,
-  "2022-02-19": 84743,
-  "2022-02-20": 84775,
-  "2022-02-21": 84831,
-  "2022-02-22": 84866,
-  "2022-02-23": 84902,
-  "2022-02-24": 84954,
-  "2022-02-25": 84986,
-  "2022-02-26": 85020,
-  "2022-02-27": 85098,
-  "2022-02-28": 85098,
-  "2022-03-01": 85127,
-  "2022-03-02": 85177,
-  "2022-03-03": 85208,
-  "2022-03-04": 85243,
-  "2022-03-05": 85281,
-  "2022-03-06": 85314,
-  "2022-03-07": 85348,
-  "2022-03-08": 85397,
-  "2022-03-09": 85442,
-  "2022-03-10": 85496,
-  "2022-03-11": 85541,
-  "2022-03-12": 85580,
-  "2022-03-13": 85624,
-  "2022-03-14": 85687,
-  "2022-03-15": 85720,
-  "2022-03-16": 85756,
-  "2022-03-17": 85810,
-  "2022-03-18": 85868,
-  "2022-03-19": 85893,
-  "2022-03-20": 85893,
-  "2022-03-21": 85963,
-  "2022-03-22": 85998,
-  "2022-03-23": 86041,
-  "2022-03-24": 86071,
-  "2022-03-25": 86112,
-  "2022-03-26": 86146,
-  "2022-03-27": 86183,
-  "2022-03-28": 86213,
-  "2022-03-30": 86270,
-  "2022-03-31": 86315,
-  "2022-04-01": 86367,
-  "2022-04-02": 86406,
-  "2022-04-03": 86460,
-  "2022-04-04": 86491,
-  "2022-04-05": 86522,
-  "2022-04-06": 86568,
-  "2022-04-07": 86609,
-  "2022-04-08": 86659,
-  "2022-04-09": 86707,
-  "2022-04-10": 86805,
-  "2022-04-11": 86847,
-  "2022-04-12": 86850,
-  "2022-04-13": 86886,
-  "2022-04-14": 86927,
-  "2022-04-15": 86967,
-  "2022-04-16": 87000,
-  "2022-04-17": 87038,
-  "2022-04-18": 87087,
-  "2022-04-19": 87115,
-  "2022-04-20": 87151,
-  "2022-04-21": 87187,
-  "2022-04-22": 87243,
-  "2022-04-23": 87276,
-  "2022-04-24": 87317,
-  "2022-04-25": 87364,
-  "2022-04-26": 87385,
-  "2022-04-27": 87419,
-  "2022-04-28": 87450,
-  "2022-04-29": 87517,
-  "2022-04-30": 87563,
-  "2022-05-01": 87620,
-  "2022-05-02": 87620,
-  "2022-05-03": 87658,
-  "2022-05-04": 87699,
-  "2022-05-05": 87733,
-  "2022-05-06": 87767,
-  "2022-05-07": 87801,
-  "2022-05-08": 87837,
-  "2022-05-09": 87843,
-  "2022-05-10": 87871,
-  "2022-05-11": 87911,
-  "2022-05-12": 87951,
-  "2022-05-13": 87995,
-  "2022-05-14": 88044,
-  "2022-05-15": 88089,
-  "2022-05-16": 88117,
-  "2022-05-17": 88155,
-  "2022-05-18": 88199,
-  "2022-05-19": 88248,
-  "2022-05-20": 88298,
-  "2022-05-21": 88357,
-  "2022-05-22": 88357,
-  "2022-05-23": 88401,
-  "2022-05-24": 88435,
-  "2022-05-25": 88477,
-  "2022-05-26": 88525,
-  "2022-05-27": 88558,
-  "2022-05-28": 88576,
-  "2022-05-29": 88608,
-  "2022-05-30": 88640,
-  "2022-05-31": 88678,
-  "2022-06-01": 88725,
-  "2022-06-02": 88729,
-  "2022-06-03": 88757,
-  "2022-06-04": 88794,
-  "2022-06-05": 88834,
-  "2022-06-06": 88871,
-  "2022-06-07": 88911,
-  "2022-06-08": 88956,
-  "2022-06-09": 88985,
-  "2022-06-10": 89031,
-  "2022-06-11": 89057,
-  "2022-06-12": 89080,
-  "2022-06-13": 89115,
-  "2022-06-14": 89139,
-  "2022-06-15": 89189,
-  "2022-06-16": 89220,
-  "2022-06-17": 89258,
-  "2022-06-18": 89281,
-  "2022-06-19": 89336,
-  "2022-06-20": 89336,
-  "2022-06-21": 89363,
-  "2022-06-22": 89418,
-  "2022-06-23": 89418,
-  "2022-06-24": 89444,
-  "2022-06-25": 89477,
-  "2022-06-26": 89507,
-  "2022-06-27": 89523,
-  "2022-06-28": 89546,
-  "2022-06-29": 89588,
-  "2022-06-30": 89623,
-  "2022-07-01": 89666,
-  "2022-07-02": 89699,
-  "2022-07-03": 89741,
-  "2022-07-04": 89789,
-  "2022-07-05": 89830,
-  "2022-07-06": 89874,
-  "2022-07-07": 89903,
-  "2022-07-08": 89936,
-  "2022-07-09": 89975,
-  "2022-07-10": 90025,
-  "2022-07-11": 90069,
-  "2022-07-12": 90114,
-  "2022-07-13": 90136,
-  "2022-07-14": 90164,
-  "2022-07-15": 90193,
-  "2022-07-16": 90224,
-  "2022-07-17": 90261,
-  "2022-07-18": 90297,
-  "2022-07-19": 90337,
-  "2022-07-20": 90388,
-  "2022-07-21": 90429,
-  "2022-07-22": 90463,
-  "2022-07-23": 90487,
-  "2022-07-24": 90540,
-  "2022-07-25": 90588,
-  "2022-07-26": 90642,
-  "2022-07-27": 90708,
-  "2022-07-28": 90753,
-  "2022-07-29": 90789,
-  "2022-07-30": 90834,
-  "2022-07-31": 90834,
-  "2022-08-01": 90882,
-  "2022-08-02": 90945,
-  "2022-08-03": 90945,
-  "2022-08-04": 90980,
-  "2022-08-05": 91019,
-  "2022-08-06": 91060,
-  "2022-08-07": 91095,
-  "2022-08-08": 91155,
-  "2022-08-09": 91195,
-  "2022-08-10": 91240,
-  "2022-08-11": 91270,
-  "2022-08-12": 91325,
-  "2022-08-13": 91369,
-  "2022-08-14": 91422,
-  "2022-08-15": 91477,
-  "2022-08-16": 91513,
-  "2022-08-17": 91564,
-  "2022-08-18": 91613,
-  "2022-08-19": 91653,
-  "2022-08-20": 91687,
-  "2022-08-21": 91735,
-  "2022-08-22": 91783,
-  "2022-08-23": 91825,
-  "2022-08-24": 91868,
-  "2022-08-25": 91922,
-  "2022-08-26": 91969,
-  "2022-08-27": 92011,
-  "2022-08-28": 92067,
-  "2022-08-29": 92111,
-  "2022-08-30": 92052,
-  "2022-08-31": 91902,
-  "2022-09-01": 91720,
-  "2022-09-02": 91789,
-  "2022-09-03": 91610,
-  "2022-09-04": 91676,
-  "2022-09-05": 91196,
-  "2022-09-06": 91220,
-  "2022-09-07": 91261,
-  "2022-09-09": 91363,
-  "2022-09-10": 91422,
-  "2022-09-11": 91481,
-  "2022-09-12": 91541,
-  "2022-09-13": 91587,
-  "2022-09-15": 91681,
-  "2022-09-16": 91743,
-  "2022-09-17": 91782,
-  "2022-09-18": 91832,
-  "2022-09-19": 91888,
-  "2022-09-20": 91921,
-  "2022-09-21": 92001,
-  "2022-09-22": 92055,
-  "2022-09-23": 92109,
-  "2022-09-24": 92153,
-  "2022-09-25": 92207,
-  "2022-09-26": 92252,
-  "2022-09-27": 92310,
-  "2022-09-28": 92362,
-  "2022-09-29": 92419,
-  "2022-09-30": 92455,
-  "2022-10-01": 92511,
-  "2022-10-02": 92582,
-  "2022-10-03": 92644,
-  "2022-10-04": 92697,
-  "2022-10-05": 92741,
-  "2022-10-06": 92792,
-  "2022-10-07": 92844,
-  "2022-10-08": 92892,
-  "2022-10-09": 93006,
-  "2022-10-10": 93018,
-  "2022-10-11": 93072,
-  "2022-10-12": 93128,
-  "2022-10-13": 93183,
-  "2022-10-14": 93227,
-  "2022-10-15": 93280,
-  "2022-10-16": 93347,
-  "2022-10-17": 93421,
-  "2022-10-18": 93476,
-  "2022-10-19": 93549,
-  "2022-10-20": 93589,
-  "2022-10-21": 93648,
-  "2022-10-22": 93713,
-  "2022-10-23": 93773,
-  "2022-10-24": 93847,
-  "2022-10-25": 93909,
-  "2022-10-26": 93969,
-  "2022-10-27": 94015,
-  "2022-10-28": 94077,
-  "2022-10-29": 94137,
-  "2022-10-30": 94207,
-  "2022-10-31": 94255,
-  "2022-11-01": 94320,
-  "2022-11-02": 94371,
-  "2022-11-03": 94442,
-  "2022-11-04": 94514,
-  "2022-11-05": 94558,
-  "2022-11-06": 94603,
-  "2022-11-07": 94660,
-  "2022-11-08": 94719,
-  "2022-11-09": 94786,
-  "2022-11-10": 94867,
-  "2022-11-11": 94923,
-  "2022-11-12": 94998,
-  "2022-11-13": 95050,
-  "2022-11-14": 95105,
-  "2022-11-15": 95163,
-  "2022-11-16": 95225,
-  "2022-11-17": 95288,
-  "2022-11-18": 95308,
-  "2022-11-19": 95287,
-  "2022-11-20": 95296,
-  "2022-11-21": 95338,
-  "2022-11-22": 95464,
-  "2022-11-23": 95451,
-  "2022-11-24": 95557,
-  "2022-11-25": 95681,
-  "2022-11-26": 95770,
-  "2022-11-27": 95858,
-  "2022-11-28": 95931,
-  "2022-11-29": 95997,
-  "2022-11-30": 96048,
-  "2022-12-01": 96114,
-  "2022-12-02": 96231,
-  "2022-12-03": 96279,
-  "2022-12-04": 96358,
-  "2022-12-05": 96460,
-  "2022-12-06": 96547,
-  "2022-12-07": 96615,
-  "2022-12-08": 96669,
-  "2022-12-09": 96735,
-  "2022-12-10": 96795,
-  "2022-12-11": 96855,
-  "2022-12-12": 96954,
-  "2022-12-13": 97016,
-  "2022-12-14": 97069,
-  "2022-12-15": 97143,
-  "2022-12-16": 97200,
-  "2022-12-17": 97256,
-  "2022-12-18": 97308,
-  "2022-12-19": 97369,
-  "2022-12-20": 97488,
-  "2022-12-21": 97488,
-  "2022-12-22": 97548,
-  "2022-12-24": 97687,
-  "2022-12-25": 97752,
-  "2022-12-26": 97809,
-  "2022-12-27": 97874,
-  "2022-12-28": 97926,
-  "2022-12-29": 97995,
-  "2022-12-30": 98041,
-  "2022-12-31": 98102,
-  "2023-01-01": 98149,
-  "2023-01-02": 98211,
-  "2023-01-03": 98273,
-  "2023-01-04": 98349,
-  "2023-01-05": 98416,
-  "2023-01-06": 98490,
-  "2023-01-07": 98610,
-  "2023-01-08": 98628,
-  "2023-01-09": 98701,
-  "2023-01-10": 98771,
-  "2023-01-11": 98849,
-  "2023-01-12": 98930,
-  "2023-01-13": 99018,
-  "2023-01-14": 99141,
-  "2023-01-15": 99174,
-  "2023-01-16": 99266,
-  "2023-01-17": 99330,
-  "2023-01-18": 99387,
-  "2023-01-19": 99465,
-  "2023-01-20": 99523,
-  "2023-01-21": 99591,
-  "2023-01-22": 99673,
-  "2023-01-23": 99749,
-  "2023-01-24": 99836,
-  "2023-01-25": 99895,
-  "2023-01-26": 99961,
-  "2023-01-27": 100037,
-  "2023-01-28": 100110,
-  "2023-01-29": 100176,
-  "2023-01-30": 100252,
-  "2023-01-31": 100252,
-  "2023-02-01": 100379,
-  "2023-02-02": 100442,
-  "2023-02-03": 100489,
-  "2023-02-04": 100556,
-  "2023-02-05": 100625,
-  "2023-02-06": 100716,
-  "2023-02-07": 100776,
-  "2023-02-08": 100927,
-  "2023-02-09": 100927,
-  "2023-02-10": 100985,
-  "2023-02-11": 101056,
-  "2023-02-12": 101167,
-  "2023-02-13": 101223,
-  "2023-02-14": 101223,
-  "2023-02-15": 101273,
-  "2023-02-16": 101340,
-  "2023-02-17": 101418,
-  "2023-02-18": 101550,
-  "2023-02-19": 101570,
-  "2023-02-20": 101641,
-  "2023-02-21": 101715,
-  "2023-02-22": 101776,
-  "2023-02-23": 101834,
-  "2023-02-24": 101897,
-  "2023-02-25": 101993,
-  "2023-02-26": 102060,
-  "2023-02-27": 102189,
-  "2023-02-28": 102189,
-  "2023-03-01": 102266,
-  "2023-03-02": 102330,
-  "2023-03-03": 102396,
-  "2023-03-04": 102460,
-  "2023-03-05": 102599,
-  "2023-03-06": 102599,
-  "2023-03-07": 102660,
-  "2023-03-08": 102725,
-  "2023-03-09": 102797,
-  "2023-03-10": 102870,
-  "2023-03-11": 102911,
-  "2023-03-12": 102971,
-  "2023-03-13": 103023,
-  "2023-03-14": 103083,
-  "2023-03-15": 103159,
-  "2023-03-16": 103231,
-  "2023-03-17": 103231,
-  "2023-03-18": 103377,
-  "2023-03-19": 103423,
-  "2023-03-20": 103492,
-  "2023-03-21": 103566,
-  "2023-03-22": 103636,
-  "2023-03-23": 103707,
-  "2023-03-24": 103707,
-  "2023-03-25": 103823,
-  "2023-03-26": 103891,
-  "2023-03-27": 103981,
-  "2023-03-28": 104033,
-  "2023-03-29": 104112,
-  "2023-03-30": 104224,
-  "2023-03-31": 104224,
-  "2023-04-01": 104273,
-  "2023-04-02": 104342,
-  "2023-04-03": 104395,
-  "2023-04-04": 104453,
-  "2023-04-05": 104510,
-  "2023-04-06": 104558,
-  "2023-04-07": 104648,
-  "2023-04-09": 104758,
-  "2023-04-10": 104815,
-  "2023-04-11": 104944,
-  "2023-04-12": 104944,
-  "2023-04-13": 104980,
-  "2023-04-14": 105025,
-  "2023-04-15": 105102,
-  "2023-04-16": 105148,
-  "2023-04-17": 105208,
-  "2023-04-18": 105272,
-  "2023-04-19": 105348,
-  "2023-04-20": 105419,
-  "2023-04-21": 105471,
-  "2023-04-22": 105538,
-  "2023-04-23": 105586,
-  "2023-04-24": 105648,
-  "2023-04-25": 105699,
-  "2023-04-26": 105766,
-  "2023-04-27": 105831,
-  "2023-04-28": 105883,
-  "2023-04-29": 105932,
-  "2023-04-30": 106015,
-  "2023-05-01": 106077,
-  "2023-05-02": 106146,
-  "2023-05-03": 106192,
-  "2023-05-04": 106253,
-  "2023-05-05": 106306,
-  "2023-05-06": 106368,
-  "2023-05-07": 106415,
-  "2023-05-08": 106495,
-  "2023-05-09": 106545,
-  "2023-05-10": 106603,
-  "2023-05-11": 106641,
-  "2023-05-12": 106683,
-  "2023-05-13": 106738,
-  "2023-05-14": 106800,
-  "2023-05-15": 106855,
-  "2023-05-16": 106904,
-  "2023-05-17": 106936,
-  "2023-05-18": 106992,
-  "2023-05-19": 107073,
-  "2023-05-20": 107213,
-  "2023-05-21": 107213,
-  "2023-05-22": 107213,
-  "2023-05-23": 107335,
-  "2023-05-24": 121080,
-  "2023-05-25": 120960,
-  "2023-05-26": 121092,
-  "2023-05-27": 121165,
-  "2023-05-28": 121230,
-  "2023-05-29": 121230,
-  "2023-05-30": 121357,
-  "2023-05-31": 121427,
-  "2023-06-01": 121481,
-  "2023-06-02": 121536,
-  "2023-06-03": 121573,
-  "2023-06-04": 121657,
-  "2023-06-05": 121716,
-  "2023-06-06": 121780,
-  "2023-06-07": 121837,
-  "2023-06-08": 121877,
-  "2023-06-09": 121941,
-  "2023-06-10": 122030,
-  "2023-06-11": 122105,
-  "2023-06-12": 122178,
-  "2023-06-13": 122228,
-  "2023-06-14": 122289,
-  "2023-06-15": 122342,
-  "2023-06-16": 122374,
-  "2023-06-17": 122418,
-  "2023-06-18": 122439,
-  "2023-06-19": 122497,
-  "2023-06-20": 122539,
-  "2023-06-21": 122585,
-  "2023-06-22": 122616,
-  "2023-06-23": 122649,
-  "2023-06-24": 122678,
-  "2023-06-25": 122714,
-  "2023-06-26": 122760,
-  "2023-06-27": 122802,
-  "2023-06-28": 122826,
-  "2023-06-29": 122845,
-  "2023-06-30": 122865,
-  "2023-07-01": 122948,
-  "2023-07-02": 122948,
-  "2023-07-03": 123001,
-  "2023-07-04": 123031,
-  "2023-07-05": 123064,
-  "2023-07-06": 123123,
-  "2023-07-07": 123123,
-  "2023-07-08": 123155,
-  "2023-07-09": 123176,
-  "2023-07-10": 123199,
-  "2023-07-11": 123252,
-  "2023-07-12": 123283,
-  "2023-07-13": 123323,
-  "2023-07-14": 123351,
-  "2023-07-15": 123368,
-  "2023-07-16": 123418,
-  "2023-07-17": 123464,
-  "2023-07-18": 123488,
-  "2023-07-19": 123534,
-  "2023-07-20": 123562,
-  "2023-07-21": 123595,
-  "2023-07-22": 123635,
-  "2023-07-23": 123658,
-  "2023-07-24": 123696,
-  "2023-07-25": 123762,
-  "2023-07-26": 123816,
-  "2023-07-27": 123857,
-  "2023-07-28": 123912,
-  "2023-07-29": 123956,
-  "2023-07-30": 123984,
-  "2023-07-31": 124037,
-  "2023-08-01": 124082,
-  "2023-08-02": 124124,
-  "2023-08-03": 124164,
-  "2023-08-04": 124209,
-  "2023-08-05": 124255,
-  "2023-08-06": 124354,
-  "2023-08-07": 124354,
-  "2023-08-08": 124391,
-  "2023-08-09": 124434,
-  "2023-08-10": 124481,
-  "2023-08-11": 124541,
-  "2023-08-12": 124608,
-  "2023-08-13": 124644,
-  "2023-08-14": 124707,
-  "2023-08-15": 124774,
-  "2023-08-16": 124774,
-  "2023-08-17": 124820,
-  "2023-08-18": 124854,
-  "2023-08-19": 124894,
-  "2023-08-20": 124943,
-  "2023-08-21": 124999,
-  "2023-08-22": 125052,
-  "2023-08-23": 125094,
-  "2023-08-24": 125139,
-  "2023-08-25": 125183,
-  "2023-08-26": 125227,
-  "2023-08-27": 125263,
-  "2023-08-28": 125311,
-  "2023-08-29": 125354,
-  "2023-08-30": 125386,
-  "2023-08-31": 125441,
-  "2023-09-01": 125513,
-  "2023-09-02": 125513,
-  "2023-09-03": 125559,
-  "2023-09-04": 125615,
-  "2023-09-05": 125661,
-  "2023-09-06": 125720,
-  "2023-09-07": 125770,
-  "2023-09-08": 125798,
-  "2023-09-09": 125840,
-  "2023-09-10": 125873,
-  "2023-09-11": 125925,
-  "2023-09-12": 125975,
-  "2023-09-13": 126026,
-  "2023-09-14": 126053,
-  "2023-09-15": 126095,
-  "2023-09-16": 126146,
-  "2023-09-17": 126197,
-  "2023-09-18": 126260,
-  "2023-09-19": 126305,
-  "2023-09-20": 126351,
-  "2023-09-21": 126389,
-  "2023-09-22": 126420,
-  "2023-09-23": 126465,
-  "2023-09-24": 126508,
-  "2023-09-25": 126572,
-  "2023-09-26": 126622,
-  "2023-09-27": 126669,
-  "2023-09-28": 126706,
-  "2023-09-29": 126758,
-  "2023-09-30": 126793,
-  "2023-10-01": 126828,
-  "2023-10-02": 126879,
-  "2023-10-03": 126929,
-  "2023-10-04": 126973,
-  "2023-10-05": 127001,
-  "2023-10-06": 127050,
-  "2023-10-07": 127105,
-  "2023-10-08": 127155,
-  "2023-10-09": 127223,
-  "2023-10-10": 127252,
-  "2023-10-11": 127287,
-  "2023-10-12": 127287,
-  "2023-10-13": 127314,
-  "2023-10-14": 127337,
-  "2023-10-15": 127376,
-  "2023-10-16": 127430,
-  "2023-10-17": 127479,
-  "2023-10-18": 127517,
-  "2023-10-19": 127563,
-  "2023-10-20": 127602,
-  "2023-10-21": 127651,
-  "2023-10-22": 127695,
-  "2023-10-23": 127764,
-  "2023-10-24": 127804,
-  "2023-10-25": 127847,
-  "2023-10-26": 127885,
-  "2023-10-27": 127938,
-  "2023-10-28": 127969,
-  "2023-10-29": 128021,
-  "2023-10-30": 128129,
-  "2023-10-31": 128129,
-  "2023-11-01": 128173,
-  "2023-11-02": 128209,
-  "2023-11-03": 128262,
-  "2023-11-04": 128298,
-  "2023-11-05": 128344,
-  "2023-11-06": 128374,
-  "2023-11-07": 128408,
-  "2023-11-08": 128453,
-  "2023-11-09": 128489,
-  "2023-11-10": 128534,
-  "2023-11-11": 128576,
-  "2023-11-12": 128625,
-  "2023-11-13": 128679,
-  "2023-11-14": 128723,
-  "2023-11-15": 128723,
-  "2023-11-16": 128814,
-  "2023-11-17": 128878,
-  "2023-11-18": 128878,
-  "2023-11-19": 128918,
-  "2023-11-20": 128961,
-  "2023-11-21": 129012,
-  "2023-11-22": 129066,
-  "2023-11-23": 129112,
-  "2023-11-24": 129153,
-  "2023-11-25": 129181,
-  "2023-11-26": 129236,
-  "2023-11-27": 129294,
-  "2023-11-28": 129337,
-  "2023-11-29": 129435,
-  "2023-11-30": 129435,
-  "2023-12-01": 129488,
-  "2023-12-02": 129533,
-  "2023-12-03": 129588,
-  "2023-12-04": 129652,
-  "2023-12-05": 129695,
-  "2023-12-06": 129747,
-  "2023-12-07": 129788,
-  "2023-12-08": 129845,
-  "2023-12-09": 129886,
-  "2023-12-10": 129913,
-  "2023-12-11": 129958,
-  "2023-12-12": 129993,
-  "2023-12-13": 130026,
-  "2023-12-14": 130101,
-  "2023-12-15": 130124,
-  "2023-12-16": 130162,
-  "2023-12-17": 130195,
-  "2023-12-18": 130224,
-  "2023-12-19": 130251,
-  "2023-12-20": 130290,
-  "2023-12-21": 130334,
-  "2023-12-22": 130374,
-  "2023-12-23": 130416,
-  "2023-12-24": 130466,
-  "2023-12-25": 130495,
-  "2023-12-26": 130528,
-  "2023-12-27": 130561,
-  "2023-12-30": 130662,
-  "2023-12-31": 130705,
-  "2024-01-01": 130751,
-  "2024-01-02": 130789,
-  "2024-01-03": 130827
+  "2024-01-17": 131276,
+  "date_first_scraped": "2021-12-21",
+  "description": "The essential works of Franz Schubert.",
+  "name": "This Is Schubert",
+  "tracks": [
+    {
+      "album": {
+        "name": "Schubert: Impromptus, D. 899 (Op. 90) & D. 935 (Op. 142)",
+        "url": "https://open.spotify.com/album/7iWzo7rT6DWeoOundFbwcx"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364440,
+      "name": "4 Impromptus, D. 899, Op. 90: No. 3 in G-Flat Major",
+      "url": "https://open.spotify.com/track/5nyjJE5icW9rkqFGTZVhYR"
+    },
+    {
+      "album": {
+        "name": "Franz Schubert - A Monument of Classics",
+        "url": "https://open.spotify.com/album/6DrUBsS2CXPKHtOZshQn21"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Radu Lupu",
+          "url": "https://open.spotify.com/artist/2BoWH2w47EUxEiOuvl4mxF"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 280666,
+      "name": "4 Impromptus, Op. 90, D.899: No. 2 in E Flat Major: Allegro",
+      "url": "https://open.spotify.com/track/6Ze1vyzRKCxPNYy6nYZ7cY"
+    },
+    {
+      "album": {
+        "name": "Schubert: Impromptus Opp.90 & 142",
+        "url": "https://open.spotify.com/album/4NZXp2MtBeEcRfHva9PDL9"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Radu Lupu",
+          "url": "https://open.spotify.com/artist/2BoWH2w47EUxEiOuvl4mxF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280666,
+      "name": "4 Impromptus, Op. 90, D.899: No. 2 in E Flat Major: Allegro",
+      "url": "https://open.spotify.com/track/7GnpnKqlXW9RkPmyBR2VEf"
+    },
+    {
+      "album": {
+        "name": "Schubert: Impromptus Opp.90 & 142",
+        "url": "https://open.spotify.com/album/4NZXp2MtBeEcRfHva9PDL9"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Radu Lupu",
+          "url": "https://open.spotify.com/artist/2BoWH2w47EUxEiOuvl4mxF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497773,
+      "name": "4 Impromptus, Op. 90, D.899: No. 4 in A Flat Major: Allegretto",
+      "url": "https://open.spotify.com/track/4acoaqSa5dno7qMFExRG2w"
+    },
+    {
+      "album": {
+        "name": "Schubert: Classical Moments",
+        "url": "https://open.spotify.com/album/4lewVMpX1iISwPSxRalnFn"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Radu Lupu",
+          "url": "https://open.spotify.com/artist/2BoWH2w47EUxEiOuvl4mxF"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 497773,
+      "name": "4 Impromptus, Op. 90, D.899: No. 4 in A Flat Major: Allegretto",
+      "url": "https://open.spotify.com/track/5kwXBinovIYDPY0KDJMEZk"
+    },
+    {
+      "album": {
+        "name": "Schubert: Impromptus Opp.90 & 142",
+        "url": "https://open.spotify.com/album/7ppYDyPCDAIB3HClCTuQe5"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Radu Lupu",
+          "url": "https://open.spotify.com/artist/2BoWH2w47EUxEiOuvl4mxF"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280666,
+      "name": "4 Impromptus, Op.90, D.899: No.2 in E Flat Major: Allegro",
+      "url": "https://open.spotify.com/track/2oLGuxIp5I8jj9MDllAP9d"
+    },
+    {
+      "album": {
+        "name": "Schubert: Impromptus Opp.90 & 142",
+        "url": "https://open.spotify.com/album/7ppYDyPCDAIB3HClCTuQe5"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Radu Lupu",
+          "url": "https://open.spotify.com/artist/2BoWH2w47EUxEiOuvl4mxF"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 497773,
+      "name": "4 Impromptus, Op.90, D.899: No.4 in A Flat Major: Allegretto",
+      "url": "https://open.spotify.com/track/1M2RkUUJ9wXRsW3jN1MCHS"
+    },
+    {
+      "album": {
+        "name": "Schubert, F.: Overtures (Complete), Vol. 2",
+        "url": "https://open.spotify.com/album/3MZUCP7kntZNQSGCcGrklA"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 346733,
+      "name": "Alfonso und Estrella, D. 732: Overture, \"Rosamunde\"",
+      "url": "https://open.spotify.com/track/4bd0oEaxJni9XLXcobQB4Y"
+    },
+    {
+      "album": {
+        "name": "Schubert, F.: Overtures (Complete), Vol. 2",
+        "url": "https://open.spotify.com/album/1u70u5YAGuRpPaWxFhjO0w"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346733,
+      "name": "Alfonso und Estrella, D. 732: Overture, \"Rosamunde\"",
+      "url": "https://open.spotify.com/track/7vbBVZV3jjdqhUEcfPtpJK"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 20 - Poets of Sensibility, Vol. 3",
+        "url": "https://open.spotify.com/album/2B5tG2AtSvG5gXexVCQ2CJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Wolfgang Holzmair",
+          "url": "https://open.spotify.com/artist/16cu3GNnOfi6ltCamrr8Xa"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "An den Mond (Geuss, lieber Mond), D. 193",
+      "url": "https://open.spotify.com/track/2Ww6HxajSH22Av0oKkItqf"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 20 - Poets of Sensibility, Vol. 3",
+        "url": "https://open.spotify.com/album/5SUWoebmP1VXD799Sihs8S"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Wolfgang Holzmair",
+          "url": "https://open.spotify.com/artist/16cu3GNnOfi6ltCamrr8Xa"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183600,
+      "name": "An den Mond, Op. 57, No. 3, D. 193: An den Mond (Geuss, lieber Mond), D. 193",
+      "url": "https://open.spotify.com/track/5Qx7Zi6y8iMFz5vS7Lcb2a"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 9 - Friends, Vol. 1",
+        "url": "https://open.spotify.com/album/2E46N7Nq8126KLIn9Emaqn"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Markus Eiche",
+          "url": "https://open.spotify.com/artist/1eAyX1w6BrQLPLY9KddjUm"
+        },
+        {
+          "name": "Jens Fuhr",
+          "url": "https://open.spotify.com/artist/0J6a6gdmr3nIUDGpFrYAbA"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176840,
+      "name": "An die Musik, Op. 88 No. 4, D. 547: An die Musik, Op. 88, No. 4, D. 547",
+      "url": "https://open.spotify.com/track/4b04qufe27HOs0zGRGkNNC"
+    },
+    {
+      "album": {
+        "name": "Schubert For Meditation",
+        "url": "https://open.spotify.com/album/7m5PFSd6YJE5e0uwyOM1v2"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Markus Eiche",
+          "url": "https://open.spotify.com/artist/1eAyX1w6BrQLPLY9KddjUm"
+        },
+        {
+          "name": "Jens Fuhr",
+          "url": "https://open.spotify.com/artist/0J6a6gdmr3nIUDGpFrYAbA"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 176840,
+      "name": "An die Musik, Op. 88, No. 4, D. 547",
+      "url": "https://open.spotify.com/track/1RqFTa1p9JXXnFNtyJI6Jj"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 9 - Friends, Vol. 1",
+        "url": "https://open.spotify.com/album/2ZQk6bb1cbIusrPBV71Z4F"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Markus Eiche",
+          "url": "https://open.spotify.com/artist/1eAyX1w6BrQLPLY9KddjUm"
+        },
+        {
+          "name": "Jens Fuhr",
+          "url": "https://open.spotify.com/artist/0J6a6gdmr3nIUDGpFrYAbA"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "An die Musik, Op. 88, No. 4, D. 547",
+      "url": "https://open.spotify.com/track/2Lnf4o3du7xQGuJgp7lLQu"
+    },
+    {
+      "album": {
+        "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/0YtPAM2t711M4mzhNosoby"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Kristin Merscher",
+          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 796320,
+      "name": "Arpeggione Sonata in A Minor, D. 821, \"Arpeggione\": I. Allegro moderato",
+      "url": "https://open.spotify.com/track/3cZo0kMDKVpybhAkJVU57p"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 2 - Schwanengesang",
+        "url": "https://open.spotify.com/album/7ztKURcOMYoeDw8MP1atP8"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Michael Volle",
+          "url": "https://open.spotify.com/artist/62f20DdrwLIlieHwgNkcT2"
+        },
+        {
+          "name": "Sj\u00f6n Scott",
+          "url": "https://open.spotify.com/artist/6IbO0lx97ZYeZuAGgh3e6O"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538173,
+      "name": "Auf dem Strom, D. 943",
+      "url": "https://open.spotify.com/track/5pF0p5BXp98OCxpJSzLw5H"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 2 - Schwanengesang",
+        "url": "https://open.spotify.com/album/0Sgl2yfpkP5J09TrUxIuyH"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Michael Volle",
+          "url": "https://open.spotify.com/artist/62f20DdrwLIlieHwgNkcT2"
+        },
+        {
+          "name": "Sj\u00f6n Scott",
+          "url": "https://open.spotify.com/artist/6IbO0lx97ZYeZuAGgh3e6O"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 538173,
+      "name": "Auf dem Strom, D. 943",
+      "url": "https://open.spotify.com/track/6NrMwKsWu5pCtVHemweJer"
+    },
+    {
+      "album": {
+        "name": "Schubert - 50 of the Best",
+        "url": "https://open.spotify.com/album/53aAZLCscJymdlmfsP3sYW"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Michael Volle",
+          "url": "https://open.spotify.com/artist/62f20DdrwLIlieHwgNkcT2"
+        },
+        {
+          "name": "Sj\u00f6n Scott",
+          "url": "https://open.spotify.com/artist/6IbO0lx97ZYeZuAGgh3e6O"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 538173,
+      "name": "Auf dem Strom, Op. 119, D. 943",
+      "url": "https://open.spotify.com/track/3sx4lJjec3EqMQwCNz9SEw"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 11 - North German Poets",
+        "url": "https://open.spotify.com/album/7slR9xAYQ2ImH5qBhFTLOO"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Hanno M\u00fcller-Brachmann",
+          "url": "https://open.spotify.com/artist/3GZbx0qRSuyVjiOqU9TZQ1"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 211466,
+      "name": "Auf der Bruck, Op. 93, No. 2, D. 853a",
+      "url": "https://open.spotify.com/track/51Q5dPv2BdGrbmRyhvdfWP"
+    },
+    {
+      "album": {
+        "name": "Schubert: Male Choruses",
+        "url": "https://open.spotify.com/album/2tqfybM5HZoN03dtUdyy6m"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Orphei Dr\u00e4ngar",
+          "url": "https://open.spotify.com/artist/3Lc34BF8LDk8Ae0T81du3S"
+        },
+        {
+          "name": "Folke Alin",
+          "url": "https://open.spotify.com/artist/4drvzMD9ohixezozsfMH3g"
+        },
+        {
+          "name": "Robert Sund",
+          "url": "https://open.spotify.com/artist/1mk1T3aM1xxxPAPPyWxW9l"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Der Gondelfahrer, Op. 28, D.809",
+      "url": "https://open.spotify.com/track/7ulFzeemDntVFHFQyJIRFB"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 26 - Romantic Poets, Vol. 3",
+        "url": "https://open.spotify.com/album/1mqd0TKtP3F9CuDYyXV1bJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Sibylla Rubens",
+          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
+        },
+        {
+          "name": "Nikolaus Friedrich",
+          "url": "https://open.spotify.com/artist/522jcqDtMy8CFXZZvOJi3p"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 690306,
+      "name": "Der Hirt auf dem Felsen, Op. 129, D. 965",
+      "url": "https://open.spotify.com/track/0WuQ2Hqo9YcIxTy1asfNxL"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 26 - Romantic Poets, Vol. 3",
+        "url": "https://open.spotify.com/album/1yWi5YUE6j6m88lXnGLrOQ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Sibylla Rubens",
+          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
+        },
+        {
+          "name": "Nikolaus Friedrich",
+          "url": "https://open.spotify.com/artist/522jcqDtMy8CFXZZvOJi3p"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 690306,
+      "name": "Der Hirt auf dem Felsen, Op. 129, D. 965",
+      "url": "https://open.spotify.com/track/17GXyzGzRAi47XroCPda40"
+    },
+    {
+      "album": {
+        "name": "Franz Schubert: Study Classics",
+        "url": "https://open.spotify.com/album/5eJWb7LNnnNscqdUsMbtjB"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 131186,
+      "name": "Der J\u00fcngling an der Quelle, D.300",
+      "url": "https://open.spotify.com/track/3jc7PytOAzH3UQHixAQgGT"
+    },
+    {
+      "album": {
+        "name": "The World of Jonas Kaufmann",
+        "url": "https://open.spotify.com/album/6PnGIe0VMBip8B3k4MgGoR"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131186,
+      "name": "Der J\u00fcngling an der Quelle, D.300",
+      "url": "https://open.spotify.com/track/5yfYYE42D2pvhKlMWngMO1"
+    },
+    {
+      "album": {
+        "name": "Schubert: Die sch\u00f6ne M\u00fcllerin",
+        "url": "https://open.spotify.com/album/4ap09HPJx7vsSL0IOAKyo9"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 131186,
+      "name": "Der J\u00fcngling an der Quelle, D.300",
+      "url": "https://open.spotify.com/track/7sbQJf4TMKDO5UpkwKKCxC"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lieder",
+        "url": "https://open.spotify.com/album/4IFBg9LWw9DBbh454KZl7X"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Dietrich Fischer-Dieskau",
+          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
+        },
+        {
+          "name": "Gerald Moore",
+          "url": "https://open.spotify.com/artist/0QjqcG7aDPrqJrEogqZu3w"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119200,
+      "name": "Die Forelle, Op. 32, D. 550",
+      "url": "https://open.spotify.com/track/7lCqzDWT6GPECGp0TzMnR7"
+    },
+    {
+      "album": {
+        "name": "Schubert: Die sch\u00f6ne M\u00fcllerin",
+        "url": "https://open.spotify.com/album/4ap09HPJx7vsSL0IOAKyo9"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163240,
+      "name": "Die sch\u00f6ne M\u00fcllerin, D.795: 1. Das Wandern",
+      "url": "https://open.spotify.com/track/5Av7oLA9nU8LfbHKVUzNsA"
+    },
+    {
+      "album": {
+        "name": "Schubert: Die sch\u00f6ne M\u00fcllerin",
+        "url": "https://open.spotify.com/album/2ihgnX4S4Q15l0i5SE1qaE"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163240,
+      "name": "Die sch\u00f6ne M\u00fcllerin, D.795: 1. Das Wandern",
+      "url": "https://open.spotify.com/track/71zYovKYHh6IfinHZwlYJY"
+    },
+    {
+      "album": {
+        "name": "Schubert: Songs without Words",
+        "url": "https://open.spotify.com/album/0z8Lnbz84Irq0iBQcTS4es"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Daria Hovora",
+          "url": "https://open.spotify.com/artist/6ulWeJt8KSzeGBlrzEDELv"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Die sch\u00f6ne M\u00fcllerin, Op. 25, D. 795: No. 19 Der M\u00fcller und der Bach",
+      "url": "https://open.spotify.com/track/1BIErb2Vkyllmjjrz651oC"
+    },
+    {
+      "album": {
+        "name": "Schubert, F.: Overtures (Complete), Vol. 2",
+        "url": "https://open.spotify.com/album/1u70u5YAGuRpPaWxFhjO0w"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 620813,
+      "name": "Die Zauberharfe, D. 644: Overture, \"Rosamunde\"",
+      "url": "https://open.spotify.com/track/6RTOBuWTqG7rc60K6xa9fP"
+    },
+    {
+      "album": {
+        "name": "Schubert, F.: Overtures (Complete), Vol. 2",
+        "url": "https://open.spotify.com/album/3MZUCP7kntZNQSGCcGrklA"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 620813,
+      "name": "Die Zauberharfe, D. 644: Overture, \"Rosamunde\"",
+      "url": "https://open.spotify.com/track/7JNYmwkVIElPvOd8KDz5GC"
+    },
+    {
+      "album": {
+        "name": "Schubert: Drei Klavierst\u00fccke, D946",
+        "url": "https://open.spotify.com/album/7L2uWDSXy97Ckn1NPR6qZZ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Fabian M\u00fcller",
+          "url": "https://open.spotify.com/artist/3nWFtj95VONeWmWVpoCXcb"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 303117,
+      "name": "Drei Klavierst\u00fccke, D946: III. Allegro",
+      "url": "https://open.spotify.com/track/5EBRZlfkfYU0GYWCiHJqsV"
+    },
+    {
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/7i2wov849VOHZZC8XL4U0K"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Fabian M\u00fcller",
+          "url": "https://open.spotify.com/artist/3nWFtj95VONeWmWVpoCXcb"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303117,
+      "name": "Drei Klavierst\u00fccke, D946: III. Allegro",
+      "url": "https://open.spotify.com/track/6i137tDx0uQ9mmXmnOwoSY"
+    },
+    {
+      "album": {
+        "name": "Franz Schubert: Study Classics",
+        "url": "https://open.spotify.com/album/5eJWb7LNnnNscqdUsMbtjB"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264533,
+      "name": "Erlk\u00f6nig, D. 328 (Op. 1)",
+      "url": "https://open.spotify.com/track/07gAvKo4oHLUTOddq1CXCo"
+    },
+    {
+      "album": {
+        "name": "Schubert: An die Musik",
+        "url": "https://open.spotify.com/album/6K7RrW6kZRi2rPENw76pDG"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Erlk\u00f6nig, D. 328 (Op. 1)",
+      "url": "https://open.spotify.com/track/1GVhRtMmS41aYQL45lhmeC"
+    },
+    {
+      "album": {
+        "name": "The Art of Bryn Terfel",
+        "url": "https://open.spotify.com/album/6yRuumFzQ643PKEJQjqR3E"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263000,
+      "name": "Erlk\u00f6nig, D. 328 (Op.1)",
+      "url": "https://open.spotify.com/track/4oomOHx8NgPq2flBcGxtxD"
+    },
+    {
+      "album": {
+        "name": "Schubert: Violin Sonatas & Fantasy in C Major",
+        "url": "https://open.spotify.com/album/5Z2CpuByZcwZ4M5BfJQsHh"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Dong-Suk Kang",
+          "url": "https://open.spotify.com/artist/0WCoABe0nCuX2ffSdYkU6c"
+        },
+        {
+          "name": "Pascal Devoyon",
+          "url": "https://open.spotify.com/artist/62LQUUl6THxN3wFMqmSx08"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1440906,
+      "name": "Fantasy in C Major, D. 934",
+      "url": "https://open.spotify.com/track/3EqGhxpO0ILnUbyAwjY2Dz"
+    },
+    {
+      "album": {
+        "name": "Schubert: Violin Sonatas (Sonatinas)",
+        "url": "https://open.spotify.com/album/2lJM0m7KcQVreNEgJIT6zd"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Pascal Devoyon",
+          "url": "https://open.spotify.com/artist/62LQUUl6THxN3wFMqmSx08"
+        },
+        {
+          "name": "Dong-Suk Kang",
+          "url": "https://open.spotify.com/artist/0WCoABe0nCuX2ffSdYkU6c"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1440906,
+      "name": "Fantasy in C Major, D. 934",
+      "url": "https://open.spotify.com/track/4iKqomlaLXfYVtUWdvUeGH"
+    },
+    {
+      "album": {
+        "name": "Schubert: Gott ist mein Hirt, D. 706",
+        "url": "https://open.spotify.com/album/11KX6U2MRKJesln47RX4k2"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Ensemble Pygmalion",
+          "url": "https://open.spotify.com/artist/3iwUaQrP1mJFvC9waHuV4S"
+        },
+        {
+          "name": "Raphael Pichon",
+          "url": "https://open.spotify.com/artist/7ANQphrf7E3r6dwst8oMbr"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284920,
+      "name": "Gott ist mein Hirt, D. 706",
+      "url": "https://open.spotify.com/track/2gmuvqhU3bnoTnkaTq0eqY"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 3 - Goethe, Vol. 1",
+        "url": "https://open.spotify.com/album/5FvFHVkAhmQbmC5CL15Lq0"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Ulf B\u00e4stlein",
+          "url": "https://open.spotify.com/artist/4KPBxn35IYNTJqk0AeIbHk"
+        },
+        {
+          "name": "Stefan Laux",
+          "url": "https://open.spotify.com/artist/3xCHGg5NatEQPuUEwWTV61"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117706,
+      "name": "Heidenroslein, Op. 3, No. 3, D. 257",
+      "url": "https://open.spotify.com/track/5uWgXi5lOAnD8kfy93HD03"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 3 - Goethe, Vol. 1",
+        "url": "https://open.spotify.com/album/0Sm6z2EL9UHB1H5PPxeG0S"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Ulf B\u00e4stlein",
+          "url": "https://open.spotify.com/artist/4KPBxn35IYNTJqk0AeIbHk"
+        },
+        {
+          "name": "Stefan Laux",
+          "url": "https://open.spotify.com/artist/3xCHGg5NatEQPuUEwWTV61"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 117706,
+      "name": "Heidenr\u00f6slein, Op. 3, No. 3, D. 257: Heidenroslein, Op. 3, No. 3, D. 257",
+      "url": "https://open.spotify.com/track/5aCaux5Hnnd45pnnjHC4by"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 11 - North German Poets",
+        "url": "https://open.spotify.com/album/3B8Lc8Mif9Ytyo8CzWA9rk"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Hanno M\u00fcller-Brachmann",
+          "url": "https://open.spotify.com/artist/3GZbx0qRSuyVjiOqU9TZQ1"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277106,
+      "name": "Im Fruhling, D. 882",
+      "url": "https://open.spotify.com/track/2aJNtiJ9Xki6hEEsoQYJtX"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 11 - North German Poets",
+        "url": "https://open.spotify.com/album/7slR9xAYQ2ImH5qBhFTLOO"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Hanno M\u00fcller-Brachmann",
+          "url": "https://open.spotify.com/artist/3GZbx0qRSuyVjiOqU9TZQ1"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 277106,
+      "name": "Im Fr\u00fchling, Op. 101, No. 1, D. 882: Im Fruhling, D. 882",
+      "url": "https://open.spotify.com/track/0LC1ap49AqHamIXUY8ytCN"
+    },
+    {
+      "album": {
+        "name": "Beethoven, Schubert, Weber: Works for Flute and Piano",
+        "url": "https://open.spotify.com/album/45cpxhfbs6TEw30GCSJB7i"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+        },
+        {
+          "name": "Eric Le Sage",
+          "url": "https://open.spotify.com/artist/6JSdWtNdhfjutA5r16UOpx"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97560,
+      "name": "Introduction and Variations for Flute and Piano in E Minor, D. 802 Op. posth. 160: No. 3, Variation I",
+      "url": "https://open.spotify.com/track/6kjMfRBEqmySWZiqndkzhC"
+    },
+    {
+      "album": {
+        "name": "Life and Works: Schubert (Siepmann)",
+        "url": "https://open.spotify.com/album/1NbKCBLsHWHPa7MHLgXe7m"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 371706,
+      "name": "Life and Works: Music: Octet in F, D. 803 (mvt 3: Scherzo: Allegro vivace- Trio)",
+      "url": "https://open.spotify.com/track/2LHdC3wqbxfmXfjE8aD8MB"
+    },
+    {
+      "album": {
+        "name": "Schubert: Masses Nos. 1 & 3",
+        "url": "https://open.spotify.com/album/2EOBzUXIGMD6aR9UVDNGPZ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Trine Wilsberg Lund",
+          "url": "https://open.spotify.com/artist/2GOpaRcPWfVbHK8y0T8PVF"
+        },
+        {
+          "name": "Dorothea Craxton",
+          "url": "https://open.spotify.com/artist/0BBLshFE1m0axnWqCc06VI"
+        },
+        {
+          "name": "Bettina Ranch",
+          "url": "https://open.spotify.com/artist/136pg2jYWgvx1IrLHeMZdj"
+        },
+        {
+          "name": "Min Woo Lim",
+          "url": "https://open.spotify.com/artist/4OOD4yov61CHUgwEdYNGwy"
+        },
+        {
+          "name": "Andreas Karasiak",
+          "url": "https://open.spotify.com/artist/5HOxWaSdVGRgpRaLWivSDq"
+        },
+        {
+          "name": "Assaf Levitin",
+          "url": "https://open.spotify.com/artist/3wGBXj5RoeztwSiHpjsqqO"
+        },
+        {
+          "name": "Immortal Bach Ensemble",
+          "url": "https://open.spotify.com/artist/3jMlJuLcTBClaOl12IuwOc"
+        },
+        {
+          "name": "Leipzig Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7Fwfkzj9hCrwy7KJPFhIwu"
+        },
+        {
+          "name": "Morten Schuldt-Jensen",
+          "url": "https://open.spotify.com/artist/10ZoutqXuCmFqOKwZdZs99"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128173,
+      "name": "Mass No. 1 in F Major, D. 105: Agnus Dei: Agnus Dei, qui tollis peccata mundi",
+      "url": "https://open.spotify.com/track/5csxHj607RulgGWUAtUjxy"
+    },
+    {
+      "album": {
+        "name": "Schubert: Masses Nos. 1 & 3",
+        "url": "https://open.spotify.com/album/3BkCRXGWz31zcB7eanEH8Q"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Trine Wilsberg Lund",
+          "url": "https://open.spotify.com/artist/2GOpaRcPWfVbHK8y0T8PVF"
+        },
+        {
+          "name": "Dorothea Craxton",
+          "url": "https://open.spotify.com/artist/0BBLshFE1m0axnWqCc06VI"
+        },
+        {
+          "name": "Bettina Ranch",
+          "url": "https://open.spotify.com/artist/136pg2jYWgvx1IrLHeMZdj"
+        },
+        {
+          "name": "Min Woo Lim",
+          "url": "https://open.spotify.com/artist/4OOD4yov61CHUgwEdYNGwy"
+        },
+        {
+          "name": "Andreas Karasiak",
+          "url": "https://open.spotify.com/artist/5HOxWaSdVGRgpRaLWivSDq"
+        },
+        {
+          "name": "Assaf Levitin",
+          "url": "https://open.spotify.com/artist/3wGBXj5RoeztwSiHpjsqqO"
+        },
+        {
+          "name": "Immortal Bach Ensemble",
+          "url": "https://open.spotify.com/artist/3jMlJuLcTBClaOl12IuwOc"
+        },
+        {
+          "name": "Leipziger Kammerorchester",
+          "url": "https://open.spotify.com/artist/7q4vfFKUdxgT1vR6TqPKFz"
+        },
+        {
+          "name": "Morten Schuldt-Jensen",
+          "url": "https://open.spotify.com/artist/10ZoutqXuCmFqOKwZdZs99"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 128173,
+      "name": "Mass No. 1 in F Major, D. 105: Agnus Dei: Agnus Dei, qui tollis peccata mundi",
+      "url": "https://open.spotify.com/track/4wgFUw9OwJeGRFvIRrqKVX"
+    },
+    {
+      "album": {
+        "name": "Schubert, F.: Masses Nos. 2 and 4 / Deutsche Messe",
+        "url": "https://open.spotify.com/album/3SiP5EwjH6H1OSWgaTxsSc"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Claudia Reinhard",
+          "url": "https://open.spotify.com/artist/5vFau4H1bhamKm87O2rQeh"
+        },
+        {
+          "name": "R\u00fcdiger Ballhorn",
+          "url": "https://open.spotify.com/artist/3IGC8bpO3xoAOX8yGqKjyl"
+        },
+        {
+          "name": "Markus Flaig",
+          "url": "https://open.spotify.com/artist/7lcStUPsxDzD6wU5Hy0Iry"
+        },
+        {
+          "name": "Immortal Bach Ensemble",
+          "url": "https://open.spotify.com/artist/3jMlJuLcTBClaOl12IuwOc"
+        },
+        {
+          "name": "Leipzig Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7Fwfkzj9hCrwy7KJPFhIwu"
+        },
+        {
+          "name": "Morten Schuldt-Jensen",
+          "url": "https://open.spotify.com/artist/10ZoutqXuCmFqOKwZdZs99"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Mass No. 2 in G Major, D. 167: Agnus Dei",
+      "url": "https://open.spotify.com/track/1toCPmpNUnBXbgUEg7BTEk"
+    },
+    {
+      "album": {
+        "name": "Schubert, F.: Masses Nos. 2 and 4 / Deutsche Messe",
+        "url": "https://open.spotify.com/album/1pj4NdXlJooXRxvEZj75Ag"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Claudia Reinhard",
+          "url": "https://open.spotify.com/artist/5vFau4H1bhamKm87O2rQeh"
+        },
+        {
+          "name": "R\u00fcdiger Ballhorn",
+          "url": "https://open.spotify.com/artist/3IGC8bpO3xoAOX8yGqKjyl"
+        },
+        {
+          "name": "Markus Flaig",
+          "url": "https://open.spotify.com/artist/7lcStUPsxDzD6wU5Hy0Iry"
+        },
+        {
+          "name": "Immortal Bach Ensemble",
+          "url": "https://open.spotify.com/artist/3jMlJuLcTBClaOl12IuwOc"
+        },
+        {
+          "name": "Leipziger Kammerorchester",
+          "url": "https://open.spotify.com/artist/7q4vfFKUdxgT1vR6TqPKFz"
+        },
+        {
+          "name": "Morten Schuldt-Jensen",
+          "url": "https://open.spotify.com/artist/10ZoutqXuCmFqOKwZdZs99"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253200,
+      "name": "Mass No. 2 in G Major, D. 167: Agnus Dei",
+      "url": "https://open.spotify.com/track/1K8POPzubVVaiJ6qoo4wbT"
+    },
+    {
+      "album": {
+        "name": "Schubert: Mass No. 6 in E-Flat Major / Stabat Mater",
+        "url": "https://open.spotify.com/album/11SWtic5F0lWzlImOGsMSv"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Birte Kulawik",
+          "url": "https://open.spotify.com/artist/2j511XwHFxEDOS8R9Eocak"
+        },
+        {
+          "name": "Dorothea Craxton",
+          "url": "https://open.spotify.com/artist/0BBLshFE1m0axnWqCc06VI"
+        },
+        {
+          "name": "Cornelia Rosenthal",
+          "url": "https://open.spotify.com/artist/0Pjij4mtmkzLbRVZpL8pUQ"
+        },
+        {
+          "name": "Raimund Minarschik",
+          "url": "https://open.spotify.com/artist/7vCl8QgfDQKT7avf09uTNn"
+        },
+        {
+          "name": "Rolf Ehlers",
+          "url": "https://open.spotify.com/artist/3NO1jPVAdTjO1jyJuXTmea"
+        },
+        {
+          "name": "Klaus Schredl",
+          "url": "https://open.spotify.com/artist/6maEHdWhFzgSI98zmjBLRN"
+        },
+        {
+          "name": "Immortal Bach Ensemble",
+          "url": "https://open.spotify.com/artist/3jMlJuLcTBClaOl12IuwOc"
+        },
+        {
+          "name": "Leipzig Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7Fwfkzj9hCrwy7KJPFhIwu"
+        },
+        {
+          "name": "Morten Schuldt-Jensen",
+          "url": "https://open.spotify.com/artist/10ZoutqXuCmFqOKwZdZs99"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119666,
+      "name": "Mass No. 6 in E-Flat Major, D. 950: Sanctus: Sanctus Dominus",
+      "url": "https://open.spotify.com/track/6n3PLpXdED9gmQiqqQmbcn"
+    },
+    {
+      "album": {
+        "name": "Schubert: Mass No. 6 in E-Flat Major / Stabat Mater",
+        "url": "https://open.spotify.com/album/4VSwA6KvRU7UgkPdfUibm9"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Birte Kulawik",
+          "url": "https://open.spotify.com/artist/2j511XwHFxEDOS8R9Eocak"
+        },
+        {
+          "name": "Dorothea Craxton",
+          "url": "https://open.spotify.com/artist/0BBLshFE1m0axnWqCc06VI"
+        },
+        {
+          "name": "Cornelia Rosenthal",
+          "url": "https://open.spotify.com/artist/0Pjij4mtmkzLbRVZpL8pUQ"
+        },
+        {
+          "name": "Raimund Minarschik",
+          "url": "https://open.spotify.com/artist/7vCl8QgfDQKT7avf09uTNn"
+        },
+        {
+          "name": "Rolf Ehlers",
+          "url": "https://open.spotify.com/artist/3NO1jPVAdTjO1jyJuXTmea"
+        },
+        {
+          "name": "Klaus Schredl",
+          "url": "https://open.spotify.com/artist/6maEHdWhFzgSI98zmjBLRN"
+        },
+        {
+          "name": "Immortal Bach Ensemble",
+          "url": "https://open.spotify.com/artist/3jMlJuLcTBClaOl12IuwOc"
+        },
+        {
+          "name": "Leipziger Kammerorchester",
+          "url": "https://open.spotify.com/artist/7q4vfFKUdxgT1vR6TqPKFz"
+        },
+        {
+          "name": "Morten Schuldt-Jensen",
+          "url": "https://open.spotify.com/artist/10ZoutqXuCmFqOKwZdZs99"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 119666,
+      "name": "Mass No. 6 in E-Flat Major, D. 950: Sanctus: Sanctus Dominus",
+      "url": "https://open.spotify.com/track/3CVT9jxiplhvw9ynS5CDH6"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 15 - Friends, Vol. 2",
+        "url": "https://open.spotify.com/album/4L4ELWeSu5vPOxnuihZfpK"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Brigitte Geller",
+          "url": "https://open.spotify.com/artist/5lLBStQsJjUTQqjI6lwJew"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Nacht und Traume, D. 827",
+      "url": "https://open.spotify.com/track/7nzAkHqcZ7DHo1b2FTiiCb"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lied Edition 15 - Friends, Vol. 2",
+        "url": "https://open.spotify.com/album/0qUIhvSFv51ZlPvSBu6SKZ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Brigitte Geller",
+          "url": "https://open.spotify.com/artist/5lLBStQsJjUTQqjI6lwJew"
+        },
+        {
+          "name": "Ulrich Eisenlohr",
+          "url": "https://open.spotify.com/artist/12y7xuLQncD5W92j99pqB4"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222386,
+      "name": "Nacht und Traume, D. 827",
+      "url": "https://open.spotify.com/track/5VpO9oiRQpHuoUaO4G8AVb"
+    },
+    {
+      "album": {
+        "name": "Schubert: Octets, D. 803 and D. 72",
+        "url": "https://open.spotify.com/album/5Ye65cIA6JiMumNbX3TLZw"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Budapest Schubert Ensemble",
+          "url": "https://open.spotify.com/artist/4Cb7qgMpJk0zG7onRBPG23"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 369120,
+      "name": "Octet in F Major, D. 803: III. Allegro vivace - Trio",
+      "url": "https://open.spotify.com/track/4S9EGbpepcCMsNux1W314Z"
+    },
+    {
+      "album": {
+        "name": "Schubert: Octets, D. 803 and D. 72",
+        "url": "https://open.spotify.com/album/4tSNjNYqahL7jOE19dsVd5"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Budapest Schubert Ensemble",
+          "url": "https://open.spotify.com/artist/4Cb7qgMpJk0zG7onRBPG23"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369120,
+      "name": "Octet in F Major, D. 803: III. Allegro vivace - Trio",
+      "url": "https://open.spotify.com/track/4xQqr3WMMrQ4aY94iKDS4L"
+    },
+    {
+      "album": {
+        "name": "Schubert: Octets, D. 803 and D. 72",
+        "url": "https://open.spotify.com/album/5Ye65cIA6JiMumNbX3TLZw"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Budapest Schubert Ensemble",
+          "url": "https://open.spotify.com/artist/4Cb7qgMpJk0zG7onRBPG23"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 706280,
+      "name": "Octet in F Major, D. 803: IV. Andante with variations",
+      "url": "https://open.spotify.com/track/3qr6Q9ud3XL43pFruOihRg"
+    },
+    {
+      "album": {
+        "name": "Schubert: Octets, D. 803 and D. 72",
+        "url": "https://open.spotify.com/album/4tSNjNYqahL7jOE19dsVd5"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Budapest Schubert Ensemble",
+          "url": "https://open.spotify.com/artist/4Cb7qgMpJk0zG7onRBPG23"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706280,
+      "name": "Octet in F Major, D. 803: IV. Andante with variations",
+      "url": "https://open.spotify.com/track/6cVnUkusBg1PgHibvYAqC2"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphony No. 5 / Symphony No. 6 / Overture in C Major",
+        "url": "https://open.spotify.com/album/7xT3EHK7OjSYZ6DwPB66i7"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Stockholm Sinfonietta",
+          "url": "https://open.spotify.com/artist/6HnuLWTAgWKIpVHbwLJO1U"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466200,
+      "name": "Overture in C Major in Italian Style, Op. 170, D. 591",
+      "url": "https://open.spotify.com/track/7gL4uJ2bTX0TL5GjBmbvBS"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Music for Four Hands",
+        "url": "https://open.spotify.com/album/7Mve8W4TKjG1Bs0TrkWpfL"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 916560,
+      "name": "Piano for Four Hands, D. 947, \"Lebensst\u00fcrme\": Allegro in A Minor",
+      "url": "https://open.spotify.com/track/1KVaMoHoYd4BGv6KQKuy5t"
+    },
+    {
+      "album": {
+        "name": "Schubert: Trout Quintet / Wolf: Italian Serenade / Mozart: Eine kleine Nachtmusik",
+        "url": "https://open.spotify.com/album/28t11aspnxAn1h2iVZc6tf"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Tak\u00e1cs Quartet",
+          "url": "https://open.spotify.com/artist/5DwQvVHPVspRvStEAN722N"
+        },
+        {
+          "name": "Joseph Carver",
+          "url": "https://open.spotify.com/artist/7FPesooCW1fNqCciLsPFHB"
+        },
+        {
+          "name": "Andreas Haefliger",
+          "url": "https://open.spotify.com/artist/1LuRCnmVYvICtWy3lDkiVB"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236586,
+      "name": "Piano Quintet in A major, D. 667 \"The Trout\": 3. Scherzo (Presto)",
+      "url": "https://open.spotify.com/track/3O4Rl1D1MiLliQml4atM5D"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Quintet in A Major, D. 667 \"Trout\" - Mozart: Clarinet Quintet in A Major, K. 581",
+        "url": "https://open.spotify.com/album/1pYzsFVhLfONuWjvyEuxXb"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Rudolf Serkin",
+          "url": "https://open.spotify.com/artist/0rmB1nZVDjwoCN3kQVS7UZ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498000,
+      "name": "Piano Quintet in A Major, D. 667, Op. 114 \"Trout\": IV. Tema con variazioni. Andantino",
+      "url": "https://open.spotify.com/track/27zDvwytPIiMdGpqFOkQTJ"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Quintet in A Major \"Trout\", Arpeggione Sonata in A Minor & Piano Trio in E-Flat Major \"Notturno\"",
+        "url": "https://open.spotify.com/album/14rzCCkH2trJb076L3d8ME"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "L'Archibudelli",
+          "url": "https://open.spotify.com/artist/63ayTRiha7s3G62qMJjOSi"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378266,
+      "name": "Piano Quintet in A Major, D. 667, Op. 114 \"Trout\": V. Allegro giusto",
+      "url": "https://open.spotify.com/track/7CJPkeKl25RXxuMYeaCByE"
+    },
+    {
+      "album": {
+        "name": "Schubert: Forellenquintett - Trout Quintet",
+        "url": "https://open.spotify.com/album/1HOWw15ONN6laUWgeM6JJL"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        },
+        {
+          "name": "Hwayoon Lee",
+          "url": "https://open.spotify.com/artist/1e7fCS6uv1JQ7KfXFpBWlK"
+        },
+        {
+          "name": "Maximilian Hornung",
+          "url": "https://open.spotify.com/artist/1ezGJEOqpr1Fw2ZfKYt0yC"
+        },
+        {
+          "name": "Roman Patkol\u00f3",
+          "url": "https://open.spotify.com/artist/4UWblI5ajbkivOB4qkRivU"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 705333,
+      "name": "Piano Quintet in A Major, Op. 114, D 667 - \"The Trout\": I. Allegro vivace",
+      "url": "https://open.spotify.com/track/58qUgGCJHP0WLvsCeXhGia"
+    },
+    {
+      "album": {
+        "name": "Wilhelm Kempff, Piano (Vol.2)",
+        "url": "https://open.spotify.com/album/1nQKoEbq1e1Ta7tbtbEXms"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Wilhelm Kempff",
+          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 638560,
+      "name": "Piano Sonata No. 13 in A Major, D. 664: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/0aVFVffGcvdUIhvrLpxvdI"
+    },
+    {
+      "album": {
+        "name": "Schubert: Sonata D784; 6 Moments Musicaux D780; 2 Scherzi D593",
+        "url": "https://open.spotify.com/album/6TSDbWdxvLDiU7yCkVdAsg"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283760,
+      "name": "Piano Sonata No. 14 in A Minor, D. 784: III. Allegro vivace",
+      "url": "https://open.spotify.com/track/3yCSwzrwQRKGst1WYW6bzQ"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Works 1822-1828",
+        "url": "https://open.spotify.com/album/1qlPRsqagSKldwFI9xZmAP"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536013,
+      "name": "Piano Sonata No. 18 in G, D.894: 4. Allegretto",
+      "url": "https://open.spotify.com/track/1kbkxiArBp3r8HRs1QEWZg"
+    },
+    {
+      "album": {
+        "name": "All Day Classics: Schubert",
+        "url": "https://open.spotify.com/album/3Xs2qn71RsGOTayamG5rX4"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 536013,
+      "name": "Piano Sonata No. 18 in G, D.894: 4. Allegretto",
+      "url": "https://open.spotify.com/track/6HGsj12g6Qj9a1kLbIa0Qx"
+    },
+    {
+      "album": {
+        "name": "Schubert: Sonata D784; 6 Moments Musicaux D780; 2 Scherzi D593",
+        "url": "https://open.spotify.com/album/0jaWuqI4zJXc5k7noPYcBi"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282500,
+      "name": "Piano Sonata No.14 In A Minor, D.784: 3. Allegro vivace",
+      "url": "https://open.spotify.com/track/5te3WFQvP4CXToWGRfb3li"
+    },
+    {
+      "album": {
+        "name": "Mitsuko Uchida plays Schubert",
+        "url": "https://open.spotify.com/album/6NxF85hZPy49EfA6g4gooc"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 662000,
+      "name": "Piano Sonata No.15 in C, D.840: 2. Andante",
+      "url": "https://open.spotify.com/track/11XWVs8pMcb4B4yVd8nwFp"
+    },
+    {
+      "album": {
+        "name": "Mitsuko Uchida plays Schubert",
+        "url": "https://open.spotify.com/album/6WyrofdS0VcQwalzvy9VIA"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 670000,
+      "name": "Piano Sonata No.15 in C, D.840: 2. Andante",
+      "url": "https://open.spotify.com/track/1xyzAojMtckvf6SJ7NumeT"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonatas Nos.15 & 18",
+        "url": "https://open.spotify.com/album/1FZnsbVvNSkuKFOSTh8SFo"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 673000,
+      "name": "Piano Sonata No.15 in C, D.840: 2. Andante",
+      "url": "https://open.spotify.com/track/6WE2vVhrk7MmWSEF28QgwR"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Works 1822-1828",
+        "url": "https://open.spotify.com/album/7jbFzJCvGcbjGuAxJ28LMi"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 536013,
+      "name": "Piano Sonata No.18 in G, D.894: 4. Allegretto",
+      "url": "https://open.spotify.com/track/3HMTEUnziGvEeN1IZlJ5KX"
+    },
+    {
+      "album": {
+        "name": "Schubert: Rosamunde, Op. 26, D. 797: No. 6, Entr'acte No. 3",
+        "url": "https://open.spotify.com/album/1f8Zlkx2DpAqWdPAYjNSIo"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358573,
+      "name": "Schubert / Transcr. Tharaud: Rosamunde, Op. 26, D. 797: No. 6, Entr'acte No. 3",
+      "url": "https://open.spotify.com/track/59JyhffzxORbdTQMJSYdlz"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonatas D. 784 & 959",
+        "url": "https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Eric Lu",
+          "url": "https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376453,
+      "name": "Schubert: Allegretto in C Minor, D. 915",
+      "url": "https://open.spotify.com/track/1RExWN6ZhUKNEp86lIF6r4"
+    },
+    {
+      "album": {
+        "name": "Schubert: Ave Maria, Die Forelle, Heidenr\u00f6slein & Other Lieder",
+        "url": "https://open.spotify.com/album/7xCjhI1Pjslxmec4FiZwhC"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Barbara Bonney",
+          "url": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "name": "Geoffrey Parsons",
+          "url": "https://open.spotify.com/artist/3x9SScXuqC40Sq6j4hpXCC"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379053,
+      "name": "Schubert: Ave Maria, Op. 52 No. 6, D. 839",
+      "url": "https://open.spotify.com/track/3eLlW0GegkXy3o92t51xaJ"
+    },
+    {
+      "album": {
+        "name": "Schubert: 4 Impromptus, D. 899 & 6 Moments musicaux",
+        "url": "https://open.spotify.com/album/3z8nvPaAh2debv4tOLzFT4"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112493,
+      "name": "Schubert: Moments musicaux, Op. 94, D. 780: No. 3 in F Minor",
+      "url": "https://open.spotify.com/track/6jAQdK7lbclgMKQ97GmR6i"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonata No. 20 in A Major, D. 959: II. Andantino",
+        "url": "https://open.spotify.com/album/6HjMISZfnBgoU6U9vwMa0A"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Eric Lu",
+          "url": "https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 569466,
+      "name": "Schubert: Piano Sonata No. 20 in A Major, D. 959: II. Andantino",
+      "url": "https://open.spotify.com/track/0WuNhZkCPvfq1J9xtL4Yrz"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonatas D. 784 & 959",
+        "url": "https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Eric Lu",
+          "url": "https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569466,
+      "name": "Schubert: Piano Sonata No. 20 in A Major, D. 959: II. Andantino",
+      "url": "https://open.spotify.com/track/26oID5JTkv963fmMQcsBef"
+    },
+    {
+      "album": {
+        "name": "Harnoncourt conducts Schubert",
+        "url": "https://open.spotify.com/album/2dDJ8EIcG1OipC23sVV7Jd"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Nikolaus Harnoncourt",
+          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
+        },
+        {
+          "name": "Wiener Symphoniker",
+          "url": "https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459799,
+      "name": "Schubert: Rosamunde, Op. 26, D. 797: Ballet Music II",
+      "url": "https://open.spotify.com/track/6BSuH9ukp7K73CVLyvB4Ks"
+    },
+    {
+      "album": {
+        "name": "Schubert: String Quintet, Op. 163 & Lieder",
+        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 913335,
+      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
+      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphonies Nos. 1 & 8 \"Unfinished\"",
+        "url": "https://open.spotify.com/album/6073bpODk3TNk3gk4vTdJ1"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436493,
+      "name": "Schubert: Symphony No. 1 in D Major, D. 82: II. Andante",
+      "url": "https://open.spotify.com/track/66FSkKmgnMet1SQWsd3T6h"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphonies Nos. 1 & 8 \"Unfinished\"",
+        "url": "https://open.spotify.com/album/6073bpODk3TNk3gk4vTdJ1"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Schubert: Symphony No. 1 in D Major, D. 82: III. Menuetto. Allegro",
+      "url": "https://open.spotify.com/track/5EpjTIuqFdXQM2HATcow9v"
+    },
+    {
+      "album": {
+        "name": "Romantic Piano Masters",
+        "url": "https://open.spotify.com/album/7z7YKuLmvD4kAa4Sgy58vb"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112493,
+      "name": "Schubert: Waltz in G-Flat Major, D. Anh. I/14 \"Kupelwieser Walzer\"",
+      "url": "https://open.spotify.com/track/3wI7S8vadJMsbQCCBUEYhx"
+    },
+    {
+      "album": {
+        "name": "Schubert: Waltz in G-Flat Major, D. Anh. I/14, 'Kupelwieser Walzer'",
+        "url": "https://open.spotify.com/album/2YO6S0ZS95UpPqZcTqn0yi"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-10",
+      "duration_ms": 112493,
+      "name": "Schubert: Waltz in G-Flat Major, D. Anh. I/14, \"Kupelwieser Walzer\"",
+      "url": "https://open.spotify.com/track/2XVPMHh86z4M8ghTw5xvxn"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lieder",
+        "url": "https://open.spotify.com/album/4NM5hsDkH3KqdpzMG90hwE"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Janet Baker",
+          "url": "https://open.spotify.com/artist/4ThA3BeHNucwqI7wKyKS8h"
+        },
+        {
+          "name": "Gerald Moore",
+          "url": "https://open.spotify.com/artist/0QjqcG7aDPrqJrEogqZu3w"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179880,
+      "name": "Schubert: Wiegenlied, Op. 98 No. 2, D. 498",
+      "url": "https://open.spotify.com/track/4J4TWCAQOp4eFBitzkkpvR"
+    },
+    {
+      "album": {
+        "name": "Schubert: Schwanengesang",
+        "url": "https://open.spotify.com/album/5G3SWnJRKlgJWVgMIHAwWX"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Mark Padmore",
+          "url": "https://open.spotify.com/artist/68mTMM7rhA3YDSZX1VwuLy"
+        },
+        {
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254560,
+      "name": "Schwanengesang, D. 957: IV. St\u00e4ndchen",
+      "url": "https://open.spotify.com/track/2egYFLjRGuzt8lYM1Yznz2"
+    },
+    {
+      "album": {
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/6RrUd0w7ocinVqBtrflUBO"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Doris Orsan",
+          "url": "https://open.spotify.com/artist/3l0rekohxHXIySzcHeyHDS"
+        },
+        {
+          "name": "Johannes Tonio Kreusch",
+          "url": "https://open.spotify.com/artist/6blLk2AlQMfZqZPQTd0dQs"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 640400,
+      "name": "Sonata Arpeggione in A Minor, D. 821 (Arr. for Violin and Guitar by Johannes Tonio Kreusch):: I. Allegro Moderato",
+      "url": "https://open.spotify.com/track/2lO99iwS0Gg1HJIzfb7pnz"
+    },
+    {
+      "album": {
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/2rryJt8mIlYWvQNy1QeTa1"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Johannes Tonio Kreusch",
+          "url": "https://open.spotify.com/artist/6blLk2AlQMfZqZPQTd0dQs"
+        },
+        {
+          "name": "Doris Orsan",
+          "url": "https://open.spotify.com/artist/3l0rekohxHXIySzcHeyHDS"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 640400,
+      "name": "Sonata \u201eArpeggione\u201c D.821 - Allegro moderato",
+      "url": "https://open.spotify.com/track/7hoRQKOqQqUTMT1RI7SNhF"
+    },
+    {
+      "album": {
+        "name": "Schubert: String Quartets Nos. 10 & 13",
+        "url": "https://open.spotify.com/album/6Si7hQNydUkWUrXrIPhoCi"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Quatuor Mosa\u00efques",
+          "url": "https://open.spotify.com/artist/36FfcyHQ19PvmvFnq8q7Ab"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 898093,
+      "name": "String Quartet No. 13 in A Minor, Op. 29 No. 1, D. 804: I. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/3Kl3KMDm4W0lbm4XJYy6Zy"
+    },
+    {
+      "album": {
+        "name": "Schubert: String Quintet In C Major / String Trio In B Flat Major",
+        "url": "https://open.spotify.com/album/2H8jJHOqhbvtdwZ7zaZxMI"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Villa Musica Ensemble",
+          "url": "https://open.spotify.com/artist/3arQVmFhpzyVkQ7DjQ3xqC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 900000,
+      "name": "String Quintet In C Major, Op. 163, D. 956 : II. Adagio",
+      "url": "https://open.spotify.com/track/3CJk0oVEEIN2JAfV0Y2KBm"
+    },
+    {
+      "album": {
+        "name": "Schubert: String Quintet in C Major / String Trio in B-Flat Major",
+        "url": "https://open.spotify.com/album/70W4wWl4rEQu2CrpFKGXT1"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Villa Musica Ensemble",
+          "url": "https://open.spotify.com/artist/3arQVmFhpzyVkQ7DjQ3xqC"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 900000,
+      "name": "String Quintet in C Major, Op. 163, D. 956: II. Adagio",
+      "url": "https://open.spotify.com/track/5cYneFoq3QPdoQkVIoLEvH"
+    },
+    {
+      "album": {
+        "name": "Schubert (The Best Of)",
+        "url": "https://open.spotify.com/album/4YQ4GR9tFwqBMqjsuW29Tu"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Villa Musica Ensemble",
+          "url": "https://open.spotify.com/artist/3arQVmFhpzyVkQ7DjQ3xqC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 903000,
+      "name": "String Quintet in C Major: Adagio",
+      "url": "https://open.spotify.com/track/2Oo9EzwyuhRlxdVs24YQ5K"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphony No. 1 & 2",
+        "url": "https://open.spotify.com/album/6O6eneC7nvsV2uZzGXnRXF"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "G\u00fcnter Wand",
+          "url": "https://open.spotify.com/artist/5r6BbRI2QTDC9dv4rkSgCP"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510533,
+      "name": "Symphony No. 2 in B-Flat major, D. 125: II. Andante",
+      "url": "https://open.spotify.com/track/5Q6P1DQGtytOnMUCyvlBS2"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphony No. 2",
+        "url": "https://open.spotify.com/album/6YCpAQueYI57FgczJoRNjJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        },
+        {
+          "name": "Alan Gilbert",
+          "url": "https://open.spotify.com/artist/50qd7mKJ6SenQX15s6Fk0o"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613389,
+      "name": "Symphony No. 2 in B-Flat Major, D.125: I. Largo \u2014 Allegro vivace",
+      "url": "https://open.spotify.com/track/4UxYzsmPu7HZ791dBjefLc"
+    },
+    {
+      "album": {
+        "name": "R. Schumann: Symphony No. 1, Op. 38 \"Spring\" - Schubert: Symphony No. 3, D. 200 (Live)",
+        "url": "https://open.spotify.com/album/2JYoxPVqEIHHx7To3VJCDu"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269733,
+      "name": "Symphony No. 3 in D Major, D. 200: II. Allegretto (Live)",
+      "url": "https://open.spotify.com/track/1ePX4ayS80SUWOQZReBwQt"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphonies Nos.5 & 8 / Dvor\u00e1k: Symphony No.9 / Schumann: Symphony No.4",
+        "url": "https://open.spotify.com/album/3svUzO2I9K8UfLaDCBT0tK"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Karl B\u00f6hm",
+          "url": "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347426,
+      "name": "Symphony No. 5 In B Flat, D.485: I. Allegro",
+      "url": "https://open.spotify.com/track/5lhSgRzSBQh0CsGOt4TUAh"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphony No. 5 / Symphony No. 6 / Overture in C Major",
+        "url": "https://open.spotify.com/album/7xT3EHK7OjSYZ6DwPB66i7"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Stockholm Sinfonietta",
+          "url": "https://open.spotify.com/artist/6HnuLWTAgWKIpVHbwLJO1U"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581040,
+      "name": "Symphony No. 6 in C Major, D. 589: I. Adagio. Allegro",
+      "url": "https://open.spotify.com/track/5n2CXMi5TgTrS9MxxFC5u5"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphony No.8 \"Unfinished\" / Mendelssohn: Symphony No.4 \"Italian\"",
+        "url": "https://open.spotify.com/album/3O1TFxg9sn5MWrxh2teZkJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 689000,
+      "name": "Symphony No. 8 in B Minor, D. 759 \"Unfinished\": 1. Allegro moderato",
+      "url": "https://open.spotify.com/track/3FMW2qArFQCYgkACKiqyeq"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphony No. 8 in B Minor, D. 759 \"Unfinished\" & Symphony No. 9 in C Major, D. 944 \"Great\"",
+        "url": "https://open.spotify.com/album/6gWNH1C08CPMoiOgW1HyiK"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "George Szell",
+          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 704333,
+      "name": "Symphony No. 8 in B Minor, D. 759 \"Unfinished\": II. Andante con moto",
+      "url": "https://open.spotify.com/track/6WIABwSr2Kc7GvyiPutt9F"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphony No. 8 in B Minor, D. 759 \"Unfinished\" & Symphony No. 9 in C Major, D. 944 \"Great\"",
+        "url": "https://open.spotify.com/album/6gWNH1C08CPMoiOgW1HyiK"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "George Szell",
+          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 809333,
+      "name": "Symphony No. 9 in C Major, D. 944 \"Great\": I. Andante - Allegro ma non troppo - Pi\u00f9 moto",
+      "url": "https://open.spotify.com/track/4Ocxw6uK427Z38HATp2ghs"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphony No. 8 in B Minor, D. 759 \"Unfinished\" & Symphony No. 9 in C Major, D. 944 \"Great\"",
+        "url": "https://open.spotify.com/album/6gWNH1C08CPMoiOgW1HyiK"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "George Szell",
+          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 816333,
+      "name": "Symphony No. 9 in C Major, D. 944 \"Great\": II. Andante con moto",
+      "url": "https://open.spotify.com/track/4HLN0plDb30UwLJSHgxJQQ"
+    },
+    {
+      "album": {
+        "name": "Schubert: Symphonies Nos. 8 \"Unfinished\" & 9 \"The Great\"",
+        "url": "https://open.spotify.com/album/7HYWPIMMrG70Ub1AQ2iorC"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 910491,
+      "name": "Symphony No. 9 in C Major, D. 944 \"The Great\": III. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/5T6Y0sFRBDF2LxfGGo90Zc"
+    },
+    {
+      "album": {
+        "name": "Schubert: Trout Quintet",
+        "url": "https://open.spotify.com/album/5tw1KLShas6aNfrgdYmQJb"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Boris Berezovsky",
+          "url": "https://open.spotify.com/artist/36qooOkbokPscdOGWHPFk7"
+        },
+        {
+          "name": "Soloists of the Royal Opera House Orchestra, Covent Garden",
+          "url": "https://open.spotify.com/artist/5mzp2UJls0nLu8w7ewwK4X"
+        },
+        {
+          "name": "Vasko Vassiliev",
+          "url": "https://open.spotify.com/artist/0nEOrlXLUk44bH7qiAyWNt"
+        },
+        {
+          "name": "Andrew Staples",
+          "url": "https://open.spotify.com/artist/5omCjH0phptEBl1o0CggN7"
+        },
+        {
+          "name": "Christopher Vanderspar",
+          "url": "https://open.spotify.com/artist/64hc8cwR94CfKGFMcmv6uv"
+        },
+        {
+          "name": "Tony Hougham",
+          "url": "https://open.spotify.com/artist/51oMAcnHBNVeV4EWi5cc0i"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434333,
+      "name": "Trout Quintet: Andante",
+      "url": "https://open.spotify.com/track/1U9KqLPDGaQoONW8bcONko"
+    },
+    {
+      "album": {
+        "name": "Schubert: Violin Sonatas (Sonatinas)",
+        "url": "https://open.spotify.com/album/2lJM0m7KcQVreNEgJIT6zd"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Pascal Devoyon",
+          "url": "https://open.spotify.com/artist/62LQUUl6THxN3wFMqmSx08"
+        },
+        {
+          "name": "Dong-Suk Kang",
+          "url": "https://open.spotify.com/artist/0WCoABe0nCuX2ffSdYkU6c"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394786,
+      "name": "Violin Sonata (Sonatina) in A Minor, Op. 137, No. 2, D. 385: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/46pNDy49hUaEdOj5omMp6q"
+    },
+    {
+      "album": {
+        "name": "Schubert: Violin Sonatas & Fantasy in C Major",
+        "url": "https://open.spotify.com/album/5Z2CpuByZcwZ4M5BfJQsHh"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Dong-Suk Kang",
+          "url": "https://open.spotify.com/artist/0WCoABe0nCuX2ffSdYkU6c"
+        },
+        {
+          "name": "Pascal Devoyon",
+          "url": "https://open.spotify.com/artist/62LQUUl6THxN3wFMqmSx08"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 394786,
+      "name": "Violin Sonata in A Minor, Op. 137 No. 2, D. 385: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/6kmK269VzYJy18GzWOCnVd"
+    },
+    {
+      "album": {
+        "name": "Schubert: 3 Violin Sonatas, Op. 137",
+        "url": "https://open.spotify.com/album/5C4TtgkeB8xaZbfrVMY8nz"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Hyejin Chung",
+          "url": "https://open.spotify.com/artist/0JRRAb5VcUYgviuGXnPp5p"
+        },
+        {
+          "name": "Warren Lee",
+          "url": "https://open.spotify.com/artist/1J58bIgS1UnIVfYO1MINWh"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 352600,
+      "name": "Violin Sonata in G Minor, Op. 137 No. 3, D. 408: IV. Allegro moderato",
+      "url": "https://open.spotify.com/track/0Qw0OjeLJ29Mg9FWbD4z6L"
+    },
+    {
+      "album": {
+        "name": "Schubert: 3 Violin Sonatas, Op. 137",
+        "url": "https://open.spotify.com/album/6WfRCpNYqa94Q9eVWguBWC"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Hyejin Chung",
+          "url": "https://open.spotify.com/artist/0JRRAb5VcUYgviuGXnPp5p"
+        },
+        {
+          "name": "Warren Lee",
+          "url": "https://open.spotify.com/artist/1J58bIgS1UnIVfYO1MINWh"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352600,
+      "name": "Violin Sonata in G Minor, Op. 137 No. 3, D. 408: IV. Allegro moderato",
+      "url": "https://open.spotify.com/track/0eGt6PAet31duhS3SUExBz"
+    },
+    {
+      "album": {
+        "name": "Schubert: 3 Violin Sonatas, Op. 137",
+        "url": "https://open.spotify.com/album/3UEo8ExUd0fbkGPhsH0KvJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Hyejin Chung",
+          "url": "https://open.spotify.com/artist/0JRRAb5VcUYgviuGXnPp5p"
+        },
+        {
+          "name": "Warren Lee",
+          "url": "https://open.spotify.com/artist/1J58bIgS1UnIVfYO1MINWh"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 352600,
+      "name": "Violin Sonata in G Minor, Op. 137 No. 3, D. 408: IV. Allegro moderato",
+      "url": "https://open.spotify.com/track/3SZmkkGhgOd88Q2FDhf8sv"
+    },
+    {
+      "album": {
+        "name": "Schubert: Winterreise",
+        "url": "https://open.spotify.com/album/4HR9merQilQj0dXw3EuSjg"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Werner G\u00fcra",
+          "url": "https://open.spotify.com/artist/5l99uDJZTV5zK5crn1Nt6V"
+        },
+        {
+          "name": "Christoph Berner",
+          "url": "https://open.spotify.com/artist/0qjUgu9gIYjeONfMjklJ89"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321586,
+      "name": "Winterreise, D. 911, Erste Abteilung: Gute Nacht",
+      "url": "https://open.spotify.com/track/4czjSVTWBP3JiEYBA9Guad"
+    },
+    {
+      "album": {
+        "name": "Schubert Sessions: Lieder with Guitar",
+        "url": "https://open.spotify.com/album/3hMdd4yx4RqDnFNe3nvDrE"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Philippe Sly",
+          "url": "https://open.spotify.com/artist/5kfRwxjyr2hBQI8LGEqhaT"
+        },
+        {
+          "name": "John Charles Britton",
+          "url": "https://open.spotify.com/artist/5eP422HEYwhIHbxQBOArGe"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140773,
+      "name": "Wohin?, Op. 25, No. 2, D. 795",
+      "url": "https://open.spotify.com/track/5lr5TbocNLOgf4FAH2Wi3d"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY3VlkBR4Jhb"
 }

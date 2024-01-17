@@ -1,577 +1,1407 @@
 {
-  "2022-06-02": 513703,
-  "2022-06-03": 513765,
-  "2022-06-04": 513875,
-  "2022-06-05": 513999,
-  "2022-06-06": 514146,
-  "2022-06-07": 514243,
-  "2022-06-08": 514328,
-  "2022-06-09": 514398,
-  "2022-06-10": 514497,
-  "2022-06-11": 514627,
-  "2022-06-12": 514733,
-  "2022-06-13": 514872,
-  "2022-06-14": 514958,
-  "2022-06-15": 515037,
-  "2022-06-16": 515143,
-  "2022-06-17": 515210,
-  "2022-06-18": 515311,
-  "2022-06-19": 515542,
-  "2022-06-20": 515542,
-  "2022-06-21": 515622,
-  "2022-06-22": 515819,
-  "2022-06-23": 515819,
-  "2022-06-24": 515887,
-  "2022-06-25": 516007,
-  "2022-06-26": 516161,
-  "2022-06-27": 516311,
-  "2022-06-28": 516396,
-  "2022-06-29": 516479,
-  "2022-06-30": 516572,
-  "2022-07-01": 516672,
-  "2022-07-02": 516797,
-  "2022-07-03": 516925,
-  "2022-07-04": 517055,
-  "2022-07-05": 517055,
-  "2022-07-06": 517055,
-  "2022-07-07": 517305,
-  "2022-07-08": 517413,
-  "2022-07-09": 517515,
-  "2022-07-10": 517641,
-  "2022-07-11": 517710,
-  "2022-07-12": 517763,
-  "2022-07-13": 517854,
-  "2022-07-14": 517925,
-  "2022-07-15": 518031,
-  "2022-07-16": 518163,
-  "2022-07-17": 518273,
-  "2022-07-18": 518398,
-  "2022-07-19": 518479,
-  "2022-07-20": 518567,
-  "2022-07-21": 518645,
-  "2022-07-22": 518763,
-  "2022-07-23": 518898,
-  "2022-07-24": 519036,
-  "2022-07-25": 519150,
-  "2022-07-26": 519244,
-  "2022-07-27": 519324,
-  "2022-07-28": 519404,
-  "2022-07-29": 519496,
-  "2022-07-30": 519832,
-  "2022-07-31": 519832,
-  "2022-08-01": 519971,
-  "2022-08-02": 520158,
-  "2022-08-03": 520158,
-  "2022-08-04": 520283,
-  "2022-08-05": 520423,
-  "2022-08-06": 520572,
-  "2022-08-07": 520764,
-  "2022-08-08": 520899,
-  "2022-08-09": 521018,
-  "2022-08-10": 521124,
-  "2022-08-11": 521235,
-  "2022-08-12": 521349,
-  "2022-08-13": 521451,
-  "2022-08-14": 521568,
-  "2022-08-15": 521716,
-  "2022-08-16": 521789,
-  "2022-08-17": 521887,
-  "2022-08-18": 522022,
-  "2022-08-19": 522176,
-  "2022-08-20": 522312,
-  "2022-08-21": 522444,
-  "2022-08-22": 522572,
-  "2022-08-23": 522644,
-  "2022-08-24": 522736,
-  "2022-08-25": 522865,
-  "2022-08-26": 522998,
-  "2022-08-27": 523164,
-  "2022-08-28": 523362,
-  "2022-08-29": 523494,
-  "2022-08-30": 523595,
-  "2022-08-31": 523735,
-  "2022-09-01": 523849,
-  "2022-09-02": 523964,
-  "2022-09-03": 524068,
-  "2022-09-04": 524187,
-  "2022-09-05": 524299,
-  "2022-09-06": 524395,
-  "2022-09-07": 524476,
-  "2022-09-09": 524682,
-  "2022-09-10": 524772,
-  "2022-09-11": 524882,
-  "2022-09-12": 524998,
-  "2022-09-13": 525071,
-  "2022-09-15": 525241,
-  "2022-09-16": 525375,
-  "2022-09-17": 525510,
-  "2022-09-18": 525658,
-  "2022-09-19": 525790,
-  "2022-09-20": 525861,
-  "2022-09-21": 525976,
-  "2022-09-22": 526070,
-  "2022-09-23": 526161,
-  "2022-09-24": 526161,
-  "2022-09-25": 526384,
-  "2022-09-26": 526491,
-  "2022-09-27": 526574,
-  "2022-09-28": 526651,
-  "2022-09-29": 526774,
-  "2022-09-30": 526888,
-  "2022-10-01": 526982,
-  "2022-10-02": 527108,
-  "2022-10-03": 527228,
-  "2022-10-04": 527619,
-  "2022-10-05": 528220,
-  "2022-10-06": 528468,
-  "2022-10-07": 528655,
-  "2022-10-08": 528763,
-  "2022-10-09": 528993,
-  "2022-10-10": 529029,
-  "2022-10-11": 529116,
-  "2022-10-12": 529393,
-  "2022-10-13": 529668,
-  "2022-10-14": 529797,
-  "2022-10-15": 529924,
-  "2022-10-16": 530038,
-  "2022-10-17": 530137,
-  "2022-10-18": 530248,
-  "2022-10-19": 530331,
-  "2022-10-20": 530418,
-  "2022-10-21": 530507,
-  "2022-10-22": 530572,
-  "2022-10-23": 530679,
-  "2022-10-24": 530768,
-  "2022-10-25": 530878,
-  "2022-10-26": 530968,
-  "2022-10-27": 531029,
-  "2022-10-28": 531144,
-  "2022-10-29": 531239,
-  "2022-10-30": 531358,
-  "2022-10-31": 531471,
-  "2022-11-01": 531546,
-  "2022-11-02": 531644,
-  "2022-11-03": 531728,
-  "2022-11-04": 531839,
-  "2022-11-05": 531924,
-  "2022-11-06": 532054,
-  "2022-11-07": 532159,
-  "2022-11-08": 532227,
-  "2022-11-09": 532319,
-  "2022-11-10": 532396,
-  "2022-11-11": 532487,
-  "2022-11-12": 532610,
-  "2022-11-13": 532681,
-  "2022-11-14": 532746,
-  "2022-11-15": 532826,
-  "2022-11-16": 532864,
-  "2022-11-17": 532935,
-  "2022-11-18": 532924,
-  "2022-11-19": 532935,
-  "2022-11-20": 533001,
-  "2022-11-21": 533081,
-  "2022-11-22": 533160,
-  "2022-11-23": 533241,
-  "2022-11-24": 533446,
-  "2022-11-25": 533598,
-  "2022-11-26": 533698,
-  "2022-11-27": 533783,
-  "2022-11-28": 533881,
-  "2022-11-29": 533929,
-  "2022-11-30": 533989,
-  "2022-12-01": 534000,
-  "2022-12-02": 534047,
-  "2022-12-03": 534128,
-  "2022-12-04": 534208,
-  "2022-12-05": 534284,
-  "2022-12-06": 534362,
-  "2022-12-07": 534437,
-  "2022-12-08": 534520,
-  "2022-12-09": 534611,
-  "2022-12-10": 534708,
-  "2022-12-11": 534827,
-  "2022-12-12": 534945,
-  "2022-12-13": 535012,
-  "2022-12-14": 535110,
-  "2022-12-15": 535231,
-  "2022-12-16": 535345,
-  "2022-12-17": 535460,
-  "2022-12-18": 535598,
-  "2022-12-19": 535688,
-  "2022-12-20": 535870,
-  "2022-12-21": 535870,
-  "2022-12-22": 535962,
-  "2022-12-24": 536162,
-  "2022-12-25": 536325,
-  "2022-12-26": 536441,
-  "2022-12-27": 536528,
-  "2022-12-28": 536596,
-  "2022-12-29": 536699,
-  "2022-12-30": 536795,
-  "2022-12-31": 536918,
-  "2023-01-01": 537130,
-  "2023-01-02": 537312,
-  "2023-01-03": 537397,
-  "2023-01-04": 537460,
-  "2023-01-05": 537598,
-  "2023-01-06": 537697,
-  "2023-01-07": 537891,
-  "2023-01-08": 537928,
-  "2023-01-09": 538056,
-  "2023-01-10": 538110,
-  "2023-01-11": 538198,
-  "2023-01-12": 538304,
-  "2023-01-13": 538401,
-  "2023-01-14": 538599,
-  "2023-01-15": 538603,
-  "2023-01-16": 538738,
-  "2023-01-17": 538816,
-  "2023-01-18": 538925,
-  "2023-01-19": 538994,
-  "2023-01-20": 539067,
-  "2023-01-21": 539165,
-  "2023-01-22": 539294,
-  "2023-01-23": 539508,
-  "2023-01-24": 539627,
-  "2023-01-25": 539738,
-  "2023-01-26": 539859,
-  "2023-01-27": 539962,
-  "2023-01-28": 540099,
-  "2023-01-29": 540262,
-  "2023-01-30": 540376,
-  "2023-01-31": 540376,
-  "2023-02-01": 540574,
-  "2023-02-02": 540679,
-  "2023-02-03": 540811,
-  "2023-02-04": 540961,
-  "2023-02-05": 541120,
-  "2023-02-06": 541285,
-  "2023-02-07": 541388,
-  "2023-02-08": 541616,
-  "2023-02-09": 541616,
-  "2023-02-10": 541698,
-  "2023-02-11": 541828,
-  "2023-02-12": 542053,
-  "2023-02-13": 542155,
-  "2023-02-14": 542155,
-  "2023-02-15": 542272,
-  "2023-02-16": 542379,
-  "2023-02-17": 542524,
-  "2023-02-18": 542819,
-  "2023-02-19": 542845,
-  "2023-02-20": 542943,
-  "2023-02-21": 543037,
-  "2023-02-22": 543163,
-  "2023-02-23": 543262,
-  "2023-02-24": 543410,
-  "2023-02-25": 543592,
-  "2023-02-26": 543698,
-  "2023-02-27": 543954,
-  "2023-02-28": 543954,
-  "2023-03-01": 544060,
-  "2023-03-02": 544174,
-  "2023-03-03": 544308,
-  "2023-03-04": 544420,
-  "2023-03-05": 544745,
-  "2023-03-06": 544745,
-  "2023-03-07": 544857,
-  "2023-03-08": 544951,
-  "2023-03-09": 545046,
-  "2023-03-10": 545145,
-  "2023-03-11": 545276,
-  "2023-03-12": 545422,
-  "2023-03-13": 545585,
-  "2023-03-14": 545672,
-  "2023-03-15": 545803,
-  "2023-03-16": 545803,
-  "2023-03-17": 545803,
-  "2023-03-18": 546238,
-  "2023-03-19": 546238,
-  "2023-03-20": 546565,
-  "2023-03-21": 546666,
-  "2023-03-22": 546762,
-  "2023-03-23": 546869,
-  "2023-03-24": 546869,
-  "2023-03-25": 547131,
-  "2023-03-26": 547294,
-  "2023-03-27": 547431,
-  "2023-03-28": 547554,
-  "2023-03-29": 547689,
-  "2023-03-30": 547930,
-  "2023-03-31": 547930,
-  "2023-04-01": 548472,
-  "2023-04-02": 548814,
-  "2023-04-03": 549059,
-  "2023-04-04": 549233,
-  "2023-04-05": 549402,
-  "2023-04-06": 549629,
-  "2023-04-07": 549847,
-  "2023-04-09": 550285,
-  "2023-04-10": 550455,
-  "2023-04-11": 550730,
-  "2023-04-12": 550730,
-  "2023-04-13": 550869,
-  "2023-04-14": 551022,
-  "2023-04-15": 551196,
-  "2023-04-16": 551366,
-  "2023-04-17": 551545,
-  "2023-04-18": 551674,
-  "2023-04-19": 551786,
-  "2023-04-20": 551927,
-  "2023-04-21": 552060,
-  "2023-04-22": 552218,
-  "2023-04-23": 552417,
-  "2023-04-24": 552559,
-  "2023-04-25": 552711,
-  "2023-04-26": 552856,
-  "2023-04-27": 553018,
-  "2023-04-28": 553130,
-  "2023-04-29": 553280,
-  "2023-04-30": 553418,
-  "2023-05-01": 553556,
-  "2023-05-02": 553694,
-  "2023-05-03": 553803,
-  "2023-05-04": 553925,
-  "2023-05-05": 554043,
-  "2023-05-06": 554233,
-  "2023-05-07": 554390,
-  "2023-05-08": 554514,
-  "2023-05-09": 554586,
-  "2023-05-10": 554686,
-  "2023-05-11": 554786,
-  "2023-05-12": 554902,
-  "2023-05-13": 555060,
-  "2023-05-14": 555191,
-  "2023-05-15": 555299,
-  "2023-05-16": 555423,
-  "2023-05-17": 555555,
-  "2023-05-18": 555671,
-  "2023-05-19": 555832,
-  "2023-05-20": 556144,
-  "2023-05-21": 556144,
-  "2023-05-22": 556144,
-  "2023-05-23": 556433,
-  "2023-05-24": 556639,
-  "2023-05-25": 556682,
-  "2023-05-26": 556815,
-  "2023-05-27": 556955,
-  "2023-05-28": 557138,
-  "2023-05-29": 557138,
-  "2023-05-30": 557365,
-  "2023-05-31": 557474,
-  "2023-06-01": 557554,
-  "2023-06-02": 557654,
-  "2023-06-03": 557803,
-  "2023-06-04": 557994,
-  "2023-06-05": 558123,
-  "2023-06-06": 558232,
-  "2023-06-07": 558360,
-  "2023-06-08": 558463,
-  "2023-06-09": 558596,
-  "2023-06-10": 558733,
-  "2023-06-11": 558854,
-  "2023-06-12": 558989,
-  "2023-06-13": 559083,
-  "2023-06-14": 559083,
-  "2023-06-15": 559322,
-  "2023-06-16": 559424,
-  "2023-06-17": 559580,
-  "2023-06-18": 559738,
-  "2023-06-19": 559859,
-  "2023-06-20": 559988,
-  "2023-06-21": 560109,
-  "2023-06-22": 560215,
-  "2023-06-23": 560371,
-  "2023-06-24": 560491,
-  "2023-06-25": 560648,
-  "2023-06-26": 560769,
-  "2023-06-27": 560865,
-  "2023-06-28": 560969,
-  "2023-06-29": 561095,
-  "2023-06-30": 561198,
-  "2023-07-01": 561450,
-  "2023-07-02": 561450,
-  "2023-07-03": 561574,
-  "2023-07-04": 561698,
-  "2023-07-05": 561791,
-  "2023-07-06": 561992,
-  "2023-07-07": 561992,
-  "2023-07-08": 561992,
-  "2023-07-09": 562353,
-  "2023-07-10": 562504,
-  "2023-07-11": 562576,
-  "2023-07-12": 562663,
-  "2023-07-13": 562813,
-  "2023-07-14": 562949,
-  "2023-07-15": 563042,
-  "2023-07-16": 563216,
-  "2023-07-17": 563330,
-  "2023-07-18": 563450,
-  "2023-07-19": 563560,
-  "2023-07-20": 563560,
-  "2023-07-21": 563749,
-  "2023-07-22": 563912,
-  "2023-07-23": 564011,
-  "2023-07-24": 564112,
-  "2023-07-25": 564191,
-  "2023-07-26": 564307,
-  "2023-07-27": 564439,
-  "2023-07-28": 564605,
-  "2023-07-29": 564752,
-  "2023-07-30": 564752,
-  "2023-07-31": 565007,
-  "2023-08-01": 565104,
-  "2023-08-02": 565188,
-  "2023-08-03": 565321,
-  "2023-08-04": 565429,
-  "2023-08-05": 565568,
-  "2023-08-06": 565924,
-  "2023-08-07": 565924,
-  "2023-08-08": 566002,
-  "2023-08-09": 566145,
-  "2023-08-10": 566259,
-  "2023-08-11": 566361,
-  "2023-08-12": 566361,
-  "2023-08-13": 566361,
-  "2023-08-14": 566361,
-  "2023-08-15": 566361,
-  "2023-08-16": 566361,
-  "2023-08-17": 566361,
-  "2023-08-18": 566361,
-  "2023-08-19": 566361,
-  "2023-08-20": 567747,
-  "2023-08-21": 567747,
-  "2023-08-22": 568000,
-  "2023-08-23": 568000,
-  "2023-08-24": 568000,
-  "2023-08-25": 568000,
-  "2023-08-26": 568605,
-  "2023-08-27": 568605,
-  "2023-08-28": 568918,
-  "2023-08-29": 568918,
-  "2023-08-30": 568918,
-  "2023-08-31": 569245,
-  "2023-09-01": 569350,
-  "2023-09-02": 569350,
-  "2023-09-03": 569350,
-  "2023-09-04": 569350,
-  "2023-09-05": 569350,
-  "2023-09-06": 569350,
-  "2023-09-07": 569350,
-  "2023-09-08": 569350,
-  "2023-09-09": 569350,
-  "2023-09-10": 569350,
-  "2023-09-11": 569350,
-  "2023-09-12": 569350,
-  "2023-09-13": 569350,
-  "2023-09-14": 569350,
-  "2023-09-15": 569350,
-  "2023-09-16": 571246,
-  "2023-09-17": 571246,
-  "2023-09-18": 571246,
-  "2023-09-19": 571644,
-  "2023-09-20": 571644,
-  "2023-09-21": 571644,
-  "2023-09-22": 571878,
-  "2023-09-23": 571878,
-  "2023-09-24": 571878,
-  "2023-09-25": 571878,
-  "2023-09-26": 572197,
-  "2023-09-27": 572197,
-  "2023-09-28": 572197,
-  "2023-09-29": 572197,
-  "2023-09-30": 572197,
-  "2023-10-01": 572197,
-  "2023-10-02": 572197,
-  "2023-10-03": 572197,
-  "2023-10-04": 572197,
-  "2023-10-05": 572197,
-  "2023-10-06": 572197,
-  "2023-10-07": 572197,
-  "2023-10-08": 572197,
-  "2023-10-09": 572197,
-  "2023-10-10": 572197,
-  "2023-10-11": 573226,
-  "2023-10-12": 573226,
-  "2023-10-13": 573226,
-  "2023-10-14": 573226,
-  "2023-10-15": 573226,
-  "2023-10-16": 573226,
-  "2023-10-17": 573226,
-  "2023-10-18": 573226,
-  "2023-10-19": 573226,
-  "2023-10-20": 573226,
-  "2023-10-21": 573226,
-  "2023-10-22": 573226,
-  "2023-10-23": 573226,
-  "2023-10-24": 573226,
-  "2023-10-25": 573226,
-  "2023-10-26": 573226,
-  "2023-10-27": 573226,
-  "2023-10-28": 573226,
-  "2023-10-29": 573226,
-  "2023-10-30": 573226,
-  "2023-10-31": 573226,
-  "2023-11-01": 573226,
-  "2023-11-02": 573226,
-  "2023-11-03": 573226,
-  "2023-11-04": 573226,
-  "2023-11-05": 573226,
-  "2023-11-06": 573226,
-  "2023-11-07": 573226,
-  "2023-11-08": 573226,
-  "2023-11-09": 573226,
-  "2023-11-10": 573226,
-  "2023-11-11": 575609,
-  "2023-11-12": 575609,
-  "2023-11-13": 575609,
-  "2023-11-14": 575609,
-  "2023-11-15": 575609,
-  "2023-11-16": 575609,
-  "2023-11-17": 575609,
-  "2023-11-18": 575609,
-  "2023-11-19": 575609,
-  "2023-11-20": 575609,
-  "2023-11-21": 575609,
-  "2023-11-22": 575609,
-  "2023-11-23": 575609,
-  "2023-11-24": 575609,
-  "2023-11-25": 575609,
-  "2023-11-26": 575609,
-  "2023-11-27": 575609,
-  "2023-11-28": 575609,
-  "2023-11-29": 575609,
-  "2023-11-30": 575609,
-  "2023-12-01": 575609,
-  "2023-12-02": 575609,
-  "2023-12-03": 575609,
-  "2023-12-04": 575609,
-  "2023-12-05": 575609,
-  "2023-12-06": 575609,
-  "2023-12-07": 575609,
-  "2023-12-08": 575609,
-  "2023-12-09": 575609,
-  "2023-12-10": 575609,
-  "2023-12-11": 575609,
-  "2023-12-12": 575609,
-  "2023-12-13": 575609,
-  "2023-12-14": 578276,
-  "2023-12-15": 578328,
-  "2023-12-16": 578402,
-  "2023-12-17": 578476,
-  "2023-12-18": 578550,
-  "2023-12-19": 578609,
-  "2023-12-20": 578683,
-  "2023-12-21": 578753,
-  "2023-12-22": 578815,
-  "2023-12-23": 578892,
-  "2023-12-24": 578991,
-  "2023-12-25": 579105,
-  "2023-12-26": 579180,
-  "2023-12-27": 579237,
-  "2023-12-30": 579477,
-  "2023-12-31": 579593,
-  "2024-01-01": 579692,
-  "2024-01-02": 579783,
-  "2024-01-03": 579835
+  "2024-01-17": 578648,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Selena. The essential tracks, all in one playlist.",
+  "name": "This Is Selena",
+  "tracks": [
+    {
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 220013,
+      "name": "Acu\u00e9rdate De M\u00ed",
+      "url": "https://open.spotify.com/track/0vxIbUDge0shviEdnakzkx"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+    },
+    {
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125266,
+      "name": "Amor Prohibido - Live",
+      "url": "https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+    },
+    {
+      "album": {
+        "name": "Mis Mejores Canciones: 17 Super Exitos",
+        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Besitos",
+      "url": "https://open.spotify.com/track/7AbqXy9RdTfrKkk5FdJSa5"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 222266,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/5I1j0vcUC17krA5XGbIXHx"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253733,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
+    },
+    {
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        },
+        {
+          "name": "Alvaro Torres",
+          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284973,
+      "name": "Buenos Amigos",
+      "url": "https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 263933,
+      "name": "Captive Heart",
+      "url": "https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD MIXES",
+        "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 210990,
+      "name": "Cari\u00f1o M\u00edo",
+      "url": "https://open.spotify.com/track/59osRZczGRGFMiJmdvuzyl"
+    },
+    {
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa"
+    },
+    {
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116600,
+      "name": "Cobarde - Live",
+      "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403640,
+      "name": "Como La Flor - Live",
+      "url": "https://open.spotify.com/track/2e5lffoLF7p6YeGbcmigdX"
+    },
+    {
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186373,
+      "name": "Como La Flor - Remastered",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585080,
+      "name": "Como La FLor/Baila Esta Cumbia - Live",
+      "url": "https://open.spotify.com/track/4wfvNgvx7QVSquNnbAYCC8"
+    },
+    {
+      "album": {
+        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
+        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
+    },
+    {
+      "album": {
+        "name": "Ones",
+        "url": "https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 426240,
+      "name": "Con Tanto Amor - Medley",
+      "url": "https://open.spotify.com/track/10VHKov9SwMTXh9JBeJt0x"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD MIXES",
+        "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141266,
+      "name": "Corazoncito - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/1NtLJWyxSzbu0HcKg6rCGG"
+    },
+    {
+      "album": {
+        "name": "Mis Mejores Canciones: 17 Super Exitos",
+        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4T2lNtytcsuIa3FipR37Wu"
+    },
+    {
+      "album": {
+        "name": "Movie Soundtrack",
+        "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518640,
+      "name": "Cumbia Medley - Live",
+      "url": "https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD MIXES",
+        "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 199600,
+      "name": "Dame Tu Amor - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/3ySQuo1CjjXsnfkOOnJiad"
+    },
+    {
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463266,
+      "name": "Disco Medley - Live From Astrodome",
+      "url": "https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
+    },
+    {
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "Dulce Amor",
+      "url": "https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195346,
+      "name": "El Chico Del Apartamento 512 - Live",
+      "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140226,
+      "name": "El Toro Relajo",
+      "url": "https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 241933,
+      "name": "Enamorada De Ti",
+      "url": "https://open.spotify.com/track/47GzRDebzUiqjo2pxdl0vd"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 247040,
+      "name": "Enamorada De Ti",
+      "url": "https://open.spotify.com/track/3eHbKczzbh0zH5olpTgfW8"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247040,
+      "name": "Enamorada De Ti",
+      "url": "https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8"
+    },
+    {
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 197786,
+      "name": "Estoy Contigo",
+      "url": "https://open.spotify.com/track/3540QsaCUoHcGLPxQAwbzm"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "album": {
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290773,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281560,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "I'm Getting Used To You",
+      "url": "https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel"
+    },
+    {
+      "album": {
+        "name": "Selena",
+        "url": "https://open.spotify.com/album/20b5sD6sxg1PVUasNcZLSe"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/4xUQFUSPSJjSbLfmVRsZml"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "La Carcacha",
+      "url": "https://open.spotify.com/track/0ob3zPIGXWwg2hyXJNs3Ct"
+    },
+    {
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413986,
+      "name": "La Carcacha/Besitos - Live",
+      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
+    },
+    {
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "Las Cadenas",
+      "url": "https://open.spotify.com/track/0lPQT4BthmWqa6PQPCJTE3"
+    },
+    {
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 231560,
+      "name": "Missing My Baby",
+      "url": "https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253493,
+      "name": "Missing My Baby",
+      "url": "https://open.spotify.com/track/1bofHtKrTkKQXx4wm4wITp"
+    },
+    {
+      "album": {
+        "name": "All My Hits: Todos Mis Exitos",
+        "url": "https://open.spotify.com/album/6ofanZuft02DovBm84Slkk"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "No Debes Jugar - Remastered",
+      "url": "https://open.spotify.com/track/4qezVHFYPxcxqek5b3HFCx"
+    },
+    {
+      "album": {
+        "name": "Momentos Intimos",
+        "url": "https://open.spotify.com/album/3yDmzoiBE8DTSkmg2cczxn"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-07",
+      "duration_ms": 231360,
+      "name": "No Llores Mas Corazon (Re-Recorded)",
+      "url": "https://open.spotify.com/track/7eSbVDA7cYhXuEEKxETUpA"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD MIXES",
+        "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 225176,
+      "name": "No Llores M\u00e1s",
+      "url": "https://open.spotify.com/track/6WZECOJqjArNpvhHQXkEyu"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 177066,
+      "name": "No Quiero Saber - 1990 Version",
+      "url": "https://open.spotify.com/track/3a1aPPcAA7HRgV3d0BPRlR"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177066,
+      "name": "No Quiero Saber - 1990 Version",
+      "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 250626,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/4YzawOSOsc5Os4t47eiuRX"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD MIXES",
+        "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 212466,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/6O2IpATa2MWeYXQJjgW83C"
+    },
+    {
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "Que Cre\u00edas",
+      "url": "https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD MIXES",
+        "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 183166,
+      "name": "Salta La Ranita",
+      "url": "https://open.spotify.com/track/6vSu9p4ozzqiB0YiREyN2g"
+    },
+    {
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 192893,
+      "name": "Sentimientos",
+      "url": "https://open.spotify.com/track/7EkzuMmrpskKf03GmixXQi"
+    },
+    {
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193240,
+      "name": "Si La Quieres",
+      "url": "https://open.spotify.com/track/2cKCwfztCCpCILaWIBUS6I"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
+    },
+    {
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Si Una Vez - Live",
+      "url": "https://open.spotify.com/track/2GFC4Zo3Qz1AF2cmVZkxZh"
+    },
+    {
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Siempre Estoy Pensando En Ti",
+      "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Siempre Hace Frio",
+      "url": "https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV"
+    },
+    {
+      "album": {
+        "name": "Mis Mejores Canciones: 17 Super Exitos",
+        "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 181066,
+      "name": "Sukiyaki",
+      "url": "https://open.spotify.com/track/57EDc5eHTTK1YjYH80jNsP"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 227440,
+      "name": "Techno Cumbia",
+      "url": "https://open.spotify.com/track/2ZQB09LvHaOuMJBgCfOKHp"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "Terco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/22w7BkUcfKfhPklT1qL8dr"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "T\u00fa, Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148026,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/0R4TBAYYSq1gdEvwNe9aex"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 148026,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/1zp6nac2R9OT9pV5UJA3jo"
+    },
+    {
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 224506,
+      "name": "Where Did The Feeling Go?",
+      "url": "https://open.spotify.com/track/6E7Lm2PoUP4lAPN4UzOCoR"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 219013,
+      "name": "Ya No - 1996 Version",
+      "url": "https://open.spotify.com/track/6e0v8cTUB8hzte6XEODh0x"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Ya Ves",
+      "url": "https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-01",
+      "duration_ms": 196813,
+      "name": "Ya Ves",
+      "url": "https://open.spotify.com/track/799cauivpw59tpLgcV4RWK"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "Yo Fui Aquella - .",
+      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "Yo Me Voy",
+      "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 210680,
+      "name": "Yo Me Voy",
+      "url": "https://open.spotify.com/track/7FG0sxuZd6palqjVdgfMBg"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 221066,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/1Vme3vRdcpuNeudeqDKVq3"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 221066,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/32ze3uxp07OPbNNzT15ZQ0"
+    },
+    {
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "Yo Te Sigo Queriendo",
+      "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YdXS8"
 }

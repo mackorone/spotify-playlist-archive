@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "19 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/5LMMjN3k96FiaApsKfDWie"
+      },
+      "artists": [
+        {
+          "name": "Luis Perez Meza",
+          "url": "https://open.spotify.com/artist/7ma3GVmh9WTTRbTIy5JwVu"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166125,
+      "name": "El Barzon",
+      "url": "https://open.spotify.com/track/7i1XfrUlcECvLngS2TOrXt"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De Rancheras",
         "url": "https://open.spotify.com/album/4GPhb23QPYV0PCY5264b7S"
       },
@@ -654,7 +672,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 164080,
       "name": "El Barzon",
       "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"

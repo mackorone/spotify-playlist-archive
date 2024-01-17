@@ -1,287 +1,1087 @@
 {
-  "2023-03-22": 182,
-  "2023-03-23": 356,
-  "2023-03-24": 356,
-  "2023-03-25": 1087,
-  "2023-03-26": 1230,
-  "2023-03-27": 1263,
-  "2023-03-28": 1290,
-  "2023-03-29": 1318,
-  "2023-03-30": 1363,
-  "2023-03-31": 1363,
-  "2023-04-01": 1387,
-  "2023-04-02": 1417,
-  "2023-04-03": 1456,
-  "2023-04-04": 1477,
-  "2023-04-05": 1488,
-  "2023-04-06": 1507,
-  "2023-04-07": 1534,
-  "2023-04-09": 1590,
-  "2023-04-10": 1615,
-  "2023-04-11": 1674,
-  "2023-04-12": 1674,
-  "2023-04-13": 1704,
-  "2023-04-14": 1726,
-  "2023-04-15": 1750,
-  "2023-04-16": 1772,
-  "2023-04-17": 1794,
-  "2023-04-18": 1812,
-  "2023-04-19": 1837,
-  "2023-04-20": 1863,
-  "2023-04-21": 1886,
-  "2023-04-22": 1912,
-  "2023-04-23": 1947,
-  "2023-04-24": 1978,
-  "2023-04-25": 1992,
-  "2023-04-26": 2023,
-  "2023-04-27": 2050,
-  "2023-04-28": 2066,
-  "2023-04-29": 2078,
-  "2023-04-30": 2092,
-  "2023-05-01": 2115,
-  "2023-05-02": 2131,
-  "2023-05-03": 2148,
-  "2023-05-04": 2163,
-  "2023-05-05": 2177,
-  "2023-05-06": 2193,
-  "2023-05-07": 2217,
-  "2023-05-08": 2229,
-  "2023-05-09": 2246,
-  "2023-05-10": 2261,
-  "2023-05-11": 2272,
-  "2023-05-12": 2285,
-  "2023-05-13": 2296,
-  "2023-05-14": 2306,
-  "2023-05-15": 2316,
-  "2023-05-16": 2330,
-  "2023-05-17": 2340,
-  "2023-05-18": 2350,
-  "2023-05-19": 2368,
-  "2023-05-20": 2388,
-  "2023-05-21": 2388,
-  "2023-05-22": 2388,
-  "2023-05-23": 2408,
-  "2023-05-24": 2422,
-  "2023-05-25": 2426,
-  "2023-05-26": 2437,
-  "2023-05-27": 2447,
-  "2023-05-28": 2463,
-  "2023-05-29": 2463,
-  "2023-05-30": 2484,
-  "2023-05-31": 2494,
-  "2023-06-01": 2498,
-  "2023-06-02": 2512,
-  "2023-06-03": 2525,
-  "2023-06-04": 2536,
-  "2023-06-05": 2541,
-  "2023-06-06": 2553,
-  "2023-06-07": 2568,
-  "2023-06-08": 2572,
-  "2023-06-09": 2585,
-  "2023-06-10": 2598,
-  "2023-06-11": 2604,
-  "2023-06-12": 2615,
-  "2023-06-13": 2623,
-  "2023-06-14": 2623,
-  "2023-06-15": 2640,
-  "2023-06-16": 2644,
-  "2023-06-17": 2652,
-  "2023-06-18": 2660,
-  "2023-06-19": 2671,
-  "2023-06-20": 2673,
-  "2023-06-21": 2680,
-  "2023-06-22": 2691,
-  "2023-06-23": 2703,
-  "2023-06-24": 2710,
-  "2023-06-25": 2723,
-  "2023-06-26": 2731,
-  "2023-06-27": 2735,
-  "2023-06-28": 2745,
-  "2023-06-29": 2753,
-  "2023-06-30": 2766,
-  "2023-07-01": 2790,
-  "2023-07-02": 2790,
-  "2023-07-03": 2793,
-  "2023-07-04": 2801,
-  "2023-07-05": 2809,
-  "2023-07-06": 2817,
-  "2023-07-07": 2817,
-  "2023-07-08": 2820,
-  "2023-07-09": 2830,
-  "2023-07-10": 2833,
-  "2023-07-11": 2835,
-  "2023-07-12": 2844,
-  "2023-07-13": 2850,
-  "2023-07-14": 2852,
-  "2023-07-15": 2853,
-  "2023-07-16": 2858,
-  "2023-07-17": 2866,
-  "2023-07-18": 2873,
-  "2023-07-19": 2881,
-  "2023-07-20": 2886,
-  "2023-07-21": 2892,
-  "2023-07-22": 2894,
-  "2023-07-23": 2898,
-  "2023-07-24": 2904,
-  "2023-07-25": 2904,
-  "2023-07-26": 2909,
-  "2023-07-27": 2916,
-  "2023-07-28": 2920,
-  "2023-07-29": 2926,
-  "2023-07-30": 2932,
-  "2023-07-31": 2938,
-  "2023-08-01": 2943,
-  "2023-08-02": 2944,
-  "2023-08-03": 2948,
-  "2023-08-04": 2954,
-  "2023-08-05": 2958,
-  "2023-08-06": 2967,
-  "2023-08-07": 2967,
-  "2023-08-08": 2972,
-  "2023-08-09": 2982,
-  "2023-08-10": 2988,
-  "2023-08-11": 2994,
-  "2023-08-12": 3002,
-  "2023-08-13": 3007,
-  "2023-08-14": 3008,
-  "2023-08-15": 3029,
-  "2023-08-16": 3029,
-  "2023-08-17": 3032,
-  "2023-08-18": 3043,
-  "2023-08-19": 3048,
-  "2023-08-20": 3049,
-  "2023-08-21": 3049,
-  "2023-08-22": 3050,
-  "2023-08-23": 3058,
-  "2023-08-24": 3065,
-  "2023-08-25": 3075,
-  "2023-08-26": 3084,
-  "2023-08-27": 3088,
-  "2023-08-28": 3090,
-  "2023-08-29": 3094,
-  "2023-08-30": 3103,
-  "2023-08-31": 3107,
-  "2023-09-01": 3121,
-  "2023-09-02": 3121,
-  "2023-09-03": 3126,
-  "2023-09-04": 3133,
-  "2023-09-05": 3139,
-  "2023-09-06": 3143,
-  "2023-09-07": 3147,
-  "2023-09-08": 3153,
-  "2023-09-09": 3158,
-  "2023-09-10": 3163,
-  "2023-09-11": 3169,
-  "2023-09-12": 3173,
-  "2023-09-13": 3176,
-  "2023-09-14": 3183,
-  "2023-09-15": 3184,
-  "2023-09-16": 3191,
-  "2023-09-17": 3194,
-  "2023-09-18": 3201,
-  "2023-09-19": 3214,
-  "2023-09-20": 3217,
-  "2023-09-21": 3224,
-  "2023-09-22": 3228,
-  "2023-09-23": 3232,
-  "2023-09-24": 3240,
-  "2023-09-25": 3247,
-  "2023-09-26": 3253,
-  "2023-09-27": 3257,
-  "2023-09-28": 3261,
-  "2023-09-29": 3265,
-  "2023-09-30": 3267,
-  "2023-10-01": 3274,
-  "2023-10-02": 3284,
-  "2023-10-03": 3291,
-  "2023-10-04": 3296,
-  "2023-10-05": 3305,
-  "2023-10-06": 3314,
-  "2023-10-07": 3317,
-  "2023-10-08": 3323,
-  "2023-10-09": 3327,
-  "2023-10-10": 3334,
-  "2023-10-11": 3341,
-  "2023-10-12": 3341,
-  "2023-10-13": 3346,
-  "2023-10-14": 3351,
-  "2023-10-15": 3354,
-  "2023-10-16": 3360,
-  "2023-10-17": 3362,
-  "2023-10-18": 3367,
-  "2023-10-19": 3370,
-  "2023-10-20": 3377,
-  "2023-10-21": 3381,
-  "2023-10-22": 3388,
-  "2023-10-23": 3393,
-  "2023-10-24": 3401,
-  "2023-10-25": 3407,
-  "2023-10-26": 3414,
-  "2023-10-27": 3413,
-  "2023-10-28": 3418,
-  "2023-10-29": 3422,
-  "2023-10-30": 3433,
-  "2023-10-31": 3433,
-  "2023-11-01": 3440,
-  "2023-11-02": 3445,
-  "2023-11-03": 3450,
-  "2023-11-04": 3456,
-  "2023-11-05": 3458,
-  "2023-11-06": 3464,
-  "2023-11-07": 3466,
-  "2023-11-08": 3470,
-  "2023-11-09": 3472,
-  "2023-11-10": 3475,
-  "2023-11-11": 3484,
-  "2023-11-12": 3485,
-  "2023-11-13": 3489,
-  "2023-11-14": 3491,
-  "2023-11-15": 3491,
-  "2023-11-16": 3499,
-  "2023-11-17": 3508,
-  "2023-11-18": 3508,
-  "2023-11-19": 3513,
-  "2023-11-20": 3522,
-  "2023-11-21": 3525,
-  "2023-11-22": 3528,
-  "2023-11-23": 3532,
-  "2023-11-24": 3539,
-  "2023-11-25": 3541,
-  "2023-11-26": 3551,
-  "2023-11-27": 3555,
-  "2023-11-28": 3563,
-  "2023-11-29": 3566,
-  "2023-11-30": 3566,
-  "2023-12-01": 3575,
-  "2023-12-02": 3582,
-  "2023-12-03": 3585,
-  "2023-12-04": 3588,
-  "2023-12-05": 3593,
-  "2023-12-06": 3600,
-  "2023-12-07": 3599,
-  "2023-12-08": 3611,
-  "2023-12-09": 3620,
-  "2023-12-10": 3628,
-  "2023-12-11": 3631,
-  "2023-12-12": 3636,
-  "2023-12-13": 3642,
-  "2023-12-14": 3651,
-  "2023-12-15": 3655,
-  "2023-12-16": 3662,
-  "2023-12-17": 3670,
-  "2023-12-18": 3678,
-  "2023-12-19": 3683,
-  "2023-12-20": 3685,
-  "2023-12-21": 3692,
-  "2023-12-22": 3696,
-  "2023-12-23": 3700,
-  "2023-12-24": 3707,
-  "2023-12-25": 3712,
-  "2023-12-26": 3718,
-  "2023-12-27": 3728,
-  "2023-12-30": 3749,
-  "2023-12-31": 3758,
-  "2024-01-01": 3764,
-  "2024-01-02": 3774,
-  "2024-01-03": 3783
+  "2024-01-17": 3836,
+  "date_first_scraped": "2023-03-22",
+  "description": "Listen to the soundtracks of GENIE TV's original drama Delivery Man. (\uc9c0\ub2c8TV \uc624\ub9ac\uc9c0\ub110 \ub4dc\ub77c\ub9c8 \ub51c\ub9ac\ubc84\ub9ac \ub9e8\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "\ub51c\ub9ac\ubc84\ub9ac\ub9e8 (Delivery Man)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc591\uc131\ud638",
+          "url": "https://open.spotify.com/artist/5NEkB67lWq9iKnfzAVjWjr"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105338,
+      "name": "AWKARD",
+      "url": "https://open.spotify.com/track/3LAPvYDpraJHwQsa1bcttN"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Choi Yechan",
+          "url": "https://open.spotify.com/artist/72vnHSpZ0Ehn7EnjQoBcGW"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126798,
+      "name": "Briefing",
+      "url": "https://open.spotify.com/track/554spZBkOyFORAm9cdMeQu"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc2b9\uc740",
+          "url": "https://open.spotify.com/artist/168kxantfzBhQz88AGg3JD"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102648,
+      "name": "CHEONG DAM DONG KOCH DO RYEONG",
+      "url": "https://open.spotify.com/track/3B91hw5PEIqSPrkXSHLPGJ"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Choi Yechan",
+          "url": "https://open.spotify.com/artist/72vnHSpZ0Ehn7EnjQoBcGW"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254140,
+      "name": "Confusion",
+      "url": "https://open.spotify.com/track/7yzAek5aACesovnB7I0uvS"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc724\uc815",
+          "url": "https://open.spotify.com/artist/43YnVYfAW1zcAofLQxz5V4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185340,
+      "name": "Confusion",
+      "url": "https://open.spotify.com/track/1LZ94xG2js1anosaV75Gcn"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Jung",
+          "url": "https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153664,
+      "name": "Dark Heart",
+      "url": "https://open.spotify.com/track/0rBWseMLpTxOMiMPaLxwYL"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/45NhpIvySrXGxhKv2u3HhB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220298,
+      "name": "Didn\u2019t love to fullest",
+      "url": "https://open.spotify.com/track/346MMYSVdjNlyN61rkmOWY"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/45NhpIvySrXGxhKv2u3HhB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220298,
+      "name": "Didn\u2019t love to fullest - Instrumental",
+      "url": "https://open.spotify.com/track/5Z3e87951foxdZowDjcogV"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164861,
+      "name": "Dream about You",
+      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164861,
+      "name": "Dream about You - Instrumental",
+      "url": "https://open.spotify.com/track/4k70P1EOktPIGE4fZaZNAk"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc804\uc885\uc5b8",
+          "url": "https://open.spotify.com/artist/1ejpbFlj50lsOHLgyfAWtd"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141003,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/7GrXUTLHqezoL3n7ZkoByf"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc804\uc885\uc5b8",
+          "url": "https://open.spotify.com/artist/1ejpbFlj50lsOHLgyfAWtd"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147848,
+      "name": "Enough day",
+      "url": "https://open.spotify.com/track/7JNxm9rX7xx4ttq4mmQpCw"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc2b9\uc740",
+          "url": "https://open.spotify.com/artist/168kxantfzBhQz88AGg3JD"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292022,
+      "name": "EUI SIM EUI NUN CHO RIEUI",
+      "url": "https://open.spotify.com/track/0fZPUCCeHnk2gx8bJEVEUR"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Jung",
+          "url": "https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159181,
+      "name": "Evildoer",
+      "url": "https://open.spotify.com/track/2ojZM7hdbtoORck79GXx6h"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        },
+        {
+          "name": "Kim Ho Jung",
+          "url": "https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167046,
+      "name": "Flute tension",
+      "url": "https://open.spotify.com/track/4amLYGXi7PtS65rPK4UJex"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Jung",
+          "url": "https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169293,
+      "name": "Full Account",
+      "url": "https://open.spotify.com/track/7ugKlKYdvdcFqAkIiKwmSl"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137945,
+      "name": "Gloomy Driver",
+      "url": "https://open.spotify.com/track/7ou4CDQnMYF4BfWZQzfhfr"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc804\uc885\uc5b8",
+          "url": "https://open.spotify.com/artist/1ejpbFlj50lsOHLgyfAWtd"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120088,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/2Qwx0KUi8nBJSzLNIsA3hk"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165525,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/67U3Swh7e7PdXZ1UrYz5O6"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        },
+        {
+          "name": "\uc774\uc724\uc815",
+          "url": "https://open.spotify.com/artist/43YnVYfAW1zcAofLQxz5V4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Investigation",
+      "url": "https://open.spotify.com/track/6Q6NvHID2eNY0TDX6uEG1s"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Min Jiyoung",
+          "url": "https://open.spotify.com/artist/1fvAyNDunWxAK51ma9uJd4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Investigation",
+      "url": "https://open.spotify.com/track/0OKPU8mfp37imWYiM5LmK9"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc591\uc131\ud638",
+          "url": "https://open.spotify.com/artist/5NEkB67lWq9iKnfzAVjWjr"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141581,
+      "name": "I\u2032m Ghost",
+      "url": "https://open.spotify.com/track/1SLXhsNHIkUreXD84VIccH"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Min Jiyoung",
+          "url": "https://open.spotify.com/artist/1fvAyNDunWxAK51ma9uJd4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241489,
+      "name": "Killer Instinct",
+      "url": "https://open.spotify.com/track/65eLGWG0zKDFOnZgIGvyyI"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc804\uc885\uc5b8",
+          "url": "https://open.spotify.com/artist/1ejpbFlj50lsOHLgyfAWtd"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148882,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3CJEftu7TNrdjveUjYt2tw"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192561,
+      "name": "Look at you, my dear",
+      "url": "https://open.spotify.com/track/3EdGKdyRKhSrtqoqQAXZAo"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc724\uc815",
+          "url": "https://open.spotify.com/artist/43YnVYfAW1zcAofLQxz5V4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172946,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/0bmDQTkR2w2i2OtwI4S0ys"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273453,
+      "name": "Love with ghost",
+      "url": "https://open.spotify.com/track/040EsRIDUTGAhksVpntlbF"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Jung",
+          "url": "https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111483,
+      "name": "Lovey-Dovey",
+      "url": "https://open.spotify.com/track/7i192SGgUHe018ohz0kCKZ"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307159,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/7dUcnCsSCZE1dAdwUKP7RL"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Monologue",
+      "url": "https://open.spotify.com/track/5u9GVmNf3nVQqhuJx4W8pg"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\ube14\ub8e8\ud0a4",
+          "url": "https://open.spotify.com/artist/7KbMn3yuGgzCotcFCtm3zL"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117398,
+      "name": "Morning Walk",
+      "url": "https://open.spotify.com/track/6kOwCzup4mbyGs3a7UmYx4"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Jung",
+          "url": "https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF"
+        },
+        {
+          "name": "\ube14\ub8e8\ud0a4",
+          "url": "https://open.spotify.com/artist/7KbMn3yuGgzCotcFCtm3zL"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24157,
+      "name": "Opening Signal",
+      "url": "https://open.spotify.com/track/6jNuWvdZ4xmHltQehWxsDX"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Jung",
+          "url": "https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196299,
+      "name": "Operation",
+      "url": "https://open.spotify.com/track/2VBaWzJkaBKhSTjnW160MH"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Min Jiyoung",
+          "url": "https://open.spotify.com/artist/1fvAyNDunWxAK51ma9uJd4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223391,
+      "name": "Perfect Proof",
+      "url": "https://open.spotify.com/track/25QG2DQXtUFnuMqgOA0tmI"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\ube14\ub8e8\ud0a4",
+          "url": "https://open.spotify.com/artist/7KbMn3yuGgzCotcFCtm3zL"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180522,
+      "name": "Possession",
+      "url": "https://open.spotify.com/track/3FHbMOYKMZ274zv71qMzfK"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Min Jiyoung",
+          "url": "https://open.spotify.com/artist/1fvAyNDunWxAK51ma9uJd4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154063,
+      "name": "Pretty woman",
+      "url": "https://open.spotify.com/track/1vElpG8Wuw1CJJQLO05le2"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        },
+        {
+          "name": "Min Jiyoung",
+          "url": "https://open.spotify.com/artist/1fvAyNDunWxAK51ma9uJd4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183751,
+      "name": "Regrettable",
+      "url": "https://open.spotify.com/track/7A3RjLQ1cIICPILAO8NQmz"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173174,
+      "name": "Rock Chaser",
+      "url": "https://open.spotify.com/track/1WuVBbEiw39yisYKFTDPIk"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240444,
+      "name": "Sad story",
+      "url": "https://open.spotify.com/track/7vACxI8JpaYLD0WSAS0SaF"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc2b9\uc740",
+          "url": "https://open.spotify.com/artist/168kxantfzBhQz88AGg3JD"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221345,
+      "name": "SAL IN MA",
+      "url": "https://open.spotify.com/track/2WWmcqXyKnVJpGLwh7VV3R"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc724\uc815",
+          "url": "https://open.spotify.com/artist/43YnVYfAW1zcAofLQxz5V4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106348,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/2WE2Zi50HIPIxdfKGuiJKt"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Jung",
+          "url": "https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192838,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3Uz8ZW3weTx4biSALGA4YP"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc591\uc131\ud638",
+          "url": "https://open.spotify.com/artist/5NEkB67lWq9iKnfzAVjWjr"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159276,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/13GP4yoZqiBp1TdlTMzunZ"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Cylb0KgMxE6lNugSBBrs0"
+      },
+      "artists": [
+        {
+          "name": "U Sung Eun",
+          "url": "https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259217,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/723R3NH8RpJ2qUtjsiRNGY"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Cylb0KgMxE6lNugSBBrs0"
+      },
+      "artists": [
+        {
+          "name": "U Sung Eun",
+          "url": "https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259217,
+      "name": "Starlight - Instrumental",
+      "url": "https://open.spotify.com/track/5EMIGcFkeFDD9AI3LJ1jEP"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6mOZeWDgFFPyucNrUl4Ied"
+      },
+      "artists": [
+        {
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159034,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/7E6PllCLelrFIzcoG3sMWl"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6mOZeWDgFFPyucNrUl4Ied"
+      },
+      "artists": [
+        {
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159034,
+      "name": "Stuck on You - Instrumental",
+      "url": "https://open.spotify.com/track/3Qvda3PiZGSluOsAztzoPN"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Min Jiyoung",
+          "url": "https://open.spotify.com/artist/1fvAyNDunWxAK51ma9uJd4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159490,
+      "name": "Suspicious Look",
+      "url": "https://open.spotify.com/track/0cPtl1rjzN9vXqZ1SC3By2"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc724\uc815",
+          "url": "https://open.spotify.com/artist/43YnVYfAW1zcAofLQxz5V4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110387,
+      "name": "Tease ya",
+      "url": "https://open.spotify.com/track/1xXsusUbo0EZK8dF6KxanZ"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Min Jiyoung",
+          "url": "https://open.spotify.com/artist/1fvAyNDunWxAK51ma9uJd4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156543,
+      "name": "The Clue",
+      "url": "https://open.spotify.com/track/2fdVaZHDtrqBMpJcc9HdmN"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199234,
+      "name": "Their own story",
+      "url": "https://open.spotify.com/track/6pOin2pLy6oIU9cTDjrvuF"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1zDIqmrLYyO5HK7hEzcITV"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242130,
+      "name": "Trying too hard",
+      "url": "https://open.spotify.com/track/3BNSZOeVDkxVfawEaMqj5l"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1zDIqmrLYyO5HK7hEzcITV"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242130,
+      "name": "Trying too hard - Instrumental",
+      "url": "https://open.spotify.com/track/4YJhmoJXRhQ7sKzXpd3NL7"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Jung",
+          "url": "https://open.spotify.com/artist/3SCwzVE3oKJGtu8WEDzYCF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112149,
+      "name": "Wacky Shaman",
+      "url": "https://open.spotify.com/track/3zXg8z78X8Yr4sENGf9KAp"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151280,
+      "name": "Wait for me",
+      "url": "https://open.spotify.com/track/7d9JINMk2JhbMxwUmapMp6"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1k2WDyfk5bfjnVhKi2enLC"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282943,
+      "name": "What do you think",
+      "url": "https://open.spotify.com/track/67eDtcGNwhdNbjAJCuTd23"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1k2WDyfk5bfjnVhKi2enLC"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282943,
+      "name": "What do you think - Instrumental",
+      "url": "https://open.spotify.com/track/4njlAyCTCIMqKzWAcKTFTs"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "\ube14\ub8e8\ud0a4",
+          "url": "https://open.spotify.com/artist/7KbMn3yuGgzCotcFCtm3zL"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147758,
+      "name": "Witch Craft",
+      "url": "https://open.spotify.com/track/6f1bOzoV8XFiD9iO66xjvi"
+    },
+    {
+      "album": {
+        "name": "Delivery Man (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0zI5s1HXvERO0NtPi1JND9"
+      },
+      "artists": [
+        {
+          "name": "KIM JONG CHEON",
+          "url": "https://open.spotify.com/artist/5hyZ5vpQGX6wLBmQcjul86"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161588,
+      "name": "Young Driver",
+      "url": "https://open.spotify.com/track/0aECWzYihtd7MMh36ZbdKQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSSPWTO4n5fg"
 }

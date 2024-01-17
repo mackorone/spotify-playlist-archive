@@ -391,6 +391,28 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146974,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
+    },
+    {
+      "album": {
         "name": "All That Really Matters",
         "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
       },
@@ -1339,6 +1361,54 @@
     },
     {
       "album": {
+        "name": "Boyz In Paris (with VINAI) [W&W HardRave Mix]",
+        "url": "https://open.spotify.com/album/5J3sxGutwiBWPWYw09lPIU"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Boyz In Paris (with VINAI) - W&W HardRave Mix",
+      "url": "https://open.spotify.com/track/3Qwq1lbufsx31JT77vEViw"
+    },
+    {
+      "album": {
+        "name": "Braveheart",
+        "url": "https://open.spotify.com/album/4TIgzjrtDj1vwmMj0QmtqI"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154137,
+      "name": "Braveheart",
+      "url": "https://open.spotify.com/track/7KuVXr3k0iG9cSSjPiYFnd"
+    },
+    {
+      "album": {
         "name": "Breakfast In Vegas",
         "url": "https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI"
       },
@@ -1839,6 +1909,28 @@
     },
     {
       "album": {
+        "name": "Cold As Ice",
+        "url": "https://open.spotify.com/album/0kNH2aq9qjBK9XkkU5qDws"
+      },
+      "artists": [
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Cold As Ice",
+      "url": "https://open.spotify.com/track/2fssZIaA2mSpr1FyQik2CT"
+    },
+    {
+      "album": {
         "name": "Colorblind (feat. Dayseeker)",
         "url": "https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35"
       },
@@ -2118,6 +2210,28 @@
       "duration_ms": 173270,
       "name": "Day & Nite",
       "url": "https://open.spotify.com/track/5fgT3t3IYunBVjKhEzJZv6"
+    },
+    {
+      "album": {
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144648,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
     {
       "album": {
@@ -2416,7 +2530,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 205479,
       "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
       "url": "https://open.spotify.com/track/1Yqe3VYgjOhhJLtqkla2zc"
@@ -2566,6 +2680,58 @@
       "duration_ms": 153809,
       "name": "Drop That Low (When I Dip)",
       "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
+    },
+    {
+      "album": {
+        "name": "Drums (Feat. Kim Petras) [Schak Remix]",
+        "url": "https://open.spotify.com/album/5eH4rGfA7GoCl0MOJKhHJx"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Schak",
+          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 174155,
+      "name": "Drums (Feat. Kim Petras) - Schak Remix",
+      "url": "https://open.spotify.com/track/1PoUFTvibu1LhNcMaRg5Hr"
+    },
+    {
+      "album": {
+        "name": "Drums (Feat. Kim Petras) [Tiesto Remix]",
+        "url": "https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Drums (Feat. Kim Petras) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/5QZmUKPG3uPU0hwJuHwfGD"
     },
     {
       "album": {
@@ -3036,7 +3202,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 160949,
       "name": "Everytime Next To Me (feat. Robin Bengtsson)",
       "url": "https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p"
@@ -3410,7 +3576,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 190147,
       "name": "Follow",
       "url": "https://open.spotify.com/track/0ysBN9XI9EDyFgUFIQC4PN"
@@ -5289,6 +5455,24 @@
     },
     {
       "album": {
+        "name": "JADORE",
+        "url": "https://open.spotify.com/album/6JCNiK2omkTCaSIY4T8jqy"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183611,
+      "name": "JADORE",
+      "url": "https://open.spotify.com/track/06OltiIy1dV28UGNPT1Ck7"
+    },
+    {
+      "album": {
         "name": "Jolene (Destructo Remix)",
         "url": "https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi"
       },
@@ -6414,7 +6598,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 132000,
       "name": "Meet Her - Ti\u00ebsto vs. Da Hool",
       "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
@@ -6620,6 +6804,28 @@
       "duration_ms": 200000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2lxoIZS8tpFwbiJyrDYguI"
+    },
+    {
+      "album": {
+        "name": "Missing You (feat. Nate Smith)",
+        "url": "https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187258,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
     },
     {
       "album": {
@@ -7463,6 +7669,24 @@
     },
     {
       "album": {
+        "name": "Oldskool Sound",
+        "url": "https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216363,
+      "name": "Oldskool Sound",
+      "url": "https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL"
+    },
+    {
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -7637,6 +7861,28 @@
     },
     {
       "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/1Gs764PMeLiNXxvYWuzTwb"
+      },
+      "artists": [
+        {
+          "name": "Jay Hardway",
+          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
+        },
+        {
+          "name": "SGNLS",
+          "url": "https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "On The Run",
+      "url": "https://open.spotify.com/track/21Wk7BiSktwXrHZHlrnu6o"
+    },
+    {
+      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1uLIr0QsdPXJ3pUzHV1MoC"
       },
@@ -7740,7 +7986,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 159665,
       "name": "One in a Million - David Guetta Remix",
       "url": "https://open.spotify.com/track/1ump437qGe1gqRkMHg266F"
@@ -8942,7 +9188,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 160800,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1taZgqmYybM7nXGje9u4HH"
@@ -9344,7 +9590,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 218666,
       "name": "Save Me (From Myself) (feat. Kyle Hume)",
       "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
@@ -9704,6 +9950,14 @@
           "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
         },
         {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
@@ -9798,7 +10052,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 155909,
       "name": "Shotgun (It Ain't Over)",
       "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
@@ -9907,17 +10161,17 @@
     },
     {
       "album": {
-        "name": "Smells Like Teen Spirit (feat. Nito-Onna)",
+        "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
       },
       "artists": [
         {
-          "name": "Coopex",
-          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
-        },
-        {
           "name": "Naeleck",
           "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Coopex",
+          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
         },
         {
           "name": "Dunc\u00e1n",
@@ -9932,7 +10186,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160758,
-      "name": "Smells Like Teen Spirit (feat. Nito-Onna)",
+      "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
     },
     {
@@ -11332,7 +11586,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 181874,
       "name": "Together",
       "url": "https://open.spotify.com/track/5dV7j9CsYRqZY60LxcW1SF"
@@ -11358,6 +11612,32 @@
       "duration_ms": 139333,
       "name": "Told You So - Digital Farm Animals Remix",
       "url": "https://open.spotify.com/track/1kXEG2odF4cL4H8bFwyGrs"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Comes",
+        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211771,
+      "name": "Tomorrow Comes",
+      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
     },
     {
       "album": {
@@ -11478,7 +11758,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 144360,
       "name": "Tsunami (Gabry Ponte Remix)",
       "url": "https://open.spotify.com/track/3wgHsBRNmHDI94vJf5ivpC"
@@ -11820,6 +12100,28 @@
       "duration_ms": 139563,
       "name": "Wasted Love (feat. Lagique)",
       "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
+    },
+    {
+      "album": {
+        "name": "Watch Me Break Free",
+        "url": "https://open.spotify.com/album/33ZxKF1zK5V3lsrvRaIiwW"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 161377,
+      "name": "Watch Me Break Free",
+      "url": "https://open.spotify.com/track/7AfY7tbTfL5l74UOafmyZD"
     },
     {
       "album": {
@@ -12328,7 +12630,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 182812,
       "name": "Womp",
       "url": "https://open.spotify.com/track/2AK9QW44BEnCzvfCSlD7uW"

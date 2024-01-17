@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,424 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,512 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Buniyaad 2.0](https://open.spotify.com/track/45vZrnB268uU9nYHIpk2Wf) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Maja Ma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UyrHiVW3kVm5YgDNlF8q9) | 4:11 |
 | 50 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/3UPesdwW261UnhOg03Coy7) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3p6PTmeOHxfxNaqSFpMAVJ) | 0:55 |
 
-Snapshot ID: `MCwyNDQ2MGUzMTIwOGFmYTc4M2NlZmRhZjdmZGIwYmFmNGY3MmQ5N2I2`
+Snapshot ID: `MCw0NjM2YTYyNjk2ZWI3OTM3YTRkYmE0NjJlMGFjMGJkZjU3OGJhMWEz`

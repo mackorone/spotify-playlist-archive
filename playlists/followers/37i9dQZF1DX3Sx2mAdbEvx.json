@@ -1,728 +1,965 @@
 {
-  "2022-01-01": 24936,
-  "2022-01-02": 24981,
-  "2022-01-03": 25051,
-  "2022-01-04": 25139,
-  "2022-01-05": 25221,
-  "2022-01-06": 25299,
-  "2022-01-07": 25353,
-  "2022-01-08": 25533,
-  "2022-01-09": 25533,
-  "2022-01-10": 25614,
-  "2022-01-11": 25678,
-  "2022-01-12": 25747,
-  "2022-01-13": 25841,
-  "2022-01-14": 25951,
-  "2022-01-15": 26103,
-  "2022-01-16": 26114,
-  "2022-01-17": 26275,
-  "2022-01-18": 26287,
-  "2022-01-19": 26324,
-  "2022-01-20": 26412,
-  "2022-01-21": 26484,
-  "2022-01-22": 26554,
-  "2022-01-23": 26658,
-  "2022-01-24": 26747,
-  "2022-01-25": 26826,
-  "2022-01-26": 26896,
-  "2022-01-27": 26959,
-  "2022-01-28": 27039,
-  "2022-01-29": 27114,
-  "2022-01-30": 27211,
-  "2022-01-31": 27298,
-  "2022-02-01": 27362,
-  "2022-02-02": 27430,
-  "2022-02-03": 27502,
-  "2022-02-04": 27575,
-  "2022-02-05": 27643,
-  "2022-02-06": 27731,
-  "2022-02-07": 27801,
-  "2022-02-08": 27862,
-  "2022-02-09": 27935,
-  "2022-02-10": 28001,
-  "2022-02-11": 28084,
-  "2022-02-12": 28140,
-  "2022-02-13": 28206,
-  "2022-02-14": 28276,
-  "2022-02-15": 28337,
-  "2022-02-16": 28416,
-  "2022-02-17": 5799,
-  "2022-02-18": 5799,
-  "2022-02-19": 5799,
-  "2022-02-20": 5799,
-  "2022-02-21": 5799,
-  "2022-02-22": 5799,
-  "2022-02-23": 5799,
-  "2022-02-24": 5799,
-  "2022-02-25": 5799,
-  "2022-02-26": 5799,
-  "2022-02-27": 5799,
-  "2022-02-28": 5799,
-  "2022-03-01": 5799,
-  "2022-03-02": 5799,
-  "2022-03-03": 5799,
-  "2022-03-04": 5799,
-  "2022-03-05": 5799,
-  "2022-03-06": 5799,
-  "2022-03-07": 5799,
-  "2022-03-08": 5799,
-  "2022-03-09": 5799,
-  "2022-03-10": 5799,
-  "2022-03-11": 5799,
-  "2022-03-12": 5799,
-  "2022-03-13": 5799,
-  "2022-03-14": 5799,
-  "2022-03-15": 5799,
-  "2022-03-16": 5799,
-  "2022-03-17": 5799,
-  "2022-03-18": 5799,
-  "2022-03-19": 5799,
-  "2022-03-20": 5799,
-  "2022-03-21": 5799,
-  "2022-03-22": 5799,
-  "2022-03-23": 5799,
-  "2022-03-24": 5799,
-  "2022-03-25": 5799,
-  "2022-03-26": 5799,
-  "2022-03-27": 5799,
-  "2022-03-28": 5799,
-  "2022-03-30": 5799,
-  "2022-03-31": 5799,
-  "2022-04-01": 5799,
-  "2022-04-02": 5799,
-  "2022-04-03": 5799,
-  "2022-04-04": 5799,
-  "2022-04-05": 5799,
-  "2022-04-06": 5799,
-  "2022-04-07": 5799,
-  "2022-04-08": 5799,
-  "2022-04-09": 5799,
-  "2022-04-10": 5799,
-  "2022-04-11": 5799,
-  "2022-04-12": 5799,
-  "2022-04-13": 5799,
-  "2022-04-14": 5799,
-  "2022-04-15": 5799,
-  "2022-04-16": 5799,
-  "2022-04-17": 5799,
-  "2022-04-18": 5799,
-  "2022-04-19": 5799,
-  "2022-04-20": 5799,
-  "2022-04-21": 5799,
-  "2022-04-22": 5799,
-  "2022-04-23": 5799,
-  "2022-04-24": 5799,
-  "2022-04-25": 5799,
-  "2022-04-26": 5799,
-  "2022-04-27": 5799,
-  "2022-04-28": 5799,
-  "2022-04-29": 5799,
-  "2022-04-30": 5799,
-  "2022-05-01": 5799,
-  "2022-05-02": 5799,
-  "2022-05-03": 5799,
-  "2022-05-04": 5799,
-  "2022-05-05": 5799,
-  "2022-05-06": 5799,
-  "2022-05-07": 5799,
-  "2022-05-08": 5799,
-  "2022-05-09": 5799,
-  "2022-05-10": 5799,
-  "2022-05-11": 5799,
-  "2022-05-12": 5799,
-  "2022-05-13": 5799,
-  "2022-05-14": 5799,
-  "2022-05-15": 5799,
-  "2022-05-16": 5799,
-  "2022-05-17": 5799,
-  "2022-05-18": 5799,
-  "2022-05-19": 5799,
-  "2022-05-20": 5799,
-  "2022-05-21": 5799,
-  "2022-05-22": 5799,
-  "2022-05-23": 5799,
-  "2022-05-24": 5799,
-  "2022-05-25": 5799,
-  "2022-05-26": 5799,
-  "2022-05-27": 5799,
-  "2022-05-28": 5799,
-  "2022-05-29": 5799,
-  "2022-05-30": 5799,
-  "2022-05-31": 5799,
-  "2022-06-01": 5799,
-  "2022-06-02": 5799,
-  "2022-06-03": 5799,
-  "2022-06-04": 5799,
-  "2022-06-05": 5799,
-  "2022-06-06": 5799,
-  "2022-06-07": 5799,
-  "2022-06-08": 5799,
-  "2022-06-09": 5799,
-  "2022-06-10": 5799,
-  "2022-06-11": 5799,
-  "2022-06-12": 5799,
-  "2022-06-13": 5799,
-  "2022-06-14": 5799,
-  "2022-06-15": 5799,
-  "2022-06-16": 5799,
-  "2022-06-17": 5799,
-  "2022-06-18": 5799,
-  "2022-06-19": 5799,
-  "2022-06-20": 5799,
-  "2022-06-21": 5799,
-  "2022-06-22": 5799,
-  "2022-06-23": 5799,
-  "2022-06-24": 5799,
-  "2022-06-25": 5799,
-  "2022-06-26": 5799,
-  "2022-06-27": 5799,
-  "2022-06-28": 5799,
-  "2022-06-29": 5799,
-  "2022-06-30": 5799,
-  "2022-07-01": 5799,
-  "2022-07-02": 5799,
-  "2022-07-03": 5799,
-  "2022-07-04": 5799,
-  "2022-07-05": 5799,
-  "2022-07-06": 5799,
-  "2022-07-07": 5799,
-  "2022-07-08": 5799,
-  "2022-07-09": 5799,
-  "2022-07-10": 5799,
-  "2022-07-11": 5799,
-  "2022-07-12": 5799,
-  "2022-07-13": 5799,
-  "2022-07-14": 5799,
-  "2022-07-15": 5799,
-  "2022-07-16": 5799,
-  "2022-07-17": 5799,
-  "2022-07-18": 5799,
-  "2022-07-19": 5799,
-  "2022-07-20": 5799,
-  "2022-07-21": 5799,
-  "2022-07-22": 5799,
-  "2022-07-23": 5799,
-  "2022-07-24": 5799,
-  "2022-07-25": 5799,
-  "2022-07-26": 5799,
-  "2022-07-27": 5799,
-  "2022-07-28": 5799,
-  "2022-07-29": 5799,
-  "2022-07-30": 5799,
-  "2022-07-31": 5799,
-  "2022-08-01": 5799,
-  "2022-08-02": 5799,
-  "2022-08-03": 5799,
-  "2022-08-04": 5799,
-  "2022-08-05": 5799,
-  "2022-08-06": 5799,
-  "2022-08-07": 5799,
-  "2022-08-08": 5799,
-  "2022-08-09": 5799,
-  "2022-08-10": 5799,
-  "2022-08-11": 5799,
-  "2022-08-12": 5799,
-  "2022-08-13": 5799,
-  "2022-08-14": 5799,
-  "2022-08-15": 5799,
-  "2022-08-16": 5799,
-  "2022-08-17": 5799,
-  "2022-08-18": 5799,
-  "2022-08-19": 5799,
-  "2022-08-20": 5799,
-  "2022-08-21": 5799,
-  "2022-08-22": 5799,
-  "2022-08-23": 5799,
-  "2022-08-24": 5799,
-  "2022-08-25": 5799,
-  "2022-08-26": 5799,
-  "2022-08-27": 5799,
-  "2022-08-28": 5799,
-  "2022-08-29": 5799,
-  "2022-08-30": 5799,
-  "2022-08-31": 5799,
-  "2022-09-01": 5799,
-  "2022-09-02": 5799,
-  "2022-09-03": 5799,
-  "2022-09-04": 5799,
-  "2022-09-05": 5799,
-  "2022-09-06": 5799,
-  "2022-09-07": 5799,
-  "2022-09-09": 5799,
-  "2022-09-10": 5799,
-  "2022-09-11": 5799,
-  "2022-09-12": 5799,
-  "2022-09-13": 5799,
-  "2022-09-15": 5799,
-  "2022-09-16": 5799,
-  "2022-09-17": 5799,
-  "2022-09-18": 5799,
-  "2022-09-19": 5799,
-  "2022-09-20": 5799,
-  "2022-09-21": 5799,
-  "2022-09-22": 5799,
-  "2022-09-23": 5799,
-  "2022-09-24": 5799,
-  "2022-09-25": 5799,
-  "2022-09-26": 5799,
-  "2022-09-27": 5799,
-  "2022-09-28": 5799,
-  "2022-09-29": 5799,
-  "2022-09-30": 5799,
-  "2022-10-01": 5799,
-  "2022-10-02": 5799,
-  "2022-10-03": 5799,
-  "2022-10-04": 5799,
-  "2022-10-05": 5799,
-  "2022-10-06": 5799,
-  "2022-10-07": 5799,
-  "2022-10-08": 5799,
-  "2022-10-09": 5799,
-  "2022-10-10": 5799,
-  "2022-10-11": 5799,
-  "2022-10-12": 5799,
-  "2022-10-13": 5799,
-  "2022-10-14": 5799,
-  "2022-10-15": 5799,
-  "2022-10-16": 5799,
-  "2022-10-17": 5799,
-  "2022-10-18": 5799,
-  "2022-10-19": 5799,
-  "2022-10-20": 5799,
-  "2022-10-21": 5799,
-  "2022-10-22": 5799,
-  "2022-10-23": 5799,
-  "2022-10-24": 5799,
-  "2022-10-25": 5799,
-  "2022-10-26": 5799,
-  "2022-10-27": 5799,
-  "2022-10-28": 5799,
-  "2022-10-29": 5799,
-  "2022-10-30": 5799,
-  "2022-10-31": 5799,
-  "2022-11-01": 5799,
-  "2022-11-02": 5799,
-  "2022-11-03": 5799,
-  "2022-11-04": 5799,
-  "2022-11-05": 5799,
-  "2022-11-06": 5799,
-  "2022-11-07": 5799,
-  "2022-11-08": 5799,
-  "2022-11-09": 5799,
-  "2022-11-10": 5799,
-  "2022-11-11": 5799,
-  "2022-11-12": 5799,
-  "2022-11-13": 5799,
-  "2022-11-14": 5799,
-  "2022-11-15": 5799,
-  "2022-11-16": 5799,
-  "2022-11-17": 5799,
-  "2022-11-18": 5799,
-  "2022-11-19": 5799,
-  "2022-11-20": 5799,
-  "2022-11-21": 5799,
-  "2022-11-22": 5799,
-  "2022-11-23": 5799,
-  "2022-11-24": 5799,
-  "2022-11-25": 5799,
-  "2022-11-26": 5799,
-  "2022-11-27": 5799,
-  "2022-11-28": 5799,
-  "2022-11-29": 5799,
-  "2022-11-30": 5799,
-  "2022-12-01": 5799,
-  "2022-12-02": 5799,
-  "2022-12-03": 5799,
-  "2022-12-04": 5799,
-  "2022-12-05": 5799,
-  "2022-12-06": 5799,
-  "2022-12-07": 5799,
-  "2022-12-08": 5799,
-  "2022-12-09": 5799,
-  "2022-12-10": 5799,
-  "2022-12-11": 5799,
-  "2022-12-12": 5799,
-  "2022-12-13": 5799,
-  "2022-12-14": 5799,
-  "2022-12-15": 5799,
-  "2022-12-16": 5799,
-  "2022-12-17": 5799,
-  "2022-12-18": 5799,
-  "2022-12-19": 5799,
-  "2022-12-20": 5799,
-  "2022-12-21": 5799,
-  "2022-12-22": 5799,
-  "2022-12-24": 5799,
-  "2022-12-25": 5799,
-  "2022-12-26": 5799,
-  "2022-12-27": 5799,
-  "2022-12-28": 5799,
-  "2022-12-29": 5799,
-  "2022-12-30": 5799,
-  "2022-12-31": 5799,
-  "2023-01-01": 5799,
-  "2023-01-02": 5799,
-  "2023-01-03": 5799,
-  "2023-01-04": 5799,
-  "2023-01-05": 5799,
-  "2023-01-06": 5799,
-  "2023-01-07": 5799,
-  "2023-01-08": 5799,
-  "2023-01-09": 5799,
-  "2023-01-10": 5799,
-  "2023-01-11": 5799,
-  "2023-01-12": 5799,
-  "2023-01-13": 5799,
-  "2023-01-14": 5799,
-  "2023-01-15": 5799,
-  "2023-01-16": 5799,
-  "2023-01-17": 5799,
-  "2023-01-18": 5799,
-  "2023-01-19": 5799,
-  "2023-01-20": 5799,
-  "2023-01-21": 5799,
-  "2023-01-22": 5799,
-  "2023-01-23": 5799,
-  "2023-01-24": 5799,
-  "2023-01-25": 5799,
-  "2023-01-26": 5799,
-  "2023-01-27": 5799,
-  "2023-01-28": 5799,
-  "2023-01-29": 5799,
-  "2023-01-30": 5799,
-  "2023-01-31": 5799,
-  "2023-02-01": 5799,
-  "2023-02-02": 5799,
-  "2023-02-03": 5799,
-  "2023-02-04": 5799,
-  "2023-02-05": 5799,
-  "2023-02-06": 5799,
-  "2023-02-07": 5799,
-  "2023-02-08": 5799,
-  "2023-02-09": 5799,
-  "2023-02-10": 5799,
-  "2023-02-11": 5799,
-  "2023-02-12": 5799,
-  "2023-02-13": 5799,
-  "2023-02-14": 5799,
-  "2023-02-15": 5799,
-  "2023-02-16": 5799,
-  "2023-02-17": 5799,
-  "2023-02-18": 5799,
-  "2023-02-19": 5799,
-  "2023-02-20": 5799,
-  "2023-02-21": 5799,
-  "2023-02-22": 5799,
-  "2023-02-23": 5799,
-  "2023-02-24": 5799,
-  "2023-02-25": 5799,
-  "2023-02-26": 5799,
-  "2023-02-27": 5799,
-  "2023-02-28": 5799,
-  "2023-03-01": 5799,
-  "2023-03-02": 5799,
-  "2023-03-03": 5799,
-  "2023-03-04": 5799,
-  "2023-03-05": 5799,
-  "2023-03-06": 5799,
-  "2023-03-07": 5799,
-  "2023-03-08": 5799,
-  "2023-03-09": 5799,
-  "2023-03-10": 5799,
-  "2023-03-11": 5799,
-  "2023-03-12": 5799,
-  "2023-03-13": 5799,
-  "2023-03-14": 5799,
-  "2023-03-15": 5799,
-  "2023-03-16": 5799,
-  "2023-03-17": 5799,
-  "2023-03-18": 5799,
-  "2023-03-19": 5799,
-  "2023-03-20": 5799,
-  "2023-03-21": 5799,
-  "2023-03-22": 5799,
-  "2023-03-23": 5799,
-  "2023-03-24": 5799,
-  "2023-03-25": 5799,
-  "2023-03-26": 5799,
-  "2023-03-27": 5799,
-  "2023-03-28": 5799,
-  "2023-03-29": 5799,
-  "2023-03-30": 5799,
-  "2023-03-31": 5799,
-  "2023-04-01": 5799,
-  "2023-04-02": 5799,
-  "2023-04-03": 5799,
-  "2023-04-04": 5799,
-  "2023-04-05": 5799,
-  "2023-04-06": 5799,
-  "2023-04-07": 5799,
-  "2023-04-09": 5799,
-  "2023-04-10": 5799,
-  "2023-04-11": 5799,
-  "2023-04-12": 5799,
-  "2023-04-13": 5799,
-  "2023-04-14": 5799,
-  "2023-04-15": 5799,
-  "2023-04-16": 5799,
-  "2023-04-17": 5799,
-  "2023-04-18": 5799,
-  "2023-04-19": 5799,
-  "2023-04-20": 5799,
-  "2023-04-21": 5799,
-  "2023-04-22": 5799,
-  "2023-04-23": 5799,
-  "2023-04-24": 5799,
-  "2023-04-25": 5799,
-  "2023-04-26": 5799,
-  "2023-04-27": 5799,
-  "2023-04-28": 5799,
-  "2023-04-29": 5799,
-  "2023-04-30": 5799,
-  "2023-05-01": 5799,
-  "2023-05-02": 5799,
-  "2023-05-03": 5799,
-  "2023-05-04": 5799,
-  "2023-05-05": 5799,
-  "2023-05-06": 5799,
-  "2023-05-07": 5799,
-  "2023-05-08": 5799,
-  "2023-05-09": 5799,
-  "2023-05-10": 5799,
-  "2023-05-11": 5799,
-  "2023-05-12": 5799,
-  "2023-05-13": 5799,
-  "2023-05-14": 5799,
-  "2023-05-15": 5799,
-  "2023-05-16": 5799,
-  "2023-05-17": 5799,
-  "2023-05-18": 5799,
-  "2023-05-19": 5799,
-  "2023-05-20": 5799,
-  "2023-05-21": 5799,
-  "2023-05-22": 5799,
-  "2023-05-23": 5799,
-  "2023-05-24": 5799,
-  "2023-05-25": 5799,
-  "2023-05-26": 5799,
-  "2023-05-27": 5799,
-  "2023-05-28": 5799,
-  "2023-05-29": 5799,
-  "2023-05-30": 5799,
-  "2023-05-31": 5799,
-  "2023-06-01": 5799,
-  "2023-06-02": 5799,
-  "2023-06-03": 5799,
-  "2023-06-04": 5799,
-  "2023-06-05": 5799,
-  "2023-06-06": 5799,
-  "2023-06-07": 5799,
-  "2023-06-08": 5799,
-  "2023-06-09": 5799,
-  "2023-06-10": 5799,
-  "2023-06-11": 5799,
-  "2023-06-12": 5799,
-  "2023-06-13": 5799,
-  "2023-06-14": 5799,
-  "2023-06-15": 5799,
-  "2023-06-16": 5799,
-  "2023-06-17": 5799,
-  "2023-06-18": 5799,
-  "2023-06-19": 5799,
-  "2023-06-20": 5799,
-  "2023-06-21": 5799,
-  "2023-06-22": 5799,
-  "2023-06-23": 5799,
-  "2023-06-24": 5799,
-  "2023-06-25": 5799,
-  "2023-06-26": 5799,
-  "2023-06-27": 5799,
-  "2023-06-28": 5799,
-  "2023-06-29": 5799,
-  "2023-06-30": 5799,
-  "2023-07-01": 5799,
-  "2023-07-02": 5799,
-  "2023-07-03": 5799,
-  "2023-07-04": 5799,
-  "2023-07-05": 5799,
-  "2023-07-06": 5799,
-  "2023-07-07": 5799,
-  "2023-07-08": 5799,
-  "2023-07-09": 5799,
-  "2023-07-10": 5799,
-  "2023-07-11": 5799,
-  "2023-07-12": 5799,
-  "2023-07-13": 5799,
-  "2023-07-14": 5799,
-  "2023-07-15": 5799,
-  "2023-07-16": 5799,
-  "2023-07-17": 5799,
-  "2023-07-18": 5799,
-  "2023-07-19": 5799,
-  "2023-07-20": 5799,
-  "2023-07-21": 5799,
-  "2023-07-22": 5799,
-  "2023-07-23": 5799,
-  "2023-07-24": 5799,
-  "2023-07-25": 5799,
-  "2023-07-26": 5799,
-  "2023-07-27": 5799,
-  "2023-07-28": 5799,
-  "2023-07-29": 5799,
-  "2023-07-30": 5799,
-  "2023-07-31": 5799,
-  "2023-08-01": 5799,
-  "2023-08-02": 5799,
-  "2023-08-03": 5799,
-  "2023-08-04": 5799,
-  "2023-08-05": 5799,
-  "2023-08-06": 5799,
-  "2023-08-07": 5799,
-  "2023-08-08": 5799,
-  "2023-08-09": 5799,
-  "2023-08-10": 5799,
-  "2023-08-11": 5799,
-  "2023-08-12": 5799,
-  "2023-08-13": 5799,
-  "2023-08-14": 5799,
-  "2023-08-15": 5799,
-  "2023-08-16": 5799,
-  "2023-08-17": 5799,
-  "2023-08-18": 5799,
-  "2023-08-19": 5799,
-  "2023-08-20": 5799,
-  "2023-08-21": 5799,
-  "2023-08-22": 5799,
-  "2023-08-23": 5799,
-  "2023-08-24": 5799,
-  "2023-08-25": 5799,
-  "2023-08-26": 5799,
-  "2023-08-27": 5799,
-  "2023-08-28": 5799,
-  "2023-08-29": 5799,
-  "2023-08-30": 5799,
-  "2023-08-31": 5799,
-  "2023-09-01": 5799,
-  "2023-09-02": 5799,
-  "2023-09-03": 5799,
-  "2023-09-04": 5799,
-  "2023-09-05": 5799,
-  "2023-09-06": 5799,
-  "2023-09-07": 5799,
-  "2023-09-08": 5799,
-  "2023-09-09": 5799,
-  "2023-09-10": 5799,
-  "2023-09-11": 5799,
-  "2023-09-12": 5799,
-  "2023-09-13": 5799,
-  "2023-09-14": 5799,
-  "2023-09-15": 5799,
-  "2023-09-16": 5799,
-  "2023-09-17": 5799,
-  "2023-09-18": 5799,
-  "2023-09-19": 5799,
-  "2023-09-20": 5799,
-  "2023-09-21": 5799,
-  "2023-09-22": 5799,
-  "2023-09-23": 5799,
-  "2023-09-24": 5799,
-  "2023-09-25": 5799,
-  "2023-09-26": 5799,
-  "2023-09-27": 5799,
-  "2023-09-28": 5799,
-  "2023-09-29": 5799,
-  "2023-09-30": 5799,
-  "2023-10-01": 5799,
-  "2023-10-02": 5799,
-  "2023-10-03": 5799,
-  "2023-10-04": 5799,
-  "2023-10-05": 5799,
-  "2023-10-06": 5799,
-  "2023-10-07": 5799,
-  "2023-10-08": 5799,
-  "2023-10-09": 5799,
-  "2023-10-10": 5799,
-  "2023-10-11": 5799,
-  "2023-10-12": 5799,
-  "2023-10-13": 5799,
-  "2023-10-14": 5799,
-  "2023-10-15": 5799,
-  "2023-10-16": 5799,
-  "2023-10-17": 5799,
-  "2023-10-18": 5799,
-  "2023-10-19": 5799,
-  "2023-10-20": 5799,
-  "2023-10-21": 5799,
-  "2023-10-22": 5799,
-  "2023-10-23": 5799,
-  "2023-10-24": 5799,
-  "2023-10-25": 5799,
-  "2023-10-26": 5799,
-  "2023-10-27": 5799,
-  "2023-10-28": 5799,
-  "2023-10-29": 5799,
-  "2023-10-30": 5799,
-  "2023-10-31": 5799,
-  "2023-11-01": 5799,
-  "2023-11-02": 5799,
-  "2023-11-03": 5799,
-  "2023-11-04": 5799,
-  "2023-11-05": 5799,
-  "2023-11-06": 5799,
-  "2023-11-07": 5799,
-  "2023-11-08": 5799,
-  "2023-11-09": 5799,
-  "2023-11-10": 5799,
-  "2023-11-11": 5799,
-  "2023-11-12": 5799,
-  "2023-11-13": 5799,
-  "2023-11-14": 5799,
-  "2023-11-15": 5799,
-  "2023-11-16": 5799,
-  "2023-11-17": 5799,
-  "2023-11-18": 5799,
-  "2023-11-19": 5799,
-  "2023-11-20": 5799,
-  "2023-11-21": 5799,
-  "2023-11-22": 5799,
-  "2023-11-23": 5799,
-  "2023-11-24": 5799,
-  "2023-11-25": 5799,
-  "2023-11-26": 5799,
-  "2023-11-27": 5799,
-  "2023-11-28": 5799,
-  "2023-11-29": 5799,
-  "2023-11-30": 5799,
-  "2023-12-01": 5799,
-  "2023-12-02": 5799,
-  "2023-12-03": 5799,
-  "2023-12-04": 5799,
-  "2023-12-05": 5799,
-  "2023-12-06": 5799,
-  "2023-12-07": 5799,
-  "2023-12-08": 5799,
-  "2023-12-09": 5799,
-  "2023-12-10": 5799,
-  "2023-12-11": 5799,
-  "2023-12-12": 5799,
-  "2023-12-13": 5799,
-  "2023-12-14": 5799,
-  "2023-12-15": 5799,
-  "2023-12-16": 5799,
-  "2023-12-17": 5799,
-  "2023-12-18": 5799,
-  "2023-12-19": 5799,
-  "2023-12-20": 5799,
-  "2023-12-21": 5799,
-  "2023-12-22": 5799,
-  "2023-12-23": 5799,
-  "2023-12-24": 5799,
-  "2023-12-25": 5799,
-  "2023-12-26": 5799,
-  "2023-12-27": 5799,
-  "2023-12-30": 5799,
-  "2023-12-31": 5799,
-  "2024-01-01": 5799,
-  "2024-01-02": 5799,
-  "2024-01-03": 5799
+  "2024-01-17": 5799,
+  "date_first_scraped": "2022-01-01",
+  "description": "Iconic artists and voices. Cover: Ella Fitzgerald",
+  "name": "Vocal Jazz Classics",
+  "tracks": [
+    {
+      "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133666,
+      "name": "'Deed I Do",
+      "url": "https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1"
+    },
+    {
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/6jlhrQp4yRd0CBcFqwrCdf"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200933,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/3VS1qUm62nDLZJtxd0V2bb"
+    },
+    {
+      "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170960,
+      "name": "(I Left My Heart) In San Francisco",
+      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "album": {
+        "name": "Timeless: Billy Eckstine",
+        "url": "https://open.spotify.com/album/5etpGOnsRQD8pwjUTLm5nK"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181280,
+      "name": "(She's Got The) Blues For Sale",
+      "url": "https://open.spotify.com/track/55wCWY97H8b2au31iCdOYI"
+    },
+    {
+      "album": {
+        "name": "Get Happy! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142333,
+      "name": "A-Tisket, A-Tasket",
+      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
+    },
+    {
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
+    },
+    {
+      "album": {
+        "name": "Travelin' Light",
+        "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149640,
+      "name": "And I Love Him",
+      "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
+    },
+    {
+      "album": {
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
+    },
+    {
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
+    },
+    {
+      "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248013,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
+    },
+    {
+      "album": {
+        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136360,
+      "name": "Do Nothing 'Til You Hear From Me",
+      "url": "https://open.spotify.com/track/31yWQ2e7dxRKtkDdMr1Rlo"
+    },
+    {
+      "album": {
+        "name": "Every Day I Have The Blues",
+        "url": "https://open.spotify.com/album/37EUW2x5bcYSQrIqdCJd5w"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283226,
+      "name": "Every Day I Have the Blues",
+      "url": "https://open.spotify.com/track/1ZVV4uUYilEdZRySfKjvpx"
+    },
+    {
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
+    },
+    {
+      "album": {
+        "name": "Gone For The Day",
+        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137893,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
+    },
+    {
+      "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "God Bless The Child - 1956 Version",
+      "url": "https://open.spotify.com/track/6rX7Rgi2O5csTzLan7rL0c"
+    },
+    {
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201440,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+    },
+    {
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
+    },
+    {
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147413,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7"
+    },
+    {
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149826,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
+    },
+    {
+      "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230066,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
+    },
+    {
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "It's Always You - Vocal Version",
+      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
+    },
+    {
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+    },
+    {
+      "album": {
+        "name": "Finding A New Friend",
+        "url": "https://open.spotify.com/album/0FkmA7h02qT6fWUc8e6Y1W"
+      },
+      "artists": [
+        {
+          "name": "Oscar Brown, Jr.",
+          "url": "https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza"
+        },
+        {
+          "name": "Luiz Henrique",
+          "url": "https://open.spotify.com/artist/2mbbD0cLZxosXdwG7aVals"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Laia Ladaia",
+      "url": "https://open.spotify.com/track/77Exsrw2Wuf4PzXs7Gc9Ua"
+    },
+    {
+      "album": {
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223706,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3"
+    },
+    {
+      "album": {
+        "name": "My Kind Of Broadway",
+        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314133,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
+    },
+    {
+      "album": {
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "Lullaby Of Birdland",
+      "url": "https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259706,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+    },
+    {
+      "album": {
+        "name": "Torchy!",
+        "url": "https://open.spotify.com/album/0fydTKWkcqChJdGlD99vnd"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225040,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/6sgZk8YGy1WbpB3CpMH4yL"
+    },
+    {
+      "album": {
+        "name": "The Essential Bessie Smith",
+        "url": "https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Nobody Knows You When You're Down and Out - 78rpm Version",
+      "url": "https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP"
+    },
+    {
+      "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264373,
+      "name": "One For My Baby (And One More For The Road) - Remastered",
+      "url": "https://open.spotify.com/track/1qDTsxSnBxNwh6CdPWvkaz"
+    },
+    {
+      "album": {
+        "name": "The Complete Anita O'Day Verve-Clef Sessions",
+        "url": "https://open.spotify.com/album/5r3ZZRvdBuWIjsF6N6SDqO"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185640,
+      "name": "Peel Me A Grape",
+      "url": "https://open.spotify.com/track/16v818j90olbfaqnuimP8R"
+    },
+    {
+      "album": {
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X"
+    },
+    {
+      "album": {
+        "name": "Something Cool (1955 Mono Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
+    },
+    {
+      "album": {
+        "name": "Pure Ella",
+        "url": "https://open.spotify.com/album/1sVP1k1tw1hd95xkgiMj72"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300040,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2U8D3hTpsgAGZBnNLSoAZQ"
+    },
+    {
+      "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 298133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+    },
+    {
+      "album": {
+        "name": "God Bless The Child: Best Of Billie Holiday",
+        "url": "https://open.spotify.com/album/6PgYUQEXQUIcGvS6ioDw44"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202506,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/0rtwmfkjc2Kd7hwMEqfWak"
+    },
+    {
+      "album": {
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321826,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
+    },
+    {
+      "album": {
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342960,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/39CdOo5GPGSIdxWDvyyWkr"
+    },
+    {
+      "album": {
+        "name": "Brubeck And Rushing",
+        "url": "https://open.spotify.com/album/3mDnrQQWXOSVV1ixnjZzZG"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        },
+        {
+          "name": "Jimmy Rushing",
+          "url": "https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127133,
+      "name": "There'll Be Some Changes Made",
+      "url": "https://open.spotify.com/track/791XP1Sj2BCsf2CYTYje5h"
+    },
+    {
+      "album": {
+        "name": "1963: New Directions",
+        "url": "https://open.spotify.com/album/7pmiAWsrvNTzeiU0Upkdkz"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321066,
+      "name": "They Say It's Wonderful",
+      "url": "https://open.spotify.com/track/3VhAS0ferVrcN4ANKnGCmM"
+    },
+    {
+      "album": {
+        "name": "The Hottest New Group In Jazz",
+        "url": "https://open.spotify.com/album/2q4Htl4R4c3jkpbWqN0ZJ5"
+      },
+      "artists": [
+        {
+          "name": "Lambert, Hendricks & Ross",
+          "url": "https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135800,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/3BlH0FmO4ely9l2vzowc8H"
+    },
+    {
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+    },
+    {
+      "album": {
+        "name": "Dinah Washington - The Great American Songbook",
+        "url": "https://open.spotify.com/album/3zoDLuBtILNMGV555HHSu1"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152360,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/4GUvOaJiYlvFTKXDEg3QR6"
+    },
+    {
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139226,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
+      "album": {
+        "name": "Anita O'Day And The Three Sounds",
+        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Whisper Not",
+      "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
+    },
+    {
+      "album": {
+        "name": "You Better Go Now",
+        "url": "https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j"
+    },
+    {
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2021-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Sx2mAdbEvx"
 }

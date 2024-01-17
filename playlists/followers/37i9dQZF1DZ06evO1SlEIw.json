@@ -1,375 +1,603 @@
 {
-  "2022-12-24": 5007,
-  "2022-12-25": 5006,
-  "2022-12-26": 5012,
-  "2022-12-27": 5016,
-  "2022-12-28": 5022,
-  "2022-12-29": 5023,
-  "2022-12-30": 5023,
-  "2022-12-31": 5024,
-  "2023-01-01": 5028,
-  "2023-01-02": 5029,
-  "2023-01-03": 5031,
-  "2023-01-04": 5032,
-  "2023-01-05": 5038,
-  "2023-01-06": 5043,
-  "2023-01-07": 5046,
-  "2023-01-08": 5048,
-  "2023-01-09": 5052,
-  "2023-01-10": 5054,
-  "2023-01-11": 5059,
-  "2023-01-12": 5062,
-  "2023-01-13": 5064,
-  "2023-01-14": 5072,
-  "2023-01-15": 5072,
-  "2023-01-16": 5074,
-  "2023-01-17": 5077,
-  "2023-01-18": 5080,
-  "2023-01-19": 5080,
-  "2023-01-20": 5081,
-  "2023-01-21": 5089,
-  "2023-01-22": 5096,
-  "2023-01-23": 5100,
-  "2023-01-24": 5109,
-  "2023-01-25": 5112,
-  "2023-01-26": 5116,
-  "2023-01-27": 5119,
-  "2023-01-28": 5126,
-  "2023-01-29": 5128,
-  "2023-01-30": 5134,
-  "2023-01-31": 5134,
-  "2023-02-01": 5134,
-  "2023-02-02": 5137,
-  "2023-02-03": 5138,
-  "2023-02-04": 5142,
-  "2023-02-05": 5144,
-  "2023-02-06": 5147,
-  "2023-02-07": 5148,
-  "2023-02-08": 5157,
-  "2023-02-09": 5157,
-  "2023-02-10": 5159,
-  "2023-02-11": 5166,
-  "2023-02-12": 5169,
-  "2023-02-13": 5169,
-  "2023-02-14": 5169,
-  "2023-02-15": 5170,
-  "2023-02-16": 5171,
-  "2023-02-17": 5173,
-  "2023-02-18": 5174,
-  "2023-02-19": 5174,
-  "2023-02-20": 5174,
-  "2023-02-21": 5177,
-  "2023-02-22": 5176,
-  "2023-02-23": 5183,
-  "2023-02-24": 5188,
-  "2023-02-25": 5190,
-  "2023-02-26": 5192,
-  "2023-02-27": 5207,
-  "2023-02-28": 5207,
-  "2023-03-01": 5215,
-  "2023-03-02": 5214,
-  "2023-03-03": 5224,
-  "2023-03-04": 5226,
-  "2023-03-05": 5233,
-  "2023-03-06": 5233,
-  "2023-03-07": 5237,
-  "2023-03-08": 5241,
-  "2023-03-09": 5247,
-  "2023-03-10": 5249,
-  "2023-03-11": 5253,
-  "2023-03-12": 5255,
-  "2023-03-13": 5258,
-  "2023-03-14": 5264,
-  "2023-03-15": 5263,
-  "2023-03-16": 5263,
-  "2023-03-17": 5263,
-  "2023-03-18": 5275,
-  "2023-03-19": 5275,
-  "2023-03-20": 5284,
-  "2023-03-21": 5290,
-  "2023-03-22": 5289,
-  "2023-03-23": 5292,
-  "2023-03-24": 5292,
-  "2023-03-25": 5293,
-  "2023-03-26": 5304,
-  "2023-03-27": 5306,
-  "2023-03-28": 5310,
-  "2023-03-29": 5316,
-  "2023-03-30": 5328,
-  "2023-03-31": 5328,
-  "2023-04-01": 5330,
-  "2023-04-02": 5336,
-  "2023-04-03": 5341,
-  "2023-04-04": 5346,
-  "2023-04-05": 5353,
-  "2023-04-06": 5355,
-  "2023-04-07": 5365,
-  "2023-04-09": 5375,
-  "2023-04-10": 5381,
-  "2023-04-11": 5389,
-  "2023-04-12": 5389,
-  "2023-04-13": 5393,
-  "2023-04-14": 5397,
-  "2023-04-15": 5402,
-  "2023-04-16": 5408,
-  "2023-04-17": 5412,
-  "2023-04-18": 5417,
-  "2023-04-19": 5425,
-  "2023-04-20": 5427,
-  "2023-04-21": 5432,
-  "2023-04-22": 5439,
-  "2023-04-23": 5447,
-  "2023-04-24": 5453,
-  "2023-04-25": 5456,
-  "2023-04-26": 5459,
-  "2023-04-27": 5461,
-  "2023-04-28": 5464,
-  "2023-04-29": 5466,
-  "2023-04-30": 5470,
-  "2023-05-01": 5473,
-  "2023-05-02": 5473,
-  "2023-05-03": 5477,
-  "2023-05-04": 5482,
-  "2023-05-05": 5487,
-  "2023-05-06": 5490,
-  "2023-05-07": 5495,
-  "2023-05-08": 5497,
-  "2023-05-09": 5502,
-  "2023-05-10": 5507,
-  "2023-05-11": 5510,
-  "2023-05-12": 5513,
-  "2023-05-13": 5519,
-  "2023-05-14": 5521,
-  "2023-05-15": 5527,
-  "2023-05-16": 5531,
-  "2023-05-17": 5540,
-  "2023-05-18": 5541,
-  "2023-05-19": 5544,
-  "2023-05-20": 5552,
-  "2023-05-21": 5552,
-  "2023-05-22": 5552,
-  "2023-05-23": 5557,
-  "2023-05-24": 5559,
-  "2023-05-25": 5558,
-  "2023-05-26": 5557,
-  "2023-05-27": 5562,
-  "2023-05-28": 5565,
-  "2023-05-29": 5565,
-  "2023-05-30": 5568,
-  "2023-05-31": 5569,
-  "2023-06-01": 5570,
-  "2023-06-02": 5575,
-  "2023-06-03": 5575,
-  "2023-06-04": 5582,
-  "2023-06-05": 5587,
-  "2023-06-06": 5589,
-  "2023-06-07": 5592,
-  "2023-06-08": 5595,
-  "2023-06-09": 5595,
-  "2023-06-10": 5600,
-  "2023-06-11": 5605,
-  "2023-06-12": 5611,
-  "2023-06-13": 5613,
-  "2023-06-14": 5613,
-  "2023-06-15": 5617,
-  "2023-06-16": 5618,
-  "2023-06-17": 5621,
-  "2023-06-18": 5623,
-  "2023-06-19": 5625,
-  "2023-06-20": 5625,
-  "2023-06-21": 5625,
-  "2023-06-22": 5625,
-  "2023-06-23": 5624,
-  "2023-06-24": 5630,
-  "2023-06-25": 5631,
-  "2023-06-26": 5631,
-  "2023-06-27": 5639,
-  "2023-06-28": 5642,
-  "2023-06-29": 5644,
-  "2023-06-30": 5648,
-  "2023-07-01": 5657,
-  "2023-07-02": 5657,
-  "2023-07-03": 5660,
-  "2023-07-04": 5666,
-  "2023-07-05": 5674,
-  "2023-07-06": 5679,
-  "2023-07-07": 5679,
-  "2023-07-08": 5680,
-  "2023-07-09": 5682,
-  "2023-07-10": 5685,
-  "2023-07-11": 5687,
-  "2023-07-12": 5687,
-  "2023-07-13": 5687,
-  "2023-07-14": 5690,
-  "2023-07-15": 5691,
-  "2023-07-16": 5696,
-  "2023-07-17": 5696,
-  "2023-07-18": 5699,
-  "2023-07-19": 5701,
-  "2023-07-20": 5703,
-  "2023-07-21": 5709,
-  "2023-07-22": 5711,
-  "2023-07-23": 5714,
-  "2023-07-24": 5715,
-  "2023-07-25": 5716,
-  "2023-07-26": 5719,
-  "2023-07-27": 5727,
-  "2023-07-28": 5729,
-  "2023-07-29": 5733,
-  "2023-07-30": 5738,
-  "2023-07-31": 5737,
-  "2023-08-01": 5744,
-  "2023-08-02": 5748,
-  "2023-08-03": 5749,
-  "2023-08-04": 5751,
-  "2023-08-05": 5755,
-  "2023-08-06": 5766,
-  "2023-08-07": 5766,
-  "2023-08-08": 5768,
-  "2023-08-09": 5776,
-  "2023-08-10": 5777,
-  "2023-08-11": 5782,
-  "2023-08-12": 5782,
-  "2023-08-13": 5782,
-  "2023-08-14": 5792,
-  "2023-08-15": 5792,
-  "2023-08-16": 5792,
-  "2023-08-17": 5803,
-  "2023-08-18": 5803,
-  "2023-08-19": 5803,
-  "2023-08-20": 5810,
-  "2023-08-21": 5810,
-  "2023-08-22": 5814,
-  "2023-08-23": 5814,
-  "2023-08-24": 5818,
-  "2023-08-25": 5818,
-  "2023-08-26": 5827,
-  "2023-08-27": 5827,
-  "2023-08-28": 5830,
-  "2023-08-29": 5830,
-  "2023-08-30": 5830,
-  "2023-08-31": 5831,
-  "2023-09-01": 5836,
-  "2023-09-02": 5836,
-  "2023-09-03": 5849,
-  "2023-09-04": 5849,
-  "2023-09-05": 5849,
-  "2023-09-06": 5864,
-  "2023-09-07": 5864,
-  "2023-09-08": 5864,
-  "2023-09-09": 5864,
-  "2023-09-10": 5877,
-  "2023-09-11": 5877,
-  "2023-09-12": 5877,
-  "2023-09-13": 5877,
-  "2023-09-14": 5877,
-  "2023-09-15": 5877,
-  "2023-09-16": 5882,
-  "2023-09-17": 5882,
-  "2023-09-18": 5882,
-  "2023-09-19": 5888,
-  "2023-09-20": 5888,
-  "2023-09-21": 5888,
-  "2023-09-22": 5895,
-  "2023-09-23": 5895,
-  "2023-09-24": 5895,
-  "2023-09-25": 5895,
-  "2023-09-26": 5901,
-  "2023-09-27": 5901,
-  "2023-09-28": 5901,
-  "2023-09-29": 5901,
-  "2023-09-30": 5901,
-  "2023-10-01": 5901,
-  "2023-10-02": 5913,
-  "2023-10-03": 5913,
-  "2023-10-04": 5913,
-  "2023-10-05": 5923,
-  "2023-10-06": 5923,
-  "2023-10-07": 5923,
-  "2023-10-08": 5923,
-  "2023-10-09": 5923,
-  "2023-10-10": 5923,
-  "2023-10-11": 5943,
-  "2023-10-12": 5943,
-  "2023-10-13": 5943,
-  "2023-10-14": 5943,
-  "2023-10-15": 5943,
-  "2023-10-16": 5943,
-  "2023-10-17": 5943,
-  "2023-10-18": 5943,
-  "2023-10-19": 5943,
-  "2023-10-20": 5943,
-  "2023-10-21": 5943,
-  "2023-10-22": 5943,
-  "2023-10-23": 5943,
-  "2023-10-24": 5943,
-  "2023-10-25": 5943,
-  "2023-10-26": 5943,
-  "2023-10-27": 5943,
-  "2023-10-28": 5943,
-  "2023-10-29": 5943,
-  "2023-10-30": 5943,
-  "2023-10-31": 5943,
-  "2023-11-01": 5943,
-  "2023-11-02": 5943,
-  "2023-11-03": 5943,
-  "2023-11-04": 5943,
-  "2023-11-05": 5943,
-  "2023-11-06": 5943,
-  "2023-11-07": 5943,
-  "2023-11-08": 5943,
-  "2023-11-09": 5943,
-  "2023-11-10": 5943,
-  "2023-11-11": 6305,
-  "2023-11-12": 6305,
-  "2023-11-13": 6305,
-  "2023-11-14": 6305,
-  "2023-11-15": 6305,
-  "2023-11-16": 6305,
-  "2023-11-17": 6305,
-  "2023-11-18": 6305,
-  "2023-11-19": 6305,
-  "2023-11-20": 6305,
-  "2023-11-21": 6305,
-  "2023-11-22": 6305,
-  "2023-11-23": 6305,
-  "2023-11-24": 6305,
-  "2023-11-25": 6305,
-  "2023-11-26": 6305,
-  "2023-11-27": 6305,
-  "2023-11-28": 6305,
-  "2023-11-29": 6305,
-  "2023-11-30": 6305,
-  "2023-12-01": 6305,
-  "2023-12-02": 6305,
-  "2023-12-03": 6305,
-  "2023-12-04": 6305,
-  "2023-12-05": 6305,
-  "2023-12-06": 6305,
-  "2023-12-07": 6305,
-  "2023-12-08": 6305,
-  "2023-12-09": 6305,
-  "2023-12-10": 6305,
-  "2023-12-11": 6305,
-  "2023-12-12": 6305,
-  "2023-12-13": 6305,
-  "2023-12-14": 6698,
-  "2023-12-15": 6702,
-  "2023-12-16": 6708,
-  "2023-12-17": 6713,
-  "2023-12-18": 6720,
-  "2023-12-19": 6724,
-  "2023-12-20": 6734,
-  "2023-12-21": 6748,
-  "2023-12-22": 6754,
-  "2023-12-23": 6757,
-  "2023-12-24": 6766,
-  "2023-12-25": 6773,
-  "2023-12-26": 6778,
-  "2023-12-27": 6781,
-  "2023-12-30": 6796,
-  "2023-12-31": 6799,
-  "2024-01-01": 6802,
-  "2024-01-02": 6803,
-  "2024-01-03": 6802
+  "2024-01-17": 6859,
+  "date_first_scraped": "2022-12-24",
+  "description": "This is Linked Horizon. The essential tracks, all in one playlist.",
+  "name": "This Is Linked Horizon",
+  "tracks": [
+    {
+      "album": {
+        "name": "Shinjitsu eno Shingeki",
+        "url": "https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329982,
+      "name": "13 no Fuyu",
+      "url": "https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2"
+    },
+    {
+      "album": {
+        "name": "Rakuen Eno Shingeki",
+        "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240573,
+      "name": "Akatsuki no Requiem",
+      "url": "https://open.spotify.com/track/2vH8JFJKfkAgZs1GFlOzGh"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310680,
+      "name": "Guren no Yumiya",
+      "url": "https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U"
+    },
+    {
+      "album": {
+        "name": "Guren no Yumiya Tv Size Ver.",
+        "url": "https://open.spotify.com/album/28mxaeUdRq9Z2f0BnrY9WT"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94283,
+      "name": "Guren no Yumiya Tv Size Ver.",
+      "url": "https://open.spotify.com/track/6rsbsdiGDrYvhbb1K7ziTL"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306480,
+      "name": "Guren no Zahyou",
+      "url": "https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 349693,
+      "name": "Jiyuu no Daishou",
+      "url": "https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331946,
+      "name": "Jiyuu no Tsubasa",
+      "url": "https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT"
+    },
+    {
+      "album": {
+        "name": "Rakuen Eno Shingeki",
+        "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313973,
+      "name": "Kakumei no Yoru ni",
+      "url": "https://open.spotify.com/track/56eJgVP1LcvbuYecQicpYf"
+    },
+    {
+      "album": {
+        "name": "Jiyuu Eno Shingeki",
+        "url": "https://open.spotify.com/album/3SbektNvHcTUH5uP2fpiUP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252640,
+      "name": "Moshi Kono Kabe No Naka Ga Ikken No Ie Datoshitara",
+      "url": "https://open.spotify.com/track/2nHjd0aNkPjP5MnA6kMwFm"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327040,
+      "name": "Nikagetsugo no Kimi e",
+      "url": "https://open.spotify.com/track/7IMuezAZparajKkgkCMalN"
+    },
+    {
+      "album": {
+        "name": "Nisennen... Moshiku wa... Nimannen Go no Kimi e",
+        "url": "https://open.spotify.com/album/1jx7pZycE5duql9z0qJNDv"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284784,
+      "name": "Nisennen... Moshiku wa... Nimannen Go no Kimi e",
+      "url": "https://open.spotify.com/track/4KYO2hnz2vWH0JHJuWypAf"
+    },
+    {
+      "album": {
+        "name": "Saigo no Kyojin",
+        "url": "https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240740,
+      "name": "Saigo no Kyojin",
+      "url": "https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY"
+    },
+    {
+      "album": {
+        "name": "Seishun wa Hanabi no Youni",
+        "url": "https://open.spotify.com/album/6LyBed3rgD3tqdWnPUyacK"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93791,
+      "name": "Seishun wa Hanabi no Youni",
+      "url": "https://open.spotify.com/track/7rNCnPglDEZn7pboEo24gC"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341413,
+      "name": "Shinzo wo Sasageyo!",
+      "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
+    },
+    {
+      "album": {
+        "name": "Shinjitsu eno Shingeki",
+        "url": "https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276176,
+      "name": "Shoukei to Shikabane no Michi",
+      "url": "https://open.spotify.com/track/7lcTpZtdTyfiIgVIpmTVut"
+    },
+    {
+      "album": {
+        "name": "Rakuen Eno Shingeki",
+        "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "Tasogare no Rakuen",
+      "url": "https://open.spotify.com/track/75S5vWZUfeTs1Bf6P6yXei"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537213,
+      "name": "Theme of the Linked Horizon",
+      "url": "https://open.spotify.com/track/0Qit1wQs5mvD86LqnsBlGg"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 687298,
+      "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
+      "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
+    },
+    {
+      "album": {
+        "name": "\u4e8c\u5343\u5e74... \u82e5\u3057\u304f\u306f... \u4e8c\u4e07\u5e74\u5f8c\u306e\u541b\u3078\u30fb\u30fb\u30fb",
+        "url": "https://open.spotify.com/album/1Z9uHV98W0xRAnnnwX0yTR"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 284784,
+      "name": "\u4e8c\u5343\u5e74... \u82e5\u3057\u304f\u306f... \u4e8c\u4e07\u5e74\u5f8c\u306e\u541b\u3078\u30fb\u30fb\u30fb",
+      "url": "https://open.spotify.com/track/5X2RtKParNDbpl4MOZ2LEC"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310386,
+      "name": "\u541b\u306f\u50d5\u306e\u5e0c\u671b - Vocalized Version",
+      "url": "https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488513,
+      "name": "\u5e0c\u671b\u3078\u5411\u3046\u8b5a\u8a69\u66f2 - Long Version",
+      "url": "https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372004,
+      "name": "\u5f7c\u306e\u8005\u306e\u540d\u306f\u2026 - Vocalized Version",
+      "url": "https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341344,
+      "name": "\u611b\u306e\u653e\u6d6a\u8005 - Vocalized Version",
+      "url": "https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 338920,
+      "name": "\u6226\u3044\u306e\u9418 - Long Version",
+      "url": "https://open.spotify.com/track/6EByiOlFcxdA5zj8Gcu0wU"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270355,
+      "name": "\u6765\u8a2a\u8005 - Long Version",
+      "url": "https://open.spotify.com/track/4tKj8h6sJQ4fK4HtT9Qu2Y"
+    },
+    {
+      "album": {
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 306480,
+      "name": "\u7d05\u84ee\u306e\u5ea7\u6a19",
+      "url": "https://open.spotify.com/track/7FiCAJ6ewTg9YWRX92guIc"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 326693,
+      "name": "\u7d14\u611b(\u30cf\u30fc\u30c8\u30de\u30fc\u30af) \u5341\u5b57\u7832\u706b - Long Version",
+      "url": "https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD"
+    },
+    {
+      "album": {
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349693,
+      "name": "\u81ea\u7531\u306e\u4ee3\u511f",
+      "url": "https://open.spotify.com/track/2F44cjOVPs0Hod03KYF6KQ"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 277346,
+      "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
+      "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155328,
+      "name": "\u865a\u308d\u306a\u6708\u306e\u4e0b\u3067 - Vocalized Version",
+      "url": "https://open.spotify.com/track/5rpWxq3rr852eGbO0fQ2Qg"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315255,
+      "name": "\u96db\u9ce5 - Vocalized Version",
+      "url": "https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166033,
+      "name": "\u98a8\u304c\u5439\u3044\u305f\u65e5 - Piano Solo Version",
+      "url": "https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311013,
+      "name": "\u98a8\u306e\u884c\u65b9 - Vocalized Version",
+      "url": "https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SlEIw"
 }

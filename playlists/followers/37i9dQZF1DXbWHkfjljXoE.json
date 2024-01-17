@@ -1,735 +1,859 @@
 {
-  "2021-12-25": 85262,
-  "2021-12-26": 85260,
-  "2021-12-27": 85247,
-  "2021-12-28": 85247,
-  "2021-12-29": 85235,
-  "2021-12-30": 85227,
-  "2021-12-31": 85219,
-  "2022-01-01": 85199,
-  "2022-01-02": 85195,
-  "2022-01-03": 85189,
-  "2022-01-04": 85175,
-  "2022-01-05": 85166,
-  "2022-01-06": 85153,
-  "2022-01-07": 85142,
-  "2022-01-08": 85126,
-  "2022-01-09": 85126,
-  "2022-01-10": 85118,
-  "2022-01-11": 85106,
-  "2022-01-12": 85101,
-  "2022-01-13": 85097,
-  "2022-01-14": 85089,
-  "2022-01-15": 85079,
-  "2022-01-16": 85079,
-  "2022-01-17": 85064,
-  "2022-01-18": 85062,
-  "2022-01-19": 85056,
-  "2022-01-20": 85049,
-  "2022-01-21": 85042,
-  "2022-01-22": 85037,
-  "2022-01-23": 85028,
-  "2022-01-24": 85021,
-  "2022-01-25": 85016,
-  "2022-01-26": 85008,
-  "2022-01-27": 85003,
-  "2022-01-28": 84996,
-  "2022-01-29": 84988,
-  "2022-01-30": 84978,
-  "2022-01-31": 84974,
-  "2022-02-01": 84972,
-  "2022-02-02": 84961,
-  "2022-02-03": 84950,
-  "2022-02-04": 84943,
-  "2022-02-05": 84938,
-  "2022-02-06": 84936,
-  "2022-02-07": 84925,
-  "2022-02-08": 84919,
-  "2022-02-09": 84913,
-  "2022-02-10": 84955,
-  "2022-02-11": 85081,
-  "2022-02-12": 85225,
-  "2022-02-13": 85302,
-  "2022-02-14": 85373,
-  "2022-02-15": 85434,
-  "2022-02-16": 85541,
-  "2022-02-17": 85537,
-  "2022-02-18": 85545,
-  "2022-02-19": 85571,
-  "2022-02-20": 85607,
-  "2022-02-21": 85630,
-  "2022-02-22": 85634,
-  "2022-02-23": 85627,
-  "2022-02-24": 85626,
-  "2022-02-25": 85635,
-  "2022-02-26": 85636,
-  "2022-02-27": 85634,
-  "2022-02-28": 85634,
-  "2022-03-01": 85627,
-  "2022-03-02": 85619,
-  "2022-03-03": 85614,
-  "2022-03-04": 85603,
-  "2022-03-05": 85592,
-  "2022-03-06": 85585,
-  "2022-03-07": 85580,
-  "2022-03-08": 85577,
-  "2022-03-09": 85569,
-  "2022-03-10": 85559,
-  "2022-03-11": 85551,
-  "2022-03-12": 85543,
-  "2022-03-13": 85541,
-  "2022-03-14": 85537,
-  "2022-03-15": 85531,
-  "2022-03-16": 85524,
-  "2022-03-17": 85515,
-  "2022-03-18": 85511,
-  "2022-03-19": 85501,
-  "2022-03-20": 85501,
-  "2022-03-21": 85484,
-  "2022-03-22": 85479,
-  "2022-03-23": 85478,
-  "2022-03-24": 85473,
-  "2022-03-25": 85463,
-  "2022-03-26": 85458,
-  "2022-03-27": 85451,
-  "2022-03-28": 85441,
-  "2022-03-30": 85425,
-  "2022-03-31": 85417,
-  "2022-04-01": 85412,
-  "2022-04-02": 85408,
-  "2022-04-03": 85401,
-  "2022-04-04": 85397,
-  "2022-04-05": 85388,
-  "2022-04-06": 85387,
-  "2022-04-07": 85377,
-  "2022-04-08": 85376,
-  "2022-04-09": 85370,
-  "2022-04-10": 85352,
-  "2022-04-11": 85346,
-  "2022-04-12": 85345,
-  "2022-04-13": 85341,
-  "2022-04-14": 85333,
-  "2022-04-15": 85325,
-  "2022-04-16": 85320,
-  "2022-04-17": 85313,
-  "2022-04-18": 85302,
-  "2022-04-19": 85298,
-  "2022-04-20": 85289,
-  "2022-04-21": 85281,
-  "2022-04-22": 85272,
-  "2022-04-23": 85269,
-  "2022-04-24": 85265,
-  "2022-04-25": 85263,
-  "2022-04-26": 85262,
-  "2022-04-27": 85251,
-  "2022-04-28": 85248,
-  "2022-04-29": 85244,
-  "2022-04-30": 85244,
-  "2022-05-01": 85246,
-  "2022-05-02": 85246,
-  "2022-05-03": 85246,
-  "2022-05-04": 85241,
-  "2022-05-05": 85244,
-  "2022-05-06": 85244,
-  "2022-05-07": 85245,
-  "2022-05-08": 85248,
-  "2022-05-09": 85246,
-  "2022-05-10": 85243,
-  "2022-05-11": 85243,
-  "2022-05-12": 85249,
-  "2022-05-13": 85248,
-  "2022-05-14": 85246,
-  "2022-05-15": 85255,
-  "2022-05-16": 85256,
-  "2022-05-17": 85256,
-  "2022-05-18": 85253,
-  "2022-05-19": 85252,
-  "2022-05-20": 85251,
-  "2022-05-21": 85243,
-  "2022-05-22": 85243,
-  "2022-05-23": 85246,
-  "2022-05-24": 85248,
-  "2022-05-25": 85245,
-  "2022-05-26": 85247,
-  "2022-05-27": 85247,
-  "2022-05-28": 85245,
-  "2022-05-29": 85239,
-  "2022-05-30": 85238,
-  "2022-05-31": 85243,
-  "2022-06-01": 85243,
-  "2022-06-02": 85241,
-  "2022-06-03": 85238,
-  "2022-06-04": 85242,
-  "2022-06-05": 85237,
-  "2022-06-06": 85241,
-  "2022-06-07": 85243,
-  "2022-06-08": 85240,
-  "2022-06-09": 85237,
-  "2022-06-10": 85234,
-  "2022-06-11": 85232,
-  "2022-06-12": 85231,
-  "2022-06-13": 85228,
-  "2022-06-14": 85232,
-  "2022-06-15": 85237,
-  "2022-06-16": 85236,
-  "2022-06-17": 85237,
-  "2022-06-18": 85238,
-  "2022-06-19": 85240,
-  "2022-06-20": 85240,
-  "2022-06-21": 85240,
-  "2022-06-22": 85234,
-  "2022-06-23": 85234,
-  "2022-06-24": 85233,
-  "2022-06-25": 85230,
-  "2022-06-26": 85229,
-  "2022-06-27": 85231,
-  "2022-06-28": 85229,
-  "2022-06-29": 85230,
-  "2022-06-30": 85229,
-  "2022-07-01": 85227,
-  "2022-07-02": 85228,
-  "2022-07-03": 85231,
-  "2022-07-04": 85230,
-  "2022-07-05": 85230,
-  "2022-07-06": 85232,
-  "2022-07-07": 85233,
-  "2022-07-08": 85239,
-  "2022-07-09": 85236,
-  "2022-07-10": 85239,
-  "2022-07-11": 85241,
-  "2022-07-12": 85240,
-  "2022-07-13": 85235,
-  "2022-07-14": 85232,
-  "2022-07-15": 85231,
-  "2022-07-16": 85227,
-  "2022-07-17": 85230,
-  "2022-07-18": 85226,
-  "2022-07-19": 85226,
-  "2022-07-20": 85222,
-  "2022-07-21": 85218,
-  "2022-07-22": 85222,
-  "2022-07-23": 85221,
-  "2022-07-24": 85222,
-  "2022-07-25": 85216,
-  "2022-07-26": 85212,
-  "2022-07-27": 85209,
-  "2022-07-28": 85207,
-  "2022-07-29": 85208,
-  "2022-07-30": 85207,
-  "2022-07-31": 85207,
-  "2022-08-01": 85205,
-  "2022-08-02": 85203,
-  "2022-08-03": 85203,
-  "2022-08-04": 85200,
-  "2022-08-05": 85197,
-  "2022-08-06": 85197,
-  "2022-08-07": 85194,
-  "2022-08-08": 85186,
-  "2022-08-09": 85181,
-  "2022-08-10": 85177,
-  "2022-08-11": 85178,
-  "2022-08-12": 85173,
-  "2022-08-13": 85173,
-  "2022-08-14": 85170,
-  "2022-08-15": 85173,
-  "2022-08-16": 85171,
-  "2022-08-17": 85168,
-  "2022-08-18": 85165,
-  "2022-08-19": 85163,
-  "2022-08-20": 85160,
-  "2022-08-21": 85159,
-  "2022-08-22": 85157,
-  "2022-08-23": 85162,
-  "2022-08-24": 85159,
-  "2022-08-25": 85161,
-  "2022-08-26": 85158,
-  "2022-08-27": 85151,
-  "2022-08-28": 85147,
-  "2022-08-29": 85145,
-  "2022-08-30": 85140,
-  "2022-08-31": 85138,
-  "2022-09-01": 85135,
-  "2022-09-02": 85135,
-  "2022-09-03": 85127,
-  "2022-09-04": 85124,
-  "2022-09-05": 85121,
-  "2022-09-06": 85119,
-  "2022-09-07": 85119,
-  "2022-09-09": 85117,
-  "2022-09-10": 85116,
-  "2022-09-11": 85121,
-  "2022-09-12": 85118,
-  "2022-09-13": 85111,
-  "2022-09-15": 85105,
-  "2022-09-16": 85103,
-  "2022-09-17": 85101,
-  "2022-09-18": 85099,
-  "2022-09-19": 85098,
-  "2022-09-20": 85099,
-  "2022-09-21": 85097,
-  "2022-09-22": 85098,
-  "2022-09-23": 85094,
-  "2022-09-24": 85096,
-  "2022-09-25": 85094,
-  "2022-09-26": 85091,
-  "2022-09-27": 85085,
-  "2022-09-28": 85086,
-  "2022-09-29": 85086,
-  "2022-09-30": 85087,
-  "2022-10-01": 85082,
-  "2022-10-02": 85080,
-  "2022-10-03": 85078,
-  "2022-10-04": 85078,
-  "2022-10-05": 85076,
-  "2022-10-06": 85078,
-  "2022-10-07": 85075,
-  "2022-10-08": 85072,
-  "2022-10-09": 85075,
-  "2022-10-10": 85077,
-  "2022-10-11": 85076,
-  "2022-10-12": 85076,
-  "2022-10-13": 85078,
-  "2022-10-14": 85079,
-  "2022-10-15": 85076,
-  "2022-10-16": 85070,
-  "2022-10-17": 85072,
-  "2022-10-18": 85074,
-  "2022-10-19": 85076,
-  "2022-10-20": 85075,
-  "2022-10-21": 85072,
-  "2022-10-22": 85071,
-  "2022-10-23": 85071,
-  "2022-10-24": 85071,
-  "2022-10-25": 85070,
-  "2022-10-26": 85070,
-  "2022-10-27": 85071,
-  "2022-10-28": 85070,
-  "2022-10-29": 85065,
-  "2022-10-30": 85066,
-  "2022-10-31": 85065,
-  "2022-11-01": 85065,
-  "2022-11-02": 85058,
-  "2022-11-03": 85054,
-  "2022-11-04": 85057,
-  "2022-11-05": 85053,
-  "2022-11-06": 85050,
-  "2022-11-07": 85050,
-  "2022-11-08": 85053,
-  "2022-11-09": 85052,
-  "2022-11-10": 85054,
-  "2022-11-11": 85054,
-  "2022-11-12": 85048,
-  "2022-11-13": 85055,
-  "2022-11-14": 85058,
-  "2022-11-15": 85055,
-  "2022-11-16": 85057,
-  "2022-11-17": 85056,
-  "2022-11-18": 85055,
-  "2022-11-19": 85051,
-  "2022-11-20": 85045,
-  "2022-11-21": 85043,
-  "2022-11-22": 85043,
-  "2022-11-23": 85040,
-  "2022-11-24": 85040,
-  "2022-11-25": 85038,
-  "2022-11-26": 85036,
-  "2022-11-27": 85032,
-  "2022-11-28": 85028,
-  "2022-11-29": 85020,
-  "2022-11-30": 85020,
-  "2022-12-01": 85024,
-  "2022-12-02": 85021,
-  "2022-12-03": 18622,
-  "2022-12-04": 5335,
-  "2022-12-05": 2681,
-  "2022-12-06": 2153,
-  "2022-12-07": 2050,
-  "2022-12-08": 2031,
-  "2022-12-09": 2027,
-  "2022-12-10": 2028,
-  "2022-12-11": 2031,
-  "2022-12-12": 2031,
-  "2022-12-13": 2033,
-  "2022-12-14": 2035,
-  "2022-12-15": 2040,
-  "2022-12-16": 2041,
-  "2022-12-17": 2045,
-  "2022-12-18": 2055,
-  "2022-12-19": 2058,
-  "2022-12-20": 2070,
-  "2022-12-21": 2070,
-  "2022-12-22": 2070,
-  "2022-12-24": 2083,
-  "2022-12-25": 2086,
-  "2022-12-26": 2089,
-  "2022-12-27": 2092,
-  "2022-12-28": 2096,
-  "2022-12-29": 2103,
-  "2022-12-30": 2110,
-  "2022-12-31": 2118,
-  "2023-01-01": 2121,
-  "2023-01-02": 2123,
-  "2023-01-03": 2134,
-  "2023-01-04": 2135,
-  "2023-01-05": 2138,
-  "2023-01-06": 2141,
-  "2023-01-07": 2147,
-  "2023-01-08": 2148,
-  "2023-01-09": 2148,
-  "2023-01-10": 2150,
-  "2023-01-11": 2152,
-  "2023-01-12": 2154,
-  "2023-01-13": 2156,
-  "2023-01-14": 2162,
-  "2023-01-15": 2161,
-  "2023-01-16": 2169,
-  "2023-01-17": 2176,
-  "2023-01-18": 2178,
-  "2023-01-19": 2179,
-  "2023-01-20": 2182,
-  "2023-01-21": 2184,
-  "2023-01-22": 2190,
-  "2023-01-23": 2192,
-  "2023-01-24": 2195,
-  "2023-01-25": 2201,
-  "2023-01-26": 261327,
-  "2023-01-27": 262861,
-  "2023-01-28": 262902,
-  "2023-01-29": 262907,
-  "2023-01-30": 262905,
-  "2023-01-31": 262905,
-  "2023-02-01": 262898,
-  "2023-02-02": 262892,
-  "2023-02-03": 262885,
-  "2023-02-04": 262875,
-  "2023-02-05": 262864,
-  "2023-02-06": 262856,
-  "2023-02-07": 262847,
-  "2023-02-08": 262837,
-  "2023-02-09": 262837,
-  "2023-02-10": 262825,
-  "2023-02-11": 262821,
-  "2023-02-12": 10539,
-  "2023-02-13": 2124,
-  "2023-02-14": 2124,
-  "2023-02-15": 437,
-  "2023-02-16": 99,
-  "2023-02-17": 30,
-  "2023-02-18": 14,
-  "2023-02-19": 14,
-  "2023-02-20": 14,
-  "2023-02-21": 14,
-  "2023-02-22": 14,
-  "2023-02-23": 14,
-  "2023-02-24": 13,
-  "2023-02-25": 13,
-  "2023-02-26": 14,
-  "2023-02-27": 16,
-  "2023-02-28": 16,
-  "2023-03-01": 16,
-  "2023-03-02": 15,
-  "2023-03-03": 17,
-  "2023-03-04": 17,
-  "2023-03-05": 17,
-  "2023-03-06": 17,
-  "2023-03-07": 17,
-  "2023-03-08": 18,
-  "2023-03-09": 18,
-  "2023-03-10": 18,
-  "2023-03-11": 18,
-  "2023-03-12": 18,
-  "2023-03-13": 17,
-  "2023-03-14": 17,
-  "2023-03-15": 18,
-  "2023-03-16": 17,
-  "2023-03-17": 17,
-  "2023-03-18": 17,
-  "2023-03-19": 17,
-  "2023-03-20": 17,
-  "2023-03-21": 17,
-  "2023-03-22": 17,
-  "2023-03-23": 17,
-  "2023-03-24": 17,
-  "2023-03-25": 17,
-  "2023-03-26": 17,
-  "2023-03-27": 17,
-  "2023-03-28": 17,
-  "2023-03-29": 17,
-  "2023-03-30": 17,
-  "2023-03-31": 17,
-  "2023-04-01": 18,
-  "2023-04-02": 18,
-  "2023-04-03": 18,
-  "2023-04-04": 19,
-  "2023-04-05": 20,
-  "2023-04-06": 20,
-  "2023-04-07": 20,
-  "2023-04-09": 21,
-  "2023-04-10": 22,
-  "2023-04-11": 23,
-  "2023-04-12": 23,
-  "2023-04-13": 23,
-  "2023-04-14": 23,
-  "2023-04-15": 24,
-  "2023-04-16": 24,
-  "2023-04-17": 24,
-  "2023-04-18": 24,
-  "2023-04-19": 24,
-  "2023-04-20": 24,
-  "2023-04-21": 24,
-  "2023-04-22": 24,
-  "2023-04-23": 24,
-  "2023-04-24": 24,
-  "2023-04-25": 24,
-  "2023-04-26": 25,
-  "2023-04-27": 25,
-  "2023-04-28": 25,
-  "2023-04-29": 25,
-  "2023-04-30": 25,
-  "2023-05-01": 25,
-  "2023-05-02": 25,
-  "2023-05-03": 25,
-  "2023-05-04": 25,
-  "2023-05-05": 25,
-  "2023-05-06": 25,
-  "2023-05-07": 25,
-  "2023-05-08": 25,
-  "2023-05-09": 25,
-  "2023-05-10": 26,
-  "2023-05-11": 27,
-  "2023-05-12": 28,
-  "2023-05-13": 30,
-  "2023-05-14": 30,
-  "2023-05-15": 30,
-  "2023-05-16": 30,
-  "2023-05-17": 32,
-  "2023-05-18": 32,
-  "2023-05-19": 33,
-  "2023-05-20": 35,
-  "2023-05-21": 35,
-  "2023-05-22": 35,
-  "2023-05-23": 35,
-  "2023-05-24": 35,
-  "2023-05-25": 35,
-  "2023-05-26": 35,
-  "2023-05-27": 35,
-  "2023-05-28": 35,
-  "2023-05-29": 35,
-  "2023-05-30": 35,
-  "2023-05-31": 35,
-  "2023-06-01": 36,
-  "2023-06-02": 36,
-  "2023-06-03": 38,
-  "2023-06-04": 38,
-  "2023-06-05": 38,
-  "2023-06-06": 38,
-  "2023-06-07": 38,
-  "2023-06-08": 38,
-  "2023-06-09": 38,
-  "2023-06-10": 38,
-  "2023-06-11": 38,
-  "2023-06-12": 39,
-  "2023-06-13": 39,
-  "2023-06-14": 39,
-  "2023-06-15": 40,
-  "2023-06-16": 40,
-  "2023-06-17": 40,
-  "2023-06-18": 40,
-  "2023-06-19": 40,
-  "2023-06-20": 40,
-  "2023-06-21": 40,
-  "2023-06-22": 40,
-  "2023-06-23": 40,
-  "2023-06-24": 40,
-  "2023-06-25": 40,
-  "2023-06-26": 40,
-  "2023-06-27": 41,
-  "2023-06-28": 41,
-  "2023-06-29": 41,
-  "2023-06-30": 41,
-  "2023-07-01": 41,
-  "2023-07-02": 41,
-  "2023-07-03": 41,
-  "2023-07-04": 41,
-  "2023-07-05": 41,
-  "2023-07-06": 41,
-  "2023-07-07": 41,
-  "2023-07-08": 41,
-  "2023-07-09": 41,
-  "2023-07-10": 42,
-  "2023-07-11": 43,
-  "2023-07-12": 43,
-  "2023-07-13": 43,
-  "2023-07-14": 44,
-  "2023-07-15": 45,
-  "2023-07-16": 45,
-  "2023-07-17": 45,
-  "2023-07-18": 45,
-  "2023-07-19": 45,
-  "2023-07-20": 45,
-  "2023-07-21": 45,
-  "2023-07-22": 45,
-  "2023-07-23": 46,
-  "2023-07-24": 46,
-  "2023-07-25": 46,
-  "2023-07-26": 46,
-  "2023-07-27": 46,
-  "2023-07-28": 46,
-  "2023-07-29": 46,
-  "2023-07-30": 46,
-  "2023-07-31": 46,
-  "2023-08-01": 46,
-  "2023-08-02": 46,
-  "2023-08-03": 46,
-  "2023-08-04": 46,
-  "2023-08-05": 46,
-  "2023-08-06": 46,
-  "2023-08-07": 46,
-  "2023-08-08": 46,
-  "2023-08-09": 46,
-  "2023-08-10": 46,
-  "2023-08-11": 46,
-  "2023-08-12": 47,
-  "2023-08-13": 47,
-  "2023-08-14": 48,
-  "2023-08-15": 48,
-  "2023-08-16": 48,
-  "2023-08-17": 48,
-  "2023-08-18": 48,
-  "2023-08-19": 48,
-  "2023-08-20": 48,
-  "2023-08-21": 48,
-  "2023-08-22": 48,
-  "2023-08-23": 48,
-  "2023-08-24": 48,
-  "2023-08-25": 48,
-  "2023-08-26": 48,
-  "2023-08-27": 48,
-  "2023-08-28": 48,
-  "2023-08-29": 49,
-  "2023-08-30": 49,
-  "2023-08-31": 49,
-  "2023-09-01": 49,
-  "2023-09-02": 49,
-  "2023-09-03": 49,
-  "2023-09-04": 49,
-  "2023-09-05": 49,
-  "2023-09-06": 49,
-  "2023-09-07": 49,
-  "2023-09-08": 50,
-  "2023-09-09": 50,
-  "2023-09-10": 50,
-  "2023-09-11": 50,
-  "2023-09-12": 50,
-  "2023-09-13": 49,
-  "2023-09-14": 49,
-  "2023-09-15": 49,
-  "2023-09-16": 49,
-  "2023-09-17": 49,
-  "2023-09-18": 50,
-  "2023-09-19": 50,
-  "2023-09-20": 51,
-  "2023-09-21": 51,
-  "2023-09-22": 51,
-  "2023-09-23": 51,
-  "2023-09-24": 51,
-  "2023-09-25": 52,
-  "2023-09-26": 53,
-  "2023-09-27": 53,
-  "2023-09-28": 53,
-  "2023-09-29": 53,
-  "2023-09-30": 53,
-  "2023-10-01": 53,
-  "2023-10-02": 53,
-  "2023-10-03": 53,
-  "2023-10-04": 53,
-  "2023-10-05": 53,
-  "2023-10-06": 53,
-  "2023-10-07": 53,
-  "2023-10-08": 53,
-  "2023-10-09": 52,
-  "2023-10-10": 52,
-  "2023-10-11": 54,
-  "2023-10-12": 54,
-  "2023-10-13": 54,
-  "2023-10-14": 54,
-  "2023-10-15": 54,
-  "2023-10-16": 54,
-  "2023-10-17": 54,
-  "2023-10-18": 57,
-  "2023-10-19": 57,
-  "2023-10-20": 57,
-  "2023-10-21": 57,
-  "2023-10-22": 57,
-  "2023-10-23": 57,
-  "2023-10-24": 57,
-  "2023-10-25": 57,
-  "2023-10-26": 57,
-  "2023-10-27": 57,
-  "2023-10-28": 57,
-  "2023-10-29": 57,
-  "2023-10-30": 58,
-  "2023-10-31": 58,
-  "2023-11-01": 58,
-  "2023-11-02": 59,
-  "2023-11-03": 59,
-  "2023-11-04": 59,
-  "2023-11-05": 59,
-  "2023-11-06": 59,
-  "2023-11-07": 59,
-  "2023-11-08": 59,
-  "2023-11-09": 59,
-  "2023-11-10": 59,
-  "2023-11-11": 61,
-  "2023-11-12": 61,
-  "2023-11-13": 61,
-  "2023-11-14": 61,
-  "2023-11-15": 61,
-  "2023-11-16": 61,
-  "2023-11-17": 63,
-  "2023-11-18": 63,
-  "2023-11-19": 63,
-  "2023-11-20": 63,
-  "2023-11-21": 63,
-  "2023-11-22": 63,
-  "2023-11-23": 63,
-  "2023-11-24": 63,
-  "2023-11-25": 63,
-  "2023-11-26": 63,
-  "2023-11-27": 63,
-  "2023-11-28": 63,
-  "2023-11-29": 63,
-  "2023-11-30": 63,
-  "2023-12-01": 63,
-  "2023-12-02": 63,
-  "2023-12-03": 63,
-  "2023-12-04": 63,
-  "2023-12-05": 63,
-  "2023-12-06": 63,
-  "2023-12-07": 63,
-  "2023-12-08": 63,
-  "2023-12-09": 66,
-  "2023-12-10": 66,
-  "2023-12-11": 66,
-  "2023-12-12": 66,
-  "2023-12-13": 66,
-  "2023-12-14": 66,
-  "2023-12-15": 66,
-  "2023-12-16": 66,
-  "2023-12-17": 66,
-  "2023-12-18": 66,
-  "2023-12-19": 67,
-  "2023-12-20": 67,
-  "2023-12-21": 67,
-  "2023-12-22": 67,
-  "2023-12-23": 67,
-  "2023-12-24": 67,
-  "2023-12-25": 67,
-  "2023-12-26": 67,
-  "2023-12-27": 68,
-  "2023-12-30": 68,
-  "2023-12-31": 68,
-  "2024-01-01": 68,
-  "2024-01-02": 68,
-  "2024-01-03": 68
+  "2024-01-17": 71,
+  "date_first_scraped": "2021-12-21",
+  "description": "Remembering the voices that have always spoken truth to power.",
+  "name": "Power To The People",
+  "tracks": [
+    {
+      "album": {
+        "name": "Father Of A Nation",
+        "url": "https://open.spotify.com/album/3eVt2MEsW0Iim1Gtije3wm"
+      },
+      "artists": [
+        {
+          "name": "Nelson Mandela",
+          "url": "https://open.spotify.com/artist/7KbasPT1gklYjhLeD8AZIG"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128160,
+      "name": "\"Free At Last\" 5/2/94",
+      "url": "https://open.spotify.com/track/29sABge43PWLmfUZbStXdP"
+    },
+    {
+      "album": {
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
+    },
+    {
+      "album": {
+        "name": "Like Water For Chocolate",
+        "url": "https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408531,
+      "name": "A Song For Assata",
+      "url": "https://open.spotify.com/track/6dhfqStWHETvJWNhhLO1Qc"
+    },
+    {
+      "album": {
+        "name": "Power to the People - The Black Panther Speeches",
+        "url": "https://open.spotify.com/album/0gmG7WSepVGfS6fv9jSzm7"
+      },
+      "artists": [
+        {
+          "name": "Fred Hampton",
+          "url": "https://open.spotify.com/artist/6J8DweKggxMXuLRTQg6NPt"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451134,
+      "name": "Against Racism",
+      "url": "https://open.spotify.com/track/0fOff5OJv7A7tTjnUGtryK"
+    },
+    {
+      "album": {
+        "name": "Angela Davis Speaks!",
+        "url": "https://open.spotify.com/album/60EHfJLvL6yKZLqd2XGjmD"
+      },
+      "artists": [
+        {
+          "name": "Angela Davis",
+          "url": "https://open.spotify.com/artist/4LsP9Fcfyln6GOh8GwYDkT"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268904,
+      "name": "Anti-Immigrant Rhetoric",
+      "url": "https://open.spotify.com/track/7I4csn2pytrogUVDMmmFVH"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/5RQRPai5wx67G2P1kbBdwv"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333933,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+    },
+    {
+      "album": {
+        "name": "The Mis-Education of the Negro",
+        "url": "https://open.spotify.com/album/6io2SUuK89XBdafEmcrCoo"
+      },
+      "artists": [
+        {
+          "name": "Carter G. Woodson",
+          "url": "https://open.spotify.com/artist/0ZcdRpxMPxw8cSC4IyCl86"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198426,
+      "name": "Chapter 10-The Loss of Vision (continued)",
+      "url": "https://open.spotify.com/track/6A0jKGXLZrfdlUIzAsVsvb"
+    },
+    {
+      "album": {
+        "name": "Civil Rights vs. Social Privilege",
+        "url": "https://open.spotify.com/album/2bkgW7I8a8eDYiabY8VVF0"
+      },
+      "artists": [
+        {
+          "name": "Martin Luther King, Jr.",
+          "url": "https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "Civil Rights vs. Social Privilege",
+      "url": "https://open.spotify.com/track/5oolbgm69Ad0EUK6zzc79w"
+    },
+    {
+      "album": {
+        "name": "The Voice of Langston Hughes",
+        "url": "https://open.spotify.com/album/47svgVhdLaB00HOKFc4Bo8"
+      },
+      "artists": [
+        {
+          "name": "Langston Hughes",
+          "url": "https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57373,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3eOzQDN7CQLo2MJYehbraw"
+    },
+    {
+      "album": {
+        "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
+        "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
+      },
+      "artists": [
+        {
+          "name": "Rev. Jesse Jackson",
+          "url": "https://open.spotify.com/artist/6ncDkEf2tfA2wJ3X2g9unp"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130133,
+      "name": "Eulogy for Jackie Robinson (Steal Away) (Piano) - /Steal Away Piano",
+      "url": "https://open.spotify.com/track/0Y2zOANQhrwsYmoEpwdEvw"
+    },
+    {
+      "album": {
+        "name": "You Don't Know Dick",
+        "url": "https://open.spotify.com/album/6BMaVNyFWCN9XpimvvQrys"
+      },
+      "artists": [
+        {
+          "name": "Dick Gregory",
+          "url": "https://open.spotify.com/artist/4ny5u89tQVgw6OmFkj454M"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429034,
+      "name": "Favorite Music",
+      "url": "https://open.spotify.com/track/4yixpYyPIqaEI0I44u2Ljl"
+    },
+    {
+      "album": {
+        "name": "Fear Of A Black Planet",
+        "url": "https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282640,
+      "name": "Fight The Power",
+      "url": "https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD"
+    },
+    {
+      "album": {
+        "name": "I Have a Dream",
+        "url": "https://open.spotify.com/album/7iehzqjey1lzABiVuRdOkp"
+      },
+      "artists": [
+        {
+          "name": "Martin Luther King, Jr.",
+          "url": "https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69853,
+      "name": "Final Speech - April 3, 1968",
+      "url": "https://open.spotify.com/track/0cFaicjXJhmqSYc49Ao2ik"
+    },
+    {
+      "album": {
+        "name": "I Have a Dream - The Complete Speech",
+        "url": "https://open.spotify.com/album/099Tc89lLG1QKFE8c191G1"
+      },
+      "artists": [
+        {
+          "name": "Martin Luther King, Jr.",
+          "url": "https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1047933,
+      "name": "I Have a Dream - The Complete Speech of Martin Luther King Jr.",
+      "url": "https://open.spotify.com/track/5PUoEOYCSx6ebj1Erfetli"
+    },
+    {
+      "album": {
+        "name": "A Voice Ringing O'er the Gale! The Oratory of Frederick Douglass Read by Ossie Davis",
+        "url": "https://open.spotify.com/album/5vcMF8ImXKc8J4CYNexMKz"
+      },
+      "artists": [
+        {
+          "name": "Ossie Davis",
+          "url": "https://open.spotify.com/artist/0WNkWajvv5wCm04A2JwDHL"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 766733,
+      "name": "If There Is No Struggle, There Is No Progress",
+      "url": "https://open.spotify.com/track/6JyNfCuQaYkMcXxNSGtGRt"
+    },
+    {
+      "album": {
+        "name": "Speeches By Malcom X - The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0K7r0Jn2cl3evFj6MFAK2c"
+      },
+      "artists": [
+        {
+          "name": "Malcolm X",
+          "url": "https://open.spotify.com/artist/2IsulP0BplLNJn8BGsvUQo"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 843441,
+      "name": "Last Speech",
+      "url": "https://open.spotify.com/track/3PWTko96IQ2lNlUpzufFRT"
+    },
+    {
+      "album": {
+        "name": "We Shall Overcome",
+        "url": "https://open.spotify.com/album/7cklzk697oyuNTu9QJadxB"
+      },
+      "artists": [
+        {
+          "name": "The Boys Choir Of Harlem",
+          "url": "https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330560,
+      "name": "Lift Every Voice and Sing",
+      "url": "https://open.spotify.com/track/6utcrEbz9W9cFoha3ouoc2"
+    },
+    {
+      "album": {
+        "name": "The Vinyl Project",
+        "url": "https://open.spotify.com/album/0LIGpl05li5brnrlNOGstL"
+      },
+      "artists": [
+        {
+          "name": "Assata Shakur",
+          "url": "https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 30546,
+      "name": "My Beliefs",
+      "url": "https://open.spotify.com/track/079pZO9Yzp8zyXf9j8JLK3"
+    },
+    {
+      "album": {
+        "name": "The Vinyl Project",
+        "url": "https://open.spotify.com/album/2lfolXtk5xklnxieg24LQR"
+      },
+      "artists": [
+        {
+          "name": "Assata Shakur",
+          "url": "https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 30546,
+      "name": "My Beliefs",
+      "url": "https://open.spotify.com/track/4iuf8G1xTIy9GxebzDTOvm"
+    },
+    {
+      "album": {
+        "name": "The Vinyl Project",
+        "url": "https://open.spotify.com/album/5BdWkNEy7V4sNqHupJj1NJ"
+      },
+      "artists": [
+        {
+          "name": "Assata Shakur",
+          "url": "https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30546,
+      "name": "My Beliefs",
+      "url": "https://open.spotify.com/track/57xQwyodBEko9mzkqx2USC"
+    },
+    {
+      "album": {
+        "name": "Beautifully Human: Words and Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251693,
+      "name": "My Petition",
+      "url": "https://open.spotify.com/track/2op7tTCjyyDTP1nMGoB7aC"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310733,
+      "name": "Mystery of Iniquity - Live",
+      "url": "https://open.spotify.com/track/5KZwRD3KklSP73jnLoNWtF"
+    },
+    {
+      "album": {
+        "name": "The Prison Industrial Complex",
+        "url": "https://open.spotify.com/album/4CAWyoeSPevGr4NyTD9U3U"
+      },
+      "artists": [
+        {
+          "name": "Angela Davis",
+          "url": "https://open.spotify.com/artist/4LsP9Fcfyln6GOh8GwYDkT"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "On Becoming An Activist",
+      "url": "https://open.spotify.com/track/0lyAZ6lmJKcmJRZGDxGAaw"
+    },
+    {
+      "album": {
+        "name": "75th Golden Globes",
+        "url": "https://open.spotify.com/album/0qkgX98Mjgslj9ycSEh8Ed"
+      },
+      "artists": [
+        {
+          "name": "Oprah Winfrey",
+          "url": "https://open.spotify.com/artist/1pzHHVOWwwvu4IPWVle6RW"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504750,
+      "name": "Oprah 75th Golden Globes Cecil B. DeMille Award Acceptance Speech",
+      "url": "https://open.spotify.com/track/1xGn1kNBQe21ZDBiQ8igBJ"
+    },
+    {
+      "album": {
+        "name": "The Great Black Nationalist",
+        "url": "https://open.spotify.com/album/1vO6OhN5zuyLk4pEyPJDAD"
+      },
+      "artists": [
+        {
+          "name": "Marcus Garvey",
+          "url": "https://open.spotify.com/artist/2aTAfW8erTD8F50nnhKZmD"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437000,
+      "name": "Part 2",
+      "url": "https://open.spotify.com/track/3SwfHDQDlR0n4JnvvUqrOj"
+    },
+    {
+      "album": {
+        "name": "Live At Syracuse, 1968",
+        "url": "https://open.spotify.com/album/7GCsvxac90RKJ2DQm6SFYY"
+      },
+      "artists": [
+        {
+          "name": "Eldridge Cleaver",
+          "url": "https://open.spotify.com/artist/6nxhRvqz0JgSi5oBxqHILh"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456413,
+      "name": "Power to the People",
+      "url": "https://open.spotify.com/track/6WIWwePtXmO2ECop98cNgy"
+    },
+    {
+      "album": {
+        "name": "Racism And Injustice",
+        "url": "https://open.spotify.com/album/1VppqDl97hTheqLvKO2Y2T"
+      },
+      "artists": [
+        {
+          "name": "Martin Luther King, Jr.",
+          "url": "https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260746,
+      "name": "Racism & Injustice",
+      "url": "https://open.spotify.com/track/2ZDKBAhNLp2ZhXWDLEXUF1"
+    },
+    {
+      "album": {
+        "name": "Huey Newton Speaks",
+        "url": "https://open.spotify.com/album/4yOtfYeRNDMJ3RRTWZAQnN"
+      },
+      "artists": [
+        {
+          "name": "Huey P. Newton",
+          "url": "https://open.spotify.com/artist/2SMi8AArIjUwlhY9TVxkZ7"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388200,
+      "name": "Revolutionary Culture",
+      "url": "https://open.spotify.com/track/1HxcfKjWfe3oZGwJy82cs8"
+    },
+    {
+      "album": {
+        "name": "Inspirational Speeches Vol. 4",
+        "url": "https://open.spotify.com/album/6DO6wVMYFIFiG6gVH2OpJ4"
+      },
+      "artists": [
+        {
+          "name": "Shirley Chisholm",
+          "url": "https://open.spotify.com/artist/44FpwpMLdOjnZhrfNPELar"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35920,
+      "name": "Shirley Chisholm - 1972",
+      "url": "https://open.spotify.com/track/55qA5UVl8rEK4TMFjC6rQ1"
+    },
+    {
+      "album": {
+        "name": "The Civil War : The Complete Work",
+        "url": "https://open.spotify.com/album/3shDCBNvoYpBwIzBkx0XAK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Maya Angelou",
+          "url": "https://open.spotify.com/artist/0NmNdh2bUgGrrIbj5Ar8GQ"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57226,
+      "name": "Still I Rise",
+      "url": "https://open.spotify.com/track/3J9NZT8U0uyRd8ZYNCkOAq"
+    },
+    {
+      "album": {
+        "name": "The Essential Mahalia Jackson",
+        "url": "https://open.spotify.com/album/2w9wFu5qjGKqBHDLNU2b8N"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252400,
+      "name": "Take My Hand, Precious Lord",
+      "url": "https://open.spotify.com/track/2BPMz5V0g0uw9phgqjY7se"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Speeches",
+        "url": "https://open.spotify.com/album/35TEWxAZnVNmZ20PHaV7Up"
+      },
+      "artists": [
+        {
+          "name": "Martin Luther King, Jr.",
+          "url": "https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1854933,
+      "name": "The American Dream",
+      "url": "https://open.spotify.com/track/3ZRKkzNKTR6cGbXOP0vxlM"
+    },
+    {
+      "album": {
+        "name": "W.E.B. DuBois: A Recorded Autobiography, Interview with Moses Asch",
+        "url": "https://open.spotify.com/album/6jvNmgzwiWc6R1TI6cjXhQ"
+      },
+      "artists": [
+        {
+          "name": "W.E.B. DuBois",
+          "url": "https://open.spotify.com/artist/0B6p2Z41UzVCPIPO94BhqF"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "The Negro and Young People",
+      "url": "https://open.spotify.com/track/5z0FmdulgRsE93NMmxrbeF"
+    },
+    {
+      "album": {
+        "name": "The Rose That Grew From Concrete",
+        "url": "https://open.spotify.com/album/17v0WKUfqS4lRiWslYyVWh"
+      },
+      "artists": [
+        {
+          "name": "Nikki Giovanni",
+          "url": "https://open.spotify.com/artist/06rw1GLIJu1xfIgO6iI7RG"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "The Rose That Grew From Concrete",
+      "url": "https://open.spotify.com/track/6Kf5cdx2MmkN8Wo43xGHIf"
+    },
+    {
+      "album": {
+        "name": "Hope, Change and History (Barack Obama's Greatest Speeches including Inaugural Oath and Address)",
+        "url": "https://open.spotify.com/album/4iwrI3d40QAX8ufR6ltAHO"
+      },
+      "artists": [
+        {
+          "name": "Barack Obama",
+          "url": "https://open.spotify.com/artist/4FySKEW0F2fAmS8Jc5ClRv"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278866,
+      "name": "We Are One (feat. A More Perfect Union)",
+      "url": "https://open.spotify.com/track/2DrtkKqEMnMsskLzl2QeoR"
+    },
+    {
+      "album": {
+        "name": "Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.",
+        "url": "https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167398,
+      "name": "We Shall Overcome",
+      "url": "https://open.spotify.com/track/5pTwWOOMfTOU2FOw89U5ua"
+    },
+    {
+      "album": {
+        "name": "What's Going On - 40th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232600,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB"
+    },
+    {
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "album": {
+        "name": "Marvin Is 60: A Tribute Album",
+        "url": "https://open.spotify.com/album/3SX6I8EJMwO2GAvlv3mC4h"
+      },
+      "artists": [
+        {
+          "name": "Profyle",
+          "url": "https://open.spotify.com/artist/4WC2Edj7Ruq94JH2jkC5hB"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238333,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/263r3yt2PU9kLeGJZB8nwU"
+    },
+    {
+      "album": {
+        "name": "What's Going On - 40th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163413,
+      "name": "What's Happening Brother",
+      "url": "https://open.spotify.com/track/3B1K9cOissM5S7zUBwd8TZ"
+    },
+    {
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "What's Happening Brother",
+      "url": "https://open.spotify.com/track/4ihykcy9d9SSC5qxHIhPcf"
+    },
+    {
+      "album": {
+        "name": "The Complete Collection",
+        "url": "https://open.spotify.com/album/65YcebOsM0lahPajqszFQw"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 164253,
+      "name": "What's Happening Brother",
+      "url": "https://open.spotify.com/track/1US2d1b6xkWkR3ch2nMxBn"
+    },
+    {
+      "album": {
+        "name": "The Rose That Grew From Concrete",
+        "url": "https://open.spotify.com/album/17v0WKUfqS4lRiWslYyVWh"
+      },
+      "artists": [
+        {
+          "name": "Sonia Sanchez",
+          "url": "https://open.spotify.com/artist/0hvH9P1nlB5xrNdlXwZ22P"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "When Ure Heart Turns Cold",
+      "url": "https://open.spotify.com/track/2xCCw5DcCQ0QVfjCfiTyBT"
+    },
+    {
+      "album": {
+        "name": "Huey Newton Speaks",
+        "url": "https://open.spotify.com/album/4yOtfYeRNDMJ3RRTWZAQnN"
+      },
+      "artists": [
+        {
+          "name": "Huey P. Newton",
+          "url": "https://open.spotify.com/artist/2SMi8AArIjUwlhY9TVxkZ7"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89973,
+      "name": "Why are the Panthers So Provocative?",
+      "url": "https://open.spotify.com/track/2fq0KcqINDwPWoTICTdmxA"
+    },
+    {
+      "album": {
+        "name": "'Nuff Said (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 771680,
+      "name": "Why? (The King of Love Is Dead) - Live at Westbury Music Fair, Westbury, NY - April 1968",
+      "url": "https://open.spotify.com/track/4gmeLpDeLk9Y2pTWJPjiG2"
+    },
+    {
+      "album": {
+        "name": "Malcolm X: The Last Speeches",
+        "url": "https://open.spotify.com/album/5OzsPioUSdoBZQ1DkcFgRx"
+      },
+      "artists": [
+        {
+          "name": "Malcolm X",
+          "url": "https://open.spotify.com/artist/2IsulP0BplLNJn8BGsvUQo"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356015,
+      "name": "You Can't Hate the Roots of a Tree and Not Hate That Tree",
+      "url": "https://open.spotify.com/track/72BW7BcNxwyFBKpsPP5HwR"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE"
 }

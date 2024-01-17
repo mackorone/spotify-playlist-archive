@@ -1,579 +1,1341 @@
 {
-  "2022-05-31": 125283,
-  "2022-06-01": 125402,
-  "2022-06-02": 125433,
-  "2022-06-03": 125510,
-  "2022-06-04": 125579,
-  "2022-06-05": 125653,
-  "2022-06-06": 125719,
-  "2022-06-07": 125789,
-  "2022-06-08": 125894,
-  "2022-06-09": 125950,
-  "2022-06-10": 126038,
-  "2022-06-11": 126103,
-  "2022-06-12": 126192,
-  "2022-06-13": 126262,
-  "2022-06-14": 126354,
-  "2022-06-15": 126436,
-  "2022-06-16": 126507,
-  "2022-06-17": 126586,
-  "2022-06-18": 126680,
-  "2022-06-19": 126814,
-  "2022-06-20": 126814,
-  "2022-06-21": 126881,
-  "2022-06-22": 127021,
-  "2022-06-23": 127021,
-  "2022-06-24": 127108,
-  "2022-06-25": 127186,
-  "2022-06-26": 127275,
-  "2022-06-27": 127350,
-  "2022-06-28": 127422,
-  "2022-06-29": 127486,
-  "2022-06-30": 127558,
-  "2022-07-01": 127636,
-  "2022-07-02": 127728,
-  "2022-07-03": 127821,
-  "2022-07-04": 127913,
-  "2022-07-05": 127913,
-  "2022-07-06": 127913,
-  "2022-07-07": 128213,
-  "2022-07-08": 128298,
-  "2022-07-09": 128402,
-  "2022-07-10": 128513,
-  "2022-07-11": 128592,
-  "2022-07-12": 128663,
-  "2022-07-13": 128771,
-  "2022-07-14": 128866,
-  "2022-07-15": 128959,
-  "2022-07-16": 129061,
-  "2022-07-17": 129139,
-  "2022-07-18": 129231,
-  "2022-07-19": 129325,
-  "2022-07-20": 129419,
-  "2022-07-21": 129503,
-  "2022-07-22": 129590,
-  "2022-07-23": 129667,
-  "2022-07-24": 129777,
-  "2022-07-25": 129860,
-  "2022-07-26": 129935,
-  "2022-07-27": 130006,
-  "2022-07-28": 130085,
-  "2022-07-29": 130162,
-  "2022-07-30": 130341,
-  "2022-07-31": 130341,
-  "2022-08-01": 130447,
-  "2022-08-02": 130617,
-  "2022-08-03": 130617,
-  "2022-08-04": 130691,
-  "2022-08-05": 130796,
-  "2022-08-06": 130888,
-  "2022-08-07": 130971,
-  "2022-08-08": 131051,
-  "2022-08-09": 131119,
-  "2022-08-10": 131209,
-  "2022-08-11": 131282,
-  "2022-08-12": 131384,
-  "2022-08-13": 131460,
-  "2022-08-14": 131551,
-  "2022-08-15": 131636,
-  "2022-08-16": 131709,
-  "2022-08-17": 131785,
-  "2022-08-18": 131857,
-  "2022-08-19": 131927,
-  "2022-08-20": 132003,
-  "2022-08-21": 132071,
-  "2022-08-22": 132154,
-  "2022-08-23": 132234,
-  "2022-08-24": 132317,
-  "2022-08-25": 132409,
-  "2022-08-26": 132574,
-  "2022-08-27": 132695,
-  "2022-08-28": 132806,
-  "2022-08-29": 132884,
-  "2022-08-30": 132918,
-  "2022-08-31": 132880,
-  "2022-09-01": 132846,
-  "2022-09-02": 132822,
-  "2022-09-03": 132703,
-  "2022-09-04": 132720,
-  "2022-09-05": 132790,
-  "2022-09-06": 132858,
-  "2022-09-07": 132933,
-  "2022-09-09": 133063,
-  "2022-09-10": 133125,
-  "2022-09-11": 133210,
-  "2022-09-12": 133268,
-  "2022-09-13": 133330,
-  "2022-09-15": 133428,
-  "2022-09-16": 133499,
-  "2022-09-17": 133560,
-  "2022-09-18": 133633,
-  "2022-09-19": 133695,
-  "2022-09-20": 133751,
-  "2022-09-21": 133824,
-  "2022-09-22": 133887,
-  "2022-09-23": 133933,
-  "2022-09-24": 133933,
-  "2022-09-25": 134067,
-  "2022-09-26": 134117,
-  "2022-09-27": 134182,
-  "2022-09-28": 134229,
-  "2022-09-29": 134282,
-  "2022-09-30": 134360,
-  "2022-10-01": 134432,
-  "2022-10-02": 134504,
-  "2022-10-03": 134573,
-  "2022-10-04": 134619,
-  "2022-10-05": 134679,
-  "2022-10-06": 134745,
-  "2022-10-07": 134786,
-  "2022-10-08": 134843,
-  "2022-10-09": 134944,
-  "2022-10-10": 134962,
-  "2022-10-11": 135027,
-  "2022-10-12": 135090,
-  "2022-10-13": 135150,
-  "2022-10-14": 135205,
-  "2022-10-15": 135273,
-  "2022-10-16": 135334,
-  "2022-10-17": 135393,
-  "2022-10-18": 135442,
-  "2022-10-19": 135528,
-  "2022-10-20": 135602,
-  "2022-10-21": 135668,
-  "2022-10-22": 135749,
-  "2022-10-23": 135821,
-  "2022-10-24": 135903,
-  "2022-10-25": 135967,
-  "2022-10-26": 136011,
-  "2022-10-27": 136072,
-  "2022-10-28": 136143,
-  "2022-10-29": 136204,
-  "2022-10-30": 136264,
-  "2022-10-31": 136306,
-  "2022-11-01": 136363,
-  "2022-11-02": 136429,
-  "2022-11-03": 136477,
-  "2022-11-04": 136549,
-  "2022-11-05": 136608,
-  "2022-11-06": 136685,
-  "2022-11-07": 136752,
-  "2022-11-08": 136842,
-  "2022-11-09": 136926,
-  "2022-11-10": 136981,
-  "2022-11-11": 137060,
-  "2022-11-12": 137139,
-  "2022-11-13": 137195,
-  "2022-11-14": 137255,
-  "2022-11-15": 137324,
-  "2022-11-16": 137400,
-  "2022-11-17": 137459,
-  "2022-11-18": 137469,
-  "2022-11-19": 137477,
-  "2022-11-20": 137545,
-  "2022-11-21": 137598,
-  "2022-11-22": 137666,
-  "2022-11-23": 137722,
-  "2022-11-24": 137828,
-  "2022-11-25": 137923,
-  "2022-11-26": 137999,
-  "2022-11-27": 138054,
-  "2022-11-28": 138102,
-  "2022-11-29": 138181,
-  "2022-11-30": 138268,
-  "2022-12-01": 138337,
-  "2022-12-02": 138377,
-  "2022-12-03": 138491,
-  "2022-12-04": 138566,
-  "2022-12-05": 138633,
-  "2022-12-06": 138697,
-  "2022-12-07": 138792,
-  "2022-12-08": 138864,
-  "2022-12-09": 138933,
-  "2022-12-10": 139013,
-  "2022-12-11": 139089,
-  "2022-12-12": 139167,
-  "2022-12-13": 139253,
-  "2022-12-14": 139337,
-  "2022-12-15": 139418,
-  "2022-12-16": 139506,
-  "2022-12-17": 139584,
-  "2022-12-18": 139648,
-  "2022-12-19": 139718,
-  "2022-12-20": 139829,
-  "2022-12-21": 139829,
-  "2022-12-22": 139896,
-  "2022-12-24": 140018,
-  "2022-12-25": 140075,
-  "2022-12-26": 140118,
-  "2022-12-27": 140177,
-  "2022-12-28": 140250,
-  "2022-12-29": 140316,
-  "2022-12-30": 140381,
-  "2022-12-31": 140449,
-  "2023-01-01": 140528,
-  "2023-01-02": 140575,
-  "2023-01-03": 140621,
-  "2023-01-04": 140663,
-  "2023-01-05": 140715,
-  "2023-01-06": 140773,
-  "2023-01-07": 140884,
-  "2023-01-08": 140898,
-  "2023-01-09": 140968,
-  "2023-01-10": 141005,
-  "2023-01-11": 141052,
-  "2023-01-12": 141097,
-  "2023-01-13": 141146,
-  "2023-01-14": 141273,
-  "2023-01-15": 141286,
-  "2023-01-16": 141345,
-  "2023-01-17": 141404,
-  "2023-01-18": 141476,
-  "2023-01-19": 141538,
-  "2023-01-20": 141582,
-  "2023-01-21": 141650,
-  "2023-01-22": 141702,
-  "2023-01-23": 141762,
-  "2023-01-24": 141829,
-  "2023-01-25": 141896,
-  "2023-01-26": 141931,
-  "2023-01-27": 141990,
-  "2023-01-28": 142038,
-  "2023-01-29": 142104,
-  "2023-01-30": 142174,
-  "2023-01-31": 142174,
-  "2023-02-01": 142278,
-  "2023-02-02": 142349,
-  "2023-02-03": 142412,
-  "2023-02-04": 142484,
-  "2023-02-05": 142531,
-  "2023-02-06": 142580,
-  "2023-02-07": 142622,
-  "2023-02-08": 142737,
-  "2023-02-09": 142737,
-  "2023-02-10": 142809,
-  "2023-02-11": 142883,
-  "2023-02-12": 142988,
-  "2023-02-13": 143034,
-  "2023-02-14": 143034,
-  "2023-02-15": 143092,
-  "2023-02-16": 143153,
-  "2023-02-17": 143203,
-  "2023-02-18": 143318,
-  "2023-02-19": 143327,
-  "2023-02-20": 143370,
-  "2023-02-21": 143435,
-  "2023-02-22": 143497,
-  "2023-02-23": 143538,
-  "2023-02-24": 143609,
-  "2023-02-25": 143704,
-  "2023-02-26": 143753,
-  "2023-02-27": 143846,
-  "2023-02-28": 143846,
-  "2023-03-01": 143904,
-  "2023-03-02": 143996,
-  "2023-03-03": 144067,
-  "2023-03-04": 144129,
-  "2023-03-05": 144260,
-  "2023-03-06": 144260,
-  "2023-03-07": 144302,
-  "2023-03-08": 144364,
-  "2023-03-09": 144417,
-  "2023-03-10": 144474,
-  "2023-03-11": 144540,
-  "2023-03-12": 144593,
-  "2023-03-13": 144643,
-  "2023-03-14": 144686,
-  "2023-03-15": 144756,
-  "2023-03-16": 144756,
-  "2023-03-17": 144756,
-  "2023-03-18": 144950,
-  "2023-03-19": 144950,
-  "2023-03-20": 145080,
-  "2023-03-21": 145117,
-  "2023-03-22": 145155,
-  "2023-03-23": 145213,
-  "2023-03-24": 145213,
-  "2023-03-25": 145364,
-  "2023-03-26": 145437,
-  "2023-03-27": 145521,
-  "2023-03-28": 145588,
-  "2023-03-29": 145657,
-  "2023-03-30": 145774,
-  "2023-03-31": 145774,
-  "2023-04-01": 145837,
-  "2023-04-02": 145897,
-  "2023-04-03": 145967,
-  "2023-04-04": 146030,
-  "2023-04-05": 146085,
-  "2023-04-06": 146140,
-  "2023-04-07": 146216,
-  "2023-04-09": 146318,
-  "2023-04-10": 146369,
-  "2023-04-11": 146489,
-  "2023-04-12": 146489,
-  "2023-04-13": 146543,
-  "2023-04-14": 146607,
-  "2023-04-15": 146691,
-  "2023-04-16": 146767,
-  "2023-04-17": 146824,
-  "2023-04-18": 146860,
-  "2023-04-19": 146900,
-  "2023-04-20": 146949,
-  "2023-04-21": 147030,
-  "2023-04-22": 147092,
-  "2023-04-23": 147164,
-  "2023-04-24": 147210,
-  "2023-04-25": 147281,
-  "2023-04-26": 147326,
-  "2023-04-27": 147392,
-  "2023-04-28": 147463,
-  "2023-04-29": 147540,
-  "2023-04-30": 147602,
-  "2023-05-01": 147644,
-  "2023-05-02": 147719,
-  "2023-05-03": 147781,
-  "2023-05-04": 147844,
-  "2023-05-05": 147903,
-  "2023-05-06": 147978,
-  "2023-05-07": 148064,
-  "2023-05-08": 148126,
-  "2023-05-09": 148192,
-  "2023-05-10": 148259,
-  "2023-05-11": 148317,
-  "2023-05-12": 148369,
-  "2023-05-13": 148412,
-  "2023-05-14": 148453,
-  "2023-05-15": 148508,
-  "2023-05-16": 148560,
-  "2023-05-17": 148627,
-  "2023-05-18": 148681,
-  "2023-05-19": 148737,
-  "2023-05-20": 148857,
-  "2023-05-21": 148857,
-  "2023-05-22": 148857,
-  "2023-05-23": 148926,
-  "2023-05-24": 148985,
-  "2023-05-25": 148992,
-  "2023-05-26": 149053,
-  "2023-05-27": 149113,
-  "2023-05-28": 149174,
-  "2023-05-29": 149174,
-  "2023-05-30": 149257,
-  "2023-05-31": 149300,
-  "2023-06-01": 149335,
-  "2023-06-02": 149372,
-  "2023-06-03": 149422,
-  "2023-06-04": 149485,
-  "2023-06-05": 149522,
-  "2023-06-06": 149552,
-  "2023-06-07": 149585,
-  "2023-06-08": 149642,
-  "2023-06-09": 149689,
-  "2023-06-10": 149763,
-  "2023-06-11": 149804,
-  "2023-06-12": 149827,
-  "2023-06-13": 149885,
-  "2023-06-14": 149936,
-  "2023-06-15": 149979,
-  "2023-06-16": 150026,
-  "2023-06-17": 150088,
-  "2023-06-18": 150145,
-  "2023-06-19": 150185,
-  "2023-06-20": 150225,
-  "2023-06-21": 150258,
-  "2023-06-22": 150307,
-  "2023-06-23": 150357,
-  "2023-06-24": 150399,
-  "2023-06-25": 150455,
-  "2023-06-26": 150495,
-  "2023-06-27": 150551,
-  "2023-06-28": 150596,
-  "2023-06-29": 150630,
-  "2023-06-30": 150684,
-  "2023-07-01": 150776,
-  "2023-07-02": 150776,
-  "2023-07-03": 150824,
-  "2023-07-04": 150872,
-  "2023-07-05": 150904,
-  "2023-07-06": 150980,
-  "2023-07-07": 150980,
-  "2023-07-08": 151019,
-  "2023-07-09": 151066,
-  "2023-07-10": 151119,
-  "2023-07-11": 151149,
-  "2023-07-12": 151205,
-  "2023-07-13": 151261,
-  "2023-07-14": 151304,
-  "2023-07-15": 151358,
-  "2023-07-16": 151430,
-  "2023-07-17": 151469,
-  "2023-07-18": 151507,
-  "2023-07-19": 151558,
-  "2023-07-20": 151602,
-  "2023-07-21": 151633,
-  "2023-07-22": 151686,
-  "2023-07-23": 151743,
-  "2023-07-24": 151775,
-  "2023-07-25": 151831,
-  "2023-07-26": 151861,
-  "2023-07-27": 151892,
-  "2023-07-28": 151942,
-  "2023-07-29": 152000,
-  "2023-07-30": 152044,
-  "2023-07-31": 152100,
-  "2023-08-01": 152147,
-  "2023-08-02": 152192,
-  "2023-08-03": 152234,
-  "2023-08-04": 152285,
-  "2023-08-05": 152319,
-  "2023-08-06": 152411,
-  "2023-08-07": 152411,
-  "2023-08-08": 152455,
-  "2023-08-09": 152498,
-  "2023-08-10": 152552,
-  "2023-08-11": 152613,
-  "2023-08-12": 152613,
-  "2023-08-13": 152613,
-  "2023-08-14": 152750,
-  "2023-08-15": 152750,
-  "2023-08-16": 152750,
-  "2023-08-17": 152750,
-  "2023-08-18": 152750,
-  "2023-08-19": 152750,
-  "2023-08-20": 153034,
-  "2023-08-21": 153034,
-  "2023-08-22": 153102,
-  "2023-08-23": 153102,
-  "2023-08-24": 153102,
-  "2023-08-25": 153102,
-  "2023-08-26": 153303,
-  "2023-08-27": 153303,
-  "2023-08-28": 153412,
-  "2023-08-29": 153412,
-  "2023-08-30": 153412,
-  "2023-08-31": 153566,
-  "2023-09-01": 153618,
-  "2023-09-02": 153618,
-  "2023-09-03": 153719,
-  "2023-09-04": 153719,
-  "2023-09-05": 153719,
-  "2023-09-06": 153865,
-  "2023-09-07": 153865,
-  "2023-09-08": 153865,
-  "2023-09-09": 153865,
-  "2023-09-10": 154083,
-  "2023-09-11": 154083,
-  "2023-09-12": 154083,
-  "2023-09-13": 154206,
-  "2023-09-14": 154206,
-  "2023-09-15": 154206,
-  "2023-09-16": 154345,
-  "2023-09-17": 154345,
-  "2023-09-18": 154345,
-  "2023-09-19": 154466,
-  "2023-09-20": 154466,
-  "2023-09-21": 154466,
-  "2023-09-22": 154583,
-  "2023-09-23": 154583,
-  "2023-09-24": 154583,
-  "2023-09-25": 154583,
-  "2023-09-26": 154756,
-  "2023-09-27": 154756,
-  "2023-09-28": 154756,
-  "2023-09-29": 154756,
-  "2023-09-30": 154756,
-  "2023-10-01": 154756,
-  "2023-10-02": 155003,
-  "2023-10-03": 155003,
-  "2023-10-04": 155003,
-  "2023-10-05": 155138,
-  "2023-10-06": 155138,
-  "2023-10-07": 155138,
-  "2023-10-08": 155138,
-  "2023-10-09": 155138,
-  "2023-10-10": 155138,
-  "2023-10-11": 155456,
-  "2023-10-12": 155456,
-  "2023-10-13": 155456,
-  "2023-10-14": 155456,
-  "2023-10-15": 155456,
-  "2023-10-16": 155456,
-  "2023-10-17": 155456,
-  "2023-10-18": 155456,
-  "2023-10-19": 155456,
-  "2023-10-20": 155456,
-  "2023-10-21": 155456,
-  "2023-10-22": 155456,
-  "2023-10-23": 155456,
-  "2023-10-24": 155456,
-  "2023-10-25": 155456,
-  "2023-10-26": 155456,
-  "2023-10-27": 155456,
-  "2023-10-28": 155456,
-  "2023-10-29": 155456,
-  "2023-10-30": 155456,
-  "2023-10-31": 155456,
-  "2023-11-01": 155456,
-  "2023-11-02": 155456,
-  "2023-11-03": 155456,
-  "2023-11-04": 155456,
-  "2023-11-05": 155456,
-  "2023-11-06": 155456,
-  "2023-11-07": 155456,
-  "2023-11-08": 155456,
-  "2023-11-09": 155456,
-  "2023-11-10": 155456,
-  "2023-11-11": 157154,
-  "2023-11-12": 157154,
-  "2023-11-13": 157154,
-  "2023-11-14": 157154,
-  "2023-11-15": 157154,
-  "2023-11-16": 157154,
-  "2023-11-17": 157154,
-  "2023-11-18": 157154,
-  "2023-11-19": 157154,
-  "2023-11-20": 157154,
-  "2023-11-21": 157154,
-  "2023-11-22": 157154,
-  "2023-11-23": 157154,
-  "2023-11-24": 157154,
-  "2023-11-25": 157154,
-  "2023-11-26": 157154,
-  "2023-11-27": 157154,
-  "2023-11-28": 157154,
-  "2023-11-29": 157154,
-  "2023-11-30": 157154,
-  "2023-12-01": 157154,
-  "2023-12-02": 157154,
-  "2023-12-03": 157154,
-  "2023-12-04": 157154,
-  "2023-12-05": 157154,
-  "2023-12-06": 157154,
-  "2023-12-07": 157154,
-  "2023-12-08": 157154,
-  "2023-12-09": 157154,
-  "2023-12-10": 157154,
-  "2023-12-11": 157154,
-  "2023-12-12": 157154,
-  "2023-12-13": 157154,
-  "2023-12-14": 158798,
-  "2023-12-15": 158836,
-  "2023-12-16": 158883,
-  "2023-12-17": 158920,
-  "2023-12-18": 158952,
-  "2023-12-19": 158986,
-  "2023-12-20": 159028,
-  "2023-12-21": 159063,
-  "2023-12-22": 159090,
-  "2023-12-23": 159149,
-  "2023-12-24": 159205,
-  "2023-12-25": 159237,
-  "2023-12-26": 159278,
-  "2023-12-27": 159310,
-  "2023-12-30": 159440,
-  "2023-12-31": 159488,
-  "2024-01-01": 159514,
-  "2024-01-02": 159541,
-  "2024-01-03": 159592
+  "2024-01-17": 159884,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Judas Priest. The essential tracks, all in one playlist.",
+  "name": "This Is Judas Priest",
+  "tracks": [
+    {
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "(Take These) Chains",
+      "url": "https://open.spotify.com/track/3fV1eQ8KNKGF18SYY6UYIr"
+    },
+    {
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344400,
+      "name": "A Touch of Evil",
+      "url": "https://open.spotify.com/track/08hn5vq1XnVmVQI4mfzsXa"
+    },
+    {
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "All Guns Blazing",
+      "url": "https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV"
+    },
+    {
+      "album": {
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264200,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv"
+    },
+    {
+      "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203066,
+      "name": "Before the Dawn",
+      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
+    },
+    {
+      "album": {
+        "name": "Redeemer of Souls (Deluxe)",
+        "url": "https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 307586,
+      "name": "Beginning of the End",
+      "url": "https://open.spotify.com/track/09cqmjncNzPyHdSxj69fQw"
+    },
+    {
+      "album": {
+        "name": "Stained Class",
+        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "Better by You, Better Than Me",
+      "url": "https://open.spotify.com/track/0GpBFY4Mb7fZVyQgaWirNG"
+    },
+    {
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289040,
+      "name": "Between the Hammer & the Anvil",
+      "url": "https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU"
+    },
+    {
+      "album": {
+        "name": "Stained Class",
+        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409800,
+      "name": "Beyond the Realms of Death",
+      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
+    },
+    {
+      "album": {
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 470960,
+      "name": "Blood Red Skies",
+      "url": "https://open.spotify.com/track/7g796noAmjjQOibxStn85a"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance",
+        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Bloodstone",
+      "url": "https://open.spotify.com/track/0njgMX72ZFD9oZnhpFLsn8"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "Breaking the Law",
+      "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
+    },
+    {
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240226,
+      "name": "Children of the Sun",
+      "url": "https://open.spotify.com/track/6rCp71jUgFxbGNsBqjLZpr"
+    },
+    {
+      "album": {
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 234840,
+      "name": "Deal with the Devil",
+      "url": "https://open.spotify.com/track/6mVMUvitJxfshLxXew7SrI"
+    },
+    {
+      "album": {
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274866,
+      "name": "Desert Plains",
+      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
+    },
+    {
+      "album": {
+        "name": "Sin After Sin",
+        "url": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203533,
+      "name": "Diamonds and Rust",
+      "url": "https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6"
+    },
+    {
+      "album": {
+        "name": "Sin After Sin",
+        "url": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 186093,
+      "name": "Dissident Aggressor",
+      "url": "https://open.spotify.com/track/3x639plCXGLyZoMcyR2IgJ"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 215560,
+      "name": "Eat Me Alive",
+      "url": "https://open.spotify.com/track/4dB5JlDpDT4WLUvX5xIXON"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "Electric Eye",
+      "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6"
+    },
+    {
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 263040,
+      "name": "Evil Never Dies",
+      "url": "https://open.spotify.com/track/1I4bh7GClCeUW4uORsZhTs"
+    },
+    {
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207444,
+      "name": "Firepower",
+      "url": "https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264360,
+      "name": "Freewheel Burning",
+      "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237800,
+      "name": "Grinder",
+      "url": "https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf"
+    },
+    {
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66266,
+      "name": "Guardians",
+      "url": "https://open.spotify.com/track/0yO4LQ2u0Y9Wc9SFI22KzW"
+    },
+    {
+      "album": {
+        "name": "Redeemer of Souls (Deluxe)",
+        "url": "https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364080,
+      "name": "Halls of Valhalla",
+      "url": "https://open.spotify.com/track/4zX2bEgFHUIZV8rR3qsLor"
+    },
+    {
+      "album": {
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225533,
+      "name": "Heading Out to the Highway",
+      "url": "https://open.spotify.com/track/7sicPw7V9SYJl3Zjme9i4p"
+    },
+    {
+      "album": {
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 358240,
+      "name": "Heavy Metal",
+      "url": "https://open.spotify.com/track/2iAtvBE3MIBtVV1fkrFdxH"
+    },
+    {
+      "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "Hell Bent for Leather",
+      "url": "https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW"
+    },
+    {
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "Hell Patrol",
+      "url": "https://open.spotify.com/track/6QKplS12OIhLVzbfCOLesv"
+    },
+    {
+      "album": {
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
+      "duration_ms": 383573,
+      "name": "Hellrider",
+      "url": "https://open.spotify.com/track/1lT80058ozaFMiXsvC8qYl"
+    },
+    {
+      "album": {
+        "name": "Sin After Sin",
+        "url": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 276240,
+      "name": "Here Come the Tears",
+      "url": "https://open.spotify.com/track/7ceSYXIn7l4RDrVPFalYgv"
+    },
+    {
+      "album": {
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Hot Rockin'",
+      "url": "https://open.spotify.com/track/3Rd4UGMRy3WWY9rcSvpvlG"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX"
+    },
+    {
+      "album": {
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279400,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/307B0j257d72HTyAiohF8N"
+    },
+    {
+      "album": {
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 253093,
+      "name": "Judas Rising",
+      "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
+    },
+    {
+      "album": {
+        "name": "Sin After Sin",
+        "url": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 336026,
+      "name": "Last Rose of Summer",
+      "url": "https://open.spotify.com/track/0h7ensMpE0QHgzrqpfXe7i"
+    },
+    {
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 214933,
+      "name": "Leather Rebel",
+      "url": "https://open.spotify.com/track/7jKqBoo7SCSQnYd8xRW6AV"
+    },
+    {
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Living After Midnight",
+      "url": "https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4"
+    },
+    {
+      "album": {
+        "name": "Nostradamus",
+        "url": "https://open.spotify.com/album/2k2m2GaoRsa0aDxo6Z2lEQ"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 268333,
+      "name": "Lost Love",
+      "url": "https://open.spotify.com/track/5TrISe7VQxaewmfwX8QPgt"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287733,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238293,
+      "name": "Metal Gods",
+      "url": "https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m"
+    },
+    {
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263973,
+      "name": "Never The Heroes",
+      "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 240440,
+      "name": "Night Comes Down",
+      "url": "https://open.spotify.com/track/2lqc273pCZk6gtkfubaCbh"
+    },
+    {
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344360,
+      "name": "Night Crawler",
+      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
+    },
+    {
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173973,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 253760,
+      "name": "Pain and Pleasure",
+      "url": "https://open.spotify.com/track/7Mt5iLXqe3NEfEOvxoms4v"
+    },
+    {
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365826,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
+    },
+    {
+      "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325987,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35"
+    },
+    {
+      "album": {
+        "name": "Turbo 30",
+        "url": "https://open.spotify.com/album/7ipED6pLR8QJpO6PN9CC2U"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 206866,
+      "name": "Parental Guidance - Remastered",
+      "url": "https://open.spotify.com/track/2eWjcLjqY60p99muNKGTjD"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance",
+        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430826,
+      "name": "Prisoner of Your Eyes",
+      "url": "https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf"
+    },
+    {
+      "album": {
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288693,
+      "name": "Ram It Down",
+      "url": "https://open.spotify.com/track/2MgefjgzhPfBjLdQ0lJchF"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Rapid Fire",
+      "url": "https://open.spotify.com/track/1Ym7220l4W7Yz7Yt26rWSr"
+    },
+    {
+      "album": {
+        "name": "Turbo 30 (Remastered 30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6fJqp1I3UMz2DzCGSJpmrS"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 261706,
+      "name": "Reckless - Remastered",
+      "url": "https://open.spotify.com/track/22vn3kQXydxE7RefULEgf5"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 222840,
+      "name": "Red, White & Blue",
+      "url": "https://open.spotify.com/track/17hS2mLPFdTzy7YcpBDv0A"
+    },
+    {
+      "album": {
+        "name": "Redeemer of Souls (Deluxe)",
+        "url": "https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 238800,
+      "name": "Redeemer of Souls",
+      "url": "https://open.spotify.com/track/19PjuOGInOfKNhU210HVNO"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance",
+        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189733,
+      "name": "Riding on the Wind",
+      "url": "https://open.spotify.com/track/4Myj2cmlFC8tsq9cqj082O"
+    },
+    {
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 323266,
+      "name": "Rising From Ruins",
+      "url": "https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333533,
+      "name": "Rock Hard Ride Free",
+      "url": "https://open.spotify.com/track/5KQY3KDpQ3tO29W7iJNfFq"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283120,
+      "name": "Screaming for Vengeance",
+      "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
+    },
+    {
+      "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 351733,
+      "name": "Sea of Red",
+      "url": "https://open.spotify.com/track/5dw4MmyoGKxPuJVscY6FKk"
+    },
+    {
+      "album": {
+        "name": "Redeemer of Souls (Deluxe)",
+        "url": "https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 341080,
+      "name": "Secrets of the Dead",
+      "url": "https://open.spotify.com/track/6s31N0HLSeIvclglvrZ5DS"
+    },
+    {
+      "album": {
+        "name": "Nostradamus",
+        "url": "https://open.spotify.com/album/7i6a0KJlgGZnimKV8oXxAn"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 70173,
+      "name": "Shadows in the Flame",
+      "url": "https://open.spotify.com/track/4CZwrqdsYlcLDqNnJlH6It"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Some Heads Are Gonna Roll",
+      "url": "https://open.spotify.com/track/4vWdaYRTWwZSmFPv9MffcS"
+    },
+    {
+      "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "The Green Manalishi (With the Two Pronged Crown)",
+      "url": "https://open.spotify.com/track/6U63nKrxHvM76KOa6kpyfq"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39920,
+      "name": "The Hellion",
+      "url": "https://open.spotify.com/track/7LLQxMvAYOpoC2PKe3VQn5"
+    },
+    {
+      "album": {
+        "name": "Living After Midnight",
+        "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260160,
+      "name": "The Hellion / Electric Eye",
+      "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302066,
+      "name": "The Sentinel",
+      "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2"
+    },
+    {
+      "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
+    },
+    {
+      "album": {
+        "name": "Turbo 30",
+        "url": "https://open.spotify.com/album/7ipED6pLR8QJpO6PN9CC2U"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333999,
+      "name": "Turbo Lover - Remastered",
+      "url": "https://open.spotify.com/track/1i5yWGXgtFABa0czv2pbZH"
+    },
+    {
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 323506,
+      "name": "Turn on Your Light",
+      "url": "https://open.spotify.com/track/6DZeLAOBfSSfDsBCIUX1qZ"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "United",
+      "url": "https://open.spotify.com/track/5QJTiFUvKTVEwcDrek3xpU"
+    },
+    {
+      "album": {
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258666,
+      "name": "Worth Fighting For",
+      "url": "https://open.spotify.com/track/4jDY1o3ACRhpbD6LiRNScd"
+    },
+    {
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310080,
+      "name": "You've Got Another Thing Coming",
+      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1q6zh6"
 }

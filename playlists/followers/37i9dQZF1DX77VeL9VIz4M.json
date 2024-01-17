@@ -1,424 +1,547 @@
 {
-  "2022-11-04": 1161,
-  "2022-11-05": 1171,
-  "2022-11-06": 1177,
-  "2022-11-07": 1185,
-  "2022-11-08": 1188,
-  "2022-11-09": 1205,
-  "2022-11-10": 1212,
-  "2022-11-11": 1220,
-  "2022-11-12": 1225,
-  "2022-11-13": 1227,
-  "2022-11-14": 1231,
-  "2022-11-15": 1234,
-  "2022-11-16": 1239,
-  "2022-11-17": 1249,
-  "2022-11-18": 1248,
-  "2022-11-19": 1253,
-  "2022-11-20": 1257,
-  "2022-11-21": 1259,
-  "2022-11-22": 1259,
-  "2022-11-23": 1264,
-  "2022-11-24": 1268,
-  "2022-11-25": 1278,
-  "2022-11-26": 1284,
-  "2022-11-27": 1290,
-  "2022-11-28": 1299,
-  "2022-11-29": 1310,
-  "2022-11-30": 1315,
-  "2022-12-01": 1322,
-  "2022-12-02": 1324,
-  "2022-12-03": 1326,
-  "2022-12-04": 1329,
-  "2022-12-05": 1329,
-  "2022-12-06": 1332,
-  "2022-12-07": 1339,
-  "2022-12-08": 1343,
-  "2022-12-09": 1344,
-  "2022-12-10": 1346,
-  "2022-12-11": 1351,
-  "2022-12-12": 1352,
-  "2022-12-13": 1358,
-  "2022-12-14": 1366,
-  "2022-12-15": 1368,
-  "2022-12-16": 1374,
-  "2022-12-17": 1382,
-  "2022-12-18": 1386,
-  "2022-12-19": 1391,
-  "2022-12-20": 1398,
-  "2022-12-21": 1398,
-  "2022-12-22": 1413,
-  "2022-12-24": 1422,
-  "2022-12-25": 1428,
-  "2022-12-26": 1436,
-  "2022-12-27": 1437,
-  "2022-12-28": 1446,
-  "2022-12-29": 1449,
-  "2022-12-30": 1457,
-  "2022-12-31": 1468,
-  "2023-01-01": 1469,
-  "2023-01-02": 1472,
-  "2023-01-03": 1476,
-  "2023-01-04": 1482,
-  "2023-01-05": 1485,
-  "2023-01-06": 1490,
-  "2023-01-07": 1500,
-  "2023-01-08": 1501,
-  "2023-01-09": 1503,
-  "2023-01-10": 1507,
-  "2023-01-11": 1513,
-  "2023-01-12": 1517,
-  "2023-01-13": 1516,
-  "2023-01-14": 1523,
-  "2023-01-15": 1524,
-  "2023-01-16": 1528,
-  "2023-01-17": 1534,
-  "2023-01-18": 1537,
-  "2023-01-19": 1548,
-  "2023-01-20": 1553,
-  "2023-01-21": 1557,
-  "2023-01-22": 1558,
-  "2023-01-23": 1562,
-  "2023-01-24": 1567,
-  "2023-01-25": 1574,
-  "2023-01-26": 1576,
-  "2023-01-27": 1578,
-  "2023-01-28": 1581,
-  "2023-01-29": 1587,
-  "2023-01-30": 1592,
-  "2023-01-31": 1592,
-  "2023-02-01": 1609,
-  "2023-02-02": 1617,
-  "2023-02-03": 1620,
-  "2023-02-04": 1625,
-  "2023-02-05": 1630,
-  "2023-02-06": 1636,
-  "2023-02-07": 1641,
-  "2023-02-08": 1648,
-  "2023-02-09": 1648,
-  "2023-02-10": 1654,
-  "2023-02-11": 1661,
-  "2023-02-12": 1672,
-  "2023-02-13": 1682,
-  "2023-02-14": 1682,
-  "2023-02-15": 1682,
-  "2023-02-16": 1687,
-  "2023-02-17": 1692,
-  "2023-02-18": 1699,
-  "2023-02-19": 1699,
-  "2023-02-20": 1702,
-  "2023-02-21": 1703,
-  "2023-02-22": 1711,
-  "2023-02-23": 1715,
-  "2023-02-24": 1718,
-  "2023-02-25": 1723,
-  "2023-02-26": 1727,
-  "2023-02-27": 1730,
-  "2023-02-28": 1730,
-  "2023-03-01": 1736,
-  "2023-03-02": 1741,
-  "2023-03-03": 1746,
-  "2023-03-04": 1750,
-  "2023-03-05": 1754,
-  "2023-03-06": 1754,
-  "2023-03-07": 1758,
-  "2023-03-08": 1762,
-  "2023-03-09": 1769,
-  "2023-03-10": 1775,
-  "2023-03-11": 1785,
-  "2023-03-12": 1789,
-  "2023-03-13": 1795,
-  "2023-03-14": 1804,
-  "2023-03-15": 1807,
-  "2023-03-16": 1816,
-  "2023-03-17": 1816,
-  "2023-03-18": 1824,
-  "2023-03-19": 1827,
-  "2023-03-20": 1834,
-  "2023-03-21": 1836,
-  "2023-03-22": 1844,
-  "2023-03-23": 1852,
-  "2023-03-24": 1852,
-  "2023-03-25": 1870,
-  "2023-03-26": 1874,
-  "2023-03-27": 1881,
-  "2023-03-28": 1880,
-  "2023-03-29": 1885,
-  "2023-03-30": 1903,
-  "2023-03-31": 1903,
-  "2023-04-01": 1905,
-  "2023-04-02": 1912,
-  "2023-04-03": 1914,
-  "2023-04-04": 1921,
-  "2023-04-05": 1922,
-  "2023-04-06": 1928,
-  "2023-04-07": 1937,
-  "2023-04-09": 1951,
-  "2023-04-10": 1959,
-  "2023-04-11": 1973,
-  "2023-04-12": 1973,
-  "2023-04-13": 1974,
-  "2023-04-14": 1981,
-  "2023-04-15": 1987,
-  "2023-04-16": 1988,
-  "2023-04-17": 1993,
-  "2023-04-18": 1996,
-  "2023-04-19": 2005,
-  "2023-04-20": 2008,
-  "2023-04-21": 2014,
-  "2023-04-22": 2023,
-  "2023-04-23": 2028,
-  "2023-04-24": 2032,
-  "2023-04-25": 2036,
-  "2023-04-26": 2043,
-  "2023-04-27": 2051,
-  "2023-04-28": 2054,
-  "2023-04-29": 2058,
-  "2023-04-30": 2058,
-  "2023-05-01": 2065,
-  "2023-05-02": 2066,
-  "2023-05-03": 2075,
-  "2023-05-04": 2079,
-  "2023-05-05": 2085,
-  "2023-05-06": 2090,
-  "2023-05-07": 2097,
-  "2023-05-08": 2099,
-  "2023-05-09": 2107,
-  "2023-05-10": 2107,
-  "2023-05-11": 2112,
-  "2023-05-12": 2118,
-  "2023-05-13": 2124,
-  "2023-05-14": 2127,
-  "2023-05-15": 2129,
-  "2023-05-16": 2137,
-  "2023-05-17": 2137,
-  "2023-05-18": 2141,
-  "2023-05-19": 2144,
-  "2023-05-20": 2155,
-  "2023-05-21": 2155,
-  "2023-05-22": 2155,
-  "2023-05-23": 2166,
-  "2023-05-24": 2178,
-  "2023-05-25": 2179,
-  "2023-05-26": 2180,
-  "2023-05-27": 2187,
-  "2023-05-28": 2194,
-  "2023-05-29": 2194,
-  "2023-05-30": 2202,
-  "2023-05-31": 2205,
-  "2023-06-01": 2205,
-  "2023-06-02": 2207,
-  "2023-06-03": 2213,
-  "2023-06-04": 2219,
-  "2023-06-05": 2222,
-  "2023-06-06": 2226,
-  "2023-06-07": 2238,
-  "2023-06-08": 2245,
-  "2023-06-09": 2251,
-  "2023-06-10": 2256,
-  "2023-06-11": 2263,
-  "2023-06-12": 2270,
-  "2023-06-13": 2273,
-  "2023-06-14": 2275,
-  "2023-06-15": 2281,
-  "2023-06-16": 2284,
-  "2023-06-17": 2292,
-  "2023-06-18": 2294,
-  "2023-06-19": 2297,
-  "2023-06-20": 2301,
-  "2023-06-21": 2309,
-  "2023-06-22": 2315,
-  "2023-06-23": 2325,
-  "2023-06-24": 2333,
-  "2023-06-25": 2337,
-  "2023-06-26": 2339,
-  "2023-06-27": 2341,
-  "2023-06-28": 2344,
-  "2023-06-29": 2351,
-  "2023-06-30": 2353,
-  "2023-07-01": 2364,
-  "2023-07-02": 2364,
-  "2023-07-03": 2371,
-  "2023-07-04": 2374,
-  "2023-07-05": 2377,
-  "2023-07-06": 2392,
-  "2023-07-07": 2392,
-  "2023-07-08": 2396,
-  "2023-07-09": 2397,
-  "2023-07-10": 2401,
-  "2023-07-11": 2409,
-  "2023-07-12": 2410,
-  "2023-07-13": 2417,
-  "2023-07-14": 2422,
-  "2023-07-15": 2424,
-  "2023-07-16": 2425,
-  "2023-07-17": 2431,
-  "2023-07-18": 2436,
-  "2023-07-19": 2442,
-  "2023-07-20": 2444,
-  "2023-07-21": 2445,
-  "2023-07-22": 2446,
-  "2023-07-23": 2449,
-  "2023-07-24": 2451,
-  "2023-07-25": 2455,
-  "2023-07-26": 2458,
-  "2023-07-27": 2464,
-  "2023-07-28": 2473,
-  "2023-07-29": 2474,
-  "2023-07-30": 2474,
-  "2023-07-31": 2477,
-  "2023-08-01": 2477,
-  "2023-08-02": 2478,
-  "2023-08-03": 2481,
-  "2023-08-04": 2486,
-  "2023-08-05": 2490,
-  "2023-08-06": 2498,
-  "2023-08-07": 2498,
-  "2023-08-08": 2500,
-  "2023-08-09": 2504,
-  "2023-08-10": 2510,
-  "2023-08-11": 2514,
-  "2023-08-12": 2517,
-  "2023-08-13": 2525,
-  "2023-08-14": 2530,
-  "2023-08-15": 2533,
-  "2023-08-16": 2533,
-  "2023-08-17": 2534,
-  "2023-08-18": 2539,
-  "2023-08-19": 2541,
-  "2023-08-20": 2544,
-  "2023-08-21": 2545,
-  "2023-08-22": 2547,
-  "2023-08-23": 2552,
-  "2023-08-24": 2550,
-  "2023-08-25": 2549,
-  "2023-08-26": 2552,
-  "2023-08-27": 2554,
-  "2023-08-28": 2555,
-  "2023-08-29": 2560,
-  "2023-08-30": 2561,
-  "2023-08-31": 2562,
-  "2023-09-01": 2582,
-  "2023-09-02": 2582,
-  "2023-09-03": 2590,
-  "2023-09-04": 2597,
-  "2023-09-05": 2610,
-  "2023-09-06": 2623,
-  "2023-09-07": 2638,
-  "2023-09-08": 2650,
-  "2023-09-09": 2657,
-  "2023-09-10": 2666,
-  "2023-09-11": 2675,
-  "2023-09-12": 2690,
-  "2023-09-13": 2702,
-  "2023-09-14": 2730,
-  "2023-09-15": 2756,
-  "2023-09-16": 2761,
-  "2023-09-17": 2770,
-  "2023-09-18": 2781,
-  "2023-09-19": 2790,
-  "2023-09-20": 2800,
-  "2023-09-21": 2808,
-  "2023-09-22": 2816,
-  "2023-09-23": 2826,
-  "2023-09-24": 2832,
-  "2023-09-25": 2845,
-  "2023-09-26": 2854,
-  "2023-09-27": 2864,
-  "2023-09-28": 2873,
-  "2023-09-29": 2886,
-  "2023-09-30": 2890,
-  "2023-10-01": 2905,
-  "2023-10-02": 2917,
-  "2023-10-03": 2942,
-  "2023-10-04": 2955,
-  "2023-10-05": 2966,
-  "2023-10-06": 2975,
-  "2023-10-07": 2986,
-  "2023-10-08": 2992,
-  "2023-10-09": 3005,
-  "2023-10-10": 3018,
-  "2023-10-11": 3042,
-  "2023-10-12": 3042,
-  "2023-10-13": 3051,
-  "2023-10-14": 3064,
-  "2023-10-15": 3072,
-  "2023-10-16": 3080,
-  "2023-10-17": 3084,
-  "2023-10-18": 3098,
-  "2023-10-19": 3105,
-  "2023-10-20": 3114,
-  "2023-10-21": 3120,
-  "2023-10-22": 3126,
-  "2023-10-23": 3143,
-  "2023-10-24": 3150,
-  "2023-10-25": 3161,
-  "2023-10-26": 3171,
-  "2023-10-27": 3184,
-  "2023-10-28": 3203,
-  "2023-10-29": 3209,
-  "2023-10-30": 3257,
-  "2023-10-31": 3257,
-  "2023-11-01": 3268,
-  "2023-11-02": 3279,
-  "2023-11-03": 3292,
-  "2023-11-04": 3310,
-  "2023-11-05": 3323,
-  "2023-11-06": 3337,
-  "2023-11-07": 3337,
-  "2023-11-08": 3337,
-  "2023-11-09": 3337,
-  "2023-11-10": 3337,
-  "2023-11-11": 3337,
-  "2023-11-12": 3337,
-  "2023-11-13": 3337,
-  "2023-11-14": 3337,
-  "2023-11-15": 3337,
-  "2023-11-16": 3337,
-  "2023-11-17": 3337,
-  "2023-11-18": 3337,
-  "2023-11-19": 3337,
-  "2023-11-20": 3337,
-  "2023-11-21": 3337,
-  "2023-11-22": 3337,
-  "2023-11-23": 3337,
-  "2023-11-24": 3337,
-  "2023-11-25": 3337,
-  "2023-11-26": 3337,
-  "2023-11-27": 3337,
-  "2023-11-28": 3337,
-  "2023-11-29": 3337,
-  "2023-11-30": 3337,
-  "2023-12-01": 3337,
-  "2023-12-02": 3337,
-  "2023-12-03": 3337,
-  "2023-12-04": 3337,
-  "2023-12-05": 3337,
-  "2023-12-06": 3337,
-  "2023-12-07": 3337,
-  "2023-12-08": 3337,
-  "2023-12-09": 3337,
-  "2023-12-10": 3337,
-  "2023-12-11": 3337,
-  "2023-12-12": 3337,
-  "2023-12-13": 3337,
-  "2023-12-14": 3337,
-  "2023-12-15": 3337,
-  "2023-12-16": 3337,
-  "2023-12-17": 3337,
-  "2023-12-18": 3337,
-  "2023-12-19": 3337,
-  "2023-12-20": 3337,
-  "2023-12-21": 3337,
-  "2023-12-22": 3337,
-  "2023-12-23": 3337,
-  "2023-12-24": 3337,
-  "2023-12-25": 3337,
-  "2023-12-26": 3337,
-  "2023-12-27": 3337,
-  "2023-12-30": 3337,
-  "2023-12-31": 3337,
-  "2024-01-01": 3337,
-  "2024-01-02": 3337,
-  "2024-01-03": 3337
+  "2024-01-17": 3337,
+  "date_first_scraped": "2022-11-04",
+  "description": "D\u00e9couvrez le mix exclusif d\u2019Andy4000 avec des titres de Gazo, Laylow, Lala &ce et bien d\u2019autres!",
+  "name": "Andy4000's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "BELLE SOMME (Mixed)",
+        "url": "https://open.spotify.com/album/3GZW1BnTebPJPv28rOJRNU"
+      },
+      "artists": [
+        {
+          "name": "Kosei",
+          "url": "https://open.spotify.com/artist/5Bg2PFMIG6oqToVIATnZsd"
+        },
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "BELLE SOMME - Mixed",
+      "url": "https://open.spotify.com/track/1MHAlJL2cGzcIOtG7T6yHp"
+    },
+    {
+      "album": {
+        "name": "Bissap (Mixed)",
+        "url": "https://open.spotify.com/album/2ZNPLuIfW219p3zpv5D55h"
+      },
+      "artists": [
+        {
+          "name": "Sadandsolo",
+          "url": "https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Bissap - Mixed",
+      "url": "https://open.spotify.com/track/5oYIrO4aZNFdHQkhHcNdih"
+    },
+    {
+      "album": {
+        "name": "Brave (Mixed)",
+        "url": "https://open.spotify.com/album/6l7dVITGlODmJz9WdGqqia"
+      },
+      "artists": [
+        {
+          "name": "Rapi Sati",
+          "url": "https://open.spotify.com/artist/1IwYT0LssMMf3aprn3pRzv"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Brave - Mixed",
+      "url": "https://open.spotify.com/track/5QGrOabBcgbbMnGES7xIFS"
+    },
+    {
+      "album": {
+        "name": "Bro Bro (Mixed)",
+        "url": "https://open.spotify.com/album/71yr9No2ApimPsufShSOwA"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Bro Bro - Mixed",
+      "url": "https://open.spotify.com/track/0cMmNeXNZYT5BxZGjF97EN"
+    },
+    {
+      "album": {
+        "name": "Convoi (Mixed)",
+        "url": "https://open.spotify.com/album/2HKWH8aK49HsXW2qQ1OdeI"
+      },
+      "artists": [
+        {
+          "name": "Sage Pee",
+          "url": "https://open.spotify.com/artist/6hkah6kDDj8tNuV4OJYvGG"
+        },
+        {
+          "name": "Allen Steve",
+          "url": "https://open.spotify.com/artist/0steH2UTETRPhQXS0C3Tfb"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "Convoi - Mixed",
+      "url": "https://open.spotify.com/track/0u3LHm8NECm2JqAK4Wm8bv"
+    },
+    {
+      "album": {
+        "name": "Crips (Mixed)",
+        "url": "https://open.spotify.com/album/0fzQfrgptGImpYGbQnypbx"
+      },
+      "artists": [
+        {
+          "name": "Alvinxx",
+          "url": "https://open.spotify.com/artist/2kdlISFpuUrmWu7cCZykct"
+        },
+        {
+          "name": "Tripa Gninnin",
+          "url": "https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Crips - Mixed",
+      "url": "https://open.spotify.com/track/0omBueIuboD4pUy1PiYBf3"
+    },
+    {
+      "album": {
+        "name": "Dead Ops Arcade (Mixed)",
+        "url": "https://open.spotify.com/album/764c55LgPbshvxVszjbO7I"
+      },
+      "artists": [
+        {
+          "name": "Jeune Morty",
+          "url": "https://open.spotify.com/artist/0j88iwyJrnRpKBhiJtG0je"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Dead Ops Arcade - Mixed",
+      "url": "https://open.spotify.com/track/5P5GNQHdSAy4oo2VsAmaOx"
+    },
+    {
+      "album": {
+        "name": "Diss (Mixed)",
+        "url": "https://open.spotify.com/album/18XLch0yQcG8rD2gqpYUa7"
+      },
+      "artists": [
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        },
+        {
+          "name": "8ruki",
+          "url": "https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2"
+        },
+        {
+          "name": "JMK$",
+          "url": "https://open.spotify.com/artist/2v6hsrO3H2uRWgdsPfGQ1d"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Diss - Mixed",
+      "url": "https://open.spotify.com/track/0K9C2w7XkDb97J0lW56iRr"
+    },
+    {
+      "album": {
+        "name": "FICHE DE PAIE (feat. OG L'enf) [Mixed]",
+        "url": "https://open.spotify.com/album/1tykXlc8adtaAGAho2ZKrp"
+      },
+      "artists": [
+        {
+          "name": "OG L'enf",
+          "url": "https://open.spotify.com/artist/0delTxa0FQdrQISLkOqwcf"
+        },
+        {
+          "name": "Ratu$",
+          "url": "https://open.spotify.com/artist/7m3gqqtxB5FGXBFmOkR8Sf"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "FICHE DE PAIE (feat. OG L'enf) - Mixed",
+      "url": "https://open.spotify.com/track/32SLO3FeIySckwUhc4W9V4"
+    },
+    {
+      "album": {
+        "name": "GTA #26 (Mixed)",
+        "url": "https://open.spotify.com/album/2UdzTOWArB2PH7YVcpAv2U"
+      },
+      "artists": [
+        {
+          "name": "Lp2.0",
+          "url": "https://open.spotify.com/artist/6zlQfBvgeOVTjootwzBTZq"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "GTA #26 - Mixed",
+      "url": "https://open.spotify.com/track/1wVHmfUbGFU9U7v3m7nLQp"
+    },
+    {
+      "album": {
+        "name": "HENNESSY (Mixed)",
+        "url": "https://open.spotify.com/album/1zXMCyuuhsi7l2yMLPhcve"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "HENNESSY - Mixed",
+      "url": "https://open.spotify.com/track/2p1d2fUZEJ7cTEA8sTgcdi"
+    },
+    {
+      "album": {
+        "name": "Hennessy (Mixed)",
+        "url": "https://open.spotify.com/album/27pzZ6vHNIspvTQAmkKbGH"
+      },
+      "artists": [
+        {
+          "name": "Selman Faris",
+          "url": "https://open.spotify.com/artist/5ayDS7FNf9uXxMk5NyhFUf"
+        },
+        {
+          "name": "K.S.A",
+          "url": "https://open.spotify.com/artist/0g5iQz7W3rnBbGOdW8ZnNH"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Hennessy - Mixed",
+      "url": "https://open.spotify.com/track/7gpVZSAp2Atg97dlFztPzF"
+    },
+    {
+      "album": {
+        "name": "Jane (Mixed)",
+        "url": "https://open.spotify.com/album/6TG48NOcLczMBsjVgZXScC"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "Jane - Mixed",
+      "url": "https://open.spotify.com/track/33AZW9kl2aeblHi6g9LTRG"
+    },
+    {
+      "album": {
+        "name": "Link Up (Mixed)",
+        "url": "https://open.spotify.com/album/76uil9kPT1aDvDir5HEYYv"
+      },
+      "artists": [
+        {
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "Link Up - Mixed",
+      "url": "https://open.spotify.com/track/1xvTYV6CeOe2ntuvcLFs6V"
+    },
+    {
+      "album": {
+        "name": "MOB (Mixed)",
+        "url": "https://open.spotify.com/album/1nJfQd8u2C4L8wN0C0C1zh"
+      },
+      "artists": [
+        {
+          "name": "Sadandsolo",
+          "url": "https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH"
+        },
+        {
+          "name": "LaRyde",
+          "url": "https://open.spotify.com/artist/4eqdziHHhcRVyDRlOV5GmJ"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "MOB - Mixed",
+      "url": "https://open.spotify.com/track/1rpdQ1otnDxc0ll6kO43ES"
+    },
+    {
+      "album": {
+        "name": "NECTAR (Mixed)",
+        "url": "https://open.spotify.com/album/3ogcMRadSvu3dmaUbJ2Uix"
+      },
+      "artists": [
+        {
+          "name": "Lala &ce",
+          "url": "https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "NECTAR - Mixed",
+      "url": "https://open.spotify.com/track/35lNV1Kap13Yd34v4Y0iKw"
+    },
+    {
+      "album": {
+        "name": "Pour ma peine (Mixed)",
+        "url": "https://open.spotify.com/album/1ocugk3CPeJtp82acCMK5v"
+      },
+      "artists": [
+        {
+          "name": "BRUNI",
+          "url": "https://open.spotify.com/artist/3i1tAoxmUFPvUlvIocCaxJ"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Pour ma peine - Mixed",
+      "url": "https://open.spotify.com/track/4IvtEoOsjF6zMjyPwXUg5g"
+    },
+    {
+      "album": {
+        "name": "Rainbow (Mixed)",
+        "url": "https://open.spotify.com/album/68mHxCbmWPCoFeamx3exQZ"
+      },
+      "artists": [
+        {
+          "name": "Varnish La Piscine",
+          "url": "https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU"
+        },
+        {
+          "name": "Slimka",
+          "url": "https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "Rainbow - Mixed",
+      "url": "https://open.spotify.com/track/3sJCynfwWzL5sojYKlxmnB"
+    },
+    {
+      "album": {
+        "name": "Regular (Mixed)",
+        "url": "https://open.spotify.com/album/45JZ70Qm0C7OfSSscIe60a"
+      },
+      "artists": [
+        {
+          "name": "3010",
+          "url": "https://open.spotify.com/artist/1KTf3AtEB3A96IfHv2kzPh"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Regular - Mixed",
+      "url": "https://open.spotify.com/track/6b2QIB83WNudBE31L5FZv0"
+    },
+    {
+      "album": {
+        "name": "Salade Coco (Mixed)",
+        "url": "https://open.spotify.com/album/1n3Zm23BzWghmvxR2vnaNF"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Salade Coco - Mixed",
+      "url": "https://open.spotify.com/track/4rctUdZnsppc3QpD0erRnG"
+    },
+    {
+      "album": {
+        "name": "STUNTMEN (feat. Alpha Wann & Wit.) [Mixed]",
+        "url": "https://open.spotify.com/album/1KvAd7B8Jwnq9ZZDuOfeqB"
+      },
+      "artists": [
+        {
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+        },
+        {
+          "name": "Wit.",
+          "url": "https://open.spotify.com/artist/4ME56PlDfT9QKf6sGcRgPm"
+        },
+        {
+          "name": "Alpha Wann",
+          "url": "https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "STUNTMEN (feat. Alpha Wann & Wit.) - Mixed",
+      "url": "https://open.spotify.com/track/4FWbNuTgNKUFswfyMMDMsD"
+    },
+    {
+      "album": {
+        "name": "Tookah 4 (Mixed)",
+        "url": "https://open.spotify.com/album/240Ul8gGZBj07rTomt3qQy"
+      },
+      "artists": [
+        {
+          "name": "i300",
+          "url": "https://open.spotify.com/artist/5crOTgkcDtgMTCoatASEBs"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Tookah 4 - Mixed",
+      "url": "https://open.spotify.com/track/2zBVZ6iTK6FJn3eFyu8e76"
+    },
+    {
+      "album": {
+        "name": "TOP SHELF (Mixed)",
+        "url": "https://open.spotify.com/album/7JCmnoLXH781PyCSmczfH0"
+      },
+      "artists": [
+        {
+          "name": "JMK$",
+          "url": "https://open.spotify.com/artist/2v6hsrO3H2uRWgdsPfGQ1d"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "TOP SHELF - Mixed",
+      "url": "https://open.spotify.com/track/7g0buq4negE6mGIpdVSPPX"
+    },
+    {
+      "album": {
+        "name": "Toxic (Mixed)",
+        "url": "https://open.spotify.com/album/7cyssLl7Jtu99zLwBKs4oC"
+      },
+      "artists": [
+        {
+          "name": "Lala &ce",
+          "url": "https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Toxic - Mixed",
+      "url": "https://open.spotify.com/track/4eGOPZMqMwW6OkIWE6f5Jw"
+    },
+    {
+      "album": {
+        "name": "Turn Up (feat. Le Juiice) [Mixed]",
+        "url": "https://open.spotify.com/album/3F8V6OisW8KBSUZCDMdCAE"
+      },
+      "artists": [
+        {
+          "name": "Widgunz",
+          "url": "https://open.spotify.com/artist/3sIJ8AYWsQmlgIcLxwiFkt"
+        },
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Turn Up (feat. Le Juiice) - Mixed",
+      "url": "https://open.spotify.com/track/2zPWQkQyrlSbA2q3NMeNVc"
+    },
+    {
+      "album": {
+        "name": "Wassup!? (Cahtiiii) [Mixed]",
+        "url": "https://open.spotify.com/album/24RzsVAdgsu82P9zQcOwEA"
+      },
+      "artists": [
+        {
+          "name": "Implaccable",
+          "url": "https://open.spotify.com/artist/3C8QCxiwXngZyoIKvJ56OJ"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66000,
+      "name": "Wassup!? (Cahtiiii) - Mixed",
+      "url": "https://open.spotify.com/track/2tuL0mH85t1vdMCbJ4oIJJ"
+    },
+    {
+      "album": {
+        "name": "WORK (Mixed)",
+        "url": "https://open.spotify.com/album/3ulDkxDJ1MCT2BcXefozQP"
+      },
+      "artists": [
+        {
+          "name": "Skuna",
+          "url": "https://open.spotify.com/artist/0Su00YAdlLw2Aetn7RZLJj"
+        },
+        {
+          "name": "thaHomey",
+          "url": "https://open.spotify.com/artist/5N2P9zB8202SrtnWCjqe1j"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "WORK - Mixed",
+      "url": "https://open.spotify.com/track/7pZHrEqNCmHN5qH4oll1yT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX77VeL9VIz4M"
 }

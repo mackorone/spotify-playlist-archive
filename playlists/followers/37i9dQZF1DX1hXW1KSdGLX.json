@@ -1,99 +1,257 @@
 {
-  "2023-09-27": 1442,
-  "2023-09-28": 1461,
-  "2023-09-29": 1474,
-  "2023-09-30": 1484,
-  "2023-10-01": 1498,
-  "2023-10-02": 1511,
-  "2023-10-03": 1525,
-  "2023-10-04": 1548,
-  "2023-10-05": 1561,
-  "2023-10-06": 1569,
-  "2023-10-07": 1575,
-  "2023-10-08": 1593,
-  "2023-10-09": 1609,
-  "2023-10-10": 1623,
-  "2023-10-11": 1638,
-  "2023-10-12": 1638,
-  "2023-10-13": 1652,
-  "2023-10-14": 1658,
-  "2023-10-15": 1675,
-  "2023-10-16": 1682,
-  "2023-10-17": 1686,
-  "2023-10-18": 1693,
-  "2023-10-19": 1701,
-  "2023-10-20": 1711,
-  "2023-10-21": 1723,
-  "2023-10-22": 1737,
-  "2023-10-23": 1749,
-  "2023-10-24": 1762,
-  "2023-10-25": 1773,
-  "2023-10-26": 1786,
-  "2023-10-27": 1802,
-  "2023-10-28": 1817,
-  "2023-10-29": 1829,
-  "2023-10-30": 1852,
-  "2023-10-31": 1852,
-  "2023-11-01": 1864,
-  "2023-11-02": 1879,
-  "2023-11-03": 1893,
-  "2023-11-04": 1907,
-  "2023-11-05": 1927,
-  "2023-11-06": 1941,
-  "2023-11-07": 1941,
-  "2023-11-08": 1941,
-  "2023-11-09": 1941,
-  "2023-11-10": 1941,
-  "2023-11-11": 1941,
-  "2023-11-12": 1941,
-  "2023-11-13": 1941,
-  "2023-11-14": 1941,
-  "2023-11-15": 1941,
-  "2023-11-16": 1941,
-  "2023-11-17": 1941,
-  "2023-11-18": 1941,
-  "2023-11-19": 1941,
-  "2023-11-20": 1941,
-  "2023-11-21": 1941,
-  "2023-11-22": 1941,
-  "2023-11-23": 1941,
-  "2023-11-24": 1941,
-  "2023-11-25": 1941,
-  "2023-11-26": 1941,
-  "2023-11-27": 1941,
-  "2023-11-28": 1941,
-  "2023-11-29": 1941,
-  "2023-11-30": 1941,
-  "2023-12-01": 1941,
-  "2023-12-02": 1941,
-  "2023-12-03": 1941,
-  "2023-12-04": 1941,
-  "2023-12-05": 1941,
-  "2023-12-06": 1941,
-  "2023-12-07": 1941,
-  "2023-12-08": 1941,
-  "2023-12-09": 1941,
-  "2023-12-10": 1941,
-  "2023-12-11": 1941,
-  "2023-12-12": 1941,
-  "2023-12-13": 1941,
-  "2023-12-14": 1941,
-  "2023-12-15": 1941,
-  "2023-12-16": 1941,
-  "2023-12-17": 1941,
-  "2023-12-18": 1941,
-  "2023-12-19": 1941,
-  "2023-12-20": 1941,
-  "2023-12-21": 1941,
-  "2023-12-22": 1941,
-  "2023-12-23": 1941,
-  "2023-12-24": 1941,
-  "2023-12-25": 1941,
-  "2023-12-26": 1941,
-  "2023-12-27": 1941,
-  "2023-12-30": 1941,
-  "2023-12-31": 1941,
-  "2024-01-01": 1941,
-  "2024-01-02": 1941,
-  "2024-01-03": 1941
+  "2024-01-17": 1941,
+  "date_first_scraped": "2023-09-27",
+  "description": "The German producer and singer  <a href=\"spotify:artist:5cmqnZNaNDqgcsTOkQUmqB\">Perel</a>  showcases her latest mix blending electro sounds and nudisco influences.",
+  "name": "Perel's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Charmed Sleep (Mixed)",
+        "url": "https://open.spotify.com/album/7x9u1A4JCcr1lnrR6lnYKe"
+      },
+      "artists": [
+        {
+          "name": "Elisa Bee",
+          "url": "https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Charmed Sleep - Mixed",
+      "url": "https://open.spotify.com/track/2tfHXDMYnRFLkxTCODJ045"
+    },
+    {
+      "album": {
+        "name": "Down - Sworn Virgins Remix (Mixed)",
+        "url": "https://open.spotify.com/album/2kKgRphyufZmywuOTeXwh0"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Sworn Virgins",
+          "url": "https://open.spotify.com/artist/5xA3zslV2KbUIZR5QsuNgw"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415000,
+      "name": "Down - Sworn Virgins Remix - Mixed",
+      "url": "https://open.spotify.com/track/5mO2aOXY7zQIq8fvj4kkfV"
+    },
+    {
+      "album": {
+        "name": "Electric Kingdom (Mixed)",
+        "url": "https://open.spotify.com/album/4H4ZcLVyHbbMGOytqytwt8"
+      },
+      "artists": [
+        {
+          "name": "Lexy & K-Paul",
+          "url": "https://open.spotify.com/artist/5Jpy5UevFNksfrxNyE7tcE"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Electric Kingdom - Mixed",
+      "url": "https://open.spotify.com/track/5tqhfMDnDcPD0p6zvbbqoN"
+    },
+    {
+      "album": {
+        "name": "Freakshow - Perel Remix (Mixed)",
+        "url": "https://open.spotify.com/album/2lN4TsTvPNUD3bd3HWTzOJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Hell",
+          "url": "https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C"
+        },
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "Freakshow - Perel Remix - Mixed",
+      "url": "https://open.spotify.com/track/644NUeyLbYvR5iBwXrm9Dj"
+    },
+    {
+      "album": {
+        "name": "Mirage (Mixed)",
+        "url": "https://open.spotify.com/album/08qwMH25sM6JrGqsExTnuy"
+      },
+      "artists": [
+        {
+          "name": "Local Suicide",
+          "url": "https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0"
+        },
+        {
+          "name": "Kalipo",
+          "url": "https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi"
+        },
+        {
+          "name": "Dina Summer",
+          "url": "https://open.spotify.com/artist/0s4dIi02iAv3SiJfBrNhHo"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Mirage - Mixed",
+      "url": "https://open.spotify.com/track/3xn6KgUNV7kWsioEiwZlRn"
+    },
+    {
+      "album": {
+        "name": "Missing Love - Jennifer Cardini & Damon Jee Remix (Mixed)",
+        "url": "https://open.spotify.com/album/27RghCiPRdUGss2MR71Tgy"
+      },
+      "artists": [
+        {
+          "name": "Leonie Pernet",
+          "url": "https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC"
+        },
+        {
+          "name": "Damon Jee",
+          "url": "https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d"
+        },
+        {
+          "name": "Jennifer Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321000,
+      "name": "Missing Love - Jennifer Cardini & Damon Jee Remix - Mixed",
+      "url": "https://open.spotify.com/track/0oL41n9aBl3a5Wo68b8egv"
+    },
+    {
+      "album": {
+        "name": "Romantiko (Mixed)",
+        "url": "https://open.spotify.com/album/4VYOtbl0viFrolV33rrheM"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bai",
+          "url": "https://open.spotify.com/artist/4ewUW6zC84BPLDlYU7KBNp"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Romantiko - Mixed",
+      "url": "https://open.spotify.com/track/13StGyi6hYlKtJKQ5sgipQ"
+    },
+    {
+      "album": {
+        "name": "Spring Sonnet (Mixed)",
+        "url": "https://open.spotify.com/album/5oGlXKJP9RLFsQLCvgOoby"
+      },
+      "artists": [
+        {
+          "name": "Patick Conway",
+          "url": "https://open.spotify.com/artist/3i139B9IWsTLImSNfbTTxX"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Spring Sonnet - Mixed",
+      "url": "https://open.spotify.com/track/0htu2PZFaxYrB2tLeMNeYp"
+    },
+    {
+      "album": {
+        "name": "The Attention Deficit Track - Terrace Mix (Mixed)",
+        "url": "https://open.spotify.com/album/0azpwLahGxMjXw6Ebf6aI3"
+      },
+      "artists": [
+        {
+          "name": "Jackmaster",
+          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "The Attention Deficit Track - Terrace Mix - Mixed",
+      "url": "https://open.spotify.com/track/2X4Eeoqfk9RlQMG0ZRh25A"
+    },
+    {
+      "album": {
+        "name": "The Future Is Waiting (Mixed)",
+        "url": "https://open.spotify.com/album/6rtQ3ic8dnHxZBcvlRdht8"
+      },
+      "artists": [
+        {
+          "name": "Curses",
+          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
+        },
+        {
+          "name": "Venice Arms",
+          "url": "https://open.spotify.com/artist/3zn5BwKIOSI9C7PNbqM7Mw"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369000,
+      "name": "The Future Is Waiting - Mixed",
+      "url": "https://open.spotify.com/track/6M1J0xO86vXrO96555S9oi"
+    },
+    {
+      "album": {
+        "name": "The Legacy - Remastered 2001 Remake (Mixed)",
+        "url": "https://open.spotify.com/album/3vdROvtP0s8rbvJSqiVJ74"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454000,
+      "name": "The Legacy - Remastered 2001 Remake - Mixed",
+      "url": "https://open.spotify.com/track/0Bn6GufvCHmwDtvNx04Ybe"
+    },
+    {
+      "album": {
+        "name": "Tip Top (Mixed)",
+        "url": "https://open.spotify.com/album/1Pe4eJUG9BkmB7cb9B2TF2"
+      },
+      "artists": [
+        {
+          "name": "Ichisan",
+          "url": "https://open.spotify.com/artist/4ozivSEPMOBki3Z2JDGlIk"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Tip Top - Mixed",
+      "url": "https://open.spotify.com/track/6YEIXm6E0068QPmTsFWduv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1hXW1KSdGLX"
 }

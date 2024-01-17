@@ -1,542 +1,629 @@
 {
-  "2022-07-07": 12,
-  "2022-07-08": 87,
-  "2022-07-09": 155,
-  "2022-07-10": 189,
-  "2022-07-11": 225,
-  "2022-07-12": 249,
-  "2022-07-13": 275,
-  "2022-07-14": 325,
-  "2022-07-15": 362,
-  "2022-07-16": 394,
-  "2022-07-17": 421,
-  "2022-07-18": 444,
-  "2022-07-19": 479,
-  "2022-07-20": 505,
-  "2022-07-21": 519,
-  "2022-07-22": 539,
-  "2022-07-23": 566,
-  "2022-07-24": 598,
-  "2022-07-25": 614,
-  "2022-07-26": 626,
-  "2022-07-27": 653,
-  "2022-07-28": 672,
-  "2022-07-29": 689,
-  "2022-07-30": 722,
-  "2022-07-31": 722,
-  "2022-08-01": 742,
-  "2022-08-02": 771,
-  "2022-08-03": 771,
-  "2022-08-04": 792,
-  "2022-08-05": 809,
-  "2022-08-06": 826,
-  "2022-08-07": 838,
-  "2022-08-08": 846,
-  "2022-08-09": 864,
-  "2022-08-10": 878,
-  "2022-08-11": 894,
-  "2022-08-12": 915,
-  "2022-08-13": 929,
-  "2022-08-14": 944,
-  "2022-08-15": 954,
-  "2022-08-16": 967,
-  "2022-08-17": 988,
-  "2022-08-18": 1003,
-  "2022-08-19": 1015,
-  "2022-08-20": 1031,
-  "2022-08-21": 1049,
-  "2022-08-22": 1070,
-  "2022-08-23": 1095,
-  "2022-08-24": 1112,
-  "2022-08-25": 1130,
-  "2022-08-26": 1151,
-  "2022-08-27": 1175,
-  "2022-08-28": 1183,
-  "2022-08-29": 1196,
-  "2022-08-30": 1220,
-  "2022-08-31": 1236,
-  "2022-09-01": 1257,
-  "2022-09-02": 1275,
-  "2022-09-03": 1292,
-  "2022-09-04": 1304,
-  "2022-09-05": 1317,
-  "2022-09-06": 1335,
-  "2022-09-07": 1349,
-  "2022-09-09": 1370,
-  "2022-09-10": 1384,
-  "2022-09-11": 1398,
-  "2022-09-12": 1414,
-  "2022-09-13": 1419,
-  "2022-09-15": 1437,
-  "2022-09-16": 1455,
-  "2022-09-17": 1479,
-  "2022-09-18": 1501,
-  "2022-09-19": 1514,
-  "2022-09-20": 1533,
-  "2022-09-21": 1563,
-  "2022-09-22": 1586,
-  "2022-09-23": 1602,
-  "2022-09-24": 1625,
-  "2022-09-25": 1648,
-  "2022-09-26": 1671,
-  "2022-09-27": 1685,
-  "2022-09-28": 1703,
-  "2022-09-29": 1726,
-  "2022-09-30": 1745,
-  "2022-10-01": 1772,
-  "2022-10-02": 1789,
-  "2022-10-03": 1804,
-  "2022-10-04": 1819,
-  "2022-10-05": 1829,
-  "2022-10-06": 1842,
-  "2022-10-07": 1860,
-  "2022-10-08": 1873,
-  "2022-10-09": 1910,
-  "2022-10-10": 1915,
-  "2022-10-11": 1936,
-  "2022-10-12": 1948,
-  "2022-10-13": 1966,
-  "2022-10-14": 1987,
-  "2022-10-15": 2002,
-  "2022-10-16": 2017,
-  "2022-10-17": 2031,
-  "2022-10-18": 2042,
-  "2022-10-19": 2065,
-  "2022-10-20": 2081,
-  "2022-10-21": 2102,
-  "2022-10-22": 2121,
-  "2022-10-23": 2126,
-  "2022-10-24": 2130,
-  "2022-10-25": 2148,
-  "2022-10-26": 2160,
-  "2022-10-27": 2174,
-  "2022-10-28": 2176,
-  "2022-10-29": 2188,
-  "2022-10-30": 2194,
-  "2022-10-31": 2201,
-  "2022-11-01": 2199,
-  "2022-11-02": 2198,
-  "2022-11-03": 2199,
-  "2022-11-04": 2205,
-  "2022-11-05": 2210,
-  "2022-11-06": 2210,
-  "2022-11-07": 2208,
-  "2022-11-08": 2210,
-  "2022-11-09": 2210,
-  "2022-11-10": 2215,
-  "2022-11-11": 2218,
-  "2022-11-12": 2219,
-  "2022-11-13": 2220,
-  "2022-11-14": 2227,
-  "2022-11-15": 2231,
-  "2022-11-16": 2232,
-  "2022-11-17": 2233,
-  "2022-11-18": 2237,
-  "2022-11-19": 2235,
-  "2022-11-20": 2240,
-  "2022-11-21": 2239,
-  "2022-11-22": 2244,
-  "2022-11-23": 2243,
-  "2022-11-24": 2251,
-  "2022-11-25": 2255,
-  "2022-11-26": 2255,
-  "2022-11-27": 2258,
-  "2022-11-28": 2262,
-  "2022-11-29": 2259,
-  "2022-11-30": 2263,
-  "2022-12-01": 2267,
-  "2022-12-02": 2271,
-  "2022-12-03": 2272,
-  "2022-12-04": 2273,
-  "2022-12-05": 2275,
-  "2022-12-06": 2281,
-  "2022-12-07": 2287,
-  "2022-12-08": 2292,
-  "2022-12-09": 2294,
-  "2022-12-10": 2295,
-  "2022-12-11": 2298,
-  "2022-12-12": 2303,
-  "2022-12-13": 2304,
-  "2022-12-14": 2305,
-  "2022-12-15": 2305,
-  "2022-12-16": 2308,
-  "2022-12-17": 2313,
-  "2022-12-18": 2316,
-  "2022-12-19": 2324,
-  "2022-12-20": 2329,
-  "2022-12-21": 2329,
-  "2022-12-22": 2330,
-  "2022-12-24": 2339,
-  "2022-12-25": 2341,
-  "2022-12-26": 2344,
-  "2022-12-27": 2346,
-  "2022-12-28": 2353,
-  "2022-12-29": 2352,
-  "2022-12-30": 2353,
-  "2022-12-31": 2356,
-  "2023-01-01": 2355,
-  "2023-01-02": 2356,
-  "2023-01-03": 2360,
-  "2023-01-04": 2365,
-  "2023-01-05": 2369,
-  "2023-01-06": 2373,
-  "2023-01-07": 2376,
-  "2023-01-08": 2376,
-  "2023-01-09": 2378,
-  "2023-01-10": 2380,
-  "2023-01-11": 2383,
-  "2023-01-12": 2386,
-  "2023-01-13": 2391,
-  "2023-01-14": 2393,
-  "2023-01-15": 2392,
-  "2023-01-16": 2394,
-  "2023-01-17": 2398,
-  "2023-01-18": 2403,
-  "2023-01-19": 2408,
-  "2023-01-20": 2415,
-  "2023-01-21": 2419,
-  "2023-01-22": 2427,
-  "2023-01-23": 2428,
-  "2023-01-24": 2428,
-  "2023-01-25": 2429,
-  "2023-01-26": 2432,
-  "2023-01-27": 2438,
-  "2023-01-28": 2439,
-  "2023-01-29": 2438,
-  "2023-01-30": 2440,
-  "2023-01-31": 2440,
-  "2023-02-01": 2447,
-  "2023-02-02": 2451,
-  "2023-02-03": 2451,
-  "2023-02-04": 2454,
-  "2023-02-05": 2461,
-  "2023-02-06": 2463,
-  "2023-02-07": 2466,
-  "2023-02-08": 2470,
-  "2023-02-09": 2470,
-  "2023-02-10": 2472,
-  "2023-02-11": 2478,
-  "2023-02-12": 2484,
-  "2023-02-13": 2490,
-  "2023-02-14": 2490,
-  "2023-02-15": 2492,
-  "2023-02-16": 2495,
-  "2023-02-17": 2498,
-  "2023-02-18": 2497,
-  "2023-02-19": 2498,
-  "2023-02-20": 2500,
-  "2023-02-21": 2503,
-  "2023-02-22": 2504,
-  "2023-02-23": 2511,
-  "2023-02-24": 2516,
-  "2023-02-25": 2516,
-  "2023-02-26": 2517,
-  "2023-02-27": 2526,
-  "2023-02-28": 2526,
-  "2023-03-01": 2528,
-  "2023-03-02": 2531,
-  "2023-03-03": 2534,
-  "2023-03-04": 2535,
-  "2023-03-05": 2541,
-  "2023-03-06": 2541,
-  "2023-03-07": 2543,
-  "2023-03-08": 2546,
-  "2023-03-09": 2548,
-  "2023-03-10": 2550,
-  "2023-03-11": 2549,
-  "2023-03-12": 2552,
-  "2023-03-13": 2554,
-  "2023-03-14": 2559,
-  "2023-03-15": 2562,
-  "2023-03-16": 2563,
-  "2023-03-17": 2563,
-  "2023-03-18": 2569,
-  "2023-03-19": 2573,
-  "2023-03-20": 2577,
-  "2023-03-21": 2582,
-  "2023-03-22": 2584,
-  "2023-03-23": 2588,
-  "2023-03-24": 2588,
-  "2023-03-25": 2591,
-  "2023-03-26": 2595,
-  "2023-03-27": 2601,
-  "2023-03-28": 2604,
-  "2023-03-29": 2608,
-  "2023-03-30": 2613,
-  "2023-03-31": 2613,
-  "2023-04-01": 2614,
-  "2023-04-02": 2616,
-  "2023-04-03": 2620,
-  "2023-04-04": 2625,
-  "2023-04-05": 2625,
-  "2023-04-06": 2627,
-  "2023-04-07": 2631,
-  "2023-04-09": 2638,
-  "2023-04-10": 2639,
-  "2023-04-11": 2649,
-  "2023-04-12": 2649,
-  "2023-04-13": 2650,
-  "2023-04-14": 2651,
-  "2023-04-15": 2652,
-  "2023-04-16": 2653,
-  "2023-04-17": 2654,
-  "2023-04-18": 2655,
-  "2023-04-19": 2657,
-  "2023-04-20": 2662,
-  "2023-04-21": 2665,
-  "2023-04-22": 2672,
-  "2023-04-23": 2673,
-  "2023-04-24": 2672,
-  "2023-04-25": 2674,
-  "2023-04-26": 2674,
-  "2023-04-27": 2674,
-  "2023-04-28": 2674,
-  "2023-04-29": 2674,
-  "2023-04-30": 2674,
-  "2023-05-01": 2678,
-  "2023-05-02": 2678,
-  "2023-05-03": 2677,
-  "2023-05-04": 2677,
-  "2023-05-05": 2677,
-  "2023-05-06": 2679,
-  "2023-05-07": 2681,
-  "2023-05-08": 2684,
-  "2023-05-09": 2688,
-  "2023-05-10": 2689,
-  "2023-05-11": 2691,
-  "2023-05-12": 2692,
-  "2023-05-13": 2693,
-  "2023-05-14": 2697,
-  "2023-05-15": 2698,
-  "2023-05-16": 2697,
-  "2023-05-17": 2700,
-  "2023-05-18": 2703,
-  "2023-05-19": 2706,
-  "2023-05-20": 2708,
-  "2023-05-21": 2708,
-  "2023-05-22": 2708,
-  "2023-05-23": 2718,
-  "2023-05-24": 2719,
-  "2023-05-25": 2720,
-  "2023-05-26": 2720,
-  "2023-05-27": 2721,
-  "2023-05-28": 2722,
-  "2023-05-29": 2722,
-  "2023-05-30": 2720,
-  "2023-05-31": 2721,
-  "2023-06-01": 2721,
-  "2023-06-02": 2724,
-  "2023-06-03": 2725,
-  "2023-06-04": 2726,
-  "2023-06-05": 2725,
-  "2023-06-06": 2726,
-  "2023-06-07": 2729,
-  "2023-06-08": 2728,
-  "2023-06-09": 2729,
-  "2023-06-10": 2732,
-  "2023-06-11": 2733,
-  "2023-06-12": 2734,
-  "2023-06-13": 2737,
-  "2023-06-14": 2739,
-  "2023-06-15": 2741,
-  "2023-06-16": 2742,
-  "2023-06-17": 2744,
-  "2023-06-18": 2746,
-  "2023-06-19": 2746,
-  "2023-06-20": 2748,
-  "2023-06-21": 2746,
-  "2023-06-22": 2747,
-  "2023-06-23": 2753,
-  "2023-06-24": 2752,
-  "2023-06-25": 2756,
-  "2023-06-26": 2756,
-  "2023-06-27": 2755,
-  "2023-06-28": 2758,
-  "2023-06-29": 2760,
-  "2023-06-30": 2762,
-  "2023-07-01": 2765,
-  "2023-07-02": 2765,
-  "2023-07-03": 2767,
-  "2023-07-04": 2769,
-  "2023-07-05": 2770,
-  "2023-07-06": 2775,
-  "2023-07-07": 2775,
-  "2023-07-08": 2774,
-  "2023-07-09": 2774,
-  "2023-07-10": 2776,
-  "2023-07-11": 2781,
-  "2023-07-12": 2786,
-  "2023-07-13": 2790,
-  "2023-07-14": 2793,
-  "2023-07-15": 2797,
-  "2023-07-16": 2801,
-  "2023-07-17": 2802,
-  "2023-07-18": 2805,
-  "2023-07-19": 2806,
-  "2023-07-20": 2806,
-  "2023-07-21": 2811,
-  "2023-07-22": 2814,
-  "2023-07-23": 2814,
-  "2023-07-24": 2815,
-  "2023-07-25": 2816,
-  "2023-07-26": 2819,
-  "2023-07-27": 2820,
-  "2023-07-28": 2822,
-  "2023-07-29": 2822,
-  "2023-07-30": 2822,
-  "2023-07-31": 2820,
-  "2023-08-01": 2824,
-  "2023-08-02": 2828,
-  "2023-08-03": 2834,
-  "2023-08-04": 2832,
-  "2023-08-05": 2833,
-  "2023-08-06": 2834,
-  "2023-08-07": 2834,
-  "2023-08-08": 2839,
-  "2023-08-09": 2844,
-  "2023-08-10": 2848,
-  "2023-08-11": 2848,
-  "2023-08-12": 2850,
-  "2023-08-13": 2849,
-  "2023-08-14": 2852,
-  "2023-08-15": 2855,
-  "2023-08-16": 2855,
-  "2023-08-17": 2854,
-  "2023-08-18": 2854,
-  "2023-08-19": 2855,
-  "2023-08-20": 2858,
-  "2023-08-21": 2864,
-  "2023-08-22": 2863,
-  "2023-08-23": 2864,
-  "2023-08-24": 2865,
-  "2023-08-25": 2866,
-  "2023-08-26": 2867,
-  "2023-08-27": 2866,
-  "2023-08-28": 2866,
-  "2023-08-29": 2868,
-  "2023-08-30": 2870,
-  "2023-08-31": 2870,
-  "2023-09-01": 2885,
-  "2023-09-02": 2885,
-  "2023-09-03": 2889,
-  "2023-09-04": 2894,
-  "2023-09-05": 2902,
-  "2023-09-06": 2910,
-  "2023-09-07": 2921,
-  "2023-09-08": 2926,
-  "2023-09-09": 2935,
-  "2023-09-10": 2944,
-  "2023-09-11": 2960,
-  "2023-09-12": 2977,
-  "2023-09-13": 2990,
-  "2023-09-14": 2996,
-  "2023-09-15": 3004,
-  "2023-09-16": 3014,
-  "2023-09-17": 3027,
-  "2023-09-18": 3039,
-  "2023-09-19": 3052,
-  "2023-09-20": 3058,
-  "2023-09-21": 3071,
-  "2023-09-22": 3079,
-  "2023-09-23": 3088,
-  "2023-09-24": 3093,
-  "2023-09-25": 3104,
-  "2023-09-26": 3118,
-  "2023-09-27": 3123,
-  "2023-09-28": 3129,
-  "2023-09-29": 3140,
-  "2023-09-30": 3146,
-  "2023-10-01": 3159,
-  "2023-10-02": 3165,
-  "2023-10-03": 3172,
-  "2023-10-04": 3182,
-  "2023-10-05": 3189,
-  "2023-10-06": 3193,
-  "2023-10-07": 3201,
-  "2023-10-08": 3213,
-  "2023-10-09": 3224,
-  "2023-10-10": 3237,
-  "2023-10-11": 3252,
-  "2023-10-12": 3252,
-  "2023-10-13": 3258,
-  "2023-10-14": 3266,
-  "2023-10-15": 3277,
-  "2023-10-16": 3285,
-  "2023-10-17": 3295,
-  "2023-10-18": 3302,
-  "2023-10-19": 3312,
-  "2023-10-20": 3323,
-  "2023-10-21": 3336,
-  "2023-10-22": 3340,
-  "2023-10-23": 3348,
-  "2023-10-24": 3351,
-  "2023-10-25": 3357,
-  "2023-10-26": 3368,
-  "2023-10-27": 3376,
-  "2023-10-28": 3385,
-  "2023-10-29": 3387,
-  "2023-10-30": 3403,
-  "2023-10-31": 3403,
-  "2023-11-01": 3412,
-  "2023-11-02": 3418,
-  "2023-11-03": 3427,
-  "2023-11-04": 3435,
-  "2023-11-05": 3442,
-  "2023-11-06": 3447,
-  "2023-11-07": 3447,
-  "2023-11-08": 3447,
-  "2023-11-09": 3447,
-  "2023-11-10": 3447,
-  "2023-11-11": 3447,
-  "2023-11-12": 3447,
-  "2023-11-13": 3447,
-  "2023-11-14": 3447,
-  "2023-11-15": 3447,
-  "2023-11-16": 3447,
-  "2023-11-17": 3447,
-  "2023-11-18": 3447,
-  "2023-11-19": 3447,
-  "2023-11-20": 3447,
-  "2023-11-21": 3447,
-  "2023-11-22": 3447,
-  "2023-11-23": 3447,
-  "2023-11-24": 3447,
-  "2023-11-25": 3447,
-  "2023-11-26": 3447,
-  "2023-11-27": 3447,
-  "2023-11-28": 3447,
-  "2023-11-29": 3447,
-  "2023-11-30": 3447,
-  "2023-12-01": 3447,
-  "2023-12-02": 3447,
-  "2023-12-03": 3447,
-  "2023-12-04": 3447,
-  "2023-12-05": 3447,
-  "2023-12-06": 3447,
-  "2023-12-07": 3447,
-  "2023-12-08": 3447,
-  "2023-12-09": 3447,
-  "2023-12-10": 3447,
-  "2023-12-11": 3447,
-  "2023-12-12": 3447,
-  "2023-12-13": 3447,
-  "2023-12-14": 3447,
-  "2023-12-15": 3447,
-  "2023-12-16": 3447,
-  "2023-12-17": 3447,
-  "2023-12-18": 3447,
-  "2023-12-19": 3447,
-  "2023-12-20": 3447,
-  "2023-12-21": 3447,
-  "2023-12-22": 3447,
-  "2023-12-23": 3447,
-  "2023-12-24": 3447,
-  "2023-12-25": 3447,
-  "2023-12-26": 3447,
-  "2023-12-27": 3447,
-  "2023-12-30": 3447,
-  "2023-12-31": 3447,
-  "2024-01-01": 3447,
-  "2024-01-02": 3447,
-  "2024-01-03": 3447
+  "2024-01-17": 3447,
+  "date_first_scraped": "2022-07-07",
+  "description": "The Swedish duo <a href=\u201cspotify:artist:00sAT5YX8W3xNd1EuqyHw9\u201d>Dada Life</a> drop a hot mix just in time for festival season! \n",
+  "name": "Dada Life's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Better (Mixed)",
+        "url": "https://open.spotify.com/album/22VP8ckip061Xk0UsrZMgd"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Better - Mixed",
+      "url": "https://open.spotify.com/track/1Y6KWoXkDNDs5kEsd7uNZW"
+    },
+    {
+      "album": {
+        "name": "Dive In - Mixed",
+        "url": "https://open.spotify.com/album/7v1hvmisD1DWMzcfKnDzVX"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV"
+        },
+        {
+          "name": "Roy Orion",
+          "url": "https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk"
+        },
+        {
+          "name": "Xtina Louise",
+          "url": "https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 189000,
+      "name": "Dive In - Mixed",
+      "url": "https://open.spotify.com/track/116qEsgjgoGzXfSh5UvHXj"
+    },
+    {
+      "album": {
+        "name": "Dive In (Mixed)",
+        "url": "https://open.spotify.com/album/1HPpV8b0S6AnuboOZKCELh"
+      },
+      "artists": [
+        {
+          "name": "Xtina Louise",
+          "url": "https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN"
+        },
+        {
+          "name": "Roy Orion",
+          "url": "https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Dive In - Mixed",
+      "url": "https://open.spotify.com/track/1JVLAfomEMOedmwsvzljJ6"
+    },
+    {
+      "album": {
+        "name": "Edge Of Tonight (Mixed)",
+        "url": "https://open.spotify.com/album/0cWP1iDd9PgjyMS2sCw8fT"
+      },
+      "artists": [
+        {
+          "name": "Brunetti",
+          "url": "https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB"
+        },
+        {
+          "name": "Yohann Warren",
+          "url": "https://open.spotify.com/artist/0KPaZqSst478dYqODQG37L"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Edge Of Tonight - Mixed",
+      "url": "https://open.spotify.com/track/3YTawBahcgCScHfNdwa5bN"
+    },
+    {
+      "album": {
+        "name": "Edge Of Tonight - Mixed",
+        "url": "https://open.spotify.com/album/3wRhfATQvzACEps4fVSkVa"
+      },
+      "artists": [
+        {
+          "name": "Yohann Warren",
+          "url": "https://open.spotify.com/artist/0KPaZqSst478dYqODQG37L"
+        },
+        {
+          "name": "Brunetti",
+          "url": "https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 182000,
+      "name": "Edge Of Tonight - Mixed",
+      "url": "https://open.spotify.com/track/5r9TaNygIKK548xLeaC7mi"
+    },
+    {
+      "album": {
+        "name": "Freak Of The Night (Mixed)",
+        "url": "https://open.spotify.com/album/7DrCD6KvU3zhSgEiiF3vmu"
+      },
+      "artists": [
+        {
+          "name": "Daijo",
+          "url": "https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Freak Of The Night - Mixed",
+      "url": "https://open.spotify.com/track/5bftxZ7b4quMMtxNqWag5f"
+    },
+    {
+      "album": {
+        "name": "Freak Of The Night - Mixed",
+        "url": "https://open.spotify.com/album/6A2Z3QPh9IZ4hCgVCyyUt2"
+      },
+      "artists": [
+        {
+          "name": "Daijo",
+          "url": "https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 147000,
+      "name": "Freak Of The Night - Mixed",
+      "url": "https://open.spotify.com/track/7ubPwn91i0JKJwjSYYd0oO"
+    },
+    {
+      "album": {
+        "name": "Get Crunk (Mixed)",
+        "url": "https://open.spotify.com/album/3pLZKAvh6cGcjUrB6d4dd1"
+      },
+      "artists": [
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        },
+        {
+          "name": "The Galaxy",
+          "url": "https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Get Crunk - Mixed",
+      "url": "https://open.spotify.com/track/5AIxnjc6zX5Gwo9T19bMKD"
+    },
+    {
+      "album": {
+        "name": "Happy Revolution - Mixed",
+        "url": "https://open.spotify.com/album/7vjhCa754toHiDzwc8Ysdr"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 191000,
+      "name": "Happy Revolution - Mixed",
+      "url": "https://open.spotify.com/track/38jWFjARAMgyEm0CekNNDd"
+    },
+    {
+      "album": {
+        "name": "Happy Revolution (Mixed)",
+        "url": "https://open.spotify.com/album/6HVxXtnvYzIt6DCn9C8KpK"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Happy Revolution - Mixed",
+      "url": "https://open.spotify.com/track/3Zv3W7bqJUOFDLUo6Tx4Ze"
+    },
+    {
+      "album": {
+        "name": "Hold Up (Mixed)",
+        "url": "https://open.spotify.com/album/60nbDVuZZsGS8qjKkw6A28"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Hold Up - Mixed",
+      "url": "https://open.spotify.com/track/5gHjelCEVxbddGSebN0x13"
+    },
+    {
+      "album": {
+        "name": "Insane (Mixed)",
+        "url": "https://open.spotify.com/album/3ieL7chtaUe47zrPkR89lt"
+      },
+      "artists": [
+        {
+          "name": "Carta",
+          "url": "https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Insane - Mixed",
+      "url": "https://open.spotify.com/track/1bcwLDUS52RPga7vOxYsq5"
+    },
+    {
+      "album": {
+        "name": "INTO THE UNKNOWN - Mixed",
+        "url": "https://open.spotify.com/album/1ZWzbALgak37NGEbWH2fGP"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 225000,
+      "name": "INTO THE UNKNOWN - Mixed",
+      "url": "https://open.spotify.com/track/4wUdukfI9Vlnn63hJvmXob"
+    },
+    {
+      "album": {
+        "name": "INTO THE UNKNOWN (Mixed)",
+        "url": "https://open.spotify.com/album/3YjbnRh0YUylhFAdIgvY5F"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "INTO THE UNKNOWN - Mixed",
+      "url": "https://open.spotify.com/track/7AwfaWSveFDSlexZGUZWag"
+    },
+    {
+      "album": {
+        "name": "Love Got You (Mixed)",
+        "url": "https://open.spotify.com/album/4lFLmG52ImGv6UjjHimBKu"
+      },
+      "artists": [
+        {
+          "name": "Heyem & Groozin",
+          "url": "https://open.spotify.com/artist/0l33b3YK4gmAt0mzqcRkVx"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Love Got You - Mixed",
+      "url": "https://open.spotify.com/track/1WRlDSCWSryJAwlxCFzlz9"
+    },
+    {
+      "album": {
+        "name": "Love Got You - Mixed",
+        "url": "https://open.spotify.com/album/62Nja7aHFyzlW8rimockJM"
+      },
+      "artists": [
+        {
+          "name": "Heyem & Groozin",
+          "url": "https://open.spotify.com/artist/0l33b3YK4gmAt0mzqcRkVx"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 179000,
+      "name": "Love Got You - Mixed",
+      "url": "https://open.spotify.com/track/2pqkgCCA7GRWqkWoe7GSmR"
+    },
+    {
+      "album": {
+        "name": "Magic Orgasm (Mixed)",
+        "url": "https://open.spotify.com/album/7pyTsUDNVhmFV3Kg2r5IJ4"
+      },
+      "artists": [
+        {
+          "name": "Scorsi",
+          "url": "https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Magic Orgasm - Mixed",
+      "url": "https://open.spotify.com/track/4aSVZAowy4cV0vY4zLEVmB"
+    },
+    {
+      "album": {
+        "name": "No Illusions (Mixed)",
+        "url": "https://open.spotify.com/album/0rZ1ZC39VkppZaelSjRfiA"
+      },
+      "artists": [
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "No Illusions - Mixed",
+      "url": "https://open.spotify.com/track/6AF20ZCpOnW15YRfUKPgCY"
+    },
+    {
+      "album": {
+        "name": "Out Of My Mind (Mixed)",
+        "url": "https://open.spotify.com/album/54Sj3fK2aIY2zwrFdd4Sy0"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Out Of My Mind - Mixed",
+      "url": "https://open.spotify.com/track/3hramgkHUCh2loWbB4rOXV"
+    },
+    {
+      "album": {
+        "name": "Pure Action - Mixed",
+        "url": "https://open.spotify.com/album/5NW6Rh3AXJhzYn91rjk5k4"
+      },
+      "artists": [
+        {
+          "name": "Semblance Smile",
+          "url": "https://open.spotify.com/artist/13nmMVXihf9LHBGMm6NI6f"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 187000,
+      "name": "Pure Action - Mixed",
+      "url": "https://open.spotify.com/track/1zdrSdBSPqCxq9ojxRK8B3"
+    },
+    {
+      "album": {
+        "name": "Pure Action (Mixed)",
+        "url": "https://open.spotify.com/album/4FEDK1Rw2KHypS7OMnYVk5"
+      },
+      "artists": [
+        {
+          "name": "Semblance Smile",
+          "url": "https://open.spotify.com/artist/13nmMVXihf9LHBGMm6NI6f"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Pure Action - Mixed",
+      "url": "https://open.spotify.com/track/3H06vXdPETHqToXXsJxU7Q"
+    },
+    {
+      "album": {
+        "name": "Readymade Sweat - Mixed",
+        "url": "https://open.spotify.com/album/00HR6TCJeoBiu691ggJXwh"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 219000,
+      "name": "Readymade Sweat - Mixed",
+      "url": "https://open.spotify.com/track/0qKQ4AJHxcAq7yGX6SaWwM"
+    },
+    {
+      "album": {
+        "name": "Readymade Sweat (Mixed)",
+        "url": "https://open.spotify.com/album/0V0Y0j2yl54ekGW7axg3ah"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Readymade Sweat - Mixed",
+      "url": "https://open.spotify.com/track/2u0yIZNVTmQobnNA2t7saA"
+    },
+    {
+      "album": {
+        "name": "Sickness (Mixed)",
+        "url": "https://open.spotify.com/album/3gb6O7w0RP3vIlrL4VWsoX"
+      },
+      "artists": [
+        {
+          "name": "Alvi",
+          "url": "https://open.spotify.com/artist/5NiZEpj3XzblvgCLwxurbg"
+        },
+        {
+          "name": "Retrika",
+          "url": "https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Sickness - Mixed",
+      "url": "https://open.spotify.com/track/03Nt3vXQ2H4NHQIQS2Wimi"
+    },
+    {
+      "album": {
+        "name": "So Good - Mixed",
+        "url": "https://open.spotify.com/album/5hTou7QMas2tYHQI28U2W4"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 212000,
+      "name": "So Good - Mixed",
+      "url": "https://open.spotify.com/track/0XEcTMAYz47bBmW6VQm1Hf"
+    },
+    {
+      "album": {
+        "name": "So Good (Mixed)",
+        "url": "https://open.spotify.com/album/5DHui51DPnYPYLj4Pa6Kx5"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "So Good - Mixed",
+      "url": "https://open.spotify.com/track/0XZgkyv8LxUmXZMa81Y4er"
+    },
+    {
+      "album": {
+        "name": "Stampede (Mixed)",
+        "url": "https://open.spotify.com/album/3zPZ8kYxgf9jalyZM6EZHK"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Stampede - Mixed",
+      "url": "https://open.spotify.com/track/4uFoaAhJsRlt34V4nsJna0"
+    },
+    {
+      "album": {
+        "name": "Talamanca - Robin Schulz Remix (Mixed)",
+        "url": "https://open.spotify.com/album/354xSfW1OVfx7XdLEDQkzc"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Talamanca - Robin Schulz Remix - Mixed",
+      "url": "https://open.spotify.com/track/09XlBSQJ59M4aVkCQFp7Jd"
+    },
+    {
+      "album": {
+        "name": "This Time (Never Be Alone Again) [Mixed]",
+        "url": "https://open.spotify.com/album/3PqmiAkywvOqaXiUC6YojB"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "This Time (Never Be Alone Again) - Mixed",
+      "url": "https://open.spotify.com/track/18azjp2b0cdwW5DV80SBN4"
+    },
+    {
+      "album": {
+        "name": "This Time (Never Be Alone Again) - Mixed",
+        "url": "https://open.spotify.com/album/2kZvidCf0XVqEp7T1ZGfNz"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 152000,
+      "name": "This Time (Never Be Alone Again) - Mixed",
+      "url": "https://open.spotify.com/track/4qa4y68D9X4I9mE0gRq2Zy"
+    },
+    {
+      "album": {
+        "name": "Told Ya! 2022 (Mixed)",
+        "url": "https://open.spotify.com/album/2t40UmaG9qyS9fSGZqRb8z"
+      },
+      "artists": [
+        {
+          "name": "Isa GT",
+          "url": "https://open.spotify.com/artist/2ZMDVSuZfNdp80OdWx5h4K"
+        },
+        {
+          "name": "Wiwek",
+          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+        },
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151966,
+      "name": "Told Ya! 2022 - Mixed",
+      "url": "https://open.spotify.com/track/144yCgX83TO1vBYukgAbsT"
+    },
+    {
+      "album": {
+        "name": "Tunnel (Mixed)",
+        "url": "https://open.spotify.com/album/2HMYjjvU9nQeCcfweuWxh1"
+      },
+      "artists": [
+        {
+          "name": "Just_____us",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Tunnel - Mixed",
+      "url": "https://open.spotify.com/track/3yJPjIcrSdx3eVVDfK75dK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4xjcl7upl9u"
 }

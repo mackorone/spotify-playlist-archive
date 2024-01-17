@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Cover: Redferrin",
+  "description": "Country gone wild! You never know what you're gonna get. Cover: Niko Moon",
   "name": "Wild Country",
   "tracks": [
     {
@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "Cobain",
+        "url": "https://open.spotify.com/album/0PnNVejKg9bbz5uBi41K2A"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        },
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137441,
+      "name": "Cobain",
+      "url": "https://open.spotify.com/track/5QCEu7LvgqZwQW1UbkLBYj"
+    },
+    {
+      "album": {
         "name": "COLD HEART",
         "url": "https://open.spotify.com/album/5ZHuvg6Hz5VVEFhUMa3oAT"
       },
@@ -2072,7 +2094,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 205186,
       "name": "Die A Redneck",
       "url": "https://open.spotify.com/track/10XXGAiyvIw44pztev49XJ"
@@ -2928,6 +2950,24 @@
       "duration_ms": 157431,
       "name": "Good Vibes Only",
       "url": "https://open.spotify.com/track/3Xnf9l8bZHtXxQf0CajdXh"
+    },
+    {
+      "album": {
+        "name": "Good With Me",
+        "url": "https://open.spotify.com/album/4MOXUKrGGMuokVxovC7wQL"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "Good With Me",
+      "url": "https://open.spotify.com/track/47EkFFYRTlgatkXS0gg5FZ"
     },
     {
       "album": {
@@ -7222,6 +7262,28 @@
       "duration_ms": 219498,
       "name": "Turnt",
       "url": "https://open.spotify.com/track/6bwRDyna9lHRw5NOBWlsXh"
+    },
+    {
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/4D8JP6VGjKOpdKt7U8A7lm"
+      },
+      "artists": [
+        {
+          "name": "Ollie Joseph",
+          "url": "https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m"
+        },
+        {
+          "name": "Jeb Bundy",
+          "url": "https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150775,
+      "name": "Twenty One",
+      "url": "https://open.spotify.com/track/37GplPmP2JCLifXt9YXVv2"
     },
     {
       "album": {

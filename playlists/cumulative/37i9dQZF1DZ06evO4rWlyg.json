@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608760,
+      "name": "Black Lake",
+      "url": "https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe"
+    },
+    {
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 386560,
       "name": "Notget",
       "url": "https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj"
@@ -936,7 +954,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": "2024-01-08",
       "duration_ms": 76866,
       "name": "Wave Invocation - MWO I Inverness Demo",
       "url": "https://open.spotify.com/track/7dtbmyduD0vFe8q5DGA0Tw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,007 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,026 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 37 | [TOOTHBRUSH](https://open.spotify.com/track/3GRcpeGpXOX3VmF0NYoNVE) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [TOOTHBRUSH](https://open.spotify.com/album/379iv9yNVZQ0LnAx7FhgNX) | 2:27 |
 | 38 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 |
 | 39 | [Easy \- bonus track](https://open.spotify.com/track/3STXcQf77i4jzyaQCQZ4e7) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere \(Expanded\)](https://open.spotify.com/album/0qKoiM1LGWidXEXBWcfJvj) | 4:01 |
-| 40 | [Másért](https://open.spotify.com/track/12ZSKLi4bF01rlyA0hOc4S) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [Másért](https://open.spotify.com/album/5J99Kn2B3HlcV7IY9uYla0) | 3:22 |
+| 40 | [Másért](https://open.spotify.com/track/5H7bt2n2OTzDBNrtT2slH3) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [Másért](https://open.spotify.com/album/0d839scyjs6HKG6pWEhvC0) | 3:22 |
 | 41 | [Pulling Through](https://open.spotify.com/track/03OFKv857PXCFgUlpah8Tc) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:55 |
 | 42 | [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 |
 | 43 | [beachin](https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 3:15 |

@@ -1,735 +1,837 @@
 {
-  "2021-12-25": 579311,
-  "2021-12-26": 579447,
-  "2021-12-27": 579727,
-  "2021-12-28": 579728,
-  "2021-12-29": 579846,
-  "2021-12-30": 579995,
-  "2021-12-31": 580136,
-  "2022-01-01": 580420,
-  "2022-01-02": 580487,
-  "2022-01-03": 580598,
-  "2022-01-04": 580743,
-  "2022-01-05": 580829,
-  "2022-01-06": 580929,
-  "2022-01-07": 581053,
-  "2022-01-08": 581286,
-  "2022-01-09": 581298,
-  "2022-01-10": 581436,
-  "2022-01-11": 581507,
-  "2022-01-12": 581547,
-  "2022-01-13": 581547,
-  "2022-01-14": 581547,
-  "2022-01-15": 581547,
-  "2022-01-16": 581547,
-  "2022-01-17": 581547,
-  "2022-01-18": 581547,
-  "2022-01-19": 581547,
-  "2022-01-20": 581547,
-  "2022-01-21": 581547,
-  "2022-01-22": 581547,
-  "2022-01-23": 581547,
-  "2022-01-24": 581547,
-  "2022-01-25": 581547,
-  "2022-01-26": 581547,
-  "2022-01-27": 581547,
-  "2022-01-28": 581547,
-  "2022-01-29": 581547,
-  "2022-01-30": 581547,
-  "2022-01-31": 581547,
-  "2022-02-01": 581547,
-  "2022-02-02": 581547,
-  "2022-02-03": 581547,
-  "2022-02-04": 581547,
-  "2022-02-05": 581547,
-  "2022-02-06": 581547,
-  "2022-02-07": 581547,
-  "2022-02-08": 581547,
-  "2022-02-09": 581547,
-  "2022-02-10": 581547,
-  "2022-02-11": 581547,
-  "2022-02-12": 581547,
-  "2022-02-13": 581547,
-  "2022-02-14": 581547,
-  "2022-02-15": 581547,
-  "2022-02-16": 581547,
-  "2022-02-17": 581547,
-  "2022-02-18": 581547,
-  "2022-02-19": 581547,
-  "2022-02-20": 581547,
-  "2022-02-21": 581547,
-  "2022-02-22": 581547,
-  "2022-02-23": 581547,
-  "2022-02-24": 581547,
-  "2022-02-25": 581547,
-  "2022-02-26": 581547,
-  "2022-02-27": 581547,
-  "2022-02-28": 581547,
-  "2022-03-01": 581547,
-  "2022-03-02": 581547,
-  "2022-03-03": 581547,
-  "2022-03-04": 581547,
-  "2022-03-05": 581547,
-  "2022-03-06": 581547,
-  "2022-03-07": 581547,
-  "2022-03-08": 581547,
-  "2022-03-09": 581547,
-  "2022-03-10": 581547,
-  "2022-03-11": 581547,
-  "2022-03-12": 581547,
-  "2022-03-13": 581547,
-  "2022-03-14": 581547,
-  "2022-03-15": 581547,
-  "2022-03-16": 581547,
-  "2022-03-17": 581547,
-  "2022-03-18": 581547,
-  "2022-03-19": 581547,
-  "2022-03-20": 581547,
-  "2022-03-21": 581547,
-  "2022-03-22": 581547,
-  "2022-03-23": 581547,
-  "2022-03-24": 581547,
-  "2022-03-25": 581547,
-  "2022-03-26": 581547,
-  "2022-03-27": 581547,
-  "2022-03-28": 581547,
-  "2022-03-30": 581547,
-  "2022-03-31": 581547,
-  "2022-04-01": 581547,
-  "2022-04-02": 581547,
-  "2022-04-03": 581547,
-  "2022-04-04": 581547,
-  "2022-04-05": 581547,
-  "2022-04-06": 581547,
-  "2022-04-07": 581547,
-  "2022-04-08": 581547,
-  "2022-04-09": 581547,
-  "2022-04-10": 581547,
-  "2022-04-11": 581547,
-  "2022-04-12": 581547,
-  "2022-04-13": 581547,
-  "2022-04-14": 581547,
-  "2022-04-15": 581547,
-  "2022-04-16": 581547,
-  "2022-04-17": 581547,
-  "2022-04-18": 581547,
-  "2022-04-19": 581547,
-  "2022-04-20": 581547,
-  "2022-04-21": 581547,
-  "2022-04-22": 581547,
-  "2022-04-23": 581547,
-  "2022-04-24": 581547,
-  "2022-04-25": 581547,
-  "2022-04-26": 581547,
-  "2022-04-27": 581547,
-  "2022-04-28": 581547,
-  "2022-04-29": 581547,
-  "2022-04-30": 581547,
-  "2022-05-01": 581547,
-  "2022-05-02": 581547,
-  "2022-05-03": 581547,
-  "2022-05-04": 581547,
-  "2022-05-05": 581547,
-  "2022-05-06": 581547,
-  "2022-05-07": 581547,
-  "2022-05-08": 581547,
-  "2022-05-09": 581547,
-  "2022-05-10": 581547,
-  "2022-05-11": 581547,
-  "2022-05-12": 581547,
-  "2022-05-13": 581547,
-  "2022-05-14": 581547,
-  "2022-05-15": 581547,
-  "2022-05-16": 581547,
-  "2022-05-17": 581547,
-  "2022-05-18": 581547,
-  "2022-05-19": 581547,
-  "2022-05-20": 581547,
-  "2022-05-21": 581547,
-  "2022-05-22": 581547,
-  "2022-05-23": 581547,
-  "2022-05-24": 581547,
-  "2022-05-25": 581547,
-  "2022-05-26": 581547,
-  "2022-05-27": 581547,
-  "2022-05-28": 581547,
-  "2022-05-29": 581547,
-  "2022-05-30": 581547,
-  "2022-05-31": 581547,
-  "2022-06-01": 581547,
-  "2022-06-02": 581547,
-  "2022-06-03": 581547,
-  "2022-06-04": 581547,
-  "2022-06-05": 581547,
-  "2022-06-06": 581547,
-  "2022-06-07": 581547,
-  "2022-06-08": 581547,
-  "2022-06-09": 581547,
-  "2022-06-10": 581547,
-  "2022-06-11": 581547,
-  "2022-06-12": 581547,
-  "2022-06-13": 581547,
-  "2022-06-14": 581547,
-  "2022-06-15": 581547,
-  "2022-06-16": 581547,
-  "2022-06-17": 581547,
-  "2022-06-18": 581547,
-  "2022-06-19": 581547,
-  "2022-06-20": 581547,
-  "2022-06-21": 581547,
-  "2022-06-22": 581547,
-  "2022-06-23": 581547,
-  "2022-06-24": 581547,
-  "2022-06-25": 581547,
-  "2022-06-26": 581547,
-  "2022-06-27": 581547,
-  "2022-06-28": 581547,
-  "2022-06-29": 581547,
-  "2022-06-30": 581547,
-  "2022-07-01": 581547,
-  "2022-07-02": 581547,
-  "2022-07-03": 581547,
-  "2022-07-04": 581547,
-  "2022-07-05": 581547,
-  "2022-07-06": 581547,
-  "2022-07-07": 581547,
-  "2022-07-08": 581547,
-  "2022-07-09": 581547,
-  "2022-07-10": 581547,
-  "2022-07-11": 581547,
-  "2022-07-12": 581547,
-  "2022-07-13": 581547,
-  "2022-07-14": 581547,
-  "2022-07-15": 581547,
-  "2022-07-16": 581547,
-  "2022-07-17": 581547,
-  "2022-07-18": 581547,
-  "2022-07-19": 581547,
-  "2022-07-20": 581547,
-  "2022-07-21": 581547,
-  "2022-07-22": 581547,
-  "2022-07-23": 581547,
-  "2022-07-24": 581547,
-  "2022-07-25": 581547,
-  "2022-07-26": 581547,
-  "2022-07-27": 581547,
-  "2022-07-28": 581547,
-  "2022-07-29": 581547,
-  "2022-07-30": 581547,
-  "2022-07-31": 581547,
-  "2022-08-01": 581547,
-  "2022-08-02": 581547,
-  "2022-08-03": 581547,
-  "2022-08-04": 581547,
-  "2022-08-05": 581547,
-  "2022-08-06": 581547,
-  "2022-08-07": 581547,
-  "2022-08-08": 581547,
-  "2022-08-09": 581547,
-  "2022-08-10": 581547,
-  "2022-08-11": 581547,
-  "2022-08-12": 581547,
-  "2022-08-13": 581547,
-  "2022-08-14": 581547,
-  "2022-08-15": 581547,
-  "2022-08-16": 581547,
-  "2022-08-17": 581547,
-  "2022-08-18": 581547,
-  "2022-08-19": 581547,
-  "2022-08-20": 581547,
-  "2022-08-21": 581547,
-  "2022-08-22": 581547,
-  "2022-08-23": 581547,
-  "2022-08-24": 581547,
-  "2022-08-25": 581547,
-  "2022-08-26": 581547,
-  "2022-08-27": 581547,
-  "2022-08-28": 581547,
-  "2022-08-29": 581547,
-  "2022-08-30": 581547,
-  "2022-08-31": 581547,
-  "2022-09-01": 581547,
-  "2022-09-02": 581547,
-  "2022-09-03": 581547,
-  "2022-09-04": 581547,
-  "2022-09-05": 581547,
-  "2022-09-06": 581547,
-  "2022-09-07": 581547,
-  "2022-09-09": 581547,
-  "2022-09-10": 581547,
-  "2022-09-11": 581547,
-  "2022-09-12": 581547,
-  "2022-09-13": 581547,
-  "2022-09-15": 581547,
-  "2022-09-16": 581547,
-  "2022-09-17": 581547,
-  "2022-09-18": 581547,
-  "2022-09-19": 581547,
-  "2022-09-20": 581547,
-  "2022-09-21": 581547,
-  "2022-09-22": 581547,
-  "2022-09-23": 581547,
-  "2022-09-24": 581547,
-  "2022-09-25": 581547,
-  "2022-09-26": 581547,
-  "2022-09-27": 581547,
-  "2022-09-28": 581547,
-  "2022-09-29": 581547,
-  "2022-09-30": 581547,
-  "2022-10-01": 581547,
-  "2022-10-02": 581547,
-  "2022-10-03": 581547,
-  "2022-10-04": 581547,
-  "2022-10-05": 581547,
-  "2022-10-06": 581547,
-  "2022-10-07": 581547,
-  "2022-10-08": 581547,
-  "2022-10-09": 581547,
-  "2022-10-10": 581547,
-  "2022-10-11": 581547,
-  "2022-10-12": 581547,
-  "2022-10-13": 581547,
-  "2022-10-14": 581547,
-  "2022-10-15": 581547,
-  "2022-10-16": 581547,
-  "2022-10-17": 581547,
-  "2022-10-18": 581547,
-  "2022-10-19": 581547,
-  "2022-10-20": 581547,
-  "2022-10-21": 581547,
-  "2022-10-22": 581547,
-  "2022-10-23": 581547,
-  "2022-10-24": 581547,
-  "2022-10-25": 581547,
-  "2022-10-26": 581547,
-  "2022-10-27": 581547,
-  "2022-10-28": 581547,
-  "2022-10-29": 581547,
-  "2022-10-30": 581547,
-  "2022-10-31": 581547,
-  "2022-11-01": 581547,
-  "2022-11-02": 581547,
-  "2022-11-03": 581547,
-  "2022-11-04": 581547,
-  "2022-11-05": 581547,
-  "2022-11-06": 581547,
-  "2022-11-07": 581547,
-  "2022-11-08": 581547,
-  "2022-11-09": 581547,
-  "2022-11-10": 581547,
-  "2022-11-11": 581547,
-  "2022-11-12": 581547,
-  "2022-11-13": 581547,
-  "2022-11-14": 581547,
-  "2022-11-15": 581547,
-  "2022-11-16": 581547,
-  "2022-11-17": 581547,
-  "2022-11-18": 581547,
-  "2022-11-19": 581547,
-  "2022-11-20": 581547,
-  "2022-11-21": 581547,
-  "2022-11-22": 581547,
-  "2022-11-23": 581547,
-  "2022-11-24": 581547,
-  "2022-11-25": 581547,
-  "2022-11-26": 581547,
-  "2022-11-27": 581547,
-  "2022-11-28": 581547,
-  "2022-11-29": 581547,
-  "2022-11-30": 581547,
-  "2022-12-01": 581547,
-  "2022-12-02": 581547,
-  "2022-12-03": 581547,
-  "2022-12-04": 581547,
-  "2022-12-05": 581547,
-  "2022-12-06": 581547,
-  "2022-12-07": 581547,
-  "2022-12-08": 581547,
-  "2022-12-09": 581547,
-  "2022-12-10": 581547,
-  "2022-12-11": 581547,
-  "2022-12-12": 581547,
-  "2022-12-13": 581547,
-  "2022-12-14": 581547,
-  "2022-12-15": 581547,
-  "2022-12-16": 581547,
-  "2022-12-17": 581547,
-  "2022-12-18": 581547,
-  "2022-12-19": 581547,
-  "2022-12-20": 581547,
-  "2022-12-21": 581547,
-  "2022-12-22": 581547,
-  "2022-12-24": 581547,
-  "2022-12-25": 581547,
-  "2022-12-26": 581547,
-  "2022-12-27": 581547,
-  "2022-12-28": 581547,
-  "2022-12-29": 581547,
-  "2022-12-30": 581547,
-  "2022-12-31": 581547,
-  "2023-01-01": 581547,
-  "2023-01-02": 581547,
-  "2023-01-03": 581547,
-  "2023-01-04": 581547,
-  "2023-01-05": 581547,
-  "2023-01-06": 581547,
-  "2023-01-07": 581547,
-  "2023-01-08": 581547,
-  "2023-01-09": 581547,
-  "2023-01-10": 581547,
-  "2023-01-11": 581547,
-  "2023-01-12": 581547,
-  "2023-01-13": 581547,
-  "2023-01-14": 581547,
-  "2023-01-15": 581547,
-  "2023-01-16": 581547,
-  "2023-01-17": 581547,
-  "2023-01-18": 581547,
-  "2023-01-19": 581547,
-  "2023-01-20": 581547,
-  "2023-01-21": 581547,
-  "2023-01-22": 581547,
-  "2023-01-23": 581547,
-  "2023-01-24": 581547,
-  "2023-01-25": 581547,
-  "2023-01-26": 581547,
-  "2023-01-27": 581547,
-  "2023-01-28": 581547,
-  "2023-01-29": 581547,
-  "2023-01-30": 581547,
-  "2023-01-31": 581547,
-  "2023-02-01": 581547,
-  "2023-02-02": 581547,
-  "2023-02-03": 581547,
-  "2023-02-04": 581547,
-  "2023-02-05": 581547,
-  "2023-02-06": 581547,
-  "2023-02-07": 581547,
-  "2023-02-08": 581547,
-  "2023-02-09": 581547,
-  "2023-02-10": 581547,
-  "2023-02-11": 581547,
-  "2023-02-12": 581547,
-  "2023-02-13": 581547,
-  "2023-02-14": 581547,
-  "2023-02-15": 581547,
-  "2023-02-16": 581547,
-  "2023-02-17": 581547,
-  "2023-02-18": 581547,
-  "2023-02-19": 581547,
-  "2023-02-20": 581547,
-  "2023-02-21": 581547,
-  "2023-02-22": 581547,
-  "2023-02-23": 581547,
-  "2023-02-24": 581547,
-  "2023-02-25": 581547,
-  "2023-02-26": 581547,
-  "2023-02-27": 581547,
-  "2023-02-28": 581547,
-  "2023-03-01": 581547,
-  "2023-03-02": 581547,
-  "2023-03-03": 581547,
-  "2023-03-04": 581547,
-  "2023-03-05": 581547,
-  "2023-03-06": 581547,
-  "2023-03-07": 581547,
-  "2023-03-08": 581547,
-  "2023-03-09": 581547,
-  "2023-03-10": 581547,
-  "2023-03-11": 581547,
-  "2023-03-12": 581547,
-  "2023-03-13": 581547,
-  "2023-03-14": 581547,
-  "2023-03-15": 581547,
-  "2023-03-16": 581547,
-  "2023-03-17": 581547,
-  "2023-03-18": 581547,
-  "2023-03-19": 581547,
-  "2023-03-20": 581547,
-  "2023-03-21": 581547,
-  "2023-03-22": 581547,
-  "2023-03-23": 581547,
-  "2023-03-24": 581547,
-  "2023-03-25": 581547,
-  "2023-03-26": 581547,
-  "2023-03-27": 581547,
-  "2023-03-28": 581547,
-  "2023-03-29": 581547,
-  "2023-03-30": 581547,
-  "2023-03-31": 581547,
-  "2023-04-01": 581547,
-  "2023-04-02": 581547,
-  "2023-04-03": 581547,
-  "2023-04-04": 581547,
-  "2023-04-05": 581547,
-  "2023-04-06": 581547,
-  "2023-04-07": 581547,
-  "2023-04-09": 581547,
-  "2023-04-10": 581547,
-  "2023-04-11": 581547,
-  "2023-04-12": 581547,
-  "2023-04-13": 581547,
-  "2023-04-14": 581547,
-  "2023-04-15": 581547,
-  "2023-04-16": 581547,
-  "2023-04-17": 581547,
-  "2023-04-18": 581547,
-  "2023-04-19": 581547,
-  "2023-04-20": 581547,
-  "2023-04-21": 581547,
-  "2023-04-22": 581547,
-  "2023-04-23": 581547,
-  "2023-04-24": 581547,
-  "2023-04-25": 581547,
-  "2023-04-26": 581547,
-  "2023-04-27": 581547,
-  "2023-04-28": 581547,
-  "2023-04-29": 581547,
-  "2023-04-30": 581547,
-  "2023-05-01": 581547,
-  "2023-05-02": 581547,
-  "2023-05-03": 581547,
-  "2023-05-04": 581547,
-  "2023-05-05": 581547,
-  "2023-05-06": 581547,
-  "2023-05-07": 581547,
-  "2023-05-08": 581547,
-  "2023-05-09": 581547,
-  "2023-05-10": 581547,
-  "2023-05-11": 581547,
-  "2023-05-12": 581547,
-  "2023-05-13": 581547,
-  "2023-05-14": 581547,
-  "2023-05-15": 581547,
-  "2023-05-16": 581547,
-  "2023-05-17": 581547,
-  "2023-05-18": 581547,
-  "2023-05-19": 581547,
-  "2023-05-20": 581547,
-  "2023-05-21": 581547,
-  "2023-05-22": 581547,
-  "2023-05-23": 581547,
-  "2023-05-24": 581547,
-  "2023-05-25": 581547,
-  "2023-05-26": 581547,
-  "2023-05-27": 581547,
-  "2023-05-28": 581547,
-  "2023-05-29": 581547,
-  "2023-05-30": 581547,
-  "2023-05-31": 581547,
-  "2023-06-01": 581547,
-  "2023-06-02": 581547,
-  "2023-06-03": 581547,
-  "2023-06-04": 581547,
-  "2023-06-05": 581547,
-  "2023-06-06": 581547,
-  "2023-06-07": 581547,
-  "2023-06-08": 581547,
-  "2023-06-09": 581547,
-  "2023-06-10": 581547,
-  "2023-06-11": 581547,
-  "2023-06-12": 581547,
-  "2023-06-13": 581547,
-  "2023-06-14": 581547,
-  "2023-06-15": 581547,
-  "2023-06-16": 581547,
-  "2023-06-17": 581547,
-  "2023-06-18": 581547,
-  "2023-06-19": 581547,
-  "2023-06-20": 581547,
-  "2023-06-21": 581547,
-  "2023-06-22": 581547,
-  "2023-06-23": 581547,
-  "2023-06-24": 581547,
-  "2023-06-25": 581547,
-  "2023-06-26": 581547,
-  "2023-06-27": 581547,
-  "2023-06-28": 581547,
-  "2023-06-29": 581547,
-  "2023-06-30": 581547,
-  "2023-07-01": 581547,
-  "2023-07-02": 581547,
-  "2023-07-03": 581547,
-  "2023-07-04": 581547,
-  "2023-07-05": 581547,
-  "2023-07-06": 581547,
-  "2023-07-07": 581547,
-  "2023-07-08": 581547,
-  "2023-07-09": 581547,
-  "2023-07-10": 581547,
-  "2023-07-11": 581547,
-  "2023-07-12": 581547,
-  "2023-07-13": 581547,
-  "2023-07-14": 581547,
-  "2023-07-15": 581547,
-  "2023-07-16": 581547,
-  "2023-07-17": 581547,
-  "2023-07-18": 581547,
-  "2023-07-19": 581547,
-  "2023-07-20": 581547,
-  "2023-07-21": 581547,
-  "2023-07-22": 581547,
-  "2023-07-23": 581547,
-  "2023-07-24": 581547,
-  "2023-07-25": 581547,
-  "2023-07-26": 581547,
-  "2023-07-27": 581547,
-  "2023-07-28": 581547,
-  "2023-07-29": 581547,
-  "2023-07-30": 581547,
-  "2023-07-31": 581547,
-  "2023-08-01": 581547,
-  "2023-08-02": 581547,
-  "2023-08-03": 581547,
-  "2023-08-04": 581547,
-  "2023-08-05": 581547,
-  "2023-08-06": 581547,
-  "2023-08-07": 581547,
-  "2023-08-08": 581547,
-  "2023-08-09": 581547,
-  "2023-08-10": 581547,
-  "2023-08-11": 581547,
-  "2023-08-12": 581547,
-  "2023-08-13": 581547,
-  "2023-08-14": 581547,
-  "2023-08-15": 581547,
-  "2023-08-16": 581547,
-  "2023-08-17": 581547,
-  "2023-08-18": 581547,
-  "2023-08-19": 581547,
-  "2023-08-20": 581547,
-  "2023-08-21": 581547,
-  "2023-08-22": 581547,
-  "2023-08-23": 581547,
-  "2023-08-24": 581547,
-  "2023-08-25": 581547,
-  "2023-08-26": 581547,
-  "2023-08-27": 581547,
-  "2023-08-28": 581547,
-  "2023-08-29": 581547,
-  "2023-08-30": 581547,
-  "2023-08-31": 581547,
-  "2023-09-01": 581547,
-  "2023-09-02": 581547,
-  "2023-09-03": 581547,
-  "2023-09-04": 581547,
-  "2023-09-05": 581547,
-  "2023-09-06": 581547,
-  "2023-09-07": 581547,
-  "2023-09-08": 581547,
-  "2023-09-09": 581547,
-  "2023-09-10": 581547,
-  "2023-09-11": 581547,
-  "2023-09-12": 581547,
-  "2023-09-13": 581547,
-  "2023-09-14": 581547,
-  "2023-09-15": 581547,
-  "2023-09-16": 581547,
-  "2023-09-17": 581547,
-  "2023-09-18": 581547,
-  "2023-09-19": 581547,
-  "2023-09-20": 581547,
-  "2023-09-21": 581547,
-  "2023-09-22": 581547,
-  "2023-09-23": 581547,
-  "2023-09-24": 581547,
-  "2023-09-25": 581547,
-  "2023-09-26": 581547,
-  "2023-09-27": 581547,
-  "2023-09-28": 581547,
-  "2023-09-29": 581547,
-  "2023-09-30": 581547,
-  "2023-10-01": 581547,
-  "2023-10-02": 581547,
-  "2023-10-03": 581547,
-  "2023-10-04": 581547,
-  "2023-10-05": 581547,
-  "2023-10-06": 581547,
-  "2023-10-07": 581547,
-  "2023-10-08": 581547,
-  "2023-10-09": 581547,
-  "2023-10-10": 581547,
-  "2023-10-11": 581547,
-  "2023-10-12": 581547,
-  "2023-10-13": 581547,
-  "2023-10-14": 581547,
-  "2023-10-15": 581547,
-  "2023-10-16": 581547,
-  "2023-10-17": 581547,
-  "2023-10-18": 581547,
-  "2023-10-19": 581547,
-  "2023-10-20": 581547,
-  "2023-10-21": 581547,
-  "2023-10-22": 581547,
-  "2023-10-23": 581547,
-  "2023-10-24": 581547,
-  "2023-10-25": 581547,
-  "2023-10-26": 581547,
-  "2023-10-27": 581547,
-  "2023-10-28": 581547,
-  "2023-10-29": 581547,
-  "2023-10-30": 581547,
-  "2023-10-31": 581547,
-  "2023-11-01": 581547,
-  "2023-11-02": 581547,
-  "2023-11-03": 581547,
-  "2023-11-04": 581547,
-  "2023-11-05": 581547,
-  "2023-11-06": 581547,
-  "2023-11-07": 581547,
-  "2023-11-08": 581547,
-  "2023-11-09": 581547,
-  "2023-11-10": 581547,
-  "2023-11-11": 581547,
-  "2023-11-12": 581547,
-  "2023-11-13": 581547,
-  "2023-11-14": 581547,
-  "2023-11-15": 581547,
-  "2023-11-16": 581547,
-  "2023-11-17": 581547,
-  "2023-11-18": 581547,
-  "2023-11-19": 581547,
-  "2023-11-20": 581547,
-  "2023-11-21": 581547,
-  "2023-11-22": 581547,
-  "2023-11-23": 581547,
-  "2023-11-24": 581547,
-  "2023-11-25": 581547,
-  "2023-11-26": 581547,
-  "2023-11-27": 581547,
-  "2023-11-28": 581547,
-  "2023-11-29": 581547,
-  "2023-11-30": 581547,
-  "2023-12-01": 581547,
-  "2023-12-02": 581547,
-  "2023-12-03": 581547,
-  "2023-12-04": 581547,
-  "2023-12-05": 581547,
-  "2023-12-06": 581547,
-  "2023-12-07": 581547,
-  "2023-12-08": 581547,
-  "2023-12-09": 581547,
-  "2023-12-10": 581547,
-  "2023-12-11": 581547,
-  "2023-12-12": 581547,
-  "2023-12-13": 581547,
-  "2023-12-14": 581547,
-  "2023-12-15": 581547,
-  "2023-12-16": 581547,
-  "2023-12-17": 581547,
-  "2023-12-18": 581547,
-  "2023-12-19": 581547,
-  "2023-12-20": 581547,
-  "2023-12-21": 581547,
-  "2023-12-22": 581547,
-  "2023-12-23": 581547,
-  "2023-12-24": 581547,
-  "2023-12-25": 581547,
-  "2023-12-26": 581547,
-  "2023-12-27": 581547,
-  "2023-12-30": 581547,
-  "2023-12-31": 581547,
-  "2024-01-01": 581547,
-  "2024-01-02": 581547,
-  "2024-01-03": 581547
+  "2024-01-17": 581547,
+  "date_first_scraped": "2021-12-21",
+  "description": "Eagles, the essential tracks, all in one playlist.",
+  "name": "This Is Eagles",
+  "tracks": [
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236663,
+      "name": "After the Thrill Is Gone - 2013 Remaster",
+      "url": "https://open.spotify.com/track/73gx888k1raTwjFeuqIV5D"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255345,
+      "name": "Already Gone - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7L8WxiOqgVFcrypKyrAPVx"
+    },
+    {
+      "album": {
+        "name": "Busy Being Fabulous",
+        "url": "https://open.spotify.com/album/3KrznQenQ6soWC6GWzZQsd"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260920,
+      "name": "Busy Being Fabulous",
+      "url": "https://open.spotify.com/track/1kjxZyqySuIJxwQtA2hnBt"
+    },
+    {
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195655,
+      "name": "Chug All Night - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1uNrJfFUItP86a1m19Yr5n"
+    },
+    {
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213712,
+      "name": "Desperado - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
+    },
+    {
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207059,
+      "name": "Doolin-Dalton - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0huHTieLTlluurvasQLB74"
+    },
+    {
+      "album": {
+        "name": "Take It Easy / Get You in the Mood",
+        "url": "https://open.spotify.com/album/0QTXAYpC3hdQBKWMa2uGh0"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235173,
+      "name": "Get You in the Mood - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0DwwvtvH6SQLEi7pGOiypa"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265404,
+      "name": "Good Day in Hell - 2013 Remaster",
+      "url": "https://open.spotify.com/track/055xQyAJgedjnG98vBnO88"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265678,
+      "name": "Heartache Tonight - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256973,
+      "name": "Hole in the World - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2nSdYrRGhnfbncKCtgFWK7"
+    },
+    {
+      "album": {
+        "name": "Selected Works 1972-1999",
+        "url": "https://open.spotify.com/album/7yZybJck623f3rhurBZ3Sx"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241648,
+      "name": "Hollywood Waltz - 2013 Remaster",
+      "url": "https://open.spotify.com/track/09cmEulP1ZWQJg7kKQYSCl"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+    },
+    {
+      "album": {
+        "name": "Long Road Out Of Eden",
+        "url": "https://open.spotify.com/album/22iX205pYu4YLGv5ANZsMT"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/5Zl2JD6237R3oywZu8wB1q"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295049,
+      "name": "I Can't Tell You Why - 2013 Remaster",
+      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224549,
+      "name": "In the City - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3fgch6faHYPKqE6C3hIYfo"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218269,
+      "name": "James Dean - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
+    },
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397160,
+      "name": "Journey of the Sorcerer - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3OcBH9Vzd1UwJkQd3r1dVG"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "album": {
+        "name": "Eagles Live",
+        "url": "https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536333,
+      "name": "Life's Been Good - Live; 1999 Remaster",
+      "url": "https://open.spotify.com/track/4xLPOmzZAPg5NzRLon2pSN"
+    },
+    {
+      "album": {
+        "name": "Hell Freezes Over",
+        "url": "https://open.spotify.com/album/0BCg4N448pwE7SyFRWopQM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243426,
+      "name": "Love Will Keep Us Alive",
+      "url": "https://open.spotify.com/track/41RUCd24oEOdw8ry4eAKMZ"
+    },
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238163,
+      "name": "Midnight Flyer - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0q4oNTRAUqHcBMhwMDlcnn"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209762,
+      "name": "My Man - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3mCiJj4dZftJvh1s1wOoLs"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
+    },
+    {
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245598,
+      "name": "Nightingale - 2013 Remaster",
+      "url": "https://open.spotify.com/track/59OUN6rPXLBK6bkhhwQkP5"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261238,
+      "name": "Ol' 55 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1mAI9jgfPWQTOE5PGPFPaP"
+    },
+    {
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263456,
+      "name": "On the Border - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1y4DhcvrqUzufls8RQaRfN"
+    },
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213430,
+      "name": "Outlaw Man - 2013 Remaster",
+      "url": "https://open.spotify.com/track/798K1FlIgRmuIIJeSbmmA0"
+    },
+    {
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257962,
+      "name": "Peaceful Easy Feeling - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
+    },
+    {
+      "album": {
+        "name": "Selected Works 1972-1999",
+        "url": "https://open.spotify.com/album/7yZybJck623f3rhurBZ3Sx"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239493,
+      "name": "Pretty Maids All in a Row - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0OBjpRA6u4nDFKt9WZOQrh"
+    },
+    {
+      "album": {
+        "name": "Selected Works 1972-1999",
+        "url": "https://open.spotify.com/album/7yZybJck623f3rhurBZ3Sx"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200596,
+      "name": "Saturday Night - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5IEqDqv75DPPUjcWGo0ybV"
+    },
+    {
+      "album": {
+        "name": "Eagles Live",
+        "url": "https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184640,
+      "name": "Seven Bridges Road - Live; 1999 Remaster",
+      "url": "https://open.spotify.com/track/1osAmhnIT0rtuqLZ1IliBQ"
+    },
+    {
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287090,
+      "name": "Take It to the Limit - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
+    },
+    {
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "Tequila Sunrise - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274891,
+      "name": "The Best of My Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6x8C7SBqQukeaeh9etWdZY"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444911,
+      "name": "The Last Resort - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0MrZG1nTNQVzeSJKi6gFVF"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221234,
+      "name": "The Long Run - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2YOwVfcUTRjNpcLny4UC4r"
+    },
+    {
+      "album": {
+        "name": "Thunderbirds Are Go - TV Themes for Grown Up Kids",
+        "url": "https://open.spotify.com/album/68pUaIsLEUPP0uePJyCFDu"
+      },
+      "artists": [
+        {
+          "name": "The Eagles",
+          "url": "https://open.spotify.com/artist/6qxSIn3anu081z3lRLO1Jf"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144253,
+      "name": "The Maigret Theme",
+      "url": "https://open.spotify.com/track/2Ui4rye4ZabIjurcFTwWkU"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332950,
+      "name": "The Sad Cafe - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2OmmQuGEUq0aDWlbu3qAHw"
+    },
+    {
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294835,
+      "name": "Those Shoes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/13TrgZ4RqtjXd8w9wAuwxE"
+    },
+    {
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250456,
+      "name": "Train Leaves Here This Morning - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250089,
+      "name": "Victim of Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1tKha6Q0lYlW1qsWYbZB2N"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296172,
+      "name": "Wasted Time - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0Q5YtY85lz5n7rQkeMNpoe"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2020-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250888,
+      "name": "Witchy Woman - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9AUVnnnNUND"
 }

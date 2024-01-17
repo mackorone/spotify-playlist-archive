@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap. Cover: Connor Price & Nic D",
+  "description": "A little bit of pop, a little bit of rap. Cover: Arden Jones",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -4409,6 +4409,24 @@
     },
     {
       "album": {
+        "name": "age tape 10",
+        "url": "https://open.spotify.com/album/25orBHW7uijdOQi29a8wag"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "hard enough to stay alive",
+      "url": "https://open.spotify.com/track/4fKn4WivcX3bRxCfuS88xS"
+    },
+    {
+      "album": {
         "name": "harvey dent",
         "url": "https://open.spotify.com/album/3eYDrexE20vyIhz4kPlATc"
       },
@@ -4824,10 +4842,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 180555,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/5QuoJpaWSzbjnIF5ESnQfg"
+    },
+    {
+      "album": {
+        "name": "How To Lose A Girl in 7 Songs",
+        "url": "https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180555,
+      "name": "I Don\u2019t Wanna Know",
+      "url": "https://open.spotify.com/track/0JCpXJE996Bc6MAbPfiSg1"
     },
     {
       "album": {
@@ -7706,7 +7742,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 175420,
       "name": "parachute",
       "url": "https://open.spotify.com/track/0mgAY5KtzQbG8BOIo8Kag4"

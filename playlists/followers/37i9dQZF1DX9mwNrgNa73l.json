@@ -1,557 +1,3561 @@
 {
-  "2022-06-22": 3173,
-  "2022-06-23": 3173,
-  "2022-06-24": 3277,
-  "2022-06-25": 3387,
-  "2022-06-26": 3512,
-  "2022-06-27": 3612,
-  "2022-06-28": 3697,
-  "2022-06-29": 3790,
-  "2022-06-30": 3904,
-  "2022-07-01": 4011,
-  "2022-07-02": 4109,
-  "2022-07-03": 4218,
-  "2022-07-04": 4335,
-  "2022-07-05": 4437,
-  "2022-07-06": 4553,
-  "2022-07-07": 4667,
-  "2022-07-08": 4766,
-  "2022-07-09": 4875,
-  "2022-07-10": 4983,
-  "2022-07-11": 5083,
-  "2022-07-12": 5179,
-  "2022-07-13": 5286,
-  "2022-07-14": 5388,
-  "2022-07-15": 5498,
-  "2022-07-16": 5589,
-  "2022-07-17": 5695,
-  "2022-07-18": 5808,
-  "2022-07-19": 5898,
-  "2022-07-20": 5985,
-  "2022-07-21": 6061,
-  "2022-07-22": 6148,
-  "2022-07-23": 6230,
-  "2022-07-24": 6299,
-  "2022-07-25": 6386,
-  "2022-07-26": 6462,
-  "2022-07-27": 6525,
-  "2022-07-28": 6594,
-  "2022-07-29": 6656,
-  "2022-07-30": 6805,
-  "2022-07-31": 6805,
-  "2022-08-01": 6880,
-  "2022-08-02": 7009,
-  "2022-08-03": 7009,
-  "2022-08-04": 7081,
-  "2022-08-05": 7157,
-  "2022-08-06": 7251,
-  "2022-08-07": 7305,
-  "2022-08-08": 7366,
-  "2022-08-09": 7419,
-  "2022-08-10": 7488,
-  "2022-08-11": 7552,
-  "2022-08-12": 7604,
-  "2022-08-13": 7658,
-  "2022-08-14": 7728,
-  "2022-08-15": 7808,
-  "2022-08-16": 7880,
-  "2022-08-17": 7945,
-  "2022-08-18": 8008,
-  "2022-08-19": 8076,
-  "2022-08-20": 8138,
-  "2022-08-21": 8201,
-  "2022-08-22": 8272,
-  "2022-08-23": 8323,
-  "2022-08-24": 8388,
-  "2022-08-25": 8441,
-  "2022-08-26": 8506,
-  "2022-08-27": 8574,
-  "2022-08-28": 8633,
-  "2022-08-29": 8683,
-  "2022-08-30": 8741,
-  "2022-08-31": 8793,
-  "2022-09-01": 8840,
-  "2022-09-02": 8900,
-  "2022-09-03": 8958,
-  "2022-09-04": 9021,
-  "2022-09-05": 9082,
-  "2022-09-06": 9133,
-  "2022-09-07": 9167,
-  "2022-09-09": 9252,
-  "2022-09-10": 9307,
-  "2022-09-11": 9359,
-  "2022-09-12": 9417,
-  "2022-09-13": 9470,
-  "2022-09-15": 9582,
-  "2022-09-16": 9635,
-  "2022-09-17": 9684,
-  "2022-09-18": 9747,
-  "2022-09-19": 9808,
-  "2022-09-20": 9856,
-  "2022-09-21": 9911,
-  "2022-09-22": 9971,
-  "2022-09-23": 10019,
-  "2022-09-24": 10076,
-  "2022-09-25": 10147,
-  "2022-09-26": 10216,
-  "2022-09-27": 2101,
-  "2022-09-28": 527,
-  "2022-09-29": 258,
-  "2022-09-30": 252,
-  "2022-10-01": 306,
-  "2022-10-02": 366,
-  "2022-10-03": 453,
-  "2022-10-04": 515,
-  "2022-10-05": 581,
-  "2022-10-06": 633,
-  "2022-10-07": 80620,
-  "2022-10-08": 80768,
-  "2022-10-09": 16346,
-  "2022-10-10": 3441,
-  "2022-10-11": 909,
-  "2022-10-12": 463,
-  "2022-10-13": 81225,
-  "2022-10-14": 81282,
-  "2022-10-15": 81334,
-  "2022-10-16": 81387,
-  "2022-10-17": 81428,
-  "2022-10-18": 81455,
-  "2022-10-19": 81488,
-  "2022-10-20": 81536,
-  "2022-10-21": 81575,
-  "2022-10-22": 81626,
-  "2022-10-23": 81675,
-  "2022-10-24": 81705,
-  "2022-10-25": 81739,
-  "2022-10-26": 81790,
-  "2022-10-27": 81848,
-  "2022-10-28": 81903,
-  "2022-10-29": 81989,
-  "2022-10-30": 82073,
-  "2022-10-31": 82155,
-  "2022-11-01": 82218,
-  "2022-11-02": 82297,
-  "2022-11-03": 82367,
-  "2022-11-04": 82412,
-  "2022-11-05": 82474,
-  "2022-11-06": 82542,
-  "2022-11-07": 82610,
-  "2022-11-08": 82675,
-  "2022-11-09": 82729,
-  "2022-11-10": 82787,
-  "2022-11-11": 82858,
-  "2022-11-12": 82934,
-  "2022-11-13": 83000,
-  "2022-11-14": 83062,
-  "2022-11-15": 83127,
-  "2022-11-16": 83188,
-  "2022-11-17": 83272,
-  "2022-11-18": 83308,
-  "2022-11-19": 83326,
-  "2022-11-20": 83395,
-  "2022-11-21": 83467,
-  "2022-11-22": 83524,
-  "2022-11-23": 83590,
-  "2022-11-24": 83693,
-  "2022-11-25": 83811,
-  "2022-11-26": 83894,
-  "2022-11-27": 83967,
-  "2022-11-28": 84032,
-  "2022-11-29": 84103,
-  "2022-11-30": 84167,
-  "2022-12-01": 84266,
-  "2022-12-02": 84301,
-  "2022-12-03": 84394,
-  "2022-12-04": 84474,
-  "2022-12-05": 84561,
-  "2022-12-06": 84629,
-  "2022-12-07": 84691,
-  "2022-12-08": 84763,
-  "2022-12-09": 84826,
-  "2022-12-10": 84903,
-  "2022-12-11": 84982,
-  "2022-12-12": 85034,
-  "2022-12-13": 85111,
-  "2022-12-14": 85181,
-  "2022-12-15": 85224,
-  "2022-12-16": 85272,
-  "2022-12-17": 85330,
-  "2022-12-18": 85420,
-  "2022-12-19": 85478,
-  "2022-12-20": 85602,
-  "2022-12-21": 85602,
-  "2022-12-22": 85655,
-  "2022-12-24": 85791,
-  "2022-12-25": 85870,
-  "2022-12-26": 85955,
-  "2022-12-27": 86032,
-  "2022-12-28": 86098,
-  "2022-12-29": 86164,
-  "2022-12-30": 86225,
-  "2022-12-31": 86307,
-  "2023-01-01": 86368,
-  "2023-01-02": 86419,
-  "2023-01-03": 86477,
-  "2023-01-04": 86537,
-  "2023-01-05": 86595,
-  "2023-01-06": 86670,
-  "2023-01-07": 86765,
-  "2023-01-08": 86777,
-  "2023-01-09": 86842,
-  "2023-01-10": 86902,
-  "2023-01-11": 86952,
-  "2023-01-12": 87008,
-  "2023-01-13": 87062,
-  "2023-01-14": 87210,
-  "2023-01-15": 87226,
-  "2023-01-16": 87307,
-  "2023-01-17": 87374,
-  "2023-01-18": 87460,
-  "2023-01-19": 87519,
-  "2023-01-20": 87593,
-  "2023-01-21": 87666,
-  "2023-01-22": 87756,
-  "2023-01-23": 87843,
-  "2023-01-24": 87910,
-  "2023-01-25": 87982,
-  "2023-01-26": 88049,
-  "2023-01-27": 88118,
-  "2023-01-28": 88183,
-  "2023-01-29": 88256,
-  "2023-01-30": 88323,
-  "2023-01-31": 88323,
-  "2023-02-01": 88458,
-  "2023-02-02": 88540,
-  "2023-02-03": 88623,
-  "2023-02-04": 88701,
-  "2023-02-05": 88785,
-  "2023-02-06": 88862,
-  "2023-02-07": 88936,
-  "2023-02-08": 89072,
-  "2023-02-09": 89072,
-  "2023-02-10": 89143,
-  "2023-02-11": 89222,
-  "2023-02-12": 89406,
-  "2023-02-13": 89481,
-  "2023-02-14": 89481,
-  "2023-02-15": 89562,
-  "2023-02-16": 89636,
-  "2023-02-17": 89725,
-  "2023-02-18": 89875,
-  "2023-02-19": 89890,
-  "2023-02-20": 89947,
-  "2023-02-21": 90008,
-  "2023-02-22": 90105,
-  "2023-02-23": 90176,
-  "2023-02-24": 90267,
-  "2023-02-25": 90373,
-  "2023-02-26": 90430,
-  "2023-02-27": 90561,
-  "2023-02-28": 90561,
-  "2023-03-01": 90632,
-  "2023-03-02": 90697,
-  "2023-03-03": 90781,
-  "2023-03-04": 90878,
-  "2023-03-05": 91052,
-  "2023-03-06": 91052,
-  "2023-03-07": 91149,
-  "2023-03-08": 91224,
-  "2023-03-09": 91297,
-  "2023-03-10": 91386,
-  "2023-03-11": 91469,
-  "2023-03-12": 91560,
-  "2023-03-13": 91642,
-  "2023-03-14": 91710,
-  "2023-03-15": 91811,
-  "2023-03-16": 91898,
-  "2023-03-17": 91898,
-  "2023-03-18": 92071,
-  "2023-03-19": 92142,
-  "2023-03-20": 92222,
-  "2023-03-21": 92294,
-  "2023-03-22": 92397,
-  "2023-03-23": 92491,
-  "2023-03-24": 92491,
-  "2023-03-25": 92796,
-  "2023-03-26": 92937,
-  "2023-03-27": 93085,
-  "2023-03-28": 93219,
-  "2023-03-29": 93371,
-  "2023-03-30": 93596,
-  "2023-03-31": 93596,
-  "2023-04-01": 93717,
-  "2023-04-02": 93842,
-  "2023-04-03": 93950,
-  "2023-04-04": 94068,
-  "2023-04-05": 94182,
-  "2023-04-06": 94295,
-  "2023-04-07": 94409,
-  "2023-04-09": 94635,
-  "2023-04-10": 94755,
-  "2023-04-11": 94979,
-  "2023-04-12": 94979,
-  "2023-04-13": 95069,
-  "2023-04-14": 95167,
-  "2023-04-15": 95284,
-  "2023-04-16": 95388,
-  "2023-04-17": 95511,
-  "2023-04-18": 95609,
-  "2023-04-19": 95710,
-  "2023-04-20": 95805,
-  "2023-04-21": 95921,
-  "2023-04-22": 96003,
-  "2023-04-23": 96081,
-  "2023-04-24": 96190,
-  "2023-04-25": 96297,
-  "2023-04-26": 96408,
-  "2023-04-27": 96500,
-  "2023-04-28": 96609,
-  "2023-04-29": 96706,
-  "2023-04-30": 96819,
-  "2023-05-01": 96898,
-  "2023-05-02": 96972,
-  "2023-05-03": 97060,
-  "2023-05-04": 97159,
-  "2023-05-05": 97264,
-  "2023-05-06": 97379,
-  "2023-05-07": 97490,
-  "2023-05-08": 97593,
-  "2023-05-09": 97695,
-  "2023-05-10": 97783,
-  "2023-05-11": 97890,
-  "2023-05-12": 97985,
-  "2023-05-13": 98085,
-  "2023-05-14": 98203,
-  "2023-05-15": 98319,
-  "2023-05-16": 98404,
-  "2023-05-17": 98495,
-  "2023-05-18": 98592,
-  "2023-05-19": 98709,
-  "2023-05-20": 98899,
-  "2023-05-21": 98899,
-  "2023-05-22": 98899,
-  "2023-05-23": 99113,
-  "2023-05-24": 99289,
-  "2023-05-25": 99318,
-  "2023-05-26": 99410,
-  "2023-05-27": 99515,
-  "2023-05-28": 99623,
-  "2023-05-29": 99623,
-  "2023-05-30": 99841,
-  "2023-05-31": 99949,
-  "2023-06-01": 100063,
-  "2023-06-02": 100168,
-  "2023-06-03": 100278,
-  "2023-06-04": 100370,
-  "2023-06-05": 100465,
-  "2023-06-06": 100563,
-  "2023-06-07": 100657,
-  "2023-06-08": 100740,
-  "2023-06-09": 100850,
-  "2023-06-10": 100955,
-  "2023-06-11": 101070,
-  "2023-06-12": 101179,
-  "2023-06-13": 101267,
-  "2023-06-14": 101267,
-  "2023-06-15": 101481,
-  "2023-06-16": 101563,
-  "2023-06-17": 101663,
-  "2023-06-18": 101772,
-  "2023-06-19": 101871,
-  "2023-06-20": 101954,
-  "2023-06-21": 102035,
-  "2023-06-22": 102139,
-  "2023-06-23": 102233,
-  "2023-06-24": 102329,
-  "2023-06-25": 102401,
-  "2023-06-26": 102503,
-  "2023-06-27": 102594,
-  "2023-06-28": 102706,
-  "2023-06-29": 102807,
-  "2023-06-30": 102899,
-  "2023-07-01": 103138,
-  "2023-07-02": 103138,
-  "2023-07-03": 103225,
-  "2023-07-04": 103330,
-  "2023-07-05": 103424,
-  "2023-07-06": 103622,
-  "2023-07-07": 103622,
-  "2023-07-08": 103723,
-  "2023-07-09": 103829,
-  "2023-07-10": 103922,
-  "2023-07-11": 104006,
-  "2023-07-12": 104070,
-  "2023-07-13": 104148,
-  "2023-07-14": 104245,
-  "2023-07-15": 104312,
-  "2023-07-16": 104425,
-  "2023-07-17": 104512,
-  "2023-07-18": 104604,
-  "2023-07-19": 104705,
-  "2023-07-20": 104775,
-  "2023-07-21": 104864,
-  "2023-07-22": 104975,
-  "2023-07-23": 105075,
-  "2023-07-24": 105174,
-  "2023-07-25": 105263,
-  "2023-07-26": 105362,
-  "2023-07-27": 105429,
-  "2023-07-28": 105541,
-  "2023-07-29": 105629,
-  "2023-07-30": 105728,
-  "2023-07-31": 105823,
-  "2023-08-01": 105905,
-  "2023-08-02": 105995,
-  "2023-08-03": 106095,
-  "2023-08-04": 106176,
-  "2023-08-05": 106283,
-  "2023-08-06": 106478,
-  "2023-08-07": 106478,
-  "2023-08-08": 106553,
-  "2023-08-09": 106637,
-  "2023-08-10": 106719,
-  "2023-08-11": 106820,
-  "2023-08-12": 106900,
-  "2023-08-13": 106994,
-  "2023-08-14": 107099,
-  "2023-08-15": 107273,
-  "2023-08-16": 107273,
-  "2023-08-17": 107366,
-  "2023-08-18": 107448,
-  "2023-08-19": 107565,
-  "2023-08-20": 107658,
-  "2023-08-21": 107763,
-  "2023-08-22": 107848,
-  "2023-08-23": 107930,
-  "2023-08-24": 108022,
-  "2023-08-25": 108121,
-  "2023-08-26": 108217,
-  "2023-08-27": 108313,
-  "2023-08-28": 108413,
-  "2023-08-29": 108502,
-  "2023-08-30": 108589,
-  "2023-08-31": 108688,
-  "2023-09-01": 110890,
-  "2023-09-02": 110890,
-  "2023-09-03": 111084,
-  "2023-09-04": 111227,
-  "2023-09-05": 111354,
-  "2023-09-06": 111483,
-  "2023-09-07": 111693,
-  "2023-09-08": 111891,
-  "2023-09-09": 111992,
-  "2023-09-10": 112088,
-  "2023-09-11": 112169,
-  "2023-09-12": 112256,
-  "2023-09-13": 112346,
-  "2023-09-14": 112441,
-  "2023-09-15": 112531,
-  "2023-09-16": 112604,
-  "2023-09-17": 112693,
-  "2023-09-18": 112762,
-  "2023-09-19": 112821,
-  "2023-09-20": 112889,
-  "2023-09-21": 112965,
-  "2023-09-22": 113044,
-  "2023-09-23": 113123,
-  "2023-09-24": 113197,
-  "2023-09-25": 113270,
-  "2023-09-26": 113372,
-  "2023-09-27": 113432,
-  "2023-09-28": 113511,
-  "2023-09-29": 113594,
-  "2023-09-30": 113669,
-  "2023-10-01": 113754,
-  "2023-10-02": 113865,
-  "2023-10-03": 113930,
-  "2023-10-04": 114008,
-  "2023-10-05": 114076,
-  "2023-10-06": 114145,
-  "2023-10-07": 114216,
-  "2023-10-08": 114289,
-  "2023-10-09": 114352,
-  "2023-10-10": 114401,
-  "2023-10-11": 114510,
-  "2023-10-12": 114510,
-  "2023-10-13": 114561,
-  "2023-10-14": 114609,
-  "2023-10-15": 114688,
-  "2023-10-16": 114796,
-  "2023-10-17": 114890,
-  "2023-10-18": 114988,
-  "2023-10-19": 115103,
-  "2023-10-20": 115194,
-  "2023-10-21": 115296,
-  "2023-10-22": 115397,
-  "2023-10-23": 115501,
-  "2023-10-24": 115583,
-  "2023-10-25": 115673,
-  "2023-10-26": 115777,
-  "2023-10-27": 115894,
-  "2023-10-28": 115894,
-  "2023-10-29": 115894,
-  "2023-10-30": 116205,
-  "2023-10-31": 116205,
-  "2023-11-01": 116392,
-  "2023-11-02": 116482,
-  "2023-11-03": 116581,
-  "2023-11-04": 116684,
-  "2023-11-05": 116750,
-  "2023-11-06": 116837,
-  "2023-11-07": 116939,
-  "2023-11-08": 117033,
-  "2023-11-09": 117112,
-  "2023-11-10": 117194,
-  "2023-11-11": 117299,
-  "2023-11-12": 117356,
-  "2023-11-13": 117427,
-  "2023-11-14": 117486,
-  "2023-11-15": 117486,
-  "2023-11-16": 117665,
-  "2023-11-17": 117852,
-  "2023-11-18": 117852,
-  "2023-11-19": 117944,
-  "2023-11-20": 117988,
-  "2023-11-21": 118073,
-  "2023-11-22": 118165,
-  "2023-11-23": 118246,
-  "2023-11-24": 118246,
-  "2023-11-25": 118447,
-  "2023-11-26": 118551,
-  "2023-11-27": 118661,
-  "2023-11-28": 118765,
-  "2023-11-29": 118981,
-  "2023-11-30": 118981,
-  "2023-12-01": 119080,
-  "2023-12-02": 119195,
-  "2023-12-03": 119285,
-  "2023-12-04": 119285,
-  "2023-12-05": 119487,
-  "2023-12-06": 119555,
-  "2023-12-07": 119661,
-  "2023-12-08": 119784,
-  "2023-12-09": 119927,
-  "2023-12-10": 119927,
-  "2023-12-11": 120208,
-  "2023-12-12": 120208,
-  "2023-12-13": 120435,
-  "2023-12-14": 120573,
-  "2023-12-15": 120645,
-  "2023-12-16": 120751,
-  "2023-12-17": 120904,
-  "2023-12-18": 121021,
-  "2023-12-19": 121126,
-  "2023-12-20": 121275,
-  "2023-12-21": 121408,
-  "2023-12-22": 121529,
-  "2023-12-23": 121651,
-  "2023-12-24": 121788,
-  "2023-12-25": 121905,
-  "2023-12-26": 122036,
-  "2023-12-27": 122164,
-  "2023-12-30": 122593,
-  "2023-12-31": 122729,
-  "2024-01-01": 122832,
-  "2024-01-02": 122933,
-  "2024-01-03": 123043
+  "2024-01-17": 124135,
+  "date_first_scraped": "2022-06-22",
+  "description": "Jahaan bhi dekho tera nishaan hai, mahraab-i dil men teri azaan hai.",
+  "name": "South Asian Sufi",
+  "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6NucTCpJkSWDphKnLBXp6P"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6Y1cH3RzDCMWGQtOS0HmP8"
+    },
+    {
+      "album": {
+        "name": "Dhola",
+        "url": "https://open.spotify.com/album/5QEjYCacgMeNn6JsBWJzxx"
+      },
+      "artists": [
+        {
+          "name": "MASUMA ANWAR",
+          "url": "https://open.spotify.com/artist/55DHZ4eEuBZM0xfX7bCX1H"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 271237,
+      "name": "Aa Meda Dhola",
+      "url": "https://open.spotify.com/track/5T7eWVRYVA2FsbLJORHtpO"
+    },
+    {
+      "album": {
+        "name": "The Best Of Sabri Brothers & Nusrat Fateh Ali Khan",
+        "url": "https://open.spotify.com/album/0JtKMVGy841ydtXY0DxxTz"
+      },
+      "artists": [
+        {
+          "name": "Sabri Brothers & Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/4ljg4oWX2tE1wsyG1AeqWo"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 902186,
+      "name": "Aaja Tenon Akhiyan Udeek Diyan",
+      "url": "https://open.spotify.com/track/3uD1gnPxeBeUJ3Ut8FWEdd"
+    },
+    {
+      "album": {
+        "name": "Aameen Sum Aameen",
+        "url": "https://open.spotify.com/album/7GAzkyAAWcYpcfB5l28cYm"
+      },
+      "artists": [
+        {
+          "name": "Sahir Ali Bagga",
+          "url": "https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 263478,
+      "name": "Aameen Sum Aameen",
+      "url": "https://open.spotify.com/track/2tvbXJeZYwii8TQrq8b3Mx"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 9: Sound of the Nation",
+        "url": "https://open.spotify.com/album/4X5hkWWjsoqKNeDimjWF5L"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 507000,
+      "name": "Aaqa",
+      "url": "https://open.spotify.com/track/1wA9pLwDJstxgABp8D4mDF"
+    },
+    {
+      "album": {
+        "name": "Aaqa - Coke Studio Season 9",
+        "url": "https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507000,
+      "name": "Aaqa - Coke Studio Season 9",
+      "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
+    },
+    {
+      "album": {
+        "name": "Aaqa Teri Rehmat (Presented by Rivayat)",
+        "url": "https://open.spotify.com/album/3dGlou4FunV5GGtjB7TUQO"
+      },
+      "artists": [
+        {
+          "name": "Mekaal Hasan Band",
+          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
+        },
+        {
+          "name": "Afzaal Ali Khan",
+          "url": "https://open.spotify.com/artist/4P6RKmuyKGks8Nm6G2f3Vd"
+        },
+        {
+          "name": "Anton Davidyants",
+          "url": "https://open.spotify.com/artist/66d6zyM2sXbxpVa6BVMLKq"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 737000,
+      "name": "Aaqa Teri Rehmat - Presented by Rivayat",
+      "url": "https://open.spotify.com/track/3QuoSyPh0KEYyC1brxkEJr"
+    },
+    {
+      "album": {
+        "name": "Anjaana Anjaani",
+        "url": "https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319115,
+      "name": "Aas Paas Khuda",
+      "url": "https://open.spotify.com/track/3kuxr8U3QynLzyW82p5hYR"
+    },
+    {
+      "album": {
+        "name": "Anjaana Anjaani",
+        "url": "https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204234,
+      "name": "Aas Paas Khuda (Unplugged)",
+      "url": "https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4"
+    },
+    {
+      "album": {
+        "name": "Afreen Afreen (Coke Studio Season 9)",
+        "url": "https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Momina Mustehsan",
+          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Afreen Afreen (Coke Studio Season 9)",
+      "url": "https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+      },
+      "artists": [
+        {
+          "name": "Saieen Zahoor & Noori",
+          "url": "https://open.spotify.com/artist/6jVprp3uYRJ6Cr8jTn8lkV"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429851,
+      "name": "Aik Alif",
+      "url": "https://open.spotify.com/track/1FVMCf8F6RgTVrIaN2R9tV"
+    },
+    {
+      "album": {
+        "name": "Ainay",
+        "url": "https://open.spotify.com/album/72zheRsnYxLWNuHv6dHXiL"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        },
+        {
+          "name": "Tehzeeb Hafi",
+          "url": "https://open.spotify.com/artist/2XZWheJXPLb99FDdImPP2o"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328842,
+      "name": "Ainay",
+      "url": "https://open.spotify.com/track/6f9D7nVZVcMJvCuqVvD5LE"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+      },
+      "artists": [
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Ajab Khail",
+      "url": "https://open.spotify.com/track/427BC6reuQ7MFaucXBovNQ"
+    },
+    {
+      "album": {
+        "name": "Ajab Shaan",
+        "url": "https://open.spotify.com/album/027Hm6R2LDBLuQ7UoH54qY"
+      },
+      "artists": [
+        {
+          "name": "Junaid Ahmad",
+          "url": "https://open.spotify.com/artist/2bj8wu4yydN6N6ocVCRmJz"
+        },
+        {
+          "name": "Ayashi Music",
+          "url": "https://open.spotify.com/artist/6q92ahsRTNAvLM9Joys95s"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 256640,
+      "name": "Ajab Shaan",
+      "url": "https://open.spotify.com/track/4CZISmbEjlxmS2AZU5PicM"
+    },
+    {
+      "album": {
+        "name": "Whirling Sufis 50 Greatest Hits",
+        "url": "https://open.spotify.com/album/36KaeUjT0XPK2gNe2Ui3go"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 903372,
+      "name": "Akhiyan Udeek Diyan",
+      "url": "https://open.spotify.com/track/4DeJZKLeq2sKRIRMVUQfr3"
+    },
+    {
+      "album": {
+        "name": "Ali Ali",
+        "url": "https://open.spotify.com/album/5HOkWmLlJfuIQZRQehlEUS"
+      },
+      "artists": [
+        {
+          "name": "Afaq Munir",
+          "url": "https://open.spotify.com/artist/2xpY02EIF6tEPh6MwaW0MU"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 162127,
+      "name": "Ali Ali",
+      "url": "https://open.spotify.com/track/3Akh5yIVkkHJImEobcrXRp"
+    },
+    {
+      "album": {
+        "name": "Ali Ali",
+        "url": "https://open.spotify.com/album/2wPoxnDvYbnXeCWG4P9Ugd"
+      },
+      "artists": [
+        {
+          "name": "Kumail Jaffery",
+          "url": "https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 298823,
+      "name": "Ali Ali",
+      "url": "https://open.spotify.com/track/7tDQEy0JBw7EldhdlBaF1w"
+    },
+    {
+      "album": {
+        "name": "Ali Ali",
+        "url": "https://open.spotify.com/album/3GHXQ0iMm996ZrW1VhWrFb"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 223880,
+      "name": "Ali Ali",
+      "url": "https://open.spotify.com/track/67gxJf9SlZiYLjPBtmWNuw"
+    },
+    {
+      "album": {
+        "name": "Alif Allah",
+        "url": "https://open.spotify.com/album/4ujPZXrHcBjRIGbsUXa2PH"
+      },
+      "artists": [
+        {
+          "name": "Soch the Band",
+          "url": "https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp"
+        },
+        {
+          "name": "Adnan Dhool",
+          "url": "https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc"
+        },
+        {
+          "name": "Rabi Ahmed",
+          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201473,
+      "name": "Alif Allah",
+      "url": "https://open.spotify.com/track/48nNYfMib6yRaZ4SF8EL8D"
+    },
+    {
+      "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/7MX5gFeegQUkLCUFtn1oFJ"
+      },
+      "artists": [
+        {
+          "name": "Arif Lohar",
+          "url": "https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4"
+        },
+        {
+          "name": "Meesha Shafi",
+          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517904,
+      "name": "Alif Allah Chambey Di Booty",
+      "url": "https://open.spotify.com/track/3ubdpgbEWIcaOyF7bVtxof"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions: Season 3",
+        "url": "https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY"
+      },
+      "artists": [
+        {
+          "name": "Arif Lohar & Meesha Shafi",
+          "url": "https://open.spotify.com/artist/2AI4UlqXx9uRwCcK4hCqcg"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524124,
+      "name": "Alif Allah Chambey Di Booty",
+      "url": "https://open.spotify.com/track/7krpkx52sDmcO6U8ujbref"
+    },
+    {
+      "album": {
+        "name": "Main Kavita Hoon - Amrita Pritam",
+        "url": "https://open.spotify.com/album/4zVSwIq5uplUTpCr6p6sHk"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Allah",
+      "url": "https://open.spotify.com/track/1If4nhpAJUVwogpsbitL4M"
+    },
+    {
+      "album": {
+        "name": "Javeda Sufiaana",
+        "url": "https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 241426,
+      "name": "Allah Hi Reham",
+      "url": "https://open.spotify.com/track/7lTvFxtg1kwAFFhCBlY75x"
+    },
+    {
+      "album": {
+        "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241453,
+      "name": "Allah Hi Reham",
+      "url": "https://open.spotify.com/track/3WbmZDODopN9M7lDWd6uey"
+    },
+    {
+      "album": {
+        "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241453,
+      "name": "Allah Hi Reham",
+      "url": "https://open.spotify.com/track/5s9a6n2FQaufFDUTTcsaXj"
+    },
+    {
+      "album": {
+        "name": "Allah Hoo",
+        "url": "https://open.spotify.com/album/67MfQAsIqudWrhvPjP5MAr"
+      },
+      "artists": [
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 242823,
+      "name": "Allah Hoo",
+      "url": "https://open.spotify.com/track/2oAsqDg6T3r1aCuA6RnXmQ"
+    },
+    {
+      "album": {
+        "name": "Coke Studio India Season 2: Episode 2",
+        "url": "https://open.spotify.com/album/4l5prCXlsZFNDCmd20YDsJ"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Sultana Nooran",
+          "url": "https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 448600,
+      "name": "Allah Hoo",
+      "url": "https://open.spotify.com/track/2TEwVLEEIuQxTWAVWALkOH"
+    },
+    {
+      "album": {
+        "name": "Allah Hu",
+        "url": "https://open.spotify.com/album/1cYcGtARBCMQNpNrj8iEcu"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akram Qawwal",
+          "url": "https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT"
+        },
+        {
+          "name": "Taimoor Akram",
+          "url": "https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq"
+        },
+        {
+          "name": "Abdul Akram",
+          "url": "https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 296262,
+      "name": "Allah Hu",
+      "url": "https://open.spotify.com/track/6EWDE9xJuEGK4CD9SMnlm9"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 6",
+        "url": "https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky"
+      },
+      "artists": [
+        {
+          "name": "Saieen Zahoor",
+          "url": "https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q"
+        },
+        {
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416746,
+      "name": "Allah Hu",
+      "url": "https://open.spotify.com/track/5COYSZGnYxlkoPYU2N9a8H"
+    },
+    {
+      "album": {
+        "name": "Kailasa",
+        "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Paresh Kamath",
+          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "name": "Naresh Kamath",
+          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 275026,
+      "name": "Allah Ke Bande - Live",
+      "url": "https://open.spotify.com/track/4MGTYzFHCVehaWLdvLlvSi"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 10: Episode 1",
+        "url": "https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8"
+      },
+      "artists": [
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        {
+          "name": "Ahmed Jehanzeb",
+          "url": "https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 519405,
+      "name": "Allahu Akbar",
+      "url": "https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha"
+    },
+    {
+      "album": {
+        "name": "Delhi-6",
+        "url": "https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519235,
+      "name": "Arziyan",
+      "url": "https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1"
+    },
+    {
+      "album": {
+        "name": "Sam Bahadur (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4XCmGQKLUg0jr3uPQEhXQH"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239657,
+      "name": "Banda - From \"Sam Bahadur\"",
+      "url": "https://open.spotify.com/track/4jg4emrgDIwuJwAyGQSEge"
+    },
+    {
+      "album": {
+        "name": "Bajrangi Bhaijaan",
+        "url": "https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499383,
+      "name": "Bhar Do Jholi Meri",
+      "url": "https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf"
+    },
+    {
+      "album": {
+        "name": "50 Greatest Sufi Hits",
+        "url": "https://open.spotify.com/album/0Zk3ZjRiCKB0wizNHmm7CI"
+      },
+      "artists": [
+        {
+          "name": "Sabri Brothers",
+          "url": "https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1193923,
+      "name": "Bhar Do Jholi Meri",
+      "url": "https://open.spotify.com/track/5etuDMYaAMqK2mREqcTpep"
+    },
+    {
+      "album": {
+        "name": "Binti Karat Hon Ganje Shakar",
+        "url": "https://open.spotify.com/album/5kEaQxsOocIMJSQTSC64ur"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akram Qawwal",
+          "url": "https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT"
+        },
+        {
+          "name": "Taimoor Akram",
+          "url": "https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq"
+        },
+        {
+          "name": "Abdul Akram",
+          "url": "https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 461090,
+      "name": "Binti Karat Hon Ganje Shakar",
+      "url": "https://open.spotify.com/track/1AJ9gU5SwSFPJZRtNlv3xj"
+    },
+    {
+      "album": {
+        "name": "Sufiyana Kalaam",
+        "url": "https://open.spotify.com/album/4nJOgfyXqaFQRwGtcJcD7h"
+      },
+      "artists": [
+        {
+          "name": "Sufiyana Kalaam",
+          "url": "https://open.spotify.com/artist/2mQAde9guP1MW8yNK3Pr2C"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 314336,
+      "name": "Bula Ki Jana Main Kon",
+      "url": "https://open.spotify.com/track/6AxVCQ9FV3TJFq50GNCPcz"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+      },
+      "artists": [
+        {
+          "name": "Riaz Ali Khan",
+          "url": "https://open.spotify.com/artist/7uHxuIPuSJyVFSryu7WQzr"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Bulleya",
+      "url": "https://open.spotify.com/track/0vrbxm6Qwqfcf5yU0q46Xd"
+    },
+    {
+      "album": {
+        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Amit Mishra",
+          "url": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348965,
+      "name": "Bulleya (From \"Ae Dil Hai Mushkil\")",
+      "url": "https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532300,
+      "name": "Chaap Tilak",
+      "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
+    },
+    {
+      "album": {
+        "name": "Chishti Sanwariya",
+        "url": "https://open.spotify.com/album/0VIxnvXKv1lG59JRtqR5vQ"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akram Qawwal",
+          "url": "https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT"
+        },
+        {
+          "name": "Taimoor Akram",
+          "url": "https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq"
+        },
+        {
+          "name": "Abdul Akram",
+          "url": "https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 237142,
+      "name": "Chishti Sanwariya",
+      "url": "https://open.spotify.com/track/7yODrcqs8n3TPc1eXheSPi"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 10: Epsiode 6",
+        "url": "https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY"
+      },
+      "artists": [
+        {
+          "name": "Jabbar Abbas",
+          "url": "https://open.spotify.com/artist/2cthHttWnQCNDd3O3GQKKm"
+        },
+        {
+          "name": "Umair Jaswal",
+          "url": "https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 390571,
+      "name": "Dam Mast Qalandar",
+      "url": "https://open.spotify.com/track/4U586Ia3RscaHJGkPSVNId"
+    },
+    {
+      "album": {
+        "name": "A Tribute The Essential Nusrat Fateh Ali Khan Vol-2",
+        "url": "https://open.spotify.com/album/7D4Qf2CW2bTJoRLgeV2fW1"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 510520,
+      "name": "Dam Mast Qalandar Mast Mast",
+      "url": "https://open.spotify.com/track/3VfhNSY3WCaztA0HjcrC30"
+    },
+    {
+      "album": {
+        "name": "Nusrat Fateh Ali Khan No. 1 Hits",
+        "url": "https://open.spotify.com/album/2iHgZ58kj74cIwwvAkbSyO"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 383804,
+      "name": "Dam Mast Qalander",
+      "url": "https://open.spotify.com/track/2y5nVgj5Fg1wEC2wBL8Mvm"
+    },
+    {
+      "album": {
+        "name": "Abida Parveen, Vol. 10",
+        "url": "https://open.spotify.com/album/2H6e43nwOEzb13cHRnyPXk"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 267101,
+      "name": "Dama Dum Mast",
+      "url": "https://open.spotify.com/track/4kymm1BIlbDQnQ6Av5WSS4"
+    },
+    {
+      "album": {
+        "name": "4 Saal",
+        "url": "https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q"
+      },
+      "artists": [
+        {
+          "name": "Bayaan",
+          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Din Dhalay",
+      "url": "https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395070,
+      "name": "Dost",
+      "url": "https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg"
+    },
+    {
+      "album": {
+        "name": "Dum Mastam",
+        "url": "https://open.spotify.com/album/1EglwJBoao871pVnozWiiE"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415091,
+      "name": "Dum Mastam",
+      "url": "https://open.spotify.com/track/7bvREO7W5kT4onxilRnkNZ"
+    },
+    {
+      "album": {
+        "name": "Dumadum Mast Qalandar- 5 Powerpacked Renditions",
+        "url": "https://open.spotify.com/album/4so80ydgtvJRV2lAhP00r1"
+      },
+      "artists": [
+        {
+          "name": "Reshma",
+          "url": "https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 559151,
+      "name": "Duma dum mast qalandar",
+      "url": "https://open.spotify.com/track/4AnFOrG0buaFD9DYCty84Q"
+    },
+    {
+      "album": {
+        "name": "The Best of Wadali Brothers",
+        "url": "https://open.spotify.com/album/6t70d2Plw6ILCHLZ6mCBQe"
+      },
+      "artists": [
+        {
+          "name": "Ustad Piyare Lal Wadali",
+          "url": "https://open.spotify.com/artist/4vChFUCHDKK5t1n77dSv22"
+        },
+        {
+          "name": "Ustad Puran Chand Wadali",
+          "url": "https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471480,
+      "name": "Duma Dum Mast Qalandar",
+      "url": "https://open.spotify.com/track/5Fu9Axrk4D9tJ72VDqtAOi"
+    },
+    {
+      "album": {
+        "name": "Haiderium Qalandaram Mastam",
+        "url": "https://open.spotify.com/album/5zDG8KiWgU6GyIoRp08hpK"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akram Qawwal",
+          "url": "https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT"
+        },
+        {
+          "name": "Abdul Akram",
+          "url": "https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC"
+        },
+        {
+          "name": "Taimoor Akram",
+          "url": "https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 345894,
+      "name": "Haiderium Qalandaram Mastam",
+      "url": "https://open.spotify.com/track/3Z4EnyYxSXw62ENzxRxcgk"
+    },
+    {
+      "album": {
+        "name": "Haji Peer",
+        "url": "https://open.spotify.com/album/52tfxa4ThDUFALfmS7HcZR"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        },
+        {
+          "name": "Raj Pandit",
+          "url": "https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251384,
+      "name": "Haji Peer",
+      "url": "https://open.spotify.com/track/2gzhifaV7Dz7BsTFstmZOA"
+    },
+    {
+      "album": {
+        "name": "Bhoomi 2020",
+        "url": "https://open.spotify.com/album/73G9NzlCUCFr88RHxJuQPQ"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Blue Productions",
+          "url": "https://open.spotify.com/artist/15jUoEypsDlzTmh1eVJP6X"
+        },
+        {
+          "name": "Raj Pandit",
+          "url": "https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908"
+        },
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        },
+        {
+          "name": "Vipul Mehta",
+          "url": "https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407112,
+      "name": "Haq Ali",
+      "url": "https://open.spotify.com/track/4VCOs89feJNdL22cDoeFoc"
+    },
+    {
+      "album": {
+        "name": "Haq Ali",
+        "url": "https://open.spotify.com/album/0FJlpw4MuPuYh2STnJVHt7"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Raj Pandit",
+          "url": "https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908"
+        },
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        },
+        {
+          "name": "Vipul Mehta",
+          "url": "https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 407112,
+      "name": "Haq Ali",
+      "url": "https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H"
+    },
+    {
+      "album": {
+        "name": "Haq Nama",
+        "url": "https://open.spotify.com/album/5J7Qzd4bmQCqBXuhmhXVyw"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Samie",
+          "url": "https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306494,
+      "name": "Haq Nama",
+      "url": "https://open.spotify.com/track/4h00nIZhd1S6uJDKDpkEKj"
+    },
+    {
+      "album": {
+        "name": "Hum Dekhenge",
+        "url": "https://open.spotify.com/album/5AsrWbCKLj3AlZjddMn44O"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Haider",
+          "url": "https://open.spotify.com/artist/0c8E2S7cYBXqoo51XkVX3L"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 118500,
+      "name": "Hum Dekhenge",
+      "url": "https://open.spotify.com/track/68xwgHKBcFBdgNlwGaiQWD"
+    },
+    {
+      "album": {
+        "name": "HUSN",
+        "url": "https://open.spotify.com/album/0s04EqGpXZ5iafjqQKpe0y"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380625,
+      "name": "HUSN",
+      "url": "https://open.spotify.com/track/1HEaumfum03fcbwwdwm2Pv"
+    },
+    {
+      "album": {
+        "name": "Husn E Haqiqi",
+        "url": "https://open.spotify.com/album/402uZx2nCUK3MWpvqrVNxW"
+      },
+      "artists": [
+        {
+          "name": "Darvesh",
+          "url": "https://open.spotify.com/artist/1mPsFzgP5Zg6gdnfyKWMyJ"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 399143,
+      "name": "Husn E Haqiqi",
+      "url": "https://open.spotify.com/track/1Yi1XZNXOGk49Eh8WI5FGG"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 11 (Sound of The Nation)",
+        "url": "https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Kolachi",
+          "url": "https://open.spotify.com/artist/2OXuebtuU3LEKGl6FzTVkF"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573461,
+      "name": "Ilallah",
+      "url": "https://open.spotify.com/track/6SWvKdouOwgg6miQrnBGPR"
+    },
+    {
+      "album": {
+        "name": "Irham Lana",
+        "url": "https://open.spotify.com/album/4lVWBcqW0dOuNZ1jjcaAWb"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akram Qawwal",
+          "url": "https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT"
+        },
+        {
+          "name": "Taimoor Akram",
+          "url": "https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq"
+        },
+        {
+          "name": "Abdul Akram",
+          "url": "https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 431127,
+      "name": "Irham Lana",
+      "url": "https://open.spotify.com/track/7Bb1qUMVUrHSxV8UnOjwxy"
+    },
+    {
+      "album": {
+        "name": "Ishq Aap Bhe Awalla",
+        "url": "https://open.spotify.com/album/7AJV0qWSlzs6HsMQ7G5UUA"
+      },
+      "artists": [
+        {
+          "name": "Meesha Shafi",
+          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348024,
+      "name": "Ishq Aap Bhe Awalla",
+      "url": "https://open.spotify.com/track/0O0P91lDzZQAs8nNLiHNQW"
+    },
+    {
+      "album": {
+        "name": "Ishq Hularey",
+        "url": "https://open.spotify.com/album/59ZLRAD3LcTIc68sDgU3b7"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 318720,
+      "name": "Ishq Hularey",
+      "url": "https://open.spotify.com/track/2yv0Fs3wFE5Kc00U52hFKb"
+    },
+    {
+      "album": {
+        "name": "The Dirty Picture",
+        "url": "https://open.spotify.com/album/2u6skpG85FhJuV5AGvvSAO"
+      },
+      "artists": [
+        {
+          "name": "Kamal Khan",
+          "url": "https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325257,
+      "name": "Ishq Sufiyana (Male)",
+      "url": "https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke"
+    },
+    {
+      "album": {
+        "name": "Jaani Door Gaye",
+        "url": "https://open.spotify.com/album/3FsjlVQgwx2gUHXeaZ6QDq"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akram Qawwal",
+          "url": "https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT"
+        },
+        {
+          "name": "Taimoor Akram",
+          "url": "https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq"
+        },
+        {
+          "name": "Abdul Akram",
+          "url": "https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 305142,
+      "name": "Jaani Door Gaye",
+      "url": "https://open.spotify.com/track/4QbpTfoIEM0RAkqg2DUR3t"
+    },
+    {
+      "album": {
+        "name": "Jani Door Gaye",
+        "url": "https://open.spotify.com/album/63rjdSnhF0jKwQPBXE0Jvl"
+      },
+      "artists": [
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 446113,
+      "name": "Jani Door Gaye",
+      "url": "https://open.spotify.com/track/7vD9KCYtHBUmTubWBMch5t"
+    },
+    {
+      "album": {
+        "name": "Jashn E Ali",
+        "url": "https://open.spotify.com/album/3wJfkzVGu3LxTU75DV9U8a"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Raj Pandit",
+          "url": "https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908"
+        },
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        },
+        {
+          "name": "Vipul Mehta",
+          "url": "https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 322874,
+      "name": "Jashn E Ali",
+      "url": "https://open.spotify.com/track/30Oz86dnzKaf37MQ5HTHpR"
+    },
+    {
+      "album": {
+        "name": "Anwar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Tarey",
+          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502520,
+      "name": "Javeda Zindag",
+      "url": "https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn"
+    },
+    {
+      "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/0as9dvFbBejLXfkWayPl4M"
+      },
+      "artists": [
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221868,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/3EsTe6DYRgr8zzRVaXT5wW"
+    },
+    {
+      "album": {
+        "name": "Yeh Jawaani Hai Deewani",
+        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Tochi Raina",
+          "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
+        },
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223459,
+      "name": "Kabira",
+      "url": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c"
+    },
+    {
+      "album": {
+        "name": "Saif Ul Malook",
+        "url": "https://open.spotify.com/album/3V05xjwa9iNewopfpIO1sY"
+      },
+      "artists": [
+        {
+          "name": "Mehak Ali",
+          "url": "https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 344571,
+      "name": "Kalaam - Part 1",
+      "url": "https://open.spotify.com/track/6NCfirHVuWhQMmAzOoLzl7"
+    },
+    {
+      "album": {
+        "name": "Saif Ul Malook",
+        "url": "https://open.spotify.com/album/04bQOP9TC9BMNVm3xQx2Yw"
+      },
+      "artists": [
+        {
+          "name": "Mehak Ali",
+          "url": "https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 344571,
+      "name": "Kalaam, Pt. 1",
+      "url": "https://open.spotify.com/track/0kmx6XKJG768AVMlR1YZcC"
+    },
+    {
+      "album": {
+        "name": "Wajd, Vol. 1",
+        "url": "https://open.spotify.com/album/1avSRwSXzcUpGLtIl90OnY"
+      },
+      "artists": [
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 522784,
+      "name": "Kamli",
+      "url": "https://open.spotify.com/track/5su3i7O5h0mn8ckjm3OaiD"
+    },
+    {
+      "album": {
+        "name": "Wajd, Vol. 1",
+        "url": "https://open.spotify.com/album/5M92ubLBqNXRwraM3kqjqF"
+      },
+      "artists": [
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 522785,
+      "name": "Kamli",
+      "url": "https://open.spotify.com/track/04KCgCUQTPCenk5IwASx4s"
+    },
+    {
+      "album": {
+        "name": "Khwaja Mere",
+        "url": "https://open.spotify.com/album/4E4uZ2FtS2llz9e2apVt18"
+      },
+      "artists": [
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        },
+        {
+          "name": "Suhel Rais Khan",
+          "url": "https://open.spotify.com/artist/3bZPCIdiBAOdmIeo6SCV3B"
+        },
+        {
+          "name": "Rekha Rao",
+          "url": "https://open.spotify.com/artist/25kyMcj5F41jU2t8MNkH33"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269216,
+      "name": "Khwaja Mere",
+      "url": "https://open.spotify.com/track/4qH7OYUrVQx6NVj3Xp4Q7o"
+    },
+    {
+      "album": {
+        "name": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416573,
+      "name": "Khwaja Mere Khwaja",
+      "url": "https://open.spotify.com/track/4Zuei1UAP5pB5ovra9dnnp"
+    },
+    {
+      "album": {
+        "name": "Love Sufiana",
+        "url": "https://open.spotify.com/album/50BCq2H5lHgRFTFVXX4DoJ"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 480304,
+      "name": "Kinna Sohna Tainu",
+      "url": "https://open.spotify.com/track/377rdybAWhu2uj7bNVHvLs"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470500,
+      "name": "Kun Faya Kun",
+      "url": "https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6"
+    },
+    {
+      "album": {
+        "name": "La Makani",
+        "url": "https://open.spotify.com/album/7CTWuXpLOYDkDwq7FvZpDs"
+      },
+      "artists": [
+        {
+          "name": "Masroor Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 272509,
+      "name": "La Makani",
+      "url": "https://open.spotify.com/track/2GfyAkaPFgopONrVwIOLTN"
+    },
+    {
+      "album": {
+        "name": "La Salam Mast Qalandar",
+        "url": "https://open.spotify.com/album/1YtFZPnsIuoHiPCKk7aOYm"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Khan",
+          "url": "https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu"
+        },
+        {
+          "name": "Atef Malhas",
+          "url": "https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas"
+        },
+        {
+          "name": "Rawan Risheq",
+          "url": "https://open.spotify.com/artist/5R9Ghk1KBInYUMdAhN9B6O"
+        },
+        {
+          "name": "Shahab Hussain",
+          "url": "https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up"
+        },
+        {
+          "name": "Yazan Sarayrah",
+          "url": "https://open.spotify.com/artist/3hnWpiOnZfHrY7uq2zNReK"
+        },
+        {
+          "name": "Hrag Mouridian",
+          "url": "https://open.spotify.com/artist/7dCyaFjdwI7EpiWgaB6QS0"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 251097,
+      "name": "La Salam Mast Qalandar",
+      "url": "https://open.spotify.com/track/5NTcVdlPxt0Xh8ZHpY9Xia"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 10: Episode 3",
+        "url": "https://open.spotify.com/album/5TXDqeJKuJ3dlvbypD9Hu1"
+      },
+      "artists": [
+        {
+          "name": "Quratulain Balouch",
+          "url": "https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q"
+        },
+        {
+          "name": "Akbar Ali",
+          "url": "https://open.spotify.com/artist/05YKbyGJeAcnQJxManto4S"
+        },
+        {
+          "name": "Arieb Azhar",
+          "url": "https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 500183,
+      "name": "Laal Meri Pat",
+      "url": "https://open.spotify.com/track/0aszgmTzbSUKNsN5R2V72z"
+    },
+    {
+      "album": {
+        "name": "Laghzish E Mastana",
+        "url": "https://open.spotify.com/album/0YfA7xNSyqscjCLg1c97uL"
+      },
+      "artists": [
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 327074,
+      "name": "Laghzish E Mastana",
+      "url": "https://open.spotify.com/track/3Kuv5p4j3TLkdKB7mUsVjQ"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits of Coke Studio India, Vol. 1",
+        "url": "https://open.spotify.com/album/6NBDzr46UrfXsZ1SdvzIJB"
+      },
+      "artists": [
+        {
+          "name": "Clinton Cerejo",
+          "url": "https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Sonu Kakkar",
+          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 463786,
+      "name": "Madari",
+      "url": "https://open.spotify.com/track/7BGWfKugCG5QCXilymYBOy"
+    },
+    {
+      "album": {
+        "name": "Madni Di Gal Kariye",
+        "url": "https://open.spotify.com/album/5H33FAIYkmTqVLoyllN73B"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 354026,
+      "name": "Madni Di Gal Kariye",
+      "url": "https://open.spotify.com/track/0XgLsusKUTmib2HZQMA02r"
+    },
+    {
+      "album": {
+        "name": "Maikada 2",
+        "url": "https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Samie",
+          "url": "https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550631,
+      "name": "Maikada 2",
+      "url": "https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q"
+    },
+    {
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/3zpp4NHOe9ky1ot1qcNZre"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 386000,
+      "name": "Main Jahaan Rahoon",
+      "url": "https://open.spotify.com/track/3D14KmI6wxH0DKgygar81J"
+    },
+    {
+      "album": {
+        "name": "Main Nahi Hoon",
+        "url": "https://open.spotify.com/album/6JRnkNQyiSBLAM71RQGXok"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Main Nahi Hoon",
+      "url": "https://open.spotify.com/track/1fiSYMu83lceg6nc63T97j"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Gul Panra",
+          "url": "https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 538171,
+      "name": "Man Aamadeh Am",
+      "url": "https://open.spotify.com/track/3PMThMLdTuwWLvlFTeSsrO"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 8",
+        "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Gul Panra",
+          "url": "https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-08",
+      "duration_ms": 538171,
+      "name": "Man Aamadeh Am",
+      "url": "https://open.spotify.com/track/451lYQUEpLT3AzOsGj6lDn"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Gul Panra",
+          "url": "https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
+      "duration_ms": 538171,
+      "name": "Man Aamadeh Am",
+      "url": "https://open.spotify.com/track/7pehqY4MpNJ2Zvs8ocavr3"
+    },
+    {
+      "album": {
+        "name": "Man Kunto Maula",
+        "url": "https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt"
+      },
+      "artists": [
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        },
+        {
+          "name": "Ali Azmat",
+          "url": "https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568000,
+      "name": "Man Kunto Maula",
+      "url": "https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj"
+    },
+    {
+      "album": {
+        "name": "Man Kunto Maula",
+        "url": "https://open.spotify.com/album/77Ulmb0yHBlqDlG1A9rr7R"
+      },
+      "artists": [
+        {
+          "name": "Raafay Israr",
+          "url": "https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57"
+        },
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 200311,
+      "name": "Man Kunto Maula",
+      "url": "https://open.spotify.com/track/3daJwwrOiGlyDYs6WNomUv"
+    },
+    {
+      "album": {
+        "name": "Paap (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4dS6K0dQ8O1FLN0KCvcAmf"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291920,
+      "name": "Mann Ki Lagan",
+      "url": "https://open.spotify.com/track/7fxi1nuAVENApf7H3VivFH"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions: Season 3",
+        "url": "https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY"
+      },
+      "artists": [
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352378,
+      "name": "Manzil-e-Sufi",
+      "url": "https://open.spotify.com/track/44Az6YaqJlqzt5CtW3OcJH"
+    },
+    {
+      "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/0XYIRzV6BpXXSH02O8uaMz"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 363196,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/6Z0hi7ntpmQSkTDiBMcZVl"
+    },
+    {
+      "album": {
+        "name": "Anwar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc"
+      },
+      "artists": [
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364329,
+      "name": "Maula Mere Maula",
+      "url": "https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 10: Episode 7",
+        "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
+      },
+      "artists": [
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508627,
+      "name": "Maula Tera Noor",
+      "url": "https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx"
+    },
+    {
+      "album": {
+        "name": "Maula-E-Kull",
+        "url": "https://open.spotify.com/album/4Gb6vs7OZiB2WDExrgRAdl"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592000,
+      "name": "Maula-E-Kull",
+      "url": "https://open.spotify.com/track/6uAhKs1xbzs4QIREQzHXb1"
+    },
+    {
+      "album": {
+        "name": "Mere Ali Moula Ali",
+        "url": "https://open.spotify.com/album/6jvA9YEttzrot17nFihVcj"
+      },
+      "artists": [
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        },
+        {
+          "name": "Jaan Nissar Lone",
+          "url": "https://open.spotify.com/artist/61d8y45wk2tqiXKcebtev7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 300094,
+      "name": "Mere Ali Moula Ali",
+      "url": "https://open.spotify.com/track/0j0oUCC2zHb2vCSUULqqDL"
+    },
+    {
+      "album": {
+        "name": "Mere Sarkaar",
+        "url": "https://open.spotify.com/album/57gn0V9OURh6d3Gg2BWGkL"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Ali Brothers",
+          "url": "https://open.spotify.com/artist/7j4bvaxcXA4ShJitAHfuBt"
+        },
+        {
+          "name": "Raj Pandit",
+          "url": "https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908"
+        },
+        {
+          "name": "Shivam Bhardwaj",
+          "url": "https://open.spotify.com/artist/1jhRh4hiFlCDxzEnwDQrDA"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409971,
+      "name": "Mere Sarkaar (feat. Ali Brothers, Raj Pandit & Shivam Bhardwaj)",
+      "url": "https://open.spotify.com/track/1xPvMc7UCIUxQ6GP2DIyng"
+    },
+    {
+      "album": {
+        "name": "More Saiyaan",
+        "url": "https://open.spotify.com/album/2M6zcKoMHF3sDwSHpXFDw0"
+      },
+      "artists": [
+        {
+          "name": "Sadaat Shafqat Amanat",
+          "url": "https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv"
+        },
+        {
+          "name": "Utpal Udit",
+          "url": "https://open.spotify.com/artist/6CofdUvEkvHE8r0vPAtg0h"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/5yRqFyfIX9tAt93ZoNnJM1"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 205000,
+      "name": "More Saiyaan",
+      "url": "https://open.spotify.com/track/2Duts6S27U1rQardvkcI7K"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Sessions (Season 4)",
+        "url": "https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs"
+      },
+      "artists": [
+        {
+          "name": "Fareed Ayaz",
+          "url": "https://open.spotify.com/artist/3CCUSweQDSNLPXi7ayw3VO"
+        },
+        {
+          "name": "Abu Mohammad",
+          "url": "https://open.spotify.com/artist/3aipzBVWj2YOrVQuUGJvPr"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 660679,
+      "name": "Mori Bangri",
+      "url": "https://open.spotify.com/track/3gddauzwaQvjmQTjx5ty4p"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Abbas Ali Khan",
+          "url": "https://open.spotify.com/artist/2s0QNp9mi0mup8DHbTPs9l"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450297,
+      "name": "Mujhay Baar Baar",
+      "url": "https://open.spotify.com/track/3vd0Z4j9xwLVZUGUbmQTUV"
+    },
+    {
+      "album": {
+        "name": "Naad E Ali (feat. Salim Merchant, Raj Pandit, Salman Ali & Vipul Mehta)",
+        "url": "https://open.spotify.com/album/2tHu2PCnhDhyUN4E6Oapii"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Raj Pandit",
+          "url": "https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        },
+        {
+          "name": "Vipul Mehta",
+          "url": "https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 430930,
+      "name": "Naad E Ali (feat. Salim Merchant, Raj Pandit, Salman Ali & Vipul Mehta)",
+      "url": "https://open.spotify.com/track/5HeNJdOzrgWFPsbv4zvfum"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits Of Aziz Mian Vol -1",
+        "url": "https://open.spotify.com/album/6hhmJLrMVmMHdFLA6laL1H"
+      },
+      "artists": [
+        {
+          "name": "Aziz Mian",
+          "url": "https://open.spotify.com/artist/0lyuCEP722XiHlj92fsxhU"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 1315826,
+      "name": "Nabi Nabi",
+      "url": "https://open.spotify.com/track/4ttVAE1UfmqNiMREb3NAci"
+    },
+    {
+      "album": {
+        "name": "Naukar Shah Da",
+        "url": "https://open.spotify.com/album/54Kjgaj9mL1n2iFyKxZ70v"
+      },
+      "artists": [
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Shuja Haider",
+          "url": "https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 253021,
+      "name": "Naukar Shah Da",
+      "url": "https://open.spotify.com/track/0QPOtQjf1Nl1wVNcPV6e4s"
+    },
+    {
+      "album": {
+        "name": "Kashmir Beats - Season 2",
+        "url": "https://open.spotify.com/album/0R83g1T6jwC4AoK0E7ZKVi"
+      },
+      "artists": [
+        {
+          "name": "Kashmir Beats",
+          "url": "https://open.spotify.com/artist/4J7oYZcQA6hAVCRVTh9GmY"
+        },
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Shuja Haider",
+          "url": "https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 253021,
+      "name": "Naukar Shah Da",
+      "url": "https://open.spotify.com/track/4GypRqhNPkKNMn7DtE2suY"
+    },
+    {
+      "album": {
+        "name": "Tu Mane Ya Na Mane",
+        "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
+      },
+      "artists": [
+        {
+          "name": "Hans Raj Hans",
+          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273587,
+      "name": "Nit Khair Manga",
+      "url": "https://open.spotify.com/track/6Lks1JEnWDejwxwGIUGzRI"
+    },
+    {
+      "album": {
+        "name": "We Are Family (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0WepPP0SOdbZD6oFHzAM4X"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396973,
+      "name": "Noor E Khuda",
+      "url": "https://open.spotify.com/track/60d1uQmqTZ1Lg2SGJYdQTI"
+    },
+    {
+      "album": {
+        "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 397080,
+      "name": "Noor E Khuda",
+      "url": "https://open.spotify.com/track/0tY8ZIArzjkH6dbXp42ohg"
+    },
+    {
+      "album": {
+        "name": "Shah Rukh Khan - Raja of Bollywood",
+        "url": "https://open.spotify.com/album/24QRpt2JtTr76etVIutFMV"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 397080,
+      "name": "Noor E Khuda",
+      "url": "https://open.spotify.com/track/1hYGGAiBaKuBgkoMZC5Kpu"
+    },
+    {
+      "album": {
+        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        },
+        {
+          "name": "Yusuf Mohammed",
+          "url": "https://open.spotify.com/artist/5XWfOrZhMMjoBTKcAgtFxe"
+        },
+        {
+          "name": "Vajid Ali",
+          "url": "https://open.spotify.com/artist/3cXNzZYIOUpv22w4iJm42t"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385000,
+      "name": "O Rangrez",
+      "url": "https://open.spotify.com/track/5JCDVLwteSXuwVqjCa7SwH"
+    },
+    {
+      "album": {
+        "name": "O Rangreza (From \"O Rangreza\")",
+        "url": "https://open.spotify.com/album/3AKfx3LjRXSRlS4r9OwA88"
+      },
+      "artists": [
+        {
+          "name": "Sahir Ali Bagga",
+          "url": "https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 347010,
+      "name": "O Rangreza - From \"O Rangreza\"",
+      "url": "https://open.spotify.com/track/3OHfSWHE954xKXEVULHml1"
+    },
+    {
+      "album": {
+        "name": "O Rangreza (From \"O Rangreza\")",
+        "url": "https://open.spotify.com/album/5n5z6itVAu9lUsiYUmVa0C"
+      },
+      "artists": [
+        {
+          "name": "Sahir Ali Bagga",
+          "url": "https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 347370,
+      "name": "O Rangreza - From \"O Rangreza\"",
+      "url": "https://open.spotify.com/track/63Tdaqeaw7WeVkugjAkMux"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321500,
+      "name": "O Re",
+      "url": "https://open.spotify.com/track/4AHvMLWvuGZn62sCpFEtj7"
+    },
+    {
+      "album": {
+        "name": "Par Chanaa De (Coke Studio Season 9)",
+        "url": "https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv"
+      },
+      "artists": [
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 666000,
+      "name": "Par Chanaa De (Coke Studio Season 9)",
+      "url": "https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ"
+    },
+    {
+      "album": {
+        "name": "Pardadari",
+        "url": "https://open.spotify.com/album/2bfwHKbSwfUFeMVGY1Fb4n"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361038,
+      "name": "Pardadari",
+      "url": "https://open.spotify.com/track/0avkBFSFOWyZVfccT2u3Ag"
+    },
+    {
+      "album": {
+        "name": "Raanjhanaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/24C47633GRlozws7WBth7t"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "KMMC Sufi Ensemble",
+          "url": "https://open.spotify.com/artist/5J3dqhxLAVxMeDRSza2M7U"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355866,
+      "name": "Piya Milenge",
+      "url": "https://open.spotify.com/track/7o9kPO1qalH8szQlYnMI6C"
+    },
+    {
+      "album": {
+        "name": "Piyaji Dekho",
+        "url": "https://open.spotify.com/album/4PHh64ZWLc3lBuoW3h8BbK"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Piyaji Dekho",
+      "url": "https://open.spotify.com/track/5JsTXZfnzZh0LcV30bPxwT"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 6",
+        "url": "https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky"
+      },
+      "artists": [
+        {
+          "name": "Saieen Zahoor",
+          "url": "https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q"
+        },
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597866,
+      "name": "Rabba Ho",
+      "url": "https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n"
+    },
+    {
+      "album": {
+        "name": "Azaan",
+        "url": "https://open.spotify.com/album/2VuBd6z3euJKhJuBNHpTNN"
+      },
+      "artists": [
+        {
+          "name": "Azaan Sami Khan",
+          "url": "https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 323973,
+      "name": "Rang De",
+      "url": "https://open.spotify.com/track/1mp9c72fxtSnNUCfDTWzTc"
+    },
+    {
+      "album": {
+        "name": "Rang Le",
+        "url": "https://open.spotify.com/album/2S9oWh8Cws0tGiHxFTe76c"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 213333,
+      "name": "Rang Le",
+      "url": "https://open.spotify.com/track/6AeeDw5Vckef3OD3QtOBu1"
+    },
+    {
+      "album": {
+        "name": "Rang Le",
+        "url": "https://open.spotify.com/album/2OC8Tg8Z4F583hxAyb64tt"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Rang Le",
+      "url": "https://open.spotify.com/track/6BW7qbuZba3CoEr1OahhUo"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 10: Episode 5",
+        "url": "https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537324,
+      "name": "Rangrez",
+      "url": "https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK"
+    },
+    {
+      "album": {
+        "name": "VASL",
+        "url": "https://open.spotify.com/album/6OAH2QoJXw1yE4N7sH7v3W"
+      },
+      "artists": [
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 248333,
+      "name": "Rasta Bhool Gaye",
+      "url": "https://open.spotify.com/track/0mARMftPGcPABcF5YRF6tj"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Asrar",
+          "url": "https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357579,
+      "name": "Sab Aakho Ali Ali",
+      "url": "https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5"
+    },
+    {
+      "album": {
+        "name": "Jhoomo Re",
+        "url": "https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Paresh Kamath",
+          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "name": "Naresh Kamath",
+          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343906,
+      "name": "Saiyyan",
+      "url": "https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb"
+    },
+    {
+      "album": {
+        "name": "Shah Rukh Khan - Raja of Bollywood",
+        "url": "https://open.spotify.com/album/24QRpt2JtTr76etVIutFMV"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 365706,
+      "name": "Sajdaa",
+      "url": "https://open.spotify.com/track/2ESn2DuOC3ehSlRq5D48R4"
+    },
+    {
+      "album": {
+        "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365706,
+      "name": "Sajdaa",
+      "url": "https://open.spotify.com/track/395gJWcJQK0C3GJfHAn7f6"
+    },
+    {
+      "album": {
+        "name": "My Name Is Khan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 365706,
+      "name": "Sajdaa",
+      "url": "https://open.spotify.com/track/5upmbnXemLfPvs3d2eyHml"
+    },
+    {
+      "album": {
+        "name": "Best of SEL",
+        "url": "https://open.spotify.com/album/1DoUBepfjvwB1NXGGKyDSF"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 365706,
+      "name": "Sajdaa (From \"My Name Is Khan\")",
+      "url": "https://open.spotify.com/track/5IusvPjigpXQOcJkUUoMN0"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz"
+      },
+      "artists": [
+        {
+          "name": "Rizwan",
+          "url": "https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5"
+        },
+        {
+          "name": "Muazzam",
+          "url": "https://open.spotify.com/artist/2HRUxGGvyo4L9mJwMSQpd3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
+      "duration_ms": 406711,
+      "name": "Sakal Ban",
+      "url": "https://open.spotify.com/track/7lIj8hmniizy1UGUAHimXV"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B"
+      },
+      "artists": [
+        {
+          "name": "Rizwan",
+          "url": "https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5"
+        },
+        {
+          "name": "Muazzam Ali Khan",
+          "url": "https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 406711,
+      "name": "Sakal Ban",
+      "url": "https://open.spotify.com/track/1TicbQ2crhIeZ1EzHlu1CU"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 8",
+        "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
+      },
+      "artists": [
+        {
+          "name": "Rizwan",
+          "url": "https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5"
+        },
+        {
+          "name": "Muazzam Ali Khan",
+          "url": "https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-08",
+      "duration_ms": 406711,
+      "name": "Sakal Ban",
+      "url": "https://open.spotify.com/track/4Fd7FkdzHIJv781MXnv0lY"
+    },
+    {
+      "album": {
+        "name": "Sakal Ban (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/622ZfxfKuZ9AUQ0RuhF0Ro"
+      },
+      "artists": [
+        {
+          "name": "Rizwan",
+          "url": "https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5"
+        },
+        {
+          "name": "Muazzam Ali Khan",
+          "url": "https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 406711,
+      "name": "Sakal Ban - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z"
+    },
+    {
+      "album": {
+        "name": "Salaam",
+        "url": "https://open.spotify.com/album/10F3wxfHMiYO6De0UPF3X2"
+      },
+      "artists": [
+        {
+          "name": "Shiraz Uppal",
+          "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277885,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/69gnztZiBrymiPoZmiZf8n"
+    },
+    {
+      "album": {
+        "name": "Saleh Ala Nabi Yena",
+        "url": "https://open.spotify.com/album/4vUkV0onvQs0qqYv53GB8u"
+      },
+      "artists": [
+        {
+          "name": "Mehak Ali",
+          "url": "https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 278793,
+      "name": "Saleh Ala Nabi Yena",
+      "url": "https://open.spotify.com/track/6ryrT2boTQP2huczlp8LG8"
+    },
+    {
+      "album": {
+        "name": "Mehfil-E-Sama Nusrat Fateh Ali Khan In Concert Vol. 28",
+        "url": "https://open.spotify.com/album/0HqkvHiAEVXknfIbwGWIDZ"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 767320,
+      "name": "Sanoon Ek Pal Chain",
+      "url": "https://open.spotify.com/track/0GGNrYfrOQHlzmVQn3gsPJ"
+    },
+    {
+      "album": {
+        "name": "Sanu Ek Pal Chain",
+        "url": "https://open.spotify.com/album/37kbj6Vz9DWILQcpAJRwl1"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575936,
+      "name": "Sanu Ek Pal Chain",
+      "url": "https://open.spotify.com/track/3KMPY8RvRII2du31Cjl8Jg"
+    },
+    {
+      "album": {
+        "name": "Heere Ni Ranjha Jogi Ho Gaya, Vol. 1",
+        "url": "https://open.spotify.com/album/6jlTOZE67Rt6jNSglxgv4t"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 765898,
+      "name": "Sanu Ek Pal Chain Na Aawe",
+      "url": "https://open.spotify.com/track/3lLx3MKogTDgjbxi68vBPv"
+    },
+    {
+      "album": {
+        "name": "Kurbaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7gJUjDpRvBRY5oCh4pC9d5"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290053,
+      "name": "Shukran Allah",
+      "url": "https://open.spotify.com/track/3nKEiJUeaWn8q2O9I1xwlB"
+    },
+    {
+      "album": {
+        "name": "Sik Mitraan (From 'Zindagi Tamasha' Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NlT6ChhzYX0IsiPPZNpgu"
+      },
+      "artists": [
+        {
+          "name": "Saakin",
+          "url": "https://open.spotify.com/artist/0HKHFik8L0gLia4fKMhxjk"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 275086,
+      "name": "Sik Mitraan (From 'Zindagi Tamasha' Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/10cZhkUkDILHNLO4FZDRXZ"
+    },
+    {
+      "album": {
+        "name": "Sufi Kalaam",
+        "url": "https://open.spotify.com/album/4ifFmYqbwRSbYuswAg0gax"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Qureshi",
+          "url": "https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 490478,
+      "name": "Sufi Medley",
+      "url": "https://open.spotify.com/track/5B8LDzUQokG5X9zS9PphtB"
+    },
+    {
+      "album": {
+        "name": "Sufi Medley",
+        "url": "https://open.spotify.com/album/7qMlaMJNlHUJjpRLQfj3L6"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Qureshi",
+          "url": "https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 490478,
+      "name": "Sufi Medley",
+      "url": "https://open.spotify.com/track/5NnRYBrDpYLvoBHaR3KMPQ"
+    },
+    {
+      "album": {
+        "name": "Sufiya",
+        "url": "https://open.spotify.com/album/7KOxaD21vaDTeqRC7qGV4i"
+      },
+      "artists": [
+        {
+          "name": "Shriram Iyer",
+          "url": "https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 238000,
+      "name": "Sufiya",
+      "url": "https://open.spotify.com/track/1bS7VhyB4SkkwumTBSGZpH"
+    },
+    {
+      "album": {
+        "name": "Tajdar-E-Haram (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/6gbwWRL3C6TV8ky7gqxjcl"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616509,
+      "name": "Tajdar-E-Haram - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/02V7b4LNyNXke8WUFnui7G"
+    },
+    {
+      "album": {
+        "name": "Tajdar-E-Haram Coke Studio Season 8",
+        "url": "https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 616509,
+      "name": "Tajdar-E-Haram Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn"
+    },
+    {
+      "album": {
+        "name": "Tasbih",
+        "url": "https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Lakhwinder Wadali",
+          "url": "https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253408,
+      "name": "Tasbih",
+      "url": "https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Momina Mustehsan",
+          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+        },
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425000,
+      "name": "Tera Woh Pyar (Nawazishein Karam)",
+      "url": "https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj"
+    },
+    {
+      "album": {
+        "name": "Guru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Murtuza Khan",
+          "url": "https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj"
+        },
+        {
+          "name": "Qadir Khan",
+          "url": "https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309640,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits Of Aziz Mian Vol -2",
+        "url": "https://open.spotify.com/album/13XofQraR5fpTZnHGBrK1Z"
+      },
+      "artists": [
+        {
+          "name": "Aziz Mian",
+          "url": "https://open.spotify.com/artist/0lyuCEP722XiHlj92fsxhU"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 1206333,
+      "name": "Teri Soorat ( Main Sharabi Sharabi )",
+      "url": "https://open.spotify.com/track/760aj6eKUUjKcnzt8nhB81"
+    },
+    {
+      "album": {
+        "name": "Main Kavita Hoon - Amrita Pritam",
+        "url": "https://open.spotify.com/album/4zVSwIq5uplUTpCr6p6sHk"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 301600,
+      "name": "Tidke Ghade",
+      "url": "https://open.spotify.com/track/5wFmkvgnAaOUokBi3ofaHX"
+    },
+    {
+      "album": {
+        "name": "Tu Hi Ik Tu",
+        "url": "https://open.spotify.com/album/1pj17dHNe6aWIyvjYx9fmI"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Vikram Sahney",
+          "url": "https://open.spotify.com/artist/5n5qsQrQAeMJUkEptJKQdR"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 469245,
+      "name": "Tu Hi Ik Tu",
+      "url": "https://open.spotify.com/track/4I9GFoZJ0L3GKYC7v5Jlsr"
+    },
+    {
+      "album": {
+        "name": "Tu Jhoom",
+        "url": "https://open.spotify.com/album/61yLyqdz6hdZiAHMk4Bxxi"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Naseebo Lal",
+          "url": "https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 397546,
+      "name": "Tu Jhoom",
+      "url": "https://open.spotify.com/track/0X5jMLCYWZjuXHRc1zp0G6"
+    },
+    {
+      "album": {
+        "name": "Tu Jhoom",
+        "url": "https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M"
+      },
+      "artists": [
+        {
+          "name": "Naseebo Lal",
+          "url": "https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a"
+        },
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397546,
+      "name": "Tu Jhoom",
+      "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
+    },
+    {
+      "album": {
+        "name": "Uddi Ja (Coke Studio Season 9)",
+        "url": "https://open.spotify.com/album/3zgwUPaPsKjTvDmIetSIm3"
+      },
+      "artists": [
+        {
+          "name": "Mohsin Abbas Haider",
+          "url": "https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 422000,
+      "name": "Uddi Ja (Coke Studio Season 9)",
+      "url": "https://open.spotify.com/track/4zppewvc7dMM9P7fwywsGR"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 11 (Sound of The Nation)",
+        "url": "https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri"
+      },
+      "artists": [
+        {
+          "name": "Asrar",
+          "url": "https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn"
+        },
+        {
+          "name": "Vishnu",
+          "url": "https://open.spotify.com/artist/3C6fEluNfcYDBAy6nBQpdS"
+        },
+        {
+          "name": "Shamu Bai",
+          "url": "https://open.spotify.com/artist/6ImUiMuTiMjlhRKfMCXe8Q"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Wah Jo Kalaam",
+      "url": "https://open.spotify.com/track/7B4rv8RrlWr5qTIQ5UCrQk"
+    },
+    {
+      "album": {
+        "name": "Wiladat",
+        "url": "https://open.spotify.com/album/17mOIJ1Gmrx1pNqqQJMPYh"
+      },
+      "artists": [
+        {
+          "name": "Kashif Tari",
+          "url": "https://open.spotify.com/artist/0ZDi4KcZzdjWTpPsvx72xk"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298500,
+      "name": "Wiladat",
+      "url": "https://open.spotify.com/track/6UOAT4Jsf4ItaFPnIHeEeC"
+    },
+    {
+      "album": {
+        "name": "Wo Mere Ravidas Guru Hain",
+        "url": "https://open.spotify.com/album/7I7g133rDAIlsiSuOkjkwA"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 501900,
+      "name": "Wo Mere Ravidas Guru Hain",
+      "url": "https://open.spotify.com/track/4UgnE73o5GZ9dLMaf0CMQs"
+    },
+    {
+      "album": {
+        "name": "Wohi Khuda",
+        "url": "https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409757,
+      "name": "Wohi Khuda",
+      "url": "https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv"
+    },
+    {
+      "album": {
+        "name": "Ya Ali Tere Sadqe Jawan",
+        "url": "https://open.spotify.com/album/7flQwsY6LtnDSjUiM9tlvq"
+      },
+      "artists": [
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 275200,
+      "name": "Ya Ali Tere Sadqe Jawan",
+      "url": "https://open.spotify.com/track/6TMHIctlQkhOewask1NBLU"
+    },
+    {
+      "album": {
+        "name": "Ya Ali Ya Ali Haidri Haidri",
+        "url": "https://open.spotify.com/album/7ckz2vdC4h1WI2rlm8y3ik"
+      },
+      "artists": [
+        {
+          "name": "Sahir Ali Bagga",
+          "url": "https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 587371,
+      "name": "Ya Ali Ya Ali Haidri Haidri",
+      "url": "https://open.spotify.com/track/3jLQPgPcY78eYpPVpKyVV5"
+    },
+    {
+      "album": {
+        "name": "Ya Nabi",
+        "url": "https://open.spotify.com/album/4PssxHy2Gc54Tx8rQOiNqG"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 183693,
+      "name": "Ya Nabi",
+      "url": "https://open.spotify.com/track/1KZAeHjpdAP54WFXecMdGj"
+    },
+    {
+      "album": {
+        "name": "30 Greatest Hits Nusrat Fateh Ali Khan and Sabri Brothers",
+        "url": "https://open.spotify.com/album/0bGcGPQfXs78eUEgJ2XfHp"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 1394311,
+      "name": "Yeh Jo Halka Halka Suroor Hai",
+      "url": "https://open.spotify.com/track/3nsG910SMV4odWqxMKqGRS"
+    },
+    {
+      "album": {
+        "name": "Zihal E Miskin",
+        "url": "https://open.spotify.com/album/6vaoawmWLkMHlNO4Fg6OHc"
+      },
+      "artists": [
+        {
+          "name": "Amjad Sabri",
+          "url": "https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3"
+        },
+        {
+          "name": "Adil Mansoor",
+          "url": "https://open.spotify.com/artist/43QMyHpr3TE9pml9jYHpXl"
+        },
+        {
+          "name": "Ameer Khusru",
+          "url": "https://open.spotify.com/artist/1tD31KaLQ9cOKlKCa7DQyI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354499,
+      "name": "Zihal E Miskin",
+      "url": "https://open.spotify.com/track/2tkaoCKZzlORo0rgu05SLA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9mwNrgNa73l"
 }

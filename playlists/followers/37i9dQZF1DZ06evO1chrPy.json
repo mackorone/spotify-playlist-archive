@@ -1,432 +1,805 @@
 {
-  "2022-10-27": 144155,
-  "2022-10-28": 144191,
-  "2022-10-29": 144219,
-  "2022-10-30": 144228,
-  "2022-10-31": 144245,
-  "2022-11-01": 144278,
-  "2022-11-02": 144322,
-  "2022-11-03": 144348,
-  "2022-11-04": 144373,
-  "2022-11-05": 144413,
-  "2022-11-06": 144441,
-  "2022-11-07": 144465,
-  "2022-11-08": 144488,
-  "2022-11-09": 144521,
-  "2022-11-10": 144561,
-  "2022-11-11": 144593,
-  "2022-11-12": 144635,
-  "2022-11-13": 144659,
-  "2022-11-14": 144671,
-  "2022-11-15": 144705,
-  "2022-11-16": 144747,
-  "2022-11-17": 144784,
-  "2022-11-18": 144783,
-  "2022-11-19": 144783,
-  "2022-11-20": 144824,
-  "2022-11-21": 144859,
-  "2022-11-22": 144880,
-  "2022-11-23": 144918,
-  "2022-11-24": 144985,
-  "2022-11-25": 145049,
-  "2022-11-26": 145079,
-  "2022-11-27": 145104,
-  "2022-11-28": 145121,
-  "2022-11-29": 145165,
-  "2022-11-30": 145205,
-  "2022-12-01": 145255,
-  "2022-12-02": 145293,
-  "2022-12-03": 145364,
-  "2022-12-04": 145398,
-  "2022-12-05": 145417,
-  "2022-12-06": 145462,
-  "2022-12-07": 145507,
-  "2022-12-08": 145547,
-  "2022-12-09": 145569,
-  "2022-12-10": 145598,
-  "2022-12-11": 145628,
-  "2022-12-12": 145661,
-  "2022-12-13": 145694,
-  "2022-12-14": 145728,
-  "2022-12-15": 145762,
-  "2022-12-16": 145805,
-  "2022-12-17": 145846,
-  "2022-12-18": 145858,
-  "2022-12-19": 145884,
-  "2022-12-20": 145947,
-  "2022-12-21": 145947,
-  "2022-12-22": 145978,
-  "2022-12-24": 146063,
-  "2022-12-25": 146107,
-  "2022-12-26": 146130,
-  "2022-12-27": 146145,
-  "2022-12-28": 146189,
-  "2022-12-29": 146214,
-  "2022-12-30": 146264,
-  "2022-12-31": 146295,
-  "2023-01-01": 146319,
-  "2023-01-02": 146327,
-  "2023-01-03": 146355,
-  "2023-01-04": 146373,
-  "2023-01-05": 146397,
-  "2023-01-06": 146438,
-  "2023-01-07": 146490,
-  "2023-01-08": 146506,
-  "2023-01-09": 146549,
-  "2023-01-10": 146590,
-  "2023-01-11": 146615,
-  "2023-01-12": 146672,
-  "2023-01-13": 146721,
-  "2023-01-14": 146791,
-  "2023-01-15": 146787,
-  "2023-01-16": 146841,
-  "2023-01-17": 146883,
-  "2023-01-18": 146936,
-  "2023-01-19": 146993,
-  "2023-01-20": 147042,
-  "2023-01-21": 147099,
-  "2023-01-22": 147153,
-  "2023-01-23": 147236,
-  "2023-01-24": 147284,
-  "2023-01-25": 147331,
-  "2023-01-26": 147372,
-  "2023-01-27": 147430,
-  "2023-01-28": 147467,
-  "2023-01-29": 147497,
-  "2023-01-30": 147524,
-  "2023-01-31": 147524,
-  "2023-02-01": 147594,
-  "2023-02-02": 147639,
-  "2023-02-03": 147679,
-  "2023-02-04": 147739,
-  "2023-02-05": 147777,
-  "2023-02-06": 147812,
-  "2023-02-07": 147846,
-  "2023-02-08": 147923,
-  "2023-02-09": 147923,
-  "2023-02-10": 147963,
-  "2023-02-11": 147992,
-  "2023-02-12": 148069,
-  "2023-02-13": 148095,
-  "2023-02-14": 148095,
-  "2023-02-15": 148132,
-  "2023-02-16": 148175,
-  "2023-02-17": 148220,
-  "2023-02-18": 148290,
-  "2023-02-19": 148292,
-  "2023-02-20": 148317,
-  "2023-02-21": 148339,
-  "2023-02-22": 148384,
-  "2023-02-23": 148421,
-  "2023-02-24": 148439,
-  "2023-02-25": 148492,
-  "2023-02-26": 148522,
-  "2023-02-27": 148601,
-  "2023-02-28": 148601,
-  "2023-03-01": 148643,
-  "2023-03-02": 148695,
-  "2023-03-03": 148727,
-  "2023-03-04": 148748,
-  "2023-03-05": 148817,
-  "2023-03-06": 148817,
-  "2023-03-07": 148864,
-  "2023-03-08": 148902,
-  "2023-03-09": 148926,
-  "2023-03-10": 148969,
-  "2023-03-11": 148990,
-  "2023-03-12": 149025,
-  "2023-03-13": 149064,
-  "2023-03-14": 149091,
-  "2023-03-15": 149114,
-  "2023-03-16": 149114,
-  "2023-03-17": 149114,
-  "2023-03-18": 149220,
-  "2023-03-19": 149220,
-  "2023-03-20": 149294,
-  "2023-03-21": 149323,
-  "2023-03-22": 149348,
-  "2023-03-23": 149397,
-  "2023-03-24": 149397,
-  "2023-03-25": 149463,
-  "2023-03-26": 149526,
-  "2023-03-27": 149570,
-  "2023-03-28": 149615,
-  "2023-03-29": 149657,
-  "2023-03-30": 149697,
-  "2023-03-31": 149697,
-  "2023-04-01": 149743,
-  "2023-04-02": 149776,
-  "2023-04-03": 149797,
-  "2023-04-04": 149816,
-  "2023-04-05": 149856,
-  "2023-04-06": 149904,
-  "2023-04-07": 149938,
-  "2023-04-09": 149996,
-  "2023-04-10": 150032,
-  "2023-04-11": 150095,
-  "2023-04-12": 150095,
-  "2023-04-13": 150145,
-  "2023-04-14": 150188,
-  "2023-04-15": 150224,
-  "2023-04-16": 150237,
-  "2023-04-17": 150273,
-  "2023-04-18": 150305,
-  "2023-04-19": 150346,
-  "2023-04-20": 150363,
-  "2023-04-21": 150399,
-  "2023-04-22": 150451,
-  "2023-04-23": 150473,
-  "2023-04-24": 150510,
-  "2023-04-25": 150551,
-  "2023-04-26": 150595,
-  "2023-04-27": 150627,
-  "2023-04-28": 150666,
-  "2023-04-29": 150704,
-  "2023-04-30": 150731,
-  "2023-05-01": 150749,
-  "2023-05-02": 150779,
-  "2023-05-03": 150805,
-  "2023-05-04": 150838,
-  "2023-05-05": 150877,
-  "2023-05-06": 150915,
-  "2023-05-07": 150953,
-  "2023-05-08": 150988,
-  "2023-05-09": 151027,
-  "2023-05-10": 151073,
-  "2023-05-11": 151106,
-  "2023-05-12": 151148,
-  "2023-05-13": 151192,
-  "2023-05-14": 151214,
-  "2023-05-15": 151252,
-  "2023-05-16": 151284,
-  "2023-05-17": 151327,
-  "2023-05-18": 151369,
-  "2023-05-19": 151420,
-  "2023-05-20": 151510,
-  "2023-05-21": 151510,
-  "2023-05-22": 151510,
-  "2023-05-23": 151591,
-  "2023-05-24": 151648,
-  "2023-05-25": 151659,
-  "2023-05-26": 151698,
-  "2023-05-27": 151734,
-  "2023-05-28": 151752,
-  "2023-05-29": 151752,
-  "2023-05-30": 151797,
-  "2023-05-31": 151814,
-  "2023-06-01": 151851,
-  "2023-06-02": 151885,
-  "2023-06-03": 151934,
-  "2023-06-04": 151968,
-  "2023-06-05": 152008,
-  "2023-06-06": 152036,
-  "2023-06-07": 152072,
-  "2023-06-08": 152102,
-  "2023-06-09": 152132,
-  "2023-06-10": 152181,
-  "2023-06-11": 152199,
-  "2023-06-12": 152234,
-  "2023-06-13": 152265,
-  "2023-06-14": 152308,
-  "2023-06-15": 152364,
-  "2023-06-16": 152402,
-  "2023-06-17": 152431,
-  "2023-06-18": 152463,
-  "2023-06-19": 152500,
-  "2023-06-20": 152526,
-  "2023-06-21": 152547,
-  "2023-06-22": 152581,
-  "2023-06-23": 152631,
-  "2023-06-24": 152661,
-  "2023-06-25": 152689,
-  "2023-06-26": 152726,
-  "2023-06-27": 152754,
-  "2023-06-28": 152776,
-  "2023-06-29": 152796,
-  "2023-06-30": 152831,
-  "2023-07-01": 152901,
-  "2023-07-02": 152901,
-  "2023-07-03": 152935,
-  "2023-07-04": 152973,
-  "2023-07-05": 152981,
-  "2023-07-06": 153053,
-  "2023-07-07": 153053,
-  "2023-07-08": 153084,
-  "2023-07-09": 153117,
-  "2023-07-10": 153141,
-  "2023-07-11": 153181,
-  "2023-07-12": 153208,
-  "2023-07-13": 153246,
-  "2023-07-14": 153275,
-  "2023-07-15": 153315,
-  "2023-07-16": 153358,
-  "2023-07-17": 153397,
-  "2023-07-18": 153424,
-  "2023-07-19": 153439,
-  "2023-07-20": 153476,
-  "2023-07-21": 153525,
-  "2023-07-22": 153571,
-  "2023-07-23": 153610,
-  "2023-07-24": 153641,
-  "2023-07-25": 153677,
-  "2023-07-26": 153711,
-  "2023-07-27": 153761,
-  "2023-07-28": 153827,
-  "2023-07-29": 153862,
-  "2023-07-30": 153895,
-  "2023-07-31": 153932,
-  "2023-08-01": 153982,
-  "2023-08-02": 154016,
-  "2023-08-03": 154039,
-  "2023-08-04": 154069,
-  "2023-08-05": 154101,
-  "2023-08-06": 154173,
-  "2023-08-07": 154173,
-  "2023-08-08": 154210,
-  "2023-08-09": 154226,
-  "2023-08-10": 154256,
-  "2023-08-11": 154312,
-  "2023-08-12": 154312,
-  "2023-08-13": 154312,
-  "2023-08-14": 154407,
-  "2023-08-15": 154407,
-  "2023-08-16": 154407,
-  "2023-08-17": 154508,
-  "2023-08-18": 154508,
-  "2023-08-19": 154508,
-  "2023-08-20": 154624,
-  "2023-08-21": 154624,
-  "2023-08-22": 154679,
-  "2023-08-23": 154679,
-  "2023-08-24": 154679,
-  "2023-08-25": 154679,
-  "2023-08-26": 154815,
-  "2023-08-27": 154815,
-  "2023-08-28": 154890,
-  "2023-08-29": 154890,
-  "2023-08-30": 154890,
-  "2023-08-31": 155021,
-  "2023-09-01": 155064,
-  "2023-09-02": 155064,
-  "2023-09-03": 155129,
-  "2023-09-04": 155129,
-  "2023-09-05": 155129,
-  "2023-09-06": 155223,
-  "2023-09-07": 155223,
-  "2023-09-08": 155223,
-  "2023-09-09": 155223,
-  "2023-09-10": 155361,
-  "2023-09-11": 155361,
-  "2023-09-12": 155361,
-  "2023-09-13": 155472,
-  "2023-09-14": 155472,
-  "2023-09-15": 155472,
-  "2023-09-16": 155543,
-  "2023-09-17": 155543,
-  "2023-09-18": 155543,
-  "2023-09-19": 155644,
-  "2023-09-20": 155644,
-  "2023-09-21": 155644,
-  "2023-09-22": 155719,
-  "2023-09-23": 155719,
-  "2023-09-24": 155719,
-  "2023-09-25": 155719,
-  "2023-09-26": 155848,
-  "2023-09-27": 155848,
-  "2023-09-28": 155848,
-  "2023-09-29": 155848,
-  "2023-09-30": 155848,
-  "2023-10-01": 155848,
-  "2023-10-02": 156003,
-  "2023-10-03": 156003,
-  "2023-10-04": 156003,
-  "2023-10-05": 156094,
-  "2023-10-06": 156094,
-  "2023-10-07": 156094,
-  "2023-10-08": 156094,
-  "2023-10-09": 156094,
-  "2023-10-10": 156094,
-  "2023-10-11": 156258,
-  "2023-10-12": 156258,
-  "2023-10-13": 156258,
-  "2023-10-14": 156258,
-  "2023-10-15": 156258,
-  "2023-10-16": 156258,
-  "2023-10-17": 156258,
-  "2023-10-18": 156258,
-  "2023-10-19": 156258,
-  "2023-10-20": 156258,
-  "2023-10-21": 156258,
-  "2023-10-22": 156258,
-  "2023-10-23": 156258,
-  "2023-10-24": 156258,
-  "2023-10-25": 156258,
-  "2023-10-26": 156258,
-  "2023-10-27": 156258,
-  "2023-10-28": 156258,
-  "2023-10-29": 156258,
-  "2023-10-30": 156258,
-  "2023-10-31": 156258,
-  "2023-11-01": 156258,
-  "2023-11-02": 156258,
-  "2023-11-03": 156258,
-  "2023-11-04": 156258,
-  "2023-11-05": 156258,
-  "2023-11-06": 156258,
-  "2023-11-07": 156258,
-  "2023-11-08": 156258,
-  "2023-11-09": 156258,
-  "2023-11-10": 156258,
-  "2023-11-11": 157195,
-  "2023-11-12": 157195,
-  "2023-11-13": 157195,
-  "2023-11-14": 157195,
-  "2023-11-15": 157195,
-  "2023-11-16": 157195,
-  "2023-11-17": 157195,
-  "2023-11-18": 157195,
-  "2023-11-19": 157195,
-  "2023-11-20": 157195,
-  "2023-11-21": 157195,
-  "2023-11-22": 157195,
-  "2023-11-23": 157195,
-  "2023-11-24": 157195,
-  "2023-11-25": 157195,
-  "2023-11-26": 157195,
-  "2023-11-27": 157195,
-  "2023-11-28": 157195,
-  "2023-11-29": 157195,
-  "2023-11-30": 157195,
-  "2023-12-01": 157195,
-  "2023-12-02": 157195,
-  "2023-12-03": 157195,
-  "2023-12-04": 157195,
-  "2023-12-05": 157195,
-  "2023-12-06": 157195,
-  "2023-12-07": 157195,
-  "2023-12-08": 157195,
-  "2023-12-09": 157195,
-  "2023-12-10": 157195,
-  "2023-12-11": 157195,
-  "2023-12-12": 157195,
-  "2023-12-13": 157195,
-  "2023-12-14": 158178,
-  "2023-12-15": 158207,
-  "2023-12-16": 158248,
-  "2023-12-17": 158283,
-  "2023-12-18": 158317,
-  "2023-12-19": 158352,
-  "2023-12-20": 158385,
-  "2023-12-21": 158448,
-  "2023-12-22": 158473,
-  "2023-12-23": 158510,
-  "2023-12-24": 158554,
-  "2023-12-25": 158591,
-  "2023-12-26": 158617,
-  "2023-12-27": 158652,
-  "2023-12-30": 158771,
-  "2023-12-31": 158806,
-  "2024-01-01": 158824,
-  "2024-01-02": 158843,
-  "2024-01-03": 158865
+  "2024-01-17": 159729,
+  "date_first_scraped": "2022-10-27",
+  "description": "This is Cage The Elephant. The essential tracks, all in one playlist.",
+  "name": "This Is Cage The Elephant",
+  "tracks": [
+    {
+      "album": {
+        "name": "Thank You Happy Birthday",
+        "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/07UdfUFR3Ku3saas0hOJHL"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday",
+        "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "Aberdeen",
+      "url": "https://open.spotify.com/track/3L8sfv4Fb8pONhiMA4nAKJ"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant",
+        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday",
+        "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221946,
+      "name": "Always Something",
+      "url": "https://open.spotify.com/track/3bpV86Ui1ND9aRU5uhQRRX"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday",
+        "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Around My Head",
+      "url": "https://open.spotify.com/track/0oFCz4vOMbg9dRmV69K1vG"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228320,
+      "name": "Back Against the Wall",
+      "url": "https://open.spotify.com/track/0vz64VTiPPBpcmla0QvAI9"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Back Stabbin' Betty",
+      "url": "https://open.spotify.com/track/60AGFQbS6ViLy1dcnL9427"
+    },
+    {
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "Black Madonna",
+      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
+    },
+    {
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Broken Boy",
+      "url": "https://open.spotify.com/track/0RbcDELsGTciLeMGsSdJAc"
+    },
+    {
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 208760,
+      "name": "Cigarette Daydreams",
+      "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214386,
+      "name": "Cold Cold Cold",
+      "url": "https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu"
+    },
+    {
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "Come a Little Closer",
+      "url": "https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134407,
+      "name": "Doctor Doctor Doctor Help Me Help Me Help Me",
+      "url": "https://open.spotify.com/track/4gXR7fBdUXGGulPrQp5Uqh"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147853,
+      "name": "Drones In The Valley",
+      "url": "https://open.spotify.com/track/2Tv7qvpjiI3xnHdvBtGLoZ"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday",
+        "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208200,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0MUzalPwRItswsuNThydQg"
+    },
+    {
+      "album": {
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "Golden Brown - Unpeeled",
+      "url": "https://open.spotify.com/track/5tZ9PdmbvEDrk6tIxFAUp0"
+    },
+    {
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177960,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280946,
+      "name": "How Are You True",
+      "url": "https://open.spotify.com/track/6vcdiwrCVXnTLASFdjEV8r"
+    },
+    {
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/1PmaWG47wJRCIOM9v8Bauo"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241320,
+      "name": "In One Ear",
+      "url": "https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX"
+    },
+    {
+      "album": {
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309386,
+      "name": "Instant Crush - Unpeeled",
+      "url": "https://open.spotify.com/track/5uB3cnt54x4akRQHVKVy3Z"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "James Brown",
+      "url": "https://open.spotify.com/track/2bQv3yAOjVFO7hcVpqyyVc"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 182755,
+      "name": "Japanese Buffalo",
+      "url": "https://open.spotify.com/track/6dfiirE1SK8gOC7pbuom6S"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 206666,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/1X1XDc35sbtcUeTzKatuYf"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/3cPLWRuXjNsqqNuZRosZaD"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
+    },
+    {
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "Night Running",
+      "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
+    },
+    {
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187973,
+      "name": "Ready To Let Go",
+      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
+    },
+    {
+      "album": {
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280213,
+      "name": "Right Before My Eyes - Unpeeled",
+      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
+    },
+    {
+      "album": {
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244480,
+      "name": "Rubber Ball - Unpeeled",
+      "url": "https://open.spotify.com/track/65Fz2cM2BiIlBBlNbw5RtZ"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 171957,
+      "name": "Sabertooth Tiger",
+      "url": "https://open.spotify.com/track/0DKphd1MGFZseYToXpjnfk"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131191,
+      "name": "Sell Yourself",
+      "url": "https://open.spotify.com/track/14fZy2hdtvFvG3DN4cokUb"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday",
+        "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "Shake Me Down",
+      "url": "https://open.spotify.com/track/1Hb1IJ9bBCa6wo3fRtexnJ"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237060,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/54W4dN6L58ySaW7WkWlTQ5"
+    },
+    {
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
+    },
+    {
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "Social Cues",
+      "url": "https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF"
+    },
+    {
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222813,
+      "name": "Spiderhead",
+      "url": "https://open.spotify.com/track/5r5Lj2MkgwQJz6TaBdL865"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "Sweetie Little Jean",
+      "url": "https://open.spotify.com/track/4dpEYOPcmHNfvERbiajp3G"
+    },
+    {
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/43O3Iu8mDJy10i6k8SVRXX"
+    },
+    {
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228293,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/0tkBOcK7oRVXQJY97zzSvr"
+    },
+    {
+      "album": {
+        "name": "The Unforgiven",
+        "url": "https://open.spotify.com/album/20cAOeZEY6ja0JleCqSvzH"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353568,
+      "name": "The Unforgiven",
+      "url": "https://open.spotify.com/track/0Iixb2jL2s6BMqHtwnhG8H"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252786,
+      "name": "Too Late To Say Goodbye",
+      "url": "https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225973,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
+    },
+    {
+      "album": {
+        "name": "Whole Wide World (Unpeeled)",
+        "url": "https://open.spotify.com/album/7enBO2gOuKa46bzhA7oTsU"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205706,
+      "name": "Whole Wide World - Unpeeled",
+      "url": "https://open.spotify.com/track/4sSWukSIqnxnUmvvA7ucFN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPy"
 }

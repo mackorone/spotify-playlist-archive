@@ -1,732 +1,1283 @@
 {
-  "2021-12-28": 630686,
-  "2021-12-29": 630869,
-  "2021-12-30": 631026,
-  "2021-12-31": 631198,
-  "2022-01-01": 631545,
-  "2022-01-02": 631632,
-  "2022-01-03": 631806,
-  "2022-01-04": 631964,
-  "2022-01-05": 632127,
-  "2022-01-06": 632273,
-  "2022-01-07": 632444,
-  "2022-01-08": 632780,
-  "2022-01-09": 632793,
-  "2022-01-10": 632973,
-  "2022-01-11": 633016,
-  "2022-01-12": 633099,
-  "2022-01-13": 633099,
-  "2022-01-14": 633099,
-  "2022-01-15": 633099,
-  "2022-01-16": 633099,
-  "2022-01-17": 633099,
-  "2022-01-18": 633099,
-  "2022-01-19": 633099,
-  "2022-01-20": 633099,
-  "2022-01-21": 633099,
-  "2022-01-22": 633099,
-  "2022-01-23": 633099,
-  "2022-01-24": 633099,
-  "2022-01-25": 633099,
-  "2022-01-26": 633099,
-  "2022-01-27": 633099,
-  "2022-01-28": 633099,
-  "2022-01-29": 633099,
-  "2022-01-30": 633099,
-  "2022-01-31": 633099,
-  "2022-02-01": 633099,
-  "2022-02-02": 633099,
-  "2022-02-03": 633099,
-  "2022-02-04": 633099,
-  "2022-02-05": 633099,
-  "2022-02-06": 633099,
-  "2022-02-07": 633099,
-  "2022-02-08": 633099,
-  "2022-02-09": 633099,
-  "2022-02-10": 633099,
-  "2022-02-11": 633099,
-  "2022-02-12": 633099,
-  "2022-02-13": 633099,
-  "2022-02-14": 633099,
-  "2022-02-15": 633099,
-  "2022-02-16": 633099,
-  "2022-02-17": 633099,
-  "2022-02-18": 633099,
-  "2022-02-19": 633099,
-  "2022-02-20": 633099,
-  "2022-02-21": 633099,
-  "2022-02-22": 633099,
-  "2022-02-23": 633099,
-  "2022-02-24": 633099,
-  "2022-02-25": 633099,
-  "2022-02-26": 633099,
-  "2022-02-27": 633099,
-  "2022-02-28": 633099,
-  "2022-03-01": 633099,
-  "2022-03-02": 633099,
-  "2022-03-03": 633099,
-  "2022-03-04": 633099,
-  "2022-03-05": 633099,
-  "2022-03-06": 633099,
-  "2022-03-07": 633099,
-  "2022-03-08": 633099,
-  "2022-03-09": 633099,
-  "2022-03-10": 633099,
-  "2022-03-11": 633099,
-  "2022-03-12": 633099,
-  "2022-03-13": 633099,
-  "2022-03-14": 633099,
-  "2022-03-15": 633099,
-  "2022-03-16": 633099,
-  "2022-03-17": 633099,
-  "2022-03-18": 633099,
-  "2022-03-19": 633099,
-  "2022-03-20": 633099,
-  "2022-03-21": 633099,
-  "2022-03-22": 633099,
-  "2022-03-23": 633099,
-  "2022-03-24": 633099,
-  "2022-03-25": 633099,
-  "2022-03-26": 633099,
-  "2022-03-27": 633099,
-  "2022-03-28": 633099,
-  "2022-03-30": 633099,
-  "2022-03-31": 633099,
-  "2022-04-01": 633099,
-  "2022-04-02": 633099,
-  "2022-04-03": 633099,
-  "2022-04-04": 633099,
-  "2022-04-05": 633099,
-  "2022-04-06": 633099,
-  "2022-04-07": 633099,
-  "2022-04-08": 633099,
-  "2022-04-09": 633099,
-  "2022-04-10": 633099,
-  "2022-04-11": 633099,
-  "2022-04-12": 633099,
-  "2022-04-13": 633099,
-  "2022-04-14": 633099,
-  "2022-04-15": 633099,
-  "2022-04-16": 633099,
-  "2022-04-17": 633099,
-  "2022-04-18": 633099,
-  "2022-04-19": 633099,
-  "2022-04-20": 633099,
-  "2022-04-21": 633099,
-  "2022-04-22": 633099,
-  "2022-04-23": 633099,
-  "2022-04-24": 633099,
-  "2022-04-25": 633099,
-  "2022-04-26": 633099,
-  "2022-04-27": 633099,
-  "2022-04-28": 633099,
-  "2022-04-29": 633099,
-  "2022-04-30": 633099,
-  "2022-05-01": 633099,
-  "2022-05-02": 633099,
-  "2022-05-03": 633099,
-  "2022-05-04": 633099,
-  "2022-05-05": 633099,
-  "2022-05-06": 633099,
-  "2022-05-07": 633099,
-  "2022-05-08": 633099,
-  "2022-05-09": 633099,
-  "2022-05-10": 633099,
-  "2022-05-11": 633099,
-  "2022-05-12": 633099,
-  "2022-05-13": 633099,
-  "2022-05-14": 633099,
-  "2022-05-15": 633099,
-  "2022-05-16": 633099,
-  "2022-05-17": 633099,
-  "2022-05-18": 633099,
-  "2022-05-19": 633099,
-  "2022-05-20": 633099,
-  "2022-05-21": 633099,
-  "2022-05-22": 633099,
-  "2022-05-23": 633099,
-  "2022-05-24": 633099,
-  "2022-05-25": 633099,
-  "2022-05-26": 633099,
-  "2022-05-27": 633099,
-  "2022-05-28": 633099,
-  "2022-05-29": 633099,
-  "2022-05-30": 633099,
-  "2022-05-31": 633099,
-  "2022-06-01": 633099,
-  "2022-06-02": 633099,
-  "2022-06-03": 633099,
-  "2022-06-04": 633099,
-  "2022-06-05": 633099,
-  "2022-06-06": 633099,
-  "2022-06-07": 633099,
-  "2022-06-08": 633099,
-  "2022-06-09": 633099,
-  "2022-06-10": 633099,
-  "2022-06-11": 633099,
-  "2022-06-12": 633099,
-  "2022-06-13": 633099,
-  "2022-06-14": 633099,
-  "2022-06-15": 633099,
-  "2022-06-16": 633099,
-  "2022-06-17": 633099,
-  "2022-06-18": 633099,
-  "2022-06-19": 633099,
-  "2022-06-20": 633099,
-  "2022-06-21": 633099,
-  "2022-06-22": 633099,
-  "2022-06-23": 633099,
-  "2022-06-24": 633099,
-  "2022-06-25": 633099,
-  "2022-06-26": 633099,
-  "2022-06-27": 633099,
-  "2022-06-28": 633099,
-  "2022-06-29": 633099,
-  "2022-06-30": 633099,
-  "2022-07-01": 633099,
-  "2022-07-02": 633099,
-  "2022-07-03": 633099,
-  "2022-07-04": 633099,
-  "2022-07-05": 633099,
-  "2022-07-06": 633099,
-  "2022-07-07": 633099,
-  "2022-07-08": 633099,
-  "2022-07-09": 633099,
-  "2022-07-10": 633099,
-  "2022-07-11": 633099,
-  "2022-07-12": 633099,
-  "2022-07-13": 633099,
-  "2022-07-14": 633099,
-  "2022-07-15": 633099,
-  "2022-07-16": 633099,
-  "2022-07-17": 633099,
-  "2022-07-18": 633099,
-  "2022-07-19": 633099,
-  "2022-07-20": 633099,
-  "2022-07-21": 633099,
-  "2022-07-22": 633099,
-  "2022-07-23": 633099,
-  "2022-07-24": 633099,
-  "2022-07-25": 633099,
-  "2022-07-26": 633099,
-  "2022-07-27": 633099,
-  "2022-07-28": 633099,
-  "2022-07-29": 633099,
-  "2022-07-30": 633099,
-  "2022-07-31": 633099,
-  "2022-08-01": 633099,
-  "2022-08-02": 633099,
-  "2022-08-03": 633099,
-  "2022-08-04": 633099,
-  "2022-08-05": 633099,
-  "2022-08-06": 633099,
-  "2022-08-07": 633099,
-  "2022-08-08": 633099,
-  "2022-08-09": 633099,
-  "2022-08-10": 633099,
-  "2022-08-11": 633099,
-  "2022-08-12": 633099,
-  "2022-08-13": 633099,
-  "2022-08-14": 633099,
-  "2022-08-15": 633099,
-  "2022-08-16": 633099,
-  "2022-08-17": 633099,
-  "2022-08-18": 633099,
-  "2022-08-19": 633099,
-  "2022-08-20": 633099,
-  "2022-08-21": 633099,
-  "2022-08-22": 633099,
-  "2022-08-23": 633099,
-  "2022-08-24": 633099,
-  "2022-08-25": 633099,
-  "2022-08-26": 633099,
-  "2022-08-27": 633099,
-  "2022-08-28": 633099,
-  "2022-08-29": 633099,
-  "2022-08-30": 633099,
-  "2022-08-31": 633099,
-  "2022-09-01": 633099,
-  "2022-09-02": 633099,
-  "2022-09-03": 633099,
-  "2022-09-04": 633099,
-  "2022-09-05": 633099,
-  "2022-09-06": 633099,
-  "2022-09-07": 633099,
-  "2022-09-09": 633099,
-  "2022-09-10": 633099,
-  "2022-09-11": 633099,
-  "2022-09-12": 633099,
-  "2022-09-13": 633099,
-  "2022-09-15": 633099,
-  "2022-09-16": 633099,
-  "2022-09-17": 633099,
-  "2022-09-18": 633099,
-  "2022-09-19": 633099,
-  "2022-09-20": 633099,
-  "2022-09-21": 633099,
-  "2022-09-22": 633099,
-  "2022-09-23": 633099,
-  "2022-09-24": 633099,
-  "2022-09-25": 633099,
-  "2022-09-26": 633099,
-  "2022-09-27": 633099,
-  "2022-09-28": 633099,
-  "2022-09-29": 633099,
-  "2022-09-30": 633099,
-  "2022-10-01": 633099,
-  "2022-10-02": 633099,
-  "2022-10-03": 633099,
-  "2022-10-04": 633099,
-  "2022-10-05": 633099,
-  "2022-10-06": 633099,
-  "2022-10-07": 633099,
-  "2022-10-08": 633099,
-  "2022-10-09": 633099,
-  "2022-10-10": 633099,
-  "2022-10-11": 633099,
-  "2022-10-12": 633099,
-  "2022-10-13": 633099,
-  "2022-10-14": 633099,
-  "2022-10-15": 633099,
-  "2022-10-16": 633099,
-  "2022-10-17": 633099,
-  "2022-10-18": 633099,
-  "2022-10-19": 633099,
-  "2022-10-20": 633099,
-  "2022-10-21": 633099,
-  "2022-10-22": 633099,
-  "2022-10-23": 633099,
-  "2022-10-24": 633099,
-  "2022-10-25": 633099,
-  "2022-10-26": 633099,
-  "2022-10-27": 633099,
-  "2022-10-28": 633099,
-  "2022-10-29": 633099,
-  "2022-10-30": 633099,
-  "2022-10-31": 633099,
-  "2022-11-01": 633099,
-  "2022-11-02": 633099,
-  "2022-11-03": 633099,
-  "2022-11-04": 633099,
-  "2022-11-05": 633099,
-  "2022-11-06": 633099,
-  "2022-11-07": 633099,
-  "2022-11-08": 633099,
-  "2022-11-09": 633099,
-  "2022-11-10": 633099,
-  "2022-11-11": 633099,
-  "2022-11-12": 633099,
-  "2022-11-13": 633099,
-  "2022-11-14": 633099,
-  "2022-11-15": 633099,
-  "2022-11-16": 633099,
-  "2022-11-17": 633099,
-  "2022-11-18": 633099,
-  "2022-11-19": 633099,
-  "2022-11-20": 633099,
-  "2022-11-21": 633099,
-  "2022-11-22": 633099,
-  "2022-11-23": 633099,
-  "2022-11-24": 633099,
-  "2022-11-25": 633099,
-  "2022-11-26": 633099,
-  "2022-11-27": 633099,
-  "2022-11-28": 633099,
-  "2022-11-29": 633099,
-  "2022-11-30": 633099,
-  "2022-12-01": 633099,
-  "2022-12-02": 633099,
-  "2022-12-03": 633099,
-  "2022-12-04": 633099,
-  "2022-12-05": 633099,
-  "2022-12-06": 633099,
-  "2022-12-07": 633099,
-  "2022-12-08": 633099,
-  "2022-12-09": 633099,
-  "2022-12-10": 633099,
-  "2022-12-11": 633099,
-  "2022-12-12": 633099,
-  "2022-12-13": 633099,
-  "2022-12-14": 633099,
-  "2022-12-15": 633099,
-  "2022-12-16": 633099,
-  "2022-12-17": 633099,
-  "2022-12-18": 633099,
-  "2022-12-19": 633099,
-  "2022-12-20": 633099,
-  "2022-12-21": 633099,
-  "2022-12-22": 633099,
-  "2022-12-24": 633099,
-  "2022-12-25": 633099,
-  "2022-12-26": 633099,
-  "2022-12-27": 633099,
-  "2022-12-28": 633099,
-  "2022-12-29": 633099,
-  "2022-12-30": 633099,
-  "2022-12-31": 633099,
-  "2023-01-01": 633099,
-  "2023-01-02": 633099,
-  "2023-01-03": 633099,
-  "2023-01-04": 633099,
-  "2023-01-05": 633099,
-  "2023-01-06": 633099,
-  "2023-01-07": 633099,
-  "2023-01-08": 633099,
-  "2023-01-09": 633099,
-  "2023-01-10": 633099,
-  "2023-01-11": 633099,
-  "2023-01-12": 633099,
-  "2023-01-13": 633099,
-  "2023-01-14": 633099,
-  "2023-01-15": 633099,
-  "2023-01-16": 633099,
-  "2023-01-17": 633099,
-  "2023-01-18": 633099,
-  "2023-01-19": 633099,
-  "2023-01-20": 633099,
-  "2023-01-21": 633099,
-  "2023-01-22": 633099,
-  "2023-01-23": 633099,
-  "2023-01-24": 633099,
-  "2023-01-25": 633099,
-  "2023-01-26": 633099,
-  "2023-01-27": 633099,
-  "2023-01-28": 633099,
-  "2023-01-29": 633099,
-  "2023-01-30": 633099,
-  "2023-01-31": 633099,
-  "2023-02-01": 633099,
-  "2023-02-02": 633099,
-  "2023-02-03": 633099,
-  "2023-02-04": 633099,
-  "2023-02-05": 633099,
-  "2023-02-06": 633099,
-  "2023-02-07": 633099,
-  "2023-02-08": 633099,
-  "2023-02-09": 633099,
-  "2023-02-10": 633099,
-  "2023-02-11": 633099,
-  "2023-02-12": 633099,
-  "2023-02-13": 633099,
-  "2023-02-14": 633099,
-  "2023-02-15": 633099,
-  "2023-02-16": 633099,
-  "2023-02-17": 633099,
-  "2023-02-18": 633099,
-  "2023-02-19": 633099,
-  "2023-02-20": 633099,
-  "2023-02-21": 633099,
-  "2023-02-22": 633099,
-  "2023-02-23": 633099,
-  "2023-02-24": 633099,
-  "2023-02-25": 633099,
-  "2023-02-26": 633099,
-  "2023-02-27": 633099,
-  "2023-02-28": 633099,
-  "2023-03-01": 633099,
-  "2023-03-02": 633099,
-  "2023-03-03": 633099,
-  "2023-03-04": 633099,
-  "2023-03-05": 633099,
-  "2023-03-06": 633099,
-  "2023-03-07": 633099,
-  "2023-03-08": 633099,
-  "2023-03-09": 633099,
-  "2023-03-10": 633099,
-  "2023-03-11": 633099,
-  "2023-03-12": 633099,
-  "2023-03-13": 633099,
-  "2023-03-14": 633099,
-  "2023-03-15": 633099,
-  "2023-03-16": 633099,
-  "2023-03-17": 633099,
-  "2023-03-18": 633099,
-  "2023-03-19": 633099,
-  "2023-03-20": 633099,
-  "2023-03-21": 633099,
-  "2023-03-22": 633099,
-  "2023-03-23": 633099,
-  "2023-03-24": 633099,
-  "2023-03-25": 633099,
-  "2023-03-26": 633099,
-  "2023-03-27": 633099,
-  "2023-03-28": 633099,
-  "2023-03-29": 633099,
-  "2023-03-30": 633099,
-  "2023-03-31": 633099,
-  "2023-04-01": 633099,
-  "2023-04-02": 633099,
-  "2023-04-03": 633099,
-  "2023-04-04": 633099,
-  "2023-04-05": 633099,
-  "2023-04-06": 633099,
-  "2023-04-07": 633099,
-  "2023-04-09": 633099,
-  "2023-04-10": 633099,
-  "2023-04-11": 633099,
-  "2023-04-12": 633099,
-  "2023-04-13": 633099,
-  "2023-04-14": 633099,
-  "2023-04-15": 633099,
-  "2023-04-16": 633099,
-  "2023-04-17": 633099,
-  "2023-04-18": 633099,
-  "2023-04-19": 633099,
-  "2023-04-20": 633099,
-  "2023-04-21": 633099,
-  "2023-04-22": 633099,
-  "2023-04-23": 633099,
-  "2023-04-24": 633099,
-  "2023-04-25": 633099,
-  "2023-04-26": 633099,
-  "2023-04-27": 633099,
-  "2023-04-28": 633099,
-  "2023-04-29": 633099,
-  "2023-04-30": 633099,
-  "2023-05-01": 633099,
-  "2023-05-02": 633099,
-  "2023-05-03": 633099,
-  "2023-05-04": 633099,
-  "2023-05-05": 633099,
-  "2023-05-06": 633099,
-  "2023-05-07": 633099,
-  "2023-05-08": 633099,
-  "2023-05-09": 633099,
-  "2023-05-10": 633099,
-  "2023-05-11": 633099,
-  "2023-05-12": 633099,
-  "2023-05-13": 633099,
-  "2023-05-14": 633099,
-  "2023-05-15": 633099,
-  "2023-05-16": 633099,
-  "2023-05-17": 633099,
-  "2023-05-18": 633099,
-  "2023-05-19": 633099,
-  "2023-05-20": 633099,
-  "2023-05-21": 633099,
-  "2023-05-22": 633099,
-  "2023-05-23": 633099,
-  "2023-05-24": 633099,
-  "2023-05-25": 633099,
-  "2023-05-26": 633099,
-  "2023-05-27": 633099,
-  "2023-05-28": 633099,
-  "2023-05-29": 633099,
-  "2023-05-30": 633099,
-  "2023-05-31": 633099,
-  "2023-06-01": 633099,
-  "2023-06-02": 633099,
-  "2023-06-03": 633099,
-  "2023-06-04": 633099,
-  "2023-06-05": 633099,
-  "2023-06-06": 633099,
-  "2023-06-07": 633099,
-  "2023-06-08": 633099,
-  "2023-06-09": 633099,
-  "2023-06-10": 633099,
-  "2023-06-11": 633099,
-  "2023-06-12": 633099,
-  "2023-06-13": 633099,
-  "2023-06-14": 633099,
-  "2023-06-15": 633099,
-  "2023-06-16": 633099,
-  "2023-06-17": 633099,
-  "2023-06-18": 633099,
-  "2023-06-19": 633099,
-  "2023-06-20": 633099,
-  "2023-06-21": 633099,
-  "2023-06-22": 633099,
-  "2023-06-23": 633099,
-  "2023-06-24": 633099,
-  "2023-06-25": 633099,
-  "2023-06-26": 633099,
-  "2023-06-27": 633099,
-  "2023-06-28": 633099,
-  "2023-06-29": 633099,
-  "2023-06-30": 633099,
-  "2023-07-01": 633099,
-  "2023-07-02": 633099,
-  "2023-07-03": 633099,
-  "2023-07-04": 633099,
-  "2023-07-05": 633099,
-  "2023-07-06": 633099,
-  "2023-07-07": 633099,
-  "2023-07-08": 633099,
-  "2023-07-09": 633099,
-  "2023-07-10": 633099,
-  "2023-07-11": 633099,
-  "2023-07-12": 633099,
-  "2023-07-13": 633099,
-  "2023-07-14": 633099,
-  "2023-07-15": 633099,
-  "2023-07-16": 633099,
-  "2023-07-17": 633099,
-  "2023-07-18": 633099,
-  "2023-07-19": 633099,
-  "2023-07-20": 633099,
-  "2023-07-21": 633099,
-  "2023-07-22": 633099,
-  "2023-07-23": 633099,
-  "2023-07-24": 633099,
-  "2023-07-25": 633099,
-  "2023-07-26": 633099,
-  "2023-07-27": 633099,
-  "2023-07-28": 633099,
-  "2023-07-29": 633099,
-  "2023-07-30": 633099,
-  "2023-07-31": 633099,
-  "2023-08-01": 633099,
-  "2023-08-02": 633099,
-  "2023-08-03": 633099,
-  "2023-08-04": 633099,
-  "2023-08-05": 633099,
-  "2023-08-06": 633099,
-  "2023-08-07": 633099,
-  "2023-08-08": 633099,
-  "2023-08-09": 633099,
-  "2023-08-10": 633099,
-  "2023-08-11": 633099,
-  "2023-08-12": 633099,
-  "2023-08-13": 633099,
-  "2023-08-14": 633099,
-  "2023-08-15": 633099,
-  "2023-08-16": 633099,
-  "2023-08-17": 633099,
-  "2023-08-18": 633099,
-  "2023-08-19": 633099,
-  "2023-08-20": 633099,
-  "2023-08-21": 633099,
-  "2023-08-22": 633099,
-  "2023-08-23": 633099,
-  "2023-08-24": 633099,
-  "2023-08-25": 633099,
-  "2023-08-26": 633099,
-  "2023-08-27": 633099,
-  "2023-08-28": 633099,
-  "2023-08-29": 633099,
-  "2023-08-30": 633099,
-  "2023-08-31": 633099,
-  "2023-09-01": 633099,
-  "2023-09-02": 633099,
-  "2023-09-03": 633099,
-  "2023-09-04": 633099,
-  "2023-09-05": 633099,
-  "2023-09-06": 633099,
-  "2023-09-07": 633099,
-  "2023-09-08": 633099,
-  "2023-09-09": 633099,
-  "2023-09-10": 633099,
-  "2023-09-11": 633099,
-  "2023-09-12": 633099,
-  "2023-09-13": 633099,
-  "2023-09-14": 633099,
-  "2023-09-15": 633099,
-  "2023-09-16": 633099,
-  "2023-09-17": 633099,
-  "2023-09-18": 633099,
-  "2023-09-19": 633099,
-  "2023-09-20": 633099,
-  "2023-09-21": 633099,
-  "2023-09-22": 633099,
-  "2023-09-23": 633099,
-  "2023-09-24": 633099,
-  "2023-09-25": 633099,
-  "2023-09-26": 633099,
-  "2023-09-27": 633099,
-  "2023-09-28": 633099,
-  "2023-09-29": 633099,
-  "2023-09-30": 633099,
-  "2023-10-01": 633099,
-  "2023-10-02": 633099,
-  "2023-10-03": 633099,
-  "2023-10-04": 633099,
-  "2023-10-05": 633099,
-  "2023-10-06": 633099,
-  "2023-10-07": 633099,
-  "2023-10-08": 633099,
-  "2023-10-09": 633099,
-  "2023-10-10": 633099,
-  "2023-10-11": 633099,
-  "2023-10-12": 633099,
-  "2023-10-13": 633099,
-  "2023-10-14": 633099,
-  "2023-10-15": 633099,
-  "2023-10-16": 633099,
-  "2023-10-17": 633099,
-  "2023-10-18": 633099,
-  "2023-10-19": 633099,
-  "2023-10-20": 633099,
-  "2023-10-21": 633099,
-  "2023-10-22": 633099,
-  "2023-10-23": 633099,
-  "2023-10-24": 633099,
-  "2023-10-25": 633099,
-  "2023-10-26": 633099,
-  "2023-10-27": 633099,
-  "2023-10-28": 633099,
-  "2023-10-29": 633099,
-  "2023-10-30": 633099,
-  "2023-10-31": 633099,
-  "2023-11-01": 633099,
-  "2023-11-02": 633099,
-  "2023-11-03": 633099,
-  "2023-11-04": 633099,
-  "2023-11-05": 633099,
-  "2023-11-06": 633099,
-  "2023-11-07": 633099,
-  "2023-11-08": 633099,
-  "2023-11-09": 633099,
-  "2023-11-10": 633099,
-  "2023-11-11": 633099,
-  "2023-11-12": 633099,
-  "2023-11-13": 633099,
-  "2023-11-14": 633099,
-  "2023-11-15": 633099,
-  "2023-11-16": 633099,
-  "2023-11-17": 633099,
-  "2023-11-18": 633099,
-  "2023-11-19": 633099,
-  "2023-11-20": 633099,
-  "2023-11-21": 633099,
-  "2023-11-22": 633099,
-  "2023-11-23": 633099,
-  "2023-11-24": 633099,
-  "2023-11-25": 633099,
-  "2023-11-26": 633099,
-  "2023-11-27": 633099,
-  "2023-11-28": 633099,
-  "2023-11-29": 633099,
-  "2023-11-30": 633099,
-  "2023-12-01": 633099,
-  "2023-12-02": 633099,
-  "2023-12-03": 633099,
-  "2023-12-04": 633099,
-  "2023-12-05": 633099,
-  "2023-12-06": 633099,
-  "2023-12-07": 633099,
-  "2023-12-08": 633099,
-  "2023-12-09": 633099,
-  "2023-12-10": 633099,
-  "2023-12-11": 633099,
-  "2023-12-12": 633099,
-  "2023-12-13": 633099,
-  "2023-12-14": 633099,
-  "2023-12-15": 633099,
-  "2023-12-16": 633099,
-  "2023-12-17": 633099,
-  "2023-12-18": 633099,
-  "2023-12-19": 633099,
-  "2023-12-20": 633099,
-  "2023-12-21": 633099,
-  "2023-12-22": 633099,
-  "2023-12-23": 633099,
-  "2023-12-24": 633099,
-  "2023-12-25": 633099,
-  "2023-12-26": 633099,
-  "2023-12-27": 633099,
-  "2023-12-30": 633099,
-  "2023-12-31": 633099,
-  "2024-01-01": 633099,
-  "2024-01-02": 633099,
-  "2024-01-03": 633099
+  "2024-01-17": 633099,
+  "date_first_scraped": "2021-12-28",
+  "description": "Your essential Jack Johnson, all in one playlist.",
+  "name": "This Is Jack Johnson",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
+        "url": "https://open.spotify.com/album/2EQBKTePJXgRBkQNk6LWf5"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+        },
+        {
+          "name": "Tim Reynolds",
+          "url": "https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "A Pirate Looks At Forty",
+      "url": "https://open.spotify.com/track/3P3Rj89T4jl2QczwR3TMRr"
+    },
+    {
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217720,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/7p3eluZv7dxIArpFUTBkia"
+    },
+    {
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2vO1wr5wIEHqQmY4jWbuhi"
+    },
+    {
+      "album": {
+        "name": "To The Sea",
+        "url": "https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "Anything But The Truth",
+      "url": "https://open.spotify.com/track/1tm0ed6Bh8lDkcszWu6YrJ"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "As I Was Saying",
+      "url": "https://open.spotify.com/track/29sY1Zgd4BXoVcoiVbiUXi"
+    },
+    {
+      "album": {
+        "name": "To The Sea",
+        "url": "https://open.spotify.com/album/3XshNzZ4orKbbcWy6zZkw3"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "At Or With Me",
+      "url": "https://open.spotify.com/track/4RWbX2bXFCcpuqgEypjqDv"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102946,
+      "name": "Belle",
+      "url": "https://open.spotify.com/track/3FK0U3qJYP3E24Vx5QSBWz"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/4VQu1ooCteGDynSZYUgvT4"
+    },
+    {
+      "album": {
+        "name": "Brushfire Fairytales (Remastered) [Bonus Version]",
+        "url": "https://open.spotify.com/album/38xJ17xpXcD0IQfdIEpMXG"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239413,
+      "name": "Bubble Toes",
+      "url": "https://open.spotify.com/track/2vyWFovtrd43gdcirx4anV"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0qT9FXLGoiszOVm32v8aaK"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/4rpNjW4HXxh8o5UwS7UoWL"
+    },
+    {
+      "album": {
+        "name": "En Concert",
+        "url": "https://open.spotify.com/album/2nGSozbPlGVt5bdvgvBI4s"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "Country Road With Paula Fuga - Santa Barbara, CA",
+      "url": "https://open.spotify.com/track/6ga7OkVgr9g1qxxdsTOQvc"
+    },
+    {
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/6VLsnbHXBR9D7JkYtNg0TO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283040,
+      "name": "Cry, Cry, Cry",
+      "url": "https://open.spotify.com/track/6WwQF2mP13VzQGF4NWC5CE"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186040,
+      "name": "Crying Shame",
+      "url": "https://open.spotify.com/track/4bhsk8zUlScYaTnWOJZfty"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144013,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/1EZJBB6bvCcrvYRlOyoHuf"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194493,
+      "name": "Don't Believe A Thing I Say",
+      "url": "https://open.spotify.com/track/5y0AneAZjgvVmfeuQ9XYbQ"
+    },
+    {
+      "album": {
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242080,
+      "name": "Escape (The Pina Colada Song)",
+      "url": "https://open.spotify.com/track/3dnswoe0E6Rf1vKdKzNdKs"
+    },
+    {
+      "album": {
+        "name": "Brushfire Fairytales (UK edition with 2 bonus tracks)",
+        "url": "https://open.spotify.com/album/6tBi2jfr3vkr3qLQAxZ1Tr"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190386,
+      "name": "F-Stop Blues",
+      "url": "https://open.spotify.com/track/1pqCiMTEKpdP3gTAxfqSEO"
+    },
+    {
+      "album": {
+        "name": "Brushfire Fairytales (Remastered) [Bonus Version]",
+        "url": "https://open.spotify.com/album/38xJ17xpXcD0IQfdIEpMXG"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283400,
+      "name": "Flake",
+      "url": "https://open.spotify.com/track/09dOpua4kGcHzH9Jt6KTzm"
+    },
+    {
+      "album": {
+        "name": "Brushfire Fairytales (UK edition with 2 bonus tracks)",
+        "url": "https://open.spotify.com/album/6tBi2jfr3vkr3qLQAxZ1Tr"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228653,
+      "name": "Fortunate Fool",
+      "url": "https://open.spotify.com/track/27CunNfh9sPzaNhRirLPjA"
+    },
+    {
+      "album": {
+        "name": "Fragments (From The Film \"The Smog Of The Sea\")",
+        "url": "https://open.spotify.com/album/4aPpXLVVhlHzR62bHjQjsm"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222146,
+      "name": "Fragments - From The Film \"The Smog Of The Sea\"",
+      "url": "https://open.spotify.com/track/4pvP0di7LhzSgJPgpC1tFf"
+    },
+    {
+      "album": {
+        "name": "To The Sea",
+        "url": "https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "From The Clouds",
+      "url": "https://open.spotify.com/track/2PsuxIafcmuwiGIWJeU3As"
+    },
+    {
+      "album": {
+        "name": "Fly Between Falls",
+        "url": "https://open.spotify.com/album/22gD4oyFnBAXsHPo2GnI6d"
+      },
+      "artists": [
+        {
+          "name": "ALO",
+          "url": "https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218973,
+      "name": "Girl, I Wanna Lay You Down",
+      "url": "https://open.spotify.com/track/4SeSBHW3My7RdB4UW0h1m9"
+    },
+    {
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274813,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK"
+    },
+    {
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/7LQhG0xSDjFiKJnziyB3Zj"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130013,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4sX4O9mgw76aWhehf1eSRD"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208506,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/1A4WjuUXeFEVXjwgc7eVZ6"
+    },
+    {
+      "album": {
+        "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
+        "url": "https://open.spotify.com/album/2EQBKTePJXgRBkQNk6LWf5"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304053,
+      "name": "High Tide Or Low Tide",
+      "url": "https://open.spotify.com/track/25s9gQB6i58zmOZdgdcTAQ"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/3da6Ihr5l6xjOCDs5sTXIu"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5yCrrN0GiJjHkRJGWw5D13"
+    },
+    {
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222240,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6PLQKVQv6BvZGtHtyJ8CaH"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/3da6Ihr5l6xjOCDs5sTXIu"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179346,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/12jjuxN1gxlm29cqL5M6MW"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144986,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/49T9pCYlpvtGd9ugZt7DSZ"
+    },
+    {
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238813,
+      "name": "If I Had Eyes",
+      "url": "https://open.spotify.com/track/3FnkZFv7kbxwlgaLgbqeDc"
+    },
+    {
+      "album": {
+        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
+        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219080,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/3piY5aMfwEEmXMV6I9kpoi"
+    },
+    {
+      "album": {
+        "name": "Brushfire Fairytales (UK edition with 2 bonus tracks)",
+        "url": "https://open.spotify.com/album/6tBi2jfr3vkr3qLQAxZ1Tr"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215386,
+      "name": "Inaudible Melodies",
+      "url": "https://open.spotify.com/track/3IhVDaGtxqWKJKIUMwOnwn"
+    },
+    {
+      "album": {
+        "name": "Brushfire Fairytales (Remastered)",
+        "url": "https://open.spotify.com/album/2K9N8V0ORKpkpTOxhcFnud"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207040,
+      "name": "Mudfootball (For Moe Lerner)",
+      "url": "https://open.spotify.com/track/4e0TsKPTGF4Jz1sgG9Kd6z"
+    },
+    {
+      "album": {
+        "name": "To The Sea",
+        "url": "https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140986,
+      "name": "My Little Girl",
+      "url": "https://open.spotify.com/track/4KZ9wj0K87t0Gdm7km9Yam"
+    },
+    {
+      "album": {
+        "name": "My Mind Is For Sale",
+        "url": "https://open.spotify.com/album/5LPjh362pPr16TE6jOc5VR"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239866,
+      "name": "My Mind Is For Sale",
+      "url": "https://open.spotify.com/track/0jhvJs0gITrnMS9cS32hms"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242746,
+      "name": "Never Fade",
+      "url": "https://open.spotify.com/track/2uRz1DAgAuK7CObjr1Lepu"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212813,
+      "name": "Never Know",
+      "url": "https://open.spotify.com/track/3dKFxCpVtK3g9KAB8S1FwY"
+    },
+    {
+      "album": {
+        "name": "To The Sea",
+        "url": "https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211306,
+      "name": "No Good With Faces",
+      "url": "https://open.spotify.com/track/5cdCm7mCN3kGVuLHDCX7It"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "No Other Way",
+      "url": "https://open.spotify.com/track/1jnnieDkF1hOlRil2Sgv9i"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267360,
+      "name": "Ones And Zeros",
+      "url": "https://open.spotify.com/track/1sosrEJMESvzsFdEXvXZ4y"
+    },
+    {
+      "album": {
+        "name": "To The Sea",
+        "url": "https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "Only The Ocean",
+      "url": "https://open.spotify.com/track/74RKxVxJSh54RBZfX6y4GY"
+    },
+    {
+      "album": {
+        "name": "Brushfire Fairytales (UK edition with 2 bonus tracks)",
+        "url": "https://open.spotify.com/album/6tBi2jfr3vkr3qLQAxZ1Tr"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193853,
+      "name": "Posters",
+      "url": "https://open.spotify.com/track/3viVcn8jgbZ97HR0ghjzKx"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "Radiate",
+      "url": "https://open.spotify.com/track/1Kh9APQ4jHucrj0QrdjxZe"
+    },
+    {
+      "album": {
+        "name": "To The Sea",
+        "url": "https://open.spotify.com/album/3XshNzZ4orKbbcWy6zZkw3"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243266,
+      "name": "Red Wine, Mistakes, Mythology",
+      "url": "https://open.spotify.com/track/5HKEeiP8GSMTCGBBHIK56J"
+    },
+    {
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/7LQhG0xSDjFiKJnziyB3Zj"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158413,
+      "name": "Rodeo Clowns",
+      "url": "https://open.spotify.com/track/422qOiUJZCd7SaEyoPAEnQ"
+    },
+    {
+      "album": {
+        "name": "Seasick Dream",
+        "url": "https://open.spotify.com/album/2HLWqyHfpx1npfiFSMosuZ"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200360,
+      "name": "Seasick Dream",
+      "url": "https://open.spotify.com/track/1vL5bZNsFWVYED96IgWEIM"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/3da6Ihr5l6xjOCDs5sTXIu"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Shot Reverse Shot",
+      "url": "https://open.spotify.com/track/5b6qqB5nvWRrin8e2cWDQY"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Sitting, Waiting, Wishing",
+      "url": "https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77213,
+      "name": "Situations",
+      "url": "https://open.spotify.com/track/2pimMpK7uxmZkTvdmm7sEu"
+    },
+    {
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Sleep Through The Static",
+      "url": "https://open.spotify.com/track/6YXPye0mFJBNov8pmihMAP"
+    },
+    {
+      "album": {
+        "name": "180 South Soundtrack",
+        "url": "https://open.spotify.com/album/13e2jq86nPcvYOxf0ii4q8"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227613,
+      "name": "Spring Wind",
+      "url": "https://open.spotify.com/track/6YFBulokjnf14xNWFd2DdG"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "Staple It Together",
+      "url": "https://open.spotify.com/track/7tmzwBMr53py6u2zD877P3"
+    },
+    {
+      "album": {
+        "name": "Sunsets For Somebody Else",
+        "url": "https://open.spotify.com/album/6jWU4Fkp5GZL0TJi56UnzZ"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Sunsets For Somebody Else",
+      "url": "https://open.spotify.com/track/3u0YCKg5DNalvfOnSrivFQ"
+    },
+    {
+      "album": {
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/4wIgXctxGSipzlN3AU1eMP"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Kawika Kahiapo",
+          "url": "https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/1gJ54y4ulKQyfapSiaQNsf"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201226,
+      "name": "Tape Deck",
+      "url": "https://open.spotify.com/track/0Etdshb7TsPs3kPII6V0cR"
+    },
+    {
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/5omWFFPkzExf1enlfuxWeC"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "Taylor",
+      "url": "https://open.spotify.com/track/0LMXIiouGsbzarXwmJWFFX"
+    },
+    {
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/7LQhG0xSDjFiKJnziyB3Zj"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141933,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/4WM22pqXRZkcdrp7alhjsv"
+    },
+    {
+      "album": {
+        "name": "To The Sea",
+        "url": "https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "To The Sea",
+      "url": "https://open.spotify.com/track/27uOuxKlQE9c1i4bh89Wg5"
+    },
+    {
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/7LQhG0xSDjFiKJnziyB3Zj"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170946,
+      "name": "Traffic In The Sky",
+      "url": "https://open.spotify.com/track/1yZFWn5IOy4spqLgJmMLmU"
+    },
+    {
+      "album": {
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203946,
+      "name": "Washing Dishes",
+      "url": "https://open.spotify.com/track/57M3x7GWQHGbaI6NgjWwr6"
+    },
+    {
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/7LQhG0xSDjFiKJnziyB3Zj"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230466,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/5nb0BEZqsmQYseSPJ932K8"
+    },
+    {
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327266,
+      "name": "What You Thought You Need",
+      "url": "https://open.spotify.com/track/33mgh5V3qu50nnJAXQqfau"
+    },
+    {
+      "album": {
+        "name": "To The Sea",
+        "url": "https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "You And Your Heart",
+      "url": "https://open.spotify.com/track/3daDd8yhWLgeWyCeZp9eIj"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2017-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144440,
+      "name": "You Remind Me Of You",
+      "url": "https://open.spotify.com/track/1V4h1A0c9F0tYZfVzFtDri"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXe1eE6Gj3EKS"
 }

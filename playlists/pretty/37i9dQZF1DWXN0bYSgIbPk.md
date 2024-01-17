@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 
 > <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a>' favorite tracks\. Updated regularly\. Curated by Uncle Waffles\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,139 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,119 likes - 50 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,212 +1,531 @@
 {
-  "2023-06-06": 5087,
-  "2023-06-07": 5541,
-  "2023-06-08": 5774,
-  "2023-06-09": 5972,
-  "2023-06-10": 7851,
-  "2023-06-11": 9493,
-  "2023-06-12": 10707,
-  "2023-06-13": 11433,
-  "2023-06-14": 11690,
-  "2023-06-15": 11895,
-  "2023-06-16": 12082,
-  "2023-06-17": 12261,
-  "2023-06-18": 12493,
-  "2023-06-19": 12688,
-  "2023-06-20": 12881,
-  "2023-06-21": 13033,
-  "2023-06-22": 13234,
-  "2023-06-23": 13411,
-  "2023-06-24": 13696,
-  "2023-06-25": 13915,
-  "2023-06-26": 14142,
-  "2023-06-27": 14334,
-  "2023-06-28": 14482,
-  "2023-06-29": 14665,
-  "2023-06-30": 14829,
-  "2023-07-01": 15167,
-  "2023-07-02": 15167,
-  "2023-07-03": 15338,
-  "2023-07-04": 15472,
-  "2023-07-05": 15620,
-  "2023-07-06": 15860,
-  "2023-07-07": 15860,
-  "2023-07-08": 15978,
-  "2023-07-09": 16100,
-  "2023-07-10": 16206,
-  "2023-07-11": 16308,
-  "2023-07-12": 16432,
-  "2023-07-13": 16546,
-  "2023-07-14": 16663,
-  "2023-07-15": 16738,
-  "2023-07-16": 16865,
-  "2023-07-17": 16965,
-  "2023-07-18": 17081,
-  "2023-07-19": 17196,
-  "2023-07-20": 17301,
-  "2023-07-21": 17406,
-  "2023-07-22": 17494,
-  "2023-07-23": 17607,
-  "2023-07-24": 17704,
-  "2023-07-25": 17795,
-  "2023-07-26": 17873,
-  "2023-07-27": 17992,
-  "2023-07-28": 18108,
-  "2023-07-29": 18234,
-  "2023-07-30": 18372,
-  "2023-07-31": 18521,
-  "2023-08-01": 18642,
-  "2023-08-02": 18744,
-  "2023-08-03": 18850,
-  "2023-08-04": 18964,
-  "2023-08-05": 19082,
-  "2023-08-06": 19511,
-  "2023-08-07": 19511,
-  "2023-08-08": 19689,
-  "2023-08-09": 19798,
-  "2023-08-10": 19928,
-  "2023-08-11": 20092,
-  "2023-08-12": 20228,
-  "2023-08-13": 20368,
-  "2023-08-14": 20496,
-  "2023-08-15": 20779,
-  "2023-08-16": 20779,
-  "2023-08-17": 20876,
-  "2023-08-18": 20992,
-  "2023-08-19": 21127,
-  "2023-08-20": 21231,
-  "2023-08-21": 21346,
-  "2023-08-22": 21453,
-  "2023-08-23": 21526,
-  "2023-08-24": 21614,
-  "2023-08-25": 21703,
-  "2023-08-26": 21793,
-  "2023-08-27": 21893,
-  "2023-08-28": 21995,
-  "2023-08-29": 22078,
-  "2023-08-30": 22186,
-  "2023-08-31": 22260,
-  "2023-09-01": 22433,
-  "2023-09-02": 22433,
-  "2023-09-03": 22514,
-  "2023-09-04": 22578,
-  "2023-09-05": 22641,
-  "2023-09-06": 22700,
-  "2023-09-07": 22758,
-  "2023-09-08": 22821,
-  "2023-09-09": 22906,
-  "2023-09-10": 22987,
-  "2023-09-11": 23036,
-  "2023-09-12": 23099,
-  "2023-09-13": 23158,
-  "2023-09-14": 23219,
-  "2023-09-15": 23292,
-  "2023-09-16": 23354,
-  "2023-09-17": 23410,
-  "2023-09-18": 23495,
-  "2023-09-19": 23549,
-  "2023-09-20": 23597,
-  "2023-09-21": 23670,
-  "2023-09-22": 23727,
-  "2023-09-23": 23790,
-  "2023-09-24": 23852,
-  "2023-09-25": 23905,
-  "2023-09-26": 23990,
-  "2023-09-27": 24045,
-  "2023-09-28": 24111,
-  "2023-09-29": 24173,
-  "2023-09-30": 24243,
-  "2023-10-01": 24342,
-  "2023-10-02": 24409,
-  "2023-10-03": 24455,
-  "2023-10-04": 24518,
-  "2023-10-05": 24577,
-  "2023-10-06": 24651,
-  "2023-10-07": 24715,
-  "2023-10-08": 24785,
-  "2023-10-09": 24854,
-  "2023-10-10": 24914,
-  "2023-10-11": 25055,
-  "2023-10-12": 25055,
-  "2023-10-13": 25107,
-  "2023-10-14": 25163,
-  "2023-10-15": 25237,
-  "2023-10-16": 25320,
-  "2023-10-17": 25376,
-  "2023-10-18": 25446,
-  "2023-10-19": 25495,
-  "2023-10-20": 25542,
-  "2023-10-21": 25604,
-  "2023-10-22": 25694,
-  "2023-10-23": 25760,
-  "2023-10-24": 25819,
-  "2023-10-25": 25889,
-  "2023-10-26": 25970,
-  "2023-10-27": 26039,
-  "2023-10-28": 26099,
-  "2023-10-29": 26146,
-  "2023-10-30": 26240,
-  "2023-10-31": 26240,
-  "2023-11-01": 26277,
-  "2023-11-02": 26333,
-  "2023-11-03": 26396,
-  "2023-11-04": 26452,
-  "2023-11-05": 26490,
-  "2023-11-06": 26559,
-  "2023-11-07": 26612,
-  "2023-11-08": 26663,
-  "2023-11-09": 26744,
-  "2023-11-10": 26816,
-  "2023-11-11": 26924,
-  "2023-11-12": 26984,
-  "2023-11-13": 27055,
-  "2023-11-14": 27112,
-  "2023-11-15": 27112,
-  "2023-11-16": 27220,
-  "2023-11-17": 27350,
-  "2023-11-18": 27350,
-  "2023-11-19": 27424,
-  "2023-11-20": 27490,
-  "2023-11-21": 27545,
-  "2023-11-22": 27607,
-  "2023-11-23": 27670,
-  "2023-11-24": 27730,
-  "2023-11-25": 27786,
-  "2023-11-26": 27865,
-  "2023-11-27": 27952,
-  "2023-11-28": 27991,
-  "2023-11-29": 28151,
-  "2023-11-30": 28151,
-  "2023-12-01": 28213,
-  "2023-12-02": 28273,
-  "2023-12-03": 28339,
-  "2023-12-04": 28400,
-  "2023-12-05": 28472,
-  "2023-12-06": 28537,
-  "2023-12-07": 28606,
-  "2023-12-08": 28676,
-  "2023-12-09": 28741,
-  "2023-12-10": 28837,
-  "2023-12-11": 28924,
-  "2023-12-12": 28994,
-  "2023-12-13": 29048,
-  "2023-12-14": 29124,
-  "2023-12-15": 29173,
-  "2023-12-16": 29229,
-  "2023-12-17": 29295,
-  "2023-12-18": 29366,
-  "2023-12-19": 29431,
-  "2023-12-20": 29494,
-  "2023-12-21": 29562,
-  "2023-12-22": 29617,
-  "2023-12-23": 29673,
-  "2023-12-24": 29735,
-  "2023-12-25": 29778,
-  "2023-12-26": 29828,
-  "2023-12-27": 29888,
-  "2023-12-30": 30080,
-  "2023-12-31": 30125,
-  "2024-01-01": 30175,
-  "2024-01-02": 30241,
-  "2024-01-03": 30308
+  "2024-01-17": 31171,
+  "date_first_scraped": "2023-06-06",
+  "description": "Enjoy the aespa Seoul concert LIVE SET including the voices of members on stage! (\uc5d0\uc2a4\ud30c \uba64\ubc84\ub4e4\uc758 \ubb34\ub300\uc758 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c \uc11c\uc6b8 \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "aespa: SYNK : HYPER LINE",
+  "tracks": [
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "'Til We Meet Again",
+      "url": "https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49182,
+      "name": "About ''Til We Meet Again'",
+      "url": "https://open.spotify.com/track/7qlmCoa7LGJSKTUit2EJ6Y"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34750,
+      "name": "About 'Dreams Come True'",
+      "url": "https://open.spotify.com/track/5Zix9Roj7nOicLqhfZRcjR"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26192,
+      "name": "About 'Girls'",
+      "url": "https://open.spotify.com/track/4RuAJz4wqTw2tEskPZ45jA"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32564,
+      "name": "About 'Salty & Sweet'",
+      "url": "https://open.spotify.com/track/2ehxw01ykbqOIyB225LEA8"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23957,
+      "name": "About 'Thirsty'",
+      "url": "https://open.spotify.com/track/3A11L7NR5BRVIFQxXI33CF"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63196,
+      "name": "About Fans",
+      "url": "https://open.spotify.com/track/1gt9tSGKQKkQb5uJ7vV4GY"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 11708,
+      "name": "About Last Part",
+      "url": "https://open.spotify.com/track/2g5btQc7Rror0NHDtEpoK8"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "About The Concert",
+      "url": "https://open.spotify.com/track/7i8Il6D99tv1BrNi55mzTJ"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18385,
+      "name": "About The Last Song",
+      "url": "https://open.spotify.com/track/0JXTtwDSKHAoaBda6rxvQq"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "aenergy",
+      "url": "https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q"
+    },
+    {
+      "album": {
+        "name": "Black Mamba",
+        "url": "https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Black Mamba",
+      "url": "https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51"
+    },
+    {
+      "album": {
+        "name": "Dreams Come True - SM STATION",
+        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35201,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/4tuWRYj8I0h6RyQTQK6K8r"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "I'll Make You Cry",
+      "url": "https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW"
+    },
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "I'm Unhappy",
+      "url": "https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/5bMHrigI1EAmZdiyRzKoQi"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221640,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/11JpW4h96X4TlGt6LFpNCC"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "Life's Too Short",
+      "url": "https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q"
+    },
+    {
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156866,
+      "name": "Lingo",
+      "url": "https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
+    },
+    {
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+    },
+    {
+      "album": {
+        "name": "aespa : SYNK : HYPER LINE",
+        "url": "https://open.spotify.com/album/1FG1PgrZz3b10wkKkfMZRo"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139472,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/43pzu8mqsk7jlOO2qd4nSN"
+    },
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Salty & Sweet",
+      "url": "https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+    },
+    {
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193413,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
+    },
+    {
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "YEPPI YEPPI",
+      "url": "https://open.spotify.com/track/3UKKwGrpWWamc0XNSKXjmz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVR3qxnguIme"
 }

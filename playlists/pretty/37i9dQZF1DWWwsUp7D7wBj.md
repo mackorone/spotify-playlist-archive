@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Todo lo que es cultura pop\. Se nos rompió el amor...
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,210 likes - 18 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,300 likes - 18 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

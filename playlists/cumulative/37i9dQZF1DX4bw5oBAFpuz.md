@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-332 songs - 19 hr 20 min
+334 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2023-08-17 | 2023-12-30 |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2023-02-23 |  |
 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2023-02-23 |  |
-| [Greatest Hits \- Acoustic](https://open.spotify.com/track/7cmzUKQfJCevlugn6m6M3Q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/6RLWl6RTIjQMgf4kdKhn62) | 3:23 | 2023-04-25 |  |
+| [Greatest Hits \- Acoustic](https://open.spotify.com/track/7cmzUKQfJCevlugn6m6M3Q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/6RLWl6RTIjQMgf4kdKhn62) | 3:23 | 2023-04-25 | 2024-01-17 |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2023-02-23 |  |
 | [Hands That I Drew](https://open.spotify.com/track/0Bf2bX4w9pWz2HGWEZFtjT) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Hands That I Drew](https://open.spotify.com/album/5g5i8YVNFQu8SyQPjLTAFZ) | 4:27 | 2023-02-23 |  |
 | [Happy in Hindsight](https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Happy in Hindsight](https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs) | 3:33 | 2023-02-23 |  |
@@ -155,7 +155,7 @@
 | [Kiss Me \- Acoustic](https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy) | 4:00 | 2023-02-23 |  |
 | [Knocked Out](https://open.spotify.com/track/13cFJziN6qRk7ZBQ57DtZ4) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Wrecks We Adore](https://open.spotify.com/album/1jf8StBAfVpC7IBPtqdcqx) | 4:39 | 2023-02-23 |  |
 | [Laps Around The Sun](https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5) | 3:26 | 2023-02-23 |  |
-| [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 | 2023-02-23 | 2023-04-26 |
+| [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 | 2023-02-23 |  |
 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 | 2023-02-23 |  |
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/0O2yLXhJtcp69Ll233Q6xS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/54F0VYmKpYQok1ydOZhsYC) | 2:54 | 2023-04-06 |  |
 | [Lay Your Weapons Down \- Acoustic](https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Lay Your Weapons Down \(Acoustic\)](https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m) | 3:25 | 2023-04-25 |  |
@@ -193,8 +193,9 @@
 | [Miracle Love](https://open.spotify.com/track/3pjeJVSQXB2aaZOIEKNYvd) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Rainbow Valley](https://open.spotify.com/album/5k2ppB8SwrTTFyHUoqRzBW) | 4:22 | 2023-02-23 |  |
 | [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 | 2023-08-17 | 2023-12-30 |
 | [Miracles](https://open.spotify.com/track/6LTULqwZrAFfdzJnsOaEmy) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [Beste Zangers 2021 \(Joe Buck\)](https://open.spotify.com/album/0VcY5kRBSi02BjPs314Aze) | 2:27 | 2023-02-23 |  |
+| [Money In My Head](https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:08 | 2024-01-16 |  |
 | [Mr\. Perfect](https://open.spotify.com/track/0mbHXi8yxRMXJbayDMF6zH) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [396](https://open.spotify.com/album/1oSGbegSlLHm4ibhbFWWik) | 3:07 | 2023-02-23 |  |
-| [My Baby Left Me](https://open.spotify.com/track/2Pz0nvk2bpxZSfoBFdiZuc) | [Rox](https://open.spotify.com/artist/535yDaYpxzTz2T323SM5ro) | [My Baby Left Me](https://open.spotify.com/album/6m5aYJEffiAF6AnSIdpyPT) | 3:33 | 2023-04-25 |  |
+| [My Baby Left Me](https://open.spotify.com/track/2Pz0nvk2bpxZSfoBFdiZuc) | [Rox](https://open.spotify.com/artist/535yDaYpxzTz2T323SM5ro) | [My Baby Left Me](https://open.spotify.com/album/6m5aYJEffiAF6AnSIdpyPT) | 3:33 | 2023-04-25 | 2024-01-17 |
 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 | 2023-02-23 | 2023-09-08 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2023-02-23 | 2023-04-26 |
 | [New Tattoo](https://open.spotify.com/track/0VDKufeuah4nkAPpIdVxz8) | [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V) | [New Tattoo](https://open.spotify.com/album/6YpgMfuRYkPRkgAFij0zK2) | 3:31 | 2023-02-23 |  |
@@ -208,7 +209,7 @@
 | [Nothing's Ever Good Enough \(feat\. Lorrèn\)](https://open.spotify.com/track/5i2gud3IkzMXg1QlS5Eblr) | [The BlueBirds](https://open.spotify.com/artist/1WKVDXahDiNpcTlTf8ltq0), [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi), [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw), [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Nothing's Ever Good Enough](https://open.spotify.com/album/3CZ5MiCVazk5SEZhbQxqXi) | 3:09 | 2023-02-23 | 2023-02-26 |
 | [Now That We’ve Found Love](https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB), [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY) | [Now That We’ve Found Love](https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8) | 2:34 | 2023-02-23 |  |
 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 | 2023-02-23 |  |
-| [On My Way](https://open.spotify.com/track/4AodD9thKrnGrdIJkmNaXA) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [Subway Silence \(Special Edition\)](https://open.spotify.com/album/2ZseAOSVskydVAP9eJdJ51) | 3:24 | 2023-04-25 | 2023-10-06 |
+| [On My Way](https://open.spotify.com/track/4AodD9thKrnGrdIJkmNaXA) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [Subway Silence \(Special Edition\)](https://open.spotify.com/album/2ZseAOSVskydVAP9eJdJ51) | 3:24 | 2023-04-25 | 2024-01-16 |
 | [On My Way](https://open.spotify.com/track/525quKjX8KEnj2fmKdZy3z) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [Subway Silence](https://open.spotify.com/album/34GPJpmCoILZKAds4eNefL) | 3:25 | 2023-02-23 | 2023-03-02 |
 | [One Last Chance \(I Won't Let You Down\) \- Acoustic](https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [One Last Chance \(I Won't Let You Down\)](https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2) | 3:19 | 2023-04-25 |  |
 | [One Life](https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [One Life](https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC) | 2:30 | 2023-05-18 |  |
@@ -304,6 +305,7 @@
 | [To Tomorrow](https://open.spotify.com/track/0FMz7ipH6rTAolvWIKzU9i) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [The Legend Of The Goldkimono](https://open.spotify.com/album/6TNsj78Lj0L3nuZbBoSrER) | 3:24 | 2023-11-02 |  |
 | [To Tomorrow](https://open.spotify.com/track/4GfPkTIFaiI8wmc0lgTDzi) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [The Legend of the Goldkimono](https://open.spotify.com/album/6665kTeQp9goEiA3wZAxm8) | 3:24 | 2023-02-23 | 2023-11-17 |
 | [Took a Hit](https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Liverpool Rain](https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8) | 3:44 | 2023-02-23 | 2023-07-15 |
+| [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 | 2024-01-16 |  |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2023-02-23 | 2023-04-13 |
 | [Tututu](https://open.spotify.com/track/60CDsfALVxdHCtWSGNEIib) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Irrational](https://open.spotify.com/album/1cNx0aM4urNQ0gMalkNnQ1) | 2:55 | 2023-02-23 |  |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2023-02-23 |  |
@@ -339,6 +341,6 @@
 | [You Don't Have To Stay](https://open.spotify.com/track/2Kt8OMRNO40i42Cxf2KO4H) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Born In A Storm](https://open.spotify.com/album/7i7i0cvJwTsw1ILF6Gy5Lt) | 2:26 | 2023-02-23 |  |
 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2023-02-23 | 2023-04-26 |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2023-02-23 | 2023-04-26 |
-| [Young Ones](https://open.spotify.com/track/1p5rkJjrlNhewXpCNuNwfl) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Summer Hits 2011](https://open.spotify.com/album/0ZyAIkXXHhQZw8uW0A1hyh) | 3:55 | 2023-04-25 |  |
+| [Young Ones](https://open.spotify.com/track/1p5rkJjrlNhewXpCNuNwfl) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Summer Hits 2011](https://open.spotify.com/album/0ZyAIkXXHhQZw8uW0A1hyh) | 3:55 | 2023-04-25 | 2024-01-17 |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

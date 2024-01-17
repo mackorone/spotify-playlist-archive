@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-306 songs - 1 day 4 hr 14 min
+307 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,8 @@
 | [Together](https://open.spotify.com/track/2wOlZrHUpRP9hQbqbV9Ae5) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/1fcREbFQfCqfwxXkxGgvV7) | 11:12 | 2020-10-09 | 2022-05-03 |
 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 | 2020-10-09 |  |
 | [Tutto](https://open.spotify.com/track/62kqshOHXpzRjnjU32j3tk) | [Lorenzo Tucci](https://open.spotify.com/artist/3hTTFA9ODrbXSu1BJ82hsq) | [Happy end](https://open.spotify.com/album/6rMNuXq1cfyp747FxxOEDv) | 5:18 | 2021-10-29 |  |
-| [Two Sleepy People](https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX) | [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot) | [Stride](https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg) | 6:36 | 2020-10-09 |  |
+| [Two Sleepy People](https://open.spotify.com/track/7otQlbcqXVYIIYQKO3o2Ga) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Stride](https://open.spotify.com/album/0O6aXFgmvoU9Ute7Ui5m8v) | 6:36 | 2024-01-09 |  |
+| [Two Sleepy People](https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX) | [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot) | [Stride](https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg) | 6:36 | 2020-10-09 | 2024-01-14 |
 | [Up Jumped Spring](https://open.spotify.com/track/4NAhOoe6Tp5SU4z0r7Nygx) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 8:48 | 2020-10-09 | 2022-11-09 |
 | [Uphill](https://open.spotify.com/track/6g6U5Ip7Tvm1xsctpflOuk) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Fredrik Rundqvist](https://open.spotify.com/artist/5xLLcvi1xnXS9mMKi6PW57) | [Circles](https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg) | 4:01 | 2020-10-09 | 2023-04-26 |
 | [Uptown, Downtown](https://open.spotify.com/track/58TwX5CF328t6qDm9sgaLb) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/1rKuZrtVnezUOqklw7fSKc) | 6:00 | 2020-10-09 | 2022-11-23 |

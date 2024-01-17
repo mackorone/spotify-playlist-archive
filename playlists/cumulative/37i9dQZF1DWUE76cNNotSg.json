@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/6D3bxM6aNBo2Qk3gBD0NEm"
+      },
+      "artists": [
+        {
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/0OY1Iyu2yuiCpQBrhkV7zV"
+    },
+    {
+      "album": {
         "name": "Can't Stop Cryin'",
         "url": "https://open.spotify.com/album/0hL9VPzSao6NlX3aSEPkym"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 275655,
       "name": "Children",
       "url": "https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 199880,
       "name": "easy breezy",
       "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 310340,
       "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
       "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
@@ -2319,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Foolish Man",
+        "url": "https://open.spotify.com/album/1H6VvTeU66xs6FMVWKc85P"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245785,
+      "name": "Foolish Man",
+      "url": "https://open.spotify.com/track/6n3CPzeJyiypaxOQZAKuxt"
+    },
+    {
+      "album": {
         "name": "Fora",
         "url": "https://open.spotify.com/album/4nAZFXcLdQMDVEisbjJXU6"
       },
@@ -2396,7 +2432,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 282653,
       "name": "Free - Folamour Remix",
       "url": "https://open.spotify.com/track/16zYjPEcLGYCOsJOAvwNhn"
@@ -3164,7 +3200,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
@@ -3186,6 +3222,32 @@
       "duration_ms": 320440,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/0xGTpQrQSRS2o8TMYGCyOr"
+    },
+    {
+      "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/5A0bq3cr9A306ABKJd3RGG"
+      },
+      "artists": [
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        },
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        },
+        {
+          "name": "Ampersounds",
+          "url": "https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/3jtiNEzJr6NrM6dau9YPov"
     },
     {
       "album": {
@@ -3320,7 +3382,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 245654,
       "name": "It All Feels Right",
       "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
@@ -4484,7 +4546,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 134220,
       "name": "Moody",
       "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
@@ -4618,6 +4680,28 @@
       "duration_ms": 198305,
       "name": "Music Sounds Better with You",
       "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
+    },
+    {
+      "album": {
+        "name": "Must Be Love",
+        "url": "https://open.spotify.com/album/3KZrksMVrTZVqKu2qIJ0G4"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270145,
+      "name": "Must Be Love",
+      "url": "https://open.spotify.com/track/5bIcHT2jjWqm9UVpIJwIId"
     },
     {
       "album": {
@@ -5195,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Coast 2 Coast",
+        "url": "https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "Pacific Ave",
+      "url": "https://open.spotify.com/track/0b08c1WpRJotjRI9mLLH1I"
+    },
+    {
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -5449,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "Pizza Guy / Show Me",
+        "url": "https://open.spotify.com/album/7JnjKZH4ztUn2MtYhrCFWz"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349413,
+      "name": "Pizza Guy",
+      "url": "https://open.spotify.com/track/434qlyPFJd5FWpJ72eB3VL"
+    },
+    {
+      "album": {
         "name": "DANCEHALL",
         "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
       },
@@ -5646,6 +5766,28 @@
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "album": {
+        "name": "Blame It All On Love",
+        "url": "https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Ben Browning",
+          "url": "https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254906,
+      "name": "Ride With You",
+      "url": "https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF"
     },
     {
       "album": {
@@ -5983,6 +6125,28 @@
     },
     {
       "album": {
+        "name": "Slow Song (with Dragonette)",
+        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253723,
+      "name": "Slow Song (with Dragonette)",
+      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/1Wtivl62TYCi65MPFT96Zp"
       },
@@ -6296,7 +6460,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
@@ -6406,7 +6570,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
@@ -6598,7 +6762,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
@@ -7025,6 +7189,24 @@
     },
     {
       "album": {
+        "name": "Together Forever",
+        "url": "https://open.spotify.com/album/4DR3YxUK7YUuPuLBfYrQX7"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277561,
+      "name": "Together Forever",
+      "url": "https://open.spotify.com/track/4NvAaATU1bX5ITqGBIxB5b"
+    },
+    {
+      "album": {
         "name": "Purple Noon",
         "url": "https://open.spotify.com/album/0gkOhkjdFwKUtz9YXbp22L"
       },
@@ -7188,6 +7370,40 @@
       "duration_ms": 231316,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU"
+    },
+    {
+      "album": {
+        "name": "HOUSE OF GROOVE",
+        "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+        },
+        {
+          "name": "The NightBirds",
+          "url": "https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216154,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH"
     },
     {
       "album": {

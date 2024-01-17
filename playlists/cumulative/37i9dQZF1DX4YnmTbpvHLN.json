@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 287000,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 168773,
       "name": "Crystal Blue",
       "url": "https://open.spotify.com/track/2xlbRcpwbECTrkzRD975lb"
@@ -5241,6 +5241,24 @@
     },
     {
       "album": {
+        "name": "Shadow Play",
+        "url": "https://open.spotify.com/album/0FGaEv4Rl39dHICS8ioAIN"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225100,
+      "name": "Shadow Play",
+      "url": "https://open.spotify.com/track/1VLxIOjukOrzBwqL6mp9Q3"
+    },
+    {
+      "album": {
         "name": "She's A Class Act",
         "url": "https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw"
       },
@@ -6660,6 +6678,24 @@
       "duration_ms": 153060,
       "name": "What A Little Moonlight Can Do",
       "url": "https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd"
+    },
+    {
+      "album": {
+        "name": "What about us?",
+        "url": "https://open.spotify.com/album/1LsjFX2NwGjN1t0lqLZCtJ"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169566,
+      "name": "What about us?",
+      "url": "https://open.spotify.com/track/2sPyhvBDiIdvbcKShnNh1D"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,640 likes - 59 songs - 3 hr 34 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,624 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 9 | [Part of Me](https://open.spotify.com/track/4Z8Q1ysqqdTYDr7yyP3ONx) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Part of Me](https://open.spotify.com/album/0Xu17UGt6rn4ViWJTQnwTe) | 3:28 |
 | 10 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 |
 | 11 | [Tu le sais déjà](https://open.spotify.com/track/5pXwnNRZPzvz0ggCZ0xjaw) | [Vincent Paul](https://open.spotify.com/artist/6vnVX9y2vLVxwiEiDhlfbv) | [Tu le sais déjà](https://open.spotify.com/album/708Nu1SUnOiJQysysoJBpa) | 2:41 |
-| 12 | [Drown in My Own Tears \- The Circle Session, 2023](https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Drown in My Own Tears \(The Circle Session, 2023\)](https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S) | 5:04 |
+| 12 | [Oceans Of Emotions \- The Circle Sessions, 2023](https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Circle Sessions, 2023](https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs) | 3:36 |
 | 13 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 |
 | 14 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
-| 15 | [New Favorite](https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [New Favorite](https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL) | 2:39 |
-| 16 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 |
-| 17 | [One Of A Kind Love Affair](https://open.spotify.com/track/5PAJzKSzJHI82YBmnzNOvq) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [One Of A Kind Love Affair](https://open.spotify.com/album/5mQYZSGfBe180WE8G0tc6j) | 4:38 |
-| 18 | [Vampire \(Side A\)](https://open.spotify.com/track/2lGJtzntgzGN96xpouP9ry) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Elliot Greer Presents: Barebones I](https://open.spotify.com/album/5jsVeQDD8XgW5hAEaBM9GA) | 3:22 |
+| 15 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 |
+| 16 | [One Of A Kind Love Affair](https://open.spotify.com/track/5PAJzKSzJHI82YBmnzNOvq) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [One Of A Kind Love Affair](https://open.spotify.com/album/5mQYZSGfBe180WE8G0tc6j) | 4:38 |
+| 17 | [Vampire \(Side A\)](https://open.spotify.com/track/2lGJtzntgzGN96xpouP9ry) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Elliot Greer Presents: Barebones I](https://open.spotify.com/album/5jsVeQDD8XgW5hAEaBM9GA) | 3:22 |
+| 18 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
 | 19 | [To Whoever Has You Next](https://open.spotify.com/track/5kFyn9ADelkaJ7vO8aTxCU) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [To Whoever Has You Next](https://open.spotify.com/album/2m79RYJzEIhDWiPclcRle7) | 2:32 |
 | 20 | [Waterfall \(I Adore You\)](https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Waterfall \(I Adore You\)](https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9) | 4:52 |
 | 21 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 |
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 57 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
 | 58 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 |
 | 59 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 |
+| 60 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 |
 
-Snapshot ID: `NDg2NSwwODUwMzNiZDA0OTJjNTBjZGFkM2Y2MTY3ZGJhNjE3YWI2MmNjYTlj`
+Snapshot ID: `NDg3Niw4NDg5MGY0ZDM1MDBiOGI3NDhkMGJjNjQyYjQwOGUxMjhiOGNjMjA2`

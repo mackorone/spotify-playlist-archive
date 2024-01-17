@@ -1,580 +1,1213 @@
 {
-  "2022-05-30": 910,
-  "2022-05-31": 925,
-  "2022-06-01": 968,
-  "2022-06-02": 974,
-  "2022-06-03": 992,
-  "2022-06-04": 1010,
-  "2022-06-05": 1020,
-  "2022-06-06": 1040,
-  "2022-06-07": 1053,
-  "2022-06-08": 1074,
-  "2022-06-09": 1084,
-  "2022-06-10": 1092,
-  "2022-06-11": 1102,
-  "2022-06-12": 1108,
-  "2022-06-13": 1121,
-  "2022-06-14": 1130,
-  "2022-06-15": 1142,
-  "2022-06-16": 1149,
-  "2022-06-17": 1157,
-  "2022-06-18": 1164,
-  "2022-06-19": 1184,
-  "2022-06-20": 1184,
-  "2022-06-21": 1193,
-  "2022-06-22": 1223,
-  "2022-06-23": 1223,
-  "2022-06-24": 1235,
-  "2022-06-25": 1235,
-  "2022-06-26": 1249,
-  "2022-06-27": 1259,
-  "2022-06-28": 1271,
-  "2022-06-29": 1282,
-  "2022-06-30": 1293,
-  "2022-07-01": 1306,
-  "2022-07-02": 1314,
-  "2022-07-03": 1327,
-  "2022-07-04": 1340,
-  "2022-07-05": 1353,
-  "2022-07-06": 1361,
-  "2022-07-07": 1368,
-  "2022-07-08": 1379,
-  "2022-07-09": 1387,
-  "2022-07-10": 1391,
-  "2022-07-11": 1403,
-  "2022-07-12": 1413,
-  "2022-07-13": 1420,
-  "2022-07-14": 1427,
-  "2022-07-15": 1433,
-  "2022-07-16": 1438,
-  "2022-07-17": 1445,
-  "2022-07-18": 1458,
-  "2022-07-19": 1466,
-  "2022-07-20": 1473,
-  "2022-07-21": 1484,
-  "2022-07-22": 1491,
-  "2022-07-23": 1499,
-  "2022-07-24": 1503,
-  "2022-07-25": 1504,
-  "2022-07-26": 1510,
-  "2022-07-27": 1515,
-  "2022-07-28": 1519,
-  "2022-07-29": 1521,
-  "2022-07-30": 1533,
-  "2022-07-31": 1533,
-  "2022-08-01": 1533,
-  "2022-08-02": 1546,
-  "2022-08-03": 1546,
-  "2022-08-04": 1552,
-  "2022-08-05": 1555,
-  "2022-08-06": 1562,
-  "2022-08-07": 1567,
-  "2022-08-08": 1572,
-  "2022-08-09": 1578,
-  "2022-08-10": 1582,
-  "2022-08-11": 1584,
-  "2022-08-12": 1594,
-  "2022-08-13": 1601,
-  "2022-08-14": 1604,
-  "2022-08-15": 1607,
-  "2022-08-16": 1608,
-  "2022-08-17": 1611,
-  "2022-08-18": 1616,
-  "2022-08-19": 1619,
-  "2022-08-20": 1622,
-  "2022-08-21": 1631,
-  "2022-08-22": 1633,
-  "2022-08-23": 1641,
-  "2022-08-24": 1645,
-  "2022-08-25": 1650,
-  "2022-08-26": 1652,
-  "2022-08-27": 1660,
-  "2022-08-28": 1662,
-  "2022-08-29": 1664,
-  "2022-08-30": 1663,
-  "2022-08-31": 1666,
-  "2022-09-01": 1673,
-  "2022-09-02": 1675,
-  "2022-09-03": 1677,
-  "2022-09-04": 1688,
-  "2022-09-05": 1697,
-  "2022-09-06": 1711,
-  "2022-09-07": 1717,
-  "2022-09-09": 1740,
-  "2022-09-10": 1750,
-  "2022-09-11": 1767,
-  "2022-09-12": 1783,
-  "2022-09-13": 1802,
-  "2022-09-15": 1828,
-  "2022-09-16": 1834,
-  "2022-09-17": 1843,
-  "2022-09-18": 1862,
-  "2022-09-19": 1863,
-  "2022-09-20": 1874,
-  "2022-09-21": 1882,
-  "2022-09-22": 1889,
-  "2022-09-23": 1901,
-  "2022-09-24": 1912,
-  "2022-09-25": 1923,
-  "2022-09-26": 1930,
-  "2022-09-27": 1938,
-  "2022-09-28": 1953,
-  "2022-09-29": 1960,
-  "2022-09-30": 1962,
-  "2022-10-01": 1978,
-  "2022-10-02": 1984,
-  "2022-10-03": 1996,
-  "2022-10-04": 2002,
-  "2022-10-05": 2011,
-  "2022-10-06": 2026,
-  "2022-10-07": 2032,
-  "2022-10-08": 2033,
-  "2022-10-09": 2044,
-  "2022-10-10": 2044,
-  "2022-10-11": 2051,
-  "2022-10-12": 2061,
-  "2022-10-13": 2067,
-  "2022-10-14": 2070,
-  "2022-10-15": 2087,
-  "2022-10-16": 2103,
-  "2022-10-17": 2117,
-  "2022-10-18": 2128,
-  "2022-10-19": 2141,
-  "2022-10-20": 2159,
-  "2022-10-21": 2172,
-  "2022-10-22": 2184,
-  "2022-10-23": 2193,
-  "2022-10-24": 2209,
-  "2022-10-25": 2213,
-  "2022-10-26": 2230,
-  "2022-10-27": 2243,
-  "2022-10-28": 2254,
-  "2022-10-29": 2266,
-  "2022-10-30": 2276,
-  "2022-10-31": 2285,
-  "2022-11-01": 2294,
-  "2022-11-02": 2310,
-  "2022-11-03": 2319,
-  "2022-11-04": 2324,
-  "2022-11-05": 2335,
-  "2022-11-06": 2340,
-  "2022-11-07": 2355,
-  "2022-11-08": 2368,
-  "2022-11-09": 2378,
-  "2022-11-10": 2387,
-  "2022-11-11": 2404,
-  "2022-11-12": 2415,
-  "2022-11-13": 2420,
-  "2022-11-14": 2434,
-  "2022-11-15": 2445,
-  "2022-11-16": 2460,
-  "2022-11-17": 2473,
-  "2022-11-18": 2476,
-  "2022-11-19": 2474,
-  "2022-11-20": 2498,
-  "2022-11-21": 2496,
-  "2022-11-22": 2520,
-  "2022-11-23": 2518,
-  "2022-11-24": 2584,
-  "2022-11-25": 2674,
-  "2022-11-26": 2760,
-  "2022-11-27": 2862,
-  "2022-11-28": 2995,
-  "2022-11-29": 3138,
-  "2022-11-30": 3248,
-  "2022-12-01": 3447,
-  "2022-12-02": 3518,
-  "2022-12-03": 3661,
-  "2022-12-04": 3738,
-  "2022-12-05": 3834,
-  "2022-12-06": 3889,
-  "2022-12-07": 3937,
-  "2022-12-08": 3981,
-  "2022-12-09": 4019,
-  "2022-12-10": 4068,
-  "2022-12-11": 4136,
-  "2022-12-12": 4187,
-  "2022-12-13": 4237,
-  "2022-12-14": 4291,
-  "2022-12-15": 4348,
-  "2022-12-16": 4394,
-  "2022-12-17": 4444,
-  "2022-12-18": 4512,
-  "2022-12-19": 4574,
-  "2022-12-20": 4649,
-  "2022-12-21": 4649,
-  "2022-12-22": 4694,
-  "2022-12-24": 4754,
-  "2022-12-25": 4787,
-  "2022-12-26": 4825,
-  "2022-12-27": 4856,
-  "2022-12-28": 4883,
-  "2022-12-29": 4921,
-  "2022-12-30": 4959,
-  "2022-12-31": 4985,
-  "2023-01-01": 5019,
-  "2023-01-02": 5059,
-  "2023-01-03": 5092,
-  "2023-01-04": 5123,
-  "2023-01-05": 5160,
-  "2023-01-06": 5208,
-  "2023-01-07": 5259,
-  "2023-01-08": 5269,
-  "2023-01-09": 5307,
-  "2023-01-10": 5326,
-  "2023-01-11": 5360,
-  "2023-01-12": 5386,
-  "2023-01-13": 5417,
-  "2023-01-14": 5481,
-  "2023-01-15": 5495,
-  "2023-01-16": 5526,
-  "2023-01-17": 5555,
-  "2023-01-18": 5583,
-  "2023-01-19": 5603,
-  "2023-01-20": 5626,
-  "2023-01-21": 5656,
-  "2023-01-22": 5697,
-  "2023-01-23": 5749,
-  "2023-01-24": 5792,
-  "2023-01-25": 5818,
-  "2023-01-26": 5840,
-  "2023-01-27": 5874,
-  "2023-01-28": 5901,
-  "2023-01-29": 5933,
-  "2023-01-30": 5966,
-  "2023-01-31": 5966,
-  "2023-02-01": 6011,
-  "2023-02-02": 6040,
-  "2023-02-03": 6067,
-  "2023-02-04": 6091,
-  "2023-02-05": 6134,
-  "2023-02-06": 6159,
-  "2023-02-07": 6182,
-  "2023-02-08": 6241,
-  "2023-02-09": 6241,
-  "2023-02-10": 6264,
-  "2023-02-11": 6296,
-  "2023-02-12": 6659,
-  "2023-02-13": 6833,
-  "2023-02-14": 6833,
-  "2023-02-15": 7024,
-  "2023-02-16": 7200,
-  "2023-02-17": 7413,
-  "2023-02-18": 7911,
-  "2023-02-19": 7954,
-  "2023-02-20": 8179,
-  "2023-02-21": 8389,
-  "2023-02-22": 8558,
-  "2023-02-23": 8739,
-  "2023-02-24": 8876,
-  "2023-02-25": 9119,
-  "2023-02-26": 9275,
-  "2023-02-27": 9633,
-  "2023-02-28": 9633,
-  "2023-03-01": 9748,
-  "2023-03-02": 9889,
-  "2023-03-03": 10083,
-  "2023-03-04": 10249,
-  "2023-03-05": 10643,
-  "2023-03-06": 10643,
-  "2023-03-07": 10795,
-  "2023-03-08": 10921,
-  "2023-03-09": 11084,
-  "2023-03-10": 11260,
-  "2023-03-11": 11432,
-  "2023-03-12": 11806,
-  "2023-03-13": 12053,
-  "2023-03-14": 12216,
-  "2023-03-15": 12470,
-  "2023-03-16": 12644,
-  "2023-03-17": 12644,
-  "2023-03-18": 13071,
-  "2023-03-19": 13344,
-  "2023-03-20": 13551,
-  "2023-03-21": 13713,
-  "2023-03-22": 13900,
-  "2023-03-23": 14066,
-  "2023-03-24": 14066,
-  "2023-03-25": 14405,
-  "2023-03-26": 14666,
-  "2023-03-27": 14980,
-  "2023-03-28": 15228,
-  "2023-03-29": 15428,
-  "2023-03-30": 15762,
-  "2023-03-31": 15762,
-  "2023-04-01": 15918,
-  "2023-04-02": 16192,
-  "2023-04-03": 16422,
-  "2023-04-04": 16602,
-  "2023-04-05": 16829,
-  "2023-04-06": 16983,
-  "2023-04-07": 17158,
-  "2023-04-09": 17544,
-  "2023-04-10": 17712,
-  "2023-04-11": 18010,
-  "2023-04-12": 18010,
-  "2023-04-13": 18150,
-  "2023-04-14": 18287,
-  "2023-04-15": 18415,
-  "2023-04-16": 18579,
-  "2023-04-17": 18749,
-  "2023-04-18": 18882,
-  "2023-04-19": 18991,
-  "2023-04-20": 19105,
-  "2023-04-21": 19245,
-  "2023-04-22": 19351,
-  "2023-04-23": 19474,
-  "2023-04-24": 19600,
-  "2023-04-25": 19694,
-  "2023-04-26": 19801,
-  "2023-04-27": 19924,
-  "2023-04-28": 20030,
-  "2023-04-29": 20145,
-  "2023-04-30": 20254,
-  "2023-05-01": 20386,
-  "2023-05-02": 20559,
-  "2023-05-03": 20670,
-  "2023-05-04": 20776,
-  "2023-05-05": 20866,
-  "2023-05-06": 20984,
-  "2023-05-07": 21091,
-  "2023-05-08": 21202,
-  "2023-05-09": 21299,
-  "2023-05-10": 21405,
-  "2023-05-11": 21498,
-  "2023-05-12": 21606,
-  "2023-05-13": 21720,
-  "2023-05-14": 21848,
-  "2023-05-15": 21962,
-  "2023-05-16": 22067,
-  "2023-05-17": 22153,
-  "2023-05-18": 22261,
-  "2023-05-19": 22350,
-  "2023-05-20": 22587,
-  "2023-05-21": 22587,
-  "2023-05-22": 22587,
-  "2023-05-23": 22790,
-  "2023-05-24": 22945,
-  "2023-05-25": 22969,
-  "2023-05-26": 23049,
-  "2023-05-27": 23127,
-  "2023-05-28": 23233,
-  "2023-05-29": 23233,
-  "2023-05-30": 23453,
-  "2023-05-31": 23518,
-  "2023-06-01": 23610,
-  "2023-06-02": 23708,
-  "2023-06-03": 23789,
-  "2023-06-04": 23885,
-  "2023-06-05": 23981,
-  "2023-06-06": 24069,
-  "2023-06-07": 24161,
-  "2023-06-08": 24253,
-  "2023-06-09": 24341,
-  "2023-06-10": 24437,
-  "2023-06-11": 24560,
-  "2023-06-12": 24647,
-  "2023-06-13": 24743,
-  "2023-06-14": 24830,
-  "2023-06-15": 24917,
-  "2023-06-16": 24999,
-  "2023-06-17": 25089,
-  "2023-06-18": 25197,
-  "2023-06-19": 25268,
-  "2023-06-20": 25361,
-  "2023-06-21": 25434,
-  "2023-06-22": 25522,
-  "2023-06-23": 25611,
-  "2023-06-24": 25696,
-  "2023-06-25": 25802,
-  "2023-06-26": 25890,
-  "2023-06-27": 25984,
-  "2023-06-28": 26078,
-  "2023-06-29": 26163,
-  "2023-06-30": 26266,
-  "2023-07-01": 26414,
-  "2023-07-02": 26414,
-  "2023-07-03": 26525,
-  "2023-07-04": 26626,
-  "2023-07-05": 26734,
-  "2023-07-06": 26918,
-  "2023-07-07": 26918,
-  "2023-07-08": 27010,
-  "2023-07-09": 27107,
-  "2023-07-10": 27190,
-  "2023-07-11": 27267,
-  "2023-07-12": 27335,
-  "2023-07-13": 27447,
-  "2023-07-14": 27549,
-  "2023-07-15": 27617,
-  "2023-07-16": 27737,
-  "2023-07-17": 27836,
-  "2023-07-18": 27936,
-  "2023-07-19": 28029,
-  "2023-07-20": 28103,
-  "2023-07-21": 28185,
-  "2023-07-22": 28264,
-  "2023-07-23": 28359,
-  "2023-07-24": 28457,
-  "2023-07-25": 28559,
-  "2023-07-26": 28643,
-  "2023-07-27": 28751,
-  "2023-07-28": 28849,
-  "2023-07-29": 28944,
-  "2023-07-30": 29032,
-  "2023-07-31": 29126,
-  "2023-08-01": 29189,
-  "2023-08-02": 29260,
-  "2023-08-03": 29348,
-  "2023-08-04": 29440,
-  "2023-08-05": 29559,
-  "2023-08-06": 29704,
-  "2023-08-07": 29704,
-  "2023-08-08": 29790,
-  "2023-08-09": 29888,
-  "2023-08-10": 29961,
-  "2023-08-11": 30035,
-  "2023-08-12": 30119,
-  "2023-08-13": 30224,
-  "2023-08-14": 30330,
-  "2023-08-15": 30498,
-  "2023-08-16": 30498,
-  "2023-08-17": 30578,
-  "2023-08-18": 30652,
-  "2023-08-19": 30704,
-  "2023-08-20": 30787,
-  "2023-08-21": 30880,
-  "2023-08-22": 30963,
-  "2023-08-23": 31040,
-  "2023-08-24": 31110,
-  "2023-08-25": 31181,
-  "2023-08-26": 31278,
-  "2023-08-27": 31387,
-  "2023-08-28": 31459,
-  "2023-08-29": 31539,
-  "2023-08-30": 31631,
-  "2023-08-31": 31701,
-  "2023-09-01": 31819,
-  "2023-09-02": 31819,
-  "2023-09-03": 31859,
-  "2023-09-04": 31923,
-  "2023-09-05": 31977,
-  "2023-09-06": 32025,
-  "2023-09-07": 32068,
-  "2023-09-08": 32118,
-  "2023-09-09": 32163,
-  "2023-09-10": 32226,
-  "2023-09-11": 32290,
-  "2023-09-12": 32333,
-  "2023-09-13": 32403,
-  "2023-09-14": 32436,
-  "2023-09-15": 32500,
-  "2023-09-16": 32563,
-  "2023-09-17": 32625,
-  "2023-09-18": 32698,
-  "2023-09-19": 32815,
-  "2023-09-20": 32860,
-  "2023-09-21": 32916,
-  "2023-09-22": 32975,
-  "2023-09-23": 33031,
-  "2023-09-24": 33095,
-  "2023-09-25": 33170,
-  "2023-09-26": 33258,
-  "2023-09-27": 33297,
-  "2023-09-28": 33343,
-  "2023-09-29": 33399,
-  "2023-09-30": 33452,
-  "2023-10-01": 33512,
-  "2023-10-02": 33584,
-  "2023-10-03": 33649,
-  "2023-10-04": 33716,
-  "2023-10-05": 33767,
-  "2023-10-06": 33849,
-  "2023-10-07": 33931,
-  "2023-10-08": 34007,
-  "2023-10-09": 34094,
-  "2023-10-10": 34170,
-  "2023-10-11": 34310,
-  "2023-10-12": 34310,
-  "2023-10-13": 34374,
-  "2023-10-14": 34466,
-  "2023-10-15": 34578,
-  "2023-10-16": 34662,
-  "2023-10-17": 34765,
-  "2023-10-18": 34931,
-  "2023-10-19": 35113,
-  "2023-10-20": 35269,
-  "2023-10-21": 35407,
-  "2023-10-22": 35540,
-  "2023-10-23": 35685,
-  "2023-10-24": 35796,
-  "2023-10-25": 35911,
-  "2023-10-26": 36019,
-  "2023-10-27": 36160,
-  "2023-10-28": 36304,
-  "2023-10-29": 36506,
-  "2023-10-30": 36802,
-  "2023-10-31": 36802,
-  "2023-11-01": 37073,
-  "2023-11-02": 37190,
-  "2023-11-03": 37263,
-  "2023-11-04": 37361,
-  "2023-11-05": 37479,
-  "2023-11-06": 37570,
-  "2023-11-07": 37631,
-  "2023-11-08": 37700,
-  "2023-11-09": 37768,
-  "2023-11-10": 37827,
-  "2023-11-11": 37889,
-  "2023-11-12": 37946,
-  "2023-11-13": 38009,
-  "2023-11-14": 38057,
-  "2023-11-15": 38057,
-  "2023-11-16": 38134,
-  "2023-11-17": 38242,
-  "2023-11-18": 38242,
-  "2023-11-19": 38310,
-  "2023-11-20": 38347,
-  "2023-11-21": 38386,
-  "2023-11-22": 38445,
-  "2023-11-23": 38483,
-  "2023-11-24": 38537,
-  "2023-11-25": 38585,
-  "2023-11-26": 38623,
-  "2023-11-27": 38670,
-  "2023-11-28": 38719,
-  "2023-11-29": 38798,
-  "2023-11-30": 38798,
-  "2023-12-01": 38821,
-  "2023-12-02": 38860,
-  "2023-12-03": 38907,
-  "2023-12-04": 38956,
-  "2023-12-05": 39001,
-  "2023-12-06": 39017,
-  "2023-12-07": 39046,
-  "2023-12-08": 39080,
-  "2023-12-09": 39137,
-  "2023-12-10": 39195,
-  "2023-12-11": 39246,
-  "2023-12-12": 39295,
-  "2023-12-13": 39336,
-  "2023-12-14": 39392,
-  "2023-12-15": 39426,
-  "2023-12-16": 39459,
-  "2023-12-17": 39514,
-  "2023-12-18": 39551,
-  "2023-12-19": 39592,
-  "2023-12-20": 39621,
-  "2023-12-21": 39662,
-  "2023-12-22": 39715,
-  "2023-12-23": 39749,
-  "2023-12-24": 39809,
-  "2023-12-25": 39856,
-  "2023-12-26": 39894,
-  "2023-12-27": 39957,
-  "2023-12-30": 40112,
-  "2023-12-31": 40163,
-  "2024-01-01": 40214,
-  "2024-01-02": 40258,
-  "2024-01-03": 40300
+  "2024-01-17": 40950,
+  "date_first_scraped": "2022-05-30",
+  "description": "Spooky sounds from your favorite horror features on Netflix. Cover: Wednesday ",
+  "name": "Netflix & Chills",
+  "tracks": [
+    {
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG"
+      },
+      "artists": [
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206893,
+      "name": "BITE ME",
+      "url": "https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133969,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/2j3AxSNEKWp1ktrGXMuSXR"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 133969,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/72ISUKaNTtKBYFcKaNDPag"
+    },
+    {
+      "album": {
+        "name": "Night Teeth (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/46QJ2ICowvdJWow92QA8cd"
+      },
+      "artists": [
+        {
+          "name": "The Kid Daytona",
+          "url": "https://open.spotify.com/artist/1U77TS18o4qUO3bwq0pbcM"
+        },
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/0bhPk5CgDr787krAWB8CEO"
+        },
+        {
+          "name": "Jorge Lendeborg, Jr.",
+          "url": "https://open.spotify.com/artist/7eK8RcE6MRYbvAJ2vPqTfu"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223594,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/2kaV58AgrLYlIklyi6Y3dt"
+    },
+    {
+      "album": {
+        "name": "Midnight Mass: S1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1puNvUGLRgSjRO4OClq66I"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 254179,
+      "name": "Come, Darkness",
+      "url": "https://open.spotify.com/track/41fk5AVSD6KSE4Zr2UTl8m"
+    },
+    {
+      "album": {
+        "name": "Midnight Mass: S1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0U3MqHjDSol66lKrSKcwVK"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254179,
+      "name": "Come, Darkness",
+      "url": "https://open.spotify.com/track/5r2JA0GXmQcGAcbmEmvrE2"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 256621,
+      "name": "Cry Little Sister",
+      "url": "https://open.spotify.com/track/3FgmRSXJrHXoECwBgf2qXM"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256621,
+      "name": "Cry Little Sister (Music from the Netflix Film \"Nightbooks\")",
+      "url": "https://open.spotify.com/track/1ryuYNduPHlK7XGtIoSdDJ"
+    },
+    {
+      "album": {
+        "name": "Fear Street Part Three: 1666 (Music from the Netflix Trilogy)",
+        "url": "https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz"
+      },
+      "artists": [
+        {
+          "name": "Marco Beltrami",
+          "url": "https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i"
+        },
+        {
+          "name": "Anna Drubich",
+          "url": "https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150720,
+      "name": "Devil's Book",
+      "url": "https://open.spotify.com/track/4pommbixAqdhdME3eEzeTr"
+    },
+    {
+      "album": {
+        "name": "Do As You're Told (Music from the Netflix Film \"A Babysitter's Guide to Monster Hunting\")",
+        "url": "https://open.spotify.com/album/6SGqaQcJD2HXZcok7bC1Km"
+      },
+      "artists": [
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Do As You're Told (Music from the Netflix Film \"A Babysitter's Guide to Monster Hunting\")",
+      "url": "https://open.spotify.com/track/6mlhUMCssHfg3k7johV45r"
+    },
+    {
+      "album": {
+        "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
+        "url": "https://open.spotify.com/album/1IHrpPROMXGwIryFdC93sN"
+      },
+      "artists": [
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 169506,
+      "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
+      "url": "https://open.spotify.com/track/28qQYsp1hPSe0FkvygCiyt"
+    },
+    {
+      "album": {
+        "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
+        "url": "https://open.spotify.com/album/5KYAFaZYTJygT3fDNswDp3"
+      },
+      "artists": [
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169506,
+      "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
+      "url": "https://open.spotify.com/track/31mIUfv7vmIhSoD5krSCUZ"
+    },
+    {
+      "album": {
+        "name": "No One Gets Out Alive (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7yWKI7rz3Yz7JkyDSz8Woy"
+      },
+      "artists": [
+        {
+          "name": "Mark Korven",
+          "url": "https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199498,
+      "name": "Dragging Her to Hell",
+      "url": "https://open.spotify.com/track/5mCfF0BPG9tlOiSwJxOiy2"
+    },
+    {
+      "album": {
+        "name": "No One Gets Out Alive (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1FQ0xeAThHmRWGTxzBBgVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Korven",
+          "url": "https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 199498,
+      "name": "Dragging Her to Hell",
+      "url": "https://open.spotify.com/track/7cw2VGEHPhItqrfBRuPFdb"
+    },
+    {
+      "album": {
+        "name": "There's Someone Inside Your House (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5hDQs95Btp56nOGMWV099y"
+      },
+      "artists": [
+        {
+          "name": "Zachary Dawes",
+          "url": "https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54379,
+      "name": "Drive Through the Corn Maze",
+      "url": "https://open.spotify.com/track/579f5PTnQL6wrIDep9zZB5"
+    },
+    {
+      "album": {
+        "name": "There's Someone Inside Your House (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4LDXtYA4wQhjS33Xiw9Bfs"
+      },
+      "artists": [
+        {
+          "name": "Zachary Dawes",
+          "url": "https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 54379,
+      "name": "Drive Through the Corn Maze",
+      "url": "https://open.spotify.com/track/6m93Wwg3HWM2SfT3KqlQ7l"
+    },
+    {
+      "album": {
+        "name": "Texas Chainsaw Massacre (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5vbAIkPHM50aGUu41htjH2"
+      },
+      "artists": [
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Every Last One",
+      "url": "https://open.spotify.com/track/4SrGE4MTjtR82EoioekkJ4"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438120,
+      "name": "Fear of the Dark (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 438120,
+      "name": "Fear of the Dark - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq"
+    },
+    {
+      "album": {
+        "name": "The Fat of the Land",
+        "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279800,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"
+    },
+    {
+      "album": {
+        "name": "The Haunting of Hill House (Music from the Netflix Horror Series)",
+        "url": "https://open.spotify.com/album/0YaL8yncru0Wo7HufZqjDd"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157986,
+      "name": "Go Tomorrow",
+      "url": "https://open.spotify.com/track/4gBHzGriOL9bhAH5H5TcvI"
+    },
+    {
+      "album": {
+        "name": "S16",
+        "url": "https://open.spotify.com/album/70CSmAPltPQxbGksAEZlgQ"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230826,
+      "name": "Goliath",
+      "url": "https://open.spotify.com/track/3TdQ399gmy71IUdz3DoaO4"
+    },
+    {
+      "album": {
+        "name": "Fear Street Part Two: 1978 (Music from the Netflix Trilogy)",
+        "url": "https://open.spotify.com/album/3raKbOorwWzqQyW71579NM"
+      },
+      "artists": [
+        {
+          "name": "Marco Beltrami",
+          "url": "https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i"
+        },
+        {
+          "name": "Brandon Roberts",
+          "url": "https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71338,
+      "name": "Heart of Darkness",
+      "url": "https://open.spotify.com/track/7tKATv1QDnRDXjgA6fiqTi"
+    },
+    {
+      "album": {
+        "name": "Squid Game (Original Soundtrack from The Netflix Series)",
+        "url": "https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142686,
+      "name": "Hostage Crisis",
+      "url": "https://open.spotify.com/track/3RbI5JNk19sSytyXQDzvI9"
+    },
+    {
+      "album": {
+        "name": "There's Someone Inside Your House (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4LDXtYA4wQhjS33Xiw9Bfs"
+      },
+      "artists": [
+        {
+          "name": "Zachary Dawes",
+          "url": "https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 50928,
+      "name": "Kill Party",
+      "url": "https://open.spotify.com/track/1wkYDg8BUgjSwdvQVpA6Tw"
+    },
+    {
+      "album": {
+        "name": "There's Someone Inside Your House (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5hDQs95Btp56nOGMWV099y"
+      },
+      "artists": [
+        {
+          "name": "Zachary Dawes",
+          "url": "https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50928,
+      "name": "Kill Party",
+      "url": "https://open.spotify.com/track/76r9tesmwZzwJWl3UzZaWU"
+    },
+    {
+      "album": {
+        "name": "Devil in Ohio (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5Gol9mxUCltXsbjADNh4U1"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193892,
+      "name": "Lessons of the Fire (from the Netflix Series \"Devil In Ohio\")",
+      "url": "https://open.spotify.com/track/2z8NOEUtfyV4chIbngXYDi"
+    },
+    {
+      "album": {
+        "name": "Devil in Ohio (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 193892,
+      "name": "Lessons of the Fire (from the Netflix Series \"Devil In Ohio\")",
+      "url": "https://open.spotify.com/track/7uCoscfmQbuG1NBfyeaYvy"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6nHxZpPXe4ODH5DbwzDouz"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142944,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1YNt8zvYiVPIdqL1YCDPAc"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 142944,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/3IcAhCG7vhl5d1hIABoiyF"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142944,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4BxIJSZ9HlozFVCSUvjqpX"
+    },
+    {
+      "album": {
+        "name": "Locke & Key: S2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/29hdImH5Ts5yTf9ICOkkWt"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 64398,
+      "name": "Locke & Key - Main Titles",
+      "url": "https://open.spotify.com/track/1L7Own1m9dTiwXr0pcdVl1"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 64398,
+      "name": "Locke & Key - Main Titles",
+      "url": "https://open.spotify.com/track/1Zjd1tlVgJQqauMsiyk3an"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6nHxZpPXe4ODH5DbwzDouz"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64398,
+      "name": "Locke & Key - Main Titles",
+      "url": "https://open.spotify.com/track/1aPJ6S2VVLhUsAk9TIPuBp"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 64398,
+      "name": "Locke & Key - Main Titles",
+      "url": "https://open.spotify.com/track/5c9Qhu3OKFm8hN2iOON1cG"
+    },
+    {
+      "album": {
+        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96506,
+      "name": "Looking for a Way Out",
+      "url": "https://open.spotify.com/track/1yFypxjZLnu1ERv7kH5LFH"
+    },
+    {
+      "album": {
+        "name": "Fear Street Part One: 1994 (Music from the Netflix Trilogy)",
+        "url": "https://open.spotify.com/album/14lDfNBwgsWmU50wBXgeTM"
+      },
+      "artists": [
+        {
+          "name": "Marco Beltrami",
+          "url": "https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i"
+        },
+        {
+          "name": "Marcus Trumpp",
+          "url": "https://open.spotify.com/artist/1O20rSPKDFrFpebGumaJ4k"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127701,
+      "name": "Main Titles",
+      "url": "https://open.spotify.com/track/2JLs1ZuQ6htOgUdbPkG6X6"
+    },
+    {
+      "album": {
+        "name": "Resident Evil (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4yFA6UYsl2PnSC8vHs35Cx"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289653,
+      "name": "My Heart Has Teeth (feat. Skylar Grey)",
+      "url": "https://open.spotify.com/track/5zIgxHl35DFqbWvUgr70tn"
+    },
+    {
+      "album": {
+        "name": "Parallel Lines",
+        "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217364,
+      "name": "One Way Or Another",
+      "url": "https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK"
+    },
+    {
+      "album": {
+        "name": "Squid Game (Original Soundtrack from The Netflix Series)",
+        "url": "https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38487,
+      "name": "Pink Soldiers",
+      "url": "https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59"
+    },
+    {
+      "album": {
+        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 79773,
+      "name": "Planck's Constant",
+      "url": "https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM"
+    },
+    {
+      "album": {
+        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79773,
+      "name": "Planck's Constant",
+      "url": "https://open.spotify.com/track/6WuFaFnm8gMsz0yakLYNUE"
+    },
+    {
+      "album": {
+        "name": "Fear Street Part Three: 1666 (Music from the Netflix Trilogy)",
+        "url": "https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz"
+      },
+      "artists": [
+        {
+          "name": "Marco Beltrami",
+          "url": "https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i"
+        },
+        {
+          "name": "Anna Drubich",
+          "url": "https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75114,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5CqtCYt0pFAS5H2hS0hNJW"
+    },
+    {
+      "album": {
+        "name": "Straight To Hell (from Netflix's \"Chilling Adventures of Sabrina\u201d)",
+        "url": "https://open.spotify.com/album/7DgtPlDBL8ZycaSWC75eGz"
+      },
+      "artists": [
+        {
+          "name": "LVCRFT",
+          "url": "https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T"
+        },
+        {
+          "name": "Sabrina Spellman",
+          "url": "https://open.spotify.com/artist/040ydyDkutRTUunNufxr5T"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 160416,
+      "name": "Straight To Hell (from Netflix's \"Chilling Adventures of Sabrina\u201d)",
+      "url": "https://open.spotify.com/track/3TsnZQm78Idawqs1KtOas4"
+    },
+    {
+      "album": {
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67520,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf"
+    },
+    {
+      "album": {
+        "name": "Texas Chainsaw Massacre (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5vbAIkPHM50aGUu41htjH2"
+      },
+      "artists": [
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0ATEEf6nfgpLXRKN9ETxnB"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200638,
+      "name": "The Gingerbread House",
+      "url": "https://open.spotify.com/track/64lmmA3uSfoB1j4lKQkVxI"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 200638,
+      "name": "The Gingerbread House",
+      "url": "https://open.spotify.com/track/777eYSMUhhu2Uh3eK6WTL5"
+    },
+    {
+      "album": {
+        "name": "The Haunting of Bly Manor (Music from the Netflix Horror Series)",
+        "url": "https://open.spotify.com/album/3Aszp8uII3RV05ZZJ7mpBo"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66972,
+      "name": "The Haunting of Bly Manor (Main Titles)",
+      "url": "https://open.spotify.com/track/6yqZjufKRD1pgfppmVeMv1"
+    },
+    {
+      "album": {
+        "name": "The Haunting of Hill House (Music from the Netflix Horror Series)",
+        "url": "https://open.spotify.com/album/0YaL8yncru0Wo7HufZqjDd"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66333,
+      "name": "The Haunting of Hill House (Main Titles)",
+      "url": "https://open.spotify.com/track/772wRzI6VkJmYYX6UDsN7k"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 128479,
+      "name": "The Library",
+      "url": "https://open.spotify.com/track/2kti2tHhcPuCL54BAz4Cf3"
+    },
+    {
+      "album": {
+        "name": "Nightbooks (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2dWBPN1RqiDh0romTnEzoQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128479,
+      "name": "The Library",
+      "url": "https://open.spotify.com/track/4eGgGe5ZjdGDnYbmOJ1FSD"
+    },
+    {
+      "album": {
+        "name": "Midnight Mass: S1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1puNvUGLRgSjRO4OClq66I"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 189259,
+      "name": "The Power of Faith",
+      "url": "https://open.spotify.com/track/4cp0O3Syex3xyjj8vFZU1O"
+    },
+    {
+      "album": {
+        "name": "Midnight Mass: S1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0U3MqHjDSol66lKrSKcwVK"
+      },
+      "artists": [
+        {
+          "name": "The Newton Brothers",
+          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189259,
+      "name": "The Power of Faith",
+      "url": "https://open.spotify.com/track/57TrKA9KB5liuPLJCNcjHe"
+    },
+    {
+      "album": {
+        "name": "No One Gets Out Alive (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/7yWKI7rz3Yz7JkyDSz8Woy"
+      },
+      "artists": [
+        {
+          "name": "Mark Korven",
+          "url": "https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124055,
+      "name": "The Shower / The Dark",
+      "url": "https://open.spotify.com/track/10x4iora8uw38Q2wzn7R1W"
+    },
+    {
+      "album": {
+        "name": "No One Gets Out Alive (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1FQ0xeAThHmRWGTxzBBgVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Korven",
+          "url": "https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 124055,
+      "name": "The Shower / The Dark",
+      "url": "https://open.spotify.com/track/4hW8XfJxFUGeWXFhUPNz5S"
+    },
+    {
+      "album": {
+        "name": "Time of the Season",
+        "url": "https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 214026,
+      "name": "Time of the Season",
+      "url": "https://open.spotify.com/track/6im4Ks6SWUqwTGp7Cft1e7"
+    },
+    {
+      "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "album": {
+        "name": "Chilling Adventures of Sabrina: Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3ig71BXB7CSFeaM3nYbIAX"
+      },
+      "artists": [
+        {
+          "name": "Cast of Chilling Adventures of Sabrina",
+          "url": "https://open.spotify.com/artist/4Y43D0ynLoyZ3HxOPGxxFq"
+        },
+        {
+          "name": "Jaz Sinclair",
+          "url": "https://open.spotify.com/artist/1r1KZELI7St1vW7NAgdojS"
+        },
+        {
+          "name": "Jonathan Whitesell",
+          "url": "https://open.spotify.com/artist/4WyNg49cyglYzuxQDQDPxr"
+        },
+        {
+          "name": "Lachlan Watson",
+          "url": "https://open.spotify.com/artist/480ajAJgy6thXBJ3u9GPSC"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Time Warp (feat. Ross Lynch, Jaz Sinclair, Lachlan Watson & Jonathan Whitesell)",
+      "url": "https://open.spotify.com/track/6en12s2Ocdq3djFzddKnWT"
+    },
+    {
+      "album": {
+        "name": "Bird Box (Abridged) [Original Score]",
+        "url": "https://open.spotify.com/album/7i42GDZyq7HKW0kzW0djCW"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243083,
+      "name": "Undercurrents",
+      "url": "https://open.spotify.com/track/2YsL81CORA2J71h4Gh50Ow"
+    },
+    {
+      "album": {
+        "name": "Liebes Kind (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4D1pxDnypVfBMkBlz2rb9y"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123960,
+      "name": "Underneath",
+      "url": "https://open.spotify.com/track/2c6aqx1qoJYIy6jycbdQ9f"
+    },
+    {
+      "album": {
+        "name": "Wednesday (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69893,
+      "name": "Wednesday Main Titles",
+      "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "you should see me in a crown",
+      "url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3qlqnyl4p68"
 }

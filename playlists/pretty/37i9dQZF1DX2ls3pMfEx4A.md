@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,976 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,990 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 10 | [Pink Fluffy Unicorns Dancing On Rainbows](https://open.spotify.com/track/4Xn2RsLiDUDisOgJ24FigK) | [Songs To Wear Pants To](https://open.spotify.com/artist/0UizQYD2qphg8nfPOdeOdX) | [Corduroys, With Tassles](https://open.spotify.com/album/5LwQFB5zCZDbaMQ8f6uSZG) | 1:33 |
 | 11 | [PPAP \(Pen Pineapple Apple Pen\) \- Long Version](https://open.spotify.com/track/4bw49rU057FSUTpGF4pnxq) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [PPAP \(Pen Pineapple Apple Pen\) \[Long Version\]](https://open.spotify.com/album/0TTreMWrqyCSiKJrnLjvlE) | 2:04 |
 | 12 | [Raining Tacos](https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Parry Gripp Mega\-Party \(2008 \- 2012\)](https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW) | 1:32 |
-| 13 | [B\-I\-N\-G\-O](https://open.spotify.com/track/2q67HZ25Viu7m1wJM1AwkM) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Kids Morning Jams](https://open.spotify.com/album/5Gkg4FVFKZRAj7yfc0ANka) | 1:57 |
+| 13 | [B\-I\-N\-G\-O](https://open.spotify.com/track/2q67HZ25Viu7m1wJM1AwkM) | [Cooltime](https://open.spotify.com/artist/3Pz7ikGxe5TQMPq12seVjf) | [Kids Morning Jams](https://open.spotify.com/album/5Gkg4FVFKZRAj7yfc0ANka) | 1:57 |
 | 14 | [Gobble Gobble Burp \- Live](https://open.spotify.com/track/2X7EQQB0gafoVKDUMLiTjo) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa) | [Chowtown: Music With A Flair For Flavor](https://open.spotify.com/album/1KL7yu3pAhJBlbTHpybX6U) | 2:41 |
 | 15 | [Do the Robot](https://open.spotify.com/track/4c7XbTDN7eDaXHp9bXTYM3) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 2:48 |
 | 16 | [Fast Food Song](https://open.spotify.com/track/5fRAvz6qCeSKbAi4LELOor) | [Fast Food Rockers](https://open.spotify.com/artist/6Mz4vAfXG0tJgUcOQL6zy5) | [Fast Food Rockers](https://open.spotify.com/album/1uR1ZblxgSnQFnpzsLex1k) | 3:08 |

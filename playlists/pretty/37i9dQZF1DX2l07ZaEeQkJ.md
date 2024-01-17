@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 
 > otro año ya se ha ido, cuántas cosas han pasado 😪😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,013 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,016 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 | 33 | [La Mesa Del Rincón](https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:23 |
 | 34 | [No Porque Seas Tú](https://open.spotify.com/track/5zQGU44WYPkDvleG974Wwo) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Tributo Al Rey](https://open.spotify.com/album/7ajBJ1SNwTOWthmFJbJKfT) | 2:28 |
 | 35 | [En Eso No Quedamos](https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:57 |
-| 36 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/694CyIR0ghq9USCLU4F6sc) | [Chuy Vega](https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A) | [Puras de Juan Gabriel, vol\. 2](https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911) | 3:32 |
+| 36 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/694CyIR0ghq9USCLU4F6sc) | [Chuy Vega Y Los Nuevos Cadetes](https://open.spotify.com/artist/4z0bf5L3so06FIdkqprCnz) | [Puras de Juan Gabriel, vol\. 2](https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911) | 3:32 |
 | 37 | [No Vuelvo a Amar](https://open.spotify.com/track/46bZ5Qm0qKeI4lAgjOGMO7) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Monterrey Como Has Crecido](https://open.spotify.com/album/3eDCsh2PUHK7CDxtVsZpwk) | 3:14 |
 | 38 | [Cobardemente](https://open.spotify.com/track/4RZIcM350ojxE1p2FgFVmt) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:04 |
 | 39 | [Total Ya Se Fue](https://open.spotify.com/track/0Mps5Z6CN05QkPIzBoAqRM) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 | 79 | [Frío de Ausencia](https://open.spotify.com/track/4LvVnIfsV2A6pbc8HDgbkc) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Éxitos..](https://open.spotify.com/album/1ukRNJ1deHMIlBkquZ71i4) | 3:53 |
 | 80 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 |
 
-Snapshot ID: `MCwyYTdmMTEyMTNhMWU2MzdiYmQ5MTc1NGNkYWQzZDYzYTYwZDJkNTYz`
+Snapshot ID: `MCw4NmI2N2Q2NjU1YWI2NzJmZWZjMTBlNjBiMTA1MDEzZmU1ZjNkNjIz`

@@ -1,735 +1,1331 @@
 {
-  "2021-12-25": 168700,
-  "2021-12-26": 168734,
-  "2021-12-27": 168817,
-  "2021-12-28": 168817,
-  "2021-12-29": 168867,
-  "2021-12-30": 168917,
-  "2021-12-31": 168976,
-  "2022-01-01": 169101,
-  "2022-01-02": 169128,
-  "2022-01-03": 169201,
-  "2022-01-04": 169256,
-  "2022-01-05": 169312,
-  "2022-01-06": 169381,
-  "2022-01-07": 169455,
-  "2022-01-08": 169694,
-  "2022-01-09": 169692,
-  "2022-01-10": 169779,
-  "2022-01-11": 169847,
-  "2022-01-12": 169920,
-  "2022-01-13": 169995,
-  "2022-01-14": 170082,
-  "2022-01-15": 170270,
-  "2022-01-16": 170285,
-  "2022-01-17": 170507,
-  "2022-01-18": 170511,
-  "2022-01-19": 170562,
-  "2022-01-20": 170623,
-  "2022-01-21": 170719,
-  "2022-01-22": 170815,
-  "2022-01-23": 170967,
-  "2022-01-24": 171087,
-  "2022-01-25": 171167,
-  "2022-01-26": 171228,
-  "2022-01-27": 171326,
-  "2022-01-28": 171373,
-  "2022-01-29": 171490,
-  "2022-01-30": 171616,
-  "2022-01-31": 171716,
-  "2022-02-01": 171771,
-  "2022-02-02": 171826,
-  "2022-02-03": 171892,
-  "2022-02-04": 171949,
-  "2022-02-05": 172051,
-  "2022-02-06": 172139,
-  "2022-02-07": 172226,
-  "2022-02-08": 172292,
-  "2022-02-09": 172337,
-  "2022-02-10": 172397,
-  "2022-02-11": 172452,
-  "2022-02-12": 172531,
-  "2022-02-13": 172642,
-  "2022-02-14": 172727,
-  "2022-02-15": 172812,
-  "2022-02-16": 172861,
-  "2022-02-17": 172928,
-  "2022-02-18": 172995,
-  "2022-02-19": 173054,
-  "2022-02-20": 173193,
-  "2022-02-21": 173332,
-  "2022-02-22": 173449,
-  "2022-02-23": 173543,
-  "2022-02-24": 173638,
-  "2022-02-25": 173735,
-  "2022-02-26": 173841,
-  "2022-02-27": 174071,
-  "2022-02-28": 174071,
-  "2022-03-01": 174145,
-  "2022-03-02": 174205,
-  "2022-03-03": 174295,
-  "2022-03-04": 174383,
-  "2022-03-05": 174485,
-  "2022-03-06": 174592,
-  "2022-03-07": 174707,
-  "2022-03-08": 174796,
-  "2022-03-09": 174880,
-  "2022-03-10": 174978,
-  "2022-03-11": 175067,
-  "2022-03-12": 175150,
-  "2022-03-13": 175277,
-  "2022-03-14": 175386,
-  "2022-03-15": 175477,
-  "2022-03-16": 175534,
-  "2022-03-17": 175652,
-  "2022-03-18": 175753,
-  "2022-03-19": 175841,
-  "2022-03-20": 175841,
-  "2022-03-21": 176095,
-  "2022-03-22": 176145,
-  "2022-03-23": 176206,
-  "2022-03-24": 176283,
-  "2022-03-25": 176367,
-  "2022-03-26": 176461,
-  "2022-03-27": 176573,
-  "2022-03-28": 176650,
-  "2022-03-30": 176763,
-  "2022-03-31": 176845,
-  "2022-04-01": 176931,
-  "2022-04-02": 177023,
-  "2022-04-03": 177168,
-  "2022-04-04": 177288,
-  "2022-04-05": 177374,
-  "2022-04-06": 177481,
-  "2022-04-07": 177564,
-  "2022-04-08": 177618,
-  "2022-04-09": 177729,
-  "2022-04-10": 177989,
-  "2022-04-11": 178078,
-  "2022-04-12": 178088,
-  "2022-04-13": 178185,
-  "2022-04-14": 178263,
-  "2022-04-15": 178353,
-  "2022-04-16": 178484,
-  "2022-04-17": 178592,
-  "2022-04-18": 178728,
-  "2022-04-19": 178789,
-  "2022-04-20": 178883,
-  "2022-04-21": 178967,
-  "2022-04-22": 179047,
-  "2022-04-23": 179168,
-  "2022-04-24": 179303,
-  "2022-04-25": 179387,
-  "2022-04-26": 179489,
-  "2022-04-27": 179591,
-  "2022-04-28": 179692,
-  "2022-04-29": 179854,
-  "2022-04-30": 179987,
-  "2022-05-01": 180156,
-  "2022-05-02": 180156,
-  "2022-05-03": 180257,
-  "2022-05-04": 180354,
-  "2022-05-05": 180464,
-  "2022-05-06": 180549,
-  "2022-05-07": 180670,
-  "2022-05-08": 180887,
-  "2022-05-09": 180913,
-  "2022-05-10": 181021,
-  "2022-05-11": 181108,
-  "2022-05-12": 181185,
-  "2022-05-13": 181298,
-  "2022-05-14": 181406,
-  "2022-05-15": 181571,
-  "2022-05-16": 181712,
-  "2022-05-17": 181832,
-  "2022-05-18": 181948,
-  "2022-05-19": 182077,
-  "2022-05-20": 182181,
-  "2022-05-21": 182454,
-  "2022-05-22": 182454,
-  "2022-05-23": 182599,
-  "2022-05-24": 182703,
-  "2022-05-25": 182811,
-  "2022-05-26": 182923,
-  "2022-05-27": 183056,
-  "2022-05-28": 183173,
-  "2022-05-29": 183342,
-  "2022-05-30": 183460,
-  "2022-05-31": 183580,
-  "2022-06-01": 183767,
-  "2022-06-02": 183795,
-  "2022-06-03": 183910,
-  "2022-06-04": 184037,
-  "2022-06-05": 184221,
-  "2022-06-06": 184369,
-  "2022-06-07": 184487,
-  "2022-06-08": 184627,
-  "2022-06-09": 184709,
-  "2022-06-10": 184820,
-  "2022-06-11": 184945,
-  "2022-06-12": 185111,
-  "2022-06-13": 185245,
-  "2022-06-14": 185343,
-  "2022-06-15": 185457,
-  "2022-06-16": 185578,
-  "2022-06-17": 185682,
-  "2022-06-18": 185812,
-  "2022-06-19": 186120,
-  "2022-06-20": 186120,
-  "2022-06-21": 186236,
-  "2022-06-22": 186438,
-  "2022-06-23": 186438,
-  "2022-06-24": 186515,
-  "2022-06-25": 186642,
-  "2022-06-26": 186778,
-  "2022-06-27": 186920,
-  "2022-06-28": 186920,
-  "2022-06-29": 187136,
-  "2022-06-30": 187241,
-  "2022-07-01": 187344,
-  "2022-07-02": 187439,
-  "2022-07-03": 187557,
-  "2022-07-04": 187686,
-  "2022-07-05": 187790,
-  "2022-07-06": 187894,
-  "2022-07-07": 188017,
-  "2022-07-08": 188090,
-  "2022-07-09": 188200,
-  "2022-07-10": 188319,
-  "2022-07-11": 188463,
-  "2022-07-12": 188581,
-  "2022-07-13": 188698,
-  "2022-07-14": 188807,
-  "2022-07-15": 188908,
-  "2022-07-16": 189032,
-  "2022-07-17": 189173,
-  "2022-07-18": 189337,
-  "2022-07-19": 189463,
-  "2022-07-20": 189558,
-  "2022-07-21": 189653,
-  "2022-07-22": 189770,
-  "2022-07-23": 189915,
-  "2022-07-24": 190048,
-  "2022-07-25": 190180,
-  "2022-07-26": 190303,
-  "2022-07-27": 190417,
-  "2022-07-28": 190510,
-  "2022-07-29": 190644,
-  "2022-07-30": 190876,
-  "2022-07-31": 190876,
-  "2022-08-01": 191013,
-  "2022-08-02": 191231,
-  "2022-08-03": 191231,
-  "2022-08-04": 191332,
-  "2022-08-05": 191423,
-  "2022-08-06": 191549,
-  "2022-08-07": 191701,
-  "2022-08-08": 191823,
-  "2022-08-09": 191927,
-  "2022-08-10": 192055,
-  "2022-08-11": 192163,
-  "2022-08-12": 192272,
-  "2022-08-13": 192408,
-  "2022-08-14": 192563,
-  "2022-08-15": 192706,
-  "2022-08-16": 192825,
-  "2022-08-17": 192933,
-  "2022-08-18": 193046,
-  "2022-08-19": 193171,
-  "2022-08-20": 193310,
-  "2022-08-21": 193465,
-  "2022-08-22": 193586,
-  "2022-08-23": 193687,
-  "2022-08-24": 193781,
-  "2022-08-25": 193886,
-  "2022-08-26": 194011,
-  "2022-08-27": 194154,
-  "2022-08-28": 194272,
-  "2022-08-29": 194393,
-  "2022-08-30": 194483,
-  "2022-08-31": 194581,
-  "2022-09-01": 194637,
-  "2022-09-02": 194706,
-  "2022-09-03": 194792,
-  "2022-09-04": 194866,
-  "2022-09-05": 194965,
-  "2022-09-06": 195076,
-  "2022-09-07": 195160,
-  "2022-09-09": 195338,
-  "2022-09-10": 195453,
-  "2022-09-11": 195591,
-  "2022-09-12": 195709,
-  "2022-09-13": 195797,
-  "2022-09-15": 196002,
-  "2022-09-16": 196105,
-  "2022-09-17": 196216,
-  "2022-09-18": 196365,
-  "2022-09-19": 196494,
-  "2022-09-20": 196578,
-  "2022-09-21": 196684,
-  "2022-09-22": 196766,
-  "2022-09-23": 196846,
-  "2022-09-24": 196994,
-  "2022-09-25": 197128,
-  "2022-09-26": 197224,
-  "2022-09-27": 197316,
-  "2022-09-28": 197449,
-  "2022-09-29": 197542,
-  "2022-09-30": 197630,
-  "2022-10-01": 197738,
-  "2022-10-02": 197895,
-  "2022-10-03": 198060,
-  "2022-10-04": 198159,
-  "2022-10-05": 198249,
-  "2022-10-06": 198339,
-  "2022-10-07": 198411,
-  "2022-10-08": 198547,
-  "2022-10-09": 198796,
-  "2022-10-10": 198840,
-  "2022-10-11": 198925,
-  "2022-10-12": 199017,
-  "2022-10-13": 199100,
-  "2022-10-14": 199183,
-  "2022-10-15": 199313,
-  "2022-10-16": 199510,
-  "2022-10-17": 199672,
-  "2022-10-18": 199786,
-  "2022-10-19": 199886,
-  "2022-10-20": 199971,
-  "2022-10-21": 200071,
-  "2022-10-22": 200201,
-  "2022-10-23": 200357,
-  "2022-10-24": 200498,
-  "2022-10-25": 200612,
-  "2022-10-26": 200711,
-  "2022-10-27": 200821,
-  "2022-10-28": 200922,
-  "2022-10-29": 201062,
-  "2022-10-30": 201234,
-  "2022-10-31": 201387,
-  "2022-11-01": 201509,
-  "2022-11-02": 201611,
-  "2022-11-03": 201752,
-  "2022-11-04": 201864,
-  "2022-11-05": 202011,
-  "2022-11-06": 202218,
-  "2022-11-07": 202377,
-  "2022-11-08": 202533,
-  "2022-11-09": 202650,
-  "2022-11-10": 202756,
-  "2022-11-11": 202870,
-  "2022-11-12": 203037,
-  "2022-11-13": 203224,
-  "2022-11-14": 203378,
-  "2022-11-15": 203477,
-  "2022-11-16": 203578,
-  "2022-11-17": 203663,
-  "2022-11-18": 203694,
-  "2022-11-19": 203656,
-  "2022-11-20": 203682,
-  "2022-11-21": 203797,
-  "2022-11-22": 203961,
-  "2022-11-23": 204097,
-  "2022-11-24": 204324,
-  "2022-11-25": 204585,
-  "2022-11-26": 204756,
-  "2022-11-27": 204927,
-  "2022-11-28": 205041,
-  "2022-11-29": 205135,
-  "2022-11-30": 205243,
-  "2022-12-01": 205395,
-  "2022-12-02": 205446,
-  "2022-12-03": 205533,
-  "2022-12-04": 205694,
-  "2022-12-05": 205783,
-  "2022-12-06": 205866,
-  "2022-12-07": 205931,
-  "2022-12-08": 205990,
-  "2022-12-09": 206057,
-  "2022-12-10": 206138,
-  "2022-12-11": 206252,
-  "2022-12-12": 206349,
-  "2022-12-13": 206437,
-  "2022-12-14": 206483,
-  "2022-12-15": 206548,
-  "2022-12-16": 206614,
-  "2022-12-17": 206722,
-  "2022-12-18": 206844,
-  "2022-12-19": 206907,
-  "2022-12-20": 207058,
-  "2022-12-21": 207058,
-  "2022-12-22": 207141,
-  "2022-12-24": 207293,
-  "2022-12-25": 207392,
-  "2022-12-26": 207474,
-  "2022-12-27": 207565,
-  "2022-12-28": 207648,
-  "2022-12-29": 207762,
-  "2022-12-30": 207902,
-  "2022-12-31": 208008,
-  "2023-01-01": 208212,
-  "2023-01-02": 208351,
-  "2023-01-03": 208507,
-  "2023-01-04": 208616,
-  "2023-01-05": 208775,
-  "2023-01-06": 208999,
-  "2023-01-07": 209290,
-  "2023-01-08": 209352,
-  "2023-01-09": 209561,
-  "2023-01-10": 209691,
-  "2023-01-11": 209821,
-  "2023-01-12": 209952,
-  "2023-01-13": 210094,
-  "2023-01-14": 210386,
-  "2023-01-15": 210474,
-  "2023-01-16": 210626,
-  "2023-01-17": 210776,
-  "2023-01-18": 210902,
-  "2023-01-19": 211033,
-  "2023-01-20": 211158,
-  "2023-01-21": 211325,
-  "2023-01-22": 211554,
-  "2023-01-23": 211735,
-  "2023-01-24": 211866,
-  "2023-01-25": 211985,
-  "2023-01-26": 212105,
-  "2023-01-27": 212204,
-  "2023-01-28": 212330,
-  "2023-01-29": 212539,
-  "2023-01-30": 212712,
-  "2023-01-31": 212712,
-  "2023-02-01": 212943,
-  "2023-02-02": 213064,
-  "2023-02-03": 213189,
-  "2023-02-04": 213347,
-  "2023-02-05": 213527,
-  "2023-02-06": 213688,
-  "2023-02-07": 213802,
-  "2023-02-08": 214005,
-  "2023-02-09": 214005,
-  "2023-02-10": 214110,
-  "2023-02-11": 214256,
-  "2023-02-12": 214609,
-  "2023-02-13": 214738,
-  "2023-02-14": 214738,
-  "2023-02-15": 214911,
-  "2023-02-16": 215091,
-  "2023-02-17": 215213,
-  "2023-02-18": 215598,
-  "2023-02-19": 215624,
-  "2023-02-20": 215772,
-  "2023-02-21": 215925,
-  "2023-02-22": 216077,
-  "2023-02-23": 216214,
-  "2023-02-24": 216355,
-  "2023-02-25": 216560,
-  "2023-02-26": 216745,
-  "2023-02-27": 217081,
-  "2023-02-28": 217081,
-  "2023-03-01": 217190,
-  "2023-03-02": 217305,
-  "2023-03-03": 217473,
-  "2023-03-04": 217611,
-  "2023-03-05": 217990,
-  "2023-03-06": 217990,
-  "2023-03-07": 218093,
-  "2023-03-08": 218186,
-  "2023-03-09": 218316,
-  "2023-03-10": 218456,
-  "2023-03-11": 218634,
-  "2023-03-12": 218817,
-  "2023-03-13": 218972,
-  "2023-03-14": 219067,
-  "2023-03-15": 219177,
-  "2023-03-16": 219290,
-  "2023-03-17": 219290,
-  "2023-03-18": 219541,
-  "2023-03-19": 219733,
-  "2023-03-20": 219912,
-  "2023-03-21": 220028,
-  "2023-03-22": 220136,
-  "2023-03-23": 220240,
-  "2023-03-24": 220240,
-  "2023-03-25": 220504,
-  "2023-03-26": 220696,
-  "2023-03-27": 220834,
-  "2023-03-28": 220929,
-  "2023-03-29": 221025,
-  "2023-03-30": 221180,
-  "2023-03-31": 221180,
-  "2023-04-01": 221285,
-  "2023-04-02": 221449,
-  "2023-04-03": 221585,
-  "2023-04-04": 221681,
-  "2023-04-05": 221754,
-  "2023-04-06": 221841,
-  "2023-04-07": 221948,
-  "2023-04-09": 222234,
-  "2023-04-10": 222406,
-  "2023-04-11": 222627,
-  "2023-04-12": 222627,
-  "2023-04-13": 222739,
-  "2023-04-14": 222830,
-  "2023-04-15": 222954,
-  "2023-04-16": 223115,
-  "2023-04-17": 223227,
-  "2023-04-18": 223316,
-  "2023-04-19": 223398,
-  "2023-04-20": 223474,
-  "2023-04-21": 223579,
-  "2023-04-22": 223730,
-  "2023-04-23": 223919,
-  "2023-04-24": 224109,
-  "2023-04-25": 224241,
-  "2023-04-26": 224380,
-  "2023-04-27": 224472,
-  "2023-04-28": 224582,
-  "2023-04-29": 224749,
-  "2023-04-30": 224940,
-  "2023-05-01": 225129,
-  "2023-05-02": 225261,
-  "2023-05-03": 225376,
-  "2023-05-04": 225515,
-  "2023-05-05": 225642,
-  "2023-05-06": 225779,
-  "2023-05-07": 225970,
-  "2023-05-08": 226127,
-  "2023-05-09": 226233,
-  "2023-05-10": 226334,
-  "2023-05-11": 226429,
-  "2023-05-12": 226508,
-  "2023-05-13": 226642,
-  "2023-05-14": 226781,
-  "2023-05-15": 226907,
-  "2023-05-16": 227008,
-  "2023-05-17": 227113,
-  "2023-05-18": 227208,
-  "2023-05-19": 227337,
-  "2023-05-20": 227613,
-  "2023-05-21": 227613,
-  "2023-05-22": 227613,
-  "2023-05-23": 227886,
-  "2023-05-24": 228028,
-  "2023-05-25": 228057,
-  "2023-05-26": 228161,
-  "2023-05-27": 228274,
-  "2023-05-28": 228434,
-  "2023-05-29": 228434,
-  "2023-05-30": 228700,
-  "2023-05-31": 228802,
-  "2023-06-01": 228900,
-  "2023-06-02": 228993,
-  "2023-06-03": 229118,
-  "2023-06-04": 229262,
-  "2023-06-05": 229405,
-  "2023-06-06": 229511,
-  "2023-06-07": 229624,
-  "2023-06-08": 229746,
-  "2023-06-09": 229853,
-  "2023-06-10": 229980,
-  "2023-06-11": 230147,
-  "2023-06-12": 230293,
-  "2023-06-13": 230402,
-  "2023-06-14": 230496,
-  "2023-06-15": 230627,
-  "2023-06-16": 230722,
-  "2023-06-17": 230849,
-  "2023-06-18": 231000,
-  "2023-06-19": 231125,
-  "2023-06-20": 231245,
-  "2023-06-21": 231382,
-  "2023-06-22": 231515,
-  "2023-06-23": 231652,
-  "2023-06-24": 231795,
-  "2023-06-25": 231934,
-  "2023-06-26": 232097,
-  "2023-06-27": 232220,
-  "2023-06-28": 232361,
-  "2023-06-29": 232490,
-  "2023-06-30": 232659,
-  "2023-07-01": 233057,
-  "2023-07-02": 233057,
-  "2023-07-03": 233224,
-  "2023-07-04": 233362,
-  "2023-07-05": 233487,
-  "2023-07-06": 233792,
-  "2023-07-07": 233792,
-  "2023-07-08": 233963,
-  "2023-07-09": 234128,
-  "2023-07-10": 234300,
-  "2023-07-11": 234463,
-  "2023-07-12": 234638,
-  "2023-07-13": 234814,
-  "2023-07-14": 234929,
-  "2023-07-15": 235068,
-  "2023-07-16": 235302,
-  "2023-07-17": 235499,
-  "2023-07-18": 235652,
-  "2023-07-19": 235846,
-  "2023-07-20": 236003,
-  "2023-07-21": 236180,
-  "2023-07-22": 236427,
-  "2023-07-23": 236654,
-  "2023-07-24": 236851,
-  "2023-07-25": 237066,
-  "2023-07-26": 237258,
-  "2023-07-27": 237404,
-  "2023-07-28": 237573,
-  "2023-07-29": 237785,
-  "2023-07-30": 238003,
-  "2023-07-31": 238199,
-  "2023-08-01": 238374,
-  "2023-08-02": 238544,
-  "2023-08-03": 238705,
-  "2023-08-04": 238881,
-  "2023-08-05": 239079,
-  "2023-08-06": 239540,
-  "2023-08-07": 239540,
-  "2023-08-08": 239775,
-  "2023-08-09": 239994,
-  "2023-08-10": 240160,
-  "2023-08-11": 240337,
-  "2023-08-12": 240498,
-  "2023-08-13": 240693,
-  "2023-08-14": 240887,
-  "2023-08-15": 241194,
-  "2023-08-16": 241194,
-  "2023-08-17": 241361,
-  "2023-08-18": 241470,
-  "2023-08-19": 241611,
-  "2023-08-20": 241780,
-  "2023-08-21": 241945,
-  "2023-08-22": 242066,
-  "2023-08-23": 242175,
-  "2023-08-24": 242297,
-  "2023-08-25": 242434,
-  "2023-08-26": 242628,
-  "2023-08-27": 242835,
-  "2023-08-28": 243030,
-  "2023-08-29": 243144,
-  "2023-08-30": 243260,
-  "2023-08-31": 243394,
-  "2023-09-01": 243689,
-  "2023-09-02": 243689,
-  "2023-09-03": 243897,
-  "2023-09-04": 244064,
-  "2023-09-05": 244206,
-  "2023-09-06": 244353,
-  "2023-09-07": 244439,
-  "2023-09-08": 244565,
-  "2023-09-09": 244739,
-  "2023-09-10": 244902,
-  "2023-09-11": 245081,
-  "2023-09-12": 245188,
-  "2023-09-13": 245319,
-  "2023-09-14": 245414,
-  "2023-09-15": 245530,
-  "2023-09-16": 245699,
-  "2023-09-17": 245889,
-  "2023-09-18": 246037,
-  "2023-09-19": 246154,
-  "2023-09-20": 246275,
-  "2023-09-21": 246403,
-  "2023-09-22": 246551,
-  "2023-09-23": 246702,
-  "2023-09-24": 246900,
-  "2023-09-25": 247062,
-  "2023-09-26": 247226,
-  "2023-09-27": 247351,
-  "2023-09-28": 247468,
-  "2023-09-29": 247583,
-  "2023-09-30": 247729,
-  "2023-10-01": 247922,
-  "2023-10-02": 248070,
-  "2023-10-03": 248181,
-  "2023-10-04": 248266,
-  "2023-10-05": 248406,
-  "2023-10-06": 248504,
-  "2023-10-07": 248637,
-  "2023-10-08": 248829,
-  "2023-10-09": 248965,
-  "2023-10-10": 248842,
-  "2023-10-11": 248807,
-  "2023-10-12": 248807,
-  "2023-10-13": 248902,
-  "2023-10-14": 248803,
-  "2023-10-15": 248817,
-  "2023-10-16": 248913,
-  "2023-10-17": 249013,
-  "2023-10-18": 249088,
-  "2023-10-19": 249184,
-  "2023-10-20": 249279,
-  "2023-10-21": 249391,
-  "2023-10-22": 249534,
-  "2023-10-23": 249609,
-  "2023-10-24": 249686,
-  "2023-10-25": 249752,
-  "2023-10-26": 249825,
-  "2023-10-27": 249933,
-  "2023-10-28": 250027,
-  "2023-10-29": 250184,
-  "2023-10-30": 250371,
-  "2023-10-31": 250371,
-  "2023-11-01": 250438,
-  "2023-11-02": 250504,
-  "2023-11-03": 250576,
-  "2023-11-04": 250686,
-  "2023-11-05": 250837,
-  "2023-11-06": 250946,
-  "2023-11-07": 251040,
-  "2023-11-08": 251127,
-  "2023-11-09": 251193,
-  "2023-11-10": 251264,
-  "2023-11-11": 251405,
-  "2023-11-12": 251541,
-  "2023-11-13": 251650,
-  "2023-11-14": 251719,
-  "2023-11-15": 251719,
-  "2023-11-16": 252030,
-  "2023-11-17": 252228,
-  "2023-11-18": 252228,
-  "2023-11-19": 252342,
-  "2023-11-20": 252454,
-  "2023-11-21": 252528,
-  "2023-11-22": 252607,
-  "2023-11-23": 252694,
-  "2023-11-24": 252778,
-  "2023-11-25": 252845,
-  "2023-11-26": 252939,
-  "2023-11-27": 252997,
-  "2023-11-28": 253056,
-  "2023-11-29": 253170,
-  "2023-11-30": 253170,
-  "2023-12-01": 253217,
-  "2023-12-02": 253277,
-  "2023-12-03": 253348,
-  "2023-12-04": 253417,
-  "2023-12-05": 253487,
-  "2023-12-06": 253528,
-  "2023-12-07": 253564,
-  "2023-12-08": 253611,
-  "2023-12-09": 253680,
-  "2023-12-10": 253753,
-  "2023-12-11": 253821,
-  "2023-12-12": 253863,
-  "2023-12-13": 253903,
-  "2023-12-14": 253949,
-  "2023-12-15": 253989,
-  "2023-12-16": 254040,
-  "2023-12-17": 254102,
-  "2023-12-18": 254173,
-  "2023-12-19": 254222,
-  "2023-12-20": 254267,
-  "2023-12-21": 254283,
-  "2023-12-22": 254332,
-  "2023-12-23": 254403,
-  "2023-12-24": 254469,
-  "2023-12-25": 254525,
-  "2023-12-26": 254579,
-  "2023-12-27": 254636,
-  "2023-12-30": 254887,
-  "2023-12-31": 255010,
-  "2024-01-01": 255195,
-  "2024-01-02": 255266,
-  "2024-01-03": 255318
+  "2024-01-17": 255421,
+  "date_first_scraped": "2021-12-21",
+  "description": "Buon Appetito!",
+  "name": "The Perfect Italian Dinner",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aggio Perduto O Suonno",
+        "url": "https://open.spotify.com/album/76U9nf3gDjcAv4ZNbyC4rN"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Roselli",
+          "url": "https://open.spotify.com/artist/7IbQOrbuDPJu0mac9pDwf3"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208840,
+      "name": "Aggio Perduto O Sunno",
+      "url": "https://open.spotify.com/track/7ejJ8Ndox8S9wrv72Sm3Af"
+    },
+    {
+      "album": {
+        "name": "The Decca Years",
+        "url": "https://open.spotify.com/album/653NffdK42IKzsD3goAEHg"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164640,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/7EzyFflNHxgRyC6GCVfu5m"
+    },
+    {
+      "album": {
+        "name": "This Is Sergio Franchi",
+        "url": "https://open.spotify.com/album/7MAb4ipqNcHCYSZalRCqbY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Franchi",
+          "url": "https://open.spotify.com/artist/3afJ7ksCTA53PwM233jIf8"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Arrivederci Roma",
+      "url": "https://open.spotify.com/track/5hFzGBJ7nhYHg8IZ5oTYdu"
+    },
+    {
+      "album": {
+        "name": "The Best Of RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/54vpLuk6RjUQoXUgay9sdk"
+      },
+      "artists": [
+        {
+          "name": "Lou Monte",
+          "url": "https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "Bella Notte",
+      "url": "https://open.spotify.com/track/5LO9QzNKUOxtLqOfygsOAV"
+    },
+    {
+      "album": {
+        "name": "Wild, Cool & Swingin'",
+        "url": "https://open.spotify.com/album/2xmfLSGLoJqHOSpfLSXLfM"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima & Keely Smith",
+          "url": "https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv"
+        },
+        {
+          "name": "Sam Butera & The Witnesses",
+          "url": "https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "Buona Sera - Remastered 1999",
+      "url": "https://open.spotify.com/track/0jbrk06CS9siNsEcx6CgCD"
+    },
+    {
+      "album": {
+        "name": "From Hello Dolly To Goodbye Charlie",
+        "url": "https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124560,
+      "name": "Call Me Irresponsible - 2001 Remaster",
+      "url": "https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5"
+    },
+    {
+      "album": {
+        "name": "Made In Italy",
+        "url": "https://open.spotify.com/album/4fLE2vaPEOFgewmQ2DrJqC"
+      },
+      "artists": [
+        {
+          "name": "Nicola Arigliano",
+          "url": "https://open.spotify.com/artist/2idnMmsuRiGC9cij6q8jFD"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "Carina - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5yivxFwuIMvhWWQclRNuLC"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4BgETe5d1ZGvUvlNdfbywH"
+      },
+      "artists": [
+        {
+          "name": "Tony Martin",
+          "url": "https://open.spotify.com/artist/5AHm2PdPYw9qsj1q1bhxj2"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0U9P3GPMhoAWKG0uVnsm3W"
+    },
+    {
+      "album": {
+        "name": "Studio Uno",
+        "url": "https://open.spotify.com/album/4kOeOxOX8Jr1wCgEQr7M3C"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Citt\u00e0 vuota",
+      "url": "https://open.spotify.com/track/4LrFMFEu8tc8DKm4VXGnJd"
+    },
+    {
+      "album": {
+        "name": "Colpevole",
+        "url": "https://open.spotify.com/album/1mgsq0slHd56RMtIyTjej2"
+      },
+      "artists": [
+        {
+          "name": "Nicola Arigliano",
+          "url": "https://open.spotify.com/artist/2idnMmsuRiGC9cij6q8jFD"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186053,
+      "name": "Colpevole (con Orchestra)",
+      "url": "https://open.spotify.com/track/3jcLeXLBfmfxWmRVQ7oIc6"
+    },
+    {
+      "album": {
+        "name": "The Old Gold Times Presents: Dean Martin - The Full Story",
+        "url": "https://open.spotify.com/album/29KCJy50quUkgpS0E4nBIt"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2018-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193533,
+      "name": "Come Back To Sorrento",
+      "url": "https://open.spotify.com/track/5qwgAYRiKuI1iTy8OpEMZS"
+    },
+    {
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2018-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Come Back To Sorrento",
+      "url": "https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14"
+    },
+    {
+      "album": {
+        "name": "Sabato sera Studio Uno 1967",
+        "url": "https://open.spotify.com/album/0GE5WZVdug1awyoHhWkBd0"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "Conversazione",
+      "url": "https://open.spotify.com/track/6QJCRh7zkxzpNZ5tzK2Rfm"
+    },
+    {
+      "album": {
+        "name": "Julia LaRosa's Best",
+        "url": "https://open.spotify.com/album/0l95EqzNXdV1rJnFuhyx1o"
+      },
+      "artists": [
+        {
+          "name": "Julius LaRosa",
+          "url": "https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Domani (Tomorrow)",
+      "url": "https://open.spotify.com/track/250NogchyXPWsQ5H81IDyS"
+    },
+    {
+      "album": {
+        "name": "Julia LaRosa's Best",
+        "url": "https://open.spotify.com/album/20kqgNb3tLmqH3f6hoHCvN"
+      },
+      "artists": [
+        {
+          "name": "Julius LaRosa",
+          "url": "https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
+      "duration_ms": 154293,
+      "name": "Domani (Tomorrow)",
+      "url": "https://open.spotify.com/track/5GFLCzdy1DH9V5pGlpItJY"
+    },
+    {
+      "album": {
+        "name": "Aggio Perduto O Suonno",
+        "url": "https://open.spotify.com/album/76U9nf3gDjcAv4ZNbyC4rN"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Roselli",
+          "url": "https://open.spotify.com/artist/7IbQOrbuDPJu0mac9pDwf3"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252933,
+      "name": "E Rrose Parlano",
+      "url": "https://open.spotify.com/track/3gv3DtiBiTWsVrorvJjyH5"
+    },
+    {
+      "album": {
+        "name": "Che Bambola!",
+        "url": "https://open.spotify.com/album/2dznTOXzQCpmzkTwLmt9fh"
+      },
+      "artists": [
+        {
+          "name": "Fred Buscaglione",
+          "url": "https://open.spotify.com/artist/2OZgYaqlFRoRyycKkIvkSa"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144853,
+      "name": "Guarda che luna",
+      "url": "https://open.spotify.com/track/79g5dcc87vtTw5RkwkDs4L"
+    },
+    {
+      "album": {
+        "name": "Cara Mia: The Great \u201850s Love Songs",
+        "url": "https://open.spotify.com/album/0QDRRi9D6fFxh3w2R7iPQy"
+      },
+      "artists": [
+        {
+          "name": "Don Cornell",
+          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-19",
+      "duration_ms": 165880,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/6eGgw0KZkNfDy5CFP5nWvZ"
+    },
+    {
+      "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 3",
+        "url": "https://open.spotify.com/album/5BoSBPiaIMAPs87jvtAvFi"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "I Have But One Heart (O Marenariello) - 78 rpm Version",
+      "url": "https://open.spotify.com/track/2Y0PJlBIzrcUGAH6r9pfzh"
+    },
+    {
+      "album": {
+        "name": "On The Sunny Side",
+        "url": "https://open.spotify.com/album/5UwXs3lYUnJJjOMdvxKfty"
+      },
+      "artists": [
+        {
+          "name": "Julius La Rosa",
+          "url": "https://open.spotify.com/artist/1yhv5zp6IYFYpboAm7Fdlm"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166240,
+      "name": "In Times Like These",
+      "url": "https://open.spotify.com/track/1O3XkvdYvLgmvUhAqtTPCR"
+    },
+    {
+      "album": {
+        "name": "Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185880,
+      "name": "It's Not For Me To Say",
+      "url": "https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2"
+    },
+    {
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/0QsSFqGdbReLFAWwKdQIhS"
+      },
+      "artists": [
+        {
+          "name": "The New Italian Ensemble",
+          "url": "https://open.spotify.com/artist/6dxVfmnDCABARibSSrtqRI"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213773,
+      "name": "Italian Night",
+      "url": "https://open.spotify.com/track/7kQJ5znmZV3jLpcNDQE0xR"
+    },
+    {
+      "album": {
+        "name": "The Restaurant Album",
+        "url": "https://open.spotify.com/album/4nSoCB4w4uhXjLlOf4QqQ3"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205746,
+      "name": "Italian Restaurant 1",
+      "url": "https://open.spotify.com/track/72qqx1ZCvgnkSf2Sm14MfF"
+    },
+    {
+      "album": {
+        "name": "Italian Caf\u00e9: Traditional Romantic Dinner Music from Italy",
+        "url": "https://open.spotify.com/album/7hHYu4VO064qljJ4oKdjrD"
+      },
+      "artists": [
+        {
+          "name": "Italian Social Club",
+          "url": "https://open.spotify.com/artist/05TCFEjumGZHwHezCWNwK0"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205749,
+      "name": "Italian Restaurant for One",
+      "url": "https://open.spotify.com/track/4zuic4CVOHN9shgFcVIjw7"
+    },
+    {
+      "album": {
+        "name": "Guaglione",
+        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
+      },
+      "artists": [
+        {
+          "name": "Marino Marini",
+          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
+        }
+      ],
+      "date_added": "2018-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Kriminal tango",
+      "url": "https://open.spotify.com/track/50Z9lMvcnkHuPodeL6XY53"
+    },
+    {
+      "album": {
+        "name": "Domenico Modugno",
+        "url": "https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp"
+      },
+      "artists": [
+        {
+          "name": "Domenico Modugno",
+          "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "La Donna Riccia",
+      "url": "https://open.spotify.com/track/3ddMtGoPY2DOOQDvQ46nAt"
+    },
+    {
+      "album": {
+        "name": "La bimba di Napoli",
+        "url": "https://open.spotify.com/album/44lx8lzwLCBQMFZwAbvjad"
+      },
+      "artists": [
+        {
+          "name": "Gloria Christian",
+          "url": "https://open.spotify.com/artist/1tGvCnveV3FhhNIjjGEPPI"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180440,
+      "name": "Lazzarella",
+      "url": "https://open.spotify.com/track/2Jx5D0YoqTrCmf6mhWUBNH"
+    },
+    {
+      "album": {
+        "name": "That Towering Feeling",
+        "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
+      },
+      "artists": [
+        {
+          "name": "Vic Damone",
+          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "Let's Fall in Love",
+      "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
+    },
+    {
+      "album": {
+        "name": "Rarity Music Pop, Vol. 300 (Giorgio Gaslini presenta Alberto Rabagliati)",
+        "url": "https://open.spotify.com/album/01kBWFi4Gaaw4cOKgB6Hui"
+      },
+      "artists": [
+        {
+          "name": "Alberto Rabagliati",
+          "url": "https://open.spotify.com/artist/3zH8fBlRRDQl4fBjU9Hgra"
+        }
+      ],
+      "date_added": "2018-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237360,
+      "name": "Ma l'amore no",
+      "url": "https://open.spotify.com/track/33dcDLgUPZr3jvUuYMxANH"
+    },
+    {
+      "album": {
+        "name": "Alberto Rabagliati",
+        "url": "https://open.spotify.com/album/1yvawlqBZYtfiyu8OMhAPK"
+      },
+      "artists": [
+        {
+          "name": "Alberto Rabagliati",
+          "url": "https://open.spotify.com/artist/3zH8fBlRRDQl4fBjU9Hgra"
+        }
+      ],
+      "date_added": "2018-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "Ma l'amore no",
+      "url": "https://open.spotify.com/track/5drSJDJ0IiWmwKiosUskqK"
+    },
+    {
+      "album": {
+        "name": "Sings The Great Italian Hits",
+        "url": "https://open.spotify.com/album/1kH2CE1cZ61h3XjBsyCAvB"
+      },
+      "artists": [
+        {
+          "name": "Jerry Vale",
+          "url": "https://open.spotify.com/artist/5MaJrqhwysKwbvDePyAS6l"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152360,
+      "name": "Mala Femmina",
+      "url": "https://open.spotify.com/track/4xNlVOVjEdbQ7oAqzBWFit"
+    },
+    {
+      "album": {
+        "name": "50 Greatest Hits (Le pi\u00f9 belle canzoni del '900)",
+        "url": "https://open.spotify.com/album/5IP8WyOvouzGVfdeookdv1"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Rondinella",
+          "url": "https://open.spotify.com/artist/4tqoMRYZ4gXsSTbvvZcnzT"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197218,
+      "name": "Malafemmena",
+      "url": "https://open.spotify.com/track/0gr7BsQKGQHzTGHoGELIdE"
+    },
+    {
+      "album": {
+        "name": "Malafemmena",
+        "url": "https://open.spotify.com/album/5mrAXReX65AC1zOYCgNK43"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Rondinella",
+          "url": "https://open.spotify.com/artist/4tqoMRYZ4gXsSTbvvZcnzT"
+        }
+      ],
+      "date_added": "2018-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201840,
+      "name": "Malafemmena",
+      "url": "https://open.spotify.com/track/47TyVNs0bQfA2CvVCd4cmq"
+    },
+    {
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "The Mellomen",
+          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "Mambo Italiano (with The Mellomen) - 78rpm Version",
+      "url": "https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F"
+    },
+    {
+      "album": {
+        "name": "Colpevole",
+        "url": "https://open.spotify.com/album/1mgsq0slHd56RMtIyTjej2"
+      },
+      "artists": [
+        {
+          "name": "Nicola Arigliano",
+          "url": "https://open.spotify.com/artist/2idnMmsuRiGC9cij6q8jFD"
+        }
+      ],
+      "date_added": "2018-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129266,
+      "name": "Maramao Perch\u00e8 Sei Morto",
+      "url": "https://open.spotify.com/track/5WSgOxD1Q57PK60m3UHdqD"
+    },
+    {
+      "album": {
+        "name": "Santa Lucia luntana",
+        "url": "https://open.spotify.com/album/2jFkOsOmnnhFIOLgG1eJVo"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Rondinella",
+          "url": "https://open.spotify.com/artist/4tqoMRYZ4gXsSTbvvZcnzT"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Maruzzella",
+      "url": "https://open.spotify.com/track/232OpLFVugkwN7obgpqMKJ"
+    },
+    {
+      "album": {
+        "name": "Lontano, lontano nel tempo",
+        "url": "https://open.spotify.com/album/44vAlFlydCLj7aDbMObDYE"
+      },
+      "artists": [
+        {
+          "name": "Luigi Tenco",
+          "url": "https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Mi sono innamorato di te",
+      "url": "https://open.spotify.com/track/5ZO497MmiaF5Q1arqAT5Wg"
+    },
+    {
+      "album": {
+        "name": "Marino marini, Vol. 1",
+        "url": "https://open.spotify.com/album/164LrJyEnhQN0fJc3ziFQJ"
+      },
+      "artists": [
+        {
+          "name": "Marino Marini",
+          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191660,
+      "name": "Nel blu dipinto di blu - Volare",
+      "url": "https://open.spotify.com/track/1wHbRBLiWj9rfikuGsBu5G"
+    },
+    {
+      "album": {
+        "name": "On the Lighter Side",
+        "url": "https://open.spotify.com/album/14Kw7Bfk0zzvUKjL8w2OyW"
+      },
+      "artists": [
+        {
+          "name": "Mario Lanza",
+          "url": "https://open.spotify.com/artist/6umNMJq7B8UdOVmwPV6PRL"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-19",
+      "duration_ms": 224640,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/58tzVN2joI0gVQQCqo5Mse"
+    },
+    {
+      "album": {
+        "name": "Mamma",
+        "url": "https://open.spotify.com/album/2FNLDfZBqm57hsnxC961lF"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-19",
+      "duration_ms": 194853,
+      "name": "Parlami d'amore Mari\u00f9",
+      "url": "https://open.spotify.com/track/4KWsG3FCNvFSDqR8RDSPnE"
+    },
+    {
+      "album": {
+        "name": "Giuseppe di Stefano: Italy",
+        "url": "https://open.spotify.com/album/71l2dJapVmI1TCIv0CABen"
+      },
+      "artists": [
+        {
+          "name": "Cesare Andrea Bixio",
+          "url": "https://open.spotify.com/artist/4M5Ttp109RCi5lxSFFiprS"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Orchestra",
+          "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
+        },
+        {
+          "name": "Dino Olivieri",
+          "url": "https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "Parlami d'amore, Mari\u00f9",
+      "url": "https://open.spotify.com/track/2wjwzY4BFijBxmnV5b2y2x"
+    },
+    {
+      "album": {
+        "name": "Passione",
+        "url": "https://open.spotify.com/album/5nLsJZ6FqFslzLRputLC06"
+      },
+      "artists": [
+        {
+          "name": "Beniamino Gigli",
+          "url": "https://open.spotify.com/artist/78qb0nLAzypzePDYBGYl8F"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Passione",
+      "url": "https://open.spotify.com/track/5YbUsKDnZSuDiLx8MnDGiZ"
+    },
+    {
+      "album": {
+        "name": "Giorgio Consolini",
+        "url": "https://open.spotify.com/album/1ZtMtYMAmH2oopEA6dkCWr"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Consolini",
+          "url": "https://open.spotify.com/artist/3YJLfJ2gMM7sd2cZnsHKKS"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219080,
+      "name": "Polvere",
+      "url": "https://open.spotify.com/track/1ZhJn46BIvPpZcSqNEWDKX"
+    },
+    {
+      "album": {
+        "name": "Se vuoi goder la vita",
+        "url": "https://open.spotify.com/album/5crLflFonGxdtP6O5llh0H"
+      },
+      "artists": [
+        {
+          "name": "Carlo Buti",
+          "url": "https://open.spotify.com/artist/2X9ZzmPwihIKKf2hIFfPyX"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225213,
+      "name": "Primo amore",
+      "url": "https://open.spotify.com/track/44nITwzqqMN5YGkkpHIssi"
+    },
+    {
+      "album": {
+        "name": "The Columbia Singles, Vol. 2",
+        "url": "https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Rags to Riches",
+      "url": "https://open.spotify.com/track/4BH8EuPAxeFAh1rSWtnGdD"
+    },
+    {
+      "album": {
+        "name": "Back in Time - The 100 Finest from the 50's",
+        "url": "https://open.spotify.com/album/2E57gZ8UpjG4q0c2Vqh3CT"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-19",
+      "duration_ms": 170533,
+      "name": "Rags to Riches",
+      "url": "https://open.spotify.com/track/2rTbSf6sLfFIXI3MKBB6vO"
+    },
+    {
+      "album": {
+        "name": "Basta Chiudere Gli Occhi",
+        "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
+      },
+      "artists": [
+        {
+          "name": "Gino Paoli",
+          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214306,
+      "name": "Sapore di sale",
+      "url": "https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7"
+    },
+    {
+      "album": {
+        "name": "Save The Last Dance For Me",
+        "url": "https://open.spotify.com/album/3GFvLuliDKA3e1dVGzGJ5H"
+      },
+      "artists": [
+        {
+          "name": "Russ Columbo",
+          "url": "https://open.spotify.com/artist/1bX7fjOYkonAk4NR2S82Kw"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Save The Last Dance For Me",
+      "url": "https://open.spotify.com/track/3AgDyq95PRlHWhij9CaHam"
+    },
+    {
+      "album": {
+        "name": "The Best Of Bobby Lester And The Moonglows",
+        "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg"
+    },
+    {
+      "album": {
+        "name": "Pezzi da...90",
+        "url": "https://open.spotify.com/album/6Ie5uPiaaDhJRbssFBAkZf"
+      },
+      "artists": [
+        {
+          "name": "Teddy Reno",
+          "url": "https://open.spotify.com/artist/6bobviRFkmyCKCIxqMluuv"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "Sott'er celo de Roma",
+      "url": "https://open.spotify.com/track/4aoGVSGI98wtrol55ppThj"
+    },
+    {
+      "album": {
+        "name": "Matia Bazar 1 (1991 Remaster)",
+        "url": "https://open.spotify.com/album/3XMyhCHEqTIQsEVz3lgzkB"
+      },
+      "artists": [
+        {
+          "name": "Matia Bazar",
+          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206657,
+      "name": "Stasera... Che Sera! - 1991 - Remaster",
+      "url": "https://open.spotify.com/track/1uz6If8Tcbjm3xyxQ48IjV"
+    },
+    {
+      "album": {
+        "name": "My Last Night in Rome",
+        "url": "https://open.spotify.com/album/5M0nS1p261Pba8ETac6qtv"
+      },
+      "artists": [
+        {
+          "name": "Buddy Greco",
+          "url": "https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134480,
+      "name": "Summertime in Venice",
+      "url": "https://open.spotify.com/track/48ivErtRGxqq7c7McvCrLu"
+    },
+    {
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/5WKxit4CEpmFmM8bErbCek"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-15",
+      "duration_ms": 188800,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/28pzAaErWyNUHOo4Kazp75"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Al Martino",
+        "url": "https://open.spotify.com/album/6OYVxpJB6zYcl3UNp2R40O"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 190186,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/72VRXLEXSrCKsHrrboY1hs"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Al Martino",
+        "url": "https://open.spotify.com/album/5ZWGb9xTcmxXAjVNnbqELV"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/5MAX7FhPRj2T2e7FL0nPWM"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190826,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/17mHf9wIBpntdSqDfD8c2g"
+    },
+    {
+      "album": {
+        "name": "Crooner (Remastered)",
+        "url": "https://open.spotify.com/album/7pgcJ7XAmi0a41S0l7LKdL"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189056,
+      "name": "Take My Heart - Remastered",
+      "url": "https://open.spotify.com/track/5tg20ochJcAlpj25GM5ZWx"
+    },
+    {
+      "album": {
+        "name": "Italian Music, Tarantella, Come Back to Sorrento",
+        "url": "https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg"
+      },
+      "artists": [
+        {
+          "name": "Italian Mandolin Torna A Surriento",
+          "url": "https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Tarantella",
+      "url": "https://open.spotify.com/track/5CVSC6Ehnko15JmOuGYFwA"
+    },
+    {
+      "album": {
+        "name": "Piosenki z Film\u00f3w",
+        "url": "https://open.spotify.com/album/5XppDzLQLDzEAKrpQQwKqi"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187626,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/3chhqO7z6nVOf1fdhcyKFn"
+    },
+    {
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
+        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
+    },
+    {
+      "album": {
+        "name": "The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187546,
+      "name": "That's Amore - 1998 Remastered",
+      "url": "https://open.spotify.com/track/2yVKRJ026MOBElS97mp2Xl"
+    },
+    {
+      "album": {
+        "name": "Hello Young Lovers",
+        "url": "https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Durante",
+          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "The Glory of Love",
+      "url": "https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u"
+    },
+    {
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/3BKBbOThU1jKTqirqDkSok"
+      },
+      "artists": [
+        {
+          "name": "Vic Damone",
+          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "The Pleasure Of Her Company",
+      "url": "https://open.spotify.com/track/5KdkuAfOa5QA2eEYccxLD1"
+    },
+    {
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
+    },
+    {
+      "album": {
+        "name": "Julius LaRosa",
+        "url": "https://open.spotify.com/album/36Amo3vFBVrwGlXq7OUCnT"
+      },
+      "artists": [
+        {
+          "name": "Julius LaRosa",
+          "url": "https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
+      "duration_ms": 188240,
+      "name": "This Is Heaven",
+      "url": "https://open.spotify.com/track/08XE9DL4G4nB21QgHEkeaT"
+    },
+    {
+      "album": {
+        "name": "Julius LaRosa",
+        "url": "https://open.spotify.com/album/0prrVNzAxOL57e4AnuXY7R"
+      },
+      "artists": [
+        {
+          "name": "Julius LaRosa",
+          "url": "https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188240,
+      "name": "This Is Heaven",
+      "url": "https://open.spotify.com/track/66Uu4Q9Qoili64BplPb2k5"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Forever",
+        "url": "https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "David Romano",
+          "url": "https://open.spotify.com/artist/3srYILowq1BvCdlcvuor6x"
+        },
+        {
+          "name": "Orchestra",
+          "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
+        },
+        {
+          "name": "Emerson Buckley",
+          "url": "https://open.spotify.com/artist/12Lx27kM3i0A3gfE9m3Bcc"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89333,
+      "name": "Traditional: Santa Lucia",
+      "url": "https://open.spotify.com/track/3uMHUBQ9TyW4QDuTeT7CdR"
+    },
+    {
+      "album": {
+        "name": "Tu Vuo' Fa L'americano",
+        "url": "https://open.spotify.com/album/5pvgUx68aVvUibpa1J9O56"
+      },
+      "artists": [
+        {
+          "name": "Renato Carosone",
+          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205682,
+      "name": "Tu vuo' fa l'americano",
+      "url": "https://open.spotify.com/track/5ez6STfeeuCyahjmGFmudi"
+    },
+    {
+      "album": {
+        "name": "L'Incredibile Renato Carosone",
+        "url": "https://open.spotify.com/album/18nKFmNk8Jygs9tKqJAEzG"
+      },
+      "artists": [
+        {
+          "name": "Renato Carosone",
+          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 205680,
+      "name": "Tu Vuo' Fa L'Americano (Alternate Take)",
+      "url": "https://open.spotify.com/track/0aRwjpeeFTjSLT7f58GdBw"
+    },
+    {
+      "album": {
+        "name": "Domenico Modugno",
+        "url": "https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp"
+      },
+      "artists": [
+        {
+          "name": "Domenico Modugno",
+          "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "Vecchio frack",
+      "url": "https://open.spotify.com/track/0rHIXD2GmjixirvBfTUV2b"
+    },
+    {
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4BgETe5d1ZGvUvlNdfbywH"
+      },
+      "artists": [
+        {
+          "name": "Tony Martin",
+          "url": "https://open.spotify.com/artist/0EFbbYqV2BDlRwk7A1SGtb"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-19",
+      "duration_ms": 168880,
+      "name": "Walk Hand in Hand with Me",
+      "url": "https://open.spotify.com/track/7cw2Q2f4Jv7lMwxyQIi21Y"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWT1R6bXL4dyW"
 }

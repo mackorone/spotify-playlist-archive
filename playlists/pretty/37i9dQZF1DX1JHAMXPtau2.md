@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,830 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,789 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 | 39 | [Christ Was Born On Christmas Day](https://open.spotify.com/track/1HyKIB8bzYYT6PlosczZj3) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Christ Was Born On Christmas Day](https://open.spotify.com/album/4Av88zEsREUmeIhBwUhWV7) | 2:34 |
 | 40 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/5fcwexbxECTYiCUvrBig0V) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/5GMPCJizVO43fjyoj6to1V) | 2:25 |
 
-Snapshot ID: `MCw4MTU2NzBjOWNhNDViZWI5YmIyMzJjNjdmYjg0M2RlZGMxMGIyY2Qx`
+Snapshot ID: `MCw5YzM5ZmYwOTQ5ZDdhMjdlNWRjZmM4MDdiMWI2ZDI5ZjUwYjk0OTg3`

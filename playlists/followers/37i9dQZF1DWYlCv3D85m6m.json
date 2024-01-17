@@ -1,580 +1,3787 @@
 {
-  "2022-05-30": 1050296,
-  "2022-05-31": 1050707,
-  "2022-06-01": 1051405,
-  "2022-06-02": 1051456,
-  "2022-06-03": 1051905,
-  "2022-06-04": 1052385,
-  "2022-06-05": 1052835,
-  "2022-06-06": 1053250,
-  "2022-06-07": 1053642,
-  "2022-06-08": 1054092,
-  "2022-06-09": 1054412,
-  "2022-06-10": 1054807,
-  "2022-06-11": 1055213,
-  "2022-06-12": 1055661,
-  "2022-06-13": 1056048,
-  "2022-06-14": 1056407,
-  "2022-06-15": 1056764,
-  "2022-06-16": 1057205,
-  "2022-06-17": 1057558,
-  "2022-06-18": 1057909,
-  "2022-06-19": 1058688,
-  "2022-06-20": 1058688,
-  "2022-06-21": 1058982,
-  "2022-06-22": 1059623,
-  "2022-06-23": 1059623,
-  "2022-06-24": 1059988,
-  "2022-06-25": 1060654,
-  "2022-06-26": 1061229,
-  "2022-06-27": 1061796,
-  "2022-06-28": 1062216,
-  "2022-06-29": 1062597,
-  "2022-06-30": 1062997,
-  "2022-07-01": 1063436,
-  "2022-07-02": 1063875,
-  "2022-07-03": 1064288,
-  "2022-07-04": 1064719,
-  "2022-07-05": 1065116,
-  "2022-07-06": 1065536,
-  "2022-07-07": 1065942,
-  "2022-07-08": 1066406,
-  "2022-07-09": 1066871,
-  "2022-07-10": 1067274,
-  "2022-07-11": 1067748,
-  "2022-07-12": 1068117,
-  "2022-07-13": 1068615,
-  "2022-07-14": 1069163,
-  "2022-07-15": 1069706,
-  "2022-07-16": 1070265,
-  "2022-07-17": 1070825,
-  "2022-07-18": 1071370,
-  "2022-07-19": 1071961,
-  "2022-07-20": 1072458,
-  "2022-07-21": 1073007,
-  "2022-07-22": 1073462,
-  "2022-07-23": 1073990,
-  "2022-07-24": 1074591,
-  "2022-07-25": 1075103,
-  "2022-07-26": 1075548,
-  "2022-07-27": 1076026,
-  "2022-07-28": 1076470,
-  "2022-07-29": 1076921,
-  "2022-07-30": 1077769,
-  "2022-07-31": 1077769,
-  "2022-08-01": 1078238,
-  "2022-08-02": 1079000,
-  "2022-08-03": 1079000,
-  "2022-08-04": 1079411,
-  "2022-08-05": 1079816,
-  "2022-08-06": 1080279,
-  "2022-08-07": 1080740,
-  "2022-08-08": 1081194,
-  "2022-08-09": 1081585,
-  "2022-08-10": 1081994,
-  "2022-08-11": 1082436,
-  "2022-08-12": 1082868,
-  "2022-08-13": 1083212,
-  "2022-08-14": 1083636,
-  "2022-08-15": 1084082,
-  "2022-08-16": 1084472,
-  "2022-08-17": 1084869,
-  "2022-08-18": 1085261,
-  "2022-08-19": 1085694,
-  "2022-08-20": 1086160,
-  "2022-08-21": 1086636,
-  "2022-08-22": 1087126,
-  "2022-08-23": 1087602,
-  "2022-08-24": 1088013,
-  "2022-08-25": 1088433,
-  "2022-08-26": 1088903,
-  "2022-08-27": 1090965,
-  "2022-08-28": 1092180,
-  "2022-08-29": 1093040,
-  "2022-08-30": 1093461,
-  "2022-08-31": 1093662,
-  "2022-09-01": 1093575,
-  "2022-09-02": 1094229,
-  "2022-09-03": 1093297,
-  "2022-09-04": 1093231,
-  "2022-09-05": 1093273,
-  "2022-09-06": 1093835,
-  "2022-09-07": 1094415,
-  "2022-09-09": 1095456,
-  "2022-09-10": 1095969,
-  "2022-09-11": 1096690,
-  "2022-09-12": 1097355,
-  "2022-09-13": 1097888,
-  "2022-09-15": 1098812,
-  "2022-09-16": 1099309,
-  "2022-09-17": 1099943,
-  "2022-09-18": 1100580,
-  "2022-09-19": 1101159,
-  "2022-09-20": 1101620,
-  "2022-09-21": 1102081,
-  "2022-09-22": 1102602,
-  "2022-09-23": 1103128,
-  "2022-09-24": 1103658,
-  "2022-09-25": 1104272,
-  "2022-09-26": 1104847,
-  "2022-09-27": 1105397,
-  "2022-09-28": 1105917,
-  "2022-09-29": 1106388,
-  "2022-09-30": 1106882,
-  "2022-10-01": 1107335,
-  "2022-10-02": 1107897,
-  "2022-10-03": 1108426,
-  "2022-10-04": 1108914,
-  "2022-10-05": 1109357,
-  "2022-10-06": 1109865,
-  "2022-10-07": 1110329,
-  "2022-10-08": 1110890,
-  "2022-10-09": 1111818,
-  "2022-10-10": 1111926,
-  "2022-10-11": 1112408,
-  "2022-10-12": 1112822,
-  "2022-10-13": 1113255,
-  "2022-10-14": 1113715,
-  "2022-10-15": 1114203,
-  "2022-10-16": 1114766,
-  "2022-10-17": 1115283,
-  "2022-10-18": 1115698,
-  "2022-10-19": 1116110,
-  "2022-10-20": 1116566,
-  "2022-10-21": 1116993,
-  "2022-10-22": 1117434,
-  "2022-10-23": 1117876,
-  "2022-10-24": 1118338,
-  "2022-10-25": 1118746,
-  "2022-10-26": 1119170,
-  "2022-10-27": 1119623,
-  "2022-10-28": 1120063,
-  "2022-10-29": 1120457,
-  "2022-10-30": 1120862,
-  "2022-10-31": 1121190,
-  "2022-11-01": 1121566,
-  "2022-11-02": 1121961,
-  "2022-11-03": 1122355,
-  "2022-11-04": 1122777,
-  "2022-11-05": 1123142,
-  "2022-11-06": 1123496,
-  "2022-11-07": 1123897,
-  "2022-11-08": 1124261,
-  "2022-11-09": 1124633,
-  "2022-11-10": 1124979,
-  "2022-11-11": 1125364,
-  "2022-11-12": 1125821,
-  "2022-11-13": 1126210,
-  "2022-11-14": 1126741,
-  "2022-11-15": 1127184,
-  "2022-11-16": 1127585,
-  "2022-11-17": 1127994,
-  "2022-11-18": 1128085,
-  "2022-11-19": 1127757,
-  "2022-11-20": 1127747,
-  "2022-11-21": 1128066,
-  "2022-11-22": 1129455,
-  "2022-11-23": 1129157,
-  "2022-11-24": 1130042,
-  "2022-11-25": 1131123,
-  "2022-11-26": 1131817,
-  "2022-11-27": 1132326,
-  "2022-11-28": 1132702,
-  "2022-11-29": 1133109,
-  "2022-11-30": 1133518,
-  "2022-12-01": 1134028,
-  "2022-12-02": 1134813,
-  "2022-12-03": 1135302,
-  "2022-12-04": 1135860,
-  "2022-12-05": 1136459,
-  "2022-12-06": 1136946,
-  "2022-12-07": 1137413,
-  "2022-12-08": 1137845,
-  "2022-12-09": 1138306,
-  "2022-12-10": 1138673,
-  "2022-12-11": 1139151,
-  "2022-12-12": 1139621,
-  "2022-12-13": 1139923,
-  "2022-12-14": 1140295,
-  "2022-12-15": 1140663,
-  "2022-12-16": 1141045,
-  "2022-12-17": 1141486,
-  "2022-12-18": 1141967,
-  "2022-12-19": 1142390,
-  "2022-12-20": 1143180,
-  "2022-12-21": 1143180,
-  "2022-12-22": 1143547,
-  "2022-12-24": 1144368,
-  "2022-12-25": 1144810,
-  "2022-12-26": 1145293,
-  "2022-12-27": 1146278,
-  "2022-12-28": 1147064,
-  "2022-12-29": 1147669,
-  "2022-12-30": 1148208,
-  "2022-12-31": 1148767,
-  "2023-01-01": 1149266,
-  "2023-01-02": 1149660,
-  "2023-01-03": 1150210,
-  "2023-01-04": 1150614,
-  "2023-01-05": 1151086,
-  "2023-01-06": 1151710,
-  "2023-01-07": 1152453,
-  "2023-01-08": 1152553,
-  "2023-01-09": 1153031,
-  "2023-01-10": 1153450,
-  "2023-01-11": 1153838,
-  "2023-01-12": 1154242,
-  "2023-01-13": 1154640,
-  "2023-01-14": 1155480,
-  "2023-01-15": 1155553,
-  "2023-01-16": 1155873,
-  "2023-01-17": 1156329,
-  "2023-01-18": 1156766,
-  "2023-01-19": 1157202,
-  "2023-01-20": 1157669,
-  "2023-01-21": 1158975,
-  "2023-01-22": 1160013,
-  "2023-01-23": 1160822,
-  "2023-01-24": 1161479,
-  "2023-01-25": 1162054,
-  "2023-01-26": 1162561,
-  "2023-01-27": 1163078,
-  "2023-01-28": 1163648,
-  "2023-01-29": 1164165,
-  "2023-01-30": 1164630,
-  "2023-01-31": 1164630,
-  "2023-02-01": 1165604,
-  "2023-02-02": 1166029,
-  "2023-02-03": 1166439,
-  "2023-02-04": 1166894,
-  "2023-02-05": 1167426,
-  "2023-02-06": 1167989,
-  "2023-02-07": 1168395,
-  "2023-02-08": 1169275,
-  "2023-02-09": 1169275,
-  "2023-02-10": 1169762,
-  "2023-02-11": 1170189,
-  "2023-02-12": 1171111,
-  "2023-02-13": 1171557,
-  "2023-02-14": 1171557,
-  "2023-02-15": 1171911,
-  "2023-02-16": 1172253,
-  "2023-02-17": 1172631,
-  "2023-02-18": 1173416,
-  "2023-02-19": 1173499,
-  "2023-02-20": 1173820,
-  "2023-02-21": 1174192,
-  "2023-02-22": 1174625,
-  "2023-02-23": 1175108,
-  "2023-02-24": 1175637,
-  "2023-02-25": 1176310,
-  "2023-02-26": 1176638,
-  "2023-02-27": 1177580,
-  "2023-02-28": 1177580,
-  "2023-03-01": 1177983,
-  "2023-03-02": 1178375,
-  "2023-03-03": 1178919,
-  "2023-03-04": 1179319,
-  "2023-03-05": 1180336,
-  "2023-03-06": 1180336,
-  "2023-03-07": 1180831,
-  "2023-03-08": 1181269,
-  "2023-03-09": 1181715,
-  "2023-03-10": 1182245,
-  "2023-03-11": 1183653,
-  "2023-03-12": 1184740,
-  "2023-03-13": 1185559,
-  "2023-03-14": 1186261,
-  "2023-03-15": 1186859,
-  "2023-03-16": 1187466,
-  "2023-03-17": 1187466,
-  "2023-03-18": 1188728,
-  "2023-03-19": 1189355,
-  "2023-03-20": 1189988,
-  "2023-03-21": 1190534,
-  "2023-03-22": 1191071,
-  "2023-03-23": 1191544,
-  "2023-03-24": 1191544,
-  "2023-03-25": 1192538,
-  "2023-03-26": 1193062,
-  "2023-03-27": 1193504,
-  "2023-03-28": 1193908,
-  "2023-03-29": 1194356,
-  "2023-03-30": 1195161,
-  "2023-03-31": 1195161,
-  "2023-04-01": 1195558,
-  "2023-04-02": 1196042,
-  "2023-04-03": 1196462,
-  "2023-04-04": 1196897,
-  "2023-04-05": 1197335,
-  "2023-04-06": 1197826,
-  "2023-04-07": 1198204,
-  "2023-04-09": 1199003,
-  "2023-04-10": 1199355,
-  "2023-04-11": 1200173,
-  "2023-04-12": 1200173,
-  "2023-04-13": 1200556,
-  "2023-04-14": 1200925,
-  "2023-04-15": 1201397,
-  "2023-04-16": 1201886,
-  "2023-04-17": 1202282,
-  "2023-04-18": 1202715,
-  "2023-04-19": 1203168,
-  "2023-04-20": 1203631,
-  "2023-04-21": 1204047,
-  "2023-04-22": 1204425,
-  "2023-04-23": 1204834,
-  "2023-04-24": 1205332,
-  "2023-04-25": 1205803,
-  "2023-04-26": 1206277,
-  "2023-04-27": 1206752,
-  "2023-04-28": 1207306,
-  "2023-04-29": 1207798,
-  "2023-04-30": 1208276,
-  "2023-05-01": 1208706,
-  "2023-05-02": 1209141,
-  "2023-05-03": 1209579,
-  "2023-05-04": 1209995,
-  "2023-05-05": 1210453,
-  "2023-05-06": 1210924,
-  "2023-05-07": 1211378,
-  "2023-05-08": 1211795,
-  "2023-05-09": 1212283,
-  "2023-05-10": 1212872,
-  "2023-05-11": 1213294,
-  "2023-05-12": 1213824,
-  "2023-05-13": 1214437,
-  "2023-05-14": 1214993,
-  "2023-05-15": 1215553,
-  "2023-05-16": 1216025,
-  "2023-05-17": 1216541,
-  "2023-05-18": 1216998,
-  "2023-05-19": 1217463,
-  "2023-05-20": 1218401,
-  "2023-05-21": 1218401,
-  "2023-05-22": 1218401,
-  "2023-05-23": 1219410,
-  "2023-05-24": 1220175,
-  "2023-05-25": 1220304,
-  "2023-05-26": 1220709,
-  "2023-05-27": 1221147,
-  "2023-05-28": 1221572,
-  "2023-05-29": 1221572,
-  "2023-05-30": 1222322,
-  "2023-05-31": 1222757,
-  "2023-06-01": 1223103,
-  "2023-06-02": 1223515,
-  "2023-06-03": 1223928,
-  "2023-06-04": 1224375,
-  "2023-06-05": 1224812,
-  "2023-06-06": 1225171,
-  "2023-06-07": 1225507,
-  "2023-06-08": 1225900,
-  "2023-06-09": 1226356,
-  "2023-06-10": 1226737,
-  "2023-06-11": 1227211,
-  "2023-06-12": 1227618,
-  "2023-06-13": 1227974,
-  "2023-06-14": 1228412,
-  "2023-06-15": 1228855,
-  "2023-06-16": 1229318,
-  "2023-06-17": 1229811,
-  "2023-06-18": 1230371,
-  "2023-06-19": 1230857,
-  "2023-06-20": 1231337,
-  "2023-06-21": 1231837,
-  "2023-06-22": 1232264,
-  "2023-06-23": 1232754,
-  "2023-06-24": 1233248,
-  "2023-06-25": 1233690,
-  "2023-06-26": 1234130,
-  "2023-06-27": 1234503,
-  "2023-06-28": 1234933,
-  "2023-06-29": 1235379,
-  "2023-06-30": 1235874,
-  "2023-07-01": 1236860,
-  "2023-07-02": 1236860,
-  "2023-07-03": 1237248,
-  "2023-07-04": 1237660,
-  "2023-07-05": 1238090,
-  "2023-07-06": 1238965,
-  "2023-07-07": 1238965,
-  "2023-07-08": 1239416,
-  "2023-07-09": 1239854,
-  "2023-07-10": 1240284,
-  "2023-07-11": 1240680,
-  "2023-07-12": 1241032,
-  "2023-07-13": 1241400,
-  "2023-07-14": 1241830,
-  "2023-07-15": 1242139,
-  "2023-07-16": 1242638,
-  "2023-07-17": 1243057,
-  "2023-07-18": 1243408,
-  "2023-07-19": 1243766,
-  "2023-07-20": 1244051,
-  "2023-07-21": 1244366,
-  "2023-07-22": 1244705,
-  "2023-07-23": 1245102,
-  "2023-07-24": 1245486,
-  "2023-07-25": 1245825,
-  "2023-07-26": 1246106,
-  "2023-07-27": 1246497,
-  "2023-07-28": 1246884,
-  "2023-07-29": 1247212,
-  "2023-07-30": 1247585,
-  "2023-07-31": 1247927,
-  "2023-08-01": 1248206,
-  "2023-08-02": 1248444,
-  "2023-08-03": 1248733,
-  "2023-08-04": 1249077,
-  "2023-08-05": 1249350,
-  "2023-08-06": 1249943,
-  "2023-08-07": 1249943,
-  "2023-08-08": 1250200,
-  "2023-08-09": 1250432,
-  "2023-08-10": 1250733,
-  "2023-08-11": 1251039,
-  "2023-08-12": 1251407,
-  "2023-08-13": 1251750,
-  "2023-08-14": 1252033,
-  "2023-08-15": 1252694,
-  "2023-08-16": 1252694,
-  "2023-08-17": 1253011,
-  "2023-08-18": 1253378,
-  "2023-08-19": 1253812,
-  "2023-08-20": 1254145,
-  "2023-08-21": 1254454,
-  "2023-08-22": 1254721,
-  "2023-08-23": 1254972,
-  "2023-08-24": 1255276,
-  "2023-08-25": 1255530,
-  "2023-08-26": 1255820,
-  "2023-08-27": 1256094,
-  "2023-08-28": 1256362,
-  "2023-08-29": 1256889,
-  "2023-08-30": 1257487,
-  "2023-08-31": 1257910,
-  "2023-09-01": 1258842,
-  "2023-09-02": 1258842,
-  "2023-09-03": 1259256,
-  "2023-09-04": 1259697,
-  "2023-09-05": 1260137,
-  "2023-09-06": 1260516,
-  "2023-09-07": 1261005,
-  "2023-09-08": 1261421,
-  "2023-09-09": 1261899,
-  "2023-09-10": 1262265,
-  "2023-09-11": 1262598,
-  "2023-09-12": 1262981,
-  "2023-09-13": 1263357,
-  "2023-09-14": 1263782,
-  "2023-09-15": 1264227,
-  "2023-09-16": 1264616,
-  "2023-09-17": 1265021,
-  "2023-09-18": 1265364,
-  "2023-09-19": 1265667,
-  "2023-09-20": 1265981,
-  "2023-09-21": 1266278,
-  "2023-09-22": 1266599,
-  "2023-09-23": 1266949,
-  "2023-09-24": 1267348,
-  "2023-09-25": 1267714,
-  "2023-09-26": 1268051,
-  "2023-09-27": 1268286,
-  "2023-09-28": 1268616,
-  "2023-09-29": 1268958,
-  "2023-09-30": 1269309,
-  "2023-10-01": 1269764,
-  "2023-10-02": 1270386,
-  "2023-10-03": 1270930,
-  "2023-10-04": 1271415,
-  "2023-10-05": 1271848,
-  "2023-10-06": 1272280,
-  "2023-10-07": 1272656,
-  "2023-10-08": 1272990,
-  "2023-10-09": 1273245,
-  "2023-10-10": 1272444,
-  "2023-10-11": 1271802,
-  "2023-10-12": 1271802,
-  "2023-10-13": 1271072,
-  "2023-10-14": 1270548,
-  "2023-10-15": 1270643,
-  "2023-10-16": 1270922,
-  "2023-10-17": 1271204,
-  "2023-10-18": 1271459,
-  "2023-10-19": 1271709,
-  "2023-10-20": 1271978,
-  "2023-10-21": 1272229,
-  "2023-10-22": 1272487,
-  "2023-10-23": 1272683,
-  "2023-10-24": 1272946,
-  "2023-10-25": 1273164,
-  "2023-10-26": 1273364,
-  "2023-10-27": 1273637,
-  "2023-10-28": 1274021,
-  "2023-10-29": 1274361,
-  "2023-10-30": 1274876,
-  "2023-10-31": 1274876,
-  "2023-11-01": 1275120,
-  "2023-11-02": 1275325,
-  "2023-11-03": 1275539,
-  "2023-11-04": 1275712,
-  "2023-11-05": 1275916,
-  "2023-11-06": 1276116,
-  "2023-11-07": 1276314,
-  "2023-11-08": 1276522,
-  "2023-11-09": 1276698,
-  "2023-11-10": 1276834,
-  "2023-11-11": 1277119,
-  "2023-11-12": 1277337,
-  "2023-11-13": 1277490,
-  "2023-11-14": 1277677,
-  "2023-11-15": 1277677,
-  "2023-11-16": 1278041,
-  "2023-11-17": 1278355,
-  "2023-11-18": 1278355,
-  "2023-11-19": 1278523,
-  "2023-11-20": 1278678,
-  "2023-11-21": 1278788,
-  "2023-11-22": 1278958,
-  "2023-11-23": 1279105,
-  "2023-11-24": 1279300,
-  "2023-11-25": 1279487,
-  "2023-11-26": 1279648,
-  "2023-11-27": 1279861,
-  "2023-11-28": 1279995,
-  "2023-11-29": 1280321,
-  "2023-11-30": 1280321,
-  "2023-12-01": 1280550,
-  "2023-12-02": 1280819,
-  "2023-12-03": 1281105,
-  "2023-12-04": 1281312,
-  "2023-12-05": 1281475,
-  "2023-12-06": 1281662,
-  "2023-12-07": 1281867,
-  "2023-12-08": 1282134,
-  "2023-12-09": 1282390,
-  "2023-12-10": 1282586,
-  "2023-12-11": 1282754,
-  "2023-12-12": 1282960,
-  "2023-12-13": 1283156,
-  "2023-12-14": 1283553,
-  "2023-12-15": 1283719,
-  "2023-12-16": 1283943,
-  "2023-12-17": 1284197,
-  "2023-12-18": 1284455,
-  "2023-12-19": 1284615,
-  "2023-12-20": 1284747,
-  "2023-12-21": 1284902,
-  "2023-12-22": 1285106,
-  "2023-12-23": 1285302,
-  "2023-12-24": 1285506,
-  "2023-12-25": 1285677,
-  "2023-12-26": 1285879,
-  "2023-12-27": 1286148,
-  "2023-12-30": 1286810,
-  "2023-12-31": 1287105,
-  "2024-01-01": 1287295,
-  "2024-01-02": 1287467,
-  "2024-01-03": 1287643
+  "2024-01-17": 1283899,
+  "date_first_scraped": "2022-05-30",
+  "description": "One in a million! TWICE! ",
+  "name": "This Is TWICE",
+  "tracks": [
+    {
+      "album": {
+        "name": "Twicecoaster:lane1",
+        "url": "https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175200,
+      "name": "1 To 10",
+      "url": "https://open.spotify.com/track/6XvUbny0oY8v4sPicah4Ju"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster: Lane 1",
+        "url": "https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "1 To 10",
+      "url": "https://open.spotify.com/track/74oWejX8MG6SEaJiz1334D"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198453,
+      "name": "1, 3, 2 (JEONGYEON, MINA, TZUYU)",
+      "url": "https://open.spotify.com/track/2pczTxiMdmkR2crPgZkbyR"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198453,
+      "name": "1, 3, 2 (JEONGYEON, MINA, TZUYU)",
+      "url": "https://open.spotify.com/track/6bS9w12VuyaqkbNKnw5zZE"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "A Strange Day",
+      "url": "https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN"
+    },
+    {
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210573,
+      "name": "Alcohol-Free",
+      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
+    },
+    {
+      "album": {
+        "name": "THE REMIXES",
+        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210573,
+      "name": "Alcohol-Free (English ver.)",
+      "url": "https://open.spotify.com/track/6rJjT5kPYhtXkUsot7tkjI"
+    },
+    {
+      "album": {
+        "name": "#TWICE4 (Japanese ver.)",
+        "url": "https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213546,
+      "name": "Alcohol-Free - Japanese ver.",
+      "url": "https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ"
+    },
+    {
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Baby Blue Love",
+      "url": "https://open.spotify.com/track/7Jzo3IObpANz6giPTUrihB"
+    },
+    {
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "Basics",
+      "url": "https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz"
+    },
+    {
+      "album": {
+        "name": "BDZ",
+        "url": "https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "BDZ",
+      "url": "https://open.spotify.com/track/6ceKChoZYLdw24Ph1CDFUJ"
+    },
+    {
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Behind The Curtain",
+      "url": "https://open.spotify.com/track/14nturKxV48wR3lbknehiu"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218533,
+      "name": "BEHIND THE MASK",
+      "url": "https://open.spotify.com/track/07CYRI5dwRevOhthkHU58X"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "BEHIND THE MASK",
+      "url": "https://open.spotify.com/track/7mBgzdwjJzfnUJtHrRXuCA"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196946,
+      "name": "BELIEVER",
+      "url": "https://open.spotify.com/track/2u7G5kXP6Vi9A55U1N6Gc3"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196946,
+      "name": "BELIEVER",
+      "url": "https://open.spotify.com/track/7louodH5FUYuL3yvHQtq3O"
+    },
+    {
+      "album": {
+        "name": "BETTER",
+        "url": "https://open.spotify.com/album/2jOvgj6NJc1l5SBApgFaZC"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/0rSMzlAKNapoat4NdZYmi3"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/1Wrn6btrungVsBjyViLnuY"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "BLAME IT ON ME",
+      "url": "https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J"
+    },
+    {
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264389,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ"
+    },
+    {
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E"
+    },
+    {
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217650,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/5COO2JgOmHIJ2jsXFwflz8"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "BRING IT BACK",
+      "url": "https://open.spotify.com/track/2APCo1hwAaua9CslYXqALD"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208133,
+      "name": "BRING IT BACK",
+      "url": "https://open.spotify.com/track/2QDGmH7Ygk9Hj2qCxWY0ii"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217213,
+      "name": "CACTUS",
+      "url": "https://open.spotify.com/track/3q46VU0npRxsDn5tUeNrdQ"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "CACTUS",
+      "url": "https://open.spotify.com/track/5TYy2SgTQUv6YGWHbryUV8"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195053,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/3QE7iNYFGCZhzf6kKc5UB8"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/53Abp3QVXDA9z1VmJsOBXm"
+    },
+    {
+      "album": {
+        "name": "Candy Pop",
+        "url": "https://open.spotify.com/album/0dbDXtPkq4b4zViH3q9Lnt"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202010,
+      "name": "Candy Pop",
+      "url": "https://open.spotify.com/track/39GvWlUAF4Y3qzboUyvBkg"
+    },
+    {
+      "album": {
+        "name": "Hare Hare",
+        "url": "https://open.spotify.com/album/7hF6oiU4zaIQIGjLhje1eG"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "Catch a Wave",
+      "url": "https://open.spotify.com/track/2MbxU95EQZbdRo0biiC6M2"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188433,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm"
+    },
+    {
+      "album": {
+        "name": "Page Two",
+        "url": "https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "CHEER UP",
+      "url": "https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ"
+    },
+    {
+      "album": {
+        "name": "Page Two",
+        "url": "https://open.spotify.com/album/4Sm5OwvCBTMxG88fyfOr0T"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208862,
+      "name": "CHEER UP",
+      "url": "https://open.spotify.com/track/6jIpuClSFwyBoGTwwpkKU5"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186285,
+      "name": "CHILLAX",
+      "url": "https://open.spotify.com/track/4ujRbi0U14b4BjZhUOlTDK"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "CHILLAX",
+      "url": "https://open.spotify.com/track/4TsOQZGMRCVUhS7cNzhdVF"
+    },
+    {
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147320,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/51m3W8o9IlVrdWDEyqSY4F"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "CRAZY STUPID LOVE",
+      "url": "https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211426,
+      "name": "CRUEL",
+      "url": "https://open.spotify.com/track/139JUU8fJkQoeHl9nABk9C"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211426,
+      "name": "CRUEL",
+      "url": "https://open.spotify.com/track/4eEZoKgJBFjMaisskDfXmu"
+    },
+    {
+      "album": {
+        "name": "CRY FOR ME",
+        "url": "https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204167,
+      "name": "CRY FOR ME",
+      "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
+    },
+    {
+      "album": {
+        "name": "THE REMIXES",
+        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204833,
+      "name": "CRY FOR ME (English ver.)",
+      "url": "https://open.spotify.com/track/6cNj96qS6WfQwSCxWScFFW"
+    },
+    {
+      "album": {
+        "name": "#TWICE4 (Japanese ver.)",
+        "url": "https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207280,
+      "name": "CRY FOR ME - Japanese ver.",
+      "url": "https://open.spotify.com/track/3xs2LkBQl7wnBPC5zsiIqj"
+    },
+    {
+      "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/1Z7QoKOpqAWfiHnurlsiti"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/79ypLbXeRsgNgd3uZTOcY4"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Dance The Night Away",
+      "url": "https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180809,
+      "name": "Dance The Night Away",
+      "url": "https://open.spotify.com/track/5ilOXZ0vqTX69rjRubPivH"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "DEPEND ON YOU",
+      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198866,
+      "name": "DEPEND ON YOU",
+      "url": "https://open.spotify.com/track/7aTIF2pMy1hEs3r2ewcYGd"
+    },
+    {
+      "album": {
+        "name": "Do not touch",
+        "url": "https://open.spotify.com/album/2A7JiOErRUS6Sw9YneA6Hq"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Do not touch",
+      "url": "https://open.spotify.com/track/1w6b63TmaXFk1jhPOY0FkY"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179586,
+      "name": "DO WHAT WE LIKE",
+      "url": "https://open.spotify.com/track/4lqT9X8AYH3svpFQlEPicl"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "DO WHAT WE LIKE",
+      "url": "https://open.spotify.com/track/54kGRAmn3I49RPAhdWG2sp"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173346,
+      "name": "DON'T CALL ME AGAIN",
+      "url": "https://open.spotify.com/track/5Y3OPUKCfbGNygyijpeP4e"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173346,
+      "name": "DON\u2019T CALL ME AGAIN",
+      "url": "https://open.spotify.com/track/4pOPTaIor4ilgBCcOmnJRU"
+    },
+    {
+      "album": {
+        "name": "Doughnut",
+        "url": "https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263680,
+      "name": "Doughnut",
+      "url": "https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187800,
+      "name": "ESPRESSO",
+      "url": "https://open.spotify.com/track/5xUJPd7wa2sVsu7TtjmRdn"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "ESPRESSO",
+      "url": "https://open.spotify.com/track/61iEzLnJzBnMwumWtn0nFp"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191253,
+      "name": "F.I.L.A (Fall In Love Again)",
+      "url": "https://open.spotify.com/track/300nzoKtNDcwlNCZpF58be"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191253,
+      "name": "F.I.L.A (Fall In Love Again)",
+      "url": "https://open.spotify.com/track/4O1WbQwMV0W6Y2dUCvwoBx"
+    },
+    {
+      "album": {
+        "name": "Fake & True",
+        "url": "https://open.spotify.com/album/6Dj10YAOr22VG3eWsvwmeE"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219625,
+      "name": "Fake & True",
+      "url": "https://open.spotify.com/track/2sKWWJ5ee3EnKBztzxPpMH"
+    },
+    {
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
+    },
+    {
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213885,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/3uqAI1vTwmFuGbLoYSjZHz"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Feel Special",
+      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/5efEhTY3yPlGU4Ofu2yi7F"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206868,
+      "name": "Feel Special",
+      "url": "https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "FIREWORK",
+      "url": "https://open.spotify.com/track/5NhDDt5Zy8yGOECN3PLRdE"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193466,
+      "name": "FIREWORK",
+      "url": "https://open.spotify.com/track/7iXrqFaV5tK4Fri4mrO8jP"
+    },
+    {
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/3YdqewCLgGsFhruA3EhILy"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227653,
+      "name": "Four-leaf Clover",
+      "url": "https://open.spotify.com/track/4kfWbVi5ND1FOUoN6LK5Es"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186970,
+      "name": "GET LOUD",
+      "url": "https://open.spotify.com/track/06rOypJlNqSmHXT3FymVp6"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "GET LOUD",
+      "url": "https://open.spotify.com/track/6RIx1qFPIeY2PBZfAHLaLG"
+    },
+    {
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158637,
+      "name": "GIRLS LIKE US",
+      "url": "https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp"
+    },
+    {
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158640,
+      "name": "GIRLS LIKE US",
+      "url": "https://open.spotify.com/track/2mJAZlRKj2egyDPuOgSaFz"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181520,
+      "name": "GO HARD",
+      "url": "https://open.spotify.com/track/4DyrLEu46wIXGgBBcLVXEW"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181520,
+      "name": "GO HARD",
+      "url": "https://open.spotify.com/track/5uZ5VUoj2al8GttE421bTD"
+    },
+    {
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/0tTotZHPsxyjW3jqNJ1td2"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231233,
+      "name": "Good at Love",
+      "url": "https://open.spotify.com/track/4rZ6LHapeH1Cnxgvu8SrFK"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "GOT THE THRILLS",
+      "url": "https://open.spotify.com/track/1RVsbqAP1WFFXPiBXQYIah"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171053,
+      "name": "HANDLE IT",
+      "url": "https://open.spotify.com/track/2laLdXRHMaHCuqr3DXgzhZ"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171053,
+      "name": "HANDLE IT",
+      "url": "https://open.spotify.com/track/7xhyrH0Es6AZ8SWqtWyUr1"
+    },
+    {
+      "album": {
+        "name": "HAPPY HAPPY",
+        "url": "https://open.spotify.com/album/7L4aQ3NuXn10GinA6Fs2pc"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206973,
+      "name": "HAPPY HAPPY",
+      "url": "https://open.spotify.com/track/1yPkYnRgZveWLCUSWX16ra"
+    },
+    {
+      "album": {
+        "name": "Hare Hare",
+        "url": "https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "Hare Hare",
+      "url": "https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t"
+    },
+    {
+      "album": {
+        "name": "Merry & Happy",
+        "url": "https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186893,
+      "name": "Heart Shaker",
+      "url": "https://open.spotify.com/track/52FCAZn0YEkZfF0BtiAUMW"
+    },
+    {
+      "album": {
+        "name": "Merry & Happy",
+        "url": "https://open.spotify.com/album/5RT90DQ1cw1jDPmm70UZBq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186895,
+      "name": "Heart Shaker",
+      "url": "https://open.spotify.com/track/4kFgsVu3GrGyiVuaum1K2J"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179320,
+      "name": "HELL IN HEAVEN",
+      "url": "https://open.spotify.com/track/19by44jwF68iVN8D815kOB"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "HELL IN HEAVEN",
+      "url": "https://open.spotify.com/track/3KCreWc88InXH3XuL54C5a"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183213,
+      "name": "HELLO (NAYEON, MOMO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1bXM8imxd31qCecbHgSk9E"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183213,
+      "name": "HELLO (NAYEON, MOMO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/3o2KyQicBiuUDKUKLR2XEm"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/3apeXzypBMnUfYcZYNX6DH"
+    },
+    {
+      "album": {
+        "name": "I CAN'T STOP ME (English Version)",
+        "url": "https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205484,
+      "name": "I CAN'T STOP ME (English Version)",
+      "url": "https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC"
+    },
+    {
+      "album": {
+        "name": "#TWICE4 (Japanese ver.)",
+        "url": "https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "I CAN'T STOP ME - Japanese ver.",
+      "url": "https://open.spotify.com/track/1tyCxhxiHQ9DoHIiDMFPzL"
+    },
+    {
+      "album": {
+        "name": "THE REMIXES",
+        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "I CAN\u2019T STOP ME (feat. BOYS LIKE GIRLS)",
+      "url": "https://open.spotify.com/track/4gKhh8GQfRprLBBPc5um6Q"
+    },
+    {
+      "album": {
+        "name": "BDZ",
+        "url": "https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203815,
+      "name": "I WANT YOU BACK",
+      "url": "https://open.spotify.com/track/54w5JUSWCJu64pnw8alImP"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176160,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/78vV5Ww5jmY2BF8lHzAN3A"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210953,
+      "name": "In the summer",
+      "url": "https://open.spotify.com/track/04LlwbQp31hLQ6meYbP19t"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster:lane1",
+        "url": "https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210626,
+      "name": "Jelly Jelly",
+      "url": "https://open.spotify.com/track/2GJxT761mGTQocouI2oLTe"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster: Lane 1",
+        "url": "https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Jelly Jelly",
+      "url": "https://open.spotify.com/track/7a2QLFestFOeQ03xBBX6E0"
+    },
+    {
+      "album": {
+        "name": "Just be yourself",
+        "url": "https://open.spotify.com/album/580je4ls7G3Ul39rZzqXOC"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "Just be yourself",
+      "url": "https://open.spotify.com/track/6JQejkZXevMZeRBq8BpBFp"
+    },
+    {
+      "album": {
+        "name": "Killin' Me Good (English Ver.)",
+        "url": "https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Killin' Me Good (English Ver.)",
+      "url": "https://open.spotify.com/track/0t5Q16hVryXI4CKx8VpA66"
+    },
+    {
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster: Lane 2",
+        "url": "https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195746,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/3HWOknOVmd44e1jg4g0Sga"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster : Lane 2",
+        "url": "https://open.spotify.com/album/5JtYNion0x5enJFBhDgBJq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195753,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/3DKtiWVAcWFOxIPyBlXxJt"
+    },
+    {
+      "album": {
+        "name": "Kura Kura",
+        "url": "https://open.spotify.com/album/5FMslDParbcWQ7o5FQqCWf"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227746,
+      "name": "Kura Kura",
+      "url": "https://open.spotify.com/track/0SiX8tNiIZskZrPiAh6XxX"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227746,
+      "name": "Kura Kura",
+      "url": "https://open.spotify.com/track/3sroak7dIqGRGmC6VQVDtg"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170560,
+      "name": "LAST WALTZ",
+      "url": "https://open.spotify.com/track/1Gh4fJxW4T9idXKqiMffJ6"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "LAST WALTZ",
+      "url": "https://open.spotify.com/track/39kH6C2twlYjyssIW02sbr"
+    },
+    {
+      "album": {
+        "name": "The Story Begins",
+        "url": "https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "Like Ooh-Ahh",
+      "url": "https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z"
+    },
+    {
+      "album": {
+        "name": "The Story Begins",
+        "url": "https://open.spotify.com/album/2vsOT4A0aFm0HoLMfAZrng"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215091,
+      "name": "Like Ooh-Ahh",
+      "url": "https://open.spotify.com/track/3i01M7jnvBYrhG6YnAqCdC"
+    },
+    {
+      "album": {
+        "name": "Twicetagram",
+        "url": "https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Likey",
+      "url": "https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T"
+    },
+    {
+      "album": {
+        "name": "Twicetagram",
+        "url": "https://open.spotify.com/album/2hlrs1dDJnxbeeBZXQmlBd"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207824,
+      "name": "Likey",
+      "url": "https://open.spotify.com/track/6ve3r62aFa708CuICfbY5P"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "LOVE FOOLISH",
+      "url": "https://open.spotify.com/track/1MdEg2lk4EakgWnCvFUGEZ"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191228,
+      "name": "LOVE FOOLISH",
+      "url": "https://open.spotify.com/track/5L002vJ4NC0lRM8RtncBBp"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186706,
+      "name": "MAKE ME GO",
+      "url": "https://open.spotify.com/track/2kYbyudUsQyBzFjWTpy6xV"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "MAKE ME GO",
+      "url": "https://open.spotify.com/track/6caS9LrdquWAfGeAmjqt1t"
+    },
+    {
+      "album": {
+        "name": "Marshmallow",
+        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182321,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219386,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/14k4ALBLN2FjtELYDcQUoi"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219386,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/1KlMpUN2kGjUHzotQ5KMiu"
+    },
+    {
+      "album": {
+        "name": "MOONLIGHT SUNRISE",
+        "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
+    },
+    {
+      "album": {
+        "name": "THE REMIXES",
+        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+      "url": "https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199653,
+      "name": "MORE & MORE",
+      "url": "https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "MORE & MORE",
+      "url": "https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g"
+    },
+    {
+      "album": {
+        "name": "THE REMIXES",
+        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "LEE HAE SOL",
+          "url": "https://open.spotify.com/artist/5xZzq9Bk8IociNfF0TfHdf"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "MORE & MORE (LEE HAE SOL Sped Up Remix)",
+      "url": "https://open.spotify.com/track/3PeqOlET4ZX6CKGwrlAX7u"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster:lane1",
+        "url": "https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175256,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/2YTzBBMPkf2mETq2FyzoUs"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster: Lane 2",
+        "url": "https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 175280,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/2WWUozUXaj0XY8MKmFHvYp"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster: Lane 1",
+        "url": "https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175306,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/6Nqp4bYrZgdVnAmWc9Ek39"
+    },
+    {
+      "album": {
+        "name": "BDZ",
+        "url": "https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/4DmS8lnz6VbEMWrUcbm8WZ"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225400,
+      "name": "OXYGEN",
+      "url": "https://open.spotify.com/track/0JeDwT1t3gcrAH29RA0yvm"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "OXYGEN",
+      "url": "https://open.spotify.com/track/128rj96Z6tTEU3h3awSMdB"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "Perfect World",
+      "url": "https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "Perfect World",
+      "url": "https://open.spotify.com/track/0iuZMy88H6vxDA2oaJNhJg"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241746,
+      "name": "PIECES OF LOVE",
+      "url": "https://open.spotify.com/track/4xBdYia1CdzUHjguICASZr"
+    },
+    {
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259693,
+      "name": "PROMISE",
+      "url": "https://open.spotify.com/track/3vA8ZdIqvRARF2pVKlnAWD"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "PUSH & PULL (JIHYO, SANA, DAHYUN)",
+      "url": "https://open.spotify.com/track/7kbOwsTp2Uqm1scjRPiVt4"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205466,
+      "name": "PUSH & PULL (JIHYO, SANA, DAHYUN)",
+      "url": "https://open.spotify.com/track/7rY4s8axCW9tQXboPQ46nJ"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/2xVCwFrNYnllRX1g0drYVI"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193573,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/5SxmB43X7hhvjtNkZ77VN4"
+    },
+    {
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/3sOEVB8DirQtZc0qhw8lJc"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177080,
+      "name": "RAINBOW",
+      "url": "https://open.spotify.com/track/6uy9lTlZ3xaMYQPk6eaJaz"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177086,
+      "name": "RAINBOW",
+      "url": "https://open.spotify.com/track/14lnkKluT9U1lAz6M10SPx"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187933,
+      "name": "REAL YOU",
+      "url": "https://open.spotify.com/track/3ax3sc1Rn99YbjyKT0HALS"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187933,
+      "name": "REAL YOU",
+      "url": "https://open.spotify.com/track/6RE7FVgSlMCHvDRX3lCID2"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180613,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/48IF5DE7gZHLnv6znEIGAP"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180613,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/4BBnKqIS2pj2hX0zm0CZZx"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247360,
+      "name": "SAY SOMETHING",
+      "url": "https://open.spotify.com/track/2FD1OIYpzEf9y2Z6S8hgJu"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247360,
+      "name": "SAY SOMETHING",
+      "url": "https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST"
+    },
+    {
+      "album": {
+        "name": "The year of \"YES\"",
+        "url": "https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212866,
+      "name": "SAY YOU LOVE ME",
+      "url": "https://open.spotify.com/track/0jDOXqTgGkkccDpsLGRWth"
+    },
+    {
+      "album": {
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "SAY YOU LOVE ME",
+      "url": "https://open.spotify.com/track/7fEMfYZnjQ28Cpzi7QnkAC"
+    },
+    {
+      "album": {
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212871,
+      "name": "SAY YOU LOVE ME",
+      "url": "https://open.spotify.com/track/069jMsuBJ01VXF7MXiuKET"
+    },
+    {
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Scandal",
+      "url": "https://open.spotify.com/track/2fluM1mE0tKQ6rvM77Vr11"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194600,
+      "name": "SCIENTIST",
+      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194600,
+      "name": "SCIENTIST",
+      "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "SCIENTIST (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
+    },
+    {
+      "album": {
+        "name": "#TWICE4 (Japanese ver.)",
+        "url": "https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "SCIENTIST - Japanese ver.",
+      "url": "https://open.spotify.com/track/3dFsp2LG3OIOgBaBU87FR6"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208780,
+      "name": "SCIENTIST - R3HAB Remix",
+      "url": "https://open.spotify.com/track/53V5RztDKB9AXoqbHVKq2y"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
+    },
+    {
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "SET ME FREE (ARMNHMR Remix) (ENG)",
+      "url": "https://open.spotify.com/track/6rEskoR1IPe8099gp8N5AL"
+    },
+    {
+      "album": {
+        "name": "THE REMIXES",
+        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Carneyval",
+          "url": "https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177580,
+      "name": "SET ME FREE (Carneyval Remix)",
+      "url": "https://open.spotify.com/track/3b14obu61ODHmi0vjaajeF"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "SET ME FREE (ENG)",
+      "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
+    },
+    {
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lindgren",
+          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "SET ME FREE (Lindgren Remix)",
+      "url": "https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn"
+    },
+    {
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lindgren",
+          "url": "https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211586,
+      "name": "SET ME FREE (Lindgren Remix) (ENG)",
+      "url": "https://open.spotify.com/track/7K5LvTMS85SKWK6bYtHhAP"
+    },
+    {
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Tommy \u201cTBHits\u201d Brown",
+          "url": "https://open.spotify.com/artist/06moEoVtCKweJmGYid8vU7"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "SET ME FREE (Tommy \u201cTBHits\u201d Brown Remix)",
+      "url": "https://open.spotify.com/track/3em8yvglQOquNvttDVnRWS"
+    },
+    {
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Tommy \u201cTBHits\u201d Brown",
+          "url": "https://open.spotify.com/artist/06moEoVtCKweJmGYid8vU7"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "SET ME FREE (Tommy \u201cTBHits\u201d Brown Remix) (ENG)",
+      "url": "https://open.spotify.com/track/6BhpvHofjQy5ZHSJLUy1V5"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168893,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/0Wv6HtcBNex6lwPugykWCd"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168893,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/7HzvvhTmfzvD1dV4F7MIcm"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209480,
+      "name": "SHOT CLOCK",
+      "url": "https://open.spotify.com/track/35J5q8vdObi345b8NKm1CX"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209480,
+      "name": "SHOT CLOCK",
+      "url": "https://open.spotify.com/track/5HSooivbDgCWBOv24vtYiB"
+    },
+    {
+      "album": {
+        "name": "SIGNAL",
+        "url": "https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/15rX80MpEJ2OqW3dPunQvI"
+    },
+    {
+      "album": {
+        "name": "SIGNAL",
+        "url": "https://open.spotify.com/album/592a3GSZMuKaDcXG61bS1F"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196687,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/2C7ypcfp9B4bCwlQZEVpvu"
+    },
+    {
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 6",
+        "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251517,
+      "name": "Stardust love song",
+      "url": "https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7"
+    },
+    {
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176293,
+      "name": "STUCK IN MY HEAD",
+      "url": "https://open.spotify.com/track/19rOI8tvgnNUQaNyz0n2TP"
+    },
+    {
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176294,
+      "name": "STUCK IN MY HEAD",
+      "url": "https://open.spotify.com/track/045vckAeaQEbJ3vmatyBWt"
+    },
+    {
+      "album": {
+        "name": "STUCK IN MY HEAD (Japanese ver.)",
+        "url": "https://open.spotify.com/album/6ASR567iHO8X0ILS2vsP3W"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "STUCK IN MY HEAD - Japanese ver.",
+      "url": "https://open.spotify.com/track/64yv4Oj1BfZse3JswH5iBH"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191986,
+      "name": "SWEET SUMMER DAY",
+      "url": "https://open.spotify.com/track/4XDWKodqvKyGL5YJILpKM5"
+    },
+    {
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191986,
+      "name": "SWEET SUMMER DAY",
+      "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
+    },
+    {
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "album": {
+        "name": "Killin' Me Good (English Ver.)",
+        "url": "https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170626,
+      "name": "Talkin\u2019 About It (Feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/0EUJ10QWM7iYYyHt2Bf0DI"
+    },
+    {
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197353,
+      "name": "Thank you, Family",
+      "url": "https://open.spotify.com/track/6LlUHkJ6FsR5NpZA4vsVNe"
+    },
+    {
+      "album": {
+        "name": "The year of \"YES\"",
+        "url": "https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210440,
+      "name": "The Best Thing I Ever Did",
+      "url": "https://open.spotify.com/track/4ZI5oNBcRlYAEicib87I8O"
+    },
+    {
+      "album": {
+        "name": "The Feels",
+        "url": "https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198053,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY"
+    },
+    {
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+    },
+    {
+      "album": {
+        "name": "THE REMIXES",
+        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171920,
+      "name": "The Feels (Ian Asher Remix)",
+      "url": "https://open.spotify.com/track/2hN7kHEKFPFArDhJlg7UPm"
+    },
+    {
+      "album": {
+        "name": "Page Two",
+        "url": "https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/33Y2SR1SLyfXD6lotmt0oP"
+    },
+    {
+      "album": {
+        "name": "Page Two",
+        "url": "https://open.spotify.com/album/4Sm5OwvCBTMxG88fyfOr0T"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202629,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/73VfCfo6yiozAzMPcCgWY7"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193995,
+      "name": "TRICK IT",
+      "url": "https://open.spotify.com/track/0lOndCh09maK7vpvRgyy6u"
+    },
+    {
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "TRICK IT",
+      "url": "https://open.spotify.com/track/10la9pZeeL51aEjzC02SkI"
+    },
+    {
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5L9eGmPwQnhIlJY1qDQ3OJ"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster: Lane 2",
+        "url": "https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212986,
+      "name": "TT",
+      "url": "https://open.spotify.com/track/1dLmduuScyeYONBTKKu3VG"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster: Lane 1",
+        "url": "https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212986,
+      "name": "TT",
+      "url": "https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6"
+    },
+    {
+      "album": {
+        "name": "Twicecoaster:lane1",
+        "url": "https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212990,
+      "name": "TT",
+      "url": "https://open.spotify.com/track/1nMbZ9OsVNSLEyijI80EST"
+    },
+    {
+      "album": {
+        "name": "#TWICE",
+        "url": "https://open.spotify.com/album/3RU5xvGbTAXCWoUSqGf7dk"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212989,
+      "name": "TT - Japanese ver.",
+      "url": "https://open.spotify.com/track/0PAyiPTz8gL0udQnSasc5G"
+    },
+    {
+      "album": {
+        "name": "Twicetagram",
+        "url": "https://open.spotify.com/album/2hlrs1dDJnxbeeBZXQmlBd"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198033,
+      "name": "Turtle",
+      "url": "https://open.spotify.com/track/541bGIVOf11yJUH54VDCr0"
+    },
+    {
+      "album": {
+        "name": "Twicetagram",
+        "url": "https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "Turtle",
+      "url": "https://open.spotify.com/track/1LQtxz9fIrZskoqDSbhKd3"
+    },
+    {
+      "album": {
+        "name": "Eyes wide open",
+        "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214240,
+      "name": "UP NO MORE",
+      "url": "https://open.spotify.com/track/0eeebX5IslzAMBs519PlO5"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "UP NO MORE",
+      "url": "https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584"
+    },
+    {
+      "album": {
+        "name": "BDZ",
+        "url": "https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211799,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/0CvJiFydKzLSQUn6McFPrb"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "WALLFLOWER",
+      "url": "https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y"
+    },
+    {
+      "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208226,
+      "name": "What is Love",
+      "url": "https://open.spotify.com/track/54mnwt3kO0uYsy0ceg14JP"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208240,
+      "name": "What is Love",
+      "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208238,
+      "name": "What is Love?",
+      "url": "https://open.spotify.com/track/7dZBVloiLpV350g0R6O3nP"
+    },
+    {
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "When We Were Kids",
+      "url": "https://open.spotify.com/track/7uAKsykguOnXZSh0WpOW5z"
+    },
+    {
+      "album": {
+        "name": "Doughnut",
+        "url": "https://open.spotify.com/album/1eIMbbLLxejimwwLW4Rdl8"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "Wonderful Day",
+      "url": "https://open.spotify.com/track/75wtNse2szKx7YT2WKhiTL"
+    },
+    {
+      "album": {
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237680,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
+    },
+    {
+      "album": {
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237685,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"
+    },
+    {
+      "album": {
+        "name": "The year of \"YES\"",
+        "url": "https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 237693,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/27EUkTy6RrDCCToOoRXiQB"
+    },
+    {
+      "album": {
+        "name": "The year of \"YES\"",
+        "url": "https://open.spotify.com/album/7fk1Ss3LO6U2LYHb82z9zf"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210450,
+      "name": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c The Best Thing I Ever Did",
+      "url": "https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m"
 }

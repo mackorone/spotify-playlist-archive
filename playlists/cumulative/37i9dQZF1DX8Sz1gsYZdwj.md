@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-182 songs - 8 hr 47 min
+184 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2022-03-18 |  |
 | [A Catalogue of Afternoons](https://open.spotify.com/track/2WkuESwWyJ1txlbXnDIwPm) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voyager \- Essential Max Richter](https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd) | 1:48 | 2021-11-09 | 2023-10-25 |
 | [A Simple Little Lullaby](https://open.spotify.com/track/0If3zfg7N68SAaDgPAQa9l) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [A Simple Little Lullaby](https://open.spotify.com/album/5ro6Pk3RdEAVaf3HywFSOe) | 2:40 | 2021-11-09 |  |
+| [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 | 2024-01-09 |  |
 | [Adoration](https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Adoration](https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2) | 2:37 | 2023-11-29 |  |
 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-10 |  |
 | [Album for the Young, Op\. 39: No\. 3\. Mamma \(Maman\)](https://open.spotify.com/track/4GjfVYoUJ0OCmDiL869kUJ) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Carol Rosenberger](https://open.spotify.com/artist/3lYDYx5OUgPVrVvFLCCRB7) | [Piano Recital: Rosenberger, Carol \- Kabalevsky, D\. / Tchaikovsky, P\. \(Perchance To Dream \- A Lullaby Album for Children and Adults\)](https://open.spotify.com/album/2wiv4F0IkUWwFkv453uEkT) | 1:33 | 2021-11-09 | 2023-10-25 |
@@ -152,6 +153,7 @@
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2023-09-29 |  |
 | [Smoothness](https://open.spotify.com/track/2Fn9MiptYoek7WhvXxoGdD) | [Nikola Zolkiewska](https://open.spotify.com/artist/0SA6z90K5j50moLpfjA5vC) | [Cinematic Beauty](https://open.spotify.com/album/1qz2IKRnTVNklb6LcuwXYN) | 2:33 | 2021-11-09 | 2022-02-01 |
 | [Snuggled](https://open.spotify.com/track/75Zh8LLgK1jnGbHsAMN2vv) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Snuggled](https://open.spotify.com/album/3xjUvrQEXkBv2V1NiMw3Pv) | 2:11 | 2023-12-11 |  |
+| [So Still](https://open.spotify.com/track/5Oyts6S9nV0eKgpN8pZMQj) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [So Still](https://open.spotify.com/album/2r6SI58mqGIUTngRoGPFUo) | 2:18 | 2024-01-09 |  |
 | [Sparrow Eye](https://open.spotify.com/track/5fsFankh47Uve3ugGEKyyG) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Sparrow Eye](https://open.spotify.com/album/2ebbOKUcsgBBhyQ83DjA6H) | 2:46 | 2023-09-29 |  |
 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2023-09-29 |  |
 | [Stoevsky](https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Stoevsky](https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb) | 2:44 | 2023-02-28 |  |

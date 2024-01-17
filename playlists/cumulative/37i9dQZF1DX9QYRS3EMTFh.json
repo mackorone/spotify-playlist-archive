@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Maureen",
+  "description": "Les hits dancehall du moment. Photo : Meryl",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Block Delete",
+        "url": "https://open.spotify.com/album/4b8P2KSA22bfbsJcP6MFO0"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Block Delete",
+      "url": "https://open.spotify.com/track/34SQSpmW2m6Pmtigsiz4ya"
+    },
+    {
+      "album": {
         "name": "BMW",
         "url": "https://open.spotify.com/album/0WIX8aQ4NyUv7udYrrZMyL"
       },
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 156631,
       "name": "Bruk Out",
       "url": "https://open.spotify.com/track/2tqmebpNRL25n5lxYfgGq3"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 190784,
       "name": "Goumen",
       "url": "https://open.spotify.com/track/4GhDKt1JuJFMqsnUcdvMM5"
@@ -3103,6 +3121,32 @@
     },
     {
       "album": {
+        "name": "James Bond (With Harley)",
+        "url": "https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg"
+      },
+      "artists": [
+        {
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "James Bond (With Harley)",
+      "url": "https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2"
+    },
+    {
+      "album": {
         "name": "James Bond (King Doudou Remix)",
         "url": "https://open.spotify.com/album/1FzOPp8T1jWUNceqSqu6EC"
       },
@@ -3122,7 +3166,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 186448,
       "name": "James Bond - King Doudou Remix",
       "url": "https://open.spotify.com/track/5dVVnvIl96krM2WYcq0FGJ"
@@ -3516,7 +3560,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 222120,
       "name": "La La (feat. Suarez)",
       "url": "https://open.spotify.com/track/7GlOrQ7xu2KbxWQKXQKcQA"
@@ -3776,6 +3820,24 @@
       "duration_ms": 186533,
       "name": "Lov'la",
       "url": "https://open.spotify.com/track/0u77jPc44fS40vJPM9eCCZ"
+    },
+    {
+      "album": {
+        "name": "LumSum",
+        "url": "https://open.spotify.com/album/7iANuyu5V1UXLG7pRyvWdM"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146235,
+      "name": "LumSum",
+      "url": "https://open.spotify.com/track/22bgXkhzcJ3gqqhQw838Cx"
     },
     {
       "album": {
@@ -4744,7 +4806,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 146776,
       "name": "PASS LA KAZ",
       "url": "https://open.spotify.com/track/7B5UgIUD4jQaQb0ebN9zs3"
@@ -5191,6 +5253,24 @@
     },
     {
       "album": {
+        "name": "R.O.D.R Ruff on DI Road",
+        "url": "https://open.spotify.com/album/1ZTs3U0KDC62St86W5kNqA"
+      },
+      "artists": [
+        {
+          "name": "Paille",
+          "url": "https://open.spotify.com/artist/22odTnbJhyDIQFnp8z1PgA"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "R.O.D.R Ruff on DI Road",
+      "url": "https://open.spotify.com/track/6EBuEdDjd87vuwaV6kS7HF"
+    },
+    {
+      "album": {
         "name": "Rasta",
         "url": "https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD"
       },
@@ -5582,6 +5662,32 @@
       "duration_ms": 154582,
       "name": "Set It",
       "url": "https://open.spotify.com/track/4lyJX3Yn9c2IpUUwrfQhyO"
+    },
+    {
+      "album": {
+        "name": "Shatta De Minuit",
+        "url": "https://open.spotify.com/album/5PjGgiteQqGwBZ6AohWflV"
+      },
+      "artists": [
+        {
+          "name": "Elji",
+          "url": "https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        },
+        {
+          "name": "Gamix",
+          "url": "https://open.spotify.com/artist/3aOHw8ZqmQaNG5MbRumUaI"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Shatta De Minuit",
+      "url": "https://open.spotify.com/track/0WEbrz4AXEUYklBdFEr3I3"
     },
     {
       "album": {
@@ -6369,6 +6475,32 @@
     },
     {
       "album": {
+        "name": "Walpixx Riddim, Vol. 4",
+        "url": "https://open.spotify.com/album/7M8jIkHhjZrpfaawpYzt1G"
+      },
+      "artists": [
+        {
+          "name": "Stony",
+          "url": "https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        },
+        {
+          "name": "Mafio House",
+          "url": "https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117918,
+      "name": "Tik Tok",
+      "url": "https://open.spotify.com/track/4u3oCuccFqsQMEWCnil6PX"
+    },
+    {
+      "album": {
         "name": "Mad Ting 3",
         "url": "https://open.spotify.com/album/6FX5PeWBmj7XAUsOkqi34i"
       },
@@ -6516,7 +6648,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 161612,
       "name": "Tous Les Ken",
       "url": "https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE"

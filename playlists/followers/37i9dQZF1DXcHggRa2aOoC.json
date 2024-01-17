@@ -1,404 +1,909 @@
 {
-  "2022-11-24": 29,
-  "2022-11-25": 53,
-  "2022-11-26": 64,
-  "2022-11-27": 72,
-  "2022-11-28": 91,
-  "2022-11-29": 105,
-  "2022-11-30": 131,
-  "2022-12-01": 149,
-  "2022-12-02": 157,
-  "2022-12-03": 177,
-  "2022-12-04": 207,
-  "2022-12-05": 228,
-  "2022-12-06": 259,
-  "2022-12-07": 280,
-  "2022-12-08": 301,
-  "2022-12-09": 317,
-  "2022-12-10": 330,
-  "2022-12-11": 350,
-  "2022-12-12": 364,
-  "2022-12-13": 379,
-  "2022-12-14": 396,
-  "2022-12-15": 407,
-  "2022-12-16": 422,
-  "2022-12-17": 438,
-  "2022-12-18": 453,
-  "2022-12-19": 469,
-  "2022-12-20": 500,
-  "2022-12-21": 500,
-  "2022-12-22": 507,
-  "2022-12-24": 547,
-  "2022-12-25": 558,
-  "2022-12-26": 573,
-  "2022-12-27": 591,
-  "2022-12-28": 604,
-  "2022-12-29": 614,
-  "2022-12-30": 624,
-  "2022-12-31": 644,
-  "2023-01-01": 655,
-  "2023-01-02": 663,
-  "2023-01-03": 677,
-  "2023-01-04": 683,
-  "2023-01-05": 692,
-  "2023-01-06": 707,
-  "2023-01-07": 727,
-  "2023-01-08": 728,
-  "2023-01-09": 738,
-  "2023-01-10": 753,
-  "2023-01-11": 761,
-  "2023-01-12": 773,
-  "2023-01-13": 780,
-  "2023-01-14": 800,
-  "2023-01-15": 799,
-  "2023-01-16": 818,
-  "2023-01-17": 833,
-  "2023-01-18": 851,
-  "2023-01-19": 860,
-  "2023-01-20": 876,
-  "2023-01-21": 898,
-  "2023-01-22": 919,
-  "2023-01-23": 933,
-  "2023-01-24": 946,
-  "2023-01-25": 957,
-  "2023-01-26": 970,
-  "2023-01-27": 984,
-  "2023-01-28": 993,
-  "2023-01-29": 1011,
-  "2023-01-30": 1032,
-  "2023-01-31": 1032,
-  "2023-02-01": 1061,
-  "2023-02-02": 1074,
-  "2023-02-03": 1089,
-  "2023-02-04": 1099,
-  "2023-02-05": 1111,
-  "2023-02-06": 1122,
-  "2023-02-07": 1133,
-  "2023-02-08": 1147,
-  "2023-02-09": 1147,
-  "2023-02-10": 1157,
-  "2023-02-11": 1165,
-  "2023-02-12": 1181,
-  "2023-02-13": 1191,
-  "2023-02-14": 1191,
-  "2023-02-15": 1204,
-  "2023-02-16": 1219,
-  "2023-02-17": 1233,
-  "2023-02-18": 1256,
-  "2023-02-19": 1258,
-  "2023-02-20": 1267,
-  "2023-02-21": 1282,
-  "2023-02-22": 1297,
-  "2023-02-23": 1308,
-  "2023-02-24": 1317,
-  "2023-02-25": 1338,
-  "2023-02-26": 1346,
-  "2023-02-27": 1369,
-  "2023-02-28": 1369,
-  "2023-03-01": 1375,
-  "2023-03-02": 1388,
-  "2023-03-03": 1403,
-  "2023-03-04": 1415,
-  "2023-03-05": 1434,
-  "2023-03-06": 1434,
-  "2023-03-07": 1453,
-  "2023-03-08": 1463,
-  "2023-03-09": 1475,
-  "2023-03-10": 1487,
-  "2023-03-11": 1501,
-  "2023-03-12": 1513,
-  "2023-03-13": 1531,
-  "2023-03-14": 1540,
-  "2023-03-15": 1556,
-  "2023-03-16": 1567,
-  "2023-03-17": 1567,
-  "2023-03-18": 1587,
-  "2023-03-19": 1600,
-  "2023-03-20": 1611,
-  "2023-03-21": 1624,
-  "2023-03-22": 1634,
-  "2023-03-23": 1641,
-  "2023-03-24": 1641,
-  "2023-03-25": 1655,
-  "2023-03-26": 1667,
-  "2023-03-27": 1684,
-  "2023-03-28": 1697,
-  "2023-03-29": 1709,
-  "2023-03-30": 1729,
-  "2023-03-31": 1729,
-  "2023-04-01": 1737,
-  "2023-04-02": 1751,
-  "2023-04-03": 1758,
-  "2023-04-04": 1767,
-  "2023-04-05": 1775,
-  "2023-04-06": 1788,
-  "2023-04-07": 1793,
-  "2023-04-09": 1820,
-  "2023-04-10": 1833,
-  "2023-04-11": 1854,
-  "2023-04-12": 1854,
-  "2023-04-13": 1869,
-  "2023-04-14": 1885,
-  "2023-04-15": 1897,
-  "2023-04-16": 1908,
-  "2023-04-17": 1920,
-  "2023-04-18": 1934,
-  "2023-04-19": 1947,
-  "2023-04-20": 1955,
-  "2023-04-21": 1970,
-  "2023-04-22": 1996,
-  "2023-04-23": 2011,
-  "2023-04-24": 2029,
-  "2023-04-25": 2059,
-  "2023-04-26": 2074,
-  "2023-04-27": 2092,
-  "2023-04-28": 2108,
-  "2023-04-29": 2125,
-  "2023-04-30": 2150,
-  "2023-05-01": 2176,
-  "2023-05-02": 2197,
-  "2023-05-03": 2220,
-  "2023-05-04": 2245,
-  "2023-05-05": 2263,
-  "2023-05-06": 2280,
-  "2023-05-07": 2296,
-  "2023-05-08": 2311,
-  "2023-05-09": 2323,
-  "2023-05-10": 2351,
-  "2023-05-11": 2374,
-  "2023-05-12": 2399,
-  "2023-05-13": 2424,
-  "2023-05-14": 2449,
-  "2023-05-15": 2485,
-  "2023-05-16": 2509,
-  "2023-05-17": 2535,
-  "2023-05-18": 2553,
-  "2023-05-19": 2572,
-  "2023-05-20": 2619,
-  "2023-05-21": 2619,
-  "2023-05-22": 2619,
-  "2023-05-23": 2651,
-  "2023-05-24": 2685,
-  "2023-05-25": 2687,
-  "2023-05-26": 2708,
-  "2023-05-27": 2723,
-  "2023-05-28": 2740,
-  "2023-05-29": 2740,
-  "2023-05-30": 2771,
-  "2023-05-31": 2790,
-  "2023-06-01": 2808,
-  "2023-06-02": 2830,
-  "2023-06-03": 2854,
-  "2023-06-04": 2868,
-  "2023-06-05": 2885,
-  "2023-06-06": 2912,
-  "2023-06-07": 2935,
-  "2023-06-08": 2941,
-  "2023-06-09": 2960,
-  "2023-06-10": 2974,
-  "2023-06-11": 2991,
-  "2023-06-12": 3002,
-  "2023-06-13": 3020,
-  "2023-06-14": 3041,
-  "2023-06-15": 3065,
-  "2023-06-16": 3077,
-  "2023-06-17": 3103,
-  "2023-06-18": 3118,
-  "2023-06-19": 3145,
-  "2023-06-20": 3155,
-  "2023-06-21": 3170,
-  "2023-06-22": 3185,
-  "2023-06-23": 3202,
-  "2023-06-24": 3222,
-  "2023-06-25": 3238,
-  "2023-06-26": 3257,
-  "2023-06-27": 3270,
-  "2023-06-28": 3282,
-  "2023-06-29": 3303,
-  "2023-06-30": 3318,
-  "2023-07-01": 3355,
-  "2023-07-02": 3355,
-  "2023-07-03": 3370,
-  "2023-07-04": 3382,
-  "2023-07-05": 3394,
-  "2023-07-06": 3433,
-  "2023-07-07": 3433,
-  "2023-07-08": 3443,
-  "2023-07-09": 3457,
-  "2023-07-10": 3477,
-  "2023-07-11": 3493,
-  "2023-07-12": 3516,
-  "2023-07-13": 3524,
-  "2023-07-14": 3540,
-  "2023-07-15": 3548,
-  "2023-07-16": 3570,
-  "2023-07-17": 3595,
-  "2023-07-18": 3610,
-  "2023-07-19": 3637,
-  "2023-07-20": 3648,
-  "2023-07-21": 3667,
-  "2023-07-22": 3681,
-  "2023-07-23": 3703,
-  "2023-07-24": 3716,
-  "2023-07-25": 3725,
-  "2023-07-26": 3744,
-  "2023-07-27": 3761,
-  "2023-07-28": 3778,
-  "2023-07-29": 3791,
-  "2023-07-30": 3807,
-  "2023-07-31": 3828,
-  "2023-08-01": 3842,
-  "2023-08-02": 3859,
-  "2023-08-03": 3873,
-  "2023-08-04": 3884,
-  "2023-08-05": 3906,
-  "2023-08-06": 3938,
-  "2023-08-07": 3938,
-  "2023-08-08": 3958,
-  "2023-08-09": 3981,
-  "2023-08-10": 4005,
-  "2023-08-11": 4021,
-  "2023-08-12": 4043,
-  "2023-08-13": 4050,
-  "2023-08-14": 4071,
-  "2023-08-15": 4111,
-  "2023-08-16": 4111,
-  "2023-08-17": 4134,
-  "2023-08-18": 4149,
-  "2023-08-19": 4169,
-  "2023-08-20": 4191,
-  "2023-08-21": 4216,
-  "2023-08-22": 4233,
-  "2023-08-23": 4253,
-  "2023-08-24": 4271,
-  "2023-08-25": 4293,
-  "2023-08-26": 4316,
-  "2023-08-27": 4336,
-  "2023-08-28": 4365,
-  "2023-08-29": 4394,
-  "2023-08-30": 4419,
-  "2023-08-31": 4451,
-  "2023-09-01": 4499,
-  "2023-09-02": 4499,
-  "2023-09-03": 4523,
-  "2023-09-04": 4540,
-  "2023-09-05": 4562,
-  "2023-09-06": 4576,
-  "2023-09-07": 4594,
-  "2023-09-08": 4616,
-  "2023-09-09": 4632,
-  "2023-09-10": 4647,
-  "2023-09-11": 4672,
-  "2023-09-12": 4694,
-  "2023-09-13": 4722,
-  "2023-09-14": 4736,
-  "2023-09-15": 4756,
-  "2023-09-16": 4780,
-  "2023-09-17": 4780,
-  "2023-09-18": 4828,
-  "2023-09-19": 4853,
-  "2023-09-20": 4882,
-  "2023-09-21": 4913,
-  "2023-09-22": 4943,
-  "2023-09-23": 4977,
-  "2023-09-24": 4977,
-  "2023-09-25": 4977,
-  "2023-09-26": 5063,
-  "2023-09-27": 5089,
-  "2023-09-28": 5109,
-  "2023-09-29": 5132,
-  "2023-09-30": 5132,
-  "2023-10-01": 5177,
-  "2023-10-02": 5199,
-  "2023-10-03": 5225,
-  "2023-10-04": 5249,
-  "2023-10-05": 5271,
-  "2023-10-06": 5295,
-  "2023-10-07": 5317,
-  "2023-10-08": 5331,
-  "2023-10-09": 5331,
-  "2023-10-10": 5366,
-  "2023-10-11": 5413,
-  "2023-10-12": 5413,
-  "2023-10-13": 5437,
-  "2023-10-14": 5437,
-  "2023-10-15": 5437,
-  "2023-10-16": 5437,
-  "2023-10-17": 5437,
-  "2023-10-18": 5437,
-  "2023-10-19": 5437,
-  "2023-10-20": 5437,
-  "2023-10-21": 5437,
-  "2023-10-22": 5437,
-  "2023-10-23": 5437,
-  "2023-10-24": 5618,
-  "2023-10-25": 5618,
-  "2023-10-26": 5618,
-  "2023-10-27": 5618,
-  "2023-10-28": 5618,
-  "2023-10-29": 5618,
-  "2023-10-30": 5618,
-  "2023-10-31": 5618,
-  "2023-11-01": 5618,
-  "2023-11-02": 5618,
-  "2023-11-03": 5618,
-  "2023-11-04": 5618,
-  "2023-11-05": 5618,
-  "2023-11-06": 5618,
-  "2023-11-07": 5618,
-  "2023-11-08": 5618,
-  "2023-11-09": 5618,
-  "2023-11-10": 5618,
-  "2023-11-11": 5927,
-  "2023-11-12": 5927,
-  "2023-11-13": 5927,
-  "2023-11-14": 5927,
-  "2023-11-15": 5927,
-  "2023-11-16": 5927,
-  "2023-11-17": 6020,
-  "2023-11-18": 6020,
-  "2023-11-19": 6020,
-  "2023-11-20": 6020,
-  "2023-11-21": 6020,
-  "2023-11-22": 6020,
-  "2023-11-23": 6099,
-  "2023-11-24": 6099,
-  "2023-11-25": 6099,
-  "2023-11-26": 6099,
-  "2023-11-27": 6099,
-  "2023-11-28": 6099,
-  "2023-11-29": 6099,
-  "2023-11-30": 6099,
-  "2023-12-01": 6099,
-  "2023-12-02": 6099,
-  "2023-12-03": 6099,
-  "2023-12-04": 6099,
-  "2023-12-05": 6099,
-  "2023-12-06": 6099,
-  "2023-12-07": 6099,
-  "2023-12-08": 6099,
-  "2023-12-09": 6295,
-  "2023-12-10": 6295,
-  "2023-12-11": 6315,
-  "2023-12-12": 6315,
-  "2023-12-13": 6315,
-  "2023-12-14": 6354,
-  "2023-12-15": 6362,
-  "2023-12-16": 6368,
-  "2023-12-17": 6375,
-  "2023-12-18": 6389,
-  "2023-12-19": 6398,
-  "2023-12-20": 6404,
-  "2023-12-21": 6415,
-  "2023-12-22": 6435,
-  "2023-12-23": 6444,
-  "2023-12-24": 6451,
-  "2023-12-25": 6459,
-  "2023-12-26": 6464,
-  "2023-12-27": 6474,
-  "2023-12-30": 6504,
-  "2023-12-31": 6524,
-  "2024-01-01": 6536,
-  "2024-01-02": 6545,
-  "2024-01-03": 6555
+  "2024-01-17": 6700,
+  "date_first_scraped": "2022-11-24",
+  "description": "You know that all mornings call for Fairuz.",
+  "name": "\u0641\u064a\u0631\u0648\u0632\u064a\u0627\u062a \u0627\u0644\u0635\u0628\u0627\u062d",
+  "tracks": [
+    {
+      "album": {
+        "name": "Chante Zaki Nassif",
+        "url": "https://open.spotify.com/album/7K188g7n7CbJAlD6SK5AEV"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289866,
+      "name": "Ahwak",
+      "url": "https://open.spotify.com/track/6oUiGf6a2PFfvKjFn47hxK"
+    },
+    {
+      "album": {
+        "name": "Loulou (From the Play)",
+        "url": "https://open.spotify.com/album/3wf0c4aKVy6iNuJVMxAoxe"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202292,
+      "name": "Allah Maak Ya Hawana",
+      "url": "https://open.spotify.com/track/0kwNu07Q4zAlPHVWymqFzi"
+    },
+    {
+      "album": {
+        "name": "Legend - The Best Of Fairuz",
+        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354653,
+      "name": "Ana Indi Haneen",
+      "url": "https://open.spotify.com/track/29n8U7eoajrXmPrc2KxXup"
+    },
+    {
+      "album": {
+        "name": "Ya Reit",
+        "url": "https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182177,
+      "name": "Ana Le Habiby",
+      "url": "https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e"
+    },
+    {
+      "album": {
+        "name": "The Soul of Lebanon",
+        "url": "https://open.spotify.com/album/2d0QC6sRae8rpxfBXaUsdj"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434172,
+      "name": "Atini Elnai",
+      "url": "https://open.spotify.com/track/2nxpbAEjYmgCHvTzVP2bmC"
+    },
+    {
+      "album": {
+        "name": "Awdet El Askar (Return of the Soldiers)",
+        "url": "https://open.spotify.com/album/1jeZ0K212EAkEHFIOcBWox"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247246,
+      "name": "Baadak Ala Baly",
+      "url": "https://open.spotify.com/track/0zQwnvv9A41q7sQPSEPL4s"
+    },
+    {
+      "album": {
+        "name": "Sings Ziad Rahbani",
+        "url": "https://open.spotify.com/album/7larhzd5MhHbt7kEVhsGaQ"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272466,
+      "name": "Baatilak",
+      "url": "https://open.spotify.com/track/7slMNfGtXUFHkE9yXh9DQ0"
+    },
+    {
+      "album": {
+        "name": "Houmoumn Al Hob",
+        "url": "https://open.spotify.com/album/0MWkYwmeF3YDQ08saSrX9Q"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Badi Khaburkon",
+      "url": "https://open.spotify.com/track/7uGopVNwbUC8h7BJYRyRFX"
+    },
+    {
+      "album": {
+        "name": "Bektoub Ismak Ya Habibi (La Tessalouni)",
+        "url": "https://open.spotify.com/album/4WHvhG0A2JF48vx08VuYL1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176300,
+      "name": "Baktoflak Bas",
+      "url": "https://open.spotify.com/track/3CWhIL7RI4zR5oLIRQGyZT"
+    },
+    {
+      "album": {
+        "name": "Bektoub Ismak Ya Habibi (La Tessalouni)",
+        "url": "https://open.spotify.com/album/4WHvhG0A2JF48vx08VuYL1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278883,
+      "name": "Bektoub Ismak Ya Habibi",
+      "url": "https://open.spotify.com/track/061rTXN3Rdlvk0x3GDGtQy"
+    },
+    {
+      "album": {
+        "name": "Chante Zaki Nassif",
+        "url": "https://open.spotify.com/album/7K188g7n7CbJAlD6SK5AEV"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280266,
+      "name": "Bnadilak Ya Habibi",
+      "url": "https://open.spotify.com/track/0bgf45RDVwGK6jqVE9LeHx"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 2",
+        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188943,
+      "name": "El Bent El Shalabeya",
+      "url": "https://open.spotify.com/track/6bfTuM7FMLwiYC4fv2upLo"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 2",
+        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537364,
+      "name": "El Bosta",
+      "url": "https://open.spotify.com/track/7oePZnAYT1ye22cw2FqFq4"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 2",
+        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216894,
+      "name": "Fayek Ya Hawa",
+      "url": "https://open.spotify.com/track/3dfRUizerzwaf558op6cuH"
+    },
+    {
+      "album": {
+        "name": "Ash'shakhs (From \"Ash'shakhs\")",
+        "url": "https://open.spotify.com/album/1t8ucLIizs7dVecXc7Zqnd"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216894,
+      "name": "Fayek Ya Hawa",
+      "url": "https://open.spotify.com/track/6u1N1uweyyPWwY1LPoBBLA"
+    },
+    {
+      "album": {
+        "name": "Shayef El Bahr (El Oudal Menssiye)",
+        "url": "https://open.spotify.com/album/2zw0PFEHrP5TWyUhuPYFde"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232280,
+      "name": "Ghaly El Dahab",
+      "url": "https://open.spotify.com/track/3XgSuRMbLCD1b57MQRBMY0"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 2",
+        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337371,
+      "name": "Habbaitak Tanseet El Noum",
+      "url": "https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo"
+    },
+    {
+      "album": {
+        "name": "Shayef El Bahr (El Oudal Menssiye)",
+        "url": "https://open.spotify.com/album/2zw0PFEHrP5TWyUhuPYFde"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236094,
+      "name": "Habiby Baddou El Kamar",
+      "url": "https://open.spotify.com/track/7JvL7VynUjlXWl4QJVXM8T"
+    },
+    {
+      "album": {
+        "name": "Bayaa El Khawatem (From \"Bayaa El Khawatem\")",
+        "url": "https://open.spotify.com/album/4FBFGW2FhTYQ7x4tGlhMYe"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149054,
+      "name": "Kalouly Ken",
+      "url": "https://open.spotify.com/track/32sbTTgyEnERScpAprdan1"
+    },
+    {
+      "album": {
+        "name": "Shayef El Bahr (El Oudal Menssiye)",
+        "url": "https://open.spotify.com/album/2zw0PFEHrP5TWyUhuPYFde"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269844,
+      "name": "Kamara Ya Kamara",
+      "url": "https://open.spotify.com/track/3Yo6AbydGZciJj0PaIazGA"
+    },
+    {
+      "album": {
+        "name": "Konna Netlaka",
+        "url": "https://open.spotify.com/album/4vkuSbFlYdcZUItrukZeFi"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307565,
+      "name": "Katabna We Ma Katabna",
+      "url": "https://open.spotify.com/track/7KaIodtnVLC0JyrFF2KLSl"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 1",
+        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226768,
+      "name": "Kedeish Kan Fe Nas",
+      "url": "https://open.spotify.com/track/4ph3TGED6e9ycyTq4LYBn4"
+    },
+    {
+      "album": {
+        "name": "Fairuz - Modern Favorites",
+        "url": "https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211840,
+      "name": "Kifak Inta",
+      "url": "https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy"
+    },
+    {
+      "album": {
+        "name": "Konna Netlaka",
+        "url": "https://open.spotify.com/album/4vkuSbFlYdcZUItrukZeFi"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202997,
+      "name": "Konna Netlaka",
+      "url": "https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu"
+    },
+    {
+      "album": {
+        "name": "Chante Philimon Wehbe, Vol. 1",
+        "url": "https://open.spotify.com/album/5G7b2OT4XEWwqirIGk2FQx"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403826,
+      "name": "Lamma Al Bab",
+      "url": "https://open.spotify.com/track/6A5TPvL2PZaZcOilD02FLN"
+    },
+    {
+      "album": {
+        "name": "Maarifti Feek",
+        "url": "https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253533,
+      "name": "Le Beirut",
+      "url": "https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 1",
+        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269609,
+      "name": "Ma Kedert Nesseit",
+      "url": "https://open.spotify.com/track/3xnUm6PeZ63V54aMypM4cu"
+    },
+    {
+      "album": {
+        "name": "Loulou (From the Play)",
+        "url": "https://open.spotify.com/album/3wf0c4aKVy6iNuJVMxAoxe"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266031,
+      "name": "Men Ezz El Noum",
+      "url": "https://open.spotify.com/track/3b0E3l21kyJO0rUddTVU1E"
+    },
+    {
+      "album": {
+        "name": "Bent El Hares",
+        "url": "https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243278,
+      "name": "Nassam Alayna El Hawa",
+      "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
+    },
+    {
+      "album": {
+        "name": "Loulou (From the Play)",
+        "url": "https://open.spotify.com/album/3wf0c4aKVy6iNuJVMxAoxe"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224235,
+      "name": "Natarouna Keteer",
+      "url": "https://open.spotify.com/track/3Nf3Kqs2z49sJCp4Uga2bg"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 1",
+        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201717,
+      "name": "Nehna We El Kamar Geeran",
+      "url": "https://open.spotify.com/track/2pulvQDTgqjX4djPs6UygN"
+    },
+    {
+      "album": {
+        "name": "Loulou (From the Play)",
+        "url": "https://open.spotify.com/album/3wf0c4aKVy6iNuJVMxAoxe"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323004,
+      "name": "Rageen Ya Hawa",
+      "url": "https://open.spotify.com/track/2Z4AsULvdEmBnspBt8Nwp6"
+    },
+    {
+      "album": {
+        "name": "Shat Iskandaria (Chat Iskandaria)",
+        "url": "https://open.spotify.com/album/6dHjPYvPMdF5LUGpieICv7"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Rajeat Fi Al Massa",
+      "url": "https://open.spotify.com/track/1aVkIrcAc3pWE6Pqc9roQp"
+    },
+    {
+      "album": {
+        "name": "The Enchanting Voice of Fairuz",
+        "url": "https://open.spotify.com/album/2AC6EujlUil9nnrMYdSOhM"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347302,
+      "name": "Rajeen Ya Hawa",
+      "url": "https://open.spotify.com/track/5ePg7cVMluGk2CAkA2PHKf"
+    },
+    {
+      "album": {
+        "name": "Al Mahatta Vol. 2",
+        "url": "https://open.spotify.com/album/7ElcVMj7NvEtN15e5YoKXB"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184413,
+      "name": "Rej'eet El Shatwiyi",
+      "url": "https://open.spotify.com/track/62xMPRoJMfjxfjtDpyx6QT"
+    },
+    {
+      "album": {
+        "name": "Emany Satea",
+        "url": "https://open.spotify.com/album/5t2l5etHkIJ0l06RCI0bHt"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212924,
+      "name": "Saalouny El Nas",
+      "url": "https://open.spotify.com/track/2ea6bt302Bq8Hiulp8Bn2C"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 1",
+        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326739,
+      "name": "Saaltak Habiby",
+      "url": "https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7"
+    },
+    {
+      "album": {
+        "name": "Legend - The Best Of Fairuz",
+        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349266,
+      "name": "Sallimleh Alayh",
+      "url": "https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d"
+    },
+    {
+      "album": {
+        "name": "Mish Kayan Hayek T'Koun",
+        "url": "https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350800,
+      "name": "Sallimleh Alayh",
+      "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7"
+    },
+    {
+      "album": {
+        "name": "Konna Netlaka",
+        "url": "https://open.spotify.com/album/4vkuSbFlYdcZUItrukZeFi"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187036,
+      "name": "Sana an Sana",
+      "url": "https://open.spotify.com/track/47eshIFVfyZaomTKcgtn17"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 1",
+        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244218,
+      "name": "Shayef El Bahr",
+      "url": "https://open.spotify.com/track/1jhp3vVPovQUknmzNFoeY4"
+    },
+    {
+      "album": {
+        "name": "Bayaa El Khawatem (From \"Bayaa El Khawatem\")",
+        "url": "https://open.spotify.com/album/4FBFGW2FhTYQ7x4tGlhMYe"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184894,
+      "name": "Taa We La Teegy",
+      "url": "https://open.spotify.com/track/2Jr6n8fuI6NfNjVaTFlY4i"
+    },
+    {
+      "album": {
+        "name": "Ya Reit",
+        "url": "https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407640,
+      "name": "Telaaly El Beky",
+      "url": "https://open.spotify.com/track/6WfgmgAMQyUUcYNQxRRmBm"
+    },
+    {
+      "album": {
+        "name": "Fairuz - Modern Favorites",
+        "url": "https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375853,
+      "name": "Wahdon",
+      "url": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 2",
+        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226638,
+      "name": "Ya Mersal El Marasseel",
+      "url": "https://open.spotify.com/track/4DAZZ8gckaHowFmzYeTwYY"
+    },
+    {
+      "album": {
+        "name": "Chante Philimon Wehbe, Vol. 1",
+        "url": "https://open.spotify.com/album/5G7b2OT4XEWwqirIGk2FQx"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449133,
+      "name": "Ya Rayt Mennon",
+      "url": "https://open.spotify.com/track/247eJHoqpULU41Dmr38Lhq"
+    },
+    {
+      "album": {
+        "name": "Ya Reit",
+        "url": "https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "Ya Reit",
+      "url": "https://open.spotify.com/track/76YFy2G23vRWQHW37ffFL0"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 2",
+        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268669,
+      "name": "Ya Tair",
+      "url": "https://open.spotify.com/track/1dGu88NLFpBp0YLqx8YBWD"
+    },
+    {
+      "album": {
+        "name": "Fairouz World, Pt. 2",
+        "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184450,
+      "name": "Ya Tair El Werwar",
+      "url": "https://open.spotify.com/track/1iasMMoeLrUatWIL4aM7wv"
+    },
+    {
+      "album": {
+        "name": "\u0623\u0645\u0633 \u0627\u0646\u062a\u0647\u064a\u0646\u0627",
+        "url": "https://open.spotify.com/album/2YE7KFbOM285shtivofbER"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309022,
+      "name": "\u0623\u0645\u0633 \u0627\u0646\u062a\u0647\u064a\u0646\u0627",
+      "url": "https://open.spotify.com/track/4gXPtB7jysSvn1q97N8e50"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcHggRa2aOoC"
 }

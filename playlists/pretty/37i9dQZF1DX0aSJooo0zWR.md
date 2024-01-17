@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,891 likes - 128 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,909 likes - 128 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 91 | [Lost](https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 5:56 |
 | 92 | [The Little Boxer](https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Common Ground](https://open.spotify.com/album/1TxksZoZOYltLztkow77CS) | 6:46 |
 | 93 | [Seventh String](https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:05 |
-| 94 | [From The Top](https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof), [HOWES3](https://open.spotify.com/artist/5kAArX8MAwHcmpsbdKhsuE), [Carter Arrington](https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly) | [From The Top](https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU) | 4:41 |
+| 94 | [From The Top](https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof), [HOWES3](https://open.spotify.com/artist/5kAArX8MAwHcmpsbdKhsuE) | [From The Top](https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU) | 4:41 |
 | 95 | [Sand](https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Sand](https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl) | 5:25 |
 | 96 | [You Gotta Get It While You Can](https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Sleepwalk](https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP) | 4:57 |
 | 97 | [Big Bang](https://open.spotify.com/track/5D3qsYYQev3PM5I2e7spp5) | [Klaus Doldinger's Passport](https://open.spotify.com/artist/4EjjMTj801PRhn5aje8gsp) | [Garden Of Eden](https://open.spotify.com/album/3ftpM0sGdtCqJl0DnO8RJD) | 3:54 |

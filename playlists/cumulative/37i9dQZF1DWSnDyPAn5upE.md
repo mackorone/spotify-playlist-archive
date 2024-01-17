@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-168 songs - 12 hr 57 min
+169 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Forward](https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Forward / Wreck Dive](https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN) | 3:16 | 2022-07-01 |  |
 | [Fountain \(ars amatoria\)](https://open.spotify.com/track/4tuK95S2K07yPnMYJiMnlH) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Fountain \(ars amatoria\)](https://open.spotify.com/album/0hGiFp2Ac0VzhFDQCodUFG) | 7:27 | 2022-05-18 | 2023-01-07 |
 | [From the Sea](https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig) | [Serena Gabriel](https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Seeing Inside](https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF) | 11:47 | 2022-05-18 | 2023-12-24 |
+| [From the Sea](https://open.spotify.com/track/6eIpAbDfohKsMLm5por9p4) | [Serena Gabriel](https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Seeing Inside](https://open.spotify.com/album/0HfWFQqIRjrUiCBemtweKJ) | 11:47 | 2023-10-12 |  |
 | [Frontier](https://open.spotify.com/track/3KYC7CK4Itjy7UXn1BaW67) | [Holly Herndon](https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ) | [PROTO](https://open.spotify.com/album/29sozE8XDMOHT8KK9iq4Fo) | 4:29 | 2022-05-18 |  |
 | [Fur & Feather](https://open.spotify.com/track/1V9na2MEGjOajhK1fTJRpS) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/17i8UBmNkp5UY0CLRHokyk) | 3:04 | 2022-12-02 | 2023-02-01 |
 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 | 2022-05-18 | 2022-07-29 |
@@ -99,7 +100,7 @@
 | [Indigo Grit \(feat\. guest\)](https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [Guest](https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 1:52 | 2022-05-18 |  |
 | [Inori \- William Basinski Rework](https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY), [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Inori \(William Basinski Rework\)](https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1) | 5:06 | 2023-03-24 |  |
 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 | 2022-05-18 |  |
-| [Iridescent](https://open.spotify.com/track/3GEvRsUIB2VwSgGik53j30) | [Todesfuge](https://open.spotify.com/artist/4xGHfwdkKZkJVgMXmqlb8w) | [In The Void Nothing Happens](https://open.spotify.com/album/0qWEN2TK6Tj4ULAOeyfGJX) | 1:54 | 2022-05-18 |  |
+| [Iridescent](https://open.spotify.com/track/3GEvRsUIB2VwSgGik53j30) | [Todesfuge](https://open.spotify.com/artist/4xGHfwdkKZkJVgMXmqlb8w) | [In The Void Nothing Happens](https://open.spotify.com/album/0qWEN2TK6Tj4ULAOeyfGJX) | 1:54 | 2022-05-18 | 2024-01-12 |
 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 | 2022-08-05 |  |
 | [Labyrinthine](https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 4:32 | 2022-07-01 |  |
 | [Labyrinthine](https://open.spotify.com/track/78crZjUoVtj9ebTpsWuquw) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/1rMSF8WzsF016bhkREx45l) | 4:32 | 2022-05-18 | 2022-07-29 |
@@ -120,7 +121,7 @@
 | [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-10-10 |  |
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-05 | 2022-10-21 |
 | [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 | 2022-12-02 |  |
-| [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 | 2022-05-18 | 2023-04-14 |
+| [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 | 2022-05-18 | 2024-01-17 |
 | [Ocean](https://open.spotify.com/track/6ZacLLHoOCwFun1fTXrQFG) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:28 | 2022-12-02 | 2023-01-29 |
 | [Ode to the blue](https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ode to the blue](https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO) | 2:53 | 2022-05-18 |  |
 | [Olga](https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:02 | 2022-09-30 |  |

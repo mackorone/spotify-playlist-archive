@@ -1,512 +1,2449 @@
 {
-  "2022-08-06": 16307,
-  "2022-08-07": 16332,
-  "2022-08-08": 16351,
-  "2022-08-09": 16365,
-  "2022-08-10": 16380,
-  "2022-08-11": 16398,
-  "2022-08-12": 16413,
-  "2022-08-13": 16426,
-  "2022-08-14": 16447,
-  "2022-08-15": 16465,
-  "2022-08-16": 16480,
-  "2022-08-17": 16492,
-  "2022-08-18": 16511,
-  "2022-08-19": 16525,
-  "2022-08-20": 16539,
-  "2022-08-21": 16563,
-  "2022-08-22": 16577,
-  "2022-08-23": 16598,
-  "2022-08-24": 16612,
-  "2022-08-25": 16626,
-  "2022-08-26": 16641,
-  "2022-08-27": 16653,
-  "2022-08-28": 16668,
-  "2022-08-29": 16682,
-  "2022-08-30": 16691,
-  "2022-08-31": 16698,
-  "2022-09-01": 16709,
-  "2022-09-02": 16708,
-  "2022-09-03": 16706,
-  "2022-09-04": 16720,
-  "2022-09-05": 16738,
-  "2022-09-06": 16753,
-  "2022-09-07": 16772,
-  "2022-09-09": 16807,
-  "2022-09-10": 16826,
-  "2022-09-11": 16847,
-  "2022-09-12": 16870,
-  "2022-09-13": 16892,
-  "2022-09-15": 16929,
-  "2022-09-16": 16947,
-  "2022-09-17": 16966,
-  "2022-09-18": 16979,
-  "2022-09-19": 16994,
-  "2022-09-20": 17000,
-  "2022-09-21": 17023,
-  "2022-09-22": 17037,
-  "2022-09-23": 17058,
-  "2022-09-24": 17082,
-  "2022-09-25": 17111,
-  "2022-09-26": 17138,
-  "2022-09-27": 17161,
-  "2022-09-28": 17177,
-  "2022-09-29": 17189,
-  "2022-09-30": 17203,
-  "2022-10-01": 17219,
-  "2022-10-02": 17235,
-  "2022-10-03": 17249,
-  "2022-10-04": 17259,
-  "2022-10-05": 17275,
-  "2022-10-06": 17282,
-  "2022-10-07": 17310,
-  "2022-10-08": 17320,
-  "2022-10-09": 17339,
-  "2022-10-10": 17342,
-  "2022-10-11": 17356,
-  "2022-10-12": 17367,
-  "2022-10-13": 17386,
-  "2022-10-14": 17405,
-  "2022-10-15": 17422,
-  "2022-10-16": 17441,
-  "2022-10-17": 17460,
-  "2022-10-18": 17472,
-  "2022-10-19": 17494,
-  "2022-10-20": 17514,
-  "2022-10-21": 17535,
-  "2022-10-22": 17553,
-  "2022-10-23": 17567,
-  "2022-10-24": 17578,
-  "2022-10-25": 17594,
-  "2022-10-26": 17609,
-  "2022-10-27": 17615,
-  "2022-10-28": 17625,
-  "2022-10-29": 17644,
-  "2022-10-30": 17660,
-  "2022-10-31": 17672,
-  "2022-11-01": 17688,
-  "2022-11-02": 17703,
-  "2022-11-03": 17710,
-  "2022-11-04": 17724,
-  "2022-11-05": 17740,
-  "2022-11-06": 17769,
-  "2022-11-07": 17779,
-  "2022-11-08": 17793,
-  "2022-11-09": 17808,
-  "2022-11-10": 17820,
-  "2022-11-11": 17840,
-  "2022-11-12": 17858,
-  "2022-11-13": 17865,
-  "2022-11-14": 17887,
-  "2022-11-15": 17894,
-  "2022-11-16": 17907,
-  "2022-11-17": 17926,
-  "2022-11-18": 17925,
-  "2022-11-19": 17933,
-  "2022-11-20": 17945,
-  "2022-11-21": 17956,
-  "2022-11-22": 17972,
-  "2022-11-23": 17987,
-  "2022-11-24": 18010,
-  "2022-11-25": 18032,
-  "2022-11-26": 18055,
-  "2022-11-27": 18065,
-  "2022-11-28": 18079,
-  "2022-11-29": 18098,
-  "2022-11-30": 18110,
-  "2022-12-01": 18124,
-  "2022-12-02": 18133,
-  "2022-12-03": 18153,
-  "2022-12-04": 18171,
-  "2022-12-05": 18183,
-  "2022-12-06": 18202,
-  "2022-12-07": 18219,
-  "2022-12-08": 18232,
-  "2022-12-09": 18250,
-  "2022-12-10": 18269,
-  "2022-12-11": 18271,
-  "2022-12-12": 18283,
-  "2022-12-13": 18295,
-  "2022-12-14": 18306,
-  "2022-12-15": 18323,
-  "2022-12-16": 18335,
-  "2022-12-17": 18346,
-  "2022-12-18": 18366,
-  "2022-12-19": 18379,
-  "2022-12-20": 18405,
-  "2022-12-21": 18405,
-  "2022-12-22": 18422,
-  "2022-12-24": 18442,
-  "2022-12-25": 18454,
-  "2022-12-26": 18462,
-  "2022-12-27": 18473,
-  "2022-12-28": 18486,
-  "2022-12-29": 18500,
-  "2022-12-30": 18520,
-  "2022-12-31": 18538,
-  "2023-01-01": 18559,
-  "2023-01-02": 18571,
-  "2023-01-03": 18595,
-  "2023-01-04": 18607,
-  "2023-01-05": 18629,
-  "2023-01-06": 18647,
-  "2023-01-07": 18688,
-  "2023-01-08": 18694,
-  "2023-01-09": 18717,
-  "2023-01-10": 18735,
-  "2023-01-11": 18749,
-  "2023-01-12": 18761,
-  "2023-01-13": 18777,
-  "2023-01-14": 18817,
-  "2023-01-15": 18823,
-  "2023-01-16": 18841,
-  "2023-01-17": 18860,
-  "2023-01-18": 18874,
-  "2023-01-19": 18889,
-  "2023-01-20": 18909,
-  "2023-01-21": 18933,
-  "2023-01-22": 18961,
-  "2023-01-23": 18975,
-  "2023-01-24": 18983,
-  "2023-01-25": 19001,
-  "2023-01-26": 19015,
-  "2023-01-27": 19027,
-  "2023-01-28": 19042,
-  "2023-01-29": 19074,
-  "2023-01-30": 19090,
-  "2023-01-31": 19090,
-  "2023-02-01": 19116,
-  "2023-02-02": 19136,
-  "2023-02-03": 19161,
-  "2023-02-04": 19177,
-  "2023-02-05": 19196,
-  "2023-02-06": 19222,
-  "2023-02-07": 19238,
-  "2023-02-08": 19268,
-  "2023-02-09": 19268,
-  "2023-02-10": 19293,
-  "2023-02-11": 19315,
-  "2023-02-12": 19341,
-  "2023-02-13": 19352,
-  "2023-02-14": 19352,
-  "2023-02-15": 19367,
-  "2023-02-16": 19374,
-  "2023-02-17": 19398,
-  "2023-02-18": 19432,
-  "2023-02-19": 19437,
-  "2023-02-20": 19449,
-  "2023-02-21": 19467,
-  "2023-02-22": 19484,
-  "2023-02-23": 19502,
-  "2023-02-24": 19515,
-  "2023-02-25": 19545,
-  "2023-02-26": 19561,
-  "2023-02-27": 19583,
-  "2023-02-28": 19583,
-  "2023-03-01": 19598,
-  "2023-03-02": 19615,
-  "2023-03-03": 19633,
-  "2023-03-04": 19644,
-  "2023-03-05": 19691,
-  "2023-03-06": 19691,
-  "2023-03-07": 19707,
-  "2023-03-08": 19716,
-  "2023-03-09": 19726,
-  "2023-03-10": 19742,
-  "2023-03-11": 19762,
-  "2023-03-12": 19779,
-  "2023-03-13": 19798,
-  "2023-03-14": 19809,
-  "2023-03-15": 19825,
-  "2023-03-16": 19825,
-  "2023-03-17": 19825,
-  "2023-03-18": 19878,
-  "2023-03-19": 19878,
-  "2023-03-20": 19902,
-  "2023-03-21": 19922,
-  "2023-03-22": 19946,
-  "2023-03-23": 19957,
-  "2023-03-24": 19957,
-  "2023-03-25": 19989,
-  "2023-03-26": 20010,
-  "2023-03-27": 20027,
-  "2023-03-28": 20039,
-  "2023-03-29": 20048,
-  "2023-03-30": 20083,
-  "2023-03-31": 20083,
-  "2023-04-01": 20091,
-  "2023-04-02": 20105,
-  "2023-04-03": 20119,
-  "2023-04-04": 20132,
-  "2023-04-05": 20143,
-  "2023-04-06": 20167,
-  "2023-04-07": 20174,
-  "2023-04-09": 20209,
-  "2023-04-10": 20233,
-  "2023-04-11": 20251,
-  "2023-04-12": 20251,
-  "2023-04-13": 20262,
-  "2023-04-14": 20279,
-  "2023-04-15": 20293,
-  "2023-04-16": 20308,
-  "2023-04-17": 20320,
-  "2023-04-18": 20339,
-  "2023-04-19": 20357,
-  "2023-04-20": 20361,
-  "2023-04-21": 20380,
-  "2023-04-22": 20387,
-  "2023-04-23": 20402,
-  "2023-04-24": 20424,
-  "2023-04-25": 20430,
-  "2023-04-26": 20440,
-  "2023-04-27": 20449,
-  "2023-04-28": 20465,
-  "2023-04-29": 20482,
-  "2023-04-30": 20496,
-  "2023-05-01": 20515,
-  "2023-05-02": 20535,
-  "2023-05-03": 20540,
-  "2023-05-04": 20562,
-  "2023-05-05": 20578,
-  "2023-05-06": 20596,
-  "2023-05-07": 20610,
-  "2023-05-08": 20626,
-  "2023-05-09": 20642,
-  "2023-05-10": 20653,
-  "2023-05-11": 20668,
-  "2023-05-12": 20684,
-  "2023-05-13": 20704,
-  "2023-05-14": 20717,
-  "2023-05-15": 20727,
-  "2023-05-16": 20743,
-  "2023-05-17": 20757,
-  "2023-05-18": 20781,
-  "2023-05-19": 20794,
-  "2023-05-20": 20838,
-  "2023-05-21": 20838,
-  "2023-05-22": 20838,
-  "2023-05-23": 20863,
-  "2023-05-24": 20891,
-  "2023-05-25": 20893,
-  "2023-05-26": 20910,
-  "2023-05-27": 20919,
-  "2023-05-28": 20932,
-  "2023-05-29": 20932,
-  "2023-05-30": 20969,
-  "2023-05-31": 20989,
-  "2023-06-01": 21004,
-  "2023-06-02": 21014,
-  "2023-06-03": 21032,
-  "2023-06-04": 21052,
-  "2023-06-05": 21074,
-  "2023-06-06": 21088,
-  "2023-06-07": 21104,
-  "2023-06-08": 21118,
-  "2023-06-09": 21127,
-  "2023-06-10": 21141,
-  "2023-06-11": 21159,
-  "2023-06-12": 21173,
-  "2023-06-13": 21191,
-  "2023-06-14": 21208,
-  "2023-06-15": 21214,
-  "2023-06-16": 21231,
-  "2023-06-17": 21236,
-  "2023-06-18": 21251,
-  "2023-06-19": 21265,
-  "2023-06-20": 21292,
-  "2023-06-21": 21302,
-  "2023-06-22": 21309,
-  "2023-06-23": 21323,
-  "2023-06-24": 21344,
-  "2023-06-25": 21366,
-  "2023-06-26": 21378,
-  "2023-06-27": 21395,
-  "2023-06-28": 21415,
-  "2023-06-29": 21419,
-  "2023-06-30": 21444,
-  "2023-07-01": 21477,
-  "2023-07-02": 21477,
-  "2023-07-03": 21488,
-  "2023-07-04": 21502,
-  "2023-07-05": 21516,
-  "2023-07-06": 21548,
-  "2023-07-07": 21548,
-  "2023-07-08": 21560,
-  "2023-07-09": 21572,
-  "2023-07-10": 21586,
-  "2023-07-11": 21593,
-  "2023-07-12": 21607,
-  "2023-07-13": 21612,
-  "2023-07-14": 21628,
-  "2023-07-15": 21631,
-  "2023-07-16": 21660,
-  "2023-07-17": 21678,
-  "2023-07-18": 21691,
-  "2023-07-19": 21708,
-  "2023-07-20": 21728,
-  "2023-07-21": 21745,
-  "2023-07-22": 21762,
-  "2023-07-23": 21784,
-  "2023-07-24": 21804,
-  "2023-07-25": 21825,
-  "2023-07-26": 21833,
-  "2023-07-27": 21853,
-  "2023-07-28": 21875,
-  "2023-07-29": 21894,
-  "2023-07-30": 21917,
-  "2023-07-31": 21931,
-  "2023-08-01": 21941,
-  "2023-08-02": 21955,
-  "2023-08-03": 21974,
-  "2023-08-04": 21990,
-  "2023-08-05": 22004,
-  "2023-08-06": 22039,
-  "2023-08-07": 22039,
-  "2023-08-08": 22062,
-  "2023-08-09": 22078,
-  "2023-08-10": 22087,
-  "2023-08-11": 22102,
-  "2023-08-12": 22102,
-  "2023-08-13": 22102,
-  "2023-08-14": 22163,
-  "2023-08-15": 22163,
-  "2023-08-16": 22163,
-  "2023-08-17": 22222,
-  "2023-08-18": 22222,
-  "2023-08-19": 22265,
-  "2023-08-20": 22290,
-  "2023-08-21": 22290,
-  "2023-08-22": 22322,
-  "2023-08-23": 22339,
-  "2023-08-24": 22354,
-  "2023-08-25": 22354,
-  "2023-08-26": 22387,
-  "2023-08-27": 22387,
-  "2023-08-28": 22436,
-  "2023-08-29": 22436,
-  "2023-08-30": 22436,
-  "2023-08-31": 22491,
-  "2023-09-01": 22515,
-  "2023-09-02": 22515,
-  "2023-09-03": 22535,
-  "2023-09-04": 22535,
-  "2023-09-05": 22535,
-  "2023-09-06": 22588,
-  "2023-09-07": 22588,
-  "2023-09-08": 22588,
-  "2023-09-09": 22588,
-  "2023-09-10": 22673,
-  "2023-09-11": 22695,
-  "2023-09-12": 22695,
-  "2023-09-13": 22727,
-  "2023-09-14": 22727,
-  "2023-09-15": 22727,
-  "2023-09-16": 22760,
-  "2023-09-17": 22760,
-  "2023-09-18": 22760,
-  "2023-09-19": 22818,
-  "2023-09-20": 22818,
-  "2023-09-21": 22818,
-  "2023-09-22": 22878,
-  "2023-09-23": 22878,
-  "2023-09-24": 22878,
-  "2023-09-25": 22878,
-  "2023-09-26": 22947,
-  "2023-09-27": 22947,
-  "2023-09-28": 22947,
-  "2023-09-29": 22947,
-  "2023-09-30": 22947,
-  "2023-10-01": 22947,
-  "2023-10-02": 23053,
-  "2023-10-03": 23053,
-  "2023-10-04": 23053,
-  "2023-10-05": 23105,
-  "2023-10-06": 23127,
-  "2023-10-07": 23127,
-  "2023-10-08": 23127,
-  "2023-10-09": 23127,
-  "2023-10-10": 23127,
-  "2023-10-11": 23209,
-  "2023-10-12": 23209,
-  "2023-10-13": 23209,
-  "2023-10-14": 23209,
-  "2023-10-15": 23209,
-  "2023-10-16": 23209,
-  "2023-10-17": 23209,
-  "2023-10-18": 23209,
-  "2023-10-19": 23209,
-  "2023-10-20": 23209,
-  "2023-10-21": 23209,
-  "2023-10-22": 23209,
-  "2023-10-23": 23209,
-  "2023-10-24": 23209,
-  "2023-10-25": 23209,
-  "2023-10-26": 23209,
-  "2023-10-27": 23209,
-  "2023-10-28": 23209,
-  "2023-10-29": 23209,
-  "2023-10-30": 23209,
-  "2023-10-31": 23209,
-  "2023-11-01": 23209,
-  "2023-11-02": 23209,
-  "2023-11-03": 23209,
-  "2023-11-04": 23209,
-  "2023-11-05": 23209,
-  "2023-11-06": 23209,
-  "2023-11-07": 23209,
-  "2023-11-08": 23209,
-  "2023-11-09": 23209,
-  "2023-11-10": 23209,
-  "2023-11-11": 23770,
-  "2023-11-12": 23770,
-  "2023-11-13": 23770,
-  "2023-11-14": 23770,
-  "2023-11-15": 23770,
-  "2023-11-16": 23770,
-  "2023-11-17": 23770,
-  "2023-11-18": 23770,
-  "2023-11-19": 23770,
-  "2023-11-20": 23770,
-  "2023-11-21": 23770,
-  "2023-11-22": 23770,
-  "2023-11-23": 23770,
-  "2023-11-24": 23770,
-  "2023-11-25": 23770,
-  "2023-11-26": 23770,
-  "2023-11-27": 23770,
-  "2023-11-28": 23770,
-  "2023-11-29": 23770,
-  "2023-11-30": 23770,
-  "2023-12-01": 23770,
-  "2023-12-02": 23770,
-  "2023-12-03": 23770,
-  "2023-12-04": 23770,
-  "2023-12-05": 23770,
-  "2023-12-06": 23770,
-  "2023-12-07": 23770,
-  "2023-12-08": 23770,
-  "2023-12-09": 23770,
-  "2023-12-10": 23770,
-  "2023-12-11": 23770,
-  "2023-12-12": 23770,
-  "2023-12-13": 23770,
-  "2023-12-14": 24224,
-  "2023-12-15": 24236,
-  "2023-12-16": 24261,
-  "2023-12-17": 24296,
-  "2023-12-18": 24327,
-  "2023-12-19": 24346,
-  "2023-12-20": 24368,
-  "2023-12-21": 24383,
-  "2023-12-22": 24404,
-  "2023-12-23": 24423,
-  "2023-12-24": 24440,
-  "2023-12-25": 24448,
-  "2023-12-26": 24457,
-  "2023-12-27": 24475,
-  "2023-12-30": 24533,
-  "2023-12-31": 24555,
-  "2024-01-01": 24572,
-  "2024-01-02": 24601,
-  "2024-01-03": 24612
+  "2024-01-17": 24867,
+  "date_first_scraped": "2022-08-06",
+  "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
+  "name": "This Is Howlin' Wolf",
+  "tracks": [
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 135600,
+      "name": "All Night Boogie (All Night Long)",
+      "url": "https://open.spotify.com/track/6UXUwb2mZK0LFsColT6uup"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 175466,
+      "name": "Baby How Long",
+      "url": "https://open.spotify.com/track/7qAUeIKdz6LEdP6K8y2GLo"
+    },
+    {
+      "album": {
+        "name": "The Shape I'm In (Live Boston '73)",
+        "url": "https://open.spotify.com/album/7fPdvqtGqGRX2VvDWYcJS3"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 183314,
+      "name": "Baby Workout - Live",
+      "url": "https://open.spotify.com/track/3KzatBx1q40B6HMP3TLyMO"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168492,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/1p69YUlzXrwWjxPu5nNQab"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
+    },
+    {
+      "album": {
+        "name": "From New Orleans",
+        "url": "https://open.spotify.com/album/7ssfX6zrPwogKVu611m935"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 166333,
+      "name": "Cause of It All",
+      "url": "https://open.spotify.com/track/6kmrgoMMBUpTiqlkTcVkX8"
+    },
+    {
+      "album": {
+        "name": "Blues Got Soul - Vol. 1",
+        "url": "https://open.spotify.com/album/42e14AeB2vzmydRXzzGaQD"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166373,
+      "name": "Cause of It All",
+      "url": "https://open.spotify.com/track/55bXtn99JxmrvFQYtbfjAA"
+    },
+    {
+      "album": {
+        "name": "The Legendary Howlin' Wolf",
+        "url": "https://open.spotify.com/album/3XoYEUKwyJNMGS4Yw1jRYK"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Change My Way - Single Version",
+      "url": "https://open.spotify.com/track/2gpHx8H04p8Va4ar8VJojx"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160224,
+      "name": "Chocolate Drop",
+      "url": "https://open.spotify.com/track/4HnoJ54rGCjE8j5qkzDZS4"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 192543,
+      "name": "Color And Kind",
+      "url": "https://open.spotify.com/track/6fu6cJJJinhLCb8PLFrCzY"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 127965,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/1S2J8MwIU6O45DK6gFNuuX"
+    },
+    {
+      "album": {
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/5MGDtPCUw8uJW8Fxd7aVl0"
+    },
+    {
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Come To Me Baby - Single Version",
+      "url": "https://open.spotify.com/track/4vYEG8wSAsl5y5kLSuPuR5"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Commit A Crime",
+      "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
+    },
+    {
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 227226,
+      "name": "Coon On The Moon",
+      "url": "https://open.spotify.com/track/38E1lWei5AtMECrjzl5DZK"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 142240,
+      "name": "Crazy About You Baby",
+      "url": "https://open.spotify.com/track/4hQ74VP4dSVkwuAWlrJiJ4"
+    },
+    {
+      "album": {
+        "name": "Electro Blues, Vol. 1",
+        "url": "https://open.spotify.com/album/3Wbut1IQZPJgdLCwuhhAUx"
+      },
+      "artists": [
+        {
+          "name": "Swing Republic",
+          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227240,
+      "name": "Cryin' at Daybreak",
+      "url": "https://open.spotify.com/track/02phrvEdq2xWe3EPvFU6At"
+    },
+    {
+      "album": {
+        "name": "The Super, Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311506,
+      "name": "Diddley Daddy",
+      "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
+    },
+    {
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 139826,
+      "name": "Do The Do",
+      "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
+    },
+    {
+      "album": {
+        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143826,
+      "name": "Do The Do",
+      "url": "https://open.spotify.com/track/7qUFSMqfCOCHd2kLjMR2LK"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154973,
+      "name": "Down In The Bottom - Single Version",
+      "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 182654,
+      "name": "Drinkin' C. V. Wine Blues",
+      "url": "https://open.spotify.com/track/0TFIQVD6OqwjnoKlVzPPUA"
+    },
+    {
+      "album": {
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 180000,
+      "name": "Everybody's in the Mood",
+      "url": "https://open.spotify.com/track/5dlV27sZIok7UTNOwixsrc"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 173706,
+      "name": "Evil (Is Going On)",
+      "url": "https://open.spotify.com/track/7LdbDjg6esKNAsnFElpFnB"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Forty Four",
+      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 155946,
+      "name": "Gettin' Old And Grey",
+      "url": "https://open.spotify.com/track/1TvM6Rmj0pVvzWgGgQoMvZ"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 157570,
+      "name": "Gettin' Old And Grey",
+      "url": "https://open.spotify.com/track/0GqKvKRfaMiBB8TnNZS2D3"
+    },
+    {
+      "album": {
+        "name": "The Super, Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289173,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 207333,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/4PI5yBLXgwdgRulNo4mQbt"
+    },
+    {
+      "album": {
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159373,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
+    },
+    {
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140760,
+      "name": "Hidden Charms - Single Version",
+      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
+    },
+    {
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 167426,
+      "name": "Highway 49",
+      "url": "https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ"
+    },
+    {
+      "album": {
+        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "Highway 49",
+      "url": "https://open.spotify.com/track/0B1LwtIlN7klvU8iyaO6PG"
+    },
+    {
+      "album": {
+        "name": "The Shape I'm In (Live Boston '73)",
+        "url": "https://open.spotify.com/album/7fPdvqtGqGRX2VvDWYcJS3"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 407741,
+      "name": "How Blue Can You Get - Live",
+      "url": "https://open.spotify.com/track/4yL44hjbgIhr7H0j4rmzJI"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163026,
+      "name": "How Many More Years",
+      "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
+    },
+    {
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 164693,
+      "name": "Howlin' Blues - Single Version",
+      "url": "https://open.spotify.com/track/3jo7vTw7utjbSkSKVMBhpn"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 156960,
+      "name": "Howlin' For My Darlin'",
+      "url": "https://open.spotify.com/track/4LYZ56NfIsuIizQewrfEr9"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 158866,
+      "name": "Howlin' Wolf Boogie - Single Version",
+      "url": "https://open.spotify.com/track/2tQIv1nBXJChbiyA95NShQ"
+    },
+    {
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 210826,
+      "name": "I Ain't Superstitious",
+      "url": "https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH"
+    },
+    {
+      "album": {
+        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "I Ain't Superstitious",
+      "url": "https://open.spotify.com/track/5Ac82oktoUnKIdlR64JoMt"
+    },
+    {
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 170866,
+      "name": "I Ain't Superstitious - Single Version",
+      "url": "https://open.spotify.com/track/7f1ccPGgmQ1szoQbNzGnRK"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 172626,
+      "name": "I Asked For Water",
+      "url": "https://open.spotify.com/track/0aT9f7DKBo3SsYHSMrtOGD"
+    },
+    {
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "I Better Go Now - Single Version",
+      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
+    },
+    {
+      "album": {
+        "name": "The Shape I'm In (Live Boston '73)",
+        "url": "https://open.spotify.com/album/7fPdvqtGqGRX2VvDWYcJS3"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 289336,
+      "name": "I Can't Hold Out (Talk To Me Baby) - Live",
+      "url": "https://open.spotify.com/track/3h9L1ZMNCKnovn4FQOO2Tb"
+    },
+    {
+      "album": {
+        "name": "The Shape I'm In (Live Boston '73)",
+        "url": "https://open.spotify.com/album/7fPdvqtGqGRX2VvDWYcJS3"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 253857,
+      "name": "I Can't Stop Loving You - Live",
+      "url": "https://open.spotify.com/track/3fUhPjw5vgRRpTLBRBFlxx"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 203781,
+      "name": "I Got A Woman",
+      "url": "https://open.spotify.com/track/7n5v9vXPBb9CLg23gyC6sI"
+    },
+    {
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "I Have A Little Girl - Single Version",
+      "url": "https://open.spotify.com/track/1CDPjRMffgPz67MgGySoRy"
+    },
+    {
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 247626,
+      "name": "I Want To Have A Word With You - London Revisited Version",
+      "url": "https://open.spotify.com/track/5aykbNHNtU58YRpSAda4a0"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 180960,
+      "name": "I'm Leavin You",
+      "url": "https://open.spotify.com/track/3CDa8cJPIxA2jFiwqzFyzb"
+    },
+    {
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174093,
+      "name": "I'm The Wolf",
+      "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
+    },
+    {
+      "album": {
+        "name": "The Genuine Article",
+        "url": "https://open.spotify.com/album/6fyaWAxcs1FAvF8PzQBnLC"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 135493,
+      "name": "I've Been Abused",
+      "url": "https://open.spotify.com/track/6apZLoGfbuo6XSzy6zlIoS"
+    },
+    {
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134600,
+      "name": "I've Been Abused - Single Version",
+      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
+    },
+    {
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 176760,
+      "name": "I've Got A Woman",
+      "url": "https://open.spotify.com/track/7tbIZ55VvZlo27zgPrQ61Q"
+    },
+    {
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "Just Like I Treat You - Single Version",
+      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 177200,
+      "name": "Just Like I Treat You - Single Version",
+      "url": "https://open.spotify.com/track/2O0W9z1VyVxM3puXjU1L2c"
+    },
+    {
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 173906,
+      "name": "Just My Kind",
+      "url": "https://open.spotify.com/track/5zNZNGaTS6vPSXyxgIghjX"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172826,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
+    },
+    {
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 153626,
+      "name": "Leave Here Walking",
+      "url": "https://open.spotify.com/track/1qtK2bUlnNURK2wFgRBWRP"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 168293,
+      "name": "Little Baby",
+      "url": "https://open.spotify.com/track/0JeHI9bAxvgT64ITqNth2q"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/22o1qy3iZ7CyXUdK6BIf2n"
+    },
+    {
+      "album": {
+        "name": "From New Orleans",
+        "url": "https://open.spotify.com/album/7ssfX6zrPwogKVu611m935"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 338066,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/3drzqiIxtQl1YdVoQ7vD0i"
+    },
+    {
+      "album": {
+        "name": "The Super, Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554826,
+      "name": "Long Distance Call",
+      "url": "https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 176573,
+      "name": "Moanin' At Midnight",
+      "url": "https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 171506,
+      "name": "Moanin' For My Baby",
+      "url": "https://open.spotify.com/track/3GVbKBdl5s9ZqSONTBCf9H"
+    },
+    {
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
+    },
+    {
+      "album": {
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 163893,
+      "name": "Mr. Airplane Man",
+      "url": "https://open.spotify.com/track/2WbfXzjV23ajVgNMKv5zFO"
+    },
+    {
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 163226,
+      "name": "Mr. Airplane Man - Single Version",
+      "url": "https://open.spotify.com/track/1MzF23RMnLlJQBkYM5JiJh"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 168200,
+      "name": "Mr. Highway Man - Single Version",
+      "url": "https://open.spotify.com/track/2VJrD7jk3zyJRQwMlF7U7N"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 155133,
+      "name": "My Country Sugar Mama",
+      "url": "https://open.spotify.com/track/04gLynZwUgqOsir1nK35Fz"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 174630,
+      "name": "My Last Affair",
+      "url": "https://open.spotify.com/track/4GDubi3dxeL3F2z2k8QAm0"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 176268,
+      "name": "My Last Affair",
+      "url": "https://open.spotify.com/track/2OrUGUmDGkEaAudamQVhmg"
+    },
+    {
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 181240,
+      "name": "My Life - Single Version",
+      "url": "https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA"
+    },
+    {
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 171000,
+      "name": "My Mind Is Ramblin' - Single Version",
+      "url": "https://open.spotify.com/track/7mECBtxxKzorVqtZtsxzG8"
+    },
+    {
+      "album": {
+        "name": "The Legendary Howlin' Wolf",
+        "url": "https://open.spotify.com/album/3XoYEUKwyJNMGS4Yw1jRYK"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 171800,
+      "name": "My Mind Is Ramblin' - Single Version",
+      "url": "https://open.spotify.com/track/4wyCeE7tQTQ3p2zhYIvWDc"
+    },
+    {
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142440,
+      "name": "My People's Gone",
+      "url": "https://open.spotify.com/track/4kJzDfwJVUIG2j9hNPjF5v"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 191694,
+      "name": "My Troubles and Me (When I Laid Down I Was Trouble)",
+      "url": "https://open.spotify.com/track/3ziODUrHeJ98KRDraVMwtv"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165066,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/26y1snNNNSWwGHEL5VwGz3"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 178733,
+      "name": "No Place To Go (You Gonna Wreck My Life)",
+      "url": "https://open.spotify.com/track/6TtZ5COn8TGuCJOHaoh9ey"
+    },
+    {
+      "album": {
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Oh Red",
+      "url": "https://open.spotify.com/track/3rWhFabcpnpCF9iSWAZqKo"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 161160,
+      "name": "Ooh Baby (Hold Me)",
+      "url": "https://open.spotify.com/track/3VdcgPdpmBMk2CEZHIobqN"
+    },
+    {
+      "album": {
+        "name": "The Super, Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394173,
+      "name": "Ooh, Baby / Wrecking My Love Life - Medley",
+      "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+    },
+    {
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 223946,
+      "name": "Rockin' Daddy",
+      "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
+    },
+    {
+      "album": {
+        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226893,
+      "name": "Rockin' Daddy",
+      "url": "https://open.spotify.com/track/2HlmwFpF6Bu4eBcKzax9HO"
+    },
+    {
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 185000,
+      "name": "Rockin' Daddy - Single Version",
+      "url": "https://open.spotify.com/track/3saqVLDuFGXaZ2Uzq4bPWh"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 154093,
+      "name": "Saddle My Pony - Single Version",
+      "url": "https://open.spotify.com/track/4yLqtpbYVqTeEQtB3iY9yM"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 139760,
+      "name": "Shake For Me",
+      "url": "https://open.spotify.com/track/5kj3Q1fVwgb2f8SxFT6bD5"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 155360,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
+    },
+    {
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 230853,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/0cqZD5rEjMOnsYdxt6y9Pl"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 188400,
+      "name": "Smokestack Lightnin'",
+      "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 146866,
+      "name": "Somebody In My Home",
+      "url": "https://open.spotify.com/track/5erxBnOBoDNexTUrrXOhCA"
+    },
+    {
+      "album": {
+        "name": "The Super, Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253093,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/2KQhquTTsARcnU7Y3b6NDW"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Tail Dragger",
+      "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 178333,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4FXCKc8P2n0UBW0KmQJEYS"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 168106,
+      "name": "Tell Me What I've Done",
+      "url": "https://open.spotify.com/track/1dlYLGZSK8ONMQxJWxB04m"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 133906,
+      "name": "The Natchez Burnin'",
+      "url": "https://open.spotify.com/track/3iAJLt1uT9K6BWsYWgJasT"
+    },
+    {
+      "album": {
+        "name": "The Super, Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445026,
+      "name": "The Red Rooster",
+      "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 186733,
+      "name": "Three Hundred Pounds Of Joy",
+      "url": "https://open.spotify.com/track/5UDsgV8tHUP3wnh12MYbpZ"
+    },
+    {
+      "album": {
+        "name": "Message To The Young",
+        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 273413,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/3rzzi3cE3f0dPS99foCiSV"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 147400,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
+    },
+    {
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Watergate Blues",
+      "url": "https://open.spotify.com/track/4bay5Gdr7Km8dzpchkUCWo"
+    },
+    {
+      "album": {
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Well That's All Right",
+      "url": "https://open.spotify.com/track/36bsXDDm8bOpAH9ESVxcN5"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 174665,
+      "name": "Well That's Alright",
+      "url": "https://open.spotify.com/track/0ZoaeW985qD2aJoiwUbh3Q"
+    },
+    {
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 182276,
+      "name": "What A Woman",
+      "url": "https://open.spotify.com/track/0RA2ZUg2D4zakY3QE2fEUH"
+    },
+    {
+      "album": {
+        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "What A Woman",
+      "url": "https://open.spotify.com/track/1ukHOyXTYjvDR3rKKpmnCQ"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146173,
+      "name": "Who's Been Talking?",
+      "url": "https://open.spotify.com/track/7aHS9MdIBgmkedKRFhjFEK"
+    },
+    {
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 184133,
+      "name": "Who's Been Talking?",
+      "url": "https://open.spotify.com/track/7jLsyfKgqfLkgKfXkhWOMF"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175663,
+      "name": "Wolf Is At Your Door",
+      "url": "https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 176516,
+      "name": "Wolf Is At Your Door",
+      "url": "https://open.spotify.com/track/2KNgKt4lgPch30xqrJBXSf"
+    },
+    {
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 175413,
+      "name": "Worried About My Baby",
+      "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
+    },
+    {
+      "album": {
+        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Worried About My Baby",
+      "url": "https://open.spotify.com/track/3liB9UAZasfLNoAMo6PphY"
+    },
+    {
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "You Can't Be Beat - Single Version",
+      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
+    },
+    {
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "You Gonna Wreck My Life",
+      "url": "https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT"
+    },
+    {
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293066,
+      "name": "You Turn Slick On Me",
+      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
+    },
+    {
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 150933,
+      "name": "You'll Be Mine",
+      "url": "https://open.spotify.com/track/6wZ3ovfn503Aj6nLoiSSuC"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uKvcl"
 }

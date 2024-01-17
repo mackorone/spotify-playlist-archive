@@ -1,387 +1,1863 @@
 {
-  "2022-12-11": 31738,
-  "2022-12-12": 31751,
-  "2022-12-13": 31767,
-  "2022-12-14": 31801,
-  "2022-12-15": 31822,
-  "2022-12-16": 32057,
-  "2022-12-17": 32354,
-  "2022-12-18": 32449,
-  "2022-12-19": 32517,
-  "2022-12-20": 32832,
-  "2022-12-21": 32832,
-  "2022-12-22": 32912,
-  "2022-12-24": 33093,
-  "2022-12-25": 33183,
-  "2022-12-26": 33251,
-  "2022-12-27": 33453,
-  "2022-12-28": 33670,
-  "2022-12-29": 33951,
-  "2022-12-30": 34298,
-  "2022-12-31": 34835,
-  "2023-01-01": 35175,
-  "2023-01-02": 35390,
-  "2023-01-03": 35858,
-  "2023-01-04": 36249,
-  "2023-01-05": 36605,
-  "2023-01-06": 37280,
-  "2023-01-07": 37598,
-  "2023-01-08": 37642,
-  "2023-01-09": 37774,
-  "2023-01-10": 37893,
-  "2023-01-11": 37972,
-  "2023-01-12": 38025,
-  "2023-01-13": 38084,
-  "2023-01-14": 38153,
-  "2023-01-15": 38170,
-  "2023-01-16": 38212,
-  "2023-01-17": 38255,
-  "2023-01-18": 38294,
-  "2023-01-19": 38333,
-  "2023-01-20": 38350,
-  "2023-01-21": 38367,
-  "2023-01-22": 38387,
-  "2023-01-23": 38407,
-  "2023-01-24": 38436,
-  "2023-01-25": 38448,
-  "2023-01-26": 38452,
-  "2023-01-27": 38470,
-  "2023-01-28": 38488,
-  "2023-01-29": 38509,
-  "2023-01-30": 38517,
-  "2023-01-31": 38517,
-  "2023-02-01": 38549,
-  "2023-02-02": 38534,
-  "2023-02-03": 38544,
-  "2023-02-04": 38574,
-  "2023-02-05": 38589,
-  "2023-02-06": 38610,
-  "2023-02-07": 38610,
-  "2023-02-08": 38616,
-  "2023-02-09": 38616,
-  "2023-02-10": 38618,
-  "2023-02-11": 38624,
-  "2023-02-12": 38624,
-  "2023-02-13": 38629,
-  "2023-02-14": 38629,
-  "2023-02-15": 38624,
-  "2023-02-16": 38624,
-  "2023-02-17": 38630,
-  "2023-02-18": 38664,
-  "2023-02-19": 38677,
-  "2023-02-20": 38748,
-  "2023-02-21": 38836,
-  "2023-02-22": 38922,
-  "2023-02-23": 39008,
-  "2023-02-24": 39080,
-  "2023-02-25": 39191,
-  "2023-02-26": 39251,
-  "2023-02-27": 39450,
-  "2023-02-28": 39450,
-  "2023-03-01": 39536,
-  "2023-03-02": 39598,
-  "2023-03-03": 39719,
-  "2023-03-04": 39787,
-  "2023-03-05": 39962,
-  "2023-03-06": 39962,
-  "2023-03-07": 40062,
-  "2023-03-08": 40136,
-  "2023-03-09": 40198,
-  "2023-03-10": 40272,
-  "2023-03-11": 40333,
-  "2023-03-12": 40417,
-  "2023-03-13": 40506,
-  "2023-03-14": 40581,
-  "2023-03-15": 40648,
-  "2023-03-16": 40725,
-  "2023-03-17": 40725,
-  "2023-03-18": 40849,
-  "2023-03-19": 40899,
-  "2023-03-20": 40990,
-  "2023-03-21": 41065,
-  "2023-03-22": 41134,
-  "2023-03-23": 41211,
-  "2023-03-24": 41211,
-  "2023-03-25": 41367,
-  "2023-03-26": 41452,
-  "2023-03-27": 41547,
-  "2023-03-28": 41624,
-  "2023-03-29": 41715,
-  "2023-03-30": 41854,
-  "2023-03-31": 41854,
-  "2023-04-01": 41936,
-  "2023-04-02": 42013,
-  "2023-04-03": 42120,
-  "2023-04-04": 42202,
-  "2023-04-05": 42297,
-  "2023-04-06": 42391,
-  "2023-04-07": 42486,
-  "2023-04-09": 42725,
-  "2023-04-10": 42878,
-  "2023-04-11": 43067,
-  "2023-04-12": 43067,
-  "2023-04-13": 43145,
-  "2023-04-14": 43224,
-  "2023-04-15": 43280,
-  "2023-04-16": 43345,
-  "2023-04-17": 43434,
-  "2023-04-18": 43509,
-  "2023-04-19": 43587,
-  "2023-04-20": 43676,
-  "2023-04-21": 43722,
-  "2023-04-22": 43766,
-  "2023-04-23": 43828,
-  "2023-04-24": 43894,
-  "2023-04-25": 43967,
-  "2023-04-26": 44056,
-  "2023-04-27": 44132,
-  "2023-04-28": 44197,
-  "2023-04-29": 44270,
-  "2023-04-30": 44319,
-  "2023-05-01": 44382,
-  "2023-05-02": 44437,
-  "2023-05-03": 44500,
-  "2023-05-04": 44568,
-  "2023-05-05": 44636,
-  "2023-05-06": 44687,
-  "2023-05-07": 44744,
-  "2023-05-08": 44816,
-  "2023-05-09": 44864,
-  "2023-05-10": 44921,
-  "2023-05-11": 44974,
-  "2023-05-12": 45035,
-  "2023-05-13": 45083,
-  "2023-05-14": 45128,
-  "2023-05-15": 45183,
-  "2023-05-16": 45233,
-  "2023-05-17": 45275,
-  "2023-05-18": 45329,
-  "2023-05-19": 45368,
-  "2023-05-20": 45472,
-  "2023-05-21": 45472,
-  "2023-05-22": 45472,
-  "2023-05-23": 45583,
-  "2023-05-24": 45653,
-  "2023-05-25": 45662,
-  "2023-05-26": 45707,
-  "2023-05-27": 45756,
-  "2023-05-28": 45796,
-  "2023-05-29": 45796,
-  "2023-05-30": 45887,
-  "2023-05-31": 45932,
-  "2023-06-01": 45989,
-  "2023-06-02": 46035,
-  "2023-06-03": 46088,
-  "2023-06-04": 46145,
-  "2023-06-05": 46218,
-  "2023-06-06": 46289,
-  "2023-06-07": 46337,
-  "2023-06-08": 46398,
-  "2023-06-09": 46452,
-  "2023-06-10": 46520,
-  "2023-06-11": 46575,
-  "2023-06-12": 46645,
-  "2023-06-13": 46726,
-  "2023-06-14": 46787,
-  "2023-06-15": 46866,
-  "2023-06-16": 46922,
-  "2023-06-17": 46988,
-  "2023-06-18": 47064,
-  "2023-06-19": 47153,
-  "2023-06-20": 47220,
-  "2023-06-21": 47270,
-  "2023-06-22": 47326,
-  "2023-06-23": 47390,
-  "2023-06-24": 47470,
-  "2023-06-25": 47551,
-  "2023-06-26": 47645,
-  "2023-06-27": 47720,
-  "2023-06-28": 47819,
-  "2023-06-29": 47891,
-  "2023-06-30": 47954,
-  "2023-07-01": 48120,
-  "2023-07-02": 48120,
-  "2023-07-03": 48187,
-  "2023-07-04": 48253,
-  "2023-07-05": 48315,
-  "2023-07-06": 48447,
-  "2023-07-07": 48447,
-  "2023-07-08": 48505,
-  "2023-07-09": 48597,
-  "2023-07-10": 48688,
-  "2023-07-11": 48751,
-  "2023-07-12": 48838,
-  "2023-07-13": 48917,
-  "2023-07-14": 48973,
-  "2023-07-15": 49061,
-  "2023-07-16": 49167,
-  "2023-07-17": 49251,
-  "2023-07-18": 49354,
-  "2023-07-19": 49425,
-  "2023-07-20": 49462,
-  "2023-07-21": 49533,
-  "2023-07-22": 49613,
-  "2023-07-23": 49686,
-  "2023-07-24": 49780,
-  "2023-07-25": 49829,
-  "2023-07-26": 49885,
-  "2023-07-27": 49945,
-  "2023-07-28": 50001,
-  "2023-07-29": 50077,
-  "2023-07-30": 50144,
-  "2023-07-31": 50216,
-  "2023-08-01": 50305,
-  "2023-08-02": 50368,
-  "2023-08-03": 50420,
-  "2023-08-04": 50479,
-  "2023-08-05": 50530,
-  "2023-08-06": 50672,
-  "2023-08-07": 50672,
-  "2023-08-08": 50739,
-  "2023-08-09": 50804,
-  "2023-08-10": 50842,
-  "2023-08-11": 50912,
-  "2023-08-12": 50962,
-  "2023-08-13": 51017,
-  "2023-08-14": 51070,
-  "2023-08-15": 51186,
-  "2023-08-16": 51186,
-  "2023-08-17": 51276,
-  "2023-08-18": 51351,
-  "2023-08-19": 51401,
-  "2023-08-20": 51480,
-  "2023-08-21": 51581,
-  "2023-08-22": 51667,
-  "2023-08-23": 51741,
-  "2023-08-24": 51803,
-  "2023-08-25": 51888,
-  "2023-08-26": 51975,
-  "2023-08-27": 52025,
-  "2023-08-28": 52118,
-  "2023-08-29": 52182,
-  "2023-08-30": 52252,
-  "2023-08-31": 52318,
-  "2023-09-01": 52480,
-  "2023-09-02": 52480,
-  "2023-09-03": 52540,
-  "2023-09-04": 52643,
-  "2023-09-05": 52744,
-  "2023-09-06": 52839,
-  "2023-09-07": 52923,
-  "2023-09-08": 53029,
-  "2023-09-09": 53123,
-  "2023-09-10": 53215,
-  "2023-09-11": 53333,
-  "2023-09-12": 53455,
-  "2023-09-13": 53561,
-  "2023-09-14": 53650,
-  "2023-09-15": 53740,
-  "2023-09-16": 53821,
-  "2023-09-17": 53915,
-  "2023-09-18": 54030,
-  "2023-09-19": 54115,
-  "2023-09-20": 54200,
-  "2023-09-21": 54302,
-  "2023-09-22": 54404,
-  "2023-09-23": 54495,
-  "2023-09-24": 54597,
-  "2023-09-25": 54702,
-  "2023-09-26": 54820,
-  "2023-09-27": 54905,
-  "2023-09-28": 55000,
-  "2023-09-29": 55107,
-  "2023-09-30": 55187,
-  "2023-10-01": 55264,
-  "2023-10-02": 55359,
-  "2023-10-03": 55425,
-  "2023-10-04": 55503,
-  "2023-10-05": 55595,
-  "2023-10-06": 55705,
-  "2023-10-07": 55785,
-  "2023-10-08": 55869,
-  "2023-10-09": 55968,
-  "2023-10-10": 56062,
-  "2023-10-11": 56256,
-  "2023-10-12": 56256,
-  "2023-10-13": 56346,
-  "2023-10-14": 56431,
-  "2023-10-15": 56515,
-  "2023-10-16": 56632,
-  "2023-10-17": 56731,
-  "2023-10-18": 56842,
-  "2023-10-19": 56941,
-  "2023-10-20": 57044,
-  "2023-10-21": 57121,
-  "2023-10-22": 57237,
-  "2023-10-23": 57360,
-  "2023-10-24": 57464,
-  "2023-10-25": 57563,
-  "2023-10-26": 57640,
-  "2023-10-27": 57743,
-  "2023-10-28": 57810,
-  "2023-10-29": 57884,
-  "2023-10-30": 58079,
-  "2023-10-31": 58079,
-  "2023-11-01": 58160,
-  "2023-11-02": 58243,
-  "2023-11-03": 58335,
-  "2023-11-04": 58407,
-  "2023-11-05": 58480,
-  "2023-11-06": 58575,
-  "2023-11-07": 58696,
-  "2023-11-08": 58774,
-  "2023-11-09": 58862,
-  "2023-11-10": 58940,
-  "2023-11-11": 59037,
-  "2023-11-12": 59098,
-  "2023-11-13": 59210,
-  "2023-11-14": 59332,
-  "2023-11-15": 59332,
-  "2023-11-16": 59509,
-  "2023-11-17": 59697,
-  "2023-11-18": 59697,
-  "2023-11-19": 59769,
-  "2023-11-20": 59874,
-  "2023-11-21": 59999,
-  "2023-11-22": 60103,
-  "2023-11-23": 60195,
-  "2023-11-24": 60271,
-  "2023-11-25": 60320,
-  "2023-11-26": 60398,
-  "2023-11-27": 60486,
-  "2023-11-28": 60584,
-  "2023-11-29": 60811,
-  "2023-11-30": 60811,
-  "2023-12-01": 60905,
-  "2023-12-02": 60993,
-  "2023-12-03": 61074,
-  "2023-12-04": 61165,
-  "2023-12-05": 61260,
-  "2023-12-06": 61334,
-  "2023-12-07": 61424,
-  "2023-12-08": 61544,
-  "2023-12-09": 61606,
-  "2023-12-10": 61669,
-  "2023-12-11": 61733,
-  "2023-12-12": 61777,
-  "2023-12-13": 61867,
-  "2023-12-14": 61956,
-  "2023-12-15": 62119,
-  "2023-12-16": 62191,
-  "2023-12-17": 62259,
-  "2023-12-18": 62329,
-  "2023-12-19": 62416,
-  "2023-12-20": 62506,
-  "2023-12-21": 62598,
-  "2023-12-22": 62706,
-  "2023-12-23": 62810,
-  "2023-12-24": 62909,
-  "2023-12-25": 62988,
-  "2023-12-26": 63075,
-  "2023-12-27": 63213,
-  "2023-12-30": 63931,
-  "2023-12-31": 64146,
-  "2024-01-01": 64357,
-  "2024-01-02": 64950,
-  "2024-01-03": 65588
+  "2024-01-17": 72201,
+  "date_first_scraped": "2022-12-11",
+  "description": "Songs to prepare your heart for the <a href=\"https://www.passion2024.com/\"> Passion 2024 </a> conference.",
+  "name": "Road to Passion 2024",
+  "tracks": [
+    {
+      "album": {
+        "name": "1,000 Names",
+        "url": "https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 324949,
+      "name": "1,000 Names",
+      "url": "https://open.spotify.com/track/0LxqmMhefR4Wd2DtYZj509"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363788,
+      "name": "1,000 Names - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/1DOfhK5soECyVEb1ZAhfuk"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196132,
+      "name": "10K",
+      "url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310409,
+      "name": "A Thousand Hallelujahs - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/446G3i2DuHk1KHGyPIayDM"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5KvkvQqiXctKJJPUPTUUtV"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381389,
+      "name": "All About You - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/3N0aOVY4xR4sOP3hUCKiWN"
+    },
+    {
+      "album": {
+        "name": "Bigger Than I Thought",
+        "url": "https://open.spotify.com/album/3pJYeCZ9LZibdykbJz5n5t"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 334213,
+      "name": "All Praise",
+      "url": "https://open.spotify.com/track/26zqfHwk6EiWKLe4OdF1Bv"
+    },
+    {
+      "album": {
+        "name": "Roar (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414120,
+      "name": "All Praise - Live From Passion 2020",
+      "url": "https://open.spotify.com/track/5l9AMV6qSOEgbi2qOAcYOM"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462679,
+      "name": "Another Glimpse - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/6iD3I9re85kzfR82A4zvRO"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210783,
+      "name": "Armies",
+      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
+    },
+    {
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499585,
+      "name": "Authority",
+      "url": "https://open.spotify.com/track/4jb4q0MA2wIs2jJcUvVCGp"
+    },
+    {
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287533,
+      "name": "Battle Belongs",
+      "url": "https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 349223,
+      "name": "Beautiful Jesus - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/3XAC2YU2w2hhJbWiswnfDd"
+    },
+    {
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292261,
+      "name": "Bless God",
+      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
+    },
+    {
+      "album": {
+        "name": "Breakthrough Miracle Power / You Are The Lord",
+        "url": "https://open.spotify.com/album/5ycEoroDoT0qko1DtcNLd8"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 352520,
+      "name": "Breakthrough Miracle Power",
+      "url": "https://open.spotify.com/track/4SnFolLyKgOHliuSmjasQB"
+    },
+    {
+      "album": {
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Brett Younker",
+          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 459466,
+      "name": "Build My Life - Live",
+      "url": "https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim"
+    },
+    {
+      "album": {
+        "name": "1,000 Names",
+        "url": "https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334066,
+      "name": "Catch Me Singing",
+      "url": "https://open.spotify.com/track/0u1Ovg8NhPC3zibtW4UjzN"
+    },
+    {
+      "album": {
+        "name": "Run To The Father",
+        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 302013,
+      "name": "Christ Be Magnified",
+      "url": "https://open.spotify.com/track/4N2SVgJkVmn4sgS7s2410F"
+    },
+    {
+      "album": {
+        "name": "Live From Camp",
+        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365185,
+      "name": "Christ Our King - Live From Camp",
+      "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
+    },
+    {
+      "album": {
+        "name": "COAT OF MANY COLORS",
+        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271973,
+      "name": "COAT OF MANY COLORS",
+      "url": "https://open.spotify.com/track/5cdoiKBGXzOWa1o7VBhBgJ"
+    },
+    {
+      "album": {
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516651,
+      "name": "Fall Like Rain - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/6YiUx9yyiJCjdMuxP5lkzR"
+    },
+    {
+      "album": {
+        "name": "HELP!",
+        "url": "https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422346,
+      "name": "Fear Is Not My Future",
+      "url": "https://open.spotify.com/track/5OTknRBc30dPan98QblRJK"
+    },
+    {
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262467,
+      "name": "Fear Of God",
+      "url": "https://open.spotify.com/track/0o6pECIeN0Bz676fHPE1gA"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (Live)",
+        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382174,
+      "name": "Firm Foundation (He Won\u2019t)",
+      "url": "https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4"
+    },
+    {
+      "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 556844,
+      "name": "First Love - Live",
+      "url": "https://open.spotify.com/track/3rqhtNTYBbUxQ2j4NaG0Qx"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406231,
+      "name": "First Love - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/30QbxKlnxdmccra6Q4cnj1"
+    },
+    {
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+    },
+    {
+      "album": {
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 298520,
+      "name": "Glorious Day - Live",
+      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
+    },
+    {
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 263833,
+      "name": "God Really Loves Us",
+      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266316,
+      "name": "God Really Loves Us - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/1jn04FVADgMstxG6WyBbX5"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515202,
+      "name": "Good (Can't Be Anything Else) - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/4zi6FVNJL4u0vZB03HdrQ7"
+    },
+    {
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191533,
+      "name": "Good God Almighty",
+      "url": "https://open.spotify.com/track/4Wea9K8KRTsrlfIks5yepP"
+    },
+    {
+      "album": {
+        "name": "House Of Miracles",
+        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 337560,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378412,
+      "name": "Gratitude - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
+    },
+    {
+      "album": {
+        "name": "Grave Robber",
+        "url": "https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170854,
+      "name": "Grave Robber",
+      "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
+    },
+    {
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 452499,
+      "name": "Graves Into Gardens (Live)",
+      "url": "https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf"
+    },
+    {
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 226300,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/1INYG1Ln9PE0F1QHTjMzzO"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220766,
+      "name": "He Is - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/5IH9kUSv7FfjNTBQ6dFIZy"
+    },
+    {
+      "album": {
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410958,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313228,
+      "name": "Here It Is (I Worship You) - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/70xFZ3jcTwlgBlAD8TjHjF"
+    },
+    {
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 177293,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/0luSZXEfFQDtLifZTH4TgW"
+    },
+    {
+      "album": {
+        "name": "Live From Camp",
+        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "JR Collins",
+          "url": "https://open.spotify.com/artist/00hMSvY49I0jozeQaqHSor"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202630,
+      "name": "Higher Power - Live From Camp",
+      "url": "https://open.spotify.com/track/6Df9OKbTFBAEqjI6On5FTA"
+    },
+    {
+      "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223107,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
+    },
+    {
+      "album": {
+        "name": "Holy (Live)",
+        "url": "https://open.spotify.com/album/50ZKp6KCrsdai2GqeDGFVq"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331786,
+      "name": "Holy - Live",
+      "url": "https://open.spotify.com/track/3gzb78asf6noEszQfOonE0"
+    },
+    {
+      "album": {
+        "name": "SEVEN (Live)",
+        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 283964,
+      "name": "Honey In The Rock - Live",
+      "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311301,
+      "name": "Honey In The Rock - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/1ZHoummeZ5vsgW5rFpzyGb"
+    },
+    {
+      "album": {
+        "name": "Live From Camp",
+        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423166,
+      "name": "I Speak Jesus - Live From Camp",
+      "url": "https://open.spotify.com/track/5ShHzqdFyGi7e8Kxp9WXHU"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5KvkvQqiXctKJJPUPTUUtV"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470046,
+      "name": "I've Witnessed It - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/7ui5e4tSU738ae2uTwEwhn"
+    },
+    {
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 179366,
+      "name": "In The House",
+      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
+    },
+    {
+      "album": {
+        "name": "Just Too Good",
+        "url": "https://open.spotify.com/album/0l9DPBIbu5aB285anCmQJf"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203268,
+      "name": "Just Too Good",
+      "url": "https://open.spotify.com/track/7e17qg5Y4xQm52wzfg04Kk"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207404,
+      "name": "King - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/4U4pdy7qkgbXdmIQqONia7"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "King Jesus",
+      "url": "https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX"
+    },
+    {
+      "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 449066,
+      "name": "Let The Light In - Live",
+      "url": "https://open.spotify.com/track/7uEho9WLsvWHQyd3jwqI2Q"
+    },
+    {
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 354305,
+      "name": "LION (feat. Chris Brown & Brandon Lake)",
+      "url": "https://open.spotify.com/track/0wokdbjRBEVknN1c6FBf9S"
+    },
+    {
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503133,
+      "name": "Maranatha - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/3RDqUUxb4z2LcoCYtktBHL"
+    },
+    {
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226633,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/6iRdkCo5YdYyOyTQroR0xj"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 284704,
+      "name": "My Eyes Have Seen - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/5EqOF8Syz4uVCKERqQaLEP"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 234520,
+      "name": "New Thing",
+      "url": "https://open.spotify.com/track/092mrT90qaTROMRRaxnp0F"
+    },
+    {
+      "album": {
+        "name": "Run To The Father",
+        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393200,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC"
+    },
+    {
+      "album": {
+        "name": "COAT OF MANY COLORS",
+        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215746,
+      "name": "PRAISE YOU ANYWHERE",
+      "url": "https://open.spotify.com/track/1mMmA3puXjtI9EzrScvE86"
+    },
+    {
+      "album": {
+        "name": "Live From Camp",
+        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 316776,
+      "name": "Prodigals - Live From Camp",
+      "url": "https://open.spotify.com/track/6lNlYACPYGaJtr1pCi6LSh"
+    },
+    {
+      "album": {
+        "name": "House Of Miracles",
+        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 438000,
+      "name": "RATTLE!",
+      "url": "https://open.spotify.com/track/6ENppsFuukhrhe3V8puNo1"
+    },
+    {
+      "album": {
+        "name": "Majestic (Deluxe / Live)",
+        "url": "https://open.spotify.com/album/5ekufjtOozoiNZIX5X4GWl"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 334240,
+      "name": "Revelation Song - Live",
+      "url": "https://open.spotify.com/track/6CnBldBi59sjbbFY0UnqFr"
+    },
+    {
+      "album": {
+        "name": "Run To The Father",
+        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Run To The Father",
+      "url": "https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms"
+    },
+    {
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Jonsal Barrientes",
+          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 481802,
+      "name": "Same God (feat. Jonsal Barrientes)",
+      "url": "https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy"
+    },
+    {
+      "album": {
+        "name": "1,000 Names",
+        "url": "https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 268941,
+      "name": "Shake The Dust Off",
+      "url": "https://open.spotify.com/track/0sVjVi11pVmgZmTQfpVzam"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Brett Younker",
+          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 284915,
+      "name": "Shine Like Stars - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/1yiSvBWN7rL4Bjr6VKPbWN"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Landon Wolfe",
+          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 490813,
+      "name": "Son Of Suffering - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/48DBw5fRz1zgszTRu3rsFv"
+    },
+    {
+      "album": {
+        "name": "COAT OF MANY COLORS",
+        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263573,
+      "name": "TEAR OFF THE ROOF",
+      "url": "https://open.spotify.com/track/6JcAFHg1m7GQJQDCAMLTvT"
+    },
+    {
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 507306,
+      "name": "The Blessing (Live)",
+      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
+    },
+    {
+      "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492477,
+      "name": "The Blessing - Live",
+      "url": "https://open.spotify.com/track/2UgxATJDci5tYoiWXAansC"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575573,
+      "name": "The Dove - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/4R75xNkodAyC5fvFYKPUs8"
+    },
+    {
+      "album": {
+        "name": "Roar (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 345637,
+      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live From Passion 2020",
+      "url": "https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "This Is Our God",
+      "url": "https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz"
+    },
+    {
+      "album": {
+        "name": "Too Good To Not Believe",
+        "url": "https://open.spotify.com/album/0YvKvDWeeUTKdcDLpFpcy2"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 332693,
+      "name": "Too Good To Not Believe",
+      "url": "https://open.spotify.com/track/5F24AeQlGfBxwa8WrFR3QQ"
+    },
+    {
+      "album": {
+        "name": "God Is Good! (Live)",
+        "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349458,
+      "name": "Too Good To Not Believe - Live",
+      "url": "https://open.spotify.com/track/1QixiAnATmNEJ9emFKdSF7"
+    },
+    {
+      "album": {
+        "name": "Way Maker (Live From Passion 2020)",
+        "url": "https://open.spotify.com/album/1HY8dbCPw5iKodHCdvDh8s"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 412227,
+      "name": "Way Maker - Live From Passion 2020",
+      "url": "https://open.spotify.com/track/4FPQQcIho7JcCH1YLFzqZr"
+    },
+    {
+      "album": {
+        "name": "1,000 Names",
+        "url": "https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391922,
+      "name": "Ways",
+      "url": "https://open.spotify.com/track/0Qpnfug9n6BHKtct29pwcu"
+    },
+    {
+      "album": {
+        "name": "Live From LIFT: Creative Conference",
+        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292978,
+      "name": "What He's Done - Live From LIFT: Creative Conference",
+      "url": "https://open.spotify.com/track/3f8mIzgGRtkIjkpaorpq7M"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 397216,
+      "name": "What He's Done - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX"
+    },
+    {
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270560,
+      "name": "Where I'm Standing Now (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/3JBMyUHHYz30GCpJL99zGX"
+    },
+    {
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Landon Wolfe",
+          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259756,
+      "name": "Who Is Like The Lord - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/0oaafO2efqhUqcLZWH6VSw"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 340572,
+      "name": "Yesterday, Today And Forever - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
+    },
+    {
+      "album": {
+        "name": "Live From Rehearsals",
+        "url": "https://open.spotify.com/album/3VJ3N74TWo85AbdMsPXiYA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        },
+        {
+          "name": "Kenny J West",
+          "url": "https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 629794,
+      "name": "You Are The Lord (We Cry Holy) - Live From Rehearsals",
+      "url": "https://open.spotify.com/track/2q5CVlwjOaazOE8rEPN5OH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX29zlP8CHXWW"
 }

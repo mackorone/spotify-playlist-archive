@@ -1,298 +1,999 @@
 {
-  "2023-03-11": 394692,
-  "2023-03-12": 394975,
-  "2023-03-13": 395226,
-  "2023-03-14": 395387,
-  "2023-03-15": 395555,
-  "2023-03-16": 395555,
-  "2023-03-17": 395555,
-  "2023-03-18": 396152,
-  "2023-03-19": 396152,
-  "2023-03-20": 396774,
-  "2023-03-21": 397037,
-  "2023-03-22": 397241,
-  "2023-03-23": 397451,
-  "2023-03-24": 397451,
-  "2023-03-25": 397862,
-  "2023-03-26": 398143,
-  "2023-03-27": 398389,
-  "2023-03-28": 398566,
-  "2023-03-29": 398800,
-  "2023-03-30": 399200,
-  "2023-03-31": 399200,
-  "2023-04-01": 399472,
-  "2023-04-02": 399784,
-  "2023-04-03": 400059,
-  "2023-04-04": 400317,
-  "2023-04-05": 400542,
-  "2023-04-06": 400876,
-  "2023-04-07": 401204,
-  "2023-04-09": 401760,
-  "2023-04-10": 402023,
-  "2023-04-11": 402403,
-  "2023-04-12": 402403,
-  "2023-04-13": 402611,
-  "2023-04-14": 402835,
-  "2023-04-15": 403062,
-  "2023-04-16": 403291,
-  "2023-04-17": 403512,
-  "2023-04-18": 403666,
-  "2023-04-19": 403825,
-  "2023-04-20": 404007,
-  "2023-04-21": 404206,
-  "2023-04-22": 404430,
-  "2023-04-23": 404672,
-  "2023-04-24": 404929,
-  "2023-04-25": 405080,
-  "2023-04-26": 405208,
-  "2023-04-27": 405392,
-  "2023-04-28": 405559,
-  "2023-04-29": 405743,
-  "2023-04-30": 405964,
-  "2023-05-01": 406140,
-  "2023-05-02": 406341,
-  "2023-05-03": 406478,
-  "2023-05-04": 406636,
-  "2023-05-05": 406811,
-  "2023-05-06": 407032,
-  "2023-05-07": 407253,
-  "2023-05-08": 407450,
-  "2023-05-09": 407606,
-  "2023-05-10": 407768,
-  "2023-05-11": 407947,
-  "2023-05-12": 408133,
-  "2023-05-13": 408339,
-  "2023-05-14": 408549,
-  "2023-05-15": 408749,
-  "2023-05-16": 408913,
-  "2023-05-17": 409065,
-  "2023-05-18": 409242,
-  "2023-05-19": 409415,
-  "2023-05-20": 409801,
-  "2023-05-21": 409801,
-  "2023-05-22": 409801,
-  "2023-05-23": 410114,
-  "2023-05-24": 410398,
-  "2023-05-25": 410440,
-  "2023-05-26": 410600,
-  "2023-05-27": 410781,
-  "2023-05-28": 411007,
-  "2023-05-29": 411007,
-  "2023-05-30": 411382,
-  "2023-05-31": 411569,
-  "2023-06-01": 411722,
-  "2023-06-02": 411873,
-  "2023-06-03": 412051,
-  "2023-06-04": 412242,
-  "2023-06-05": 412411,
-  "2023-06-06": 412541,
-  "2023-06-07": 412708,
-  "2023-06-08": 412862,
-  "2023-06-09": 413043,
-  "2023-06-10": 413271,
-  "2023-06-11": 413469,
-  "2023-06-12": 413646,
-  "2023-06-13": 413777,
-  "2023-06-14": 413777,
-  "2023-06-15": 414069,
-  "2023-06-16": 414233,
-  "2023-06-17": 414419,
-  "2023-06-18": 414634,
-  "2023-06-19": 414811,
-  "2023-06-20": 414946,
-  "2023-06-21": 415073,
-  "2023-06-22": 415194,
-  "2023-06-23": 415303,
-  "2023-06-24": 415471,
-  "2023-06-25": 415657,
-  "2023-06-26": 415820,
-  "2023-06-27": 415938,
-  "2023-06-28": 416074,
-  "2023-06-29": 416261,
-  "2023-06-30": 416422,
-  "2023-07-01": 416831,
-  "2023-07-02": 416831,
-  "2023-07-03": 417035,
-  "2023-07-04": 417138,
-  "2023-07-05": 417281,
-  "2023-07-06": 417604,
-  "2023-07-07": 417604,
-  "2023-07-08": 417604,
-  "2023-07-09": 418019,
-  "2023-07-10": 418210,
-  "2023-07-11": 418342,
-  "2023-07-12": 418511,
-  "2023-07-13": 418673,
-  "2023-07-14": 418825,
-  "2023-07-15": 418945,
-  "2023-07-16": 419168,
-  "2023-07-17": 419318,
-  "2023-07-18": 419426,
-  "2023-07-19": 419574,
-  "2023-07-20": 419704,
-  "2023-07-21": 419857,
-  "2023-07-22": 420023,
-  "2023-07-23": 420219,
-  "2023-07-24": 420359,
-  "2023-07-25": 420462,
-  "2023-07-26": 420562,
-  "2023-07-27": 420684,
-  "2023-07-28": 420861,
-  "2023-07-29": 421021,
-  "2023-07-30": 421202,
-  "2023-07-31": 421376,
-  "2023-08-01": 421505,
-  "2023-08-02": 421646,
-  "2023-08-03": 421839,
-  "2023-08-04": 422009,
-  "2023-08-05": 422229,
-  "2023-08-06": 422668,
-  "2023-08-07": 422668,
-  "2023-08-08": 422809,
-  "2023-08-09": 422975,
-  "2023-08-10": 423139,
-  "2023-08-11": 423301,
-  "2023-08-12": 423301,
-  "2023-08-13": 423301,
-  "2023-08-14": 423916,
-  "2023-08-15": 423916,
-  "2023-08-16": 423916,
-  "2023-08-17": 423916,
-  "2023-08-18": 423916,
-  "2023-08-19": 423916,
-  "2023-08-20": 424948,
-  "2023-08-21": 424948,
-  "2023-08-22": 425271,
-  "2023-08-23": 425271,
-  "2023-08-24": 425271,
-  "2023-08-25": 425271,
-  "2023-08-26": 426015,
-  "2023-08-27": 426015,
-  "2023-08-28": 426436,
-  "2023-08-29": 426436,
-  "2023-08-30": 426436,
-  "2023-08-31": 426891,
-  "2023-09-01": 427062,
-  "2023-09-02": 427062,
-  "2023-09-03": 427062,
-  "2023-09-04": 427062,
-  "2023-09-05": 427062,
-  "2023-09-06": 427062,
-  "2023-09-07": 427062,
-  "2023-09-08": 427062,
-  "2023-09-09": 427062,
-  "2023-09-10": 427062,
-  "2023-09-11": 427062,
-  "2023-09-12": 427062,
-  "2023-09-13": 427062,
-  "2023-09-14": 427062,
-  "2023-09-15": 427062,
-  "2023-09-16": 430181,
-  "2023-09-17": 430181,
-  "2023-09-18": 430181,
-  "2023-09-19": 430717,
-  "2023-09-20": 430717,
-  "2023-09-21": 430717,
-  "2023-09-22": 431096,
-  "2023-09-23": 431096,
-  "2023-09-24": 431096,
-  "2023-09-25": 431096,
-  "2023-09-26": 431750,
-  "2023-09-27": 431750,
-  "2023-09-28": 431750,
-  "2023-09-29": 431750,
-  "2023-09-30": 431750,
-  "2023-10-01": 431750,
-  "2023-10-02": 431750,
-  "2023-10-03": 431750,
-  "2023-10-04": 431750,
-  "2023-10-05": 431750,
-  "2023-10-06": 431750,
-  "2023-10-07": 431750,
-  "2023-10-08": 431750,
-  "2023-10-09": 431750,
-  "2023-10-10": 431750,
-  "2023-10-11": 433658,
-  "2023-10-12": 433658,
-  "2023-10-13": 433658,
-  "2023-10-14": 433658,
-  "2023-10-15": 433658,
-  "2023-10-16": 433658,
-  "2023-10-17": 433658,
-  "2023-10-18": 433658,
-  "2023-10-19": 433658,
-  "2023-10-20": 433658,
-  "2023-10-21": 433658,
-  "2023-10-22": 433658,
-  "2023-10-23": 433658,
-  "2023-10-24": 433658,
-  "2023-10-25": 433658,
-  "2023-10-26": 433658,
-  "2023-10-27": 433658,
-  "2023-10-28": 433658,
-  "2023-10-29": 433658,
-  "2023-10-30": 433658,
-  "2023-10-31": 433658,
-  "2023-11-01": 433658,
-  "2023-11-02": 433658,
-  "2023-11-03": 433658,
-  "2023-11-04": 433658,
-  "2023-11-05": 433658,
-  "2023-11-06": 433658,
-  "2023-11-07": 433658,
-  "2023-11-08": 433658,
-  "2023-11-09": 433658,
-  "2023-11-10": 433658,
-  "2023-11-11": 437944,
-  "2023-11-12": 437944,
-  "2023-11-13": 437944,
-  "2023-11-14": 437944,
-  "2023-11-15": 437944,
-  "2023-11-16": 437944,
-  "2023-11-17": 437944,
-  "2023-11-18": 437944,
-  "2023-11-19": 437944,
-  "2023-11-20": 437944,
-  "2023-11-21": 437944,
-  "2023-11-22": 437944,
-  "2023-11-23": 437944,
-  "2023-11-24": 437944,
-  "2023-11-25": 437944,
-  "2023-11-26": 437944,
-  "2023-11-27": 437944,
-  "2023-11-28": 437944,
-  "2023-11-29": 437944,
-  "2023-11-30": 437944,
-  "2023-12-01": 437944,
-  "2023-12-02": 437944,
-  "2023-12-03": 437944,
-  "2023-12-04": 437944,
-  "2023-12-05": 437944,
-  "2023-12-06": 437944,
-  "2023-12-07": 437944,
-  "2023-12-08": 437944,
-  "2023-12-09": 437944,
-  "2023-12-10": 437944,
-  "2023-12-11": 437944,
-  "2023-12-12": 437944,
-  "2023-12-13": 437944,
-  "2023-12-14": 446411,
-  "2023-12-15": 446589,
-  "2023-12-16": 446838,
-  "2023-12-17": 447082,
-  "2023-12-18": 447237,
-  "2023-12-19": 447388,
-  "2023-12-20": 447553,
-  "2023-12-21": 447740,
-  "2023-12-22": 447935,
-  "2023-12-23": 448162,
-  "2023-12-24": 448426,
-  "2023-12-25": 448710,
-  "2023-12-26": 448944,
-  "2023-12-27": 449097,
-  "2023-12-30": 449670,
-  "2023-12-31": 449904,
-  "2024-01-01": 450198,
-  "2024-01-02": 450456,
-  "2024-01-03": 450534
+  "2024-01-17": 450246,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
+  "name": "This Is Jenni Rivera",
+  "tracks": [
+    {
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264186,
+      "name": "A Cambio de Qu\u00e9 - Banda",
+      "url": "https://open.spotify.com/track/0KJukOSRpRffsmjG3KB9L7"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "A Que No Le Cuentas - Banda",
+      "url": "https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218280,
+      "name": "Ahora Que Estuviste Lejos",
+      "url": "https://open.spotify.com/track/0mVNDYnQh9Dcdl3M2fRts1"
+    },
+    {
+      "album": {
+        "name": "Ajustando Cuentas",
+        "url": "https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV"
+      },
+      "artists": [
+        {
+          "name": "Diana Reyes",
+          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Ajustando Cuentas",
+      "url": "https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY"
+    },
+    {
+      "album": {
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263893,
+      "name": "Amiga Si Lo Ves",
+      "url": "https://open.spotify.com/track/5FSZ1u0m46BQPGNXZEO5AS"
+    },
+    {
+      "album": {
+        "name": "Aparentemente Bien",
+        "url": "https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257721,
+      "name": "Aparentemente Bien - Versi\u00f3n Sencillo",
+      "url": "https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "As\u00ed Fue - Pop",
+      "url": "https://open.spotify.com/track/7G9UBSP0u8EEDWNaadXnZU"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
+    },
+    {
+      "album": {
+        "name": "Besos y Copas Desde Hollywood (En Vivo)",
+        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/0fqFKDW0OUuuZSNaQjt8fp"
+    },
+    {
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245967,
+      "name": "Chuper Amigos",
+      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265840,
+      "name": "Como Tu Mujer - Banda",
+      "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
+    },
+    {
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226950,
+      "name": "Con \u00c9l",
+      "url": "https://open.spotify.com/track/7aCLtSlkFRMiPycFEEhLFA"
+    },
+    {
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201826,
+      "name": "Cuando Me Acuerdo de Ti",
+      "url": "https://open.spotify.com/track/1jiTEN8iyh2GerskBrVm2M"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Cuando Muere una Dama",
+      "url": "https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160880,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
+    },
+    {
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212902,
+      "name": "Culpable o Inocente",
+      "url": "https://open.spotify.com/track/59AAuV11OFaL8VX98tLxYx"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156866,
+      "name": "Dama Divina",
+      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "De Contrabando",
+      "url": "https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277653,
+      "name": "Detr\u00e1s de Mi Ventana - Banda",
+      "url": "https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/01AVaTct7bSuVvG5HdsGbc"
+    },
+    {
+      "album": {
+        "name": "El Patr\u00f3n (La Victoria)",
+        "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "El Amor (feat. Jenni Rivera)",
+      "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
+    },
+    {
+      "album": {
+        "name": "Enga\u00f1\u00e9moslo",
+        "url": "https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Mariachi Los Reyes",
+          "url": "https://open.spotify.com/artist/4F7KkuF7t7TJPJk7mNPIlM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 211712,
+      "name": "Enga\u00f1\u00e9moslo - Versi\u00f3n Mariachi - Versi\u00f3n Sencillo",
+      "url": "https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Jefa de Jefas",
+      "url": "https://open.spotify.com/track/6Lwdlm1EPGrlZhh9BrL415"
+    },
+    {
+      "album": {
+        "name": "Homenaje a las Grandes",
+        "url": "https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160146,
+      "name": "Juro Que Nunca Volvere",
+      "url": "https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "La Cara Bonita",
+      "url": "https://open.spotify.com/track/738eSXmmWKzUztBlemx7DQ"
+    },
+    {
+      "album": {
+        "name": "La Chacalosa",
+        "url": "https://open.spotify.com/album/29TlqFabnT9Rk8VIVWXypc"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216880,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/150USNQZ2CCfh4KxRxG0CP"
+    },
+    {
+      "album": {
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 220173,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "Mariposa de Barrio",
+      "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu"
+    },
+    {
+      "album": {
+        "name": "Misi\u00f3n Cumplida",
+        "url": "https://open.spotify.com/album/0uQRZ1SvseWfRuu5kl14hc"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191842,
+      "name": "Misi\u00f3n Cumplida",
+      "url": "https://open.spotify.com/track/4LMQxOMgUPlugjBlfp2ZK6"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220480,
+      "name": "No Me Pregunten por \u00c9l",
+      "url": "https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR"
+    },
+    {
+      "album": {
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172013,
+      "name": "Ovarios",
+      "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
+    },
+    {
+      "album": {
+        "name": "La Diva en Vivo",
+        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226694,
+      "name": "Paloma Negra - Live",
+      "url": "https://open.spotify.com/track/4slj1zrClwJSLdUNLezp4f"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "Parrandera, Rebelde y Atrevida",
+      "url": "https://open.spotify.com/track/3B1rdhOmO7LwlyIFsC0xFK"
+    },
+    {
+      "album": {
+        "name": "Misi\u00f3n Cumplida",
+        "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Jacqie Rivera",
+          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "Pedacito de M\u00ed",
+      "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Por Qu\u00e9 No Le Calas",
+      "url": "https://open.spotify.com/track/54dl0Wvtmd9tcLfwjxONEn"
+    },
+    {
+      "album": {
+        "name": "Homenaje a las Grandes",
+        "url": "https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "Por un Amor Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309506,
+      "name": "Porque Me Gusta a Morir - Pop",
+      "url": "https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
+      "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
+    },
+    {
+      "album": {
+        "name": "Borracho de Primera",
+        "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 231862,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY"
+    },
+    {
+      "album": {
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "Querida Socia",
+      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "Qu\u00e9 Me Vas a Dar",
+      "url": "https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 208226,
+      "name": "Qu\u00e9 Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/3TcBX4GjzzSyMRwTNLvovt"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223813,
+      "name": "Resulta - Banda",
+      "url": "https://open.spotify.com/track/4sT4lDZR7uwgYxEmiqZvEQ"
+    },
+    {
+      "album": {
+        "name": "Se las Voy a Dar a Otro",
+        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215038,
+      "name": "Se Las Voy a Dar a Otro",
+      "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
+    },
+    {
+      "album": {
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Taquito De Ojo",
+      "url": "https://open.spotify.com/track/0sVjpJLaiJfDeqnMNwIu0v"
+    },
+    {
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158915,
+      "name": "Trono Ca\u00eddo",
+      "url": "https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ"
+    },
+    {
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "Tu Camisa Puesta",
+      "url": "https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora (En Vivo)",
+        "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "\u00c9l - Banda",
+      "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33jFle"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,736 likes - 52 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,995 likes - 52 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 24 | [Blackwaterside](https://open.spotify.com/track/4dEFFlFgdVUqF5veresddP) | [Muireann Nic Amhlaoibh](https://open.spotify.com/artist/0kmDsPHHxquChPOywNcoF3) | [Thar Toinn / Seaborne](https://open.spotify.com/album/5UmZL3Thb2xSEk6YdR8Fb5) | 4:36 |
 | 25 | [Danny Boy](https://open.spotify.com/track/5o4SqGekEfvdkNuOVx5d3S) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:18 |
 | 26 | [Fair And Tender Ladies](https://open.spotify.com/track/57o3UjNOuW8CRWGcsUND91) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [Think Before You Think](https://open.spotify.com/album/61Itfnk2U5CFqpzDjdJjxb) | 4:28 |
-| 27 | [The West Coast Of Clare](https://open.spotify.com/track/51iBStlAJlUriO53s93F6l) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P) | 5:26 |
+| 27 | [The West Coast of Clare](https://open.spotify.com/track/3mTkN13P0kiUtKWhAtbAP0) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/7ngRumkLaxTRd7vNsirCns) | 5:26 |
 | 28 | [Dublin In The Rare Auld Times](https://open.spotify.com/track/6WWLO6aWNAMdtOI6iOL86D) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Best Ever Collection Of Irish Pub Songs \- Volume 1](https://open.spotify.com/album/03EhSxO0WLA1axY6Nwb1H6) | 4:59 |
 | 29 | [The Turfman From Ardee](https://open.spotify.com/track/1g9ojIWqBvaR1eXqXcEqhI) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [A Mouthful of The Mary Wallopers](https://open.spotify.com/album/00IPpzD5bAX0vtU6GG3tYz) | 1:52 |
 | 30 | [The Rising of the Moon](https://open.spotify.com/track/6hwvSseQYltJDb1d7JMbkj) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 3:55 |

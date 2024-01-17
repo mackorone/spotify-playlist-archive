@@ -1,735 +1,1781 @@
 {
-  "2021-12-25": 185069,
-  "2021-12-26": 185058,
-  "2021-12-27": 185045,
-  "2021-12-28": 185045,
-  "2021-12-29": 185032,
-  "2021-12-30": 185033,
-  "2021-12-31": 185026,
-  "2022-01-01": 185015,
-  "2022-01-02": 185016,
-  "2022-01-03": 185017,
-  "2022-01-04": 185013,
-  "2022-01-05": 185005,
-  "2022-01-06": 184997,
-  "2022-01-07": 184981,
-  "2022-01-08": 184974,
-  "2022-01-09": 184972,
-  "2022-01-10": 184969,
-  "2022-01-11": 184966,
-  "2022-01-12": 184968,
-  "2022-01-13": 184963,
-  "2022-01-14": 184957,
-  "2022-01-15": 184955,
-  "2022-01-16": 184956,
-  "2022-01-17": 184939,
-  "2022-01-18": 184940,
-  "2022-01-19": 184940,
-  "2022-01-20": 184938,
-  "2022-01-21": 184933,
-  "2022-01-22": 184927,
-  "2022-01-23": 184934,
-  "2022-01-24": 184937,
-  "2022-01-25": 184935,
-  "2022-01-26": 184914,
-  "2022-01-27": 184904,
-  "2022-01-28": 184889,
-  "2022-01-29": 184885,
-  "2022-01-30": 184878,
-  "2022-01-31": 184872,
-  "2022-02-01": 184872,
-  "2022-02-02": 184864,
-  "2022-02-03": 184853,
-  "2022-02-04": 184850,
-  "2022-02-05": 184853,
-  "2022-02-06": 184840,
-  "2022-02-07": 184831,
-  "2022-02-08": 184836,
-  "2022-02-09": 184833,
-  "2022-02-10": 184831,
-  "2022-02-11": 184834,
-  "2022-02-12": 184831,
-  "2022-02-13": 184830,
-  "2022-02-14": 184816,
-  "2022-02-15": 184802,
-  "2022-02-16": 184795,
-  "2022-02-17": 184783,
-  "2022-02-18": 184761,
-  "2022-02-19": 184751,
-  "2022-02-20": 184749,
-  "2022-02-21": 184739,
-  "2022-02-22": 184726,
-  "2022-02-23": 184725,
-  "2022-02-24": 184712,
-  "2022-02-25": 184705,
-  "2022-02-26": 184696,
-  "2022-02-27": 184667,
-  "2022-02-28": 184667,
-  "2022-03-01": 184675,
-  "2022-03-02": 184689,
-  "2022-03-03": 184685,
-  "2022-03-04": 184680,
-  "2022-03-05": 184678,
-  "2022-03-06": 184721,
-  "2022-03-07": 184791,
-  "2022-03-08": 184871,
-  "2022-03-09": 184921,
-  "2022-03-10": 185009,
-  "2022-03-11": 185093,
-  "2022-03-12": 185157,
-  "2022-03-13": 185221,
-  "2022-03-14": 185281,
-  "2022-03-15": 185362,
-  "2022-03-16": 185425,
-  "2022-03-17": 185493,
-  "2022-03-18": 185598,
-  "2022-03-19": 185622,
-  "2022-03-20": 185622,
-  "2022-03-21": 185773,
-  "2022-03-22": 185809,
-  "2022-03-23": 185870,
-  "2022-03-24": 185928,
-  "2022-03-25": 185991,
-  "2022-03-26": 186059,
-  "2022-03-27": 186125,
-  "2022-03-28": 186169,
-  "2022-03-30": 186289,
-  "2022-03-31": 186352,
-  "2022-04-01": 186410,
-  "2022-04-02": 186460,
-  "2022-04-03": 186518,
-  "2022-04-04": 186584,
-  "2022-04-05": 186638,
-  "2022-04-06": 186704,
-  "2022-04-07": 186771,
-  "2022-04-08": 186842,
-  "2022-04-09": 186886,
-  "2022-04-10": 186991,
-  "2022-04-11": 187054,
-  "2022-04-12": 187065,
-  "2022-04-13": 187120,
-  "2022-04-14": 187175,
-  "2022-04-15": 187232,
-  "2022-04-16": 187292,
-  "2022-04-17": 187325,
-  "2022-04-18": 187393,
-  "2022-04-19": 187416,
-  "2022-04-20": 187462,
-  "2022-04-21": 187516,
-  "2022-04-22": 187570,
-  "2022-04-23": 187617,
-  "2022-04-24": 187672,
-  "2022-04-25": 187745,
-  "2022-04-26": 187813,
-  "2022-04-27": 187886,
-  "2022-04-28": 187935,
-  "2022-04-29": 188055,
-  "2022-04-30": 188108,
-  "2022-05-01": 188196,
-  "2022-05-02": 188196,
-  "2022-05-03": 188264,
-  "2022-05-04": 188346,
-  "2022-05-05": 188406,
-  "2022-05-06": 188468,
-  "2022-05-07": 188546,
-  "2022-05-08": 188637,
-  "2022-05-09": 188658,
-  "2022-05-10": 188739,
-  "2022-05-11": 188794,
-  "2022-05-12": 188858,
-  "2022-05-13": 188913,
-  "2022-05-14": 188978,
-  "2022-05-15": 189042,
-  "2022-05-16": 189106,
-  "2022-05-17": 189178,
-  "2022-05-18": 189252,
-  "2022-05-19": 189297,
-  "2022-05-20": 189402,
-  "2022-05-21": 189518,
-  "2022-05-22": 189518,
-  "2022-05-23": 189588,
-  "2022-05-24": 189643,
-  "2022-05-25": 189703,
-  "2022-05-26": 189775,
-  "2022-05-27": 189841,
-  "2022-05-28": 189897,
-  "2022-05-29": 189936,
-  "2022-05-30": 189990,
-  "2022-05-31": 190047,
-  "2022-06-01": 190185,
-  "2022-06-02": 190189,
-  "2022-06-03": 190245,
-  "2022-06-04": 190313,
-  "2022-06-05": 190366,
-  "2022-06-06": 190432,
-  "2022-06-07": 190494,
-  "2022-06-08": 190566,
-  "2022-06-09": 190596,
-  "2022-06-10": 190647,
-  "2022-06-11": 190688,
-  "2022-06-12": 190736,
-  "2022-06-13": 190806,
-  "2022-06-14": 190881,
-  "2022-06-15": 190925,
-  "2022-06-16": 190984,
-  "2022-06-17": 191047,
-  "2022-06-18": 191047,
-  "2022-06-19": 191219,
-  "2022-06-20": 191219,
-  "2022-06-21": 191262,
-  "2022-06-22": 191360,
-  "2022-06-23": 191360,
-  "2022-06-24": 191409,
-  "2022-06-25": 191447,
-  "2022-06-26": 191498,
-  "2022-06-27": 191552,
-  "2022-06-28": 191596,
-  "2022-06-29": 191671,
-  "2022-06-30": 191715,
-  "2022-07-01": 191760,
-  "2022-07-02": 191792,
-  "2022-07-03": 191842,
-  "2022-07-04": 191892,
-  "2022-07-05": 191938,
-  "2022-07-06": 191979,
-  "2022-07-07": 192044,
-  "2022-07-08": 192091,
-  "2022-07-09": 192146,
-  "2022-07-10": 192194,
-  "2022-07-11": 192255,
-  "2022-07-12": 192321,
-  "2022-07-13": 192394,
-  "2022-07-14": 192465,
-  "2022-07-15": 192523,
-  "2022-07-16": 192565,
-  "2022-07-17": 192628,
-  "2022-07-18": 192670,
-  "2022-07-19": 192717,
-  "2022-07-20": 192760,
-  "2022-07-21": 192812,
-  "2022-07-22": 192873,
-  "2022-07-23": 192920,
-  "2022-07-24": 192969,
-  "2022-07-25": 193027,
-  "2022-07-26": 193068,
-  "2022-07-27": 193123,
-  "2022-07-28": 193163,
-  "2022-07-29": 193209,
-  "2022-07-30": 193321,
-  "2022-07-31": 193321,
-  "2022-08-01": 193369,
-  "2022-08-02": 193460,
-  "2022-08-03": 193460,
-  "2022-08-04": 193513,
-  "2022-08-05": 193577,
-  "2022-08-06": 193625,
-  "2022-08-07": 193683,
-  "2022-08-08": 193736,
-  "2022-08-09": 193791,
-  "2022-08-10": 193869,
-  "2022-08-11": 193930,
-  "2022-08-12": 193981,
-  "2022-08-13": 194039,
-  "2022-08-14": 194081,
-  "2022-08-15": 194150,
-  "2022-08-16": 194217,
-  "2022-08-17": 194259,
-  "2022-08-18": 194324,
-  "2022-08-19": 194373,
-  "2022-08-20": 194418,
-  "2022-08-21": 194463,
-  "2022-08-22": 194519,
-  "2022-08-23": 194569,
-  "2022-08-24": 194626,
-  "2022-08-25": 194690,
-  "2022-08-26": 194734,
-  "2022-08-27": 194784,
-  "2022-08-28": 194833,
-  "2022-08-29": 194892,
-  "2022-08-30": 194928,
-  "2022-08-31": 194992,
-  "2022-09-01": 195040,
-  "2022-09-02": 195072,
-  "2022-09-03": 195101,
-  "2022-09-04": 195164,
-  "2022-09-05": 195230,
-  "2022-09-06": 195286,
-  "2022-09-07": 195339,
-  "2022-09-09": 195442,
-  "2022-09-10": 195502,
-  "2022-09-11": 195543,
-  "2022-09-12": 195615,
-  "2022-09-13": 195670,
-  "2022-09-15": 195810,
-  "2022-09-16": 195872,
-  "2022-09-17": 195936,
-  "2022-09-18": 195986,
-  "2022-09-19": 196051,
-  "2022-09-20": 196093,
-  "2022-09-21": 196136,
-  "2022-09-22": 196190,
-  "2022-09-23": 196236,
-  "2022-09-24": 196271,
-  "2022-09-25": 196351,
-  "2022-09-26": 196404,
-  "2022-09-27": 196482,
-  "2022-09-28": 196570,
-  "2022-09-29": 196648,
-  "2022-09-30": 196705,
-  "2022-10-01": 196772,
-  "2022-10-02": 196835,
-  "2022-10-03": 196891,
-  "2022-10-04": 196944,
-  "2022-10-05": 197001,
-  "2022-10-06": 197067,
-  "2022-10-07": 197109,
-  "2022-10-08": 197150,
-  "2022-10-09": 197245,
-  "2022-10-10": 197263,
-  "2022-10-11": 197328,
-  "2022-10-12": 197382,
-  "2022-10-13": 197426,
-  "2022-10-14": 197473,
-  "2022-10-15": 197523,
-  "2022-10-16": 197575,
-  "2022-10-17": 197640,
-  "2022-10-18": 197699,
-  "2022-10-19": 197760,
-  "2022-10-20": 197831,
-  "2022-10-21": 197890,
-  "2022-10-22": 197963,
-  "2022-10-23": 198015,
-  "2022-10-24": 198082,
-  "2022-10-25": 198140,
-  "2022-10-26": 198208,
-  "2022-10-27": 198261,
-  "2022-10-28": 198327,
-  "2022-10-29": 198381,
-  "2022-10-30": 198445,
-  "2022-10-31": 198511,
-  "2022-11-01": 198571,
-  "2022-11-02": 198646,
-  "2022-11-03": 198717,
-  "2022-11-04": 198785,
-  "2022-11-05": 198840,
-  "2022-11-06": 198913,
-  "2022-11-07": 198987,
-  "2022-11-08": 199091,
-  "2022-11-09": 199171,
-  "2022-11-10": 199238,
-  "2022-11-11": 199310,
-  "2022-11-12": 199377,
-  "2022-11-13": 199451,
-  "2022-11-14": 199507,
-  "2022-11-15": 199577,
-  "2022-11-16": 199630,
-  "2022-11-17": 199714,
-  "2022-11-18": 199721,
-  "2022-11-19": 199731,
-  "2022-11-20": 199803,
-  "2022-11-21": 199852,
-  "2022-11-22": 199892,
-  "2022-11-23": 199953,
-  "2022-11-24": 200065,
-  "2022-11-25": 200170,
-  "2022-11-26": 200247,
-  "2022-11-27": 200323,
-  "2022-11-28": 200388,
-  "2022-11-29": 200466,
-  "2022-11-30": 200561,
-  "2022-12-01": 200652,
-  "2022-12-02": 200683,
-  "2022-12-03": 200765,
-  "2022-12-04": 200835,
-  "2022-12-05": 200917,
-  "2022-12-06": 200981,
-  "2022-12-07": 201044,
-  "2022-12-08": 201100,
-  "2022-12-09": 201177,
-  "2022-12-10": 201232,
-  "2022-12-11": 201297,
-  "2022-12-12": 201377,
-  "2022-12-13": 201424,
-  "2022-12-14": 201494,
-  "2022-12-15": 201566,
-  "2022-12-16": 201622,
-  "2022-12-17": 201681,
-  "2022-12-18": 201741,
-  "2022-12-19": 201787,
-  "2022-12-20": 201912,
-  "2022-12-21": 201912,
-  "2022-12-22": 201991,
-  "2022-12-24": 202107,
-  "2022-12-25": 202158,
-  "2022-12-26": 202222,
-  "2022-12-27": 202277,
-  "2022-12-28": 202336,
-  "2022-12-29": 202410,
-  "2022-12-30": 202494,
-  "2022-12-31": 202567,
-  "2023-01-01": 202658,
-  "2023-01-02": 202726,
-  "2023-01-03": 202807,
-  "2023-01-04": 202889,
-  "2023-01-05": 202995,
-  "2023-01-06": 203100,
-  "2023-01-07": 203212,
-  "2023-01-08": 203231,
-  "2023-01-09": 203334,
-  "2023-01-10": 203417,
-  "2023-01-11": 203488,
-  "2023-01-12": 203543,
-  "2023-01-13": 203616,
-  "2023-01-14": 203735,
-  "2023-01-15": 203749,
-  "2023-01-16": 203793,
-  "2023-01-17": 203882,
-  "2023-01-18": 203952,
-  "2023-01-19": 204040,
-  "2023-01-20": 204121,
-  "2023-01-21": 204196,
-  "2023-01-22": 204264,
-  "2023-01-23": 204341,
-  "2023-01-24": 204409,
-  "2023-01-25": 204499,
-  "2023-01-26": 204562,
-  "2023-01-27": 204635,
-  "2023-01-28": 204724,
-  "2023-01-29": 204793,
-  "2023-01-30": 204858,
-  "2023-01-31": 204858,
-  "2023-02-01": 205017,
-  "2023-02-02": 205090,
-  "2023-02-03": 205150,
-  "2023-02-04": 205206,
-  "2023-02-05": 205285,
-  "2023-02-06": 205385,
-  "2023-02-07": 205482,
-  "2023-02-08": 205613,
-  "2023-02-09": 205613,
-  "2023-02-10": 205670,
-  "2023-02-11": 205753,
-  "2023-02-12": 205889,
-  "2023-02-13": 205926,
-  "2023-02-14": 205926,
-  "2023-02-15": 205981,
-  "2023-02-16": 206047,
-  "2023-02-17": 206100,
-  "2023-02-18": 206201,
-  "2023-02-19": 206218,
-  "2023-02-20": 206272,
-  "2023-02-21": 206331,
-  "2023-02-22": 206420,
-  "2023-02-23": 206503,
-  "2023-02-24": 206570,
-  "2023-02-25": 206637,
-  "2023-02-26": 206683,
-  "2023-02-27": 206813,
-  "2023-02-28": 206813,
-  "2023-03-01": 206889,
-  "2023-03-02": 206955,
-  "2023-03-03": 207020,
-  "2023-03-04": 207066,
-  "2023-03-05": 207192,
-  "2023-03-06": 207192,
-  "2023-03-07": 207248,
-  "2023-03-08": 207322,
-  "2023-03-09": 207395,
-  "2023-03-10": 207450,
-  "2023-03-11": 207511,
-  "2023-03-12": 207570,
-  "2023-03-13": 207641,
-  "2023-03-14": 207692,
-  "2023-03-15": 207734,
-  "2023-03-16": 207809,
-  "2023-03-17": 207809,
-  "2023-03-18": 207931,
-  "2023-03-19": 207995,
-  "2023-03-20": 208058,
-  "2023-03-21": 208120,
-  "2023-03-22": 208187,
-  "2023-03-23": 208239,
-  "2023-03-24": 208239,
-  "2023-03-25": 208344,
-  "2023-03-26": 208426,
-  "2023-03-27": 208499,
-  "2023-03-28": 208574,
-  "2023-03-29": 208669,
-  "2023-03-30": 208799,
-  "2023-03-31": 208799,
-  "2023-04-01": 208892,
-  "2023-04-02": 208966,
-  "2023-04-03": 209048,
-  "2023-04-04": 209109,
-  "2023-04-05": 209193,
-  "2023-04-06": 209254,
-  "2023-04-07": 209315,
-  "2023-04-09": 209443,
-  "2023-04-10": 209515,
-  "2023-04-11": 209609,
-  "2023-04-12": 209609,
-  "2023-04-13": 209672,
-  "2023-04-14": 209745,
-  "2023-04-15": 209821,
-  "2023-04-16": 209882,
-  "2023-04-17": 209948,
-  "2023-04-18": 210040,
-  "2023-04-19": 210159,
-  "2023-04-20": 210240,
-  "2023-04-21": 210294,
-  "2023-04-22": 210357,
-  "2023-04-23": 210445,
-  "2023-04-24": 210520,
-  "2023-04-25": 210587,
-  "2023-04-26": 210662,
-  "2023-04-27": 210723,
-  "2023-04-28": 210802,
-  "2023-04-29": 210860,
-  "2023-04-30": 210926,
-  "2023-05-01": 210995,
-  "2023-05-02": 211061,
-  "2023-05-03": 211129,
-  "2023-05-04": 211204,
-  "2023-05-05": 211278,
-  "2023-05-06": 211346,
-  "2023-05-07": 211396,
-  "2023-05-08": 211472,
-  "2023-05-09": 211545,
-  "2023-05-10": 211630,
-  "2023-05-11": 211710,
-  "2023-05-12": 211780,
-  "2023-05-13": 211831,
-  "2023-05-14": 211889,
-  "2023-05-15": 211961,
-  "2023-05-16": 212032,
-  "2023-05-17": 212076,
-  "2023-05-18": 212145,
-  "2023-05-19": 212238,
-  "2023-05-20": 212383,
-  "2023-05-21": 212383,
-  "2023-05-22": 212383,
-  "2023-05-23": 212517,
-  "2023-05-24": 212614,
-  "2023-05-25": 212643,
-  "2023-05-26": 212691,
-  "2023-05-27": 212790,
-  "2023-05-28": 212830,
-  "2023-05-29": 212830,
-  "2023-05-30": 212916,
-  "2023-05-31": 212989,
-  "2023-06-01": 213045,
-  "2023-06-02": 213113,
-  "2023-06-03": 213171,
-  "2023-06-04": 213231,
-  "2023-06-05": 213307,
-  "2023-06-06": 213357,
-  "2023-06-07": 213440,
-  "2023-06-08": 213507,
-  "2023-06-09": 213561,
-  "2023-06-10": 213626,
-  "2023-06-11": 213685,
-  "2023-06-12": 213752,
-  "2023-06-13": 213808,
-  "2023-06-14": 213887,
-  "2023-06-15": 213927,
-  "2023-06-16": 214008,
-  "2023-06-17": 214061,
-  "2023-06-18": 214128,
-  "2023-06-19": 214202,
-  "2023-06-20": 214265,
-  "2023-06-21": 214319,
-  "2023-06-22": 214378,
-  "2023-06-23": 214430,
-  "2023-06-24": 214483,
-  "2023-06-25": 214540,
-  "2023-06-26": 214592,
-  "2023-06-27": 214658,
-  "2023-06-28": 214725,
-  "2023-06-29": 214776,
-  "2023-06-30": 214841,
-  "2023-07-01": 214962,
-  "2023-07-02": 214962,
-  "2023-07-03": 215048,
-  "2023-07-04": 215111,
-  "2023-07-05": 215161,
-  "2023-07-06": 215279,
-  "2023-07-07": 215279,
-  "2023-07-08": 215328,
-  "2023-07-09": 215380,
-  "2023-07-10": 215438,
-  "2023-07-11": 215485,
-  "2023-07-12": 215556,
-  "2023-07-13": 215611,
-  "2023-07-14": 215658,
-  "2023-07-15": 215690,
-  "2023-07-16": 215758,
-  "2023-07-17": 215828,
-  "2023-07-18": 215897,
-  "2023-07-19": 215952,
-  "2023-07-20": 216004,
-  "2023-07-21": 216089,
-  "2023-07-22": 216134,
-  "2023-07-23": 216185,
-  "2023-07-24": 216259,
-  "2023-07-25": 216308,
-  "2023-07-26": 216372,
-  "2023-07-27": 216435,
-  "2023-07-28": 216494,
-  "2023-07-29": 216541,
-  "2023-07-30": 216599,
-  "2023-07-31": 216646,
-  "2023-08-01": 216707,
-  "2023-08-02": 216770,
-  "2023-08-03": 216835,
-  "2023-08-04": 216894,
-  "2023-08-05": 216948,
-  "2023-08-06": 217083,
-  "2023-08-07": 217083,
-  "2023-08-08": 217145,
-  "2023-08-09": 217227,
-  "2023-08-10": 217297,
-  "2023-08-11": 217368,
-  "2023-08-12": 217418,
-  "2023-08-13": 217492,
-  "2023-08-14": 217557,
-  "2023-08-15": 217698,
-  "2023-08-16": 217698,
-  "2023-08-17": 217771,
-  "2023-08-18": 217825,
-  "2023-08-19": 217897,
-  "2023-08-20": 217972,
-  "2023-08-21": 218040,
-  "2023-08-22": 218109,
-  "2023-08-23": 218186,
-  "2023-08-24": 218244,
-  "2023-08-25": 218344,
-  "2023-08-26": 218419,
-  "2023-08-27": 218496,
-  "2023-08-28": 218564,
-  "2023-08-29": 218649,
-  "2023-08-30": 218734,
-  "2023-08-31": 218804,
-  "2023-09-01": 218953,
-  "2023-09-02": 218953,
-  "2023-09-03": 218991,
-  "2023-09-04": 219072,
-  "2023-09-05": 219146,
-  "2023-09-06": 219205,
-  "2023-09-07": 219263,
-  "2023-09-08": 219341,
-  "2023-09-09": 219434,
-  "2023-09-10": 219493,
-  "2023-09-11": 219558,
-  "2023-09-12": 219639,
-  "2023-09-13": 219730,
-  "2023-09-14": 219809,
-  "2023-09-15": 219886,
-  "2023-09-16": 219962,
-  "2023-09-17": 220034,
-  "2023-09-18": 220109,
-  "2023-09-19": 220196,
-  "2023-09-20": 220274,
-  "2023-09-21": 220360,
-  "2023-09-22": 220437,
-  "2023-09-23": 220528,
-  "2023-09-24": 220617,
-  "2023-09-25": 220714,
-  "2023-09-26": 220807,
-  "2023-09-27": 220872,
-  "2023-09-28": 220975,
-  "2023-09-29": 221038,
-  "2023-09-30": 221115,
-  "2023-10-01": 221192,
-  "2023-10-02": 221268,
-  "2023-10-03": 221321,
-  "2023-10-04": 221390,
-  "2023-10-05": 221473,
-  "2023-10-06": 221559,
-  "2023-10-07": 221617,
-  "2023-10-08": 221697,
-  "2023-10-09": 221798,
-  "2023-10-10": 221735,
-  "2023-10-11": 221737,
-  "2023-10-12": 221737,
-  "2023-10-13": 221682,
-  "2023-10-14": 221682,
-  "2023-10-15": 221682,
-  "2023-10-16": 221799,
-  "2023-10-17": 221799,
-  "2023-10-18": 221922,
-  "2023-10-19": 222012,
-  "2023-10-20": 222012,
-  "2023-10-21": 222175,
-  "2023-10-22": 222175,
-  "2023-10-23": 222339,
-  "2023-10-24": 222408,
-  "2023-10-25": 222408,
-  "2023-10-26": 222565,
-  "2023-10-27": 222683,
-  "2023-10-28": 222683,
-  "2023-10-29": 222683,
-  "2023-10-30": 222873,
-  "2023-10-31": 222873,
-  "2023-11-01": 223039,
-  "2023-11-02": 223113,
-  "2023-11-03": 223202,
-  "2023-11-04": 223202,
-  "2023-11-05": 223202,
-  "2023-11-06": 223453,
-  "2023-11-07": 223453,
-  "2023-11-08": 223453,
-  "2023-11-09": 223453,
-  "2023-11-10": 223747,
-  "2023-11-11": 223847,
-  "2023-11-12": 223919,
-  "2023-11-13": 223919,
-  "2023-11-14": 223919,
-  "2023-11-15": 223919,
-  "2023-11-16": 223919,
-  "2023-11-17": 224377,
-  "2023-11-18": 224377,
-  "2023-11-19": 224377,
-  "2023-11-20": 224377,
-  "2023-11-21": 224621,
-  "2023-11-22": 224729,
-  "2023-11-23": 224791,
-  "2023-11-24": 224791,
-  "2023-11-25": 224934,
-  "2023-11-26": 224934,
-  "2023-11-27": 224934,
-  "2023-11-28": 224934,
-  "2023-11-29": 225367,
-  "2023-11-30": 225367,
-  "2023-12-01": 225367,
-  "2023-12-02": 225500,
-  "2023-12-03": 225500,
-  "2023-12-04": 225500,
-  "2023-12-05": 225500,
-  "2023-12-06": 225785,
-  "2023-12-07": 225785,
-  "2023-12-08": 225785,
-  "2023-12-09": 225996,
-  "2023-12-10": 225996,
-  "2023-12-11": 226186,
-  "2023-12-12": 226186,
-  "2023-12-13": 226348,
-  "2023-12-14": 226463,
-  "2023-12-15": 226521,
-  "2023-12-16": 226607,
-  "2023-12-17": 226716,
-  "2023-12-18": 226829,
-  "2023-12-19": 226897,
-  "2023-12-20": 226985,
-  "2023-12-21": 227100,
-  "2023-12-22": 227193,
-  "2023-12-23": 227277,
-  "2023-12-24": 227379,
-  "2023-12-25": 227477,
-  "2023-12-26": 227543,
-  "2023-12-27": 227628,
-  "2023-12-30": 227909,
-  "2023-12-31": 228006,
-  "2024-01-01": 228116,
-  "2024-01-02": 228238,
-  "2024-01-03": 228344
+  "2024-01-17": 229287,
+  "date_first_scraped": "2021-12-21",
+  "description": "Honor our native communities. Listen to the sounds of acclaimed artists' Native American flute music.",
+  "name": "Dreamcatcher",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sacred Place - A Mary Youngblood Collection",
+        "url": "https://open.spotify.com/album/5p19kw4Jv03odcc3eozB3p"
+      },
+      "artists": [
+        {
+          "name": "Mary Youngblood",
+          "url": "https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235213,
+      "name": "Above The Mother Earth",
+      "url": "https://open.spotify.com/track/7p1UkOcRhpI4DS1IvjOK6k"
+    },
+    {
+      "album": {
+        "name": "Night Chants: Native American Flute",
+        "url": "https://open.spotify.com/album/7nR9uzGGUJX8ufiOBjF714"
+      },
+      "artists": [
+        {
+          "name": "Gary Stroutsos",
+          "url": "https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198721,
+      "name": "Adobe Walls",
+      "url": "https://open.spotify.com/track/3jqucQDwVKcr0gLXaoy5jg"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/0rkr3dneLtRBhJfQ1mXM9E"
+      },
+      "artists": [
+        {
+          "name": "Gary Stroutsos",
+          "url": "https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Adobe Walls",
+      "url": "https://open.spotify.com/track/17VEm4ZjTDDQlBFuWNPhtW"
+    },
+    {
+      "album": {
+        "name": "Canyon Trilogy",
+        "url": "https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp"
+      },
+      "artists": [
+        {
+          "name": "R. Carlos Nakai",
+          "url": "https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292693,
+      "name": "Ancestral Home",
+      "url": "https://open.spotify.com/track/4tje4fnMPax750yTZ56wWp"
+    },
+    {
+      "album": {
+        "name": "The Best of Douglas Blue Feather",
+        "url": "https://open.spotify.com/album/1nuxZgq1q8ZYSPAWvpfFXh"
+      },
+      "artists": [
+        {
+          "name": "Douglas Blue Feather",
+          "url": "https://open.spotify.com/artist/2CzwmPhvEfmTQOyEgK0CQR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323253,
+      "name": "Ancient Memories",
+      "url": "https://open.spotify.com/track/1OMXoXsL6NMyF1YVuHM3UY"
+    },
+    {
+      "album": {
+        "name": "Spirit Prayer: Best of Native American Flute",
+        "url": "https://open.spotify.com/album/3NhLLltbvnhL1tDXlB6CLm"
+      },
+      "artists": [
+        {
+          "name": "Alice Gomez",
+          "url": "https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 216000,
+      "name": "Ancient Wisdom",
+      "url": "https://open.spotify.com/track/0BBoA5gIspd1uPe5MtTWhe"
+    },
+    {
+      "album": {
+        "name": "Spirit Prayer: Best of Native American Flute",
+        "url": "https://open.spotify.com/album/4sV25mdgWrrecNpHuX5e54"
+      },
+      "artists": [
+        {
+          "name": "Alice Gomez",
+          "url": "https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216000,
+      "name": "Ancient Wisdom",
+      "url": "https://open.spotify.com/track/5Q2cDhhe0DrNaJpCFxi8fN"
+    },
+    {
+      "album": {
+        "name": "Healer's Suite",
+        "url": "https://open.spotify.com/album/6YXTvGErZJOIEmyuKuIzCr"
+      },
+      "artists": [
+        {
+          "name": "Alice Gomez",
+          "url": "https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Ancient Wisdom",
+      "url": "https://open.spotify.com/track/1wvN1iKjY3wMr1mxKH2euD"
+    },
+    {
+      "album": {
+        "name": "Astral Myst",
+        "url": "https://open.spotify.com/album/4Bzg992UQO6Ecuoy0Jd6TO"
+      },
+      "artists": [
+        {
+          "name": "Joe Yeatman",
+          "url": "https://open.spotify.com/artist/1aRs8zfefA0q5PM8cbtYPR"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321216,
+      "name": "Astral Myst",
+      "url": "https://open.spotify.com/track/6KYNgQPraq4bBAUXnl8JHQ"
+    },
+    {
+      "album": {
+        "name": "Sacred Fire",
+        "url": "https://open.spotify.com/album/5BxGr6annQoAOQx2UP4tqv"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Mockingbird",
+          "url": "https://open.spotify.com/artist/3YTqSZPBF9lDp06TvqzdDv"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 583933,
+      "name": "Awakening Of The Beauty Within",
+      "url": "https://open.spotify.com/track/4YPnMiG3qbVhQv4gqHhpJ3"
+    },
+    {
+      "album": {
+        "name": "Touched",
+        "url": "https://open.spotify.com/album/5BRU0kmqRF9aHTWkc7GcUO"
+      },
+      "artists": [
+        {
+          "name": "Mad Dog Friedman",
+          "url": "https://open.spotify.com/artist/1mSYpJ1EIm18MC57GLGkg7"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/2AqfTYUmy87yGGQV18FnWM"
+    },
+    {
+      "album": {
+        "name": "Native American Music",
+        "url": "https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4"
+      },
+      "artists": [
+        {
+          "name": "Music Body and Spirit",
+          "url": "https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Brother Wolf",
+      "url": "https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi"
+    },
+    {
+      "album": {
+        "name": "Stress Release",
+        "url": "https://open.spotify.com/album/359jd8aPANBPW4RK04BsvU"
+      },
+      "artists": [
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 294773,
+      "name": "Calling the Spirits",
+      "url": "https://open.spotify.com/track/7CNwZiq2qAVvAhfyK6LCPB"
+    },
+    {
+      "album": {
+        "name": "(Indian) Native Flute Ensemble: Spirit Wind - Native American Flute",
+        "url": "https://open.spotify.com/album/3R5UUf6XOznRyhtj7QsKjQ"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294293,
+      "name": "Calling the Spirits",
+      "url": "https://open.spotify.com/track/5tJeFoqQRGlyYnSQa8GSG8"
+    },
+    {
+      "album": {
+        "name": "Spirit Mountain - Authentic Music of the American Indian",
+        "url": "https://open.spotify.com/album/3ntTA0VHse6xrQ52pWhu2D"
+      },
+      "artists": [
+        {
+          "name": "Kevin Locke",
+          "url": "https://open.spotify.com/artist/3k7DkQUs1860lvgVW29ZK2"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260053,
+      "name": "Ceyaya Acitonwe",
+      "url": "https://open.spotify.com/track/4qEVX7dBUdRKLmPE1aBBvd"
+    },
+    {
+      "album": {
+        "name": "Wind Riders",
+        "url": "https://open.spotify.com/album/2oyZtr5NOa8bkTBHRUU3r5"
+      },
+      "artists": [
+        {
+          "name": "Alice Gomez",
+          "url": "https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ"
+        },
+        {
+          "name": "Eric Casillas",
+          "url": "https://open.spotify.com/artist/4ZErN3ia0trBrMP88iZgaE"
+        },
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        },
+        {
+          "name": "Mesa Music Consort",
+          "url": "https://open.spotify.com/artist/2BQnWxr7muleTey50XBtAt"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333866,
+      "name": "Council of the Flocks",
+      "url": "https://open.spotify.com/track/0H0lhPBWOTrfPmR9o0ZEV6"
+    },
+    {
+      "album": {
+        "name": "Wind Riders: The Native American Flute",
+        "url": "https://open.spotify.com/album/0V56dOmzPVfax15h66lY0b"
+      },
+      "artists": [
+        {
+          "name": "Mesa Music Consort",
+          "url": "https://open.spotify.com/artist/2BQnWxr7muleTey50XBtAt"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 331572,
+      "name": "Council of the Flocks",
+      "url": "https://open.spotify.com/track/2nsBDHXIknpsZU1JgAYt46"
+    },
+    {
+      "album": {
+        "name": "Spirit Feathers",
+        "url": "https://open.spotify.com/album/5JKCgbvoNTU12Bihmt9ig8"
+      },
+      "artists": [
+        {
+          "name": "Mesa Music Consort",
+          "url": "https://open.spotify.com/artist/2BQnWxr7muleTey50XBtAt"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 334000,
+      "name": "Council of the Flocks",
+      "url": "https://open.spotify.com/track/2q0pPNtcPXBi2Veb69LSd0"
+    },
+    {
+      "album": {
+        "name": "Music From A Painted Cave",
+        "url": "https://open.spotify.com/album/1m5WXwfbkc1Jbw9Kh1H4RE"
+      },
+      "artists": [
+        {
+          "name": "Robert Mirabal",
+          "url": "https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239022,
+      "name": "Courtship Song",
+      "url": "https://open.spotify.com/track/3bzc0xRyNkeXvESUvE2VYr"
+    },
+    {
+      "album": {
+        "name": "Earth Warrior - Light of our Ancestors",
+        "url": "https://open.spotify.com/album/3DIpGvfh9BjK8cV5tiPfEr"
+      },
+      "artists": [
+        {
+          "name": "Tony Duncan",
+          "url": "https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188880,
+      "name": "Dance of the Coyote",
+      "url": "https://open.spotify.com/track/6dAMfIdThXm5dSZtnNw1m6"
+    },
+    {
+      "album": {
+        "name": "Canyon Trilogy",
+        "url": "https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp"
+      },
+      "artists": [
+        {
+          "name": "R. Carlos Nakai",
+          "url": "https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109106,
+      "name": "Daybreak Vision",
+      "url": "https://open.spotify.com/track/6u7gkxuLH88WxAyUAVMgOT"
+    },
+    {
+      "album": {
+        "name": "Wind Riders: The Native American Flute",
+        "url": "https://open.spotify.com/album/0V56dOmzPVfax15h66lY0b"
+      },
+      "artists": [
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124010,
+      "name": "Deer Spirits Welcome the Dawn",
+      "url": "https://open.spotify.com/track/3yNtGhLhEp6giJJBwINR2W"
+    },
+    {
+      "album": {
+        "name": "Winds of Health: Native American Flute and Nature Sounds for Bikram Yoga",
+        "url": "https://open.spotify.com/album/6oHKRosP8ZDewQUVSQQFPk"
+      },
+      "artists": [
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 127933,
+      "name": "Deer Spirits Welcome the Dawn",
+      "url": "https://open.spotify.com/track/2ezj1EA5BU3735MG0KNVar"
+    },
+    {
+      "album": {
+        "name": "Ritual Mesa",
+        "url": "https://open.spotify.com/album/5ENn6kbZmmmaZvTWdabIAa"
+      },
+      "artists": [
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129426,
+      "name": "Deer Spirits Welcome the Dawn",
+      "url": "https://open.spotify.com/track/3nfeZM8TXJWjAA8fWVNtsO"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/6XtF0RsQCxs4FD6iS5n1m7"
+      },
+      "artists": [
+        {
+          "name": "Hovia Edwards",
+          "url": "https://open.spotify.com/artist/2qEoRYTRLgp3aYECBZxTF2"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204680,
+      "name": "Divine Peace",
+      "url": "https://open.spotify.com/track/0AxrYgvePMA0UMQ9EzMO8s"
+    },
+    {
+      "album": {
+        "name": "Eagle River",
+        "url": "https://open.spotify.com/album/4Xr5LjZL78urG5Wv09ewLy"
+      },
+      "artists": [
+        {
+          "name": "Dean Evenson",
+          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212186,
+      "name": "Eagle Flies High",
+      "url": "https://open.spotify.com/track/0dVWvNnTXDmHtQKuQ4xYNu"
+    },
+    {
+      "album": {
+        "name": "Night Song",
+        "url": "https://open.spotify.com/album/5x4NgkZof89D4qwA92AbxD"
+      },
+      "artists": [
+        {
+          "name": "Peter Phippen",
+          "url": "https://open.spotify.com/artist/6m1FJ6QgwWWl11vk6mkEI0"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238813,
+      "name": "East/West",
+      "url": "https://open.spotify.com/track/0mGBqjK2f3tewleF9uCTdc"
+    },
+    {
+      "album": {
+        "name": "Earth Warrior - Light of our Ancestors",
+        "url": "https://open.spotify.com/album/3DIpGvfh9BjK8cV5tiPfEr"
+      },
+      "artists": [
+        {
+          "name": "Tony Duncan",
+          "url": "https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m"
+        },
+        {
+          "name": "Darrin Yazzie",
+          "url": "https://open.spotify.com/artist/3eSu0lpgaJFDa1Fn13MNlN"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235586,
+      "name": "Elders Speak",
+      "url": "https://open.spotify.com/track/2QeZliWDH9IhJxHDGF85Q1"
+    },
+    {
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw"
+      },
+      "artists": [
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 305506,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/1GkS209qUwcBt04MJ1RDca"
+    },
+    {
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/3it7hqsNPi6YrZjpWAU5W2"
+      },
+      "artists": [
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305506,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/7lbxttV803xY98kWdv4NRV"
+    },
+    {
+      "album": {
+        "name": "Livin' The Good Life",
+        "url": "https://open.spotify.com/album/4RM2fB8xhMUhTu0OvXGmZQ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Councillor",
+          "url": "https://open.spotify.com/artist/6Aa8dXlGxUfWmhAsbojBzI"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262853,
+      "name": "Evening Star",
+      "url": "https://open.spotify.com/track/4E5hoFyCrxg5Q7SJFvzr3b"
+    },
+    {
+      "album": {
+        "name": "Native American Flute",
+        "url": "https://open.spotify.com/album/3x85CC8LnFVKgpbLYp1bYz"
+      },
+      "artists": [
+        {
+          "name": "Ojibway People",
+          "url": "https://open.spotify.com/artist/1ZRY5q3HnD3efePL0544VC"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260426,
+      "name": "Evening Star",
+      "url": "https://open.spotify.com/track/32GT5t33XqGTCuzUXatG6i"
+    },
+    {
+      "album": {
+        "name": "Native American Flute",
+        "url": "https://open.spotify.com/album/1bhhUJq9wxV0STbUNFC9cA"
+      },
+      "artists": [
+        {
+          "name": "Ojibway People",
+          "url": "https://open.spotify.com/artist/1ZRY5q3HnD3efePL0544VC"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260426,
+      "name": "Evening Star",
+      "url": "https://open.spotify.com/track/6M528mJhSbjvrraZ36Id30"
+    },
+    {
+      "album": {
+        "name": "V3 - An American Indian",
+        "url": "https://open.spotify.com/album/087eJ8k24KFXHfjiRHd6tW"
+      },
+      "artists": [
+        {
+          "name": "Andrew Vasquez",
+          "url": "https://open.spotify.com/artist/1RI0qwvjL6cC1dIPxrrjwP"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/21wyCeUnNsgVN8448C8Bbu"
+    },
+    {
+      "album": {
+        "name": "Discover - Native American Indian Flute",
+        "url": "https://open.spotify.com/album/6Eru2P9wBioJnwkNNARLew"
+      },
+      "artists": [
+        {
+          "name": "Aaron White and Anthony Wakeman",
+          "url": "https://open.spotify.com/artist/4okJpUO1J8t2JSgvyXh14o"
+        },
+        {
+          "name": "Aaron White",
+          "url": "https://open.spotify.com/artist/2emV7TrNiMbIToJk470aWe"
+        },
+        {
+          "name": "Anthony Wakeman",
+          "url": "https://open.spotify.com/artist/24BfspSS7VeZksHJXZIF3A"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353066,
+      "name": "Handprints of Our People",
+      "url": "https://open.spotify.com/track/0UORx3KqJIZOMM7VBYDZ21"
+    },
+    {
+      "album": {
+        "name": "(Indian) Native Flute Ensemble: Spirit Wind - Native American Flute",
+        "url": "https://open.spotify.com/album/3R5UUf6XOznRyhtj7QsKjQ"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194893,
+      "name": "Healer's Melody",
+      "url": "https://open.spotify.com/track/7hjxUyGVA2SYbmgJbZpr6T"
+    },
+    {
+      "album": {
+        "name": "The Silk of Life",
+        "url": "https://open.spotify.com/album/000KEZjGJAR8SCStltZpC9"
+      },
+      "artists": [
+        {
+          "name": "Zen Meditation and Natural White Noise and New Age Deep Massage",
+          "url": "https://open.spotify.com/artist/5xj0jN2EifogsCRT1f91Zy"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192573,
+      "name": "Healer's Melody",
+      "url": "https://open.spotify.com/track/0ksMZ8lKgmfAgpssl3jHRZ"
+    },
+    {
+      "album": {
+        "name": "Healers of the Flute",
+        "url": "https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26"
+      },
+      "artists": [
+        {
+          "name": "Jessita Reyes",
+          "url": "https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL"
+        },
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Healer's Quest",
+      "url": "https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ"
+    },
+    {
+      "album": {
+        "name": "Spirit Mountain - Authentic Music of the American Indian",
+        "url": "https://open.spotify.com/album/2pOoyAl8F3PlNY5aQvVg91"
+      },
+      "artists": [
+        {
+          "name": "Keith Bear",
+          "url": "https://open.spotify.com/artist/3zRVLB0gPQprgPNXgwZgV4"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198773,
+      "name": "Hidatsa Garden Song",
+      "url": "https://open.spotify.com/track/3T0mXm3Y7wqdivJURhCQMG"
+    },
+    {
+      "album": {
+        "name": "Spirit Mountain - Authentic Music of the American Indian",
+        "url": "https://open.spotify.com/album/3ntTA0VHse6xrQ52pWhu2D"
+      },
+      "artists": [
+        {
+          "name": "Keith Bear",
+          "url": "https://open.spotify.com/artist/3zRVLB0gPQprgPNXgwZgV4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "Hidatsa Garden Song",
+      "url": "https://open.spotify.com/track/3ZreroL7Ddc2I90Cz08ucA"
+    },
+    {
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw"
+      },
+      "artists": [
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 283910,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/01nlOO3lmi4nHsNy0inZec"
+    },
+    {
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/3it7hqsNPi6YrZjpWAU5W2"
+      },
+      "artists": [
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283910,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/7K0hKmulQKh9I6x8jnX7vS"
+    },
+    {
+      "album": {
+        "name": "From Where the Sun Rises",
+        "url": "https://open.spotify.com/album/4C1buWTjk8wsGm0YKK9hQc"
+      },
+      "artists": [
+        {
+          "name": "Tony Duncan",
+          "url": "https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m"
+        },
+        {
+          "name": "Darrin Yazzie",
+          "url": "https://open.spotify.com/artist/3eSu0lpgaJFDa1Fn13MNlN"
+        },
+        {
+          "name": "Jeremy Dancing Bull",
+          "url": "https://open.spotify.com/artist/45LhDJhtscti2VOhFi0iBw"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349560,
+      "name": "In the Time of Chiefs",
+      "url": "https://open.spotify.com/track/00Qtxh0UAXOqunh1NrD0UL"
+    },
+    {
+      "album": {
+        "name": "Healers of the Flute",
+        "url": "https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26"
+      },
+      "artists": [
+        {
+          "name": "Jessita Reyes",
+          "url": "https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL"
+        },
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294866,
+      "name": "Inviting the Rain Spirits",
+      "url": "https://open.spotify.com/track/407L2dxJWj7vOPgeWBY1cQ"
+    },
+    {
+      "album": {
+        "name": "Canyon Trilogy",
+        "url": "https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp"
+      },
+      "artists": [
+        {
+          "name": "R. Carlos Nakai",
+          "url": "https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "Inward Journey",
+      "url": "https://open.spotify.com/track/4XUvVbcITJLPEmA59suKV3"
+    },
+    {
+      "album": {
+        "name": "Our Beloved Land",
+        "url": "https://open.spotify.com/album/2stNHcA8UB7OnFp1KG0IdY"
+      },
+      "artists": [
+        {
+          "name": "R. Carlos Nakai",
+          "url": "https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1"
+        },
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335226,
+      "name": "Ka Mano (The Shark)",
+      "url": "https://open.spotify.com/track/6G452YNgfwOyT2qKdQATqr"
+    },
+    {
+      "album": {
+        "name": "Rough Guide To Native America",
+        "url": "https://open.spotify.com/album/3kqIRw6KBuRtBBuk2bJPch"
+      },
+      "artists": [
+        {
+          "name": "R. Carlos Nakai",
+          "url": "https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1"
+        },
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 335453,
+      "name": "Ka Man\u014d - 'The Shark'",
+      "url": "https://open.spotify.com/track/1vjlqLeGGe74XBirQYtawG"
+    },
+    {
+      "album": {
+        "name": "Young Eagle's Flight - Songs for the Native American Flute",
+        "url": "https://open.spotify.com/album/7sD5u1lIxL8j7XZEvqIxa6"
+      },
+      "artists": [
+        {
+          "name": "Robert Tree Cody",
+          "url": "https://open.spotify.com/artist/0fChGjwomMpq8e7ICKYy1s"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214226,
+      "name": "Lakota Love Song",
+      "url": "https://open.spotify.com/track/0ajP6tBAi6rg6KcGu0KoAm"
+    },
+    {
+      "album": {
+        "name": "Native American Flute: Sleep Music",
+        "url": "https://open.spotify.com/album/3t8ECdZ3ZWuDU0ksoaI8Rz"
+      },
+      "artists": [
+        {
+          "name": "Native American Flute",
+          "url": "https://open.spotify.com/artist/0VaYChYezacJi7h3aCmcpG"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Lullaby with Flute & Crickets - Soothing Crickets And Solo Flute",
+      "url": "https://open.spotify.com/track/09n5OYAlgClYFQFYtXjVwS"
+    },
+    {
+      "album": {
+        "name": "Sleep Medicine (30 Solo Native American Flute Tracks)",
+        "url": "https://open.spotify.com/album/2ZxGoZ7ku3hjA4BjgMTnvN"
+      },
+      "artists": [
+        {
+          "name": "Jessita Reyes",
+          "url": "https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133908,
+      "name": "Magic Melody",
+      "url": "https://open.spotify.com/track/7DrKyYc64NH2m1ULzRWeVr"
+    },
+    {
+      "album": {
+        "name": "Sacred Wind: Native American Flute",
+        "url": "https://open.spotify.com/album/6DksEw9cz05Zt23HVyjge1"
+      },
+      "artists": [
+        {
+          "name": "Jessita Reyes",
+          "url": "https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL"
+        },
+        {
+          "name": "Alice Gomez",
+          "url": "https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127450,
+      "name": "Magic Melody",
+      "url": "https://open.spotify.com/track/0szcYDyfXdQLzK4S2fBpe0"
+    },
+    {
+      "album": {
+        "name": "Vision Seeker - A Journey in Native Flute, Drum & Voice",
+        "url": "https://open.spotify.com/album/2afkInoGkt2kqrMnWhs0na"
+      },
+      "artists": [
+        {
+          "name": "John Two-Hawks",
+          "url": "https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Midnight Moon",
+      "url": "https://open.spotify.com/track/68ULpIyscv9nRA6nckdoRM"
+    },
+    {
+      "album": {
+        "name": "Morning Star",
+        "url": "https://open.spotify.com/album/5qny1AWX9IvHbJ0ghPv9QI"
+      },
+      "artists": [
+        {
+          "name": "Hovia Edwards",
+          "url": "https://open.spotify.com/artist/2qEoRYTRLgp3aYECBZxTF2"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "Morning Star",
+      "url": "https://open.spotify.com/track/5sfFEw3xJ0gAvBdsUqkjz0"
+    },
+    {
+      "album": {
+        "name": "Mystic Lake",
+        "url": "https://open.spotify.com/album/6l7Fftxgpp5v82xsKLPR45"
+      },
+      "artists": [
+        {
+          "name": "Thalamin",
+          "url": "https://open.spotify.com/artist/2N0Xnet6aMQX4wfeUm5ocT"
+        },
+        {
+          "name": "Pewi",
+          "url": "https://open.spotify.com/artist/4ZfTBcrBgwqlKRcqKjdkmJ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Mystic Lake",
+      "url": "https://open.spotify.com/track/1ByQZanLiy9aTuMmqyIb27"
+    },
+    {
+      "album": {
+        "name": "Native American Music",
+        "url": "https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4"
+      },
+      "artists": [
+        {
+          "name": "Music Body and Spirit",
+          "url": "https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Native American Flute",
+      "url": "https://open.spotify.com/track/6oN4n97q8QeKB9rCV53F8g"
+    },
+    {
+      "album": {
+        "name": "Vision Seeker - A Journey in Native Flute, Drum & Voice",
+        "url": "https://open.spotify.com/album/2afkInoGkt2kqrMnWhs0na"
+      },
+      "artists": [
+        {
+          "name": "John Two-Hawks",
+          "url": "https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248760,
+      "name": "Native Flute Symphony - The Journey",
+      "url": "https://open.spotify.com/track/0MpgQBGeLGD0HrYYZcAKLM"
+    },
+    {
+      "album": {
+        "name": "Night Song",
+        "url": "https://open.spotify.com/album/5x4NgkZof89D4qwA92AbxD"
+      },
+      "artists": [
+        {
+          "name": "Peter Phippen",
+          "url": "https://open.spotify.com/artist/6m1FJ6QgwWWl11vk6mkEI0"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258733,
+      "name": "Night Falls",
+      "url": "https://open.spotify.com/track/2r8tPRK0TolVaNKBECT6t6"
+    },
+    {
+      "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/2YaOLFTueNlOlR5DdhP9Ne"
+      },
+      "artists": [
+        {
+          "name": "Joseph FireCrow",
+          "url": "https://open.spotify.com/artist/6dsM8kgVKhrheuqmDaviZg"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185381,
+      "name": "Night Hawk Soars",
+      "url": "https://open.spotify.com/track/5iBpK8J8D7if3lmFnmu1hv"
+    },
+    {
+      "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/2YaOLFTueNlOlR5DdhP9Ne"
+      },
+      "artists": [
+        {
+          "name": "Joseph FireCrow",
+          "url": "https://open.spotify.com/artist/6dsM8kgVKhrheuqmDaviZg"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258357,
+      "name": "Nocturnal Spirits",
+      "url": "https://open.spotify.com/track/5VVE2ZfhYaqJidMm0JJRyI"
+    },
+    {
+      "album": {
+        "name": "Hidden Medicine",
+        "url": "https://open.spotify.com/album/1NZuFkLtkaStYMRRLXk12a"
+      },
+      "artists": [
+        {
+          "name": "John Two-Hawks",
+          "url": "https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280760,
+      "name": "Of Shadow and Light",
+      "url": "https://open.spotify.com/track/60EPxhYda9FZCgzhxbi3h8"
+    },
+    {
+      "album": {
+        "name": "Invitation from Within",
+        "url": "https://open.spotify.com/album/2zqDJRJWYb7010Hwj7ePhh"
+      },
+      "artists": [
+        {
+          "name": "Ann Licater",
+          "url": "https://open.spotify.com/artist/5utgQcBcWNJKpODrerbyEL"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 149061,
+      "name": "Oneness",
+      "url": "https://open.spotify.com/track/4q1KFH2a5abfgXUgPSVCHB"
+    },
+    {
+      "album": {
+        "name": "Invitation from Within",
+        "url": "https://open.spotify.com/album/3p4CFfTuOMqoNyE8y6XGDJ"
+      },
+      "artists": [
+        {
+          "name": "Ann Licater",
+          "url": "https://open.spotify.com/artist/5utgQcBcWNJKpODrerbyEL"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149061,
+      "name": "Oneness",
+      "url": "https://open.spotify.com/track/6v5qLu36w1uBfzBW7euZyD"
+    },
+    {
+      "album": {
+        "name": "Red Hawk Hill",
+        "url": "https://open.spotify.com/album/6hwOFe2iX2u9vXsZTVWiiF"
+      },
+      "artists": [
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209658,
+      "name": "Red Hawk Hill",
+      "url": "https://open.spotify.com/track/2YBLASHNLeFdlbUDioE5UW"
+    },
+    {
+      "album": {
+        "name": "Hearts, Hands & Hides",
+        "url": "https://open.spotify.com/album/7FBaZcKjaD4HPCXNP6Tqzn"
+      },
+      "artists": [
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264186,
+      "name": "Sacred Spaces",
+      "url": "https://open.spotify.com/track/501zYIHH32JnpZQvt9YTeF"
+    },
+    {
+      "album": {
+        "name": "(Indian) Native Flute Ensemble: Spirit Wind - Native American Flute",
+        "url": "https://open.spotify.com/album/3R5UUf6XOznRyhtj7QsKjQ"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Native Flute Ensemble",
+          "url": "https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262400,
+      "name": "Sacred Spaces",
+      "url": "https://open.spotify.com/track/1NznLMbNxWYc00TztGPbXo"
+    },
+    {
+      "album": {
+        "name": "Ambient Spaces",
+        "url": "https://open.spotify.com/album/1ZoDXDZnXwjUrbUF1cVjok"
+      },
+      "artists": [
+        {
+          "name": "Sleep Baby Sleep",
+          "url": "https://open.spotify.com/artist/6e5ygqf81ECK33tTPpbLLq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265173,
+      "name": "Sacred Spaces, Sacred Hills",
+      "url": "https://open.spotify.com/track/0AN5ILFq2JvCgrhLSSPJT8"
+    },
+    {
+      "album": {
+        "name": "Night Chants: Native American Flute",
+        "url": "https://open.spotify.com/album/0dsG8miQjj8S6DuhWpfvVt"
+      },
+      "artists": [
+        {
+          "name": "Gary Stroutsos",
+          "url": "https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re"
+        },
+        {
+          "name": "Larry Mahlis",
+          "url": "https://open.spotify.com/artist/0iiWa6b0VLXNT55bK8uvt4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265948,
+      "name": "Salish Moon",
+      "url": "https://open.spotify.com/track/3Ivzx3EDTUbuXi3GbZDVgY"
+    },
+    {
+      "album": {
+        "name": "Night Chants: Native American Flute",
+        "url": "https://open.spotify.com/album/7nR9uzGGUJX8ufiOBjF714"
+      },
+      "artists": [
+        {
+          "name": "Gary Stroutsos",
+          "url": "https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re"
+        },
+        {
+          "name": "Larry Mahlis",
+          "url": "https://open.spotify.com/artist/0iiWa6b0VLXNT55bK8uvt4"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265948,
+      "name": "Salish Moon",
+      "url": "https://open.spotify.com/track/75KAIUzbvpkWhUnfVR7v6V"
+    },
+    {
+      "album": {
+        "name": "Shaman Spirit",
+        "url": "https://open.spotify.com/album/1m0UCKvB5mbW0hFYdc6KDm"
+      },
+      "artists": [
+        {
+          "name": "J. Reuben Silverbird",
+          "url": "https://open.spotify.com/artist/2dRWH3NPjbiZIFKc0sLUta"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336266,
+      "name": "Shaman Spirit",
+      "url": "https://open.spotify.com/track/4dgP1nFxDTKgS3PKbj8ZIy"
+    },
+    {
+      "album": {
+        "name": "Spirit Songs",
+        "url": "https://open.spotify.com/album/7gVlarfcA10a58dLyPMzVP"
+      },
+      "artists": [
+        {
+          "name": "Ayaapii",
+          "url": "https://open.spotify.com/artist/20ppPj6brjfv4QoDgGhrPr"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273760,
+      "name": "She Is Laughing",
+      "url": "https://open.spotify.com/track/0c6Q2auzWIgHz4dMRy9cKw"
+    },
+    {
+      "album": {
+        "name": "Native American Flute",
+        "url": "https://open.spotify.com/album/3x85CC8LnFVKgpbLYp1bYz"
+      },
+      "artists": [
+        {
+          "name": "Ojibway People",
+          "url": "https://open.spotify.com/artist/1ZRY5q3HnD3efePL0544VC"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270933,
+      "name": "She Is Laughing",
+      "url": "https://open.spotify.com/track/3OFlwlO0W755GMrpdsDiXg"
+    },
+    {
+      "album": {
+        "name": "Sacred Place - A Mary Youngblood Collection",
+        "url": "https://open.spotify.com/album/5p19kw4Jv03odcc3eozB3p"
+      },
+      "artists": [
+        {
+          "name": "Mary Youngblood",
+          "url": "https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Silent Wolf",
+      "url": "https://open.spotify.com/track/7l8d1kKkQLPWWI1kJI8Btb"
+    },
+    {
+      "album": {
+        "name": "From Ethernity",
+        "url": "https://open.spotify.com/album/7cMvVrcG4OQX2GKAyO9HtX"
+      },
+      "artists": [
+        {
+          "name": "Veronika Gold",
+          "url": "https://open.spotify.com/artist/1CefU3jR0INQq5Vuyk5S8J"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650048,
+      "name": "Singing bowl, native flute and strings - Live",
+      "url": "https://open.spotify.com/track/2G57fdvkSDfkIh33uXLJ9R"
+    },
+    {
+      "album": {
+        "name": "Shaman Spirit",
+        "url": "https://open.spotify.com/album/1m0UCKvB5mbW0hFYdc6KDm"
+      },
+      "artists": [
+        {
+          "name": "J. Reuben Silverbird",
+          "url": "https://open.spotify.com/artist/2dRWH3NPjbiZIFKc0sLUta"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287320,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/6UenLLk6evUCGRTJydVYvv"
+    },
+    {
+      "album": {
+        "name": "Canyon Trilogy",
+        "url": "https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp"
+      },
+      "artists": [
+        {
+          "name": "R. Carlos Nakai",
+          "url": "https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Song For the Morning Star",
+      "url": "https://open.spotify.com/track/3EHPjIZ7U2i7rU7vfLRLgi"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/6XtF0RsQCxs4FD6iS5n1m7"
+      },
+      "artists": [
+        {
+          "name": "Hovia Edwards",
+          "url": "https://open.spotify.com/artist/2qEoRYTRLgp3aYECBZxTF2"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "Song of Friendship",
+      "url": "https://open.spotify.com/track/5S43VGbqIGWBoA8MDL8zwq"
+    },
+    {
+      "album": {
+        "name": "Flute Dreaming (Asian & Native American Flute for Sleep)",
+        "url": "https://open.spotify.com/album/18ucPWnvAPGEOmE4ytM0yU"
+      },
+      "artists": [
+        {
+          "name": "Jessita Reyes",
+          "url": "https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149976,
+      "name": "Soothing Asian Flute",
+      "url": "https://open.spotify.com/track/1ESncYAkU10LQO5oqnG9yq"
+    },
+    {
+      "album": {
+        "name": "Native American Music",
+        "url": "https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4"
+      },
+      "artists": [
+        {
+          "name": "Music Body and Spirit",
+          "url": "https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232941,
+      "name": "Spirit Guides",
+      "url": "https://open.spotify.com/track/6UM2OopA1l0LYDyW5ElxLd"
+    },
+    {
+      "album": {
+        "name": "Deep Waters : Flute Meditation",
+        "url": "https://open.spotify.com/album/41XXmGrK0yy6TWZAH6C7hD"
+      },
+      "artists": [
+        {
+          "name": "Lumir\u00e4",
+          "url": "https://open.spotify.com/artist/3HMo6xp5BGACWVq41ImbCi"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496363,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4dTxULTfhKpVWOhQN9nb2w"
+    },
+    {
+      "album": {
+        "name": "Deep Waters : Flute Meditation",
+        "url": "https://open.spotify.com/album/41XXmGrK0yy6TWZAH6C7hD"
+      },
+      "artists": [
+        {
+          "name": "Lumir\u00e4",
+          "url": "https://open.spotify.com/artist/3HMo6xp5BGACWVq41ImbCi"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502227,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/1wzEzu9OnSTrMyRM6Jyxq3"
+    },
+    {
+      "album": {
+        "name": "Song Carrier",
+        "url": "https://open.spotify.com/album/59mxUFZ7iAE29OF35AANwA"
+      },
+      "artists": [
+        {
+          "name": "Robert Mirabal",
+          "url": "https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288093,
+      "name": "Taos Summer Nights",
+      "url": "https://open.spotify.com/track/3NMtFLp7SAusoKo1UI62Xr"
+    },
+    {
+      "album": {
+        "name": "The First Flute",
+        "url": "https://open.spotify.com/album/5QvccuqSzkx6wd24fGw0qK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Locke",
+          "url": "https://open.spotify.com/artist/3k7DkQUs1860lvgVW29ZK2"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "The First Flute Song",
+      "url": "https://open.spotify.com/track/6s7y4KZZfaE28Iwk7OCpBh"
+    },
+    {
+      "album": {
+        "name": "The Passenger",
+        "url": "https://open.spotify.com/album/6BOlCg7eDQ6dECEPIXOuK5"
+      },
+      "artists": [
+        {
+          "name": "Cheryl B. Engelhardt",
+          "url": "https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9"
+        },
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206573,
+      "name": "The Two Feathers",
+      "url": "https://open.spotify.com/track/41SCDPYvddVF6dVnQ33U18"
+    },
+    {
+      "album": {
+        "name": "Under An Ancient Sky",
+        "url": "https://open.spotify.com/album/3F54i2mdjYQ7dLWmaZTllR"
+      },
+      "artists": [
+        {
+          "name": "Coyote Oldman",
+          "url": "https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 359560,
+      "name": "Translucent Shadows",
+      "url": "https://open.spotify.com/track/1OmnvhVmoct7xBGdm0VTXD"
+    },
+    {
+      "album": {
+        "name": "Under An Ancient Sky",
+        "url": "https://open.spotify.com/album/7e4q1fV2MAltbpftP1hhrX"
+      },
+      "artists": [
+        {
+          "name": "Coyote Oldman",
+          "url": "https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359560,
+      "name": "Translucent Shadows",
+      "url": "https://open.spotify.com/track/2JICvh6G2BE0vCRPyAWTpV"
+    },
+    {
+      "album": {
+        "name": "Whale Song",
+        "url": "https://open.spotify.com/album/5likFIyUr26KN2TyegOXQp"
+      },
+      "artists": [
+        {
+          "name": "Liesbet Leroy",
+          "url": "https://open.spotify.com/artist/3v9SFRsfDMczAhfLHEecka"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305892,
+      "name": "Whale Song",
+      "url": "https://open.spotify.com/track/031rKdOx3Yb8vs7uxZlk2a"
+    },
+    {
+      "album": {
+        "name": "Dreams from the Grandfather - Native American Songs for Flute and Voice",
+        "url": "https://open.spotify.com/album/4tz2QeE2BRZ8qTpylp1D6V"
+      },
+      "artists": [
+        {
+          "name": "Robert Tree Cody",
+          "url": "https://open.spotify.com/artist/0fChGjwomMpq8e7ICKYy1s"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270173,
+      "name": "Whispering Journeys",
+      "url": "https://open.spotify.com/track/5IRtmlC8vMIC5TpVfIcLAk"
+    },
+    {
+      "album": {
+        "name": "Johnny Whitehorse",
+        "url": "https://open.spotify.com/album/6RGpYr3V6NkNBtKNQATXQK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Whitehorse",
+          "url": "https://open.spotify.com/artist/6ubkj48AdWEtGZpYeWLW2U"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369373,
+      "name": "White Horse Dreaming",
+      "url": "https://open.spotify.com/track/37oLnXYomz0eazyJFSNOse"
+    },
+    {
+      "album": {
+        "name": "Sacred Fire",
+        "url": "https://open.spotify.com/album/4hBwqhYTcO3S9vDJm8p7yq"
+      },
+      "artists": [
+        {
+          "name": "K. Mockingbird",
+          "url": "https://open.spotify.com/artist/4JI4OTdhRUnpWVY1AeY8ju"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 671906,
+      "name": "Wind Child",
+      "url": "https://open.spotify.com/track/4UviED7A48N4QKcZMMpiqP"
+    },
+    {
+      "album": {
+        "name": "Spirit Songs: The Best Of Bill Miller",
+        "url": "https://open.spotify.com/album/6jKizuqUjYCyPbFHvvysKe"
+      },
+      "artists": [
+        {
+          "name": "Bill Miller",
+          "url": "https://open.spotify.com/artist/2l8E4EL4K1KGVjKbkDKpKP"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Wind Spirit",
+      "url": "https://open.spotify.com/track/4o3bNPUWTYfRbu8hg6j7s9"
+    },
+    {
+      "album": {
+        "name": "The Proverb",
+        "url": "https://open.spotify.com/album/3TURic7PP0mwcMnNcmUgOh"
+      },
+      "artists": [
+        {
+          "name": "Filtered Light",
+          "url": "https://open.spotify.com/artist/5efZgw51kXq3hb95xySNRg"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109500,
+      "name": "With All Your Heart",
+      "url": "https://open.spotify.com/track/6Ch8gloavE5c2UEAYRA6d6"
+    },
+    {
+      "album": {
+        "name": "Beneath The Raven Moon",
+        "url": "https://open.spotify.com/album/123PtYXhb7uvCSbBHv9Qwo"
+      },
+      "artists": [
+        {
+          "name": "Mary Youngblood",
+          "url": "https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "Within My Heart",
+      "url": "https://open.spotify.com/track/6lZhqWTCznlvIwvHuKo1Vy"
+    },
+    {
+      "album": {
+        "name": "Fire Crow",
+        "url": "https://open.spotify.com/album/24nASLmcANoR1fc876XIfF"
+      },
+      "artists": [
+        {
+          "name": "Joseph Fire Crow",
+          "url": "https://open.spotify.com/artist/35fUuZJ0NG5tWI6nntrCWZ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Woman Comes First",
+      "url": "https://open.spotify.com/track/2Rc3wWD1iAnGKsdwnGxSRx"
+    },
+    {
+      "album": {
+        "name": "Eagle River",
+        "url": "https://open.spotify.com/album/4Xr5LjZL78urG5Wv09ewLy"
+      },
+      "artists": [
+        {
+          "name": "Dean Evenson",
+          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "Wood over Water",
+      "url": "https://open.spotify.com/track/26hPXzXur3l8zyYJqCsejp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXb6LkIGouseT"
 }

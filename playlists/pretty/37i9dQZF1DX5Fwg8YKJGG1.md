@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,033 likes - 68 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,965 likes - 68 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 67 | [Let It Snow \- Music Box Version](https://open.spotify.com/track/2rVNiCBvPNANf8kHiF9Do9) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [My Christmas Music Box](https://open.spotify.com/album/51VlCVsag9ouzitxEWeNZA) | 1:44 |
 | 68 | [Christmas Time Is Here](https://open.spotify.com/track/75xFqTnnt6CHlA7uepdaq7) | [Anne Smiles](https://open.spotify.com/artist/5xaqXD0Vd23LiE0p2JuOAk) | [Christmas For Babies](https://open.spotify.com/album/72qYhU9LQKZ706uq6n32bO) | 1:19 |
 
-Snapshot ID: `MCw4ODFlMGZlOGE0MTZiYzQxNzhhOGY5N2FlMmRmYjE5YWY0ZTYzMmYx`
+Snapshot ID: `MCw3NGM4ZGRkOWRkNzRiNWE1N2ExZGUwMzg3NDc1ODZkMTdiNGI4MWQ5`

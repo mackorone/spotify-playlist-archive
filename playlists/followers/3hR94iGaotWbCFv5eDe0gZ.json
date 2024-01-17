@@ -1,735 +1,899 @@
 {
-  "2021-12-25": 91,
-  "2021-12-26": 91,
-  "2021-12-27": 91,
-  "2021-12-28": 91,
-  "2021-12-29": 91,
-  "2021-12-30": 91,
-  "2021-12-31": 91,
-  "2022-01-01": 91,
-  "2022-01-02": 91,
-  "2022-01-03": 91,
-  "2022-01-04": 91,
-  "2022-01-05": 91,
-  "2022-01-06": 91,
-  "2022-01-07": 91,
-  "2022-01-08": 91,
-  "2022-01-09": 91,
-  "2022-01-10": 91,
-  "2022-01-11": 91,
-  "2022-01-12": 91,
-  "2022-01-13": 91,
-  "2022-01-14": 91,
-  "2022-01-15": 91,
-  "2022-01-16": 91,
-  "2022-01-17": 91,
-  "2022-01-18": 91,
-  "2022-01-19": 91,
-  "2022-01-20": 91,
-  "2022-01-21": 91,
-  "2022-01-22": 91,
-  "2022-01-23": 91,
-  "2022-01-24": 91,
-  "2022-01-25": 91,
-  "2022-01-26": 91,
-  "2022-01-27": 91,
-  "2022-01-28": 91,
-  "2022-01-29": 91,
-  "2022-01-30": 91,
-  "2022-01-31": 91,
-  "2022-02-01": 91,
-  "2022-02-02": 91,
-  "2022-02-03": 91,
-  "2022-02-04": 91,
-  "2022-02-05": 91,
-  "2022-02-06": 91,
-  "2022-02-07": 91,
-  "2022-02-08": 91,
-  "2022-02-09": 91,
-  "2022-02-10": 91,
-  "2022-02-11": 91,
-  "2022-02-12": 91,
-  "2022-02-13": 91,
-  "2022-02-14": 91,
-  "2022-02-15": 91,
-  "2022-02-16": 91,
-  "2022-02-17": 91,
-  "2022-02-18": 91,
-  "2022-02-19": 91,
-  "2022-02-20": 91,
-  "2022-02-21": 91,
-  "2022-02-22": 91,
-  "2022-02-23": 91,
-  "2022-02-24": 91,
-  "2022-02-25": 91,
-  "2022-02-26": 91,
-  "2022-02-27": 91,
-  "2022-02-28": 91,
-  "2022-03-01": 91,
-  "2022-03-02": 91,
-  "2022-03-03": 91,
-  "2022-03-04": 91,
-  "2022-03-05": 91,
-  "2022-03-06": 91,
-  "2022-03-07": 91,
-  "2022-03-08": 91,
-  "2022-03-09": 91,
-  "2022-03-10": 91,
-  "2022-03-11": 91,
-  "2022-03-12": 91,
-  "2022-03-13": 91,
-  "2022-03-14": 91,
-  "2022-03-15": 91,
-  "2022-03-16": 91,
-  "2022-03-17": 91,
-  "2022-03-18": 91,
-  "2022-03-19": 91,
-  "2022-03-20": 91,
-  "2022-03-21": 91,
-  "2022-03-22": 91,
-  "2022-03-23": 91,
-  "2022-03-24": 91,
-  "2022-03-25": 91,
-  "2022-03-26": 91,
-  "2022-03-27": 91,
-  "2022-03-28": 91,
-  "2022-03-30": 91,
-  "2022-03-31": 91,
-  "2022-04-01": 91,
-  "2022-04-02": 91,
-  "2022-04-03": 91,
-  "2022-04-04": 89,
-  "2022-04-05": 91,
-  "2022-04-06": 91,
-  "2022-04-07": 91,
-  "2022-04-08": 91,
-  "2022-04-09": 91,
-  "2022-04-10": 91,
-  "2022-04-11": 91,
-  "2022-04-12": 91,
-  "2022-04-13": 91,
-  "2022-04-14": 91,
-  "2022-04-15": 91,
-  "2022-04-16": 91,
-  "2022-04-17": 91,
-  "2022-04-18": 91,
-  "2022-04-19": 91,
-  "2022-04-20": 91,
-  "2022-04-21": 91,
-  "2022-04-22": 91,
-  "2022-04-23": 91,
-  "2022-04-24": 91,
-  "2022-04-25": 91,
-  "2022-04-26": 91,
-  "2022-04-27": 91,
-  "2022-04-28": 91,
-  "2022-04-29": 91,
-  "2022-04-30": 91,
-  "2022-05-01": 91,
-  "2022-05-02": 91,
-  "2022-05-03": 91,
-  "2022-05-04": 91,
-  "2022-05-05": 91,
-  "2022-05-06": 91,
-  "2022-05-07": 91,
-  "2022-05-08": 91,
-  "2022-05-09": 91,
-  "2022-05-10": 91,
-  "2022-05-11": 91,
-  "2022-05-12": 91,
-  "2022-05-13": 91,
-  "2022-05-14": 91,
-  "2022-05-15": 91,
-  "2022-05-16": 91,
-  "2022-05-17": 91,
-  "2022-05-18": 91,
-  "2022-05-19": 91,
-  "2022-05-20": 91,
-  "2022-05-21": 91,
-  "2022-05-22": 91,
-  "2022-05-23": 91,
-  "2022-05-24": 91,
-  "2022-05-25": 91,
-  "2022-05-26": 91,
-  "2022-05-27": 91,
-  "2022-05-28": 91,
-  "2022-05-29": 91,
-  "2022-05-30": 91,
-  "2022-05-31": 91,
-  "2022-06-01": 91,
-  "2022-06-02": 91,
-  "2022-06-03": 91,
-  "2022-06-04": 91,
-  "2022-06-05": 91,
-  "2022-06-06": 91,
-  "2022-06-07": 91,
-  "2022-06-08": 91,
-  "2022-06-09": 91,
-  "2022-06-10": 91,
-  "2022-06-11": 91,
-  "2022-06-12": 91,
-  "2022-06-13": 91,
-  "2022-06-14": 91,
-  "2022-06-15": 91,
-  "2022-06-16": 91,
-  "2022-06-17": 91,
-  "2022-06-18": 91,
-  "2022-06-19": 91,
-  "2022-06-20": 91,
-  "2022-06-21": 91,
-  "2022-06-22": 91,
-  "2022-06-23": 91,
-  "2022-06-24": 91,
-  "2022-06-25": 91,
-  "2022-06-26": 91,
-  "2022-06-27": 91,
-  "2022-06-28": 91,
-  "2022-06-29": 91,
-  "2022-06-30": 91,
-  "2022-07-01": 91,
-  "2022-07-02": 91,
-  "2022-07-03": 91,
-  "2022-07-04": 91,
-  "2022-07-05": 91,
-  "2022-07-06": 91,
-  "2022-07-07": 91,
-  "2022-07-08": 91,
-  "2022-07-09": 91,
-  "2022-07-10": 91,
-  "2022-07-11": 91,
-  "2022-07-12": 91,
-  "2022-07-13": 91,
-  "2022-07-14": 91,
-  "2022-07-15": 91,
-  "2022-07-16": 91,
-  "2022-07-17": 91,
-  "2022-07-18": 91,
-  "2022-07-19": 91,
-  "2022-07-20": 91,
-  "2022-07-21": 91,
-  "2022-07-22": 91,
-  "2022-07-23": 91,
-  "2022-07-24": 91,
-  "2022-07-25": 91,
-  "2022-07-26": 91,
-  "2022-07-27": 91,
-  "2022-07-28": 91,
-  "2022-07-29": 91,
-  "2022-07-30": 91,
-  "2022-07-31": 91,
-  "2022-08-01": 91,
-  "2022-08-02": 91,
-  "2022-08-03": 91,
-  "2022-08-04": 91,
-  "2022-08-05": 91,
-  "2022-08-06": 91,
-  "2022-08-07": 91,
-  "2022-08-08": 91,
-  "2022-08-09": 91,
-  "2022-08-10": 91,
-  "2022-08-11": 91,
-  "2022-08-12": 91,
-  "2022-08-13": 91,
-  "2022-08-14": 91,
-  "2022-08-15": 91,
-  "2022-08-16": 91,
-  "2022-08-17": 91,
-  "2022-08-18": 91,
-  "2022-08-19": 91,
-  "2022-08-20": 91,
-  "2022-08-21": 91,
-  "2022-08-22": 91,
-  "2022-08-23": 91,
-  "2022-08-24": 91,
-  "2022-08-25": 91,
-  "2022-08-26": 91,
-  "2022-08-27": 91,
-  "2022-08-28": 91,
-  "2022-08-29": 91,
-  "2022-08-30": 91,
-  "2022-08-31": 91,
-  "2022-09-01": 91,
-  "2022-09-02": 91,
-  "2022-09-03": 91,
-  "2022-09-04": 91,
-  "2022-09-05": 91,
-  "2022-09-06": 91,
-  "2022-09-07": 91,
-  "2022-09-09": 91,
-  "2022-09-10": 91,
-  "2022-09-11": 91,
-  "2022-09-12": 91,
-  "2022-09-13": 91,
-  "2022-09-15": 91,
-  "2022-09-16": 91,
-  "2022-09-17": 91,
-  "2022-09-18": 91,
-  "2022-09-19": 91,
-  "2022-09-20": 91,
-  "2022-09-21": 91,
-  "2022-09-22": 91,
-  "2022-09-23": 92,
-  "2022-09-24": 92,
-  "2022-09-25": 92,
-  "2022-09-26": 92,
-  "2022-09-27": 92,
-  "2022-09-28": 92,
-  "2022-09-29": 92,
-  "2022-09-30": 92,
-  "2022-10-01": 92,
-  "2022-10-02": 92,
-  "2022-10-03": 92,
-  "2022-10-04": 92,
-  "2022-10-05": 92,
-  "2022-10-06": 92,
-  "2022-10-07": 92,
-  "2022-10-08": 92,
-  "2022-10-09": 92,
-  "2022-10-10": 92,
-  "2022-10-11": 92,
-  "2022-10-12": 92,
-  "2022-10-13": 92,
-  "2022-10-14": 92,
-  "2022-10-15": 92,
-  "2022-10-16": 92,
-  "2022-10-17": 92,
-  "2022-10-18": 92,
-  "2022-10-19": 92,
-  "2022-10-20": 92,
-  "2022-10-21": 92,
-  "2022-10-22": 92,
-  "2022-10-23": 92,
-  "2022-10-24": 92,
-  "2022-10-25": 92,
-  "2022-10-26": 92,
-  "2022-10-27": 92,
-  "2022-10-28": 92,
-  "2022-10-29": 92,
-  "2022-10-30": 92,
-  "2022-10-31": 92,
-  "2022-11-01": 92,
-  "2022-11-02": 93,
-  "2022-11-03": 94,
-  "2022-11-04": 95,
-  "2022-11-05": 95,
-  "2022-11-06": 95,
-  "2022-11-07": 95,
-  "2022-11-08": 99,
-  "2022-11-09": 99,
-  "2022-11-10": 102,
-  "2022-11-11": 102,
-  "2022-11-12": 102,
-  "2022-11-13": 102,
-  "2022-11-14": 102,
-  "2022-11-15": 102,
-  "2022-11-16": 102,
-  "2022-11-17": 102,
-  "2022-11-18": 101,
-  "2022-11-19": 101,
-  "2022-11-20": 99,
-  "2022-11-21": 99,
-  "2022-11-22": 99,
-  "2022-11-23": 99,
-  "2022-11-24": 98,
-  "2022-11-25": 98,
-  "2022-11-26": 98,
-  "2022-11-27": 96,
-  "2022-11-28": 96,
-  "2022-11-29": 96,
-  "2022-11-30": 96,
-  "2022-12-01": 96,
-  "2022-12-02": 96,
-  "2022-12-03": 96,
-  "2022-12-04": 96,
-  "2022-12-05": 96,
-  "2022-12-06": 96,
-  "2022-12-07": 96,
-  "2022-12-08": 96,
-  "2022-12-09": 96,
-  "2022-12-10": 96,
-  "2022-12-11": 96,
-  "2022-12-12": 96,
-  "2022-12-13": 96,
-  "2022-12-14": 96,
-  "2022-12-15": 95,
-  "2022-12-16": 95,
-  "2022-12-17": 95,
-  "2022-12-18": 95,
-  "2022-12-19": 95,
-  "2022-12-20": 95,
-  "2022-12-21": 95,
-  "2022-12-22": 95,
-  "2022-12-24": 95,
-  "2022-12-25": 95,
-  "2022-12-26": 95,
-  "2022-12-27": 95,
-  "2022-12-28": 95,
-  "2022-12-29": 95,
-  "2022-12-30": 95,
-  "2022-12-31": 95,
-  "2023-01-01": 95,
-  "2023-01-02": 95,
-  "2023-01-03": 95,
-  "2023-01-04": 95,
-  "2023-01-05": 95,
-  "2023-01-06": 95,
-  "2023-01-07": 95,
-  "2023-01-08": 95,
-  "2023-01-09": 95,
-  "2023-01-10": 95,
-  "2023-01-11": 95,
-  "2023-01-12": 95,
-  "2023-01-13": 95,
-  "2023-01-14": 95,
-  "2023-01-15": 95,
-  "2023-01-16": 95,
-  "2023-01-17": 95,
-  "2023-01-18": 95,
-  "2023-01-19": 95,
-  "2023-01-20": 95,
-  "2023-01-21": 95,
-  "2023-01-22": 95,
-  "2023-01-23": 95,
-  "2023-01-24": 95,
-  "2023-01-25": 94,
-  "2023-01-26": 94,
-  "2023-01-27": 94,
-  "2023-01-28": 94,
-  "2023-01-29": 94,
-  "2023-01-30": 94,
-  "2023-01-31": 94,
-  "2023-02-01": 94,
-  "2023-02-02": 94,
-  "2023-02-03": 94,
-  "2023-02-04": 94,
-  "2023-02-05": 94,
-  "2023-02-06": 94,
-  "2023-02-07": 94,
-  "2023-02-08": 94,
-  "2023-02-09": 94,
-  "2023-02-10": 94,
-  "2023-02-11": 94,
-  "2023-02-12": 94,
-  "2023-02-13": 94,
-  "2023-02-14": 94,
-  "2023-02-15": 94,
-  "2023-02-16": 94,
-  "2023-02-17": 94,
-  "2023-02-18": 94,
-  "2023-02-19": 94,
-  "2023-02-20": 94,
-  "2023-02-21": 94,
-  "2023-02-22": 94,
-  "2023-02-23": 94,
-  "2023-02-24": 94,
-  "2023-02-25": 94,
-  "2023-02-26": 94,
-  "2023-02-27": 94,
-  "2023-02-28": 94,
-  "2023-03-01": 94,
-  "2023-03-02": 94,
-  "2023-03-03": 94,
-  "2023-03-04": 94,
-  "2023-03-05": 94,
-  "2023-03-06": 94,
-  "2023-03-07": 94,
-  "2023-03-08": 94,
-  "2023-03-09": 94,
-  "2023-03-10": 94,
-  "2023-03-11": 94,
-  "2023-03-12": 94,
-  "2023-03-13": 94,
-  "2023-03-14": 94,
-  "2023-03-15": 94,
-  "2023-03-16": 94,
-  "2023-03-17": 94,
-  "2023-03-18": 94,
-  "2023-03-19": 94,
-  "2023-03-20": 94,
-  "2023-03-21": 94,
-  "2023-03-22": 94,
-  "2023-03-23": 94,
-  "2023-03-24": 94,
-  "2023-03-25": 94,
-  "2023-03-26": 94,
-  "2023-03-27": 94,
-  "2023-03-28": 94,
-  "2023-03-29": 94,
-  "2023-03-30": 94,
-  "2023-03-31": 94,
-  "2023-04-01": 94,
-  "2023-04-02": 94,
-  "2023-04-03": 94,
-  "2023-04-04": 94,
-  "2023-04-05": 94,
-  "2023-04-06": 94,
-  "2023-04-07": 94,
-  "2023-04-09": 94,
-  "2023-04-10": 94,
-  "2023-04-11": 94,
-  "2023-04-12": 94,
-  "2023-04-13": 94,
-  "2023-04-14": 94,
-  "2023-04-15": 94,
-  "2023-04-16": 94,
-  "2023-04-17": 94,
-  "2023-04-18": 94,
-  "2023-04-19": 94,
-  "2023-04-20": 94,
-  "2023-04-21": 94,
-  "2023-04-22": 94,
-  "2023-04-23": 94,
-  "2023-04-24": 94,
-  "2023-04-25": 94,
-  "2023-04-26": 94,
-  "2023-04-27": 94,
-  "2023-04-28": 94,
-  "2023-04-29": 94,
-  "2023-04-30": 94,
-  "2023-05-01": 94,
-  "2023-05-02": 94,
-  "2023-05-03": 94,
-  "2023-05-04": 94,
-  "2023-05-05": 94,
-  "2023-05-06": 94,
-  "2023-05-07": 94,
-  "2023-05-08": 94,
-  "2023-05-09": 94,
-  "2023-05-10": 94,
-  "2023-05-11": 94,
-  "2023-05-12": 94,
-  "2023-05-13": 94,
-  "2023-05-14": 94,
-  "2023-05-15": 94,
-  "2023-05-16": 94,
-  "2023-05-17": 94,
-  "2023-05-18": 94,
-  "2023-05-19": 94,
-  "2023-05-20": 94,
-  "2023-05-21": 94,
-  "2023-05-22": 94,
-  "2023-05-23": 94,
-  "2023-05-24": 94,
-  "2023-05-25": 94,
-  "2023-05-26": 94,
-  "2023-05-27": 94,
-  "2023-05-28": 94,
-  "2023-05-29": 94,
-  "2023-05-30": 94,
-  "2023-05-31": 94,
-  "2023-06-01": 94,
-  "2023-06-02": 94,
-  "2023-06-03": 94,
-  "2023-06-04": 94,
-  "2023-06-05": 94,
-  "2023-06-06": 94,
-  "2023-06-07": 94,
-  "2023-06-08": 94,
-  "2023-06-09": 94,
-  "2023-06-10": 94,
-  "2023-06-11": 94,
-  "2023-06-12": 94,
-  "2023-06-13": 94,
-  "2023-06-14": 94,
-  "2023-06-15": 94,
-  "2023-06-16": 94,
-  "2023-06-17": 94,
-  "2023-06-18": 94,
-  "2023-06-19": 94,
-  "2023-06-20": 94,
-  "2023-06-21": 94,
-  "2023-06-22": 94,
-  "2023-06-23": 94,
-  "2023-06-24": 94,
-  "2023-06-25": 94,
-  "2023-06-26": 94,
-  "2023-06-27": 95,
-  "2023-06-28": 95,
-  "2023-06-29": 95,
-  "2023-06-30": 95,
-  "2023-07-01": 95,
-  "2023-07-02": 95,
-  "2023-07-03": 95,
-  "2023-07-04": 95,
-  "2023-07-05": 95,
-  "2023-07-06": 95,
-  "2023-07-07": 95,
-  "2023-07-08": 95,
-  "2023-07-09": 94,
-  "2023-07-10": 94,
-  "2023-07-11": 94,
-  "2023-07-12": 94,
-  "2023-07-13": 94,
-  "2023-07-14": 94,
-  "2023-07-15": 94,
-  "2023-07-16": 94,
-  "2023-07-17": 94,
-  "2023-07-18": 94,
-  "2023-07-19": 94,
-  "2023-07-20": 94,
-  "2023-07-21": 94,
-  "2023-07-22": 94,
-  "2023-07-23": 94,
-  "2023-07-24": 94,
-  "2023-07-25": 94,
-  "2023-07-26": 94,
-  "2023-07-27": 94,
-  "2023-07-28": 94,
-  "2023-07-29": 94,
-  "2023-07-30": 94,
-  "2023-07-31": 94,
-  "2023-08-01": 94,
-  "2023-08-02": 94,
-  "2023-08-03": 94,
-  "2023-08-04": 94,
-  "2023-08-05": 94,
-  "2023-08-06": 94,
-  "2023-08-07": 94,
-  "2023-08-08": 94,
-  "2023-08-09": 94,
-  "2023-08-10": 94,
-  "2023-08-11": 94,
-  "2023-08-12": 94,
-  "2023-08-13": 94,
-  "2023-08-14": 94,
-  "2023-08-15": 94,
-  "2023-08-16": 94,
-  "2023-08-17": 94,
-  "2023-08-18": 94,
-  "2023-08-19": 94,
-  "2023-08-20": 94,
-  "2023-08-21": 94,
-  "2023-08-22": 94,
-  "2023-08-23": 94,
-  "2023-08-24": 94,
-  "2023-08-25": 94,
-  "2023-08-26": 94,
-  "2023-08-27": 94,
-  "2023-08-28": 94,
-  "2023-08-29": 94,
-  "2023-08-30": 94,
-  "2023-08-31": 94,
-  "2023-09-01": 94,
-  "2023-09-02": 94,
-  "2023-09-03": 94,
-  "2023-09-04": 94,
-  "2023-09-05": 94,
-  "2023-09-06": 94,
-  "2023-09-07": 94,
-  "2023-09-08": 94,
-  "2023-09-09": 94,
-  "2023-09-10": 94,
-  "2023-09-11": 94,
-  "2023-09-12": 94,
-  "2023-09-13": 94,
-  "2023-09-14": 94,
-  "2023-09-15": 94,
-  "2023-09-16": 94,
-  "2023-09-17": 94,
-  "2023-09-18": 94,
-  "2023-09-19": 94,
-  "2023-09-20": 94,
-  "2023-09-21": 94,
-  "2023-09-22": 94,
-  "2023-09-23": 94,
-  "2023-09-24": 94,
-  "2023-09-25": 94,
-  "2023-09-26": 94,
-  "2023-09-27": 94,
-  "2023-09-28": 94,
-  "2023-09-29": 94,
-  "2023-09-30": 94,
-  "2023-10-01": 94,
-  "2023-10-02": 94,
-  "2023-10-03": 94,
-  "2023-10-04": 94,
-  "2023-10-05": 94,
-  "2023-10-06": 94,
-  "2023-10-07": 94,
-  "2023-10-08": 94,
-  "2023-10-09": 94,
-  "2023-10-10": 94,
-  "2023-10-11": 94,
-  "2023-10-12": 94,
-  "2023-10-13": 94,
-  "2023-10-14": 94,
-  "2023-10-15": 94,
-  "2023-10-16": 94,
-  "2023-10-17": 94,
-  "2023-10-18": 94,
-  "2023-10-19": 94,
-  "2023-10-20": 94,
-  "2023-10-21": 94,
-  "2023-10-22": 94,
-  "2023-10-23": 94,
-  "2023-10-24": 94,
-  "2023-10-25": 94,
-  "2023-10-26": 94,
-  "2023-10-27": 94,
-  "2023-10-28": 94,
-  "2023-10-29": 94,
-  "2023-10-30": 94,
-  "2023-10-31": 94,
-  "2023-11-01": 94,
-  "2023-11-02": 94,
-  "2023-11-03": 94,
-  "2023-11-04": 94,
-  "2023-11-05": 94,
-  "2023-11-06": 94,
-  "2023-11-07": 94,
-  "2023-11-08": 94,
-  "2023-11-09": 94,
-  "2023-11-10": 94,
-  "2023-11-11": 94,
-  "2023-11-12": 94,
-  "2023-11-13": 94,
-  "2023-11-14": 94,
-  "2023-11-15": 94,
-  "2023-11-16": 94,
-  "2023-11-17": 94,
-  "2023-11-18": 94,
-  "2023-11-19": 94,
-  "2023-11-20": 94,
-  "2023-11-21": 94,
-  "2023-11-22": 94,
-  "2023-11-23": 94,
-  "2023-11-24": 94,
-  "2023-11-25": 94,
-  "2023-11-26": 94,
-  "2023-11-27": 94,
-  "2023-11-28": 94,
-  "2023-11-29": 94,
-  "2023-11-30": 94,
-  "2023-12-01": 94,
-  "2023-12-02": 94,
-  "2023-12-03": 94,
-  "2023-12-04": 94,
-  "2023-12-05": 94,
-  "2023-12-06": 94,
-  "2023-12-07": 94,
-  "2023-12-08": 94,
-  "2023-12-09": 94,
-  "2023-12-10": 94,
-  "2023-12-11": 94,
-  "2023-12-12": 94,
-  "2023-12-13": 94,
-  "2023-12-14": 93,
-  "2023-12-15": 93,
-  "2023-12-16": 93,
-  "2023-12-17": 93,
-  "2023-12-18": 93,
-  "2023-12-19": 93,
-  "2023-12-20": 93,
-  "2023-12-21": 93,
-  "2023-12-22": 93,
-  "2023-12-23": 93,
-  "2023-12-24": 93,
-  "2023-12-25": 93,
-  "2023-12-26": 93,
-  "2023-12-27": 93,
-  "2023-12-30": 93,
-  "2023-12-31": 93,
-  "2024-01-01": 93,
-  "2024-01-02": 93,
-  "2024-01-03": 93
+  "2024-01-17": 90,
+  "date_first_scraped": "2021-12-21",
+  "description": "Shady Records top picks chosen by Spotify.",
+  "name": "Shady Records Spotify Picks",
+  "tracks": [
+    {
+      "album": {
+        "name": "Free Agent",
+        "url": "https://open.spotify.com/album/5BYHvLDlTU8f1KF4562VJN"
+      },
+      "artists": [
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        },
+        {
+          "name": "Just Blaze",
+          "url": "https://open.spotify.com/artist/2gpPCu8rjzdobGqDZJpHiR"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304586,
+      "name": "Battle Cry (feat. Just Blaze)",
+      "url": "https://open.spotify.com/track/6vysopGjRMUsSneiVZJZUw"
+    },
+    {
+      "album": {
+        "name": "D-12 World",
+        "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
+      },
+      "artists": [
+        {
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296973,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/3P3bWjyXFWv8nEgvxwUfXX"
+    },
+    {
+      "album": {
+        "name": "welcome to: OUR HOUSE (Deluxe)",
+        "url": "https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa"
+      },
+      "artists": [
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "Coffin",
+      "url": "https://open.spotify.com/track/1oyz5aQv81Sx25qaCZc7MV"
+    },
+    {
+      "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297520,
+      "name": "Crack A Bottle",
+      "url": "https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin' / The Massacre (Explicit Version)",
+        "url": "https://open.spotify.com/album/5Qncr57Fwoyk1PDJfThIJC"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248893,
+      "name": "Don't Push Me",
+      "url": "https://open.spotify.com/track/7C4veUhWKNxIzvlSC34DzC"
+    },
+    {
+      "album": {
+        "name": "Hell: The Sequel (Deluxe)",
+        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
+      },
+      "artists": [
+        {
+          "name": "Bad Meets Evil",
+          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249560,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
+    },
+    {
+      "album": {
+        "name": "Free Agent",
+        "url": "https://open.spotify.com/album/5BYHvLDlTU8f1KF4562VJN"
+      },
+      "artists": [
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196533,
+      "name": "Finish What You Start (feat. Royce Da 5\u20199)",
+      "url": "https://open.spotify.com/track/3T6pW5nLgVv8avrWIkKVzU"
+    },
+    {
+      "album": {
+        "name": "First Date",
+        "url": "https://open.spotify.com/album/3HBDwZmWMzmxWdRu6ful1B"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/3EqDoZT29XfLiwEXBzeBas"
+    },
+    {
+      "album": {
+        "name": "Radioactive (Explicit Version)",
+        "url": "https://open.spotify.com/album/3AGMorE666prvzWaHGddKo"
+      },
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Shawty Fatt",
+          "url": "https://open.spotify.com/artist/3kExdLirNvh53X6y1XOfWM"
+        },
+        {
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/51NlwZeOHBEr9GwWMRwThr"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Pyrex",
+        "url": "https://open.spotify.com/album/7JU6WWWxDqY254aN6YiywS"
+      },
+      "artists": [
+        {
+          "name": "Obie Trice",
+          "url": "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "Go To Jail",
+      "url": "https://open.spotify.com/track/7Kvb4zGDjsWnqbVI9MXb8z"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298893,
+      "name": "Going Through Changes",
+      "url": "https://open.spotify.com/track/5Erdn2758aXt6Gz6BHblcF"
+    },
+    {
+      "album": {
+        "name": "Radioactive (Explicit Version)",
+        "url": "https://open.spotify.com/album/3AGMorE666prvzWaHGddKo"
+      },
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291880,
+      "name": "Hard White (Up In The Club) - Remix",
+      "url": "https://open.spotify.com/track/7FsD8C9NQNJOe9HXEwqczS"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/0hJbXLGpQGlRfRqwEj7DWc"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Tony Yayo",
+          "url": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208053,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/0ikHzi979gUsOKQPfyhtDF"
+    },
+    {
+      "album": {
+        "name": "I Made It (feat. Trick Trick) - Single",
+        "url": "https://open.spotify.com/album/6RZY9I5gDYHRfYZ31EJkRX"
+      },
+      "artists": [
+        {
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321202,
+      "name": "I Made It (feat. Trick Trick)",
+      "url": "https://open.spotify.com/track/0eJzykWzPq1TW7hrvMxKc9"
+    },
+    {
+      "album": {
+        "name": "Radioactive (Explicit Version)",
+        "url": "https://open.spotify.com/album/3AGMorE666prvzWaHGddKo"
+      },
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Let's Roll",
+      "url": "https://open.spotify.com/track/61Qah5aEk9024AEaXCgXtN"
+    },
+    {
+      "album": {
+        "name": "Hell: The Sequel (Deluxe)",
+        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
+      },
+      "artists": [
+        {
+          "name": "Bad Meets Evil",
+          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303813,
+      "name": "Lighters",
+      "url": "https://open.spotify.com/track/5zpDHEU12zATwLGvozxPw2"
+    },
+    {
+      "album": {
+        "name": "Major Distribution",
+        "url": "https://open.spotify.com/album/37BFBqWR7cVoJvw8yE0lMW"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264280,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/48fEJFoMx9AQFq9SeppTz1"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin' / The Massacre (Explicit Version)",
+        "url": "https://open.spotify.com/album/5Qncr57Fwoyk1PDJfThIJC"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/6hYH52lqLfRcj5YQV0fIx0"
+    },
+    {
+      "album": {
+        "name": "D-12 World",
+        "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
+      },
+      "artists": [
+        {
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298773,
+      "name": "My Band",
+      "url": "https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL"
+    },
+    {
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7iHmgWi3XupDinqX5qwBUc"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239906,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/2GoOioZVtOF1iMYfnzkreg"
+    },
+    {
+      "album": {
+        "name": "welcome to: OUR HOUSE (Deluxe)",
+        "url": "https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa"
+      },
+      "artists": [
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261253,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5j21tjqJmMO5Jlu1uKZysY"
+    },
+    {
+      "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/1s5WZukFQjoyAyApSbFejC"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264826,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/2aI8URxh4JgaDAE7LHk8HY"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299506,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/7EAjG4SK1TpsZrtVnnGDsb"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/2JXlRVBgLHqhfphmjXyVBZ"
+    },
+    {
+      "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278160,
+      "name": "Old Time's Sake",
+      "url": "https://open.spotify.com/track/5j6ODxGVhAWeCS49bBKuxz"
+    },
+    {
+      "album": {
+        "name": "Free Agent",
+        "url": "https://open.spotify.com/album/5BYHvLDlTU8f1KF4562VJN"
+      },
+      "artists": [
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "One Shot (Killed For Less)",
+      "url": "https://open.spotify.com/track/6q9TN8m9uXBndq8rA0X61I"
+    },
+    {
+      "album": {
+        "name": "welcome to: OUR HOUSE (Deluxe)",
+        "url": "https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa"
+      },
+      "artists": [
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358160,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/4g4to04UaOZpBrGtOda3BO"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin' / The Massacre (Explicit Version)",
+        "url": "https://open.spotify.com/album/5Qncr57Fwoyk1PDJfThIJC"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/59Z1UtzO5UxmClI715b8E2"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin' / The Massacre (Explicit Version)",
+        "url": "https://open.spotify.com/album/5Qncr57Fwoyk1PDJfThIJC"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288893,
+      "name": "Patiently Waiting",
+      "url": "https://open.spotify.com/track/1iT7BeSd4T7I6Uadz3TM7X"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Pyrex",
+        "url": "https://open.spotify.com/album/7JU6WWWxDqY254aN6YiywS"
+      },
+      "artists": [
+        {
+          "name": "Salam Wreck",
+          "url": "https://open.spotify.com/artist/713X1xDDryEQrctslm4cr3"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "Purple Gang Freestyle",
+      "url": "https://open.spotify.com/track/14QZNlsJp4nYPzkivQKdWS"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Pyrex",
+        "url": "https://open.spotify.com/album/7JU6WWWxDqY254aN6YiywS"
+      },
+      "artists": [
+        {
+          "name": "1st Born",
+          "url": "https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb"
+        },
+        {
+          "name": "King Gordy",
+          "url": "https://open.spotify.com/artist/76KthZfR4KpuqpnUlMhY75"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
+        },
+        {
+          "name": "DU of The Outsidaz",
+          "url": "https://open.spotify.com/artist/3HiuBSjGic0rICOw4aeoK5"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272653,
+      "name": "Rob U N Da Club",
+      "url": "https://open.spotify.com/track/7M4I5kLp2PpLa5ySbaxG37"
+    },
+    {
+      "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246640,
+      "name": "Same Song & Dance",
+      "url": "https://open.spotify.com/track/1NcKKXrDTdCMaiVJkEknqr"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275400,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/7tOqYtca4gJRg1qYZZ36Mc"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Pyrex",
+        "url": "https://open.spotify.com/album/7JU6WWWxDqY254aN6YiywS"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
+        },
+        {
+          "name": "T-Flame",
+          "url": "https://open.spotify.com/artist/4LS1xb3II4PUoh7vOtOCq8"
+        },
+        {
+          "name": "Supa Emcee",
+          "url": "https://open.spotify.com/artist/221sIviDbnmv2DN6h3h9GS"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208160,
+      "name": "Sh*t Can Still Happen - Feat. T-flame & Supa Emcee",
+      "url": "https://open.spotify.com/track/4O8ygBMNqeELrDmaDngRbZ"
+    },
+    {
+      "album": {
+        "name": "Hell: The Sequel (Deluxe)",
+        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
+      },
+      "artists": [
+        {
+          "name": "Bad Meets Evil",
+          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Take From Me",
+      "url": "https://open.spotify.com/track/7n4PRAJjYzGFr1DR3KHYMU"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Kobe",
+          "url": "https://open.spotify.com/artist/1XNFcPvkDxMDRFnLz0vjZk"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300426,
+      "name": "Talkin\u2019 2 Myself",
+      "url": "https://open.spotify.com/track/12jQrKEmIjZ7WFETYRyqjk"
+    },
+    {
+      "album": {
+        "name": "Hell: The Sequel (Deluxe)",
+        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
+      },
+      "artists": [
+        {
+          "name": "Bad Meets Evil",
+          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290413,
+      "name": "The Reunion",
+      "url": "https://open.spotify.com/track/4TsDmh8jtTMdaa7UP3gxAR"
+    },
+    {
+      "album": {
+        "name": "welcome to: OUR HOUSE (Deluxe)",
+        "url": "https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa"
+      },
+      "artists": [
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255280,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/1nY4cbyFaB4DJ3Eld8vgVu"
+    },
+    {
+      "album": {
+        "name": "Radioactive (Explicit Version)",
+        "url": "https://open.spotify.com/album/3AGMorE666prvzWaHGddKo"
+      },
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294400,
+      "name": "Throw It Up",
+      "url": "https://open.spotify.com/track/5lBUY5BqQfbNCaMWkVfwpH"
+    },
+    {
+      "album": {
+        "name": "D-12 World",
+        "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
+      },
+      "artists": [
+        {
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259866,
+      "name": "U R The One",
+      "url": "https://open.spotify.com/track/7pyd6tT7ih7U9k8LArHgzb"
+    },
+    {
+      "album": {
+        "name": "We Up",
+        "url": "https://open.spotify.com/album/4AuWZIr6OQXWLEcPTDkIUt"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "We Up",
+      "url": "https://open.spotify.com/track/4VnYL2m6J9kWrBSw22CXwx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/3hR94iGaotWbCFv5eDe0gZ"
 }

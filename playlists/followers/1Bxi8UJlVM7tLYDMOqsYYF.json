@@ -1,735 +1,943 @@
 {
-  "2021-12-25": 1236,
-  "2021-12-26": 1236,
-  "2021-12-27": 1236,
-  "2021-12-28": 1236,
-  "2021-12-29": 1236,
-  "2021-12-30": 1236,
-  "2021-12-31": 1236,
-  "2022-01-01": 1237,
-  "2022-01-02": 1237,
-  "2022-01-03": 1237,
-  "2022-01-04": 1237,
-  "2022-01-05": 1237,
-  "2022-01-06": 1237,
-  "2022-01-07": 1236,
-  "2022-01-08": 1237,
-  "2022-01-09": 1237,
-  "2022-01-10": 1237,
-  "2022-01-11": 1239,
-  "2022-01-12": 1240,
-  "2022-01-13": 1240,
-  "2022-01-14": 1240,
-  "2022-01-15": 1240,
-  "2022-01-16": 1240,
-  "2022-01-17": 1240,
-  "2022-01-18": 1240,
-  "2022-01-19": 1240,
-  "2022-01-20": 1240,
-  "2022-01-21": 1241,
-  "2022-01-22": 1242,
-  "2022-01-23": 1242,
-  "2022-01-24": 1242,
-  "2022-01-25": 1242,
-  "2022-01-26": 1242,
-  "2022-01-27": 1242,
-  "2022-01-28": 1242,
-  "2022-01-29": 1241,
-  "2022-01-30": 1240,
-  "2022-01-31": 1240,
-  "2022-02-01": 1239,
-  "2022-02-02": 1239,
-  "2022-02-03": 1239,
-  "2022-02-04": 1239,
-  "2022-02-05": 1239,
-  "2022-02-06": 1239,
-  "2022-02-07": 1239,
-  "2022-02-08": 1239,
-  "2022-02-09": 1239,
-  "2022-02-10": 1239,
-  "2022-02-11": 1240,
-  "2022-02-12": 1239,
-  "2022-02-13": 1239,
-  "2022-02-14": 1239,
-  "2022-02-15": 1239,
-  "2022-02-16": 1239,
-  "2022-02-17": 1239,
-  "2022-02-18": 1239,
-  "2022-02-19": 1239,
-  "2022-02-20": 1239,
-  "2022-02-21": 1239,
-  "2022-02-22": 1240,
-  "2022-02-23": 1241,
-  "2022-02-24": 1241,
-  "2022-02-25": 1241,
-  "2022-02-26": 1242,
-  "2022-02-27": 1242,
-  "2022-02-28": 1242,
-  "2022-03-01": 1242,
-  "2022-03-02": 1242,
-  "2022-03-03": 1242,
-  "2022-03-04": 1241,
-  "2022-03-05": 1241,
-  "2022-03-06": 1241,
-  "2022-03-07": 1241,
-  "2022-03-08": 1241,
-  "2022-03-09": 1241,
-  "2022-03-10": 1242,
-  "2022-03-11": 1242,
-  "2022-03-12": 1242,
-  "2022-03-13": 1242,
-  "2022-03-14": 1242,
-  "2022-03-15": 1242,
-  "2022-03-16": 1242,
-  "2022-03-17": 1242,
-  "2022-03-18": 1243,
-  "2022-03-19": 1244,
-  "2022-03-20": 1244,
-  "2022-03-21": 1246,
-  "2022-03-22": 1246,
-  "2022-03-23": 1246,
-  "2022-03-24": 1246,
-  "2022-03-25": 1246,
-  "2022-03-26": 1246,
-  "2022-03-27": 1245,
-  "2022-03-28": 1245,
-  "2022-03-30": 1245,
-  "2022-03-31": 1245,
-  "2022-04-01": 1245,
-  "2022-04-02": 1246,
-  "2022-04-03": 1246,
-  "2022-04-04": 1249,
-  "2022-04-05": 1249,
-  "2022-04-06": 1249,
-  "2022-04-07": 1248,
-  "2022-04-08": 1249,
-  "2022-04-09": 1249,
-  "2022-04-10": 1251,
-  "2022-04-11": 1251,
-  "2022-04-12": 1251,
-  "2022-04-13": 1252,
-  "2022-04-14": 1253,
-  "2022-04-15": 1253,
-  "2022-04-16": 1253,
-  "2022-04-17": 1253,
-  "2022-04-18": 1253,
-  "2022-04-19": 1253,
-  "2022-04-20": 1253,
-  "2022-04-21": 1252,
-  "2022-04-22": 1252,
-  "2022-04-23": 1252,
-  "2022-04-24": 1252,
-  "2022-04-25": 1252,
-  "2022-04-26": 1252,
-  "2022-04-27": 1252,
-  "2022-04-28": 1252,
-  "2022-04-29": 1253,
-  "2022-04-30": 1252,
-  "2022-05-01": 1252,
-  "2022-05-02": 1252,
-  "2022-05-03": 1252,
-  "2022-05-04": 1253,
-  "2022-05-05": 1253,
-  "2022-05-06": 1253,
-  "2022-05-07": 1254,
-  "2022-05-08": 1254,
-  "2022-05-09": 1254,
-  "2022-05-10": 1254,
-  "2022-05-11": 1254,
-  "2022-05-12": 1254,
-  "2022-05-13": 1254,
-  "2022-05-14": 1254,
-  "2022-05-15": 1254,
-  "2022-05-16": 1254,
-  "2022-05-17": 1254,
-  "2022-05-18": 1254,
-  "2022-05-19": 1254,
-  "2022-05-20": 1254,
-  "2022-05-21": 1254,
-  "2022-05-22": 1254,
-  "2022-05-23": 1254,
-  "2022-05-24": 1254,
-  "2022-05-25": 1254,
-  "2022-05-26": 1255,
-  "2022-05-27": 1255,
-  "2022-05-28": 1257,
-  "2022-05-29": 1257,
-  "2022-05-30": 1257,
-  "2022-05-31": 1257,
-  "2022-06-01": 1256,
-  "2022-06-02": 1256,
-  "2022-06-03": 1256,
-  "2022-06-04": 1257,
-  "2022-06-05": 1257,
-  "2022-06-06": 1257,
-  "2022-06-07": 1257,
-  "2022-06-08": 1257,
-  "2022-06-09": 1257,
-  "2022-06-10": 1257,
-  "2022-06-11": 1257,
-  "2022-06-12": 1257,
-  "2022-06-13": 1257,
-  "2022-06-14": 1256,
-  "2022-06-15": 1256,
-  "2022-06-16": 1256,
-  "2022-06-17": 1256,
-  "2022-06-18": 1256,
-  "2022-06-19": 1257,
-  "2022-06-20": 1257,
-  "2022-06-21": 1257,
-  "2022-06-22": 1257,
-  "2022-06-23": 1257,
-  "2022-06-24": 1257,
-  "2022-06-25": 1257,
-  "2022-06-26": 1257,
-  "2022-06-27": 1257,
-  "2022-06-28": 1257,
-  "2022-06-29": 1257,
-  "2022-06-30": 1257,
-  "2022-07-01": 1258,
-  "2022-07-02": 1258,
-  "2022-07-03": 1258,
-  "2022-07-04": 1258,
-  "2022-07-05": 1258,
-  "2022-07-06": 1259,
-  "2022-07-07": 1259,
-  "2022-07-08": 1259,
-  "2022-07-09": 1259,
-  "2022-07-10": 1259,
-  "2022-07-11": 1259,
-  "2022-07-12": 1260,
-  "2022-07-13": 1260,
-  "2022-07-14": 1260,
-  "2022-07-15": 1261,
-  "2022-07-16": 1261,
-  "2022-07-17": 1261,
-  "2022-07-18": 1261,
-  "2022-07-19": 1263,
-  "2022-07-20": 1263,
-  "2022-07-21": 1262,
-  "2022-07-22": 1263,
-  "2022-07-23": 1263,
-  "2022-07-24": 1264,
-  "2022-07-25": 1264,
-  "2022-07-26": 1264,
-  "2022-07-27": 1264,
-  "2022-07-28": 1264,
-  "2022-07-29": 1265,
-  "2022-07-30": 1265,
-  "2022-07-31": 1265,
-  "2022-08-01": 1265,
-  "2022-08-02": 1265,
-  "2022-08-03": 1265,
-  "2022-08-04": 1266,
-  "2022-08-05": 1266,
-  "2022-08-06": 1266,
-  "2022-08-07": 1266,
-  "2022-08-08": 1266,
-  "2022-08-09": 1265,
-  "2022-08-10": 1265,
-  "2022-08-11": 1265,
-  "2022-08-12": 1265,
-  "2022-08-13": 1267,
-  "2022-08-14": 1267,
-  "2022-08-15": 1268,
-  "2022-08-16": 1269,
-  "2022-08-17": 1268,
-  "2022-08-18": 1269,
-  "2022-08-19": 1269,
-  "2022-08-20": 1270,
-  "2022-08-21": 1270,
-  "2022-08-22": 1270,
-  "2022-08-23": 1270,
-  "2022-08-24": 1269,
-  "2022-08-25": 1269,
-  "2022-08-26": 1269,
-  "2022-08-27": 1271,
-  "2022-08-28": 1271,
-  "2022-08-29": 1271,
-  "2022-08-30": 1271,
-  "2022-08-31": 1271,
-  "2022-09-01": 1271,
-  "2022-09-02": 1271,
-  "2022-09-03": 1271,
-  "2022-09-04": 1271,
-  "2022-09-05": 1270,
-  "2022-09-06": 1271,
-  "2022-09-07": 1271,
-  "2022-09-09": 1271,
-  "2022-09-10": 1270,
-  "2022-09-11": 1270,
-  "2022-09-12": 1270,
-  "2022-09-13": 1270,
-  "2022-09-15": 1270,
-  "2022-09-16": 1269,
-  "2022-09-17": 1269,
-  "2022-09-18": 1269,
-  "2022-09-19": 1269,
-  "2022-09-20": 1270,
-  "2022-09-21": 1270,
-  "2022-09-22": 1270,
-  "2022-09-23": 1270,
-  "2022-09-24": 1270,
-  "2022-09-25": 1270,
-  "2022-09-26": 1270,
-  "2022-09-27": 1270,
-  "2022-09-28": 1270,
-  "2022-09-29": 1270,
-  "2022-09-30": 1270,
-  "2022-10-01": 1271,
-  "2022-10-02": 1271,
-  "2022-10-03": 1272,
-  "2022-10-04": 1272,
-  "2022-10-05": 1272,
-  "2022-10-06": 1272,
-  "2022-10-07": 1272,
-  "2022-10-08": 1272,
-  "2022-10-09": 1272,
-  "2022-10-10": 1272,
-  "2022-10-11": 1272,
-  "2022-10-12": 1272,
-  "2022-10-13": 1272,
-  "2022-10-14": 1272,
-  "2022-10-15": 1272,
-  "2022-10-16": 1272,
-  "2022-10-17": 1272,
-  "2022-10-18": 1272,
-  "2022-10-19": 1272,
-  "2022-10-20": 1273,
-  "2022-10-21": 1273,
-  "2022-10-22": 1273,
-  "2022-10-23": 1273,
-  "2022-10-24": 1273,
-  "2022-10-25": 1273,
-  "2022-10-26": 1273,
-  "2022-10-27": 1273,
-  "2022-10-28": 1273,
-  "2022-10-29": 1273,
-  "2022-10-30": 1273,
-  "2022-10-31": 1273,
-  "2022-11-01": 1274,
-  "2022-11-02": 1274,
-  "2022-11-03": 1275,
-  "2022-11-04": 1276,
-  "2022-11-05": 1276,
-  "2022-11-06": 1276,
-  "2022-11-07": 1276,
-  "2022-11-08": 1278,
-  "2022-11-09": 1278,
-  "2022-11-10": 1283,
-  "2022-11-11": 1283,
-  "2022-11-12": 1284,
-  "2022-11-13": 1284,
-  "2022-11-14": 1284,
-  "2022-11-15": 1283,
-  "2022-11-16": 1283,
-  "2022-11-17": 1282,
-  "2022-11-18": 1282,
-  "2022-11-19": 1282,
-  "2022-11-20": 1282,
-  "2022-11-21": 1278,
-  "2022-11-22": 1277,
-  "2022-11-23": 1277,
-  "2022-11-24": 1277,
-  "2022-11-25": 1278,
-  "2022-11-26": 1279,
-  "2022-11-27": 1279,
-  "2022-11-28": 1279,
-  "2022-11-29": 1280,
-  "2022-11-30": 1280,
-  "2022-12-01": 1280,
-  "2022-12-02": 1280,
-  "2022-12-03": 1281,
-  "2022-12-04": 1281,
-  "2022-12-05": 1281,
-  "2022-12-06": 1281,
-  "2022-12-07": 1281,
-  "2022-12-08": 1281,
-  "2022-12-09": 1281,
-  "2022-12-10": 1281,
-  "2022-12-11": 1281,
-  "2022-12-12": 1281,
-  "2022-12-13": 1281,
-  "2022-12-14": 1281,
-  "2022-12-15": 1281,
-  "2022-12-16": 1281,
-  "2022-12-17": 1281,
-  "2022-12-18": 1280,
-  "2022-12-19": 1280,
-  "2022-12-20": 1280,
-  "2022-12-21": 1280,
-  "2022-12-22": 1280,
-  "2022-12-24": 1280,
-  "2022-12-25": 1280,
-  "2022-12-26": 1280,
-  "2022-12-27": 1279,
-  "2022-12-28": 1279,
-  "2022-12-29": 1279,
-  "2022-12-30": 1279,
-  "2022-12-31": 1279,
-  "2023-01-01": 1279,
-  "2023-01-02": 1279,
-  "2023-01-03": 1279,
-  "2023-01-04": 1279,
-  "2023-01-05": 1279,
-  "2023-01-06": 1279,
-  "2023-01-07": 1280,
-  "2023-01-08": 1280,
-  "2023-01-09": 1280,
-  "2023-01-10": 1280,
-  "2023-01-11": 1280,
-  "2023-01-12": 1280,
-  "2023-01-13": 1280,
-  "2023-01-14": 1282,
-  "2023-01-15": 1282,
-  "2023-01-16": 1281,
-  "2023-01-17": 1282,
-  "2023-01-18": 1282,
-  "2023-01-19": 1282,
-  "2023-01-20": 1283,
-  "2023-01-21": 1283,
-  "2023-01-22": 1283,
-  "2023-01-23": 1284,
-  "2023-01-24": 1284,
-  "2023-01-25": 1284,
-  "2023-01-26": 1284,
-  "2023-01-27": 1284,
-  "2023-01-28": 1284,
-  "2023-01-29": 1284,
-  "2023-01-30": 1284,
-  "2023-01-31": 1284,
-  "2023-02-01": 1284,
-  "2023-02-02": 1284,
-  "2023-02-03": 1285,
-  "2023-02-04": 1285,
-  "2023-02-05": 1287,
-  "2023-02-06": 1287,
-  "2023-02-07": 1287,
-  "2023-02-08": 1287,
-  "2023-02-09": 1287,
-  "2023-02-10": 1288,
-  "2023-02-11": 1290,
-  "2023-02-12": 1290,
-  "2023-02-13": 1290,
-  "2023-02-14": 1290,
-  "2023-02-15": 1290,
-  "2023-02-16": 1290,
-  "2023-02-17": 1290,
-  "2023-02-18": 1292,
-  "2023-02-19": 1292,
-  "2023-02-20": 1292,
-  "2023-02-21": 1292,
-  "2023-02-22": 1292,
-  "2023-02-23": 1291,
-  "2023-02-24": 1291,
-  "2023-02-25": 1291,
-  "2023-02-26": 1291,
-  "2023-02-27": 1292,
-  "2023-02-28": 1292,
-  "2023-03-01": 1291,
-  "2023-03-02": 1292,
-  "2023-03-03": 1292,
-  "2023-03-04": 1292,
-  "2023-03-05": 1292,
-  "2023-03-06": 1292,
-  "2023-03-07": 1292,
-  "2023-03-08": 1293,
-  "2023-03-09": 1294,
-  "2023-03-10": 1295,
-  "2023-03-11": 1296,
-  "2023-03-12": 1296,
-  "2023-03-13": 1297,
-  "2023-03-14": 1297,
-  "2023-03-15": 1297,
-  "2023-03-16": 1297,
-  "2023-03-17": 1297,
-  "2023-03-18": 1297,
-  "2023-03-19": 1297,
-  "2023-03-20": 1298,
-  "2023-03-21": 1298,
-  "2023-03-22": 1298,
-  "2023-03-23": 1297,
-  "2023-03-24": 1297,
-  "2023-03-25": 1297,
-  "2023-03-26": 1297,
-  "2023-03-27": 1297,
-  "2023-03-28": 1297,
-  "2023-03-29": 1297,
-  "2023-03-30": 1297,
-  "2023-03-31": 1297,
-  "2023-04-01": 1298,
-  "2023-04-02": 1298,
-  "2023-04-03": 1298,
-  "2023-04-04": 1298,
-  "2023-04-05": 1298,
-  "2023-04-06": 1298,
-  "2023-04-07": 1299,
-  "2023-04-09": 1299,
-  "2023-04-10": 1301,
-  "2023-04-11": 1301,
-  "2023-04-12": 1301,
-  "2023-04-13": 1301,
-  "2023-04-14": 1301,
-  "2023-04-15": 1301,
-  "2023-04-16": 1302,
-  "2023-04-17": 1301,
-  "2023-04-18": 1300,
-  "2023-04-19": 1300,
-  "2023-04-20": 1300,
-  "2023-04-21": 1300,
-  "2023-04-22": 1299,
-  "2023-04-23": 1299,
-  "2023-04-24": 1299,
-  "2023-04-25": 1299,
-  "2023-04-26": 1300,
-  "2023-04-27": 1299,
-  "2023-04-28": 1299,
-  "2023-04-29": 1299,
-  "2023-04-30": 1299,
-  "2023-05-01": 1299,
-  "2023-05-02": 1299,
-  "2023-05-03": 1299,
-  "2023-05-04": 1299,
-  "2023-05-05": 1299,
-  "2023-05-06": 1299,
-  "2023-05-07": 1299,
-  "2023-05-08": 1299,
-  "2023-05-09": 1299,
-  "2023-05-10": 1299,
-  "2023-05-11": 1299,
-  "2023-05-12": 1299,
-  "2023-05-13": 1299,
-  "2023-05-14": 1299,
-  "2023-05-15": 1300,
-  "2023-05-16": 1300,
-  "2023-05-17": 1299,
-  "2023-05-18": 1299,
-  "2023-05-19": 1299,
-  "2023-05-20": 1300,
-  "2023-05-21": 1300,
-  "2023-05-22": 1300,
-  "2023-05-23": 1300,
-  "2023-05-24": 1300,
-  "2023-05-25": 1300,
-  "2023-05-26": 1300,
-  "2023-05-27": 1299,
-  "2023-05-28": 1299,
-  "2023-05-29": 1299,
-  "2023-05-30": 1299,
-  "2023-05-31": 1299,
-  "2023-06-01": 1299,
-  "2023-06-02": 1299,
-  "2023-06-03": 1298,
-  "2023-06-04": 1298,
-  "2023-06-05": 1298,
-  "2023-06-06": 1298,
-  "2023-06-07": 1298,
-  "2023-06-08": 1298,
-  "2023-06-09": 1298,
-  "2023-06-10": 1299,
-  "2023-06-11": 1299,
-  "2023-06-12": 1299,
-  "2023-06-13": 1299,
-  "2023-06-14": 1299,
-  "2023-06-15": 1299,
-  "2023-06-16": 1299,
-  "2023-06-17": 1299,
-  "2023-06-18": 1299,
-  "2023-06-19": 1300,
-  "2023-06-20": 1300,
-  "2023-06-21": 1299,
-  "2023-06-22": 1299,
-  "2023-06-23": 1299,
-  "2023-06-24": 1299,
-  "2023-06-25": 1298,
-  "2023-06-26": 1298,
-  "2023-06-27": 1299,
-  "2023-06-28": 1299,
-  "2023-06-29": 1299,
-  "2023-06-30": 1300,
-  "2023-07-01": 1302,
-  "2023-07-02": 1302,
-  "2023-07-03": 1302,
-  "2023-07-04": 1301,
-  "2023-07-05": 1301,
-  "2023-07-06": 1301,
-  "2023-07-07": 1301,
-  "2023-07-08": 1301,
-  "2023-07-09": 1300,
-  "2023-07-10": 1300,
-  "2023-07-11": 1301,
-  "2023-07-12": 1301,
-  "2023-07-13": 1301,
-  "2023-07-14": 1301,
-  "2023-07-15": 1301,
-  "2023-07-16": 1301,
-  "2023-07-17": 1301,
-  "2023-07-18": 1301,
-  "2023-07-19": 1301,
-  "2023-07-20": 1301,
-  "2023-07-21": 1301,
-  "2023-07-22": 1301,
-  "2023-07-23": 1301,
-  "2023-07-24": 1300,
-  "2023-07-25": 1300,
-  "2023-07-26": 1302,
-  "2023-07-27": 1302,
-  "2023-07-28": 1303,
-  "2023-07-29": 1303,
-  "2023-07-30": 1303,
-  "2023-07-31": 1304,
-  "2023-08-01": 1304,
-  "2023-08-02": 1304,
-  "2023-08-03": 1304,
-  "2023-08-04": 1303,
-  "2023-08-05": 1303,
-  "2023-08-06": 1304,
-  "2023-08-07": 1304,
-  "2023-08-08": 1304,
-  "2023-08-09": 1304,
-  "2023-08-10": 1304,
-  "2023-08-11": 1304,
-  "2023-08-12": 1304,
-  "2023-08-13": 1304,
-  "2023-08-14": 1304,
-  "2023-08-15": 1305,
-  "2023-08-16": 1305,
-  "2023-08-17": 1305,
-  "2023-08-18": 1304,
-  "2023-08-19": 1304,
-  "2023-08-20": 1303,
-  "2023-08-21": 1303,
-  "2023-08-22": 1302,
-  "2023-08-23": 1302,
-  "2023-08-24": 1302,
-  "2023-08-25": 1302,
-  "2023-08-26": 1302,
-  "2023-08-27": 1302,
-  "2023-08-28": 1302,
-  "2023-08-29": 1302,
-  "2023-08-30": 1302,
-  "2023-08-31": 1302,
-  "2023-09-01": 1303,
-  "2023-09-02": 1303,
-  "2023-09-03": 1303,
-  "2023-09-04": 1303,
-  "2023-09-05": 1303,
-  "2023-09-06": 1303,
-  "2023-09-07": 1303,
-  "2023-09-08": 1303,
-  "2023-09-09": 1303,
-  "2023-09-10": 1303,
-  "2023-09-11": 1303,
-  "2023-09-12": 1303,
-  "2023-09-13": 1303,
-  "2023-09-14": 1303,
-  "2023-09-15": 1303,
-  "2023-09-16": 1303,
-  "2023-09-17": 1303,
-  "2023-09-18": 1303,
-  "2023-09-19": 1304,
-  "2023-09-20": 1304,
-  "2023-09-21": 1303,
-  "2023-09-22": 1304,
-  "2023-09-23": 1304,
-  "2023-09-24": 1304,
-  "2023-09-25": 1304,
-  "2023-09-26": 1304,
-  "2023-09-27": 1303,
-  "2023-09-28": 1303,
-  "2023-09-29": 1301,
-  "2023-09-30": 1301,
-  "2023-10-01": 1301,
-  "2023-10-02": 1302,
-  "2023-10-03": 1302,
-  "2023-10-04": 1302,
-  "2023-10-05": 1302,
-  "2023-10-06": 1302,
-  "2023-10-07": 1303,
-  "2023-10-08": 1303,
-  "2023-10-09": 1303,
-  "2023-10-10": 1298,
-  "2023-10-11": 1297,
-  "2023-10-12": 1297,
-  "2023-10-13": 1294,
-  "2023-10-14": 1291,
-  "2023-10-15": 1287,
-  "2023-10-16": 1287,
-  "2023-10-17": 1287,
-  "2023-10-18": 1287,
-  "2023-10-19": 1287,
-  "2023-10-20": 1287,
-  "2023-10-21": 1287,
-  "2023-10-22": 1287,
-  "2023-10-23": 1287,
-  "2023-10-24": 1287,
-  "2023-10-25": 1286,
-  "2023-10-26": 1286,
-  "2023-10-27": 1286,
-  "2023-10-28": 1286,
-  "2023-10-29": 1286,
-  "2023-10-30": 1286,
-  "2023-10-31": 1286,
-  "2023-11-01": 1286,
-  "2023-11-02": 1286,
-  "2023-11-03": 1286,
-  "2023-11-04": 1286,
-  "2023-11-05": 1286,
-  "2023-11-06": 1286,
-  "2023-11-07": 1286,
-  "2023-11-08": 1286,
-  "2023-11-09": 1286,
-  "2023-11-10": 1286,
-  "2023-11-11": 1286,
-  "2023-11-12": 1286,
-  "2023-11-13": 1287,
-  "2023-11-14": 1287,
-  "2023-11-15": 1287,
-  "2023-11-16": 1287,
-  "2023-11-17": 1287,
-  "2023-11-18": 1287,
-  "2023-11-19": 1287,
-  "2023-11-20": 1287,
-  "2023-11-21": 1287,
-  "2023-11-22": 1287,
-  "2023-11-23": 1287,
-  "2023-11-24": 1288,
-  "2023-11-25": 1288,
-  "2023-11-26": 1288,
-  "2023-11-27": 1288,
-  "2023-11-28": 1288,
-  "2023-11-29": 1287,
-  "2023-11-30": 1287,
-  "2023-12-01": 1287,
-  "2023-12-02": 1287,
-  "2023-12-03": 1287,
-  "2023-12-04": 1288,
-  "2023-12-05": 1288,
-  "2023-12-06": 1288,
-  "2023-12-07": 1288,
-  "2023-12-08": 1288,
-  "2023-12-09": 1288,
-  "2023-12-10": 1288,
-  "2023-12-11": 1288,
-  "2023-12-12": 1288,
-  "2023-12-13": 1288,
-  "2023-12-14": 1288,
-  "2023-12-15": 1287,
-  "2023-12-16": 1287,
-  "2023-12-17": 1287,
-  "2023-12-18": 1287,
-  "2023-12-19": 1288,
-  "2023-12-20": 1288,
-  "2023-12-21": 1288,
-  "2023-12-22": 1288,
-  "2023-12-23": 1288,
-  "2023-12-24": 1288,
-  "2023-12-25": 1288,
-  "2023-12-26": 1288,
-  "2023-12-27": 1288,
-  "2023-12-30": 1288,
-  "2023-12-31": 1288,
-  "2024-01-01": 1288,
-  "2024-01-02": 1288,
-  "2024-01-03": 1288
+  "2024-01-17": 1272,
+  "date_first_scraped": "2021-12-21",
+  "description": "The ultimate playlist to get you ready for a fun night out with your girlfriends.",
+  "name": "Girls Night Out",
+  "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/717UG2du6utFe7CdmpuUe3"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/69gRFGOWY9OMpFJgFol1u0"
+    },
+    {
+      "album": {
+        "name": "The Features",
+        "url": "https://open.spotify.com/album/6Ufl6MVUFELqJp0yzqhTYB"
+      },
+      "artists": [
+        {
+          "name": "Ceazer",
+          "url": "https://open.spotify.com/artist/70fopN00PwpPOAExmMXDah"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/396wvM69VtHgLZSfFB0pyH"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347062,
+      "name": "A Millie",
+      "url": "https://open.spotify.com/track/3EHaOiEcKmL5Ko62HpTITL"
+    },
+    {
+      "album": {
+        "name": "A Public Affair",
+        "url": "https://open.spotify.com/album/26PuctMKg6pHMN8TZZJaLe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201466,
+      "name": "A Public Affair",
+      "url": "https://open.spotify.com/track/2rmjrqv4T9cnweOSudH97N"
+    },
+    {
+      "album": {
+        "name": "Beautiful Girls",
+        "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "Beautiful Girls",
+      "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78200,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/4EfN6bixdOOgoLYR5C4cWo"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251440,
+      "name": "Boom Boom Pow",
+      "url": "https://open.spotify.com/track/7xRNsqOQOgWbHV1nbXnfXN"
+    },
+    {
+      "album": {
+        "name": "Kelis Was Here",
+        "url": "https://open.spotify.com/album/1roJBshfPmgUfsmBGXRKK6"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274946,
+      "name": "Bossy Featuring Too $hort (feat. Too $hort)",
+      "url": "https://open.spotify.com/track/7B9WOB9gqe9pUCzPWzay7v"
+    },
+    {
+      "album": {
+        "name": "Bottoms Up (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/3YBMdN2KXS3Zoji5eZdPwU"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "Bottoms Up - feat. Nicki Minaj",
+      "url": "https://open.spotify.com/track/66wQlabTnbK33JgWnIPQjX"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255266,
+      "name": "Can't Hold Us Down (feat. Lil' Kim)",
+      "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
+    },
+    {
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249840,
+      "name": "Dressed For Success",
+      "url": "https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ"
+    },
+    {
+      "album": {
+        "name": "Fire Burning",
+        "url": "https://open.spotify.com/album/4sdvjQDF7pQMPpvsg4mvMq"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Fire Burning",
+      "url": "https://open.spotify.com/track/7gDKfEMIhyyO4asgEXwcrs"
+    },
+    {
+      "album": {
+        "name": "Ultimate Party Album",
+        "url": "https://open.spotify.com/album/2D81Q29GjzqKUgqpqhYrgM"
+      },
+      "artists": [
+        {
+          "name": "AVID All Stars",
+          "url": "https://open.spotify.com/artist/4GGQ9sWnfMReWopmoSIJvy"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181640,
+      "name": "Girls Just Wanna Have Fun (In the style of Cyndi Lauper)",
+      "url": "https://open.spotify.com/track/3Cx9H25O6J8zbb8fdiJ63F"
+    },
+    {
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Goodies (feat. Petey Pablo)",
+      "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
+    },
+    {
+      "album": {
+        "name": "Love Angel Music Baby",
+        "url": "https://open.spotify.com/album/1HduTydfaUY3idi2YgT3mb"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/6RcQOut9fWL6FSqeIr5M1r"
+    },
+    {
+      "album": {
+        "name": "Hot Girls",
+        "url": "https://open.spotify.com/album/48waLWBTOEXIYokDzv5G76"
+      },
+      "artists": [
+        {
+          "name": "Dony & Elena",
+          "url": "https://open.spotify.com/artist/4NGnPx3G4Yacr0tBxz2FpR"
+        },
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/4aKAQkB7CbtutnsHexLuht"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221037,
+      "name": "Hot Girls",
+      "url": "https://open.spotify.com/track/2bPAXt6JTN8kN8qeUkPwIa"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4vp2J1l5RD4gMZwGFLfRAu"
+    },
+    {
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/1gWjx7YRfHyTr2ixHiPhCV"
+      },
+      "artists": [
+        {
+          "name": "Vitamin C",
+          "url": "https://open.spotify.com/artist/3OsUvoKmZA2gw8rETtxGlz"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202786,
+      "name": "I Know What Boys Like",
+      "url": "https://open.spotify.com/track/3GdtKUzbmyrptoCiuh9Se1"
+    },
+    {
+      "album": {
+        "name": "Party Rock",
+        "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
+      },
+      "artists": [
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227933,
+      "name": "I'm In Miami Bitch",
+      "url": "https://open.spotify.com/track/1vaUxfrERQIQfJ1wBTmeRE"
+    },
+    {
+      "album": {
+        "name": "The Dome Vol. 56",
+        "url": "https://open.spotify.com/album/6SX2x7xdnggAcaewlti6m5"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "The Cataracs",
+          "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Like A G6",
+      "url": "https://open.spotify.com/track/0iyOqSZBf1AqlmxOFB1Ka7"
+    },
+    {
+      "album": {
+        "name": "Raymond v Raymond",
+        "url": "https://open.spotify.com/album/4zZ80MJnva0LsHuQ1FaWmv"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234253,
+      "name": "Lil Freak",
+      "url": "https://open.spotify.com/track/3cE1S49pNoC1zIm9T4hAu2"
+    },
+    {
+      "album": {
+        "name": "Battle Of The Sexes (Deluxe)",
+        "url": "https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "My Chick Bad",
+      "url": "https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl"
+    },
+    {
+      "album": {
+        "name": "Down With The King: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/3hBYHp7pdkRywth5Qj4Su6"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202135,
+      "name": "My Goodies",
+      "url": "https://open.spotify.com/track/775K4G3sGCrwRX93AQtVin"
+    },
+    {
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg"
+    },
+    {
+      "album": {
+        "name": "No Hands (feat. Roscoe Dash & Wale)",
+        "url": "https://open.spotify.com/album/1Fh339u2pcihPVn4nw7I6J"
+      },
+      "artists": [
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "name": "Roscoe Dash",
+          "url": "https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263773,
+      "name": "No Hands (feat. Roscoe Dash & Wale)",
+      "url": "https://open.spotify.com/track/6GgPsuz0HEO0nrO2T0QhDv"
+    },
+    {
+      "album": {
+        "name": "Trap God 2",
+        "url": "https://open.spotify.com/album/3WJ1C2FifkftL1Mb9Vbzst"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239741,
+      "name": "Nothin On Ya [feat. Wiz Khalifa]",
+      "url": "https://open.spotify.com/track/3N0P7wAPKIxC2Ks3WLY0gE"
+    },
+    {
+      "album": {
+        "name": "Raymond v Raymond",
+        "url": "https://open.spotify.com/album/4zZ80MJnva0LsHuQ1FaWmv"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269493,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3r04p85xiJh9Wqk59YDYdc"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/0QavsQTrWSVs4x5vDB13qd"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "Piece of Me",
+      "url": "https://open.spotify.com/track/6o80U88BO0bRI2VRB4Giqc"
+    },
+    {
+      "album": {
+        "name": "No Boys Allowed",
+        "url": "https://open.spotify.com/album/6tSzJ3Bmw9TNej8REB8Bei"
+      },
+      "artists": [
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243920,
+      "name": "Pretty Girl Rock",
+      "url": "https://open.spotify.com/track/2rl9Ukvagkh5rZVqZLE0qO"
+    },
+    {
+      "album": {
+        "name": "This Is Not a Test!",
+        "url": "https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210706,
+      "name": "Ragtime Interlude / I'm Really Hot",
+      "url": "https://open.spotify.com/track/3yei0S35YFOEBOiKN287MW"
+    },
+    {
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf"
+      },
+      "artists": [
+        {
+          "name": "Iyaz",
+          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182306,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ"
+    },
+    {
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/2bELFHKEF8yIDHMelNab2p"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2013-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/3XSczvk4MRteOw4Yx3lqMU"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/7cvVgT5RXbcUo9Qw4nq31D"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/7EdEUnekGCkChJzJyGp6TB"
+    },
+    {
+      "album": {
+        "name": "Party Rock",
+        "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
+      },
+      "artists": [
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "Scream My Name",
+      "url": "https://open.spotify.com/track/2tok19xM2tiPffZtllhPdC"
+    },
+    {
+      "album": {
+        "name": "Total Club Hits Vol. 2",
+        "url": "https://open.spotify.com/album/3lHdTRli2g8i9gQ9NUDJRr"
+      },
+      "artists": [
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        },
+        {
+          "name": "Yung Berg",
+          "url": "https://open.spotify.com/artist/0BrPKSAeplwezYR1T2DF9s"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "Sexy Can I",
+      "url": "https://open.spotify.com/track/78c3IFOZdqCvelTH65zA0g"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6wtS79TsATz44E2tGWb10Z"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214200,
+      "name": "She Wants To Move",
+      "url": "https://open.spotify.com/track/4ZU17d7AlHId9Xg7mhiXZ0"
+    },
+    {
+      "album": {
+        "name": "Shes Like A Star",
+        "url": "https://open.spotify.com/album/4CpIpJ6okwI6ayAeVLv4tg"
+      },
+      "artists": [
+        {
+          "name": "K.R",
+          "url": "https://open.spotify.com/artist/4BK8fPNOt9mYWoXLC6yqoM"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218070,
+      "name": "Shes Like A Star",
+      "url": "https://open.spotify.com/track/7bWxYPlAblnTAzUdphcZTU"
+    },
+    {
+      "album": {
+        "name": "Single Ladies (Put A Ring On It) - Dance Remixes",
+        "url": "https://open.spotify.com/album/4zOrfDLtKoYFeUAc00lLCT"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/4za3cYXGP5ucaA6LqWMPad"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits...So Far!!!",
+        "url": "https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7bprRkhvOXWmWpqOrEWbXu"
+    },
+    {
+      "album": {
+        "name": "Some Kinda Rush '09 Italian Remixes",
+        "url": "https://open.spotify.com/album/2zX17M25jpCc6VVUVdhSra"
+      },
+      "artists": [
+        {
+          "name": "Booty Luv",
+          "url": "https://open.spotify.com/artist/1RtyP3Yk376oIq4dB7VMzC"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Some Kinda Rush - Brizi & Delexy vs. Moko & Vignaroli-Pop Version",
+      "url": "https://open.spotify.com/track/7HIijzPfsQFhgnIRP3B94f"
+    },
+    {
+      "album": {
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/2RfF6dGpYIN5u1mNkfG8Pb"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200013,
+      "name": "Super Bass",
+      "url": "https://open.spotify.com/track/7gKIt3rDGIMJDFVSPBnGmj"
+    },
+    {
+      "album": {
+        "name": "Clueless / Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3OrviLrUARxsTuGdWdQTMh"
+      },
+      "artists": [
+        {
+          "name": "Jill Sobule",
+          "url": "https://open.spotify.com/artist/16BoY9HfrtxVodHVdgad07"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Supermodel",
+      "url": "https://open.spotify.com/track/4lHaUgqumnhiqLPwoG4MND"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Talk That Talk",
+      "url": "https://open.spotify.com/track/57mKcbEq7nMqtJ4gqJvWcp"
+    },
+    {
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/6J2gdtYbr1hscPqWIzYwJL"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/272tAnzFfLkGSdCu0kWQqG"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4fTmCslafKKPWzW3PJt5Kx"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Sweet Rush",
+          "url": "https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/1RDE16ZNwh36xlMiHHwOXa"
+    },
+    {
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/5kcwxjSYHuuafWqUflsSsu"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Turn It Up (feat. Usher)",
+      "url": "https://open.spotify.com/track/2aupzXVfgAkI4nnVR8dDMe"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera",
+        "url": "https://open.spotify.com/album/0VtMlmn7rAcWwxS3QOJo2h"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "What a Girl Wants",
+      "url": "https://open.spotify.com/track/2iIg5LCp81QGEpnAFDT8V4"
+    },
+    {
+      "album": {
+        "name": "Animal + Cannibal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4HD4hyCi2n5gc5yyRVnirU"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2014-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187066,
+      "name": "Your Love Is My Drug",
+      "url": "https://open.spotify.com/track/6sePPH7boWyJDI8spzwfBJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/1Bxi8UJlVM7tLYDMOqsYYF"
 }

@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Redferrin
+> Country gone wild! You never know what you're gonna get\. Cover: Niko Moon
 
-420 songs - 21 hr 5 min
+423 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-02-26 |
 | [Clap Yo Hands](https://open.spotify.com/track/6WlHPRxpne0cErVCU25HzX) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Nitty Gritty GR](https://open.spotify.com/artist/2Tu8PgOyqyGH8gZOv0Ad6N), [Pa Pa Fresh](https://open.spotify.com/artist/7dTFs3fSoiqGplr38RXRHY) | [Clap Yo Hands](https://open.spotify.com/album/3KPy05qSIUBKoo7Rcs7e8S) | 2:41 | 2022-10-14 | 2023-01-04 |
 | [Closer To Over You](https://open.spotify.com/track/00N5SEfWH4b3aQhVDGVv7M) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Closer To Over You](https://open.spotify.com/album/4fwr9LJHJXugyFeFVxzwVB) | 3:23 | 2021-12-10 | 2023-01-04 |
+| [Cobain](https://open.spotify.com/track/5QCEu7LvgqZwQW1UbkLBYj) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j), [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Cobain](https://open.spotify.com/album/0PnNVejKg9bbz5uBi41K2A) | 2:17 | 2024-01-12 |  |
 | [COLD HEART](https://open.spotify.com/track/2w4Z0WNlMwhrccnAhy4dFg) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [COLD HEART](https://open.spotify.com/album/5ZHuvg6Hz5VVEFhUMa3oAT) | 3:00 | 2022-02-11 | 2022-06-11 |
 | [Cold Hearted](https://open.spotify.com/track/4CqCfVF7Zvr3HIt8nr1P98) | [Sunset West](https://open.spotify.com/artist/6OFn7TgXCd9qdn2lMUX7T6) | [Cold Hearted](https://open.spotify.com/album/2ZHErtnhlEJrgfDlyQZH8w) | 3:42 | 2022-08-19 | 2023-02-02 |
 | [Colorado Boulder](https://open.spotify.com/track/415cidxCKnjZg9l7dAnVJp) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Colorado Boulder](https://open.spotify.com/album/5hF6qsppuOKFRmgeCKwj2T) | 2:43 | 2022-02-25 |  |
@@ -114,7 +115,7 @@
 | [Delorean](https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:39 | 2022-01-21 |  |
 | [Depression](https://open.spotify.com/track/0yxPUMQsHJXThYjYMoIJU5) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Depression](https://open.spotify.com/album/6O8efloF476sH5FzVzLYSw) | 4:09 | 2022-10-21 |  |
 | [DiCaprio](https://open.spotify.com/track/230mQ7KfcuqKWuxg63gd9m) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [DiCaprio](https://open.spotify.com/album/1KyFMUwcZZVKQuxgoeuLYM) | 3:06 | 2023-09-01 |  |
-| [Die A Redneck](https://open.spotify.com/track/10XXGAiyvIw44pztev49XJ) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Die A Redneck](https://open.spotify.com/album/6bGSdECWT9XLnvxKQwk3XO) | 3:25 | 2023-09-01 |  |
+| [Die A Redneck](https://open.spotify.com/track/10XXGAiyvIw44pztev49XJ) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Die A Redneck](https://open.spotify.com/album/6bGSdECWT9XLnvxKQwk3XO) | 3:25 | 2023-09-01 | 2024-01-05 |
 | [Different Man](https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:55 | 2022-09-09 |  |
 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 | 2022-03-25 |  |
 | [Dive Bar](https://open.spotify.com/track/7Es3jo5w8VMQai8U9U0pO2) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Dive Bar](https://open.spotify.com/album/4vzsVvIlOfhkH3Ka6QkfXi) | 3:15 | 2023-11-17 |  |
@@ -157,6 +158,7 @@
 | [Good Love](https://open.spotify.com/track/7awWHJGz3y1Ttvf4ugslKb) | [Matt Freedman](https://open.spotify.com/artist/5umTrwJc1kCpROdrQUQkNK) | [Good Love](https://open.spotify.com/album/6PCSw31b7LaKVYEOydUIXC) | 2:35 | 2021-12-10 | 2023-02-02 |
 | [Good Riddance](https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [Good Riddance](https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz) | 2:22 | 2022-09-01 | 2023-09-30 |
 | [Good Vibes Only](https://open.spotify.com/track/3Xnf9l8bZHtXxQf0CajdXh) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [The Colonel](https://open.spotify.com/album/0lHlQncYmvSo7TujyIz7ZQ) | 2:37 | 2021-12-10 | 2022-02-26 |
+| [Good With Me](https://open.spotify.com/track/47EkFFYRTlgatkXS0gg5FZ) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Good With Me](https://open.spotify.com/album/4MOXUKrGGMuokVxovC7wQL) | 2:26 | 2024-01-05 |  |
 | [goodbye looks good on you \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/2otAb5kIGdZzJCqcUHNztT) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 2:51 | 2023-10-06 |  |
 | [goodbye looks good on you \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/4K3tnAfDLPZPvc3lzsrjoq) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING: Messing It Up](https://open.spotify.com/album/1Uyc48o6p2Dv1RfyZYztFS) | 2:51 | 2023-09-01 | 2023-10-13 |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 |  |
@@ -380,6 +382,7 @@
 | [Trust Issues](https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Trust Issues](https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt) | 3:23 | 2022-02-25 | 2023-09-30 |
 | [Turn Up the Night](https://open.spotify.com/track/5OZQEBXuSyDndyhLSmfsO4) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Turn Up the Night](https://open.spotify.com/album/4567kBWJTp2BWkwczE46fy) | 3:18 | 2021-12-10 | 2022-06-11 |
 | [Turnt](https://open.spotify.com/track/6bwRDyna9lHRw5NOBWlsXh) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Turnt](https://open.spotify.com/album/10S4Tsq1IkFSHkYvSOSloH) | 3:39 | 2021-12-10 | 2023-01-04 |
+| [Twenty One](https://open.spotify.com/track/37GplPmP2JCLifXt9YXVv2) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [Jeb Bundy](https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6) | [Twenty One](https://open.spotify.com/album/4D8JP6VGjKOpdKt7U8A7lm) | 2:30 | 2024-01-12 |  |
 | [U\-Turn](https://open.spotify.com/track/3yfMEOxldOvo9MvxuEQ7Mn) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [U\-Turn](https://open.spotify.com/album/7yHtirGfEgRNGV0YB3FctW) | 3:11 | 2021-12-10 | 2022-09-24 |
 | [Unlonely Me](https://open.spotify.com/track/1yUHlqsVLvrPEKXMB0prDe) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Unlonely Me](https://open.spotify.com/album/6OK35UjN0ggzzNAfsEE09I) | 2:31 | 2021-12-10 | 2023-01-04 |
 | [Us Someday](https://open.spotify.com/track/5QcjrDZhf8zvP6XV6EGOkE) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Us Someday](https://open.spotify.com/album/1tvoTjB0E2KJiy41J6owIr) | 2:23 | 2022-02-11 | 2023-01-04 |

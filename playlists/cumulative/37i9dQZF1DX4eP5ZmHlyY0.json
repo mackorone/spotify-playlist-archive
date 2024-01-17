@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: Number_i",
+  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: JO1",
   "name": "Boys Group Japan",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 264533,
       "name": "15\u5206",
       "url": "https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": "2024-01-16",
       "duration_ms": 211078,
       "name": "Awakening Light",
       "url": "https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl"
@@ -52,10 +52,46 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 203695,
       "name": "Black Out (JO1 ver.)",
       "url": "https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE"
+    },
+    {
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5ftyQK0K0vdQQVNmBwclCN"
+      },
+      "artists": [
+        {
+          "name": "BLVCKBERRY",
+          "url": "https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294272,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/3uG3PENb4Nc6VQH9LiFF6A"
+    },
+    {
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/7eZmGoLIs9KAN0BVDZ10TL"
+      },
+      "artists": [
+        {
+          "name": "BLVCKBERRY",
+          "url": "https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 294272,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/6E2DnY89XkXIs3rFYyZF8k"
     },
     {
       "album": {
@@ -74,6 +110,24 @@
       "duration_ms": 188400,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
+    },
+    {
+      "album": {
+        "name": "BREMEN",
+        "url": "https://open.spotify.com/album/7wYlDlMNbNRnyxhGzF660D"
+      },
+      "artists": [
+        {
+          "name": "OWV",
+          "url": "https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228759,
+      "name": "BREMEN",
+      "url": "https://open.spotify.com/track/2INxMYYnLdxmB16I45lB4E"
     },
     {
       "album": {
@@ -106,7 +160,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 218800,
       "name": "Calendar",
       "url": "https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu"
@@ -178,7 +232,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 201899,
       "name": "Clutch",
       "url": "https://open.spotify.com/track/1LQy1Fyid5ewuTgDb0MFJx"
@@ -232,7 +286,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 302268,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh"
@@ -286,7 +340,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 211000,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/7BHFfKeKQuY7XfYi2DjO9E"
@@ -380,7 +434,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": "2024-01-17",
       "duration_ms": 171000,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y"
@@ -420,10 +474,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 188013,
       "name": "FIREWORK",
       "url": "https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2"
+      },
+      "artists": [
+        {
+          "name": "MADKID",
+          "url": "https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr"
     },
     {
       "album": {
@@ -510,7 +582,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 188666,
       "name": "Hapidan",
       "url": "https://open.spotify.com/track/76WBsSpMMB0UPnLNkQ3SGc"
@@ -679,6 +751,24 @@
     },
     {
       "album": {
+        "name": "MORNING SUN",
+        "url": "https://open.spotify.com/album/7fii6VfmYoLZAPLvvArvgh"
+      },
+      "artists": [
+        {
+          "name": "EXILE B HAPPY",
+          "url": "https://open.spotify.com/artist/5Vjo1ziwxQtYiup9JGlN9A"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220293,
+      "name": "MORNING SUN",
+      "url": "https://open.spotify.com/track/4BTc4b3BoVPoHKys65v8kQ"
+    },
+    {
+      "album": {
         "name": "Moving Pieces",
         "url": "https://open.spotify.com/album/4IeJCO4rFxksf0Wcxc0bmR"
       },
@@ -708,7 +798,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 201433,
       "name": "Museum:0",
       "url": "https://open.spotify.com/track/7iXhqF9wwmi2wi5F6fvx5G"
@@ -769,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Let's Standing Show",
+        "url": "https://open.spotify.com/album/0v4hD3V0e9f9maj8EIlecH"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR-L.S.S.",
+          "url": "https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "NEW ROAD",
+      "url": "https://open.spotify.com/track/6SV2IgRFdjK4I2BLT8dOkt"
+    },
+    {
+      "album": {
         "name": "NEW STAR",
         "url": "https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw"
       },
@@ -816,7 +924,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 201755,
       "name": "NEWSmile",
       "url": "https://open.spotify.com/track/2CXVVWFqthDQ4GEEc8tUPJ"
@@ -892,7 +1000,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 222224,
       "name": "PHOTOGENIC",
       "url": "https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU"
@@ -1072,7 +1180,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 224320,
       "name": "SIN",
       "url": "https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI"
@@ -1144,7 +1252,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 176120,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta"
@@ -1188,7 +1296,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 213429,
       "name": "Stage of the Universe",
       "url": "https://open.spotify.com/track/1fICTXN9i47EpvMKvVDILq"
@@ -1210,6 +1318,24 @@
       "duration_ms": 208500,
       "name": "STARBOYS",
       "url": "https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR"
+    },
+    {
+      "album": {
+        "name": "STARRY LOVE",
+        "url": "https://open.spotify.com/album/27rELiARZxybADb2rbTEli"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306466,
+      "name": "STARRY LOVE",
+      "url": "https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq"
     },
     {
       "album": {
@@ -1372,7 +1498,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 218746,
       "name": "Whatcha Gonna Do",
       "url": "https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw"
@@ -1397,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Winter Land",
+        "url": "https://open.spotify.com/album/7CupjRrWsAHmvvz4Fowsm6"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200626,
+      "name": "Winter Land",
+      "url": "https://open.spotify.com/track/2gYrufmaPpk9M3kR1uctuK"
+    },
+    {
+      "album": {
         "name": "beyond the GENERATIONS",
         "url": "https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X"
       },
@@ -1412,6 +1556,24 @@
       "duration_ms": 268000,
       "name": "Winter Wish",
       "url": "https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy"
+    },
+    {
+      "album": {
+        "name": "Your Key",
+        "url": "https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208617,
+      "name": "Your Key",
+      "url": "https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH"
     },
     {
       "album": {
@@ -1484,6 +1646,24 @@
       "duration_ms": 227662,
       "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
       "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30ea\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/3504vkmyPbeVuZaSky7Q3b"
+      },
+      "artists": [
+        {
+          "name": "\u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002",
+          "url": "https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183966,
+      "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30ea\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi"
     },
     {
       "album": {

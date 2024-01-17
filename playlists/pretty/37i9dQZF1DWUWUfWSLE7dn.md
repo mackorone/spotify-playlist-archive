@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,788 likes - 52 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,890 likes - 52 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 51 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 |
 | 52 | [The Grey Havens](https://open.spotify.com/track/2Slmu6R8mf90wskb1xk6aB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:18 |
 
-Snapshot ID: `MCw0MjU3NWI4MWM1YWIwYTAyOTZiNDRjNTY2ZDhkMGM5N2FiZmEzMWJi`
+Snapshot ID: `MCwwOTBmMzA4ODg0YmY0OTRlZDQ4ZTlkYWEzYWNlZjJlNGI2YTQxNDE0`

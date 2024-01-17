@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il sogno di ogni zanza si \u00e8 avverato: \ud835\udc7b\ud835\udc96 \ud835\udc75\ud835\udc90\ud835\udc8f \ud835\udc7a\ud835\udc86\ud835\udc8a \ud835\udc73\ud835\udc86\ud835\udc8a",
+  "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tedua",
   "name": "Arsenico ",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 227040,
       "name": "Amore Infame",
       "url": "https://open.spotify.com/track/3BA7IJE5SDqNnz7Mq5KLYK"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 184413,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 165906,
       "name": "Lovebars",
       "url": "https://open.spotify.com/track/6O7pAOsUm3d9R37vYdQnG5"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 133363,
       "name": "Madame",
       "url": "https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5"
@@ -2086,6 +2086,32 @@
     {
       "album": {
         "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251320,
+      "name": "Parole Vuote (La Solitudine)",
+      "url": "https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u"
       },
       "artists": [
@@ -2104,7 +2130,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 251320,
       "name": "Parole Vuote (La Solitudine)",
       "url": "https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh"
@@ -2344,7 +2370,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 272973,
       "name": "Rose Nere",
       "url": "https://open.spotify.com/track/1PhB6n0TlYLSHn29v2vDXC"
@@ -2692,7 +2718,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 163624,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB"
@@ -2772,7 +2798,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 180062,
       "name": "Topless",
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
@@ -2808,10 +2834,28 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 246186,
       "name": "Torner\u00f2 Da Re",
       "url": "https://open.spotify.com/track/4zTDDr4gwZ3UP8lyLER3ft"
+    },
+    {
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179879,
+      "name": "Tu Non Sei Lei",
+      "url": "https://open.spotify.com/track/4KePlRbM1bdY6LIKH8kURb"
     },
     {
       "album": {

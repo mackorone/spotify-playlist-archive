@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,217 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,676 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 6 | [Noble Metals](https://open.spotify.com/track/5Yy17GXyBXDe1W01tXRu8H) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Jaguar Sound](https://open.spotify.com/album/0G4ZUqUhs6LMEiZ6ADc6bX) | 3:32 |
 | 7 | [No Time For Dreaming \- Instrumental](https://open.spotify.com/track/5S4eqUfWSOIk4DMzgTwfuU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/7eAYCzrJin96tMT4SPumyo) | 2:54 |
 | 8 | [Give Thanks Instro \(Instrumental\)](https://open.spotify.com/track/1tJ0cJiI2hSY05InPQc93p) | [Kero One](https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1) | [Windmills of the Soul Instrumentals](https://open.spotify.com/album/21J9q0qN5O76XkGVUQLsM9) | 4:36 |
-| 9 | [Watch Baby](https://open.spotify.com/track/6hg7Re7Eu6MfAd33G6KOKa) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/0bLCkwjclcyYzC7CxTXnFa) | 2:21 |
+| 9 | [Watch Baby](https://open.spotify.com/track/30GVvvMmR1JYmlfRM29DvV) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/372Eb8Moh2dOzwo0UbzQhm) | 2:21 |
 | 10 | [White Crayon](https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/3DPTrgC3Ee2cZN6lUGWdaq) | 4:31 |
 | 11 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 |
 | 12 | [The Traitor](https://open.spotify.com/track/4hVGW01fTaqMbYXJyA8YWn) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC) | 2:42 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 14 | [Destination](https://open.spotify.com/track/3Yw5a8qoFLRI6syccll9av) | [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Destination](https://open.spotify.com/album/0tvnTrH77t7WwR59Ww6PP2) | 4:42 |
 | 15 | [Rebirth of Cool](https://open.spotify.com/track/4aNsaULjrRRMUPXP9IcDEa) | [DJ Cam Quartet](https://open.spotify.com/artist/0DkOD427BCfr11yQVvfqU9) | [Rebirth of Cool](https://open.spotify.com/album/4Qs2QGM0QfiQnnQwc032Z1) | 4:59 |
 | 16 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
-| 17 | [Muy Tranquilo](https://open.spotify.com/track/6O7qFEXmLQcOsV37wrgJDz) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB3](https://open.spotify.com/album/6zRPOKKIiUEQPGYnLoavVj) | 3:53 |
+| 17 | [Muy Tranquilo](https://open.spotify.com/track/3aCkU7zRK9YtA9KyoTIqnb) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB3](https://open.spotify.com/album/6j2Wx4RkUxeD4HsB64fwjt) | 3:53 |
 | 18 | [I Still Got It \(Instrumental\)](https://open.spotify.com/track/1Fq9IQT0vGQrCQ0DsQtQuz) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Faithful Man \(Instrumentals\)](https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG) | 3:36 |
 | 19 | [Ladies \(Instrumental\)](https://open.spotify.com/track/1SGQDxceZAPK4IWffYCw8c) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World \(Instrumentals\)](https://open.spotify.com/album/3SFxXvZr27fS5fpOWPckrI) | 4:17 |
 | 20 | [Cream On Chrome](https://open.spotify.com/track/0yzfkTH0QKIAYVeTex1NKJ) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Magnifique](https://open.spotify.com/album/5bFeGIVw5pGnLamK7eVSef) | 4:15 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 31 | [Runnin' \- Extended](https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2) | [Visioneers](https://open.spotify.com/artist/1PjrwJuTm8jNItVJ1GDrrD) | [Marc Mac presents Visioneers \- Dirty Old Hip Hop](https://open.spotify.com/album/7ytasfSaRrQtKyjkiiYibW) | 4:06 |
 | 32 | [The World \(Is Going Up in Flames\) \- Instrumental](https://open.spotify.com/track/1svVkDlWJxvHHWxervwVwl) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/7eAYCzrJin96tMT4SPumyo) | 3:23 |
 | 33 | [You Wish](https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 3:29 |
-| 34 | [The Anthem \(Instrumental\)](https://open.spotify.com/track/39WiivO5yDqfhHFXsREqCE) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Coffee Shop Selection](https://open.spotify.com/album/2Du6CyEJh7uk7nfiGATB1r) | 3:00 |
+| 34 | [The Anthem \- Instrumental](https://open.spotify.com/track/5nIM5EBgxVgRmihw9WDrgV) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Coffee Shop Selection](https://open.spotify.com/album/5bDIsljjV1bLzZzFPV2nFz) | 3:00 |
 | 35 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 |
 | 36 | [Barfly \- Slo\-Fi Mix](https://open.spotify.com/track/6Cq5rm1CEQcXV1bWXmL8Vq) | [Alex Cortiz](https://open.spotify.com/artist/484XUhtQMjzHZhvU0FrjCX) | [Barfly \(Remixes\)](https://open.spotify.com/album/5quziiwWuBP5sIPMqthYgm) | 5:30 |
 | 37 | [Yeti, Set, Go](https://open.spotify.com/track/6BaQQK0ICJFPECwhUDkCZC) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Man From The Future](https://open.spotify.com/album/2eEieeGRF7ra1277V8buvn) | 5:20 |

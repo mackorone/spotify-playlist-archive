@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©2023「劇場版 SPY×FAMILY」製作委員会　©遠藤達哉／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,582 likes - 67 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,497 likes - 67 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 66 | [Find the ingredients!](https://open.spotify.com/track/6E8fLOminxclTsJ3LYPCfm) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY CODE: White \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg) | 2:11 |
 | 67 | [Snow Smoke](https://open.spotify.com/track/1vO7qAzy2xMAqDXYa7KcgT) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY CODE: White \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg) | 2:03 |
 
-Snapshot ID: `MCw5MGEyMTk5NzY5ZDRiOGI0MGRiMzU4NjhhZTU4ODFkNjc4NTk5ZTky`
+Snapshot ID: `MCw2MjRhYzA1YmM5YTEwNzBlZTU4ZTgyOTE1NDYyNzRlZjcxYWYxOTk5`

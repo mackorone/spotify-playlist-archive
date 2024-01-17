@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > Meet the lineup of HIPHOPPLAYA FESTIVAL 2023, the largest outdoor hip\-hop festival in Korea! \(한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2023의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,086 likes - 26 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,233 likes - 26 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

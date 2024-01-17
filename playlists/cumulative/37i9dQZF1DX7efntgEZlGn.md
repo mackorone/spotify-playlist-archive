@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-65 songs - 3 hr 52 min
+66 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [I Believe](https://open.spotify.com/track/6aDDgd5crYJ0OQPdq3TUmQ) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [I Believe](https://open.spotify.com/album/3omHcm5ucQJ26WUjdoF9DA) | 4:07 | 2022-04-13 |  |
 | [Ipo Siku Remix](https://open.spotify.com/track/0HBD0KvuD49oRoBmqMNxu9) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku Remix](https://open.spotify.com/album/0fUXgCbVaU1Qysy6B6nH9C) | 4:13 | 2022-04-13 |  |
 | [Ipo Siku Remix](https://open.spotify.com/track/70MBx9XPb9qib4iXbezNnl) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku Remix](https://open.spotify.com/album/5xXmXsgHB2Aj7s0SN1Fg9l) | 4:13 | 2022-04-13 | 2022-11-12 |
-| [Jirani Yangu](https://open.spotify.com/track/2fnXwytCokjzrd1S5EgxP1) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Jirani Yangu](https://open.spotify.com/album/54PH3Kh5DpoE0zOJIODMke) | 3:02 | 2022-04-13 |  |
+| [Jirani Yangu](https://open.spotify.com/track/2fnXwytCokjzrd1S5EgxP1) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Jirani Yangu](https://open.spotify.com/album/54PH3Kh5DpoE0zOJIODMke) | 3:02 | 2022-04-13 | 2024-01-08 |
+| [Jirani Yangu](https://open.spotify.com/track/5ssNZTVFgpT5z058zUtmcA) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Jirani Yangu](https://open.spotify.com/album/2UnScWHFQuZSELZ5nWMpAc) | 3:02 | 2023-10-12 |  |
 | [Kanyaga Lami \- Based on the verse Psalms 119:105](https://open.spotify.com/track/4sAkd1zhj9luj4Jn00IKze) | [Timeless Noel](https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE), [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU) | [Kanyaga Lami \(Based on the verse Psalms 119:105\)](https://open.spotify.com/album/1evUn3qTNUiY06RANg0Djr) | 3:12 | 2022-04-13 |  |
 | [Kesho](https://open.spotify.com/track/0TCgBgpoXiTiXC6dLrjzqZ) | [Phil Kimemia](https://open.spotify.com/artist/4r3O40RWed6CmE6XY51PRB), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Kesho](https://open.spotify.com/album/4sylMukFQrAHtmk9a6h3e9) | 2:52 | 2023-02-06 |  |
 | [Kingdom Choir](https://open.spotify.com/track/1sFfVH2LOKkI0f2s6pV4dh) | [Jfam](https://open.spotify.com/artist/7IzrPz6N96D0Hu8QsnfAya), [Moodkai](https://open.spotify.com/artist/5fDrroPhERu1w9tkKVbG2d), [Davy Noty](https://open.spotify.com/artist/0Evb0Rducxsch65j5KJ1Iv), [Dj Ruff](https://open.spotify.com/artist/3dqEUMduRYEmtMa8IoOStr) | [Kingdom Choir](https://open.spotify.com/album/5lKTag6OC0bAxAqPIHOMnt) | 3:32 | 2022-04-13 |  |

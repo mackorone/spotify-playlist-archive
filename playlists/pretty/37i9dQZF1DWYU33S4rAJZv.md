@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,440 likes - 108 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,873 likes - 108 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 | 88 | [The Little Drummer Boy](https://open.spotify.com/track/4rJLWRjJvtMlXatjjzaEAr) | [Rudy Snow](https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg) | [Feliz Navidad](https://open.spotify.com/album/0OYWQmZW2kvyBeQ5ANypyK) | 2:38 |
 | 89 | [The Holidays Are Here](https://open.spotify.com/track/1sxZxwg3pn1SOPaUhZK846) | [Jay Jennings](https://open.spotify.com/artist/6nxw7WTVkgzfF8PbpuV9ye), [Sonny Rhodes](https://open.spotify.com/artist/5Uo1FOafMxjai5OwykDT84) | [Big Band Christmas](https://open.spotify.com/album/2fgg15krhY2gYYmGSULfLE) | 3:16 |
 | 90 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 |
-| 91 | [Santa Claus Blues \- 2004 \- Remaster](https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/4S6Mb14EIOM4aIrBf3i9x3) | 5:46 |
+| 91 | [Santa Claus Blues \- Remastered 2004](https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/4S6Mb14EIOM4aIrBf3i9x3) | 5:46 |
 | 92 | [Santa's Way Home](https://open.spotify.com/track/1UCAVkeC3iShW7B2uoK39C) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Santa's Way Home](https://open.spotify.com/album/4xq5dmKLHqupgbLvrAeYyY) | 3:05 |
 | 93 | [Mary's Little Boy Chile](https://open.spotify.com/track/0BACegn5nclNujCceDB8ce) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 2:29 |
 | 94 | [Do they know it´s christmas](https://open.spotify.com/track/1lGMG6AfhYk7eT0k8At52N) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Do they know it´s christmas](https://open.spotify.com/album/47PMYSQyfKGQeYwLpiu1su) | 3:04 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 | 107 | [Jolly Holiday](https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Jolly Holiday](https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN) | 3:18 |
 | 108 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
 
-Snapshot ID: `MCw0NjlhMmIwM2ZmYmE1NTY2MzdmMmQ3MjVjZmM2MzY5NmUzMDVmOGQ4`
+Snapshot ID: `MCw4NmIxMDcyZDhiMDE0Zjc5MzIzMTBkMTJhOWJlYzRlMTY2ZWM0MDg2`

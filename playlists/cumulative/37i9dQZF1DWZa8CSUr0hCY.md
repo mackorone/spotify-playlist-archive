@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-216 songs - 9 hr 41 min
+217 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Meteorites](https://open.spotify.com/track/7JtKDBS4maj80mW1HuFssc) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Sea of Stars](https://open.spotify.com/album/7jl0owgDzhTW0EW1IYZwbO) | 3:03 | 2022-08-30 |  |
 | [Mirage](https://open.spotify.com/track/2JYtJ9QBDZYUfzNVwtpJXd) | [leaf beach](https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh) | [Hip Dozer, Vol\. 4](https://open.spotify.com/album/2iusiYOu2LBcsJQK8Vn1wG) | 2:19 | 2022-04-28 | 2022-08-31 |
 | [Monday](https://open.spotify.com/track/4DBUv3NPLsSBSsD4bw6Svb) | [beatthump](https://open.spotify.com/artist/21LyMe2qaxBJYvdcOLyCBb) | [Monday](https://open.spotify.com/album/3fO79St3Wd1NtduoK9Tlno) | 2:37 | 2022-08-30 | 2023-12-02 |
-| [Monday Blues](https://open.spotify.com/track/3zB9poibhdiyIGVR9BSzXm) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Monday Blues](https://open.spotify.com/album/3iAUMuvg6ibcOflIoI0K8M) | 2:14 | 2022-08-30 |  |
+| [Monday Blues](https://open.spotify.com/track/3zB9poibhdiyIGVR9BSzXm) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Monday Blues](https://open.spotify.com/album/3iAUMuvg6ibcOflIoI0K8M) | 2:14 | 2022-08-30 | 2024-01-12 |
 | [Nevergreen](https://open.spotify.com/track/0PC5KYZpygPcpeq063k4Kj) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:35 | 2022-04-28 | 2022-08-31 |
 | [Nevergreen](https://open.spotify.com/track/6DsGpDGIDRv8EFGgW10T1p) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:35 | 2020-10-20\* | 2022-07-29 |
 | [Night Train](https://open.spotify.com/track/19NEtiVWvwEdD3USeNQFLF) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [Night Train](https://open.spotify.com/album/2hX4sMSxgpL7McXdZURzZj) | 2:35 | 2021-03-14 | 2022-08-31 |
@@ -200,6 +200,7 @@
 | [Tokyo memories](https://open.spotify.com/track/1CTmCRw7nadyvJdUF9M65d) | [yoshio.](https://open.spotify.com/artist/7vsHpjrVJSGYK17KnLu6cy), [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [yoshinori takezawa](https://open.spotify.com/artist/0DtSFAYXpepz39MyKktbMD) | [Tokyo memories](https://open.spotify.com/album/0sPHP6DVAvRwUGkj1nc40S) | 2:41 | 2022-08-30 |  |
 | [Tonde Iru Tori](https://open.spotify.com/track/6aWOKxYd6UCWjvTX9duJ3Q) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Tonde Iru Tori](https://open.spotify.com/album/5HRlqqokcT52PFQDKxV3U9) | 1:47 | 2022-08-30 |  |
 | [Try Again](https://open.spotify.com/track/1rVmk8oSQNPor1w1M0RIh9) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Try Again](https://open.spotify.com/album/4JzjXnumWReclbjE75OBhr) | 2:58 | 2022-08-30 |  |
+| [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 | 2024-01-11 |  |
 | [Twilight's Edge](https://open.spotify.com/track/6OgD2AznmwWMGgVp0c7rCN) | [Frxnco](https://open.spotify.com/artist/6f2DdebsssQVGHM2HPZQi0) | [Twilight's Edge](https://open.spotify.com/album/6Mjlv9RtHm6C6X5wLTQFhA) | 2:18 | 2022-08-30 |  |
 | [Tôzen](https://open.spotify.com/track/0w4cAGIHjWLypKaMFm6xL2) | [Gyvus](https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn) | [Tôzen](https://open.spotify.com/album/5NvRDbnWpvGiUt0JlFtK8j) | 2:50 | 2020-10-20\* | 2022-07-29 |
 | [Tôzen](https://open.spotify.com/track/49dMaSOrSJT6WToa3RgWlR) | [Gyvus](https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn) | [Tôzen](https://open.spotify.com/album/6vqPKc2SexuZeaIer7TSbk) | 2:50 | 2022-04-28 | 2022-08-31 |

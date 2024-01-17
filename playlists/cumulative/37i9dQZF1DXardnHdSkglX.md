@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-233 songs - 13 hr 51 min
+234 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bad Habits](https://open.spotify.com/track/5bFy4AS0cdJD2g3pJc0YSX) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y), [Natalie Renoir](https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87) | [Bad Habits](https://open.spotify.com/album/3etaCNOQTjjs4tFrm4A9zv) | 3:27 | 2023-04-20 |  |
 | [Beat It](https://open.spotify.com/track/6UWQ9q6gNZC8AQh3otkUFa) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV), [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 3:54 | 2021-12-09 | 2023-05-13 |
 | [Beautiful Girls \- Bossa Nova](https://open.spotify.com/track/3AVxDlk6ZEkqYTFZ4lxGzr) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Beautiful Girls \(Bossa Nova\)](https://open.spotify.com/album/3sTeLngydHmUMDr1mok0n0) | 3:59 | 2021-12-09 |  |
+| [Best Day of my life](https://open.spotify.com/track/4wtrK6RBsunXTxiKJqg1y8) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [Best Day of my life](https://open.spotify.com/album/6EIR0cybgt68aCZtVDoMlr) | 2:16 | 2024-01-12 |  |
 | [Big Girls Don't Cry \- Bossanova](https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Big Girls Don't Cry \(Bossanova\)](https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL) | 4:29 | 2021-12-09 |  |
 | [Bleeding Love \(Bossa Version\)](https://open.spotify.com/track/6USGOSD8d9KCbpVsAMDpK6) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:45 | 2021-12-09 |  |
 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 | 2021-12-09 |  |
@@ -233,8 +234,8 @@
 | [Whole Again](https://open.spotify.com/track/5vQPUsti44KFsm1xOrhKHj) | [Juis de Fora](https://open.spotify.com/artist/46BKARTr4WbL2apQKFZ4kt), [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Whole Again](https://open.spotify.com/album/3Lifjzuc8bU1yBhnAJPVCC) | 2:41 | 2021-12-09 |  |
 | [Wicked Game \- Bossa Nova Version](https://open.spotify.com/track/3kYKtUPRQd4ZO9A3UhmxAX) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Wicked Game \(Bossa Nova Version\)](https://open.spotify.com/album/6YbT952JxSplB2O1e7keyG) | 2:49 | 2021-12-09 |  |
 | [With Or Without You \(Bossa Version\)](https://open.spotify.com/track/7yly7CFogmyVG0Q0PBu5cP) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 3:32 | 2021-12-09 | 2023-04-21 |
-| [Wonderwall](https://open.spotify.com/track/0iWxNXbC8UDuNHUjiLgR1t) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Brazilian Lounge Affair](https://open.spotify.com/album/7szBGyasdI77zIdb1BWN7G) | 4:20 | 2023-06-22 |  |
-| [Wonderwall](https://open.spotify.com/track/2YeJSReOgLqnx0tex1RhEw) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 4:20 | 2023-01-03 | 2023-07-03 |
+| [Wonderwall](https://open.spotify.com/track/0iWxNXbC8UDuNHUjiLgR1t) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Brazilian Lounge Affair](https://open.spotify.com/album/7szBGyasdI77zIdb1BWN7G) | 4:20 | 2023-06-22 | 2024-01-11 |
+| [Wonderwall](https://open.spotify.com/track/2YeJSReOgLqnx0tex1RhEw) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 4:20 | 2023-01-03 |  |
 | [Wonderwall](https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb) | [Bossanatics](https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq), [Ana Costa](https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 4:20 | 2021-12-09 | 2023-01-09 |
 | [Yesterday](https://open.spotify.com/track/1xIbBG0sbYTo1fwxGFgz5m) | [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V), [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81) | [Yesterday](https://open.spotify.com/album/2g2QcxEqthJXbm2HZ0n6v4) | 3:08 | 2023-01-19 | 2023-04-21 |
 | [You Give Me Something \(Bossa Version\)](https://open.spotify.com/track/4H39zVSTrnXomaInIgfpDY) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge 3](https://open.spotify.com/album/2avhCfwE4OgHEmqQG6Bf0o) | 3:22 | 2021-12-09 | 2023-05-13 |

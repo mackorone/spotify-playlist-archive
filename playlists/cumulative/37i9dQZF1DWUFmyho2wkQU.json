@@ -164,7 +164,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 252093,
       "name": "Ain't I - main voc up",
       "url": "https://open.spotify.com/track/6cnufgF6qLJGZT2PRFZBr1"
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 234773,
       "name": "Diddy (feat. The Neptunes)",
       "url": "https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ"
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 295826,
       "name": "Down Bottom",
       "url": "https://open.spotify.com/track/58jV4YBV2WpCb00gJfht9a"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2024-01-12",
       "duration_ms": 202760,
       "name": "Gettin' Some",
       "url": "https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY"
@@ -2932,6 +2932,36 @@
       "duration_ms": 238706,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/3EyNj8ps0rYIAF4xIpFCjc"
+    },
+    {
+      "album": {
+        "name": "1st Infantry",
+        "url": "https://open.spotify.com/album/6bTrNPIYDpWVFoE3E7wpUk"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+        },
+        {
+          "name": "Prodigy",
+          "url": "https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs"
+        },
+        {
+          "name": "Illa Ghee",
+          "url": "https://open.spotify.com/artist/3brL6NPSZHYrJNzeUKcVbL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238706,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/4TpBPG62p9RefejCGNoxF9"
     },
     {
       "album": {
@@ -3714,6 +3744,32 @@
     {
       "album": {
         "name": "Savage Life 2",
+        "url": "https://open.spotify.com/album/1G0oedmq62QqpuBEeFD7yZ"
+      },
+      "artists": [
+        {
+          "name": "Webbie",
+          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "Lil Phat",
+          "url": "https://open.spotify.com/artist/3QnIBUOS4mUzs67rZ8r4c9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250026,
+      "name": "Independent (feat. Boosie Badazz & Lil Phat)",
+      "url": "https://open.spotify.com/track/0tdjTo4xacmmF7eINqaM8z"
+    },
+    {
+      "album": {
+        "name": "Savage Life 2",
         "url": "https://open.spotify.com/album/06J105KDZyAjOjca0RToRL"
       },
       "artists": [
@@ -3732,7 +3788,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 250026,
       "name": "Independent (feat. Lil' Boosie and Lil' Phat)",
       "url": "https://open.spotify.com/track/65D95SmygxGCQGiI64eaZf"

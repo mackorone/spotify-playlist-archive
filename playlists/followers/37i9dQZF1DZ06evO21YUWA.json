@@ -1,580 +1,2407 @@
 {
-  "2022-05-30": 3465,
-  "2022-05-31": 3471,
-  "2022-06-01": 3477,
-  "2022-06-02": 3478,
-  "2022-06-03": 3479,
-  "2022-06-04": 3480,
-  "2022-06-05": 3482,
-  "2022-06-06": 3487,
-  "2022-06-07": 3490,
-  "2022-06-08": 3492,
-  "2022-06-09": 3492,
-  "2022-06-10": 3494,
-  "2022-06-11": 3497,
-  "2022-06-12": 3501,
-  "2022-06-13": 3499,
-  "2022-06-14": 3500,
-  "2022-06-15": 3501,
-  "2022-06-16": 3505,
-  "2022-06-17": 3507,
-  "2022-06-18": 3510,
-  "2022-06-19": 3514,
-  "2022-06-20": 3514,
-  "2022-06-21": 3518,
-  "2022-06-22": 3518,
-  "2022-06-23": 3518,
-  "2022-06-24": 3519,
-  "2022-06-25": 3520,
-  "2022-06-26": 3520,
-  "2022-06-27": 3522,
-  "2022-06-28": 3525,
-  "2022-06-29": 3530,
-  "2022-06-30": 3532,
-  "2022-07-01": 3532,
-  "2022-07-02": 3532,
-  "2022-07-03": 3537,
-  "2022-07-04": 3540,
-  "2022-07-05": 3540,
-  "2022-07-06": 3540,
-  "2022-07-07": 3546,
-  "2022-07-08": 3543,
-  "2022-07-09": 3542,
-  "2022-07-10": 3542,
-  "2022-07-11": 3544,
-  "2022-07-12": 3545,
-  "2022-07-13": 3545,
-  "2022-07-14": 3548,
-  "2022-07-15": 3552,
-  "2022-07-16": 3558,
-  "2022-07-17": 3561,
-  "2022-07-18": 3566,
-  "2022-07-19": 3568,
-  "2022-07-20": 3572,
-  "2022-07-21": 3573,
-  "2022-07-22": 3572,
-  "2022-07-23": 3576,
-  "2022-07-24": 3577,
-  "2022-07-25": 3579,
-  "2022-07-26": 3581,
-  "2022-07-27": 3581,
-  "2022-07-28": 3584,
-  "2022-07-29": 3586,
-  "2022-07-30": 3591,
-  "2022-07-31": 3591,
-  "2022-08-01": 3596,
-  "2022-08-02": 3600,
-  "2022-08-03": 3600,
-  "2022-08-04": 3606,
-  "2022-08-05": 3609,
-  "2022-08-06": 3607,
-  "2022-08-07": 3611,
-  "2022-08-08": 3612,
-  "2022-08-09": 3609,
-  "2022-08-10": 3613,
-  "2022-08-11": 3614,
-  "2022-08-12": 3614,
-  "2022-08-13": 3615,
-  "2022-08-14": 3617,
-  "2022-08-15": 3618,
-  "2022-08-16": 3619,
-  "2022-08-17": 3621,
-  "2022-08-18": 3623,
-  "2022-08-19": 3624,
-  "2022-08-20": 3626,
-  "2022-08-21": 3626,
-  "2022-08-22": 3629,
-  "2022-08-23": 3635,
-  "2022-08-24": 3636,
-  "2022-08-25": 3640,
-  "2022-08-26": 3640,
-  "2022-08-27": 3644,
-  "2022-08-28": 3646,
-  "2022-08-29": 3648,
-  "2022-08-30": 3644,
-  "2022-08-31": 3645,
-  "2022-09-01": 3641,
-  "2022-09-02": 3639,
-  "2022-09-03": 3639,
-  "2022-09-04": 3637,
-  "2022-09-05": 3638,
-  "2022-09-06": 3641,
-  "2022-09-07": 3643,
-  "2022-09-09": 3649,
-  "2022-09-10": 3651,
-  "2022-09-11": 3652,
-  "2022-09-12": 3655,
-  "2022-09-13": 3653,
-  "2022-09-15": 3658,
-  "2022-09-16": 3665,
-  "2022-09-17": 3664,
-  "2022-09-18": 3668,
-  "2022-09-19": 3669,
-  "2022-09-20": 3668,
-  "2022-09-21": 3674,
-  "2022-09-22": 3677,
-  "2022-09-23": 3680,
-  "2022-09-24": 3680,
-  "2022-09-25": 3684,
-  "2022-09-26": 3689,
-  "2022-09-27": 3691,
-  "2022-09-28": 3694,
-  "2022-09-29": 3696,
-  "2022-09-30": 3698,
-  "2022-10-01": 3699,
-  "2022-10-02": 3703,
-  "2022-10-03": 3707,
-  "2022-10-04": 3708,
-  "2022-10-05": 3713,
-  "2022-10-06": 3716,
-  "2022-10-07": 3719,
-  "2022-10-08": 3722,
-  "2022-10-09": 3722,
-  "2022-10-10": 3722,
-  "2022-10-11": 3723,
-  "2022-10-12": 3727,
-  "2022-10-13": 3730,
-  "2022-10-14": 3731,
-  "2022-10-15": 3736,
-  "2022-10-16": 3745,
-  "2022-10-17": 3744,
-  "2022-10-18": 3744,
-  "2022-10-19": 3747,
-  "2022-10-20": 3749,
-  "2022-10-21": 3751,
-  "2022-10-22": 3758,
-  "2022-10-23": 3761,
-  "2022-10-24": 3764,
-  "2022-10-25": 3770,
-  "2022-10-26": 3772,
-  "2022-10-27": 3775,
-  "2022-10-28": 3775,
-  "2022-10-29": 3779,
-  "2022-10-30": 3788,
-  "2022-10-31": 3789,
-  "2022-11-01": 3795,
-  "2022-11-02": 3803,
-  "2022-11-03": 3810,
-  "2022-11-04": 3813,
-  "2022-11-05": 3816,
-  "2022-11-06": 3816,
-  "2022-11-07": 3815,
-  "2022-11-08": 3816,
-  "2022-11-09": 3817,
-  "2022-11-10": 3820,
-  "2022-11-11": 3824,
-  "2022-11-12": 3827,
-  "2022-11-13": 3831,
-  "2022-11-14": 3833,
-  "2022-11-15": 3835,
-  "2022-11-16": 3840,
-  "2022-11-17": 3848,
-  "2022-11-18": 3853,
-  "2022-11-19": 3853,
-  "2022-11-20": 3857,
-  "2022-11-21": 3862,
-  "2022-11-22": 3865,
-  "2022-11-23": 3868,
-  "2022-11-24": 3876,
-  "2022-11-25": 3882,
-  "2022-11-26": 3884,
-  "2022-11-27": 3888,
-  "2022-11-28": 3897,
-  "2022-11-29": 3903,
-  "2022-11-30": 3909,
-  "2022-12-01": 3913,
-  "2022-12-02": 3914,
-  "2022-12-03": 3924,
-  "2022-12-04": 3924,
-  "2022-12-05": 3926,
-  "2022-12-06": 3929,
-  "2022-12-07": 3934,
-  "2022-12-08": 3939,
-  "2022-12-09": 3938,
-  "2022-12-10": 3937,
-  "2022-12-11": 3937,
-  "2022-12-12": 3944,
-  "2022-12-13": 3948,
-  "2022-12-14": 3956,
-  "2022-12-15": 3958,
-  "2022-12-16": 3960,
-  "2022-12-17": 3962,
-  "2022-12-18": 3966,
-  "2022-12-19": 3974,
-  "2022-12-20": 3975,
-  "2022-12-21": 3975,
-  "2022-12-22": 3978,
-  "2022-12-24": 3984,
-  "2022-12-25": 3988,
-  "2022-12-26": 3991,
-  "2022-12-27": 3994,
-  "2022-12-28": 3996,
-  "2022-12-29": 3997,
-  "2022-12-30": 3998,
-  "2022-12-31": 4002,
-  "2023-01-01": 4005,
-  "2023-01-02": 4011,
-  "2023-01-03": 4014,
-  "2023-01-04": 4015,
-  "2023-01-05": 4018,
-  "2023-01-06": 4019,
-  "2023-01-07": 4028,
-  "2023-01-08": 4030,
-  "2023-01-09": 4034,
-  "2023-01-10": 4036,
-  "2023-01-11": 4041,
-  "2023-01-12": 4042,
-  "2023-01-13": 4042,
-  "2023-01-14": 4046,
-  "2023-01-15": 4046,
-  "2023-01-16": 4049,
-  "2023-01-17": 4050,
-  "2023-01-18": 4053,
-  "2023-01-19": 4054,
-  "2023-01-20": 4056,
-  "2023-01-21": 4059,
-  "2023-01-22": 4062,
-  "2023-01-23": 4067,
-  "2023-01-24": 4069,
-  "2023-01-25": 4076,
-  "2023-01-26": 4080,
-  "2023-01-27": 4081,
-  "2023-01-28": 4083,
-  "2023-01-29": 4087,
-  "2023-01-30": 4086,
-  "2023-01-31": 4086,
-  "2023-02-01": 4088,
-  "2023-02-02": 4095,
-  "2023-02-03": 4096,
-  "2023-02-04": 4100,
-  "2023-02-05": 4104,
-  "2023-02-06": 4106,
-  "2023-02-07": 4111,
-  "2023-02-08": 4117,
-  "2023-02-09": 4117,
-  "2023-02-10": 4125,
-  "2023-02-11": 4123,
-  "2023-02-12": 4124,
-  "2023-02-13": 4123,
-  "2023-02-14": 4123,
-  "2023-02-15": 4126,
-  "2023-02-16": 4129,
-  "2023-02-17": 4129,
-  "2023-02-18": 4136,
-  "2023-02-19": 4137,
-  "2023-02-20": 4140,
-  "2023-02-21": 4141,
-  "2023-02-22": 4145,
-  "2023-02-23": 4146,
-  "2023-02-24": 4151,
-  "2023-02-25": 4154,
-  "2023-02-26": 4156,
-  "2023-02-27": 4157,
-  "2023-02-28": 4157,
-  "2023-03-01": 4157,
-  "2023-03-02": 4158,
-  "2023-03-03": 4158,
-  "2023-03-04": 4158,
-  "2023-03-05": 4167,
-  "2023-03-06": 4167,
-  "2023-03-07": 4166,
-  "2023-03-08": 4167,
-  "2023-03-09": 4171,
-  "2023-03-10": 4172,
-  "2023-03-11": 4173,
-  "2023-03-12": 4177,
-  "2023-03-13": 4179,
-  "2023-03-14": 4180,
-  "2023-03-15": 4182,
-  "2023-03-16": 4182,
-  "2023-03-17": 4182,
-  "2023-03-18": 4184,
-  "2023-03-19": 4184,
-  "2023-03-20": 4186,
-  "2023-03-21": 4189,
-  "2023-03-22": 4191,
-  "2023-03-23": 4191,
-  "2023-03-24": 4191,
-  "2023-03-25": 4197,
-  "2023-03-26": 4201,
-  "2023-03-27": 4204,
-  "2023-03-28": 4204,
-  "2023-03-29": 4211,
-  "2023-03-30": 4216,
-  "2023-03-31": 4216,
-  "2023-04-01": 4220,
-  "2023-04-02": 4222,
-  "2023-04-03": 4222,
-  "2023-04-04": 4228,
-  "2023-04-05": 4231,
-  "2023-04-06": 4235,
-  "2023-04-07": 4237,
-  "2023-04-09": 4241,
-  "2023-04-10": 4243,
-  "2023-04-11": 4245,
-  "2023-04-12": 4245,
-  "2023-04-13": 4246,
-  "2023-04-14": 4247,
-  "2023-04-15": 4253,
-  "2023-04-16": 4255,
-  "2023-04-17": 4255,
-  "2023-04-18": 4259,
-  "2023-04-19": 4260,
-  "2023-04-20": 4259,
-  "2023-04-21": 4260,
-  "2023-04-22": 4263,
-  "2023-04-23": 4264,
-  "2023-04-24": 4265,
-  "2023-04-25": 4268,
-  "2023-04-26": 4268,
-  "2023-04-27": 4268,
-  "2023-04-28": 4270,
-  "2023-04-29": 4273,
-  "2023-04-30": 4276,
-  "2023-05-01": 4279,
-  "2023-05-02": 4282,
-  "2023-05-03": 4287,
-  "2023-05-04": 4288,
-  "2023-05-05": 4295,
-  "2023-05-06": 4299,
-  "2023-05-07": 4306,
-  "2023-05-08": 4308,
-  "2023-05-09": 4309,
-  "2023-05-10": 4311,
-  "2023-05-11": 4310,
-  "2023-05-12": 4314,
-  "2023-05-13": 4317,
-  "2023-05-14": 4319,
-  "2023-05-15": 4318,
-  "2023-05-16": 4321,
-  "2023-05-17": 4327,
-  "2023-05-18": 4330,
-  "2023-05-19": 4331,
-  "2023-05-20": 4342,
-  "2023-05-21": 4342,
-  "2023-05-22": 4342,
-  "2023-05-23": 4344,
-  "2023-05-24": 4351,
-  "2023-05-25": 4352,
-  "2023-05-26": 4360,
-  "2023-05-27": 4360,
-  "2023-05-28": 4361,
-  "2023-05-29": 4361,
-  "2023-05-30": 4364,
-  "2023-05-31": 4367,
-  "2023-06-01": 4372,
-  "2023-06-02": 4373,
-  "2023-06-03": 4375,
-  "2023-06-04": 4387,
-  "2023-06-05": 4391,
-  "2023-06-06": 4392,
-  "2023-06-07": 4394,
-  "2023-06-08": 4395,
-  "2023-06-09": 4397,
-  "2023-06-10": 4399,
-  "2023-06-11": 4399,
-  "2023-06-12": 4401,
-  "2023-06-13": 4401,
-  "2023-06-14": 4401,
-  "2023-06-15": 4404,
-  "2023-06-16": 4408,
-  "2023-06-17": 4409,
-  "2023-06-18": 4412,
-  "2023-06-19": 4413,
-  "2023-06-20": 4411,
-  "2023-06-21": 4416,
-  "2023-06-22": 4419,
-  "2023-06-23": 4421,
-  "2023-06-24": 4421,
-  "2023-06-25": 4424,
-  "2023-06-26": 4427,
-  "2023-06-27": 4427,
-  "2023-06-28": 4429,
-  "2023-06-29": 4430,
-  "2023-06-30": 4432,
-  "2023-07-01": 4438,
-  "2023-07-02": 4438,
-  "2023-07-03": 4436,
-  "2023-07-04": 4441,
-  "2023-07-05": 4444,
-  "2023-07-06": 4452,
-  "2023-07-07": 4452,
-  "2023-07-08": 4452,
-  "2023-07-09": 4459,
-  "2023-07-10": 4457,
-  "2023-07-11": 4458,
-  "2023-07-12": 4458,
-  "2023-07-13": 4458,
-  "2023-07-14": 4460,
-  "2023-07-15": 4462,
-  "2023-07-16": 4465,
-  "2023-07-17": 4465,
-  "2023-07-18": 4465,
-  "2023-07-19": 4467,
-  "2023-07-20": 4471,
-  "2023-07-21": 4472,
-  "2023-07-22": 4472,
-  "2023-07-23": 4474,
-  "2023-07-24": 4476,
-  "2023-07-25": 4477,
-  "2023-07-26": 4480,
-  "2023-07-27": 4483,
-  "2023-07-28": 4487,
-  "2023-07-29": 4487,
-  "2023-07-30": 4491,
-  "2023-07-31": 4492,
-  "2023-08-01": 4491,
-  "2023-08-02": 4496,
-  "2023-08-03": 4500,
-  "2023-08-04": 4505,
-  "2023-08-05": 4507,
-  "2023-08-06": 4509,
-  "2023-08-07": 4509,
-  "2023-08-08": 4507,
-  "2023-08-09": 4510,
-  "2023-08-10": 4513,
-  "2023-08-11": 4513,
-  "2023-08-12": 4513,
-  "2023-08-13": 4513,
-  "2023-08-14": 4518,
-  "2023-08-15": 4518,
-  "2023-08-16": 4518,
-  "2023-08-17": 4518,
-  "2023-08-18": 4518,
-  "2023-08-19": 4518,
-  "2023-08-20": 4532,
-  "2023-08-21": 4532,
-  "2023-08-22": 4537,
-  "2023-08-23": 4537,
-  "2023-08-24": 4537,
-  "2023-08-25": 4537,
-  "2023-08-26": 4544,
-  "2023-08-27": 4544,
-  "2023-08-28": 4549,
-  "2023-08-29": 4549,
-  "2023-08-30": 4549,
-  "2023-08-31": 4558,
-  "2023-09-01": 4562,
-  "2023-09-02": 4562,
-  "2023-09-03": 4570,
-  "2023-09-04": 4570,
-  "2023-09-05": 4570,
-  "2023-09-06": 4575,
-  "2023-09-07": 4575,
-  "2023-09-08": 4575,
-  "2023-09-09": 4575,
-  "2023-09-10": 4586,
-  "2023-09-11": 4586,
-  "2023-09-12": 4586,
-  "2023-09-13": 4597,
-  "2023-09-14": 4597,
-  "2023-09-15": 4597,
-  "2023-09-16": 4603,
-  "2023-09-17": 4603,
-  "2023-09-18": 4603,
-  "2023-09-19": 4611,
-  "2023-09-20": 4611,
-  "2023-09-21": 4611,
-  "2023-09-22": 4618,
-  "2023-09-23": 4618,
-  "2023-09-24": 4618,
-  "2023-09-25": 4618,
-  "2023-09-26": 4632,
-  "2023-09-27": 4632,
-  "2023-09-28": 4632,
-  "2023-09-29": 4632,
-  "2023-09-30": 4632,
-  "2023-10-01": 4632,
-  "2023-10-02": 4632,
-  "2023-10-03": 4632,
-  "2023-10-04": 4632,
-  "2023-10-05": 4659,
-  "2023-10-06": 4659,
-  "2023-10-07": 4659,
-  "2023-10-08": 4659,
-  "2023-10-09": 4659,
-  "2023-10-10": 4659,
-  "2023-10-11": 4679,
-  "2023-10-12": 4679,
-  "2023-10-13": 4679,
-  "2023-10-14": 4679,
-  "2023-10-15": 4679,
-  "2023-10-16": 4679,
-  "2023-10-17": 4679,
-  "2023-10-18": 4679,
-  "2023-10-19": 4679,
-  "2023-10-20": 4679,
-  "2023-10-21": 4679,
-  "2023-10-22": 4679,
-  "2023-10-23": 4679,
-  "2023-10-24": 4679,
-  "2023-10-25": 4679,
-  "2023-10-26": 4679,
-  "2023-10-27": 4679,
-  "2023-10-28": 4679,
-  "2023-10-29": 4679,
-  "2023-10-30": 4679,
-  "2023-10-31": 4679,
-  "2023-11-01": 4679,
-  "2023-11-02": 4679,
-  "2023-11-03": 4679,
-  "2023-11-04": 4679,
-  "2023-11-05": 4679,
-  "2023-11-06": 4679,
-  "2023-11-07": 4679,
-  "2023-11-08": 4679,
-  "2023-11-09": 4679,
-  "2023-11-10": 4679,
-  "2023-11-11": 4777,
-  "2023-11-12": 4777,
-  "2023-11-13": 4777,
-  "2023-11-14": 4777,
-  "2023-11-15": 4777,
-  "2023-11-16": 4777,
-  "2023-11-17": 4777,
-  "2023-11-18": 4777,
-  "2023-11-19": 4777,
-  "2023-11-20": 4777,
-  "2023-11-21": 4777,
-  "2023-11-22": 4777,
-  "2023-11-23": 4777,
-  "2023-11-24": 4777,
-  "2023-11-25": 4777,
-  "2023-11-26": 4777,
-  "2023-11-27": 4777,
-  "2023-11-28": 4777,
-  "2023-11-29": 4777,
-  "2023-11-30": 4777,
-  "2023-12-01": 4777,
-  "2023-12-02": 4777,
-  "2023-12-03": 4777,
-  "2023-12-04": 4777,
-  "2023-12-05": 4777,
-  "2023-12-06": 4777,
-  "2023-12-07": 4777,
-  "2023-12-08": 4777,
-  "2023-12-09": 4777,
-  "2023-12-10": 4777,
-  "2023-12-11": 4777,
-  "2023-12-12": 4777,
-  "2023-12-13": 4777,
-  "2023-12-14": 4854,
-  "2023-12-15": 4853,
-  "2023-12-16": 4856,
-  "2023-12-17": 4858,
-  "2023-12-18": 4859,
-  "2023-12-19": 4860,
-  "2023-12-20": 4862,
-  "2023-12-21": 4864,
-  "2023-12-22": 4861,
-  "2023-12-23": 4864,
-  "2023-12-24": 4865,
-  "2023-12-25": 4868,
-  "2023-12-26": 4871,
-  "2023-12-27": 4873,
-  "2023-12-30": 4886,
-  "2023-12-31": 4891,
-  "2024-01-01": 4892,
-  "2024-01-02": 4892,
-  "2024-01-03": 4893
+  "2024-01-17": 4918,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
+  "name": "This Is Harold Budd",
+  "tracks": [
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 434733,
+      "name": "A Delicate Romance",
+      "url": "https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 434733,
+      "name": "A Delicate Romance",
+      "url": "https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP"
+    },
+    {
+      "album": {
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 263493,
+      "name": "A Formless Path",
+      "url": "https://open.spotify.com/track/2WdSMNXQIX2X9CJ8GZcTyW"
+    },
+    {
+      "album": {
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 321226,
+      "name": "A Minute, a Day, No More",
+      "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236746,
+      "name": "A Stream With Bright Fish - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 357293,
+      "name": "A Walk in the Park with Nancy (In Memory)",
+      "url": "https://open.spotify.com/track/3wXHjZOHKXnzKYvJPyq2Vu"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175746,
+      "name": "Above Chiangmai - Remastered 2004",
+      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 183880,
+      "name": "Adult",
+      "url": "https://open.spotify.com/track/28yHFFhnxKIxiHuIo9IV7y"
+    },
+    {
+      "album": {
+        "name": "The Serpent (In Quicksilver)",
+        "url": "https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 154933,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ"
+    },
+    {
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292213,
+      "name": "Against The Sky - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf"
+    },
+    {
+      "album": {
+        "name": "The White Arcades",
+        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 392866,
+      "name": "Algebra Of Darkness",
+      "url": "https://open.spotify.com/track/7DQ5iTUGwwb91LJH0RqKib"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 204680,
+      "name": "Among Fields Of Crystal - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389133,
+      "name": "An Arc Of Doves - Remastered 2004",
+      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148293,
+      "name": "An Echo Of Night - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/1PoRGnn6KqdOnY22gBVrzw"
+    },
+    {
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210706,
+      "name": "And Then I Turned Away",
+      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112520,
+      "name": "Arabesque 1 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6inVF4smJ5IgaYgrtHiaOF"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 180760,
+      "name": "Arabesque 2",
+      "url": "https://open.spotify.com/track/47mi8afxLPHP0SzRgYhZQr"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 159920,
+      "name": "Arabesque 3 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 85586,
+      "name": "Arriving",
+      "url": "https://open.spotify.com/track/6Z94lGyGzc6XcrSPjdZLhu"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85586,
+      "name": "Arriving",
+      "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 4168000,
+      "name": "As Long as I Can Hold My Breath - By Night",
+      "url": "https://open.spotify.com/track/6ScM7dC3yQRmcoxhI7MPyq"
+    },
+    {
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 207746,
+      "name": "Avenue of Shapes",
+      "url": "https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76066,
+      "name": "Avenue of Trees",
+      "url": "https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI"
+    },
+    {
+      "album": {
+        "name": "The White Arcades",
+        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 316973,
+      "name": "Balthus Bemused By Color",
+      "url": "https://open.spotify.com/track/4uBVCPfbPFKQmy0kEQgJMT"
+    },
+    {
+      "album": {
+        "name": "Another Flower",
+        "url": "https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 207053,
+      "name": "Beau, As In Beaumont",
+      "url": "https://open.spotify.com/track/03zhFeVXRdiugsURvkKmih"
+    },
+    {
+      "album": {
+        "name": "La Bella Vista",
+        "url": "https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120960,
+      "name": "Bell Tower",
+      "url": "https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW"
+    },
+    {
+      "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1107266,
+      "name": "Bismillahi 'Rrahmani 'Rrahim",
+      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Bloody And Blunt",
+      "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
+    },
+    {
+      "album": {
+        "name": "By The Dawn's Early Light",
+        "url": "https://open.spotify.com/album/2koLWogmlGsQKefgooyRXa"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 299733,
+      "name": "Boy About 10",
+      "url": "https://open.spotify.com/track/4aAkYp6k2sP2WsBiFyaF8J"
+    },
+    {
+      "album": {
+        "name": "She Is A Phantom",
+        "url": "https://open.spotify.com/album/5I9WHmMej5pixh8VO8LQCQ"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99040,
+      "name": "Breathless... I",
+      "url": "https://open.spotify.com/track/06QBw5B9JnzsvKfTh4W37n"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 118746,
+      "name": "Chrysalis Nu (To Barney's Memory)",
+      "url": "https://open.spotify.com/track/5p0efF4TnD6DKtiTsxcaUv"
+    },
+    {
+      "album": {
+        "name": "In The Mist",
+        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123280,
+      "name": "Come Back To Me In Dreams",
+      "url": "https://open.spotify.com/track/0O1NkPpNFLqSMBWSVwgxgg"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 302533,
+      "name": "Coming Into Focus",
+      "url": "https://open.spotify.com/track/7nHvcYaK0ZU53nafu8uiFD"
+    },
+    {
+      "album": {
+        "name": "Another Flower",
+        "url": "https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 265637,
+      "name": "Coral",
+      "url": "https://open.spotify.com/track/4f0dk1zybHCaFJcty6jKch"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 282400,
+      "name": "Dark Eyed Sister - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/3EYY3nTXuPK2ALAaZoc8u3"
+    },
+    {
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 231480,
+      "name": "Deva C",
+      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
+    },
+    {
+      "album": {
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+      },
+      "artists": [
+        {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293626,
+      "name": "Don't Go Where I Can't Find You",
+      "url": "https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba"
+    },
+    {
+      "album": {
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+      },
+      "artists": [
+        {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 233773,
+      "name": "Dream on",
+      "url": "https://open.spotify.com/track/1zdF61aWVxqmQehEjYkfzf"
+    },
+    {
+      "album": {
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+      },
+      "artists": [
+        {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 258906,
+      "name": "Entangled",
+      "url": "https://open.spotify.com/track/6EkJISjVAGdFcA4e6eTsDJ"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249933,
+      "name": "Eyes Are Mosaics",
+      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 254000,
+      "name": "Failing Light - Remastered 2004",
+      "url": "https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77613,
+      "name": "Faraon - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5MGYcaAg4dci4djv6VfPL1"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426533,
+      "name": "First Light - Remastered 2004",
+      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
+    },
+    {
+      "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-07",
+      "duration_ms": 434706,
+      "name": "Flowered Knife Shadows",
+      "url": "https://open.spotify.com/track/11WFSZWpWVd85FzOi1EMil"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 232440,
+      "name": "Foreshadowed - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
+    },
+    {
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 222280,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
+    },
+    {
+      "album": {
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 456546,
+      "name": "How Close Your Soul",
+      "url": "https://open.spotify.com/track/4BbKj6LPue8dBbqO9fcZXb"
+    },
+    {
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 243506,
+      "name": "How Distant Your Heart",
+      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 236466,
+      "name": "How Vacantly You Stare at Me",
+      "url": "https://open.spotify.com/track/11tUGfZUkrt31swIFuG7uN"
+    },
+    {
+      "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 208133,
+      "name": "Ice Floes In Eden",
+      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62946,
+      "name": "It's Steeper Near the Roses (For David Sylvian) - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy"
+    },
+    {
+      "album": {
+        "name": "Jane 12-21",
+        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "Jane 16 (For Pale Saints)",
+      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+    },
+    {
+      "album": {
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296800,
+      "name": "Jane 2",
+      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
+    },
+    {
+      "album": {
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 318800,
+      "name": "Jane 8",
+      "url": "https://open.spotify.com/track/5T7jNsX9SBTugNhbj4euh7"
+    },
+    {
+      "album": {
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 147600,
+      "name": "Jane 9",
+      "url": "https://open.spotify.com/track/4Qp5A3JbBBtMhW9WYGKlHA"
+    },
+    {
+      "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 500026,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/2H96z4OFcMTTopEgIX49ci"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133386,
+      "name": "L'enfant Perdu - 2013 Remaster",
+      "url": "https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 284133,
+      "name": "Late October - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof"
+    },
+    {
+      "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 382866,
+      "name": "Let Us Go Into The House Of The Lord/Butterfly Sunday",
+      "url": "https://open.spotify.com/track/4z5mBEeCOoWqqbK8rOwDN1"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458400,
+      "name": "Little Heart - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261560,
+      "name": "Lost In The Humming Air - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
+    },
+    {
+      "album": {
+        "name": "In The Mist",
+        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106880,
+      "name": "Mars and the Artist (after Cy Twombly)",
+      "url": "https://open.spotify.com/track/6eMNszDeDRUFbRlghDs1P5"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 447533,
+      "name": "Memory Gongs",
+      "url": "https://open.spotify.com/track/1AIAZEGLCQ4Y6oSnsjqOYD"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 100106,
+      "name": "Momentary Architecture",
+      "url": "https://open.spotify.com/track/24MQNO07DSZeDjfBmkb1rT"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100106,
+      "name": "Momentary Architecture",
+      "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 230853,
+      "name": "Not Yet Remembered - Remastered 2004",
+      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
+    },
+    {
+      "album": {
+        "name": "Luxa",
+        "url": "https://open.spotify.com/album/6U54zyIjIX05p3e7xXNURs"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 360333,
+      "name": "Nove Alberi",
+      "url": "https://open.spotify.com/track/0qR4944z41aPHStt3EtJuk"
+    },
+    {
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360333,
+      "name": "Nove Alberi",
+      "url": "https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw"
+    },
+    {
+      "album": {
+        "name": "Another Flower",
+        "url": "https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 233320,
+      "name": "November Day",
+      "url": "https://open.spotify.com/track/1YEm5zawJWKWwTCbLqTy8p"
+    },
+    {
+      "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138426,
+      "name": "Olancha Farewell",
+      "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 221280,
+      "name": "Ooze Out And Away, Onehow",
+      "url": "https://open.spotify.com/track/157RVHlboS0mum8aCu0WBp"
+    },
+    {
+      "album": {
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 265453,
+      "name": "Outside, Silence",
+      "url": "https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118720,
+      "name": "Porcelain Ginger - 2013 Remaster",
+      "url": "https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj"
+    },
+    {
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293480,
+      "name": "Radiant City",
+      "url": "https://open.spotify.com/track/0Z5oEza6OKWhXJBVnlCWzl"
+    },
+    {
+      "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 859600,
+      "name": "Rosetti Noise/Chrystal Garden And A Coda",
+      "url": "https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF"
+    },
+    {
+      "album": {
+        "name": "The Serpent (In Quicksilver)",
+        "url": "https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 122933,
+      "name": "Rub With Ashes",
+      "url": "https://open.spotify.com/track/6mGXWiXH310DHfcdyDNbC6"
+    },
+    {
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122933,
+      "name": "Rub With Ashes",
+      "url": "https://open.spotify.com/track/7lSSrxiRidWKKEzczh0hTv"
+    },
+    {
+      "album": {
+        "name": "Avalon Sutra",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
+      "duration_ms": 323733,
+      "name": "Rue Casimir Delavigne (For Daniel Lentz)",
+      "url": "https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg"
+    },
+    {
+      "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 334266,
+      "name": "Sandtreader",
+      "url": "https://open.spotify.com/track/3FJoVDx4afHl2IE9FGn0zJ"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "Sea, Swallow Me",
+      "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257866,
+      "name": "She Will Destroy You",
+      "url": "https://open.spotify.com/track/2cWc4NJ2WYAZllS4VWFcHs"
+    },
+    {
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
+      "duration_ms": 419546,
+      "name": "Smiling Apart",
+      "url": "https://open.spotify.com/track/4DWkWukoZhOfNbN4juMuPF"
+    },
+    {
+      "album": {
+        "name": "Another Flower",
+        "url": "https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 356031,
+      "name": "Some Smoke",
+      "url": "https://open.spotify.com/track/32BSF82GFRulOZzqWVbxeo"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 93986,
+      "name": "Someone Almost There",
+      "url": "https://open.spotify.com/track/33jw9wOUwJM8S4Tj8iaEA2"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93986,
+      "name": "Someone Almost There",
+      "url": "https://open.spotify.com/track/35TCHjntA1Nz3S7iZSkcur"
+    },
+    {
+      "album": {
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+      },
+      "artists": [
+        {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 404506,
+      "name": "South of Heaven",
+      "url": "https://open.spotify.com/track/4ES6gyJLUdKgc1atpCu0wk"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 380453,
+      "name": "Spoken Roses",
+      "url": "https://open.spotify.com/track/10IzKDk1QN1GU8SA0zDhVu"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 380453,
+      "name": "Spoken Roses",
+      "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Eugene Bowen",
+          "url": "https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89813,
+      "name": "Steal Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 252346,
+      "name": "Still Return - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 359680,
+      "name": "Subtext",
+      "url": "https://open.spotify.com/track/4Piypso6HAayTb3FwJIIaW"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359680,
+      "name": "Subtext",
+      "url": "https://open.spotify.com/track/73J3NTv0WiYzta78twULgh"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Sunlit Silhouette",
+      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 195186,
+      "name": "Sunlit Silhouette",
+      "url": "https://open.spotify.com/track/6AXnyOkaq6bn67VYrIfec6"
+    },
+    {
+      "album": {
+        "name": "In The Mist",
+        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 358413,
+      "name": "The Art of Mirrors (after Derek Jarman)",
+      "url": "https://open.spotify.com/track/5pEwaHaIYjpNUilttB5IdV"
+    },
+    {
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 222760,
+      "name": "The Belles of Saint Andrew",
+      "url": "https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133706,
+      "name": "The Chill Air - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455800,
+      "name": "The Ghost Has No Home",
+      "url": "https://open.spotify.com/track/0rtfF7pfVYD5nvBQ1mPRsD"
+    },
+    {
+      "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 197400,
+      "name": "The Gunfighter",
+      "url": "https://open.spotify.com/track/0ScCnyPbkVcqU44RwBOmC4"
+    },
+    {
+      "album": {
+        "name": "The White Arcades",
+        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 197333,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/18oa7BOnHF8Y3YItQ8rV3e"
+    },
+    {
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11"
+    },
+    {
+      "album": {
+        "name": "In The Mist",
+        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137026,
+      "name": "The Panther of Small Favors",
+      "url": "https://open.spotify.com/track/4HdqbNllRPg0mTaZNuCeWv"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "The Pearl - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "The Plateaux Of Mirror - Remastered 2004",
+      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
+    },
+    {
+      "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63506,
+      "name": "The Room Obscured",
+      "url": "https://open.spotify.com/track/08sTYrrvMSaYohKpb6Gwzc"
+    },
+    {
+      "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-13",
+      "duration_ms": 368373,
+      "name": "The Room of Ancillary Dreams",
+      "url": "https://open.spotify.com/track/3sE6rfo580MA1BLabp4tQz"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 211253,
+      "name": "The Silver Ball - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA"
+    },
+    {
+      "album": {
+        "name": "In The Mist",
+        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "The Whispers",
+      "url": "https://open.spotify.com/track/4VH3rKj1tmhUZtX3U43jBq"
+    },
+    {
+      "album": {
+        "name": "The White Arcades",
+        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 284426,
+      "name": "The White Arcades",
+      "url": "https://open.spotify.com/track/1RHWCbssogWYynyA7l0XsZ"
+    },
+    {
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Their Memories - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
+    },
+    {
+      "album": {
+        "name": "The Serpent (In Quicksilver)",
+        "url": "https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 255973,
+      "name": "Wanderer",
+      "url": "https://open.spotify.com/track/34wVtw1bMgjicq9o9uK4nr"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291600,
+      "name": "Why Do You Love Me?",
+      "url": "https://open.spotify.com/track/6mnDez8mWJqlTyp6GjCKKR"
+    },
+    {
+      "album": {
+        "name": "I Know This Much Is True (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/3U97Z1DvgFjej0mVTi5slN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 118826,
+      "name": "Widows Charm",
+      "url": "https://open.spotify.com/track/0fnwhKgvtZOaG4LosBTdko"
+    },
+    {
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118826,
+      "name": "Widows Charm",
+      "url": "https://open.spotify.com/track/4YQyaDGKZqEO8jpaReOXTw"
+    },
+    {
+      "album": {
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+      },
+      "artists": [
+        {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 285973,
+      "name": "Winter Garden",
+      "url": "https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 204106,
+      "name": "You Again",
+      "url": "https://open.spotify.com/track/2AukRdyCuqfBHnNUUI7uoE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21YUWA"
 }

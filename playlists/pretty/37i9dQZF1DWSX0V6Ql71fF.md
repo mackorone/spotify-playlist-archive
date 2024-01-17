@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX0V6Ql71fF.md) - [plain]
 
 > ¡Sube el volumen y canta en familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,831 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,042 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

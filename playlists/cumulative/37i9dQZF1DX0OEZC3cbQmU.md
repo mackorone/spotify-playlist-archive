@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Isadora Pompeo
 
-98 songs - 9 hr 53 min
+99 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-02 | 2023-09-02 |
 | [Fumaça \(Ao Vivo\)](https://open.spotify.com/track/6V37HbGkTESO25ksBhRIxf) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Fumaça \(Ao Vivo\)](https://open.spotify.com/album/2vbxSLyfnhIGgnrxmTZcbz) | 6:48 | 2022-09-02 | 2022-10-08 |
 | [Girassol](https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF) | [Girassol](https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO) | 3:44 | 2022-09-02 |  |
-| [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 | 2022-09-02 |  |
+| [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 | 2022-09-02 | 2024-01-06 |
 | [Imensurável](https://open.spotify.com/track/3acR6F3KuMXVGTk9dwIrKB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Imensurável](https://open.spotify.com/album/4G9RmSVTkpZWqXjdX6l8tX) | 5:58 | 2022-09-02 |  |
 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 | 2022-09-02 |  |
 | [Jeová Jireh](https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jeová Jireh](https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse) | 6:30 | 2023-02-24 |  |
@@ -88,6 +88,7 @@
 | [Sua Presença \- Ao Vivo](https://open.spotify.com/track/29ZrGQad8homm9iN5mZQlp) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Sua Presença \(Ao Vivo\)](https://open.spotify.com/album/4jQtPIEe62yNvp8Z1sGKt4) | 5:14 | 2022-09-02 |  |
 | [Todavia Me Alegrarei \(Ao Vivo\)](https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Samuel Messias \(Ao Vivo\)](https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX) | 6:31 | 2022-09-02 |  |
 | [Todos Os Meus Dias \- Ao Vivo](https://open.spotify.com/track/7vQVMorqtlcOD2vRqDTFgS) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Todos Os Meus Dias \(Ao Vivo\)](https://open.spotify.com/album/47ZBDaMCFQJfGJaqceUQMS) | 3:24 | 2022-09-02 |  |
+| [Tu és Poderoso \- Ao Vivo](https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tu és Poderoso \(Ao Vivo\)](https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP) | 10:29 | 2024-01-05 |  |
 | [Tua Graça Me Basta](https://open.spotify.com/track/22qTwnv9sDRqauI3txYUSf) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Tua Graça Me Basta](https://open.spotify.com/album/4TfEJhEc8zjkdkp6HHEuhB) | 7:19 | 2022-09-02 |  |
 | [Tua Presença](https://open.spotify.com/track/4ionrJOZmFdEBM0nwW9TRf) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Tua Presença](https://open.spotify.com/album/5t3PocBmpttTMnj7mKdenM) | 4:45 | 2022-09-02 |  |
 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 | 2022-09-02 |  |

@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 218234,
       "name": "Ain't Your Mama",
       "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 187920,
       "name": "All About That Bass",
       "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 175223,
       "name": "All The Ways",
       "url": "https://open.spotify.com/track/2V7UKe51RYveJXa8Hp3B5Y"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 181525,
       "name": "All The Ways",
       "url": "https://open.spotify.com/track/4uC5AaTIvPq7bOTAkVQQfG"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-17",
       "duration_ms": 357610,
       "name": "Better",
       "url": "https://open.spotify.com/track/3zSTbsdVAUPDcICYOnTHij"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 176266,
       "name": "Better When I'm Dancin'",
       "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
@@ -436,6 +436,28 @@
       "duration_ms": 208293,
       "name": "Brave Honest Beautiful (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/7ugL3c8oCVTObCTRzVxp87"
+    },
+    {
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Theron Theron",
+          "url": "https://open.spotify.com/artist/3NDd4Jte97ZCYqZBEQbs23"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184181,
+      "name": "Breezy (feat. Theron Theron)",
+      "url": "https://open.spotify.com/track/0gZperMfdaYprsNv7k7Pae"
     },
     {
       "album": {
@@ -706,7 +728,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-16",
       "duration_ms": 184226,
       "name": "Dear Future Husband",
       "url": "https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC"
@@ -1202,7 +1224,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 157461,
       "name": "I Believe In Santa",
       "url": "https://open.spotify.com/track/4D3lztDiYLLp2pf6KdLA1P"
@@ -1220,7 +1242,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 158266,
       "name": "I Believe In Santa",
       "url": "https://open.spotify.com/track/1NgLQouxQqWVA2oQdr0Ze0"
@@ -1314,7 +1336,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-17",
       "duration_ms": 163626,
       "name": "I'm a Lady - from SMURFS: THE LOST VILLAGE",
       "url": "https://open.spotify.com/track/677EggUBJAcombPDoWsIrj"
@@ -1602,7 +1624,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-14",
       "duration_ms": 225053,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
@@ -1638,7 +1660,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-17",
       "duration_ms": 185045,
       "name": "Lips Are Movin",
       "url": "https://open.spotify.com/track/5dbmMcsRYQ7RiKeNzq7oyT"
@@ -1674,7 +1696,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
@@ -1692,7 +1714,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 174229,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/6wunlKxS0VFf6wegIiACg7"
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 190613,
       "name": "Make You Dance",
       "url": "https://open.spotify.com/track/7vwfWlKgUWsIiaUaDGCY7b"
@@ -1746,7 +1768,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 215981,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/6NrWdxWR0sj4gPAOU2w2tu"
@@ -1764,7 +1786,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 216362,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/4HpQKgKo9tk9xf7yLxgppS"
@@ -1782,7 +1804,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 181240,
       "name": "Me Too",
       "url": "https://open.spotify.com/track/1m4dXbkplvaOO4Wbdjbwxs"
@@ -1800,7 +1822,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 181930,
       "name": "Me Too",
       "url": "https://open.spotify.com/track/2rjwLuDkeT4bQ7T5hXKMR3"
@@ -1844,7 +1866,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 181360,
       "name": "More Than Friends (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/03VNgdCL9t8aPyvwZecglI"
@@ -1866,7 +1888,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 182640,
       "name": "More Than Friends (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/6y7zyXqsJMRWzIYuJ3KXxZ"
@@ -1902,7 +1924,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 187456,
       "name": "Mother",
       "url": "https://open.spotify.com/track/0blfmCF2PmtP5fqy9SnNUZ"
@@ -1964,7 +1986,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-17",
       "duration_ms": 161013,
       "name": "My Kind Of Present",
       "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
@@ -2058,7 +2080,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 197760,
       "name": "Nice to Meet Ya",
       "url": "https://open.spotify.com/track/3rs5lCftiXSH4O1AS8ZeGV"
@@ -2080,7 +2102,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 197003,
       "name": "Nice to Meet Ya (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/5HqRQwSAPAgJBQ3bhtpUTg"
@@ -2098,7 +2120,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 213506,
       "name": "NO",
       "url": "https://open.spotify.com/track/3ge54HUrk1ht3EX5SMhIzZ"
@@ -2116,7 +2138,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 222101,
       "name": "NO",
       "url": "https://open.spotify.com/track/2163jfvW37LJNxprDPmgQp"
@@ -2134,7 +2156,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 152862,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/13KCcVDJM9rrQlPgGtepK8"
@@ -2152,7 +2174,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 154943,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/798bkr5n6cLqgfTHQBnzVS"
@@ -2452,7 +2474,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 230906,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/7uoulrMQgFZFAIEpRPvewL"
@@ -2680,7 +2702,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 174733,
       "name": "Title",
       "url": "https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI"
@@ -2836,7 +2858,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 176947,
       "name": "Wave (feat. Mike Sabath)",
       "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
@@ -2894,7 +2916,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 180840,
       "name": "With You",
       "url": "https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq"
@@ -2916,7 +2938,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 181418,
       "name": "With You",
       "url": "https://open.spotify.com/track/4ZUuOeKWRKaKe9inyamD6H"
@@ -2964,6 +2986,28 @@
       "duration_ms": 181290,
       "name": "Workin' On It (feat. Lennon Stella & Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/4y1F0A5GeyDN5EdAIggqTB"
+    },
+    {
+      "album": {
+        "name": "Wrap Me Up",
+        "url": "https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148027,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u"
     },
     {
       "album": {

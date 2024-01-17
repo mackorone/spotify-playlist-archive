@@ -1,731 +1,1927 @@
 {
-  "2021-12-29": 23248,
-  "2021-12-30": 23290,
-  "2021-12-31": 23325,
-  "2022-01-01": 23412,
-  "2022-01-02": 23435,
-  "2022-01-03": 23466,
-  "2022-01-04": 23504,
-  "2022-01-05": 23550,
-  "2022-01-06": 23584,
-  "2022-01-07": 23634,
-  "2022-01-08": 23722,
-  "2022-01-09": 23725,
-  "2022-01-10": 23771,
-  "2022-01-11": 23807,
-  "2022-01-12": 23846,
-  "2022-01-13": 23893,
-  "2022-01-14": 23948,
-  "2022-01-15": 24019,
-  "2022-01-16": 24022,
-  "2022-01-17": 24116,
-  "2022-01-18": 24118,
-  "2022-01-19": 24141,
-  "2022-01-20": 24183,
-  "2022-01-21": 24236,
-  "2022-01-22": 24283,
-  "2022-01-23": 24333,
-  "2022-01-24": 24381,
-  "2022-01-25": 24413,
-  "2022-01-26": 24464,
-  "2022-01-27": 24498,
-  "2022-01-28": 24545,
-  "2022-01-29": 24591,
-  "2022-01-30": 24645,
-  "2022-01-31": 24692,
-  "2022-02-01": 24716,
-  "2022-02-02": 24753,
-  "2022-02-03": 24785,
-  "2022-02-04": 24835,
-  "2022-02-05": 24864,
-  "2022-02-06": 24916,
-  "2022-02-07": 24949,
-  "2022-02-08": 24977,
-  "2022-02-09": 25001,
-  "2022-02-10": 25040,
-  "2022-02-11": 25087,
-  "2022-02-12": 25110,
-  "2022-02-13": 25137,
-  "2022-02-14": 25176,
-  "2022-02-15": 25194,
-  "2022-02-16": 25225,
-  "2022-02-17": 25278,
-  "2022-02-18": 25315,
-  "2022-02-19": 25356,
-  "2022-02-20": 25396,
-  "2022-02-21": 25443,
-  "2022-02-22": 25484,
-  "2022-02-23": 25511,
-  "2022-02-24": 25562,
-  "2022-02-25": 25601,
-  "2022-02-26": 25642,
-  "2022-02-27": 25737,
-  "2022-02-28": 25737,
-  "2022-03-01": 25778,
-  "2022-03-02": 25818,
-  "2022-03-03": 25853,
-  "2022-03-04": 25887,
-  "2022-03-05": 25926,
-  "2022-03-06": 25961,
-  "2022-03-07": 26016,
-  "2022-03-08": 26048,
-  "2022-03-09": 26095,
-  "2022-03-10": 26132,
-  "2022-03-11": 26182,
-  "2022-03-12": 26221,
-  "2022-03-13": 26259,
-  "2022-03-14": 26302,
-  "2022-03-15": 26331,
-  "2022-03-16": 26381,
-  "2022-03-17": 26422,
-  "2022-03-18": 26456,
-  "2022-03-19": 26490,
-  "2022-03-20": 26490,
-  "2022-03-21": 26573,
-  "2022-03-22": 26590,
-  "2022-03-23": 26626,
-  "2022-03-24": 26681,
-  "2022-03-25": 26727,
-  "2022-03-26": 26758,
-  "2022-03-27": 26795,
-  "2022-03-28": 26836,
-  "2022-03-30": 26897,
-  "2022-03-31": 26932,
-  "2022-04-01": 26960,
-  "2022-04-02": 26996,
-  "2022-04-03": 27033,
-  "2022-04-04": 27066,
-  "2022-04-05": 27104,
-  "2022-04-06": 27127,
-  "2022-04-07": 27157,
-  "2022-04-08": 27192,
-  "2022-04-09": 27228,
-  "2022-04-10": 27305,
-  "2022-04-11": 27336,
-  "2022-04-12": 27345,
-  "2022-04-13": 27381,
-  "2022-04-14": 27423,
-  "2022-04-15": 27466,
-  "2022-04-16": 27516,
-  "2022-04-17": 27566,
-  "2022-04-18": 27612,
-  "2022-04-19": 27647,
-  "2022-04-20": 27694,
-  "2022-04-21": 27730,
-  "2022-04-22": 27773,
-  "2022-04-23": 27815,
-  "2022-04-24": 27864,
-  "2022-04-25": 27907,
-  "2022-04-26": 27942,
-  "2022-04-27": 27987,
-  "2022-04-28": 28028,
-  "2022-04-29": 28076,
-  "2022-04-30": 28132,
-  "2022-05-01": 28181,
-  "2022-05-02": 28181,
-  "2022-05-03": 28221,
-  "2022-05-04": 28254,
-  "2022-05-05": 28294,
-  "2022-05-06": 28327,
-  "2022-05-07": 28372,
-  "2022-05-08": 28435,
-  "2022-05-09": 28444,
-  "2022-05-10": 28465,
-  "2022-05-11": 28494,
-  "2022-05-12": 28517,
-  "2022-05-13": 28541,
-  "2022-05-14": 28577,
-  "2022-05-15": 28606,
-  "2022-05-16": 28634,
-  "2022-05-17": 28656,
-  "2022-05-18": 28693,
-  "2022-05-19": 28716,
-  "2022-05-20": 28746,
-  "2022-05-21": 28810,
-  "2022-05-22": 28810,
-  "2022-05-23": 28842,
-  "2022-05-24": 28875,
-  "2022-05-25": 28906,
-  "2022-05-26": 28942,
-  "2022-05-27": 28966,
-  "2022-05-28": 28997,
-  "2022-05-29": 29022,
-  "2022-05-30": 29061,
-  "2022-05-31": 29088,
-  "2022-06-01": 29129,
-  "2022-06-02": 29136,
-  "2022-06-03": 29172,
-  "2022-06-04": 29204,
-  "2022-06-05": 29227,
-  "2022-06-06": 29240,
-  "2022-06-07": 29273,
-  "2022-06-08": 29288,
-  "2022-06-09": 29312,
-  "2022-06-10": 29346,
-  "2022-06-11": 29366,
-  "2022-06-12": 29390,
-  "2022-06-13": 29415,
-  "2022-06-14": 29437,
-  "2022-06-15": 29468,
-  "2022-06-16": 29504,
-  "2022-06-17": 29530,
-  "2022-06-18": 29562,
-  "2022-06-19": 29646,
-  "2022-06-20": 29646,
-  "2022-06-21": 29682,
-  "2022-06-22": 29742,
-  "2022-06-23": 29742,
-  "2022-06-24": 29773,
-  "2022-06-25": 29807,
-  "2022-06-26": 29841,
-  "2022-06-27": 29875,
-  "2022-06-28": 29905,
-  "2022-06-29": 29936,
-  "2022-06-30": 29967,
-  "2022-07-01": 30011,
-  "2022-07-02": 30037,
-  "2022-07-03": 30080,
-  "2022-07-04": 30117,
-  "2022-07-05": 30161,
-  "2022-07-06": 30190,
-  "2022-07-07": 30228,
-  "2022-07-08": 30261,
-  "2022-07-09": 30301,
-  "2022-07-10": 30338,
-  "2022-07-11": 30379,
-  "2022-07-12": 30404,
-  "2022-07-13": 30438,
-  "2022-07-14": 30484,
-  "2022-07-15": 30505,
-  "2022-07-16": 30540,
-  "2022-07-17": 30577,
-  "2022-07-18": 30615,
-  "2022-07-19": 30640,
-  "2022-07-20": 30672,
-  "2022-07-21": 30693,
-  "2022-07-22": 30728,
-  "2022-07-23": 30765,
-  "2022-07-24": 30797,
-  "2022-07-25": 30836,
-  "2022-07-26": 30870,
-  "2022-07-27": 30911,
-  "2022-07-28": 30941,
-  "2022-07-29": 30974,
-  "2022-07-30": 31062,
-  "2022-07-31": 31062,
-  "2022-08-01": 31094,
-  "2022-08-02": 31150,
-  "2022-08-03": 31150,
-  "2022-08-04": 31174,
-  "2022-08-05": 31209,
-  "2022-08-06": 31235,
-  "2022-08-07": 31272,
-  "2022-08-08": 31301,
-  "2022-08-09": 31319,
-  "2022-08-10": 31351,
-  "2022-08-11": 31376,
-  "2022-08-12": 31400,
-  "2022-08-13": 31433,
-  "2022-08-14": 31457,
-  "2022-08-15": 31496,
-  "2022-08-16": 31512,
-  "2022-08-17": 31534,
-  "2022-08-18": 31558,
-  "2022-08-19": 31585,
-  "2022-08-20": 31614,
-  "2022-08-21": 31664,
-  "2022-08-22": 31677,
-  "2022-08-23": 31711,
-  "2022-08-24": 31747,
-  "2022-08-25": 31788,
-  "2022-08-26": 31815,
-  "2022-08-27": 31856,
-  "2022-08-28": 31905,
-  "2022-08-29": 31945,
-  "2022-08-30": 31986,
-  "2022-08-31": 32009,
-  "2022-09-01": 32047,
-  "2022-09-02": 32080,
-  "2022-09-03": 32096,
-  "2022-09-04": 32141,
-  "2022-09-05": 32184,
-  "2022-09-06": 32211,
-  "2022-09-07": 32232,
-  "2022-09-09": 32286,
-  "2022-09-10": 32318,
-  "2022-09-11": 32352,
-  "2022-09-12": 32377,
-  "2022-09-13": 32394,
-  "2022-09-15": 32461,
-  "2022-09-16": 32478,
-  "2022-09-17": 32508,
-  "2022-09-18": 32545,
-  "2022-09-19": 32569,
-  "2022-09-20": 32595,
-  "2022-09-21": 32622,
-  "2022-09-22": 32650,
-  "2022-09-23": 32673,
-  "2022-09-24": 32701,
-  "2022-09-25": 32730,
-  "2022-09-26": 32756,
-  "2022-09-27": 32778,
-  "2022-09-28": 32799,
-  "2022-09-29": 32822,
-  "2022-09-30": 32850,
-  "2022-10-01": 32880,
-  "2022-10-02": 32901,
-  "2022-10-03": 32921,
-  "2022-10-04": 32948,
-  "2022-10-05": 32981,
-  "2022-10-06": 33003,
-  "2022-10-07": 33022,
-  "2022-10-08": 33051,
-  "2022-10-09": 33086,
-  "2022-10-10": 33093,
-  "2022-10-11": 33120,
-  "2022-10-12": 33147,
-  "2022-10-13": 33167,
-  "2022-10-14": 33201,
-  "2022-10-15": 33238,
-  "2022-10-16": 33284,
-  "2022-10-17": 33307,
-  "2022-10-18": 33330,
-  "2022-10-19": 33349,
-  "2022-10-20": 33364,
-  "2022-10-21": 33399,
-  "2022-10-22": 33438,
-  "2022-10-23": 33480,
-  "2022-10-24": 33499,
-  "2022-10-25": 33521,
-  "2022-10-26": 33537,
-  "2022-10-27": 33561,
-  "2022-10-28": 33590,
-  "2022-10-29": 33630,
-  "2022-10-30": 33650,
-  "2022-10-31": 33676,
-  "2022-11-01": 33691,
-  "2022-11-02": 33707,
-  "2022-11-03": 33724,
-  "2022-11-04": 33748,
-  "2022-11-05": 33773,
-  "2022-11-06": 33797,
-  "2022-11-07": 33823,
-  "2022-11-08": 33852,
-  "2022-11-09": 33876,
-  "2022-11-10": 33898,
-  "2022-11-11": 33930,
-  "2022-11-12": 33970,
-  "2022-11-13": 33994,
-  "2022-11-14": 34028,
-  "2022-11-15": 34053,
-  "2022-11-16": 34065,
-  "2022-11-17": 34084,
-  "2022-11-18": 34091,
-  "2022-11-19": 34096,
-  "2022-11-20": 34118,
-  "2022-11-21": 34146,
-  "2022-11-22": 34176,
-  "2022-11-23": 34172,
-  "2022-11-24": 34249,
-  "2022-11-25": 34286,
-  "2022-11-26": 34313,
-  "2022-11-27": 34341,
-  "2022-11-28": 34371,
-  "2022-11-29": 34391,
-  "2022-11-30": 34407,
-  "2022-12-01": 34435,
-  "2022-12-02": 34454,
-  "2022-12-03": 34496,
-  "2022-12-04": 34538,
-  "2022-12-05": 34565,
-  "2022-12-06": 34573,
-  "2022-12-07": 34594,
-  "2022-12-08": 34623,
-  "2022-12-09": 34646,
-  "2022-12-10": 34676,
-  "2022-12-11": 34692,
-  "2022-12-12": 34717,
-  "2022-12-13": 34750,
-  "2022-12-14": 34784,
-  "2022-12-15": 34809,
-  "2022-12-16": 34833,
-  "2022-12-17": 34864,
-  "2022-12-18": 34899,
-  "2022-12-19": 34923,
-  "2022-12-20": 34970,
-  "2022-12-21": 34970,
-  "2022-12-22": 34994,
-  "2022-12-24": 35056,
-  "2022-12-25": 35086,
-  "2022-12-26": 35116,
-  "2022-12-27": 35145,
-  "2022-12-28": 35170,
-  "2022-12-29": 35199,
-  "2022-12-30": 35229,
-  "2022-12-31": 35259,
-  "2023-01-01": 35286,
-  "2023-01-02": 35312,
-  "2023-01-03": 35353,
-  "2023-01-04": 35383,
-  "2023-01-05": 35409,
-  "2023-01-06": 35436,
-  "2023-01-07": 35490,
-  "2023-01-08": 35497,
-  "2023-01-09": 35529,
-  "2023-01-10": 35551,
-  "2023-01-11": 35588,
-  "2023-01-12": 35627,
-  "2023-01-13": 35653,
-  "2023-01-14": 35713,
-  "2023-01-15": 35717,
-  "2023-01-16": 35755,
-  "2023-01-17": 35792,
-  "2023-01-18": 35810,
-  "2023-01-19": 35848,
-  "2023-01-20": 35891,
-  "2023-01-21": 35931,
-  "2023-01-22": 35959,
-  "2023-01-23": 35980,
-  "2023-01-24": 36006,
-  "2023-01-25": 36038,
-  "2023-01-26": 36069,
-  "2023-01-27": 36087,
-  "2023-01-28": 36116,
-  "2023-01-29": 36138,
-  "2023-01-30": 36164,
-  "2023-01-31": 36164,
-  "2023-02-01": 36218,
-  "2023-02-02": 36242,
-  "2023-02-03": 36268,
-  "2023-02-04": 36293,
-  "2023-02-05": 36317,
-  "2023-02-06": 36354,
-  "2023-02-07": 36385,
-  "2023-02-08": 36431,
-  "2023-02-09": 36431,
-  "2023-02-10": 36461,
-  "2023-02-11": 36498,
-  "2023-02-12": 36559,
-  "2023-02-13": 36581,
-  "2023-02-14": 36581,
-  "2023-02-15": 36596,
-  "2023-02-16": 36612,
-  "2023-02-17": 36631,
-  "2023-02-18": 36687,
-  "2023-02-19": 36692,
-  "2023-02-20": 36719,
-  "2023-02-21": 36742,
-  "2023-02-22": 36775,
-  "2023-02-23": 36798,
-  "2023-02-24": 36822,
-  "2023-02-25": 36859,
-  "2023-02-26": 36886,
-  "2023-02-27": 36922,
-  "2023-02-28": 36922,
-  "2023-03-01": 36947,
-  "2023-03-02": 36969,
-  "2023-03-03": 36992,
-  "2023-03-04": 37013,
-  "2023-03-05": 37070,
-  "2023-03-06": 37070,
-  "2023-03-07": 37095,
-  "2023-03-08": 37113,
-  "2023-03-09": 37138,
-  "2023-03-10": 37163,
-  "2023-03-11": 37187,
-  "2023-03-12": 37213,
-  "2023-03-13": 37230,
-  "2023-03-14": 37261,
-  "2023-03-15": 37287,
-  "2023-03-16": 37315,
-  "2023-03-17": 37315,
-  "2023-03-18": 37368,
-  "2023-03-19": 37392,
-  "2023-03-20": 37431,
-  "2023-03-21": 37449,
-  "2023-03-22": 37474,
-  "2023-03-23": 37515,
-  "2023-03-24": 37515,
-  "2023-03-25": 37573,
-  "2023-03-26": 37611,
-  "2023-03-27": 37640,
-  "2023-03-28": 37672,
-  "2023-03-29": 37701,
-  "2023-03-30": 37749,
-  "2023-03-31": 37749,
-  "2023-04-01": 37782,
-  "2023-04-02": 37817,
-  "2023-04-03": 37861,
-  "2023-04-04": 37894,
-  "2023-04-05": 37927,
-  "2023-04-06": 37962,
-  "2023-04-07": 38002,
-  "2023-04-09": 38087,
-  "2023-04-10": 38121,
-  "2023-04-11": 38189,
-  "2023-04-12": 38189,
-  "2023-04-13": 38220,
-  "2023-04-14": 38260,
-  "2023-04-15": 38302,
-  "2023-04-16": 38359,
-  "2023-04-17": 38394,
-  "2023-04-18": 38442,
-  "2023-04-19": 38480,
-  "2023-04-20": 38519,
-  "2023-04-21": 38564,
-  "2023-04-22": 38614,
-  "2023-04-23": 38666,
-  "2023-04-24": 38701,
-  "2023-04-25": 38748,
-  "2023-04-26": 38804,
-  "2023-04-27": 38844,
-  "2023-04-28": 38875,
-  "2023-04-29": 38918,
-  "2023-04-30": 38974,
-  "2023-05-01": 39015,
-  "2023-05-02": 39057,
-  "2023-05-03": 39085,
-  "2023-05-04": 39123,
-  "2023-05-05": 39160,
-  "2023-05-06": 39196,
-  "2023-05-07": 39249,
-  "2023-05-08": 39299,
-  "2023-05-09": 39336,
-  "2023-05-10": 39371,
-  "2023-05-11": 39406,
-  "2023-05-12": 39440,
-  "2023-05-13": 39491,
-  "2023-05-14": 39530,
-  "2023-05-15": 39562,
-  "2023-05-16": 39595,
-  "2023-05-17": 39627,
-  "2023-05-18": 39661,
-  "2023-05-19": 39715,
-  "2023-05-20": 39810,
-  "2023-05-21": 39810,
-  "2023-05-22": 39810,
-  "2023-05-23": 39890,
-  "2023-05-24": 39947,
-  "2023-05-25": 39961,
-  "2023-05-26": 40012,
-  "2023-05-27": 40061,
-  "2023-05-28": 40123,
-  "2023-05-29": 40123,
-  "2023-05-30": 40217,
-  "2023-05-31": 40248,
-  "2023-06-01": 40295,
-  "2023-06-02": 40339,
-  "2023-06-03": 40382,
-  "2023-06-04": 40426,
-  "2023-06-05": 40463,
-  "2023-06-06": 40492,
-  "2023-06-07": 40531,
-  "2023-06-08": 40555,
-  "2023-06-09": 40590,
-  "2023-06-10": 40626,
-  "2023-06-11": 40675,
-  "2023-06-12": 40715,
-  "2023-06-13": 40741,
-  "2023-06-14": 40741,
-  "2023-06-15": 40803,
-  "2023-06-16": 40837,
-  "2023-06-17": 40867,
-  "2023-06-18": 40898,
-  "2023-06-19": 40945,
-  "2023-06-20": 40982,
-  "2023-06-21": 41010,
-  "2023-06-22": 41041,
-  "2023-06-23": 41067,
-  "2023-06-24": 41105,
-  "2023-06-25": 41147,
-  "2023-06-26": 41188,
-  "2023-06-27": 41219,
-  "2023-06-28": 41245,
-  "2023-06-29": 41282,
-  "2023-06-30": 41325,
-  "2023-07-01": 41390,
-  "2023-07-02": 41390,
-  "2023-07-03": 41413,
-  "2023-07-04": 41442,
-  "2023-07-05": 41475,
-  "2023-07-06": 41558,
-  "2023-07-07": 41558,
-  "2023-07-08": 41604,
-  "2023-07-09": 41645,
-  "2023-07-10": 41683,
-  "2023-07-11": 41716,
-  "2023-07-12": 41749,
-  "2023-07-13": 41783,
-  "2023-07-14": 41829,
-  "2023-07-15": 41856,
-  "2023-07-16": 41895,
-  "2023-07-17": 41921,
-  "2023-07-18": 41958,
-  "2023-07-19": 42006,
-  "2023-07-20": 42038,
-  "2023-07-21": 42070,
-  "2023-07-22": 42107,
-  "2023-07-23": 42153,
-  "2023-07-24": 42176,
-  "2023-07-25": 42209,
-  "2023-07-26": 42249,
-  "2023-07-27": 42287,
-  "2023-07-28": 42334,
-  "2023-07-29": 42371,
-  "2023-07-30": 42406,
-  "2023-07-31": 42442,
-  "2023-08-01": 42473,
-  "2023-08-02": 42501,
-  "2023-08-03": 42527,
-  "2023-08-04": 42573,
-  "2023-08-05": 42606,
-  "2023-08-06": 42699,
-  "2023-08-07": 42699,
-  "2023-08-08": 42719,
-  "2023-08-09": 42757,
-  "2023-08-10": 42788,
-  "2023-08-11": 42816,
-  "2023-08-12": 42848,
-  "2023-08-13": 42886,
-  "2023-08-14": 42928,
-  "2023-08-15": 42999,
-  "2023-08-16": 42999,
-  "2023-08-17": 43036,
-  "2023-08-18": 43075,
-  "2023-08-19": 43114,
-  "2023-08-20": 43158,
-  "2023-08-21": 43203,
-  "2023-08-22": 43236,
-  "2023-08-23": 43273,
-  "2023-08-24": 43315,
-  "2023-08-25": 43354,
-  "2023-08-26": 43387,
-  "2023-08-27": 43426,
-  "2023-08-28": 43460,
-  "2023-08-29": 43492,
-  "2023-08-30": 43536,
-  "2023-08-31": 43568,
-  "2023-09-01": 43639,
-  "2023-09-02": 43639,
-  "2023-09-03": 43681,
-  "2023-09-04": 43727,
-  "2023-09-05": 43782,
-  "2023-09-06": 43827,
-  "2023-09-07": 43875,
-  "2023-09-08": 43917,
-  "2023-09-09": 43957,
-  "2023-09-10": 44008,
-  "2023-09-11": 44048,
-  "2023-09-12": 44083,
-  "2023-09-13": 44136,
-  "2023-09-14": 44186,
-  "2023-09-15": 44231,
-  "2023-09-16": 44278,
-  "2023-09-17": 44325,
-  "2023-09-18": 44357,
-  "2023-09-19": 44405,
-  "2023-09-20": 44432,
-  "2023-09-21": 44474,
-  "2023-09-22": 44503,
-  "2023-09-23": 44544,
-  "2023-09-24": 44581,
-  "2023-09-25": 44607,
-  "2023-09-26": 44645,
-  "2023-09-27": 44667,
-  "2023-09-28": 44700,
-  "2023-09-29": 44737,
-  "2023-09-30": 44784,
-  "2023-10-01": 44823,
-  "2023-10-02": 44873,
-  "2023-10-03": 44907,
-  "2023-10-04": 44937,
-  "2023-10-05": 44982,
-  "2023-10-06": 45027,
-  "2023-10-07": 45075,
-  "2023-10-08": 45119,
-  "2023-10-09": 45153,
-  "2023-10-10": 45188,
-  "2023-10-11": 45251,
-  "2023-10-12": 45251,
-  "2023-10-13": 45280,
-  "2023-10-14": 45316,
-  "2023-10-15": 45359,
-  "2023-10-16": 45386,
-  "2023-10-17": 45421,
-  "2023-10-18": 45465,
-  "2023-10-19": 45504,
-  "2023-10-20": 45544,
-  "2023-10-21": 45576,
-  "2023-10-22": 45629,
-  "2023-10-23": 45663,
-  "2023-10-24": 45687,
-  "2023-10-25": 45720,
-  "2023-10-26": 45751,
-  "2023-10-27": 45788,
-  "2023-10-28": 45822,
-  "2023-10-29": 45843,
-  "2023-10-30": 45908,
-  "2023-10-31": 45908,
-  "2023-11-01": 45940,
-  "2023-11-02": 45964,
-  "2023-11-03": 46000,
-  "2023-11-04": 46037,
-  "2023-11-05": 46070,
-  "2023-11-06": 46094,
-  "2023-11-07": 46117,
-  "2023-11-08": 46151,
-  "2023-11-09": 46171,
-  "2023-11-10": 46215,
-  "2023-11-11": 46261,
-  "2023-11-12": 46302,
-  "2023-11-13": 46339,
-  "2023-11-14": 46365,
-  "2023-11-15": 46365,
-  "2023-11-16": 46431,
-  "2023-11-17": 46503,
-  "2023-11-18": 46503,
-  "2023-11-19": 46532,
-  "2023-11-20": 46574,
-  "2023-11-21": 46610,
-  "2023-11-22": 46653,
-  "2023-11-23": 46696,
-  "2023-11-24": 46732,
-  "2023-11-25": 46766,
-  "2023-11-26": 46795,
-  "2023-11-27": 46830,
-  "2023-11-28": 46874,
-  "2023-11-29": 46949,
-  "2023-11-30": 46949,
-  "2023-12-01": 46978,
-  "2023-12-02": 47003,
-  "2023-12-03": 47038,
-  "2023-12-04": 47071,
-  "2023-12-05": 47088,
-  "2023-12-06": 47130,
-  "2023-12-07": 47156,
-  "2023-12-08": 47189,
-  "2023-12-09": 47230,
-  "2023-12-10": 47267,
-  "2023-12-11": 47291,
-  "2023-12-12": 47324,
-  "2023-12-13": 47345,
-  "2023-12-14": 47365,
-  "2023-12-15": 47390,
-  "2023-12-16": 47408,
-  "2023-12-17": 47445,
-  "2023-12-18": 47469,
-  "2023-12-19": 47488,
-  "2023-12-20": 47505,
-  "2023-12-21": 47534,
-  "2023-12-22": 47564,
-  "2023-12-23": 47586,
-  "2023-12-24": 47622,
-  "2023-12-25": 47652,
-  "2023-12-26": 47690,
-  "2023-12-27": 47711,
-  "2023-12-30": 47788,
-  "2023-12-31": 47815,
-  "2024-01-01": 47846,
-  "2024-01-02": 47863,
-  "2024-01-03": 47892
+  "2024-01-17": 48339,
+  "date_first_scraped": "2021-12-29",
+  "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
+  "name": "Legendary Labels: VP Records",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279533,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209946,
+      "name": "Baby Can I Hold You Tonight",
+      "url": "https://open.spotify.com/track/1UZu42Sn6pGcRPFyPh2yTo"
+    },
+    {
+      "album": {
+        "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
+        "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Babylon Too Rough",
+      "url": "https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz"
+    },
+    {
+      "album": {
+        "name": "Big Big",
+        "url": "https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH"
+      },
+      "artists": [
+        {
+          "name": "Christopher Martin",
+          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182828,
+      "name": "Big Big",
+      "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
+    },
+    {
+      "album": {
+        "name": "Freddie McGregor: The Anthology",
+        "url": "https://open.spotify.com/album/0BYUeVSCYNS6CaldxhIo1F"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Big Ship",
+      "url": "https://open.spotify.com/track/3wIMCE0IWJmOQFeBjCS6hy"
+    },
+    {
+      "album": {
+        "name": "Freddie McGregor: The Anthology",
+        "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 197733,
+      "name": "Big Ship",
+      "url": "https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg"
+    },
+    {
+      "album": {
+        "name": "Mr. Budy Bye",
+        "url": "https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw"
+      },
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244200,
+      "name": "Budy Bye",
+      "url": "https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1"
+    },
+    {
+      "album": {
+        "name": "Lava Ground",
+        "url": "https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp"
+      },
+      "artists": [
+        {
+          "name": "I Wayne",
+          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221866,
+      "name": "Cant Satisfy Her",
+      "url": "https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb"
+    },
+    {
+      "album": {
+        "name": "REGGAE Music Again",
+        "url": "https://open.spotify.com/album/7JRTrGi5KSTpPQIg7f5DhM"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Come Over [Missing You]",
+      "url": "https://open.spotify.com/track/4MAo6tvIRCEjUZLOrC9Z4q"
+    },
+    {
+      "album": {
+        "name": "Strictly The Best Vol. 36",
+        "url": "https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G"
+      },
+      "artists": [
+        {
+          "name": "Alaine",
+          "url": "https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230106,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq"
+    },
+    {
+      "album": {
+        "name": "Stage One",
+        "url": "https://open.spotify.com/album/6Y5344aCqHNxQNAUStzHrd"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "Deport Them",
+      "url": "https://open.spotify.com/track/5KhypMVGqMI9mgsrrv2lxc"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 237536,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1Bl33q0pGYrxSaxS0bWSDy"
+    },
+    {
+      "album": {
+        "name": "Differentology",
+        "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Differentology (Ready for the Road)",
+      "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Papa Michigan & General Smiley",
+          "url": "https://open.spotify.com/artist/3tWGY8bZf7smVOhsty203k"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 211250,
+      "name": "Diseases",
+      "url": "https://open.spotify.com/track/7bw5yR8AcrOS9C0JSXD6Sv"
+    },
+    {
+      "album": {
+        "name": "Strictly The Best Vol. 41",
+        "url": "https://open.spotify.com/album/20fAOHdcb20tgKFjoV7sEO"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
+      "duration_ms": 150240,
+      "name": "Dollar Sign",
+      "url": "https://open.spotify.com/track/7wGEsU6lPs4SmvJkMXtyQG"
+    },
+    {
+      "album": {
+        "name": "Don't Haffi Dread",
+        "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238550,
+      "name": "Don't Haffi Dread",
+      "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226244,
+      "name": "Down By The River",
+      "url": "https://open.spotify.com/track/3XrZy5LkmYl1NK36XUdTCN"
+    },
+    {
+      "album": {
+        "name": "Reggae Anthology: Winston Riley - Quintessential Techniques",
+        "url": "https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav"
+      },
+      "artists": [
+        {
+          "name": "Super Beagle",
+          "url": "https://open.spotify.com/artist/0vD2WzuswHKLaJQIAiPrfc"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 217840,
+      "name": "Dust A Sound Boy",
+      "url": "https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza"
+    },
+    {
+      "album": {
+        "name": "Spice In Your Life",
+        "url": "https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5"
+      },
+      "artists": [
+        {
+          "name": "Richie Spice",
+          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227960,
+      "name": "Earth A Run Red",
+      "url": "https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Tanto Metro & Devonte",
+          "url": "https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228166,
+      "name": "Everyone Falls In Love",
+      "url": "https://open.spotify.com/track/1jRVjtZnyLjE0LOS8UT78f"
+    },
+    {
+      "album": {
+        "name": "Everyone Falls In Love",
+        "url": "https://open.spotify.com/album/3D9Ac8ZaUdpT75shinyjTY"
+      },
+      "artists": [
+        {
+          "name": "Tanto Metro & Devonte",
+          "url": "https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Everyone Falls in Love",
+      "url": "https://open.spotify.com/track/6nGwWIh0ATJqK9cXbLqDw8"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Wailing Souls",
+          "url": "https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 251790,
+      "name": "Firehouse Rock",
+      "url": "https://open.spotify.com/track/35UgqtCNd7EVpcKJ8t84Cl"
+    },
+    {
+      "album": {
+        "name": "Heart Of The Congos",
+        "url": "https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M"
+      },
+      "artists": [
+        {
+          "name": "The Congos",
+          "url": "https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328240,
+      "name": "Fisherman",
+      "url": "https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "T.O.K",
+          "url": "https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 211077,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/6LjGQGrhPUtHLECjlWVTaa"
+    },
+    {
+      "album": {
+        "name": "Ganga Lee",
+        "url": "https://open.spotify.com/album/4QlYySdP2EIK3mHElsQOvr"
+      },
+      "artists": [
+        {
+          "name": "Louie Culture",
+          "url": "https://open.spotify.com/artist/65xomMlePqBzEuBb4XXRjE"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 176213,
+      "name": "Ganga Lee",
+      "url": "https://open.spotify.com/track/7GrDTXhDzVTUKYl49Whe9e"
+    },
+    {
+      "album": {
+        "name": "Wa-Do-Dem",
+        "url": "https://open.spotify.com/album/2fGzC6ZvAqmpBr8dprAQTT"
+      },
+      "artists": [
+        {
+          "name": "Eek-A-Mouse",
+          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Ganja Smuggling",
+      "url": "https://open.spotify.com/track/5iynCtpEY7mx4ou54tHBPH"
+    },
+    {
+      "album": {
+        "name": "RIDDIM DRIVEN - LIQUID",
+        "url": "https://open.spotify.com/album/4e6N1whg9F7qjcpOvZtxEP"
+      },
+      "artists": [
+        {
+          "name": "Tanto Metro & Devonte",
+          "url": "https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208986,
+      "name": "Give It To Her",
+      "url": "https://open.spotify.com/track/4ZS5tKyn5PsNS2NI4NxyiJ"
+    },
+    {
+      "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/3nHyznRwytwaj0sBoa9RR1"
+      },
+      "artists": [
+        {
+          "name": "Tanto Metro & Devonte",
+          "url": "https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209053,
+      "name": "Give It To Her",
+      "url": "https://open.spotify.com/track/00FU5uypELwgQuM9IbFC6G"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256706,
+      "name": "Give Praise",
+      "url": "https://open.spotify.com/track/59fbwTdEQbbRZx40fxwnl0"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Cocoa Tea",
+          "url": "https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242988,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/45JJz10TKQlBAwbm9hmFus"
+    },
+    {
+      "album": {
+        "name": "Half Pint",
+        "url": "https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s"
+      },
+      "artists": [
+        {
+          "name": "Half Pint",
+          "url": "https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Michael Prophet",
+          "url": "https://open.spotify.com/artist/2qUfyLUGgzdl230mYZsu82"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 223089,
+      "name": "Gunman",
+      "url": "https://open.spotify.com/track/445wd3hPxcxpEbtg0VAnrk"
+    },
+    {
+      "album": {
+        "name": "Mr Vegas: The Hits",
+        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
+    },
+    {
+      "album": {
+        "name": "Heads High",
+        "url": "https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 211440,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU"
+    },
+    {
+      "album": {
+        "name": "Reggae Anthology: Sweet Reggae Music (1979-84)",
+        "url": "https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Here I Come",
+      "url": "https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK"
+    },
+    {
+      "album": {
+        "name": "Inna Heights",
+        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273040,
+      "name": "Hills And Valleys",
+      "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 232781,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Ini Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 224786,
+      "name": "Hot Stepper",
+      "url": "https://open.spotify.com/track/3lcNT3qDqs1teAkuLERgSR"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Half Pint",
+          "url": "https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228053,
+      "name": "I Am Not A Substitute Lover",
+      "url": "https://open.spotify.com/track/0VEM1OY21jskZupMY6iNpU"
+    },
+    {
+      "album": {
+        "name": "The Strong One",
+        "url": "https://open.spotify.com/album/0Ypu0QySaX7HxWhzRBBjGZ"
+      },
+      "artists": [
+        {
+          "name": "Etana",
+          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234720,
+      "name": "I Am Not Afraid",
+      "url": "https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy"
+    },
+    {
+      "album": {
+        "name": "A Moment In Time",
+        "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222960,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
+    },
+    {
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/0Xc31I7ncsYzDIH6TVBIi7"
+      },
+      "artists": [
+        {
+          "name": "Sanchez",
+          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201960,
+      "name": "I'm Missing You",
+      "url": "https://open.spotify.com/track/7d2gr7qoBXzybhUGscD03H"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+        },
+        {
+          "name": "Jeremy Harding",
+          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
+        },
+        {
+          "name": "Murray Elias",
+          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 273360,
+      "name": "I'm Still in Love with You (feat. Sasha)",
+      "url": "https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+        },
+        {
+          "name": "Jeremy Harding",
+          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
+        },
+        {
+          "name": "Murray Elias",
+          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "I'm Still in Love with You (feat. Sasha)",
+      "url": "https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202622,
+      "name": "Ice Cream Love",
+      "url": "https://open.spotify.com/track/48iLhlIRqVb2jZuUfZCdqr"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Tanya Stephens",
+          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 252788,
+      "name": "It's A Pity",
+      "url": "https://open.spotify.com/track/4TOlKsCgIfslTxibIq25fK"
+    },
+    {
+      "album": {
+        "name": "It's Growing",
+        "url": "https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC"
+      },
+      "artists": [
+        {
+          "name": "Garnett Silk",
+          "url": "https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219240,
+      "name": "It's Growing",
+      "url": "https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208600,
+      "name": "Just One Of Those Days",
+      "url": "https://open.spotify.com/track/5ct2jAw2NOEUke6P8DhCJC"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Frankie Paul",
+          "url": "https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209627,
+      "name": "Kushumpeng",
+      "url": "https://open.spotify.com/track/7HBuxHsm3kslrZ0jjmaTfK"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Echo Minott",
+          "url": "https://open.spotify.com/artist/6qT3BuvjUmrtH3OzJ18mRh"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 225524,
+      "name": "Lazy Body",
+      "url": "https://open.spotify.com/track/5cJ7yT8euOz4d4v3DCq7k5"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/1dWQbbFSkCNnMbdSJMmsge"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203392,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Queen Ifrica",
+          "url": "https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 245788,
+      "name": "Lioness On The Rise",
+      "url": "https://open.spotify.com/track/46ZiBZ2u1pHLG3VnTSCpqE"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "I Wayne",
+          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212262,
+      "name": "Living In Love",
+      "url": "https://open.spotify.com/track/5XXd7aHObJEHYm9FpsNeKH"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231634,
+      "name": "Longing For",
+      "url": "https://open.spotify.com/track/5AJrLAegpdGCK0nhEAf8Zv"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 191265,
+      "name": "Loodi (feat. Vybz Kartel)",
+      "url": "https://open.spotify.com/track/1CIHxDDSh3DoSyeAaxpRyd"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Garnett Silk",
+          "url": "https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 213518,
+      "name": "Lord Watch Over Our Shoulders",
+      "url": "https://open.spotify.com/track/1HFbmxRMA8kI3aSAi3mE0V"
+    },
+    {
+      "album": {
+        "name": "Reggae Gold 2007",
+        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+      },
+      "artists": [
+        {
+          "name": "Pressure Busspipre",
+          "url": "https://open.spotify.com/artist/3ptWB2WLHDeI7QQQDDGGfw"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258653,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Junior Kelly",
+          "url": "https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 228308,
+      "name": "Love So Nice",
+      "url": "https://open.spotify.com/track/3u580X2ecFOBTQx5oj8bcm"
+    },
+    {
+      "album": {
+        "name": "Extra Raw: The First Lady Of Dancehall",
+        "url": "https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Man Is The Least",
+      "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 233698,
+      "name": "Mi Caan Sleep",
+      "url": "https://open.spotify.com/track/2UCgki0bxkjFy49YALLKsE"
+    },
+    {
+      "album": {
+        "name": "My Woman, My Everything (feat. Wandecoal) - Single",
+        "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233717,
+      "name": "My Woman, My Everything (feat. Wandecoal)",
+      "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
+    },
+    {
+      "album": {
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
+    },
+    {
+      "album": {
+        "name": "Escape From Babylon",
+        "url": "https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD"
+      },
+      "artists": [
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254906,
+      "name": "No Cocaine",
+      "url": "https://open.spotify.com/track/07QuKUTu5O40AibYYPx98I"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201794,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV"
+      },
+      "artists": [
+        {
+          "name": "Jah9",
+          "url": "https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244412,
+      "name": "Note To Self (Okay) [feat. Chronixx]",
+      "url": "https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA"
+    },
+    {
+      "album": {
+        "name": "Music Works Showcase 88",
+        "url": "https://open.spotify.com/album/2GoLSEUKLGFbX4C3js0DMf"
+      },
+      "artists": [
+        {
+          "name": "Lady G",
+          "url": "https://open.spotify.com/artist/1C5RzkueJX7bh2ZrzpA2fa"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 228226,
+      "name": "Nuff Respect",
+      "url": "https://open.spotify.com/track/0N5RZqR45NTsDe4yuXyoCr"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "The Heptones",
+          "url": "https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 240515,
+      "name": "Party Time",
+      "url": "https://open.spotify.com/track/6WmxceB5TJZITixfBWggph"
+    },
+    {
+      "album": {
+        "name": "Police In Helicopter",
+        "url": "https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq"
+      },
+      "artists": [
+        {
+          "name": "John Holt",
+          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219160,
+      "name": "Police In Helicopter",
+      "url": "https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 239517,
+      "name": "Pon De River, Pon De Bank",
+      "url": "https://open.spotify.com/track/05ldMUa2b7KhctXmx0T30M"
+    },
+    {
+      "album": {
+        "name": "Jah Love",
+        "url": "https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG"
+      },
+      "artists": [
+        {
+          "name": "Yami Bolo",
+          "url": "https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 241333,
+      "name": "Put Down The Weapon (feat. Capleton)",
+      "url": "https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl"
+    },
+    {
+      "album": {
+        "name": "Reggae Gold 2018: 25th Anniversary",
+        "url": "https://open.spotify.com/album/20sz7G46ikHgml11yKh7Yn"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197487,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/46Vrct1wOEW4TcEw8NVq4Y"
+    },
+    {
+      "album": {
+        "name": "Tough Life",
+        "url": "https://open.spotify.com/album/0j4h4INrckemf0kmGd2NHc"
+      },
+      "artists": [
+        {
+          "name": "Junior Kelly",
+          "url": "https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "Rasta Should Be Deeper",
+      "url": "https://open.spotify.com/track/77DMJWGzzpLk8Fzd2jpqTI"
+    },
+    {
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237065,
+      "name": "Rock Away",
+      "url": "https://open.spotify.com/track/57EuuAQJrXOVeAdII7zhMb"
+    },
+    {
+      "album": {
+        "name": "One Man Against The World",
+        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369573,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
+    },
+    {
+      "album": {
+        "name": "No Holding Back",
+        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Saddest Day",
+      "url": "https://open.spotify.com/track/4qaxWylitp9qvg0zsaEqeo"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Admiral Tibet",
+          "url": "https://open.spotify.com/artist/7N1RqISwGmxHcUN59NBioy"
+        },
+        {
+          "name": "Shabba Ranks",
+          "url": "https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG"
+        },
+        {
+          "name": "Ninja Man",
+          "url": "https://open.spotify.com/artist/4ze3vk2xvoOCzaoin892Cf"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 233167,
+      "name": "Serious Time",
+      "url": "https://open.spotify.com/track/6AbvzOk3kg6wANbJ7hiuTo"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250190,
+      "name": "She's Royal",
+      "url": "https://open.spotify.com/track/4ZEcuuNRfZk2osjAHAUJ8J"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-24",
+      "duration_ms": 153181,
+      "name": "So Mi Like It",
+      "url": "https://open.spotify.com/track/4evk2rvqh2F8rgf314SAAf"
+    },
+    {
+      "album": {
+        "name": "Mr. Brooks...A Better Tomorrow",
+        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
+    },
+    {
+      "album": {
+        "name": "Da Real Thing",
+        "url": "https://open.spotify.com/album/6P6cZYXPzjL5mwHhgkJBC5"
+      },
+      "artists": [
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Solid As A Rock",
+      "url": "https://open.spotify.com/track/0jgyTx1QHB5dvsylTJhcvK"
+    },
+    {
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254866,
+      "name": "Soul Provider",
+      "url": "https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw"
+    },
+    {
+      "album": {
+        "name": "Reggae Anthology: Music Is The Rod",
+        "url": "https://open.spotify.com/album/3JIyyQ4Re9JW5BB706adXk"
+      },
+      "artists": [
+        {
+          "name": "Garnett Silk",
+          "url": "https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199626,
+      "name": "Splashing Dashing",
+      "url": "https://open.spotify.com/track/0Cenbvs1uDQvTLhnCXw9zv"
+    },
+    {
+      "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+    },
+    {
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
+    },
+    {
+      "album": {
+        "name": "Stop That Train",
+        "url": "https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J"
+      },
+      "artists": [
+        {
+          "name": "Clint Eastwood",
+          "url": "https://open.spotify.com/artist/7gDNcZAStavwiBcb1CHQND"
+        },
+        {
+          "name": "General Saint",
+          "url": "https://open.spotify.com/artist/3LvMhOfZRrE93aW5Xtb5Ua"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310173,
+      "name": "Stop That Train",
+      "url": "https://open.spotify.com/track/0Ajis5FpljtwnD7uWqO8jf"
+    },
+    {
+      "album": {
+        "name": "Dancehall 101 Vol. 4",
+        "url": "https://open.spotify.com/album/6ZcTGeWRDeMEguHWZlwAmf"
+      },
+      "artists": [
+        {
+          "name": "Papa San",
+          "url": "https://open.spotify.com/artist/06eDTSeVX3k8W5bNAbnF9a"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235533,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/0hBoSLU2bvScgEA8JAAiyQ"
+    },
+    {
+      "album": {
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx"
+      },
+      "artists": [
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262800,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U"
+    },
+    {
+      "album": {
+        "name": "Sweep Over My Soul",
+        "url": "https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233906,
+      "name": "Sweep Over My Soul",
+      "url": "https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk"
+    },
+    {
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211960,
+      "name": "Sycamore Tree",
+      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "J.C. Lodge",
+          "url": "https://open.spotify.com/artist/4VyFyMJAJ2YzNgXkyAyyUh"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 229274,
+      "name": "Telephone Love",
+      "url": "https://open.spotify.com/track/3WUmpyblWerEMLKpsuRmPn"
+    },
+    {
+      "album": {
+        "name": "Reggae Gold 2012",
+        "url": "https://open.spotify.com/album/6ZETpi6qYuaLSvgs57jbVS"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 218573,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/2BDTYAe51lKG7w5XMCVeyg"
+    },
+    {
+      "album": {
+        "name": "Reign Of Fire",
+        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
+      },
+      "artists": [
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246453,
+      "name": "That Day Will Come",
+      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
+    },
+    {
+      "album": {
+        "name": "Oh No It's Red Rat",
+        "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
+      },
+      "artists": [
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214160,
+      "name": "Tight Up Skirt",
+      "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
+    },
+    {
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz"
+      },
+      "artists": [
+        {
+          "name": "Cocoa Tea",
+          "url": "https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227933,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"
+    },
+    {
+      "album": {
+        "name": "Climb",
+        "url": "https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z"
+      },
+      "artists": [
+        {
+          "name": "Queen Ifrica",
+          "url": "https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 219013,
+      "name": "Trueversation (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq"
+    },
+    {
+      "album": {
+        "name": "Two Sevens Clash (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6"
+      },
+      "artists": [
+        {
+          "name": "Culture",
+          "url": "https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209186,
+      "name": "Two Sevens Clash",
+      "url": "https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0"
+    },
+    {
+      "album": {
+        "name": "Together We Stand",
+        "url": "https://open.spotify.com/album/1eUOFuDvLbju6Dbqj2KqlK"
+      },
+      "artists": [
+        {
+          "name": "Richie Spice",
+          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 265053,
+      "name": "Unity We Need (feat. Chronixx)",
+      "url": "https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Singing Sweet",
+          "url": "https://open.spotify.com/artist/1ABKdHci1opQWv1GLXH0Na"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223756,
+      "name": "When I See You Smile",
+      "url": "https://open.spotify.com/track/0sedwk5jVoYD78bxdwJIjt"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195825,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/51cD1h0oYV3swdZPMCs5ua"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Cutty Ranks",
+          "url": "https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207760,
+      "name": "Who Say Me Dun",
+      "url": "https://open.spotify.com/track/2w4EvvVRkqNVdEmnUg7bF5"
+    },
+    {
+      "album": {
+        "name": "Reggae Anthology: The Channel One Story",
+        "url": "https://open.spotify.com/album/0wJj4U3OkeDEVHMh3DrERF"
+      },
+      "artists": [
+        {
+          "name": "Leroy Smart",
+          "url": "https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 172133,
+      "name": "Without Love",
+      "url": "https://open.spotify.com/track/6PncwUsSzAwxXDxZj33kgK"
+    },
+    {
+      "album": {
+        "name": "In The Streets To Africa",
+        "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
+      },
+      "artists": [
+        {
+          "name": "Richie Spice",
+          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225506,
+      "name": "Youth Dem Cold",
+      "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX70zl2mz7vvV"
 }

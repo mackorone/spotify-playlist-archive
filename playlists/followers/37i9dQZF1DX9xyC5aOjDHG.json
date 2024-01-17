@@ -1,524 +1,2631 @@
 {
-  "2022-07-25": 82285,
-  "2022-07-26": 82331,
-  "2022-07-27": 82396,
-  "2022-07-28": 82461,
-  "2022-07-29": 82515,
-  "2022-07-30": 82628,
-  "2022-07-31": 82628,
-  "2022-08-01": 82702,
-  "2022-08-02": 82795,
-  "2022-08-03": 82795,
-  "2022-08-04": 82868,
-  "2022-08-05": 82928,
-  "2022-08-06": 82970,
-  "2022-08-07": 83012,
-  "2022-08-08": 83073,
-  "2022-08-09": 83129,
-  "2022-08-10": 83176,
-  "2022-08-11": 83251,
-  "2022-08-12": 83314,
-  "2022-08-13": 83371,
-  "2022-08-14": 83456,
-  "2022-08-15": 83524,
-  "2022-08-16": 83591,
-  "2022-08-17": 83667,
-  "2022-08-18": 83710,
-  "2022-08-19": 83778,
-  "2022-08-20": 83838,
-  "2022-08-21": 83891,
-  "2022-08-22": 83942,
-  "2022-08-23": 84002,
-  "2022-08-24": 84058,
-  "2022-08-25": 84100,
-  "2022-08-26": 84155,
-  "2022-08-27": 84214,
-  "2022-08-28": 84275,
-  "2022-08-29": 84330,
-  "2022-08-30": 84253,
-  "2022-08-31": 83978,
-  "2022-09-01": 83684,
-  "2022-09-02": 83384,
-  "2022-09-03": 82892,
-  "2022-09-04": 82705,
-  "2022-09-05": 82736,
-  "2022-09-06": 82787,
-  "2022-09-07": 82817,
-  "2022-09-09": 82951,
-  "2022-09-10": 83011,
-  "2022-09-11": 83071,
-  "2022-09-12": 83122,
-  "2022-09-13": 83177,
-  "2022-09-15": 83272,
-  "2022-09-16": 83336,
-  "2022-09-17": 83402,
-  "2022-09-18": 83466,
-  "2022-09-19": 83548,
-  "2022-09-20": 83608,
-  "2022-09-21": 83651,
-  "2022-09-22": 83706,
-  "2022-09-23": 83771,
-  "2022-09-24": 83833,
-  "2022-09-25": 83912,
-  "2022-09-26": 83994,
-  "2022-09-27": 84062,
-  "2022-09-28": 84130,
-  "2022-09-29": 84199,
-  "2022-09-30": 84272,
-  "2022-10-01": 84327,
-  "2022-10-02": 84384,
-  "2022-10-03": 84463,
-  "2022-10-04": 84520,
-  "2022-10-05": 84584,
-  "2022-10-06": 84640,
-  "2022-10-07": 84694,
-  "2022-10-08": 84740,
-  "2022-10-09": 84847,
-  "2022-10-10": 84860,
-  "2022-10-11": 84932,
-  "2022-10-12": 84997,
-  "2022-10-13": 85054,
-  "2022-10-14": 85101,
-  "2022-10-15": 85164,
-  "2022-10-16": 85215,
-  "2022-10-17": 85283,
-  "2022-10-18": 85323,
-  "2022-10-19": 85400,
-  "2022-10-20": 85486,
-  "2022-10-21": 85553,
-  "2022-10-22": 85701,
-  "2022-10-23": 85853,
-  "2022-10-24": 85957,
-  "2022-10-25": 86070,
-  "2022-10-26": 86151,
-  "2022-10-27": 86219,
-  "2022-10-28": 86319,
-  "2022-10-29": 86416,
-  "2022-10-30": 86518,
-  "2022-10-31": 86617,
-  "2022-11-01": 86691,
-  "2022-11-02": 86780,
-  "2022-11-03": 86865,
-  "2022-11-04": 86949,
-  "2022-11-05": 87045,
-  "2022-11-06": 87140,
-  "2022-11-07": 87343,
-  "2022-11-08": 87478,
-  "2022-11-09": 87599,
-  "2022-11-10": 87683,
-  "2022-11-11": 87781,
-  "2022-11-12": 87907,
-  "2022-11-13": 87999,
-  "2022-11-14": 88112,
-  "2022-11-15": 88201,
-  "2022-11-16": 88274,
-  "2022-11-17": 88358,
-  "2022-11-18": 88372,
-  "2022-11-19": 88380,
-  "2022-11-20": 88431,
-  "2022-11-21": 88523,
-  "2022-11-22": 88605,
-  "2022-11-23": 88672,
-  "2022-11-24": 88788,
-  "2022-11-25": 88887,
-  "2022-11-26": 88964,
-  "2022-11-27": 89026,
-  "2022-11-28": 89107,
-  "2022-11-29": 89186,
-  "2022-11-30": 89264,
-  "2022-12-01": 89327,
-  "2022-12-02": 89381,
-  "2022-12-03": 89489,
-  "2022-12-04": 89572,
-  "2022-12-05": 89668,
-  "2022-12-06": 89732,
-  "2022-12-07": 89804,
-  "2022-12-08": 89890,
-  "2022-12-09": 89966,
-  "2022-12-10": 90045,
-  "2022-12-11": 90075,
-  "2022-12-12": 90151,
-  "2022-12-13": 90209,
-  "2022-12-14": 90269,
-  "2022-12-15": 90348,
-  "2022-12-16": 90399,
-  "2022-12-17": 90445,
-  "2022-12-18": 90496,
-  "2022-12-19": 90544,
-  "2022-12-20": 90645,
-  "2022-12-21": 90645,
-  "2022-12-22": 90678,
-  "2022-12-24": 90772,
-  "2022-12-25": 90814,
-  "2022-12-26": 90882,
-  "2022-12-27": 90921,
-  "2022-12-28": 90979,
-  "2022-12-29": 91043,
-  "2022-12-30": 91084,
-  "2022-12-31": 91143,
-  "2023-01-01": 91188,
-  "2023-01-02": 91235,
-  "2023-01-03": 91291,
-  "2023-01-04": 91354,
-  "2023-01-05": 91433,
-  "2023-01-06": 91495,
-  "2023-01-07": 91571,
-  "2023-01-08": 91581,
-  "2023-01-09": 91635,
-  "2023-01-10": 91695,
-  "2023-01-11": 91745,
-  "2023-01-12": 91800,
-  "2023-01-13": 91854,
-  "2023-01-14": 91979,
-  "2023-01-15": 91982,
-  "2023-01-16": 92036,
-  "2023-01-17": 92091,
-  "2023-01-18": 92152,
-  "2023-01-19": 92192,
-  "2023-01-20": 92233,
-  "2023-01-21": 92269,
-  "2023-01-22": 92288,
-  "2023-01-23": 92322,
-  "2023-01-24": 92350,
-  "2023-01-25": 92387,
-  "2023-01-26": 92426,
-  "2023-01-27": 92470,
-  "2023-01-28": 92514,
-  "2023-01-29": 92573,
-  "2023-01-30": 92599,
-  "2023-01-31": 92599,
-  "2023-02-01": 92670,
-  "2023-02-02": 92711,
-  "2023-02-03": 92732,
-  "2023-02-04": 92791,
-  "2023-02-05": 92831,
-  "2023-02-06": 92868,
-  "2023-02-07": 92894,
-  "2023-02-08": 92966,
-  "2023-02-09": 92966,
-  "2023-02-10": 93010,
-  "2023-02-11": 93064,
-  "2023-02-12": 93175,
-  "2023-02-13": 93232,
-  "2023-02-14": 93232,
-  "2023-02-15": 93260,
-  "2023-02-16": 93295,
-  "2023-02-17": 93336,
-  "2023-02-18": 93408,
-  "2023-02-19": 93414,
-  "2023-02-20": 93445,
-  "2023-02-21": 93500,
-  "2023-02-22": 93548,
-  "2023-02-23": 93576,
-  "2023-02-24": 93620,
-  "2023-02-25": 93659,
-  "2023-02-26": 93675,
-  "2023-02-27": 93748,
-  "2023-02-28": 93748,
-  "2023-03-01": 93776,
-  "2023-03-02": 93789,
-  "2023-03-03": 93820,
-  "2023-03-04": 93855,
-  "2023-03-05": 93939,
-  "2023-03-06": 93939,
-  "2023-03-07": 93977,
-  "2023-03-08": 94014,
-  "2023-03-09": 94061,
-  "2023-03-10": 94100,
-  "2023-03-11": 94148,
-  "2023-03-12": 94210,
-  "2023-03-13": 94251,
-  "2023-03-14": 94290,
-  "2023-03-15": 94362,
-  "2023-03-16": 94421,
-  "2023-03-17": 94421,
-  "2023-03-18": 94558,
-  "2023-03-19": 94618,
-  "2023-03-20": 94709,
-  "2023-03-21": 94772,
-  "2023-03-22": 94835,
-  "2023-03-23": 94900,
-  "2023-03-24": 94900,
-  "2023-03-25": 95039,
-  "2023-03-26": 95107,
-  "2023-03-27": 95173,
-  "2023-03-28": 95259,
-  "2023-03-29": 95357,
-  "2023-03-30": 95471,
-  "2023-03-31": 95471,
-  "2023-04-01": 95521,
-  "2023-04-02": 95574,
-  "2023-04-03": 95617,
-  "2023-04-04": 95668,
-  "2023-04-05": 95738,
-  "2023-04-06": 95817,
-  "2023-04-07": 95858,
-  "2023-04-09": 95973,
-  "2023-04-10": 96052,
-  "2023-04-11": 96188,
-  "2023-04-12": 96188,
-  "2023-04-13": 96246,
-  "2023-04-14": 96295,
-  "2023-04-15": 96346,
-  "2023-04-16": 96417,
-  "2023-04-17": 96471,
-  "2023-04-18": 96524,
-  "2023-04-19": 96615,
-  "2023-04-20": 96686,
-  "2023-04-21": 96737,
-  "2023-04-22": 96804,
-  "2023-04-23": 96862,
-  "2023-04-24": 96916,
-  "2023-04-25": 96984,
-  "2023-04-26": 97061,
-  "2023-04-27": 97121,
-  "2023-04-28": 97182,
-  "2023-04-29": 97236,
-  "2023-04-30": 97280,
-  "2023-05-01": 97318,
-  "2023-05-02": 97386,
-  "2023-05-03": 97453,
-  "2023-05-04": 97520,
-  "2023-05-05": 97583,
-  "2023-05-06": 97624,
-  "2023-05-07": 97694,
-  "2023-05-08": 97750,
-  "2023-05-09": 97823,
-  "2023-05-10": 97875,
-  "2023-05-11": 97936,
-  "2023-05-12": 98002,
-  "2023-05-13": 98058,
-  "2023-05-14": 98100,
-  "2023-05-15": 98155,
-  "2023-05-16": 98206,
-  "2023-05-17": 98266,
-  "2023-05-18": 98316,
-  "2023-05-19": 98386,
-  "2023-05-20": 98486,
-  "2023-05-21": 98486,
-  "2023-05-22": 98486,
-  "2023-05-23": 98597,
-  "2023-05-24": 98701,
-  "2023-05-25": 98712,
-  "2023-05-26": 98774,
-  "2023-05-27": 98824,
-  "2023-05-28": 98870,
-  "2023-05-29": 98870,
-  "2023-05-30": 98995,
-  "2023-05-31": 99028,
-  "2023-06-01": 99078,
-  "2023-06-02": 99136,
-  "2023-06-03": 99204,
-  "2023-06-04": 99235,
-  "2023-06-05": 99291,
-  "2023-06-06": 99341,
-  "2023-06-07": 99404,
-  "2023-06-08": 99447,
-  "2023-06-09": 99506,
-  "2023-06-10": 99563,
-  "2023-06-11": 99602,
-  "2023-06-12": 99633,
-  "2023-06-13": 99716,
-  "2023-06-14": 99764,
-  "2023-06-15": 99818,
-  "2023-06-16": 99884,
-  "2023-06-17": 99935,
-  "2023-06-18": 100001,
-  "2023-06-19": 100081,
-  "2023-06-20": 100152,
-  "2023-06-21": 100214,
-  "2023-06-22": 100265,
-  "2023-06-23": 100330,
-  "2023-06-24": 100415,
-  "2023-06-25": 100469,
-  "2023-06-26": 100533,
-  "2023-06-27": 100592,
-  "2023-06-28": 100628,
-  "2023-06-29": 100670,
-  "2023-06-30": 100746,
-  "2023-07-01": 100852,
-  "2023-07-02": 100852,
-  "2023-07-03": 100897,
-  "2023-07-04": 100952,
-  "2023-07-05": 100975,
-  "2023-07-06": 101069,
-  "2023-07-07": 101069,
-  "2023-07-08": 101107,
-  "2023-07-09": 101151,
-  "2023-07-10": 101196,
-  "2023-07-11": 101236,
-  "2023-07-12": 101273,
-  "2023-07-13": 101314,
-  "2023-07-14": 101356,
-  "2023-07-15": 101389,
-  "2023-07-16": 101459,
-  "2023-07-17": 101513,
-  "2023-07-18": 101578,
-  "2023-07-19": 101646,
-  "2023-07-20": 101683,
-  "2023-07-21": 101738,
-  "2023-07-22": 101778,
-  "2023-07-23": 101823,
-  "2023-07-24": 101854,
-  "2023-07-25": 101887,
-  "2023-07-26": 101917,
-  "2023-07-27": 101965,
-  "2023-07-28": 102010,
-  "2023-07-29": 102055,
-  "2023-07-30": 102099,
-  "2023-07-31": 102135,
-  "2023-08-01": 102192,
-  "2023-08-02": 102245,
-  "2023-08-03": 102319,
-  "2023-08-04": 102357,
-  "2023-08-05": 102392,
-  "2023-08-06": 102486,
-  "2023-08-07": 102486,
-  "2023-08-08": 102523,
-  "2023-08-09": 102564,
-  "2023-08-10": 102614,
-  "2023-08-11": 102644,
-  "2023-08-12": 102697,
-  "2023-08-13": 102745,
-  "2023-08-14": 102784,
-  "2023-08-15": 102861,
-  "2023-08-16": 102861,
-  "2023-08-17": 102894,
-  "2023-08-18": 102945,
-  "2023-08-19": 102981,
-  "2023-08-20": 103029,
-  "2023-08-21": 103058,
-  "2023-08-22": 103088,
-  "2023-08-23": 103122,
-  "2023-08-24": 103153,
-  "2023-08-25": 103192,
-  "2023-08-26": 103226,
-  "2023-08-27": 103281,
-  "2023-08-28": 103326,
-  "2023-08-29": 103372,
-  "2023-08-30": 103425,
-  "2023-08-31": 103488,
-  "2023-09-01": 103566,
-  "2023-09-02": 103566,
-  "2023-09-03": 103588,
-  "2023-09-04": 103623,
-  "2023-09-05": 103642,
-  "2023-09-06": 103665,
-  "2023-09-07": 103679,
-  "2023-09-08": 103712,
-  "2023-09-09": 103741,
-  "2023-09-10": 103759,
-  "2023-09-11": 103785,
-  "2023-09-12": 103812,
-  "2023-09-13": 103844,
-  "2023-09-14": 103879,
-  "2023-09-15": 103907,
-  "2023-09-16": 103938,
-  "2023-09-17": 103977,
-  "2023-09-18": 104017,
-  "2023-09-19": 104048,
-  "2023-09-20": 104065,
-  "2023-09-21": 104101,
-  "2023-09-22": 104125,
-  "2023-09-23": 104161,
-  "2023-09-24": 104191,
-  "2023-09-25": 104214,
-  "2023-09-26": 104251,
-  "2023-09-27": 104275,
-  "2023-09-28": 104307,
-  "2023-09-29": 104336,
-  "2023-09-30": 104366,
-  "2023-10-01": 104411,
-  "2023-10-02": 104444,
-  "2023-10-03": 104482,
-  "2023-10-04": 104520,
-  "2023-10-05": 104562,
-  "2023-10-06": 104591,
-  "2023-10-07": 104625,
-  "2023-10-08": 104652,
-  "2023-10-09": 104668,
-  "2023-10-10": 104694,
-  "2023-10-11": 104738,
-  "2023-10-12": 104738,
-  "2023-10-13": 104759,
-  "2023-10-14": 104786,
-  "2023-10-15": 104807,
-  "2023-10-16": 104845,
-  "2023-10-17": 104872,
-  "2023-10-18": 104891,
-  "2023-10-19": 104916,
-  "2023-10-20": 104945,
-  "2023-10-21": 104962,
-  "2023-10-22": 104997,
-  "2023-10-23": 105026,
-  "2023-10-24": 105058,
-  "2023-10-25": 105084,
-  "2023-10-26": 105107,
-  "2023-10-27": 105142,
-  "2023-10-28": 105142,
-  "2023-10-29": 105142,
-  "2023-10-30": 105244,
-  "2023-10-31": 105244,
-  "2023-11-01": 105305,
-  "2023-11-02": 105332,
-  "2023-11-03": 105363,
-  "2023-11-04": 105363,
-  "2023-11-05": 105429,
-  "2023-11-06": 105465,
-  "2023-11-07": 105496,
-  "2023-11-08": 105532,
-  "2023-11-09": 105574,
-  "2023-11-10": 105593,
-  "2023-11-11": 105627,
-  "2023-11-12": 105665,
-  "2023-11-13": 105707,
-  "2023-11-14": 105749,
-  "2023-11-15": 105749,
-  "2023-11-16": 105814,
-  "2023-11-17": 105873,
-  "2023-11-18": 105873,
-  "2023-11-19": 105902,
-  "2023-11-20": 105930,
-  "2023-11-21": 105956,
-  "2023-11-22": 105982,
-  "2023-11-23": 105999,
-  "2023-11-24": 105999,
-  "2023-11-25": 106043,
-  "2023-11-26": 106071,
-  "2023-11-27": 106093,
-  "2023-11-28": 106127,
-  "2023-11-29": 106183,
-  "2023-11-30": 106183,
-  "2023-12-01": 106183,
-  "2023-12-02": 106242,
-  "2023-12-03": 106284,
-  "2023-12-04": 106284,
-  "2023-12-05": 106357,
-  "2023-12-06": 106376,
-  "2023-12-07": 106387,
-  "2023-12-08": 106387,
-  "2023-12-09": 106453,
-  "2023-12-10": 106453,
-  "2023-12-11": 106541,
-  "2023-12-12": 106541,
-  "2023-12-13": 106625,
-  "2023-12-14": 106682,
-  "2023-12-15": 106699,
-  "2023-12-16": 106738,
-  "2023-12-17": 106764,
-  "2023-12-18": 106803,
-  "2023-12-19": 106836,
-  "2023-12-20": 106880,
-  "2023-12-21": 106918,
-  "2023-12-22": 106948,
-  "2023-12-23": 106973,
-  "2023-12-24": 107025,
-  "2023-12-25": 107068,
-  "2023-12-26": 107108,
-  "2023-12-27": 107142,
-  "2023-12-30": 107274,
-  "2023-12-31": 107308,
-  "2024-01-01": 107337,
-  "2024-01-02": 107378,
-  "2024-01-03": 107427
+  "2024-01-17": 108017,
+  "date_first_scraped": "2022-07-25",
+  "description": "Music & Episodes of \u201cSword Art Online\u201d series! \u97f3\u697d\u3068Podcast\u3067\u8fbf\u308b\u300c\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u300d\u306e\u4e16\u754c\uff01(C)2017 \u5ddd\u539f \u792b\uff0f\uff2b\uff21\uff24\uff2f\uff2b\uff21\uff37\uff21\u3000\u30a2\u30b9\u30ad\u30fc\u30fb\u30e1\u30c7\u30a3\u30a2\u30ef\u30fc\u30af\u30b9\uff0fSAO-A Project",
+  "name": "Sword Art Online -\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3-",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1402279,
+      "name": "#01 \u3010\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3011\u6238\u677e\u9065\u300c\u30a2\u30b9\u30ca\u3068\u6b69\u3093\u30609\u5e74\u9593\uff01\u6238\u677e\u9065\u3055\u3093\u306e\u58f0\u512a\u9053\u300d",
+      "url": "https://open.spotify.com/episode/2XMSgHy0msvlmHEtIo0Zbl"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1981100,
+      "name": "#02 \u3010\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3011\u6238\u677e\u9065\u00d7\u5927\u6fa4\u4fe1\u535a \u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306e\u304a\u4ed5\u4e8b\u3068\u30a2\u30cb\u30e1\u300e\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u300f\u7acb\u3061\u4e0a\u3052\u5f53\u6642\u306e\u601d\u3044\u51fa",
+      "url": "https://open.spotify.com/episode/10CPIvN8YOg3w5UODPTkpR"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2086530,
+      "name": "#03 \u3010\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3011\u6238\u677e\u9065\u00d7\u6cb3\u91ce\u4e9c\u77e2\u5b50\u76e3\u7763\u300c\u300e\u5287\u5834\u7248 \u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u300f\u5236\u4f5c\u30a8\u30d4\u30bd\u30fc\u30c9\u3068\u76e3\u7763\u306e\u304a\u4ed5\u4e8b\u300d",
+      "url": "https://open.spotify.com/episode/1VrQc2i1CsL97sUoS3DVCn"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1554416,
+      "name": "#04 \u3010\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3011\u6238\u677e\u9065\u00d7\u6c34\u702c\u3044\u306e\u308a\uff08\u30b3\u30e1\u30f3\u30c8\u51fa\u6f14\uff09\u300c\u6238\u677e\u9065\u00d7\u6c34\u702c\u3044\u306e\u308a\u304c\u304a\u4e92\u3044\u306e\u6c17\u306b\u306a\u308b\uff01\u7591\u554f\u306b\u7b54\u3048\u308b\u300d",
+      "url": "https://open.spotify.com/episode/0jQ4pdczjLAnsBrgABNrTq"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2260088,
+      "name": "#05 \u3010\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3011\u6238\u677e\u9065\u00d7\u8c6a\u83ef\uff37\u30b3\u30e1\u30f3\u30c8\u30b2\u30b9\u30c8\uff5e\u6c34\u702c\u3044\u306e\u308a\uff06LiSA",
+      "url": "https://open.spotify.com/episode/6BCkGbMs3LzVK0Yp1OIELc"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127213,
+      "name": "a tender feeling",
+      "url": "https://open.spotify.com/track/4qGRptIf2ok9nHdDH6VwzW"
+    },
+    {
+      "album": {
+        "name": "\u8d64\u3044\u7f60(who loves it?) / ADAMAS",
+        "url": "https://open.spotify.com/album/50elnoiGrA2BmbEZkoMlde"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225000,
+      "name": "ADAMAS",
+      "url": "https://open.spotify.com/track/2C4vIYxnhiZ2Gi0z0fzK0W"
+    },
+    {
+      "album": {
+        "name": "\u8d64\u3044\u7f60(who loves it?) / ADAMAS",
+        "url": "https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "ADAMAS",
+      "url": "https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/53OnwyegrDmbD2w3MuE41H"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301253,
+      "name": "ALONE",
+      "url": "https://open.spotify.com/track/06r2Vf7PzYgvzKdE6yYtQk"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 301253,
+      "name": "ALONE",
+      "url": "https://open.spotify.com/track/08EaMQ9Ro0NavqaBpdfJDk"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301253,
+      "name": "ALONE",
+      "url": "https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV"
+    },
+    {
+      "album": {
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/0UUW762dgvMubwt07PwmaF"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267177,
+      "name": "ANIMA",
+      "url": "https://open.spotify.com/track/6uT4In9l5gE4cSiMtxFtrC"
+    },
+    {
+      "album": {
+        "name": "unknown",
+        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269120,
+      "name": "ANIMA",
+      "url": "https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j"
+    },
+    {
+      "album": {
+        "name": "ANSWER",
+        "url": "https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "ANSWER",
+      "url": "https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30ea\u30c8 (CV:\u677e\u5ca1\u798e\u4e1e)",
+          "url": "https://open.spotify.com/artist/6JhcN5WCAWU88kw4RfPwEv"
+        },
+        {
+          "name": "\u30b7\u30ce\u30f3 (CV:\u6ca2\u57ce\u307f\u3086\u304d)",
+          "url": "https://open.spotify.com/artist/5MK1DksbVa4ME5L6NENRt0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248200,
+      "name": "BLAZING BULLET",
+      "url": "https://open.spotify.com/track/1skaofZEKSq01YUmdBj5sI"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248 \u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 -\u30aa\u30fc\u30c7\u30a3\u30ca\u30eb\u30fb\u30b9\u30b1\u30fc\u30eb- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30ca (CV:\u795e\u7530\u6c99\u4e5f\u52a0)",
+          "url": "https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248506,
+      "name": "Break Beat Bark!",
+      "url": "https://open.spotify.com/track/18Cjb5zI8lmbgVcaagZGoV"
+    },
+    {
+      "album": {
+        "name": "LiTTLE DEViL PARADE",
+        "url": "https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282626,
+      "name": "Catch the Moment",
+      "url": "https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u"
+    },
+    {
+      "album": {
+        "name": "Catch the Moment",
+        "url": "https://open.spotify.com/album/0WQOfN7DYXpd6pFBB7lsnl"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282813,
+      "name": "Catch the Moment",
+      "url": "https://open.spotify.com/track/2CCginq2XDHvfWhTN5pm7D"
+    },
+    {
+      "album": {
+        "name": "Catch the Moment",
+        "url": "https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 282813,
+      "name": "Catch the Moment",
+      "url": "https://open.spotify.com/track/7pSSCx0NsnJxXoIWJQddjh"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30ba\u30d9\u30c3\u30c8 (CV:\u9ad8\u57a3\u5f69\u967d)",
+          "url": "https://open.spotify.com/artist/2xGMhsiYI1AXzBnxZMmmCW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "Cheer! Tear? Cheer!!",
+      "url": "https://open.spotify.com/track/5Ss3HYbUCEKF186x9GNmYB"
+    },
+    {
+      "album": {
+        "name": "courage",
+        "url": "https://open.spotify.com/album/2tkOigb2s0UN64i51ctoDd"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253120,
+      "name": "courage",
+      "url": "https://open.spotify.com/track/1489XasC9uGNxGr3rXkLnX"
+    },
+    {
+      "album": {
+        "name": "\u6238\u677e\u9065 BEST SELECTION -sunshine-",
+        "url": "https://open.spotify.com/album/70DWgZ4T3tHK6LNpZGD7qy"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253160,
+      "name": "courage",
+      "url": "https://open.spotify.com/track/4GxtsOXnSql0QrnKmDLHOg"
+    },
+    {
+      "album": {
+        "name": "\u6238\u677e\u9065 BEST SELECTION -sunshine-",
+        "url": "https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253160,
+      "name": "courage",
+      "url": "https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR"
+    },
+    {
+      "album": {
+        "name": "LANDSPACE",
+        "url": "https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248946,
+      "name": "crossing field",
+      "url": "https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw"
+    },
+    {
+      "album": {
+        "name": "LANDSPACE",
+        "url": "https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248946,
+      "name": "crossing field",
+      "url": "https://open.spotify.com/track/5RsRhryZD9FdTmxsAaZ2mM"
+    },
+    {
+      "album": {
+        "name": "crossing field",
+        "url": "https://open.spotify.com/album/30KYUjwlg4U8Rw3rM0GeFs"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250973,
+      "name": "crossing field",
+      "url": "https://open.spotify.com/track/0zxgnfOWkAt0xA30KRoERq"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248 \u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 -\u30aa\u30fc\u30c7\u30a3\u30ca\u30eb\u30fb\u30b9\u30b1\u30fc\u30eb- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30ca (CV:\u795e\u7530\u6c99\u4e5f\u52a0)",
+          "url": "https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298093,
+      "name": "delete",
+      "url": "https://open.spotify.com/track/4CfqkMjzXFsR8KaIbhbxpp"
+    },
+    {
+      "album": {
+        "name": "Elza",
+        "url": "https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 244860,
+      "name": "Disorder",
+      "url": "https://open.spotify.com/track/4uOGiGwI26L2jrJ1x2wsMh"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244866,
+      "name": "Disorder",
+      "url": "https://open.spotify.com/track/099IISrQlAmu9XOofoIcBo"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244866,
+      "name": "Disorder",
+      "url": "https://open.spotify.com/track/1wlo67jw5f53oT6DMR25t8"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u30f6\u8c37\u76f4\u8449 (CV:\u7af9\u9054\u5f69\u5948)",
+          "url": "https://open.spotify.com/artist/0DiPC14URxNUmHHmQT6lJq"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281520,
+      "name": "Face to You",
+      "url": "https://open.spotify.com/track/6QVEprJRBQk68Hyz0mSEk4"
+    },
+    {
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/0fbBoyXMoJziZZLPzFPAwn"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266560,
+      "name": "forget-me-not",
+      "url": "https://open.spotify.com/track/1a8E3i6gMViattBkWMTz9Z"
+    },
+    {
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "forget-me-not",
+      "url": "https://open.spotify.com/track/6DCOPYnwHSpJ0GCKaXdjn5"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129399,
+      "name": "good bye, again and again",
+      "url": "https://open.spotify.com/track/3QUEUxPhOQcqRO4weYu2k6"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30a4 (CV:\u4f0a\u85e4\u304b\u306a\u6075)",
+          "url": "https://open.spotify.com/artist/60YNSUP6Foe0zPBdIo6yhb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257799,
+      "name": "Heart Sweet Heart",
+      "url": "https://open.spotify.com/track/42lossxkK17RPqKWte0sTP"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30a4 (CV:\u4f0a\u85e4\u304b\u306a\u6075)",
+          "url": "https://open.spotify.com/artist/60YNSUP6Foe0zPBdIo6yhb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259760,
+      "name": "I know \"ai\"",
+      "url": "https://open.spotify.com/track/28KRGP3ZbAPSn6qBfxyPgP"
+    },
+    {
+      "album": {
+        "name": "I will...",
+        "url": "https://open.spotify.com/album/1hSdqP7Dh0PN1hyU91nXFb"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 274320,
+      "name": "I will...",
+      "url": "https://open.spotify.com/track/2BTIKSOhf3X8OA3LWbFW2U"
+    },
+    {
+      "album": {
+        "name": "KALEIDOSCOPE",
+        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274320,
+      "name": "I will...",
+      "url": "https://open.spotify.com/track/3vQ4D2tTozS2EsJowFwMso"
+    },
+    {
+      "album": {
+        "name": "I will...",
+        "url": "https://open.spotify.com/album/5NiJNFnTIXAY1vbDLOaohA"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 274320,
+      "name": "I will...",
+      "url": "https://open.spotify.com/track/4DGJQEY7NUtuKRL6IX20U6"
+    },
+    {
+      "album": {
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/0Wo0KlDxNcCY4jLEaIbbda"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244173,
+      "name": "IGNITE",
+      "url": "https://open.spotify.com/track/0EZjVlgsRKTfVKkwU3fCw5"
+    },
+    {
+      "album": {
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244173,
+      "name": "IGNITE",
+      "url": "https://open.spotify.com/track/5ivhfpfnoHhD8rUI2t3aJG"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227960,
+      "name": "Independence",
+      "url": "https://open.spotify.com/track/0iqyYGvJJf6C4jxGr8IPXL"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227960,
+      "name": "Independence",
+      "url": "https://open.spotify.com/track/1VftzwJX5TeLsHwOSLhLiU"
+    },
+    {
+      "album": {
+        "name": "Elza",
+        "url": "https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 227966,
+      "name": "Independence",
+      "url": "https://open.spotify.com/track/3AuXpyDNWx0GYnRg1RJNB9"
+    },
+    {
+      "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277320,
+      "name": "INNOCENCE",
+      "url": "https://open.spotify.com/track/0N63llGavaESfPRIZkDkvL"
+    },
+    {
+      "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/3WbWeQw4LkhriparFG9vwC"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 277320,
+      "name": "INNOCENCE",
+      "url": "https://open.spotify.com/track/1AWJgpwgfPIrHDPU7cdR12"
+    },
+    {
+      "album": {
+        "name": "BLAU(Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yL6YZt4wjBGTe9t5DoGPa"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 277320,
+      "name": "INNOCENCE",
+      "url": "https://open.spotify.com/track/1mMvfxDcSe5dyAyTtFbaro"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30a6\u30ad (CV:\u60a0\u6728 \u78a7)",
+          "url": "https://open.spotify.com/artist/0V6S4VeIbYUXQdiMspk2uP"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263360,
+      "name": "Liberty Rosario",
+      "url": "https://open.spotify.com/track/4nYZvUptJRLuIxR2pSW8ch"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248 \u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 -\u30aa\u30fc\u30c7\u30a3\u30ca\u30eb\u30fb\u30b9\u30b1\u30fc\u30eb- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30ca (CV:\u795e\u7530\u6c99\u4e5f\u52a0)",
+          "url": "https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "longing",
+      "url": "https://open.spotify.com/track/0gayhpzGMu1hW3FIvM8tIf"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u30c7\u30b9\u30ac\u30f3 (CV:\u4fdd\u5fd7\u7dcf\u4e00\u6717)",
+          "url": "https://open.spotify.com/artist/0epzXjjbBmyEi2tsXZ3Dzw"
+        },
+        {
+          "name": "\u65b0\u5ddd\u606d\u4e8c (CV:\u82b1\u6c5f\u590f\u6a39)",
+          "url": "https://open.spotify.com/artist/0YOJZ9QtmNM6YScoC35f9X"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258160,
+      "name": "MAD BULLET\u201dS\u201d",
+      "url": "https://open.spotify.com/track/4wyYy0nfXGMrxSNWCOsyP9"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30fc\u30d5\u30a1 (CV:\u7af9\u9054\u5f69\u5948)",
+          "url": "https://open.spotify.com/artist/2zLtkB9yoKORGSNXxxDFpl"
+        },
+        {
+          "name": "\u30e6\u30a4 (CV:\u4f0a\u85e4\u304b\u306a\u6075)",
+          "url": "https://open.spotify.com/artist/60YNSUP6Foe0zPBdIo6yhb"
+        },
+        {
+          "name": "\u30b7\u30ea\u30ab (CV:\u65e5\u9ad8\u91cc\u83dc)",
+          "url": "https://open.spotify.com/artist/4JdD6IvJpVxTvMgM20lL6H"
+        },
+        {
+          "name": "\u30ea\u30ba\u30d9\u30c3\u30c8 (CV:\u9ad8\u57a3\u5f69\u967d)",
+          "url": "https://open.spotify.com/artist/2xGMhsiYI1AXzBnxZMmmCW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286320,
+      "name": "Memorial Calibur",
+      "url": "https://open.spotify.com/track/2bHfPiDaXYnoFJEw32TJst"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30c1 (CV:\u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/2yB9uZuPikJpMWWBcf0FRe"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258320,
+      "name": "Memory Heart Message",
+      "url": "https://open.spotify.com/track/14JIQY00fGjLW15dXYteUO"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30b9\u30ca (CV:\u6238\u677e\u9065)",
+          "url": "https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298400,
+      "name": "My Independent Destiny",
+      "url": "https://open.spotify.com/track/2Lgg2Q4gozHkVbsf6c5EWn"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30eb\u30b7",
+        "url": "https://open.spotify.com/album/6ax1NxmL4JCXn1GmzfWwJT"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 290453,
+      "name": "No More Time Machine",
+      "url": "https://open.spotify.com/track/12ktBcosX2XZuaV6DQflVZ"
+    },
+    {
+      "album": {
+        "name": "Launcher",
+        "url": "https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291440,
+      "name": "No More Time Machine",
+      "url": "https://open.spotify.com/track/3w87wrXLQsUSEaqVpp7aLQ"
+    },
+    {
+      "album": {
+        "name": "Launcher",
+        "url": "https://open.spotify.com/album/7oPUiFyVwpKOyQ4TIBVg0J"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291440,
+      "name": "No More Time Machine",
+      "url": "https://open.spotify.com/track/70YaeuDDWgSGHcneQV5L8W"
+    },
+    {
+      "album": {
+        "name": "OVERSKY",
+        "url": "https://open.spotify.com/album/5uw8YVzISyCjUPOqs2Dp4T"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267506,
+      "name": "Overfly",
+      "url": "https://open.spotify.com/track/1FMETllGs1yByaP10NGdN7"
+    },
+    {
+      "album": {
+        "name": "OVERSKY",
+        "url": "https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267506,
+      "name": "Overfly",
+      "url": "https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ea\u30ab (CV:\u65e5\u9ad8\u91cc\u83dc)",
+          "url": "https://open.spotify.com/artist/4JdD6IvJpVxTvMgM20lL6H"
+        },
+        {
+          "name": "\u30ea\u30ba\u30d9\u30c3\u30c8 (CV:\u9ad8\u57a3\u5f69\u967d)",
+          "url": "https://open.spotify.com/artist/2xGMhsiYI1AXzBnxZMmmCW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289986,
+      "name": "Party-go-round",
+      "url": "https://open.spotify.com/track/3TWSWDBVhUqVXqeY4ZBFTY"
+    },
+    {
+      "album": {
+        "name": "Elza",
+        "url": "https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 267424,
+      "name": "Rea(s)oN",
+      "url": "https://open.spotify.com/track/7cXiUiPBBvJlrijfy1N0MS"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267426,
+      "name": "Rea(s)oN",
+      "url": "https://open.spotify.com/track/1a2t2yAMEczuoPbLE6SN49"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 267426,
+      "name": "Rea(s)oN",
+      "url": "https://open.spotify.com/track/6uBKzWKkMX5scyTy389SmX"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u7530\u8a69\u4e43 (CV:\u6ca2\u57ce\u307f\u3086\u304d)",
+          "url": "https://open.spotify.com/artist/09nerR6qse2nkbw10JeEYE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341906,
+      "name": "RELIEF BULLET",
+      "url": "https://open.spotify.com/track/2pmA0R4c5h14O3gG6fgRBF"
+    },
+    {
+      "album": {
+        "name": "\u767e\u6b4c\u7e5a\u4e71",
+        "url": "https://open.spotify.com/album/60j3m6DUpJMJ0dKBjJ08F4"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227080,
+      "name": "RESISTER",
+      "url": "https://open.spotify.com/track/5PLqMo0jab5Brdv8WtS4Aw"
+    },
+    {
+      "album": {
+        "name": "\u767e\u6b4c\u7e5a\u4e71",
+        "url": "https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227080,
+      "name": "RESISTER",
+      "url": "https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D"
+    },
+    {
+      "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290233,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb"
+    },
+    {
+      "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/07GuO0cz2eNjqdF3DddPgr"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290233,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/6i9AGn563rAg3tWz95TnyZ"
+    },
+    {
+      "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/3yvuFmlp5UZJA4kGqoGAjC"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 291040,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/1soi407KlRSq7VqJz0Jhvd"
+    },
+    {
+      "album": {
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/0UUW762dgvMubwt07PwmaF"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 254181,
+      "name": "Scar/let",
+      "url": "https://open.spotify.com/track/4HvEFX6y1HctwbiuvRilat"
+    },
+    {
+      "album": {
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257786,
+      "name": "Scar/let",
+      "url": "https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30ea\u30c8 (CV:\u677e\u5ca1\u798e\u4e1e)",
+          "url": "https://open.spotify.com/artist/6JhcN5WCAWU88kw4RfPwEv"
+        },
+        {
+          "name": "\u30a2\u30b9\u30ca (CV:\u6238\u677e\u9065)",
+          "url": "https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq"
+        },
+        {
+          "name": "\u30ea\u30fc\u30d5\u30a1 (CV:\u7af9\u9054\u5f69\u5948)",
+          "url": "https://open.spotify.com/artist/2zLtkB9yoKORGSNXxxDFpl"
+        },
+        {
+          "name": "\u30e6\u30a4 (CV:\u4f0a\u85e4\u304b\u306a\u6075)",
+          "url": "https://open.spotify.com/artist/60YNSUP6Foe0zPBdIo6yhb"
+        },
+        {
+          "name": "\u30b7\u30ea\u30ab (CV:\u65e5\u9ad8\u91cc\u83dc)",
+          "url": "https://open.spotify.com/artist/4JdD6IvJpVxTvMgM20lL6H"
+        },
+        {
+          "name": "\u30ea\u30ba\u30d9\u30c3\u30c8 (CV:\u9ad8\u57a3\u5f69\u967d)",
+          "url": "https://open.spotify.com/artist/2xGMhsiYI1AXzBnxZMmmCW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461426,
+      "name": "Sing All Overtures",
+      "url": "https://open.spotify.com/track/17GZ37fOhA73A7hXllt2e0"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30fc\u30d5\u30a1 (CV:\u7af9\u9054\u5f69\u5948)",
+          "url": "https://open.spotify.com/artist/2zLtkB9yoKORGSNXxxDFpl"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "Sky The Graffiti",
+      "url": "https://open.spotify.com/track/2eRu4Ftg899xJNW0i60BIN"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30ea\u30fc\u30d4\u30f3\u30b0\u30ca\u30a4\u30c4",
+          "url": "https://open.spotify.com/artist/4g5F6ObLokctI1s1xEfH9B"
+        },
+        {
+          "name": "\u30a2\u30b9\u30ca (CV:\u6238\u677e\u9065)",
+          "url": "https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "Sleepless Legend",
+      "url": "https://open.spotify.com/track/72PpHn9C9QVEu1wiguMtNO"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248 \u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 -\u30aa\u30fc\u30c7\u30a3\u30ca\u30eb\u30fb\u30b9\u30b1\u30fc\u30eb- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30ca (CV:\u795e\u7530\u6c99\u4e5f\u52a0)",
+          "url": "https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "smile for you",
+      "url": "https://open.spotify.com/track/0dVfePUasoG0Op2MM7zm9r"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ce\u30f3 (CV:\u6ca2\u57ce\u307f\u3086\u304d)",
+          "url": "https://open.spotify.com/artist/5MK1DksbVa4ME5L6NENRt0"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "SOLITARY BULLET",
+      "url": "https://open.spotify.com/track/0rmDxHbH8PzKiRXF5aBU1y"
+    },
+    {
+      "album": {
+        "name": "LUNA JOULE (Extra Edition)",
+        "url": "https://open.spotify.com/album/2YQa2eGPuATUACbbTuKqRM"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 301800,
+      "name": "Startear",
+      "url": "https://open.spotify.com/track/3Z8TPULJZwq2N9KB8MfyjW"
+    },
+    {
+      "album": {
+        "name": "Candy Lips",
+        "url": "https://open.spotify.com/album/15urkuwuHAyODCoizByCf2"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302813,
+      "name": "Startear",
+      "url": "https://open.spotify.com/track/38V08pHESW17gjuCPLyDrj"
+    },
+    {
+      "album": {
+        "name": "Candy Lips",
+        "url": "https://open.spotify.com/album/6heFX0ix9ceeoOYOszU7ha"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 302813,
+      "name": "Startear",
+      "url": "https://open.spotify.com/track/6KUN3oEqWPrNg6XIMCpvYU"
+    },
+    {
+      "album": {
+        "name": "Elza",
+        "url": "https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 239959,
+      "name": "step, step",
+      "url": "https://open.spotify.com/track/27xkRV5pKfhXryD4eDmbYl"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239960,
+      "name": "step, step",
+      "url": "https://open.spotify.com/track/3eR8BkB8cHrt5TKGG7T3uf"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239960,
+      "name": "step, step",
+      "url": "https://open.spotify.com/track/7fgq3c35vndIAwNDY2e1fd"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30ea\u30c8 (CV:\u677e\u5ca1\u798e\u4e1e)",
+          "url": "https://open.spotify.com/artist/6JhcN5WCAWU88kw4RfPwEv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229680,
+      "name": "Sword & Soul",
+      "url": "https://open.spotify.com/track/5BdYi2iPD7UbZQqhybWq3w"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "swordland",
+      "url": "https://open.spotify.com/track/60a0z9XRCwk70L9gnxf4fV"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33840,
+      "name": "swordland~to be continued",
+      "url": "https://open.spotify.com/track/2ymkEAjk4NHGen1wtr1LzJ"
+    },
+    {
+      "album": {
+        "name": "HARUNA LUNA BEST 2012-2020",
+        "url": "https://open.spotify.com/album/1vCnYHrs6reo0lBGJanOph"
+      },
+      "artists": [
+        {
+          "name": "KOTOKO",
+          "url": "https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9"
+        },
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242653,
+      "name": "S\u00d7W -soul world-",
+      "url": "https://open.spotify.com/track/1s4s3WVHJAB1Sb4IWvxQiZ"
+    },
+    {
+      "album": {
+        "name": "LUNARIUM",
+        "url": "https://open.spotify.com/album/1Ev6ESbAlszzgJQvtsyzEL"
+      },
+      "artists": [
+        {
+          "name": "KOTOKO",
+          "url": "https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9"
+        },
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242653,
+      "name": "S\u00d7W -soul world-",
+      "url": "https://open.spotify.com/track/5N4vCxvpWBWptJyme07Ij4"
+    },
+    {
+      "album": {
+        "name": "LUNARIUM",
+        "url": "https://open.spotify.com/album/4wGmyRUJOSSYucp0h6uUBx"
+      },
+      "artists": [
+        {
+          "name": "KOTOKO \u00d7 LUNA",
+          "url": "https://open.spotify.com/artist/0jKJ2XYCO22ts4TT472JKR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242653,
+      "name": "S\u00d7W -soul world-",
+      "url": "https://open.spotify.com/track/65iYmg9KzP8RsiTsuifVVg"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123626,
+      "name": "think tenderly of you",
+      "url": "https://open.spotify.com/track/6G24G2b9bWqz6jZdOmM500"
+    },
+    {
+      "album": {
+        "name": "LiSA BEST -Way-",
+        "url": "https://open.spotify.com/album/62bCLGSLy7BJ41XO2jLPee"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256372,
+      "name": "Thrill, Risk, Heartless",
+      "url": "https://open.spotify.com/track/3EEbqmF2XVpU16DpHWB3Me"
+    },
+    {
+      "album": {
+        "name": "LiSA BEST -Way-",
+        "url": "https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256372,
+      "name": "Thrill, Risk, Heartless",
+      "url": "https://open.spotify.com/track/5gf9xFlRXntw7hl3BBAeNp"
+    },
+    {
+      "album": {
+        "name": "unknown",
+        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364013,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/4iaSSJYuSYd9MSOQ2au3Pc"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30b9\u30ca (CV:\u6238\u677e\u9065)",
+          "url": "https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257013,
+      "name": "Tomorrow's Rosario",
+      "url": "https://open.spotify.com/track/6Qxddzl5onLJBFE79UGii0"
+    },
+    {
+      "album": {
+        "name": "COLORFUL GIFT",
+        "url": "https://open.spotify.com/album/412nHvP191rDXzUZfEtKc5"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291933,
+      "name": "Two of us",
+      "url": "https://open.spotify.com/track/5j3tzguUyBwQUGIEcYg2zB"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30ce\u30af\u30ed/Two of us",
+        "url": "https://open.spotify.com/album/5rnRj20AJc76nJ23wiuH5O"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 292440,
+      "name": "Two of us",
+      "url": "https://open.spotify.com/track/5fZeTUn40PCVwUEZ3OIuqN"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248 \u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 -\u30aa\u30fc\u30c7\u30a3\u30ca\u30eb\u30fb\u30b9\u30b1\u30fc\u30eb- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30ca (CV:\u795e\u7530\u6c99\u4e5f\u52a0)",
+          "url": "https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287986,
+      "name": "Ubiquitous dB",
+      "url": "https://open.spotify.com/track/4QbDafBvBlc0FYgMHvWWo1"
+    },
+    {
+      "album": {
+        "name": "unlasting",
+        "url": "https://open.spotify.com/album/6KX3psH1IKf8fNaz65uqRP"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295219,
+      "name": "unlasting",
+      "url": "https://open.spotify.com/track/4sy8klhEbwqHc2od9K3p1h"
+    },
+    {
+      "album": {
+        "name": "LEO-NiNE",
+        "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296813,
+      "name": "unlasting",
+      "url": "https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk"
+    },
+    {
+      "album": {
+        "name": "unlasting",
+        "url": "https://open.spotify.com/album/7jfP5sIqy7L3NB082no1uM"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 297813,
+      "name": "unlasting",
+      "url": "https://open.spotify.com/track/7e5p1On2OUz3Pua4A4ZrsR"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30b9\u30ca (CV:\u6238\u677e\u9065)",
+          "url": "https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334333,
+      "name": "white flower garden",
+      "url": "https://open.spotify.com/track/11TMzJP7MvMZlDrGHe9wQ2"
+    },
+    {
+      "album": {
+        "name": "Windia",
+        "url": "https://open.spotify.com/album/0dzaSsP4J7oGhE8ru0bBlq"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265093,
+      "name": "Windia",
+      "url": "https://open.spotify.com/track/1F59vOOx8PLk4QktZPgYM1"
+    },
+    {
+      "album": {
+        "name": "LUNA JOULE (Extra Edition)",
+        "url": "https://open.spotify.com/album/2YQa2eGPuATUACbbTuKqRM"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265093,
+      "name": "Windia",
+      "url": "https://open.spotify.com/track/4VQkyCODavb8ofAW8WzNbr"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\uff65\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ea\u30ab (CV:\u65e5\u9ad8\u91cc\u83dc)",
+          "url": "https://open.spotify.com/artist/4JdD6IvJpVxTvMgM20lL6H"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243360,
+      "name": "\u2606Lovely Super Idol\u2606",
+      "url": "https://open.spotify.com/track/1VQfuv9mSuhw55inKRAzwu"
+    },
+    {
+      "album": {
+        "name": "FRAGMENT \uff08Special Edition\uff09",
+        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247426,
+      "name": "\u30a2\u30a4\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/3Bl9pbEgCoSnm50nG93bvL"
+    },
+    {
+      "album": {
+        "name": "FRAGMENT (Special Edition)",
+        "url": "https://open.spotify.com/album/0ZcZfUooxdwtpEc4In2uaQ"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247426,
+      "name": "\u30a2\u30a4\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/4Xx5wVZOwf2s2tNmhtvFpf"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30eb\u30b7",
+        "url": "https://open.spotify.com/album/6ax1NxmL4JCXn1GmzfWwJT"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 287053,
+      "name": "\u30b7\u30eb\u30b7",
+      "url": "https://open.spotify.com/track/2HYXGZkEv3m7RXuvFMKuU6"
+    },
+    {
+      "album": {
+        "name": "Launcher",
+        "url": "https://open.spotify.com/album/7oPUiFyVwpKOyQ4TIBVg0J"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288253,
+      "name": "\u30b7\u30eb\u30b7",
+      "url": "https://open.spotify.com/track/25xlibAjBlQ9DRyPvUOtjn"
+    },
+    {
+      "album": {
+        "name": "Launcher",
+        "url": "https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288253,
+      "name": "\u30b7\u30eb\u30b7",
+      "url": "https://open.spotify.com/track/6shqTPLADEpK31Qgi8LC7k"
+    },
+    {
+      "album": {
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/0Wo0KlDxNcCY4jLEaIbbda"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257733,
+      "name": "\u30b7\u30f3\u30b7\u30a2\u306e\u5149",
+      "url": "https://open.spotify.com/track/1O970SfwmzI5VIFX14Nc8t"
+    },
+    {
+      "album": {
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257733,
+      "name": "\u30b7\u30f3\u30b7\u30a2\u306e\u5149",
+      "url": "https://open.spotify.com/track/1mJgEIOFtgA4Ako3Xlyxo4"
+    },
+    {
+      "album": {
+        "name": "courage",
+        "url": "https://open.spotify.com/album/0LTA6fVf4cBsC7IPIKq37G"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 335986,
+      "name": "\u30bb\u30d1\u30ec\u30a4\u30c8\u30fb\u30a6\u30a7\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/6MxmAm7pmfQtsx2ZIdH14f"
+    },
+    {
+      "album": {
+        "name": "\u6238\u677e\u9065 BEST SELECTION -starlight-",
+        "url": "https://open.spotify.com/album/4koqulx259upSRxNzOx0RT"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336333,
+      "name": "\u30bb\u30d1\u30ec\u30a4\u30c8\u30fb\u30a6\u30a7\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/68FmEJGOAH3aPEMiIAZaAE"
+    },
+    {
+      "album": {
+        "name": "Elza",
+        "url": "https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 226287,
+      "name": "\u30d2\u30ab\u30ea",
+      "url": "https://open.spotify.com/track/2BvMpA00jH8sl90A9VVuY4"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226293,
+      "name": "\u30d2\u30ab\u30ea",
+      "url": "https://open.spotify.com/track/1Zjr1hkgFB8tuCZI3EfQqj"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226293,
+      "name": "\u30d2\u30ab\u30ea",
+      "url": "https://open.spotify.com/track/72akmQmKvUHQkC44JziD2X"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245386,
+      "name": "\u30d4\u30eb\u30b0\u30ea\u30e0",
+      "url": "https://open.spotify.com/track/2cQYIGCDgr9BAyCnMNehf9"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245386,
+      "name": "\u30d4\u30eb\u30b0\u30ea\u30e0",
+      "url": "https://open.spotify.com/track/5v57M8ipH5giH9l7m6u8Ku"
+    },
+    {
+      "album": {
+        "name": "Elza",
+        "url": "https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 245393,
+      "name": "\u30d4\u30eb\u30b0\u30ea\u30e0",
+      "url": "https://open.spotify.com/track/28J422M70C4zeTr5JBH8UL"
+    },
+    {
+      "album": {
+        "name": "Sunny Side Story",
+        "url": "https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288506,
+      "name": "\u30e6\u30e1\u30bb\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/1OvEX9vVeP0AlkQd3T0hHX"
+    },
+    {
+      "album": {
+        "name": "Sunny Side Story",
+        "url": "https://open.spotify.com/album/6GAYrjZCgPZl88EesMGIcb"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288506,
+      "name": "\u30e6\u30e1\u30bb\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/1phvSPDooA3DxfETC0npcr"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30e1\u30bb\u30ab\u30a4",
+        "url": "https://open.spotify.com/album/6HMiloPWJXDJiwGQd8SCLy"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 289920,
+      "name": "\u30e6\u30e1\u30bb\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/4rVKWIzlGgxproI0xUmcqL"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209440,
+      "name": "\u30ec\u30d7\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/3UriDyfO1fiP0DJjJjLzXc"
+    },
+    {
+      "album": {
+        "name": "ELZA",
+        "url": "https://open.spotify.com/album/1CDB7e19xQSb3EQzehBO8I"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "\u30ec\u30d7\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/4OqT2KsD1ax6GJJaGufL0W"
+    },
+    {
+      "album": {
+        "name": "Elza",
+        "url": "https://open.spotify.com/album/5fb2fBe8FYwR5fX935r2rV"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 209441,
+      "name": "\u30ec\u30d7\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/481leaQhnu88QWqsDEeIru"
+    },
+    {
+      "album": {
+        "name": "HARUNA LUNA BEST 2012-2020",
+        "url": "https://open.spotify.com/album/1vCnYHrs6reo0lBGJanOph"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 280866,
+      "name": "\u591c\u306e\u8679\u3092\u8d8a\u3048\u3066",
+      "url": "https://open.spotify.com/track/3pSbnqOyohXCQcQfKQSIlg"
+    },
+    {
+      "album": {
+        "name": "Candy Lips",
+        "url": "https://open.spotify.com/album/15urkuwuHAyODCoizByCf2"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281360,
+      "name": "\u591c\u306e\u8679\u3092\u8d8a\u3048\u3066",
+      "url": "https://open.spotify.com/track/4Gyu7D4V0Al26XfJ0fLOLx"
+    },
+    {
+      "album": {
+        "name": "Candy Lips",
+        "url": "https://open.spotify.com/album/6heFX0ix9ceeoOYOszU7ha"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 281360,
+      "name": "\u591c\u306e\u8679\u3092\u8d8a\u3048\u3066",
+      "url": "https://open.spotify.com/track/5v7DCJnzLzlEJHa6bfp68o"
+    },
+    {
+      "album": {
+        "name": "\u5f80\u3051",
+        "url": "https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "\u5f80\u3051",
+      "url": "https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB"
+    },
+    {
+      "album": {
+        "name": "\u5fc3\u81d3",
+        "url": "https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214453,
+      "name": "\u5fc3\u81d3",
+      "url": "https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM"
+    },
+    {
+      "album": {
+        "name": "\u6238\u677e\u9065 \u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/2aqsYmjvXDKKqe0JnAEMao"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15838,
+      "name": "\u6238\u677e\u9065 \u30b3\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/2j3zuOLNWbx9TNDIClHEmL"
+    },
+    {
+      "album": {
+        "name": "FRAGMENT \uff08Special Edition\uff09",
+        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252426,
+      "name": "\u6d41\u661f",
+      "url": "https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb"
+    },
+    {
+      "album": {
+        "name": "\u6d41\u661f / \u7d04\u675f",
+        "url": "https://open.spotify.com/album/5oa2b9jrfLzPENzgBP7NJ5"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253413,
+      "name": "\u6d41\u661f",
+      "url": "https://open.spotify.com/track/5C5mWaMRhYWMbGsLgX0Iyb"
+    },
+    {
+      "album": {
+        "name": "\u6d41\u661f / \u7d04\u675f",
+        "url": "https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253413,
+      "name": "\u6d41\u661f",
+      "url": "https://open.spotify.com/track/65nY6YE6AezagJqG3EUPua"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3II",
+        "url": "https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30b9\u30ca (CV:\u6238\u677e\u9065)",
+          "url": "https://open.spotify.com/artist/03WRnU6FJtqmZn7OZppQUq"
+        },
+        {
+          "name": "\u30e6\u30a6\u30ad (CV:\u60a0\u6728 \u78a7)",
+          "url": "https://open.spotify.com/artist/0V6S4VeIbYUXQdiMspk2uP"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "\u7a7a\u3078\u3068\u5b9b\u3066\u305f\u624b\u7d19",
+      "url": "https://open.spotify.com/track/4m8Mmyw3NX5RxhY7otry5D"
+    },
+    {
+      "album": {
+        "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+        "url": "https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        },
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        },
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318760,
+      "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+      "url": "https://open.spotify.com/track/0wMBwx4SiRJmcmRxtq6l4N"
+    },
+    {
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293746,
+      "name": "\u8679\u306e\u5f7c\u65b9\u306b",
+      "url": "https://open.spotify.com/track/73EQPKdoo72AxZXJ7Xhiq1"
+    },
+    {
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/0fbBoyXMoJziZZLPzFPAwn"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 293746,
+      "name": "\u8679\u306e\u5f7c\u65b9\u306b",
+      "url": "https://open.spotify.com/track/78jpMkvPJlHmokHiDrObRA"
+    },
+    {
+      "album": {
+        "name": "AUBE",
+        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291093,
+      "name": "\u8679\u306e\u97f3",
+      "url": "https://open.spotify.com/track/0PQjMVtI9hNKKf7rOyV94S"
+    },
+    {
+      "album": {
+        "name": "BEST -A-",
+        "url": "https://open.spotify.com/album/6hAgWrckOj0IIXxWO0MCsf"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291440,
+      "name": "\u8679\u306e\u97f3",
+      "url": "https://open.spotify.com/track/2T2P5sX4017qOkzbCCtI7u"
+    },
+    {
+      "album": {
+        "name": "\u8679\u306e\u97f3",
+        "url": "https://open.spotify.com/album/47fc2EpqcDqXo27UIBgnic"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 292573,
+      "name": "\u8679\u306e\u97f3",
+      "url": "https://open.spotify.com/track/3NplXjK5BivkwrHxVOCSgW"
+    },
+    {
+      "album": {
+        "name": "\u9006\u5883\u30b9\u30da\u30af\u30c8\u30eb",
+        "url": "https://open.spotify.com/album/0mE1VM8t550ELymqN22oqO"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219124,
+      "name": "\u9006\u5883\u30b9\u30da\u30af\u30c8\u30eb",
+      "url": "https://open.spotify.com/track/6xNxbelw9s7lEQDBBzqyCX"
+    },
+    {
+      "album": {
+        "name": "\u9752\u304f\u3001\u9752\u304f",
+        "url": "https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272300,
+      "name": "\u9752\u304f\u3001\u9752\u304f",
+      "url": "https://open.spotify.com/track/4x8y91an0erARwUUTifXWP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9xyC5aOjDHG"
 }

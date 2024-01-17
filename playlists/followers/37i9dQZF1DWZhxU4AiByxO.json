@@ -1,732 +1,5619 @@
 {
-  "2021-12-28": 433454,
-  "2021-12-29": 433472,
-  "2021-12-30": 433491,
-  "2021-12-31": 433501,
-  "2022-01-01": 433529,
-  "2022-01-02": 433545,
-  "2022-01-03": 433538,
-  "2022-01-04": 433543,
-  "2022-01-05": 433540,
-  "2022-01-06": 433529,
-  "2022-01-07": 433543,
-  "2022-01-08": 433557,
-  "2022-01-09": 433558,
-  "2022-01-10": 433589,
-  "2022-01-11": 433631,
-  "2022-01-12": 433682,
-  "2022-01-13": 433724,
-  "2022-01-14": 433766,
-  "2022-01-15": 433905,
-  "2022-01-16": 433917,
-  "2022-01-17": 434068,
-  "2022-01-18": 434071,
-  "2022-01-19": 434118,
-  "2022-01-20": 434255,
-  "2022-01-21": 434359,
-  "2022-01-22": 434423,
-  "2022-01-23": 434478,
-  "2022-01-24": 434555,
-  "2022-01-25": 434625,
-  "2022-01-26": 434693,
-  "2022-01-27": 434726,
-  "2022-01-28": 434750,
-  "2022-01-29": 434812,
-  "2022-01-30": 434878,
-  "2022-01-31": 434933,
-  "2022-02-01": 435004,
-  "2022-02-02": 435045,
-  "2022-02-03": 435087,
-  "2022-02-04": 435129,
-  "2022-02-05": 435178,
-  "2022-02-06": 435235,
-  "2022-02-07": 435309,
-  "2022-02-08": 435363,
-  "2022-02-09": 435429,
-  "2022-02-10": 435242,
-  "2022-02-11": 435247,
-  "2022-02-12": 435286,
-  "2022-02-13": 435339,
-  "2022-02-14": 435368,
-  "2022-02-15": 435411,
-  "2022-02-16": 435447,
-  "2022-02-17": 435471,
-  "2022-02-18": 435571,
-  "2022-02-19": 435612,
-  "2022-02-20": 435657,
-  "2022-02-21": 435715,
-  "2022-02-22": 435765,
-  "2022-02-23": 435838,
-  "2022-02-24": 435819,
-  "2022-02-25": 435943,
-  "2022-02-26": 435994,
-  "2022-02-27": 436120,
-  "2022-02-28": 436120,
-  "2022-03-01": 436170,
-  "2022-03-02": 436236,
-  "2022-03-03": 436308,
-  "2022-03-04": 436394,
-  "2022-03-05": 436475,
-  "2022-03-06": 436558,
-  "2022-03-07": 436603,
-  "2022-03-08": 436632,
-  "2022-03-09": 436696,
-  "2022-03-10": 436563,
-  "2022-03-11": 436587,
-  "2022-03-12": 436690,
-  "2022-03-13": 436765,
-  "2022-03-14": 436822,
-  "2022-03-15": 436854,
-  "2022-03-16": 436940,
-  "2022-03-17": 437012,
-  "2022-03-18": 436973,
-  "2022-03-19": 437015,
-  "2022-03-20": 437015,
-  "2022-03-21": 437191,
-  "2022-03-22": 437232,
-  "2022-03-23": 437258,
-  "2022-03-24": 437314,
-  "2022-03-25": 437437,
-  "2022-03-26": 437515,
-  "2022-03-27": 437621,
-  "2022-03-28": 437589,
-  "2022-03-30": 437780,
-  "2022-03-31": 437871,
-  "2022-04-01": 438026,
-  "2022-04-02": 438066,
-  "2022-04-03": 438188,
-  "2022-04-04": 438326,
-  "2022-04-05": 438449,
-  "2022-04-06": 438653,
-  "2022-04-07": 438833,
-  "2022-04-08": 438871,
-  "2022-04-09": 438936,
-  "2022-04-10": 438390,
-  "2022-04-11": 438443,
-  "2022-04-12": 438443,
-  "2022-04-13": 438490,
-  "2022-04-14": 438563,
-  "2022-04-15": 438437,
-  "2022-04-16": 438491,
-  "2022-04-17": 438550,
-  "2022-04-18": 438616,
-  "2022-04-19": 438659,
-  "2022-04-20": 438682,
-  "2022-04-21": 438735,
-  "2022-04-22": 438787,
-  "2022-04-23": 438876,
-  "2022-04-24": 438982,
-  "2022-04-25": 438733,
-  "2022-04-26": 438768,
-  "2022-04-27": 438840,
-  "2022-04-28": 438887,
-  "2022-04-29": 439010,
-  "2022-04-30": 439092,
-  "2022-05-01": 439172,
-  "2022-05-02": 439172,
-  "2022-05-03": 439213,
-  "2022-05-04": 439260,
-  "2022-05-05": 439281,
-  "2022-05-06": 439327,
-  "2022-05-07": 439256,
-  "2022-05-08": 439346,
-  "2022-05-09": 439365,
-  "2022-05-10": 439405,
-  "2022-05-11": 439457,
-  "2022-05-12": 439523,
-  "2022-05-13": 439525,
-  "2022-05-14": 439572,
-  "2022-05-15": 439599,
-  "2022-05-16": 439598,
-  "2022-05-17": 439590,
-  "2022-05-18": 439646,
-  "2022-05-19": 439650,
-  "2022-05-20": 439710,
-  "2022-05-21": 439837,
-  "2022-05-22": 439837,
-  "2022-05-23": 439888,
-  "2022-05-24": 439979,
-  "2022-05-25": 440054,
-  "2022-05-26": 440121,
-  "2022-05-27": 440207,
-  "2022-05-28": 440309,
-  "2022-05-29": 440378,
-  "2022-05-30": 440435,
-  "2022-05-31": 440461,
-  "2022-06-01": 440605,
-  "2022-06-02": 440612,
-  "2022-06-03": 440665,
-  "2022-06-04": 440690,
-  "2022-06-05": 440698,
-  "2022-06-06": 440709,
-  "2022-06-07": 440749,
-  "2022-06-08": 440761,
-  "2022-06-09": 440795,
-  "2022-06-10": 440832,
-  "2022-06-11": 440821,
-  "2022-06-12": 440798,
-  "2022-06-13": 440786,
-  "2022-06-14": 440790,
-  "2022-06-15": 440773,
-  "2022-06-16": 440769,
-  "2022-06-17": 440741,
-  "2022-06-18": 440701,
-  "2022-06-19": 440667,
-  "2022-06-20": 440667,
-  "2022-06-21": 440667,
-  "2022-06-22": 440697,
-  "2022-06-23": 440697,
-  "2022-06-24": 440681,
-  "2022-06-25": 440681,
-  "2022-06-26": 440699,
-  "2022-06-27": 440722,
-  "2022-06-28": 440732,
-  "2022-06-29": 440737,
-  "2022-06-30": 440749,
-  "2022-07-01": 440758,
-  "2022-07-02": 440766,
-  "2022-07-03": 440789,
-  "2022-07-04": 440800,
-  "2022-07-05": 440809,
-  "2022-07-06": 440796,
-  "2022-07-07": 440801,
-  "2022-07-08": 440817,
-  "2022-07-09": 440835,
-  "2022-07-10": 440862,
-  "2022-07-11": 440870,
-  "2022-07-12": 440870,
-  "2022-07-13": 440888,
-  "2022-07-14": 440900,
-  "2022-07-15": 440925,
-  "2022-07-16": 440944,
-  "2022-07-17": 440941,
-  "2022-07-18": 440954,
-  "2022-07-19": 440969,
-  "2022-07-20": 440985,
-  "2022-07-21": 440998,
-  "2022-07-22": 441000,
-  "2022-07-23": 441016,
-  "2022-07-24": 441042,
-  "2022-07-25": 441062,
-  "2022-07-26": 441076,
-  "2022-07-27": 441068,
-  "2022-07-28": 441075,
-  "2022-07-29": 441091,
-  "2022-07-30": 441103,
-  "2022-07-31": 441103,
-  "2022-08-01": 441107,
-  "2022-08-02": 441109,
-  "2022-08-03": 441109,
-  "2022-08-04": 441118,
-  "2022-08-05": 441121,
-  "2022-08-06": 441125,
-  "2022-08-07": 441132,
-  "2022-08-08": 441129,
-  "2022-08-09": 441130,
-  "2022-08-10": 441131,
-  "2022-08-11": 441142,
-  "2022-08-12": 441164,
-  "2022-08-13": 441173,
-  "2022-08-14": 441193,
-  "2022-08-15": 441220,
-  "2022-08-16": 441226,
-  "2022-08-17": 441232,
-  "2022-08-18": 441249,
-  "2022-08-19": 441270,
-  "2022-08-20": 441301,
-  "2022-08-21": 441301,
-  "2022-08-22": 441304,
-  "2022-08-23": 441321,
-  "2022-08-24": 441334,
-  "2022-08-25": 441360,
-  "2022-08-26": 441377,
-  "2022-08-27": 441397,
-  "2022-08-28": 441422,
-  "2022-08-29": 441439,
-  "2022-08-30": 441414,
-  "2022-08-31": 441314,
-  "2022-09-01": 441200,
-  "2022-09-02": 441224,
-  "2022-09-03": 441105,
-  "2022-09-04": 440855,
-  "2022-09-05": 440749,
-  "2022-09-06": 440747,
-  "2022-09-07": 440760,
-  "2022-09-09": 440799,
-  "2022-09-10": 440837,
-  "2022-09-11": 440863,
-  "2022-09-12": 440879,
-  "2022-09-13": 440897,
-  "2022-09-15": 440947,
-  "2022-09-16": 440970,
-  "2022-09-17": 440987,
-  "2022-09-18": 441000,
-  "2022-09-19": 441012,
-  "2022-09-20": 441023,
-  "2022-09-21": 441041,
-  "2022-09-22": 441065,
-  "2022-09-23": 441077,
-  "2022-09-24": 441101,
-  "2022-09-25": 441116,
-  "2022-09-26": 441136,
-  "2022-09-27": 441146,
-  "2022-09-28": 441154,
-  "2022-09-29": 441173,
-  "2022-09-30": 441183,
-  "2022-10-01": 441185,
-  "2022-10-02": 441194,
-  "2022-10-03": 441202,
-  "2022-10-04": 441212,
-  "2022-10-05": 441217,
-  "2022-10-06": 441223,
-  "2022-10-07": 441225,
-  "2022-10-08": 441236,
-  "2022-10-09": 441265,
-  "2022-10-10": 441264,
-  "2022-10-11": 441268,
-  "2022-10-12": 441282,
-  "2022-10-13": 441289,
-  "2022-10-14": 441298,
-  "2022-10-15": 441310,
-  "2022-10-16": 441317,
-  "2022-10-17": 441327,
-  "2022-10-18": 441333,
-  "2022-10-19": 441343,
-  "2022-10-20": 441364,
-  "2022-10-21": 441369,
-  "2022-10-22": 441382,
-  "2022-10-23": 441399,
-  "2022-10-24": 441415,
-  "2022-10-25": 441421,
-  "2022-10-26": 441425,
-  "2022-10-27": 441438,
-  "2022-10-28": 441455,
-  "2022-10-29": 441462,
-  "2022-10-30": 441471,
-  "2022-10-31": 441478,
-  "2022-11-01": 441496,
-  "2022-11-02": 441507,
-  "2022-11-03": 441507,
-  "2022-11-04": 441504,
-  "2022-11-05": 441518,
-  "2022-11-06": 441539,
-  "2022-11-07": 441554,
-  "2022-11-08": 441559,
-  "2022-11-09": 441579,
-  "2022-11-10": 441605,
-  "2022-11-11": 441604,
-  "2022-11-12": 441630,
-  "2022-11-13": 441645,
-  "2022-11-14": 441656,
-  "2022-11-15": 441673,
-  "2022-11-16": 441678,
-  "2022-11-17": 441693,
-  "2022-11-18": 441691,
-  "2022-11-19": 441645,
-  "2022-11-20": 441679,
-  "2022-11-21": 441624,
-  "2022-11-22": 441696,
-  "2022-11-23": 441667,
-  "2022-11-24": 441694,
-  "2022-11-25": 441760,
-  "2022-11-26": 441770,
-  "2022-11-27": 441784,
-  "2022-11-28": 441787,
-  "2022-11-29": 441778,
-  "2022-11-30": 441799,
-  "2022-12-01": 441800,
-  "2022-12-02": 441794,
-  "2022-12-03": 441781,
-  "2022-12-04": 441769,
-  "2022-12-05": 441756,
-  "2022-12-06": 441755,
-  "2022-12-07": 441755,
-  "2022-12-08": 441759,
-  "2022-12-09": 441754,
-  "2022-12-10": 441749,
-  "2022-12-11": 441752,
-  "2022-12-12": 441751,
-  "2022-12-13": 441748,
-  "2022-12-14": 441752,
-  "2022-12-15": 441770,
-  "2022-12-16": 441773,
-  "2022-12-17": 441782,
-  "2022-12-18": 441793,
-  "2022-12-19": 441798,
-  "2022-12-20": 441809,
-  "2022-12-21": 441809,
-  "2022-12-22": 441808,
-  "2022-12-24": 441807,
-  "2022-12-25": 441801,
-  "2022-12-26": 441827,
-  "2022-12-27": 441851,
-  "2022-12-28": 441859,
-  "2022-12-29": 441860,
-  "2022-12-30": 441869,
-  "2022-12-31": 441877,
-  "2023-01-01": 441875,
-  "2023-01-02": 441887,
-  "2023-01-03": 441884,
-  "2023-01-04": 441892,
-  "2023-01-05": 441882,
-  "2023-01-06": 441897,
-  "2023-01-07": 441922,
-  "2023-01-08": 441923,
-  "2023-01-09": 441959,
-  "2023-01-10": 441953,
-  "2023-01-11": 441981,
-  "2023-01-12": 441994,
-  "2023-01-13": 441986,
-  "2023-01-14": 442024,
-  "2023-01-15": 442030,
-  "2023-01-16": 442042,
-  "2023-01-17": 442063,
-  "2023-01-18": 442070,
-  "2023-01-19": 442077,
-  "2023-01-20": 442093,
-  "2023-01-21": 442111,
-  "2023-01-22": 442130,
-  "2023-01-23": 442138,
-  "2023-01-24": 442142,
-  "2023-01-25": 442157,
-  "2023-01-26": 442176,
-  "2023-01-27": 442182,
-  "2023-01-28": 442189,
-  "2023-01-29": 442209,
-  "2023-01-30": 442232,
-  "2023-01-31": 442232,
-  "2023-02-01": 442251,
-  "2023-02-02": 442267,
-  "2023-02-03": 442279,
-  "2023-02-04": 442300,
-  "2023-02-05": 442327,
-  "2023-02-06": 442340,
-  "2023-02-07": 442356,
-  "2023-02-08": 442381,
-  "2023-02-09": 442381,
-  "2023-02-10": 442403,
-  "2023-02-11": 442434,
-  "2023-02-12": 442449,
-  "2023-02-13": 442450,
-  "2023-02-14": 442450,
-  "2023-02-15": 442464,
-  "2023-02-16": 442465,
-  "2023-02-17": 442488,
-  "2023-02-18": 442512,
-  "2023-02-19": 442510,
-  "2023-02-20": 442531,
-  "2023-02-21": 442546,
-  "2023-02-22": 442562,
-  "2023-02-23": 442562,
-  "2023-02-24": 442561,
-  "2023-02-25": 442553,
-  "2023-02-26": 442559,
-  "2023-02-27": 442570,
-  "2023-02-28": 442570,
-  "2023-03-01": 442565,
-  "2023-03-02": 442575,
-  "2023-03-03": 442587,
-  "2023-03-04": 442606,
-  "2023-03-05": 442655,
-  "2023-03-06": 442655,
-  "2023-03-07": 442665,
-  "2023-03-08": 442675,
-  "2023-03-09": 442664,
-  "2023-03-10": 442693,
-  "2023-03-11": 442691,
-  "2023-03-12": 442705,
-  "2023-03-13": 442703,
-  "2023-03-14": 442712,
-  "2023-03-15": 442706,
-  "2023-03-16": 442719,
-  "2023-03-17": 442719,
-  "2023-03-18": 442748,
-  "2023-03-19": 442775,
-  "2023-03-20": 442775,
-  "2023-03-21": 442783,
-  "2023-03-22": 442783,
-  "2023-03-23": 442785,
-  "2023-03-24": 442785,
-  "2023-03-25": 442805,
-  "2023-03-26": 442810,
-  "2023-03-27": 442806,
-  "2023-03-28": 442811,
-  "2023-03-29": 442802,
-  "2023-03-30": 442821,
-  "2023-03-31": 442821,
-  "2023-04-01": 442820,
-  "2023-04-02": 442828,
-  "2023-04-03": 442831,
-  "2023-04-04": 442829,
-  "2023-04-05": 442832,
-  "2023-04-06": 442834,
-  "2023-04-07": 442844,
-  "2023-04-09": 442833,
-  "2023-04-10": 442820,
-  "2023-04-11": 442810,
-  "2023-04-12": 442810,
-  "2023-04-13": 442801,
-  "2023-04-14": 442817,
-  "2023-04-15": 442814,
-  "2023-04-16": 442809,
-  "2023-04-17": 442797,
-  "2023-04-18": 442792,
-  "2023-04-19": 442779,
-  "2023-04-20": 442765,
-  "2023-04-21": 442753,
-  "2023-04-22": 442753,
-  "2023-04-23": 442757,
-  "2023-04-24": 442745,
-  "2023-04-25": 442734,
-  "2023-04-26": 442733,
-  "2023-04-27": 442726,
-  "2023-04-28": 442720,
-  "2023-04-29": 442722,
-  "2023-04-30": 442723,
-  "2023-05-01": 442708,
-  "2023-05-02": 442695,
-  "2023-05-03": 442690,
-  "2023-05-04": 442684,
-  "2023-05-05": 442672,
-  "2023-05-06": 442663,
-  "2023-05-07": 442652,
-  "2023-05-08": 442649,
-  "2023-05-09": 442634,
-  "2023-05-10": 442630,
-  "2023-05-11": 442629,
-  "2023-05-12": 442610,
-  "2023-05-13": 442603,
-  "2023-05-14": 442599,
-  "2023-05-15": 442593,
-  "2023-05-16": 442593,
-  "2023-05-17": 442580,
-  "2023-05-18": 442593,
-  "2023-05-19": 442574,
-  "2023-05-20": 442569,
-  "2023-05-21": 442569,
-  "2023-05-22": 442569,
-  "2023-05-23": 442567,
-  "2023-05-24": 442565,
-  "2023-05-25": 442557,
-  "2023-05-26": 442556,
-  "2023-05-27": 442557,
-  "2023-05-28": 442552,
-  "2023-05-29": 442552,
-  "2023-05-30": 442537,
-  "2023-05-31": 442517,
-  "2023-06-01": 442513,
-  "2023-06-02": 442511,
-  "2023-06-03": 442509,
-  "2023-06-04": 442507,
-  "2023-06-05": 442498,
-  "2023-06-06": 442493,
-  "2023-06-07": 442486,
-  "2023-06-08": 442483,
-  "2023-06-09": 442478,
-  "2023-06-10": 442473,
-  "2023-06-11": 442489,
-  "2023-06-12": 442506,
-  "2023-06-13": 442497,
-  "2023-06-14": 442497,
-  "2023-06-15": 442514,
-  "2023-06-16": 442514,
-  "2023-06-17": 442526,
-  "2023-06-18": 442548,
-  "2023-06-19": 442558,
-  "2023-06-20": 442556,
-  "2023-06-21": 442566,
-  "2023-06-22": 442582,
-  "2023-06-23": 442587,
-  "2023-06-24": 442606,
-  "2023-06-25": 442628,
-  "2023-06-26": 442623,
-  "2023-06-27": 442617,
-  "2023-06-28": 442620,
-  "2023-06-29": 442620,
-  "2023-06-30": 442632,
-  "2023-07-01": 442666,
-  "2023-07-02": 442666,
-  "2023-07-03": 442689,
-  "2023-07-04": 442695,
-  "2023-07-05": 442692,
-  "2023-07-06": 442720,
-  "2023-07-07": 442720,
-  "2023-07-08": 442737,
-  "2023-07-09": 442752,
-  "2023-07-10": 442777,
-  "2023-07-11": 442801,
-  "2023-07-12": 442842,
-  "2023-07-13": 442868,
-  "2023-07-14": 442908,
-  "2023-07-15": 442917,
-  "2023-07-16": 442953,
-  "2023-07-17": 442974,
-  "2023-07-18": 442978,
-  "2023-07-19": 442989,
-  "2023-07-20": 443002,
-  "2023-07-21": 443017,
-  "2023-07-22": 443028,
-  "2023-07-23": 443029,
-  "2023-07-24": 443044,
-  "2023-07-25": 443056,
-  "2023-07-26": 443081,
-  "2023-07-27": 443078,
-  "2023-07-28": 443081,
-  "2023-07-29": 443085,
-  "2023-07-30": 443095,
-  "2023-07-31": 443110,
-  "2023-08-01": 443126,
-  "2023-08-02": 443131,
-  "2023-08-03": 443140,
-  "2023-08-04": 443147,
-  "2023-08-05": 443157,
-  "2023-08-06": 443163,
-  "2023-08-07": 443163,
-  "2023-08-08": 443174,
-  "2023-08-09": 443172,
-  "2023-08-10": 443160,
-  "2023-08-11": 443166,
-  "2023-08-12": 443177,
-  "2023-08-13": 443158,
-  "2023-08-14": 443153,
-  "2023-08-15": 443150,
-  "2023-08-16": 443150,
-  "2023-08-17": 443151,
-  "2023-08-18": 443162,
-  "2023-08-19": 443169,
-  "2023-08-20": 443185,
-  "2023-08-21": 443188,
-  "2023-08-22": 443210,
-  "2023-08-23": 443209,
-  "2023-08-24": 443221,
-  "2023-08-25": 443233,
-  "2023-08-26": 443248,
-  "2023-08-27": 443248,
-  "2023-08-28": 443259,
-  "2023-08-29": 443267,
-  "2023-08-30": 443256,
-  "2023-08-31": 443256,
-  "2023-09-01": 443283,
-  "2023-09-02": 443283,
-  "2023-09-03": 443297,
-  "2023-09-04": 443287,
-  "2023-09-05": 443284,
-  "2023-09-06": 443296,
-  "2023-09-07": 443291,
-  "2023-09-08": 443305,
-  "2023-09-09": 443310,
-  "2023-09-10": 443319,
-  "2023-09-11": 443326,
-  "2023-09-12": 443324,
-  "2023-09-13": 443337,
-  "2023-09-14": 443344,
-  "2023-09-15": 443338,
-  "2023-09-16": 443343,
-  "2023-09-17": 443344,
-  "2023-09-18": 443334,
-  "2023-09-19": 443341,
-  "2023-09-20": 443349,
-  "2023-09-21": 443362,
-  "2023-09-22": 443358,
-  "2023-09-23": 443359,
-  "2023-09-24": 443358,
-  "2023-09-25": 443363,
-  "2023-09-26": 443370,
-  "2023-09-27": 443373,
-  "2023-09-28": 443372,
-  "2023-09-29": 443364,
-  "2023-09-30": 443370,
-  "2023-10-01": 443380,
-  "2023-10-02": 443387,
-  "2023-10-03": 443378,
-  "2023-10-04": 443364,
-  "2023-10-05": 443344,
-  "2023-10-06": 443339,
-  "2023-10-07": 443343,
-  "2023-10-08": 443339,
-  "2023-10-09": 443333,
-  "2023-10-10": 442687,
-  "2023-10-11": 441964,
-  "2023-10-12": 441964,
-  "2023-10-13": 441363,
-  "2023-10-14": 440867,
-  "2023-10-15": 440763,
-  "2023-10-16": 440737,
-  "2023-10-17": 440732,
-  "2023-10-18": 440711,
-  "2023-10-19": 440702,
-  "2023-10-20": 440705,
-  "2023-10-21": 440708,
-  "2023-10-22": 440707,
-  "2023-10-23": 440716,
-  "2023-10-24": 440701,
-  "2023-10-25": 440696,
-  "2023-10-26": 440710,
-  "2023-10-27": 440688,
-  "2023-10-28": 440687,
-  "2023-10-29": 440694,
-  "2023-10-30": 440678,
-  "2023-10-31": 440678,
-  "2023-11-01": 440671,
-  "2023-11-02": 440661,
-  "2023-11-03": 440653,
-  "2023-11-04": 440648,
-  "2023-11-05": 440657,
-  "2023-11-06": 440657,
-  "2023-11-07": 440652,
-  "2023-11-08": 440683,
-  "2023-11-09": 88313,
-  "2023-11-10": 17845,
-  "2023-11-11": 3766,
-  "2023-11-12": 959,
-  "2023-11-13": 410,
-  "2023-11-14": 315,
-  "2023-11-15": 315,
-  "2023-11-16": 315,
-  "2023-11-17": 315,
-  "2023-11-18": 315,
-  "2023-11-19": 315,
-  "2023-11-20": 315,
-  "2023-11-21": 315,
-  "2023-11-22": 315,
-  "2023-11-23": 315,
-  "2023-11-24": 315,
-  "2023-11-25": 315,
-  "2023-11-26": 315,
-  "2023-11-27": 315,
-  "2023-11-28": 315,
-  "2023-11-29": 315,
-  "2023-11-30": 315,
-  "2023-12-01": 315,
-  "2023-12-02": 315,
-  "2023-12-03": 315,
-  "2023-12-04": 315,
-  "2023-12-05": 315,
-  "2023-12-06": 315,
-  "2023-12-07": 315,
-  "2023-12-08": 315,
-  "2023-12-09": 315,
-  "2023-12-10": 315,
-  "2023-12-11": 315,
-  "2023-12-12": 315,
-  "2023-12-13": 315,
-  "2023-12-14": 315,
-  "2023-12-15": 315,
-  "2023-12-16": 315,
-  "2023-12-17": 315,
-  "2023-12-18": 315,
-  "2023-12-19": 315,
-  "2023-12-20": 315,
-  "2023-12-21": 315,
-  "2023-12-22": 315,
-  "2023-12-23": 315,
-  "2023-12-24": 315,
-  "2023-12-25": 315,
-  "2023-12-26": 315,
-  "2023-12-27": 315,
-  "2023-12-30": 315,
-  "2023-12-31": 315,
-  "2024-01-01": 315,
-  "2024-01-02": 315,
-  "2024-01-03": 315
+  "2024-01-17": 315,
+  "date_first_scraped": "2021-12-28",
+  "description": "Enjoy some kid-friendly pop tunes.",
+  "name": "Pop 4 Kids",
+  "tracks": [
+    {
+      "album": {
+        "name": "10,000 Hours",
+        "url": "https://open.spotify.com/album/1Pe7GTeYqVI5sk596q61O0"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166672,
+      "name": "10,000 Hours",
+      "url": "https://open.spotify.com/track/5yWMUpEDKejiVvocQiqA1y"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 18",
+        "url": "https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167880,
+      "name": "10,000 Hours",
+      "url": "https://open.spotify.com/track/78DrMIudWWGuMD7jQHvEqm"
+    },
+    {
+      "album": {
+        "name": "2020 Vision",
+        "url": "https://open.spotify.com/album/2dKl4qgk9mp6IATdoN9N8s"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179519,
+      "name": "2020 Vision",
+      "url": "https://open.spotify.com/track/7aBAEgh5KKsVU29xYcYcI7"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176866,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176866,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6HpVFV5zHmyS4hesAOsLmc"
+    },
+    {
+      "album": {
+        "name": "Confetti Party",
+        "url": "https://open.spotify.com/album/0r0luXI152WhDpaQP6CTun"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177226,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/1rjqbd0RV2OtLlb8IhOwBN"
+    },
+    {
+      "album": {
+        "name": "7 Rings",
+        "url": "https://open.spotify.com/album/3k7m8Vaavz5QNR07MrOcLx"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "7 Rings",
+      "url": "https://open.spotify.com/track/0bahbEb9kQs9QFdjfTyDkn"
+    },
+    {
+      "album": {
+        "name": "Aladdin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Zhavia",
+          "url": "https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242956,
+      "name": "A Whole New World (End Title)",
+      "url": "https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT"
+    },
+    {
+      "album": {
+        "name": "Most Requested Hits",
+        "url": "https://open.spotify.com/album/0nGs1T9d3bxynhEXJekUiL"
+      },
+      "artists": [
+        {
+          "name": "Aaron Carter",
+          "url": "https://open.spotify.com/artist/5338fdSzGNOFD4cxAxDTeq"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205826,
+      "name": "Aaron's Party (Come Get It)",
+      "url": "https://open.spotify.com/track/3krjKKOH1CjeGXn6hIqyLA"
+    },
+    {
+      "album": {
+        "name": "abc",
+        "url": "https://open.spotify.com/album/3haoTWwePhXEsR4AQe3iCo"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167714,
+      "name": "abc",
+      "url": "https://open.spotify.com/track/0zGejGs0c4ygBCqFQPojxS"
+    },
+    {
+      "album": {
+        "name": "About That Time",
+        "url": "https://open.spotify.com/album/54mp8gJ7IMJ60Ix7RXpI23"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192312,
+      "name": "About That Time",
+      "url": "https://open.spotify.com/track/3JKMRspZjPJWhxwbewnvQU"
+    },
+    {
+      "album": {
+        "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
+        "url": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177322,
+      "name": "All I Want - From \"High School Musical: The Musical: The Series\"",
+      "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134148,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Presents: The Best of Baby Shark",
+        "url": "https://open.spotify.com/album/3QzOkjbkCXewXdy8VuZQan"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84156,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/571Jz87ytvwTv205mToeaG"
+    },
+    {
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/70gkOEOY85LsuTFB9UzHuN"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195438,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3cMtpoNii0HiB0cRdzuim1"
+    },
+    {
+      "album": {
+        "name": "Bang!",
+        "url": "https://open.spotify.com/album/3asGV841gsVVgwCvwEUuQX"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173732,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/268uz3MBAXyGQNQGoFvqhL"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Ultimate Playlist",
+        "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/5YcI2aIbVYm7rVZAhI4I7v"
+    },
+    {
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/2EClhJEKmxxPX9cMOfMXnq"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198973,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/6SYgBTp6KuQ2ZQ91bATYl0"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 26",
+        "url": "https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/31YcvdreTHVPj4ECP8cbrO"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 26",
+        "url": "https://open.spotify.com/album/0glgQAdemitAFAPEidey2p"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194040,
+      "name": "Best Day of My Life",
+      "url": "https://open.spotify.com/track/76E8JNt6NFKa4MeZHPxGCH"
+    },
+    {
+      "album": {
+        "name": "Father's Day for Kids",
+        "url": "https://open.spotify.com/album/5L1QhVhBKvD6Cf2aAR55Fb"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195066,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/3fuLLwM6Gyh77n0c9ZB58d"
+    },
+    {
+      "album": {
+        "name": "The Peanuts Movie - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0YEI8tlvSXBOI5sy4WL4zF"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 176266,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/0BMyRHOFOvHjAEzeNfQIeN"
+    },
+    {
+      "album": {
+        "name": "The Peanuts Movie - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0V5n3Ch2vFwxT5pVztog3t"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176266,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/3Jui3TOVXgDCYeVa3sS28C"
+    },
+    {
+      "album": {
+        "name": "Better When I'm Dancin'",
+        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176266,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/1wNqNP2pFo9PHNJZ4jmFQM"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0e5xc0NhC8ijMtVlH3LHl8"
+    },
+    {
+      "album": {
+        "name": "Bop!",
+        "url": "https://open.spotify.com/album/4EB3X4HFVCptX7k6raTtkt"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156581,
+      "name": "Bop!",
+      "url": "https://open.spotify.com/track/0BGNXAcQi4cUN5Nbjf4Jn6"
+    },
+    {
+      "album": {
+        "name": "Bop!",
+        "url": "https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 156581,
+      "name": "Bop!",
+      "url": "https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0"
+    },
+    {
+      "album": {
+        "name": "Bop!",
+        "url": "https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 156581,
+      "name": "Bop!",
+      "url": "https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 8",
+        "url": "https://open.spotify.com/album/79chvauYTv83sd2Z8lS3TY"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260372,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/3UyL65ZEorxxTA5DLzVhox"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260372,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/6pEmoxeTm8dqqwHoCken25"
+    },
+    {
+      "album": {
+        "name": "Born to Be Brave (From \"High School Musical: The Musical: The Series\")",
+        "url": "https://open.spotify.com/album/0HUaQANiPs6GN9qMRH9aMy"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189870,
+      "name": "Born to Be Brave - From \"High School Musical: The Musical: The Series\"",
+      "url": "https://open.spotify.com/track/68Q2XfjYwOTdIlLhnfeXib"
+    },
+    {
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/03WnunrUaDa1VNhiWWT0dd"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223273,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/4CNicxGbQWMwCZD3cZIOND"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 18",
+        "url": "https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223360,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1BwZeYWcOA5bzYAOT8bUwt"
+    },
+    {
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/2mJ1XzzjJlkP8bTbwjHO1e"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223360,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/6Pw3KuME0CB24UzBkd5r25"
+    },
+    {
+      "album": {
+        "name": "Broken & Beautiful",
+        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218948,
+      "name": "Broken & Beautiful",
+      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
+    },
+    {
+      "album": {
+        "name": "Butter",
+        "url": "https://open.spotify.com/album/5pj3zCJ1R5HnOsEwePVqN1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/3p1amIF17ryE70SnlK33eH"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 32",
+        "url": "https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 32",
+        "url": "https://open.spotify.com/album/3lsKnrF4QO2ZG3zcZJM80W"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204533,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/7E4H1GK0ZcYkw8gA9fTReu"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205333,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/3yB7o4Tyvx1xRZHI7QBA8k"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156843,
+      "name": "Call to the Wild",
+      "url": "https://open.spotify.com/track/1u6EFa4RLVRYH23FUsKe6B"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Christopher Mintz-Plasse",
+          "url": "https://open.spotify.com/artist/32Y2h6dku6Q2wNpZjj0bHj"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "CAN'T STOP THE FEELING! - Film Version",
+      "url": "https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7"
+    },
+    {
+      "album": {
+        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215315,
+      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
+    },
+    {
+      "album": {
+        "name": "The LEGO Movie 2: The Second Part (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7vUakEBYI3YXIoAHHRufrq"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "That Girl Lay Lay",
+          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168096,
+      "name": "Catchy Song (feat. T-Pain & That Girl Lay Lay)",
+      "url": "https://open.spotify.com/track/17yOpPoiu2Ue962Do8LsdS"
+    },
+    {
+      "album": {
+        "name": "Catchy Song (feat. T-Pain & That Girl lay Lay) [From The LEGO\u00ae Movie 2: The Second Part - Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4Z31kcjkOvonaJO3NeZR6C"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "That Girl Lay Lay",
+          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168096,
+      "name": "Catchy Song (feat. T-Pain & That Girl Lay Lay)",
+      "url": "https://open.spotify.com/track/1JiTWss0EJ3u084OucEvMS"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Ultimate Playlist",
+        "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187606,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/3kkDXlv51gNznWohladVfv"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/2yZa7VMSMsVekXjCvvlWhr"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187626,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/5MbaCozMxkXzx6nKWyufeA"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 30",
+        "url": "https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157306,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/3GBrT6nOYfVwjz5NfR5EPW"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 30",
+        "url": "https://open.spotify.com/album/52u1WetH6NXfwFYE3PUiI8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157306,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/4c0uiTdw7y8YxoRZfWEMqo"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Ultimate Playlist",
+        "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 157321,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/2IQBv3gBxAZBZJ60wn42GF"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210247,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4RAF64YURKKHb496MxwTAL"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/43PFCcc4MYEyda8pnxO2Fw"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210893,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3ujjdRcw06kam859c465Vs"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210893,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7a0PtNlA2njR3OYszwCWJ1"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211200,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7C58YH3nB4dMlxkEJYVwTY"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2yHbz21uTypbfv0CCQnfGW"
+    },
+    {
+      "album": {
+        "name": "Purple Hearts (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176859,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Ariel Martin",
+          "url": "https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165604,
+      "name": "Come on Out",
+      "url": "https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq"
+    },
+    {
+      "album": {
+        "name": "Coming Out Of The Dark",
+        "url": "https://open.spotify.com/album/6YiN0lVcpxK9OUnEgbHvo4"
+      },
+      "artists": [
+        {
+          "name": "Monster High",
+          "url": "https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173851,
+      "name": "Coming Out of the Dark",
+      "url": "https://open.spotify.com/track/00kR62ndRz8GMrcULgxoze"
+    },
+    {
+      "album": {
+        "name": "COMPLETE MESS",
+        "url": "https://open.spotify.com/album/5nALCJT36REzB4oFpXki54"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 206361,
+      "name": "COMPLETE MESS",
+      "url": "https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I"
+    },
+    {
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 206361,
+      "name": "COMPLETE MESS",
+      "url": "https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj"
+    },
+    {
+      "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206417,
+      "name": "COMPLETE MESS",
+      "url": "https://open.spotify.com/track/7tqcKt5H9BmBLaT22VHqBX"
+    },
+    {
+      "album": {
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/3GsSaZnRS5U0IMvZmHNQ5d"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/21wShvRGwZ3V12W786LplP"
+    },
+    {
+      "album": {
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+    },
+    {
+      "album": {
+        "name": "The J Team (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155657,
+      "name": "Dance Through the Day",
+      "url": "https://open.spotify.com/track/1VlO9GSWlPWe2WAsudpEV5"
+    },
+    {
+      "album": {
+        "name": "The J Team (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 155657,
+      "name": "Dance Through the Day",
+      "url": "https://open.spotify.com/track/3VNxMj6URsie6GJbHGWmmO"
+    },
+    {
+      "album": {
+        "name": "The J Team (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/784cFhESN44WTceqtXcPLN"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 155657,
+      "name": "Dance Through the Day",
+      "url": "https://open.spotify.com/track/4vMrdBYA0UxkXRii8Ayi6M"
+    },
+    {
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/1okSyF4STR0MTXbgUGMMfm"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128024,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/0yPGcE1uBETUcterjypiEf"
+    },
+    {
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/0ovB3nWOd0rRD1SAMufPht"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137037,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/6UCdk22sl1f76cMBmem6T3"
+    },
+    {
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195440,
+      "name": "Don\u2019t Let Me Down",
+      "url": "https://open.spotify.com/track/0yTGOMRv5oWECS6wqqQXOJ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 32",
+        "url": "https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196866,
+      "name": "Don\u2019t Let Me Down",
+      "url": "https://open.spotify.com/track/1B3Wg9592mjPHbaRXPwfob"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "Don\u2019t Wanna Know",
+      "url": "https://open.spotify.com/track/6gENBnJkfS5xq1jzTqC0fg"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177333,
+      "name": "Don\u2019t Wanna Know",
+      "url": "https://open.spotify.com/track/0RqnfYWfWnv0nPAf94OVIn"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208100,
+      "name": "Drivers License",
+      "url": "https://open.spotify.com/track/3kBM4lKVb37U2uhXaui0j4"
+    },
+    {
+      "album": {
+        "name": "Drivers License",
+        "url": "https://open.spotify.com/album/52Lus3aDyQ3kswA4ANU67Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209786,
+      "name": "Drivers License",
+      "url": "https://open.spotify.com/track/5UbCk6tmzScVttHGvHJI2N"
+    },
+    {
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc"
+    },
+    {
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "album": {
+        "name": "Dynamite (NightTime Version)",
+        "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/72wqLtMtkrB0qUw6jSqM0Z"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Ultimate Playlist",
+        "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141666,
+      "name": "Fancy Like",
+      "url": "https://open.spotify.com/track/0zvvCso2UalzEEc8MLJPFx"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 36",
+        "url": "https://open.spotify.com/album/2Xi6aup0aqqpXqpHNYi2oU"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148266,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/1Y7iHDN177vPIsJuUwKlWh"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 36",
+        "url": "https://open.spotify.com/album/7CdyApdN5Hamda6NepONvs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148266,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/70ZiK7oV2LHGgRwO9zOAKR"
+    },
+    {
+      "album": {
+        "name": "Finally Free (From \"Smallfoot\")",
+        "url": "https://open.spotify.com/album/47oDAQvTvsYGXBlGJKe2O2"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203094,
+      "name": "Finally Free - From \"Smallfoot\"",
+      "url": "https://open.spotify.com/track/7xQxjMokrYnY8n9w19FZqr"
+    },
+    {
+      "album": {
+        "name": "Flip the Script (From \"Barbie Big Epic Road Trip\")",
+        "url": "https://open.spotify.com/album/2XiCsJTSjI9IxIQY8aBiEk"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154013,
+      "name": "Flip the Script (From \"Barbie Big Epic Road Trip\")",
+      "url": "https://open.spotify.com/track/75dfmIGzgXrZtD5cH4T78z"
+    },
+    {
+      "album": {
+        "name": "Boy\u2019s a liar",
+        "url": "https://open.spotify.com/album/6qLtJJ9Al14QF9xzsWZX7d"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190798,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/56IVjXSaLC5WYXHNeNYSrj"
+    },
+    {
+      "album": {
+        "name": "Aladdin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159359,
+      "name": "Friend Like Me (End Title)",
+      "url": "https://open.spotify.com/track/192XFsstn69TuEA3iDez6F"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6"
+    },
+    {
+      "album": {
+        "name": "Nothing Breaks Like A Heart",
+        "url": "https://open.spotify.com/album/05Shj7tRwC3NtUXszdxk6t"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131333,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0VQK2axT4qXgYd4aKCHgWx"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "Get The Party Started - Redo Version",
+      "url": "https://open.spotify.com/track/2PtrvtdKTwjl795MzSQ2Ti"
+    },
+    {
+      "album": {
+        "name": "Get The Party Started (Redo Version)",
+        "url": "https://open.spotify.com/album/6ksutNhLP2MGbN9qRztOoL"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193133,
+      "name": "Get The Party Started - Redo Version",
+      "url": "https://open.spotify.com/track/4Y1v0ZSq45Zm809vprlf0Y"
+    },
+    {
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4CxOPoNIndtOycbmKJeTMB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195426,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/0WrDu71kTgPv9iBJrGWWjP"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2DOI0mKAHzp0OrigVAl2AP"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211920,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/2cHUI82x9fDFsFNwOQzYlK"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/4SBNRMOTIXWnt9IF8UJOFU"
+    },
+    {
+      "album": {
+        "name": "Glowin' Up (from the Netflix film \"My Little Pony: A New Generation\")",
+        "url": "https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191094,
+      "name": "Glowin' Up - from the Netflix film My Little Pony: A New Generation",
+      "url": "https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS"
+    },
+    {
+      "album": {
+        "name": "Good 4 U",
+        "url": "https://open.spotify.com/album/5RQDTCcp9XAI7lUqzG6mC6"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166453,
+      "name": "Good 4 U",
+      "url": "https://open.spotify.com/track/3vZI1Oe6wPJKIHP0fP4z8F"
+    },
+    {
+      "album": {
+        "name": "Good Mood (Original Song From Paw Patrol: The Movie)",
+        "url": "https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI"
+      },
+      "artists": [
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210643,
+      "name": "Good Mood - Original Song From Paw Patrol: The Movie",
+      "url": "https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1"
+    },
+    {
+      "album": {
+        "name": "Descendants 3 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Jadah Marie",
+          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
+        },
+        {
+          "name": "Anna Cathcart",
+          "url": "https://open.spotify.com/artist/0QFetakbVZD86mLaPGJy9Z"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189868,
+      "name": "Good to Be Bad",
+      "url": "https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134493,
+      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
+      "url": "https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On! (Music From Season 1)",
+        "url": "https://open.spotify.com/album/74G7ktttrog53aefGFcf41"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134500,
+      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
+      "url": "https://open.spotify.com/track/2GMgGGx83x0QtJ2Q0qK0Vf"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/1jAjm1vcVmO3Vd2mX7cRsj"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2DOI0mKAHzp0OrigVAl2AP"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215586,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/54aKBuzd9aLUOPJswi1Q31"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233305,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6NPVjNh8Jhru9xOmyQigds"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Music!, Vol. 60 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/74BVAeJgcJjomcDq9HKii7"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230973,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/5H1ur8DKF9iTilrVlEdo0w"
+    },
+    {
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 15",
+        "url": "https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215568,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/7dwiNsnIY3xOrE0k4kVDEl"
+    },
+    {
+      "album": {
+        "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140443,
+      "name": "Heartbeat (From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack) - \u201c From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack \u201d",
+      "url": "https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/253LQdnZTDd0HddPoREscR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157453,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5gY5Tixu6wV6V1EJIQ3zNI"
+    },
+    {
+      "album": {
+        "name": "If I Can\u2019t Have You",
+        "url": "https://open.spotify.com/album/35gu6fn5CJIsME3dTqQSaV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Hey Look Ma, I Made It",
+      "url": "https://open.spotify.com/track/6EJrfpisIxba7EgbcTBNz2"
+    },
+    {
+      "album": {
+        "name": "Hideaway (from \"Wonder Park\")",
+        "url": "https://open.spotify.com/album/2Tv7NyjiW3IhzoGHlIc7Nk"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Hideaway - from \"Wonder Park\"",
+      "url": "https://open.spotify.com/track/6IoQuFTjNbpl6572b9GryH"
+    },
+    {
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/5gDosXnNAVbAOgUhHuKtW8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201467,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/4tbdLt8mDbAbqm7UOPtByl"
+    },
+    {
+      "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208706,
+      "name": "House of Memories",
+      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/2mqrs0rKVfldonic7ypVWh"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "How Far I'll Go - Alessia Cara Version",
+      "url": "https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/253LQdnZTDd0HddPoREscR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1DVdHvrk06tW5tbsJCkVFU"
+    },
+    {
+      "album": {
+        "name": "I Love Me",
+        "url": "https://open.spotify.com/album/2xZy4JobQkdCq4jEzNhH3E"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200736,
+      "name": "I Love Me",
+      "url": "https://open.spotify.com/track/4utYKwdaNIxbRUQ1XBE0Eb"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 18",
+        "url": "https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202506,
+      "name": "I Love Me",
+      "url": "https://open.spotify.com/track/6Rc4uKmM2F7kduAxGz33IZ"
+    },
+    {
+      "album": {
+        "name": "I See Love (From Hotel Transylvania 3)",
+        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173220,
+      "name": "I See Love - From Hotel Transylvania 3",
+      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
+    },
+    {
+      "album": {
+        "name": "I'm a Lady (from SMURFS: THE LOST VILLAGE)",
+        "url": "https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "I'm a Lady - from SMURFS: THE LOST VILLAGE",
+      "url": "https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo"
+    },
+    {
+      "album": {
+        "name": "REMIX",
+        "url": "https://open.spotify.com/album/21YDi9aNdn9TmMm5GBqB0o"
+      },
+      "artists": [
+        {
+          "name": "L.O.L. Surprise!",
+          "url": "https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 202285,
+      "name": "I'm a Queen!",
+      "url": "https://open.spotify.com/track/14fryYBqFtKMaf3EurIYS8"
+    },
+    {
+      "album": {
+        "name": "Remix",
+        "url": "https://open.spotify.com/album/0NSAoiqAnyws6UzcYaCbV2"
+      },
+      "artists": [
+        {
+          "name": "L.O.L. Surprise!",
+          "url": "https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "I'm a Queen!",
+      "url": "https://open.spotify.com/track/57beMhGiLzP1sfJqBNr5Yl"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 36",
+        "url": "https://open.spotify.com/album/7CdyApdN5Hamda6NepONvs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147266,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/06jztPU588TNOWHF76q3UK"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 36",
+        "url": "https://open.spotify.com/album/2Xi6aup0aqqpXqpHNYi2oU"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 147266,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/5kMFdjmxkTiSXVdNmya2Cn"
+    },
+    {
+      "album": {
+        "name": "Da Boss Baby",
+        "url": "https://open.spotify.com/album/3KS3og9IOPO3b4lypBkHaQ"
+      },
+      "artists": [
+        {
+          "name": "ZaZa",
+          "url": "https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 103506,
+      "name": "Ice Cream Cold",
+      "url": "https://open.spotify.com/track/2cM51OR8phKliFlV3Expx7"
+    },
+    {
+      "album": {
+        "name": "Da Boss Baby EP",
+        "url": "https://open.spotify.com/album/3OXqNJkrQGW0CYVM7tZGHL"
+      },
+      "artists": [
+        {
+          "name": "ZaZa",
+          "url": "https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104253,
+      "name": "Ice Cream Cold",
+      "url": "https://open.spotify.com/track/1kCcCnRTUZmlYj5sBbUYja"
+    },
+    {
+      "album": {
+        "name": "Da Boss Baby EP",
+        "url": "https://open.spotify.com/album/1x5OIHJhieOQhkqjUoulQ8"
+      },
+      "artists": [
+        {
+          "name": "ZaZa",
+          "url": "https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 104253,
+      "name": "Ice Cream Cold",
+      "url": "https://open.spotify.com/track/7wBVoYDEPlU07ysbkDKVBT"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "ily (i love you baby)",
+      "url": "https://open.spotify.com/track/1AijjSH5B1JZN8k1E7U2QV"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/6zjy7j6pK9YnVRX2Q3Dv5N"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176170,
+      "name": "ily (i love you baby)",
+      "url": "https://open.spotify.com/track/1rgN765bhtO2rflHTHFvtr"
+    },
+    {
+      "album": {
+        "name": "Kids Songs: Summer Hits!",
+        "url": "https://open.spotify.com/album/7nTdrrCouDdiBoWIkFmjlP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 176170,
+      "name": "ily (i love you baby)",
+      "url": "https://open.spotify.com/track/5QWTnS6u3mYQPAa4NsWLww"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/2nPRJ1sJLgUKSZrTo5Xd6W"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/4LyjoXBM9xPSRUQX8rdqkL"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165279,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/1w8WFf0FCkCNilBWGQVbUz"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+    },
+    {
+      "album": {
+        "name": "It's On [From \"High School Musical: The Musical: The Series (Season 3)\"/Camp Rock 2: The Final Jam]",
+        "url": "https://open.spotify.com/album/5aAT0At7qA2oH2CkVN1Iy9"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182591,
+      "name": "It's On - From \"High School Musical: The Musical: The Series (Season 3)\"/Camp Rock 2: The Final Jam",
+      "url": "https://open.spotify.com/track/0cUUqEzIs5KfFMMoUMQuGO"
+    },
+    {
+      "album": {
+        "name": "Sofia Carson",
+        "url": "https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184445,
+      "name": "It's Only Love, Nobody Dies",
+      "url": "https://open.spotify.com/track/4HBaBg9EzXkTspFJ3y3uE0"
+    },
+    {
+      "album": {
+        "name": "It's Alright (From The Netflix Film My Little Pony: A New Generation)",
+        "url": "https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193669,
+      "name": "It\u2019s Alright - From The Netflix Film My Little Pony: A New Generation",
+      "url": "https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV"
+    },
+    {
+      "album": {
+        "name": "The Secret Life of Pets 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1T0nc8HicExHdI8g8cF21a"
+      },
+      "artists": [
+        {
+          "name": "LunchMoney Lewis",
+          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231733,
+      "name": "It\u2019s Gonna Be A Lovely Day (The Secret Life of Pets 2)",
+      "url": "https://open.spotify.com/track/4tZ44neYoPDYX16daNPTdb"
+    },
+    {
+      "album": {
+        "name": "The Secret Life Of Pets 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6v3cV4buefnvRAVq3WzAIE"
+      },
+      "artists": [
+        {
+          "name": "LunchMoney Lewis",
+          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231733,
+      "name": "It\u2019s Gonna Be A Lovely Day (The Secret Life Of Pets 2)",
+      "url": "https://open.spotify.com/track/4xsA7WwjehjdZHc1tgG7z0"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221480,
+      "name": "Just Sing",
+      "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
+    },
+    {
+      "album": {
+        "name": "Kids Are Born Stars",
+        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Kids Are Born Stars",
+      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/6zjy7j6pK9YnVRX2Q3Dv5N"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146233,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/0GpeAvK67XK1Dff4bPo4hL"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146233,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
+    },
+    {
+      "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/01VRn9a3SNb3I8Yj06Ka53"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/6UPXSrWmBo6nSBukG34Bvy"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "album": {
+        "name": "Late Night Talking",
+        "url": "https://open.spotify.com/album/6sB8gCsJIAQs2gKeNkcfDk"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 175518,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/4rA8RkOj52pRDXwEvusgr9"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0OpIRcElndLLm7jiTAA8eE"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177440,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/5NwXY746sutJV9w5sM6XIR"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184956,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE"
+    },
+    {
+      "album": {
+        "name": "Levitating",
+        "url": "https://open.spotify.com/album/3FYC2tZK8uFIb4ZxvwF8Qs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186466,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/5vO3PsY6QhMkvMFyDdkxvt"
+    },
+    {
+      "album": {
+        "name": "Summer Hits for Kids 2022",
+        "url": "https://open.spotify.com/album/2kb8Dw5GTbPQCN5hI88LZk"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186466,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/71T7AEg2w92NVQV5ZZFkhv"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123411,
+      "name": "Like the Zombies Do",
+      "url": "https://open.spotify.com/track/6PSN0NJHzkCmNWGpF6yDsj"
+    },
+    {
+      "album": {
+        "name": "Made You Look",
+        "url": "https://open.spotify.com/album/78Gof3q5tLFoLN94sFjntF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133668,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/4MYmtvx4fJhTQa05a1k57w"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151800,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/05qecc13jTsHwrkEQRSEFA"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/2xpHaFoallE1cEuyo9lawS"
+    },
+    {
+      "album": {
+        "name": "ME!",
+        "url": "https://open.spotify.com/album/2AuMKZ6T5ejyWmyggLU3OP"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188753,
+      "name": "ME!",
+      "url": "https://open.spotify.com/track/1XEaQ2dwS1oNMig8slVj1e"
+    },
+    {
+      "album": {
+        "name": "ME!",
+        "url": "https://open.spotify.com/album/7IyrSgda6dqL7hoI6lbrdX"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188753,
+      "name": "ME!",
+      "url": "https://open.spotify.com/track/3k9hfEVvOcGG5d1BBQmjty"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188753,
+      "name": "ME!",
+      "url": "https://open.spotify.com/track/6BMeRg8jpvLqxGiWBX8igP"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2DOI0mKAHzp0OrigVAl2AP"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 165360,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/5p1a9a8w5GBvleyMvDYtjJ"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/6UVyRn5CmTr2hXjC4mtmLK"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190173,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2XzmJ4Xn5OdjvRHtHwJyd6"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/446h1jQEUAz94QrRd9Ry3y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5hx745zVn9ydtxVTPoRU6I"
+    },
+    {
+      "album": {
+        "name": "Midnight Sky",
+        "url": "https://open.spotify.com/album/6yf61oBWOtfJm73xKoqoFp"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207759,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/6SA0ceSATdlyh6SzP9Jd2f"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136569,
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/6Dpvk8uvQyrpyCiqG46E2d"
+    },
+    {
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/2yKqWNvjhsPIHUevvXI2X6"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120026,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/5bv7kd7qy62Rl892AgHgd7"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174423,
+      "name": "Music For A Sushi Restaurant",
+      "url": "https://open.spotify.com/track/6WNGqPeLiNCvqlb6hGqux6"
+    },
+    {
+      "album": {
+        "name": "More Family Time",
+        "url": "https://open.spotify.com/album/4X4l0Ez8pj5bjmFisNs2m1"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204450,
+      "name": "Music Is in Everything",
+      "url": "https://open.spotify.com/track/3Xap7tj9dcUEhpThrLgdsJ"
+    },
+    {
+      "album": {
+        "name": "More Family Time",
+        "url": "https://open.spotify.com/album/7C4QjjsOqV2XxrcWiDNOqo"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 205538,
+      "name": "Music Is in Everything",
+      "url": "https://open.spotify.com/track/6LC6CSWaaGZoyQKi87lfuG"
+    },
+    {
+      "album": {
+        "name": "More Family Time",
+        "url": "https://open.spotify.com/album/1jB8Th5VPnKZj25uGOcpZw"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 205538,
+      "name": "Music Is in Everything",
+      "url": "https://open.spotify.com/track/7qZLbXCjZUucd275X8I3EJ"
+    },
+    {
+      "album": {
+        "name": "My Stupid Heart (Kids Version)",
+        "url": "https://open.spotify.com/album/5M9RpgjX89iljRgIpzkcjy"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Luminati Suns",
+          "url": "https://open.spotify.com/artist/3L3LFvtOjqaNkOvZDIFnW0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168112,
+      "name": "My Stupid Heart - Kids Version",
+      "url": "https://open.spotify.com/track/1y5K73ZMtl7x7oEvcADZZk"
+    },
+    {
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172466,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4RWenDHni2ugAWnSjrwQfd"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2g1iTkEs0VizCLGrkdzInK"
+    },
+    {
+      "album": {
+        "name": "Kids Play Time",
+        "url": "https://open.spotify.com/album/7DSl6KAwR2qHwhktoMwIdD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 172493,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/62UAFUVNDmVKI4sWjl4sGw"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/17DaNTlAY4qPjLJcalrCnD"
+    },
+    {
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Felix (Stray Kids)",
+          "url": "https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
+      "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2DOI0mKAHzp0OrigVAl2AP"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205106,
+      "name": "No Tears Left to Cry",
+      "url": "https://open.spotify.com/track/061VxiPJeP5YiIOP8Z2DF0"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205106,
+      "name": "No Tears Left to Cry",
+      "url": "https://open.spotify.com/track/4BE6y0W66IGi0pNaek1tJ9"
+    },
+    {
+      "album": {
+        "name": "Magic Reimagined (Japan Edition)",
+        "url": "https://open.spotify.com/album/7cP3WtGF6GER9WA7BKkFiI"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161360,
+      "name": "Nobody Like U",
+      "url": "https://open.spotify.com/track/334mPKdy3bxhyNaUCB9dRl"
+    },
+    {
+      "album": {
+        "name": "Nobody Like U (From \"Turning Red\")",
+        "url": "https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160958,
+      "name": "Nobody Like U - From \"Turning Red\"",
+      "url": "https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8"
+    },
+    {
+      "album": {
+        "name": "Old Town Road",
+        "url": "https://open.spotify.com/album/4BAx7hzmBgjaGxs62oWcBn"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110346,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/3QpAo1aiTUVgsQBR8KmNHO"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/0Mpgs2N5kVCrkqEcIIw6aV"
+    },
+    {
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/0ovB3nWOd0rRD1SAMufPht"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212162,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/5k4jxVDH5w00y8y3OvgguS"
+    },
+    {
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/6aiy2bxse7lzWxKSvRnk17"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213115,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/6tznrNL9mL4Rxblx0RFFfr"
+    },
+    {
+      "album": {
+        "name": "Panini",
+        "url": "https://open.spotify.com/album/5wMUxEAX1APPs9PKKwMlhf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117319,
+      "name": "Panini",
+      "url": "https://open.spotify.com/track/7LZXuhXXN03F1ndyQOzAZt"
+    },
+    {
+      "album": {
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95440,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
+        "name": "Peppermint Twist",
+        "url": "https://open.spotify.com/album/7C1905Zli5yhr2Nj8PMAka"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118748,
+      "name": "Peppermint Twist",
+      "url": "https://open.spotify.com/track/5PpVetS87mgjvmKVF7gv9d"
+    },
+    {
+      "album": {
+        "name": "Peter Pan Was Right",
+        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192497,
+      "name": "Peter Pan Was Right",
+      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
+    },
+    {
+      "album": {
+        "name": "Marvel's Moon Girl and Devil Dinosaur (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/31zZeDmG2Va5zvgfIyJuOy"
+      },
+      "artists": [
+        {
+          "name": "Jordan Powers",
+          "url": "https://open.spotify.com/artist/12NihrzOJf6YDnkpXrurH7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 179904,
+      "name": "Pretty Girl Swag",
+      "url": "https://open.spotify.com/track/1Wur9u6PvFCDhu6tFnhvuG"
+    },
+    {
+      "album": {
+        "name": "Marvel's Moon Girl and Devil Dinosaur (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5RDkUFbIla4yodYqBQDGhb"
+      },
+      "artists": [
+        {
+          "name": "Jordan Powers",
+          "url": "https://open.spotify.com/artist/12NihrzOJf6YDnkpXrurH7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179904,
+      "name": "Pretty Girl Swag",
+      "url": "https://open.spotify.com/track/7L6MMfktbHfMz7RaWVCYAt"
+    },
+    {
+      "album": {
+        "name": "Descendants 3 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jeffery",
+          "url": "https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189397,
+      "name": "Queen of Mean",
+      "url": "https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna"
+    },
+    {
+      "album": {
+        "name": "Rain On Me",
+        "url": "https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "Rain On Me",
+      "url": "https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa"
+    },
+    {
+      "album": {
+        "name": "Cars 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2pBzQQ2NGZSIFv9ehTROhS"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243146,
+      "name": "Ride (feat. Gary Clark Jr.)",
+      "url": "https://open.spotify.com/track/6KZYD8mbuJJJpXjpDqmmbT"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/44blRNiipXlYR5O2eK9hzS"
+    },
+    {
+      "album": {
+        "name": "RITMO",
+        "url": "https://open.spotify.com/album/77T4L4KT2y6XL0Mx9vJ0Cz"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203519,
+      "name": "RITMO",
+      "url": "https://open.spotify.com/track/2gVLpzfM3ZiSXZY8fFgW2a"
+    },
+    {
+      "album": {
+        "name": "Run Like The River (From \"Playmobil: The Movie\" Soundtrack)",
+        "url": "https://open.spotify.com/album/15DKdf0uXDCCnLkdLRF919"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "Run Like The River (From \"Playmobil: The Movie\" Soundtrack)",
+      "url": "https://open.spotify.com/track/0XSVA2UpFoDgu57TWxn1Kr"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216888,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/0hjkyfTOQQFxyRwaG3iyaU"
+    },
+    {
+      "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/2TUQRyBeJJ3jPMWu1qAuHG"
+      },
+      "artists": [
+        {
+          "name": "Earwormz Squad",
+          "url": "https://open.spotify.com/artist/4wBE1WVjFbmo0Rsc4q7daa"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131289,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/6MmIDXQS14O8jKYCBWAxas"
+    },
+    {
+      "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/2cKEeMf90SRPfSHVDNaH8w"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171038,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/55J4JL8TPPeId91ScTt3bv"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 18",
+        "url": "https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171493,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/18Q6eRrnN2AGuE3XiprbNg"
+    },
+    {
+      "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/1i33gHircBeZY5iBfuU91J"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 171493,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/6vNS4PYn0f5YHLqbK7Gmxr"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/1ibrLayXuNQkytjZ7hIDeY"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210492,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/2fUxSgVfromz311Rldirg5"
+    },
+    {
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/2SMukJD6ePiMxdKTe6ZoPf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187039,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ"
+    },
+    {
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/424sFS24gGlrtzVdOEOgc2"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193504,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/509ueN1ioukx3BItZh1oBD"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 18",
+        "url": "https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/5CUPMIlQLW8JoP8WpVapVh"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190939,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/5i9RzQa9BPRDZR7qHuiey1"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/11jSPCIt4foBuWREqExc75"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/2inLIIrSWNRgvXibQoQw1w"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192933,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/3N7tbJofzDwz8S7Nwn8dTb"
+    },
+    {
+      "album": {
+        "name": "\u00a1Hora de Jugar!",
+        "url": "https://open.spotify.com/album/2VtktaHo6N1jKwHoltneBK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208026,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/35lFPPnyTv6I0YjwlosQNs"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 27",
+        "url": "https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208600,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/1p52mBoILwvouXvCie1c3q"
+    },
+    {
+      "album": {
+        "name": "Shine Bright (From Trolls)",
+        "url": "https://open.spotify.com/album/1u5IYqAKm5gtWTamjNb2fV"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129088,
+      "name": "Shine Bright (From Trolls)",
+      "url": "https://open.spotify.com/track/5zuetjtTslM9aMxOW2YuZX"
+    },
+    {
+      "album": {
+        "name": "Shine Bright (From Trolls)",
+        "url": "https://open.spotify.com/album/5egjjgQRGPToUC8t15Bfzq"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129088,
+      "name": "Shine Bright (From Trolls)",
+      "url": "https://open.spotify.com/track/6VGrDeWDhgVlyljWdEFT9r"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192803,
+      "name": "Shivers - 2022",
+      "url": "https://open.spotify.com/track/7zYvSfOGJaRRhlAVFI80p3"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+    },
+    {
+      "album": {
+        "name": "Smells Like Me",
+        "url": "https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 204079,
+      "name": "Smells Like Me",
+      "url": "https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166898,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
+    },
+    {
+      "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/5ZhB2l1rH8CpfmeTXR7BOh"
+      },
+      "artists": [
+        {
+          "name": "Novi",
+          "url": "https://open.spotify.com/artist/40MxKrk3WiFYGXvVtrRON6"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169586,
+      "name": "Snacks",
+      "url": "https://open.spotify.com/track/0E71SurMZPXv3rnQ8jUGLz"
+    },
+    {
+      "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/6CFXRlY2OyrWssAzicgo7R"
+      },
+      "artists": [
+        {
+          "name": "Novi",
+          "url": "https://open.spotify.com/artist/40MxKrk3WiFYGXvVtrRON6"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169586,
+      "name": "Snacks",
+      "url": "https://open.spotify.com/track/6l67IEVLEAzvx1emBSX0t8"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Cast of Frozen 2",
+          "url": "https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209964,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK"
+    },
+    {
+      "album": {
+        "name": "Now! Disney 3",
+        "url": "https://open.spotify.com/album/1vSuKTEwlEambIFmIZNBxH"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163173,
+      "name": "Something That I Want",
+      "url": "https://open.spotify.com/track/4D5ITfY3HH9JqIbOKsE7da"
+    },
+    {
+      "album": {
+        "name": "Rapunzel Neu Verf\u00f6hnt",
+        "url": "https://open.spotify.com/album/7Al4Sm2lLi3TxlxKt2KqoO"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 163266,
+      "name": "Something That I Want",
+      "url": "https://open.spotify.com/track/19j6HBNWetyzT5rqMoWKpz"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "Something That I Want",
+      "url": "https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Disney 3",
+        "url": "https://open.spotify.com/album/5W902SLKc7njFSdXireqdC"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 163173,
+      "name": "Something That I Want - From \"Tangled\"",
+      "url": "https://open.spotify.com/track/6quQD9FG0GCIqVPjjMiLjs"
+    },
+    {
+      "album": {
+        "name": "Back to School 2022 - Pop Edition",
+        "url": "https://open.spotify.com/album/3PoExk3BVT9y7wC6KavCe3"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182226,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3YvAZjrAq9KhJNU6HZGh5a"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 31",
+        "url": "https://open.spotify.com/album/5wZgeat7Y8E8dQP1F6hz42"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182426,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/1dv3nDyEFjfdfWyfmBTzXl"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/6I4KqQwYmTZufx0KKTcy1s"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182426,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/64rOVBWON5cE3RmPgdv8Yz"
+    },
+    {
+      "album": {
+        "name": "Space Man",
+        "url": "https://open.spotify.com/album/4Otl5659qt6UgARdJ9Apdc"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207341,
+      "name": "Space Man",
+      "url": "https://open.spotify.com/track/0ZVywlfqhy99dH23L1ooGH"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3ChCPGsFqCuHZEicrWUgfa"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138739,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0umeqMZWcRshOw5w2E73h8"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/51Y09yQrrFXFwYJYmzanXz"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 138739,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4joUTI5vAE26hOpmuSLVOG"
+    },
+    {
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/1498yTafVDyZjvr7UCr3j2"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182608,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/3mR9m0eFdErCrq0UUPA1uF"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/4Sp3N8m40eXdLTrJsCcY6F"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/7xeLaqRjeRvZtrsXPY3tob"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162946,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6Mh1JHzFXhO2j6FDFrTkJ0"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
+    },
+    {
+      "album": {
+        "name": "Supalonely / Midnight Sky - EP",
+        "url": "https://open.spotify.com/album/1cnXdPm39Kxe35EyeKP0hP"
+      },
+      "artists": [
+        {
+          "name": "SAPPHIRE",
+          "url": "https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J"
+        },
+        {
+          "name": "Jam Jr.",
+          "url": "https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180504,
+      "name": "Supalonely",
+      "url": "https://open.spotify.com/track/3T509PFxP648elTwOoA5mj"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202226,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+    },
+    {
+      "album": {
+        "name": "Thank U, Next",
+        "url": "https://open.spotify.com/album/5jg9380FKFqI7iexIOEYbv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Thank U, Next",
+      "url": "https://open.spotify.com/track/40kdi1ZHChaIkQOXHp3CxB"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 178133,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/2GVuy5JHpyBXb9wqNrxARi"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/446h1jQEUAz94QrRd9Ry3y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/3DAj1vnV6fWdGl0gJxdoF7"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178133,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/6r6cCBdOYVDJWxWXN3tHIj"
+    },
+    {
+      "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
+    },
+    {
+      "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171093,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/4NO0nlVHcYuV2qna4wALho"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/4W63PdwxlreSGoEZg6e7FJ"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2DOI0mKAHzp0OrigVAl2AP"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183653,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/3Ak1BW1QlDhMPnOaBa1BiR"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/3TWjPrKJkBqLwbS5Wr43F8"
+    },
+    {
+      "album": {
+        "name": "The Middle / Meant to Be",
+        "url": "https://open.spotify.com/album/6tjM5K9vhhNFfCkEjedGGf"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183665,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0D7Ue5dPgw03UihKlDvE3Z"
+    },
+    {
+      "album": {
+        "name": "The Other Side (from Trolls World Tour)",
+        "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188186,
+      "name": "The Other Side (from Trolls World Tour)",
+      "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 36",
+        "url": "https://open.spotify.com/album/7CdyApdN5Hamda6NepONvs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169960,
+      "name": "There's Nothing Holdin' Me Back",
+      "url": "https://open.spotify.com/track/0JUIqeUd1FKrEOezEPiO2S"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2018",
+        "url": "https://open.spotify.com/album/3ANBNGpt0Ze0tchcLLlDXo"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171000,
+      "name": "There's Nothing Holdin' Me Back",
+      "url": "https://open.spotify.com/track/0yoRPtPAz3OIUsVN1kYb6u"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159840,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0QuwmuIGdlGfhOOssvw693"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/7jezqtj2lhxqeYAl9DMxka"
+    },
+    {
+      "album": {
+        "name": "Schools Out 2022",
+        "url": "https://open.spotify.com/album/0YnLYQQ87iuBcqGgjtMdPm"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1PCJfVo3VsAsgPcOl3P4zx"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/2iU0cUGlqNhNAPqoY54fMC"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/7BrsBU0BAytRDvROM4yCbn"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 26",
+        "url": "https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/5OKuFJwEG73Ni7TXbCMZKW"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190426,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/1d4vrwsqMMV9H1oh7fkg8A"
+    },
+    {
+      "album": {
+        "name": "Clean Hits for Kids",
+        "url": "https://open.spotify.com/album/3vaWnNBGZxqStVXOrRKfNm"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190426,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/5lxC2xF8nMdm5Kw4AhbHtq"
+    },
+    {
+      "album": {
+        "name": "Trampoline",
+        "url": "https://open.spotify.com/album/4nwy1TZpVSYvtPeKy6RKmP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185092,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/0zgYADHtKBRxMYqsjCu3hm"
+    },
+    {
+      "album": {
+        "name": "Truth Hurts",
+        "url": "https://open.spotify.com/album/0NSleBYSq9pSxDqHrS9xnt"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163640,
+      "name": "Truth Hurts",
+      "url": "https://open.spotify.com/track/4JzAcIjtO0yQ3refHgCWfE"
+    },
+    {
+      "album": {
+        "name": "Zootopia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "Try Everything",
+      "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "album": {
+        "name": "Rainbow Vision",
+        "url": "https://open.spotify.com/album/7ICgxvkng11vLDlnpIGeKe"
+      },
+      "artists": [
+        {
+          "name": "Rainbow High",
+          "url": "https://open.spotify.com/artist/7cvp5x5lxRteAQnPklF4zD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169389,
+      "name": "Turn Your Color Up",
+      "url": "https://open.spotify.com/track/1Q02L5rSO7YaSXEbmftO07"
+    },
+    {
+      "album": {
+        "name": "Turning Red (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "U Know What's Up",
+      "url": "https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE"
+    },
+    {
+      "album": {
+        "name": "The J Team (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/784cFhESN44WTceqtXcPLN"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 147353,
+      "name": "U-N-I",
+      "url": "https://open.spotify.com/track/0LrivSX1gd7AILZEHxy2N8"
+    },
+    {
+      "album": {
+        "name": "The J Team (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147353,
+      "name": "U-N-I",
+      "url": "https://open.spotify.com/track/1AIvhp4HzFbe6zyELLGocj"
+    },
+    {
+      "album": {
+        "name": "The J Team (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 147353,
+      "name": "U-N-I",
+      "url": "https://open.spotify.com/track/4k3i2Qmo8vfhiQwkUszK0K"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 28",
+        "url": "https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "Uptown Funk",
+      "url": "https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 28",
+        "url": "https://open.spotify.com/album/21BOMSlYp2czN91z9HaTI2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224133,
+      "name": "Uptown Funk",
+      "url": "https://open.spotify.com/track/59JJfPTYKTm4hZJi3CvmDf"
+    },
+    {
+      "album": {
+        "name": "Kids Pizza Party",
+        "url": "https://open.spotify.com/album/1JURFzgvvufe07o8XiJOW1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225826,
+      "name": "Uptown Funk",
+      "url": "https://open.spotify.com/track/5FywMibvFZieLXVjA254Fl"
+    },
+    {
+      "album": {
+        "name": "Walk Me Home",
+        "url": "https://open.spotify.com/album/6mxOggBSVCOeazrjdKoGHm"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/3HPRqipXPgSKMYfwNnN5GR"
+    },
+    {
+      "album": {
+        "name": "Watermelon Sugar",
+        "url": "https://open.spotify.com/album/5lPwR8wJTie0BfBNEGrPou"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176396,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/1lQcqcLvcyK5Xid5QplZdl"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 18",
+        "url": "https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177053,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/14jlmiOCNx3j3PGIjkVVI0"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        },
+        {
+          "name": "Rhenzy Feliz",
+          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
+        },
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "album": {
+        "name": "The Secret Life of Pets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7kmitKoCAjnrdmFxmepZcH"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        },
+        {
+          "name": "The Sausage Factory Singers",
+          "url": "https://open.spotify.com/artist/6V6io3ApRj18jjB2SORQsr"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 84080,
+      "name": "We Go Together",
+      "url": "https://open.spotify.com/track/7ciTZoxqPMMvxJLNiFZDTH"
+    },
+    {
+      "album": {
+        "name": "The Secret Life of Pets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ayJFbJkkZtMkPbden2vh4"
+      },
+      "artists": [
+        {
+          "name": "The Sausage Factory Singers",
+          "url": "https://open.spotify.com/artist/6V6io3ApRj18jjB2SORQsr"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84080,
+      "name": "We Go Together",
+      "url": "https://open.spotify.com/track/46wRVsmiyO8ephW0wbKtjZ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196226,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/62DQIDitfKeQHLiRjarzhV"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 31",
+        "url": "https://open.spotify.com/album/5wZgeat7Y8E8dQP1F6hz42"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/6LaDMmkmm6jnwxyqrEMttr"
+    },
+    {
+      "album": {
+        "name": "If I Can\u2019t Have You",
+        "url": "https://open.spotify.com/album/35gu6fn5CJIsME3dTqQSaV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "When The Party's Over",
+      "url": "https://open.spotify.com/track/76mXa7siHyqnjtfWGRcg51"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/4ct4lFBPFzEiXYsYGG8zv8"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161870,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7eWs7BP5L9C6vxvOtNX6ns"
+    },
+    {
+      "album": {
+        "name": "The Angry Birds Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Sp6HR4bYIsiOBO9pPaZv8"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210920,
+      "name": "Wonderful Life (Mi Oh My) - From the Angry Birds Movie Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3PQQWkpJhBvytg5TPTsU2T"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/13UcUuzRs2Sd13I3zuWapX"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 178744,
+      "name": "Worldwide Party",
+      "url": "https://open.spotify.com/track/2XYRJ6PqDlje8IcoY6QXK8"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/2zoLtD8CJX2IoXj6fen83X"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 178744,
+      "name": "Worldwide Party",
+      "url": "https://open.spotify.com/track/554PU8Cg8dhsoLwZZirqKx"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/2M2DH2Zng8tlhJ4EIeW53N"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178744,
+      "name": "Worldwide Party",
+      "url": "https://open.spotify.com/track/5DKa9niZdClA8cuaOUsIou"
+    },
+    {
+      "album": {
+        "name": "Songs From The Hit YouTube Kids Show: Season One",
+        "url": "https://open.spotify.com/album/5R8OqHNYj1NrT1AzK5dUxP"
+      },
+      "artists": [
+        {
+          "name": "MusicClubKids!",
+          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "You Just Got Detention",
+      "url": "https://open.spotify.com/track/2OMsJd6Y8AD82jNXlsVtH9"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/0PlHp1bBQQFotUqHhgvB1t"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167739,
+      "name": "You Need To Calm Down",
+      "url": "https://open.spotify.com/track/16QfYCJ6g1RVi0OOHZ5Iut"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "You Need To Calm Down",
+      "url": "https://open.spotify.com/track/2KZ1CShivaQbwlZ1hiH0ze"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series Season 3 (Episode 2) [From \"High School Musical: The Musical: The Series (Season 3)\"]",
+        "url": "https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196619,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163893,
+      "name": "You're Welcome",
+      "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
+    },
+    {
+      "album": {
+        "name": "Toy Story 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124386,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/0PVG6vvNCbKwifLXJ7zlBz"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 16",
+        "url": "https://open.spotify.com/album/2DOI0mKAHzp0OrigVAl2AP"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203880,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/19XnC5kjmixWOJcu1Z4iyu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZhxU4AiByxO"
 }

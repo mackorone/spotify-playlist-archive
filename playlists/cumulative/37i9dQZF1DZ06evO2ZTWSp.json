@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": "2024-01-16",
       "duration_ms": 203422,
       "name": "Batches & Cookies",
       "url": "https://open.spotify.com/track/1HgwseKCKrBgL7By8ZcU9M"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 175952,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/1FeKkh024mTeLJwI3jiCSe"
@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159011,
+      "name": "Good as Hell (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/2rjjNUYONZqC7wSd1i6OFq"
+    },
+    {
+      "album": {
         "name": "Good as Hell (feat. Ariana Grande) [Remix]",
         "url": "https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1"
       },
@@ -448,7 +470,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 159011,
       "name": "Good as Hell (feat. Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd"
@@ -618,7 +640,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 157759,
       "name": "Lizzie Borden",
       "url": "https://open.spotify.com/track/0TUxk2H9jyST2rpaF0OoHr"

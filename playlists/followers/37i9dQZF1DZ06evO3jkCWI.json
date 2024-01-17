@@ -1,577 +1,1473 @@
 {
-  "2022-06-02": 109348,
-  "2022-06-03": 109393,
-  "2022-06-04": 109442,
-  "2022-06-05": 109501,
-  "2022-06-06": 109565,
-  "2022-06-07": 109587,
-  "2022-06-08": 109647,
-  "2022-06-09": 109675,
-  "2022-06-10": 109721,
-  "2022-06-11": 109770,
-  "2022-06-12": 109846,
-  "2022-06-13": 109911,
-  "2022-06-14": 109952,
-  "2022-06-15": 109988,
-  "2022-06-16": 110048,
-  "2022-06-17": 110088,
-  "2022-06-18": 110135,
-  "2022-06-19": 110289,
-  "2022-06-20": 110289,
-  "2022-06-21": 110334,
-  "2022-06-22": 110429,
-  "2022-06-23": 110429,
-  "2022-06-24": 110473,
-  "2022-06-25": 110538,
-  "2022-06-26": 110605,
-  "2022-06-27": 110664,
-  "2022-06-28": 110706,
-  "2022-06-29": 110738,
-  "2022-06-30": 110803,
-  "2022-07-01": 110873,
-  "2022-07-02": 110945,
-  "2022-07-03": 111022,
-  "2022-07-04": 111084,
-  "2022-07-05": 111084,
-  "2022-07-06": 111084,
-  "2022-07-07": 111229,
-  "2022-07-08": 111286,
-  "2022-07-09": 111347,
-  "2022-07-10": 111432,
-  "2022-07-11": 111482,
-  "2022-07-12": 111529,
-  "2022-07-13": 111578,
-  "2022-07-14": 111612,
-  "2022-07-15": 111656,
-  "2022-07-16": 111728,
-  "2022-07-17": 111811,
-  "2022-07-18": 111891,
-  "2022-07-19": 111948,
-  "2022-07-20": 111979,
-  "2022-07-21": 112022,
-  "2022-07-22": 112081,
-  "2022-07-23": 112139,
-  "2022-07-24": 112229,
-  "2022-07-25": 112298,
-  "2022-07-26": 112349,
-  "2022-07-27": 112429,
-  "2022-07-28": 112494,
-  "2022-07-29": 112588,
-  "2022-07-30": 112787,
-  "2022-07-31": 112787,
-  "2022-08-01": 112858,
-  "2022-08-02": 112982,
-  "2022-08-03": 112982,
-  "2022-08-04": 113025,
-  "2022-08-05": 113078,
-  "2022-08-06": 113147,
-  "2022-08-07": 113226,
-  "2022-08-08": 113303,
-  "2022-08-09": 113363,
-  "2022-08-10": 113408,
-  "2022-08-11": 113451,
-  "2022-08-12": 113495,
-  "2022-08-13": 113575,
-  "2022-08-14": 113665,
-  "2022-08-15": 113735,
-  "2022-08-16": 113784,
-  "2022-08-17": 113843,
-  "2022-08-18": 113892,
-  "2022-08-19": 113949,
-  "2022-08-20": 114017,
-  "2022-08-21": 114125,
-  "2022-08-22": 114193,
-  "2022-08-23": 114250,
-  "2022-08-24": 114303,
-  "2022-08-25": 114366,
-  "2022-08-26": 114423,
-  "2022-08-27": 114524,
-  "2022-08-28": 114612,
-  "2022-08-29": 114684,
-  "2022-08-30": 114725,
-  "2022-08-31": 114764,
-  "2022-09-01": 114834,
-  "2022-09-02": 114903,
-  "2022-09-03": 114995,
-  "2022-09-04": 115102,
-  "2022-09-05": 115189,
-  "2022-09-06": 115243,
-  "2022-09-07": 115279,
-  "2022-09-09": 115365,
-  "2022-09-10": 115431,
-  "2022-09-11": 115514,
-  "2022-09-12": 115604,
-  "2022-09-13": 115639,
-  "2022-09-15": 115746,
-  "2022-09-16": 115819,
-  "2022-09-17": 115906,
-  "2022-09-18": 115986,
-  "2022-09-19": 116058,
-  "2022-09-20": 116101,
-  "2022-09-21": 116147,
-  "2022-09-22": 116200,
-  "2022-09-23": 116266,
-  "2022-09-24": 116266,
-  "2022-09-25": 116408,
-  "2022-09-26": 116505,
-  "2022-09-27": 116542,
-  "2022-09-28": 116600,
-  "2022-09-29": 116633,
-  "2022-09-30": 116695,
-  "2022-10-01": 116762,
-  "2022-10-02": 116847,
-  "2022-10-03": 116928,
-  "2022-10-04": 116961,
-  "2022-10-05": 117010,
-  "2022-10-06": 117061,
-  "2022-10-07": 117120,
-  "2022-10-08": 117200,
-  "2022-10-09": 117353,
-  "2022-10-10": 117372,
-  "2022-10-11": 117408,
-  "2022-10-12": 117459,
-  "2022-10-13": 117513,
-  "2022-10-14": 117580,
-  "2022-10-15": 117675,
-  "2022-10-16": 117748,
-  "2022-10-17": 117825,
-  "2022-10-18": 117880,
-  "2022-10-19": 117919,
-  "2022-10-20": 117979,
-  "2022-10-21": 118048,
-  "2022-10-22": 118097,
-  "2022-10-23": 118195,
-  "2022-10-24": 118276,
-  "2022-10-25": 118320,
-  "2022-10-26": 118394,
-  "2022-10-27": 118447,
-  "2022-10-28": 118527,
-  "2022-10-29": 118611,
-  "2022-10-30": 118709,
-  "2022-10-31": 118789,
-  "2022-11-01": 118846,
-  "2022-11-02": 118901,
-  "2022-11-03": 118950,
-  "2022-11-04": 119008,
-  "2022-11-05": 119068,
-  "2022-11-06": 119165,
-  "2022-11-07": 119239,
-  "2022-11-08": 119292,
-  "2022-11-09": 119331,
-  "2022-11-10": 119387,
-  "2022-11-11": 119444,
-  "2022-11-12": 119526,
-  "2022-11-13": 119599,
-  "2022-11-14": 119676,
-  "2022-11-15": 119728,
-  "2022-11-16": 119777,
-  "2022-11-17": 119822,
-  "2022-11-18": 119846,
-  "2022-11-19": 119858,
-  "2022-11-20": 119925,
-  "2022-11-21": 120012,
-  "2022-11-22": 120090,
-  "2022-11-23": 120155,
-  "2022-11-24": 120239,
-  "2022-11-25": 120356,
-  "2022-11-26": 120420,
-  "2022-11-27": 120484,
-  "2022-11-28": 120561,
-  "2022-11-29": 120613,
-  "2022-11-30": 120680,
-  "2022-12-01": 120724,
-  "2022-12-02": 120769,
-  "2022-12-03": 120870,
-  "2022-12-04": 120983,
-  "2022-12-05": 121062,
-  "2022-12-06": 121138,
-  "2022-12-07": 121203,
-  "2022-12-08": 121275,
-  "2022-12-09": 121335,
-  "2022-12-10": 121386,
-  "2022-12-11": 121486,
-  "2022-12-12": 121572,
-  "2022-12-13": 121640,
-  "2022-12-14": 121691,
-  "2022-12-15": 121750,
-  "2022-12-16": 121820,
-  "2022-12-17": 121918,
-  "2022-12-18": 122015,
-  "2022-12-19": 122095,
-  "2022-12-20": 122213,
-  "2022-12-21": 122213,
-  "2022-12-22": 122289,
-  "2022-12-24": 122495,
-  "2022-12-25": 122628,
-  "2022-12-26": 122756,
-  "2022-12-27": 122817,
-  "2022-12-28": 122892,
-  "2022-12-29": 122949,
-  "2022-12-30": 123049,
-  "2022-12-31": 123174,
-  "2023-01-01": 123347,
-  "2023-01-02": 123511,
-  "2023-01-03": 123562,
-  "2023-01-04": 123616,
-  "2023-01-05": 123672,
-  "2023-01-06": 123750,
-  "2023-01-07": 123826,
-  "2023-01-08": 123842,
-  "2023-01-09": 123931,
-  "2023-01-10": 123967,
-  "2023-01-11": 124020,
-  "2023-01-12": 124066,
-  "2023-01-13": 124118,
-  "2023-01-14": 124229,
-  "2023-01-15": 124251,
-  "2023-01-16": 124352,
-  "2023-01-17": 124403,
-  "2023-01-18": 124463,
-  "2023-01-19": 124528,
-  "2023-01-20": 124594,
-  "2023-01-21": 124670,
-  "2023-01-22": 124778,
-  "2023-01-23": 124880,
-  "2023-01-24": 124938,
-  "2023-01-25": 124998,
-  "2023-01-26": 125065,
-  "2023-01-27": 125120,
-  "2023-01-28": 125215,
-  "2023-01-29": 125319,
-  "2023-01-30": 125399,
-  "2023-01-31": 125399,
-  "2023-02-01": 125489,
-  "2023-02-02": 125545,
-  "2023-02-03": 125605,
-  "2023-02-04": 125688,
-  "2023-02-05": 125768,
-  "2023-02-06": 125871,
-  "2023-02-07": 125935,
-  "2023-02-08": 126030,
-  "2023-02-09": 126030,
-  "2023-02-10": 126091,
-  "2023-02-11": 126144,
-  "2023-02-12": 126317,
-  "2023-02-13": 126362,
-  "2023-02-14": 126362,
-  "2023-02-15": 126425,
-  "2023-02-16": 126481,
-  "2023-02-17": 126548,
-  "2023-02-18": 126693,
-  "2023-02-19": 126719,
-  "2023-02-20": 126791,
-  "2023-02-21": 126836,
-  "2023-02-22": 126887,
-  "2023-02-23": 126932,
-  "2023-02-24": 126999,
-  "2023-02-25": 127112,
-  "2023-02-26": 127179,
-  "2023-02-27": 127335,
-  "2023-02-28": 127335,
-  "2023-03-01": 127385,
-  "2023-03-02": 127448,
-  "2023-03-03": 127522,
-  "2023-03-04": 127589,
-  "2023-03-05": 127762,
-  "2023-03-06": 127762,
-  "2023-03-07": 127819,
-  "2023-03-08": 127865,
-  "2023-03-09": 127915,
-  "2023-03-10": 127967,
-  "2023-03-11": 128022,
-  "2023-03-12": 128099,
-  "2023-03-13": 128172,
-  "2023-03-14": 128215,
-  "2023-03-15": 128283,
-  "2023-03-16": 128283,
-  "2023-03-17": 128283,
-  "2023-03-18": 128486,
-  "2023-03-19": 128486,
-  "2023-03-20": 128646,
-  "2023-03-21": 128698,
-  "2023-03-22": 128752,
-  "2023-03-23": 128795,
-  "2023-03-24": 128795,
-  "2023-03-25": 128939,
-  "2023-03-26": 129063,
-  "2023-03-27": 129159,
-  "2023-03-28": 129204,
-  "2023-03-29": 129284,
-  "2023-03-30": 129389,
-  "2023-03-31": 129389,
-  "2023-04-01": 129476,
-  "2023-04-02": 129579,
-  "2023-04-03": 129668,
-  "2023-04-04": 129739,
-  "2023-04-05": 129826,
-  "2023-04-06": 129920,
-  "2023-04-07": 130044,
-  "2023-04-09": 130293,
-  "2023-04-10": 130394,
-  "2023-04-11": 130490,
-  "2023-04-12": 130490,
-  "2023-04-13": 130570,
-  "2023-04-14": 130626,
-  "2023-04-15": 130717,
-  "2023-04-16": 130805,
-  "2023-04-17": 130879,
-  "2023-04-18": 130941,
-  "2023-04-19": 131003,
-  "2023-04-20": 131069,
-  "2023-04-21": 131132,
-  "2023-04-22": 131228,
-  "2023-04-23": 131341,
-  "2023-04-24": 131427,
-  "2023-04-25": 131472,
-  "2023-04-26": 131534,
-  "2023-04-27": 131602,
-  "2023-04-28": 131659,
-  "2023-04-29": 131738,
-  "2023-04-30": 131848,
-  "2023-05-01": 131941,
-  "2023-05-02": 132021,
-  "2023-05-03": 132092,
-  "2023-05-04": 132150,
-  "2023-05-05": 132229,
-  "2023-05-06": 132316,
-  "2023-05-07": 132423,
-  "2023-05-08": 132507,
-  "2023-05-09": 132566,
-  "2023-05-10": 132631,
-  "2023-05-11": 132726,
-  "2023-05-12": 132799,
-  "2023-05-13": 132867,
-  "2023-05-14": 132962,
-  "2023-05-15": 133060,
-  "2023-05-16": 133120,
-  "2023-05-17": 133205,
-  "2023-05-18": 133273,
-  "2023-05-19": 133348,
-  "2023-05-20": 133567,
-  "2023-05-21": 133567,
-  "2023-05-22": 133567,
-  "2023-05-23": 133712,
-  "2023-05-24": 133804,
-  "2023-05-25": 133817,
-  "2023-05-26": 133914,
-  "2023-05-27": 133983,
-  "2023-05-28": 134082,
-  "2023-05-29": 134082,
-  "2023-05-30": 134255,
-  "2023-05-31": 134304,
-  "2023-06-01": 134373,
-  "2023-06-02": 134453,
-  "2023-06-03": 134553,
-  "2023-06-04": 134639,
-  "2023-06-05": 134746,
-  "2023-06-06": 134802,
-  "2023-06-07": 134887,
-  "2023-06-08": 134994,
-  "2023-06-09": 135083,
-  "2023-06-10": 135185,
-  "2023-06-11": 135304,
-  "2023-06-12": 135410,
-  "2023-06-13": 135479,
-  "2023-06-14": 135561,
-  "2023-06-15": 135659,
-  "2023-06-16": 135743,
-  "2023-06-17": 135845,
-  "2023-06-18": 135972,
-  "2023-06-19": 136155,
-  "2023-06-20": 136230,
-  "2023-06-21": 136273,
-  "2023-06-22": 136362,
-  "2023-06-23": 136455,
-  "2023-06-24": 136540,
-  "2023-06-25": 136686,
-  "2023-06-26": 136776,
-  "2023-06-27": 136851,
-  "2023-06-28": 136921,
-  "2023-06-29": 136978,
-  "2023-06-30": 137051,
-  "2023-07-01": 137292,
-  "2023-07-02": 137292,
-  "2023-07-03": 137412,
-  "2023-07-04": 137488,
-  "2023-07-05": 137572,
-  "2023-07-06": 137752,
-  "2023-07-07": 137752,
-  "2023-07-08": 137752,
-  "2023-07-09": 137975,
-  "2023-07-10": 138077,
-  "2023-07-11": 138145,
-  "2023-07-12": 138248,
-  "2023-07-13": 138326,
-  "2023-07-14": 138426,
-  "2023-07-15": 138507,
-  "2023-07-16": 138645,
-  "2023-07-17": 138760,
-  "2023-07-18": 138819,
-  "2023-07-19": 138921,
-  "2023-07-20": 138921,
-  "2023-07-21": 139136,
-  "2023-07-22": 139276,
-  "2023-07-23": 139424,
-  "2023-07-24": 139527,
-  "2023-07-25": 139603,
-  "2023-07-26": 139666,
-  "2023-07-27": 139760,
-  "2023-07-28": 139849,
-  "2023-07-29": 139945,
-  "2023-07-30": 139945,
-  "2023-07-31": 140166,
-  "2023-08-01": 140251,
-  "2023-08-02": 140316,
-  "2023-08-03": 140401,
-  "2023-08-04": 140481,
-  "2023-08-05": 140572,
-  "2023-08-06": 140803,
-  "2023-08-07": 140803,
-  "2023-08-08": 140857,
-  "2023-08-09": 140931,
-  "2023-08-10": 140997,
-  "2023-08-11": 141064,
-  "2023-08-12": 141064,
-  "2023-08-13": 141064,
-  "2023-08-14": 141064,
-  "2023-08-15": 141064,
-  "2023-08-16": 141064,
-  "2023-08-17": 141064,
-  "2023-08-18": 141064,
-  "2023-08-19": 141064,
-  "2023-08-20": 142022,
-  "2023-08-21": 142022,
-  "2023-08-22": 142244,
-  "2023-08-23": 142244,
-  "2023-08-24": 142244,
-  "2023-08-25": 142244,
-  "2023-08-26": 142708,
-  "2023-08-27": 142708,
-  "2023-08-28": 142961,
-  "2023-08-29": 142961,
-  "2023-08-30": 142961,
-  "2023-08-31": 143174,
-  "2023-09-01": 143248,
-  "2023-09-02": 143248,
-  "2023-09-03": 143248,
-  "2023-09-04": 143248,
-  "2023-09-05": 143248,
-  "2023-09-06": 143248,
-  "2023-09-07": 143248,
-  "2023-09-08": 143248,
-  "2023-09-09": 143248,
-  "2023-09-10": 143248,
-  "2023-09-11": 143248,
-  "2023-09-12": 143248,
-  "2023-09-13": 143248,
-  "2023-09-14": 143248,
-  "2023-09-15": 143248,
-  "2023-09-16": 144767,
-  "2023-09-17": 144767,
-  "2023-09-18": 144767,
-  "2023-09-19": 145130,
-  "2023-09-20": 145130,
-  "2023-09-21": 145130,
-  "2023-09-22": 145331,
-  "2023-09-23": 145331,
-  "2023-09-24": 145331,
-  "2023-09-25": 145331,
-  "2023-09-26": 145651,
-  "2023-09-27": 145651,
-  "2023-09-28": 145651,
-  "2023-09-29": 145651,
-  "2023-09-30": 145651,
-  "2023-10-01": 145651,
-  "2023-10-02": 145651,
-  "2023-10-03": 145651,
-  "2023-10-04": 145651,
-  "2023-10-05": 145651,
-  "2023-10-06": 145651,
-  "2023-10-07": 145651,
-  "2023-10-08": 145651,
-  "2023-10-09": 145651,
-  "2023-10-10": 145651,
-  "2023-10-11": 145651,
-  "2023-10-12": 145651,
-  "2023-10-13": 145651,
-  "2023-10-14": 145651,
-  "2023-10-15": 145651,
-  "2023-10-16": 145651,
-  "2023-10-17": 145651,
-  "2023-10-18": 145651,
-  "2023-10-19": 145651,
-  "2023-10-20": 145651,
-  "2023-10-21": 145651,
-  "2023-10-22": 145651,
-  "2023-10-23": 145651,
-  "2023-10-24": 145651,
-  "2023-10-25": 145651,
-  "2023-10-26": 145651,
-  "2023-10-27": 145651,
-  "2023-10-28": 145651,
-  "2023-10-29": 145651,
-  "2023-10-30": 145651,
-  "2023-10-31": 145651,
-  "2023-11-01": 145651,
-  "2023-11-02": 145651,
-  "2023-11-03": 145651,
-  "2023-11-04": 145651,
-  "2023-11-05": 145651,
-  "2023-11-06": 145651,
-  "2023-11-07": 145651,
-  "2023-11-08": 145651,
-  "2023-11-09": 145651,
-  "2023-11-10": 145651,
-  "2023-11-11": 148830,
-  "2023-11-12": 148830,
-  "2023-11-13": 148830,
-  "2023-11-14": 148830,
-  "2023-11-15": 148830,
-  "2023-11-16": 148830,
-  "2023-11-17": 148830,
-  "2023-11-18": 148830,
-  "2023-11-19": 148830,
-  "2023-11-20": 148830,
-  "2023-11-21": 148830,
-  "2023-11-22": 148830,
-  "2023-11-23": 148830,
-  "2023-11-24": 148830,
-  "2023-11-25": 148830,
-  "2023-11-26": 148830,
-  "2023-11-27": 148830,
-  "2023-11-28": 148830,
-  "2023-11-29": 148830,
-  "2023-11-30": 148830,
-  "2023-12-01": 148830,
-  "2023-12-02": 148830,
-  "2023-12-03": 148830,
-  "2023-12-04": 148830,
-  "2023-12-05": 148830,
-  "2023-12-06": 148830,
-  "2023-12-07": 148830,
-  "2023-12-08": 148830,
-  "2023-12-09": 148830,
-  "2023-12-10": 148830,
-  "2023-12-11": 148830,
-  "2023-12-12": 148830,
-  "2023-12-13": 148830,
-  "2023-12-14": 151359,
-  "2023-12-15": 151418,
-  "2023-12-16": 151499,
-  "2023-12-17": 151611,
-  "2023-12-18": 151694,
-  "2023-12-19": 151760,
-  "2023-12-20": 151847,
-  "2023-12-21": 151941,
-  "2023-12-22": 152018,
-  "2023-12-23": 152118,
-  "2023-12-24": 152212,
-  "2023-12-25": 152332,
-  "2023-12-26": 152449,
-  "2023-12-27": 152508,
-  "2023-12-30": 152736,
-  "2023-12-31": 152832,
-  "2024-01-01": 152983,
-  "2024-01-02": 153085,
-  "2024-01-03": 153122
+  "2024-01-17": 153509,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
+  "name": "This Is Los Invasores De Nuevo Le\u00f3n",
+  "tracks": [
+    {
+      "album": {
+        "name": "Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161493,
+      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
+      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+    },
+    {
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "A Ver Si Capea",
+      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
+    },
+    {
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136706,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6E5gZOwEMVED0hNBeaTu9k"
+    },
+    {
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Alfredo Galeana",
+      "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
+    },
+    {
+      "album": {
+        "name": "20 Rancheras",
+        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 143733,
+      "name": "Amor A La Ligera",
+      "url": "https://open.spotify.com/track/33AAdwr1js1SESHflZAlTD"
+    },
+    {
+      "album": {
+        "name": "Amor A La Ligera",
+        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "Amor A La Ligera",
+      "url": "https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn"
+    },
+    {
+      "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 180533,
+      "name": "Animas Que No Amanezca",
+      "url": "https://open.spotify.com/track/3jtQaK6DFeiRhNbdwp86U0"
+    },
+    {
+      "album": {
+        "name": "Camino Equivocado",
+        "url": "https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192173,
+      "name": "Avi\u00e9ntame",
+      "url": "https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA"
+    },
+    {
+      "album": {
+        "name": "20 Rancheras",
+        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 149066,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/0yBSM7wXqyFHiJbNVI9jHR"
+    },
+    {
+      "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150533,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
+    },
+    {
+      "album": {
+        "name": "Puras Buenas",
+        "url": "https://open.spotify.com/album/3BNHJpo2BHsJAAT801YQgt"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "El Gallo Potosino",
+          "url": "https://open.spotify.com/artist/30Co50Gc1GmKpWcds4kTEg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 203133,
+      "name": "Chuy y Mauricio",
+      "url": "https://open.spotify.com/track/36Ni5Z0OOmiDnOTIo4aJde"
+    },
+    {
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219826,
+      "name": "Clave 7",
+      "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
+    },
+    {
+      "album": {
+        "name": "Coincidencia",
+        "url": "https://open.spotify.com/album/5kZpacNK5T75ydnsjHPI5A"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 190870,
+      "name": "Coincidencia",
+      "url": "https://open.spotify.com/track/6mG194I8D0FM4lHwVnfdWu"
+    },
+    {
+      "album": {
+        "name": "16 Exitos",
+        "url": "https://open.spotify.com/album/4Q9YcxSONwOGiK0Wpi4GkU"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 182026,
+      "name": "Concha Del Alma",
+      "url": "https://open.spotify.com/track/0fgfdMYuelVZXYkrsS9joX"
+    },
+    {
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Coraz\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/3hEDujdXlHpKEv8pW7SxBz"
+    },
+    {
+      "album": {
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "De Vida O Muerte",
+      "url": "https://open.spotify.com/track/4TbjXIEyA9VKdBx5WuSw4B"
+    },
+    {
+      "album": {
+        "name": "Mi H\u00e9roe",
+        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159013,
+      "name": "Degenerado",
+      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
+    },
+    {
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 171493,
+      "name": "Derrotado Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0rCMtvxL1xtZe4qkEm2cix"
+    },
+    {
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 207906,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
+    },
+    {
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186173,
+      "name": "Distancia Maldita",
+      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+    },
+    {
+      "album": {
+        "name": "Mi Flor De Naranjo",
+        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150973,
+      "name": "El Amor De Nosotros",
+      "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
+    },
+    {
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 182440,
+      "name": "El Careto Y El Comando",
+      "url": "https://open.spotify.com/track/0HuP5xLv151vNqT7e7AH9O"
+    },
+    {
+      "album": {
+        "name": "22 Exitos",
+        "url": "https://open.spotify.com/album/1Clyyw4jsXIdcZ9ZXV8GOk"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 181386,
+      "name": "El Preso de Nuevo Le\u00f3n",
+      "url": "https://open.spotify.com/track/6wxe34W9Vy8PWwlkIy0Bf4"
+    },
+    {
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 164133,
+      "name": "El Profugo De Tijuana",
+      "url": "https://open.spotify.com/track/48tDkYg8Ih9b7YuPKyufEl"
+    },
+    {
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "El Subteniente Linares",
+      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
+    },
+    {
+      "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "El Ultimo Cartucho",
+      "url": "https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jate Llevar",
+        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211706,
+      "name": "En El \u00daltimo Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
+    },
+    {
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177973,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
+    },
+    {
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
+    },
+    {
+      "album": {
+        "name": "Ni Dada La Quiero",
+        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182786,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
+    },
+    {
+      "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189493,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
+    },
+    {
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 181933,
+      "name": "Florentino Ventura",
+      "url": "https://open.spotify.com/track/0rnkDN36KTqBxDX634sUi3"
+    },
+    {
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Gracias Porque Volviste",
+      "url": "https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg"
+    },
+    {
+      "album": {
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153733,
+      "name": "La Costumbre",
+      "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
+    },
+    {
+      "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 152293,
+      "name": "La Fuga Del Rojo",
+      "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
+    },
+    {
+      "album": {
+        "name": "La Lloradera",
+        "url": "https://open.spotify.com/album/309Ivzn5Ygopg3ImLZ3Qeq"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 163293,
+      "name": "La Lloradera",
+      "url": "https://open.spotify.com/track/5XMKMu698zpti1TwbCUrZr"
+    },
+    {
+      "album": {
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/4EzWUl91tOLsFNgKrs8oe0"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 168304,
+      "name": "La Mejor de Mis Tragedias",
+      "url": "https://open.spotify.com/track/2VBLnpqcMppdvYeuDYXBth"
+    },
+    {
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 159533,
+      "name": "La Novia De Mi Hermano",
+      "url": "https://open.spotify.com/track/7vD3N2EHqv8GfQa8zi9u3J"
+    },
+    {
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158893,
+      "name": "La Vieja Banca",
+      "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
+    },
+    {
+      "album": {
+        "name": "La Vieja Escuela",
+        "url": "https://open.spotify.com/album/1LcpnxXXFkmQ8evfFaUIXz"
+      },
+      "artists": [
+        {
+          "name": "4 de a Caballo",
+          "url": "https://open.spotify.com/artist/41JHmI3S4Jo07FN7oXyeMI"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 191232,
+      "name": "La Vieja Escuela",
+      "url": "https://open.spotify.com/track/7LCcSgOoFtUnfmG3kxzQ9F"
+    },
+    {
+      "album": {
+        "name": "Aferrado Al Amor",
+        "url": "https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "La Viviana",
+      "url": "https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3"
+    },
+    {
+      "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
+    },
+    {
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187613,
+      "name": "Lo Callar\u00e9",
+      "url": "https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC"
+    },
+    {
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Lucio Pe\u00f1a",
+      "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
+    },
+    {
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 196306,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
+    },
+    {
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 174893,
+      "name": "Me Sobra Llanto",
+      "url": "https://open.spotify.com/track/5XmPFF0iUdWt5rbnIpZNIW"
+    },
+    {
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "Mi Caballo Pobre",
+      "url": "https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C"
+    },
+    {
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
+    },
+    {
+      "album": {
+        "name": "Corridos de Ayer y Hoy",
+        "url": "https://open.spotify.com/album/2EIbfXrBD3tpwyV7w61x2W"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 216759,
+      "name": "Mi Fiel Amigo",
+      "url": "https://open.spotify.com/track/7JyikMvt7GNqgh1icRP3Vy"
+    },
+    {
+      "album": {
+        "name": "20 Rancheras",
+        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "Mi Flor De Naranjo",
+      "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
+    },
+    {
+      "album": {
+        "name": "Boleros 20\u00b0 Aniversario",
+        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 225266,
+      "name": "Mi Linda Esposa",
+      "url": "https://open.spotify.com/track/3TSjvofuOdFlXtW2Mba0yV"
+    },
+    {
+      "album": {
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177626,
+      "name": "Moneda Sin Valor",
+      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
+    },
+    {
+      "album": {
+        "name": "M\u00e1rchate",
+        "url": "https://open.spotify.com/album/0oosMtBmDMQMgHalEZKgkm"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 198392,
+      "name": "M\u00e1rchate",
+      "url": "https://open.spotify.com/track/1qnMgwNNQA83JNL3IfSCOr"
+    },
+    {
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 166266,
+      "name": "Nada Contigo",
+      "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
+    },
+    {
+      "album": {
+        "name": "10+10",
+        "url": "https://open.spotify.com/album/32PDVB8vzIpO0hqyas42fY"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 146586,
+      "name": "Ni Amores Ni Deudas",
+      "url": "https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7"
+    },
+    {
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185640,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/4AplGNlqrFDyxkCM27gSCl"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1al De Alerta",
+        "url": "https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Ni Que Tuvieras Tanta Suerte",
+      "url": "https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi"
+    },
+    {
+      "album": {
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174040,
+      "name": "No Llorar\u00e9",
+      "url": "https://open.spotify.com/track/6OYSCpemGHXqiip743GGAr"
+    },
+    {
+      "album": {
+        "name": "No S\u00e9 Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/1HCrI1y6xGB7HPrfB4Tt6f"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 182258,
+      "name": "No S\u00e9 Qu\u00e9 Pasa",
+      "url": "https://open.spotify.com/track/5YmbEstKMg7zofgLXvbSAN"
+    },
+    {
+      "album": {
+        "name": "Boleros Volumen 2",
+        "url": "https://open.spotify.com/album/7JL6rJigUVM0qfWOFnbx2k"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184533,
+      "name": "Para Ti Mi Amor",
+      "url": "https://open.spotify.com/track/79KkCXH9weKlaTsur7y8tk"
+    },
+    {
+      "album": {
+        "name": "Embargame A Mi",
+        "url": "https://open.spotify.com/album/3W3HJXgsvDaZr8lxKqNN6m"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175666,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/0mzpP5g8OCOj3dCtowPAjV"
+    },
+    {
+      "album": {
+        "name": "Ventanas Al Viento",
+        "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 219000,
+      "name": "Ponle Ventanas Al Viento",
+      "url": "https://open.spotify.com/track/0GtV5vYrnQ3g47AZPQ78go"
+    },
+    {
+      "album": {
+        "name": "30 Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/6Ex3dDo3WP0dVOOPKWWvXd"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188413,
+      "name": "Porque No Le Calas - En Vivo",
+      "url": "https://open.spotify.com/track/00nl5adFlB8bVbR3UM5BmZ"
+    },
+    {
+      "album": {
+        "name": "Amor A La Ligera",
+        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
+    },
+    {
+      "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 182866,
+      "name": "Que Mi Negra",
+      "url": "https://open.spotify.com/track/2iN08MvM6Y0YjhIde0vm52"
+    },
+    {
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 164386,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb"
+    },
+    {
+      "album": {
+        "name": "Castigame",
+        "url": "https://open.spotify.com/album/2mzZX6tPn2HSgwPDwBWxlM"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 165000,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/1FHVrQ4GmRxmWx7g1RzdJJ"
+    },
+    {
+      "album": {
+        "name": "Exitos De Los Invasores De Nuevo Leon",
+        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166106,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
+    },
+    {
+      "album": {
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Que Poca",
+      "url": "https://open.spotify.com/track/4XKtNegKyGMCdgIdCxfcMQ"
+    },
+    {
+      "album": {
+        "name": "Sin Presumir",
+        "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135026,
+      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
+      "url": "https://open.spotify.com/track/1tk8qoiqnM3rsg64xvpRlN"
+    },
+    {
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "Qu\u00e9 Valor De Mujer",
+      "url": "https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB"
+    },
+    {
+      "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Rafael Caro Quintero",
+      "url": "https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF"
+    },
+    {
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Reproches Del Viento",
+      "url": "https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO"
+    },
+    {
+      "album": {
+        "name": "20 Rancheras",
+        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-10",
+      "duration_ms": 188400,
+      "name": "Rosalinda",
+      "url": "https://open.spotify.com/track/2Le4YQV3wlP9KRY4Uku4Xk"
+    },
+    {
+      "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Rosalinda",
+      "url": "https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ"
+    },
+    {
+      "album": {
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/2Tq1NVRQwWSZ0CUSxU0cFA"
+    },
+    {
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140333,
+      "name": "Te Sorprend\u00ed Llorando",
+      "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
+    },
+    {
+      "album": {
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188093,
+      "name": "Total Ya Se Fue",
+      "url": "https://open.spotify.com/track/0Mps5Z6CN05QkPIzBoAqRM"
+    },
+    {
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "Vete Con El",
+      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
+    },
+    {
+      "album": {
+        "name": "Con Tal De Que Me Olvides",
+        "url": "https://open.spotify.com/album/7ytPVFfcyxDrMraTGv9w8R"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Ya No Te Amo",
+      "url": "https://open.spotify.com/track/7H4tgQ4ldZ1PmWL88b6nuI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jkCWI"
 }

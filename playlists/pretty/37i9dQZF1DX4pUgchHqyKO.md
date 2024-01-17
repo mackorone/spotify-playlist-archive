@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUgchHqyKO.md) - [plain]
 
 > Put on your cowboy hat and pull up your boots \- Luke Combs is in town! Celebrate Luke Combs’ 2023 tour with his official setlist\. Yeehaw 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,167 likes - 26 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,408 likes - 26 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

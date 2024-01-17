@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-183 songs - 14 hr 24 min
+184 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Love Hurts](https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Love Hurts](https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve) | 4:45 | 2022-09-22 |  |
 | [Lover, You Should Have Come Over](https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 4:48 | 2022-09-13 |  |
 | [Maiden Voyage / Everything In Its Right Place](https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [In My Element](https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS) | 8:43 | 2022-09-13 |  |
-| [Masters Of War](https://open.spotify.com/track/4cOFrivheYAhrEppNAWMW7) | [Scott Amendola](https://open.spotify.com/artist/0z8GiMtospGy5TDzG8LiSE), [Jenny Scheinman](https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd), [Nels Cline](https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp), [Eric Crystal](https://open.spotify.com/artist/4w2Ux9fk321zWSsBNCxykL), [Todd Sickafoose](https://open.spotify.com/artist/0gat1iJtUzvdGOgNNJ9fW7) | [Cry](https://open.spotify.com/album/6MdJLoigLIOtMEHh3a4XcO) | 9:12 | 2022-10-11 |  |
+| [Masters Of War](https://open.spotify.com/track/4cOFrivheYAhrEppNAWMW7) | [Scott Amendola](https://open.spotify.com/artist/0z8GiMtospGy5TDzG8LiSE), [Jenny Scheinman](https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd), [Nels Cline](https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp), [Eric Crystal](https://open.spotify.com/artist/4w2Ux9fk321zWSsBNCxykL), [Todd Sickafoose](https://open.spotify.com/artist/0gat1iJtUzvdGOgNNJ9fW7) | [Cry](https://open.spotify.com/album/6MdJLoigLIOtMEHh3a4XcO) | 9:12 | 2022-10-11 | 2024-01-12 |
 | [Material Girl](https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL) | [Cassandra Beck](https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2) | [The Sexy EP](https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ) | 2:54 | 2022-09-13 |  |
 | [Maybe I'm Amazed](https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope) | [4 Wheel Drive](https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2) | 3:46 | 2023-01-11 | 2023-09-15 |
 | [Morning Has Broken](https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Everybody Loves Angels](https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm) | 5:20 | 2022-09-13 |  |
@@ -182,6 +182,7 @@
 | [With a Little Help from My Friends](https://open.spotify.com/track/0ERlVIKsXiZvr3Ijj5IgEA) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [With a Little Help from My Friends](https://open.spotify.com/album/2ZZYwV5bwFEPqKKg5MvHkG) | 4:33 | 2023-12-20 |  |
 | [Wonderwall](https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Rock Swings](https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl) | 3:36 | 2022-09-20 |  |
 | [Yellow](https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI) | [Ive Mendes](https://open.spotify.com/artist/536ylK53FB0GDGfTmwk7ZN) | [Magnetism, Vol\. 1](https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw) | 3:40 | 2022-09-13 |  |
+| [Yester\-Me, Yester\-You, Yesterday](https://open.spotify.com/track/6d4dTwuc2FwcVLJbJvdERg) | [Anders Widmark](https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef) | [Yester\-Me, Yester\-You, Yesterday](https://open.spotify.com/album/0mimWvWVLStmf5bMWepQbs) | 4:52 | 2023-12-20 |  |
 | [Yesterday](https://open.spotify.com/track/4GjfAPlsQg9U6YqdwJHkxC) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Jazz Pop Covers by JazzEcho](https://open.spotify.com/album/6zrW0dqr05YPJPLbf3nuyT) | 2:42 | 2023-09-15 | 2023-09-17 |
 | [Yesterday](https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Oliver Nelson Plays Michelle](https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw) | 2:42 | 2022-09-13 | 2023-08-10 |
 | [You've Got A Friend](https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:21 | 2022-09-13 |  |

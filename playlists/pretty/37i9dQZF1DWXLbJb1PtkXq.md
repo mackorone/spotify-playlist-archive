@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 > Les plus grands hits français des années 90\. Photo : Louise Attaque
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,562 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,848 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: Jordan Ward
 
-379 songs - 19 hr 55 min
+380 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [17suns](https://open.spotify.com/track/0UCZd39helCanZAlsWbrR1) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 2:41 | 2023-06-07 | 2023-08-22 |
 | [27](https://open.spotify.com/track/3B17oqXg7jkh4FGZslnYuz) | [deem spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK), [DaVionne](https://open.spotify.com/artist/0kQVtbYXplOdbRNlQ3RBOE) | [27](https://open.spotify.com/album/30Oj6ILCdT5poO5w2IIJQR) | 4:44 | 2023-02-01 | 2023-03-04 |
 | [9 lives](https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:27 | 2023-08-09 | 2023-11-18 |
-| [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-06-07 | 2023-08-22 |
+| [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-06-07 |  |
 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 | 2023-08-09 |  |
 | [Abyss](https://open.spotify.com/track/07BCkoZW66cM9nQhOsKPSr) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Abyss](https://open.spotify.com/album/4WC7YAk1hPsSL4hEeNz18l) | 2:26 | 2022-02-18 | 2023-02-11 |
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2022-02-18 |  |
@@ -222,7 +222,7 @@
 | [lived to love](https://open.spotify.com/track/7BhpFgkDyiVI4pjOlaWvTc) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/3fyIONHp0otEcFDXaqhQZ8) | 4:15 | 2022-05-13 | 2022-11-13 |
 | [Lonely](https://open.spotify.com/track/09aukdF7hLwzqgB93lTUi3) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Lonely](https://open.spotify.com/album/2eRaTFK2FSqleRT8dA6TwX) | 1:32 | 2023-08-14 | 2023-08-22 |
 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 | 2022-10-03 | 2023-02-11 |
-| [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-06-07 |  |
+| [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-06-07 | 2024-01-14 |
 | [Lost](https://open.spotify.com/track/4Tyb1yqPkrVI5hyudVc0QW) | [Santé Rose](https://open.spotify.com/artist/6ID6N2FNCPskPc2ERK8IH2) | [Lost](https://open.spotify.com/album/4EqiwDa8jcePX5tx172nTU) | 2:20 | 2022-03-25 | 2022-11-12 |
 | [Lost In America](https://open.spotify.com/track/2CnjVYs88XhZBZ5x2KR0ra) | [Lo Village](https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi) | [Lost In America](https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T) | 3:00 | 2022-02-18 | 2022-03-12 |
 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 | 2023-02-10 | 2023-12-06 |
@@ -235,7 +235,8 @@
 | [Many Times](https://open.spotify.com/track/3PJiE71oOxVPzMYYt6MI7G) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Many Times](https://open.spotify.com/album/6TkIUGYXfH2UQe6IQq218Q) | 2:06 | 2022-02-18 | 2023-03-07 |
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-01 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2022-02-18 | 2023-06-08 |
-| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-09 |  |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-09 | 2024-01-04 |
+| [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-11-17 |  |
 | [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 | 2023-02-01 | 2023-08-22 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-06-17 | 2022-10-04 |
 | [Midnight Legend](https://open.spotify.com/track/7wnRHeYAAd0KqkFe3ZQHcI) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Midnight Legend](https://open.spotify.com/album/2MJDkHvOuzpQg1q3AMeYC6) | 3:24 | 2022-10-03 | 2023-02-11 |

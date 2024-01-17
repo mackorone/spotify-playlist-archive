@@ -1,569 +1,1173 @@
 {
-  "2022-06-10": 114749,
-  "2022-06-11": 114784,
-  "2022-06-12": 114828,
-  "2022-06-13": 114842,
-  "2022-06-14": 114879,
-  "2022-06-15": 114910,
-  "2022-06-16": 114935,
-  "2022-06-17": 114961,
-  "2022-06-18": 114961,
-  "2022-06-19": 115034,
-  "2022-06-20": 115034,
-  "2022-06-21": 115071,
-  "2022-06-22": 115133,
-  "2022-06-23": 115133,
-  "2022-06-24": 115166,
-  "2022-06-25": 115198,
-  "2022-06-26": 115222,
-  "2022-06-27": 115247,
-  "2022-06-28": 115253,
-  "2022-06-29": 115271,
-  "2022-06-30": 115289,
-  "2022-07-01": 115312,
-  "2022-07-02": 115334,
-  "2022-07-03": 115356,
-  "2022-07-04": 115369,
-  "2022-07-05": 115376,
-  "2022-07-06": 115394,
-  "2022-07-07": 115422,
-  "2022-07-08": 115454,
-  "2022-07-09": 115461,
-  "2022-07-10": 115472,
-  "2022-07-11": 115484,
-  "2022-07-12": 115510,
-  "2022-07-13": 115529,
-  "2022-07-14": 115540,
-  "2022-07-15": 115563,
-  "2022-07-16": 115579,
-  "2022-07-17": 115582,
-  "2022-07-18": 115600,
-  "2022-07-19": 115615,
-  "2022-07-20": 115643,
-  "2022-07-21": 115671,
-  "2022-07-22": 115692,
-  "2022-07-23": 115703,
-  "2022-07-24": 115715,
-  "2022-07-25": 115740,
-  "2022-07-26": 115751,
-  "2022-07-27": 115766,
-  "2022-07-28": 115784,
-  "2022-07-29": 115811,
-  "2022-07-30": 115846,
-  "2022-07-31": 115846,
-  "2022-08-01": 115868,
-  "2022-08-02": 115873,
-  "2022-08-03": 115873,
-  "2022-08-04": 115903,
-  "2022-08-05": 115923,
-  "2022-08-06": 115948,
-  "2022-08-07": 115965,
-  "2022-08-08": 115988,
-  "2022-08-09": 116020,
-  "2022-08-10": 116031,
-  "2022-08-11": 116072,
-  "2022-08-12": 116102,
-  "2022-08-13": 116126,
-  "2022-08-14": 116150,
-  "2022-08-15": 116189,
-  "2022-08-16": 116219,
-  "2022-08-17": 116240,
-  "2022-08-18": 116261,
-  "2022-08-19": 116274,
-  "2022-08-20": 116315,
-  "2022-08-21": 116336,
-  "2022-08-22": 116354,
-  "2022-08-23": 116386,
-  "2022-08-24": 116404,
-  "2022-08-25": 116426,
-  "2022-08-26": 116443,
-  "2022-08-27": 116466,
-  "2022-08-28": 116495,
-  "2022-08-29": 116508,
-  "2022-08-30": 116490,
-  "2022-08-31": 116432,
-  "2022-09-01": 116379,
-  "2022-09-02": 116303,
-  "2022-09-03": 116189,
-  "2022-09-04": 116145,
-  "2022-09-05": 116157,
-  "2022-09-06": 116174,
-  "2022-09-07": 116191,
-  "2022-09-09": 116227,
-  "2022-09-10": 116241,
-  "2022-09-11": 116255,
-  "2022-09-12": 116276,
-  "2022-09-13": 116310,
-  "2022-09-15": 116335,
-  "2022-09-16": 116373,
-  "2022-09-17": 116402,
-  "2022-09-18": 116436,
-  "2022-09-19": 116440,
-  "2022-09-20": 116495,
-  "2022-09-21": 116522,
-  "2022-09-22": 116561,
-  "2022-09-23": 116590,
-  "2022-09-24": 116607,
-  "2022-09-25": 116624,
-  "2022-09-26": 116646,
-  "2022-09-27": 116667,
-  "2022-09-28": 116682,
-  "2022-09-29": 116701,
-  "2022-09-30": 116735,
-  "2022-10-01": 116745,
-  "2022-10-02": 116771,
-  "2022-10-03": 116821,
-  "2022-10-04": 116844,
-  "2022-10-05": 116857,
-  "2022-10-06": 116871,
-  "2022-10-07": 116880,
-  "2022-10-08": 116910,
-  "2022-10-09": 116960,
-  "2022-10-10": 116971,
-  "2022-10-11": 117005,
-  "2022-10-12": 117019,
-  "2022-10-13": 117042,
-  "2022-10-14": 117062,
-  "2022-10-15": 117079,
-  "2022-10-16": 117118,
-  "2022-10-17": 117131,
-  "2022-10-18": 117142,
-  "2022-10-19": 117175,
-  "2022-10-20": 117180,
-  "2022-10-21": 117202,
-  "2022-10-22": 117217,
-  "2022-10-23": 117236,
-  "2022-10-24": 117249,
-  "2022-10-25": 117267,
-  "2022-10-26": 117293,
-  "2022-10-27": 117303,
-  "2022-10-28": 117319,
-  "2022-10-29": 117339,
-  "2022-10-30": 117347,
-  "2022-10-31": 117368,
-  "2022-11-01": 117382,
-  "2022-11-02": 117411,
-  "2022-11-03": 117425,
-  "2022-11-04": 117446,
-  "2022-11-05": 117463,
-  "2022-11-06": 117483,
-  "2022-11-07": 117514,
-  "2022-11-08": 117522,
-  "2022-11-09": 117544,
-  "2022-11-10": 117555,
-  "2022-11-11": 117595,
-  "2022-11-12": 117638,
-  "2022-11-13": 117652,
-  "2022-11-14": 117688,
-  "2022-11-15": 117712,
-  "2022-11-16": 117729,
-  "2022-11-17": 117753,
-  "2022-11-18": 117752,
-  "2022-11-19": 117752,
-  "2022-11-20": 117771,
-  "2022-11-21": 117790,
-  "2022-11-22": 117799,
-  "2022-11-23": 117806,
-  "2022-11-24": 117851,
-  "2022-11-25": 117898,
-  "2022-11-26": 117923,
-  "2022-11-27": 117956,
-  "2022-11-28": 117978,
-  "2022-11-29": 117993,
-  "2022-11-30": 118009,
-  "2022-12-01": 118040,
-  "2022-12-02": 118053,
-  "2022-12-03": 118081,
-  "2022-12-04": 118090,
-  "2022-12-05": 118096,
-  "2022-12-06": 118113,
-  "2022-12-07": 118132,
-  "2022-12-08": 118138,
-  "2022-12-09": 118166,
-  "2022-12-10": 118201,
-  "2022-12-11": 118220,
-  "2022-12-12": 118236,
-  "2022-12-13": 118250,
-  "2022-12-14": 118272,
-  "2022-12-15": 118312,
-  "2022-12-16": 118362,
-  "2022-12-17": 118401,
-  "2022-12-18": 118447,
-  "2022-12-19": 118479,
-  "2022-12-20": 118558,
-  "2022-12-21": 118558,
-  "2022-12-22": 118592,
-  "2022-12-24": 118649,
-  "2022-12-25": 118678,
-  "2022-12-26": 118714,
-  "2022-12-27": 118752,
-  "2022-12-28": 118786,
-  "2022-12-29": 118821,
-  "2022-12-30": 118856,
-  "2022-12-31": 118888,
-  "2023-01-01": 118913,
-  "2023-01-02": 118956,
-  "2023-01-03": 119002,
-  "2023-01-04": 119048,
-  "2023-01-05": 119070,
-  "2023-01-06": 119118,
-  "2023-01-07": 119196,
-  "2023-01-08": 119210,
-  "2023-01-09": 119252,
-  "2023-01-10": 119300,
-  "2023-01-11": 119334,
-  "2023-01-12": 119388,
-  "2023-01-13": 119427,
-  "2023-01-14": 119473,
-  "2023-01-15": 119490,
-  "2023-01-16": 119550,
-  "2023-01-17": 119588,
-  "2023-01-18": 119633,
-  "2023-01-19": 119659,
-  "2023-01-20": 119688,
-  "2023-01-21": 119723,
-  "2023-01-22": 119735,
-  "2023-01-23": 119768,
-  "2023-01-24": 119800,
-  "2023-01-25": 119841,
-  "2023-01-26": 119894,
-  "2023-01-27": 119929,
-  "2023-01-28": 119946,
-  "2023-01-29": 119971,
-  "2023-01-30": 120001,
-  "2023-01-31": 120001,
-  "2023-02-01": 120064,
-  "2023-02-02": 120093,
-  "2023-02-03": 120136,
-  "2023-02-04": 120189,
-  "2023-02-05": 120235,
-  "2023-02-06": 120262,
-  "2023-02-07": 120307,
-  "2023-02-08": 120378,
-  "2023-02-09": 120378,
-  "2023-02-10": 120411,
-  "2023-02-11": 120448,
-  "2023-02-12": 120497,
-  "2023-02-13": 120512,
-  "2023-02-14": 120512,
-  "2023-02-15": 120525,
-  "2023-02-16": 120563,
-  "2023-02-17": 120612,
-  "2023-02-18": 120679,
-  "2023-02-19": 120684,
-  "2023-02-20": 120712,
-  "2023-02-21": 120761,
-  "2023-02-22": 120791,
-  "2023-02-23": 120824,
-  "2023-02-24": 120851,
-  "2023-02-25": 120881,
-  "2023-02-26": 120894,
-  "2023-02-27": 120940,
-  "2023-02-28": 120940,
-  "2023-03-01": 120964,
-  "2023-03-02": 120985,
-  "2023-03-03": 120999,
-  "2023-03-04": 121013,
-  "2023-03-05": 121050,
-  "2023-03-06": 121050,
-  "2023-03-07": 121064,
-  "2023-03-08": 121092,
-  "2023-03-09": 121112,
-  "2023-03-10": 121131,
-  "2023-03-11": 121158,
-  "2023-03-12": 121163,
-  "2023-03-13": 121170,
-  "2023-03-14": 121174,
-  "2023-03-15": 121183,
-  "2023-03-16": 121199,
-  "2023-03-17": 121199,
-  "2023-03-18": 121226,
-  "2023-03-19": 121250,
-  "2023-03-20": 121263,
-  "2023-03-21": 121276,
-  "2023-03-22": 121291,
-  "2023-03-23": 121310,
-  "2023-03-24": 121310,
-  "2023-03-25": 121320,
-  "2023-03-26": 121326,
-  "2023-03-27": 121335,
-  "2023-03-28": 121348,
-  "2023-03-29": 121364,
-  "2023-03-30": 121384,
-  "2023-03-31": 121384,
-  "2023-04-01": 121397,
-  "2023-04-02": 121400,
-  "2023-04-03": 121428,
-  "2023-04-04": 121442,
-  "2023-04-05": 121465,
-  "2023-04-06": 121483,
-  "2023-04-07": 121492,
-  "2023-04-09": 121511,
-  "2023-04-10": 121528,
-  "2023-04-11": 121536,
-  "2023-04-12": 121536,
-  "2023-04-13": 121556,
-  "2023-04-14": 121576,
-  "2023-04-15": 121604,
-  "2023-04-16": 121617,
-  "2023-04-17": 121635,
-  "2023-04-18": 121642,
-  "2023-04-19": 121657,
-  "2023-04-20": 121689,
-  "2023-04-21": 121698,
-  "2023-04-22": 121713,
-  "2023-04-23": 121735,
-  "2023-04-24": 121753,
-  "2023-04-25": 121776,
-  "2023-04-26": 121795,
-  "2023-04-27": 121813,
-  "2023-04-28": 121844,
-  "2023-04-29": 121863,
-  "2023-04-30": 121888,
-  "2023-05-01": 121901,
-  "2023-05-02": 121910,
-  "2023-05-03": 121918,
-  "2023-05-04": 121934,
-  "2023-05-05": 121951,
-  "2023-05-06": 121969,
-  "2023-05-07": 121992,
-  "2023-05-08": 122006,
-  "2023-05-09": 122037,
-  "2023-05-10": 122061,
-  "2023-05-11": 122089,
-  "2023-05-12": 122112,
-  "2023-05-13": 122142,
-  "2023-05-14": 122150,
-  "2023-05-15": 122175,
-  "2023-05-16": 122200,
-  "2023-05-17": 122236,
-  "2023-05-18": 122277,
-  "2023-05-19": 122292,
-  "2023-05-20": 122331,
-  "2023-05-21": 122331,
-  "2023-05-22": 122331,
-  "2023-05-23": 122361,
-  "2023-05-24": 122379,
-  "2023-05-25": 122383,
-  "2023-05-26": 122398,
-  "2023-05-27": 122422,
-  "2023-05-28": 122435,
-  "2023-05-29": 122435,
-  "2023-05-30": 122510,
-  "2023-05-31": 122533,
-  "2023-06-01": 122547,
-  "2023-06-02": 122557,
-  "2023-06-03": 122582,
-  "2023-06-04": 122613,
-  "2023-06-05": 122634,
-  "2023-06-06": 122650,
-  "2023-06-07": 122676,
-  "2023-06-08": 122691,
-  "2023-06-09": 122717,
-  "2023-06-10": 122722,
-  "2023-06-11": 122742,
-  "2023-06-12": 122772,
-  "2023-06-13": 122781,
-  "2023-06-14": 122799,
-  "2023-06-15": 122818,
-  "2023-06-16": 122837,
-  "2023-06-17": 122857,
-  "2023-06-18": 122858,
-  "2023-06-19": 122870,
-  "2023-06-20": 122888,
-  "2023-06-21": 122895,
-  "2023-06-22": 122914,
-  "2023-06-23": 122929,
-  "2023-06-24": 122952,
-  "2023-06-25": 122958,
-  "2023-06-26": 122980,
-  "2023-06-27": 122994,
-  "2023-06-28": 123001,
-  "2023-06-29": 123017,
-  "2023-06-30": 123032,
-  "2023-07-01": 123062,
-  "2023-07-02": 123062,
-  "2023-07-03": 123080,
-  "2023-07-04": 123095,
-  "2023-07-05": 123115,
-  "2023-07-06": 123138,
-  "2023-07-07": 123138,
-  "2023-07-08": 123161,
-  "2023-07-09": 123170,
-  "2023-07-10": 123185,
-  "2023-07-11": 123189,
-  "2023-07-12": 123217,
-  "2023-07-13": 123248,
-  "2023-07-14": 123264,
-  "2023-07-15": 123274,
-  "2023-07-16": 123296,
-  "2023-07-17": 123307,
-  "2023-07-18": 123328,
-  "2023-07-19": 123343,
-  "2023-07-20": 123365,
-  "2023-07-21": 123389,
-  "2023-07-22": 123409,
-  "2023-07-23": 123435,
-  "2023-07-24": 123451,
-  "2023-07-25": 123468,
-  "2023-07-26": 123486,
-  "2023-07-27": 123507,
-  "2023-07-28": 123520,
-  "2023-07-29": 123542,
-  "2023-07-30": 123559,
-  "2023-07-31": 123585,
-  "2023-08-01": 123604,
-  "2023-08-02": 123630,
-  "2023-08-03": 123657,
-  "2023-08-04": 123669,
-  "2023-08-05": 123685,
-  "2023-08-06": 123727,
-  "2023-08-07": 123727,
-  "2023-08-08": 123739,
-  "2023-08-09": 123758,
-  "2023-08-10": 123781,
-  "2023-08-11": 123804,
-  "2023-08-12": 123830,
-  "2023-08-13": 123860,
-  "2023-08-14": 123875,
-  "2023-08-15": 123913,
-  "2023-08-16": 123913,
-  "2023-08-17": 123934,
-  "2023-08-18": 123954,
-  "2023-08-19": 123977,
-  "2023-08-20": 124002,
-  "2023-08-21": 124030,
-  "2023-08-22": 124052,
-  "2023-08-23": 124073,
-  "2023-08-24": 124089,
-  "2023-08-25": 124110,
-  "2023-08-26": 124122,
-  "2023-08-27": 124141,
-  "2023-08-28": 124153,
-  "2023-08-29": 124169,
-  "2023-08-30": 124188,
-  "2023-08-31": 124201,
-  "2023-09-01": 124206,
-  "2023-09-02": 124206,
-  "2023-09-03": 124201,
-  "2023-09-04": 124214,
-  "2023-09-05": 124227,
-  "2023-09-06": 124227,
-  "2023-09-07": 124246,
-  "2023-09-08": 124256,
-  "2023-09-09": 124271,
-  "2023-09-10": 124271,
-  "2023-09-11": 124271,
-  "2023-09-12": 124260,
-  "2023-09-13": 124260,
-  "2023-09-14": 124271,
-  "2023-09-15": 124272,
-  "2023-09-16": 124277,
-  "2023-09-17": 124280,
-  "2023-09-18": 124283,
-  "2023-09-19": 124295,
-  "2023-09-20": 124295,
-  "2023-09-21": 124302,
-  "2023-09-22": 124312,
-  "2023-09-23": 124317,
-  "2023-09-24": 124328,
-  "2023-09-25": 124331,
-  "2023-09-26": 124343,
-  "2023-09-27": 124352,
-  "2023-09-28": 124351,
-  "2023-09-29": 124347,
-  "2023-09-30": 124354,
-  "2023-10-01": 124361,
-  "2023-10-02": 124357,
-  "2023-10-03": 124354,
-  "2023-10-04": 124357,
-  "2023-10-05": 124358,
-  "2023-10-06": 124384,
-  "2023-10-07": 124391,
-  "2023-10-08": 124397,
-  "2023-10-09": 124410,
-  "2023-10-10": 124394,
-  "2023-10-11": 124374,
-  "2023-10-12": 124374,
-  "2023-10-13": 124367,
-  "2023-10-14": 124363,
-  "2023-10-15": 124367,
-  "2023-10-16": 124373,
-  "2023-10-17": 124379,
-  "2023-10-18": 124394,
-  "2023-10-19": 124402,
-  "2023-10-20": 124411,
-  "2023-10-21": 124410,
-  "2023-10-22": 124410,
-  "2023-10-23": 124424,
-  "2023-10-24": 124438,
-  "2023-10-25": 124457,
-  "2023-10-26": 124459,
-  "2023-10-27": 124467,
-  "2023-10-28": 124467,
-  "2023-10-29": 124467,
-  "2023-10-30": 124462,
-  "2023-10-31": 124462,
-  "2023-11-01": 124467,
-  "2023-11-02": 124468,
-  "2023-11-03": 124468,
-  "2023-11-04": 124468,
-  "2023-11-05": 124486,
-  "2023-11-06": 124492,
-  "2023-11-07": 124495,
-  "2023-11-08": 124506,
-  "2023-11-09": 124524,
-  "2023-11-10": 124526,
-  "2023-11-11": 124528,
-  "2023-11-12": 124536,
-  "2023-11-13": 124536,
-  "2023-11-14": 124537,
-  "2023-11-15": 124537,
-  "2023-11-16": 124542,
-  "2023-11-17": 124543,
-  "2023-11-18": 124543,
-  "2023-11-19": 124552,
-  "2023-11-20": 124564,
-  "2023-11-21": 124565,
-  "2023-11-22": 124560,
-  "2023-11-23": 124556,
-  "2023-11-24": 124556,
-  "2023-11-25": 124565,
-  "2023-11-26": 124560,
-  "2023-11-27": 124562,
-  "2023-11-28": 124563,
-  "2023-11-29": 124570,
-  "2023-11-30": 124570,
-  "2023-12-01": 124575,
-  "2023-12-02": 124577,
-  "2023-12-03": 124579,
-  "2023-12-04": 124579,
-  "2023-12-05": 124585,
-  "2023-12-06": 124590,
-  "2023-12-07": 124580,
-  "2023-12-08": 124595,
-  "2023-12-09": 124590,
-  "2023-12-10": 124590,
-  "2023-12-11": 124603,
-  "2023-12-12": 124603,
-  "2023-12-13": 124613,
-  "2023-12-14": 124621,
-  "2023-12-15": 124628,
-  "2023-12-16": 124645,
-  "2023-12-17": 124654,
-  "2023-12-18": 124666,
-  "2023-12-19": 124672,
-  "2023-12-20": 124673,
-  "2023-12-21": 124687,
-  "2023-12-22": 124685,
-  "2023-12-23": 124700,
-  "2023-12-24": 124697,
-  "2023-12-25": 124699,
-  "2023-12-26": 124704,
-  "2023-12-27": 124715,
-  "2023-12-30": 124717,
-  "2023-12-31": 124722,
-  "2024-01-01": 124731,
-  "2024-01-02": 124736,
-  "2024-01-03": 124736
+  "2024-01-17": 124669,
+  "date_first_scraped": "2022-06-10",
+  "description": "Music from \"GHOST IN THE SHELL SAC_2045\" and \"ARISE\" series has arrived!/\u300c\u653b\u6bbb\u6a5f\u52d5\u968a\u300d\u30b7\u30ea\u30fc\u30ba\u3092\u5f69\u308b\u97f3\u697d\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\u00a9S,IG/K/2045",
+  "name": "GHOST IN THE SHELL Series -\u653b\u6bbb\u6a5f\u52d5\u968a\u30b7\u30ea\u30fc\u30ba-",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2 - Single",
+        "url": "https://open.spotify.com/album/2ZYDycSlBmyuy5rWYMqQIZ"
+      },
+      "artists": [
+        {
+          "name": "Emi Evans",
+          "url": "https://open.spotify.com/artist/5v4bqljn8SUj45YThdszXS"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 204017,
+      "name": "2+2=n",
+      "url": "https://open.spotify.com/track/1W6bW4ZV8xicPdeQrdQIdP"
+    },
+    {
+      "album": {
+        "name": "GHOST IN THE SHELL: SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L"
+      },
+      "artists": [
+        {
+          "name": "Emi Evans",
+          "url": "https://open.spotify.com/artist/5v4bqljn8SUj45YThdszXS"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "2+2=n",
+      "url": "https://open.spotify.com/track/1y1U1fu1YbSkWOKlIstRcE"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/6grVWZopVKS4GBqROrcL7Q"
+      },
+      "artists": [
+        {
+          "name": "Emi Evans",
+          "url": "https://open.spotify.com/artist/5v4bqljn8SUj45YThdszXS"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206000,
+      "name": "2+2=n",
+      "url": "https://open.spotify.com/track/5oIUCS30IhUCelQkei7sJw"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a \u65b0\u5287\u5834\u7248 O.S.T. by Cornelius",
+        "url": "https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65533,
+      "name": "A Floating Ghost",
+      "url": "https://open.spotify.com/track/6YxbVTZ3d2O5vWYbIdPGuE"
+    },
+    {
+      "album": {
+        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX be Human\u300d",
+        "url": "https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7"
+      },
+      "artists": [
+        {
+          "name": "Scott Matthew",
+          "url": "https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "be human",
+      "url": "https://open.spotify.com/track/1lwtSexMnKboIrzybcBbCJ"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.+",
+        "url": "https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ"
+      },
+      "artists": [
+        {
+          "name": "Scott Matthew",
+          "url": "https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365963,
+      "name": "beauty is within us",
+      "url": "https://open.spotify.com/track/20G3Nje2MGXnSPt0J6kHW0"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.3",
+        "url": "https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI"
+      },
+      "artists": [
+        {
+          "name": "Ilaria Graziano",
+          "url": "https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413715,
+      "name": "Christmas in the Silent Forest",
+      "url": "https://open.spotify.com/track/478Axf2lmFeyjw3ciJRbaE"
+    },
+    {
+      "album": {
+        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX be Human\u300d",
+        "url": "https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7"
+      },
+      "artists": [
+        {
+          "name": "hide",
+          "url": "https://open.spotify.com/artist/0FN9uqveLW33mz8hlDLiFU"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232902,
+      "name": "cream",
+      "url": "https://open.spotify.com/track/5pYLwimdCjpr1z4eQWdyo0"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a S.A.C. Solid State Society O.S.T.",
+        "url": "https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH"
+      },
+      "artists": [
+        {
+          "name": "Origa",
+          "url": "https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277881,
+      "name": "date of rebirth",
+      "url": "https://open.spotify.com/track/4LBKlv464rlTBikNZyAaa3"
+    },
+    {
+      "album": {
+        "name": "GHOST IN THE SHELL: SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L"
+      },
+      "artists": [
+        {
+          "name": "Scott Matthew",
+          "url": "https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472000,
+      "name": "Don't Break Me Down",
+      "url": "https://open.spotify.com/track/0rsT81N3o5yh7S6dOE9X7V"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/6grVWZopVKS4GBqROrcL7Q"
+      },
+      "artists": [
+        {
+          "name": "Scott Matthew",
+          "url": "https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 472000,
+      "name": "Don't Break Me Down",
+      "url": "https://open.spotify.com/track/2wZu2bHadNBDrYiaPyqb3V"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2 - Single",
+        "url": "https://open.spotify.com/album/2ZYDycSlBmyuy5rWYMqQIZ"
+      },
+      "artists": [
+        {
+          "name": "Scott Matthew",
+          "url": "https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 472999,
+      "name": "Don't Break Me Down",
+      "url": "https://open.spotify.com/track/2ZpGiCqFcoBLYtgB35CcMv"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/6grVWZopVKS4GBqROrcL7Q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Lufkin",
+          "url": "https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280000,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/4cwx8YaroNmMoKnkVGjgnj"
+    },
+    {
+      "album": {
+        "name": "GHOST IN THE SHELL: SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L"
+      },
+      "artists": [
+        {
+          "name": "Caroline Lufkin",
+          "url": "https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/6ep9mBzPx0M61vGIWP3itb"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2 - Single",
+        "url": "https://open.spotify.com/album/2ZYDycSlBmyuy5rWYMqQIZ"
+      },
+      "artists": [
+        {
+          "name": "Caroline Lufkin",
+          "url": "https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 280017,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/07Gs13j6kLpHa8kp9rgfat"
+    },
+    {
+      "album": {
+        "name": "GHOST IN THE SHELL: SAC_2045 ORIGINAL SOUNDTRACK 2 - Single",
+        "url": "https://open.spotify.com/album/3jy5MUf8SJ5mFdYv2eLrVy"
+      },
+      "artists": [
+        {
+          "name": "Caroline Lufkin",
+          "url": "https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 280017,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/6X2wqgEAmbsVmvV1bCdyF5"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.3",
+        "url": "https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI"
+      },
+      "artists": [
+        {
+          "name": "Origa",
+          "url": "https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL"
+        },
+        {
+          "name": "benedict Delmaestro",
+          "url": "https://open.spotify.com/artist/5wLsCJYZy1re3sai21VJZj"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66802,
+      "name": "flashback memory plug",
+      "url": "https://open.spotify.com/track/7qgQ7mACjleBHbsPchKBcU"
+    },
+    {
+      "album": {
+        "name": "Fly with me",
+        "url": "https://open.spotify.com/album/1i00ESFv1vED85s1GtgQjS"
+      },
+      "artists": [
+        {
+          "name": "millennium parade \u00d7 ghost in the shell: SAC_2045",
+          "url": "https://open.spotify.com/artist/4TrqOjik4odYGs0pJpZwVw"
+        },
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277466,
+      "name": "Fly with me",
+      "url": "https://open.spotify.com/track/71vmt0KizGHsixCbMpHlhV"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a S.A.C. Solid State Society O.S.T.",
+        "url": "https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH"
+      },
+      "artists": [
+        {
+          "name": "Ilaria Graziano",
+          "url": "https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391578,
+      "name": "from the roof top~somewhere in the silence[sniper's theme]",
+      "url": "https://open.spotify.com/track/6kdRP3yx2g2CHNcpepXm2U"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
+      },
+      "artists": [
+        {
+          "name": "jillmax",
+          "url": "https://open.spotify.com/artist/60Cwd8tKAvVRd0pExXagM8"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282205,
+      "name": "GET9",
+      "url": "https://open.spotify.com/track/0om5LgpI1i4MRDPxp3lXuR"
+    },
+    {
+      "album": {
+        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968aARISE\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/4vjBmHL0f9a3H8Ul1JXDyy"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268321,
+      "name": "GHOST IN THE SHELL ARISE",
+      "url": "https://open.spotify.com/track/1TXrT9o6pg0Ha4JnNv0H3S"
+    },
+    {
+      "album": {
+        "name": "GHOST IN THE SHELL superb music",
+        "url": "https://open.spotify.com/album/1DD7cFjLHkudPNu9WrNeI6"
+      },
+      "artists": [
+        {
+          "name": "Sean Ono Lennon",
+          "url": "https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m"
+        },
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "Heart Grenade",
+      "url": "https://open.spotify.com/track/5t8qtGmBWdDncSTjJ7KQ4a"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a \u65b0\u5287\u5834\u7248 O.S.T. by Cornelius",
+        "url": "https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30e7\u30fc\u30f3 \u30ec\u30ce\u30f3",
+          "url": "https://open.spotify.com/artist/4vzKz1kmuKq2jn3R1Slzk0"
+        },
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237053,
+      "name": "Heart Grenade",
+      "url": "https://open.spotify.com/track/16cC44dr7s8uU6ID8X0XlD"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
+      },
+      "artists": [
+        {
+          "name": "Ilaria Graziano",
+          "url": "https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272233,
+      "name": "i can't be cool",
+      "url": "https://open.spotify.com/track/2QRUUAXtA7fVvC2ZBaGt15"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
+      },
+      "artists": [
+        {
+          "name": "Ilaria Graziano",
+          "url": "https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289366,
+      "name": "i do",
+      "url": "https://open.spotify.com/track/0a1lNJpEUI3bOTI5VEdgaP"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.+",
+        "url": "https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ"
+      },
+      "artists": [
+        {
+          "name": "Origa",
+          "url": "https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293619,
+      "name": "inner universe",
+      "url": "https://open.spotify.com/track/0UuMRmKDZSuSlUbTg5F3MG"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.+",
+        "url": "https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ"
+      },
+      "artists": [
+        {
+          "name": "Scott Matthew",
+          "url": "https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202505,
+      "name": "lithium flower",
+      "url": "https://open.spotify.com/track/6IouGBVgNIsrRko3llWdZ8"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
+      },
+      "artists": [
+        {
+          "name": "Steve Conte",
+          "url": "https://open.spotify.com/artist/5Uxss6P1MI2lX9vHvK76zK"
+        },
+        {
+          "name": "Shanti Snyder",
+          "url": "https://open.spotify.com/artist/5D2CrBzmGv6eQnUcVLdNav"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384466,
+      "name": "living inside the shell",
+      "url": "https://open.spotify.com/track/4ha5wTSaszwXq4xRmXcGIC"
+    },
+    {
+      "album": {
+        "name": "No Time to Cast Anchor",
+        "url": "https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192713,
+      "name": "No Time to Cast Anchor",
+      "url": "https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a S.A.C. Solid State Society O.S.T.",
+        "url": "https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH"
+      },
+      "artists": [
+        {
+          "name": "Origa",
+          "url": "https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL"
+        },
+        {
+          "name": "Heartsdales",
+          "url": "https://open.spotify.com/artist/6GM1DqK9x30pjn3tPAZpgT"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342917,
+      "name": "player",
+      "url": "https://open.spotify.com/track/6V7zJOoCyx2LUECNqYFrhQ"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a S.A.C. Solid State Society O.S.T.",
+        "url": "https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH"
+      },
+      "artists": [
+        {
+          "name": "Ilaria Graziano",
+          "url": "https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323192,
+      "name": "replica",
+      "url": "https://open.spotify.com/track/0TrRIlfaTzdsgG90fSsTzr"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
+      },
+      "artists": [
+        {
+          "name": "Origa",
+          "url": "https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328161,
+      "name": "rise",
+      "url": "https://open.spotify.com/track/2Uyz4r0IwXlZIVbkTEASPk"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.+",
+        "url": "https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ"
+      },
+      "artists": [
+        {
+          "name": "HIDE",
+          "url": "https://open.spotify.com/artist/3GnkZiREUfWIDjN9wSYMJg"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272265,
+      "name": "run rabbit junk",
+      "url": "https://open.spotify.com/track/4H7FikhoNx5bmlWstG1mgi"
+    },
+    {
+      "album": {
+        "name": "GHOST IN THE SHELL: SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L"
+      },
+      "artists": [
+        {
+          "name": "Nobuko Toda x Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/58FzqkqyYjY7oVzKR0kaLq"
+        },
+        {
+          "name": "Nobuko Toda",
+          "url": "https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "SAC_2045",
+      "url": "https://open.spotify.com/track/0OwHegqHWFvGvdsBeODJHH"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2 - Single",
+        "url": "https://open.spotify.com/album/2ZYDycSlBmyuy5rWYMqQIZ"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50\u00d7\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/4760RLuTxI29623sQovQyl"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 133999,
+      "name": "SAC_2045",
+      "url": "https://open.spotify.com/track/3XYbwvKYLfkFF8k8D14K6d"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/6grVWZopVKS4GBqROrcL7Q"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50\u00d7\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/4760RLuTxI29623sQovQyl"
+        },
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50",
+          "url": "https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d"
+        },
+        {
+          "name": "\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/5LnJiGWNnbWuFV46ItlLDs"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133000,
+      "name": "SAC_2045",
+      "url": "https://open.spotify.com/track/4V1EswwC6Sf14IGnNMWIMC"
+    },
+    {
+      "album": {
+        "name": "Secret Ceremony",
+        "url": "https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220001,
+      "name": "Secret Ceremony",
+      "url": "https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.+",
+        "url": "https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Robin",
+          "url": "https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "some other time",
+      "url": "https://open.spotify.com/track/3FZYb9q5GGPqSALuMO6inz"
+    },
+    {
+      "album": {
+        "name": "GHOST IN THE SHELL superb music",
+        "url": "https://open.spotify.com/album/1DD7cFjLHkudPNu9WrNeI6"
+      },
+      "artists": [
+        {
+          "name": "Yukihiro Takahashi",
+          "url": "https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5"
+        },
+        {
+          "name": "METAFIVE",
+          "url": "https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273973,
+      "name": "Split Spirit",
+      "url": "https://open.spotify.com/track/4wGmPFSTlTnoo33WQ7hIQz"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a \u65b0\u5287\u5834\u7248 O.S.T. by Cornelius",
+        "url": "https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri"
+      },
+      "artists": [
+        {
+          "name": "Yukihiro Takahashi",
+          "url": "https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5"
+        },
+        {
+          "name": "METAFIVE",
+          "url": "https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273973,
+      "name": "Split Spirit",
+      "url": "https://open.spotify.com/track/5PUlGKqXTUYN20CrUbf9HB"
+    },
+    {
+      "album": {
+        "name": "Intrauterine Education",
+        "url": "https://open.spotify.com/album/0RMVVFxZimOMAJi4Pveb0z"
+      },
+      "artists": [
+        {
+          "name": "Mili",
+          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361000,
+      "name": "sustain++;",
+      "url": "https://open.spotify.com/track/1QcKCeK0oOXwSknnlC1W3p"
+    },
+    {
+      "album": {
+        "name": "GHOST IN THE SHELL: SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L"
+      },
+      "artists": [
+        {
+          "name": "Nobuko Toda x Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/58FzqkqyYjY7oVzKR0kaLq"
+        },
+        {
+          "name": "Nobuko Toda",
+          "url": "https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454000,
+      "name": "Sustainable War",
+      "url": "https://open.spotify.com/track/3qMmuxDbg8ZwSsqveBzhOi"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 ORIGINAL SOUNDTRACK 2",
+        "url": "https://open.spotify.com/album/6grVWZopVKS4GBqROrcL7Q"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50\u00d7\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/4760RLuTxI29623sQovQyl"
+        },
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50",
+          "url": "https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d"
+        },
+        {
+          "name": "\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/5LnJiGWNnbWuFV46ItlLDs"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 454000,
+      "name": "Sustainable War",
+      "url": "https://open.spotify.com/track/7s9HAJ0GKrOaEf363cz0rK"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a S.A.C. Solid State Society O.S.T.",
+        "url": "https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Robin",
+          "url": "https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304056,
+      "name": "take a little hand",
+      "url": "https://open.spotify.com/track/5v5UbZlR652Gz0NUpNulKs"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ZHTUlPwmJvDHUJVbQnJik"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50\u00d7\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/4760RLuTxI29623sQovQyl"
+        },
+        {
+          "name": "\u6238\u7530\u4fe1\u5b50",
+          "url": "https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d"
+        },
+        {
+          "name": "\u9663\u5185\u4e00\u771f",
+          "url": "https://open.spotify.com/artist/5LnJiGWNnbWuFV46ItlLDs"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Team Ghost",
+      "url": "https://open.spotify.com/track/3jEfG9rAWGTnNDAJvDgij4"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.3",
+        "url": "https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI"
+      },
+      "artists": [
+        {
+          "name": "Scott Matthew",
+          "url": "https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139262,
+      "name": "the end of all you'll know",
+      "url": "https://open.spotify.com/track/6C0wK49dMqpULLzUq5iSyq"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.+",
+        "url": "https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ"
+      },
+      "artists": [
+        {
+          "name": "Ilaria Graziano",
+          "url": "https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305300,
+      "name": "velveteen",
+      "url": "https://open.spotify.com/track/52NZdPZT9BdFA8SNjhzXCh"
+    },
+    {
+      "album": {
+        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX be Human\u300d",
+        "url": "https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7"
+      },
+      "artists": [
+        {
+          "name": "Sunny",
+          "url": "https://open.spotify.com/artist/5t6BdVyILRkDCf14E6Ob1p"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62239,
+      "name": "what can I say?",
+      "url": "https://open.spotify.com/track/1lSQwM1nA9Z7hWPIxN9bLt"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
+      },
+      "artists": [
+        {
+          "name": "emily curtis",
+          "url": "https://open.spotify.com/artist/7sQOG6I2Zu6fE1srDLzswo"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194882,
+      "name": "what's it for",
+      "url": "https://open.spotify.com/track/0VUAzLbZ5v3bQYIidNJMln"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.+",
+        "url": "https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ"
+      },
+      "artists": [
+        {
+          "name": "Ilaria Graziano",
+          "url": "https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283162,
+      "name": "where does this ocean go?",
+      "url": "https://open.spotify.com/track/3AR2uAZBIxBz7w17EypDMt"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a S.A.C. Solid State Society O.S.T.",
+        "url": "https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH"
+      },
+      "artists": [
+        {
+          "name": "Yoko Kanno",
+          "url": "https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243336,
+      "name": "zero signal",
+      "url": "https://open.spotify.com/track/5r7jS4T6UbitrifSWJMzZf"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a \u65b0\u5287\u5834\u7248 O.S.T. by Cornelius",
+        "url": "https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        },
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234333,
+      "name": "\u3042\u306a\u305f\u3092\u4fdd\u3064\u3082\u306e",
+      "url": "https://open.spotify.com/track/1ku4OwT8uNeCrizLFcfOEC"
+    },
+    {
+      "album": {
+        "name": "25\u5468\u5e74\u8a18\u5ff5\u30a2\u30eb\u30cf\u3099\u30e0 \u30b7\u30f3\u30af\u3099\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3+ \u30a2\u30c1\u30b3\u30c1",
+        "url": "https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        },
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "\u3042\u306a\u305f\u3092\u4fdd\u3064\u3082\u306e",
+      "url": "https://open.spotify.com/track/4lG7PjB4Hpkil5G1xmO1yZ"
+    },
+    {
+      "album": {
+        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968aARISE\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/4vjBmHL0f9a3H8Ul1JXDyy"
+      },
+      "artists": [
+        {
+          "name": "salyu \u00d7 salyu",
+          "url": "https://open.spotify.com/artist/7qjRQYGU3ZBY585cKyrzOB"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261405,
+      "name": "\u3058\u3076\u3093\u304c\u3044\u306a\u3044",
+      "url": "https://open.spotify.com/track/2201ZcRvxZVt4cddbqXjK8"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
+      },
+      "artists": [
+        {
+          "name": "Scott Matthew",
+          "url": "https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285909,
+      "name": "\u30b5\u30a4\u30b1\u30c7\u30ea\u30c3\u30af\u30bd\u30a6\u30eb",
+      "url": "https://open.spotify.com/track/5MJI5xIPYut0jXVeqjxA5W"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
+        "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Robin",
+          "url": "https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358825,
+      "name": "\u30b5\u30a4\u30d0\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/582gpRUX6LEVXbuCdgIDaq"
+    },
+    {
+      "album": {
+        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX be Human\u300d",
+        "url": "https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7"
+      },
+      "artists": [
+        {
+          "name": "Yoko Kanno",
+          "url": "https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112645,
+      "name": "\u30bf\u30c1\u30b3\u30de\u306e\u5bb6\u51fa",
+      "url": "https://open.spotify.com/track/2XHI7ujRV3pMoF1NpzHRIe"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.3",
+        "url": "https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Robin",
+          "url": "https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368708,
+      "name": "\u30c8\u30eb\u30ad\u30a2",
+      "url": "https://open.spotify.com/track/498qK0pKI5Q148HyV8bqli"
+    },
+    {
+      "album": {
+        "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.+",
+        "url": "https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ"
+      },
+      "artists": [
+        {
+          "name": "Ilaria Graziano",
+          "url": "https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305604,
+      "name": "\u30e2\u30ce\u30af\u30ed\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/3ZMCZJRsyJDOSR0zS7AWpO"
+    },
+    {
+      "album": {
+        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968aARISE\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/4vjBmHL0f9a3H8Ul1JXDyy"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        },
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233386,
+      "name": "\u5916\u306f\u6226\u5834\u3060\u3088",
+      "url": "https://open.spotify.com/track/2LlfDEOQfBVcIP4id5Wmvl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9v9O7wB8rQi"
 }

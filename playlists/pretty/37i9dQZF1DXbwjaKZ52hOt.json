@@ -1,12 +1,12 @@
 {
   "description": "The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.",
-  "num_followers": 38717,
+  "num_followers": 39073,
   "original_name": "Nursery Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDQwNWI4Zjc1ZDEyNGE1MWY5ZDg1ZWRiZmVjNjZjMjIxZjVlN2Uy",
+  "snapshot_id": "MCxhOWFhODA0ZTAwZjNlMjJkOTA1OWQ3YjZkOTk0NjAzMjBkNDgzZDcw",
   "tracks": [
     {
       "added_at": "2023-04-26 14:21:34",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/7toZuecF36JJeBq1faE2Xt"
     },
     {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Two Little Dickie Birds",
+        "url": "https://open.spotify.com/album/3nxg3mjeRgc0z4REBIlW7q"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes ABC",
+          "url": "https://open.spotify.com/artist/26UV9EKIInWeV0jJysGZum"
+        }
+      ],
+      "duration_ms": 119368,
+      "name": "Two Little Dickie Birds",
+      "url": "https://open.spotify.com/track/4sbOrMNiUOYLE3uzaCP1lJ"
+    },
+    {
       "added_at": "2023-04-26 14:21:34",
       "album": {
         "name": "Pinkfong Best Kids Songs",
@@ -119,22 +135,6 @@
       "duration_ms": 64545,
       "name": "I'm a Little Teapot",
       "url": "https://open.spotify.com/track/2khycHO9eUab1YJbWgKCro"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 24266,
-      "name": "Little Miss Muffet",
-      "url": "https://open.spotify.com/track/2BFh2VwXaZRbrHrYSUQIJ5"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
+        "name": "It's Time for Bed",
+        "url": "https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 136411,
+      "name": "Skidamarink",
+      "url": "https://open.spotify.com/track/5GjXNfKlNfOgacGtTUMXKe"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
         "name": "Rub a Dub Dub",
         "url": "https://open.spotify.com/album/21brb9CFkwxfCvNzRJnyGS"
       },
@@ -299,38 +315,6 @@
       "duration_ms": 91000,
       "name": "Open Shut Them",
       "url": "https://open.spotify.com/track/0GkggUIRAzhAvvtcoma2Af"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "It's Time for Bed",
-        "url": "https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "duration_ms": 136411,
-      "name": "Skidamarink",
-      "url": "https://open.spotify.com/track/5GjXNfKlNfOgacGtTUMXKe"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 7",
-        "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Ring Around the Rosy",
-      "url": "https://open.spotify.com/track/3hN8QrmVJwzhCvKs3lRxYH"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -383,22 +367,6 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 14506,
-      "name": "Hey, Diddle Diddle",
-      "url": "https://open.spotify.com/track/1sSMv5XabOSte6jQF2wos5"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
         "name": "Blippi's Nursery Rhymes",
         "url": "https://open.spotify.com/album/0VubFA5No9gVylojbWtyw9"
       },
@@ -415,8 +383,8 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "CoComelon Kids Hits, Vol. 9",
-        "url": "https://open.spotify.com/album/2bXL5CY5fwKMbLlInFfXS5"
+        "name": "CoComelon Kids Hits, Vol. 7",
+        "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
       },
       "artists": [
         {
@@ -424,25 +392,9 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 140414,
-      "name": "Daisy Bell (Bicycle Built for Two)",
-      "url": "https://open.spotify.com/track/0MMwvews31GnUzRiGPxnS7"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 1 - Fun Songs for Learning with LittleBabyBum",
-        "url": "https://open.spotify.com/album/7bMlpiAYdqbN5mj12iXsbD"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 72295,
-      "name": "Farmer in the Dell",
-      "url": "https://open.spotify.com/track/7yaOGB25vsRLOHgee2G2hv"
+      "duration_ms": 128000,
+      "name": "Ring Around the Rosy",
+      "url": "https://open.spotify.com/track/3hN8QrmVJwzhCvKs3lRxYH"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -463,34 +415,18 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "CoComelon Kids Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 1 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/7bMlpiAYdqbN5mj12iXsbD"
       },
       "artists": [
         {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
         }
       ],
-      "duration_ms": 149983,
-      "name": "Looby Loo",
-      "url": "https://open.spotify.com/track/2aqZSUnGtSrtXjZVnAcrSH"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Old Mother Hubbard",
-        "url": "https://open.spotify.com/album/6HVxY20OsCsBi0PaO4OSUU"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 58333,
-      "name": "Old Mother Hubbard",
-      "url": "https://open.spotify.com/track/6sw0hG0OBQ4yuQopvu8Y3G"
+      "duration_ms": 72295,
+      "name": "Farmer in the Dell",
+      "url": "https://open.spotify.com/track/7yaOGB25vsRLOHgee2G2hv"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -507,6 +443,38 @@
       "duration_ms": 70013,
       "name": "Polly Put the Kettle On",
       "url": "https://open.spotify.com/track/3ab9mdk8fOzjCU0054dghC"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 9",
+        "url": "https://open.spotify.com/album/2bXL5CY5fwKMbLlInFfXS5"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 140414,
+      "name": "Daisy Bell (Bicycle Built for Two)",
+      "url": "https://open.spotify.com/track/0MMwvews31GnUzRiGPxnS7"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Old Mother Hubbard",
+        "url": "https://open.spotify.com/album/6HVxY20OsCsBi0PaO4OSUU"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 58333,
+      "name": "Old Mother Hubbard",
+      "url": "https://open.spotify.com/track/6sw0hG0OBQ4yuQopvu8Y3G"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -543,22 +511,6 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 95840,
-      "name": "Do Your Ears Hang Low?",
-      "url": "https://open.spotify.com/track/6UUDDgqe56i3t3bywxUfwT"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
         "name": "Happy, Happy, Happy!",
         "url": "https://open.spotify.com/album/1OB7Vix9Iv9RwB25cHbXTE"
       },
@@ -571,6 +523,22 @@
       "duration_ms": 104663,
       "name": "The More We Get Together",
       "url": "https://open.spotify.com/track/0AVLdFhZInmvfFt4ilSY91"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 149983,
+      "name": "Looby Loo",
+      "url": "https://open.spotify.com/track/2aqZSUnGtSrtXjZVnAcrSH"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -591,18 +559,34 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
       },
       "artists": [
         {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
         }
       ],
-      "duration_ms": 53493,
-      "name": "Mulberry Bush",
-      "url": "https://open.spotify.com/track/0Osu1KG7BWIL1FJPs0XRCK"
+      "duration_ms": 95840,
+      "name": "Do Your Ears Hang Low?",
+      "url": "https://open.spotify.com/track/6UUDDgqe56i3t3bywxUfwT"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Nursery Rhymes",
+        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "duration_ms": 135322,
+      "name": "Rain, Rain Go Away",
+      "url": "https://open.spotify.com/track/2TjBSzU6Z9Hm0dmDf64RpF"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Nursery Rhymes",
-        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
       },
       "artists": [
         {
-          "name": "Bounce Patrol",
-          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
         }
       ],
-      "duration_ms": 135322,
-      "name": "Rain, Rain Go Away",
-      "url": "https://open.spotify.com/track/2TjBSzU6Z9Hm0dmDf64RpF"
+      "duration_ms": 53493,
+      "name": "Mulberry Bush",
+      "url": "https://open.spotify.com/track/0Osu1KG7BWIL1FJPs0XRCK"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -671,22 +655,6 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 3: Rockin' with Robby",
-        "url": "https://open.spotify.com/album/3YF2ZHfHQIyvMc8eEJ6jBH"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 97483,
-      "name": "Where Is Thumbkin?",
-      "url": "https://open.spotify.com/track/0aW9vnLHiq8UPa6kug942C"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
         "name": "The Wiggles Nursery Rhymes 2",
         "url": "https://open.spotify.com/album/2FIwVCDk0WSJhf7gHJhFv4"
       },
@@ -703,34 +671,18 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 3: Rockin' with Robby",
+        "url": "https://open.spotify.com/album/3YF2ZHfHQIyvMc8eEJ6jBH"
       },
       "artists": [
         {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
         }
       ],
-      "duration_ms": 76960,
-      "name": "John Jacob Jingleheimer Schmidt",
-      "url": "https://open.spotify.com/track/0fwtBKg98AemijgyaN3xgI"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Toybox",
-        "url": "https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk"
-      },
-      "artists": [
-        {
-          "name": "The Rainbow Collections",
-          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
-        }
-      ],
-      "duration_ms": 132893,
-      "name": "Ring a Ring A Roses",
-      "url": "https://open.spotify.com/track/13OVhfsEwEWZNE9pm5OhiN"
+      "duration_ms": 97483,
+      "name": "Where Is Thumbkin?",
+      "url": "https://open.spotify.com/track/0aW9vnLHiq8UPa6kug942C"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -751,34 +703,18 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Fun with Family and Friends",
-        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+        "name": "11 Nursery Rhymes and Songs",
+        "url": "https://open.spotify.com/album/7w3Zc13sMNpB8LNEv8Km39"
       },
       "artists": [
         {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Home on the Range - (Sing Along)",
-      "url": "https://open.spotify.com/track/75FVOS7yQ1jx0Pp208pVtp"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Nursery Rhymes by CoComelon Vol.2",
-        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 92008,
-      "name": "Alice the Camel",
-      "url": "https://open.spotify.com/track/5T3lK7MInJBhzfxbP8ut4W"
+      "duration_ms": 55280,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/1dbPzJFqmq7YtimuTsHm1s"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -799,34 +735,18 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Nursery Rhymes & Children's Songs, Vol. 12 (Sing & Learn with LittleBabyBum)",
-        "url": "https://open.spotify.com/album/2LL6QY7F4jskUzDcc4rmo9"
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
       },
       "artists": [
         {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 104111,
-      "name": "Peter Piper",
-      "url": "https://open.spotify.com/track/0HVwfRUrlbcJkBYaPYH9RC"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "11 Nursery Rhymes and Songs",
-        "url": "https://open.spotify.com/album/7w3Zc13sMNpB8LNEv8Km39"
-      },
-      "artists": [
-        {
-          "name": "Nursery Rhymes 123",
-          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
-        }
-      ],
-      "duration_ms": 55280,
-      "name": "Humpty Dumpty",
-      "url": "https://open.spotify.com/track/1dbPzJFqmq7YtimuTsHm1s"
+      "duration_ms": 92008,
+      "name": "Alice the Camel",
+      "url": "https://open.spotify.com/track/5T3lK7MInJBhzfxbP8ut4W"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -847,6 +767,22 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
+        "name": "Nursery Rhymes & Children's Songs, Vol. 12 (Sing & Learn with LittleBabyBum)",
+        "url": "https://open.spotify.com/album/2LL6QY7F4jskUzDcc4rmo9"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 104111,
+      "name": "Peter Piper",
+      "url": "https://open.spotify.com/track/0HVwfRUrlbcJkBYaPYH9RC"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
         "name": "The Wiggles Nursery Rhymes 2",
         "url": "https://open.spotify.com/album/2FIwVCDk0WSJhf7gHJhFv4"
       },
@@ -863,40 +799,24 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Traditional Nursery Rhymes for Kids",
-        "url": "https://open.spotify.com/album/5GN2C91tNyIMWdEXu5GIhQ"
+        "name": "Down by the Bay",
+        "url": "https://open.spotify.com/album/5OWKpeUVv6izggBfXk92MC"
       },
       "artists": [
         {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
         }
       ],
-      "duration_ms": 67579,
-      "name": "Michael Finnegan",
-      "url": "https://open.spotify.com/track/28e9dYvsc9RHhXxNMiQiYa"
+      "duration_ms": 116905,
+      "name": "Down by the Bay",
+      "url": "https://open.spotify.com/track/6P8SJgXmEMqGb1uFq3Lx93"
     },
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Top 50 Nursery Rhymes Playlist",
-        "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 110773,
-      "name": "Roll Over (Ten In A Bed)",
-      "url": "https://open.spotify.com/track/3F89U2iiyhIV4Y8HPTv6Cp"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
       },
       "artists": [
         {
@@ -904,25 +824,9 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 136002,
-      "name": "Finger Family",
-      "url": "https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Animal Friends",
-        "url": "https://open.spotify.com/album/3ruWCcleKVyiRNZTP4NE95"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 165624,
-      "name": "Little Bunny Foo Foo",
-      "url": "https://open.spotify.com/track/4oFujsAkA3KV1d87EkPMck"
+      "duration_ms": 176000,
+      "name": "Home on the Range - (Sing Along)",
+      "url": "https://open.spotify.com/track/75FVOS7yQ1jx0Pp208pVtp"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -943,8 +847,72 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Down by the Bay",
-        "url": "https://open.spotify.com/album/5OWKpeUVv6izggBfXk92MC"
+        "name": "Traditional Nursery Rhymes for Kids",
+        "url": "https://open.spotify.com/album/5GN2C91tNyIMWdEXu5GIhQ"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 67579,
+      "name": "Michael Finnegan",
+      "url": "https://open.spotify.com/track/28e9dYvsc9RHhXxNMiQiYa"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 136002,
+      "name": "Finger Family",
+      "url": "https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Top 50 Nursery Rhymes Playlist",
+        "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 110773,
+      "name": "Roll Over (Ten In A Bed)",
+      "url": "https://open.spotify.com/track/3F89U2iiyhIV4Y8HPTv6Cp"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Animal Friends",
+        "url": "https://open.spotify.com/album/3ruWCcleKVyiRNZTP4NE95"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 165624,
+      "name": "Little Bunny Foo Foo",
+      "url": "https://open.spotify.com/track/4oFujsAkA3KV1d87EkPMck"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Blippi's Nursery Rhymes",
+        "url": "https://open.spotify.com/album/0VubFA5No9gVylojbWtyw9"
       },
       "artists": [
         {
@@ -952,9 +920,9 @@
           "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
         }
       ],
-      "duration_ms": 116905,
-      "name": "Down by the Bay",
-      "url": "https://open.spotify.com/track/6P8SJgXmEMqGb1uFq3Lx93"
+      "duration_ms": 154418,
+      "name": "Skip To My Lou",
+      "url": "https://open.spotify.com/track/05xUTBo0HN1HEq8Y3DBPih"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -991,6 +959,58 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
+        "name": "Songs for Children, Vol. 1",
+        "url": "https://open.spotify.com/album/6kldUnHir7KwlEZbnoS3tj"
+      },
+      "artists": [
+        {
+          "name": "Music House for Children",
+          "url": "https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR"
+        },
+        {
+          "name": "Emma Hutchinson",
+          "url": "https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya"
+        }
+      ],
+      "duration_ms": 61500,
+      "name": "The Bear Went over the Mountain",
+      "url": "https://open.spotify.com/track/0EN7UscZeRbMniUJncB3Ys"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Scrambled Eggs For All",
+        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "duration_ms": 187894,
+      "name": "Miss Muffet",
+      "url": "https://open.spotify.com/track/1cOCwJS3D30eOXBtd2Tt8X"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum",
+        "url": "https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 72631,
+      "name": "Row Row Row Your Boat",
+      "url": "https://open.spotify.com/track/0zkyKpG5ZaKUfxD8mJVUot"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
         "name": "Fun with Family and Friends",
         "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
       },
@@ -1023,38 +1043,6 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum",
-        "url": "https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 72631,
-      "name": "Row Row Row Your Boat",
-      "url": "https://open.spotify.com/track/0zkyKpG5ZaKUfxD8mJVUot"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Top 50 Nursery Rhymes Playlist",
-        "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 95771,
-      "name": "The More We Get Together",
-      "url": "https://open.spotify.com/track/1rm119CQsq9Rwve29NCrJB"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
         "name": "Nursery Rhymes & Children's Songs, Vol. 15 (Sing & Learn with LittleBabyBum)",
         "url": "https://open.spotify.com/album/0E2rvJamSYembnyuuduOLc"
       },
@@ -1067,22 +1055,6 @@
       "duration_ms": 69565,
       "name": "See Saw Margery Daw",
       "url": "https://open.spotify.com/track/5tUvxPayqR94RrYVl4wHRY"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Blippi's Nursery Rhymes",
-        "url": "https://open.spotify.com/album/0VubFA5No9gVylojbWtyw9"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        }
-      ],
-      "duration_ms": 154418,
-      "name": "Skip To My Lou",
-      "url": "https://open.spotify.com/track/05xUTBo0HN1HEq8Y3DBPih"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -1103,58 +1075,6 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Songs for Children, Vol. 1",
-        "url": "https://open.spotify.com/album/6kldUnHir7KwlEZbnoS3tj"
-      },
-      "artists": [
-        {
-          "name": "Music House for Children",
-          "url": "https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR"
-        },
-        {
-          "name": "Emma Hutchinson",
-          "url": "https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya"
-        }
-      ],
-      "duration_ms": 61500,
-      "name": "The Bear Went over the Mountain",
-      "url": "https://open.spotify.com/track/0EN7UscZeRbMniUJncB3Ys"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 37360,
-      "name": "This Little Piggy",
-      "url": "https://open.spotify.com/track/4I8OaIHetNmvWmcvaKPAsS"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Scrambled Eggs For All",
-        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
-      },
-      "artists": [
-        {
-          "name": "Pancake Manor",
-          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
-        }
-      ],
-      "duration_ms": 187894,
-      "name": "Miss Muffet",
-      "url": "https://open.spotify.com/track/1cOCwJS3D30eOXBtd2Tt8X"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
         "name": "Nursery Rhymes & Children's Songs, Vol. 1 (Sing & Learn with LittleBabyBum)",
         "url": "https://open.spotify.com/album/2LnrNenDciPezv2wXIKiZx"
       },
@@ -1167,22 +1087,6 @@
       "duration_ms": 86842,
       "name": "Jack and Jill",
       "url": "https://open.spotify.com/track/1ItOBdf2Bz9dW2zp8ChRvh"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Pinkfong Best Kids Songs",
-        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 61484,
-      "name": "Teddy Bear",
-      "url": "https://open.spotify.com/track/1ywNV7GoOLPbfsnOzuH8qU"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -1203,98 +1107,18 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
+        "name": "Pinkfong Best Kids Songs",
+        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
       },
       "artists": [
         {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
         }
       ],
-      "duration_ms": 45506,
-      "name": "Peter, Peter, Pumpkin Eater",
-      "url": "https://open.spotify.com/track/6CsWiIaapJlCiHgULVDwZ0"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "The Wiggles Nursery Rhymes",
-        "url": "https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6"
-      },
-      "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        }
-      ],
-      "duration_ms": 77855,
-      "name": "I'm a Little Teapot",
-      "url": "https://open.spotify.com/track/1t6Gro7Tzeja1SBEiqmH2Q"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 1 - Fun Songs for Learning with LittleBabyBum",
-        "url": "https://open.spotify.com/album/7bMlpiAYdqbN5mj12iXsbD"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 143877,
-      "name": "3 Blind Mice",
-      "url": "https://open.spotify.com/track/1jgJ60KbxMyP4meGiPc8bz"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 19240,
-      "name": "Jack Be Nimble",
-      "url": "https://open.spotify.com/track/2BovShtgWcVeGxtRXXj9QC"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 2 - Fun Songs for Learning with LittleBabyBum",
-        "url": "https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 100909,
-      "name": "Ants Go Marching",
-      "url": "https://open.spotify.com/track/2DuVZNALyo1SpBrOOUB1RR"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Nursery Rhymes by CoComelon Vol.2",
-        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 104205,
-      "name": "I Am the Music Man",
-      "url": "https://open.spotify.com/track/4uxhJp1bmlq4CbcIdazq5s"
+      "duration_ms": 61484,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/1ywNV7GoOLPbfsnOzuH8qU"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -1315,24 +1139,8 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Traditional Nursery Rhymes for Kids",
-        "url": "https://open.spotify.com/album/5GN2C91tNyIMWdEXu5GIhQ"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 117371,
-      "name": "Baby Bumble Bee",
-      "url": "https://open.spotify.com/track/2WZUITtdEqjEAc6ADT1Mu5"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
       },
       "artists": [
         {
@@ -1340,41 +1148,9 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 207340,
-      "name": "Wheels on the Bus",
-      "url": "https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "The Ultimate Nursery Rhymes and Song Collection",
-        "url": "https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 121090,
-      "name": "Three Little Kittens - 2014 Version",
-      "url": "https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
-        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 38760,
-      "name": "Sing a Song of Sixpence",
-      "url": "https://open.spotify.com/track/4gTqxLrtbeM2hLwaFEF559"
+      "duration_ms": 104205,
+      "name": "I Am the Music Man",
+      "url": "https://open.spotify.com/track/4uxhJp1bmlq4CbcIdazq5s"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -1395,40 +1171,8 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Nursery Rhymes & Children's Songs, Vol. 14 (Sing & Learn with LittleBabyBum)",
-        "url": "https://open.spotify.com/album/7wowdHYl1hBhPYBcYTmr5Z"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 104444,
-      "name": "London Bridge is Falling Down",
-      "url": "https://open.spotify.com/track/4tFsdywac6xmZtZh0XLMvF"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Nursery Rhymes & Children's Songs, Vol. 13 (Sing & Learn with LittleBabyBum)",
-        "url": "https://open.spotify.com/album/4wupBnE7OoJEwP1vG4whJD"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 100223,
-      "name": "Down by the Bay",
-      "url": "https://open.spotify.com/track/2lasyMCVz070KFD5tC134Y"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 7: Kids Sing & Learn",
-        "url": "https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI"
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
       },
       "artists": [
         {
@@ -1436,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
         }
       ],
-      "duration_ms": 137999,
-      "name": "Apples and Bananas",
-      "url": "https://open.spotify.com/track/4LPmxDK07ZUaW4vJji651m"
+      "duration_ms": 37360,
+      "name": "This Little Piggy",
+      "url": "https://open.spotify.com/track/4I8OaIHetNmvWmcvaKPAsS"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -1459,54 +1203,6 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 93400,
-      "name": "Lavender's Blue",
-      "url": "https://open.spotify.com/track/6lvD3oh2p4PVntiqSxYwUi"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Nursery Rhymes & Children's Songs, Vol. 6 (Sing & Learn with LittleBabyBum)",
-        "url": "https://open.spotify.com/album/316wjGt6zaSNLlzGHY2XmT"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 101830,
-      "name": "Mary, Mary, Quite Contrary",
-      "url": "https://open.spotify.com/track/2QkADFBtqKlXJQmfsRug87"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Kids Songs Sing Along - 50 Toddler Nursery Rhymes",
-        "url": "https://open.spotify.com/album/7Cu0Lwree7vTmDKqGjmbLp"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 47988,
-      "name": "Rain Rain Go Away",
-      "url": "https://open.spotify.com/track/7zdM6jtOOsjRugZqTakpEs"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
         "name": "Favourite Things: Songs and Nursery Rhymes from Play School",
         "url": "https://open.spotify.com/album/3iTEYok7snY0DL5XjQB8xs"
       },
@@ -1519,118 +1215,6 @@
       "duration_ms": 92426,
       "name": "Der Glumph",
       "url": "https://open.spotify.com/track/7zfa0NZCwts3QzmysV2tqj"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
-        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 30573,
-      "name": "Clap Your Hands",
-      "url": "https://open.spotify.com/track/0QAN2I3VggUp43foMTzKOn"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Top 50 Nursery Rhymes Playlist",
-        "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 67000,
-      "name": "Pat-a-Cake, Pat-a-Cake",
-      "url": "https://open.spotify.com/track/3kKx3f1UUkul5qsuFyAmwv"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Toybox",
-        "url": "https://open.spotify.com/album/7rMwzfQjD4Edj3LAWxJWJk"
-      },
-      "artists": [
-        {
-          "name": "The Rainbow Collections",
-          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "Teddy Bears Picnic",
-      "url": "https://open.spotify.com/track/4XAtEqt8UJS9yM6jvVFbiC"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Disney Junior Music Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Goings",
-          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
-        }
-      ],
-      "duration_ms": 80284,
-      "name": "If You're Happy and You Know It",
-      "url": "https://open.spotify.com/track/5VCVZBhLpLRoDqtkcXZN6m"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 149133,
-      "name": "How Much Is That Doggie in the Window",
-      "url": "https://open.spotify.com/track/3Nx0XVHbUrGDD9MEVWo7QV"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "CoComelon Kids Hits, Vol. 7",
-        "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 156545,
-      "name": "The Ant and the Grasshopper",
-      "url": "https://open.spotify.com/track/5o0oIgZ4BcBlqMTywVegI9"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Bathtime & Bedtime Songs for Children with LittleBabyBum",
-        "url": "https://open.spotify.com/album/534NQnTqSslxuFJNCfNn7u"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 93846,
-      "name": "Are You Sleeping",
-      "url": "https://open.spotify.com/track/05ccBT7fdmteXh6PtlYHqM"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -1651,8 +1235,24 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Nursery Rhymes & Children's Songs, Vol. 6 (Sing & Learn with LittleBabyBum)",
-        "url": "https://open.spotify.com/album/316wjGt6zaSNLlzGHY2XmT"
+        "name": "Nursery Rhymes",
+        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "duration_ms": 154361,
+      "name": "Five Little Ducks",
+      "url": "https://open.spotify.com/track/2RBSfeOv7KWXjt7K17JBr1"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 1 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/7bMlpiAYdqbN5mj12iXsbD"
       },
       "artists": [
         {
@@ -1660,137 +1260,9 @@
           "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
         }
       ],
-      "duration_ms": 91901,
-      "name": "Humpty Dumpty",
-      "url": "https://open.spotify.com/track/68Kl2kD6xfI1tCYpoillN6"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Oomba Baroomba",
-        "url": "https://open.spotify.com/album/7a4xANzGTlMxczJljG5AgL"
-      },
-      "artists": [
-        {
-          "name": "Play School",
-          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
-        }
-      ],
-      "duration_ms": 51000,
-      "name": "Head, Shoulders, Knees and Toes",
-      "url": "https://open.spotify.com/track/6cdB3WnyuoVMSwyYKjJ7Zv"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
-        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 17293,
-      "name": "Wee Willie Winkie",
-      "url": "https://open.spotify.com/track/4X8FTylLFUBFVI7islILP4"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "The Wiggles Nursery Rhymes 2",
-        "url": "https://open.spotify.com/album/2FIwVCDk0WSJhf7gHJhFv4"
-      },
-      "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        }
-      ],
-      "duration_ms": 46869,
-      "name": "Sailor Went to Sea",
-      "url": "https://open.spotify.com/track/52g0f18rRtOOCPFuauJrDl"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Top 50 Nursery Rhymes Playlist",
-        "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 77440,
-      "name": "I'm A Nut",
-      "url": "https://open.spotify.com/track/1IdtcZNxsFr1IcBvznRoQ1"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "There's a Bear in There",
-        "url": "https://open.spotify.com/album/7Kr6xtT01yUddJa5iyEcHr"
-      },
-      "artists": [
-        {
-          "name": "Play School",
-          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
-        }
-      ],
-      "duration_ms": 55800,
-      "name": "Kookaburra Sits in the Old Gum Tree",
-      "url": "https://open.spotify.com/track/3ZUtET420eJeSrMbZGHpFR"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "100 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/24Q6AJIE4oPqnKch545T2f"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 121016,
-      "name": "She'll Be Coming Round the Mountain",
-      "url": "https://open.spotify.com/track/1FRXzmHFOsstktMhUKfrOO"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 2 - Fun Songs for Learning with LittleBabyBum",
-        "url": "https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 75545,
-      "name": "Hickory Dickory Dock - (Sheep)",
-      "url": "https://open.spotify.com/track/24g8whAHKPcifxXAmFZSGU"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Three Little Pigs",
-        "url": "https://open.spotify.com/album/0neTtKrLPBJecZLPu3oSBu"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 122200,
-      "name": "The Three Little Pigs",
-      "url": "https://open.spotify.com/track/3qjjUASJgHFYrQM5S5GsZ8"
+      "duration_ms": 143877,
+      "name": "3 Blind Mice",
+      "url": "https://open.spotify.com/track/1jgJ60KbxMyP4meGiPc8bz"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -1811,18 +1283,18 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 4 - Fun Songs for Learning with LittleBabyBum",
-        "url": "https://open.spotify.com/album/3oB4zapMRPG6Poomj8mgbr"
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
       },
       "artists": [
         {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
         }
       ],
-      "duration_ms": 108829,
-      "name": "Bear Went Over the Mountain",
-      "url": "https://open.spotify.com/track/09WHajV2FCmFDlrU673nSR"
+      "duration_ms": 45506,
+      "name": "Peter, Peter, Pumpkin Eater",
+      "url": "https://open.spotify.com/track/6CsWiIaapJlCiHgULVDwZ0"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -1843,8 +1315,24 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
-        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
+        "name": "The Ultimate Nursery Rhymes and Song Collection",
+        "url": "https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 121090,
+      "name": "Three Little Kittens - 2014 Version",
+      "url": "https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 7: Kids Sing & Learn",
+        "url": "https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI"
       },
       "artists": [
         {
@@ -1852,57 +1340,25 @@
           "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
         }
       ],
-      "duration_ms": 21266,
-      "name": "Polly, Put the Kettle On",
-      "url": "https://open.spotify.com/track/44tkBNIXqp5dYlohMqaOjg"
+      "duration_ms": 137999,
+      "name": "Apples and Bananas",
+      "url": "https://open.spotify.com/track/4LPmxDK07ZUaW4vJji651m"
     },
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Kids Songs & Medlees Vol 2",
-        "url": "https://open.spotify.com/album/74OOs3qPkQtCIRR74kmRlh"
+        "name": "There's a Bear in There",
+        "url": "https://open.spotify.com/album/7Kr6xtT01yUddJa5iyEcHr"
       },
       "artists": [
         {
-          "name": "Mellodees",
-          "url": "https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn"
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
         }
       ],
-      "duration_ms": 78953,
-      "name": "Jack & Jill",
-      "url": "https://open.spotify.com/track/5E0nfzlKVUCL8anAgvk8Qj"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Pinkfong Best Kids Songs",
-        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 49080,
-      "name": "Ham and Eggs",
-      "url": "https://open.spotify.com/track/6vndlEpkDF74LHemFHTBje"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 4: Row, Row, Row Your Rhyme",
-        "url": "https://open.spotify.com/album/1j268hisybBFDdSwuYbD30"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 142365,
-      "name": "This Little Light of Mine",
-      "url": "https://open.spotify.com/track/6xxTQAUaagsauU8cCshtyY"
+      "duration_ms": 55800,
+      "name": "Kookaburra Sits in the Old Gum Tree",
+      "url": "https://open.spotify.com/track/3ZUtET420eJeSrMbZGHpFR"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -1923,104 +1379,8 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "ChuChu TV Baby Nursery Rhymes, Vol. 6",
-        "url": "https://open.spotify.com/album/1DNGcZk3osbuRUoGbV7NsE"
-      },
-      "artists": [
-        {
-          "name": "ChuChu TV",
-          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
-        }
-      ],
-      "duration_ms": 171132,
-      "name": "This Is The Way We Brush Our Teeth Nursery Rhyme",
-      "url": "https://open.spotify.com/track/4LRiK3FqlfhxLe7vOn0fZo"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 33706,
-      "name": "Muffin Man",
-      "url": "https://open.spotify.com/track/3xP01FeZSZSLwimehmsmnW"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Wheels On The Bus",
-        "url": "https://open.spotify.com/album/3di2EUUcC0LEP3JV9NlqOW"
-      },
-      "artists": [
-        {
-          "name": "Mellodees",
-          "url": "https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn"
-        }
-      ],
-      "duration_ms": 101132,
-      "name": "Wheels On The Bus",
-      "url": "https://open.spotify.com/track/6fWbq3vHFs1Ggorg8JkJ23"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 8: Children's Sing Along Songs",
-        "url": "https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 137998,
-      "name": "Little Bunny Foo Foo",
-      "url": "https://open.spotify.com/track/3YnJvR8KjXfNSz8jQyxLyA"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 25773,
-      "name": "Pop! Goes the Weasel",
-      "url": "https://open.spotify.com/track/4nSTY7bIizPcZWvXUqiETE"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "The Wiggles Nursery Rhymes 2",
-        "url": "https://open.spotify.com/album/2FIwVCDk0WSJhf7gHJhFv4"
-      },
-      "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        }
-      ],
-      "duration_ms": 78544,
-      "name": "The Lion and the Unicorn",
-      "url": "https://open.spotify.com/track/6KOdGLb1Lt8KsC5UXQO5nQ"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Fun Animal Songs",
-        "url": "https://open.spotify.com/album/4HJ9StZhzeQLAu3wFEDZQ3"
+        "name": "Nursery Rhymes & Children's Songs, Vol. 6 (Sing & Learn with LittleBabyBum)",
+        "url": "https://open.spotify.com/album/316wjGt6zaSNLlzGHY2XmT"
       },
       "artists": [
         {
@@ -2028,281 +1388,9 @@
           "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
         }
       ],
-      "duration_ms": 119361,
-      "name": "The Panda Bear Went Over the Mountain",
-      "url": "https://open.spotify.com/track/6Y1zAR6pSenrSpZlXGz3cL"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "The Ultimate Nursery Rhymes and Song Collection",
-        "url": "https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 38709,
-      "name": "Little Bo Peep - 2014 Version",
-      "url": "https://open.spotify.com/track/7JdyZbT6Lw1LdU6KjLtrO5"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 28653,
-      "name": "Doctor Foster",
-      "url": "https://open.spotify.com/track/0PQkaUy9QlEjHURvwoVcuD"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "There's a Bear in There",
-        "url": "https://open.spotify.com/album/7Kr6xtT01yUddJa5iyEcHr"
-      },
-      "artists": [
-        {
-          "name": "Play School",
-          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
-        }
-      ],
-      "duration_ms": 62800,
-      "name": "Do Your Ears Hang Low?",
-      "url": "https://open.spotify.com/track/1M76UttpeQadA2UoEvbRVI"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 41800,
-      "name": "Curly Locks",
-      "url": "https://open.spotify.com/track/0hFVYqoH1SWPlR6YFOmYgT"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Top 50 Nursery Rhymes Playlist",
-        "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 160246,
-      "name": "Who's In The Zoo?",
-      "url": "https://open.spotify.com/track/4s0X685vyUDd24euTeVutT"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Nursery Rhymes",
-        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
-      },
-      "artists": [
-        {
-          "name": "Bounce Patrol",
-          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
-        }
-      ],
-      "duration_ms": 154361,
-      "name": "Five Little Ducks",
-      "url": "https://open.spotify.com/track/2RBSfeOv7KWXjt7K17JBr1"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 29000,
-      "name": "The Old Grey Mare",
-      "url": "https://open.spotify.com/track/0Bfc0fBGr5Us52BFcOoGYS"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 29226,
-      "name": "Jack Sprat",
-      "url": "https://open.spotify.com/track/55mp4QQNvuIPnfKKhWUaTN"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Pinkfong Best Kids Songs",
-        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 90486,
-      "name": "The Hokey Pokey",
-      "url": "https://open.spotify.com/track/6IWnQFDRE7QqK0uv3PveIo"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Disney Junior Music Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X"
-      },
-      "artists": [
-        {
-          "name": "Rob Cantor",
-          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
-        }
-      ],
-      "duration_ms": 82975,
-      "name": "One, Two, Buckle My Shoe",
-      "url": "https://open.spotify.com/track/2cPZhroexiAMR6i7pePfIe"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "The Wiggles Nursery Rhymes",
-        "url": "https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6"
-      },
-      "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        }
-      ],
-      "duration_ms": 119759,
-      "name": "The Highland Fling",
-      "url": "https://open.spotify.com/track/4PL5cH0E2xdUooTVe6zYL3"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 30466,
-      "name": "Little Boy Blue",
-      "url": "https://open.spotify.com/track/4BNCrpRcoiSfC4wa9MG2pm"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "The Ultimate Nursery Rhymes and Song Collection",
-        "url": "https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 64573,
-      "name": "See Saw Margery Daw - 2014 Version",
-      "url": "https://open.spotify.com/track/2h6OlcdHCkgH2arHcCZYL0"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
-        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 73800,
-      "name": "Skip to My Lou",
-      "url": "https://open.spotify.com/track/4LzMGZEwmCdxfczMbS0qOp"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Pinkfong Best Kids Songs",
-        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 108125,
-      "name": "The Farmer in the Dell",
-      "url": "https://open.spotify.com/track/5tNiS6K5ncZub6dpCpWzjt"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "CoComelon Essentials",
-        "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 127026,
-      "name": "Head Shoulder Knees and Toes",
-      "url": "https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 111293,
-      "name": "Where, Oh Where Has My Little Dog Gone?",
-      "url": "https://open.spotify.com/track/7cirEnSzW4UUgZaVANEob8"
+      "duration_ms": 101830,
+      "name": "Mary, Mary, Quite Contrary",
+      "url": "https://open.spotify.com/track/2QkADFBtqKlXJQmfsRug87"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -2316,153 +1404,9 @@
           "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
         }
       ],
-      "duration_ms": 22053,
-      "name": "Hot Cross Buns!",
-      "url": "https://open.spotify.com/track/4KFUHTqBGMm2rdIfIyKkJE"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 86373,
-      "name": "Oh, Susanna",
-      "url": "https://open.spotify.com/track/5KjxaoU48spAgx7gONScfR"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
-        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 37413,
-      "name": "There Was a Crooked Man",
-      "url": "https://open.spotify.com/track/1TKA03d6d9u5lwuw8r1jXX"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 114466,
-      "name": "Michael Finnegan",
-      "url": "https://open.spotify.com/track/4fzr1r3QnGWjbHDG2kvkIh"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Pinkfong Best Kids Songs",
-        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "This Little Pig Went to Market",
-      "url": "https://open.spotify.com/track/4kQSQibvlnU5nKGXYxmTfI"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "The Wiggles Nursery Rhymes",
-        "url": "https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6"
-      },
-      "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        }
-      ],
-      "duration_ms": 130343,
-      "name": "Dr Knickerbocker",
-      "url": "https://open.spotify.com/track/6esTR8Dr7MHB3qhyPxBFJv"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 96440,
-      "name": "On Top Of Spaghetti",
-      "url": "https://open.spotify.com/track/38zZsHOr2kSyDc1k7cgiK4"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "The Ultimate Nursery Rhymes and Song Collection",
-        "url": "https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 58637,
-      "name": "Pussycat Pussycat - 2012 Version",
-      "url": "https://open.spotify.com/track/3iYAF7cCaT8bZctOjL3HxT"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "Did You Ever See a Lassie?",
-      "url": "https://open.spotify.com/track/3QIiTl4pJMrcjVnbu2jS5P"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
-        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 30706,
-      "name": "Old Woman Who Lived In a Shoe",
-      "url": "https://open.spotify.com/track/0S22p30QRkbohImgqvfX6u"
+      "duration_ms": 38760,
+      "name": "Sing a Song of Sixpence",
+      "url": "https://open.spotify.com/track/4gTqxLrtbeM2hLwaFEF559"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -2483,152 +1427,40 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+        "name": "The Wiggles Nursery Rhymes 2",
+        "url": "https://open.spotify.com/album/2FIwVCDk0WSJhf7gHJhFv4"
       },
       "artists": [
         {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
         }
       ],
-      "duration_ms": 122240,
-      "name": "There's a Hole in My Bucket",
-      "url": "https://open.spotify.com/track/00cGnKPcpjJbWevOA7ipzk"
+      "duration_ms": 46869,
+      "name": "Sailor Went to Sea",
+      "url": "https://open.spotify.com/track/52g0f18rRtOOCPFuauJrDl"
     },
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "The Ultimate Nursery Rhymes and Song Collection",
-        "url": "https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR"
+        "name": "CoComelon Kids Hits, Vol. 7",
+        "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
       },
       "artists": [
         {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 51906,
-      "name": "Little Tommy Tucker - 2014 Version",
-      "url": "https://open.spotify.com/track/11aKEebWD67zKSPNGW2BxM"
+      "duration_ms": 156545,
+      "name": "The Ant and the Grasshopper",
+      "url": "https://open.spotify.com/track/5o0oIgZ4BcBlqMTywVegI9"
     },
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Blippi Tunes, Vol. 1",
-        "url": "https://open.spotify.com/album/4y8tx8PVyNSMZAjVn6OblN"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        }
-      ],
-      "duration_ms": 356068,
-      "name": "Old MacDonald",
-      "url": "https://open.spotify.com/track/6oVVyZjBrHwafZO43XAc45"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
-        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 34426,
-      "name": "To Market, To Market",
-      "url": "https://open.spotify.com/track/5a6jErb6NcPhAqbFJwH9Hm"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "ChuChu TV Baby Nursery Rhymes, Vol. 6",
-        "url": "https://open.spotify.com/album/1DNGcZk3osbuRUoGbV7NsE"
-      },
-      "artists": [
-        {
-          "name": "ChuChu TV",
-          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
-        }
-      ],
-      "duration_ms": 117368,
-      "name": "Johny Johny Yes Papa Grandma & Grandpa Song",
-      "url": "https://open.spotify.com/track/73AwkdfctKAqcXteux4yV0"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 5: Rhyme Around the Rosy",
-        "url": "https://open.spotify.com/album/1ZvObM81IdqvpzGKYznPiZ"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 120994,
-      "name": "Ring Around the Rosy",
-      "url": "https://open.spotify.com/track/0k17xcR5IrzgfEQwCSwgUb"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Pinkfong Best Kids Songs",
-        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 33225,
-      "name": "Baby's Clothes",
-      "url": "https://open.spotify.com/track/4XmGnWkgelZEHCyQaoPqe8"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 7: Kids Sing & Learn",
-        "url": "https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 146016,
-      "name": "Open Shut Them",
-      "url": "https://open.spotify.com/track/7aF0q7CPwR0ZGCAXbZAgG3"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 7: Kids Sing & Learn",
-        "url": "https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 161988,
-      "name": "She\u2019ll Be Coming Round the Mountain",
-      "url": "https://open.spotify.com/track/4wdYY7uEyWFhyUGHEwNE3l"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Nursery Rhymes & Children's Songs, Vol. 5 (Sing & Learn with LittleBabyBum)",
-        "url": "https://open.spotify.com/album/16tvs4SWxixF9hiC4stWxr"
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 2 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs"
       },
       "artists": [
         {
@@ -2636,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
         }
       ],
-      "duration_ms": 113500,
-      "name": "Wind the Bobbin Up",
-      "url": "https://open.spotify.com/track/0L3tAjIcJhMzVqKOeRQ88B"
+      "duration_ms": 75545,
+      "name": "Hickory Dickory Dock - (Sheep)",
+      "url": "https://open.spotify.com/track/24g8whAHKPcifxXAmFZSGU"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -2659,6 +1491,150 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 93400,
+      "name": "Lavender's Blue",
+      "url": "https://open.spotify.com/track/6lvD3oh2p4PVntiqSxYwUi"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Top 50 Nursery Rhymes Playlist",
+        "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 77440,
+      "name": "I'm A Nut",
+      "url": "https://open.spotify.com/track/1IdtcZNxsFr1IcBvznRoQ1"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 30573,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/0QAN2I3VggUp43foMTzKOn"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 149133,
+      "name": "How Much Is That Doggie in the Window",
+      "url": "https://open.spotify.com/track/3Nx0XVHbUrGDD9MEVWo7QV"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Pinkfong Best Kids Songs",
+        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 49080,
+      "name": "Ham and Eggs",
+      "url": "https://open.spotify.com/track/6vndlEpkDF74LHemFHTBje"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 4 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/3oB4zapMRPG6Poomj8mgbr"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 108829,
+      "name": "Bear Went Over the Mountain",
+      "url": "https://open.spotify.com/track/09WHajV2FCmFDlrU673nSR"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "100 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/24Q6AJIE4oPqnKch545T2f"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 121016,
+      "name": "She'll Be Coming Round the Mountain",
+      "url": "https://open.spotify.com/track/1FRXzmHFOsstktMhUKfrOO"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "The Wiggles Nursery Rhymes 2",
+        "url": "https://open.spotify.com/album/2FIwVCDk0WSJhf7gHJhFv4"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 78544,
+      "name": "The Lion and the Unicorn",
+      "url": "https://open.spotify.com/track/6KOdGLb1Lt8KsC5UXQO5nQ"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Pinkfong Best Kids Songs",
+        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 108125,
+      "name": "The Farmer in the Dell",
+      "url": "https://open.spotify.com/track/5tNiS6K5ncZub6dpCpWzjt"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
         "name": "ChuChuTV Nursery Rhymes & Songs for Children, Vol. 1",
         "url": "https://open.spotify.com/album/5VAhNC7AmHdWJhalTqvsnC"
       },
@@ -2675,18 +1651,34 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 9: Songs for Kids",
-        "url": "https://open.spotify.com/album/3vSIO6N0wUTzyM2B3DIZ8w"
+        "name": "Three Little Pigs",
+        "url": "https://open.spotify.com/album/0neTtKrLPBJecZLPu3oSBu"
       },
       "artists": [
         {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
         }
       ],
-      "duration_ms": 115645,
-      "name": "Ten in the Bed",
-      "url": "https://open.spotify.com/track/6FXMOKUDn8jNDv9wGGQBA7"
+      "duration_ms": 122200,
+      "name": "The Three Little Pigs",
+      "url": "https://open.spotify.com/track/3qjjUASJgHFYrQM5S5GsZ8"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Bathtime & Bedtime Songs for Children with LittleBabyBum",
+        "url": "https://open.spotify.com/album/534NQnTqSslxuFJNCfNn7u"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 93846,
+      "name": "Are You Sleeping",
+      "url": "https://open.spotify.com/track/05ccBT7fdmteXh6PtlYHqM"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -2703,198 +1695,6 @@
       "duration_ms": 99155,
       "name": "Jelly on a Plate",
       "url": "https://open.spotify.com/track/2xwD5QLZMXqHG8lPrpDH5T"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "Fiddle-I-Dee",
-      "url": "https://open.spotify.com/track/02ph9PznBxb8hB5dSy8g4E"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 10: Songs for Toddlers",
-        "url": "https://open.spotify.com/album/1osuVIvBX4zEVPJbqieJcM"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 205041,
-      "name": "Abc Song",
-      "url": "https://open.spotify.com/track/1WS543Z7Z8PhUcKe4tNKt5"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Kids Songs Sing Along - 50 Toddler Nursery Rhymes",
-        "url": "https://open.spotify.com/album/7Cu0Lwree7vTmDKqGjmbLp"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 78101,
-      "name": "This Old Man",
-      "url": "https://open.spotify.com/track/78OXx8UZn6xyJkGdqyKY9g"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "ChuChu TV Baby Nursery Rhymes, Vol. 6",
-        "url": "https://open.spotify.com/album/1DNGcZk3osbuRUoGbV7NsE"
-      },
-      "artists": [
-        {
-          "name": "ChuChu TV",
-          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
-        }
-      ],
-      "duration_ms": 136616,
-      "name": "Hickory Dickory Dock Baby Nursery Rhyme",
-      "url": "https://open.spotify.com/track/02DATkyRD1TXiBhlQjr8EP"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Top 50 Nursery Rhymes Playlist",
-        "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 106160,
-      "name": "Short'nin' Bread",
-      "url": "https://open.spotify.com/track/4LMuKlesZMky3iVQq2qOAP"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "ChuChuTV Nursery Rhymes & Songs for Children, Vol. 1",
-        "url": "https://open.spotify.com/album/5VAhNC7AmHdWJhalTqvsnC"
-      },
-      "artists": [
-        {
-          "name": "ChuChu TV",
-          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Bingo Dog Song",
-      "url": "https://open.spotify.com/track/5sNumuFeIsnM7gX35q49GU"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 110400,
-      "name": "Down By the Station",
-      "url": "https://open.spotify.com/track/7CNYzWYdjeaQC73YFaIlGB"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Nursery Rhymes",
-        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
-      },
-      "artists": [
-        {
-          "name": "Bounce Patrol",
-          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
-        }
-      ],
-      "duration_ms": 215567,
-      "name": "Old MacDonald Had a Farm",
-      "url": "https://open.spotify.com/track/4qAjPrY1lg12AkXDjTg46W"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Pinkfong Best Kids Songs",
-        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 68613,
-      "name": "The More We Sing Together",
-      "url": "https://open.spotify.com/track/2KpOMq1ZwVXb3TMyJK1bkF"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 114533,
-      "name": "Bicycle Built for Two",
-      "url": "https://open.spotify.com/track/1giS3tMPZv7vMYBKkgz0Qz"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Baby Songs - 75 Nursery Rhymes",
-        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 97893,
-      "name": "The Green Grass Grows All Around",
-      "url": "https://open.spotify.com/track/4WAnypodNnod0mbDQ0yYIu"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Let's Play Together",
-        "url": "https://open.spotify.com/album/2gAtxgiVCtFrJbMYD0r6lS"
-      },
-      "artists": [
-        {
-          "name": "Play School",
-          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
-        }
-      ],
-      "duration_ms": 74768,
-      "name": "The Grand Old Duke of York",
-      "url": "https://open.spotify.com/track/7eCTAKT6tIy6NPzVloKLbR"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -2931,22 +1731,6 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "CoComelon Kids Hits, Vol. 3",
-        "url": "https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 177477,
-      "name": "Twinkle Twinkle Little Star",
-      "url": "https://open.spotify.com/track/097ftnCPnGHhn93lS0HHlO"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
         "name": "Top 50 Nursery Rhymes Playlist",
         "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
       },
@@ -2956,9 +1740,153 @@
           "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
         }
       ],
-      "duration_ms": 82743,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/6n7NNNzLqY3dxpixBjfKVV"
+      "duration_ms": 160246,
+      "name": "Who's In The Zoo?",
+      "url": "https://open.spotify.com/track/4s0X685vyUDd24euTeVutT"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Let's Play Together",
+        "url": "https://open.spotify.com/album/2gAtxgiVCtFrJbMYD0r6lS"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "duration_ms": 74768,
+      "name": "The Grand Old Duke of York",
+      "url": "https://open.spotify.com/track/7eCTAKT6tIy6NPzVloKLbR"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "ChuChuTV Nursery Rhymes & Songs for Children, Vol. 1",
+        "url": "https://open.spotify.com/album/5VAhNC7AmHdWJhalTqvsnC"
+      },
+      "artists": [
+        {
+          "name": "ChuChu TV",
+          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Bingo Dog Song",
+      "url": "https://open.spotify.com/track/5sNumuFeIsnM7gX35q49GU"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "ChuChu TV Baby Nursery Rhymes, Vol. 6",
+        "url": "https://open.spotify.com/album/1DNGcZk3osbuRUoGbV7NsE"
+      },
+      "artists": [
+        {
+          "name": "ChuChu TV",
+          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
+        }
+      ],
+      "duration_ms": 162198,
+      "name": "Twinkle Twinkle Little Star Baby Nursery Rhyme",
+      "url": "https://open.spotify.com/track/0rlV6TDQRTb4ojvKr4Ddqa"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "Fiddle-I-Dee",
+      "url": "https://open.spotify.com/track/02ph9PznBxb8hB5dSy8g4E"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Pinkfong Best Kids Songs",
+        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 33225,
+      "name": "Baby's Clothes",
+      "url": "https://open.spotify.com/track/4XmGnWkgelZEHCyQaoPqe8"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 33706,
+      "name": "Muffin Man",
+      "url": "https://open.spotify.com/track/3xP01FeZSZSLwimehmsmnW"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 122240,
+      "name": "There's a Hole in My Bucket",
+      "url": "https://open.spotify.com/track/00cGnKPcpjJbWevOA7ipzk"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 37413,
+      "name": "There Was a Crooked Man",
+      "url": "https://open.spotify.com/track/1TKA03d6d9u5lwuw8r1jXX"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 86373,
+      "name": "Oh, Susanna",
+      "url": "https://open.spotify.com/track/5KjxaoU48spAgx7gONScfR"
     },
     {
       "added_at": "2023-04-26 14:21:34",
@@ -2979,18 +1907,402 @@
     {
       "added_at": "2023-04-26 14:21:34",
       "album": {
-        "name": "ChuChu TV Baby Nursery Rhymes, Vol. 6",
-        "url": "https://open.spotify.com/album/1DNGcZk3osbuRUoGbV7NsE"
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
       },
       "artists": [
         {
-          "name": "ChuChu TV",
-          "url": "https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ"
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
         }
       ],
-      "duration_ms": 162198,
-      "name": "Twinkle Twinkle Little Star Baby Nursery Rhyme",
-      "url": "https://open.spotify.com/track/0rlV6TDQRTb4ojvKr4Ddqa"
+      "duration_ms": 29000,
+      "name": "The Old Grey Mare",
+      "url": "https://open.spotify.com/track/0Bfc0fBGr5Us52BFcOoGYS"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 41800,
+      "name": "Curly Locks",
+      "url": "https://open.spotify.com/track/0hFVYqoH1SWPlR6YFOmYgT"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "CoComelon Essentials",
+        "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 127026,
+      "name": "Head Shoulder Knees and Toes",
+      "url": "https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 34426,
+      "name": "To Market, To Market",
+      "url": "https://open.spotify.com/track/5a6jErb6NcPhAqbFJwH9Hm"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Fun Animal Songs",
+        "url": "https://open.spotify.com/album/4HJ9StZhzeQLAu3wFEDZQ3"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 119361,
+      "name": "The Panda Bear Went Over the Mountain",
+      "url": "https://open.spotify.com/track/6Y1zAR6pSenrSpZlXGz3cL"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 110400,
+      "name": "Down By the Station",
+      "url": "https://open.spotify.com/track/7CNYzWYdjeaQC73YFaIlGB"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Kids Songs Sing Along - 50 Toddler Nursery Rhymes",
+        "url": "https://open.spotify.com/album/7Cu0Lwree7vTmDKqGjmbLp"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 78101,
+      "name": "This Old Man",
+      "url": "https://open.spotify.com/track/78OXx8UZn6xyJkGdqyKY9g"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 96440,
+      "name": "On Top Of Spaghetti",
+      "url": "https://open.spotify.com/track/38zZsHOr2kSyDc1k7cgiK4"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 9: Songs for Kids",
+        "url": "https://open.spotify.com/album/3vSIO6N0wUTzyM2B3DIZ8w"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 115645,
+      "name": "Ten in the Bed",
+      "url": "https://open.spotify.com/track/6FXMOKUDn8jNDv9wGGQBA7"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Pinkfong Best Kids Songs",
+        "url": "https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 68613,
+      "name": "The More We Sing Together",
+      "url": "https://open.spotify.com/track/2KpOMq1ZwVXb3TMyJK1bkF"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 97893,
+      "name": "The Green Grass Grows All Around",
+      "url": "https://open.spotify.com/track/4WAnypodNnod0mbDQ0yYIu"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 29226,
+      "name": "Jack Sprat",
+      "url": "https://open.spotify.com/track/55mp4QQNvuIPnfKKhWUaTN"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "Did You Ever See a Lassie?",
+      "url": "https://open.spotify.com/track/3QIiTl4pJMrcjVnbu2jS5P"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "The Wiggles Nursery Rhymes",
+        "url": "https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 119759,
+      "name": "The Highland Fling",
+      "url": "https://open.spotify.com/track/4PL5cH0E2xdUooTVe6zYL3"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 114533,
+      "name": "Bicycle Built for Two",
+      "url": "https://open.spotify.com/track/1giS3tMPZv7vMYBKkgz0Qz"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "The Ultimate Nursery Rhymes and Song Collection",
+        "url": "https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 58637,
+      "name": "Pussycat Pussycat - 2012 Version",
+      "url": "https://open.spotify.com/track/3iYAF7cCaT8bZctOjL3HxT"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "The Wiggles Nursery Rhymes",
+        "url": "https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 130343,
+      "name": "Dr Knickerbocker",
+      "url": "https://open.spotify.com/track/6esTR8Dr7MHB3qhyPxBFJv"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 28653,
+      "name": "Doctor Foster",
+      "url": "https://open.spotify.com/track/0PQkaUy9QlEjHURvwoVcuD"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Top 50 Nursery Rhymes Playlist",
+        "url": "https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 82743,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/6n7NNNzLqY3dxpixBjfKVV"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 25773,
+      "name": "Pop! Goes the Weasel",
+      "url": "https://open.spotify.com/track/4nSTY7bIizPcZWvXUqiETE"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 30706,
+      "name": "Old Woman Who Lived In a Shoe",
+      "url": "https://open.spotify.com/track/0S22p30QRkbohImgqvfX6u"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Baby Songs - 75 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 111293,
+      "name": "Where, Oh Where Has My Little Dog Gone?",
+      "url": "https://open.spotify.com/track/7cirEnSzW4UUgZaVANEob8"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 24266,
+      "name": "Little Miss Muffet",
+      "url": "https://open.spotify.com/track/2BFh2VwXaZRbrHrYSUQIJ5"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "The Ultimate Nursery Rhymes and Song Collection",
+        "url": "https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 51906,
+      "name": "Little Tommy Tucker - 2014 Version",
+      "url": "https://open.spotify.com/track/11aKEebWD67zKSPNGW2BxM"
+    },
+    {
+      "added_at": "2023-04-26 14:21:34",
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 17293,
+      "name": "Wee Willie Winkie",
+      "url": "https://open.spotify.com/track/4X8FTylLFUBFVI7islILP4"
     }
   ],
   "unique_name": "Nursery Rhymes",

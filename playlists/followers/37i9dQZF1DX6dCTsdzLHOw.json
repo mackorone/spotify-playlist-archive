@@ -1,735 +1,781 @@
 {
-  "2021-12-25": 21111,
-  "2021-12-26": 21106,
-  "2021-12-27": 21101,
-  "2021-12-28": 21101,
-  "2021-12-29": 21090,
-  "2021-12-30": 21084,
-  "2021-12-31": 21081,
-  "2022-01-01": 21070,
-  "2022-01-02": 21067,
-  "2022-01-03": 21064,
-  "2022-01-04": 21058,
-  "2022-01-05": 21053,
-  "2022-01-06": 21046,
-  "2022-01-07": 21042,
-  "2022-01-08": 21035,
-  "2022-01-09": 21035,
-  "2022-01-10": 21028,
-  "2022-01-11": 21025,
-  "2022-01-12": 21022,
-  "2022-01-13": 21017,
-  "2022-01-14": 21012,
-  "2022-01-15": 21004,
-  "2022-01-16": 21004,
-  "2022-01-17": 20994,
-  "2022-01-18": 20993,
-  "2022-01-19": 20993,
-  "2022-01-20": 20991,
-  "2022-01-21": 20988,
-  "2022-01-22": 20986,
-  "2022-01-23": 20986,
-  "2022-01-24": 20986,
-  "2022-01-25": 20981,
-  "2022-01-26": 20978,
-  "2022-01-27": 20974,
-  "2022-01-28": 20973,
-  "2022-01-29": 20967,
-  "2022-01-30": 20963,
-  "2022-01-31": 20957,
-  "2022-02-01": 20954,
-  "2022-02-02": 20946,
-  "2022-02-03": 20942,
-  "2022-02-04": 20935,
-  "2022-02-05": 20933,
-  "2022-02-06": 20929,
-  "2022-02-07": 20927,
-  "2022-02-08": 20923,
-  "2022-02-09": 20922,
-  "2022-02-10": 20921,
-  "2022-02-11": 20917,
-  "2022-02-12": 20913,
-  "2022-02-13": 20906,
-  "2022-02-14": 20903,
-  "2022-02-15": 20897,
-  "2022-02-16": 20892,
-  "2022-02-17": 20884,
-  "2022-02-18": 20882,
-  "2022-02-19": 20877,
-  "2022-02-20": 20868,
-  "2022-02-21": 20866,
-  "2022-02-22": 20864,
-  "2022-02-23": 20859,
-  "2022-02-24": 20855,
-  "2022-02-25": 20851,
-  "2022-02-26": 20847,
-  "2022-02-27": 20837,
-  "2022-02-28": 20837,
-  "2022-03-01": 20835,
-  "2022-03-02": 20833,
-  "2022-03-03": 20830,
-  "2022-03-04": 20826,
-  "2022-03-05": 20822,
-  "2022-03-06": 20816,
-  "2022-03-07": 20816,
-  "2022-03-08": 20812,
-  "2022-03-09": 20808,
-  "2022-03-10": 20803,
-  "2022-03-11": 20801,
-  "2022-03-12": 20795,
-  "2022-03-13": 20789,
-  "2022-03-14": 20788,
-  "2022-03-15": 20786,
-  "2022-03-16": 20785,
-  "2022-03-17": 20783,
-  "2022-03-18": 20779,
-  "2022-03-19": 20777,
-  "2022-03-20": 20777,
-  "2022-03-21": 20770,
-  "2022-03-22": 20770,
-  "2022-03-23": 20765,
-  "2022-03-24": 20760,
-  "2022-03-25": 20754,
-  "2022-03-26": 20754,
-  "2022-03-27": 20752,
-  "2022-03-28": 20747,
-  "2022-03-30": 20740,
-  "2022-03-31": 20740,
-  "2022-04-01": 20736,
-  "2022-04-02": 20733,
-  "2022-04-03": 20731,
-  "2022-04-04": 20730,
-  "2022-04-05": 20726,
-  "2022-04-06": 20726,
-  "2022-04-07": 20727,
-  "2022-04-08": 20724,
-  "2022-04-09": 20721,
-  "2022-04-10": 20718,
-  "2022-04-11": 20716,
-  "2022-04-12": 20716,
-  "2022-04-13": 20714,
-  "2022-04-14": 20710,
-  "2022-04-15": 20711,
-  "2022-04-16": 20710,
-  "2022-04-17": 20706,
-  "2022-04-18": 20704,
-  "2022-04-19": 20700,
-  "2022-04-20": 20695,
-  "2022-04-21": 20691,
-  "2022-04-22": 20687,
-  "2022-04-23": 20684,
-  "2022-04-24": 20681,
-  "2022-04-25": 20679,
-  "2022-04-26": 20675,
-  "2022-04-27": 20670,
-  "2022-04-28": 20668,
-  "2022-04-29": 20661,
-  "2022-04-30": 20660,
-  "2022-05-01": 20657,
-  "2022-05-02": 20657,
-  "2022-05-03": 20655,
-  "2022-05-04": 20654,
-  "2022-05-05": 20652,
-  "2022-05-06": 20651,
-  "2022-05-07": 20644,
-  "2022-05-08": 20643,
-  "2022-05-09": 20643,
-  "2022-05-10": 20641,
-  "2022-05-11": 20638,
-  "2022-05-12": 20636,
-  "2022-05-13": 20632,
-  "2022-05-14": 20629,
-  "2022-05-15": 20629,
-  "2022-05-16": 20626,
-  "2022-05-17": 20619,
-  "2022-05-18": 20615,
-  "2022-05-19": 20616,
-  "2022-05-20": 20615,
-  "2022-05-21": 20613,
-  "2022-05-22": 20613,
-  "2022-05-23": 20611,
-  "2022-05-24": 20611,
-  "2022-05-25": 20610,
-  "2022-05-26": 20606,
-  "2022-05-27": 20606,
-  "2022-05-28": 20600,
-  "2022-05-29": 20599,
-  "2022-05-30": 20597,
-  "2022-05-31": 20595,
-  "2022-06-01": 20593,
-  "2022-06-02": 20592,
-  "2022-06-03": 20591,
-  "2022-06-04": 20591,
-  "2022-06-05": 20591,
-  "2022-06-06": 20591,
-  "2022-06-07": 20591,
-  "2022-06-08": 20591,
-  "2022-06-09": 20590,
-  "2022-06-10": 20589,
-  "2022-06-11": 20586,
-  "2022-06-12": 20585,
-  "2022-06-13": 20581,
-  "2022-06-14": 20580,
-  "2022-06-15": 20576,
-  "2022-06-16": 20574,
-  "2022-06-17": 20571,
-  "2022-06-18": 20569,
-  "2022-06-19": 20564,
-  "2022-06-20": 20564,
-  "2022-06-21": 20563,
-  "2022-06-22": 20562,
-  "2022-06-23": 20562,
-  "2022-06-24": 20560,
-  "2022-06-25": 20558,
-  "2022-06-26": 20556,
-  "2022-06-27": 20554,
-  "2022-06-28": 20551,
-  "2022-06-29": 20547,
-  "2022-06-30": 20544,
-  "2022-07-01": 20542,
-  "2022-07-02": 20537,
-  "2022-07-03": 20534,
-  "2022-07-04": 20533,
-  "2022-07-05": 20534,
-  "2022-07-06": 20534,
-  "2022-07-07": 20532,
-  "2022-07-08": 20528,
-  "2022-07-09": 20527,
-  "2022-07-10": 20525,
-  "2022-07-11": 20524,
-  "2022-07-12": 20522,
-  "2022-07-13": 20523,
-  "2022-07-14": 20520,
-  "2022-07-15": 20518,
-  "2022-07-16": 20518,
-  "2022-07-17": 20516,
-  "2022-07-18": 20516,
-  "2022-07-19": 20513,
-  "2022-07-20": 20509,
-  "2022-07-21": 20508,
-  "2022-07-22": 20505,
-  "2022-07-23": 20505,
-  "2022-07-24": 20504,
-  "2022-07-25": 20502,
-  "2022-07-26": 20502,
-  "2022-07-27": 20501,
-  "2022-07-28": 20501,
-  "2022-07-29": 20497,
-  "2022-07-30": 20496,
-  "2022-07-31": 20496,
-  "2022-08-01": 20495,
-  "2022-08-02": 20490,
-  "2022-08-03": 20490,
-  "2022-08-04": 20489,
-  "2022-08-05": 20488,
-  "2022-08-06": 20486,
-  "2022-08-07": 20484,
-  "2022-08-08": 20483,
-  "2022-08-09": 20480,
-  "2022-08-10": 20478,
-  "2022-08-11": 20477,
-  "2022-08-12": 20474,
-  "2022-08-13": 20473,
-  "2022-08-14": 20474,
-  "2022-08-15": 20474,
-  "2022-08-16": 20473,
-  "2022-08-17": 20471,
-  "2022-08-18": 20469,
-  "2022-08-19": 20465,
-  "2022-08-20": 20465,
-  "2022-08-21": 20463,
-  "2022-08-22": 20462,
-  "2022-08-23": 20463,
-  "2022-08-24": 20461,
-  "2022-08-25": 20461,
-  "2022-08-26": 20459,
-  "2022-08-27": 20459,
-  "2022-08-28": 20456,
-  "2022-08-29": 20454,
-  "2022-08-30": 20452,
-  "2022-08-31": 20444,
-  "2022-09-01": 20437,
-  "2022-09-02": 20433,
-  "2022-09-03": 20432,
-  "2022-09-04": 20430,
-  "2022-09-05": 20432,
-  "2022-09-06": 20428,
-  "2022-09-07": 20426,
-  "2022-09-09": 20424,
-  "2022-09-10": 20424,
-  "2022-09-11": 20423,
-  "2022-09-12": 20423,
-  "2022-09-13": 20420,
-  "2022-09-15": 20417,
-  "2022-09-16": 20418,
-  "2022-09-17": 20417,
-  "2022-09-18": 20416,
-  "2022-09-19": 20414,
-  "2022-09-20": 20414,
-  "2022-09-21": 20413,
-  "2022-09-22": 20413,
-  "2022-09-23": 20413,
-  "2022-09-24": 20421,
-  "2022-09-25": 20440,
-  "2022-09-26": 20462,
-  "2022-09-27": 20483,
-  "2022-09-28": 20508,
-  "2022-09-29": 20533,
-  "2022-09-30": 20551,
-  "2022-10-01": 20572,
-  "2022-10-02": 20597,
-  "2022-10-03": 20625,
-  "2022-10-04": 20651,
-  "2022-10-05": 20680,
-  "2022-10-06": 20725,
-  "2022-10-07": 20773,
-  "2022-10-08": 20820,
-  "2022-10-09": 20905,
-  "2022-10-10": 20926,
-  "2022-10-11": 20958,
-  "2022-10-12": 20994,
-  "2022-10-13": 21041,
-  "2022-10-14": 21098,
-  "2022-10-15": 21164,
-  "2022-10-16": 21241,
-  "2022-10-17": 21328,
-  "2022-10-18": 21409,
-  "2022-10-19": 21456,
-  "2022-10-20": 21533,
-  "2022-10-21": 21619,
-  "2022-10-22": 21702,
-  "2022-10-23": 21775,
-  "2022-10-24": 21860,
-  "2022-10-25": 21951,
-  "2022-10-26": 22029,
-  "2022-10-27": 22123,
-  "2022-10-28": 22231,
-  "2022-10-29": 22408,
-  "2022-10-30": 22687,
-  "2022-10-31": 22886,
-  "2022-11-01": 23421,
-  "2022-11-02": 23439,
-  "2022-11-03": 23448,
-  "2022-11-04": 23453,
-  "2022-11-05": 23469,
-  "2022-11-06": 23487,
-  "2022-11-07": 23490,
-  "2022-11-08": 23498,
-  "2022-11-09": 23502,
-  "2022-11-10": 23508,
-  "2022-11-11": 23517,
-  "2022-11-12": 23519,
-  "2022-11-13": 23518,
-  "2022-11-14": 23517,
-  "2022-11-15": 23520,
-  "2022-11-16": 23528,
-  "2022-11-17": 23527,
-  "2022-11-18": 23525,
-  "2022-11-19": 23517,
-  "2022-11-20": 23520,
-  "2022-11-21": 23533,
-  "2022-11-22": 23540,
-  "2022-11-23": 23541,
-  "2022-11-24": 23554,
-  "2022-11-25": 23561,
-  "2022-11-26": 23568,
-  "2022-11-27": 23572,
-  "2022-11-28": 23579,
-  "2022-11-29": 23585,
-  "2022-11-30": 23595,
-  "2022-12-01": 23600,
-  "2022-12-02": 23604,
-  "2022-12-03": 23615,
-  "2022-12-04": 23624,
-  "2022-12-05": 23626,
-  "2022-12-06": 23631,
-  "2022-12-07": 23636,
-  "2022-12-08": 23642,
-  "2022-12-09": 23643,
-  "2022-12-10": 23653,
-  "2022-12-11": 23655,
-  "2022-12-12": 23657,
-  "2022-12-13": 23656,
-  "2022-12-14": 23657,
-  "2022-12-15": 23663,
-  "2022-12-16": 23664,
-  "2022-12-17": 23665,
-  "2022-12-18": 23674,
-  "2022-12-19": 23685,
-  "2022-12-20": 23686,
-  "2022-12-21": 23686,
-  "2022-12-22": 23689,
-  "2022-12-24": 23694,
-  "2022-12-25": 23706,
-  "2022-12-26": 23707,
-  "2022-12-27": 23708,
-  "2022-12-28": 23717,
-  "2022-12-29": 23722,
-  "2022-12-30": 23729,
-  "2022-12-31": 23731,
-  "2023-01-01": 23736,
-  "2023-01-02": 23742,
-  "2023-01-03": 23746,
-  "2023-01-04": 23750,
-  "2023-01-05": 23755,
-  "2023-01-06": 23757,
-  "2023-01-07": 23766,
-  "2023-01-08": 23767,
-  "2023-01-09": 23767,
-  "2023-01-10": 23774,
-  "2023-01-11": 23773,
-  "2023-01-12": 23784,
-  "2023-01-13": 23777,
-  "2023-01-14": 23799,
-  "2023-01-15": 23797,
-  "2023-01-16": 23809,
-  "2023-01-17": 23816,
-  "2023-01-18": 23823,
-  "2023-01-19": 23826,
-  "2023-01-20": 23832,
-  "2023-01-21": 23839,
-  "2023-01-22": 23849,
-  "2023-01-23": 23848,
-  "2023-01-24": 23855,
-  "2023-01-25": 23859,
-  "2023-01-26": 23862,
-  "2023-01-27": 23870,
-  "2023-01-28": 23868,
-  "2023-01-29": 23875,
-  "2023-01-30": 23875,
-  "2023-01-31": 23875,
-  "2023-02-01": 23884,
-  "2023-02-02": 23891,
-  "2023-02-03": 23906,
-  "2023-02-04": 23906,
-  "2023-02-05": 23912,
-  "2023-02-06": 23916,
-  "2023-02-07": 23924,
-  "2023-02-08": 23933,
-  "2023-02-09": 23933,
-  "2023-02-10": 23940,
-  "2023-02-11": 23945,
-  "2023-02-12": 23949,
-  "2023-02-13": 23954,
-  "2023-02-14": 23954,
-  "2023-02-15": 23960,
-  "2023-02-16": 23967,
-  "2023-02-17": 23974,
-  "2023-02-18": 23987,
-  "2023-02-19": 23993,
-  "2023-02-20": 23999,
-  "2023-02-21": 24001,
-  "2023-02-22": 24008,
-  "2023-02-23": 24016,
-  "2023-02-24": 24026,
-  "2023-02-25": 24026,
-  "2023-02-26": 24025,
-  "2023-02-27": 24037,
-  "2023-02-28": 24037,
-  "2023-03-01": 24039,
-  "2023-03-02": 24041,
-  "2023-03-03": 24047,
-  "2023-03-04": 24050,
-  "2023-03-05": 24069,
-  "2023-03-06": 24069,
-  "2023-03-07": 24076,
-  "2023-03-08": 24073,
-  "2023-03-09": 24075,
-  "2023-03-10": 24080,
-  "2023-03-11": 24084,
-  "2023-03-12": 24091,
-  "2023-03-13": 24097,
-  "2023-03-14": 24100,
-  "2023-03-15": 24102,
-  "2023-03-16": 24107,
-  "2023-03-17": 24107,
-  "2023-03-18": 24116,
-  "2023-03-19": 24121,
-  "2023-03-20": 24128,
-  "2023-03-21": 24126,
-  "2023-03-22": 24130,
-  "2023-03-23": 24132,
-  "2023-03-24": 24132,
-  "2023-03-25": 24143,
-  "2023-03-26": 24149,
-  "2023-03-27": 24152,
-  "2023-03-28": 24158,
-  "2023-03-29": 24162,
-  "2023-03-30": 24170,
-  "2023-03-31": 24170,
-  "2023-04-01": 24173,
-  "2023-04-02": 24173,
-  "2023-04-03": 24182,
-  "2023-04-04": 24188,
-  "2023-04-05": 24185,
-  "2023-04-06": 24191,
-  "2023-04-07": 24196,
-  "2023-04-09": 24206,
-  "2023-04-10": 24212,
-  "2023-04-11": 24211,
-  "2023-04-12": 24211,
-  "2023-04-13": 24212,
-  "2023-04-14": 24214,
-  "2023-04-15": 24213,
-  "2023-04-16": 24215,
-  "2023-04-17": 24217,
-  "2023-04-18": 24225,
-  "2023-04-19": 24227,
-  "2023-04-20": 24225,
-  "2023-04-21": 24225,
-  "2023-04-22": 24228,
-  "2023-04-23": 24231,
-  "2023-04-24": 24231,
-  "2023-04-25": 24239,
-  "2023-04-26": 24244,
-  "2023-04-27": 24250,
-  "2023-04-28": 24253,
-  "2023-04-29": 24251,
-  "2023-04-30": 24251,
-  "2023-05-01": 24258,
-  "2023-05-02": 24257,
-  "2023-05-03": 24264,
-  "2023-05-04": 24263,
-  "2023-05-05": 24265,
-  "2023-05-06": 24266,
-  "2023-05-07": 24271,
-  "2023-05-08": 24283,
-  "2023-05-09": 24283,
-  "2023-05-10": 24290,
-  "2023-05-11": 24295,
-  "2023-05-12": 24297,
-  "2023-05-13": 24297,
-  "2023-05-14": 24300,
-  "2023-05-15": 24302,
-  "2023-05-16": 24302,
-  "2023-05-17": 24307,
-  "2023-05-18": 24309,
-  "2023-05-19": 24308,
-  "2023-05-20": 24322,
-  "2023-05-21": 24322,
-  "2023-05-22": 24322,
-  "2023-05-23": 24333,
-  "2023-05-24": 24339,
-  "2023-05-25": 24340,
-  "2023-05-26": 24344,
-  "2023-05-27": 24348,
-  "2023-05-28": 24346,
-  "2023-05-29": 24346,
-  "2023-05-30": 24349,
-  "2023-05-31": 24351,
-  "2023-06-01": 24359,
-  "2023-06-02": 24360,
-  "2023-06-03": 24360,
-  "2023-06-04": 24365,
-  "2023-06-05": 24370,
-  "2023-06-06": 24378,
-  "2023-06-07": 24379,
-  "2023-06-08": 24383,
-  "2023-06-09": 24381,
-  "2023-06-10": 24381,
-  "2023-06-11": 24386,
-  "2023-06-12": 24392,
-  "2023-06-13": 24394,
-  "2023-06-14": 24395,
-  "2023-06-15": 24397,
-  "2023-06-16": 24399,
-  "2023-06-17": 24404,
-  "2023-06-18": 24407,
-  "2023-06-19": 24410,
-  "2023-06-20": 24415,
-  "2023-06-21": 24414,
-  "2023-06-22": 24420,
-  "2023-06-23": 24427,
-  "2023-06-24": 24432,
-  "2023-06-25": 24433,
-  "2023-06-26": 24440,
-  "2023-06-27": 24441,
-  "2023-06-28": 24442,
-  "2023-06-29": 24449,
-  "2023-06-30": 24448,
-  "2023-07-01": 24457,
-  "2023-07-02": 24457,
-  "2023-07-03": 24460,
-  "2023-07-04": 24465,
-  "2023-07-05": 24466,
-  "2023-07-06": 24478,
-  "2023-07-07": 24478,
-  "2023-07-08": 24485,
-  "2023-07-09": 24489,
-  "2023-07-10": 24495,
-  "2023-07-11": 24495,
-  "2023-07-12": 24500,
-  "2023-07-13": 24505,
-  "2023-07-14": 24505,
-  "2023-07-15": 24510,
-  "2023-07-16": 24513,
-  "2023-07-17": 24524,
-  "2023-07-18": 24528,
-  "2023-07-19": 24536,
-  "2023-07-20": 24538,
-  "2023-07-21": 24544,
-  "2023-07-22": 24543,
-  "2023-07-23": 24550,
-  "2023-07-24": 24551,
-  "2023-07-25": 24553,
-  "2023-07-26": 24555,
-  "2023-07-27": 24559,
-  "2023-07-28": 24562,
-  "2023-07-29": 24569,
-  "2023-07-30": 24569,
-  "2023-07-31": 24578,
-  "2023-08-01": 24580,
-  "2023-08-02": 24584,
-  "2023-08-03": 24591,
-  "2023-08-04": 24599,
-  "2023-08-05": 24602,
-  "2023-08-06": 24615,
-  "2023-08-07": 24615,
-  "2023-08-08": 24612,
-  "2023-08-09": 24621,
-  "2023-08-10": 24625,
-  "2023-08-11": 24635,
-  "2023-08-12": 24635,
-  "2023-08-13": 24641,
-  "2023-08-14": 24649,
-  "2023-08-15": 24649,
-  "2023-08-16": 24649,
-  "2023-08-17": 24657,
-  "2023-08-18": 24667,
-  "2023-08-19": 24668,
-  "2023-08-20": 24674,
-  "2023-08-21": 24679,
-  "2023-08-22": 24682,
-  "2023-08-23": 24689,
-  "2023-08-24": 24691,
-  "2023-08-25": 24702,
-  "2023-08-26": 24708,
-  "2023-08-27": 24708,
-  "2023-08-28": 24714,
-  "2023-08-29": 24717,
-  "2023-08-30": 24725,
-  "2023-08-31": 24730,
-  "2023-09-01": 24737,
-  "2023-09-02": 24737,
-  "2023-09-03": 24747,
-  "2023-09-04": 24752,
-  "2023-09-05": 24755,
-  "2023-09-06": 24760,
-  "2023-09-07": 24764,
-  "2023-09-08": 24768,
-  "2023-09-09": 24780,
-  "2023-09-10": 24790,
-  "2023-09-11": 24797,
-  "2023-09-12": 24805,
-  "2023-09-13": 24812,
-  "2023-09-14": 24815,
-  "2023-09-15": 24817,
-  "2023-09-16": 24825,
-  "2023-09-17": 24835,
-  "2023-09-18": 24844,
-  "2023-09-19": 24851,
-  "2023-09-20": 24857,
-  "2023-09-21": 24863,
-  "2023-09-22": 24865,
-  "2023-09-23": 24868,
-  "2023-09-24": 24876,
-  "2023-09-25": 24882,
-  "2023-09-26": 24906,
-  "2023-09-27": 24923,
-  "2023-09-28": 24959,
-  "2023-09-29": 24974,
-  "2023-09-30": 25002,
-  "2023-10-01": 25027,
-  "2023-10-02": 25056,
-  "2023-10-03": 25085,
-  "2023-10-04": 25114,
-  "2023-10-05": 25150,
-  "2023-10-06": 25177,
-  "2023-10-07": 25220,
-  "2023-10-08": 25275,
-  "2023-10-09": 25325,
-  "2023-10-10": 25367,
-  "2023-10-11": 25473,
-  "2023-10-12": 25473,
-  "2023-10-13": 25517,
-  "2023-10-14": 25556,
-  "2023-10-15": 25593,
-  "2023-10-16": 25636,
-  "2023-10-17": 25744,
-  "2023-10-18": 25880,
-  "2023-10-19": 26038,
-  "2023-10-20": 26179,
-  "2023-10-21": 26298,
-  "2023-10-22": 26402,
-  "2023-10-23": 26486,
-  "2023-10-24": 26560,
-  "2023-10-25": 26645,
-  "2023-10-26": 26714,
-  "2023-10-27": 26796,
-  "2023-10-28": 26934,
-  "2023-10-29": 27267,
-  "2023-10-30": 27446,
-  "2023-10-31": 27446,
-  "2023-11-01": 27723,
-  "2023-11-02": 27726,
-  "2023-11-03": 27722,
-  "2023-11-04": 27734,
-  "2023-11-05": 27748,
-  "2023-11-06": 27754,
-  "2023-11-07": 27760,
-  "2023-11-08": 27775,
-  "2023-11-09": 27782,
-  "2023-11-10": 27787,
-  "2023-11-11": 27798,
-  "2023-11-12": 27825,
-  "2023-11-13": 27836,
-  "2023-11-14": 27848,
-  "2023-11-15": 27848,
-  "2023-11-16": 27849,
-  "2023-11-17": 27836,
-  "2023-11-18": 27836,
-  "2023-11-19": 27834,
-  "2023-11-20": 27836,
-  "2023-11-21": 27829,
-  "2023-11-22": 27834,
-  "2023-11-23": 27833,
-  "2023-11-24": 27833,
-  "2023-11-25": 27829,
-  "2023-11-26": 27827,
-  "2023-11-27": 27828,
-  "2023-11-28": 27827,
-  "2023-11-29": 27825,
-  "2023-11-30": 27825,
-  "2023-12-01": 27822,
-  "2023-12-02": 27824,
-  "2023-12-03": 27825,
-  "2023-12-04": 27824,
-  "2023-12-05": 27822,
-  "2023-12-06": 27815,
-  "2023-12-07": 27818,
-  "2023-12-08": 27810,
-  "2023-12-09": 27813,
-  "2023-12-10": 27812,
-  "2023-12-11": 27810,
-  "2023-12-12": 27810,
-  "2023-12-13": 27804,
-  "2023-12-14": 27804,
-  "2023-12-15": 27802,
-  "2023-12-16": 27800,
-  "2023-12-17": 27798,
-  "2023-12-18": 27802,
-  "2023-12-19": 27802,
-  "2023-12-20": 27803,
-  "2023-12-21": 27799,
-  "2023-12-22": 27798,
-  "2023-12-23": 27799,
-  "2023-12-24": 27799,
-  "2023-12-25": 27804,
-  "2023-12-26": 27807,
-  "2023-12-27": 27808,
-  "2023-12-30": 27806,
-  "2023-12-31": 27807,
-  "2024-01-01": 27808,
-  "2024-01-02": 27806,
-  "2024-01-03": 27803
+  "2024-01-17": 27770,
+  "date_first_scraped": "2021-12-21",
+  "description": "Don't spill your popcorn... these scary movie themes will scare the bejeezus out of you!",
+  "name": "Fright Fest",
+  "tracks": [
+    {
+      "album": {
+        "name": "Horror Movie Themes",
+        "url": "https://open.spotify.com/album/6Chs33S4yeaFZn5HDI6g5S"
+      },
+      "artists": [
+        {
+          "name": "Spooky Orchestra",
+          "url": "https://open.spotify.com/artist/2UBjlPiaNy9vMWp3mabXTW"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127360,
+      "name": "A Nightmare On Elm Street",
+      "url": "https://open.spotify.com/track/6St1IyTh829WEWRP1wXVXc"
+    },
+    {
+      "album": {
+        "name": "Var\u00e8se Sarabande: 40 Years of Great Film Music 1978-2018",
+        "url": "https://open.spotify.com/album/4KutdJWvtiOQwTbGxK2DXU"
+      },
+      "artists": [
+        {
+          "name": "Jerry Goldsmith",
+          "url": "https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 154920,
+      "name": "Ave Satani - From \"The Omen\"",
+      "url": "https://open.spotify.com/track/35SNWrNveMTGBleOQ0i97l"
+    },
+    {
+      "album": {
+        "name": "The Omen (The Deluxe Edition / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mt098QxrMToyd5GIbJzdm"
+      },
+      "artists": [
+        {
+          "name": "Jerry Goldsmith",
+          "url": "https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155760,
+      "name": "Ave Satani - From \"The Omen\"",
+      "url": "https://open.spotify.com/track/2n2Uugl3wR9s2pYjIKbbL9"
+    },
+    {
+      "album": {
+        "name": "Jeepers Creepers (Score)",
+        "url": "https://open.spotify.com/album/1tDx9id2MipEJLN5MVYhHk"
+      },
+      "artists": [
+        {
+          "name": "Bennett Salvay",
+          "url": "https://open.spotify.com/artist/1lWGijAqSCPZNmxnq1Yv9O"
+        },
+        {
+          "name": "Victor Salva",
+          "url": "https://open.spotify.com/artist/1BID9hmfIGrMMfjMLPByDU"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "Creeper's Tale (From \"Jeepers Creepers\")",
+      "url": "https://open.spotify.com/track/3q7ssMXeWyeoPyTGsqOUpO"
+    },
+    {
+      "album": {
+        "name": "The Descent",
+        "url": "https://open.spotify.com/album/6uMeD1KqvgJal9rGSa55Ml"
+      },
+      "artists": [
+        {
+          "name": "David Julyan",
+          "url": "https://open.spotify.com/artist/1zkJxFjrO1fE8teyro4C3I"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174333,
+      "name": "Down The Pipe",
+      "url": "https://open.spotify.com/track/2KuDGIejkCwPV00plTqiej"
+    },
+    {
+      "album": {
+        "name": "The Descent - Original Film Soundtrack",
+        "url": "https://open.spotify.com/album/4vBUedgDbjIGu2El09pwBJ"
+      },
+      "artists": [
+        {
+          "name": "David Julyan",
+          "url": "https://open.spotify.com/artist/1zkJxFjrO1fE8teyro4C3I"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "Down the Pipe",
+      "url": "https://open.spotify.com/track/5HhLdKwIy2ZpuX8yjZpWm6"
+    },
+    {
+      "album": {
+        "name": "Bram Stoker's Dracula: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Kilar",
+          "url": "https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400866,
+      "name": "Dracula- The Beginning",
+      "url": "https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1"
+    },
+    {
+      "album": {
+        "name": "IT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36400,
+      "name": "Epilogue - The Pennywise Dance",
+      "url": "https://open.spotify.com/track/3UJWTHeEruyf2rWAf518hf"
+    },
+    {
+      "album": {
+        "name": "A Nightmare On Elm Street: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/0btrQddJBGxVVJXJCkv7Sm"
+      },
+      "artists": [
+        {
+          "name": "Steve Jablonsky",
+          "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268826,
+      "name": "Freddy's Coming for You",
+      "url": "https://open.spotify.com/track/0o1SKUvwGAFZ3km9ZMDXoT"
+    },
+    {
+      "album": {
+        "name": "A Nightmare On Elm Street (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2zlfecPiJHlK9pBWOQNQVf"
+      },
+      "artists": [
+        {
+          "name": "Steve Jablonsky",
+          "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268826,
+      "name": "Freddy's Coming For You",
+      "url": "https://open.spotify.com/track/5jYaqMXbUXyUk9VQgOWR4K"
+    },
+    {
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "album": {
+        "name": "Halloween Monster Collection - 55 Classic Tracks from the Best Scary Movies",
+        "url": "https://open.spotify.com/album/1rLvz13VSlwKUdA4DVYwec"
+      },
+      "artists": [
+        {
+          "name": "Sacre",
+          "url": "https://open.spotify.com/artist/3ufml7IesKyMSlLYDFtCM9"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 61506,
+      "name": "Main Theme from \"The Twilight Zone\" - Cover Version",
+      "url": "https://open.spotify.com/track/1kVUH8NaVztttLE38uZ567"
+    },
+    {
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/0kRM4B6TRITAcjLebvS12N"
+      },
+      "artists": [
+        {
+          "name": "Jerry Goldsmith",
+          "url": "https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252186,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/3mgO7YAlNvmGoZNEaEjfaA"
+    },
+    {
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/2ubcKYeOHGJ5UHHNBAuaKb"
+      },
+      "artists": [
+        {
+          "name": "Jerry Goldsmith",
+          "url": "https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252186,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/4Rhue1CTPr3n1P3Zs0jPwU"
+    },
+    {
+      "album": {
+        "name": "Jaws (The Collector's Edition Soundtrack)",
+        "url": "https://open.spotify.com/album/6qUytVWmtw4xh2tjCv39GE"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Main Title And First Victim",
+      "url": "https://open.spotify.com/track/1g10rYqM3jJQsWRnXCFcx7"
+    },
+    {
+      "album": {
+        "name": "Friday the 13th (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5pI4R0WAaQLHywFINSqaHl"
+      },
+      "artists": [
+        {
+          "name": "Harry Manfredini",
+          "url": "https://open.spotify.com/artist/7JDEsW5jacLggSSdqqWpdu"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Overlay of Evil / Main Title",
+      "url": "https://open.spotify.com/track/1bBvch0ad2VfBuPUXJTV8I"
+    },
+    {
+      "album": {
+        "name": "99 Must-Have Halloween Classics",
+        "url": "https://open.spotify.com/album/0b9hNMy12w8qGs8eYNwM1L"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127493,
+      "name": "Psycho Suite",
+      "url": "https://open.spotify.com/track/2AfA142FyTrSA58SArYR5r"
+    },
+    {
+      "album": {
+        "name": "Halloween Themes / Horror Movie Music That Will Scare You More Than Sound Fx",
+        "url": "https://open.spotify.com/album/0ZbEWtaLdNW3MNbeFf7ZVf"
+      },
+      "artists": [
+        {
+          "name": "Halloween",
+          "url": "https://open.spotify.com/artist/5Ure3b6cjh5Gk29qg82eym"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62293,
+      "name": "Psycho Theme ( Bernard Herman - Ensign Music )",
+      "url": "https://open.spotify.com/track/40cXtLMqZo33qFeY2uVhFn"
+    },
+    {
+      "album": {
+        "name": "Re-Animator: Prologue and Main Title",
+        "url": "https://open.spotify.com/album/2HNiURAevNka5UetR9us36"
+      },
+      "artists": [
+        {
+          "name": "Richard Band",
+          "url": "https://open.spotify.com/artist/0TXK10MEUmsJGH4lMosMiT"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "Reanimator Prologue & Main Title",
+      "url": "https://open.spotify.com/track/6w8V10yvjN3cU9iqJYwXqq"
+    },
+    {
+      "album": {
+        "name": "The Fog (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/4fxuoOfryOYbq6UXsb0Ani"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 656573,
+      "name": "Reel 9",
+      "url": "https://open.spotify.com/track/1Y61rEEjZfAoM19LA2UTkQ"
+    },
+    {
+      "album": {
+        "name": "The Fog (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1T9FXEBAlOOUvwNxjI2Jad"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 656573,
+      "name": "Reel 9",
+      "url": "https://open.spotify.com/track/1pRGFSv1jsiVsTLMSTpQRB"
+    },
+    {
+      "album": {
+        "name": "The Fog (Original Motion Picture Soundtrack / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0r0lUqzO9oZYlTmyqSHUwj"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 656573,
+      "name": "Reel 9",
+      "url": "https://open.spotify.com/track/42GFFFw4gMMefVth1lmAit"
+    },
+    {
+      "album": {
+        "name": "The Fog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29MYWk2vo7Q3UEV5hAdyPz"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 658040,
+      "name": "Reel 9",
+      "url": "https://open.spotify.com/track/3EvFms36jvks6vjMpXHf7l"
+    },
+    {
+      "album": {
+        "name": "The Sixth Sense (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81693,
+      "name": "Run To The Church",
+      "url": "https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK"
+    },
+    {
+      "album": {
+        "name": "Eraserhead Soundtrack",
+        "url": "https://open.spotify.com/album/0dWqp2IrTBMumfADclgSJz"
+      },
+      "artists": [
+        {
+          "name": "David Lynch",
+          "url": "https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI"
+        },
+        {
+          "name": "Alan R. Splet",
+          "url": "https://open.spotify.com/artist/55AfCsXWthqoG9dDIGqVrD"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1208825,
+      "name": "Side A",
+      "url": "https://open.spotify.com/track/4hRKUei7qAK1kOth7cPaim"
+    },
+    {
+      "album": {
+        "name": "Eraserhead Soundtrack",
+        "url": "https://open.spotify.com/album/1l0NtS7ohVK9xqByCKVSlQ"
+      },
+      "artists": [
+        {
+          "name": "David Lynch & Alan R. Splet",
+          "url": "https://open.spotify.com/artist/29O0eYoRjupuO4wth6D0k7"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1208825,
+      "name": "Side A",
+      "url": "https://open.spotify.com/track/4s7BAf0bNlxyANBVVPRLKt"
+    },
+    {
+      "album": {
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67520,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf"
+    },
+    {
+      "album": {
+        "name": "Suspiria",
+        "url": "https://open.spotify.com/album/66X1aX8OnQZROjTlxHWYtg"
+      },
+      "artists": [
+        {
+          "name": "Goblin",
+          "url": "https://open.spotify.com/artist/7H92g6n1BvyzvQwaERZKZl"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362306,
+      "name": "Suspiria - Originale",
+      "url": "https://open.spotify.com/track/0DrihQ3QVHvYbdpPKCUmoN"
+    },
+    {
+      "album": {
+        "name": "The Omen - Deluxe Edition",
+        "url": "https://open.spotify.com/album/5wuC3fOv5p1g4GgIpoNHHt"
+      },
+      "artists": [
+        {
+          "name": "Jerry Goldsmith",
+          "url": "https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155760,
+      "name": "The Omen - Ave Santani",
+      "url": "https://open.spotify.com/track/2FjW6XLCZCQORjl2RQpIMP"
+    },
+    {
+      "album": {
+        "name": "HORROR MOVIE BEST SELECTION - FRIDAY THE 13TH -",
+        "url": "https://open.spotify.com/album/3YAiVfJ5pp30Sgq62GieHQ"
+      },
+      "artists": [
+        {
+          "name": "101 Strings Orchestra",
+          "url": "https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175464,
+      "name": "THE SHINING",
+      "url": "https://open.spotify.com/track/5CLs2ZsEMPVSEgWOD3sVFE"
+    },
+    {
+      "album": {
+        "name": "Shock",
+        "url": "https://open.spotify.com/album/7d38p5xz6uCm4PZInK3EmA"
+      },
+      "artists": [
+        {
+          "name": "Libra",
+          "url": "https://open.spotify.com/artist/5NcUfLgHkxGWEUgG30Rkz2"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250493,
+      "name": "The Shock",
+      "url": "https://open.spotify.com/track/7ywQ5kMHhMIzPnq1pWnx4P"
+    },
+    {
+      "album": {
+        "name": "Shock (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2Za0FtIVPP7xQI1IxyK9NP"
+      },
+      "artists": [
+        {
+          "name": "Libra",
+          "url": "https://open.spotify.com/artist/40TMqq78lcuRecnDO2PaYG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250496,
+      "name": "The Shock",
+      "url": "https://open.spotify.com/track/5dBCwVCqra4ld5e0mXKI84"
+    },
+    {
+      "album": {
+        "name": "TV Hits Volume 1",
+        "url": "https://open.spotify.com/album/472xZX7rmaZUFgybcruPwd"
+      },
+      "artists": [
+        {
+          "name": "Twilight Zone",
+          "url": "https://open.spotify.com/artist/3zE4ZIzz0ygvpSr9tkrv6v"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 53800,
+      "name": "The Twilight Zone",
+      "url": "https://open.spotify.com/track/5u72Vlsj6XLEOvx5TLTJMC"
+    },
+    {
+      "album": {
+        "name": "Halloween's Gravest Hits",
+        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
+      },
+      "artists": [
+        {
+          "name": "The Ventures",
+          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
+        },
+        {
+          "name": "Kevin Reeves",
+          "url": "https://open.spotify.com/artist/3hXPNhCTXeyEnwwrXHpMNC"
+        },
+        {
+          "name": "Ron Furmanek",
+          "url": "https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "The Twilight Zone - Remastered 1992",
+      "url": "https://open.spotify.com/track/2pdqaNUADr4vkmml8wveJd"
+    },
+    {
+      "album": {
+        "name": "Theme from \"Beetlejuice: The Animated Series\" by Danny Elfman",
+        "url": "https://open.spotify.com/album/13wjqvHMQ6xDJ0JpEHWvln"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hauser",
+          "url": "https://open.spotify.com/artist/4MTfVjZzx72caVcbCjUK73"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61367,
+      "name": "Theme from \"Beetlejuice: The Animated Series\" by Danny Elfman",
+      "url": "https://open.spotify.com/track/1r8fZ2HxjBWDEvs7lqXWAJ"
+    },
+    {
+      "album": {
+        "name": "80 Great Movie Themes",
+        "url": "https://open.spotify.com/album/2x9EQrzdD7mkgoR7EsOEpu"
+      },
+      "artists": [
+        {
+          "name": "Soundtrack & Theme Orchestra",
+          "url": "https://open.spotify.com/artist/4qtXySh4WzqEPoeZ0tnyNj"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173680,
+      "name": "Theme From The Shining",
+      "url": "https://open.spotify.com/track/0MtSRAb1ELE19QvKBumQqy"
+    },
+    {
+      "album": {
+        "name": "Most Amazing Movie, Musical & TV Themes, Vol. 4",
+        "url": "https://open.spotify.com/album/6D5CjrqVr40B0wjL1Mf904"
+      },
+      "artists": [
+        {
+          "name": "Orlando Pops Orchestra",
+          "url": "https://open.spotify.com/artist/5XH7RieKeVpt2zcr1yOMaS"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 173680,
+      "name": "Theme from The Shining - From The Shining",
+      "url": "https://open.spotify.com/track/45EsuvNDt2juEytk79BZkB"
+    },
+    {
+      "album": {
+        "name": "Twin Peaks: Fire Walk With Me - Soundtrack",
+        "url": "https://open.spotify.com/album/7KTThkarRqhJX5DVkDOo7Z"
+      },
+      "artists": [
+        {
+          "name": "Angelo Badalamenti",
+          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406133,
+      "name": "Theme from Twin Peaks - Fire Walk with Me",
+      "url": "https://open.spotify.com/track/6ov87ZmFzA62REV8KrbWXj"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "This is Halloween",
+      "url": "https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD"
+    },
+    {
+      "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/1AQGra8TF7PX94whCy7tsY"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Tubular Bells - Opening Theme / From \"The Exorcist\"",
+      "url": "https://open.spotify.com/track/2hJyhHWeDrnTuy24TtD4sd"
+    },
+    {
+      "album": {
+        "name": "Halloween 18 Trick Or Treat Greats",
+        "url": "https://open.spotify.com/album/0xN2Y2GiDdW6uT4AlgXzDE"
+      },
+      "artists": [
+        {
+          "name": "Halloween Tricksters",
+          "url": "https://open.spotify.com/artist/2EghgP7EJUPg82OPWMZM9P"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56333,
+      "name": "Twlight Zone",
+      "url": "https://open.spotify.com/track/6WjHCLbxvuab3pd5JvOKU9"
+    },
+    {
+      "album": {
+        "name": "Paranormal Activity",
+        "url": "https://open.spotify.com/album/7HuR76g5Rpg6vWaFhNB0Go"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Pictures Orchestra",
+          "url": "https://open.spotify.com/artist/0YuFB8lqApvW7rZMm9gSjU"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "X-Files - Theme",
+      "url": "https://open.spotify.com/track/67AxhHs7ur6AlOkx95hZRh"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6dCTsdzLHOw"
 }

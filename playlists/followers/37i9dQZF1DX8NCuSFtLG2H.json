@@ -1,584 +1,2931 @@
 {
-  "2022-05-26": 38517,
-  "2022-05-27": 38589,
-  "2022-05-28": 38631,
-  "2022-05-29": 38685,
-  "2022-05-30": 38747,
-  "2022-05-31": 38791,
-  "2022-06-01": 38882,
-  "2022-06-02": 38890,
-  "2022-06-03": 38945,
-  "2022-06-04": 38986,
-  "2022-06-05": 39035,
-  "2022-06-06": 39085,
-  "2022-06-07": 39134,
-  "2022-06-08": 39199,
-  "2022-06-09": 39255,
-  "2022-06-10": 39299,
-  "2022-06-11": 39340,
-  "2022-06-12": 39394,
-  "2022-06-13": 39452,
-  "2022-06-14": 39487,
-  "2022-06-15": 39531,
-  "2022-06-16": 39580,
-  "2022-06-17": 39625,
-  "2022-06-18": 39684,
-  "2022-06-19": 39765,
-  "2022-06-20": 39765,
-  "2022-06-21": 39813,
-  "2022-06-22": 39915,
-  "2022-06-23": 39915,
-  "2022-06-24": 39960,
-  "2022-06-25": 40005,
-  "2022-06-26": 40049,
-  "2022-06-27": 40091,
-  "2022-06-28": 40143,
-  "2022-06-29": 40215,
-  "2022-06-30": 40270,
-  "2022-07-01": 40323,
-  "2022-07-02": 40376,
-  "2022-07-03": 40416,
-  "2022-07-04": 40466,
-  "2022-07-05": 40541,
-  "2022-07-06": 40605,
-  "2022-07-07": 40653,
-  "2022-07-08": 40705,
-  "2022-07-09": 40773,
-  "2022-07-10": 40827,
-  "2022-07-11": 40878,
-  "2022-07-12": 40944,
-  "2022-07-13": 40998,
-  "2022-07-14": 41043,
-  "2022-07-15": 41101,
-  "2022-07-16": 41167,
-  "2022-07-17": 41232,
-  "2022-07-18": 41292,
-  "2022-07-19": 41351,
-  "2022-07-20": 41410,
-  "2022-07-21": 41447,
-  "2022-07-22": 41492,
-  "2022-07-23": 41541,
-  "2022-07-24": 41598,
-  "2022-07-25": 41673,
-  "2022-07-26": 41717,
-  "2022-07-27": 41767,
-  "2022-07-28": 41846,
-  "2022-07-29": 41915,
-  "2022-07-30": 42019,
-  "2022-07-31": 42019,
-  "2022-08-01": 42082,
-  "2022-08-02": 42189,
-  "2022-08-03": 42189,
-  "2022-08-04": 42240,
-  "2022-08-05": 42281,
-  "2022-08-06": 42341,
-  "2022-08-07": 42400,
-  "2022-08-08": 42454,
-  "2022-08-09": 42527,
-  "2022-08-10": 42592,
-  "2022-08-11": 42647,
-  "2022-08-12": 42692,
-  "2022-08-13": 42767,
-  "2022-08-14": 42851,
-  "2022-08-15": 42921,
-  "2022-08-16": 42996,
-  "2022-08-17": 43062,
-  "2022-08-18": 43138,
-  "2022-08-19": 43195,
-  "2022-08-20": 43239,
-  "2022-08-21": 43300,
-  "2022-08-22": 43370,
-  "2022-08-23": 43437,
-  "2022-08-24": 43498,
-  "2022-08-25": 43552,
-  "2022-08-26": 43630,
-  "2022-08-27": 43688,
-  "2022-08-28": 43752,
-  "2022-08-29": 43808,
-  "2022-08-30": 43848,
-  "2022-08-31": 43861,
-  "2022-09-01": 43867,
-  "2022-09-02": 43880,
-  "2022-09-03": 43842,
-  "2022-09-04": 43847,
-  "2022-09-05": 43906,
-  "2022-09-06": 43990,
-  "2022-09-07": 44037,
-  "2022-09-09": 44150,
-  "2022-09-10": 44200,
-  "2022-09-11": 44257,
-  "2022-09-12": 44333,
-  "2022-09-13": 44378,
-  "2022-09-15": 44490,
-  "2022-09-16": 44549,
-  "2022-09-17": 44599,
-  "2022-09-18": 44660,
-  "2022-09-19": 44721,
-  "2022-09-20": 44780,
-  "2022-09-21": 44838,
-  "2022-09-22": 44894,
-  "2022-09-23": 44961,
-  "2022-09-24": 45020,
-  "2022-09-25": 45077,
-  "2022-09-26": 45154,
-  "2022-09-27": 45223,
-  "2022-09-28": 45298,
-  "2022-09-29": 45373,
-  "2022-09-30": 45428,
-  "2022-10-01": 45484,
-  "2022-10-02": 45550,
-  "2022-10-03": 45629,
-  "2022-10-04": 45700,
-  "2022-10-05": 45768,
-  "2022-10-06": 45823,
-  "2022-10-07": 45880,
-  "2022-10-08": 45952,
-  "2022-10-09": 46070,
-  "2022-10-10": 46088,
-  "2022-10-11": 46155,
-  "2022-10-12": 46205,
-  "2022-10-13": 46266,
-  "2022-10-14": 46325,
-  "2022-10-15": 46370,
-  "2022-10-16": 46423,
-  "2022-10-17": 46475,
-  "2022-10-18": 46513,
-  "2022-10-19": 46562,
-  "2022-10-20": 46609,
-  "2022-10-21": 46667,
-  "2022-10-22": 46737,
-  "2022-10-23": 46805,
-  "2022-10-24": 46860,
-  "2022-10-25": 46928,
-  "2022-10-26": 46993,
-  "2022-10-27": 47048,
-  "2022-10-28": 47106,
-  "2022-10-29": 47178,
-  "2022-10-30": 47249,
-  "2022-10-31": 47323,
-  "2022-11-01": 47384,
-  "2022-11-02": 47452,
-  "2022-11-03": 47505,
-  "2022-11-04": 47551,
-  "2022-11-05": 47613,
-  "2022-11-06": 47695,
-  "2022-11-07": 47766,
-  "2022-11-08": 47831,
-  "2022-11-09": 47908,
-  "2022-11-10": 47974,
-  "2022-11-11": 48028,
-  "2022-11-12": 48086,
-  "2022-11-13": 48153,
-  "2022-11-14": 48387,
-  "2022-11-15": 48603,
-  "2022-11-16": 48694,
-  "2022-11-17": 48782,
-  "2022-11-18": 48812,
-  "2022-11-19": 48839,
-  "2022-11-20": 48914,
-  "2022-11-21": 48985,
-  "2022-11-22": 49081,
-  "2022-11-23": 49161,
-  "2022-11-24": 49316,
-  "2022-11-25": 49432,
-  "2022-11-26": 49523,
-  "2022-11-27": 49610,
-  "2022-11-28": 49691,
-  "2022-11-29": 49782,
-  "2022-11-30": 49852,
-  "2022-12-01": 49928,
-  "2022-12-02": 49979,
-  "2022-12-03": 50056,
-  "2022-12-04": 50143,
-  "2022-12-05": 50220,
-  "2022-12-06": 50288,
-  "2022-12-07": 50367,
-  "2022-12-08": 50425,
-  "2022-12-09": 50483,
-  "2022-12-10": 50541,
-  "2022-12-11": 50617,
-  "2022-12-12": 50685,
-  "2022-12-13": 50763,
-  "2022-12-14": 50809,
-  "2022-12-15": 50883,
-  "2022-12-16": 50958,
-  "2022-12-17": 51026,
-  "2022-12-18": 51095,
-  "2022-12-19": 51153,
-  "2022-12-20": 51303,
-  "2022-12-21": 51303,
-  "2022-12-22": 51366,
-  "2022-12-24": 51479,
-  "2022-12-25": 51545,
-  "2022-12-26": 51623,
-  "2022-12-27": 51763,
-  "2022-12-28": 51848,
-  "2022-12-29": 51911,
-  "2022-12-30": 51970,
-  "2022-12-31": 52028,
-  "2023-01-01": 52082,
-  "2023-01-02": 52153,
-  "2023-01-03": 52221,
-  "2023-01-04": 52282,
-  "2023-01-05": 52357,
-  "2023-01-06": 52433,
-  "2023-01-07": 52535,
-  "2023-01-08": 52551,
-  "2023-01-09": 52633,
-  "2023-01-10": 52714,
-  "2023-01-11": 52766,
-  "2023-01-12": 52839,
-  "2023-01-13": 52917,
-  "2023-01-14": 53020,
-  "2023-01-15": 53027,
-  "2023-01-16": 53097,
-  "2023-01-17": 53149,
-  "2023-01-18": 53204,
-  "2023-01-19": 53261,
-  "2023-01-20": 53320,
-  "2023-01-21": 53389,
-  "2023-01-22": 53473,
-  "2023-01-23": 53551,
-  "2023-01-24": 53614,
-  "2023-01-25": 53681,
-  "2023-01-26": 53747,
-  "2023-01-27": 53820,
-  "2023-01-28": 53873,
-  "2023-01-29": 53950,
-  "2023-01-30": 54034,
-  "2023-01-31": 54034,
-  "2023-02-01": 54163,
-  "2023-02-02": 54215,
-  "2023-02-03": 54276,
-  "2023-02-04": 54337,
-  "2023-02-05": 54396,
-  "2023-02-06": 54468,
-  "2023-02-07": 54529,
-  "2023-02-08": 54644,
-  "2023-02-09": 54644,
-  "2023-02-10": 54702,
-  "2023-02-11": 54766,
-  "2023-02-12": 54910,
-  "2023-02-13": 54960,
-  "2023-02-14": 54960,
-  "2023-02-15": 55031,
-  "2023-02-16": 55095,
-  "2023-02-17": 55162,
-  "2023-02-18": 55275,
-  "2023-02-19": 55284,
-  "2023-02-20": 55348,
-  "2023-02-21": 55401,
-  "2023-02-22": 55461,
-  "2023-02-23": 55520,
-  "2023-02-24": 55576,
-  "2023-02-25": 55649,
-  "2023-02-26": 55687,
-  "2023-02-27": 55796,
-  "2023-02-28": 55796,
-  "2023-03-01": 55858,
-  "2023-03-02": 55923,
-  "2023-03-03": 55994,
-  "2023-03-04": 56058,
-  "2023-03-05": 56185,
-  "2023-03-06": 56185,
-  "2023-03-07": 56247,
-  "2023-03-08": 56294,
-  "2023-03-09": 56335,
-  "2023-03-10": 56377,
-  "2023-03-11": 56418,
-  "2023-03-12": 56490,
-  "2023-03-13": 56555,
-  "2023-03-14": 56607,
-  "2023-03-15": 56656,
-  "2023-03-16": 56713,
-  "2023-03-17": 56713,
-  "2023-03-18": 56828,
-  "2023-03-19": 56897,
-  "2023-03-20": 56952,
-  "2023-03-21": 57027,
-  "2023-03-22": 57082,
-  "2023-03-23": 57150,
-  "2023-03-24": 57150,
-  "2023-03-25": 57267,
-  "2023-03-26": 57349,
-  "2023-03-27": 57416,
-  "2023-03-28": 57486,
-  "2023-03-29": 57568,
-  "2023-03-30": 57664,
-  "2023-03-31": 57664,
-  "2023-04-01": 57720,
-  "2023-04-02": 57799,
-  "2023-04-03": 57854,
-  "2023-04-04": 57909,
-  "2023-04-05": 57956,
-  "2023-04-06": 58022,
-  "2023-04-07": 58081,
-  "2023-04-09": 58207,
-  "2023-04-10": 58278,
-  "2023-04-11": 58373,
-  "2023-04-12": 58373,
-  "2023-04-13": 58428,
-  "2023-04-14": 58479,
-  "2023-04-15": 58530,
-  "2023-04-16": 58604,
-  "2023-04-17": 58671,
-  "2023-04-18": 58727,
-  "2023-04-19": 58791,
-  "2023-04-20": 58851,
-  "2023-04-21": 58914,
-  "2023-04-22": 58977,
-  "2023-04-23": 59059,
-  "2023-04-24": 59148,
-  "2023-04-25": 59211,
-  "2023-04-26": 59269,
-  "2023-04-27": 59337,
-  "2023-04-28": 59403,
-  "2023-04-29": 59463,
-  "2023-04-30": 59530,
-  "2023-05-01": 59598,
-  "2023-05-02": 59657,
-  "2023-05-03": 59715,
-  "2023-05-04": 59762,
-  "2023-05-05": 59827,
-  "2023-05-06": 59883,
-  "2023-05-07": 59976,
-  "2023-05-08": 60038,
-  "2023-05-09": 60085,
-  "2023-05-10": 60130,
-  "2023-05-11": 60200,
-  "2023-05-12": 60262,
-  "2023-05-13": 60308,
-  "2023-05-14": 60377,
-  "2023-05-15": 60428,
-  "2023-05-16": 60498,
-  "2023-05-17": 60574,
-  "2023-05-18": 60623,
-  "2023-05-19": 60706,
-  "2023-05-20": 60812,
-  "2023-05-21": 60812,
-  "2023-05-22": 60812,
-  "2023-05-23": 60943,
-  "2023-05-24": 61065,
-  "2023-05-25": 61082,
-  "2023-05-26": 61134,
-  "2023-05-27": 61177,
-  "2023-05-28": 61226,
-  "2023-05-29": 61226,
-  "2023-05-30": 61337,
-  "2023-05-31": 61392,
-  "2023-06-01": 61460,
-  "2023-06-02": 61501,
-  "2023-06-03": 61543,
-  "2023-06-04": 61620,
-  "2023-06-05": 61689,
-  "2023-06-06": 61743,
-  "2023-06-07": 61801,
-  "2023-06-08": 61865,
-  "2023-06-09": 61928,
-  "2023-06-10": 61986,
-  "2023-06-11": 62056,
-  "2023-06-12": 62121,
-  "2023-06-13": 62175,
-  "2023-06-14": 62175,
-  "2023-06-15": 62291,
-  "2023-06-16": 62353,
-  "2023-06-17": 62418,
-  "2023-06-18": 62491,
-  "2023-06-19": 62564,
-  "2023-06-20": 62606,
-  "2023-06-21": 62660,
-  "2023-06-22": 62712,
-  "2023-06-23": 62765,
-  "2023-06-24": 62831,
-  "2023-06-25": 62876,
-  "2023-06-26": 62928,
-  "2023-06-27": 62982,
-  "2023-06-28": 63038,
-  "2023-06-29": 63090,
-  "2023-06-30": 63148,
-  "2023-07-01": 63238,
-  "2023-07-02": 63238,
-  "2023-07-03": 63301,
-  "2023-07-04": 63341,
-  "2023-07-05": 63392,
-  "2023-07-06": 63496,
-  "2023-07-07": 63496,
-  "2023-07-08": 63533,
-  "2023-07-09": 63564,
-  "2023-07-10": 63610,
-  "2023-07-11": 63651,
-  "2023-07-12": 63708,
-  "2023-07-13": 63755,
-  "2023-07-14": 63809,
-  "2023-07-15": 63857,
-  "2023-07-16": 63932,
-  "2023-07-17": 63998,
-  "2023-07-18": 64033,
-  "2023-07-19": 64093,
-  "2023-07-20": 64150,
-  "2023-07-21": 64204,
-  "2023-07-22": 64268,
-  "2023-07-23": 64312,
-  "2023-07-24": 64393,
-  "2023-07-25": 64436,
-  "2023-07-26": 64493,
-  "2023-07-27": 64528,
-  "2023-07-28": 64584,
-  "2023-07-29": 64644,
-  "2023-07-30": 64700,
-  "2023-07-31": 64766,
-  "2023-08-01": 64815,
-  "2023-08-02": 64874,
-  "2023-08-03": 64937,
-  "2023-08-04": 64985,
-  "2023-08-05": 65051,
-  "2023-08-06": 65287,
-  "2023-08-07": 65287,
-  "2023-08-08": 65388,
-  "2023-08-09": 65449,
-  "2023-08-10": 65501,
-  "2023-08-11": 65546,
-  "2023-08-12": 65605,
-  "2023-08-13": 65675,
-  "2023-08-14": 65742,
-  "2023-08-15": 65862,
-  "2023-08-16": 65862,
-  "2023-08-17": 65929,
-  "2023-08-18": 65975,
-  "2023-08-19": 66041,
-  "2023-08-20": 66092,
-  "2023-08-21": 66161,
-  "2023-08-22": 66215,
-  "2023-08-23": 66262,
-  "2023-08-24": 66306,
-  "2023-08-25": 66356,
-  "2023-08-26": 66405,
-  "2023-08-27": 66464,
-  "2023-08-28": 66520,
-  "2023-08-29": 66578,
-  "2023-08-30": 66636,
-  "2023-08-31": 66670,
-  "2023-09-01": 66757,
-  "2023-09-02": 66757,
-  "2023-09-03": 66793,
-  "2023-09-04": 66848,
-  "2023-09-05": 66885,
-  "2023-09-06": 66943,
-  "2023-09-07": 66988,
-  "2023-09-08": 67033,
-  "2023-09-09": 67102,
-  "2023-09-10": 67160,
-  "2023-09-11": 67232,
-  "2023-09-12": 67281,
-  "2023-09-13": 67342,
-  "2023-09-14": 67387,
-  "2023-09-15": 67427,
-  "2023-09-16": 67476,
-  "2023-09-17": 67534,
-  "2023-09-18": 67594,
-  "2023-09-19": 67641,
-  "2023-09-20": 67680,
-  "2023-09-21": 67720,
-  "2023-09-22": 67764,
-  "2023-09-23": 67813,
-  "2023-09-24": 67872,
-  "2023-09-25": 67923,
-  "2023-09-26": 67974,
-  "2023-09-27": 68007,
-  "2023-09-28": 68058,
-  "2023-09-29": 68099,
-  "2023-09-30": 68149,
-  "2023-10-01": 68203,
-  "2023-10-02": 68255,
-  "2023-10-03": 68305,
-  "2023-10-04": 68359,
-  "2023-10-05": 68390,
-  "2023-10-06": 68441,
-  "2023-10-07": 68492,
-  "2023-10-08": 68592,
-  "2023-10-09": 68680,
-  "2023-10-10": 68735,
-  "2023-10-11": 68825,
-  "2023-10-12": 68825,
-  "2023-10-13": 68862,
-  "2023-10-14": 68907,
-  "2023-10-15": 68971,
-  "2023-10-16": 69019,
-  "2023-10-17": 69058,
-  "2023-10-18": 69087,
-  "2023-10-19": 69135,
-  "2023-10-20": 69173,
-  "2023-10-21": 69231,
-  "2023-10-22": 69267,
-  "2023-10-23": 69303,
-  "2023-10-24": 69345,
-  "2023-10-25": 69389,
-  "2023-10-26": 69438,
-  "2023-10-27": 69493,
-  "2023-10-28": 69493,
-  "2023-10-29": 69594,
-  "2023-10-30": 69645,
-  "2023-10-31": 69645,
-  "2023-11-01": 69734,
-  "2023-11-02": 69775,
-  "2023-11-03": 69816,
-  "2023-11-04": 69863,
-  "2023-11-05": 69907,
-  "2023-11-06": 69969,
-  "2023-11-07": 70027,
-  "2023-11-08": 70077,
-  "2023-11-09": 70125,
-  "2023-11-10": 70192,
-  "2023-11-11": 70254,
-  "2023-11-12": 70300,
-  "2023-11-13": 70360,
-  "2023-11-14": 70412,
-  "2023-11-15": 70412,
-  "2023-11-16": 70500,
-  "2023-11-17": 70579,
-  "2023-11-18": 70579,
-  "2023-11-19": 70636,
-  "2023-11-20": 70679,
-  "2023-11-21": 70749,
-  "2023-11-22": 70780,
-  "2023-11-23": 70834,
-  "2023-11-24": 70834,
-  "2023-11-25": 70922,
-  "2023-11-26": 70985,
-  "2023-11-27": 71032,
-  "2023-11-28": 71070,
-  "2023-11-29": 71180,
-  "2023-11-30": 71180,
-  "2023-12-01": 71222,
-  "2023-12-02": 71273,
-  "2023-12-03": 71322,
-  "2023-12-04": 71367,
-  "2023-12-05": 71415,
-  "2023-12-06": 71454,
-  "2023-12-07": 71498,
-  "2023-12-08": 71548,
-  "2023-12-09": 71611,
-  "2023-12-10": 71662,
-  "2023-12-11": 71720,
-  "2023-12-12": 71790,
-  "2023-12-13": 71846,
-  "2023-12-14": 71907,
-  "2023-12-15": 71936,
-  "2023-12-16": 71976,
-  "2023-12-17": 72026,
-  "2023-12-18": 72067,
-  "2023-12-19": 72113,
-  "2023-12-20": 72168,
-  "2023-12-21": 72236,
-  "2023-12-22": 72288,
-  "2023-12-23": 72347,
-  "2023-12-24": 72407,
-  "2023-12-25": 72471,
-  "2023-12-26": 72516,
-  "2023-12-27": 72577,
-  "2023-12-30": 72739,
-  "2023-12-31": 72796,
-  "2024-01-01": 72849,
-  "2024-01-02": 72923,
-  "2024-01-03": 72975
+  "2024-01-17": 73801,
+  "date_first_scraped": "2022-05-26",
+  "description": "Relax to the sounds of the kora.",
+  "name": "Kora Chill",
+  "tracks": [
+    {
+      "album": {
+        "name": "I Met Her by the River",
+        "url": "https://open.spotify.com/album/7GMUq2GDaIzQHaCdsG3nDV"
+      },
+      "artists": [
+        {
+          "name": "Dawda Jobarteh",
+          "url": "https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "(Take My Hand And Let's Go To) The Red Desert",
+      "url": "https://open.spotify.com/track/2IsPeXXSScG2e1U0wkZIfC"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 280014,
+      "name": "A. C. I. 2000 Diaby",
+      "url": "https://open.spotify.com/track/3EqSYc4byGnSylatX6JcwG"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/7fjwxXIWIVFRco4JEjJZl2"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280717,
+      "name": "A. C. I. 2000 Diaby",
+      "url": "https://open.spotify.com/track/61t0FvioCDsm4hkRGXMnOz"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168746,
+      "name": "Abdou N'diaye",
+      "url": "https://open.spotify.com/track/13b5XY5PvKri7D4LD1WIra"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Abdou N'diaye",
+      "url": "https://open.spotify.com/track/4SgumXbVGlf36DDwSx2C2w"
+    },
+    {
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233879,
+      "name": "Alla La K\u00e9",
+      "url": "https://open.spotify.com/track/7abRzD4bFjgt4ZlTNpUkdW"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289693,
+      "name": "Alpha Yaya",
+      "url": "https://open.spotify.com/track/3DuDX894bvkwMSrTuioGEb"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289693,
+      "name": "Alpha Yaya",
+      "url": "https://open.spotify.com/track/4B0pjz3fXDTzQqBxQf9mUL"
+    },
+    {
+      "album": {
+        "name": "Diam (La paix)",
+        "url": "https://open.spotify.com/album/6Dt3pAgQpu0HtPLWcwgUzi"
+      },
+      "artists": [
+        {
+          "name": "Ablaye Cissoko",
+          "url": "https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326733,
+      "name": "Ba - Oc\u00e9an",
+      "url": "https://open.spotify.com/track/2xV3R1jNdP6uTYwM3a9IKB"
+    },
+    {
+      "album": {
+        "name": "Sissoko & Sissoko",
+        "url": "https://open.spotify.com/album/3xuJh7ErNdRzFKXQ5Ige9k"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Baba Sissoko",
+          "url": "https://open.spotify.com/artist/4sox56HkYoppCSBF6Trcwl"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344159,
+      "name": "Baballake",
+      "url": "https://open.spotify.com/track/2yyDowRP2XkVf8ai6NoqzZ"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/7a7Xdw5yyPKB5AZnfvDvUy"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 386533,
+      "name": "Bafoulabe",
+      "url": "https://open.spotify.com/track/5eaS6tZBkcpZnVKipdzuOw"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386533,
+      "name": "Bafoulabe",
+      "url": "https://open.spotify.com/track/7dIVfgxNlXzS5H6yimDaH1"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: Mali",
+        "url": "https://open.spotify.com/album/0ELSoNJWrenXxTTuykSmp3"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650840,
+      "name": "Baiyo",
+      "url": "https://open.spotify.com/track/5zr73rqa0CJluGWCL2extx"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 167964,
+      "name": "Bansang",
+      "url": "https://open.spotify.com/track/4yIpAl5friYNemdRdwpRs2"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/7fjwxXIWIVFRco4JEjJZl2"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168511,
+      "name": "Bansang",
+      "url": "https://open.spotify.com/track/4mUmru6Wf8XQU6ZyzcOhKd"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306960,
+      "name": "Be Mankan",
+      "url": "https://open.spotify.com/track/1IrPSbGITPaMwMMEXfb2DJ"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 306960,
+      "name": "Be Mankan",
+      "url": "https://open.spotify.com/track/7CA7jcMHe5pnXA7QQmgGBR"
+    },
+    {
+      "album": {
+        "name": "Tomora",
+        "url": "https://open.spotify.com/album/4h0XpudFJQrQagY9YTD1Js"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317640,
+      "name": "Berek\u00f4lan",
+      "url": "https://open.spotify.com/track/2TkkPW0UBxGDKnKl9eAfA9"
+    },
+    {
+      "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283093,
+      "name": "Boubalaka",
+      "url": "https://open.spotify.com/track/0SvQOHxb2n9QUAshGsyGCx"
+    },
+    {
+      "album": {
+        "name": "Ravi: African Kora",
+        "url": "https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47"
+      },
+      "artists": [
+        {
+          "name": "Ravi",
+          "url": "https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Bush Telegraph",
+      "url": "https://open.spotify.com/track/6FkTjNbOte9EgoRvfkDdJs"
+    },
+    {
+      "album": {
+        "name": "Le Jour Des Merveilles (Kora En Pri\u00e8re)",
+        "url": "https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye"
+      },
+      "artists": [
+        {
+          "name": "Jacques Burtin",
+          "url": "https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118800,
+      "name": "Cantil\u00e8ne 6",
+      "url": "https://open.spotify.com/track/75i6FkvGjxZWRc6uwoavQn"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270706,
+      "name": "Cheikhna Demba",
+      "url": "https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/7a7Xdw5yyPKB5AZnfvDvUy"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270706,
+      "name": "Cheiknah Demba",
+      "url": "https://open.spotify.com/track/5dgnSFQGSRBE4B1GMAPqEV"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/5FElpzjo07AXmZdkL4eRpW"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270706,
+      "name": "Cheiknah Demba",
+      "url": "https://open.spotify.com/track/1r0OCE0dRyC8CzwyoAu1n3"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 279829,
+      "name": "Claudia & Salma",
+      "url": "https://open.spotify.com/track/1hB4I6K8Y3T1PAwR3B3Liz"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/7fjwxXIWIVFRco4JEjJZl2"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279829,
+      "name": "Claudia & Salma",
+      "url": "https://open.spotify.com/track/7snKBEjXHJCIsymdl3PHP0"
+    },
+    {
+      "album": {
+        "name": "Aado: Senegalese Kora",
+        "url": "https://open.spotify.com/album/2V00IKstbKgZaXLHVKRwmM"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342400,
+      "name": "Da\u00f1a",
+      "url": "https://open.spotify.com/track/0Cnvz9gwknHUuaR4R243Fj"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 293640,
+      "name": "Debe",
+      "url": "https://open.spotify.com/track/3SYhGK2d8LAkhNCFtOfv0c"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295573,
+      "name": "Debe",
+      "url": "https://open.spotify.com/track/6V38ujp28AfvPkHV10xi1s"
+    },
+    {
+      "album": {
+        "name": "Le Jour Des Merveilles (Kora En Pri\u00e8re)",
+        "url": "https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye"
+      },
+      "artists": [
+        {
+          "name": "Jacques Burtin",
+          "url": "https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138786,
+      "name": "Diptyque Du Bonheur: Danseuse Espagnole",
+      "url": "https://open.spotify.com/track/1Ov5oB9xYQq6J9B1ua87K0"
+    },
+    {
+      "album": {
+        "name": "Siya",
+        "url": "https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R"
+      },
+      "artists": [
+        {
+          "name": "Yacouba Sissoko",
+          "url": "https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284962,
+      "name": "Don't Pretend",
+      "url": "https://open.spotify.com/track/7lJkcFVCflXpYUL0Vvc50t"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita Quartet: Afro-Mandinka Soul",
+        "url": "https://open.spotify.com/album/45qiD0VlL8yvLprYTsIsXK"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 361360,
+      "name": "Dorygui-Ba",
+      "url": "https://open.spotify.com/track/5JgxUlp1QmwL4SXCI3Tert"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: Mali",
+        "url": "https://open.spotify.com/album/0ELSoNJWrenXxTTuykSmp3"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361360,
+      "name": "Dorygui-ba",
+      "url": "https://open.spotify.com/track/6ep9eqnRZWEhAVpKYOsbND"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 287146,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/0nF3QZLQ8O1vQ4SjD3IdRS"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287146,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/67PY8HBV98iVLodNXhBk8V"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 176543,
+      "name": "Dr. Cheikh Modibo Diarra",
+      "url": "https://open.spotify.com/track/1alXnNWFqEbONcetXB9SqI"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/7fjwxXIWIVFRco4JEjJZl2"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176543,
+      "name": "Dr. Cheikh Modibo Diarra",
+      "url": "https://open.spotify.com/track/5mKPdIYh3wRoiwYJxZ0tNE"
+    },
+    {
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156087,
+      "name": "Duga",
+      "url": "https://open.spotify.com/track/6tdJU5kgDI9yP4LBdVMh8X"
+    },
+    {
+      "album": {
+        "name": "Le Jour Des Merveilles (Kora En Pri\u00e8re)",
+        "url": "https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye"
+      },
+      "artists": [
+        {
+          "name": "Jacques Burtin",
+          "url": "https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73440,
+      "name": "D\u00e9dicace",
+      "url": "https://open.spotify.com/track/5F4787ARYFviWVn9CUIN7c"
+    },
+    {
+      "album": {
+        "name": "Still Moment",
+        "url": "https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175533,
+      "name": "El Sicuri",
+      "url": "https://open.spotify.com/track/7GBhEInpST7Dx9fE0tBMEI"
+    },
+    {
+      "album": {
+        "name": "The Mand\u00e9 Variations",
+        "url": "https://open.spotify.com/album/7zucRbIbI4ULiiZdX9x48t"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 527226,
+      "name": "Elyne Road",
+      "url": "https://open.spotify.com/track/0A3E8E3CRhUPYYar0w2pqA"
+    },
+    {
+      "album": {
+        "name": "The Mand\u00e9 Variations",
+        "url": "https://open.spotify.com/album/2HOSh3i0ZCDt4y1N3dHwCD"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530346,
+      "name": "Elyne Road",
+      "url": "https://open.spotify.com/track/05vXC7L4SSUS2XqkOofvl6"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 138840,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/10UumEsqkMv6fiihOM5Hg8"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138840,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3XFCgzW3ZikK6wuajGQqMV"
+    },
+    {
+      "album": {
+        "name": "Kora +1",
+        "url": "https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG"
+      },
+      "artists": [
+        {
+          "name": "Lamine Cissokho",
+          "url": "https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 308744,
+      "name": "Folon",
+      "url": "https://open.spotify.com/track/1DCW0SjXfjBwbiYDSVbuOg"
+    },
+    {
+      "album": {
+        "name": "Kora +1",
+        "url": "https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1"
+      },
+      "artists": [
+        {
+          "name": "Lamine Cissokho",
+          "url": "https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308744,
+      "name": "Folon",
+      "url": "https://open.spotify.com/track/3LWfdsYsZ5yI3HgcavHSzO"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409573,
+      "name": "Future Strings in E",
+      "url": "https://open.spotify.com/track/25QUiK1zMCLvG6xAr6izut"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 409573,
+      "name": "Future Strings in E",
+      "url": "https://open.spotify.com/track/4Q7KVZVOY7Y9dF3OdfeFX2"
+    },
+    {
+      "album": {
+        "name": "I Met Her by the River",
+        "url": "https://open.spotify.com/album/7GMUq2GDaIzQHaCdsG3nDV"
+      },
+      "artists": [
+        {
+          "name": "Dawda Jobarteh",
+          "url": "https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266266,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2UVfxwdVPR06s5gYK5d5Or"
+    },
+    {
+      "album": {
+        "name": "Le Jour Des Merveilles (Kora En Pri\u00e8re)",
+        "url": "https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye"
+      },
+      "artists": [
+        {
+          "name": "Jacques Burtin",
+          "url": "https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257533,
+      "name": "Heureux Ceux Qui Chantent",
+      "url": "https://open.spotify.com/track/0V0rkZkRAGImlaOzbJzGAV"
+    },
+    {
+      "album": {
+        "name": "SOAR",
+        "url": "https://open.spotify.com/album/2s5WYOg1fezE42u6X0GqJc"
+      },
+      "artists": [
+        {
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+        },
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 356020,
+      "name": "Hinna-Djulo",
+      "url": "https://open.spotify.com/track/6ER0qOpbB77XT2bo1PQC22"
+    },
+    {
+      "album": {
+        "name": "SOAR",
+        "url": "https://open.spotify.com/album/4EYDGs1XVGoNaL9vSA246G"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        },
+        {
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356020,
+      "name": "Hinna-Djulo",
+      "url": "https://open.spotify.com/track/3icm35O9MODcKh78MxH1cw"
+    },
+    {
+      "album": {
+        "name": "I Met Her by the River",
+        "url": "https://open.spotify.com/album/7GMUq2GDaIzQHaCdsG3nDV"
+      },
+      "artists": [
+        {
+          "name": "Dawda Jobarteh",
+          "url": "https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266226,
+      "name": "I Met Her By The River",
+      "url": "https://open.spotify.com/track/569Ur4YOxQ2OOzE7gtjZmL"
+    },
+    {
+      "album": {
+        "name": "Kora Dream",
+        "url": "https://open.spotify.com/album/06FvWG28lyQPv8DdAhLHgO"
+      },
+      "artists": [
+        {
+          "name": "Sillaba",
+          "url": "https://open.spotify.com/artist/1RdauZCGtADc6pmitjjBzB"
+        },
+        {
+          "name": "Maher Cissoko",
+          "url": "https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP"
+        },
+        {
+          "name": "Andreas Unge",
+          "url": "https://open.spotify.com/artist/2w5M25lc7dSa15KGk7zncC"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284366,
+      "name": "Iban",
+      "url": "https://open.spotify.com/track/38dyX5OkG38LSIsUXYhseL"
+    },
+    {
+      "album": {
+        "name": "Taling Dimalu Beautiful Tales",
+        "url": "https://open.spotify.com/album/4Gz5Yr2F6f994pJCnlROFV"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 220421,
+      "name": "Ifanji",
+      "url": "https://open.spotify.com/track/0SzZpcXpMMMXFAwwFWN17g"
+    },
+    {
+      "album": {
+        "name": "Taling Dimalu Beautiful Tales",
+        "url": "https://open.spotify.com/album/1iqpOLLDg7AggjbSQbD2ic"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220421,
+      "name": "Ifanji",
+      "url": "https://open.spotify.com/track/0fCurEBiv6zQRqzoFup6Dy"
+    },
+    {
+      "album": {
+        "name": "S\u00e9n\u00e9gal - kora, balafon, guitare, percussions & chants (Documents collect\u00e9s par G\u00e9rard Kr\u00e9mer)",
+        "url": "https://open.spotify.com/album/7Afp3Z2l2bpGj5so06Dv3I"
+      },
+      "artists": [
+        {
+          "name": "Diam\u00e9 Beno\u00eet",
+          "url": "https://open.spotify.com/artist/7MGH4k1azrScWW3iA71BRQ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514493,
+      "name": "Improvisation \u00e0 la kora",
+      "url": "https://open.spotify.com/track/6DI0ZKoeIHdovwg60cRfdk"
+    },
+    {
+      "album": {
+        "name": "Kairo",
+        "url": "https://open.spotify.com/album/64w5d95xhMjyVJOBgsf0k0"
+      },
+      "artists": [
+        {
+          "name": "Sillaba",
+          "url": "https://open.spotify.com/artist/1RdauZCGtADc6pmitjjBzB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251536,
+      "name": "Jaama",
+      "url": "https://open.spotify.com/track/1WxwwBDnWCj0WllmIEELVj"
+    },
+    {
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331189,
+      "name": "Jairaby L\u00e9",
+      "url": "https://open.spotify.com/track/1hqJGbTYFNVxlJYQnGH9Y6"
+    },
+    {
+      "album": {
+        "name": "The Elements (Anciennes M\u00e9moires, Nouveaux R\u00e9cits)",
+        "url": "https://open.spotify.com/album/68BKHJnDhXfqXJ5adNqk70"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331197,
+      "name": "Jairaby L\u00e9",
+      "url": "https://open.spotify.com/track/0u4gDHx5DQGSpi253L3xGT"
+    },
+    {
+      "album": {
+        "name": "Kaira",
+        "url": "https://open.spotify.com/album/7ISzQ5S7GhWyses4XVPwti"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305560,
+      "name": "Jarabi",
+      "url": "https://open.spotify.com/track/40BErAjeAlGuUKNh8AtWSL"
+    },
+    {
+      "album": {
+        "name": "Kaira",
+        "url": "https://open.spotify.com/album/60N0peIXBmHENfUACesjx3"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305560,
+      "name": "Jarabi",
+      "url": "https://open.spotify.com/track/6tgZruQ31jLMukeEvtLO0F"
+    },
+    {
+      "album": {
+        "name": "Gambie, L'art De La Kora (S\u00e9rie archives)",
+        "url": "https://open.spotify.com/album/5mmF03WUy4FXsK3uMF44SV"
+      },
+      "artists": [
+        {
+          "name": "Jali Nyama Suso",
+          "url": "https://open.spotify.com/artist/4VxOIPLlxpLabgTCIptjUQ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309666,
+      "name": "Jimbasengo",
+      "url": "https://open.spotify.com/track/5aif2fkDgRcupS99mCAuDJ"
+    },
+    {
+      "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257959,
+      "name": "Kabou",
+      "url": "https://open.spotify.com/track/5JhfGNUdmbI23BqJsACxg5"
+    },
+    {
+      "album": {
+        "name": "3 MA (Madagascar, Mali, Maroc)",
+        "url": "https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2"
+      },
+      "artists": [
+        {
+          "name": "Rajery",
+          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272266,
+      "name": "Kadiatou",
+      "url": "https://open.spotify.com/track/18ei221cMqAjQuQYT0RxNW"
+    },
+    {
+      "album": {
+        "name": "3MA",
+        "url": "https://open.spotify.com/album/5RfLcVTzv6SciIwGyQfnK6"
+      },
+      "artists": [
+        {
+          "name": "Rajery",
+          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "Kadiatou",
+      "url": "https://open.spotify.com/track/5PTOrJk0mzAEAhH1DH5aUP"
+    },
+    {
+      "album": {
+        "name": "Kora Music From Mali",
+        "url": "https://open.spotify.com/album/7kO8Gdldw0NADGlTg9txZX"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9",
+          "url": "https://open.spotify.com/artist/15nK88470G6NXcN9MWdx11"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 429533,
+      "name": "Kaira",
+      "url": "https://open.spotify.com/track/3zSgTbLfO17pOunhI10UP5"
+    },
+    {
+      "album": {
+        "name": "Ballak\u00e9 (Kora Music From Mali)",
+        "url": "https://open.spotify.com/album/1Cj3soZ3q1E3hCDHQyeEZM"
+      },
+      "artists": [
+        {
+          "name": "Jeli Moussa Sissoko",
+          "url": "https://open.spotify.com/artist/3fDyeaDagy8d75RM9boabh"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429546,
+      "name": "Kaira",
+      "url": "https://open.spotify.com/track/0gFU70361CpPcNeDJV7Ui4"
+    },
+    {
+      "album": {
+        "name": "Kaira",
+        "url": "https://open.spotify.com/album/60N0peIXBmHENfUACesjx3"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 488533,
+      "name": "Kaira",
+      "url": "https://open.spotify.com/track/1I8ght01aIiaMLQoRANyMK"
+    },
+    {
+      "album": {
+        "name": "Kaira",
+        "url": "https://open.spotify.com/album/7ISzQ5S7GhWyses4XVPwti"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488533,
+      "name": "Kaira",
+      "url": "https://open.spotify.com/track/35cTt4VTLameSYHAwsDGjq"
+    },
+    {
+      "album": {
+        "name": "Mali in Oak",
+        "url": "https://open.spotify.com/album/2LoVU095gIMOkVet1EWSf8"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        },
+        {
+          "name": "Derek Gripper",
+          "url": "https://open.spotify.com/artist/6kUx0oARAtS3eKx7B6CKH2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228862,
+      "name": "Kaira Konkoba",
+      "url": "https://open.spotify.com/track/0Gkomv7zRN8WlLg6B4gyIv"
+    },
+    {
+      "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197613,
+      "name": "Kalanso",
+      "url": "https://open.spotify.com/track/2MyDs6s5ChSX3n9nYIUND2"
+    },
+    {
+      "album": {
+        "name": "Taling Dimalu Beautiful Tales",
+        "url": "https://open.spotify.com/album/1iqpOLLDg7AggjbSQbD2ic"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252796,
+      "name": "Kanou Foro",
+      "url": "https://open.spotify.com/track/0K3mAgkQUDHoIMRB79wbiL"
+    },
+    {
+      "album": {
+        "name": "Taling Dimalu Beautiful Tales",
+        "url": "https://open.spotify.com/album/4Gz5Yr2F6f994pJCnlROFV"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 252796,
+      "name": "Kanou Foro",
+      "url": "https://open.spotify.com/track/0tsY3MIGaML8jUMdx2WXzp"
+    },
+    {
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277972,
+      "name": "Kayra",
+      "url": "https://open.spotify.com/track/1mWH8SrszV1ilSHG59ee2B"
+    },
+    {
+      "album": {
+        "name": "Na Kitabo",
+        "url": "https://open.spotify.com/album/54hU4IzuUxiEq0wZhWvMEj"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264426,
+      "name": "Khadija",
+      "url": "https://open.spotify.com/track/5jHnrBhGDp6MP3pqpSqwWM"
+    },
+    {
+      "album": {
+        "name": "Na Kitabo",
+        "url": "https://open.spotify.com/album/0RLdyfkyuobUYtC3QE82Um"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 264426,
+      "name": "Khadija",
+      "url": "https://open.spotify.com/track/6ejy7kcTMXCA02WqKmrCsY"
+    },
+    {
+      "album": {
+        "name": "Kaira",
+        "url": "https://open.spotify.com/album/7ISzQ5S7GhWyses4XVPwti"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 627333,
+      "name": "Konkoba",
+      "url": "https://open.spotify.com/track/1xdzYXLPF5Tknn27e9p8Tb"
+    },
+    {
+      "album": {
+        "name": "Kaira",
+        "url": "https://open.spotify.com/album/60N0peIXBmHENfUACesjx3"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 627333,
+      "name": "Konkoba",
+      "url": "https://open.spotify.com/track/4S7KOgfRsPpeSJg5CIJqso"
+    },
+    {
+      "album": {
+        "name": "Kora Fo",
+        "url": "https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh"
+      },
+      "artists": [
+        {
+          "name": "Maher Cissoko",
+          "url": "https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280333,
+      "name": "Kooma Kumaro - Instrumental",
+      "url": "https://open.spotify.com/track/3Y1sNu905RWz6JNEEmuYW7"
+    },
+    {
+      "album": {
+        "name": "Kora Fo",
+        "url": "https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh"
+      },
+      "artists": [
+        {
+          "name": "Maher Cissoko",
+          "url": "https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225040,
+      "name": "Kora by Night",
+      "url": "https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy"
+    },
+    {
+      "album": {
+        "name": "Ancestral Voices",
+        "url": "https://open.spotify.com/album/0eaJcW1j4vx8x83o4U73wu"
+      },
+      "artists": [
+        {
+          "name": "David Gilden",
+          "url": "https://open.spotify.com/artist/6FFApFNe3mmAvVlIU73G2s"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145266,
+      "name": "Kora Duet",
+      "url": "https://open.spotify.com/track/0yBlmJ8quqn2KZTxnOfLC6"
+    },
+    {
+      "album": {
+        "name": "Faces of Africa: An Inspirational Celebration of Africa Then and Now",
+        "url": "https://open.spotify.com/album/59OpJHZvPKsU5SounjoUzq"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne Blazy",
+          "url": "https://open.spotify.com/artist/33m7gT6eP9unPArdo8wfbr"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111333,
+      "name": "Kora Solo",
+      "url": "https://open.spotify.com/track/6HTTBEPexAJGXAzzJEOr6i"
+    },
+    {
+      "album": {
+        "name": "3MA",
+        "url": "https://open.spotify.com/album/5RfLcVTzv6SciIwGyQfnK6"
+      },
+      "artists": [
+        {
+          "name": "Rajery",
+          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313080,
+      "name": "Kouroukanfouga",
+      "url": "https://open.spotify.com/track/3vgtx1mpT9OdqMiRDbr0mK"
+    },
+    {
+      "album": {
+        "name": "3 MA (Madagascar, Mali, Maroc)",
+        "url": "https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2"
+      },
+      "artists": [
+        {
+          "name": "Rajery",
+          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 313080,
+      "name": "Kouroukanfouga",
+      "url": "https://open.spotify.com/track/6ul7PrzpeHa1aLDrrqn2Zn"
+    },
+    {
+      "album": {
+        "name": "Le chant de la for\u00eat - Un compositeur dialogue avec la cr\u00e9ation",
+        "url": "https://open.spotify.com/album/6vRnda2nqFPDMuOH5Gc7Lg"
+      },
+      "artists": [
+        {
+          "name": "Jacques Burtin",
+          "url": "https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286960,
+      "name": "L'aube",
+      "url": "https://open.spotify.com/track/6Ki3Bt5AKwth2UGzHcq9Xy"
+    },
+    {
+      "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/77sVRRrzfdWlqZ7jPZ4Irr"
+      },
+      "artists": [
+        {
+          "name": "Mamadou Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/4Ue2Ve285CkFy9mv6TPcBf"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348906,
+      "name": "Laban Djoro",
+      "url": "https://open.spotify.com/track/1i6wlop1bLQohfpx7hPEqU"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 266060,
+      "name": "Lampedusa",
+      "url": "https://open.spotify.com/track/6HMrdo2aPHXiEC0FbQqNLt"
+    },
+    {
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/7fjwxXIWIVFRco4JEjJZl2"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266060,
+      "name": "Lampedusa",
+      "url": "https://open.spotify.com/track/7v4UEQd9A3br9JSjONGEKI"
+    },
+    {
+      "album": {
+        "name": "M\u00e9ditation kora & alto",
+        "url": "https://open.spotify.com/album/1QuXZSXeCU8REnW638fC2G"
+      },
+      "artists": [
+        {
+          "name": "Jacques Burtin",
+          "url": "https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172218,
+      "name": "Las morillas de Ja\u00e9n",
+      "url": "https://open.spotify.com/track/2Zku7DKoRSacXpHWqQkboq"
+    },
+    {
+      "album": {
+        "name": "Le Jour Des Merveilles (Kora En Pri\u00e8re)",
+        "url": "https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye"
+      },
+      "artists": [
+        {
+          "name": "Jacques Burtin",
+          "url": "https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326493,
+      "name": "Le Chemin Clair",
+      "url": "https://open.spotify.com/track/4ShKWvE03JkEjapnCg1Yct"
+    },
+    {
+      "album": {
+        "name": "Le Jour Des Merveilles (Kora En Pri\u00e8re)",
+        "url": "https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye"
+      },
+      "artists": [
+        {
+          "name": "Jacques Burtin",
+          "url": "https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "Le Visage",
+      "url": "https://open.spotify.com/track/2dj0ZuZcRfHXE2a1B0VYY4"
+    },
+    {
+      "album": {
+        "name": "Le Jour Des Merveilles (Kora En Pri\u00e8re)",
+        "url": "https://open.spotify.com/album/1KqIoZvQaj1FeRejsDdxye"
+      },
+      "artists": [
+        {
+          "name": "Jacques Burtin",
+          "url": "https://open.spotify.com/artist/0FNLrVKyvRdifc0MHYnl8x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424200,
+      "name": "Les Chemins De L'amour",
+      "url": "https://open.spotify.com/track/3PdEm3fmxF1X0xbnWeH4Wn"
+    },
+    {
+      "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Maimouna",
+      "url": "https://open.spotify.com/track/1QJTBTHxAjjOaFrXi66k3B"
+    },
+    {
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149652,
+      "name": "Maki",
+      "url": "https://open.spotify.com/track/4G3UuBS9LdSjoA1vwHg7fT"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 303573,
+      "name": "Mamadou boutiquier",
+      "url": "https://open.spotify.com/track/4IaqsaM4hrXiSep5zQIVku"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304960,
+      "name": "Mamadou boutiquier",
+      "url": "https://open.spotify.com/track/3YEapZUXtzO9S6FKLhfn97"
+    },
+    {
+      "album": {
+        "name": "Ravi: African Kora",
+        "url": "https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47"
+      },
+      "artists": [
+        {
+          "name": "Ravi",
+          "url": "https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307893,
+      "name": "Mandinka King",
+      "url": "https://open.spotify.com/track/0CbmnbJhtFIkVbEdMo4Agk"
+    },
+    {
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313058,
+      "name": "Manid\u00e9",
+      "url": "https://open.spotify.com/track/3JjAj1GeO9fv4OAb1ZoxgY"
+    },
+    {
+      "album": {
+        "name": "Taling Dimalu Beautiful Tales",
+        "url": "https://open.spotify.com/album/1iqpOLLDg7AggjbSQbD2ic"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246941,
+      "name": "Mansaya",
+      "url": "https://open.spotify.com/track/2C8CO9xXwuFzBCrNAfS1aG"
+    },
+    {
+      "album": {
+        "name": "Taling Dimalu Beautiful Tales",
+        "url": "https://open.spotify.com/album/4Gz5Yr2F6f994pJCnlROFV"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 246941,
+      "name": "Mansaya",
+      "url": "https://open.spotify.com/track/73inzwKwStFiMiBGab2zWZ"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397453,
+      "name": "Mikhi Nathan Mu-Toma",
+      "url": "https://open.spotify.com/track/1D66nWnh90JWq6RDLIYy5P"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 397453,
+      "name": "Mikhi Nathan Mu-Toma",
+      "url": "https://open.spotify.com/track/5x3wT1covgc3zTFXgjtgBb"
+    },
+    {
+      "album": {
+        "name": "The Elements (Anciennes M\u00e9moires, Nouveaux R\u00e9cits)",
+        "url": "https://open.spotify.com/album/68BKHJnDhXfqXJ5adNqk70"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252427,
+      "name": "Mineon Ba",
+      "url": "https://open.spotify.com/track/318mVHuDh5TgUiPWEngYsx"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 235320,
+      "name": "Monsieur le Maire de Niafunk\u00e9",
+      "url": "https://open.spotify.com/track/00lcn90nnKszEEuVgO8VzK"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238906,
+      "name": "Monsieur le Maire de Niafunk\u00e9",
+      "url": "https://open.spotify.com/track/0504BmZ0EdVRO4faj6q0Yc"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350173,
+      "name": "N'dok\u00e9",
+      "url": "https://open.spotify.com/track/49cRkdjZkzIm4aLzj5PCrx"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 350173,
+      "name": "N'dok\u00e9",
+      "url": "https://open.spotify.com/track/4vFLziOP5NRr33FVoGvgmv"
+    },
+    {
+      "album": {
+        "name": "Musique de nuit",
+        "url": "https://open.spotify.com/album/61LMReQLWRBAqRXsuL2mKM"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Vincent S\u00e9gal",
+          "url": "https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472866,
+      "name": "N'kapalema",
+      "url": "https://open.spotify.com/track/53fKj61JTr8h6YUIpYKyKa"
+    },
+    {
+      "album": {
+        "name": "Siya",
+        "url": "https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R"
+      },
+      "artists": [
+        {
+          "name": "Yacouba Sissoko",
+          "url": "https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302531,
+      "name": "N'nah",
+      "url": "https://open.spotify.com/track/5nmHLGiPhihXZqMw0p4Egb"
+    },
+    {
+      "album": {
+        "name": "Douma Jolo",
+        "url": "https://open.spotify.com/album/1FdkogwkbZvmmTuxVQq1kB"
+      },
+      "artists": [
+        {
+          "name": "Sillaba",
+          "url": "https://open.spotify.com/artist/1RdauZCGtADc6pmitjjBzB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199221,
+      "name": "Na",
+      "url": "https://open.spotify.com/track/6ycu6MppzHKRdauO9sfGbb"
+    },
+    {
+      "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353893,
+      "name": "Nal\u00e9sonko",
+      "url": "https://open.spotify.com/track/4KuO1cCEEU2WhzhdjKrDlJ"
+    },
+    {
+      "album": {
+        "name": "Nan Sira Madi - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0xTicrb0iRCVOiJ1w11ZOU"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301055,
+      "name": "Nan Sira Madi - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/51GZs0btQ7q02lps378FYN"
+    },
+    {
+      "album": {
+        "name": "Aado: Senegalese Kora",
+        "url": "https://open.spotify.com/album/2V00IKstbKgZaXLHVKRwmM"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306400,
+      "name": "Nganiyo",
+      "url": "https://open.spotify.com/track/5At2V2sL4uslVV8uqiF71p"
+    },
+    {
+      "album": {
+        "name": "Diam (La paix)",
+        "url": "https://open.spotify.com/album/6Dt3pAgQpu0HtPLWcwgUzi"
+      },
+      "artists": [
+        {
+          "name": "Ablaye Cissoko",
+          "url": "https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342920,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/1ZkrIDSI88jfOVwUTIiVXA"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374466,
+      "name": "Salaman",
+      "url": "https://open.spotify.com/track/4VPOximul51ghex5WKzSIb"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/5FElpzjo07AXmZdkL4eRpW"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 374466,
+      "name": "Salaman",
+      "url": "https://open.spotify.com/track/6xAmovtbPXpbN4akFMeiau"
+    },
+    {
+      "album": {
+        "name": "Saint Louis",
+        "url": "https://open.spotify.com/album/7oVuVFh50WFX1FeeQ2886A"
+      },
+      "artists": [
+        {
+          "name": "Ablaye Cissoko",
+          "url": "https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263506,
+      "name": "Signare",
+      "url": "https://open.spotify.com/track/032OUXmSVtzXyU9G1AX4Bf"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 239173,
+      "name": "Simbo",
+      "url": "https://open.spotify.com/track/39M353KyEDfl468Bm69s3L"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240186,
+      "name": "Simbo",
+      "url": "https://open.spotify.com/track/4Uipoz8YOr1ryiYm4omdF4"
+    },
+    {
+      "album": {
+        "name": "Simbo Salaba",
+        "url": "https://open.spotify.com/album/5hEajz3vakPl6PYnVikUCA"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270940,
+      "name": "Simbo Salaba",
+      "url": "https://open.spotify.com/track/2emh3LCxxzqekzR0ekc6t5"
+    },
+    {
+      "album": {
+        "name": "Siya",
+        "url": "https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R"
+      },
+      "artists": [
+        {
+          "name": "Yacouba Sissoko",
+          "url": "https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323966,
+      "name": "Siya",
+      "url": "https://open.spotify.com/track/46x7AUiSnsY0Zui4hV8gJE"
+    },
+    {
+      "album": {
+        "name": "Ravi: African Kora",
+        "url": "https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47"
+      },
+      "artists": [
+        {
+          "name": "Ravi",
+          "url": "https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344600,
+      "name": "Soul of Life",
+      "url": "https://open.spotify.com/track/7jUGnanNpc16zhVo53bLkR"
+    },
+    {
+      "album": {
+        "name": "Tunga",
+        "url": "https://open.spotify.com/album/67CHsaPZV6Q5m41AcHdQ4x"
+      },
+      "artists": [
+        {
+          "name": "Mamadou Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/4Ue2Ve285CkFy9mv6TPcBf"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "Soutoukou",
+      "url": "https://open.spotify.com/track/6gIDxfe90k3aJpOB3bnOSr"
+    },
+    {
+      "album": {
+        "name": "Still Moment",
+        "url": "https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343000,
+      "name": "Still Moment",
+      "url": "https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM"
+    },
+    {
+      "album": {
+        "name": "Musique de nuit",
+        "url": "https://open.spotify.com/album/61LMReQLWRBAqRXsuL2mKM"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Vincent S\u00e9gal",
+          "url": "https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235066,
+      "name": "Super \u00e9toile",
+      "url": "https://open.spotify.com/track/2nzHSd02748Zu9eMpkG2Y3"
+    },
+    {
+      "album": {
+        "name": "Kora Fo",
+        "url": "https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh"
+      },
+      "artists": [
+        {
+          "name": "Maher Cissoko",
+          "url": "https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Suutoo Y\u00e9 Diyaa",
+      "url": "https://open.spotify.com/track/5kIBPysewGr9y9nNamk0mG"
+    },
+    {
+      "album": {
+        "name": "Motherland - The Score",
+        "url": "https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC"
+      },
+      "artists": [
+        {
+          "name": "Sona Jobarteh",
+          "url": "https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164920,
+      "name": "Taama",
+      "url": "https://open.spotify.com/track/1fFd6e2GdsQo0I6f2U79ym"
+    },
+    {
+      "album": {
+        "name": "Taling Dimalu Beautiful Tales",
+        "url": "https://open.spotify.com/album/1iqpOLLDg7AggjbSQbD2ic"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233788,
+      "name": "Taling Dima",
+      "url": "https://open.spotify.com/track/5oAZmXBLBg2v6yC8GVSrfN"
+    },
+    {
+      "album": {
+        "name": "Taling Dimalu Beautiful Tales",
+        "url": "https://open.spotify.com/album/4Gz5Yr2F6f994pJCnlROFV"
+      },
+      "artists": [
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 233788,
+      "name": "Taling Dima",
+      "url": "https://open.spotify.com/track/6saM0mIuNPIUilo6yK8SiM"
+    },
+    {
+      "album": {
+        "name": "Kora",
+        "url": "https://open.spotify.com/album/2lKpNUGOdijNQMmLxR64MN"
+      },
+      "artists": [
+        {
+          "name": "Sourakata Koit\u00e9",
+          "url": "https://open.spotify.com/artist/1aEXvBo9XF1pXQJwKbg0aX"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/3BjfQ2umqNOTCtjv8d4JQU"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372906,
+      "name": "Tatono",
+      "url": "https://open.spotify.com/track/3J2joz4SmGKKfSnCi3VsQU"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 372906,
+      "name": "Tatono",
+      "url": "https://open.spotify.com/track/3cyOdze2bvBg6iMsvPWo8B"
+    },
+    {
+      "album": {
+        "name": "Ravi: African Kora",
+        "url": "https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47"
+      },
+      "artists": [
+        {
+          "name": "Ravi",
+          "url": "https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272493,
+      "name": "The Griot",
+      "url": "https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO"
+    },
+    {
+      "album": {
+        "name": "Ravi: African Kora",
+        "url": "https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47"
+      },
+      "artists": [
+        {
+          "name": "Ravi",
+          "url": "https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229200,
+      "name": "The Jali",
+      "url": "https://open.spotify.com/track/4Vp0ROMUhkMUAjxRTaTNtu"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276960,
+      "name": "The Path From Gabou",
+      "url": "https://open.spotify.com/track/1agU3DjAoyrCPW5mKQdJ3V"
+    },
+    {
+      "album": {
+        "name": "Seckou Keita: 22 Strings",
+        "url": "https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276960,
+      "name": "The Path from Gabou",
+      "url": "https://open.spotify.com/track/5nZh7FAzr3x0IonJgwXWOv"
+    },
+    {
+      "album": {
+        "name": "Ravi: African Kora",
+        "url": "https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47"
+      },
+      "artists": [
+        {
+          "name": "Ravi",
+          "url": "https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335200,
+      "name": "The Village",
+      "url": "https://open.spotify.com/track/0OM6zZomxmJzWTlzfUL3Ec"
+    },
+    {
+      "album": {
+        "name": "Diam (La paix)",
+        "url": "https://open.spotify.com/album/6Dt3pAgQpu0HtPLWcwgUzi"
+      },
+      "artists": [
+        {
+          "name": "Ablaye Cissoko",
+          "url": "https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303600,
+      "name": "Til\u00f4 - Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/4AsYhyxnqGpHMWXskhF5Nb"
+    },
+    {
+      "album": {
+        "name": "Siya",
+        "url": "https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R"
+      },
+      "artists": [
+        {
+          "name": "Yacouba Sissoko",
+          "url": "https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354642,
+      "name": "Tougoude",
+      "url": "https://open.spotify.com/track/6Gkoa1dKL34PD7p66wP8wE"
+    },
+    {
+      "album": {
+        "name": "Kora +1",
+        "url": "https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1"
+      },
+      "artists": [
+        {
+          "name": "Lamine Cissokho",
+          "url": "https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258010,
+      "name": "Toutou Diarra",
+      "url": "https://open.spotify.com/track/6jPRIrQI72sXLhLseNwmrf"
+    },
+    {
+      "album": {
+        "name": "Kora +1",
+        "url": "https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG"
+      },
+      "artists": [
+        {
+          "name": "Lamine Cissokho",
+          "url": "https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 258011,
+      "name": "Toutou Diarra",
+      "url": "https://open.spotify.com/track/4uEmFWgfgnIJT3lLS3srZc"
+    },
+    {
+      "album": {
+        "name": "New Continents",
+        "url": "https://open.spotify.com/album/6wmK6pbpRO5cXihbhutedd"
+      },
+      "artists": [
+        {
+          "name": "Lamine Cissokho",
+          "url": "https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6"
+        },
+        {
+          "name": "Manish Pingle",
+          "url": "https://open.spotify.com/artist/6IEbzmpRNL3IDQRSOdfUFB"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295706,
+      "name": "United Hands (West African Solo Kora Piece)",
+      "url": "https://open.spotify.com/track/0kHNsc2K4vJT8tAHycTGKT"
+    },
+    {
+      "album": {
+        "name": "New Continents",
+        "url": "https://open.spotify.com/album/3AleC0olG2Nolct0kvgPf9"
+      },
+      "artists": [
+        {
+          "name": "Lamine Cissokho",
+          "url": "https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6"
+        },
+        {
+          "name": "Manish Pingle",
+          "url": "https://open.spotify.com/artist/6IEbzmpRNL3IDQRSOdfUFB"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 295706,
+      "name": "United Hands (West African Solo Kora Piece)",
+      "url": "https://open.spotify.com/track/45MCuEKnSf4AOLRmXqQLTd"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291226,
+      "name": "Warb\u00e9",
+      "url": "https://open.spotify.com/track/4fb7CtOq5pb3gNcC6ebfQF"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 291293,
+      "name": "Warb\u00e9",
+      "url": "https://open.spotify.com/track/3T5vxl7qadr3rh7YVV296S"
+    },
+    {
+      "album": {
+        "name": "Transitional Times",
+        "url": "https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie"
+      },
+      "artists": [
+        {
+          "name": "Dawda Jobarteh",
+          "url": "https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "Winter Trees Stand Sleeping",
+      "url": "https://open.spotify.com/track/18PMUMZqCeKiZ5sV5fn1kz"
+    },
+    {
+      "album": {
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/3X9jyh4EcJSKO1X0mdQkXJ"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Vincent S\u00e9gal",
+          "url": "https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351040,
+      "name": "Wo Y\u00e9 N'Gnougobine",
+      "url": "https://open.spotify.com/track/07KsS4IqdRckOlD4LqjqAe"
+    },
+    {
+      "album": {
+        "name": "A Touma",
+        "url": "https://open.spotify.com/album/5LpRORn1abqj3Ydlk5Zwiz"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316966,
+      "name": "Yafa Djini Te Djitoyaye",
+      "url": "https://open.spotify.com/track/7ErDaI6whsHgH5kVJqfydV"
+    },
+    {
+      "album": {
+        "name": "Ancestral Voices",
+        "url": "https://open.spotify.com/album/0eaJcW1j4vx8x83o4U73wu"
+      },
+      "artists": [
+        {
+          "name": "David Gilden",
+          "url": "https://open.spotify.com/artist/6FFApFNe3mmAvVlIU73G2s"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259173,
+      "name": "Yarabi",
+      "url": "https://open.spotify.com/track/6GEPh64fT99xSxZxtJWNIH"
+    },
+    {
+      "album": {
+        "name": "La kora du S\u00e9n\u00e9gal, vol. 2 : Chant et po\u00e9sie d'Afrique noire",
+        "url": "https://open.spotify.com/album/5nJheu71D8KgeZ1NBvKFoc"
+      },
+      "artists": [
+        {
+          "name": "Lamine Konte",
+          "url": "https://open.spotify.com/artist/1civjXbVhaOPDgxL2TDvKs"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Yarabi",
+      "url": "https://open.spotify.com/track/6VSgQ8NTKwiW0lW17H6n9T"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8NCuSFtLG2H"
 }

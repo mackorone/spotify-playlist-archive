@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": "2024-01-15",
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
@@ -4752,7 +4752,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": "2024-01-10",
       "duration_ms": 146680,
       "name": "Somebody Made For Me",
       "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
@@ -4868,6 +4868,24 @@
     {
       "album": {
         "name": "Motel Mayday",
+        "url": "https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223160,
+      "name": "Stolen Love",
+      "url": "https://open.spotify.com/track/30EGaJNnfgjUuw8kj8fuem"
+    },
+    {
+      "album": {
+        "name": "Motel Mayday",
         "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
       },
       "artists": [
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 223160,
       "name": "Stolen Love",
       "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": "2024-01-11",
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"

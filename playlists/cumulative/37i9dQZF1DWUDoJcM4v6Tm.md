@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-262 songs - 16 hr 28 min
+263 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Made For This](https://open.spotify.com/track/12zsnvR0HghiFtHbsfMBrM) | [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Made For This](https://open.spotify.com/album/5Tu4YwduM7y8R0JjWXeSPa) | 4:26 | 2023-02-24 |  |
 | [Made For This](https://open.spotify.com/track/42Cf50MbLHrmHHfK1ckhD0) | [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Made for This](https://open.spotify.com/album/64XuRgvbhSOHZpZPIUI3pS) | 4:26 | 2021-10-08 | 2023-03-02 |
 | [Mama Werewolf](https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:41 | 2021-10-08 |  |
-| [Mano a Mano](https://open.spotify.com/track/0htv5uauilJWqekkWEaQDN) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Mano a Mano](https://open.spotify.com/album/0PzLKXSA6VfCovo8w3kzve) | 6:20 | 2021-10-08 |  |
+| [Mano a Mano](https://open.spotify.com/track/0htv5uauilJWqekkWEaQDN) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Mano a Mano](https://open.spotify.com/album/0PzLKXSA6VfCovo8w3kzve) | 6:20 | 2021-10-08 | 2024-01-06 |
+| [Mano a Mano](https://open.spotify.com/track/4FoaAPXDmI89X6ntYpKJEu) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 6:20 | 2023-12-08 |  |
 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 | 2022-02-25 |  |
 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 | 2023-02-24 |  |
 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 | 2022-04-13 |  |

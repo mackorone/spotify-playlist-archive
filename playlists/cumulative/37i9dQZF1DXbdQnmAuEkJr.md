@@ -4,7 +4,7 @@
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-99 songs - 5 hr 39 min
+100 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Suis\-moi \- French Version](https://open.spotify.com/track/0gwnA1Lqv4mgGCgSSmfgne) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [The Little Prince \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77beXvHr5Kv4quZN2CupvP) | 3:26 | 2021-10-13 |  |
 | [Sur la place](https://open.spotify.com/track/03mRhsuD2TvfQXl4viauxr) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Rosemary Standley](https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl), [Birds on a Wire](https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj) | [Ramages](https://open.spotify.com/album/1dGlGS8JZBoT0kr8oWBTLM) | 4:21 | 2021-10-13 |  |
 | [Sur mes gardes](https://open.spotify.com/track/4YXbSriLJBo9FLj7u8fdgR) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Sur mes gardes](https://open.spotify.com/album/0y3UJX4V7LIBK4ofegzw2l) | 2:47 | 2021-10-13 |  |
-| [T'es beau](https://open.spotify.com/track/5yeE2zpSDyWMVB6DyPFZJr) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Pauline Croze](https://open.spotify.com/album/2KfEcJpTsSl8a8kxrXuZPf) | 2:43 | 2021-10-13 |  |
+| [T'es beau](https://open.spotify.com/track/52IOzi84P1GTbNsByXmaSc) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Pauline Croze](https://open.spotify.com/album/0KUymSDjNL7ZaJrKcFNoNQ) | 2:43 | 2021-10-13 |  |
+| [T'es beau](https://open.spotify.com/track/5yeE2zpSDyWMVB6DyPFZJr) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Pauline Croze](https://open.spotify.com/album/2KfEcJpTsSl8a8kxrXuZPf) | 2:43 | 2021-10-13 | 2024-01-07 |
 | [Tous les divorcés \- Radio Edit](https://open.spotify.com/track/7k0HTHs1syhkn1rUzEwWAQ) | [Bénabar](https://open.spotify.com/artist/6xoAWsIOZxJVPpo7Qvqaqv) | [Tous les divorcés \(Radio Edit\)](https://open.spotify.com/album/72I1tYvvWzK2Z2oNY53aad) | 3:54 | 2021-10-13 |  |
 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 | 2021-10-13 |  |
 | [Valse D'Amour](https://open.spotify.com/track/2iVmMB2InKijDlqc6mIrPe) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Paris Combo](https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb) | 2:46 | 2021-10-13 |  |

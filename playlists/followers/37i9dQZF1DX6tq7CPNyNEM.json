@@ -1,78 +1,1207 @@
 {
-  "2023-10-18": 370036,
-  "2023-10-19": 369986,
-  "2023-10-20": 369949,
-  "2023-10-21": 369907,
-  "2023-10-22": 369858,
-  "2023-10-23": 369807,
-  "2023-10-24": 369757,
-  "2023-10-25": 369729,
-  "2023-10-26": 369706,
-  "2023-10-27": 369682,
-  "2023-10-28": 369651,
-  "2023-10-29": 369608,
-  "2023-10-30": 369550,
-  "2023-10-31": 369550,
-  "2023-11-01": 369537,
-  "2023-11-02": 369502,
-  "2023-11-03": 369451,
-  "2023-11-04": 369436,
-  "2023-11-05": 369399,
-  "2023-11-06": 369356,
-  "2023-11-07": 369314,
-  "2023-11-08": 369300,
-  "2023-11-09": 369280,
-  "2023-11-10": 369228,
-  "2023-11-11": 369187,
-  "2023-11-12": 369153,
-  "2023-11-13": 369137,
-  "2023-11-14": 369103,
-  "2023-11-15": 369103,
-  "2023-11-16": 369017,
-  "2023-11-17": 368936,
-  "2023-11-18": 368936,
-  "2023-11-19": 368896,
-  "2023-11-20": 368878,
-  "2023-11-21": 368838,
-  "2023-11-22": 368815,
-  "2023-11-23": 368777,
-  "2023-11-24": 368738,
-  "2023-11-25": 368718,
-  "2023-11-26": 368684,
-  "2023-11-27": 368624,
-  "2023-11-28": 368571,
-  "2023-11-29": 368385,
-  "2023-11-30": 368385,
-  "2023-12-01": 368287,
-  "2023-12-02": 368219,
-  "2023-12-03": 368185,
-  "2023-12-04": 368122,
-  "2023-12-05": 368073,
-  "2023-12-06": 368043,
-  "2023-12-07": 367997,
-  "2023-12-08": 367962,
-  "2023-12-09": 367929,
-  "2023-12-10": 367908,
-  "2023-12-11": 367876,
-  "2023-12-12": 367852,
-  "2023-12-13": 367802,
-  "2023-12-14": 367772,
-  "2023-12-15": 367764,
-  "2023-12-16": 367744,
-  "2023-12-17": 367739,
-  "2023-12-18": 367729,
-  "2023-12-19": 367682,
-  "2023-12-20": 367620,
-  "2023-12-21": 367589,
-  "2023-12-22": 367575,
-  "2023-12-23": 367550,
-  "2023-12-24": 367527,
-  "2023-12-25": 367486,
-  "2023-12-26": 367490,
-  "2023-12-27": 367448,
-  "2023-12-30": 367308,
-  "2023-12-31": 367279,
-  "2024-01-01": 367238,
-  "2024-01-02": 367182,
-  "2024-01-03": 367131
+  "2024-01-17": 366637,
+  "date_first_scraped": "2023-10-18",
+  "description": "\"Remember who we are.\" Music from and inspired by Black Panther and Black Panther: Wakanda Forever.",
+  "name": "Black Panther Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268395,
+      "name": "A King's Sunset",
+      "url": "https://open.spotify.com/track/7sALWqhJo9Bv2QHVWyDjZa"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267520,
+      "name": "Ancestral Plane",
+      "url": "https://open.spotify.com/track/4WpiAjBDThflXFd1ozGiF5"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Remixed",
+        "url": "https://open.spotify.com/album/2VoZ1APXjzAvYM5roMmcyX"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Michael Uzowuru",
+          "url": "https://open.spotify.com/artist/4DPJ7nwvPKd79g0kcGDV3t"
+        },
+        {
+          "name": "Jeff Kleinman",
+          "url": "https://open.spotify.com/artist/6whj1ySXftwRYZxDnvkFZa"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164560,
+      "name": "Ancestral Plane - Uzowuru and Kleinman Remix",
+      "url": "https://open.spotify.com/track/4eO5QA3PXUuUbA6pB2BXvl"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188920,
+      "name": "Anya Mmiri",
+      "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "Big Shot (with Travis Scott)",
+      "url": "https://open.spotify.com/track/5cXg9IQS34FzLVdHhp7hu7"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Remixed",
+        "url": "https://open.spotify.com/album/2VoZ1APXjzAvYM5roMmcyX"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Ame Kora",
+          "url": "https://open.spotify.com/artist/5cxcLaIm5U7MoemnERcBTs"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76973,
+      "name": "Black Panther - Ludwig G\u00f6ransson Remix",
+      "url": "https://open.spotify.com/track/5o2hoi9BjSptwHHFSf0agI"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204940,
+      "name": "Burn It All",
+      "url": "https://open.spotify.com/track/5TejdBBwG1uUBLVLephe8D"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169302,
+      "name": "Busan Car Chase",
+      "url": "https://open.spotify.com/track/4xcJ9fwdL4ZOBfbMSs2wi5"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212535,
+      "name": "Casino Brawl",
+      "url": "https://open.spotify.com/track/6MjmJWJcDYSF7iJIMLzTCB"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176293,
+      "name": "Coming Back For You",
+      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Con La Brisa",
+      "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160226,
+      "name": "Con La Brisa - Film Version",
+      "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81202,
+      "name": "He Wasn't There",
+      "url": "https://open.spotify.com/track/2b1TtM5TSdUG9ds5y6pyWb"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Blue Rojo",
+          "url": "https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191773,
+      "name": "Inframundo",
+      "url": "https://open.spotify.com/track/7u2cPWo0974RudXZKDmdmT"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138520,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/2IWpTwTSmuVB6WjeuKN8Cl"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "Jele",
+      "url": "https://open.spotify.com/track/2CFGMjBuqypSwkDaYnrsk8"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175363,
+      "name": "Killmonger",
+      "url": "https://open.spotify.com/track/0w7yUSxpQV3a3HqlprOQUs"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307007,
+      "name": "Killmonger's Challenge",
+      "url": "https://open.spotify.com/track/1r4FCYgjJgCb97Jp9gu7PE"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+      "url": "https://open.spotify.com/track/1eLSF6HfrRA0AsNmTkUlKx"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157813,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Adn Maya Colectivo",
+          "url": "https://open.spotify.com/artist/3jADYwTI7Ae1cGiix32d3o"
+        },
+        {
+          "name": "Pat Boy",
+          "url": "https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40"
+        },
+        {
+          "name": "Yaalen K'uj",
+          "url": "https://open.spotify.com/artist/3otlAvVRLjmlSjCNDA8SBu"
+        },
+        {
+          "name": "All Mayan Winik",
+          "url": "https://open.spotify.com/artist/0gkJGL3WK17uE96aWRVDFd"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224746,
+      "name": "Laayli' kuxa'ano'one",
+      "url": "https://open.spotify.com/track/02dF3qjpgTpmPCBKo72C06"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "OG DAYV",
+          "url": "https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "Limoncello",
+      "url": "https://open.spotify.com/track/1yIJZPDmD1HwxR6SJYYQWA"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380053,
+      "name": "Love & Loyalty (Believe)",
+      "url": "https://open.spotify.com/track/6KsDoI8iySmXQ6UaSPuAx4"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe de Jes\u00fas Chan Poot",
+          "url": "https://open.spotify.com/artist/2RRmC4JQr7v3ejOAwxTwp5"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160480,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/3c1YCQvr720s61gHPgtkv8"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221154,
+      "name": "Namor",
+      "url": "https://open.spotify.com/track/4ZAzc0dAPTstqWmdkGe03W"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134986,
+      "name": "Namor's Throne",
+      "url": "https://open.spotify.com/track/7pPzIwOVlumOW8uZpuYlT4"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Calle x Vida",
+          "url": "https://open.spotify.com/artist/4nnXe6ziB1bhuKtsRUPVoz"
+        },
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "No Digas Mi Nombre",
+      "url": "https://open.spotify.com/track/1p9R4HF2WGtZDISBxMwF3R"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/0JAxf6vf8Lppihm55k13zv"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "SOB X RBE",
+          "url": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Paramedic!",
+      "url": "https://open.spotify.com/track/2tPcTFiQF9MbVUyjZ3zDhA"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151615,
+      "name": "Phambili",
+      "url": "https://open.spotify.com/track/5JLq8l9jbpKXojOJ8Zuax3"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "Pray For Me (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236350,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6n10RDTrk3F38PD9HuN0m1"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83107,
+      "name": "Spaceship Bugatti",
+      "url": "https://open.spotify.com/track/0buH53leReD5g6KacbmQel"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85026,
+      "name": "T'Challa",
+      "url": "https://open.spotify.com/track/5AnZGhVpAit04ocwEbzy04"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228945,
+      "name": "The Great Mound Battle",
+      "url": "https://open.spotify.com/track/5aZgBFCQfYn5LrmMGgB7PB"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238893,
+      "name": "The Ways (with Swae Lee)",
+      "url": "https://open.spotify.com/track/5jyyPsIGM2yqkZN9R3TmvN"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "They Want It, But No",
+      "url": "https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452252,
+      "name": "United Nations / End Titles",
+      "url": "https://open.spotify.com/track/1vIXp4rlWChyPTSA3ZgsXa"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140125,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Remixed",
+        "url": "https://open.spotify.com/album/2VoZ1APXjzAvYM5roMmcyX"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        },
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Wakanda - DJ Dahi Remix",
+      "url": "https://open.spotify.com/track/1u6PWhxFTHs0OuTfh5Mh79"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154643,
+      "name": "Wakanda Forever",
+      "url": "https://open.spotify.com/track/292qRD1CJzIgjCHjF7QZLT"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104360,
+      "name": "Wakanda Origins",
+      "url": "https://open.spotify.com/track/26TDW7daukOFINFzUUMJQ0"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246513,
+      "name": "Warrior Falls",
+      "url": "https://open.spotify.com/track/4N6XEpicdgcQNcwUDW5mnM"
+    },
+    {
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243608,
+      "name": "Waterfall Fight",
+      "url": "https://open.spotify.com/track/7b054PHccr2zZvSDaB7GgE"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "We Know What You Whisper",
+      "url": "https://open.spotify.com/track/55SCtqrks5WVsUHC2TxnLC"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130287,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/5aX9utO6yEMsfKHwcuT4jD"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267426,
+      "name": "X (with 2 Chainz & Saudi)",
+      "url": "https://open.spotify.com/track/4LmAnpjlhWTahvRkYR8xJa"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444003,
+      "name": "Yibambe!",
+      "url": "https://open.spotify.com/track/52C8uvCHoQ6DBt3di3Ft5E"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101356,
+      "name": "Yucat\u00e1n",
+      "url": "https://open.spotify.com/track/0mtL18uSAPi0vQ691oRWEu"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261786,
+      "name": "\u00c1rboles Bajo El Mar",
+      "url": "https://open.spotify.com/track/5UaiWpx39E60GAsoAtICoV"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389469,
+      "name": "\u00c1rboles Bajo El Mar - Film Version",
+      "url": "https://open.spotify.com/track/5YEpYN4oyDaWODhd5t4av3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6tq7CPNyNEM"
 }

@@ -512,10 +512,32 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 153600,
       "name": "Calathea",
       "url": "https://open.spotify.com/track/0eBoG9AbS66bi87PimGqZE"
+    },
+    {
+      "album": {
+        "name": "Calathea",
+        "url": "https://open.spotify.com/album/70bgkmeqNXZLB4xJ7u8Dp4"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Calathea",
+      "url": "https://open.spotify.com/track/6xliZhP2fmbkKCa3KaYB3p"
     },
     {
       "album": {
@@ -1316,6 +1338,28 @@
     {
       "album": {
         "name": "Helecho",
+        "url": "https://open.spotify.com/album/30S6Nlvv8ovvgsDkwP9h2W"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137100,
+      "name": "Helecho",
+      "url": "https://open.spotify.com/track/2Mbem8HiUJodif6c4a6tLL"
+    },
+    {
+      "album": {
+        "name": "Helecho",
         "url": "https://open.spotify.com/album/46g3w3mPi117Oho4GUL4eC"
       },
       "artists": [
@@ -1330,7 +1374,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 137100,
       "name": "Helecho",
       "url": "https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA"

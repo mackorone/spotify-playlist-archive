@@ -1,178 +1,897 @@
 {
-  "2023-07-10": 89013,
-  "2023-07-11": 89069,
-  "2023-07-12": 89129,
-  "2023-07-13": 89183,
-  "2023-07-14": 89229,
-  "2023-07-15": 89262,
-  "2023-07-16": 89308,
-  "2023-07-17": 89345,
-  "2023-07-18": 89398,
-  "2023-07-19": 89440,
-  "2023-07-20": 89505,
-  "2023-07-21": 89556,
-  "2023-07-22": 89616,
-  "2023-07-23": 89669,
-  "2023-07-24": 89715,
-  "2023-07-25": 89780,
-  "2023-07-26": 89832,
-  "2023-07-27": 89902,
-  "2023-07-28": 89978,
-  "2023-07-29": 90042,
-  "2023-07-30": 90096,
-  "2023-07-31": 90143,
-  "2023-08-01": 90209,
-  "2023-08-02": 90279,
-  "2023-08-03": 90343,
-  "2023-08-04": 90407,
-  "2023-08-05": 90461,
-  "2023-08-06": 90582,
-  "2023-08-07": 90582,
-  "2023-08-08": 90651,
-  "2023-08-09": 90741,
-  "2023-08-10": 90807,
-  "2023-08-11": 90885,
-  "2023-08-12": 90971,
-  "2023-08-13": 90971,
-  "2023-08-14": 91103,
-  "2023-08-15": 91247,
-  "2023-08-16": 91247,
-  "2023-08-17": 91298,
-  "2023-08-18": 91363,
-  "2023-08-19": 91430,
-  "2023-08-20": 91470,
-  "2023-08-21": 91516,
-  "2023-08-22": 91585,
-  "2023-08-23": 91630,
-  "2023-08-24": 91704,
-  "2023-08-25": 91764,
-  "2023-08-26": 91810,
-  "2023-08-27": 91857,
-  "2023-08-28": 91904,
-  "2023-08-29": 91968,
-  "2023-08-30": 91968,
-  "2023-08-31": 92072,
-  "2023-09-01": 92187,
-  "2023-09-02": 92187,
-  "2023-09-03": 92242,
-  "2023-09-04": 92242,
-  "2023-09-05": 92327,
-  "2023-09-06": 92386,
-  "2023-09-07": 92386,
-  "2023-09-08": 92386,
-  "2023-09-09": 92386,
-  "2023-09-10": 92604,
-  "2023-09-11": 92657,
-  "2023-09-12": 92657,
-  "2023-09-13": 92766,
-  "2023-09-14": 92766,
-  "2023-09-15": 92864,
-  "2023-09-16": 92911,
-  "2023-09-17": 92911,
-  "2023-09-18": 92911,
-  "2023-09-19": 93090,
-  "2023-09-20": 93123,
-  "2023-09-21": 93123,
-  "2023-09-22": 93234,
-  "2023-09-23": 93234,
-  "2023-09-24": 93234,
-  "2023-09-25": 93234,
-  "2023-09-26": 93376,
-  "2023-09-27": 93376,
-  "2023-09-28": 93376,
-  "2023-09-29": 93376,
-  "2023-09-30": 93376,
-  "2023-10-01": 93376,
-  "2023-10-02": 93606,
-  "2023-10-03": 93606,
-  "2023-10-04": 93606,
-  "2023-10-05": 93738,
-  "2023-10-06": 93774,
-  "2023-10-07": 93774,
-  "2023-10-08": 93774,
-  "2023-10-09": 93774,
-  "2023-10-10": 93774,
-  "2023-10-11": 93944,
-  "2023-10-12": 93944,
-  "2023-10-13": 93981,
-  "2023-10-14": 93981,
-  "2023-10-15": 93981,
-  "2023-10-16": 93981,
-  "2023-10-17": 93981,
-  "2023-10-18": 93981,
-  "2023-10-19": 93981,
-  "2023-10-20": 93981,
-  "2023-10-21": 93981,
-  "2023-10-22": 93981,
-  "2023-10-23": 93981,
-  "2023-10-24": 93981,
-  "2023-10-25": 93981,
-  "2023-10-26": 93981,
-  "2023-10-27": 93981,
-  "2023-10-28": 93981,
-  "2023-10-29": 93981,
-  "2023-10-30": 93981,
-  "2023-10-31": 93981,
-  "2023-11-01": 93981,
-  "2023-11-02": 93981,
-  "2023-11-03": 93981,
-  "2023-11-04": 93981,
-  "2023-11-05": 93981,
-  "2023-11-06": 93981,
-  "2023-11-07": 93981,
-  "2023-11-08": 93981,
-  "2023-11-09": 93981,
-  "2023-11-10": 93981,
-  "2023-11-11": 95168,
-  "2023-11-12": 95168,
-  "2023-11-13": 95168,
-  "2023-11-14": 95168,
-  "2023-11-15": 95168,
-  "2023-11-16": 95168,
-  "2023-11-17": 95168,
-  "2023-11-18": 95168,
-  "2023-11-19": 95168,
-  "2023-11-20": 95168,
-  "2023-11-21": 95168,
-  "2023-11-22": 95168,
-  "2023-11-23": 95168,
-  "2023-11-24": 95168,
-  "2023-11-25": 95168,
-  "2023-11-26": 95168,
-  "2023-11-27": 95168,
-  "2023-11-28": 95168,
-  "2023-11-29": 95168,
-  "2023-11-30": 95168,
-  "2023-12-01": 95168,
-  "2023-12-02": 95168,
-  "2023-12-03": 95168,
-  "2023-12-04": 95168,
-  "2023-12-05": 95168,
-  "2023-12-06": 95168,
-  "2023-12-07": 95168,
-  "2023-12-08": 95168,
-  "2023-12-09": 95168,
-  "2023-12-10": 95168,
-  "2023-12-11": 95168,
-  "2023-12-12": 95168,
-  "2023-12-13": 95168,
-  "2023-12-14": 99761,
-  "2023-12-15": 99861,
-  "2023-12-16": 99963,
-  "2023-12-17": 100050,
-  "2023-12-18": 100126,
-  "2023-12-19": 100213,
-  "2023-12-20": 100306,
-  "2023-12-21": 100406,
-  "2023-12-22": 100506,
-  "2023-12-23": 100595,
-  "2023-12-24": 100691,
-  "2023-12-25": 100747,
-  "2023-12-26": 100833,
-  "2023-12-27": 100909,
-  "2023-12-30": 101156,
-  "2023-12-31": 101222,
-  "2024-01-01": 101305,
-  "2024-01-02": 101363,
-  "2024-01-03": 101423
+  "2024-01-17": 102071,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
+  "name": "This Is Isadora Pompeo",
+  "tracks": [
+    {
+      "album": {
+        "name": "10 Anos",
+        "url": "https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199338,
+      "name": "10 Anos",
+      "url": "https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487384,
+      "name": "A Casa \u00e9 Sua + Labareda",
+      "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259862,
+      "name": "Assume A Responsa",
+      "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
+    },
+    {
+      "album": {
+        "name": "Bem Perto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426318,
+      "name": "Bem Perto - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
+    },
+    {
+      "album": {
+        "name": "Bra\u00e7os de Amor",
+        "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332333,
+      "name": "Bra\u00e7os de Amor",
+      "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
+    },
+    {
+      "album": {
+        "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
+        "url": "https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
+      "url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 658333,
+      "name": "Casinha Favorita",
+      "url": "https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH"
+    },
+    {
+      "album": {
+        "name": "Como Nunca Antes",
+        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283360,
+      "name": "Como Nunca Antes",
+      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
+    },
+    {
+      "album": {
+        "name": "Confio em Ti",
+        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252453,
+      "name": "Confio em Ti",
+      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
+    },
+    {
+      "album": {
+        "name": "Cuido dos Detalhes",
+        "url": "https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213420,
+      "name": "Cuido dos Detalhes",
+      "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
+    },
+    {
+      "album": {
+        "name": "Deus Faz Al\u00e9m (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290080,
+      "name": "Deus Faz Al\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289714,
+      "name": "Diante De Ti",
+      "url": "https://open.spotify.com/track/6kF89RbyQkJnpkVwO96q24"
+    },
+    {
+      "album": {
+        "name": "Dono dos Meus Dias",
+        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "Dono dos Meus Dias",
+      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+    },
+    {
+      "album": {
+        "name": "Ela Brilha",
+        "url": "https://open.spotify.com/album/3GHxmt33mCzl9JDww1zsEY"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161838,
+      "name": "Ela Brilha",
+      "url": "https://open.spotify.com/track/1pqjV5tkr6KwMtKvcYcH2r"
+    },
+    {
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276080,
+      "name": "Em Troca",
+      "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
+    },
+    {
+      "album": {
+        "name": "Espero Por Ti",
+        "url": "https://open.spotify.com/album/6HPsW00Ig5tKjcU5jywqVb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348151,
+      "name": "Espero Por Ti",
+      "url": "https://open.spotify.com/track/00L5VK0Etex3Kolo7iglIV"
+    },
+    {
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247960,
+      "name": "Eu Sei Que Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv"
+    },
+    {
+      "album": {
+        "name": "Eu Tenho Voc\u00ea",
+        "url": "https://open.spotify.com/album/0BepCUYcUCobNvuZ7IaSN8"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394960,
+      "name": "Eu Tenho Voc\u00ea",
+      "url": "https://open.spotify.com/track/7HLxTNn9psg9mipna5QjIC"
+    },
+    {
+      "album": {
+        "name": "Me Faz Viver",
+        "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191552,
+      "name": "Eu Tenho Voc\u00ea (Remix)",
+      "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
+    },
+    {
+      "album": {
+        "name": "Guia-me",
+        "url": "https://open.spotify.com/album/2EEQMKmT4Ce4VCYWuWMSQS"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248062,
+      "name": "Guia-me",
+      "url": "https://open.spotify.com/track/2epjjOlDk4NrSMPtCvPkSc"
+    },
+    {
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Hey, Pai - Ao Vivo",
+      "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
+    },
+    {
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
+    },
+    {
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411000,
+      "name": "Minha Morada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU"
+    },
+    {
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230773,
+      "name": "M\u00e1scaras",
+      "url": "https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1"
+    },
+    {
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292755,
+      "name": "Nada Pode Calar Um Adorador",
+      "url": "https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR"
+    },
+    {
+      "album": {
+        "name": "Nem Um Segundo",
+        "url": "https://open.spotify.com/album/1L0d5ejVgEd1og01wwET1u"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pompeo",
+          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349333,
+      "name": "Nem Um Segundo",
+      "url": "https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o H\u00e1 o Que Temer",
+        "url": "https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252352,
+      "name": "N\u00e3o H\u00e1 o Que Temer",
+      "url": "https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86"
+    },
+    {
+      "album": {
+        "name": "O Nome de Jesus",
+        "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307741,
+      "name": "O Nome de Jesus",
+      "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
+    },
+    {
+      "album": {
+        "name": "Oi, Jesus",
+        "url": "https://open.spotify.com/album/1mQXcTWqbRM5DNgOPN70N4"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233766,
+      "name": "Oi, Jesus",
+      "url": "https://open.spotify.com/track/24yMODgKNyQDvvCKlbwlxR"
+    },
+    {
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Preciso Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
+    },
+    {
+      "album": {
+        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193453,
+      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
+    },
+    {
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265906,
+      "name": "Processo",
+      "url": "https://open.spotify.com/track/1YVzZ98wN0QQB19fP6M4Tq"
+    },
+    {
+      "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+    },
+    {
+      "album": {
+        "name": "Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236470,
+      "name": "Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
+    },
+    {
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "Seja Forte",
+      "url": "https://open.spotify.com/track/0qM6uIO0GlEkAPrwAXorzJ"
+    },
+    {
+      "album": {
+        "name": "Seu Amor",
+        "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192402,
+      "name": "Seu Amor",
+      "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
+    },
+    {
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205266,
+      "name": "Sua Paz",
+      "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
+    },
+    {
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Toca em Mim de Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5jztY2semlZDUkLAmwxq9f"
+    },
+    {
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240697,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
+    },
+    {
+      "album": {
+        "name": "Tu \u00c9s Santo",
+        "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220066,
+      "name": "Tu \u00c9s Santo",
+      "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 773437,
+      "name": "Tu \u00c9s Tudo",
+      "url": "https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6"
+    },
+    {
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238393,
+      "name": "Tua Alegria - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mX4HxIdFMOCKiTxWwOO0d"
+    },
+    {
+      "album": {
+        "name": "Vai Passar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285624,
+      "name": "Vai Passar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB"
+    },
+    {
+      "album": {
+        "name": "Vou Me Humilhar",
+        "url": "https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236493,
+      "name": "Vou Me Humilhar",
+      "url": "https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04Bs6I"
 }

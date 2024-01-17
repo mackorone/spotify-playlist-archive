@@ -1,54 +1,1005 @@
 {
-  "2023-11-11": 126348,
-  "2023-11-12": 126348,
-  "2023-11-13": 126348,
-  "2023-11-14": 126348,
-  "2023-11-15": 126348,
-  "2023-11-16": 126348,
-  "2023-11-17": 126348,
-  "2023-11-18": 126348,
-  "2023-11-19": 126348,
-  "2023-11-20": 126348,
-  "2023-11-21": 126348,
-  "2023-11-22": 126348,
-  "2023-11-23": 126348,
-  "2023-11-24": 126348,
-  "2023-11-25": 126348,
-  "2023-11-26": 126348,
-  "2023-11-27": 126348,
-  "2023-11-28": 126348,
-  "2023-11-29": 126348,
-  "2023-11-30": 126348,
-  "2023-12-01": 126348,
-  "2023-12-02": 126348,
-  "2023-12-03": 126348,
-  "2023-12-04": 126348,
-  "2023-12-05": 126348,
-  "2023-12-06": 126348,
-  "2023-12-07": 126348,
-  "2023-12-08": 126348,
-  "2023-12-09": 126348,
-  "2023-12-10": 126348,
-  "2023-12-11": 126348,
-  "2023-12-12": 126348,
-  "2023-12-13": 126348,
-  "2023-12-14": 128453,
-  "2023-12-15": 128476,
-  "2023-12-16": 128530,
-  "2023-12-17": 128581,
-  "2023-12-18": 128638,
-  "2023-12-19": 128665,
-  "2023-12-20": 128703,
-  "2023-12-21": 128746,
-  "2023-12-22": 128778,
-  "2023-12-23": 128839,
-  "2023-12-24": 128898,
-  "2023-12-25": 128927,
-  "2023-12-26": 128974,
-  "2023-12-27": 129015,
-  "2023-12-30": 129099,
-  "2023-12-31": 129128,
-  "2024-01-01": 129159,
-  "2024-01-02": 129183,
-  "2024-01-03": 129232
+  "2024-01-17": 129611,
+  "date_first_scraped": "2023-11-11",
+  "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
+  "name": "This Is Bj\u00f6rk",
+  "tracks": [
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/12xYo4U9LASuSrxTjFYpBW"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286333,
+      "name": "All Is Full Of Love",
+      "url": "https://open.spotify.com/track/6igs0Bpazd8H8VM8tJZaHB"
+    },
+    {
+      "album": {
+        "name": "Mount Wittenberg Orca (Expanded Edition)",
+        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 283906,
+      "name": "All We Are",
+      "url": "https://open.spotify.com/track/70eo8KLj0DFdbis2QYfas0"
+    },
+    {
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Sindri Eldon",
+          "url": "https://open.spotify.com/artist/7MrUhoxTFdz4HWkm0VIooA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437914,
+      "name": "Ancestress",
+      "url": "https://open.spotify.com/track/08sEEy8n3kkCDBjZdYZ4GV"
+    },
+    {
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234106,
+      "name": "Army Of Me",
+      "url": "https://open.spotify.com/track/5zRuPOBoe38AjACFMsxkof"
+    },
+    {
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286903,
+      "name": "Atopos",
+      "url": "https://open.spotify.com/track/6CHhrFW3XkOy3UfZnLck2g"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312666,
+      "name": "Bachelorette",
+      "url": "https://open.spotify.com/track/30j9ij28SJum1lp740MsHS"
+    },
+    {
+      "album": {
+        "name": "Mount Wittenberg Orca (Expanded Edition)",
+        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136360,
+      "name": "Beautiful Mother",
+      "url": "https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Big Time Sensuality",
+      "url": "https://open.spotify.com/track/6K0g7J6sKHwvDF6b2KGN3t"
+    },
+    {
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608760,
+      "name": "Black Lake",
+      "url": "https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe"
+    },
+    {
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305706,
+      "name": "Blissing Me",
+      "url": "https://open.spotify.com/track/0QEwFjt0hX1aQqrJY20HCz"
+    },
+    {
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268106,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/46qr02ktTNzOwJAqiQg8gv"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295360,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/0bHpsorTpt9wX6Dkr2LEfg"
+    },
+    {
+      "album": {
+        "name": "Biophilia",
+        "url": "https://open.spotify.com/album/5GV4CBWPqU7P05KUaKyDZ1"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308053,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/4a26gjktpS0Yoh8bLiwkUT"
+    },
+    {
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/28GJnnbJ7fOKi2YBqlxWb9"
+    },
+    {
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44405,
+      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
+      "url": "https://open.spotify.com/track/7sxmybK8Eo24k9uOWttqWS"
+    },
+    {
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259064,
+      "name": "Fossora",
+      "url": "https://open.spotify.com/track/6JjISShxjXOGx8C40pBtQJ"
+    },
+    {
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101506,
+      "name": "Frosti",
+      "url": "https://open.spotify.com/track/7pLQIIweYDsmfwgf5xaGrq"
+    },
+    {
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329360,
+      "name": "Hidden Place",
+      "url": "https://open.spotify.com/track/4c6LgotpKGB791EsNeu9gr"
+    },
+    {
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "History Of Touches",
+      "url": "https://open.spotify.com/track/5VrL9zKmi3P2IwtnvP5yfU"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252360,
+      "name": "Human Behaviour",
+      "url": "https://open.spotify.com/track/6Kz3o55LxMA11GbvFXHFtX"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255266,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3"
+    },
+    {
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321533,
+      "name": "Hyper-ballad",
+      "url": "https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk"
+    },
+    {
+      "album": {
+        "name": "Venus As A Boy",
+        "url": "https://open.spotify.com/album/5qSFDaRhhU16dPjwqONHjL"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253533,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/1F3BNDJwq2q0yWHH0a3YV9"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "Immature - Mark Bell's Version",
+      "url": "https://open.spotify.com/track/07GGbKqM9rBCv8sGFwpp3Q"
+    },
+    {
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347026,
+      "name": "Isobel",
+      "url": "https://open.spotify.com/track/1qyD5xpCI53VtITnxwB5Xn"
+    },
+    {
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/5BQ7QRKTkw2qhN2bq0rZW7"
+    },
+    {
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "It's Oh So Quiet",
+      "url": "https://open.spotify.com/track/3CMVjlbvNJMHDfYPX7xCpi"
+    },
+    {
+      "album": {
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/7r2Viryrm2jIyfb7XcFe20"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329360,
+      "name": "I\u2019ve Seen It All",
+      "url": "https://open.spotify.com/track/4jF3THVe40jCfgMXOWS5C0"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305360,
+      "name": "J\u00f3ga",
+      "url": "https://open.spotify.com/track/18NehrWLUFK7NPH522YQMQ"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273400,
+      "name": "Like Someone in Love",
+      "url": "https://open.spotify.com/track/0eDVClItJH4PkfPu7dciKP"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 273400,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/61QEkw7VnsH9kWUm1Zjunq"
+    },
+    {
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368693,
+      "name": "Lionsong",
+      "url": "https://open.spotify.com/track/2ZW9hbML7eNemHLsak7zjF"
+    },
+    {
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120175,
+      "name": "Mycelia",
+      "url": "https://open.spotify.com/track/15hl5FGO5b5ChONsKTLvde"
+    },
+    {
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386560,
+      "name": "Notget",
+      "url": "https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj"
+    },
+    {
+      "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204853,
+      "name": "Oceania",
+      "url": "https://open.spotify.com/track/4aQGlcbxrtsDRo8JvMUDC5"
+    },
+    {
+      "album": {
+        "name": "Oral",
+        "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222737,
+      "name": "Oral",
+      "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
+    },
+    {
+      "album": {
+        "name": "Ovule (feat. Shygirl) [Sega Bodega Remix]",
+        "url": "https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224827,
+      "name": "Ovule (feat. Shygirl) [Sega Bodega Remix]",
+      "url": "https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C"
+    },
+    {
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314866,
+      "name": "Pagan Poetry",
+      "url": "https://open.spotify.com/track/3Te7GWFEecCGPpkWVTjJ1h"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/4ORsCg1x8p80RfW0vXA35N"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "David Arnold",
+          "url": "https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE"
+        },
+        {
+          "name": "Tim Simenon",
+          "url": "https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Play Dead - Tim Simenon 7\" Remix",
+      "url": "https://open.spotify.com/track/0Yf5QZuSwH3LUlzEWGdP1x"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/6aJIbT3rh6jF9xqM2hBLel"
+    },
+    {
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306773,
+      "name": "Possibly Maybe",
+      "url": "https://open.spotify.com/track/1F4JhiiFTGgga9tC5UuN5v"
+    },
+    {
+      "album": {
+        "name": "Mount Wittenberg Orca (Expanded Edition)",
+        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sharing Orb",
+      "url": "https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C"
+    },
+    {
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195943,
+      "name": "Sorrowful Soil",
+      "url": "https://open.spotify.com/track/2ETLJnzi2cPo6RX3VgzRnl"
+    },
+    {
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409320,
+      "name": "Stonemilker",
+      "url": "https://open.spotify.com/track/7mg5wIB2b6D5K5mOhALKxs"
+    },
+    {
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Sun In My Mouth",
+      "url": "https://open.spotify.com/track/3EjTqXJF3xuaEYplpcPQYw"
+    },
+    {
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393573,
+      "name": "The Gate",
+      "url": "https://open.spotify.com/track/7g2YQhm3jIxHnkMAeLjduf"
+    },
+    {
+      "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244213,
+      "name": "Triumph Of A Heart",
+      "url": "https://open.spotify.com/track/2ZJdtalkNonRqukSTaYTf9"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/7l3AN8XtVIdfc0yxmoQ1Xg"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282560,
+      "name": "Venus As A Boy",
+      "url": "https://open.spotify.com/track/0NNgY2gc1TUwBQoVp98Fxw"
+    },
+    {
+      "album": {
+        "name": "Mount Wittenberg Orca (Expanded Edition)",
+        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 76866,
+      "name": "Wave Invocation - MWO I Inverness Demo",
+      "url": "https://open.spotify.com/track/7dtbmyduD0vFe8q5DGA0Tw"
+    },
+    {
+      "album": {
+        "name": "Mount Wittenberg Orca (Expanded Edition)",
+        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188053,
+      "name": "When the World Comes to an End",
+      "url": "https://open.spotify.com/track/09TNNle5fDBPUtLpO6a7BK"
+    },
+    {
+      "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)",
+      "url": "https://open.spotify.com/track/0LyiKRBtKkIaTZKXBcDyb3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg"
 }

@@ -1,735 +1,1471 @@
 {
-  "2021-12-25": 306897,
-  "2021-12-26": 307009,
-  "2021-12-27": 307183,
-  "2021-12-28": 307186,
-  "2021-12-29": 307269,
-  "2021-12-30": 307366,
-  "2021-12-31": 307456,
-  "2022-01-01": 307644,
-  "2022-01-02": 307683,
-  "2022-01-03": 307757,
-  "2022-01-04": 307820,
-  "2022-01-05": 307915,
-  "2022-01-06": 308009,
-  "2022-01-07": 308090,
-  "2022-01-08": 308286,
-  "2022-01-09": 308288,
-  "2022-01-10": 308358,
-  "2022-01-11": 308442,
-  "2022-01-12": 308537,
-  "2022-01-13": 308636,
-  "2022-01-14": 308748,
-  "2022-01-15": 308992,
-  "2022-01-16": 308997,
-  "2022-01-17": 309210,
-  "2022-01-18": 309221,
-  "2022-01-19": 309295,
-  "2022-01-20": 309387,
-  "2022-01-21": 309480,
-  "2022-01-22": 309613,
-  "2022-01-23": 309765,
-  "2022-01-24": 309901,
-  "2022-01-25": 309993,
-  "2022-01-26": 310098,
-  "2022-01-27": 310178,
-  "2022-01-28": 310266,
-  "2022-01-29": 310367,
-  "2022-01-30": 310526,
-  "2022-01-31": 310677,
-  "2022-02-01": 310786,
-  "2022-02-02": 310896,
-  "2022-02-03": 310992,
-  "2022-02-04": 311113,
-  "2022-02-05": 311241,
-  "2022-02-06": 311379,
-  "2022-02-07": 311508,
-  "2022-02-08": 311626,
-  "2022-02-09": 311726,
-  "2022-02-10": 311849,
-  "2022-02-11": 311964,
-  "2022-02-12": 312090,
-  "2022-02-13": 312228,
-  "2022-02-14": 312379,
-  "2022-02-15": 312457,
-  "2022-02-16": 312546,
-  "2022-02-17": 312630,
-  "2022-02-18": 312723,
-  "2022-02-19": 312846,
-  "2022-02-20": 313011,
-  "2022-02-21": 313151,
-  "2022-02-22": 313244,
-  "2022-02-23": 313360,
-  "2022-02-24": 313459,
-  "2022-02-25": 313532,
-  "2022-02-26": 313630,
-  "2022-02-27": 313856,
-  "2022-02-28": 313856,
-  "2022-03-01": 313921,
-  "2022-03-02": 313997,
-  "2022-03-03": 314084,
-  "2022-03-04": 314182,
-  "2022-03-05": 314298,
-  "2022-03-06": 314412,
-  "2022-03-07": 314547,
-  "2022-03-08": 314624,
-  "2022-03-09": 314733,
-  "2022-03-10": 314812,
-  "2022-03-11": 314917,
-  "2022-03-12": 315018,
-  "2022-03-13": 315135,
-  "2022-03-14": 315231,
-  "2022-03-15": 315301,
-  "2022-03-16": 315399,
-  "2022-03-17": 315517,
-  "2022-03-18": 315644,
-  "2022-03-19": 315711,
-  "2022-03-20": 315711,
-  "2022-03-21": 315979,
-  "2022-03-22": 316074,
-  "2022-03-23": 316200,
-  "2022-03-24": 316301,
-  "2022-03-25": 316425,
-  "2022-03-26": 316549,
-  "2022-03-27": 316657,
-  "2022-03-28": 316752,
-  "2022-03-30": 316908,
-  "2022-03-31": 317023,
-  "2022-04-01": 317120,
-  "2022-04-02": 317223,
-  "2022-04-03": 317362,
-  "2022-04-04": 317468,
-  "2022-04-05": 317549,
-  "2022-04-06": 317663,
-  "2022-04-07": 317753,
-  "2022-04-08": 317842,
-  "2022-04-09": 317953,
-  "2022-04-10": 318221,
-  "2022-04-11": 318313,
-  "2022-04-12": 318317,
-  "2022-04-13": 318398,
-  "2022-04-14": 318512,
-  "2022-04-15": 318633,
-  "2022-04-16": 318754,
-  "2022-04-17": 318879,
-  "2022-04-18": 319004,
-  "2022-04-19": 319089,
-  "2022-04-20": 319190,
-  "2022-04-21": 319274,
-  "2022-04-22": 319378,
-  "2022-04-23": 319485,
-  "2022-04-24": 319599,
-  "2022-04-25": 319721,
-  "2022-04-26": 319815,
-  "2022-04-27": 319913,
-  "2022-04-28": 320011,
-  "2022-04-29": 320162,
-  "2022-04-30": 320336,
-  "2022-05-01": 320519,
-  "2022-05-02": 320519,
-  "2022-05-03": 320616,
-  "2022-05-04": 320720,
-  "2022-05-05": 320786,
-  "2022-05-06": 320897,
-  "2022-05-07": 321000,
-  "2022-05-08": 321217,
-  "2022-05-09": 321234,
-  "2022-05-10": 321314,
-  "2022-05-11": 321420,
-  "2022-05-12": 321511,
-  "2022-05-13": 321598,
-  "2022-05-14": 321720,
-  "2022-05-15": 321852,
-  "2022-05-16": 321957,
-  "2022-05-17": 322048,
-  "2022-05-18": 322109,
-  "2022-05-19": 322203,
-  "2022-05-20": 322326,
-  "2022-05-21": 322525,
-  "2022-05-22": 322525,
-  "2022-05-23": 322654,
-  "2022-05-24": 322724,
-  "2022-05-25": 322805,
-  "2022-05-26": 322909,
-  "2022-05-27": 323003,
-  "2022-05-28": 323119,
-  "2022-05-29": 323247,
-  "2022-05-30": 323352,
-  "2022-05-31": 323443,
-  "2022-06-01": 323635,
-  "2022-06-02": 323637,
-  "2022-06-03": 323731,
-  "2022-06-04": 323849,
-  "2022-06-05": 323960,
-  "2022-06-06": 324064,
-  "2022-06-07": 324172,
-  "2022-06-08": 324283,
-  "2022-06-09": 324347,
-  "2022-06-10": 324459,
-  "2022-06-11": 324555,
-  "2022-06-12": 324675,
-  "2022-06-13": 324789,
-  "2022-06-14": 324881,
-  "2022-06-15": 324976,
-  "2022-06-16": 325085,
-  "2022-06-17": 325201,
-  "2022-06-18": 325332,
-  "2022-06-19": 325580,
-  "2022-06-20": 325580,
-  "2022-06-21": 325651,
-  "2022-06-22": 325858,
-  "2022-06-23": 325858,
-  "2022-06-24": 325993,
-  "2022-06-25": 326119,
-  "2022-06-26": 326246,
-  "2022-06-27": 326360,
-  "2022-06-28": 326461,
-  "2022-06-29": 326556,
-  "2022-06-30": 326645,
-  "2022-07-01": 326766,
-  "2022-07-02": 326848,
-  "2022-07-03": 326993,
-  "2022-07-04": 327138,
-  "2022-07-05": 327223,
-  "2022-07-06": 327324,
-  "2022-07-07": 327422,
-  "2022-07-08": 327537,
-  "2022-07-09": 327648,
-  "2022-07-10": 327778,
-  "2022-07-11": 327911,
-  "2022-07-12": 328001,
-  "2022-07-13": 328098,
-  "2022-07-14": 328210,
-  "2022-07-15": 328323,
-  "2022-07-16": 328417,
-  "2022-07-17": 328538,
-  "2022-07-18": 328633,
-  "2022-07-19": 328723,
-  "2022-07-20": 328815,
-  "2022-07-21": 328939,
-  "2022-07-22": 329041,
-  "2022-07-23": 329172,
-  "2022-07-24": 329319,
-  "2022-07-25": 329416,
-  "2022-07-26": 329509,
-  "2022-07-27": 329608,
-  "2022-07-28": 329701,
-  "2022-07-29": 329823,
-  "2022-07-30": 330074,
-  "2022-07-31": 330074,
-  "2022-08-01": 330209,
-  "2022-08-02": 330386,
-  "2022-08-03": 330386,
-  "2022-08-04": 330484,
-  "2022-08-05": 330558,
-  "2022-08-06": 330673,
-  "2022-08-07": 330827,
-  "2022-08-08": 330942,
-  "2022-08-09": 331029,
-  "2022-08-10": 331137,
-  "2022-08-11": 331202,
-  "2022-08-12": 331310,
-  "2022-08-13": 331466,
-  "2022-08-14": 331580,
-  "2022-08-15": 331689,
-  "2022-08-16": 331785,
-  "2022-08-17": 331888,
-  "2022-08-18": 331971,
-  "2022-08-19": 332080,
-  "2022-08-20": 332210,
-  "2022-08-21": 332333,
-  "2022-08-22": 332435,
-  "2022-08-23": 332527,
-  "2022-08-24": 332625,
-  "2022-08-25": 332753,
-  "2022-08-26": 332846,
-  "2022-08-27": 332940,
-  "2022-08-28": 333080,
-  "2022-08-29": 333180,
-  "2022-08-30": 333123,
-  "2022-08-31": 332868,
-  "2022-09-01": 332591,
-  "2022-09-02": 332306,
-  "2022-09-03": 331742,
-  "2022-09-04": 331578,
-  "2022-09-05": 331641,
-  "2022-09-06": 331722,
-  "2022-09-07": 331813,
-  "2022-09-09": 332021,
-  "2022-09-10": 332130,
-  "2022-09-11": 332256,
-  "2022-09-12": 332355,
-  "2022-09-13": 332431,
-  "2022-09-15": 332641,
-  "2022-09-16": 332725,
-  "2022-09-17": 332829,
-  "2022-09-18": 332937,
-  "2022-09-19": 333048,
-  "2022-09-20": 333148,
-  "2022-09-21": 333233,
-  "2022-09-22": 333381,
-  "2022-09-23": 333496,
-  "2022-09-24": 333607,
-  "2022-09-25": 333728,
-  "2022-09-26": 333866,
-  "2022-09-27": 333963,
-  "2022-09-28": 334091,
-  "2022-09-29": 334199,
-  "2022-09-30": 334330,
-  "2022-10-01": 334454,
-  "2022-10-02": 334559,
-  "2022-10-03": 334683,
-  "2022-10-04": 334757,
-  "2022-10-05": 334842,
-  "2022-10-06": 334944,
-  "2022-10-07": 335047,
-  "2022-10-08": 335186,
-  "2022-10-09": 335400,
-  "2022-10-10": 335424,
-  "2022-10-11": 335520,
-  "2022-10-12": 335615,
-  "2022-10-13": 335714,
-  "2022-10-14": 335820,
-  "2022-10-15": 335936,
-  "2022-10-16": 336073,
-  "2022-10-17": 336214,
-  "2022-10-18": 336321,
-  "2022-10-19": 336425,
-  "2022-10-20": 336538,
-  "2022-10-21": 336635,
-  "2022-10-22": 336768,
-  "2022-10-23": 336895,
-  "2022-10-24": 337016,
-  "2022-10-25": 337107,
-  "2022-10-26": 337210,
-  "2022-10-27": 337319,
-  "2022-10-28": 337416,
-  "2022-10-29": 337534,
-  "2022-10-30": 337678,
-  "2022-10-31": 337803,
-  "2022-11-01": 337903,
-  "2022-11-02": 337986,
-  "2022-11-03": 338084,
-  "2022-11-04": 338200,
-  "2022-11-05": 338330,
-  "2022-11-06": 338474,
-  "2022-11-07": 338609,
-  "2022-11-08": 338718,
-  "2022-11-09": 338817,
-  "2022-11-10": 338929,
-  "2022-11-11": 339081,
-  "2022-11-12": 339218,
-  "2022-11-13": 339341,
-  "2022-11-14": 339482,
-  "2022-11-15": 339593,
-  "2022-11-16": 339688,
-  "2022-11-17": 339767,
-  "2022-11-18": 339796,
-  "2022-11-19": 339814,
-  "2022-11-20": 339901,
-  "2022-11-21": 340035,
-  "2022-11-22": 340179,
-  "2022-11-23": 340270,
-  "2022-11-24": 340465,
-  "2022-11-25": 340612,
-  "2022-11-26": 340733,
-  "2022-11-27": 340851,
-  "2022-11-28": 340970,
-  "2022-11-29": 341058,
-  "2022-11-30": 341156,
-  "2022-12-01": 341237,
-  "2022-12-02": 341317,
-  "2022-12-03": 341430,
-  "2022-12-04": 341550,
-  "2022-12-05": 341670,
-  "2022-12-06": 341748,
-  "2022-12-07": 341849,
-  "2022-12-08": 341948,
-  "2022-12-09": 342047,
-  "2022-12-10": 342161,
-  "2022-12-11": 342295,
-  "2022-12-12": 342400,
-  "2022-12-13": 342493,
-  "2022-12-14": 342596,
-  "2022-12-15": 342679,
-  "2022-12-16": 342775,
-  "2022-12-17": 342882,
-  "2022-12-18": 343026,
-  "2022-12-19": 343137,
-  "2022-12-20": 343315,
-  "2022-12-21": 343315,
-  "2022-12-22": 343440,
-  "2022-12-24": 343675,
-  "2022-12-25": 343794,
-  "2022-12-26": 343913,
-  "2022-12-27": 344045,
-  "2022-12-28": 344148,
-  "2022-12-29": 344237,
-  "2022-12-30": 344339,
-  "2022-12-31": 344490,
-  "2023-01-01": 344636,
-  "2023-01-02": 344751,
-  "2023-01-03": 344875,
-  "2023-01-04": 344933,
-  "2023-01-05": 345009,
-  "2023-01-06": 345155,
-  "2023-01-07": 345358,
-  "2023-01-08": 345397,
-  "2023-01-09": 345534,
-  "2023-01-10": 345622,
-  "2023-01-11": 345745,
-  "2023-01-12": 345857,
-  "2023-01-13": 345972,
-  "2023-01-14": 346172,
-  "2023-01-15": 346236,
-  "2023-01-16": 346368,
-  "2023-01-17": 346492,
-  "2023-01-18": 346618,
-  "2023-01-19": 346756,
-  "2023-01-20": 346892,
-  "2023-01-21": 347046,
-  "2023-01-22": 347255,
-  "2023-01-23": 347370,
-  "2023-01-24": 347459,
-  "2023-01-25": 347557,
-  "2023-01-26": 347675,
-  "2023-01-27": 347791,
-  "2023-01-28": 347908,
-  "2023-01-29": 348068,
-  "2023-01-30": 348211,
-  "2023-01-31": 348211,
-  "2023-02-01": 348419,
-  "2023-02-02": 348552,
-  "2023-02-03": 348659,
-  "2023-02-04": 348778,
-  "2023-02-05": 348929,
-  "2023-02-06": 349077,
-  "2023-02-07": 349153,
-  "2023-02-08": 349347,
-  "2023-02-09": 349347,
-  "2023-02-10": 349455,
-  "2023-02-11": 349568,
-  "2023-02-12": 349821,
-  "2023-02-13": 349924,
-  "2023-02-14": 349924,
-  "2023-02-15": 350019,
-  "2023-02-16": 350133,
-  "2023-02-17": 350252,
-  "2023-02-18": 350567,
-  "2023-02-19": 350593,
-  "2023-02-20": 350729,
-  "2023-02-21": 350884,
-  "2023-02-22": 351011,
-  "2023-02-23": 351142,
-  "2023-02-24": 351267,
-  "2023-02-25": 351452,
-  "2023-02-26": 351588,
-  "2023-02-27": 351843,
-  "2023-02-28": 351843,
-  "2023-03-01": 351959,
-  "2023-03-02": 352062,
-  "2023-03-03": 352202,
-  "2023-03-04": 352330,
-  "2023-03-05": 352682,
-  "2023-03-06": 352682,
-  "2023-03-07": 352806,
-  "2023-03-08": 352930,
-  "2023-03-09": 353017,
-  "2023-03-10": 353142,
-  "2023-03-11": 353291,
-  "2023-03-12": 353446,
-  "2023-03-13": 353582,
-  "2023-03-14": 353698,
-  "2023-03-15": 353811,
-  "2023-03-16": 353943,
-  "2023-03-17": 353943,
-  "2023-03-18": 354166,
-  "2023-03-19": 354330,
-  "2023-03-20": 354486,
-  "2023-03-21": 354610,
-  "2023-03-22": 354720,
-  "2023-03-23": 354836,
-  "2023-03-24": 354836,
-  "2023-03-25": 355101,
-  "2023-03-26": 355254,
-  "2023-03-27": 355402,
-  "2023-03-28": 355524,
-  "2023-03-29": 355688,
-  "2023-03-30": 355929,
-  "2023-03-31": 355929,
-  "2023-04-01": 356078,
-  "2023-04-02": 356239,
-  "2023-04-03": 356397,
-  "2023-04-04": 356519,
-  "2023-04-05": 356639,
-  "2023-04-06": 356775,
-  "2023-04-07": 356931,
-  "2023-04-09": 357223,
-  "2023-04-10": 357353,
-  "2023-04-11": 357559,
-  "2023-04-12": 357559,
-  "2023-04-13": 357674,
-  "2023-04-14": 357786,
-  "2023-04-15": 357929,
-  "2023-04-16": 358102,
-  "2023-04-17": 358236,
-  "2023-04-18": 358370,
-  "2023-04-19": 358522,
-  "2023-04-20": 358672,
-  "2023-04-21": 358820,
-  "2023-04-22": 358974,
-  "2023-04-23": 359140,
-  "2023-04-24": 359308,
-  "2023-04-25": 359409,
-  "2023-04-26": 359549,
-  "2023-04-27": 359695,
-  "2023-04-28": 359864,
-  "2023-04-29": 360034,
-  "2023-04-30": 360204,
-  "2023-05-01": 360371,
-  "2023-05-02": 360517,
-  "2023-05-03": 360650,
-  "2023-05-04": 360792,
-  "2023-05-05": 360923,
-  "2023-05-06": 361083,
-  "2023-05-07": 361259,
-  "2023-05-08": 361400,
-  "2023-05-09": 361489,
-  "2023-05-10": 361590,
-  "2023-05-11": 361743,
-  "2023-05-12": 361879,
-  "2023-05-13": 362010,
-  "2023-05-14": 362162,
-  "2023-05-15": 362315,
-  "2023-05-16": 362421,
-  "2023-05-17": 362548,
-  "2023-05-18": 362662,
-  "2023-05-19": 362797,
-  "2023-05-20": 363145,
-  "2023-05-21": 363145,
-  "2023-05-22": 363145,
-  "2023-05-23": 363409,
-  "2023-05-24": 363641,
-  "2023-05-25": 363752,
-  "2023-05-26": 364016,
-  "2023-05-27": 364233,
-  "2023-05-28": 364443,
-  "2023-05-29": 364443,
-  "2023-05-30": 364748,
-  "2023-05-31": 364926,
-  "2023-06-01": 365080,
-  "2023-06-02": 365230,
-  "2023-06-03": 365388,
-  "2023-06-04": 365592,
-  "2023-06-05": 365754,
-  "2023-06-06": 365882,
-  "2023-06-07": 366016,
-  "2023-06-08": 366153,
-  "2023-06-09": 366311,
-  "2023-06-10": 366454,
-  "2023-06-11": 366624,
-  "2023-06-12": 366775,
-  "2023-06-13": 366902,
-  "2023-06-14": 366966,
-  "2023-06-15": 367026,
-  "2023-06-16": 222370,
-  "2023-06-17": 222370,
-  "2023-06-18": 222370,
-  "2023-06-19": 222370,
-  "2023-06-20": 222370,
-  "2023-06-21": 222370,
-  "2023-06-22": 222370,
-  "2023-06-23": 222370,
-  "2023-06-24": 222370,
-  "2023-06-25": 222370,
-  "2023-06-26": 222370,
-  "2023-06-27": 222370,
-  "2023-06-28": 222370,
-  "2023-06-29": 222370,
-  "2023-06-30": 222370,
-  "2023-07-01": 222370,
-  "2023-07-02": 222370,
-  "2023-07-03": 222370,
-  "2023-07-04": 222370,
-  "2023-07-05": 222370,
-  "2023-07-06": 222370,
-  "2023-07-07": 222370,
-  "2023-07-08": 222370,
-  "2023-07-09": 222370,
-  "2023-07-10": 222370,
-  "2023-07-11": 222370,
-  "2023-07-12": 222370,
-  "2023-07-13": 222370,
-  "2023-07-14": 222370,
-  "2023-07-15": 222370,
-  "2023-07-16": 222370,
-  "2023-07-17": 222370,
-  "2023-07-18": 222370,
-  "2023-07-19": 222370,
-  "2023-07-20": 222370,
-  "2023-07-21": 222370,
-  "2023-07-22": 222370,
-  "2023-07-23": 222370,
-  "2023-07-24": 222370,
-  "2023-07-25": 222370,
-  "2023-07-26": 222370,
-  "2023-07-27": 222370,
-  "2023-07-28": 222370,
-  "2023-07-29": 222370,
-  "2023-07-30": 222370,
-  "2023-07-31": 222370,
-  "2023-08-01": 222370,
-  "2023-08-02": 222370,
-  "2023-08-03": 222370,
-  "2023-08-04": 222370,
-  "2023-08-05": 222370,
-  "2023-08-06": 222370,
-  "2023-08-07": 222370,
-  "2023-08-08": 222370,
-  "2023-08-09": 222370,
-  "2023-08-10": 222370,
-  "2023-08-11": 222370,
-  "2023-08-12": 222370,
-  "2023-08-13": 222370,
-  "2023-08-14": 222370,
-  "2023-08-15": 222370,
-  "2023-08-16": 222370,
-  "2023-08-17": 222370,
-  "2023-08-18": 222370,
-  "2023-08-19": 222370,
-  "2023-08-20": 222370,
-  "2023-08-21": 222370,
-  "2023-08-22": 222370,
-  "2023-08-23": 222370,
-  "2023-08-24": 222370,
-  "2023-08-25": 222370,
-  "2023-08-26": 222370,
-  "2023-08-27": 222370,
-  "2023-08-28": 222370,
-  "2023-08-29": 222370,
-  "2023-08-30": 222370,
-  "2023-08-31": 222370,
-  "2023-09-01": 222370,
-  "2023-09-02": 222370,
-  "2023-09-03": 222370,
-  "2023-09-04": 222370,
-  "2023-09-05": 222370,
-  "2023-09-06": 222370,
-  "2023-09-07": 222370,
-  "2023-09-08": 222370,
-  "2023-09-09": 222370,
-  "2023-09-10": 222370,
-  "2023-09-11": 222370,
-  "2023-09-12": 222370,
-  "2023-09-13": 222370,
-  "2023-09-14": 222370,
-  "2023-09-15": 222370,
-  "2023-09-16": 222370,
-  "2023-09-17": 222370,
-  "2023-09-18": 222370,
-  "2023-09-19": 222370,
-  "2023-09-20": 222370,
-  "2023-09-21": 222370,
-  "2023-09-22": 222370,
-  "2023-09-23": 222370,
-  "2023-09-24": 222370,
-  "2023-09-25": 222370,
-  "2023-09-26": 222370,
-  "2023-09-27": 222370,
-  "2023-09-28": 222370,
-  "2023-09-29": 222370,
-  "2023-09-30": 222370,
-  "2023-10-01": 222370,
-  "2023-10-02": 222370,
-  "2023-10-03": 222370,
-  "2023-10-04": 222370,
-  "2023-10-05": 222370,
-  "2023-10-06": 222370,
-  "2023-10-07": 222370,
-  "2023-10-08": 222370,
-  "2023-10-09": 222370,
-  "2023-10-10": 222370,
-  "2023-10-11": 222370,
-  "2023-10-12": 222370,
-  "2023-10-13": 222370,
-  "2023-10-14": 222370,
-  "2023-10-15": 222370,
-  "2023-10-16": 222370,
-  "2023-10-17": 222370,
-  "2023-10-18": 222370,
-  "2023-10-19": 222370,
-  "2023-10-20": 222370,
-  "2023-10-21": 222370,
-  "2023-10-22": 222370,
-  "2023-10-23": 222370,
-  "2023-10-24": 222370,
-  "2023-10-25": 222370,
-  "2023-10-26": 222370,
-  "2023-10-27": 222370,
-  "2023-10-28": 222370,
-  "2023-10-29": 222370,
-  "2023-10-30": 222370,
-  "2023-10-31": 222370,
-  "2023-11-01": 222370,
-  "2023-11-02": 222370,
-  "2023-11-03": 222370,
-  "2023-11-04": 222370,
-  "2023-11-05": 222370,
-  "2023-11-06": 222370,
-  "2023-11-07": 222370,
-  "2023-11-08": 222370,
-  "2023-11-09": 222370,
-  "2023-11-10": 222370,
-  "2023-11-11": 222370,
-  "2023-11-12": 222370,
-  "2023-11-13": 222370,
-  "2023-11-14": 222370,
-  "2023-11-15": 222370,
-  "2023-11-16": 222370,
-  "2023-11-17": 222370,
-  "2023-11-18": 222370,
-  "2023-11-19": 222370,
-  "2023-11-20": 222370,
-  "2023-11-21": 222370,
-  "2023-11-22": 222370,
-  "2023-11-23": 222370,
-  "2023-11-24": 222370,
-  "2023-11-25": 222370,
-  "2023-11-26": 222370,
-  "2023-11-27": 222370,
-  "2023-11-28": 222370,
-  "2023-11-29": 222370,
-  "2023-11-30": 222370,
-  "2023-12-01": 222370,
-  "2023-12-02": 222370,
-  "2023-12-03": 222370,
-  "2023-12-04": 222370,
-  "2023-12-05": 222370,
-  "2023-12-06": 222370,
-  "2023-12-07": 222370,
-  "2023-12-08": 222370,
-  "2023-12-09": 222370,
-  "2023-12-10": 222370,
-  "2023-12-11": 222370,
-  "2023-12-12": 222370,
-  "2023-12-13": 222370,
-  "2023-12-14": 222370,
-  "2023-12-15": 222370,
-  "2023-12-16": 222370,
-  "2023-12-17": 222370,
-  "2023-12-18": 222370,
-  "2023-12-19": 222370,
-  "2023-12-20": 222370,
-  "2023-12-21": 222370,
-  "2023-12-22": 222370,
-  "2023-12-23": 222370,
-  "2023-12-24": 222370,
-  "2023-12-25": 222370,
-  "2023-12-26": 222370,
-  "2023-12-27": 222370,
-  "2023-12-30": 222370,
-  "2023-12-31": 222370,
-  "2024-01-01": 222370,
-  "2024-01-02": 222370,
-  "2024-01-03": 222370
+  "2024-01-17": 222370,
+  "date_first_scraped": "2021-12-21",
+  "description": "In loving memory of Marie Fredriksson.",
+  "name": "This Is Roxette",
+  "tracks": [
+    {
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255906,
+      "name": "(Do You Get) Excited?",
+      "url": "https://open.spotify.com/track/1VXThXSlJDfst2CkNxvAz9"
+    },
+    {
+      "album": {
+        "name": "The Ballad Hits",
+        "url": "https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226853,
+      "name": "A Thing About You",
+      "url": "https://open.spotify.com/track/7JqAHnv9YZOPN8HTR4Fq7M"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234813,
+      "name": "Almost Unreal",
+      "url": "https://open.spotify.com/track/5AKBbv9A9jfPce0KkH27Cd"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (2009 Version)",
+        "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234813,
+      "name": "Almost Unreal",
+      "url": "https://open.spotify.com/track/7rllLeuHbB59OQOILbNqF8"
+    },
+    {
+      "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/0nH1MMlYBi0LcAXpA2KaDn"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/4G9c17xuGBFJ7mmlxfbkjl"
+    },
+    {
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195986,
+      "name": "Church Of Your Heart",
+      "url": "https://open.spotify.com/track/6broBHB7ObAA2BhzLT2nlX"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (2009 Version)",
+        "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301493,
+      "name": "Crash! Boom! Bang!",
+      "url": "https://open.spotify.com/track/1eHt31KceBrXEDEV6zNXtT"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301493,
+      "name": "Crash! Boom! Bang!",
+      "url": "https://open.spotify.com/track/6RpIFxTwkNIVuO5pV9ui9G"
+    },
+    {
+      "album": {
+        "name": "Look Sharp! (Extended Version)",
+        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228866,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/61uXORSNIY7p03t5V7DH7z"
+    },
+    {
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228866,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/756YOXmKh2iUnx33nAdfPf"
+    },
+    {
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/7LwsqxyIqOCF9vbdHmdIvT"
+    },
+    {
+      "album": {
+        "name": "Baladas En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Directamente a Ti (Run to You)",
+      "url": "https://open.spotify.com/track/4Uf16gygVXW2aZuuXI0qRO"
+    },
+    {
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249840,
+      "name": "Dressed For Success",
+      "url": "https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg"
+    },
+    {
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249840,
+      "name": "Dressed For Success",
+      "url": "https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ"
+    },
+    {
+      "album": {
+        "name": "The Pop Hits",
+        "url": "https://open.spotify.com/album/2ABfrAhcF6lsxmyzkKwqD2"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251680,
+      "name": "Dressed for Success - US Single Mix",
+      "url": "https://open.spotify.com/track/7GqyxvYvcHPFqApCd43V1d"
+    },
+    {
+      "album": {
+        "name": "Travelling",
+        "url": "https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218306,
+      "name": "Easy Way Out",
+      "url": "https://open.spotify.com/track/652SjitiLFptw9ac34uQoz"
+    },
+    {
+      "album": {
+        "name": "Fading Like A Flower",
+        "url": "https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145807,
+      "name": "Fading Like A Flower",
+      "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
+    },
+    {
+      "album": {
+        "name": "Joyride (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230680,
+      "name": "Fading Like A Flower (Every Time You Leave)",
+      "url": "https://open.spotify.com/track/7qSd3WHSPUtmt6c36pwJaY"
+    },
+    {
+      "album": {
+        "name": "Good Karma",
+        "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Good Karma",
+      "url": "https://open.spotify.com/track/7B0cmoe2K9vOTaYZP8AWP8"
+    },
+    {
+      "album": {
+        "name": "Baladas En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311200,
+      "name": "Habla El Coraz\u00f3n (Listen to Your Heart)",
+      "url": "https://open.spotify.com/track/2V9cNEWIimaJCXMw4tL6Sk"
+    },
+    {
+      "album": {
+        "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
+        "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189093,
+      "name": "How Do You Do!",
+      "url": "https://open.spotify.com/track/2D7GRdSAcRkBsDtXsnjh1v"
+    },
+    {
+      "album": {
+        "name": "Tourism",
+        "url": "https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 189093,
+      "name": "How Do You Do!",
+      "url": "https://open.spotify.com/track/3BK8mbUFbBZ3mI5HE4eqCR"
+    },
+    {
+      "album": {
+        "name": "Tourism (2009 Version)",
+        "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189093,
+      "name": "How Do You Do!",
+      "url": "https://open.spotify.com/track/3rfOs6Miteal5wQUdFx8w1"
+    },
+    {
+      "album": {
+        "name": "Tourism (Extended Version)",
+        "url": "https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "How Do You Do!",
+      "url": "https://open.spotify.com/track/4Hn14NabX651eOOzsLL8Uc"
+    },
+    {
+      "album": {
+        "name": "Good Karma",
+        "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "It Just Happens",
+      "url": "https://open.spotify.com/track/2C2zQXyclwXTaZMJ5OFsmM"
+    },
+    {
+      "album": {
+        "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
+        "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y"
+    },
+    {
+      "album": {
+        "name": "It's Possible",
+        "url": "https://open.spotify.com/album/2vQKf3N26prloq9dQ5Tpai"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154762,
+      "name": "It's Possible - Version One Radio Edit",
+      "url": "https://open.spotify.com/track/3SFFxUve1VZf8FNQTCrmxT"
+    },
+    {
+      "album": {
+        "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
+        "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241733,
+      "name": "Joyride - Single Version",
+      "url": "https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF"
+    },
+    {
+      "album": {
+        "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
+        "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251066,
+      "name": "June Afternoon",
+      "url": "https://open.spotify.com/track/3tSdiH7uUhSQG7QQtj9uTr"
+    },
+    {
+      "album": {
+        "name": "Let Your Heart Dance With Me",
+        "url": "https://open.spotify.com/album/7CCCA04QzihpAgSqXdatI7"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Let Your Heart Dance With Me",
+      "url": "https://open.spotify.com/track/6Zz5roTd5pRgkrH7Mc8qdh"
+    },
+    {
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7"
+    },
+    {
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K"
+    },
+    {
+      "album": {
+        "name": "Travelling",
+        "url": "https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239746,
+      "name": "Lover Lover Lover",
+      "url": "https://open.spotify.com/track/0zM1qpdxZXFw8P64Kxpzfh"
+    },
+    {
+      "album": {
+        "name": "The 30 Biggest Hits XXX",
+        "url": "https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244920,
+      "name": "Milk and Toast and Honey",
+      "url": "https://open.spotify.com/track/5zKyU6CL3L0QA2J4jcBzRM"
+    },
+    {
+      "album": {
+        "name": "Tourism (Extended Version)",
+        "url": "https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225920,
+      "name": "Never Is A Long Time",
+      "url": "https://open.spotify.com/track/1Bj9M4ODqlvhQT42tarhbe"
+    },
+    {
+      "album": {
+        "name": "Tourism (2009 Version)",
+        "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225920,
+      "name": "Never Is A Long Time",
+      "url": "https://open.spotify.com/track/1IXnv4cO6Ux36cusZZrk35"
+    },
+    {
+      "album": {
+        "name": "Tourism",
+        "url": "https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 225920,
+      "name": "Never Is A Long Time",
+      "url": "https://open.spotify.com/track/2yGYbjVEnivRH6KN87yu5W"
+    },
+    {
+      "album": {
+        "name": "Baladas En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282493,
+      "name": "No Se Si Es Amor (It Must Have Been Love)",
+      "url": "https://open.spotify.com/track/1kAJFyicakML1Bjd3Tqt1B"
+    },
+    {
+      "album": {
+        "name": "The 30 Biggest Hits XXX",
+        "url": "https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178946,
+      "name": "Opportunity Nox",
+      "url": "https://open.spotify.com/track/7qEX3cgvAK1dULKCnSuKIO"
+    },
+    {
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210293,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/1Ukp8zQgZL03ZwVhiMtYzo"
+    },
+    {
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/32f8ABUmz8CSXztbvabYf3"
+    },
+    {
+      "album": {
+        "name": "Look Sharp! 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/70EpMMqKGTqr61NHxBlLvt"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210293,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/6I65MPuHaxas6QldsBSIkJ"
+    },
+    {
+      "album": {
+        "name": "Travelling",
+        "url": "https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Perfect Excuse",
+      "url": "https://open.spotify.com/track/2C15CwZ176WSxYqA5YPGDJ"
+    },
+    {
+      "album": {
+        "name": "Tourism",
+        "url": "https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 290786,
+      "name": "Queen Of Rain",
+      "url": "https://open.spotify.com/track/0ldvEFBbZAbC6CedMsCrri"
+    },
+    {
+      "album": {
+        "name": "Tourism (2009 Version)",
+        "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290786,
+      "name": "Queen Of Rain",
+      "url": "https://open.spotify.com/track/1JJdm396S3IhI88Wh5J4YJ"
+    },
+    {
+      "album": {
+        "name": "Tourism (Extended Version)",
+        "url": "https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290786,
+      "name": "Queen Of Rain",
+      "url": "https://open.spotify.com/track/4jBEyGpFHppg5jknR0yxcy"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (2009 Version)",
+        "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219266,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/1zeqAF6Hf1lPJoNkkmNA9j"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/6f4xbgWKdECm1QyTGEm1ua"
+    },
+    {
+      "album": {
+        "name": "The 30 Biggest Hits XXX",
+        "url": "https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218840,
+      "name": "Run to You - G.M. Remaster '03",
+      "url": "https://open.spotify.com/track/4pjvjrnAQK2sYnaiT7zq6V"
+    },
+    {
+      "album": {
+        "name": "The Ballad Hits",
+        "url": "https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277666,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/5PadY2fmWAzotfo4pocchC"
+    },
+    {
+      "album": {
+        "name": "Charm School Revisited",
+        "url": "https://open.spotify.com/album/1UFaRYryIZM1T3Dxgu2fEt"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "She's Got Nothing on (But the Radio)",
+      "url": "https://open.spotify.com/track/3GOgvkh0JfVo17FBiPUe87"
+    },
+    {
+      "album": {
+        "name": "Charm School",
+        "url": "https://open.spotify.com/album/6BcDgENhbFI6CHX2rNnS98"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214346,
+      "name": "She's Got Nothing on (But the Radio)",
+      "url": "https://open.spotify.com/track/3nxqafow5BCurvyPaVzH1q"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4htx3t5YHqgyTgHw3xinsf"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 214346,
+      "name": "She's Got Nothing on (But the Radio)",
+      "url": "https://open.spotify.com/track/5MyqtugXD2gTCDXKVGHM5c"
+    },
+    {
+      "album": {
+        "name": "Tourism",
+        "url": "https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 246613,
+      "name": "Silver Blue",
+      "url": "https://open.spotify.com/track/18TTA9AhwSqIh5WAlwVDXK"
+    },
+    {
+      "album": {
+        "name": "Tourism (Extended Version)",
+        "url": "https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246613,
+      "name": "Silver Blue",
+      "url": "https://open.spotify.com/track/5Yhiht4kRxSJHgaWt7L5HD"
+    },
+    {
+      "album": {
+        "name": "Tourism (2009 Version)",
+        "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246613,
+      "name": "Silver Blue",
+      "url": "https://open.spotify.com/track/7IvJlX1B8GBopPaVORMfBw"
+    },
+    {
+      "album": {
+        "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
+        "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214160,
+      "name": "Sleeping in My Car - Single Version",
+      "url": "https://open.spotify.com/track/0CicjlSiN0HdzD2nigN9j4"
+    },
+    {
+      "album": {
+        "name": "Good Karma",
+        "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188826,
+      "name": "Some Other Summer",
+      "url": "https://open.spotify.com/track/6YkGISbmio8Lr5D5NSg3e2"
+    },
+    {
+      "album": {
+        "name": "Baladas En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Soy Una Mujer (Fading Like a Flower)",
+      "url": "https://open.spotify.com/track/69RnMA6JzuVCG0osd731iU"
+    },
+    {
+      "album": {
+        "name": "Joyride (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275666,
+      "name": "Spending My Time",
+      "url": "https://open.spotify.com/track/47PQWnMc01EmIH0PD2UuGb"
+    },
+    {
+      "album": {
+        "name": "The 30 Biggest Hits XXX",
+        "url": "https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265733,
+      "name": "The Big L.",
+      "url": "https://open.spotify.com/track/3Me4YCKqNWLXZXl0CN3trv"
+    },
+    {
+      "album": {
+        "name": "The 30 Biggest Hits XXX",
+        "url": "https://open.spotify.com/album/0z27R5fO6NqnZhPUiH9ykZ"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "The Centre Of The Heart - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0aPwBQtbBwcZidIQx4lrfX"
+    },
+    {
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY"
+    },
+    {
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
+    },
+    {
+      "album": {
+        "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
+        "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/7akWKDSf4k0Q0AHGoG91hu"
+    },
+    {
+      "album": {
+        "name": "Tourism (2009 Version)",
+        "url": "https://open.spotify.com/album/6lH7u5QWoRteFLTw5DwG6d"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289186,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/0pSv1DbIvg3ifHrEuEGdYW"
+    },
+    {
+      "album": {
+        "name": "Tourism",
+        "url": "https://open.spotify.com/album/7pzDigL5fGL881Dk2Y1tRy"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 289186,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/52MEUtRBkwR4mjVuU7Rzmo"
+    },
+    {
+      "album": {
+        "name": "Tourism (Extended Version)",
+        "url": "https://open.spotify.com/album/6yhZFWd0wGN0QCchNFYn0Q"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289186,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/5AvTVvH1XV3y46pgBbAdit"
+    },
+    {
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Things Will Never Be The Same",
+      "url": "https://open.spotify.com/track/2jKycIEA5nZOJxviK83FAX"
+    },
+    {
+      "album": {
+        "name": "Good Karma",
+        "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "This One",
+      "url": "https://open.spotify.com/track/1x3zGk6n2aSXmrf7cCZDN5"
+    },
+    {
+      "album": {
+        "name": "Travelling",
+        "url": "https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250853,
+      "name": "Turn of the Tide",
+      "url": "https://open.spotify.com/track/6QsZWMB6zW0DyxNEe8Fc1r"
+    },
+    {
+      "album": {
+        "name": "Baladas En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279866,
+      "name": "Un d\u00eda sin t\u00ed (Spending My Time)",
+      "url": "https://open.spotify.com/track/7Jwp98P2bsP5n5lE2We8GJ"
+    },
+    {
+      "album": {
+        "name": "The Ballad Hits",
+        "url": "https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 300973,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/0u1lCJm4VPLWQwhVPk3YE9"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (2009 Version)",
+        "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 300973,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/3f5r7wd7GdLHzDuCY9M0X6"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300973,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/4JAi20NP5hkUpaKvwtX1nO"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254093,
+      "name": "What's She Like?",
+      "url": "https://open.spotify.com/track/2fvm3jbdwHSTLHe1yBA1tU"
+    },
+    {
+      "album": {
+        "name": "Crash! Boom! Bang! (2009 Version)",
+        "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254093,
+      "name": "What's She Like?",
+      "url": "https://open.spotify.com/track/6pQxFWetpilh5MW6oRDB6I"
+    },
+    {
+      "album": {
+        "name": "Why Don't You Bring Me Flowers?",
+        "url": "https://open.spotify.com/album/7nJefveE7soD4bJREznZU9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Why Don't You Bring Me Flowers?",
+      "url": "https://open.spotify.com/track/3shCCsCcBrJp1uBhMlZ0XI"
+    },
+    {
+      "album": {
+        "name": "Good Karma",
+        "url": "https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165840,
+      "name": "Why Dontcha?",
+      "url": "https://open.spotify.com/track/2XoC5eg7dngMTiySchGYFU"
+    },
+    {
+      "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/0nH1MMlYBi0LcAXpA2KaDn"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279893,
+      "name": "Wish I Could Fly",
+      "url": "https://open.spotify.com/track/0WA3oDtGuzprTGI5qEZuTl"
+    },
+    {
+      "album": {
+        "name": "Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",
+        "url": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2020-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268693,
+      "name": "You Don't Understand Me",
+      "url": "https://open.spotify.com/track/2ml34OiH9fNXFS9bS5Q6in"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8IAL5KfmFJA"
 }

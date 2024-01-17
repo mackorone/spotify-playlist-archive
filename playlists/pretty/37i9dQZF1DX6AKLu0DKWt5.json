@@ -1,12 +1,12 @@
 {
-  "description": "Music from TV shows and films nominated for the 81st Golden Globe Awards. Watch Jan 7, 2024 on CBS and Paramount+.",
-  "num_followers": 5815,
+  "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
+  "num_followers": 5917,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGJhOTIxNmM2MDNmMTAxMmVhZTdjZGI4YjM4MGU2NDg1OGQ1ZmNm",
+  "snapshot_id": "MCxjNzM2ZTBlOTZkYTRiODk1YjZlM2E0YWRmY2MyZDE2ZTJkZGQ5NzM2",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "John Wick: Chapter 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN"
+        "name": "Poor Things (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Jerskin Fendrix",
+          "url": "https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW"
         }
       ],
-      "duration_ms": 185657,
-      "name": "Eye For an Eye",
-      "url": "https://open.spotify.com/track/63OiFJTU3Xv1CCCLFJQ6Fl"
+      "duration_ms": 103160,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl"
     },
     {
       "added_at": "2023-12-19 16:37:32",
@@ -399,50 +399,38 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Poor Things (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO"
+        "name": "John Wick: Chapter 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN"
       },
       "artists": [
         {
-          "name": "Jerskin Fendrix",
-          "url": "https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 103160,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl"
+      "duration_ms": 185657,
+      "name": "Eye For an Eye",
+      "url": "https://open.spotify.com/track/63OiFJTU3Xv1CCCLFJQ6Fl"
     },
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "All the Light We Cannot See (Soundtrack from the Netflix Limited Series)",
-        "url": "https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR"
+        "name": "Fargo Year 5 (Soundtrack from the MGM/ FXP Series)",
+        "url": "https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP"
       },
       "artists": [
         {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 83679,
-      "name": "Main Title",
-      "url": "https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
-        "name": "BEEF: The Bonus Tracks",
-        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
-      },
-      "artists": [
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        },
         {
-          "name": "Steven Yeun as Danny from BEEF",
-          "url": "https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq"
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
         }
       ],
-      "duration_ms": 241706,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB"
+      "duration_ms": 282640,
+      "name": "Toxic (feat. Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY"
     },
     {
       "added_at": "2023-12-19 16:37:32",
@@ -463,6 +451,38 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Steven Yeun as Danny from BEEF",
+          "url": "https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "All the Light We Cannot See (Soundtrack from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 83679,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
         "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
         "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
       },
@@ -475,6 +495,22 @@
       "duration_ms": 135347,
       "name": "I Love You Guys",
       "url": "https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "ANATOMIE D'UNE CHUTE (Musique Originale)",
+        "url": "https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Daniel",
+          "url": "https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS"
+        }
+      ],
+      "duration_ms": 272926,
+      "name": "VARIATION AUTOUR D'UN PR\u00c9LUDE - Anatomie d'une chute",
+      "url": "https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh"
     },
     {
       "added_at": "2023-12-19 16:37:32",
@@ -495,18 +531,22 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "ANATOMIE D'UNE CHUTE (Musique Originale)",
-        "url": "https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o"
+        "name": "The Diplomat (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB"
       },
       "artists": [
         {
-          "name": "Beno\u00eet Daniel",
-          "url": "https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS"
+          "name": "Nathan Barr",
+          "url": "https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC"
+        },
+        {
+          "name": "Dimitri Smith",
+          "url": "https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP"
         }
       ],
-      "duration_ms": 272926,
-      "name": "VARIATION AUTOUR D'UN PR\u00c9LUDE - Anatomie d'une chute",
-      "url": "https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh"
+      "duration_ms": 69626,
+      "name": "Confirming Hal's Story",
+      "url": "https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg"
     },
     {
       "added_at": "2023-12-19 16:37:32",
@@ -531,42 +571,6 @@
       "duration_ms": 143925,
       "name": "On the Town: Lonely Town. Pas de deux",
       "url": "https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
-        "name": "Fellow Travelers (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/6Q93LklTcvLAysA2IhxHmP"
-      },
-      "artists": [
-        {
-          "name": "Paul Leonard-Morgan",
-          "url": "https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a"
-        }
-      ],
-      "duration_ms": 93934,
-      "name": "Forbidden Joy",
-      "url": "https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
-        "name": "The Diplomat (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB"
-      },
-      "artists": [
-        {
-          "name": "Nathan Barr",
-          "url": "https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC"
-        },
-        {
-          "name": "Dimitri Smith",
-          "url": "https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP"
-        }
-      ],
-      "duration_ms": 69626,
-      "name": "Confirming Hal's Story",
-      "url": "https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg"
     }
   ],
   "unique_name": "Golden Globes",

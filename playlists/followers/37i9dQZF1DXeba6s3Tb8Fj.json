@@ -1,579 +1,1235 @@
 {
-  "2022-05-31": 2989,
-  "2022-06-01": 3007,
-  "2022-06-02": 3010,
-  "2022-06-03": 3023,
-  "2022-06-04": 3037,
-  "2022-06-05": 3049,
-  "2022-06-06": 3061,
-  "2022-06-07": 3069,
-  "2022-06-08": 3075,
-  "2022-06-09": 3082,
-  "2022-06-10": 3083,
-  "2022-06-11": 3089,
-  "2022-06-12": 3097,
-  "2022-06-13": 3105,
-  "2022-06-14": 3115,
-  "2022-06-15": 3122,
-  "2022-06-16": 3135,
-  "2022-06-17": 3146,
-  "2022-06-18": 3147,
-  "2022-06-19": 3173,
-  "2022-06-20": 3173,
-  "2022-06-21": 3183,
-  "2022-06-22": 3208,
-  "2022-06-23": 3208,
-  "2022-06-24": 3215,
-  "2022-06-25": 3221,
-  "2022-06-26": 3218,
-  "2022-06-27": 3221,
-  "2022-06-28": 3230,
-  "2022-06-29": 3239,
-  "2022-06-30": 3255,
-  "2022-07-01": 3262,
-  "2022-07-02": 3278,
-  "2022-07-03": 3295,
-  "2022-07-04": 3312,
-  "2022-07-05": 3322,
-  "2022-07-06": 3322,
-  "2022-07-07": 3361,
-  "2022-07-08": 3381,
-  "2022-07-09": 3384,
-  "2022-07-10": 3395,
-  "2022-07-11": 3402,
-  "2022-07-12": 3421,
-  "2022-07-13": 3426,
-  "2022-07-14": 3439,
-  "2022-07-15": 3444,
-  "2022-07-16": 3451,
-  "2022-07-17": 3460,
-  "2022-07-18": 3480,
-  "2022-07-19": 3500,
-  "2022-07-20": 3515,
-  "2022-07-21": 3528,
-  "2022-07-22": 3540,
-  "2022-07-23": 3549,
-  "2022-07-24": 3561,
-  "2022-07-25": 3573,
-  "2022-07-26": 3595,
-  "2022-07-27": 3613,
-  "2022-07-28": 3632,
-  "2022-07-29": 3645,
-  "2022-07-30": 3674,
-  "2022-07-31": 3674,
-  "2022-08-01": 3691,
-  "2022-08-02": 3724,
-  "2022-08-03": 3724,
-  "2022-08-04": 3738,
-  "2022-08-05": 3760,
-  "2022-08-06": 3774,
-  "2022-08-07": 3779,
-  "2022-08-08": 3790,
-  "2022-08-09": 3801,
-  "2022-08-10": 3812,
-  "2022-08-11": 3822,
-  "2022-08-12": 3842,
-  "2022-08-13": 3856,
-  "2022-08-14": 3874,
-  "2022-08-15": 3889,
-  "2022-08-16": 3906,
-  "2022-08-17": 3919,
-  "2022-08-18": 3934,
-  "2022-08-19": 3948,
-  "2022-08-20": 3959,
-  "2022-08-21": 3978,
-  "2022-08-22": 4000,
-  "2022-08-23": 4010,
-  "2022-08-24": 4017,
-  "2022-08-25": 4035,
-  "2022-08-26": 4042,
-  "2022-08-27": 4061,
-  "2022-08-28": 4073,
-  "2022-08-29": 4080,
-  "2022-08-30": 4102,
-  "2022-08-31": 4114,
-  "2022-09-01": 4121,
-  "2022-09-02": 4124,
-  "2022-09-03": 4130,
-  "2022-09-04": 4145,
-  "2022-09-05": 4162,
-  "2022-09-06": 4176,
-  "2022-09-07": 4191,
-  "2022-09-09": 4221,
-  "2022-09-10": 4237,
-  "2022-09-11": 4249,
-  "2022-09-12": 4258,
-  "2022-09-13": 4269,
-  "2022-09-15": 4290,
-  "2022-09-16": 4303,
-  "2022-09-17": 4318,
-  "2022-09-18": 4324,
-  "2022-09-19": 4346,
-  "2022-09-20": 4359,
-  "2022-09-21": 4375,
-  "2022-09-22": 4379,
-  "2022-09-23": 4391,
-  "2022-09-24": 4401,
-  "2022-09-25": 4416,
-  "2022-09-26": 4421,
-  "2022-09-27": 4437,
-  "2022-09-28": 4446,
-  "2022-09-29": 4463,
-  "2022-09-30": 4474,
-  "2022-10-01": 4487,
-  "2022-10-02": 4498,
-  "2022-10-03": 4508,
-  "2022-10-04": 4513,
-  "2022-10-05": 4523,
-  "2022-10-06": 4527,
-  "2022-10-07": 4536,
-  "2022-10-08": 4546,
-  "2022-10-09": 4564,
-  "2022-10-10": 4566,
-  "2022-10-11": 4576,
-  "2022-10-12": 4590,
-  "2022-10-13": 4602,
-  "2022-10-14": 4616,
-  "2022-10-15": 4639,
-  "2022-10-16": 4647,
-  "2022-10-17": 4664,
-  "2022-10-18": 4676,
-  "2022-10-19": 4682,
-  "2022-10-20": 4685,
-  "2022-10-21": 4694,
-  "2022-10-22": 4704,
-  "2022-10-23": 4719,
-  "2022-10-24": 4742,
-  "2022-10-25": 4758,
-  "2022-10-26": 4769,
-  "2022-10-27": 4790,
-  "2022-10-28": 4798,
-  "2022-10-29": 4815,
-  "2022-10-30": 4835,
-  "2022-10-31": 4847,
-  "2022-11-01": 4857,
-  "2022-11-02": 4871,
-  "2022-11-03": 4878,
-  "2022-11-04": 4894,
-  "2022-11-05": 4906,
-  "2022-11-06": 4918,
-  "2022-11-07": 4931,
-  "2022-11-08": 4943,
-  "2022-11-09": 4963,
-  "2022-11-10": 4970,
-  "2022-11-11": 4979,
-  "2022-11-12": 4996,
-  "2022-11-13": 5003,
-  "2022-11-14": 5019,
-  "2022-11-15": 5036,
-  "2022-11-16": 5049,
-  "2022-11-17": 5065,
-  "2022-11-18": 5069,
-  "2022-11-19": 5072,
-  "2022-11-20": 5079,
-  "2022-11-21": 5095,
-  "2022-11-22": 5118,
-  "2022-11-23": 5135,
-  "2022-11-24": 5167,
-  "2022-11-25": 5187,
-  "2022-11-26": 5195,
-  "2022-11-27": 5208,
-  "2022-11-28": 5225,
-  "2022-11-29": 5238,
-  "2022-11-30": 5249,
-  "2022-12-01": 5262,
-  "2022-12-02": 5272,
-  "2022-12-03": 5281,
-  "2022-12-04": 5294,
-  "2022-12-05": 5312,
-  "2022-12-06": 5325,
-  "2022-12-07": 5342,
-  "2022-12-08": 5348,
-  "2022-12-09": 5355,
-  "2022-12-10": 5373,
-  "2022-12-11": 5381,
-  "2022-12-12": 5393,
-  "2022-12-13": 5404,
-  "2022-12-14": 5414,
-  "2022-12-15": 5423,
-  "2022-12-16": 5431,
-  "2022-12-17": 5440,
-  "2022-12-18": 5453,
-  "2022-12-19": 5466,
-  "2022-12-20": 5491,
-  "2022-12-21": 5491,
-  "2022-12-22": 5498,
-  "2022-12-24": 5516,
-  "2022-12-25": 5519,
-  "2022-12-26": 5530,
-  "2022-12-27": 5540,
-  "2022-12-28": 5557,
-  "2022-12-29": 5565,
-  "2022-12-30": 5575,
-  "2022-12-31": 5590,
-  "2023-01-01": 5596,
-  "2023-01-02": 5606,
-  "2023-01-03": 5613,
-  "2023-01-04": 5631,
-  "2023-01-05": 5645,
-  "2023-01-06": 5663,
-  "2023-01-07": 5692,
-  "2023-01-08": 5696,
-  "2023-01-09": 5708,
-  "2023-01-10": 5724,
-  "2023-01-11": 5724,
-  "2023-01-12": 5724,
-  "2023-01-13": 5724,
-  "2023-01-14": 5724,
-  "2023-01-15": 5724,
-  "2023-01-16": 5724,
-  "2023-01-17": 5724,
-  "2023-01-18": 5724,
-  "2023-01-19": 5724,
-  "2023-01-20": 5724,
-  "2023-01-21": 5724,
-  "2023-01-22": 5724,
-  "2023-01-23": 5724,
-  "2023-01-24": 5724,
-  "2023-01-25": 5724,
-  "2023-01-26": 5724,
-  "2023-01-27": 5724,
-  "2023-01-28": 5724,
-  "2023-01-29": 5724,
-  "2023-01-30": 5724,
-  "2023-01-31": 5724,
-  "2023-02-01": 5724,
-  "2023-02-02": 5724,
-  "2023-02-03": 5724,
-  "2023-02-04": 5724,
-  "2023-02-05": 5724,
-  "2023-02-06": 5724,
-  "2023-02-07": 5724,
-  "2023-02-08": 5724,
-  "2023-02-09": 5724,
-  "2023-02-10": 5724,
-  "2023-02-11": 5724,
-  "2023-02-12": 5724,
-  "2023-02-13": 5724,
-  "2023-02-14": 5724,
-  "2023-02-15": 5724,
-  "2023-02-16": 5724,
-  "2023-02-17": 5724,
-  "2023-02-18": 5724,
-  "2023-02-19": 5724,
-  "2023-02-20": 5724,
-  "2023-02-21": 5724,
-  "2023-02-22": 5724,
-  "2023-02-23": 5724,
-  "2023-02-24": 5724,
-  "2023-02-25": 5724,
-  "2023-02-26": 5724,
-  "2023-02-27": 5724,
-  "2023-02-28": 5724,
-  "2023-03-01": 5724,
-  "2023-03-02": 5724,
-  "2023-03-03": 5724,
-  "2023-03-04": 5724,
-  "2023-03-05": 5724,
-  "2023-03-06": 5724,
-  "2023-03-07": 5724,
-  "2023-03-08": 5724,
-  "2023-03-09": 5724,
-  "2023-03-10": 5724,
-  "2023-03-11": 5724,
-  "2023-03-12": 5724,
-  "2023-03-13": 5724,
-  "2023-03-14": 5724,
-  "2023-03-15": 5724,
-  "2023-03-16": 5724,
-  "2023-03-17": 5724,
-  "2023-03-18": 5724,
-  "2023-03-19": 5724,
-  "2023-03-20": 5724,
-  "2023-03-21": 5724,
-  "2023-03-22": 5724,
-  "2023-03-23": 5724,
-  "2023-03-24": 5724,
-  "2023-03-25": 5724,
-  "2023-03-26": 5724,
-  "2023-03-27": 5724,
-  "2023-03-28": 5724,
-  "2023-03-29": 5724,
-  "2023-03-30": 5724,
-  "2023-03-31": 5724,
-  "2023-04-01": 5724,
-  "2023-04-02": 5724,
-  "2023-04-03": 5724,
-  "2023-04-04": 5724,
-  "2023-04-05": 5724,
-  "2023-04-06": 5724,
-  "2023-04-07": 5724,
-  "2023-04-09": 5724,
-  "2023-04-10": 5724,
-  "2023-04-11": 5724,
-  "2023-04-12": 5724,
-  "2023-04-13": 5724,
-  "2023-04-14": 5724,
-  "2023-04-15": 5724,
-  "2023-04-16": 5724,
-  "2023-04-17": 5724,
-  "2023-04-18": 5724,
-  "2023-04-19": 5724,
-  "2023-04-20": 5724,
-  "2023-04-21": 5724,
-  "2023-04-22": 5724,
-  "2023-04-23": 5724,
-  "2023-04-24": 5724,
-  "2023-04-25": 5724,
-  "2023-04-26": 5724,
-  "2023-04-27": 5724,
-  "2023-04-28": 5724,
-  "2023-04-29": 5724,
-  "2023-04-30": 5724,
-  "2023-05-01": 5724,
-  "2023-05-02": 5724,
-  "2023-05-03": 5724,
-  "2023-05-04": 5724,
-  "2023-05-05": 5724,
-  "2023-05-06": 5724,
-  "2023-05-07": 5724,
-  "2023-05-08": 5724,
-  "2023-05-09": 5724,
-  "2023-05-10": 5724,
-  "2023-05-11": 5724,
-  "2023-05-12": 5724,
-  "2023-05-13": 5724,
-  "2023-05-14": 5724,
-  "2023-05-15": 5724,
-  "2023-05-16": 5724,
-  "2023-05-17": 5724,
-  "2023-05-18": 5724,
-  "2023-05-19": 5724,
-  "2023-05-20": 5724,
-  "2023-05-21": 5724,
-  "2023-05-22": 5724,
-  "2023-05-23": 5724,
-  "2023-05-24": 5724,
-  "2023-05-25": 5724,
-  "2023-05-26": 5724,
-  "2023-05-27": 5724,
-  "2023-05-28": 5724,
-  "2023-05-29": 5724,
-  "2023-05-30": 5724,
-  "2023-05-31": 5724,
-  "2023-06-01": 5724,
-  "2023-06-02": 5724,
-  "2023-06-03": 5724,
-  "2023-06-04": 5724,
-  "2023-06-05": 5724,
-  "2023-06-06": 5724,
-  "2023-06-07": 5724,
-  "2023-06-08": 5724,
-  "2023-06-09": 5724,
-  "2023-06-10": 5724,
-  "2023-06-11": 5724,
-  "2023-06-12": 5724,
-  "2023-06-13": 5724,
-  "2023-06-14": 5724,
-  "2023-06-15": 5724,
-  "2023-06-16": 5724,
-  "2023-06-17": 5724,
-  "2023-06-18": 5724,
-  "2023-06-19": 5724,
-  "2023-06-20": 5724,
-  "2023-06-21": 5724,
-  "2023-06-22": 5724,
-  "2023-06-23": 5724,
-  "2023-06-24": 5724,
-  "2023-06-25": 5724,
-  "2023-06-26": 5724,
-  "2023-06-27": 5724,
-  "2023-06-28": 5724,
-  "2023-06-29": 5724,
-  "2023-06-30": 5724,
-  "2023-07-01": 5724,
-  "2023-07-02": 5724,
-  "2023-07-03": 5724,
-  "2023-07-04": 5724,
-  "2023-07-05": 5724,
-  "2023-07-06": 5724,
-  "2023-07-07": 5724,
-  "2023-07-08": 5724,
-  "2023-07-09": 5724,
-  "2023-07-10": 5724,
-  "2023-07-11": 5724,
-  "2023-07-12": 5724,
-  "2023-07-13": 5724,
-  "2023-07-14": 5724,
-  "2023-07-15": 5724,
-  "2023-07-16": 5724,
-  "2023-07-17": 5724,
-  "2023-07-18": 5724,
-  "2023-07-19": 5724,
-  "2023-07-20": 5724,
-  "2023-07-21": 5724,
-  "2023-07-22": 5724,
-  "2023-07-23": 5724,
-  "2023-07-24": 5724,
-  "2023-07-25": 5724,
-  "2023-07-26": 5724,
-  "2023-07-27": 5724,
-  "2023-07-28": 5724,
-  "2023-07-29": 5724,
-  "2023-07-30": 5724,
-  "2023-07-31": 5724,
-  "2023-08-01": 5724,
-  "2023-08-02": 5724,
-  "2023-08-03": 5724,
-  "2023-08-04": 5724,
-  "2023-08-05": 5724,
-  "2023-08-06": 5724,
-  "2023-08-07": 5724,
-  "2023-08-08": 5724,
-  "2023-08-09": 5724,
-  "2023-08-10": 5724,
-  "2023-08-11": 5724,
-  "2023-08-12": 5724,
-  "2023-08-13": 5724,
-  "2023-08-14": 5724,
-  "2023-08-15": 5724,
-  "2023-08-16": 5724,
-  "2023-08-17": 5724,
-  "2023-08-18": 5724,
-  "2023-08-19": 5724,
-  "2023-08-20": 5724,
-  "2023-08-21": 5724,
-  "2023-08-22": 5724,
-  "2023-08-23": 5724,
-  "2023-08-24": 5724,
-  "2023-08-25": 5724,
-  "2023-08-26": 5724,
-  "2023-08-27": 5724,
-  "2023-08-28": 5724,
-  "2023-08-29": 5724,
-  "2023-08-30": 5724,
-  "2023-08-31": 5724,
-  "2023-09-01": 5724,
-  "2023-09-02": 5724,
-  "2023-09-03": 5724,
-  "2023-09-04": 5724,
-  "2023-09-05": 5724,
-  "2023-09-06": 5724,
-  "2023-09-07": 5724,
-  "2023-09-08": 5724,
-  "2023-09-09": 5724,
-  "2023-09-10": 5724,
-  "2023-09-11": 5724,
-  "2023-09-12": 5724,
-  "2023-09-13": 5724,
-  "2023-09-14": 5724,
-  "2023-09-15": 5724,
-  "2023-09-16": 5724,
-  "2023-09-17": 5724,
-  "2023-09-18": 5724,
-  "2023-09-19": 5724,
-  "2023-09-20": 5724,
-  "2023-09-21": 5724,
-  "2023-09-22": 5724,
-  "2023-09-23": 5724,
-  "2023-09-24": 5724,
-  "2023-09-25": 5724,
-  "2023-09-26": 5724,
-  "2023-09-27": 5724,
-  "2023-09-28": 5724,
-  "2023-09-29": 5724,
-  "2023-09-30": 5724,
-  "2023-10-01": 5724,
-  "2023-10-02": 5724,
-  "2023-10-03": 5724,
-  "2023-10-04": 5724,
-  "2023-10-05": 5724,
-  "2023-10-06": 5724,
-  "2023-10-07": 5724,
-  "2023-10-08": 5724,
-  "2023-10-09": 5724,
-  "2023-10-10": 5724,
-  "2023-10-11": 5724,
-  "2023-10-12": 5724,
-  "2023-10-13": 5724,
-  "2023-10-14": 5724,
-  "2023-10-15": 5724,
-  "2023-10-16": 5724,
-  "2023-10-17": 5724,
-  "2023-10-18": 5724,
-  "2023-10-19": 5724,
-  "2023-10-20": 5724,
-  "2023-10-21": 5724,
-  "2023-10-22": 5724,
-  "2023-10-23": 5724,
-  "2023-10-24": 5724,
-  "2023-10-25": 5724,
-  "2023-10-26": 5724,
-  "2023-10-27": 5724,
-  "2023-10-28": 5724,
-  "2023-10-29": 5724,
-  "2023-10-30": 5724,
-  "2023-10-31": 5724,
-  "2023-11-01": 5724,
-  "2023-11-02": 5724,
-  "2023-11-03": 5724,
-  "2023-11-04": 5724,
-  "2023-11-05": 5724,
-  "2023-11-06": 5724,
-  "2023-11-07": 5724,
-  "2023-11-08": 5724,
-  "2023-11-09": 5724,
-  "2023-11-10": 5724,
-  "2023-11-11": 5724,
-  "2023-11-12": 5724,
-  "2023-11-13": 5724,
-  "2023-11-14": 5724,
-  "2023-11-15": 5724,
-  "2023-11-16": 5724,
-  "2023-11-17": 5724,
-  "2023-11-18": 5724,
-  "2023-11-19": 5724,
-  "2023-11-20": 5724,
-  "2023-11-21": 5724,
-  "2023-11-22": 5724,
-  "2023-11-23": 5724,
-  "2023-11-24": 5724,
-  "2023-11-25": 5724,
-  "2023-11-26": 5724,
-  "2023-11-27": 5724,
-  "2023-11-28": 5724,
-  "2023-11-29": 5724,
-  "2023-11-30": 5724,
-  "2023-12-01": 5724,
-  "2023-12-02": 5724,
-  "2023-12-03": 5724,
-  "2023-12-04": 5724,
-  "2023-12-05": 5724,
-  "2023-12-06": 5724,
-  "2023-12-07": 5724,
-  "2023-12-08": 5724,
-  "2023-12-09": 5724,
-  "2023-12-10": 5724,
-  "2023-12-11": 5724,
-  "2023-12-12": 5724,
-  "2023-12-13": 5724,
-  "2023-12-14": 5724,
-  "2023-12-15": 5724,
-  "2023-12-16": 5724,
-  "2023-12-17": 5724,
-  "2023-12-18": 5724,
-  "2023-12-19": 5724,
-  "2023-12-20": 5724,
-  "2023-12-21": 5724,
-  "2023-12-22": 5724,
-  "2023-12-23": 5724,
-  "2023-12-24": 5724,
-  "2023-12-25": 5724,
-  "2023-12-26": 5724,
-  "2023-12-27": 5724,
-  "2023-12-30": 5724,
-  "2023-12-31": 5724,
-  "2024-01-01": 5724,
-  "2024-01-02": 5724,
-  "2024-01-03": 5724
+  "2024-01-17": 5724,
+  "date_first_scraped": "2022-05-31",
+  "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
+  "name": "African Blues",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rainy Season Blues",
+        "url": "https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M"
+      },
+      "artists": [
+        {
+          "name": "Lobi Traor\u00e9",
+          "url": "https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141360,
+      "name": "A Lam\u00e8n",
+      "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
+    },
+    {
+      "album": {
+        "name": "African Gnaoua Blues",
+        "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
+      },
+      "artists": [
+        {
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+        },
+        {
+          "name": "Rachid Zeroual",
+          "url": "https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw"
+        },
+        {
+          "name": "Khalid Kouhen",
+          "url": "https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz"
+        },
+        {
+          "name": "Paolo Radoni",
+          "url": "https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa"
+        },
+        {
+          "name": "Marc Lelangue",
+          "url": "https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422053,
+      "name": "African Blues",
+      "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380973,
+      "name": "Ai Bine",
+      "url": "https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP"
+    },
+    {
+      "album": {
+        "name": "Music from Saharan Cellphones, Vol. 1",
+        "url": "https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU"
+      },
+      "artists": [
+        {
+          "name": "Amanar",
+          "url": "https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397706,
+      "name": "Alghafiat",
+      "url": "https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3"
+    },
+    {
+      "album": {
+        "name": "Music from Saharan Cellphones, Vol. 1",
+        "url": "https://open.spotify.com/album/6Q73yR2HmL67KmxqzslA77"
+      },
+      "artists": [
+        {
+          "name": "Amanar",
+          "url": "https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 397706,
+      "name": "Alghafiat",
+      "url": "https://open.spotify.com/track/2Z5KBGItjBqxRi20ZhY956"
+    },
+    {
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Amidinine",
+      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
+    },
+    {
+      "album": {
+        "name": "The Sahara Sessions",
+        "url": "https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid"
+      },
+      "artists": [
+        {
+          "name": "Etran Finatawa",
+          "url": "https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240880,
+      "name": "An Mataf Germanawen",
+      "url": "https://open.spotify.com/track/7yWMNLI0W0XQulx62QkzVB"
+    },
+    {
+      "album": {
+        "name": "Adagh",
+        "url": "https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312333,
+      "name": "Aratane N' Adagh",
+      "url": "https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ"
+    },
+    {
+      "album": {
+        "name": "Kel Tamasheq (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
+      },
+      "artists": [
+        {
+          "name": "Liya Ag Ablil",
+          "url": "https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5"
+        },
+        {
+          "name": "Nadia Nid El Mourid",
+          "url": "https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb"
+        },
+        {
+          "name": "Abdallah Ag Ahmed",
+          "url": "https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS"
+        },
+        {
+          "name": "Mathias Vaguenez",
+          "url": "https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d"
+        },
+        {
+          "name": "Sanou Ag Ahmed",
+          "url": "https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY"
+        },
+        {
+          "name": "Yamina Nid El Mourid",
+          "url": "https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284840,
+      "name": "Awa adounia",
+      "url": "https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg"
+    },
+    {
+      "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338292,
+      "name": "Bonheur",
+      "url": "https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ"
+    },
+    {
+      "album": {
+        "name": "Tje Ni Mousso",
+        "url": "https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280320,
+      "name": "C'Est Comme Ca",
+      "url": "https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX"
+    },
+    {
+      "album": {
+        "name": "The Magic Couple",
+        "url": "https://open.spotify.com/album/3D9wJtQ2JGmslrFKmXsVwA"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 283240,
+      "name": "C'est comme \u00e7a",
+      "url": "https://open.spotify.com/track/0oZOJzi6aisi0WShQ9usz8"
+    },
+    {
+      "album": {
+        "name": "Blues Rock Crate",
+        "url": "https://open.spotify.com/album/7xPJ8C46QFPy6VVlo37Z3O"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 329866,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/0LsFBvj1nJRX2PsqC8iMgC"
+    },
+    {
+      "album": {
+        "name": "Kulanjan",
+        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329866,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao"
+    },
+    {
+      "album": {
+        "name": "Kulanjan",
+        "url": "https://open.spotify.com/album/42wmp98KoLRejLnIUX47Zu"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 329866,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Ef6CDU6oCHM9KhzcPixFk"
+    },
+    {
+      "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
+    },
+    {
+      "album": {
+        "name": "Tchamantch\u00e9",
+        "url": "https://open.spotify.com/album/7fzlbT0KWe5H0fI0zO1f8Q"
+      },
+      "artists": [
+        {
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380613,
+      "name": "Dounia",
+      "url": "https://open.spotify.com/track/36tIPdhTe49U4gvp6mwCaU"
+    },
+    {
+      "album": {
+        "name": "The West African Blues Project",
+        "url": "https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y"
+      },
+      "artists": [
+        {
+          "name": "Modou Toure",
+          "url": "https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc"
+        },
+        {
+          "name": "Ramon Goose",
+          "url": "https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250600,
+      "name": "Dune Blues",
+      "url": "https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u"
+    },
+    {
+      "album": {
+        "name": "Fenfo (Something To Say)",
+        "url": "https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268466,
+      "name": "Fenfo",
+      "url": "https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3"
+    },
+    {
+      "album": {
+        "name": "Fenfo",
+        "url": "https://open.spotify.com/album/1N7ckIzs97RiLEXWgEGgli"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268466,
+      "name": "Fenfo",
+      "url": "https://open.spotify.com/track/4PCJC6tJ8BYWxlIWppBhRX"
+    },
+    {
+      "album": {
+        "name": "Gandadiko",
+        "url": "https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB"
+      },
+      "artists": [
+        {
+          "name": "Samba Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264933,
+      "name": "Gandadiko",
+      "url": "https://open.spotify.com/track/5QW3NVIXKixkTYsVUaTdeO"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358626,
+      "name": "Heygana",
+      "url": "https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA"
+    },
+    {
+      "album": {
+        "name": "Mbalimaou",
+        "url": "https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338746,
+      "name": "Hona",
+      "url": "https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht"
+    },
+    {
+      "album": {
+        "name": "Azel",
+        "url": "https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367185,
+      "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
+      "url": "https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm"
+    },
+    {
+      "album": {
+        "name": "Seya",
+        "url": "https://open.spotify.com/album/1nEaABF2RBrAzbX0akAyk6"
+      },
+      "artists": [
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396373,
+      "name": "Iyo Djeli",
+      "url": "https://open.spotify.com/track/71vG7YOBuSQD5BnRH9HZH0"
+    },
+    {
+      "album": {
+        "name": "Seya",
+        "url": "https://open.spotify.com/album/2F3PKqrjlqeg4KuqCCe246"
+      },
+      "artists": [
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 398213,
+      "name": "Iyo Djeli",
+      "url": "https://open.spotify.com/track/6RYwjP5hyLPSVJ5BZRRJAd"
+    },
+    {
+      "album": {
+        "name": "Jamm",
+        "url": "https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y"
+      },
+      "artists": [
+        {
+          "name": "Cheikh L\u00f4",
+          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288293,
+      "name": "Jamm",
+      "url": "https://open.spotify.com/track/3CfFUDH9nHSZslwsAGImfL"
+    },
+    {
+      "album": {
+        "name": "Jamm",
+        "url": "https://open.spotify.com/album/4bgrysSk4I1aEPWPJemA43"
+      },
+      "artists": [
+        {
+          "name": "Cheikh L\u00f4",
+          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288293,
+      "name": "Jamm",
+      "url": "https://open.spotify.com/track/3LG5bR8Wxbpnjn1SFtmy8Q"
+    },
+    {
+      "album": {
+        "name": "Kongo Magni",
+        "url": "https://open.spotify.com/album/0aYCT3cI8cb4q3iRFx8oAe"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323293,
+      "name": "Karkar / Vincent",
+      "url": "https://open.spotify.com/track/0tLfhiNrN6tyZrDrnpDUeI"
+    },
+    {
+      "album": {
+        "name": "Moune\u00efssa",
+        "url": "https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa"
+      },
+      "artists": [
+        {
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386973,
+      "name": "Laidu",
+      "url": "https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W"
+    },
+    {
+      "album": {
+        "name": "Mali Denhou",
+        "url": "https://open.spotify.com/album/0Y3ejNw8PD0839BoDg8N7E"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367040,
+      "name": "M'Badehou",
+      "url": "https://open.spotify.com/track/61AJlCxahP7OhPjYojRvN6"
+    },
+    {
+      "album": {
+        "name": "Mansana Blues",
+        "url": "https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6"
+      },
+      "artists": [
+        {
+          "name": "Diabel Cissokho",
+          "url": "https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm"
+        },
+        {
+          "name": "Ramon Goose",
+          "url": "https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408760,
+      "name": "Mansana Blues",
+      "url": "https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY"
+    },
+    {
+      "album": {
+        "name": "Boubacar Traor\u00e9",
+        "url": "https://open.spotify.com/album/6JpKWVHssUoCJfunCx8p9F"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 336224,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/3JFEvfG2SZkaFSETgznyw7"
+    },
+    {
+      "album": {
+        "name": "Mariama",
+        "url": "https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 338933,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"
+    },
+    {
+      "album": {
+        "name": "Mariama",
+        "url": "https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338933,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ"
+    },
+    {
+      "album": {
+        "name": "Kidal",
+        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218076,
+      "name": "Mawarniha Tartit",
+      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
+    },
+    {
+      "album": {
+        "name": "Kulanjan",
+        "url": "https://open.spotify.com/album/42wmp98KoLRejLnIUX47Zu"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197960,
+      "name": "Mississippi-Mali Blues",
+      "url": "https://open.spotify.com/track/0uWQ791yCcRagdvdq1lma5"
+    },
+    {
+      "album": {
+        "name": "Kulanjan",
+        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Mississippi-Mali Blues",
+      "url": "https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh"
+    },
+    {
+      "album": {
+        "name": "Mogoya",
+        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
+      },
+      "artists": [
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Mogoya",
+      "url": "https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv"
+    },
+    {
+      "album": {
+        "name": "K\u00f6te",
+        "url": "https://open.spotify.com/album/3YlyK4Y9bf36KcYotJB8kp"
+      },
+      "artists": [
+        {
+          "name": "Idrissa Soumaoro",
+          "url": "https://open.spotify.com/artist/3gqPPbobGK9lpeZ9gkSM5F"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263466,
+      "name": "N'taki",
+      "url": "https://open.spotify.com/track/6lQ3h23PdvrsBYdIN3yuW5"
+    },
+    {
+      "album": {
+        "name": "K\u00f6te",
+        "url": "https://open.spotify.com/album/1QM5QwSdkAWbvZJsdsgn6O"
+      },
+      "artists": [
+        {
+          "name": "Idrissa Soumaoro",
+          "url": "https://open.spotify.com/artist/3gqPPbobGK9lpeZ9gkSM5F"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 263466,
+      "name": "N'taki",
+      "url": "https://open.spotify.com/track/7ieuNryZeYZ4ABp66OjsiP"
+    },
+    {
+      "album": {
+        "name": "R\u00e9sistance",
+        "url": "https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/0oh6nHFPCxP2reKoRjuI6Q"
+    },
+    {
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463266,
+      "name": "Savane",
+      "url": "https://open.spotify.com/track/0Ya5bHuA3kyiePOhIQfQtW"
+    },
+    {
+      "album": {
+        "name": "Music In Exile",
+        "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "Sekou Oumarou",
+      "url": "https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi"
+    },
+    {
+      "album": {
+        "name": "Music In Exile",
+        "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212306,
+      "name": "Soubour",
+      "url": "https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f"
+    },
+    {
+      "album": {
+        "name": "Mississippi To Mali",
+        "url": "https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "Station Blues",
+      "url": "https://open.spotify.com/track/3EslkE2cZXvv4oiNDZbh3W"
+    },
+    {
+      "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Tahabort",
+      "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
+    },
+    {
+      "album": {
+        "name": "Mississippi To Mali",
+        "url": "https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400800,
+      "name": "Tamalah",
+      "url": "https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI"
+    },
+    {
+      "album": {
+        "name": "Temet",
+        "url": "https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Tamudre",
+      "url": "https://open.spotify.com/track/1EPdbtse9qPz2AQN7yUQ1q"
+    },
+    {
+      "album": {
+        "name": "Agadez",
+        "url": "https://open.spotify.com/album/3lHrjUzIWhXAbdnpUBKVI3"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390600,
+      "name": "Tar Hani (My Love)",
+      "url": "https://open.spotify.com/track/0EvnRzwVhtaboVkVSYvxyA"
+    },
+    {
+      "album": {
+        "name": "Wanita",
+        "url": "https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg"
+      },
+      "artists": [
+        {
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351533,
+      "name": "Tchwa",
+      "url": "https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM"
+    },
+    {
+      "album": {
+        "name": "Tassili (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253453,
+      "name": "Tenere Taqhim Tossam",
+      "url": "https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf"
+    },
+    {
+      "album": {
+        "name": "Tassili",
+        "url": "https://open.spotify.com/album/4ZP45z6J2veda4WqQc1xMm"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        },
+        {
+          "name": "Kyp Malone",
+          "url": "https://open.spotify.com/artist/2ppllDLrUVkJMtMXptA8GS"
+        },
+        {
+          "name": "Tunde Adebimpe",
+          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253320,
+      "name": "Tenere Taqqim Tossam",
+      "url": "https://open.spotify.com/track/6VZfMPn33u0NI0EzftvyBM"
+    },
+    {
+      "album": {
+        "name": "Ishumar: Musique touar\u00e8gue de r\u00e9sistance",
+        "url": "https://open.spotify.com/album/6AAK4Ao3LbYaA2iij9rpjd"
+      },
+      "artists": [
+        {
+          "name": "Terakaft",
+          "url": "https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 420160,
+      "name": "Tenere wer tat zinchegh",
+      "url": "https://open.spotify.com/track/1JjdM4nkLlzPB3N2jGfGXa"
+    },
+    {
+      "album": {
+        "name": "Ishumar: Musique touar\u00e8gue de r\u00e9sistance",
+        "url": "https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX"
+      },
+      "artists": [
+        {
+          "name": "Terakaft",
+          "url": "https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420160,
+      "name": "Tenere wer tat zinchegh",
+      "url": "https://open.spotify.com/track/2ublmuB6ysxXMtb64UOIjk"
+    },
+    {
+      "album": {
+        "name": "Imidiwan: Companions",
+        "url": "https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328853,
+      "name": "Tenhert",
+      "url": "https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD"
+    },
+    {
+      "album": {
+        "name": "The West African Blues Project",
+        "url": "https://open.spotify.com/album/510vDsJUph73WMw4GK1x19"
+      },
+      "artists": [
+        {
+          "name": "Modou Toure",
+          "url": "https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc"
+        },
+        {
+          "name": "Ramon Goose",
+          "url": "https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6"
+        },
+        {
+          "name": "Diabel Cissokho",
+          "url": "https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251500,
+      "name": "The Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W"
+    },
+    {
+      "album": {
+        "name": "The Secret",
+        "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411013,
+      "name": "The Secret",
+      "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
+    },
+    {
+      "album": {
+        "name": "Ishumar: Musique touar\u00e8gue de r\u00e9sistance",
+        "url": "https://open.spotify.com/album/6AAK4Ao3LbYaA2iij9rpjd"
+      },
+      "artists": [
+        {
+          "name": "Etran Finatawa",
+          "url": "https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 276386,
+      "name": "Tiguedimma",
+      "url": "https://open.spotify.com/track/4vgra84vcRTCeFXuAiCUku"
+    },
+    {
+      "album": {
+        "name": "Ishumar: Musique touar\u00e8gue de r\u00e9sistance",
+        "url": "https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX"
+      },
+      "artists": [
+        {
+          "name": "Etran Finatawa",
+          "url": "https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276386,
+      "name": "Tiguedimma",
+      "url": "https://open.spotify.com/track/6TFINWC5oWjDe4emrxd6H7"
+    },
+    {
+      "album": {
+        "name": "Chatma",
+        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290800,
+      "name": "Tisnant an Chatma",
+      "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"
+    },
+    {
+      "album": {
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "Tiw\u00e0yyen",
+      "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
+    },
+    {
+      "album": {
+        "name": "Mogoya",
+        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
+      },
+      "artists": [
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        },
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311266,
+      "name": "Yere faga",
+      "url": "https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXeba6s3Tb8Fj"
 }

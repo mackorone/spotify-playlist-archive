@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 321600,
       "name": "713",
       "url": "https://open.spotify.com/track/3EhH15zLHO0IEmEEbG5fCc"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 327343,
       "name": "Ashby Man",
       "url": "https://open.spotify.com/track/4zqTK5mSGu841TJ70S5g3p"
@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine & The Three Sounds",
+          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386200,
+      "name": "Blue Riff - Remastered",
+      "url": "https://open.spotify.com/track/1kZSU9gn34W6gl1t8kBSap"
+    },
+    {
+      "album": {
         "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 317560,
       "name": "Blue Samba - Remastered",
       "url": "https://open.spotify.com/track/6VB4NISQyautyrBN1SGzgJ"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 339706,
       "name": "Blue Waters",
       "url": "https://open.spotify.com/track/6JAPBVoA5bpYtPnjOztCuh"
@@ -416,7 +434,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 439693,
       "name": "Blues Function - Rudy Van Gelder Edition/2009 Digital Remaster",
       "url": "https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg"
@@ -506,7 +524,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 377604,
       "name": "Bow and Arrow",
       "url": "https://open.spotify.com/track/0sI3WcshNAV85OwSGIUv9O"
@@ -600,6 +618,24 @@
       "duration_ms": 383400,
       "name": "Ceora",
       "url": "https://open.spotify.com/track/5rQTh8OF3mfjgu0NJkSTOk"
+    },
+    {
+      "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393746,
+      "name": "Cheese Cake - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
     },
     {
       "album": {
@@ -942,7 +978,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 380746,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/5IKKbHUHrwTAABFfsNyurq"
@@ -1003,6 +1039,42 @@
     },
     {
       "album": {
+        "name": "Sunday Mornin'",
+        "url": "https://open.spotify.com/album/13kjTNpNB9CkwNIys1M1bG"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522240,
+      "name": "Freedom March - Remastered",
+      "url": "https://open.spotify.com/track/5SwlamKyZwNdIhuSTxVwsG"
+    },
+    {
+      "album": {
+        "name": "The 7th Hand",
+        "url": "https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347911,
+      "name": "Fugitive Ritual, Selah",
+      "url": "https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW"
+    },
+    {
+      "album": {
         "name": "Mr. Jones",
         "url": "https://open.spotify.com/album/226bVJEQsu9W1nUvSefYJc"
       },
@@ -1050,7 +1122,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 368386,
       "name": "Gato's Gift",
       "url": "https://open.spotify.com/track/4askDmHBmHLiKnd96n13FZ"
@@ -1108,6 +1180,42 @@
       "duration_ms": 409866,
       "name": "Grace And Mercy",
       "url": "https://open.spotify.com/track/6AFJ6v57ZevcNCR2mJHDKf"
+    },
+    {
+      "album": {
+        "name": "Bing! Bing! Bing!",
+        "url": "https://open.spotify.com/album/60SBajnbT4gWbD2q8SWKbT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296693,
+      "name": "Greasy Granny",
+      "url": "https://open.spotify.com/track/46YM2qxONdtigVtu80Xb2l"
+    },
+    {
+      "album": {
+        "name": "Passage",
+        "url": "https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z"
+      },
+      "artists": [
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307106,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/0GC0DyCot6CjE0ZfgLPkd4"
     },
     {
       "album": {
@@ -1332,7 +1440,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 482880,
       "name": "Joshua Fit De Battle Of Jericho - 2004 Remaster",
       "url": "https://open.spotify.com/track/451puYkPbLOzFNNET2qBZ8"
@@ -1350,7 +1458,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 295200,
       "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
@@ -1462,6 +1570,24 @@
       "duration_ms": 370493,
       "name": "LLL",
       "url": "https://open.spotify.com/track/7F2GCFOBnFoNyE2qfYUR3A"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
+      },
+      "artists": [
+        {
+          "name": "Ike Quebec",
+          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Loie - Rudy Van Gelder Edition / 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/5u37dzOTaofExiyOlYir65"
     },
     {
       "album": {
@@ -1693,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417720,
+      "name": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ"
+    },
+    {
+      "album": {
         "name": "Moon Rappin'",
         "url": "https://open.spotify.com/album/25sQE6mJ38XKqKm4VKgWp8"
       },
@@ -1830,7 +1974,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 578066,
       "name": "Passage",
       "url": "https://open.spotify.com/track/02DGEpoMzjyhDmJmyYtIla"
@@ -1888,6 +2032,24 @@
       "duration_ms": 315320,
       "name": "Peace",
       "url": "https://open.spotify.com/track/3yPmDN2p5QxPOn1UVwISLv"
+    },
+    {
+      "album": {
+        "name": "Hub-Tones",
+        "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331253,
+      "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
     },
     {
       "album": {
@@ -2082,7 +2244,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 284529,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj"
@@ -2298,7 +2460,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 377236,
       "name": "Sway",
       "url": "https://open.spotify.com/track/0sFGeDQs250HkU7D23uFqr"
@@ -2424,7 +2586,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 305285,
       "name": "The Sidewinder",
       "url": "https://open.spotify.com/track/3DeSfcOZOa7DUhLB4LVrpd"
@@ -2478,7 +2640,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 410266,
       "name": "These Are Soulful Days",
       "url": "https://open.spotify.com/track/77w5ciHOxfV1CyTIoE1iWw"
@@ -2688,10 +2850,28 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 480000,
       "name": "Yams",
       "url": "https://open.spotify.com/track/57B6gMEI1E4E3kKLKvfX3U"
+    },
+    {
+      "album": {
+        "name": "KingMaker",
+        "url": "https://open.spotify.com/album/4XZmtRKGaFmcJHak5xii6m"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345960,
+      "name": "Yana",
+      "url": "https://open.spotify.com/track/63AaQYxlEqKvcUiv9M8i1m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTR4ZOXTfd9K"

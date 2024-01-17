@@ -1,432 +1,1685 @@
 {
-  "2022-10-27": 59477,
-  "2022-10-28": 60141,
-  "2022-10-29": 61216,
-  "2022-10-30": 62807,
-  "2022-10-31": 64124,
-  "2022-11-01": 67079,
-  "2022-11-02": 67973,
-  "2022-11-03": 68287,
-  "2022-11-04": 68408,
-  "2022-11-05": 68497,
-  "2022-11-06": 68624,
-  "2022-11-07": 68682,
-  "2022-11-08": 68725,
-  "2022-11-09": 68766,
-  "2022-11-10": 68797,
-  "2022-11-11": 68837,
-  "2022-11-12": 68891,
-  "2022-11-13": 68938,
-  "2022-11-14": 68989,
-  "2022-11-15": 69030,
-  "2022-11-16": 69062,
-  "2022-11-17": 69101,
-  "2022-11-18": 69090,
-  "2022-11-19": 69017,
-  "2022-11-20": 69073,
-  "2022-11-21": 69026,
-  "2022-11-22": 69116,
-  "2022-11-23": 69059,
-  "2022-11-24": 69160,
-  "2022-11-25": 69213,
-  "2022-11-26": 69232,
-  "2022-11-27": 69259,
-  "2022-11-28": 69290,
-  "2022-11-29": 69316,
-  "2022-11-30": 69334,
-  "2022-12-01": 69389,
-  "2022-12-02": 69408,
-  "2022-12-03": 69467,
-  "2022-12-04": 69525,
-  "2022-12-05": 69578,
-  "2022-12-06": 69612,
-  "2022-12-07": 69637,
-  "2022-12-08": 69672,
-  "2022-12-09": 69714,
-  "2022-12-10": 69762,
-  "2022-12-11": 69826,
-  "2022-12-12": 69859,
-  "2022-12-13": 69891,
-  "2022-12-14": 69934,
-  "2022-12-15": 69984,
-  "2022-12-16": 70052,
-  "2022-12-17": 70087,
-  "2022-12-18": 70107,
-  "2022-12-19": 70123,
-  "2022-12-20": 70204,
-  "2022-12-21": 70204,
-  "2022-12-22": 70227,
-  "2022-12-24": 70275,
-  "2022-12-25": 70297,
-  "2022-12-26": 70340,
-  "2022-12-27": 70361,
-  "2022-12-28": 70398,
-  "2022-12-29": 70431,
-  "2022-12-30": 70459,
-  "2022-12-31": 70494,
-  "2023-01-01": 70537,
-  "2023-01-02": 70560,
-  "2023-01-03": 70599,
-  "2023-01-04": 70625,
-  "2023-01-05": 70649,
-  "2023-01-06": 70682,
-  "2023-01-07": 70726,
-  "2023-01-08": 70733,
-  "2023-01-09": 70756,
-  "2023-01-10": 70781,
-  "2023-01-11": 70790,
-  "2023-01-12": 70828,
-  "2023-01-13": 70852,
-  "2023-01-14": 70902,
-  "2023-01-15": 70909,
-  "2023-01-16": 70925,
-  "2023-01-17": 70967,
-  "2023-01-18": 70992,
-  "2023-01-19": 71024,
-  "2023-01-20": 71054,
-  "2023-01-21": 71101,
-  "2023-01-22": 71130,
-  "2023-01-23": 71171,
-  "2023-01-24": 71212,
-  "2023-01-25": 71242,
-  "2023-01-26": 71278,
-  "2023-01-27": 71322,
-  "2023-01-28": 71355,
-  "2023-01-29": 71386,
-  "2023-01-30": 71426,
-  "2023-01-31": 71426,
-  "2023-02-01": 71471,
-  "2023-02-02": 71497,
-  "2023-02-03": 71515,
-  "2023-02-04": 71535,
-  "2023-02-05": 71571,
-  "2023-02-06": 71612,
-  "2023-02-07": 71639,
-  "2023-02-08": 71683,
-  "2023-02-09": 71683,
-  "2023-02-10": 71699,
-  "2023-02-11": 71719,
-  "2023-02-12": 71771,
-  "2023-02-13": 71787,
-  "2023-02-14": 71787,
-  "2023-02-15": 71814,
-  "2023-02-16": 71846,
-  "2023-02-17": 71864,
-  "2023-02-18": 71914,
-  "2023-02-19": 71926,
-  "2023-02-20": 71946,
-  "2023-02-21": 71984,
-  "2023-02-22": 72009,
-  "2023-02-23": 72027,
-  "2023-02-24": 72064,
-  "2023-02-25": 72077,
-  "2023-02-26": 72097,
-  "2023-02-27": 72145,
-  "2023-02-28": 72145,
-  "2023-03-01": 72158,
-  "2023-03-02": 72187,
-  "2023-03-03": 72209,
-  "2023-03-04": 72225,
-  "2023-03-05": 72286,
-  "2023-03-06": 72286,
-  "2023-03-07": 72305,
-  "2023-03-08": 72333,
-  "2023-03-09": 72343,
-  "2023-03-10": 72379,
-  "2023-03-11": 72405,
-  "2023-03-12": 72438,
-  "2023-03-13": 72457,
-  "2023-03-14": 72468,
-  "2023-03-15": 72486,
-  "2023-03-16": 72500,
-  "2023-03-17": 72500,
-  "2023-03-18": 72553,
-  "2023-03-19": 72573,
-  "2023-03-20": 72595,
-  "2023-03-21": 72618,
-  "2023-03-22": 72638,
-  "2023-03-23": 72674,
-  "2023-03-24": 72674,
-  "2023-03-25": 72719,
-  "2023-03-26": 72756,
-  "2023-03-27": 72774,
-  "2023-03-28": 72781,
-  "2023-03-29": 72809,
-  "2023-03-30": 72852,
-  "2023-03-31": 72852,
-  "2023-04-01": 72884,
-  "2023-04-02": 72914,
-  "2023-04-03": 72936,
-  "2023-04-04": 72960,
-  "2023-04-05": 72987,
-  "2023-04-06": 73034,
-  "2023-04-07": 73060,
-  "2023-04-09": 73128,
-  "2023-04-10": 73163,
-  "2023-04-11": 73221,
-  "2023-04-12": 73221,
-  "2023-04-13": 73245,
-  "2023-04-14": 73287,
-  "2023-04-15": 73318,
-  "2023-04-16": 73341,
-  "2023-04-17": 73359,
-  "2023-04-18": 73373,
-  "2023-04-19": 73397,
-  "2023-04-20": 73431,
-  "2023-04-21": 73447,
-  "2023-04-22": 73467,
-  "2023-04-23": 73512,
-  "2023-04-24": 73530,
-  "2023-04-25": 73561,
-  "2023-04-26": 73623,
-  "2023-04-27": 73668,
-  "2023-04-28": 73695,
-  "2023-04-29": 73734,
-  "2023-04-30": 73767,
-  "2023-05-01": 73814,
-  "2023-05-02": 73856,
-  "2023-05-03": 73870,
-  "2023-05-04": 73902,
-  "2023-05-05": 73944,
-  "2023-05-06": 73987,
-  "2023-05-07": 74016,
-  "2023-05-08": 74058,
-  "2023-05-09": 74085,
-  "2023-05-10": 74113,
-  "2023-05-11": 74158,
-  "2023-05-12": 74198,
-  "2023-05-13": 74228,
-  "2023-05-14": 74268,
-  "2023-05-15": 74304,
-  "2023-05-16": 74340,
-  "2023-05-17": 74390,
-  "2023-05-18": 74425,
-  "2023-05-19": 74462,
-  "2023-05-20": 74546,
-  "2023-05-21": 74546,
-  "2023-05-22": 74546,
-  "2023-05-23": 74628,
-  "2023-05-24": 74692,
-  "2023-05-25": 74701,
-  "2023-05-26": 74731,
-  "2023-05-27": 74777,
-  "2023-05-28": 74824,
-  "2023-05-29": 74824,
-  "2023-05-30": 74904,
-  "2023-05-31": 74926,
-  "2023-06-01": 74958,
-  "2023-06-02": 74986,
-  "2023-06-03": 75010,
-  "2023-06-04": 75058,
-  "2023-06-05": 75090,
-  "2023-06-06": 75132,
-  "2023-06-07": 75163,
-  "2023-06-08": 75201,
-  "2023-06-09": 75225,
-  "2023-06-10": 75258,
-  "2023-06-11": 75298,
-  "2023-06-12": 75334,
-  "2023-06-13": 75360,
-  "2023-06-14": 75391,
-  "2023-06-15": 75417,
-  "2023-06-16": 75478,
-  "2023-06-17": 75505,
-  "2023-06-18": 75550,
-  "2023-06-19": 75575,
-  "2023-06-20": 75612,
-  "2023-06-21": 75644,
-  "2023-06-22": 75672,
-  "2023-06-23": 75716,
-  "2023-06-24": 75767,
-  "2023-06-25": 75800,
-  "2023-06-26": 75854,
-  "2023-06-27": 75887,
-  "2023-06-28": 75924,
-  "2023-06-29": 75958,
-  "2023-06-30": 75996,
-  "2023-07-01": 76085,
-  "2023-07-02": 76085,
-  "2023-07-03": 76131,
-  "2023-07-04": 76171,
-  "2023-07-05": 76220,
-  "2023-07-06": 76312,
-  "2023-07-07": 76312,
-  "2023-07-08": 76356,
-  "2023-07-09": 76396,
-  "2023-07-10": 76433,
-  "2023-07-11": 76472,
-  "2023-07-12": 76519,
-  "2023-07-13": 76562,
-  "2023-07-14": 76613,
-  "2023-07-15": 76633,
-  "2023-07-16": 76717,
-  "2023-07-17": 76763,
-  "2023-07-18": 76800,
-  "2023-07-19": 76845,
-  "2023-07-20": 76897,
-  "2023-07-21": 76949,
-  "2023-07-22": 76987,
-  "2023-07-23": 77034,
-  "2023-07-24": 77068,
-  "2023-07-25": 77118,
-  "2023-07-26": 77142,
-  "2023-07-27": 77184,
-  "2023-07-28": 77229,
-  "2023-07-29": 77287,
-  "2023-07-30": 77330,
-  "2023-07-31": 77393,
-  "2023-08-01": 77455,
-  "2023-08-02": 77489,
-  "2023-08-03": 77547,
-  "2023-08-04": 77601,
-  "2023-08-05": 77671,
-  "2023-08-06": 77795,
-  "2023-08-07": 77795,
-  "2023-08-08": 77848,
-  "2023-08-09": 77931,
-  "2023-08-10": 78002,
-  "2023-08-11": 78073,
-  "2023-08-12": 78129,
-  "2023-08-13": 78193,
-  "2023-08-14": 78274,
-  "2023-08-15": 78414,
-  "2023-08-16": 78414,
-  "2023-08-17": 78480,
-  "2023-08-18": 78561,
-  "2023-08-19": 78629,
-  "2023-08-20": 78698,
-  "2023-08-21": 78801,
-  "2023-08-22": 78886,
-  "2023-08-23": 78975,
-  "2023-08-24": 79049,
-  "2023-08-25": 79109,
-  "2023-08-26": 79202,
-  "2023-08-27": 79297,
-  "2023-08-28": 79391,
-  "2023-08-29": 79476,
-  "2023-08-30": 79558,
-  "2023-08-31": 79632,
-  "2023-09-01": 79764,
-  "2023-09-02": 79764,
-  "2023-09-03": 79854,
-  "2023-09-04": 79936,
-  "2023-09-05": 80004,
-  "2023-09-06": 80060,
-  "2023-09-07": 80114,
-  "2023-09-08": 80183,
-  "2023-09-09": 80254,
-  "2023-09-10": 80342,
-  "2023-09-11": 80424,
-  "2023-09-12": 80492,
-  "2023-09-13": 80564,
-  "2023-09-14": 80632,
-  "2023-09-15": 80698,
-  "2023-09-16": 80772,
-  "2023-09-17": 80853,
-  "2023-09-18": 80949,
-  "2023-09-19": 81026,
-  "2023-09-20": 81084,
-  "2023-09-21": 81166,
-  "2023-09-22": 81247,
-  "2023-09-23": 81313,
-  "2023-09-24": 81435,
-  "2023-09-25": 81553,
-  "2023-09-26": 81665,
-  "2023-09-27": 81739,
-  "2023-09-28": 81849,
-  "2023-09-29": 81921,
-  "2023-09-30": 82047,
-  "2023-10-01": 82199,
-  "2023-10-02": 82368,
-  "2023-10-03": 82536,
-  "2023-10-04": 82720,
-  "2023-10-05": 82909,
-  "2023-10-06": 83065,
-  "2023-10-07": 83200,
-  "2023-10-08": 83378,
-  "2023-10-09": 83536,
-  "2023-10-10": 83700,
-  "2023-10-11": 84023,
-  "2023-10-12": 84023,
-  "2023-10-13": 84180,
-  "2023-10-14": 84437,
-  "2023-10-15": 84690,
-  "2023-10-16": 84926,
-  "2023-10-17": 85203,
-  "2023-10-18": 85491,
-  "2023-10-19": 85845,
-  "2023-10-20": 86178,
-  "2023-10-21": 86506,
-  "2023-10-22": 86892,
-  "2023-10-23": 87210,
-  "2023-10-24": 87695,
-  "2023-10-25": 88209,
-  "2023-10-26": 88609,
-  "2023-10-27": 89025,
-  "2023-10-28": 89574,
-  "2023-10-29": 90268,
-  "2023-10-30": 91157,
-  "2023-10-31": 91157,
-  "2023-11-01": 92668,
-  "2023-11-02": 93099,
-  "2023-11-03": 93518,
-  "2023-11-04": 93624,
-  "2023-11-05": 93695,
-  "2023-11-06": 93709,
-  "2023-11-07": 93709,
-  "2023-11-08": 93718,
-  "2023-11-09": 93716,
-  "2023-11-10": 93722,
-  "2023-11-11": 93712,
-  "2023-11-12": 93709,
-  "2023-11-13": 93706,
-  "2023-11-14": 93701,
-  "2023-11-15": 93701,
-  "2023-11-16": 93696,
-  "2023-11-17": 93692,
-  "2023-11-18": 93692,
-  "2023-11-19": 93701,
-  "2023-11-20": 93701,
-  "2023-11-21": 93701,
-  "2023-11-22": 93691,
-  "2023-11-23": 93680,
-  "2023-11-24": 93663,
-  "2023-11-25": 93653,
-  "2023-11-26": 93652,
-  "2023-11-27": 93633,
-  "2023-11-28": 93635,
-  "2023-11-29": 93618,
-  "2023-11-30": 93618,
-  "2023-12-01": 93607,
-  "2023-12-02": 93587,
-  "2023-12-03": 93594,
-  "2023-12-04": 93598,
-  "2023-12-05": 93591,
-  "2023-12-06": 93583,
-  "2023-12-07": 93573,
-  "2023-12-08": 93569,
-  "2023-12-09": 93576,
-  "2023-12-10": 93576,
-  "2023-12-11": 93582,
-  "2023-12-12": 93572,
-  "2023-12-13": 93570,
-  "2023-12-14": 93560,
-  "2023-12-15": 93551,
-  "2023-12-16": 93549,
-  "2023-12-17": 93550,
-  "2023-12-18": 93543,
-  "2023-12-19": 93540,
-  "2023-12-20": 93531,
-  "2023-12-21": 93528,
-  "2023-12-22": 93528,
-  "2023-12-23": 93525,
-  "2023-12-24": 93524,
-  "2023-12-25": 93521,
-  "2023-12-26": 93515,
-  "2023-12-27": 93498,
-  "2023-12-30": 93486,
-  "2023-12-31": 93478,
-  "2024-01-01": 93466,
-  "2024-01-02": 93451,
-  "2024-01-03": 93440
+  "2024-01-17": 93334,
+  "date_first_scraped": "2022-10-27",
+  "description": "Los muertos al caj\u00f3n y los vivos al fiest\u00f3n.",
+  "name": "Halloween Fiesta",
+  "tracks": [
+    {
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish Through Music",
+        "url": "https://open.spotify.com/album/5uGmf50C1Eoupj4Akbzkgt"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257880,
+      "name": "A Donde Van los Muertos?",
+      "url": "https://open.spotify.com/track/68LgVrn4uYF7iAQ1NvqOIy"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194087,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
+    },
+    {
+      "album": {
+        "name": "The Blue Horizon Story (1965-1970)",
+        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168906,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/2mLLuOoaVnbcynL3UIw0Ff"
+    },
+    {
+      "album": {
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172693,
+      "name": "Black Magic Woman - 2018 Master",
+      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+    },
+    {
+      "album": {
+        "name": "Cumbia Salvaje",
+        "url": "https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262571,
+      "name": "Bocanegra",
+      "url": "https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V"
+    },
+    {
+      "album": {
+        "name": "Cumbia Salvaje",
+        "url": "https://open.spotify.com/album/4kaeimjCKk45383q3ZBAdE"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 264986,
+      "name": "Bocanegra",
+      "url": "https://open.spotify.com/track/4cLh48mq3xUmmY1x7G3HqU"
+    },
+    {
+      "album": {
+        "name": "Guadalupe Plata 2015",
+        "url": "https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194367,
+      "name": "Calle 24",
+      "url": "https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX"
+    },
+    {
+      "album": {
+        "name": "Mexican Institute of Sound vs. Sant",
+        "url": "https://open.spotify.com/album/0Ve8D73sUNAOIGiBbeIMCD"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/2lD5i0c3VBhA41u84QORoY"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203631,
+      "name": "Canci\u00f3n Embrujada",
+      "url": "https://open.spotify.com/track/7qEW4Ki7ut7E1eNwVUXG6H"
+    },
+    {
+      "album": {
+        "name": "\u00a1Demolici\u00f3n! The Complete Recordings",
+        "url": "https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M"
+      },
+      "artists": [
+        {
+          "name": "Los Saicos",
+          "url": "https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140026,
+      "name": "Cementerio",
+      "url": "https://open.spotify.com/track/6iN0qVljchxXFx7VedwGZi"
+    },
+    {
+      "album": {
+        "name": "Chaneque",
+        "url": "https://open.spotify.com/album/4j3ux7SK4bjeG8oMPokAVN"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 255701,
+      "name": "Chaneque",
+      "url": "https://open.spotify.com/track/5XATnCJz4bZmlkLYVTUkba"
+    },
+    {
+      "album": {
+        "name": "Chaneque",
+        "url": "https://open.spotify.com/album/5cNEKi8HUl4gC0lyCDVaCr"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262180,
+      "name": "Chaneque",
+      "url": "https://open.spotify.com/track/3ms6dhe1S9Z7i5hVznjWAV"
+    },
+    {
+      "album": {
+        "name": "LP2",
+        "url": "https://open.spotify.com/album/3OwdtsYbAP9gOt4narwwRR"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236706,
+      "name": "Cien Metros para el Cementerio",
+      "url": "https://open.spotify.com/track/0StEd2tjZaIOIMGjoD9Y5a"
+    },
+    {
+      "album": {
+        "name": "Corrido De La Sangre",
+        "url": "https://open.spotify.com/album/0u33GdU1jBMhI5SsTMkoFY"
+      },
+      "artists": [
+        {
+          "name": "The Tiger Lillies",
+          "url": "https://open.spotify.com/artist/72o2T9aqYR2PFNYpzYrMmw"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151763,
+      "name": "Day of the Dead",
+      "url": "https://open.spotify.com/track/3TrWVqco778i7hg88YQTgw"
+    },
+    {
+      "album": {
+        "name": "La Orchestra Diabolica",
+        "url": "https://open.spotify.com/album/5GZmdLfEoYcT6sGo4Hq9DA"
+      },
+      "artists": [
+        {
+          "name": "Los Plantronics",
+          "url": "https://open.spotify.com/artist/6LUchU4dexQVXxiVVR96FY"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140240,
+      "name": "Dia De Los Muertos",
+      "url": "https://open.spotify.com/track/6UPzVnKBwVulRz4MCwX0Ra"
+    },
+    {
+      "album": {
+        "name": "The Worst is yet to Come (Best of 1995-2017)",
+        "url": "https://open.spotify.com/album/262Gwkokjvhez0Fsfw23Xb"
+      },
+      "artists": [
+        {
+          "name": "Los Plantronics",
+          "url": "https://open.spotify.com/artist/6LUchU4dexQVXxiVVR96FY"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 141573,
+      "name": "Dia Del Los Muertos",
+      "url": "https://open.spotify.com/track/0At4BtsLYRkzcVqVZzQ3YN"
+    },
+    {
+      "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281466,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/2acy7zzNEjWMpY6mg91h5N"
+    },
+    {
+      "album": {
+        "name": "Aquellos Maravillosos 90",
+        "url": "https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5"
+      },
+      "artists": [
+        {
+          "name": "Doctor Explosion",
+          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142333,
+      "name": "Dra\u0301cula \u201dYe-ye\u201d",
+      "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
+    },
+    {
+      "album": {
+        "name": "Coulrofobia",
+        "url": "https://open.spotify.com/album/2Fx8X0aOD9SFSFBHecaJTk"
+      },
+      "artists": [
+        {
+          "name": "Los Carniceros Del Norte",
+          "url": "https://open.spotify.com/artist/0chH89xiSJ25b8T4NLDo4s"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124706,
+      "name": "Drive Thru",
+      "url": "https://open.spotify.com/track/3KO6DOORANi6hRIZxVvHzy"
+    },
+    {
+      "album": {
+        "name": "En vivo Sesiones Nostromo",
+        "url": "https://open.spotify.com/album/1oetk83qaS5s7UUhjnINAR"
+      },
+      "artists": [
+        {
+          "name": "Gangrena Surf",
+          "url": "https://open.spotify.com/artist/1R18ekUeS9uxa1c9bSg6V8"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130840,
+      "name": "El baile de las momias",
+      "url": "https://open.spotify.com/track/1wUyGZsOr5SLt2vNnxOY4r"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Del Rock And Roll: Versiones Originales",
+        "url": "https://open.spotify.com/album/4TwJkykajU88aiIRMVHrYc"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/7b44hAQm65hOYcsiesm3zc"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 165227,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/1qERgTGlzaLNcVxJJYvfPJ"
+    },
+    {
+      "album": {
+        "name": "El Esqueleto",
+        "url": "https://open.spotify.com/album/0SY9BSzGpcohHMNKnXd5H8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/7b44hAQm65hOYcsiesm3zc"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165227,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/3WLf5aW48LL1FFS4UrdthD"
+    },
+    {
+      "album": {
+        "name": "Lucha Rock",
+        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223013,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
+    },
+    {
+      "album": {
+        "name": "El Tren de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262520,
+      "name": "El Fantasma Enamorado",
+      "url": "https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb"
+    },
+    {
+      "album": {
+        "name": "El Muerto Vivo",
+        "url": "https://open.spotify.com/album/7w8IV8i6SsIgQAVNy2wNX9"
+      },
+      "artists": [
+        {
+          "name": "Los Jo\u00e3o",
+          "url": "https://open.spotify.com/artist/7u23Qh2OuzqBbQEuzHh7X9"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170248,
+      "name": "El Muerto Vivo",
+      "url": "https://open.spotify.com/track/6QTTARTEeaRjBjB4GSfqTk"
+    },
+    {
+      "album": {
+        "name": "Fantasmagoria (Hidrogenesse Remix)",
+        "url": "https://open.spotify.com/album/4tf8LecJdP92YCbmhLPiVm"
+      },
+      "artists": [
+        {
+          "name": "Fangoria",
+          "url": "https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4"
+        },
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312633,
+      "name": "Fantasmagoria - Hidrogenesse Remix",
+      "url": "https://open.spotify.com/track/2s6iIcUL7JpA4iL9zY4BcA"
+    },
+    {
+      "album": {
+        "name": "Crazy Price",
+        "url": "https://open.spotify.com/album/7tlDlIs0Zn4E1x7SQOAoeu"
+      },
+      "artists": [
+        {
+          "name": "Messer Chups",
+          "url": "https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "Fantomasofobia",
+      "url": "https://open.spotify.com/track/7Hx0GQ6ymtzOx62KYUmUfn"
+    },
+    {
+      "album": {
+        "name": "Arista Heritage Series: Ray Parker",
+        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
+    },
+    {
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "album": {
+        "name": "Plymouth Rock",
+        "url": "https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9"
+      },
+      "artists": [
+        {
+          "name": "Satan's Pilgrims",
+          "url": "https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Haunted House Of Rock",
+      "url": "https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca"
+    },
+    {
+      "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Fr\u00e1ncisco Familiar",
+          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Hombre Lobo Adolescente",
+      "url": "https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos - Edici\u00f3n Para Coleccionistas",
+        "url": "https://open.spotify.com/album/3MHA0IRha04GHJwFHGFxdP"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Los Pegamoides",
+          "url": "https://open.spotify.com/artist/60LKzdjqtmposRWQbVnGAI"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141613,
+      "name": "Horror en el hipermercado",
+      "url": "https://open.spotify.com/track/1QWFEgLerDW7s8N7emXMTS"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/6rhd8KStWjkNoyBO7ddkeu"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Los Pegamoides",
+          "url": "https://open.spotify.com/artist/60LKzdjqtmposRWQbVnGAI"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 141613,
+      "name": "Horror En El Hipermercado",
+      "url": "https://open.spotify.com/track/1XlmZeSP4EPEmhewQjRCav"
+    },
+    {
+      "album": {
+        "name": "At Home with Screamin' Jay Hawkins",
+        "url": "https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144866,
+      "name": "I Put a Spell On You",
+      "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Paul Reubens",
+          "url": "https://open.spotify.com/artist/0bLeinXJM2eS7FWfqRmnIP"
+        },
+        {
+          "name": "Catherine O'Hara",
+          "url": "https://open.spotify.com/artist/0KDbBK1pnCWEL33tRNwDhD"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Kidnap The Sandy Claws",
+      "url": "https://open.spotify.com/track/06iUp1XbbaOvAmzrrZeT32"
+    },
+    {
+      "album": {
+        "name": "God Save The Queers EP",
+        "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
+      },
+      "artists": [
+        {
+          "name": "Kumbia Queers",
+          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288253,
+      "name": "Kumbia Zombie",
+      "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
+    },
+    {
+      "album": {
+        "name": "Bad Buzz - Lost in the Space Age",
+        "url": "https://open.spotify.com/album/3z41QSxd3tPuGxbMJZXRbQ"
+      },
+      "artists": [
+        {
+          "name": "The Anacondas",
+          "url": "https://open.spotify.com/artist/32Ux0YK2riaKZNTMqeUiJz"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "La Danza de Los Muertos",
+      "url": "https://open.spotify.com/track/0fQFRLksWvatYenS4aoU29"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Del Rock",
+        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
+      },
+      "artists": [
+        {
+          "name": "Los Gliders",
+          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "La Llorona Loca",
+      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
+    },
+    {
+      "album": {
+        "name": "10 Year Old Zombie",
+        "url": "https://open.spotify.com/album/6D0KOO5zdjmfXH9umBIru8"
+      },
+      "artists": [
+        {
+          "name": "Misterio",
+          "url": "https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111093,
+      "name": "La Momia Negra",
+      "url": "https://open.spotify.com/track/44gkjktCO18c02eUwN55Br"
+    },
+    {
+      "album": {
+        "name": "Tiempo transcurrido",
+        "url": "https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171573,
+      "name": "La muerte chiquita",
+      "url": "https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv"
+    },
+    {
+      "album": {
+        "name": "Lejos, No Tan Lejos",
+        "url": "https://open.spotify.com/album/0YkY3WqyscfFERmCKnAWvf"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164013,
+      "name": "La Tumba",
+      "url": "https://open.spotify.com/track/1AuwJOJcxOfi5nEQPwk5XP"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica para Locos (Vol. 1)",
+        "url": "https://open.spotify.com/album/0sWQzugWG2XYRWkzpBiEdT"
+      },
+      "artists": [
+        {
+          "name": "Los Golden Calavera",
+          "url": "https://open.spotify.com/artist/4UW7bHZdY0XURnDVPWGOZi"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272064,
+      "name": "Las Momias",
+      "url": "https://open.spotify.com/track/2LFAqVHgU1tShWETIYHcKa"
+    },
+    {
+      "album": {
+        "name": "Exploring New Sounds in Stereo",
+        "url": "https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Lazy Bones",
+      "url": "https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica para la Ofrenda",
+        "url": "https://open.spotify.com/album/0BtSyGbd9qBRR3nalTKEnR"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233266,
+      "name": "Lobo hombre en paris",
+      "url": "https://open.spotify.com/track/1WgFf1n1gGCmk8VbIWMPNw"
+    },
+    {
+      "album": {
+        "name": "Mil Siluetas",
+        "url": "https://open.spotify.com/album/5HI7WlqeosN86R0o1TOfCI"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/4akYOw6ZJu7WIbZViLrJqc"
+    },
+    {
+      "album": {
+        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
+        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
+      },
+      "artists": [
+        {
+          "name": "Los Belmonts",
+          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116146,
+      "name": "Los locos adams",
+      "url": "https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ"
+    },
+    {
+      "album": {
+        "name": "RCA 100 Anos De Musica - Segunda Parte (Exitos Inolvidables Del Rock & Roll En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK"
+      },
+      "artists": [
+        {
+          "name": "Manuel Loco Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0jgf6PnmEhXnLqORB50vYk"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142840,
+      "name": "Medico Brujo",
+      "url": "https://open.spotify.com/track/3HuuWtAkX2EedxBo6cy9tS"
+    },
+    {
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "album": {
+        "name": "Fan Fatal - Remasters",
+        "url": "https://open.spotify.com/album/6B61bMzL4NGx92QoRFEqyu"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258546,
+      "name": "Mi novio es un zombi",
+      "url": "https://open.spotify.com/track/5J12YO8YRSnfwvKOIFp31S"
+    },
+    {
+      "album": {
+        "name": "The Original Monster Mash",
+        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "album": {
+        "name": "Yo Fui una Adolescente Terrosat\u00e1nica",
+        "url": "https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S"
+      },
+      "artists": [
+        {
+          "name": "Ultrasonicas",
+          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133933,
+      "name": "Monstruo Verde",
+      "url": "https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq"
+    },
+    {
+      "album": {
+        "name": "Schizophonic",
+        "url": "https://open.spotify.com/album/1oVhuDlylEyFlxJxDFBQ06"
+      },
+      "artists": [
+        {
+          "name": "Combustible Edison",
+          "url": "https://open.spotify.com/artist/6EBbqeUWMq6mWL0CQklRwh"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134040,
+      "name": "Morticia",
+      "url": "https://open.spotify.com/track/4gPGW42siCv0bpq4eQIHSc"
+    },
+    {
+      "album": {
+        "name": "Mostros",
+        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "Mostros",
+      "url": "https://open.spotify.com/track/51WjCESqaihA1mQskCEMnd"
+    },
+    {
+      "album": {
+        "name": "October Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58DUHwOcuQZ62znoET7J2l"
+      },
+      "artists": [
+        {
+          "name": "October Country",
+          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 126840,
+      "name": "My Girlfriend Is a Witch",
+      "url": "https://open.spotify.com/track/18DaSMSqc40nV8cDhdLemj"
+    },
+    {
+      "album": {
+        "name": "Classic Halloween Hits",
+        "url": "https://open.spotify.com/album/0VMOOJvuloNJH4zojPtMvh"
+      },
+      "artists": [
+        {
+          "name": "October Country",
+          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 126840,
+      "name": "My Girlfriend Is a Witch",
+      "url": "https://open.spotify.com/track/34xaWdjPfkPPEcF2sVlG0U"
+    },
+    {
+      "album": {
+        "name": "October Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX"
+      },
+      "artists": [
+        {
+          "name": "October Country",
+          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126840,
+      "name": "My Girlfriend Is a Witch",
+      "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
+    },
+    {
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "album": {
+        "name": "Noche triler",
+        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
+      },
+      "artists": [
+        {
+          "name": "LA MECANICA POPULAR",
+          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238907,
+      "name": "Noche triler",
+      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
+    },
+    {
+      "album": {
+        "name": "Ocean Rain",
+        "url": "https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Nocturnal Me",
+      "url": "https://open.spotify.com/track/5V9FrOjiLqd9eyiny1s78a"
+    },
+    {
+      "album": {
+        "name": "Pap\u00e1 Soy una Zombie",
+        "url": "https://open.spotify.com/album/1zfreS1Ke3BkR6ty0RHvIX"
+      },
+      "artists": [
+        {
+          "name": "Los Tiki Phantoms",
+          "url": "https://open.spotify.com/artist/4h2hLlCk6gQXMcrw4Z6ZYt"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152122,
+      "name": "Pap\u00e1 Soy una Zombie",
+      "url": "https://open.spotify.com/track/4pAk5rjfyA4BkUKysqNk5U"
+    },
+    {
+      "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273559,
+      "name": "Pasa la Vida",
+      "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
+    },
+    {
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "album": {
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        },
+        {
+          "name": "Peter Zaremba",
+          "url": "https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs"
+        },
+        {
+          "name": "Keith Streng",
+          "url": "https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya"
+        },
+        {
+          "name": "Mary Huff",
+          "url": "https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 209400,
+      "name": "Que Monstruos Son (feat. Keith Streng & Mary Huff)",
+      "url": "https://open.spotify.com/track/1eBTesQZ72agGVC4kKs6HN"
+    },
+    {
+      "album": {
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        },
+        {
+          "name": "Peter Zaremba",
+          "url": "https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs"
+        },
+        {
+          "name": "Keith Streng",
+          "url": "https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya"
+        },
+        {
+          "name": "Mary Huff",
+          "url": "https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Que Monstruos Son (feat. Keith Streng & Mary Huff)",
+      "url": "https://open.spotify.com/track/45PmtkNbgCun4GPphHVzvi"
+    },
+    {
+      "album": {
+        "name": "Electric Sunset",
+        "url": "https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI"
+      },
+      "artists": [
+        {
+          "name": "Twanguero",
+          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+        },
+        {
+          "name": "Ara Malikian",
+          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213680,
+      "name": "Raska Yu (feat. Ara Malikian)",
+      "url": "https://open.spotify.com/track/5b1MRfbVjp6K0KbbvLh7eH"
+    },
+    {
+      "album": {
+        "name": "The Director's Cut",
+        "url": "https://open.spotify.com/album/4EenSuWRkXoSrsMJEuvfE1"
+      },
+      "artists": [
+        {
+          "name": "Fantomas",
+          "url": "https://open.spotify.com/artist/43ltIj8NRBsmOEjDr5Sk10"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "Rosemary's Baby",
+      "url": "https://open.spotify.com/track/2BVJMKbdz7XtEcsIDT0oAz"
+    },
+    {
+      "album": {
+        "name": "5 A\u00f1os Con Sabor a 20",
+        "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
+      },
+      "artists": [
+        {
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211960,
+      "name": "Satan Swing",
+      "url": "https://open.spotify.com/track/2yPDTHmS3FEAcDb5S0TVYD"
+    },
+    {
+      "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313453,
+      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
+    },
+    {
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293933,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
+    },
+    {
+      "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298866,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/1Tt7kLJ0EC4t8w3D4WyySr"
+      },
+      "artists": [
+        {
+          "name": "Classics IV",
+          "url": "https://open.spotify.com/artist/6XGJvNG372fPJ2TV2OoN0Z"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175866,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/5z4iT44mMHyZozsTFy4A51"
+    },
+    {
+      "album": {
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+    },
+    {
+      "album": {
+        "name": "Red Dead Redemption: Undead Nightmare Original Soundtrack",
+        "url": "https://open.spotify.com/album/2RVAztnGDcmO51LE7YBohk"
+      },
+      "artists": [
+        {
+          "name": "Misterio",
+          "url": "https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "Stinkin' Zombies",
+      "url": "https://open.spotify.com/track/1M2s8CvdojlVc1SeUFfnD4"
+    },
+    {
+      "album": {
+        "name": "Red Dead Redemption: Undead Nightmare Original Soundtrack",
+        "url": "https://open.spotify.com/album/2YGuFhmMtK5rD7v5K3AV4V"
+      },
+      "artists": [
+        {
+          "name": "Misterio",
+          "url": "https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 191226,
+      "name": "Stinkin' zombies",
+      "url": "https://open.spotify.com/track/3IEhTMoRdwGj8ekSk4MqKH"
+    },
+    {
+      "album": {
+        "name": "Stranger Things (Versi\u00f3n Cumbia)",
+        "url": "https://open.spotify.com/album/6NbzLDhhHcGIDhVMyX2wEE"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Drive",
+          "url": "https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Stranger Things (Versi\u00f3n Cumbia)",
+      "url": "https://open.spotify.com/track/2YoUCthmk1GQOEMJOj0UMH"
+    },
+    {
+      "album": {
+        "name": "Spring Clean",
+        "url": "https://open.spotify.com/album/6h0tyUTj25WN2yhgxAkfgY"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244826,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/57wV4ExkkZBDEwM1OqGmGp"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
+    },
+    {
+      "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "album": {
+        "name": "Football Songs",
+        "url": "https://open.spotify.com/album/5QcGMeNhparwMjzDTl8TtQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition / Remastered 2018",
+      "url": "https://open.spotify.com/track/0lLPAht0tX1ex2ZpzNS3nF"
+    },
+    {
+      "album": {
+        "name": "The Munsters Theme",
+        "url": "https://open.spotify.com/album/5tRzsUwEfJsGcVHYIL7tzE"
+      },
+      "artists": [
+        {
+          "name": "Munsters Theme",
+          "url": "https://open.spotify.com/artist/2LmM5hsts3yg1MvF6cjuzk"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47919,
+      "name": "The Munsters Theme",
+      "url": "https://open.spotify.com/track/0lr9zsYUsaqddEyAw7I9PT"
+    },
+    {
+      "album": {
+        "name": "Tele Ventures",
+        "url": "https://open.spotify.com/album/2XLepWm6ZANj9lSp5tngd9"
+      },
+      "artists": [
+        {
+          "name": "The Ventures",
+          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "The Twilight Zone",
+      "url": "https://open.spotify.com/track/7AYovnVPVHZitnIQDPjR4c"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
+    },
+    {
+      "album": {
+        "name": "Michael Jackson's This Is It",
+        "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357493,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4"
+    },
+    {
+      "album": {
+        "name": "Tengo Un Amigo Que Me Ama",
+        "url": "https://open.spotify.com/album/6G72PHsArHnX6xhxtGIQUz"
+      },
+      "artists": [
+        {
+          "name": "Los Pinches Fresitas",
+          "url": "https://open.spotify.com/artist/6o3IbCE7dIZsiVGpSqdkt0"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Tu Perro Se Murio\u0301",
+      "url": "https://open.spotify.com/track/0pcXNtAlhrdMsanmkwwJsM"
+    },
+    {
+      "album": {
+        "name": "Exitos de Gustavo Quintero y los Teen Agers",
+        "url": "https://open.spotify.com/album/2GZjyLV1xXCgfdX1CRQsm4"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Quintero",
+          "url": "https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn"
+        },
+        {
+          "name": "Los Teen Agers",
+          "url": "https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Twist del Esqueleto / El Profesor Rui Rua",
+      "url": "https://open.spotify.com/track/3p7RvLSxAYOW8arCp5dAG2"
+    },
+    {
+      "album": {
+        "name": "Two Bottles of Blood",
+        "url": "https://open.spotify.com/album/4QOMkiWKJZsPnDHKnAjIS1"
+      },
+      "artists": [
+        {
+          "name": "The Guitaraculas",
+          "url": "https://open.spotify.com/artist/3vNj0DcvkrfC117vcbbbWo"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "Vampira's Curse",
+      "url": "https://open.spotify.com/track/72OOLDuo1zr8OY57fletXl"
+    },
+    {
+      "album": {
+        "name": "Latin Halloween",
+        "url": "https://open.spotify.com/album/43gbSK7c6LfANqf1YwALmW"
+      },
+      "artists": [
+        {
+          "name": "Misterio",
+          "url": "https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 102226,
+      "name": "Vampirella",
+      "url": "https://open.spotify.com/track/46XIYDknHnw6u15WLWjsVg"
+    },
+    {
+      "album": {
+        "name": "10 Year Old Zombie",
+        "url": "https://open.spotify.com/album/6D0KOO5zdjmfXH9umBIru8"
+      },
+      "artists": [
+        {
+          "name": "Misterio",
+          "url": "https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102933,
+      "name": "Vampirella",
+      "url": "https://open.spotify.com/track/3I2KYR9fGoHweDesKZ6t26"
+    },
+    {
+      "album": {
+        "name": "Reina (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1KxsbEol0Bh7DVyTgz9oeL"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257519,
+      "name": "\u00bfA D\u00f3nde Van Los Muertos?",
+      "url": "https://open.spotify.com/track/6xfzArMzaOM2xJsoEja1oe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3z5yKRkYm4P"
 }

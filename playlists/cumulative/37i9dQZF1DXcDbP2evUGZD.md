@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-261 songs - 16 hr 52 min
+263 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Bomijota](https://open.spotify.com/track/4S85ai7PnqRaA5yNuqkC76) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Popeye](https://open.spotify.com/album/2t9FnNO9jerMe8BPyGxKEm) | 3:41 | 2022-09-27 | 2022-10-18 |
 | [BORDERLINE](https://open.spotify.com/track/7mva6GztaB4UsfHmAiPoZY) | [A\-Fuzz](https://open.spotify.com/artist/113w9vmZPkX93Pc3pkUby3) | [WHAT THE FUZZ](https://open.spotify.com/album/7e5VfiESUdEgnu0KZOufMu) | 4:40 | 2022-09-27 | 2023-07-13 |
 | [BOY](https://open.spotify.com/track/2zyj0d6XwQqMHTDU907P9t) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [BOY](https://open.spotify.com/album/151pZ4YNWDjXFbKcYvzJie) | 4:27 | 2023-07-12 |  |
-| [Braindead](https://open.spotify.com/track/10qiH1RJkexhTUuN562FsP) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Braindead](https://open.spotify.com/album/2dIATUDwagqAym02UKbfWV) | 2:43 | 2023-07-12 |  |
+| [Braindead](https://open.spotify.com/track/0V1DMFiDjbkibUvgapzTPj) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Braindead](https://open.spotify.com/album/5Y2eg7LXKaXjcDcfaYVgwj) | 2:43 | 2023-09-11 |  |
+| [Braindead](https://open.spotify.com/track/10qiH1RJkexhTUuN562FsP) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Braindead](https://open.spotify.com/album/2dIATUDwagqAym02UKbfWV) | 2:43 | 2023-07-12 | 2024-01-07 |
 | [Breath](https://open.spotify.com/track/08XpmEE4Qrfw14PsMuXXcG) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 3:15 | 2022-09-27 | 2023-07-13 |
 | [Burn Out](https://open.spotify.com/track/6ehVNv7kKd0vPXM2Zb49eJ) | [Third Stone](https://open.spotify.com/artist/1kduP6BC6njpyCIDLuQyql) | [Psychiatric Hospital](https://open.spotify.com/album/1BfsaCCYtvYL4lByG3SRiH) | 6:23 | 2023-07-12 |  |
 | [Butterfly](https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 | 2022-09-27 | 2023-07-13 |
@@ -53,7 +54,8 @@
 | [Coupon Man](https://open.spotify.com/track/4DyOqzEp3hwg0v0RXXVQyk) | [W24](https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit) | [Born again](https://open.spotify.com/album/6w5FVqkNEvXV1uNlmbLstX) | 2:56 | 2023-07-12 |  |
 | [COWBOY](https://open.spotify.com/track/2NeC4CBvfFELWNzxCehQYw) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:50 | 2022-09-27 | 2023-07-13 |
 | [Crazy Driver](https://open.spotify.com/track/2bT3rm02O6EwyeXPVkDCGx) | [PRSNT](https://open.spotify.com/artist/4Aj920LL1N15pxyHm4heD1) | [Crazy Driver](https://open.spotify.com/album/02usvaengQGAO3S8BQGOZZ) | 3:38 | 2022-09-27 | 2023-07-13 |
-| [cutlery collector](https://open.spotify.com/track/0ztNEk0IqFl3qK5dcFjuTE) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:06 | 2023-07-12 |  |
+| [cutlery collector](https://open.spotify.com/track/0ztNEk0IqFl3qK5dcFjuTE) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:06 | 2023-07-12 | 2024-01-08 |
+| [cutlery collector](https://open.spotify.com/track/2zCvh9HWfYGmIjCDffXZyf) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/600af5WWeNaasoZFOzG8DN) | 3:06 | 2023-09-11 |  |
 | [DAGAGA](https://open.spotify.com/track/0W3XGf1QqvMJWNeBaInl2E) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/5LGmZANhSeT6oLOkBHUf0U) | 2:51 | 2023-08-28 |  |
 | [DAGAGA](https://open.spotify.com/track/7ogPprUMrGLCC4DFHCZ669) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/4dXrC1VwOE0Ay1PBmdY1J4) | 2:51 | 2023-07-12 | 2023-09-06 |
 | [Dance With Me](https://open.spotify.com/track/49K2o60MwtNQiXowEbLg9a) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [LOAD](https://open.spotify.com/album/6gx4lvSob7w5Kj2ZBqWSMa) | 3:17 | 2022-09-27 |  |

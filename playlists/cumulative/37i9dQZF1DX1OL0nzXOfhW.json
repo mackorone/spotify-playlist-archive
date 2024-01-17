@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Lau Heung King",
+  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Arches",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -390,6 +390,24 @@
       "duration_ms": 144277,
       "name": "do//die",
       "url": "https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV"
+    },
+    {
+      "album": {
+        "name": "Doll",
+        "url": "https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3"
+      },
+      "artists": [
+        {
+          "name": "Arches",
+          "url": "https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211913,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC"
     },
     {
       "album": {
@@ -2538,6 +2556,24 @@
     {
       "album": {
         "name": "\u689f",
+        "url": "https://open.spotify.com/album/3XcdCXNiAgIfVhqRSLow4e"
+      },
+      "artists": [
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221544,
+      "name": "\u6c5f\u6e56",
+      "url": "https://open.spotify.com/track/5ZgBfHfHeVhvN2t5myBaE3"
+    },
+    {
+      "album": {
+        "name": "\u689f",
         "url": "https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls"
       },
       "artists": [
@@ -2548,7 +2584,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 221546,
       "name": "\u6c5f\u6e56",
       "url": "https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c"

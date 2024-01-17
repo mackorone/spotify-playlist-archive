@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Elemental (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Steal The Show",
+      "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
+    },
+    {
+      "album": {
         "name": "Steal The Show (From \"Elemental\")",
         "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
       },
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 191779,
       "name": "Steal The Show - From \"Elemental\"",
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"

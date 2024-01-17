@@ -1,178 +1,357 @@
 {
-  "2023-07-10": 302,
-  "2023-07-11": 301,
-  "2023-07-12": 302,
-  "2023-07-13": 302,
-  "2023-07-14": 302,
-  "2023-07-15": 303,
-  "2023-07-16": 303,
-  "2023-07-17": 304,
-  "2023-07-18": 304,
-  "2023-07-19": 306,
-  "2023-07-20": 305,
-  "2023-07-21": 305,
-  "2023-07-22": 304,
-  "2023-07-23": 304,
-  "2023-07-24": 304,
-  "2023-07-25": 305,
-  "2023-07-26": 305,
-  "2023-07-27": 305,
-  "2023-07-28": 306,
-  "2023-07-29": 306,
-  "2023-07-30": 307,
-  "2023-07-31": 307,
-  "2023-08-01": 307,
-  "2023-08-02": 307,
-  "2023-08-03": 307,
-  "2023-08-04": 307,
-  "2023-08-05": 308,
-  "2023-08-06": 308,
-  "2023-08-07": 308,
-  "2023-08-08": 308,
-  "2023-08-09": 309,
-  "2023-08-10": 309,
-  "2023-08-11": 310,
-  "2023-08-12": 309,
-  "2023-08-13": 309,
-  "2023-08-14": 308,
-  "2023-08-15": 309,
-  "2023-08-16": 309,
-  "2023-08-17": 309,
-  "2023-08-18": 311,
-  "2023-08-19": 311,
-  "2023-08-20": 311,
-  "2023-08-21": 311,
-  "2023-08-22": 311,
-  "2023-08-23": 311,
-  "2023-08-24": 311,
-  "2023-08-25": 311,
-  "2023-08-26": 312,
-  "2023-08-27": 313,
-  "2023-08-28": 314,
-  "2023-08-29": 314,
-  "2023-08-30": 314,
-  "2023-08-31": 314,
-  "2023-09-01": 315,
-  "2023-09-02": 315,
-  "2023-09-03": 315,
-  "2023-09-04": 315,
-  "2023-09-05": 314,
-  "2023-09-06": 313,
-  "2023-09-07": 314,
-  "2023-09-08": 314,
-  "2023-09-09": 314,
-  "2023-09-10": 314,
-  "2023-09-11": 315,
-  "2023-09-12": 314,
-  "2023-09-13": 314,
-  "2023-09-14": 314,
-  "2023-09-15": 314,
-  "2023-09-16": 314,
-  "2023-09-17": 315,
-  "2023-09-18": 316,
-  "2023-09-19": 318,
-  "2023-09-20": 317,
-  "2023-09-21": 322,
-  "2023-09-22": 323,
-  "2023-09-23": 324,
-  "2023-09-24": 325,
-  "2023-09-25": 326,
-  "2023-09-26": 326,
-  "2023-09-27": 326,
-  "2023-09-28": 326,
-  "2023-09-29": 326,
-  "2023-09-30": 326,
-  "2023-10-01": 326,
-  "2023-10-02": 327,
-  "2023-10-03": 327,
-  "2023-10-04": 327,
-  "2023-10-05": 328,
-  "2023-10-06": 329,
-  "2023-10-07": 329,
-  "2023-10-08": 329,
-  "2023-10-09": 329,
-  "2023-10-10": 330,
-  "2023-10-11": 331,
-  "2023-10-12": 331,
-  "2023-10-13": 331,
-  "2023-10-14": 331,
-  "2023-10-15": 331,
-  "2023-10-16": 332,
-  "2023-10-17": 332,
-  "2023-10-18": 332,
-  "2023-10-19": 332,
-  "2023-10-20": 332,
-  "2023-10-21": 333,
-  "2023-10-22": 332,
-  "2023-10-23": 332,
-  "2023-10-24": 332,
-  "2023-10-25": 333,
-  "2023-10-26": 333,
-  "2023-10-27": 335,
-  "2023-10-28": 335,
-  "2023-10-29": 336,
-  "2023-10-30": 337,
-  "2023-10-31": 337,
-  "2023-11-01": 336,
-  "2023-11-02": 337,
-  "2023-11-03": 338,
-  "2023-11-04": 338,
-  "2023-11-05": 339,
-  "2023-11-06": 340,
-  "2023-11-07": 340,
-  "2023-11-08": 340,
-  "2023-11-09": 340,
-  "2023-11-10": 339,
-  "2023-11-11": 339,
-  "2023-11-12": 339,
-  "2023-11-13": 338,
-  "2023-11-14": 338,
-  "2023-11-15": 338,
-  "2023-11-16": 338,
-  "2023-11-17": 338,
-  "2023-11-18": 338,
-  "2023-11-19": 338,
-  "2023-11-20": 341,
-  "2023-11-21": 341,
-  "2023-11-22": 341,
-  "2023-11-23": 341,
-  "2023-11-24": 341,
-  "2023-11-25": 341,
-  "2023-11-26": 342,
-  "2023-11-27": 341,
-  "2023-11-28": 342,
-  "2023-11-29": 343,
-  "2023-11-30": 343,
-  "2023-12-01": 344,
-  "2023-12-02": 343,
-  "2023-12-03": 345,
-  "2023-12-04": 345,
-  "2023-12-05": 344,
-  "2023-12-06": 346,
-  "2023-12-07": 345,
-  "2023-12-08": 345,
-  "2023-12-09": 345,
-  "2023-12-10": 344,
-  "2023-12-11": 344,
-  "2023-12-12": 344,
-  "2023-12-13": 345,
-  "2023-12-14": 345,
-  "2023-12-15": 345,
-  "2023-12-16": 345,
-  "2023-12-17": 345,
-  "2023-12-18": 345,
-  "2023-12-19": 347,
-  "2023-12-20": 348,
-  "2023-12-21": 348,
-  "2023-12-22": 349,
-  "2023-12-23": 350,
-  "2023-12-24": 350,
-  "2023-12-25": 350,
-  "2023-12-26": 350,
-  "2023-12-27": 351,
-  "2023-12-30": 352,
-  "2023-12-31": 353,
-  "2024-01-01": 353,
-  "2024-01-02": 352,
-  "2024-01-03": 352
+  "2024-01-17": 354,
+  "date_first_scraped": "2023-07-10",
+  "description": "Cheiro de protetor, vento no cabelo, pele salgada e marquinha de biquini. Uma playlist cheia de hits pra esquentar sua Temporada de Ver\u00e3o. Assista s\u00f3 na Netflix.",
+  "name": "Temporada de Ver\u00e3o Playlist Oficial",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Moon 1111",
+        "url": "https://open.spotify.com/album/5R6qsX0u206XZBZF3WdEeL"
+      },
+      "artists": [
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "A Noite Mais Linda do Mundo (A Felicidade)",
+      "url": "https://open.spotify.com/track/33nzGH8NIdwYSpuNo3L7M1"
+    },
+    {
+      "album": {
+        "name": "Disco Pop 2",
+        "url": "https://open.spotify.com/album/7jW0A2xM7cWNiQIlzoegIJ"
+      },
+      "artists": [
+        {
+          "name": "Devin Hoffman",
+          "url": "https://open.spotify.com/artist/3Rg7OiUyC9WwwbcgZzfwqb"
+        },
+        {
+          "name": "Holiday Rogers",
+          "url": "https://open.spotify.com/artist/03agRSt6Kr1uoNrM0Kbzsi"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169844,
+      "name": "Ain\u2019t Leavin\u2019",
+      "url": "https://open.spotify.com/track/21C9x0NdUHCZC0BbMhpIzg"
+    },
+    {
+      "album": {
+        "name": "Fabio Jr.",
+        "url": "https://open.spotify.com/album/5HLfWanFevZ5QLSyqTtQcb"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1bio Jr.",
+          "url": "https://open.spotify.com/artist/60iOwdF3A0p4pAwgUXMaWU"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289666,
+      "name": "Alma G\u00eamea",
+      "url": "https://open.spotify.com/track/7LZ4votCOvxFLTUz65AjCB"
+    },
+    {
+      "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/5MRJrXvvX8NCQSHarh5DHF"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273480,
+      "name": "Contravento (Live)",
+      "url": "https://open.spotify.com/track/2dM8oR5SLRvdMFAIaBhTqB"
+    },
+    {
+      "album": {
+        "name": "Cinematic Guitar Drones",
+        "url": "https://open.spotify.com/album/16f2AFprbTW9uBTTtpkAMS"
+      },
+      "artists": [
+        {
+          "name": "Alibi Music",
+          "url": "https://open.spotify.com/artist/4WY2fWk09nH1gOQDGMyHF2"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Embers in the Mist",
+      "url": "https://open.spotify.com/track/6qbILaf0VYIXpZv1GUqr0G"
+    },
+    {
+      "album": {
+        "name": "Future House, Vol. 1",
+        "url": "https://open.spotify.com/album/0WstsbDfluxyfX5M1e4Doq"
+      },
+      "artists": [
+        {
+          "name": "Alibi Music",
+          "url": "https://open.spotify.com/artist/4WY2fWk09nH1gOQDGMyHF2"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/50fnWSJhr1f75Bqguqd78g"
+    },
+    {
+      "album": {
+        "name": "Freio da Blazer",
+        "url": "https://open.spotify.com/album/7kbClkdK7jjoTIDAJmb1Pb"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Freio da Blazer",
+      "url": "https://open.spotify.com/track/6m187iACTSAZDYMaV0klqj"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico-Sucateiro",
+        "url": "https://open.spotify.com/album/3rN7nN7pqo5nHlf3XjBtBn"
+      },
+      "artists": [
+        {
+          "name": "Apanhador S\u00f3",
+          "url": "https://open.spotify.com/artist/3DtHAw4MrjXhVFotN5n8fZ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205482,
+      "name": "Jesus, O Padeiro e o Coveiro",
+      "url": "https://open.spotify.com/track/640oS21rzd0mZaisBcHOue"
+    },
+    {
+      "album": {
+        "name": "Beats Between The Sheets",
+        "url": "https://open.spotify.com/album/6VQ8aOiL23zA478Hsq43ty"
+      },
+      "artists": [
+        {
+          "name": "Homegrown",
+          "url": "https://open.spotify.com/artist/2mm8LmZDt6T6kSFstG8fd3"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142715,
+      "name": "Love Bite",
+      "url": "https://open.spotify.com/track/02DvIwaILFSwVLRy7BfVh9"
+    },
+    {
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198039,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa"
+    },
+    {
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 198058,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
+    },
+    {
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Passarinhos",
+      "url": "https://open.spotify.com/track/3De0GCU6ono03UxXKzRmz3"
+    },
+    {
+      "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Pipa Voada (feat. Emicida)",
+      "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"
+    },
+    {
+      "album": {
+        "name": "De L\u00e1 At\u00e9 Aqui",
+        "url": "https://open.spotify.com/album/7mm5cYEKZ9NakczSbOcM6v"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3veis Coloniais de Acaju",
+          "url": "https://open.spotify.com/artist/4aLM6HJFWigL80jtG8FNYN"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216213,
+      "name": "Sede de Chuva",
+      "url": "https://open.spotify.com/track/5s7oH98yRHB9ABkX39zLIA"
+    },
+    {
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
+    },
+    {
+      "album": {
+        "name": "Pra Tocar No Pared\u00e3o",
+        "url": "https://open.spotify.com/album/4uEXnPmD2GUTS2DlhA5CF4"
+      },
+      "artists": [
+        {
+          "name": "Beto Filho",
+          "url": "https://open.spotify.com/artist/7ga3Y4tOpp7OijCkFTACVc"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "T\u00f4 Bem Melhor",
+      "url": "https://open.spotify.com/track/0aZTNeT78POwcKSq9M2vZr"
+    },
+    {
+      "album": {
+        "name": "Veroz",
+        "url": "https://open.spotify.com/album/1sPc2fCg10GCD9QCzdGnfU"
+      },
+      "artists": [
+        {
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200444,
+      "name": "\u00c0s Vezes um Clich\u00ea",
+      "url": "https://open.spotify.com/track/5enNdx4oAh9GK3sXWzpge4"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2iaBRh0GfEq"
 }

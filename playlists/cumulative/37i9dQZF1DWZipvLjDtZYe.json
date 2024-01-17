@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Features greatest hits from the world-famous virtual singer \"HATSUNE MIKU\"! /\u4e16\u754c\u3092\u821e\u53f0\u306b\u6d3b\u8e8d\u3059\u308b\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30b7\u30f3\u30ac\u30fc\u3001\u521d\u97f3\u30df\u30af\u306e\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
+  "description": "Features greatest hits from the world-famous virtual singer \"HATSUNE MIKU\"! /\u4e16\u754c\u3092\u821e\u53f0\u306b\u6d3b\u8e8d\u3059\u308b\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30b7\u30f3\u30ac\u30fc\u3001\u521d\u97f3\u30df\u30af\u306e\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9Pok\u00e9mon/Nintendo/CR/GF\n\u00a9CFM <a href=\"https://piapro.net/\">www.piapro.net</a>",
   "name": "This Is \u521d\u97f3\u30df\u30af (HATSUNE MIKU)",
   "tracks": [
     {
@@ -386,6 +386,28 @@
       "duration_ms": 177610,
       "name": "Ievan Polkka",
       "url": "https://open.spotify.com/track/4bbal9R1czCDOFCfN3Oopz"
+    },
+    {
+      "album": {
+        "name": "JUVENILE",
+        "url": "https://open.spotify.com/album/6yOptGxZiGjAYownFPeMV7"
+      },
+      "artists": [
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u3058\u3093",
+          "url": "https://open.spotify.com/artist/7eBDxrGrA7qOeDjn1HZept"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273017,
+      "name": "JUVENILE",
+      "url": "https://open.spotify.com/track/44c0Lta1UEQ4gUDGjZaq9T"
     },
     {
       "album": {
@@ -875,6 +897,32 @@
     },
     {
       "album": {
+        "name": "\u304d\u307f\u3068\u305d\u3089\u3092\u3068\u3076",
+        "url": "https://open.spotify.com/album/5iExtveqj1otLYflaFdHAe"
+      },
+      "artists": [
+        {
+          "name": "\u5098\u6751\u30c8\u30fc\u30bf",
+          "url": "https://open.spotify.com/artist/5xvXrTBkQdY9CALtV1KXGD"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284050,
+      "name": "\u304d\u307f\u3068\u305d\u3089\u3092\u3068\u3076 (feat. \u521d\u97f3\u30df\u30af&\u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/5dySAFu6j5IrfIIQcekN47"
+    },
+    {
+      "album": {
         "name": "\u3053\u3061\u3089\u3001\u5e78\u798f\u5b89\u5fc3\u59d4\u54e1\u4f1a\u3067\u3059\u3002",
         "url": "https://open.spotify.com/album/56sWRIN1gf2RHXrUUFocZ7"
       },
@@ -1114,6 +1162,36 @@
       "duration_ms": 184081,
       "name": "\u30ab\u30e9\u30d5\u30eb\u00d7\u30e1\u30ed\u30c7\u30a3 -MIKU EXPO 2014 in INDONESIA Live-",
       "url": "https://open.spotify.com/track/4TfIRnA9zU3mFr8Ki3AAoM"
+    },
+    {
+      "album": {
+        "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01",
+        "url": "https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195757,
+      "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V"
     },
     {
       "album": {
@@ -1450,6 +1528,24 @@
       "duration_ms": 237800,
       "name": "\u30da\u30a4\u30f3\u30a4\u30ec\u30a4\u30b5\u30fc",
       "url": "https://open.spotify.com/track/601kCD8DOamMueSF0XZLer"
+    },
+    {
+      "album": {
+        "name": "\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/4TURBwPQTJsJA4LVQiiHT7"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152333,
+      "name": "\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc",
+      "url": "https://open.spotify.com/track/4gxNIT5mQRjZ1jzePsF3Ud"
     },
     {
       "album": {
@@ -1961,6 +2057,28 @@
     },
     {
       "album": {
+        "name": "\u6226\u95d8\uff01\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/2fLMujV4ewriJ7fgvvZ1yu"
+      },
+      "artists": [
+        {
+          "name": "cosMo@Bousou-P",
+          "url": "https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200914,
+      "name": "\u6226\u95d8\uff01\u521d\u97f3\u30df\u30af (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2OaTodbYBeJro9FArdCCeG"
+    },
+    {
+      "album": {
         "name": "\u672a\u6765\u30c6\u30ec\u30dd\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/72VBTdKqAXYdLqKobZYJtu"
       },
@@ -2218,6 +2336,28 @@
       "duration_ms": 245529,
       "name": "\u900f\u660e\u6c34\u5f69",
       "url": "https://open.spotify.com/track/0WFb5FY1w7jV1DnDmwXpbd"
+    },
+    {
+      "album": {
+        "name": "\u96fb\u6c17\u4e88\u5831",
+        "url": "https://open.spotify.com/album/0rxIQEIM9GkmhegoOORAJy"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231325,
+      "name": "\u96fb\u6c17\u4e88\u5831 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/35sayLCpOsy7aCAp8sppG1"
     },
     {
       "album": {

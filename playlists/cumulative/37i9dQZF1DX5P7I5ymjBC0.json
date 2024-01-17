@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": "2024-01-08",
       "duration_ms": 219456,
       "name": "Barsan Lagi",
       "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Kaare Se",
+        "url": "https://open.spotify.com/album/5l73SOxHbvIyjmFiT0RVjG"
+      },
+      "artists": [
+        {
+          "name": "Aarya Ambekar",
+          "url": "https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297272,
+      "name": "Kaare Se",
+      "url": "https://open.spotify.com/track/7do3SyAo7tdUW47EQ2ivbX"
+    },
+    {
+      "album": {
         "name": "Kahaani",
         "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
       },
@@ -810,6 +828,24 @@
       "duration_ms": 261010,
       "name": "Kinaray",
       "url": "https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I"
+    },
+    {
+      "album": {
+        "name": "Kinaray (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/1kYjfNM4mmZjdnqOCTnjjX"
+      },
+      "artists": [
+        {
+          "name": "Mekaal Hasan Band",
+          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261010,
+      "name": "Kinaray - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/0rLTPr8MuyUiJZqYfeyD83"
     },
     {
       "album": {
@@ -1058,7 +1094,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 199338,
       "name": "Na Bol",
       "url": "https://open.spotify.com/track/1SmAhSbMTtjN2g2C8m2V4k"
@@ -1501,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
+      },
+      "artists": [
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        },
+        {
+          "name": "Arpita Chatterjee",
+          "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264053,
+      "name": "Sajna Barse",
+      "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
+    },
+    {
+      "album": {
         "name": "Samjhe Na",
         "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
       },
@@ -1838,7 +1896,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 382666,
       "name": "Yatra",
       "url": "https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP"

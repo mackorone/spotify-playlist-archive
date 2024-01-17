@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,439 likes - 97 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,061 likes - 97 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 | 92 | [The Gift of Hope](https://open.spotify.com/track/5ULRfKbFbsERkfdp0jb4B5) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [Harp of Grace](https://open.spotify.com/album/7qgdRGXRUIFQGhKtwXpcw6) | 2:23 |
 | 93 | [Daydream](https://open.spotify.com/track/61en4Qpk67pYS8N8odt8qM) | [Ivy Ravenwood](https://open.spotify.com/artist/4sch5lw4B8tfy0uWtQ4lfn) | [Dream the Day Away \- Beautiful Harp Music](https://open.spotify.com/album/7l2FWpV3ev698tW6VjCkw7) | 3:30 |
 | 94 | [The Nightingale](https://open.spotify.com/track/4lWIoNHQPDfLIdF1iNbjqd) | [Maria Duhova Trevor](https://open.spotify.com/artist/1moHmQ1eb3nFxuOXprU4Us) | [Healing Harp](https://open.spotify.com/album/6z8qAgApt7tid0srTfKJvF) | 4:32 |
-| 95 | [Chakra, Pt\. 4 \- Emerald Green](https://open.spotify.com/track/2giDhCrRq3CyYPEkhOYySC) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [Ave\-Maria Meditation](https://open.spotify.com/album/7u8JlNAwwWy0UtFTPvx1Wt) | 3:14 |
+| 95 | [Chakra, Pt\. 4 \- Emerald Green](https://open.spotify.com/track/2HlIZuLqOk7g3mFXJQPWSU) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [Ave\-Maria Meditation](https://open.spotify.com/album/43XCqvqJAlv5SwSwOG18h1) | 3:14 |
 | 96 | [Gentle Thoughts](https://open.spotify.com/track/1FxioajcNOU6zzMTbzXDbx) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [Contemplation](https://open.spotify.com/album/4515RLJJF5yZL5yPyOosoc) | 2:04 |
 | 97 | [Soft harp world](https://open.spotify.com/track/4Kx7N7sHcJ0MamSpuDKfV5) | [Lorenzo Tempesti](https://open.spotify.com/artist/0S6YGr0wEbA6C0BVpvvdJ6) | [Traveling in space](https://open.spotify.com/album/6b0oJa9QYiPNfF1os8pba9) | 3:38 |
 

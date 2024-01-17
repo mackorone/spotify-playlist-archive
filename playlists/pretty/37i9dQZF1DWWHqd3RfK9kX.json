@@ -1,6 +1,6 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 22890,
+  "num_followers": 22960,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -119,22 +135,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "O Tempo \u00c9 Agora",
         "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
       },
@@ -151,22 +151,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Tribalistas",
-        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 185626,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Tribalistas",
+        "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -215,22 +215,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
       },
       "artists": [
         {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+      "duration_ms": 184093,
+      "name": "Chove Chuva",
+      "url": "https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -255,18 +251,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Samba Esquema Novo",
-        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
       "artists": [
         {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 184093,
-      "name": "Chove Chuva",
-      "url": "https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b"
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -291,22 +291,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Tim Maia 1973",
-        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 217604,
-      "name": "R\u00e9u Confesso",
-      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 216226,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Tim Maia 1973",
+        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 217604,
+      "name": "R\u00e9u Confesso",
+      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -391,6 +391,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Tous les gar\u00e7ons et les filles - Slow",
+      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -431,34 +447,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
-        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+        "name": "The Best of Dandy Livingstone",
+        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
       },
       "artists": [
         {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Tous les gar\u00e7ons et les filles - Slow",
-      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+      "duration_ms": 162466,
+      "name": "Rudy, a Message to You",
+      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -499,38 +499,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "The Best of Dandy Livingstone",
-        "url": "https://open.spotify.com/album/1dTWKqQJuXoR4u9Kqjkrj3"
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
       },
       "artists": [
         {
-          "name": "Dandy Livingstone",
-          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Rudy, a Message to You",
-      "url": "https://open.spotify.com/track/4gukGozFOurNmDXZzgQHaP"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Fruko el Grande",
-        "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Wilson \"Saoko\" Manyoma",
-          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "El Preso",
-      "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
+      "duration_ms": 153440,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -551,6 +531,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Intensified",
+        "url": "https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+        }
+      ],
+      "duration_ms": 156786,
+      "name": "(Poor Mi) Israelites",
+      "url": "https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Samba Esquema Novo",
         "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
       },
@@ -567,18 +563,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Intensified",
-        "url": "https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa"
+        "name": "Fruko el Grande",
+        "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
       "artists": [
         {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Wilson \"Saoko\" Manyoma",
+          "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
         }
       ],
-      "duration_ms": 156786,
-      "name": "(Poor Mi) Israelites",
-      "url": "https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0"
+      "duration_ms": 294000,
+      "name": "El Preso",
+      "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -631,58 +631,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Flying Away",
-        "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
-      },
-      "artists": [
-        {
-          "name": "Smoke City",
-          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Underwater Love",
-      "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "The Harder They Come",
-      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
-      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Jorge Ben",
         "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
       },
@@ -719,6 +667,58 @@
       "duration_ms": 222920,
       "name": "Mi Swing es Tropical",
       "url": "https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "The Harder They Come",
+      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Flying Away",
+        "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
+      },
+      "artists": [
+        {
+          "name": "Smoke City",
+          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Underwater Love",
+      "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
+      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Buena Vista Social Club at Carnegie Hall (Live)",
-        "url": "https://open.spotify.com/album/4lsvzkvzZqKJQsfjLV76RR"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "Quiz\u00e1s, Quiz\u00e1s (Live)",
-      "url": "https://open.spotify.com/track/78JVMoMUJw2zyeswgHKfrP"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Lovestained",
         "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
       },
@@ -795,34 +779,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
-        "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
+        "name": "Buena Vista Social Club at Carnegie Hall (Live)",
+        "url": "https://open.spotify.com/album/4lsvzkvzZqKJQsfjLV76RR"
       },
       "artists": [
         {
-          "name": "Los Hijos del sol",
-          "url": "https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah"
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
         }
       ],
-      "duration_ms": 245031,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 312120,
-      "name": "Guajira guantanamera",
-      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+      "duration_ms": 227760,
+      "name": "Quiz\u00e1s, Quiz\u00e1s (Live)",
+      "url": "https://open.spotify.com/track/78JVMoMUJw2zyeswgHKfrP"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -843,38 +811,34 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Blue Note Trip 7: Birds / Beats",
-        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
         }
       ],
-      "duration_ms": 135093,
-      "name": "A R\u00e3",
-      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
+      "duration_ms": 312120,
+      "name": "Guajira guantanamera",
+      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
     },
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Linha De Passe",
-        "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
+        "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
+        "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        },
-        {
-          "name": "Angela Maria",
-          "url": "https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l"
+          "name": "Los Hijos del sol",
+          "url": "https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah"
         }
       ],
-      "duration_ms": 200240,
-      "name": "O B\u00eabado e a Equilibrista",
-      "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
+      "duration_ms": 245031,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -911,6 +875,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Blue Note Trip 7: Birds / Beats",
+        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "A R\u00e3",
+      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Entre Dos Aguas",
         "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 362093,
       "name": "Entre Dos Aguas",
       "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Linha De Passe",
+        "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Angela Maria",
+          "url": "https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "O B\u00eabado e a Equilibrista",
+      "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -963,6 +963,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Alegria, Alegria!!!",
+        "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Nem Vem Que N\u00e3o Tem",
+      "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -995,26 +1011,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "La Colegiala",
-      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Elegance: The Birth Of The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
       },
@@ -1027,22 +1023,6 @@
       "duration_ms": 209400,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Alegria, Alegria!!!",
-        "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Nem Vem Que N\u00e3o Tem",
-      "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1079,6 +1059,26 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "The Loser / Now We Know",
         "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
       },
@@ -1091,54 +1091,6 @@
       "duration_ms": 218653,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
-      },
-      "artists": [
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Voc\u00ea N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Trio Ternura (Compacto 1973)",
-        "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
-      },
-      "artists": [
-        {
-          "name": "Trio Ternura",
-          "url": "https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1159,6 +1111,54 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
+      },
+      "artists": [
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 235128,
+      "name": "Voc\u00ea N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Trio Ternura (Compacto 1973)",
+        "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
+      },
+      "artists": [
+        {
+          "name": "Trio Ternura",
+          "url": "https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
         "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 168706,
       "name": "Beggin' - 2007 Remaster",
       "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
         "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
       },
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Buenos Hermanos",
+        "url": "https://open.spotify.com/album/3oPg2VmRHEMdsxeh4pftSb"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Boliviana",
+      "url": "https://open.spotify.com/track/0JiclsGP7YAZyBkfDzcfVZ"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
         "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
@@ -1239,6 +1255,22 @@
       "duration_ms": 197426,
       "name": "De Noite Na Cama",
       "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "CHERISH",
+        "url": "https://open.spotify.com/album/37dn4xzwTrFIcD6pCCuAAM"
+      },
+      "artists": [
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/49q1cx7bCJ53daNU3lENe7"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1263,38 +1295,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Buenos Hermanos",
-        "url": "https://open.spotify.com/album/3oPg2VmRHEMdsxeh4pftSb"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Boliviana",
-      "url": "https://open.spotify.com/track/0JiclsGP7YAZyBkfDzcfVZ"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "CHERISH",
-        "url": "https://open.spotify.com/album/37dn4xzwTrFIcD6pCCuAAM"
-      },
-      "artists": [
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/49q1cx7bCJ53daNU3lENe7"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Qu\u00e9 Ch\u00e9vere, Vol. 2",
         "url": "https://open.spotify.com/album/7kwDYvYAr3mh2HjR00DCDU"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 219426,
       "name": "Que No Quede Huella",
       "url": "https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Curanderas",
-        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
-      },
-      "artists": [
-        {
-          "name": "Kelvis Ochoa",
-          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Una De Mambo",
-      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1375,6 +1359,22 @@
       "duration_ms": 198466,
       "name": "Quando voc\u00ea chegar",
       "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Curanderas",
+        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
+      },
+      "artists": [
+        {
+          "name": "Kelvis Ochoa",
+          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Una De Mambo",
+      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
     }
   ],
   "unique_name": "Musica per Cucinare",

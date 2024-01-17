@@ -1,735 +1,1979 @@
 {
-  "2021-12-25": 68239,
-  "2021-12-26": 68231,
-  "2021-12-27": 68214,
-  "2021-12-28": 68214,
-  "2021-12-29": 68203,
-  "2021-12-30": 68199,
-  "2021-12-31": 68189,
-  "2022-01-01": 68176,
-  "2022-01-02": 68174,
-  "2022-01-03": 68167,
-  "2022-01-04": 68156,
-  "2022-01-05": 68150,
-  "2022-01-06": 68142,
-  "2022-01-07": 68135,
-  "2022-01-08": 68120,
-  "2022-01-09": 68120,
-  "2022-01-10": 68113,
-  "2022-01-11": 68106,
-  "2022-01-12": 68099,
-  "2022-01-13": 68093,
-  "2022-01-14": 68089,
-  "2022-01-15": 68079,
-  "2022-01-16": 68078,
-  "2022-01-17": 68065,
-  "2022-01-18": 68065,
-  "2022-01-19": 68061,
-  "2022-01-20": 68060,
-  "2022-01-21": 68058,
-  "2022-01-22": 68054,
-  "2022-01-23": 68048,
-  "2022-01-24": 68042,
-  "2022-01-25": 68037,
-  "2022-01-26": 68033,
-  "2022-01-27": 68029,
-  "2022-01-28": 68024,
-  "2022-01-29": 68016,
-  "2022-01-30": 68012,
-  "2022-01-31": 68003,
-  "2022-02-01": 67998,
-  "2022-02-02": 67994,
-  "2022-02-03": 67991,
-  "2022-02-04": 67985,
-  "2022-02-05": 67982,
-  "2022-02-06": 67975,
-  "2022-02-07": 67973,
-  "2022-02-08": 67964,
-  "2022-02-09": 67963,
-  "2022-02-10": 67957,
-  "2022-02-11": 67953,
-  "2022-02-12": 67951,
-  "2022-02-13": 67946,
-  "2022-02-14": 67942,
-  "2022-02-15": 67940,
-  "2022-02-16": 67938,
-  "2022-02-17": 67933,
-  "2022-02-18": 67925,
-  "2022-02-19": 67923,
-  "2022-02-20": 67917,
-  "2022-02-21": 67912,
-  "2022-02-22": 67913,
-  "2022-02-23": 67908,
-  "2022-02-24": 67907,
-  "2022-02-25": 67905,
-  "2022-02-26": 67904,
-  "2022-02-27": 67897,
-  "2022-02-28": 67897,
-  "2022-03-01": 67897,
-  "2022-03-02": 67895,
-  "2022-03-03": 67894,
-  "2022-03-04": 67894,
-  "2022-03-05": 67891,
-  "2022-03-06": 67888,
-  "2022-03-07": 67888,
-  "2022-03-08": 67885,
-  "2022-03-09": 67880,
-  "2022-03-10": 67872,
-  "2022-03-11": 67872,
-  "2022-03-12": 67865,
-  "2022-03-13": 67871,
-  "2022-03-14": 67869,
-  "2022-03-15": 67869,
-  "2022-03-16": 67868,
-  "2022-03-17": 67869,
-  "2022-03-18": 67864,
-  "2022-03-19": 67866,
-  "2022-03-20": 67866,
-  "2022-03-21": 67880,
-  "2022-03-22": 67883,
-  "2022-03-23": 67884,
-  "2022-03-24": 67891,
-  "2022-03-25": 67892,
-  "2022-03-26": 67895,
-  "2022-03-27": 67897,
-  "2022-03-28": 67901,
-  "2022-03-30": 67898,
-  "2022-03-31": 67895,
-  "2022-04-01": 67890,
-  "2022-04-02": 67887,
-  "2022-04-03": 67889,
-  "2022-04-04": 67888,
-  "2022-04-05": 67883,
-  "2022-04-06": 67877,
-  "2022-04-07": 67880,
-  "2022-04-08": 67881,
-  "2022-04-09": 67884,
-  "2022-04-10": 67885,
-  "2022-04-11": 67888,
-  "2022-04-12": 67888,
-  "2022-04-13": 67892,
-  "2022-04-14": 67900,
-  "2022-04-15": 67899,
-  "2022-04-16": 67909,
-  "2022-04-17": 67915,
-  "2022-04-18": 67932,
-  "2022-04-19": 67951,
-  "2022-04-20": 67958,
-  "2022-04-21": 67969,
-  "2022-04-22": 67975,
-  "2022-04-23": 67994,
-  "2022-04-24": 68016,
-  "2022-04-25": 68030,
-  "2022-04-26": 68049,
-  "2022-04-27": 68058,
-  "2022-04-28": 68067,
-  "2022-04-29": 68074,
-  "2022-04-30": 68095,
-  "2022-05-01": 68107,
-  "2022-05-02": 68107,
-  "2022-05-03": 68127,
-  "2022-05-04": 68129,
-  "2022-05-05": 68141,
-  "2022-05-06": 68153,
-  "2022-05-07": 68186,
-  "2022-05-08": 68217,
-  "2022-05-09": 68219,
-  "2022-05-10": 68244,
-  "2022-05-11": 68248,
-  "2022-05-12": 68263,
-  "2022-05-13": 68283,
-  "2022-05-14": 68307,
-  "2022-05-15": 68334,
-  "2022-05-16": 68377,
-  "2022-05-17": 68396,
-  "2022-05-18": 68414,
-  "2022-05-19": 68446,
-  "2022-05-20": 68487,
-  "2022-05-21": 68553,
-  "2022-05-22": 68553,
-  "2022-05-23": 68599,
-  "2022-05-24": 68634,
-  "2022-05-25": 68657,
-  "2022-05-26": 68683,
-  "2022-05-27": 68716,
-  "2022-05-28": 68748,
-  "2022-05-29": 68788,
-  "2022-05-30": 68841,
-  "2022-05-31": 68872,
-  "2022-06-01": 68962,
-  "2022-06-02": 68963,
-  "2022-06-03": 69008,
-  "2022-06-04": 69084,
-  "2022-06-05": 69218,
-  "2022-06-06": 69387,
-  "2022-06-07": 69557,
-  "2022-06-08": 69625,
-  "2022-06-09": 69685,
-  "2022-06-10": 69815,
-  "2022-06-11": 69961,
-  "2022-06-12": 70146,
-  "2022-06-13": 70272,
-  "2022-06-14": 70371,
-  "2022-06-15": 70499,
-  "2022-06-16": 70611,
-  "2022-06-17": 70744,
-  "2022-06-18": 70940,
-  "2022-06-19": 71325,
-  "2022-06-20": 71325,
-  "2022-06-21": 71459,
-  "2022-06-22": 71864,
-  "2022-06-23": 71864,
-  "2022-06-24": 72330,
-  "2022-06-25": 74346,
-  "2022-06-26": 74769,
-  "2022-06-27": 75104,
-  "2022-06-28": 75286,
-  "2022-06-29": 75407,
-  "2022-06-30": 75560,
-  "2022-07-01": 75725,
-  "2022-07-02": 75935,
-  "2022-07-03": 76113,
-  "2022-07-04": 76246,
-  "2022-07-05": 76334,
-  "2022-07-06": 76422,
-  "2022-07-07": 76526,
-  "2022-07-08": 76604,
-  "2022-07-09": 76729,
-  "2022-07-10": 76862,
-  "2022-07-11": 76967,
-  "2022-07-12": 77056,
-  "2022-07-13": 77192,
-  "2022-07-14": 77307,
-  "2022-07-15": 77386,
-  "2022-07-16": 77503,
-  "2022-07-17": 77594,
-  "2022-07-18": 77665,
-  "2022-07-19": 77757,
-  "2022-07-20": 77890,
-  "2022-07-21": 78049,
-  "2022-07-22": 78195,
-  "2022-07-23": 78254,
-  "2022-07-24": 78341,
-  "2022-07-25": 78411,
-  "2022-07-26": 78455,
-  "2022-07-27": 78519,
-  "2022-07-28": 78567,
-  "2022-07-29": 78641,
-  "2022-07-30": 78809,
-  "2022-07-31": 78809,
-  "2022-08-01": 78869,
-  "2022-08-02": 78925,
-  "2022-08-03": 78925,
-  "2022-08-04": 78961,
-  "2022-08-05": 79011,
-  "2022-08-06": 79069,
-  "2022-08-07": 79103,
-  "2022-08-08": 79115,
-  "2022-08-09": 79128,
-  "2022-08-10": 79145,
-  "2022-08-11": 79172,
-  "2022-08-12": 79199,
-  "2022-08-13": 79264,
-  "2022-08-14": 79344,
-  "2022-08-15": 79384,
-  "2022-08-16": 79391,
-  "2022-08-17": 79406,
-  "2022-08-18": 79417,
-  "2022-08-19": 79428,
-  "2022-08-20": 79455,
-  "2022-08-21": 79473,
-  "2022-08-22": 79488,
-  "2022-08-23": 79493,
-  "2022-08-24": 79497,
-  "2022-08-25": 79502,
-  "2022-08-26": 79506,
-  "2022-08-27": 79514,
-  "2022-08-28": 79542,
-  "2022-08-29": 79538,
-  "2022-08-30": 79527,
-  "2022-08-31": 79527,
-  "2022-09-01": 79515,
-  "2022-09-02": 79517,
-  "2022-09-03": 79514,
-  "2022-09-04": 79523,
-  "2022-09-05": 79525,
-  "2022-09-06": 79517,
-  "2022-09-07": 79510,
-  "2022-09-09": 79499,
-  "2022-09-10": 79497,
-  "2022-09-11": 79496,
-  "2022-09-12": 79490,
-  "2022-09-13": 79485,
-  "2022-09-15": 79464,
-  "2022-09-16": 79458,
-  "2022-09-17": 79458,
-  "2022-09-18": 79458,
-  "2022-09-19": 79456,
-  "2022-09-20": 79454,
-  "2022-09-21": 79441,
-  "2022-09-22": 79433,
-  "2022-09-23": 79430,
-  "2022-09-24": 79430,
-  "2022-09-25": 79423,
-  "2022-09-26": 79416,
-  "2022-09-27": 79405,
-  "2022-09-28": 79434,
-  "2022-09-29": 79432,
-  "2022-09-30": 79438,
-  "2022-10-01": 79434,
-  "2022-10-02": 79435,
-  "2022-10-03": 79430,
-  "2022-10-04": 79426,
-  "2022-10-05": 79424,
-  "2022-10-06": 79422,
-  "2022-10-07": 79415,
-  "2022-10-08": 79413,
-  "2022-10-09": 79406,
-  "2022-10-10": 79405,
-  "2022-10-11": 79399,
-  "2022-10-12": 79388,
-  "2022-10-13": 79384,
-  "2022-10-14": 79380,
-  "2022-10-15": 79377,
-  "2022-10-16": 79369,
-  "2022-10-17": 79364,
-  "2022-10-18": 79358,
-  "2022-10-19": 79355,
-  "2022-10-20": 79356,
-  "2022-10-21": 79352,
-  "2022-10-22": 79352,
-  "2022-10-23": 79354,
-  "2022-10-24": 79350,
-  "2022-10-25": 79338,
-  "2022-10-26": 79335,
-  "2022-10-27": 79327,
-  "2022-10-28": 79326,
-  "2022-10-29": 79322,
-  "2022-10-30": 79323,
-  "2022-10-31": 79312,
-  "2022-11-01": 79313,
-  "2022-11-02": 79311,
-  "2022-11-03": 79308,
-  "2022-11-04": 79304,
-  "2022-11-05": 79300,
-  "2022-11-06": 79294,
-  "2022-11-07": 79289,
-  "2022-11-08": 79279,
-  "2022-11-09": 79277,
-  "2022-11-10": 79278,
-  "2022-11-11": 79273,
-  "2022-11-12": 79271,
-  "2022-11-13": 79266,
-  "2022-11-14": 79258,
-  "2022-11-15": 79257,
-  "2022-11-16": 79256,
-  "2022-11-17": 79250,
-  "2022-11-18": 79236,
-  "2022-11-19": 79229,
-  "2022-11-20": 79223,
-  "2022-11-21": 79215,
-  "2022-11-22": 79215,
-  "2022-11-23": 79208,
-  "2022-11-24": 79210,
-  "2022-11-25": 79206,
-  "2022-11-26": 79203,
-  "2022-11-27": 79201,
-  "2022-11-28": 79199,
-  "2022-11-29": 79188,
-  "2022-11-30": 79178,
-  "2022-12-01": 79171,
-  "2022-12-02": 79161,
-  "2022-12-03": 79154,
-  "2022-12-04": 79144,
-  "2022-12-05": 79137,
-  "2022-12-06": 79130,
-  "2022-12-07": 79123,
-  "2022-12-08": 79117,
-  "2022-12-09": 79115,
-  "2022-12-10": 79114,
-  "2022-12-11": 79106,
-  "2022-12-12": 79101,
-  "2022-12-13": 79095,
-  "2022-12-14": 79095,
-  "2022-12-15": 79093,
-  "2022-12-16": 79089,
-  "2022-12-17": 79084,
-  "2022-12-18": 79077,
-  "2022-12-19": 79071,
-  "2022-12-20": 79065,
-  "2022-12-21": 79065,
-  "2022-12-22": 79061,
-  "2022-12-24": 79056,
-  "2022-12-25": 79056,
-  "2022-12-26": 79054,
-  "2022-12-27": 79050,
-  "2022-12-28": 79049,
-  "2022-12-29": 79041,
-  "2022-12-30": 79037,
-  "2022-12-31": 79039,
-  "2023-01-01": 79041,
-  "2023-01-02": 79038,
-  "2023-01-03": 79036,
-  "2023-01-04": 79028,
-  "2023-01-05": 79023,
-  "2023-01-06": 79023,
-  "2023-01-07": 79018,
-  "2023-01-08": 79020,
-  "2023-01-09": 79016,
-  "2023-01-10": 79008,
-  "2023-01-11": 79000,
-  "2023-01-12": 78997,
-  "2023-01-13": 78997,
-  "2023-01-14": 78986,
-  "2023-01-15": 78984,
-  "2023-01-16": 78978,
-  "2023-01-17": 78972,
-  "2023-01-18": 78970,
-  "2023-01-19": 78966,
-  "2023-01-20": 78965,
-  "2023-01-21": 78965,
-  "2023-01-22": 78965,
-  "2023-01-23": 78971,
-  "2023-01-24": 78965,
-  "2023-01-25": 78965,
-  "2023-01-26": 78961,
-  "2023-01-27": 78965,
-  "2023-01-28": 78964,
-  "2023-01-29": 78965,
-  "2023-01-30": 78960,
-  "2023-01-31": 78960,
-  "2023-02-01": 78956,
-  "2023-02-02": 78954,
-  "2023-02-03": 78949,
-  "2023-02-04": 78946,
-  "2023-02-05": 78947,
-  "2023-02-06": 78942,
-  "2023-02-07": 78940,
-  "2023-02-08": 78931,
-  "2023-02-09": 78931,
-  "2023-02-10": 78926,
-  "2023-02-11": 78920,
-  "2023-02-12": 78912,
-  "2023-02-13": 78910,
-  "2023-02-14": 78910,
-  "2023-02-15": 78905,
-  "2023-02-16": 78903,
-  "2023-02-17": 78900,
-  "2023-02-18": 78902,
-  "2023-02-19": 78899,
-  "2023-02-20": 78896,
-  "2023-02-21": 78893,
-  "2023-02-22": 78889,
-  "2023-02-23": 78888,
-  "2023-02-24": 78889,
-  "2023-02-25": 78886,
-  "2023-02-26": 78890,
-  "2023-02-27": 78892,
-  "2023-02-28": 78892,
-  "2023-03-01": 78890,
-  "2023-03-02": 78894,
-  "2023-03-03": 78894,
-  "2023-03-04": 253151,
-  "2023-03-05": 263120,
-  "2023-03-06": 263120,
-  "2023-03-07": 265547,
-  "2023-03-08": 53132,
-  "2023-03-09": 10644,
-  "2023-03-10": 10651,
-  "2023-03-11": 2159,
-  "2023-03-12": 129,
-  "2023-03-13": 63,
-  "2023-03-14": 69,
-  "2023-03-15": 57,
-  "2023-03-16": 67,
-  "2023-03-17": 67,
-  "2023-03-18": 76,
-  "2023-03-19": 85,
-  "2023-03-20": 96,
-  "2023-03-21": 102,
-  "2023-03-22": 108,
-  "2023-03-23": 116,
-  "2023-03-24": 116,
-  "2023-03-25": 133,
-  "2023-03-26": 143,
-  "2023-03-27": 143,
-  "2023-03-28": 143,
-  "2023-03-29": 143,
-  "2023-03-30": 143,
-  "2023-03-31": 143,
-  "2023-04-01": 143,
-  "2023-04-02": 143,
-  "2023-04-03": 143,
-  "2023-04-04": 143,
-  "2023-04-05": 143,
-  "2023-04-06": 143,
-  "2023-04-07": 143,
-  "2023-04-09": 143,
-  "2023-04-10": 143,
-  "2023-04-11": 143,
-  "2023-04-12": 143,
-  "2023-04-13": 143,
-  "2023-04-14": 143,
-  "2023-04-15": 143,
-  "2023-04-16": 143,
-  "2023-04-17": 143,
-  "2023-04-18": 143,
-  "2023-04-19": 143,
-  "2023-04-20": 143,
-  "2023-04-21": 143,
-  "2023-04-22": 143,
-  "2023-04-23": 143,
-  "2023-04-24": 143,
-  "2023-04-25": 143,
-  "2023-04-26": 143,
-  "2023-04-27": 143,
-  "2023-04-28": 143,
-  "2023-04-29": 143,
-  "2023-04-30": 143,
-  "2023-05-01": 143,
-  "2023-05-02": 143,
-  "2023-05-03": 143,
-  "2023-05-04": 143,
-  "2023-05-05": 143,
-  "2023-05-06": 143,
-  "2023-05-07": 143,
-  "2023-05-08": 143,
-  "2023-05-09": 143,
-  "2023-05-10": 143,
-  "2023-05-11": 143,
-  "2023-05-12": 143,
-  "2023-05-13": 143,
-  "2023-05-14": 143,
-  "2023-05-15": 143,
-  "2023-05-16": 143,
-  "2023-05-17": 143,
-  "2023-05-18": 143,
-  "2023-05-19": 143,
-  "2023-05-20": 143,
-  "2023-05-21": 143,
-  "2023-05-22": 143,
-  "2023-05-23": 143,
-  "2023-05-24": 143,
-  "2023-05-25": 143,
-  "2023-05-26": 143,
-  "2023-05-27": 143,
-  "2023-05-28": 143,
-  "2023-05-29": 143,
-  "2023-05-30": 143,
-  "2023-05-31": 143,
-  "2023-06-01": 143,
-  "2023-06-02": 143,
-  "2023-06-03": 143,
-  "2023-06-04": 143,
-  "2023-06-05": 143,
-  "2023-06-06": 143,
-  "2023-06-07": 143,
-  "2023-06-08": 143,
-  "2023-06-09": 143,
-  "2023-06-10": 143,
-  "2023-06-11": 143,
-  "2023-06-12": 143,
-  "2023-06-13": 143,
-  "2023-06-14": 143,
-  "2023-06-15": 143,
-  "2023-06-16": 143,
-  "2023-06-17": 143,
-  "2023-06-18": 143,
-  "2023-06-19": 143,
-  "2023-06-20": 143,
-  "2023-06-21": 143,
-  "2023-06-22": 143,
-  "2023-06-23": 143,
-  "2023-06-24": 143,
-  "2023-06-25": 143,
-  "2023-06-26": 143,
-  "2023-06-27": 143,
-  "2023-06-28": 143,
-  "2023-06-29": 143,
-  "2023-06-30": 143,
-  "2023-07-01": 143,
-  "2023-07-02": 143,
-  "2023-07-03": 143,
-  "2023-07-04": 143,
-  "2023-07-05": 143,
-  "2023-07-06": 143,
-  "2023-07-07": 143,
-  "2023-07-08": 143,
-  "2023-07-09": 143,
-  "2023-07-10": 143,
-  "2023-07-11": 143,
-  "2023-07-12": 143,
-  "2023-07-13": 143,
-  "2023-07-14": 143,
-  "2023-07-15": 143,
-  "2023-07-16": 143,
-  "2023-07-17": 143,
-  "2023-07-18": 143,
-  "2023-07-19": 143,
-  "2023-07-20": 143,
-  "2023-07-21": 143,
-  "2023-07-22": 143,
-  "2023-07-23": 143,
-  "2023-07-24": 143,
-  "2023-07-25": 143,
-  "2023-07-26": 143,
-  "2023-07-27": 143,
-  "2023-07-28": 143,
-  "2023-07-29": 143,
-  "2023-07-30": 143,
-  "2023-07-31": 143,
-  "2023-08-01": 143,
-  "2023-08-02": 143,
-  "2023-08-03": 143,
-  "2023-08-04": 143,
-  "2023-08-05": 143,
-  "2023-08-06": 143,
-  "2023-08-07": 143,
-  "2023-08-08": 143,
-  "2023-08-09": 143,
-  "2023-08-10": 143,
-  "2023-08-11": 143,
-  "2023-08-12": 143,
-  "2023-08-13": 143,
-  "2023-08-14": 143,
-  "2023-08-15": 143,
-  "2023-08-16": 143,
-  "2023-08-17": 143,
-  "2023-08-18": 143,
-  "2023-08-19": 143,
-  "2023-08-20": 143,
-  "2023-08-21": 143,
-  "2023-08-22": 143,
-  "2023-08-23": 143,
-  "2023-08-24": 143,
-  "2023-08-25": 143,
-  "2023-08-26": 143,
-  "2023-08-27": 143,
-  "2023-08-28": 143,
-  "2023-08-29": 143,
-  "2023-08-30": 143,
-  "2023-08-31": 143,
-  "2023-09-01": 143,
-  "2023-09-02": 143,
-  "2023-09-03": 143,
-  "2023-09-04": 143,
-  "2023-09-05": 143,
-  "2023-09-06": 143,
-  "2023-09-07": 143,
-  "2023-09-08": 143,
-  "2023-09-09": 143,
-  "2023-09-10": 143,
-  "2023-09-11": 143,
-  "2023-09-12": 143,
-  "2023-09-13": 143,
-  "2023-09-14": 143,
-  "2023-09-15": 143,
-  "2023-09-16": 143,
-  "2023-09-17": 143,
-  "2023-09-18": 143,
-  "2023-09-19": 143,
-  "2023-09-20": 143,
-  "2023-09-21": 143,
-  "2023-09-22": 143,
-  "2023-09-23": 143,
-  "2023-09-24": 143,
-  "2023-09-25": 143,
-  "2023-09-26": 143,
-  "2023-09-27": 143,
-  "2023-09-28": 143,
-  "2023-09-29": 143,
-  "2023-09-30": 143,
-  "2023-10-01": 143,
-  "2023-10-02": 143,
-  "2023-10-03": 143,
-  "2023-10-04": 143,
-  "2023-10-05": 143,
-  "2023-10-06": 143,
-  "2023-10-07": 143,
-  "2023-10-08": 143,
-  "2023-10-09": 143,
-  "2023-10-10": 143,
-  "2023-10-11": 143,
-  "2023-10-12": 143,
-  "2023-10-13": 143,
-  "2023-10-14": 143,
-  "2023-10-15": 143,
-  "2023-10-16": 143,
-  "2023-10-17": 143,
-  "2023-10-18": 143,
-  "2023-10-19": 143,
-  "2023-10-20": 143,
-  "2023-10-21": 143,
-  "2023-10-22": 143,
-  "2023-10-23": 143,
-  "2023-10-24": 143,
-  "2023-10-25": 143,
-  "2023-10-26": 143,
-  "2023-10-27": 143,
-  "2023-10-28": 143,
-  "2023-10-29": 143,
-  "2023-10-30": 143,
-  "2023-10-31": 143,
-  "2023-11-01": 143,
-  "2023-11-02": 143,
-  "2023-11-03": 143,
-  "2023-11-04": 143,
-  "2023-11-05": 143,
-  "2023-11-06": 143,
-  "2023-11-07": 143,
-  "2023-11-08": 143,
-  "2023-11-09": 143,
-  "2023-11-10": 143,
-  "2023-11-11": 143,
-  "2023-11-12": 143,
-  "2023-11-13": 143,
-  "2023-11-14": 143,
-  "2023-11-15": 143,
-  "2023-11-16": 143,
-  "2023-11-17": 143,
-  "2023-11-18": 143,
-  "2023-11-19": 143,
-  "2023-11-20": 143,
-  "2023-11-21": 143,
-  "2023-11-22": 143,
-  "2023-11-23": 143,
-  "2023-11-24": 143,
-  "2023-11-25": 143,
-  "2023-11-26": 143,
-  "2023-11-27": 143,
-  "2023-11-28": 143,
-  "2023-11-29": 143,
-  "2023-11-30": 143,
-  "2023-12-01": 143,
-  "2023-12-02": 143,
-  "2023-12-03": 143,
-  "2023-12-04": 143,
-  "2023-12-05": 143,
-  "2023-12-06": 143,
-  "2023-12-07": 143,
-  "2023-12-08": 143,
-  "2023-12-09": 143,
-  "2023-12-10": 143,
-  "2023-12-11": 143,
-  "2023-12-12": 143,
-  "2023-12-13": 143,
-  "2023-12-14": 143,
-  "2023-12-15": 143,
-  "2023-12-16": 143,
-  "2023-12-17": 143,
-  "2023-12-18": 143,
-  "2023-12-19": 143,
-  "2023-12-20": 143,
-  "2023-12-21": 143,
-  "2023-12-22": 143,
-  "2023-12-23": 143,
-  "2023-12-24": 143,
-  "2023-12-25": 143,
-  "2023-12-26": 143,
-  "2023-12-27": 143,
-  "2023-12-30": 143,
-  "2023-12-31": 143,
-  "2024-01-01": 143,
-  "2024-01-02": 143,
-  "2024-01-03": 143
+  "2024-01-17": 143,
+  "date_first_scraped": "2021-12-21",
+  "description": "Spellistan f\u00f6r den svenska sommaren.",
+  "name": "Svenska sommarklassiker",
+  "tracks": [
+    {
+      "album": {
+        "name": "O vad en liten gumma kan gno",
+        "url": "https://open.spotify.com/album/5fSDA3K2BP3bHRwOQyySo0"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153826,
+      "name": "Att ang\u00f6ra en brygga",
+      "url": "https://open.spotify.com/track/62gZY6joWPt97hbsbIdd4t"
+    },
+    {
+      "album": {
+        "name": "Midsommarklassiker 2021",
+        "url": "https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154093,
+      "name": "Att ang\u00f6ra en brygga",
+      "url": "https://open.spotify.com/track/4bpuchtERXyNXg6GegymSq"
+    },
+    {
+      "album": {
+        "name": "Robert Brobergs \u00c4lskade Original",
+        "url": "https://open.spotify.com/album/1eK1vnRIbR5mDbzRDm1iTl"
+      },
+      "artists": [
+        {
+          "name": "Robert Broberg",
+          "url": "https://open.spotify.com/artist/05JNHlwtdHqPJ6wcW7Mil5"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138853,
+      "name": "B\u00e5tl\u00e5t - 1998 Remastered Version",
+      "url": "https://open.spotify.com/track/1r2Dds6Yo1lhZEfyFmYjun"
+    },
+    {
+      "album": {
+        "name": "Det blir vad du g\u00f6r det till",
+        "url": "https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs"
+      },
+      "artists": [
+        {
+          "name": "Panetoz",
+          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179080,
+      "name": "Dansa Pausa",
+      "url": "https://open.spotify.com/track/6Z5Yf9rOFd28vXsjxN3HSM"
+    },
+    {
+      "album": {
+        "name": "De dagar vi dr\u00f6mt om",
+        "url": "https://open.spotify.com/album/4mvSf9pYZt2LT5m8oJKVb7"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203651,
+      "name": "De dagar vi dr\u00f6mt om",
+      "url": "https://open.spotify.com/track/4Ory9z52V9EUapFUtQpZQz"
+    },
+    {
+      "album": {
+        "name": "Inte ett moln s\u00e5 l\u00e5ngt \u00f6gat kan n\u00e5",
+        "url": "https://open.spotify.com/album/4TYHmKdWl1rxyCyG8BTkqp"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "De dagar vi dr\u00f6mt om",
+      "url": "https://open.spotify.com/track/42o042x5Fmr0E9wu6jemeo"
+    },
+    {
+      "album": {
+        "name": "Det b\u00e4sta med Tommy Nilsson",
+        "url": "https://open.spotify.com/album/3PeAWLOAjjqvNgkF06Z6vQ"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302386,
+      "name": "Dina f\u00e4rger var bl\u00e5",
+      "url": "https://open.spotify.com/track/00IRhIiynu3eZjVaegnJ2h"
+    },
+    {
+      "album": {
+        "name": "Hoppa upp!",
+        "url": "https://open.spotify.com/album/3wQt5GZaTTHejBLUZzJgIr"
+      },
+      "artists": [
+        {
+          "name": "Frida",
+          "url": "https://open.spotify.com/artist/29arE7CIm3KL75GqajaVa7"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215826,
+      "name": "Dunka mig gul & bl\u00e5",
+      "url": "https://open.spotify.com/track/0Kho40qp8dvZYbzXHMfSWN"
+    },
+    {
+      "album": {
+        "name": "Let's P\u00f6k",
+        "url": "https://open.spotify.com/album/01sSw0PRIr0K7QnJc6YxPz"
+      },
+      "artists": [
+        {
+          "name": "Ronny & Ragge",
+          "url": "https://open.spotify.com/artist/5pyF7nerLdGc4ZV3U72tdQ"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "D\u00e9 \u00e9 sommar",
+      "url": "https://open.spotify.com/track/0EWaUpAQtTWET3E14ye6ZV"
+    },
+    {
+      "album": {
+        "name": "Tillf\u00e4lligheternas spel",
+        "url": "https://open.spotify.com/album/2P3TPbHSZ43pHXbyrwZyhn"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258493,
+      "name": "En dag p\u00e5 stranden",
+      "url": "https://open.spotify.com/track/5Hup9929IAMtVWPWcwMtu4"
+    },
+    {
+      "album": {
+        "name": "Tillf\u00e4lligheternas spel (Jubileumsutg\u00e5va)",
+        "url": "https://open.spotify.com/album/2ag4brKtyNwj4RmEDCuQfz"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258493,
+      "name": "En dag p\u00e5 stranden",
+      "url": "https://open.spotify.com/track/6dMvhYyfs0jNssQV69zrsY"
+    },
+    {
+      "album": {
+        "name": "Den svenska sommaren",
+        "url": "https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX"
+      },
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "En kv\u00e4ll i juni",
+      "url": "https://open.spotify.com/track/5KDPjHfLAkouVsL8mclnaX"
+    },
+    {
+      "album": {
+        "name": "En midsommaraftons dr\u00f6m (Edit 2018)",
+        "url": "https://open.spotify.com/album/0lq257T3RhmRgTiJjZFZWA"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233085,
+      "name": "En midsommaraftons dr\u00f6m - Edit 2018",
+      "url": "https://open.spotify.com/track/6exuJyiCbym0tJqv7oVzcf"
+    },
+    {
+      "album": {
+        "name": "Hisingen och hem igen",
+        "url": "https://open.spotify.com/album/3jBdOBQUdU4Z0GPBYahCWD"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186085,
+      "name": "Ett sista glas",
+      "url": "https://open.spotify.com/track/1SZDQMXX1FrA97YY7Lt3Fj"
+    },
+    {
+      "album": {
+        "name": "Idde Schultz (Swedish version)",
+        "url": "https://open.spotify.com/album/6odzoWtZ8WTRPOS3Hsuvqd"
+      },
+      "artists": [
+        {
+          "name": "Idde Schultz",
+          "url": "https://open.spotify.com/artist/3WktPSTNlu4rZAr3k9ojLt"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273106,
+      "name": "Fiskarna i haven",
+      "url": "https://open.spotify.com/track/74k8Lrh6PG6aA3pRIF4GWm"
+    },
+    {
+      "album": {
+        "name": "Greatest Hittllis",
+        "url": "https://open.spotify.com/album/42bz3VrY7nCzNss6WTnyF1"
+      },
+      "artists": [
+        {
+          "name": "Svenne Rubins",
+          "url": "https://open.spotify.com/artist/1Z13YUXbUmdKwDO4RtVgyx"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209200,
+      "name": "Folkol Och Dunka-Dunka",
+      "url": "https://open.spotify.com/track/4lMAnfbNSosQuSwTRqRMyN"
+    },
+    {
+      "album": {
+        "name": "Sex M\u00e4n I Skor",
+        "url": "https://open.spotify.com/album/7JTTVegyBBxf6b5vvwQ8HN"
+      },
+      "artists": [
+        {
+          "name": "Svenne Rubins",
+          "url": "https://open.spotify.com/artist/1Z13YUXbUmdKwDO4RtVgyx"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209826,
+      "name": "Folk\u00f6l Och Dunkadunka",
+      "url": "https://open.spotify.com/track/0vbgxkcDTMYqURoBGF4RNp"
+    },
+    {
+      "album": {
+        "name": "Svenne Rubins st\u00f6rsta sanningar",
+        "url": "https://open.spotify.com/album/6cOjwSHHl3mRVeCuZbvKjk"
+      },
+      "artists": [
+        {
+          "name": "Svenne Rubins",
+          "url": "https://open.spotify.com/artist/1Z13YUXbUmdKwDO4RtVgyx"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209973,
+      "name": "Folk\u00f6l och dunkadunka",
+      "url": "https://open.spotify.com/track/7CuLEmcWOzeiNvPw35u2Yb"
+    },
+    {
+      "album": {
+        "name": "V\u00e4rldens B\u00e4sta Lotta",
+        "url": "https://open.spotify.com/album/7yURVDkQtalOTySdzzRP6U"
+      },
+      "artists": [
+        {
+          "name": "Lotta Engberg",
+          "url": "https://open.spotify.com/artist/26deOFc7Oj2gu2pqzPo9O8"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179600,
+      "name": "Fyra bugg & en Coca-Cola",
+      "url": "https://open.spotify.com/track/0Gd7uvRcKiuVKBoeFS9gYr"
+    },
+    {
+      "album": {
+        "name": "N\u00e4r Du Tar Mig I Din Famn",
+        "url": "https://open.spotify.com/album/1GNAvoOn02BaSMhDg2mCiD"
+      },
+      "artists": [
+        {
+          "name": "Lotta Engberg",
+          "url": "https://open.spotify.com/artist/26deOFc7Oj2gu2pqzPo9O8"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181560,
+      "name": "Fyra bugg & en Coca-Cola",
+      "url": "https://open.spotify.com/track/2YlsW8lr8iILbxmPd3Is9z"
+    },
+    {
+      "album": {
+        "name": "Sommar",
+        "url": "https://open.spotify.com/album/2xHseoQsyHKZfRdymKkiPk"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 215847,
+      "name": "F\u00e5nga en sommar",
+      "url": "https://open.spotify.com/track/1gLBFMZ6ZzkzbK2uyakyJS"
+    },
+    {
+      "album": {
+        "name": "Sommarhits - 75 svenska sommarl\u00e5tar",
+        "url": "https://open.spotify.com/album/21o2V9h5XWvUY6sBdc9Ddi"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215847,
+      "name": "F\u00e5nga en sommar",
+      "url": "https://open.spotify.com/track/6IWvAAJYVyt3DogpukTCPY"
+    },
+    {
+      "album": {
+        "name": "Samma himmel",
+        "url": "https://open.spotify.com/album/6vTggZqdcv8mFSL9ulr1IK"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215847,
+      "name": "F\u00e5nga en sommar",
+      "url": "https://open.spotify.com/track/7Havek0H06GEq8GV72wPPe"
+    },
+    {
+      "album": {
+        "name": "Svenska sommarhits",
+        "url": "https://open.spotify.com/album/0h2OVSK1cBJd3x8SzO6om7"
+      },
+      "artists": [
+        {
+          "name": "Lill-Babs",
+          "url": "https://open.spotify.com/artist/1YlYLkI3GlVDFSQGjMXWbt"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143373,
+      "name": "Gr\u00f6na granna sk\u00f6na sanna sommar",
+      "url": "https://open.spotify.com/track/5LqYhJNEsJZp8gw9HZtOUb"
+    },
+    {
+      "album": {
+        "name": "Midsommarklassiker 2021",
+        "url": "https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV"
+      },
+      "artists": [
+        {
+          "name": "Lill-Babs",
+          "url": "https://open.spotify.com/artist/1YlYLkI3GlVDFSQGjMXWbt"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 143613,
+      "name": "Gr\u00f6na granna sk\u00f6na sanna sommar",
+      "url": "https://open.spotify.com/track/6EG2D0nphlWzUOez6objG8"
+    },
+    {
+      "album": {
+        "name": "40-B\u00e4sta",
+        "url": "https://open.spotify.com/album/6OsJmsxR7JQ9TN17YSyoOk"
+      },
+      "artists": [
+        {
+          "name": "Lill-Babs",
+          "url": "https://open.spotify.com/artist/1YlYLkI3GlVDFSQGjMXWbt"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145066,
+      "name": "Gr\u00f6na granna sk\u00f6na sanna sommar",
+      "url": "https://open.spotify.com/track/6NpvXAQRQEovxG0cnOyzBO"
+    },
+    {
+      "album": {
+        "name": "Guldkorn",
+        "url": "https://open.spotify.com/album/2ZHD1CRbesKPzjgtgkYR0i"
+      },
+      "artists": [
+        {
+          "name": "Mats Ronander",
+          "url": "https://open.spotify.com/artist/3ryhASM97ALIDF5XtPsCgm"
+        },
+        {
+          "name": "Kim Larsen",
+          "url": "https://open.spotify.com/artist/2ZQifdPOptKHxTaYTLh0BC"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208159,
+      "name": "G\u00f6r mig lycklig nu",
+      "url": "https://open.spotify.com/track/2NRRzkoM5biJQ0M8vh7bEX"
+    },
+    {
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/1VUeYyKsCFK15DsCW5qExP"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236720,
+      "name": "Hanna fr\u00e5n Arl\u00f6v",
+      "url": "https://open.spotify.com/track/6DDqT0TLnWO6uBZbD7l0nt"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre s\u00e4song 4 - Ulfs dag",
+        "url": "https://open.spotify.com/album/2xzGVZomWVTIS7XrrJLjfY"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236720,
+      "name": "Hanna fr\u00e5n Arl\u00f6v",
+      "url": "https://open.spotify.com/track/6dEjaX8TtuHNhRBTwph6Fw"
+    },
+    {
+      "album": {
+        "name": "Fame Factory Visor",
+        "url": "https://open.spotify.com/album/4Os2gl6N0gVZPtLr0GRdAx"
+      },
+      "artists": [
+        {
+          "name": "Jessica Andersson",
+          "url": "https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266013,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/1vUZKzx8fNI8nwsWEMQVvm"
+    },
+    {
+      "album": {
+        "name": "\u00c4kta svensk sommar (NEW)",
+        "url": "https://open.spotify.com/album/6baOhgm6DKni5Ge3kMPAPp"
+      },
+      "artists": [
+        {
+          "name": "Jessica Andersson",
+          "url": "https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266013,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/2Y74b1FogVihFkAj7GcxQq"
+    },
+    {
+      "album": {
+        "name": "Sommarklassiker",
+        "url": "https://open.spotify.com/album/3IAfJk3CXvw8I3w6iqPunv"
+      },
+      "artists": [
+        {
+          "name": "Jessica Andersson",
+          "url": "https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266013,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/51NCq59dLCBk7zJx852JON"
+    },
+    {
+      "album": {
+        "name": "F\u00f6r k\u00e4rlekens skull - Svenska artister hyllar Ted G\u00e4rdestad",
+        "url": "https://open.spotify.com/album/69e81Jxyt3gRroMMzzhRL2"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285400,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/35Pcc7EcDAydmzJdM8XonO"
+    },
+    {
+      "album": {
+        "name": "Droppar av solregn",
+        "url": "https://open.spotify.com/album/7vQoYBKkBQc3TK3gGPwehn"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273266,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/27TFfAFo4sE4fw04QDqJmD"
+    },
+    {
+      "album": {
+        "name": "HELGMYS",
+        "url": "https://open.spotify.com/album/3T6WfgQ7b6evh5m2cHm81h"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273320,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/0VwFVlBCXFOm3HcPKpgSkO"
+    },
+    {
+      "album": {
+        "name": "I'd Rather Write A Symphony (Remastered 2009)",
+        "url": "https://open.spotify.com/album/4V98pVvObWpDvwIoAMwyZX"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273320,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/4rg0qXQd00nfQTTpu5U6sP"
+    },
+    {
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/4XxuoKPR8pndmPRbhNy2GB"
+      },
+      "artists": [
+        {
+          "name": "\u00d6sten Med Resten",
+          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173506,
+      "name": "Hon Kommer Med Solsken",
+      "url": "https://open.spotify.com/track/35XGYEpPPJ4hyRHNmfVfwL"
+    },
+    {
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/1LMXLxYfrcrjvAGdK7bysR"
+      },
+      "artists": [
+        {
+          "name": "\u00d6sten Med Resten",
+          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173506,
+      "name": "Hon kommer med solsken",
+      "url": "https://open.spotify.com/track/6ZFd908vclLcL4JcybQYFt"
+    },
+    {
+      "album": {
+        "name": "Greatest of the Best",
+        "url": "https://open.spotify.com/album/03wYV1m0EmBAhtgVLvGNKn"
+      },
+      "artists": [
+        {
+          "name": "\u00d6sten Med Resten",
+          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175453,
+      "name": "Hon Kommer Med Solsken",
+      "url": "https://open.spotify.com/track/0GdHzLwAZkDcJz6cAV0Qz9"
+    },
+    {
+      "album": {
+        "name": "Sveriges B\u00e4sta Dansband - Berts Favoriter Vol. 2",
+        "url": "https://open.spotify.com/album/78FWmhInRb4Q8CVf5iAxbz"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229493,
+      "name": "Hon kommer med sommaren",
+      "url": "https://open.spotify.com/track/0j0xWAiwEhtcvp5lGNb2R8"
+    },
+    {
+      "album": {
+        "name": "#8",
+        "url": "https://open.spotify.com/album/2FeRgpccTVAZfn2ZmI3EQS"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229493,
+      "name": "Hon kommer med sommaren",
+      "url": "https://open.spotify.com/track/366OQlMvzMfSsdxiIJqzR4"
+    },
+    {
+      "album": {
+        "name": "Hon kommer med sommaren",
+        "url": "https://open.spotify.com/album/3QHH3HG4gVkyjjG8AlzVeO"
+      },
+      "artists": [
+        {
+          "name": "Arvingarna",
+          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229493,
+      "name": "Hon kommer med sommaren",
+      "url": "https://open.spotify.com/track/61FKvrrIOtg8vKxYepoDxO"
+    },
+    {
+      "album": {
+        "name": "Balsam Boys...& De Elva Sp\u00e5ren",
+        "url": "https://open.spotify.com/album/25mvjzHe56sohSGHbQ5wyD"
+      },
+      "artists": [
+        {
+          "name": "Balsam Boys",
+          "url": "https://open.spotify.com/artist/7ipEnB9F8J0yMsm9dX9R6o"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223120,
+      "name": "H\u00e4r kommer sommaren",
+      "url": "https://open.spotify.com/track/3FmCk4vUECSBsOkqiuRuE3"
+    },
+    {
+      "album": {
+        "name": "Barnplaneten - Popul\u00e4ra barnvisor, \u00e4lskad barnmusik",
+        "url": "https://open.spotify.com/album/5cNCYhcFbHmTGXqlwCSWMd"
+      },
+      "artists": [
+        {
+          "name": "Alice Scherman",
+          "url": "https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111746,
+      "name": "Idas sommarvisa",
+      "url": "https://open.spotify.com/track/1pOZfcXfa9MTm55CeGw8Eb"
+    },
+    {
+      "album": {
+        "name": "Idas sommarvisa",
+        "url": "https://open.spotify.com/album/7lDGD4QOhMnMMD0Hq42Zy4"
+      },
+      "artists": [
+        {
+          "name": "Alice Scherman",
+          "url": "https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111746,
+      "name": "Idas sommarvisa",
+      "url": "https://open.spotify.com/track/2RMsi5l0uQX4P02zNmuSIS"
+    },
+    {
+      "album": {
+        "name": "Barnens barns\u00e5nger",
+        "url": "https://open.spotify.com/album/0NUe1hxuKopyRQ4frjBL6L"
+      },
+      "artists": [
+        {
+          "name": "Alice Scherman",
+          "url": "https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 111746,
+      "name": "Idas sommarvisa",
+      "url": "https://open.spotify.com/track/4l9E1fzryZeCWCkRNnPY2U"
+    },
+    {
+      "album": {
+        "name": "Ingen sommar utan reggae",
+        "url": "https://open.spotify.com/album/4VaOFGmlPu7Vljv1bLHZRh"
+      },
+      "artists": [
+        {
+          "name": "Markoolio",
+          "url": "https://open.spotify.com/artist/0cAOG10Gh3ORpBRZ9c7Zam"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229080,
+      "name": "Ingen sommar utan reggae",
+      "url": "https://open.spotify.com/track/2q0G8uC4KuwDNtTsI9nfUA"
+    },
+    {
+      "album": {
+        "name": "24 Hits! Soldans p\u00e5 din grammofon",
+        "url": "https://open.spotify.com/album/2p9ApXzOZwrVG30FkDhRZE"
+      },
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "url": "https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232426,
+      "name": "Juni, Juli, Augusti",
+      "url": "https://open.spotify.com/track/0bdpJ3m3X7D1ZhjHuKgeJO"
+    },
+    {
+      "album": {
+        "name": "Konstpaus",
+        "url": "https://open.spotify.com/album/2oyO3AERUiatly73ZCrWHW"
+      },
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "url": "https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232426,
+      "name": "Juni, Juli, Augusti",
+      "url": "https://open.spotify.com/track/2AXTRWWGTwgp0Ud8cPzT5S"
+    },
+    {
+      "album": {
+        "name": "GT25 - Samtliga Hits!",
+        "url": "https://open.spotify.com/album/6TOhFPZivcvhJSINywnllA"
+      },
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "url": "https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-17",
+      "duration_ms": 232426,
+      "name": "Juni, Juli, Augusti",
+      "url": "https://open.spotify.com/track/4UDnYc528V932a2lEtMQ5P"
+    },
+    {
+      "album": {
+        "name": "GT25 - Samtliga Hits!",
+        "url": "https://open.spotify.com/album/6TOhFPZivcvhJSINywnllA"
+      },
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "url": "https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 277653,
+      "name": "Kung av sand",
+      "url": "https://open.spotify.com/track/7C9SQqsckFfCu0lwcjoxNU"
+    },
+    {
+      "album": {
+        "name": "Konstpaus",
+        "url": "https://open.spotify.com/album/2oyO3AERUiatly73ZCrWHW"
+      },
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "url": "https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279333,
+      "name": "Kung av sand",
+      "url": "https://open.spotify.com/track/2pIpooJWX5q8DIctvrdQP2"
+    },
+    {
+      "album": {
+        "name": "Svensk sommar",
+        "url": "https://open.spotify.com/album/1hGknhDJeqGl2VR95CLGal"
+      },
+      "artists": [
+        {
+          "name": "Orup",
+          "url": "https://open.spotify.com/artist/6fJM13619LsYtyPqHvsf6A"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244706,
+      "name": "Magaluf",
+      "url": "https://open.spotify.com/track/3BtfdogDmGe7Rp9NceOzWo"
+    },
+    {
+      "album": {
+        "name": "Svensk sommar",
+        "url": "https://open.spotify.com/album/1hGknhDJeqGl2VR95CLGal"
+      },
+      "artists": [
+        {
+          "name": "Glenmark Eriksson Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/18zO6eeR1PG505akCHt9yB"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247213,
+      "name": "N\u00e4r vi gr\u00e4ver guld i USA",
+      "url": "https://open.spotify.com/track/1enBPq5iN4pXGeMIFFNuFz"
+    },
+    {
+      "album": {
+        "name": "Peps Bitar 1968-1992",
+        "url": "https://open.spotify.com/album/2CSFCOu8pCK2Sgf1vaCTVa"
+      },
+      "artists": [
+        {
+          "name": "Peps Persson",
+          "url": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242573,
+      "name": "Oh boy",
+      "url": "https://open.spotify.com/track/3VsMDGtaLvkctJieuQ0qzA"
+    },
+    {
+      "album": {
+        "name": "Midsommarklassiker 2021",
+        "url": "https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV"
+      },
+      "artists": [
+        {
+          "name": "Peps Persson",
+          "url": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243026,
+      "name": "Oh boy",
+      "url": "https://open.spotify.com/track/3Wx08QqwOiMrGl2Dq5NZG3"
+    },
+    {
+      "album": {
+        "name": "SOMMARHITS 2022",
+        "url": "https://open.spotify.com/album/6vwrbLN2qZwR2q7V9LlC9p"
+      },
+      "artists": [
+        {
+          "name": "Peps Persson",
+          "url": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243026,
+      "name": "Oh boy",
+      "url": "https://open.spotify.com/track/5Gj1SVQsGosP4fNWmIF2dR"
+    },
+    {
+      "album": {
+        "name": "Ted",
+        "url": "https://open.spotify.com/album/7pY0hwPU10gaH4qDsDFA6d"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Oh, vilken h\u00e4rlig da'",
+      "url": "https://open.spotify.com/track/1Taqw1VEHl8Gy9qAZtRLAq"
+    },
+    {
+      "album": {
+        "name": "Ted (Remastered 2009)",
+        "url": "https://open.spotify.com/album/5db764dqXRBFZHZGmX66B3"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200333,
+      "name": "Oh, vilken h\u00e4rlig da'",
+      "url": "https://open.spotify.com/track/4luq9irzpClkmCYfHmlRyh"
+    },
+    {
+      "album": {
+        "name": "Melodifestivalen - Vinnare och favoriter",
+        "url": "https://open.spotify.com/album/7FeC5fIidHKzKLKitJPtKC"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200333,
+      "name": "Oh, vilken h\u00e4rlig da'",
+      "url": "https://open.spotify.com/track/7yO5lvKQa54WO0FxCvYNWz"
+    },
+    {
+      "album": {
+        "name": "Om",
+        "url": "https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM"
+      },
+      "artists": [
+        {
+          "name": "Niklas Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242080,
+      "name": "Om",
+      "url": "https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3"
+    },
+    {
+      "album": {
+        "name": "30 \u00e5r i k\u00e4rlekens tj\u00e4nst",
+        "url": "https://open.spotify.com/album/3BV8m4wlM1r0KTcYzTKBdY"
+      },
+      "artists": [
+        {
+          "name": "Niklas Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242080,
+      "name": "Om",
+      "url": "https://open.spotify.com/track/5G0toONe1lwgHlFbaZxnXY"
+    },
+    {
+      "album": {
+        "name": "Absolute Svensk Pop",
+        "url": "https://open.spotify.com/album/0yvymL1peOO6EFLmVpJrBI"
+      },
+      "artists": [
+        {
+          "name": "Niklas Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248066,
+      "name": "Om",
+      "url": "https://open.spotify.com/track/7ySvCKU85mVidvXSDR0Ybr"
+    },
+    {
+      "album": {
+        "name": "Allting \u00e4r bra!",
+        "url": "https://open.spotify.com/album/1l6FqzHGHESF4whBqk9zhR"
+      },
+      "artists": [
+        {
+          "name": "Pelle Almgren",
+          "url": "https://open.spotify.com/artist/19hJMUXMcS8gYrClV2rDj1"
+        },
+        {
+          "name": "Wow Liksom",
+          "url": "https://open.spotify.com/artist/6Q7Oqf72uotLysWia2B4WX"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254133,
+      "name": "Om\u00e5omigen",
+      "url": "https://open.spotify.com/track/4fwOeFfLQoTjEsldLpDngl"
+    },
+    {
+      "album": {
+        "name": "100% Kikki",
+        "url": "https://open.spotify.com/album/1JyBPCAcvZ8selvBZTHbq5"
+      },
+      "artists": [
+        {
+          "name": "Kikki Danielsson",
+          "url": "https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237386,
+      "name": "Papaya Coconut",
+      "url": "https://open.spotify.com/track/6ncoedDsLh7V13kufpJ1Gj"
+    },
+    {
+      "album": {
+        "name": "Samling",
+        "url": "https://open.spotify.com/album/6OIHh42CFHZgbjR9fDT7u1"
+      },
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220613,
+      "name": "Semester",
+      "url": "https://open.spotify.com/track/1uOWYajE7K9FL7APfTsjnL"
+    },
+    {
+      "album": {
+        "name": "Svensk sommar",
+        "url": "https://open.spotify.com/album/1hGknhDJeqGl2VR95CLGal"
+      },
+      "artists": [
+        {
+          "name": "Pugh Rogefeldt",
+          "url": "https://open.spotify.com/artist/22Wo43V44RtrpJZsjeI9EA"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277560,
+      "name": "Sm\u00e5 l\u00e4tta moln",
+      "url": "https://open.spotify.com/track/73DZ1s6yXJdhJN5PLVgZMO"
+    },
+    {
+      "album": {
+        "name": "Pughs B\u00e4sta",
+        "url": "https://open.spotify.com/album/5pLDOTWvRIDoYyUkKC015L"
+      },
+      "artists": [
+        {
+          "name": "Pugh Rogefeldt",
+          "url": "https://open.spotify.com/artist/22Wo43V44RtrpJZsjeI9EA"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "Sm\u00e5 l\u00e4tta moln - Live",
+      "url": "https://open.spotify.com/track/7HyuoUcCQy143mwDsAu9I5"
+    },
+    {
+      "album": {
+        "name": "Sol, vind och vatten/Det b\u00e4sta med Ted G\u00e4rdestad",
+        "url": "https://open.spotify.com/album/5nFegfmG4jQHvYVX0Mgr2A"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189373,
+      "name": "Sol, vind och vatten",
+      "url": "https://open.spotify.com/track/4IyN7o0glm8gXgvEvT6oiZ"
+    },
+    {
+      "album": {
+        "name": "Midsommarklassiker 2021",
+        "url": "https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189560,
+      "name": "Sol, vind och vatten",
+      "url": "https://open.spotify.com/track/0iM7vSzU77HFs1c0B8FDBb"
+    },
+    {
+      "album": {
+        "name": "Ted",
+        "url": "https://open.spotify.com/album/7pY0hwPU10gaH4qDsDFA6d"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189560,
+      "name": "Sol, vind och vatten",
+      "url": "https://open.spotify.com/track/0lwJH1BDr8Z4wfXvi6yC9y"
+    },
+    {
+      "album": {
+        "name": "Lili & Susie",
+        "url": "https://open.spotify.com/album/5sxNcSihFvmXRScWX2FmOw"
+      },
+      "artists": [
+        {
+          "name": "Lili & Susie",
+          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271213,
+      "name": "Sommar inatt",
+      "url": "https://open.spotify.com/track/7AsmqCBHE161REYUojU3dN"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2017 - Sven-Ingvars hyllningsprogram",
+        "url": "https://open.spotify.com/album/01yQocK96viU8qw8PxqMP4"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 164786,
+      "name": "Sommar och sol",
+      "url": "https://open.spotify.com/track/00gbPslLIoIbrY0ARnwIj8"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2017: Tolkningarna",
+        "url": "https://open.spotify.com/album/25Xlt2Wc7EvhYv0MzRoPdy"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164786,
+      "name": "Sommar och sol",
+      "url": "https://open.spotify.com/track/0goh6iXeNgJvl6lJ1H1MvL"
+    },
+    {
+      "album": {
+        "name": "Sven Ingvars i Carnegie Hall",
+        "url": "https://open.spotify.com/album/3mBQDNTRg8iMjnV5nE68yb"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144479,
+      "name": "Sommar och sol \u00e4r det b\u00e4sta jag vet",
+      "url": "https://open.spotify.com/track/3pkqmaqxoF7SBViajxZamL"
+    },
+    {
+      "album": {
+        "name": "Svenska sommarklassiker 2005",
+        "url": "https://open.spotify.com/album/1CEdo6I5G19D9UT9HMgfcZ"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144626,
+      "name": "Sommar och sol \u00e4r det b\u00e4sta jag vet",
+      "url": "https://open.spotify.com/track/06Vm2JsuFNI3zv7MX6QiJG"
+    },
+    {
+      "album": {
+        "name": "Absolute svenska sommarklassiker",
+        "url": "https://open.spotify.com/album/6OU4J2re2YjU82PZMxh9G4"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Andreassen",
+          "url": "https://open.spotify.com/artist/6Fn3e6ZtmKtAl9wQ6Y9Fbc"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248733,
+      "name": "Sommar Reggae",
+      "url": "https://open.spotify.com/track/3uSUXnS5fWzvziDUY27e6s"
+    },
+    {
+      "album": {
+        "name": "Sommarhits - 75 svenska sommarl\u00e5tar",
+        "url": "https://open.spotify.com/album/21o2V9h5XWvUY6sBdc9Ddi"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Andreassen",
+          "url": "https://open.spotify.com/artist/6Fn3e6ZtmKtAl9wQ6Y9Fbc"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248733,
+      "name": "Sommar Reggae",
+      "url": "https://open.spotify.com/track/472Q9Sbe7mlJmM9YuU98vQ"
+    },
+    {
+      "album": {
+        "name": "I'm A Woman",
+        "url": "https://open.spotify.com/album/0xdAWS5pnTTQQzdRsDyWKp"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Andreassen",
+          "url": "https://open.spotify.com/artist/6Fn3e6ZtmKtAl9wQ6Y9Fbc"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244883,
+      "name": "Sommar reggae (Sunshine Reggae)",
+      "url": "https://open.spotify.com/track/0TmHZaq4PTe6sYOoGQ5M4N"
+    },
+    {
+      "album": {
+        "name": "Sommar, sommar, sommar",
+        "url": "https://open.spotify.com/album/0l537xeeUQXZAkArjKmb2H"
+      },
+      "artists": [
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/7FjElQ2FxgAbDGSrcE7K6O"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Sommaren i City",
+      "url": "https://open.spotify.com/track/1Y38A5HAP7SYJAzE48M3GW"
+    },
+    {
+      "album": {
+        "name": "Gr\u00e4nsl\u00f6s (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6Z2Q0V5dalO2v1geFWi4cp"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Sommaren \u00e4r kort",
+      "url": "https://open.spotify.com/track/2W7tzqjAPXG97RthXx6pNR"
+    },
+    {
+      "album": {
+        "name": "Tomas Ledin - 80-Tal",
+        "url": "https://open.spotify.com/album/0YdkVmcOnLjq178i8I2RzK"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183933,
+      "name": "Sommaren \u00e4r kort",
+      "url": "https://open.spotify.com/track/6wnWpJGIcYrY7P6yIikerN"
+    },
+    {
+      "album": {
+        "name": "Inte ett moln s\u00e5 l\u00e5ngt \u00f6gat kan n\u00e5",
+        "url": "https://open.spotify.com/album/4TYHmKdWl1rxyCyG8BTkqp"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 185466,
+      "name": "Sommaren \u00e4r kort",
+      "url": "https://open.spotify.com/track/4ksFdqDm1j5cm5k1Df6bby"
+    },
+    {
+      "album": {
+        "name": "Sommarens Sista S\u00e5ng",
+        "url": "https://open.spotify.com/album/1lBi8Dn9kdJH4dY89AlbCd"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242080,
+      "name": "Sommarens sista s\u00e5ng - Radio Edit",
+      "url": "https://open.spotify.com/track/6739dAlhNEWU1xUtE3DOa1"
+    },
+    {
+      "album": {
+        "name": "Midsommarklassiker 2021",
+        "url": "https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV"
+      },
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210440,
+      "name": "Sommarkort",
+      "url": "https://open.spotify.com/track/55IxX9VMOgGNdvmrws9fxT"
+    },
+    {
+      "album": {
+        "name": "Cornelis B\u00e4sta",
+        "url": "https://open.spotify.com/album/6eoQyqhkcoDgjMHsqAphHs"
+      },
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210440,
+      "name": "Sommarkort",
+      "url": "https://open.spotify.com/track/5lRvBRQJFVWZGRqDm7YkL4"
+    },
+    {
+      "album": {
+        "name": "Snowstorm-Factory-Magnum Bonum",
+        "url": "https://open.spotify.com/album/3eRPYZNQCEVHcEntFwWuo6"
+      },
+      "artists": [
+        {
+          "name": "Snowstorm",
+          "url": "https://open.spotify.com/artist/7MTotDfi3oohb0PBdlFsA5"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "Sommarnatt - 1999",
+      "url": "https://open.spotify.com/track/5W9tTjA7fkbkoOlGFqEIOZ"
+    },
+    {
+      "album": {
+        "name": "100% Lena Philipsson",
+        "url": "https://open.spotify.com/album/0Uii6Rh3iHnzyz0HIXcRue"
+      },
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "Sommartid",
+      "url": "https://open.spotify.com/track/6x0cSVN0ahCXCteCtncdjg"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre - s\u00e4song 3",
+        "url": "https://open.spotify.com/album/1w9KVuHbmVhrtHBcPp6gnO"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242586,
+      "name": "Sommartid",
+      "url": "https://open.spotify.com/track/0aKmin3xzPUYtiwCPSJomL"
+    },
+    {
+      "album": {
+        "name": "Puls",
+        "url": "https://open.spotify.com/album/3GZKmNPvp6kTSlsGUcd7XM"
+      },
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "url": "https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Sommartider",
+      "url": "https://open.spotify.com/track/1d1BeKPNgaQ36wcxGqnfU3"
+    },
+    {
+      "album": {
+        "name": "Sunnanvind",
+        "url": "https://open.spotify.com/album/11zMh9VPccELGpM5FgJIx9"
+      },
+      "artists": [
+        {
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "Sunnanvind",
+      "url": "https://open.spotify.com/track/4GK4mydvnsodLEHWb4zJV4"
+    },
+    {
+      "album": {
+        "name": "Vapen & ammunition",
+        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
+      },
+      "artists": [
+        {
+          "name": "kent",
+          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Sverige",
+      "url": "https://open.spotify.com/track/3LodQuubJHwPgkxp4BxHE7"
+    },
+    {
+      "album": {
+        "name": "Tid f\u00f6r tystnad - Marie Fredrikssons ballader",
+        "url": "https://open.spotify.com/album/1xEIu43pPZ8UFP5JWhixtk"
+      },
+      "artists": [
+        {
+          "name": "Marie Fredriksson",
+          "url": "https://open.spotify.com/artist/4YkPXMsmFf3K2XFHPddqFU"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "S\u00e5 skimrande var aldrig havet",
+      "url": "https://open.spotify.com/track/4p1LKZie1pNqfzzCYRrqmD"
+    },
+    {
+      "album": {
+        "name": "S\u00e5ngerna om sommaren",
+        "url": "https://open.spotify.com/album/1IxGVyIExZXOj7PczM80fg"
+      },
+      "artists": [
+        {
+          "name": "Glenmark Eriksson Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/18zO6eeR1PG505akCHt9yB"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "S\u00e5ngerna Om Sommaren",
+      "url": "https://open.spotify.com/track/49OimCzeIacaDPsdKGlYKt"
+    },
+    {
+      "album": {
+        "name": "\"Samlad - 1981 - 1994\"",
+        "url": "https://open.spotify.com/album/4Zcn8uXBKXRjv9AdgoVh8j"
+      },
+      "artists": [
+        {
+          "name": "Peter Lundblad",
+          "url": "https://open.spotify.com/artist/5yuHwiLMl8Mz5onBhn5HII"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268400,
+      "name": "Ta mig till havet",
+      "url": "https://open.spotify.com/track/1ykDKuKIU9pNFoOeR2VvN4"
+    },
+    {
+      "album": {
+        "name": "P\u00e5 beg\u00e4ran",
+        "url": "https://open.spotify.com/album/2tKPZAWQQSlzMfc2sdQPoE"
+      },
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 278573,
+      "name": "Till Stockholms sk\u00e4rg\u00e5rd",
+      "url": "https://open.spotify.com/track/3O2FOUxhhmq8dCxceTNG9k"
+    },
+    {
+      "album": {
+        "name": "P\u00e5 beg\u00e4ran",
+        "url": "https://open.spotify.com/album/7rN7AM6a6mZ6PfZeC7asUZ"
+      },
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278573,
+      "name": "Till Stockholms sk\u00e4rg\u00e5rd",
+      "url": "https://open.spotify.com/track/7geUU2nienjTgFvUuobfAC"
+    },
+    {
+      "album": {
+        "name": "Saltst\u00e4nkta S\u00e5nger",
+        "url": "https://open.spotify.com/album/1BgHdnasaOGvfBAvtw35xt"
+      },
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280426,
+      "name": "Till Stockholms sk\u00e4rg\u00e5rd",
+      "url": "https://open.spotify.com/track/3OvozltJNr6KgHXW9K2Bxt"
+    },
+    {
+      "album": {
+        "name": "Den svenska sommaren",
+        "url": "https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX"
+      },
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202320,
+      "name": "Turistens klagan",
+      "url": "https://open.spotify.com/track/4nFo5g8L40JXqWlh4LPu4l"
+    },
+    {
+      "album": {
+        "name": "Midsommarklassiker 2021",
+        "url": "https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV"
+      },
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Turistens klagan",
+      "url": "https://open.spotify.com/track/1sqembPbjeLU5HAiyzeEKa"
+    },
+    {
+      "album": {
+        "name": "Elva Hj\u00e4rtan",
+        "url": "https://open.spotify.com/album/1uH9bHKCE5p9ZXYAye2Roj"
+      },
+      "artists": [
+        {
+          "name": "Orup",
+          "url": "https://open.spotify.com/artist/6fJM13619LsYtyPqHvsf6A"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235133,
+      "name": "Vackert V\u00e4der",
+      "url": "https://open.spotify.com/track/2TB50PHG8COW0cy70celCj"
+    },
+    {
+      "album": {
+        "name": "Orups B\u00e4sta",
+        "url": "https://open.spotify.com/album/49LxPWBil3biCYw4GdXbSc"
+      },
+      "artists": [
+        {
+          "name": "Orup",
+          "url": "https://open.spotify.com/artist/6fJM13619LsYtyPqHvsf6A"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237106,
+      "name": "Vackert V\u00e4der",
+      "url": "https://open.spotify.com/track/4ZwruJP25zyKDeA5DIgx8n"
+    },
+    {
+      "album": {
+        "name": "Robert Brobergs \u00c4lskade Original",
+        "url": "https://open.spotify.com/album/1eK1vnRIbR5mDbzRDm1iTl"
+      },
+      "artists": [
+        {
+          "name": "Robert Broberg",
+          "url": "https://open.spotify.com/artist/05JNHlwtdHqPJ6wcW7Mil5"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133320,
+      "name": "Vatten",
+      "url": "https://open.spotify.com/track/7kabbbmDm1PFKOQyldIpI1"
+    },
+    {
+      "album": {
+        "name": "Vingar",
+        "url": "https://open.spotify.com/album/237mMetlEPs6FWYHf6poMq"
+      },
+      "artists": [
+        {
+          "name": "Mikael Rickfors",
+          "url": "https://open.spotify.com/artist/2Q4l7xGX0Y3u1f0m4V7kG2"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313719,
+      "name": "Vingar",
+      "url": "https://open.spotify.com/track/5IWSOYqPqw6f0LG19GhesE"
+    },
+    {
+      "album": {
+        "name": "Samlade singlar! 2000-2010",
+        "url": "https://open.spotify.com/album/0DTvpNaEOrs8sdkKUZYG1N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311666,
+      "name": "Visa vid vindens \u00e4ngar",
+      "url": "https://open.spotify.com/track/1JulpjKmGVrTro4b8s21mq"
+    },
+    {
+      "album": {
+        "name": "Samling",
+        "url": "https://open.spotify.com/album/3wLJOMbVpxk0FqJ9Md8c4d"
+      },
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "V\u00e5gorna",
+      "url": "https://open.spotify.com/track/3i1bPoDO6HieDmE7RFtdfJ"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre - Sven-Bertil Taubes dag",
+        "url": "https://open.spotify.com/album/2iFSOelyAUee6FAPm11XEB"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216742,
+      "name": "\u00c4nglamark",
+      "url": "https://open.spotify.com/track/3WG74KGCmqxidzowdmBpse"
+    },
+    {
+      "album": {
+        "name": "Ingen g\u00f6r det b\u00e4ttre",
+        "url": "https://open.spotify.com/album/0Z6CdX7lZC4Tu3Sw7I4pbD"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "\u00c4nglamark",
+      "url": "https://open.spotify.com/track/1skhM0OBR7YCtT7FOgoJQL"
+    },
+    {
+      "album": {
+        "name": "\u00d6ppna Landskap 7595",
+        "url": "https://open.spotify.com/album/7aB0bPRv2elnc0Ou1whaty"
+      },
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278333,
+      "name": "\u00d6ppna landskap",
+      "url": "https://open.spotify.com/track/1WVjxyTSZ5UiI6TlcHyUPh"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0ZFVMeJPr1Z"
 }

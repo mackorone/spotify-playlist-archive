@@ -1,54 +1,1201 @@
 {
-  "2023-11-11": 9579,
-  "2023-11-12": 9579,
-  "2023-11-13": 9579,
-  "2023-11-14": 9579,
-  "2023-11-15": 9579,
-  "2023-11-16": 9579,
-  "2023-11-17": 9579,
-  "2023-11-18": 9579,
-  "2023-11-19": 9579,
-  "2023-11-20": 9579,
-  "2023-11-21": 9579,
-  "2023-11-22": 9579,
-  "2023-11-23": 9579,
-  "2023-11-24": 9579,
-  "2023-11-25": 9579,
-  "2023-11-26": 9579,
-  "2023-11-27": 9579,
-  "2023-11-28": 9579,
-  "2023-11-29": 9579,
-  "2023-11-30": 9579,
-  "2023-12-01": 9579,
-  "2023-12-02": 9579,
-  "2023-12-03": 9579,
-  "2023-12-04": 9579,
-  "2023-12-05": 9579,
-  "2023-12-06": 9579,
-  "2023-12-07": 9579,
-  "2023-12-08": 9579,
-  "2023-12-09": 9579,
-  "2023-12-10": 9579,
-  "2023-12-11": 9579,
-  "2023-12-12": 9579,
-  "2023-12-13": 9579,
-  "2023-12-14": 9671,
-  "2023-12-15": 9671,
-  "2023-12-16": 9670,
-  "2023-12-17": 9672,
-  "2023-12-18": 9673,
-  "2023-12-19": 9672,
-  "2023-12-20": 9671,
-  "2023-12-21": 9672,
-  "2023-12-22": 9672,
-  "2023-12-23": 9669,
-  "2023-12-24": 9672,
-  "2023-12-25": 9672,
-  "2023-12-26": 9672,
-  "2023-12-27": 9670,
-  "2023-12-30": 9677,
-  "2023-12-31": 9680,
-  "2024-01-01": 9680,
-  "2024-01-02": 9680,
-  "2024-01-03": 9682
+  "2024-01-17": 9692,
+  "date_first_scraped": "2023-11-11",
+  "description": "This is Leon Leiden. The essential tracks, all in one playlist.",
+  "name": "This Is Leon Leiden",
+  "tracks": [
+    {
+      "album": {
+        "name": "A 150",
+        "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "A 150",
+      "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
+    },
+    {
+      "album": {
+        "name": "A Las 3",
+        "url": "https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162259,
+      "name": "A Las 3",
+      "url": "https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr"
+    },
+    {
+      "album": {
+        "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
+        "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Lucauy",
+          "url": "https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4"
+        },
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        },
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
+      "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
+    },
+    {
+      "album": {
+        "name": "Alberca / ILY <3",
+        "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124437,
+      "name": "Alberca",
+      "url": "https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR"
+    },
+    {
+      "album": {
+        "name": "ASMR",
+        "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181221,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
+    },
+    {
+      "album": {
+        "name": "Az\u00facar",
+        "url": "https://open.spotify.com/album/7lYA8XiizTdbP5EQAXRjtE"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/5W4HN5rnSphY6nG5cD9elB"
+    },
+    {
+      "album": {
+        "name": "Cheve",
+        "url": "https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174037,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD"
+    },
+    {
+      "album": {
+        "name": "mp3.",
+        "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "COMOSINADA",
+      "url": "https://open.spotify.com/track/2v4RtwYOiTbvtQUueyU9Bz"
+    },
+    {
+      "album": {
+        "name": "Contigo Si",
+        "url": "https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Contigo Si",
+      "url": "https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n De Papel",
+        "url": "https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Coraz\u00f3n De Papel",
+      "url": "https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE"
+    },
+    {
+      "album": {
+        "name": "mp3.",
+        "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158743,
+      "name": "DADOS",
+      "url": "https://open.spotify.com/track/3HLPJXlVy6ez2lZeEpuDpB"
+    },
+    {
+      "album": {
+        "name": "Desamor Feliz (Remix)",
+        "url": "https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Desamor Feliz - Remix",
+      "url": "https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2"
+    },
+    {
+      "album": {
+        "name": "Desamor Feliz Pt. 2",
+        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156168,
+      "name": "Desamor Feliz Pt. 2",
+      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
+    },
+    {
+      "album": {
+        "name": "Desde Que Te Vi",
+        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
+    },
+    {
+      "album": {
+        "name": "El Mejor Amigo",
+        "url": "https://open.spotify.com/album/5qOUTOwLXAm1y3WvzePHZW"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210474,
+      "name": "El Mejor Amigo",
+      "url": "https://open.spotify.com/track/0xRVhzvHkRBXbp25NRDotY"
+    },
+    {
+      "album": {
+        "name": "Top Regional Mexicano",
+        "url": "https://open.spotify.com/album/1c21iJdesNfqCJsXkztpyF"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Estamos aqu\u00ed",
+      "url": "https://open.spotify.com/track/3NOjigYhB8fkuqK5570wsN"
+    },
+    {
+      "album": {
+        "name": "Estamos Aqu\u00ed",
+        "url": "https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182698,
+      "name": "Estamos Aqu\u00ed",
+      "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
+    },
+    {
+      "album": {
+        "name": "mp3.",
+        "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151153,
+      "name": "FATALITY",
+      "url": "https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga"
+    },
+    {
+      "album": {
+        "name": "Thalia's Mixtape",
+        "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164884,
+      "name": "Florecita Rockera",
+      "url": "https://open.spotify.com/track/7i59viEVeGVJfyYS59V7oG"
+    },
+    {
+      "album": {
+        "name": "mp3.",
+        "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163434,
+      "name": "FLOTA",
+      "url": "https://open.spotify.com/track/2cgeaGlJpUl1C37OHb28XW"
+    },
+    {
+      "album": {
+        "name": "Fondo de Bikini",
+        "url": "https://open.spotify.com/album/6oLPf50hLvj6jJCgUQ6xuA"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184368,
+      "name": "Fondo de Bikini",
+      "url": "https://open.spotify.com/track/0TJpnfkl1YrpbUUWtEyKAt"
+    },
+    {
+      "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Yung Dupe",
+          "url": "https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3"
+        },
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        },
+        {
+          "name": "Charly Romero",
+          "url": "https://open.spotify.com/artist/6fnfIkbG8zBq4ZKKnvHGhx"
+        },
+        {
+          "name": "Jeis",
+          "url": "https://open.spotify.com/artist/48AZRfn6TdspMxXToat0WB"
+        },
+        {
+          "name": "Pao Alvarado",
+          "url": "https://open.spotify.com/artist/0fDaJzTT0WTIYVyIkjqpB4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Gitana (feat. Jeis, Pao Alvarado & Charly Romero)",
+      "url": "https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT"
+    },
+    {
+      "album": {
+        "name": "golden hour (Leon Leiden Remix)",
+        "url": "https://open.spotify.com/album/5a808HuhkUnzfxWflj1KfV"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "golden hour - Leon Leiden Remix",
+      "url": "https://open.spotify.com/track/2R0eHC9biqfxKHnVVDhC3U"
+    },
+    {
+      "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 131590,
+      "name": "Gotea",
+      "url": "https://open.spotify.com/track/4micjsZed6ExjkCd6SzaQL"
+    },
+    {
+      "album": {
+        "name": "Alberca / ILY <3",
+        "url": "https://open.spotify.com/album/56rLIEkSkRChif7JpHRVlj"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143133,
+      "name": "ILY <3",
+      "url": "https://open.spotify.com/track/3wSyg1wUNJ4Q2QjJpHJYla"
+    },
+    {
+      "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "La Habanera",
+      "url": "https://open.spotify.com/track/4t1wJfxOwUBsMpYVPnQhQm"
+    },
+    {
+      "album": {
+        "name": "La Terminal",
+        "url": "https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178561,
+      "name": "La Terminal",
+      "url": "https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3"
+    },
+    {
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176197,
+      "name": "Limones",
+      "url": "https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI"
+    },
+    {
+      "album": {
+        "name": "Mala Vida",
+        "url": "https://open.spotify.com/album/1WybN2EANyfkYsthhI5djM"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3QUsNIAM9lH8uLlDwI5tNN"
+    },
+    {
+      "album": {
+        "name": "Manzana",
+        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173936,
+      "name": "Manzana",
+      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+    },
+    {
+      "album": {
+        "name": "Marea (feat. legallyrxx)",
+        "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "LuisOn",
+          "url": "https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs"
+        },
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166036,
+      "name": "Marea (feat. legallyrxx)",
+      "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
+    },
+    {
+      "album": {
+        "name": "Mereces Menos",
+        "url": "https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Mereces Menos",
+      "url": "https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq"
+    },
+    {
+      "album": {
+        "name": "Mil Maneras",
+        "url": "https://open.spotify.com/album/3MqmtXBZYnOoa6ECNKau3i"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141219,
+      "name": "Mil Maneras",
+      "url": "https://open.spotify.com/track/2MH2Octk42xw891Bilg89D"
+    },
+    {
+      "album": {
+        "name": "Modo Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166207,
+      "name": "Modo Melanc\u00f3lico",
+      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162421,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF"
+    },
+    {
+      "album": {
+        "name": "mp3.",
+        "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "NUTELLA",
+      "url": "https://open.spotify.com/track/13BZfskMSABepXzgrp4ErP"
+    },
+    {
+      "album": {
+        "name": "SUPER ESTRELLAS",
+        "url": "https://open.spotify.com/album/09qxG7QLNUM8SHYXX878Xe"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Pantyblue",
+      "url": "https://open.spotify.com/track/7vK7uAw183CuwkcCeGqK5h"
+    },
+    {
+      "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/51rJeK97OprHwFCGYxtgnX"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166535,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
+    },
+    {
+      "album": {
+        "name": "plan v2",
+        "url": "https://open.spotify.com/album/4JdXxSuPmZMfIdAzmwrQVC"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "plan v2",
+      "url": "https://open.spotify.com/track/6ZDiojHljqoc2nYMZtkfiU"
+    },
+    {
+      "album": {
+        "name": "Amor Escupido",
+        "url": "https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176721,
+      "name": "Platicamos",
+      "url": "https://open.spotify.com/track/3VZvrKpBo0c6gelCsnRpCp"
+    },
+    {
+      "album": {
+        "name": "Que Lo Cura",
+        "url": "https://open.spotify.com/album/62bcFkIA81hnoWDo9nhYxQ"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "Que Lo Cura",
+      "url": "https://open.spotify.com/track/36mtuYkGjzPaFlKFzDfnga"
+    },
+    {
+      "album": {
+        "name": "Quisiste Dejar",
+        "url": "https://open.spotify.com/album/404pbH9cpCtJSTzTScPFCQ"
+      },
+      "artists": [
+        {
+          "name": "SAG",
+          "url": "https://open.spotify.com/artist/3laRUVXNA2glQ95MJJ5qHi"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "ATL",
+          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 150715,
+      "name": "Quisiste Dejar",
+      "url": "https://open.spotify.com/track/0rTDhdwW4qzdfcF9QQCh1F"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195726,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ"
+    },
+    {
+      "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 151807,
+      "name": "Sal Y Pimienta",
+      "url": "https://open.spotify.com/track/5qNs6A5O9FZTBnoqQ5DHkd"
+    },
+    {
+      "album": {
+        "name": "Savana",
+        "url": "https://open.spotify.com/album/4Jh20UJGE2tLzWqqjdCDYo"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "ATL",
+          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168225,
+      "name": "Savana",
+      "url": "https://open.spotify.com/track/7vPKvqTBq4akWHhfo4WCxT"
+    },
+    {
+      "album": {
+        "name": "Todo Mal",
+        "url": "https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Todo Mal",
+      "url": "https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2"
+    },
+    {
+      "album": {
+        "name": "Todo Pasa",
+        "url": "https://open.spotify.com/album/0JTwFw2yB7anulkQWSVmO3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Gabriel Bitr\u00e1n",
+          "url": "https://open.spotify.com/artist/0cLnWomMNr0IlMpeWHwfP3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 179154,
+      "name": "Todo Pasa",
+      "url": "https://open.spotify.com/track/5dysG1GlvAU2GndJU7O9Wb"
+    },
+    {
+      "album": {
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd"
+    },
+    {
+      "album": {
+        "name": "Una Chica Como T\u00fa",
+        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167640,
+      "name": "Una Chica Como T\u00fa",
+      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
+    },
+    {
+      "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/0jGekvFOOBQm3Ba8IfimAp"
+    },
+    {
+      "album": {
+        "name": "Veo, Veo",
+        "url": "https://open.spotify.com/album/059eZpWBrNGHJ95xr9Ent5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160003,
+      "name": "Veo, Veo",
+      "url": "https://open.spotify.com/track/2gtf19UFW3XLNsEnbfdBVb"
+    },
+    {
+      "album": {
+        "name": "Noche Eterna",
+        "url": "https://open.spotify.com/album/6E73adRyPWKIVzD2RgVL5A"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "VoyAHacerLoQueYoQuiera (feat. Leon Leiden)",
+      "url": "https://open.spotify.com/track/72fOZEogU7lBQ9JyHwvOS9"
+    },
+    {
+      "album": {
+        "name": "Ya No Se Mueve",
+        "url": "https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "Ya No Se Mueve",
+      "url": "https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0H5LUI"
 }

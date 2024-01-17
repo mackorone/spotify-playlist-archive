@@ -1,178 +1,1477 @@
 {
-  "2023-07-10": 67236,
-  "2023-07-11": 67242,
-  "2023-07-12": 67260,
-  "2023-07-13": 67270,
-  "2023-07-14": 67273,
-  "2023-07-15": 67277,
-  "2023-07-16": 67278,
-  "2023-07-17": 67278,
-  "2023-07-18": 67286,
-  "2023-07-19": 67298,
-  "2023-07-20": 67307,
-  "2023-07-21": 67310,
-  "2023-07-22": 67314,
-  "2023-07-23": 67323,
-  "2023-07-24": 67322,
-  "2023-07-25": 67331,
-  "2023-07-26": 67340,
-  "2023-07-27": 67340,
-  "2023-07-28": 67351,
-  "2023-07-29": 67352,
-  "2023-07-30": 67356,
-  "2023-07-31": 67364,
-  "2023-08-01": 67373,
-  "2023-08-02": 67384,
-  "2023-08-03": 67391,
-  "2023-08-04": 67399,
-  "2023-08-05": 67400,
-  "2023-08-06": 67410,
-  "2023-08-07": 67410,
-  "2023-08-08": 67415,
-  "2023-08-09": 67417,
-  "2023-08-10": 67426,
-  "2023-08-11": 67429,
-  "2023-08-12": 67429,
-  "2023-08-13": 67429,
-  "2023-08-14": 67451,
-  "2023-08-15": 67451,
-  "2023-08-16": 67451,
-  "2023-08-17": 67469,
-  "2023-08-18": 67469,
-  "2023-08-19": 67469,
-  "2023-08-20": 67487,
-  "2023-08-21": 67487,
-  "2023-08-22": 67499,
-  "2023-08-23": 67499,
-  "2023-08-24": 67508,
-  "2023-08-25": 67508,
-  "2023-08-26": 67521,
-  "2023-08-27": 67521,
-  "2023-08-28": 67540,
-  "2023-08-29": 67540,
-  "2023-08-30": 67540,
-  "2023-08-31": 67559,
-  "2023-09-01": 67562,
-  "2023-09-02": 67562,
-  "2023-09-03": 67586,
-  "2023-09-04": 67586,
-  "2023-09-05": 67586,
-  "2023-09-06": 67611,
-  "2023-09-07": 67611,
-  "2023-09-08": 67611,
-  "2023-09-09": 67611,
-  "2023-09-10": 67626,
-  "2023-09-11": 67626,
-  "2023-09-12": 67626,
-  "2023-09-13": 67654,
-  "2023-09-14": 67654,
-  "2023-09-15": 67654,
-  "2023-09-16": 67669,
-  "2023-09-17": 67669,
-  "2023-09-18": 67669,
-  "2023-09-19": 67690,
-  "2023-09-20": 67690,
-  "2023-09-21": 67690,
-  "2023-09-22": 67703,
-  "2023-09-23": 67703,
-  "2023-09-24": 67703,
-  "2023-09-25": 67703,
-  "2023-09-26": 67714,
-  "2023-09-27": 67714,
-  "2023-09-28": 67714,
-  "2023-09-29": 67714,
-  "2023-09-30": 67714,
-  "2023-10-01": 67714,
-  "2023-10-02": 67741,
-  "2023-10-03": 67741,
-  "2023-10-04": 67741,
-  "2023-10-05": 67755,
-  "2023-10-06": 67755,
-  "2023-10-07": 67755,
-  "2023-10-08": 67755,
-  "2023-10-09": 67755,
-  "2023-10-10": 67755,
-  "2023-10-11": 67693,
-  "2023-10-12": 67693,
-  "2023-10-13": 67693,
-  "2023-10-14": 67693,
-  "2023-10-15": 67693,
-  "2023-10-16": 67693,
-  "2023-10-17": 67693,
-  "2023-10-18": 67693,
-  "2023-10-19": 67693,
-  "2023-10-20": 67693,
-  "2023-10-21": 67693,
-  "2023-10-22": 67693,
-  "2023-10-23": 67693,
-  "2023-10-24": 67693,
-  "2023-10-25": 67693,
-  "2023-10-26": 67693,
-  "2023-10-27": 67693,
-  "2023-10-28": 67693,
-  "2023-10-29": 67693,
-  "2023-10-30": 67693,
-  "2023-10-31": 67693,
-  "2023-11-01": 67693,
-  "2023-11-02": 67693,
-  "2023-11-03": 67693,
-  "2023-11-04": 67693,
-  "2023-11-05": 67693,
-  "2023-11-06": 67693,
-  "2023-11-07": 67693,
-  "2023-11-08": 67693,
-  "2023-11-09": 67693,
-  "2023-11-10": 67693,
-  "2023-11-11": 67717,
-  "2023-11-12": 67717,
-  "2023-11-13": 67717,
-  "2023-11-14": 67717,
-  "2023-11-15": 67717,
-  "2023-11-16": 67717,
-  "2023-11-17": 67717,
-  "2023-11-18": 67717,
-  "2023-11-19": 67717,
-  "2023-11-20": 67717,
-  "2023-11-21": 67717,
-  "2023-11-22": 67717,
-  "2023-11-23": 67717,
-  "2023-11-24": 67717,
-  "2023-11-25": 67717,
-  "2023-11-26": 67717,
-  "2023-11-27": 67717,
-  "2023-11-28": 67717,
-  "2023-11-29": 67717,
-  "2023-11-30": 67717,
-  "2023-12-01": 67717,
-  "2023-12-02": 67717,
-  "2023-12-03": 67717,
-  "2023-12-04": 67717,
-  "2023-12-05": 67717,
-  "2023-12-06": 67717,
-  "2023-12-07": 67717,
-  "2023-12-08": 67717,
-  "2023-12-09": 67717,
-  "2023-12-10": 67717,
-  "2023-12-11": 67717,
-  "2023-12-12": 67717,
-  "2023-12-13": 67717,
-  "2023-12-14": 67854,
-  "2023-12-15": 67857,
-  "2023-12-16": 67857,
-  "2023-12-17": 67858,
-  "2023-12-18": 67860,
-  "2023-12-19": 67867,
-  "2023-12-20": 67872,
-  "2023-12-21": 67876,
-  "2023-12-22": 67884,
-  "2023-12-23": 67880,
-  "2023-12-24": 67882,
-  "2023-12-25": 67884,
-  "2023-12-26": 67888,
-  "2023-12-27": 67889,
-  "2023-12-30": 67904,
-  "2023-12-31": 67910,
-  "2024-01-01": 67913,
-  "2024-01-02": 67915,
-  "2024-01-03": 67916
+  "2024-01-17": 67456,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Eyshila. The essential tracks, all in one playlist.",
+  "name": "This Is Eyshila",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Alma Abatida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Palavra Tocada",
+          "url": "https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276488,
+      "name": "A Alma Abatida - Ao Vivo",
+      "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
+    },
+    {
+      "album": {
+        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334310,
+      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426039,
+      "name": "At\u00e9 Tocar o C\u00e9u",
+      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
+    },
+    {
+      "album": {
+        "name": "Sonhos N\u00e3o T\u00eam Fim",
+        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328051,
+      "name": "Basta um Olhar",
+      "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
+    },
+    {
+      "album": {
+        "name": "Bondade de Deus (Goodness of God) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329248,
+      "name": "Bondade de Deus (Goodness of God) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00e3o do Amor",
+        "url": "https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-24",
+      "duration_ms": 208444,
+      "name": "Can\u00e7\u00e3o do Amor",
+      "url": "https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs"
+    },
+    {
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358051,
+      "name": "Casa de B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5ShkPfQmBWA1BT2uqu8S7Q"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 313097,
+      "name": "Com o Teu Fogo",
+      "url": "https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG"
+    },
+    {
+      "album": {
+        "name": "Tudo Volta ao Seu Lugar",
+        "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391352,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV"
+    },
+    {
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283422,
+      "name": "Deus dos Vales, Deus dos Montes",
+      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294661,
+      "name": "Deus Est\u00e1 me Ensinando",
+      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
+    },
+    {
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291646,
+      "name": "Deus no Controle",
+      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+    },
+    {
+      "album": {
+        "name": "Deus no Controle - Remix",
+        "url": "https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn"
+      },
+      "artists": [
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215856,
+      "name": "Deus no Controle - Remix",
+      "url": "https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2"
+    },
+    {
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335946,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321317,
+      "name": "Deus se Lembra",
+      "url": "https://open.spotify.com/track/7qZKCnKz71JiDf51s4McIz"
+    },
+    {
+      "album": {
+        "name": "Ele Se Move",
+        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341717,
+      "name": "Ele Se Move",
+      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
+    },
+    {
+      "album": {
+        "name": "Ele Vem",
+        "url": "https://open.spotify.com/album/2pdoa7juTWSNe7grySHEnQ"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 403586,
+      "name": "Ele Vem",
+      "url": "https://open.spotify.com/track/0sSWmtnfKfNrbS3U9TM3q3"
+    },
+    {
+      "album": {
+        "name": "Em Tua Presen\u00e7a / Vai Amanhecer",
+        "url": "https://open.spotify.com/album/4drXBiKtDTXb2EmloXbDnp"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 342140,
+      "name": "Em Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/5otYJnOZCNRsLKtxcn2DE3"
+    },
+    {
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262664,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
+    },
+    {
+      "album": {
+        "name": "Eu Ainda Vou Sonhar",
+        "url": "https://open.spotify.com/album/6VwzItDBlPjnzMDApGAzU1"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Eu Ainda Vou Sonhar",
+      "url": "https://open.spotify.com/track/3y8V1S0UPTBXgZZYXyzxpF"
+    },
+    {
+      "album": {
+        "name": "Jesus, o Brasil Te Adora",
+        "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353893,
+      "name": "Eu Me Arrependo",
+      "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
+    },
+    {
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380760,
+      "name": "Eu Quero Ser Santo",
+      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
+    },
+    {
+      "album": {
+        "name": "Existe Um Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 326263,
+      "name": "Existe Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG"
+    },
+    {
+      "album": {
+        "name": "Quero Aprender a Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326264,
+      "name": "Existe Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF"
+    },
+    {
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372958,
+      "name": "Fala Comigo",
+      "url": "https://open.spotify.com/track/1IBWMbYSBLYX36tuMkqcKY"
+    },
+    {
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442015,
+      "name": "Fiel a Mim",
+      "url": "https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM"
+    },
+    {
+      "album": {
+        "name": "Filho",
+        "url": "https://open.spotify.com/album/51pxnOsLJxCY8wgUUbp5bo"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 250282,
+      "name": "Filho",
+      "url": "https://open.spotify.com/track/2R5kJSI0x5PN1glt96wpEy"
+    },
+    {
+      "album": {
+        "name": "Grande \u00e9 o Nosso Deus",
+        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319166,
+      "name": "Grande \u00e9 o Nosso Deus",
+      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+    },
+    {
+      "album": {
+        "name": "Grande \u00e9 o Nosso Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 323119,
+      "name": "Grande \u00e9 o Nosso Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/08oVsSKDOUS7hctEGBR43L"
+    },
+    {
+      "album": {
+        "name": "L\u00e1zaro",
+        "url": "https://open.spotify.com/album/6K6iPw0DJulvcZ6GYXvIYs"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322428,
+      "name": "L\u00e1zaro",
+      "url": "https://open.spotify.com/track/3cqFVJ9wMjsU6NnI1aV741"
+    },
+    {
+      "album": {
+        "name": "Gratid\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 228440,
+      "name": "Mais Grato a Ti",
+      "url": "https://open.spotify.com/track/108wrxfPjUGLQG4UQgAAzF"
+    },
+    {
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242005,
+      "name": "Mais Que Uma Voz",
+      "url": "https://open.spotify.com/track/25Hh17rnSPTIjoa4y9nBRN"
+    },
+    {
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279825,
+      "name": "Me Derramar",
+      "url": "https://open.spotify.com/track/61uQTy37Lc0Z1fFmxHCBd5"
+    },
+    {
+      "album": {
+        "name": "Me Leva (feat. N\u00edvea Soares)",
+        "url": "https://open.spotify.com/album/6E1bkKPLtIujCQ8a2LttIi"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 304661,
+      "name": "Me Leva (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/7McASftI4rIttd5HE6LKyg"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482974,
+      "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0olO7mxSDyVTOntD6SN8w2"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 482974,
+      "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6iPI5lRmKqGVunP17t6YGY"
+    },
+    {
+      "album": {
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+    },
+    {
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 275498,
+      "name": "Minha B\u00ean\u00e7\u00e3o (feat. Cassiane)",
+      "url": "https://open.spotify.com/track/0MhgSLsOhrK2heqVbm1BJs"
+    },
+    {
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281471,
+      "name": "Mulher Vitoriosa",
+      "url": "https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT"
+    },
+    {
+      "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254862,
+      "name": "Na Casa de Deus",
+      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
+    },
+    {
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292755,
+      "name": "Nada Pode Calar Um Adorador",
+      "url": "https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR"
+    },
+    {
+      "album": {
+        "name": "Gratid\u00e3o - Parte 3",
+        "url": "https://open.spotify.com/album/3y6ualnXSZFNulRKap3vZr"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 267758,
+      "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
+      "url": "https://open.spotify.com/track/24IEINiIOIkN4qGOvrxVUy"
+    },
+    {
+      "album": {
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
+    },
+    {
+      "album": {
+        "name": "O Milagre Sou Eu",
+        "url": "https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Lucas Santos",
+          "url": "https://open.spotify.com/artist/216ebrw2DF5jcgmTR06rtR"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246013,
+      "name": "O Milagre Sou Eu",
+      "url": "https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7"
+    },
+    {
+      "album": {
+        "name": "Oleiro",
+        "url": "https://open.spotify.com/album/2HyIjpequVfbPh42JKtmjT"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251216,
+      "name": "Oleiro",
+      "url": "https://open.spotify.com/track/6ADpJaVUozhAuh0OjbLd2w"
+    },
+    {
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Thyago Fersil",
+          "url": "https://open.spotify.com/artist/1NUvYKjjgjF7W8yMvu9Wta"
+        },
+        {
+          "name": "Jairo Bonfim",
+          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        },
+        {
+          "name": "Cleyde Jane",
+          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+        },
+        {
+          "name": "Marquinhos Menezes",
+          "url": "https://open.spotify.com/artist/346ncC0fvMSVV75BR8LFf2"
+        },
+        {
+          "name": "Lilian Azevedo",
+          "url": "https://open.spotify.com/artist/7g0oBs0qkjsNWaUNbYHk5N"
+        },
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Emerson Pinheiro",
+          "url": "https://open.spotify.com/artist/3OEGZWy4uk8PmTVG9WpNxw"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376720,
+      "name": "Pastor",
+      "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
+    },
+    {
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373385,
+      "name": "Pelo Fogo",
+      "url": "https://open.spotify.com/track/632n8ItEl2mlsRX9tY59eM"
+    },
+    {
+      "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324104,
+      "name": "Posso Clamar",
+      "url": "https://open.spotify.com/track/37GYyTGRnPcP01Ff7ziOoi"
+    },
+    {
+      "album": {
+        "name": "Eyshila Collection ao Vivo 10 Anos",
+        "url": "https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334878,
+      "name": "Posso Clamar",
+      "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        },
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        },
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Brun\u00e3o Morada",
+          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "Gabriel Barreto",
+          "url": "https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1"
+        },
+        {
+          "name": "Helena Tannure",
+          "url": "https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5"
+        },
+        {
+          "name": "Isaque Valad\u00e3o Bessa",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        },
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        },
+        {
+          "name": "Jo\u00e3o L\u00facio Tannure",
+          "url": "https://open.spotify.com/artist/30TJO7wBIMmfnGdC0bIfSe"
+        },
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        },
+        {
+          "name": "Mariana Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm"
+        },
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        },
+        {
+          "name": "Nena Lacerda",
+          "url": "https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384876,
+      "name": "Preciso de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
+    },
+    {
+      "album": {
+        "name": "Profetiza",
+        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294475,
+      "name": "Profetiza",
+      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
+    },
+    {
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266663,
+      "name": "Quanto Amor",
+      "url": "https://open.spotify.com/track/23pQ1PRKkAwU5J56rR1m5z"
+    },
+    {
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266826,
+      "name": "Quanto Amor (feat. Eyshila)",
+      "url": "https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435"
+    },
+    {
+      "album": {
+        "name": "Quero Aprender a Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 296168,
+      "name": "Quero Aprender a Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EliOzpWYjkmtBzC383hoF"
+    },
+    {
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383490,
+      "name": "Simplesmente Te Adorar",
+      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
+    },
+    {
+      "album": {
+        "name": "Sonhos N\u00e3o T\u00eam Fim",
+        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402587,
+      "name": "Sonhos N\u00e3o Tem Fim",
+      "url": "https://open.spotify.com/track/2eNcB9K068sJio6Udpix6T"
+    },
+    {
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375838,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/6TY5sU1MtoQ3ghGdIMkF1N"
+    },
+    {
+      "album": {
+        "name": "Tira-me do Vale",
+        "url": "https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
+      "duration_ms": 267726,
+      "name": "Tira-me do Vale",
+      "url": "https://open.spotify.com/track/4JeWq3J6kEjJ1O7fATN3G4"
+    },
+    {
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294183,
+      "name": "Transformada",
+      "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
+    },
+    {
+      "album": {
+        "name": "Tu \u00c9s Bom (Em Todo o Tempo)",
+        "url": "https://open.spotify.com/album/4hzusKWfCutuWPYLS118Lt"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352965,
+      "name": "Tu \u00c9s Bom (Em Todo o Tempo)",
+      "url": "https://open.spotify.com/track/6Aj8jLNU5ZY699OxF21e6S"
+    },
+    {
+      "album": {
+        "name": "Marina de Oliveira - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n"
+      },
+      "artists": [
+        {
+          "name": "Marina De Oliveira",
+          "url": "https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB"
+        },
+        {
+          "name": "Novo Som",
+          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
+        },
+        {
+          "name": "Alex Gonzaga",
+          "url": "https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Brother Simion",
+          "url": "https://open.spotify.com/artist/1pEaPL16IqfzG8ze1Xp3gZ"
+        },
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Banda & Voz",
+          "url": "https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E"
+        },
+        {
+          "name": "Ellas",
+          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
+        },
+        {
+          "name": "Raquel Mello",
+          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182508,
+      "name": "Unidos Pelo Amor",
+      "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
+    },
+    {
+      "album": {
+        "name": "Tira-me do Vale",
+        "url": "https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293685,
+      "name": "Vem Encher-me",
+      "url": "https://open.spotify.com/track/1SOMsn0oLw8hccpgwJckj8"
+    },
+    {
+      "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284583,
+      "name": "Vou Glorificar",
+      "url": "https://open.spotify.com/track/187l0KkKTNCnfpJ1vYa0Y7"
+    },
+    {
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393206,
+      "name": "\u00c9 Assim que Eu Quero Te Adorar",
+      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WNcEb"
 }

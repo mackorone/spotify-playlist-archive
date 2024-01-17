@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,797 likes - 56 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,849 likes - 56 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 18 | [Mouhamadou Bamba](https://open.spotify.com/track/5QdcVm85PHGVXtA14LoG59) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9), [Baobab\-Gouye\-Gui de Dakar](https://open.spotify.com/artist/396biTOuSgatR6cQxDFL2T) | [Mouhamadou Bamba](https://open.spotify.com/album/4h4yBxb4nKA2t7WH5GfXFe) | 6:35 |
 | 19 | [Mustt Mustt](https://open.spotify.com/track/3xSz5q0i3aTVD446ucans3) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Mustt Mustt \(Real World Gold\)](https://open.spotify.com/album/57ObW7qW6CN1CWLXV5DOGb) | 5:18 |
 | 20 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
-| 21 | [The Beloved](https://open.spotify.com/track/68Joa2fqSoneTbPYlWCxqJ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/27glTwiq8qJBryD9w4SUdP) | 4:51 |
+| 21 | [The Beloved](https://open.spotify.com/track/3ph7rjQcmF5vtqyzoc1NrH) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/4eKk8QRsQ9LMLO1vEzi4j8) | 4:51 |
 | 22 | [Uzun İnce Bir Yoldayım](https://open.spotify.com/track/7jquDCB0srCKiBJp0GuUDx) | [Aşık Veysel](https://open.spotify.com/artist/7rVsiFwBEEmTNoStle68F3) | [Uzun İnce Bir Yoldayım \(Klasikler\)](https://open.spotify.com/album/4PtRKiZ8Y1pfWV9E8xl1o7) | 2:35 |
 | 23 | [Chemaa](https://open.spotify.com/track/68eRlRXEZk1iMr0AdW78jD) | [Kamel Messaoudi](https://open.spotify.com/artist/7yLOExurLKWUlj520esuAt) | [Chaâbi Algérien](https://open.spotify.com/album/1R7G7QAN1wENelHO8MikUm) | 4:34 |
 | 24 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 |

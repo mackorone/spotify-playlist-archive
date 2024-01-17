@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Extra\u00f1os de Nuevo",
+        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
+    },
+    {
+      "album": {
         "name": "Extra\u00f1\u00e1ndote",
         "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
       },
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": "2024-01-13",
       "duration_ms": 199640,
       "name": "Para Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku"
@@ -3496,7 +3514,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 195929,
       "name": "Te Necesito (Live Acoustic)",
       "url": "https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau"

@@ -1,40 +1,1053 @@
 {
-  "2023-11-25": 7348,
-  "2023-11-26": 7408,
-  "2023-11-27": 7451,
-  "2023-11-28": 7512,
-  "2023-11-29": 7667,
-  "2023-11-30": 7667,
-  "2023-12-01": 7723,
-  "2023-12-02": 7793,
-  "2023-12-03": 7867,
-  "2023-12-04": 7920,
-  "2023-12-05": 7972,
-  "2023-12-06": 8020,
-  "2023-12-07": 8078,
-  "2023-12-08": 8131,
-  "2023-12-09": 8190,
-  "2023-12-10": 8253,
-  "2023-12-11": 8314,
-  "2023-12-12": 8365,
-  "2023-12-13": 8405,
-  "2023-12-14": 8462,
-  "2023-12-15": 8502,
-  "2023-12-16": 8553,
-  "2023-12-17": 8615,
-  "2023-12-18": 8671,
-  "2023-12-19": 8739,
-  "2023-12-20": 8774,
-  "2023-12-21": 8824,
-  "2023-12-22": 8878,
-  "2023-12-23": 8923,
-  "2023-12-24": 8980,
-  "2023-12-25": 9078,
-  "2023-12-26": 9150,
-  "2023-12-27": 9147,
-  "2023-12-30": 9149,
-  "2023-12-31": 9137,
-  "2024-01-01": 9133,
-  "2024-01-02": 9128,
-  "2024-01-03": 9103
+  "2024-01-17": 8992,
+  "date_first_scraped": "2023-11-25",
+  "description": "Chestnuts roasting on the open fire... Christmas ambience and cozy piano by the fireside.",
+  "name": "Christmas Piano by the Fireplace",
+  "tracks": [
+    {
+      "album": {
+        "name": "Angels we've heard on High",
+        "url": "https://open.spotify.com/album/3Zsl6aorjh4VxHFeH6yQ6M"
+      },
+      "artists": [
+        {
+          "name": "Lara Molineux",
+          "url": "https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113793,
+      "name": "Angels we've heard on High",
+      "url": "https://open.spotify.com/track/2H6zH5TD53UAcKCNGpJuso"
+    },
+    {
+      "album": {
+        "name": "Another Year Has Gone By",
+        "url": "https://open.spotify.com/album/4JvQAk6ksOZmr4wpHamAjW"
+      },
+      "artists": [
+        {
+          "name": "Trinette Lavoie",
+          "url": "https://open.spotify.com/artist/0oiawgJRdd2T486xVmsaVj"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148405,
+      "name": "Another Year Has Gone By",
+      "url": "https://open.spotify.com/track/3jooT6YMc2YCyueljlMfTx"
+    },
+    {
+      "album": {
+        "name": "Piano Christmas By The Fireplace",
+        "url": "https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1"
+      },
+      "artists": [
+        {
+          "name": "Jules Amaro",
+          "url": "https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "As With Gladness Men Of Old - Fireplace",
+      "url": "https://open.spotify.com/track/1wqR22Jo2Neg1HVMtngxZ2"
+    },
+    {
+      "album": {
+        "name": "Classical Holidays on Piano",
+        "url": "https://open.spotify.com/album/2Q5j7DybRr1RFE0FNhTwNS"
+      },
+      "artists": [
+        {
+          "name": "Anders Roy",
+          "url": "https://open.spotify.com/artist/0GLWOkUqKDMF6foWDMzOy0"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Auld Lang Syne (Fireplace) - Piano",
+      "url": "https://open.spotify.com/track/0KdZqytCJ37iZ2A8JGT8oR"
+    },
+    {
+      "album": {
+        "name": "A Cozy Christmas Evening",
+        "url": "https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW"
+      },
+      "artists": [
+        {
+          "name": "Tony Delvin",
+          "url": "https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4ogpVoNwqQ0Isxz2i82OOu"
+    },
+    {
+      "album": {
+        "name": "Away In A Manger",
+        "url": "https://open.spotify.com/album/5HrT0q7RGt0A5SFapgg2zs"
+      },
+      "artists": [
+        {
+          "name": "Julia Tide",
+          "url": "https://open.spotify.com/artist/2in6cp2GcdrkLqaY19ciPb"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125341,
+      "name": "Away In A Manger",
+      "url": "https://open.spotify.com/track/3mmrvjjegYOE7TommYSqYO"
+    },
+    {
+      "album": {
+        "name": "Christmas Chillin' By The Fireplace",
+        "url": "https://open.spotify.com/album/5POi8oLGWuxuOOHpYMW8Aa"
+      },
+      "artists": [
+        {
+          "name": "Leyton Lake",
+          "url": "https://open.spotify.com/artist/6eq5DdF14hc1mW6b1zEtHQ"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192374,
+      "name": "Baby It's Cold Outside - Fireplace",
+      "url": "https://open.spotify.com/track/1mB5ASqFUWws6HPbUKLYhz"
+    },
+    {
+      "album": {
+        "name": "Bella Notte",
+        "url": "https://open.spotify.com/album/5TxsZGy2gzxibexnENbuay"
+      },
+      "artists": [
+        {
+          "name": "Milan Lavrentyev",
+          "url": "https://open.spotify.com/artist/4gyDf1JXBfwbJNn6eY22yJ"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168277,
+      "name": "Bella Notte",
+      "url": "https://open.spotify.com/track/45qsOYssqRyznoi3RZ6vn0"
+    },
+    {
+      "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/3HgsNXKka2w0bxShbNt71t"
+      },
+      "artists": [
+        {
+          "name": "Amy Soonyoung",
+          "url": "https://open.spotify.com/artist/3PsjPJKC9SjOmEYcHRw5Rd"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Christmas Time Is Here - Cosy Cottage",
+      "url": "https://open.spotify.com/track/7yBQwOmWh8brY1fZwcNkqM"
+    },
+    {
+      "album": {
+        "name": "Christmas Tree Magic (Fireplace)",
+        "url": "https://open.spotify.com/album/34wptdoeS32BebJ7hYEXrt"
+      },
+      "artists": [
+        {
+          "name": "Dan Vogel",
+          "url": "https://open.spotify.com/artist/0c1nGTIo80Ida74ciNFwd1"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170355,
+      "name": "Christmas Tree Magic (Fireplace)",
+      "url": "https://open.spotify.com/track/4zuF6zoWJpv7csDNbyV4y8"
+    },
+    {
+      "album": {
+        "name": "Carols By The Fire",
+        "url": "https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN"
+      },
+      "artists": [
+        {
+          "name": "Anne Stahl",
+          "url": "https://open.spotify.com/artist/75EMiZJs4kX9pxwH3O3WX4"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Come Thou Long Expected Jesus - Fireside Christmas",
+      "url": "https://open.spotify.com/track/4f9JMu88egVfi8KLqslVom"
+    },
+    {
+      "album": {
+        "name": "Fireside Joy Of Christmas",
+        "url": "https://open.spotify.com/album/72watuxzgAjvqQkHSgWJgi"
+      },
+      "artists": [
+        {
+          "name": "John Bladh",
+          "url": "https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "Come, Thou Fount Of Every Blessing",
+      "url": "https://open.spotify.com/track/76tUe1tLAyaOxC5xjX0VIG"
+    },
+    {
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/3UWirUx1QvnakhZ1sfnrxZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Hubert",
+          "url": "https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100259,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/1ZuCGjQw1RDbrF6xJjxBfG"
+    },
+    {
+      "album": {
+        "name": "Do They Know It's Christmas",
+        "url": "https://open.spotify.com/album/5JZ987EnoYnRKNQwSfXTGG"
+      },
+      "artists": [
+        {
+          "name": "Tony Deans",
+          "url": "https://open.spotify.com/artist/3d7m26R3bBUoThTdRLqfDC"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Do They Know It's Christmas - Fireplace Version",
+      "url": "https://open.spotify.com/track/3J0pRoDOCYQPrCfOAyaJl9"
+    },
+    {
+      "album": {
+        "name": "Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/5211ajJwXcxcWkP9gX0sKf"
+      },
+      "artists": [
+        {
+          "name": "Manny Heights",
+          "url": "https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198516,
+      "name": "Do You Hear What I Hear - Fireplace",
+      "url": "https://open.spotify.com/track/7tlBeryJIvr9ZjpWmfFGUV"
+    },
+    {
+      "album": {
+        "name": "Christmas By The Fire",
+        "url": "https://open.spotify.com/album/1k256NIUtEGBKOUCdNSHVJ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Clarke",
+          "url": "https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185129,
+      "name": "Do You Want To Build A Snowman - By The Fire",
+      "url": "https://open.spotify.com/track/7txqEbOCcacXqRl2fruzmD"
+    },
+    {
+      "album": {
+        "name": "Give Love on Christmas Day",
+        "url": "https://open.spotify.com/album/1qtJJViXBqI5gcl4LYsFtf"
+      },
+      "artists": [
+        {
+          "name": "Doreen Koch",
+          "url": "https://open.spotify.com/artist/1xpWsGfQSWaSKdzRUhFyoY"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175880,
+      "name": "Give Love on Christmas Day",
+      "url": "https://open.spotify.com/track/5Un2fvHZqhPpmUnwilx5jS"
+    },
+    {
+      "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/7qtC23aPGJhSzyLXXelxgo"
+      },
+      "artists": [
+        {
+          "name": "Andrew Billings",
+          "url": "https://open.spotify.com/artist/1dmdQP2zEvRaMQiEaQFfJc"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186395,
+      "name": "God Rest Ye Merry Gentlemen - Homely",
+      "url": "https://open.spotify.com/track/2HXXd1Cnss5c9ijD6G3Wb6"
+    },
+    {
+      "album": {
+        "name": "Carols By The Fire",
+        "url": "https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN"
+      },
+      "artists": [
+        {
+          "name": "Chris Beard",
+          "url": "https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "Good King Wenceslas - Fireside Christmas",
+      "url": "https://open.spotify.com/track/5csN7WSalVyJjXgrGcZzQ5"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/2Cv6rKJ6iHLYaiYi9IdGuD"
+      },
+      "artists": [
+        {
+          "name": "Kathrine Abelsen",
+          "url": "https://open.spotify.com/artist/02ncYGUuJcyHP5Ku80sjOJ"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176350,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5pmylV1GXFlVOpd2usdcNR"
+    },
+    {
+      "album": {
+        "name": "Christmas Cosy",
+        "url": "https://open.spotify.com/album/6zAVrWfpCx1VNcsUrA4pKS"
+      },
+      "artists": [
+        {
+          "name": "Donald Shoenberg",
+          "url": "https://open.spotify.com/artist/7nOXih1DNL8bKeWIgo65Bj"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Hark! The Herald Angels Sing - Christmas Cosy",
+      "url": "https://open.spotify.com/track/7CbsuNnbMf53HTPqmgxV3O"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3Eu9NyeDamhd8m0EDnKOpD"
+      },
+      "artists": [
+        {
+          "name": "Amanda Heartwood",
+          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189930,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/23IyjxZ8e9nRxHeeC2qnbg"
+    },
+    {
+      "album": {
+        "name": "Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/5211ajJwXcxcWkP9gX0sKf"
+      },
+      "artists": [
+        {
+          "name": "Manny Heights",
+          "url": "https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "I Heard The Bells On Christmas Day - Fireplace",
+      "url": "https://open.spotify.com/track/5MXMACwSgfDLN5uX8B7ut2"
+    },
+    {
+      "album": {
+        "name": "I Saw Mommy Kissing Santa Claus",
+        "url": "https://open.spotify.com/album/4RQ3ioyZK5ly2mm7vyt3e5"
+      },
+      "artists": [
+        {
+          "name": "Kaelyn Aitken",
+          "url": "https://open.spotify.com/artist/1PK1Qzjcr6QYgBy1linRrY"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112949,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/06U6JHJdJzblXO2xlWsqRu"
+    },
+    {
+      "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/4azgQ5dDrHVqu0paYV9r0G"
+      },
+      "artists": [
+        {
+          "name": "Marika Miklos",
+          "url": "https://open.spotify.com/artist/40ojVTGr5E5WA9QeAZp6wm"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116858,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/7JsHhz4CdAXQ7Xdc6geA6W"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/2rHsCmeC0USUWff0fcG5kB"
+      },
+      "artists": [
+        {
+          "name": "Ursula Rothschild",
+          "url": "https://open.spotify.com/artist/76pBdJnawajPFuWwNzMsg8"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153845,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/1K6gIb43loGJGWs3YstidH"
+    },
+    {
+      "album": {
+        "name": "Christmas Cosy",
+        "url": "https://open.spotify.com/album/6zAVrWfpCx1VNcsUrA4pKS"
+      },
+      "artists": [
+        {
+          "name": "Samuel Bath",
+          "url": "https://open.spotify.com/artist/7lQJm3nfRsMvGs3sDeQudV"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124874,
+      "name": "In The Bleak Mid Winter - Christmas Cosy",
+      "url": "https://open.spotify.com/track/1FM8BWcAwIcTw54pS76KNe"
+    },
+    {
+      "album": {
+        "name": "It's Beggining to Look a Lot like Christmas",
+        "url": "https://open.spotify.com/album/7GrAhfKqoxCZvFroYouKH5"
+      },
+      "artists": [
+        {
+          "name": "Lara Molineux",
+          "url": "https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193657,
+      "name": "It's Beggining to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/6mYetg3csOzQRS63MmXdjo"
+    },
+    {
+      "album": {
+        "name": "Most Wonderful Time",
+        "url": "https://open.spotify.com/album/5QuceG3jeimM5cFylithqw"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Blumenthal",
+          "url": "https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "It's the most wonderful time of the year",
+      "url": "https://open.spotify.com/track/1eJaI2yRjRGKUApC1ybsES"
+    },
+    {
+      "album": {
+        "name": "It's Beginning To Look A Lot Like Christmas",
+        "url": "https://open.spotify.com/album/0wwNY3P1nqr7yEf1Qc0g7Y"
+      },
+      "artists": [
+        {
+          "name": "Teddie Moss",
+          "url": "https://open.spotify.com/artist/3w5hJR27vEyuK8ixEu4ODy"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122483,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/4D2S9Ox5FGqMGuBqa5QqcV"
+    },
+    {
+      "album": {
+        "name": "Fireside Joy Of Christmas",
+        "url": "https://open.spotify.com/album/72watuxzgAjvqQkHSgWJgi"
+      },
+      "artists": [
+        {
+          "name": "John Bladh",
+          "url": "https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97874,
+      "name": "Joy To The World - Fireside",
+      "url": "https://open.spotify.com/track/6AUh5lLePBqI26f5LdyIXe"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/2Vvv0jgfoOC7QV18Hv1z0g"
+      },
+      "artists": [
+        {
+          "name": "Marika Miklos",
+          "url": "https://open.spotify.com/artist/40ojVTGr5E5WA9QeAZp6wm"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166634,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/4SxcGw9pdhCbkUMsRf78UQ"
+    },
+    {
+      "album": {
+        "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/1O50FuubuNIaddheLayCvT"
+      },
+      "artists": [
+        {
+          "name": "Rhett Week",
+          "url": "https://open.spotify.com/artist/03HqLsJ07z6JYJtzDtgDiZ"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164874,
+      "name": "Little Drummer Boy - Fireplace",
+      "url": "https://open.spotify.com/track/36ipoN00BRMvCOEUwU5rVt"
+    },
+    {
+      "album": {
+        "name": "Piano Christmas By The Fireplace",
+        "url": "https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1"
+      },
+      "artists": [
+        {
+          "name": "Jules Amaro",
+          "url": "https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224250,
+      "name": "Lo, How A Rose E'er Blooming - Fireplace",
+      "url": "https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc"
+    },
+    {
+      "album": {
+        "name": "Cosy Fireplace",
+        "url": "https://open.spotify.com/album/62bH34ytSHlN9oi69WAfpu"
+      },
+      "artists": [
+        {
+          "name": "Danny Silberman",
+          "url": "https://open.spotify.com/artist/31mzdxgkNNNmDb9inHRaoa"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Marys Boychild",
+      "url": "https://open.spotify.com/track/0osb0FU1iezygPXT4FgBbo"
+    },
+    {
+      "album": {
+        "name": "O Come All Ye Faithfull",
+        "url": "https://open.spotify.com/album/1mQ3opSxvgjQuTJavy7Y4N"
+      },
+      "artists": [
+        {
+          "name": "Ursula Rothschild",
+          "url": "https://open.spotify.com/artist/76pBdJnawajPFuWwNzMsg8"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115613,
+      "name": "O Come All Ye Faithfull",
+      "url": "https://open.spotify.com/track/6usUk86fecWoerNAsEpT6L"
+    },
+    {
+      "album": {
+        "name": "O Come, All Ye Faithful (Fireplace Version)",
+        "url": "https://open.spotify.com/album/5TsmdUMNLvGxzoa0TtFJ3W"
+      },
+      "artists": [
+        {
+          "name": "Noel Newman",
+          "url": "https://open.spotify.com/artist/2DfgtFKS0D6r8nCklevapF"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171049,
+      "name": "O Come, All Ye Faithful (Fireplace Version)",
+      "url": "https://open.spotify.com/track/3fNlo0Idz2QVQMGjqjYmiX"
+    },
+    {
+      "album": {
+        "name": "A Cozy Christmas Evening",
+        "url": "https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW"
+      },
+      "artists": [
+        {
+          "name": "Tony Delvin",
+          "url": "https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235750,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/5QGyjRGFMPt61RamuthQL0"
+    },
+    {
+      "album": {
+        "name": "O Little Town of Bethlehem",
+        "url": "https://open.spotify.com/album/0I4PJXo1L3ivkFvfes7pOL"
+      },
+      "artists": [
+        {
+          "name": "Pauline Bogdanova",
+          "url": "https://open.spotify.com/artist/4LEA78680e0ts04JhCzMHJ"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145269,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/7C5oY169IzDYFHKlVQASYr"
+    },
+    {
+      "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/6rIdnvkljhJ4mPqTzTk8yy"
+      },
+      "artists": [
+        {
+          "name": "Nima de Bekker",
+          "url": "https://open.spotify.com/artist/0GE3bhLvDxx4CD0qHNZQzJ"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119499,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/5y3PYtsCNmCoxqhTUrQRBQ"
+    },
+    {
+      "album": {
+        "name": "Piano Christmas By The Fireplace",
+        "url": "https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1"
+      },
+      "artists": [
+        {
+          "name": "Jules Amaro",
+          "url": "https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Once In Royal Davids City - Fireplace",
+      "url": "https://open.spotify.com/track/2g4m5doLtTAKa8GdU8VdKi"
+    },
+    {
+      "album": {
+        "name": "Rockin' Around the Christmas Tree",
+        "url": "https://open.spotify.com/album/6b7Cwymeb76aWKq7y7iDE3"
+      },
+      "artists": [
+        {
+          "name": "Karin Eberhardt",
+          "url": "https://open.spotify.com/artist/1eatEngbJ6ifKAnPrlij2Q"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175034,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/3he8wjLlp8h6RfC8hGztNZ"
+    },
+    {
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/5YIUlGeaoRrkj5CBAc74b7"
+      },
+      "artists": [
+        {
+          "name": "Kacie Forbes",
+          "url": "https://open.spotify.com/artist/2oMpD3MpMa55N05W5vatrB"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142845,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/2BEwC1vSpl2TLtAjGDnSGs"
+    },
+    {
+      "album": {
+        "name": "Fireside Joy Of Christmas",
+        "url": "https://open.spotify.com/album/72watuxzgAjvqQkHSgWJgi"
+      },
+      "artists": [
+        {
+          "name": "John Bladh",
+          "url": "https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "See Amidst The Winter's Snow - Fireside",
+      "url": "https://open.spotify.com/track/7Bg3eYKTCfjHcdJcUOGVUh"
+    },
+    {
+      "album": {
+        "name": "Seven Joys Of Mary (Cosy Fireplace version)",
+        "url": "https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca"
+      },
+      "artists": [
+        {
+          "name": "Stian Jarrell",
+          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141374,
+      "name": "Seven Joys Of Mary - Cosy Fireplace",
+      "url": "https://open.spotify.com/track/5QzOYBckLu48DnNDjjhNoo"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/0TQf90RfwTwkVSLqJSCq6c"
+      },
+      "artists": [
+        {
+          "name": "Sarah Danielsson",
+          "url": "https://open.spotify.com/artist/3hapMtWQiO3mf7w0zUEOyS"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118659,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/4M1g8KcYe0PabAVrDLfkJB"
+    },
+    {
+      "album": {
+        "name": "It's Beginning To Look A Lot Like Christmas",
+        "url": "https://open.spotify.com/album/0wwNY3P1nqr7yEf1Qc0g7Y"
+      },
+      "artists": [
+        {
+          "name": "Teddie Moss",
+          "url": "https://open.spotify.com/artist/3w5hJR27vEyuK8ixEu4ODy"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173766,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/2XjOPkWK5RX9Bofs2bWiE9"
+    },
+    {
+      "album": {
+        "name": "Carols By The Fire",
+        "url": "https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN"
+      },
+      "artists": [
+        {
+          "name": "Lillith Love",
+          "url": "https://open.spotify.com/artist/5HzezX7WHyXZ7pDUCgb3ZU"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111437,
+      "name": "Star Of The East - Fireside Christmas",
+      "url": "https://open.spotify.com/track/6v5fFhkc1abGAwEWVciEPb"
+    },
+    {
+      "album": {
+        "name": "Seven Joys Of Mary (Cosy Fireplace version)",
+        "url": "https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca"
+      },
+      "artists": [
+        {
+          "name": "Stian Jarrell",
+          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sussex Carol - Cosy Fireplace",
+      "url": "https://open.spotify.com/track/1QF8liNdcjjoODGETrFONz"
+    },
+    {
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/3UWirUx1QvnakhZ1sfnrxZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Hubert",
+          "url": "https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194570,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4s7RK1po6cVNGfT5cI9IJo"
+    },
+    {
+      "album": {
+        "name": "The Christmas Waltz",
+        "url": "https://open.spotify.com/album/09cGcbg3g2ly5My8RxRBst"
+      },
+      "artists": [
+        {
+          "name": "Sarah Danielsson",
+          "url": "https://open.spotify.com/artist/3hapMtWQiO3mf7w0zUEOyS"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177128,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/5uNziYyvu46DW5m8TcSm75"
+    },
+    {
+      "album": {
+        "name": "Seven Joys Of Mary (Cosy Fireplace version)",
+        "url": "https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca"
+      },
+      "artists": [
+        {
+          "name": "Stian Jarrell",
+          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133874,
+      "name": "The Coventry Carol - Cosy Fireplace",
+      "url": "https://open.spotify.com/track/0hjOSIrhAaj4X5z5p1qLRh"
+    },
+    {
+      "album": {
+        "name": "Most Wonderful Time",
+        "url": "https://open.spotify.com/album/5QuceG3jeimM5cFylithqw"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Blumenthal",
+          "url": "https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/7DvSgUxzMCOYZddFge6Y1n"
+    },
+    {
+      "album": {
+        "name": "The Holly and the Ivy",
+        "url": "https://open.spotify.com/album/5oYr5TiYW2g8VDUyVrcTqK"
+      },
+      "artists": [
+        {
+          "name": "Impi Pasanen",
+          "url": "https://open.spotify.com/artist/6aWTceMkjIYTXKrtEPNkIz"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108330,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/4ZZ6DHVvkm5BV6fFG1106x"
+    },
+    {
+      "album": {
+        "name": "Walking in a Winter Wonderland",
+        "url": "https://open.spotify.com/album/0p8oVtr8UkvfR1kXVGIcCw"
+      },
+      "artists": [
+        {
+          "name": "Karla Debeljak",
+          "url": "https://open.spotify.com/artist/5WDw9Se5TtNtU0i2ltnSkN"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162760,
+      "name": "Walking in a Winter Wonderland",
+      "url": "https://open.spotify.com/track/3n3or2ujocN20GzYqgcHLM"
+    },
+    {
+      "album": {
+        "name": "Christmas By The Fire",
+        "url": "https://open.spotify.com/album/1k256NIUtEGBKOUCdNSHVJ"
+      },
+      "artists": [
+        {
+          "name": "Chris Beard",
+          "url": "https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199125,
+      "name": "We Three Kings - By The Fire",
+      "url": "https://open.spotify.com/track/5gcZ9iHLeN2yBY4daH9TF9"
+    },
+    {
+      "album": {
+        "name": "Home by Christmas",
+        "url": "https://open.spotify.com/album/7yqj1JebK54UjJ6SC5d2Bx"
+      },
+      "artists": [
+        {
+          "name": "Stacy Gaffer",
+          "url": "https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Where are you Christmas",
+      "url": "https://open.spotify.com/track/57MY9r6qFLirorQLs7T0ks"
+    },
+    {
+      "album": {
+        "name": "A Cozy Christmas Evening",
+        "url": "https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW"
+      },
+      "artists": [
+        {
+          "name": "Tony Delvin",
+          "url": "https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/3pgyIgscqoLhhv2jCZQqUE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYQi0ZCT7HlO"
 }

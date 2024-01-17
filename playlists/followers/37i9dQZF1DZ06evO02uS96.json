@@ -1,569 +1,1499 @@
 {
-  "2022-06-10": 131099,
-  "2022-06-11": 131174,
-  "2022-06-12": 131240,
-  "2022-06-13": 131272,
-  "2022-06-14": 131345,
-  "2022-06-15": 131397,
-  "2022-06-16": 131452,
-  "2022-06-17": 131515,
-  "2022-06-18": 131560,
-  "2022-06-19": 131675,
-  "2022-06-20": 131675,
-  "2022-06-21": 131732,
-  "2022-06-22": 131829,
-  "2022-06-23": 131829,
-  "2022-06-24": 131889,
-  "2022-06-25": 131947,
-  "2022-06-26": 132001,
-  "2022-06-27": 132048,
-  "2022-06-28": 132118,
-  "2022-06-29": 132178,
-  "2022-06-30": 132237,
-  "2022-07-01": 132305,
-  "2022-07-02": 132368,
-  "2022-07-03": 132428,
-  "2022-07-04": 132505,
-  "2022-07-05": 132589,
-  "2022-07-06": 132589,
-  "2022-07-07": 132728,
-  "2022-07-08": 132782,
-  "2022-07-09": 132839,
-  "2022-07-10": 132889,
-  "2022-07-11": 132933,
-  "2022-07-12": 132985,
-  "2022-07-13": 133051,
-  "2022-07-14": 133084,
-  "2022-07-15": 133149,
-  "2022-07-16": 133213,
-  "2022-07-17": 133267,
-  "2022-07-18": 133336,
-  "2022-07-19": 133383,
-  "2022-07-20": 133406,
-  "2022-07-21": 133455,
-  "2022-07-22": 133491,
-  "2022-07-23": 133540,
-  "2022-07-24": 133597,
-  "2022-07-25": 133639,
-  "2022-07-26": 133687,
-  "2022-07-27": 133737,
-  "2022-07-28": 133767,
-  "2022-07-29": 133817,
-  "2022-07-30": 133897,
-  "2022-07-31": 133897,
-  "2022-08-01": 133958,
-  "2022-08-02": 134046,
-  "2022-08-03": 134046,
-  "2022-08-04": 134091,
-  "2022-08-05": 134143,
-  "2022-08-06": 134184,
-  "2022-08-07": 134238,
-  "2022-08-08": 134296,
-  "2022-08-09": 134341,
-  "2022-08-10": 134393,
-  "2022-08-11": 134438,
-  "2022-08-12": 134512,
-  "2022-08-13": 134554,
-  "2022-08-14": 134614,
-  "2022-08-15": 134674,
-  "2022-08-16": 134733,
-  "2022-08-17": 134792,
-  "2022-08-18": 134829,
-  "2022-08-19": 134873,
-  "2022-08-20": 134908,
-  "2022-08-21": 134978,
-  "2022-08-22": 135028,
-  "2022-08-23": 135075,
-  "2022-08-24": 135149,
-  "2022-08-25": 135207,
-  "2022-08-26": 135259,
-  "2022-08-27": 135302,
-  "2022-08-28": 135383,
-  "2022-08-29": 135426,
-  "2022-08-30": 135441,
-  "2022-08-31": 135430,
-  "2022-09-01": 135386,
-  "2022-09-02": 135360,
-  "2022-09-03": 135283,
-  "2022-09-04": 135279,
-  "2022-09-05": 135307,
-  "2022-09-06": 135357,
-  "2022-09-07": 135424,
-  "2022-09-09": 135523,
-  "2022-09-10": 135584,
-  "2022-09-11": 135616,
-  "2022-09-12": 135674,
-  "2022-09-13": 135730,
-  "2022-09-15": 135837,
-  "2022-09-16": 135877,
-  "2022-09-17": 135933,
-  "2022-09-18": 135965,
-  "2022-09-19": 136017,
-  "2022-09-20": 136073,
-  "2022-09-21": 136131,
-  "2022-09-22": 136189,
-  "2022-09-23": 136233,
-  "2022-09-24": 136305,
-  "2022-09-25": 136367,
-  "2022-09-26": 136437,
-  "2022-09-27": 136480,
-  "2022-09-28": 136539,
-  "2022-09-29": 136599,
-  "2022-09-30": 136665,
-  "2022-10-01": 136717,
-  "2022-10-02": 136781,
-  "2022-10-03": 136836,
-  "2022-10-04": 136901,
-  "2022-10-05": 136948,
-  "2022-10-06": 137014,
-  "2022-10-07": 137089,
-  "2022-10-08": 137148,
-  "2022-10-09": 137220,
-  "2022-10-10": 137234,
-  "2022-10-11": 137280,
-  "2022-10-12": 137322,
-  "2022-10-13": 137376,
-  "2022-10-14": 137421,
-  "2022-10-15": 137488,
-  "2022-10-16": 137547,
-  "2022-10-17": 137596,
-  "2022-10-18": 137642,
-  "2022-10-19": 137674,
-  "2022-10-20": 137707,
-  "2022-10-21": 137752,
-  "2022-10-22": 137853,
-  "2022-10-23": 137910,
-  "2022-10-24": 137974,
-  "2022-10-25": 138015,
-  "2022-10-26": 138076,
-  "2022-10-27": 138129,
-  "2022-10-28": 138175,
-  "2022-10-29": 138225,
-  "2022-10-30": 138280,
-  "2022-10-31": 138309,
-  "2022-11-01": 138364,
-  "2022-11-02": 138411,
-  "2022-11-03": 138466,
-  "2022-11-04": 138520,
-  "2022-11-05": 138572,
-  "2022-11-06": 138612,
-  "2022-11-07": 138658,
-  "2022-11-08": 138706,
-  "2022-11-09": 138755,
-  "2022-11-10": 138792,
-  "2022-11-11": 138847,
-  "2022-11-12": 138898,
-  "2022-11-13": 138925,
-  "2022-11-14": 138993,
-  "2022-11-15": 139096,
-  "2022-11-16": 139156,
-  "2022-11-17": 139237,
-  "2022-11-18": 139288,
-  "2022-11-19": 139298,
-  "2022-11-20": 139362,
-  "2022-11-21": 139418,
-  "2022-11-22": 139495,
-  "2022-11-23": 139566,
-  "2022-11-24": 139662,
-  "2022-11-25": 139735,
-  "2022-11-26": 139795,
-  "2022-11-27": 139854,
-  "2022-11-28": 139896,
-  "2022-11-29": 139946,
-  "2022-11-30": 140017,
-  "2022-12-01": 140085,
-  "2022-12-02": 140129,
-  "2022-12-03": 140210,
-  "2022-12-04": 140263,
-  "2022-12-05": 140324,
-  "2022-12-06": 140375,
-  "2022-12-07": 140471,
-  "2022-12-08": 140576,
-  "2022-12-09": 140660,
-  "2022-12-10": 140725,
-  "2022-12-11": 140798,
-  "2022-12-12": 140895,
-  "2022-12-13": 140989,
-  "2022-12-14": 141057,
-  "2022-12-15": 141123,
-  "2022-12-16": 141206,
-  "2022-12-17": 141269,
-  "2022-12-18": 141346,
-  "2022-12-19": 141416,
-  "2022-12-20": 141541,
-  "2022-12-21": 141541,
-  "2022-12-22": 141616,
-  "2022-12-24": 141735,
-  "2022-12-25": 141796,
-  "2022-12-26": 141849,
-  "2022-12-27": 141921,
-  "2022-12-28": 141973,
-  "2022-12-29": 142039,
-  "2022-12-30": 142110,
-  "2022-12-31": 142265,
-  "2023-01-01": 142504,
-  "2023-01-02": 142636,
-  "2023-01-03": 142766,
-  "2023-01-04": 142864,
-  "2023-01-05": 143044,
-  "2023-01-06": 143167,
-  "2023-01-07": 143324,
-  "2023-01-08": 143344,
-  "2023-01-09": 143410,
-  "2023-01-10": 143493,
-  "2023-01-11": 143587,
-  "2023-01-12": 143681,
-  "2023-01-13": 143762,
-  "2023-01-14": 143929,
-  "2023-01-15": 143930,
-  "2023-01-16": 144029,
-  "2023-01-17": 144112,
-  "2023-01-18": 144192,
-  "2023-01-19": 144275,
-  "2023-01-20": 144365,
-  "2023-01-21": 144427,
-  "2023-01-22": 144511,
-  "2023-01-23": 144592,
-  "2023-01-24": 144664,
-  "2023-01-25": 144725,
-  "2023-01-26": 144794,
-  "2023-01-27": 144849,
-  "2023-01-28": 144912,
-  "2023-01-29": 144964,
-  "2023-01-30": 145045,
-  "2023-01-31": 145045,
-  "2023-02-01": 145175,
-  "2023-02-02": 145223,
-  "2023-02-03": 145283,
-  "2023-02-04": 145341,
-  "2023-02-05": 145400,
-  "2023-02-06": 145466,
-  "2023-02-07": 145521,
-  "2023-02-08": 145650,
-  "2023-02-09": 145650,
-  "2023-02-10": 145712,
-  "2023-02-11": 145756,
-  "2023-02-12": 145892,
-  "2023-02-13": 145980,
-  "2023-02-14": 145980,
-  "2023-02-15": 146028,
-  "2023-02-16": 146079,
-  "2023-02-17": 146130,
-  "2023-02-18": 146260,
-  "2023-02-19": 146273,
-  "2023-02-20": 146306,
-  "2023-02-21": 146345,
-  "2023-02-22": 146395,
-  "2023-02-23": 146450,
-  "2023-02-24": 146513,
-  "2023-02-25": 146603,
-  "2023-02-26": 146639,
-  "2023-02-27": 146740,
-  "2023-02-28": 146740,
-  "2023-03-01": 146799,
-  "2023-03-02": 146872,
-  "2023-03-03": 146962,
-  "2023-03-04": 147013,
-  "2023-03-05": 147143,
-  "2023-03-06": 147143,
-  "2023-03-07": 147213,
-  "2023-03-08": 147271,
-  "2023-03-09": 147316,
-  "2023-03-10": 147375,
-  "2023-03-11": 147415,
-  "2023-03-12": 147465,
-  "2023-03-13": 147519,
-  "2023-03-14": 147570,
-  "2023-03-15": 147628,
-  "2023-03-16": 147686,
-  "2023-03-17": 147686,
-  "2023-03-18": 147793,
-  "2023-03-19": 147846,
-  "2023-03-20": 147911,
-  "2023-03-21": 147957,
-  "2023-03-22": 148020,
-  "2023-03-23": 148083,
-  "2023-03-24": 148083,
-  "2023-03-25": 148173,
-  "2023-03-26": 148230,
-  "2023-03-27": 148290,
-  "2023-03-28": 148345,
-  "2023-03-29": 148417,
-  "2023-03-30": 148514,
-  "2023-03-31": 148514,
-  "2023-04-01": 148565,
-  "2023-04-02": 148631,
-  "2023-04-03": 148677,
-  "2023-04-04": 148712,
-  "2023-04-05": 148771,
-  "2023-04-06": 148817,
-  "2023-04-07": 148889,
-  "2023-04-09": 149023,
-  "2023-04-10": 149084,
-  "2023-04-11": 149168,
-  "2023-04-12": 149168,
-  "2023-04-13": 149219,
-  "2023-04-14": 149270,
-  "2023-04-15": 149342,
-  "2023-04-16": 149385,
-  "2023-04-17": 149442,
-  "2023-04-18": 149492,
-  "2023-04-19": 149544,
-  "2023-04-20": 149595,
-  "2023-04-21": 149657,
-  "2023-04-22": 149719,
-  "2023-04-23": 149774,
-  "2023-04-24": 149840,
-  "2023-04-25": 149893,
-  "2023-04-26": 149951,
-  "2023-04-27": 150004,
-  "2023-04-28": 150070,
-  "2023-04-29": 150127,
-  "2023-04-30": 150179,
-  "2023-05-01": 150234,
-  "2023-05-02": 150280,
-  "2023-05-03": 150327,
-  "2023-05-04": 150392,
-  "2023-05-05": 150451,
-  "2023-05-06": 150503,
-  "2023-05-07": 150543,
-  "2023-05-08": 150625,
-  "2023-05-09": 150688,
-  "2023-05-10": 150755,
-  "2023-05-11": 150815,
-  "2023-05-12": 150869,
-  "2023-05-13": 150921,
-  "2023-05-14": 150955,
-  "2023-05-15": 151001,
-  "2023-05-16": 151057,
-  "2023-05-17": 151119,
-  "2023-05-18": 151172,
-  "2023-05-19": 151229,
-  "2023-05-20": 151332,
-  "2023-05-21": 151332,
-  "2023-05-22": 151332,
-  "2023-05-23": 151432,
-  "2023-05-24": 151540,
-  "2023-05-25": 151546,
-  "2023-05-26": 151580,
-  "2023-05-27": 151640,
-  "2023-05-28": 151677,
-  "2023-05-29": 151677,
-  "2023-05-30": 151748,
-  "2023-05-31": 151785,
-  "2023-06-01": 151843,
-  "2023-06-02": 151889,
-  "2023-06-03": 151935,
-  "2023-06-04": 151985,
-  "2023-06-05": 152017,
-  "2023-06-06": 152073,
-  "2023-06-07": 152127,
-  "2023-06-08": 152180,
-  "2023-06-09": 152221,
-  "2023-06-10": 152266,
-  "2023-06-11": 152303,
-  "2023-06-12": 152351,
-  "2023-06-13": 152398,
-  "2023-06-14": 152445,
-  "2023-06-15": 152474,
-  "2023-06-16": 152521,
-  "2023-06-17": 152580,
-  "2023-06-18": 152609,
-  "2023-06-19": 152642,
-  "2023-06-20": 152690,
-  "2023-06-21": 152730,
-  "2023-06-22": 152781,
-  "2023-06-23": 152835,
-  "2023-06-24": 152880,
-  "2023-06-25": 152941,
-  "2023-06-26": 153006,
-  "2023-06-27": 153075,
-  "2023-06-28": 153137,
-  "2023-06-29": 153174,
-  "2023-06-30": 153225,
-  "2023-07-01": 153404,
-  "2023-07-02": 153404,
-  "2023-07-03": 153436,
-  "2023-07-04": 153499,
-  "2023-07-05": 153552,
-  "2023-07-06": 153645,
-  "2023-07-07": 153645,
-  "2023-07-08": 153695,
-  "2023-07-09": 153727,
-  "2023-07-10": 153779,
-  "2023-07-11": 153834,
-  "2023-07-12": 153892,
-  "2023-07-13": 153965,
-  "2023-07-14": 154005,
-  "2023-07-15": 154058,
-  "2023-07-16": 154118,
-  "2023-07-17": 154181,
-  "2023-07-18": 154200,
-  "2023-07-19": 154243,
-  "2023-07-20": 154292,
-  "2023-07-21": 154340,
-  "2023-07-22": 154367,
-  "2023-07-23": 154432,
-  "2023-07-24": 154481,
-  "2023-07-25": 154514,
-  "2023-07-26": 154565,
-  "2023-07-27": 154594,
-  "2023-07-28": 154635,
-  "2023-07-29": 154681,
-  "2023-07-30": 154717,
-  "2023-07-31": 154749,
-  "2023-08-01": 154782,
-  "2023-08-02": 154809,
-  "2023-08-03": 154851,
-  "2023-08-04": 154886,
-  "2023-08-05": 154917,
-  "2023-08-06": 154994,
-  "2023-08-07": 154994,
-  "2023-08-08": 155039,
-  "2023-08-09": 155068,
-  "2023-08-10": 155117,
-  "2023-08-11": 155158,
-  "2023-08-12": 155201,
-  "2023-08-13": 155201,
-  "2023-08-14": 155283,
-  "2023-08-15": 155372,
-  "2023-08-16": 155372,
-  "2023-08-17": 155401,
-  "2023-08-18": 155432,
-  "2023-08-19": 155470,
-  "2023-08-20": 155508,
-  "2023-08-21": 155543,
-  "2023-08-22": 155577,
-  "2023-08-23": 155607,
-  "2023-08-24": 155637,
-  "2023-08-25": 155664,
-  "2023-08-26": 155706,
-  "2023-08-27": 155721,
-  "2023-08-28": 155747,
-  "2023-08-29": 155777,
-  "2023-08-30": 155777,
-  "2023-08-31": 155836,
-  "2023-09-01": 155895,
-  "2023-09-02": 155895,
-  "2023-09-03": 155929,
-  "2023-09-04": 155929,
-  "2023-09-05": 155995,
-  "2023-09-06": 156025,
-  "2023-09-07": 156025,
-  "2023-09-08": 156025,
-  "2023-09-09": 156025,
-  "2023-09-10": 156128,
-  "2023-09-11": 156150,
-  "2023-09-12": 156150,
-  "2023-09-13": 156211,
-  "2023-09-14": 156211,
-  "2023-09-15": 156252,
-  "2023-09-16": 156271,
-  "2023-09-17": 156271,
-  "2023-09-18": 156271,
-  "2023-09-19": 156338,
-  "2023-09-20": 156347,
-  "2023-09-21": 156347,
-  "2023-09-22": 156404,
-  "2023-09-23": 156404,
-  "2023-09-24": 156404,
-  "2023-09-25": 156404,
-  "2023-09-26": 156557,
-  "2023-09-27": 156557,
-  "2023-09-28": 156557,
-  "2023-09-29": 156557,
-  "2023-09-30": 156557,
-  "2023-10-01": 156557,
-  "2023-10-02": 156707,
-  "2023-10-03": 156707,
-  "2023-10-04": 156707,
-  "2023-10-05": 156783,
-  "2023-10-06": 156824,
-  "2023-10-07": 156824,
-  "2023-10-08": 156824,
-  "2023-10-09": 156824,
-  "2023-10-10": 156824,
-  "2023-10-11": 156941,
-  "2023-10-12": 156941,
-  "2023-10-13": 156907,
-  "2023-10-14": 156907,
-  "2023-10-15": 156907,
-  "2023-10-16": 156907,
-  "2023-10-17": 156907,
-  "2023-10-18": 156907,
-  "2023-10-19": 156907,
-  "2023-10-20": 156907,
-  "2023-10-21": 156907,
-  "2023-10-22": 156907,
-  "2023-10-23": 156907,
-  "2023-10-24": 156907,
-  "2023-10-25": 156907,
-  "2023-10-26": 156907,
-  "2023-10-27": 156907,
-  "2023-10-28": 156907,
-  "2023-10-29": 156907,
-  "2023-10-30": 156907,
-  "2023-10-31": 156907,
-  "2023-11-01": 156907,
-  "2023-11-02": 156907,
-  "2023-11-03": 156907,
-  "2023-11-04": 156907,
-  "2023-11-05": 156907,
-  "2023-11-06": 156907,
-  "2023-11-07": 156907,
-  "2023-11-08": 156907,
-  "2023-11-09": 156907,
-  "2023-11-10": 156907,
-  "2023-11-11": 157841,
-  "2023-11-12": 157841,
-  "2023-11-13": 157841,
-  "2023-11-14": 157841,
-  "2023-11-15": 157841,
-  "2023-11-16": 157841,
-  "2023-11-17": 157841,
-  "2023-11-18": 157841,
-  "2023-11-19": 157841,
-  "2023-11-20": 157841,
-  "2023-11-21": 157841,
-  "2023-11-22": 157841,
-  "2023-11-23": 157841,
-  "2023-11-24": 157841,
-  "2023-11-25": 157841,
-  "2023-11-26": 157841,
-  "2023-11-27": 157841,
-  "2023-11-28": 157841,
-  "2023-11-29": 157841,
-  "2023-11-30": 157841,
-  "2023-12-01": 157841,
-  "2023-12-02": 157841,
-  "2023-12-03": 157841,
-  "2023-12-04": 157841,
-  "2023-12-05": 157841,
-  "2023-12-06": 157841,
-  "2023-12-07": 157841,
-  "2023-12-08": 157841,
-  "2023-12-09": 157841,
-  "2023-12-10": 157841,
-  "2023-12-11": 157841,
-  "2023-12-12": 157841,
-  "2023-12-13": 157841,
-  "2023-12-14": 158797,
-  "2023-12-15": 158811,
-  "2023-12-16": 158847,
-  "2023-12-17": 158871,
-  "2023-12-18": 158894,
-  "2023-12-19": 158911,
-  "2023-12-20": 158928,
-  "2023-12-21": 158973,
-  "2023-12-22": 158996,
-  "2023-12-23": 159020,
-  "2023-12-24": 159045,
-  "2023-12-25": 159080,
-  "2023-12-26": 159099,
-  "2023-12-27": 159134,
-  "2023-12-30": 159214,
-  "2023-12-31": 159228,
-  "2024-01-01": 159245,
-  "2024-01-02": 159253,
-  "2024-01-03": 159271
+  "2024-01-17": 159335,
+  "date_first_scraped": "2022-06-10",
+  "description": "This is Aimer. The essential tracks, all in one playlist.",
+  "name": "This Is Aimer",
+  "tracks": [
+    {
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292760,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343973,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Black Bird",
+      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281560,
+      "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
+      "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
+    },
+    {
+      "album": {
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "Brave Shine",
+      "url": "https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ"
+    },
+    {
+      "album": {
+        "name": "broKen NIGHT / holLow wORlD",
+        "url": "https://open.spotify.com/album/5Xqd1QR5Qeg5COX7IqQ1Co"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 296306,
+      "name": "broKen NIGHT",
+      "url": "https://open.spotify.com/track/6CDkzGTESwc9huctjalPLU"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 230200,
+      "name": "cold rain",
+      "url": "https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm"
+    },
+    {
+      "album": {
+        "name": "escalate(Special Edition)",
+        "url": "https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286386,
+      "name": "crossovers",
+      "url": "https://open.spotify.com/track/3T6iotCGoXj5koiIifL1OR"
+    },
+    {
+      "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227146,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
+    },
+    {
+      "album": {
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 460586,
+      "name": "Even Heaven (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
+      "url": "https://open.spotify.com/track/00JEeogsyMdq0RL6BoJFdM"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 236293,
+      "name": "ever after",
+      "url": "https://open.spotify.com/track/0mkctINFN0327pYxp1CRhQ"
+    },
+    {
+      "album": {
+        "name": "BEST SELECTION \"blanc\"",
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337066,
+      "name": "everlasting snow",
+      "url": "https://open.spotify.com/track/1pS8rVJSUQUB5kZOMgXaA2"
+    },
+    {
+      "album": {
+        "name": "broKen NIGHT / holLow wORlD",
+        "url": "https://open.spotify.com/album/5Xqd1QR5Qeg5COX7IqQ1Co"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 276626,
+      "name": "holLow wORlD",
+      "url": "https://open.spotify.com/track/46F08OlYiuOtjqLJMMgqUQ"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267213,
+      "name": "I beg you",
+      "url": "https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP"
+    },
+    {
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 253120,
+      "name": "insane dream",
+      "url": "https://open.spotify.com/track/5stJAy1hIyMjgFRJeK9gVK"
+    },
+    {
+      "album": {
+        "name": "Ivy Ivy Ivy",
+        "url": "https://open.spotify.com/album/4zonvfa0E3bJJ52tSvsqLI"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 292640,
+      "name": "Ivy Ivy Ivy",
+      "url": "https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ"
+    },
+    {
+      "album": {
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318666,
+      "name": "LAST STARDUST",
+      "url": "https://open.spotify.com/track/5SIvk89WNJKsl02ojARSYh"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3066\u3082\u306a\u304f(Special Edition)",
+        "url": "https://open.spotify.com/album/1P2CvUvnNZyisqk1tXXRZX"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 237493,
+      "name": "Life is a song",
+      "url": "https://open.spotify.com/track/4Vin9IpkvhiwOwa9uTOBj6"
+    },
+    {
+      "album": {
+        "name": "cocoon",
+        "url": "https://open.spotify.com/album/0KDBi4WriT563aNRQJLZuB"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 526680,
+      "name": "Memento mori",
+      "url": "https://open.spotify.com/track/4aYJRco9r6KNPPzRHMF6Bz"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 307893,
+      "name": "Mine (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
+      "url": "https://open.spotify.com/track/2Ueo7qwjV84IgRJlsGmBks"
+    },
+    {
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Chelly",
+          "url": "https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261773,
+      "name": "ninelie",
+      "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
+    },
+    {
+      "album": {
+        "name": "2V-ALK",
+        "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305346,
+      "name": "ninelie <cry-v>",
+      "url": "https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ"
+    },
+    {
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328493,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
+    },
+    {
+      "album": {
+        "name": "ONE AND LAST",
+        "url": "https://open.spotify.com/album/5jc9kybeA4JeT6xucySNte"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 287453,
+      "name": "ONE AND LAST",
+      "url": "https://open.spotify.com/track/52hEoJr9DL19p4BKGuvnfv"
+    },
+    {
+      "album": {
+        "name": "\u767d\u8272\u8709\u8763",
+        "url": "https://open.spotify.com/album/1Ik2BvP0bVrVf5HopKBPBr"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/7bQkHGtDYy1JDolcU5A3ix"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345133,
+      "name": "RE:I AM",
+      "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
+    },
+    {
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 307160,
+      "name": "Re:pray",
+      "url": "https://open.spotify.com/track/2Q6sHQtoMtNHR2GjSaAeQG"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289986,
+      "name": "Ref:rain",
+      "url": "https://open.spotify.com/track/6MNY72T605kPIOH3hnioxu"
+    },
+    {
+      "album": {
+        "name": "Resonantia",
+        "url": "https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "Resonantia",
+      "url": "https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr"
+    },
+    {
+      "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 238466,
+      "name": "rubble pile",
+      "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
+    },
+    {
+      "album": {
+        "name": "o1",
+        "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274626,
+      "name": "s-AVE",
+      "url": "https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 335973,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu"
+    },
+    {
+      "album": {
+        "name": "Open \u03b1 Door",
+        "url": "https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 213413,
+      "name": "SKYLIGHT",
+      "url": "https://open.spotify.com/track/3NnSPwwU269vl140mVcim6"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242733,
+      "name": "SPARK-AGAIN",
+      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
+    },
+    {
+      "album": {
+        "name": "SPARK-AGAIN",
+        "url": "https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 244160,
+      "name": "SPARK-AGAIN",
+      "url": "https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285826,
+      "name": "STAND-ALONE",
+      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328026,
+      "name": "StarRingChild",
+      "url": "https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu"
+    },
+    {
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 302266,
+      "name": "Stars in the rain",
+      "url": "https://open.spotify.com/track/7DimVUzanCg5lhqk9reDGd"
+    },
+    {
+      "album": {
+        "name": "\u767d\u8272\u8709\u8763",
+        "url": "https://open.spotify.com/album/1Ik2BvP0bVrVf5HopKBPBr"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "Sweet Igloo",
+      "url": "https://open.spotify.com/track/1r6vYBe2M3AuFEATuBiTi9"
+    },
+    {
+      "album": {
+        "name": "ninelie EP",
+        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Through My Blood <AM>",
+      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
+    },
+    {
+      "album": {
+        "name": "Black Bird / Tiny Dancers / Omoidewa Kireide",
+        "url": "https://open.spotify.com/album/0urhuCxFK1UeSMkZq9Awvf"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 286573,
+      "name": "Tiny Dancers",
+      "url": "https://open.spotify.com/track/6vkwkVUuV53YdabdFjlcmf"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 287186,
+      "name": "tone (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
+      "url": "https://open.spotify.com/track/3Ef3BUWsWIglIvZwkUio40"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 320613,
+      "name": "trill",
+      "url": "https://open.spotify.com/track/3gRBXntdAwfDY208lUQoP7"
+    },
+    {
+      "album": {
+        "name": "wavy flow",
+        "url": "https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 205451,
+      "name": "wavy flow",
+      "url": "https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of"
+    },
+    {
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 247853,
+      "name": "We Two",
+      "url": "https://open.spotify.com/track/2QqbVhORUcTKRJsUg0XPLO"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 303786,
+      "name": "wonderland",
+      "url": "https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss"
+    },
+    {
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 354493,
+      "name": "words",
+      "url": "https://open.spotify.com/track/0BYIoZmj58ibykXiHWRIwZ"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3066\u3082\u306a\u304f",
+        "url": "https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234586,
+      "name": "\u3042\u3066\u3082\u306a\u304f",
+      "url": "https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ"
+    },
+    {
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360480,
+      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
+      "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
+        "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188060,
+      "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
+      "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30a2\u30a4\u30b3",
+        "url": "https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234541,
+      "name": "\u30aa\u30a2\u30a4\u30b3",
+      "url": "https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4"
+    },
+    {
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "\u30ab\u30bf\u30aa\u30e2\u30a4",
+      "url": "https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301200,
+      "name": "\u30b0\u30ec\u30fc\u30b9\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6Cbj35JwbPVyBXfqtX17Jm"
+    },
+    {
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303106,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM"
+    },
+    {
+      "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315800,
+      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU"
+    },
+    {
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365093,
+      "name": "\u30dd\u30e9\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 305333,
+      "name": "\u4eca\u65e5\u304b\u3089\u601d\u3044\u51fa (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
+      "url": "https://open.spotify.com/track/7bQuUcaIrP7i4u1xYnr8xy"
+    },
+    {
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338173,
+      "name": "\u516d\u7b49\u661f\u306e\u591c",
+      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
+    },
+    {
+      "album": {
+        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350933,
+      "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+      "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
+    },
+    {
+      "album": {
+        "name": "escalate(Special Edition)",
+        "url": "https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 352226,
+      "name": "\u547d\u306b\u3075\u3055\u308f\u3057\u3044",
+      "url": "https://open.spotify.com/track/6oPxAp4sGNnWnd1BNNQp1J"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7403\u5100",
+        "url": "https://open.spotify.com/album/486yrlQRriPBlck0MpnNRA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232786,
+      "name": "\u5730\u7403\u5100",
+      "url": "https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU"
+    },
+    {
+      "album": {
+        "name": "\u5b63\u8def",
+        "url": "https://open.spotify.com/album/6j0uUaKQdWOHV48kYA8fbA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 352265,
+      "name": "\u5b63\u8def",
+      "url": "https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY"
+    },
+    {
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "\u601d\u3044\u51fa\u306f\u5947\u9e97\u3067",
+      "url": "https://open.spotify.com/track/3ei1nNNIVqST7wbZPUIjiK"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 362693,
+      "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b -rit. ver.-",
+      "url": "https://open.spotify.com/track/6RD0mL1NtGlBAGKSl4IG5T"
+    },
+    {
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252226,
+      "name": "\u661f\u5c51\u30d3\u30fc\u30ca\u30b9",
+      "url": "https://open.spotify.com/track/1CAhaSy2odeJoPIkFndCIB"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305386,
+      "name": "\u6625\u306f\u3086\u304f",
+      "url": "https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC"
+    },
+    {
+      "album": {
+        "name": "\u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294933,
+      "name": "\u671d\u304c\u6765\u308b",
+      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c / \u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 91506,
+      "name": "\u671d\u304c\u6765\u308b -TV ver.-",
+      "url": "https://open.spotify.com/track/5s5hannvVik1M04Q4PxGKw"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c / \u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "\u6b8b\u97ff\u6563\u6b4c -TV ver.-",
+      "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"
+    },
+    {
+      "album": {
+        "name": "\u767d\u8272\u8709\u8763",
+        "url": "https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191803,
+      "name": "\u767d\u8272\u8709\u8763",
+      "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3066\u3082\u306a\u304f(Special Edition)",
+        "url": "https://open.spotify.com/album/1P2CvUvnNZyisqk1tXXRZX"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-15",
+      "duration_ms": 247266,
+      "name": "\u7a7a\u566awired",
+      "url": "https://open.spotify.com/track/4KKPusiboRqGAHADHBt33g"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224266,
+      "name": "\u7cf8",
+      "url": "https://open.spotify.com/track/1Q3wFTqaH9rmVGdGj85Lsa"
+    },
+    {
+      "album": {
+        "name": "Open \u03b1 Door",
+        "url": "https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163506,
+      "name": "\u7fa4\u9752\u8272\u306e\u7a7a",
+      "url": "https://open.spotify.com/track/0XM7DcZxqlQ0Sv68FDpJTk"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
+    },
+    {
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
+    },
+    {
+      "album": {
+        "name": "BEST SELECTION \"blanc\"",
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329786,
+      "name": "\u831c\u3055\u3059",
+      "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
+    },
+    {
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305333,
+      "name": "\u8776\u3005\u7d50\u3073",
+      "url": "https://open.spotify.com/track/3HxJaKzob7tdcr4qmqfR1d"
+    },
+    {
+      "album": {
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 294146,
+      "name": "\u8ab0\u304b\u3001\u6d77\u3092\u3002",
+      "url": "https://open.spotify.com/track/0OL7OMOyaLJizoA6b9mPWa"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96"
 }

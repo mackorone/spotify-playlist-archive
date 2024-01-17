@@ -1,735 +1,781 @@
 {
-  "2021-12-25": 126536,
-  "2021-12-26": 126577,
-  "2021-12-27": 126683,
-  "2021-12-28": 126683,
-  "2021-12-29": 126740,
-  "2021-12-30": 126787,
-  "2021-12-31": 126834,
-  "2022-01-01": 126957,
-  "2022-01-02": 126976,
-  "2022-01-03": 127020,
-  "2022-01-04": 127069,
-  "2022-01-05": 127114,
-  "2022-01-06": 127175,
-  "2022-01-07": 127222,
-  "2022-01-08": 127367,
-  "2022-01-09": 127364,
-  "2022-01-10": 127441,
-  "2022-01-11": 127476,
-  "2022-01-12": 127506,
-  "2022-01-13": 127506,
-  "2022-01-14": 127506,
-  "2022-01-15": 127506,
-  "2022-01-16": 127506,
-  "2022-01-17": 127506,
-  "2022-01-18": 127506,
-  "2022-01-19": 127506,
-  "2022-01-20": 127506,
-  "2022-01-21": 127506,
-  "2022-01-22": 127506,
-  "2022-01-23": 127506,
-  "2022-01-24": 127506,
-  "2022-01-25": 127506,
-  "2022-01-26": 127506,
-  "2022-01-27": 127506,
-  "2022-01-28": 127506,
-  "2022-01-29": 127506,
-  "2022-01-30": 127506,
-  "2022-01-31": 127506,
-  "2022-02-01": 127506,
-  "2022-02-02": 127506,
-  "2022-02-03": 127506,
-  "2022-02-04": 127506,
-  "2022-02-05": 127506,
-  "2022-02-06": 127506,
-  "2022-02-07": 127506,
-  "2022-02-08": 127506,
-  "2022-02-09": 127506,
-  "2022-02-10": 127506,
-  "2022-02-11": 127506,
-  "2022-02-12": 127506,
-  "2022-02-13": 127506,
-  "2022-02-14": 127506,
-  "2022-02-15": 127506,
-  "2022-02-16": 127506,
-  "2022-02-17": 127506,
-  "2022-02-18": 127506,
-  "2022-02-19": 127506,
-  "2022-02-20": 127506,
-  "2022-02-21": 127506,
-  "2022-02-22": 127506,
-  "2022-02-23": 127506,
-  "2022-02-24": 127506,
-  "2022-02-25": 127506,
-  "2022-02-26": 127506,
-  "2022-02-27": 127506,
-  "2022-02-28": 127506,
-  "2022-03-01": 127506,
-  "2022-03-02": 127506,
-  "2022-03-03": 127506,
-  "2022-03-04": 127506,
-  "2022-03-05": 127506,
-  "2022-03-06": 127506,
-  "2022-03-07": 127506,
-  "2022-03-08": 127506,
-  "2022-03-09": 127506,
-  "2022-03-10": 127506,
-  "2022-03-11": 127506,
-  "2022-03-12": 127506,
-  "2022-03-13": 127506,
-  "2022-03-14": 127506,
-  "2022-03-15": 127506,
-  "2022-03-16": 127506,
-  "2022-03-17": 127506,
-  "2022-03-18": 127506,
-  "2022-03-19": 127506,
-  "2022-03-20": 127506,
-  "2022-03-21": 127506,
-  "2022-03-22": 127506,
-  "2022-03-23": 127506,
-  "2022-03-24": 127506,
-  "2022-03-25": 127506,
-  "2022-03-26": 127506,
-  "2022-03-27": 127506,
-  "2022-03-28": 127506,
-  "2022-03-30": 127506,
-  "2022-03-31": 127506,
-  "2022-04-01": 127506,
-  "2022-04-02": 127506,
-  "2022-04-03": 127506,
-  "2022-04-04": 127506,
-  "2022-04-05": 127506,
-  "2022-04-06": 127506,
-  "2022-04-07": 127506,
-  "2022-04-08": 127506,
-  "2022-04-09": 127506,
-  "2022-04-10": 127506,
-  "2022-04-11": 127506,
-  "2022-04-12": 127506,
-  "2022-04-13": 127506,
-  "2022-04-14": 127506,
-  "2022-04-15": 127506,
-  "2022-04-16": 127506,
-  "2022-04-17": 127506,
-  "2022-04-18": 127506,
-  "2022-04-19": 127506,
-  "2022-04-20": 127506,
-  "2022-04-21": 127506,
-  "2022-04-22": 127506,
-  "2022-04-23": 127506,
-  "2022-04-24": 127506,
-  "2022-04-25": 127506,
-  "2022-04-26": 127506,
-  "2022-04-27": 127506,
-  "2022-04-28": 127506,
-  "2022-04-29": 127506,
-  "2022-04-30": 127506,
-  "2022-05-01": 127506,
-  "2022-05-02": 127506,
-  "2022-05-03": 127506,
-  "2022-05-04": 127506,
-  "2022-05-05": 127506,
-  "2022-05-06": 127506,
-  "2022-05-07": 127506,
-  "2022-05-08": 127506,
-  "2022-05-09": 127506,
-  "2022-05-10": 127506,
-  "2022-05-11": 127506,
-  "2022-05-12": 127506,
-  "2022-05-13": 127506,
-  "2022-05-14": 127506,
-  "2022-05-15": 127506,
-  "2022-05-16": 127506,
-  "2022-05-17": 127506,
-  "2022-05-18": 127506,
-  "2022-05-19": 127506,
-  "2022-05-20": 127506,
-  "2022-05-21": 127506,
-  "2022-05-22": 127506,
-  "2022-05-23": 127506,
-  "2022-05-24": 127506,
-  "2022-05-25": 127506,
-  "2022-05-26": 127506,
-  "2022-05-27": 127506,
-  "2022-05-28": 127506,
-  "2022-05-29": 127506,
-  "2022-05-30": 127506,
-  "2022-05-31": 127506,
-  "2022-06-01": 127506,
-  "2022-06-02": 127506,
-  "2022-06-03": 127506,
-  "2022-06-04": 127506,
-  "2022-06-05": 127506,
-  "2022-06-06": 127506,
-  "2022-06-07": 127506,
-  "2022-06-08": 127506,
-  "2022-06-09": 127506,
-  "2022-06-10": 127506,
-  "2022-06-11": 127506,
-  "2022-06-12": 127506,
-  "2022-06-13": 127506,
-  "2022-06-14": 127506,
-  "2022-06-15": 127506,
-  "2022-06-16": 127506,
-  "2022-06-17": 127506,
-  "2022-06-18": 127506,
-  "2022-06-19": 127506,
-  "2022-06-20": 127506,
-  "2022-06-21": 127506,
-  "2022-06-22": 127506,
-  "2022-06-23": 127506,
-  "2022-06-24": 127506,
-  "2022-06-25": 127506,
-  "2022-06-26": 127506,
-  "2022-06-27": 127506,
-  "2022-06-28": 127506,
-  "2022-06-29": 127506,
-  "2022-06-30": 127506,
-  "2022-07-01": 127506,
-  "2022-07-02": 127506,
-  "2022-07-03": 127506,
-  "2022-07-04": 127506,
-  "2022-07-05": 127506,
-  "2022-07-06": 127506,
-  "2022-07-07": 127506,
-  "2022-07-08": 127506,
-  "2022-07-09": 127506,
-  "2022-07-10": 127506,
-  "2022-07-11": 127506,
-  "2022-07-12": 127506,
-  "2022-07-13": 127506,
-  "2022-07-14": 127506,
-  "2022-07-15": 127506,
-  "2022-07-16": 127506,
-  "2022-07-17": 127506,
-  "2022-07-18": 127506,
-  "2022-07-19": 127506,
-  "2022-07-20": 127506,
-  "2022-07-21": 127506,
-  "2022-07-22": 127506,
-  "2022-07-23": 127506,
-  "2022-07-24": 127506,
-  "2022-07-25": 127506,
-  "2022-07-26": 127506,
-  "2022-07-27": 127506,
-  "2022-07-28": 127506,
-  "2022-07-29": 127506,
-  "2022-07-30": 127506,
-  "2022-07-31": 127506,
-  "2022-08-01": 127506,
-  "2022-08-02": 127506,
-  "2022-08-03": 127506,
-  "2022-08-04": 127506,
-  "2022-08-05": 127506,
-  "2022-08-06": 127506,
-  "2022-08-07": 127506,
-  "2022-08-08": 127506,
-  "2022-08-09": 127506,
-  "2022-08-10": 127506,
-  "2022-08-11": 127506,
-  "2022-08-12": 127506,
-  "2022-08-13": 127506,
-  "2022-08-14": 127506,
-  "2022-08-15": 127506,
-  "2022-08-16": 127506,
-  "2022-08-17": 127506,
-  "2022-08-18": 127506,
-  "2022-08-19": 127506,
-  "2022-08-20": 127506,
-  "2022-08-21": 127506,
-  "2022-08-22": 127506,
-  "2022-08-23": 127506,
-  "2022-08-24": 127506,
-  "2022-08-25": 127506,
-  "2022-08-26": 127506,
-  "2022-08-27": 127506,
-  "2022-08-28": 127506,
-  "2022-08-29": 127506,
-  "2022-08-30": 127506,
-  "2022-08-31": 127506,
-  "2022-09-01": 127506,
-  "2022-09-02": 127506,
-  "2022-09-03": 127506,
-  "2022-09-04": 127506,
-  "2022-09-05": 127506,
-  "2022-09-06": 127506,
-  "2022-09-07": 127506,
-  "2022-09-09": 127506,
-  "2022-09-10": 127506,
-  "2022-09-11": 127506,
-  "2022-09-12": 127506,
-  "2022-09-13": 127506,
-  "2022-09-15": 127506,
-  "2022-09-16": 127506,
-  "2022-09-17": 127506,
-  "2022-09-18": 127506,
-  "2022-09-19": 127506,
-  "2022-09-20": 127506,
-  "2022-09-21": 127506,
-  "2022-09-22": 127506,
-  "2022-09-23": 127506,
-  "2022-09-24": 127506,
-  "2022-09-25": 127506,
-  "2022-09-26": 127506,
-  "2022-09-27": 127506,
-  "2022-09-28": 127506,
-  "2022-09-29": 127506,
-  "2022-09-30": 127506,
-  "2022-10-01": 127506,
-  "2022-10-02": 127506,
-  "2022-10-03": 127506,
-  "2022-10-04": 127506,
-  "2022-10-05": 127506,
-  "2022-10-06": 127506,
-  "2022-10-07": 127506,
-  "2022-10-08": 127506,
-  "2022-10-09": 127506,
-  "2022-10-10": 127506,
-  "2022-10-11": 127506,
-  "2022-10-12": 127506,
-  "2022-10-13": 127506,
-  "2022-10-14": 127506,
-  "2022-10-15": 127506,
-  "2022-10-16": 127506,
-  "2022-10-17": 127506,
-  "2022-10-18": 127506,
-  "2022-10-19": 127506,
-  "2022-10-20": 127506,
-  "2022-10-21": 127506,
-  "2022-10-22": 127506,
-  "2022-10-23": 127506,
-  "2022-10-24": 127506,
-  "2022-10-25": 127506,
-  "2022-10-26": 127506,
-  "2022-10-27": 127506,
-  "2022-10-28": 127506,
-  "2022-10-29": 127506,
-  "2022-10-30": 127506,
-  "2022-10-31": 127506,
-  "2022-11-01": 127506,
-  "2022-11-02": 127506,
-  "2022-11-03": 127506,
-  "2022-11-04": 127506,
-  "2022-11-05": 127506,
-  "2022-11-06": 127506,
-  "2022-11-07": 127506,
-  "2022-11-08": 127506,
-  "2022-11-09": 127506,
-  "2022-11-10": 127506,
-  "2022-11-11": 127506,
-  "2022-11-12": 127506,
-  "2022-11-13": 127506,
-  "2022-11-14": 127506,
-  "2022-11-15": 127506,
-  "2022-11-16": 127506,
-  "2022-11-17": 127506,
-  "2022-11-18": 127506,
-  "2022-11-19": 127506,
-  "2022-11-20": 127506,
-  "2022-11-21": 127506,
-  "2022-11-22": 127506,
-  "2022-11-23": 127506,
-  "2022-11-24": 127506,
-  "2022-11-25": 127506,
-  "2022-11-26": 127506,
-  "2022-11-27": 127506,
-  "2022-11-28": 127506,
-  "2022-11-29": 127506,
-  "2022-11-30": 127506,
-  "2022-12-01": 127506,
-  "2022-12-02": 127506,
-  "2022-12-03": 127506,
-  "2022-12-04": 127506,
-  "2022-12-05": 127506,
-  "2022-12-06": 127506,
-  "2022-12-07": 127506,
-  "2022-12-08": 127506,
-  "2022-12-09": 127506,
-  "2022-12-10": 127506,
-  "2022-12-11": 127506,
-  "2022-12-12": 127506,
-  "2022-12-13": 127506,
-  "2022-12-14": 127506,
-  "2022-12-15": 127506,
-  "2022-12-16": 127506,
-  "2022-12-17": 127506,
-  "2022-12-18": 127506,
-  "2022-12-19": 127506,
-  "2022-12-20": 127506,
-  "2022-12-21": 127506,
-  "2022-12-22": 127506,
-  "2022-12-24": 127506,
-  "2022-12-25": 127506,
-  "2022-12-26": 127506,
-  "2022-12-27": 127506,
-  "2022-12-28": 127506,
-  "2022-12-29": 127506,
-  "2022-12-30": 127506,
-  "2022-12-31": 127506,
-  "2023-01-01": 127506,
-  "2023-01-02": 127506,
-  "2023-01-03": 127506,
-  "2023-01-04": 127506,
-  "2023-01-05": 127506,
-  "2023-01-06": 127506,
-  "2023-01-07": 127506,
-  "2023-01-08": 127506,
-  "2023-01-09": 127506,
-  "2023-01-10": 127506,
-  "2023-01-11": 127506,
-  "2023-01-12": 127506,
-  "2023-01-13": 127506,
-  "2023-01-14": 127506,
-  "2023-01-15": 127506,
-  "2023-01-16": 127506,
-  "2023-01-17": 127506,
-  "2023-01-18": 127506,
-  "2023-01-19": 127506,
-  "2023-01-20": 127506,
-  "2023-01-21": 127506,
-  "2023-01-22": 127506,
-  "2023-01-23": 127506,
-  "2023-01-24": 127506,
-  "2023-01-25": 127506,
-  "2023-01-26": 127506,
-  "2023-01-27": 127506,
-  "2023-01-28": 127506,
-  "2023-01-29": 127506,
-  "2023-01-30": 127506,
-  "2023-01-31": 127506,
-  "2023-02-01": 127506,
-  "2023-02-02": 127506,
-  "2023-02-03": 127506,
-  "2023-02-04": 127506,
-  "2023-02-05": 127506,
-  "2023-02-06": 127506,
-  "2023-02-07": 127506,
-  "2023-02-08": 127506,
-  "2023-02-09": 127506,
-  "2023-02-10": 127506,
-  "2023-02-11": 127506,
-  "2023-02-12": 127506,
-  "2023-02-13": 127506,
-  "2023-02-14": 127506,
-  "2023-02-15": 127506,
-  "2023-02-16": 127506,
-  "2023-02-17": 127506,
-  "2023-02-18": 127506,
-  "2023-02-19": 127506,
-  "2023-02-20": 127506,
-  "2023-02-21": 127506,
-  "2023-02-22": 127506,
-  "2023-02-23": 127506,
-  "2023-02-24": 127506,
-  "2023-02-25": 127506,
-  "2023-02-26": 127506,
-  "2023-02-27": 127506,
-  "2023-02-28": 127506,
-  "2023-03-01": 127506,
-  "2023-03-02": 127506,
-  "2023-03-03": 127506,
-  "2023-03-04": 127506,
-  "2023-03-05": 127506,
-  "2023-03-06": 127506,
-  "2023-03-07": 127506,
-  "2023-03-08": 127506,
-  "2023-03-09": 127506,
-  "2023-03-10": 127506,
-  "2023-03-11": 127506,
-  "2023-03-12": 127506,
-  "2023-03-13": 127506,
-  "2023-03-14": 127506,
-  "2023-03-15": 127506,
-  "2023-03-16": 127506,
-  "2023-03-17": 127506,
-  "2023-03-18": 127506,
-  "2023-03-19": 127506,
-  "2023-03-20": 127506,
-  "2023-03-21": 127506,
-  "2023-03-22": 127506,
-  "2023-03-23": 127506,
-  "2023-03-24": 127506,
-  "2023-03-25": 127506,
-  "2023-03-26": 127506,
-  "2023-03-27": 127506,
-  "2023-03-28": 127506,
-  "2023-03-29": 127506,
-  "2023-03-30": 127506,
-  "2023-03-31": 127506,
-  "2023-04-01": 127506,
-  "2023-04-02": 127506,
-  "2023-04-03": 127506,
-  "2023-04-04": 127506,
-  "2023-04-05": 127506,
-  "2023-04-06": 127506,
-  "2023-04-07": 127506,
-  "2023-04-09": 127506,
-  "2023-04-10": 127506,
-  "2023-04-11": 127506,
-  "2023-04-12": 127506,
-  "2023-04-13": 127506,
-  "2023-04-14": 127506,
-  "2023-04-15": 127506,
-  "2023-04-16": 127506,
-  "2023-04-17": 127506,
-  "2023-04-18": 127506,
-  "2023-04-19": 127506,
-  "2023-04-20": 127506,
-  "2023-04-21": 127506,
-  "2023-04-22": 127506,
-  "2023-04-23": 127506,
-  "2023-04-24": 127506,
-  "2023-04-25": 127506,
-  "2023-04-26": 127506,
-  "2023-04-27": 127506,
-  "2023-04-28": 127506,
-  "2023-04-29": 127506,
-  "2023-04-30": 127506,
-  "2023-05-01": 127506,
-  "2023-05-02": 127506,
-  "2023-05-03": 127506,
-  "2023-05-04": 127506,
-  "2023-05-05": 127506,
-  "2023-05-06": 127506,
-  "2023-05-07": 127506,
-  "2023-05-08": 127506,
-  "2023-05-09": 127506,
-  "2023-05-10": 127506,
-  "2023-05-11": 127506,
-  "2023-05-12": 127506,
-  "2023-05-13": 127506,
-  "2023-05-14": 127506,
-  "2023-05-15": 127506,
-  "2023-05-16": 127506,
-  "2023-05-17": 127506,
-  "2023-05-18": 127506,
-  "2023-05-19": 127506,
-  "2023-05-20": 127506,
-  "2023-05-21": 127506,
-  "2023-05-22": 127506,
-  "2023-05-23": 127506,
-  "2023-05-24": 127506,
-  "2023-05-25": 127506,
-  "2023-05-26": 127506,
-  "2023-05-27": 127506,
-  "2023-05-28": 127506,
-  "2023-05-29": 127506,
-  "2023-05-30": 127506,
-  "2023-05-31": 127506,
-  "2023-06-01": 127506,
-  "2023-06-02": 127506,
-  "2023-06-03": 127506,
-  "2023-06-04": 127506,
-  "2023-06-05": 127506,
-  "2023-06-06": 127506,
-  "2023-06-07": 127506,
-  "2023-06-08": 127506,
-  "2023-06-09": 127506,
-  "2023-06-10": 127506,
-  "2023-06-11": 127506,
-  "2023-06-12": 127506,
-  "2023-06-13": 127506,
-  "2023-06-14": 127506,
-  "2023-06-15": 127506,
-  "2023-06-16": 127506,
-  "2023-06-17": 127506,
-  "2023-06-18": 127506,
-  "2023-06-19": 127506,
-  "2023-06-20": 127506,
-  "2023-06-21": 127506,
-  "2023-06-22": 127506,
-  "2023-06-23": 127506,
-  "2023-06-24": 127506,
-  "2023-06-25": 127506,
-  "2023-06-26": 127506,
-  "2023-06-27": 127506,
-  "2023-06-28": 127506,
-  "2023-06-29": 127506,
-  "2023-06-30": 127506,
-  "2023-07-01": 127506,
-  "2023-07-02": 127506,
-  "2023-07-03": 127506,
-  "2023-07-04": 127506,
-  "2023-07-05": 127506,
-  "2023-07-06": 127506,
-  "2023-07-07": 127506,
-  "2023-07-08": 127506,
-  "2023-07-09": 127506,
-  "2023-07-10": 127506,
-  "2023-07-11": 127506,
-  "2023-07-12": 127506,
-  "2023-07-13": 127506,
-  "2023-07-14": 127506,
-  "2023-07-15": 127506,
-  "2023-07-16": 127506,
-  "2023-07-17": 127506,
-  "2023-07-18": 127506,
-  "2023-07-19": 127506,
-  "2023-07-20": 127506,
-  "2023-07-21": 127506,
-  "2023-07-22": 127506,
-  "2023-07-23": 127506,
-  "2023-07-24": 127506,
-  "2023-07-25": 127506,
-  "2023-07-26": 127506,
-  "2023-07-27": 127506,
-  "2023-07-28": 127506,
-  "2023-07-29": 127506,
-  "2023-07-30": 127506,
-  "2023-07-31": 127506,
-  "2023-08-01": 127506,
-  "2023-08-02": 127506,
-  "2023-08-03": 127506,
-  "2023-08-04": 127506,
-  "2023-08-05": 127506,
-  "2023-08-06": 127506,
-  "2023-08-07": 127506,
-  "2023-08-08": 127506,
-  "2023-08-09": 127506,
-  "2023-08-10": 127506,
-  "2023-08-11": 127506,
-  "2023-08-12": 127506,
-  "2023-08-13": 127506,
-  "2023-08-14": 127506,
-  "2023-08-15": 127506,
-  "2023-08-16": 127506,
-  "2023-08-17": 127506,
-  "2023-08-18": 127506,
-  "2023-08-19": 127506,
-  "2023-08-20": 127506,
-  "2023-08-21": 127506,
-  "2023-08-22": 127506,
-  "2023-08-23": 127506,
-  "2023-08-24": 127506,
-  "2023-08-25": 127506,
-  "2023-08-26": 127506,
-  "2023-08-27": 127506,
-  "2023-08-28": 127506,
-  "2023-08-29": 127506,
-  "2023-08-30": 127506,
-  "2023-08-31": 127506,
-  "2023-09-01": 127506,
-  "2023-09-02": 127506,
-  "2023-09-03": 127506,
-  "2023-09-04": 127506,
-  "2023-09-05": 127506,
-  "2023-09-06": 127506,
-  "2023-09-07": 127506,
-  "2023-09-08": 127506,
-  "2023-09-09": 127506,
-  "2023-09-10": 127506,
-  "2023-09-11": 127506,
-  "2023-09-12": 127506,
-  "2023-09-13": 127506,
-  "2023-09-14": 127506,
-  "2023-09-15": 127506,
-  "2023-09-16": 127506,
-  "2023-09-17": 127506,
-  "2023-09-18": 127506,
-  "2023-09-19": 127506,
-  "2023-09-20": 127506,
-  "2023-09-21": 127506,
-  "2023-09-22": 127506,
-  "2023-09-23": 127506,
-  "2023-09-24": 127506,
-  "2023-09-25": 127506,
-  "2023-09-26": 127506,
-  "2023-09-27": 127506,
-  "2023-09-28": 127506,
-  "2023-09-29": 127506,
-  "2023-09-30": 127506,
-  "2023-10-01": 127506,
-  "2023-10-02": 127506,
-  "2023-10-03": 127506,
-  "2023-10-04": 127506,
-  "2023-10-05": 127506,
-  "2023-10-06": 127506,
-  "2023-10-07": 127506,
-  "2023-10-08": 127506,
-  "2023-10-09": 127506,
-  "2023-10-10": 127506,
-  "2023-10-11": 127506,
-  "2023-10-12": 127506,
-  "2023-10-13": 127506,
-  "2023-10-14": 127506,
-  "2023-10-15": 127506,
-  "2023-10-16": 127506,
-  "2023-10-17": 127506,
-  "2023-10-18": 127506,
-  "2023-10-19": 127506,
-  "2023-10-20": 127506,
-  "2023-10-21": 127506,
-  "2023-10-22": 127506,
-  "2023-10-23": 127506,
-  "2023-10-24": 127506,
-  "2023-10-25": 127506,
-  "2023-10-26": 127506,
-  "2023-10-27": 127506,
-  "2023-10-28": 127506,
-  "2023-10-29": 127506,
-  "2023-10-30": 127506,
-  "2023-10-31": 127506,
-  "2023-11-01": 127506,
-  "2023-11-02": 127506,
-  "2023-11-03": 127506,
-  "2023-11-04": 127506,
-  "2023-11-05": 127506,
-  "2023-11-06": 127506,
-  "2023-11-07": 127506,
-  "2023-11-08": 127506,
-  "2023-11-09": 127506,
-  "2023-11-10": 127506,
-  "2023-11-11": 127506,
-  "2023-11-12": 127506,
-  "2023-11-13": 127506,
-  "2023-11-14": 127506,
-  "2023-11-15": 127506,
-  "2023-11-16": 127506,
-  "2023-11-17": 127506,
-  "2023-11-18": 127506,
-  "2023-11-19": 127506,
-  "2023-11-20": 127506,
-  "2023-11-21": 127506,
-  "2023-11-22": 127506,
-  "2023-11-23": 127506,
-  "2023-11-24": 127506,
-  "2023-11-25": 127506,
-  "2023-11-26": 127506,
-  "2023-11-27": 127506,
-  "2023-11-28": 127506,
-  "2023-11-29": 127506,
-  "2023-11-30": 127506,
-  "2023-12-01": 127506,
-  "2023-12-02": 127506,
-  "2023-12-03": 127506,
-  "2023-12-04": 127506,
-  "2023-12-05": 127506,
-  "2023-12-06": 127506,
-  "2023-12-07": 127506,
-  "2023-12-08": 127506,
-  "2023-12-09": 127506,
-  "2023-12-10": 127506,
-  "2023-12-11": 127506,
-  "2023-12-12": 127506,
-  "2023-12-13": 127506,
-  "2023-12-14": 127506,
-  "2023-12-15": 127506,
-  "2023-12-16": 127506,
-  "2023-12-17": 127506,
-  "2023-12-18": 127506,
-  "2023-12-19": 127506,
-  "2023-12-20": 127506,
-  "2023-12-21": 127506,
-  "2023-12-22": 127506,
-  "2023-12-23": 127506,
-  "2023-12-24": 127506,
-  "2023-12-25": 127506,
-  "2023-12-26": 127506,
-  "2023-12-27": 127506,
-  "2023-12-30": 127506,
-  "2023-12-31": 127506,
-  "2024-01-01": 127506,
-  "2024-01-02": 127506,
-  "2024-01-03": 127506
+  "2024-01-17": 127506,
+  "date_first_scraped": "2021-12-21",
+  "description": "An essential list of classics from one of the great singer-songwriters of our time.",
+  "name": "This Is Paul Simon",
+  "tracks": [
+    {
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+    },
+    {
+      "album": {
+        "name": "Songs From The Capeman",
+        "url": "https://open.spotify.com/album/0MAkP3PbzMzNquRefQe1mn"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282280,
+      "name": "Adios Hermanos",
+      "url": "https://open.spotify.com/track/3Gue10uJZi9DGU5UKUE1BG"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
+    },
+    {
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225466,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/0eNteO8FNau7L9jrGDavrC"
+    },
+    {
+      "album": {
+        "name": "The Rhythm Of The Saints",
+        "url": "https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230226,
+      "name": "Born at the Right Time (Original Acoustic Demo) - Bonus Track",
+      "url": "https://open.spotify.com/track/09f7w8W30zPHY5e48omn4K"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293120,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "album": {
+        "name": "In the Blue Light",
+        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209213,
+      "name": "Can't Run But",
+      "url": "https://open.spotify.com/track/0bRshP34vAHgzgFfz5DjOp"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "album": {
+        "name": "Cool Papa Bell",
+        "url": "https://open.spotify.com/album/21U5gYhetp2HTOspuxbbJ3"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242613,
+      "name": "Cool Papa Bell",
+      "url": "https://open.spotify.com/track/1ORr03rg0VShJQGNatKSfL"
+    },
+    {
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349280,
+      "name": "Diamonds on the Soles of Her Shoes",
+      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
+    },
+    {
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283133,
+      "name": "Duncan",
+      "url": "https://open.spotify.com/track/2SgNoPUi4SOUNmp2Y7SNQj"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "El Condor Pasa (If I Could)",
+      "url": "https://open.spotify.com/track/1eN42Q7IWRzRBq8eW2Y2TE"
+    },
+    {
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Phoebe Snow",
+          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
+        },
+        {
+          "name": "The Jessy Dixon Singers",
+          "url": "https://open.spotify.com/artist/1uWYxhgi6aDRAlCCL0MHI7"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "Gone at Last (with Phoebe Snow & The Jessy Dixon Singers)",
+      "url": "https://open.spotify.com/track/3Oi8bgcQzG8qM4uZhMsGrC"
+    },
+    {
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291200,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
+    },
+    {
+      "album": {
+        "name": "Hearts And Bones",
+        "url": "https://open.spotify.com/album/6OuZ6jmIIVb7K7tdEVThkG"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339293,
+      "name": "Hearts and Bones",
+      "url": "https://open.spotify.com/track/6WEEA3pDQVogiNND0jRfoJ"
+    },
+    {
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/5dqFVDJ9lPRBCqEzufd8sF"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/03VXrViYqJpdhuBEV0p0ak"
+    },
+    {
+      "album": {
+        "name": "One-Trick Pony",
+        "url": "https://open.spotify.com/album/5Be2SD7NA17AVhzq3elNVX"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "How the Heart Approaches What It Yearns",
+      "url": "https://open.spotify.com/track/2xUgEzjkFNM6EUbp2gVh5E"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169520,
+      "name": "I Am a Rock",
+      "url": "https://open.spotify.com/track/0byOqNZN9ailhoORv5Ps0Z"
+    },
+    {
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "General M.D.Shirinda",
+          "url": "https://open.spotify.com/artist/3cOiQ23Zwbq4gIXuJzszTo"
+        },
+        {
+          "name": "The Gaza Sisters",
+          "url": "https://open.spotify.com/artist/0W7SKlJUIteiwrg1x7evYd"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "I Know What I Know (with General M.D.Shirinda & The Gaza Sisters)",
+      "url": "https://open.spotify.com/track/1jBbbJQfOKyBsJNVng8eIy"
+    },
+    {
+      "album": {
+        "name": "The Paul Simon Songbook",
+        "url": "https://open.spotify.com/album/33wIA16ZMEUGgKQTdQl9Mv"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Kathy's Song",
+      "url": "https://open.spotify.com/track/3omDcdGnhE6eqd6ZyMhHWZ"
+    },
+    {
+      "album": {
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Kodachrome",
+      "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
+    },
+    {
+      "album": {
+        "name": "One-Trick Pony",
+        "url": "https://open.spotify.com/album/5Be2SD7NA17AVhzq3elNVX"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242706,
+      "name": "Late in the Evening",
+      "url": "https://open.spotify.com/track/2h23bjG8B3bcD47HBu6bHG"
+    },
+    {
+      "album": {
+        "name": "So Beautiful or So What",
+        "url": "https://open.spotify.com/album/46MJtyvpieCwQ4U6R5wNmw"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249480,
+      "name": "Love And Hard Times",
+      "url": "https://open.spotify.com/track/23rJDAe2pzvydRAo3HA7Hg"
+    },
+    {
+      "album": {
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Loves Me Like a Rock (Acoustic Demo)",
+      "url": "https://open.spotify.com/track/4wPruKNCFiWl2QsnFV9OE1"
+    },
+    {
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "album": {
+        "name": "Live In New York City",
+        "url": "https://open.spotify.com/album/4Scv3lrqPGBbpjjVPaDG4B"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "Mother And Child Reunion - Live",
+      "url": "https://open.spotify.com/track/69DgMbLQjRPFmtxGOsv7Ih"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+    },
+    {
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231946,
+      "name": "My Little Town",
+      "url": "https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q"
+    },
+    {
+      "album": {
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/6hAeuQcfliTvBvDigIkLK6"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "One Man's Ceiling Is Another Man's Floor",
+      "url": "https://open.spotify.com/track/6s97K63OdsY1zMxn1sn8Jn"
+    },
+    {
+      "album": {
+        "name": "So Beautiful or So What",
+        "url": "https://open.spotify.com/album/46MJtyvpieCwQ4U6R5wNmw"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229906,
+      "name": "Questions For The Angels",
+      "url": "https://open.spotify.com/track/3n5QA0bO5dhFHo4PgulpZy"
+    },
+    {
+      "album": {
+        "name": "Ren\u00e9 and Georgette Magritte with Their Dog After the War",
+        "url": "https://open.spotify.com/album/2weQT0dE680bxk5bNILpkP"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283920,
+      "name": "Ren\u00e9 and Georgette Magritte with Their Dog After the War",
+      "url": "https://open.spotify.com/track/2jtr8WwzhtZUiFla58txN5"
+    },
+    {
+      "album": {
+        "name": "The Concert in Central Park (Live)",
+        "url": "https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231560,
+      "name": "Scarborough Fair - Live at Central Park, New York, NY - September 19, 1981",
+      "url": "https://open.spotify.com/track/4e41Kd7WsZ0CfomJihS3GE"
+    },
+    {
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285053,
+      "name": "Slip Slidin' Away",
+      "url": "https://open.spotify.com/track/0zb2kpEQMnqJPiLACKMiFM"
+    },
+    {
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Still Crazy After All These Years",
+      "url": "https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB"
+    },
+    {
+      "album": {
+        "name": "Paul Simon's Concert In The Park August 15, 1991",
+        "url": "https://open.spotify.com/album/7kral5EDkcgaMvJEf4qCVs"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258986,
+      "name": "The Boxer - Live at Central Park, New York, NY - August 15, 1991",
+      "url": "https://open.spotify.com/track/3MUHmdHaQSQ79hnmJRk5uk"
+    },
+    {
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239693,
+      "name": "The Boy In the Bubble",
+      "url": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM"
+    },
+    {
+      "album": {
+        "name": "The Rhythm Of The Saints",
+        "url": "https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304826,
+      "name": "The Coast",
+      "url": "https://open.spotify.com/track/3rbhipSZ0E0mUfyZjiRjXJ"
+    },
+    {
+      "album": {
+        "name": "The Rhythm Of The Saints",
+        "url": "https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250226,
+      "name": "The Obvious Child",
+      "url": "https://open.spotify.com/track/1deWgqhgAzI6dY35TbKKh7"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "album": {
+        "name": "The Graduate",
+        "url": "https://open.spotify.com/album/6aimJxDJMApLmry2VSjsLT"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "The Sound of Silence",
+      "url": "https://open.spotify.com/track/2LkaNhCrNVmcYgXJeLVmsw"
+    },
+    {
+      "album": {
+        "name": "Stranger To Stranger",
+        "url": "https://open.spotify.com/album/6g8P3Zy5bmBmpRAUTN5USZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "Wristband",
+      "url": "https://open.spotify.com/track/40W7bPr6lxDVbm9bKO2JxJ"
+    },
+    {
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXEb535ZGeRC"
 }

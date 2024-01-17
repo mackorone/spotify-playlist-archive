@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,933 likes - 60 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,821 likes - 60 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 |
 | 60 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 |
 
-Snapshot ID: `MCw4ZDYyNjhmYTVjYTQxYThlMmUwYTYzMzJmYWI3ZjNlOGI1ZGNjZTA4`
+Snapshot ID: `MCxlOTc4NDQxYzgyYmZmZjE5YzBmODc3YWQwNmQ5N2RjOTg3YzAwN2Ni`

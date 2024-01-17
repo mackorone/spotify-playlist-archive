@@ -1,599 +1,987 @@
 {
-  "2022-05-11": 675,
-  "2022-05-12": 783,
-  "2022-05-13": 875,
-  "2022-05-14": 978,
-  "2022-05-15": 1088,
-  "2022-05-16": 1201,
-  "2022-05-17": 1325,
-  "2022-05-18": 1426,
-  "2022-05-19": 1532,
-  "2022-05-20": 1657,
-  "2022-05-21": 1861,
-  "2022-05-22": 1861,
-  "2022-05-23": 1995,
-  "2022-05-24": 2119,
-  "2022-05-25": 2228,
-  "2022-05-26": 2337,
-  "2022-05-27": 2454,
-  "2022-05-28": 2551,
-  "2022-05-29": 2673,
-  "2022-05-30": 2797,
-  "2022-05-31": 2925,
-  "2022-06-01": 3128,
-  "2022-06-02": 3153,
-  "2022-06-03": 3259,
-  "2022-06-04": 3394,
-  "2022-06-05": 3510,
-  "2022-06-06": 3666,
-  "2022-06-07": 3781,
-  "2022-06-08": 3927,
-  "2022-06-09": 4010,
-  "2022-06-10": 4149,
-  "2022-06-11": 4282,
-  "2022-06-12": 4418,
-  "2022-06-13": 4591,
-  "2022-06-14": 4714,
-  "2022-06-15": 4831,
-  "2022-06-16": 4948,
-  "2022-06-17": 5101,
-  "2022-06-18": 5240,
-  "2022-06-19": 5541,
-  "2022-06-20": 5541,
-  "2022-06-21": 5676,
-  "2022-06-22": 5986,
-  "2022-06-23": 5986,
-  "2022-06-24": 6139,
-  "2022-06-25": 6396,
-  "2022-06-26": 6667,
-  "2022-06-27": 6935,
-  "2022-06-28": 7238,
-  "2022-06-29": 7508,
-  "2022-06-30": 7771,
-  "2022-07-01": 8049,
-  "2022-07-02": 8355,
-  "2022-07-03": 8674,
-  "2022-07-04": 9001,
-  "2022-07-05": 9261,
-  "2022-07-06": 9480,
-  "2022-07-07": 9734,
-  "2022-07-08": 10011,
-  "2022-07-09": 10247,
-  "2022-07-10": 10555,
-  "2022-07-11": 10835,
-  "2022-07-12": 11070,
-  "2022-07-13": 11276,
-  "2022-07-14": 11480,
-  "2022-07-15": 11702,
-  "2022-07-16": 11970,
-  "2022-07-17": 12223,
-  "2022-07-18": 12544,
-  "2022-07-19": 12840,
-  "2022-07-20": 13099,
-  "2022-07-21": 13365,
-  "2022-07-22": 13593,
-  "2022-07-23": 13825,
-  "2022-07-24": 14118,
-  "2022-07-25": 14417,
-  "2022-07-26": 14648,
-  "2022-07-27": 14832,
-  "2022-07-28": 15033,
-  "2022-07-29": 15221,
-  "2022-07-30": 15566,
-  "2022-07-31": 15566,
-  "2022-08-01": 15737,
-  "2022-08-02": 16039,
-  "2022-08-03": 16039,
-  "2022-08-04": 16197,
-  "2022-08-05": 16348,
-  "2022-08-06": 16488,
-  "2022-08-07": 16668,
-  "2022-08-08": 16819,
-  "2022-08-09": 16972,
-  "2022-08-10": 17163,
-  "2022-08-11": 17359,
-  "2022-08-12": 17547,
-  "2022-08-13": 17745,
-  "2022-08-14": 17950,
-  "2022-08-15": 18185,
-  "2022-08-16": 18453,
-  "2022-08-17": 18714,
-  "2022-08-18": 18928,
-  "2022-08-19": 19144,
-  "2022-08-20": 19341,
-  "2022-08-21": 19564,
-  "2022-08-22": 19782,
-  "2022-08-23": 19995,
-  "2022-08-24": 20129,
-  "2022-08-25": 20306,
-  "2022-08-26": 20466,
-  "2022-08-27": 20623,
-  "2022-08-28": 20786,
-  "2022-08-29": 20965,
-  "2022-08-30": 21124,
-  "2022-08-31": 21265,
-  "2022-09-01": 21393,
-  "2022-09-02": 21518,
-  "2022-09-03": 21682,
-  "2022-09-04": 21912,
-  "2022-09-05": 22190,
-  "2022-09-06": 22376,
-  "2022-09-07": 22590,
-  "2022-09-09": 22979,
-  "2022-09-10": 23202,
-  "2022-09-11": 23426,
-  "2022-09-12": 23656,
-  "2022-09-13": 23828,
-  "2022-09-15": 24148,
-  "2022-09-16": 24288,
-  "2022-09-17": 24438,
-  "2022-09-18": 24608,
-  "2022-09-19": 24750,
-  "2022-09-20": 24886,
-  "2022-09-21": 25027,
-  "2022-09-22": 25143,
-  "2022-09-23": 25243,
-  "2022-09-24": 25373,
-  "2022-09-25": 25552,
-  "2022-09-26": 25690,
-  "2022-09-27": 25818,
-  "2022-09-28": 25941,
-  "2022-09-29": 26070,
-  "2022-09-30": 26191,
-  "2022-10-01": 26329,
-  "2022-10-02": 26441,
-  "2022-10-03": 26562,
-  "2022-10-04": 26663,
-  "2022-10-05": 26769,
-  "2022-10-06": 26884,
-  "2022-10-07": 26988,
-  "2022-10-08": 27102,
-  "2022-10-09": 27329,
-  "2022-10-10": 27370,
-  "2022-10-11": 27482,
-  "2022-10-12": 27573,
-  "2022-10-13": 27678,
-  "2022-10-14": 27793,
-  "2022-10-15": 27916,
-  "2022-10-16": 28047,
-  "2022-10-17": 28164,
-  "2022-10-18": 28234,
-  "2022-10-19": 28328,
-  "2022-10-20": 28427,
-  "2022-10-21": 28499,
-  "2022-10-22": 28613,
-  "2022-10-23": 28737,
-  "2022-10-24": 28843,
-  "2022-10-25": 28927,
-  "2022-10-26": 29021,
-  "2022-10-27": 29101,
-  "2022-10-28": 29183,
-  "2022-10-29": 29255,
-  "2022-10-30": 29375,
-  "2022-10-31": 29488,
-  "2022-11-01": 29563,
-  "2022-11-02": 29647,
-  "2022-11-03": 29745,
-  "2022-11-04": 29845,
-  "2022-11-05": 29944,
-  "2022-11-06": 30061,
-  "2022-11-07": 30152,
-  "2022-11-08": 30237,
-  "2022-11-09": 30371,
-  "2022-11-10": 30525,
-  "2022-11-11": 30680,
-  "2022-11-12": 30854,
-  "2022-11-13": 30991,
-  "2022-11-14": 31165,
-  "2022-11-15": 31314,
-  "2022-11-16": 31500,
-  "2022-11-17": 31683,
-  "2022-11-18": 31720,
-  "2022-11-19": 31695,
-  "2022-11-20": 31753,
-  "2022-11-21": 31887,
-  "2022-11-22": 32087,
-  "2022-11-23": 32281,
-  "2022-11-24": 32549,
-  "2022-11-25": 32856,
-  "2022-11-26": 33092,
-  "2022-11-27": 33274,
-  "2022-11-28": 33459,
-  "2022-11-29": 33587,
-  "2022-11-30": 33709,
-  "2022-12-01": 33878,
-  "2022-12-02": 34009,
-  "2022-12-03": 34114,
-  "2022-12-04": 34317,
-  "2022-12-05": 34492,
-  "2022-12-06": 34684,
-  "2022-12-07": 34817,
-  "2022-12-08": 34959,
-  "2022-12-09": 35100,
-  "2022-12-10": 35229,
-  "2022-12-11": 35372,
-  "2022-12-12": 35517,
-  "2022-12-13": 35611,
-  "2022-12-14": 35716,
-  "2022-12-15": 35828,
-  "2022-12-16": 35932,
-  "2022-12-17": 36065,
-  "2022-12-18": 36196,
-  "2022-12-19": 36335,
-  "2022-12-20": 36584,
-  "2022-12-21": 36584,
-  "2022-12-22": 36729,
-  "2022-12-24": 36982,
-  "2022-12-25": 37139,
-  "2022-12-26": 37319,
-  "2022-12-27": 37472,
-  "2022-12-28": 37606,
-  "2022-12-29": 37746,
-  "2022-12-30": 37869,
-  "2022-12-31": 37980,
-  "2023-01-01": 38107,
-  "2023-01-02": 38223,
-  "2023-01-03": 38330,
-  "2023-01-04": 38431,
-  "2023-01-05": 38552,
-  "2023-01-06": 38685,
-  "2023-01-07": 38877,
-  "2023-01-08": 38928,
-  "2023-01-09": 39080,
-  "2023-01-10": 39197,
-  "2023-01-11": 39306,
-  "2023-01-12": 39421,
-  "2023-01-13": 39546,
-  "2023-01-14": 40139,
-  "2023-01-15": 40232,
-  "2023-01-16": 40461,
-  "2023-01-17": 40657,
-  "2023-01-18": 40824,
-  "2023-01-19": 41017,
-  "2023-01-20": 41190,
-  "2023-01-21": 41368,
-  "2023-01-22": 41573,
-  "2023-01-23": 41743,
-  "2023-01-24": 41899,
-  "2023-01-25": 42056,
-  "2023-01-26": 42210,
-  "2023-01-27": 42359,
-  "2023-01-28": 42494,
-  "2023-01-29": 42636,
-  "2023-01-30": 42781,
-  "2023-01-31": 42781,
-  "2023-02-01": 43040,
-  "2023-02-02": 43149,
-  "2023-02-03": 43272,
-  "2023-02-04": 43391,
-  "2023-02-05": 43550,
-  "2023-02-06": 43688,
-  "2023-02-07": 43809,
-  "2023-02-08": 44078,
-  "2023-02-09": 44078,
-  "2023-02-10": 44240,
-  "2023-02-11": 44394,
-  "2023-02-12": 44757,
-  "2023-02-13": 44909,
-  "2023-02-14": 44909,
-  "2023-02-15": 45096,
-  "2023-02-16": 45237,
-  "2023-02-17": 45377,
-  "2023-02-18": 45700,
-  "2023-02-19": 45731,
-  "2023-02-20": 45816,
-  "2023-02-21": 45939,
-  "2023-02-22": 46089,
-  "2023-02-23": 46211,
-  "2023-02-24": 46313,
-  "2023-02-25": 46486,
-  "2023-02-26": 46582,
-  "2023-02-27": 46808,
-  "2023-02-28": 46808,
-  "2023-03-01": 46927,
-  "2023-03-02": 47023,
-  "2023-03-03": 47159,
-  "2023-03-04": 47285,
-  "2023-03-05": 47579,
-  "2023-03-06": 47579,
-  "2023-03-07": 47688,
-  "2023-03-08": 47767,
-  "2023-03-09": 47893,
-  "2023-03-10": 48005,
-  "2023-03-11": 48144,
-  "2023-03-12": 48298,
-  "2023-03-13": 48435,
-  "2023-03-14": 48565,
-  "2023-03-15": 48665,
-  "2023-03-16": 48772,
-  "2023-03-17": 48772,
-  "2023-03-18": 48997,
-  "2023-03-19": 49133,
-  "2023-03-20": 49284,
-  "2023-03-21": 49404,
-  "2023-03-22": 49527,
-  "2023-03-23": 49647,
-  "2023-03-24": 49647,
-  "2023-03-25": 49870,
-  "2023-03-26": 49995,
-  "2023-03-27": 50100,
-  "2023-03-28": 50170,
-  "2023-03-29": 50294,
-  "2023-03-30": 50455,
-  "2023-03-31": 50455,
-  "2023-04-01": 50551,
-  "2023-04-02": 50664,
-  "2023-04-03": 50754,
-  "2023-04-04": 50823,
-  "2023-04-05": 50886,
-  "2023-04-06": 50991,
-  "2023-04-07": 51095,
-  "2023-04-09": 51279,
-  "2023-04-10": 51379,
-  "2023-04-11": 51501,
-  "2023-04-12": 51501,
-  "2023-04-13": 51597,
-  "2023-04-14": 51684,
-  "2023-04-15": 51780,
-  "2023-04-16": 51899,
-  "2023-04-17": 51979,
-  "2023-04-18": 52060,
-  "2023-04-19": 52174,
-  "2023-04-20": 52256,
-  "2023-04-21": 52353,
-  "2023-04-22": 52458,
-  "2023-04-23": 52551,
-  "2023-04-24": 52648,
-  "2023-04-25": 52716,
-  "2023-04-26": 52797,
-  "2023-04-27": 52878,
-  "2023-04-28": 52982,
-  "2023-04-29": 53067,
-  "2023-04-30": 53154,
-  "2023-05-01": 53263,
-  "2023-05-02": 53360,
-  "2023-05-03": 53445,
-  "2023-05-04": 53509,
-  "2023-05-05": 53592,
-  "2023-05-06": 53686,
-  "2023-05-07": 53804,
-  "2023-05-08": 53939,
-  "2023-05-09": 54028,
-  "2023-05-10": 54112,
-  "2023-05-11": 54189,
-  "2023-05-12": 54275,
-  "2023-05-13": 54351,
-  "2023-05-14": 54455,
-  "2023-05-15": 54578,
-  "2023-05-16": 54658,
-  "2023-05-17": 54752,
-  "2023-05-18": 54837,
-  "2023-05-19": 54933,
-  "2023-05-20": 55127,
-  "2023-05-21": 55127,
-  "2023-05-22": 55127,
-  "2023-05-23": 55320,
-  "2023-05-24": 55445,
-  "2023-05-25": 55471,
-  "2023-05-26": 55550,
-  "2023-05-27": 55629,
-  "2023-05-28": 55718,
-  "2023-05-29": 55718,
-  "2023-05-30": 55923,
-  "2023-05-31": 56018,
-  "2023-06-01": 56134,
-  "2023-06-02": 56240,
-  "2023-06-03": 56338,
-  "2023-06-04": 56459,
-  "2023-06-05": 56573,
-  "2023-06-06": 56679,
-  "2023-06-07": 56753,
-  "2023-06-08": 56846,
-  "2023-06-09": 56935,
-  "2023-06-10": 57027,
-  "2023-06-11": 57127,
-  "2023-06-12": 57217,
-  "2023-06-13": 57300,
-  "2023-06-14": 57388,
-  "2023-06-15": 57465,
-  "2023-06-16": 57542,
-  "2023-06-17": 57638,
-  "2023-06-18": 57730,
-  "2023-06-19": 57798,
-  "2023-06-20": 57866,
-  "2023-06-21": 57948,
-  "2023-06-22": 58024,
-  "2023-06-23": 58101,
-  "2023-06-24": 58215,
-  "2023-06-25": 58320,
-  "2023-06-26": 58422,
-  "2023-06-27": 58524,
-  "2023-06-28": 58608,
-  "2023-06-29": 58708,
-  "2023-06-30": 58816,
-  "2023-07-01": 58998,
-  "2023-07-02": 58998,
-  "2023-07-03": 59092,
-  "2023-07-04": 59153,
-  "2023-07-05": 59237,
-  "2023-07-06": 59400,
-  "2023-07-07": 59400,
-  "2023-07-08": 59467,
-  "2023-07-09": 59554,
-  "2023-07-10": 59643,
-  "2023-07-11": 59739,
-  "2023-07-12": 59832,
-  "2023-07-13": 59916,
-  "2023-07-14": 60010,
-  "2023-07-15": 60089,
-  "2023-07-16": 60199,
-  "2023-07-17": 60287,
-  "2023-07-18": 60385,
-  "2023-07-19": 60481,
-  "2023-07-20": 60571,
-  "2023-07-21": 60634,
-  "2023-07-22": 60730,
-  "2023-07-23": 60822,
-  "2023-07-24": 60901,
-  "2023-07-25": 60991,
-  "2023-07-26": 61066,
-  "2023-07-27": 61152,
-  "2023-07-28": 61245,
-  "2023-07-29": 61346,
-  "2023-07-30": 61458,
-  "2023-07-31": 61564,
-  "2023-08-01": 61642,
-  "2023-08-02": 61708,
-  "2023-08-03": 61791,
-  "2023-08-04": 61875,
-  "2023-08-05": 61988,
-  "2023-08-06": 62200,
-  "2023-08-07": 62200,
-  "2023-08-08": 62290,
-  "2023-08-09": 62398,
-  "2023-08-10": 62491,
-  "2023-08-11": 62593,
-  "2023-08-12": 62702,
-  "2023-08-13": 62795,
-  "2023-08-14": 62925,
-  "2023-08-15": 63155,
-  "2023-08-16": 63155,
-  "2023-08-17": 63280,
-  "2023-08-18": 63398,
-  "2023-08-19": 63513,
-  "2023-08-20": 63622,
-  "2023-08-21": 63757,
-  "2023-08-22": 63857,
-  "2023-08-23": 63955,
-  "2023-08-24": 64070,
-  "2023-08-25": 64140,
-  "2023-08-26": 64230,
-  "2023-08-27": 64347,
-  "2023-08-28": 64446,
-  "2023-08-29": 64536,
-  "2023-08-30": 64619,
-  "2023-08-31": 64693,
-  "2023-09-01": 64884,
-  "2023-09-02": 64884,
-  "2023-09-03": 64963,
-  "2023-09-04": 65053,
-  "2023-09-05": 65141,
-  "2023-09-06": 65217,
-  "2023-09-07": 65308,
-  "2023-09-08": 65392,
-  "2023-09-09": 65472,
-  "2023-09-10": 65578,
-  "2023-09-11": 65691,
-  "2023-09-12": 65764,
-  "2023-09-13": 65875,
-  "2023-09-14": 65985,
-  "2023-09-15": 66072,
-  "2023-09-16": 66180,
-  "2023-09-17": 66287,
-  "2023-09-18": 66406,
-  "2023-09-19": 66503,
-  "2023-09-20": 66589,
-  "2023-09-21": 66670,
-  "2023-09-22": 66767,
-  "2023-09-23": 66864,
-  "2023-09-24": 67013,
-  "2023-09-25": 67103,
-  "2023-09-26": 67225,
-  "2023-09-27": 67313,
-  "2023-09-28": 67395,
-  "2023-09-29": 67467,
-  "2023-09-30": 67569,
-  "2023-10-01": 67664,
-  "2023-10-02": 67749,
-  "2023-10-03": 67851,
-  "2023-10-04": 67912,
-  "2023-10-05": 67993,
-  "2023-10-06": 68065,
-  "2023-10-07": 68156,
-  "2023-10-08": 68275,
-  "2023-10-09": 68374,
-  "2023-10-10": 68492,
-  "2023-10-11": 68671,
-  "2023-10-12": 68671,
-  "2023-10-13": 68784,
-  "2023-10-14": 68873,
-  "2023-10-15": 68974,
-  "2023-10-16": 69070,
-  "2023-10-17": 69126,
-  "2023-10-18": 69168,
-  "2023-10-19": 69208,
-  "2023-10-20": 69271,
-  "2023-10-21": 69340,
-  "2023-10-22": 69403,
-  "2023-10-23": 69453,
-  "2023-10-24": 69513,
-  "2023-10-25": 69557,
-  "2023-10-26": 69618,
-  "2023-10-27": 69675,
-  "2023-10-28": 69737,
-  "2023-10-29": 69785,
-  "2023-10-30": 69897,
-  "2023-10-31": 69897,
-  "2023-11-01": 69954,
-  "2023-11-02": 69992,
-  "2023-11-03": 70049,
-  "2023-11-04": 70109,
-  "2023-11-05": 70158,
-  "2023-11-06": 70227,
-  "2023-11-07": 70265,
-  "2023-11-08": 70321,
-  "2023-11-09": 70382,
-  "2023-11-10": 70424,
-  "2023-11-11": 70480,
-  "2023-11-12": 70538,
-  "2023-11-13": 70602,
-  "2023-11-14": 70646,
-  "2023-11-15": 70646,
-  "2023-11-16": 70752,
-  "2023-11-17": 70859,
-  "2023-11-18": 70859,
-  "2023-11-19": 70932,
-  "2023-11-20": 70991,
-  "2023-11-21": 71037,
-  "2023-11-22": 71088,
-  "2023-11-23": 71138,
-  "2023-11-24": 71210,
-  "2023-11-25": 71245,
-  "2023-11-26": 71280,
-  "2023-11-27": 71351,
-  "2023-11-28": 71387,
-  "2023-11-29": 71485,
-  "2023-11-30": 71485,
-  "2023-12-01": 71530,
-  "2023-12-02": 71585,
-  "2023-12-03": 71631,
-  "2023-12-04": 71651,
-  "2023-12-05": 71671,
-  "2023-12-06": 71697,
-  "2023-12-07": 71719,
-  "2023-12-08": 71775,
-  "2023-12-09": 71823,
-  "2023-12-10": 71870,
-  "2023-12-11": 71919,
-  "2023-12-12": 71980,
-  "2023-12-13": 72028,
-  "2023-12-14": 72093,
-  "2023-12-15": 72119,
-  "2023-12-16": 72156,
-  "2023-12-17": 72218,
-  "2023-12-18": 72259,
-  "2023-12-19": 72298,
-  "2023-12-20": 72339,
-  "2023-12-21": 72381,
-  "2023-12-22": 72414,
-  "2023-12-23": 72474,
-  "2023-12-24": 72516,
-  "2023-12-25": 72585,
-  "2023-12-26": 72645,
-  "2023-12-27": 72718,
-  "2023-12-30": 72894,
-  "2023-12-31": 72952,
-  "2024-01-01": 73035,
-  "2024-01-02": 73089,
-  "2024-01-03": 73149
+  "2024-01-17": 74103,
+  "date_first_scraped": "2022-05-11",
+  "description": "Elvis Presley's most romantic songs. ",
+  "name": "Love Me Tender",
+  "tracks": [
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106626,
+      "name": "(Let Me Be Your) Teddy Bear",
+      "url": "https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127093,
+      "name": "(Marie's The Name) His Latest Flame",
+      "url": "https://open.spotify.com/track/4qbLOU1T7xgTH87eUSkvJ1"
+    },
+    {
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218440,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
+    },
+    {
+      "album": {
+        "name": "Today (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219066,
+      "name": "And I Love You So",
+      "url": "https://open.spotify.com/track/62p6cgUc0cdguS1DttbfKU"
+    },
+    {
+      "album": {
+        "name": "Platinum - A Life In Music",
+        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Are You Lonesome Tonight?",
+      "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
+    },
+    {
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
+    },
+    {
+      "album": {
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
+    },
+    {
+      "album": {
+        "name": "Elvis Ultimate Gospel",
+        "url": "https://open.spotify.com/album/6IsYeEEmFve5FbJ4um36S0"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143026,
+      "name": "Crying In the Chapel",
+      "url": "https://open.spotify.com/track/0DIvlGtdeLS51h7gnud6Zw"
+    },
+    {
+      "album": {
+        "name": "Elvis: Hound Dog & Other Hits",
+        "url": "https://open.spotify.com/album/3B6LFPHllN9PdGlMY93BRB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 143360,
+      "name": "Crying In the Chapel",
+      "url": "https://open.spotify.com/track/2f0Ecc2xim1koaWNpbKP9a"
+    },
+    {
+      "album": {
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145400,
+      "name": "Crying In the Chapel",
+      "url": "https://open.spotify.com/track/2inb1KNU2bGIkldLsuDb83"
+    },
+    {
+      "album": {
+        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
+        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168786,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4fgMsJGLDqy4HsJFRgaVNG"
+    },
+    {
+      "album": {
+        "name": "Elvis Is Back",
+        "url": "https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212920,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/73m8WuJlhzVusTVzJCGaDZ"
+    },
+    {
+      "album": {
+        "name": "Raised On Rock",
+        "url": "https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216840,
+      "name": "For Ol' Times Sake",
+      "url": "https://open.spotify.com/track/7DSUykao1FtU4vfFReDsfd"
+    },
+    {
+      "album": {
+        "name": "Something for Everybody",
+        "url": "https://open.spotify.com/album/5Yl2lNCQ5wkCdN0S8VOCdE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136266,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/0CZ15AP1m1lWcRz8fMuYfr"
+    },
+    {
+      "album": {
+        "name": "From Nashville To Memphis - The Essential 60s Masters I",
+        "url": "https://open.spotify.com/album/2NQk9PwXk5xL8UPOdEvBVr"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 136426,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/6nF0b857H9o6tVBNfvhtoq"
+    },
+    {
+      "album": {
+        "name": "Something for Everybody",
+        "url": "https://open.spotify.com/album/6u6eZbYYXcTDqAQDfaSrYz"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 136533,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/4n82SDV6FJ7sN8dEMXmfC7"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150613,
+      "name": "Have I Told You Lately That I Love You",
+      "url": "https://open.spotify.com/track/788AeYEaCvfFmuIHhb64Wn"
+    },
+    {
+      "album": {
+        "name": "From Elvis Presley Boulevard, Memphis, Tennessee",
+        "url": "https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127453,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/4ugBXQVxTzKLmdCRL7yRRa"
+    },
+    {
+      "album": {
+        "name": "Elvis: Close Up",
+        "url": "https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "I Can't Stop Loving You - Live at Convention Center Arena, San Antonio, TX - April 18, 1972",
+      "url": "https://open.spotify.com/track/27UvL4m5Si1QmlXdBIEaVt"
+    },
+    {
+      "album": {
+        "name": "The 50 Greatest Love Songs",
+        "url": "https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159400,
+      "name": "I Want You, I Need You, I Love You",
+      "url": "https://open.spotify.com/track/4deyhQZYJOuZBxv0kEGDQg"
+    },
+    {
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159920,
+      "name": "I Want You, I Need You, I Love You",
+      "url": "https://open.spotify.com/track/60tEaPHRJLnMzbyOPTeh3A"
+    },
+    {
+      "album": {
+        "name": "Elvis 2nd To None",
+        "url": "https://open.spotify.com/album/0p8PgHjOZJ6MrbHUXQ8ENM"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160933,
+      "name": "I Want You, I Need You, I Love You",
+      "url": "https://open.spotify.com/track/5NjPoMOauLidNMnHIVeE9C"
+    },
+    {
+      "album": {
+        "name": "From Elvis Presley Boulevard, Memphis, Tennessee",
+        "url": "https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "I'll Never Fall In Love Again",
+      "url": "https://open.spotify.com/track/4yT5usLhavd4mzP14LSiPU"
+    },
+    {
+      "album": {
+        "name": "Spinout",
+        "url": "https://open.spotify.com/album/3ZxrkkUoGwgAJHxtsmYi8M"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165053,
+      "name": "I'll Remember You",
+      "url": "https://open.spotify.com/track/4yt0DRCLWr1608bGXGcD5u"
+    },
+    {
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "It's Midnight",
+      "url": "https://open.spotify.com/track/4pKfihh0OKoOfxirI6gmXR"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194600,
+      "name": "It's Now or Never",
+      "url": "https://open.spotify.com/track/6p8LNHMqJiUMjPXy4rnO5H"
+    },
+    {
+      "album": {
+        "name": "From Elvis in Memphis",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Kentucky Rain",
+      "url": "https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX"
+    },
+    {
+      "album": {
+        "name": "The 50 Greatest Love Songs",
+        "url": "https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169600,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/4WrhD1kIZOmicPXHVSxbwC"
+    },
+    {
+      "album": {
+        "name": "Love Letters from Elvis",
+        "url": "https://open.spotify.com/album/3kf5iEHqvuKch85eAvWrGO"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171066,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/70VGbJWNkb6xZyjgR3GpQP"
+    },
+    {
+      "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163786,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2DQ5r0crvortwaNRYcninK"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Love Me Tender",
+      "url": "https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
+    },
+    {
+      "album": {
+        "name": "The Complete '68 Comeback Special- The 40th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3V9kEPY93tqrMkTksmgrXH"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198400,
+      "name": "Memories - Live",
+      "url": "https://open.spotify.com/track/6OiKLQ2SuDpzmuHpBuoCOa"
+    },
+    {
+      "album": {
+        "name": "NBC-TV Special (Live)",
+        "url": "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200353,
+      "name": "Memories - Live from the '68 Comeback Special",
+      "url": "https://open.spotify.com/track/7rksaFFjea7QqvEXIluPAd"
+    },
+    {
+      "album": {
+        "name": "'68 Comeback Special (50th Anniversary Edition) [Live]",
+        "url": "https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192880,
+      "name": "Memories - Second 'Sit-Down' Show - Live",
+      "url": "https://open.spotify.com/track/64Boppd2W5mvNChiQDKZiV"
+    },
+    {
+      "album": {
+        "name": "'68 Comeback Special (50th Anniversary Edition) [Live]",
+        "url": "https://open.spotify.com/album/62CwfDeiM9t81FaFHebuUm"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Memories - Stereo Mix",
+      "url": "https://open.spotify.com/track/6jGzInaZ1QyKLNw61an9y5"
+    },
+    {
+      "album": {
+        "name": "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
+        "url": "https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/3nwxwYSwdFvyLngepyPxOZ"
+    },
+    {
+      "album": {
+        "name": "G.I. Blues",
+        "url": "https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Pocketful of Rainbows",
+      "url": "https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2"
+    },
+    {
+      "album": {
+        "name": "Elvis At Stax",
+        "url": "https://open.spotify.com/album/3EHxFLhmgSGEBmJ7tFXwRz"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201546,
+      "name": "She Wears My Ring",
+      "url": "https://open.spotify.com/track/74qkAezgb0SxD5IWUC7vF5"
+    },
+    {
+      "album": {
+        "name": "The 50 Greatest Love Songs",
+        "url": "https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141840,
+      "name": "Spanish Eyes",
+      "url": "https://open.spotify.com/track/154uez7TUERGpe27JXTegC"
+    },
+    {
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/0bVlE6dhJEsCzCX2CWrOCw"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142933,
+      "name": "Spanish Eyes",
+      "url": "https://open.spotify.com/track/5ZKZ4wJsIRBCnVJAMXDJ94"
+    },
+    {
+      "album": {
+        "name": "If I Can Dream: The Very Best of Elvis",
+        "url": "https://open.spotify.com/album/4nzoWPErEEVrZhTb13Rm7W"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 112000,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5D1uqXklYtlkIDO1qxmQgA"
+    },
+    {
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112226,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/1aECQTfv5SO42lU4fvrdJJ"
+    },
+    {
+      "album": {
+        "name": "The 50 Greatest Love Songs",
+        "url": "https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111120,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4CLKOf0qczUKV4FzLYICra"
+    },
+    {
+      "album": {
+        "name": "From Nashville To Memphis - The Essential 60s Masters I",
+        "url": "https://open.spotify.com/album/2NQk9PwXk5xL8UPOdEvBVr"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 112106,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/1GOZfb8VxBgx5xUyvUqhMq"
+    },
+    {
+      "album": {
+        "name": "The 50 Greatest Love Songs",
+        "url": "https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177800,
+      "name": "There Goes My Everything",
+      "url": "https://open.spotify.com/track/0BUPl8PH68Vjqp6WxQNRvD"
+    },
+    {
+      "album": {
+        "name": "Walk a Mile in My Shoes: The Essential '70s Masters",
+        "url": "https://open.spotify.com/album/5mzwE7oF97fP2vxdtgf6HH"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179840,
+      "name": "There Goes My Everything",
+      "url": "https://open.spotify.com/track/6UJVzjoGFszWqIZHmgDIFa"
+    },
+    {
+      "album": {
+        "name": "Elvis Country",
+        "url": "https://open.spotify.com/album/5nFIESxbIeBxoREzNMzzbN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Imperials Quartet",
+          "url": "https://open.spotify.com/artist/1B1WOhGxd1FFRPVlnUAcOu"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190040,
+      "name": "There Goes My Everything",
+      "url": "https://open.spotify.com/track/0LoDU83vAUpVxYfJvyxxRc"
+    },
+    {
+      "album": {
+        "name": "The 50 Greatest Love Songs",
+        "url": "https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149973,
+      "name": "Unchained Melody - Live",
+      "url": "https://open.spotify.com/track/7KDppbMlsEkqdcO4G0vW6U"
+    },
+    {
+      "album": {
+        "name": "Elvis: Hound Dog & Other Hits",
+        "url": "https://open.spotify.com/album/3B6LFPHllN9PdGlMY93BRB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 151413,
+      "name": "Unchained Melody - Live at Ann Arbor, MI",
+      "url": "https://open.spotify.com/track/20ecDYYEt63gvOXOEC50IZ"
+    },
+    {
+      "album": {
+        "name": "Moody Blue",
+        "url": "https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151906,
+      "name": "Unchained Melody - Live at Ann Arbor, MI",
+      "url": "https://open.spotify.com/track/0OavtQSojULqejmC4Qbstr"
+    },
+    {
+      "album": {
+        "name": "Clambake",
+        "url": "https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149960,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/1EOsMbGG8ej3tTDQ735Ch7"
+    },
+    {
+      "album": {
+        "name": "That's the Way It Is",
+        "url": "https://open.spotify.com/album/5Daouulcid6tWztS39KWhc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264293,
+      "name": "You've Lost That Loving Feeling - Live at The International Hotel, Las Vegas",
+      "url": "https://open.spotify.com/track/3Kb4kr3DGzzU5OtYqycWvE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTyQKmHU6FcW"
 }

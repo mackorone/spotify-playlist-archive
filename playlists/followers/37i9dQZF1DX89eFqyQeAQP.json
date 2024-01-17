@@ -1,93 +1,775 @@
 {
-  "2023-10-03": 73,
-  "2023-10-04": 604,
-  "2023-10-05": 856,
-  "2023-10-06": 1003,
-  "2023-10-07": 1178,
-  "2023-10-08": 1679,
-  "2023-10-09": 2168,
-  "2023-10-10": 2313,
-  "2023-10-11": 2506,
-  "2023-10-12": 2506,
-  "2023-10-13": 2612,
-  "2023-10-14": 2724,
-  "2023-10-15": 2833,
-  "2023-10-16": 2931,
-  "2023-10-17": 3019,
-  "2023-10-18": 3107,
-  "2023-10-19": 4538,
-  "2023-10-20": 5587,
-  "2023-10-21": 6388,
-  "2023-10-22": 7199,
-  "2023-10-23": 7841,
-  "2023-10-24": 8223,
-  "2023-10-25": 8423,
-  "2023-10-26": 8572,
-  "2023-10-27": 8676,
-  "2023-10-28": 8676,
-  "2023-10-29": 8909,
-  "2023-10-30": 9138,
-  "2023-10-31": 9138,
-  "2023-11-01": 9233,
-  "2023-11-02": 9311,
-  "2023-11-03": 9418,
-  "2023-11-04": 9517,
-  "2023-11-05": 9605,
-  "2023-11-06": 9696,
-  "2023-11-07": 9783,
-  "2023-11-08": 9882,
-  "2023-11-09": 10300,
-  "2023-11-10": 10524,
-  "2023-11-11": 10708,
-  "2023-11-12": 10877,
-  "2023-11-13": 11055,
-  "2023-11-14": 11258,
-  "2023-11-15": 11258,
-  "2023-11-16": 11747,
-  "2023-11-17": 12321,
-  "2023-11-18": 12321,
-  "2023-11-19": 12528,
-  "2023-11-20": 12718,
-  "2023-11-21": 12853,
-  "2023-11-22": 13010,
-  "2023-11-23": 13145,
-  "2023-11-24": 13145,
-  "2023-11-25": 13400,
-  "2023-11-26": 13549,
-  "2023-11-27": 13679,
-  "2023-11-28": 13844,
-  "2023-11-29": 14083,
-  "2023-11-30": 14083,
-  "2023-12-01": 14221,
-  "2023-12-02": 14347,
-  "2023-12-03": 14527,
-  "2023-12-04": 14646,
-  "2023-12-05": 14761,
-  "2023-12-06": 14881,
-  "2023-12-07": 14996,
-  "2023-12-08": 15132,
-  "2023-12-09": 15275,
-  "2023-12-10": 15457,
-  "2023-12-11": 15658,
-  "2023-12-12": 15835,
-  "2023-12-13": 15968,
-  "2023-12-14": 16150,
-  "2023-12-15": 16242,
-  "2023-12-16": 16340,
-  "2023-12-17": 16454,
-  "2023-12-18": 16587,
-  "2023-12-19": 16676,
-  "2023-12-20": 16793,
-  "2023-12-21": 16894,
-  "2023-12-22": 16985,
-  "2023-12-23": 17086,
-  "2023-12-24": 17197,
-  "2023-12-25": 17302,
-  "2023-12-26": 17435,
-  "2023-12-27": 17541,
-  "2023-12-30": 17874,
-  "2023-12-31": 18004,
-  "2024-01-01": 18112,
-  "2024-01-02": 18232,
-  "2024-01-03": 18340
+  "2024-01-17": 20117,
+  "date_first_scraped": "2023-10-03",
+  "description": "Enjoy the IVE Seoul concert LIVE SET including the voices of them on stage! (\uc544\uc774\ube0c\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c \uc11c\uc6b8 \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "IVE WORLD TOUR [SHOW WHAT i HAVE]",
+  "tracks": [
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47147,
+      "name": "About Off The Record",
+      "url": "https://open.spotify.com/track/2OPkLh78F6Jse8zqJQlFwC"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32030,
+      "name": "About Shine With Me",
+      "url": "https://open.spotify.com/track/0CZGnjP0XR8t8k2Wg3j1UD"
+    },
+    {
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 172400,
+      "name": "After LIKE - Holiday Remix",
+      "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
+    },
+    {
+      "album": {
+        "name": "Blue & Black",
+        "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
+      },
+      "artists": [
+        {
+          "name": "HYOJUNG",
+          "url": "https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk"
+        },
+        {
+          "name": "ARIN",
+          "url": "https://open.spotify.com/artist/48xUzGT4qYI9vdnVCJZpmw"
+        },
+        {
+          "name": "JANGWONYOUNG",
+          "url": "https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw"
+        },
+        {
+          "name": "LEESEO",
+          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
+        },
+        {
+          "name": "SERIM",
+          "url": "https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO"
+        },
+        {
+          "name": "JUNGMO",
+          "url": "https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 201346,
+      "name": "Blue & Black",
+      "url": "https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167546,
+      "name": "Blue Blood",
+      "url": "https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194680,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/3cw6T3OEgqLiqEDLDQPSnE"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9409,
+      "name": "DIVE, Stay with us!",
+      "url": "https://open.spotify.com/track/2YnUq2uz6uypJevTYK34Tp"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22222,
+      "name": "DIVE, We need your voice!",
+      "url": "https://open.spotify.com/track/2wc7gbH4meLlaTNv6lFSB0"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13880,
+      "name": "DIVE, You are shining",
+      "url": "https://open.spotify.com/track/3dZEGZsoEizlBcMya5MuFo"
+    },
+    {
+      "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+    },
+    {
+      "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "album": {
+        "name": "ELEVEN -Japanese version-",
+        "url": "https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 180093,
+      "name": "ELEVEN -Japanese version-",
+      "url": "https://open.spotify.com/track/3bXYYgpCaYZBud2fB3I4ex"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46312,
+      "name": "Encore and OTT",
+      "url": "https://open.spotify.com/track/6kUTcKayJq0zkz1UzhJjBT"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7674,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/1efO2YCZnXNxviUE2Fh5HO"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171466,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
+    },
+    {
+      "album": {
+        "name": "I WANT",
+        "url": "https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "I WANT",
+      "url": "https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe"
+    },
+    {
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "album": {
+        "name": "LOVE DIVE -Japanese version-",
+        "url": "https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 177200,
+      "name": "LOVE DIVE -Japanese version-",
+      "url": "https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/2wsRZURBbDbaQUuVT9piu1"
+    },
+    {
+      "album": {
+        "name": "Move Like This (Feat. YUNA KIM)",
+        "url": "https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "ANYUJIN (IVE)",
+          "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
+        },
+        {
+          "name": "YUNA KIM",
+          "url": "https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 196106,
+      "name": "Move Like This (Feat. YUNA KIM)",
+      "url": "https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d"
+    },
+    {
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "My Satisfaction",
+      "url": "https://open.spotify.com/track/3Owz3vrIE44Hvt0sLsfwHI"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "NOT YOUR GIRL",
+      "url": "https://open.spotify.com/track/05aq7OhxdoLiUKOigmiqcj"
+    },
+    {
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Off The Record",
+      "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
+    },
+    {
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157186,
+      "name": "OTT",
+      "url": "https://open.spotify.com/track/0ANTnEM0En14CMHPxs0MZj"
+    },
+    {
+      "album": {
+        "name": "ELEVEN -Japanese version-",
+        "url": "https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 145320,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q"
+    },
+    {
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206226,
+      "name": "ROYAL",
+      "url": "https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224746,
+      "name": "Shine With Me",
+      "url": "https://open.spotify.com/track/3L7pilDxJhZz1fP6t4D9P9"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' audio liners",
+        "url": "https://open.spotify.com/album/6uRx10gQsZLicCXIQSnfYE"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 20750,
+      "name": "Special Message from ANYUJIN & GAEUL",
+      "url": "https://open.spotify.com/track/4AUoxg1vZ58g3zszXQmEbg"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' audio liners",
+        "url": "https://open.spotify.com/album/6uRx10gQsZLicCXIQSnfYE"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 21500,
+      "name": "Special Message from JANGWONYOUNG & LEESEO",
+      "url": "https://open.spotify.com/track/3OaRK05xLLKSDXDmP3hAjh"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' audio liners",
+        "url": "https://open.spotify.com/album/6uRx10gQsZLicCXIQSnfYE"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 25000,
+      "name": "Special Message from LIZ & REI",
+      "url": "https://open.spotify.com/track/3SNVpUJeIHDgrr0KgwDbLo"
+    },
+    {
+      "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 204973,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/70EfheCNy3zOrcT2meMQ1g"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6673,
+      "name": "Until we meet again, this was IVE!",
+      "url": "https://open.spotify.com/track/6hd6gGXiv3IaaB4LEGnFBi"
+    },
+    {
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 175893,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67000,
+      "name": "WELCOME TO 'SHOW WHAT i HAVE'",
+      "url": "https://open.spotify.com/track/4mZ5fyd8RraYjJ2S1S670a"
+    },
+    {
+      "album": {
+        "name": "IVE WORLD TOUR 'SHOW WHAT I HAVE' Live Experience Set audio liners",
+        "url": "https://open.spotify.com/album/5DHxyvCOmz0AntmCxeHRBW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17917,
+      "name": "What's After Kitsch",
+      "url": "https://open.spotify.com/track/2PAdCWh7r4Sx4CXXauISu7"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199226,
+      "name": "\uad81\uae08\ud574 (Next Page)",
+      "url": "https://open.spotify.com/track/5vYsQareJoW2jRJjiTFo6K"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "\uc12c\ucc1f (Hypnosis)",
+      "url": "https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX89eFqyQeAQP"
 }

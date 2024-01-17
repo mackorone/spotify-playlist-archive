@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "<a href=\"https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3?si=vZTYiE8JQ-qPyy0ERszIyg\"> Marwan Pablo </a> : \u0627\u0633\u0645\u0639\u0648\u0627 \u0627\u0644\u0645\u064a\u0644\u0648\u062f\u064a\u0632 \u0639\u0644\u0649 \u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646. \u063a\u0644\u0627\u0641\n\n\n",
+  "description": "<a href=\"https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9?si=Pb48qvpcQXyihE4cOGp6Xg\"> Lege-Cy </a> : \u0627\u062c\u0645\u062f \u0627\u0644\u062a\u0631\u0627\u0643\u0627\u062a \u0643\u0644\u0647\u0627 \u0639\u0644\u0649 \u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646 \u063a\u0644\u0627\u0641 \n\n\n",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -1020,10 +1020,32 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 149373,
       "name": "De Bruyne",
       "url": "https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL"
+    },
+    {
+      "album": {
+        "name": "Manchester City",
+        "url": "https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "De Bruyne",
+      "url": "https://open.spotify.com/track/6qK6hM0N1zVfdoUMc1xJnx"
     },
     {
       "album": {
@@ -1405,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187373,
+      "name": "Fel Galeed",
+      "url": "https://open.spotify.com/track/66AGXOI1NENOCWVGuERCqa"
+    },
+    {
+      "album": {
         "name": "Dawama",
         "url": "https://open.spotify.com/album/3afugJgjarUyVMCfeRxjxn"
       },
@@ -1659,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "Manchester City",
+        "url": "https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139279,
+      "name": "Guardiola",
+      "url": "https://open.spotify.com/track/29YCDHtUuXgOLUvmQnoKE0"
+    },
+    {
+      "album": {
         "name": "Ha3",
         "url": "https://open.spotify.com/album/7kNRMUfT3gSybpSVTdE31r"
       },
@@ -1692,10 +1750,28 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 231690,
       "name": "Haaland",
       "url": "https://open.spotify.com/track/2ZP3tRbY6NrdVlTiaEgX8L"
+    },
+    {
+      "album": {
+        "name": "Manchester City",
+        "url": "https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 231690,
+      "name": "Haaland",
+      "url": "https://open.spotify.com/track/2soVy9jLOXdXPW8OFNzzrj"
     },
     {
       "album": {
@@ -3026,10 +3102,28 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 168000,
       "name": "Msh True",
       "url": "https://open.spotify.com/track/4e9CodHmD7W5Yh4pPo3rBH"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Msh True",
+      "url": "https://open.spotify.com/track/77HrEBy6qY1rRPrUw9OlzZ"
     },
     {
       "album": {
@@ -3828,7 +3922,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 209433,
       "name": "Ta2reban",
       "url": "https://open.spotify.com/track/7lkjvLhf2PH1fa5cv54tJR"
@@ -3872,6 +3966,28 @@
       "duration_ms": 208027,
       "name": "Talata Zayaha",
       "url": "https://open.spotify.com/track/48M1XgdOGc3Pti50SfgW0U"
+    },
+    {
+      "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/3JPrrTh4yG6WZBXXYa6Wsy"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "7a7a",
+          "url": "https://open.spotify.com/artist/5yhMmeUQ0NZn1WuW0sbD5s"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Tarab",
+      "url": "https://open.spotify.com/track/709KYvIszGGKs4vjmWzAPq"
     },
     {
       "album": {
@@ -3962,7 +4078,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 228857,
       "name": "Tripod",
       "url": "https://open.spotify.com/track/1MLqccNxmrlLeG2R5cBAeH"
@@ -3984,6 +4100,24 @@
       "duration_ms": 228857,
       "name": "Tripod",
       "url": "https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228857,
+      "name": "Tripod",
+      "url": "https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE"
     },
     {
       "album": {
@@ -4294,7 +4428,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 186214,
       "name": "YAL BENT YAL AMWAL",
       "url": "https://open.spotify.com/track/4FhiS0mcyUsUlmErYI3Wus"
@@ -4620,7 +4754,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 139279,
       "name": "\u062c\u0648\u0627\u0631\u062f\u064a\u0648\u0644\u0627",
       "url": "https://open.spotify.com/track/265EaF8gBPOsbvZKqi0LDv"
@@ -4736,6 +4870,28 @@
       "duration_ms": 197250,
       "name": "\u0633\u062d\u0645\u062f",
       "url": "https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt"
+    },
+    {
+      "album": {
+        "name": "\u0633\u062e\u0646\u062a",
+        "url": "https://open.spotify.com/album/5BkD4tMCI2qfFecCXRvtO3"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "\u0633\u062e\u0646\u062a",
+      "url": "https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t"
     },
     {
       "album": {

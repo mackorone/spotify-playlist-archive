@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Funk favorites from 2023\. Cover: Kossisko \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,970 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,017 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 21 | [We Are The Party](https://open.spotify.com/track/4hQWcL2ABDLDSL3SCAJMNg) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [We Are The Party](https://open.spotify.com/album/3bNYdxoL97jRVZrGmWEDwZ) | 4:13 |
 | 22 | [Thumpahlenah \- Radio Edit](https://open.spotify.com/track/01prSP4l0I3Gf1WCfC9jTI) | [Nik West](https://open.spotify.com/artist/5yrmwjhscVmbinBG3hx86i), [Larry Graham](https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2) | [Thumpahlenah \(Radio Edit\)](https://open.spotify.com/album/2VbzGgntgJu0oHLGHOjq3E) | 3:22 |
 | 23 | [Shake It Out](https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Shake It Out](https://open.spotify.com/album/2TfFms1xPm0PB8JoQu9Ciq) | 3:45 |
-| 24 | [Good Love](https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78) | 4:49 |
+| 24 | [Good Love](https://open.spotify.com/track/0Tz0QSj60jGd6liWezWmEW) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/3BwkJpkYkCYNBlW2TNFu1w) | 4:49 |
 | 25 | [Stanky Funk \- feat\. Bootie Brown](https://open.spotify.com/track/3zdE6X6hdKyth9TTDTEpcn) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Stanky Funk \(feat\. Bootie Brown\)](https://open.spotify.com/album/0YgrdiYSwvpcWg6RPmqlHk) | 4:05 |
 | 26 | [Ice & Fire](https://open.spotify.com/track/0oSnZ9njfG4lHaVamNX3EH) | [King Canyon](https://open.spotify.com/artist/78mhiIF6AMT9bmfDp1P9NV), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Mike Chiavaro](https://open.spotify.com/artist/3Yfht77kZkV1rYQKs5OSfN), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [King Canyon](https://open.spotify.com/album/2jl3jU5FnJmFIdIktJYMrf) | 4:04 |
 | 27 | [Scorpio](https://open.spotify.com/track/6gD4AWNqv0ek0YV6CZRmDk) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Gustavo Celis](https://open.spotify.com/artist/3QfafF1S7GGMIsVilQ9Z9q) | [Scorpio](https://open.spotify.com/album/3A7vRQIuCJeQRey5PMvC5m) | 2:52 |

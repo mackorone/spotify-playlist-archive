@@ -508,6 +508,24 @@
     {
       "album": {
         "name": "Fa\u00feir",
+        "url": "https://open.spotify.com/album/4aDpCHnObQX885vEPJwCYP"
+      },
+      "artists": [
+        {
+          "name": "Forndom",
+          "url": "https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340133,
+      "name": "Hemkomst",
+      "url": "https://open.spotify.com/track/1VtAhBhiXduSG6b3ibvcKG"
+    },
+    {
+      "album": {
+        "name": "Fa\u00feir",
         "url": "https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC"
       },
       "artists": [
@@ -518,7 +536,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 340133,
       "name": "Hemkomst",
       "url": "https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln"
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 255000,
       "name": "Yggdrasil",
       "url": "https://open.spotify.com/track/27nlXliCG4tYCox6Ov9p40"
@@ -2142,6 +2160,24 @@
       "duration_ms": 255000,
       "name": "Yggdrasil",
       "url": "https://open.spotify.com/track/557wTI8uo48D59Caf2iM2I"
+    },
+    {
+      "album": {
+        "name": "Fa\u00feir",
+        "url": "https://open.spotify.com/album/4aDpCHnObQX885vEPJwCYP"
+      },
+      "artists": [
+        {
+          "name": "Forndom",
+          "url": "https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Yggdrasil",
+      "url": "https://open.spotify.com/track/6JJGu31qvtkU9sQcyouXXN"
     },
     {
       "album": {

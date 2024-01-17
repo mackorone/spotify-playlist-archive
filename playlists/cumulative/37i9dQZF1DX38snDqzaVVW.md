@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-174 songs - 15 hr 4 min
+175 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Tezeta](https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 5:45 | 2021-10-21 |  |
 | [The Beloved](https://open.spotify.com/track/08s7ZI5hDNwKqxAjHwR8QX) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/4HvKu6dInngrggvpHDUdEH) | 4:51 | 2021-10-21 | 2022-04-01 |
 | [The Beloved](https://open.spotify.com/track/0QmRDEXxnZXID8Nmw4x1Ft) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/1pJxc3mr13IvtcT40cSZXN) | 4:51 | 2022-10-06 | 2023-11-04 |
-| [The Beloved](https://open.spotify.com/track/68Joa2fqSoneTbPYlWCxqJ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/27glTwiq8qJBryD9w4SUdP) | 4:51 | 2023-04-17 |  |
+| [The Beloved](https://open.spotify.com/track/3ph7rjQcmF5vtqyzoc1NrH) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/4eKk8QRsQ9LMLO1vEzi4j8) | 4:51 | 2023-04-17 |  |
+| [The Beloved](https://open.spotify.com/track/68Joa2fqSoneTbPYlWCxqJ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/27glTwiq8qJBryD9w4SUdP) | 4:51 | 2023-04-17 | 2024-01-11 |
 | [Tu Kuja Man Kuja](https://open.spotify.com/track/0iPhgN8JFxBqpCkbIlgNcn) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Ya Hayyo Ya Qayyum, Vol\. 54](https://open.spotify.com/album/4Lsw8VQzpNtQQHdgvOM9Cs) | 16:16 | 2022-04-18 | 2022-10-07 |
 | [Tu Kuja Man Kuja](https://open.spotify.com/track/3WSK1HxK9xemGBsjxpu9QO) | [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz) | [Tu Kuja Man Kuja \- Single](https://open.spotify.com/album/3kpgqllrcQnioEnUeSvhhZ) | 11:48 | 2022-03-31 | 2022-04-18 |
 | [Twelve](https://open.spotify.com/track/3fr2NOC3yBbxVM4KcqJBcK) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Twelve](https://open.spotify.com/album/1AFZIJkmFj6Di2wYT8hThy) | 2:48 | 2023-03-06 | 2023-03-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbz4oNHFacRG.md) - [plain]
 
 > Listen to music from and inspired by Marvel's Spider\-Man game franchise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,994 likes - 67 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,607 likes - 67 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

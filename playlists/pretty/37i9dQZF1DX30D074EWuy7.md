@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una speciale selezione jazz natalizia! 🎄 A cura di <a href="spotify:artist:2qW0CNnmvdEQwiabdareHi">Paolo Fresu</a>! 🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,499 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,483 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

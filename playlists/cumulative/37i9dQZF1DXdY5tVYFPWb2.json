@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": "2024-01-15",
       "duration_ms": 228733,
       "name": "ASH feat. Vaundy",
       "url": "https://open.spotify.com/track/0BOr48Q9eVUuOKIQ5oZzqO"
@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 205241,
       "name": "DND",
       "url": "https://open.spotify.com/track/4dmyhFotHSwyVsKCbvekEU"
@@ -2423,6 +2423,32 @@
     },
     {
       "album": {
+        "name": "ENJOY THE RIDE",
+        "url": "https://open.spotify.com/album/7IbyAfAKOMdzWQXLMTkMFP"
+      },
+      "artists": [
+        {
+          "name": "FRONTIER BACKYARD",
+          "url": "https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy"
+        },
+        {
+          "name": "Neil and Iraiza",
+          "url": "https://open.spotify.com/artist/6rAA6xJe1O2ubeZj6xIB2y"
+        },
+        {
+          "name": "ALL STARS",
+          "url": "https://open.spotify.com/artist/1bNTB1MJpFa6LauIlZCInr"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "ENJOY THE RIDE",
+      "url": "https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf"
+    },
+    {
+      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/7FG8YlRonpJV9JahGdObsx"
       },
@@ -2824,7 +2850,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 277241,
       "name": "FLYIN' HIGH",
       "url": "https://open.spotify.com/track/6cAacP2EjcuRkV2BhxlCuz"
@@ -4474,7 +4500,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 213333,
       "name": "Love Like A Bomb (feat. \u3072\u304b\u308a) - Desired Remix",
       "url": "https://open.spotify.com/track/0DYzitVv6vogVzbf3Vkz2j"
@@ -4968,7 +4994,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 285706,
       "name": "Miragesong",
       "url": "https://open.spotify.com/track/4pNncZKpSx98scdDjn6COu"
@@ -5428,10 +5454,28 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 229088,
       "name": "nestling",
       "url": "https://open.spotify.com/track/1Ox30wrAfvowGChbGc2y6p"
+    },
+    {
+      "album": {
+        "name": "NEW AGE",
+        "url": "https://open.spotify.com/album/4aKBMTVHGadz08I1aRoIaf"
+      },
+      "artists": [
+        {
+          "name": "Gambs",
+          "url": "https://open.spotify.com/artist/16AEm9MJ06RFrLAsbqCiwv"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282954,
+      "name": "NEW AGE",
+      "url": "https://open.spotify.com/track/7JgLa5jso9GYRyaBxKJHMm"
     },
     {
       "album": {
@@ -6736,7 +6780,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 249760,
       "name": "RIDE ON TIME",
       "url": "https://open.spotify.com/track/3GS21zhwVkGbVWh8WcfdfR"
@@ -7600,7 +7644,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
@@ -8490,7 +8534,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 217625,
       "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
       "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
@@ -9102,6 +9146,42 @@
       "duration_ms": 289517,
       "name": "Tokyo Tower",
       "url": "https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3"
+    },
+    {
+      "album": {
+        "name": "Lonely Paradox",
+        "url": "https://open.spotify.com/album/3cUllXtHAkPuR9VTWz0OGg"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248098,
+      "name": "Tomodachi",
+      "url": "https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 248098,
+      "name": "TOMODACHI",
+      "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
     },
     {
       "album": {
@@ -11346,7 +11426,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 218166,
       "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
       "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
@@ -11664,7 +11744,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": "2024-01-14",
       "duration_ms": 176919,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
@@ -12387,6 +12467,24 @@
     },
     {
       "album": {
+        "name": "\u51fa\u3066\u3044\u3051\uff01\u30ab\u30ec\u30b7\uff01",
+        "url": "https://open.spotify.com/album/6FucYwKJxu8VRNCzvrMWIx"
+      },
+      "artists": [
+        {
+          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
+          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261914,
+      "name": "\u51fa\u3066\u3044\u3051\uff01\u30ab\u30ec\u30b7\uff01",
+      "url": "https://open.spotify.com/track/25zrDXmnAZulWCfljroSc9"
+    },
+    {
+      "album": {
         "name": "\u541b\u306e\u5c45\u5834\u6240",
         "url": "https://open.spotify.com/album/15x6ok2P0OFJrmk9DcAVUN"
       },
@@ -13106,10 +13204,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
+    },
+    {
+      "album": {
+        "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+        "url": "https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192366,
+      "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/1kwO1OLDhgP4H0TnieLYio"
     },
     {
       "album": {
@@ -13942,7 +14058,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 234288,
       "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
       "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"

@@ -1,735 +1,1179 @@
 {
-  "2021-12-25": 4278,
-  "2021-12-26": 4278,
-  "2021-12-27": 4278,
-  "2021-12-28": 4278,
-  "2021-12-29": 4278,
-  "2021-12-30": 4277,
-  "2021-12-31": 4276,
-  "2022-01-01": 4276,
-  "2022-01-02": 4276,
-  "2022-01-03": 4275,
-  "2022-01-04": 4275,
-  "2022-01-05": 4275,
-  "2022-01-06": 4275,
-  "2022-01-07": 4275,
-  "2022-01-08": 4275,
-  "2022-01-09": 4275,
-  "2022-01-10": 4275,
-  "2022-01-11": 4275,
-  "2022-01-12": 4275,
-  "2022-01-13": 4275,
-  "2022-01-14": 4275,
-  "2022-01-15": 4275,
-  "2022-01-16": 4275,
-  "2022-01-17": 4275,
-  "2022-01-18": 4275,
-  "2022-01-19": 4274,
-  "2022-01-20": 4272,
-  "2022-01-21": 4272,
-  "2022-01-22": 4271,
-  "2022-01-23": 4271,
-  "2022-01-24": 4271,
-  "2022-01-25": 4271,
-  "2022-01-26": 4271,
-  "2022-01-27": 4271,
-  "2022-01-28": 4270,
-  "2022-01-29": 4270,
-  "2022-01-30": 4270,
-  "2022-01-31": 4270,
-  "2022-02-01": 4269,
-  "2022-02-02": 4268,
-  "2022-02-03": 4268,
-  "2022-02-04": 4267,
-  "2022-02-05": 4267,
-  "2022-02-06": 4267,
-  "2022-02-07": 4267,
-  "2022-02-08": 4267,
-  "2022-02-09": 4267,
-  "2022-02-10": 4267,
-  "2022-02-11": 4266,
-  "2022-02-12": 4265,
-  "2022-02-13": 4265,
-  "2022-02-14": 4264,
-  "2022-02-15": 4263,
-  "2022-02-16": 4263,
-  "2022-02-17": 4261,
-  "2022-02-18": 4261,
-  "2022-02-19": 4261,
-  "2022-02-20": 4261,
-  "2022-02-21": 4261,
-  "2022-02-22": 4261,
-  "2022-02-23": 4261,
-  "2022-02-24": 4261,
-  "2022-02-25": 4261,
-  "2022-02-26": 4261,
-  "2022-02-27": 4260,
-  "2022-02-28": 4260,
-  "2022-03-01": 4260,
-  "2022-03-02": 4260,
-  "2022-03-03": 4260,
-  "2022-03-04": 4260,
-  "2022-03-05": 4260,
-  "2022-03-06": 4260,
-  "2022-03-07": 4260,
-  "2022-03-08": 4260,
-  "2022-03-09": 4260,
-  "2022-03-10": 4259,
-  "2022-03-11": 4259,
-  "2022-03-12": 4259,
-  "2022-03-13": 4259,
-  "2022-03-14": 4259,
-  "2022-03-15": 4258,
-  "2022-03-16": 4258,
-  "2022-03-17": 4258,
-  "2022-03-18": 4258,
-  "2022-03-19": 4258,
-  "2022-03-20": 4258,
-  "2022-03-21": 4257,
-  "2022-03-22": 4256,
-  "2022-03-23": 4257,
-  "2022-03-24": 4256,
-  "2022-03-25": 4256,
-  "2022-03-26": 4255,
-  "2022-03-27": 4255,
-  "2022-03-28": 4255,
-  "2022-03-30": 4254,
-  "2022-03-31": 4254,
-  "2022-04-01": 4254,
-  "2022-04-02": 4254,
-  "2022-04-03": 4254,
-  "2022-04-04": 4254,
-  "2022-04-05": 4254,
-  "2022-04-06": 4254,
-  "2022-04-07": 4254,
-  "2022-04-08": 4254,
-  "2022-04-09": 4254,
-  "2022-04-10": 4254,
-  "2022-04-11": 4254,
-  "2022-04-12": 4254,
-  "2022-04-13": 4254,
-  "2022-04-14": 4254,
-  "2022-04-15": 4254,
-  "2022-04-16": 4254,
-  "2022-04-17": 4254,
-  "2022-04-18": 4254,
-  "2022-04-19": 4254,
-  "2022-04-20": 4254,
-  "2022-04-21": 4254,
-  "2022-04-22": 4254,
-  "2022-04-23": 4254,
-  "2022-04-24": 4254,
-  "2022-04-25": 4254,
-  "2022-04-26": 4254,
-  "2022-04-27": 4254,
-  "2022-04-28": 4254,
-  "2022-04-29": 4254,
-  "2022-04-30": 4254,
-  "2022-05-01": 4254,
-  "2022-05-02": 4254,
-  "2022-05-03": 4254,
-  "2022-05-04": 4254,
-  "2022-05-05": 4254,
-  "2022-05-06": 4254,
-  "2022-05-07": 4254,
-  "2022-05-08": 4254,
-  "2022-05-09": 4254,
-  "2022-05-10": 4254,
-  "2022-05-11": 4254,
-  "2022-05-12": 4254,
-  "2022-05-13": 4254,
-  "2022-05-14": 4254,
-  "2022-05-15": 4254,
-  "2022-05-16": 4254,
-  "2022-05-17": 4254,
-  "2022-05-18": 4254,
-  "2022-05-19": 4254,
-  "2022-05-20": 4254,
-  "2022-05-21": 4254,
-  "2022-05-22": 4254,
-  "2022-05-23": 4254,
-  "2022-05-24": 4254,
-  "2022-05-25": 4254,
-  "2022-05-26": 4254,
-  "2022-05-27": 4254,
-  "2022-05-28": 4254,
-  "2022-05-29": 4254,
-  "2022-05-30": 4254,
-  "2022-05-31": 4254,
-  "2022-06-01": 4254,
-  "2022-06-02": 4254,
-  "2022-06-03": 4254,
-  "2022-06-04": 4254,
-  "2022-06-05": 4254,
-  "2022-06-06": 4254,
-  "2022-06-07": 4254,
-  "2022-06-08": 4254,
-  "2022-06-09": 4254,
-  "2022-06-10": 4254,
-  "2022-06-11": 4254,
-  "2022-06-12": 4254,
-  "2022-06-13": 4254,
-  "2022-06-14": 4254,
-  "2022-06-15": 4254,
-  "2022-06-16": 4254,
-  "2022-06-17": 4254,
-  "2022-06-18": 4254,
-  "2022-06-19": 4254,
-  "2022-06-20": 4254,
-  "2022-06-21": 4254,
-  "2022-06-22": 4254,
-  "2022-06-23": 4254,
-  "2022-06-24": 4254,
-  "2022-06-25": 4254,
-  "2022-06-26": 4254,
-  "2022-06-27": 4254,
-  "2022-06-28": 4254,
-  "2022-06-29": 4254,
-  "2022-06-30": 4254,
-  "2022-07-01": 4254,
-  "2022-07-02": 4254,
-  "2022-07-03": 4254,
-  "2022-07-04": 4254,
-  "2022-07-05": 4254,
-  "2022-07-06": 4254,
-  "2022-07-07": 4254,
-  "2022-07-08": 4254,
-  "2022-07-09": 4254,
-  "2022-07-10": 4254,
-  "2022-07-11": 4254,
-  "2022-07-12": 4254,
-  "2022-07-13": 4254,
-  "2022-07-14": 4254,
-  "2022-07-15": 4254,
-  "2022-07-16": 4254,
-  "2022-07-17": 4254,
-  "2022-07-18": 4254,
-  "2022-07-19": 4254,
-  "2022-07-20": 4254,
-  "2022-07-21": 4254,
-  "2022-07-22": 4254,
-  "2022-07-23": 4254,
-  "2022-07-24": 4254,
-  "2022-07-25": 4254,
-  "2022-07-26": 4254,
-  "2022-07-27": 4254,
-  "2022-07-28": 4254,
-  "2022-07-29": 4254,
-  "2022-07-30": 4254,
-  "2022-07-31": 4254,
-  "2022-08-01": 4254,
-  "2022-08-02": 4254,
-  "2022-08-03": 4254,
-  "2022-08-04": 4254,
-  "2022-08-05": 4254,
-  "2022-08-06": 4254,
-  "2022-08-07": 4254,
-  "2022-08-08": 4254,
-  "2022-08-09": 4254,
-  "2022-08-10": 4254,
-  "2022-08-11": 4254,
-  "2022-08-12": 4254,
-  "2022-08-13": 4254,
-  "2022-08-14": 4254,
-  "2022-08-15": 4254,
-  "2022-08-16": 4254,
-  "2022-08-17": 4254,
-  "2022-08-18": 4254,
-  "2022-08-19": 4254,
-  "2022-08-20": 4254,
-  "2022-08-21": 4254,
-  "2022-08-22": 4254,
-  "2022-08-23": 4254,
-  "2022-08-24": 4254,
-  "2022-08-25": 4254,
-  "2022-08-26": 4254,
-  "2022-08-27": 4254,
-  "2022-08-28": 4254,
-  "2022-08-29": 4254,
-  "2022-08-30": 4254,
-  "2022-08-31": 4254,
-  "2022-09-01": 4254,
-  "2022-09-02": 4254,
-  "2022-09-03": 4254,
-  "2022-09-04": 4254,
-  "2022-09-05": 4254,
-  "2022-09-06": 4254,
-  "2022-09-07": 4254,
-  "2022-09-09": 4254,
-  "2022-09-10": 4254,
-  "2022-09-11": 4254,
-  "2022-09-12": 4254,
-  "2022-09-13": 4254,
-  "2022-09-15": 4254,
-  "2022-09-16": 4254,
-  "2022-09-17": 4254,
-  "2022-09-18": 4254,
-  "2022-09-19": 4254,
-  "2022-09-20": 4254,
-  "2022-09-21": 4254,
-  "2022-09-22": 4254,
-  "2022-09-23": 4254,
-  "2022-09-24": 4254,
-  "2022-09-25": 4254,
-  "2022-09-26": 4254,
-  "2022-09-27": 4254,
-  "2022-09-28": 4254,
-  "2022-09-29": 4254,
-  "2022-09-30": 4254,
-  "2022-10-01": 4254,
-  "2022-10-02": 4254,
-  "2022-10-03": 4254,
-  "2022-10-04": 4254,
-  "2022-10-05": 4254,
-  "2022-10-06": 4254,
-  "2022-10-07": 4254,
-  "2022-10-08": 4254,
-  "2022-10-09": 4254,
-  "2022-10-10": 4254,
-  "2022-10-11": 4254,
-  "2022-10-12": 4254,
-  "2022-10-13": 4254,
-  "2022-10-14": 4254,
-  "2022-10-15": 4254,
-  "2022-10-16": 4254,
-  "2022-10-17": 4254,
-  "2022-10-18": 4254,
-  "2022-10-19": 4254,
-  "2022-10-20": 4254,
-  "2022-10-21": 4254,
-  "2022-10-22": 4254,
-  "2022-10-23": 4254,
-  "2022-10-24": 4254,
-  "2022-10-25": 4254,
-  "2022-10-26": 4254,
-  "2022-10-27": 4254,
-  "2022-10-28": 4254,
-  "2022-10-29": 4254,
-  "2022-10-30": 4254,
-  "2022-10-31": 4254,
-  "2022-11-01": 4254,
-  "2022-11-02": 4254,
-  "2022-11-03": 4254,
-  "2022-11-04": 4254,
-  "2022-11-05": 4254,
-  "2022-11-06": 4254,
-  "2022-11-07": 4254,
-  "2022-11-08": 4254,
-  "2022-11-09": 4254,
-  "2022-11-10": 4254,
-  "2022-11-11": 4254,
-  "2022-11-12": 4254,
-  "2022-11-13": 4254,
-  "2022-11-14": 4254,
-  "2022-11-15": 4254,
-  "2022-11-16": 4254,
-  "2022-11-17": 4254,
-  "2022-11-18": 4254,
-  "2022-11-19": 4254,
-  "2022-11-20": 4254,
-  "2022-11-21": 4254,
-  "2022-11-22": 4254,
-  "2022-11-23": 4254,
-  "2022-11-24": 4254,
-  "2022-11-25": 4254,
-  "2022-11-26": 4254,
-  "2022-11-27": 4254,
-  "2022-11-28": 4254,
-  "2022-11-29": 4254,
-  "2022-11-30": 4254,
-  "2022-12-01": 4254,
-  "2022-12-02": 4254,
-  "2022-12-03": 4254,
-  "2022-12-04": 4254,
-  "2022-12-05": 4254,
-  "2022-12-06": 4254,
-  "2022-12-07": 4254,
-  "2022-12-08": 4254,
-  "2022-12-09": 4254,
-  "2022-12-10": 4254,
-  "2022-12-11": 4254,
-  "2022-12-12": 4254,
-  "2022-12-13": 4254,
-  "2022-12-14": 4254,
-  "2022-12-15": 4254,
-  "2022-12-16": 4254,
-  "2022-12-17": 4254,
-  "2022-12-18": 4254,
-  "2022-12-19": 4254,
-  "2022-12-20": 4254,
-  "2022-12-21": 4254,
-  "2022-12-22": 4254,
-  "2022-12-24": 4254,
-  "2022-12-25": 4254,
-  "2022-12-26": 4254,
-  "2022-12-27": 4254,
-  "2022-12-28": 4254,
-  "2022-12-29": 4254,
-  "2022-12-30": 4254,
-  "2022-12-31": 4254,
-  "2023-01-01": 4254,
-  "2023-01-02": 4254,
-  "2023-01-03": 4254,
-  "2023-01-04": 4254,
-  "2023-01-05": 4254,
-  "2023-01-06": 4254,
-  "2023-01-07": 4254,
-  "2023-01-08": 4254,
-  "2023-01-09": 4254,
-  "2023-01-10": 4254,
-  "2023-01-11": 4254,
-  "2023-01-12": 4254,
-  "2023-01-13": 4254,
-  "2023-01-14": 4254,
-  "2023-01-15": 4254,
-  "2023-01-16": 4254,
-  "2023-01-17": 4254,
-  "2023-01-18": 4254,
-  "2023-01-19": 4254,
-  "2023-01-20": 4254,
-  "2023-01-21": 4254,
-  "2023-01-22": 4254,
-  "2023-01-23": 4254,
-  "2023-01-24": 4254,
-  "2023-01-25": 4254,
-  "2023-01-26": 4254,
-  "2023-01-27": 4254,
-  "2023-01-28": 4254,
-  "2023-01-29": 4254,
-  "2023-01-30": 4254,
-  "2023-01-31": 4254,
-  "2023-02-01": 4254,
-  "2023-02-02": 4254,
-  "2023-02-03": 4254,
-  "2023-02-04": 4254,
-  "2023-02-05": 4254,
-  "2023-02-06": 4254,
-  "2023-02-07": 4254,
-  "2023-02-08": 4254,
-  "2023-02-09": 4254,
-  "2023-02-10": 4254,
-  "2023-02-11": 4254,
-  "2023-02-12": 4254,
-  "2023-02-13": 4254,
-  "2023-02-14": 4254,
-  "2023-02-15": 4254,
-  "2023-02-16": 4254,
-  "2023-02-17": 4254,
-  "2023-02-18": 4254,
-  "2023-02-19": 4254,
-  "2023-02-20": 4254,
-  "2023-02-21": 4254,
-  "2023-02-22": 4254,
-  "2023-02-23": 4254,
-  "2023-02-24": 4254,
-  "2023-02-25": 4254,
-  "2023-02-26": 4254,
-  "2023-02-27": 4254,
-  "2023-02-28": 4254,
-  "2023-03-01": 4254,
-  "2023-03-02": 4254,
-  "2023-03-03": 4254,
-  "2023-03-04": 4254,
-  "2023-03-05": 4254,
-  "2023-03-06": 4254,
-  "2023-03-07": 4254,
-  "2023-03-08": 4254,
-  "2023-03-09": 4254,
-  "2023-03-10": 4254,
-  "2023-03-11": 4254,
-  "2023-03-12": 4254,
-  "2023-03-13": 4254,
-  "2023-03-14": 4254,
-  "2023-03-15": 4254,
-  "2023-03-16": 4254,
-  "2023-03-17": 4254,
-  "2023-03-18": 4254,
-  "2023-03-19": 4254,
-  "2023-03-20": 4254,
-  "2023-03-21": 4254,
-  "2023-03-22": 4254,
-  "2023-03-23": 4254,
-  "2023-03-24": 4254,
-  "2023-03-25": 4254,
-  "2023-03-26": 4254,
-  "2023-03-27": 4254,
-  "2023-03-28": 4254,
-  "2023-03-29": 4254,
-  "2023-03-30": 4254,
-  "2023-03-31": 4254,
-  "2023-04-01": 4254,
-  "2023-04-02": 4254,
-  "2023-04-03": 4254,
-  "2023-04-04": 4254,
-  "2023-04-05": 4254,
-  "2023-04-06": 4254,
-  "2023-04-07": 4254,
-  "2023-04-09": 4254,
-  "2023-04-10": 4254,
-  "2023-04-11": 4254,
-  "2023-04-12": 4254,
-  "2023-04-13": 4254,
-  "2023-04-14": 4254,
-  "2023-04-15": 4254,
-  "2023-04-16": 4254,
-  "2023-04-17": 4254,
-  "2023-04-18": 4254,
-  "2023-04-19": 4254,
-  "2023-04-20": 4254,
-  "2023-04-21": 4254,
-  "2023-04-22": 4254,
-  "2023-04-23": 4254,
-  "2023-04-24": 4254,
-  "2023-04-25": 4254,
-  "2023-04-26": 4254,
-  "2023-04-27": 4254,
-  "2023-04-28": 4254,
-  "2023-04-29": 4254,
-  "2023-04-30": 4254,
-  "2023-05-01": 4254,
-  "2023-05-02": 4254,
-  "2023-05-03": 4254,
-  "2023-05-04": 4254,
-  "2023-05-05": 4254,
-  "2023-05-06": 4254,
-  "2023-05-07": 4254,
-  "2023-05-08": 4254,
-  "2023-05-09": 4254,
-  "2023-05-10": 4254,
-  "2023-05-11": 4254,
-  "2023-05-12": 4254,
-  "2023-05-13": 4254,
-  "2023-05-14": 4254,
-  "2023-05-15": 4254,
-  "2023-05-16": 4254,
-  "2023-05-17": 4254,
-  "2023-05-18": 4254,
-  "2023-05-19": 4254,
-  "2023-05-20": 4254,
-  "2023-05-21": 4254,
-  "2023-05-22": 4254,
-  "2023-05-23": 4254,
-  "2023-05-24": 4254,
-  "2023-05-25": 4254,
-  "2023-05-26": 4254,
-  "2023-05-27": 4254,
-  "2023-05-28": 4254,
-  "2023-05-29": 4254,
-  "2023-05-30": 4254,
-  "2023-05-31": 4254,
-  "2023-06-01": 4254,
-  "2023-06-02": 4254,
-  "2023-06-03": 4254,
-  "2023-06-04": 4254,
-  "2023-06-05": 4254,
-  "2023-06-06": 4254,
-  "2023-06-07": 4254,
-  "2023-06-08": 4254,
-  "2023-06-09": 4254,
-  "2023-06-10": 4254,
-  "2023-06-11": 4254,
-  "2023-06-12": 4254,
-  "2023-06-13": 4254,
-  "2023-06-14": 4254,
-  "2023-06-15": 4254,
-  "2023-06-16": 4254,
-  "2023-06-17": 4254,
-  "2023-06-18": 4254,
-  "2023-06-19": 4254,
-  "2023-06-20": 4254,
-  "2023-06-21": 4254,
-  "2023-06-22": 4254,
-  "2023-06-23": 4254,
-  "2023-06-24": 4254,
-  "2023-06-25": 4254,
-  "2023-06-26": 4254,
-  "2023-06-27": 4254,
-  "2023-06-28": 4254,
-  "2023-06-29": 4254,
-  "2023-06-30": 4254,
-  "2023-07-01": 4254,
-  "2023-07-02": 4254,
-  "2023-07-03": 4254,
-  "2023-07-04": 4254,
-  "2023-07-05": 4254,
-  "2023-07-06": 4254,
-  "2023-07-07": 4254,
-  "2023-07-08": 4254,
-  "2023-07-09": 4254,
-  "2023-07-10": 4254,
-  "2023-07-11": 4254,
-  "2023-07-12": 4254,
-  "2023-07-13": 4254,
-  "2023-07-14": 4254,
-  "2023-07-15": 4254,
-  "2023-07-16": 4254,
-  "2023-07-17": 4254,
-  "2023-07-18": 4254,
-  "2023-07-19": 4254,
-  "2023-07-20": 4254,
-  "2023-07-21": 4254,
-  "2023-07-22": 4254,
-  "2023-07-23": 4254,
-  "2023-07-24": 4254,
-  "2023-07-25": 4254,
-  "2023-07-26": 4254,
-  "2023-07-27": 4254,
-  "2023-07-28": 4254,
-  "2023-07-29": 4254,
-  "2023-07-30": 4254,
-  "2023-07-31": 4254,
-  "2023-08-01": 4254,
-  "2023-08-02": 4254,
-  "2023-08-03": 4254,
-  "2023-08-04": 4254,
-  "2023-08-05": 4254,
-  "2023-08-06": 4254,
-  "2023-08-07": 4254,
-  "2023-08-08": 4254,
-  "2023-08-09": 4254,
-  "2023-08-10": 4254,
-  "2023-08-11": 4254,
-  "2023-08-12": 4254,
-  "2023-08-13": 4254,
-  "2023-08-14": 4254,
-  "2023-08-15": 4254,
-  "2023-08-16": 4254,
-  "2023-08-17": 4254,
-  "2023-08-18": 4254,
-  "2023-08-19": 4254,
-  "2023-08-20": 4254,
-  "2023-08-21": 4254,
-  "2023-08-22": 4254,
-  "2023-08-23": 4254,
-  "2023-08-24": 4254,
-  "2023-08-25": 4254,
-  "2023-08-26": 4254,
-  "2023-08-27": 4254,
-  "2023-08-28": 4254,
-  "2023-08-29": 4254,
-  "2023-08-30": 4254,
-  "2023-08-31": 4254,
-  "2023-09-01": 4254,
-  "2023-09-02": 4254,
-  "2023-09-03": 4254,
-  "2023-09-04": 4254,
-  "2023-09-05": 4254,
-  "2023-09-06": 4254,
-  "2023-09-07": 4254,
-  "2023-09-08": 4254,
-  "2023-09-09": 4254,
-  "2023-09-10": 4254,
-  "2023-09-11": 4254,
-  "2023-09-12": 4254,
-  "2023-09-13": 4254,
-  "2023-09-14": 4254,
-  "2023-09-15": 4254,
-  "2023-09-16": 4254,
-  "2023-09-17": 4254,
-  "2023-09-18": 4254,
-  "2023-09-19": 4254,
-  "2023-09-20": 4254,
-  "2023-09-21": 4254,
-  "2023-09-22": 4254,
-  "2023-09-23": 4254,
-  "2023-09-24": 4254,
-  "2023-09-25": 4254,
-  "2023-09-26": 4254,
-  "2023-09-27": 4254,
-  "2023-09-28": 4254,
-  "2023-09-29": 4254,
-  "2023-09-30": 4254,
-  "2023-10-01": 4254,
-  "2023-10-02": 4254,
-  "2023-10-03": 4254,
-  "2023-10-04": 4254,
-  "2023-10-05": 4254,
-  "2023-10-06": 4254,
-  "2023-10-07": 4254,
-  "2023-10-08": 4254,
-  "2023-10-09": 4254,
-  "2023-10-10": 4254,
-  "2023-10-11": 4254,
-  "2023-10-12": 4254,
-  "2023-10-13": 4254,
-  "2023-10-14": 4254,
-  "2023-10-15": 4254,
-  "2023-10-16": 4254,
-  "2023-10-17": 4254,
-  "2023-10-18": 4254,
-  "2023-10-19": 4254,
-  "2023-10-20": 4254,
-  "2023-10-21": 4254,
-  "2023-10-22": 4254,
-  "2023-10-23": 4254,
-  "2023-10-24": 4254,
-  "2023-10-25": 4254,
-  "2023-10-26": 4254,
-  "2023-10-27": 4254,
-  "2023-10-28": 4254,
-  "2023-10-29": 4254,
-  "2023-10-30": 4254,
-  "2023-10-31": 4254,
-  "2023-11-01": 4254,
-  "2023-11-02": 4254,
-  "2023-11-03": 4254,
-  "2023-11-04": 4254,
-  "2023-11-05": 4254,
-  "2023-11-06": 4254,
-  "2023-11-07": 4254,
-  "2023-11-08": 4254,
-  "2023-11-09": 4254,
-  "2023-11-10": 4254,
-  "2023-11-11": 4254,
-  "2023-11-12": 4254,
-  "2023-11-13": 4254,
-  "2023-11-14": 4254,
-  "2023-11-15": 4254,
-  "2023-11-16": 4254,
-  "2023-11-17": 4254,
-  "2023-11-18": 4254,
-  "2023-11-19": 4254,
-  "2023-11-20": 4254,
-  "2023-11-21": 4254,
-  "2023-11-22": 4254,
-  "2023-11-23": 4254,
-  "2023-11-24": 4254,
-  "2023-11-25": 4254,
-  "2023-11-26": 4254,
-  "2023-11-27": 4254,
-  "2023-11-28": 4254,
-  "2023-11-29": 4254,
-  "2023-11-30": 4254,
-  "2023-12-01": 4254,
-  "2023-12-02": 4254,
-  "2023-12-03": 4254,
-  "2023-12-04": 4254,
-  "2023-12-05": 4254,
-  "2023-12-06": 4254,
-  "2023-12-07": 4254,
-  "2023-12-08": 4254,
-  "2023-12-09": 4254,
-  "2023-12-10": 4254,
-  "2023-12-11": 4254,
-  "2023-12-12": 4254,
-  "2023-12-13": 4254,
-  "2023-12-14": 4254,
-  "2023-12-15": 4254,
-  "2023-12-16": 4254,
-  "2023-12-17": 4254,
-  "2023-12-18": 4254,
-  "2023-12-19": 4254,
-  "2023-12-20": 4254,
-  "2023-12-21": 4254,
-  "2023-12-22": 4254,
-  "2023-12-23": 4254,
-  "2023-12-24": 4254,
-  "2023-12-25": 4254,
-  "2023-12-26": 4254,
-  "2023-12-27": 4254,
-  "2023-12-30": 4254,
-  "2023-12-31": 4254,
-  "2024-01-01": 4254,
-  "2024-01-02": 4254,
-  "2024-01-03": 4254
+  "2024-01-17": 4254,
+  "date_first_scraped": "2021-12-21",
+  "description": "Banjo and guitar lessons care of folk hero Pete Seeger.",
+  "name": "Music Lessons with Pete Seeger",
+  "tracks": [
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57213,
+      "name": "3/4 and 6/8 Time",
+      "url": "https://open.spotify.com/track/2trzmB3U6ov0ywSVmF6WZD"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154413,
+      "name": "4/4 TIME",
+      "url": "https://open.spotify.com/track/1Dd0JR86kNEjQKKsMyJt4A"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69786,
+      "name": "A Basic Strum",
+      "url": "https://open.spotify.com/track/7MetQ6U0T0czvoOGZWdfme"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114853,
+      "name": "A Hint of Flamenco",
+      "url": "https://open.spotify.com/track/7e0GhYy71SZF9v53qcGDTT"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55426,
+      "name": "A Loud Strum",
+      "url": "https://open.spotify.com/track/2bxo8ujyjtZO7badaVvLwX"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "A Rhumba Rhythm",
+      "url": "https://open.spotify.com/track/3gFXalTMxWccSoI444JlXx"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24493,
+      "name": "A Roll Is a Special Banjo Effect",
+      "url": "https://open.spotify.com/track/5rd19FV5ORVxoeF48mc2O1"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141680,
+      "name": "a: The \"Church Lick\"; b:\"Hammering On\"",
+      "url": "https://open.spotify.com/track/0HGcWaiNQUoq6uEgniM7PC"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106626,
+      "name": "ADDING THE MIDDLE FINGER, SLIDES",
+      "url": "https://open.spotify.com/track/5RrBTLG1TJOzNZM6uYrejl"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144853,
+      "name": "ADVANTAGES AND LIMITATIONS OF TABLATURE, TRIPLETS, RESTS",
+      "url": "https://open.spotify.com/track/2QStxhDspW989jwhikbqp3"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38626,
+      "name": "Another Common Blues Guitar",
+      "url": "https://open.spotify.com/track/27O6GlD7MpQSIq7DvIWoFa"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53000,
+      "name": "Bass Countermelody",
+      "url": "https://open.spotify.com/track/1QWQT3XTl1nJvo92dmrYwb"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Bass Runs",
+      "url": "https://open.spotify.com/track/3SJnCcA8KUN6boHevkvwP7"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64546,
+      "name": "Blues and Jazz",
+      "url": "https://open.spotify.com/track/2NT398nn9ffn0Xs2xut6DR"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402106,
+      "name": "C POSITION, WALKING BASS, 1st AND 2nd STRING IN UNISON: by Leadbelly: National Defense Blues, Salty Dog, and others",
+      "url": "https://open.spotify.com/track/4m4EaM10Pv17BAjh53SygZ"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215653,
+      "name": "DEMONSTRATION AND EXPLANATION OF TABLATURE",
+      "url": "https://open.spotify.com/track/2eTarWlg37wktkPGfjwQD1"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49026,
+      "name": "Double Thumbing",
+      "url": "https://open.spotify.com/track/0xPhjarviGD5lXCBQkaqc6"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97093,
+      "name": "For a More Sustained Effect",
+      "url": "https://open.spotify.com/track/2TXVAV4gVuOyyLTKyb3Po1"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59466,
+      "name": "Frailing",
+      "url": "https://open.spotify.com/track/63ULm8GyGBQsImU43Iyn7N"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76066,
+      "name": "Hammering On",
+      "url": "https://open.spotify.com/track/2qTv0IWYThzbJyDSEDcBxz"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48933,
+      "name": "Here Is a Variation of the Above",
+      "url": "https://open.spotify.com/track/59fB6hwijRIIgAT158Cxfo"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21440,
+      "name": "Here's a Little Bit of The",
+      "url": "https://open.spotify.com/track/3qzJ05bMRD5m83Uyl1ZDJj"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28800,
+      "name": "Here's a Sample Blues Passage",
+      "url": "https://open.spotify.com/track/60Uux6Y1d385Ks6P0W0yWc"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61506,
+      "name": "Here's Another Devleopment Of",
+      "url": "https://open.spotify.com/track/74OSHIeBuhL9kVmNzTW6lv"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55480,
+      "name": "Here's One Way to Get a Rhumba",
+      "url": "https://open.spotify.com/track/75XhQKjwX1YfKpyu3jJfZj"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96053,
+      "name": "Here's Still Another Way Of",
+      "url": "https://open.spotify.com/track/1hwXdxA28u9ZPZa4Fp1B6q"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21093,
+      "name": "Here's the Song, \"Cindy\"",
+      "url": "https://open.spotify.com/track/1wvmKoOOw8lsBYEE5v8mKu"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28760,
+      "name": "Here's the Song. 'Hard Ain't It Hard'",
+      "url": "https://open.spotify.com/track/12qdKzciPCgOXXx5doVwAH"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46573,
+      "name": "If You Ever Want to Play A",
+      "url": "https://open.spotify.com/track/4okdY7vxYMhGgUUy8qpI5A"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62053,
+      "name": "In the G Tuning, You Might Try",
+      "url": "https://open.spotify.com/track/6wyLYuzpov776Ep0PvWJMf"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73560,
+      "name": "Incidentally, This Type Of",
+      "url": "https://open.spotify.com/track/7y25hadsETfzh1zszKQd4L"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342146,
+      "name": "INTRODUCTION: We Shall Walk Through the Valley",
+      "url": "https://open.spotify.com/track/6Z0ESHz7meTzRZXMiRfslt"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 713533,
+      "name": "KEY OF A (A7), RUNS, PLAYING THE BASS STRINGS: by Leadbelly: Old Riley, Skip to my Lou, and others",
+      "url": "https://open.spotify.com/track/1yj8K0JRwD8KkejVzkRTzl"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149986,
+      "name": "Methods of Strumming",
+      "url": "https://open.spotify.com/track/4PZYop0tpw16Ufe6pVpQUn"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65026,
+      "name": "Now 6/8 Time Is the Same",
+      "url": "https://open.spotify.com/track/4bqyahTWKcQw9Ff6qg2V3i"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25906,
+      "name": "Now Take That Same Song",
+      "url": "https://open.spotify.com/track/3sH7uy4QxNEQfaiqsClstI"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56026,
+      "name": "Now with the Index Finger",
+      "url": "https://open.spotify.com/track/0ZjVRAH0aJJeqdQ8aUmNPH"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22706,
+      "name": "Now with the Left Hand",
+      "url": "https://open.spotify.com/track/7nodJYjvqvCekwWWp6vqTb"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23840,
+      "name": "Now, For Just One More Time",
+      "url": "https://open.spotify.com/track/1rs1PKPbTi9pmuK51tJE6P"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50666,
+      "name": "Now, Frailing Is the Best Way",
+      "url": "https://open.spotify.com/track/6mLaUZp5bhyK5ZhG5qOFPf"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55320,
+      "name": "Now, Not All Songs, Alfterall",
+      "url": "https://open.spotify.com/track/5JwJNzaT7DRMIFF9eywUiW"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "OPEN D TUNING, USE OF CAPO: by Lead Belly: Roberta and other s by Pete Seeger: Bells of Rhymney and others",
+      "url": "https://open.spotify.com/track/4jKxJcALxc6GkuRu1clzga"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229520,
+      "name": "Other Tunings",
+      "url": "https://open.spotify.com/track/7rfLl8m9FrE4ymXILv0bV3"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70946,
+      "name": "Pulling Off",
+      "url": "https://open.spotify.com/track/4lTwcANKy1uZ8euTNdvEDN"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261240,
+      "name": "RHYTHM AND TIME VALUES",
+      "url": "https://open.spotify.com/track/7bZNc7Zu9gW8IS1vR2aUUy"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50973,
+      "name": "Spanish and South American Guitar Techniques",
+      "url": "https://open.spotify.com/track/4zVnXUcfSFnnWUtr0LKUXI"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "The Blues",
+      "url": "https://open.spotify.com/track/4sozpECffetVC750jSbfOT"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43413,
+      "name": "The Fifth String",
+      "url": "https://open.spotify.com/track/41k9ygfEHs7fQvYjtyqgV8"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119133,
+      "name": "The First Chord",
+      "url": "https://open.spotify.com/track/7D2un2UePJ9oDEYWWmc1zB"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138480,
+      "name": "The Mexican Blues",
+      "url": "https://open.spotify.com/track/6gfDV4w4h8AJAPRoRIJblI"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60533,
+      "name": "This Last Pattern Can Be",
+      "url": "https://open.spotify.com/track/3tPQlHkihv5o7G8TzgUMqo"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66480,
+      "name": "Three Micscellaneous Postscripts",
+      "url": "https://open.spotify.com/track/41z3TzAjnJRUsPkkp9i7AV"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74746,
+      "name": "Three-Finger Picking",
+      "url": "https://open.spotify.com/track/4vvtRyjExsm1GkFN6Pvgh7"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77493,
+      "name": "THUMB AND INDEX FINGER",
+      "url": "https://open.spotify.com/track/0kKDDoKuxmkqKyex38tjjQ"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632986,
+      "name": "Transposing, D Tuning, Capa on 6-String, Freight Train",
+      "url": "https://open.spotify.com/track/0WbxyxBeQg3JAGWDedzFcr"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169413,
+      "name": "Tuning Up",
+      "url": "https://open.spotify.com/track/02pvOqSrGXeveDlB9tI8sM"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133960,
+      "name": "Two Finger Plucking",
+      "url": "https://open.spotify.com/track/5sULPZwqJaYH3WO4lNa9Yp"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122480,
+      "name": "Two More Chords",
+      "url": "https://open.spotify.com/track/3kdZWafwZ1XfP2Da3GPlGJ"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79413,
+      "name": "UNDERSTANDING LETTERS",
+      "url": "https://open.spotify.com/track/5ifgp6fDtCfvWOWsF9jMiy"
+    },
+    {
+      "album": {
+        "name": "Folksinger's Guitar Guide, Vol. 1: An Instruction Record",
+        "url": "https://open.spotify.com/album/2FyRlMtyn5gOBJlqZH1Vv4"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136720,
+      "name": "Use of the Capo",
+      "url": "https://open.spotify.com/track/1t5fYWALOjbqDPkA748L5Q"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470506,
+      "name": "USE OF THE FINGERS; SYNCOPATED BASS, OPENING PATTERNS, BEAT ON THE 5th STRING: by Leadbelly: Leaving Blues, others",
+      "url": "https://open.spotify.com/track/59XmWri4V09kbWliWWfbLk"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26080,
+      "name": "Using This Method, And a Little",
+      "url": "https://open.spotify.com/track/0i6sLB3pSTWqSKGcRsP4kw"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "WALKING BASS, D POSITION, THUMB AND INDEX FINGER PLAYING THE MELODY: by Leadbelly: Good Morning Blues, Hitler Song",
+      "url": "https://open.spotify.com/track/2G3sb20EUj8zZcQlQI8DW5"
+    },
+    {
+      "album": {
+        "name": "12-String Guitar as Played by Lead Belly",
+        "url": "https://open.spotify.com/album/24KmOdLURRQvdiDfvSCU7h"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 779293,
+      "name": "WALKING BASS, D POSITION, THUMB AND INDEX FINGER PLAYING THE MELODY: by Leadbelly: Green Corn and others",
+      "url": "https://open.spotify.com/track/7BkBgP1zB3nG5FIrfi0kfk"
+    },
+    {
+      "album": {
+        "name": "How to Play the 5-String Banjo",
+        "url": "https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2018-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46386,
+      "name": "Well, Now, If You Study The",
+      "url": "https://open.spotify.com/track/0jsVUvAHVuLUyTjKiXUX0U"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1uHtdQ6c5H9"
 }

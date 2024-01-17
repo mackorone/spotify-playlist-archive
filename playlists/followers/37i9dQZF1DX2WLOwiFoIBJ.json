@@ -1,37 +1,549 @@
 {
-  "2023-11-28": 102,
-  "2023-11-29": 281,
-  "2023-11-30": 281,
-  "2023-12-01": 363,
-  "2023-12-02": 443,
-  "2023-12-03": 517,
-  "2023-12-04": 593,
-  "2023-12-05": 663,
-  "2023-12-06": 722,
-  "2023-12-07": 793,
-  "2023-12-08": 862,
-  "2023-12-09": 908,
-  "2023-12-10": 958,
-  "2023-12-11": 1023,
-  "2023-12-12": 1075,
-  "2023-12-13": 1123,
-  "2023-12-14": 1180,
-  "2023-12-15": 1206,
-  "2023-12-16": 1252,
-  "2023-12-17": 1296,
-  "2023-12-18": 1335,
-  "2023-12-19": 1375,
-  "2023-12-20": 1417,
-  "2023-12-21": 1452,
-  "2023-12-22": 1493,
-  "2023-12-23": 1540,
-  "2023-12-24": 1591,
-  "2023-12-25": 1620,
-  "2023-12-26": 1656,
-  "2023-12-27": 1696,
-  "2023-12-30": 1813,
-  "2023-12-31": 1864,
-  "2024-01-01": 1892,
-  "2024-01-02": 1933,
-  "2024-01-03": 1957
+  "2024-01-17": 2504,
+  "date_first_scraped": "2023-11-28",
+  "description": "These are the songs that have shaped <a href=\"https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE?si=qdWK3-k8R2u1_TroCpsRWg\">Kevin Abstract's</a> alternative spirit. Check out the latest COUNTER//CULTURE mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI\"> here.",
+  "name": "COUNTER//CULTURE: Kevin Abstract",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Moon & Antarctica",
+        "url": "https://open.spotify.com/album/5SbcupirEParczvqqyUPXL"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "3rd Planet",
+      "url": "https://open.spotify.com/track/7Gi8kaILAUgjYqgdee9410"
+    },
+    {
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157973,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD"
+    },
+    {
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/6gVVXym1g4L51txS2e6slf"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Alcove",
+      "url": "https://open.spotify.com/track/2Kx60i2bP8ZgGi5xlnQjcw"
+    },
+    {
+      "album": {
+        "name": "Blanket",
+        "url": "https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117840,
+      "name": "Blanket",
+      "url": "https://open.spotify.com/track/34mIasINn8fmO54la1cDaM"
+    },
+    {
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185109,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ"
+    },
+    {
+      "album": {
+        "name": "Building Nothing Out of Something",
+        "url": "https://open.spotify.com/album/2fzFo9ypJRRla1N2IYOoQP"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4obLH3jJbGekYYvon0pYlS"
+    },
+    {
+      "album": {
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "Can You See Me",
+      "url": "https://open.spotify.com/track/60qXxZSTxeywlOaQOcvl1H"
+    },
+    {
+      "album": {
+        "name": "Speedin' Bullet 2 Heaven",
+        "url": "https://open.spotify.com/album/6e8pwYKSF9iZjpPep1DVzx"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236120,
+      "name": "CONFUSED!",
+      "url": "https://open.spotify.com/track/6fqmq4QmtyGhYYx2erQtXG"
+    },
+    {
+      "album": {
+        "name": "D>E>A>T>H>M>E>T>A>L",
+        "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261849,
+      "name": "D>E>A>T>H>M>E>T>A>L",
+      "url": "https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6"
+    },
+    {
+      "album": {
+        "name": "This Is a Long Drive for Someone with Nothing to Think About",
+        "url": "https://open.spotify.com/album/3PTktNuj2FItJr8afuiieo"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/5vtRk4rYxiy4cj95cmJ5Ma"
+    },
+    {
+      "album": {
+        "name": "EndSerenading",
+        "url": "https://open.spotify.com/album/4huCR57Zm45LMaeUlgJHkU"
+      },
+      "artists": [
+        {
+          "name": "Mineral",
+          "url": "https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "For Ivadell",
+      "url": "https://open.spotify.com/track/2ECZzeWJF7pEXpzmnsMYLS"
+    },
+    {
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286320,
+      "name": "Galapogos - Remastered 2012",
+      "url": "https://open.spotify.com/track/2yKrGPtIwsiwv5tGTDgpNd"
+    },
+    {
+      "album": {
+        "name": "Race",
+        "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201788,
+      "name": "Gnaw",
+      "url": "https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8"
+    },
+    {
+      "album": {
+        "name": "The Moon & Antarctica",
+        "url": "https://open.spotify.com/album/5SbcupirEParczvqqyUPXL"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259839,
+      "name": "Gravity Rides Everything",
+      "url": "https://open.spotify.com/track/1pPqVrG2RCHXx81Aw4xp99"
+    },
+    {
+      "album": {
+        "name": "House of Sugar",
+        "url": "https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156614,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/35UO6dWrEPLmeSVXtAysS4"
+    },
+    {
+      "album": {
+        "name": "Diary (2009 Edition)",
+        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298413,
+      "name": "In Circles - Remastered",
+      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252880,
+      "name": "invisible string",
+      "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
+    },
+    {
+      "album": {
+        "name": "Knockin",
+        "url": "https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203608,
+      "name": "Knockin - Single Version",
+      "url": "https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc"
+    },
+    {
+      "album": {
+        "name": "Distressor",
+        "url": "https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253443,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa"
+    },
+    {
+      "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
+    },
+    {
+      "album": {
+        "name": "The Power of Failing",
+        "url": "https://open.spotify.com/album/7tAXE0Z5GtVJf0NcJ7Qtp7"
+      },
+      "artists": [
+        {
+          "name": "Mineral",
+          "url": "https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/0T4Gs697qQdHvaNLm24LcO"
+    },
+    {
+      "album": {
+        "name": "The Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Rococo",
+      "url": "https://open.spotify.com/track/0doEeyNpSTtMmrGh4DTzxc"
+    },
+    {
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156772,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
+    },
+    {
+      "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "album": {
+        "name": "The Moon & Antarctica",
+        "url": "https://open.spotify.com/album/5SbcupirEParczvqqyUPXL"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300933,
+      "name": "The Cold Part",
+      "url": "https://open.spotify.com/track/3knvtUJiuDs1WZsbrR1puY"
+    },
+    {
+      "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315200,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
+    },
+    {
+      "album": {
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "Today - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak"
+    },
+    {
+      "album": {
+        "name": "COMETA",
+        "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e"
+    },
+    {
+      "album": {
+        "name": "What Should I Do?",
+        "url": "https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "What Should I Do?",
+      "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
+    },
+    {
+      "album": {
+        "name": "Kings Of Pop",
+        "url": "https://open.spotify.com/album/3e2nzKwpQxLCe6Yp4Qll80"
+      },
+      "artists": [
+        {
+          "name": "Home Grown",
+          "url": "https://open.spotify.com/artist/4EasYyQ8WcUJYIxqe0dRqY"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/4nYtRnQhVS7ODcl6CFEhvO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2WLOwiFoIBJ"
 }

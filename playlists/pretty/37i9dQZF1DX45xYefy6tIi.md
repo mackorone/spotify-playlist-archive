@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Post Malone and ESPN team up for a playlist celebrating the never\-ending excitement of the College Football Playoff chase to see who will be National Champion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,976 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,647 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

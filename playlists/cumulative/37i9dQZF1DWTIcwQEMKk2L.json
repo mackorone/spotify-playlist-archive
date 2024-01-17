@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 118979,
       "name": "A New Era",
       "url": "https://open.spotify.com/track/7JkKc9FMZnuv1ZgZiMfkKq"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 113820,
       "name": "A Perceptual Process",
       "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 311066,
       "name": "At Least Give Me My Dreams Back, You Negligent Whore!",
       "url": "https://open.spotify.com/track/5YiZqG8WWYLjbhL5v9vbWw"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 282824,
       "name": "Home",
       "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 73573,
       "name": "Improvisation 7",
       "url": "https://open.spotify.com/track/0MCv1ES2lNZfmHYvIz6q1f"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 132509,
       "name": "Limitation (Scaled Down Version)",
       "url": "https://open.spotify.com/track/4ZTvGA5KudTVKbhmaH3CLb"
@@ -1224,6 +1224,24 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "album": {
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "album": {
@@ -1794,6 +1812,24 @@
       "duration_ms": 139051,
       "name": "There You Were",
       "url": "https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy"
+    },
+    {
+      "album": {
+        "name": "They Keep Asking",
+        "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151557,
+      "name": "They Keep Asking",
+      "url": "https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd"
     },
     {
       "album": {

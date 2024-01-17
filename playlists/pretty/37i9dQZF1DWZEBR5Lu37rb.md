@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,450 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,994 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 52 | [Haturudi Nyuma](https://open.spotify.com/track/76ru5f5KMaslfUg7nFe2Qk) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D), [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 4:47 |
 | 53 | [Bembeleza](https://open.spotify.com/track/47S0nvI30nN9VgDcIyGxBo) | [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL) | [Sungura Na Fisi](https://open.spotify.com/album/6cTRrJGMTZmF1wAtGFVbah) | 4:42 |
 | 54 | [Nikikutazama](https://open.spotify.com/track/2QweIUK69pkW3dgnEEzPaI) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Nikikutazama](https://open.spotify.com/album/54LLZZzjgU0cDnKJVKMvgl) | 3:56 |
-| 55 | [Lazizi](https://open.spotify.com/track/0AD7RuUTp8pwK5NIKaa30X) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:52 |
+| 55 | [Lazizi](https://open.spotify.com/track/1QHi0gPQ3rT0YA2eIFvmpY) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/1VKy29zkgR3BeRrUBSOu7r) | 3:52 |
 | 56 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 | 57 | [Aiyana](https://open.spotify.com/track/3ZfTPhtcI8mK94oA3I19Dp) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Aiyana](https://open.spotify.com/album/4fxMTrsf8jOeZKqajiElcL) | 3:04 |
 | 58 | [Ndizele Wena](https://open.spotify.com/track/15P4w866PR3iyQ4b3KlLbK) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Power](https://open.spotify.com/album/6dDz2SDdhnaeKTLoe0BRhH) | 2:38 |

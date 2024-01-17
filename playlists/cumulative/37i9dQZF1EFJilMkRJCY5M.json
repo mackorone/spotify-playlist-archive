@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 252058,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/3tEMXXRquvE9gwBV6qiHfQ"
@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215552,
+      "name": "Someone Else's Heartbreak",
+      "url": "https://open.spotify.com/track/35Asbjj2UV7m6LpCT3EOqA"
+    },
+    {
+      "album": {
         "name": "Someone Else's Heartbreak",
         "url": "https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp"
       },
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 215552,
       "name": "Someone Else's Heartbreak",
       "url": "https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB"

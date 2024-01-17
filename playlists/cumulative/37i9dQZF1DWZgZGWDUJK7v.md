@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: Operation: True Love\(작전명 순정\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: The Moon during the Day\(낮에 뜨는 달\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-160 songs - 9 hr 47 min
+162 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/track/0tEJych2LdCffCFYVn5vU0) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/album/66yLRKVouimpFdrbQupUdL) | 3:22 | 2022-07-20 | 2023-12-11 |
 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-05-09 |  |
 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 | 2022-09-05 |  |
+| [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 | 2024-01-03 |  |
 | [Good bye my love](https://open.spotify.com/track/4sTXT0ArcrA5FHRjQLm6qc) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Webtoon The Red Sleeve \(Original Soundtrack\)](https://open.spotify.com/album/2FxNxbv5XY55H700JbvoK3) | 3:53 | 2022-07-29 | 2023-03-28 |
 | [Goodbye](https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [It Was All a Mistake OST Part\. 1 \(Soundtrack\)](https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q) | 3:44 | 2022-08-02 |  |
 | [Goodbye Now](https://open.spotify.com/track/1bIhEN6lxZTokWS7Qk5DJP) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Goodbye Now \(Love Revolution X TOMORROW X TOGETHER\) \[Original Webtoon Soundtrack\]](https://open.spotify.com/album/6dT50XMh2FjyJOINykOAd3) | 4:36 | 2023-02-22 |  |
@@ -63,6 +64,7 @@
 | [If we…](https://open.spotify.com/track/3hN9w8H3x1Aufiz5gjug2a) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [The Holy Idol \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix) | 3:02 | 2023-01-26 |  |
 | [If you hold my hand](https://open.spotify.com/track/2LMIQGEQVRGADX8rgsbohA) | [Hwang Si Yeon](https://open.spotify.com/artist/6fOuKiA7NquVRt5TLWQ1nk) | [Coffee Fox Kim Sam Wol OST Part.28 \(Soundtrack\)](https://open.spotify.com/album/4YmmFQg7H9aosnIhLeAFJf) | 3:28 | 2023-03-27 |  |
 | [In this world](https://open.spotify.com/track/2vXa3jnw1puqq9mRw4Nuit) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [In this world \(Webtoon'Plainwalker of Stigmatization' X KIMJAEJOONG\) \(Original Soundtrack\)](https://open.spotify.com/album/5efMyrzwotQXz5qxucXZQA) | 3:57 | 2022-08-02 | 2023-12-11 |
+| [Is it all right](https://open.spotify.com/track/0KngKTAh6HAlvAWp1rmmrj) | [Ran](https://open.spotify.com/artist/45WeznifMIAugR9udUQTNS) | [사랑도 없이 결혼 \(Original Soundtrack\), Pt1](https://open.spotify.com/album/0EkaOnrGPsSU6XRE6AW0DX) | 4:13 | 2024-01-03 |  |
 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 | 2022-08-12 | 2023-12-11 |
 | [It's always you](https://open.spotify.com/track/0eK4urzQJx9OtXbkzyp6qs) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [Café Anchorage OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/25VwWPtgnTjfsczZ7KwMj0) | 3:30 | 2023-04-01 |  |
 | [It's not what I want](https://open.spotify.com/track/6tEAPcJcKXUfAs2QveWgpQ) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Café Anchorage OST Part.19 \(Soundtrack\)](https://open.spotify.com/album/0IEOcub1mb7jJz3wvvtXWn) | 3:22 | 2023-06-13 |  |

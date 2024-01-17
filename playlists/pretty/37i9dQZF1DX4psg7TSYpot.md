@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Acoustic pop songs for chill summer days or nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,489 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,234 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 89 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/0bOCAiSF04TziDFLSQ1fLr) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/7dUNOUAXKoXqI9kZOU7Viw) | 4:06 |
 | 90 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 |
 
-Snapshot ID: `MCwyNDg3MDQ5OWUwNjQxODA0YWQ5ZjM3MWUyNzBiNTc2MjZlMjQ0N2Fh`
+Snapshot ID: `MCxhYWQyOTgwOWFlNDU0Y2QzMzdjM2M2ZWIyNmE0MzUyZmJhM2MzNDMz`

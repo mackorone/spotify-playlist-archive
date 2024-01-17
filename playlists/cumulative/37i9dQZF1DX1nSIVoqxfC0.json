@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146974,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
+    },
+    {
+      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -2380,6 +2402,32 @@
       "duration_ms": 282373,
       "name": "Driving To Heaven",
       "url": "https://open.spotify.com/track/57bZyLSHVspK6fw333UWXf"
+    },
+    {
+      "album": {
+        "name": "Drums (Feat. Kim Petras) [Tiesto Remix]",
+        "url": "https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Drums (Feat. Kim Petras) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/5QZmUKPG3uPU0hwJuHwfGD"
     },
     {
       "album": {
@@ -4870,7 +4918,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 269866,
       "name": "Maximal Crazy (Original Mix)",
       "url": "https://open.spotify.com/track/7aT2HFws6awkUXdrBAtIqR"
@@ -5390,7 +5438,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 255120,
       "name": "Paradise (Ti\u00ebsto Remix)",
       "url": "https://open.spotify.com/track/4lM7ZLoaasvHytXG1KpU5X"

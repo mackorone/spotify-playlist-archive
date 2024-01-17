@@ -1,357 +1,605 @@
 {
-  "2023-01-11": 1,
-  "2023-01-12": 2,
-  "2023-01-13": 3,
-  "2023-01-14": 6,
-  "2023-01-15": 7,
-  "2023-01-16": 8,
-  "2023-01-17": 9,
-  "2023-01-18": 10,
-  "2023-01-19": 13,
-  "2023-01-20": 20,
-  "2023-01-21": 27,
-  "2023-01-22": 37,
-  "2023-01-23": 51,
-  "2023-01-24": 56,
-  "2023-01-25": 59,
-  "2023-01-26": 64,
-  "2023-01-27": 70,
-  "2023-01-28": 75,
-  "2023-01-29": 79,
-  "2023-01-30": 80,
-  "2023-01-31": 80,
-  "2023-02-01": 99,
-  "2023-02-02": 102,
-  "2023-02-03": 106,
-  "2023-02-04": 111,
-  "2023-02-05": 114,
-  "2023-02-06": 116,
-  "2023-02-07": 116,
-  "2023-02-08": 124,
-  "2023-02-09": 124,
-  "2023-02-10": 131,
-  "2023-02-11": 138,
-  "2023-02-12": 172,
-  "2023-02-13": 197,
-  "2023-02-14": 197,
-  "2023-02-15": 223,
-  "2023-02-16": 245,
-  "2023-02-17": 262,
-  "2023-02-18": 317,
-  "2023-02-19": 319,
-  "2023-02-20": 349,
-  "2023-02-21": 376,
-  "2023-02-22": 402,
-  "2023-02-23": 421,
-  "2023-02-24": 445,
-  "2023-02-25": 482,
-  "2023-02-26": 501,
-  "2023-02-27": 541,
-  "2023-02-28": 541,
-  "2023-03-01": 562,
-  "2023-03-02": 592,
-  "2023-03-03": 612,
-  "2023-03-04": 632,
-  "2023-03-05": 669,
-  "2023-03-06": 669,
-  "2023-03-07": 679,
-  "2023-03-08": 705,
-  "2023-03-09": 734,
-  "2023-03-10": 748,
-  "2023-03-11": 765,
-  "2023-03-12": 778,
-  "2023-03-13": 802,
-  "2023-03-14": 820,
-  "2023-03-15": 834,
-  "2023-03-16": 852,
-  "2023-03-17": 852,
-  "2023-03-18": 886,
-  "2023-03-19": 912,
-  "2023-03-20": 928,
-  "2023-03-21": 944,
-  "2023-03-22": 962,
-  "2023-03-23": 973,
-  "2023-03-24": 973,
-  "2023-03-25": 1003,
-  "2023-03-26": 1017,
-  "2023-03-27": 1030,
-  "2023-03-28": 1048,
-  "2023-03-29": 1061,
-  "2023-03-30": 1088,
-  "2023-03-31": 1088,
-  "2023-04-01": 1105,
-  "2023-04-02": 1121,
-  "2023-04-03": 1172,
-  "2023-04-04": 1204,
-  "2023-04-05": 1225,
-  "2023-04-06": 1244,
-  "2023-04-07": 1261,
-  "2023-04-09": 1299,
-  "2023-04-10": 1318,
-  "2023-04-11": 1363,
-  "2023-04-12": 1363,
-  "2023-04-13": 1382,
-  "2023-04-14": 1406,
-  "2023-04-15": 1431,
-  "2023-04-16": 1450,
-  "2023-04-17": 1470,
-  "2023-04-18": 1485,
-  "2023-04-19": 1521,
-  "2023-04-20": 1534,
-  "2023-04-21": 1549,
-  "2023-04-22": 1563,
-  "2023-04-23": 1580,
-  "2023-04-24": 1599,
-  "2023-04-25": 1613,
-  "2023-04-26": 1641,
-  "2023-04-27": 1659,
-  "2023-04-28": 1674,
-  "2023-04-29": 1695,
-  "2023-04-30": 1707,
-  "2023-05-01": 1723,
-  "2023-05-02": 1737,
-  "2023-05-03": 1751,
-  "2023-05-04": 1756,
-  "2023-05-05": 1767,
-  "2023-05-06": 1780,
-  "2023-05-07": 1798,
-  "2023-05-08": 1808,
-  "2023-05-09": 1814,
-  "2023-05-10": 1819,
-  "2023-05-11": 1832,
-  "2023-05-12": 1842,
-  "2023-05-13": 1858,
-  "2023-05-14": 1876,
-  "2023-05-15": 1894,
-  "2023-05-16": 1902,
-  "2023-05-17": 1922,
-  "2023-05-18": 1943,
-  "2023-05-19": 1972,
-  "2023-05-20": 2019,
-  "2023-05-21": 2019,
-  "2023-05-22": 2019,
-  "2023-05-23": 2054,
-  "2023-05-24": 2068,
-  "2023-05-25": 2071,
-  "2023-05-26": 2079,
-  "2023-05-27": 2093,
-  "2023-05-28": 2105,
-  "2023-05-29": 2105,
-  "2023-05-30": 2133,
-  "2023-05-31": 2142,
-  "2023-06-01": 2157,
-  "2023-06-02": 2168,
-  "2023-06-03": 2189,
-  "2023-06-04": 2201,
-  "2023-06-05": 2222,
-  "2023-06-06": 2234,
-  "2023-06-07": 2249,
-  "2023-06-08": 2266,
-  "2023-06-09": 2282,
-  "2023-06-10": 2294,
-  "2023-06-11": 2314,
-  "2023-06-12": 2328,
-  "2023-06-13": 2347,
-  "2023-06-14": 2361,
-  "2023-06-15": 2373,
-  "2023-06-16": 2380,
-  "2023-06-17": 2390,
-  "2023-06-18": 2407,
-  "2023-06-19": 2418,
-  "2023-06-20": 2436,
-  "2023-06-21": 2442,
-  "2023-06-22": 2459,
-  "2023-06-23": 2470,
-  "2023-06-24": 2494,
-  "2023-06-25": 2512,
-  "2023-06-26": 2533,
-  "2023-06-27": 2549,
-  "2023-06-28": 2561,
-  "2023-06-29": 2567,
-  "2023-06-30": 2572,
-  "2023-07-01": 2609,
-  "2023-07-02": 2609,
-  "2023-07-03": 2625,
-  "2023-07-04": 2639,
-  "2023-07-05": 2657,
-  "2023-07-06": 2677,
-  "2023-07-07": 2677,
-  "2023-07-08": 2693,
-  "2023-07-09": 2708,
-  "2023-07-10": 2719,
-  "2023-07-11": 2724,
-  "2023-07-12": 2734,
-  "2023-07-13": 2744,
-  "2023-07-14": 2756,
-  "2023-07-15": 2762,
-  "2023-07-16": 2774,
-  "2023-07-17": 2788,
-  "2023-07-18": 2799,
-  "2023-07-19": 2811,
-  "2023-07-20": 2827,
-  "2023-07-21": 2837,
-  "2023-07-22": 2852,
-  "2023-07-23": 2864,
-  "2023-07-24": 2869,
-  "2023-07-25": 2884,
-  "2023-07-26": 2895,
-  "2023-07-27": 2907,
-  "2023-07-28": 2921,
-  "2023-07-29": 2932,
-  "2023-07-30": 2954,
-  "2023-07-31": 2973,
-  "2023-08-01": 2987,
-  "2023-08-02": 3004,
-  "2023-08-03": 3023,
-  "2023-08-04": 3035,
-  "2023-08-05": 3042,
-  "2023-08-06": 3063,
-  "2023-08-07": 3063,
-  "2023-08-08": 3068,
-  "2023-08-09": 3082,
-  "2023-08-10": 3089,
-  "2023-08-11": 3103,
-  "2023-08-12": 3113,
-  "2023-08-13": 3119,
-  "2023-08-14": 3127,
-  "2023-08-15": 3158,
-  "2023-08-16": 3158,
-  "2023-08-17": 3174,
-  "2023-08-18": 3184,
-  "2023-08-19": 3198,
-  "2023-08-20": 3206,
-  "2023-08-21": 3220,
-  "2023-08-22": 3234,
-  "2023-08-23": 3247,
-  "2023-08-24": 3255,
-  "2023-08-25": 3258,
-  "2023-08-26": 3271,
-  "2023-08-27": 3285,
-  "2023-08-28": 3298,
-  "2023-08-29": 3310,
-  "2023-08-30": 3316,
-  "2023-08-31": 3330,
-  "2023-09-01": 3353,
-  "2023-09-02": 3353,
-  "2023-09-03": 3367,
-  "2023-09-04": 3380,
-  "2023-09-05": 3390,
-  "2023-09-06": 3397,
-  "2023-09-07": 3404,
-  "2023-09-08": 3414,
-  "2023-09-09": 3424,
-  "2023-09-10": 3437,
-  "2023-09-11": 3442,
-  "2023-09-12": 3456,
-  "2023-09-13": 3472,
-  "2023-09-14": 3480,
-  "2023-09-15": 3497,
-  "2023-09-16": 3506,
-  "2023-09-17": 3513,
-  "2023-09-18": 3523,
-  "2023-09-19": 3537,
-  "2023-09-20": 3542,
-  "2023-09-21": 3550,
-  "2023-09-22": 3567,
-  "2023-09-23": 3571,
-  "2023-09-24": 3585,
-  "2023-09-25": 3595,
-  "2023-09-26": 3605,
-  "2023-09-27": 3613,
-  "2023-09-28": 3617,
-  "2023-09-29": 3626,
-  "2023-09-30": 3631,
-  "2023-10-01": 3637,
-  "2023-10-02": 3646,
-  "2023-10-03": 3655,
-  "2023-10-04": 3670,
-  "2023-10-05": 3682,
-  "2023-10-06": 3690,
-  "2023-10-07": 3704,
-  "2023-10-08": 3711,
-  "2023-10-09": 3719,
-  "2023-10-10": 3727,
-  "2023-10-11": 3750,
-  "2023-10-12": 3750,
-  "2023-10-13": 3754,
-  "2023-10-14": 3754,
-  "2023-10-15": 3754,
-  "2023-10-16": 3781,
-  "2023-10-17": 3781,
-  "2023-10-18": 3804,
-  "2023-10-19": 3815,
-  "2023-10-20": 3815,
-  "2023-10-21": 3830,
-  "2023-10-22": 3830,
-  "2023-10-23": 3851,
-  "2023-10-24": 3864,
-  "2023-10-25": 3864,
-  "2023-10-26": 3895,
-  "2023-10-27": 3898,
-  "2023-10-28": 3898,
-  "2023-10-29": 3898,
-  "2023-10-30": 3936,
-  "2023-10-31": 3936,
-  "2023-11-01": 3967,
-  "2023-11-02": 3972,
-  "2023-11-03": 3977,
-  "2023-11-04": 3977,
-  "2023-11-05": 3977,
-  "2023-11-06": 4020,
-  "2023-11-07": 4020,
-  "2023-11-08": 4020,
-  "2023-11-09": 4020,
-  "2023-11-10": 4057,
-  "2023-11-11": 4070,
-  "2023-11-12": 4082,
-  "2023-11-13": 4082,
-  "2023-11-14": 4082,
-  "2023-11-15": 4082,
-  "2023-11-16": 4082,
-  "2023-11-17": 4165,
-  "2023-11-18": 4165,
-  "2023-11-19": 4165,
-  "2023-11-20": 4165,
-  "2023-11-21": 4216,
-  "2023-11-22": 4229,
-  "2023-11-23": 4248,
-  "2023-11-24": 4248,
-  "2023-11-25": 4284,
-  "2023-11-26": 4284,
-  "2023-11-27": 4284,
-  "2023-11-28": 4284,
-  "2023-11-29": 4369,
-  "2023-11-30": 4369,
-  "2023-12-01": 4369,
-  "2023-12-02": 4392,
-  "2023-12-03": 4392,
-  "2023-12-04": 4392,
-  "2023-12-05": 4392,
-  "2023-12-06": 4445,
-  "2023-12-07": 4445,
-  "2023-12-08": 4445,
-  "2023-12-09": 4487,
-  "2023-12-10": 4487,
-  "2023-12-11": 4526,
-  "2023-12-12": 4526,
-  "2023-12-13": 4570,
-  "2023-12-14": 4586,
-  "2023-12-15": 4598,
-  "2023-12-16": 4614,
-  "2023-12-17": 4631,
-  "2023-12-18": 4647,
-  "2023-12-19": 4663,
-  "2023-12-20": 4671,
-  "2023-12-21": 4692,
-  "2023-12-22": 4704,
-  "2023-12-23": 4722,
-  "2023-12-24": 4741,
-  "2023-12-25": 4754,
-  "2023-12-26": 4777,
-  "2023-12-27": 4796,
-  "2023-12-30": 4839,
-  "2023-12-31": 4858,
-  "2024-01-01": 4878,
-  "2024-01-02": 4894,
-  "2024-01-03": 4914
+  "2024-01-17": 5179,
+  "date_first_scraped": "2023-01-11",
+  "description": "Plastikman and Chilly Gonzales' Takeover selection, as previously featured on <a href=\"spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL\">Ambient X</a>.",
+  "name": "Ambient X Takeover: Plastikman & Chilly Gonzales",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578466,
+      "name": "2/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt"
+    },
+    {
+      "album": {
+        "name": "76:14",
+        "url": "https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO"
+      },
+      "artists": [
+        {
+          "name": "Global Communication",
+          "url": "https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565106,
+      "name": "9:25",
+      "url": "https://open.spotify.com/track/1bOOE6hznd9IhYTJYpcOHs"
+    },
+    {
+      "album": {
+        "name": "76:14",
+        "url": "https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1"
+      },
+      "artists": [
+        {
+          "name": "Global Communication",
+          "url": "https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 574293,
+      "name": "9:25",
+      "url": "https://open.spotify.com/track/3CJdVCB0MjIzJWWebjxRQQ"
+    },
+    {
+      "album": {
+        "name": "Namlook I (Astrogator)",
+        "url": "https://open.spotify.com/album/5wcwf9lVb3sWIQbMeompPL"
+      },
+      "artists": [
+        {
+          "name": "Pete Namlook",
+          "url": "https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600000,
+      "name": "Astrogator (Part I)",
+      "url": "https://open.spotify.com/track/6fiaUP8J8dQ55GW9BULSpG"
+    },
+    {
+      "album": {
+        "name": "Electro-Soma",
+        "url": "https://open.spotify.com/album/0nFZszbiABmJPifD2zKwna"
+      },
+      "artists": [
+        {
+          "name": "B12",
+          "url": "https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291266,
+      "name": "Basic Emotion",
+      "url": "https://open.spotify.com/track/6gkXNt0pP1vPTMNCzXaK1C"
+    },
+    {
+      "album": {
+        "name": "Electro-Soma",
+        "url": "https://open.spotify.com/album/4qDcCVpOsd8V4MsmqZrPr1"
+      },
+      "artists": [
+        {
+          "name": "B12",
+          "url": "https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 292466,
+      "name": "Basic Emotion",
+      "url": "https://open.spotify.com/track/7ap94GD02s1oJqfmdXHd0N"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153320,
+      "name": "Bbydhyonchord",
+      "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 153320,
+      "name": "Bbydhyonchord",
+      "url": "https://open.spotify.com/track/35GYDmixAiE0d36qSPqfuO"
+    },
+    {
+      "album": {
+        "name": "Biokinetics",
+        "url": "https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg"
+      },
+      "artists": [
+        {
+          "name": "Porter Ricks",
+          "url": "https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509906,
+      "name": "Biokinetics 2",
+      "url": "https://open.spotify.com/track/1pXB6sODqCvLcq1CGDEISC"
+    },
+    {
+      "album": {
+        "name": "Consumed In Key",
+        "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 675173,
+      "name": "Consume (In Key)",
+      "url": "https://open.spotify.com/track/66yhxSm368DeSCIqkVIzsz"
+    },
+    {
+      "album": {
+        "name": "Consumed In Key",
+        "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 694373,
+      "name": "Consumed (In Key)",
+      "url": "https://open.spotify.com/track/0eJxW0WKebD7r7f1RHRqp6"
+    },
+    {
+      "album": {
+        "name": "Consumed In Key",
+        "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488706,
+      "name": "Contain (In Key)",
+      "url": "https://open.spotify.com/track/4arOV8LNqyTdxZPCpaF3oG"
+    },
+    {
+      "album": {
+        "name": "Sacred Honey",
+        "url": "https://open.spotify.com/album/0RRhjbaDSbl0NHALsxiXmn"
+      },
+      "artists": [
+        {
+          "name": "G. I. Gurdjieff",
+          "url": "https://open.spotify.com/artist/4zFrWxrEffCBWEqNnZyB8T"
+        },
+        {
+          "name": "Thomas de Hartmann",
+          "url": "https://open.spotify.com/artist/7jqkUMjqGY2FfZRUirtKdo"
+        },
+        {
+          "name": "Alessandra Celletti",
+          "url": "https://open.spotify.com/artist/0BbHILJDz4eN90gbl1mHZj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386399,
+      "name": "Easter Hymn and Night Procession",
+      "url": "https://open.spotify.com/track/2vUcbeYV5X6O8UfpdPKmVW"
+    },
+    {
+      "album": {
+        "name": "Consumed In Key",
+        "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251933,
+      "name": "Ekko (In Key)",
+      "url": "https://open.spotify.com/track/2Zde1F2WoWdANUHKXtyQQq"
+    },
+    {
+      "album": {
+        "name": "Ivory Tower",
+        "url": "https://open.spotify.com/album/0S69wprLxzNEGSB7vvEghL"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341786,
+      "name": "Final Fantasy",
+      "url": "https://open.spotify.com/track/2MNPkD5GdRFbboELecMIub"
+    },
+    {
+      "album": {
+        "name": "Gnossienne No. 1",
+        "url": "https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Alena Cherny",
+          "url": "https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296480,
+      "name": "Gnossienne No. 1",
+      "url": "https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1"
+    },
+    {
+      "album": {
+        "name": "All Encores",
+        "url": "https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 694150,
+      "name": "Harmonium in the Well",
+      "url": "https://open.spotify.com/track/0yszYXWBCnc1arCJDV8TAW"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77346,
+      "name": "I",
+      "url": "https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO"
+    },
+    {
+      "album": {
+        "name": "Consumed In Key",
+        "url": "https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517000,
+      "name": "Locomotion (In Key)",
+      "url": "https://open.spotify.com/track/1mhLRTKbnyP85NSpdb84Mx"
+    },
+    {
+      "album": {
+        "name": "Microgravity",
+        "url": "https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312493,
+      "name": "Microgravity",
+      "url": "https://open.spotify.com/track/4SxmbfErnDroZYcn3q1x6p"
+    },
+    {
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/0ybb3fO4tWtCzu4VKieRhL"
+      },
+      "artists": [
+        {
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276866,
+      "name": "Modul",
+      "url": "https://open.spotify.com/track/7Mv3oeWcNsL1MbEN7K6zKz"
+    },
+    {
+      "album": {
+        "name": "Bcd",
+        "url": "https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d"
+      },
+      "artists": [
+        {
+          "name": "Basic Channel",
+          "url": "https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356840,
+      "name": "Mutism",
+      "url": "https://open.spotify.com/track/3moYb5sN4MtjX7J4KkM7Dr"
+    },
+    {
+      "album": {
+        "name": "Heliopause",
+        "url": "https://open.spotify.com/album/3SZT7TfzSJaIdoHI8ttOBD"
+      },
+      "artists": [
+        {
+          "name": "Anne M\u00fcller",
+          "url": "https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355222,
+      "name": "Nummer 2",
+      "url": "https://open.spotify.com/track/1u3gt8ujPwrnf6VKtYVf5l"
+    },
+    {
+      "album": {
+        "name": "Late Night Tales: Belle and Sebastian, Vol. 2",
+        "url": "https://open.spotify.com/album/4Is3XZYpVDmda45V81MO5b"
+      },
+      "artists": [
+        {
+          "name": "David Behrman",
+          "url": "https://open.spotify.com/artist/3yX5L54KNk0sSmBscmv1Bv"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410120,
+      "name": "On the Other Ocean",
+      "url": "https://open.spotify.com/track/46UxS78qOWfuMhXEVN3dYb"
+    },
+    {
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/1eUshz0HoH4SglVcQnGIie"
+      },
+      "artists": [
+        {
+          "name": "Matador",
+          "url": "https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531063,
+      "name": "Opal Fruit",
+      "url": "https://open.spotify.com/track/6F0WCCJhcj3DDN0walKKWr"
+    },
+    {
+      "album": {
+        "name": "Three A.D.",
+        "url": "https://open.spotify.com/album/3rnjHjZRze3J2LxtTyA2C5"
+      },
+      "artists": [
+        {
+          "name": "Space Time Continuum",
+          "url": "https://open.spotify.com/artist/33QYizVJQem2U1aIVczr4q"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473666,
+      "name": "Oracle",
+      "url": "https://open.spotify.com/track/4tAYJDfRbhzfhpMC69pNzk"
+    },
+    {
+      "album": {
+        "name": "Octave Minds",
+        "url": "https://open.spotify.com/album/3YcXxBUWW9r8m1zXufK1tz"
+      },
+      "artists": [
+        {
+          "name": "Octave Minds",
+          "url": "https://open.spotify.com/artist/3t5CzAvVZ7ruA3Uv3QvUrt"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154893,
+      "name": "Projectionist",
+      "url": "https://open.spotify.com/track/5OVLuFPNrEkaUWnAJjPNGe"
+    },
+    {
+      "album": {
+        "name": "Nyman Brass",
+        "url": "https://open.spotify.com/album/559JTR0SI0JpV3rFYUC74B"
+      },
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+        },
+        {
+          "name": "Wingates Band",
+          "url": "https://open.spotify.com/artist/6K5whutQZRBdFQSqo8OpQm"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351866,
+      "name": "The Mistress",
+      "url": "https://open.spotify.com/track/1L4ztJ2EJR0K5viQfUKKmo"
+    },
+    {
+      "album": {
+        "name": "\u00c9chafaudages",
+        "url": "https://open.spotify.com/album/7czKVTAzUyPgwo9jiHCSrY"
+      },
+      "artists": [
+        {
+          "name": "Stella Le Page",
+          "url": "https://open.spotify.com/artist/6VzpJprdrDY9NCo9psNyQr"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144100,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/4l5g6raEmEtq6Ha8tUIgkm"
+    },
+    {
+      "album": {
+        "name": "Zauberberg",
+        "url": "https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 718720,
+      "name": "Zauberberg 7",
+      "url": "https://open.spotify.com/track/3iFMnvlobCg2GE1wwK726Z"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXb9GYWsyFlWx"
 }

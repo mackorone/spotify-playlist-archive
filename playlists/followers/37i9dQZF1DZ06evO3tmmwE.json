@@ -1,298 +1,1119 @@
 {
-  "2023-03-11": 267,
-  "2023-03-12": 270,
-  "2023-03-13": 274,
-  "2023-03-14": 276,
-  "2023-03-15": 278,
-  "2023-03-16": 278,
-  "2023-03-17": 278,
-  "2023-03-18": 285,
-  "2023-03-19": 285,
-  "2023-03-20": 287,
-  "2023-03-21": 291,
-  "2023-03-22": 294,
-  "2023-03-23": 296,
-  "2023-03-24": 296,
-  "2023-03-25": 299,
-  "2023-03-26": 300,
-  "2023-03-27": 300,
-  "2023-03-28": 300,
-  "2023-03-29": 304,
-  "2023-03-30": 307,
-  "2023-03-31": 307,
-  "2023-04-01": 309,
-  "2023-04-02": 309,
-  "2023-04-03": 311,
-  "2023-04-04": 312,
-  "2023-04-05": 313,
-  "2023-04-06": 314,
-  "2023-04-07": 318,
-  "2023-04-09": 321,
-  "2023-04-10": 322,
-  "2023-04-11": 326,
-  "2023-04-12": 326,
-  "2023-04-13": 329,
-  "2023-04-14": 332,
-  "2023-04-15": 332,
-  "2023-04-16": 332,
-  "2023-04-17": 334,
-  "2023-04-18": 335,
-  "2023-04-19": 336,
-  "2023-04-20": 337,
-  "2023-04-21": 340,
-  "2023-04-22": 343,
-  "2023-04-23": 346,
-  "2023-04-24": 346,
-  "2023-04-25": 351,
-  "2023-04-26": 354,
-  "2023-04-27": 356,
-  "2023-04-28": 358,
-  "2023-04-29": 359,
-  "2023-04-30": 361,
-  "2023-05-01": 364,
-  "2023-05-02": 363,
-  "2023-05-03": 366,
-  "2023-05-04": 367,
-  "2023-05-05": 373,
-  "2023-05-06": 376,
-  "2023-05-07": 378,
-  "2023-05-08": 381,
-  "2023-05-09": 382,
-  "2023-05-10": 384,
-  "2023-05-11": 384,
-  "2023-05-12": 389,
-  "2023-05-13": 393,
-  "2023-05-14": 396,
-  "2023-05-15": 394,
-  "2023-05-16": 397,
-  "2023-05-17": 398,
-  "2023-05-18": 400,
-  "2023-05-19": 402,
-  "2023-05-20": 404,
-  "2023-05-21": 404,
-  "2023-05-22": 404,
-  "2023-05-23": 409,
-  "2023-05-24": 411,
-  "2023-05-25": 411,
-  "2023-05-26": 411,
-  "2023-05-27": 414,
-  "2023-05-28": 415,
-  "2023-05-29": 415,
-  "2023-05-30": 423,
-  "2023-05-31": 424,
-  "2023-06-01": 427,
-  "2023-06-02": 429,
-  "2023-06-03": 430,
-  "2023-06-04": 433,
-  "2023-06-05": 436,
-  "2023-06-06": 435,
-  "2023-06-07": 441,
-  "2023-06-08": 446,
-  "2023-06-09": 464,
-  "2023-06-10": 481,
-  "2023-06-11": 488,
-  "2023-06-12": 495,
-  "2023-06-13": 498,
-  "2023-06-14": 503,
-  "2023-06-15": 511,
-  "2023-06-16": 519,
-  "2023-06-17": 524,
-  "2023-06-18": 531,
-  "2023-06-19": 534,
-  "2023-06-20": 538,
-  "2023-06-21": 550,
-  "2023-06-22": 552,
-  "2023-06-23": 555,
-  "2023-06-24": 560,
-  "2023-06-25": 565,
-  "2023-06-26": 569,
-  "2023-06-27": 573,
-  "2023-06-28": 576,
-  "2023-06-29": 581,
-  "2023-06-30": 583,
-  "2023-07-01": 593,
-  "2023-07-02": 593,
-  "2023-07-03": 594,
-  "2023-07-04": 599,
-  "2023-07-05": 601,
-  "2023-07-06": 613,
-  "2023-07-07": 613,
-  "2023-07-08": 613,
-  "2023-07-09": 623,
-  "2023-07-10": 626,
-  "2023-07-11": 628,
-  "2023-07-12": 631,
-  "2023-07-13": 637,
-  "2023-07-14": 648,
-  "2023-07-15": 657,
-  "2023-07-16": 665,
-  "2023-07-17": 671,
-  "2023-07-18": 674,
-  "2023-07-19": 680,
-  "2023-07-20": 680,
-  "2023-07-21": 689,
-  "2023-07-22": 695,
-  "2023-07-23": 705,
-  "2023-07-24": 712,
-  "2023-07-25": 713,
-  "2023-07-26": 717,
-  "2023-07-27": 721,
-  "2023-07-28": 723,
-  "2023-07-29": 729,
-  "2023-07-30": 729,
-  "2023-07-31": 742,
-  "2023-08-01": 749,
-  "2023-08-02": 754,
-  "2023-08-03": 754,
-  "2023-08-04": 760,
-  "2023-08-05": 767,
-  "2023-08-06": 773,
-  "2023-08-07": 773,
-  "2023-08-08": 773,
-  "2023-08-09": 776,
-  "2023-08-10": 778,
-  "2023-08-11": 780,
-  "2023-08-12": 780,
-  "2023-08-13": 780,
-  "2023-08-14": 780,
-  "2023-08-15": 780,
-  "2023-08-16": 780,
-  "2023-08-17": 780,
-  "2023-08-18": 780,
-  "2023-08-19": 780,
-  "2023-08-20": 809,
-  "2023-08-21": 809,
-  "2023-08-22": 811,
-  "2023-08-23": 811,
-  "2023-08-24": 811,
-  "2023-08-25": 811,
-  "2023-08-26": 823,
-  "2023-08-27": 823,
-  "2023-08-28": 826,
-  "2023-08-29": 826,
-  "2023-08-30": 826,
-  "2023-08-31": 831,
-  "2023-09-01": 833,
-  "2023-09-02": 833,
-  "2023-09-03": 833,
-  "2023-09-04": 833,
-  "2023-09-05": 833,
-  "2023-09-06": 833,
-  "2023-09-07": 833,
-  "2023-09-08": 833,
-  "2023-09-09": 833,
-  "2023-09-10": 833,
-  "2023-09-11": 833,
-  "2023-09-12": 833,
-  "2023-09-13": 833,
-  "2023-09-14": 833,
-  "2023-09-15": 833,
-  "2023-09-16": 857,
-  "2023-09-17": 857,
-  "2023-09-18": 857,
-  "2023-09-19": 858,
-  "2023-09-20": 858,
-  "2023-09-21": 858,
-  "2023-09-22": 863,
-  "2023-09-23": 863,
-  "2023-09-24": 863,
-  "2023-09-25": 863,
-  "2023-09-26": 869,
-  "2023-09-27": 869,
-  "2023-09-28": 869,
-  "2023-09-29": 869,
-  "2023-09-30": 869,
-  "2023-10-01": 869,
-  "2023-10-02": 869,
-  "2023-10-03": 869,
-  "2023-10-04": 869,
-  "2023-10-05": 869,
-  "2023-10-06": 869,
-  "2023-10-07": 869,
-  "2023-10-08": 869,
-  "2023-10-09": 869,
-  "2023-10-10": 869,
-  "2023-10-11": 869,
-  "2023-10-12": 869,
-  "2023-10-13": 869,
-  "2023-10-14": 869,
-  "2023-10-15": 869,
-  "2023-10-16": 869,
-  "2023-10-17": 869,
-  "2023-10-18": 869,
-  "2023-10-19": 869,
-  "2023-10-20": 869,
-  "2023-10-21": 869,
-  "2023-10-22": 869,
-  "2023-10-23": 869,
-  "2023-10-24": 869,
-  "2023-10-25": 869,
-  "2023-10-26": 869,
-  "2023-10-27": 869,
-  "2023-10-28": 869,
-  "2023-10-29": 869,
-  "2023-10-30": 869,
-  "2023-10-31": 869,
-  "2023-11-01": 869,
-  "2023-11-02": 869,
-  "2023-11-03": 869,
-  "2023-11-04": 869,
-  "2023-11-05": 869,
-  "2023-11-06": 869,
-  "2023-11-07": 869,
-  "2023-11-08": 869,
-  "2023-11-09": 869,
-  "2023-11-10": 869,
-  "2023-11-11": 935,
-  "2023-11-12": 935,
-  "2023-11-13": 935,
-  "2023-11-14": 935,
-  "2023-11-15": 935,
-  "2023-11-16": 935,
-  "2023-11-17": 935,
-  "2023-11-18": 935,
-  "2023-11-19": 935,
-  "2023-11-20": 935,
-  "2023-11-21": 935,
-  "2023-11-22": 935,
-  "2023-11-23": 935,
-  "2023-11-24": 935,
-  "2023-11-25": 935,
-  "2023-11-26": 935,
-  "2023-11-27": 935,
-  "2023-11-28": 935,
-  "2023-11-29": 935,
-  "2023-11-30": 935,
-  "2023-12-01": 935,
-  "2023-12-02": 935,
-  "2023-12-03": 935,
-  "2023-12-04": 935,
-  "2023-12-05": 935,
-  "2023-12-06": 935,
-  "2023-12-07": 935,
-  "2023-12-08": 935,
-  "2023-12-09": 935,
-  "2023-12-10": 935,
-  "2023-12-11": 935,
-  "2023-12-12": 935,
-  "2023-12-13": 935,
-  "2023-12-14": 962,
-  "2023-12-15": 962,
-  "2023-12-16": 962,
-  "2023-12-17": 962,
-  "2023-12-18": 961,
-  "2023-12-19": 964,
-  "2023-12-20": 964,
-  "2023-12-21": 965,
-  "2023-12-22": 968,
-  "2023-12-23": 967,
-  "2023-12-24": 969,
-  "2023-12-25": 970,
-  "2023-12-26": 972,
-  "2023-12-27": 972,
-  "2023-12-30": 974,
-  "2023-12-31": 973,
-  "2024-01-01": 975,
-  "2024-01-02": 975,
-  "2024-01-03": 976
+  "2024-01-17": 990,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
+  "name": "This Is Bo Bundy",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142415,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
+    },
+    {
+      "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "3 Noches",
+      "url": "https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi"
+    },
+    {
+      "album": {
+        "name": "Alpaca Hearts",
+        "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198164,
+      "name": "Alpaca Hearts",
+      "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
+    },
+    {
+      "album": {
+        "name": "Alto Calibre",
+        "url": "https://open.spotify.com/album/1dvxCTaYYJme526U0WEAek"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
+        {
+          "name": "Tapz Money",
+          "url": "https://open.spotify.com/artist/4cdMZM15Wtqv9u9Ih4DXTt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160052,
+      "name": "Alto Calibre",
+      "url": "https://open.spotify.com/track/0kKsJ0Pws7KiHQbFMRxGvS"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30459,
+      "name": "BBS Interlude",
+      "url": "https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ"
+    },
+    {
+      "album": {
+        "name": "Beamer",
+        "url": "https://open.spotify.com/album/6Rs7o9wq4jXCnCJuwfo0Ce"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 117744,
+      "name": "Beamer",
+      "url": "https://open.spotify.com/track/3OL0bIhbnzpPgQlR8BWfRg"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162142,
+      "name": "Before The Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
+    },
+    {
+      "album": {
+        "name": "Bien Horniado",
+        "url": "https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R"
+      },
+      "artists": [
+        {
+          "name": "Big Los",
+          "url": "https://open.spotify.com/artist/1FHtqDcXHlMd3icr4Gb5De"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Jandres",
+          "url": "https://open.spotify.com/artist/1dm56ndSieUS8r21629uvt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192186,
+      "name": "Bien Horniado",
+      "url": "https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "HOODLUM",
+          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
+        },
+        {
+          "name": "Le$",
+          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Big Chains",
+      "url": "https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX"
+    },
+    {
+      "album": {
+        "name": "E30",
+        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
+      },
+      "artists": [
+        {
+          "name": "Le$",
+          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287973,
+      "name": "Big Le$ter",
+      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
+    },
+    {
+      "album": {
+        "name": "Bo Bundy In Japan",
+        "url": "https://open.spotify.com/album/1qEth0z87VWwEUyOu54kv1"
+      },
+      "artists": [
+        {
+          "name": "TheWaterBoyz710",
+          "url": "https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146357,
+      "name": "Bo Bundy In Japan",
+      "url": "https://open.spotify.com/track/7t9BQNLGNQvW4OCS8T9T1i"
+    },
+    {
+      "album": {
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164231,
+      "name": "Bofo",
+      "url": "https://open.spotify.com/track/1w8E3O3yhbPGPBbVZf6TZq"
+    },
+    {
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155928,
+      "name": "Cassius Clay",
+      "url": "https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi"
+    },
+    {
+      "album": {
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Chingo Bling",
+          "url": "https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103810,
+      "name": "Cleto's Cumbia",
+      "url": "https://open.spotify.com/track/6FV2yWirHKhStM39YqTUZ6"
+    },
+    {
+      "album": {
+        "name": "Cocaine Cowboy",
+        "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 144662,
+      "name": "Cocaine Cowboy",
+      "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
+    },
+    {
+      "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179263,
+      "name": "Colorados",
+      "url": "https://open.spotify.com/track/0DBmi0hlNhVsU76vcxo1sh"
+    },
+    {
+      "album": {
+        "name": "Cuerno De Chivo",
+        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
+      },
+      "artists": [
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155376,
+      "name": "Cuerno De Chivo",
+      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
+    },
+    {
+      "album": {
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Shrt Lyfe",
+          "url": "https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105629,
+      "name": "El Drogadito",
+      "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
+    },
+    {
+      "album": {
+        "name": "EL RODEO",
+        "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
+      },
+      "artists": [
+        {
+          "name": "Rap Geekz",
+          "url": "https://open.spotify.com/artist/2nYa8KsU3Q5McB7ptTR26O"
+        },
+        {
+          "name": "Gringo the MC",
+          "url": "https://open.spotify.com/artist/2GKgk9xsRvwl1ZgDGBH2Dh"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226528,
+      "name": "EL RODEO",
+      "url": "https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58"
+    },
+    {
+      "album": {
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68440,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/1hwd655VNQi36ID8lbpM6R"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142575,
+      "name": "High So High",
+      "url": "https://open.spotify.com/track/53DJ4kiDGJWsPANRJ5Cfvl"
+    },
+    {
+      "album": {
+        "name": "Contra el Mundo",
+        "url": "https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Trill Wavy",
+          "url": "https://open.spotify.com/artist/1KxUNpDUvoNJNUqBmGCD7L"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148584,
+      "name": "Iced Up",
+      "url": "https://open.spotify.com/track/0CIwHAk9lkaNoHLx087IqV"
+    },
+    {
+      "album": {
+        "name": "Jefe De Jefe's",
+        "url": "https://open.spotify.com/album/50ql6xASxfasenDkbofmGQ"
+      },
+      "artists": [
+        {
+          "name": "Isaiah DeLeon",
+          "url": "https://open.spotify.com/artist/3PugnUzQGs7FAN9AzR35Nu"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 198452,
+      "name": "Jefe De Jefe's",
+      "url": "https://open.spotify.com/track/1uVic5NvC1AmDNCUTHd5Ln"
+    },
+    {
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132519,
+      "name": "LA Nights",
+      "url": "https://open.spotify.com/track/1eemI5NsZTYe5vkIDOlKR6"
+    },
+    {
+      "album": {
+        "name": "Contra el Mundo",
+        "url": "https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Ronnie Trees",
+          "url": "https://open.spotify.com/artist/5wvqDnrMEfNwAPCFr8u0qR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87384,
+      "name": "Like Sheen",
+      "url": "https://open.spotify.com/track/6dMLp2T3kdrEJjmnUssBhn"
+    },
+    {
+      "album": {
+        "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
+        "url": "https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI"
+      },
+      "artists": [
+        {
+          "name": "Rozay",
+          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        },
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
+      "url": "https://open.spotify.com/track/5wT9U3AVV5VPIU6IH7tX0S"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Mexican Heaven",
+      "url": "https://open.spotify.com/track/0YzkYtsG5jFfK1k22n3kCz"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Izzy93",
+          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107000,
+      "name": "Mexicanos",
+      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
+    },
+    {
+      "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161253,
+      "name": "Mi Barrio",
+      "url": "https://open.spotify.com/track/3kfQEcsyEEYgQtXrXwkjZq"
+    },
+    {
+      "album": {
+        "name": "Contra el Mundo",
+        "url": "https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Glock Simmons",
+          "url": "https://open.spotify.com/artist/3HcXn8TlSRaOcRCtGNvCzL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171048,
+      "name": "Money Manziel",
+      "url": "https://open.spotify.com/track/4ZlgEjgVTgnOgCC7uEI9XR"
+    },
+    {
+      "album": {
+        "name": "Nave 687",
+        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207230,
+      "name": "Nave 687",
+      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
+    },
+    {
+      "album": {
+        "name": "No Bailes Asi (Remix)",
+        "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
+      },
+      "artists": [
+        {
+          "name": "Santos Jaguar",
+          "url": "https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "No Bailes Asi - Remix",
+      "url": "https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Andy Hernandez",
+          "url": "https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124879,
+      "name": "Pa los Hombres",
+      "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
+    },
+    {
+      "album": {
+        "name": "Pa Mi Gente",
+        "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Prolifek",
+          "url": "https://open.spotify.com/artist/702sOLRskZxAkEH1czvwQX"
+        },
+        {
+          "name": "Sam King",
+          "url": "https://open.spotify.com/artist/0VymO8inS4wKgGtfeQpT3r"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261407,
+      "name": "Pa Mi Gente",
+      "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
+    },
+    {
+      "album": {
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117420,
+      "name": "Pancho Villa",
+      "url": "https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh"
+    },
+    {
+      "album": {
+        "name": "PLAYMAKER PT.2",
+        "url": "https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165719,
+      "name": "PLAYMAKER PT.2",
+      "url": "https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII"
+    },
+    {
+      "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Grupo Zaaz",
+          "url": "https://open.spotify.com/artist/3reo0BlmIcT0KnUfkolHuw"
+        },
+        {
+          "name": "Tropical Panam\u00e1",
+          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264435,
+      "name": "Que Caramba",
+      "url": "https://open.spotify.com/track/7iPskbMmivTkYKGTkM4Y3m"
+    },
+    {
+      "album": {
+        "name": "Ramon Ayala (feat. Bo Bundy)",
+        "url": "https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167766,
+      "name": "Ramon Ayala (feat. Bo Bundy)",
+      "url": "https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209111,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Riding On 6's",
+      "url": "https://open.spotify.com/track/4zZAnmtU2XVTrBpn4BPpH4"
+    },
+    {
+      "album": {
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109844,
+      "name": "RVD",
+      "url": "https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr"
+    },
+    {
+      "album": {
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256161,
+      "name": "Slumped Freestyle",
+      "url": "https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0"
+    },
+    {
+      "album": {
+        "name": "Sola Y Triste",
+        "url": "https://open.spotify.com/album/0ODvHoyygM4uAzueYPyFxb"
+      },
+      "artists": [
+        {
+          "name": "MC Magic",
+          "url": "https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1"
+        },
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "El Terricola",
+          "url": "https://open.spotify.com/artist/0TejuLSXdykDokkruhM9aF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262870,
+      "name": "Sola Y Triste",
+      "url": "https://open.spotify.com/track/7B3dffBBy8YqJnWITEKOu4"
+    },
+    {
+      "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168277,
+      "name": "Suicidal Thoughts",
+      "url": "https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV"
+    },
+    {
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x"
+      },
+      "artists": [
+        {
+          "name": "N.E Mafio",
+          "url": "https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199414,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 131200,
+      "name": "Texas Hold Em",
+      "url": "https://open.spotify.com/track/51RN24DzFHyqE3qqhQcWMU"
+    },
+    {
+      "album": {
+        "name": "Hustle & Flow",
+        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
+      },
+      "artists": [
+        {
+          "name": "Rozay",
+          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144014,
+      "name": "Tonta (feat. Bo Bundy)",
+      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
+    },
+    {
+      "album": {
+        "name": "Tourin' TX",
+        "url": "https://open.spotify.com/album/1utp7rDNUx2mI6vQ4YFZex"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 159712,
+      "name": "Tourin' TX",
+      "url": "https://open.spotify.com/track/6qX8E7sQPGKh7b6ouEPT52"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159712,
+      "name": "Touring Tx",
+      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
+    },
+    {
+      "album": {
+        "name": "Uno Cuhh",
+        "url": "https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Chingo Bling",
+          "url": "https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154644,
+      "name": "Uno Cuhh",
+      "url": "https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD"
+    },
+    {
+      "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151524,
+      "name": "Vida Lujosa",
+      "url": "https://open.spotify.com/track/4i6R1XRaZeoq3TwT6zqTdB"
+    },
+    {
+      "album": {
+        "name": "XQ",
+        "url": "https://open.spotify.com/album/1mK5rEIJ2p7QQCN1XVYmqy"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141866,
+      "name": "XQ",
+      "url": "https://open.spotify.com/track/5i7Xg48Q0gS40rKVZwDuRA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tmmwE"
 }

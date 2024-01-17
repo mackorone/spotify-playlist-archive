@@ -4,7 +4,7 @@
 
 > 
 
-229 songs - 15 hr 37 min
+230 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-10-22 | 2022-07-06 |
 | [Light Of Day](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-07-13 | 2023-05-19 |
 | [Like The Old Days](https://open.spotify.com/track/3o0yIwcf91q6p6n8xs5NVQ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/40yz3IgIDiz0LoiVZJF4ri) | 4:00 | 2022-11-17 | 2023-02-23 |
-| [Lonely Night](https://open.spotify.com/track/3AXnJq4P3X03O4NVSHQv9c) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 3:29 | 2023-12-11 |  |
+| [Lonely Night](https://open.spotify.com/track/3AXnJq4P3X03O4NVSHQv9c) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 3:29 | 2023-12-11 | 2024-01-12 |
 | [Loso Na Madesu](https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Loso Na Madesu](https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx) | 3:07 | 2023-04-04 | 2023-10-04 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-25 | 2023-03-09 |
 | [Lucky You](https://open.spotify.com/track/0E10pZR7dp8QkUjXT57qru) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Lucky You](https://open.spotify.com/album/73kzrMZuaXfa9AT7UviQLZ) | 4:36 | 2022-06-09 | 2022-07-14 |
@@ -169,7 +169,7 @@
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-01-09 | 2023-07-08 |
 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 | 2023-12-19 |  |
 | [Right Here](https://open.spotify.com/track/5lheFJ9dG8CvAUmDobTTYP) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [JWords](https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV) | [Right Here](https://open.spotify.com/album/6eVyeXNcxcfv0eE5fZmteF) | 2:13 | 2023-09-26 |  |
-| [Rubble](https://open.spotify.com/track/0nbkQCyzpDHuANCnXbjUfc) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Bolted](https://open.spotify.com/album/0BxkPi0ivE10et9zJ576x4) | 3:56 | 2023-10-20 |  |
+| [Rubble](https://open.spotify.com/track/0nbkQCyzpDHuANCnXbjUfc) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Bolted](https://open.spotify.com/album/0BxkPi0ivE10et9zJ576x4) | 3:56 | 2023-10-20 | 2024-01-12 |
 | [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 | 2022-09-22 | 2022-10-08 |
 | [S e x](https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [S e x](https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO) | 3:01 | 2023-10-12 |  |
 | [Satisfy You](https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Satisfy You](https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg) | 3:27 | 2023-10-26 |  |
@@ -185,6 +185,7 @@
 | [Snow Globes](https://open.spotify.com/track/3OM2VlABYKmzQRFVJuiQMy) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Snow Globes](https://open.spotify.com/album/1cdB6veqHH2BhCURbjNV5s) | 9:13 | 2022-01-19 | 2022-06-14 |
 | [softscars](https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr) | 3:26 | 2023-09-15 |  |
 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 | 2023-09-15 |  |
+| [Somebody \- Trance Wax Remix](https://open.spotify.com/track/5QzS1Urzz6yS4mNscC5Ckl) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Somebody \(Trance Wax Remix\)](https://open.spotify.com/album/3mN2pmlEOx5Pix0W1gCVO3) | 2:51 | 2024-01-11 |  |
 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 | 2022-11-09 | 2023-03-30 |
 | [Sparkle Tape Break Up \- Mndsgn Remix](https://open.spotify.com/track/1I36mRlYXhAkUVygbtPZGd) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Mood Variant \(The Remixes\)](https://open.spotify.com/album/7mozKcwF1bQhD7zmSuCzvk) | 3:55 | 2022-04-09 | 2022-09-23 |
 | [Star](https://open.spotify.com/track/4uHSypi6xnu8YlmLjC3tns) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Un/limited Love](https://open.spotify.com/album/60QrBH7P0Iyne4T999YL0F) | 3:23 | 2023-11-10 | 2023-12-20 |

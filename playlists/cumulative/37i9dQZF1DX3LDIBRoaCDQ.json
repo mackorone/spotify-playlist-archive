@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Leave Home (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104733,
+      "name": "Gimme Gimme Shock Treatment - 2017 Remaster",
+      "url": "https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN"
+    },
+    {
+      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 206946,
       "name": "Harness Your Hopes - B-side",
       "url": "https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man",
       "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
@@ -1378,6 +1396,24 @@
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man - Album Version (Stereo)",
       "url": "https://open.spotify.com/track/5Q4OndPgegGCR88wPsXswf"
+    },
+    {
+      "album": {
+        "name": "Germ Free Adolescents",
+        "url": "https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/0vlD6vTcdjXOt2eBwBFhRm"
     },
     {
       "album": {
@@ -2242,7 +2278,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": "2024-01-11",
       "duration_ms": 186146,
       "name": "Radio, Radio",
       "url": "https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg"
@@ -2951,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144585,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
+    },
+    {
+      "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
       },
@@ -3142,7 +3196,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 130826,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"

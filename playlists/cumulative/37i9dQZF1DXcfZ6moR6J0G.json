@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "A Certain Shade of Green",
       "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 274733,
       "name": "Giving In",
       "url": "https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": "2024-01-16",
       "duration_ms": 196853,
       "name": "How Can I Live",
       "url": "https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J"
@@ -2441,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142866,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/6zd772F94reUnGHulNeEFm"
+    },
+    {
+      "album": {
         "name": "Candyass",
         "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 193200,
       "name": "Vitamin",
       "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"

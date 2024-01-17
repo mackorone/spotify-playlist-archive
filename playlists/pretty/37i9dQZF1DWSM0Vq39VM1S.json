@@ -1,6 +1,6 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 159956,
+  "num_followers": 160420,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Backspacer",
-        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Just Breathe",
-      "url": "https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 188877,
       "name": "First Day of My Life",
       "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Backspacer",
+        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Just Breathe",
+      "url": "https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Let It All Go",
-        "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        },
-        {
-          "name": "RHODES",
-          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
-        }
-      ],
-      "duration_ms": 280757,
-      "name": "Let It All Go",
-      "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 211500,
       "name": "Playground Love",
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Let It All Go",
+        "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "duration_ms": 280757,
+      "name": "Let It All Go",
+      "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Sitting, Waiting, Wishing",
+      "url": "https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Sitting, Waiting, Wishing",
-      "url": "https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Everglow",
-        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "Everglow - Edit",
-      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Citizen of Glass",
         "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 235988,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Everglow - Edit",
+      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -543,6 +527,70 @@
       "duration_ms": 369293,
       "name": "To Zion (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 284130,
+      "name": "The Only Thing",
+      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -567,38 +615,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 284130,
-      "name": "The Only Thing",
-      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 213373,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Epitaph",
-        "url": "https://open.spotify.com/album/6Dx95qiRnig7JG4UoZtyFA"
-      },
-      "artists": [
-        {
-          "name": "Moriarty",
-          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
-        }
-      ],
-      "duration_ms": 236910,
-      "name": "Long Live the (D)Evil",
-      "url": "https://open.spotify.com/track/7LSQYhyOhooiBpDva8AJaC"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/6Dx95qiRnig7JG4UoZtyFA"
+      },
+      "artists": [
+        {
+          "name": "Moriarty",
+          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
+        }
+      ],
+      "duration_ms": 236910,
+      "name": "Long Live the (D)Evil",
+      "url": "https://open.spotify.com/track/7LSQYhyOhooiBpDva8AJaC"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL"
       },
@@ -847,38 +863,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
-        "name": "Going To Where The Tea Trees Are",
-        "url": "https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU"
-      },
-      "artists": [
-        {
-          "name": "Peter von Poehl",
-          "url": "https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "The Story of the Impossible",
-      "url": "https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -911,18 +895,34 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ"
+        "name": "Going To Where The Tea Trees Are",
+        "url": "https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Peter von Poehl",
+          "url": "https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W"
         }
       ],
-      "duration_ms": 159013,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG"
+      "duration_ms": 217640,
+      "name": "The Story of the Impossible",
+      "url": "https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 297720,
+      "name": "The Sweet Sound of You",
+      "url": "https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+        "name": "Please",
+        "url": "https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 297720,
-      "name": "The Sweet Sound of You",
-      "url": "https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG"
+      "duration_ms": 159013,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/67P7QngMeXMuA1qi9JqlyG"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Fly Like an Eagle",
-        "url": "https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq"
+        "name": "Best Of & Variations",
+        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
       },
       "artists": [
         {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
         }
       ],
-      "duration_ms": 272586,
-      "name": "Fly Like an Eagle",
-      "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
+      "duration_ms": 159706,
+      "name": "Il y a",
+      "url": "https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-12-13 12:56:56",
       "album": {
-        "name": "Best Of & Variations",
-        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "Il y a",
-      "url": "https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
         "name": "Double Shifts",
         "url": "https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb"
       },
@@ -1179,6 +1163,38 @@
       "duration_ms": 208448,
       "name": "Double Shifts",
       "url": "https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Fly Like an Eagle",
+        "url": "https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 272586,
+      "name": "Fly Like an Eagle",
+      "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
+    },
+    {
+      "added_at": "2023-12-13 12:56:56",
+      "album": {
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "The Summer Wind",
+      "url": "https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu"
     },
     {
       "added_at": "2023-12-13 12:56:56",
@@ -1211,22 +1227,6 @@
       "duration_ms": 192189,
       "name": "On the Road - Radio Edit",
       "url": "https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw"
-    },
-    {
-      "added_at": "2023-12-13 12:56:56",
-      "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "The Summer Wind",
-      "url": "https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu"
     },
     {
       "added_at": "2023-12-13 12:56:56",

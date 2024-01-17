@@ -4,7 +4,7 @@
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-87 songs - 7 hr 34 min
+88 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Faded](https://open.spotify.com/track/1mXf4qYj0F6TQjC68HgVpB) | [Port Manteau](https://open.spotify.com/artist/4ojaRUOBuNIGMobiA8wezo) | [Faded/Pyro](https://open.spotify.com/album/5aUAYUnJtBGYJx3pi8wzeC) | 3:27 | 2021-08-27 | 2022-07-22 |
 | [Fantasia](https://open.spotify.com/track/2eQ5IRgLQAVwTgCx4IfBDE) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq) | 6:33 | 2021-08-27 | 2022-11-20 |
 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 | 2021-08-27 |  |
+| [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/4czjZSQpYx1eXjACRi5mhF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans Remixes](https://open.spotify.com/album/35eR9Mc46LYOTNan8SS2VS) | 3:59 | 2021-08-27 |  |
 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 | 2021-08-27 | 2023-12-30 |
 | [Feels Right \- Gerd Janson Remix, Radio Edit](https://open.spotify.com/track/0cxuF33BFxZ3qrIN85NAs3) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Feels Right \(Gerd Janson Remix\)](https://open.spotify.com/album/4uu60lr9Rk5tv2xL4jVHj9) | 3:59 | 2021-08-27 | 2022-07-29 |
 | [First Sight](https://open.spotify.com/track/1T8DhSO31RKXplrFySKAAy) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [First Sight](https://open.spotify.com/album/0KODhsUPoNi0IBrMxobYr1) | 2:32 | 2021-08-27 |  |
@@ -56,7 +57,7 @@
 | [Lille Vals](https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ) | [Storken](https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi) | [Lille Vals](https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x) | 3:55 | 2021-08-27 |  |
 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 | 2021-08-27 |  |
 | [Love Divide](https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n) | [PADDY](https://open.spotify.com/artist/0Dcbqd0bkwytdhGS8Zvuky) | [Love Divide](https://open.spotify.com/album/362ceaJQRuOKtYw8xsGIa3) | 3:52 | 2021-08-27 |  |
-| [Lyra \- Dusky Remix](https://open.spotify.com/track/3vZf4XO3DAXef9aOyx0SVW) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lyra \(Dusky Remix\)](https://open.spotify.com/album/1NarEuoYt3DZ7CGFOPFFmb) | 5:13 | 2021-08-27 |  |
+| [Lyra \- Dusky Remix](https://open.spotify.com/track/3vZf4XO3DAXef9aOyx0SVW) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lyra \(Dusky Remix\)](https://open.spotify.com/album/1NarEuoYt3DZ7CGFOPFFmb) | 5:13 | 2021-08-27 | 2024-01-04 |
 | [Make Me](https://open.spotify.com/track/1ipzEtURu9dGtQNAd8FD8l) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Make Me](https://open.spotify.com/album/0H1OTlkf52AORmYSFLBnBt) | 6:30 | 2021-08-27 | 2022-07-12 |
 | [Make Me](https://open.spotify.com/track/2otszgw8fupcliw4JlvuTh) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Make Me](https://open.spotify.com/album/3KgftNm8luL4z4HvxkSJHe) | 6:30 | 2021-08-27 | 2023-03-10 |
 | [Merek](https://open.spotify.com/track/4bMsnSgIQmtvFXQcq7jG8e) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 5:39 | 2021-08-27 | 2022-07-29 |

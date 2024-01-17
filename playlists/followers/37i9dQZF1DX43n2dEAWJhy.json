@@ -1,333 +1,581 @@
 {
-  "2023-02-04": 204,
-  "2023-02-05": 220,
-  "2023-02-06": 224,
-  "2023-02-07": 230,
-  "2023-02-08": 261,
-  "2023-02-09": 261,
-  "2023-02-10": 268,
-  "2023-02-11": 294,
-  "2023-02-12": 322,
-  "2023-02-13": 338,
-  "2023-02-14": 338,
-  "2023-02-15": 353,
-  "2023-02-16": 365,
-  "2023-02-17": 384,
-  "2023-02-18": 417,
-  "2023-02-19": 421,
-  "2023-02-20": 431,
-  "2023-02-21": 443,
-  "2023-02-22": 461,
-  "2023-02-23": 477,
-  "2023-02-24": 490,
-  "2023-02-25": 510,
-  "2023-02-26": 525,
-  "2023-02-27": 547,
-  "2023-02-28": 547,
-  "2023-03-01": 560,
-  "2023-03-02": 570,
-  "2023-03-03": 578,
-  "2023-03-04": 585,
-  "2023-03-05": 608,
-  "2023-03-06": 608,
-  "2023-03-07": 622,
-  "2023-03-08": 628,
-  "2023-03-09": 643,
-  "2023-03-10": 653,
-  "2023-03-11": 658,
-  "2023-03-12": 667,
-  "2023-03-13": 675,
-  "2023-03-14": 687,
-  "2023-03-15": 698,
-  "2023-03-16": 702,
-  "2023-03-17": 702,
-  "2023-03-18": 714,
-  "2023-03-19": 723,
-  "2023-03-20": 730,
-  "2023-03-21": 741,
-  "2023-03-22": 747,
-  "2023-03-23": 759,
-  "2023-03-24": 759,
-  "2023-03-25": 775,
-  "2023-03-26": 779,
-  "2023-03-27": 793,
-  "2023-03-28": 801,
-  "2023-03-29": 805,
-  "2023-03-30": 819,
-  "2023-03-31": 819,
-  "2023-04-01": 829,
-  "2023-04-02": 831,
-  "2023-04-03": 836,
-  "2023-04-04": 847,
-  "2023-04-05": 852,
-  "2023-04-06": 865,
-  "2023-04-07": 868,
-  "2023-04-09": 884,
-  "2023-04-10": 890,
-  "2023-04-11": 905,
-  "2023-04-12": 905,
-  "2023-04-13": 907,
-  "2023-04-14": 912,
-  "2023-04-15": 916,
-  "2023-04-16": 920,
-  "2023-04-17": 925,
-  "2023-04-18": 926,
-  "2023-04-19": 929,
-  "2023-04-20": 938,
-  "2023-04-21": 942,
-  "2023-04-22": 946,
-  "2023-04-23": 947,
-  "2023-04-24": 950,
-  "2023-04-25": 956,
-  "2023-04-26": 962,
-  "2023-04-27": 969,
-  "2023-04-28": 971,
-  "2023-04-29": 975,
-  "2023-04-30": 979,
-  "2023-05-01": 983,
-  "2023-05-02": 989,
-  "2023-05-03": 992,
-  "2023-05-04": 994,
-  "2023-05-05": 999,
-  "2023-05-06": 1002,
-  "2023-05-07": 1006,
-  "2023-05-08": 1015,
-  "2023-05-09": 1018,
-  "2023-05-10": 1026,
-  "2023-05-11": 1028,
-  "2023-05-12": 1032,
-  "2023-05-13": 1036,
-  "2023-05-14": 1043,
-  "2023-05-15": 1046,
-  "2023-05-16": 1050,
-  "2023-05-17": 1055,
-  "2023-05-18": 1059,
-  "2023-05-19": 1060,
-  "2023-05-20": 1072,
-  "2023-05-21": 1072,
-  "2023-05-22": 1072,
-  "2023-05-23": 1080,
-  "2023-05-24": 1093,
-  "2023-05-25": 1096,
-  "2023-05-26": 1102,
-  "2023-05-27": 1108,
-  "2023-05-28": 1108,
-  "2023-05-29": 1108,
-  "2023-05-30": 1110,
-  "2023-05-31": 1113,
-  "2023-06-01": 1115,
-  "2023-06-02": 1118,
-  "2023-06-03": 1123,
-  "2023-06-04": 1128,
-  "2023-06-05": 1135,
-  "2023-06-06": 1141,
-  "2023-06-07": 1143,
-  "2023-06-08": 1147,
-  "2023-06-09": 1153,
-  "2023-06-10": 1156,
-  "2023-06-11": 1156,
-  "2023-06-12": 1159,
-  "2023-06-13": 1163,
-  "2023-06-14": 1169,
-  "2023-06-15": 1173,
-  "2023-06-16": 1180,
-  "2023-06-17": 1191,
-  "2023-06-18": 1198,
-  "2023-06-19": 1198,
-  "2023-06-20": 1204,
-  "2023-06-21": 1207,
-  "2023-06-22": 1209,
-  "2023-06-23": 1211,
-  "2023-06-24": 1214,
-  "2023-06-25": 1222,
-  "2023-06-26": 1225,
-  "2023-06-27": 1230,
-  "2023-06-28": 1231,
-  "2023-06-29": 1235,
-  "2023-06-30": 1237,
-  "2023-07-01": 1243,
-  "2023-07-02": 1243,
-  "2023-07-03": 1250,
-  "2023-07-04": 1255,
-  "2023-07-05": 1259,
-  "2023-07-06": 1278,
-  "2023-07-07": 1278,
-  "2023-07-08": 1282,
-  "2023-07-09": 1283,
-  "2023-07-10": 1285,
-  "2023-07-11": 1286,
-  "2023-07-12": 1286,
-  "2023-07-13": 1291,
-  "2023-07-14": 1294,
-  "2023-07-15": 1296,
-  "2023-07-16": 1303,
-  "2023-07-17": 1307,
-  "2023-07-18": 1309,
-  "2023-07-19": 1311,
-  "2023-07-20": 1311,
-  "2023-07-21": 1318,
-  "2023-07-22": 1321,
-  "2023-07-23": 1323,
-  "2023-07-24": 1330,
-  "2023-07-25": 1329,
-  "2023-07-26": 1335,
-  "2023-07-27": 1339,
-  "2023-07-28": 1340,
-  "2023-07-29": 1342,
-  "2023-07-30": 1342,
-  "2023-07-31": 1347,
-  "2023-08-01": 1349,
-  "2023-08-02": 1354,
-  "2023-08-03": 1356,
-  "2023-08-04": 1361,
-  "2023-08-05": 1362,
-  "2023-08-06": 1369,
-  "2023-08-07": 1369,
-  "2023-08-08": 1374,
-  "2023-08-09": 1379,
-  "2023-08-10": 1379,
-  "2023-08-11": 1379,
-  "2023-08-12": 1386,
-  "2023-08-13": 1391,
-  "2023-08-14": 1397,
-  "2023-08-15": 1405,
-  "2023-08-16": 1405,
-  "2023-08-17": 1407,
-  "2023-08-18": 1414,
-  "2023-08-19": 1419,
-  "2023-08-20": 1427,
-  "2023-08-21": 1428,
-  "2023-08-22": 1431,
-  "2023-08-23": 1436,
-  "2023-08-24": 1441,
-  "2023-08-25": 1446,
-  "2023-08-26": 1449,
-  "2023-08-27": 1455,
-  "2023-08-28": 1459,
-  "2023-08-29": 1462,
-  "2023-08-30": 1462,
-  "2023-08-31": 1470,
-  "2023-09-01": 1499,
-  "2023-09-02": 1499,
-  "2023-09-03": 1510,
-  "2023-09-04": 1521,
-  "2023-09-05": 1531,
-  "2023-09-06": 1546,
-  "2023-09-07": 1560,
-  "2023-09-08": 1572,
-  "2023-09-09": 1585,
-  "2023-09-10": 1608,
-  "2023-09-11": 1621,
-  "2023-09-12": 1638,
-  "2023-09-13": 1650,
-  "2023-09-14": 1666,
-  "2023-09-15": 1672,
-  "2023-09-16": 1688,
-  "2023-09-17": 1712,
-  "2023-09-18": 1727,
-  "2023-09-19": 1746,
-  "2023-09-20": 1766,
-  "2023-09-21": 1788,
-  "2023-09-22": 1802,
-  "2023-09-23": 1819,
-  "2023-09-24": 1829,
-  "2023-09-25": 1853,
-  "2023-09-26": 1873,
-  "2023-09-27": 1885,
-  "2023-09-28": 1899,
-  "2023-09-29": 1913,
-  "2023-09-30": 1928,
-  "2023-10-01": 1937,
-  "2023-10-02": 1949,
-  "2023-10-03": 1971,
-  "2023-10-04": 1988,
-  "2023-10-05": 2002,
-  "2023-10-06": 2012,
-  "2023-10-07": 2021,
-  "2023-10-08": 2029,
-  "2023-10-09": 2040,
-  "2023-10-10": 2051,
-  "2023-10-11": 2070,
-  "2023-10-12": 2070,
-  "2023-10-13": 2074,
-  "2023-10-14": 2085,
-  "2023-10-15": 2093,
-  "2023-10-16": 2096,
-  "2023-10-17": 2104,
-  "2023-10-18": 2110,
-  "2023-10-19": 2127,
-  "2023-10-20": 2128,
-  "2023-10-21": 2150,
-  "2023-10-22": 2160,
-  "2023-10-23": 2172,
-  "2023-10-24": 2190,
-  "2023-10-25": 2207,
-  "2023-10-26": 2210,
-  "2023-10-27": 2219,
-  "2023-10-28": 2233,
-  "2023-10-29": 2241,
-  "2023-10-30": 2275,
-  "2023-10-31": 2275,
-  "2023-11-01": 2285,
-  "2023-11-02": 2297,
-  "2023-11-03": 2309,
-  "2023-11-04": 2323,
-  "2023-11-05": 2333,
-  "2023-11-06": 2340,
-  "2023-11-07": 2340,
-  "2023-11-08": 2340,
-  "2023-11-09": 2340,
-  "2023-11-10": 2340,
-  "2023-11-11": 2340,
-  "2023-11-12": 2340,
-  "2023-11-13": 2340,
-  "2023-11-14": 2340,
-  "2023-11-15": 2340,
-  "2023-11-16": 2340,
-  "2023-11-17": 2340,
-  "2023-11-18": 2340,
-  "2023-11-19": 2340,
-  "2023-11-20": 2340,
-  "2023-11-21": 2340,
-  "2023-11-22": 2340,
-  "2023-11-23": 2340,
-  "2023-11-24": 2340,
-  "2023-11-25": 2340,
-  "2023-11-26": 2340,
-  "2023-11-27": 2340,
-  "2023-11-28": 2340,
-  "2023-11-29": 2340,
-  "2023-11-30": 2340,
-  "2023-12-01": 2340,
-  "2023-12-02": 2340,
-  "2023-12-03": 2340,
-  "2023-12-04": 2340,
-  "2023-12-05": 2340,
-  "2023-12-06": 2340,
-  "2023-12-07": 2340,
-  "2023-12-08": 2340,
-  "2023-12-09": 2340,
-  "2023-12-10": 2340,
-  "2023-12-11": 2340,
-  "2023-12-12": 2340,
-  "2023-12-13": 2340,
-  "2023-12-14": 2340,
-  "2023-12-15": 2340,
-  "2023-12-16": 2340,
-  "2023-12-17": 2340,
-  "2023-12-18": 2340,
-  "2023-12-19": 2340,
-  "2023-12-20": 2340,
-  "2023-12-21": 2340,
-  "2023-12-22": 2340,
-  "2023-12-23": 2340,
-  "2023-12-24": 2340,
-  "2023-12-25": 2340,
-  "2023-12-26": 2340,
-  "2023-12-27": 2340,
-  "2023-12-30": 2340,
-  "2023-12-31": 2340,
-  "2024-01-01": 2340,
-  "2024-01-02": 2340,
-  "2024-01-03": 2340
+  "2024-01-17": 2340,
+  "date_first_scraped": "2023-02-04",
+  "description": "Producer and DJ <a href=\"spotify:artist:4odLDriBk6oEZotzLPTSnD\">Jessica Audiffred</a> has been captivating the crowd with her unique way of blending Bass & Trap, and this mix does not disappoint! ",
+  "name": "Jessica Audiffred DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Annihilation (Mixed)",
+        "url": "https://open.spotify.com/album/4ytTC71Ew0aeyc9EE4y7Vg"
+      },
+      "artists": [
+        {
+          "name": "KEPLER",
+          "url": "https://open.spotify.com/artist/0Uu0dF0OePrSoD0pGChP04"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67000,
+      "name": "Annihilation - Mixed",
+      "url": "https://open.spotify.com/track/5HxcI8vN4r516qmBj0ebU1"
+    },
+    {
+      "album": {
+        "name": "Anybody Else (Mixed)",
+        "url": "https://open.spotify.com/album/2Z5WUMDRSra41xz0n2rN72"
+      },
+      "artists": [
+        {
+          "name": "Ambroz",
+          "url": "https://open.spotify.com/artist/2u5mlZ1WBUEQOdxKTzPuLl"
+        },
+        {
+          "name": "La Caro",
+          "url": "https://open.spotify.com/artist/5txLWnC7d2XWulYCLmzDEQ"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Anybody Else - Mixed",
+      "url": "https://open.spotify.com/track/2ZZ6V2M4D9WkKhvu5008Gc"
+    },
+    {
+      "album": {
+        "name": "Blackbelly (Mixed)",
+        "url": "https://open.spotify.com/album/1iykukSeTOfThmvumG4Ecl"
+      },
+      "artists": [
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Blackbelly - Mixed",
+      "url": "https://open.spotify.com/track/1dstEtGMPl5DX5S0gXHqZS"
+    },
+    {
+      "album": {
+        "name": "Cold Case (Mixed)",
+        "url": "https://open.spotify.com/album/7DMyLugJCky9Sopp3Dv3zF"
+      },
+      "artists": [
+        {
+          "name": "BLUPILL",
+          "url": "https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac"
+        },
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Cold Case - Mixed",
+      "url": "https://open.spotify.com/track/36EUawlYhuMAFAe2lP4ivr"
+    },
+    {
+      "album": {
+        "name": "Emergency (Mixed)",
+        "url": "https://open.spotify.com/album/1e1eTGgVELZrYT1q8XEthH"
+      },
+      "artists": [
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Emergency - Mixed",
+      "url": "https://open.spotify.com/track/7p8CU0WrOKLQBBCB0DYwl3"
+    },
+    {
+      "album": {
+        "name": "Forever (Mixed)",
+        "url": "https://open.spotify.com/album/747qD3J6U6pkRRBNfajH7Y"
+      },
+      "artists": [
+        {
+          "name": "David Schmid",
+          "url": "https://open.spotify.com/artist/24EErCSBTByoYNBhyH0zyr"
+        },
+        {
+          "name": "Bagha",
+          "url": "https://open.spotify.com/artist/3NNinvt3V9x5qPOwQge1ON"
+        },
+        {
+          "name": "Youth In Circles",
+          "url": "https://open.spotify.com/artist/35FbwufKDprqJfq8Qnk31b"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Forever - Mixed",
+      "url": "https://open.spotify.com/track/2xY1yHi0JnKr0U6Ly2ve02"
+    },
+    {
+      "album": {
+        "name": "Front 2 Back (Mixed)",
+        "url": "https://open.spotify.com/album/09UiSiriPjR4uMHN0dlk1B"
+      },
+      "artists": [
+        {
+          "name": "AlienPark",
+          "url": "https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R"
+        },
+        {
+          "name": "FREAKY",
+          "url": "https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT"
+        },
+        {
+          "name": "BLUPILL",
+          "url": "https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "Front 2 Back - Mixed",
+      "url": "https://open.spotify.com/track/3PkMXMW3kOF0r7exAXQwCA"
+    },
+    {
+      "album": {
+        "name": "Go Hard (Mixed)",
+        "url": "https://open.spotify.com/album/5pO1nCVV4KgvYsBhjdZT9m"
+      },
+      "artists": [
+        {
+          "name": "Daze OFF",
+          "url": "https://open.spotify.com/artist/54tnP9maEJ4i8AVHbwXjvq"
+        },
+        {
+          "name": "Autokorekt",
+          "url": "https://open.spotify.com/artist/0qSe9ankWkiCVAS7zTd1fo"
+        },
+        {
+          "name": "Blaize",
+          "url": "https://open.spotify.com/artist/3JWujTYoN6ZnxXg3dTWpno"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63000,
+      "name": "Go Hard - Mixed",
+      "url": "https://open.spotify.com/track/4YdY764PCfdN4tDwglrVFR"
+    },
+    {
+      "album": {
+        "name": "Into Flames (Mixed)",
+        "url": "https://open.spotify.com/album/2iTnzyJwG7tenzjY6DKY5o"
+      },
+      "artists": [
+        {
+          "name": "Blind Lies",
+          "url": "https://open.spotify.com/artist/5yY10ioDVuggcXzNMIuyrl"
+        },
+        {
+          "name": "SEVER THE DAY",
+          "url": "https://open.spotify.com/artist/1a0poZhgRnTvRWGwOLJqBb"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81000,
+      "name": "Into Flames - Mixed",
+      "url": "https://open.spotify.com/track/31UjZc282hoxQqdDEAKmbA"
+    },
+    {
+      "album": {
+        "name": "Karate Chop (Mixed)",
+        "url": "https://open.spotify.com/album/3RBqWhThQSNzQjy473aqyz"
+      },
+      "artists": [
+        {
+          "name": "ARTIX!",
+          "url": "https://open.spotify.com/artist/2d7Oro82tVznMBYXDoGiHy"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78000,
+      "name": "Karate Chop - Mixed",
+      "url": "https://open.spotify.com/track/79CrMfHtX2mWK9uO2ncMoA"
+    },
+    {
+      "album": {
+        "name": "Maximum Bass (Mixed)",
+        "url": "https://open.spotify.com/album/6LTttcVpWJDDNhG493BlSC"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Maximum Bass - Mixed",
+      "url": "https://open.spotify.com/track/0obVBVcjteuUfYbtYpCULp"
+    },
+    {
+      "album": {
+        "name": "Monii (Mixed)",
+        "url": "https://open.spotify.com/album/7hRTZvXGHXO8WQulMvDQjd"
+      },
+      "artists": [
+        {
+          "name": "Monxx",
+          "url": "https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38000,
+      "name": "Monii - Mixed",
+      "url": "https://open.spotify.com/track/4dVMNoTHPhjqlg3mkOvFkd"
+    },
+    {
+      "album": {
+        "name": "Nindo (Mixed)",
+        "url": "https://open.spotify.com/album/4Rbx1R0XeGmpFUXYI1eSUf"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Nindo - Mixed",
+      "url": "https://open.spotify.com/track/6wGnGPf2uoT2bgRaxEsBI4"
+    },
+    {
+      "album": {
+        "name": "Nothing's Left (Mixed)",
+        "url": "https://open.spotify.com/album/5ElNMeHLrDr9oZSpEaUF9R"
+      },
+      "artists": [
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        },
+        {
+          "name": "CHRMNDRS",
+          "url": "https://open.spotify.com/artist/697Lw6sG4wn7W0Ospz4lPe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Nothing's Left - Mixed",
+      "url": "https://open.spotify.com/track/1JPUSU6qv760mFR9jXRxGp"
+    },
+    {
+      "album": {
+        "name": "Oblivion (Mixed)",
+        "url": "https://open.spotify.com/album/7LeFEZniDzIRzMBe4w8nzc"
+      },
+      "artists": [
+        {
+          "name": "KEPLER",
+          "url": "https://open.spotify.com/artist/0Uu0dF0OePrSoD0pGChP04"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Oblivion - Mixed",
+      "url": "https://open.spotify.com/track/1LD2g8e3HP2At96dDpM3bp"
+    },
+    {
+      "album": {
+        "name": "Riding (Mixed)",
+        "url": "https://open.spotify.com/album/1vaE2uHBl2wp9PyXDb8qyL"
+      },
+      "artists": [
+        {
+          "name": "Martay M'Kenzy",
+          "url": "https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb"
+        },
+        {
+          "name": "Point.Blank",
+          "url": "https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 186000,
+      "name": "Riding - Mixed",
+      "url": "https://open.spotify.com/track/6mh4sSTjHoLWUUwGdfN66v"
+    },
+    {
+      "album": {
+        "name": "Riding (Mixed)",
+        "url": "https://open.spotify.com/album/4U9qhgoWz4lFWZuJKUpD3u"
+      },
+      "artists": [
+        {
+          "name": "Point.Blank",
+          "url": "https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Martay M'Kenzy",
+          "url": "https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Riding - Mixed",
+      "url": "https://open.spotify.com/track/4YK5YpVHaVmDFRC2qxLYm3"
+    },
+    {
+      "album": {
+        "name": "Royal Mob (Mixed)",
+        "url": "https://open.spotify.com/album/2qTRncw1nCGkUwdVpvsX5M"
+      },
+      "artists": [
+        {
+          "name": "RAK",
+          "url": "https://open.spotify.com/artist/3sodMowegH4NBuzDamQ9xR"
+        },
+        {
+          "name": "Kliptic",
+          "url": "https://open.spotify.com/artist/5y6O9vl8dOVvL0CCSGrrCc"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Royal Mob - Mixed",
+      "url": "https://open.spotify.com/track/2OdVKrNAk8tntdMaJCfBkD"
+    },
+    {
+      "album": {
+        "name": "Solastalgia (Mixed)",
+        "url": "https://open.spotify.com/album/6GiGObvPa67ECdqIcuBDUG"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Solastalgia - Mixed",
+      "url": "https://open.spotify.com/track/4s4zGFPhdcq83ogtPqFWWs"
+    },
+    {
+      "album": {
+        "name": "Stupid Love (Mixed)",
+        "url": "https://open.spotify.com/album/2YqP4bmYmFUqwkfRLucA7o"
+      },
+      "artists": [
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Nia V",
+          "url": "https://open.spotify.com/artist/1SfEO6H8Sp6ZZYUeZC3sJX"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Stupid Love - Mixed",
+      "url": "https://open.spotify.com/track/3ha4pG9L1Q2HzX7mRzxvdk"
+    },
+    {
+      "album": {
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/64Irb3YbvqUgQo3yeV3gUM"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
+      "duration_ms": 155224,
+      "name": "The King Is Dead",
+      "url": "https://open.spotify.com/track/0IFeuYP7vTwdEQf3ye0kqb"
+    },
+    {
+      "album": {
+        "name": "The King Is Dead (Mixed)",
+        "url": "https://open.spotify.com/album/0MyHYlZBAewOxCzUPiT0QP"
+      },
+      "artists": [
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 150000,
+      "name": "The King Is Dead - Mixed",
+      "url": "https://open.spotify.com/track/4vH5mVsSZc5otEjvs8fH4N"
+    },
+    {
+      "album": {
+        "name": "The King Is Dead (Mixed)",
+        "url": "https://open.spotify.com/album/1GkUONN23gyEjpajGpRLx6"
+      },
+      "artists": [
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "The King Is Dead - Mixed",
+      "url": "https://open.spotify.com/track/4vNtcfFYV8jNgIjHuYKO3a"
+    },
+    {
+      "album": {
+        "name": "Trippin' - KEEL Remix (Mixed)",
+        "url": "https://open.spotify.com/album/0g1vH7olmLs9WWtAlginI7"
+      },
+      "artists": [
+        {
+          "name": "ARTIX!",
+          "url": "https://open.spotify.com/artist/2d7Oro82tVznMBYXDoGiHy"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "KEEL",
+          "url": "https://open.spotify.com/artist/01G5DkOdtzpimIyyznaSj3"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Trippin' - KEEL Remix - Mixed",
+      "url": "https://open.spotify.com/track/4ziS1MYywO58qoPbZgRyP3"
+    },
+    {
+      "album": {
+        "name": "Wasted (Mixed)",
+        "url": "https://open.spotify.com/album/1vrdipeTXPXOQibCI7DUEj"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Wasted - Mixed",
+      "url": "https://open.spotify.com/track/5ku2NTjGRsi9UBSLFk7KCW"
+    },
+    {
+      "album": {
+        "name": "You and Me (Mixed)",
+        "url": "https://open.spotify.com/album/2EdrVYft56TlCaSdJv1uBz"
+      },
+      "artists": [
+        {
+          "name": "Isaac Maya",
+          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "You and Me - Mixed",
+      "url": "https://open.spotify.com/track/2JQ8ZxjKIkKHEIJbUtQy1T"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX43n2dEAWJhy"
 }

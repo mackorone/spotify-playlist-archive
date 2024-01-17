@@ -1,574 +1,977 @@
 {
-  "2022-06-05": 717,
-  "2022-06-06": 719,
-  "2022-06-07": 720,
-  "2022-06-08": 721,
-  "2022-06-09": 722,
-  "2022-06-10": 725,
-  "2022-06-11": 729,
-  "2022-06-12": 731,
-  "2022-06-13": 731,
-  "2022-06-14": 731,
-  "2022-06-15": 731,
-  "2022-06-16": 731,
-  "2022-06-17": 733,
-  "2022-06-18": 736,
-  "2022-06-19": 736,
-  "2022-06-20": 736,
-  "2022-06-21": 737,
-  "2022-06-22": 739,
-  "2022-06-23": 739,
-  "2022-06-24": 741,
-  "2022-06-25": 743,
-  "2022-06-26": 745,
-  "2022-06-27": 747,
-  "2022-06-28": 749,
-  "2022-06-29": 750,
-  "2022-06-30": 752,
-  "2022-07-01": 753,
-  "2022-07-02": 755,
-  "2022-07-03": 756,
-  "2022-07-04": 755,
-  "2022-07-05": 755,
-  "2022-07-06": 755,
-  "2022-07-07": 763,
-  "2022-07-08": 767,
-  "2022-07-09": 774,
-  "2022-07-10": 775,
-  "2022-07-11": 777,
-  "2022-07-12": 778,
-  "2022-07-13": 782,
-  "2022-07-14": 783,
-  "2022-07-15": 786,
-  "2022-07-16": 789,
-  "2022-07-17": 790,
-  "2022-07-18": 793,
-  "2022-07-19": 796,
-  "2022-07-20": 800,
-  "2022-07-21": 801,
-  "2022-07-22": 802,
-  "2022-07-23": 805,
-  "2022-07-24": 812,
-  "2022-07-25": 814,
-  "2022-07-26": 817,
-  "2022-07-27": 820,
-  "2022-07-28": 825,
-  "2022-07-29": 827,
-  "2022-07-30": 831,
-  "2022-07-31": 831,
-  "2022-08-01": 833,
-  "2022-08-02": 837,
-  "2022-08-03": 837,
-  "2022-08-04": 840,
-  "2022-08-05": 841,
-  "2022-08-06": 843,
-  "2022-08-07": 845,
-  "2022-08-08": 848,
-  "2022-08-09": 852,
-  "2022-08-10": 852,
-  "2022-08-11": 852,
-  "2022-08-12": 854,
-  "2022-08-13": 855,
-  "2022-08-14": 855,
-  "2022-08-15": 858,
-  "2022-08-16": 864,
-  "2022-08-17": 866,
-  "2022-08-18": 868,
-  "2022-08-19": 868,
-  "2022-08-20": 869,
-  "2022-08-21": 870,
-  "2022-08-22": 870,
-  "2022-08-23": 872,
-  "2022-08-24": 876,
-  "2022-08-25": 880,
-  "2022-08-26": 883,
-  "2022-08-27": 885,
-  "2022-08-28": 885,
-  "2022-08-29": 885,
-  "2022-08-30": 886,
-  "2022-08-31": 887,
-  "2022-09-01": 889,
-  "2022-09-02": 892,
-  "2022-09-03": 894,
-  "2022-09-04": 896,
-  "2022-09-05": 901,
-  "2022-09-06": 903,
-  "2022-09-07": 903,
-  "2022-09-09": 906,
-  "2022-09-10": 907,
-  "2022-09-11": 907,
-  "2022-09-12": 908,
-  "2022-09-13": 908,
-  "2022-09-15": 911,
-  "2022-09-16": 913,
-  "2022-09-17": 916,
-  "2022-09-18": 919,
-  "2022-09-19": 919,
-  "2022-09-20": 920,
-  "2022-09-21": 924,
-  "2022-09-22": 924,
-  "2022-09-23": 926,
-  "2022-09-24": 926,
-  "2022-09-25": 937,
-  "2022-09-26": 939,
-  "2022-09-27": 943,
-  "2022-09-28": 948,
-  "2022-09-29": 950,
-  "2022-09-30": 956,
-  "2022-10-01": 960,
-  "2022-10-02": 961,
-  "2022-10-03": 962,
-  "2022-10-04": 968,
-  "2022-10-05": 968,
-  "2022-10-06": 977,
-  "2022-10-07": 979,
-  "2022-10-08": 980,
-  "2022-10-09": 981,
-  "2022-10-10": 981,
-  "2022-10-11": 984,
-  "2022-10-12": 983,
-  "2022-10-13": 988,
-  "2022-10-14": 988,
-  "2022-10-15": 990,
-  "2022-10-16": 994,
-  "2022-10-17": 997,
-  "2022-10-18": 999,
-  "2022-10-19": 1003,
-  "2022-10-20": 1003,
-  "2022-10-21": 1004,
-  "2022-10-22": 1006,
-  "2022-10-23": 1011,
-  "2022-10-24": 1016,
-  "2022-10-25": 1018,
-  "2022-10-26": 1021,
-  "2022-10-27": 1023,
-  "2022-10-28": 1023,
-  "2022-10-29": 1026,
-  "2022-10-30": 1029,
-  "2022-10-31": 1034,
-  "2022-11-01": 1038,
-  "2022-11-02": 1040,
-  "2022-11-03": 1042,
-  "2022-11-04": 1044,
-  "2022-11-05": 1046,
-  "2022-11-06": 1048,
-  "2022-11-07": 1052,
-  "2022-11-08": 1057,
-  "2022-11-09": 1060,
-  "2022-11-10": 1063,
-  "2022-11-11": 1065,
-  "2022-11-12": 1068,
-  "2022-11-13": 1069,
-  "2022-11-14": 1072,
-  "2022-11-15": 1078,
-  "2022-11-16": 1083,
-  "2022-11-17": 1084,
-  "2022-11-18": 1085,
-  "2022-11-19": 1085,
-  "2022-11-20": 1089,
-  "2022-11-21": 1094,
-  "2022-11-22": 1099,
-  "2022-11-23": 1103,
-  "2022-11-24": 1105,
-  "2022-11-25": 1112,
-  "2022-11-26": 1114,
-  "2022-11-27": 1117,
-  "2022-11-28": 1123,
-  "2022-11-29": 1126,
-  "2022-11-30": 1129,
-  "2022-12-01": 1129,
-  "2022-12-02": 1128,
-  "2022-12-03": 1128,
-  "2022-12-04": 1130,
-  "2022-12-05": 1130,
-  "2022-12-06": 1134,
-  "2022-12-07": 1136,
-  "2022-12-08": 1139,
-  "2022-12-09": 1140,
-  "2022-12-10": 1142,
-  "2022-12-11": 1142,
-  "2022-12-12": 1143,
-  "2022-12-13": 1143,
-  "2022-12-14": 1146,
-  "2022-12-15": 1150,
-  "2022-12-16": 1154,
-  "2022-12-17": 1156,
-  "2022-12-18": 1160,
-  "2022-12-19": 1159,
-  "2022-12-20": 1164,
-  "2022-12-21": 1164,
-  "2022-12-22": 1166,
-  "2022-12-24": 1175,
-  "2022-12-25": 1179,
-  "2022-12-26": 1180,
-  "2022-12-27": 1182,
-  "2022-12-28": 1187,
-  "2022-12-29": 1187,
-  "2022-12-30": 1190,
-  "2022-12-31": 1192,
-  "2023-01-01": 1197,
-  "2023-01-02": 1197,
-  "2023-01-03": 1198,
-  "2023-01-04": 1198,
-  "2023-01-05": 1198,
-  "2023-01-06": 1200,
-  "2023-01-07": 1205,
-  "2023-01-08": 1205,
-  "2023-01-09": 1208,
-  "2023-01-10": 1210,
-  "2023-01-11": 1211,
-  "2023-01-12": 1214,
-  "2023-01-13": 1217,
-  "2023-01-14": 1220,
-  "2023-01-15": 1220,
-  "2023-01-16": 1220,
-  "2023-01-17": 1220,
-  "2023-01-18": 1219,
-  "2023-01-19": 1221,
-  "2023-01-20": 1226,
-  "2023-01-21": 1227,
-  "2023-01-22": 1228,
-  "2023-01-23": 1230,
-  "2023-01-24": 1230,
-  "2023-01-25": 1231,
-  "2023-01-26": 1231,
-  "2023-01-27": 1231,
-  "2023-01-28": 1232,
-  "2023-01-29": 1234,
-  "2023-01-30": 1234,
-  "2023-01-31": 1234,
-  "2023-02-01": 1238,
-  "2023-02-02": 1242,
-  "2023-02-03": 1247,
-  "2023-02-04": 1248,
-  "2023-02-05": 1250,
-  "2023-02-06": 1250,
-  "2023-02-07": 1251,
-  "2023-02-08": 1254,
-  "2023-02-09": 1254,
-  "2023-02-10": 1254,
-  "2023-02-11": 1257,
-  "2023-02-12": 1259,
-  "2023-02-13": 1263,
-  "2023-02-14": 1263,
-  "2023-02-15": 1264,
-  "2023-02-16": 1264,
-  "2023-02-17": 1264,
-  "2023-02-18": 1266,
-  "2023-02-19": 1267,
-  "2023-02-20": 1267,
-  "2023-02-21": 1268,
-  "2023-02-22": 1268,
-  "2023-02-23": 1270,
-  "2023-02-24": 1272,
-  "2023-02-25": 1273,
-  "2023-02-26": 1274,
-  "2023-02-27": 1277,
-  "2023-02-28": 1277,
-  "2023-03-01": 1278,
-  "2023-03-02": 1279,
-  "2023-03-03": 1280,
-  "2023-03-04": 1280,
-  "2023-03-05": 1282,
-  "2023-03-06": 1282,
-  "2023-03-07": 1282,
-  "2023-03-08": 1285,
-  "2023-03-09": 1285,
-  "2023-03-10": 1288,
-  "2023-03-11": 1290,
-  "2023-03-12": 1290,
-  "2023-03-13": 1290,
-  "2023-03-14": 1290,
-  "2023-03-15": 1291,
-  "2023-03-16": 1291,
-  "2023-03-17": 1291,
-  "2023-03-18": 1293,
-  "2023-03-19": 1293,
-  "2023-03-20": 1296,
-  "2023-03-21": 1298,
-  "2023-03-22": 1299,
-  "2023-03-23": 1299,
-  "2023-03-24": 1299,
-  "2023-03-25": 1300,
-  "2023-03-26": 1302,
-  "2023-03-27": 1302,
-  "2023-03-28": 1302,
-  "2023-03-29": 1304,
-  "2023-03-30": 1304,
-  "2023-03-31": 1304,
-  "2023-04-01": 1305,
-  "2023-04-02": 1307,
-  "2023-04-03": 1309,
-  "2023-04-04": 1312,
-  "2023-04-05": 1314,
-  "2023-04-06": 1315,
-  "2023-04-07": 1315,
-  "2023-04-09": 1317,
-  "2023-04-10": 1317,
-  "2023-04-11": 1318,
-  "2023-04-12": 1318,
-  "2023-04-13": 1320,
-  "2023-04-14": 1321,
-  "2023-04-15": 1321,
-  "2023-04-16": 1323,
-  "2023-04-17": 1323,
-  "2023-04-18": 1323,
-  "2023-04-19": 1323,
-  "2023-04-20": 1323,
-  "2023-04-21": 1323,
-  "2023-04-22": 1324,
-  "2023-04-23": 1323,
-  "2023-04-24": 1324,
-  "2023-04-25": 1325,
-  "2023-04-26": 1324,
-  "2023-04-27": 1324,
-  "2023-04-28": 1325,
-  "2023-04-29": 1325,
-  "2023-04-30": 1325,
-  "2023-05-01": 1325,
-  "2023-05-02": 1326,
-  "2023-05-03": 1327,
-  "2023-05-04": 1327,
-  "2023-05-05": 1328,
-  "2023-05-06": 1329,
-  "2023-05-07": 1331,
-  "2023-05-08": 1330,
-  "2023-05-09": 1330,
-  "2023-05-10": 1329,
-  "2023-05-11": 1330,
-  "2023-05-12": 1331,
-  "2023-05-13": 1333,
-  "2023-05-14": 1335,
-  "2023-05-15": 1335,
-  "2023-05-16": 1336,
-  "2023-05-17": 1336,
-  "2023-05-18": 1336,
-  "2023-05-19": 1336,
-  "2023-05-20": 1338,
-  "2023-05-21": 1338,
-  "2023-05-22": 1338,
-  "2023-05-23": 1340,
-  "2023-05-24": 1341,
-  "2023-05-25": 1342,
-  "2023-05-26": 1341,
-  "2023-05-27": 1342,
-  "2023-05-28": 1341,
-  "2023-05-29": 1341,
-  "2023-05-30": 1342,
-  "2023-05-31": 1342,
-  "2023-06-01": 1342,
-  "2023-06-02": 1342,
-  "2023-06-03": 1342,
-  "2023-06-04": 1343,
-  "2023-06-05": 1344,
-  "2023-06-06": 1343,
-  "2023-06-07": 1343,
-  "2023-06-08": 1344,
-  "2023-06-09": 1345,
-  "2023-06-10": 1345,
-  "2023-06-11": 1345,
-  "2023-06-12": 1345,
-  "2023-06-13": 1345,
-  "2023-06-14": 1346,
-  "2023-06-15": 1346,
-  "2023-06-16": 1345,
-  "2023-06-17": 1345,
-  "2023-06-18": 1345,
-  "2023-06-19": 1345,
-  "2023-06-20": 1349,
-  "2023-06-21": 1349,
-  "2023-06-22": 1350,
-  "2023-06-23": 1351,
-  "2023-06-24": 1354,
-  "2023-06-25": 1354,
-  "2023-06-26": 1355,
-  "2023-06-27": 1356,
-  "2023-06-28": 1357,
-  "2023-06-29": 1359,
-  "2023-06-30": 1363,
-  "2023-07-01": 1370,
-  "2023-07-02": 1370,
-  "2023-07-03": 1372,
-  "2023-07-04": 1372,
-  "2023-07-05": 1372,
-  "2023-07-06": 1377,
-  "2023-07-07": 1377,
-  "2023-07-08": 1377,
-  "2023-07-09": 1378,
-  "2023-07-10": 1378,
-  "2023-07-11": 1376,
-  "2023-07-12": 1378,
-  "2023-07-13": 1378,
-  "2023-07-14": 1380,
-  "2023-07-15": 1381,
-  "2023-07-16": 1381,
-  "2023-07-17": 1388,
-  "2023-07-18": 1389,
-  "2023-07-19": 1393,
-  "2023-07-20": 1393,
-  "2023-07-21": 1395,
-  "2023-07-22": 1397,
-  "2023-07-23": 1397,
-  "2023-07-24": 1401,
-  "2023-07-25": 1404,
-  "2023-07-26": 1404,
-  "2023-07-27": 1404,
-  "2023-07-28": 1404,
-  "2023-07-29": 1409,
-  "2023-07-30": 1409,
-  "2023-07-31": 1413,
-  "2023-08-01": 1415,
-  "2023-08-02": 1418,
-  "2023-08-03": 1418,
-  "2023-08-04": 1421,
-  "2023-08-05": 1421,
-  "2023-08-06": 1426,
-  "2023-08-07": 1426,
-  "2023-08-08": 1428,
-  "2023-08-09": 1429,
-  "2023-08-10": 1432,
-  "2023-08-11": 1432,
-  "2023-08-12": 1432,
-  "2023-08-13": 1432,
-  "2023-08-14": 1432,
-  "2023-08-15": 1432,
-  "2023-08-16": 1432,
-  "2023-08-17": 1432,
-  "2023-08-18": 1432,
-  "2023-08-19": 1432,
-  "2023-08-20": 1448,
-  "2023-08-21": 1448,
-  "2023-08-22": 1450,
-  "2023-08-23": 1450,
-  "2023-08-24": 1450,
-  "2023-08-25": 1450,
-  "2023-08-26": 1450,
-  "2023-08-27": 1450,
-  "2023-08-28": 1464,
-  "2023-08-29": 1464,
-  "2023-08-30": 1464,
-  "2023-08-31": 1466,
-  "2023-09-01": 1469,
-  "2023-09-02": 1469,
-  "2023-09-03": 1469,
-  "2023-09-04": 1469,
-  "2023-09-05": 1469,
-  "2023-09-06": 1469,
-  "2023-09-07": 1469,
-  "2023-09-08": 1469,
-  "2023-09-09": 1469,
-  "2023-09-10": 1469,
-  "2023-09-11": 1469,
-  "2023-09-12": 1469,
-  "2023-09-13": 1469,
-  "2023-09-14": 1469,
-  "2023-09-15": 1469,
-  "2023-09-16": 1469,
-  "2023-09-17": 1469,
-  "2023-09-18": 1469,
-  "2023-09-19": 1469,
-  "2023-09-20": 1469,
-  "2023-09-21": 1469,
-  "2023-09-22": 1469,
-  "2023-09-23": 1469,
-  "2023-09-24": 1469,
-  "2023-09-25": 1469,
-  "2023-09-26": 1515,
-  "2023-09-27": 1515,
-  "2023-09-28": 1515,
-  "2023-09-29": 1515,
-  "2023-09-30": 1515,
-  "2023-10-01": 1515,
-  "2023-10-02": 1515,
-  "2023-10-03": 1515,
-  "2023-10-04": 1515,
-  "2023-10-05": 1515,
-  "2023-10-06": 1515,
-  "2023-10-07": 1515,
-  "2023-10-08": 1515,
-  "2023-10-09": 1515,
-  "2023-10-10": 1515,
-  "2023-10-11": 1515,
-  "2023-10-12": 1515,
-  "2023-10-13": 1515,
-  "2023-10-14": 1515,
-  "2023-10-15": 1515,
-  "2023-10-16": 1515,
-  "2023-10-17": 1515,
-  "2023-10-18": 1515,
-  "2023-10-19": 1515,
-  "2023-10-20": 1515,
-  "2023-10-21": 1515,
-  "2023-10-22": 1515,
-  "2023-10-23": 1515,
-  "2023-10-24": 1515,
-  "2023-10-25": 1515,
-  "2023-10-26": 1515,
-  "2023-10-27": 1515,
-  "2023-10-28": 1515,
-  "2023-10-29": 1515,
-  "2023-10-30": 1515,
-  "2023-10-31": 1515,
-  "2023-11-01": 1515,
-  "2023-11-02": 1515,
-  "2023-11-03": 1515,
-  "2023-11-04": 1515,
-  "2023-11-05": 1515,
-  "2023-11-06": 1515,
-  "2023-11-07": 1515,
-  "2023-11-08": 1515,
-  "2023-11-09": 1515,
-  "2023-11-10": 1515,
-  "2023-11-11": 1515,
-  "2023-11-12": 1515,
-  "2023-11-13": 1515,
-  "2023-11-14": 1515,
-  "2023-11-15": 1515,
-  "2023-11-16": 1515,
-  "2023-11-17": 1515,
-  "2023-11-18": 1515,
-  "2023-11-19": 1515,
-  "2023-11-20": 1515,
-  "2023-11-21": 1515,
-  "2023-11-22": 1515,
-  "2023-11-23": 1515,
-  "2023-11-24": 1515,
-  "2023-11-25": 1515,
-  "2023-11-26": 1515,
-  "2023-11-27": 1515,
-  "2023-11-28": 1515,
-  "2023-11-29": 1515,
-  "2023-11-30": 1515,
-  "2023-12-01": 1515,
-  "2023-12-02": 1515,
-  "2023-12-03": 1515,
-  "2023-12-04": 1515,
-  "2023-12-05": 1515,
-  "2023-12-06": 1515,
-  "2023-12-07": 1515,
-  "2023-12-08": 1515,
-  "2023-12-09": 1515,
-  "2023-12-10": 1515,
-  "2023-12-11": 1515,
-  "2023-12-12": 1515,
-  "2023-12-13": 1515,
-  "2023-12-14": 1540,
-  "2023-12-15": 1540,
-  "2023-12-16": 1540,
-  "2023-12-17": 1540,
-  "2023-12-18": 1539,
-  "2023-12-19": 1539,
-  "2023-12-20": 1539,
-  "2023-12-21": 1538,
-  "2023-12-22": 1538,
-  "2023-12-23": 1538,
-  "2023-12-24": 1538,
-  "2023-12-25": 1538,
-  "2023-12-26": 1539,
-  "2023-12-27": 1541,
-  "2023-12-30": 1543,
-  "2023-12-31": 1543,
-  "2024-01-01": 1543,
-  "2024-01-02": 1543,
-  "2024-01-03": 1543
+  "2024-01-17": 1546,
+  "date_first_scraped": "2022-06-05",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4MkRES9UEFwJnvM571eiWt\">Gloria Trevi</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By Gloria Trevi",
+  "tracks": [
+    {
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234906,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3wUKXujHMVw2HzSEqTRMwe"
+    },
+    {
+      "album": {
+        "name": "Gloria En Vivo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7uwbztQaWdoOJgF6lUtSTR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Autoer\u00f3tica",
+      "url": "https://open.spotify.com/track/09rt2KQeRT2GlHZ6MDjvvy"
+    },
+    {
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2YKYIyZrAF1RszG0Eihx2G"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211693,
+      "name": "Cambio Y Fuera",
+      "url": "https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC"
+    },
+    {
+      "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272653,
+      "name": "Como Si Fuera La Primera Vez Aka La Primera Vez",
+      "url": "https://open.spotify.com/track/2pgrKsTEqeKrNlN1fZqs7c"
+    },
+    {
+      "album": {
+        "name": "Como Nace El Universo",
+        "url": "https://open.spotify.com/album/0NRY0pYDpVoxZWF4s3E2en"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292893,
+      "name": "C\u00f3mo Nace el Universo",
+      "url": "https://open.spotify.com/track/61iFl8BwgJz0YhJBuChRGV"
+    },
+    {
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "De Pel\u00edcula",
+      "url": "https://open.spotify.com/track/6p1lIWNu4l8QEx6ybjo74l"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Despi\u00e9rtame",
+      "url": "https://open.spotify.com/track/7qzvFgCueFG0T3qJDC4GlV"
+    },
+    {
+      "album": {
+        "name": "Una Rosa Blu",
+        "url": "https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Do\u00f1a Pudor",
+      "url": "https://open.spotify.com/track/4DVrs6PjdacQJiTmU5M40K"
+    },
+    {
+      "album": {
+        "name": "Como Nace El Universo",
+        "url": "https://open.spotify.com/album/0NRY0pYDpVoxZWF4s3E2en"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "El Domador",
+      "url": "https://open.spotify.com/track/6zGvZPYB3t8WshxZXt8khU"
+    },
+    {
+      "album": {
+        "name": "Una Rosa Blu",
+        "url": "https://open.spotify.com/album/4VzxQe0r3lY0JZ5edFaHli"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235266,
+      "name": "El Favor De La Soledad",
+      "url": "https://open.spotify.com/track/1GLFzTGB0rYohSq2qhiJ7D"
+    },
+    {
+      "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "album": {
+        "name": "Diosa De La Noche",
+        "url": "https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226266,
+      "name": "Ellas Soy Yo",
+      "url": "https://open.spotify.com/track/0kmic2hjWupbMVSM5PtaKJ"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "Esa Hembra Es Mala",
+      "url": "https://open.spotify.com/track/3xIyTWewE9LFZwy3HklGwE"
+    },
+    {
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2qHa6D9zffuZhKxi0xtpUB"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213213,
+      "name": "Esta Si Va Para Ti",
+      "url": "https://open.spotify.com/track/4erfK0Eutehoe1tc2l5XWE"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236706,
+      "name": "Fuego Con Fuego",
+      "url": "https://open.spotify.com/track/4pqBrW3WShZxsDVwdj384q"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232786,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/17VbSbtrl7X64bNnTTQlFG"
+    },
+    {
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Shy Carter",
+          "url": "https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229733,
+      "name": "Habla Blah Blah",
+      "url": "https://open.spotify.com/track/1ki575hbZbZ6nkBrfpzD0b"
+    },
+    {
+      "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287800,
+      "name": "Inmortal",
+      "url": "https://open.spotify.com/track/7GD5WRuBP0h3eDQxV6q8Im"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "Justo Como Eres",
+      "url": "https://open.spotify.com/track/4O1vBYojzLm4m4FE3yBtxT"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1WWXstIGQnp5MrxDnPZpme"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Timo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3mBGlxPk87CGMb5So8yN9t"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197053,
+      "name": "La Reca\u00edda",
+      "url": "https://open.spotify.com/track/43st7PU7lsyijDteZsNbXS"
+    },
+    {
+      "album": {
+        "name": "Una Rosa Blu",
+        "url": "https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229520,
+      "name": "Lo Que Una Chica Por Amor Es Capaz",
+      "url": "https://open.spotify.com/track/6DNZig6OeXqhRuSrbYuFmZ"
+    },
+    {
+      "album": {
+        "name": "Diosa De La Noche",
+        "url": "https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "Me Lloras",
+      "url": "https://open.spotify.com/track/3xAmaJcOkvRvnyghbg8BfX"
+    },
+    {
+      "album": {
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151466,
+      "name": "Mudanza de Hormiga",
+      "url": "https://open.spotify.com/track/5k380k6DE6SbYlYBKMRd9m"
+    },
+    {
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224880,
+      "name": "Mujer Maravilla",
+      "url": "https://open.spotify.com/track/4Fhow7Gjagr9vtwtp4vUVx"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "No Al Alguacil",
+      "url": "https://open.spotify.com/track/3F0GuwuCGanHQjCPPuOwKr"
+    },
+    {
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "No Quer\u00edas Lastimarme",
+      "url": "https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Nos Volvimos Locos",
+      "url": "https://open.spotify.com/track/5U44C9jqIDz5wdSUIOLnpA"
+    },
+    {
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200012,
+      "name": "Ojos De Fuego",
+      "url": "https://open.spotify.com/track/2CD3R2whD46r746lsyvfBc"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188693,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/35jmQJNmRDUeu0eksdjJQh"
+    },
+    {
+      "album": {
+        "name": "Una Rosa Blu",
+        "url": "https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201746,
+      "name": "Pru\u00e9bamelo",
+      "url": "https://open.spotify.com/track/0WOeX9LgOxZSDxHnspMtu5"
+    },
+    {
+      "album": {
+        "name": "Una Rosa Blu",
+        "url": "https://open.spotify.com/album/4VzxQe0r3lY0JZ5edFaHli"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Psicofon\u00eda",
+      "url": "https://open.spotify.com/track/593jvsVjjnD2ufgxf0aRs1"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Puede Ser Amor",
+      "url": "https://open.spotify.com/track/4FrlpHVNDoCJGwlwlh3SUa"
+    },
+    {
+      "album": {
+        "name": "Gloria En Vivo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7uwbztQaWdoOJgF6lUtSTR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "Punto G",
+      "url": "https://open.spotify.com/track/5mySwJzWiPvld6hk2P9eYH"
+    },
+    {
+      "album": {
+        "name": "6 Super Hits",
+        "url": "https://open.spotify.com/album/3Hpql8w5zpptxGHF7d5fpi"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232853,
+      "name": "Que Emane",
+      "url": "https://open.spotify.com/track/4smt7R9eqj7Tayae2ELEvU"
+    },
+    {
+      "album": {
+        "name": "Inmortal (En Vivo/Deluxe)",
+        "url": "https://open.spotify.com/album/7hStMz0Ez50koiBxtzfmRL"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180813,
+      "name": "Qu\u00edtame La Ropa",
+      "url": "https://open.spotify.com/track/4kUMlxewJpjYuopLClp38R"
+    },
+    {
+      "album": {
+        "name": "Diosa De La Noche",
+        "url": "https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210066,
+      "name": "R\u00f3mpeme El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dNjo3KBW38Yea8XygWPpb"
+    },
+    {
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/2wl9MZI8RvGCEAWNFzEQ2d"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192546,
+      "name": "Sangre Caliente",
+      "url": "https://open.spotify.com/track/4Ahb8pHikM592BOohncT42"
+    },
+    {
+      "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247386,
+      "name": "Sin Miedo A Nada",
+      "url": "https://open.spotify.com/track/6FMAicEUZ4FtSRDfoSkgMn"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/6K1DkPu4xY6HgU3BjSE0Z9"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199080,
+      "name": "Soy Lo Que Soy",
+      "url": "https://open.spotify.com/track/0neDKfG6Ed41pLCo5sXlGR"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "Sube",
+      "url": "https://open.spotify.com/track/5zy0QB79zacHialCjXb4Ba"
+    },
+    {
+      "album": {
+        "name": "Diosa De La Noche",
+        "url": "https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219160,
+      "name": "Tribu",
+      "url": "https://open.spotify.com/track/3IYjSrrIOz5Ox3cnSwcEpv"
+    },
+    {
+      "album": {
+        "name": "Tu Angel De La Guarda",
+        "url": "https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Tu \u00c1ngel de la Guarda",
+      "url": "https://open.spotify.com/track/3V4HgNmFdIW82DVFuRTK1Y"
+    },
+    {
+      "album": {
+        "name": "Diosa De La Noche",
+        "url": "https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235560,
+      "name": "Vas A Recordarme",
+      "url": "https://open.spotify.com/track/4SRsV7HX2nxgM9XMWhXIvm"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/2130NP0O4zNPLiPDWWKacF"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245693,
+      "name": "Vestida De Az\u00facar",
+      "url": "https://open.spotify.com/track/4pBNlXfyVL5VEx1AyglZUW"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216066,
+      "name": "Y Ahora Te Sorprendes",
+      "url": "https://open.spotify.com/track/4HyPqj0BvhLpwnzf0VAYwD"
+    },
+    {
+      "album": {
+        "name": "Diosa De La Noche",
+        "url": "https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Yo Soy Su Vida",
+      "url": "https://open.spotify.com/track/5KkXuQaCuB2tAGpCRY6suu"
+    },
+    {
+      "album": {
+        "name": "Diosa De La Noche",
+        "url": "https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "\u00c1branse Perras",
+      "url": "https://open.spotify.com/track/7b7AziuX7EeIzvatDcC0RS"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "\u00c9l Se Equivoc\u00f3",
+      "url": "https://open.spotify.com/track/4z7QjhiABJOZdyk7v8G8eY"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFOrrk2jG75Lb"
 }

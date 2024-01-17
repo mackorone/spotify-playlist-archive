@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsJ5BFexrvT.md) - [plain]
 
 > Grab a quick nap for an instant refresher\. Zzzz...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,756 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,436 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

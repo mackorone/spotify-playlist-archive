@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 
 > Gospel songs you grew up listening to
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,437 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,539 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 | 49 | [Hafungi Macho](https://open.spotify.com/track/6oNIEp0Y8VpKoDbInOz6hP) | [Willy](https://open.spotify.com/artist/6CQWAijGt7Jrsq989jrIiU), [Daddy Owen, Danco](https://open.spotify.com/artist/7jy14TpPZamZmOXgFJVsl0) | [Moto Bila Moshi](https://open.spotify.com/album/19hhff1rO2V4hozszJ6e1n) | 4:38 |
 | 50 | [Wi Muthaka](https://open.spotify.com/track/5JjXWfkTAijBjoUJQ7Lwkv) | [Ruth Wamuyu](https://open.spotify.com/artist/79ArlctP6JAe3ek0O30jjz) | [Shammah](https://open.spotify.com/album/5PAvEq9EvsFaecJ1xydeb7) | 4:37 |
 | 51 | [Malebo](https://open.spotify.com/track/3ckHAuda9YAL0AthcSc29r) | [Pst\. Faustin S\. Munishi](https://open.spotify.com/artist/2pgd8AuBUu2RUVqsNvupPz) | [Namlilia Malebo, Vol\. 6](https://open.spotify.com/album/35Cx5vdLH64zK1WZnGqoqa) | 6:13 |
-| 52 | [Nginyukagia](https://open.spotify.com/track/72OaHdvpG5XVH4G0zhIJIQ) | [Kayamba Africa](https://open.spotify.com/artist/50Y7HU8mao7u5T9kMkOULT) | [Simba](https://open.spotify.com/album/27eSrqz3T0Z6U4tg2tNM5K) | 4:28 |
+| 52 | [Nginyukagia](https://open.spotify.com/track/5Dvqpwdf3h0w6dHJpRQyyR) | [Kayamba Africa](https://open.spotify.com/artist/50Y7HU8mao7u5T9kMkOULT) | [Simba](https://open.spotify.com/album/5WTxbTRnjjKG5g1kDEtXD2) | 4:28 |
 | 53 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |
 | 54 | [Ombi Langu Kwa Mungu](https://open.spotify.com/track/5p5AlkP9uCSb0StIgcBA9f) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Ombi Langu Kwa Mungu](https://open.spotify.com/album/4HpdzfRrDZHh7be6X12e59) | 9:10 |
 | 55 | [Muujiza](https://open.spotify.com/track/6fIXMoPmn86NYaBcpHp5GM) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Relax](https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R) | 3:45 |

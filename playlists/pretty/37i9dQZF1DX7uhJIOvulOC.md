@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uhJIOvulOC.md) - [plain]
 
 > There are 7 billions ways to listen to this playlist...Listen to all the tracks from Kaleidoscope, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,635 likes - 25 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,782 likes - 25 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

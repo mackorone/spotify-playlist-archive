@@ -1,306 +1,495 @@
 {
-  "2023-03-03": 11489,
-  "2023-03-04": 17364,
-  "2023-03-05": 22890,
-  "2023-03-06": 22890,
-  "2023-03-07": 24520,
-  "2023-03-08": 25557,
-  "2023-03-09": 26513,
-  "2023-03-10": 27324,
-  "2023-03-11": 27806,
-  "2023-03-12": 28323,
-  "2023-03-13": 28874,
-  "2023-03-14": 29288,
-  "2023-03-15": 29705,
-  "2023-03-16": 30182,
-  "2023-03-17": 30182,
-  "2023-03-18": 30963,
-  "2023-03-19": 31397,
-  "2023-03-20": 31760,
-  "2023-03-21": 32098,
-  "2023-03-22": 32388,
-  "2023-03-23": 32649,
-  "2023-03-24": 32649,
-  "2023-03-25": 33199,
-  "2023-03-26": 33469,
-  "2023-03-27": 33868,
-  "2023-03-28": 34242,
-  "2023-03-29": 34565,
-  "2023-03-30": 35075,
-  "2023-03-31": 35075,
-  "2023-04-01": 35442,
-  "2023-04-02": 35727,
-  "2023-04-03": 35993,
-  "2023-04-04": 36182,
-  "2023-04-05": 36401,
-  "2023-04-06": 36711,
-  "2023-04-07": 37039,
-  "2023-04-09": 37714,
-  "2023-04-10": 38013,
-  "2023-04-11": 38551,
-  "2023-04-12": 38551,
-  "2023-04-13": 38833,
-  "2023-04-14": 39143,
-  "2023-04-15": 39463,
-  "2023-04-16": 39787,
-  "2023-04-17": 40187,
-  "2023-04-18": 40536,
-  "2023-04-19": 41122,
-  "2023-04-20": 41408,
-  "2023-04-21": 41597,
-  "2023-04-22": 41790,
-  "2023-04-23": 41920,
-  "2023-04-24": 42056,
-  "2023-04-25": 42206,
-  "2023-04-26": 42391,
-  "2023-04-27": 42555,
-  "2023-04-28": 42713,
-  "2023-04-29": 42873,
-  "2023-04-30": 43035,
-  "2023-05-01": 43187,
-  "2023-05-02": 43335,
-  "2023-05-03": 43481,
-  "2023-05-04": 43611,
-  "2023-05-05": 43768,
-  "2023-05-06": 43908,
-  "2023-05-07": 44065,
-  "2023-05-08": 44205,
-  "2023-05-09": 44336,
-  "2023-05-10": 44490,
-  "2023-05-11": 44625,
-  "2023-05-12": 44749,
-  "2023-05-13": 44907,
-  "2023-05-14": 45043,
-  "2023-05-15": 45185,
-  "2023-05-16": 45315,
-  "2023-05-17": 45435,
-  "2023-05-18": 45560,
-  "2023-05-19": 45708,
-  "2023-05-20": 46041,
-  "2023-05-21": 46041,
-  "2023-05-22": 46041,
-  "2023-05-23": 46455,
-  "2023-05-24": 46696,
-  "2023-05-25": 46729,
-  "2023-05-26": 46877,
-  "2023-05-27": 47043,
-  "2023-05-28": 47195,
-  "2023-05-29": 47195,
-  "2023-05-30": 47531,
-  "2023-05-31": 47667,
-  "2023-06-01": 47798,
-  "2023-06-02": 47919,
-  "2023-06-03": 48033,
-  "2023-06-04": 48205,
-  "2023-06-05": 48359,
-  "2023-06-06": 48473,
-  "2023-06-07": 48649,
-  "2023-06-08": 48744,
-  "2023-06-09": 48861,
-  "2023-06-10": 48948,
-  "2023-06-11": 49058,
-  "2023-06-12": 49160,
-  "2023-06-13": 49252,
-  "2023-06-14": 49334,
-  "2023-06-15": 49424,
-  "2023-06-16": 49506,
-  "2023-06-17": 49604,
-  "2023-06-18": 49680,
-  "2023-06-19": 49762,
-  "2023-06-20": 49826,
-  "2023-06-21": 49910,
-  "2023-06-22": 49988,
-  "2023-06-23": 50056,
-  "2023-06-24": 50140,
-  "2023-06-25": 50181,
-  "2023-06-26": 50247,
-  "2023-06-27": 50322,
-  "2023-06-28": 50386,
-  "2023-06-29": 50496,
-  "2023-06-30": 50567,
-  "2023-07-01": 50704,
-  "2023-07-02": 50704,
-  "2023-07-03": 50789,
-  "2023-07-04": 50851,
-  "2023-07-05": 50949,
-  "2023-07-06": 51124,
-  "2023-07-07": 51124,
-  "2023-07-08": 51207,
-  "2023-07-09": 51271,
-  "2023-07-10": 51337,
-  "2023-07-11": 51415,
-  "2023-07-12": 51490,
-  "2023-07-13": 51542,
-  "2023-07-14": 51608,
-  "2023-07-15": 51660,
-  "2023-07-16": 51740,
-  "2023-07-17": 51806,
-  "2023-07-18": 51880,
-  "2023-07-19": 51927,
-  "2023-07-20": 52014,
-  "2023-07-21": 52080,
-  "2023-07-22": 52140,
-  "2023-07-23": 52201,
-  "2023-07-24": 52296,
-  "2023-07-25": 52381,
-  "2023-07-26": 52436,
-  "2023-07-27": 52486,
-  "2023-07-28": 52556,
-  "2023-07-29": 52677,
-  "2023-07-30": 52770,
-  "2023-07-31": 52840,
-  "2023-08-01": 52893,
-  "2023-08-02": 52948,
-  "2023-08-03": 52991,
-  "2023-08-04": 53078,
-  "2023-08-05": 53155,
-  "2023-08-06": 53255,
-  "2023-08-07": 53255,
-  "2023-08-08": 53302,
-  "2023-08-09": 53340,
-  "2023-08-10": 53391,
-  "2023-08-11": 53431,
-  "2023-08-12": 53481,
-  "2023-08-13": 53528,
-  "2023-08-14": 53580,
-  "2023-08-15": 53670,
-  "2023-08-16": 53670,
-  "2023-08-17": 53706,
-  "2023-08-18": 53747,
-  "2023-08-19": 53795,
-  "2023-08-20": 53844,
-  "2023-08-21": 53928,
-  "2023-08-22": 53957,
-  "2023-08-23": 53985,
-  "2023-08-24": 54030,
-  "2023-08-25": 54081,
-  "2023-08-26": 54144,
-  "2023-08-27": 54200,
-  "2023-08-28": 54260,
-  "2023-08-29": 54313,
-  "2023-08-30": 54348,
-  "2023-08-31": 54383,
-  "2023-09-01": 54446,
-  "2023-09-02": 54446,
-  "2023-09-03": 54470,
-  "2023-09-04": 54521,
-  "2023-09-05": 54548,
-  "2023-09-06": 54596,
-  "2023-09-07": 54618,
-  "2023-09-08": 54649,
-  "2023-09-09": 54699,
-  "2023-09-10": 54738,
-  "2023-09-11": 54783,
-  "2023-09-12": 54815,
-  "2023-09-13": 54850,
-  "2023-09-14": 54877,
-  "2023-09-15": 54903,
-  "2023-09-16": 54929,
-  "2023-09-17": 54969,
-  "2023-09-18": 55004,
-  "2023-09-19": 55044,
-  "2023-09-20": 55074,
-  "2023-09-21": 55117,
-  "2023-09-22": 55155,
-  "2023-09-23": 55197,
-  "2023-09-24": 55247,
-  "2023-09-25": 55277,
-  "2023-09-26": 55318,
-  "2023-09-27": 55342,
-  "2023-09-28": 55366,
-  "2023-09-29": 55408,
-  "2023-09-30": 55448,
-  "2023-10-01": 55493,
-  "2023-10-02": 55531,
-  "2023-10-03": 55548,
-  "2023-10-04": 55597,
-  "2023-10-05": 55644,
-  "2023-10-06": 55689,
-  "2023-10-07": 55727,
-  "2023-10-08": 55763,
-  "2023-10-09": 55799,
-  "2023-10-10": 55846,
-  "2023-10-11": 55899,
-  "2023-10-12": 55899,
-  "2023-10-13": 55925,
-  "2023-10-14": 55964,
-  "2023-10-15": 55991,
-  "2023-10-16": 56027,
-  "2023-10-17": 56078,
-  "2023-10-18": 56078,
-  "2023-10-19": 56109,
-  "2023-10-20": 56140,
-  "2023-10-21": 56191,
-  "2023-10-22": 56212,
-  "2023-10-23": 56236,
-  "2023-10-24": 56272,
-  "2023-10-25": 56316,
-  "2023-10-26": 56370,
-  "2023-10-27": 56406,
-  "2023-10-28": 56445,
-  "2023-10-29": 56465,
-  "2023-10-30": 56547,
-  "2023-10-31": 56547,
-  "2023-11-01": 56574,
-  "2023-11-02": 56593,
-  "2023-11-03": 56627,
-  "2023-11-04": 56663,
-  "2023-11-05": 56690,
-  "2023-11-06": 56722,
-  "2023-11-07": 56764,
-  "2023-11-08": 56848,
-  "2023-11-09": 56899,
-  "2023-11-10": 56931,
-  "2023-11-11": 56966,
-  "2023-11-12": 56989,
-  "2023-11-13": 57023,
-  "2023-11-14": 57061,
-  "2023-11-15": 57061,
-  "2023-11-16": 57119,
-  "2023-11-17": 57186,
-  "2023-11-18": 57186,
-  "2023-11-19": 57235,
-  "2023-11-20": 57273,
-  "2023-11-21": 57303,
-  "2023-11-22": 57324,
-  "2023-11-23": 57345,
-  "2023-11-24": 57370,
-  "2023-11-25": 57395,
-  "2023-11-26": 57430,
-  "2023-11-27": 57456,
-  "2023-11-28": 57480,
-  "2023-11-29": 57536,
-  "2023-11-30": 57536,
-  "2023-12-01": 57564,
-  "2023-12-02": 57606,
-  "2023-12-03": 57638,
-  "2023-12-04": 57669,
-  "2023-12-05": 57710,
-  "2023-12-06": 57740,
-  "2023-12-07": 57769,
-  "2023-12-08": 57798,
-  "2023-12-09": 57832,
-  "2023-12-10": 57880,
-  "2023-12-11": 57927,
-  "2023-12-12": 57969,
-  "2023-12-13": 57996,
-  "2023-12-14": 58048,
-  "2023-12-15": 58070,
-  "2023-12-16": 58100,
-  "2023-12-17": 58128,
-  "2023-12-18": 58169,
-  "2023-12-19": 58202,
-  "2023-12-20": 58235,
-  "2023-12-21": 58266,
-  "2023-12-22": 58301,
-  "2023-12-23": 58341,
-  "2023-12-24": 58369,
-  "2023-12-25": 58406,
-  "2023-12-26": 58438,
-  "2023-12-27": 58469,
-  "2023-12-30": 58599,
-  "2023-12-31": 58630,
-  "2024-01-01": 58657,
-  "2024-01-02": 58697,
-  "2024-01-03": 58741
+  "2024-01-17": 59120,
+  "date_first_scraped": "2023-03-03",
+  "description": "Enjoy the concert LIVE SET including the voices of TREASURE members on stage! (\ud2b8\ub808\uc800 \uba64\ubc84\ub4e4\uc758 \ubb34\ub300\uc758 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "TREASURE TOUR [HELLO]",
+  "tracks": [
+    {
+      "album": {
+        "name": "THE FIRST STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/0j5W5CQYZk94YFydK3HO9K"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205080,
+      "name": "B.L.T (BLING LIKE THIS)",
+      "url": "https://open.spotify.com/track/3spJFUYWcu7hjQXZ7Ya6sD"
+    },
+    {
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/0bH74T4pClqWmhltGOI8H9"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/36tSJjMdDZeQFFIZIHYtd8"
+    },
+    {
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/18uXUUPFfj6XF4hsmp65gB"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184221,
+      "name": "CLAP!",
+      "url": "https://open.spotify.com/track/4LuSCNN7wRs6hqouAkGh9C"
+    },
+    {
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "COME TO ME",
+      "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
+    },
+    {
+      "album": {
+        "name": "Treasure Tour [HELLO] Audio liners",
+        "url": "https://open.spotify.com/album/2owjzY67LuuE0HO2ttN3cj"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96909,
+      "name": "Comments from TREASURE 1",
+      "url": "https://open.spotify.com/track/1NtTKb4BAaZSU2w1vRvwUM"
+    },
+    {
+      "album": {
+        "name": "Treasure Tour [HELLO] Audio liners",
+        "url": "https://open.spotify.com/album/2owjzY67LuuE0HO2ttN3cj"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31197,
+      "name": "Comments from TREASURE 2",
+      "url": "https://open.spotify.com/track/6zWETGj6ZpGwUkWV4OFcAX"
+    },
+    {
+      "album": {
+        "name": "Treasure Tour [HELLO] Audio liners",
+        "url": "https://open.spotify.com/album/2owjzY67LuuE0HO2ttN3cj"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227346,
+      "name": "Comments from TREASURE 3",
+      "url": "https://open.spotify.com/track/2d8Q2BLArf5TWQxPovD83g"
+    },
+    {
+      "album": {
+        "name": "Treasure Tour [HELLO] Audio liners",
+        "url": "https://open.spotify.com/album/2owjzY67LuuE0HO2ttN3cj"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200088,
+      "name": "Comments from TREASURE 4",
+      "url": "https://open.spotify.com/track/0ILuLf5rZ6gl5O1LWEOUWa"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220716,
+      "name": "DARARI",
+      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
+    },
+    {
+      "album": {
+        "name": "Treasure Tour [HELLO] Audio liners",
+        "url": "https://open.spotify.com/album/2owjzY67LuuE0HO2ttN3cj"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38371,
+      "name": "Ending Ments from TREASURE",
+      "url": "https://open.spotify.com/track/3s9A6RdJUL0Tnr1B8pn0am"
+    },
+    {
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224968,
+      "name": "GOING CRAZY",
+      "url": "https://open.spotify.com/track/6YFzL1910P0fRFh865HmI3"
+    },
+    {
+      "album": {
+        "name": "Treasure Tour [HELLO] Audio liners",
+        "url": "https://open.spotify.com/album/2owjzY67LuuE0HO2ttN3cj"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346927,
+      "name": "Greetings from TREASURE",
+      "url": "https://open.spotify.com/track/3C6pzKIEoJmEAl5WNjsiqv"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198631,
+      "name": "HOLD IT IN",
+      "url": "https://open.spotify.com/track/3i4LLVEBdrk4Bp23OQlcK9"
+    },
+    {
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181618,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220234,
+      "name": "IT\u2019S OKAY",
+      "url": "https://open.spotify.com/track/2ctJxfMEz5NUS7OoG4RFPp"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184117,
+      "name": "JIKJIN",
+      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
+    },
+    {
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208053,
+      "name": "MMM",
+      "url": "https://open.spotify.com/track/7DlfhY3YfQKi97j0DXihen"
+    },
+    {
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195982,
+      "name": "MY TREASURE",
+      "url": "https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J"
+    },
+    {
+      "album": {
+        "name": "Treasure Tour [HELLO] Audio liners",
+        "url": "https://open.spotify.com/album/2owjzY67LuuE0HO2ttN3cj"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40623,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/38dHNedOUnAeYCJVXrMWlZ"
+    },
+    {
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256453,
+      "name": "ORANGE",
+      "url": "https://open.spotify.com/track/09QE4VI4P2ZIFHmVxeUSKd"
+    },
+    {
+      "album": {
+        "name": "DEBUT FULL ALBUM [WELCOME BACK]",
+        "url": "https://open.spotify.com/album/1xsNJgTK34ByVUPzQK02Ds"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229243,
+      "name": "RHYTHM TA REMIX",
+      "url": "https://open.spotify.com/track/6jNYakylYtjN7jEVTOcyse"
+    },
+    {
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190766,
+      "name": "SLOWMOTION",
+      "url": "https://open.spotify.com/track/0daxn4ZBkfgJdCKqRmiDcT"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195849,
+      "name": "THANK YOU (ASAHI x HARUTO Unit)",
+      "url": "https://open.spotify.com/track/41GW9sI7kajNmon5HJGNH9"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168804,
+      "name": "U",
+      "url": "https://open.spotify.com/track/5NIHhuAdsaZHmGeEoHiGY7"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195783,
+      "name": "VolKno (CHOI HYUN SUK x YOSHI x HARUTO Unit)",
+      "url": "https://open.spotify.com/track/7BooMOppMbKhIRH6zrZUJB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0fHMU24UC6D"
 }

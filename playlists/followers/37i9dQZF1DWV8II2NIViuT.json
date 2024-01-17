@@ -1,151 +1,797 @@
 {
-  "2023-08-06": 2204,
-  "2023-08-07": 2204,
-  "2023-08-08": 2401,
-  "2023-08-09": 2484,
-  "2023-08-10": 2530,
-  "2023-08-11": 2562,
-  "2023-08-12": 2574,
-  "2023-08-13": 2589,
-  "2023-08-14": 2598,
-  "2023-08-15": 2619,
-  "2023-08-16": 2619,
-  "2023-08-17": 2626,
-  "2023-08-18": 2635,
-  "2023-08-19": 2645,
-  "2023-08-20": 2655,
-  "2023-08-21": 2663,
-  "2023-08-22": 2665,
-  "2023-08-23": 2670,
-  "2023-08-24": 2670,
-  "2023-08-25": 2672,
-  "2023-08-26": 2680,
-  "2023-08-27": 2686,
-  "2023-08-28": 2686,
-  "2023-08-29": 2697,
-  "2023-08-30": 2700,
-  "2023-08-31": 2704,
-  "2023-09-01": 2718,
-  "2023-09-02": 2718,
-  "2023-09-03": 2722,
-  "2023-09-04": 2723,
-  "2023-09-05": 2730,
-  "2023-09-06": 2731,
-  "2023-09-07": 2734,
-  "2023-09-08": 2739,
-  "2023-09-09": 2739,
-  "2023-09-10": 2747,
-  "2023-09-11": 2748,
-  "2023-09-12": 2751,
-  "2023-09-13": 2754,
-  "2023-09-14": 2753,
-  "2023-09-15": 2754,
-  "2023-09-16": 2751,
-  "2023-09-17": 2756,
-  "2023-09-18": 2761,
-  "2023-09-19": 2766,
-  "2023-09-20": 2766,
-  "2023-09-21": 2769,
-  "2023-09-22": 2769,
-  "2023-09-23": 2772,
-  "2023-09-24": 2772,
-  "2023-09-25": 2777,
-  "2023-09-26": 2782,
-  "2023-09-27": 2781,
-  "2023-09-28": 2784,
-  "2023-09-29": 2785,
-  "2023-09-30": 2784,
-  "2023-10-01": 2788,
-  "2023-10-02": 2787,
-  "2023-10-03": 2786,
-  "2023-10-04": 2787,
-  "2023-10-05": 2789,
-  "2023-10-06": 2792,
-  "2023-10-07": 2796,
-  "2023-10-08": 2798,
-  "2023-10-09": 2801,
-  "2023-10-10": 2801,
-  "2023-10-11": 2802,
-  "2023-10-12": 2802,
-  "2023-10-13": 2803,
-  "2023-10-14": 2807,
-  "2023-10-15": 2812,
-  "2023-10-16": 2814,
-  "2023-10-17": 2815,
-  "2023-10-18": 2817,
-  "2023-10-19": 2820,
-  "2023-10-20": 2825,
-  "2023-10-21": 2827,
-  "2023-10-22": 2828,
-  "2023-10-23": 2833,
-  "2023-10-24": 2834,
-  "2023-10-25": 2833,
-  "2023-10-26": 2834,
-  "2023-10-27": 2835,
-  "2023-10-28": 2839,
-  "2023-10-29": 2841,
-  "2023-10-30": 2852,
-  "2023-10-31": 2852,
-  "2023-11-01": 2853,
-  "2023-11-02": 2853,
-  "2023-11-03": 2857,
-  "2023-11-04": 2863,
-  "2023-11-05": 2866,
-  "2023-11-06": 2864,
-  "2023-11-07": 2867,
-  "2023-11-08": 2872,
-  "2023-11-09": 2873,
-  "2023-11-10": 2873,
-  "2023-11-11": 2878,
-  "2023-11-12": 2879,
-  "2023-11-13": 2877,
-  "2023-11-14": 2879,
-  "2023-11-15": 2879,
-  "2023-11-16": 2881,
-  "2023-11-17": 2882,
-  "2023-11-18": 2882,
-  "2023-11-19": 2881,
-  "2023-11-20": 2882,
-  "2023-11-21": 2888,
-  "2023-11-22": 2890,
-  "2023-11-23": 2893,
-  "2023-11-24": 2891,
-  "2023-11-25": 2889,
-  "2023-11-26": 2883,
-  "2023-11-27": 2885,
-  "2023-11-28": 2884,
-  "2023-11-29": 2889,
-  "2023-11-30": 2889,
-  "2023-12-01": 2889,
-  "2023-12-02": 2890,
-  "2023-12-03": 2893,
-  "2023-12-04": 2895,
-  "2023-12-05": 2894,
-  "2023-12-06": 2899,
-  "2023-12-07": 2900,
-  "2023-12-08": 2900,
-  "2023-12-09": 2902,
-  "2023-12-10": 2903,
-  "2023-12-11": 2907,
-  "2023-12-12": 2906,
-  "2023-12-13": 2907,
-  "2023-12-14": 2907,
-  "2023-12-15": 2905,
-  "2023-12-16": 2905,
-  "2023-12-17": 2908,
-  "2023-12-18": 2911,
-  "2023-12-19": 2909,
-  "2023-12-20": 2909,
-  "2023-12-21": 2910,
-  "2023-12-22": 2912,
-  "2023-12-23": 2912,
-  "2023-12-24": 2913,
-  "2023-12-25": 2917,
-  "2023-12-26": 2920,
-  "2023-12-27": 2920,
-  "2023-12-30": 2926,
-  "2023-12-31": 2930,
-  "2024-01-01": 2932,
-  "2024-01-02": 2935,
-  "2024-01-03": 2937
+  "2024-01-17": 2957,
+  "date_first_scraped": "2023-08-07",
+  "description": "Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres. ",
+  "name": "Stevie Wonder: Covered",
+  "tracks": [
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        },
+        {
+          "name": "Wendy Moten",
+          "url": "https://open.spotify.com/artist/6X0dG1JElAP4z0ardgJGjY"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302733,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/2rDyi7Vuw9l4VneeToK35D"
+    },
+    {
+      "album": {
+        "name": "The Way We Were",
+        "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "All in Love Is Fair",
+      "url": "https://open.spotify.com/track/5M9TH1OD92fWsWqp5we4mY"
+    },
+    {
+      "album": {
+        "name": "As (Luxury Remix)",
+        "url": "https://open.spotify.com/album/18ssQlAidlY6beziKGqcXx"
+      },
+      "artists": [
+        {
+          "name": "Natty Bong",
+          "url": "https://open.spotify.com/artist/212Jq222D4QnciSA0uWrVN"
+        },
+        {
+          "name": "Michelle Simonal",
+          "url": "https://open.spotify.com/artist/6Q5cnVb5SfF6RWedEp57Al"
+        },
+        {
+          "name": "Ronan",
+          "url": "https://open.spotify.com/artist/3e8TWuBQYgKBa6feub25D7"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "As - Luxury Remix",
+      "url": "https://open.spotify.com/track/6NHKQJwZ7ilHb7HTh3C2Aw"
+    },
+    {
+      "album": {
+        "name": "Retroflection",
+        "url": "https://open.spotify.com/album/5RYnv55grDphbkhM7YPLkt"
+      },
+      "artists": [
+        {
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
+          "name": "Tony Momrelle",
+          "url": "https://open.spotify.com/artist/4tw6cyhpVCq4wRHcM5o8XN"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304466,
+      "name": "Buttercup",
+      "url": "https://open.spotify.com/track/2JVVxCYTyZ8KA9PnxUx5ic"
+    },
+    {
+      "album": {
+        "name": "The Garden Is My Stage",
+        "url": "https://open.spotify.com/album/0GSPDH3d6HPLVNTs9YI22p"
+      },
+      "artists": [
+        {
+          "name": "Mayita Dinos",
+          "url": "https://open.spotify.com/artist/3937mRMPHXGyCHU9AhMO2m"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310264,
+      "name": "Come Back as a Flower",
+      "url": "https://open.spotify.com/track/7gqKaBHIu2sPNJ7pyFIW1Z"
+    },
+    {
+      "album": {
+        "name": "Old Time Religion",
+        "url": "https://open.spotify.com/album/1SPfW4LHyqrs7V12i6sZht"
+      },
+      "artists": [
+        {
+          "name": "The Lower Lights",
+          "url": "https://open.spotify.com/artist/44FVyueHCLAMyJPnvCqqwM"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152933,
+      "name": "Have a Talk with God",
+      "url": "https://open.spotify.com/track/2bapuPanUjNRxGkzwYV6BT"
+    },
+    {
+      "album": {
+        "name": "Mother's Milk",
+        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202053,
+      "name": "Higher Ground - Remastered 2003",
+      "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
+    },
+    {
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/1XrVWVKKfRlD0waskKj5uy"
+      },
+      "artists": [
+        {
+          "name": "Art Garfunkel",
+          "url": "https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "I Believe (When I Fall In Love It Will Be Forever)",
+      "url": "https://open.spotify.com/track/1fdQg2yrTYCMOviVCw1Xdh"
+    },
+    {
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/3cjPWHrJJWSNhNWxRVh0e0"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266832,
+      "name": "I Believe (When I Fall In Love It Will Be Forever) - Recorded at Electric Lady Studios",
+      "url": "https://open.spotify.com/track/67GCmLBIyOlIhXwyRqX5S2"
+    },
+    {
+      "album": {
+        "name": "Get Used to It",
+        "url": "https://open.spotify.com/album/7oH7QMqwvX5v0vQdkGTCXB"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212840,
+      "name": "I Don't Know Why (I Love You)",
+      "url": "https://open.spotify.com/track/3tTzPU0vZUHedKYaqjLnFy"
+    },
+    {
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6OIDxAKEuoBVpK9ROJsu3B"
+      },
+      "artists": [
+        {
+          "name": "Andrew Roachford",
+          "url": "https://open.spotify.com/artist/2s6dK0xYiInRqFdtqfBRkV"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204946,
+      "name": "I Don't Know Why I Love You",
+      "url": "https://open.spotify.com/track/1M75vzJHYc1TDyP0UIA4YI"
+    },
+    {
+      "album": {
+        "name": "I Just Called",
+        "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150560,
+      "name": "I Just Called",
+      "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
+    },
+    {
+      "album": {
+        "name": "Handful of Promises",
+        "url": "https://open.spotify.com/album/6ri455xP2rCIoC4vKtcFrJ"
+      },
+      "artists": [
+        {
+          "name": "Urselle",
+          "url": "https://open.spotify.com/artist/2BSOOFVatoOmhdtcN0k1cP"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231778,
+      "name": "I Just Called to Say I Love You",
+      "url": "https://open.spotify.com/track/2S0Hc3v3MjSdL8JvRWJjpC"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247102,
+      "name": "I Just Called to Say I Love You - Recorded at RCA Studio A, Nashville",
+      "url": "https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag"
+    },
+    {
+      "album": {
+        "name": "Syreeta",
+        "url": "https://open.spotify.com/album/6U4UAwqd7pbDloRFSwuWLY"
+      },
+      "artists": [
+        {
+          "name": "Syreeta",
+          "url": "https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296880,
+      "name": "I Love Every Little Thing About You",
+      "url": "https://open.spotify.com/track/291yyP4mQmzdSWu3Q1BpS0"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 2: Save Our Soul: Soul on a Mission",
+        "url": "https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "I Was Made to Love Her",
+      "url": "https://open.spotify.com/track/2UP48WBw40vfggp53fWQ1Y"
+    },
+    {
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/70YZ1zflBKeWZs9tgP5hif"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "If It's Magic",
+      "url": "https://open.spotify.com/track/0F6HC5P6b4D3GASp8SFKw1"
+    },
+    {
+      "album": {
+        "name": "From a Reggae Point of View",
+        "url": "https://open.spotify.com/album/12wOS02zmIrvmWDXOo7X3N"
+      },
+      "artists": [
+        {
+          "name": "Pinky Dread",
+          "url": "https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/4bKXnz3kB9zMjeCKpIUz2V"
+    },
+    {
+      "album": {
+        "name": "Stevie Wonder Covers",
+        "url": "https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Malcolm Jamal Warner",
+          "url": "https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-12",
+      "duration_ms": 329560,
+      "name": "Jesus Children",
+      "url": "https://open.spotify.com/track/1SuNjDNslua2vWH78MDmaK"
+    },
+    {
+      "album": {
+        "name": "Black Radio 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Malcolm Jamal Warner",
+          "url": "https://open.spotify.com/artist/6A9y5Imt5aHX9zmpthihDL"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329560,
+      "name": "Jesus Children",
+      "url": "https://open.spotify.com/track/6hgrKSQrK7mx0xMOMr75tY"
+    },
+    {
+      "album": {
+        "name": "Iconic: Message 4 America",
+        "url": "https://open.spotify.com/album/7v4kVMcNhP3C1xC2kd2qqi"
+      },
+      "artists": [
+        {
+          "name": "Sheila E.",
+          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335333,
+      "name": "Jesus Children of America (feat. Israel Houghton)",
+      "url": "https://open.spotify.com/track/1oh77sYqkISM5alFlIS1vf"
+    },
+    {
+      "album": {
+        "name": "Motown Magic (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346829,
+      "name": "Living For The City",
+      "url": "https://open.spotify.com/track/7jXioMosXXfNvRn8IWwWnA"
+    },
+    {
+      "album": {
+        "name": "Soul Speak",
+        "url": "https://open.spotify.com/album/303s5fPq9OuEkNG1E1ue11"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299120,
+      "name": "Living For The City",
+      "url": "https://open.spotify.com/track/1h5J5e36zMAdxtkYgYK1NC"
+    },
+    {
+      "album": {
+        "name": "Love's In Need Of Love Today",
+        "url": "https://open.spotify.com/album/067timXrQdiROAy7dHLpIP"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        },
+        {
+          "name": "Sonna",
+          "url": "https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252697,
+      "name": "Love's In Need Of Love Today",
+      "url": "https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p"
+    },
+    {
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/4OkxEnv8kvYXZjOZych1Pd"
+      },
+      "artists": [
+        {
+          "name": "Nataly Dawn",
+          "url": "https://open.spotify.com/artist/1vCgeJQjG0SFPCC9ixbCGz"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171903,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/3JKQazJaCGMcpGggHefa0u"
+    },
+    {
+      "album": {
+        "name": "Sexsational",
+        "url": "https://open.spotify.com/album/5nKvQo4wIY7V4rhnFNrqBB"
+      },
+      "artists": [
+        {
+          "name": "Tony Thompson",
+          "url": "https://open.spotify.com/artist/4dC1SJh5elSp45qeyfgInn"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225106,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/6O1tLGD9D6TDW3Py6Gw4lX"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161080,
+      "name": "Never Dreamed You\u2019d Leave In Summer",
+      "url": "https://open.spotify.com/track/1GsfJAi2L9hWSzb1sUVaZw"
+    },
+    {
+      "album": {
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177173,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/7kpnCOorFuE10kHPBGsdws"
+    },
+    {
+      "album": {
+        "name": "It's A New Dawn",
+        "url": "https://open.spotify.com/album/3Tr1NrmyLMey2jnEdgqPlr"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/15ZPKfozmYG9jcPuA5CYyG"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/6QTzCV8ST4VAMxFFv5NyMn"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275007,
+      "name": "Pastime Paradise - Recorded at Electric Lady Studios",
+      "url": "https://open.spotify.com/track/0NzYhe56fXGO9XCk1R7oz7"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday In Harmony",
+        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
+    },
+    {
+      "album": {
+        "name": "Signed, Sealed, Delivered (I'm Yours)",
+        "url": "https://open.spotify.com/album/6vFfPLuYgXwticExvhxOmY"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/0qIrnnYpLIysIjlJHJbl94"
+    },
+    {
+      "album": {
+        "name": "Beck, Bogert, Appice",
+        "url": "https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz"
+      },
+      "artists": [
+        {
+          "name": "Beck, Bogert, Appice",
+          "url": "https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256760,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4UCWKwvKwcyUQagaD85X0I"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/7cs9sXBZlBXlEq47p26uBA"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270413,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/2LouKR49zIvoy2lvGi5IMP"
+    },
+    {
+      "album": {
+        "name": "Stevie Wonder Covers",
+        "url": "https://open.spotify.com/album/7b6FDYTdZucw9p5FRod078"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 273213,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/1wO2D4oTnh3VygNnRi4Eca"
+    },
+    {
+      "album": {
+        "name": "All In One",
+        "url": "https://open.spotify.com/album/3AsYWD9dam70RGg00LCC3o"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273213,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/3Ql5gAACwGaSpZshJM5ePe"
+    },
+    {
+      "album": {
+        "name": "Let Me In Your Life",
+        "url": "https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
+      "url": "https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173"
+    },
+    {
+      "album": {
+        "name": "Conception - An Interpretation Of Stevie Wonder's Songs",
+        "url": "https://open.spotify.com/album/0YZ71lmEMbf2kyyCppL76Q"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334693,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3evLDlldkPh1TO9XDrNFv1"
+    },
+    {
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/70N5l7CBZmAMCh1WfnM6in"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/0yZ1VBdUdX2dEBXv4LXzn8"
+    },
+    {
+      "album": {
+        "name": "You Are The Sunshine Of My Life",
+        "url": "https://open.spotify.com/album/6wTPkouTjjHitxYTSlFFRS"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175066,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/47YGxjuV2tiJbx0qscx9vH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWV8II2NIViuT"
 }

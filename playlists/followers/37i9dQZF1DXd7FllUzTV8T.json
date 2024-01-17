@@ -1,236 +1,549 @@
 {
-  "2023-05-13": 30,
-  "2023-05-14": 57,
-  "2023-05-15": 90,
-  "2023-05-16": 118,
-  "2023-05-17": 140,
-  "2023-05-18": 159,
-  "2023-05-19": 188,
-  "2023-05-20": 235,
-  "2023-05-21": 235,
-  "2023-05-22": 235,
-  "2023-05-23": 289,
-  "2023-05-24": 331,
-  "2023-05-25": 336,
-  "2023-05-26": 358,
-  "2023-05-27": 379,
-  "2023-05-28": 404,
-  "2023-05-29": 404,
-  "2023-05-30": 453,
-  "2023-05-31": 480,
-  "2023-06-01": 506,
-  "2023-06-02": 525,
-  "2023-06-03": 544,
-  "2023-06-04": 575,
-  "2023-06-05": 604,
-  "2023-06-06": 635,
-  "2023-06-07": 664,
-  "2023-06-08": 693,
-  "2023-06-09": 730,
-  "2023-06-10": 752,
-  "2023-06-11": 782,
-  "2023-06-12": 815,
-  "2023-06-13": 833,
-  "2023-06-14": 870,
-  "2023-06-15": 905,
-  "2023-06-16": 938,
-  "2023-06-17": 965,
-  "2023-06-18": 997,
-  "2023-06-19": 1028,
-  "2023-06-20": 1053,
-  "2023-06-21": 1084,
-  "2023-06-22": 1121,
-  "2023-06-23": 1159,
-  "2023-06-24": 1194,
-  "2023-06-25": 1232,
-  "2023-06-26": 1266,
-  "2023-06-27": 1292,
-  "2023-06-28": 1324,
-  "2023-06-29": 1358,
-  "2023-06-30": 1404,
-  "2023-07-01": 1471,
-  "2023-07-02": 1471,
-  "2023-07-03": 1510,
-  "2023-07-04": 1528,
-  "2023-07-05": 1566,
-  "2023-07-06": 1616,
-  "2023-07-07": 1616,
-  "2023-07-08": 1658,
-  "2023-07-09": 1700,
-  "2023-07-10": 1736,
-  "2023-07-11": 1769,
-  "2023-07-12": 1803,
-  "2023-07-13": 1835,
-  "2023-07-14": 1874,
-  "2023-07-15": 1897,
-  "2023-07-16": 1944,
-  "2023-07-17": 1988,
-  "2023-07-18": 2030,
-  "2023-07-19": 2078,
-  "2023-07-20": 2117,
-  "2023-07-21": 2151,
-  "2023-07-22": 2180,
-  "2023-07-23": 2223,
-  "2023-07-24": 2275,
-  "2023-07-25": 2310,
-  "2023-07-26": 2352,
-  "2023-07-27": 2408,
-  "2023-07-28": 2450,
-  "2023-07-29": 2487,
-  "2023-07-30": 2531,
-  "2023-07-31": 2586,
-  "2023-08-01": 2639,
-  "2023-08-02": 2673,
-  "2023-08-03": 2719,
-  "2023-08-04": 2756,
-  "2023-08-05": 2793,
-  "2023-08-06": 2881,
-  "2023-08-07": 2881,
-  "2023-08-08": 2930,
-  "2023-08-09": 2960,
-  "2023-08-10": 3000,
-  "2023-08-11": 3037,
-  "2023-08-12": 3082,
-  "2023-08-13": 3129,
-  "2023-08-14": 3159,
-  "2023-08-15": 3236,
-  "2023-08-16": 3236,
-  "2023-08-17": 3285,
-  "2023-08-18": 3324,
-  "2023-08-19": 3353,
-  "2023-08-20": 3407,
-  "2023-08-21": 3460,
-  "2023-08-22": 3503,
-  "2023-08-23": 3552,
-  "2023-08-24": 3603,
-  "2023-08-25": 3642,
-  "2023-08-26": 3679,
-  "2023-08-27": 3725,
-  "2023-08-28": 3777,
-  "2023-08-29": 3820,
-  "2023-08-30": 3862,
-  "2023-08-31": 3920,
-  "2023-09-01": 4035,
-  "2023-09-02": 4035,
-  "2023-09-03": 4087,
-  "2023-09-04": 4167,
-  "2023-09-05": 4231,
-  "2023-09-06": 4295,
-  "2023-09-07": 4382,
-  "2023-09-08": 4456,
-  "2023-09-09": 4525,
-  "2023-09-10": 4633,
-  "2023-09-11": 4725,
-  "2023-09-12": 4725,
-  "2023-09-13": 4873,
-  "2023-09-14": 4873,
-  "2023-09-15": 5016,
-  "2023-09-16": 5069,
-  "2023-09-17": 5069,
-  "2023-09-18": 5069,
-  "2023-09-19": 5284,
-  "2023-09-20": 5353,
-  "2023-09-21": 5412,
-  "2023-09-22": 5483,
-  "2023-09-23": 5483,
-  "2023-09-24": 5483,
-  "2023-09-25": 5483,
-  "2023-09-26": 5774,
-  "2023-09-27": 5824,
-  "2023-09-28": 5895,
-  "2023-09-29": 5947,
-  "2023-09-30": 5947,
-  "2023-10-01": 6059,
-  "2023-10-02": 6116,
-  "2023-10-03": 6159,
-  "2023-10-04": 6219,
-  "2023-10-05": 6273,
-  "2023-10-06": 6349,
-  "2023-10-07": 6349,
-  "2023-10-08": 6497,
-  "2023-10-09": 6497,
-  "2023-10-10": 6497,
-  "2023-10-11": 6680,
-  "2023-10-12": 6680,
-  "2023-10-13": 6786,
-  "2023-10-14": 6786,
-  "2023-10-15": 6786,
-  "2023-10-16": 6786,
-  "2023-10-17": 6786,
-  "2023-10-18": 6786,
-  "2023-10-19": 6786,
-  "2023-10-20": 6786,
-  "2023-10-21": 6786,
-  "2023-10-22": 6786,
-  "2023-10-23": 6786,
-  "2023-10-24": 7434,
-  "2023-10-25": 7434,
-  "2023-10-26": 7434,
-  "2023-10-27": 7434,
-  "2023-10-28": 7434,
-  "2023-10-29": 7434,
-  "2023-10-30": 7434,
-  "2023-10-31": 7434,
-  "2023-11-01": 7434,
-  "2023-11-02": 7434,
-  "2023-11-03": 7434,
-  "2023-11-04": 7434,
-  "2023-11-05": 7434,
-  "2023-11-06": 7434,
-  "2023-11-07": 7434,
-  "2023-11-08": 7434,
-  "2023-11-09": 7434,
-  "2023-11-10": 7434,
-  "2023-11-11": 8511,
-  "2023-11-12": 8511,
-  "2023-11-13": 8511,
-  "2023-11-14": 8511,
-  "2023-11-15": 8511,
-  "2023-11-16": 8511,
-  "2023-11-17": 8928,
-  "2023-11-18": 8928,
-  "2023-11-19": 8928,
-  "2023-11-20": 8928,
-  "2023-11-21": 8928,
-  "2023-11-22": 8928,
-  "2023-11-23": 9220,
-  "2023-11-24": 9220,
-  "2023-11-25": 9220,
-  "2023-11-26": 9220,
-  "2023-11-27": 9220,
-  "2023-11-28": 9220,
-  "2023-11-29": 9220,
-  "2023-11-30": 9220,
-  "2023-12-01": 9220,
-  "2023-12-02": 9220,
-  "2023-12-03": 9220,
-  "2023-12-04": 9220,
-  "2023-12-05": 9220,
-  "2023-12-06": 9220,
-  "2023-12-07": 9220,
-  "2023-12-08": 9220,
-  "2023-12-09": 10103,
-  "2023-12-10": 10103,
-  "2023-12-11": 10243,
-  "2023-12-12": 10243,
-  "2023-12-13": 10243,
-  "2023-12-14": 10443,
-  "2023-12-15": 10486,
-  "2023-12-16": 10553,
-  "2023-12-17": 10628,
-  "2023-12-18": 10699,
-  "2023-12-19": 10752,
-  "2023-12-20": 10792,
-  "2023-12-21": 10843,
-  "2023-12-22": 10897,
-  "2023-12-23": 10960,
-  "2023-12-24": 11018,
-  "2023-12-25": 11087,
-  "2023-12-26": 11143,
-  "2023-12-27": 11214,
-  "2023-12-30": 11416,
-  "2023-12-31": 11498,
-  "2024-01-01": 11578,
-  "2024-01-02": 11659,
-  "2024-01-03": 11738
+  "2024-01-17": 252,
+  "date_first_scraped": "2023-05-13",
+  "description": "Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.",
+  "name": "Vintage Jazz Sounds",
+  "tracks": [
+    {
+      "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/4LqeVKaBMwBSDdoJWqKOxe"
+      },
+      "artists": [
+        {
+          "name": "Kupiers & Winter",
+          "url": "https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/13FtO3C0RwCn3sjgDb1nYQ"
+    },
+    {
+      "album": {
+        "name": "Astoria",
+        "url": "https://open.spotify.com/album/7t11CijMPFRmJv4EACNbd1"
+      },
+      "artists": [
+        {
+          "name": "Clifford Randall Sextet",
+          "url": "https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Astoria",
+      "url": "https://open.spotify.com/track/0l5PJV6B2Z03pO8TkEMzxH"
+    },
+    {
+      "album": {
+        "name": "Can't Help Loving That Man",
+        "url": "https://open.spotify.com/album/72e5VzjaNRQ56KLxh8sbdI"
+      },
+      "artists": [
+        {
+          "name": "Kingsbury Station",
+          "url": "https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160731,
+      "name": "Can't Help Loving That Man",
+      "url": "https://open.spotify.com/track/2ozs4ChNBhN0V2x2sHVj7x"
+    },
+    {
+      "album": {
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/67i3fnUudXoCRC9GWk27jd"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185597,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/5mjhH6JqYCCkRs9LuD1Idm"
+    },
+    {
+      "album": {
+        "name": "Come Sunday",
+        "url": "https://open.spotify.com/album/229mvjpr3IdMq3cZBrXpWM"
+      },
+      "artists": [
+        {
+          "name": "Jeff Laine & Co",
+          "url": "https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Come Sunday",
+      "url": "https://open.spotify.com/track/7yHcLHOC6PeYvNf3DUgtCu"
+    },
+    {
+      "album": {
+        "name": "Did you dream too",
+        "url": "https://open.spotify.com/album/6T2PyJ2bjFRCtX5w5P8Ko6"
+      },
+      "artists": [
+        {
+          "name": "Noel Hayes",
+          "url": "https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Did you dream too",
+      "url": "https://open.spotify.com/track/0F9nEWUXKZc4fJugGPqVX7"
+    },
+    {
+      "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/3nwZXqBNuBerpH4F5tMswC"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190945,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/6uPE44mlFld6sOFlgbgj72"
+    },
+    {
+      "album": {
+        "name": "Estrellita",
+        "url": "https://open.spotify.com/album/5QJ5jmZQ9nRnZNDAwlstUL"
+      },
+      "artists": [
+        {
+          "name": "Julia Quincy",
+          "url": "https://open.spotify.com/artist/4wmfIOZiwqduNeeo9lv3AS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190662,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/5kgefxPXrQeJ2oPENUQhGi"
+    },
+    {
+      "album": {
+        "name": "Have You Seen Me Lately",
+        "url": "https://open.spotify.com/album/1QUUDCMMNssid4YCLPNGtU"
+      },
+      "artists": [
+        {
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144288,
+      "name": "Have You Seen Me Lately",
+      "url": "https://open.spotify.com/track/02VNGyJUX1Wptq1FnytNLz"
+    },
+    {
+      "album": {
+        "name": "How High Is the Moon",
+        "url": "https://open.spotify.com/album/4QHQ99exCjhNpTcYA5hkWX"
+      },
+      "artists": [
+        {
+          "name": "Maude De Geyndt",
+          "url": "https://open.spotify.com/artist/6W7IM4n11sIO9QqcCVQcNX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "How High Is the Moon",
+      "url": "https://open.spotify.com/track/2Gy8akJ4dmH5yVyaVVWh8W"
+    },
+    {
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/6kwcGFHlU9rvA8Bepf8YZn"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156984,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/5GRrBWwmmCwYqXxDNUJxg7"
+    },
+    {
+      "album": {
+        "name": "I fall in love too easily",
+        "url": "https://open.spotify.com/album/5xBUXURTU9aTX4VWBoOghb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Patarava",
+          "url": "https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206307,
+      "name": "I fall in love too easily",
+      "url": "https://open.spotify.com/track/0CpQmQGlTmL9uR3oCc4Hhu"
+    },
+    {
+      "album": {
+        "name": "I Love You for Sentimental Reasons",
+        "url": "https://open.spotify.com/album/1W6x5SIBcGGzXfsDS1bDPD"
+      },
+      "artists": [
+        {
+          "name": "Tonic and their Time",
+          "url": "https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169429,
+      "name": "I Love You for Sentimental Reasons",
+      "url": "https://open.spotify.com/track/70DqVqMJOJNoxiz9ciEl0y"
+    },
+    {
+      "album": {
+        "name": "In the Blue Of The Evening",
+        "url": "https://open.spotify.com/album/3OgbQEZ1stEBi6tw6sTvv4"
+      },
+      "artists": [
+        {
+          "name": "Kerrie Walton",
+          "url": "https://open.spotify.com/artist/6LHJu0JVH5MbOgsogB7EhR"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "In the Blue Of The Evening",
+      "url": "https://open.spotify.com/track/1rLuWpZwNX4wXP4y7eRmc3"
+    },
+    {
+      "album": {
+        "name": "In the Shadows of the City",
+        "url": "https://open.spotify.com/album/4kppzpEv6Hp70ZUanL11v0"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174851,
+      "name": "In the Shadows of the City",
+      "url": "https://open.spotify.com/track/767rFkDccEdmm51rwJSTWB"
+    },
+    {
+      "album": {
+        "name": "In The Wee Small Hours Of The Morning",
+        "url": "https://open.spotify.com/album/1EpnWVzzrX8DfvtFhkUIkw"
+      },
+      "artists": [
+        {
+          "name": "Greydon Park Band",
+          "url": "https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141847,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/27T8YYQU9b0iVtZ0HpdAzt"
+    },
+    {
+      "album": {
+        "name": "Journeying",
+        "url": "https://open.spotify.com/album/0o2DSj4LinX5MLJGxzKcnS"
+      },
+      "artists": [
+        {
+          "name": "Rossdale Juntion",
+          "url": "https://open.spotify.com/artist/6ERbL5L4LpFFmA2dS9zJ9D"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "Journeying",
+      "url": "https://open.spotify.com/track/7EiFxYWutlCRtrQHHwKVeS"
+    },
+    {
+      "album": {
+        "name": "Love on a Lonely Street",
+        "url": "https://open.spotify.com/album/73CbHeRVtFiHZZ7cSTmVGW"
+      },
+      "artists": [
+        {
+          "name": "Clifford Randall Sextet",
+          "url": "https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194941,
+      "name": "Love on a Lonely Street",
+      "url": "https://open.spotify.com/track/6KTss9Ov89YTDbAMQv4AEa"
+    },
+    {
+      "album": {
+        "name": "Midnight Fairytale",
+        "url": "https://open.spotify.com/album/4BZhnPU2Qwz1WynSyH2iyc"
+      },
+      "artists": [
+        {
+          "name": "Tanner King Trio",
+          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130572,
+      "name": "Midnight Fairytale",
+      "url": "https://open.spotify.com/track/6g2fHliXA6b8FXcMZziFOs"
+    },
+    {
+      "album": {
+        "name": "My Foolish Heart",
+        "url": "https://open.spotify.com/album/5CnczrrRf699fELiw9BQ83"
+      },
+      "artists": [
+        {
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154164,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/6xEh5m8089BLEY5VMuWfaO"
+    },
+    {
+      "album": {
+        "name": "Night and Day",
+        "url": "https://open.spotify.com/album/0Iv5W5Lm7ibsmueeklTsMQ"
+      },
+      "artists": [
+        {
+          "name": "Clark Younger",
+          "url": "https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141645,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/4OOLNG5RDtYUZk3VYTS7rz"
+    },
+    {
+      "album": {
+        "name": "No Trouble",
+        "url": "https://open.spotify.com/album/4C46278YVf8ZX3oswTaASq"
+      },
+      "artists": [
+        {
+          "name": "South On South Jazz Trio",
+          "url": "https://open.spotify.com/artist/2S3UDGktnF1yMyPODluKqM"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127550,
+      "name": "No Trouble",
+      "url": "https://open.spotify.com/track/1gYOx5P59hN0C1ToMkwjbu"
+    },
+    {
+      "album": {
+        "name": "Ruby me dear",
+        "url": "https://open.spotify.com/album/7eBMDEhvGNaDybjNgygMpK"
+      },
+      "artists": [
+        {
+          "name": "Alicia Sterner",
+          "url": "https://open.spotify.com/artist/5WNrIhpt9DdDgMBzXJhZMu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155741,
+      "name": "Ruby me dear",
+      "url": "https://open.spotify.com/track/5UjVAb3BTVReMbqmjWRA1I"
+    },
+    {
+      "album": {
+        "name": "Sleep Next To Me Darling",
+        "url": "https://open.spotify.com/album/4ic3hlnkS8PAlXZqBk2JsI"
+      },
+      "artists": [
+        {
+          "name": "The Midnight Quartet",
+          "url": "https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152955,
+      "name": "Sleep Next To Me Darling",
+      "url": "https://open.spotify.com/track/0HsgwgxchAtdnxs1jwHHzn"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/3ZEE7nBAnMYh8ipXXITrxu"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175124,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1coxapf3dtylD5wl43ww8A"
+    },
+    {
+      "album": {
+        "name": "the first time I saw you - vinyl",
+        "url": "https://open.spotify.com/album/3HsM2vOcknZpChNQNhHFBj"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "the first time I saw you - vinyl",
+      "url": "https://open.spotify.com/track/449AWJd3vIhEiKRpLQ6KHg"
+    },
+    {
+      "album": {
+        "name": "The Masquerade is Over",
+        "url": "https://open.spotify.com/album/203twYDlbyx4VnwOPxm0cJ"
+      },
+      "artists": [
+        {
+          "name": "Ray Wilshire",
+          "url": "https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160884,
+      "name": "The Masquerade is Over",
+      "url": "https://open.spotify.com/track/4NLUFoyaX8hORCATnJ3hOL"
+    },
+    {
+      "album": {
+        "name": "The Night We Called It A Day",
+        "url": "https://open.spotify.com/album/7IxmUJgQR2qGZxWnuaYiwN"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hacket",
+          "url": "https://open.spotify.com/artist/62jSmyPVlrdwQVXddRZWro"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177461,
+      "name": "The Night We Called It A Day",
+      "url": "https://open.spotify.com/track/1bcX1m3L3Mil06ViTrMZwW"
+    },
+    {
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/60GvB1LpuZEejTw6HrC7kf"
+      },
+      "artists": [
+        {
+          "name": "Sean Eastman",
+          "url": "https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153617,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/54ssz8UwxkRTcwR1GkE1O9"
+    },
+    {
+      "album": {
+        "name": "When Lights are low",
+        "url": "https://open.spotify.com/album/2azrWFhcxnpRfBVQPUDHJ8"
+      },
+      "artists": [
+        {
+          "name": "Kyra Mora",
+          "url": "https://open.spotify.com/artist/7lC8W5ZQ4NK7aIB0uD0F7C"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153153,
+      "name": "When Lights are low",
+      "url": "https://open.spotify.com/track/2vPmWS4ZMc3mBpmAIHoxd1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXd7FllUzTV8T"
 }

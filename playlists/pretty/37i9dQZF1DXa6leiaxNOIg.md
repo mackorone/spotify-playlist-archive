@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6leiaxNOIg.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンオールスターズのムードプレイリストシリーズ第一弾。来る夏にむけて「熱い胸さわぎ」がするサザン楽曲を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,353 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,398 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

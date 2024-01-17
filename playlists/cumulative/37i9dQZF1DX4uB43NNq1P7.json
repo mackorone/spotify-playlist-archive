@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Calm After the Storm",
+        "url": "https://open.spotify.com/album/10ovShyd8irxuFd71dxjvj"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Calm After the Storm",
+      "url": "https://open.spotify.com/track/3235QVqcxdKo9ZrJhRY9of"
+    },
+    {
+      "album": {
         "name": "Cosima and the rain",
         "url": "https://open.spotify.com/album/69lq5lpObxtOW71joJFjrI"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 176025,
       "name": "Fairy Dust in the Rain",
       "url": "https://open.spotify.com/track/1MU9fy4hMLoaLUc2bv8gtM"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 137873,
       "name": "miru (with rain)",
       "url": "https://open.spotify.com/track/10tpukUJbtWxgHjNVCXSTD"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 189090,
       "name": "Never Ending Journey",
       "url": "https://open.spotify.com/track/49LERThcm44M1relgtu0qN"
@@ -992,6 +1010,24 @@
       "duration_ms": 166000,
       "name": "Open the Door",
       "url": "https://open.spotify.com/track/3uTI6mbfEpVP3zsJ8ApzDc"
+    },
+    {
+      "album": {
+        "name": "Open Window",
+        "url": "https://open.spotify.com/album/13LpsqjK2jvMFWAatRdrNU"
+      },
+      "artists": [
+        {
+          "name": "Jules Dubois",
+          "url": "https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/0AWrCqvm6javtNp3BlAdgF"
     },
     {
       "album": {
@@ -1643,6 +1679,28 @@
     },
     {
       "album": {
+        "name": "Friluftsliv",
+        "url": "https://open.spotify.com/album/0AatQyqxu4MbOEJYbfPH6t"
+      },
+      "artists": [
+        {
+          "name": "Greg Bevis",
+          "url": "https://open.spotify.com/artist/4ngLyEjORduhTNduB1I3Hu"
+        },
+        {
+          "name": "\u00d3skar \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Twilight (Rain)",
+      "url": "https://open.spotify.com/track/6A8BVf7yLDPwbGJ1xFuKyw"
+    },
+    {
+      "album": {
         "name": "Under The Oak",
         "url": "https://open.spotify.com/album/4qfl4P8MTH2y5W5rMfDMHJ"
       },
@@ -1672,7 +1730,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 135000,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg"

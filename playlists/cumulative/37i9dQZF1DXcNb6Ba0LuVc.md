@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-476 songs - 18 hr 30 min
+479 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [cold fizzies](https://open.spotify.com/track/0Tstl9VZP9x3FvSC3CcTNI) | [rolla skates](https://open.spotify.com/artist/4QSJisGHde3JpGjDHZ8czQ) | [cold fizzies](https://open.spotify.com/album/6rccqvf6mYKTpBh0kkUVsn) | 2:14 | 2021-11-11 | 2022-09-09 |
 | [Colinas Desde El Alba](https://open.spotify.com/track/6I5Sm9wrdGj7nvWhRv90du) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Colinas Desde El Alba](https://open.spotify.com/album/6AFCsm5CtiUULUoQkpV8hW) | 2:02 | 2022-06-24 | 2022-07-01 |
 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 | 2021-11-11 |  |
+| [con leche](https://open.spotify.com/track/5ORMaylKqIYBtAFedOVIXD) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [con leche](https://open.spotify.com/album/63NdYIgJpX3pH8mUTRucY8) | 2:58 | 2024-01-12 |  |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2021-11-11 | 2022-06-03 |
 | [Constant Attention](https://open.spotify.com/track/7MV8YZCECT0CbS27e01pPC) | [Glowfi](https://open.spotify.com/artist/4v46lA8nHrwjONVAKc49on) | [Constant Attention](https://open.spotify.com/album/1k7NN2vZO9nJcte0HQHXCK) | 2:51 | 2021-11-11 | 2022-04-08 |
 | [contour](https://open.spotify.com/track/2Pb6ZuEm6FEfcGlqhHuqPN) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [Contour](https://open.spotify.com/album/6JX4qMJQLiq2lRBOKavCQI) | 2:55 | 2021-11-11 |  |
@@ -174,6 +175,7 @@
 | [Homebound](https://open.spotify.com/track/7bqqQzMnUGjrauxOWTbZnH) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Marie](https://open.spotify.com/album/2mmH6a8S7d07KX8gTJRX2Z) | 3:23 | 2021-11-11 | 2022-06-03 |
 | [honey](https://open.spotify.com/track/4Iru0dqCxenHmei8t6dTeN) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [honey](https://open.spotify.com/album/5E0Lm49e56zbWMwzke8nTj) | 1:40 | 2022-02-18 | 2022-09-17 |
 | [Honey BBQ](https://open.spotify.com/track/3gwrmMNE03XPOGf8PikAjX) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Honey BBQ](https://open.spotify.com/album/1FsCFzDQhtgugb0zaM02dG) | 1:57 | 2023-01-20 |  |
+| [hop skip and a jump](https://open.spotify.com/track/1ldyyMM61fKaSUiWnZNp03) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [hop skip and a jump](https://open.spotify.com/album/5sTmT31ZfaqAYldQrgrMza) | 2:31 | 2024-01-05 |  |
 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 | 2023-10-27 |  |
 | [Hot Hot Stuff](https://open.spotify.com/track/6S8JC8wqZjBSwKpMa16bZV) | [Lofidelity Habanero](https://open.spotify.com/artist/5N7C6JFjoEsCGskSYYGbq1) | [Hot Hot Stuff](https://open.spotify.com/album/6nACjiFL7fZuIjraKoTvdX) | 2:01 | 2021-11-11 | 2023-09-08 |
 | [Hummingbirds](https://open.spotify.com/track/5TkKcXv3hkVsVKAc3x4Xjz) | [Dan Juno](https://open.spotify.com/artist/4XB8JAQw1Kturm4SPu6fgo) | [Hummingbirds](https://open.spotify.com/album/5diCic6lbgI1F1Seb7EhVF) | 2:36 | 2023-06-15 |  |
@@ -230,6 +232,7 @@
 | [Limited Time Only](https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Limited Time Only](https://open.spotify.com/album/6TAj2O65OHQReNLVGck44m) | 3:33 | 2022-07-01 | 2022-08-19 |
 | [Lint](https://open.spotify.com/track/7JtmJQRQOIrI3yfNyoqfw1) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Lint](https://open.spotify.com/album/2uPymhchLS7jEbOJgqJdrF) | 2:42 | 2021-11-11 | 2022-09-03 |
 | [Little Bee](https://open.spotify.com/track/3FInpBbpMTFvx5P4zxJY8B) | [Aborre](https://open.spotify.com/artist/12nFi1kyqz3Tb3KByPPjpv) | [nilson](https://open.spotify.com/album/5rnlaVpE86lSfW0BFRdb60) | 1:46 | 2022-04-08 |  |
+| [Little Gizmo](https://open.spotify.com/track/6esyeDe38f70UQ6SrwNqxB) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Little Gizmo](https://open.spotify.com/album/0MzAoikBA5kimZwGw4gBud) | 2:49 | 2024-01-12 |  |
 | [Llama Drama](https://open.spotify.com/track/3BIigRWvCUldxIeQkzSEMa) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:07 | 2021-11-11 | 2023-10-24 |
 | [Lo\-Fi Carnival](https://open.spotify.com/track/5GGVLyvFwH5iTjtGNxUjDY) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Lo\-Fi Carnival](https://open.spotify.com/album/507aumPxaPEW4zRCWwnCeo) | 3:28 | 2022-07-22 | 2022-10-29 |
 | [Lo\-Fi Prism](https://open.spotify.com/track/7xMO3gsf52QohpGmPzBZgt) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:36 | 2021-11-11 |  |

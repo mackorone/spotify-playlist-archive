@@ -1,735 +1,1143 @@
 {
-  "2021-12-25": 32016,
-  "2021-12-26": 32017,
-  "2021-12-27": 32019,
-  "2021-12-28": 32019,
-  "2021-12-29": 32019,
-  "2021-12-30": 32020,
-  "2021-12-31": 32019,
-  "2022-01-01": 32019,
-  "2022-01-02": 32018,
-  "2022-01-03": 32022,
-  "2022-01-04": 32020,
-  "2022-01-05": 32024,
-  "2022-01-06": 32023,
-  "2022-01-07": 32024,
-  "2022-01-08": 32025,
-  "2022-01-09": 32025,
-  "2022-01-10": 32027,
-  "2022-01-11": 32023,
-  "2022-01-12": 32020,
-  "2022-01-13": 32017,
-  "2022-01-14": 32013,
-  "2022-01-15": 32018,
-  "2022-01-16": 32018,
-  "2022-01-17": 32019,
-  "2022-01-18": 32019,
-  "2022-01-19": 32021,
-  "2022-01-20": 32018,
-  "2022-01-21": 32015,
-  "2022-01-22": 32011,
-  "2022-01-23": 32015,
-  "2022-01-24": 32017,
-  "2022-01-25": 32018,
-  "2022-01-26": 32021,
-  "2022-01-27": 32017,
-  "2022-01-28": 32013,
-  "2022-01-29": 32012,
-  "2022-01-30": 32013,
-  "2022-01-31": 32006,
-  "2022-02-01": 32008,
-  "2022-02-02": 32008,
-  "2022-02-03": 32006,
-  "2022-02-04": 32006,
-  "2022-02-05": 32012,
-  "2022-02-06": 32012,
-  "2022-02-07": 32013,
-  "2022-02-08": 32014,
-  "2022-02-09": 32013,
-  "2022-02-10": 32015,
-  "2022-02-11": 32009,
-  "2022-02-12": 32009,
-  "2022-02-13": 32010,
-  "2022-02-14": 32008,
-  "2022-02-15": 32009,
-  "2022-02-16": 32005,
-  "2022-02-17": 31995,
-  "2022-02-18": 31987,
-  "2022-02-19": 31984,
-  "2022-02-20": 31984,
-  "2022-02-21": 31986,
-  "2022-02-22": 31990,
-  "2022-02-23": 31991,
-  "2022-02-24": 31992,
-  "2022-02-25": 31990,
-  "2022-02-26": 31991,
-  "2022-02-27": 31992,
-  "2022-02-28": 31992,
-  "2022-03-01": 31991,
-  "2022-03-02": 31986,
-  "2022-03-03": 31983,
-  "2022-03-04": 31984,
-  "2022-03-05": 31983,
-  "2022-03-06": 31987,
-  "2022-03-07": 31994,
-  "2022-03-08": 31996,
-  "2022-03-09": 31991,
-  "2022-03-10": 31993,
-  "2022-03-11": 31989,
-  "2022-03-12": 31992,
-  "2022-03-13": 31996,
-  "2022-03-14": 31991,
-  "2022-03-15": 31987,
-  "2022-03-16": 31990,
-  "2022-03-17": 31983,
-  "2022-03-18": 31977,
-  "2022-03-19": 31977,
-  "2022-03-20": 31977,
-  "2022-03-21": 31972,
-  "2022-03-22": 31971,
-  "2022-03-23": 31973,
-  "2022-03-24": 31974,
-  "2022-03-25": 31975,
-  "2022-03-26": 31971,
-  "2022-03-27": 31967,
-  "2022-03-28": 31967,
-  "2022-03-30": 31964,
-  "2022-03-31": 31964,
-  "2022-04-01": 31964,
-  "2022-04-02": 31964,
-  "2022-04-03": 31964,
-  "2022-04-04": 31964,
-  "2022-04-05": 31964,
-  "2022-04-06": 31964,
-  "2022-04-07": 31964,
-  "2022-04-08": 31964,
-  "2022-04-09": 31964,
-  "2022-04-10": 31964,
-  "2022-04-11": 31964,
-  "2022-04-12": 31964,
-  "2022-04-13": 31964,
-  "2022-04-14": 31964,
-  "2022-04-15": 31964,
-  "2022-04-16": 31964,
-  "2022-04-17": 31964,
-  "2022-04-18": 31964,
-  "2022-04-19": 31964,
-  "2022-04-20": 31964,
-  "2022-04-21": 31964,
-  "2022-04-22": 31964,
-  "2022-04-23": 31964,
-  "2022-04-24": 31964,
-  "2022-04-25": 31964,
-  "2022-04-26": 31964,
-  "2022-04-27": 31964,
-  "2022-04-28": 31964,
-  "2022-04-29": 31964,
-  "2022-04-30": 31964,
-  "2022-05-01": 31964,
-  "2022-05-02": 31964,
-  "2022-05-03": 31964,
-  "2022-05-04": 31964,
-  "2022-05-05": 31964,
-  "2022-05-06": 31964,
-  "2022-05-07": 31964,
-  "2022-05-08": 31964,
-  "2022-05-09": 31964,
-  "2022-05-10": 31964,
-  "2022-05-11": 31964,
-  "2022-05-12": 31964,
-  "2022-05-13": 31964,
-  "2022-05-14": 31964,
-  "2022-05-15": 31964,
-  "2022-05-16": 31964,
-  "2022-05-17": 31964,
-  "2022-05-18": 31964,
-  "2022-05-19": 31964,
-  "2022-05-20": 31964,
-  "2022-05-21": 31964,
-  "2022-05-22": 31964,
-  "2022-05-23": 31964,
-  "2022-05-24": 31964,
-  "2022-05-25": 31964,
-  "2022-05-26": 31964,
-  "2022-05-27": 31964,
-  "2022-05-28": 31964,
-  "2022-05-29": 31964,
-  "2022-05-30": 31964,
-  "2022-05-31": 31964,
-  "2022-06-01": 31964,
-  "2022-06-02": 31964,
-  "2022-06-03": 31964,
-  "2022-06-04": 31964,
-  "2022-06-05": 31964,
-  "2022-06-06": 31964,
-  "2022-06-07": 31964,
-  "2022-06-08": 31964,
-  "2022-06-09": 31964,
-  "2022-06-10": 31964,
-  "2022-06-11": 31964,
-  "2022-06-12": 31964,
-  "2022-06-13": 31964,
-  "2022-06-14": 31964,
-  "2022-06-15": 31964,
-  "2022-06-16": 31964,
-  "2022-06-17": 31964,
-  "2022-06-18": 31964,
-  "2022-06-19": 31964,
-  "2022-06-20": 31964,
-  "2022-06-21": 31964,
-  "2022-06-22": 31964,
-  "2022-06-23": 31964,
-  "2022-06-24": 31964,
-  "2022-06-25": 31964,
-  "2022-06-26": 31964,
-  "2022-06-27": 31964,
-  "2022-06-28": 31964,
-  "2022-06-29": 31964,
-  "2022-06-30": 31964,
-  "2022-07-01": 31964,
-  "2022-07-02": 31964,
-  "2022-07-03": 31964,
-  "2022-07-04": 31964,
-  "2022-07-05": 31964,
-  "2022-07-06": 31964,
-  "2022-07-07": 31964,
-  "2022-07-08": 31964,
-  "2022-07-09": 31964,
-  "2022-07-10": 31964,
-  "2022-07-11": 31964,
-  "2022-07-12": 31964,
-  "2022-07-13": 31964,
-  "2022-07-14": 31964,
-  "2022-07-15": 31964,
-  "2022-07-16": 31964,
-  "2022-07-17": 31964,
-  "2022-07-18": 31964,
-  "2022-07-19": 31964,
-  "2022-07-20": 31964,
-  "2022-07-21": 31964,
-  "2022-07-22": 31964,
-  "2022-07-23": 31964,
-  "2022-07-24": 31964,
-  "2022-07-25": 31964,
-  "2022-07-26": 31964,
-  "2022-07-27": 31964,
-  "2022-07-28": 31964,
-  "2022-07-29": 31964,
-  "2022-07-30": 31964,
-  "2022-07-31": 31964,
-  "2022-08-01": 31964,
-  "2022-08-02": 31964,
-  "2022-08-03": 31964,
-  "2022-08-04": 31964,
-  "2022-08-05": 31964,
-  "2022-08-06": 31964,
-  "2022-08-07": 31964,
-  "2022-08-08": 31964,
-  "2022-08-09": 31964,
-  "2022-08-10": 31964,
-  "2022-08-11": 31964,
-  "2022-08-12": 31964,
-  "2022-08-13": 31964,
-  "2022-08-14": 31964,
-  "2022-08-15": 31964,
-  "2022-08-16": 31964,
-  "2022-08-17": 31964,
-  "2022-08-18": 31964,
-  "2022-08-19": 31964,
-  "2022-08-20": 31964,
-  "2022-08-21": 31964,
-  "2022-08-22": 31964,
-  "2022-08-23": 31964,
-  "2022-08-24": 31964,
-  "2022-08-25": 31964,
-  "2022-08-26": 31964,
-  "2022-08-27": 31964,
-  "2022-08-28": 31964,
-  "2022-08-29": 31964,
-  "2022-08-30": 31964,
-  "2022-08-31": 31964,
-  "2022-09-01": 31964,
-  "2022-09-02": 31964,
-  "2022-09-03": 31964,
-  "2022-09-04": 31964,
-  "2022-09-05": 31964,
-  "2022-09-06": 31964,
-  "2022-09-07": 31964,
-  "2022-09-09": 31964,
-  "2022-09-10": 31964,
-  "2022-09-11": 31964,
-  "2022-09-12": 31964,
-  "2022-09-13": 31964,
-  "2022-09-15": 31964,
-  "2022-09-16": 31964,
-  "2022-09-17": 31964,
-  "2022-09-18": 31964,
-  "2022-09-19": 31964,
-  "2022-09-20": 31964,
-  "2022-09-21": 31964,
-  "2022-09-22": 31964,
-  "2022-09-23": 31964,
-  "2022-09-24": 31964,
-  "2022-09-25": 31964,
-  "2022-09-26": 31964,
-  "2022-09-27": 31964,
-  "2022-09-28": 31964,
-  "2022-09-29": 31964,
-  "2022-09-30": 31964,
-  "2022-10-01": 31964,
-  "2022-10-02": 31964,
-  "2022-10-03": 31964,
-  "2022-10-04": 31964,
-  "2022-10-05": 31964,
-  "2022-10-06": 31964,
-  "2022-10-07": 31964,
-  "2022-10-08": 31964,
-  "2022-10-09": 31964,
-  "2022-10-10": 31964,
-  "2022-10-11": 31964,
-  "2022-10-12": 31964,
-  "2022-10-13": 31964,
-  "2022-10-14": 31964,
-  "2022-10-15": 31964,
-  "2022-10-16": 31964,
-  "2022-10-17": 31964,
-  "2022-10-18": 31964,
-  "2022-10-19": 31964,
-  "2022-10-20": 31964,
-  "2022-10-21": 31964,
-  "2022-10-22": 31964,
-  "2022-10-23": 31964,
-  "2022-10-24": 31964,
-  "2022-10-25": 31964,
-  "2022-10-26": 31964,
-  "2022-10-27": 31964,
-  "2022-10-28": 31964,
-  "2022-10-29": 31964,
-  "2022-10-30": 31964,
-  "2022-10-31": 31964,
-  "2022-11-01": 31964,
-  "2022-11-02": 31964,
-  "2022-11-03": 31964,
-  "2022-11-04": 31964,
-  "2022-11-05": 31964,
-  "2022-11-06": 31964,
-  "2022-11-07": 31964,
-  "2022-11-08": 31964,
-  "2022-11-09": 31964,
-  "2022-11-10": 31964,
-  "2022-11-11": 31964,
-  "2022-11-12": 31964,
-  "2022-11-13": 31964,
-  "2022-11-14": 31964,
-  "2022-11-15": 31964,
-  "2022-11-16": 31964,
-  "2022-11-17": 31964,
-  "2022-11-18": 31964,
-  "2022-11-19": 31964,
-  "2022-11-20": 31964,
-  "2022-11-21": 31964,
-  "2022-11-22": 31964,
-  "2022-11-23": 31964,
-  "2022-11-24": 31964,
-  "2022-11-25": 31964,
-  "2022-11-26": 31964,
-  "2022-11-27": 31964,
-  "2022-11-28": 31964,
-  "2022-11-29": 31964,
-  "2022-11-30": 31964,
-  "2022-12-01": 31964,
-  "2022-12-02": 31964,
-  "2022-12-03": 31964,
-  "2022-12-04": 31964,
-  "2022-12-05": 31964,
-  "2022-12-06": 31964,
-  "2022-12-07": 31964,
-  "2022-12-08": 31964,
-  "2022-12-09": 31964,
-  "2022-12-10": 31964,
-  "2022-12-11": 31964,
-  "2022-12-12": 31964,
-  "2022-12-13": 31964,
-  "2022-12-14": 31964,
-  "2022-12-15": 31964,
-  "2022-12-16": 31964,
-  "2022-12-17": 31964,
-  "2022-12-18": 31964,
-  "2022-12-19": 31964,
-  "2022-12-20": 31964,
-  "2022-12-21": 31964,
-  "2022-12-22": 31964,
-  "2022-12-24": 31964,
-  "2022-12-25": 31964,
-  "2022-12-26": 31964,
-  "2022-12-27": 31964,
-  "2022-12-28": 31964,
-  "2022-12-29": 31964,
-  "2022-12-30": 31964,
-  "2022-12-31": 31964,
-  "2023-01-01": 31964,
-  "2023-01-02": 31964,
-  "2023-01-03": 31964,
-  "2023-01-04": 31964,
-  "2023-01-05": 31964,
-  "2023-01-06": 31964,
-  "2023-01-07": 31964,
-  "2023-01-08": 31964,
-  "2023-01-09": 31964,
-  "2023-01-10": 31964,
-  "2023-01-11": 31964,
-  "2023-01-12": 31964,
-  "2023-01-13": 31964,
-  "2023-01-14": 31964,
-  "2023-01-15": 31964,
-  "2023-01-16": 31964,
-  "2023-01-17": 31964,
-  "2023-01-18": 31964,
-  "2023-01-19": 31964,
-  "2023-01-20": 31964,
-  "2023-01-21": 31964,
-  "2023-01-22": 31964,
-  "2023-01-23": 31964,
-  "2023-01-24": 31964,
-  "2023-01-25": 31964,
-  "2023-01-26": 31964,
-  "2023-01-27": 31964,
-  "2023-01-28": 31964,
-  "2023-01-29": 31964,
-  "2023-01-30": 31964,
-  "2023-01-31": 31964,
-  "2023-02-01": 31964,
-  "2023-02-02": 31964,
-  "2023-02-03": 31964,
-  "2023-02-04": 31964,
-  "2023-02-05": 31964,
-  "2023-02-06": 31964,
-  "2023-02-07": 31964,
-  "2023-02-08": 31964,
-  "2023-02-09": 31964,
-  "2023-02-10": 31964,
-  "2023-02-11": 31964,
-  "2023-02-12": 31964,
-  "2023-02-13": 31964,
-  "2023-02-14": 31964,
-  "2023-02-15": 31964,
-  "2023-02-16": 31964,
-  "2023-02-17": 31964,
-  "2023-02-18": 31964,
-  "2023-02-19": 31964,
-  "2023-02-20": 31964,
-  "2023-02-21": 31964,
-  "2023-02-22": 31964,
-  "2023-02-23": 31964,
-  "2023-02-24": 31964,
-  "2023-02-25": 31964,
-  "2023-02-26": 31964,
-  "2023-02-27": 31964,
-  "2023-02-28": 31964,
-  "2023-03-01": 31964,
-  "2023-03-02": 31964,
-  "2023-03-03": 31964,
-  "2023-03-04": 31964,
-  "2023-03-05": 31964,
-  "2023-03-06": 31964,
-  "2023-03-07": 31964,
-  "2023-03-08": 31964,
-  "2023-03-09": 31964,
-  "2023-03-10": 31964,
-  "2023-03-11": 31964,
-  "2023-03-12": 31964,
-  "2023-03-13": 31964,
-  "2023-03-14": 31964,
-  "2023-03-15": 31964,
-  "2023-03-16": 31964,
-  "2023-03-17": 31964,
-  "2023-03-18": 31964,
-  "2023-03-19": 31964,
-  "2023-03-20": 31964,
-  "2023-03-21": 31964,
-  "2023-03-22": 31964,
-  "2023-03-23": 31964,
-  "2023-03-24": 31964,
-  "2023-03-25": 31964,
-  "2023-03-26": 31964,
-  "2023-03-27": 31964,
-  "2023-03-28": 31964,
-  "2023-03-29": 31964,
-  "2023-03-30": 31964,
-  "2023-03-31": 31964,
-  "2023-04-01": 31964,
-  "2023-04-02": 31964,
-  "2023-04-03": 31964,
-  "2023-04-04": 31964,
-  "2023-04-05": 31964,
-  "2023-04-06": 31964,
-  "2023-04-07": 31964,
-  "2023-04-09": 31964,
-  "2023-04-10": 31964,
-  "2023-04-11": 31964,
-  "2023-04-12": 31964,
-  "2023-04-13": 31964,
-  "2023-04-14": 31964,
-  "2023-04-15": 31964,
-  "2023-04-16": 31964,
-  "2023-04-17": 31964,
-  "2023-04-18": 31964,
-  "2023-04-19": 31964,
-  "2023-04-20": 31964,
-  "2023-04-21": 31964,
-  "2023-04-22": 31964,
-  "2023-04-23": 31964,
-  "2023-04-24": 31964,
-  "2023-04-25": 31964,
-  "2023-04-26": 31964,
-  "2023-04-27": 31964,
-  "2023-04-28": 31964,
-  "2023-04-29": 31964,
-  "2023-04-30": 31964,
-  "2023-05-01": 31964,
-  "2023-05-02": 31964,
-  "2023-05-03": 31964,
-  "2023-05-04": 31964,
-  "2023-05-05": 31964,
-  "2023-05-06": 31964,
-  "2023-05-07": 31964,
-  "2023-05-08": 31964,
-  "2023-05-09": 31964,
-  "2023-05-10": 31964,
-  "2023-05-11": 31964,
-  "2023-05-12": 31964,
-  "2023-05-13": 31964,
-  "2023-05-14": 31964,
-  "2023-05-15": 31964,
-  "2023-05-16": 31964,
-  "2023-05-17": 31964,
-  "2023-05-18": 31964,
-  "2023-05-19": 31964,
-  "2023-05-20": 31964,
-  "2023-05-21": 31964,
-  "2023-05-22": 31964,
-  "2023-05-23": 31964,
-  "2023-05-24": 31964,
-  "2023-05-25": 31964,
-  "2023-05-26": 31964,
-  "2023-05-27": 31964,
-  "2023-05-28": 31964,
-  "2023-05-29": 31964,
-  "2023-05-30": 31964,
-  "2023-05-31": 31964,
-  "2023-06-01": 31964,
-  "2023-06-02": 31964,
-  "2023-06-03": 31964,
-  "2023-06-04": 31964,
-  "2023-06-05": 31964,
-  "2023-06-06": 31964,
-  "2023-06-07": 31964,
-  "2023-06-08": 31964,
-  "2023-06-09": 31964,
-  "2023-06-10": 31964,
-  "2023-06-11": 31964,
-  "2023-06-12": 31964,
-  "2023-06-13": 31964,
-  "2023-06-14": 31964,
-  "2023-06-15": 31964,
-  "2023-06-16": 31964,
-  "2023-06-17": 31964,
-  "2023-06-18": 31964,
-  "2023-06-19": 31964,
-  "2023-06-20": 31964,
-  "2023-06-21": 31964,
-  "2023-06-22": 31964,
-  "2023-06-23": 31964,
-  "2023-06-24": 31964,
-  "2023-06-25": 31964,
-  "2023-06-26": 31964,
-  "2023-06-27": 31964,
-  "2023-06-28": 31964,
-  "2023-06-29": 31964,
-  "2023-06-30": 31964,
-  "2023-07-01": 31964,
-  "2023-07-02": 31964,
-  "2023-07-03": 31964,
-  "2023-07-04": 31964,
-  "2023-07-05": 31964,
-  "2023-07-06": 31964,
-  "2023-07-07": 31964,
-  "2023-07-08": 31964,
-  "2023-07-09": 31964,
-  "2023-07-10": 31964,
-  "2023-07-11": 31964,
-  "2023-07-12": 31964,
-  "2023-07-13": 31964,
-  "2023-07-14": 31964,
-  "2023-07-15": 31964,
-  "2023-07-16": 31964,
-  "2023-07-17": 31964,
-  "2023-07-18": 31964,
-  "2023-07-19": 31964,
-  "2023-07-20": 31964,
-  "2023-07-21": 31964,
-  "2023-07-22": 31964,
-  "2023-07-23": 31964,
-  "2023-07-24": 31964,
-  "2023-07-25": 31964,
-  "2023-07-26": 31964,
-  "2023-07-27": 31964,
-  "2023-07-28": 31964,
-  "2023-07-29": 31964,
-  "2023-07-30": 31964,
-  "2023-07-31": 31964,
-  "2023-08-01": 31964,
-  "2023-08-02": 31964,
-  "2023-08-03": 31964,
-  "2023-08-04": 31964,
-  "2023-08-05": 31964,
-  "2023-08-06": 31964,
-  "2023-08-07": 31964,
-  "2023-08-08": 31964,
-  "2023-08-09": 31964,
-  "2023-08-10": 31964,
-  "2023-08-11": 31964,
-  "2023-08-12": 31964,
-  "2023-08-13": 31964,
-  "2023-08-14": 31964,
-  "2023-08-15": 31964,
-  "2023-08-16": 31964,
-  "2023-08-17": 31964,
-  "2023-08-18": 31964,
-  "2023-08-19": 31964,
-  "2023-08-20": 31964,
-  "2023-08-21": 31964,
-  "2023-08-22": 31964,
-  "2023-08-23": 31964,
-  "2023-08-24": 31964,
-  "2023-08-25": 31964,
-  "2023-08-26": 31964,
-  "2023-08-27": 31964,
-  "2023-08-28": 31964,
-  "2023-08-29": 31964,
-  "2023-08-30": 31964,
-  "2023-08-31": 31964,
-  "2023-09-01": 31964,
-  "2023-09-02": 31964,
-  "2023-09-03": 31964,
-  "2023-09-04": 31964,
-  "2023-09-05": 31964,
-  "2023-09-06": 31964,
-  "2023-09-07": 31964,
-  "2023-09-08": 31964,
-  "2023-09-09": 31964,
-  "2023-09-10": 31964,
-  "2023-09-11": 31964,
-  "2023-09-12": 31964,
-  "2023-09-13": 31964,
-  "2023-09-14": 31964,
-  "2023-09-15": 31964,
-  "2023-09-16": 31964,
-  "2023-09-17": 31964,
-  "2023-09-18": 31964,
-  "2023-09-19": 31964,
-  "2023-09-20": 31964,
-  "2023-09-21": 31964,
-  "2023-09-22": 31964,
-  "2023-09-23": 31964,
-  "2023-09-24": 31964,
-  "2023-09-25": 31964,
-  "2023-09-26": 31964,
-  "2023-09-27": 31964,
-  "2023-09-28": 31964,
-  "2023-09-29": 31964,
-  "2023-09-30": 31964,
-  "2023-10-01": 31964,
-  "2023-10-02": 31964,
-  "2023-10-03": 31964,
-  "2023-10-04": 31964,
-  "2023-10-05": 31964,
-  "2023-10-06": 31964,
-  "2023-10-07": 31964,
-  "2023-10-08": 31964,
-  "2023-10-09": 31964,
-  "2023-10-10": 31964,
-  "2023-10-11": 31964,
-  "2023-10-12": 31964,
-  "2023-10-13": 31964,
-  "2023-10-14": 31964,
-  "2023-10-15": 31964,
-  "2023-10-16": 31964,
-  "2023-10-17": 31964,
-  "2023-10-18": 31964,
-  "2023-10-19": 31964,
-  "2023-10-20": 31964,
-  "2023-10-21": 31964,
-  "2023-10-22": 31964,
-  "2023-10-23": 31964,
-  "2023-10-24": 31964,
-  "2023-10-25": 31964,
-  "2023-10-26": 31964,
-  "2023-10-27": 31964,
-  "2023-10-28": 31964,
-  "2023-10-29": 31964,
-  "2023-10-30": 31964,
-  "2023-10-31": 31964,
-  "2023-11-01": 31964,
-  "2023-11-02": 31964,
-  "2023-11-03": 31964,
-  "2023-11-04": 31964,
-  "2023-11-05": 31964,
-  "2023-11-06": 31964,
-  "2023-11-07": 31964,
-  "2023-11-08": 31964,
-  "2023-11-09": 31964,
-  "2023-11-10": 31964,
-  "2023-11-11": 31964,
-  "2023-11-12": 31964,
-  "2023-11-13": 31964,
-  "2023-11-14": 31964,
-  "2023-11-15": 31964,
-  "2023-11-16": 31964,
-  "2023-11-17": 31964,
-  "2023-11-18": 31964,
-  "2023-11-19": 31964,
-  "2023-11-20": 31964,
-  "2023-11-21": 31964,
-  "2023-11-22": 31964,
-  "2023-11-23": 31964,
-  "2023-11-24": 31964,
-  "2023-11-25": 31964,
-  "2023-11-26": 31964,
-  "2023-11-27": 31964,
-  "2023-11-28": 31964,
-  "2023-11-29": 31964,
-  "2023-11-30": 31964,
-  "2023-12-01": 31964,
-  "2023-12-02": 31964,
-  "2023-12-03": 31964,
-  "2023-12-04": 31964,
-  "2023-12-05": 31964,
-  "2023-12-06": 31964,
-  "2023-12-07": 31964,
-  "2023-12-08": 31964,
-  "2023-12-09": 31964,
-  "2023-12-10": 31964,
-  "2023-12-11": 31964,
-  "2023-12-12": 31964,
-  "2023-12-13": 31964,
-  "2023-12-14": 31964,
-  "2023-12-15": 31964,
-  "2023-12-16": 31964,
-  "2023-12-17": 31964,
-  "2023-12-18": 31964,
-  "2023-12-19": 31964,
-  "2023-12-20": 31964,
-  "2023-12-21": 31964,
-  "2023-12-22": 31964,
-  "2023-12-23": 31964,
-  "2023-12-24": 31964,
-  "2023-12-25": 31964,
-  "2023-12-26": 31964,
-  "2023-12-27": 31964,
-  "2023-12-30": 31964,
-  "2023-12-31": 31964,
-  "2024-01-01": 31964,
-  "2024-01-02": 31964,
-  "2024-01-03": 31964
+  "2024-01-17": 31964,
+  "date_first_scraped": "2021-12-21",
+  "description": "You might want to leave a light on when listening to these chilling performances of H. P. Lovecraft's horror fiction....",
+  "name": "The H. P. Lovecraft Compendium",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 663200,
+      "name": "01 - The Dunwich Horror - Chapter 1",
+      "url": "https://open.spotify.com/track/23tU0UPOsQV3je18ebNRq0"
+    },
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572614,
+      "name": "02 - The Dunwich Horror - Chapter 2",
+      "url": "https://open.spotify.com/track/6PLbZ2kRHuzHNC76Fw9hZG"
+    },
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475786,
+      "name": "03 - The Dunwich Horror - Chapter 3",
+      "url": "https://open.spotify.com/track/063M0UKkNMwi7BKTTeACcG"
+    },
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525400,
+      "name": "04 - The Dunwich Horror - Chapter 4",
+      "url": "https://open.spotify.com/track/2B91R1x921RrYSHwY0xVtd"
+    },
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 670800,
+      "name": "05 - The Dunwich Horror - Chapter 5",
+      "url": "https://open.spotify.com/track/0UizeAS9hdxZXzDIOYWHS6"
+    },
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611120,
+      "name": "06 - The Dunwich Horror - Chapter 6",
+      "url": "https://open.spotify.com/track/1VQkUgBnNPyiAyeOgqGaeX"
+    },
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 978093,
+      "name": "07 - The Dunwich Horror - Chapter 7",
+      "url": "https://open.spotify.com/track/0WM4cvxPk2MmWKD9ihTgqn"
+    },
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 805386,
+      "name": "08 - The Dunwich Horror - Chapter 8",
+      "url": "https://open.spotify.com/track/3cBRL9tEKribOekrTmh7yQ"
+    },
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 915893,
+      "name": "09 - The Dunwich Horror - Chapter 9",
+      "url": "https://open.spotify.com/track/05tPaq05EYOlYi6JpGuKpy"
+    },
+    {
+      "album": {
+        "name": "The Dunwitch Horror & The Thing On The Doorstep",
+        "url": "https://open.spotify.com/album/1lcGxTZ2CeEHjp89yjKzyI"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 958176,
+      "name": "10 - The Dunwich Horror - Chapter 10",
+      "url": "https://open.spotify.com/track/71E6zhvZNHtnptQnTsMsKt"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft Radio Hour Vol. I",
+        "url": "https://open.spotify.com/album/22JtI2cHz1VqCBBMkIhGjj"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537960,
+      "name": "Beyond The Wall Of Sleep 1",
+      "url": "https://open.spotify.com/track/2RnpGihqHa0Fzeqqu7up08"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft Radio Hour Vol. I",
+        "url": "https://open.spotify.com/album/22JtI2cHz1VqCBBMkIhGjj"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598373,
+      "name": "Beyond The Wall Of Sleep 2",
+      "url": "https://open.spotify.com/track/6VcCQGOalbAbTNS3aVatC1"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft Radio Hour Vol. I",
+        "url": "https://open.spotify.com/album/22JtI2cHz1VqCBBMkIhGjj"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558466,
+      "name": "Beyond The Wall Of Sleep 3",
+      "url": "https://open.spotify.com/track/7dibp02fzkuNZOWF6qWbZb"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft Radio Hour Vol. I",
+        "url": "https://open.spotify.com/album/22JtI2cHz1VqCBBMkIhGjj"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447000,
+      "name": "Dagon 1",
+      "url": "https://open.spotify.com/track/0uiE878T8tBViRAOqAQlo4"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft Radio Hour Vol. I",
+        "url": "https://open.spotify.com/album/22JtI2cHz1VqCBBMkIhGjj"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427093,
+      "name": "Dagon 2",
+      "url": "https://open.spotify.com/track/3jgZ09cCEn3udRr7KV86oJ"
+    },
+    {
+      "album": {
+        "name": "Imprisoned With The Pharoahs & Other Stories",
+        "url": "https://open.spotify.com/album/5v3jTwwgFbs9vyHRD7QQbh"
+      },
+      "artists": [
+        {
+          "name": "Staten Eliot",
+          "url": "https://open.spotify.com/artist/0NqibhO3nkS7v9DK3WyrxG"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1630946,
+      "name": "Imprisoned With The Pharoahs - Part 1",
+      "url": "https://open.spotify.com/track/0r7zvZ4h2UOHQAVsBgrxg6"
+    },
+    {
+      "album": {
+        "name": "Imprisoned With The Pharoahs & Other Stories",
+        "url": "https://open.spotify.com/album/5v3jTwwgFbs9vyHRD7QQbh"
+      },
+      "artists": [
+        {
+          "name": "Staten Eliot",
+          "url": "https://open.spotify.com/artist/0NqibhO3nkS7v9DK3WyrxG"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1661466,
+      "name": "Imprisoned With The Pharoahs - Part 2",
+      "url": "https://open.spotify.com/track/1w68MsXl2s4NeJPBecaY2d"
+    },
+    {
+      "album": {
+        "name": "Imprisoned With The Pharoahs & Other Stories",
+        "url": "https://open.spotify.com/album/5v3jTwwgFbs9vyHRD7QQbh"
+      },
+      "artists": [
+        {
+          "name": "Staten Eliot",
+          "url": "https://open.spotify.com/artist/0NqibhO3nkS7v9DK3WyrxG"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1375946,
+      "name": "Imprisoned With The Pharoahs - Part 3",
+      "url": "https://open.spotify.com/track/7FVDK89edzxuULicepR848"
+    },
+    {
+      "album": {
+        "name": "The Call Of Cthulhu & Other Stories",
+        "url": "https://open.spotify.com/album/4hs4K0lL8mokEcPIq5hFrw"
+      },
+      "artists": [
+        {
+          "name": "Ian Fairbairn",
+          "url": "https://open.spotify.com/artist/2sslUu9QRurhlSajeoLtRA"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1649240,
+      "name": "In Conversation With - Ian Fairbairn",
+      "url": "https://open.spotify.com/track/3xl19LPrWA9n4NTk4JtUtu"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft's The Dunwich Horror",
+        "url": "https://open.spotify.com/album/0LqaUyC3BRlOs33LsSxwqo"
+      },
+      "artists": [
+        {
+          "name": "Colin Edwards",
+          "url": "https://open.spotify.com/artist/42EXVB4NK9vU5iR8bif2vk"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 658000,
+      "name": "Part 1, A Family Secret",
+      "url": "https://open.spotify.com/track/5VBzlRdCWtO5ftObhUvDBa"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft's The Dunwich Horror",
+        "url": "https://open.spotify.com/album/0LqaUyC3BRlOs33LsSxwqo"
+      },
+      "artists": [
+        {
+          "name": "Colin Edwards",
+          "url": "https://open.spotify.com/artist/42EXVB4NK9vU5iR8bif2vk"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601500,
+      "name": "Part 2, The Whateley Farmhouse",
+      "url": "https://open.spotify.com/track/6JpYcK5HwSlZJLrS0ovvs8"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft's The Dunwich Horror",
+        "url": "https://open.spotify.com/album/0LqaUyC3BRlOs33LsSxwqo"
+      },
+      "artists": [
+        {
+          "name": "Colin Edwards",
+          "url": "https://open.spotify.com/artist/42EXVB4NK9vU5iR8bif2vk"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617000,
+      "name": "Part 3, Hunt for the Necronomicon",
+      "url": "https://open.spotify.com/track/4zjBjRuEyWVpfHLUIVg3nF"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft's The Dunwich Horror",
+        "url": "https://open.spotify.com/album/0LqaUyC3BRlOs33LsSxwqo"
+      },
+      "artists": [
+        {
+          "name": "Colin Edwards",
+          "url": "https://open.spotify.com/artist/42EXVB4NK9vU5iR8bif2vk"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569000,
+      "name": "Part 4, Attack At the Library",
+      "url": "https://open.spotify.com/track/1q1yNTVHEzyHOYwyieMNcG"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft's The Dunwich Horror",
+        "url": "https://open.spotify.com/album/0LqaUyC3BRlOs33LsSxwqo"
+      },
+      "artists": [
+        {
+          "name": "Colin Edwards",
+          "url": "https://open.spotify.com/artist/42EXVB4NK9vU5iR8bif2vk"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512000,
+      "name": "Part 5, The Empty Quarter",
+      "url": "https://open.spotify.com/track/0CbXpOVP0BwavwQcgnQ306"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft's The Dunwich Horror",
+        "url": "https://open.spotify.com/album/0LqaUyC3BRlOs33LsSxwqo"
+      },
+      "artists": [
+        {
+          "name": "Colin Edwards",
+          "url": "https://open.spotify.com/artist/42EXVB4NK9vU5iR8bif2vk"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 693000,
+      "name": "Part 6, A Race Against Time",
+      "url": "https://open.spotify.com/track/46Dtdz06qkVe5ZJc4Zptrp"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft's The Dunwich Horror",
+        "url": "https://open.spotify.com/album/0LqaUyC3BRlOs33LsSxwqo"
+      },
+      "artists": [
+        {
+          "name": "Colin Edwards",
+          "url": "https://open.spotify.com/artist/42EXVB4NK9vU5iR8bif2vk"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 998000,
+      "name": "Part 7, The Horror",
+      "url": "https://open.spotify.com/track/7hSEWNOHLnHsAqRHARYDEM"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1959021,
+      "name": "Pickman's Model",
+      "url": "https://open.spotify.com/track/6QnQfQ99ambfDVFTPX3n1l"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft Radio Hour Vol. I",
+        "url": "https://open.spotify.com/album/22JtI2cHz1VqCBBMkIhGjj"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559773,
+      "name": "Picture In The House 1",
+      "url": "https://open.spotify.com/track/1vKHtEjb1zDo7JGe2nVQyY"
+    },
+    {
+      "album": {
+        "name": "H.P. Lovecraft Radio Hour Vol. I",
+        "url": "https://open.spotify.com/album/22JtI2cHz1VqCBBMkIhGjj"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 676013,
+      "name": "Picture In The House 2",
+      "url": "https://open.spotify.com/track/0AD5gUmvl9y2Eo4ZUqzLQZ"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593811,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/748uKGq0ybVjXgE8MN2VEa"
+    },
+    {
+      "album": {
+        "name": "HP Lovecraft - The Short Stories - Volume 2",
+        "url": "https://open.spotify.com/album/2LfDE6Lsq3s5vyGBeEY5Uk"
+      },
+      "artists": [
+        {
+          "name": "H.P. Lovecraft",
+          "url": "https://open.spotify.com/artist/1QUtO0CVLXg2DonM9aCJrV"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2765543,
+      "name": "Reanimator - Part 1",
+      "url": "https://open.spotify.com/track/2aRZkLjORg4ZMBtX51ByWZ"
+    },
+    {
+      "album": {
+        "name": "HP Lovecraft - The Short Stories - Volume 2",
+        "url": "https://open.spotify.com/album/2LfDE6Lsq3s5vyGBeEY5Uk"
+      },
+      "artists": [
+        {
+          "name": "H.P. Lovecraft",
+          "url": "https://open.spotify.com/artist/1QUtO0CVLXg2DonM9aCJrV"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2817230,
+      "name": "Reanimator - Part 2",
+      "url": "https://open.spotify.com/track/4hPYrJjJputvxAUpCD06Ba"
+    },
+    {
+      "album": {
+        "name": "Imprisoned With The Pharoahs & Other Stories",
+        "url": "https://open.spotify.com/album/5v3jTwwgFbs9vyHRD7QQbh"
+      },
+      "artists": [
+        {
+          "name": "Staten Eliot",
+          "url": "https://open.spotify.com/artist/0NqibhO3nkS7v9DK3WyrxG"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1661626,
+      "name": "The Alchemist",
+      "url": "https://open.spotify.com/track/6B7iab9y4caNNU5gKwuAjN"
+    },
+    {
+      "album": {
+        "name": "HP Lovecraft - The Short Stories - Volume 2",
+        "url": "https://open.spotify.com/album/2LfDE6Lsq3s5vyGBeEY5Uk"
+      },
+      "artists": [
+        {
+          "name": "H.P. Lovecraft",
+          "url": "https://open.spotify.com/artist/1QUtO0CVLXg2DonM9aCJrV"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2834506,
+      "name": "The Call Of Cthulhu - Part 1",
+      "url": "https://open.spotify.com/track/34whxyKRTosyOYpxt1tWRO"
+    },
+    {
+      "album": {
+        "name": "Gothic Tales Of Terror - Volume 6",
+        "url": "https://open.spotify.com/album/7J4NzWnR2T6JBMnzDw0sar"
+      },
+      "artists": [
+        {
+          "name": "Garrick Hagon",
+          "url": "https://open.spotify.com/artist/2Kmy6d2punfVo9HCgHazLs"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2834506,
+      "name": "The Call of Cthulhu - Part 1 By HP Lovecraft",
+      "url": "https://open.spotify.com/track/0zpWSPxc1KFVDuWP37Z9oj"
+    },
+    {
+      "album": {
+        "name": "The Call Of Cthulhu & Other Stories",
+        "url": "https://open.spotify.com/album/4hs4K0lL8mokEcPIq5hFrw"
+      },
+      "artists": [
+        {
+          "name": "Gareth David-Lloyd",
+          "url": "https://open.spotify.com/artist/5dDIOObda8ay70ZX6xVfly"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2360080,
+      "name": "The Call Of Cthulhu - Part 2",
+      "url": "https://open.spotify.com/track/2PocUsFmYuPcZUvAKHXQrZ"
+    },
+    {
+      "album": {
+        "name": "HP Lovecraft - The Short Stories - Volume 2",
+        "url": "https://open.spotify.com/album/2LfDE6Lsq3s5vyGBeEY5Uk"
+      },
+      "artists": [
+        {
+          "name": "H.P. Lovecraft",
+          "url": "https://open.spotify.com/artist/1QUtO0CVLXg2DonM9aCJrV"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2812122,
+      "name": "The Call Of Cthulhu - Part 2",
+      "url": "https://open.spotify.com/track/3P8dUMi0jA9daieQKs00OO"
+    },
+    {
+      "album": {
+        "name": "Gothic Tales Of Terror - Volume 6",
+        "url": "https://open.spotify.com/album/7J4NzWnR2T6JBMnzDw0sar"
+      },
+      "artists": [
+        {
+          "name": "Garrick Hagon",
+          "url": "https://open.spotify.com/artist/2Kmy6d2punfVo9HCgHazLs"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2812122,
+      "name": "The Call of Cthulhu - Part 2 By HP Lovecraft",
+      "url": "https://open.spotify.com/track/4MSoFgd7G3QaSCawFJsiZQ"
+    },
+    {
+      "album": {
+        "name": "The Call Of Cthulhu & Other Stories",
+        "url": "https://open.spotify.com/album/4hs4K0lL8mokEcPIq5hFrw"
+      },
+      "artists": [
+        {
+          "name": "Gareth David-Lloyd",
+          "url": "https://open.spotify.com/artist/5dDIOObda8ay70ZX6xVfly"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1478026,
+      "name": "The Call Of Cthulhu - Part 3",
+      "url": "https://open.spotify.com/track/0PjiRHD0bEJ0mwPbZNQEn8"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521740,
+      "name": "The Cats of Ulthar",
+      "url": "https://open.spotify.com/track/4401Kdsr54gPG5nY2eXBdq"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4297177,
+      "name": "The Color Out of Space",
+      "url": "https://open.spotify.com/track/1tbtlLPgAY0oMdKSiOUVrK"
+    },
+    {
+      "album": {
+        "name": "The Call Of Cthulhu & Other Stories",
+        "url": "https://open.spotify.com/album/4hs4K0lL8mokEcPIq5hFrw"
+      },
+      "artists": [
+        {
+          "name": "Ian Fairbairn",
+          "url": "https://open.spotify.com/artist/2sslUu9QRurhlSajeoLtRA"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1254293,
+      "name": "The Hound",
+      "url": "https://open.spotify.com/track/73UrBJtmdxctzRmGhQ2tpx"
+    },
+    {
+      "album": {
+        "name": "HP Lovecraft - The Short Stories - Volume 1",
+        "url": "https://open.spotify.com/album/45xC7qWjQYeZLrkxs2DFFN"
+      },
+      "artists": [
+        {
+          "name": "H.P. Lovecraft",
+          "url": "https://open.spotify.com/artist/1QUtO0CVLXg2DonM9aCJrV"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1921683,
+      "name": "The Lurking Fear - Part 1",
+      "url": "https://open.spotify.com/track/74WnJ5q7FiSzTfusZFpvyr"
+    },
+    {
+      "album": {
+        "name": "HP Lovecraft - The Short Stories - Volume 1",
+        "url": "https://open.spotify.com/album/45xC7qWjQYeZLrkxs2DFFN"
+      },
+      "artists": [
+        {
+          "name": "H.P. Lovecraft",
+          "url": "https://open.spotify.com/artist/1QUtO0CVLXg2DonM9aCJrV"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1894005,
+      "name": "The Lurking Fear - Part 2",
+      "url": "https://open.spotify.com/track/4FoJQLNHwnFeHsJl1abJo3"
+    },
+    {
+      "album": {
+        "name": "Imprisoned With The Pharoahs & Other Stories",
+        "url": "https://open.spotify.com/album/5v3jTwwgFbs9vyHRD7QQbh"
+      },
+      "artists": [
+        {
+          "name": "Gareth David-Lloyd",
+          "url": "https://open.spotify.com/artist/5dDIOObda8ay70ZX6xVfly"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1896999,
+      "name": "The Nameless City",
+      "url": "https://open.spotify.com/track/7uz5pllYTe27jBUDsbnYbG"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1024986,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/7JC4m1fZIGBuMjXrP24D97"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1261145,
+      "name": "The Picture in the House",
+      "url": "https://open.spotify.com/track/2zRCAaBJ2wHxkxl17O1djH"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1488093,
+      "name": "The Shadow Over Innsmouth - Part 1",
+      "url": "https://open.spotify.com/track/6StAn4OjXECTfy2CDj7otk"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2127413,
+      "name": "The Shadow Over Innsmouth - Part 2",
+      "url": "https://open.spotify.com/track/3Nwey4lWsaIxr72H0TPVmi"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2323093,
+      "name": "The Shadow Over Innsmouth - Part 3",
+      "url": "https://open.spotify.com/track/4kHLqALcypVhWRICr2FFiR"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1234906,
+      "name": "The Shadow Over Innsmouth - Part 4",
+      "url": "https://open.spotify.com/track/3ZpG6W1eBXFPZfIJu7lLJ8"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2008187,
+      "name": "The Shadow Over Innsmouth - Part 4 - Continued",
+      "url": "https://open.spotify.com/track/49XNFYHkSwY6Q1e7RltflM"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1087213,
+      "name": "The Shadow Over Innsmouth - Part 5",
+      "url": "https://open.spotify.com/track/7hFO2GCSfozwxK7siFXoay"
+    },
+    {
+      "album": {
+        "name": "Gothic Tales Of Terror - Volume 2",
+        "url": "https://open.spotify.com/album/4ageGiGTTrP1sG5BMg4tbh"
+      },
+      "artists": [
+        {
+          "name": "David Healy",
+          "url": "https://open.spotify.com/artist/52PO2vCApsdMJxnwrsT64p"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2471346,
+      "name": "The Thing On The Doorstep - Part 1 By HP Lovecraft",
+      "url": "https://open.spotify.com/track/1TO7EwXatwFt3MMn9U7Jh6"
+    },
+    {
+      "album": {
+        "name": "Gothic Tales Of Terror - Volume 2",
+        "url": "https://open.spotify.com/album/4ageGiGTTrP1sG5BMg4tbh"
+      },
+      "artists": [
+        {
+          "name": "David Healy",
+          "url": "https://open.spotify.com/artist/52PO2vCApsdMJxnwrsT64p"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2420725,
+      "name": "The Thing On The Doorstep - Part 2 By HP Lovecraft",
+      "url": "https://open.spotify.com/track/2wah4y5UKgI17ohDquKK6Q"
+    },
+    {
+      "album": {
+        "name": "The Whisperer In Darkness",
+        "url": "https://open.spotify.com/album/2gemwGQWi0oYtGQ55JN9ed"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1003947,
+      "name": "The Whisperer In Darkness - Chapter 1",
+      "url": "https://open.spotify.com/track/6GQWdqcFbO2iJdwTNDT39B"
+    },
+    {
+      "album": {
+        "name": "The Whisperer In Darkness",
+        "url": "https://open.spotify.com/album/2gemwGQWi0oYtGQ55JN9ed"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1563680,
+      "name": "The Whisperer In Darkness - Chapter 2",
+      "url": "https://open.spotify.com/track/3i3WljHH4UTIUAaWYLrmG8"
+    },
+    {
+      "album": {
+        "name": "The Whisperer In Darkness",
+        "url": "https://open.spotify.com/album/2gemwGQWi0oYtGQ55JN9ed"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1035986,
+      "name": "The Whisperer In Darkness - Chapter 3",
+      "url": "https://open.spotify.com/track/0a5OTFtWFlvzsqqD7QdHDc"
+    },
+    {
+      "album": {
+        "name": "The Whisperer In Darkness",
+        "url": "https://open.spotify.com/album/2gemwGQWi0oYtGQ55JN9ed"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1069800,
+      "name": "The Whisperer In Darkness - Chapter 4",
+      "url": "https://open.spotify.com/track/7Lc9dABrLNL5LTslTUZrKJ"
+    },
+    {
+      "album": {
+        "name": "The Whisperer In Darkness",
+        "url": "https://open.spotify.com/album/2gemwGQWi0oYtGQ55JN9ed"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1104427,
+      "name": "The Whisperer In Darkness - Chapter 5",
+      "url": "https://open.spotify.com/track/2QDV31b1RcaMUxKZJ0hJld"
+    },
+    {
+      "album": {
+        "name": "The Whisperer In Darkness",
+        "url": "https://open.spotify.com/album/2gemwGQWi0oYtGQ55JN9ed"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1211106,
+      "name": "The Whisperer In Darkness - Chapter 6",
+      "url": "https://open.spotify.com/track/1JlEAY83Q31mrVtVYk4oQ2"
+    },
+    {
+      "album": {
+        "name": "The Whisperer In Darkness",
+        "url": "https://open.spotify.com/album/2gemwGQWi0oYtGQ55JN9ed"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1851867,
+      "name": "The Whisperer In Darkness - Chapter 7",
+      "url": "https://open.spotify.com/track/4nrGL45gdLuleKN3AlpM3b"
+    },
+    {
+      "album": {
+        "name": "The Whisperer In Darkness",
+        "url": "https://open.spotify.com/album/2gemwGQWi0oYtGQ55JN9ed"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2014-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1441315,
+      "name": "The Whisperer In Darkness - Chapter 8",
+      "url": "https://open.spotify.com/track/3DxLFxGFAOwLSNVZK4A44I"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7QXVqVJ8y93"
 }

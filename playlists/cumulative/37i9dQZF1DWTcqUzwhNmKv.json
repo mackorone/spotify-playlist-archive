@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Architects on top of the biggest Metal playlist.",
+  "description": "Brand of Sacrifice on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 183404,
       "name": "(i)",
       "url": "https://open.spotify.com/track/3q67Wftt1U8AOLIHHw1rSB"
+    },
+    {
+      "album": {
+        "name": "+ kristallf\u00e5gel +",
+        "url": "https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "+ kristallf\u00e5gel +",
+      "url": "https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97"
     },
     {
       "album": {
@@ -1827,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Common Suffering",
+        "url": "https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF"
+      },
+      "artists": [
+        {
+          "name": "Harms Way",
+          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224291,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/0lqnTPAsozxC6XQgoV7k7N"
+    },
+    {
+      "album": {
         "name": "Cyberhex",
         "url": "https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA"
       },
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 164790,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
@@ -4977,6 +5013,24 @@
     },
     {
       "album": {
+        "name": "Kool-Aid",
+        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228470,
+      "name": "Kool-Aid",
+      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "album": {
         "name": "Kr\u00f8terveg Te Helvete",
         "url": "https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ"
       },
@@ -7462,7 +7516,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 180000,
       "name": "Silana",
       "url": "https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9"
@@ -9226,7 +9280,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 234945,
       "name": "There\u2019s Fear In Letting Go",
       "url": "https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4"

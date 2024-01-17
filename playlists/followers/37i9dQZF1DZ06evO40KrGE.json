@@ -1,178 +1,1255 @@
 {
-  "2023-07-10": 29930,
-  "2023-07-11": 29948,
-  "2023-07-12": 29966,
-  "2023-07-13": 29993,
-  "2023-07-14": 30008,
-  "2023-07-15": 30017,
-  "2023-07-16": 30031,
-  "2023-07-17": 30051,
-  "2023-07-18": 30071,
-  "2023-07-19": 30086,
-  "2023-07-20": 30086,
-  "2023-07-21": 30130,
-  "2023-07-22": 30152,
-  "2023-07-23": 30180,
-  "2023-07-24": 30209,
-  "2023-07-25": 30237,
-  "2023-07-26": 30264,
-  "2023-07-27": 30295,
-  "2023-07-28": 30295,
-  "2023-07-29": 30344,
-  "2023-07-30": 30344,
-  "2023-07-31": 30375,
-  "2023-08-01": 30392,
-  "2023-08-02": 30412,
-  "2023-08-03": 30432,
-  "2023-08-04": 30450,
-  "2023-08-05": 30477,
-  "2023-08-06": 30519,
-  "2023-08-07": 30519,
-  "2023-08-08": 30534,
-  "2023-08-09": 30552,
-  "2023-08-10": 30575,
-  "2023-08-11": 30592,
-  "2023-08-12": 30592,
-  "2023-08-13": 30592,
-  "2023-08-14": 30592,
-  "2023-08-15": 30592,
-  "2023-08-16": 30592,
-  "2023-08-17": 30592,
-  "2023-08-18": 30592,
-  "2023-08-19": 30592,
-  "2023-08-20": 30763,
-  "2023-08-21": 30763,
-  "2023-08-22": 30800,
-  "2023-08-23": 30800,
-  "2023-08-24": 30800,
-  "2023-08-25": 30800,
-  "2023-08-26": 30869,
-  "2023-08-27": 30869,
-  "2023-08-28": 30901,
-  "2023-08-29": 30901,
-  "2023-08-30": 30901,
-  "2023-08-31": 30956,
-  "2023-09-01": 30981,
-  "2023-09-02": 30981,
-  "2023-09-03": 30981,
-  "2023-09-04": 30981,
-  "2023-09-05": 30981,
-  "2023-09-06": 30981,
-  "2023-09-07": 30981,
-  "2023-09-08": 30981,
-  "2023-09-09": 30981,
-  "2023-09-10": 30981,
-  "2023-09-11": 30981,
-  "2023-09-12": 30981,
-  "2023-09-13": 30981,
-  "2023-09-14": 30981,
-  "2023-09-15": 30981,
-  "2023-09-16": 31331,
-  "2023-09-17": 31331,
-  "2023-09-18": 31331,
-  "2023-09-19": 31331,
-  "2023-09-20": 31331,
-  "2023-09-21": 31331,
-  "2023-09-22": 31448,
-  "2023-09-23": 31448,
-  "2023-09-24": 31448,
-  "2023-09-25": 31448,
-  "2023-09-26": 31513,
-  "2023-09-27": 31513,
-  "2023-09-28": 31513,
-  "2023-09-29": 31513,
-  "2023-09-30": 31513,
-  "2023-10-01": 31513,
-  "2023-10-02": 31513,
-  "2023-10-03": 31513,
-  "2023-10-04": 31513,
-  "2023-10-05": 31513,
-  "2023-10-06": 31513,
-  "2023-10-07": 31513,
-  "2023-10-08": 31513,
-  "2023-10-09": 31513,
-  "2023-10-10": 31513,
-  "2023-10-11": 31513,
-  "2023-10-12": 31513,
-  "2023-10-13": 31513,
-  "2023-10-14": 31513,
-  "2023-10-15": 31513,
-  "2023-10-16": 31513,
-  "2023-10-17": 31513,
-  "2023-10-18": 31513,
-  "2023-10-19": 31513,
-  "2023-10-20": 31513,
-  "2023-10-21": 31513,
-  "2023-10-22": 31513,
-  "2023-10-23": 31513,
-  "2023-10-24": 31513,
-  "2023-10-25": 31513,
-  "2023-10-26": 31513,
-  "2023-10-27": 31513,
-  "2023-10-28": 31513,
-  "2023-10-29": 31513,
-  "2023-10-30": 31513,
-  "2023-10-31": 31513,
-  "2023-11-01": 31513,
-  "2023-11-02": 31513,
-  "2023-11-03": 31513,
-  "2023-11-04": 31513,
-  "2023-11-05": 31513,
-  "2023-11-06": 31513,
-  "2023-11-07": 31513,
-  "2023-11-08": 31513,
-  "2023-11-09": 31513,
-  "2023-11-10": 31513,
-  "2023-11-11": 32161,
-  "2023-11-12": 32161,
-  "2023-11-13": 32161,
-  "2023-11-14": 32161,
-  "2023-11-15": 32161,
-  "2023-11-16": 32161,
-  "2023-11-17": 32161,
-  "2023-11-18": 32161,
-  "2023-11-19": 32161,
-  "2023-11-20": 32161,
-  "2023-11-21": 32161,
-  "2023-11-22": 32161,
-  "2023-11-23": 32161,
-  "2023-11-24": 32161,
-  "2023-11-25": 32161,
-  "2023-11-26": 32161,
-  "2023-11-27": 32161,
-  "2023-11-28": 32161,
-  "2023-11-29": 32161,
-  "2023-11-30": 32161,
-  "2023-12-01": 32161,
-  "2023-12-02": 32161,
-  "2023-12-03": 32161,
-  "2023-12-04": 32161,
-  "2023-12-05": 32161,
-  "2023-12-06": 32161,
-  "2023-12-07": 32161,
-  "2023-12-08": 32161,
-  "2023-12-09": 32161,
-  "2023-12-10": 32161,
-  "2023-12-11": 32161,
-  "2023-12-12": 32161,
-  "2023-12-13": 32161,
-  "2023-12-14": 32700,
-  "2023-12-15": 32704,
-  "2023-12-16": 32719,
-  "2023-12-17": 32729,
-  "2023-12-18": 32742,
-  "2023-12-19": 32758,
-  "2023-12-20": 32766,
-  "2023-12-21": 32781,
-  "2023-12-22": 32797,
-  "2023-12-23": 32820,
-  "2023-12-24": 32834,
-  "2023-12-25": 32844,
-  "2023-12-26": 32853,
-  "2023-12-27": 32858,
-  "2023-12-30": 32899,
-  "2023-12-31": 32900,
-  "2024-01-01": 32912,
-  "2024-01-02": 32920,
-  "2024-01-03": 32929
+  "2024-01-17": 32941,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Cassiane. The essential tracks, all in one playlist.",
+  "name": "This Is Cassiane",
+  "tracks": [
+    {
+      "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325079,
+      "name": "500 Graus",
+      "url": "https://open.spotify.com/track/7qSzexUzL3H8Fqic0jwDDL"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337803,
+      "name": "A Face Adorada de Jesus",
+      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+    },
+    {
+      "album": {
+        "name": "Ao Som dos Louvores",
+        "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313093,
+      "name": "Amigo Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 309336,
+      "name": "Ao Estrugir a Trombeta",
+      "url": "https://open.spotify.com/track/0V3gGGIw36rS8vjVyicDLw"
+    },
+    {
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215063,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 227509,
+      "name": "Campe\u00f5es da Luz",
+      "url": "https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL"
+    },
+    {
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264800,
+      "name": "Com Cristo \u00e9 Vencer",
+      "url": "https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz"
+    },
+    {
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305806,
+      "name": "Com Muito Louvor",
+      "url": "https://open.spotify.com/track/0suvVjf5ZT2Pasu1cDPEVr"
+    },
+    {
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290899,
+      "name": "Contigo Est\u00e1",
+      "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300419,
+      "name": "Deus Velar\u00e1 por Ti",
+      "url": "https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237586,
+      "name": "Ele Tem Poder",
+      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274181,
+      "name": "Erguer as M\u00e3os",
+      "url": "https://open.spotify.com/track/0kN2odUJ2oOnptGa1DwUkI"
+    },
+    {
+      "album": {
+        "name": "Escolhidas",
+        "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Hellen Miranda",
+          "url": "https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247756,
+      "name": "Escolhidas",
+      "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
+    },
+    {
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289552,
+      "name": "Esconderijo do Alt\u00edssimo",
+      "url": "https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d"
+    },
+    {
+      "album": {
+        "name": "Eu N\u00e3o Mudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281391,
+      "name": "Eu N\u00e3o Mudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433562,
+      "name": "Fala Jesus Querido",
+      "url": "https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o"
+    },
+    {
+      "album": {
+        "name": "Sele\u00e7\u00e3o Essencial - Grandes Sucessos - Cassiane",
+        "url": "https://open.spotify.com/album/6Z0LRoCexkdlVof1Qo0Axn"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276840,
+      "name": "Fa\u00e7a a diferen\u00e7a",
+      "url": "https://open.spotify.com/track/5jqhsYvka1SpClRNjTwIy9"
+    },
+    {
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315837,
+      "name": "Forte Campe\u00e3o",
+      "url": "https://open.spotify.com/track/46yEehuyQ361ecO1zjaRIP"
+    },
+    {
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "Hino da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
+    },
+    {
+      "album": {
+        "name": "Identidade",
+        "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275853,
+      "name": "Identidade",
+      "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
+    },
+    {
+      "album": {
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289459,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
+    },
+    {
+      "album": {
+        "name": "Jesus Est\u00e1 no Barco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6TzyI0uQvnWWn5w6ATvoNi"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273337,
+      "name": "Jesus Est\u00e1 no Barco (Ao Vivo)",
+      "url": "https://open.spotify.com/track/77bI4fOKEk3fFUgTKQ1dXk"
+    },
+    {
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322478,
+      "name": "Louve Sempre",
+      "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321549,
+      "name": "Louvor sem Fim",
+      "url": "https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm"
+    },
+    {
+      "album": {
+        "name": "Medley (A Carta / Mergulhe / Todo Poderoso / N\u00e3o Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vit\u00f3ria / Erguer as M\u00e3os) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0RwLXsqlcWiiVEYCn773sj"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493681,
+      "name": "Medley (A Carta / Mergulhe / Todo Poderoso / N\u00e3o Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vit\u00f3ria / Erguer as M\u00e3os) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/49Fd9wpK7X5ZXxIWFrAgKh"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/67vcrkrTm7ttX6WVDcGPjw"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515873,
+      "name": "Medley Ouve, Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0f3USV8YwTafD09QCi9p46"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276549,
+      "name": "Mergulhe",
+      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
+    },
+    {
+      "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260667,
+      "name": "Minha B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5SS4AAEBMOMVGJTlKS7Hnw"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Abro M\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XHjlbrPHz5B7CvtyUuVDh"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Lauriete",
+          "url": "https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 271877,
+      "name": "N\u00e3o Abro M\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1TGWFsVx97mxmo247s5pj3"
+    },
+    {
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321549,
+      "name": "N\u00e3o Negue a Jesus",
+      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Pare Agora",
+        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269775,
+      "name": "N\u00e3o Pare Agora",
+      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Posso Desistir",
+        "url": "https://open.spotify.com/album/0nuJ9Ohww9T23k3MDESFg3"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 216918,
+      "name": "N\u00e3o Posso Desistir",
+      "url": "https://open.spotify.com/track/2cgCsP1m4K4tilrfRw9nM3"
+    },
+    {
+      "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266518,
+      "name": "N\u00e3o Reclame",
+      "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
+    },
+    {
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446937,
+      "name": "O Abra\u00e7o do Noivo",
+      "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311286,
+      "name": "O Fogo de Deus",
+      "url": "https://open.spotify.com/track/7EznXYdL3RtJkJdFYpZc9k"
+    },
+    {
+      "album": {
+        "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402770,
+      "name": "O Le\u00e3o e o Cordeiro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo"
+    },
+    {
+      "album": {
+        "name": "O Pre\u00e7o Mais Caro",
+        "url": "https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx"
+      },
+      "artists": [
+        {
+          "name": "Sophia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 237460,
+      "name": "O Pre\u00e7o Mais Caro",
+      "url": "https://open.spotify.com/track/09Ycc4int063ZpChD3OMCE"
+    },
+    {
+      "album": {
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+    },
+    {
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253794,
+      "name": "Oferta Agrad\u00e1vel a Ti",
+      "url": "https://open.spotify.com/track/1uj6MX46NiNKG9jJeBSpCa"
+    },
+    {
+      "album": {
+        "name": "Olha o Que Deus Faz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42UFCLpK8mS9SA5jCyDlYl"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259103,
+      "name": "Olha o Que Deus Faz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/24lAuZ7ycAIzs91M53QW7i"
+    },
+    {
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263500,
+      "name": "Onde Jesus Mora",
+      "url": "https://open.spotify.com/track/5nIdb0Gpg2Mb0ktbFrM9Ot"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        },
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        },
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Brun\u00e3o Morada",
+          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "Gabriel Barreto",
+          "url": "https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1"
+        },
+        {
+          "name": "Helena Tannure",
+          "url": "https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5"
+        },
+        {
+          "name": "Isaque Valad\u00e3o Bessa",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        },
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        },
+        {
+          "name": "Jo\u00e3o L\u00facio Tannure",
+          "url": "https://open.spotify.com/artist/30TJO7wBIMmfnGdC0bIfSe"
+        },
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        },
+        {
+          "name": "Mariana Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm"
+        },
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        },
+        {
+          "name": "Nena Lacerda",
+          "url": "https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384876,
+      "name": "Preciso de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
+    },
+    {
+      "album": {
+        "name": "Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231754,
+      "name": "Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
+    },
+    {
+      "album": {
+        "name": "100 Anos do Movimento Pentecostal",
+        "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        },
+        {
+          "name": "Lauriete",
+          "url": "https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 835400,
+      "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
+      "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356844,
+      "name": "Se Cristo Comigo Vai",
+      "url": "https://open.spotify.com/track/5nWxAj8qbYBGUUFoIF4Bf7"
+    },
+    {
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364692,
+      "name": "Sementes da F\u00e9",
+      "url": "https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260481,
+      "name": "Sobre as Ondas do Mar",
+      "url": "https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 396503,
+      "name": "Sossegai",
+      "url": "https://open.spotify.com/track/5mz1wRklvSTHDYe1W4Iec6"
+    },
+    {
+      "album": {
+        "name": "Drive In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352064,
+      "name": "Todavia me Alegrarei (Ao Vivo)",
+      "url": "https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
+    },
+    {
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294183,
+      "name": "Transformada",
+      "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
+    },
+    {
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325218,
+      "name": "Tremendo e Santo",
+      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 295729,
+      "name": "Tu \u00e9s Fiel, Senhor",
+      "url": "https://open.spotify.com/track/6Ob0r0t2CyBGzUQU2RE9iW"
+    },
+    {
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252308,
+      "name": "Uma Flor Gloriosa",
+      "url": "https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok"
+    },
+    {
+      "album": {
+        "name": "Marina de Oliveira - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n"
+      },
+      "artists": [
+        {
+          "name": "Marina De Oliveira",
+          "url": "https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB"
+        },
+        {
+          "name": "Novo Som",
+          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
+        },
+        {
+          "name": "Alex Gonzaga",
+          "url": "https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Brother Simion",
+          "url": "https://open.spotify.com/artist/1pEaPL16IqfzG8ze1Xp3gZ"
+        },
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Banda & Voz",
+          "url": "https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E"
+        },
+        {
+          "name": "Ellas",
+          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
+        },
+        {
+          "name": "Raquel Mello",
+          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182508,
+      "name": "Unidos Pelo Amor",
+      "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
+    },
+    {
+      "album": {
+        "name": "Vou Deixar na Cruz",
+        "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334692,
+      "name": "Vou Deixar na Cruz",
+      "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
+    },
+    {
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282633,
+      "name": "Vou Seguir",
+      "url": "https://open.spotify.com/track/67TQGw4cZzFD33j4KJcOdQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40KrGE"
 }

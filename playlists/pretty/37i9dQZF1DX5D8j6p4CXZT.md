@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D8j6p4CXZT.md) - [plain]
 
 > headphones on, forget the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,802 likes - 82 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,586 likes - 82 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TEAR ME APART](https://open.spotify.com/track/4UeP96FekSiwztUsfRtWhj) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:54 |
-| 2 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
+| 2 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 3 | [Doing Time](https://open.spotify.com/track/46U6Q6qD71twELCau5AKMr) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Doing Time](https://open.spotify.com/album/1342PPedHNr7saPwjTQcIy) | 2:22 |
 | 4 | [Middle Ground](https://open.spotify.com/track/1sbDZ8yjhADmNltySzYyS4) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Middle Ground](https://open.spotify.com/album/6ehrEjApX0i2oEoYFv6gXF) | 3:14 |
 | 5 | [Time Will Tell](https://open.spotify.com/track/3soYJE0v7d9qaj3PAMo3Zf) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Out Of Mind](https://open.spotify.com/album/6eL41jNuLADGnjmCyUyS4d) | 2:58 |

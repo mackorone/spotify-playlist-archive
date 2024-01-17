@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 
 > À deux, c'est mieux ! Photo : Amel Bent & Hatik
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,535 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,364 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

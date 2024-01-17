@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: The Kentucky Gentlemen
 
-188 songs - 9 hr 43 min
+189 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Neon Cowboy](https://open.spotify.com/track/0IrWcbyRdfWARLLLZCLhuY) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Neon Cowboy](https://open.spotify.com/album/0J8y3sEsIwLDv9k44tBzlc) | 3:18 | 2023-10-27 |  |
 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 | 2021-12-03 |  |
 | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/track/1FSYsYrfOKa6nBHVEBWUQC) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/album/1v3UJ3V5ChGeHPoKzhcyy3) | 3:41 | 2021-12-03 | 2023-02-18 |
+| [Night In](https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Night In](https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN) | 3:27 | 2024-01-05 |  |
 | [Night To Go](https://open.spotify.com/track/65JhcwbMrDlQAxrRDi79Ns) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Night To Go](https://open.spotify.com/album/0NmgdVPj95vVLLxDor1R8T) | 2:43 | 2023-08-11 |  |
 | [Nobody's More Country](https://open.spotify.com/track/3e9GzPcnquUu3vLZU3man4) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/6Ty3A6KMug1QL8CAXmdcz5) | 2:52 | 2023-11-03 |  |
 | [Nobody's More Country](https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf) | 2:52 | 2021-12-03 | 2023-11-04 |

@@ -1,180 +1,1149 @@
 {
-  "2023-07-08": 970,
-  "2023-07-09": 1004,
-  "2023-07-10": 1030,
-  "2023-07-11": 1062,
-  "2023-07-12": 1114,
-  "2023-07-13": 1158,
-  "2023-07-14": 1205,
-  "2023-07-15": 1232,
-  "2023-07-16": 1266,
-  "2023-07-17": 1291,
-  "2023-07-18": 1329,
-  "2023-07-19": 1355,
-  "2023-07-20": 1382,
-  "2023-07-21": 1404,
-  "2023-07-22": 1433,
-  "2023-07-23": 1460,
-  "2023-07-24": 1491,
-  "2023-07-25": 1521,
-  "2023-07-26": 1550,
-  "2023-07-27": 1581,
-  "2023-07-28": 1615,
-  "2023-07-29": 1639,
-  "2023-07-30": 1679,
-  "2023-07-31": 1709,
-  "2023-08-01": 1737,
-  "2023-08-02": 1758,
-  "2023-08-03": 1786,
-  "2023-08-04": 1838,
-  "2023-08-05": 1869,
-  "2023-08-06": 1926,
-  "2023-08-07": 1926,
-  "2023-08-08": 1950,
-  "2023-08-09": 1969,
-  "2023-08-10": 1996,
-  "2023-08-11": 2028,
-  "2023-08-12": 2049,
-  "2023-08-13": 2081,
-  "2023-08-14": 2105,
-  "2023-08-15": 2220,
-  "2023-08-16": 2220,
-  "2023-08-17": 2377,
-  "2023-08-18": 2710,
-  "2023-08-19": 2970,
-  "2023-08-20": 3254,
-  "2023-08-21": 3504,
-  "2023-08-22": 3583,
-  "2023-08-23": 3684,
-  "2023-08-24": 3844,
-  "2023-08-25": 3929,
-  "2023-08-26": 4252,
-  "2023-08-27": 4561,
-  "2023-08-28": 4848,
-  "2023-08-29": 5070,
-  "2023-08-30": 5190,
-  "2023-08-31": 5317,
-  "2023-09-01": 5594,
-  "2023-09-02": 5594,
-  "2023-09-03": 5886,
-  "2023-09-04": 6124,
-  "2023-09-05": 6370,
-  "2023-09-06": 6549,
-  "2023-09-07": 6859,
-  "2023-09-08": 7176,
-  "2023-09-09": 7359,
-  "2023-09-10": 7631,
-  "2023-09-11": 7791,
-  "2023-09-12": 7994,
-  "2023-09-13": 8140,
-  "2023-09-14": 8236,
-  "2023-09-15": 8309,
-  "2023-09-16": 8844,
-  "2023-09-17": 9942,
-  "2023-09-18": 10651,
-  "2023-09-19": 11272,
-  "2023-09-20": 11870,
-  "2023-09-21": 12406,
-  "2023-09-22": 12823,
-  "2023-09-23": 13217,
-  "2023-09-24": 13560,
-  "2023-09-25": 13819,
-  "2023-09-26": 13906,
-  "2023-09-27": 13949,
-  "2023-09-28": 13986,
-  "2023-09-29": 14028,
-  "2023-09-30": 14120,
-  "2023-10-01": 14200,
-  "2023-10-02": 14257,
-  "2023-10-03": 14297,
-  "2023-10-04": 14343,
-  "2023-10-05": 14373,
-  "2023-10-06": 14394,
-  "2023-10-07": 14459,
-  "2023-10-08": 14514,
-  "2023-10-09": 14573,
-  "2023-10-10": 14596,
-  "2023-10-11": 14685,
-  "2023-10-12": 14685,
-  "2023-10-13": 14704,
-  "2023-10-14": 14766,
-  "2023-10-15": 14832,
-  "2023-10-16": 14893,
-  "2023-10-17": 14918,
-  "2023-10-18": 14969,
-  "2023-10-19": 14999,
-  "2023-10-20": 15020,
-  "2023-10-21": 15090,
-  "2023-10-22": 15138,
-  "2023-10-23": 15181,
-  "2023-10-24": 15199,
-  "2023-10-25": 15246,
-  "2023-10-26": 15261,
-  "2023-10-27": 15280,
-  "2023-10-28": 15280,
-  "2023-10-29": 15406,
-  "2023-10-30": 15451,
-  "2023-10-31": 15451,
-  "2023-11-01": 15517,
-  "2023-11-02": 15530,
-  "2023-11-03": 15548,
-  "2023-11-04": 15598,
-  "2023-11-05": 15658,
-  "2023-11-06": 15704,
-  "2023-11-07": 15716,
-  "2023-11-08": 15756,
-  "2023-11-09": 15766,
-  "2023-11-10": 15781,
-  "2023-11-11": 15828,
-  "2023-11-12": 15861,
-  "2023-11-13": 15893,
-  "2023-11-14": 15911,
-  "2023-11-15": 15911,
-  "2023-11-16": 15940,
-  "2023-11-17": 15954,
-  "2023-11-18": 15954,
-  "2023-11-19": 15971,
-  "2023-11-20": 15978,
-  "2023-11-21": 15990,
-  "2023-11-22": 15998,
-  "2023-11-23": 16014,
-  "2023-11-24": 16014,
-  "2023-11-25": 16051,
-  "2023-11-26": 16059,
-  "2023-11-27": 16067,
-  "2023-11-28": 16073,
-  "2023-11-29": 16085,
-  "2023-11-30": 16085,
-  "2023-12-01": 16096,
-  "2023-12-02": 16111,
-  "2023-12-03": 16120,
-  "2023-12-04": 16129,
-  "2023-12-05": 16134,
-  "2023-12-06": 16140,
-  "2023-12-07": 16147,
-  "2023-12-08": 16156,
-  "2023-12-09": 16160,
-  "2023-12-10": 16170,
-  "2023-12-11": 16182,
-  "2023-12-12": 16182,
-  "2023-12-13": 16189,
-  "2023-12-14": 16217,
-  "2023-12-15": 16229,
-  "2023-12-16": 16234,
-  "2023-12-17": 16248,
-  "2023-12-18": 16262,
-  "2023-12-19": 16264,
-  "2023-12-20": 16268,
-  "2023-12-21": 16278,
-  "2023-12-22": 16290,
-  "2023-12-23": 16306,
-  "2023-12-24": 16325,
-  "2023-12-25": 16342,
-  "2023-12-26": 16351,
-  "2023-12-27": 16379,
-  "2023-12-30": 16410,
-  "2023-12-31": 16415,
-  "2024-01-01": 16422,
-  "2024-01-02": 16437,
-  "2024-01-03": 16440
+  "2024-01-17": 16583,
+  "date_first_scraped": "2023-07-08",
+  "description": "Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses. Cover : Mehtab Ali Niazi",
+  "name": "ECHO : Soulful Sitar",
+  "tracks": [
+    {
+      "album": {
+        "name": "Amazing Sitar",
+        "url": "https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0"
+      },
+      "artists": [
+        {
+          "name": "Chirag Katti",
+          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "Albela Sajan - Instrumental",
+      "url": "https://open.spotify.com/track/7fGCbE8uUx4XvxKrgl3m2L"
+    },
+    {
+      "album": {
+        "name": "Buddha Sitar Favorites",
+        "url": "https://open.spotify.com/album/2kCpZPBUMJVjBavzZcc6qO"
+      },
+      "artists": [
+        {
+          "name": "Sitar Heroes",
+          "url": "https://open.spotify.com/artist/4HrMXro3GNDu8YBAjc9doe"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-21",
+      "duration_ms": 172666,
+      "name": "Ayyappa Ashtakam",
+      "url": "https://open.spotify.com/track/0D4ihckiXf3dIKhBm2YXaH"
+    },
+    {
+      "album": {
+        "name": "The Pleasurable Mind in Healing Music",
+        "url": "https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x"
+      },
+      "artists": [
+        {
+          "name": "Mystical Guide, Loner Wolf",
+          "url": "https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Beauty of Sitar",
+      "url": "https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs"
+    },
+    {
+      "album": {
+        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
+        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
+      },
+      "artists": [
+        {
+          "name": "Adho Vrikshasana",
+          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372000,
+      "name": "Best Sitar Music",
+      "url": "https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS"
+    },
+    {
+      "album": {
+        "name": "The Chaand Baaliyan Jukebox",
+        "url": "https://open.spotify.com/album/5Pcapg63INIzleQpJY0yXh"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        {
+          "name": "Bhagirath Bhatt",
+          "url": "https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106374,
+      "name": "Chaand Baaliyan - On Sitar",
+      "url": "https://open.spotify.com/track/4cyg9E9nEDyzu1mAaQaOpX"
+    },
+    {
+      "album": {
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+    },
+    {
+      "album": {
+        "name": "Sitar (Instrumental)",
+        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
+      },
+      "artists": [
+        {
+          "name": "Sitar A Seyer Otsenre",
+          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Creation",
+      "url": "https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1"
+    },
+    {
+      "album": {
+        "name": "Sitar (Instrumental)",
+        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
+      },
+      "artists": [
+        {
+          "name": "Sitar A Seyer Otsenre",
+          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 413000,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp"
+    },
+    {
+      "album": {
+        "name": "Dream (Raag Tilak Nat) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451305,
+      "name": "Dream (Raag Tilak Nat) [Radio Edit]",
+      "url": "https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw"
+    },
+    {
+      "album": {
+        "name": "Morning Sitar Peace",
+        "url": "https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr"
+      },
+      "artists": [
+        {
+          "name": "Kaustav Majumder",
+          "url": "https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117630,
+      "name": "Dreaming Sitar - Original Mix",
+      "url": "https://open.spotify.com/track/0CwcCMYR8AkoQHYLKCIe2D"
+    },
+    {
+      "album": {
+        "name": "Ekla Chalo Re Rabindra Sangeet (Live)",
+        "url": "https://open.spotify.com/album/1Q2H4Dh1hZs4lmGhCSxbLC"
+      },
+      "artists": [
+        {
+          "name": "Mehtab Ali Niazi",
+          "url": "https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416052,
+      "name": "Ekla Chalo Re Rabindra Sangeet - Raag - Khamaj - Live",
+      "url": "https://open.spotify.com/track/0UwcP57y613FudmKHphanW"
+    },
+    {
+      "album": {
+        "name": "Escape - Yoga Sitar Trance",
+        "url": "https://open.spotify.com/album/20g9RgwBChZy87JOc3gxN8"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398987,
+      "name": "Escape - Yoga Sitar Trance",
+      "url": "https://open.spotify.com/track/3MGrH2rjZqI6QCQ75bSbnq"
+    },
+    {
+      "album": {
+        "name": "50 New Age, Relaxation & Massage Tracks (For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age)",
+        "url": "https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9"
+      },
+      "artists": [
+        {
+          "name": "Massage Tribe",
+          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149306,
+      "name": "Evenings in Dehli - Sitar/Guitar Melodies for Relaxation",
+      "url": "https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3"
+    },
+    {
+      "album": {
+        "name": "Amazing Sitar",
+        "url": "https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287400,
+      "name": "Hum Bewafa Hargiz Na Thay - Unwind Instrumental",
+      "url": "https://open.spotify.com/track/3VoE9lBw3UO1rBSg0Z31KY"
+    },
+    {
+      "album": {
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/69qEVU3jV5p0NVpfA5q8rO"
+      },
+      "artists": [
+        {
+          "name": "Chirag Katti",
+          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416363,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/67XJ39k65gnMALcoiKLe9r"
+    },
+    {
+      "album": {
+        "name": "Amazing Sitar",
+        "url": "https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354786,
+      "name": "Ka Karun Sajni - The Classic Thumri of Longing - Instrumental",
+      "url": "https://open.spotify.com/track/1uNp7hTMUp8eaNP6QX7Ucy"
+    },
+    {
+      "album": {
+        "name": "Kautilya (The Echo Project)",
+        "url": "https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Naveen Kumar",
+          "url": "https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR"
+        },
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191063,
+      "name": "Kautilya (The Echo Project)",
+      "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
+    },
+    {
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 835312,
+      "name": "Komal Rishabh Asavari - Jhaptaal",
+      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
+    },
+    {
+      "album": {
+        "name": "Traces Of You",
+        "url": "https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278520,
+      "name": "Lasya",
+      "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
+    },
+    {
+      "album": {
+        "name": "Lat Ulajhi - Single",
+        "url": "https://open.spotify.com/album/1htF88la5OLlyZgDhJaRKT"
+      },
+      "artists": [
+        {
+          "name": "Chirag Katti",
+          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228157,
+      "name": "Lat Ulajhi - Instrumental",
+      "url": "https://open.spotify.com/track/5pPBW1gjjepWGyn8BqqF5X"
+    },
+    {
+      "album": {
+        "name": "Instrumental India",
+        "url": "https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX"
+      },
+      "artists": [
+        {
+          "name": "Bismillah Khan",
+          "url": "https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ"
+        },
+        {
+          "name": "Vilayat Khan",
+          "url": "https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353266,
+      "name": "Mishra Bhairavi",
+      "url": "https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256946,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y"
+    },
+    {
+      "album": {
+        "name": "A Suitable Boy (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1TEK4k9Rsqk6C0p5uRFre2"
+      },
+      "artists": [
+        {
+          "name": "Alex Heffes",
+          "url": "https://open.spotify.com/artist/35eFG2HfFuoxcJYZwt80ZA"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "Raag Khamaaj",
+      "url": "https://open.spotify.com/track/5WtMLrRmdaLC2hA2GZoy5D"
+    },
+    {
+      "album": {
+        "name": "Sitar & Tabla: Music of India",
+        "url": "https://open.spotify.com/album/1XcwgOx2s1ksPVPrVnn7Kk"
+      },
+      "artists": [
+        {
+          "name": "The Silver Sitar",
+          "url": "https://open.spotify.com/artist/1Ja5V07Xm1AS9HKg7uaJO0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316404,
+      "name": "Rag: Piloo",
+      "url": "https://open.spotify.com/track/6OhLKq3TEFW0JAYFXtzEwa"
+    },
+    {
+      "album": {
+        "name": "Raga Khan",
+        "url": "https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4"
+      },
+      "artists": [
+        {
+          "name": "Nishat Khan",
+          "url": "https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531453,
+      "name": "Raga Gaoti",
+      "url": "https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE"
+    },
+    {
+      "album": {
+        "name": "Nada Yoga: Music of the Mystic",
+        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
+      },
+      "artists": [
+        {
+          "name": "Ustad Usman Khan",
+          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540160,
+      "name": "Raga Hansadhwani (Dancing Spring)",
+      "url": "https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t"
+    },
+    {
+      "album": {
+        "name": "From The NCPA Archives",
+        "url": "https://open.spotify.com/album/1KrPa1S1Trn8DUKIU6q98E"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Banerjee",
+          "url": "https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "Raga Maluha Kalyan - Jod",
+      "url": "https://open.spotify.com/track/2rCP1X7FudFJDpD5B4QckL"
+    },
+    {
+      "album": {
+        "name": "Inde Du Nord - North India : Raga Marwa Surbahar",
+        "url": "https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP"
+      },
+      "artists": [
+        {
+          "name": "Kushal Das",
+          "url": "https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349746,
+      "name": "Raga Marwa - Drut Tintal Jhala",
+      "url": "https://open.spotify.com/track/23L0bjrUtYuYZbglUK2hoT"
+    },
+    {
+      "album": {
+        "name": "Nada Yoga: Music of the Mystic",
+        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
+      },
+      "artists": [
+        {
+          "name": "Ustad Usman Khan",
+          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543373,
+      "name": "Raga Shivaranjani (Yearning)",
+      "url": "https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE"
+    },
+    {
+      "album": {
+        "name": "Raghupati",
+        "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304250,
+      "name": "Raghupati",
+      "url": "https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6"
+    },
+    {
+      "album": {
+        "name": "Roslyn",
+        "url": "https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197531,
+      "name": "Roslyn",
+      "url": "https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI"
+    },
+    {
+      "album": {
+        "name": "Mudra",
+        "url": "https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD"
+      },
+      "artists": [
+        {
+          "name": "Prem Joshua",
+          "url": "https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485773,
+      "name": "Saffron Dreams (The Night Mudra)",
+      "url": "https://open.spotify.com/track/0Tr9JSBOWMlliyAzw0ATq5"
+    },
+    {
+      "album": {
+        "name": "Sitarscape",
+        "url": "https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246426,
+      "name": "Sagar Kinare",
+      "url": "https://open.spotify.com/track/3BRECzmTXouMZfOBgVn6rE"
+    },
+    {
+      "album": {
+        "name": "Top 25 Fusion Ringtunes",
+        "url": "https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103189,
+      "name": "Sagar Kinare (Sitar Instrumental)",
+      "url": "https://open.spotify.com/track/7cMpAcWOmmcYWwhwSJr2xD"
+    },
+    {
+      "album": {
+        "name": "Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds (Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation)",
+        "url": "https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu"
+      },
+      "artists": [
+        {
+          "name": "Meditation Mantras Guru",
+          "url": "https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 229958,
+      "name": "Sanctuary - Sitar Meditation",
+      "url": "https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52"
+    },
+    {
+      "album": {
+        "name": "Seeker",
+        "url": "https://open.spotify.com/album/1oibERLC6rCi40UvpTp3z6"
+      },
+      "artists": [
+        {
+          "name": "Chirag Katti",
+          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382500,
+      "name": "Seeker",
+      "url": "https://open.spotify.com/track/3TcvGdMcAdYRUdFYCbq4dJ"
+    },
+    {
+      "album": {
+        "name": "Sitar Gaze",
+        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 663040,
+      "name": "Sensuous",
+      "url": "https://open.spotify.com/track/0INV6NEQi7C40y9QAN46sa"
+    },
+    {
+      "album": {
+        "name": "Relaxing Ragas, Vol. 5",
+        "url": "https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI"
+      },
+      "artists": [
+        {
+          "name": "Bapu Padmanabha",
+          "url": "https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215917,
+      "name": "Sitar Desh",
+      "url": "https://open.spotify.com/track/74KQTFppDkD7jYakAgdQ5Q"
+    },
+    {
+      "album": {
+        "name": "Sitar Gaze",
+        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307520,
+      "name": "Sitar Gaze (reprise)",
+      "url": "https://open.spotify.com/track/7MqMNGo9VrtjonRkwbGUG6"
+    },
+    {
+      "album": {
+        "name": "Sitar On Drumz",
+        "url": "https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx"
+      },
+      "artists": [
+        {
+          "name": "Bhagirath Bhatt",
+          "url": "https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1"
+        },
+        {
+          "name": "Mann Bipin",
+          "url": "https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311470,
+      "name": "Sitar On Drumz",
+      "url": "https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ"
+    },
+    {
+      "album": {
+        "name": "World Music Day",
+        "url": "https://open.spotify.com/album/0yZVA0nB0uH0qwGiHfUMvE"
+      },
+      "artists": [
+        {
+          "name": "Rais Khan",
+          "url": "https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK"
+        },
+        {
+          "name": "Sultan Khan",
+          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
+        },
+        {
+          "name": "Suhel Rais Khan",
+          "url": "https://open.spotify.com/artist/3bZPCIdiBAOdmIeo6SCV3B"
+        },
+        {
+          "name": "Dilshaad",
+          "url": "https://open.spotify.com/artist/2qwEWZXO4KnjW9K5Qh8C7c"
+        },
+        {
+          "name": "Chintoo Singh",
+          "url": "https://open.spotify.com/artist/4xnhrpFqZKhuxcHP5GFbSc"
+        },
+        {
+          "name": "Shayamrajji",
+          "url": "https://open.spotify.com/artist/46jS3X0iyjB9DPT96N1ZE7"
+        },
+        {
+          "name": "Kamal",
+          "url": "https://open.spotify.com/artist/0KVHNT1vnprTIvaArmPg5N"
+        },
+        {
+          "name": "Indrajeet",
+          "url": "https://open.spotify.com/artist/3OvKRCmkajfanNywj92WQl"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258246,
+      "name": "Sitar Symphony",
+      "url": "https://open.spotify.com/track/7K0iwTdjpiBagDCfhXWWFe"
+    },
+    {
+      "album": {
+        "name": "Indian Spirit - Best In Lounge & Fusion",
+        "url": "https://open.spotify.com/album/4AmtN0w852r7Qzz0bPBz4j"
+      },
+      "artists": [
+        {
+          "name": "ROR",
+          "url": "https://open.spotify.com/artist/0r6xzCyrNCABaaNTAgJiyK"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 341120,
+      "name": "Sitar Theme",
+      "url": "https://open.spotify.com/track/3d97zTIcKA0mDhx53c1uix"
+    },
+    {
+      "album": {
+        "name": "Relaxing Ragas, Vol. 5",
+        "url": "https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI"
+      },
+      "artists": [
+        {
+          "name": "Bapu Padmanabha",
+          "url": "https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166573,
+      "name": "Sitar Todi",
+      "url": "https://open.spotify.com/track/0OhQFqc2Gfvv8qr7Z3Kzlw"
+    },
+    {
+      "album": {
+        "name": "Sitarscape",
+        "url": "https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218893,
+      "name": "Soul Mate",
+      "url": "https://open.spotify.com/track/5Sa7kopLOVpnoDFquNvuG9"
+    },
+    {
+      "album": {
+        "name": "Stoney Sitar",
+        "url": "https://open.spotify.com/album/3l4WUfnEoaPxoUC0JSjYCV"
+      },
+      "artists": [
+        {
+          "name": "Sitar Water",
+          "url": "https://open.spotify.com/artist/48heZtys7Y8VCsIdVLQ6Ak"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543636,
+      "name": "Stoney Sitar",
+      "url": "https://open.spotify.com/track/3Jm1yN30e4Q1BVdnpsAPpW"
+    },
+    {
+      "album": {
+        "name": "Strings of Serenity",
+        "url": "https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v"
+      },
+      "artists": [
+        {
+          "name": "Mehtab Ali Niazi",
+          "url": "https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK"
+        },
+        {
+          "name": "Pratik Shrivastava",
+          "url": "https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "Strings of Serenity",
+      "url": "https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5gAIr1fiVjKV5k2Dj0BOHa"
+      },
+      "artists": [
+        {
+          "name": "Sitarsnub",
+          "url": "https://open.spotify.com/artist/6CwnNZVoL0QAlp7GAvlAPO"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/6sZgorH2FrlsrkDKY5nI58"
+    },
+    {
+      "album": {
+        "name": "Tablet vs Sitar - Yaman",
+        "url": "https://open.spotify.com/album/0boxQEMaR1M7RkNo6PmBmt"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Sharma",
+          "url": "https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn"
+        },
+        {
+          "name": "IndianRaga",
+          "url": "https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC"
+        },
+        {
+          "name": "Mahesh Raghvan",
+          "url": "https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi"
+        },
+        {
+          "name": "Shailesh Venkatraman",
+          "url": "https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320893,
+      "name": "Tablet vs Sitar - Yaman - Ek taal",
+      "url": "https://open.spotify.com/track/6oUpiJfTJrQ5ryErRDr2w6"
+    },
+    {
+      "album": {
+        "name": "Tablet vs Sitar - Yaman",
+        "url": "https://open.spotify.com/album/0Y67OpN6bblrqZfuNUGiwF"
+      },
+      "artists": [
+        {
+          "name": "IndianRaga",
+          "url": "https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC"
+        },
+        {
+          "name": "Shailesh Venkatraman",
+          "url": "https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf"
+        },
+        {
+          "name": "Mahesh Raghvan",
+          "url": "https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi"
+        },
+        {
+          "name": "Anirudh Sharma",
+          "url": "https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 320893,
+      "name": "Tablet vs Sitar - Yaman - Ek taal",
+      "url": "https://open.spotify.com/track/42iTqTyNXmmXuavGKLVyBA"
+    },
+    {
+      "album": {
+        "name": "Acoustic Ascension 3",
+        "url": "https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Guitar for Massage, Yoga, and Meditation",
+          "url": "https://open.spotify.com/artist/4WODuSdwIPGqA4HfBU8bag"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546440,
+      "name": "Tantric Bliss / Sitar and Tabla",
+      "url": "https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D"
+    },
+    {
+      "album": {
+        "name": "Morning Sitar Peace",
+        "url": "https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr"
+      },
+      "artists": [
+        {
+          "name": "Kaustav Majumder",
+          "url": "https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 124833,
+      "name": "The Natural Forces - Original Mix",
+      "url": "https://open.spotify.com/track/7BNhD4ohfUMs6VxhWgtcvB"
+    },
+    {
+      "album": {
+        "name": "Tilak Kamod",
+        "url": "https://open.spotify.com/album/4GSk1MbHbEL2llripuKrzG"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132048,
+      "name": "Tilak Kamod",
+      "url": "https://open.spotify.com/track/33NcS1EqUH6dS3UPKRz9qX"
+    },
+    {
+      "album": {
+        "name": "Tumhi Dekho Naa (Sitar Lofi)",
+        "url": "https://open.spotify.com/album/6pKhLCZ0q5zuy3Nkxi3z4h"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125678,
+      "name": "Tumhi Dekho Naa - Sitar Lofi",
+      "url": "https://open.spotify.com/track/3fc3piWEXs8OoJ0oTIrs5V"
+    },
+    {
+      "album": {
+        "name": "Chants of India",
+        "url": "https://open.spotify.com/album/7cR7QlEd0b51sSKesnRbGZ"
+      },
+      "artists": [
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
+      "duration_ms": 270626,
+      "name": "Vandanaa Trayee",
+      "url": "https://open.spotify.com/track/01mW11oNCKq9Bhq4LeK7wx"
+    },
+    {
+      "album": {
+        "name": "Chants of India",
+        "url": "https://open.spotify.com/album/53w0AMB3LamIPNsOpQSQ2s"
+      },
+      "artists": [
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272360,
+      "name": "Vandanaa Trayee",
+      "url": "https://open.spotify.com/track/0ikbKcgUbI3hinyrWEfwo5"
+    },
+    {
+      "album": {
+        "name": "wyd tonight?",
+        "url": "https://open.spotify.com/album/6cx7EyRZTmjkkLceusxD3r"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Raj",
+          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 115734,
+      "name": "wyd tonight?",
+      "url": "https://open.spotify.com/track/2hQrvdLWkVbOtiGqLPYI3g"
+    },
+    {
+      "album": {
+        "name": "Instrumental India",
+        "url": "https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX"
+      },
+      "artists": [
+        {
+          "name": "Rais Khan",
+          "url": "https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK"
+        },
+        {
+          "name": "Sultan Khan",
+          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260013,
+      "name": "Yaman Kalyan",
+      "url": "https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4"
+    },
+    {
+      "album": {
+        "name": "Prakshalana",
+        "url": "https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD"
+      },
+      "artists": [
+        {
+          "name": "Raj Prakash Paul",
+          "url": "https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95399,
+      "name": "Yentha Prema (Sitar Instrumental)",
+      "url": "https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8mlN8vvE4ZI"
 }

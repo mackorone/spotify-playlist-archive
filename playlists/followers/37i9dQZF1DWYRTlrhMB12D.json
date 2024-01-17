@@ -1,732 +1,3259 @@
 {
-  "2021-12-28": 92766,
-  "2021-12-29": 92931,
-  "2021-12-30": 93061,
-  "2021-12-31": 93197,
-  "2022-01-01": 93456,
-  "2022-01-02": 93513,
-  "2022-01-03": 93627,
-  "2022-01-04": 93746,
-  "2022-01-05": 93877,
-  "2022-01-06": 93975,
-  "2022-01-07": 94115,
-  "2022-01-08": 94436,
-  "2022-01-09": 94434,
-  "2022-01-10": 94623,
-  "2022-01-11": 94764,
-  "2022-01-12": 94885,
-  "2022-01-13": 95056,
-  "2022-01-14": 95229,
-  "2022-01-15": 95475,
-  "2022-01-16": 95477,
-  "2022-01-17": 95730,
-  "2022-01-18": 95753,
-  "2022-01-19": 95835,
-  "2022-01-20": 95923,
-  "2022-01-21": 96051,
-  "2022-01-22": 96159,
-  "2022-01-23": 96282,
-  "2022-01-24": 96434,
-  "2022-01-25": 96529,
-  "2022-01-26": 96621,
-  "2022-01-27": 96718,
-  "2022-01-28": 96820,
-  "2022-01-29": 96926,
-  "2022-01-30": 97055,
-  "2022-01-31": 97206,
-  "2022-02-01": 97294,
-  "2022-02-02": 97388,
-  "2022-02-03": 97494,
-  "2022-02-04": 97582,
-  "2022-02-05": 97688,
-  "2022-02-06": 97766,
-  "2022-02-07": 98064,
-  "2022-02-08": 98214,
-  "2022-02-09": 98394,
-  "2022-02-10": 98526,
-  "2022-02-11": 98653,
-  "2022-02-12": 98747,
-  "2022-02-13": 98879,
-  "2022-02-14": 99028,
-  "2022-02-15": 99124,
-  "2022-02-16": 99245,
-  "2022-02-17": 99362,
-  "2022-02-18": 99469,
-  "2022-02-19": 99584,
-  "2022-02-20": 99719,
-  "2022-02-21": 99872,
-  "2022-02-22": 99976,
-  "2022-02-23": 100091,
-  "2022-02-24": 100215,
-  "2022-02-25": 100332,
-  "2022-02-26": 100446,
-  "2022-02-27": 100703,
-  "2022-02-28": 100703,
-  "2022-03-01": 100810,
-  "2022-03-02": 100899,
-  "2022-03-03": 101006,
-  "2022-03-04": 101122,
-  "2022-03-05": 101227,
-  "2022-03-06": 101373,
-  "2022-03-07": 101513,
-  "2022-03-08": 101619,
-  "2022-03-09": 101721,
-  "2022-03-10": 101826,
-  "2022-03-11": 101942,
-  "2022-03-12": 102034,
-  "2022-03-13": 102148,
-  "2022-03-14": 102241,
-  "2022-03-15": 102327,
-  "2022-03-16": 102469,
-  "2022-03-17": 102578,
-  "2022-03-18": 102730,
-  "2022-03-19": 102801,
-  "2022-03-20": 102801,
-  "2022-03-21": 103040,
-  "2022-03-22": 103115,
-  "2022-03-23": 103202,
-  "2022-03-24": 103303,
-  "2022-03-25": 103410,
-  "2022-03-26": 103537,
-  "2022-03-27": 103625,
-  "2022-03-28": 103716,
-  "2022-03-30": 103901,
-  "2022-03-31": 104005,
-  "2022-04-01": 104105,
-  "2022-04-02": 104194,
-  "2022-04-03": 104302,
-  "2022-04-04": 104402,
-  "2022-04-05": 104517,
-  "2022-04-06": 104597,
-  "2022-04-07": 104664,
-  "2022-04-08": 104751,
-  "2022-04-09": 104828,
-  "2022-04-10": 105030,
-  "2022-04-11": 105109,
-  "2022-04-12": 105112,
-  "2022-04-13": 105196,
-  "2022-04-14": 105281,
-  "2022-04-15": 105389,
-  "2022-04-16": 105478,
-  "2022-04-17": 105579,
-  "2022-04-18": 105701,
-  "2022-04-19": 105772,
-  "2022-04-20": 105856,
-  "2022-04-21": 105978,
-  "2022-04-22": 106074,
-  "2022-04-23": 106192,
-  "2022-04-24": 106335,
-  "2022-04-25": 106434,
-  "2022-04-26": 106544,
-  "2022-04-27": 106660,
-  "2022-04-28": 106741,
-  "2022-04-29": 106944,
-  "2022-04-30": 107065,
-  "2022-05-01": 107225,
-  "2022-05-02": 107225,
-  "2022-05-03": 107317,
-  "2022-05-04": 107453,
-  "2022-05-05": 107586,
-  "2022-05-06": 107768,
-  "2022-05-07": 107991,
-  "2022-05-08": 108334,
-  "2022-05-09": 108349,
-  "2022-05-10": 108509,
-  "2022-05-11": 108685,
-  "2022-05-12": 108874,
-  "2022-05-13": 109037,
-  "2022-05-14": 109214,
-  "2022-05-15": 109432,
-  "2022-05-16": 109663,
-  "2022-05-17": 109888,
-  "2022-05-18": 110098,
-  "2022-05-19": 110311,
-  "2022-05-20": 110545,
-  "2022-05-21": 110925,
-  "2022-05-22": 110925,
-  "2022-05-23": 111127,
-  "2022-05-24": 111338,
-  "2022-05-25": 111534,
-  "2022-05-26": 111721,
-  "2022-05-27": 111918,
-  "2022-05-28": 112145,
-  "2022-05-29": 112367,
-  "2022-05-30": 112567,
-  "2022-05-31": 112750,
-  "2022-06-01": 113131,
-  "2022-06-02": 113136,
-  "2022-06-03": 113337,
-  "2022-06-04": 113525,
-  "2022-06-05": 113748,
-  "2022-06-06": 113964,
-  "2022-06-07": 114140,
-  "2022-06-08": 114381,
-  "2022-06-09": 114561,
-  "2022-06-10": 114773,
-  "2022-06-11": 114945,
-  "2022-06-12": 115174,
-  "2022-06-13": 115407,
-  "2022-06-14": 115631,
-  "2022-06-15": 115821,
-  "2022-06-16": 116000,
-  "2022-06-17": 116181,
-  "2022-06-18": 116396,
-  "2022-06-19": 116903,
-  "2022-06-20": 116903,
-  "2022-06-21": 117098,
-  "2022-06-22": 117522,
-  "2022-06-23": 117522,
-  "2022-06-24": 117716,
-  "2022-06-25": 117910,
-  "2022-06-26": 118135,
-  "2022-06-27": 118337,
-  "2022-06-28": 118524,
-  "2022-06-29": 118709,
-  "2022-06-30": 118896,
-  "2022-07-01": 119088,
-  "2022-07-02": 119275,
-  "2022-07-03": 119480,
-  "2022-07-04": 119711,
-  "2022-07-05": 119880,
-  "2022-07-06": 120058,
-  "2022-07-07": 120271,
-  "2022-07-08": 120453,
-  "2022-07-09": 120646,
-  "2022-07-10": 120880,
-  "2022-07-11": 121107,
-  "2022-07-12": 121290,
-  "2022-07-13": 121483,
-  "2022-07-14": 121688,
-  "2022-07-15": 121882,
-  "2022-07-16": 122079,
-  "2022-07-17": 122306,
-  "2022-07-18": 122503,
-  "2022-07-19": 122681,
-  "2022-07-20": 122866,
-  "2022-07-21": 123083,
-  "2022-07-22": 123275,
-  "2022-07-23": 123470,
-  "2022-07-24": 123692,
-  "2022-07-25": 123949,
-  "2022-07-26": 124150,
-  "2022-07-27": 124358,
-  "2022-07-28": 124553,
-  "2022-07-29": 124803,
-  "2022-07-30": 125245,
-  "2022-07-31": 125245,
-  "2022-08-01": 125503,
-  "2022-08-02": 125825,
-  "2022-08-03": 125825,
-  "2022-08-04": 126036,
-  "2022-08-05": 126268,
-  "2022-08-06": 126496,
-  "2022-08-07": 126706,
-  "2022-08-08": 126944,
-  "2022-08-09": 127170,
-  "2022-08-10": 127410,
-  "2022-08-11": 127626,
-  "2022-08-12": 127831,
-  "2022-08-13": 127998,
-  "2022-08-14": 128223,
-  "2022-08-15": 128527,
-  "2022-08-16": 128747,
-  "2022-08-17": 128943,
-  "2022-08-18": 129176,
-  "2022-08-19": 129387,
-  "2022-08-20": 129597,
-  "2022-08-21": 129845,
-  "2022-08-22": 130109,
-  "2022-08-23": 130311,
-  "2022-08-24": 130549,
-  "2022-08-25": 130788,
-  "2022-08-26": 131013,
-  "2022-08-27": 131256,
-  "2022-08-28": 131526,
-  "2022-08-29": 131801,
-  "2022-08-30": 132007,
-  "2022-08-31": 132208,
-  "2022-09-01": 132399,
-  "2022-09-02": 132597,
-  "2022-09-03": 132796,
-  "2022-09-04": 133022,
-  "2022-09-05": 133260,
-  "2022-09-06": 133451,
-  "2022-09-07": 133694,
-  "2022-09-09": 134080,
-  "2022-09-10": 134286,
-  "2022-09-11": 134564,
-  "2022-09-12": 134861,
-  "2022-09-13": 135089,
-  "2022-09-15": 135532,
-  "2022-09-16": 135771,
-  "2022-09-17": 135993,
-  "2022-09-18": 136279,
-  "2022-09-19": 136556,
-  "2022-09-20": 136738,
-  "2022-09-21": 136939,
-  "2022-09-22": 137179,
-  "2022-09-23": 137418,
-  "2022-09-24": 137631,
-  "2022-09-25": 137911,
-  "2022-09-26": 138191,
-  "2022-09-27": 138384,
-  "2022-09-28": 138634,
-  "2022-09-29": 138862,
-  "2022-09-30": 139089,
-  "2022-10-01": 139309,
-  "2022-10-02": 139588,
-  "2022-10-03": 139860,
-  "2022-10-04": 140102,
-  "2022-10-05": 140352,
-  "2022-10-06": 140621,
-  "2022-10-07": 140883,
-  "2022-10-08": 141146,
-  "2022-10-09": 141750,
-  "2022-10-10": 141783,
-  "2022-10-11": 142058,
-  "2022-10-12": 142343,
-  "2022-10-13": 142623,
-  "2022-10-14": 142876,
-  "2022-10-15": 143137,
-  "2022-10-16": 143473,
-  "2022-10-17": 143780,
-  "2022-10-18": 144059,
-  "2022-10-19": 144309,
-  "2022-10-20": 144541,
-  "2022-10-21": 144771,
-  "2022-10-22": 145023,
-  "2022-10-23": 145276,
-  "2022-10-24": 145540,
-  "2022-10-25": 145733,
-  "2022-10-26": 145960,
-  "2022-10-27": 146222,
-  "2022-10-28": 146480,
-  "2022-10-29": 146763,
-  "2022-10-30": 147072,
-  "2022-10-31": 147373,
-  "2022-11-01": 147617,
-  "2022-11-02": 147928,
-  "2022-11-03": 148147,
-  "2022-11-04": 148399,
-  "2022-11-05": 148641,
-  "2022-11-06": 148907,
-  "2022-11-07": 149181,
-  "2022-11-08": 149395,
-  "2022-11-09": 149646,
-  "2022-11-10": 149853,
-  "2022-11-11": 150051,
-  "2022-11-12": 150332,
-  "2022-11-13": 150578,
-  "2022-11-14": 150851,
-  "2022-11-15": 151072,
-  "2022-11-16": 151312,
-  "2022-11-17": 151564,
-  "2022-11-18": 151675,
-  "2022-11-19": 151622,
-  "2022-11-20": 151686,
-  "2022-11-21": 151921,
-  "2022-11-22": 152587,
-  "2022-11-23": 152523,
-  "2022-11-24": 152944,
-  "2022-11-25": 153546,
-  "2022-11-26": 153984,
-  "2022-11-27": 154319,
-  "2022-11-28": 154657,
-  "2022-11-29": 154896,
-  "2022-11-30": 155140,
-  "2022-12-01": 155426,
-  "2022-12-02": 155685,
-  "2022-12-03": 155917,
-  "2022-12-04": 156201,
-  "2022-12-05": 156511,
-  "2022-12-06": 156722,
-  "2022-12-07": 156996,
-  "2022-12-08": 157243,
-  "2022-12-09": 157467,
-  "2022-12-10": 157715,
-  "2022-12-11": 157973,
-  "2022-12-12": 158270,
-  "2022-12-13": 158529,
-  "2022-12-14": 158736,
-  "2022-12-15": 159014,
-  "2022-12-16": 159249,
-  "2022-12-17": 159506,
-  "2022-12-18": 159753,
-  "2022-12-19": 160013,
-  "2022-12-20": 160436,
-  "2022-12-21": 160436,
-  "2022-12-22": 160660,
-  "2022-12-24": 161150,
-  "2022-12-25": 161424,
-  "2022-12-26": 161707,
-  "2022-12-27": 161983,
-  "2022-12-28": 162269,
-  "2022-12-29": 162528,
-  "2022-12-30": 162805,
-  "2022-12-31": 163046,
-  "2023-01-01": 163301,
-  "2023-01-02": 163540,
-  "2023-01-03": 163765,
-  "2023-01-04": 163974,
-  "2023-01-05": 164242,
-  "2023-01-06": 164578,
-  "2023-01-07": 165009,
-  "2023-01-08": 165038,
-  "2023-01-09": 165349,
-  "2023-01-10": 165590,
-  "2023-01-11": 165803,
-  "2023-01-12": 166047,
-  "2023-01-13": 166282,
-  "2023-01-14": 166809,
-  "2023-01-15": 166851,
-  "2023-01-16": 167145,
-  "2023-01-17": 167459,
-  "2023-01-18": 167726,
-  "2023-01-19": 167957,
-  "2023-01-20": 168209,
-  "2023-01-21": 168432,
-  "2023-01-22": 168695,
-  "2023-01-23": 168985,
-  "2023-01-24": 169226,
-  "2023-01-25": 169473,
-  "2023-01-26": 169723,
-  "2023-01-27": 169993,
-  "2023-01-28": 170270,
-  "2023-01-29": 170552,
-  "2023-01-30": 170863,
-  "2023-01-31": 170863,
-  "2023-02-01": 171345,
-  "2023-02-02": 171567,
-  "2023-02-03": 171805,
-  "2023-02-04": 172063,
-  "2023-02-05": 172335,
-  "2023-02-06": 172654,
-  "2023-02-07": 172897,
-  "2023-02-08": 173451,
-  "2023-02-09": 173451,
-  "2023-02-10": 173734,
-  "2023-02-11": 173965,
-  "2023-02-12": 174547,
-  "2023-02-13": 174796,
-  "2023-02-14": 174796,
-  "2023-02-15": 175080,
-  "2023-02-16": 175391,
-  "2023-02-17": 175743,
-  "2023-02-18": 176390,
-  "2023-02-19": 176451,
-  "2023-02-20": 176706,
-  "2023-02-21": 177046,
-  "2023-02-22": 177382,
-  "2023-02-23": 177721,
-  "2023-02-24": 178057,
-  "2023-02-25": 178518,
-  "2023-02-26": 178793,
-  "2023-02-27": 179514,
-  "2023-02-28": 179514,
-  "2023-03-01": 179793,
-  "2023-03-02": 180094,
-  "2023-03-03": 180416,
-  "2023-03-04": 180722,
-  "2023-03-05": 181357,
-  "2023-03-06": 181357,
-  "2023-03-07": 181661,
-  "2023-03-08": 181943,
-  "2023-03-09": 182196,
-  "2023-03-10": 182460,
-  "2023-03-11": 182791,
-  "2023-03-12": 183103,
-  "2023-03-13": 183471,
-  "2023-03-14": 183779,
-  "2023-03-15": 184089,
-  "2023-03-16": 184418,
-  "2023-03-17": 184418,
-  "2023-03-18": 185124,
-  "2023-03-19": 185492,
-  "2023-03-20": 185926,
-  "2023-03-21": 186287,
-  "2023-03-22": 186616,
-  "2023-03-23": 186937,
-  "2023-03-24": 186937,
-  "2023-03-25": 187606,
-  "2023-03-26": 187965,
-  "2023-03-27": 188336,
-  "2023-03-28": 188649,
-  "2023-03-29": 188978,
-  "2023-03-30": 189527,
-  "2023-03-31": 189527,
-  "2023-04-01": 189864,
-  "2023-04-02": 190223,
-  "2023-04-03": 190600,
-  "2023-04-04": 190888,
-  "2023-04-05": 191201,
-  "2023-04-06": 191493,
-  "2023-04-07": 191778,
-  "2023-04-09": 192488,
-  "2023-04-10": 192824,
-  "2023-04-11": 193406,
-  "2023-04-12": 193406,
-  "2023-04-13": 193666,
-  "2023-04-14": 193982,
-  "2023-04-15": 194291,
-  "2023-04-16": 194599,
-  "2023-04-17": 194898,
-  "2023-04-18": 195154,
-  "2023-04-19": 195402,
-  "2023-04-20": 195695,
-  "2023-04-21": 196012,
-  "2023-04-22": 196348,
-  "2023-04-23": 196690,
-  "2023-04-24": 197624,
-  "2023-04-25": 198220,
-  "2023-04-26": 198608,
-  "2023-04-27": 198976,
-  "2023-04-28": 199315,
-  "2023-04-29": 199658,
-  "2023-04-30": 200004,
-  "2023-05-01": 200399,
-  "2023-05-02": 200716,
-  "2023-05-03": 201016,
-  "2023-05-04": 201384,
-  "2023-05-05": 201695,
-  "2023-05-06": 202031,
-  "2023-05-07": 202361,
-  "2023-05-08": 202675,
-  "2023-05-09": 203001,
-  "2023-05-10": 203278,
-  "2023-05-11": 203558,
-  "2023-05-12": 203901,
-  "2023-05-13": 204268,
-  "2023-05-14": 204607,
-  "2023-05-15": 205022,
-  "2023-05-16": 205359,
-  "2023-05-17": 205705,
-  "2023-05-18": 206066,
-  "2023-05-19": 206401,
-  "2023-05-20": 207172,
-  "2023-05-21": 207172,
-  "2023-05-22": 207172,
-  "2023-05-23": 207899,
-  "2023-05-24": 208516,
-  "2023-05-25": 208541,
-  "2023-05-26": 208866,
-  "2023-05-27": 209236,
-  "2023-05-28": 209638,
-  "2023-05-29": 209638,
-  "2023-05-30": 210355,
-  "2023-05-31": 210697,
-  "2023-06-01": 211073,
-  "2023-06-02": 211384,
-  "2023-06-03": 211756,
-  "2023-06-04": 212145,
-  "2023-06-05": 212555,
-  "2023-06-06": 212930,
-  "2023-06-07": 213250,
-  "2023-06-08": 213615,
-  "2023-06-09": 213954,
-  "2023-06-10": 214342,
-  "2023-06-11": 214736,
-  "2023-06-12": 215151,
-  "2023-06-13": 215489,
-  "2023-06-14": 215837,
-  "2023-06-15": 216184,
-  "2023-06-16": 216566,
-  "2023-06-17": 216967,
-  "2023-06-18": 217370,
-  "2023-06-19": 217758,
-  "2023-06-20": 218097,
-  "2023-06-21": 218415,
-  "2023-06-22": 218738,
-  "2023-06-23": 219064,
-  "2023-06-24": 219370,
-  "2023-06-25": 219736,
-  "2023-06-26": 220135,
-  "2023-06-27": 220418,
-  "2023-06-28": 220728,
-  "2023-06-29": 221020,
-  "2023-06-30": 221365,
-  "2023-07-01": 222032,
-  "2023-07-02": 222032,
-  "2023-07-03": 222381,
-  "2023-07-04": 222611,
-  "2023-07-05": 222920,
-  "2023-07-06": 223505,
-  "2023-07-07": 223505,
-  "2023-07-08": 223833,
-  "2023-07-09": 224181,
-  "2023-07-10": 224560,
-  "2023-07-11": 224855,
-  "2023-07-12": 225107,
-  "2023-07-13": 225412,
-  "2023-07-14": 225706,
-  "2023-07-15": 225951,
-  "2023-07-16": 226292,
-  "2023-07-17": 226648,
-  "2023-07-18": 226975,
-  "2023-07-19": 227311,
-  "2023-07-20": 227653,
-  "2023-07-21": 227980,
-  "2023-07-22": 228473,
-  "2023-07-23": 229040,
-  "2023-07-24": 229660,
-  "2023-07-25": 230164,
-  "2023-07-26": 230708,
-  "2023-07-27": 231327,
-  "2023-07-28": 232001,
-  "2023-07-29": 232667,
-  "2023-07-30": 233462,
-  "2023-07-31": 234196,
-  "2023-08-01": 234828,
-  "2023-08-02": 235439,
-  "2023-08-03": 236050,
-  "2023-08-04": 236674,
-  "2023-08-05": 237372,
-  "2023-08-06": 238913,
-  "2023-08-07": 238913,
-  "2023-08-08": 239516,
-  "2023-08-09": 240174,
-  "2023-08-10": 240787,
-  "2023-08-11": 241414,
-  "2023-08-12": 242047,
-  "2023-08-13": 242837,
-  "2023-08-14": 243639,
-  "2023-08-15": 244883,
-  "2023-08-16": 244883,
-  "2023-08-17": 245469,
-  "2023-08-18": 246146,
-  "2023-08-19": 246836,
-  "2023-08-20": 247635,
-  "2023-08-21": 248466,
-  "2023-08-22": 249172,
-  "2023-08-23": 249877,
-  "2023-08-24": 250561,
-  "2023-08-25": 251242,
-  "2023-08-26": 251945,
-  "2023-08-27": 252796,
-  "2023-08-28": 253707,
-  "2023-08-29": 254414,
-  "2023-08-30": 255123,
-  "2023-08-31": 255825,
-  "2023-09-01": 257103,
-  "2023-09-02": 257103,
-  "2023-09-03": 257773,
-  "2023-09-04": 258646,
-  "2023-09-05": 259360,
-  "2023-09-06": 260072,
-  "2023-09-07": 260813,
-  "2023-09-08": 261475,
-  "2023-09-09": 262276,
-  "2023-09-10": 263278,
-  "2023-09-11": 264176,
-  "2023-09-12": 264820,
-  "2023-09-13": 265512,
-  "2023-09-14": 266258,
-  "2023-09-15": 267046,
-  "2023-09-16": 267825,
-  "2023-09-17": 268763,
-  "2023-09-18": 269774,
-  "2023-09-19": 270581,
-  "2023-09-20": 271272,
-  "2023-09-21": 271871,
-  "2023-09-22": 272416,
-  "2023-09-23": 273076,
-  "2023-09-24": 273787,
-  "2023-09-25": 274481,
-  "2023-09-26": 275292,
-  "2023-09-27": 275729,
-  "2023-09-28": 276328,
-  "2023-09-29": 276928,
-  "2023-09-30": 277604,
-  "2023-10-01": 278326,
-  "2023-10-02": 279143,
-  "2023-10-03": 279866,
-  "2023-10-04": 280416,
-  "2023-10-05": 281025,
-  "2023-10-06": 281610,
-  "2023-10-07": 282232,
-  "2023-10-08": 282819,
-  "2023-10-09": 283498,
-  "2023-10-10": 283990,
-  "2023-10-11": 285139,
-  "2023-10-12": 285139,
-  "2023-10-13": 285734,
-  "2023-10-14": 286404,
-  "2023-10-15": 287057,
-  "2023-10-16": 287693,
-  "2023-10-17": 288247,
-  "2023-10-18": 288776,
-  "2023-10-19": 289313,
-  "2023-10-20": 289834,
-  "2023-10-21": 290417,
-  "2023-10-22": 291045,
-  "2023-10-23": 291594,
-  "2023-10-24": 292212,
-  "2023-10-25": 292854,
-  "2023-10-26": 293507,
-  "2023-10-27": 294211,
-  "2023-10-28": 294847,
-  "2023-10-29": 295587,
-  "2023-10-30": 296991,
-  "2023-10-31": 296991,
-  "2023-11-01": 297657,
-  "2023-11-02": 298280,
-  "2023-11-03": 298850,
-  "2023-11-04": 299525,
-  "2023-11-05": 300230,
-  "2023-11-06": 300970,
-  "2023-11-07": 301623,
-  "2023-11-08": 302342,
-  "2023-11-09": 303099,
-  "2023-11-10": 303770,
-  "2023-11-11": 304565,
-  "2023-11-12": 305216,
-  "2023-11-13": 305795,
-  "2023-11-14": 306446,
-  "2023-11-15": 306446,
-  "2023-11-16": 307614,
-  "2023-11-17": 308850,
-  "2023-11-18": 308850,
-  "2023-11-19": 309562,
-  "2023-11-20": 310027,
-  "2023-11-21": 310553,
-  "2023-11-22": 311216,
-  "2023-11-23": 311836,
-  "2023-11-24": 312436,
-  "2023-11-25": 313086,
-  "2023-11-26": 313804,
-  "2023-11-27": 314608,
-  "2023-11-28": 315278,
-  "2023-11-29": 316501,
-  "2023-11-30": 316501,
-  "2023-12-01": 317127,
-  "2023-12-02": 317736,
-  "2023-12-03": 318441,
-  "2023-12-04": 319187,
-  "2023-12-05": 319765,
-  "2023-12-06": 320351,
-  "2023-12-07": 320929,
-  "2023-12-08": 321502,
-  "2023-12-09": 322095,
-  "2023-12-10": 322786,
-  "2023-12-11": 323498,
-  "2023-12-12": 324055,
-  "2023-12-13": 324676,
-  "2023-12-14": 325533,
-  "2023-12-15": 325992,
-  "2023-12-16": 326617,
-  "2023-12-17": 327410,
-  "2023-12-18": 328243,
-  "2023-12-19": 328878,
-  "2023-12-20": 329515,
-  "2023-12-21": 330214,
-  "2023-12-22": 330900,
-  "2023-12-23": 331578,
-  "2023-12-24": 332295,
-  "2023-12-25": 333143,
-  "2023-12-26": 333994,
-  "2023-12-27": 334687,
-  "2023-12-30": 336895,
-  "2023-12-31": 337733,
-  "2024-01-01": 338617,
-  "2024-01-02": 339295,
-  "2024-01-03": 339957
+  "2024-01-17": 349841,
+  "date_first_scraped": "2021-12-28",
+  "description": "Soulful Hindi songs for your nostalgic journey. Cover - Mere Jeevan Saathi",
+  "name": "Old is Gold",
+  "tracks": [
+    {
+      "album": {
+        "name": "Door Gagan Ki Chhaon Mein",
+        "url": "https://open.spotify.com/album/6QMgNE34rBus3c16AERP4B"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 279463,
+      "name": "Aa Chal Ke Tujhe",
+      "url": "https://open.spotify.com/track/53keqrDTkt1GE9hJgUoql4"
+    },
+    {
+      "album": {
+        "name": "Door Gagan Ki Chhaon Mein (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38rlvsXbKoH9wobbxiKHnd"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279463,
+      "name": "Aa Chal Ke Tujhe",
+      "url": "https://open.spotify.com/track/7hw49sU2COuKyC3lEanygl"
+    },
+    {
+      "album": {
+        "name": "Waqt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/78PM5oV8DY3CG1MWwfF7Mi"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445027,
+      "name": "Aage Bhi Jane Na Tu",
+      "url": "https://open.spotify.com/track/6FQSbXPFzdiqgJZU75Hesq"
+    },
+    {
+      "album": {
+        "name": "Howrah Bridge",
+        "url": "https://open.spotify.com/album/46DJJ5dEmlWQIE39Zo8HZk"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252653,
+      "name": "Aaiye Meharban",
+      "url": "https://open.spotify.com/track/4uoj0LGf8nMrvciw6v9KJh"
+    },
+    {
+      "album": {
+        "name": "Howrah Bridge (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6pe4oFK1nJc98OwK6ItUTG"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252653,
+      "name": "Aaiye Meharban",
+      "url": "https://open.spotify.com/track/5vvkKkLRXcCvcRK40ld4df"
+    },
+    {
+      "album": {
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374256,
+      "name": "Aaj Mausam Bada Beimaan Hai",
+      "url": "https://open.spotify.com/track/126d5bt8Ff1a1CU4c097Ds"
+    },
+    {
+      "album": {
+        "name": "Loafer",
+        "url": "https://open.spotify.com/album/5KF5oozgwfL60Ku9ND0elO"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Laxmikant\u2013Pyarelal",
+          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 374256,
+      "name": "Aaj Mausam Bada Beimaan Hai",
+      "url": "https://open.spotify.com/track/5fW4gRS99wXOOuYRV03W5X"
+    },
+    {
+      "album": {
+        "name": "Guide (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2vdYAsm1WgUauImlYaqRbU"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 238266,
+      "name": "Aaj Phir Jeene Ki Tamanna Hai",
+      "url": "https://open.spotify.com/track/2DG0ccrVYIh3qk3ske5jTz"
+    },
+    {
+      "album": {
+        "name": "Masterworks Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251414,
+      "name": "Aaja Piya Tohe Pyar Doon (From \"Baharon Ke Sapne\")",
+      "url": "https://open.spotify.com/track/7HCQpQGrg2FJT9mdBs75rm"
+    },
+    {
+      "album": {
+        "name": "Chori Chori (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QhuFKn0eSrmf64IhtBzfW"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265743,
+      "name": "Aaja Sanam Madhur Chandni Men",
+      "url": "https://open.spotify.com/track/4mvkokOAbfjx2J2TVgwVtf"
+    },
+    {
+      "album": {
+        "name": "Kismet",
+        "url": "https://open.spotify.com/album/3leIDawLjTre4AqvUiQLK6"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 352920,
+      "name": "Aao Huzoor Tumko",
+      "url": "https://open.spotify.com/track/2thv7dQ0No98nF5YFX4tOJ"
+    },
+    {
+      "album": {
+        "name": "Singing Icon - Asha Bhosle",
+        "url": "https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352920,
+      "name": "Aao Huzoor Tumko (From \"Kismat\")",
+      "url": "https://open.spotify.com/track/6RdkcMzJveBskbo2v4Mbxk"
+    },
+    {
+      "album": {
+        "name": "Mere Jeevan Saathi",
+        "url": "https://open.spotify.com/album/0LgDRtuJbng7HyGRHhdJGX"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 296080,
+      "name": "Aao Na Gale Lag Jao Na",
+      "url": "https://open.spotify.com/track/0CYPWCzses6SznboW6cxbM"
+    },
+    {
+      "album": {
+        "name": "Ghar",
+        "url": "https://open.spotify.com/album/5fICh4j205nDQ9tAR5omRP"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 249173,
+      "name": "Aap Ki Ankhon Mein Kuch",
+      "url": "https://open.spotify.com/track/2hWUcbgPqVsvsgHMWEvSUe"
+    },
+    {
+      "album": {
+        "name": "Krazy Kishore",
+        "url": "https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Aap Ki Ankhon Mein Kuch (From \"Ghar\")",
+      "url": "https://open.spotify.com/track/0DIGEuLzTRIF9jtmKQlPW4"
+    },
+    {
+      "album": {
+        "name": "Anpadh",
+        "url": "https://open.spotify.com/album/7qtWHhGl8E1EcgyQEmtmLN"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234893,
+      "name": "Aap Ki Nazron Ne Samjha",
+      "url": "https://open.spotify.com/track/11IpCZVWahQVaRNoNX5WbF"
+    },
+    {
+      "album": {
+        "name": "Masterworks Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "Aap Ki Nazron Ne Samjha (From \"Anpadh\")",
+      "url": "https://open.spotify.com/track/7KoJExPLSJNymJRSDR56UF"
+    },
+    {
+      "album": {
+        "name": "Hum Dono (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5j7tLPiLgd645zG6qc5oit"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258386,
+      "name": "Abhi Na Jao Chhod Kar",
+      "url": "https://open.spotify.com/track/2oaKoKA8bvgWfBi9M8wEVJ"
+    },
+    {
+      "album": {
+        "name": "Dil Apna Aur Preet Parai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2efqpNgL1mmKTIaFqfKARM"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315613,
+      "name": "Ajib Dastan Hai Yeh",
+      "url": "https://open.spotify.com/track/1O5qA3XSUP6Kxn0eeSJls4"
+    },
+    {
+      "album": {
+        "name": "C.I.D. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WwsIW6Jo34bhgjl4L9LKo"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 237466,
+      "name": "Ankhon Hi Ankhon Mein",
+      "url": "https://open.spotify.com/track/4DrwGBkDCtQsA81GNPgvNA"
+    },
+    {
+      "album": {
+        "name": "Teen Devian (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6mjTV2OPr5SBOd1IMvkyQ9"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 319626,
+      "name": "Are Yaar Meri Tum Bhi Ho Ghazab",
+      "url": "https://open.spotify.com/track/5FO1zavDG1mokYqXAxc1Br"
+    },
+    {
+      "album": {
+        "name": "MasterWorks - R.D. Burman",
+        "url": "https://open.spotify.com/album/02cSDnvDtAGO5fLwZg9DVp"
+      },
+      "artists": [
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 182717,
+      "name": "Aur Kya Ahede Wafa (From \"Sunny\") - Female Version",
+      "url": "https://open.spotify.com/track/7FHDGu4eb2ZXOMZUVAQSCa"
+    },
+    {
+      "album": {
+        "name": "Professor (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7mskyLiwGZF1GyCih5FLFH"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 200320,
+      "name": "Aye Gulbadan",
+      "url": "https://open.spotify.com/track/0riEPsBGr8VT98piKmm2l6"
+    },
+    {
+      "album": {
+        "name": "Professor",
+        "url": "https://open.spotify.com/album/25pnPHZrkNld8V5uVk0FJI"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 200320,
+      "name": "Aye Gulbadan",
+      "url": "https://open.spotify.com/track/2JDPBGGSbNsvazs6gf6OSX"
+    },
+    {
+      "album": {
+        "name": "Razia Sultan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DRpPf4p78FiUuQhYuMm5V"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339066,
+      "name": "Aye-Dil-E-Nadan, Pt. 1",
+      "url": "https://open.spotify.com/track/4GPR2blOOTmvo1cW2rTM7J"
+    },
+    {
+      "album": {
+        "name": "Chalti Ka Naam Gaadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11ZHFRLEhkwJ19bWoEFrbp"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-15",
+      "duration_ms": 290053,
+      "name": "Babu Samjho Ishare",
+      "url": "https://open.spotify.com/track/0eicQUW4H2Zv1F5c06HW7e"
+    },
+    {
+      "album": {
+        "name": "Aar Paar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0f846jv2LgmzT2ZvqWcLYe"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 207785,
+      "name": "Babuji Dheere Chalna",
+      "url": "https://open.spotify.com/track/27Bi9n90kunzgPXzgfqOff"
+    },
+    {
+      "album": {
+        "name": "Balika Badhu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ENk87mIL6K5JEj9iQvKyo"
+      },
+      "artists": [
+        {
+          "name": "Amit Kumar",
+          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312080,
+      "name": "Bade Achhe Lagte Hain",
+      "url": "https://open.spotify.com/track/6KI66HzKaCOvfvLenuf0JQ"
+    },
+    {
+      "album": {
+        "name": "Anamika",
+        "url": "https://open.spotify.com/album/6MCBqCOZHFALGEyE8x9TnB"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 241666,
+      "name": "Bahon Mein Chale Aao",
+      "url": "https://open.spotify.com/track/2IWhu2HrHttIUcw0Omn1Gr"
+    },
+    {
+      "album": {
+        "name": "Flash Back - Lata Mangeshkar with Tabassum",
+        "url": "https://open.spotify.com/album/6Ux6Eczfu1lFP1KHIVnubx"
+      },
+      "artists": [
+        {
+          "name": "Tabassum",
+          "url": "https://open.spotify.com/artist/1nnDcAGbCZYOMCsddidWCX"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 242013,
+      "name": "Bahon Mein Chale Aao (From \"Anamika\")",
+      "url": "https://open.spotify.com/track/2q3VUz3UgA3PVFFRJOMObF"
+    },
+    {
+      "album": {
+        "name": "Dosti (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5z8FnmQgn6g4WxHMJKAC8k"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294493,
+      "name": "Chahoonga Main Tujhe",
+      "url": "https://open.spotify.com/track/5DZBeP8uHa6iQiWuYOgRRC"
+    },
+    {
+      "album": {
+        "name": "Mere Jeevan Saathi",
+        "url": "https://open.spotify.com/album/0LgDRtuJbng7HyGRHhdJGX"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 269551,
+      "name": "Chala Jata Hoon",
+      "url": "https://open.spotify.com/track/4MiiZH1ONmjTVEFbGURgMC"
+    },
+    {
+      "album": {
+        "name": "Chaudhvin Ka Chand (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5oV7MbtBoGG0scOR6pQCc7"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Chaudhvin Ka Chand Ho",
+      "url": "https://open.spotify.com/track/0NMHJgkmn6heDuxpL2brXX"
+    },
+    {
+      "album": {
+        "name": "Paying Guest (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6yqu6Rc7NqKZw9SSmTlLay"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250493,
+      "name": "Chhod Do Aanchal Zamana Kya Kahega",
+      "url": "https://open.spotify.com/track/4wR89WBeEi0nda0JWcB8sT"
+    },
+    {
+      "album": {
+        "name": "RD Burman Songs - Vol.1",
+        "url": "https://open.spotify.com/album/5nSl8Ltv5CNKSjaVjtejjq"
+      },
+      "artists": [
+        {
+          "name": "RD Burman",
+          "url": "https://open.spotify.com/artist/7tDNjA4ARFgCEn4JLPLiH4"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/77zgQIbFiMd5pD3oi9Wpix"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 287857,
+      "name": "Chura Liya hai Tumne Jo Dil Ko",
+      "url": "https://open.spotify.com/track/3TE0igTdhJgQKTjjYk2BpY"
+    },
+    {
+      "album": {
+        "name": "Singing Icon - Asha Bhosle",
+        "url": "https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287840,
+      "name": "Chura Liya Hai Tumne Jo Dil Ko (From \"Yaadon Ki Baaraat\")",
+      "url": "https://open.spotify.com/track/3ci9YeXRulpmFPDvqneVwc"
+    },
+    {
+      "album": {
+        "name": "Kitaab (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/43rNh36s6FHVrjF0x6WsTj"
+      },
+      "artists": [
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 205078,
+      "name": "Dhanno Ki Aankhon Mein",
+      "url": "https://open.spotify.com/track/03RgN9BWo84z7CES4k406l"
+    },
+    {
+      "album": {
+        "name": "Umrao Jaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370026,
+      "name": "Dil Cheez Kya Hai",
+      "url": "https://open.spotify.com/track/3BERM98uzP2orrHk96PPvS"
+    },
+    {
+      "album": {
+        "name": "Dil Deke Dekho",
+        "url": "https://open.spotify.com/album/1XkOA0zjFuSj47GIwD3Qvr"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 252586,
+      "name": "Dil Deke Dekho Dil Deke Dekho",
+      "url": "https://open.spotify.com/track/2uZ99ytApIF88OcrzP80MH"
+    },
+    {
+      "album": {
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199119,
+      "name": "Dil Ka Bhanwar Kare Pukar (From \"Tere Ghar Ke Samne\")",
+      "url": "https://open.spotify.com/track/5jLLoCldTG8bsynJWI7jJT"
+    },
+    {
+      "album": {
+        "name": "Madhumati (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6DUq0IMq75xMZuQpJKJSmm"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207293,
+      "name": "Dil Tadap Tadap Ke Kah Raha",
+      "url": "https://open.spotify.com/track/3BhrEWJmIt4lgE5CHKc5cN"
+    },
+    {
+      "album": {
+        "name": "Vintage Music Of Goa India",
+        "url": "https://open.spotify.com/album/5l6QOP6eEHuuqGE0WOQZ0n"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Amirbai Karnataki",
+          "url": "https://open.spotify.com/artist/025NPyHBtWC9aQM4STXI5V"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 186693,
+      "name": "Dillagi: Gore Gore O Banke Chhore",
+      "url": "https://open.spotify.com/track/5xuR8nxoyWGIa4qxr0EiOC"
+    },
+    {
+      "album": {
+        "name": "Guide (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2vdYAsm1WgUauImlYaqRbU"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 293133,
+      "name": "Din Dhal Jaye Haye",
+      "url": "https://open.spotify.com/track/1evr0DxRGaAueBzGLwMyc5"
+    },
+    {
+      "album": {
+        "name": "Chillnama (Remix)",
+        "url": "https://open.spotify.com/album/36ghWpDkfmfa1cWvYkNVki"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Anurag Abhishek",
+          "url": "https://open.spotify.com/artist/6TtLtQmBqn5On4Waw4ExYO"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279754,
+      "name": "Do Lafzon Ki Hai Dil Ki Kahani (Remix)",
+      "url": "https://open.spotify.com/track/3m2wXNvm2m663lPwjiGJ1M"
+    },
+    {
+      "album": {
+        "name": "The Great Gambler",
+        "url": "https://open.spotify.com/album/5ySk8K15eNgQVTCKhpb42c"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 279754,
+      "name": "Do Lafzon Ki Hai Dil Ki Kahani - Asha Bhosle",
+      "url": "https://open.spotify.com/track/72B7rdPUVvEbap8RvIQbVk"
+    },
+    {
+      "album": {
+        "name": "Best of Lata Mangeshkar: Her Evergreen Bollywood Film Hindi Hits Songs",
+        "url": "https://open.spotify.com/album/41yIlF9w57PmrNXdmdWY54"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Meena Mangeshkar",
+          "url": "https://open.spotify.com/artist/7pue33Ydv393gSW80gMw3y"
+        },
+        {
+          "name": "Usha Mangeshkar",
+          "url": "https://open.spotify.com/artist/3R2OMv8JpXLy6ZIW7Qxz59"
+        },
+        {
+          "name": "Naushad",
+          "url": "https://open.spotify.com/artist/2UsCCEvGf5nfUIG53pJAhi"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-14",
+      "duration_ms": 216373,
+      "name": "Duniya Men Hum Aaye Hain (From \"Mother India\")",
+      "url": "https://open.spotify.com/track/4Xgc3rkvIbbG7cyH8o7N6S"
+    },
+    {
+      "album": {
+        "name": "Junglee",
+        "url": "https://open.spotify.com/album/5MqdU4oePPWPq6PJtVqxlP"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 206893,
+      "name": "Ehsan Tera Hoga Mujh Par",
+      "url": "https://open.spotify.com/track/7nNDC2XCZG9ei1DskgQ72r"
+    },
+    {
+      "album": {
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206893,
+      "name": "Ehsan Tera Hoga Mujh Par (From \"Junglee\") - Male Vocals",
+      "url": "https://open.spotify.com/track/3zdhSUmDktbBJvIeb10haC"
+    },
+    {
+      "album": {
+        "name": "Ajanabee",
+        "url": "https://open.spotify.com/album/3ozn64E1BMlkTkquFBwyn2"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266145,
+      "name": "Ek Ajnabee Haseena Se",
+      "url": "https://open.spotify.com/track/1mPNK9DQVA7gJNtJ20PZu3"
+    },
+    {
+      "album": {
+        "name": "The Enigma R. D. Burman",
+        "url": "https://open.spotify.com/album/79mznklT8BtsMSeF2mWwXn"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266600,
+      "name": "Ek Ajnabee Haseena Se (From \"Ajanabee\")",
+      "url": "https://open.spotify.com/track/2gDdd8Z9yxoAEZ9DilapRx"
+    },
+    {
+      "album": {
+        "name": "Khel Khel Mein (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0maR3Ymwl7oN9FS13UWYN6"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 290146,
+      "name": "Ek Main Aur Ek Tu",
+      "url": "https://open.spotify.com/track/5tv9IxamGdeRWjzGgPOjMD"
+    },
+    {
+      "album": {
+        "name": "Dost (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7tCoPq77zF0b1s9lQLhXfs"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388546,
+      "name": "Gaadi Bula Rahi Hai",
+      "url": "https://open.spotify.com/track/0TVwLOtr85EyZ9fxty9h8u"
+    },
+    {
+      "album": {
+        "name": "Dost",
+        "url": "https://open.spotify.com/album/6I9X8ZM9d4V27qh80k57QQ"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Laxmikant\u2013Pyarelal",
+          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
+      "duration_ms": 388546,
+      "name": "Gaadi Bula Rahi Hai",
+      "url": "https://open.spotify.com/track/5hikDyf8SBJ00s80Bk7KTQ"
+    },
+    {
+      "album": {
+        "name": "Chalti Ka Naam Gaadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11ZHFRLEhkwJ19bWoEFrbp"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 264706,
+      "name": "Haal Kaisa Hai Janab Ka",
+      "url": "https://open.spotify.com/track/1cgdSRscVORILnQul7Z1vx"
+    },
+    {
+      "album": {
+        "name": "Baarishein, Chai Aur Hemant Kumar",
+        "url": "https://open.spotify.com/album/0Z4dnIU8RAr8hDEb8IKhko"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261825,
+      "name": "Hai Apna Dil To Aawara",
+      "url": "https://open.spotify.com/track/6Hmz8gkJRyRSqhDdEmXDva"
+    },
+    {
+      "album": {
+        "name": "Solva Saal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1qU2yJm9GthheAp38v0W8x"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 261825,
+      "name": "Hai Apna Dil To Aawara (Happy)",
+      "url": "https://open.spotify.com/track/69NmjpybOgJ4oL2twAOA5g"
+    },
+    {
+      "album": {
+        "name": "LP Classics - Original LP Recordings, Vol. 2",
+        "url": "https://open.spotify.com/album/6KJIQMrWAe3PjXQRvNavD3"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 269618,
+      "name": "Hai Apna Dil To Aawara (Happy)",
+      "url": "https://open.spotify.com/track/7MJDY2TyHOyMqXII7bWOzu"
+    },
+    {
+      "album": {
+        "name": "Solva Saal",
+        "url": "https://open.spotify.com/album/1EVQ9JYSRELdpeTPrERR8y"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        },
+        {
+          "name": "S. D. Burman",
+          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 261825,
+      "name": "Hai Apna Dil To Aawara - Happy",
+      "url": "https://open.spotify.com/track/0p7EstNUg5VYyD8jxs1Na7"
+    },
+    {
+      "album": {
+        "name": "Nau Do Gyarah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qZ48c89Wg1VN9TVHwHapf"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291453,
+      "name": "Ham Hain Rahi Pyar Ke",
+      "url": "https://open.spotify.com/track/21KLl43JhFp0UPZSssfm3E"
+    },
+    {
+      "album": {
+        "name": "Barsaat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kQNA934VKsG2PM3zJZdSG"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 188560,
+      "name": "Hawa Mein Udta Jaye",
+      "url": "https://open.spotify.com/track/4CHMgTLE7B1zGUGzi7k5yG"
+    },
+    {
+      "album": {
+        "name": "Awaara",
+        "url": "https://open.spotify.com/album/4FBRxpP3WLREdA32HyScFm"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219733,
+      "name": "Hum Tum Se Mohabbat Karke - Hanste Bhi Rahe",
+      "url": "https://open.spotify.com/track/3dWaN2oB9WvL4P3TLWZZGN"
+    },
+    {
+      "album": {
+        "name": "Shree 420",
+        "url": "https://open.spotify.com/album/0WzbgAopzfxj49ucK5RXmE"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-02",
+      "duration_ms": 273213,
+      "name": "Ichak Dana Beechak Dana",
+      "url": "https://open.spotify.com/track/59EXBfMRlHQLT3zE46twiE"
+    },
+    {
+      "album": {
+        "name": "Super Hit Jodi - Shammi Kapoor & Mohammed Rafi",
+        "url": "https://open.spotify.com/album/0MhFQXgj44yHwfNqow3104"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290400,
+      "name": "Isharon Isharon Men Dil Lenewale",
+      "url": "https://open.spotify.com/track/0Fbc29YhPTvMVi8n174pqv"
+    },
+    {
+      "album": {
+        "name": "Kashmir Ki Kali",
+        "url": "https://open.spotify.com/album/7JwALFWCFaIIU6oeYBkVp4"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290400,
+      "name": "Isharon Isharon Men Dil Lenewale",
+      "url": "https://open.spotify.com/track/1xNN6c8eW8Mm9uz9nVqln9"
+    },
+    {
+      "album": {
+        "name": "Kashmir Ki Kali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22RYnBASluvhRFur4HVKNa"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 290400,
+      "name": "Isharon Isharon Men Dil Lenewale",
+      "url": "https://open.spotify.com/track/6gxSvQV8ApYIrL23DSxN5x"
+    },
+    {
+      "album": {
+        "name": "Aar Paar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0f846jv2LgmzT2ZvqWcLYe"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 202800,
+      "name": "Ja Ja Ja Bewafa",
+      "url": "https://open.spotify.com/track/2YOrtoBfiRi3dCOzMtYtnW"
+    },
+    {
+      "album": {
+        "name": "C.I.D. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0gOsGGhRWVBJytSiuDTYa6"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 200240,
+      "name": "Jaata Kahanhai Diwane",
+      "url": "https://open.spotify.com/track/5nWMAyvfVkvu7TOtVhGLqM"
+    },
+    {
+      "album": {
+        "name": "Nagin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Tawm1VKjcxrx7DYXTFbl4"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 173360,
+      "name": "Jadugar Saiyan Chhod Mori Baiyan",
+      "url": "https://open.spotify.com/track/0rTwRCSgDMMk1FuvpWosv6"
+    },
+    {
+      "album": {
+        "name": "Mr. And Mrs. 55 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JWQn4k7t6Wx6YzjI1JQpZ"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 218373,
+      "name": "Jane Kahan Mera Jigar Gaya Ji",
+      "url": "https://open.spotify.com/track/4aE7oc6DyiMvNWutwblivY"
+    },
+    {
+      "album": {
+        "name": "Best of Guru Dutt Songs",
+        "url": "https://open.spotify.com/album/1Llba1Ang0TGaohV3yxG36"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 259120,
+      "name": "Jane Woh Kaise Log The",
+      "url": "https://open.spotify.com/track/1raJfrE4ArlwIGgFGZ0LEw"
+    },
+    {
+      "album": {
+        "name": "Pyaasa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3UQouhwVrvetrQfBRNsAZn"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 259120,
+      "name": "Jane Woh Kaise Log The",
+      "url": "https://open.spotify.com/track/64xC67m2VV24RykHrBH1kw"
+    },
+    {
+      "album": {
+        "name": "Pyaasa",
+        "url": "https://open.spotify.com/album/7asgJzEDDF5u4gGgsjvjW9"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        },
+        {
+          "name": "S. D. Burman",
+          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259120,
+      "name": "Jane Woh Kaise Log The",
+      "url": "https://open.spotify.com/track/1KaNtSpU12ZFyTPc07gTht"
+    },
+    {
+      "album": {
+        "name": "C.I.D. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WwsIW6Jo34bhgjl4L9LKo"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 194413,
+      "name": "Jata Kahan Hai Diwane",
+      "url": "https://open.spotify.com/track/1ud8n9kwdNxHjyRPR0sR3X"
+    },
+    {
+      "album": {
+        "name": "History of Indian Film Music: [C.I.D. (1956), Dastan (1950)], Vol. 20",
+        "url": "https://open.spotify.com/album/7H9bbhuHcPkESCnIIosyTG"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 197106,
+      "name": "Jata Kahan Hai Diwane",
+      "url": "https://open.spotify.com/track/5cQzW3GYUl3TidsZr9Lb4t"
+    },
+    {
+      "album": {
+        "name": "Arth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302733,
+      "name": "Jhuki Jhuki Si Nazar",
+      "url": "https://open.spotify.com/track/5PWQsLrymwQbCVYOO70Vfd"
+    },
+    {
+      "album": {
+        "name": "Humforlatadidi",
+        "url": "https://open.spotify.com/album/5SEwkuBauaQPFfqF4wxkqr"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298579,
+      "name": "Kabhi Kabhi Mere Dil Mein (Duet)",
+      "url": "https://open.spotify.com/track/3fv7fFA81kccqQc7FV5c7Y"
+    },
+    {
+      "album": {
+        "name": "Kabhi Kabhie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4PAxacBYgofqgtorH5y3BA"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 298579,
+      "name": "Kabhi Kabhi Mere Dil Mein - Duet",
+      "url": "https://open.spotify.com/track/418v2RdbaHUOdWJt5AzOMP"
+    },
+    {
+      "album": {
+        "name": "Kabhi Kabhie",
+        "url": "https://open.spotify.com/album/3RLXcdSQn4OGJ8DW7NrXmr"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 298579,
+      "name": "Kabhi Kabhi Mere Dil Mein Duet",
+      "url": "https://open.spotify.com/track/46bHffIYlRKDZJG1Wbv8vi"
+    },
+    {
+      "album": {
+        "name": "Anand (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5YS9C9LtFu5GEIAFGfQZTJ"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337386,
+      "name": "Kahin Door Jab Din Dhal Jaye",
+      "url": "https://open.spotify.com/track/2wFILyz3whKS43ZmSLdNYJ"
+    },
+    {
+      "album": {
+        "name": "Kala Bazar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ZY63GFW0OGbsrseZ8efux"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280080,
+      "name": "Khoya Khoya Chand Khula Aasman",
+      "url": "https://open.spotify.com/track/31h2OADQEXLYor3p2X81cQ"
+    },
+    {
+      "album": {
+        "name": "Teen Devian (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2DdBFNUe4ZmkqwRZLUn8jz"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333072,
+      "name": "Khwab Ho Tum Ya Koi Haqeeqat",
+      "url": "https://open.spotify.com/track/3TkkPOg6sW9hrvt4jHgP9P"
+    },
+    {
+      "album": {
+        "name": "Teen Devian",
+        "url": "https://open.spotify.com/album/4RhTaPgxvTG4Gxg2TaukyN"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "S. D. Burman",
+          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 333072,
+      "name": "Khwab Ho Tum Ya Koi Haqeeqat",
+      "url": "https://open.spotify.com/track/6BirLItaTffBCKTAeWi3gT"
+    },
+    {
+      "album": {
+        "name": "Anari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IQ9K4BWEVmRJoyqD2ScMN"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Kisi Ki Muskurahaton Se",
+      "url": "https://open.spotify.com/track/20cqpJq6UspwjawaL6o1dF"
+    },
+    {
+      "album": {
+        "name": "Mere Humsafar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2J5eHuAWnicocDqHGsJ9nY"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344760,
+      "name": "Kisi Raah Men Kisi Mod Par",
+      "url": "https://open.spotify.com/track/5sUAUqMtpl1XzHObGRWhgw"
+    },
+    {
+      "album": {
+        "name": "Seeta Aur Geeta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4nwmDUNGXHBZlTdlTM2vdZ"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260336,
+      "name": "Koi Ladki Mujhe Kal Raat",
+      "url": "https://open.spotify.com/track/1WwwFvUANsGj28SqjQcSRM"
+    },
+    {
+      "album": {
+        "name": "Anupama (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28cq6XAL106QRqviTGLBsK"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Kuchh Dil Ne Kaha Kuchh Bhi Nahin",
+      "url": "https://open.spotify.com/track/06E1Edrnp0J9eu5wPSxA2d"
+    },
+    {
+      "album": {
+        "name": "Bollywood Songs: From 28 Movies (1963-1978), Vol. 2",
+        "url": "https://open.spotify.com/album/1Rh6r90k4SwphLlI940Roi"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Sushma Shrestha",
+          "url": "https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262896,
+      "name": "Kya Hua Tera Vada (From \"Hum Kisi Se Kum Nahin\") [1977]",
+      "url": "https://open.spotify.com/track/6RIFzPzdDl31gcCEolcpeF"
+    },
+    {
+      "album": {
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
+      },
+      "artists": [
+        {
+          "name": "Sushma Shrestha",
+          "url": "https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257985,
+      "name": "Kya Hua Tera Vada (From \"Hum Kisise Kum Naheen\")",
+      "url": "https://open.spotify.com/track/4j6c1euXhEl6y7HXObCV3s"
+    },
+    {
+      "album": {
+        "name": "Mohammed Rafi Songs, Vol.1",
+        "url": "https://open.spotify.com/album/05W3GrLoxNuo8zR9qaPlDk"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 258019,
+      "name": "Kya Hua Tera Wada",
+      "url": "https://open.spotify.com/track/4X4CHcQ0GOsoiohVGPCdUx"
+    },
+    {
+      "album": {
+        "name": "Mohammed Rafi Songs, Vol.1",
+        "url": "https://open.spotify.com/album/4MEdd0I6Gin2VjWv4MN2e0"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 258019,
+      "name": "Kya Hua Tera Wada",
+      "url": "https://open.spotify.com/track/4ac0I6Y1VgHMHduM9ZUUpR"
+    },
+    {
+      "album": {
+        "name": "Woh Kaun Thi? (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/579fdKlYum67csQuigB0Z2"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257613,
+      "name": "Lag Ja Gale Se Phir",
+      "url": "https://open.spotify.com/track/1kKxvLPfgpG5NRJ9MAmYsu"
+    },
+    {
+      "album": {
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "Likhe Jo Khat Tujhe (From \"Kanyadaan\")",
+      "url": "https://open.spotify.com/track/2QduffmP1CwjJ6kAA5hkUk"
+    },
+    {
+      "album": {
+        "name": "Kabhi Kabhie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4PAxacBYgofqgtorH5y3BA"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204040,
+      "name": "Main Pal Do Pal Ka Shair Hoon",
+      "url": "https://open.spotify.com/track/3P30d9Ayuy7IW88RvAvFMl"
+    },
+    {
+      "album": {
+        "name": "Hum Dono (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5j7tLPiLgd645zG6qc5oit"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Main Zindagi Ka Saath Nibhata Chala Gaya",
+      "url": "https://open.spotify.com/track/07Fwpys1NEj18b4LBoIeCy"
+    },
+    {
+      "album": {
+        "name": "Anand (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5YS9C9LtFu5GEIAFGfQZTJ"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "Maine Tere Liye",
+      "url": "https://open.spotify.com/track/0uiEephYATwDpp0DtBtf6d"
+    },
+    {
+      "album": {
+        "name": "Paying Guest (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6yqu6Rc7NqKZw9SSmTlLay"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247193,
+      "name": "Mana Janab Ne Pukara Nahin",
+      "url": "https://open.spotify.com/track/1vsR89NNnQ0YUxC4fZcoVA"
+    },
+    {
+      "album": {
+        "name": "Shree 420",
+        "url": "https://open.spotify.com/album/0WzbgAopzfxj49ucK5RXmE"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 268533,
+      "name": "Mera Joota Hai Japani",
+      "url": "https://open.spotify.com/track/3ane0tGLYlOevmitYXQ9yy"
+    },
+    {
+      "album": {
+        "name": "Ijaazat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1WYIGp9ZDGLiv5DVsz1lMR"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398973,
+      "name": "Mera Kuchh Samaan",
+      "url": "https://open.spotify.com/track/1ktCVRr2DZdKpDmhEuHBq2"
+    },
+    {
+      "album": {
+        "name": "Lag Ja Gale - Best of Lata Mangeshkar and Madan Mohan",
+        "url": "https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363200,
+      "name": "Mera Saaya Saath Hoga (From \"Mera Saaya\")",
+      "url": "https://open.spotify.com/track/4XUPFhs4GiN3Mu1wv0MIcy"
+    },
+    {
+      "album": {
+        "name": "Krazy Kishore",
+        "url": "https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Mere Mehboob Qayamat Hogi, Pt. 1 (From \"Mr. X in Bombay\")",
+      "url": "https://open.spotify.com/track/0us929HY2oacANZERkLkUL"
+    },
+    {
+      "album": {
+        "name": "Patanga (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7yOI9YSpGl2vq5j7wV6kBV"
+      },
+      "artists": [
+        {
+          "name": "Shamshad Begum",
+          "url": "https://open.spotify.com/artist/0Ury0QIiBOlJmsdYUiCTfQ"
+        },
+        {
+          "name": "C. Ramchandra",
+          "url": "https://open.spotify.com/artist/4tuzg2QDbDF6ytPrszs4q1"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 265680,
+      "name": "Mere Piya Gaye Rangoon",
+      "url": "https://open.spotify.com/track/3iQ28V36oRFljj8JzexQSI"
+    },
+    {
+      "album": {
+        "name": "Krazy Kishore",
+        "url": "https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 300640,
+      "name": "Mere Sapnon Ki Rani (From \"Aradhana\")",
+      "url": "https://open.spotify.com/track/3cWgUwwFeydGWc5vLjr5UC"
+    },
+    {
+      "album": {
+        "name": "Sahib Bibi Aur Ghulam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JtG7x9ZjQf6AZnOTsx0IQ"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 247546,
+      "name": "Na Jao Saiyan Chhuda Ke Baiyan",
+      "url": "https://open.spotify.com/track/0ZuHdH0acs3EmaukBgzJQk"
+    },
+    {
+      "album": {
+        "name": "Baat Ek Raat Ki (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SMMj9xYoZSg6VpmQltOu1"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "Na Tum Hamen Jano - Male Vocals",
+      "url": "https://open.spotify.com/track/63duKTfcFc60adEHebFkD9"
+    },
+    {
+      "album": {
+        "name": "Lag Ja Gale - Best of Lata Mangeshkar and Madan Mohan",
+        "url": "https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Nainon Mein Badra Chhaye (From \"Mera Saaya\")",
+      "url": "https://open.spotify.com/track/1qSRdYWUNNgsNq0B8eTCU6"
+    },
+    {
+      "album": {
+        "name": "Hero (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6yQsPqhpbIN49FGws6o2Dv"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-22",
+      "duration_ms": 380440,
+      "name": "Nindiya Se Jagi Bahar",
+      "url": "https://open.spotify.com/track/0W7WqMBoEJLWJ46uZ0C08v"
+    },
+    {
+      "album": {
+        "name": "Rhythmical Duo Laxmikant - Pyarelal",
+        "url": "https://open.spotify.com/album/0oooRZxphPmlfhGjXSnitS"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380440,
+      "name": "Nindiya Se Jagi Bahar (From \"Hero\")",
+      "url": "https://open.spotify.com/track/2jdoLNzDogFP1Nzk8SKRIJ"
+    },
+    {
+      "album": {
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 415236,
+      "name": "O Haseena Zulfonwale Jane Jahan (From \"Teesri Manzil\")",
+      "url": "https://open.spotify.com/track/1JHNf1BPNDQEVZehemIDay"
+    },
+    {
+      "album": {
+        "name": "Krazy Kishore",
+        "url": "https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273356,
+      "name": "O Mere Dil Ke Chain (From \"Mere Jeevan Saathi\")",
+      "url": "https://open.spotify.com/track/71hanKncfyBt0Yi66LRUYm"
+    },
+    {
+      "album": {
+        "name": "Coffee Aur Kishore",
+        "url": "https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270222,
+      "name": "O Saathi Re (From \"Muqaddar Ka Sikandar\")",
+      "url": "https://open.spotify.com/track/48D8kYVTIwnkBoYvvb3hsv"
+    },
+    {
+      "album": {
+        "name": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 335005,
+      "name": "O Saathi Re - Female Vocals",
+      "url": "https://open.spotify.com/track/1dYOciuxgvYcepVR1ZmQNk"
+    },
+    {
+      "album": {
+        "name": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 269717,
+      "name": "O Saathi Re - Male Vocals",
+      "url": "https://open.spotify.com/track/63S7VKZE3X5wHVTmSwxuSF"
+    },
+    {
+      "album": {
+        "name": "Blackmail",
+        "url": "https://open.spotify.com/album/2ynfe6E7ukd6HgaEvVNOwF"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 329066,
+      "name": "Pal Pal Dil Ke Paas - From \"Blackmail\"",
+      "url": "https://open.spotify.com/track/0HI3O9uCBWtu7B3boRpCaL"
+    },
+    {
+      "album": {
+        "name": "Bazaar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Talat Aziz",
+          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308733,
+      "name": "Phir Chiddi Raat",
+      "url": "https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx"
+    },
+    {
+      "album": {
+        "name": "Bazaar",
+        "url": "https://open.spotify.com/album/1S0AbwkAswdVC4oEWGsh8e"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Talat Aziz",
+          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 308733,
+      "name": "Phir Chiddi Raat",
+      "url": "https://open.spotify.com/track/5DI7IS8qdv97z9INeqeL15"
+    },
+    {
+      "album": {
+        "name": "Prem Pujari",
+        "url": "https://open.spotify.com/album/2BmgtXGVLaxBuI14LAkh8O"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 306666,
+      "name": "Phoolon Ke Rang Se",
+      "url": "https://open.spotify.com/track/5XDngPrHgHqf7eWBxe2D5L"
+    },
+    {
+      "album": {
+        "name": "Coffee Aur Kishore",
+        "url": "https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Phoolon Ke Rang Se (From \"Prem Pujari\")",
+      "url": "https://open.spotify.com/track/3J0VEn67cJuMUrJWDbsXiN"
+    },
+    {
+      "album": {
+        "name": "Guide",
+        "url": "https://open.spotify.com/album/1I60Zkmz3nddV5WFOU6o2T"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "S. D. Burman",
+          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 509466,
+      "name": "Piya Tose Naina Laage Re",
+      "url": "https://open.spotify.com/track/6yoT89zUSra0wzS1DKFC1w"
+    },
+    {
+      "album": {
+        "name": "Krazy Kishore",
+        "url": "https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284133,
+      "name": "Pyar Diwana Hota Hai (From \"Kati Patang\")",
+      "url": "https://open.spotify.com/track/6MYmHgOoy0BLOtdL2Zug6e"
+    },
+    {
+      "album": {
+        "name": "Satte Pe Satta",
+        "url": "https://open.spotify.com/album/1a6VZwmYX6TwvQOTdkvKgJ"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Bhupinder Singh",
+          "url": "https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne"
+        },
+        {
+          "name": "Sapan Chakraborty",
+          "url": "https://open.spotify.com/artist/7z3MqKz5P7DjYSEIRHMSws"
+        },
+        {
+          "name": "Gulshan Bawra",
+          "url": "https://open.spotify.com/artist/2Vrmg3gxg4FX3J13yA2j5P"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 393253,
+      "name": "Pyar Hamen Kis Mod Pe - Satte Pe Satta / Soundtrack Version",
+      "url": "https://open.spotify.com/track/4wznSF1uFh5g8RqChA6Np8"
+    },
+    {
+      "album": {
+        "name": "Shree 420",
+        "url": "https://open.spotify.com/album/0WzbgAopzfxj49ucK5RXmE"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260426,
+      "name": "Pyar Hua Iqrar Hua",
+      "url": "https://open.spotify.com/track/3B3MQlP4NPAxE2HEE2sEsS"
+    },
+    {
+      "album": {
+        "name": "One Man Many Roles - Raj Kapoor",
+        "url": "https://open.spotify.com/album/0RWJxWBJLFd29kHLaHwm8W"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260426,
+      "name": "Pyar Hua Iqrar Hua (From \"Shree 420\")",
+      "url": "https://open.spotify.com/track/29HAUjleJXEYgYlxslYArc"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260426,
+      "name": "Pyar Hua Iqrar Hua (From \"Shree 420\")",
+      "url": "https://open.spotify.com/track/4GnWuUsBp9PoWIiigz8DUb"
+    },
+    {
+      "album": {
+        "name": "Shree 420 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06IaiBtDfA82datti9r8da"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 360893,
+      "name": "Ramaiya Vastavaiya",
+      "url": "https://open.spotify.com/track/37YVXy2OMYyT91185rBOsc"
+    },
+    {
+      "album": {
+        "name": "100 Years of Music in Indian Cinema, Vol. 6",
+        "url": "https://open.spotify.com/album/1Vx599UuMivbN8Cslwvnby"
+      },
+      "artists": [
+        {
+          "name": "Seema Alimchandani",
+          "url": "https://open.spotify.com/artist/5OqXb5TbK2oYXZR0J9bNxj"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 359293,
+      "name": "Ramaiya Vastavaiya - Voice Over",
+      "url": "https://open.spotify.com/track/08qDoPpgOoDZaeMN7unpPl"
+    },
+    {
+      "album": {
+        "name": "Manzil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dd8y4Bo2nHvkW5nmM1UdR"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Rimjhim Gire Sawan - Duet",
+      "url": "https://open.spotify.com/track/4Twn7Z9eg4tmhFzLlmZsSE"
+    },
+    {
+      "album": {
+        "name": "Kala Bazar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ZY63GFW0OGbsrseZ8efux"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 172466,
+      "name": "Rimjhim Ke Tarane Leke Aai Barsaat, Pt. 2",
+      "url": "https://open.spotify.com/track/3G4Ukq0lVF7iATatmwoW7d"
+    },
+    {
+      "album": {
+        "name": "Aradhana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kMiiLFW6EXspbezKJnFUe"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 225213,
+      "name": "Roop Tera Mastana",
+      "url": "https://open.spotify.com/track/2c53oUQg4rmXUMJB5zIB8M"
+    },
+    {
+      "album": {
+        "name": "Coffee Aur Kishore",
+        "url": "https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206573,
+      "name": "Sama Hai Suhana Suhana (From \"Ghar Ghar Ki Kahani\")",
+      "url": "https://open.spotify.com/track/7xDKaSnqopBk83vfRhIUqs"
+    },
+    {
+      "album": {
+        "name": "Madhumati (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6DUq0IMq75xMZuQpJKJSmm"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "Suhana Safar Aur Yeh Mausam",
+      "url": "https://open.spotify.com/track/3V7K8wMXBKaf936CUDr3Bt"
+    },
+    {
+      "album": {
+        "name": "Dulari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/48tk373peLIrbls4prqhzg"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 209533,
+      "name": "Suhani Raat Dhal Chuki",
+      "url": "https://open.spotify.com/track/1OTHxO5AO0XohUfKRRK03X"
+    },
+    {
+      "album": {
+        "name": "Mai Aur Tum",
+        "url": "https://open.spotify.com/album/4hsD2SQIkVjyd2Sw0y2kbx"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Sushma Shrestha",
+          "url": "https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 254773,
+      "name": "Tera Mujhse - Aa Gale Lag Jaa / Soundtrack Version",
+      "url": "https://open.spotify.com/track/32vCHGf7sTD261maALnCmt"
+    },
+    {
+      "album": {
+        "name": "Aa Gale Lag Jaa",
+        "url": "https://open.spotify.com/album/3OnI8lR3OYG4XKSEtgudk2"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Sushma Shrestha",
+          "url": "https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 254773,
+      "name": "Tera Mujhse - Aa Gale Lag Jaa / Soundtrack Version",
+      "url": "https://open.spotify.com/track/3Jj02N4CsUY8YAn2d03M4K"
+    },
+    {
+      "album": {
+        "name": "Kishore Kumar Most Loved Hits 2023",
+        "url": "https://open.spotify.com/album/72yLAK3kpS2mktXo69c16J"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Sushma Shrestha",
+          "url": "https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Tera Mujhse - From \"Aa Gale Lag Jaa\"",
+      "url": "https://open.spotify.com/track/5ZitHRRotPvqopBbvmDUHi"
+    },
+    {
+      "album": {
+        "name": "Kishore Kumar Songs Vol.1",
+        "url": "https://open.spotify.com/album/1B0HCfwjhcddpJM2nm8BWs"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/5XnvyE7dQNSC1v7hK1p4WW"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 297468,
+      "name": "Tere Mere Milan Ki Yeh Raina",
+      "url": "https://open.spotify.com/track/2hUJUuzZtfQAclFdI3Qrvb"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294333,
+      "name": "Tere Mere Milan Ki Yeh Raina (From \"Abhimaan\")",
+      "url": "https://open.spotify.com/track/4oUJpT44uR4ShMHqp4J0OR"
+    },
+    {
+      "album": {
+        "name": "Guide (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2vdYAsm1WgUauImlYaqRbU"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261279,
+      "name": "Tere Mere Sapne Ab Ek Rang Hain",
+      "url": "https://open.spotify.com/track/0bkZP6HJBDA0kBbMYKXsWj"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Teri Bindiya Re (From \"Abhimaan\")",
+      "url": "https://open.spotify.com/track/0x4ep73GsOujupPBVjwHgb"
+    },
+    {
+      "album": {
+        "name": "Hawas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5s3ScxHynhtYtV1kiWleTI"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283146,
+      "name": "Teri Galiyon Mein",
+      "url": "https://open.spotify.com/track/1KL9KL7o8af7b93kgQS85z"
+    },
+    {
+      "album": {
+        "name": "Asli Naqli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ti9x3Gnv6gkzaQtRYmqtl"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Tujhe Jeevan Ki Dor Se",
+      "url": "https://open.spotify.com/track/1YOBKE8wqS1YUSkwNXos4Q"
+    },
+    {
+      "album": {
+        "name": "Asli Naqli",
+        "url": "https://open.spotify.com/album/0Bl5C3tHLLJBWpDx8dO4Fv"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 254773,
+      "name": "Tujhe Jeevan Ki Dor Se",
+      "url": "https://open.spotify.com/track/4Rw9f44VIUPaTmXIiofHwB"
+    },
+    {
+      "album": {
+        "name": "Arth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321311,
+      "name": "Tum Itna Jo Muskura Rahe Ho",
+      "url": "https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX"
+    },
+    {
+      "album": {
+        "name": "Hanste Zakhm",
+        "url": "https://open.spotify.com/album/7fyvwvooseBtKcfzx1j0Vd"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 486353,
+      "name": "Tum Jo Mil Gaye Ho",
+      "url": "https://open.spotify.com/track/2dURhAl9CNjpQ2aD2kN9XC"
+    },
+    {
+      "album": {
+        "name": "Lag Ja Gale - Best of Lata Mangeshkar and Madan Mohan",
+        "url": "https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489090,
+      "name": "Tum Jo Mil Gaye Ho (From \"Hanste Zakhm\")",
+      "url": "https://open.spotify.com/track/2fUpfW6NKGbpVO4oSgpX38"
+    },
+    {
+      "album": {
+        "name": "Khamoshi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JhYCL7nhuh98kIMzzqviP"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225680,
+      "name": "Tum Pukar Lo Tumhara Intezar Hai",
+      "url": "https://open.spotify.com/track/3bKu8IK7vgUDwtJiYcBkme"
+    },
+    {
+      "album": {
+        "name": "Tumsa Nahin Dekha",
+        "url": "https://open.spotify.com/album/3LTuCNDs3g4vWGtLS5RfVv"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 210733,
+      "name": "Tumsa Nahin Dekha",
+      "url": "https://open.spotify.com/track/19XGh74why406tLVd0ddVt"
+    },
+    {
+      "album": {
+        "name": "Patita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1AO1npNUV93OKmz3J7X3lW"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "Yaad Kiya Dil Ne",
+      "url": "https://open.spotify.com/track/4SIyELnEXAxSzXbWQ5MorW"
+    },
+    {
+      "album": {
+        "name": "C.I.D. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WwsIW6Jo34bhgjl4L9LKo"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 248226,
+      "name": "Yeh Hai Bombay Meri Jaan",
+      "url": "https://open.spotify.com/track/15XBdkGcDy4WZJlWjF1gZc"
+    },
+    {
+      "album": {
+        "name": "Kati Patang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247756,
+      "name": "Yeh Jo Mohabbat Hai",
+      "url": "https://open.spotify.com/track/5r1BxH58zZpdj51nVRXb2o"
+    },
+    {
+      "album": {
+        "name": "Silsila (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QyzsjSnEUqIcCuUrXYYuv"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474906,
+      "name": "Yeh Kahan Aa Gaye Hum",
+      "url": "https://open.spotify.com/track/1QIj8I43FGPhol27UIk7ix"
+    },
+    {
+      "album": {
+        "name": "Aar Paar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0f846jv2LgmzT2ZvqWcLYe"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 190786,
+      "name": "Yeh Lo Main Haari Piya",
+      "url": "https://open.spotify.com/track/2Qlx7OlT4o9JIsAbgLwhm1"
+    },
+    {
+      "album": {
+        "name": "Yahudi",
+        "url": "https://open.spotify.com/album/3mD0hz6wZyw1JVpauwKlT4"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226680,
+      "name": "Yeh Mera Diwanapan Hai",
+      "url": "https://open.spotify.com/track/6O9tpC8F1dzV1JhkiGQ5iU"
+    },
+    {
+      "album": {
+        "name": "Chori Chori (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QhuFKn0eSrmf64IhtBzfW"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269626,
+      "name": "Yeh Raat Bheegi Bheegi",
+      "url": "https://open.spotify.com/track/4B3UcOcsfqurNkTnO9tczy"
+    },
+    {
+      "album": {
+        "name": "Jaal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5j5JVwPuM8uM1S7Sx0LVtE"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 296240,
+      "name": "Yeh Raat Yeh Chandni",
+      "url": "https://open.spotify.com/track/0tbLiwkqvzQnDaRQUKBgrD"
+    },
+    {
+      "album": {
+        "name": "Baarishein, Chai Aur Hemant Kumar",
+        "url": "https://open.spotify.com/album/0Z4dnIU8RAr8hDEb8IKhko"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296240,
+      "name": "Yeh Raat Yeh Chandni",
+      "url": "https://open.spotify.com/track/1X8ZEqYlX1rSlaoQt5dRy9"
+    },
+    {
+      "album": {
+        "name": "The Golden Melodies, Vol. 1",
+        "url": "https://open.spotify.com/album/2qrLaaJpaQKJQF0fUS0lBJ"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335306,
+      "name": "Yeh Raaten - From \"Julie\"",
+      "url": "https://open.spotify.com/track/2QbjqY4vGkqC4eMrI4KiUX"
+    },
+    {
+      "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77TiM1bLTtAg8Y5wc4W93B"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 336613,
+      "name": "Yeh Raaten - From \"Julie\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/6jWYM50qljcVX5gypDKl2J"
+    },
+    {
+      "album": {
+        "name": "Dilli Ka Thug",
+        "url": "https://open.spotify.com/album/45Fd3urpMLMCbjqiHYWEBD"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201160,
+      "name": "Yeh Raaten Yeh Mausam",
+      "url": "https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J"
+    },
+    {
+      "album": {
+        "name": "One Man Many Roles - Kishore Kumar",
+        "url": "https://open.spotify.com/album/7hJJJsU0AS5dMOdyxDfUhQ"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "Yeh Raaten Yeh Mausam (From \"Dilli Ka Thug\")",
+      "url": "https://open.spotify.com/track/1lq55yqSIDg3ZzDHai2Eot"
+    },
+    {
+      "album": {
+        "name": "Kati Patang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276855,
+      "name": "Yeh Sham Mastani",
+      "url": "https://open.spotify.com/track/3BjAnJwtlVoS7m3kdb6Y8i"
+    },
+    {
+      "album": {
+        "name": "Barsaat Ki Raat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74deIHNdizeRiczKqB2dBl"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 198906,
+      "name": "Zindagi Bhar Nahin",
+      "url": "https://open.spotify.com/track/7KljyPi5rUB3gyl9olwEpt"
+    },
+    {
+      "album": {
+        "name": "Anand (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5YS9C9LtFu5GEIAFGfQZTJ"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209213,
+      "name": "Zindagi Kaisi Hai Paheli",
+      "url": "https://open.spotify.com/track/5WDhqq4AlF4nuaep2QWDdE"
+    },
+    {
+      "album": {
+        "name": "Anand",
+        "url": "https://open.spotify.com/album/5VUfzLSj7tVzsV2DRcJcLL"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        },
+        {
+          "name": "Salil Chowdhury",
+          "url": "https://open.spotify.com/artist/0Ck0U5EF4b0VBMmpZPuUmv"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209213,
+      "name": "Zindagi Kaisi Hai Paheli",
+      "url": "https://open.spotify.com/track/3JlCtKzdOP25gelnwMI9RF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYRTlrhMB12D"
 }

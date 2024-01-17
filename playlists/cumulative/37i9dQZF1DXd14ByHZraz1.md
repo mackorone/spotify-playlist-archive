@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Santti
 
-154 songs - 7 hr 55 min
+155 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Feel so High](https://open.spotify.com/track/1dogIxg7bbJosIYUU5oKuP) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Feel so High](https://open.spotify.com/album/5eoVOocz9H986axojADQID) | 3:38 | 2023-03-24 |  |
 | [Feel Your Love](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [EEVA](https://open.spotify.com/artist/1pJgpp0DoZYerUf0SkeZuG) | [Feel Your Love](https://open.spotify.com/album/6lkHjfaElhaWfYGZEmFkWG) | 3:02 | 2021-12-24 | 2023-07-01 |
 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 | 2022-12-02 |  |
-| [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 | 2023-06-30 |  |
+| [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 | 2023-06-30 | 2024-01-13 |
+| [Focus \- Double Mzk Remix](https://open.spotify.com/track/2pNc5obifxjvHxMiTRCoH0) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double Mzk Remix\)](https://open.spotify.com/album/4SzaT0l2P7XNF2b2Ht1RDj) | 2:21 | 2023-12-08 |  |
 | [Fractions](https://open.spotify.com/track/4JSUAxALzaXQHuhEVMvJ0v) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Fractions](https://open.spotify.com/album/3sTXDxpzc0If67LmjHUm0z) | 3:17 | 2022-12-02 | 2023-04-22 |
 | [fReAk o.O](https://open.spotify.com/track/0p0i2yxBoV1R7LH4RXsavZ) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [fReAk o.O](https://open.spotify.com/album/0aDuBR6kAzlVSVRPaGMwiO) | 3:00 | 2021-12-24 | 2023-11-18 |
 | [Free My Mind](https://open.spotify.com/track/7zcmIz44ipSUMprZKvEeRO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Free My Mind](https://open.spotify.com/album/7F5b3CtINIB8fGrxZqPMjY) | 2:40 | 2021-12-24 | 2022-04-09 |

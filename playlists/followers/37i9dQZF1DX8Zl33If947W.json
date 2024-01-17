@@ -1,324 +1,1169 @@
 {
-  "2023-02-13": 112851,
-  "2023-02-14": 112851,
-  "2023-02-15": 113975,
-  "2023-02-16": 114227,
-  "2023-02-17": 114436,
-  "2023-02-18": 114826,
-  "2023-02-19": 114840,
-  "2023-02-20": 115035,
-  "2023-02-21": 115223,
-  "2023-02-22": 115435,
-  "2023-02-23": 115629,
-  "2023-02-24": 115848,
-  "2023-02-25": 116097,
-  "2023-02-26": 116270,
-  "2023-02-27": 116696,
-  "2023-02-28": 116696,
-  "2023-03-01": 116891,
-  "2023-03-02": 117076,
-  "2023-03-03": 117279,
-  "2023-03-04": 117489,
-  "2023-03-05": 117975,
-  "2023-03-06": 117975,
-  "2023-03-07": 118172,
-  "2023-03-08": 118395,
-  "2023-03-09": 118610,
-  "2023-03-10": 118798,
-  "2023-03-11": 118955,
-  "2023-03-12": 119104,
-  "2023-03-13": 119313,
-  "2023-03-14": 119470,
-  "2023-03-15": 119661,
-  "2023-03-16": 119825,
-  "2023-03-17": 119825,
-  "2023-03-18": 120170,
-  "2023-03-19": 120330,
-  "2023-03-20": 120517,
-  "2023-03-21": 120679,
-  "2023-03-22": 120845,
-  "2023-03-23": 121001,
-  "2023-03-24": 121001,
-  "2023-03-25": 121343,
-  "2023-03-26": 121533,
-  "2023-03-27": 121728,
-  "2023-03-28": 121853,
-  "2023-03-29": 122054,
-  "2023-03-30": 122349,
-  "2023-03-31": 122349,
-  "2023-04-01": 122529,
-  "2023-04-02": 122691,
-  "2023-04-03": 122863,
-  "2023-04-04": 123018,
-  "2023-04-05": 123193,
-  "2023-04-06": 123345,
-  "2023-04-07": 123498,
-  "2023-04-09": 123854,
-  "2023-04-10": 124011,
-  "2023-04-11": 124331,
-  "2023-04-12": 124331,
-  "2023-04-13": 124496,
-  "2023-04-14": 124628,
-  "2023-04-15": 124781,
-  "2023-04-16": 124928,
-  "2023-04-17": 125107,
-  "2023-04-18": 125230,
-  "2023-04-19": 125403,
-  "2023-04-20": 125550,
-  "2023-04-21": 125713,
-  "2023-04-22": 125841,
-  "2023-04-23": 125951,
-  "2023-04-24": 126096,
-  "2023-04-25": 126251,
-  "2023-04-26": 126426,
-  "2023-04-27": 126563,
-  "2023-04-28": 126712,
-  "2023-04-29": 126845,
-  "2023-04-30": 126970,
-  "2023-05-01": 127114,
-  "2023-05-02": 127237,
-  "2023-05-03": 127372,
-  "2023-05-04": 127501,
-  "2023-05-05": 127629,
-  "2023-05-06": 127793,
-  "2023-05-07": 127919,
-  "2023-05-08": 128091,
-  "2023-05-09": 128210,
-  "2023-05-10": 128324,
-  "2023-05-11": 128451,
-  "2023-05-12": 128559,
-  "2023-05-13": 128689,
-  "2023-05-14": 128816,
-  "2023-05-15": 128947,
-  "2023-05-16": 129083,
-  "2023-05-17": 129213,
-  "2023-05-18": 129361,
-  "2023-05-19": 129530,
-  "2023-05-20": 129794,
-  "2023-05-21": 129794,
-  "2023-05-22": 129794,
-  "2023-05-23": 130043,
-  "2023-05-24": 130280,
-  "2023-05-25": 130310,
-  "2023-05-26": 130420,
-  "2023-05-27": 130557,
-  "2023-05-28": 130676,
-  "2023-05-29": 130676,
-  "2023-05-30": 130935,
-  "2023-05-31": 131048,
-  "2023-06-01": 131146,
-  "2023-06-02": 131255,
-  "2023-06-03": 131354,
-  "2023-06-04": 131464,
-  "2023-06-05": 131580,
-  "2023-06-06": 131682,
-  "2023-06-07": 131813,
-  "2023-06-08": 131922,
-  "2023-06-09": 132058,
-  "2023-06-10": 132169,
-  "2023-06-11": 132289,
-  "2023-06-12": 132401,
-  "2023-06-13": 132485,
-  "2023-06-14": 132578,
-  "2023-06-15": 132671,
-  "2023-06-16": 132757,
-  "2023-06-17": 132888,
-  "2023-06-18": 133002,
-  "2023-06-19": 133128,
-  "2023-06-20": 133221,
-  "2023-06-21": 133331,
-  "2023-06-22": 133434,
-  "2023-06-23": 133545,
-  "2023-06-24": 133678,
-  "2023-06-25": 133811,
-  "2023-06-26": 133943,
-  "2023-06-27": 134062,
-  "2023-06-28": 134172,
-  "2023-06-29": 134288,
-  "2023-06-30": 134400,
-  "2023-07-01": 134649,
-  "2023-07-02": 134649,
-  "2023-07-03": 134764,
-  "2023-07-04": 134877,
-  "2023-07-05": 135002,
-  "2023-07-06": 135247,
-  "2023-07-07": 135247,
-  "2023-07-08": 135374,
-  "2023-07-09": 135480,
-  "2023-07-10": 135585,
-  "2023-07-11": 135700,
-  "2023-07-12": 135787,
-  "2023-07-13": 135889,
-  "2023-07-14": 136002,
-  "2023-07-15": 136123,
-  "2023-07-16": 136251,
-  "2023-07-17": 136360,
-  "2023-07-18": 136446,
-  "2023-07-19": 136551,
-  "2023-07-20": 136673,
-  "2023-07-21": 136774,
-  "2023-07-22": 136878,
-  "2023-07-23": 136986,
-  "2023-07-24": 137113,
-  "2023-07-25": 137189,
-  "2023-07-26": 137268,
-  "2023-07-27": 137376,
-  "2023-07-28": 137458,
-  "2023-07-29": 137570,
-  "2023-07-30": 137678,
-  "2023-07-31": 137791,
-  "2023-08-01": 137868,
-  "2023-08-02": 137965,
-  "2023-08-03": 138073,
-  "2023-08-04": 138176,
-  "2023-08-05": 138275,
-  "2023-08-06": 138483,
-  "2023-08-07": 138483,
-  "2023-08-08": 138565,
-  "2023-08-09": 138660,
-  "2023-08-10": 138746,
-  "2023-08-11": 138821,
-  "2023-08-12": 138924,
-  "2023-08-13": 139042,
-  "2023-08-14": 139145,
-  "2023-08-15": 139317,
-  "2023-08-16": 139317,
-  "2023-08-17": 139437,
-  "2023-08-18": 139546,
-  "2023-08-19": 139652,
-  "2023-08-20": 139735,
-  "2023-08-21": 139822,
-  "2023-08-22": 139908,
-  "2023-08-23": 139974,
-  "2023-08-24": 140038,
-  "2023-08-25": 140101,
-  "2023-08-26": 140198,
-  "2023-08-27": 140295,
-  "2023-08-28": 140414,
-  "2023-08-29": 140537,
-  "2023-08-30": 140642,
-  "2023-08-31": 140751,
-  "2023-09-01": 140962,
-  "2023-09-02": 140962,
-  "2023-09-03": 141047,
-  "2023-09-04": 141190,
-  "2023-09-05": 141307,
-  "2023-09-06": 141437,
-  "2023-09-07": 141584,
-  "2023-09-08": 141697,
-  "2023-09-09": 141836,
-  "2023-09-10": 141957,
-  "2023-09-11": 142076,
-  "2023-09-12": 142198,
-  "2023-09-13": 142333,
-  "2023-09-14": 142474,
-  "2023-09-15": 142597,
-  "2023-09-16": 142705,
-  "2023-09-17": 142817,
-  "2023-09-18": 142942,
-  "2023-09-19": 143077,
-  "2023-09-20": 143205,
-  "2023-09-21": 143313,
-  "2023-09-22": 143428,
-  "2023-09-23": 143554,
-  "2023-09-24": 143692,
-  "2023-09-25": 143811,
-  "2023-09-26": 143935,
-  "2023-09-27": 144015,
-  "2023-09-28": 144097,
-  "2023-09-29": 144203,
-  "2023-09-30": 144323,
-  "2023-10-01": 144432,
-  "2023-10-02": 144546,
-  "2023-10-03": 144625,
-  "2023-10-04": 144723,
-  "2023-10-05": 144819,
-  "2023-10-06": 144944,
-  "2023-10-07": 145030,
-  "2023-10-08": 145158,
-  "2023-10-09": 145272,
-  "2023-10-10": 145392,
-  "2023-10-11": 145564,
-  "2023-10-12": 145564,
-  "2023-10-13": 145672,
-  "2023-10-14": 145773,
-  "2023-10-15": 145878,
-  "2023-10-16": 146003,
-  "2023-10-17": 146131,
-  "2023-10-18": 146214,
-  "2023-10-19": 146308,
-  "2023-10-20": 146447,
-  "2023-10-21": 146547,
-  "2023-10-22": 146656,
-  "2023-10-23": 146750,
-  "2023-10-24": 146822,
-  "2023-10-25": 146912,
-  "2023-10-26": 147007,
-  "2023-10-27": 147120,
-  "2023-10-28": 147120,
-  "2023-10-29": 147306,
-  "2023-10-30": 147439,
-  "2023-10-31": 147439,
-  "2023-11-01": 147601,
-  "2023-11-02": 147725,
-  "2023-11-03": 147845,
-  "2023-11-04": 147946,
-  "2023-11-05": 148056,
-  "2023-11-06": 148136,
-  "2023-11-07": 148239,
-  "2023-11-08": 148349,
-  "2023-11-09": 148482,
-  "2023-11-10": 148580,
-  "2023-11-11": 148683,
-  "2023-11-12": 148788,
-  "2023-11-13": 148867,
-  "2023-11-14": 148952,
-  "2023-11-15": 148952,
-  "2023-11-16": 149110,
-  "2023-11-17": 149324,
-  "2023-11-18": 149324,
-  "2023-11-19": 149446,
-  "2023-11-20": 149567,
-  "2023-11-21": 149697,
-  "2023-11-22": 149791,
-  "2023-11-23": 149886,
-  "2023-11-24": 149886,
-  "2023-11-25": 150067,
-  "2023-11-26": 150151,
-  "2023-11-27": 150235,
-  "2023-11-28": 150330,
-  "2023-11-29": 150486,
-  "2023-11-30": 150486,
-  "2023-12-01": 150585,
-  "2023-12-02": 150639,
-  "2023-12-03": 150714,
-  "2023-12-04": 150787,
-  "2023-12-05": 150879,
-  "2023-12-06": 150975,
-  "2023-12-07": 151049,
-  "2023-12-08": 151124,
-  "2023-12-09": 151197,
-  "2023-12-10": 151289,
-  "2023-12-11": 151387,
-  "2023-12-12": 151387,
-  "2023-12-13": 151562,
-  "2023-12-14": 151654,
-  "2023-12-15": 151699,
-  "2023-12-16": 151762,
-  "2023-12-17": 151846,
-  "2023-12-18": 151919,
-  "2023-12-19": 151976,
-  "2023-12-20": 152029,
-  "2023-12-21": 152102,
-  "2023-12-22": 152169,
-  "2023-12-23": 152248,
-  "2023-12-24": 152332,
-  "2023-12-25": 152372,
-  "2023-12-26": 152438,
-  "2023-12-27": 152488,
-  "2023-12-30": 152649,
-  "2023-12-31": 152742,
-  "2024-01-01": 152798,
-  "2024-01-02": 152847,
-  "2024-01-03": 152922
+  "2024-01-17": 153885,
+  "date_first_scraped": "2023-02-14",
+  "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
+  "name": "Liebeslieder",
+  "tracks": [
+    {
+      "album": {
+        "name": "Schwei\u00dfperlen",
+        "url": "https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm"
+      },
+      "artists": [
+        {
+          "name": "Klaus Lage",
+          "url": "https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200946,
+      "name": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
+      "url": "https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ"
+    },
+    {
+      "album": {
+        "name": "2012",
+        "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "2012",
+      "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+    },
+    {
+      "album": {
+        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
+        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
+      },
+      "artists": [
+        {
+          "name": "Die Toten Hosen",
+          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272440,
+      "name": "Alles aus Liebe",
+      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
+    },
+    {
+      "album": {
+        "name": "Blaue Augen",
+        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167873,
+      "name": "Blaue Augen",
+      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
+    },
+    {
+      "album": {
+        "name": "Laut Gedacht (Re-Edition)",
+        "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
+      },
+      "artists": [
+        {
+          "name": "Silbermond",
+          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284546,
+      "name": "Das Beste",
+      "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
+    },
+    {
+      "album": {
+        "name": "Boh\u00e8me",
+        "url": "https://open.spotify.com/album/6xiAsRGDcZ0cGz3o9CE06i"
+      },
+      "artists": [
+        {
+          "name": "Annett Louisan",
+          "url": "https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Das Spiel",
+      "url": "https://open.spotify.com/track/7lHHTWfwo1twOeQGMwr6cp"
+    },
+    {
+      "album": {
+        "name": "Dein ist mein ganzes Herz",
+        "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
+      },
+      "artists": [
+        {
+          "name": "Heinz Rudolf Kunze",
+          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Dein ist mein ganzes Herz",
+      "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174873,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
+    },
+    {
+      "album": {
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+    },
+    {
+      "album": {
+        "name": "Eigentlich",
+        "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158895,
+      "name": "Eigentlich",
+      "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
+    },
+    {
+      "album": {
+        "name": "Die gute Seite (Die lange Seite)",
+        "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
+      },
+      "artists": [
+        {
+          "name": "Sportfreunde Stiller",
+          "url": "https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Ein Kompliment",
+      "url": "https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX"
+    },
+    {
+      "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142462,
+      "name": "Einmal um die Welt",
+      "url": "https://open.spotify.com/track/7qiUjLVo6zLj8WmxPMqoXD"
+    },
+    {
+      "album": {
+        "name": "Endorphine",
+        "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
+      },
+      "artists": [
+        {
+          "name": "TheDoDo",
+          "url": "https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO"
+        },
+        {
+          "name": "Pbb Yea",
+          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172596,
+      "name": "Endorphine",
+      "url": "https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K"
+    },
+    {
+      "album": {
+        "name": "Er geh\u00f6rt zu mir",
+        "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
+      },
+      "artists": [
+        {
+          "name": "Marianne Rosenberg",
+          "url": "https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "Er geh\u00f6rt zu mir",
+      "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
+    },
+    {
+      "album": {
+        "name": "Hollywood (Akustik Version)",
+        "url": "https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92"
+      },
+      "artists": [
+        {
+          "name": "Benne",
+          "url": "https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc"
+        },
+        {
+          "name": "Revelle",
+          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152378,
+      "name": "Hollywood - Akustik Version",
+      "url": "https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO"
+    },
+    {
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        },
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 207501,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
+    },
+    {
+      "album": {
+        "name": "Immer in Bewegung",
+        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
+      },
+      "artists": [
+        {
+          "name": "Revolverheld",
+          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "Ich lass f\u00fcr dich das Licht an",
+      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+    },
+    {
+      "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
+    },
+    {
+      "album": {
+        "name": "Irgendwie anders",
+        "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Kaum Erwarten",
+      "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
+    },
+    {
+      "album": {
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "album": {
+        "name": "Kippe",
+        "url": "https://open.spotify.com/album/6zlZKGfrubfGewJU8pD7fk"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 159150,
+      "name": "Kippe",
+      "url": "https://open.spotify.com/track/2sGo9dFNIxXsNktL1pvM7s"
+    },
+    {
+      "album": {
+        "name": "Kleiner Finger Schwur",
+        "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168306,
+      "name": "Kleiner Finger Schwur",
+      "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
+    },
+    {
+      "album": {
+        "name": "30-11-80",
+        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195416,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
+    },
+    {
+      "album": {
+        "name": "Liebe zu dritt",
+        "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206108,
+      "name": "Liebe zu dritt",
+      "url": "https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO"
+    },
+    {
+      "album": {
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+      },
+      "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190186,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+    },
+    {
+      "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
+    },
+    {
+      "album": {
+        "name": "Mailbox",
+        "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "mailbox",
+      "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
+    },
+    {
+      "album": {
+        "name": "MISS YOU",
+        "url": "https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "The Cratez",
+          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129587,
+      "name": "MISS YOU",
+      "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
+    },
+    {
+      "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+    },
+    {
+      "album": {
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
+      },
+      "artists": [
+        {
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        },
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135096,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
+    },
+    {
+      "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
+    },
+    {
+      "album": {
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
+    },
+    {
+      "album": {
+        "name": "Von hier an blind",
+        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
+      },
+      "artists": [
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Nur ein Wort",
+      "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Nur f\u00fcr Dich",
+      "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr den Himmel durch die H\u00f6lle",
+        "url": "https://open.spotify.com/album/5925gOqT0wsG2ZQmdOJXZW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 192506,
+      "name": "Nur f\u00fcr Dich",
+      "url": "https://open.spotify.com/track/7y2CanQNBGTd7EVJy80hLC"
+    },
+    {
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 220173,
+      "name": "Nur getr\u00e4umt",
+      "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
+    },
+    {
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222613,
+      "name": "Nur getr\u00e4umt",
+      "url": "https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E"
+    },
+    {
+      "album": {
+        "name": "Nur wegen dir",
+        "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203826,
+      "name": "Nur wegen dir",
+      "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
+    },
+    {
+      "album": {
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
+    },
+    {
+      "album": {
+        "name": "Kraniche (plus Track by Track)",
+        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Sch\u00f6nste Zeit",
+      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
+    },
+    {
+      "album": {
+        "name": "Sie wei\u00df (feat. Mero)",
+        "url": "https://open.spotify.com/album/3ixrTwmXyX8EByoYXCEhpX"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151319,
+      "name": "Sie wei\u00df (feat. Mero)",
+      "url": "https://open.spotify.com/track/7DyDjhZMEIK5Ied4juTCyc"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "album": {
+        "name": "Sommer",
+        "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
+      },
+      "artists": [
+        {
+          "name": "Beatzarre & Djorkaeff",
+          "url": "https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD"
+        },
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-14",
+      "duration_ms": 180146,
+      "name": "Sommer",
+      "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
+    },
+    {
+      "album": {
+        "name": "Sommerregen",
+        "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 225481,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
+    },
+    {
+      "album": {
+        "name": "Liebeskummerparty",
+        "url": "https://open.spotify.com/album/0u5DLCi7p5AED8y7vxNqQY"
+      },
+      "artists": [
+        {
+          "name": "ROTE M\u00dcTZE RAPHI",
+          "url": "https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L"
+        },
+        {
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-13",
+      "duration_ms": 164453,
+      "name": "Tag ein Tag aus",
+      "url": "https://open.spotify.com/track/0m21WyNPuPOwYsxxgBsnVn"
+    },
+    {
+      "album": {
+        "name": "Melodie",
+        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195548,
+      "name": "Traum",
+      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
+    },
+    {
+      "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 162380,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
+    },
+    {
+      "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 162380,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf"
+    },
+    {
+      "album": {
+        "name": "Reim (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 220373,
+      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
+      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "album": {
+        "name": "Vermissen (feat. Henning May)",
+        "url": "https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161882,
+      "name": "Vermissen (feat. Henning May)",
+      "url": "https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ"
+    },
+    {
+      "album": {
+        "name": "Schlagschatten",
+        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207751,
+      "name": "Vielleicht Vielleicht",
+      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
+    },
+    {
+      "album": {
+        "name": "Vom selben Stern (Exklusive Version)",
+        "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
+      },
+      "artists": [
+        {
+          "name": "Ich + Ich",
+          "url": "https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId"
+        },
+        {
+          "name": "Adel Tawil",
+          "url": "https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228373,
+      "name": "Vom selben Stern - Radio Edit",
+      "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
+    },
+    {
+      "album": {
+        "name": "Powerbausa",
+        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203630,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
+    },
+    {
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
+      },
+      "artists": [
+        {
+          "name": "Von Wegen Lisbeth",
+          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230413,
+      "name": "Wenn du tanzt",
+      "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
+    },
+    {
+      "album": {
+        "name": "Wenn ich wein",
+        "url": "https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Wenn ich wein",
+      "url": "https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD"
+    },
+    {
+      "album": {
+        "name": "Muttersprache (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218546,
+      "name": "Wie sch\u00f6n du bist",
+      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
+    },
+    {
+      "album": {
+        "name": "Triebwerke",
+        "url": "https://open.spotify.com/album/1C7cbYCvAR2A3e7zOQriFg"
+      },
+      "artists": [
+        {
+          "name": "Alligatoah",
+          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218964,
+      "name": "Willst du",
+      "url": "https://open.spotify.com/track/3FcqFCeCD6QRtRo6WGLCnC"
+    },
+    {
+      "album": {
+        "name": "Zwischen meinen Zeilen (Deluxe)",
+        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Zu dir",
+      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
+    },
+    {
+      "album": {
+        "name": "\u00dcbermorgen",
+        "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
+      },
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163275,
+      "name": "\u00dcbermorgen",
+      "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8Zl33If947W"
 }

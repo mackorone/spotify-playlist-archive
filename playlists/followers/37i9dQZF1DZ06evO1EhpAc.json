@@ -1,246 +1,705 @@
 {
-  "2023-05-03": 6948,
-  "2023-05-04": 6960,
-  "2023-05-05": 6977,
-  "2023-05-06": 6990,
-  "2023-05-07": 7004,
-  "2023-05-08": 7008,
-  "2023-05-09": 7012,
-  "2023-05-10": 7021,
-  "2023-05-11": 7036,
-  "2023-05-12": 7048,
-  "2023-05-13": 7061,
-  "2023-05-14": 7076,
-  "2023-05-15": 7083,
-  "2023-05-16": 7089,
-  "2023-05-17": 7095,
-  "2023-05-18": 7103,
-  "2023-05-19": 7111,
-  "2023-05-20": 7130,
-  "2023-05-21": 7130,
-  "2023-05-22": 7130,
-  "2023-05-23": 7136,
-  "2023-05-24": 7151,
-  "2023-05-25": 7151,
-  "2023-05-26": 7157,
-  "2023-05-27": 7162,
-  "2023-05-28": 7171,
-  "2023-05-29": 7171,
-  "2023-05-30": 7200,
-  "2023-05-31": 7200,
-  "2023-06-01": 7208,
-  "2023-06-02": 7211,
-  "2023-06-03": 7213,
-  "2023-06-04": 7218,
-  "2023-06-05": 7225,
-  "2023-06-06": 7226,
-  "2023-06-07": 7224,
-  "2023-06-08": 7231,
-  "2023-06-09": 7235,
-  "2023-06-10": 7246,
-  "2023-06-11": 7249,
-  "2023-06-12": 7246,
-  "2023-06-13": 7251,
-  "2023-06-14": 7252,
-  "2023-06-15": 7257,
-  "2023-06-16": 7257,
-  "2023-06-17": 7261,
-  "2023-06-18": 7265,
-  "2023-06-19": 7266,
-  "2023-06-20": 7270,
-  "2023-06-21": 7279,
-  "2023-06-22": 7280,
-  "2023-06-23": 7281,
-  "2023-06-24": 7287,
-  "2023-06-25": 7289,
-  "2023-06-26": 7290,
-  "2023-06-27": 7289,
-  "2023-06-28": 7295,
-  "2023-06-29": 7299,
-  "2023-06-30": 7307,
-  "2023-07-01": 7314,
-  "2023-07-02": 7314,
-  "2023-07-03": 7314,
-  "2023-07-04": 7319,
-  "2023-07-05": 7323,
-  "2023-07-06": 7329,
-  "2023-07-07": 7329,
-  "2023-07-08": 7333,
-  "2023-07-09": 7336,
-  "2023-07-10": 7338,
-  "2023-07-11": 7345,
-  "2023-07-12": 7351,
-  "2023-07-13": 7354,
-  "2023-07-14": 7357,
-  "2023-07-15": 7357,
-  "2023-07-16": 7362,
-  "2023-07-17": 7369,
-  "2023-07-18": 7371,
-  "2023-07-19": 7374,
-  "2023-07-20": 7380,
-  "2023-07-21": 7377,
-  "2023-07-22": 7383,
-  "2023-07-23": 7388,
-  "2023-07-24": 7388,
-  "2023-07-25": 7390,
-  "2023-07-26": 7396,
-  "2023-07-27": 7404,
-  "2023-07-28": 7410,
-  "2023-07-29": 7411,
-  "2023-07-30": 7415,
-  "2023-07-31": 7416,
-  "2023-08-01": 7419,
-  "2023-08-02": 7418,
-  "2023-08-03": 7419,
-  "2023-08-04": 7426,
-  "2023-08-05": 7431,
-  "2023-08-06": 7434,
-  "2023-08-07": 7434,
-  "2023-08-08": 7439,
-  "2023-08-09": 7440,
-  "2023-08-10": 7442,
-  "2023-08-11": 7444,
-  "2023-08-12": 7444,
-  "2023-08-13": 7444,
-  "2023-08-14": 7461,
-  "2023-08-15": 7461,
-  "2023-08-16": 7461,
-  "2023-08-17": 7467,
-  "2023-08-18": 7467,
-  "2023-08-19": 7467,
-  "2023-08-20": 7472,
-  "2023-08-21": 7472,
-  "2023-08-22": 7482,
-  "2023-08-23": 7482,
-  "2023-08-24": 7484,
-  "2023-08-25": 7484,
-  "2023-08-26": 7487,
-  "2023-08-27": 7487,
-  "2023-08-28": 7493,
-  "2023-08-29": 7493,
-  "2023-08-30": 7493,
-  "2023-08-31": 7504,
-  "2023-09-01": 7508,
-  "2023-09-02": 7508,
-  "2023-09-03": 7519,
-  "2023-09-04": 7519,
-  "2023-09-05": 7519,
-  "2023-09-06": 7528,
-  "2023-09-07": 7528,
-  "2023-09-08": 7528,
-  "2023-09-09": 7528,
-  "2023-09-10": 7536,
-  "2023-09-11": 7536,
-  "2023-09-12": 7536,
-  "2023-09-13": 7544,
-  "2023-09-14": 7544,
-  "2023-09-15": 7544,
-  "2023-09-16": 7555,
-  "2023-09-17": 7555,
-  "2023-09-18": 7555,
-  "2023-09-19": 7557,
-  "2023-09-20": 7557,
-  "2023-09-21": 7557,
-  "2023-09-22": 7562,
-  "2023-09-23": 7562,
-  "2023-09-24": 7562,
-  "2023-09-25": 7562,
-  "2023-09-26": 7567,
-  "2023-09-27": 7567,
-  "2023-09-28": 7567,
-  "2023-09-29": 7567,
-  "2023-09-30": 7567,
-  "2023-10-01": 7567,
-  "2023-10-02": 7575,
-  "2023-10-03": 7575,
-  "2023-10-04": 7575,
-  "2023-10-05": 7580,
-  "2023-10-06": 7584,
-  "2023-10-07": 7584,
-  "2023-10-08": 7584,
-  "2023-10-09": 7584,
-  "2023-10-10": 7584,
-  "2023-10-11": 7595,
-  "2023-10-12": 7595,
-  "2023-10-13": 7595,
-  "2023-10-14": 7595,
-  "2023-10-15": 7595,
-  "2023-10-16": 7595,
-  "2023-10-17": 7595,
-  "2023-10-18": 7595,
-  "2023-10-19": 7595,
-  "2023-10-20": 7595,
-  "2023-10-21": 7595,
-  "2023-10-22": 7595,
-  "2023-10-23": 7595,
-  "2023-10-24": 7595,
-  "2023-10-25": 7595,
-  "2023-10-26": 7595,
-  "2023-10-27": 7595,
-  "2023-10-28": 7595,
-  "2023-10-29": 7595,
-  "2023-10-30": 7595,
-  "2023-10-31": 7595,
-  "2023-11-01": 7595,
-  "2023-11-02": 7595,
-  "2023-11-03": 7595,
-  "2023-11-04": 7595,
-  "2023-11-05": 7595,
-  "2023-11-06": 7595,
-  "2023-11-07": 7595,
-  "2023-11-08": 7595,
-  "2023-11-09": 7595,
-  "2023-11-10": 7595,
-  "2023-11-11": 7713,
-  "2023-11-12": 7713,
-  "2023-11-13": 7713,
-  "2023-11-14": 7713,
-  "2023-11-15": 7713,
-  "2023-11-16": 7713,
-  "2023-11-17": 7713,
-  "2023-11-18": 7713,
-  "2023-11-19": 7713,
-  "2023-11-20": 7713,
-  "2023-11-21": 7713,
-  "2023-11-22": 7713,
-  "2023-11-23": 7713,
-  "2023-11-24": 7713,
-  "2023-11-25": 7713,
-  "2023-11-26": 7713,
-  "2023-11-27": 7713,
-  "2023-11-28": 7713,
-  "2023-11-29": 7713,
-  "2023-11-30": 7713,
-  "2023-12-01": 7713,
-  "2023-12-02": 7713,
-  "2023-12-03": 7713,
-  "2023-12-04": 7713,
-  "2023-12-05": 7713,
-  "2023-12-06": 7713,
-  "2023-12-07": 7713,
-  "2023-12-08": 7713,
-  "2023-12-09": 7713,
-  "2023-12-10": 7713,
-  "2023-12-11": 7713,
-  "2023-12-12": 7713,
-  "2023-12-13": 7713,
-  "2023-12-14": 7861,
-  "2023-12-15": 7868,
-  "2023-12-16": 7872,
-  "2023-12-17": 7877,
-  "2023-12-18": 7881,
-  "2023-12-19": 7884,
-  "2023-12-20": 7886,
-  "2023-12-21": 7890,
-  "2023-12-22": 7893,
-  "2023-12-23": 7900,
-  "2023-12-24": 7901,
-  "2023-12-25": 7903,
-  "2023-12-26": 7908,
-  "2023-12-27": 7910,
-  "2023-12-30": 7914,
-  "2023-12-31": 7916,
-  "2024-01-01": 7916,
-  "2024-01-02": 7919,
-  "2024-01-03": 7919
+  "2024-01-17": 7976,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is Yaeji. The essential tracks, all in one playlist.",
+  "name": "This Is Yaeji",
+  "tracks": [
+    {
+      "album": {
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228872,
+      "name": "29",
+      "url": "https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ"
+    },
+    {
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218910,
+      "name": "After That",
+      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
+    },
+    {
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172613,
+      "name": "Done (Let\u2019s Get It)",
+      "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
+    },
+    {
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201446,
+      "name": "Drink I\u2019m Sippin On",
+      "url": "https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz"
+    },
+    {
+      "album": {
+        "name": "EAST Vs. WEST",
+        "url": "https://open.spotify.com/album/68wu3CBa3CvLooOkAahxbV"
+      },
+      "artists": [
+        {
+          "name": "DJ OG Uncle Skip",
+          "url": "https://open.spotify.com/artist/3BbyKFr0ezUecGOTFkaEUL"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Drink Redux",
+      "url": "https://open.spotify.com/track/4sX1Kyk2p8tS7PffqH6qjw"
+    },
+    {
+      "album": {
+        "name": "EAST Vs. WEST",
+        "url": "https://open.spotify.com/album/6gfcwRzIlOAtFXkoAAhjOH"
+      },
+      "artists": [
+        {
+          "name": "DJ OG Uncle Skip",
+          "url": "https://open.spotify.com/artist/3BbyKFr0ezUecGOTFkaEUL"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 226000,
+      "name": "Drink Redux",
+      "url": "https://open.spotify.com/track/5GB6MidP34NfQH09zdhEYV"
+    },
+    {
+      "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
+    },
+    {
+      "album": {
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "February 2017 (feat. Clairo and Yaeji)",
+      "url": "https://open.spotify.com/track/3fTEcn7Jt6Dq3NVVdNvl4w"
+    },
+    {
+      "album": {
+        "name": "Feel It Out",
+        "url": "https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196364,
+      "name": "Feel It Out",
+      "url": "https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ"
+    },
+    {
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155116,
+      "name": "Feelings Change",
+      "url": "https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB"
+    },
+    {
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 248973,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4uCwlBl11LtnGk4WpsIyOE"
+    },
+    {
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
+    },
+    {
+      "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
+    },
+    {
+      "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340199,
+      "name": "Guap",
+      "url": "https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf"
+    },
+    {
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 239080,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ"
+    },
+    {
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122600,
+      "name": "I'll Remember For Me, I'll Remember For You",
+      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
+    },
+    {
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 140746,
+      "name": "IN PLACE \uadf8\uc790\ub9ac \uadf8\ub300\ub85c",
+      "url": "https://open.spotify.com/track/5xjgp6pOneryUl6w3pWS1u"
+    },
+    {
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nappy Nina",
+          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 170424,
+      "name": "MONEY CAN'T BUY",
+      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
+    },
+    {
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140876,
+      "name": "MY IMAGINATION \uc0c1\uc0c1",
+      "url": "https://open.spotify.com/track/2WWtQEsjxl7cVKx352Z40D"
+    },
+    {
+      "album": {
+        "name": "New York 93 (Baba Stiltz Remix)",
+        "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355121,
+      "name": "New York 93 (Baba Stiltz Remix)",
+      "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
+    },
+    {
+      "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
+    },
+    {
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202537,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
+    },
+    {
+      "album": {
+        "name": "PAC-TIVE",
+        "url": "https://open.spotify.com/album/5dpJX0GUJSNwLqrp3XIobW"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "DiAN",
+          "url": "https://open.spotify.com/artist/0w3fC1dS2TUZPS2xEKl3VJ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122108,
+      "name": "PAC-TIVE",
+      "url": "https://open.spotify.com/track/7zJHgKgb9Lk9Qq2KNqSQ4Q"
+    },
+    {
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243173,
+      "name": "Passed Me By",
+      "url": "https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb"
+    },
+    {
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274728,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq"
+    },
+    {
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237231,
+      "name": "Raingurl",
+      "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
+    },
+    {
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "G.L.A.M.",
+          "url": "https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186873,
+      "name": "SPELL \uc8fc\ubb38",
+      "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
+    },
+    {
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "Submerge FM",
+      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
+    },
+    {
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201239,
+      "name": "WAKING UP DOWN",
+      "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
+    },
+    {
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229848,
+      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
+    },
+    {
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162459,
+      "name": "WHEN I GROW UP",
+      "url": "https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs"
+    },
+    {
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197343,
+      "name": "When in Summer, I Forget About the Winter - Bonus Track",
+      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
+    },
+    {
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225933,
+      "name": "With A Hammer",
+      "url": "https://open.spotify.com/track/2RgQKoWxEB6KGu8h4a7R46"
+    },
+    {
+      "album": {
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254507,
+      "name": "Year to Year",
+      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1EhpAc"
 }

@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-468 songs - 20 hr 4 min
+473 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [And I Always Will](https://open.spotify.com/track/2ELwSFL1CGiJIlpHP3XFbZ) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [And I Always Will](https://open.spotify.com/album/6IMQgMaokDB7ZS5QkOJuoK) | 1:59 | 2021-12-07 | 2022-09-21 |
 | [And There You Were](https://open.spotify.com/track/0UqT57lsbRzjUt5lau8oLh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Until The Blissful Dawn](https://open.spotify.com/album/45UjPgFGq62QWAbmKiNxOM) | 2:24 | 2023-10-23 | 2023-11-08 |
 | [And There You Were](https://open.spotify.com/track/1r9tcQmkq2JBXbrEmhKu4N) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:24 | 2023-09-11 | 2023-10-04 |
+| [And There You Were](https://open.spotify.com/track/20PEqypL4QvFNf8vZrEujy) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Close Your Eyes](https://open.spotify.com/album/5uIyKPIeVpqZFAdQPgKSa3) | 2:24 | 2024-01-05 |  |
 | [And There You Were](https://open.spotify.com/track/2B1QXUUeEdMoZ92ggrA1Rh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And We Eternal](https://open.spotify.com/album/7LNpuu6rkVrWpQ4zZJ8ST5) | 2:24 | 2023-11-07 | 2023-11-29 |
 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-21 | 2023-08-30 |
 | [And There You Were](https://open.spotify.com/track/4pe4ikorUF17h8dplM2JKv) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Where Love Is Endless](https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH) | 2:24 | 2023-11-07 | 2023-11-17 |
@@ -43,8 +44,9 @@
 | [And There You Were](https://open.spotify.com/track/54Z5v1xvglyOEh3KWsNsEr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Dream](https://open.spotify.com/album/4wJjh6QsoPWdDObVTHHJMh) | 2:24 | 2023-12-12 | 2023-12-22 |
 | [And There You Were](https://open.spotify.com/track/5qcXvge6W2VFVwH20TNoPA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And Blueberries](https://open.spotify.com/album/5L2Y9P1JFnFirIsk9RbqWp) | 2:24 | 2023-08-21 | 2023-09-13 |
 | [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-26 | 2023-10-25 |
-| [And There You Were](https://open.spotify.com/track/6M7XzlMsertPBhysePSjhL) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Safe In Her Arms](https://open.spotify.com/album/2v0XpYcW0Rj9PyakkzeKUn) | 2:24 | 2023-12-19 |  |
+| [And There You Were](https://open.spotify.com/track/6M7XzlMsertPBhysePSjhL) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Safe In Her Arms](https://open.spotify.com/album/2v0XpYcW0Rj9PyakkzeKUn) | 2:24 | 2023-12-19 | 2024-01-05 |
 | [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-07-25 | 2023-08-23 |
+| [And There You Were](https://open.spotify.com/track/6lOa2U2zqcE8fwLtFnVgkz) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Waltzing You To Sleep](https://open.spotify.com/album/1iq88GDKb5tTXkxQBOqdLD) | 2:24 | 2024-01-05 | 2024-01-12 |
 | [And There You Were](https://open.spotify.com/track/7bSLnYwRRxstyvCoqorAPU) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Of Great Expectations](https://open.spotify.com/album/3E1aUqQYMvCaOexhgq8V1Q) | 2:24 | 2023-08-21 | 2023-09-05 |
 | [And There You Were](https://open.spotify.com/track/7drtx97JQqC1zmb8AsrBuN) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [The Coldest Night](https://open.spotify.com/album/4F6VptSeANB6VQidKICIYn) | 2:24 | 2023-10-23 | 2023-11-06 |
 | [And There You Were](https://open.spotify.com/track/7gDVmrb3tdtCRWSkPyg4yP) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Theme For Nils](https://open.spotify.com/album/4yMPsNxmYZMLj9xmaFr59w) | 2:24 | 2023-11-20 | 2023-12-07 |
@@ -177,6 +179,7 @@
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-12-07 | 2022-05-21 |
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-01-18 | 2023-10-05 |
 | [Hope \(Felt\)](https://open.spotify.com/track/21S4oSMiR9K07kurcMTvgv) | [Danilo Stankovic](https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz) | [Evoke](https://open.spotify.com/album/6drwsG0RvJaxNUS0oIz1c4) | 1:52 | 2021-12-07 | 2022-03-18 |
+| [Hope 希望](https://open.spotify.com/track/3urizsCookzGTWmwl5zS3M) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Hope 希望](https://open.spotify.com/album/388eJjJEdCAnY07p4xHRYy) | 3:14 | 2024-01-05 |  |
 | [Horizon](https://open.spotify.com/track/1nQ2WCJTn89CnirpfDHV60) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Horizon](https://open.spotify.com/album/76wQZPok3Inlxf5aSPp9gF) | 2:22 | 2022-06-07 |  |
 | [House In The Woods](https://open.spotify.com/track/3hZO3P3BACp2OyxPStiY98) | [Emanuele Misuraca](https://open.spotify.com/artist/0sxrqx4sOBI30rENSZcv36) | [House In The Woods](https://open.spotify.com/album/6AUgTgfnvSr6XFrin6i3Ly) | 2:45 | 2021-12-07 | 2022-09-21 |
 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 | 2021-12-07 | 2022-06-08 |
@@ -268,6 +271,7 @@
 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 | 2021-12-07 | 2022-04-15 |
 | [Morning Skyline](https://open.spotify.com/track/0W9zDuwcQaRyxk7Z4peRmM) | [Dale Brenan](https://open.spotify.com/artist/3SZHAoiLC6bI4R1Ih2iD5W) | [Morning Skyline](https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs) | 2:29 | 2021-12-07 | 2022-03-17 |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-03-01 |  |
+| [Movement of the Clouds](https://open.spotify.com/track/4tWiogHa4QDJrXk4Ha0h25) | [Saah](https://open.spotify.com/artist/1gu7CrdnoVqZKicUZlyhoa) | [Movement of the Clouds](https://open.spotify.com/album/6wy5uroycQL15o7AgsjiSK) | 2:09 | 2024-01-05 |  |
 | [Mursejler](https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa) | 2:58 | 2021-12-07 | 2022-01-19 |
 | [Musing](https://open.spotify.com/track/05NMGDbC92aC738Rd0vYkX) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Musing](https://open.spotify.com/album/4M9m2atcjqVMBoWF2ibcqU) | 2:34 | 2021-12-07 | 2022-04-15 |
 | [Must](https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Autumn Sessions Watching The Apple Tree](https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A) | 2:46 | 2021-12-07 | 2023-04-19 |
@@ -378,6 +382,7 @@
 | [Sinsonte](https://open.spotify.com/track/4mKFWJLMUWBN7m24TVCPqH) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Ischia](https://open.spotify.com/album/5SZ3jzYbl4SZt0fhs32sw7) | 2:45 | 2023-05-03 |  |
 | [Sketches](https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Sketches](https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS) | 2:37 | 2022-04-14 |  |
 | [Skog](https://open.spotify.com/track/6SO2Oh12IbukgnkeSBOxW9) | [Frode](https://open.spotify.com/artist/6Mnuy8VToSC75uUGCSBqDD) | [Skog](https://open.spotify.com/album/1vDqp9KQA5MfjXeBo7sR4X) | 2:44 | 2021-12-07 | 2023-01-27 |
+| [Skyward](https://open.spotify.com/track/2qFujpWVqfb1kXJaMouLWr) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Skyward](https://open.spotify.com/album/4vSY1jflRK7V4o13WC92f1) | 2:19 | 2024-01-05 |  |
 | [Skärgård](https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Skärgård](https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV) | 2:19 | 2021-12-07 | 2022-08-10 |
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2021-12-07 |  |
 | [So Close](https://open.spotify.com/track/2cQ5XGvt8Yo5sNlvPLWYp3) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [So Close](https://open.spotify.com/album/4sfzGdTKd1DCPLJwktCO3d) | 3:27 | 2023-02-21 | 2023-03-15 |

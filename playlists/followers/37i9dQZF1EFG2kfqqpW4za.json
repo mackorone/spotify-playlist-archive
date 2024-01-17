@@ -1,574 +1,1461 @@
 {
-  "2022-06-05": 269,
-  "2022-06-06": 270,
-  "2022-06-07": 271,
-  "2022-06-08": 271,
-  "2022-06-09": 271,
-  "2022-06-10": 271,
-  "2022-06-11": 271,
-  "2022-06-12": 271,
-  "2022-06-13": 271,
-  "2022-06-14": 271,
-  "2022-06-15": 271,
-  "2022-06-16": 270,
-  "2022-06-17": 271,
-  "2022-06-18": 271,
-  "2022-06-19": 271,
-  "2022-06-20": 271,
-  "2022-06-21": 271,
-  "2022-06-22": 272,
-  "2022-06-23": 272,
-  "2022-06-24": 273,
-  "2022-06-25": 273,
-  "2022-06-26": 273,
-  "2022-06-27": 273,
-  "2022-06-28": 273,
-  "2022-06-29": 273,
-  "2022-06-30": 273,
-  "2022-07-01": 273,
-  "2022-07-02": 273,
-  "2022-07-03": 275,
-  "2022-07-04": 274,
-  "2022-07-05": 274,
-  "2022-07-06": 274,
-  "2022-07-07": 277,
-  "2022-07-08": 277,
-  "2022-07-09": 277,
-  "2022-07-10": 277,
-  "2022-07-11": 277,
-  "2022-07-12": 277,
-  "2022-07-13": 277,
-  "2022-07-14": 277,
-  "2022-07-15": 277,
-  "2022-07-16": 277,
-  "2022-07-17": 277,
-  "2022-07-18": 277,
-  "2022-07-19": 277,
-  "2022-07-20": 278,
-  "2022-07-21": 280,
-  "2022-07-22": 280,
-  "2022-07-23": 280,
-  "2022-07-24": 281,
-  "2022-07-25": 282,
-  "2022-07-26": 283,
-  "2022-07-27": 282,
-  "2022-07-28": 283,
-  "2022-07-29": 283,
-  "2022-07-30": 284,
-  "2022-07-31": 284,
-  "2022-08-01": 284,
-  "2022-08-02": 284,
-  "2022-08-03": 284,
-  "2022-08-04": 284,
-  "2022-08-05": 284,
-  "2022-08-06": 284,
-  "2022-08-07": 285,
-  "2022-08-08": 285,
-  "2022-08-09": 285,
-  "2022-08-10": 285,
-  "2022-08-11": 285,
-  "2022-08-12": 286,
-  "2022-08-13": 286,
-  "2022-08-14": 285,
-  "2022-08-15": 287,
-  "2022-08-16": 288,
-  "2022-08-17": 288,
-  "2022-08-18": 288,
-  "2022-08-19": 288,
-  "2022-08-20": 289,
-  "2022-08-21": 291,
-  "2022-08-22": 292,
-  "2022-08-23": 293,
-  "2022-08-24": 293,
-  "2022-08-25": 296,
-  "2022-08-26": 297,
-  "2022-08-27": 296,
-  "2022-08-28": 296,
-  "2022-08-29": 296,
-  "2022-08-30": 296,
-  "2022-08-31": 297,
-  "2022-09-01": 297,
-  "2022-09-02": 297,
-  "2022-09-03": 297,
-  "2022-09-04": 298,
-  "2022-09-05": 301,
-  "2022-09-06": 302,
-  "2022-09-07": 302,
-  "2022-09-09": 303,
-  "2022-09-10": 302,
-  "2022-09-11": 302,
-  "2022-09-12": 302,
-  "2022-09-13": 302,
-  "2022-09-15": 303,
-  "2022-09-16": 304,
-  "2022-09-17": 305,
-  "2022-09-18": 306,
-  "2022-09-19": 306,
-  "2022-09-20": 306,
-  "2022-09-21": 307,
-  "2022-09-22": 307,
-  "2022-09-23": 307,
-  "2022-09-24": 307,
-  "2022-09-25": 311,
-  "2022-09-26": 312,
-  "2022-09-27": 313,
-  "2022-09-28": 314,
-  "2022-09-29": 314,
-  "2022-09-30": 315,
-  "2022-10-01": 316,
-  "2022-10-02": 317,
-  "2022-10-03": 317,
-  "2022-10-04": 317,
-  "2022-10-05": 319,
-  "2022-10-06": 321,
-  "2022-10-07": 323,
-  "2022-10-08": 326,
-  "2022-10-09": 327,
-  "2022-10-10": 327,
-  "2022-10-11": 327,
-  "2022-10-12": 330,
-  "2022-10-13": 330,
-  "2022-10-14": 331,
-  "2022-10-15": 334,
-  "2022-10-16": 334,
-  "2022-10-17": 335,
-  "2022-10-18": 335,
-  "2022-10-19": 336,
-  "2022-10-20": 337,
-  "2022-10-21": 337,
-  "2022-10-22": 337,
-  "2022-10-23": 337,
-  "2022-10-24": 340,
-  "2022-10-25": 341,
-  "2022-10-26": 342,
-  "2022-10-27": 342,
-  "2022-10-28": 343,
-  "2022-10-29": 343,
-  "2022-10-30": 342,
-  "2022-10-31": 342,
-  "2022-11-01": 342,
-  "2022-11-02": 343,
-  "2022-11-03": 344,
-  "2022-11-04": 344,
-  "2022-11-05": 344,
-  "2022-11-06": 344,
-  "2022-11-07": 344,
-  "2022-11-08": 346,
-  "2022-11-09": 347,
-  "2022-11-10": 348,
-  "2022-11-11": 348,
-  "2022-11-12": 349,
-  "2022-11-13": 349,
-  "2022-11-14": 351,
-  "2022-11-15": 352,
-  "2022-11-16": 353,
-  "2022-11-17": 353,
-  "2022-11-18": 353,
-  "2022-11-19": 353,
-  "2022-11-20": 353,
-  "2022-11-21": 353,
-  "2022-11-22": 354,
-  "2022-11-23": 355,
-  "2022-11-24": 357,
-  "2022-11-25": 358,
-  "2022-11-26": 358,
-  "2022-11-27": 357,
-  "2022-11-28": 358,
-  "2022-11-29": 359,
-  "2022-11-30": 358,
-  "2022-12-01": 358,
-  "2022-12-02": 358,
-  "2022-12-03": 358,
-  "2022-12-04": 358,
-  "2022-12-05": 360,
-  "2022-12-06": 361,
-  "2022-12-07": 361,
-  "2022-12-08": 362,
-  "2022-12-09": 365,
-  "2022-12-10": 365,
-  "2022-12-11": 365,
-  "2022-12-12": 366,
-  "2022-12-13": 366,
-  "2022-12-14": 367,
-  "2022-12-15": 367,
-  "2022-12-16": 367,
-  "2022-12-17": 367,
-  "2022-12-18": 367,
-  "2022-12-19": 368,
-  "2022-12-20": 370,
-  "2022-12-21": 370,
-  "2022-12-22": 371,
-  "2022-12-24": 372,
-  "2022-12-25": 373,
-  "2022-12-26": 373,
-  "2022-12-27": 374,
-  "2022-12-28": 375,
-  "2022-12-29": 375,
-  "2022-12-30": 376,
-  "2022-12-31": 376,
-  "2023-01-01": 377,
-  "2023-01-02": 378,
-  "2023-01-03": 381,
-  "2023-01-04": 381,
-  "2023-01-05": 381,
-  "2023-01-06": 381,
-  "2023-01-07": 381,
-  "2023-01-08": 381,
-  "2023-01-09": 382,
-  "2023-01-10": 382,
-  "2023-01-11": 384,
-  "2023-01-12": 385,
-  "2023-01-13": 387,
-  "2023-01-14": 388,
-  "2023-01-15": 388,
-  "2023-01-16": 388,
-  "2023-01-17": 389,
-  "2023-01-18": 389,
-  "2023-01-19": 389,
-  "2023-01-20": 389,
-  "2023-01-21": 389,
-  "2023-01-22": 389,
-  "2023-01-23": 388,
-  "2023-01-24": 388,
-  "2023-01-25": 389,
-  "2023-01-26": 389,
-  "2023-01-27": 389,
-  "2023-01-28": 388,
-  "2023-01-29": 390,
-  "2023-01-30": 390,
-  "2023-01-31": 390,
-  "2023-02-01": 393,
-  "2023-02-02": 393,
-  "2023-02-03": 393,
-  "2023-02-04": 393,
-  "2023-02-05": 394,
-  "2023-02-06": 393,
-  "2023-02-07": 393,
-  "2023-02-08": 394,
-  "2023-02-09": 394,
-  "2023-02-10": 395,
-  "2023-02-11": 395,
-  "2023-02-12": 396,
-  "2023-02-13": 398,
-  "2023-02-14": 398,
-  "2023-02-15": 398,
-  "2023-02-16": 398,
-  "2023-02-17": 398,
-  "2023-02-18": 398,
-  "2023-02-19": 398,
-  "2023-02-20": 398,
-  "2023-02-21": 398,
-  "2023-02-22": 398,
-  "2023-02-23": 399,
-  "2023-02-24": 401,
-  "2023-02-25": 400,
-  "2023-02-26": 400,
-  "2023-02-27": 401,
-  "2023-02-28": 401,
-  "2023-03-01": 402,
-  "2023-03-02": 402,
-  "2023-03-03": 403,
-  "2023-03-04": 403,
-  "2023-03-05": 405,
-  "2023-03-06": 405,
-  "2023-03-07": 407,
-  "2023-03-08": 407,
-  "2023-03-09": 407,
-  "2023-03-10": 408,
-  "2023-03-11": 409,
-  "2023-03-12": 409,
-  "2023-03-13": 411,
-  "2023-03-14": 411,
-  "2023-03-15": 411,
-  "2023-03-16": 411,
-  "2023-03-17": 411,
-  "2023-03-18": 412,
-  "2023-03-19": 412,
-  "2023-03-20": 413,
-  "2023-03-21": 413,
-  "2023-03-22": 414,
-  "2023-03-23": 413,
-  "2023-03-24": 413,
-  "2023-03-25": 413,
-  "2023-03-26": 413,
-  "2023-03-27": 413,
-  "2023-03-28": 413,
-  "2023-03-29": 414,
-  "2023-03-30": 414,
-  "2023-03-31": 414,
-  "2023-04-01": 414,
-  "2023-04-02": 415,
-  "2023-04-03": 415,
-  "2023-04-04": 416,
-  "2023-04-05": 417,
-  "2023-04-06": 418,
-  "2023-04-07": 418,
-  "2023-04-09": 420,
-  "2023-04-10": 420,
-  "2023-04-11": 421,
-  "2023-04-12": 421,
-  "2023-04-13": 422,
-  "2023-04-14": 423,
-  "2023-04-15": 423,
-  "2023-04-16": 423,
-  "2023-04-17": 423,
-  "2023-04-18": 423,
-  "2023-04-19": 424,
-  "2023-04-20": 424,
-  "2023-04-21": 424,
-  "2023-04-22": 425,
-  "2023-04-23": 425,
-  "2023-04-24": 425,
-  "2023-04-25": 425,
-  "2023-04-26": 424,
-  "2023-04-27": 425,
-  "2023-04-28": 425,
-  "2023-04-29": 425,
-  "2023-04-30": 425,
-  "2023-05-01": 424,
-  "2023-05-02": 426,
-  "2023-05-03": 425,
-  "2023-05-04": 425,
-  "2023-05-05": 425,
-  "2023-05-06": 425,
-  "2023-05-07": 425,
-  "2023-05-08": 425,
-  "2023-05-09": 426,
-  "2023-05-10": 426,
-  "2023-05-11": 426,
-  "2023-05-12": 426,
-  "2023-05-13": 427,
-  "2023-05-14": 428,
-  "2023-05-15": 428,
-  "2023-05-16": 428,
-  "2023-05-17": 428,
-  "2023-05-18": 428,
-  "2023-05-19": 429,
-  "2023-05-20": 429,
-  "2023-05-21": 429,
-  "2023-05-22": 429,
-  "2023-05-23": 430,
-  "2023-05-24": 431,
-  "2023-05-25": 431,
-  "2023-05-26": 431,
-  "2023-05-27": 431,
-  "2023-05-28": 431,
-  "2023-05-29": 431,
-  "2023-05-30": 431,
-  "2023-05-31": 430,
-  "2023-06-01": 430,
-  "2023-06-02": 430,
-  "2023-06-03": 431,
-  "2023-06-04": 431,
-  "2023-06-05": 432,
-  "2023-06-06": 432,
-  "2023-06-07": 432,
-  "2023-06-08": 432,
-  "2023-06-09": 433,
-  "2023-06-10": 433,
-  "2023-06-11": 433,
-  "2023-06-12": 433,
-  "2023-06-13": 434,
-  "2023-06-14": 435,
-  "2023-06-15": 435,
-  "2023-06-16": 435,
-  "2023-06-17": 435,
-  "2023-06-18": 435,
-  "2023-06-19": 435,
-  "2023-06-20": 438,
-  "2023-06-21": 437,
-  "2023-06-22": 437,
-  "2023-06-23": 437,
-  "2023-06-24": 437,
-  "2023-06-25": 437,
-  "2023-06-26": 436,
-  "2023-06-27": 437,
-  "2023-06-28": 438,
-  "2023-06-29": 438,
-  "2023-06-30": 438,
-  "2023-07-01": 439,
-  "2023-07-02": 439,
-  "2023-07-03": 439,
-  "2023-07-04": 439,
-  "2023-07-05": 438,
-  "2023-07-06": 438,
-  "2023-07-07": 438,
-  "2023-07-08": 438,
-  "2023-07-09": 438,
-  "2023-07-10": 438,
-  "2023-07-11": 438,
-  "2023-07-12": 438,
-  "2023-07-13": 438,
-  "2023-07-14": 438,
-  "2023-07-15": 438,
-  "2023-07-16": 438,
-  "2023-07-17": 439,
-  "2023-07-18": 439,
-  "2023-07-19": 440,
-  "2023-07-20": 440,
-  "2023-07-21": 440,
-  "2023-07-22": 440,
-  "2023-07-23": 440,
-  "2023-07-24": 440,
-  "2023-07-25": 440,
-  "2023-07-26": 440,
-  "2023-07-27": 440,
-  "2023-07-28": 440,
-  "2023-07-29": 440,
-  "2023-07-30": 440,
-  "2023-07-31": 441,
-  "2023-08-01": 442,
-  "2023-08-02": 442,
-  "2023-08-03": 444,
-  "2023-08-04": 444,
-  "2023-08-05": 444,
-  "2023-08-06": 445,
-  "2023-08-07": 445,
-  "2023-08-08": 445,
-  "2023-08-09": 445,
-  "2023-08-10": 447,
-  "2023-08-11": 445,
-  "2023-08-12": 445,
-  "2023-08-13": 445,
-  "2023-08-14": 445,
-  "2023-08-15": 445,
-  "2023-08-16": 445,
-  "2023-08-17": 445,
-  "2023-08-18": 445,
-  "2023-08-19": 445,
-  "2023-08-20": 449,
-  "2023-08-21": 449,
-  "2023-08-22": 448,
-  "2023-08-23": 448,
-  "2023-08-24": 448,
-  "2023-08-25": 448,
-  "2023-08-26": 448,
-  "2023-08-27": 448,
-  "2023-08-28": 451,
-  "2023-08-29": 451,
-  "2023-08-30": 451,
-  "2023-08-31": 451,
-  "2023-09-01": 452,
-  "2023-09-02": 452,
-  "2023-09-03": 452,
-  "2023-09-04": 452,
-  "2023-09-05": 452,
-  "2023-09-06": 452,
-  "2023-09-07": 452,
-  "2023-09-08": 452,
-  "2023-09-09": 452,
-  "2023-09-10": 452,
-  "2023-09-11": 452,
-  "2023-09-12": 452,
-  "2023-09-13": 452,
-  "2023-09-14": 452,
-  "2023-09-15": 452,
-  "2023-09-16": 452,
-  "2023-09-17": 452,
-  "2023-09-18": 452,
-  "2023-09-19": 452,
-  "2023-09-20": 452,
-  "2023-09-21": 452,
-  "2023-09-22": 452,
-  "2023-09-23": 452,
-  "2023-09-24": 452,
-  "2023-09-25": 452,
-  "2023-09-26": 457,
-  "2023-09-27": 457,
-  "2023-09-28": 457,
-  "2023-09-29": 457,
-  "2023-09-30": 457,
-  "2023-10-01": 457,
-  "2023-10-02": 457,
-  "2023-10-03": 457,
-  "2023-10-04": 457,
-  "2023-10-05": 457,
-  "2023-10-06": 457,
-  "2023-10-07": 457,
-  "2023-10-08": 457,
-  "2023-10-09": 457,
-  "2023-10-10": 457,
-  "2023-10-11": 457,
-  "2023-10-12": 457,
-  "2023-10-13": 457,
-  "2023-10-14": 457,
-  "2023-10-15": 457,
-  "2023-10-16": 457,
-  "2023-10-17": 457,
-  "2023-10-18": 457,
-  "2023-10-19": 457,
-  "2023-10-20": 457,
-  "2023-10-21": 457,
-  "2023-10-22": 457,
-  "2023-10-23": 457,
-  "2023-10-24": 457,
-  "2023-10-25": 457,
-  "2023-10-26": 457,
-  "2023-10-27": 457,
-  "2023-10-28": 457,
-  "2023-10-29": 457,
-  "2023-10-30": 457,
-  "2023-10-31": 457,
-  "2023-11-01": 457,
-  "2023-11-02": 457,
-  "2023-11-03": 457,
-  "2023-11-04": 457,
-  "2023-11-05": 457,
-  "2023-11-06": 457,
-  "2023-11-07": 457,
-  "2023-11-08": 457,
-  "2023-11-09": 457,
-  "2023-11-10": 457,
-  "2023-11-11": 457,
-  "2023-11-12": 457,
-  "2023-11-13": 457,
-  "2023-11-14": 457,
-  "2023-11-15": 457,
-  "2023-11-16": 457,
-  "2023-11-17": 457,
-  "2023-11-18": 457,
-  "2023-11-19": 457,
-  "2023-11-20": 457,
-  "2023-11-21": 457,
-  "2023-11-22": 457,
-  "2023-11-23": 457,
-  "2023-11-24": 457,
-  "2023-11-25": 457,
-  "2023-11-26": 457,
-  "2023-11-27": 457,
-  "2023-11-28": 457,
-  "2023-11-29": 457,
-  "2023-11-30": 457,
-  "2023-12-01": 457,
-  "2023-12-02": 457,
-  "2023-12-03": 457,
-  "2023-12-04": 457,
-  "2023-12-05": 457,
-  "2023-12-06": 457,
-  "2023-12-07": 457,
-  "2023-12-08": 457,
-  "2023-12-09": 457,
-  "2023-12-10": 457,
-  "2023-12-11": 457,
-  "2023-12-12": 457,
-  "2023-12-13": 457,
-  "2023-12-14": 456,
-  "2023-12-15": 456,
-  "2023-12-16": 456,
-  "2023-12-17": 456,
-  "2023-12-18": 456,
-  "2023-12-19": 456,
-  "2023-12-20": 456,
-  "2023-12-21": 456,
-  "2023-12-22": 456,
-  "2023-12-23": 456,
-  "2023-12-24": 456,
-  "2023-12-25": 456,
-  "2023-12-26": 456,
-  "2023-12-27": 456,
-  "2023-12-30": 456,
-  "2023-12-31": 456,
-  "2024-01-01": 456,
-  "2024-01-02": 456,
-  "2024-01-03": 456
+  "2024-01-17": 456,
+  "date_first_scraped": "2022-06-05",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL\">Helio Bentes</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By Helio Bentes",
+  "tracks": [
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503186,
+      "name": "Ame Sua Miss\u00e3o",
+      "url": "https://open.spotify.com/track/0jERDLXffwCjTU5Td5zIXK"
+    },
+    {
+      "album": {
+        "name": "Amizade Pura",
+        "url": "https://open.spotify.com/album/3zi8PK2lpLMQbyxTwlQwSy"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Punho Forte Rodrigues",
+          "url": "https://open.spotify.com/artist/2oHZ01dSsEw7B9bmyySKGo"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220856,
+      "name": "Amizade Pura",
+      "url": "https://open.spotify.com/track/6PBAUqWSj0HQFOU715kCLj"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248386,
+      "name": "Aonde Vai Chegar (Coisa Feia)",
+      "url": "https://open.spotify.com/track/6v9305hQPLCujklnSmHmrH"
+    },
+    {
+      "album": {
+        "name": "Fraternidade Musical Diamba",
+        "url": "https://open.spotify.com/album/6Kjfm3aWl9mvxQnN3Bnc5M"
+      },
+      "artists": [
+        {
+          "name": "Diamba",
+          "url": "https://open.spotify.com/artist/0LyH0e5DGvDiJTRCwi6EE7"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268822,
+      "name": "Bob Rei",
+      "url": "https://open.spotify.com/track/7kE6fG2ts21dvE5bnBNR2s"
+    },
+    {
+      "album": {
+        "name": "Dia Ap\u00f3s Dia Lutando (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261853,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/5rSSiDtohFEu6Oe5fI54dt"
+    },
+    {
+      "album": {
+        "name": "Conscientiza\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3X1yGrd9u18zMCIBPoKUyI"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172985,
+      "name": "Conscientiza\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2P0WN9HJPPCB2xH7t9g0m8"
+    },
+    {
+      "album": {
+        "name": "Contei At\u00e9 Tr\u00eas",
+        "url": "https://open.spotify.com/album/5BRxDc9TIZAfJHARu6UmHB"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206822,
+      "name": "Contei At\u00e9 Tr\u00eas",
+      "url": "https://open.spotify.com/track/1yE6CxOk6rVVed64AtrStV"
+    },
+    {
+      "album": {
+        "name": "Toque de Amor",
+        "url": "https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148311,
+      "name": "Cultura de Matan\u00e7a",
+      "url": "https://open.spotify.com/track/7ByfYgAEI2OVgTq9YK965q"
+    },
+    {
+      "album": {
+        "name": "Isso n\u00e3o \u00e9 um disco de Rap",
+        "url": "https://open.spotify.com/album/0knkjMsHoNjftzATefGlWs"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 299302,
+      "name": "De Volta para o Passado",
+      "url": "https://open.spotify.com/track/26eDBtsQiZvv80G2a2F0rY"
+    },
+    {
+      "album": {
+        "name": "Deixa Ficar",
+        "url": "https://open.spotify.com/album/7nmLqG8f9B4KjLSPrrfMEz"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Deixa Ficar",
+      "url": "https://open.spotify.com/track/3faTNKg8XnSFYWEc2nYPJJ"
+    },
+    {
+      "album": {
+        "name": "Dias Melhores Vir\u00e3o",
+        "url": "https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI"
+      },
+      "artists": [
+        {
+          "name": "BR Suav",
+          "url": "https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Dias Melhores Vir\u00e3o",
+      "url": "https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo No Rep\u00fablica do Reggae",
+        "url": "https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160216,
+      "name": "Direitos Iguais - Ao Vivo",
+      "url": "https://open.spotify.com/track/576lgcDFg2t2cjcR0JCiSP"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317240,
+      "name": "Ditadura da Televis\u00e3o",
+      "url": "https://open.spotify.com/track/3TXDNilo3IU4gCoIy2ER56"
+    },
+    {
+      "album": {
+        "name": "Sound System Cultura de Rua",
+        "url": "https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO"
+      },
+      "artists": [
+        {
+          "name": "Dub Ataque",
+          "url": "https://open.spotify.com/artist/50WcToXLB33txU8Tse0ITY"
+        },
+        {
+          "name": "Beleza",
+          "url": "https://open.spotify.com/artist/1IDFjigtENXy8rm0h0Uqk3"
+        },
+        {
+          "name": "Rico Neur\u00f3tico",
+          "url": "https://open.spotify.com/artist/5RnbM8vxAn3jHP2sFymsUU"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258124,
+      "name": "Embarque Nesse Trem",
+      "url": "https://open.spotify.com/track/6WeGeYFHvDNbrlc3KI7AIe"
+    },
+    {
+      "album": {
+        "name": "Juntos Somos Fortes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257266,
+      "name": "Estar Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CjxAXmWH4xvBD8lDoVYjE"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/6zBYSYwjKloI2pyFq28fUg"
+    },
+    {
+      "album": {
+        "name": "Familia Ponto",
+        "url": "https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214029,
+      "name": "Familia Ponto",
+      "url": "https://open.spotify.com/track/47VbY3pygnNQ4Ed9vPTwAf"
+    },
+    {
+      "album": {
+        "name": "Essa \u00c9 a Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258253,
+      "name": "Fogo e \u00c1gua",
+      "url": "https://open.spotify.com/track/1b6Vidw42PX4RJWbCFaCQP"
+    },
+    {
+      "album": {
+        "name": "Oriente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287936,
+      "name": "F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5w31BIWkKY6ZiDuWbFMi4M"
+    },
+    {
+      "album": {
+        "name": "Marginal",
+        "url": "https://open.spotify.com/album/69vbtr2KuRwE14nK8LJfEZ"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "H\u00e9lio Bentes",
+          "url": "https://open.spotify.com/artist/6MyzqGUoZwnmflUnI360kp"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191168,
+      "name": "F\u00e9 Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/70DVcAR6igMVrRfBU1GJoM"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/1MwEVNDORoVWJDg6kRqWF3"
+    },
+    {
+      "album": {
+        "name": "Toque de Amor",
+        "url": "https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228187,
+      "name": "Governo Fascista",
+      "url": "https://open.spotify.com/track/0U5mMUpP7b4CljtNlCSCf5"
+    },
+    {
+      "album": {
+        "name": "Governo Fascista",
+        "url": "https://open.spotify.com/album/7kB5aFcZo7i7BUiAe3lW5K"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 228187,
+      "name": "Governo Fascista",
+      "url": "https://open.spotify.com/track/5bz4OxlZFlfYwyupQjgRDf"
+    },
+    {
+      "album": {
+        "name": "Alma de Favela, Pt. 1",
+        "url": "https://open.spotify.com/album/4szKhNy0JgoImu77ygVzL1"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212730,
+      "name": "Guerra Padr\u00e3o",
+      "url": "https://open.spotify.com/track/15ty05GQRXZqpk81ZlttEH"
+    },
+    {
+      "album": {
+        "name": "Alma de Favela, Pt. 1",
+        "url": "https://open.spotify.com/album/1YDg3SMhbLl0l0kZs2u6ih"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "DoisP",
+          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Shawlin",
+          "url": "https://open.spotify.com/artist/21ebZl1YQNDiLcWYhgecph"
+        },
+        {
+          "name": "Beleza",
+          "url": "https://open.spotify.com/artist/1IDFjigtENXy8rm0h0Uqk3"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
+      "duration_ms": 212730,
+      "name": "Guerra Padr\u00e3o",
+      "url": "https://open.spotify.com/track/5QUM9N6kRbGnZhx5wTaMtD"
+    },
+    {
+      "album": {
+        "name": "The Next Generation",
+        "url": "https://open.spotify.com/album/5BBPScdAMExDroIsn0q2Y6"
+      },
+      "artists": [
+        {
+          "name": "Groundation",
+          "url": "https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p"
+        },
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342093,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Tzk7V1dSVQB3qmOa0WMmg"
+    },
+    {
+      "album": {
+        "name": "Juntos Somos Fortes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192746,
+      "name": "Introdu\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "Jah Jah Me Leve",
+      "url": "https://open.spotify.com/track/4ypqT6MRc3FmLWJXQ7XGNZ"
+    },
+    {
+      "album": {
+        "name": "Infinito Interno",
+        "url": "https://open.spotify.com/album/7gibqU8NtLuvNfAflMqZj3"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 211000,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/1M7yF8dbLikWqvNMdMcLfR"
+    },
+    {
+      "album": {
+        "name": "Infinito Interno",
+        "url": "https://open.spotify.com/album/2cVakOBVsLn6mJFLL0ZBo5"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Liberdade (feat. Ponto De Equil\u00edbrio)",
+      "url": "https://open.spotify.com/track/034PgluVteDQlzkkUwcUC1"
+    },
+    {
+      "album": {
+        "name": "Toque de Amor",
+        "url": "https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Hollie Cook",
+          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193638,
+      "name": "Longe",
+      "url": "https://open.spotify.com/track/4DWfECBAfHMuTpw2NkVHTm"
+    },
+    {
+      "album": {
+        "name": "Assim Tocam os MEUS TAMBORES",
+        "url": "https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128468,
+      "name": "MALUNGOFORTE.",
+      "url": "https://open.spotify.com/track/2v3z1JTUBw1UpsLRa3H6Cm"
+    },
+    {
+      "album": {
+        "name": "Martim de S\u00e1",
+        "url": "https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 237328,
+      "name": "Martim de S\u00e1",
+      "url": "https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp"
+    },
+    {
+      "album": {
+        "name": "Toque de Amor",
+        "url": "https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237328,
+      "name": "Martim de S\u00e1",
+      "url": "https://open.spotify.com/track/5FASTworUcU7zslxYvJRWQ"
+    },
+    {
+      "album": {
+        "name": "Sound System Cultura de Rua",
+        "url": "https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pinguim",
+          "url": "https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204124,
+      "name": "Minha Sina",
+      "url": "https://open.spotify.com/track/4iImTv3CFPEL2KKg0UzB2k"
+    },
+    {
+      "album": {
+        "name": "Quimera",
+        "url": "https://open.spotify.com/album/2s6Xis30Leau0FHqOgpWl4"
+      },
+      "artists": [
+        {
+          "name": "Adonai",
+          "url": "https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267520,
+      "name": "Minha Trilha",
+      "url": "https://open.spotify.com/track/4mHxl3TuQz1MuHzKD06Ddx"
+    },
+    {
+      "album": {
+        "name": "Juntos Somos Fortes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455840,
+      "name": "Movimento Africano (Africa Ii) - Ao Vivo",
+      "url": "https://open.spotify.com/track/17eUPdplHPmzoMJsdyfc68"
+    },
+    {
+      "album": {
+        "name": "Dia Ap\u00f3s Dia Lutando (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374946,
+      "name": "M\u00fasica de Jah",
+      "url": "https://open.spotify.com/track/1BCKW27GHBzcNxmNOOXcKL"
+    },
+    {
+      "album": {
+        "name": "Familia Ponto",
+        "url": "https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180821,
+      "name": "Na Fun\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1Qc88QWBkD4Ot1nwSKhJNt"
+    },
+    {
+      "album": {
+        "name": "Sound System Cultura de Rua",
+        "url": "https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pinguim",
+          "url": "https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "No Guanxa",
+      "url": "https://open.spotify.com/track/2kdNjxTDo5gXu5ySnzeNMK"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300773,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5rKCM8XNjePhS9srpKPWYm"
+    },
+    {
+      "album": {
+        "name": "Novo Governo",
+        "url": "https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Novo Governo",
+      "url": "https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50960,
+      "name": "Nyah",
+      "url": "https://open.spotify.com/track/4RxYyH7ZGRPzoMUN1lyriz"
+    },
+    {
+      "album": {
+        "name": "Dia Ap\u00f3s Dia Lutando (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376106,
+      "name": "O Que Eu Vejo",
+      "url": "https://open.spotify.com/track/50XJtud3nYzfPcXblqtvXo"
+    },
+    {
+      "album": {
+        "name": "Deus \u00c9 Brasileiro",
+        "url": "https://open.spotify.com/album/43lX3jomJ4z9s5lLEG8qcC"
+      },
+      "artists": [
+        {
+          "name": "Rod 3030",
+          "url": "https://open.spotify.com/artist/44C21oZdrybmbaepup96M2"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170261,
+      "name": "O Que Se Leva (D\u00f3i)",
+      "url": "https://open.spotify.com/track/0HKA4jKMfPOZ3dPWIlEzzv"
+    },
+    {
+      "album": {
+        "name": "Essa \u00c9 a Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250933,
+      "name": "Peleja",
+      "url": "https://open.spotify.com/track/4Neb2puA95voedjmiOjFax"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399333,
+      "name": "Ponto de Equil\u00edbrio",
+      "url": "https://open.spotify.com/track/7tUfJp5VuYgrp8dsJvPet1"
+    },
+    {
+      "album": {
+        "name": "Pra Minha Gente",
+        "url": "https://open.spotify.com/album/0bhN1xHWCtB4eYus8Z4iMl"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177478,
+      "name": "Pra Minha Gente",
+      "url": "https://open.spotify.com/track/7oxAoeLVwKwm6TfEOM40qJ"
+    },
+    {
+      "album": {
+        "name": "Blessed Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 199395,
+      "name": "Pra Minha Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vnPHCB31rXkIgSinhWPKk"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531920,
+      "name": "Profeta Rei",
+      "url": "https://open.spotify.com/track/301wtMedruaqRQELl0MKa2"
+    },
+    {
+      "album": {
+        "name": "Paz, Amor e Grave",
+        "url": "https://open.spotify.com/album/6ZhFba7CkCVfbeRjLGpFrq"
+      },
+      "artists": [
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+        },
+        {
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "Rasta Souljah",
+      "url": "https://open.spotify.com/track/5q4E9o6Ub84UMkOLZ5wt7M"
+    },
+    {
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411653,
+      "name": "Rastafar\u00e1",
+      "url": "https://open.spotify.com/track/48bFWkHuuedYpZVdYHNQjd"
+    },
+    {
+      "album": {
+        "name": "Dia Ap\u00f3s Dia Lutando (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Jorge Du Peixe",
+          "url": "https://open.spotify.com/artist/2yS2oUDkJ9M5xdCZLjnzL8"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306933,
+      "name": "Reggae de Terreiro (Ci\u00eancia do Quintal)",
+      "url": "https://open.spotify.com/track/5VdkYKtQEESduHKaxG0hpV"
+    },
+    {
+      "album": {
+        "name": "Umdo12",
+        "url": "https://open.spotify.com/album/2VX0QaEXZ1anH1qmDwtsTb"
+      },
+      "artists": [
+        {
+          "name": "Cidade Verde Sounds",
+          "url": "https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8"
+        },
+        {
+          "name": "Ponto de Equilibrio",
+          "url": "https://open.spotify.com/artist/24vCRM3DTk0dHHYWauHQgP"
+        },
+        {
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/6hF6yb91Dbn3ABBdIe7wzs"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284803,
+      "name": "Reggae Music",
+      "url": "https://open.spotify.com/track/1axmOCUx5Dtl5805dnGvsx"
+    },
+    {
+      "album": {
+        "name": "Reggae Music, Part. 2",
+        "url": "https://open.spotify.com/album/034z5UZvukEOwvQM5Bbf6a"
+      },
+      "artists": [
+        {
+          "name": "Cidade Verde Sounds",
+          "url": "https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8"
+        },
+        {
+          "name": "Adonai",
+          "url": "https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        },
+        {
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226843,
+      "name": "Reggae Music, Part. 2",
+      "url": "https://open.spotify.com/track/5LAGe0KdxSBOdMneQmtkIP"
+    },
+    {
+      "album": {
+        "name": "Resist\u00eancia Cultural",
+        "url": "https://open.spotify.com/album/4YnzwmMZE8Pcd9U5kTMu3J"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Siba",
+          "url": "https://open.spotify.com/artist/3pSjX0aHM20q9I5OGUGcGZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224253,
+      "name": "Resist\u00eancia Cultural",
+      "url": "https://open.spotify.com/track/5f05BJ7pVnjPkKgl3ScmB6"
+    },
+    {
+      "album": {
+        "name": "Semente da Cura",
+        "url": "https://open.spotify.com/album/1I99YzDXHjfeKTf5qnP4UQ"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Jhayam",
+          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226673,
+      "name": "Semente da Cura",
+      "url": "https://open.spotify.com/track/1ZKqtdOXOzH3tCewYqMODU"
+    },
+    {
+      "album": {
+        "name": "Insolente",
+        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
+      },
+      "artists": [
+        {
+          "name": "Marcelinho Da Lua",
+          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249729,
+      "name": "Sensei (feat. Helio Bentes)",
+      "url": "https://open.spotify.com/track/4kjoUxNNSVcCUYOQk0we84"
+    },
+    {
+      "album": {
+        "name": "Essa \u00c9 a Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237108,
+      "name": "Seu Jogo",
+      "url": "https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202614,
+      "name": "Sintonizando",
+      "url": "https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q"
+    },
+    {
+      "album": {
+        "name": "Soy Latino",
+        "url": "https://open.spotify.com/album/4vpU0mnMhhUpi4crJhWiFN"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233467,
+      "name": "Soy Latino",
+      "url": "https://open.spotify.com/track/08W016xoCPlcEFCfcbZg1n"
+    },
+    {
+      "album": {
+        "name": "Blessed Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3SZpPJ4BclnxE9xsquF8O5"
+      },
+      "artists": [
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192317,
+      "name": "Sujeito Que Trabalha - Ao Vivo",
+      "url": "https://open.spotify.com/track/223LpIUBk8JbVU4gyal37f"
+    },
+    {
+      "album": {
+        "name": "Tempos de Escola (feat. Ponto De Equil\u00edbrio)",
+        "url": "https://open.spotify.com/album/5I9kknvTmA4mxOlA4hTtxJ"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "Dimme Roots",
+          "url": "https://open.spotify.com/artist/4TNnhByA0EyFuJojfULhkz"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        },
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327529,
+      "name": "Tempos de Escola (feat. Ponto De Equil\u00edbrio)",
+      "url": "https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ"
+    },
+    {
+      "album": {
+        "name": "15 Anos - Ao Vivo na Vila Madalena",
+        "url": "https://open.spotify.com/album/7xE7jx2uzO77Ml4f7Ml3Kf"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293146,
+      "name": "Um Novo Amanhecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/0yMFy59oKCccLsr3WvwsYZ"
+    },
+    {
+      "album": {
+        "name": "Planta e Raiz no Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1WWkbeVJxqyVgfRemIBZjY"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 238096,
+      "name": "Um Novo Amanhecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/0quexAwNw8E8AUjJAGdLlf"
+    },
+    {
+      "album": {
+        "name": "Vai Chover (feat. H\u00e9lio Bentes)",
+        "url": "https://open.spotify.com/album/0ZZgbUKueaqhby8yWBWw9A"
+      },
+      "artists": [
+        {
+          "name": "Dow Raiz",
+          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270025,
+      "name": "Vai Chover (feat. H\u00e9lio Bentes)",
+      "url": "https://open.spotify.com/track/0O9Wam7EZ2REfiZyZ5oL8K"
+    },
+    {
+      "album": {
+        "name": "Juntos Somos Fortes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368346,
+      "name": "Vila Isabel - Ao Vivo",
+      "url": "https://open.spotify.com/track/3cT0DDyPdYholSzngXTOrw"
+    },
+    {
+      "album": {
+        "name": "Essa \u00c9 a Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210361,
+      "name": "Vou Me Tacar",
+      "url": "https://open.spotify.com/track/30drSvFpGQLk20Ixd0rTkG"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFG2kfqqpW4za"
 }

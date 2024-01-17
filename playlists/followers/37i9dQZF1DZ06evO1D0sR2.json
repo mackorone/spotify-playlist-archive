@@ -1,275 +1,2631 @@
 {
-  "2023-04-03": 1283,
-  "2023-04-04": 1286,
-  "2023-04-05": 1292,
-  "2023-04-06": 1300,
-  "2023-04-07": 1303,
-  "2023-04-09": 1316,
-  "2023-04-10": 1320,
-  "2023-04-11": 1331,
-  "2023-04-12": 1331,
-  "2023-04-13": 1335,
-  "2023-04-14": 1338,
-  "2023-04-15": 1347,
-  "2023-04-16": 1355,
-  "2023-04-17": 1361,
-  "2023-04-18": 1364,
-  "2023-04-19": 1368,
-  "2023-04-20": 1371,
-  "2023-04-21": 1378,
-  "2023-04-22": 1381,
-  "2023-04-23": 1387,
-  "2023-04-24": 1395,
-  "2023-04-25": 1401,
-  "2023-04-26": 1406,
-  "2023-04-27": 1412,
-  "2023-04-28": 1415,
-  "2023-04-29": 1417,
-  "2023-04-30": 1421,
-  "2023-05-01": 1426,
-  "2023-05-02": 1430,
-  "2023-05-03": 1438,
-  "2023-05-04": 1445,
-  "2023-05-05": 1454,
-  "2023-05-06": 1457,
-  "2023-05-07": 1466,
-  "2023-05-08": 1474,
-  "2023-05-09": 1480,
-  "2023-05-10": 1483,
-  "2023-05-11": 1492,
-  "2023-05-12": 1497,
-  "2023-05-13": 1505,
-  "2023-05-14": 1507,
-  "2023-05-15": 1509,
-  "2023-05-16": 1513,
-  "2023-05-17": 1515,
-  "2023-05-18": 1520,
-  "2023-05-19": 1524,
-  "2023-05-20": 1533,
-  "2023-05-21": 1533,
-  "2023-05-22": 1533,
-  "2023-05-23": 1547,
-  "2023-05-24": 1557,
-  "2023-05-25": 1559,
-  "2023-05-26": 1560,
-  "2023-05-27": 1562,
-  "2023-05-28": 1565,
-  "2023-05-29": 1565,
-  "2023-05-30": 1572,
-  "2023-05-31": 1579,
-  "2023-06-01": 1586,
-  "2023-06-02": 1594,
-  "2023-06-03": 1598,
-  "2023-06-04": 1601,
-  "2023-06-05": 1604,
-  "2023-06-06": 1606,
-  "2023-06-07": 1613,
-  "2023-06-08": 1614,
-  "2023-06-09": 1620,
-  "2023-06-10": 1624,
-  "2023-06-11": 1625,
-  "2023-06-12": 1628,
-  "2023-06-13": 1632,
-  "2023-06-14": 1636,
-  "2023-06-15": 1640,
-  "2023-06-16": 1648,
-  "2023-06-17": 1655,
-  "2023-06-18": 1658,
-  "2023-06-19": 1661,
-  "2023-06-20": 1669,
-  "2023-06-21": 1669,
-  "2023-06-22": 1674,
-  "2023-06-23": 1679,
-  "2023-06-24": 1682,
-  "2023-06-25": 1685,
-  "2023-06-26": 1691,
-  "2023-06-27": 1692,
-  "2023-06-28": 1699,
-  "2023-06-29": 1706,
-  "2023-06-30": 1709,
-  "2023-07-01": 1714,
-  "2023-07-02": 1714,
-  "2023-07-03": 1718,
-  "2023-07-04": 1723,
-  "2023-07-05": 1727,
-  "2023-07-06": 1737,
-  "2023-07-07": 1737,
-  "2023-07-08": 1741,
-  "2023-07-09": 1747,
-  "2023-07-10": 1748,
-  "2023-07-11": 1755,
-  "2023-07-12": 1760,
-  "2023-07-13": 1766,
-  "2023-07-14": 1775,
-  "2023-07-15": 1773,
-  "2023-07-16": 1778,
-  "2023-07-17": 1783,
-  "2023-07-18": 1786,
-  "2023-07-19": 1789,
-  "2023-07-20": 1791,
-  "2023-07-21": 1792,
-  "2023-07-22": 1793,
-  "2023-07-23": 1797,
-  "2023-07-24": 1801,
-  "2023-07-25": 1810,
-  "2023-07-26": 1811,
-  "2023-07-27": 1818,
-  "2023-07-28": 1826,
-  "2023-07-29": 1832,
-  "2023-07-30": 1836,
-  "2023-07-31": 1841,
-  "2023-08-01": 1847,
-  "2023-08-02": 1849,
-  "2023-08-03": 1851,
-  "2023-08-04": 1856,
-  "2023-08-05": 1861,
-  "2023-08-06": 1865,
-  "2023-08-07": 1865,
-  "2023-08-08": 1868,
-  "2023-08-09": 1875,
-  "2023-08-10": 1877,
-  "2023-08-11": 1884,
-  "2023-08-12": 1884,
-  "2023-08-13": 1884,
-  "2023-08-14": 1893,
-  "2023-08-15": 1893,
-  "2023-08-16": 1893,
-  "2023-08-17": 1901,
-  "2023-08-18": 1901,
-  "2023-08-19": 1901,
-  "2023-08-20": 1917,
-  "2023-08-21": 1917,
-  "2023-08-22": 1930,
-  "2023-08-23": 1930,
-  "2023-08-24": 1936,
-  "2023-08-25": 1936,
-  "2023-08-26": 1946,
-  "2023-08-27": 1946,
-  "2023-08-28": 1954,
-  "2023-08-29": 1954,
-  "2023-08-30": 1954,
-  "2023-08-31": 1962,
-  "2023-09-01": 1966,
-  "2023-09-02": 1966,
-  "2023-09-03": 1970,
-  "2023-09-04": 1970,
-  "2023-09-05": 1970,
-  "2023-09-06": 1983,
-  "2023-09-07": 1983,
-  "2023-09-08": 1983,
-  "2023-09-09": 1983,
-  "2023-09-10": 1997,
-  "2023-09-11": 1997,
-  "2023-09-12": 1997,
-  "2023-09-13": 2007,
-  "2023-09-14": 2007,
-  "2023-09-15": 2007,
-  "2023-09-16": 2017,
-  "2023-09-17": 2017,
-  "2023-09-18": 2017,
-  "2023-09-19": 2029,
-  "2023-09-20": 2029,
-  "2023-09-21": 2029,
-  "2023-09-22": 2034,
-  "2023-09-23": 2034,
-  "2023-09-24": 2034,
-  "2023-09-25": 2034,
-  "2023-09-26": 2047,
-  "2023-09-27": 2047,
-  "2023-09-28": 2047,
-  "2023-09-29": 2047,
-  "2023-09-30": 2047,
-  "2023-10-01": 2047,
-  "2023-10-02": 2065,
-  "2023-10-03": 2065,
-  "2023-10-04": 2065,
-  "2023-10-05": 2072,
-  "2023-10-06": 2076,
-  "2023-10-07": 2076,
-  "2023-10-08": 2076,
-  "2023-10-09": 2076,
-  "2023-10-10": 2076,
-  "2023-10-11": 2101,
-  "2023-10-12": 2101,
-  "2023-10-13": 2101,
-  "2023-10-14": 2101,
-  "2023-10-15": 2101,
-  "2023-10-16": 2101,
-  "2023-10-17": 2101,
-  "2023-10-18": 2101,
-  "2023-10-19": 2101,
-  "2023-10-20": 2101,
-  "2023-10-21": 2101,
-  "2023-10-22": 2101,
-  "2023-10-23": 2101,
-  "2023-10-24": 2101,
-  "2023-10-25": 2101,
-  "2023-10-26": 2101,
-  "2023-10-27": 2101,
-  "2023-10-28": 2101,
-  "2023-10-29": 2101,
-  "2023-10-30": 2101,
-  "2023-10-31": 2101,
-  "2023-11-01": 2101,
-  "2023-11-02": 2101,
-  "2023-11-03": 2101,
-  "2023-11-04": 2101,
-  "2023-11-05": 2101,
-  "2023-11-06": 2101,
-  "2023-11-07": 2101,
-  "2023-11-08": 2101,
-  "2023-11-09": 2101,
-  "2023-11-10": 2101,
-  "2023-11-11": 2190,
-  "2023-11-12": 2190,
-  "2023-11-13": 2190,
-  "2023-11-14": 2190,
-  "2023-11-15": 2190,
-  "2023-11-16": 2190,
-  "2023-11-17": 2190,
-  "2023-11-18": 2190,
-  "2023-11-19": 2190,
-  "2023-11-20": 2190,
-  "2023-11-21": 2190,
-  "2023-11-22": 2190,
-  "2023-11-23": 2190,
-  "2023-11-24": 2190,
-  "2023-11-25": 2190,
-  "2023-11-26": 2190,
-  "2023-11-27": 2190,
-  "2023-11-28": 2190,
-  "2023-11-29": 2190,
-  "2023-11-30": 2190,
-  "2023-12-01": 2190,
-  "2023-12-02": 2190,
-  "2023-12-03": 2190,
-  "2023-12-04": 2190,
-  "2023-12-05": 2190,
-  "2023-12-06": 2190,
-  "2023-12-07": 2190,
-  "2023-12-08": 2190,
-  "2023-12-09": 2190,
-  "2023-12-10": 2190,
-  "2023-12-11": 2190,
-  "2023-12-12": 2190,
-  "2023-12-13": 2190,
-  "2023-12-14": 2265,
-  "2023-12-15": 2266,
-  "2023-12-16": 2270,
-  "2023-12-17": 2270,
-  "2023-12-18": 2271,
-  "2023-12-19": 2273,
-  "2023-12-20": 2271,
-  "2023-12-21": 2272,
-  "2023-12-22": 2274,
-  "2023-12-23": 2276,
-  "2023-12-24": 2277,
-  "2023-12-25": 2277,
-  "2023-12-26": 2284,
-  "2023-12-27": 2284,
-  "2023-12-30": 2291,
-  "2023-12-31": 2293,
-  "2024-01-01": 2295,
-  "2024-01-02": 2296,
-  "2024-01-03": 2301
+  "2024-01-17": 2342,
+  "date_first_scraped": "2023-04-03",
+  "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
+  "name": "This Is JJ Hairston",
+  "tracks": [
+    {
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 400040,
+      "name": "After This",
+      "url": "https://open.spotify.com/track/4grDi6GUJyv75EXDgLtTFR"
+    },
+    {
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400040,
+      "name": "After This",
+      "url": "https://open.spotify.com/track/729ts9ozZsJrALyWt42wHl"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Greg Kirkland, Jr.",
+          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 209467,
+      "name": "Agnus Dei - Live",
+      "url": "https://open.spotify.com/track/0MeSdoTPF88Emvso920Ks3"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 423386,
+      "name": "All Things Well",
+      "url": "https://open.spotify.com/track/0MBjh1IcyvFnW6yM6eqrTw"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Cristabel Clack",
+          "url": "https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421772,
+      "name": "All You've Done (feat. Cristabel Clack)",
+      "url": "https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 402946,
+      "name": "Awe Of You",
+      "url": "https://open.spotify.com/track/3UE3PKuOjDVvlPDpTS6zL0"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Janae Jones",
+          "url": "https://open.spotify.com/artist/4K2TNeHfSnwwGGSXRNgnE3"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 276565,
+      "name": "Awe Of You - Live",
+      "url": "https://open.spotify.com/track/1iduvmXLm3RmgslVjtriGb"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210181,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/5HJcOzXFjHpmCqM87Fx82Y"
+    },
+    {
+      "album": {
+        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Donishisa Ballard",
+          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502359,
+      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
+    },
+    {
+      "album": {
+        "name": "Bless Me - Single",
+        "url": "https://open.spotify.com/album/7AznLyaRwJ4nID1raGxDl3"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282407,
+      "name": "Bless Me (Radio Edit)",
+      "url": "https://open.spotify.com/track/46tpVPXWb0mbpDPkKUeghV"
+    },
+    {
+      "album": {
+        "name": "Bless Me - Single",
+        "url": "https://open.spotify.com/album/6qPJq5MeSXYBn2Qbzv3Pwq"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 282407,
+      "name": "Bless Me (Radio Edit)",
+      "url": "https://open.spotify.com/track/4nXvYn84uDDWEKbxl9LUr5"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 340431,
+      "name": "Blood Still Works",
+      "url": "https://open.spotify.com/track/2l7LrQJOGMCckAWrB7R9BW"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340431,
+      "name": "Blood Still Works",
+      "url": "https://open.spotify.com/track/5udnzt45TCAMZDwwV9C822"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159700,
+      "name": "Deliver",
+      "url": "https://open.spotify.com/track/2CXdxm5hSdb8zjEZpJ9E6L"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 159700,
+      "name": "Deliver",
+      "url": "https://open.spotify.com/track/60N5ftFz1BIGuiPIzd6HEi"
+    },
+    {
+      "album": {
+        "name": "Tribl Nights Anthologies",
+        "url": "https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 1183456,
+      "name": "Don't Take Your Spirit from Me (feat. J.J Hairston)",
+      "url": "https://open.spotify.com/track/5XD2YHpvwTvex4FDkC5fTC"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 390819,
+      "name": "Easy For You (feat. Travis Greene)",
+      "url": "https://open.spotify.com/track/75rcxhcDgGt1xyOq1uWALU"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Leah Leach",
+          "url": "https://open.spotify.com/artist/2jm2SBvvg6DQbnYLKIBOFi"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 356360,
+      "name": "Everything For Me - Live",
+      "url": "https://open.spotify.com/track/5XlXz9LNA5ka6EVrqqILCz"
+    },
+    {
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413533,
+      "name": "Everything Is Changed - Live",
+      "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
+    },
+    {
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 413533,
+      "name": "Everything Is Changed - Live",
+      "url": "https://open.spotify.com/track/3ujpHjc3LJV2wEusG3ZbnK"
+    },
+    {
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507376,
+      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
+      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 507400,
+      "name": "Excess Love - Live",
+      "url": "https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL"
+    },
+    {
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 320813,
+      "name": "Freedom - Live",
+      "url": "https://open.spotify.com/track/0pqpxYdXsCtr4Y6NSP5XkK"
+    },
+    {
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 444480,
+      "name": "Glory and Honor - Live",
+      "url": "https://open.spotify.com/track/2VnwRGiEw2SeTngorS7baF"
+    },
+    {
+      "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Marc Britt",
+          "url": "https://open.spotify.com/artist/7d6Y21mEawoZK7cVQrIHcv"
+        },
+        {
+          "name": "Juanita Contee",
+          "url": "https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 285895,
+      "name": "Glory Hallelujah (feat. Marc Britt, Juanita Contee & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/0CWWp9H73xWHC9Jxr9HKXZ"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Juanita Contee",
+          "url": "https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 443100,
+      "name": "Go Tell It - Live",
+      "url": "https://open.spotify.com/track/5vgL21D2JHQgHQlzmfM8cB"
+    },
+    {
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Minon Bolton",
+          "url": "https://open.spotify.com/artist/4acSbx1kkLmISWWAp6MgEC"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473893,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/17JFCuaVADnXtNWZ9P3sUN"
+    },
+    {
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Minon Bolton",
+          "url": "https://open.spotify.com/artist/4acSbx1kkLmISWWAp6MgEC"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 473893,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/1qpQQOaWg21SQvLm7AUOx7"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 195920,
+      "name": "Great Is Our God",
+      "url": "https://open.spotify.com/track/7kMkFoMu1LnB4TiLRlnzkP"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Capria McClearn",
+          "url": "https://open.spotify.com/artist/74YJpV6kEtx5uvhF8J0LgG"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 537350,
+      "name": "Great Jehovah",
+      "url": "https://open.spotify.com/track/0M5N12m9GsQtvZIYtAhVSE"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Capria McClearn",
+          "url": "https://open.spotify.com/artist/74YJpV6kEtx5uvhF8J0LgG"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537350,
+      "name": "Great Jehovah",
+      "url": "https://open.spotify.com/track/10YvnsJrmC4DOCoPaUZBnW"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Benita Jones",
+          "url": "https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 448920,
+      "name": "Have Your Way - Live",
+      "url": "https://open.spotify.com/track/0r47HAs8zj5YM6XbXeXCax"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Benita Jones",
+          "url": "https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448920,
+      "name": "Have Your Way - Live",
+      "url": "https://open.spotify.com/track/6PvPytwKH5xJ68tVbolnMI"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 251711,
+      "name": "He Is Exalted / Give You Praise",
+      "url": "https://open.spotify.com/track/2MnaSz3QTwL9eHEPVBw8OT"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 251711,
+      "name": "He Is Exalted / Give You Praise",
+      "url": "https://open.spotify.com/track/3lqy8cGc1d2cP93uwl0vNy"
+    },
+    {
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351906,
+      "name": "He Is Exalted / Give You Praise - Live",
+      "url": "https://open.spotify.com/track/036LRl5m776cj31pgv49Wt"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104160,
+      "name": "He Loves Us - Live",
+      "url": "https://open.spotify.com/track/1TeuVFbHkHJMHebfgUUUUw"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 104160,
+      "name": "He Loves Us - Live",
+      "url": "https://open.spotify.com/track/7rmV0wpzKwiPG4k4ubtqmB"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 342773,
+      "name": "He Reigns",
+      "url": "https://open.spotify.com/track/3FmNXTHeyKnZ0NqWMxtzGE"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342773,
+      "name": "He Reigns",
+      "url": "https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Donishisa Ballard",
+          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 647994,
+      "name": "He Shall Reign Forevermore - Live",
+      "url": "https://open.spotify.com/track/2DHiJ8ETKsHfSm4Pb6WHeH"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Chris House",
+          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 552369,
+      "name": "I Am Thankful",
+      "url": "https://open.spotify.com/track/0p0tFR1OuBkWOrsb6SbvaW"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Chris House",
+          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552369,
+      "name": "I Am Thankful",
+      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/5O3FSEZyqMTsQi0RQlJLV3"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 417773,
+      "name": "I Feel You Moving",
+      "url": "https://open.spotify.com/track/5Ak7GmSRaZc5OdUPR21gK5"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/5O3FSEZyqMTsQi0RQlJLV3"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417773,
+      "name": "I Feel You Moving",
+      "url": "https://open.spotify.com/track/7Ato921tLj55ni6itcAT7T"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 384053,
+      "name": "Incredible God, Incredible Praise",
+      "url": "https://open.spotify.com/track/0rYomLmotFCWmI4QNWKcLc"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384053,
+      "name": "Incredible God, Incredible Praise",
+      "url": "https://open.spotify.com/track/7DofgGYhqGmNJeBiNae93O"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Zebulon Ellis",
+          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 267626,
+      "name": "It Pushed Me",
+      "url": "https://open.spotify.com/track/6cYkmwwUiukP69vckx4fBH"
+    },
+    {
+      "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 767375,
+      "name": "It Shall Be Done (feat. David Wilford)",
+      "url": "https://open.spotify.com/track/1nCSH0ZQgfCkyMc96J5E6a"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Leah Leach",
+          "url": "https://open.spotify.com/artist/2jm2SBvvg6DQbnYLKIBOFi"
+        },
+        {
+          "name": "Shavance Stephens",
+          "url": "https://open.spotify.com/artist/5kpvwgzWJwAVV2EfuoLv3H"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490395,
+      "name": "It Will Always Be You (feat. Shavance Stephens, Leah Leach & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/6TbZNuPoUug1bpviurkKlH"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Demarcus Kelly",
+          "url": "https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf"
+        },
+        {
+          "name": "JaNae Jones",
+          "url": "https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292276,
+      "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
+      "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
+    },
+    {
+      "album": {
+        "name": "A Month of Sundays",
+        "url": "https://open.spotify.com/album/6GPwNqo4wJrrsy3DPv94jR"
+      },
+      "artists": [
+        {
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+        },
+        {
+          "name": "The Full Gospel Ministry of Worship",
+          "url": "https://open.spotify.com/artist/1m9u6bfLWyFzDsV3zK0MTV"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Qualesia Bullard",
+          "url": "https://open.spotify.com/artist/19rxFrAwaCoWofbDs7RTj1"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395652,
+      "name": "It's My Season",
+      "url": "https://open.spotify.com/track/4FHDNt3b9Mmcn5IPp6GYTu"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Brittney Wright",
+          "url": "https://open.spotify.com/artist/1gJGPbLdPxg4GHQ7InK8Gw"
+        },
+        {
+          "name": "Phillip Bryant",
+          "url": "https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k"
+        },
+        {
+          "name": "Pocket Of Hope",
+          "url": "https://open.spotify.com/artist/6l2vPgjeinkte8p5r6zqKc"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402892,
+      "name": "It's Still Hallelujah (feat. Brittney Wright, Phil Bryant, Pocket of Hope & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/6JGkcnUVNf4gf2xCgJNgdg"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Kymberli Ragin",
+          "url": "https://open.spotify.com/artist/2GARMpihMkkxbZWe6dZsAz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451182,
+      "name": "Joy To The World - Live",
+      "url": "https://open.spotify.com/track/3E2S2JOoKfYv8Mfa9MaINp"
+    },
+    {
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 378733,
+      "name": "Lord Of All",
+      "url": "https://open.spotify.com/track/3VPNJTtjcAhH1QKRZVUGJI"
+    },
+    {
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378733,
+      "name": "Lord Of All",
+      "url": "https://open.spotify.com/track/7uTHmhmXrgUyv9mqG30Mcv"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330558,
+      "name": "Lord You're Mighty",
+      "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 330558,
+      "name": "Lord You're Mighty",
+      "url": "https://open.spotify.com/track/607XQBuIdZpkhchwqQP9rG"
+    },
+    {
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 460413,
+      "name": "Love Lifted Me",
+      "url": "https://open.spotify.com/track/4WD4sAircd4fzPjqJH8OQP"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Brittney Wright",
+          "url": "https://open.spotify.com/artist/1gJGPbLdPxg4GHQ7InK8Gw"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188988,
+      "name": "Mary Did You Know - Live",
+      "url": "https://open.spotify.com/track/5ljmKFEodiBsDM1fWkJAQT"
+    },
+    {
+      "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Kymberli Joye",
+          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534949,
+      "name": "Miracle is You (feat. Kymberli Joye)",
+      "url": "https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Rich Tolbert Jr.",
+          "url": "https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402826,
+      "name": "Miracle Worker (feat. Rich Tolbert Jr.) - Live",
+      "url": "https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Rich Tolbert Jr.",
+          "url": "https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 402826,
+      "name": "Miracle Worker (feat. Rich Tolbert Jr.) - Live",
+      "url": "https://open.spotify.com/track/5ygojrfeLjr7BHp6nGh0XS"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 178266,
+      "name": "My Hiding Place",
+      "url": "https://open.spotify.com/track/237xqnL0TqbNUTcgaW5UKs"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 312624,
+      "name": "No Reason To Fear",
+      "url": "https://open.spotify.com/track/4imDowJau675wQewno5k0k"
+    },
+    {
+      "album": {
+        "name": "No Reason To Fear - Single",
+        "url": "https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 273356,
+      "name": "No Reason To Fear (Radio Edit)",
+      "url": "https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K"
+    },
+    {
+      "album": {
+        "name": "No Reason To Fear - Single",
+        "url": "https://open.spotify.com/album/07FpmHl5aNml4JFRDGIDZ8"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273356,
+      "name": "No Reason To Fear (Radio Edit)",
+      "url": "https://open.spotify.com/track/5hRjPgj8c7kjtIGThYBzUv"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 747716,
+      "name": "Not Holding Back",
+      "url": "https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 747716,
+      "name": "Not Holding Back",
+      "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 394400,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/4Ef3sKF6IIeJA6RGd49A11"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 329186,
+      "name": "Oh Holy Lamb",
+      "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
+    },
+    {
+      "album": {
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256653,
+      "name": "OMG (feat. JJ Hairston)",
+      "url": "https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 297293,
+      "name": "Onaga (It's Working) - Live",
+      "url": "https://open.spotify.com/track/0TeizNuuFEpDED6T0JUEag"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297293,
+      "name": "Onaga (It's Working) - Live",
+      "url": "https://open.spotify.com/track/21JYcivB4UXRIhEnWdCt2X"
+    },
+    {
+      "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Nicole Mincey",
+          "url": "https://open.spotify.com/artist/2ZEGVvlpmv9LfVdycybZCg"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 274304,
+      "name": "Opening Prayer (feat. Nicole Mincey)",
+      "url": "https://open.spotify.com/track/5R8fK1z9X01VImHPawylP9"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Greg Kirkland, Jr.",
+          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
+        },
+        {
+          "name": "Adrianne Lewis-Freeman",
+          "url": "https://open.spotify.com/artist/06BrEZsvWk0Be9gAccriY4"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318667,
+      "name": "Psalms 100 (feat. Greg Kirkland, Jr. & Adrienne Lewis-Freeman)",
+      "url": "https://open.spotify.com/track/54XPkGglHnDcW12yQoKSa3"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Greg Kirkland, Jr.",
+          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 203920,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/2zdyT2WaM4BQFNBl2Z1dUx"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Greg Kirkland, Jr.",
+          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Deon Kipping",
+          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544793,
+      "name": "Reminder (feat. Deon Kipping)",
+      "url": "https://open.spotify.com/track/1GvFbttWSIESrZMbp4P4EG"
+    },
+    {
+      "album": {
+        "name": "Reminder (feat. Deon Kipping) / You Deserve It (feat. Cecily)",
+        "url": "https://open.spotify.com/album/6mvkpq8gQ8DOKBjXQKHWlh"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Deon Kipping",
+          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-14",
+      "duration_ms": 544793,
+      "name": "Reminder (feat. Deon Kipping)",
+      "url": "https://open.spotify.com/track/3OsYeDXVHI7X3MeSlJUuh1"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 265000,
+      "name": "Shift This Place",
+      "url": "https://open.spotify.com/track/2p4c4LzwQDQB7vWGTQCXmB"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 265000,
+      "name": "Shift This Place",
+      "url": "https://open.spotify.com/track/4DpG8THfiN5O5DqoZZpg5E"
+    },
+    {
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 489813,
+      "name": "Spirit of God - Live",
+      "url": "https://open.spotify.com/track/6eusWdCP7AoqckgTPHGV02"
+    },
+    {
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 710916,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
+    },
+    {
+      "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Benita Jones",
+          "url": "https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450365,
+      "name": "That Great Name (feat. Benita Jones)",
+      "url": "https://open.spotify.com/track/5vnPYDqATa2EDOAsgD3YCQ"
+    },
+    {
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 372013,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/5GDfnpfmkgYuvCVcY116XE"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 378293,
+      "name": "The Blood Still Works",
+      "url": "https://open.spotify.com/track/49dXY7y9z30gIu1m24xHOQ"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Brittney Wright",
+          "url": "https://open.spotify.com/artist/1gJGPbLdPxg4GHQ7InK8Gw"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        },
+        {
+          "name": "Trina Hairston",
+          "url": "https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 643515,
+      "name": "The Great I Am - Live",
+      "url": "https://open.spotify.com/track/5a0bVnDUKrwU3uf6O617Xx"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 176253,
+      "name": "The Lifter",
+      "url": "https://open.spotify.com/track/50wptD0r7v4mlVSsapsEUj"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        },
+        {
+          "name": "Katondra Jenkins",
+          "url": "https://open.spotify.com/artist/4siQoXWognMsG9ieD6B2fG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502678,
+      "name": "The Newborn King - Live",
+      "url": "https://open.spotify.com/track/68480PLDDMeu3MYkQiU2FM"
+    },
+    {
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 377360,
+      "name": "The Victor",
+      "url": "https://open.spotify.com/track/7yXoXKRxqVSuFWETqc7SfI"
+    },
+    {
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Crystal Aikin",
+          "url": "https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf"
+        },
+        {
+          "name": "Kevin Lemons & Higher Calling",
+          "url": "https://open.spotify.com/artist/6n86jr80ui4KY5OMTyWVUg"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 363674,
+      "name": "This is the Lord's Doing (feat. Crystal Aiken, Kevin Lemons & Higher Calling)",
+      "url": "https://open.spotify.com/track/1YHeESYShbCZxmqqdY8apS"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 499448,
+      "name": "We Adore You - Live",
+      "url": "https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499448,
+      "name": "We Adore You - Live",
+      "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465962,
+      "name": "We Serve (feat. Travis Greene)",
+      "url": "https://open.spotify.com/track/1XcmuuYKOrWmDebXxb6VgP"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 465962,
+      "name": "We Serve (feat. Travis Greene)",
+      "url": "https://open.spotify.com/track/5j6ZKQF1mEelSUVRKqXhK8"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "JeNard Carpenter",
+          "url": "https://open.spotify.com/artist/7qBhbntecLXk6ZlnTaGbav"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398080,
+      "name": "We Worship Christ - Live",
+      "url": "https://open.spotify.com/track/5MZ9Z2LoVksgrXV4zsVoxA"
+    },
+    {
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 329200,
+      "name": "You Are Awesome",
+      "url": "https://open.spotify.com/track/0JuACuUfaF7TVgHTQV5gCa"
+    },
+    {
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Capria McClearn",
+          "url": "https://open.spotify.com/artist/74YJpV6kEtx5uvhF8J0LgG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293466,
+      "name": "You Are Holy - Live",
+      "url": "https://open.spotify.com/track/3x4q0Fp06viknMsJXhoW0p"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Phillip Bryant",
+          "url": "https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k"
+        },
+        {
+          "name": "Pocket Of Hope",
+          "url": "https://open.spotify.com/artist/6l2vPgjeinkte8p5r6zqKc"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 494042,
+      "name": "You Are Lord Of All",
+      "url": "https://open.spotify.com/track/1BP5vvD1g4VKyCdb9HNBLI"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Phillip Bryant",
+          "url": "https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k"
+        },
+        {
+          "name": "Pocket Of Hope",
+          "url": "https://open.spotify.com/artist/6l2vPgjeinkte8p5r6zqKc"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494042,
+      "name": "You Are Lord Of All",
+      "url": "https://open.spotify.com/track/5XcOW8siarlSb4kxGQ8AgM"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338986,
+      "name": "You Are Worthy",
+      "url": "https://open.spotify.com/track/31NuRDI5McMo8ZjSApHZUq"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 338986,
+      "name": "You Are Worthy",
+      "url": "https://open.spotify.com/track/3Ez871S8UjYEUy9VJwUg0p"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/3SITltmDXRR4lQWR3IpClB"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Timothy Reddick",
+          "url": "https://open.spotify.com/artist/3AEo4imgJihO5K7yZNDcu7"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378506,
+      "name": "You Get The Glory - Live",
+      "url": "https://open.spotify.com/track/4PLTxvaypSdoEJSUSOb7eQ"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Timothy Reddick",
+          "url": "https://open.spotify.com/artist/3AEo4imgJihO5K7yZNDcu7"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 378506,
+      "name": "You Get The Glory - Live",
+      "url": "https://open.spotify.com/track/5qAuFERnKienylcdTO0uds"
+    },
+    {
+      "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Vincent McNatt",
+          "url": "https://open.spotify.com/artist/5woGstEtyJQw7tiKF3pVMl"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 585542,
+      "name": "You Will Never Fail (feat. Vincent McNatt & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/79pQLbBw6xntyfKzUKxxit"
+    },
+    {
+      "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Tamela Hairston",
+          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420083,
+      "name": "You Won't Change (Yahweh the Same) [feat. Tamela Hairston & Mav City Gospel Choir]",
+      "url": "https://open.spotify.com/track/6EDEtIW0M7sN5MtBmblyaa"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 737711,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/5CFQAQIW5fCgkJYnstgDsL"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 737711,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/6eF1yPvD0BgmiXQlucDM8Q"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345026,
+      "name": "You're Mighty",
+      "url": "https://open.spotify.com/track/2iu23cl3KuYbtInOzUaWef"
+    },
+    {
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 345026,
+      "name": "You're Mighty",
+      "url": "https://open.spotify.com/track/3xqErYzXJ9EstpZNe8EhTW"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 877052,
+      "name": "You\u2019re Gonna LIVE",
+      "url": "https://open.spotify.com/track/29wC09RMefUcRKoaWolP9q"
+    },
+    {
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 877052,
+      "name": "You\u2019re Gonna LIVE",
+      "url": "https://open.spotify.com/track/2ljGA4yquXH5LGXgvLvu9c"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2"
 }

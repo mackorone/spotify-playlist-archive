@@ -1,580 +1,625 @@
 {
-  "2022-05-30": 2363,
-  "2022-05-31": 2386,
-  "2022-06-01": 2444,
-  "2022-06-02": 2446,
-  "2022-06-03": 2467,
-  "2022-06-04": 2495,
-  "2022-06-05": 2509,
-  "2022-06-06": 2528,
-  "2022-06-07": 2553,
-  "2022-06-08": 2581,
-  "2022-06-09": 2597,
-  "2022-06-10": 2609,
-  "2022-06-11": 2623,
-  "2022-06-12": 2648,
-  "2022-06-13": 2673,
-  "2022-06-14": 2697,
-  "2022-06-15": 2716,
-  "2022-06-16": 2727,
-  "2022-06-17": 2736,
-  "2022-06-18": 2757,
-  "2022-06-19": 2795,
-  "2022-06-20": 2795,
-  "2022-06-21": 2816,
-  "2022-06-22": 2843,
-  "2022-06-23": 2843,
-  "2022-06-24": 2861,
-  "2022-06-25": 2878,
-  "2022-06-26": 2902,
-  "2022-06-27": 2912,
-  "2022-06-28": 2928,
-  "2022-06-29": 2946,
-  "2022-06-30": 2952,
-  "2022-07-01": 2967,
-  "2022-07-02": 2981,
-  "2022-07-03": 3000,
-  "2022-07-04": 3016,
-  "2022-07-05": 3026,
-  "2022-07-06": 3044,
-  "2022-07-07": 3055,
-  "2022-07-08": 3069,
-  "2022-07-09": 3081,
-  "2022-07-10": 3085,
-  "2022-07-11": 3105,
-  "2022-07-12": 3116,
-  "2022-07-13": 3125,
-  "2022-07-14": 3140,
-  "2022-07-15": 3147,
-  "2022-07-16": 3159,
-  "2022-07-17": 3173,
-  "2022-07-18": 3186,
-  "2022-07-19": 3197,
-  "2022-07-20": 3205,
-  "2022-07-21": 3205,
-  "2022-07-22": 3217,
-  "2022-07-23": 3234,
-  "2022-07-24": 3252,
-  "2022-07-25": 3263,
-  "2022-07-26": 3274,
-  "2022-07-27": 3283,
-  "2022-07-28": 3284,
-  "2022-07-29": 3294,
-  "2022-07-30": 3322,
-  "2022-07-31": 3322,
-  "2022-08-01": 3333,
-  "2022-08-02": 3355,
-  "2022-08-03": 3355,
-  "2022-08-04": 3361,
-  "2022-08-05": 3370,
-  "2022-08-06": 3377,
-  "2022-08-07": 3389,
-  "2022-08-08": 3394,
-  "2022-08-09": 3406,
-  "2022-08-10": 3412,
-  "2022-08-11": 3425,
-  "2022-08-12": 3428,
-  "2022-08-13": 3431,
-  "2022-08-14": 3445,
-  "2022-08-15": 3460,
-  "2022-08-16": 3469,
-  "2022-08-17": 3481,
-  "2022-08-18": 3488,
-  "2022-08-19": 3492,
-  "2022-08-20": 3495,
-  "2022-08-21": 3505,
-  "2022-08-22": 3518,
-  "2022-08-23": 3527,
-  "2022-08-24": 3533,
-  "2022-08-25": 3539,
-  "2022-08-26": 3543,
-  "2022-08-27": 3554,
-  "2022-08-28": 3566,
-  "2022-08-29": 3569,
-  "2022-08-30": 3574,
-  "2022-08-31": 3576,
-  "2022-09-01": 3584,
-  "2022-09-02": 3590,
-  "2022-09-03": 3593,
-  "2022-09-04": 3596,
-  "2022-09-05": 3601,
-  "2022-09-06": 3611,
-  "2022-09-07": 3611,
-  "2022-09-09": 3615,
-  "2022-09-10": 3622,
-  "2022-09-11": 3626,
-  "2022-09-12": 3633,
-  "2022-09-13": 3636,
-  "2022-09-15": 3642,
-  "2022-09-16": 3647,
-  "2022-09-17": 3654,
-  "2022-09-18": 3662,
-  "2022-09-19": 3667,
-  "2022-09-20": 3671,
-  "2022-09-21": 3674,
-  "2022-09-22": 3676,
-  "2022-09-23": 3683,
-  "2022-09-24": 3688,
-  "2022-09-25": 3700,
-  "2022-09-26": 3695,
-  "2022-09-27": 3698,
-  "2022-09-28": 3709,
-  "2022-09-29": 3710,
-  "2022-09-30": 3712,
-  "2022-10-01": 3718,
-  "2022-10-02": 3724,
-  "2022-10-03": 3734,
-  "2022-10-04": 3735,
-  "2022-10-05": 3740,
-  "2022-10-06": 3744,
-  "2022-10-07": 3752,
-  "2022-10-08": 3753,
-  "2022-10-09": 3761,
-  "2022-10-10": 3761,
-  "2022-10-11": 3766,
-  "2022-10-12": 3766,
-  "2022-10-13": 3776,
-  "2022-10-14": 3778,
-  "2022-10-15": 3782,
-  "2022-10-16": 3788,
-  "2022-10-17": 3797,
-  "2022-10-18": 3805,
-  "2022-10-19": 3809,
-  "2022-10-20": 3811,
-  "2022-10-21": 3818,
-  "2022-10-22": 3823,
-  "2022-10-23": 3826,
-  "2022-10-24": 3829,
-  "2022-10-25": 3833,
-  "2022-10-26": 3836,
-  "2022-10-27": 3838,
-  "2022-10-28": 3843,
-  "2022-10-29": 3853,
-  "2022-10-30": 3863,
-  "2022-10-31": 3866,
-  "2022-11-01": 3870,
-  "2022-11-02": 3879,
-  "2022-11-03": 3882,
-  "2022-11-04": 3888,
-  "2022-11-05": 3892,
-  "2022-11-06": 3897,
-  "2022-11-07": 3908,
-  "2022-11-08": 3913,
-  "2022-11-09": 3918,
-  "2022-11-10": 3921,
-  "2022-11-11": 3926,
-  "2022-11-12": 3934,
-  "2022-11-13": 3938,
-  "2022-11-14": 3954,
-  "2022-11-15": 3958,
-  "2022-11-16": 3963,
-  "2022-11-17": 3963,
-  "2022-11-18": 3965,
-  "2022-11-19": 3966,
-  "2022-11-20": 3966,
-  "2022-11-21": 3969,
-  "2022-11-22": 3971,
-  "2022-11-23": 3971,
-  "2022-11-24": 3972,
-  "2022-11-25": 3972,
-  "2022-11-26": 3973,
-  "2022-11-27": 3976,
-  "2022-11-28": 3977,
-  "2022-11-29": 3980,
-  "2022-11-30": 3983,
-  "2022-12-01": 3988,
-  "2022-12-02": 3989,
-  "2022-12-03": 3994,
-  "2022-12-04": 3996,
-  "2022-12-05": 4001,
-  "2022-12-06": 4003,
-  "2022-12-07": 4002,
-  "2022-12-08": 4004,
-  "2022-12-09": 4004,
-  "2022-12-10": 4007,
-  "2022-12-11": 4011,
-  "2022-12-12": 4014,
-  "2022-12-13": 4015,
-  "2022-12-14": 4014,
-  "2022-12-15": 4017,
-  "2022-12-16": 4016,
-  "2022-12-17": 4015,
-  "2022-12-18": 4017,
-  "2022-12-19": 4016,
-  "2022-12-20": 4022,
-  "2022-12-21": 4022,
-  "2022-12-22": 4024,
-  "2022-12-24": 4022,
-  "2022-12-25": 4021,
-  "2022-12-26": 4019,
-  "2022-12-27": 4023,
-  "2022-12-28": 4024,
-  "2022-12-29": 4028,
-  "2022-12-30": 4034,
-  "2022-12-31": 4036,
-  "2023-01-01": 4039,
-  "2023-01-02": 4044,
-  "2023-01-03": 4046,
-  "2023-01-04": 4048,
-  "2023-01-05": 4048,
-  "2023-01-06": 4052,
-  "2023-01-07": 4053,
-  "2023-01-08": 4054,
-  "2023-01-09": 4062,
-  "2023-01-10": 4063,
-  "2023-01-11": 4062,
-  "2023-01-12": 4061,
-  "2023-01-13": 4062,
-  "2023-01-14": 4065,
-  "2023-01-15": 4062,
-  "2023-01-16": 4068,
-  "2023-01-17": 4069,
-  "2023-01-18": 4068,
-  "2023-01-19": 4072,
-  "2023-01-20": 4075,
-  "2023-01-21": 4077,
-  "2023-01-22": 4077,
-  "2023-01-23": 4076,
-  "2023-01-24": 4078,
-  "2023-01-25": 4081,
-  "2023-01-26": 4081,
-  "2023-01-27": 4082,
-  "2023-01-28": 4082,
-  "2023-01-29": 4091,
-  "2023-01-30": 4091,
-  "2023-01-31": 4091,
-  "2023-02-01": 4090,
-  "2023-02-02": 4089,
-  "2023-02-03": 4093,
-  "2023-02-04": 4095,
-  "2023-02-05": 4093,
-  "2023-02-06": 4094,
-  "2023-02-07": 4093,
-  "2023-02-08": 4101,
-  "2023-02-09": 4101,
-  "2023-02-10": 4101,
-  "2023-02-11": 4102,
-  "2023-02-12": 4117,
-  "2023-02-13": 4128,
-  "2023-02-14": 4128,
-  "2023-02-15": 4132,
-  "2023-02-16": 4144,
-  "2023-02-17": 4156,
-  "2023-02-18": 4180,
-  "2023-02-19": 4184,
-  "2023-02-20": 4193,
-  "2023-02-21": 4206,
-  "2023-02-22": 4216,
-  "2023-02-23": 4235,
-  "2023-02-24": 4237,
-  "2023-02-25": 4253,
-  "2023-02-26": 4258,
-  "2023-02-27": 4270,
-  "2023-02-28": 4270,
-  "2023-03-01": 4281,
-  "2023-03-02": 4306,
-  "2023-03-03": 4323,
-  "2023-03-04": 4338,
-  "2023-03-05": 4382,
-  "2023-03-06": 4382,
-  "2023-03-07": 4405,
-  "2023-03-08": 4426,
-  "2023-03-09": 4440,
-  "2023-03-10": 4456,
-  "2023-03-11": 4472,
-  "2023-03-12": 4505,
-  "2023-03-13": 4524,
-  "2023-03-14": 4534,
-  "2023-03-15": 4555,
-  "2023-03-16": 4579,
-  "2023-03-17": 4579,
-  "2023-03-18": 4594,
-  "2023-03-19": 4609,
-  "2023-03-20": 4625,
-  "2023-03-21": 4650,
-  "2023-03-22": 4662,
-  "2023-03-23": 4671,
-  "2023-03-24": 4671,
-  "2023-03-25": 4698,
-  "2023-03-26": 4719,
-  "2023-03-27": 4742,
-  "2023-03-28": 4745,
-  "2023-03-29": 4774,
-  "2023-03-30": 4800,
-  "2023-03-31": 4800,
-  "2023-04-01": 4808,
-  "2023-04-02": 4827,
-  "2023-04-03": 4835,
-  "2023-04-04": 4855,
-  "2023-04-05": 4865,
-  "2023-04-06": 4878,
-  "2023-04-07": 4893,
-  "2023-04-09": 4932,
-  "2023-04-10": 4945,
-  "2023-04-11": 4972,
-  "2023-04-12": 4972,
-  "2023-04-13": 4982,
-  "2023-04-14": 4995,
-  "2023-04-15": 5005,
-  "2023-04-16": 5020,
-  "2023-04-17": 5042,
-  "2023-04-18": 5060,
-  "2023-04-19": 5071,
-  "2023-04-20": 5085,
-  "2023-04-21": 5097,
-  "2023-04-22": 5110,
-  "2023-04-23": 5130,
-  "2023-04-24": 5147,
-  "2023-04-25": 5163,
-  "2023-04-26": 5172,
-  "2023-04-27": 5185,
-  "2023-04-28": 5199,
-  "2023-04-29": 5217,
-  "2023-04-30": 5238,
-  "2023-05-01": 5253,
-  "2023-05-02": 5279,
-  "2023-05-03": 5289,
-  "2023-05-04": 5301,
-  "2023-05-05": 5325,
-  "2023-05-06": 5337,
-  "2023-05-07": 5347,
-  "2023-05-08": 5360,
-  "2023-05-09": 5366,
-  "2023-05-10": 5384,
-  "2023-05-11": 5394,
-  "2023-05-12": 5403,
-  "2023-05-13": 5419,
-  "2023-05-14": 5444,
-  "2023-05-15": 5482,
-  "2023-05-16": 5508,
-  "2023-05-17": 5531,
-  "2023-05-18": 5539,
-  "2023-05-19": 5557,
-  "2023-05-20": 5593,
-  "2023-05-21": 5593,
-  "2023-05-22": 5593,
-  "2023-05-23": 5637,
-  "2023-05-24": 5666,
-  "2023-05-25": 5668,
-  "2023-05-26": 5685,
-  "2023-05-27": 5699,
-  "2023-05-28": 5728,
-  "2023-05-29": 5728,
-  "2023-05-30": 5767,
-  "2023-05-31": 5790,
-  "2023-06-01": 5807,
-  "2023-06-02": 5819,
-  "2023-06-03": 5834,
-  "2023-06-04": 5857,
-  "2023-06-05": 5869,
-  "2023-06-06": 5880,
-  "2023-06-07": 5893,
-  "2023-06-08": 5905,
-  "2023-06-09": 5918,
-  "2023-06-10": 5931,
-  "2023-06-11": 5948,
-  "2023-06-12": 5972,
-  "2023-06-13": 5986,
-  "2023-06-14": 5997,
-  "2023-06-15": 6005,
-  "2023-06-16": 6015,
-  "2023-06-17": 6033,
-  "2023-06-18": 6055,
-  "2023-06-19": 6081,
-  "2023-06-20": 6092,
-  "2023-06-21": 6100,
-  "2023-06-22": 6114,
-  "2023-06-23": 6123,
-  "2023-06-24": 6131,
-  "2023-06-25": 6143,
-  "2023-06-26": 6161,
-  "2023-06-27": 6171,
-  "2023-06-28": 6178,
-  "2023-06-29": 6185,
-  "2023-06-30": 6195,
-  "2023-07-01": 6219,
-  "2023-07-02": 6219,
-  "2023-07-03": 6244,
-  "2023-07-04": 6250,
-  "2023-07-05": 6255,
-  "2023-07-06": 6273,
-  "2023-07-07": 6273,
-  "2023-07-08": 6278,
-  "2023-07-09": 6294,
-  "2023-07-10": 6306,
-  "2023-07-11": 6311,
-  "2023-07-12": 6326,
-  "2023-07-13": 6329,
-  "2023-07-14": 6346,
-  "2023-07-15": 6359,
-  "2023-07-16": 6372,
-  "2023-07-17": 6383,
-  "2023-07-18": 6399,
-  "2023-07-19": 6408,
-  "2023-07-20": 6413,
-  "2023-07-21": 6416,
-  "2023-07-22": 6429,
-  "2023-07-23": 6437,
-  "2023-07-24": 6454,
-  "2023-07-25": 6458,
-  "2023-07-26": 6472,
-  "2023-07-27": 6490,
-  "2023-07-28": 6496,
-  "2023-07-29": 6504,
-  "2023-07-30": 6513,
-  "2023-07-31": 6515,
-  "2023-08-01": 6528,
-  "2023-08-02": 6534,
-  "2023-08-03": 6545,
-  "2023-08-04": 6552,
-  "2023-08-05": 6562,
-  "2023-08-06": 6582,
-  "2023-08-07": 6582,
-  "2023-08-08": 6594,
-  "2023-08-09": 6604,
-  "2023-08-10": 6611,
-  "2023-08-11": 6621,
-  "2023-08-12": 6627,
-  "2023-08-13": 6641,
-  "2023-08-14": 6652,
-  "2023-08-15": 6664,
-  "2023-08-16": 6664,
-  "2023-08-17": 6676,
-  "2023-08-18": 6685,
-  "2023-08-19": 6696,
-  "2023-08-20": 6702,
-  "2023-08-21": 6712,
-  "2023-08-22": 6718,
-  "2023-08-23": 6726,
-  "2023-08-24": 6736,
-  "2023-08-25": 6748,
-  "2023-08-26": 6758,
-  "2023-08-27": 6765,
-  "2023-08-28": 6773,
-  "2023-08-29": 6783,
-  "2023-08-30": 6793,
-  "2023-08-31": 6801,
-  "2023-09-01": 6821,
-  "2023-09-02": 6821,
-  "2023-09-03": 6824,
-  "2023-09-04": 6830,
-  "2023-09-05": 6844,
-  "2023-09-06": 6858,
-  "2023-09-07": 6868,
-  "2023-09-08": 6877,
-  "2023-09-09": 6889,
-  "2023-09-10": 6897,
-  "2023-09-11": 6909,
-  "2023-09-12": 6922,
-  "2023-09-13": 6933,
-  "2023-09-14": 6941,
-  "2023-09-15": 6946,
-  "2023-09-16": 6951,
-  "2023-09-17": 6951,
-  "2023-09-18": 6958,
-  "2023-09-19": 6964,
-  "2023-09-20": 6970,
-  "2023-09-21": 6981,
-  "2023-09-22": 6988,
-  "2023-09-23": 6992,
-  "2023-09-24": 6992,
-  "2023-09-25": 6992,
-  "2023-09-26": 7018,
-  "2023-09-27": 7025,
-  "2023-09-28": 7031,
-  "2023-09-29": 7035,
-  "2023-09-30": 7035,
-  "2023-10-01": 7047,
-  "2023-10-02": 7049,
-  "2023-10-03": 7058,
-  "2023-10-04": 7066,
-  "2023-10-05": 7079,
-  "2023-10-06": 7084,
-  "2023-10-07": 7092,
-  "2023-10-08": 7104,
-  "2023-10-09": 7104,
-  "2023-10-10": 7114,
-  "2023-10-11": 7143,
-  "2023-10-12": 7143,
-  "2023-10-13": 7152,
-  "2023-10-14": 7152,
-  "2023-10-15": 7152,
-  "2023-10-16": 7152,
-  "2023-10-17": 7152,
-  "2023-10-18": 7152,
-  "2023-10-19": 7152,
-  "2023-10-20": 7152,
-  "2023-10-21": 7152,
-  "2023-10-22": 7152,
-  "2023-10-23": 7152,
-  "2023-10-24": 7230,
-  "2023-10-25": 7230,
-  "2023-10-26": 7230,
-  "2023-10-27": 7230,
-  "2023-10-28": 7230,
-  "2023-10-29": 7230,
-  "2023-10-30": 7230,
-  "2023-10-31": 7230,
-  "2023-11-01": 7230,
-  "2023-11-02": 7230,
-  "2023-11-03": 7230,
-  "2023-11-04": 7230,
-  "2023-11-05": 7230,
-  "2023-11-06": 7230,
-  "2023-11-07": 7230,
-  "2023-11-08": 7230,
-  "2023-11-09": 7230,
-  "2023-11-10": 7230,
-  "2023-11-11": 7384,
-  "2023-11-12": 7384,
-  "2023-11-13": 7384,
-  "2023-11-14": 7384,
-  "2023-11-15": 7384,
-  "2023-11-16": 7384,
-  "2023-11-17": 7434,
-  "2023-11-18": 7434,
-  "2023-11-19": 7434,
-  "2023-11-20": 7434,
-  "2023-11-21": 7434,
-  "2023-11-22": 7434,
-  "2023-11-23": 7465,
-  "2023-11-24": 7465,
-  "2023-11-25": 7465,
-  "2023-11-26": 7465,
-  "2023-11-27": 7465,
-  "2023-11-28": 7465,
-  "2023-11-29": 7465,
-  "2023-11-30": 7465,
-  "2023-12-01": 7465,
-  "2023-12-02": 7465,
-  "2023-12-03": 7465,
-  "2023-12-04": 7465,
-  "2023-12-05": 7465,
-  "2023-12-06": 7465,
-  "2023-12-07": 7465,
-  "2023-12-08": 7465,
-  "2023-12-09": 7591,
-  "2023-12-10": 7591,
-  "2023-12-11": 7604,
-  "2023-12-12": 7604,
-  "2023-12-13": 7604,
-  "2023-12-14": 7633,
-  "2023-12-15": 7645,
-  "2023-12-16": 7654,
-  "2023-12-17": 7657,
-  "2023-12-18": 7671,
-  "2023-12-19": 7674,
-  "2023-12-20": 7693,
-  "2023-12-21": 7704,
-  "2023-12-22": 7713,
-  "2023-12-23": 7725,
-  "2023-12-24": 7732,
-  "2023-12-25": 7742,
-  "2023-12-26": 7761,
-  "2023-12-27": 7772,
-  "2023-12-30": 7804,
-  "2023-12-31": 7816,
-  "2024-01-01": 7823,
-  "2024-01-02": 7829,
-  "2024-01-03": 7844
+  "2024-01-17": 8020,
+  "date_first_scraped": "2022-05-30",
+  "description": "The official playlist for The Adam Project. Watch on Netflix.",
+  "name": "The Adam Project Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Bach, J.S.: Two and Three Part Inventions",
+        "url": "https://open.spotify.com/album/7B6F306xdRIC0A1Rka5cbg"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "15 Inventions, BWV 772-786: No. 6 in E Major, BWV 777",
+      "url": "https://open.spotify.com/track/6QOdI0QfO1iBhuNGc86rBg"
+    },
+    {
+      "album": {
+        "name": "Stimulus Progression 6 - Muzak: 40 Years, More Than a Name",
+        "url": "https://open.spotify.com/album/7uTdnkFM0W4fsAiLnHtByh"
+      },
+      "artists": [
+        {
+          "name": "Muzak Orchestra",
+          "url": "https://open.spotify.com/artist/0tHtKepUi7LKuN2q7wb6is"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112437,
+      "name": "40 Years Young",
+      "url": "https://open.spotify.com/track/1wFJbaG7kT8nh95a4bZ2CK"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Butternut Sippy Cup",
+      "url": "https://open.spotify.com/track/3bXLjufEAjtsanXaEURpoX"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267720,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/5vF93IIbs14hxgvybrajmy"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121266,
+      "name": "Echo of This One",
+      "url": "https://open.spotify.com/track/1pu1tCvkYUQVWE3M6ogB2j"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40919,
+      "name": "Find Him",
+      "url": "https://open.spotify.com/track/4DNVp3OCAucK8OLLtKwxSv"
+    },
+    {
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467640,
+      "name": "Foreplay / Long Time",
+      "url": "https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145880,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/5kzAgdVFV3l7FqCXn2WjFE"
+    },
+    {
+      "album": {
+        "name": "The Best Of Spencer Davis Group",
+        "url": "https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "Gimme Some Lovin'",
+      "url": "https://open.spotify.com/track/3yobZXbEQQJq7wBazWGDVg"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166266,
+      "name": "Good Times Bad Times - 1993 Remaster",
+      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38853,
+      "name": "Hallway",
+      "url": "https://open.spotify.com/track/5N57dbX1aHEnomrGxpC5a5"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282640,
+      "name": "Hawking, Zip It",
+      "url": "https://open.spotify.com/track/4hK02r4BcAeM458zVd6kwE"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84186,
+      "name": "He Doesn't Need Perfect",
+      "url": "https://open.spotify.com/track/4erSc6ARmJ4osdJ7BmQahi"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158626,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/57kMlW7Dl9e5DvulrqQjie"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "I Found You Again",
+      "url": "https://open.spotify.com/track/11KmkY1FSpmNBfyLQv5VKE"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119906,
+      "name": "Is This Time Travel?",
+      "url": "https://open.spotify.com/track/3Md90d5CgBgJKF09mC0YM8"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67546,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/74KjVoTYZPV3sdHYFE9wA7"
+    },
+    {
+      "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
+    },
+    {
+      "album": {
+        "name": "Empty Glass",
+        "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
+      },
+      "artists": [
+        {
+          "name": "Pete Townshend",
+          "url": "https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Let My Love Open The Door",
+      "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "Look Up",
+      "url": "https://open.spotify.com/track/4SMaRDaJXOF9LqFY82DYam"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129546,
+      "name": "Make Good Choices",
+      "url": "https://open.spotify.com/track/27xCKOledz9hgo0CZzh5QX"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186786,
+      "name": "Ouchie with the Face",
+      "url": "https://open.spotify.com/track/52CS6yco0bxQuBJNGR2tMJ"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130226,
+      "name": "Plan",
+      "url": "https://open.spotify.com/track/7vPsg6PzfDRUx0O5gdLEzV"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113600,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/0pZz0tKIdgfUJs6LGab4vH"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119506,
+      "name": "Punch That Sh*t",
+      "url": "https://open.spotify.com/track/4V6iQIGt42H8SLBQGrRPNX"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71468,
+      "name": "Supper Time, Spanky",
+      "url": "https://open.spotify.com/track/38C0Hihy0saqU1LIFJ1AZS"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93813,
+      "name": "Take Your Son to Work Day",
+      "url": "https://open.spotify.com/track/6euM3g7iOOBgaOmRSBpZod"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105880,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/7Gi9EGpDFofvFhWzn6YX6E"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295760,
+      "name": "The Adam Project",
+      "url": "https://open.spotify.com/track/7dF6sfiSwXrcdkvTB2jvXh"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "They Found Us",
+      "url": "https://open.spotify.com/track/28Sb1HtUk9k9jlURDzMT2W"
+    },
+    {
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109226,
+      "name": "Who's This?",
+      "url": "https://open.spotify.com/track/1zJifVIJSeUdOu6nE7XjGO"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81173,
+      "name": "You Can Be a Real Jerk",
+      "url": "https://open.spotify.com/track/4pLLEs4eKEPhkJpjd0sQ8q"
+    },
+    {
+      "album": {
+        "name": "The Adam Project (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/549SOdyJdLUojqoXBynu9O"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156682,
+      "name": "You Never Understood the Science",
+      "url": "https://open.spotify.com/track/5tUYpRmr4PmIqxBToNwwWQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcGFLus6X9T4"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,294 likes - 23 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,243 likes - 23 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 | 15 | [Say It's Right](https://open.spotify.com/track/6FeU3DRZUQWkr3i2n5OMNP) | [Gabriel Royal](https://open.spotify.com/artist/27BGBjfqb5MFhyMdX26pW6) | [Gabriel Royal](https://open.spotify.com/album/3qtmRfnU2yfvsRiKwLhqEn) | 3:06 |
 | 16 | [Flexin](https://open.spotify.com/track/2XW0n3POGQ9D2no2dBZgRO) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Last Daze Of Summer](https://open.spotify.com/album/43s6lCKf5fKnM9xPNQQzeI) | 3:16 |
 | 17 | [I Don't Wanna Leave](https://open.spotify.com/track/6f02BtyPQvYflisHQPlCTz) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [Morning Comes Too Fast](https://open.spotify.com/album/5SMNVBBlhEKuzwe78byNnl) | 3:13 |
-| 18 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
+| 18 | [Good as Hell](https://open.spotify.com/track/4h3oVavW1qzWynZTfzKJUZ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rap Love Songs](https://open.spotify.com/album/0tr0cC27RBXAmDAKaO0nST) | 2:39 |
 | 19 | [Don't Care](https://open.spotify.com/track/2obzETB8ZNaHhTGhnbAqJF) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf), [DVTCH NORRIS](https://open.spotify.com/artist/0j0HOVpdJ2XuGIkfWhEdtz) | [Different Waters](https://open.spotify.com/album/77WZ1J2FUsry4UiyasJ8c5) | 3:34 |
 | 20 | [Moved to LA](https://open.spotify.com/track/2kwL86tUFvBVHnJdETL760) | [Chris Scholar](https://open.spotify.com/artist/1mNkxKTW6JzD4tUsjLq4bl) | [Moved to LA](https://open.spotify.com/album/0V0tKL2GAD8MCsXBSENY1P) | 3:17 |
 | 21 | [Recess](https://open.spotify.com/track/1e4CsgIIzrGpEVcjY95gZw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:08 |

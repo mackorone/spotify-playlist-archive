@@ -1,735 +1,1265 @@
 {
-  "2021-12-25": 35421,
-  "2021-12-26": 35422,
-  "2021-12-27": 35458,
-  "2021-12-28": 35458,
-  "2021-12-29": 35469,
-  "2021-12-30": 35482,
-  "2021-12-31": 35496,
-  "2022-01-01": 35517,
-  "2022-01-02": 35522,
-  "2022-01-03": 35536,
-  "2022-01-04": 35553,
-  "2022-01-05": 35571,
-  "2022-01-06": 35576,
-  "2022-01-07": 35596,
-  "2022-01-08": 35628,
-  "2022-01-09": 35629,
-  "2022-01-10": 35641,
-  "2022-01-11": 35660,
-  "2022-01-12": 35675,
-  "2022-01-13": 35689,
-  "2022-01-14": 35715,
-  "2022-01-15": 35751,
-  "2022-01-16": 35751,
-  "2022-01-17": 35776,
-  "2022-01-18": 35777,
-  "2022-01-19": 35789,
-  "2022-01-20": 35797,
-  "2022-01-21": 35805,
-  "2022-01-22": 35805,
-  "2022-01-23": 35805,
-  "2022-01-24": 35805,
-  "2022-01-25": 35805,
-  "2022-01-26": 35805,
-  "2022-01-27": 35805,
-  "2022-01-28": 35805,
-  "2022-01-29": 35805,
-  "2022-01-30": 35805,
-  "2022-01-31": 35805,
-  "2022-02-01": 35805,
-  "2022-02-02": 35805,
-  "2022-02-03": 35805,
-  "2022-02-04": 35805,
-  "2022-02-05": 35805,
-  "2022-02-06": 35805,
-  "2022-02-07": 35805,
-  "2022-02-08": 35805,
-  "2022-02-09": 35805,
-  "2022-02-10": 35805,
-  "2022-02-11": 35805,
-  "2022-02-12": 35805,
-  "2022-02-13": 35805,
-  "2022-02-14": 35805,
-  "2022-02-15": 35805,
-  "2022-02-16": 35805,
-  "2022-02-17": 35805,
-  "2022-02-18": 35805,
-  "2022-02-19": 35805,
-  "2022-02-20": 35805,
-  "2022-02-21": 35805,
-  "2022-02-22": 35805,
-  "2022-02-23": 35805,
-  "2022-02-24": 35805,
-  "2022-02-25": 35805,
-  "2022-02-26": 35805,
-  "2022-02-27": 35805,
-  "2022-02-28": 35805,
-  "2022-03-01": 35805,
-  "2022-03-02": 35805,
-  "2022-03-03": 35805,
-  "2022-03-04": 35805,
-  "2022-03-05": 35805,
-  "2022-03-06": 35805,
-  "2022-03-07": 35805,
-  "2022-03-08": 35805,
-  "2022-03-09": 35805,
-  "2022-03-10": 35805,
-  "2022-03-11": 35805,
-  "2022-03-12": 35805,
-  "2022-03-13": 35805,
-  "2022-03-14": 35805,
-  "2022-03-15": 35805,
-  "2022-03-16": 35805,
-  "2022-03-17": 35805,
-  "2022-03-18": 35805,
-  "2022-03-19": 35805,
-  "2022-03-20": 35805,
-  "2022-03-21": 35805,
-  "2022-03-22": 35805,
-  "2022-03-23": 35805,
-  "2022-03-24": 35805,
-  "2022-03-25": 35805,
-  "2022-03-26": 35805,
-  "2022-03-27": 35805,
-  "2022-03-28": 35805,
-  "2022-03-30": 35805,
-  "2022-03-31": 35805,
-  "2022-04-01": 35805,
-  "2022-04-02": 35805,
-  "2022-04-03": 35805,
-  "2022-04-04": 35805,
-  "2022-04-05": 35805,
-  "2022-04-06": 35805,
-  "2022-04-07": 35805,
-  "2022-04-08": 35805,
-  "2022-04-09": 35805,
-  "2022-04-10": 35805,
-  "2022-04-11": 35805,
-  "2022-04-12": 35805,
-  "2022-04-13": 35805,
-  "2022-04-14": 35805,
-  "2022-04-15": 35805,
-  "2022-04-16": 35805,
-  "2022-04-17": 35805,
-  "2022-04-18": 35805,
-  "2022-04-19": 35805,
-  "2022-04-20": 35805,
-  "2022-04-21": 35805,
-  "2022-04-22": 35805,
-  "2022-04-23": 35805,
-  "2022-04-24": 35805,
-  "2022-04-25": 35805,
-  "2022-04-26": 35805,
-  "2022-04-27": 35805,
-  "2022-04-28": 35805,
-  "2022-04-29": 35805,
-  "2022-04-30": 35805,
-  "2022-05-01": 35805,
-  "2022-05-02": 35805,
-  "2022-05-03": 35805,
-  "2022-05-04": 35805,
-  "2022-05-05": 35805,
-  "2022-05-06": 35805,
-  "2022-05-07": 35805,
-  "2022-05-08": 35805,
-  "2022-05-09": 35805,
-  "2022-05-10": 35805,
-  "2022-05-11": 35805,
-  "2022-05-12": 35805,
-  "2022-05-13": 35805,
-  "2022-05-14": 35805,
-  "2022-05-15": 35805,
-  "2022-05-16": 35805,
-  "2022-05-17": 35805,
-  "2022-05-18": 35805,
-  "2022-05-19": 35805,
-  "2022-05-20": 35805,
-  "2022-05-21": 35805,
-  "2022-05-22": 35805,
-  "2022-05-23": 35805,
-  "2022-05-24": 35805,
-  "2022-05-25": 35805,
-  "2022-05-26": 35805,
-  "2022-05-27": 35805,
-  "2022-05-28": 35805,
-  "2022-05-29": 35805,
-  "2022-05-30": 35805,
-  "2022-05-31": 35805,
-  "2022-06-01": 35805,
-  "2022-06-02": 35805,
-  "2022-06-03": 35805,
-  "2022-06-04": 35805,
-  "2022-06-05": 35805,
-  "2022-06-06": 35805,
-  "2022-06-07": 35805,
-  "2022-06-08": 35805,
-  "2022-06-09": 35805,
-  "2022-06-10": 35805,
-  "2022-06-11": 35805,
-  "2022-06-12": 35805,
-  "2022-06-13": 35805,
-  "2022-06-14": 35805,
-  "2022-06-15": 35805,
-  "2022-06-16": 35805,
-  "2022-06-17": 35805,
-  "2022-06-18": 35805,
-  "2022-06-19": 35805,
-  "2022-06-20": 35805,
-  "2022-06-21": 35805,
-  "2022-06-22": 35805,
-  "2022-06-23": 35805,
-  "2022-06-24": 35805,
-  "2022-06-25": 35805,
-  "2022-06-26": 35805,
-  "2022-06-27": 35805,
-  "2022-06-28": 35805,
-  "2022-06-29": 35805,
-  "2022-06-30": 35805,
-  "2022-07-01": 35805,
-  "2022-07-02": 35805,
-  "2022-07-03": 35805,
-  "2022-07-04": 35805,
-  "2022-07-05": 35805,
-  "2022-07-06": 35805,
-  "2022-07-07": 35805,
-  "2022-07-08": 35805,
-  "2022-07-09": 35805,
-  "2022-07-10": 35805,
-  "2022-07-11": 35805,
-  "2022-07-12": 35805,
-  "2022-07-13": 35805,
-  "2022-07-14": 35805,
-  "2022-07-15": 35805,
-  "2022-07-16": 35805,
-  "2022-07-17": 35805,
-  "2022-07-18": 35805,
-  "2022-07-19": 35805,
-  "2022-07-20": 35805,
-  "2022-07-21": 35805,
-  "2022-07-22": 35805,
-  "2022-07-23": 35805,
-  "2022-07-24": 35805,
-  "2022-07-25": 35805,
-  "2022-07-26": 35805,
-  "2022-07-27": 35805,
-  "2022-07-28": 35805,
-  "2022-07-29": 35805,
-  "2022-07-30": 35805,
-  "2022-07-31": 35805,
-  "2022-08-01": 35805,
-  "2022-08-02": 35805,
-  "2022-08-03": 35805,
-  "2022-08-04": 35805,
-  "2022-08-05": 35805,
-  "2022-08-06": 35805,
-  "2022-08-07": 35805,
-  "2022-08-08": 35805,
-  "2022-08-09": 35805,
-  "2022-08-10": 35805,
-  "2022-08-11": 35805,
-  "2022-08-12": 35805,
-  "2022-08-13": 35805,
-  "2022-08-14": 35805,
-  "2022-08-15": 35805,
-  "2022-08-16": 35805,
-  "2022-08-17": 35805,
-  "2022-08-18": 35805,
-  "2022-08-19": 35805,
-  "2022-08-20": 35805,
-  "2022-08-21": 35805,
-  "2022-08-22": 35805,
-  "2022-08-23": 35805,
-  "2022-08-24": 35805,
-  "2022-08-25": 35805,
-  "2022-08-26": 35805,
-  "2022-08-27": 35805,
-  "2022-08-28": 35805,
-  "2022-08-29": 35805,
-  "2022-08-30": 35805,
-  "2022-08-31": 35805,
-  "2022-09-01": 35805,
-  "2022-09-02": 35805,
-  "2022-09-03": 35805,
-  "2022-09-04": 35805,
-  "2022-09-05": 35805,
-  "2022-09-06": 35805,
-  "2022-09-07": 35805,
-  "2022-09-09": 35805,
-  "2022-09-10": 35805,
-  "2022-09-11": 35805,
-  "2022-09-12": 35805,
-  "2022-09-13": 35805,
-  "2022-09-15": 35805,
-  "2022-09-16": 35805,
-  "2022-09-17": 35805,
-  "2022-09-18": 35805,
-  "2022-09-19": 35805,
-  "2022-09-20": 35805,
-  "2022-09-21": 35805,
-  "2022-09-22": 35805,
-  "2022-09-23": 35805,
-  "2022-09-24": 35805,
-  "2022-09-25": 35805,
-  "2022-09-26": 35805,
-  "2022-09-27": 35805,
-  "2022-09-28": 35805,
-  "2022-09-29": 35805,
-  "2022-09-30": 35805,
-  "2022-10-01": 35805,
-  "2022-10-02": 35805,
-  "2022-10-03": 35805,
-  "2022-10-04": 35805,
-  "2022-10-05": 35805,
-  "2022-10-06": 35805,
-  "2022-10-07": 35805,
-  "2022-10-08": 35805,
-  "2022-10-09": 35805,
-  "2022-10-10": 35805,
-  "2022-10-11": 35805,
-  "2022-10-12": 35805,
-  "2022-10-13": 35805,
-  "2022-10-14": 35805,
-  "2022-10-15": 35805,
-  "2022-10-16": 35805,
-  "2022-10-17": 35805,
-  "2022-10-18": 35805,
-  "2022-10-19": 35805,
-  "2022-10-20": 35805,
-  "2022-10-21": 35805,
-  "2022-10-22": 35805,
-  "2022-10-23": 35805,
-  "2022-10-24": 35805,
-  "2022-10-25": 35805,
-  "2022-10-26": 35805,
-  "2022-10-27": 35805,
-  "2022-10-28": 35805,
-  "2022-10-29": 35805,
-  "2022-10-30": 35805,
-  "2022-10-31": 35805,
-  "2022-11-01": 35805,
-  "2022-11-02": 35805,
-  "2022-11-03": 35805,
-  "2022-11-04": 35805,
-  "2022-11-05": 35805,
-  "2022-11-06": 35805,
-  "2022-11-07": 35805,
-  "2022-11-08": 35805,
-  "2022-11-09": 35805,
-  "2022-11-10": 35805,
-  "2022-11-11": 35805,
-  "2022-11-12": 35805,
-  "2022-11-13": 35805,
-  "2022-11-14": 35805,
-  "2022-11-15": 35805,
-  "2022-11-16": 35805,
-  "2022-11-17": 35805,
-  "2022-11-18": 35805,
-  "2022-11-19": 35805,
-  "2022-11-20": 35805,
-  "2022-11-21": 35805,
-  "2022-11-22": 35805,
-  "2022-11-23": 35805,
-  "2022-11-24": 35805,
-  "2022-11-25": 35805,
-  "2022-11-26": 35805,
-  "2022-11-27": 35805,
-  "2022-11-28": 35805,
-  "2022-11-29": 35805,
-  "2022-11-30": 35805,
-  "2022-12-01": 35805,
-  "2022-12-02": 35805,
-  "2022-12-03": 35805,
-  "2022-12-04": 35805,
-  "2022-12-05": 35805,
-  "2022-12-06": 35805,
-  "2022-12-07": 35805,
-  "2022-12-08": 35805,
-  "2022-12-09": 35805,
-  "2022-12-10": 35805,
-  "2022-12-11": 35805,
-  "2022-12-12": 35805,
-  "2022-12-13": 35805,
-  "2022-12-14": 35805,
-  "2022-12-15": 35805,
-  "2022-12-16": 35805,
-  "2022-12-17": 35805,
-  "2022-12-18": 35805,
-  "2022-12-19": 35805,
-  "2022-12-20": 35805,
-  "2022-12-21": 35805,
-  "2022-12-22": 35805,
-  "2022-12-24": 35805,
-  "2022-12-25": 35805,
-  "2022-12-26": 35805,
-  "2022-12-27": 35805,
-  "2022-12-28": 35805,
-  "2022-12-29": 35805,
-  "2022-12-30": 35805,
-  "2022-12-31": 35805,
-  "2023-01-01": 35805,
-  "2023-01-02": 35805,
-  "2023-01-03": 35805,
-  "2023-01-04": 35805,
-  "2023-01-05": 35805,
-  "2023-01-06": 35805,
-  "2023-01-07": 35805,
-  "2023-01-08": 35805,
-  "2023-01-09": 35805,
-  "2023-01-10": 35805,
-  "2023-01-11": 35805,
-  "2023-01-12": 35805,
-  "2023-01-13": 35805,
-  "2023-01-14": 35805,
-  "2023-01-15": 35805,
-  "2023-01-16": 35805,
-  "2023-01-17": 35805,
-  "2023-01-18": 35805,
-  "2023-01-19": 35805,
-  "2023-01-20": 35805,
-  "2023-01-21": 35805,
-  "2023-01-22": 35805,
-  "2023-01-23": 35805,
-  "2023-01-24": 35805,
-  "2023-01-25": 35805,
-  "2023-01-26": 35805,
-  "2023-01-27": 35805,
-  "2023-01-28": 35805,
-  "2023-01-29": 35805,
-  "2023-01-30": 35805,
-  "2023-01-31": 35805,
-  "2023-02-01": 35805,
-  "2023-02-02": 35805,
-  "2023-02-03": 35805,
-  "2023-02-04": 35805,
-  "2023-02-05": 35805,
-  "2023-02-06": 35805,
-  "2023-02-07": 35805,
-  "2023-02-08": 35805,
-  "2023-02-09": 35805,
-  "2023-02-10": 35805,
-  "2023-02-11": 35805,
-  "2023-02-12": 35805,
-  "2023-02-13": 35805,
-  "2023-02-14": 35805,
-  "2023-02-15": 35805,
-  "2023-02-16": 35805,
-  "2023-02-17": 35805,
-  "2023-02-18": 35805,
-  "2023-02-19": 35805,
-  "2023-02-20": 35805,
-  "2023-02-21": 35805,
-  "2023-02-22": 35805,
-  "2023-02-23": 35805,
-  "2023-02-24": 35805,
-  "2023-02-25": 35805,
-  "2023-02-26": 35805,
-  "2023-02-27": 35805,
-  "2023-02-28": 35805,
-  "2023-03-01": 35805,
-  "2023-03-02": 35805,
-  "2023-03-03": 35805,
-  "2023-03-04": 35805,
-  "2023-03-05": 35805,
-  "2023-03-06": 35805,
-  "2023-03-07": 35805,
-  "2023-03-08": 35805,
-  "2023-03-09": 35805,
-  "2023-03-10": 35805,
-  "2023-03-11": 35805,
-  "2023-03-12": 35805,
-  "2023-03-13": 35805,
-  "2023-03-14": 35805,
-  "2023-03-15": 35805,
-  "2023-03-16": 35805,
-  "2023-03-17": 35805,
-  "2023-03-18": 35805,
-  "2023-03-19": 35805,
-  "2023-03-20": 35805,
-  "2023-03-21": 35805,
-  "2023-03-22": 35805,
-  "2023-03-23": 35805,
-  "2023-03-24": 35805,
-  "2023-03-25": 35805,
-  "2023-03-26": 35805,
-  "2023-03-27": 35805,
-  "2023-03-28": 35805,
-  "2023-03-29": 35805,
-  "2023-03-30": 35805,
-  "2023-03-31": 35805,
-  "2023-04-01": 35805,
-  "2023-04-02": 35805,
-  "2023-04-03": 35805,
-  "2023-04-04": 35805,
-  "2023-04-05": 35805,
-  "2023-04-06": 35805,
-  "2023-04-07": 35805,
-  "2023-04-09": 35805,
-  "2023-04-10": 35805,
-  "2023-04-11": 35805,
-  "2023-04-12": 35805,
-  "2023-04-13": 35805,
-  "2023-04-14": 35805,
-  "2023-04-15": 35805,
-  "2023-04-16": 35805,
-  "2023-04-17": 35805,
-  "2023-04-18": 35805,
-  "2023-04-19": 35805,
-  "2023-04-20": 35805,
-  "2023-04-21": 35805,
-  "2023-04-22": 35805,
-  "2023-04-23": 35805,
-  "2023-04-24": 35805,
-  "2023-04-25": 35805,
-  "2023-04-26": 35805,
-  "2023-04-27": 35805,
-  "2023-04-28": 35805,
-  "2023-04-29": 35805,
-  "2023-04-30": 35805,
-  "2023-05-01": 35805,
-  "2023-05-02": 35805,
-  "2023-05-03": 35805,
-  "2023-05-04": 35805,
-  "2023-05-05": 35805,
-  "2023-05-06": 35805,
-  "2023-05-07": 35805,
-  "2023-05-08": 35805,
-  "2023-05-09": 35805,
-  "2023-05-10": 35805,
-  "2023-05-11": 35805,
-  "2023-05-12": 35805,
-  "2023-05-13": 35805,
-  "2023-05-14": 35805,
-  "2023-05-15": 35805,
-  "2023-05-16": 35805,
-  "2023-05-17": 35805,
-  "2023-05-18": 35805,
-  "2023-05-19": 35805,
-  "2023-05-20": 35805,
-  "2023-05-21": 35805,
-  "2023-05-22": 35805,
-  "2023-05-23": 35805,
-  "2023-05-24": 35805,
-  "2023-05-25": 35805,
-  "2023-05-26": 35805,
-  "2023-05-27": 35805,
-  "2023-05-28": 35805,
-  "2023-05-29": 35805,
-  "2023-05-30": 35805,
-  "2023-05-31": 35805,
-  "2023-06-01": 35805,
-  "2023-06-02": 35805,
-  "2023-06-03": 35805,
-  "2023-06-04": 35805,
-  "2023-06-05": 35805,
-  "2023-06-06": 35805,
-  "2023-06-07": 35805,
-  "2023-06-08": 35805,
-  "2023-06-09": 35805,
-  "2023-06-10": 35805,
-  "2023-06-11": 35805,
-  "2023-06-12": 35805,
-  "2023-06-13": 35805,
-  "2023-06-14": 35805,
-  "2023-06-15": 35805,
-  "2023-06-16": 35805,
-  "2023-06-17": 35805,
-  "2023-06-18": 35805,
-  "2023-06-19": 35805,
-  "2023-06-20": 35805,
-  "2023-06-21": 35805,
-  "2023-06-22": 35805,
-  "2023-06-23": 35805,
-  "2023-06-24": 35805,
-  "2023-06-25": 35805,
-  "2023-06-26": 35805,
-  "2023-06-27": 35805,
-  "2023-06-28": 35805,
-  "2023-06-29": 35805,
-  "2023-06-30": 35805,
-  "2023-07-01": 35805,
-  "2023-07-02": 35805,
-  "2023-07-03": 35805,
-  "2023-07-04": 35805,
-  "2023-07-05": 35805,
-  "2023-07-06": 35805,
-  "2023-07-07": 35805,
-  "2023-07-08": 35805,
-  "2023-07-09": 35805,
-  "2023-07-10": 35805,
-  "2023-07-11": 35805,
-  "2023-07-12": 35805,
-  "2023-07-13": 35805,
-  "2023-07-14": 35805,
-  "2023-07-15": 35805,
-  "2023-07-16": 35805,
-  "2023-07-17": 35805,
-  "2023-07-18": 35805,
-  "2023-07-19": 35805,
-  "2023-07-20": 35805,
-  "2023-07-21": 35805,
-  "2023-07-22": 35805,
-  "2023-07-23": 35805,
-  "2023-07-24": 35805,
-  "2023-07-25": 35805,
-  "2023-07-26": 35805,
-  "2023-07-27": 35805,
-  "2023-07-28": 35805,
-  "2023-07-29": 35805,
-  "2023-07-30": 35805,
-  "2023-07-31": 35805,
-  "2023-08-01": 35805,
-  "2023-08-02": 35805,
-  "2023-08-03": 35805,
-  "2023-08-04": 35805,
-  "2023-08-05": 35805,
-  "2023-08-06": 35805,
-  "2023-08-07": 35805,
-  "2023-08-08": 35805,
-  "2023-08-09": 35805,
-  "2023-08-10": 35805,
-  "2023-08-11": 35805,
-  "2023-08-12": 35805,
-  "2023-08-13": 35805,
-  "2023-08-14": 35805,
-  "2023-08-15": 35805,
-  "2023-08-16": 35805,
-  "2023-08-17": 35805,
-  "2023-08-18": 35805,
-  "2023-08-19": 35805,
-  "2023-08-20": 35805,
-  "2023-08-21": 35805,
-  "2023-08-22": 35805,
-  "2023-08-23": 35805,
-  "2023-08-24": 35805,
-  "2023-08-25": 35805,
-  "2023-08-26": 35805,
-  "2023-08-27": 35805,
-  "2023-08-28": 35805,
-  "2023-08-29": 35805,
-  "2023-08-30": 35805,
-  "2023-08-31": 35805,
-  "2023-09-01": 35805,
-  "2023-09-02": 35805,
-  "2023-09-03": 35805,
-  "2023-09-04": 35805,
-  "2023-09-05": 35805,
-  "2023-09-06": 35805,
-  "2023-09-07": 35805,
-  "2023-09-08": 35805,
-  "2023-09-09": 35805,
-  "2023-09-10": 35805,
-  "2023-09-11": 35805,
-  "2023-09-12": 35805,
-  "2023-09-13": 35805,
-  "2023-09-14": 35805,
-  "2023-09-15": 35805,
-  "2023-09-16": 35805,
-  "2023-09-17": 35805,
-  "2023-09-18": 35805,
-  "2023-09-19": 35805,
-  "2023-09-20": 35805,
-  "2023-09-21": 35805,
-  "2023-09-22": 35805,
-  "2023-09-23": 35805,
-  "2023-09-24": 35805,
-  "2023-09-25": 35805,
-  "2023-09-26": 35805,
-  "2023-09-27": 35805,
-  "2023-09-28": 35805,
-  "2023-09-29": 35805,
-  "2023-09-30": 35805,
-  "2023-10-01": 35805,
-  "2023-10-02": 35805,
-  "2023-10-03": 35805,
-  "2023-10-04": 35805,
-  "2023-10-05": 35805,
-  "2023-10-06": 35805,
-  "2023-10-07": 35805,
-  "2023-10-08": 35805,
-  "2023-10-09": 35805,
-  "2023-10-10": 35805,
-  "2023-10-11": 35805,
-  "2023-10-12": 35805,
-  "2023-10-13": 35805,
-  "2023-10-14": 35805,
-  "2023-10-15": 35805,
-  "2023-10-16": 35805,
-  "2023-10-17": 35805,
-  "2023-10-18": 35805,
-  "2023-10-19": 35805,
-  "2023-10-20": 35805,
-  "2023-10-21": 35805,
-  "2023-10-22": 35805,
-  "2023-10-23": 35805,
-  "2023-10-24": 35805,
-  "2023-10-25": 35805,
-  "2023-10-26": 35805,
-  "2023-10-27": 35805,
-  "2023-10-28": 35805,
-  "2023-10-29": 35805,
-  "2023-10-30": 35805,
-  "2023-10-31": 35805,
-  "2023-11-01": 35805,
-  "2023-11-02": 35805,
-  "2023-11-03": 35805,
-  "2023-11-04": 35805,
-  "2023-11-05": 35805,
-  "2023-11-06": 35805,
-  "2023-11-07": 35805,
-  "2023-11-08": 35805,
-  "2023-11-09": 35805,
-  "2023-11-10": 35805,
-  "2023-11-11": 35805,
-  "2023-11-12": 35805,
-  "2023-11-13": 35805,
-  "2023-11-14": 35805,
-  "2023-11-15": 35805,
-  "2023-11-16": 35805,
-  "2023-11-17": 35805,
-  "2023-11-18": 35805,
-  "2023-11-19": 35805,
-  "2023-11-20": 35805,
-  "2023-11-21": 35805,
-  "2023-11-22": 35805,
-  "2023-11-23": 35805,
-  "2023-11-24": 35805,
-  "2023-11-25": 35805,
-  "2023-11-26": 35805,
-  "2023-11-27": 35805,
-  "2023-11-28": 35805,
-  "2023-11-29": 35805,
-  "2023-11-30": 35805,
-  "2023-12-01": 35805,
-  "2023-12-02": 35805,
-  "2023-12-03": 35805,
-  "2023-12-04": 35805,
-  "2023-12-05": 35805,
-  "2023-12-06": 35805,
-  "2023-12-07": 35805,
-  "2023-12-08": 35805,
-  "2023-12-09": 35805,
-  "2023-12-10": 35805,
-  "2023-12-11": 35805,
-  "2023-12-12": 35805,
-  "2023-12-13": 35805,
-  "2023-12-14": 35805,
-  "2023-12-15": 35805,
-  "2023-12-16": 35805,
-  "2023-12-17": 35805,
-  "2023-12-18": 35805,
-  "2023-12-19": 35805,
-  "2023-12-20": 35805,
-  "2023-12-21": 35805,
-  "2023-12-22": 35805,
-  "2023-12-23": 35805,
-  "2023-12-24": 35805,
-  "2023-12-25": 35805,
-  "2023-12-26": 35805,
-  "2023-12-27": 35805,
-  "2023-12-30": 35805,
-  "2023-12-31": 35805,
-  "2024-01-01": 35805,
-  "2024-01-02": 35805,
-  "2024-01-03": 35805
+  "2024-01-17": 35805,
+  "date_first_scraped": "2021-12-21",
+  "description": "A 50-track collection of the best brass band pieces in <a href=\"http://open.spotify.com/genre/classical\">classical</a> music, from Fanfares For The Common Men, to dozens of brilliant 20/21 century works in the ever expanding repertoire. Also follow: <a href=\"spotify:user:spotify:playlist:28dKgWKUcZ6HKUmav0jQ1w\">wind symphoy playlist</a>.",
+  "name": "All About That Brass",
+  "tracks": [
+    {
+      "album": {
+        "name": "Besses O' Th' Barn Band: Showcase for Brass",
+        "url": "https://open.spotify.com/album/0mAB6qd1V6mlCWkEMmvNNr"
+      },
+      "artists": [
+        {
+          "name": "Herbert Howells",
+          "url": "https://open.spotify.com/artist/0Artcj84fSLUN93JectewP"
+        },
+        {
+          "name": "Besses O' Th' Barn Band",
+          "url": "https://open.spotify.com/artist/6mXIImx5DQWtz6x2TN6TEX"
+        },
+        {
+          "name": "Roy Newsome",
+          "url": "https://open.spotify.com/artist/1iThYlEwrX3ntalIPS1iBA"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 773040,
+      "name": "3 Figures - Tryptych",
+      "url": "https://open.spotify.com/track/4ade8N1IfKGmqx9ripCKO3"
+    },
+    {
+      "album": {
+        "name": "Clockworks",
+        "url": "https://open.spotify.com/album/67hQ8CgVT4xSg0alIi7dnx"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "Stockholm Chamber Brass",
+          "url": "https://open.spotify.com/artist/4KQq7mmIf8ZJPVH6cSG4kO"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290160,
+      "name": "4 Outings: II. Blues tempo",
+      "url": "https://open.spotify.com/track/4QvgOI0c6SUoJg1ygKdX69"
+    },
+    {
+      "album": {
+        "name": "Grimethorpe Colliery Band: Brass From the Masters, Vol. 2",
+        "url": "https://open.spotify.com/album/5Hp5OlXnThMDglD5VcACMB"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Grimethorpe Colliery Band",
+          "url": "https://open.spotify.com/artist/0SVNnCjJeO3rToe1hFkOGD"
+        },
+        {
+          "name": "Garry Cutt",
+          "url": "https://open.spotify.com/artist/41NyOPmvMz7eaRDSrqEXsU"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486000,
+      "name": "A Moorside Suite, H. 173: II. Nocturne. Adagio",
+      "url": "https://open.spotify.com/track/3Ld3VB6a8UFFAXR3XwCdsC"
+    },
+    {
+      "album": {
+        "name": "Sellers Engineering Band: World of Brass (The)",
+        "url": "https://open.spotify.com/album/0tirp0SBF1sgf45fPcqv3H"
+      },
+      "artists": [
+        {
+          "name": "Gordon Langford",
+          "url": "https://open.spotify.com/artist/4uGeBwZgURpZhAPdkMVFTB"
+        },
+        {
+          "name": "The Sellers Engineering Band",
+          "url": "https://open.spotify.com/artist/6gQayRY0h4AyQ5tTyGhIpt"
+        },
+        {
+          "name": "Philip McCann",
+          "url": "https://open.spotify.com/artist/5086tTZ6bLZpoHZgFn3Zwr"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465840,
+      "name": "A Russian Fantasy",
+      "url": "https://open.spotify.com/track/2eYmyI2DdoKWt6bjiVmh5Z"
+    },
+    {
+      "album": {
+        "name": "New Music for Brass Band",
+        "url": "https://open.spotify.com/album/3Pg1Qcizy06l8mDZ2bSamD"
+      },
+      "artists": [
+        {
+          "name": "George Benjamin",
+          "url": "https://open.spotify.com/artist/5g9zIZkmU9m893xgFpbkfe"
+        },
+        {
+          "name": "Foden's Richardson Band",
+          "url": "https://open.spotify.com/artist/30j0mhb5GetAqUJ1QouZGW"
+        },
+        {
+          "name": "Bramwell Tovey",
+          "url": "https://open.spotify.com/artist/3AWvdlYTAW4dVzfeqZY9tK"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522960,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/1c0DFp3911Ln9P2Ztlo5lF"
+    },
+    {
+      "album": {
+        "name": "Chamber Music (Brass Quintet) - Scheidt, S. / Ferrabosco Ii, A. / Morley, T. / Holborne, A. / Weelkes, T. / Simpson, T.",
+        "url": "https://open.spotify.com/album/37rViem70NRVxzqoSSyViK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Scheidt",
+          "url": "https://open.spotify.com/artist/4KXA4ubR6aX1CzacM8zmtr"
+        },
+        {
+          "name": "American Brass Quintet",
+          "url": "https://open.spotify.com/artist/2Ec8ouudcRtqhFOpvDRUJk"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95333,
+      "name": "Battle Suite: I. Intrada",
+      "url": "https://open.spotify.com/track/76AVAb2vkjnXo5nfzFvJ6A"
+    },
+    {
+      "album": {
+        "name": "The Essential Canadian Brass",
+        "url": "https://open.spotify.com/album/4hmSgzraAZIGQwKL7RUPcu"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Gabrieli",
+          "url": "https://open.spotify.com/artist/1OyxYAdM222Bw3DMzy2Aed"
+        },
+        {
+          "name": "Canadian Brass",
+          "url": "https://open.spotify.com/artist/51LdwFHCk1yoK1jELZ4VOu"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Canzone prima a 5 - 1.",
+      "url": "https://open.spotify.com/track/4zGVvy3uimYz82NDFUmzRf"
+    },
+    {
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/4CjiholPxd4WTxovf7D4Sw"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "tenThing",
+          "url": "https://open.spotify.com/artist/09HjCpofbxrtDGVLwXc0X6"
+        }
+      ],
+      "date_added": "2017-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389786,
+      "name": "Carmen: Prelude - les Toreadors - Habanera - Danse Boheme - Chanson du Toreador",
+      "url": "https://open.spotify.com/track/5Wtas7dfnJQRzoDiMaj1Zz"
+    },
+    {
+      "album": {
+        "name": "Rising Sun",
+        "url": "https://open.spotify.com/album/1nQhdR0CtzWGdMyIEE8jky"
+      },
+      "artists": [
+        {
+          "name": "Joseph Horovitz",
+          "url": "https://open.spotify.com/artist/2o9zTH1sCeFSC2sizSym3b"
+        },
+        {
+          "name": "Jens Lindemann",
+          "url": "https://open.spotify.com/artist/3iNTxrkbylljn04dsdtdn9"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "Concertino Classico For Two Trumpets",
+      "url": "https://open.spotify.com/track/0VKmMyFbLiSADdpN5fJFm5"
+    },
+    {
+      "album": {
+        "name": "Anagram",
+        "url": "https://open.spotify.com/album/2PD6s6BIRaoYJU9MTBTSL7"
+      },
+      "artists": [
+        {
+          "name": "Derek Bourgeois",
+          "url": "https://open.spotify.com/artist/3qCNy5pZPUa5VI7MBnwwJj"
+        },
+        {
+          "name": "Norwegian Brass Expo",
+          "url": "https://open.spotify.com/artist/2Yn6WA4ge0dADHU3fIu3Wh"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1287544,
+      "name": "Concerto Grosso Op.61",
+      "url": "https://open.spotify.com/track/2ff3UuYhzgfCtxT6qcXowm"
+    },
+    {
+      "album": {
+        "name": "CSO Resound - Chicago Symphony Orchestra Brass Live",
+        "url": "https://open.spotify.com/album/1rB7jbgGyH50wI0Wj2U42W"
+      },
+      "artists": [
+        {
+          "name": "William Walton",
+          "url": "https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5"
+        },
+        {
+          "name": "Joseph Kreines",
+          "url": "https://open.spotify.com/artist/2i6rF48u96d4Qz2IewOd8h"
+        },
+        {
+          "name": "Chicago Symphony Orchestra, brass section",
+          "url": "https://open.spotify.com/artist/7JAg69PmcEuCWau9EfoOSc"
+        },
+        {
+          "name": "Jay Friedman",
+          "url": "https://open.spotify.com/artist/0fB4eRGBz0B4JmxZZBa5jt"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370946,
+      "name": "Crown Imperial: Coronation March (arr. J. Kreines)",
+      "url": "https://open.spotify.com/track/3bDeckaQ3xcSgvAUcMMfMa"
+    },
+    {
+      "album": {
+        "name": "Dark Arteries",
+        "url": "https://open.spotify.com/album/5iweQcZVZm0cmTCCCuIDjF"
+      },
+      "artists": [
+        {
+          "name": "Gavin Higgins",
+          "url": "https://open.spotify.com/artist/0QyOXNEmBma3qucDBlJWs7"
+        },
+        {
+          "name": "Tredegar Town Band",
+          "url": "https://open.spotify.com/artist/49dHKdpcTfRNCjSnIelLB2"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 831106,
+      "name": "Dark Arteries: These Scars Across Your Heart",
+      "url": "https://open.spotify.com/track/7gCFW2rnrVA5seKvVojT9g"
+    },
+    {
+      "album": {
+        "name": "Famous Marches",
+        "url": "https://open.spotify.com/album/26xblPojy4bKZn7Gt6CGiq"
+      },
+      "artists": [
+        {
+          "name": "Julius Fu\u010d\u00edk",
+          "url": "https://open.spotify.com/artist/4IWLhAyPCROEDrthOxG8YJ"
+        },
+        {
+          "name": "The Philip Jones Brass Ensemble",
+          "url": "https://open.spotify.com/artist/1k8OBOZFeKJJYbpFpndv5R"
+        },
+        {
+          "name": "Elgar Howarth",
+          "url": "https://open.spotify.com/artist/3BRoudT5lo1uJid2k9XB7l"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "Entry of the Gladiators (Arr. for Brass Ensemble)",
+      "url": "https://open.spotify.com/track/1DdTJpZqyr9ABOxIxBfICY"
+    },
+    {
+      "album": {
+        "name": "Prime Meridian",
+        "url": "https://open.spotify.com/album/0ZxmmWfeZXXuVBb4sKESB5"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Meridian Arts Ensemble",
+          "url": "https://open.spotify.com/artist/5a77lKFrlvCn9KRDH5yNUf"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38973,
+      "name": "Fanfare for a New Theatre",
+      "url": "https://open.spotify.com/track/3oAgPMbLwuUvOn76wpBfa1"
+    },
+    {
+      "album": {
+        "name": "Brass Collection",
+        "url": "https://open.spotify.com/album/6a7aprjz2Fa38VG4UrdawI"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Simon Wright",
+          "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
+        },
+        {
+          "name": "John Wallace",
+          "url": "https://open.spotify.com/artist/2Jp1IUkeVQEQ52hD5ca9kk"
+        },
+        {
+          "name": "The Wallace Collection",
+          "url": "https://open.spotify.com/artist/67K0cyAafV3Do2DK8DC3tZ"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "Fanfare for St. Edmundsbury for 3 Trumpets",
+      "url": "https://open.spotify.com/track/0uS7eyvSfWmyVd2QSjcIBi"
+    },
+    {
+      "album": {
+        "name": "Copland Conducts Copland - Expanded Edition (Fanfare for the Common Man, Appalachian Spring, Old American Songs (Complete), Rodeo: Four Dance Episodes)",
+        "url": "https://open.spotify.com/album/6HTApVGuu1fLH9QBbB3vEQ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Copland",
+          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Fanfare for the Common Man",
+      "url": "https://open.spotify.com/track/3T9HSgS5jBFdXIBPav51gj"
+    },
+    {
+      "album": {
+        "name": "British Music for Brass",
+        "url": "https://open.spotify.com/album/7DV7hfg3i6RnywLK2J91VZ"
+      },
+      "artists": [
+        {
+          "name": "Arthur Bliss",
+          "url": "https://open.spotify.com/artist/3HbYuCFRHmbFH1spvdBL0j"
+        },
+        {
+          "name": "The Philip Jones Brass Ensemble",
+          "url": "https://open.spotify.com/artist/1k8OBOZFeKJJYbpFpndv5R"
+        },
+        {
+          "name": "John Iveson",
+          "url": "https://open.spotify.com/artist/5y3pJ7o1PcQMCvcYzULTOD"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104040,
+      "name": "Fanfare For The Lord Mayor Of London",
+      "url": "https://open.spotify.com/track/2KIo7D9iSwxvrMSGMCrXXn"
+    },
+    {
+      "album": {
+        "name": "Bax: Orchestral Works",
+        "url": "https://open.spotify.com/album/7bopqmYNYqrMY53tMFCvxD"
+      },
+      "artists": [
+        {
+          "name": "Arnold Bax",
+          "url": "https://open.spotify.com/artist/3qu7PRI4DKHhf9vo4rXXxn"
+        },
+        {
+          "name": "The Philip Jones Brass Ensemble",
+          "url": "https://open.spotify.com/artist/1k8OBOZFeKJJYbpFpndv5R"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108853,
+      "name": "Fanfare for the Wedding of Princess Elizabeth",
+      "url": "https://open.spotify.com/track/5YZmD7H0xKMCxYy1YZtmHU"
+    },
+    {
+      "album": {
+        "name": "Grimethorpe Colliery Band: Brass From the Masters, Vol. 2",
+        "url": "https://open.spotify.com/album/5Hp5OlXnThMDglD5VcACMB"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Arnold",
+          "url": "https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e"
+        },
+        {
+          "name": "Grimethorpe Colliery Band",
+          "url": "https://open.spotify.com/artist/0SVNnCjJeO3rToe1hFkOGD"
+        },
+        {
+          "name": "Garry Cutt",
+          "url": "https://open.spotify.com/artist/41NyOPmvMz7eaRDSrqEXsU"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565200,
+      "name": "Fantasy, Op. 114a: Fantasy for Brass Band",
+      "url": "https://open.spotify.com/track/5Yug4bg6Z0JlNLUJofh4JE"
+    },
+    {
+      "album": {
+        "name": "Center City Brass Quintet: Street Song",
+        "url": "https://open.spotify.com/album/3GQdYhwK3JZWadOSOQYo5Z"
+      },
+      "artists": [
+        {
+          "name": "Anthony DiLorenzo",
+          "url": "https://open.spotify.com/artist/4REYezuyf4RjDfw6vW6dLz"
+        },
+        {
+          "name": "Center City Brass Quintet",
+          "url": "https://open.spotify.com/artist/07aLskHV0NInOdkfypnBEh"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226440,
+      "name": "Fire Dance",
+      "url": "https://open.spotify.com/track/7wYhiueKctltN4tdo1TdlS"
+    },
+    {
+      "album": {
+        "name": "Arnold, M. / Ewald / Bozza / Maurer / Dahl / Clavert: Works for Brass Ensemble",
+        "url": "https://open.spotify.com/album/0UHooWyorJJ8emrVEaOBsU"
+      },
+      "artists": [
+        {
+          "name": "Morley Calvert",
+          "url": "https://open.spotify.com/artist/3BZBy8YvzWxBlww2he59al"
+        },
+        {
+          "name": "Center City Brass Quintet",
+          "url": "https://open.spotify.com/artist/07aLskHV0NInOdkfypnBEh"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "From the Monteregian Hills Suite: II. Chanson melancolique",
+      "url": "https://open.spotify.com/track/6BN7xr2XIa4N5gU7FkR6t6"
+    },
+    {
+      "album": {
+        "name": "Purcell: Funeral Sentences",
+        "url": "https://open.spotify.com/album/627aGQ92zHsBxZ3dlM0gcs"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Baroque Brass Of London",
+          "url": "https://open.spotify.com/artist/3lCbGqOiodj9dwsFqEVsrV"
+        },
+        {
+          "name": "David Hill",
+          "url": "https://open.spotify.com/artist/4Qq5rJ5mqO9DIXo2OPBWG8"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143026,
+      "name": "Funeral Sentences for the death of Queen Mary II: The Queen's Funeral March (Procession)",
+      "url": "https://open.spotify.com/track/5YwgDD71kfBGIUMNrOvPCv"
+    },
+    {
+      "album": {
+        "name": "A Bach Festival",
+        "url": "https://open.spotify.com/album/78gpDvmHGDi6FJvdWZngnR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Empire Brass",
+          "url": "https://open.spotify.com/artist/5fFFbl2ufejefn1aJZox5z"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380493,
+      "name": "Jacuchzet, frohlocket! from Christmas Oratorio BWV 248 - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/50e0bnvfTTu2nZjOkescnS"
+    },
+    {
+      "album": {
+        "name": "Black Dyke Mills Band: Epic Brass - British Music for Brass Band",
+        "url": "https://open.spotify.com/album/69Zu3FY0oapdGh9AxV00tZ"
+      },
+      "artists": [
+        {
+          "name": "Gilbert Vinter",
+          "url": "https://open.spotify.com/artist/3Sd48npS7sw9SZFeVGAtwP"
+        },
+        {
+          "name": "Black Dyke Mills Band",
+          "url": "https://open.spotify.com/artist/4ihnuyTn5SCeQYsVGcbt2s"
+        },
+        {
+          "name": "Roy Newsome",
+          "url": "https://open.spotify.com/artist/1iThYlEwrX3ntalIPS1iBA"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 671400,
+      "name": "James Cook - Circumnavigator",
+      "url": "https://open.spotify.com/track/4JrTdosJgl5UeseqCvR79O"
+    },
+    {
+      "album": {
+        "name": "Curnow: Legend in Brass / Jenkins: Coriolanus / Leidzen: Sinfonietta / Ball: The Kingdom Triumphant",
+        "url": "https://open.spotify.com/album/4gfNnr1zyQGyyHtnMWhMZ1"
+      },
+      "artists": [
+        {
+          "name": "James Curnow",
+          "url": "https://open.spotify.com/artist/6ZMc2pQrQsDCx3KhJ2tuuT"
+        },
+        {
+          "name": "The Sellers Engineering Band",
+          "url": "https://open.spotify.com/artist/6gQayRY0h4AyQ5tTyGhIpt"
+        },
+        {
+          "name": "Philip McCann",
+          "url": "https://open.spotify.com/artist/5086tTZ6bLZpoHZgFn3Zwr"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Legend in Brass: I. Fanfare: Allegro moderato e maestoso",
+      "url": "https://open.spotify.com/track/2G93L34H3s1zQZOFlpA87S"
+    },
+    {
+      "album": {
+        "name": "Lucifer: Music by Sackman, Burrell & Poole",
+        "url": "https://open.spotify.com/album/0sTOwzDmigo6nvbVnuDDPX"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey Poole",
+          "url": "https://open.spotify.com/artist/3dNVQXQbB9dMdz6j1GNsH1"
+        },
+        {
+          "name": "Philip Mead",
+          "url": "https://open.spotify.com/artist/1d85QLGvI5SQH9u4ptWbVL"
+        },
+        {
+          "name": "Royal Northern College of Music Brass Ensemble",
+          "url": "https://open.spotify.com/artist/7y57hTxBzGy95iyPtvgdfn"
+        },
+        {
+          "name": "James Gourlay",
+          "url": "https://open.spotify.com/artist/42NqV4z2qYR6j6MmT5XEVN"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370733,
+      "name": "Lucifer: New Babylon",
+      "url": "https://open.spotify.com/track/5nxccCD67TuanOIKDNpvgn"
+    },
+    {
+      "album": {
+        "name": "Lutos\u0142awski: Preludes and Fugue for 13 Solo Strings, Postludes & Fanfares",
+        "url": "https://open.spotify.com/album/5p83Eow9D5oqkbYQz4zsJK"
+      },
+      "artists": [
+        {
+          "name": "Witold Lutos\u0142awski",
+          "url": "https://open.spotify.com/artist/5Ks8fS8lZJnTFbtvxkDOkM"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Mini-Overture: Mini Overture",
+      "url": "https://open.spotify.com/track/3cQsUDsKqYGmUG24fGw5iw"
+    },
+    {
+      "album": {
+        "name": "Besses O' Th' Barn Band: Showcase for Brass",
+        "url": "https://open.spotify.com/album/0mAB6qd1V6mlCWkEMmvNNr"
+      },
+      "artists": [
+        {
+          "name": "Roy Newsome",
+          "url": "https://open.spotify.com/artist/1iThYlEwrX3ntalIPS1iBA"
+        },
+        {
+          "name": "Besses O' Th' Barn Band",
+          "url": "https://open.spotify.com/artist/6mXIImx5DQWtz6x2TN6TEX"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468573,
+      "name": "North West Passage",
+      "url": "https://open.spotify.com/track/1rKmGi76oc5qQNxW18KQB9"
+    },
+    {
+      "album": {
+        "name": "Pavans, Fantasias, Variations",
+        "url": "https://open.spotify.com/album/2jsmH4uifpjIZfkwsY3DaR"
+      },
+      "artists": [
+        {
+          "name": "Steve Martland",
+          "url": "https://open.spotify.com/artist/4vZJMfS6hOaHAAT38ZjMDk"
+        },
+        {
+          "name": "Onyx Brass",
+          "url": "https://open.spotify.com/artist/1qnL5ydfbGJZyPY8Iqc8An"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247266,
+      "name": "One Note Fantasy...",
+      "url": "https://open.spotify.com/track/7maXeXu5QQFJ8KsJDVDNcK"
+    },
+    {
+      "album": {
+        "name": "PJBE Finale",
+        "url": "https://open.spotify.com/album/4kxZcBKTUGRGgR6MgL1Add"
+      },
+      "artists": [
+        {
+          "name": "Einojuhani Rautavaara",
+          "url": "https://open.spotify.com/artist/3MXhtYDNuzQQmLfOKFgPiI"
+        },
+        {
+          "name": "The Philip Jones Brass Ensemble",
+          "url": "https://open.spotify.com/artist/1k8OBOZFeKJJYbpFpndv5R"
+        },
+        {
+          "name": "Elgar Howarth",
+          "url": "https://open.spotify.com/artist/3BRoudT5lo1uJid2k9XB7l"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 822266,
+      "name": "Playgrounds for Angels",
+      "url": "https://open.spotify.com/track/2dvcbzYgH3V80RYkNx99Cv"
+    },
+    {
+      "album": {
+        "name": "Williams Fairey Band: Bone Idyll",
+        "url": "https://open.spotify.com/album/2EtV3tpxq8WpFldyqnC0Aq"
+      },
+      "artists": [
+        {
+          "name": "Philip Sparke",
+          "url": "https://open.spotify.com/artist/3XCwWWjIBnQJn8UFxsnd1e"
+        },
+        {
+          "name": "Brett Baker",
+          "url": "https://open.spotify.com/artist/26oX9jbVrhvk385bOJNqdc"
+        },
+        {
+          "name": "Williams Fairey Band",
+          "url": "https://open.spotify.com/artist/5qTB9SqUKRkEmIat7X4fNc"
+        },
+        {
+          "name": "Bryan Hurdley",
+          "url": "https://open.spotify.com/artist/5VHogLxhmqCNa6QEmR3gbP"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260133,
+      "name": "Prelude and Scherzo: Scherzo",
+      "url": "https://open.spotify.com/track/4YnkKa1mb3gcBkPSHVVyzI"
+    },
+    {
+      "album": {
+        "name": "Black Dyke Mills Band: Champions of Brass",
+        "url": "https://open.spotify.com/album/39s7J1l77PkQWalEQQ7Yi6"
+      },
+      "artists": [
+        {
+          "name": "Granville Bantock",
+          "url": "https://open.spotify.com/artist/7LWakXb7xtbVwvHzeBotU1"
+        },
+        {
+          "name": "Black Dyke Mills Band",
+          "url": "https://open.spotify.com/artist/4ihnuyTn5SCeQYsVGcbt2s"
+        },
+        {
+          "name": "Geoffrey Brand",
+          "url": "https://open.spotify.com/artist/6QxAAWvn2KjrpsXAs6pMUJ"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587880,
+      "name": "Prometheus unbound",
+      "url": "https://open.spotify.com/track/22rQLc3KbFiZ54UtkH1JtB"
+    },
+    {
+      "album": {
+        "name": "Luke Carver Goss: Pure Gold \"A 4x4 Relay Race\" (Live)",
+        "url": "https://open.spotify.com/album/1cQixBkeM7N7KR7VEWvEic"
+      },
+      "artists": [
+        {
+          "name": "Luke Carver Goss",
+          "url": "https://open.spotify.com/artist/0lGJFYdOla07KJzk9304ay"
+        },
+        {
+          "name": "Ian McMillan",
+          "url": "https://open.spotify.com/artist/5dshSpebkTwsBnMJMGPmhu"
+        },
+        {
+          "name": "Black Dyke Band",
+          "url": "https://open.spotify.com/artist/4oSmVew9F141WbSWJTZZF4"
+        },
+        {
+          "name": "Manchester Chorale",
+          "url": "https://open.spotify.com/artist/6TINkwxG3J8RNxoGp7ZcPV"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 851877,
+      "name": "Pure Gold: A 4x4 Relay Race",
+      "url": "https://open.spotify.com/track/3Yzm5ZKYFNAEEBspzqvlgQ"
+    },
+    {
+      "album": {
+        "name": "Black Dyke Mills Band: Lion and the Eagle (The)",
+        "url": "https://open.spotify.com/album/4lP4nVBJcGxJcA7a7EBukD"
+      },
+      "artists": [
+        {
+          "name": "Eric Ball",
+          "url": "https://open.spotify.com/artist/6v6WJeSPEY0BPrc5QQkqz7"
+        },
+        {
+          "name": "Black Dyke Mills Band",
+          "url": "https://open.spotify.com/artist/4ihnuyTn5SCeQYsVGcbt2s"
+        },
+        {
+          "name": "Roy Newsome",
+          "url": "https://open.spotify.com/artist/1iThYlEwrX3ntalIPS1iBA"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483840,
+      "name": "Rhapsody on Negro Spirituals",
+      "url": "https://open.spotify.com/track/4r2gP0vmnsd4QM5qXFNDVH"
+    },
+    {
+      "album": {
+        "name": "Grimethorpe Colliery Band: From Sonnets To Jazz",
+        "url": "https://open.spotify.com/album/1aCEmpVxX1JsQOvlFtkcoZ"
+      },
+      "artists": [
+        {
+          "name": "John McCabe",
+          "url": "https://open.spotify.com/artist/3mHbFOOrXQYhy7FpYCLOW8"
+        },
+        {
+          "name": "Grimethorpe Colliery Band",
+          "url": "https://open.spotify.com/artist/0SVNnCjJeO3rToe1hFkOGD"
+        },
+        {
+          "name": "Peter Parkes",
+          "url": "https://open.spotify.com/artist/48BymVaReLd1fvMqvsBeaW"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 745560,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/5OUV11OuJ4l3GPCcOPfRgs"
+    },
+    {
+      "album": {
+        "name": "Elgar: Severn Suite / Bourgeois: William and Mary / Tavener: Trisagion / Pickard: Black Castles",
+        "url": "https://open.spotify.com/album/29sv9IY9uqTfb9ykjV18bj"
+      },
+      "artists": [
+        {
+          "name": "Mark-Anthony Turnage",
+          "url": "https://open.spotify.com/artist/2mNCjLMJzdNmVVoCZnTxYC"
+        },
+        {
+          "name": "Brass Partout",
+          "url": "https://open.spotify.com/artist/3fyRcIJeNMKyShzbpcurue"
+        },
+        {
+          "name": "Hermann B\u00e4umer",
+          "url": "https://open.spotify.com/artist/17LQj2UDvltRWjoDLljAYc"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490093,
+      "name": "Set To",
+      "url": "https://open.spotify.com/track/5GAiDvemhUBQPcaT1OG2eF"
+    },
+    {
+      "album": {
+        "name": "Williams Fairey Band: Brass From the Masters, Vol. 1",
+        "url": "https://open.spotify.com/album/5HrXyBO32y2jSHpFYuhNDt"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Williams Fairey Band",
+          "url": "https://open.spotify.com/artist/5qTB9SqUKRkEmIat7X4fNc"
+        },
+        {
+          "name": "James Gourlay",
+          "url": "https://open.spotify.com/artist/42NqV4z2qYR6j6MmT5XEVN"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249840,
+      "name": "Severn Suite, Op. 87: II. Toccata: Tournament \u2014",
+      "url": "https://open.spotify.com/track/2WU9yUDBoRhHHNfI4NUtB1"
+    },
+    {
+      "album": {
+        "name": "Carnoustie and District Youth Brass Band - The Championship Years 2009-2012",
+        "url": "https://open.spotify.com/album/1AZLcdQZXaFMKpp1yGPQUi"
+      },
+      "artists": [
+        {
+          "name": "Paul Lovatt-Cooper",
+          "url": "https://open.spotify.com/artist/7cdU7y01KWzklKrkh9Zf5A"
+        },
+        {
+          "name": "Carnoustie and District Youth Brass Band",
+          "url": "https://open.spotify.com/artist/5ES7OkvPB38TIhrNlvG9Dw"
+        }
+      ],
+      "date_added": "2017-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416880,
+      "name": "Skylines",
+      "url": "https://open.spotify.com/track/3ch2FwDF6r45yGtZX2nbsi"
+    },
+    {
+      "album": {
+        "name": "Grimethorpe Colliery Band: Grimethorpe",
+        "url": "https://open.spotify.com/album/1cQJ9ybHwmnoni8NXbFgpk"
+      },
+      "artists": [
+        {
+          "name": "Robert Browne Hall",
+          "url": "https://open.spotify.com/artist/1gGfY33gRSHyXjv2ZTg8ge"
+        },
+        {
+          "name": "Grimethorpe Colliery Band",
+          "url": "https://open.spotify.com/artist/0SVNnCjJeO3rToe1hFkOGD"
+        },
+        {
+          "name": "Garry Cutt",
+          "url": "https://open.spotify.com/artist/41NyOPmvMz7eaRDSrqEXsU"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Tenth Regiment March, \"Death or Glory\"",
+      "url": "https://open.spotify.com/track/6FJnA5UvE9W4LLZCcvX6iQ"
+    },
+    {
+      "album": {
+        "name": "Swing Low, Sweet Chariot: Timeless English Classics",
+        "url": "https://open.spotify.com/album/0LkdJgswbs2l4IxRlfilMc"
+      },
+      "artists": [
+        {
+          "name": "Eric Coates",
+          "url": "https://open.spotify.com/artist/7cDM8mvqJEmXgDdOpFDP8E"
+        },
+        {
+          "name": "The Philip Jones Brass Ensemble",
+          "url": "https://open.spotify.com/artist/1k8OBOZFeKJJYbpFpndv5R"
+        },
+        {
+          "name": "Elgar Howarth",
+          "url": "https://open.spotify.com/artist/3BRoudT5lo1uJid2k9XB7l"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231880,
+      "name": "The Dam Busters (Arr. Duthoit)",
+      "url": "https://open.spotify.com/track/3mDAIqn4nv4RwxP72PaUk8"
+    },
+    {
+      "album": {
+        "name": "Grainger: Duke of Marlborough Fanfare (The) / Lincolnshire Posy / Roussel: A Glorious Day",
+        "url": "https://open.spotify.com/album/4z4ujUeqdtD2fC1ORziEXe"
+      },
+      "artists": [
+        {
+          "name": "Percy Grainger",
+          "url": "https://open.spotify.com/artist/6evVLxWyiwmi8gDtHn1Vzx"
+        },
+        {
+          "name": "United States Air Force Band",
+          "url": "https://open.spotify.com/artist/1E48RxEELIDpEM30YVL3nc"
+        },
+        {
+          "name": "Lowell Graham",
+          "url": "https://open.spotify.com/artist/00gpmX5co5L1QxeiNlWkDa"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "The Duke of Marlborough Fanfare",
+      "url": "https://open.spotify.com/track/2I5Ft9KPVa2CYMj2GfZCdR"
+    },
+    {
+      "album": {
+        "name": "Black Dyke Mills Band: Classic Brass",
+        "url": "https://open.spotify.com/album/48Xrk0Mtxp4vsO9N7QRpPQ"
+      },
+      "artists": [
+        {
+          "name": "Edward Gregson",
+          "url": "https://open.spotify.com/artist/06GPOv9QteNLh9flCKiBGe"
+        },
+        {
+          "name": "Black Dyke Mills Band",
+          "url": "https://open.spotify.com/artist/4ihnuyTn5SCeQYsVGcbt2s"
+        },
+        {
+          "name": "Geoffrey Brand",
+          "url": "https://open.spotify.com/artist/6QxAAWvn2KjrpsXAs6pMUJ"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 716026,
+      "name": "The Plantagenets",
+      "url": "https://open.spotify.com/track/5NNppXqdhEfo0OGmRAtjix"
+    },
+    {
+      "album": {
+        "name": "The Sound of the Trumpet",
+        "url": "https://open.spotify.com/album/6KnVVuwWfdYtULsquIHsbG"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "The Michael Laird Brass Ensemble",
+          "url": "https://open.spotify.com/artist/6UQEqCBdBAuleq6YsCuUvE"
+        },
+        {
+          "name": "Peter Hurford",
+          "url": "https://open.spotify.com/artist/3PSQN3N1XMmxWEjrYK1nvs"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156266,
+      "name": "Trumpet Tune",
+      "url": "https://open.spotify.com/track/2WUvQ0KM6NQp4oxFTdYb1M"
+    },
+    {
+      "album": {
+        "name": "Brass",
+        "url": "https://open.spotify.com/album/0XZu51AAQZ7fJDagCztgVM"
+      },
+      "artists": [
+        {
+          "name": "William Schmidt",
+          "url": "https://open.spotify.com/artist/38gBMzn9dOvOnjjQeblomk"
+        },
+        {
+          "name": "Brass of the Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/1xCoby9qfOzJIfNCxegs2F"
+        },
+        {
+          "name": "Ivan Meylemans",
+          "url": "https://open.spotify.com/artist/73zVe3LfkdUnvhC0tDmH2r"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479793,
+      "name": "Variants with Solo Cadenzas",
+      "url": "https://open.spotify.com/track/5NZAUJXpKrQomyqQdvFixK"
+    },
+    {
+      "album": {
+        "name": "Brass Links",
+        "url": "https://open.spotify.com/album/5f4HWmZ6l66VqFFsXIic6i"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Hannaford Street Silver Band",
+          "url": "https://open.spotify.com/artist/2LqWBWjGJNNxRU1AMUAs41"
+        },
+        {
+          "name": "Bramwell Tovey",
+          "url": "https://open.spotify.com/artist/3AWvdlYTAW4dVzfeqZY9tK"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 762826,
+      "name": "Variations",
+      "url": "https://open.spotify.com/track/6KNMMG7KI0CqEFSWx57KzQ"
+    },
+    {
+      "album": {
+        "name": "Williams Fairey Band: Brass From the Masters, Vol. 1",
+        "url": "https://open.spotify.com/album/5HrXyBO32y2jSHpFYuhNDt"
+      },
+      "artists": [
+        {
+          "name": "Edmund Rubbra",
+          "url": "https://open.spotify.com/artist/5KNv9Vn1TSzUzMp5ay2jPO"
+        },
+        {
+          "name": "Williams Fairey Band",
+          "url": "https://open.spotify.com/artist/5qTB9SqUKRkEmIat7X4fNc"
+        },
+        {
+          "name": "James Gourlay",
+          "url": "https://open.spotify.com/artist/42NqV4z2qYR6j6MmT5XEVN"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 649440,
+      "name": "Variations on The Shining River, Op. 101 (arr. for brass band)",
+      "url": "https://open.spotify.com/track/3QpWDL7QTGnfKoup3QDPVw"
+    },
+    {
+      "album": {
+        "name": "Simpson: Volcano / Huber: Symphonic Music / Vinter: John O'Gaunt",
+        "url": "https://open.spotify.com/album/6KsJ3zf8RSDYJjFLXOp8x7"
+      },
+      "artists": [
+        {
+          "name": "Robert Simpson",
+          "url": "https://open.spotify.com/artist/2sYcO2wGoXqERSAEI0EcxD"
+        },
+        {
+          "name": "Black Dyke Mills Band",
+          "url": "https://open.spotify.com/artist/4ihnuyTn5SCeQYsVGcbt2s"
+        },
+        {
+          "name": "Peter Parkes",
+          "url": "https://open.spotify.com/artist/48BymVaReLd1fvMqvsBeaW"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 652680,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/6W4QQDBV7KaZkk8RyzqPJZ"
+    },
+    {
+      "album": {
+        "name": "War Memorials: Music for Brass Band",
+        "url": "https://open.spotify.com/album/04kwRoVo463seLvHW1qETR"
+      },
+      "artists": [
+        {
+          "name": "Robin Holloway",
+          "url": "https://open.spotify.com/artist/47KSnUuqxzvvvXsjiWj8QN"
+        },
+        {
+          "name": "Cory Band",
+          "url": "https://open.spotify.com/artist/0ex62ZkMnXajypq8awHKHr"
+        },
+        {
+          "name": "Philip Harper",
+          "url": "https://open.spotify.com/artist/4bXqLZCCZmXTfTiLKIuYL6"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 800226,
+      "name": "War Memorial, Op. 50: No. 2. From Hills and Valleys",
+      "url": "https://open.spotify.com/track/6ZFDxBFBE6yPnru8kHzsze"
+    },
+    {
+      "album": {
+        "name": "Strauss, R.: Works for Brass Band",
+        "url": "https://open.spotify.com/album/50eyTElpzM48TA9Lb12XqN"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Locke Brass Consort",
+          "url": "https://open.spotify.com/artist/2Scb3sXBRfbXHxWZ7Gj3b3"
+        },
+        {
+          "name": "James Stobart",
+          "url": "https://open.spotify.com/artist/2aVAnrfXiTz9Cu3S1J3XuM"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "Wiener Philharmoniker Fanfare, TrV 248",
+      "url": "https://open.spotify.com/track/6dFhN2fZK3lDnLOin49ajY"
+    },
+    {
+      "album": {
+        "name": "Asphalt Orchestra",
+        "url": "https://open.spotify.com/album/3q0rbRRbYO82CveB8L6AwS"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        },
+        {
+          "name": "Peter Hess",
+          "url": "https://open.spotify.com/artist/78SvLtpzaz1w4JJzODrDwa"
+        },
+        {
+          "name": "Asphalt Orchestra",
+          "url": "https://open.spotify.com/artist/3j5J0E4sG4HOzPasFjB51f"
+        }
+      ],
+      "date_added": "2017-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "Zomby Woof (Arr. P. Hess)",
+      "url": "https://open.spotify.com/track/1kf44GgR5RuMLKSBBZNTUu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXMEbgClM8hw"
 }

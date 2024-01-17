@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart. ",
-  "num_followers": 29664,
+  "num_followers": 30328,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGQ2ZmNlZGE3MzgyM2E3ZGViMmVhMWYwYzJmNzIwNjJmZjQ5ZTdl",
+  "snapshot_id": "MCw4MzQyNzgwMmUyMzkwOGIzZWQ2YzZlMjgzZTAyMDJjYTU0YmNkMzMw",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "I Don\u2019t Wanna Worry",
+        "url": "https://open.spotify.com/album/1IlkeN0XXqZcsTcJvbZISS"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "I Don\u2019t Wanna Worry",
+      "url": "https://open.spotify.com/track/1Ej3EHORVUTtvCRh5UnslF"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -223,22 +239,6 @@
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 253320,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma"
     },
     {
       "added_at": "2023-11-17 05:00:00",

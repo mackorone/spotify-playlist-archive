@@ -1,61 +1,1229 @@
 {
-  "2023-11-04": 5805,
-  "2023-11-05": 5822,
-  "2023-11-06": 5841,
-  "2023-11-07": 5854,
-  "2023-11-08": 5869,
-  "2023-11-09": 5881,
-  "2023-11-10": 5902,
-  "2023-11-11": 5925,
-  "2023-11-12": 5935,
-  "2023-11-13": 5953,
-  "2023-11-14": 5968,
-  "2023-11-15": 5968,
-  "2023-11-16": 6009,
-  "2023-11-17": 6033,
-  "2023-11-18": 6033,
-  "2023-11-19": 6057,
-  "2023-11-20": 6056,
-  "2023-11-21": 6075,
-  "2023-11-22": 6098,
-  "2023-11-23": 6108,
-  "2023-11-24": 6119,
-  "2023-11-25": 6127,
-  "2023-11-26": 6138,
-  "2023-11-27": 6148,
-  "2023-11-28": 6151,
-  "2023-11-29": 6178,
-  "2023-11-30": 6178,
-  "2023-12-01": 6193,
-  "2023-12-02": 6202,
-  "2023-12-03": 6215,
-  "2023-12-04": 6235,
-  "2023-12-05": 6243,
-  "2023-12-06": 6250,
-  "2023-12-07": 6258,
-  "2023-12-08": 6269,
-  "2023-12-09": 6277,
-  "2023-12-10": 6274,
-  "2023-12-11": 6274,
-  "2023-12-12": 6271,
-  "2023-12-13": 6275,
-  "2023-12-14": 6282,
-  "2023-12-15": 6284,
-  "2023-12-16": 6287,
-  "2023-12-17": 6292,
-  "2023-12-18": 6295,
-  "2023-12-19": 6304,
-  "2023-12-20": 6300,
-  "2023-12-21": 6305,
-  "2023-12-22": 6313,
-  "2023-12-23": 6316,
-  "2023-12-24": 6322,
-  "2023-12-25": 6327,
-  "2023-12-26": 6328,
-  "2023-12-27": 6333,
-  "2023-12-30": 6344,
-  "2023-12-31": 6346,
-  "2024-01-01": 6357,
-  "2024-01-02": 6370,
-  "2024-01-03": 6373
+  "2024-01-17": 6411,
+  "date_first_scraped": "2023-11-04",
+  "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
+  "name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
+  "tracks": [
+    {
+      "album": {
+        "name": "A-MOONO-KE",
+        "url": "https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM"
+      },
+      "artists": [
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "A-MOONO-KE (I\u2019m OK)",
+      "url": "https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT"
+    },
+    {
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
+    },
+    {
+      "album": {
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
+    },
+    {
+      "album": {
+        "name": "be",
+        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
+      },
+      "artists": [
+        {
+          "name": "EUNHYUK",
+          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229066,
+      "name": "be",
+      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
+    },
+    {
+      "album": {
+        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Be Your Love",
+      "url": "https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA"
+    },
+    {
+      "album": {
+        "name": "A Time Called You (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Beautiful Restriction",
+      "url": "https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa"
+    },
+    {
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
+      },
+      "artists": [
+        {
+          "name": "YooA",
+          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219586,
+      "name": "Bon voyage",
+      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
+    },
+    {
+      "album": {
+        "name": "Can you stay (From Semantic Error)",
+        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Can you stay",
+      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
+    },
+    {
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199766,
+      "name": "Celeb",
+      "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
+    },
+    {
+      "album": {
+        "name": "7+UP",
+        "url": "https://open.spotify.com/album/4C6ab9EwBiR8Y5adO9o6bQ"
+      },
+      "artists": [
+        {
+          "name": "EL7Z UP",
+          "url": "https://open.spotify.com/artist/27xea8r2bsY7UlsbaRiwMQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "CHEEKY",
+      "url": "https://open.spotify.com/track/55uzraCUFDtQGFqDaJUoUr"
+    },
+    {
+      "album": {
+        "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
+        "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
+    },
+    {
+      "album": {
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "DREAMLIKE",
+      "url": "https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH"
+    },
+    {
+      "album": {
+        "name": "BSS 1st Single Album 'SECOND WIND'",
+        "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
+      },
+      "artists": [
+        {
+          "name": "BSS",
+          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "Fighting (Feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
+    },
+    {
+      "album": {
+        "name": "FLOWER SHOWER",
+        "url": "https://open.spotify.com/album/6WEd55Evvtz5ZTMogdK8Uu"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "FLOWER SHOWER",
+      "url": "https://open.spotify.com/track/7sjnURvuXBKEdM3fw698iq"
+    },
+    {
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc"
+    },
+    {
+      "album": {
+        "name": "White Wind",
+        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195855,
+      "name": "gogobebe",
+      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
+    },
+    {
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156354,
+      "name": "Good Parts (when the quality is bad but I am)",
+      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
+    },
+    {
+      "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "album": {
+        "name": "BASTIONS OST Part.4",
+        "url": "https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK"
+    },
+    {
+      "album": {
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "HANGANG (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "album": {
+        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237030,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
+    },
+    {
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
+    },
+    {
+      "album": {
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233416,
+      "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
+      "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
+    },
+    {
+      "album": {
+        "name": "LIMELIGHT DEBUT EP 'LOVE & HAPPINESS'",
+        "url": "https://open.spotify.com/album/6bGjdmkGl8QqTa1ElccP3C"
+      },
+      "artists": [
+        {
+          "name": "LIMELIGHT",
+          "url": "https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189746,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/5HB8Olk0vxhv8ynsh1x04y"
+    },
+    {
+      "album": {
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
+    },
+    {
+      "album": {
+        "name": "I - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206038,
+      "name": "I",
+      "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 230597,
+      "name": "I FLY",
+      "url": "https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r"
+    },
+    {
+      "album": {
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206093,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
+    },
+    {
+      "album": {
+        "name": "I \u2260 DOLL",
+        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150269,
+      "name": "I \u2260 DOLL",
+      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
+    },
+    {
+      "album": {
+        "name": "INEEDYOURLOVE",
+        "url": "https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 222684,
+      "name": "INEEDYOURLOVE",
+      "url": "https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW"
+    },
+    {
+      "album": {
+        "name": "Heng:gar\u00e6",
+        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Kidult",
+      "url": "https://open.spotify.com/track/1kmmKv3L4kGmoPu8aDFOmk"
+    },
+    {
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177818,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
+    },
+    {
+      "album": {
+        "name": "LOVE EFFECT",
+        "url": "https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "Love Effect",
+      "url": "https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5"
+    },
+    {
+      "album": {
+        "name": "Love Lee",
+        "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179683,
+      "name": "Love Lee",
+      "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "Lovin' Me",
+      "url": "https://open.spotify.com/track/63pHo56L4k2VLXqzt1shrK"
+    },
+    {
+      "album": {
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "LUNATIC",
+      "url": "https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/14bycLXzjEIFKVQCe2K6M2"
+    },
+    {
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197096,
+      "name": "METEOR",
+      "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
+    },
+    {
+      "album": {
+        "name": "Mixtape : Time Out",
+        "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175293,
+      "name": "Mixtape : Time Out",
+      "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
+    },
+    {
+      "album": {
+        "name": "Lee Seung Chul 35th Anniversary Album Special 'My Love'",
+        "url": "https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Chul",
+          "url": "https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 227000,
+      "name": "My Love (Duet Ver.)",
+      "url": "https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1"
+    },
+    {
+      "album": {
+        "name": "5.4 [My Ultimate First Love]",
+        "url": "https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266146,
+      "name": "My Ultimate First Love",
+      "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
+      },
+      "artists": [
+        {
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
+    },
+    {
+      "album": {
+        "name": "NEW TOMORROW",
+        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
+      },
+      "artists": [
+        {
+          "name": "FANTASY BOYS",
+          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 230933,
+      "name": "New Tomorrow",
+      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
+    },
+    {
+      "album": {
+        "name": "No MBTI",
+        "url": "https://open.spotify.com/album/6Cov5vJwPPSEaLyd9Gog8R"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165493,
+      "name": "No MBTI",
+      "url": "https://open.spotify.com/track/0ElgcgukyFblmSOu1IDFhu"
+    },
+    {
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 182800,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
+    },
+    {
+      "album": {
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226880,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9"
+    },
+    {
+      "album": {
+        "name": "Room Vol.1",
+        "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221760,
+      "name": "Reference",
+      "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
+    },
+    {
+      "album": {
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
+    },
+    {
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/6S327htVJnBi9GGZjUInui"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF"
+    },
+    {
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
+    },
+    {
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
+    },
+    {
+      "album": {
+        "name": "H1-KEY 2nd Mini Album [Seoul Dreaming]",
+        "url": "https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "SEOUL (Such a Beautiful City)",
+      "url": "https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228115,
+      "name": "SHOUT OUT",
+      "url": "https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY"
+    },
+    {
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
+    },
+    {
+      "album": {
+        "name": "Heng:gar\u00e6",
+        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm"
+    },
+    {
+      "album": {
+        "name": "Traffic light",
+        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231586,
+      "name": "Traffic light",
+      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+    },
+    {
+      "album": {
+        "name": "Gee - The First Mini Album",
+        "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "Way to Go",
+      "url": "https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE"
+    },
+    {
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Why Can't You Love Me?",
+      "url": "https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA"
+    },
+    {
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/7lqVInQc3l7SbnbZa2cpFJ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211660,
+      "name": "Yes I Am",
+      "url": "https://open.spotify.com/track/3RqUX4U46H6TPdH30gPy4k"
+    },
+    {
+      "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/3NYmAEOb5YrX22YWgWtHeC"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Woo",
+          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209320,
+      "name": "\ub3cc\ub369\uc774",
+      "url": "https://open.spotify.com/track/1jCRPdDQvCA5kQXtrPFWPC"
+    },
+    {
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 13",
+        "url": "https://open.spotify.com/album/0WCGyBf5B1e4JsB6okoJmB"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/12WC3s3087JX9hDaTj4nW8"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "\uc0c1\uc0c1\ud55c \uafc8",
+      "url": "https://open.spotify.com/track/16sVrdJ0NHmLwan43hH9BF"
+    },
+    {
+      "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202440,
+      "name": "\uc2dc\uc791",
+      "url": "https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2l1BM6ggRui"
 }

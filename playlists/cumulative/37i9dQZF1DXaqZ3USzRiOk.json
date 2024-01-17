@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 125520,
       "name": "En un Cami\u00f3n Pasajero",
       "url": "https://open.spotify.com/track/2cuNeHP1pqYVMwMZ9hBzDW"
@@ -4106,7 +4106,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 199866,
       "name": "Un Pu\u00f1o de Tierra",
       "url": "https://open.spotify.com/track/5sccvYWAbqyChZPqPadLqC"
@@ -4520,10 +4520,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 203506,
       "name": "\u00c9sta Es Pa\u00b4 Mi Viejo",
       "url": "https://open.spotify.com/track/2SvmdNjEnZIg8ObqDuqRxA"
+    },
+    {
+      "album": {
+        "name": "Del Rancho para el Mundo",
+        "url": "https://open.spotify.com/album/4az9RCoS0n0tBFIMo4svAI"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "\u00c9sta Es Pa\u00b4 Mi Viejo",
+      "url": "https://open.spotify.com/track/3rC52DzXOSFLi6QtCHhruq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaqZ3USzRiOk"

@@ -1,324 +1,1563 @@
 {
-  "2023-02-13": 875240,
-  "2023-02-14": 875240,
-  "2023-02-15": 875588,
-  "2023-02-16": 875933,
-  "2023-02-17": 876311,
-  "2023-02-18": 877295,
-  "2023-02-19": 877333,
-  "2023-02-20": 877639,
-  "2023-02-21": 877950,
-  "2023-02-22": 878299,
-  "2023-02-23": 878561,
-  "2023-02-24": 878932,
-  "2023-02-25": 879415,
-  "2023-02-26": 879854,
-  "2023-02-27": 880740,
-  "2023-02-28": 880740,
-  "2023-03-01": 881123,
-  "2023-03-02": 881533,
-  "2023-03-03": 881999,
-  "2023-03-04": 882430,
-  "2023-03-05": 883661,
-  "2023-03-06": 883661,
-  "2023-03-07": 884156,
-  "2023-03-08": 884567,
-  "2023-03-09": 884947,
-  "2023-03-10": 885420,
-  "2023-03-11": 885917,
-  "2023-03-12": 886537,
-  "2023-03-13": 887070,
-  "2023-03-14": 887485,
-  "2023-03-15": 887970,
-  "2023-03-16": 888424,
-  "2023-03-17": 888424,
-  "2023-03-18": 889475,
-  "2023-03-19": 890139,
-  "2023-03-20": 890635,
-  "2023-03-21": 891051,
-  "2023-03-22": 891470,
-  "2023-03-23": 891912,
-  "2023-03-24": 891912,
-  "2023-03-25": 892894,
-  "2023-03-26": 893447,
-  "2023-03-27": 893976,
-  "2023-03-28": 894356,
-  "2023-03-29": 894746,
-  "2023-03-30": 895603,
-  "2023-03-31": 895603,
-  "2023-04-01": 896041,
-  "2023-04-02": 896532,
-  "2023-04-03": 896980,
-  "2023-04-04": 897341,
-  "2023-04-05": 897740,
-  "2023-04-06": 898126,
-  "2023-04-07": 898757,
-  "2023-04-09": 899798,
-  "2023-04-10": 900291,
-  "2023-04-11": 901042,
-  "2023-04-12": 901042,
-  "2023-04-13": 901495,
-  "2023-04-14": 901971,
-  "2023-04-15": 902556,
-  "2023-04-16": 903194,
-  "2023-04-17": 903721,
-  "2023-04-18": 904128,
-  "2023-04-19": 904583,
-  "2023-04-20": 904983,
-  "2023-04-21": 905474,
-  "2023-04-22": 906092,
-  "2023-04-23": 906567,
-  "2023-04-24": 907067,
-  "2023-04-25": 907465,
-  "2023-04-26": 907889,
-  "2023-04-27": 908239,
-  "2023-04-28": 908676,
-  "2023-04-29": 909166,
-  "2023-04-30": 909674,
-  "2023-05-01": 910117,
-  "2023-05-02": 910544,
-  "2023-05-03": 910859,
-  "2023-05-04": 911179,
-  "2023-05-05": 911517,
-  "2023-05-06": 911959,
-  "2023-05-07": 912471,
-  "2023-05-08": 912945,
-  "2023-05-09": 913279,
-  "2023-05-10": 913660,
-  "2023-05-11": 914055,
-  "2023-05-12": 914473,
-  "2023-05-13": 914865,
-  "2023-05-14": 915242,
-  "2023-05-15": 915637,
-  "2023-05-16": 915971,
-  "2023-05-17": 916340,
-  "2023-05-18": 916681,
-  "2023-05-19": 917082,
-  "2023-05-20": 917952,
-  "2023-05-21": 917952,
-  "2023-05-22": 917952,
-  "2023-05-23": 918635,
-  "2023-05-24": 919179,
-  "2023-05-25": 919282,
-  "2023-05-26": 919721,
-  "2023-05-27": 920228,
-  "2023-05-28": 920695,
-  "2023-05-29": 920695,
-  "2023-05-30": 921413,
-  "2023-05-31": 921703,
-  "2023-06-01": 921966,
-  "2023-06-02": 922257,
-  "2023-06-03": 922616,
-  "2023-06-04": 923141,
-  "2023-06-05": 923553,
-  "2023-06-06": 923895,
-  "2023-06-07": 924285,
-  "2023-06-08": 924687,
-  "2023-06-09": 925216,
-  "2023-06-10": 925723,
-  "2023-06-11": 926158,
-  "2023-06-12": 926610,
-  "2023-06-13": 927000,
-  "2023-06-14": 927369,
-  "2023-06-15": 927719,
-  "2023-06-16": 928036,
-  "2023-06-17": 928431,
-  "2023-06-18": 928826,
-  "2023-06-19": 929144,
-  "2023-06-20": 929458,
-  "2023-06-21": 929742,
-  "2023-06-22": 930009,
-  "2023-06-23": 930345,
-  "2023-06-24": 930743,
-  "2023-06-25": 931081,
-  "2023-06-26": 931380,
-  "2023-06-27": 931657,
-  "2023-06-28": 931946,
-  "2023-06-29": 932268,
-  "2023-06-30": 932632,
-  "2023-07-01": 933348,
-  "2023-07-02": 933348,
-  "2023-07-03": 933655,
-  "2023-07-04": 933907,
-  "2023-07-05": 934200,
-  "2023-07-06": 934853,
-  "2023-07-07": 934853,
-  "2023-07-08": 935234,
-  "2023-07-09": 935568,
-  "2023-07-10": 935888,
-  "2023-07-11": 936166,
-  "2023-07-12": 936397,
-  "2023-07-13": 936714,
-  "2023-07-14": 936997,
-  "2023-07-15": 937278,
-  "2023-07-16": 937694,
-  "2023-07-17": 937970,
-  "2023-07-18": 938209,
-  "2023-07-19": 938491,
-  "2023-07-20": 938771,
-  "2023-07-21": 939080,
-  "2023-07-22": 939350,
-  "2023-07-23": 939655,
-  "2023-07-24": 939898,
-  "2023-07-25": 940124,
-  "2023-07-26": 940303,
-  "2023-07-27": 940461,
-  "2023-07-28": 940710,
-  "2023-07-29": 940966,
-  "2023-07-30": 941279,
-  "2023-07-31": 941548,
-  "2023-08-01": 941688,
-  "2023-08-02": 941915,
-  "2023-08-03": 942106,
-  "2023-08-04": 942361,
-  "2023-08-05": 942602,
-  "2023-08-06": 942984,
-  "2023-08-07": 942984,
-  "2023-08-08": 943130,
-  "2023-08-09": 943311,
-  "2023-08-10": 943492,
-  "2023-08-11": 943706,
-  "2023-08-12": 943910,
-  "2023-08-13": 944118,
-  "2023-08-14": 944303,
-  "2023-08-15": 944661,
-  "2023-08-16": 944661,
-  "2023-08-17": 944855,
-  "2023-08-18": 945111,
-  "2023-08-19": 945376,
-  "2023-08-20": 945609,
-  "2023-08-21": 945814,
-  "2023-08-22": 946092,
-  "2023-08-23": 946276,
-  "2023-08-24": 946505,
-  "2023-08-25": 946773,
-  "2023-08-26": 946987,
-  "2023-08-27": 947225,
-  "2023-08-28": 947403,
-  "2023-08-29": 947579,
-  "2023-08-30": 947756,
-  "2023-08-31": 947933,
-  "2023-09-01": 948337,
-  "2023-09-02": 948337,
-  "2023-09-03": 948492,
-  "2023-09-04": 948691,
-  "2023-09-05": 948891,
-  "2023-09-06": 949097,
-  "2023-09-07": 949359,
-  "2023-09-08": 949640,
-  "2023-09-09": 949813,
-  "2023-09-10": 950029,
-  "2023-09-11": 950266,
-  "2023-09-12": 950426,
-  "2023-09-13": 950631,
-  "2023-09-14": 950798,
-  "2023-09-15": 950992,
-  "2023-09-16": 951138,
-  "2023-09-17": 951293,
-  "2023-09-18": 951468,
-  "2023-09-19": 951618,
-  "2023-09-20": 951731,
-  "2023-09-21": 951896,
-  "2023-09-22": 952063,
-  "2023-09-23": 952262,
-  "2023-09-24": 952437,
-  "2023-09-25": 952592,
-  "2023-09-26": 952769,
-  "2023-09-27": 952911,
-  "2023-09-28": 953098,
-  "2023-09-29": 953321,
-  "2023-09-30": 953522,
-  "2023-10-01": 953732,
-  "2023-10-02": 953989,
-  "2023-10-03": 954143,
-  "2023-10-04": 954355,
-  "2023-10-05": 954570,
-  "2023-10-06": 954752,
-  "2023-10-07": 954893,
-  "2023-10-08": 955063,
-  "2023-10-09": 955145,
-  "2023-10-10": 953302,
-  "2023-10-11": 951620,
-  "2023-10-12": 951620,
-  "2023-10-13": 950096,
-  "2023-10-14": 950096,
-  "2023-10-15": 948510,
-  "2023-10-16": 948790,
-  "2023-10-17": 948968,
-  "2023-10-18": 949033,
-  "2023-10-19": 949124,
-  "2023-10-20": 949183,
-  "2023-10-21": 949275,
-  "2023-10-22": 949377,
-  "2023-10-23": 949449,
-  "2023-10-24": 949559,
-  "2023-10-25": 949646,
-  "2023-10-26": 949760,
-  "2023-10-27": 949885,
-  "2023-10-28": 949885,
-  "2023-10-29": 949885,
-  "2023-10-30": 950324,
-  "2023-10-31": 950324,
-  "2023-11-01": 950617,
-  "2023-11-02": 950759,
-  "2023-11-03": 950936,
-  "2023-11-04": 950936,
-  "2023-11-05": 950936,
-  "2023-11-06": 951299,
-  "2023-11-07": 951468,
-  "2023-11-08": 951586,
-  "2023-11-09": 951586,
-  "2023-11-10": 951827,
-  "2023-11-11": 951930,
-  "2023-11-12": 952062,
-  "2023-11-13": 952184,
-  "2023-11-14": 952274,
-  "2023-11-15": 952274,
-  "2023-11-16": 952480,
-  "2023-11-17": 952703,
-  "2023-11-18": 952703,
-  "2023-11-19": 952852,
-  "2023-11-20": 952852,
-  "2023-11-21": 953166,
-  "2023-11-22": 953312,
-  "2023-11-23": 953410,
-  "2023-11-24": 953410,
-  "2023-11-25": 953701,
-  "2023-11-26": 953701,
-  "2023-11-27": 954032,
-  "2023-11-28": 954173,
-  "2023-11-29": 954433,
-  "2023-11-30": 954433,
-  "2023-12-01": 954433,
-  "2023-12-02": 954636,
-  "2023-12-03": 954740,
-  "2023-12-04": 954740,
-  "2023-12-05": 954924,
-  "2023-12-06": 955044,
-  "2023-12-07": 955147,
-  "2023-12-08": 955147,
-  "2023-12-09": 955414,
-  "2023-12-10": 955414,
-  "2023-12-11": 955820,
-  "2023-12-12": 955820,
-  "2023-12-13": 956058,
-  "2023-12-14": 956191,
-  "2023-12-15": 956310,
-  "2023-12-16": 956426,
-  "2023-12-17": 956564,
-  "2023-12-18": 956679,
-  "2023-12-19": 956756,
-  "2023-12-20": 956860,
-  "2023-12-21": 956951,
-  "2023-12-22": 957081,
-  "2023-12-23": 957197,
-  "2023-12-24": 957340,
-  "2023-12-25": 957440,
-  "2023-12-26": 957527,
-  "2023-12-27": 957604,
-  "2023-12-30": 957962,
-  "2023-12-31": 958103,
-  "2024-01-01": 958204,
-  "2024-01-02": 958290,
-  "2024-01-03": 958353
+  "2024-01-17": 949721,
+  "date_first_scraped": "2023-02-14",
+  "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
+  "name": "Paix\u00e3o Bandida",
+  "tracks": [
+    {
+      "album": {
+        "name": "3 Batidas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 157186,
+      "name": "3 Batidas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k"
+    },
+    {
+      "album": {
+        "name": "Amando, Bebendo e Sofrendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157186,
+      "name": "3 Batidas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6FEYal9Y24izCC1UMHiYSa"
+    },
+    {
+      "album": {
+        "name": "Identidade, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
+    },
+    {
+      "album": {
+        "name": "O Embaixador in Cariri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 237516,
+      "name": "A Gente Fez Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tv697PZNnaQN0Mn2zGhS5"
+    },
+    {
+      "album": {
+        "name": "Amor Da Sua Cama",
+        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188309,
+      "name": "Amor Da Sua Cama",
+      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+    },
+    {
+      "album": {
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "Anti Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih"
+    },
+    {
+      "album": {
+        "name": "Buteco do Gusttavo Lima, Vol. 2",
+        "url": "https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 199701,
+      "name": "Apelido Carinhoso",
+      "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
+    },
+    {
+      "album": {
+        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166838,
+      "name": "Aquela Pessoa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5asabafNzfAzjUecDvuNES"
+    },
+    {
+      "album": {
+        "name": "In Miami Beach (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 171084,
+      "name": "Ar Condicionado no 15 - Ao Vivo",
+      "url": "https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0"
+    },
+    {
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199363,
+      "name": "Bebida Na Ferida - Ao Vivo",
+      "url": "https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8"
+    },
+    {
+      "album": {
+        "name": "Beijo B\u00eabado",
+        "url": "https://open.spotify.com/album/470aKYBGvnxmnTp9ewZQtW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Esticado",
+          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 168521,
+      "name": "Beijo B\u00eabado",
+      "url": "https://open.spotify.com/track/3BigzTTQfP3xSLPKATYSop"
+    },
+    {
+      "album": {
+        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168172,
+      "name": "Bem Pior Que Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/4UANYptjv2kpV6IY7IjXoJ"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194580,
+      "name": "Briga Feia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7bukHRNgGLRySTJEVvLoIR"
+    },
+    {
+      "album": {
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313266,
+      "name": "Caso Indefinido - Ao Vivo",
+      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
+    },
+    {
+      "album": {
+        "name": "Cheirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181930,
+      "name": "Cheirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+    },
+    {
+      "album": {
+        "name": "Retorno EP 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4NLocQIClXINQlmfUnqu3z"
+      },
+      "artists": [
+        {
+          "name": "Leo Chaves",
+          "url": "https://open.spotify.com/artist/0FYpZOHSyfPpCSsLwydVbL"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 187601,
+      "name": "Chora O Homem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2G8CY5kyEu2EvCgCMedIC0"
+    },
+    {
+      "album": {
+        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190083,
+      "name": "Ciumeira - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D5F5BzIon5zhzQrOU2pdN"
+    },
+    {
+      "album": {
+        "name": "Lauana Prado",
+        "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx"
+    },
+    {
+      "album": {
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
+    },
+    {
+      "album": {
+        "name": "Novas Hist\u00f3rias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163913,
+      "name": "Como \u00c9 Que A Gente Fica - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr"
+    },
+    {
+      "album": {
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "Contram\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn"
+    },
+    {
+      "album": {
+        "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-01",
+      "duration_ms": 173226,
+      "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
+    },
+    {
+      "album": {
+        "name": "Realidade - Ao Vivo Em Manaus",
+        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
+    },
+    {
+      "album": {
+        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163089,
+      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
+    },
+    {
+      "album": {
+        "name": "Amando, Bebendo e Sofrendo (Ao Vivo) - EP 3",
+        "url": "https://open.spotify.com/album/5tR4iEANCfJjjUOgxyYhtD"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 161396,
+      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
+      "url": "https://open.spotify.com/track/48CAeajgzcGJaVUSsXd7h0"
+    },
+    {
+      "album": {
+        "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
+      },
+      "artists": [
+        {
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 201440,
+      "name": "Deixa Eu Te Amar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
+    },
+    {
+      "album": {
+        "name": "Desejando Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 160565,
+      "name": "Desejando Eu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3056x1XkmICnQmji68rrft"
+    },
+    {
+      "album": {
+        "name": "Onde a Saudade Mora",
+        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123060,
+      "name": "Deus Me Livre Quem Me Dera",
+      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
+    },
+    {
+      "album": {
+        "name": "Pra Ouvir Tomando Uma, Vol. 1",
+        "url": "https://open.spotify.com/album/34wbTHXH6UAGPJKrl3VXOs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172751,
+      "name": "Dois Enganados",
+      "url": "https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U"
+    },
+    {
+      "album": {
+        "name": "Por Inteiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 179100,
+      "name": "Espa\u00e7osa Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/4frNT1Vw4MbKbS1ngKodkv"
+    },
+    {
+      "album": {
+        "name": "Eu Nunca Fui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H4aDTT9MmDdYCkrwiczJf"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 162260,
+      "name": "Eu Nunca Fui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gqzwytSXoWI8xgRloB6WL"
+    },
+    {
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "Eu, Voc\u00ea, O Mar e Ela",
+      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
+    },
+    {
+      "album": {
+        "name": "Facas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196379,
+      "name": "Facas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
+    },
+    {
+      "album": {
+        "name": "Ferida Curada",
+        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159164,
+      "name": "Ferida Curada",
+      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
+    },
+    {
+      "album": {
+        "name": "Falando de Amor, Vol. 1",
+        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192725,
+      "name": "Ficha Limpa",
+      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
+    },
+    {
+      "album": {
+        "name": "Flor E O Beija-Flor",
+        "url": "https://open.spotify.com/album/1THJVUNwa03TGzh8tCJoJ3"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 202053,
+      "name": "Flor E O Beija-Flor",
+      "url": "https://open.spotify.com/track/66N2SB1lgHPgJXVCjg6GXH"
+    },
+    {
+      "album": {
+        "name": "Graveto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170877,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
+    },
+    {
+      "album": {
+        "name": "Querosene e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161403,
+      "name": "Infarto",
+      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
+    },
+    {
+      "album": {
+        "name": "P\u00e1ssaro De Fogo",
+        "url": "https://open.spotify.com/album/7p1ph1czkPiXYxLi7TBUe1"
+      },
+      "artists": [
+        {
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+        },
+        {
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 298506,
+      "name": "Jeito De Mato",
+      "url": "https://open.spotify.com/track/69Ui5HCL3ckbnnwtnZoGRo"
+    },
+    {
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234961,
+      "name": "Largado \u00c0s Tra\u00e7as - Ao Vivo",
+      "url": "https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe"
+    },
+    {
+      "album": {
+        "name": "Victor & Leo Ao Vivo Em Uberl\u00e2ndia",
+        "url": "https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC"
+      },
+      "artists": [
+        {
+          "name": "Victor & Leo",
+          "url": "https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 211746,
+      "name": "Lembran\u00e7as de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8"
+    },
+    {
+      "album": {
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186379,
+      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
+      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174920,
+      "name": "Medo Bobo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
+    },
+    {
+      "album": {
+        "name": "Moleque",
+        "url": "https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt"
+      },
+      "artists": [
+        {
+          "name": "Pacheco",
+          "url": "https://open.spotify.com/artist/6L8qkVcwxbMShYXrQHy5Uy"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-27",
+      "duration_ms": 194781,
+      "name": "Moleque",
+      "url": "https://open.spotify.com/track/0oMaaZT0hHsy7QMfpidYtI"
+    },
+    {
+      "album": {
+        "name": "MORENA",
+        "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193221,
+      "name": "MORENA",
+      "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
+    },
+    {
+      "album": {
+        "name": "Tem Moda Pra Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161597,
+      "name": "M\u00e1gica - Live",
+      "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
+    },
+    {
+      "album": {
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165074,
+      "name": "Na Conta Da Loucura - Ao Vivo",
+      "url": "https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P"
+    },
+    {
+      "album": {
+        "name": "Tudo Em Paz",
+        "url": "https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 174081,
+      "name": "Namorando Com Saudade",
+      "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"
+    },
+    {
+      "album": {
+        "name": "10 Anos Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GcwXsZi98XsDdayCcbDY0"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173503,
+      "name": "Nem Doeu - Ao Vivo",
+      "url": "https://open.spotify.com/track/260n4ECk9j4IEvTAVBYojl"
+    },
+    {
+      "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 208930,
+      "name": "Nessas Horas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
+    },
+    {
+      "album": {
+        "name": "AgroPlay Ver\u00e3o Vol.1",
+        "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173698,
+      "name": "Nosso Quadro",
+      "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
+    },
+    {
+      "album": {
+        "name": "Nosso Quadro",
+        "url": "https://open.spotify.com/album/2UcCoH8S3vHlaY27uLsxmc"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 173698,
+      "name": "Nosso Quadro",
+      "url": "https://open.spotify.com/track/4uqJelb9THHmJ3OCohg4ZJ"
+    },
+    {
+      "album": {
+        "name": "Nota 100 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/32jxqjJYztfYeR9fEeYmIf"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Vitor",
+          "url": "https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g"
+        },
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160673,
+      "name": "Nota 100 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6pOLoZWfX2vwDYibVw8RGv"
+    },
+    {
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182340,
+      "name": "Notifica\u00e7\u00e3o Preferida - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Fala N\u00e3o pra Mim",
+        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
+      },
+      "artists": [
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-14",
+      "duration_ms": 196613,
+      "name": "N\u00e3o Fala N\u00e3o pra Mim",
+      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
+    },
+    {
+      "album": {
+        "name": "Sem Contra-Indica\u00e7\u00e3o (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164956,
+      "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4HQByPPgZOGbzvgJFZX61K"
+    },
+    {
+      "album": {
+        "name": "O Alvo (feat. Henrique & Juliano) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 164956,
+      "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr"
+    },
+    {
+      "album": {
+        "name": "Live In London - At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215213,
+      "name": "O Que \u00c9 Que Tem",
+      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
+    },
+    {
+      "album": {
+        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184032,
+      "name": "Paredes - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK"
+    },
+    {
+      "album": {
+        "name": "Jorge & Mateus El\u00e9trico",
+        "url": "https://open.spotify.com/album/0RkEgK2Ch7H5IURwDYTTnt"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 212560,
+      "name": "Pense Em Mim - Jorge & Mateus El\u00e9trico",
+      "url": "https://open.spotify.com/track/24IMxi4RUakB4bleLn2uBE"
+    },
+    {
+      "album": {
+        "name": "10 Anos (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 228350,
+      "name": "Pergunta Boba - Ao Vivo",
+      "url": "https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6"
+    },
+    {
+      "album": {
+        "name": "Pior Experi\u00eancia",
+        "url": "https://open.spotify.com/album/7Er2d9CzqiVnTTT4Jhcp5L"
+      },
+      "artists": [
+        {
+          "name": "Marcio e Douglas",
+          "url": "https://open.spotify.com/artist/6eQ6iaplLP3xemnZ44t043"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 169930,
+      "name": "Pior Experi\u00eancia",
+      "url": "https://open.spotify.com/track/3p79wqNX0ukgkZnZuxvMRs"
+    },
+    {
+      "album": {
+        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "Pra Sempre Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq"
+    },
+    {
+      "album": {
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141934,
+      "name": "Propaganda - Ao Vivo",
+      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
+    },
+    {
+      "album": {
+        "name": "Pulei na Piscina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 181846,
+      "name": "Pulei na Piscina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
+    },
+    {
+      "album": {
+        "name": "Tem Moda Pra Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224001,
+      "name": "Quarta Cadeira - Ao Vivo",
+      "url": "https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn"
+    },
+    {
+      "album": {
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232485,
+      "name": "Regime Fechado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
+    },
+    {
+      "album": {
+        "name": "S de Saudade",
+        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edza & Maur\u00edlio",
+          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174863,
+      "name": "S de Saudade",
+      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
+    },
+    {
+      "album": {
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-09",
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 210461,
+      "name": "Se Eu Fosse Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/245bLKhB09weh0K0XE0AHm"
+    },
+    {
+      "album": {
+        "name": "Seja Louco",
+        "url": "https://open.spotify.com/album/5Gr3jsmL0Jb291VTdFiqsE"
+      },
+      "artists": [
+        {
+          "name": "Mariana & Mateus",
+          "url": "https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159950,
+      "name": "Seja Louco",
+      "url": "https://open.spotify.com/track/2xtzAzvXznNX03U9wk3s5S"
+    },
+    {
+      "album": {
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-09",
+      "duration_ms": 156371,
+      "name": "Serenata - Ao Vivo",
+      "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
+    },
+    {
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153934,
+      "name": "Status Que Eu N\u00e3o Queria - Ao Vivo",
+      "url": "https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN"
+    },
+    {
+      "album": {
+        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "Supera - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
+    },
+    {
+      "album": {
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 154661,
+      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
+    },
+    {
+      "album": {
+        "name": "Vagabundo",
+        "url": "https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165380,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia"
+    },
+    {
+      "album": {
+        "name": "Vestido Curto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151976,
+      "name": "Vestido Curto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
+    },
+    {
+      "album": {
+        "name": "Livre (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164407,
+      "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
+      "url": "https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE"
+    },
+    {
+      "album": {
+        "name": "Tem Moda Pra Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189059,
+      "name": "Vou Ter Que Superar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP"
+    },
+    {
+      "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia - EP1",
+        "url": "https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 190244,
+      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaWRgGXjiM40"
 }

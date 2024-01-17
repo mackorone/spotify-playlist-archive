@@ -265,6 +265,28 @@
     },
     {
       "album": {
+        "name": "Albedi",
+        "url": "https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H"
+      },
+      "artists": [
+        {
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+        },
+        {
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Albedi",
+      "url": "https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ"
+    },
+    {
+      "album": {
         "name": "Ankhon Ka Kasoor",
         "url": "https://open.spotify.com/album/0Tkivn2mOHK6sUPfhgtIpq"
       },
@@ -580,6 +602,28 @@
       "duration_ms": 184000,
       "name": "Been",
       "url": "https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG"
+    },
+    {
+      "album": {
+        "name": "Bhaichara",
+        "url": "https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb"
+      },
+      "artists": [
+        {
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+        },
+        {
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "Bhaichara",
+      "url": "https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz"
     },
     {
       "album": {
@@ -1265,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Ghar Jaane De",
+        "url": "https://open.spotify.com/album/0gmGkBBlAHsx1EggphIQ3h"
+      },
+      "artists": [
+        {
+          "name": "Mandys",
+          "url": "https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141621,
+      "name": "Ghar Jaane De",
+      "url": "https://open.spotify.com/track/0AU0jnkTn516bqy2tJSlmp"
+    },
+    {
+      "album": {
         "name": "Goli",
         "url": "https://open.spotify.com/album/32lzoDt96kxUb6Hh8cRy6m"
       },
@@ -1366,6 +1428,28 @@
       "duration_ms": 157714,
       "name": "Gurjari",
       "url": "https://open.spotify.com/track/2G6xSLWVj94AwzwdsbLJ29"
+    },
+    {
+      "album": {
+        "name": "Handcuffs",
+        "url": "https://open.spotify.com/album/6U2o1eB1KWcV6d6M8KQnkx"
+      },
+      "artists": [
+        {
+          "name": "Miki Malang",
+          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
+        },
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 221600,
+      "name": "Handcuffs",
+      "url": "https://open.spotify.com/track/1xwoD9H9i7UiBJt4gS1cbi"
     },
     {
       "album": {
@@ -1514,7 +1598,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": "2024-01-06",
       "duration_ms": 376153,
       "name": "HHH - Hip Hop Haryana",
       "url": "https://open.spotify.com/track/4IeV70SlCuHIghIebyAcxE"
@@ -1666,7 +1750,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 163835,
       "name": "Jaat Warriors",
       "url": "https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY"
@@ -1878,7 +1962,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -2746,7 +2830,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 199508,
       "name": "Red Face",
       "url": "https://open.spotify.com/track/2vcOf6FPBKpc9RFnVLPd4j"

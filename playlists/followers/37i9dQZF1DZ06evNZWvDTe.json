@@ -1,731 +1,3423 @@
 {
-  "2021-12-29": 29,
-  "2021-12-30": 29,
-  "2021-12-31": 29,
-  "2022-01-01": 29,
-  "2022-01-02": 29,
-  "2022-01-03": 29,
-  "2022-01-04": 29,
-  "2022-01-05": 29,
-  "2022-01-06": 29,
-  "2022-01-07": 29,
-  "2022-01-08": 29,
-  "2022-01-09": 29,
-  "2022-01-10": 29,
-  "2022-01-11": 29,
-  "2022-01-12": 33,
-  "2022-01-13": 40,
-  "2022-01-14": 44,
-  "2022-01-15": 54,
-  "2022-01-16": 55,
-  "2022-01-17": 5570,
-  "2022-01-18": 5569,
-  "2022-01-19": 5572,
-  "2022-01-20": 5579,
-  "2022-01-21": 5583,
-  "2022-01-22": 5591,
-  "2022-01-23": 5597,
-  "2022-01-24": 5597,
-  "2022-01-25": 5604,
-  "2022-01-26": 5610,
-  "2022-01-27": 5612,
-  "2022-01-28": 5613,
-  "2022-01-29": 5621,
-  "2022-01-30": 5626,
-  "2022-01-31": 5630,
-  "2022-02-01": 5632,
-  "2022-02-02": 5632,
-  "2022-02-03": 5638,
-  "2022-02-04": 5647,
-  "2022-02-05": 5655,
-  "2022-02-06": 5662,
-  "2022-02-07": 5668,
-  "2022-02-08": 5670,
-  "2022-02-09": 5680,
-  "2022-02-10": 5688,
-  "2022-02-11": 5690,
-  "2022-02-12": 5697,
-  "2022-02-13": 5702,
-  "2022-02-14": 5706,
-  "2022-02-15": 5711,
-  "2022-02-16": 5722,
-  "2022-02-17": 5735,
-  "2022-02-18": 5745,
-  "2022-02-19": 5752,
-  "2022-02-20": 5761,
-  "2022-02-21": 5770,
-  "2022-02-22": 5777,
-  "2022-02-23": 5784,
-  "2022-02-24": 5790,
-  "2022-02-25": 5796,
-  "2022-02-26": 5802,
-  "2022-02-27": 5814,
-  "2022-02-28": 5814,
-  "2022-03-01": 5819,
-  "2022-03-02": 5823,
-  "2022-03-03": 5829,
-  "2022-03-04": 5836,
-  "2022-03-05": 5841,
-  "2022-03-06": 5846,
-  "2022-03-07": 5855,
-  "2022-03-08": 5858,
-  "2022-03-09": 5868,
-  "2022-03-10": 5875,
-  "2022-03-11": 5881,
-  "2022-03-12": 5886,
-  "2022-03-13": 5888,
-  "2022-03-14": 5894,
-  "2022-03-15": 5899,
-  "2022-03-16": 5907,
-  "2022-03-17": 5909,
-  "2022-03-18": 5913,
-  "2022-03-19": 5917,
-  "2022-03-20": 5917,
-  "2022-03-21": 5928,
-  "2022-03-22": 5931,
-  "2022-03-23": 5939,
-  "2022-03-24": 5941,
-  "2022-03-25": 5947,
-  "2022-03-26": 5953,
-  "2022-03-27": 5959,
-  "2022-03-28": 5963,
-  "2022-03-30": 5971,
-  "2022-03-31": 5974,
-  "2022-04-01": 5978,
-  "2022-04-02": 5984,
-  "2022-04-03": 5988,
-  "2022-04-04": 5987,
-  "2022-04-05": 5991,
-  "2022-04-06": 5994,
-  "2022-04-07": 5995,
-  "2022-04-08": 5995,
-  "2022-04-09": 5998,
-  "2022-04-10": 6008,
-  "2022-04-11": 6011,
-  "2022-04-12": 6012,
-  "2022-04-13": 6013,
-  "2022-04-14": 6018,
-  "2022-04-15": 6023,
-  "2022-04-16": 6026,
-  "2022-04-17": 6030,
-  "2022-04-18": 6029,
-  "2022-04-19": 6037,
-  "2022-04-20": 6042,
-  "2022-04-21": 6048,
-  "2022-04-22": 6056,
-  "2022-04-23": 6057,
-  "2022-04-24": 6059,
-  "2022-04-25": 6063,
-  "2022-04-26": 6070,
-  "2022-04-27": 6081,
-  "2022-04-28": 6088,
-  "2022-04-29": 6099,
-  "2022-04-30": 6101,
-  "2022-05-01": 6111,
-  "2022-05-02": 6111,
-  "2022-05-03": 6116,
-  "2022-05-04": 6122,
-  "2022-05-05": 6126,
-  "2022-05-06": 6137,
-  "2022-05-07": 6144,
-  "2022-05-08": 6151,
-  "2022-05-09": 6151,
-  "2022-05-10": 6151,
-  "2022-05-11": 6154,
-  "2022-05-12": 6159,
-  "2022-05-13": 6167,
-  "2022-05-14": 6170,
-  "2022-05-15": 6175,
-  "2022-05-16": 6179,
-  "2022-05-17": 6184,
-  "2022-05-18": 6189,
-  "2022-05-19": 6189,
-  "2022-05-20": 6195,
-  "2022-05-21": 6201,
-  "2022-05-22": 6201,
-  "2022-05-23": 6205,
-  "2022-05-24": 6209,
-  "2022-05-25": 6211,
-  "2022-05-26": 6217,
-  "2022-05-27": 6225,
-  "2022-05-28": 6225,
-  "2022-05-29": 6234,
-  "2022-05-30": 6238,
-  "2022-05-31": 6243,
-  "2022-06-01": 6250,
-  "2022-06-02": 6250,
-  "2022-06-03": 6251,
-  "2022-06-04": 6255,
-  "2022-06-05": 6256,
-  "2022-06-06": 6261,
-  "2022-06-07": 6265,
-  "2022-06-08": 6271,
-  "2022-06-09": 6276,
-  "2022-06-10": 6281,
-  "2022-06-11": 6291,
-  "2022-06-12": 6293,
-  "2022-06-13": 6299,
-  "2022-06-14": 6302,
-  "2022-06-15": 6305,
-  "2022-06-16": 6308,
-  "2022-06-17": 6308,
-  "2022-06-18": 6313,
-  "2022-06-19": 6324,
-  "2022-06-20": 6324,
-  "2022-06-21": 6327,
-  "2022-06-22": 6334,
-  "2022-06-23": 6334,
-  "2022-06-24": 6341,
-  "2022-06-25": 6348,
-  "2022-06-26": 6350,
-  "2022-06-27": 6355,
-  "2022-06-28": 6362,
-  "2022-06-29": 6367,
-  "2022-06-30": 6370,
-  "2022-07-01": 6376,
-  "2022-07-02": 6381,
-  "2022-07-03": 6385,
-  "2022-07-04": 6390,
-  "2022-07-05": 6397,
-  "2022-07-06": 6397,
-  "2022-07-07": 6410,
-  "2022-07-08": 6417,
-  "2022-07-09": 6418,
-  "2022-07-10": 6424,
-  "2022-07-11": 6434,
-  "2022-07-12": 6440,
-  "2022-07-13": 6444,
-  "2022-07-14": 6458,
-  "2022-07-15": 6461,
-  "2022-07-16": 6464,
-  "2022-07-17": 6470,
-  "2022-07-18": 6477,
-  "2022-07-19": 6480,
-  "2022-07-20": 6484,
-  "2022-07-21": 6490,
-  "2022-07-22": 6495,
-  "2022-07-23": 6504,
-  "2022-07-24": 6508,
-  "2022-07-25": 6514,
-  "2022-07-26": 6517,
-  "2022-07-27": 6520,
-  "2022-07-28": 6527,
-  "2022-07-29": 6530,
-  "2022-07-30": 6541,
-  "2022-07-31": 6541,
-  "2022-08-01": 6543,
-  "2022-08-02": 6557,
-  "2022-08-03": 6557,
-  "2022-08-04": 6562,
-  "2022-08-05": 6570,
-  "2022-08-06": 6573,
-  "2022-08-07": 6585,
-  "2022-08-08": 6591,
-  "2022-08-09": 6597,
-  "2022-08-10": 6603,
-  "2022-08-11": 6605,
-  "2022-08-12": 6614,
-  "2022-08-13": 6617,
-  "2022-08-14": 6620,
-  "2022-08-15": 6627,
-  "2022-08-16": 6632,
-  "2022-08-17": 6640,
-  "2022-08-18": 6648,
-  "2022-08-19": 6655,
-  "2022-08-20": 6658,
-  "2022-08-21": 6665,
-  "2022-08-22": 6672,
-  "2022-08-23": 6680,
-  "2022-08-24": 6686,
-  "2022-08-25": 6693,
-  "2022-08-26": 6702,
-  "2022-08-27": 6706,
-  "2022-08-28": 6710,
-  "2022-08-29": 6718,
-  "2022-08-30": 6725,
-  "2022-08-31": 6726,
-  "2022-09-01": 6736,
-  "2022-09-02": 6736,
-  "2022-09-03": 6737,
-  "2022-09-04": 6744,
-  "2022-09-05": 6746,
-  "2022-09-06": 6758,
-  "2022-09-07": 6767,
-  "2022-09-09": 6777,
-  "2022-09-10": 6781,
-  "2022-09-11": 6783,
-  "2022-09-12": 6788,
-  "2022-09-13": 6795,
-  "2022-09-15": 6804,
-  "2022-09-16": 6808,
-  "2022-09-17": 6815,
-  "2022-09-18": 6826,
-  "2022-09-19": 6829,
-  "2022-09-20": 6833,
-  "2022-09-21": 6836,
-  "2022-09-22": 6840,
-  "2022-09-23": 6850,
-  "2022-09-24": 6857,
-  "2022-09-25": 6863,
-  "2022-09-26": 6874,
-  "2022-09-27": 6881,
-  "2022-09-28": 6893,
-  "2022-09-29": 6898,
-  "2022-09-30": 6907,
-  "2022-10-01": 6912,
-  "2022-10-02": 6924,
-  "2022-10-03": 6929,
-  "2022-10-04": 6933,
-  "2022-10-05": 6940,
-  "2022-10-06": 6947,
-  "2022-10-07": 6952,
-  "2022-10-08": 6957,
-  "2022-10-09": 6971,
-  "2022-10-10": 6973,
-  "2022-10-11": 6977,
-  "2022-10-12": 6982,
-  "2022-10-13": 6983,
-  "2022-10-14": 6990,
-  "2022-10-15": 6997,
-  "2022-10-16": 7006,
-  "2022-10-17": 7015,
-  "2022-10-18": 7025,
-  "2022-10-19": 7034,
-  "2022-10-20": 7036,
-  "2022-10-21": 7040,
-  "2022-10-22": 7048,
-  "2022-10-23": 7051,
-  "2022-10-24": 7053,
-  "2022-10-25": 7053,
-  "2022-10-26": 7054,
-  "2022-10-27": 7058,
-  "2022-10-28": 7062,
-  "2022-10-29": 7065,
-  "2022-10-30": 7072,
-  "2022-10-31": 7076,
-  "2022-11-01": 7080,
-  "2022-11-02": 7083,
-  "2022-11-03": 7086,
-  "2022-11-04": 7092,
-  "2022-11-05": 7099,
-  "2022-11-06": 7104,
-  "2022-11-07": 7107,
-  "2022-11-08": 7120,
-  "2022-11-09": 7121,
-  "2022-11-10": 7124,
-  "2022-11-11": 7130,
-  "2022-11-12": 7146,
-  "2022-11-13": 7157,
-  "2022-11-14": 7165,
-  "2022-11-15": 7173,
-  "2022-11-16": 7180,
-  "2022-11-17": 7188,
-  "2022-11-18": 7191,
-  "2022-11-19": 7198,
-  "2022-11-20": 7205,
-  "2022-11-21": 7212,
-  "2022-11-22": 7219,
-  "2022-11-23": 7223,
-  "2022-11-24": 7230,
-  "2022-11-25": 7234,
-  "2022-11-26": 7238,
-  "2022-11-27": 7244,
-  "2022-11-28": 7252,
-  "2022-11-29": 7254,
-  "2022-11-30": 7257,
-  "2022-12-01": 7260,
-  "2022-12-02": 7260,
-  "2022-12-03": 7267,
-  "2022-12-04": 7274,
-  "2022-12-05": 7277,
-  "2022-12-06": 7283,
-  "2022-12-07": 7285,
-  "2022-12-08": 7290,
-  "2022-12-09": 7296,
-  "2022-12-10": 7302,
-  "2022-12-11": 7311,
-  "2022-12-12": 7322,
-  "2022-12-13": 7327,
-  "2022-12-14": 7330,
-  "2022-12-15": 7339,
-  "2022-12-16": 7342,
-  "2022-12-17": 7345,
-  "2022-12-18": 7348,
-  "2022-12-19": 7353,
-  "2022-12-20": 7364,
-  "2022-12-21": 7364,
-  "2022-12-22": 7370,
-  "2022-12-24": 7382,
-  "2022-12-25": 7390,
-  "2022-12-26": 7395,
-  "2022-12-27": 7401,
-  "2022-12-28": 7407,
-  "2022-12-29": 7418,
-  "2022-12-30": 7423,
-  "2022-12-31": 7431,
-  "2023-01-01": 7436,
-  "2023-01-02": 7439,
-  "2023-01-03": 7455,
-  "2023-01-04": 7457,
-  "2023-01-05": 7467,
-  "2023-01-06": 7477,
-  "2023-01-07": 7490,
-  "2023-01-08": 7490,
-  "2023-01-09": 7498,
-  "2023-01-10": 7508,
-  "2023-01-11": 7511,
-  "2023-01-12": 7513,
-  "2023-01-13": 7518,
-  "2023-01-14": 7523,
-  "2023-01-15": 7521,
-  "2023-01-16": 7526,
-  "2023-01-17": 7532,
-  "2023-01-18": 7534,
-  "2023-01-19": 7536,
-  "2023-01-20": 7543,
-  "2023-01-21": 7555,
-  "2023-01-22": 7561,
-  "2023-01-23": 7571,
-  "2023-01-24": 7575,
-  "2023-01-25": 7584,
-  "2023-01-26": 7587,
-  "2023-01-27": 7593,
-  "2023-01-28": 7601,
-  "2023-01-29": 7608,
-  "2023-01-30": 7607,
-  "2023-01-31": 7607,
-  "2023-02-01": 7613,
-  "2023-02-02": 7623,
-  "2023-02-03": 7632,
-  "2023-02-04": 7636,
-  "2023-02-05": 7644,
-  "2023-02-06": 7652,
-  "2023-02-07": 7654,
-  "2023-02-08": 7664,
-  "2023-02-09": 7664,
-  "2023-02-10": 7671,
-  "2023-02-11": 7677,
-  "2023-02-12": 7683,
-  "2023-02-13": 7690,
-  "2023-02-14": 7690,
-  "2023-02-15": 7696,
-  "2023-02-16": 7703,
-  "2023-02-17": 7708,
-  "2023-02-18": 7718,
-  "2023-02-19": 7718,
-  "2023-02-20": 7722,
-  "2023-02-21": 7725,
-  "2023-02-22": 7728,
-  "2023-02-23": 7732,
-  "2023-02-24": 7742,
-  "2023-02-25": 7750,
-  "2023-02-26": 7756,
-  "2023-02-27": 7764,
-  "2023-02-28": 7764,
-  "2023-03-01": 7771,
-  "2023-03-02": 7775,
-  "2023-03-03": 7781,
-  "2023-03-04": 7787,
-  "2023-03-05": 7801,
-  "2023-03-06": 7801,
-  "2023-03-07": 7814,
-  "2023-03-08": 7821,
-  "2023-03-09": 7832,
-  "2023-03-10": 7835,
-  "2023-03-11": 7840,
-  "2023-03-12": 7855,
-  "2023-03-13": 7864,
-  "2023-03-14": 7872,
-  "2023-03-15": 7876,
-  "2023-03-16": 7878,
-  "2023-03-17": 7878,
-  "2023-03-18": 7895,
-  "2023-03-19": 7903,
-  "2023-03-20": 7905,
-  "2023-03-21": 7913,
-  "2023-03-22": 7922,
-  "2023-03-23": 7927,
-  "2023-03-24": 7927,
-  "2023-03-25": 7934,
-  "2023-03-26": 7941,
-  "2023-03-27": 7947,
-  "2023-03-28": 7951,
-  "2023-03-29": 7957,
-  "2023-03-30": 7970,
-  "2023-03-31": 7970,
-  "2023-04-01": 7977,
-  "2023-04-02": 7984,
-  "2023-04-03": 7987,
-  "2023-04-04": 7993,
-  "2023-04-05": 7999,
-  "2023-04-06": 8003,
-  "2023-04-07": 8007,
-  "2023-04-09": 8014,
-  "2023-04-10": 8022,
-  "2023-04-11": 8023,
-  "2023-04-12": 8023,
-  "2023-04-13": 8027,
-  "2023-04-14": 8035,
-  "2023-04-15": 8044,
-  "2023-04-16": 8048,
-  "2023-04-17": 8060,
-  "2023-04-18": 8065,
-  "2023-04-19": 8070,
-  "2023-04-20": 8082,
-  "2023-04-21": 8089,
-  "2023-04-22": 8094,
-  "2023-04-23": 8107,
-  "2023-04-24": 8115,
-  "2023-04-25": 8123,
-  "2023-04-26": 8126,
-  "2023-04-27": 8130,
-  "2023-04-28": 8139,
-  "2023-04-29": 8148,
-  "2023-04-30": 8156,
-  "2023-05-01": 8165,
-  "2023-05-02": 8173,
-  "2023-05-03": 8175,
-  "2023-05-04": 8181,
-  "2023-05-05": 8184,
-  "2023-05-06": 8193,
-  "2023-05-07": 8193,
-  "2023-05-08": 8201,
-  "2023-05-09": 8207,
-  "2023-05-10": 8214,
-  "2023-05-11": 8221,
-  "2023-05-12": 8225,
-  "2023-05-13": 8230,
-  "2023-05-14": 8241,
-  "2023-05-15": 8246,
-  "2023-05-16": 8259,
-  "2023-05-17": 8263,
-  "2023-05-18": 8273,
-  "2023-05-19": 8275,
-  "2023-05-20": 8283,
-  "2023-05-21": 8283,
-  "2023-05-22": 8283,
-  "2023-05-23": 8292,
-  "2023-05-24": 8304,
-  "2023-05-25": 8306,
-  "2023-05-26": 8314,
-  "2023-05-27": 8317,
-  "2023-05-28": 8326,
-  "2023-05-29": 8326,
-  "2023-05-30": 8341,
-  "2023-05-31": 8342,
-  "2023-06-01": 8343,
-  "2023-06-02": 8347,
-  "2023-06-03": 8354,
-  "2023-06-04": 8362,
-  "2023-06-05": 8364,
-  "2023-06-06": 8366,
-  "2023-06-07": 8370,
-  "2023-06-08": 8375,
-  "2023-06-09": 8379,
-  "2023-06-10": 8388,
-  "2023-06-11": 8395,
-  "2023-06-12": 8404,
-  "2023-06-13": 8410,
-  "2023-06-14": 8410,
-  "2023-06-15": 8421,
-  "2023-06-16": 8429,
-  "2023-06-17": 8437,
-  "2023-06-18": 8453,
-  "2023-06-19": 8457,
-  "2023-06-20": 8463,
-  "2023-06-21": 8472,
-  "2023-06-22": 8474,
-  "2023-06-23": 8479,
-  "2023-06-24": 8483,
-  "2023-06-25": 8495,
-  "2023-06-26": 8506,
-  "2023-06-27": 8510,
-  "2023-06-28": 8526,
-  "2023-06-29": 8544,
-  "2023-06-30": 8559,
-  "2023-07-01": 8577,
-  "2023-07-02": 8577,
-  "2023-07-03": 8588,
-  "2023-07-04": 8595,
-  "2023-07-05": 8598,
-  "2023-07-06": 8616,
-  "2023-07-07": 8616,
-  "2023-07-08": 8617,
-  "2023-07-09": 8629,
-  "2023-07-10": 8635,
-  "2023-07-11": 8641,
-  "2023-07-12": 8644,
-  "2023-07-13": 8652,
-  "2023-07-14": 8657,
-  "2023-07-15": 8661,
-  "2023-07-16": 8669,
-  "2023-07-17": 8673,
-  "2023-07-18": 8684,
-  "2023-07-19": 8699,
-  "2023-07-20": 8705,
-  "2023-07-21": 8708,
-  "2023-07-22": 8721,
-  "2023-07-23": 8727,
-  "2023-07-24": 8733,
-  "2023-07-25": 8739,
-  "2023-07-26": 8752,
-  "2023-07-27": 8758,
-  "2023-07-28": 8774,
-  "2023-07-29": 8786,
-  "2023-07-30": 8789,
-  "2023-07-31": 8792,
-  "2023-08-01": 8804,
-  "2023-08-02": 8807,
-  "2023-08-03": 8813,
-  "2023-08-04": 8819,
-  "2023-08-05": 8822,
-  "2023-08-06": 8837,
-  "2023-08-07": 8837,
-  "2023-08-08": 8842,
-  "2023-08-09": 8847,
-  "2023-08-10": 8858,
-  "2023-08-11": 8863,
-  "2023-08-12": 8871,
-  "2023-08-13": 8871,
-  "2023-08-14": 8883,
-  "2023-08-15": 8896,
-  "2023-08-16": 8896,
-  "2023-08-17": 8902,
-  "2023-08-18": 8905,
-  "2023-08-19": 8910,
-  "2023-08-20": 8915,
-  "2023-08-21": 8918,
-  "2023-08-22": 8921,
-  "2023-08-23": 8928,
-  "2023-08-24": 8934,
-  "2023-08-25": 8940,
-  "2023-08-26": 8947,
-  "2023-08-27": 8956,
-  "2023-08-28": 8956,
-  "2023-08-29": 8959,
-  "2023-08-30": 8959,
-  "2023-08-31": 8972,
-  "2023-09-01": 8983,
-  "2023-09-02": 8983,
-  "2023-09-03": 8986,
-  "2023-09-04": 8986,
-  "2023-09-05": 8995,
-  "2023-09-06": 9000,
-  "2023-09-07": 9000,
-  "2023-09-08": 9000,
-  "2023-09-09": 9000,
-  "2023-09-10": 9018,
-  "2023-09-11": 9020,
-  "2023-09-12": 9020,
-  "2023-09-13": 9031,
-  "2023-09-14": 9031,
-  "2023-09-15": 9049,
-  "2023-09-16": 9049,
-  "2023-09-17": 9049,
-  "2023-09-18": 9049,
-  "2023-09-19": 9061,
-  "2023-09-20": 9059,
-  "2023-09-21": 9065,
-  "2023-09-22": 9072,
-  "2023-09-23": 9072,
-  "2023-09-24": 9072,
-  "2023-09-25": 9072,
-  "2023-09-26": 9093,
-  "2023-09-27": 9093,
-  "2023-09-28": 9093,
-  "2023-09-29": 9093,
-  "2023-09-30": 9093,
-  "2023-10-01": 9093,
-  "2023-10-02": 9119,
-  "2023-10-03": 9119,
-  "2023-10-04": 9119,
-  "2023-10-05": 9138,
-  "2023-10-06": 9147,
-  "2023-10-07": 9147,
-  "2023-10-08": 9147,
-  "2023-10-09": 9147,
-  "2023-10-10": 9147,
-  "2023-10-11": 9162,
-  "2023-10-12": 9162,
-  "2023-10-13": 9173,
-  "2023-10-14": 9173,
-  "2023-10-15": 9173,
-  "2023-10-16": 9173,
-  "2023-10-17": 9173,
-  "2023-10-18": 9173,
-  "2023-10-19": 9173,
-  "2023-10-20": 9173,
-  "2023-10-21": 9173,
-  "2023-10-22": 9173,
-  "2023-10-23": 9173,
-  "2023-10-24": 9173,
-  "2023-10-25": 9173,
-  "2023-10-26": 9173,
-  "2023-10-27": 9173,
-  "2023-10-28": 9173,
-  "2023-10-29": 9173,
-  "2023-10-30": 9173,
-  "2023-10-31": 9173,
-  "2023-11-01": 9173,
-  "2023-11-02": 9173,
-  "2023-11-03": 9173,
-  "2023-11-04": 9173,
-  "2023-11-05": 9173,
-  "2023-11-06": 9173,
-  "2023-11-07": 9173,
-  "2023-11-08": 9173,
-  "2023-11-09": 9173,
-  "2023-11-10": 9173,
-  "2023-11-11": 9344,
-  "2023-11-12": 9344,
-  "2023-11-13": 9344,
-  "2023-11-14": 9344,
-  "2023-11-15": 9344,
-  "2023-11-16": 9344,
-  "2023-11-17": 9344,
-  "2023-11-18": 9344,
-  "2023-11-19": 9344,
-  "2023-11-20": 9344,
-  "2023-11-21": 9344,
-  "2023-11-22": 9344,
-  "2023-11-23": 9344,
-  "2023-11-24": 9344,
-  "2023-11-25": 9344,
-  "2023-11-26": 9344,
-  "2023-11-27": 9344,
-  "2023-11-28": 9344,
-  "2023-11-29": 9344,
-  "2023-11-30": 9344,
-  "2023-12-01": 9344,
-  "2023-12-02": 9344,
-  "2023-12-03": 9344,
-  "2023-12-04": 9344,
-  "2023-12-05": 9344,
-  "2023-12-06": 9344,
-  "2023-12-07": 9344,
-  "2023-12-08": 9344,
-  "2023-12-09": 9344,
-  "2023-12-10": 9344,
-  "2023-12-11": 9344,
-  "2023-12-12": 9344,
-  "2023-12-13": 9344,
-  "2023-12-14": 9535,
-  "2023-12-15": 9543,
-  "2023-12-16": 9561,
-  "2023-12-17": 9568,
-  "2023-12-18": 9577,
-  "2023-12-19": 9592,
-  "2023-12-20": 9600,
-  "2023-12-21": 9606,
-  "2023-12-22": 9616,
-  "2023-12-23": 9625,
-  "2023-12-24": 9632,
-  "2023-12-25": 9637,
-  "2023-12-26": 9638,
-  "2023-12-27": 9649,
-  "2023-12-30": 9673,
-  "2023-12-31": 9681,
-  "2024-01-01": 9692,
-  "2024-01-02": 9698,
-  "2024-01-03": 9701
+  "2024-01-17": 9806,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Sarkodie. The essential tracks, all in one playlist.",
+  "name": "This Is Sarkodie",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188691,
+      "name": "2 Paddies (feat. Joey B)",
+      "url": "https://open.spotify.com/track/1wXmZNyaY3NIKOkq9kJz0T"
+    },
+    {
+      "album": {
+        "name": "Adonai (Remix) [feat. Castro]",
+        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288130,
+      "name": "Adonai (Remix) [feat. Castro]",
+      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
+    },
+    {
+      "album": {
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Nana Boroo",
+          "url": "https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 220960,
+      "name": "Ajeei (feat. Nana Boroo & Sarkodie)",
+      "url": "https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW"
+    },
+    {
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287261,
+      "name": "Always on My Mind (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191719,
+      "name": "Anadwo (feat. King Promise)",
+      "url": "https://open.spotify.com/track/5y1xgWDqsyrcOY7xrlwakX"
+    },
+    {
+      "album": {
+        "name": "Awarepa Ye Anibre",
+        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 351520,
+      "name": "Anadwo Yi Dei",
+      "url": "https://open.spotify.com/track/1VhoeCvXoki1sCHUGdykPA"
+    },
+    {
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 148401,
+      "name": "Angels and Demons",
+      "url": "https://open.spotify.com/track/0y0zAsjxaoGvV7HQm3QrwB"
+    },
+    {
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 291111,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/6xuBRuNBKQR3LnBjUS7ZIn"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286039,
+      "name": "Asikyire",
+      "url": "https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA"
+    },
+    {
+      "album": {
+        "name": "Azonto Fiesta",
+        "url": "https://open.spotify.com/album/1mg4MsqiBfumobQ1BcPJfh"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Appietus",
+          "url": "https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN"
+        },
+        {
+          "name": "Kesse",
+          "url": "https://open.spotify.com/artist/4ZhIFuuxUkdBSeiVVWxVzi"
+        }
+      ],
+      "date_added": "2022-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 263189,
+      "name": "Azonto Fiesta",
+      "url": "https://open.spotify.com/track/3CgFXfyJOYBhc3aoekeUxt"
+    },
+    {
+      "album": {
+        "name": "Baafira (Remix)",
+        "url": "https://open.spotify.com/album/2g0yawlN7zlGVKML52Mt9A"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-26",
+      "duration_ms": 207413,
+      "name": "Baafira - Remix",
+      "url": "https://open.spotify.com/track/6WIv1NFa6WxphahzCF7YG2"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/1BQhMEiv7bLPI7wLAdHsn9"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 275440,
+      "name": "Bambi Too (feat. Maleek Berry, Quavo & Sarkodie)",
+      "url": "https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Better Days (feat. BNXN fka Buju)",
+      "url": "https://open.spotify.com/track/0ou0qN9oPjJ442ZHrEksLx"
+    },
+    {
+      "album": {
+        "name": "Biibi Ba",
+        "url": "https://open.spotify.com/album/3hJsfFv0oVtUCjx3TXBEIv"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Frequency",
+          "url": "https://open.spotify.com/artist/0Kgq792etn9wG3uAgNHc6J"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/3h7rVGyH2xi3SP3vkMejQ3"
+        },
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Cj Biggerman",
+          "url": "https://open.spotify.com/artist/1Vl2tN2L85Viewqi6PzAzl"
+        },
+        {
+          "name": "Tulenkey",
+          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        },
+        {
+          "name": "Toy Boi",
+          "url": "https://open.spotify.com/artist/7BrPxUA9JqUCnvW44YHMoB"
+        },
+        {
+          "name": "2 Fyngers",
+          "url": "https://open.spotify.com/artist/0tsCNGTGTkwJ7h2aYMaXVB"
+        },
+        {
+          "name": "OBkay",
+          "url": "https://open.spotify.com/artist/3JrpEByqQOB3CCvqH1anpr"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 457142,
+      "name": "Biibi Ba",
+      "url": "https://open.spotify.com/track/0TRwbnQJECyqhioDRdnq9E"
+    },
+    {
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-31",
+      "duration_ms": 210710,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/0JNfstbk0KdmzgM2LhI30k"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 211320,
+      "name": "Broken Heart (feat. Sista Afia)",
+      "url": "https://open.spotify.com/track/5bIPYtfEgg221LdTSXaRls"
+    },
+    {
+      "album": {
+        "name": "Brown Paper Bag",
+        "url": "https://open.spotify.com/album/6NktDKjIhhDej9lrYc4u3d"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 285000,
+      "name": "Brown Paper Bag",
+      "url": "https://open.spotify.com/track/0dv9sJ7KIpm6pCOZBvnme0"
+    },
+    {
+      "album": {
+        "name": "Bumper",
+        "url": "https://open.spotify.com/album/7Cbxz4Z0qDSP4Vgbtajtya"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 178699,
+      "name": "Bumper",
+      "url": "https://open.spotify.com/track/2Kz8Wobrg0ATJsnM9nG9Fd"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223166,
+      "name": "Can't Let You Go (feat. King Promise)",
+      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
+    },
+    {
+      "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253040,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
+    },
+    {
+      "album": {
+        "name": "CEO FLOW",
+        "url": "https://open.spotify.com/album/3VFxOFL1DWLq1naU93Ab0P"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 222958,
+      "name": "CEO FLOW",
+      "url": "https://open.spotify.com/track/4iF0umElVzYWpHe9zRJzZE"
+    },
+    {
+      "album": {
+        "name": "Check My Zingo",
+        "url": "https://open.spotify.com/album/7IlhASuywpVLYMWHvDvCn4"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 213900,
+      "name": "Check My Zingo",
+      "url": "https://open.spotify.com/track/6FXsUcro2Lcje0JJIzeliz"
+    },
+    {
+      "album": {
+        "name": "Chingam (feat. Bisa Kdei)",
+        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 214013,
+      "name": "Chingam (feat. Bisa Kdei)",
+      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+    },
+    {
+      "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
+    },
+    {
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129427,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
+    },
+    {
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/0HhNGWt104FJtcGV1DG7xA"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-17",
+      "duration_ms": 195963,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/4wcFfoHSRyHqpaDiN6zw4q"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223157,
+      "name": "Confam",
+      "url": "https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209708,
+      "name": "Cougar (feat. Lojay)",
+      "url": "https://open.spotify.com/track/2a6AVT30VFGQ1ceA6PE3cA"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Country Side (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 142234,
+      "name": "Dear Rap",
+      "url": "https://open.spotify.com/track/5kLuuG5Qs5upHUQCP05RoS"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 160000,
+      "name": "Deserve My Love",
+      "url": "https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ"
+    },
+    {
+      "album": {
+        "name": "Didi (feat. Kelvynboy & Strongman)",
+        "url": "https://open.spotify.com/album/76Q4XFRm6azY8a1FzE8Dpw"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kelvynboy",
+          "url": "https://open.spotify.com/artist/1ILezeIGUwWL0L3UT6vnEF"
+        },
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 230426,
+      "name": "Didi (feat. Kelvynboy & Strongman)",
+      "url": "https://open.spotify.com/track/0jVd212WpucXRGRR6m5Quc"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 203773,
+      "name": "Do You (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/26F2A18Auc3BJZxK2F0dLs"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Benerl",
+          "url": "https://open.spotify.com/artist/6FpN7gwehZgxVAgVHUMh1L"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-17",
+      "duration_ms": 232871,
+      "name": "Don't Cry (feat. Benerl)",
+      "url": "https://open.spotify.com/track/4gSNoczwZgkB0Wz6xxjaoT"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 227030,
+      "name": "Down on One (feat. Fuse Odg)",
+      "url": "https://open.spotify.com/track/3elGAya8lU9d2dC1J4QYuh"
+    },
+    {
+      "album": {
+        "name": "Dw3",
+        "url": "https://open.spotify.com/album/4taXdW8VaokKg5ycpjgLl6"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        },
+        {
+          "name": "KRYMI",
+          "url": "https://open.spotify.com/artist/34wXzU4pMFOuQejyLtMWjO"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213261,
+      "name": "Dw3",
+      "url": "https://open.spotify.com/track/4ISf9ZEUJyhcTBC4C8NP6l"
+    },
+    {
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 215202,
+      "name": "Edwom Te S3n",
+      "url": "https://open.spotify.com/track/55gLrEzwxy9dNfospB2qQ1"
+    },
+    {
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 345793,
+      "name": "Efya-Am In Luv With U(prod. By Killbeatz) (feat. Efya)",
+      "url": "https://open.spotify.com/track/0pE5QY5MzbQZ4LxrBBnOny"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 316849,
+      "name": "Elijah (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/5A5TegAvaWSqOgC7GJUS0u"
+    },
+    {
+      "album": {
+        "name": "Fa Hooki Me",
+        "url": "https://open.spotify.com/album/1gqTSytfkUbGMTTiXgRpOZ"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 186884,
+      "name": "Fa Hooki Me",
+      "url": "https://open.spotify.com/track/5E79kYZQN4Ea2HTJ4fLsQv"
+    },
+    {
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 211485,
+      "name": "Fallacy",
+      "url": "https://open.spotify.com/track/4Fqh26b1r31ome2J0U9Tri"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Koredo Bello",
+          "url": "https://open.spotify.com/artist/7oF3zto0IUEEL5Jsczcmvd"
+        },
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 276401,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3JGpJctFgQjVqernRw7YAP"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 221093,
+      "name": "Feelings (feat. Maleek Berry)",
+      "url": "https://open.spotify.com/track/4Z3s3IfcvJjxmHupIbb4SZ"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/70gNO57xq8Anipepibg32m"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 253043,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L"
+    },
+    {
+      "album": {
+        "name": "SR3",
+        "url": "https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Zuma",
+          "url": "https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 235906,
+      "name": "FEZEKA (feat. Zuma, Sarkodie & Pabi Cooper)",
+      "url": "https://open.spotify.com/track/5HX1iC3WxQtCfoUnYjVbam"
+    },
+    {
+      "album": {
+        "name": "Unlimited (The Tape)",
+        "url": "https://open.spotify.com/album/15HPzfbTwAjT3ZaQXrpPnP"
+      },
+      "artists": [
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 222586,
+      "name": "FInally",
+      "url": "https://open.spotify.com/track/2owWE178Z5yaQcJUzNgf5U"
+    },
+    {
+      "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/5nrP882U8mOIPRdkmJvjbK"
+      },
+      "artists": [
+        {
+          "name": "Ink Boy",
+          "url": "https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142733,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV"
+    },
+    {
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/3oXVoYCkJbjZE632mfnSG7"
+      },
+      "artists": [
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210335,
+      "name": "For You (with Sarkodie)",
+      "url": "https://open.spotify.com/track/3KVKxXqDAszAvmmVYR9rIv"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 213861,
+      "name": "Forever (feat. Kranium)",
+      "url": "https://open.spotify.com/track/58ohyE1Axw6TJoIFqF90SV"
+    },
+    {
+      "album": {
+        "name": "Freaky & Naughty",
+        "url": "https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 166153,
+      "name": "Freaky & Naughty",
+      "url": "https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj"
+    },
+    {
+      "album": {
+        "name": "Gimme Way",
+        "url": "https://open.spotify.com/album/6i77ZpMzy0E0jQzjs9zHg0"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-13",
+      "duration_ms": 215750,
+      "name": "Gimme Way",
+      "url": "https://open.spotify.com/track/1BStYBM0nrVUhvg9IsLuKn"
+    },
+    {
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 274536,
+      "name": "Give It to Me (feat. Mugeez)",
+      "url": "https://open.spotify.com/track/6gWrC3vfJmWANgwuoHbYDF"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
+    },
+    {
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 218978,
+      "name": "Greatness",
+      "url": "https://open.spotify.com/track/2ZD3mHmyjphne8L61uNZfk"
+    },
+    {
+      "album": {
+        "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
+        "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 242860,
+      "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
+      "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
+    },
+    {
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212932,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
+    },
+    {
+      "album": {
+        "name": "Hasta La Vista",
+        "url": "https://open.spotify.com/album/5EF0IS1ZwjaMEbUgnDWLph"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 195550,
+      "name": "Hasta La Vista",
+      "url": "https://open.spotify.com/track/00rgPXyfLwcIfCRpPS63ic"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 241046,
+      "name": "Hello (feat. KiDi)",
+      "url": "https://open.spotify.com/track/51UajxghdmBlcW1WGU1lXa"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 35273,
+      "name": "Highest, Pt. 1 - Interlude",
+      "url": "https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o"
+    },
+    {
+      "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 197697,
+      "name": "Honey (feat. Kuami Eugene)",
+      "url": "https://open.spotify.com/track/5nVhVTm0ZVWMiFRXmC1ori"
+    },
+    {
+      "album": {
+        "name": "Hope (Brighter Day)",
+        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316421,
+      "name": "Hope (Brighter Day)",
+      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/65gooErIzRYOMZiwUGnlMK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-14",
+      "duration_ms": 187924,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/0UyqB29vUuveKq8ftX7tLD"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 174159,
+      "name": "I Wanna Love You (feat. Harmonize)",
+      "url": "https://open.spotify.com/track/2mHB3UQ6yDuyBD0TA8OACi"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 297215,
+      "name": "I'll Be There (feat. MOGmusic)",
+      "url": "https://open.spotify.com/track/0nDlqLTFNlKtTKP3YptEC1"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 166800,
+      "name": "Illuminati",
+      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94838,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm"
+    },
+    {
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 225307,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/2wpnYzhgnEsbHSgrtKZAgN"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 181000,
+      "name": "Jaara (feat. Medikal)",
+      "url": "https://open.spotify.com/track/5jMI58SeuN7iLfV11eqT4J"
+    },
+    {
+      "album": {
+        "name": "This Is Not The Tape, Sorry 4 The Wait II",
+        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152369,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
+    },
+    {
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/6GmYzJEV8GeMbWhrwBtcBF"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 150439,
+      "name": "King Kong (Cypher)",
+      "url": "https://open.spotify.com/track/7IJa4hTqvXkuQMIBoTY3L4"
+    },
+    {
+      "album": {
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 204813,
+      "name": "Kojo",
+      "url": "https://open.spotify.com/track/5GS5agViHaTwYRom1T6ckD"
+    },
+    {
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/2OASYXR3lBYmnNKIT26hdq"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201433,
+      "name": "La Familia",
+      "url": "https://open.spotify.com/track/6rjkvAGpEeyf67CAM9Lb09"
+    },
+    {
+      "album": {
+        "name": "Labadi (feat. King Promise)",
+        "url": "https://open.spotify.com/album/2JoRJuNZhren1c4hi5L8a4"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-29",
+      "duration_ms": 198000,
+      "name": "Labadi (feat. King Promise)",
+      "url": "https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Labadi (feat. King Promise)",
+      "url": "https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ"
+    },
+    {
+      "album": {
+        "name": "Landlord",
+        "url": "https://open.spotify.com/album/2WQE1JGp2OwNlMyO4QB9LT"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 163224,
+      "name": "Landlord",
+      "url": "https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b"
+    },
+    {
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 224640,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/1pnHv6UjLso4U09tZQBxXw"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Big Narstie",
+          "url": "https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-30",
+      "duration_ms": 297000,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/4zB6pw3SOjK3Gkz5ESssgd"
+    },
+    {
+      "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249213,
+      "name": "LONELY (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 180000,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/5YOvMsGOPTHvRCcctSlVNM"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267660,
+      "name": "Lucky (feat. Rudeboy)",
+      "url": "https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314"
+    },
+    {
+      "album": {
+        "name": "M3gye Wo Girl (feat. Shatta Wale)",
+        "url": "https://open.spotify.com/album/4MaseQ5e2j7Au8NaYrtyd4"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "M3gye Wo Girl (feat. Shatta Wale)",
+      "url": "https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 246250,
+      "name": "Married To The Game (feat. Cassper Nyovest)",
+      "url": "https://open.spotify.com/track/68vc2EUK4BQgFM3epVVlqp"
+    },
+    {
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261009,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224444,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
+    },
+    {
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
+    },
+    {
+      "album": {
+        "name": "NewGuy (feat. Acehood)",
+        "url": "https://open.spotify.com/album/763yDd7CNuWdz0DSFc81XL"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ace Hood",
+          "url": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-31",
+      "duration_ms": 252429,
+      "name": "NewGuy (feat. Acehood)",
+      "url": "https://open.spotify.com/track/24Ot0FTvMXlMuSVah7RoE0"
+    },
+    {
+      "album": {
+        "name": "No Fugazy",
+        "url": "https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
+      "duration_ms": 178107,
+      "name": "No Fugazy",
+      "url": "https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 221600,
+      "name": "No Kissing Baby",
+      "url": "https://open.spotify.com/track/0aUfOf3FhEd8IKCjCHJDky"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221603,
+      "name": "No Kissing Baby",
+      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
+    },
+    {
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 292435,
+      "name": "Nobody's Business (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/0Dv4HyaZg0dNnRf1oAZOEa"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229345,
+      "name": "Non Living Thing (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-13",
+      "duration_ms": 228005,
+      "name": "Obi Doba (feat. Bisa Kdei)",
+      "url": "https://open.spotify.com/track/1wipMSbcqYW4UPQTkQSpUk"
+    },
+    {
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/3cm6Zb6gWgbshGkhl1xHYd"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-27",
+      "duration_ms": 271872,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/2zo3vTLvzQmM83xLV8d6LG"
+    },
+    {
+      "album": {
+        "name": "Epistles of Mama",
+        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207150,
+      "name": "Odo Bi",
+      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+    },
+    {
+      "album": {
+        "name": "Epistles of Mama",
+        "url": "https://open.spotify.com/album/22SPXtFzEEjbhUCDB44BQk"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 207150,
+      "name": "Odo Bi",
+      "url": "https://open.spotify.com/track/6usx8a6PVggafBOtKGUTyQ"
+    },
+    {
+      "album": {
+        "name": "L.I.T.A (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 236202,
+      "name": "Odo Dede",
+      "url": "https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw"
+    },
+    {
+      "album": {
+        "name": "SPOTLIGHT",
+        "url": "https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 210171,
+      "name": "Oluwa Ni",
+      "url": "https://open.spotify.com/track/1qvdbnfzyr7OdfoU1AN5Wk"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 244052,
+      "name": "One Chance (feat. Timaya)",
+      "url": "https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ink Boy",
+          "url": "https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 165818,
+      "name": "One Million Cedis (feat. Ink Boy)",
+      "url": "https://open.spotify.com/track/4eMTkiQRtQKzFgvE5tD4gN"
+    },
+    {
+      "album": {
+        "name": "One Shot (feat. Shatta Wale & Sarkodie)",
+        "url": "https://open.spotify.com/album/67FjgBHWQh0hxSiGJOeaZm"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220421,
+      "name": "One Shot (feat. Shatta Wale & Sarkodie)",
+      "url": "https://open.spotify.com/track/2uhNP5JVU6OVoL5lOvH1tR"
+    },
+    {
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 264409,
+      "name": "Onyame eyhira(produced By Kaywa) (feat. Castro)",
+      "url": "https://open.spotify.com/track/4Q33HiVThLk7DDDAfyu8S2"
+    },
+    {
+      "album": {
+        "name": "Oofeets",
+        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Oofeets",
+      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 247462,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
+    },
+    {
+      "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 198823,
+      "name": "Over Me (feat. Cina Soul)",
+      "url": "https://open.spotify.com/track/5WK9VS79hdiLz4UYwr6KTF"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Jesse Jagz",
+          "url": "https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 204000,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/2JEaKCe6NDnP2f5mPmk88W"
+    },
+    {
+      "album": {
+        "name": "Overload 2",
+        "url": "https://open.spotify.com/album/0FUMpRiaQSexzpDp2XKDDO"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-23",
+      "duration_ms": 218829,
+      "name": "Overload 2",
+      "url": "https://open.spotify.com/track/38tyJTQNH3CX0TBaSL6Nph"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210442,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF"
+    },
+    {
+      "album": {
+        "name": "Pay as You Go",
+        "url": "https://open.spotify.com/album/7DlJxUOOLoWOlr3tbL6IwB"
+      },
+      "artists": [
+        {
+          "name": "M.O.G Beatz",
+          "url": "https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 171428,
+      "name": "Pay as You Go",
+      "url": "https://open.spotify.com/track/5oQRbajY5isfjnNrmUcVs1"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 251846,
+      "name": "Pon D Ting (feat. Banky W)",
+      "url": "https://open.spotify.com/track/6Zb7dUqj1DyGgJu90TMerQ"
+    },
+    {
+      "album": {
+        "name": "Shay On You",
+        "url": "https://open.spotify.com/album/1hTBtOkNbOrwbHVieubMke"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 212375,
+      "name": "Psalm 35",
+      "url": "https://open.spotify.com/track/0SuVrH28fX2pHzKpFuYQny"
+    },
+    {
+      "album": {
+        "name": "Rns Rich Nigga Shit",
+        "url": "https://open.spotify.com/album/1ToAS30v6lc1e7qAtqRliw"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202224,
+      "name": "Rns Rich Nigga Shit",
+      "url": "https://open.spotify.com/track/4vKO4U7OCu9lcWnW7NkZmp"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207761,
+      "name": "Rollies and Cigars",
+      "url": "https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-23",
+      "duration_ms": 176694,
+      "name": "Round 2 (feat. Giggs)",
+      "url": "https://open.spotify.com/track/3DvvlGRUru088PLXlzlcEG"
+    },
+    {
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248713,
+      "name": "Saa Okodie No (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
+    },
+    {
+      "album": {
+        "name": "Saara",
+        "url": "https://open.spotify.com/album/7LoPpiCoplyvf4dcVY91u9"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-18",
+      "duration_ms": 199952,
+      "name": "Saara",
+      "url": "https://open.spotify.com/track/3386NCYBvMZAxIagIBIIRv"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 199952,
+      "name": "Saara (feat. Efya)",
+      "url": "https://open.spotify.com/track/2wYrE76u5DQVyL4lteNe6a"
+    },
+    {
+      "album": {
+        "name": "Masta Groove",
+        "url": "https://open.spotify.com/album/5JdBaiXMegtbhQFdYYnGfY"
+      },
+      "artists": [
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "Shake Body",
+      "url": "https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "She Bad (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 86661,
+      "name": "Sizeless (Skit)",
+      "url": "https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Burna Boy N Aka",
+          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258964,
+      "name": "Special Sumone (feat. Burna Boy n Aka)",
+      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
+    },
+    {
+      "album": {
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/7h35uAmKtfoUwTiUhHkmjs"
+    },
+    {
+      "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 221611,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS"
+    },
+    {
+      "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/28XO1MdjPr59qd5qrHd2oW"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
+      "duration_ms": 221611,
+      "name": "Stir It Up (Feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/1NM9OsPbiAuxw8slkPB5QO"
+    },
+    {
+      "album": {
+        "name": "Three Little Birds (Feat. Teni and Oxlade)",
+        "url": "https://open.spotify.com/album/59NqVqclYsIboTQp0qCppU"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 221611,
+      "name": "Stir It Up (Feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/1VuWH3adr8WqmrwHHwTD0e"
+    },
+    {
+      "album": {
+        "name": "Them Belly Full (But We Hungry) (Feat. Rema & Skip Marley)",
+        "url": "https://open.spotify.com/album/4PrIjUOhymWHG83mEzDj1R"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 221611,
+      "name": "Stir It Up (Feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/62qeCsCyU0nh6WmYKGS5lT"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Strength Of A Woman (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
+    },
+    {
+      "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/5djGPnowlb7n7u63XrblWp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 182164,
+      "name": "Sub Zero",
+      "url": "https://open.spotify.com/track/55z37b4GACx19xCvJezn9x"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 174671,
+      "name": "Take My Love (feat. Tekno)",
+      "url": "https://open.spotify.com/track/7MjFK0v2TormiqNHFyXvDH"
+    },
+    {
+      "album": {
+        "name": "Teef Teef",
+        "url": "https://open.spotify.com/album/1xikDf9KeiwGCPmi2BHEVX"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 270601,
+      "name": "Teef Teef",
+      "url": "https://open.spotify.com/track/675Kfnzftrr18DztlsHekL"
+    },
+    {
+      "album": {
+        "name": "Till We Die (feat. Ruger)",
+        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183289,
+      "name": "Till We Die (feat. Ruger)",
+      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "album": {
+        "name": "Tonga",
+        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202346,
+      "name": "Tonga",
+      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
+    },
+    {
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/0uG6zMQnNUmVvI20N4lr1S"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2EWgz1dixRunlenKM26QVo"
+    },
+    {
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/7MLkMml0WXtxE6r0keAOQi"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 196173,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/4qR1ScsKhKNzzRtsljnPsl"
+    },
+    {
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "EL",
+          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225625,
+      "name": "U Go Kill Me (feat. El)",
+      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+    },
+    {
+      "album": {
+        "name": "PALMWINE DIARIES VOL.1",
+        "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Unfortunately",
+      "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
+    },
+    {
+      "album": {
+        "name": "Vawulence (Remix)",
+        "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Vawulence (Remix)",
+      "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
+    },
+    {
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-26",
+      "duration_ms": 208968,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh"
+    },
+    {
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/5REoa2uwPL4cw58uv686cR"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-21",
+      "duration_ms": 187061,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/4orL9o7BToP1jrzvwMO3gV"
+    },
+    {
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 231600,
+      "name": "Wanna Be Loved (feat. Efya)",
+      "url": "https://open.spotify.com/track/17xJw6IkWf38ci39gaIkyx"
+    },
+    {
+      "album": {
+        "name": "Wavy (feat. Sarkodie)",
+        "url": "https://open.spotify.com/album/2zeHV57xWREaaxS5S3hhoB"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 251820,
+      "name": "Wavy (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/7mD6V6JHA0daZKOvVrBKp7"
+    },
+    {
+      "album": {
+        "name": "Planning & Plotting",
+        "url": "https://open.spotify.com/album/5tzGN7v8ThskOevWZtZCUS"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/39XhbcJa05wPLIEHid0ETX"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Jayso",
+          "url": "https://open.spotify.com/artist/3dDhOZW93iVeE3DPS62FCI"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-23",
+      "duration_ms": 244500,
+      "name": "We No Dey Fear",
+      "url": "https://open.spotify.com/track/3mpmkm7rfYm4Objc3BKj5D"
+    },
+    {
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 268945,
+      "name": "Where Did I Go Wrong (feat. Efya)",
+      "url": "https://open.spotify.com/track/7odv9xmbrBNXzyavIHw5uV"
+    },
+    {
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 200973,
+      "name": "Which One (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6xv8qSkPrksoO40Jz4p45Z"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 206857,
+      "name": "Whipped (feat. DarkoVibes)",
+      "url": "https://open.spotify.com/track/7DgHNchZQxCFOM34f2UsiF"
+    },
+    {
+      "album": {
+        "name": "Who Da Man",
+        "url": "https://open.spotify.com/album/1ls27oDCfeUr4wIS4rupur"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Who Da Man",
+      "url": "https://open.spotify.com/track/397tmDWdvcdlAL1UaaJpi3"
+    },
+    {
+      "album": {
+        "name": "Yawa (feat. Sarkodie)",
+        "url": "https://open.spotify.com/album/2Vhd4O8Ed5IEdt0c655ATo"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182369,
+      "name": "Yawa (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/1i5ZMR0XrSmkUiBjbHyXGp"
+    },
+    {
+      "album": {
+        "name": "Year of Return",
+        "url": "https://open.spotify.com/album/4828QaSjhsNh3dtIt0leDt"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Coded",
+          "url": "https://open.spotify.com/artist/4oUIlyHTTqRSmtWZTQNZ4r"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 238000,
+      "name": "Year of Return",
+      "url": "https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed"
+    },
+    {
+      "album": {
+        "name": "Lighthouse EP",
+        "url": "https://open.spotify.com/album/3XiiHZ3R6DtKXTb8X1cHzF"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 219626,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/4WyeQ7S4ggK6OT0xfoFJK2"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 213333,
+      "name": "Your Waist",
+      "url": "https://open.spotify.com/track/3JrGJpTH22g43YrSWuW4df"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWvDTe"
 }

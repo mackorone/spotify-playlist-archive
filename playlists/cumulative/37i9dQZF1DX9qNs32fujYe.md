@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-779 songs - 2 day 9 hr 43 min
+781 songs - 2 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2023-10-27 |  |
 | [Dying Of The Light](https://open.spotify.com/track/3kBsOgVKo2Xy4HtgznGO0U) | [Frozen Land](https://open.spotify.com/artist/3D5YAQD9yRu8ohjM9SW948) | [Out Of The Dark](https://open.spotify.com/album/76bXuxiCtxCW0OIsGOtW2U) | 3:46 | 2023-10-06 | 2023-10-30 |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2022-07-13 | 2023-11-05 |
+| [Dying to Live](https://open.spotify.com/track/6IjwZM7myeMpb8CcZUGEv5) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/12PgC7GyO8zgKeFh5PqLbH) | 3:09 | 2023-12-06 |  |
 | [Eidolon](https://open.spotify.com/track/0bCVKJmPEOP28h41Qrp77w) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Scar Weaver](https://open.spotify.com/album/2drAFA1ZzlXkTZBg4llIb1) | 3:53 | 2022-02-11 | 2022-04-19 |
 | [Embers Fire](https://open.spotify.com/track/2FCPbojm4fFPWRZ9WWQ89x) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Embers Fire](https://open.spotify.com/album/6mOZFO7g6QBtBr5R8fzZZD) | 4:51 | 2023-12-06 | 2023-12-11 |
 | [Embrace The Night](https://open.spotify.com/track/4URwHwvDeDZobzIQvfV3Bb) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Winterbane \(Japan Edition\)](https://open.spotify.com/album/7959qrdIZlcH6ETwW0N5u3) | 5:04 | 2021-12-17 | 2022-07-15 |
@@ -302,7 +303,7 @@
 | [Holy Roller \(feat\. Ryo Kinoshita\)](https://open.spotify.com/track/6h4wWGxBP0NMPiyizGBGBM) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Holy Roller \(feat\. Ryo Kinoshita\)](https://open.spotify.com/album/6sBSZ1O4VeCQyjpcVlkRb0) | 2:53 | 2023-12-06 |  |
 | [Holy Wars...The Punishment Due \- Remastered](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2022-03-22 | 2022-06-09 |
 | [Hounds of Justice](https://open.spotify.com/track/63Y4ySlIgPwnva0Mg9EeLJ) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Hounds of Justice](https://open.spotify.com/album/4K3xhZe9oGPMyweUVgsvye) | 3:51 | 2022-03-22 | 2022-04-21 |
-| [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 | 2021-12-17 | 2023-12-19 |
+| [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 | 2021-12-17 | 2024-01-14 |
 | [Hungry and Angry](https://open.spotify.com/track/57PT761NIApIzfORTkmwWU) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Steelfactory](https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP) | 4:36 | 2021-12-17 | 2022-06-20 |
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-07-13 | 2023-12-07 |
 | [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 | 2022-03-22 | 2023-12-07 |
@@ -597,7 +598,7 @@
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-01-27 |  |
 | [Spirit of Daedalus](https://open.spotify.com/track/1vTplXWSRXH8MiyLim4KVd) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Spirit of Daedalus](https://open.spotify.com/album/0znEdeMc1Lg16T8ayMqb4d) | 3:49 | 2022-03-22 | 2022-05-01 |
 | [Spotlight](https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Spotlight](https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW) | 4:23 | 2023-10-27 |  |
-| [Stained in Red](https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Songs Of The Dusk \- EP](https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN) | 6:50 | 2023-12-06 |  |
+| [Stained in Red](https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Songs Of The Dusk \- EP](https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN) | 6:50 | 2023-12-06 | 2024-01-07 |
 | [Stand Up And Fight](https://open.spotify.com/track/2NupQZzmVNeDtI3aNTykH8) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Kill Or Get Killed](https://open.spotify.com/album/6pFMMYR5B72Jx3vy5qyLy1) | 4:23 | 2021-12-17 | 2022-07-17 |
 | [Stand Your Ground](https://open.spotify.com/track/1Skm0WEfM0BYgqNX75W0kA) | [Jaded Heart](https://open.spotify.com/artist/2T5aannIdmhbbNMF0Eap4u) | [Stand Your Ground](https://open.spotify.com/album/1GKUalSegMpVKpw6Ri49XU) | 4:38 | 2021-12-29 | 2022-04-14 |
 | [Starlight](https://open.spotify.com/track/63fBEvbvxbSwVOOPS9Ik4l) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ronnie Atkins](https://open.spotify.com/artist/6P9001LmAdPIqvcdDhYduM) | [Moonglow](https://open.spotify.com/album/5YjtryDPR0CWnBNRowJCiC) | 3:38 | 2022-03-22 | 2022-04-20 |
@@ -711,8 +712,9 @@
 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-08-26 |  |
 | [UNHALLØWED](https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNHALLØWED](https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e) | 6:29 | 2022-06-24 | 2022-08-27 |
 | [Unstoppable](https://open.spotify.com/track/3GEt0KLFFxhX3LvF7JJtAV) | [Disconnected](https://open.spotify.com/artist/2r5XoOgWhsoHsAysRIyqIb) | [Unstoppable](https://open.spotify.com/album/5ZUQz4uaNKpoC3JY33bVkQ) | 3:42 | 2022-03-22 | 2022-04-16 |
+| [Unstoppable](https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 3:58 | 2023-12-06 |  |
 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-23 | 2023-12-13 |
-| [Unstoppable](https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa) | 3:58 | 2023-12-06 |  |
+| [Unstoppable](https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa) | 3:58 | 2023-12-06 | 2024-01-12 |
 | [Until We Fall](https://open.spotify.com/track/3Afcf2YiMEpbCD85cAQ40k) | [Starkill](https://open.spotify.com/artist/7wBaXEIGEMxCJYguNjk5RW) | [Until We Fall](https://open.spotify.com/album/5EgokimLgkR4WX6vCDgnv6) | 3:31 | 2021-12-29 | 2022-07-22 |
 | [Uranus \(feat\. Michael Starr\)](https://open.spotify.com/track/6F5OGRRIQDc5hF60mcjSTx) | [NanowaR of Steel](https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5), [Michael Starr](https://open.spotify.com/artist/6tTXfeP8gXGYMxWOz1Epwe) | [Uranus \(feat\. Michael Starr\)](https://open.spotify.com/album/5KquqpCt18zTEVgakTfLYz) | 4:13 | 2021-12-17 | 2022-07-29 |
 | [Valley of Disease](https://open.spotify.com/track/6ikLavFLZeKyA31uxx3nHn) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Valley of Disease](https://open.spotify.com/album/24sVSx3ya9USRw9tsxau3o) | 4:08 | 2022-09-23 | 2023-02-11 |

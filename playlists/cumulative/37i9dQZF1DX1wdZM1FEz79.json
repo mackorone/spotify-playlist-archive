@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Choi Nakta(\ucd5c\ub099\ud0c0)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Kang Minjeong(\uac15\ubbfc\uc815)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 205639,
       "name": "A change of heart",
       "url": "https://open.spotify.com/track/4d5cA8jjecQNwWAO2oVtoU"
+    },
+    {
+      "album": {
+        "name": "White",
+        "url": "https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l"
+      },
+      "artists": [
+        {
+          "name": "wYte",
+          "url": "https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 191386,
+      "name": "A Child",
+      "url": "https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE"
     },
     {
       "album": {
@@ -960,7 +978,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 220675,
       "name": "Buried",
       "url": "https://open.spotify.com/track/45gshqSTbGrN8PGycTDTFR"
@@ -7380,7 +7398,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 191166,
       "name": "TOY (feat. siso)",
       "url": "https://open.spotify.com/track/6Bx7apRrdwLAKycZ7EOVi7"
@@ -8190,7 +8208,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 222826,
       "name": "Yesterday You Left Me",
       "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
@@ -8430,7 +8448,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 258961,
       "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"
@@ -8586,6 +8604,24 @@
       "duration_ms": 209012,
       "name": "\ub110 \uc704\ud55c \ucee4\ud53c",
       "url": "https://open.spotify.com/track/6vv5JfKdvr5BgTosnwHD0w"
+    },
+    {
+      "album": {
+        "name": "\ub194\ub458\ud14c\uc57c Put it down",
+        "url": "https://open.spotify.com/album/4o2kXDrwwDF05E5YyCYBgO"
+      },
+      "artists": [
+        {
+          "name": "\uac15\ubbfc\uc815",
+          "url": "https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208277,
+      "name": "\ub194\ub458\ud14c\uc57c Put it down",
+      "url": "https://open.spotify.com/track/1tO4gYH6YC6PxBp6U2TmDy"
     },
     {
       "album": {
@@ -8894,7 +8930,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 328250,
       "name": "\uc7a5\ub9c8 Rainy Season",
       "url": "https://open.spotify.com/track/2Vvl3BfXWpuuCVMkScEYpC"

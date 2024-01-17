@@ -1,727 +1,1441 @@
 {
-  "2022-01-02": 337292,
-  "2022-01-03": 337327,
-  "2022-01-04": 337389,
-  "2022-01-05": 337428,
-  "2022-01-06": 337463,
-  "2022-01-07": 337513,
-  "2022-01-08": 337612,
-  "2022-01-09": 337615,
-  "2022-01-10": 337675,
-  "2022-01-11": 337731,
-  "2022-01-12": 337778,
-  "2022-01-13": 337849,
-  "2022-01-14": 337894,
-  "2022-01-15": 338028,
-  "2022-01-16": 338035,
-  "2022-01-17": 338169,
-  "2022-01-18": 338173,
-  "2022-01-19": 338208,
-  "2022-01-20": 338245,
-  "2022-01-21": 338296,
-  "2022-01-22": 338366,
-  "2022-01-23": 338445,
-  "2022-01-24": 338490,
-  "2022-01-25": 338544,
-  "2022-01-26": 338592,
-  "2022-01-27": 338658,
-  "2022-01-28": 338711,
-  "2022-01-29": 338766,
-  "2022-01-30": 338829,
-  "2022-01-31": 338911,
-  "2022-02-01": 338961,
-  "2022-02-02": 339031,
-  "2022-02-03": 339088,
-  "2022-02-04": 339144,
-  "2022-02-05": 339198,
-  "2022-02-06": 339284,
-  "2022-02-07": 339348,
-  "2022-02-08": 339406,
-  "2022-02-09": 339452,
-  "2022-02-10": 339505,
-  "2022-02-11": 339559,
-  "2022-02-12": 339621,
-  "2022-02-13": 339657,
-  "2022-02-14": 339716,
-  "2022-02-15": 339749,
-  "2022-02-16": 339785,
-  "2022-02-17": 339824,
-  "2022-02-18": 339881,
-  "2022-02-19": 339937,
-  "2022-02-20": 340003,
-  "2022-02-21": 340069,
-  "2022-02-22": 340122,
-  "2022-02-23": 340163,
-  "2022-02-24": 340197,
-  "2022-02-25": 340245,
-  "2022-02-26": 340287,
-  "2022-02-27": 340396,
-  "2022-02-28": 340396,
-  "2022-03-01": 340433,
-  "2022-03-02": 340487,
-  "2022-03-03": 340545,
-  "2022-03-04": 340606,
-  "2022-03-05": 340650,
-  "2022-03-06": 340707,
-  "2022-03-07": 340767,
-  "2022-03-08": 340822,
-  "2022-03-09": 340891,
-  "2022-03-10": 340942,
-  "2022-03-11": 341002,
-  "2022-03-12": 341070,
-  "2022-03-13": 341136,
-  "2022-03-14": 341213,
-  "2022-03-15": 341263,
-  "2022-03-16": 341321,
-  "2022-03-17": 341373,
-  "2022-03-18": 341459,
-  "2022-03-19": 341508,
-  "2022-03-20": 341508,
-  "2022-03-21": 341622,
-  "2022-03-22": 341670,
-  "2022-03-23": 341742,
-  "2022-03-24": 341790,
-  "2022-03-25": 341841,
-  "2022-03-26": 341914,
-  "2022-03-27": 341977,
-  "2022-03-28": 342039,
-  "2022-03-30": 342191,
-  "2022-03-31": 342258,
-  "2022-04-01": 342304,
-  "2022-04-02": 342368,
-  "2022-04-03": 342433,
-  "2022-04-04": 342511,
-  "2022-04-05": 342593,
-  "2022-04-06": 342687,
-  "2022-04-07": 342762,
-  "2022-04-08": 342822,
-  "2022-04-09": 342892,
-  "2022-04-10": 343062,
-  "2022-04-11": 343141,
-  "2022-04-12": 343154,
-  "2022-04-13": 343248,
-  "2022-04-14": 68905,
-  "2022-04-15": 3143,
-  "2022-04-16": 3269,
-  "2022-04-17": 736,
-  "2022-04-18": 785,
-  "2022-04-19": 867,
-  "2022-04-20": 967,
-  "2022-04-21": 1054,
-  "2022-04-22": 1163,
-  "2022-04-23": 1281,
-  "2022-04-24": 1408,
-  "2022-04-25": 1520,
-  "2022-04-26": 1619,
-  "2022-04-27": 1751,
-  "2022-04-28": 1848,
-  "2022-04-29": 2003,
-  "2022-04-30": 2128,
-  "2022-05-01": 2266,
-  "2022-05-02": 2266,
-  "2022-05-03": 2373,
-  "2022-05-04": 2373,
-  "2022-05-05": 2373,
-  "2022-05-06": 2373,
-  "2022-05-07": 2373,
-  "2022-05-08": 2373,
-  "2022-05-09": 2373,
-  "2022-05-10": 2373,
-  "2022-05-11": 2373,
-  "2022-05-12": 2373,
-  "2022-05-13": 2373,
-  "2022-05-14": 2373,
-  "2022-05-15": 2373,
-  "2022-05-16": 2373,
-  "2022-05-17": 2373,
-  "2022-05-18": 2373,
-  "2022-05-19": 2373,
-  "2022-05-20": 2373,
-  "2022-05-21": 2373,
-  "2022-05-22": 2373,
-  "2022-05-23": 2373,
-  "2022-05-24": 2373,
-  "2022-05-25": 2373,
-  "2022-05-26": 2373,
-  "2022-05-27": 2373,
-  "2022-05-28": 2373,
-  "2022-05-29": 2373,
-  "2022-05-30": 2373,
-  "2022-05-31": 2373,
-  "2022-06-01": 2373,
-  "2022-06-02": 2373,
-  "2022-06-03": 2373,
-  "2022-06-04": 2373,
-  "2022-06-05": 2373,
-  "2022-06-06": 2373,
-  "2022-06-07": 2373,
-  "2022-06-08": 2373,
-  "2022-06-09": 2373,
-  "2022-06-10": 2373,
-  "2022-06-11": 2373,
-  "2022-06-12": 2373,
-  "2022-06-13": 2373,
-  "2022-06-14": 2373,
-  "2022-06-15": 2373,
-  "2022-06-16": 2373,
-  "2022-06-17": 2373,
-  "2022-06-18": 2373,
-  "2022-06-19": 2373,
-  "2022-06-20": 2373,
-  "2022-06-21": 2373,
-  "2022-06-22": 2373,
-  "2022-06-23": 2373,
-  "2022-06-24": 2373,
-  "2022-06-25": 2373,
-  "2022-06-26": 2373,
-  "2022-06-27": 2373,
-  "2022-06-28": 2373,
-  "2022-06-29": 2373,
-  "2022-06-30": 2373,
-  "2022-07-01": 2373,
-  "2022-07-02": 2373,
-  "2022-07-03": 2373,
-  "2022-07-04": 2373,
-  "2022-07-05": 2373,
-  "2022-07-06": 2373,
-  "2022-07-07": 2373,
-  "2022-07-08": 2373,
-  "2022-07-09": 2373,
-  "2022-07-10": 2373,
-  "2022-07-11": 2373,
-  "2022-07-12": 2373,
-  "2022-07-13": 2373,
-  "2022-07-14": 2373,
-  "2022-07-15": 2373,
-  "2022-07-16": 2373,
-  "2022-07-17": 2373,
-  "2022-07-18": 2373,
-  "2022-07-19": 2373,
-  "2022-07-20": 2373,
-  "2022-07-21": 2373,
-  "2022-07-22": 2373,
-  "2022-07-23": 2373,
-  "2022-07-24": 2373,
-  "2022-07-25": 2373,
-  "2022-07-26": 2373,
-  "2022-07-27": 2373,
-  "2022-07-28": 2373,
-  "2022-07-29": 2373,
-  "2022-07-30": 2373,
-  "2022-07-31": 2373,
-  "2022-08-01": 2373,
-  "2022-08-02": 2373,
-  "2022-08-03": 2373,
-  "2022-08-04": 2373,
-  "2022-08-05": 2373,
-  "2022-08-06": 2373,
-  "2022-08-07": 2373,
-  "2022-08-08": 2373,
-  "2022-08-09": 2373,
-  "2022-08-10": 2373,
-  "2022-08-11": 2373,
-  "2022-08-12": 2373,
-  "2022-08-13": 2373,
-  "2022-08-14": 2373,
-  "2022-08-15": 2373,
-  "2022-08-16": 2373,
-  "2022-08-17": 2373,
-  "2022-08-18": 2373,
-  "2022-08-19": 2373,
-  "2022-08-20": 2373,
-  "2022-08-21": 2373,
-  "2022-08-22": 2373,
-  "2022-08-23": 2373,
-  "2022-08-24": 2373,
-  "2022-08-25": 2373,
-  "2022-08-26": 2373,
-  "2022-08-27": 2373,
-  "2022-08-28": 2373,
-  "2022-08-29": 2373,
-  "2022-08-30": 2373,
-  "2022-08-31": 2373,
-  "2022-09-01": 2373,
-  "2022-09-02": 2373,
-  "2022-09-03": 2373,
-  "2022-09-04": 2373,
-  "2022-09-05": 2373,
-  "2022-09-06": 2373,
-  "2022-09-07": 2373,
-  "2022-09-09": 2373,
-  "2022-09-10": 2373,
-  "2022-09-11": 2373,
-  "2022-09-12": 2373,
-  "2022-09-13": 2373,
-  "2022-09-15": 2373,
-  "2022-09-16": 2373,
-  "2022-09-17": 2373,
-  "2022-09-18": 2373,
-  "2022-09-19": 2373,
-  "2022-09-20": 2373,
-  "2022-09-21": 2373,
-  "2022-09-22": 2373,
-  "2022-09-23": 2373,
-  "2022-09-24": 2373,
-  "2022-09-25": 2373,
-  "2022-09-26": 2373,
-  "2022-09-27": 2373,
-  "2022-09-28": 2373,
-  "2022-09-29": 2373,
-  "2022-09-30": 2373,
-  "2022-10-01": 2373,
-  "2022-10-02": 2373,
-  "2022-10-03": 2373,
-  "2022-10-04": 2373,
-  "2022-10-05": 2373,
-  "2022-10-06": 2373,
-  "2022-10-07": 2373,
-  "2022-10-08": 2373,
-  "2022-10-09": 2373,
-  "2022-10-10": 2373,
-  "2022-10-11": 2373,
-  "2022-10-12": 2373,
-  "2022-10-13": 2373,
-  "2022-10-14": 2373,
-  "2022-10-15": 2373,
-  "2022-10-16": 2373,
-  "2022-10-17": 2373,
-  "2022-10-18": 2373,
-  "2022-10-19": 2373,
-  "2022-10-20": 2373,
-  "2022-10-21": 2373,
-  "2022-10-22": 2373,
-  "2022-10-23": 2373,
-  "2022-10-24": 2373,
-  "2022-10-25": 2373,
-  "2022-10-26": 2373,
-  "2022-10-27": 2373,
-  "2022-10-28": 2373,
-  "2022-10-29": 2373,
-  "2022-10-30": 2373,
-  "2022-10-31": 2373,
-  "2022-11-01": 2373,
-  "2022-11-02": 2373,
-  "2022-11-03": 2373,
-  "2022-11-04": 2373,
-  "2022-11-05": 2373,
-  "2022-11-06": 2373,
-  "2022-11-07": 2373,
-  "2022-11-08": 2373,
-  "2022-11-09": 2373,
-  "2022-11-10": 2373,
-  "2022-11-11": 2373,
-  "2022-11-12": 2373,
-  "2022-11-13": 2373,
-  "2022-11-14": 2373,
-  "2022-11-15": 2373,
-  "2022-11-16": 2373,
-  "2022-11-17": 2373,
-  "2022-11-18": 2373,
-  "2022-11-19": 2373,
-  "2022-11-20": 2373,
-  "2022-11-21": 2373,
-  "2022-11-22": 2373,
-  "2022-11-23": 2373,
-  "2022-11-24": 2373,
-  "2022-11-25": 2373,
-  "2022-11-26": 2373,
-  "2022-11-27": 2373,
-  "2022-11-28": 2373,
-  "2022-11-29": 2373,
-  "2022-11-30": 2373,
-  "2022-12-01": 2373,
-  "2022-12-02": 2373,
-  "2022-12-03": 2373,
-  "2022-12-04": 2373,
-  "2022-12-05": 2373,
-  "2022-12-06": 2373,
-  "2022-12-07": 2373,
-  "2022-12-08": 2373,
-  "2022-12-09": 2373,
-  "2022-12-10": 2373,
-  "2022-12-11": 2373,
-  "2022-12-12": 2373,
-  "2022-12-13": 2373,
-  "2022-12-14": 2373,
-  "2022-12-15": 2373,
-  "2022-12-16": 2373,
-  "2022-12-17": 2373,
-  "2022-12-18": 2373,
-  "2022-12-19": 2373,
-  "2022-12-20": 2373,
-  "2022-12-21": 2373,
-  "2022-12-22": 2373,
-  "2022-12-24": 2373,
-  "2022-12-25": 2373,
-  "2022-12-26": 2373,
-  "2022-12-27": 2373,
-  "2022-12-28": 2373,
-  "2022-12-29": 2373,
-  "2022-12-30": 2373,
-  "2022-12-31": 2373,
-  "2023-01-01": 2373,
-  "2023-01-02": 2373,
-  "2023-01-03": 2373,
-  "2023-01-04": 2373,
-  "2023-01-05": 2373,
-  "2023-01-06": 2373,
-  "2023-01-07": 2373,
-  "2023-01-08": 2373,
-  "2023-01-09": 2373,
-  "2023-01-10": 2373,
-  "2023-01-11": 2373,
-  "2023-01-12": 2373,
-  "2023-01-13": 2373,
-  "2023-01-14": 2373,
-  "2023-01-15": 2373,
-  "2023-01-16": 2373,
-  "2023-01-17": 2373,
-  "2023-01-18": 2373,
-  "2023-01-19": 2373,
-  "2023-01-20": 2373,
-  "2023-01-21": 2373,
-  "2023-01-22": 2373,
-  "2023-01-23": 2373,
-  "2023-01-24": 2373,
-  "2023-01-25": 2373,
-  "2023-01-26": 2373,
-  "2023-01-27": 2373,
-  "2023-01-28": 2373,
-  "2023-01-29": 2373,
-  "2023-01-30": 2373,
-  "2023-01-31": 2373,
-  "2023-02-01": 2373,
-  "2023-02-02": 2373,
-  "2023-02-03": 2373,
-  "2023-02-04": 2373,
-  "2023-02-05": 2373,
-  "2023-02-06": 2373,
-  "2023-02-07": 2373,
-  "2023-02-08": 2373,
-  "2023-02-09": 2373,
-  "2023-02-10": 2373,
-  "2023-02-11": 2373,
-  "2023-02-12": 2373,
-  "2023-02-13": 2373,
-  "2023-02-14": 2373,
-  "2023-02-15": 2373,
-  "2023-02-16": 2373,
-  "2023-02-17": 2373,
-  "2023-02-18": 2373,
-  "2023-02-19": 2373,
-  "2023-02-20": 2373,
-  "2023-02-21": 2373,
-  "2023-02-22": 2373,
-  "2023-02-23": 2373,
-  "2023-02-24": 2373,
-  "2023-02-25": 2373,
-  "2023-02-26": 2373,
-  "2023-02-27": 2373,
-  "2023-02-28": 2373,
-  "2023-03-01": 2373,
-  "2023-03-02": 2373,
-  "2023-03-03": 2373,
-  "2023-03-04": 2373,
-  "2023-03-05": 2373,
-  "2023-03-06": 2373,
-  "2023-03-07": 2373,
-  "2023-03-08": 2373,
-  "2023-03-09": 2373,
-  "2023-03-10": 2373,
-  "2023-03-11": 2373,
-  "2023-03-12": 2373,
-  "2023-03-13": 2373,
-  "2023-03-14": 2373,
-  "2023-03-15": 2373,
-  "2023-03-16": 2373,
-  "2023-03-17": 2373,
-  "2023-03-18": 2373,
-  "2023-03-19": 2373,
-  "2023-03-20": 2373,
-  "2023-03-21": 2373,
-  "2023-03-22": 2373,
-  "2023-03-23": 2373,
-  "2023-03-24": 2373,
-  "2023-03-25": 2373,
-  "2023-03-26": 2373,
-  "2023-03-27": 2373,
-  "2023-03-28": 2373,
-  "2023-03-29": 2373,
-  "2023-03-30": 2373,
-  "2023-03-31": 2373,
-  "2023-04-01": 2373,
-  "2023-04-02": 2373,
-  "2023-04-03": 2373,
-  "2023-04-04": 2373,
-  "2023-04-05": 2373,
-  "2023-04-06": 2373,
-  "2023-04-07": 2373,
-  "2023-04-09": 2373,
-  "2023-04-10": 2373,
-  "2023-04-11": 2373,
-  "2023-04-12": 2373,
-  "2023-04-13": 2373,
-  "2023-04-14": 2373,
-  "2023-04-15": 2373,
-  "2023-04-16": 2373,
-  "2023-04-17": 2373,
-  "2023-04-18": 2373,
-  "2023-04-19": 2373,
-  "2023-04-20": 2373,
-  "2023-04-21": 2373,
-  "2023-04-22": 2373,
-  "2023-04-23": 2373,
-  "2023-04-24": 2373,
-  "2023-04-25": 2373,
-  "2023-04-26": 2373,
-  "2023-04-27": 2373,
-  "2023-04-28": 2373,
-  "2023-04-29": 2373,
-  "2023-04-30": 2373,
-  "2023-05-01": 2373,
-  "2023-05-02": 2373,
-  "2023-05-03": 2373,
-  "2023-05-04": 2373,
-  "2023-05-05": 2373,
-  "2023-05-06": 2373,
-  "2023-05-07": 2373,
-  "2023-05-08": 2373,
-  "2023-05-09": 2373,
-  "2023-05-10": 2373,
-  "2023-05-11": 2373,
-  "2023-05-12": 2373,
-  "2023-05-13": 2373,
-  "2023-05-14": 2373,
-  "2023-05-15": 2373,
-  "2023-05-16": 2373,
-  "2023-05-17": 2373,
-  "2023-05-18": 2373,
-  "2023-05-19": 2373,
-  "2023-05-20": 2373,
-  "2023-05-21": 2373,
-  "2023-05-22": 2373,
-  "2023-05-23": 2373,
-  "2023-05-24": 2373,
-  "2023-05-25": 2373,
-  "2023-05-26": 2373,
-  "2023-05-27": 2373,
-  "2023-05-28": 2373,
-  "2023-05-29": 2373,
-  "2023-05-30": 2373,
-  "2023-05-31": 2373,
-  "2023-06-01": 2373,
-  "2023-06-02": 2373,
-  "2023-06-03": 2373,
-  "2023-06-04": 2373,
-  "2023-06-05": 2373,
-  "2023-06-06": 2373,
-  "2023-06-07": 2373,
-  "2023-06-08": 2373,
-  "2023-06-09": 2373,
-  "2023-06-10": 2373,
-  "2023-06-11": 2373,
-  "2023-06-12": 2373,
-  "2023-06-13": 2373,
-  "2023-06-14": 2373,
-  "2023-06-15": 2373,
-  "2023-06-16": 2373,
-  "2023-06-17": 2373,
-  "2023-06-18": 2373,
-  "2023-06-19": 2373,
-  "2023-06-20": 2373,
-  "2023-06-21": 2373,
-  "2023-06-22": 2373,
-  "2023-06-23": 2373,
-  "2023-06-24": 2373,
-  "2023-06-25": 2373,
-  "2023-06-26": 2373,
-  "2023-06-27": 2373,
-  "2023-06-28": 2373,
-  "2023-06-29": 2373,
-  "2023-06-30": 2373,
-  "2023-07-01": 2373,
-  "2023-07-02": 2373,
-  "2023-07-03": 2373,
-  "2023-07-04": 2373,
-  "2023-07-05": 2373,
-  "2023-07-06": 2373,
-  "2023-07-07": 2373,
-  "2023-07-08": 2373,
-  "2023-07-09": 2373,
-  "2023-07-10": 2373,
-  "2023-07-11": 2373,
-  "2023-07-12": 2373,
-  "2023-07-13": 2373,
-  "2023-07-14": 2373,
-  "2023-07-15": 2373,
-  "2023-07-16": 2373,
-  "2023-07-17": 2373,
-  "2023-07-18": 2373,
-  "2023-07-19": 2373,
-  "2023-07-20": 2373,
-  "2023-07-21": 2373,
-  "2023-07-22": 2373,
-  "2023-07-23": 2373,
-  "2023-07-24": 2373,
-  "2023-07-25": 2373,
-  "2023-07-26": 2373,
-  "2023-07-27": 2373,
-  "2023-07-28": 2373,
-  "2023-07-29": 2373,
-  "2023-07-30": 2373,
-  "2023-07-31": 2373,
-  "2023-08-01": 2373,
-  "2023-08-02": 2373,
-  "2023-08-03": 2373,
-  "2023-08-04": 2373,
-  "2023-08-05": 2373,
-  "2023-08-06": 2373,
-  "2023-08-07": 2373,
-  "2023-08-08": 2373,
-  "2023-08-09": 2373,
-  "2023-08-10": 2373,
-  "2023-08-11": 2373,
-  "2023-08-12": 2373,
-  "2023-08-13": 2373,
-  "2023-08-14": 2373,
-  "2023-08-15": 2373,
-  "2023-08-16": 2373,
-  "2023-08-17": 2373,
-  "2023-08-18": 2373,
-  "2023-08-19": 2373,
-  "2023-08-20": 2373,
-  "2023-08-21": 2373,
-  "2023-08-22": 2373,
-  "2023-08-23": 2373,
-  "2023-08-24": 2373,
-  "2023-08-25": 2373,
-  "2023-08-26": 2373,
-  "2023-08-27": 2373,
-  "2023-08-28": 2373,
-  "2023-08-29": 2373,
-  "2023-08-30": 2373,
-  "2023-08-31": 2373,
-  "2023-09-01": 2373,
-  "2023-09-02": 2373,
-  "2023-09-03": 2373,
-  "2023-09-04": 2373,
-  "2023-09-05": 2373,
-  "2023-09-06": 2373,
-  "2023-09-07": 2373,
-  "2023-09-08": 2373,
-  "2023-09-09": 2373,
-  "2023-09-10": 2373,
-  "2023-09-11": 2373,
-  "2023-09-12": 2373,
-  "2023-09-13": 2373,
-  "2023-09-14": 2373,
-  "2023-09-15": 2373,
-  "2023-09-16": 2373,
-  "2023-09-17": 2373,
-  "2023-09-18": 2373,
-  "2023-09-19": 2373,
-  "2023-09-20": 2373,
-  "2023-09-21": 2373,
-  "2023-09-22": 2373,
-  "2023-09-23": 2373,
-  "2023-09-24": 2373,
-  "2023-09-25": 2373,
-  "2023-09-26": 2373,
-  "2023-09-27": 2373,
-  "2023-09-28": 2373,
-  "2023-09-29": 2373,
-  "2023-09-30": 2373,
-  "2023-10-01": 2373,
-  "2023-10-02": 2373,
-  "2023-10-03": 2373,
-  "2023-10-04": 2373,
-  "2023-10-05": 2373,
-  "2023-10-06": 2373,
-  "2023-10-07": 2373,
-  "2023-10-08": 2373,
-  "2023-10-09": 2373,
-  "2023-10-10": 2373,
-  "2023-10-11": 2373,
-  "2023-10-12": 2373,
-  "2023-10-13": 2373,
-  "2023-10-14": 2373,
-  "2023-10-15": 2373,
-  "2023-10-16": 2373,
-  "2023-10-17": 2373,
-  "2023-10-18": 2373,
-  "2023-10-19": 2373,
-  "2023-10-20": 2373,
-  "2023-10-21": 2373,
-  "2023-10-22": 2373,
-  "2023-10-23": 2373,
-  "2023-10-24": 2373,
-  "2023-10-25": 2373,
-  "2023-10-26": 2373,
-  "2023-10-27": 2373,
-  "2023-10-28": 2373,
-  "2023-10-29": 2373,
-  "2023-10-30": 2373,
-  "2023-10-31": 2373,
-  "2023-11-01": 2373,
-  "2023-11-02": 2373,
-  "2023-11-03": 2373,
-  "2023-11-04": 2373,
-  "2023-11-05": 2373,
-  "2023-11-06": 2373,
-  "2023-11-07": 2373,
-  "2023-11-08": 2373,
-  "2023-11-09": 2373,
-  "2023-11-10": 2373,
-  "2023-11-11": 2373,
-  "2023-11-12": 2373,
-  "2023-11-13": 2373,
-  "2023-11-14": 2373,
-  "2023-11-15": 2373,
-  "2023-11-16": 2373,
-  "2023-11-17": 2373,
-  "2023-11-18": 2373,
-  "2023-11-19": 2373,
-  "2023-11-20": 2373,
-  "2023-11-21": 2373,
-  "2023-11-22": 2373,
-  "2023-11-23": 2373,
-  "2023-11-24": 2373,
-  "2023-11-25": 2373,
-  "2023-11-26": 2373,
-  "2023-11-27": 2373,
-  "2023-11-28": 2373,
-  "2023-11-29": 2373,
-  "2023-11-30": 2373,
-  "2023-12-01": 2373,
-  "2023-12-02": 2373,
-  "2023-12-03": 2373,
-  "2023-12-04": 2373,
-  "2023-12-05": 2373,
-  "2023-12-06": 2373,
-  "2023-12-07": 2373,
-  "2023-12-08": 2373,
-  "2023-12-09": 2373,
-  "2023-12-10": 2373,
-  "2023-12-11": 2373,
-  "2023-12-12": 2373,
-  "2023-12-13": 2373,
-  "2023-12-14": 2373,
-  "2023-12-15": 2373,
-  "2023-12-16": 2373,
-  "2023-12-17": 2373,
-  "2023-12-18": 2373,
-  "2023-12-19": 2373,
-  "2023-12-20": 2373,
-  "2023-12-21": 2373,
-  "2023-12-22": 2373,
-  "2023-12-23": 2373,
-  "2023-12-24": 2373,
-  "2023-12-25": 2373,
-  "2023-12-26": 2373,
-  "2023-12-27": 2373,
-  "2023-12-30": 2373,
-  "2023-12-31": 2373,
-  "2024-01-01": 2373,
-  "2024-01-02": 2373,
-  "2024-01-03": 2373
+  "2024-01-17": 2373,
+  "date_first_scraped": "2022-01-02",
+  "description": "Country Music Association award-winning and nominated music from artists then, now, and forever.",
+  "name": "Forever Country",
+  "tracks": [
+    {
+      "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214386,
+      "name": "21 Summer",
+      "url": "https://open.spotify.com/track/483beWfErq5MZAvC0fJ7cr"
+    },
+    {
+      "album": {
+        "name": "HERO",
+        "url": "https://open.spotify.com/album/3E10GQY1o8ZkHrhlQymzaO"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211767,
+      "name": "80s Mercedes",
+      "url": "https://open.spotify.com/track/4sDSkmacergclAYN5zCnMj"
+    },
+    {
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247826,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
+    },
+    {
+      "album": {
+        "name": "747",
+        "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Bartender",
+      "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
+    },
+    {
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/2lFtnEmkIPm2ClN55e2chV"
+    },
+    {
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
+    },
+    {
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208360,
+      "name": "Break On Me",
+      "url": "https://open.spotify.com/track/2wu2C3Tij2Prb7LIbutDqB"
+    },
+    {
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "Break Up with Him",
+      "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
+    },
+    {
+      "album": {
+        "name": "Untamed",
+        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
+    },
+    {
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/4JmphteFDt5gNZbgraR9Dc"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220413,
+      "name": "Came Here to Forget",
+      "url": "https://open.spotify.com/track/1N7qGCKRRnvjoy8MGyHgpS"
+    },
+    {
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Church Bells",
+      "url": "https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8"
+    },
+    {
+      "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234760,
+      "name": "Crash My Party",
+      "url": "https://open.spotify.com/track/6GBUsjHfZuweYf5lQEz6mP"
+    },
+    {
+      "album": {
+        "name": "Die A Happy Man",
+        "url": "https://open.spotify.com/album/0j9nwvSuGsOv2p7pxYGuS8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/1Qkb3uskfqEDkZPgyEVPYd"
+    },
+    {
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Different For Girls",
+      "url": "https://open.spotify.com/track/5HJId22hZ2IvFnvNSy6ZbE"
+    },
+    {
+      "album": {
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "Drunk On A Plane",
+      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+    },
+    {
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173960,
+      "name": "Drunk on Your Love",
+      "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244333,
+      "name": "Fire Away",
+      "url": "https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT"
+    },
+    {
+      "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "album": {
+        "name": "Fool's Love Affair",
+        "url": "https://open.spotify.com/album/5MmQgpa01TpjYe25zrJZbu"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Fool's Love Affair",
+      "url": "https://open.spotify.com/track/6dko4bgiL9XsKjUiqYN5V4"
+    },
+    {
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Forever After All",
+      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
+    },
+    {
+      "album": {
+        "name": "Top 10",
+        "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212586,
+      "name": "Forever and Ever, Amen",
+      "url": "https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY"
+    },
+    {
+      "album": {
+        "name": "Forever Country",
+        "url": "https://open.spotify.com/album/6RPWwFQWwVE9qnj01Qy3fk"
+      },
+      "artists": [
+        {
+          "name": "Artists Of Then, Now & Forever",
+          "url": "https://open.spotify.com/artist/0KlSW3j5fUEfej47FOrBMr"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242480,
+      "name": "Forever Country",
+      "url": "https://open.spotify.com/track/3WWVDPjihd1VITBLF10nha"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253933,
+      "name": "From the Ground Up",
+      "url": "https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g"
+    },
+    {
+      "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Give Me Back My Hometown",
+      "url": "https://open.spotify.com/track/3MykNWa65IP2VN1Qa6B9yK"
+    },
+    {
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/4JmphteFDt5gNZbgraR9Dc"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263800,
+      "name": "Go Ahead and Break My Heart (feat. Gwen Stefani)",
+      "url": "https://open.spotify.com/track/6eJBihAzTWRxvvjJWuRQXM"
+    },
+    {
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209920,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o"
+    },
+    {
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+    },
+    {
+      "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "How I'll Always Be",
+      "url": "https://open.spotify.com/track/2ZekuYUoEIBrUwHOY0gcgB"
+    },
+    {
+      "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+    },
+    {
+      "album": {
+        "name": "Kill The Lights (Deluxe)",
+        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278613,
+      "name": "Huntin', Fishin' And Lovin' Every Day",
+      "url": "https://open.spotify.com/track/0dbzWSYpMcRtwjI1S7Pkql"
+    },
+    {
+      "album": {
+        "name": "HERO",
+        "url": "https://open.spotify.com/album/3E10GQY1o8ZkHrhlQymzaO"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196421,
+      "name": "I Could Use a Love Song",
+      "url": "https://open.spotify.com/track/5OwOWdY2hsSAtSERkxUwoc"
+    },
+    {
+      "album": {
+        "name": "I Don't Dance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221173,
+      "name": "I Don't Dance",
+      "url": "https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S"
+    },
+    {
+      "album": {
+        "name": "I Hold On",
+        "url": "https://open.spotify.com/album/4zm72O3wICqmuSyySWqYOm"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279293,
+      "name": "I Hold On",
+      "url": "https://open.spotify.com/track/5MmyCzy1Lc6ywv77f3BZpV"
+    },
+    {
+      "album": {
+        "name": "I Hope You Dance",
+        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294533,
+      "name": "I Hope You Dance",
+      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "I Like The Sound Of That",
+      "url": "https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK"
+    },
+    {
+      "album": {
+        "name": "Lady Antebellum",
+        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256013,
+      "name": "I Run To You",
+      "url": "https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8"
+    },
+    {
+      "album": {
+        "name": "The Band Perry",
+        "url": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222773,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
+    },
+    {
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "John Cougar, John Deere, John 3:16",
+      "url": "https://open.spotify.com/track/72f7jNxopSGvbx3M35i3Zl"
+    },
+    {
+      "album": {
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "Kill A Word",
+      "url": "https://open.spotify.com/track/0ipcmHor30Y8p6hCd8QUVq"
+    },
+    {
+      "album": {
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "Late To The Party",
+      "url": "https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Love Me Like You Mean It",
+      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
+    },
+    {
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "Make You Miss Me",
+      "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
+    },
+    {
+      "album": {
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226306,
+      "name": "Middle of a Memory",
+      "url": "https://open.spotify.com/track/38gZVjeaeR3gcnCzziAxBm"
+    },
+    {
+      "album": {
+        "name": "Reloaded: 20 #1 Hits",
+        "url": "https://open.spotify.com/album/0ujKXmDetsmfjNvmwW546y"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239506,
+      "name": "Mine Would Be You",
+      "url": "https://open.spotify.com/track/2Z368ZCgUfv7tZYAGWGXLM"
+    },
+    {
+      "album": {
+        "name": "Kill The Lights (Deluxe)",
+        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6qoH2pKeEibNUG1pnJIjmZ"
+    },
+    {
+      "album": {
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319240,
+      "name": "Mr. Misunderstood",
+      "url": "https://open.spotify.com/track/79dlQxvdsCDApoM8XChkpy"
+    },
+    {
+      "album": {
+        "name": "HERO",
+        "url": "https://open.spotify.com/album/3E10GQY1o8ZkHrhlQymzaO"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197930,
+      "name": "My Church",
+      "url": "https://open.spotify.com/track/2Wud6xFXTtFrTtAaViGL0C"
+    },
+    {
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244146,
+      "name": "Nobody To Blame",
+      "url": "https://open.spotify.com/track/4WRRCuJYRq7gUKiupxVH9W"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+    },
+    {
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213386,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/4QJ58lQahpEtD7622moUxS"
+    },
+    {
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "Pontoon",
+      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
+    },
+    {
+      "album": {
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+    },
+    {
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219346,
+      "name": "Renegade Runaway",
+      "url": "https://open.spotify.com/track/0Lf5evFei2z92kAxQzapy7"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/61cFj4mnyTHCJLdDlYSRSZ"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206266,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3gz4UBairZaiIRTti4AqSm"
+    },
+    {
+      "album": {
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Riser",
+      "url": "https://open.spotify.com/track/0HccAcPMNevr8ERJCWlFk3"
+    },
+    {
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330693,
+      "name": "Smokin' and Drinkin' (feat. Little Big Town)",
+      "url": "https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X"
+    },
+    {
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Snapback",
+      "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits: Decade #1",
+        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF"
+    },
+    {
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "Somewhere On A Beach",
+      "url": "https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa"
+    },
+    {
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "Song for Another Time",
+      "url": "https://open.spotify.com/track/7px4t7HGiuMUvFkEOpZEwp"
+    },
+    {
+      "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/35Xy4nfPeJxythKy00E0Vq"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335266,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/6rqxivjFHp8K0yMiefG56g"
+    },
+    {
+      "album": {
+        "name": "Kill The Lights (Deluxe)",
+        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241613,
+      "name": "Strip It Down",
+      "url": "https://open.spotify.com/track/5XFu5S1vBY7sNHlheCapOz"
+    },
+    {
+      "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227693,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/1zWZvrk13cL8Sl3VLeG57F"
+    },
+    {
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy"
+    },
+    {
+      "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+    },
+    {
+      "album": {
+        "name": "I'm Comin' Over",
+        "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218946,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V"
+    },
+    {
+      "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233973,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/4pdoeoOQSu6DNznlfNc5FP"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222413,
+      "name": "Traveller",
+      "url": "https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW"
+    },
+    {
+      "album": {
+        "name": "Vice",
+        "url": "https://open.spotify.com/album/05SWmzwgUEUayiPJx1GvSk"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239704,
+      "name": "Vice",
+      "url": "https://open.spotify.com/track/63lHuquEopEUiwPy6VLxlb"
+    },
+    {
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236226,
+      "name": "Wanna Be That Song",
+      "url": "https://open.spotify.com/track/1XazlqB4YAtvouCmJPWXlM"
+    },
+    {
+      "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/1gVXrk9A0SRfJY4eQ2ANYu"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233813,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5BIwPoVMFnFIr8RzJunRvf"
+    },
+    {
+      "album": {
+        "name": "Fuse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "We Were Us",
+      "url": "https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye"
+    },
+    {
+      "album": {
+        "name": "A Tribute Album",
+        "url": "https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Very Best of The Chicks",
+        "url": "https://open.spotify.com/album/1Nyy5DoE52p0bwrYJvP498"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223706,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/0iEKsU36M5OYW0D1YCO1RO"
+    },
+    {
+      "album": {
+        "name": "You Are My Sunshine (with Chris Stapleton)",
+        "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
+      },
+      "artists": [
+        {
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Southern Family",
+          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373266,
+      "name": "You Are My Sunshine (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9hWdQ46pHPo"
 }

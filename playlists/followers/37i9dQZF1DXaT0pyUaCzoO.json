@@ -1,621 +1,1641 @@
 {
-  "2022-04-19": 2952,
-  "2022-04-20": 2951,
-  "2022-04-21": 2952,
-  "2022-04-22": 2951,
-  "2022-04-23": 2951,
-  "2022-04-24": 2951,
-  "2022-04-25": 2951,
-  "2022-04-26": 2950,
-  "2022-04-27": 2949,
-  "2022-04-28": 2949,
-  "2022-04-29": 2949,
-  "2022-04-30": 2949,
-  "2022-05-01": 2949,
-  "2022-05-02": 2949,
-  "2022-05-03": 2949,
-  "2022-05-04": 2949,
-  "2022-05-05": 2949,
-  "2022-05-06": 2950,
-  "2022-05-07": 2949,
-  "2022-05-08": 2948,
-  "2022-05-09": 2948,
-  "2022-05-10": 2948,
-  "2022-05-11": 2948,
-  "2022-05-12": 2948,
-  "2022-05-13": 2947,
-  "2022-05-14": 2947,
-  "2022-05-15": 2946,
-  "2022-05-16": 2946,
-  "2022-05-17": 2947,
-  "2022-05-18": 2948,
-  "2022-05-19": 2947,
-  "2022-05-20": 2947,
-  "2022-05-21": 2947,
-  "2022-05-22": 2947,
-  "2022-05-23": 2944,
-  "2022-05-24": 2944,
-  "2022-05-25": 2944,
-  "2022-05-26": 2944,
-  "2022-05-27": 2944,
-  "2022-05-28": 2945,
-  "2022-05-29": 2944,
-  "2022-05-30": 2944,
-  "2022-05-31": 2944,
-  "2022-06-01": 2944,
-  "2022-06-02": 2944,
-  "2022-06-03": 2943,
-  "2022-06-04": 2943,
-  "2022-06-05": 2943,
-  "2022-06-06": 2943,
-  "2022-06-07": 2943,
-  "2022-06-08": 2943,
-  "2022-06-09": 2943,
-  "2022-06-10": 2943,
-  "2022-06-11": 2943,
-  "2022-06-12": 2943,
-  "2022-06-13": 2943,
-  "2022-06-14": 2943,
-  "2022-06-15": 2943,
-  "2022-06-16": 2943,
-  "2022-06-17": 2942,
-  "2022-06-18": 2941,
-  "2022-06-19": 2941,
-  "2022-06-20": 2941,
-  "2022-06-21": 2939,
-  "2022-06-22": 2937,
-  "2022-06-23": 2937,
-  "2022-06-24": 2936,
-  "2022-06-25": 2937,
-  "2022-06-26": 2937,
-  "2022-06-27": 2937,
-  "2022-06-28": 2937,
-  "2022-06-29": 2936,
-  "2022-06-30": 2936,
-  "2022-07-01": 2936,
-  "2022-07-02": 2936,
-  "2022-07-03": 2936,
-  "2022-07-04": 2936,
-  "2022-07-05": 2935,
-  "2022-07-06": 2935,
-  "2022-07-07": 2935,
-  "2022-07-08": 2935,
-  "2022-07-09": 2934,
-  "2022-07-10": 2934,
-  "2022-07-11": 2934,
-  "2022-07-12": 2934,
-  "2022-07-13": 2932,
-  "2022-07-14": 2931,
-  "2022-07-15": 2931,
-  "2022-07-16": 2931,
-  "2022-07-17": 2931,
-  "2022-07-18": 2931,
-  "2022-07-19": 2930,
-  "2022-07-20": 2929,
-  "2022-07-21": 2928,
-  "2022-07-22": 2928,
-  "2022-07-23": 2928,
-  "2022-07-24": 2928,
-  "2022-07-25": 2928,
-  "2022-07-26": 2928,
-  "2022-07-27": 2928,
-  "2022-07-28": 2929,
-  "2022-07-29": 2929,
-  "2022-07-30": 2929,
-  "2022-07-31": 2929,
-  "2022-08-01": 2928,
-  "2022-08-02": 2927,
-  "2022-08-03": 2927,
-  "2022-08-04": 2927,
-  "2022-08-05": 2926,
-  "2022-08-06": 2925,
-  "2022-08-07": 2925,
-  "2022-08-08": 2925,
-  "2022-08-09": 2925,
-  "2022-08-10": 2923,
-  "2022-08-11": 2922,
-  "2022-08-12": 2922,
-  "2022-08-13": 2922,
-  "2022-08-14": 2922,
-  "2022-08-15": 2921,
-  "2022-08-16": 2921,
-  "2022-08-17": 2921,
-  "2022-08-18": 2920,
-  "2022-08-19": 2920,
-  "2022-08-20": 2920,
-  "2022-08-21": 2920,
-  "2022-08-22": 2920,
-  "2022-08-23": 2920,
-  "2022-08-24": 2920,
-  "2022-08-25": 2920,
-  "2022-08-26": 2920,
-  "2022-08-27": 2920,
-  "2022-08-28": 2919,
-  "2022-08-29": 2918,
-  "2022-08-30": 2916,
-  "2022-08-31": 2915,
-  "2022-09-01": 2915,
-  "2022-09-02": 2915,
-  "2022-09-03": 2914,
-  "2022-09-04": 2914,
-  "2022-09-05": 2913,
-  "2022-09-06": 2912,
-  "2022-09-07": 2912,
-  "2022-09-09": 2912,
-  "2022-09-10": 2912,
-  "2022-09-11": 2912,
-  "2022-09-12": 2912,
-  "2022-09-13": 2912,
-  "2022-09-15": 2912,
-  "2022-09-16": 2912,
-  "2022-09-17": 2912,
-  "2022-09-18": 2912,
-  "2022-09-19": 2912,
-  "2022-09-20": 2912,
-  "2022-09-21": 2912,
-  "2022-09-22": 2912,
-  "2022-09-23": 2912,
-  "2022-09-24": 2912,
-  "2022-09-25": 2912,
-  "2022-09-26": 2911,
-  "2022-09-27": 2911,
-  "2022-09-28": 2911,
-  "2022-09-29": 2911,
-  "2022-09-30": 2911,
-  "2022-10-01": 2911,
-  "2022-10-02": 2911,
-  "2022-10-03": 2911,
-  "2022-10-04": 2911,
-  "2022-10-05": 2908,
-  "2022-10-06": 2908,
-  "2022-10-07": 2908,
-  "2022-10-08": 2908,
-  "2022-10-09": 2908,
-  "2022-10-10": 2908,
-  "2022-10-11": 2907,
-  "2022-10-12": 2906,
-  "2022-10-13": 2906,
-  "2022-10-14": 2906,
-  "2022-10-15": 2905,
-  "2022-10-16": 2905,
-  "2022-10-17": 2905,
-  "2022-10-18": 2905,
-  "2022-10-19": 2905,
-  "2022-10-20": 2905,
-  "2022-10-21": 2905,
-  "2022-10-22": 2905,
-  "2022-10-23": 2905,
-  "2022-10-24": 2905,
-  "2022-10-25": 2906,
-  "2022-10-26": 2905,
-  "2022-10-27": 2905,
-  "2022-10-28": 2904,
-  "2022-10-29": 2904,
-  "2022-10-30": 2903,
-  "2022-10-31": 2903,
-  "2022-11-01": 2903,
-  "2022-11-02": 2903,
-  "2022-11-03": 2903,
-  "2022-11-04": 2903,
-  "2022-11-05": 2902,
-  "2022-11-06": 2901,
-  "2022-11-07": 2901,
-  "2022-11-08": 2899,
-  "2022-11-09": 2899,
-  "2022-11-10": 2899,
-  "2022-11-11": 2899,
-  "2022-11-12": 2899,
-  "2022-11-13": 2899,
-  "2022-11-14": 2899,
-  "2022-11-15": 2898,
-  "2022-11-16": 2897,
-  "2022-11-17": 2897,
-  "2022-11-18": 2897,
-  "2022-11-19": 2898,
-  "2022-11-20": 2898,
-  "2022-11-21": 2898,
-  "2022-11-22": 2898,
-  "2022-11-23": 2898,
-  "2022-11-24": 2898,
-  "2022-11-25": 2898,
-  "2022-11-26": 2898,
-  "2022-11-27": 2898,
-  "2022-11-28": 2899,
-  "2022-11-29": 2897,
-  "2022-11-30": 2898,
-  "2022-12-01": 2898,
-  "2022-12-02": 2898,
-  "2022-12-03": 2897,
-  "2022-12-04": 2897,
-  "2022-12-05": 2896,
-  "2022-12-06": 2896,
-  "2022-12-07": 2897,
-  "2022-12-08": 2897,
-  "2022-12-09": 2897,
-  "2022-12-10": 2897,
-  "2022-12-11": 2897,
-  "2022-12-12": 2896,
-  "2022-12-13": 2897,
-  "2022-12-14": 2897,
-  "2022-12-15": 2897,
-  "2022-12-16": 2897,
-  "2022-12-17": 2897,
-  "2022-12-18": 2897,
-  "2022-12-19": 2896,
-  "2022-12-20": 2897,
-  "2022-12-21": 2897,
-  "2022-12-22": 2897,
-  "2022-12-24": 2895,
-  "2022-12-25": 2895,
-  "2022-12-26": 2895,
-  "2022-12-27": 2895,
-  "2022-12-28": 2895,
-  "2022-12-29": 2893,
-  "2022-12-30": 2893,
-  "2022-12-31": 2894,
-  "2023-01-01": 2894,
-  "2023-01-02": 2894,
-  "2023-01-03": 2894,
-  "2023-01-04": 2893,
-  "2023-01-05": 2893,
-  "2023-01-06": 2893,
-  "2023-01-07": 2893,
-  "2023-01-08": 2893,
-  "2023-01-09": 2893,
-  "2023-01-10": 2893,
-  "2023-01-11": 2893,
-  "2023-01-12": 2895,
-  "2023-01-13": 2895,
-  "2023-01-14": 2895,
-  "2023-01-15": 2895,
-  "2023-01-16": 2894,
-  "2023-01-17": 2894,
-  "2023-01-18": 2894,
-  "2023-01-19": 2894,
-  "2023-01-20": 2894,
-  "2023-01-21": 2894,
-  "2023-01-22": 2893,
-  "2023-01-23": 2893,
-  "2023-01-24": 2893,
-  "2023-01-25": 2893,
-  "2023-01-26": 2893,
-  "2023-01-27": 2893,
-  "2023-01-28": 2892,
-  "2023-01-29": 2892,
-  "2023-01-30": 2892,
-  "2023-01-31": 2892,
-  "2023-02-01": 2892,
-  "2023-02-02": 2892,
-  "2023-02-03": 2893,
-  "2023-02-04": 2893,
-  "2023-02-05": 2893,
-  "2023-02-06": 2893,
-  "2023-02-07": 2893,
-  "2023-02-08": 2893,
-  "2023-02-09": 2893,
-  "2023-02-10": 2892,
-  "2023-02-11": 2892,
-  "2023-02-12": 2892,
-  "2023-02-13": 2892,
-  "2023-02-14": 2892,
-  "2023-02-15": 2892,
-  "2023-02-16": 2892,
-  "2023-02-17": 2894,
-  "2023-02-18": 2914,
-  "2023-02-19": 2917,
-  "2023-02-20": 2926,
-  "2023-02-21": 2933,
-  "2023-02-22": 2939,
-  "2023-02-23": 2954,
-  "2023-02-24": 2967,
-  "2023-02-25": 2989,
-  "2023-02-26": 2997,
-  "2023-02-27": 3026,
-  "2023-02-28": 3026,
-  "2023-03-01": 3044,
-  "2023-03-02": 3052,
-  "2023-03-03": 3070,
-  "2023-03-04": 3076,
-  "2023-03-05": 3105,
-  "2023-03-06": 3105,
-  "2023-03-07": 3116,
-  "2023-03-08": 3127,
-  "2023-03-09": 3140,
-  "2023-03-10": 3151,
-  "2023-03-11": 3164,
-  "2023-03-12": 3174,
-  "2023-03-13": 3185,
-  "2023-03-14": 3195,
-  "2023-03-15": 3200,
-  "2023-03-16": 3207,
-  "2023-03-17": 3207,
-  "2023-03-18": 3215,
-  "2023-03-19": 3222,
-  "2023-03-20": 3237,
-  "2023-03-21": 3240,
-  "2023-03-22": 3251,
-  "2023-03-23": 3261,
-  "2023-03-24": 3261,
-  "2023-03-25": 3288,
-  "2023-03-26": 3293,
-  "2023-03-27": 3303,
-  "2023-03-28": 3310,
-  "2023-03-29": 3323,
-  "2023-03-30": 3347,
-  "2023-03-31": 3347,
-  "2023-04-01": 3361,
-  "2023-04-02": 3367,
-  "2023-04-03": 3376,
-  "2023-04-04": 3388,
-  "2023-04-05": 3398,
-  "2023-04-06": 3415,
-  "2023-04-07": 3424,
-  "2023-04-09": 3443,
-  "2023-04-10": 3456,
-  "2023-04-11": 3478,
-  "2023-04-12": 3478,
-  "2023-04-13": 3487,
-  "2023-04-14": 3496,
-  "2023-04-15": 3504,
-  "2023-04-16": 3511,
-  "2023-04-17": 3522,
-  "2023-04-18": 3526,
-  "2023-04-19": 3533,
-  "2023-04-20": 3548,
-  "2023-04-21": 3559,
-  "2023-04-22": 3574,
-  "2023-04-23": 3585,
-  "2023-04-24": 3593,
-  "2023-04-25": 3601,
-  "2023-04-26": 3608,
-  "2023-04-27": 3614,
-  "2023-04-28": 3627,
-  "2023-04-29": 3637,
-  "2023-04-30": 3648,
-  "2023-05-01": 3662,
-  "2023-05-02": 3669,
-  "2023-05-03": 3679,
-  "2023-05-04": 3687,
-  "2023-05-05": 3696,
-  "2023-05-06": 3701,
-  "2023-05-07": 3713,
-  "2023-05-08": 3718,
-  "2023-05-09": 3729,
-  "2023-05-10": 3736,
-  "2023-05-11": 3746,
-  "2023-05-12": 3753,
-  "2023-05-13": 3755,
-  "2023-05-14": 3767,
-  "2023-05-15": 3773,
-  "2023-05-16": 3781,
-  "2023-05-17": 3790,
-  "2023-05-18": 3805,
-  "2023-05-19": 3814,
-  "2023-05-20": 3837,
-  "2023-05-21": 3837,
-  "2023-05-22": 3837,
-  "2023-05-23": 3853,
-  "2023-05-24": 3861,
-  "2023-05-25": 3862,
-  "2023-05-26": 3871,
-  "2023-05-27": 3875,
-  "2023-05-28": 3880,
-  "2023-05-29": 3880,
-  "2023-05-30": 3889,
-  "2023-05-31": 3891,
-  "2023-06-01": 3897,
-  "2023-06-02": 3903,
-  "2023-06-03": 3910,
-  "2023-06-04": 3918,
-  "2023-06-05": 3925,
-  "2023-06-06": 3931,
-  "2023-06-07": 3941,
-  "2023-06-08": 3951,
-  "2023-06-09": 3955,
-  "2023-06-10": 3964,
-  "2023-06-11": 3974,
-  "2023-06-12": 3980,
-  "2023-06-13": 3989,
-  "2023-06-14": 4001,
-  "2023-06-15": 4012,
-  "2023-06-16": 4020,
-  "2023-06-17": 4030,
-  "2023-06-18": 4045,
-  "2023-06-19": 4057,
-  "2023-06-20": 4070,
-  "2023-06-21": 4083,
-  "2023-06-22": 4088,
-  "2023-06-23": 4096,
-  "2023-06-24": 4101,
-  "2023-06-25": 4116,
-  "2023-06-26": 4121,
-  "2023-06-27": 4131,
-  "2023-06-28": 4138,
-  "2023-06-29": 4142,
-  "2023-06-30": 4147,
-  "2023-07-01": 4157,
-  "2023-07-02": 4157,
-  "2023-07-03": 4166,
-  "2023-07-04": 4172,
-  "2023-07-05": 4177,
-  "2023-07-06": 4188,
-  "2023-07-07": 4188,
-  "2023-07-08": 4198,
-  "2023-07-09": 4201,
-  "2023-07-10": 4209,
-  "2023-07-11": 4218,
-  "2023-07-12": 4220,
-  "2023-07-13": 4231,
-  "2023-07-14": 4235,
-  "2023-07-15": 4235,
-  "2023-07-16": 4243,
-  "2023-07-17": 4244,
-  "2023-07-18": 4256,
-  "2023-07-19": 4270,
-  "2023-07-20": 4275,
-  "2023-07-21": 4287,
-  "2023-07-22": 4292,
-  "2023-07-23": 4302,
-  "2023-07-24": 4314,
-  "2023-07-25": 4329,
-  "2023-07-26": 4332,
-  "2023-07-27": 4339,
-  "2023-07-28": 4349,
-  "2023-07-29": 4358,
-  "2023-07-30": 4361,
-  "2023-07-31": 4371,
-  "2023-08-01": 4380,
-  "2023-08-02": 4392,
-  "2023-08-03": 4398,
-  "2023-08-04": 4407,
-  "2023-08-05": 4413,
-  "2023-08-06": 4445,
-  "2023-08-07": 4445,
-  "2023-08-08": 4452,
-  "2023-08-09": 4459,
-  "2023-08-10": 4467,
-  "2023-08-11": 4471,
-  "2023-08-12": 4477,
-  "2023-08-13": 4485,
-  "2023-08-14": 4495,
-  "2023-08-15": 4509,
-  "2023-08-16": 4509,
-  "2023-08-17": 4513,
-  "2023-08-18": 4522,
-  "2023-08-19": 4528,
-  "2023-08-20": 4541,
-  "2023-08-21": 4550,
-  "2023-08-22": 4551,
-  "2023-08-23": 4557,
-  "2023-08-24": 4562,
-  "2023-08-25": 4576,
-  "2023-08-26": 4586,
-  "2023-08-27": 4591,
-  "2023-08-28": 4597,
-  "2023-08-29": 4604,
-  "2023-08-30": 4613,
-  "2023-08-31": 4623,
-  "2023-09-01": 4630,
-  "2023-09-02": 4630,
-  "2023-09-03": 4634,
-  "2023-09-04": 4639,
-  "2023-09-05": 4645,
-  "2023-09-06": 4649,
-  "2023-09-07": 4653,
-  "2023-09-08": 4662,
-  "2023-09-09": 4668,
-  "2023-09-10": 4673,
-  "2023-09-11": 4678,
-  "2023-09-12": 4687,
-  "2023-09-13": 4695,
-  "2023-09-14": 4703,
-  "2023-09-15": 4710,
-  "2023-09-16": 4715,
-  "2023-09-17": 4720,
-  "2023-09-18": 4727,
-  "2023-09-19": 4733,
-  "2023-09-20": 4741,
-  "2023-09-21": 4747,
-  "2023-09-22": 4750,
-  "2023-09-23": 4755,
-  "2023-09-24": 4756,
-  "2023-09-25": 4762,
-  "2023-09-26": 4766,
-  "2023-09-27": 4772,
-  "2023-09-28": 4786,
-  "2023-09-29": 4791,
-  "2023-09-30": 4798,
-  "2023-10-01": 4803,
-  "2023-10-02": 4810,
-  "2023-10-03": 4815,
-  "2023-10-04": 4824,
-  "2023-10-05": 4834,
-  "2023-10-06": 4841,
-  "2023-10-07": 4847,
-  "2023-10-08": 4853,
-  "2023-10-09": 4857,
-  "2023-10-10": 4861,
-  "2023-10-11": 4873,
-  "2023-10-12": 4873,
-  "2023-10-13": 4876,
-  "2023-10-14": 4876,
-  "2023-10-15": 4886,
-  "2023-10-16": 4890,
-  "2023-10-17": 4895,
-  "2023-10-18": 4899,
-  "2023-10-19": 4905,
-  "2023-10-20": 4908,
-  "2023-10-21": 4914,
-  "2023-10-22": 4922,
-  "2023-10-23": 4926,
-  "2023-10-24": 4933,
-  "2023-10-25": 4942,
-  "2023-10-26": 4944,
-  "2023-10-27": 4956,
-  "2023-10-28": 4956,
-  "2023-10-29": 4956,
-  "2023-10-30": 4970,
-  "2023-10-31": 4970,
-  "2023-11-01": 4978,
-  "2023-11-02": 4986,
-  "2023-11-03": 4992,
-  "2023-11-04": 4992,
-  "2023-11-05": 4992,
-  "2023-11-06": 5007,
-  "2023-11-07": 5015,
-  "2023-11-08": 5020,
-  "2023-11-09": 5020,
-  "2023-11-10": 5029,
-  "2023-11-11": 5044,
-  "2023-11-12": 5046,
-  "2023-11-13": 5053,
-  "2023-11-14": 5057,
-  "2023-11-15": 5057,
-  "2023-11-16": 5064,
-  "2023-11-17": 5079,
-  "2023-11-18": 5079,
-  "2023-11-19": 5082,
-  "2023-11-20": 5084,
-  "2023-11-21": 5091,
-  "2023-11-22": 5104,
-  "2023-11-23": 5110,
-  "2023-11-24": 5110,
-  "2023-11-25": 5119,
-  "2023-11-26": 5119,
-  "2023-11-27": 5127,
-  "2023-11-28": 5131,
-  "2023-11-29": 5136,
-  "2023-11-30": 5136,
-  "2023-12-01": 5136,
-  "2023-12-02": 5142,
-  "2023-12-03": 5153,
-  "2023-12-04": 5153,
-  "2023-12-05": 5170,
-  "2023-12-06": 5176,
-  "2023-12-07": 5179,
-  "2023-12-08": 5179,
-  "2023-12-09": 5191,
-  "2023-12-10": 5191,
-  "2023-12-11": 5198,
-  "2023-12-12": 5198,
-  "2023-12-13": 5204,
-  "2023-12-14": 5207,
-  "2023-12-15": 5210,
-  "2023-12-16": 5215,
-  "2023-12-17": 5222,
-  "2023-12-18": 5227,
-  "2023-12-19": 5230,
-  "2023-12-20": 5233,
-  "2023-12-21": 5235,
-  "2023-12-22": 5237,
-  "2023-12-23": 5243,
-  "2023-12-24": 5247,
-  "2023-12-25": 5256,
-  "2023-12-26": 5262,
-  "2023-12-27": 5263,
-  "2023-12-30": 5282,
-  "2023-12-31": 5292,
-  "2024-01-01": 5300,
-  "2024-01-02": 5305,
-  "2024-01-03": 5311
+  "2024-01-17": 5378,
+  "date_first_scraped": "2022-04-19",
+  "description": "Songs of pride and empowerment to enjoy with little listeners. Cover: That Girl Lay Lay.",
+  "name": "Royalty",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Devin",
+          "url": "https://open.spotify.com/artist/1oIvJJNT73bpBMML4d6S16"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205213,
+      "name": "A Go-Go Fun Day",
+      "url": "https://open.spotify.com/track/6A4kBoCdq4u9xfn0oYwxAf"
+    },
+    {
+      "album": {
+        "name": "Drum Tales!",
+        "url": "https://open.spotify.com/album/1o2BByN9FycCqhttUYLrlj"
+      },
+      "artists": [
+        {
+          "name": "Uncle Devin",
+          "url": "https://open.spotify.com/artist/1qr8l7v727Gt0PLXMuVnpN"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300613,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/50IyPT0QemwtCYaGolWn2j"
+    },
+    {
+      "album": {
+        "name": "D.A.D",
+        "url": "https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        },
+        {
+          "name": "Ami Kim",
+          "url": "https://open.spotify.com/artist/07XR7XwuQh6qqkKLrSzIXN"
+        }
+      ],
+      "date_added": "2021-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195903,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/6jly595GJdo3GFAfygBvtk"
+    },
+    {
+      "album": {
+        "name": "Tha Cheat Code Reloaded",
+        "url": "https://open.spotify.com/album/3UakmIN0DbXOxm1yNmnRz3"
+      },
+      "artists": [
+        {
+          "name": "That Girl Lay Lay",
+          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "Be The King",
+      "url": "https://open.spotify.com/track/00kWP7HRLE3c0uI3W6DISD"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Kymberly Stewart",
+          "url": "https://open.spotify.com/artist/6ZyiT23t4CIQS7trCGpV1f"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Beautiful Brown Babies",
+      "url": "https://open.spotify.com/track/1LGCQIlWcXgSEBCzX1otrj"
+    },
+    {
+      "album": {
+        "name": "Big Curly Afro",
+        "url": "https://open.spotify.com/album/5SlK1Q23Ayr8j54yYo4g1g"
+      },
+      "artists": [
+        {
+          "name": "Ms. Niki",
+          "url": "https://open.spotify.com/artist/126iLhrucMwXb50bDUYazJ"
+        }
+      ],
+      "date_added": "2021-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86465,
+      "name": "Big Curly Afro",
+      "url": "https://open.spotify.com/track/04WZC905rQAOkoQRVgEXGq"
+    },
+    {
+      "album": {
+        "name": "Best Bass Guitar Riffs",
+        "url": "https://open.spotify.com/album/1DCIJct7ZhwnUstusKAkVo"
+      },
+      "artists": [
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Algebra Blessett",
+          "url": "https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 314893,
+      "name": "Black Gold",
+      "url": "https://open.spotify.com/track/7cOJRyrJLpN5kcqPKZuBTS"
+    },
+    {
+      "album": {
+        "name": "Radio Music Society",
+        "url": "https://open.spotify.com/album/0GRy0tSYoSbtuOziEDnDnZ"
+      },
+      "artists": [
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Algebra Blessett",
+          "url": "https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316866,
+      "name": "Black Gold",
+      "url": "https://open.spotify.com/track/3j30NMimTbUCiLx0LphpLQ"
+    },
+    {
+      "album": {
+        "name": "The Love",
+        "url": "https://open.spotify.com/album/1KXBAJuLCtlby4JpDcvcTt"
+      },
+      "artists": [
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        },
+        {
+          "name": "Honey Mahogany",
+          "url": "https://open.spotify.com/artist/6dmjsPDiHUMy3qNs1vstDr"
+        },
+        {
+          "name": "Lillian Ellis",
+          "url": "https://open.spotify.com/artist/3NMki7IkQYSeaKIjqqc6fx"
+        },
+        {
+          "name": "Madlines",
+          "url": "https://open.spotify.com/artist/0DjFf8VJuIkdcSx0THejRv"
+        },
+        {
+          "name": "Maya Fleming",
+          "url": "https://open.spotify.com/artist/3cyZB4REHxF9sB7trHZpau"
+        },
+        {
+          "name": "RyanNicole",
+          "url": "https://open.spotify.com/artist/22UvQ2RMtVw1iuSo1yAOdM"
+        },
+        {
+          "name": "Samara Atkins",
+          "url": "https://open.spotify.com/artist/4K5GXYc2IDxUJmF5OL4BBz"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207089,
+      "name": "Black Gxrl Magic",
+      "url": "https://open.spotify.com/track/6bZsfL0BjVAW3lrjOrS0yL"
+    },
+    {
+      "album": {
+        "name": "Black Like Me",
+        "url": "https://open.spotify.com/album/2Zwm1TtDs0E9b1LV2YUhLO"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210199,
+      "name": "Black Like Me",
+      "url": "https://open.spotify.com/track/239xopha4cJfbAfhX76FEQ"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Roy Moye III",
+          "url": "https://open.spotify.com/artist/1FBZZD3fC7SuYBb8PsZWuf"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Black Lives Made STEM History",
+      "url": "https://open.spotify.com/track/78MBph27OvsmvxCauXGZOx"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Jessica DeShong",
+          "url": "https://open.spotify.com/artist/0AxDxZPBtSGasZKJQttZpJ"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315933,
+      "name": "Black People Who Change the World",
+      "url": "https://open.spotify.com/track/0OJEOvJU2uvVm6j0a20xCr"
+    },
+    {
+      "album": {
+        "name": "African American Legacy Series: A Life of Song",
+        "url": "https://open.spotify.com/album/6NpuzbeMOdtbPBWNHgNSxu"
+      },
+      "artists": [
+        {
+          "name": "Ella Jenkins",
+          "url": "https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107120,
+      "name": "Black Royalty",
+      "url": "https://open.spotify.com/track/57VjbpsT31Jw3WT7urEpJJ"
+    },
+    {
+      "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Rissi Palmer",
+          "url": "https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ"
+        },
+        {
+          "name": "Snooknuk",
+          "url": "https://open.spotify.com/artist/4Il5GSRo3EJWxiGmZfK6V6"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191032,
+      "name": "Black Women in History",
+      "url": "https://open.spotify.com/track/570TkEzBGsNCIKN47OR9b3"
+    },
+    {
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Blue Ivy",
+          "url": "https://open.spotify.com/artist/3XV0lFzNs8BCTwhJTcMiBr"
+        },
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248472,
+      "name": "BROWN SKIN GIRL",
+      "url": "https://open.spotify.com/track/0B3FovCVaGKS5w1FTidEUP"
+    },
+    {
+      "album": {
+        "name": "The Playground Zone",
+        "url": "https://open.spotify.com/album/2yvXAqzIRXAVaGvOrq43rN"
+      },
+      "artists": [
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197592,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5NrP48vWo0r1ORvW6CvoMn"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "The Magic Jones",
+          "url": "https://open.spotify.com/artist/68k1fAn7fhJnsujFNEscyA"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142066,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/0DggugSY9hCZ9C4M8ge9D2"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        },
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148386,
+      "name": "Cootie Shot",
+      "url": "https://open.spotify.com/track/17GfiRVf5xpkH0j4cZGP2o"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/1Hs8dx39QbmCHbgh7mHKPd"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/5zbtiu1u9ysgafBbIZRyhE"
+    },
+    {
+      "album": {
+        "name": "Dark Skin Boy",
+        "url": "https://open.spotify.com/album/06pPkVzfy4O3t153okMQs7"
+      },
+      "artists": [
+        {
+          "name": "Super Siah",
+          "url": "https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108600,
+      "name": "Dark Skin Boy",
+      "url": "https://open.spotify.com/track/6Xp1m82UqUsaIpSl3YUXhJ"
+    },
+    {
+      "album": {
+        "name": "We Dream in 3d",
+        "url": "https://open.spotify.com/album/1HuMsnnRL335ObYNXydOyg"
+      },
+      "artists": [
+        {
+          "name": "SaulPaul",
+          "url": "https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu"
+        }
+      ],
+      "date_added": "2021-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Encourage Me (Remix)",
+      "url": "https://open.spotify.com/track/3YL3BElfZhKbeQSQCHBfXq"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207853,
+      "name": "Family Reunion",
+      "url": "https://open.spotify.com/track/78Qx19TxMk8neTSObl8axa"
+    },
+    {
+      "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Shine of Shine and the Moonbeams",
+          "url": "https://open.spotify.com/artist/4T2VvCvYLAfqpAXGhxc4I4"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249343,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/3VFS3Ahjziv6vNQlMJQvll"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "The Wise Channel",
+          "url": "https://open.spotify.com/artist/1oFEPQIh2znQNzku3LR6Iq"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174613,
+      "name": "For All",
+      "url": "https://open.spotify.com/track/66JTnnOQ8fujcvg5FATUcf"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289760,
+      "name": "Freedom (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7aBxcRw77817BrkdPChAGY"
+    },
+    {
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 197840,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
+    },
+    {
+      "album": {
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
+    },
+    {
+      "album": {
+        "name": "Glory (From the Motion Picture Selma)",
+        "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272727,
+      "name": "Glory (From the Motion Picture Selma)",
+      "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Jumbo",
+          "url": "https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179626,
+      "name": "Go 100",
+      "url": "https://open.spotify.com/track/0St5kKQi6fa690c2L88kQi"
+    },
+    {
+      "album": {
+        "name": "Follow Your Heart",
+        "url": "https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190288,
+      "name": "Good Day for a Good Day",
+      "url": "https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN"
+    },
+    {
+      "album": {
+        "name": "Good Day for a Good Day (Acoustic)",
+        "url": "https://open.spotify.com/album/7cTvygp5X7cEbrsAph8ZMU"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190288,
+      "name": "Good Day for a Good Day",
+      "url": "https://open.spotify.com/track/4lmF7TNUOd5xpnGQoLgQG5"
+    },
+    {
+      "album": {
+        "name": "No Makeup",
+        "url": "https://open.spotify.com/album/4qpnk40ignX6Ue2dnFRiCL"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190288,
+      "name": "Good Day for a Good Day",
+      "url": "https://open.spotify.com/track/56iuE0GygnsfkUcv6P3Fsz"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Culture Queen",
+          "url": "https://open.spotify.com/artist/4IfGc40LRbnwom32WYBhJs"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166306,
+      "name": "I am the Future of Black History",
+      "url": "https://open.spotify.com/track/4whVnf02gWhhReYvynd0DX"
+    },
+    {
+      "album": {
+        "name": "I Like the Me I See!",
+        "url": "https://open.spotify.com/album/5gptuEMTs3RzCeWYvWEyiO"
+      },
+      "artists": [
+        {
+          "name": "Culture Queen",
+          "url": "https://open.spotify.com/artist/4IfGc40LRbnwom32WYBhJs"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "I Am the Future of Black History",
+      "url": "https://open.spotify.com/track/5zhJZXWlXeQBgh93CONXqu"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Shine & The Moonbeams",
+          "url": "https://open.spotify.com/artist/3113UIzVXpx1FROG4LCgDo"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/3MhVjR2dL3FazpkO8HC981"
+    },
+    {
+      "album": {
+        "name": "I JUST WANNA LIVE",
+        "url": "https://open.spotify.com/album/5jzehRkLXUpfbFs1XfCMZx"
+      },
+      "artists": [
+        {
+          "name": "Keedron Bryant",
+          "url": "https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188579,
+      "name": "I JUST WANNA LIVE",
+      "url": "https://open.spotify.com/track/39LS7G7XuDR5yXnmZJ58C5"
+    },
+    {
+      "album": {
+        "name": "Stax Classics",
+        "url": "https://open.spotify.com/album/7n799A9IQT4WVDPbXwVa7n"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5xHfZxFBcMA2akGVMM1bdk"
+    },
+    {
+      "album": {
+        "name": "Juneteenth",
+        "url": "https://open.spotify.com/album/1AgegTeYysCwLMsukHiaJ0"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Juneteenth",
+      "url": "https://open.spotify.com/track/6e5led2zaPD6zrFO3GQnoe"
+    },
+    {
+      "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/01VRn9a3SNb3I8Yj06Ka53"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/6UPXSrWmBo6nSBukG34Bvy"
+    },
+    {
+      "album": {
+        "name": "The Gospel Truth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7E7NjgtIcrmDqmp0FgnkSl"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117760,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/3fXJQ6nntDXr2lUw7EfM4Z"
+    },
+    {
+      "album": {
+        "name": "America America",
+        "url": "https://open.spotify.com/album/1He49DGuCac764ggQhnYbP"
+      },
+      "artists": [
+        {
+          "name": "Bebe Winans",
+          "url": "https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275106,
+      "name": "Lift Every Voice And Sing",
+      "url": "https://open.spotify.com/track/6QCaPlJFUAXAKEGuKi2lXi"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Rissi Palmer",
+          "url": "https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Little Black Boy, Little Black Girl",
+      "url": "https://open.spotify.com/track/5vz3PFmxkhsPwuoztcVNMB"
+    },
+    {
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425826,
+      "name": "Love's In Need Of Love Today",
+      "url": "https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Aaron Nigel Smith",
+          "url": "https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4"
+        },
+        {
+          "name": "Shine & The Moonbeams",
+          "url": "https://open.spotify.com/artist/3113UIzVXpx1FROG4LCgDo"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159293,
+      "name": "March Together",
+      "url": "https://open.spotify.com/track/4xvXnmxM594ZJIlBZjSVAn"
+    },
+    {
+      "album": {
+        "name": "I Can\u2019t Breathe / Music For the Movement",
+        "url": "https://open.spotify.com/album/7tstpgwv7ZAnZo53VeLZxO"
+      },
+      "artists": [
+        {
+          "name": "Keedron Bryant",
+          "url": "https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196368,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/48fOWR2xqMAWcnU5LAnU7l"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "SaulPaul",
+          "url": "https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu"
+        },
+        {
+          "name": "Bongi and Collin",
+          "url": "https://open.spotify.com/artist/5ThpmdOqEFYqzTcAR6Nmq8"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199813,
+      "name": "Motivation - Remix",
+      "url": "https://open.spotify.com/track/0AgWkQtQ5h4QWCOardCyni"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Jabali Afrika",
+          "url": "https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC"
+        },
+        {
+          "name": "Ahadi",
+          "url": "https://open.spotify.com/artist/73OCSVSR9osxf0plRKTkyA"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236453,
+      "name": "Mtoto Mzuri",
+      "url": "https://open.spotify.com/track/62YB9gbnpuSY1wNbkot1Wz"
+    },
+    {
+      "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Uncle Jumbo",
+          "url": "https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164884,
+      "name": "My Crown",
+      "url": "https://open.spotify.com/track/4KH1A0T82cTt0nFd2uzC3v"
+    },
+    {
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259741,
+      "name": "MY POWER",
+      "url": "https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg"
+    },
+    {
+      "album": {
+        "name": "Be Yourself!",
+        "url": "https://open.spotify.com/album/2DtCuiy2JgDmH2ys9X4P0Y"
+      },
+      "artists": [
+        {
+          "name": "Uncle Devin",
+          "url": "https://open.spotify.com/artist/1qr8l7v727Gt0PLXMuVnpN"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "No Such Thing as Good or Bad Hair",
+      "url": "https://open.spotify.com/track/2cMPeVWydk52ED84lGlDAF"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "DJ WILLY WOW!",
+          "url": "https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180306,
+      "name": "Nothing Wrong with the Black Crayon",
+      "url": "https://open.spotify.com/track/3vPWIjtgpJq255iEu5PWos"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "1 Tribe Collective",
+          "url": "https://open.spotify.com/artist/16kRGICZQiz5QqArmWwN1p"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227560,
+      "name": "One Tribe",
+      "url": "https://open.spotify.com/track/0ZzcIDCRQLEhdkpZ3sRtfP"
+    },
+    {
+      "album": {
+        "name": "Evolution Of Gospel",
+        "url": "https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318533,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE"
+    },
+    {
+      "album": {
+        "name": "Gospel Music",
+        "url": "https://open.spotify.com/album/3GLeUVt708UrSKDwOwahy1"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 318760,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/4pzC5VooUNveAPVxQJDaVr"
+    },
+    {
+      "album": {
+        "name": "The Evolution of Gospel",
+        "url": "https://open.spotify.com/album/6NbAVW6xYs7aaITfoCn7VC"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 319000,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/2tZDfKJ5A3fa6LcsAbKAJ9"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Nanny Nikki",
+          "url": "https://open.spotify.com/artist/4PpVyNXXqA5P9e7letrpAx"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Playground Day",
+      "url": "https://open.spotify.com/track/3BhXUY80wTA1bqekwYpBKV"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Ms. Niki",
+          "url": "https://open.spotify.com/artist/126iLhrucMwXb50bDUYazJ"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204106,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4Az0EgaVS9K60uIw1ZKWRV"
+    },
+    {
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233560,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Groovy Nate",
+          "url": "https://open.spotify.com/artist/3RZiDQ8pD2bUrrL3Zawt95"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Respect Everybody",
+      "url": "https://open.spotify.com/track/3nZg6UCIRzEEDJhoiJM8TU"
+    },
+    {
+      "album": {
+        "name": "We Dream in 3d",
+        "url": "https://open.spotify.com/album/1HuMsnnRL335ObYNXydOyg"
+      },
+      "artists": [
+        {
+          "name": "SaulPaul",
+          "url": "https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu"
+        }
+      ],
+      "date_added": "2021-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167063,
+      "name": "Rise (Remix)",
+      "url": "https://open.spotify.com/track/5nB3UrOV6bWoOFmGjxLHOs"
+    },
+    {
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "album": {
+        "name": "The 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1pHE92AvWAt4IIRUCVFnEl"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167186,
+      "name": "Say It Loud - I'm Black And I'm Proud - Pt. 1",
+      "url": "https://open.spotify.com/track/5h8ve1B7Gr3k4W0WXAgLxE"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Ms. Janis",
+          "url": "https://open.spotify.com/artist/0fuqJQpoU5sMeCTxfdDsJh"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312066,
+      "name": "Say Their Names",
+      "url": "https://open.spotify.com/track/7ApQr7R537SlUon3l97SWj"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Robbi Kumalo",
+          "url": "https://open.spotify.com/artist/3YnEf3gBveooadUeWtOdlG"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360280,
+      "name": "Set It Free",
+      "url": "https://open.spotify.com/track/3Ic5b60EsIedy587XEricH"
+    },
+    {
+      "album": {
+        "name": "Shine (Melanin Remix)",
+        "url": "https://open.spotify.com/album/2ZMN3LSZifIY2jFWHD4M7U"
+      },
+      "artists": [
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254856,
+      "name": "Shine (Melanin Remix)",
+      "url": "https://open.spotify.com/track/50TDL8QolQktQwBTeqohd4"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255053,
+      "name": "Shine - Remix",
+      "url": "https://open.spotify.com/track/2efmVPD2EHWX55wTX7ysy7"
+    },
+    {
+      "album": {
+        "name": "African American Legacy Series: A Life of Song",
+        "url": "https://open.spotify.com/album/6NpuzbeMOdtbPBWNHgNSxu"
+      },
+      "artists": [
+        {
+          "name": "Ella Jenkins",
+          "url": "https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111066,
+      "name": "Somebody\u2019s Talking about Freedom",
+      "url": "https://open.spotify.com/track/36OMJ0R9EVtdFzj1lzCdd5"
+    },
+    {
+      "album": {
+        "name": "Acoustic Soul",
+        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297800,
+      "name": "Strength Courage & Wisdom",
+      "url": "https://open.spotify.com/track/2kIZPLtqtmDh3dX6HuAfD0"
+    },
+    {
+      "album": {
+        "name": "Family R&B",
+        "url": "https://open.spotify.com/album/0tM9RV7esd0TcfOphblrrw"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 297800,
+      "name": "Strength Courage & Wisdom",
+      "url": "https://open.spotify.com/track/7IjfQIaYYcbuSRWXVk2dGd"
+    },
+    {
+      "album": {
+        "name": "Muzik of the Mind and Spirit - a Concept Compilation",
+        "url": "https://open.spotify.com/album/7ermETX1IloxCO80fX1poy"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 301866,
+      "name": "Strength, Courage, and Wisdom - India Arie",
+      "url": "https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3"
+    },
+    {
+      "album": {
+        "name": "Kids Get the Blues Too/Blues for Beginners",
+        "url": "https://open.spotify.com/album/2rxTLS08n3ucc9sYjjChPT"
+      },
+      "artists": [
+        {
+          "name": "Brother Yusef",
+          "url": "https://open.spotify.com/artist/2kT8MA43SEzcSxbmdU0nU1"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146013,
+      "name": "This Little Light of Mine",
+      "url": "https://open.spotify.com/track/39r0wA2sENRd90ULAGVVgA"
+    },
+    {
+      "album": {
+        "name": "Back On The Block",
+        "url": "https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286866,
+      "name": "Tomorrow (A Better You, Better Me)",
+      "url": "https://open.spotify.com/track/4jYuAdVCOMkEQJWV2qvlj6"
+    },
+    {
+      "album": {
+        "name": "U Will Know",
+        "url": "https://open.spotify.com/album/2mbDqpuAcNshFdztxXPBrz"
+      },
+      "artists": [
+        {
+          "name": "B.M.U. (Black Men United)",
+          "url": "https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265640,
+      "name": "U Will Know - Extended Version",
+      "url": "https://open.spotify.com/track/5bM3IhiYoYSK9VjAux2px8"
+    },
+    {
+      "album": {
+        "name": "Wake Up!",
+        "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264866,
+      "name": "Wake up Everybody (feat. Common & Melanie Fiona)",
+      "url": "https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN"
+    },
+    {
+      "album": {
+        "name": "The Essential Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/735qNwSoGzOLyItfQQ01RL"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 451066,
+      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5mFDQH5fGoV7jL1AuoiRsO"
+    },
+    {
+      "album": {
+        "name": "Wake Up Everybody",
+        "url": "https://open.spotify.com/album/6HEs5qnRcMu03zTSqMIdNM"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 451400,
+      "name": "Wake up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/763jJ8T1utfvNqz1WRDzx4"
+    },
+    {
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452773,
+      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Melanie DeMore",
+          "url": "https://open.spotify.com/artist/456sqV9ovwBVhDxkIAwiAt"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110266,
+      "name": "We All Live",
+      "url": "https://open.spotify.com/track/0RAT9V3fXQ2Axdbd5WsYpM"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Snooknuk",
+          "url": "https://open.spotify.com/artist/4Il5GSRo3EJWxiGmZfK6V6"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "We're All The Same",
+      "url": "https://open.spotify.com/track/2QPwUxH8oRshkLOn1G9gL5"
+    },
+    {
+      "album": {
+        "name": "Welcome To Karma's World",
+        "url": "https://open.spotify.com/album/6afrouyfY9xZUlrSavHY57"
+      },
+      "artists": [
+        {
+          "name": "Karma's World",
+          "url": "https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS"
+        }
+      ],
+      "date_added": "2021-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165902,
+      "name": "Welcome To Karma's World",
+      "url": "https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o"
+    },
+    {
+      "album": {
+        "name": "Sings - Back Through The Years/A Centennial Celebration",
+        "url": "https://open.spotify.com/album/1tRBy2Gj49GdAWHYIJsbDj"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138293,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/1AKE1Jk6Vrzabh2RNe9iIY"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaT0pyUaCzoO"
 }

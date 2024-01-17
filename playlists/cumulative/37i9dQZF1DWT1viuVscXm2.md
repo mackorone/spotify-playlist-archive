@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-267 songs - 15 hr 33 min
+268 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,13 +188,14 @@
 | [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z) | 3:18 | 2023-04-19 |  |
 | [Pobre Corazón \- En vivo](https://open.spotify.com/track/6UsuNAY6rB2LMD4NPMK9lF) | [Music Factory](https://open.spotify.com/artist/7xj1YIDzHU6vkUwP76NEyx) | [Pobre Corazón \(En vivo\)](https://open.spotify.com/album/76vyJ5BEey5rKrDglOfkpV) | 3:18 | 2023-04-19 | 2023-04-22 |
 | [Poco](https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Poco](https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1) | 4:09 | 2022-09-09 | 2023-03-25 |
+| [Por Dios Que No](https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Dios Que No](https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN) | 2:48 | 2024-01-08 |  |
 | [Por Si Un Día Vuelves](https://open.spotify.com/track/1Kse9DjegXSKMVYpXFMBhg) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Por Si Un Día Vuelves](https://open.spotify.com/album/3I4Gw0LjdYKEVne7lF2FZr) | 2:42 | 2022-06-10 | 2022-07-01 |
 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 | 2022-12-02 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/2SQTteM7L4POuyKcMHpsoG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/album/1t9cf3yWQcLKtBZT1s1DvY) | 4:15 | 2021-12-24 | 2022-07-29 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0M0BRpsdr7alyNbfoDWQCA) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cumbias De Verano Best Hits](https://open.spotify.com/album/29uIiFyT1LswhnoqkRGjIm) | 4:16 | 2022-10-28 | 2022-11-13 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0A2fcg05Ii6MpFCiuzfNfJ) | [sonoradinamita](https://open.spotify.com/artist/2wesOX1fzorPTtgcuZ0xv2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:16 | 2022-07-22 | 2023-06-30 |
 | [Que Tiene la Noche](https://open.spotify.com/track/0ZY0V2lkqbxDxq3Ys0AU1U) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm), [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Que Tiene la Noche](https://open.spotify.com/album/61z2zm2d248rCOaPppWrd5) | 3:26 | 2022-12-02 | 2023-01-14 |
-| [Que Vuelvas](https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Que Vuelvas](https://open.spotify.com/album/3jgBD0phLA3LBdsaPS3wrs) | 2:42 | 2023-12-08 |  |
+| [Que Vuelvas](https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Que Vuelvas](https://open.spotify.com/album/3jgBD0phLA3LBdsaPS3wrs) | 2:42 | 2023-12-08 | 2024-01-09 |
 | [Quedate](https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Quedate](https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91) | 3:28 | 2022-08-26 | 2023-01-28 |
 | [Quieres Ser Mi Amante](https://open.spotify.com/track/6ZIHXMuIfggpBH9vhpTusl) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Rompiendo el Silencio](https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB) | 2:56 | 2022-06-30 |  |
 | [Qué Agonía](https://open.spotify.com/track/5opUwRIhCuOG0AA8H3gFQL) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Qué Agonía](https://open.spotify.com/album/74lyeT4vwsCCOiScrFz5xy) | 3:37 | 2023-09-08 |  |

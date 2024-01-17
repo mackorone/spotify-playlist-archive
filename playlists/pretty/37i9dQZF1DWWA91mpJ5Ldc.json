@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 123027,
+  "num_followers": 123645,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTg4ZDkxZjVhYzgxYWJiYTQyODY2Nzk4NmE3ZGIyMzFkZTk5ZjI1",
+  "snapshot_id": "MCxjYjI5NDliNmM5MjMxMWMwMGNkZDliYjRlNjY3MGY5OTI4NjdlZDky",
   "tracks": [
     {
       "added_at": "2023-12-26 03:01:00",
@@ -71,6 +71,30 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Final de Semana",
+        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 201682,
+      "name": "Final de Semana",
+      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
@@ -111,30 +135,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Final de Semana",
-        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 201682,
-      "name": "Final de Semana",
-      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Eletrocardiograma",
         "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
       },
@@ -171,18 +171,22 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Musica para Churrasco, Vol. 1",
-        "url": "https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg"
+        "name": "15b",
+        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
       },
       "artists": [
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        },
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 326493,
-      "name": "Quem N\u00e3o Quer Sou Eu",
-      "url": "https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL"
+      "duration_ms": 161000,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -203,6 +207,22 @@
       "duration_ms": 172523,
       "name": "Xuxu",
       "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Musica para Churrasco, Vol. 1",
+        "url": "https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 326493,
+      "name": "Quem N\u00e3o Quer Sou Eu",
+      "url": "https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -243,26 +263,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        },
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -283,6 +283,22 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/7oPB5rRWan5SeijxL94Qmz"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Pra todas as mulheres",
+        "url": "https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 168251,
+      "name": "Pra todas as mulheres",
+      "url": "https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -335,38 +351,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Pra todas as mulheres",
-        "url": "https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 168251,
-      "name": "Pra todas as mulheres",
-      "url": "https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Servi\u00e7o",
         "url": "https://open.spotify.com/album/4HN3LF9h0II1QfSJvs5x96"
       },
@@ -387,34 +371,18 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -431,26 +399,6 @@
       "duration_ms": 217110,
       "name": "Onde Estar\u00e1",
       "url": "https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Besteira",
-        "url": "https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "Besteira",
-      "url": "https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -475,6 +423,114 @@
       "duration_ms": 170293,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Besteira",
+        "url": "https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "Besteira",
+      "url": "https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 172794,
+      "name": "+ 1 Minuto",
+      "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Coisa de Acender",
+        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "Boa Noite",
+      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -507,58 +563,18 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
+        "name": "Mais de N\u00f3s",
+        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
       },
       "artists": [
         {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 172794,
-      "name": "+ 1 Minuto",
-      "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Coisa de Acender",
-        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 347893,
-      "name": "Boa Noite",
-      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
+      "duration_ms": 174361,
+      "name": "Mais de N\u00f3s",
+      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -579,18 +595,18 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Mais de N\u00f3s",
-        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 174361,
-      "name": "Mais de N\u00f3s",
-      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -615,40 +631,8 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Roupa Branca",
-        "url": "https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC"
-      },
-      "artists": [
-        {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
-        }
-      ],
-      "duration_ms": 147770,
-      "name": "Roupa Branca",
-      "url": "https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
+      "duration_ms": 269285,
+      "name": "Todo Carinho",
+      "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -727,22 +711,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 269285,
-      "name": "Todo Carinho",
-      "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -779,34 +747,18 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
       },
       "artists": [
         {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 226720,
-      "name": "Vem Doce",
-      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Fiz Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
-        }
-      ],
-      "duration_ms": 192222,
-      "name": "Fiz Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -827,6 +779,22 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Fiz Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
+        }
+      ],
+      "duration_ms": 192222,
+      "name": "Fiz Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
@@ -843,6 +811,22 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -879,22 +863,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -911,6 +879,22 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -935,22 +919,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Apesar de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        }
-      ],
-      "duration_ms": 275333,
-      "name": "Apesar de Voc\u00ea",
-      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Desastre Solar",
         "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
       },
@@ -963,22 +931,6 @@
       "duration_ms": 233666,
       "name": "Deixa Acontecer",
       "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Viver (Mais leve que o ar)",
-        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -999,6 +951,38 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Apesar de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        }
+      ],
+      "duration_ms": 275333,
+      "name": "Apesar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
       },
@@ -1015,22 +999,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "O amor te d\u00e1",
-        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "duration_ms": 247812,
-      "name": "O amor te d\u00e1",
-      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Espelho",
         "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
       },
@@ -1043,6 +1011,22 @@
       "duration_ms": 208986,
       "name": "Espelho",
       "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "O amor te d\u00e1",
+        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 247812,
+      "name": "O amor te d\u00e1",
+      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 342160,
       "name": "Dias de Janeiro",
       "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
     }
   ],
   "unique_name": "Cozinhando em Casa",

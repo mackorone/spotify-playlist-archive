@@ -1,655 +1,2031 @@
 {
-  "2022-03-15": 38235,
-  "2022-03-16": 38382,
-  "2022-03-17": 38498,
-  "2022-03-18": 38669,
-  "2022-03-19": 38738,
-  "2022-03-20": 38738,
-  "2022-03-21": 39002,
-  "2022-03-22": 39111,
-  "2022-03-23": 39263,
-  "2022-03-24": 39367,
-  "2022-03-25": 39499,
-  "2022-03-26": 39623,
-  "2022-03-27": 39734,
-  "2022-03-28": 39872,
-  "2022-03-30": 40147,
-  "2022-03-31": 40280,
-  "2022-04-01": 40430,
-  "2022-04-02": 40554,
-  "2022-04-03": 40669,
-  "2022-04-04": 40798,
-  "2022-04-05": 40939,
-  "2022-04-06": 41070,
-  "2022-04-07": 41225,
-  "2022-04-08": 41372,
-  "2022-04-09": 41487,
-  "2022-04-10": 41755,
-  "2022-04-11": 41896,
-  "2022-04-12": 41912,
-  "2022-04-13": 42032,
-  "2022-04-14": 42141,
-  "2022-04-15": 42251,
-  "2022-04-16": 42371,
-  "2022-04-17": 42467,
-  "2022-04-18": 42595,
-  "2022-04-19": 42681,
-  "2022-04-20": 42786,
-  "2022-04-21": 42886,
-  "2022-04-22": 42979,
-  "2022-04-23": 43093,
-  "2022-04-24": 43171,
-  "2022-04-25": 43287,
-  "2022-04-26": 43380,
-  "2022-04-27": 43496,
-  "2022-04-28": 43560,
-  "2022-04-29": 43643,
-  "2022-04-30": 43696,
-  "2022-05-01": 43764,
-  "2022-05-02": 43764,
-  "2022-05-03": 43860,
-  "2022-05-04": 43943,
-  "2022-05-05": 44016,
-  "2022-05-06": 44079,
-  "2022-05-07": 44323,
-  "2022-05-08": 44665,
-  "2022-05-09": 44727,
-  "2022-05-10": 44791,
-  "2022-05-11": 44860,
-  "2022-05-12": 44905,
-  "2022-05-13": 44937,
-  "2022-05-14": 44988,
-  "2022-05-15": 45028,
-  "2022-05-16": 45060,
-  "2022-05-17": 45109,
-  "2022-05-18": 45148,
-  "2022-05-19": 45186,
-  "2022-05-20": 45220,
-  "2022-05-21": 45270,
-  "2022-05-22": 45270,
-  "2022-05-23": 45320,
-  "2022-05-24": 45376,
-  "2022-05-25": 45409,
-  "2022-05-26": 45455,
-  "2022-05-27": 45488,
-  "2022-05-28": 45516,
-  "2022-05-29": 45543,
-  "2022-05-30": 45596,
-  "2022-05-31": 45638,
-  "2022-06-01": 45705,
-  "2022-06-02": 45709,
-  "2022-06-03": 45752,
-  "2022-06-04": 45781,
-  "2022-06-05": 45817,
-  "2022-06-06": 45864,
-  "2022-06-07": 45917,
-  "2022-06-08": 45967,
-  "2022-06-09": 46005,
-  "2022-06-10": 46044,
-  "2022-06-11": 46066,
-  "2022-06-12": 46089,
-  "2022-06-13": 46134,
-  "2022-06-14": 46170,
-  "2022-06-15": 46200,
-  "2022-06-16": 46235,
-  "2022-06-17": 46257,
-  "2022-06-18": 46257,
-  "2022-06-19": 46356,
-  "2022-06-20": 46356,
-  "2022-06-21": 46387,
-  "2022-06-22": 46438,
-  "2022-06-23": 46438,
-  "2022-06-24": 46474,
-  "2022-06-25": 46498,
-  "2022-06-26": 46532,
-  "2022-06-27": 46561,
-  "2022-06-28": 46611,
-  "2022-06-29": 46640,
-  "2022-06-30": 46667,
-  "2022-07-01": 46713,
-  "2022-07-02": 46751,
-  "2022-07-03": 46771,
-  "2022-07-04": 46809,
-  "2022-07-05": 46838,
-  "2022-07-06": 46888,
-  "2022-07-07": 46911,
-  "2022-07-08": 46943,
-  "2022-07-09": 46978,
-  "2022-07-10": 47014,
-  "2022-07-11": 47060,
-  "2022-07-12": 47098,
-  "2022-07-13": 47125,
-  "2022-07-14": 47164,
-  "2022-07-15": 47203,
-  "2022-07-16": 47235,
-  "2022-07-17": 47263,
-  "2022-07-18": 47306,
-  "2022-07-19": 47333,
-  "2022-07-20": 47376,
-  "2022-07-21": 47401,
-  "2022-07-22": 47430,
-  "2022-07-23": 47457,
-  "2022-07-24": 47480,
-  "2022-07-25": 47514,
-  "2022-07-26": 47555,
-  "2022-07-27": 47580,
-  "2022-07-28": 47618,
-  "2022-07-29": 47645,
-  "2022-07-30": 47701,
-  "2022-07-31": 47701,
-  "2022-08-01": 47734,
-  "2022-08-02": 47813,
-  "2022-08-03": 47813,
-  "2022-08-04": 47855,
-  "2022-08-05": 47897,
-  "2022-08-06": 47927,
-  "2022-08-07": 47962,
-  "2022-08-08": 47996,
-  "2022-08-09": 48026,
-  "2022-08-10": 48063,
-  "2022-08-11": 48099,
-  "2022-08-12": 48130,
-  "2022-08-13": 48156,
-  "2022-08-14": 48192,
-  "2022-08-15": 48233,
-  "2022-08-16": 48273,
-  "2022-08-17": 48300,
-  "2022-08-18": 48323,
-  "2022-08-19": 48347,
-  "2022-08-20": 48377,
-  "2022-08-21": 48418,
-  "2022-08-22": 48444,
-  "2022-08-23": 48466,
-  "2022-08-24": 48493,
-  "2022-08-25": 48523,
-  "2022-08-26": 48553,
-  "2022-08-27": 48582,
-  "2022-08-28": 48610,
-  "2022-08-29": 48654,
-  "2022-08-30": 48632,
-  "2022-08-31": 48565,
-  "2022-09-01": 48443,
-  "2022-09-02": 48352,
-  "2022-09-03": 48142,
-  "2022-09-04": 48083,
-  "2022-09-05": 48094,
-  "2022-09-06": 48129,
-  "2022-09-07": 48178,
-  "2022-09-09": 48255,
-  "2022-09-10": 48302,
-  "2022-09-11": 48350,
-  "2022-09-12": 48397,
-  "2022-09-13": 48457,
-  "2022-09-15": 48575,
-  "2022-09-16": 48626,
-  "2022-09-17": 48670,
-  "2022-09-18": 48717,
-  "2022-09-19": 48758,
-  "2022-09-20": 48820,
-  "2022-09-21": 48875,
-  "2022-09-22": 48926,
-  "2022-09-23": 48993,
-  "2022-09-24": 49035,
-  "2022-09-25": 49067,
-  "2022-09-26": 49132,
-  "2022-09-27": 49201,
-  "2022-09-28": 49269,
-  "2022-09-29": 49327,
-  "2022-09-30": 49386,
-  "2022-10-01": 49440,
-  "2022-10-02": 49493,
-  "2022-10-03": 49574,
-  "2022-10-04": 49643,
-  "2022-10-05": 49698,
-  "2022-10-06": 49777,
-  "2022-10-07": 49848,
-  "2022-10-08": 49915,
-  "2022-10-09": 50037,
-  "2022-10-10": 50051,
-  "2022-10-11": 50116,
-  "2022-10-12": 50188,
-  "2022-10-13": 50260,
-  "2022-10-14": 50344,
-  "2022-10-15": 50380,
-  "2022-10-16": 50421,
-  "2022-10-17": 50463,
-  "2022-10-18": 50518,
-  "2022-10-19": 50567,
-  "2022-10-20": 50646,
-  "2022-10-21": 50683,
-  "2022-10-22": 50734,
-  "2022-10-23": 50788,
-  "2022-10-24": 50846,
-  "2022-10-25": 50882,
-  "2022-10-26": 50960,
-  "2022-10-27": 51033,
-  "2022-10-28": 51104,
-  "2022-10-29": 51141,
-  "2022-10-30": 51190,
-  "2022-10-31": 51236,
-  "2022-11-01": 51307,
-  "2022-11-02": 51382,
-  "2022-11-03": 51445,
-  "2022-11-04": 51491,
-  "2022-11-05": 51554,
-  "2022-11-06": 51630,
-  "2022-11-07": 51690,
-  "2022-11-08": 51781,
-  "2022-11-09": 51867,
-  "2022-11-10": 51932,
-  "2022-11-11": 51994,
-  "2022-11-12": 52076,
-  "2022-11-13": 52152,
-  "2022-11-14": 52216,
-  "2022-11-15": 52278,
-  "2022-11-16": 52350,
-  "2022-11-17": 52411,
-  "2022-11-18": 52445,
-  "2022-11-19": 52449,
-  "2022-11-20": 52497,
-  "2022-11-21": 52546,
-  "2022-11-22": 52602,
-  "2022-11-23": 52656,
-  "2022-11-24": 52746,
-  "2022-11-25": 52815,
-  "2022-11-26": 52864,
-  "2022-11-27": 52920,
-  "2022-11-28": 52978,
-  "2022-11-29": 53043,
-  "2022-11-30": 53095,
-  "2022-12-01": 53162,
-  "2022-12-02": 53178,
-  "2022-12-03": 53231,
-  "2022-12-04": 53284,
-  "2022-12-05": 53331,
-  "2022-12-06": 53378,
-  "2022-12-07": 53412,
-  "2022-12-08": 53459,
-  "2022-12-09": 53492,
-  "2022-12-10": 53543,
-  "2022-12-11": 53582,
-  "2022-12-12": 53638,
-  "2022-12-13": 53699,
-  "2022-12-14": 53751,
-  "2022-12-15": 53800,
-  "2022-12-16": 53859,
-  "2022-12-17": 53894,
-  "2022-12-18": 53930,
-  "2022-12-19": 53976,
-  "2022-12-20": 54054,
-  "2022-12-21": 54054,
-  "2022-12-22": 54094,
-  "2022-12-24": 54164,
-  "2022-12-25": 54200,
-  "2022-12-26": 54232,
-  "2022-12-27": 54263,
-  "2022-12-28": 54305,
-  "2022-12-29": 54353,
-  "2022-12-30": 54388,
-  "2022-12-31": 54437,
-  "2023-01-01": 54467,
-  "2023-01-02": 54506,
-  "2023-01-03": 54569,
-  "2023-01-04": 54622,
-  "2023-01-05": 54670,
-  "2023-01-06": 54720,
-  "2023-01-07": 54811,
-  "2023-01-08": 54822,
-  "2023-01-09": 54893,
-  "2023-01-10": 54960,
-  "2023-01-11": 55026,
-  "2023-01-12": 55090,
-  "2023-01-13": 55154,
-  "2023-01-14": 55297,
-  "2023-01-15": 55312,
-  "2023-01-16": 55390,
-  "2023-01-17": 55475,
-  "2023-01-18": 55549,
-  "2023-01-19": 55619,
-  "2023-01-20": 55665,
-  "2023-01-21": 55717,
-  "2023-01-22": 55793,
-  "2023-01-23": 55872,
-  "2023-01-24": 55941,
-  "2023-01-25": 56003,
-  "2023-01-26": 56070,
-  "2023-01-27": 56119,
-  "2023-01-28": 56167,
-  "2023-01-29": 56222,
-  "2023-01-30": 56283,
-  "2023-01-31": 56283,
-  "2023-02-01": 56396,
-  "2023-02-02": 56450,
-  "2023-02-03": 56521,
-  "2023-02-04": 56581,
-  "2023-02-05": 56640,
-  "2023-02-06": 56696,
-  "2023-02-07": 56752,
-  "2023-02-08": 56888,
-  "2023-02-09": 56888,
-  "2023-02-10": 56960,
-  "2023-02-11": 57008,
-  "2023-02-12": 57121,
-  "2023-02-13": 57166,
-  "2023-02-14": 57166,
-  "2023-02-15": 57216,
-  "2023-02-16": 57283,
-  "2023-02-17": 57340,
-  "2023-02-18": 57446,
-  "2023-02-19": 57450,
-  "2023-02-20": 57502,
-  "2023-02-21": 57578,
-  "2023-02-22": 57641,
-  "2023-02-23": 57714,
-  "2023-02-24": 57784,
-  "2023-02-25": 57868,
-  "2023-02-26": 57921,
-  "2023-02-27": 58098,
-  "2023-02-28": 58098,
-  "2023-03-01": 58186,
-  "2023-03-02": 58265,
-  "2023-03-03": 58337,
-  "2023-03-04": 58404,
-  "2023-03-05": 58526,
-  "2023-03-06": 58526,
-  "2023-03-07": 58602,
-  "2023-03-08": 58675,
-  "2023-03-09": 58740,
-  "2023-03-10": 58786,
-  "2023-03-11": 58840,
-  "2023-03-12": 58905,
-  "2023-03-13": 58967,
-  "2023-03-14": 59016,
-  "2023-03-15": 59074,
-  "2023-03-16": 59131,
-  "2023-03-17": 59131,
-  "2023-03-18": 59245,
-  "2023-03-19": 59296,
-  "2023-03-20": 59361,
-  "2023-03-21": 59402,
-  "2023-03-22": 59478,
-  "2023-03-23": 59542,
-  "2023-03-24": 59542,
-  "2023-03-25": 59641,
-  "2023-03-26": 59688,
-  "2023-03-27": 59739,
-  "2023-03-28": 59789,
-  "2023-03-29": 59855,
-  "2023-03-30": 59973,
-  "2023-03-31": 59973,
-  "2023-04-01": 60015,
-  "2023-04-02": 60063,
-  "2023-04-03": 60118,
-  "2023-04-04": 60174,
-  "2023-04-05": 60233,
-  "2023-04-06": 60286,
-  "2023-04-07": 60329,
-  "2023-04-09": 60434,
-  "2023-04-10": 60497,
-  "2023-04-11": 60602,
-  "2023-04-12": 60602,
-  "2023-04-13": 60652,
-  "2023-04-14": 60695,
-  "2023-04-15": 60753,
-  "2023-04-16": 60799,
-  "2023-04-17": 60864,
-  "2023-04-18": 60917,
-  "2023-04-19": 61037,
-  "2023-04-20": 61126,
-  "2023-04-21": 61190,
-  "2023-04-22": 61243,
-  "2023-04-23": 61285,
-  "2023-04-24": 61339,
-  "2023-04-25": 61406,
-  "2023-04-26": 61495,
-  "2023-04-27": 61573,
-  "2023-04-28": 61630,
-  "2023-04-29": 61685,
-  "2023-04-30": 61741,
-  "2023-05-01": 61789,
-  "2023-05-02": 61849,
-  "2023-05-03": 61902,
-  "2023-05-04": 61971,
-  "2023-05-05": 62014,
-  "2023-05-06": 62084,
-  "2023-05-07": 62149,
-  "2023-05-08": 62197,
-  "2023-05-09": 62270,
-  "2023-05-10": 62310,
-  "2023-05-11": 62362,
-  "2023-05-12": 62424,
-  "2023-05-13": 62464,
-  "2023-05-14": 62521,
-  "2023-05-15": 62575,
-  "2023-05-16": 62633,
-  "2023-05-17": 62681,
-  "2023-05-18": 62743,
-  "2023-05-19": 62807,
-  "2023-05-20": 62952,
-  "2023-05-21": 62952,
-  "2023-05-22": 62952,
-  "2023-05-23": 63058,
-  "2023-05-24": 63183,
-  "2023-05-25": 63203,
-  "2023-05-26": 63264,
-  "2023-05-27": 63317,
-  "2023-05-28": 63367,
-  "2023-05-29": 63367,
-  "2023-05-30": 63470,
-  "2023-05-31": 63520,
-  "2023-06-01": 63577,
-  "2023-06-02": 63640,
-  "2023-06-03": 63685,
-  "2023-06-04": 63728,
-  "2023-06-05": 63774,
-  "2023-06-06": 63837,
-  "2023-06-07": 63891,
-  "2023-06-08": 63933,
-  "2023-06-09": 63978,
-  "2023-06-10": 64013,
-  "2023-06-11": 64060,
-  "2023-06-12": 64095,
-  "2023-06-13": 64136,
-  "2023-06-14": 64179,
-  "2023-06-15": 64219,
-  "2023-06-16": 64278,
-  "2023-06-17": 64324,
-  "2023-06-18": 64345,
-  "2023-06-19": 64390,
-  "2023-06-20": 64438,
-  "2023-06-21": 64480,
-  "2023-06-22": 64537,
-  "2023-06-23": 64586,
-  "2023-06-24": 64627,
-  "2023-06-25": 64674,
-  "2023-06-26": 64727,
-  "2023-06-27": 64765,
-  "2023-06-28": 64809,
-  "2023-06-29": 64883,
-  "2023-06-30": 64952,
-  "2023-07-01": 65031,
-  "2023-07-02": 65031,
-  "2023-07-03": 65074,
-  "2023-07-04": 65130,
-  "2023-07-05": 65195,
-  "2023-07-06": 65304,
-  "2023-07-07": 65304,
-  "2023-07-08": 65353,
-  "2023-07-09": 65394,
-  "2023-07-10": 65433,
-  "2023-07-11": 65491,
-  "2023-07-12": 65540,
-  "2023-07-13": 65599,
-  "2023-07-14": 65633,
-  "2023-07-15": 65673,
-  "2023-07-16": 65717,
-  "2023-07-17": 65755,
-  "2023-07-18": 65803,
-  "2023-07-19": 65865,
-  "2023-07-20": 65899,
-  "2023-07-21": 65943,
-  "2023-07-22": 65983,
-  "2023-07-23": 66024,
-  "2023-07-24": 66091,
-  "2023-07-25": 66140,
-  "2023-07-26": 66177,
-  "2023-07-27": 66230,
-  "2023-07-28": 66284,
-  "2023-07-29": 66329,
-  "2023-07-30": 66382,
-  "2023-07-31": 66443,
-  "2023-08-01": 66493,
-  "2023-08-02": 66547,
-  "2023-08-03": 66591,
-  "2023-08-04": 66659,
-  "2023-08-05": 66704,
-  "2023-08-06": 66794,
-  "2023-08-07": 66794,
-  "2023-08-08": 66830,
-  "2023-08-09": 66900,
-  "2023-08-10": 66957,
-  "2023-08-11": 67002,
-  "2023-08-12": 67037,
-  "2023-08-13": 67095,
-  "2023-08-14": 67141,
-  "2023-08-15": 67283,
-  "2023-08-16": 67283,
-  "2023-08-17": 67327,
-  "2023-08-18": 67394,
-  "2023-08-19": 67448,
-  "2023-08-20": 67495,
-  "2023-08-21": 67548,
-  "2023-08-22": 67588,
-  "2023-08-23": 67629,
-  "2023-08-24": 67673,
-  "2023-08-25": 67724,
-  "2023-08-26": 67791,
-  "2023-08-27": 67832,
-  "2023-08-28": 67896,
-  "2023-08-29": 67946,
-  "2023-08-30": 68010,
-  "2023-08-31": 68059,
-  "2023-09-01": 68178,
-  "2023-09-02": 68178,
-  "2023-09-03": 68208,
-  "2023-09-04": 68274,
-  "2023-09-05": 68332,
-  "2023-09-06": 68392,
-  "2023-09-07": 68460,
-  "2023-09-08": 68510,
-  "2023-09-09": 68562,
-  "2023-09-10": 68614,
-  "2023-09-11": 68657,
-  "2023-09-12": 68716,
-  "2023-09-13": 68812,
-  "2023-09-14": 68879,
-  "2023-09-15": 68944,
-  "2023-09-16": 69006,
-  "2023-09-17": 69064,
-  "2023-09-18": 69144,
-  "2023-09-19": 69210,
-  "2023-09-20": 69257,
-  "2023-09-21": 69315,
-  "2023-09-22": 69386,
-  "2023-09-23": 69449,
-  "2023-09-24": 69518,
-  "2023-09-25": 69581,
-  "2023-09-26": 69661,
-  "2023-09-27": 69719,
-  "2023-09-28": 69783,
-  "2023-09-29": 69841,
-  "2023-09-30": 69915,
-  "2023-10-01": 69968,
-  "2023-10-02": 70012,
-  "2023-10-03": 70055,
-  "2023-10-04": 70124,
-  "2023-10-05": 70175,
-  "2023-10-06": 70238,
-  "2023-10-07": 70303,
-  "2023-10-08": 70382,
-  "2023-10-09": 70445,
-  "2023-10-10": 70522,
-  "2023-10-11": 70688,
-  "2023-10-12": 70688,
-  "2023-10-13": 70761,
-  "2023-10-14": 70761,
-  "2023-10-15": 70761,
-  "2023-10-16": 71013,
-  "2023-10-17": 71111,
-  "2023-10-18": 71183,
-  "2023-10-19": 71261,
-  "2023-10-20": 71325,
-  "2023-10-21": 71383,
-  "2023-10-22": 71383,
-  "2023-10-23": 71547,
-  "2023-10-24": 71640,
-  "2023-10-25": 71712,
-  "2023-10-26": 71811,
-  "2023-10-27": 71900,
-  "2023-10-28": 71900,
-  "2023-10-29": 71900,
-  "2023-10-30": 72159,
-  "2023-10-31": 72159,
-  "2023-11-01": 72334,
-  "2023-11-02": 72423,
-  "2023-11-03": 72496,
-  "2023-11-04": 72496,
-  "2023-11-05": 72496,
-  "2023-11-06": 72711,
-  "2023-11-07": 72777,
-  "2023-11-08": 72845,
-  "2023-11-09": 72845,
-  "2023-11-10": 72986,
-  "2023-11-11": 73053,
-  "2023-11-12": 73127,
-  "2023-11-13": 73202,
-  "2023-11-14": 73202,
-  "2023-11-15": 73202,
-  "2023-11-16": 73395,
-  "2023-11-17": 73552,
-  "2023-11-18": 73552,
-  "2023-11-19": 73625,
-  "2023-11-20": 73625,
-  "2023-11-21": 73794,
-  "2023-11-22": 73883,
-  "2023-11-23": 73949,
-  "2023-11-24": 73949,
-  "2023-11-25": 74084,
-  "2023-11-26": 74084,
-  "2023-11-27": 74229,
-  "2023-11-28": 74229,
-  "2023-11-29": 74431,
-  "2023-11-30": 74431,
-  "2023-12-01": 74431,
-  "2023-12-02": 74549,
-  "2023-12-03": 74549,
-  "2023-12-04": 74549,
-  "2023-12-05": 74742,
-  "2023-12-06": 74821,
-  "2023-12-07": 74821,
-  "2023-12-08": 74821,
-  "2023-12-09": 75058,
-  "2023-12-10": 75058,
-  "2023-12-11": 75237,
-  "2023-12-12": 75237,
-  "2023-12-13": 75444,
-  "2023-12-14": 75569,
-  "2023-12-15": 75631,
-  "2023-12-16": 75724,
-  "2023-12-17": 75814,
-  "2023-12-18": 75909,
-  "2023-12-19": 75964,
-  "2023-12-20": 76057,
-  "2023-12-21": 76141,
-  "2023-12-22": 76225,
-  "2023-12-23": 76307,
-  "2023-12-24": 76374,
-  "2023-12-25": 76436,
-  "2023-12-26": 76487,
-  "2023-12-27": 76566,
-  "2023-12-30": 76802,
-  "2023-12-31": 76878,
-  "2024-01-01": 76951,
-  "2024-01-02": 77032,
-  "2024-01-03": 77111
+  "2024-01-17": 78565,
+  "date_first_scraped": "2022-03-15",
+  "description": "Soothing ambient and Hang to gently focus the mind.",
+  "name": "Gentle Focus",
+  "tracks": [
+    {
+      "album": {
+        "name": "Yoga Hang Drum",
+        "url": "https://open.spotify.com/album/154ORcsSAZp2rfm6jNVJR5"
+      },
+      "artists": [
+        {
+          "name": "Yoga Tribe",
+          "url": "https://open.spotify.com/artist/3uC78ojWmi0c7NdLU7uwvY"
+        },
+        {
+          "name": "Mundo de La M\u00fasica de Yoga",
+          "url": "https://open.spotify.com/artist/6imCNh8DQt3uaC7CQ06fWP"
+        },
+        {
+          "name": "Healing Yoga",
+          "url": "https://open.spotify.com/artist/0mwUUXUbgDjH1jBYl4kPak"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242566,
+      "name": "# Hang Drum Music",
+      "url": "https://open.spotify.com/track/7umJ6ECMlonYX8B3FBp0ZV"
+    },
+    {
+      "album": {
+        "name": "12 Etudes, Op. 6: No. 5 in C Major, Andante (Arr. for Hang Drums)",
+        "url": "https://open.spotify.com/album/1RIqu721GBUc5zy8Rm83Zc"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Classical",
+          "url": "https://open.spotify.com/artist/3Th9HBTqk927JqfPOts6bU"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224000,
+      "name": "12 Etudes, Op. 6: No. 5 in C Major, Andante (Arr. for Hang Drums)",
+      "url": "https://open.spotify.com/track/5w0aNgkEK1ZFaneYoKfJX0"
+    },
+    {
+      "album": {
+        "name": "12 Etudes, Op. 6: No. 5 in C Major, Andante (Arr. for Hang Drums)",
+        "url": "https://open.spotify.com/album/56Mn53SjDLbBU2swa1P8My"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Classical",
+          "url": "https://open.spotify.com/artist/3Th9HBTqk927JqfPOts6bU"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "12 Etudes, Op. 6: No. 5 in C Major, Andante (Arr. for Hang Drums)",
+      "url": "https://open.spotify.com/track/7d11ZJ058PUTeTw8N3gQcu"
+    },
+    {
+      "album": {
+        "name": "432Hz Crystal Hang Drums - Spiritual Heal, Healing Hang Drum Music for Meditation, Stress Relief, Yoga & Spa",
+        "url": "https://open.spotify.com/album/3o5l4twlKReGOLCrKqRkOo"
+      },
+      "artists": [
+        {
+          "name": "432Hz Crystal Hang Drums",
+          "url": "https://open.spotify.com/artist/5KV0CZv14IBnVa26tSoOgz"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374408,
+      "name": "432Hz Crystal Clear Light",
+      "url": "https://open.spotify.com/track/2VacWaqYcTQZAPFWir3jos"
+    },
+    {
+      "album": {
+        "name": "A B S E N T I A",
+        "url": "https://open.spotify.com/album/0fdbdSzgctIY5uayuNTyYW"
+      },
+      "artists": [
+        {
+          "name": "Tempus Fugit Percussion Ensemble",
+          "url": "https://open.spotify.com/artist/38VFk9ODFiXZFH1knbI9f0"
+        },
+        {
+          "name": "Francesco Brianzi",
+          "url": "https://open.spotify.com/artist/59QoFNgV8EiF0ANQGrNOBI"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199630,
+      "name": "A B S E N T I A - Udu & Hang Solo",
+      "url": "https://open.spotify.com/track/33Q7gzXHp4DVXBgW5apr8o"
+    },
+    {
+      "album": {
+        "name": "Namaste India",
+        "url": "https://open.spotify.com/album/5Zgxs5Fp017z4HIwmHYDhd"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Player",
+          "url": "https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 137679,
+      "name": "A Few Days In Agra",
+      "url": "https://open.spotify.com/track/3tUjFJZuhBbK7lit91EQXh"
+    },
+    {
+      "album": {
+        "name": "Namaste India",
+        "url": "https://open.spotify.com/album/6WDRZUsetEsLfZ4edWFv4r"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Player",
+          "url": "https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137679,
+      "name": "A Few Days In Agra",
+      "url": "https://open.spotify.com/track/79lZUW7mXJ4e631dGCkvj7"
+    },
+    {
+      "album": {
+        "name": "A Peaceful Discovery",
+        "url": "https://open.spotify.com/album/7HGUGkjlxkzckpNwqPzFid"
+      },
+      "artists": [
+        {
+          "name": "Gadaragh",
+          "url": "https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147136,
+      "name": "A Peaceful Discovery",
+      "url": "https://open.spotify.com/track/6DwsfsHcR0WCdfXvNNR73H"
+    },
+    {
+      "album": {
+        "name": "Calm Upon You",
+        "url": "https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep"
+      },
+      "artists": [
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 213253,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/4adQ8bwjgVTuMbI7s9Ic4A"
+    },
+    {
+      "album": {
+        "name": "Pan Drum Meditation",
+        "url": "https://open.spotify.com/album/2YM4fOiLRRJzz8596nVDWg"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Meditation",
+          "url": "https://open.spotify.com/artist/5UAgX4YftBF7I3DqNKazf5"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496535,
+      "name": "Annapurna",
+      "url": "https://open.spotify.com/track/2xc2aLIqwG7QYmLGWLwq9t"
+    },
+    {
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75"
+      },
+      "artists": [
+        {
+          "name": "Yatao",
+          "url": "https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x"
+        },
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 294267,
+      "name": "Ashakiran",
+      "url": "https://open.spotify.com/track/3Y3fuuEtXqOFQGMdlmaFWe"
+    },
+    {
+      "album": {
+        "name": "Calm Upon You",
+        "url": "https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep"
+      },
+      "artists": [
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "Aya",
+      "url": "https://open.spotify.com/track/3Nn7evnh53trrJBA7AJgdr"
+    },
+    {
+      "album": {
+        "name": "Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music",
+        "url": "https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Music",
+          "url": "https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO"
+        },
+        {
+          "name": "The Hang Drum Project",
+          "url": "https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq"
+        },
+        {
+          "name": "Spa",
+          "url": "https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 115200,
+      "name": "Background Meditation Music",
+      "url": "https://open.spotify.com/track/40wI78ctH6qH8LBw75yHeB"
+    },
+    {
+      "album": {
+        "name": "Hang Drum Magic Sounds - Hang Meditation",
+        "url": "https://open.spotify.com/album/4CdAyO4TUZjEID6jiB8Nji"
+      },
+      "artists": [
+        {
+          "name": "Max Oro",
+          "url": "https://open.spotify.com/artist/2CAPIFgnXtwUqLiGUjBrTL"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223467,
+      "name": "Barcelona Center",
+      "url": "https://open.spotify.com/track/7uCplrMoNmNT5C1sma3aZA"
+    },
+    {
+      "album": {
+        "name": "Holy Handpan",
+        "url": "https://open.spotify.com/album/6ULFdNnafuvyojBgmEdwV8"
+      },
+      "artists": [
+        {
+          "name": "Drumkoon",
+          "url": "https://open.spotify.com/artist/6X9HMvCAb5RiZhcwekJLNY"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 135541,
+      "name": "Be Holy",
+      "url": "https://open.spotify.com/track/3uOEppFpfsXClSWeYoKt36"
+    },
+    {
+      "album": {
+        "name": "Handpan Greatest Hits Vol 2",
+        "url": "https://open.spotify.com/album/45582ORVhMsABgWbXCHA46"
+      },
+      "artists": [
+        {
+          "name": "Drumkoon",
+          "url": "https://open.spotify.com/artist/6X9HMvCAb5RiZhcwekJLNY"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 135542,
+      "name": "Be Holy",
+      "url": "https://open.spotify.com/track/2Kh81LoOytzS7KdApOoeHb"
+    },
+    {
+      "album": {
+        "name": "Voar Doce Lar (Original Handpan Soundtrack For Contemporary Art Exhibition)",
+        "url": "https://open.spotify.com/album/3H4C5wfdqlFtwDPupdarNG"
+      },
+      "artists": [
+        {
+          "name": "Luccas Martins",
+          "url": "https://open.spotify.com/artist/3dIbeBrKevt2r1OARXGVXV"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 113935,
+      "name": "Bem-Te-Vi",
+      "url": "https://open.spotify.com/track/00za85BhypeBW1cXkXzZDN"
+    },
+    {
+      "album": {
+        "name": "The Yoga Sessions",
+        "url": "https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG"
+      },
+      "artists": [
+        {
+          "name": "Masood Ali Khan",
+          "url": "https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497200,
+      "name": "Bhakti Gita",
+      "url": "https://open.spotify.com/track/4IT2BC9XfBic5lIhIA828Z"
+    },
+    {
+      "album": {
+        "name": "Breath of Life (Ambient Version)",
+        "url": "https://open.spotify.com/album/4tG5810LflwIHC76A1xo8r"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Frequencies",
+          "url": "https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137830,
+      "name": "Blissful State - Ambient Version",
+      "url": "https://open.spotify.com/track/07a1HrSL27oK4WOqD44sbK"
+    },
+    {
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL"
+      },
+      "artists": [
+        {
+          "name": "Ranjan E",
+          "url": "https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210778,
+      "name": "Bryophyta",
+      "url": "https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z"
+    },
+    {
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75"
+      },
+      "artists": [
+        {
+          "name": "Yatao",
+          "url": "https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x"
+        },
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516991,
+      "name": "C# Pygmy",
+      "url": "https://open.spotify.com/track/6Hxgat5RmLkRvctiIFDr0G"
+    },
+    {
+      "album": {
+        "name": "Calm Upon You",
+        "url": "https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep"
+      },
+      "artists": [
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301506,
+      "name": "Calm Upon You (Hang Solo)",
+      "url": "https://open.spotify.com/track/513r5uBhTWKwmyFyHLH812"
+    },
+    {
+      "album": {
+        "name": "Cloudy",
+        "url": "https://open.spotify.com/album/4IpD9tBjpYSqcOD702U1Tm"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rhahimi",
+          "url": "https://open.spotify.com/artist/3n7qMfthPFCbwNtyrWAtNv"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/2CIVH51v2nsuG1ATdm1lXq"
+    },
+    {
+      "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/5bQ31vPL6DlRcQ3Y8BHE3z"
+      },
+      "artists": [
+        {
+          "name": "HandpanSolo",
+          "url": "https://open.spotify.com/artist/2pOoggox0xym6qeDd6QStQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227748,
+      "name": "Day Dream",
+      "url": "https://open.spotify.com/track/4ySaCVsJqGuiMDinbNf4tU"
+    },
+    {
+      "album": {
+        "name": "Hang Drum Music - Relaxing Ambient for Meditation Yoga and Relax",
+        "url": "https://open.spotify.com/album/7pptSJSIxXsiAWFVeOl6kh"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Meditation Vibes",
+          "url": "https://open.spotify.com/artist/1ZxiigDh7uW74TuFXlb5WP"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Deep Breathe",
+      "url": "https://open.spotify.com/track/4lJEvmc9Ae4XjBABuHlbCH"
+    },
+    {
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/5uZ9dMjQ7WYbQngdA33vET"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Player",
+          "url": "https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165897,
+      "name": "Drishti",
+      "url": "https://open.spotify.com/track/1nzf2NBv5Yvdkc7EcvqgXQ"
+    },
+    {
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/7wmJodLJHok1hRhWvrlRWK"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Player",
+          "url": "https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 165897,
+      "name": "Drishti",
+      "url": "https://open.spotify.com/track/6FevNGOJBHBRJv8ktN7wUe"
+    },
+    {
+      "album": {
+        "name": "Hang Drums",
+        "url": "https://open.spotify.com/album/7IGTotJEFgwoM5F8zSzBLM"
+      },
+      "artists": [
+        {
+          "name": "Azure Lilly",
+          "url": "https://open.spotify.com/artist/2CQgGsLubijMyj1ANswVeo"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245204,
+      "name": "Duerme",
+      "url": "https://open.spotify.com/track/0yYcH4WBishYhqLUQFdBFu"
+    },
+    {
+      "album": {
+        "name": "Earth & Water",
+        "url": "https://open.spotify.com/album/1bw3dq86c51tQorS5btcpC"
+      },
+      "artists": [
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj"
+        },
+        {
+          "name": "Yatao",
+          "url": "https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588013,
+      "name": "Earth & Water",
+      "url": "https://open.spotify.com/track/2Jrcbq0SEjPu6HVoKjWj6l"
+    },
+    {
+      "album": {
+        "name": "Luminous Emptiness",
+        "url": "https://open.spotify.com/album/2XrJCq3Rkk9QIVOhp1UXW9"
+      },
+      "artists": [
+        {
+          "name": "Hang Massive",
+          "url": "https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497020,
+      "name": "End of Sky",
+      "url": "https://open.spotify.com/track/3ZWIwIfcvU0e7Hh42KXl5T"
+    },
+    {
+      "album": {
+        "name": "Luminous Emptiness",
+        "url": "https://open.spotify.com/album/7rSjXLmVEIKwvMHWuw7EBO"
+      },
+      "artists": [
+        {
+          "name": "Hang Massive",
+          "url": "https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 497020,
+      "name": "End of Sky",
+      "url": "https://open.spotify.com/track/4NRhB5OTb0KNxeV6yb5JP4"
+    },
+    {
+      "album": {
+        "name": "Sonic Blue - Ambient Hang Music",
+        "url": "https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Ohmer",
+          "url": "https://open.spotify.com/artist/5WqbDL1I1busS5YanO5z0k"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157928,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/2uwlMSZxMKjfmbhh1URY65"
+    },
+    {
+      "album": {
+        "name": "The Yoga Sessions",
+        "url": "https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG"
+      },
+      "artists": [
+        {
+          "name": "Masood Ali Khan",
+          "url": "https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410186,
+      "name": "Flowing Ganga",
+      "url": "https://open.spotify.com/track/7qDdIJ7a2LT0fuAYF8LHDi"
+    },
+    {
+      "album": {
+        "name": "Focus One",
+        "url": "https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1"
+      },
+      "artists": [
+        {
+          "name": "Yoro Kobuto",
+          "url": "https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211465,
+      "name": "Focus One",
+      "url": "https://open.spotify.com/track/3XbLt09x1IBDMPYDTFRZXM"
+    },
+    {
+      "album": {
+        "name": "Focus Two",
+        "url": "https://open.spotify.com/album/7oi4c1vozIIOMlIyntsTX5"
+      },
+      "artists": [
+        {
+          "name": "Yoro Kobuto",
+          "url": "https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190897,
+      "name": "Focus Two",
+      "url": "https://open.spotify.com/track/1QzxDJFcLRkin1CYdtFip1"
+    },
+    {
+      "album": {
+        "name": "Osmosis",
+        "url": "https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh"
+      },
+      "artists": [
+        {
+          "name": "Yatao",
+          "url": "https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x"
+        },
+        {
+          "name": "Alexander Mercks",
+          "url": "https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243326,
+      "name": "Follow The Sun - Osmosis Version",
+      "url": "https://open.spotify.com/track/0MlYCFWI0oduT11W6O8ptJ"
+    },
+    {
+      "album": {
+        "name": "Four Hands",
+        "url": "https://open.spotify.com/album/1trhsHyc6e8mgJrczNcpv0"
+      },
+      "artists": [
+        {
+          "name": "Malte Marten Konstantin R\u00f6ssler",
+          "url": "https://open.spotify.com/artist/3bDE5iUjo1oj7G6aNEKNs4"
+        },
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj"
+        },
+        {
+          "name": "Konstantin R\u00f6ssler",
+          "url": "https://open.spotify.com/artist/4qedSQHMODqYZOTF10C8le"
+        },
+        {
+          "name": "Yatao",
+          "url": "https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 737183,
+      "name": "Four Hands",
+      "url": "https://open.spotify.com/track/73VykcsEsmYRR5Dt05fOOe"
+    },
+    {
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75"
+      },
+      "artists": [
+        {
+          "name": "Yatao",
+          "url": "https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x"
+        },
+        {
+          "name": "Malte Marten",
+          "url": "https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 328308,
+      "name": "G Minor",
+      "url": "https://open.spotify.com/track/0ppLOssRHODtzfCC6MjC9b"
+    },
+    {
+      "album": {
+        "name": "Gentle Rhythms",
+        "url": "https://open.spotify.com/album/7HL6P1kM1b9LU4aaBcLMZI"
+      },
+      "artists": [
+        {
+          "name": "The Sky",
+          "url": "https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "Gentle Rhythms",
+      "url": "https://open.spotify.com/track/11dpbBP364SzOkNEqbClbl"
+    },
+    {
+      "album": {
+        "name": "Calm Upon You",
+        "url": "https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep"
+      },
+      "artists": [
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 191986,
+      "name": "Golden Eye",
+      "url": "https://open.spotify.com/track/1BlImCCSiLjejaci1xSkSb"
+    },
+    {
+      "album": {
+        "name": "Handpan Meditation",
+        "url": "https://open.spotify.com/album/2u3DomPFGlzlYXQp8LTog0"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Player",
+          "url": "https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295981,
+      "name": "Handpan Deep Meditation",
+      "url": "https://open.spotify.com/track/2R4BrD6q9nE4fCQF9nhV4t"
+    },
+    {
+      "album": {
+        "name": "Handpan Meditation",
+        "url": "https://open.spotify.com/album/1DjSqR5Jo3rFsXqpd4UKde"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Player",
+          "url": "https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295981,
+      "name": "Handpan Deep Meditation",
+      "url": "https://open.spotify.com/track/5htnDUjLYHnFWpeUEfY7lv"
+    },
+    {
+      "album": {
+        "name": "Handpan Reflections",
+        "url": "https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT"
+      },
+      "artists": [
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 202138,
+      "name": "Handpan Reflections",
+      "url": "https://open.spotify.com/track/5Oplr5YoFMB1Cl3hODMYG5"
+    },
+    {
+      "album": {
+        "name": "Hang Drums",
+        "url": "https://open.spotify.com/album/7IGTotJEFgwoM5F8zSzBLM"
+      },
+      "artists": [
+        {
+          "name": "Azure Lilly",
+          "url": "https://open.spotify.com/artist/2CQgGsLubijMyj1ANswVeo"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204774,
+      "name": "Hang Dream",
+      "url": "https://open.spotify.com/track/7rssQlMojcRhT7Dd5NNKqF"
+    },
+    {
+      "album": {
+        "name": "Hang Drum Music: Background Music For Spa, Massage, Yoga, Meditation, Mindfulness, Sleeping Music, Healing and Wellness",
+        "url": "https://open.spotify.com/album/7phDZ00m9XG0otmPhyhPB2"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Music",
+          "url": "https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO"
+        },
+        {
+          "name": "Spa",
+          "url": "https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX"
+        },
+        {
+          "name": "Hang Drum",
+          "url": "https://open.spotify.com/artist/06ar3VcFwsFQkQImv8ihDf"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141560,
+      "name": "Hang Drum",
+      "url": "https://open.spotify.com/track/0pszkvsrkiMGJiF8WlRFHu"
+    },
+    {
+      "album": {
+        "name": "Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music",
+        "url": "https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Music",
+          "url": "https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO"
+        },
+        {
+          "name": "The Hang Drum Project",
+          "url": "https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq"
+        },
+        {
+          "name": "Spa",
+          "url": "https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Hang Drum",
+      "url": "https://open.spotify.com/track/0sucxJLeLBOPo50O4awMku"
+    },
+    {
+      "album": {
+        "name": "Soulagement de la Douleur: Musique pour l'Anxi\u00e9t\u00e9, le Stress et la Col\u00e8re",
+        "url": "https://open.spotify.com/album/54oALMYwW8wYmrAOCmtjZJ"
+      },
+      "artists": [
+        {
+          "name": "Uplifting Music Specialists",
+          "url": "https://open.spotify.com/artist/1WtQ63JZxZZXDxabu4WNnl"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294243,
+      "name": "Hang Drum",
+      "url": "https://open.spotify.com/track/3itSredAoPAZQ5yW2pfEpG"
+    },
+    {
+      "album": {
+        "name": "Hang Out",
+        "url": "https://open.spotify.com/album/1C2bRiGQEWpFpFlJ3POOeG"
+      },
+      "artists": [
+        {
+          "name": "Katla Coman",
+          "url": "https://open.spotify.com/artist/77TN6MEciAddhmh5i3QlVd"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213187,
+      "name": "Hang Out",
+      "url": "https://open.spotify.com/track/30iytbuVmLAcB07iyTIoh4"
+    },
+    {
+      "album": {
+        "name": "Hangdrum Meditation",
+        "url": "https://open.spotify.com/album/3Bqc3cKLJo8O4VW3dxOIJI"
+      },
+      "artists": [
+        {
+          "name": "Moments Of Divinity",
+          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Hangdrum Meditation",
+      "url": "https://open.spotify.com/track/6rAgZR06iejAxUq8cpdEmN"
+    },
+    {
+      "album": {
+        "name": "Hangimba",
+        "url": "https://open.spotify.com/album/7CeEZ5Ci3qsveK8YC30orQ"
+      },
+      "artists": [
+        {
+          "name": "Hangimba Boy",
+          "url": "https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176875,
+      "name": "Hangimba",
+      "url": "https://open.spotify.com/track/2xG6eMBqaFVHkB0TtS4S4P"
+    },
+    {
+      "album": {
+        "name": "# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation",
+        "url": "https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Pro",
+          "url": "https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon"
+        },
+        {
+          "name": "Sounds Effects Academy",
+          "url": "https://open.spotify.com/artist/7mHb8vvFWhMlBlbuNeY8DX"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170287,
+      "name": "Harmony & Balance",
+      "url": "https://open.spotify.com/track/5TfL4ciYgo0tv89aTe1ZCk"
+    },
+    {
+      "album": {
+        "name": "Hollow Sphere",
+        "url": "https://open.spotify.com/album/3afn9cElA2dCZwhpcdMHP9"
+      },
+      "artists": [
+        {
+          "name": "Galtritandos",
+          "url": "https://open.spotify.com/artist/4QyQTLlakG31IZkXiacgpA"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156795,
+      "name": "Hollow Sphere",
+      "url": "https://open.spotify.com/track/2QucioZmCDIoiteQwueRoQ"
+    },
+    {
+      "album": {
+        "name": "Homeopat",
+        "url": "https://open.spotify.com/album/3KWiD2DPrTHR5XnJ5fDqp2"
+      },
+      "artists": [
+        {
+          "name": "Tian Taylor",
+          "url": "https://open.spotify.com/artist/0N6kUvm8XIRQd9G36AIuV1"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234749,
+      "name": "Homeopat",
+      "url": "https://open.spotify.com/track/1GvvgUzaFTeRGn7tCEs6R7"
+    },
+    {
+      "album": {
+        "name": "Atlas One",
+        "url": "https://open.spotify.com/album/5Vq540UmAvWuutX2uJI3ks"
+      },
+      "artists": [
+        {
+          "name": "Atlas Handpan",
+          "url": "https://open.spotify.com/artist/0leqbWOblVOTuK270ZDM0W"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 136082,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5ywfmESxQzrKS8FMIfUAfU"
+    },
+    {
+      "album": {
+        "name": "Beats for Your Feet",
+        "url": "https://open.spotify.com/album/554SueuROwZikUIy6PTVdz"
+      },
+      "artists": [
+        {
+          "name": "Hang Massive",
+          "url": "https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 276000,
+      "name": "Increasing Obviousness",
+      "url": "https://open.spotify.com/track/0NDw9Cof8cplOb2hsd4IDU"
+    },
+    {
+      "album": {
+        "name": "Beats For Your Feet",
+        "url": "https://open.spotify.com/album/0NaMIER6xY3GHitpaDZGE0"
+      },
+      "artists": [
+        {
+          "name": "Hang Massive",
+          "url": "https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Increasing Obviousness",
+      "url": "https://open.spotify.com/track/1LveNUDhcncCcovhBwWB8y"
+    },
+    {
+      "album": {
+        "name": "The Yoga Sessions",
+        "url": "https://open.spotify.com/album/4YTqKMK1dkLaPj6x9Um6BH"
+      },
+      "artists": [
+        {
+          "name": "Masood Ali Khan",
+          "url": "https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 354893,
+      "name": "Indu",
+      "url": "https://open.spotify.com/track/4UimAfSmis906EWI5ZrZgz"
+    },
+    {
+      "album": {
+        "name": "The Yoga Sessions",
+        "url": "https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG"
+      },
+      "artists": [
+        {
+          "name": "Masood Ali Khan",
+          "url": "https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 354893,
+      "name": "Indu",
+      "url": "https://open.spotify.com/track/4nX7uiHJD6xYxbuOim0w4T"
+    },
+    {
+      "album": {
+        "name": "Pan Drum Meditation",
+        "url": "https://open.spotify.com/album/2YM4fOiLRRJzz8596nVDWg"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Meditation",
+          "url": "https://open.spotify.com/artist/5UAgX4YftBF7I3DqNKazf5"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580312,
+      "name": "Inner Mantra",
+      "url": "https://open.spotify.com/track/7CNAkIV33z3pQnbVWXgPfX"
+    },
+    {
+      "album": {
+        "name": "Music for Hang",
+        "url": "https://open.spotify.com/album/4wQL5Z7ASoC4ZOgsqEPbfv"
+      },
+      "artists": [
+        {
+          "name": "Davide Swarup",
+          "url": "https://open.spotify.com/artist/6QOnII7AhBs2LR471krdEM"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144066,
+      "name": "Intermezzo 1",
+      "url": "https://open.spotify.com/track/3iZQ1x0ZCvLRXGMRxKdFss"
+    },
+    {
+      "album": {
+        "name": "Sonic Blue - Ambient Hang Music",
+        "url": "https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Ohmer",
+          "url": "https://open.spotify.com/artist/5WqbDL1I1busS5YanO5z0k"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375214,
+      "name": "Las Campanas",
+      "url": "https://open.spotify.com/track/1sPL3D9CRdGjLEy3JEW2Wh"
+    },
+    {
+      "album": {
+        "name": "Light Of The Soul",
+        "url": "https://open.spotify.com/album/2dgdX5c1bwMvsBnimSCF0W"
+      },
+      "artists": [
+        {
+          "name": "The Sky",
+          "url": "https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 70154,
+      "name": "Light Of The Soul",
+      "url": "https://open.spotify.com/track/4tGHegnuZnASI3Erc5dD4I"
+    },
+    {
+      "album": {
+        "name": "Handpan Sine Waves",
+        "url": "https://open.spotify.com/album/6SOToxXTm65n5Gu34cdI8V"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Social Club",
+          "url": "https://open.spotify.com/artist/1bLwFkNSiHweXb9pVkI5jE"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Lillehammer Tank Drummer",
+      "url": "https://open.spotify.com/track/4mBWzhiK0Ef1sfx34hU948"
+    },
+    {
+      "album": {
+        "name": "Colin Foulke",
+        "url": "https://open.spotify.com/album/7HoozmHpnQ4y19PeFm3fet"
+      },
+      "artists": [
+        {
+          "name": "Colin Foulke",
+          "url": "https://open.spotify.com/artist/0RYWntURHFeOzjDHq6I8sz"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228259,
+      "name": "Limonc\u00e9",
+      "url": "https://open.spotify.com/track/2lpUQ0OlxJZQvOSsCi5xQ6"
+    },
+    {
+      "album": {
+        "name": "Made In Silence 2",
+        "url": "https://open.spotify.com/album/6eX7cvtjM6YPh8dSeLz0pP"
+      },
+      "artists": [
+        {
+          "name": "Manu Delago",
+          "url": "https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126226,
+      "name": "Long story short",
+      "url": "https://open.spotify.com/track/1oetccXp1I11kKWplYV8tl"
+    },
+    {
+      "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS"
+      },
+      "artists": [
+        {
+          "name": "The Bay Man",
+          "url": "https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173944,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ"
+    },
+    {
+      "album": {
+        "name": "Meditativ Drum",
+        "url": "https://open.spotify.com/album/6Cip4eo1i9MWf1zKb2QIg9"
+      },
+      "artists": [
+        {
+          "name": "Rand Obaso",
+          "url": "https://open.spotify.com/artist/4llVuklNBhZLZsMwifLrIb"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Meditativ Drum",
+      "url": "https://open.spotify.com/track/64lhl2mI7xabkuA2ND0wxF"
+    },
+    {
+      "album": {
+        "name": "Yoru",
+        "url": "https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH"
+      },
+      "artists": [
+        {
+          "name": "Bunraku",
+          "url": "https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190442,
+      "name": "Mokk\u014d",
+      "url": "https://open.spotify.com/track/0bE1itBu6nBO7oy3X8L8Kr"
+    },
+    {
+      "album": {
+        "name": "Lana Asana",
+        "url": "https://open.spotify.com/album/4ALbFvHWOVj3NHLGLBVgGQ"
+      },
+      "artists": [
+        {
+          "name": "Lana Asana",
+          "url": "https://open.spotify.com/artist/5elsAk2VytQPxxvXU17qhs"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 116832,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/5WBokctXfaziw6WzQvlb8i"
+    },
+    {
+      "album": {
+        "name": "Ambient Motion",
+        "url": "https://open.spotify.com/album/7IYI6B0YtAV5kXpuyIOwTK"
+      },
+      "artists": [
+        {
+          "name": "Rand Obaso",
+          "url": "https://open.spotify.com/artist/4llVuklNBhZLZsMwifLrIb"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189979,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/6TWtWLKQ4uFVbQiNt3S6mD"
+    },
+    {
+      "album": {
+        "name": "Hang Drums",
+        "url": "https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG"
+      },
+      "artists": [
+        {
+          "name": "Tech Art",
+          "url": "https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184341,
+      "name": "Mystique",
+      "url": "https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz"
+    },
+    {
+      "album": {
+        "name": "Calm Upon You",
+        "url": "https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep"
+      },
+      "artists": [
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "News From New Zealand",
+      "url": "https://open.spotify.com/track/4p7AfmyhefTJPsddROdcaj"
+    },
+    {
+      "album": {
+        "name": "# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation",
+        "url": "https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Pro",
+          "url": "https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 195000,
+      "name": "Peaceful Dreams",
+      "url": "https://open.spotify.com/track/5ThS3qUQw06ccseUiritbO"
+    },
+    {
+      "album": {
+        "name": "Queen West Blues",
+        "url": "https://open.spotify.com/album/3AH157ouZcjjDiXQZO3BeW"
+      },
+      "artists": [
+        {
+          "name": "Vacant Cities",
+          "url": "https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141522,
+      "name": "Queen West Blues",
+      "url": "https://open.spotify.com/track/18Qmzx54JdUyR5jVq4HiUq"
+    },
+    {
+      "album": {
+        "name": "Inner Journeys - Solo Handpan 2019",
+        "url": "https://open.spotify.com/album/6Jyhhp8i7NAvcnAtER0Qwg"
+      },
+      "artists": [
+        {
+          "name": "Handpan Mystic Flow",
+          "url": "https://open.spotify.com/artist/4trNml03djbsrLqQWCbMnF"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 403383,
+      "name": "Relaxing Dream",
+      "url": "https://open.spotify.com/track/4oCJHP1NDd745pMlbNOEn2"
+    },
+    {
+      "album": {
+        "name": "Breath of Life",
+        "url": "https://open.spotify.com/album/5m5QieU8LlAgHmJH88z4iE"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Frequencies",
+          "url": "https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156878,
+      "name": "Restful Mind",
+      "url": "https://open.spotify.com/track/4Dpsk9JfsleuTxgkzXMMmV"
+    },
+    {
+      "album": {
+        "name": "Returning It All",
+        "url": "https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7"
+      },
+      "artists": [
+        {
+          "name": "Corrid",
+          "url": "https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148622,
+      "name": "Returning It All",
+      "url": "https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s"
+    },
+    {
+      "album": {
+        "name": "Osmosis",
+        "url": "https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh"
+      },
+      "artists": [
+        {
+          "name": "Yatao",
+          "url": "https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x"
+        },
+        {
+          "name": "Alexander Mercks",
+          "url": "https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 543322,
+      "name": "Rising From The Ashes",
+      "url": "https://open.spotify.com/track/7anrnbfm5R2A728nx8mICm"
+    },
+    {
+      "album": {
+        "name": "Urban",
+        "url": "https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1"
+      },
+      "artists": [
+        {
+          "name": "Kate Stone",
+          "url": "https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "River at Dawn",
+      "url": "https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE"
+    },
+    {
+      "album": {
+        "name": "Riverman Is My Friend",
+        "url": "https://open.spotify.com/album/0h8aAVp5LkTVYpD9rs4vDF"
+      },
+      "artists": [
+        {
+          "name": "Corrid",
+          "url": "https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147142,
+      "name": "Riverman Is My Friend",
+      "url": "https://open.spotify.com/track/21ULteEVcCRcLaR8o9AbIi"
+    },
+    {
+      "album": {
+        "name": "Rivers of Relief",
+        "url": "https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr"
+      },
+      "artists": [
+        {
+          "name": "Surrounding Life",
+          "url": "https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235875,
+      "name": "Rivers of Relief",
+      "url": "https://open.spotify.com/track/6ISH3ToV59LoriaqIOrwnw"
+    },
+    {
+      "album": {
+        "name": "Voar Doce Lar (Original Handpan Soundtrack For Contemporary Art Exhibition)",
+        "url": "https://open.spotify.com/album/3H4C5wfdqlFtwDPupdarNG"
+      },
+      "artists": [
+        {
+          "name": "Luccas Martins",
+          "url": "https://open.spotify.com/artist/3dIbeBrKevt2r1OARXGVXV"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172636,
+      "name": "Sabi\u00e1-Da-Praia",
+      "url": "https://open.spotify.com/track/40OZD3lGLXaKwQSG2lCha0"
+    },
+    {
+      "album": {
+        "name": "Great Bliss (The Cosmic Sounds and Magical Dreamscape of Hangpan)",
+        "url": "https://open.spotify.com/album/6qZZyULSyPxsHChJMBIfAI"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Massive",
+          "url": "https://open.spotify.com/artist/3lpZeqTTNu13wr7duqX8zb"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326197,
+      "name": "Sense of Pleasure",
+      "url": "https://open.spotify.com/track/4HcQNQSyeKObpGIA9toSkU"
+    },
+    {
+      "album": {
+        "name": "Urban",
+        "url": "https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1"
+      },
+      "artists": [
+        {
+          "name": "Kate Stone",
+          "url": "https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Singing Wok",
+      "url": "https://open.spotify.com/track/4GGyBcaGhqR7PfXZOLp38g"
+    },
+    {
+      "album": {
+        "name": "Journeys: Handpan Solo",
+        "url": "https://open.spotify.com/album/32VPq59sHG028ot4awVMUW"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Arndt",
+          "url": "https://open.spotify.com/artist/7KZzcubMLbaEJMPIHw9Q1T"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 236000,
+      "name": "Song of the Morning",
+      "url": "https://open.spotify.com/track/4fqfpPg6umah8ZSgCJtXtT"
+    },
+    {
+      "album": {
+        "name": "Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music",
+        "url": "https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Music",
+          "url": "https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO"
+        },
+        {
+          "name": "The Hang Drum Project",
+          "url": "https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq"
+        },
+        {
+          "name": "Spa",
+          "url": "https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Spa Relaxation",
+      "url": "https://open.spotify.com/track/61XlrBX0wIJNoTAzlNsCZx"
+    },
+    {
+      "album": {
+        "name": "# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation",
+        "url": "https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Pro",
+          "url": "https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Spiritual Journey",
+      "url": "https://open.spotify.com/track/1sBIlq2mIQCLVTiyp8RHIs"
+    },
+    {
+      "album": {
+        "name": "Handpan Reflections",
+        "url": "https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT"
+      },
+      "artists": [
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158809,
+      "name": "Stillness is Waiting",
+      "url": "https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo"
+    },
+    {
+      "album": {
+        "name": "Hang Drum Music - Relaxing Ambient for Meditation Yoga and Relax",
+        "url": "https://open.spotify.com/album/7pptSJSIxXsiAWFVeOl6kh"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Meditation Vibes",
+          "url": "https://open.spotify.com/artist/1ZxiigDh7uW74TuFXlb5WP"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 203304,
+      "name": "Stress Relief",
+      "url": "https://open.spotify.com/track/67QljIQJUbSx3KOJeADxex"
+    },
+    {
+      "album": {
+        "name": "Rivers of Relief",
+        "url": "https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr"
+      },
+      "artists": [
+        {
+          "name": "Surrounding Life",
+          "url": "https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295714,
+      "name": "Strings of Light",
+      "url": "https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9"
+    },
+    {
+      "album": {
+        "name": "# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation",
+        "url": "https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Pro",
+          "url": "https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 220000,
+      "name": "Summer Rain & Hang Drum Music",
+      "url": "https://open.spotify.com/track/4gEZ0XsMdFds3w1ApP4nOu"
+    },
+    {
+      "album": {
+        "name": "Everything But",
+        "url": "https://open.spotify.com/album/4buD9eE8dpFa3aIy9fHgcM"
+      },
+      "artists": [
+        {
+          "name": "Hangimba Boy",
+          "url": "https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195234,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3Mw806oScJ2C07uLn73vwK"
+    },
+    {
+      "album": {
+        "name": "Rivers of Relief",
+        "url": "https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr"
+      },
+      "artists": [
+        {
+          "name": "Surrounding Life",
+          "url": "https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 203543,
+      "name": "Surrounding Life",
+      "url": "https://open.spotify.com/track/7L5sWFYOj612vnU8mKRSjz"
+    },
+    {
+      "album": {
+        "name": "Kinesthesia",
+        "url": "https://open.spotify.com/album/4rEPvSbB1RhFTIOpmMxJFo"
+      },
+      "artists": [
+        {
+          "name": "Dante Bucci",
+          "url": "https://open.spotify.com/artist/7qJmBv91xsvhygHVtGLu72"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135175,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/4z2i0TktkIk8WNNC8YuDAC"
+    },
+    {
+      "album": {
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/64P6simDppkDLl2Wzx6iPh"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Player",
+          "url": "https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 128863,
+      "name": "Tank Drum Essence",
+      "url": "https://open.spotify.com/track/1rDL7N0X0hMn615FKcoCUe"
+    },
+    {
+      "album": {
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/38LjiEzUko7i5hXFXNOvG4"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Player",
+          "url": "https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 128863,
+      "name": "Tank Drum Essence",
+      "url": "https://open.spotify.com/track/6ovTtaokNAxG6R8uLeNe9x"
+    },
+    {
+      "album": {
+        "name": "The Hijjaz",
+        "url": "https://open.spotify.com/album/4kBLmUfi5LiczLHZ9H7KTJ"
+      },
+      "artists": [
+        {
+          "name": "SoulPan",
+          "url": "https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 83334,
+      "name": "The Hijjaz",
+      "url": "https://open.spotify.com/track/39fc1zEWJ7IGiayn0oNG62"
+    },
+    {
+      "album": {
+        "name": "Osmosis",
+        "url": "https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh"
+      },
+      "artists": [
+        {
+          "name": "Yatao",
+          "url": "https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x"
+        },
+        {
+          "name": "Alexander Mercks",
+          "url": "https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "The Mountains Within",
+      "url": "https://open.spotify.com/track/5tlJypzaF9RBrZp4gGavf4"
+    },
+    {
+      "album": {
+        "name": "Luminous Emptiness",
+        "url": "https://open.spotify.com/album/2XrJCq3Rkk9QIVOhp1UXW9"
+      },
+      "artists": [
+        {
+          "name": "Hang Massive",
+          "url": "https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537920,
+      "name": "The Secret Kissing of the Sun and Moon",
+      "url": "https://open.spotify.com/track/1NhPqxXnz8BDrsj9AE4oLT"
+    },
+    {
+      "album": {
+        "name": "Luminous Emptiness",
+        "url": "https://open.spotify.com/album/7rSjXLmVEIKwvMHWuw7EBO"
+      },
+      "artists": [
+        {
+          "name": "Hang Massive",
+          "url": "https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 537920,
+      "name": "The Secret Kissing of the Sun and Moon",
+      "url": "https://open.spotify.com/track/1xTMo9M0UWSarnMlRBCXXe"
+    },
+    {
+      "album": {
+        "name": "As It Is Once Agian",
+        "url": "https://open.spotify.com/album/0CcIsCt2Uner6Cnw8aVXmC"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Massive",
+          "url": "https://open.spotify.com/artist/3lpZeqTTNu13wr7duqX8zb"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374408,
+      "name": "Thingless Things",
+      "url": "https://open.spotify.com/track/0yCUFoLB1BY4QnTHlzz2Xl"
+    },
+    {
+      "album": {
+        "name": "Body & Soul, Soft Hang Drum Handpan Music",
+        "url": "https://open.spotify.com/album/0ZhgWncjXEANdlrP6KtyFR"
+      },
+      "artists": [
+        {
+          "name": "Meditation Tongue Drum & Hung Drum",
+          "url": "https://open.spotify.com/artist/5ngmSeapvmpZueCjwVC5jJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205350,
+      "name": "Tongue (Hang Drums)",
+      "url": "https://open.spotify.com/track/2BpwK0Bca8gAa0NsfcMoM3"
+    },
+    {
+      "album": {
+        "name": "Trancique Hang",
+        "url": "https://open.spotify.com/album/4zMNHtQL7ooHTh2V1jwmGG"
+      },
+      "artists": [
+        {
+          "name": "Yoga Sonique",
+          "url": "https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 119511,
+      "name": "Trancique Hang",
+      "url": "https://open.spotify.com/track/7fy6IqmJwXNBy6cHbSim08"
+    },
+    {
+      "album": {
+        "name": "Relaxing Hang Drum Music, Vol. 1",
+        "url": "https://open.spotify.com/album/0NQCluBtzA9t7OcLS3ak3H"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum",
+          "url": "https://open.spotify.com/artist/06ar3VcFwsFQkQImv8ihDf"
+        },
+        {
+          "name": "Hang Drum Music",
+          "url": "https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO"
+        },
+        {
+          "name": "Hang Drum Yoga",
+          "url": "https://open.spotify.com/artist/2UWTt2S5rPxtqrTFQpaKHc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Transcendental Hanpan",
+      "url": "https://open.spotify.com/track/5kdYzCfSnQreM4Yy4KBiLR"
+    },
+    {
+      "album": {
+        "name": "# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation",
+        "url": "https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W"
+      },
+      "artists": [
+        {
+          "name": "Hang Drum Pro",
+          "url": "https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187971,
+      "name": "Under the Blue Sky",
+      "url": "https://open.spotify.com/track/5LeobX1vuRcmKRU0tTRCj1"
+    },
+    {
+      "album": {
+        "name": "The Melody Within, Vol. 1",
+        "url": "https://open.spotify.com/album/06riU4SWaTMPHCfaL0ZvCB"
+      },
+      "artists": [
+        {
+          "name": "Kate Stone",
+          "url": "https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 481280,
+      "name": "Whispering Creek",
+      "url": "https://open.spotify.com/track/67X5pyBDjFjo2wvwcGHZiq"
+    },
+    {
+      "album": {
+        "name": "Hang Drums",
+        "url": "https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG"
+      },
+      "artists": [
+        {
+          "name": "Tech Art",
+          "url": "https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196708,
+      "name": "Winds Of Hope",
+      "url": "https://open.spotify.com/track/7Fk9G56CT7oAyqPRHCR54V"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXabek8EJisVH"
 }

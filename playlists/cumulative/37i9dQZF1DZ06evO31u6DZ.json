@@ -1253,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 195826,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
+    },
+    {
+      "album": {
         "name": "Still Searching",
         "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
       },

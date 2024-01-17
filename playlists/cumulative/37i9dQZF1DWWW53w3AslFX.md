@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-180 songs - 11 hr 41 min
+181 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [The Barrel \- Edit](https://open.spotify.com/track/5ptT7iorqwpxAtZzVuIei0) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 3:39 | 2021-06-15 | 2022-07-29 |
 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/1ErKzGtRz3WhZgsXsP7RJy) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/2uRdTrtChn1rvFkDmAtL8N) | 3:49 | 2021-06-15 | 2022-07-29 |
 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ) | 3:51 | 2021-06-15 |  |
-| [The Mysterious Vanishing of Electra](https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 6:08 | 2021-06-15 |  |
+| [The Mysterious Vanishing of Electra](https://open.spotify.com/track/6psEcKfHh1nDCDXOcyMO6I) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/6TwIgTmp0ntCzuc846KoXB) | 6:08 | 2021-06-15 |  |
+| [The Mysterious Vanishing of Electra](https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 6:08 | 2021-06-15 | 2024-01-12 |
 | [The Prettiest](https://open.spotify.com/track/03u5zk56QoyyjQxFIssTrb) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Night](https://open.spotify.com/album/4TChvo17exZYItxs4JnP99) | 3:18 | 2021-06-15 |  |
 | [The Prettiest](https://open.spotify.com/track/4OljDnP8tRv9rJFwXPH8gn) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [The Prettiest](https://open.spotify.com/album/1pd9FECCPVA5WrZgCIaN6h) | 3:18 | 2021-06-15 | 2022-11-13 |
 | [The Prettiest](https://open.spotify.com/track/7dE861EY0qaNmHVB0TFsDA) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Night](https://open.spotify.com/album/6WcX2Cg3WuGrHus20vTnbW) | 3:18 | 2021-06-15 | 2022-07-29 |

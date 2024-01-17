@@ -1,12 +1,12 @@
 {
   "description": "On Fleek: Adj. 1) a state of completeness and flawlessness [see: <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>]. Cover: Tyla",
-  "num_followers": 344107,
+  "num_followers": 340834,
   "original_name": "On Fleek",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzU2Miw2YmM1MjFmNDhiOWM3NWM1OGM0Yjk3NTg5OWU2MjY3ODE3Yjk3YWM0",
+  "snapshot_id": "MzU2OCxmZmI4ZjFlMzVmZTVmYjU3NDUxOTJmNzE1NjM4YjkxNTg4YTljNjgy",
   "tracks": [
     {
       "added_at": "2023-12-15 13:13:22",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-12-15 13:13:22",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-12-15 13:13:22",
+      "album": {
         "name": "Pit Stop (feat. French Montana)",
         "url": "https://open.spotify.com/album/6KwdG45dabKfLbbEFgEdCx"
       },
@@ -197,20 +213,20 @@
       "url": "https://open.spotify.com/track/4IobQL4j9hi0KdYoRFA4n9"
     },
     {
-      "added_at": "2023-12-15 13:13:22",
+      "added_at": "2024-01-12 15:00:56",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "best thing for me",
+        "url": "https://open.spotify.com/album/5u2VPya6pROsJYlXa3v0pm"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 146763,
+      "name": "best thing for me",
+      "url": "https://open.spotify.com/track/7cPYni8RIhjePdNSNxkVOZ"
     },
     {
       "added_at": "2023-12-15 13:13:22",
@@ -259,6 +275,22 @@
       "duration_ms": 184633,
       "name": "running water",
       "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
+    },
+    {
+      "added_at": "2024-01-12 15:01:17",
+      "album": {
+        "name": "Naughty + Wanna Love You",
+        "url": "https://open.spotify.com/album/6I4UTLON8myJP43oyluaMu"
+      },
+      "artists": [
+        {
+          "name": "H3rizon",
+          "url": "https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D"
+        }
+      ],
+      "duration_ms": 159979,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/16riImh0ERdUi9qQz4jimg"
     },
     {
       "added_at": "2023-12-15 13:13:22",
@@ -375,6 +407,26 @@
       "duration_ms": 113998,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/61KfU2AHAjgdJOCNPkJejw"
+    },
+    {
+      "added_at": "2024-01-12 15:01:40",
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/5qc3gDYnlSrZJv4niYR8Kd"
+      },
+      "artists": [
+        {
+          "name": "Akini Jing",
+          "url": "https://open.spotify.com/artist/2VtVHEiaBjDGzysvaO5tDH"
+        },
+        {
+          "name": "TeeZandos",
+          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/3ltI92dAwN1ogoZpko8FYY"
     },
     {
       "added_at": "2023-12-15 13:13:22",

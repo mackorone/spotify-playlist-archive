@@ -1,584 +1,4021 @@
 {
-  "2022-05-26": 18168,
-  "2022-05-27": 18170,
-  "2022-05-28": 18176,
-  "2022-05-29": 18176,
-  "2022-05-30": 18181,
-  "2022-05-31": 18184,
-  "2022-06-01": 18195,
-  "2022-06-02": 18197,
-  "2022-06-03": 18202,
-  "2022-06-04": 18205,
-  "2022-06-05": 18218,
-  "2022-06-06": 18222,
-  "2022-06-07": 18223,
-  "2022-06-08": 18230,
-  "2022-06-09": 18238,
-  "2022-06-10": 18242,
-  "2022-06-11": 18250,
-  "2022-06-12": 18262,
-  "2022-06-13": 18265,
-  "2022-06-14": 18268,
-  "2022-06-15": 18269,
-  "2022-06-16": 18272,
-  "2022-06-17": 18273,
-  "2022-06-18": 18276,
-  "2022-06-19": 18289,
-  "2022-06-20": 18289,
-  "2022-06-21": 18291,
-  "2022-06-22": 18303,
-  "2022-06-23": 18303,
-  "2022-06-24": 18307,
-  "2022-06-25": 18315,
-  "2022-06-26": 18317,
-  "2022-06-27": 18320,
-  "2022-06-28": 18322,
-  "2022-06-29": 18324,
-  "2022-06-30": 18330,
-  "2022-07-01": 18337,
-  "2022-07-02": 18349,
-  "2022-07-03": 18356,
-  "2022-07-04": 18360,
-  "2022-07-05": 18363,
-  "2022-07-06": 18366,
-  "2022-07-07": 18372,
-  "2022-07-08": 18388,
-  "2022-07-09": 18402,
-  "2022-07-10": 18416,
-  "2022-07-11": 18426,
-  "2022-07-12": 18448,
-  "2022-07-13": 18468,
-  "2022-07-14": 18477,
-  "2022-07-15": 18498,
-  "2022-07-16": 18519,
-  "2022-07-17": 18538,
-  "2022-07-18": 18553,
-  "2022-07-19": 18558,
-  "2022-07-20": 18582,
-  "2022-07-21": 18599,
-  "2022-07-22": 18607,
-  "2022-07-23": 18622,
-  "2022-07-24": 18632,
-  "2022-07-25": 18643,
-  "2022-07-26": 18648,
-  "2022-07-27": 18660,
-  "2022-07-28": 18675,
-  "2022-07-29": 18683,
-  "2022-07-30": 18714,
-  "2022-07-31": 18714,
-  "2022-08-01": 18725,
-  "2022-08-02": 18742,
-  "2022-08-03": 18742,
-  "2022-08-04": 18753,
-  "2022-08-05": 18770,
-  "2022-08-06": 18793,
-  "2022-08-07": 18809,
-  "2022-08-08": 18825,
-  "2022-08-09": 18843,
-  "2022-08-10": 18848,
-  "2022-08-11": 18856,
-  "2022-08-12": 18871,
-  "2022-08-13": 18892,
-  "2022-08-14": 18901,
-  "2022-08-15": 18910,
-  "2022-08-16": 18925,
-  "2022-08-17": 18941,
-  "2022-08-18": 18958,
-  "2022-08-19": 18973,
-  "2022-08-20": 18982,
-  "2022-08-21": 19011,
-  "2022-08-22": 19019,
-  "2022-08-23": 19038,
-  "2022-08-24": 19050,
-  "2022-08-25": 19064,
-  "2022-08-26": 19076,
-  "2022-08-27": 19088,
-  "2022-08-28": 19114,
-  "2022-08-29": 19122,
-  "2022-08-30": 19121,
-  "2022-08-31": 19124,
-  "2022-09-01": 19133,
-  "2022-09-02": 19143,
-  "2022-09-03": 19153,
-  "2022-09-04": 19153,
-  "2022-09-05": 19164,
-  "2022-09-06": 19181,
-  "2022-09-07": 19193,
-  "2022-09-09": 19228,
-  "2022-09-10": 19239,
-  "2022-09-11": 19248,
-  "2022-09-12": 19261,
-  "2022-09-13": 19267,
-  "2022-09-15": 19287,
-  "2022-09-16": 19295,
-  "2022-09-17": 19304,
-  "2022-09-18": 19315,
-  "2022-09-19": 19321,
-  "2022-09-20": 19334,
-  "2022-09-21": 19337,
-  "2022-09-22": 19353,
-  "2022-09-23": 19362,
-  "2022-09-24": 19378,
-  "2022-09-25": 19392,
-  "2022-09-26": 19398,
-  "2022-09-27": 19411,
-  "2022-09-28": 19455,
-  "2022-09-29": 19466,
-  "2022-09-30": 19469,
-  "2022-10-01": 19476,
-  "2022-10-02": 19484,
-  "2022-10-03": 19498,
-  "2022-10-04": 19507,
-  "2022-10-05": 19514,
-  "2022-10-06": 19527,
-  "2022-10-07": 19531,
-  "2022-10-08": 19535,
-  "2022-10-09": 19546,
-  "2022-10-10": 19544,
-  "2022-10-11": 19554,
-  "2022-10-12": 19561,
-  "2022-10-13": 19570,
-  "2022-10-14": 19576,
-  "2022-10-15": 19586,
-  "2022-10-16": 19594,
-  "2022-10-17": 19605,
-  "2022-10-18": 19609,
-  "2022-10-19": 19615,
-  "2022-10-20": 19616,
-  "2022-10-21": 19622,
-  "2022-10-22": 19627,
-  "2022-10-23": 19630,
-  "2022-10-24": 19639,
-  "2022-10-25": 19640,
-  "2022-10-26": 19646,
-  "2022-10-27": 19650,
-  "2022-10-28": 19654,
-  "2022-10-29": 19660,
-  "2022-10-30": 19667,
-  "2022-10-31": 19673,
-  "2022-11-01": 19676,
-  "2022-11-02": 19676,
-  "2022-11-03": 19679,
-  "2022-11-04": 19685,
-  "2022-11-05": 19687,
-  "2022-11-06": 19695,
-  "2022-11-07": 19708,
-  "2022-11-08": 19718,
-  "2022-11-09": 19719,
-  "2022-11-10": 19723,
-  "2022-11-11": 19730,
-  "2022-11-12": 19740,
-  "2022-11-13": 19742,
-  "2022-11-14": 19750,
-  "2022-11-15": 19753,
-  "2022-11-16": 19757,
-  "2022-11-17": 19759,
-  "2022-11-18": 19761,
-  "2022-11-19": 19759,
-  "2022-11-20": 19771,
-  "2022-11-21": 19768,
-  "2022-11-22": 19789,
-  "2022-11-23": 19787,
-  "2022-11-24": 19803,
-  "2022-11-25": 19811,
-  "2022-11-26": 19811,
-  "2022-11-27": 19820,
-  "2022-11-28": 19829,
-  "2022-11-29": 19832,
-  "2022-11-30": 19836,
-  "2022-12-01": 19842,
-  "2022-12-02": 19847,
-  "2022-12-03": 19857,
-  "2022-12-04": 19862,
-  "2022-12-05": 19867,
-  "2022-12-06": 19873,
-  "2022-12-07": 19874,
-  "2022-12-08": 19877,
-  "2022-12-09": 19877,
-  "2022-12-10": 19879,
-  "2022-12-11": 19879,
-  "2022-12-12": 19880,
-  "2022-12-13": 19886,
-  "2022-12-14": 19888,
-  "2022-12-15": 19891,
-  "2022-12-16": 19893,
-  "2022-12-17": 19899,
-  "2022-12-18": 19902,
-  "2022-12-19": 19908,
-  "2022-12-20": 19913,
-  "2022-12-21": 19913,
-  "2022-12-22": 19917,
-  "2022-12-24": 19925,
-  "2022-12-25": 19926,
-  "2022-12-26": 19929,
-  "2022-12-27": 19933,
-  "2022-12-28": 19936,
-  "2022-12-29": 19941,
-  "2022-12-30": 19950,
-  "2022-12-31": 19956,
-  "2023-01-01": 19964,
-  "2023-01-02": 19969,
-  "2023-01-03": 19973,
-  "2023-01-04": 19983,
-  "2023-01-05": 19991,
-  "2023-01-06": 19995,
-  "2023-01-07": 20005,
-  "2023-01-08": 20011,
-  "2023-01-09": 20026,
-  "2023-01-10": 20032,
-  "2023-01-11": 20036,
-  "2023-01-12": 20043,
-  "2023-01-13": 20046,
-  "2023-01-14": 20059,
-  "2023-01-15": 20064,
-  "2023-01-16": 20070,
-  "2023-01-17": 20080,
-  "2023-01-18": 20084,
-  "2023-01-19": 20088,
-  "2023-01-20": 20097,
-  "2023-01-21": 20106,
-  "2023-01-22": 20118,
-  "2023-01-23": 20123,
-  "2023-01-24": 20130,
-  "2023-01-25": 20138,
-  "2023-01-26": 20145,
-  "2023-01-27": 20158,
-  "2023-01-28": 20160,
-  "2023-01-29": 20163,
-  "2023-01-30": 20171,
-  "2023-01-31": 20171,
-  "2023-02-01": 20193,
-  "2023-02-02": 20191,
-  "2023-02-03": 20200,
-  "2023-02-04": 20215,
-  "2023-02-05": 20225,
-  "2023-02-06": 20235,
-  "2023-02-07": 20238,
-  "2023-02-08": 20254,
-  "2023-02-09": 20254,
-  "2023-02-10": 20261,
-  "2023-02-11": 20267,
-  "2023-02-12": 20280,
-  "2023-02-13": 20285,
-  "2023-02-14": 20285,
-  "2023-02-15": 20285,
-  "2023-02-16": 20292,
-  "2023-02-17": 20298,
-  "2023-02-18": 20307,
-  "2023-02-19": 20309,
-  "2023-02-20": 20312,
-  "2023-02-21": 20316,
-  "2023-02-22": 20320,
-  "2023-02-23": 20323,
-  "2023-02-24": 20325,
-  "2023-02-25": 20338,
-  "2023-02-26": 20345,
-  "2023-02-27": 20365,
-  "2023-02-28": 20365,
-  "2023-03-01": 20364,
-  "2023-03-02": 20370,
-  "2023-03-03": 20377,
-  "2023-03-04": 20381,
-  "2023-03-05": 20404,
-  "2023-03-06": 20404,
-  "2023-03-07": 20412,
-  "2023-03-08": 20415,
-  "2023-03-09": 20419,
-  "2023-03-10": 20418,
-  "2023-03-11": 20420,
-  "2023-03-12": 20425,
-  "2023-03-13": 20429,
-  "2023-03-14": 20430,
-  "2023-03-15": 20439,
-  "2023-03-16": 20445,
-  "2023-03-17": 20445,
-  "2023-03-18": 20464,
-  "2023-03-19": 20471,
-  "2023-03-20": 20481,
-  "2023-03-21": 20482,
-  "2023-03-22": 20486,
-  "2023-03-23": 20486,
-  "2023-03-24": 20486,
-  "2023-03-25": 20493,
-  "2023-03-26": 20503,
-  "2023-03-27": 20507,
-  "2023-03-28": 20514,
-  "2023-03-29": 20519,
-  "2023-03-30": 20531,
-  "2023-03-31": 20531,
-  "2023-04-01": 20541,
-  "2023-04-02": 20546,
-  "2023-04-03": 20549,
-  "2023-04-04": 20553,
-  "2023-04-05": 20557,
-  "2023-04-06": 20557,
-  "2023-04-07": 20575,
-  "2023-04-09": 20776,
-  "2023-04-10": 20866,
-  "2023-04-11": 21170,
-  "2023-04-12": 21170,
-  "2023-04-13": 21357,
-  "2023-04-14": 21498,
-  "2023-04-15": 21674,
-  "2023-04-16": 21873,
-  "2023-04-17": 22016,
-  "2023-04-18": 22168,
-  "2023-04-19": 22369,
-  "2023-04-20": 22545,
-  "2023-04-21": 22742,
-  "2023-04-22": 22906,
-  "2023-04-23": 23090,
-  "2023-04-24": 23269,
-  "2023-04-25": 23425,
-  "2023-04-26": 23576,
-  "2023-04-27": 23751,
-  "2023-04-28": 23890,
-  "2023-04-29": 24032,
-  "2023-04-30": 24204,
-  "2023-05-01": 24353,
-  "2023-05-02": 24494,
-  "2023-05-03": 24647,
-  "2023-05-04": 24781,
-  "2023-05-05": 24923,
-  "2023-05-06": 25082,
-  "2023-05-07": 25242,
-  "2023-05-08": 25388,
-  "2023-05-09": 25523,
-  "2023-05-10": 25673,
-  "2023-05-11": 25797,
-  "2023-05-12": 25925,
-  "2023-05-13": 26065,
-  "2023-05-14": 26194,
-  "2023-05-15": 26354,
-  "2023-05-16": 26481,
-  "2023-05-17": 26594,
-  "2023-05-18": 26755,
-  "2023-05-19": 26899,
-  "2023-05-20": 27193,
-  "2023-05-21": 27193,
-  "2023-05-22": 27193,
-  "2023-05-23": 27464,
-  "2023-05-24": 27669,
-  "2023-05-25": 27717,
-  "2023-05-26": 27890,
-  "2023-05-27": 28055,
-  "2023-05-28": 28209,
-  "2023-05-29": 28209,
-  "2023-05-30": 28455,
-  "2023-05-31": 28596,
-  "2023-06-01": 28755,
-  "2023-06-02": 28892,
-  "2023-06-03": 29054,
-  "2023-06-04": 29199,
-  "2023-06-05": 29369,
-  "2023-06-06": 29520,
-  "2023-06-07": 29668,
-  "2023-06-08": 29814,
-  "2023-06-09": 29944,
-  "2023-06-10": 30097,
-  "2023-06-11": 30241,
-  "2023-06-12": 30382,
-  "2023-06-13": 30519,
-  "2023-06-14": 30652,
-  "2023-06-15": 30787,
-  "2023-06-16": 30896,
-  "2023-06-17": 31032,
-  "2023-06-18": 31179,
-  "2023-06-19": 31330,
-  "2023-06-20": 31468,
-  "2023-06-21": 31597,
-  "2023-06-22": 31695,
-  "2023-06-23": 31821,
-  "2023-06-24": 31966,
-  "2023-06-25": 32102,
-  "2023-06-26": 32252,
-  "2023-06-27": 32383,
-  "2023-06-28": 32493,
-  "2023-06-29": 32614,
-  "2023-06-30": 32745,
-  "2023-07-01": 32999,
-  "2023-07-02": 32999,
-  "2023-07-03": 33110,
-  "2023-07-04": 33213,
-  "2023-07-05": 33347,
-  "2023-07-06": 33579,
-  "2023-07-07": 33579,
-  "2023-07-08": 33718,
-  "2023-07-09": 33836,
-  "2023-07-10": 33977,
-  "2023-07-11": 34089,
-  "2023-07-12": 34206,
-  "2023-07-13": 34312,
-  "2023-07-14": 34454,
-  "2023-07-15": 34536,
-  "2023-07-16": 34708,
-  "2023-07-17": 34837,
-  "2023-07-18": 34957,
-  "2023-07-19": 35104,
-  "2023-07-20": 35222,
-  "2023-07-21": 35349,
-  "2023-07-22": 35467,
-  "2023-07-23": 35586,
-  "2023-07-24": 35710,
-  "2023-07-25": 35814,
-  "2023-07-26": 35929,
-  "2023-07-27": 36044,
-  "2023-07-28": 36140,
-  "2023-07-29": 36301,
-  "2023-07-30": 36415,
-  "2023-07-31": 36501,
-  "2023-08-01": 36594,
-  "2023-08-02": 36694,
-  "2023-08-03": 36815,
-  "2023-08-04": 36948,
-  "2023-08-05": 37064,
-  "2023-08-06": 37269,
-  "2023-08-07": 37269,
-  "2023-08-08": 37371,
-  "2023-08-09": 37506,
-  "2023-08-10": 37595,
-  "2023-08-11": 37706,
-  "2023-08-12": 37816,
-  "2023-08-13": 37935,
-  "2023-08-14": 38039,
-  "2023-08-15": 38272,
-  "2023-08-16": 38272,
-  "2023-08-17": 38381,
-  "2023-08-18": 38500,
-  "2023-08-19": 38598,
-  "2023-08-20": 38707,
-  "2023-08-21": 38793,
-  "2023-08-22": 38878,
-  "2023-08-23": 38980,
-  "2023-08-24": 39078,
-  "2023-08-25": 39168,
-  "2023-08-26": 39247,
-  "2023-08-27": 39319,
-  "2023-08-28": 39423,
-  "2023-08-29": 39501,
-  "2023-08-30": 39587,
-  "2023-08-31": 39683,
-  "2023-09-01": 39853,
-  "2023-09-02": 39853,
-  "2023-09-03": 39937,
-  "2023-09-04": 40021,
-  "2023-09-05": 40132,
-  "2023-09-06": 40219,
-  "2023-09-07": 40302,
-  "2023-09-08": 40390,
-  "2023-09-09": 40479,
-  "2023-09-10": 40580,
-  "2023-09-11": 40653,
-  "2023-09-12": 40734,
-  "2023-09-13": 40818,
-  "2023-09-14": 40909,
-  "2023-09-15": 40991,
-  "2023-09-16": 41079,
-  "2023-09-17": 41156,
-  "2023-09-18": 41223,
-  "2023-09-19": 41300,
-  "2023-09-20": 41354,
-  "2023-09-21": 41432,
-  "2023-09-22": 41518,
-  "2023-09-23": 41588,
-  "2023-09-24": 41701,
-  "2023-09-25": 41781,
-  "2023-09-26": 41849,
-  "2023-09-27": 41890,
-  "2023-09-28": 41977,
-  "2023-09-29": 42057,
-  "2023-09-30": 42143,
-  "2023-10-01": 42221,
-  "2023-10-02": 42285,
-  "2023-10-03": 42339,
-  "2023-10-04": 42425,
-  "2023-10-05": 42508,
-  "2023-10-06": 42599,
-  "2023-10-07": 42674,
-  "2023-10-08": 42737,
-  "2023-10-09": 42802,
-  "2023-10-10": 42852,
-  "2023-10-11": 42920,
-  "2023-10-12": 42920,
-  "2023-10-13": 42965,
-  "2023-10-14": 43026,
-  "2023-10-15": 43090,
-  "2023-10-16": 43138,
-  "2023-10-17": 43183,
-  "2023-10-18": 43244,
-  "2023-10-19": 43304,
-  "2023-10-20": 43367,
-  "2023-10-21": 43424,
-  "2023-10-22": 43492,
-  "2023-10-23": 43536,
-  "2023-10-24": 43566,
-  "2023-10-25": 43623,
-  "2023-10-26": 43669,
-  "2023-10-27": 43717,
-  "2023-10-28": 43774,
-  "2023-10-29": 43824,
-  "2023-10-30": 43919,
-  "2023-10-31": 43919,
-  "2023-11-01": 43963,
-  "2023-11-02": 44006,
-  "2023-11-03": 44065,
-  "2023-11-04": 44122,
-  "2023-11-05": 44182,
-  "2023-11-06": 44230,
-  "2023-11-07": 44277,
-  "2023-11-08": 44324,
-  "2023-11-09": 44372,
-  "2023-11-10": 44424,
-  "2023-11-11": 44472,
-  "2023-11-12": 44506,
-  "2023-11-13": 44545,
-  "2023-11-14": 44587,
-  "2023-11-15": 44587,
-  "2023-11-16": 44656,
-  "2023-11-17": 44763,
-  "2023-11-18": 44763,
-  "2023-11-19": 44822,
-  "2023-11-20": 44863,
-  "2023-11-21": 44933,
-  "2023-11-22": 44990,
-  "2023-11-23": 45046,
-  "2023-11-24": 45088,
-  "2023-11-25": 45143,
-  "2023-11-26": 45191,
-  "2023-11-27": 45245,
-  "2023-11-28": 45295,
-  "2023-11-29": 45400,
-  "2023-11-30": 45400,
-  "2023-12-01": 45443,
-  "2023-12-02": 45501,
-  "2023-12-03": 45560,
-  "2023-12-04": 45603,
-  "2023-12-05": 45627,
-  "2023-12-06": 45670,
-  "2023-12-07": 45710,
-  "2023-12-08": 45764,
-  "2023-12-09": 45807,
-  "2023-12-10": 45859,
-  "2023-12-11": 45888,
-  "2023-12-12": 45919,
-  "2023-12-13": 45964,
-  "2023-12-14": 46021,
-  "2023-12-15": 46053,
-  "2023-12-16": 46096,
-  "2023-12-17": 46139,
-  "2023-12-18": 46171,
-  "2023-12-19": 46208,
-  "2023-12-20": 46231,
-  "2023-12-21": 46266,
-  "2023-12-22": 46320,
-  "2023-12-23": 46385,
-  "2023-12-24": 46442,
-  "2023-12-25": 46471,
-  "2023-12-26": 46511,
-  "2023-12-27": 46552,
-  "2023-12-30": 46694,
-  "2023-12-31": 46739,
-  "2024-01-01": 46796,
-  "2024-01-02": 46845,
-  "2024-01-03": 46892
+  "2024-01-17": 47587,
+  "date_first_scraped": "2022-05-26",
+  "description": "Hand-picked tasty jams. Cover: Grateful Dead",
+  "name": "The Lot",
+  "tracks": [
+    {
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/3uOfnqftoRxFRFdN5apxrV"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 279866,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/2dIrHo3O098GTk9mXbtvJY"
+    },
+    {
+      "album": {
+        "name": "Fire Up +",
+        "url": "https://open.spotify.com/album/2b85gbWiMbAg3cvSUTMIBp"
+      },
+      "artists": [
+        {
+          "name": "Merl Saunders & Friends",
+          "url": "https://open.spotify.com/artist/26POJcl5jnzRLyjqaHh4sX"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301400,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/0UULEN8LeXBFZ15CbtTHgR"
+    },
+    {
+      "album": {
+        "name": "Fire Up+",
+        "url": "https://open.spotify.com/album/3JB5LZ1GmhjNrAgsxyuyaj"
+      },
+      "artists": [
+        {
+          "name": "Merl Saunders & Friends",
+          "url": "https://open.spotify.com/artist/26POJcl5jnzRLyjqaHh4sX"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301400,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/5UQgcdlrvmsqBBkCOBTneY"
+    },
+    {
+      "album": {
+        "name": "Panic In The Streets",
+        "url": "https://open.spotify.com/album/1UUPtw3PZq3wwzoJSnI7Bv"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 327226,
+      "name": "Ain't Life Grand",
+      "url": "https://open.spotify.com/track/6edQzVmqAMVXrQMdHSRZez"
+    },
+    {
+      "album": {
+        "name": "We're All Gonna Live",
+        "url": "https://open.spotify.com/album/6EcOXh4NhGg7oqwStcQn1a"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 269393,
+      "name": "All Your Favorite Bands (Live From An Evening With Dawes)",
+      "url": "https://open.spotify.com/track/2OPFkmOev87CEcpqvZKgcS"
+    },
+    {
+      "album": {
+        "name": "Blues Traveler",
+        "url": "https://open.spotify.com/album/61HjwbPeZTesnKzkB2HPoN"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453466,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/05JpFEZhkJxHhuZOoD7uOx"
+    },
+    {
+      "album": {
+        "name": "The Essential Widespread Panic",
+        "url": "https://open.spotify.com/album/1GwHQg5DG67OYRFWQN2C1f"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 341520,
+      "name": "And It Stoned Me",
+      "url": "https://open.spotify.com/track/49TGvdrSIBq8mwrzZPinfd"
+    },
+    {
+      "album": {
+        "name": "Hall of Fame: Class of 2017",
+        "url": "https://open.spotify.com/album/0rHtwrLAXg1bbvNt4mo1VK"
+      },
+      "artists": [
+        {
+          "name": "Umphrey's McGee",
+          "url": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 916010,
+      "name": "Another Brick in the Wall (01.20.17 Richmond, Virginia) [Live]",
+      "url": "https://open.spotify.com/track/1GVX7DBJLCVmW1TwfoZvvO"
+    },
+    {
+      "album": {
+        "name": "Live At Piedmont Park",
+        "url": "https://open.spotify.com/album/5cNEE4N7x6plGT3Cj8cUZu"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494733,
+      "name": "Ants Marching - Live At Piedmont Park, Atlanta, GA - September 2007",
+      "url": "https://open.spotify.com/track/0702UFFKmAb5ruI1qeIaVV"
+    },
+    {
+      "album": {
+        "name": "Alive and Well",
+        "url": "https://open.spotify.com/album/6TUsfjLX8cqnafBy3p33Iu"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 571894,
+      "name": "Arcadia (7.27.19)",
+      "url": "https://open.spotify.com/track/04URvEZO64eHmywq9nyqKd"
+    },
+    {
+      "album": {
+        "name": "Alive and Well (Live)",
+        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571894,
+      "name": "Arcadia - Live, 7.27.19",
+      "url": "https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ"
+    },
+    {
+      "album": {
+        "name": "Computer Games",
+        "url": "https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav"
+      },
+      "artists": [
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 287106,
+      "name": "Atomic Dog",
+      "url": "https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 463653,
+      "name": "Away From The Mire",
+      "url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T"
+    },
+    {
+      "album": {
+        "name": "Just A Poke / Darkness To Light",
+        "url": "https://open.spotify.com/album/4TvspgPQpOYUlNDC1GFbIJ"
+      },
+      "artists": [
+        {
+          "name": "Sweet Smoke",
+          "url": "https://open.spotify.com/artist/0AFVYhgHSbn9LBIDPU6dTQ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 994066,
+      "name": "Baby Night - Remastered 2000",
+      "url": "https://open.spotify.com/track/2vIxU6h888VLdyy7PjYRB8"
+    },
+    {
+      "album": {
+        "name": "Live at Madison Square Garden",
+        "url": "https://open.spotify.com/album/5KmXBjpN0wHutYBoDJBxmM"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Theo Katzman",
+          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 313166,
+      "name": "Back Pocket (Live at Madison Square Garden)",
+      "url": "https://open.spotify.com/track/4xDXI3fPhYpuGUJJJQEfeh"
+    },
+    {
+      "album": {
+        "name": "Trouble No More: 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1hfrh3FDeg6m6opGR1PrT6"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550240,
+      "name": "Back Where It All Begins",
+      "url": "https://open.spotify.com/track/1me0KBXfvJ53y9f8KfIdjF"
+    },
+    {
+      "album": {
+        "name": "Fly Between Falls",
+        "url": "https://open.spotify.com/album/22gD4oyFnBAXsHPo2GnI6d"
+      },
+      "artists": [
+        {
+          "name": "ALO",
+          "url": "https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 241666,
+      "name": "Barbeque",
+      "url": "https://open.spotify.com/track/7AxI5HuiZ0y5pRvt7VGzjz"
+    },
+    {
+      "album": {
+        "name": "Live at the Drive-In",
+        "url": "https://open.spotify.com/album/5QjI51hjeUOgNlDVORpdRz"
+      },
+      "artists": [
+        {
+          "name": "Spafford",
+          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 453000,
+      "name": "Beautiful Day (Live)",
+      "url": "https://open.spotify.com/track/6AervvjbKjpQIi8UJEkVVD"
+    },
+    {
+      "album": {
+        "name": "Workingman's Dead (50th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4m3LKjFymPkRQeST1KEbT0"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371944,
+      "name": "Bertha (Live at the Capitol Theatre, Port Chester, NY 2/21/1971) - 2020 Remaster",
+      "url": "https://open.spotify.com/track/60WbFKEF7bdhp1xtShZTcw"
+    },
+    {
+      "album": {
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311703,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH"
+    },
+    {
+      "album": {
+        "name": "Bowlive - Live at the Brooklyn Bowl",
+        "url": "https://open.spotify.com/album/2dDDKQI6TzazEGngAC8RyV"
+      },
+      "artists": [
+        {
+          "name": "Soulive",
+          "url": "https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 420000,
+      "name": "Born Under A Bad Sign ft Warren Haynes, Nigel Hall & DJ Logic",
+      "url": "https://open.spotify.com/track/74faBBtXuF4gzCF7jnGkKT"
+    },
+    {
+      "album": {
+        "name": "The End of the Game (Expanded)",
+        "url": "https://open.spotify.com/album/3owsPmXv3QbMk5iROMRAnj"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541893,
+      "name": "Bottoms Up",
+      "url": "https://open.spotify.com/track/1KBjcNiDHKpJmdOfmqFMCs"
+    },
+    {
+      "album": {
+        "name": "A Live One",
+        "url": "https://open.spotify.com/album/4UTjy2dLYT8i8ItyboijlW"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "Bouncing Around the Room - Live Version - Clifford Ball, 1994",
+      "url": "https://open.spotify.com/track/639B1pi6YZJvLMA1DAzYTo"
+    },
+    {
+      "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/5nw59E0AufsmINH30cTzW5"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 330986,
+      "name": "Bound for Glory (Live In Studio)",
+      "url": "https://open.spotify.com/track/23YaFBDmvuu44dImXjtCfF"
+    },
+    {
+      "album": {
+        "name": "Gary Clark Jr. Live",
+        "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 506573,
+      "name": "Bright Lights - Live",
+      "url": "https://open.spotify.com/track/2kP7pQr1l9ZKmHVCZhGltp"
+    },
+    {
+      "album": {
+        "name": "Bring On The Music: Live at The Capitol Theatre, Pt. 2",
+        "url": "https://open.spotify.com/album/2X0FEnoBAzTxoku5tJ15S5"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 594586,
+      "name": "Bring On The Music (Live)",
+      "url": "https://open.spotify.com/track/1ecdUgcdxR8cMGKfZj0FcJ"
+    },
+    {
+      "album": {
+        "name": "Bring On The Music: Live at The Capitol Theatre, Pt. 2",
+        "url": "https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 594586,
+      "name": "Bring On The Music - Live",
+      "url": "https://open.spotify.com/track/5IJbz6xC0KChGOjKyP1m33"
+    },
+    {
+      "album": {
+        "name": "Europe '72 Vol. 21: Lyceum Theatre, London, England 5/25/72 (Live)",
+        "url": "https://open.spotify.com/album/29pkQOWIBGGFD1EncVkILn"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 397120,
+      "name": "Brokedown Palace - Live at the Lyceum, London, England 5/25/1972",
+      "url": "https://open.spotify.com/track/0emJjGjg7w5AQXlObFREhk"
+    },
+    {
+      "album": {
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        },
+        {
+          "name": "David Nelson",
+          "url": "https://open.spotify.com/artist/6qoEKjPZFZjv9kIzGNLlxO"
+        },
+        {
+          "name": "Debbie Eisenberg",
+          "url": "https://open.spotify.com/artist/58RFoUxMW1bvyj5SB7SVmx"
+        },
+        {
+          "name": "Marma-Duke",
+          "url": "https://open.spotify.com/artist/6uU5g1lLEfJM9BnUQCUCXr"
+        },
+        {
+          "name": "Merle Saunders",
+          "url": "https://open.spotify.com/artist/09uBVu0MVp8f1NO2LI12O9"
+        },
+        {
+          "name": "Mouse",
+          "url": "https://open.spotify.com/artist/6ajYY1loyKdWGmGlqCUeo3"
+        },
+        {
+          "name": "Pete Grant",
+          "url": "https://open.spotify.com/artist/5yUtkqTCExz039AeK2Zy8j"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/6s5SwRJbzC8r9yo7CUiapA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277866,
+      "name": "Brown Eyed Women - Live in Denmark, 1972; 2001 Remaster",
+      "url": "https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4"
+    },
+    {
+      "album": {
+        "name": "None's A Ton: A Turkuaz Live Concert Film Soundtrack",
+        "url": "https://open.spotify.com/album/1GDGU2nujm9zrlPVKfxKB0"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 470050,
+      "name": "Bubba Slide - Live",
+      "url": "https://open.spotify.com/track/72O4KMdP1dbAlZWj8ZXf6o"
+    },
+    {
+      "album": {
+        "name": "Shack-man",
+        "url": "https://open.spotify.com/album/7zGVnFiNNe6rvoPutZPCBe"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Bubblehouse",
+      "url": "https://open.spotify.com/track/2YtX5xh7y5FoQywRmsGCeK"
+    },
+    {
+      "album": {
+        "name": "Live From The Fall",
+        "url": "https://open.spotify.com/album/52LFpW06z2rStTaLi2lLdV"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 355466,
+      "name": "But Anyway",
+      "url": "https://open.spotify.com/track/53CDF8tNp4WdTUBgAfqhAR"
+    },
+    {
+      "album": {
+        "name": "Cats Under the Stars (Expanded)",
+        "url": "https://open.spotify.com/album/4yMdFHGZTkXQsU4M55VjeZ"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "Cats Under The Stars",
+      "url": "https://open.spotify.com/track/5s6gA3IQTbVqv8utc5jVcn"
+    },
+    {
+      "album": {
+        "name": "Trey Anastasio (U.S. Version)",
+        "url": "https://open.spotify.com/album/60nWHPqGvWIUrzniNvVAub"
+      },
+      "artists": [
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255933,
+      "name": "Cayman Review",
+      "url": "https://open.spotify.com/track/2XXGM19E3Zp32Tkr0S4vEA"
+    },
+    {
+      "album": {
+        "name": "The Baker's Dozen: Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/2b44uUnUGLSEv5cHeZJmNq"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1445506,
+      "name": "Chalk Dust Torture (Live) - 7/28/17 Chocolate",
+      "url": "https://open.spotify.com/track/2o5CwcwWsxLY6N6jB6RArZ"
+    },
+    {
+      "album": {
+        "name": "Circuital",
+        "url": "https://open.spotify.com/album/6CEe43cNzYyvRwHoRR2wFM"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 439680,
+      "name": "Circuital",
+      "url": "https://open.spotify.com/track/2j6LtwpubSwkfiFZrhSwDA"
+    },
+    {
+      "album": {
+        "name": "The Meters",
+        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 186853,
+      "name": "Cissy Strut",
+      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
+    },
+    {
+      "album": {
+        "name": "Live Phish: 8/6/10 Greek Theatre, Berkeley, CA",
+        "url": "https://open.spotify.com/album/6dM2HUC6HVRxCp2UQYylRT"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 437000,
+      "name": "Cities",
+      "url": "https://open.spotify.com/track/7uSZCvNq8JbmRweAFBmkqn"
+    },
+    {
+      "album": {
+        "name": "11/17/98 Calvin Theatre, Northampton, MA",
+        "url": "https://open.spotify.com/album/02BIsMTC3oRpFYCVld4fk3"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437691,
+      "name": "Climb to Safety",
+      "url": "https://open.spotify.com/track/5rd5B3BbGkiXlyf49rGpHb"
+    },
+    {
+      "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 193714,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
+    },
+    {
+      "album": {
+        "name": "Love. Ain't Love",
+        "url": "https://open.spotify.com/album/1R55TgjVR6Bq6onvCiQHQB"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 174413,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/6IIhAAslHaT2mJtqRq3Dpi"
+    },
+    {
+      "album": {
+        "name": "Pigeons Playing Ping Pong (Live Session, Los Angeles, CA, 2020)",
+        "url": "https://open.spotify.com/album/74Hvnb2MiG3FMQa3x6nnwW"
+      },
+      "artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        },
+        {
+          "name": "Jam in the Van",
+          "url": "https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402666,
+      "name": "Dawn A New Day - Jam in the Van Live Session",
+      "url": "https://open.spotify.com/track/3X5FLVPnSTGhnWNnqIwtq0"
+    },
+    {
+      "album": {
+        "name": "English Oceans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4k6nXQ6XEuLDwoWZwhBlCI"
+      },
+      "artists": [
+        {
+          "name": "Drive-By Truckers",
+          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 302200,
+      "name": "Dead, Drunk, and Naked - Live From The 40 Watt Club 2014",
+      "url": "https://open.spotify.com/track/69COej79DKRpYBvpM4gYZe"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Jerry Garcia",
+        "url": "https://open.spotify.com/album/1YdrVBpEJWLnMvdmQBzfuo"
+      },
+      "artists": [
+        {
+          "name": "The Reconstruction",
+          "url": "https://open.spotify.com/artist/1nU3g0EzuKuMdgPZ2zD73l"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 699933,
+      "name": "Dear Prudence (1979) - Live",
+      "url": "https://open.spotify.com/track/4Mf9q0eadEnXoijUGqHwPS"
+    },
+    {
+      "album": {
+        "name": "GarciaLive Volume 13: September 16th, 1989 Poplar Creek Music Theatre",
+        "url": "https://open.spotify.com/album/2IdUG7HdcLqDZ9uqvVErb9"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "Clarence Clemons",
+          "url": "https://open.spotify.com/artist/7hiRmH8QebrJgMZYAbFtoO"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 665397,
+      "name": "Dear Prudence - Live",
+      "url": "https://open.spotify.com/track/0rcgCac3uojjlX5DS13rTM"
+    },
+    {
+      "album": {
+        "name": "Light Fuse Get Away",
+        "url": "https://open.spotify.com/album/0El4sQIrpXQXcbyGV4J0Qx"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 844693,
+      "name": "Diner",
+      "url": "https://open.spotify.com/track/3wF5YHX5PgPrIIVXL7Zgcl"
+    },
+    {
+      "album": {
+        "name": "Highwire Act Live In St. Louis 2003",
+        "url": "https://open.spotify.com/album/27SMEIkvUKbeqiKzrSNJjh"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 1064640,
+      "name": "Dixie Chicken - Live",
+      "url": "https://open.spotify.com/track/7IpBl7ZsXIevSAfy9YPr6m"
+    },
+    {
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        },
+        {
+          "name": "Nigel Hall",
+          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 251293,
+      "name": "Do It Like You Do",
+      "url": "https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6"
+    },
+    {
+      "album": {
+        "name": "Live At The Academy Of Music 1971",
+        "url": "https://open.spotify.com/album/1qDR31BZNhAH8ExjJuHhAj"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268400,
+      "name": "Don't Do It - Live At The Academy Of Music / 1971",
+      "url": "https://open.spotify.com/track/64UtYRCtvr37iCHy6Rx6mE"
+    },
+    {
+      "album": {
+        "name": "New You",
+        "url": "https://open.spotify.com/album/31T7zU4OV4l328BkAszjK6"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Tiffany Austin",
+          "url": "https://open.spotify.com/artist/71D3O4Y0iCt9rFyw2g5lLS"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 336626,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/6MWz0DeLwdnAUiI85V41Uo"
+    },
+    {
+      "album": {
+        "name": "New You",
+        "url": "https://open.spotify.com/album/2JhFWOFzzvBYdNPNPhdjdr"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Tiffany Austin",
+          "url": "https://open.spotify.com/artist/71D3O4Y0iCt9rFyw2g5lLS"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 335693,
+      "name": "Don't Stop (feat. Tiffany Austin)",
+      "url": "https://open.spotify.com/track/3nqP8YOhxJPdUzXJWbdKyT"
+    },
+    {
+      "album": {
+        "name": "After Midnight: Kean College, 2/28/80",
+        "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200186,
+      "name": "Eleanor Rigby - Live",
+      "url": "https://open.spotify.com/track/24HAdFPR0bkgoyGrRWToF4"
+    },
+    {
+      "album": {
+        "name": "Rocksession",
+        "url": "https://open.spotify.com/album/6IkSIELZhtmZKlnjwKTe91"
+      },
+      "artists": [
+        {
+          "name": "Embryo",
+          "url": "https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 938613,
+      "name": "Entrances",
+      "url": "https://open.spotify.com/track/2ZS6MW6nzYbEgNh1Fi8JcK"
+    },
+    {
+      "album": {
+        "name": "Wake of the Flood (2013 Remaster)",
+        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320502,
+      "name": "Eyes of the World - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt"
+    },
+    {
+      "album": {
+        "name": "Farmhouse",
+        "url": "https://open.spotify.com/album/63pJMk3S5vS5e8wrInkDhi"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242040,
+      "name": "Farmhouse",
+      "url": "https://open.spotify.com/track/5dVtj4IAnYSrI3jVfIFIaC"
+    },
+    {
+      "album": {
+        "name": "Waiting for Columbus (Live Version; Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TtmZyFBqydHgAk6r8mbbM"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293906,
+      "name": "Fat Man In The Bathtub - Live at Lisner Auditorium, Washington, DC, 8/10/1977",
+      "url": "https://open.spotify.com/track/2QvMk15JHTjVH3KDoF26NH"
+    },
+    {
+      "album": {
+        "name": "Taking up Your Precious Time",
+        "url": "https://open.spotify.com/album/5E5U9ckjlBvJ3qkNAAqESY"
+      },
+      "artists": [
+        {
+          "name": "Pretty Lights",
+          "url": "https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 277975,
+      "name": "Finally Moving",
+      "url": "https://open.spotify.com/track/3WS7spXVlbeC5kjePmHMQW"
+    },
+    {
+      "album": {
+        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
+        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        },
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        },
+        {
+          "name": "Mickey Hart",
+          "url": "https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU"
+        },
+        {
+          "name": "Bill Kreutzmann",
+          "url": "https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413929,
+      "name": "Fire On The Mountain - Live",
+      "url": "https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl"
+    },
+    {
+      "album": {
+        "name": "TAB at the Fox Theater (Live)",
+        "url": "https://open.spotify.com/album/0uLnADX6MnJkkdrBYdP6LW"
+      },
+      "artists": [
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 471880,
+      "name": "First Tube (Live, 11/3/2017)",
+      "url": "https://open.spotify.com/track/2soPNp38R3BdtHSufjecqh"
+    },
+    {
+      "album": {
+        "name": "On the Road: San Francisco, CA - 12/31/02",
+        "url": "https://open.spotify.com/album/1Pcf8mx1yRLj1ILHptLjfq"
+      },
+      "artists": [
+        {
+          "name": "The String Cheese Incident",
+          "url": "https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l"
+        },
+        {
+          "name": "Keller Wiliams",
+          "url": "https://open.spotify.com/artist/3tjL3XZW9whCWYENGm3sPP"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525173,
+      "name": "Franklin's Tower (Live)",
+      "url": "https://open.spotify.com/track/7bMisliKEpEEwzcR2Vvpu6"
+    },
+    {
+      "album": {
+        "name": "Blues for Allah (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274942,
+      "name": "Franklin's Tower - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
+    },
+    {
+      "album": {
+        "name": "American Beauty",
+        "url": "https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU"
+    },
+    {
+      "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 341680,
+      "name": "Friend of the Devil - Live",
+      "url": "https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA"
+    },
+    {
+      "album": {
+        "name": "Interludes For The Dead (feat. Neal Casal)",
+        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
+      },
+      "artists": [
+        {
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        },
+        {
+          "name": "Neal Casal",
+          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 740520,
+      "name": "Gilbert's Groove (feat. Neal Casal)",
+      "url": "https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl"
+    },
+    {
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/7aFV6FNmyF8yf9yTGy0O7d"
+      },
+      "artists": [
+        {
+          "name": "Traffic",
+          "url": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1260333,
+      "name": "Glad / Freedom Rider",
+      "url": "https://open.spotify.com/track/226QWazP5WOjAHqRta57HW"
+    },
+    {
+      "album": {
+        "name": "Brooklyn, NY :: 2018-03-10",
+        "url": "https://open.spotify.com/album/6DT9Pu9HAmRlsfyZEt0aYb"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 163520,
+      "name": "Good Times Bad Times -> - Live 2018-03-10",
+      "url": "https://open.spotify.com/track/3uNtT12YNbX0HAlFJYSJNd"
+    },
+    {
+      "album": {
+        "name": "Brooklyn, NY :: 2018-03-10",
+        "url": "https://open.spotify.com/album/4sgAAdM0QnAbgtOR56Ec2J"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163520,
+      "name": "Good Times Bad Times -> - Live 2018-03-10",
+      "url": "https://open.spotify.com/track/4FVT9Auo3TI97S7vDvzSuj"
+    },
+    {
+      "album": {
+        "name": "Good Will Prevail",
+        "url": "https://open.spotify.com/album/1H11dYnWcUyVpw3MMakGAl"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 244828,
+      "name": "Good Times Roll",
+      "url": "https://open.spotify.com/track/0pE89jFuJUdGDnxsnpiTeo"
+    },
+    {
+      "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
+      },
+      "artists": [
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "Greatest Story Ever Told",
+      "url": "https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S"
+    },
+    {
+      "album": {
+        "name": "Live Trax Vol. 28: John Paul Jones Arena",
+        "url": "https://open.spotify.com/album/3vmwJoGCdbSWwnwBp2SMEQ"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388586,
+      "name": "Grey Street - Live at John Paul Jones Arena, Charlottesville, VA, 11.19.10",
+      "url": "https://open.spotify.com/track/0B5JeH08VM4bgik0WJwP9Z"
+    },
+    {
+      "album": {
+        "name": "Hampton Comes Alive",
+        "url": "https://open.spotify.com/album/1YmOsXsyMeT6ooPkkdHfSV"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 768960,
+      "name": "Harry Hood - Live at Hampton, 1998",
+      "url": "https://open.spotify.com/track/3VSM3xBPjrTmeGFYG0Z2HA"
+    },
+    {
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "album": {
+        "name": "Where the Fields Grow Green",
+        "url": "https://open.spotify.com/album/7JqbpiUNAaS3todERMHPe4"
+      },
+      "artists": [
+        {
+          "name": "Ekoostik Hookah",
+          "url": "https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310160,
+      "name": "Hookahville",
+      "url": "https://open.spotify.com/track/689YCmfvWFL5v07lc8DeCo"
+    },
+    {
+      "album": {
+        "name": "Filling Up The City Skies (disc 2)",
+        "url": "https://open.spotify.com/album/0IiPSY2KKMKpBApop7KuYH"
+      },
+      "artists": [
+        {
+          "name": "Pretty Lights",
+          "url": "https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 421331,
+      "name": "Hot Like Sauce",
+      "url": "https://open.spotify.com/track/7zbq8RT5Kd3ExOGVTiUQbR"
+    },
+    {
+      "album": {
+        "name": "Alive and Well",
+        "url": "https://open.spotify.com/album/6TUsfjLX8cqnafBy3p33Iu"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1019624,
+      "name": "Hot Tea (8.10.19)",
+      "url": "https://open.spotify.com/track/4lHsm2VyLBaw5RD8Hp6plw"
+    },
+    {
+      "album": {
+        "name": "Alive and Well (Live)",
+        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 1019624,
+      "name": "Hot Tea - Live, 8.10.19",
+      "url": "https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w"
+    },
+    {
+      "album": {
+        "name": "The Pizza Tapes",
+        "url": "https://open.spotify.com/album/0yXWEfqWaRrOEebmXriutZ"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 485226,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/18btnw40WRP5cRZBqJpa1o"
+    },
+    {
+      "album": {
+        "name": "The Pizza Tapes",
+        "url": "https://open.spotify.com/album/6ERBw6ocM6d89W2PGB00Ag"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 485226,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/1oNRUmyrLZ6SPEv6IS0xVQ"
+    },
+    {
+      "album": {
+        "name": "Yell Fire! (Live)",
+        "url": "https://open.spotify.com/album/1N4kArKmxYgMvh46ls6EOe"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 276426,
+      "name": "I Know I'm Not Alone - Live",
+      "url": "https://open.spotify.com/track/0QzRetkrMupTt9MxK6HmuR"
+    },
+    {
+      "album": {
+        "name": "Yell Fire! Live",
+        "url": "https://open.spotify.com/album/4bLKhGub6JlNtt5xon3z71"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276426,
+      "name": "I Know I'm Not Alone - Live",
+      "url": "https://open.spotify.com/track/4nfc7vE8Sw753EWGpRz5B8"
+    },
+    {
+      "album": {
+        "name": "Morrison, CO :: 2017-08-31",
+        "url": "https://open.spotify.com/album/5MgmEiKssYNS919EXO4Pni"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 448440,
+      "name": "I Know You Rider - Live 2017-08-31",
+      "url": "https://open.spotify.com/track/1tEsWUJ3rS32mhG7xWq5p0"
+    },
+    {
+      "album": {
+        "name": "Morrison, CO :: 2017-08-31",
+        "url": "https://open.spotify.com/album/6AaC4CZjSvd70iFJYODLUW"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 448440,
+      "name": "I Know You Rider - Live 2017-08-31",
+      "url": "https://open.spotify.com/track/74NSqQEqCXV00vuI8WVnhm"
+    },
+    {
+      "album": {
+        "name": "Lonely Trip",
+        "url": "https://open.spotify.com/album/6FheuFkFVRFOTIOBvRDn6w"
+      },
+      "artists": [
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 154760,
+      "name": "I Never Needed You Like This Before",
+      "url": "https://open.spotify.com/track/4YGEMtqFy0VOyjS70MbLAo"
+    },
+    {
+      "album": {
+        "name": "Alpha Mike Foxtrot: Rare Tracks 1994 - 2014",
+        "url": "https://open.spotify.com/album/71CIpjzqwqHxnUxL1FDS0M"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        },
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 213080,
+      "name": "I Shall Be Released (with Fleet Foxes) - Live",
+      "url": "https://open.spotify.com/track/4gIYdTW0oUC3jnCHbDUl65"
+    },
+    {
+      "album": {
+        "name": "Live At Red Rocks",
+        "url": "https://open.spotify.com/album/5rGOviwofECt9K6BOkpBrR"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 281573,
+      "name": "I've Been Failing - Live",
+      "url": "https://open.spotify.com/track/5lYgyJTEiEcHVU5MQOuogS"
+    },
+    {
+      "album": {
+        "name": "Something More Than Free",
+        "url": "https://open.spotify.com/album/1foB2t5YmfC6PxIC31g5Cp"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 220586,
+      "name": "If It Takes a Lifetime",
+      "url": "https://open.spotify.com/track/2hsf7VvrBm44soR5rtDVXw"
+    },
+    {
+      "album": {
+        "name": "Dither",
+        "url": "https://open.spotify.com/album/39ECCmwxjPPp26lKTr7a80"
+      },
+      "artists": [
+        {
+          "name": "moe.",
+          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216360,
+      "name": "In A Big Country",
+      "url": "https://open.spotify.com/track/11WtZDdbNlLxLyMo9xozCb"
+    },
+    {
+      "album": {
+        "name": "Live at the Beacon Theatre 1.17.15",
+        "url": "https://open.spotify.com/album/1PGIo9A2cxXuENTXUY53vi"
+      },
+      "artists": [
+        {
+          "name": "Umphrey's McGee",
+          "url": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 683773,
+      "name": "In the Kitchen (Live)",
+      "url": "https://open.spotify.com/track/0Bck8YlFXXNjqmEBHZzh4E"
+    },
+    {
+      "album": {
+        "name": "Back at the 'Nac (Live)",
+        "url": "https://open.spotify.com/album/339nAlfctcCnIUyZ2gISE7"
+      },
+      "artists": [
+        {
+          "name": "Umphrey's McGee",
+          "url": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 596885,
+      "name": "In the Kitchen, Pt. 1 (Live)",
+      "url": "https://open.spotify.com/track/06DFKMH4rFVbnkCR272swp"
+    },
+    {
+      "album": {
+        "name": "Carnivale Electricos",
+        "url": "https://open.spotify.com/album/1AQ7GTDYL6kXZSxavyBgd6"
+      },
+      "artists": [
+        {
+          "name": "Galactic",
+          "url": "https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ"
+        },
+        {
+          "name": "KIPP Renaissance High School Marching Band",
+          "url": "https://open.spotify.com/artist/2gb96WKyg58TKvEgcjbbzz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 214733,
+      "name": "Karate",
+      "url": "https://open.spotify.com/track/7qxoIEmslOp25G7c2LDaUy"
+    },
+    {
+      "album": {
+        "name": "Live From The Fox Oakland",
+        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650746,
+      "name": "Keep On Growing - Live",
+      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
+    },
+    {
+      "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 185226,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/1tlPsmI230IoSanksbmm2i"
+    },
+    {
+      "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/4BSJR0EaIY1oxpZjpX0q2y"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185226,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/3uq2fANGj5awEgr1q8R8R3"
+    },
+    {
+      "album": {
+        "name": "GarciaLive Volume Ten: May 20th, 1990 Hilo Civic Auditorium",
+        "url": "https://open.spotify.com/album/5gNepUIHwOU4VWgtfGbFd3"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 607162,
+      "name": "Knockin' On Heaven's Door - Live",
+      "url": "https://open.spotify.com/track/5Zpjzawz5OX7k93ZPbNX6v"
+    },
+    {
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258044,
+      "name": "Lady and Man",
+      "url": "https://open.spotify.com/track/0tjTndnyFm1xQsaHGf2imW"
+    },
+    {
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 258044,
+      "name": "Lady and Man",
+      "url": "https://open.spotify.com/track/6sjxTY1gPbZXoF2h6YLZ9N"
+    },
+    {
+      "album": {
+        "name": "For Amusement Only",
+        "url": "https://open.spotify.com/album/46hZAFDQjOYHnpT3dX8zW5"
+      },
+      "artists": [
+        {
+          "name": "Spafford",
+          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 253819,
+      "name": "Leave the Light On",
+      "url": "https://open.spotify.com/track/0840aH9MvGpXAbS3mq3OXX"
+    },
+    {
+      "album": {
+        "name": "We're All Gonna Live",
+        "url": "https://open.spotify.com/album/6EcOXh4NhGg7oqwStcQn1a"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491108,
+      "name": "Less Than Five Miles Away (Live From An Evening With Dawes)",
+      "url": "https://open.spotify.com/track/5LjlDL2G46kQrAcofckZgn"
+    },
+    {
+      "album": {
+        "name": "Betty's Midwestern Magic Blends",
+        "url": "https://open.spotify.com/album/79dgYlDfZYJn9SQ2rmcB3n"
+      },
+      "artists": [
+        {
+          "name": "Chris Robinson Brotherhood",
+          "url": "https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 453706,
+      "name": "Let It Bleed - Live",
+      "url": "https://open.spotify.com/track/2vI9SEZcy8go0QHabdTA8R"
+    },
+    {
+      "album": {
+        "name": "Dubbabuddah",
+        "url": "https://open.spotify.com/album/5R8kqCETupYVuIcyW6wnuq"
+      },
+      "artists": [
+        {
+          "name": "Ekoostik Hookah",
+          "url": "https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399800,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7v3DiMXmwZvViit6quKMEN"
+    },
+    {
+      "album": {
+        "name": "Live at House of Blues Boston (12/31/2018)",
+        "url": "https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ"
+      },
+      "artists": [
+        {
+          "name": "Twiddle",
+          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430066,
+      "name": "Lost in the Cold (Live)",
+      "url": "https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0"
+    },
+    {
+      "album": {
+        "name": "The Nashville Sessions",
+        "url": "https://open.spotify.com/album/1eTrENaoBe62McAimT927N"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 176160,
+      "name": "Lovin' In My Baby's Eyes",
+      "url": "https://open.spotify.com/track/1oSWFvTM2TuZYBU7EbQ02T"
+    },
+    {
+      "album": {
+        "name": "World Boogie Is Coming",
+        "url": "https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 276760,
+      "name": "Meet Me In the City",
+      "url": "https://open.spotify.com/track/7dig0MXt7MBeqExosATbAq"
+    },
+    {
+      "album": {
+        "name": "Everybody's Talkin'",
+        "url": "https://open.spotify.com/album/2U7PtD3lqcSSVSZ4g875ki"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 623386,
+      "name": "Midnight In Harlem (Swamp Raga intro with Little Martha) - Live",
+      "url": "https://open.spotify.com/track/72UfjeC5R2SWpe9TTzwhKT"
+    },
+    {
+      "album": {
+        "name": "Slip Stitch and Pass",
+        "url": "https://open.spotify.com/album/0XqQw46LxaITxNsIhZLYip"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 832533,
+      "name": "Mike's Song",
+      "url": "https://open.spotify.com/track/0zrLDKj4gTsE24T0vz1fCl"
+    },
+    {
+      "album": {
+        "name": "tin cans & car tires",
+        "url": "https://open.spotify.com/album/2GGOZsFF9dwK5LJ2kIdkl7"
+      },
+      "artists": [
+        {
+          "name": "moe.",
+          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 229666,
+      "name": "Nebraska",
+      "url": "https://open.spotify.com/track/3g6Iv6AJddkj641ufya8h4"
+    },
+    {
+      "album": {
+        "name": "Tin Cans and Car Tires (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3j3DuIhJCkZjs21x85vNwu"
+      },
+      "artists": [
+        {
+          "name": "moe.",
+          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230633,
+      "name": "Nebraska",
+      "url": "https://open.spotify.com/track/3V2uUDTDtr2FTCHZxCZdGd"
+    },
+    {
+      "album": {
+        "name": "C\u2019est La Vie",
+        "url": "https://open.spotify.com/album/2oqDbd9Hmbp6RinQQmZNWd"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 299685,
+      "name": "New Birth in New England",
+      "url": "https://open.spotify.com/track/1SmzAbt4g7a1FfAIwovtwq"
+    },
+    {
+      "album": {
+        "name": "C\u2019est La Vie",
+        "url": "https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299685,
+      "name": "New Birth in New England",
+      "url": "https://open.spotify.com/track/3YOv5LNRVbrmWnVVyk3Flj"
+    },
+    {
+      "album": {
+        "name": "$1.99 Romances",
+        "url": "https://open.spotify.com/album/2J5V54ginf1HluYvlYwlF9"
+      },
+      "artists": [
+        {
+          "name": "God Street Wine",
+          "url": "https://open.spotify.com/artist/2uhs3nCegLYEslxiqKtUo6"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 281800,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/5KMA3U1IDlSxtVTgJJbLg5"
+    },
+    {
+      "album": {
+        "name": "Digitonium",
+        "url": "https://open.spotify.com/album/4nT2jlnUKL8J6SNOhhz0E6"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 279640,
+      "name": "Nightswimming",
+      "url": "https://open.spotify.com/track/3MbeMQRk2WqD8HcvoPbisE"
+    },
+    {
+      "album": {
+        "name": "Cornell 5/8/77 (Live)",
+        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 980226,
+      "name": "Not Fade Away - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
+      "url": "https://open.spotify.com/track/49XFUxQEed7pDA1dXGEHbw"
+    },
+    {
+      "album": {
+        "name": "Live at Stubb's",
+        "url": "https://open.spotify.com/album/6gOSqSpc1iQb7uABDeytiJ"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 162946,
+      "name": "Ocean Man - Live",
+      "url": "https://open.spotify.com/track/6PO8Hl6hdRX5kXtUjZcq5C"
+    },
+    {
+      "album": {
+        "name": "Live at Stubb's, 7/2000",
+        "url": "https://open.spotify.com/album/7mEKgXSrpNrxRrvUu2DMYn"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 162960,
+      "name": "Ocean Man - Live",
+      "url": "https://open.spotify.com/track/4Xsj6cc571ZLR95z4i7TXr"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sessions Vol. 3",
+        "url": "https://open.spotify.com/album/4LaADbRAsiapukpluMNOgM"
+      },
+      "artists": [
+        {
+          "name": "Rich Robinson",
+          "url": "https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 461666,
+      "name": "Oh! Sweet Nuthin' - Live Version",
+      "url": "https://open.spotify.com/track/3IwDvOqCQICtOU1Y4FowpF"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sessions (Live)",
+        "url": "https://open.spotify.com/album/3QRlbhisxDFz95XRnMD3K3"
+      },
+      "artists": [
+        {
+          "name": "Rich Robinson",
+          "url": "https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 462200,
+      "name": "Oh! Sweet Nuthin\u2019 - Live",
+      "url": "https://open.spotify.com/track/6FVfwvYmzYzVNBzKcDaIqQ"
+    },
+    {
+      "album": {
+        "name": "Okonokos",
+        "url": "https://open.spotify.com/album/2YSkC3gaCfjgVza4TqWNsB"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 356226,
+      "name": "One Big Holiday",
+      "url": "https://open.spotify.com/track/4wuX9KWExmOGXvh2xD44Ng"
+    },
+    {
+      "album": {
+        "name": "Where the Wild Things Are",
+        "url": "https://open.spotify.com/album/5Y5pAVNbYT665HEzts1rJw"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "date_added": "2020-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253165,
+      "name": "Only the Wild Ones",
+      "url": "https://open.spotify.com/track/1wmfu6wTnfF3EDMOhdmpyf"
+    },
+    {
+      "album": {
+        "name": "Where the Wild Things Are",
+        "url": "https://open.spotify.com/album/6EiGzhDuf0BPUto7XtgBOv"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "date_added": "2020-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 253165,
+      "name": "Only the Wild Ones",
+      "url": "https://open.spotify.com/track/35BIlTop9ZuslYKmE5w4kn"
+    },
+    {
+      "album": {
+        "name": "America, Location 12",
+        "url": "https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "date_added": "2020-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 253165,
+      "name": "Only the Wild Ones",
+      "url": "https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/1OgEkkTKJpy7yOGfPmSTCY"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "Pickin' Up The Pieces",
+      "url": "https://open.spotify.com/track/3NTwkFnd4dPcvpg43O3XW3"
+    },
+    {
+      "album": {
+        "name": "We're All Gonna Live",
+        "url": "https://open.spotify.com/album/6EcOXh4NhGg7oqwStcQn1a"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399345,
+      "name": "Picture of a Man (Live From An Evening With Dawes)",
+      "url": "https://open.spotify.com/track/79LdwSTuhVpBAL4vwiy3In"
+    },
+    {
+      "album": {
+        "name": "Otherwise Law Abiding Citizens",
+        "url": "https://open.spotify.com/album/1YONbNiaS0FsDw82IJ4RoQ"
+      },
+      "artists": [
+        {
+          "name": "The Disco Biscuits",
+          "url": "https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 410093,
+      "name": "Portal to an Empty Head",
+      "url": "https://open.spotify.com/track/4yp8SBDicCWL074V18wasl"
+    },
+    {
+      "album": {
+        "name": "Spacesuit",
+        "url": "https://open.spotify.com/album/6TOYHislX8tElDKsRxwBW5"
+      },
+      "artists": [
+        {
+          "name": "Robert Walter's 20th Congress",
+          "url": "https://open.spotify.com/artist/7oGihoTlnS0XMulthQExEj"
+        },
+        {
+          "name": "Robert Walter",
+          "url": "https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 293341,
+      "name": "Posthuman",
+      "url": "https://open.spotify.com/track/4S3rxCB17lz2PYc76J4kiA"
+    },
+    {
+      "album": {
+        "name": "Never Odd or Even",
+        "url": "https://open.spotify.com/album/3mImh5KLHLBPk0MkuaihZG"
+      },
+      "artists": [
+        {
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 484053,
+      "name": "Present Ghosts",
+      "url": "https://open.spotify.com/track/4QXGE5zWtIWNscLFs4FTob"
+    },
+    {
+      "album": {
+        "name": "Leftover Salmon: Live",
+        "url": "https://open.spotify.com/album/5dtrGyP5IdOUcXXBGRr1yM"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 763266,
+      "name": "Railroad Highway",
+      "url": "https://open.spotify.com/track/6hYWzQahtAyysqR5ndtvLr"
+    },
+    {
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+    },
+    {
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S"
+    },
+    {
+      "album": {
+        "name": "Live From The Fall",
+        "url": "https://open.spotify.com/album/52LFpW06z2rStTaLi2lLdV"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281960,
+      "name": "Regarding Steven",
+      "url": "https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy"
+    },
+    {
+      "album": {
+        "name": "Reckoning (Live)",
+        "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267186,
+      "name": "Ripple - Live",
+      "url": "https://open.spotify.com/track/31Ch2wIS1T0ZTZf13XFvfs"
+    },
+    {
+      "album": {
+        "name": "The Marcus King Band",
+        "url": "https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO"
+      },
+      "artists": [
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 265586,
+      "name": "Rita Is Gone",
+      "url": "https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5"
+    },
+    {
+      "album": {
+        "name": "Ghosts of the Forest: Beneath a Sea of Stars (Live)",
+        "url": "https://open.spotify.com/album/37n19PLHn5b0sVBEeUJZNJ"
+      },
+      "artists": [
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        },
+        {
+          "name": "Ghosts of the Forest",
+          "url": "https://open.spotify.com/artist/6hyqfMtRP8jWaXrGrDLVFv"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617588,
+      "name": "Ruby Waves - Live, 4/20/19",
+      "url": "https://open.spotify.com/track/3bNNZWjyWtN1MURGYMHOFd"
+    },
+    {
+      "album": {
+        "name": "The Waterfall II",
+        "url": "https://open.spotify.com/album/5QdrLd11irInpKv030UbHV"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 277093,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/03zAw2uv4CfkW2quov1fWy"
+    },
+    {
+      "album": {
+        "name": "The Waterfall II",
+        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277093,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
+    },
+    {
+      "album": {
+        "name": "Hoist",
+        "url": "https://open.spotify.com/album/5desuSVmQddmKNvvU2ATcf"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Sample in a Jar",
+      "url": "https://open.spotify.com/track/6MCUdqOifrEomDtrgZlJ8O"
+    },
+    {
+      "album": {
+        "name": "Burn It Down (Live)",
+        "url": "https://open.spotify.com/album/4JsU5vwVZEo36Ro5iAMtrD"
+      },
+      "artists": [
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2020-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617858,
+      "name": "Sand - Live",
+      "url": "https://open.spotify.com/track/1I475fQYlPiCgcsRqY7CCm"
+    },
+    {
+      "album": {
+        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
+        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+      },
+      "artists": [
+        {
+          "name": "The Disco Biscuits",
+          "url": "https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D"
+        },
+        {
+          "name": "Billy & The Kids",
+          "url": "https://open.spotify.com/artist/11K4t6bF7NguAUDx5IYoiK"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 756334,
+      "name": "Scarlet Begonias / I Know You Rider - Live",
+      "url": "https://open.spotify.com/track/00D3kP7H8OfHJDrZ6iU55e"
+    },
+    {
+      "album": {
+        "name": "Live At Red Rocks 8.15.95",
+        "url": "https://open.spotify.com/album/26Xf0FH58wO2VVWk1TyJDN"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 809200,
+      "name": "Seek Up - Live at Red Rocks Amphitheatre, Morrison, CO - August 1995",
+      "url": "https://open.spotify.com/track/3zqqDKAUDEQft9FjZooYYY"
+    },
+    {
+      "album": {
+        "name": "New Ammo",
+        "url": "https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o"
+      },
+      "artists": [
+        {
+          "name": "Karl Denson",
+          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 402800,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/5T8Nc3nQ9EoEEgeiVfovnO"
+    },
+    {
+      "album": {
+        "name": "Hill Country Revue",
+        "url": "https://open.spotify.com/album/3nyAQXRZWGYoX0dz0gKVPk"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 314226,
+      "name": "Shake 'Em On Down",
+      "url": "https://open.spotify.com/track/74JblZYzH8AeLIJ9ywR1RW"
+    },
+    {
+      "album": {
+        "name": "Shakedown Street",
+        "url": "https://open.spotify.com/album/6kLk603Tgznn0DREoirhwc"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Omar Velasco",
+          "url": "https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 256146,
+      "name": "Shakedown Street",
+      "url": "https://open.spotify.com/track/0wPUWUZ0jzqnGddU793xHO"
+    },
+    {
+      "album": {
+        "name": "Dose",
+        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417226,
+      "name": "She Said, She Said",
+      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
+    },
+    {
+      "album": {
+        "name": "Croweology",
+        "url": "https://open.spotify.com/album/6V5oOvWQrsiRM9gKEKTjOo"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 376960,
+      "name": "She Talks to Angels",
+      "url": "https://open.spotify.com/track/47cBKOTLfTt7EOavt7ZW5V"
+    },
+    {
+      "album": {
+        "name": "End Of The World Party (Just In Case)",
+        "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299066,
+      "name": "Shine It",
+      "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
+    },
+    {
+      "album": {
+        "name": "51 Phantom",
+        "url": "https://open.spotify.com/album/6F6PDWOnfj5i8XMNXXeTIg"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329200,
+      "name": "Ship",
+      "url": "https://open.spotify.com/track/0JQzpnmwFmQzJ1JcN87Rt0"
+    },
+    {
+      "album": {
+        "name": "51 Phantom",
+        "url": "https://open.spotify.com/album/5Zxv4JiCxWqWzMepX7oGUv"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 329200,
+      "name": "Ship",
+      "url": "https://open.spotify.com/track/2inywferyxR6WGq7tvtQMW"
+    },
+    {
+      "album": {
+        "name": "Saint of Circumstance: Giants Stadium, East Rutherford, NJ 6/17/91 (Live)",
+        "url": "https://open.spotify.com/album/1f0whW4QE9bFNLpeyaPQiV"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 481333,
+      "name": "Ship of Fools - Live at Giants Stadium, East Rutherford, NJ, 6/17/91",
+      "url": "https://open.spotify.com/track/36aq2C4UEP0BB5j5dDfLcc"
+    },
+    {
+      "album": {
+        "name": "No Guts, No Glory",
+        "url": "https://open.spotify.com/album/7rZcDVAEC81v1vCvE5oQrK"
+      },
+      "artists": [
+        {
+          "name": "moe.",
+          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 581166,
+      "name": "Silver Sun",
+      "url": "https://open.spotify.com/track/4Gcff8064YUEXrLLBfugIi"
+    },
+    {
+      "album": {
+        "name": "Untying the Not",
+        "url": "https://open.spotify.com/album/78WUetQXbem9Y9FOLf8ccP"
+      },
+      "artists": [
+        {
+          "name": "The String Cheese Incident",
+          "url": "https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307506,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/54rQxr2XJZ4vf0mRyGsqAo"
+    },
+    {
+      "album": {
+        "name": "Welsh Connection",
+        "url": "https://open.spotify.com/album/6IzAcGtChAHXlODbw1lFNC"
+      },
+      "artists": [
+        {
+          "name": "Man",
+          "url": "https://open.spotify.com/artist/6XNNAZyTxhw3IRa0xyRBeo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376786,
+      "name": "Something Is Happening",
+      "url": "https://open.spotify.com/track/64jiQxEndYnV0Zs1a5S9zn"
+    },
+    {
+      "album": {
+        "name": "Sacred Fire: Santana Live In South America",
+        "url": "https://open.spotify.com/album/4hGCMXt4KeynuQlGPmhZc0"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446800,
+      "name": "Soul Sacrifice/ Don't Try This At Home",
+      "url": "https://open.spotify.com/track/0Jbx2TXRJ3P5cTE6MsPUFS"
+    },
+    {
+      "album": {
+        "name": "Freak 'N' Roll...Into the Fog: The Black Crowes All Join Hands (The Fillmore, San Francisco)",
+        "url": "https://open.spotify.com/album/4xb3NDlfNZqD2RbKxsdNFB"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586520,
+      "name": "Soul Singing",
+      "url": "https://open.spotify.com/track/5dFS4BJ5uk54UAkeUoCvir"
+    },
+    {
+      "album": {
+        "name": "Live At Bonnaroo",
+        "url": "https://open.spotify.com/album/4yYqT8PUl2m0L1LaJR9f3U"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 402400,
+      "name": "Soulshine",
+      "url": "https://open.spotify.com/track/0avyrMFNsAkN1ggXEnn9fh"
+    },
+    {
+      "album": {
+        "name": "There and Back Again",
+        "url": "https://open.spotify.com/album/5iiVRYSRpc2DIU1efD3prj"
+      },
+      "artists": [
+        {
+          "name": "Phil Lesh & Friends",
+          "url": "https://open.spotify.com/artist/0cYoU0s24ehE9gPplU6v7J"
+        },
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540893,
+      "name": "St Stephen (feat. The Derek Trucks Band) - Live Version",
+      "url": "https://open.spotify.com/track/2a4lOXRcvctlj5cis3SD7U"
+    },
+    {
+      "album": {
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/19aZxgHJEtveuVPhDFTMMG"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        },
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 396373,
+      "name": "St. Stephen - Live",
+      "url": "https://open.spotify.com/track/5whj8CMgPTiVrXA0bKvXpz"
+    },
+    {
+      "album": {
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        },
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 399158,
+      "name": "St. Stephen - Live",
+      "url": "https://open.spotify.com/track/3BacMLwPwEXLsEo5MmebnC"
+    },
+    {
+      "album": {
+        "name": "A Picture of Nectar",
+        "url": "https://open.spotify.com/album/7A1l4RxB2pUxv6kU6ynUSF"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431333,
+      "name": "Stash",
+      "url": "https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9"
+    },
+    {
+      "album": {
+        "name": "Fillmore West '71",
+        "url": "https://open.spotify.com/album/7huOtG6twsFgvIp4zggKie"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258482,
+      "name": "Statesboro Blues - Live at Fillmore West, San Francisco, CA 1/30/71",
+      "url": "https://open.spotify.com/track/5FkHxsvK4jSlElTMQVbte5"
+    },
+    {
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt"
+    },
+    {
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "album": {
+        "name": "Live Art",
+        "url": "https://open.spotify.com/album/4INyHv55ddXe0A2TNvKezm"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck and the Flecktones",
+          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326560,
+      "name": "Stomping Grounds - Live Version",
+      "url": "https://open.spotify.com/track/2OvXjotV5Ro6NY1lPxXdQY"
+    },
+    {
+      "album": {
+        "name": "Talkin' Blues",
+        "url": "https://open.spotify.com/album/7MsUS81xOJbxppxEal9aIS"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 243266,
+      "name": "Stop That Train - Live",
+      "url": "https://open.spotify.com/track/515HXm5JPpi8KUKKdphZBw"
+    },
+    {
+      "album": {
+        "name": "Garcia",
+        "url": "https://open.spotify.com/album/5Z3Vmde0ICQM0OnIBYNx2U"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352964,
+      "name": "Sugaree",
+      "url": "https://open.spotify.com/track/4XoYeolVYTiddO9wZLXLgl"
+    },
+    {
+      "album": {
+        "name": "TD Garden, Boston, MA 11/17/17 (Live)",
+        "url": "https://open.spotify.com/album/6hV2waROeEXkf5NbIL0XgQ"
+      },
+      "artists": [
+        {
+          "name": "Dead & Company",
+          "url": "https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 838157,
+      "name": "Sugaree - Live at TD Garden, Boston, MA 11/17/17",
+      "url": "https://open.spotify.com/track/1th4vQpv5MXunuMn8WUnSL"
+    },
+    {
+      "album": {
+        "name": "Sixty Six Steps",
+        "url": "https://open.spotify.com/album/1xvOhmnVQcbtN0oOBneBoP"
+      },
+      "artists": [
+        {
+          "name": "Leo Kottke",
+          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
+        },
+        {
+          "name": "Mike Gordon",
+          "url": "https://open.spotify.com/artist/2Onb70uN9rRM3VMerSpA37"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 332426,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/3fsoiPJOP9e1yST9HFZ7Ww"
+    },
+    {
+      "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
+    },
+    {
+      "album": {
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430626,
+      "name": "Tennessee Jed - 2001 Remaster",
+      "url": "https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj"
+    },
+    {
+      "album": {
+        "name": "Come Tomorrow",
+        "url": "https://open.spotify.com/album/1Q6IYDePv0Dl8RXBnJ4jhy"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 196880,
+      "name": "That Girl Is You",
+      "url": "https://open.spotify.com/track/3W1FUFK0mLvXDYRT0YGaiT"
+    },
+    {
+      "album": {
+        "name": "Anthem of the Sun",
+        "url": "https://open.spotify.com/album/4ZaIo647CyWAgow8oxqajh"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460133,
+      "name": "That's It for the Other One (Parts I-IV)",
+      "url": "https://open.spotify.com/track/7fKqC6dSmgdyuNY1NoJmvn"
+    },
+    {
+      "album": {
+        "name": "Taught to Be Proud",
+        "url": "https://open.spotify.com/album/4IMSzS9zvPw7jSHlKFlA1f"
+      },
+      "artists": [
+        {
+          "name": "Tea Leaf Green",
+          "url": "https://open.spotify.com/artist/4n3xlLBs7G1x9tJDXFD4G4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241986,
+      "name": "The Garden (Pt. III)",
+      "url": "https://open.spotify.com/track/2ihAtyKtG6dPNKeDdt2RlQ"
+    },
+    {
+      "album": {
+        "name": "GarciaLive Volume Two: August 5th, 1990 Greek Theatre",
+        "url": "https://open.spotify.com/album/2zJpfHiO3VNEt2AcKtEoDs"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Band",
+          "url": "https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 645680,
+      "name": "The Harder They Come (feat. B\u00e9la Fleck) - Live",
+      "url": "https://open.spotify.com/track/7LKpi9pOnm3m89jTO8MhJu"
+    },
+    {
+      "album": {
+        "name": "Friday Afternoon In The Universe",
+        "url": "https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379560,
+      "name": "The Lover",
+      "url": "https://open.spotify.com/track/26IapGXdI0m8nhHs8dRg8X"
+    },
+    {
+      "album": {
+        "name": "The Last Waltz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 277493,
+      "name": "The Night They Drove Old Dixie Down - Concert Version",
+      "url": "https://open.spotify.com/track/3ECIC2erE6103yYfSxWz80"
+    },
+    {
+      "album": {
+        "name": "Non-Secure Connection",
+        "url": "https://open.spotify.com/album/7xtEEaRRjuMRMAQUbMu3Mq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        },
+        {
+          "name": "Rob Moose",
+          "url": "https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25"
+        }
+      ],
+      "date_added": "2020-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 152333,
+      "name": "The Rat King (feat. Rob Moose)",
+      "url": "https://open.spotify.com/track/4PZp19w4SRGDAWwKNKZcLF"
+    },
+    {
+      "album": {
+        "name": "Live at the Drive-In",
+        "url": "https://open.spotify.com/album/5QjI51hjeUOgNlDVORpdRz"
+      },
+      "artists": [
+        {
+          "name": "Spafford",
+          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 779000,
+      "name": "The Reprise (Live)",
+      "url": "https://open.spotify.com/track/27cnOeOwEgcq0Jfsl9BPlD"
+    },
+    {
+      "album": {
+        "name": "Como De Allstars",
+        "url": "https://open.spotify.com/album/6AwD39QcE9N1NDvxg9WqF1"
+      },
+      "artists": [
+        {
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 294053,
+      "name": "The Skipper",
+      "url": "https://open.spotify.com/track/1WwxOinfyp3fQoLDMYMMpS"
+    },
+    {
+      "album": {
+        "name": "Join The Band",
+        "url": "https://open.spotify.com/album/09T80PxolA3UM5JLjOUQ9c"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 318320,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/287z1CsHlrzRNukhxSRjvM"
+    },
+    {
+      "album": {
+        "name": "The Band (Deluxe Edition / 2019 Remix)",
+        "url": "https://open.spotify.com/album/5ZRYMtWMk8ha4YD73KtlR2"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 284946,
+      "name": "The Weight - Live At Woodstock, 8/17/69",
+      "url": "https://open.spotify.com/track/417iXtY4ZypFB42bgaLdsw"
+    },
+    {
+      "album": {
+        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
+        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+      },
+      "artists": [
+        {
+          "name": "Phil Lesh & Communion",
+          "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1020206,
+      "name": "The Wheel / Uncle John\u2019s Band - Medley / Live",
+      "url": "https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09"
+    },
+    {
+      "album": {
+        "name": "Rhythm of the Road: Volume One, Incident in Atlanta -11.17.00",
+        "url": "https://open.spotify.com/album/33eRh00tERv1BscbFnuUtF"
+      },
+      "artists": [
+        {
+          "name": "The String Cheese Incident",
+          "url": "https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516413,
+      "name": "This Must Be the Place (Naive Melody)",
+      "url": "https://open.spotify.com/track/6xleIePy9XfIOV8ksoKlKx"
+    },
+    {
+      "album": {
+        "name": "Dose",
+        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407040,
+      "name": "Thorazine Shuffle",
+      "url": "https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI"
+    },
+    {
+      "album": {
+        "name": "Sweet Oblivious Antidote",
+        "url": "https://open.spotify.com/album/5iXbVRBasAzAaEUxR8dAef"
+      },
+      "artists": [
+        {
+          "name": "Perpetual Groove",
+          "url": "https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556746,
+      "name": "Three Weeks",
+      "url": "https://open.spotify.com/track/1h0z8J8SDzIrc5pSnTxLEv"
+    },
+    {
+      "album": {
+        "name": "Sweet Oblivious Antidote (Live)",
+        "url": "https://open.spotify.com/album/7HWHBuq1yCY4HmhlTd8kYm"
+      },
+      "artists": [
+        {
+          "name": "Perpetual Groove",
+          "url": "https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 1039238,
+      "name": "Three Weeks (Live)",
+      "url": "https://open.spotify.com/track/1UUgdEacY1Wk5Ldsx44DVF"
+    },
+    {
+      "album": {
+        "name": "Port Chester, NY :: 2016-12-30",
+        "url": "https://open.spotify.com/album/0dvJCRfIP6xBxD6IHjs5S6"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1069773,
+      "name": "Throwing Stones - Live 2016-12-30",
+      "url": "https://open.spotify.com/track/2OUr2o632OzZBSYc5ovE67"
+    },
+    {
+      "album": {
+        "name": "Port Chester, NY :: 2016-12-30",
+        "url": "https://open.spotify.com/album/51hoGQVue2tbf1mZ0RfTWf"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1069773,
+      "name": "Throwing Stones - Live 2016-12-30",
+      "url": "https://open.spotify.com/track/7xVUy4JFdnR3a27MzHwRxY"
+    },
+    {
+      "album": {
+        "name": "All Access: Volume One",
+        "url": "https://open.spotify.com/album/7zMe3emFwC6oO2TltnJIqF"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 338240,
+      "name": "Time > Breathe Reprise >",
+      "url": "https://open.spotify.com/track/30sRAEKuzybaAvhjEBmppp"
+    },
+    {
+      "album": {
+        "name": "Peoples Motel Band",
+        "url": "https://open.spotify.com/album/5y3eRngQyKGAdeJD0GfgVz"
+      },
+      "artists": [
+        {
+          "name": "Chris Forsyth",
+          "url": "https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc"
+        },
+        {
+          "name": "Garcia Peoples",
+          "url": "https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240904,
+      "name": "Tomorrow Might As Well Be Today - Live",
+      "url": "https://open.spotify.com/track/55YKAYiqMJvgIG4dxBa5ax"
+    },
+    {
+      "album": {
+        "name": "Peoples Motel Band",
+        "url": "https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d"
+      },
+      "artists": [
+        {
+          "name": "Chris Forsyth",
+          "url": "https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc"
+        },
+        {
+          "name": "Garcia Peoples",
+          "url": "https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240904,
+      "name": "Tomorrow Might As Well Be Today - Live",
+      "url": "https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg"
+    },
+    {
+      "album": {
+        "name": "Live From Bonnaroo 2005",
+        "url": "https://open.spotify.com/album/5zCkbvYpwzg7JvMlcsxcbf"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 289160,
+      "name": "Trouble - Live at Bonnaroo, Manchester, TN - June 2005",
+      "url": "https://open.spotify.com/track/0gkkWgQBl2HEginL7fZMuP"
+    },
+    {
+      "album": {
+        "name": "Truckin' (Live at the Capitol Theatre, Port Chester, NY, 2/18/71)",
+        "url": "https://open.spotify.com/album/484WV51x5X8tXB2V11Fn9n"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2020-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554304,
+      "name": "Truckin' (Live at the Capitol Theatre, Port Chester, NY, 2/18/71)",
+      "url": "https://open.spotify.com/track/5cc8TvVgYMX4YXfoEUFOi1"
+    },
+    {
+      "album": {
+        "name": "Live / Dead",
+        "url": "https://open.spotify.com/album/6E7JCQINTT4vwRF4wBcsYk"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 905133,
+      "name": "Turn on Your Love Light - Live at San Francisco; 2001 Remaster",
+      "url": "https://open.spotify.com/track/4XO4pQpx4lpKgbWMgbsQRK"
+    },
+    {
+      "album": {
+        "name": "LivePhish, Vol. 16 10/31/98 (Thomas & Mack Center, Las Vegas, NV)",
+        "url": "https://open.spotify.com/album/69H9X2W50K5Sy0MyhHbw3m"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 231733,
+      "name": "Tweezer Reprise",
+      "url": "https://open.spotify.com/track/2dr35Ocrnflsum09XReWdC"
+    },
+    {
+      "album": {
+        "name": "Charlie Hunter",
+        "url": "https://open.spotify.com/album/251reNF6bDMHO5SB7YUvno"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 339333,
+      "name": "Two For Bleu",
+      "url": "https://open.spotify.com/track/0tNDiq8LzjMNeSyqpv3RyK"
+    },
+    {
+      "album": {
+        "name": "Dixie Chicken",
+        "url": "https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Two Trains",
+      "url": "https://open.spotify.com/track/4CwpuCZcK6Vym6BZd8Pgfe"
+    },
+    {
+      "album": {
+        "name": "Live Trax Vol. 23: Whittemoore Center Arena",
+        "url": "https://open.spotify.com/album/2pJ6zerds0wfJUrKT8oaJm"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 377626,
+      "name": "Typical Situation - Live at Whittemore Center Arena, Durham, NH, 02.19.96",
+      "url": "https://open.spotify.com/track/68UuRHI7HeiZl8DJMRlQ0W"
+    },
+    {
+      "album": {
+        "name": "Free Somehow",
+        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
+    },
+    {
+      "album": {
+        "name": "Free Somehow",
+        "url": "https://open.spotify.com/album/121mmxuTG4EBcJ3jtNaKZs"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 226466,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/4TxusZ11elSMVRUFMihBZz"
+    },
+    {
+      "album": {
+        "name": "Night of Joy",
+        "url": "https://open.spotify.com/album/321EyhJFiv74lsARRlWdiO"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 507600,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/5EGQGLZ9llVEC0jyhbORmG"
+    },
+    {
+      "album": {
+        "name": "Night of Joy (Live)",
+        "url": "https://open.spotify.com/album/0ELM7DSpwnUADRl4g09sPF"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 507600,
+      "name": "Use Me - Live",
+      "url": "https://open.spotify.com/track/1qf2nZSj8QJQRDQshWxA6P"
+    },
+    {
+      "album": {
+        "name": "What Happened To Television?",
+        "url": "https://open.spotify.com/album/6y4pGQRe2Nipa05NbGwsCq"
+      },
+      "artists": [
+        {
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155280,
+      "name": "V Neck Sweater",
+      "url": "https://open.spotify.com/track/2QdcIeRxcBbTQk3B6fng25"
+    },
+    {
+      "album": {
+        "name": "What Happened to Television?",
+        "url": "https://open.spotify.com/album/2guvIXBJ1DeKg1c85D8j6C"
+      },
+      "artists": [
+        {
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 155280,
+      "name": "V-Neck Sweater",
+      "url": "https://open.spotify.com/track/5K5NAQrHIX5OdHdGgAVfIx"
+    },
+    {
+      "album": {
+        "name": "The Story of the Ghost",
+        "url": "https://open.spotify.com/album/420MDayNDxht0GcPwnBv1d"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 149240,
+      "name": "Water in the Sky",
+      "url": "https://open.spotify.com/track/21t0M7q4VA7LKIJNJUOwYC"
+    },
+    {
+      "album": {
+        "name": "Funk",
+        "url": "https://open.spotify.com/album/2qKwJ4uMaAjz7AUSe5cX3X"
+      },
+      "artists": [
+        {
+          "name": "Keller Williams",
+          "url": "https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 379426,
+      "name": "West L.A. Fade Away",
+      "url": "https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb"
+    },
+    {
+      "album": {
+        "name": "Funk",
+        "url": "https://open.spotify.com/album/71aC6pTMJ5peLbJB4Ujvxd"
+      },
+      "artists": [
+        {
+          "name": "Keller Williams",
+          "url": "https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379426,
+      "name": "West L.A. Fadeaway",
+      "url": "https://open.spotify.com/track/2eohZCZwkyK5Z8MF7AV2ik"
+    },
+    {
+      "album": {
+        "name": "Tower Of Power",
+        "url": "https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 304733,
+      "name": "What Is Hip?",
+      "url": "https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr"
+    },
+    {
+      "album": {
+        "name": "Somewhere On the Mountain",
+        "url": "https://open.spotify.com/album/6jvpkw1VIQBEaJAgodbqa7"
+      },
+      "artists": [
+        {
+          "name": "Twiddle",
+          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 243160,
+      "name": "When It Rains It Poors",
+      "url": "https://open.spotify.com/track/5JQuP833AF3KdWlES7yopX"
+    },
+    {
+      "album": {
+        "name": "American University 12/13/70 - Washington, DC",
+        "url": "https://open.spotify.com/album/4EF9tHP0XqXKbyUVbwMBNB"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1240040,
+      "name": "Whippin' Post - Live",
+      "url": "https://open.spotify.com/track/6N9kwHuJHfKKEDha56w3TP"
+    },
+    {
+      "album": {
+        "name": "Dark Side of the Mule (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 458773,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/4EzEvgNPXLlT7cDPucg1VZ"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/1UgdV58y1OX2oiTBbTFvlh"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 252760,
+      "name": "Wordless Chorus",
+      "url": "https://open.spotify.com/track/6xAa0kGkTLU22ZyoHOCHgi"
+    },
+    {
+      "album": {
+        "name": "Col. Bruce Hampton & The Aquarium Rescue Unit",
+        "url": "https://open.spotify.com/album/32l3J1s8bRTQqEACQjdEfx"
+      },
+      "artists": [
+        {
+          "name": "Col. Bruce Hampton & The Aquarium Rescue Unit",
+          "url": "https://open.spotify.com/artist/6QuS0MC1cKSgZEKwL6kYbh"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 285573,
+      "name": "Working On A Building - Live",
+      "url": "https://open.spotify.com/track/22wCsAtvbeudk2a34QKwA9"
+    },
+    {
+      "album": {
+        "name": "Live at Treasure Island Festival 2015",
+        "url": "https://open.spotify.com/album/4oHBK7gmM1lXOPArvOVPqG"
+      },
+      "artists": [
+        {
+          "name": "STS9",
+          "url": "https://open.spotify.com/artist/1eZ4td9oadjw7GkW0LzxNK"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 516799,
+      "name": "World Go Round",
+      "url": "https://open.spotify.com/track/0yNksGd1RJYAXRV4JuziZT"
+    },
+    {
+      "album": {
+        "name": "At Fillmore East",
+        "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1159912,
+      "name": "You Don't Love Me - Live At Fillmore East, March 12, 1971",
+      "url": "https://open.spotify.com/track/04hwplKxASneVsFWzbSpCX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4EFbXknq73d"
 }

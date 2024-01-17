@@ -1,13 +1,45 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 59583,
+  "num_followers": 60602,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MjA4MSw5YTRhN2JhMzhiOGNmMTdiYjU5MjRiYjBmYTM3OTNlNWI0N2I2MjUw",
+  "snapshot_id": "MjA4NCwwMDQzYTY0ZWFjNjY4NWE1NDNiYzhjYWJiYTNmMWQ2ODYzOTBkMjA3",
   "tracks": [
+    {
+      "added_at": "2024-01-12 16:56:53",
+      "album": {
+        "name": "Dark Void EP",
+        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 267554,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/711OrRL5PGxPS6fJGVxs8f"
+    },
+    {
+      "added_at": "2024-01-12 16:57:00",
+      "album": {
+        "name": "Dark Void EP",
+        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 213677,
+      "name": "Dark Void - Radio Edit",
+      "url": "https://open.spotify.com/track/6tlqOz655ohMcNstMvI75q"
+    },
     {
       "added_at": "2023-11-17 17:41:17",
       "album": {

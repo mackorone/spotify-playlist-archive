@@ -1,16 +1,1219 @@
 {
-  "2023-12-19": 29980,
-  "2023-12-20": 30001,
-  "2023-12-21": 30020,
-  "2023-12-22": 30030,
-  "2023-12-23": 30052,
-  "2023-12-24": 30067,
-  "2023-12-25": 30090,
-  "2023-12-26": 30105,
-  "2023-12-27": 30125,
-  "2023-12-30": 30173,
-  "2023-12-31": 30184,
-  "2024-01-01": 30216,
-  "2024-01-02": 30230,
-  "2024-01-03": 30250
+  "2024-01-17": 30591,
+  "date_first_scraped": "2023-12-19",
+  "description": "El precioso sonido de la guitarra flamenca, perfecto para evadirte.",
+  "name": "Guitarra Flamenca Relajante",
+  "tracks": [
+    {
+      "album": {
+        "name": "Cucchi, Flavio: American Portraits",
+        "url": "https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Roberto Casares",
+          "url": "https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r"
+        },
+        {
+          "name": "Flavio Cucchi",
+          "url": "https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149706,
+      "name": "7 Spanish songs (7 Canciones Sefaradies): No. 2. Ya viene el cativo",
+      "url": "https://open.spotify.com/track/2nHF7y8PWqX5P4SJECNqX3"
+    },
+    {
+      "album": {
+        "name": "Cucchi, Flavio: American Portraits",
+        "url": "https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Roberto Casares",
+          "url": "https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r"
+        },
+        {
+          "name": "Flavio Cucchi",
+          "url": "https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134893,
+      "name": "7 Spanish songs (7 Canciones Sefaradies): No. 3. En la mar ay una torre",
+      "url": "https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM"
+    },
+    {
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/2PhxV6j84KRNIXW2YAyy51"
+      },
+      "artists": [
+        {
+          "name": "Robert Michaels",
+          "url": "https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270160,
+      "name": "Aranjuez",
+      "url": "https://open.spotify.com/track/51rgkP5QNQ304AqCmqPW36"
+    },
+    {
+      "album": {
+        "name": "Inspiracion",
+        "url": "https://open.spotify.com/album/4saoCGtkL3Dml00VZjq2yf"
+      },
+      "artists": [
+        {
+          "name": "Jim Stubblefield",
+          "url": "https://open.spotify.com/artist/4Sw0O1oVtVbEuWrp87J1zr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Armadillo",
+      "url": "https://open.spotify.com/track/36JpFEFDkvfZsaTo3iTaqK"
+    },
+    {
+      "album": {
+        "name": "Allegro",
+        "url": "https://open.spotify.com/album/3fyihTZwvK90KJfDrt0OlF"
+      },
+      "artists": [
+        {
+          "name": "Robert Michaels",
+          "url": "https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "Armando's Market",
+      "url": "https://open.spotify.com/track/5UPAXt1seYfboXQnCtfmp9"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachliela: Flamenco Romantico",
+        "url": "https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Thomas Koch",
+          "url": "https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65"
+        },
+        {
+          "name": "Topo Gioia",
+          "url": "https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8"
+        },
+        {
+          "name": "Khader Ahmad",
+          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307773,
+      "name": "Armon\u00eda",
+      "url": "https://open.spotify.com/track/270JY1ly4zCgF7xuJPXCUC"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0dH4Mwx76Dw31gUaOlcEK8"
+      },
+      "artists": [
+        {
+          "name": "Jesse Cook",
+          "url": "https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258466,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/3LnM6Ke8wpYPe4O1yEfuqM"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachliela: Flamenco Romantico",
+        "url": "https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Thomas Koch",
+          "url": "https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65"
+        },
+        {
+          "name": "Topo Gioia",
+          "url": "https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8"
+        },
+        {
+          "name": "Khader Ahmad",
+          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300653,
+      "name": "A\u00f1oranza de Amor",
+      "url": "https://open.spotify.com/track/3aUYPiewWIKreBLbXqbb61"
+    },
+    {
+      "album": {
+        "name": "Cafe Ol\u00e9",
+        "url": "https://open.spotify.com/album/4vTKwJlyyvNtqVT3tKK52D"
+      },
+      "artists": [
+        {
+          "name": "Luis Villegas",
+          "url": "https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197506,
+      "name": "Banana Bay",
+      "url": "https://open.spotify.com/track/4fNb7ey8LhuxKmlCNsiIiO"
+    },
+    {
+      "album": {
+        "name": "Ice Blue Vol. 1",
+        "url": "https://open.spotify.com/album/01xhxXr0BK55PE4yyxLSOt"
+      },
+      "artists": [
+        {
+          "name": "Torfi Olafsson",
+          "url": "https://open.spotify.com/artist/3cy6iNC00fIz90oeyV4G5D"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135784,
+      "name": "Beautiful Eyes",
+      "url": "https://open.spotify.com/track/3Fj9716RD0SufAGVOB4SK8"
+    },
+    {
+      "album": {
+        "name": "Paco De Lucia, Al Di Meola, John McLaughlin",
+        "url": "https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        },
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Beyond The Mirage",
+      "url": "https://open.spotify.com/track/1RDkmgfjWsK7J9xlDS3PkX"
+    },
+    {
+      "album": {
+        "name": "Traditional Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC"
+      },
+      "artists": [
+        {
+          "name": "Andres Fernandez Amador",
+          "url": "https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Bulerias",
+      "url": "https://open.spotify.com/track/4ceIfkeFDxkmPF7uwcsd41"
+    },
+    {
+      "album": {
+        "name": "The Art Of Flying",
+        "url": "https://open.spotify.com/album/6snQbaPd9XYIhqzk1D3NRp"
+      },
+      "artists": [
+        {
+          "name": "Jose el Petate",
+          "url": "https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161247,
+      "name": "Bye bye",
+      "url": "https://open.spotify.com/track/0P2q30EKFRweeEDPS96E70"
+    },
+    {
+      "album": {
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn"
+      },
+      "artists": [
+        {
+          "name": "Javier Van Velthoven",
+          "url": "https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191108,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP"
+    },
+    {
+      "album": {
+        "name": "Camino blanco (Grana\u00ednas)",
+        "url": "https://open.spotify.com/album/7bjIepdqh0WHAOavfqNTKg"
+      },
+      "artists": [
+        {
+          "name": "Tony de Mar\u00eda",
+          "url": "https://open.spotify.com/artist/7psy0gN2JqC3OooGgXyuj6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285366,
+      "name": "Camino blanco (Grana\u00ednas)",
+      "url": "https://open.spotify.com/track/447HtR7a5Rp0TE4DmWlUOE"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0tRi3YnuPDrI4CSRKYMnF0"
+      },
+      "artists": [
+        {
+          "name": "Jesse Cook",
+          "url": "https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301826,
+      "name": "Canci\u00f3n Triste",
+      "url": "https://open.spotify.com/track/1WC8XL2CCH0JLD0ZyvWShA"
+    },
+    {
+      "album": {
+        "name": "Flashback (The Best Of Oscar Lopez)",
+        "url": "https://open.spotify.com/album/0fe1xqfhH0roo28qiJ7UvD"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lopez",
+          "url": "https://open.spotify.com/artist/3ELktghnE5zeabnHdNycyh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Classical Soul - Edit",
+      "url": "https://open.spotify.com/track/6VikkvVbmoCkufv4bLrdkZ"
+    },
+    {
+      "album": {
+        "name": "Creer Para Ver",
+        "url": "https://open.spotify.com/album/2SB3XjWyiHtXwZPbnLbrwT"
+      },
+      "artists": [
+        {
+          "name": "Dani de Mor\u00f3n",
+          "url": "https://open.spotify.com/artist/5q5hdofWygpLCkmorAyttW"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397213,
+      "name": "Conke",
+      "url": "https://open.spotify.com/track/2VCkGj73bDHaLYlfkizOSE"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n De Piedra",
+        "url": "https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69"
+      },
+      "artists": [
+        {
+          "name": "Combo Cadre",
+          "url": "https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138916,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt"
+    },
+    {
+      "album": {
+        "name": "Creer Para Ver",
+        "url": "https://open.spotify.com/album/2SB3XjWyiHtXwZPbnLbrwT"
+      },
+      "artists": [
+        {
+          "name": "Dani de Mor\u00f3n",
+          "url": "https://open.spotify.com/artist/5q5hdofWygpLCkmorAyttW"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357986,
+      "name": "Creer Para Ver",
+      "url": "https://open.spotify.com/track/1Cnw5kktcV8DDqntsk8klG"
+    },
+    {
+      "album": {
+        "name": "Tariq",
+        "url": "https://open.spotify.com/album/1UZbvM45s6cZ0eeu3nLmk2"
+      },
+      "artists": [
+        {
+          "name": "Ella Mikhailenko",
+          "url": "https://open.spotify.com/artist/0ib7cieXiFElKhmVbFFzKy"
+        },
+        {
+          "name": "Jaume Compte",
+          "url": "https://open.spotify.com/artist/3YYuXsiiVfHdsF6l209vCU"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "D'arie II",
+      "url": "https://open.spotify.com/track/0nBQDNvdvzHI4axWCKqFgw"
+    },
+    {
+      "album": {
+        "name": "Fanusa",
+        "url": "https://open.spotify.com/album/6rYCPuwuwcDZ5W70HQggN6"
+      },
+      "artists": [
+        {
+          "name": "Saro Tribastone",
+          "url": "https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab"
+        },
+        {
+          "name": "Nektarios Galanis",
+          "url": "https://open.spotify.com/artist/12N52SUlUodsZjCS9pKkyk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Danza de la Luna Nueva",
+      "url": "https://open.spotify.com/track/4mlnt33wO6QPdizWkkTYgc"
+    },
+    {
+      "album": {
+        "name": "Spanish Kiss",
+        "url": "https://open.spotify.com/album/4Fpko3OsvVUPla3xgiI8y7"
+      },
+      "artists": [
+        {
+          "name": "Luis Villegas",
+          "url": "https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381626,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/01MsqwaG0kCMTBJUAEkFAV"
+    },
+    {
+      "album": {
+        "name": "Deep Green Moss",
+        "url": "https://open.spotify.com/album/4q83V4R8vbdJOhLgbOOPCT"
+      },
+      "artists": [
+        {
+          "name": "Woodworks",
+          "url": "https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138410,
+      "name": "Deep Green Moss",
+      "url": "https://open.spotify.com/track/5AVkWOBydjuuJSbSP1i30b"
+    },
+    {
+      "album": {
+        "name": "Guitarra Espa\u00f1ola - Pasion Latina Vol.3 (Spanish Guitar - Latin Passion)",
+        "url": "https://open.spotify.com/album/1vzaRM0Jm4sHyAuqZCNx6e"
+      },
+      "artists": [
+        {
+          "name": "Chico Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Dos Cruces",
+      "url": "https://open.spotify.com/track/40yYzeImyqUkNcz0Fh7bVj"
+    },
+    {
+      "album": {
+        "name": "Flamenco Guitar Classics",
+        "url": "https://open.spotify.com/album/2NN0ktOwwRa05rYdXG5Jzh"
+      },
+      "artists": [
+        {
+          "name": "Flamenco Guitar Masters",
+          "url": "https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "Dust In The Wind",
+      "url": "https://open.spotify.com/track/4f3SRf6hsznSu41rTYJF8Y"
+    },
+    {
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/3FlkqKCP2xJ9zcutzwZqAa"
+      },
+      "artists": [
+        {
+          "name": "Ana Alcaide",
+          "url": "https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258880,
+      "name": "Elenion",
+      "url": "https://open.spotify.com/track/3516oXWeN9OdbHTUlCelOd"
+    },
+    {
+      "album": {
+        "name": "Mediterranea",
+        "url": "https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak"
+      },
+      "artists": [
+        {
+          "name": "Johannes Linstead",
+          "url": "https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265532,
+      "name": "Evening Embrace",
+      "url": "https://open.spotify.com/track/2pvYHngjUT2Gg9hQtMUSjb"
+    },
+    {
+      "album": {
+        "name": "Flowers of Genzano",
+        "url": "https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M"
+      },
+      "artists": [
+        {
+          "name": "Armand de Paris",
+          "url": "https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212687,
+      "name": "Flowers of Genzano",
+      "url": "https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr"
+    },
+    {
+      "album": {
+        "name": "A Bridge Between",
+        "url": "https://open.spotify.com/album/37uKchLHOIox3APBTic8qu"
+      },
+      "artists": [
+        {
+          "name": "Carbe and Durand",
+          "url": "https://open.spotify.com/artist/2u0aEnMHFuYP6ljH3lNcnN"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351560,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/1PBV1R2LcU66EpHcrYxWlL"
+    },
+    {
+      "album": {
+        "name": "Siroco",
+        "url": "https://open.spotify.com/album/0ZupSiTYqSjGJOAbpxybxh"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307800,
+      "name": "Gloria Al Ni\u00f1o Ricardo",
+      "url": "https://open.spotify.com/track/70ZErGPca76oZwUEB5mK0C"
+    },
+    {
+      "album": {
+        "name": "Carter, Jason: Contemporary Spanish Guitar",
+        "url": "https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551786,
+      "name": "Guitar Suite: I. \u2014",
+      "url": "https://open.spotify.com/track/2PW2GLdLYxkdxUS0jnDFpM"
+    },
+    {
+      "album": {
+        "name": "Carter, Jason: Contemporary Spanish Guitar",
+        "url": "https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "Guitar Suite: II. \u2014",
+      "url": "https://open.spotify.com/track/6OUJurypMSuSWeKKKjMYZ8"
+    },
+    {
+      "album": {
+        "name": "The Road To Euphoria",
+        "url": "https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW"
+      },
+      "artists": [
+        {
+          "name": "Dan Sistos",
+          "url": "https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "I Still Need You",
+      "url": "https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos del Sol",
+        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
+      },
+      "artists": [
+        {
+          "name": "Guitarras de Luna",
+          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/5APbR5HgGEgthIoJANMoJI"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX"
+      },
+      "artists": [
+        {
+          "name": "Los Alhama",
+          "url": "https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240573,
+      "name": "La Juani",
+      "url": "https://open.spotify.com/track/0oulPWX7WIuc7zienNXCCR"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachliela: Flamenco Nuevo",
+        "url": "https://open.spotify.com/album/5TIYTblia22KtU92NtAKnm"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "La Moraima",
+          "url": "https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z"
+        },
+        {
+          "name": "Ana Azules",
+          "url": "https://open.spotify.com/artist/28uaLPiyViriPdt8bDkhAx"
+        },
+        {
+          "name": "Topo Gioia",
+          "url": "https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "La Moraima",
+      "url": "https://open.spotify.com/track/7HyhgyD0eSVk4S40w5V9e1"
+    },
+    {
+      "album": {
+        "name": "Lleva Mi Amor",
+        "url": "https://open.spotify.com/album/2wyKPCuOVZGPEcoh1Dxf8Y"
+      },
+      "artists": [
+        {
+          "name": "Barracuda Sound",
+          "url": "https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137856,
+      "name": "Lleva Mi Amor",
+      "url": "https://open.spotify.com/track/1kPMYjXR6g36hSb1bxF55e"
+    },
+    {
+      "album": {
+        "name": "Absolute Flamenco",
+        "url": "https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp"
+      },
+      "artists": [
+        {
+          "name": "Andres Fernandez Amador",
+          "url": "https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169700,
+      "name": "Lluvia de plata",
+      "url": "https://open.spotify.com/track/3KxU4j0VwWlPYcVgfYHfbp"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/0PfYBxRtVurOuMWebBmgw9"
+      },
+      "artists": [
+        {
+          "name": "El Mondao",
+          "url": "https://open.spotify.com/artist/6ZWL87UA30dQLCwP9pcJp6"
+        },
+        {
+          "name": "El Mori de Aguilas",
+          "url": "https://open.spotify.com/artist/1uBEhNHvzx8B4cm8ihJKz4"
+        },
+        {
+          "name": "Paco de Sevilla",
+          "url": "https://open.spotify.com/artist/72Ik41iwiim8HUTilM6FSL"
+        },
+        {
+          "name": "Pepe El Marques",
+          "url": "https://open.spotify.com/artist/4mF5KYqhyuBKTZHvnOeGI6"
+        },
+        {
+          "name": "El Fosi",
+          "url": "https://open.spotify.com/artist/0ALDT54x6p28C0xobYE1uZ"
+        },
+        {
+          "name": "Paquito Gomez",
+          "url": "https://open.spotify.com/artist/6msMiaHArZdAQeurrwjKvU"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Lluvia y Fuego",
+      "url": "https://open.spotify.com/track/2Yw9EKOdXCIsZlW2Z5fSSK"
+    },
+    {
+      "album": {
+        "name": "Lozana",
+        "url": "https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb"
+      },
+      "artists": [
+        {
+          "name": "Graciela Flores",
+          "url": "https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129207,
+      "name": "Lozana",
+      "url": "https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6"
+    },
+    {
+      "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/2XAX34hK3DXVPXI30uLFX7"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Martinelli",
+          "url": "https://open.spotify.com/artist/5RQtQllQERLUL3Wi4VCIQs"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419480,
+      "name": "Malaguena",
+      "url": "https://open.spotify.com/track/7fhqEnnUSfREXfYwDlaU8d"
+    },
+    {
+      "album": {
+        "name": "Amor De Guitarra",
+        "url": "https://open.spotify.com/album/7yoNem1kQLMondAaO3Zqa5"
+      },
+      "artists": [
+        {
+          "name": "Armik",
+          "url": "https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292813,
+      "name": "Midnight Bolero",
+      "url": "https://open.spotify.com/track/67SBVQzIscGk8sxs3XpkPF"
+    },
+    {
+      "album": {
+        "name": "Parque De Mar\u00eda Luisa",
+        "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
+      },
+      "artists": [
+        {
+          "name": "Rafael Riqueni",
+          "url": "https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274310,
+      "name": "Monte Gurug\u00fa",
+      "url": "https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW"
+    },
+    {
+      "album": {
+        "name": "Flamenco Music - Instrumental Spanish Flamenco Guitar, Original Acoustic Guitar Songs With Latin Jazz Band, Latin Dance Party",
+        "url": "https://open.spotify.com/album/6Vwu4En2OT9sjMfwv23cKB"
+      },
+      "artists": [
+        {
+          "name": "Gypsy Flamenco Masters",
+          "url": "https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235823,
+      "name": "Moody Road - Sensual Romantic Rumba",
+      "url": "https://open.spotify.com/track/22qJyJvt8eh6Y1NxULDB0U"
+    },
+    {
+      "album": {
+        "name": "Mandala",
+        "url": "https://open.spotify.com/album/0SScNz53QNs2yLrKmj8sBY"
+      },
+      "artists": [
+        {
+          "name": "Mark Barnwell",
+          "url": "https://open.spotify.com/artist/7KT3M5b1sDWSIkh1AKl2um"
+        },
+        {
+          "name": "Al Marconi",
+          "url": "https://open.spotify.com/artist/4Sd3PIPUKX5AHwME6qxG7O"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289500,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/17yD0hbCcSMtYbPhkrBMph"
+    },
+    {
+      "album": {
+        "name": "Rhythm of the Heart",
+        "url": "https://open.spotify.com/album/2DHi5UXErkRa6Wvbd9Dvtk"
+      },
+      "artists": [
+        {
+          "name": "Jim Stubblefield Group",
+          "url": "https://open.spotify.com/artist/5IVxPvKxyxwoWyF2wrQLcQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336222,
+      "name": "Ojos de las Estrellas",
+      "url": "https://open.spotify.com/track/344A5rwFf9gOulZPp06C42"
+    },
+    {
+      "album": {
+        "name": "Pureza",
+        "url": "https://open.spotify.com/album/6KHaXDnrVNVa2e2OpXk6Tp"
+      },
+      "artists": [
+        {
+          "name": "Rafael Riqueni",
+          "url": "https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259093,
+      "name": "Pureza",
+      "url": "https://open.spotify.com/track/4TpElKeUtQ2JzMnajhWbMe"
+    },
+    {
+      "album": {
+        "name": "Flamenco Sin Fronteras",
+        "url": "https://open.spotify.com/album/4JrBEWglIe750bShCTigNu"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rey",
+          "url": "https://open.spotify.com/artist/5IRSZuGnF84xSdWWGe6jDl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241093,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/7geMld9M9InEiqY8Ehm1Q6"
+    },
+    {
+      "album": {
+        "name": "Massel Klezmorim: Jewish Travels - A Historical Voyage in Music and Song",
+        "url": "https://open.spotify.com/album/0ep5smc16YElZTmjSXHjG6"
+      },
+      "artists": [
+        {
+          "name": "Massel Klezmorim",
+          "url": "https://open.spotify.com/artist/4fyKoXrsrIuUzygr4dUyRZ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Sephardic Elegy",
+      "url": "https://open.spotify.com/track/3OYtLejmcJDcZO8wbSM7cK"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachliela: Flamenco Nuevo",
+        "url": "https://open.spotify.com/album/0XETelVpmLRKoXu85RditF"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Domingo Patricio",
+          "url": "https://open.spotify.com/artist/6CUGlYZ6QZvcyRo7ZE8BGZ"
+        },
+        {
+          "name": "Juan Rectoret",
+          "url": "https://open.spotify.com/artist/65fn3THpn05ohcBVwvM6Va"
+        },
+        {
+          "name": "Enric Canada",
+          "url": "https://open.spotify.com/artist/3Pmpazt8tzKL0wX1e4a07c"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335200,
+      "name": "Silueta",
+      "url": "https://open.spotify.com/track/0ltYwTuk5rxK3bSr3j77AX"
+    },
+    {
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/56J6y4rTg2rg1uNtjXsge9"
+      },
+      "artists": [
+        {
+          "name": "Guitarra Azul",
+          "url": "https://open.spotify.com/artist/6demanG8RKIBV6LMmG4ihD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "Solamente Uno",
+      "url": "https://open.spotify.com/track/7lLSKsSdzjgh3ufVKfg8oR"
+    },
+    {
+      "album": {
+        "name": "Absolute Flamenco",
+        "url": "https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp"
+      },
+      "artists": [
+        {
+          "name": "Andres Fernandez Amador",
+          "url": "https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277400,
+      "name": "Solea",
+      "url": "https://open.spotify.com/track/1tv8agBVvSOPZ6cHcADpGr"
+    },
+    {
+      "album": {
+        "name": "Vincenzo Martinelli",
+        "url": "https://open.spotify.com/album/5EjwkgmYCKxHHfFDO8DMKo"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Martinelli",
+          "url": "https://open.spotify.com/artist/5RQtQllQERLUL3Wi4VCIQs"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Soleares",
+      "url": "https://open.spotify.com/track/7GYEJQZPPt9jVCMzJM1qJA"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276600,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/0k4Y2TqLUPNJ8euMibKQ4z"
+    },
+    {
+      "album": {
+        "name": "Traditional Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC"
+      },
+      "artists": [
+        {
+          "name": "Andres Fernandez Amador",
+          "url": "https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Tarantas",
+      "url": "https://open.spotify.com/track/3JqVaiG3pA5Rrj1LQzDaR9"
+    },
+    {
+      "album": {
+        "name": "Carter, Jason: Contemporary Spanish Guitar",
+        "url": "https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542200,
+      "name": "The Endless Dance",
+      "url": "https://open.spotify.com/track/1Kpydr7RXuFVFWbUDJp3sB"
+    },
+    {
+      "album": {
+        "name": "Cuchama",
+        "url": "https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI"
+      },
+      "artists": [
+        {
+          "name": "Govi",
+          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307773,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ"
+    },
+    {
+      "album": {
+        "name": "Una limosna por el amor de Dios",
+        "url": "https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8"
+      },
+      "artists": [
+        {
+          "name": "WarmHugs",
+          "url": "https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198711,
+      "name": "Una limosna por el amor de Dios",
+      "url": "https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz"
+    },
+    {
+      "album": {
+        "name": "Absolute Flamenco",
+        "url": "https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp"
+      },
+      "artists": [
+        {
+          "name": "Andres Fernandez Amador",
+          "url": "https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127600,
+      "name": "Verdiales",
+      "url": "https://open.spotify.com/track/0itmNtj1Mb7WTrUDqnig1Y"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/1dWXg3wCJRWfpG5D4Z44m0"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "La Moraima",
+          "url": "https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z"
+        },
+        {
+          "name": "Hossam Ramzy",
+          "url": "https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242413,
+      "name": "Zalameria",
+      "url": "https://open.spotify.com/track/0mAAqY0KwhqlBgbhGbZfIM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWX2SDPTiDbwL"
 }

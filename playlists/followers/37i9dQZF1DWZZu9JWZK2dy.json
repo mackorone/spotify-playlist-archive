@@ -1,620 +1,2073 @@
 {
-  "2022-04-19": 54451,
-  "2022-04-20": 54765,
-  "2022-04-21": 55076,
-  "2022-04-22": 55358,
-  "2022-04-23": 55600,
-  "2022-04-24": 55856,
-  "2022-04-25": 56095,
-  "2022-04-26": 56579,
-  "2022-04-27": 57378,
-  "2022-04-28": 57649,
-  "2022-04-29": 58062,
-  "2022-04-30": 58316,
-  "2022-05-01": 58641,
-  "2022-05-02": 58641,
-  "2022-05-03": 58904,
-  "2022-05-04": 59123,
-  "2022-05-05": 59332,
-  "2022-05-06": 59509,
-  "2022-05-07": 59741,
-  "2022-05-08": 60006,
-  "2022-05-09": 60030,
-  "2022-05-10": 60209,
-  "2022-05-11": 60363,
-  "2022-05-12": 60503,
-  "2022-05-13": 60683,
-  "2022-05-14": 60888,
-  "2022-05-15": 61070,
-  "2022-05-16": 61233,
-  "2022-05-17": 61388,
-  "2022-05-18": 61570,
-  "2022-05-19": 61760,
-  "2022-05-20": 61921,
-  "2022-05-21": 62214,
-  "2022-05-22": 62214,
-  "2022-05-23": 62371,
-  "2022-05-24": 62480,
-  "2022-05-25": 62645,
-  "2022-05-26": 62794,
-  "2022-05-27": 62933,
-  "2022-05-28": 63108,
-  "2022-05-29": 63245,
-  "2022-05-30": 63389,
-  "2022-05-31": 63513,
-  "2022-06-01": 63757,
-  "2022-06-02": 63774,
-  "2022-06-03": 63880,
-  "2022-06-04": 64004,
-  "2022-06-05": 64159,
-  "2022-06-06": 64282,
-  "2022-06-07": 64414,
-  "2022-06-08": 64712,
-  "2022-06-09": 64851,
-  "2022-06-10": 65009,
-  "2022-06-11": 65134,
-  "2022-06-12": 65269,
-  "2022-06-13": 65393,
-  "2022-06-14": 65549,
-  "2022-06-15": 65684,
-  "2022-06-16": 65811,
-  "2022-06-17": 65944,
-  "2022-06-18": 66075,
-  "2022-06-19": 66347,
-  "2022-06-20": 66347,
-  "2022-06-21": 66494,
-  "2022-06-22": 66716,
-  "2022-06-23": 66716,
-  "2022-06-24": 66834,
-  "2022-06-25": 66976,
-  "2022-06-26": 67105,
-  "2022-06-27": 67223,
-  "2022-06-28": 67335,
-  "2022-06-29": 67477,
-  "2022-06-30": 67593,
-  "2022-07-01": 67721,
-  "2022-07-02": 67833,
-  "2022-07-03": 67954,
-  "2022-07-04": 68089,
-  "2022-07-05": 68202,
-  "2022-07-06": 68304,
-  "2022-07-07": 68449,
-  "2022-07-08": 68580,
-  "2022-07-09": 68691,
-  "2022-07-10": 68814,
-  "2022-07-11": 68950,
-  "2022-07-12": 69063,
-  "2022-07-13": 69192,
-  "2022-07-14": 69323,
-  "2022-07-15": 69479,
-  "2022-07-16": 69585,
-  "2022-07-17": 69697,
-  "2022-07-18": 69841,
-  "2022-07-19": 69993,
-  "2022-07-20": 70157,
-  "2022-07-21": 70317,
-  "2022-07-22": 70452,
-  "2022-07-23": 70614,
-  "2022-07-24": 70758,
-  "2022-07-25": 70908,
-  "2022-07-26": 71034,
-  "2022-07-27": 71167,
-  "2022-07-28": 71305,
-  "2022-07-29": 71426,
-  "2022-07-30": 71691,
-  "2022-07-31": 71691,
-  "2022-08-01": 71799,
-  "2022-08-02": 72016,
-  "2022-08-03": 72016,
-  "2022-08-04": 72134,
-  "2022-08-05": 72279,
-  "2022-08-06": 72383,
-  "2022-08-07": 72501,
-  "2022-08-08": 72607,
-  "2022-08-09": 72743,
-  "2022-08-10": 72890,
-  "2022-08-11": 73028,
-  "2022-08-12": 73159,
-  "2022-08-13": 73294,
-  "2022-08-14": 73401,
-  "2022-08-15": 73519,
-  "2022-08-16": 73662,
-  "2022-08-17": 73788,
-  "2022-08-18": 73914,
-  "2022-08-19": 74026,
-  "2022-08-20": 74131,
-  "2022-08-21": 74240,
-  "2022-08-22": 74360,
-  "2022-08-23": 74484,
-  "2022-08-24": 74642,
-  "2022-08-25": 74760,
-  "2022-08-26": 74886,
-  "2022-08-27": 75032,
-  "2022-08-28": 75187,
-  "2022-08-29": 75302,
-  "2022-08-30": 75358,
-  "2022-08-31": 75327,
-  "2022-09-01": 75301,
-  "2022-09-02": 75433,
-  "2022-09-03": 75421,
-  "2022-09-04": 75285,
-  "2022-09-06": 75384,
-  "2022-09-07": 75492,
-  "2022-09-09": 75705,
-  "2022-09-10": 75838,
-  "2022-09-11": 75992,
-  "2022-09-12": 76088,
-  "2022-09-13": 76216,
-  "2022-09-15": 76479,
-  "2022-09-16": 76595,
-  "2022-09-17": 76738,
-  "2022-09-18": 76835,
-  "2022-09-19": 76969,
-  "2022-09-20": 77082,
-  "2022-09-21": 77189,
-  "2022-09-22": 77316,
-  "2022-09-23": 77457,
-  "2022-09-24": 77584,
-  "2022-09-25": 77727,
-  "2022-09-26": 77832,
-  "2022-09-27": 77939,
-  "2022-09-28": 78078,
-  "2022-09-29": 78207,
-  "2022-09-30": 78344,
-  "2022-10-01": 78449,
-  "2022-10-02": 78575,
-  "2022-10-03": 78675,
-  "2022-10-04": 78788,
-  "2022-10-05": 78917,
-  "2022-10-06": 79026,
-  "2022-10-07": 79165,
-  "2022-10-08": 79280,
-  "2022-10-09": 79491,
-  "2022-10-10": 79532,
-  "2022-10-11": 79656,
-  "2022-10-12": 79781,
-  "2022-10-13": 79894,
-  "2022-10-14": 80025,
-  "2022-10-15": 80144,
-  "2022-10-16": 80261,
-  "2022-10-17": 80392,
-  "2022-10-18": 80515,
-  "2022-10-19": 80601,
-  "2022-10-20": 80716,
-  "2022-10-21": 80834,
-  "2022-10-22": 80940,
-  "2022-10-23": 81034,
-  "2022-10-24": 81140,
-  "2022-10-25": 81234,
-  "2022-10-26": 81345,
-  "2022-10-27": 81451,
-  "2022-10-28": 81565,
-  "2022-10-29": 81678,
-  "2022-10-30": 81800,
-  "2022-10-31": 81919,
-  "2022-11-01": 82017,
-  "2022-11-02": 82125,
-  "2022-11-03": 82234,
-  "2022-11-04": 82381,
-  "2022-11-05": 82481,
-  "2022-11-06": 82596,
-  "2022-11-07": 82691,
-  "2022-11-08": 82819,
-  "2022-11-09": 82916,
-  "2022-11-10": 83002,
-  "2022-11-11": 83138,
-  "2022-11-12": 83298,
-  "2022-11-13": 83393,
-  "2022-11-14": 83521,
-  "2022-11-15": 83616,
-  "2022-11-16": 83726,
-  "2022-11-17": 83825,
-  "2022-11-18": 83883,
-  "2022-11-19": 83847,
-  "2022-11-20": 83876,
-  "2022-11-21": 83977,
-  "2022-11-22": 84226,
-  "2022-11-23": 84194,
-  "2022-11-24": 84521,
-  "2022-11-25": 84665,
-  "2022-11-26": 84765,
-  "2022-11-27": 84900,
-  "2022-11-28": 85019,
-  "2022-11-29": 85108,
-  "2022-11-30": 85228,
-  "2022-12-01": 85431,
-  "2022-12-02": 85537,
-  "2022-12-03": 85801,
-  "2022-12-04": 85951,
-  "2022-12-05": 86122,
-  "2022-12-06": 86294,
-  "2022-12-07": 86499,
-  "2022-12-08": 86703,
-  "2022-12-09": 86859,
-  "2022-12-10": 86984,
-  "2022-12-11": 87094,
-  "2022-12-12": 87226,
-  "2022-12-13": 87353,
-  "2022-12-14": 87459,
-  "2022-12-15": 87573,
-  "2022-12-16": 87718,
-  "2022-12-17": 87864,
-  "2022-12-18": 88021,
-  "2022-12-19": 88131,
-  "2022-12-20": 88383,
-  "2022-12-21": 88383,
-  "2022-12-22": 88482,
-  "2022-12-24": 88712,
-  "2022-12-25": 88824,
-  "2022-12-26": 88913,
-  "2022-12-27": 89007,
-  "2022-12-28": 89138,
-  "2022-12-29": 89257,
-  "2022-12-30": 89429,
-  "2022-12-31": 89593,
-  "2023-01-01": 89744,
-  "2023-01-02": 89911,
-  "2023-01-03": 90139,
-  "2023-01-04": 90344,
-  "2023-01-05": 90533,
-  "2023-01-06": 90791,
-  "2023-01-07": 91093,
-  "2023-01-08": 91144,
-  "2023-01-09": 91347,
-  "2023-01-10": 91552,
-  "2023-01-11": 91736,
-  "2023-01-12": 91980,
-  "2023-01-13": 92221,
-  "2023-01-14": 92587,
-  "2023-01-15": 92651,
-  "2023-01-16": 92846,
-  "2023-01-17": 93155,
-  "2023-01-18": 93379,
-  "2023-01-19": 93604,
-  "2023-01-20": 93810,
-  "2023-01-21": 93959,
-  "2023-01-22": 94164,
-  "2023-01-23": 94335,
-  "2023-01-24": 94498,
-  "2023-01-25": 94671,
-  "2023-01-26": 94817,
-  "2023-01-27": 95224,
-  "2023-01-28": 95389,
-  "2023-01-29": 95547,
-  "2023-01-30": 95686,
-  "2023-01-31": 95686,
-  "2023-02-01": 96010,
-  "2023-02-02": 96173,
-  "2023-02-03": 96314,
-  "2023-02-04": 96509,
-  "2023-02-05": 96693,
-  "2023-02-06": 96849,
-  "2023-02-07": 96995,
-  "2023-02-08": 97350,
-  "2023-02-09": 97350,
-  "2023-02-10": 97474,
-  "2023-02-11": 97615,
-  "2023-02-12": 97894,
-  "2023-02-13": 98016,
-  "2023-02-14": 98016,
-  "2023-02-15": 98171,
-  "2023-02-16": 98324,
-  "2023-02-17": 98461,
-  "2023-02-18": 98734,
-  "2023-02-19": 98764,
-  "2023-02-20": 98875,
-  "2023-02-21": 99053,
-  "2023-02-22": 99229,
-  "2023-02-23": 99401,
-  "2023-02-24": 99561,
-  "2023-02-25": 99768,
-  "2023-02-26": 99849,
-  "2023-02-27": 100113,
-  "2023-02-28": 100113,
-  "2023-03-01": 100282,
-  "2023-03-02": 100425,
-  "2023-03-03": 100605,
-  "2023-03-04": 100776,
-  "2023-03-05": 101105,
-  "2023-03-06": 101105,
-  "2023-03-07": 101286,
-  "2023-03-08": 101455,
-  "2023-03-09": 101608,
-  "2023-03-10": 101741,
-  "2023-03-11": 101877,
-  "2023-03-12": 102035,
-  "2023-03-13": 102242,
-  "2023-03-14": 102432,
-  "2023-03-15": 102678,
-  "2023-03-16": 102972,
-  "2023-03-17": 102972,
-  "2023-03-18": 103422,
-  "2023-03-19": 103622,
-  "2023-03-20": 103844,
-  "2023-03-21": 104071,
-  "2023-03-22": 104346,
-  "2023-03-23": 104554,
-  "2023-03-24": 104554,
-  "2023-03-25": 105028,
-  "2023-03-26": 105232,
-  "2023-03-27": 105459,
-  "2023-03-28": 105705,
-  "2023-03-29": 105968,
-  "2023-03-30": 106393,
-  "2023-03-31": 106393,
-  "2023-04-01": 106638,
-  "2023-04-02": 106851,
-  "2023-04-03": 107036,
-  "2023-04-04": 107258,
-  "2023-04-05": 107484,
-  "2023-04-06": 107686,
-  "2023-04-07": 107885,
-  "2023-04-09": 108258,
-  "2023-04-10": 108477,
-  "2023-04-11": 108836,
-  "2023-04-12": 108836,
-  "2023-04-13": 109037,
-  "2023-04-14": 109257,
-  "2023-04-15": 109469,
-  "2023-04-16": 109664,
-  "2023-04-17": 109862,
-  "2023-04-18": 110092,
-  "2023-04-19": 110336,
-  "2023-04-20": 110551,
-  "2023-04-21": 110750,
-  "2023-04-22": 110932,
-  "2023-04-23": 111117,
-  "2023-04-24": 111325,
-  "2023-04-25": 111547,
-  "2023-04-26": 111807,
-  "2023-04-27": 112006,
-  "2023-04-28": 112159,
-  "2023-04-29": 112353,
-  "2023-04-30": 112525,
-  "2023-05-01": 112678,
-  "2023-05-02": 112829,
-  "2023-05-03": 113022,
-  "2023-05-04": 113202,
-  "2023-05-05": 113361,
-  "2023-05-06": 113649,
-  "2023-05-07": 113855,
-  "2023-05-08": 114025,
-  "2023-05-09": 114366,
-  "2023-05-10": 114614,
-  "2023-05-11": 114837,
-  "2023-05-12": 115307,
-  "2023-05-13": 115514,
-  "2023-05-14": 115692,
-  "2023-05-15": 115896,
-  "2023-05-16": 116074,
-  "2023-05-17": 116271,
-  "2023-05-18": 116451,
-  "2023-05-19": 116662,
-  "2023-05-20": 116981,
-  "2023-05-21": 116981,
-  "2023-05-22": 116981,
-  "2023-05-23": 117301,
-  "2023-05-24": 117583,
-  "2023-05-25": 117617,
-  "2023-05-26": 117771,
-  "2023-05-27": 117948,
-  "2023-05-28": 118129,
-  "2023-05-29": 118129,
-  "2023-05-30": 118460,
-  "2023-05-31": 118631,
-  "2023-06-01": 118818,
-  "2023-06-02": 118979,
-  "2023-06-03": 119122,
-  "2023-06-04": 119264,
-  "2023-06-05": 119412,
-  "2023-06-06": 119570,
-  "2023-06-07": 119711,
-  "2023-06-08": 119886,
-  "2023-06-09": 120026,
-  "2023-06-10": 120151,
-  "2023-06-11": 120325,
-  "2023-06-12": 120460,
-  "2023-06-13": 120592,
-  "2023-06-14": 120745,
-  "2023-06-15": 120893,
-  "2023-06-16": 121030,
-  "2023-06-17": 121194,
-  "2023-06-18": 121355,
-  "2023-06-19": 121526,
-  "2023-06-20": 121690,
-  "2023-06-21": 121833,
-  "2023-06-22": 121977,
-  "2023-06-23": 122174,
-  "2023-06-24": 122329,
-  "2023-06-25": 122460,
-  "2023-06-26": 122624,
-  "2023-06-27": 122751,
-  "2023-06-28": 122880,
-  "2023-06-29": 123024,
-  "2023-06-30": 123172,
-  "2023-07-01": 124910,
-  "2023-07-02": 124910,
-  "2023-07-03": 126640,
-  "2023-07-04": 127736,
-  "2023-07-05": 128522,
-  "2023-07-06": 129388,
-  "2023-07-07": 129388,
-  "2023-07-08": 129660,
-  "2023-07-09": 129912,
-  "2023-07-10": 130128,
-  "2023-07-11": 130283,
-  "2023-07-12": 130480,
-  "2023-07-13": 130687,
-  "2023-07-14": 130838,
-  "2023-07-15": 130992,
-  "2023-07-16": 131205,
-  "2023-07-17": 131358,
-  "2023-07-18": 131527,
-  "2023-07-19": 131670,
-  "2023-07-20": 131804,
-  "2023-07-21": 131943,
-  "2023-07-22": 132058,
-  "2023-07-23": 132183,
-  "2023-07-24": 132333,
-  "2023-07-25": 132478,
-  "2023-07-26": 132649,
-  "2023-07-27": 132820,
-  "2023-07-28": 132962,
-  "2023-07-29": 133142,
-  "2023-07-30": 133289,
-  "2023-07-31": 133418,
-  "2023-08-01": 133574,
-  "2023-08-02": 133723,
-  "2023-08-03": 133859,
-  "2023-08-04": 133962,
-  "2023-08-05": 134095,
-  "2023-08-06": 134304,
-  "2023-08-07": 134304,
-  "2023-08-08": 134416,
-  "2023-08-09": 134563,
-  "2023-08-10": 134695,
-  "2023-08-11": 134826,
-  "2023-08-12": 134968,
-  "2023-08-13": 135109,
-  "2023-08-14": 135231,
-  "2023-08-15": 135500,
-  "2023-08-16": 135500,
-  "2023-08-17": 135632,
-  "2023-08-18": 135755,
-  "2023-08-19": 135875,
-  "2023-08-20": 136007,
-  "2023-08-21": 136150,
-  "2023-08-22": 136283,
-  "2023-08-23": 136410,
-  "2023-08-24": 136533,
-  "2023-08-25": 136649,
-  "2023-08-26": 136791,
-  "2023-08-27": 136891,
-  "2023-08-28": 137027,
-  "2023-08-29": 137145,
-  "2023-08-30": 137282,
-  "2023-08-31": 137412,
-  "2023-09-01": 137612,
-  "2023-09-02": 137612,
-  "2023-09-03": 137685,
-  "2023-09-04": 137767,
-  "2023-09-05": 137843,
-  "2023-09-06": 137943,
-  "2023-09-07": 138035,
-  "2023-09-08": 138115,
-  "2023-09-09": 138232,
-  "2023-09-10": 138309,
-  "2023-09-11": 138410,
-  "2023-09-12": 138503,
-  "2023-09-13": 138629,
-  "2023-09-14": 138720,
-  "2023-09-15": 138811,
-  "2023-09-16": 138870,
-  "2023-09-17": 138947,
-  "2023-09-18": 139004,
-  "2023-09-19": 139064,
-  "2023-09-20": 139129,
-  "2023-09-21": 139229,
-  "2023-09-22": 139324,
-  "2023-09-23": 139413,
-  "2023-09-24": 139500,
-  "2023-09-25": 139567,
-  "2023-09-26": 139665,
-  "2023-09-27": 139725,
-  "2023-09-28": 139797,
-  "2023-09-29": 139872,
-  "2023-09-30": 139947,
-  "2023-10-01": 140027,
-  "2023-10-02": 140099,
-  "2023-10-03": 140146,
-  "2023-10-04": 140224,
-  "2023-10-05": 140319,
-  "2023-10-06": 140394,
-  "2023-10-07": 140449,
-  "2023-10-08": 140522,
-  "2023-10-09": 140590,
-  "2023-10-10": 140684,
-  "2023-10-11": 140795,
-  "2023-10-12": 140795,
-  "2023-10-13": 140866,
-  "2023-10-14": 140913,
-  "2023-10-15": 140990,
-  "2023-10-16": 141061,
-  "2023-10-17": 141135,
-  "2023-10-18": 141187,
-  "2023-10-19": 141270,
-  "2023-10-20": 141344,
-  "2023-10-21": 141391,
-  "2023-10-22": 141439,
-  "2023-10-23": 141497,
-  "2023-10-24": 141564,
-  "2023-10-25": 141611,
-  "2023-10-26": 141687,
-  "2023-10-27": 141756,
-  "2023-10-28": 141820,
-  "2023-10-29": 141880,
-  "2023-10-30": 142045,
-  "2023-10-31": 142045,
-  "2023-11-01": 142097,
-  "2023-11-02": 142139,
-  "2023-11-03": 142203,
-  "2023-11-04": 142275,
-  "2023-11-05": 142346,
-  "2023-11-06": 142413,
-  "2023-11-07": 142487,
-  "2023-11-08": 142543,
-  "2023-11-09": 142617,
-  "2023-11-10": 142716,
-  "2023-11-11": 142787,
-  "2023-11-12": 142844,
-  "2023-11-13": 142913,
-  "2023-11-14": 142982,
-  "2023-11-15": 142982,
-  "2023-11-16": 143116,
-  "2023-11-17": 143226,
-  "2023-11-18": 143226,
-  "2023-11-19": 143292,
-  "2023-11-20": 143366,
-  "2023-11-21": 143422,
-  "2023-11-22": 143479,
-  "2023-11-23": 143558,
-  "2023-11-24": 143629,
-  "2023-11-25": 143678,
-  "2023-11-26": 143754,
-  "2023-11-27": 143813,
-  "2023-11-28": 143860,
-  "2023-11-29": 144031,
-  "2023-11-30": 144031,
-  "2023-12-01": 144116,
-  "2023-12-02": 144167,
-  "2023-12-03": 144236,
-  "2023-12-04": 144294,
-  "2023-12-05": 144357,
-  "2023-12-06": 144415,
-  "2023-12-07": 144476,
-  "2023-12-08": 144570,
-  "2023-12-09": 144653,
-  "2023-12-10": 144794,
-  "2023-12-11": 144907,
-  "2023-12-12": 145002,
-  "2023-12-13": 145089,
-  "2023-12-14": 145193,
-  "2023-12-15": 145238,
-  "2023-12-16": 145317,
-  "2023-12-17": 145408,
-  "2023-12-18": 145498,
-  "2023-12-19": 145601,
-  "2023-12-20": 145669,
-  "2023-12-21": 145761,
-  "2023-12-22": 145851,
-  "2023-12-23": 145945,
-  "2023-12-24": 146002,
-  "2023-12-25": 146083,
-  "2023-12-26": 146162,
-  "2023-12-27": 146238,
-  "2023-12-30": 146505,
-  "2023-12-31": 146578,
-  "2024-01-01": 146649,
-  "2024-01-02": 146732,
-  "2024-01-03": 146813
+  "2024-01-17": 148135,
+  "date_first_scraped": "2022-04-19",
+  "description": "The hottest Anime hits of the 00s.  2000\u5e74\u4ee3\u306e\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u7279\u96c6\uff01Illustration by <a href=\"https://www.instagram.com/hideyasu_moto/\"> Hideyasu Moto</a>",
+  "name": "Anime Rewind '00s",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u30e1\u30ed\u30c7\u30a3\u30c3\u30af\u30fb\u30b9\u30fc\u30d1\u30fc\u30fb\u30cf\u30fc\u30c9\u30fb\u30ad\u30e5\u30a2",
+        "url": "https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u30ed\u30ad\u30e5\u30a2",
+          "url": "https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281933,
+      "name": "Agap\u0113",
+      "url": "https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE"
+    },
+    {
+      "album": {
+        "name": "Spirited Away Soundtrack",
+        "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
+      },
+      "artists": [
+        {
+          "name": "Yumi Kimura",
+          "url": "https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215426,
+      "name": "Always with Me",
+      "url": "https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP"
+    },
+    {
+      "album": {
+        "name": "Ash Like Snow",
+        "url": "https://open.spotify.com/album/5ijS7un1EdannSyn9I6l3I"
+      },
+      "artists": [
+        {
+          "name": "the brilliant green",
+          "url": "https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 272200,
+      "name": "Ash Like Snow",
+      "url": "https://open.spotify.com/track/2S4AVJvIq2okFLmLVFI2xn"
+    },
+    {
+      "album": {
+        "name": "Ash Like Snow",
+        "url": "https://open.spotify.com/album/1t4Yw7R1k19MPwUm6LpSNq"
+      },
+      "artists": [
+        {
+          "name": "the brilliant green",
+          "url": "https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272200,
+      "name": "Ash Like Snow",
+      "url": "https://open.spotify.com/track/4opeH1F0Z1pL0BdZhuWzew"
+    },
+    {
+      "album": {
+        "name": "complete single collection '97-'08",
+        "url": "https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2"
+      },
+      "artists": [
+        {
+          "name": "the brilliant green",
+          "url": "https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272533,
+      "name": "Ash Like Snow",
+      "url": "https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe"
+    },
+    {
+      "album": {
+        "name": "HYPER GROOVE 1",
+        "url": "https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf"
+      },
+      "artists": [
+        {
+          "name": "Folder 5",
+          "url": "https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226700,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5Wg6U4mLyjJj8ApPkWHBKB"
+    },
+    {
+      "album": {
+        "name": "Cagayake! Girls (from \"K-ON!\")",
+        "url": "https://open.spotify.com/album/50pFaF0d9E693wnQFGyEyO"
+      },
+      "artists": [
+        {
+          "name": "Sakurakou K-ON Bu",
+          "url": "https://open.spotify.com/artist/4xCCHj0hE6EX42nCQCcL4F"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "Cagayake! Girls (From \"K-On!\")",
+      "url": "https://open.spotify.com/track/0SeOsmdYkzWqnlF5ttO0Jm"
+    },
+    {
+      "album": {
+        "name": "Cagayake!GIRLS",
+        "url": "https://open.spotify.com/album/0DFU4Cxag86ritH4itpOKs"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u6ca2\u552f(CV:\u8c4a\u5d0e\u611b\u751f)",
+          "url": "https://open.spotify.com/artist/2yCfoXGIhhq7nuOwxYPBZN"
+        },
+        {
+          "name": "\u79cb\u5c71\u6faa(CV:\u65e5\u7b20\u967d\u5b50)",
+          "url": "https://open.spotify.com/artist/26WKzbQM4dvl8zghsBsvD7"
+        },
+        {
+          "name": "\u685c\u9ad8\u8efd\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/2x3ohJ850ojR1j4ggis9tZ"
+        },
+        {
+          "name": "\u7530\u4e95\u4e2d\u5f8b(CV:\u4f50\u85e4\u8061\u7f8e)",
+          "url": "https://open.spotify.com/artist/4PHYyP0xMmspaDzqeCuIqV"
+        },
+        {
+          "name": "\u7434\u5439\u7d2c(CV:\u5bff\u7f8e\u83dc\u5b50)",
+          "url": "https://open.spotify.com/artist/0X3bzML0WzEvUBPi4ElSFj"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250120,
+      "name": "Cagayake!GIRLS",
+      "url": "https://open.spotify.com/track/6dCeYPmR97wXMKgfZxU4wU"
+    },
+    {
+      "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/3wmVPZ0DNAAMaq9BjQSjAL"
+      },
+      "artists": [
+        {
+          "name": "Joe Inoue",
+          "url": "https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208013,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/1e7E8dOJJPw2Y5krfkft71"
+    },
+    {
+      "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/6S6fn5MUmZdzlKrrdr2XcB"
+      },
+      "artists": [
+        {
+          "name": "Joe Inoue",
+          "url": "https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208013,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/2Kld61w2NR7zPPXtaHeIii"
+    },
+    {
+      "album": {
+        "name": "D-tecnoLife",
+        "url": "https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233400,
+      "name": "D-tecnoLife",
+      "url": "https://open.spotify.com/track/5Gd0Ge0KuIDF34HF0X2CYX"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/48uaoowcqcWdfYGg9JK3WC"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233893,
+      "name": "D-tecnoLife",
+      "url": "https://open.spotify.com/track/14N6mo39jk8aYWqY1qdS3Y"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233893,
+      "name": "D-tecnoLife",
+      "url": "https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt"
+    },
+    {
+      "album": {
+        "name": "\u4e94\u689d\u771f\u7531\u7f8e\u30dc\u30fc\u30ab\u30eb\u30d9\u30b9\u30c8 from \u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
+        "url": "https://open.spotify.com/album/1lM6q7PcIXK35HJLv0X8dx"
+      },
+      "artists": [
+        {
+          "name": "Mayumi Gojo",
+          "url": "https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215346,
+      "name": "DANZEN\uff01\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
+      "url": "https://open.spotify.com/track/0eHv2HCxtNv1g3IiydZHjO"
+    },
+    {
+      "album": {
+        "name": "KISS",
+        "url": "https://open.spotify.com/album/3Cb9NZFOkVRqUjvhcggkSA"
+      },
+      "artists": [
+        {
+          "name": "L'Arc-en-Ciel",
+          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251653,
+      "name": "DAYBREAK'S BELL",
+      "url": "https://open.spotify.com/track/0GapIKOkapTtO6cR6IM31x"
+    },
+    {
+      "album": {
+        "name": "KISS",
+        "url": "https://open.spotify.com/album/4nruUov2XnxA0UU9vfkAvJ"
+      },
+      "artists": [
+        {
+          "name": "L'Arc-en-Ciel",
+          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251653,
+      "name": "DAYBREAK'S BELL",
+      "url": "https://open.spotify.com/track/0zij3s5siX5jyS1Nbn2eil"
+    },
+    {
+      "album": {
+        "name": "TWENITY 2000-2010",
+        "url": "https://open.spotify.com/album/5QxCzeCXsmcPOGf6PhuLRv"
+      },
+      "artists": [
+        {
+          "name": "L'Arc-en-Ciel",
+          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 256440,
+      "name": "DAYBREAK'S BELL",
+      "url": "https://open.spotify.com/track/39CyCLU4O3I001A3vNeHCv"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30c3\u30c4\u30b4\u30fc!\u9ad8\u6821\u8efd\u97f3\u90e8!",
+        "url": "https://open.spotify.com/album/2xzx7Gk4gZgCA4cY5MNVcq"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 251226,
+      "name": "DAYS",
+      "url": "https://open.spotify.com/track/4c776WwhrVd0L49E8rtVNy"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
+        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255200,
+      "name": "DAYS",
+      "url": "https://open.spotify.com/track/49g1yJUzm4VbQUrKTIcQIa"
+    },
+    {
+      "album": {
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5eS39Gc2C8GtdwnqmBW2Ll"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30ed\u30a6",
+          "url": "https://open.spotify.com/artist/6MfYt5ENS3ibojRVzdEP4g"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253413,
+      "name": "DAYS",
+      "url": "https://open.spotify.com/track/5QNgXaDYe13SAjrdY533ms"
+    },
+    {
+      "album": {
+        "name": "I am...",
+        "url": "https://open.spotify.com/album/6b4kTS1ynBp5cnXasBxhsM"
+      },
+      "artists": [
+        {
+          "name": "Ayumi Hamasaki",
+          "url": "https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332733,
+      "name": "Dearest",
+      "url": "https://open.spotify.com/track/4uraEw7BcTjMmUcRKE3XaD"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239360,
+      "name": "DISCOTHEQUE",
+      "url": "https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9"
+    },
+    {
+      "album": {
+        "name": "Howl's Moving Castle Soundtrack",
+        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
+      },
+      "artists": [
+        {
+          "name": "Chieko Baisho",
+          "url": "https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410466,
+      "name": "Ending Song - The Promise of the World - Merry-Go-Round of Life",
+      "url": "https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E"
+    },
+    {
+      "album": {
+        "name": "\u982d\u6587\u5b57D Final Best Collection",
+        "url": "https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx"
+      },
+      "artists": [
+        {
+          "name": "m.o.v.e",
+          "url": "https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 266266,
+      "name": "Gamble Rumble",
+      "url": "https://open.spotify.com/track/5r0ZmGWdDPkY4gqAr0t9kf"
+    },
+    {
+      "album": {
+        "name": "\u61d0-\u30ca\u30c4-\u30a8\u30e2\u30c6\u30a3\u30c3\u30af J-POP \u795eBUZZ HIT SONGS (DJ KOO PLAYLIST MEGA MIX)",
+        "url": "https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS"
+      },
+      "artists": [
+        {
+          "name": "m.o.v.e",
+          "url": "https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 267800,
+      "name": "Gamble Rumble",
+      "url": "https://open.spotify.com/track/6oT735CbhxWY1ZsvHRg6u4"
+    },
+    {
+      "album": {
+        "name": "Gamble Rumble",
+        "url": "https://open.spotify.com/album/4S7MWhlljXKdr5IBI94kQU"
+      },
+      "artists": [
+        {
+          "name": "m.o.v.e",
+          "url": "https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267800,
+      "name": "Gamble Rumble",
+      "url": "https://open.spotify.com/track/7wug8q76QHsvCKWEZW1nVq"
+    },
+    {
+      "album": {
+        "name": "Garnet",
+        "url": "https://open.spotify.com/album/1OU1yZN4pMh9IVn9YZVjCL"
+      },
+      "artists": [
+        {
+          "name": "Hanako Oku",
+          "url": "https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 319066,
+      "name": "Garnet",
+      "url": "https://open.spotify.com/track/2rZUu2qXb7SoUNktHKgfky"
+    },
+    {
+      "album": {
+        "name": "Hanako Oku Best ~ My Letters ~",
+        "url": "https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq"
+      },
+      "artists": [
+        {
+          "name": "Hanako Oku",
+          "url": "https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320493,
+      "name": "Garnet",
+      "url": "https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB"
+    },
+    {
+      "album": {
+        "name": "Process",
+        "url": "https://open.spotify.com/album/52fPQP1V5udSfTFEkxQIT0"
+      },
+      "artists": [
+        {
+          "name": "Dream",
+          "url": "https://open.spotify.com/artist/67j0XHDG7fP5ZHia8gDsJU"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315733,
+      "name": "Get Over",
+      "url": "https://open.spotify.com/track/6mYL8hxtrSgbXCLskzuhSc"
+    },
+    {
+      "album": {
+        "name": "GAME",
+        "url": "https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8"
+    },
+    {
+      "album": {
+        "name": "FLOW ANIME BEST \u6975",
+        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238853,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/12VTlyNjwercpjUSG03OLu"
+    },
+    {
+      "album": {
+        "name": "GAME",
+        "url": "https://open.spotify.com/album/3w9fhFj2kzJt2phpkLdtDa"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30ed\u30a6",
+          "url": "https://open.spotify.com/artist/6MfYt5ENS3ibojRVzdEP4g"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236160,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/1u6yJwWdQ4hC7C3gx7ZG2P"
+    },
+    {
+      "album": {
+        "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u5b8c\u594f\u301c\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u301c",
+        "url": "https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI"
+      },
+      "artists": [
+        {
+          "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2 (CV.\u5e73\u91ce \u7dbe)",
+          "url": "https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278906,
+      "name": "God knows...",
+      "url": "https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn"
+    },
+    {
+      "album": {
+        "name": "I am/innocence",
+        "url": "https://open.spotify.com/album/7rYpxCkxGTFK4sQaZI7x26"
+      },
+      "artists": [
+        {
+          "name": "hitomi",
+          "url": "https://open.spotify.com/artist/5rdloWitZKhrtedmOBdhG8"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285266,
+      "name": "I am",
+      "url": "https://open.spotify.com/track/1JM0GXE02jU7tWEBk2L0JR"
+    },
+    {
+      "album": {
+        "name": "coordinate",
+        "url": "https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2"
+      },
+      "artists": [
+        {
+          "name": "T.M.Revolution",
+          "url": "https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259160,
+      "name": "INVOKE -\u30a4\u30f3\u30f4\u30a9\u30fc\u30af-",
+      "url": "https://open.spotify.com/track/6mwBMPGpO0gtvR8QKxVCyo"
+    },
+    {
+      "album": {
+        "name": "GEISHA BOY -ANIME SONG EXPERIENCE-",
+        "url": "https://open.spotify.com/album/69ly56BCOHEVC3Q3UAlJzf"
+      },
+      "artists": [
+        {
+          "name": "T.M.Revolution",
+          "url": "https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259560,
+      "name": "INVOKE -\u30a4\u30f3\u30f4\u30a9\u30fc\u30af-",
+      "url": "https://open.spotify.com/track/2qge0m2SUWLUOPN9oypXm5"
+    },
+    {
+      "album": {
+        "name": "INVOKE -\u30a4\u30f3\u30f4\u30a9\u30fc\u30af-",
+        "url": "https://open.spotify.com/album/6EeRL1rcAcfBST5dbAQOYQ"
+      },
+      "artists": [
+        {
+          "name": "T.M.Revolution",
+          "url": "https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260359,
+      "name": "INVOKE -\u30a4\u30f3\u30f4\u30a9\u30fc\u30af-",
+      "url": "https://open.spotify.com/track/34KpbxsYhTMt4N3HS34mb9"
+    },
+    {
+      "album": {
+        "name": "MACROSS FRONTEER Ending Theme Diamond Crevasse / Iteza Gogo Kuji don't be late",
+        "url": "https://open.spotify.com/album/66iUYxmg9mWPc4xbrpo9hq"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Nome starring May'n",
+          "url": "https://open.spotify.com/artist/5U8dcKsZ0mmeiUgbM0jvFC"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343154,
+      "name": "Iteza Gogo Kuji Don't be late",
+      "url": "https://open.spotify.com/track/0kPsiiL5q1N54ywIbv1uaV"
+    },
+    {
+      "album": {
+        "name": "SAVIA",
+        "url": "https://open.spotify.com/album/2jOgLqERn9TY3dHpTPBpmP"
+      },
+      "artists": [
+        {
+          "name": "\u5ddd\u7530\u307e\u307f",
+          "url": "https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241506,
+      "name": "JOINT",
+      "url": "https://open.spotify.com/track/0VRn529V2PuyZ9HTbd5sy9"
+    },
+    {
+      "album": {
+        "name": "\"SERGEANT KERORO\" KERORO Songs",
+        "url": "https://open.spotify.com/album/6NA4L8cYcXbVnsYfzIestY"
+      },
+      "artists": [
+        {
+          "name": "Nobuaki Kakuda",
+          "url": "https://open.spotify.com/artist/6d3s9bd3dlNCqNIQ7IMkWx"
+        },
+        {
+          "name": "Juri Ihata",
+          "url": "https://open.spotify.com/artist/5V6Fmx6qjQcg7avFO4cyLK"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Kerot! to March",
+      "url": "https://open.spotify.com/track/3edh7C1iGIslrU7Vx7wTQH"
+    },
+    {
+      "album": {
+        "name": "MACROSS FRONTIER Opening Theme Lion",
+        "url": "https://open.spotify.com/album/36hcAxhOV7yBUdRquz4hj0"
+      },
+      "artists": [
+        {
+          "name": "May'n",
+          "url": "https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6"
+        },
+        {
+          "name": "Megumi Nakajima",
+          "url": "https://open.spotify.com/artist/26ZuiIbHV0OGNX3EYsYeES"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303657,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/1ux8Y96cV5Qs0kdOCq4cZ2"
+    },
+    {
+      "album": {
+        "name": "Love Destiny",
+        "url": "https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL"
+      },
+      "artists": [
+        {
+          "name": "Yui Horie",
+          "url": "https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273493,
+      "name": "Love Destiny",
+      "url": "https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5"
+    },
+    {
+      "album": {
+        "name": "GANBARIYO!",
+        "url": "https://open.spotify.com/album/0Fw8zPzz10quVBw8tL2oZq"
+      },
+      "artists": [
+        {
+          "name": "T-Pistonz+KMC",
+          "url": "https://open.spotify.com/artist/49bcuetvIVHNo5ARCZmR2k"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325253,
+      "name": "MAJI DE KANSHA!",
+      "url": "https://open.spotify.com/track/7fNIWITkFbwDZXLJsvlMcK"
+    },
+    {
+      "album": {
+        "name": "THE BEST History of GARNET CROW at the crest...",
+        "url": "https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R"
+      },
+      "artists": [
+        {
+          "name": "GARNET CROW",
+          "url": "https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268166,
+      "name": "Mysterious Eyes",
+      "url": "https://open.spotify.com/track/3xtFrBrX6yuS1pNPVGufwO"
+    },
+    {
+      "album": {
+        "name": "only my railgun",
+        "url": "https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl"
+      },
+      "artists": [
+        {
+          "name": "fripSide",
+          "url": "https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257093,
+      "name": "only my railgun",
+      "url": "https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv"
+    },
+    {
+      "album": {
+        "name": "Over Soul",
+        "url": "https://open.spotify.com/album/1pZ7Ubh11m5xzgXIP6ZrWk"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233560,
+      "name": "Over Soul",
+      "url": "https://open.spotify.com/track/3uIdLQXUeYAPI1DMQXbdpk"
+    },
+    {
+      "album": {
+        "name": "Ponyo on the Cliff by the Sea Image Album",
+        "url": "https://open.spotify.com/album/6bV3GjpvWu7Zf48GmSAnU3"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166066,
+      "name": "Ponyo on the Cliff by the Sea",
+      "url": "https://open.spotify.com/track/00lajXBbel7k0C8AefHwak"
+    },
+    {
+      "album": {
+        "name": "Flcl (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/02TbNzERYy1dt8LsQ9XZYu"
+      },
+      "artists": [
+        {
+          "name": "the pillows",
+          "url": "https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141106,
+      "name": "Ride on Shooting Star",
+      "url": "https://open.spotify.com/track/0pj90Ajg2NmdZalF67DfOF"
+    },
+    {
+      "album": {
+        "name": "FLCL Season 1 Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/55pOUi15iyiqii9jSstPsv"
+      },
+      "artists": [
+        {
+          "name": "the pillows",
+          "url": "https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141106,
+      "name": "Ride on shooting star",
+      "url": "https://open.spotify.com/track/6Yn8fQNN3UU40TPN9ynwtI"
+    },
+    {
+      "album": {
+        "name": "FLCL Season 1 Vol. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5qRZrLQSAnZkhdvQtR8MpT"
+      },
+      "artists": [
+        {
+          "name": "the pillows",
+          "url": "https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142733,
+      "name": "RIDE ON SHOOTING STAR",
+      "url": "https://open.spotify.com/track/6O4t5H68WJNd8RQjZcu2Oj"
+    },
+    {
+      "album": {
+        "name": "\u5009\u6728\u9ebb\u8863\u00d7\u540d\u63a2\u5075\u30b3\u30ca\u30f3 COLLABORATION BEST 21 -\u771f\u5b9f\u306f\u3044\u3064\u3082\u6b4c\u306b\u3042\u308b!-",
+        "url": "https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q"
+      },
+      "artists": [
+        {
+          "name": "Mai Kuraki",
+          "url": "https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265033,
+      "name": "Secret of my heart",
+      "url": "https://open.spotify.com/track/1KvU7iXcyRMden0n9krc4k"
+    },
+    {
+      "album": {
+        "name": "MACROSS FRONTIER Seikan Hikou",
+        "url": "https://open.spotify.com/album/0kK3dYuyhrFOIB2hTFj8lF"
+      },
+      "artists": [
+        {
+          "name": "Ranka Lee = Megumi Nakajima",
+          "url": "https://open.spotify.com/artist/3JODQ7XeLxOZtG9cGuVPUw"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231222,
+      "name": "Seikan Hiko",
+      "url": "https://open.spotify.com/track/4ykxXFAQlQ4TokZcrP5M2m"
+    },
+    {
+      "album": {
+        "name": "\u96fb\u6c17\u30af\u3099\u30eb\u30fc\u30a6\u3099\u306e\u30b3\u3099\u30fc\u30eb\u30c6\u3099\u30f3\u30d2\u30c3\u30c4~Due To Contract",
+        "url": "https://open.spotify.com/album/0IXHlr7cqACe3Y2gYyEJST"
+      },
+      "artists": [
+        {
+          "name": "Denki Groove",
+          "url": "https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308213,
+      "name": "Shangri-La (Y.Sunahara 2009 Remodel)",
+      "url": "https://open.spotify.com/track/6P6S68Ns7s48MMlgecIAsP"
+    },
+    {
+      "album": {
+        "name": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 SEED ~ SEED DESTINY THE BRIDGE Across the Songs from GUNDUM SEED & SEED DESTINY",
+        "url": "https://open.spotify.com/album/5pc46oCGZxvCOs0DJXTimZ"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288506,
+      "name": "\u3042\u3093\u306a\u306b\u4e00\u7dd2\u305f\u3099\u3063\u305f\u306e\u306b",
+      "url": "https://open.spotify.com/track/5UZVUKqRUmHxT8RmZZHojc"
+    },
+    {
+      "album": {
+        "name": "Dream Field",
+        "url": "https://open.spotify.com/album/4e57AGxBR7VRGMYZxBmxBH"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289766,
+      "name": "\u3042\u3093\u306a\u306b\u4e00\u7dd2\u3060\u3063\u305f\u306e\u306b",
+      "url": "https://open.spotify.com/track/5P97xlvOl6IadKTLVId5ap"
+    },
+    {
+      "album": {
+        "name": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057 \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY"
+      },
+      "artists": [
+        {
+          "name": "Yumi Kimura",
+          "url": "https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215440,
+      "name": "\u3044\u3064\u3082\u4f55\u5ea6\u3067\u3082",
+      "url": "https://open.spotify.com/track/7f7LQSoV2zGzbPWTbP7SLv"
+    },
+    {
+      "album": {
+        "name": "\u97f3\u697d\u306f\u7d20\u6674\u3089\u3057\u3044\u3082\u306e\u3060",
+        "url": "https://open.spotify.com/album/1Ie5iQ1pUZUlAAY985v4YZ"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+          "url": "https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266733,
+      "name": "\u3055\u3089\u3070",
+      "url": "https://open.spotify.com/track/4gRBVBLgnwzHn6WODOwo0W"
+    },
+    {
+      "album": {
+        "name": "\u30d9\u30b9\u30c8\u30fb\u30b3\u30f3\u30c7\u30a3\u30b7\u30e7\u30f3\u301ckinmokusei single collection\u301c",
+        "url": "https://open.spotify.com/album/4et9fqJ89GzkKCvbOsjFDX"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+          "url": "https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269133,
+      "name": "\u3055\u3089\u3070",
+      "url": "https://open.spotify.com/track/3GAOg6GTBoqUKvOdjfpqkS"
+    },
+    {
+      "album": {
+        "name": "\u3055\u3089\u3070",
+        "url": "https://open.spotify.com/album/718w30FryODQx9pLJGZAtq"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+          "url": "https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 271000,
+      "name": "\u3055\u3089\u3070",
+      "url": "https://open.spotify.com/track/4I710qdCFqAZ7IkPI6Ee8q"
+    },
+    {
+      "album": {
+        "name": "\u653e\u8ab2\u5f8c\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7"
+      },
+      "artists": [
+        {
+          "name": "Ho - Kago Tea Time",
+          "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 236053,
+      "name": "\u3075\u308f\u3075\u308f\u6642\u9593",
+      "url": "https://open.spotify.com/track/0IqeCcW8L96JrGURHQbmcI"
+    },
+    {
+      "album": {
+        "name": "\u300c\u307c\u304f\u3089\u306e\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de \u30a2\u30f3\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD"
+      },
+      "artists": [
+        {
+          "name": "Chiaki Ishikawa",
+          "url": "https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281494,
+      "name": "\u30a2\u30f3\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30a3\u30fc\u30b4\u30fc!",
+        "url": "https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Kitadani",
+          "url": "https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "\u30a6\u30a3\u30fc\u30a2\u30fc! for the new world",
+      "url": "https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7"
+    },
+    {
+      "album": {
+        "name": "\u300eARIA The ANIMATION\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u30a6\u30f3\u30c7\u30a3\u30fc\u30cd\u300d",
+        "url": "https://open.spotify.com/album/6wiX5nusCOYJ446P01ExbW"
+      },
+      "artists": [
+        {
+          "name": "Yui Makino",
+          "url": "https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 345335,
+      "name": "\u30a6\u30f3\u30c7\u30a3\u30fc\u30cd",
+      "url": "https://open.spotify.com/track/41EFjyvs5g7Ga3ii1kE2aa"
+    },
+    {
+      "album": {
+        "name": "\u30ac\u30fc\u30cd\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/14rIFa6gMqFVEF7vw0OhWT"
+      },
+      "artists": [
+        {
+          "name": "Hanako Oku",
+          "url": "https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 319066,
+      "name": "\u30ac\u30fc\u30cd\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/7etsVowEGYPw06BrolziZ2"
+    },
+    {
+      "album": {
+        "name": "\u30b0\u30ed\u30ea\u30a2\u30b9 \u30de\u30a4\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/3vXmyVTOeRbhYxHX7EAwA5"
+      },
+      "artists": [
+        {
+          "name": "ZARD",
+          "url": "https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279898,
+      "name": "\u30b0\u30ed\u30ea\u30a2\u30b9 \u30de\u30a4\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/2lswHSoclUEk4jGm3k05Oe"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30b1\u30ed\u30ed\u8ecd\u66f9\u300f\u30b1\u30ed\u30ed\u30bd\u30f3\u30b0\u2460",
+        "url": "https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod"
+      },
+      "artists": [
+        {
+          "name": "\u89d2\u7530\u4fe1\u660e",
+          "url": "https://open.spotify.com/artist/1rxERGNemrVJr4p2ETJ56M"
+        },
+        {
+          "name": "\u3044\u306f\u305f\u3058\u3085\u308a",
+          "url": "https://open.spotify.com/artist/3znGaAtmH8rZLOjzDZztqi"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 191000,
+      "name": "\u30b1\u30ed\u30c3! \u3068\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30b3\u30ed\u30aa\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/3TZVSXdXXbqCbb4oWx1hSf"
+      },
+      "artists": [
+        {
+          "name": "nobodyknows+",
+          "url": "https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253533,
+      "name": "\u30b3\u30b3\u30ed\u30aa\u30c9\u30eb -original version-",
+      "url": "https://open.spotify.com/track/5tcnPaFhcpSLx7ihFwI9DM"
+    },
+    {
+      "album": {
+        "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u5b8c\u594f\u301c\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u301c",
+        "url": "https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI"
+      },
+      "artists": [
+        {
+          "name": "Aya Hirano",
+          "url": "https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj"
+        },
+        {
+          "name": "\u8305\u539f\u5b9f\u91cc",
+          "url": "https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ"
+        },
+        {
+          "name": "\u5f8c\u85e4\u9091\u5b50",
+          "url": "https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "\u30cf\u30ec\u6674\u30ec\u30e6\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/651dM1w0QS5qG1qdL2zraO"
+    },
+    {
+      "album": {
+        "name": "Chou Ikimonobakari Tennen Kinen Members Best Selection",
+        "url": "https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215706,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18"
+    },
+    {
+      "album": {
+        "name": "\u3044\u304d\u3082\u306e\u3070\u304b\u308a\u301c\u30e1\u30f3\u30d0\u30fc\u30baBEST\u30bb\u30ec\u30af\u30b7\u30e7\u30f3\u301c",
+        "url": "https://open.spotify.com/album/4cmwCfGQ5SMNJnEL4dKB2B"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215760,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/5XKMGlkK6Rvro9sinQpxxZ"
+    },
+    {
+      "album": {
+        "name": "My song Your song",
+        "url": "https://open.spotify.com/album/2AOTzestyJAx9xheLCrGnm"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218400,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/7LY0Mdsj2esWkuO98LEAPl"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30ba\u30e0 / \u7a7a\u306e\u6b20\u7247",
+        "url": "https://open.spotify.com/album/6E6Dm5STitfxwFnXnSEjoB"
+      },
+      "artists": [
+        {
+          "name": "Ayako Ikeda",
+          "url": "https://open.spotify.com/artist/5JNDexaGyXylLDla0vmbtf"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244333,
+      "name": "\u30d7\u30ea\u30ba\u30e0",
+      "url": "https://open.spotify.com/track/4U3iM1vDPsfBsp7W0vMpmM"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30ba\u30e0 / \u7a7a\u306e\u6b20\u7247",
+        "url": "https://open.spotify.com/album/7796xTdWXoOllKCZagQZPV"
+      },
+      "artists": [
+        {
+          "name": "Ayako Ikeda",
+          "url": "https://open.spotify.com/artist/5JNDexaGyXylLDla0vmbtf"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244333,
+      "name": "\u30d7\u30ea\u30ba\u30e0",
+      "url": "https://open.spotify.com/track/7IMoiKwhGgECXyV9DvHImQ"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ec\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/6FxxSB5XVY3I4JAtWllal3"
+      },
+      "artists": [
+        {
+          "name": "\u9022\u5742\u5927\u6cb3(\u91d8\u5bae\u7406\u6075)",
+          "url": "https://open.spotify.com/artist/4i10xM25xPTHoaXMfVhZLh"
+        },
+        {
+          "name": "\u6adb\u679d\u5b9f\u4e43\u68a8(\u5800\u6c5f\u7531\u8863)",
+          "url": "https://open.spotify.com/artist/77Qvx17FzuZhak8dkrLoFb"
+        },
+        {
+          "name": "\u5ddd\u5d8b\u4e9c\u7f8e(\u559c\u591a\u6751\u82f1\u68a8)",
+          "url": "https://open.spotify.com/artist/6aUvRGqbBNYkURzbYpvqI4"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 204840,
+      "name": "\u30d7\u30ec\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/0XT65K4AnBTrjq9x32aj8v"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30ea\u30c3\u30b5",
+        "url": "https://open.spotify.com/album/2mKcF7RxgHJxxhGorRNF6t"
+      },
+      "artists": [
+        {
+          "name": "PornoGraffitti",
+          "url": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273573,
+      "name": "\u30e1\u30ea\u30c3\u30b5",
+      "url": "https://open.spotify.com/track/7J9QfNrQayqF0BAb7qn1oi"
+    },
+    {
+      "album": {
+        "name": "PORNOGRAFFITTI 15th Anniversary \u201cALL TIME SINGLES\u201d",
+        "url": "https://open.spotify.com/album/6Xp9KpYyts9Oowyyu7YVVj"
+      },
+      "artists": [
+        {
+          "name": "PornoGraffitti",
+          "url": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 274546,
+      "name": "\u30e1\u30ea\u30c3\u30b5",
+      "url": "https://open.spotify.com/track/7E79sVpzdsrrRNcofN0rmK"
+    },
+    {
+      "album": {
+        "name": "Porno Graffitti 15th Anniversary All Time Singles",
+        "url": "https://open.spotify.com/album/77NIuDpn7GAdZEwMonR273"
+      },
+      "artists": [
+        {
+          "name": "PornoGraffitti",
+          "url": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274546,
+      "name": "\u30e1\u30ea\u30c3\u30b5",
+      "url": "https://open.spotify.com/track/7zty9mmmuqQsn8s4zDH4nk"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de \u30e9\u30a4\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/1vl2776kEXnu7Ijop6YBrm"
+      },
+      "artists": [
+        {
+          "name": "May'n",
+          "url": "https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6"
+        },
+        {
+          "name": "\u4e2d\u5cf6\u611b",
+          "url": "https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 303657,
+      "name": "\u30e9\u30a4\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/35HhTsMus2B7hA7rfbrp84"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30eb\u30d5\u30a1",
+        "url": "https://open.spotify.com/album/4Zpp4brKcLx9y178O3fqBo"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225493,
+      "name": "\u30ea\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3h5e4tpgR9q0cjQXzo8FMD"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30eb\u30d5\u30a1",
+        "url": "https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "\u30ea\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/5j9C4yxMudZffzO1TJSi0T"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 232506,
+      "name": "\u30ea\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1DtySWGOuZ6zXDRE4K8eVs"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF"
+      },
+      "artists": [
+        {
+          "name": "Chieko Baisho",
+          "url": "https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 410466,
+      "name": "\u4e16\u754c\u306e\u7d04\u675f~\u4eba\u751f\u306e\u30e1\u30ea\u30fc\u30b3\u3099\u30fc\u30e9\u30f3\u30c8\u3099-\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099-",
+      "url": "https://open.spotify.com/track/65N9PSOHf8d8YouUJidgWR"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u3068\u3057\u3066\u8ef8\u304c\u3076\u308c\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/0i1fGlZRpLA27BQO8krKsT"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u69fb\u30b1\u30f3\u30c2\u3068\u7d76\u671b\u5c11\u5973\u9054",
+          "url": "https://open.spotify.com/artist/4xtFnyqFy83Y1p5RTINfiI"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "\u4eba\u3068\u3057\u3066\u8ef8\u304c\u3076\u308c\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/0D4mD3IcmPLoFFxANcWC5N"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de \u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN"
+      },
+      "artists": [
+        {
+          "name": "AKINO",
+          "url": "https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283633,
+      "name": "\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ"
+    },
+    {
+      "album": {
+        "name": "25\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u300c\u611b\u3068\u8aa0\uff5eYAMATO & LOVE\u00d7\u00d7\u00d7\u300d",
+        "url": "https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5"
+      },
+      "artists": [
+        {
+          "name": "Ali Project",
+          "url": "https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263973,
+      "name": "\u52c7\u4fa0\u9752\u6625\u8b33",
+      "url": "https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl"
+    },
+    {
+      "album": {
+        "name": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u77b3\u306e\u4e2d\u306e\u6697\u6bba\u8005 (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
+        "url": "https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a"
+      },
+      "artists": [
+        {
+          "name": "Katsuo Ohno",
+          "url": "https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152333,
+      "name": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u30e1\u30a4\u30f3\u30fb\u30c6\u30fc\u30de - \u6697\u6bba\u8005\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15"
+    },
+    {
+      "album": {
+        "name": "Today Is A Beautiful Day",
+        "url": "https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7"
+      },
+      "artists": [
+        {
+          "name": "supercell",
+          "url": "https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339573,
+      "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
+        "url": "https://open.spotify.com/album/7g2QUFVpJnkBkbGKzi85PB"
+      },
+      "artists": [
+        {
+          "name": "supercell",
+          "url": "https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 341053,
+      "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/4EKMD4grPTUzXjHpKvvaY7"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30c6\u30fc\u30de \u30bf\u3099\u30a4\u30a2\u30e2\u30f3\u30c8\u3099 \u30af\u30ec\u30cf\u3099\u30b9/\u633f\u5165\u6b4c \u5c04\u624b\u5ea7\u2606\u5348\u5f8c\u4e5d\u6642Don't be late",
+        "url": "https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30a7\u30ea\u30eb\u30fb\u30ce\u30fc\u30e0 starring May'n",
+          "url": "https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 343154,
+      "name": "\u5c04\u624b\u5ea7\u2606\u5348\u5f8c\u4e5d\u6642Don't be late",
+      "url": "https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u306e\u6b4c -\u5897\u88dc\u76e4-",
+        "url": "https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u5ca1\u85e4\u5dfb\u3068\u5927\u6a4b\u306e\u305e\u307f",
+          "url": "https://open.spotify.com/artist/2dBR2aSvDYdWziZvQSrEPz"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166600,
+      "name": "\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7(\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7)",
+      "url": "https://open.spotify.com/track/1Afz8sEPXEkwiDxHFbnx9Z"
+    },
+    {
+      "album": {
+        "name": "\u61d0-\u30ca\u30c4-\u30a8\u30e2\u30c6\u30a3\u30c3\u30af J-POP \u795eBUZZ HIT SONGS (DJ KOO PLAYLIST MEGA MIX)",
+        "url": "https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS"
+      },
+      "artists": [
+        {
+          "name": "Road Of Major",
+          "url": "https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "\u5fc3\u7d75",
+      "url": "https://open.spotify.com/track/33CYO63qC6GGwK5WAFFFD2"
+    },
+    {
+      "album": {
+        "name": "ROAD OF MAJOR II",
+        "url": "https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh"
+      },
+      "artists": [
+        {
+          "name": "Road Of Major",
+          "url": "https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 261833,
+      "name": "\u5fc3\u7d75",
+      "url": "https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM"
+    },
+    {
+      "album": {
+        "name": "Sincerely Dears...",
+        "url": "https://open.spotify.com/album/497WCSR8yq7HzlGyJX3Ajt"
+      },
+      "artists": [
+        {
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 260666,
+      "name": "\u604b\u305b\u3088\u5973\u306e\u5b50",
+      "url": "https://open.spotify.com/track/5HAKZ4xOTF4vU6q2z5GE86"
+    },
+    {
+      "album": {
+        "name": "\u9280\u306e\u65cb\u5f8b\u3001\u8a18\u61b6\u306e\u6c34\u97f3\u3002",
+        "url": "https://open.spotify.com/album/68MIDqGUNbirDlgIYYNhfW"
+      },
+      "artists": [
+        {
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260866,
+      "name": "\u604b\u305b\u3088\u5973\u306e\u5b50",
+      "url": "https://open.spotify.com/track/3SpBoNC4Z5K1vkPy1FN1wV"
+    },
+    {
+      "album": {
+        "name": "\u9280\u306e\u65cb\u5f8b\u3001\u8a18\u61b6\u306e\u6c34\u97f3\u3002",
+        "url": "https://open.spotify.com/album/0eDR8cIsVOjK8GjL2dGJjT"
+      },
+      "artists": [
+        {
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260866,
+      "name": "\u604b\u305b\u3088\u5973\u306e\u5b50",
+      "url": "https://open.spotify.com/track/6MaE2CKZdGoWNQXHJOMshd"
+    },
+    {
+      "album": {
+        "name": "\u6771\u4eac\u30df\u30e5\u30a6\u30df\u30e5\u30a6 \u30b9\u30fc\u30d1\u30fc\u30d9\u30b9\u30c8\u30d2\u30c3\u30c8-\u6771\u4eac\u30df\u30e5\u30a6\u30df\u30e5\u30a6\u30b5\u30a4\u30c9-",
+        "url": "https://open.spotify.com/album/0XV2sDgrcMFGCujyQFvcHk"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u30df\u30e5\u30a6\u30df\u30e5\u30a6",
+          "url": "https://open.spotify.com/artist/5juIbGH9U7WhGOmuqstTMA"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 209840,
+      "name": "\u604b\u306f\u30a2\u30fb\u30e9\u30fb\u30e2\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2ZIVHnCcPRM9q0zS5HSjdH"
+    },
+    {
+      "album": {
+        "name": "\u6b4c\u7269\u8a9e Special Edition",
+        "url": "https://open.spotify.com/album/1oP65KKl98hRSjJvpKeFmQ"
+      },
+      "artists": [
+        {
+          "name": "\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255040,
+      "name": "\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/28vDmEUoGFrfkrUWM9Cuqy"
+    },
+    {
+      "album": {
+        "name": "Utamonogatari Special Edition (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw"
+      },
+      "artists": [
+        {
+          "name": "\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255040,
+      "name": "\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u72fc\u3068\u9999\u8f9b\u6599\u300d\uff2f\uff30\u30c6\u30fc\u30de\u3000\u65c5\u306e\u9014\u4e2d",
+        "url": "https://open.spotify.com/album/617Mua99b2ISaOLLuFl4wh"
+      },
+      "artists": [
+        {
+          "name": "\u6e05\u6d66\u590f\u5b9f",
+          "url": "https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291101,
+      "name": "\u65c5\u306e\u9014\u4e2d",
+      "url": "https://open.spotify.com/track/5Fs6i0rfOxchAOoDUuxZfI"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30de\u30af\u30ed\u30b9F\u300d\u661f\u9593\u98db\u884c",
+        "url": "https://open.spotify.com/album/7GWdlXZ5UrBgnA6Vc4LQ3k"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30f3\u30ab\u30fb\u30ea\u30fc=\u4e2d\u5cf6\u611b",
+          "url": "https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231222,
+      "name": "\u661f\u9593\u98db\u884c",
+      "url": "https://open.spotify.com/track/0qHT5elQ5RNmTA7oDKgb1m"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 FULL OF LOVE!!",
+        "url": "https://open.spotify.com/album/1Ho0rRCiC8UqVEFQ5z1zn8"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30f3\u30ab\u30fb\u30ea\u30fc=\u4e2d\u5cf6\u611b",
+          "url": "https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233533,
+      "name": "\u661f\u9593\u98db\u884c",
+      "url": "https://open.spotify.com/track/50ed8xwCGwUxTAOs5Gqh5f"
+    },
+    {
+      "album": {
+        "name": "\u6681\u306e\u8eca",
+        "url": "https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 303333,
+      "name": "\u6681\u306e\u8eca",
+      "url": "https://open.spotify.com/track/3IEObXuomguph3jjxrccWB"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303766,
+      "name": "\u6681\u306e\u8eca",
+      "url": "https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH"
+    },
+    {
+      "album": {
+        "name": "The World's Edge",
+        "url": "https://open.spotify.com/album/5Y82ECIONUEk8HgbebQS7B"
+      },
+      "artists": [
+        {
+          "name": "DOES",
+          "url": "https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "\u66c7\u5929",
+      "url": "https://open.spotify.com/track/1nxHxgGQga4w2WrU1kieOB"
+    },
+    {
+      "album": {
+        "name": "\u66c7\u5929",
+        "url": "https://open.spotify.com/album/01Lx3vTvSCHS6Jgsc6GtIw"
+      },
+      "artists": [
+        {
+          "name": "DOES",
+          "url": "https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190973,
+      "name": "\u66c7\u5929",
+      "url": "https://open.spotify.com/track/1o0W4Q8xymwEGAh3moqV60"
+    },
+    {
+      "album": {
+        "name": "Big\u2606Bang!!!",
+        "url": "https://open.spotify.com/album/6bxrgkhcxQSeV4yEgIkMfR"
+      },
+      "artists": [
+        {
+          "name": "Shoko Nakagawa",
+          "url": "https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251640,
+      "name": "\u7a7a\u8272\u30c7\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/4nogPuOo4AOHNGfy3hNA7P"
+    },
+    {
+      "album": {
+        "name": "\u3057\u3087\u3053\u305f\u3093\u2606\u3079\u3059\u3068\u2015\u2015(\u00b0\u2200\u00b0)\u2015\u2015!!",
+        "url": "https://open.spotify.com/album/5kgH0okVwbTC2dfpyCtnOA"
+      },
+      "artists": [
+        {
+          "name": "Shoko Nakagawa",
+          "url": "https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252173,
+      "name": "\u7a7a\u8272\u30c7\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/4EkbGJChszyxhEP0bIwBSZ"
+    },
+    {
+      "album": {
+        "name": "\u7a7a\u8272\u30c7\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/6QQjdYug6EI0gVGdq2HcEk"
+      },
+      "artists": [
+        {
+          "name": "Shoko Nakagawa",
+          "url": "https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253760,
+      "name": "\u7a7a\u8272\u30c7\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2jdezHlpt5r5hDjVC7hOpU"
+    },
+    {
+      "album": {
+        "name": "\u885d\u52d5",
+        "url": "https://open.spotify.com/album/508GKIOACUpVhhhQkh7O7w"
+      },
+      "artists": [
+        {
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194602,
+      "name": "\u885d\u52d5",
+      "url": "https://open.spotify.com/track/0s38Mpf6UkodyUtYCTaZav"
+    },
+    {
+      "album": {
+        "name": "\u9006\u3055\u307e\u306e\u8776",
+        "url": "https://open.spotify.com/album/0C3Hpb2MBpxH0Sjzm9Mto2"
+      },
+      "artists": [
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273493,
+      "name": "\u9006\u3055\u307e\u306e\u8776",
+      "url": "https://open.spotify.com/track/2oK9OQovYbhvg4htr8MGLR"
+    },
+    {
+      "album": {
+        "name": "\u521d\u96ea",
+        "url": "https://open.spotify.com/album/0fZVnR1Fvucd3SBKHfmBs3"
+      },
+      "artists": [
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273506,
+      "name": "\u9006\u3055\u307e\u306e\u8776",
+      "url": "https://open.spotify.com/track/7gaaMd98dW4ssle6fc1fBh"
+    },
+    {
+      "album": {
+        "name": "\u604b\u604b\u98a8\u6b4c",
+        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
+      },
+      "artists": [
+        {
+          "name": "Tsuji Ayano",
+          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276600,
+      "name": "\u98a8\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZZu9JWZK2dy"
 }

@@ -1,580 +1,4487 @@
 {
-  "2022-05-30": 60643,
-  "2022-05-31": 60675,
-  "2022-06-01": 60730,
-  "2022-06-02": 60736,
-  "2022-06-03": 60761,
-  "2022-06-04": 60806,
-  "2022-06-05": 60826,
-  "2022-06-06": 60852,
-  "2022-06-07": 60887,
-  "2022-06-08": 60933,
-  "2022-06-09": 60981,
-  "2022-06-10": 61024,
-  "2022-06-11": 61050,
-  "2022-06-12": 61091,
-  "2022-06-13": 61126,
-  "2022-06-14": 61156,
-  "2022-06-15": 61184,
-  "2022-06-16": 61221,
-  "2022-06-17": 61254,
-  "2022-06-18": 61291,
-  "2022-06-19": 61384,
-  "2022-06-20": 61384,
-  "2022-06-21": 61425,
-  "2022-06-22": 61508,
-  "2022-06-23": 61508,
-  "2022-06-24": 61536,
-  "2022-06-25": 61558,
-  "2022-06-26": 61589,
-  "2022-06-27": 61589,
-  "2022-06-28": 61665,
-  "2022-06-29": 61690,
-  "2022-06-30": 61710,
-  "2022-07-01": 61738,
-  "2022-07-02": 61759,
-  "2022-07-03": 61781,
-  "2022-07-04": 61815,
-  "2022-07-05": 61845,
-  "2022-07-06": 61886,
-  "2022-07-07": 61918,
-  "2022-07-08": 61946,
-  "2022-07-09": 61980,
-  "2022-07-10": 62011,
-  "2022-07-11": 62037,
-  "2022-07-12": 62071,
-  "2022-07-13": 62122,
-  "2022-07-14": 62146,
-  "2022-07-15": 62181,
-  "2022-07-16": 62210,
-  "2022-07-17": 62264,
-  "2022-07-18": 62309,
-  "2022-07-19": 62350,
-  "2022-07-20": 62396,
-  "2022-07-21": 62431,
-  "2022-07-22": 62476,
-  "2022-07-23": 62506,
-  "2022-07-24": 62539,
-  "2022-07-25": 62584,
-  "2022-07-26": 62614,
-  "2022-07-27": 62630,
-  "2022-07-28": 62670,
-  "2022-07-29": 62697,
-  "2022-07-30": 62786,
-  "2022-07-31": 62786,
-  "2022-08-01": 62810,
-  "2022-08-02": 62880,
-  "2022-08-03": 62880,
-  "2022-08-04": 62905,
-  "2022-08-05": 62946,
-  "2022-08-06": 62974,
-  "2022-08-07": 63022,
-  "2022-08-08": 63059,
-  "2022-08-09": 63101,
-  "2022-08-10": 63149,
-  "2022-08-11": 63183,
-  "2022-08-12": 63239,
-  "2022-08-13": 63279,
-  "2022-08-14": 63326,
-  "2022-08-15": 63368,
-  "2022-08-16": 63410,
-  "2022-08-17": 63444,
-  "2022-08-18": 63478,
-  "2022-08-19": 63514,
-  "2022-08-20": 63542,
-  "2022-08-21": 63574,
-  "2022-08-22": 63619,
-  "2022-08-23": 63664,
-  "2022-08-24": 63701,
-  "2022-08-25": 63744,
-  "2022-08-26": 63785,
-  "2022-08-27": 63826,
-  "2022-08-28": 63844,
-  "2022-08-29": 63894,
-  "2022-08-30": 63882,
-  "2022-08-31": 63825,
-  "2022-09-01": 63779,
-  "2022-09-02": 63729,
-  "2022-09-03": 63765,
-  "2022-09-04": 63649,
-  "2022-09-05": 63601,
-  "2022-09-06": 63642,
-  "2022-09-07": 63681,
-  "2022-09-09": 63754,
-  "2022-09-10": 63797,
-  "2022-09-11": 63825,
-  "2022-09-12": 63866,
-  "2022-09-13": 63905,
-  "2022-09-15": 63984,
-  "2022-09-16": 64015,
-  "2022-09-17": 64045,
-  "2022-09-18": 64096,
-  "2022-09-19": 64132,
-  "2022-09-20": 64265,
-  "2022-09-21": 64349,
-  "2022-09-22": 64426,
-  "2022-09-23": 64669,
-  "2022-09-24": 64854,
-  "2022-09-25": 65018,
-  "2022-09-26": 65179,
-  "2022-09-27": 65300,
-  "2022-09-28": 65406,
-  "2022-09-29": 65509,
-  "2022-09-30": 65598,
-  "2022-10-01": 65677,
-  "2022-10-02": 65722,
-  "2022-10-03": 65779,
-  "2022-10-04": 65833,
-  "2022-10-05": 65902,
-  "2022-10-06": 65986,
-  "2022-10-07": 66072,
-  "2022-10-08": 66143,
-  "2022-10-09": 66255,
-  "2022-10-10": 66266,
-  "2022-10-11": 66270,
-  "2022-10-12": 66267,
-  "2022-10-13": 66277,
-  "2022-10-14": 66321,
-  "2022-10-15": 66351,
-  "2022-10-16": 66370,
-  "2022-10-17": 66411,
-  "2022-10-18": 66437,
-  "2022-10-19": 66476,
-  "2022-10-20": 66490,
-  "2022-10-21": 66521,
-  "2022-10-22": 66543,
-  "2022-10-23": 66577,
-  "2022-10-24": 66603,
-  "2022-10-25": 66631,
-  "2022-10-26": 66660,
-  "2022-10-27": 66692,
-  "2022-10-28": 66724,
-  "2022-10-29": 66750,
-  "2022-10-30": 66775,
-  "2022-10-31": 66795,
-  "2022-11-01": 66830,
-  "2022-11-02": 66852,
-  "2022-11-03": 66886,
-  "2022-11-04": 66903,
-  "2022-11-05": 66931,
-  "2022-11-06": 66959,
-  "2022-11-07": 66992,
-  "2022-11-08": 67001,
-  "2022-11-09": 67034,
-  "2022-11-10": 67057,
-  "2022-11-11": 67069,
-  "2022-11-12": 67114,
-  "2022-11-13": 67124,
-  "2022-11-14": 67160,
-  "2022-11-15": 67182,
-  "2022-11-16": 67217,
-  "2022-11-17": 67250,
-  "2022-11-18": 67265,
-  "2022-11-19": 67243,
-  "2022-11-20": 67290,
-  "2022-11-21": 67264,
-  "2022-11-22": 67341,
-  "2022-11-23": 67317,
-  "2022-11-24": 67416,
-  "2022-11-25": 67474,
-  "2022-11-26": 67509,
-  "2022-11-27": 67534,
-  "2022-11-28": 67549,
-  "2022-11-29": 67573,
-  "2022-11-30": 67597,
-  "2022-12-01": 67632,
-  "2022-12-02": 67658,
-  "2022-12-03": 67738,
-  "2022-12-04": 67783,
-  "2022-12-05": 67822,
-  "2022-12-06": 67845,
-  "2022-12-07": 67878,
-  "2022-12-08": 67910,
-  "2022-12-09": 67932,
-  "2022-12-10": 67954,
-  "2022-12-11": 67976,
-  "2022-12-12": 68004,
-  "2022-12-13": 68035,
-  "2022-12-14": 68063,
-  "2022-12-15": 68091,
-  "2022-12-16": 68108,
-  "2022-12-17": 68134,
-  "2022-12-18": 68161,
-  "2022-12-19": 68168,
-  "2022-12-20": 68221,
-  "2022-12-21": 68221,
-  "2022-12-22": 68239,
-  "2022-12-24": 68276,
-  "2022-12-25": 68289,
-  "2022-12-26": 68303,
-  "2022-12-27": 68337,
-  "2022-12-28": 68350,
-  "2022-12-29": 68381,
-  "2022-12-30": 68402,
-  "2022-12-31": 68425,
-  "2023-01-01": 68443,
-  "2023-01-02": 68463,
-  "2023-01-03": 68482,
-  "2023-01-04": 68508,
-  "2023-01-05": 68536,
-  "2023-01-06": 68558,
-  "2023-01-07": 68602,
-  "2023-01-08": 68606,
-  "2023-01-09": 68624,
-  "2023-01-10": 68643,
-  "2023-01-11": 68662,
-  "2023-01-12": 68690,
-  "2023-01-13": 68720,
-  "2023-01-14": 68773,
-  "2023-01-15": 68768,
-  "2023-01-16": 68791,
-  "2023-01-17": 68824,
-  "2023-01-18": 68864,
-  "2023-01-19": 68887,
-  "2023-01-20": 68899,
-  "2023-01-21": 68909,
-  "2023-01-22": 68943,
-  "2023-01-23": 68967,
-  "2023-01-24": 68984,
-  "2023-01-25": 69015,
-  "2023-01-26": 69043,
-  "2023-01-27": 69065,
-  "2023-01-28": 69087,
-  "2023-01-29": 69108,
-  "2023-01-30": 69126,
-  "2023-01-31": 69126,
-  "2023-02-01": 69149,
-  "2023-02-02": 69154,
-  "2023-02-03": 69179,
-  "2023-02-04": 69191,
-  "2023-02-05": 69214,
-  "2023-02-06": 69242,
-  "2023-02-07": 69243,
-  "2023-02-08": 69290,
-  "2023-02-09": 69290,
-  "2023-02-10": 69320,
-  "2023-02-11": 69342,
-  "2023-02-12": 69385,
-  "2023-02-13": 69406,
-  "2023-02-14": 69406,
-  "2023-02-15": 69419,
-  "2023-02-16": 69431,
-  "2023-02-17": 69452,
-  "2023-02-18": 69489,
-  "2023-02-19": 69497,
-  "2023-02-20": 69520,
-  "2023-02-21": 69544,
-  "2023-02-22": 69556,
-  "2023-02-23": 69577,
-  "2023-02-24": 69611,
-  "2023-02-25": 69643,
-  "2023-02-26": 69659,
-  "2023-02-27": 69705,
-  "2023-02-28": 69705,
-  "2023-03-01": 69708,
-  "2023-03-02": 69733,
-  "2023-03-03": 69769,
-  "2023-03-04": 69780,
-  "2023-03-05": 69822,
-  "2023-03-06": 69822,
-  "2023-03-07": 69846,
-  "2023-03-08": 69855,
-  "2023-03-09": 69864,
-  "2023-03-10": 69885,
-  "2023-03-11": 69896,
-  "2023-03-12": 69907,
-  "2023-03-13": 69912,
-  "2023-03-14": 69922,
-  "2023-03-15": 69930,
-  "2023-03-16": 69962,
-  "2023-03-17": 69962,
-  "2023-03-18": 70009,
-  "2023-03-19": 70033,
-  "2023-03-20": 70066,
-  "2023-03-21": 70083,
-  "2023-03-22": 70090,
-  "2023-03-23": 70098,
-  "2023-03-24": 70098,
-  "2023-03-25": 70140,
-  "2023-03-26": 70141,
-  "2023-03-27": 70155,
-  "2023-03-28": 70180,
-  "2023-03-29": 70190,
-  "2023-03-30": 70233,
-  "2023-03-31": 70233,
-  "2023-04-01": 70252,
-  "2023-04-02": 70266,
-  "2023-04-03": 70281,
-  "2023-04-04": 70287,
-  "2023-04-05": 70305,
-  "2023-04-06": 70322,
-  "2023-04-07": 70347,
-  "2023-04-09": 70367,
-  "2023-04-10": 70379,
-  "2023-04-11": 70400,
-  "2023-04-12": 70400,
-  "2023-04-13": 70416,
-  "2023-04-14": 70438,
-  "2023-04-15": 70445,
-  "2023-04-16": 70477,
-  "2023-04-17": 70507,
-  "2023-04-18": 70522,
-  "2023-04-19": 70543,
-  "2023-04-20": 70563,
-  "2023-04-21": 70570,
-  "2023-04-22": 70581,
-  "2023-04-23": 70586,
-  "2023-04-24": 70600,
-  "2023-04-25": 70618,
-  "2023-04-26": 70642,
-  "2023-04-27": 70673,
-  "2023-04-28": 70694,
-  "2023-04-29": 70712,
-  "2023-04-30": 70724,
-  "2023-05-01": 70746,
-  "2023-05-02": 70765,
-  "2023-05-03": 70781,
-  "2023-05-04": 70809,
-  "2023-05-05": 70823,
-  "2023-05-06": 70831,
-  "2023-05-07": 70854,
-  "2023-05-08": 70885,
-  "2023-05-09": 70908,
-  "2023-05-10": 70938,
-  "2023-05-11": 70951,
-  "2023-05-12": 70966,
-  "2023-05-13": 70987,
-  "2023-05-14": 70996,
-  "2023-05-15": 71002,
-  "2023-05-16": 71028,
-  "2023-05-17": 71049,
-  "2023-05-18": 71067,
-  "2023-05-19": 71097,
-  "2023-05-20": 71134,
-  "2023-05-21": 71134,
-  "2023-05-22": 71134,
-  "2023-05-23": 71179,
-  "2023-05-24": 71211,
-  "2023-05-25": 71211,
-  "2023-05-26": 71219,
-  "2023-05-27": 71225,
-  "2023-05-28": 71243,
-  "2023-05-29": 71243,
-  "2023-05-30": 71268,
-  "2023-05-31": 71281,
-  "2023-06-01": 71307,
-  "2023-06-02": 71316,
-  "2023-06-03": 71340,
-  "2023-06-04": 71361,
-  "2023-06-05": 71381,
-  "2023-06-06": 71400,
-  "2023-06-07": 71431,
-  "2023-06-08": 71449,
-  "2023-06-09": 71481,
-  "2023-06-10": 71499,
-  "2023-06-11": 71517,
-  "2023-06-12": 71534,
-  "2023-06-13": 71545,
-  "2023-06-14": 71567,
-  "2023-06-15": 71594,
-  "2023-06-16": 71603,
-  "2023-06-17": 71635,
-  "2023-06-18": 71650,
-  "2023-06-19": 71666,
-  "2023-06-20": 71685,
-  "2023-06-21": 71698,
-  "2023-06-22": 71703,
-  "2023-06-23": 71719,
-  "2023-06-24": 71736,
-  "2023-06-25": 71754,
-  "2023-06-26": 71762,
-  "2023-06-27": 71778,
-  "2023-06-28": 71790,
-  "2023-06-29": 71810,
-  "2023-06-30": 71824,
-  "2023-07-01": 71854,
-  "2023-07-02": 71854,
-  "2023-07-03": 71853,
-  "2023-07-04": 71856,
-  "2023-07-05": 71865,
-  "2023-07-06": 71901,
-  "2023-07-07": 71901,
-  "2023-07-08": 71908,
-  "2023-07-09": 71923,
-  "2023-07-10": 71942,
-  "2023-07-11": 71950,
-  "2023-07-12": 71949,
-  "2023-07-13": 71955,
-  "2023-07-14": 71971,
-  "2023-07-15": 71985,
-  "2023-07-16": 72013,
-  "2023-07-17": 72028,
-  "2023-07-18": 72042,
-  "2023-07-19": 72057,
-  "2023-07-20": 72078,
-  "2023-07-21": 72079,
-  "2023-07-22": 72099,
-  "2023-07-23": 72101,
-  "2023-07-24": 72118,
-  "2023-07-25": 72147,
-  "2023-07-26": 72158,
-  "2023-07-27": 72177,
-  "2023-07-28": 72194,
-  "2023-07-29": 72210,
-  "2023-07-30": 72212,
-  "2023-07-31": 72221,
-  "2023-08-01": 72236,
-  "2023-08-02": 72259,
-  "2023-08-03": 72273,
-  "2023-08-04": 72291,
-  "2023-08-05": 72297,
-  "2023-08-06": 72331,
-  "2023-08-07": 72331,
-  "2023-08-08": 72355,
-  "2023-08-09": 72364,
-  "2023-08-10": 72401,
-  "2023-08-11": 72417,
-  "2023-08-12": 72423,
-  "2023-08-13": 72440,
-  "2023-08-14": 72447,
-  "2023-08-15": 72465,
-  "2023-08-16": 72465,
-  "2023-08-17": 72481,
-  "2023-08-18": 72498,
-  "2023-08-19": 72509,
-  "2023-08-20": 72535,
-  "2023-08-21": 72550,
-  "2023-08-22": 72553,
-  "2023-08-23": 72568,
-  "2023-08-24": 72582,
-  "2023-08-25": 72605,
-  "2023-08-26": 72613,
-  "2023-08-27": 72623,
-  "2023-08-28": 72635,
-  "2023-08-29": 72647,
-  "2023-08-30": 72656,
-  "2023-08-31": 72668,
-  "2023-09-01": 72695,
-  "2023-09-02": 72695,
-  "2023-09-03": 72700,
-  "2023-09-04": 72711,
-  "2023-09-05": 72722,
-  "2023-09-06": 72730,
-  "2023-09-07": 72737,
-  "2023-09-08": 72746,
-  "2023-09-09": 72749,
-  "2023-09-10": 72758,
-  "2023-09-11": 72766,
-  "2023-09-12": 72767,
-  "2023-09-13": 72782,
-  "2023-09-14": 72802,
-  "2023-09-15": 72796,
-  "2023-09-16": 72805,
-  "2023-09-17": 72815,
-  "2023-09-18": 72815,
-  "2023-09-19": 72830,
-  "2023-09-20": 72849,
-  "2023-09-21": 72866,
-  "2023-09-22": 72877,
-  "2023-09-23": 72892,
-  "2023-09-24": 72915,
-  "2023-09-25": 72920,
-  "2023-09-26": 72929,
-  "2023-09-27": 72936,
-  "2023-09-28": 72942,
-  "2023-09-29": 72962,
-  "2023-09-30": 72975,
-  "2023-10-01": 72984,
-  "2023-10-02": 72997,
-  "2023-10-03": 73001,
-  "2023-10-04": 73011,
-  "2023-10-05": 73024,
-  "2023-10-06": 73031,
-  "2023-10-07": 73034,
-  "2023-10-08": 73043,
-  "2023-10-09": 73053,
-  "2023-10-10": 73047,
-  "2023-10-11": 73036,
-  "2023-10-12": 73036,
-  "2023-10-13": 73025,
-  "2023-10-14": 73027,
-  "2023-10-15": 73042,
-  "2023-10-16": 73059,
-  "2023-10-17": 73073,
-  "2023-10-18": 73078,
-  "2023-10-19": 73091,
-  "2023-10-20": 73104,
-  "2023-10-21": 73114,
-  "2023-10-22": 73129,
-  "2023-10-23": 73140,
-  "2023-10-24": 73153,
-  "2023-10-25": 73156,
-  "2023-10-26": 73158,
-  "2023-10-27": 73165,
-  "2023-10-28": 73167,
-  "2023-10-29": 73167,
-  "2023-10-30": 73179,
-  "2023-10-31": 73179,
-  "2023-11-01": 73182,
-  "2023-11-02": 73190,
-  "2023-11-03": 73204,
-  "2023-11-04": 73210,
-  "2023-11-05": 73223,
-  "2023-11-06": 73232,
-  "2023-11-07": 73239,
-  "2023-11-08": 73245,
-  "2023-11-09": 73266,
-  "2023-11-10": 73269,
-  "2023-11-11": 73276,
-  "2023-11-12": 73280,
-  "2023-11-13": 73285,
-  "2023-11-14": 73299,
-  "2023-11-15": 73299,
-  "2023-11-16": 73327,
-  "2023-11-17": 73359,
-  "2023-11-18": 73359,
-  "2023-11-19": 73368,
-  "2023-11-20": 73386,
-  "2023-11-21": 73397,
-  "2023-11-22": 73409,
-  "2023-11-23": 73415,
-  "2023-11-24": 73419,
-  "2023-11-25": 73423,
-  "2023-11-26": 73436,
-  "2023-11-27": 73450,
-  "2023-11-28": 73457,
-  "2023-11-29": 73468,
-  "2023-11-30": 73468,
-  "2023-12-01": 73484,
-  "2023-12-02": 73491,
-  "2023-12-03": 73493,
-  "2023-12-04": 73495,
-  "2023-12-05": 73516,
-  "2023-12-06": 73518,
-  "2023-12-07": 73517,
-  "2023-12-08": 73533,
-  "2023-12-09": 73525,
-  "2023-12-10": 73532,
-  "2023-12-11": 73540,
-  "2023-12-12": 73545,
-  "2023-12-13": 73558,
-  "2023-12-14": 73575,
-  "2023-12-15": 73582,
-  "2023-12-16": 73582,
-  "2023-12-17": 73593,
-  "2023-12-18": 73600,
-  "2023-12-19": 73615,
-  "2023-12-20": 73625,
-  "2023-12-21": 73636,
-  "2023-12-22": 73644,
-  "2023-12-23": 73657,
-  "2023-12-24": 73660,
-  "2023-12-25": 73666,
-  "2023-12-26": 73673,
-  "2023-12-27": 73685,
-  "2023-12-30": 73696,
-  "2023-12-31": 73698,
-  "2024-01-01": 73722,
-  "2024-01-02": 73724,
-  "2024-01-03": 73721
+  "2024-01-17": 73732,
+  "date_first_scraped": "2022-05-30",
+  "description": "Crush on Crush's K-R&B and musics.",
+  "name": "This Is Crush",
+  "tracks": [
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143858,
+      "name": "2411",
+      "url": "https://open.spotify.com/track/5Nf0kax3dsrNjsYQB8tyQS"
+    },
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143858,
+      "name": "2411",
+      "url": "https://open.spotify.com/track/7187aqQ77ROGubLXO9Jv36"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223618,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/06H9FY5GKrrj8crtIyNEhA"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223618,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/0y15HgYhQXacBM1up5Th7h"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233212,
+      "name": "A Man Like Me",
+      "url": "https://open.spotify.com/track/6SKDNyyewsiFTNbVt2DDmI"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264666,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1pMJC3hRbJGIs3Qz6gjssl"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264666,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205550,
+      "name": "Bad Habits (Feat. LeeHi)",
+      "url": "https://open.spotify.com/track/6HKktb4MMeYSKFnNExGfKg"
+    },
+    {
+      "album": {
+        "name": "be by my side",
+        "url": "https://open.spotify.com/album/6Fhp3DHf8QeJ77Buf1KLjA"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213320,
+      "name": "be by my side",
+      "url": "https://open.spotify.com/track/1K3N3pF1uu1WPRD2QFEz06"
+    },
+    {
+      "album": {
+        "name": "be by my side",
+        "url": "https://open.spotify.com/album/3DFNDBh4qyk0vvYcihdqVA"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213320,
+      "name": "be by my side",
+      "url": "https://open.spotify.com/track/61nHajLq0uUI8khXsfxvQI"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227583,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/373skeKue6OMBOlTPuqbKG"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227583,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7i6FTYnqGAy7ICUB8bkPoh"
+    },
+    {
+      "album": {
+        "name": "MINE",
+        "url": "https://open.spotify.com/album/5pc6YYy9r4HvLGSUVJsDGX"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187350,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5qhkoCQh3lAEc83xsAuUWZ"
+    },
+    {
+      "album": {
+        "name": "MINE",
+        "url": "https://open.spotify.com/album/2EfPiIZp7oNTA9TvzaN7GC"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187350,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6zgIrAa5fKNLlL6Vli3PzD"
+    },
+    {
+      "album": {
+        "name": "BERMUDA TRIANGLE",
+        "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "BERMUDA TRIANGLE",
+      "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
+    },
+    {
+      "album": {
+        "name": "BERMUDA TRIANGLE",
+        "url": "https://open.spotify.com/album/1xy6B6nLYoyUdcAcJT7zcj"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207026,
+      "name": "BERMUDA TRIANGLE",
+      "url": "https://open.spotify.com/track/2UKT6K3gydaJ8MGDgeQtQz"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/7aZr4nLYyiFx9WUrV2q4PX"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237411,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/18rxYVdlKgiVG3tCBVIsI3"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/0KxKWeGiXcAECXkvlN63Mv"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237411,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/431fVJWWDSPmpdcNhmNQ3u"
+    },
+    {
+      "album": {
+        "name": "~",
+        "url": "https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg"
+      },
+      "artists": [
+        {
+          "name": "MILLIC",
+          "url": "https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244536,
+      "name": "BLEACHING (feat. Crush)",
+      "url": "https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6Sd2Vxt7NeEfS82UYbToqf"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258185,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0q7JdAn2mQ20GjAIdKqIjX"
+    },
+    {
+      "album": {
+        "name": "OFF DUTY",
+        "url": "https://open.spotify.com/album/7qbL1d3qCCzRIBJUTYjNLI"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263333,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1stebKrxPzXNCNUhhVWdrb"
+    },
+    {
+      "album": {
+        "name": "OFF DUTY",
+        "url": "https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263333,
+      "name": "Blue (Feat. Crush, SOLE)",
+      "url": "https://open.spotify.com/track/54p0ofXg6V75CJcYiVVdre"
+    },
+    {
+      "album": {
+        "name": "ordinary.",
+        "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241127,
+      "name": "Blue Hawaii (feat. Crush, PENOMECO) (Prod. by 0channel)",
+      "url": "https://open.spotify.com/track/1UHBO2hljyZzjaGeGGJrKF"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/0asJ8jxqqNFT5Fxr5vNSPt"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194960,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/4mPlvNApEXUR6UbNcQj0AY"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218096,
+      "name": "Cereal",
+      "url": "https://open.spotify.com/track/3AjWddhlSnA3PO8DQYXgSD"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218096,
+      "name": "Cereal",
+      "url": "https://open.spotify.com/track/4G5SXAQyz9D75KmKTLbI0X"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223780,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/0ysA3RnV8LmuXHewl7KSXi"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223780,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/3wQX0pnRgzLSI1r4rD8pcV"
+    },
+    {
+      "album": {
+        "name": "Street Woman Fighter2 (SWF2) Class Mission",
+        "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Click Like (Prod. Crush) (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce"
+    },
+    {
+      "album": {
+        "name": "Clock Out",
+        "url": "https://open.spotify.com/album/6EGUu4CDVbPr0YAggnmVSG"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229693,
+      "name": "Clock Out (Feat. Jay Park, Crush)",
+      "url": "https://open.spotify.com/track/3rpVUtSmM78lWeJSMQLCSw"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250965,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/2qjBt9S1s6wo07iQeJ4phD"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250965,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7zZnCBlFyAESht9EYLC08n"
+    },
+    {
+      "album": {
+        "name": "LIME",
+        "url": "https://open.spotify.com/album/0upFLpD2srO2KXYskkGMjK"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198031,
+      "name": "CORONA",
+      "url": "https://open.spotify.com/track/2A0zjBk2FMsPCYQCYGuEyE"
+    },
+    {
+      "album": {
+        "name": "LIME",
+        "url": "https://open.spotify.com/album/3w4IbinRZCEaM3encTxOHJ"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198086,
+      "name": "CORONA",
+      "url": "https://open.spotify.com/track/0Gl26CYRYO06tZCK8TgRpV"
+    },
+    {
+      "album": {
+        "name": "HEADLINER",
+        "url": "https://open.spotify.com/album/5dTxoZoYAzvuMFQQ0lkGIW"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246946,
+      "name": "DARLING",
+      "url": "https://open.spotify.com/track/3cmZtFjPjx4zM4nsfSZZEh"
+    },
+    {
+      "album": {
+        "name": "HEADLINER",
+        "url": "https://open.spotify.com/album/3kTOoinuKb8RNCNJnp9Qvq"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246946,
+      "name": "DARLING",
+      "url": "https://open.spotify.com/track/67Nn0OgNZ31s7iEx9UmpEO"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "Deep End (Feat. AMAKA)",
+      "url": "https://open.spotify.com/track/2aO9G7A9GKuymsU6BYZTFI"
+    },
+    {
+      "album": {
+        "name": "Digital Lover",
+        "url": "https://open.spotify.com/album/78VRAWVEX64RXlTGh4Svvw"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228120,
+      "name": "Digital Lover",
+      "url": "https://open.spotify.com/track/1euQy247tdsVmxcGEuL8mO"
+    },
+    {
+      "album": {
+        "name": "Digital Lover",
+        "url": "https://open.spotify.com/album/7klzlbNznXMdwZz44NCLbn"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228120,
+      "name": "Digital Lover",
+      "url": "https://open.spotify.com/track/2JQSAFArplm8OdYCV6Nr0u"
+    },
+    {
+      "album": {
+        "name": "XIX",
+        "url": "https://open.spotify.com/album/1u6A9D6lnJ3RT1wRjVRueH"
+      },
+      "artists": [
+        {
+          "name": "1THE9",
+          "url": "https://open.spotify.com/artist/6ZZafCTzyk1yjqEES63cMm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209312,
+      "name": "Domino (feat. Crush) (Prod. Crush, Gxxd)",
+      "url": "https://open.spotify.com/track/5IMS0D9wJu1U91O73sFqT1"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/6yNxmnFeE9GmZmagxzaKAK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218139,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/2HQMSfC1BeXwwCR3YJhroA"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/111iI9zmGaHJ3hQQdMtce4"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218139,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/7F9gR7qPem6WPhoPnJT1Ay"
+    },
+    {
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/6u8tXdoDibVxopDgwNY4MG"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/1TM0n3pwhDOPZhmhDRpOLS"
+    },
+    {
+      "album": {
+        "name": "Call Me Gray",
+        "url": "https://open.spotify.com/album/0jwKufwplmqcfVNSFdm5co"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273267,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/0xhgq74P8mfT91TWat0fZV"
+    },
+    {
+      "album": {
+        "name": "Call Me Gray",
+        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273267,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185324,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/5b9gVrIq1nnl4RRtZmrjex"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185324,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/75mdXrYqhqmf5XFJSnMxI5"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6YniytuSunB9HefGf4IxO9"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136394,
+      "name": "Ego\u2019s Theme - Interlude",
+      "url": "https://open.spotify.com/track/56l8qKanqaTFPgEUZCgH4A"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea, Episode. 10 (From The Original TV Show \"Begin Again Korea\") (Live)",
+        "url": "https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 292405,
+      "name": "End of a day (From The Original TV Show \"Begin Again Korea\") (Live)",
+      "url": "https://open.spotify.com/track/0Nicbvl7GW0TWXn9V47oty"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea Episode.10 (Original Television Soundtrack) [Live]",
+        "url": "https://open.spotify.com/album/2Wy3SFlvm29GzOcbNczLWV"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292405,
+      "name": "End of a day (From The Original TV Show \"Begin Again Korea\") - Live",
+      "url": "https://open.spotify.com/track/4s9G0ApVwrNfuGgDZYfKqp"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230019,
+      "name": "Endorphin",
+      "url": "https://open.spotify.com/track/0ijGd41XHxvKGWlc1XSbwS"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230019,
+      "name": "Endorphin",
+      "url": "https://open.spotify.com/track/3VZEykkQLXEsaGaO9eFJOp"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "EZPZ",
+      "url": "https://open.spotify.com/track/110LVdohDJs6uoD06s6j5D"
+    },
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231571,
+      "name": "fall",
+      "url": "https://open.spotify.com/track/01jZKFyNcPRUP2gX9zxScj"
+    },
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231571,
+      "name": "fall",
+      "url": "https://open.spotify.com/track/28rrN7Ld05dEpnzfbveu0A"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "For Days to Come",
+      "url": "https://open.spotify.com/track/39DbWkKmYE0j4nEnp4TMP2"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178706,
+      "name": "From Midnight To Sunrise",
+      "url": "https://open.spotify.com/track/3fm7b31sx02dMYHNjl92vD"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178706,
+      "name": "From Midnight To Sunrise",
+      "url": "https://open.spotify.com/track/4FNuxqo1l5v5ILy9w4XdWk"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235720,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235720,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/6y19Jueb3zVv2YsyEfNZ8H"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196377,
+      "name": "GOT ME GOT U",
+      "url": "https://open.spotify.com/track/35jlQdFrP1DGPhIv8r0rbA"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 160496,
+      "name": "Hands Up (Feat. Crush)",
+      "url": "https://open.spotify.com/track/1PzEe0SLTi7MXHn0zzSlqI"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Hands Up (Feat. Crush)",
+      "url": "https://open.spotify.com/track/6YplTnmozh3OtY3MVaxXOh"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 160496,
+      "name": "Hands Up (feat.Crush)",
+      "url": "https://open.spotify.com/track/09wfkAhMl4TP9LL4o3OmqR"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261693,
+      "name": "Harness",
+      "url": "https://open.spotify.com/track/2SFeuiR39uWkyHVFu8j7A5"
+    },
+    {
+      "album": {
+        "name": "highfiVe",
+        "url": "https://open.spotify.com/album/1mO8asyLRCJZ6I09wMNs5j"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241586,
+      "name": "highfiVe",
+      "url": "https://open.spotify.com/track/6pnn1CdUNjy2iEXr5wouyr"
+    },
+    {
+      "album": {
+        "name": "highfiVe",
+        "url": "https://open.spotify.com/album/1Sgh4Ol7jqp3s3E8KmGYRY"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/2nv1iHUnYCudHQxDUlglpx"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241656,
+      "name": "highfiVe",
+      "url": "https://open.spotify.com/track/406Ot9eId70MKTtSOjxepe"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Hmm-cheat",
+      "url": "https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222860,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/49xEpMDDtfMdaMF4G6bilS"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222860,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
+    },
+    {
+      "album": {
+        "name": "The Movie Star",
+        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184373,
+      "name": "I did it (Feat. Crush)",
+      "url": "https://open.spotify.com/track/5lCmjWsUj5khGm16MUhsWS"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be Yours",
+        "url": "https://open.spotify.com/album/4OyXl2VWIP5hzOMog09KcK"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192858,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/7fF6u8BlXiA3bJKDuJMKRR"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213958,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/5B2VhCVKO43v2P9r83mYZ6"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213958,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/5bFC14jb6kByq9TvbMbXUc"
+    },
+    {
+      "album": {
+        "name": "YDG Series VOL.1 JAJAJA",
+        "url": "https://open.spotify.com/album/48MgR9JfXENJEeAlErD0xG"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222587,
+      "name": "JAJAJA (Feat. Dynamic Duo, Crush)",
+      "url": "https://open.spotify.com/track/73ykl9w6imcwZzHerpr3UZ"
+    },
+    {
+      "album": {
+        "name": "YDG Series VOL.1 JAJAJA",
+        "url": "https://open.spotify.com/album/1aCovYVqK73mXeAA3aZSEj"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222587,
+      "name": "JAJAJA (feat. Dynamicduo, Crush)",
+      "url": "https://open.spotify.com/track/1YgCNd0v734B3WrBFML74c"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/0fT1WF1nu9VnqaZxkowFpl"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192630,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/2QG6SmPx2pBkZiKjT70piL"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/2nfFUxmneuGdBk4Drs0jve"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192630,
+      "name": "Just (From Young)",
+      "url": "https://open.spotify.com/track/6vs7hcMDl4l6BQKL9KE9pd"
+    },
+    {
+      "album": {
+        "name": "Late Autumn",
+        "url": "https://open.spotify.com/album/72657rD0E5qtjgwNi0R5Nm"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Late Autumn",
+      "url": "https://open.spotify.com/track/2qTAE4kS2ea1CYF9ND7tMn"
+    },
+    {
+      "album": {
+        "name": "Late Autumn",
+        "url": "https://open.spotify.com/album/7Au2CdpPmTnTWWeEvNHOne"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213053,
+      "name": "Late Autumn",
+      "url": "https://open.spotify.com/track/4TRFsBJDCxXfeOBxW9Z0WQ"
+    },
+    {
+      "album": {
+        "name": "Lay Your Head on Me",
+        "url": "https://open.spotify.com/album/1WjDLK8q9K46V78cODlWjx"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181256,
+      "name": "Lay Your Head on Me",
+      "url": "https://open.spotify.com/track/1EmkjyCz5BoYwhuDmLVFh4"
+    },
+    {
+      "album": {
+        "name": "Lay Your Head on Me",
+        "url": "https://open.spotify.com/album/3PrNEdp1ddGqaQiboDir4A"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181256,
+      "name": "Lay Your Head on Me",
+      "url": "https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2"
+    },
+    {
+      "album": {
+        "name": "OHIO",
+        "url": "https://open.spotify.com/album/6YDUI1teaFvtuVxu3Zta3E"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Let Me (Feat. Devin Morrison)",
+      "url": "https://open.spotify.com/track/29TkQHDepjKZq3YB3v0R0M"
+    },
+    {
+      "album": {
+        "name": "OHIO",
+        "url": "https://open.spotify.com/album/2Ke29I5mu2kcbyPD9S9Q2M"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194813,
+      "name": "Let Me (Feat. Devin Morrison)",
+      "url": "https://open.spotify.com/track/3ss4NZbRQcmLqNSwoModv0"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211346,
+      "name": "Let Me Go (with TAEYEON)",
+      "url": "https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211346,
+      "name": "Let Me Go (with TAEYEON)",
+      "url": "https://open.spotify.com/track/23y3tFEhkTzBT46gRU6tjv"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/46paHZ8Md6AICwfjybLjOM"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221909,
+      "name": "Let Us Go",
+      "url": "https://open.spotify.com/track/0FdsSbg6VINuk5FLKtUl7n"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/5iqfGbG2zpIih56ptL9OUV"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221909,
+      "name": "Let Us Go",
+      "url": "https://open.spotify.com/track/2y3Z9MQdgoENX8FtIVI40H"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/2t3uzrkNH5XOfgfe5bnTEE"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221909,
+      "name": "Let Us Go",
+      "url": "https://open.spotify.com/track/3RhwOffN5GMvTZZ7ZYXTQk"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1lb206sGMTJryXF66FpT0k"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 221909,
+      "name": "Let Us Go",
+      "url": "https://open.spotify.com/track/49a7NWJpx8Q3EjLDWxTui7"
+    },
+    {
+      "album": {
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9"
+      },
+      "artists": [
+        {
+          "name": "Toy",
+          "url": "https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262478,
+      "name": "Life is Beautiful",
+      "url": "https://open.spotify.com/track/5ECfpZMZiM2DMJag83DQuo"
+    },
+    {
+      "album": {
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
+      },
+      "artists": [
+        {
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262480,
+      "name": "Life is Beautiful (With Dynamicduo & Zion T & Crush)",
+      "url": "https://open.spotify.com/track/7gFWkMwPIAXn1rr3JyFKjG"
+    },
+    {
+      "album": {
+        "name": "Luckynumbers",
+        "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "dj friz",
+          "url": "https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294320,
+      "name": "Life Is Good",
+      "url": "https://open.spotify.com/track/7gRVrDCQcoEnHrPxdblf6I"
+    },
+    {
+      "album": {
+        "name": "LUCKYNUMBERS",
+        "url": "https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "dj friz",
+          "url": "https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294320,
+      "name": "Life Is Good (Feat. Crush, DJ Friz)",
+      "url": "https://open.spotify.com/track/5Ajbredt2EjaNBJ3uqls6A"
+    },
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178335,
+      "name": "like my father",
+      "url": "https://open.spotify.com/track/6GeVqwTaiSsvfyVhfclU2E"
+    },
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178335,
+      "name": "like my father",
+      "url": "https://open.spotify.com/track/6R9kPPbdTesxID7CtCAfvC"
+    },
+    {
+      "album": {
+        "name": "NAPPA",
+        "url": "https://open.spotify.com/album/0N2V8U3Xiu4nh5GNpFZXMe"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283626,
+      "name": "Lookin 4 (Feat. Joyce Wrice, Devin Morrison)",
+      "url": "https://open.spotify.com/track/0yVJJiOpOkXd9b8fIM6Mny"
+    },
+    {
+      "album": {
+        "name": "NAPPA \ub098\ube60",
+        "url": "https://open.spotify.com/album/7jpFBDXV2iuM58UEwYaWdL"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 283626,
+      "name": "Lookin 4 (Feat. Joyce Wrice, Devin Morrison)",
+      "url": "https://open.spotify.com/track/6cjqrltcgMe98n6tcEF8Uu"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Love Encore (with Lee Sora)",
+      "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210133,
+      "name": "Love Encore (with Lee Sora)",
+      "url": "https://open.spotify.com/track/3aOfUJ7IUbVDa3X5pAshOv"
+    },
+    {
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/0H9qbHCWJRmKAhERqM5X9G"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220758,
+      "name": "Love Story (Feat. CRUSH)",
+      "url": "https://open.spotify.com/track/5rUZeNNC4R65U6UeElMoss"
+    },
+    {
+      "album": {
+        "name": "sleepless in __________",
+        "url": "https://open.spotify.com/album/0ku3S11VuwERVu81G7m0jv"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250758,
+      "name": "Lovedrunk",
+      "url": "https://open.spotify.com/track/2nRm7BbBcpVaInDBCag61K"
+    },
+    {
+      "album": {
+        "name": "sleepless in __________",
+        "url": "https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250758,
+      "name": "Lovedrunk (Feat. Crush)",
+      "url": "https://open.spotify.com/track/5b2suopDXFPLXl3NKOTJjY"
+    },
+    {
+      "album": {
+        "name": "No Open Flames",
+        "url": "https://open.spotify.com/album/1426VraRvdBSqtGRfkcKze"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170840,
+      "name": "make her dance",
+      "url": "https://open.spotify.com/track/0Z5c1dNvB3pJclMafFOz2N"
+    },
+    {
+      "album": {
+        "name": "make her dance",
+        "url": "https://open.spotify.com/album/61J3JZ2qxT6N1TM3OzS1hD"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170868,
+      "name": "make her dance",
+      "url": "https://open.spotify.com/track/2IEaghW8CpyLlyQYvBxXEu"
+    },
+    {
+      "album": {
+        "name": "Sun And Moon",
+        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207493,
+      "name": "Make Up (Feat. Crush)",
+      "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
+    },
+    {
+      "album": {
+        "name": "homemade 1",
+        "url": "https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Mayday (Feat. Joy)",
+      "url": "https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke"
+    },
+    {
+      "album": {
+        "name": "homemade 1",
+        "url": "https://open.spotify.com/album/75yTA2QkJzFi33JRw1q7El"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199266,
+      "name": "Mayday (Feat. Joy)",
+      "url": "https://open.spotify.com/track/3k7ikTNf1Ms0ZfTsoe9Blk"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260048,
+      "name": "Me Myself & I",
+      "url": "https://open.spotify.com/track/65bubj32HiPvn5NglTiU1s"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189373,
+      "name": "Monday Blues",
+      "url": "https://open.spotify.com/track/3ZUc4amdm0wIfNbfOsnSFn"
+    },
+    {
+      "album": {
+        "name": "NAPPA",
+        "url": "https://open.spotify.com/album/0N2V8U3Xiu4nh5GNpFZXMe"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "NAPPA",
+      "url": "https://open.spotify.com/track/0iMGUZgpleuOUgZffF3ni2"
+    },
+    {
+      "album": {
+        "name": "NAPPA \ub098\ube60",
+        "url": "https://open.spotify.com/album/7jpFBDXV2iuM58UEwYaWdL"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194040,
+      "name": "NAPPA \ub098\ube60",
+      "url": "https://open.spotify.com/track/6uinpqa2nfwWmlj0lOgAf0"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72880,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/1E6BTmdtHAqbsF3kfTcI1j"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Nighty Night (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/4UW2LiHJa6nsazFCc8p8OH"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223213,
+      "name": "Nighty Night \uc798\uc790 (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/27lq49cT4kZPmP1yEmBdbh"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "No Break (Feat. Dynamicduo)",
+      "url": "https://open.spotify.com/track/7ptvAVljlaWLh8jzF4fzjd"
+    },
+    {
+      "album": {
+        "name": "I AM SAM",
+        "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219233,
+      "name": "NO SENSE (Feat. Crush)",
+      "url": "https://open.spotify.com/track/39EXwHjKDUVjvBu6Pv5SiH"
+    },
+    {
+      "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 11",
+        "url": "https://open.spotify.com/album/3sW5PYJ95dBTCl1ozYPPAl"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 271386,
+      "name": "No Words",
+      "url": "https://open.spotify.com/track/7swBBMpW5XH6M3NTklhvUX"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189821,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
+    },
+    {
+      "album": {
+        "name": "none",
+        "url": "https://open.spotify.com/album/2Cdj6ueAoLmNgI9AH5j5NF"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219077,
+      "name": "none",
+      "url": "https://open.spotify.com/track/0qVmnY53N0Qkb9YdOy4owI"
+    },
+    {
+      "album": {
+        "name": "none",
+        "url": "https://open.spotify.com/album/5keHOA8Q1rS1VIao9fQIs4"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219077,
+      "name": "none",
+      "url": "https://open.spotify.com/track/4wfIo76rs0RYlbgAX0FPIt"
+    },
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137574,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/0hTCnNS4OR0ATtCWMMv62y"
+    },
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 137574,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/5dbgWha65b85KWSMAn1Uj8"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Kim Ximya",
+          "url": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70000,
+      "name": "Nothing Else (Feat. Kim Ximya)",
+      "url": "https://open.spotify.com/track/1d1yzOq8VHkoLCa0kBrmXp"
+    },
+    {
+      "album": {
+        "name": "now or never",
+        "url": "https://open.spotify.com/album/7FaaYhJqVfE15xNzuYqW0d"
+      },
+      "artists": [
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216900,
+      "name": "now or never",
+      "url": "https://open.spotify.com/track/1qFrNC7XieiqlbqCQt7HZ8"
+    },
+    {
+      "album": {
+        "name": "now or never",
+        "url": "https://open.spotify.com/album/6nRBeA1WJxTtFIsNBPHcAK"
+      },
+      "artists": [
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216900,
+      "name": "now or never (ft. Crush, Woo)",
+      "url": "https://open.spotify.com/track/4CuTK78BracgjHgUq8F2o0"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191278,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191278,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/4sa8O4AwMja6r1Enu35Fmz"
+    },
+    {
+      "album": {
+        "name": "OHIO",
+        "url": "https://open.spotify.com/album/2Ke29I5mu2kcbyPD9S9Q2M"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194520,
+      "name": "OHIO",
+      "url": "https://open.spotify.com/track/3fxIgoqvwprUbhV1XEHrG5"
+    },
+    {
+      "album": {
+        "name": "OHIO",
+        "url": "https://open.spotify.com/album/6YDUI1teaFvtuVxu3Zta3E"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "OHIO",
+      "url": "https://open.spotify.com/track/4TWC6urKN2gbD5pgvCYL64"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190328,
+      "name": "One of Those Nights",
+      "url": "https://open.spotify.com/track/5eaoYciatDXxcxIoGwc0dh"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/111iI9zmGaHJ3hQQdMtce4"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257467,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7DhWwKcr6LnCcTkGEDxF3A"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/6yNxmnFeE9GmZmagxzaKAK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257467,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7rtIE6rmLN2FxMvL0cXBdm"
+    },
+    {
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216113,
+      "name": "party (SHUT DOWN)",
+      "url": "https://open.spotify.com/track/1XiRSYNZaDunJcZYlC1dU3"
+    },
+    {
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216113,
+      "name": "party (SHUT DOWN)",
+      "url": "https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ"
+    },
+    {
+      "album": {
+        "name": "hightechnology",
+        "url": "https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237893,
+      "name": "Peace (Prod. By Cosmic Boy) (Feat. Crush, Choi LB)",
+      "url": "https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/70rGAwgvjdi1dqOdSccIcT"
+    },
+    {
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177302,
+      "name": "Rush Hour (Feat. j-hope of BTS)",
+      "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        },
+        {
+          "name": "Byung Un",
+          "url": "https://open.spotify.com/artist/6eJNQPPFPPuiLl0K35mptS"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228454,
+      "name": "RYO",
+      "url": "https://open.spotify.com/track/2Q5sIXWWw3llIfo7GnHhoJ"
+    },
+    {
+      "album": {
+        "name": "wonderlost",
+        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        },
+        {
+          "name": "Byung Un",
+          "url": "https://open.spotify.com/artist/6eJNQPPFPPuiLl0K35mptS"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228454,
+      "name": "RYO",
+      "url": "https://open.spotify.com/track/5o4rQTBC4vrQxaUGHYJLK3"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "Satisfied (Feat. PENOMECO)",
+      "url": "https://open.spotify.com/track/098PNoz1gqOosflpfTjyqh"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194320,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/2ayE0A2tlGTLLtmcKxU34g"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208786,
+      "name": "She Said (with BIBI)",
+      "url": "https://open.spotify.com/track/1yrGwTuSYORDMD7kIvAKNK"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208786,
+      "name": "She Said (with BIBI)",
+      "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
+    },
+    {
+      "album": {
+        "name": "SKIP",
+        "url": "https://open.spotify.com/album/205oCY2wQQXgKVF26cBU11"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Han Sang Won",
+          "url": "https://open.spotify.com/artist/1FvLMWYal74XUTRzfaUAc9"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218360,
+      "name": "SKIP",
+      "url": "https://open.spotify.com/track/2yO7xf5zYOTnahSmYTRhLC"
+    },
+    {
+      "album": {
+        "name": "SKIP",
+        "url": "https://open.spotify.com/album/7JuGow8RykbNm3WxWNeeRi"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Han Sang Won",
+          "url": "https://open.spotify.com/artist/1FvLMWYal74XUTRzfaUAc9"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "SKIP",
+      "url": "https://open.spotify.com/track/4OWJIjuq5xtDlbCvg2bH3u"
+    },
+    {
+      "album": {
+        "name": "It's alright This is love (Original Television Soundtrack) Vol. 1",
+        "url": "https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237539,
+      "name": "Sleepless Night (feat. Punch)",
+      "url": "https://open.spotify.com/track/06qX0YB7c6ePHglG14TN39"
+    },
+    {
+      "album": {
+        "name": "SOFA",
+        "url": "https://open.spotify.com/album/1YYWg0LPED9oCGJ4CQvS6g"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229573,
+      "name": "SOFA",
+      "url": "https://open.spotify.com/track/1QFMj5GGXMY7K30dlpAs7j"
+    },
+    {
+      "album": {
+        "name": "SOFA",
+        "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "SOFA",
+      "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5MMfcCtX95tz8c9C0z8cMw"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 263644,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/03v7Yf6BkYE0FZdsXevcMT"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263644,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/12XPa1Q3JzQchPjmRxPjXg"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263644,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
+    },
+    {
+      "album": {
+        "name": "Starry Night - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210760,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/1CyH9zoX9abqsa3xPrVUsn"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272560,
+      "name": "Step By Step (with yoonmirae)",
+      "url": "https://open.spotify.com/track/1erAIak2Dinmt4xitfLEqw"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "Step By Step (with yoonmirae)",
+      "url": "https://open.spotify.com/track/4yAfDvCKM0liEAC3M6eJBL"
+    },
+    {
+      "album": {
+        "name": "Finding Heroes: Geek Tour Special",
+        "url": "https://open.spotify.com/album/6Hzo7H6uWYkLL52vlJ32UW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Band Wonderlust",
+          "url": "https://open.spotify.com/artist/6FCcThPLoyy5q23FUEDYKp"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153920,
+      "name": "Stevie Wonderlust",
+      "url": "https://open.spotify.com/track/2K7Lwi53oVZiXGuK2HrHAS"
+    },
+    {
+      "album": {
+        "name": "Stevie Wonderlust (From Finding Heroes: Geek Tour Special)",
+        "url": "https://open.spotify.com/album/1Jo1KROOSDKSwP0mn0BioM"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Band Wonderlust",
+          "url": "https://open.spotify.com/artist/6FCcThPLoyy5q23FUEDYKp"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153920,
+      "name": "Stevie Wonderlust (From Finding Heroes: Geek Tour Special)",
+      "url": "https://open.spotify.com/track/5r7hf1fZOTalt5DaAIcfEf"
+    },
+    {
+      "album": {
+        "name": "DAWNDIDIDAWN",
+        "url": "https://open.spotify.com/album/0HyKwRk4xvspJHZdT0eiDb"
+      },
+      "artists": [
+        {
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 193693,
+      "name": "Still (Feat. Crush)",
+      "url": "https://open.spotify.com/track/0PiRlZ1bf5nzeuCsAmjJnM"
+    },
+    {
+      "album": {
+        "name": "DAWNDIDIDAWN",
+        "url": "https://open.spotify.com/album/4SNTdJEmWAbPVmqSApkOAd"
+      },
+      "artists": [
+        {
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "Still (Feat. Crush)",
+      "url": "https://open.spotify.com/track/6YqCGn0NH9OpMFUFiFWHdc"
+    },
+    {
+      "album": {
+        "name": "WALKIN', Vol.2",
+        "url": "https://open.spotify.com/album/2CPepitv0LvH8IqvIAu5Uc"
+      },
+      "artists": [
+        {
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214815,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/3gziQHcM73LBhVJboeUSAE"
+    },
+    {
+      "album": {
+        "name": "WALKIN', Vol.2",
+        "url": "https://open.spotify.com/album/0w3HKEdCt5hUS9TBB8mt3H"
+      },
+      "artists": [
+        {
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214815,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/52TDpfJK1GCK5Nu1YoQ3oL"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6kqBCAcmJtniQdJY0F8pr0"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195943,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6ioaDimY5lmeAl5gBh0imb"
+    },
+    {
+      "album": {
+        "name": "CLAASSIC",
+        "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217922,
+      "name": "SWEATY",
+      "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
+    },
+    {
+      "album": {
+        "name": "Sweet Love (She is My Type\u2661 X Crush)",
+        "url": "https://open.spotify.com/album/67ePLSZ390IdSZcQnY7Gm2"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182706,
+      "name": "Sweet Love (She is My Type\u2661 X Crush)",
+      "url": "https://open.spotify.com/track/6pdQ3ZOlqKj6j2Kh0FptOD"
+    },
+    {
+      "album": {
+        "name": "4 the Youth",
+        "url": "https://open.spotify.com/album/4S4oCOWlvUSiYWwKBk7bbE"
+      },
+      "artists": [
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 186442,
+      "name": "The Key (feat. Crush)",
+      "url": "https://open.spotify.com/track/3WwccpehsAfh3FL85CFCpb"
+    },
+    {
+      "album": {
+        "name": "4 the Youth",
+        "url": "https://open.spotify.com/album/70Pfl6gR5tdBdQ6CAZgCPs"
+      },
+      "artists": [
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186442,
+      "name": "The Key (feat. Crush)",
+      "url": "https://open.spotify.com/track/5OLQiGUypFGWnrFbrzUuMa"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "Tiki-Taka (Feat. DPR LIVE)",
+      "url": "https://open.spotify.com/track/2j4yzg8wYCZjM17oyhX5rl"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196133,
+      "name": "Tiki-Taka \ud2f0\uaca9\ud0dc\uaca9 (Feat. DPR LIVE)",
+      "url": "https://open.spotify.com/track/2mHOUqoE9d1Iwj5zQWQ1K2"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182440,
+      "name": "Tip Toe (with LeeHi)",
+      "url": "https://open.spotify.com/track/04GMTDh38zAopujOw8NJy7"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "Tip Toe (with LeeHi)",
+      "url": "https://open.spotify.com/track/5j8lKQIjPgPSmYHr6F2InN"
+    },
+    {
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/0kNBVdH0reEe7q623EYijH"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211856,
+      "name": "Two melodies",
+      "url": "https://open.spotify.com/track/1oTdXaj3rG7ZM4gbdvjqb3"
+    },
+    {
+      "album": {
+        "name": "Two Melodies",
+        "url": "https://open.spotify.com/album/2RwYATmMmwDAR86tV4ltu4"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211856,
+      "name": "Two melodies",
+      "url": "https://open.spotify.com/track/2YGYsp5qY6nrwZWiRezCq1"
+    },
+    {
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/0JkkZr1XfIfy7J1vO9O77t"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211856,
+      "name": "Two melodies",
+      "url": "https://open.spotify.com/track/45WL8J05TjpjKSpKYhG495"
+    },
+    {
+      "album": {
+        "name": "FL1P",
+        "url": "https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198184,
+      "name": "VANESSA",
+      "url": "https://open.spotify.com/track/4NvhecSbk6nWAZFKBIyJQv"
+    },
+    {
+      "album": {
+        "name": "FL1P",
+        "url": "https://open.spotify.com/album/7w63fdS1eYzjuK5LAIsO7q"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198218,
+      "name": "VANESSA (Prod. by BOYCOLD)",
+      "url": "https://open.spotify.com/track/28WYTneXOyFfbWbSizxiUQ"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201600,
+      "name": "Wake Up (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/3Ss6FCrnIZdQHWA09hy236"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Wake Up (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/6ttHs2fIX0XM2qkEMGhLkA"
+    },
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 128886,
+      "name": "wanderlust",
+      "url": "https://open.spotify.com/track/1OqUHRSeEAqGexeUIxD3Cw"
+    },
+    {
+      "album": {
+        "name": "wonderlust",
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128886,
+      "name": "wanderlust",
+      "url": "https://open.spotify.com/track/1YDRBnkxAr2AQjSbC3DKsL"
+    },
+    {
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224098,
+      "name": "What 2 Do",
+      "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218886,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218886,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/2Z2hLQ6RxA4sVZ9rCJGsmv"
+    },
+    {
+      "album": {
+        "name": "Where We Go?",
+        "url": "https://open.spotify.com/album/241C7eIjOPWZZFp3WJM6mY"
+      },
+      "artists": [
+        {
+          "name": "GARY",
+          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
+        },
+        {
+          "name": "TAEWAN",
+          "url": "https://open.spotify.com/artist/3K4TluVj1rCYjiRFuzOfR7"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "Where We Go?",
+      "url": "https://open.spotify.com/track/7mvLke5LPlrARps4NEraHi"
+    },
+    {
+      "album": {
+        "name": "\uc5b4\ub514 \uac08\ub798",
+        "url": "https://open.spotify.com/album/3JdK31l6qcLrk7Cug2iuM1"
+      },
+      "artists": [
+        {
+          "name": "GARY",
+          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
+        },
+        {
+          "name": "\ud0dc\uc644",
+          "url": "https://open.spotify.com/artist/6OK3Lf8Ws6A4UdRw3lMNZo"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212493,
+      "name": "Where We Go?",
+      "url": "https://open.spotify.com/track/1TeEUA7ZY4uyZ97iHBn9N6"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268266,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0IUxpCllVJHWGI7DOobP4l"
+    },
+    {
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268266,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0dZztq6ZQZEUKQHRN2geTL"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221834,
+      "name": "woo ah",
+      "url": "https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221834,
+      "name": "woo ah",
+      "url": "https://open.spotify.com/track/5iOAtCkFtfPZoMeMbhMIY0"
+    },
+    {
+      "album": {
+        "name": "wonderego",
+        "url": "https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179346,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7lPw8JRQEGtfA0viLRAcmZ"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3sAxSK47Z6nfIzPmiM9pmv"
+    },
+    {
+      "album": {
+        "name": "Mask Singer 64th (Live Version)",
+        "url": "https://open.spotify.com/album/5ijvjY480KJkSRnqFgFs6O"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265744,
+      "name": "You Are My Lady (\ud574\uc678\ud30c \ubba4\uc9c0\uc158 \ub9c8\uc774\ucf5c)",
+      "url": "https://open.spotify.com/track/0sURxd4sQ6QQh15hwUnF6g"
+    },
+    {
+      "album": {
+        "name": "Mask Singer 64th (Live Version)",
+        "url": "https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 265799,
+      "name": "You Are My Lady (\ud574\uc678\ud30c \ubba4\uc9c0\uc158 \ub9c8\uc774\ucf5c)",
+      "url": "https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea, Episode. 10 (From The Original TV Show \"Begin Again Korea\") (Live)",
+        "url": "https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 313840,
+      "name": "You in my arms (From The Original TV Show \"Begin Again Korea\") (Live)",
+      "url": "https://open.spotify.com/track/3R1pb4dWmpMLqxfrwMep2u"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea Episode.10 (Original Television Soundtrack) [Live]",
+        "url": "https://open.spotify.com/album/2Wy3SFlvm29GzOcbNczLWV"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313840,
+      "name": "You in my arms (From The Original TV Show \"Begin Again Korea\") - Live",
+      "url": "https://open.spotify.com/track/3dA3EVZKyoeH5RG5esZLhR"
+    },
+    {
+      "album": {
+        "name": "Your Dog Loves You",
+        "url": "https://open.spotify.com/album/2K7FTCPLGWfJbJiZnmADOR"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270003,
+      "name": "Your Dog Loves You",
+      "url": "https://open.spotify.com/track/3GpGhXS8jJMRXJLOXwaJeO"
+    },
+    {
+      "album": {
+        "name": "Your Dog Loves You",
+        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270003,
+      "name": "Your Dog Loves You (Feat. Crush)",
+      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
+    },
+    {
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/6ZOOniV66m11wsEYkHQMoP"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191626,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/153rTJUFTyA3BaRz642mzY"
+    },
+    {
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191660,
+      "name": "Yummy (Prod. by Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq"
+    },
+    {
+      "album": {
+        "name": "\uc720\ud50c\ub798\uc26c",
+        "url": "https://open.spotify.com/album/7dtLwIwPbLtiUuM58dG5Z7"
+      },
+      "artists": [
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "CHOIZA",
+          "url": "https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx"
+        },
+        {
+          "name": "Geegooin",
+          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/6LMcmmQS5He6ostugaq6Fv"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "Mommy Son",
+          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
+        },
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231679,
+      "name": "\ub180\uba74 \ubb50\ud574?",
+      "url": "https://open.spotify.com/track/1HNMxlYsCrpS7sLq3SnUq0"
+    },
+    {
+      "album": {
+        "name": "\uc720\ud50c\ub798\uc26c",
+        "url": "https://open.spotify.com/album/3gBVwZjW9Db4zUN8HQI8qn"
+      },
+      "artists": [
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "CHOIZA",
+          "url": "https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx"
+        },
+        {
+          "name": "Geegooin",
+          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/6LMcmmQS5He6ostugaq6Fv"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "Mommy Son",
+          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
+        },
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2020-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231679,
+      "name": "\ub180\uba74 \ubb50\ud574?",
+      "url": "https://open.spotify.com/track/54BUmWA6AIml1x6EiSgkTf"
+    },
+    {
+      "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 11",
+        "url": "https://open.spotify.com/album/6vo9lyFUD4THs2xFr3hj3c"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271386,
+      "name": "\uc5b4\ub5a4 \ub9d0\ub3c4",
+      "url": "https://open.spotify.com/track/2oadBiiGJRLD2RhOH5JSPz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1uFbqkOlzEH"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,281 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,548 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 69 | [Quizás](https://open.spotify.com/track/1gUlnrSpnJrsE4O1NH3kC3) | [Homiecidio Bando](https://open.spotify.com/artist/2ZouHtMqYZPZxkCdgxbX35) | [Los Que Son](https://open.spotify.com/album/2s1yM6C6jr14MBEiJCojzd) | 4:13 |
 | 70 | [Sin vestir esta piel](https://open.spotify.com/track/3joblY1lK6Tn3gpLE8CCCR) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Juaninacka](https://open.spotify.com/artist/6a7aRbyLNHHiwqgLh87Mpy), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3) | [Sin vestir esta piel](https://open.spotify.com/album/0CjmDMv6tKzzm3bHyAMsFh) | 3:46 |
 | 71 | [Monedas](https://open.spotify.com/track/3kKxjmyiDgiQSi3aiZk0Oq) | [Django](https://open.spotify.com/artist/0vAPDDoJ3Hqk5sOff00c3j) | [Ratas](https://open.spotify.com/album/1ODDHkPfoaeffAiCMQoezs) | 4:09 |
-| 72 | [No Que No](https://open.spotify.com/track/0sLUxVo2K8F36pCItPx9uI) | [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [No Que No](https://open.spotify.com/album/1hU2tAaWy5dLSt9hKb0HfT) | 3:09 |
+| 72 | [No Que No](https://open.spotify.com/track/4DglXidRECKDeqeu9G6jfu) | [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [No Que No](https://open.spotify.com/album/2amccbWMnR8RZxGBP0vaFL) | 3:09 |
 | 73 | [Son Cosas](https://open.spotify.com/track/1UYvkIoRbxxiuSL4CNIdpu) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Son Cosas](https://open.spotify.com/album/4V3BIjtg8GKwaGUYjU3Key) | 3:34 |
 | 74 | [Cuidao](https://open.spotify.com/track/0tUvaRHmBAOjbnKq2zdAMo) | [Strong Black](https://open.spotify.com/artist/3QRA3GKxUG3RdCWN4TXKbw), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm) | [Cuidao](https://open.spotify.com/album/1WK146t9SUZgS7OjN2GTdR) | 3:26 |
 | 75 | [Origami](https://open.spotify.com/track/6n2RaleAqgTa8Lxo9nigf7) | [Estrato Social](https://open.spotify.com/artist/2ODDVsH2Lfveu3qJDARvk2) | [Escritura Automática](https://open.spotify.com/album/61L7p4EuDxFvOn82c7JiXU) | 3:18 |

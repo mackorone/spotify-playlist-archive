@@ -1,579 +1,1151 @@
 {
-  "2022-05-31": 349799,
-  "2022-06-01": 350109,
-  "2022-06-02": 350145,
-  "2022-06-03": 350283,
-  "2022-06-04": 350436,
-  "2022-06-05": 350574,
-  "2022-06-06": 350698,
-  "2022-06-07": 350845,
-  "2022-06-08": 351046,
-  "2022-06-09": 351170,
-  "2022-06-10": 351349,
-  "2022-06-11": 351512,
-  "2022-06-12": 351644,
-  "2022-06-13": 351768,
-  "2022-06-14": 351909,
-  "2022-06-15": 352072,
-  "2022-06-16": 352231,
-  "2022-06-17": 352367,
-  "2022-06-18": 352531,
-  "2022-06-19": 352754,
-  "2022-06-20": 352754,
-  "2022-06-21": 352907,
-  "2022-06-22": 353203,
-  "2022-06-23": 353203,
-  "2022-06-24": 353342,
-  "2022-06-25": 353505,
-  "2022-06-26": 353640,
-  "2022-06-27": 353748,
-  "2022-06-28": 353900,
-  "2022-06-29": 354048,
-  "2022-06-30": 354198,
-  "2022-07-01": 354342,
-  "2022-07-02": 354496,
-  "2022-07-03": 354641,
-  "2022-07-04": 354789,
-  "2022-07-05": 354968,
-  "2022-07-06": 354968,
-  "2022-07-07": 355239,
-  "2022-07-08": 355422,
-  "2022-07-09": 355569,
-  "2022-07-10": 355717,
-  "2022-07-11": 355846,
-  "2022-07-12": 355972,
-  "2022-07-13": 356161,
-  "2022-07-14": 356365,
-  "2022-07-15": 356590,
-  "2022-07-16": 356745,
-  "2022-07-17": 356898,
-  "2022-07-18": 357054,
-  "2022-07-19": 357212,
-  "2022-07-20": 357384,
-  "2022-07-21": 357513,
-  "2022-07-22": 357691,
-  "2022-07-23": 357886,
-  "2022-07-24": 358054,
-  "2022-07-25": 358192,
-  "2022-07-26": 358366,
-  "2022-07-27": 358532,
-  "2022-07-28": 358720,
-  "2022-07-29": 358912,
-  "2022-07-30": 359232,
-  "2022-07-31": 359232,
-  "2022-08-01": 359358,
-  "2022-08-02": 359680,
-  "2022-08-03": 359680,
-  "2022-08-04": 359841,
-  "2022-08-05": 360009,
-  "2022-08-06": 360192,
-  "2022-08-07": 360348,
-  "2022-08-08": 360503,
-  "2022-08-09": 360640,
-  "2022-08-10": 360795,
-  "2022-08-11": 360969,
-  "2022-08-12": 361122,
-  "2022-08-13": 361298,
-  "2022-08-14": 361451,
-  "2022-08-15": 361587,
-  "2022-08-16": 361751,
-  "2022-08-17": 361899,
-  "2022-08-18": 362084,
-  "2022-08-19": 362253,
-  "2022-08-20": 362426,
-  "2022-08-21": 362563,
-  "2022-08-22": 362691,
-  "2022-08-23": 362867,
-  "2022-08-24": 363003,
-  "2022-08-25": 363191,
-  "2022-08-26": 363330,
-  "2022-08-27": 363489,
-  "2022-08-28": 363640,
-  "2022-08-29": 363758,
-  "2022-08-30": 363841,
-  "2022-08-31": 363940,
-  "2022-09-01": 364022,
-  "2022-09-02": 364092,
-  "2022-09-03": 364154,
-  "2022-09-04": 364257,
-  "2022-09-05": 364379,
-  "2022-09-06": 364536,
-  "2022-09-07": 364694,
-  "2022-09-09": 365022,
-  "2022-09-10": 365220,
-  "2022-09-11": 365402,
-  "2022-09-12": 365514,
-  "2022-09-13": 365668,
-  "2022-09-15": 365984,
-  "2022-09-16": 366174,
-  "2022-09-17": 366337,
-  "2022-09-18": 366486,
-  "2022-09-19": 366626,
-  "2022-09-20": 366799,
-  "2022-09-21": 366953,
-  "2022-09-22": 367146,
-  "2022-09-23": 367327,
-  "2022-09-24": 367510,
-  "2022-09-25": 367638,
-  "2022-09-26": 367773,
-  "2022-09-27": 367957,
-  "2022-09-28": 368137,
-  "2022-09-29": 368319,
-  "2022-09-30": 368517,
-  "2022-10-01": 368679,
-  "2022-10-02": 368835,
-  "2022-10-03": 368975,
-  "2022-10-04": 369157,
-  "2022-10-05": 369331,
-  "2022-10-06": 369491,
-  "2022-10-07": 369684,
-  "2022-10-08": 369872,
-  "2022-10-09": 370166,
-  "2022-10-10": 370198,
-  "2022-10-11": 370329,
-  "2022-10-12": 370500,
-  "2022-10-13": 370666,
-  "2022-10-14": 370841,
-  "2022-10-15": 371023,
-  "2022-10-16": 371174,
-  "2022-10-17": 371285,
-  "2022-10-18": 371408,
-  "2022-10-19": 371614,
-  "2022-10-20": 371766,
-  "2022-10-21": 371932,
-  "2022-10-22": 372105,
-  "2022-10-23": 372268,
-  "2022-10-24": 372378,
-  "2022-10-25": 372538,
-  "2022-10-26": 372690,
-  "2022-10-27": 372864,
-  "2022-10-28": 373026,
-  "2022-10-29": 373180,
-  "2022-10-30": 373325,
-  "2022-10-31": 373451,
-  "2022-11-01": 373598,
-  "2022-11-02": 373754,
-  "2022-11-03": 373934,
-  "2022-11-04": 374085,
-  "2022-11-05": 374261,
-  "2022-11-06": 374422,
-  "2022-11-07": 374546,
-  "2022-11-08": 374682,
-  "2022-11-09": 374841,
-  "2022-11-10": 374998,
-  "2022-11-11": 375161,
-  "2022-11-12": 375349,
-  "2022-11-13": 375466,
-  "2022-11-14": 375599,
-  "2022-11-15": 375746,
-  "2022-11-16": 375874,
-  "2022-11-17": 376065,
-  "2022-11-18": 376099,
-  "2022-11-19": 376109,
-  "2022-11-20": 376260,
-  "2022-11-21": 376372,
-  "2022-11-22": 376478,
-  "2022-11-23": 376590,
-  "2022-11-24": 376851,
-  "2022-11-25": 377049,
-  "2022-11-26": 377202,
-  "2022-11-27": 377314,
-  "2022-11-28": 377407,
-  "2022-11-29": 377517,
-  "2022-11-30": 377668,
-  "2022-12-01": 377837,
-  "2022-12-02": 377939,
-  "2022-12-03": 378151,
-  "2022-12-04": 378288,
-  "2022-12-05": 378393,
-  "2022-12-06": 378537,
-  "2022-12-07": 378691,
-  "2022-12-08": 378854,
-  "2022-12-09": 379013,
-  "2022-12-10": 379165,
-  "2022-12-11": 379312,
-  "2022-12-12": 379442,
-  "2022-12-13": 379546,
-  "2022-12-14": 379689,
-  "2022-12-15": 379832,
-  "2022-12-16": 379998,
-  "2022-12-17": 380159,
-  "2022-12-18": 380320,
-  "2022-12-19": 380443,
-  "2022-12-20": 380726,
-  "2022-12-21": 380726,
-  "2022-12-22": 380875,
-  "2022-12-24": 381117,
-  "2022-12-25": 381216,
-  "2022-12-26": 381298,
-  "2022-12-27": 381422,
-  "2022-12-28": 381553,
-  "2022-12-29": 381699,
-  "2022-12-30": 381859,
-  "2022-12-31": 382049,
-  "2023-01-01": 382169,
-  "2023-01-02": 382261,
-  "2023-01-03": 382389,
-  "2023-01-04": 382521,
-  "2023-01-05": 382668,
-  "2023-01-06": 382828,
-  "2023-01-07": 383083,
-  "2023-01-08": 383122,
-  "2023-01-09": 383266,
-  "2023-01-10": 383434,
-  "2023-01-11": 383626,
-  "2023-01-12": 383836,
-  "2023-01-13": 384006,
-  "2023-01-14": 384285,
-  "2023-01-15": 384305,
-  "2023-01-16": 384443,
-  "2023-01-17": 384566,
-  "2023-01-18": 384754,
-  "2023-01-19": 384949,
-  "2023-01-20": 385114,
-  "2023-01-21": 385287,
-  "2023-01-22": 385443,
-  "2023-01-23": 385592,
-  "2023-01-24": 385775,
-  "2023-01-25": 385970,
-  "2023-01-26": 386132,
-  "2023-01-27": 386299,
-  "2023-01-28": 386487,
-  "2023-01-29": 386661,
-  "2023-01-30": 386764,
-  "2023-01-31": 386764,
-  "2023-02-01": 387100,
-  "2023-02-02": 387252,
-  "2023-02-03": 387429,
-  "2023-02-04": 387618,
-  "2023-02-05": 387817,
-  "2023-02-06": 387941,
-  "2023-02-07": 388070,
-  "2023-02-08": 388446,
-  "2023-02-09": 388446,
-  "2023-02-10": 388670,
-  "2023-02-11": 388839,
-  "2023-02-12": 389184,
-  "2023-02-13": 389348,
-  "2023-02-14": 389348,
-  "2023-02-15": 389536,
-  "2023-02-16": 389729,
-  "2023-02-17": 389911,
-  "2023-02-18": 390278,
-  "2023-02-19": 390293,
-  "2023-02-20": 390430,
-  "2023-02-21": 390581,
-  "2023-02-22": 390739,
-  "2023-02-23": 390931,
-  "2023-02-24": 391132,
-  "2023-02-25": 391366,
-  "2023-02-26": 391471,
-  "2023-02-27": 391814,
-  "2023-02-28": 391814,
-  "2023-03-01": 391968,
-  "2023-03-02": 392139,
-  "2023-03-03": 392309,
-  "2023-03-04": 392495,
-  "2023-03-05": 392763,
-  "2023-03-06": 392763,
-  "2023-03-07": 392939,
-  "2023-03-08": 393115,
-  "2023-03-09": 393278,
-  "2023-03-10": 393451,
-  "2023-03-11": 393635,
-  "2023-03-12": 393801,
-  "2023-03-13": 393976,
-  "2023-03-14": 394163,
-  "2023-03-15": 394435,
-  "2023-03-16": 394728,
-  "2023-03-17": 394728,
-  "2023-03-18": 395299,
-  "2023-03-19": 395501,
-  "2023-03-20": 395683,
-  "2023-03-21": 395865,
-  "2023-03-22": 396101,
-  "2023-03-23": 396310,
-  "2023-03-24": 396310,
-  "2023-03-25": 396773,
-  "2023-03-26": 396954,
-  "2023-03-27": 397128,
-  "2023-03-28": 397338,
-  "2023-03-29": 397595,
-  "2023-03-30": 398060,
-  "2023-03-31": 398060,
-  "2023-04-01": 398281,
-  "2023-04-02": 398497,
-  "2023-04-03": 398652,
-  "2023-04-04": 398845,
-  "2023-04-05": 399055,
-  "2023-04-06": 399318,
-  "2023-04-07": 399534,
-  "2023-04-09": 399909,
-  "2023-04-10": 400086,
-  "2023-04-11": 400464,
-  "2023-04-12": 400464,
-  "2023-04-13": 400729,
-  "2023-04-14": 400967,
-  "2023-04-15": 401193,
-  "2023-04-16": 401346,
-  "2023-04-17": 401476,
-  "2023-04-18": 401620,
-  "2023-04-19": 401845,
-  "2023-04-20": 401998,
-  "2023-04-21": 402263,
-  "2023-04-22": 402430,
-  "2023-04-23": 402625,
-  "2023-04-24": 402769,
-  "2023-04-25": 402950,
-  "2023-04-26": 403133,
-  "2023-04-27": 403321,
-  "2023-04-28": 403531,
-  "2023-04-29": 403731,
-  "2023-04-30": 403921,
-  "2023-05-01": 404042,
-  "2023-05-02": 404184,
-  "2023-05-03": 404369,
-  "2023-05-04": 404563,
-  "2023-05-05": 404756,
-  "2023-05-06": 404939,
-  "2023-05-07": 405126,
-  "2023-05-08": 405295,
-  "2023-05-09": 405488,
-  "2023-05-10": 405694,
-  "2023-05-11": 405865,
-  "2023-05-12": 406049,
-  "2023-05-13": 406273,
-  "2023-05-14": 406476,
-  "2023-05-15": 406656,
-  "2023-05-16": 406807,
-  "2023-05-17": 407026,
-  "2023-05-18": 407263,
-  "2023-05-19": 407522,
-  "2023-05-20": 407892,
-  "2023-05-21": 407892,
-  "2023-05-22": 407892,
-  "2023-05-23": 408243,
-  "2023-05-24": 408562,
-  "2023-05-25": 408625,
-  "2023-05-26": 408821,
-  "2023-05-27": 409008,
-  "2023-05-28": 409199,
-  "2023-05-29": 409199,
-  "2023-05-30": 409538,
-  "2023-05-31": 409762,
-  "2023-06-01": 409956,
-  "2023-06-02": 410146,
-  "2023-06-03": 410407,
-  "2023-06-04": 410655,
-  "2023-06-05": 410820,
-  "2023-06-06": 411004,
-  "2023-06-07": 411204,
-  "2023-06-08": 411411,
-  "2023-06-09": 411640,
-  "2023-06-10": 411830,
-  "2023-06-11": 412021,
-  "2023-06-12": 412165,
-  "2023-06-13": 412376,
-  "2023-06-14": 412376,
-  "2023-06-15": 412781,
-  "2023-06-16": 412958,
-  "2023-06-17": 413153,
-  "2023-06-18": 413293,
-  "2023-06-19": 413416,
-  "2023-06-20": 413574,
-  "2023-06-21": 413751,
-  "2023-06-22": 413918,
-  "2023-06-23": 414077,
-  "2023-06-24": 414262,
-  "2023-06-25": 414411,
-  "2023-06-26": 414553,
-  "2023-06-27": 414702,
-  "2023-06-28": 414874,
-  "2023-06-29": 415038,
-  "2023-06-30": 415226,
-  "2023-07-01": 415525,
-  "2023-07-02": 415525,
-  "2023-07-03": 415636,
-  "2023-07-04": 415778,
-  "2023-07-05": 415922,
-  "2023-07-06": 416248,
-  "2023-07-07": 416248,
-  "2023-07-08": 416467,
-  "2023-07-09": 416614,
-  "2023-07-10": 416756,
-  "2023-07-11": 416884,
-  "2023-07-12": 417056,
-  "2023-07-13": 417204,
-  "2023-07-14": 417346,
-  "2023-07-15": 417504,
-  "2023-07-16": 417659,
-  "2023-07-17": 417805,
-  "2023-07-18": 417938,
-  "2023-07-19": 418118,
-  "2023-07-20": 418303,
-  "2023-07-21": 418455,
-  "2023-07-22": 418664,
-  "2023-07-23": 418845,
-  "2023-07-24": 419005,
-  "2023-07-25": 419166,
-  "2023-07-26": 419354,
-  "2023-07-27": 419550,
-  "2023-07-28": 419777,
-  "2023-07-29": 419971,
-  "2023-07-30": 420133,
-  "2023-07-31": 420286,
-  "2023-08-01": 420450,
-  "2023-08-02": 420671,
-  "2023-08-03": 420845,
-  "2023-08-04": 421035,
-  "2023-08-05": 421191,
-  "2023-08-06": 421466,
-  "2023-08-07": 421466,
-  "2023-08-08": 421627,
-  "2023-08-09": 421802,
-  "2023-08-10": 421983,
-  "2023-08-11": 422207,
-  "2023-08-12": 422367,
-  "2023-08-13": 422367,
-  "2023-08-14": 422644,
-  "2023-08-15": 422811,
-  "2023-08-16": 422811,
-  "2023-08-17": 423165,
-  "2023-08-18": 423354,
-  "2023-08-19": 423542,
-  "2023-08-20": 423720,
-  "2023-08-21": 423876,
-  "2023-08-22": 424055,
-  "2023-08-23": 424193,
-  "2023-08-24": 424366,
-  "2023-08-25": 424566,
-  "2023-08-26": 424753,
-  "2023-08-27": 424929,
-  "2023-08-28": 425044,
-  "2023-08-29": 425245,
-  "2023-08-30": 425245,
-  "2023-08-31": 425597,
-  "2023-09-01": 426008,
-  "2023-09-02": 426008,
-  "2023-09-03": 426153,
-  "2023-09-04": 426153,
-  "2023-09-05": 426446,
-  "2023-09-06": 426601,
-  "2023-09-07": 426601,
-  "2023-09-08": 426601,
-  "2023-09-09": 426601,
-  "2023-09-10": 427309,
-  "2023-09-11": 427462,
-  "2023-09-12": 427462,
-  "2023-09-13": 427811,
-  "2023-09-14": 427811,
-  "2023-09-15": 427811,
-  "2023-09-16": 428344,
-  "2023-09-17": 428344,
-  "2023-09-18": 428344,
-  "2023-09-19": 428851,
-  "2023-09-20": 428851,
-  "2023-09-21": 428851,
-  "2023-09-22": 429430,
-  "2023-09-23": 429430,
-  "2023-09-24": 429430,
-  "2023-09-25": 429430,
-  "2023-09-26": 430154,
-  "2023-09-27": 430154,
-  "2023-09-28": 430154,
-  "2023-09-29": 430154,
-  "2023-09-30": 430154,
-  "2023-10-01": 430154,
-  "2023-10-02": 431238,
-  "2023-10-03": 431238,
-  "2023-10-04": 431238,
-  "2023-10-05": 431788,
-  "2023-10-06": 431997,
-  "2023-10-07": 431997,
-  "2023-10-08": 431997,
-  "2023-10-09": 431997,
-  "2023-10-10": 431997,
-  "2023-10-11": 432649,
-  "2023-10-12": 432649,
-  "2023-10-13": 432649,
-  "2023-10-14": 432649,
-  "2023-10-15": 432649,
-  "2023-10-16": 432649,
-  "2023-10-17": 432649,
-  "2023-10-18": 432649,
-  "2023-10-19": 432649,
-  "2023-10-20": 432649,
-  "2023-10-21": 432649,
-  "2023-10-22": 432649,
-  "2023-10-23": 432649,
-  "2023-10-24": 432649,
-  "2023-10-25": 432649,
-  "2023-10-26": 432649,
-  "2023-10-27": 432649,
-  "2023-10-28": 432649,
-  "2023-10-29": 432649,
-  "2023-10-30": 432649,
-  "2023-10-31": 432649,
-  "2023-11-01": 432649,
-  "2023-11-02": 432649,
-  "2023-11-03": 432649,
-  "2023-11-04": 432649,
-  "2023-11-05": 432649,
-  "2023-11-06": 432649,
-  "2023-11-07": 432649,
-  "2023-11-08": 432649,
-  "2023-11-09": 432649,
-  "2023-11-10": 432649,
-  "2023-11-11": 437557,
-  "2023-11-12": 437557,
-  "2023-11-13": 437557,
-  "2023-11-14": 437557,
-  "2023-11-15": 437557,
-  "2023-11-16": 437557,
-  "2023-11-17": 437557,
-  "2023-11-18": 437557,
-  "2023-11-19": 437557,
-  "2023-11-20": 437557,
-  "2023-11-21": 437557,
-  "2023-11-22": 437557,
-  "2023-11-23": 437557,
-  "2023-11-24": 437557,
-  "2023-11-25": 437557,
-  "2023-11-26": 437557,
-  "2023-11-27": 437557,
-  "2023-11-28": 437557,
-  "2023-11-29": 437557,
-  "2023-11-30": 437557,
-  "2023-12-01": 437557,
-  "2023-12-02": 437557,
-  "2023-12-03": 437557,
-  "2023-12-04": 437557,
-  "2023-12-05": 437557,
-  "2023-12-06": 437557,
-  "2023-12-07": 437557,
-  "2023-12-08": 437557,
-  "2023-12-09": 437557,
-  "2023-12-10": 437557,
-  "2023-12-11": 437557,
-  "2023-12-12": 437557,
-  "2023-12-13": 437557,
-  "2023-12-14": 442669,
-  "2023-12-15": 442777,
-  "2023-12-16": 442949,
-  "2023-12-17": 443106,
-  "2023-12-18": 443209,
-  "2023-12-19": 443345,
-  "2023-12-20": 443505,
-  "2023-12-21": 443655,
-  "2023-12-22": 443801,
-  "2023-12-23": 443979,
-  "2023-12-24": 444145,
-  "2023-12-25": 444253,
-  "2023-12-26": 444360,
-  "2023-12-27": 444496,
-  "2023-12-30": 444864,
-  "2023-12-31": 445012,
-  "2024-01-01": 445123,
-  "2024-01-02": 445228,
-  "2024-01-03": 445379
+  "2024-01-17": 446190,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
+  "name": "This Is Avenged Sevenfold",
+  "tracks": [
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172318,
+      "name": "(O)rdinary",
+      "url": "https://open.spotify.com/track/5Jfa1TJRwDnofxUlDg1yQy"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480706,
+      "name": "A Little Piece of Heaven",
+      "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352426,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Almost Easy",
+      "url": "https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU"
+    },
+    {
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+    },
+    {
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343600,
+      "name": "Beast and the Harlot",
+      "url": "https://open.spotify.com/track/6FVYwnVrnAEIRnY3bHJb46"
+    },
+    {
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394466,
+      "name": "Blinded in Chains",
+      "url": "https://open.spotify.com/track/39ZiU2QVBvDQzeepJjg8tp"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404386,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/74n2zwxeFpTANK5e9z3LsK"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255076,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1hrfvLgEC9lci0kB89QEQ0"
+    },
+    {
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342533,
+      "name": "Chapter Four",
+      "url": "https://open.spotify.com/track/4ORgqa0GOafXbApy6S8FpJ"
+    },
+    {
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385400,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS"
+    },
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451160,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315173,
+      "name": "Critical Acclaim",
+      "url": "https://open.spotify.com/track/4VymMhILk4DSwghPkLUPVS"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270123,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351581,
+      "name": "Dancing Dead",
+      "url": "https://open.spotify.com/track/42oDn8qC9g7DAAwjR3MAQt"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/1kZNgA27ewArSfE17yog8U"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328386,
+      "name": "Danger Line",
+      "url": "https://open.spotify.com/track/5mbXd14GteojYPpciTLYDk"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 328386,
+      "name": "Danger Line",
+      "url": "https://open.spotify.com/track/7pS3O75hJnthHr64tlpqPn"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393480,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/2FML7gk7ac6quGFIjvkDb3"
+    },
+    {
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 338040,
+      "name": "Desecrate Through Reverence",
+      "url": "https://open.spotify.com/track/2CtlenYH17sZ8Mzg9tgT1K"
+    },
+    {
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Doing Time",
+      "url": "https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg"
+    },
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 217760,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/6qXVuEYcL6M4Yc1zyY5F8D"
+    },
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 217653,
+      "name": "G",
+      "url": "https://open.spotify.com/track/3hpB5SlyESKXrmc6NUNQhd"
+    },
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226066,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264034,
+      "name": "Girl I Know",
+      "url": "https://open.spotify.com/track/7CAdycFxxvZqfSKNsdcVQB"
+    },
+    {
+      "album": {
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221973,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
+    },
+    {
+      "album": {
+        "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 221973,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/5uZf5fcY88UMoJtCRbSDKg"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251533,
+      "name": "Gunslinger",
+      "url": "https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w"
+    },
+    {
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305906,
+      "name": "Hail to the King",
+      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
+    },
+    {
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295213,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
+    },
+    {
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538333,
+      "name": "I Won't See You Tonight Part 1",
+      "url": "https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO"
+    },
+    {
+      "album": {
+        "name": "Single Album",
+        "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        },
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 199781,
+      "name": "Linewleum (feat. Avenged Sevenfold)",
+      "url": "https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 301506,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/0EtXiKDaHJcVFFvhWpSfiN"
+    },
+    {
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526013,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf"
+    },
+    {
+      "album": {
+        "name": "Mad Hatter",
+        "url": "https://open.spotify.com/album/4cYx05jNL7Pz1AW0kcwoXi"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 303746,
+      "name": "Mad Hatter",
+      "url": "https://open.spotify.com/track/06ccOZxagoqk4oc0cGaJw7"
+    },
+    {
+      "album": {
+        "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 254984,
+      "name": "Malague\u00f1a Salerosa",
+      "url": "https://open.spotify.com/track/2oZSBEtzUtq70iQwpNjrnk"
+    },
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330386,
+      "name": "Mattel",
+      "url": "https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315173,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/5o8OdhjVZSF2wCj7M8UpMN"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374453,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
+    },
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353986,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 353986,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+    },
+    {
+      "album": {
+        "name": "Not Ready to Die (From \"Call of the Dead\")",
+        "url": "https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425264,
+      "name": "Not Ready to Die - From \"Call of the Dead\"",
+      "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 162690,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
+    },
+    {
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366666,
+      "name": "Remenissions",
+      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr"
+    },
+    {
+      "album": {
+        "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 300361,
+      "name": "Roman Sky",
+      "url": "https://open.spotify.com/track/5QAYgWH077T3F8kAcVtQs7"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 288520,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2"
+    },
+    {
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420333,
+      "name": "Second Heartbeat",
+      "url": "https://open.spotify.com/track/3hmX5dfwY9oRIpJKvt755u"
+    },
+    {
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334066,
+      "name": "Seize the Day",
+      "url": "https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381200,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH"
+    },
+    {
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323800,
+      "name": "Shepherd of Fire",
+      "url": "https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326813,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/7Hr1Ignop7cymbE3FbOtXa"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302400,
+      "name": "St. James",
+      "url": "https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289626,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/5i1oSgQgD64N3uj1Jkp4OO"
+    },
+    {
+      "album": {
+        "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512024,
+      "name": "The Stage",
+      "url": "https://open.spotify.com/track/69gBAQdpxvCsw34Bbf8MnD"
+    },
+    {
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369293,
+      "name": "This Means War",
+      "url": "https://open.spotify.com/track/2NImo2MajNai4CLk35wMut"
+    },
+    {
+      "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351533,
+      "name": "Trashed and Scattered",
+      "url": "https://open.spotify.com/track/01CYr3t0hedD915PmI5l4D"
+    },
+    {
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283826,
+      "name": "Unholy Confessions",
+      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285613,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"
+    },
+    {
+      "album": {
+        "name": "Sounding The Seventh Trumpet",
+        "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259800,
+      "name": "Warmness On The Soul",
+      "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
+    },
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/0JUZetZb7lxLsmT7HwNCQv"
+    },
+    {
+      "album": {
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
+    },
+    {
+      "album": {
+        "name": "We Love You Moar (feat. Pussy Riot)",
+        "url": "https://open.spotify.com/album/2Fjz2tjt6Hwsbjlio7n9vB"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        },
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 275564,
+      "name": "We Love You Moar (feat. Pussy Riot)",
+      "url": "https://open.spotify.com/track/37pQPRmfsWA9HM7xMM6yXv"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245573,
+      "name": "Welcome to the Family",
+      "url": "https://open.spotify.com/track/0jqblvsI9LBY4irmLVqqEO"
+    },
+    {
+      "album": {
+        "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313918,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO09Ahq0"
 }

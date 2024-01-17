@@ -1,621 +1,1329 @@
 {
-  "2022-04-19": 4713,
-  "2022-04-20": 4753,
-  "2022-04-21": 4785,
-  "2022-04-22": 4819,
-  "2022-04-23": 4843,
-  "2022-04-24": 4881,
-  "2022-04-25": 4915,
-  "2022-04-26": 4942,
-  "2022-04-27": 4977,
-  "2022-04-28": 5000,
-  "2022-04-29": 5042,
-  "2022-04-30": 5097,
-  "2022-05-01": 5158,
-  "2022-05-02": 5158,
-  "2022-05-03": 5180,
-  "2022-05-04": 5216,
-  "2022-05-05": 5232,
-  "2022-05-06": 5253,
-  "2022-05-07": 5268,
-  "2022-05-08": 5319,
-  "2022-05-09": 5326,
-  "2022-05-10": 5351,
-  "2022-05-11": 5383,
-  "2022-05-12": 5399,
-  "2022-05-13": 5426,
-  "2022-05-14": 5460,
-  "2022-05-15": 5479,
-  "2022-05-16": 5509,
-  "2022-05-17": 5534,
-  "2022-05-18": 5556,
-  "2022-05-19": 5581,
-  "2022-05-20": 5603,
-  "2022-05-21": 5649,
-  "2022-05-22": 5649,
-  "2022-05-23": 5688,
-  "2022-05-24": 5708,
-  "2022-05-25": 5730,
-  "2022-05-26": 5747,
-  "2022-05-27": 5765,
-  "2022-05-28": 5791,
-  "2022-05-29": 5827,
-  "2022-05-30": 5858,
-  "2022-05-31": 5888,
-  "2022-06-01": 5931,
-  "2022-06-02": 5936,
-  "2022-06-03": 5957,
-  "2022-06-04": 5982,
-  "2022-06-05": 5999,
-  "2022-06-06": 6032,
-  "2022-06-07": 6051,
-  "2022-06-08": 6066,
-  "2022-06-09": 6084,
-  "2022-06-10": 6104,
-  "2022-06-11": 6127,
-  "2022-06-12": 6159,
-  "2022-06-13": 6188,
-  "2022-06-14": 6200,
-  "2022-06-15": 6237,
-  "2022-06-16": 6246,
-  "2022-06-17": 6261,
-  "2022-06-18": 6280,
-  "2022-06-19": 6327,
-  "2022-06-20": 6327,
-  "2022-06-21": 6347,
-  "2022-06-22": 6394,
-  "2022-06-23": 6394,
-  "2022-06-24": 6418,
-  "2022-06-25": 6461,
-  "2022-06-26": 6506,
-  "2022-06-27": 6538,
-  "2022-06-28": 6572,
-  "2022-06-29": 6611,
-  "2022-06-30": 6659,
-  "2022-07-01": 6690,
-  "2022-07-02": 6733,
-  "2022-07-03": 6781,
-  "2022-07-04": 6814,
-  "2022-07-05": 6841,
-  "2022-07-06": 6880,
-  "2022-07-07": 6917,
-  "2022-07-08": 6949,
-  "2022-07-09": 6989,
-  "2022-07-10": 7035,
-  "2022-07-11": 7080,
-  "2022-07-12": 7107,
-  "2022-07-13": 7151,
-  "2022-07-14": 7200,
-  "2022-07-15": 7236,
-  "2022-07-16": 7266,
-  "2022-07-17": 7315,
-  "2022-07-18": 7356,
-  "2022-07-19": 7385,
-  "2022-07-20": 7423,
-  "2022-07-21": 7465,
-  "2022-07-22": 7520,
-  "2022-07-23": 7553,
-  "2022-07-24": 7607,
-  "2022-07-25": 7651,
-  "2022-07-26": 7684,
-  "2022-07-27": 7726,
-  "2022-07-28": 7764,
-  "2022-07-29": 7806,
-  "2022-07-30": 7900,
-  "2022-07-31": 7900,
-  "2022-08-01": 7953,
-  "2022-08-02": 8031,
-  "2022-08-03": 8031,
-  "2022-08-04": 8080,
-  "2022-08-05": 8122,
-  "2022-08-06": 8175,
-  "2022-08-07": 8247,
-  "2022-08-08": 8302,
-  "2022-08-09": 8349,
-  "2022-08-10": 8383,
-  "2022-08-11": 8407,
-  "2022-08-12": 8444,
-  "2022-08-13": 8493,
-  "2022-08-14": 8553,
-  "2022-08-15": 8622,
-  "2022-08-16": 8680,
-  "2022-08-17": 8725,
-  "2022-08-18": 8770,
-  "2022-08-19": 8821,
-  "2022-08-20": 8875,
-  "2022-08-21": 8932,
-  "2022-08-22": 9025,
-  "2022-08-23": 9078,
-  "2022-08-24": 9131,
-  "2022-08-25": 9177,
-  "2022-08-26": 9227,
-  "2022-08-27": 9282,
-  "2022-08-28": 9359,
-  "2022-08-29": 9435,
-  "2022-08-30": 9481,
-  "2022-08-31": 9523,
-  "2022-09-01": 9572,
-  "2022-09-02": 9613,
-  "2022-09-03": 9657,
-  "2022-09-04": 9722,
-  "2022-09-05": 9787,
-  "2022-09-06": 9837,
-  "2022-09-07": 9859,
-  "2022-09-09": 9930,
-  "2022-09-10": 9970,
-  "2022-09-11": 10030,
-  "2022-09-12": 10069,
-  "2022-09-13": 10096,
-  "2022-09-15": 10165,
-  "2022-09-16": 10194,
-  "2022-09-17": 10228,
-  "2022-09-18": 10259,
-  "2022-09-19": 10306,
-  "2022-09-20": 10352,
-  "2022-09-21": 10379,
-  "2022-09-22": 10411,
-  "2022-09-23": 10449,
-  "2022-09-24": 10491,
-  "2022-09-25": 10547,
-  "2022-09-26": 10596,
-  "2022-09-27": 10631,
-  "2022-09-28": 10658,
-  "2022-09-29": 10689,
-  "2022-09-30": 10727,
-  "2022-10-01": 10764,
-  "2022-10-02": 10810,
-  "2022-10-03": 10878,
-  "2022-10-04": 10915,
-  "2022-10-05": 10946,
-  "2022-10-06": 10977,
-  "2022-10-07": 11019,
-  "2022-10-08": 11080,
-  "2022-10-09": 11235,
-  "2022-10-10": 11252,
-  "2022-10-11": 11314,
-  "2022-10-12": 11407,
-  "2022-10-13": 11488,
-  "2022-10-14": 11570,
-  "2022-10-15": 11652,
-  "2022-10-16": 11769,
-  "2022-10-17": 11862,
-  "2022-10-18": 11946,
-  "2022-10-19": 12001,
-  "2022-10-20": 12061,
-  "2022-10-21": 12128,
-  "2022-10-22": 12220,
-  "2022-10-23": 12303,
-  "2022-10-24": 12408,
-  "2022-10-25": 12475,
-  "2022-10-26": 12532,
-  "2022-10-27": 12609,
-  "2022-10-28": 12668,
-  "2022-10-29": 12741,
-  "2022-10-30": 12838,
-  "2022-10-31": 12940,
-  "2022-11-01": 13011,
-  "2022-11-02": 13102,
-  "2022-11-03": 13188,
-  "2022-11-04": 13277,
-  "2022-11-05": 13363,
-  "2022-11-06": 13493,
-  "2022-11-07": 13614,
-  "2022-11-08": 13691,
-  "2022-11-09": 13775,
-  "2022-11-10": 13860,
-  "2022-11-11": 13931,
-  "2022-11-12": 14019,
-  "2022-11-13": 14123,
-  "2022-11-14": 14229,
-  "2022-11-15": 14301,
-  "2022-11-16": 14374,
-  "2022-11-17": 14446,
-  "2022-11-18": 14480,
-  "2022-11-19": 14458,
-  "2022-11-20": 14570,
-  "2022-11-21": 14545,
-  "2022-11-22": 14765,
-  "2022-11-23": 14746,
-  "2022-11-24": 14941,
-  "2022-11-25": 15012,
-  "2022-11-26": 15084,
-  "2022-11-27": 15176,
-  "2022-11-28": 15233,
-  "2022-11-29": 15294,
-  "2022-11-30": 15349,
-  "2022-12-01": 15413,
-  "2022-12-02": 15440,
-  "2022-12-03": 15508,
-  "2022-12-04": 15601,
-  "2022-12-05": 15692,
-  "2022-12-06": 15746,
-  "2022-12-07": 15798,
-  "2022-12-08": 15855,
-  "2022-12-09": 15908,
-  "2022-12-10": 15959,
-  "2022-12-11": 16031,
-  "2022-12-12": 16103,
-  "2022-12-13": 16149,
-  "2022-12-14": 16195,
-  "2022-12-15": 16233,
-  "2022-12-16": 16278,
-  "2022-12-17": 16339,
-  "2022-12-18": 16412,
-  "2022-12-19": 16498,
-  "2022-12-20": 16608,
-  "2022-12-21": 16608,
-  "2022-12-22": 16676,
-  "2022-12-24": 16804,
-  "2022-12-25": 16861,
-  "2022-12-26": 16924,
-  "2022-12-27": 16985,
-  "2022-12-28": 17044,
-  "2022-12-29": 17111,
-  "2022-12-30": 17156,
-  "2022-12-31": 17229,
-  "2023-01-01": 17292,
-  "2023-01-02": 17348,
-  "2023-01-03": 17424,
-  "2023-01-04": 17481,
-  "2023-01-05": 17558,
-  "2023-01-06": 17651,
-  "2023-01-07": 17787,
-  "2023-01-08": 17806,
-  "2023-01-09": 17900,
-  "2023-01-10": 17971,
-  "2023-01-11": 18039,
-  "2023-01-12": 18112,
-  "2023-01-13": 18193,
-  "2023-01-14": 18351,
-  "2023-01-15": 18379,
-  "2023-01-16": 18475,
-  "2023-01-17": 18563,
-  "2023-01-18": 18639,
-  "2023-01-19": 18705,
-  "2023-01-20": 18775,
-  "2023-01-21": 18850,
-  "2023-01-22": 18944,
-  "2023-01-23": 19038,
-  "2023-01-24": 19100,
-  "2023-01-25": 19174,
-  "2023-01-26": 19252,
-  "2023-01-27": 19309,
-  "2023-01-28": 19384,
-  "2023-01-29": 19489,
-  "2023-01-30": 19594,
-  "2023-01-31": 19594,
-  "2023-02-01": 19701,
-  "2023-02-02": 19753,
-  "2023-02-03": 19812,
-  "2023-02-04": 19882,
-  "2023-02-05": 19961,
-  "2023-02-06": 20030,
-  "2023-02-07": 20093,
-  "2023-02-08": 20245,
-  "2023-02-09": 20245,
-  "2023-02-10": 20295,
-  "2023-02-11": 20340,
-  "2023-02-12": 20479,
-  "2023-02-13": 20527,
-  "2023-02-14": 20527,
-  "2023-02-15": 20588,
-  "2023-02-16": 20647,
-  "2023-02-17": 20718,
-  "2023-02-18": 20889,
-  "2023-02-19": 20896,
-  "2023-02-20": 20969,
-  "2023-02-21": 21042,
-  "2023-02-22": 21163,
-  "2023-02-23": 21314,
-  "2023-02-24": 21467,
-  "2023-02-25": 21711,
-  "2023-02-26": 21886,
-  "2023-02-27": 22265,
-  "2023-02-28": 22265,
-  "2023-03-01": 22417,
-  "2023-03-02": 22575,
-  "2023-03-03": 22770,
-  "2023-03-04": 22909,
-  "2023-03-05": 23405,
-  "2023-03-06": 23405,
-  "2023-03-07": 23567,
-  "2023-03-08": 23705,
-  "2023-03-09": 23846,
-  "2023-03-10": 23978,
-  "2023-03-11": 24144,
-  "2023-03-12": 24336,
-  "2023-03-13": 24518,
-  "2023-03-14": 24630,
-  "2023-03-15": 24768,
-  "2023-03-16": 24885,
-  "2023-03-17": 24885,
-  "2023-03-18": 25143,
-  "2023-03-19": 25319,
-  "2023-03-20": 25495,
-  "2023-03-21": 25650,
-  "2023-03-22": 25776,
-  "2023-03-23": 25921,
-  "2023-03-24": 25921,
-  "2023-03-25": 26226,
-  "2023-03-26": 26433,
-  "2023-03-27": 26619,
-  "2023-03-28": 26762,
-  "2023-03-29": 26933,
-  "2023-03-30": 27207,
-  "2023-03-31": 27207,
-  "2023-04-01": 27370,
-  "2023-04-02": 27566,
-  "2023-04-03": 27731,
-  "2023-04-04": 27866,
-  "2023-04-05": 28010,
-  "2023-04-06": 28168,
-  "2023-04-07": 28323,
-  "2023-04-09": 28707,
-  "2023-04-10": 28896,
-  "2023-04-11": 29201,
-  "2023-04-12": 29201,
-  "2023-04-13": 29340,
-  "2023-04-14": 29512,
-  "2023-04-15": 29662,
-  "2023-04-16": 29824,
-  "2023-04-17": 30011,
-  "2023-04-18": 30152,
-  "2023-04-19": 30274,
-  "2023-04-20": 30412,
-  "2023-04-21": 30560,
-  "2023-04-22": 30729,
-  "2023-04-23": 30934,
-  "2023-04-24": 31142,
-  "2023-04-25": 31286,
-  "2023-04-26": 31443,
-  "2023-04-27": 31566,
-  "2023-04-28": 31690,
-  "2023-04-29": 31822,
-  "2023-04-30": 31991,
-  "2023-05-01": 32140,
-  "2023-05-02": 32309,
-  "2023-05-03": 32432,
-  "2023-05-04": 32541,
-  "2023-05-05": 32670,
-  "2023-05-06": 32808,
-  "2023-05-07": 32972,
-  "2023-05-08": 33162,
-  "2023-05-09": 33303,
-  "2023-05-10": 33411,
-  "2023-05-11": 33542,
-  "2023-05-12": 33661,
-  "2023-05-13": 33797,
-  "2023-05-14": 33949,
-  "2023-05-15": 34097,
-  "2023-05-16": 34202,
-  "2023-05-17": 34321,
-  "2023-05-18": 34449,
-  "2023-05-19": 34573,
-  "2023-05-20": 34872,
-  "2023-05-21": 34872,
-  "2023-05-22": 34872,
-  "2023-05-23": 35150,
-  "2023-05-24": 35337,
-  "2023-05-25": 35375,
-  "2023-05-26": 35477,
-  "2023-05-27": 35636,
-  "2023-05-28": 35805,
-  "2023-05-29": 35805,
-  "2023-05-30": 36077,
-  "2023-05-31": 36197,
-  "2023-06-01": 36318,
-  "2023-06-02": 36440,
-  "2023-06-03": 36555,
-  "2023-06-04": 36711,
-  "2023-06-05": 36856,
-  "2023-06-06": 36986,
-  "2023-06-07": 37116,
-  "2023-06-08": 37238,
-  "2023-06-09": 37356,
-  "2023-06-10": 37462,
-  "2023-06-11": 37610,
-  "2023-06-12": 37741,
-  "2023-06-13": 37833,
-  "2023-06-14": 37920,
-  "2023-06-15": 38033,
-  "2023-06-16": 38148,
-  "2023-06-17": 38265,
-  "2023-06-18": 38409,
-  "2023-06-19": 38507,
-  "2023-06-20": 38609,
-  "2023-06-21": 38703,
-  "2023-06-22": 38827,
-  "2023-06-23": 38926,
-  "2023-06-24": 39028,
-  "2023-06-25": 39162,
-  "2023-06-26": 39307,
-  "2023-06-27": 39403,
-  "2023-06-28": 39492,
-  "2023-06-29": 39613,
-  "2023-06-30": 39704,
-  "2023-07-01": 39944,
-  "2023-07-02": 39944,
-  "2023-07-03": 40063,
-  "2023-07-04": 40143,
-  "2023-07-05": 40224,
-  "2023-07-06": 40428,
-  "2023-07-07": 40428,
-  "2023-07-08": 40534,
-  "2023-07-09": 40671,
-  "2023-07-10": 40800,
-  "2023-07-11": 40898,
-  "2023-07-12": 41009,
-  "2023-07-13": 41117,
-  "2023-07-14": 41211,
-  "2023-07-15": 41332,
-  "2023-07-16": 41514,
-  "2023-07-17": 41657,
-  "2023-07-18": 41788,
-  "2023-07-19": 41900,
-  "2023-07-20": 42011,
-  "2023-07-21": 42129,
-  "2023-07-22": 42250,
-  "2023-07-23": 42414,
-  "2023-07-24": 42544,
-  "2023-07-25": 42665,
-  "2023-07-26": 42777,
-  "2023-07-27": 42872,
-  "2023-07-28": 42979,
-  "2023-07-29": 43114,
-  "2023-07-30": 43272,
-  "2023-07-31": 43425,
-  "2023-08-01": 43532,
-  "2023-08-02": 43634,
-  "2023-08-03": 43749,
-  "2023-08-04": 43882,
-  "2023-08-05": 44021,
-  "2023-08-06": 44301,
-  "2023-08-07": 44301,
-  "2023-08-08": 44408,
-  "2023-08-09": 44534,
-  "2023-08-10": 44670,
-  "2023-08-11": 44799,
-  "2023-08-12": 44908,
-  "2023-08-13": 45094,
-  "2023-08-14": 45265,
-  "2023-08-15": 45516,
-  "2023-08-16": 45516,
-  "2023-08-17": 45647,
-  "2023-08-18": 45783,
-  "2023-08-19": 45913,
-  "2023-08-20": 46045,
-  "2023-08-21": 46228,
-  "2023-08-22": 46346,
-  "2023-08-23": 46436,
-  "2023-08-24": 46528,
-  "2023-08-25": 46633,
-  "2023-08-26": 46739,
-  "2023-08-27": 46900,
-  "2023-08-28": 47039,
-  "2023-08-29": 47162,
-  "2023-08-30": 47244,
-  "2023-08-31": 47365,
-  "2023-09-01": 47654,
-  "2023-09-02": 47654,
-  "2023-09-03": 47775,
-  "2023-09-04": 47994,
-  "2023-09-05": 48120,
-  "2023-09-06": 48235,
-  "2023-09-07": 48385,
-  "2023-09-08": 48535,
-  "2023-09-09": 48719,
-  "2023-09-10": 48945,
-  "2023-09-11": 49153,
-  "2023-09-12": 49286,
-  "2023-09-13": 49416,
-  "2023-09-14": 49565,
-  "2023-09-15": 49701,
-  "2023-09-16": 49834,
-  "2023-09-17": 50014,
-  "2023-09-18": 50154,
-  "2023-09-19": 50275,
-  "2023-09-20": 50366,
-  "2023-09-21": 50484,
-  "2023-09-22": 50604,
-  "2023-09-23": 50721,
-  "2023-09-24": 50930,
-  "2023-09-25": 51101,
-  "2023-09-26": 51252,
-  "2023-09-27": 51337,
-  "2023-09-28": 51448,
-  "2023-09-29": 51565,
-  "2023-09-30": 51683,
-  "2023-10-01": 51856,
-  "2023-10-02": 52001,
-  "2023-10-03": 52096,
-  "2023-10-04": 52209,
-  "2023-10-05": 52351,
-  "2023-10-06": 52486,
-  "2023-10-07": 52614,
-  "2023-10-08": 52816,
-  "2023-10-09": 52974,
-  "2023-10-10": 53093,
-  "2023-10-11": 53280,
-  "2023-10-12": 53280,
-  "2023-10-13": 53415,
-  "2023-10-14": 53534,
-  "2023-10-15": 53697,
-  "2023-10-16": 53856,
-  "2023-10-17": 53957,
-  "2023-10-18": 54069,
-  "2023-10-19": 54171,
-  "2023-10-20": 54266,
-  "2023-10-21": 54414,
-  "2023-10-22": 54592,
-  "2023-10-23": 54747,
-  "2023-10-24": 54864,
-  "2023-10-25": 54974,
-  "2023-10-26": 55086,
-  "2023-10-27": 55191,
-  "2023-10-28": 55324,
-  "2023-10-29": 55468,
-  "2023-10-30": 55720,
-  "2023-10-31": 55720,
-  "2023-11-01": 55818,
-  "2023-11-02": 55933,
-  "2023-11-03": 56073,
-  "2023-11-04": 56202,
-  "2023-11-05": 56370,
-  "2023-11-06": 56531,
-  "2023-11-07": 56634,
-  "2023-11-08": 56712,
-  "2023-11-09": 56826,
-  "2023-11-10": 56927,
-  "2023-11-11": 57061,
-  "2023-11-12": 57182,
-  "2023-11-13": 57322,
-  "2023-11-14": 57397,
-  "2023-11-15": 57397,
-  "2023-11-16": 57607,
-  "2023-11-17": 57834,
-  "2023-11-18": 57834,
-  "2023-11-19": 57997,
-  "2023-11-20": 58134,
-  "2023-11-21": 58241,
-  "2023-11-22": 58375,
-  "2023-11-23": 58458,
-  "2023-11-24": 58573,
-  "2023-11-25": 58678,
-  "2023-11-26": 58822,
-  "2023-11-27": 58966,
-  "2023-11-28": 59046,
-  "2023-11-29": 59255,
-  "2023-11-30": 59255,
-  "2023-12-01": 59360,
-  "2023-12-02": 59465,
-  "2023-12-03": 59613,
-  "2023-12-04": 59741,
-  "2023-12-05": 59830,
-  "2023-12-06": 59936,
-  "2023-12-07": 60077,
-  "2023-12-08": 60218,
-  "2023-12-09": 60362,
-  "2023-12-10": 60551,
-  "2023-12-11": 60697,
-  "2023-12-12": 60814,
-  "2023-12-13": 60945,
-  "2023-12-14": 61090,
-  "2023-12-15": 61202,
-  "2023-12-16": 61312,
-  "2023-12-17": 61459,
-  "2023-12-18": 61589,
-  "2023-12-19": 61714,
-  "2023-12-20": 61833,
-  "2023-12-21": 61959,
-  "2023-12-22": 62071,
-  "2023-12-23": 62218,
-  "2023-12-24": 62380,
-  "2023-12-25": 62506,
-  "2023-12-26": 62599,
-  "2023-12-27": 62736,
-  "2023-12-30": 63213,
-  "2023-12-31": 63378,
-  "2024-01-01": 63555,
-  "2024-01-02": 63719,
-  "2024-01-03": 63849
+  "2024-01-17": 66198,
+  "date_first_scraped": "2022-04-19",
+  "description": "Listen to all of the music from the Sing movies!",
+  "name": "Sing Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206437,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/2VeLdiYiILcCOEV0izfzEW"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103266,
+      "name": "All Creatures Great and Small",
+      "url": "https://open.spotify.com/track/2jf4igLCpFB73PJuhKs9XL"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Coconut",
+          "url": "https://open.spotify.com/artist/6rATWMhuTXfhBqtB3IQRWd"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166506,
+      "name": "Around The World - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/4agvT9MqlrNydXof6DRzrN"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Sing Cast",
+          "url": "https://open.spotify.com/artist/1vh3ZekJN4BIgsSysusiGH"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Auditions - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6H3V62gdSWVHsMs4PfiVkP"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59165,
+      "name": "Big Daddy Escapes",
+      "url": "https://open.spotify.com/track/1dRbZNjqbXNzkYLyf1iTeI"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Reese Witherspoon",
+          "url": "https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9"
+        },
+        {
+          "name": "Nick Kroll",
+          "url": "https://open.spotify.com/artist/54wmKAtAAWcMLCJYzmU5ih"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94137,
+      "name": "Break Free (with Nick Kroll)",
+      "url": "https://open.spotify.com/track/68GivR8VOfoNadF5qynqxa"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52850,
+      "name": "Buster's Pep Talk",
+      "url": "https://open.spotify.com/track/3cH3doTtopIybXD3rQLhCu"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201885,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96466,
+      "name": "Carry That Weight - Remastered 2009",
+      "url": "https://open.spotify.com/track/5eZrW59C3UgBhkqNlowEID"
+    },
+    {
+      "album": {
+        "name": "Christmas (Baby Please Come Home) [From Sing 2]",
+        "url": "https://open.spotify.com/album/0gnVoCrQKFmqRY5DdqLRxL"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        },
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "name": "Reese Witherspoon",
+          "url": "https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156080,
+      "name": "Christmas (Baby Please Come Home) (feat. Scarlett Johansson, Taron Egerton, Reese Witherspoon & Tori Kelly)",
+      "url": "https://open.spotify.com/track/6wUYUvIqn9swoQSaeW9ZVp"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/16nCYYc1lCxCyvaR1lgo0i"
+    },
+    {
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284840,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Don't You Worry 'Bout A Thing - Acoustic Version / From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/01rzqgRE3bImDHZFwSBakq"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241360,
+      "name": "Don't You Worry 'Bout A Thing - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6t4frXoNH8khq172Rn7c1e"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93289,
+      "name": "Dream Big Dreams",
+      "url": "https://open.spotify.com/track/19kpUUCRj8nwUa5cNEaMmu"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "Faith - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49750,
+      "name": "Gang Getaway",
+      "url": "https://open.spotify.com/track/0SkPPpu5GUbujCdEBNHUQT"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174613,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/5cZcdbTpm0kwXbW1VMyAu4"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220386,
+      "name": "Golden Slumbers / Carry That Weight - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6Atf08XRK8oAs1XfAi6SPq"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64931,
+      "name": "Good Luck Everyone",
+      "url": "https://open.spotify.com/track/7tBsax50UDUtJ5lJjA3lM1"
+    },
+    {
+      "album": {
+        "name": "Various Positions",
+        "url": "https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277160,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208973,
+      "name": "Hallelujah - Duet Version / From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3ULIOaWZxZshMYcDwQBZ8J"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207973,
+      "name": "Hallelujah - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2uiTLfRQ89zAEsR3rx2V8l"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217517,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/6HoYz6oC2y3OWfeJIOooM7"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        },
+        {
+          "name": "Beck Bennett",
+          "url": "https://open.spotify.com/artist/4vfAKzb72yU0LxBs4lr9eG"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84360,
+      "name": "I Don\u2019t Wanna - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/5ylXMjJZVowEcz3kRXUN1g"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129425,
+      "name": "I Say A Little Prayer (with Pharrell Williams)",
+      "url": "https://open.spotify.com/track/0OXzyIutbMk24FfWmZqrzw"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        },
+        {
+          "name": "Bono",
+          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181356,
+      "name": "I Still Haven\u2019t Found What I\u2019m Looking For (with Bono)",
+      "url": "https://open.spotify.com/track/2dsADtLSSLcfsSDn7sCdak"
+    },
+    {
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "I'm Still Standing",
+      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "I'm Still Standing - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0mb7btREdC3wuIUmuVRgWn"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42463,
+      "name": "Johnny Gets the Call",
+      "url": "https://open.spotify.com/track/6rFm30V48MPFdRRXgIU94L"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "name": "Reese Witherspoon",
+          "url": "https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9"
+        },
+        {
+          "name": "Nick Kroll",
+          "url": "https://open.spotify.com/artist/54wmKAtAAWcMLCJYzmU5ih"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189395,
+      "name": "Let's Go Crazy (with Taron Egerton, Reese Witherspoon, Nick Kroll)",
+      "url": "https://open.spotify.com/track/7dmc5hYruMriVSJZVQXNiT"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44697,
+      "name": "Let's Go to Work",
+      "url": "https://open.spotify.com/track/76qz4xxvMLeCtMSqDd7mPF"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "Let\u2019s Face The Music And Dance - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3O77c8IZSfkSLCJJSnz2Ni"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Tiki Pasillas",
+          "url": "https://open.spotify.com/artist/71CwQ1bVQaUFTuAHafa7TE"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135026,
+      "name": "Listen To The Music - Spanish / English Version / From\"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1vXErsG0Xljbr6P0xvk4lg"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72321,
+      "name": "Meena",
+      "url": "https://open.spotify.com/track/33tTWos4cxeIYyD35aXwjr"
+    },
+    {
+      "album": {
+        "name": "Nothing But The Best (2008 Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276253,
+      "name": "My Way - 2008 Remastered",
+      "url": "https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256013,
+      "name": "My Way - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0vbAosWswEidRk9OIgcje4"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130050,
+      "name": "None Other Than Miss Nana Noodleman",
+      "url": "https://open.spotify.com/track/2j6M9x4MWmXvJyBd01RyZH"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Bunnies",
+          "url": "https://open.spotify.com/artist/4ayPzUcc5o5R0kpzcofJHV"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131480,
+      "name": "OH.MY.GOSH - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/7G2ngpelFIxPCsEodpA8uP"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264583,
+      "name": "Out to Lunch (End Titles)",
+      "url": "https://open.spotify.com/track/1XqKJRvvmU8xrNYkzMSITv"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60023,
+      "name": "Planning the Heist",
+      "url": "https://open.spotify.com/track/472AGzt1XfNDridXG3p9DD"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70499,
+      "name": "Prison Visit",
+      "url": "https://open.spotify.com/track/5In7sOMi9Dol3gGTiaOREz"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51413,
+      "name": "Rosita Returns Home",
+      "url": "https://open.spotify.com/track/5a53OOT1pBZoih7FphT6qj"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115408,
+      "name": "Rosita's Invention",
+      "url": "https://open.spotify.com/track/7BqIlFpKIyJJNeqQPZ6vND"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214546,
+      "name": "Set It All Free - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/5hrGstK33Ed9PgdL9yEMHh"
+    },
+    {
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Nick Kroll",
+          "url": "https://open.spotify.com/artist/54wmKAtAAWcMLCJYzmU5ih"
+        },
+        {
+          "name": "Reese Witherspoon",
+          "url": "https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120560,
+      "name": "Shake It Off - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2Q0WZoJaRJlelcxqOvowUc"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Sing 2 Cast",
+          "url": "https://open.spotify.com/artist/3UX8alMeNzw4otaIf0tOcc"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107358,
+      "name": "Sing 2 Audition Medley",
+      "url": "https://open.spotify.com/track/63hsC2SThBPalMWwShDq2Q"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177522,
+      "name": "Soy Yo - Sing 2 Mix",
+      "url": "https://open.spotify.com/track/2PKhtb0xCcYnFz1h8ii1wF"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219912,
+      "name": "Stuck In A Moment You Can't Get Out Of",
+      "url": "https://open.spotify.com/track/1OQztPI2L8Nwjb5ueTrFCd"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29069,
+      "name": "Stuck in Traffic",
+      "url": "https://open.spotify.com/track/4MKtvYUvUKqbCE51FKMkQY"
+    },
+    {
+      "album": {
+        "name": "Su\u00e9ltate (From Sing 2)",
+        "url": "https://open.spotify.com/album/1XVamMw0XzgCe7SStQTlai"
+      },
+      "artists": [
+        {
+          "name": "Sam i",
+          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210631,
+      "name": "Su\u00e9ltate (From Sing 2) (with Sam i & Jarina De Marco feat. Anitta, BIA)",
+      "url": "https://open.spotify.com/track/5GFcYCn3ciDSFTRYOi4oVY"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69210,
+      "name": "Talk To Me, Crawley",
+      "url": "https://open.spotify.com/track/1h8eUjGhFU4MPREqdEomY6"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126590,
+      "name": "The Moon Theatre / Golden Slumbers",
+      "url": "https://open.spotify.com/track/48wUweEK0UxaC7iewb7fhS"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130169,
+      "name": "The Poolhouse",
+      "url": "https://open.spotify.com/track/0co7hiewHxh2XKSiBWO6H4"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84170,
+      "name": "The Selection",
+      "url": "https://open.spotify.com/track/1Rj6i4RsvPo69RCG4DVTsj"
+    },
+    {
+      "album": {
+        "name": "Begin Here",
+        "url": "https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 108573,
+      "name": "The Way I Feel Inside",
+      "url": "https://open.spotify.com/track/2iSxljzM8Xw9EEIGBRW1CD"
+    },
+    {
+      "album": {
+        "name": "Begin Here",
+        "url": "https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108573,
+      "name": "The Way I Feel Inside",
+      "url": "https://open.spotify.com/track/69GPTeIbtyU1Vd1NPYX95k"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88533,
+      "name": "The Way I Feel Inside - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/7FLpaXPZHwXkhgH2gK1VWb"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103813,
+      "name": "The Wind - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/5qD9xGtes8gtSrPRF6qW48"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164280,
+      "name": "The Winds of Change",
+      "url": "https://open.spotify.com/track/4t9Ahnc0wQFHOsab3r2eI5"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203115,
+      "name": "There's Nothing Holdin' Me Back (with Tori Kelly)",
+      "url": "https://open.spotify.com/track/0RqMEwCFvSmzt3UGBzFacK"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Adam Buxton",
+          "url": "https://open.spotify.com/artist/1tELKM5wjfv7SlSNgVOdAq"
+        },
+        {
+          "name": "DSCOSTU",
+          "url": "https://open.spotify.com/artist/4vg4AC4wgDKwGNV1xemLr1"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128491,
+      "name": "Tippy Toes (with Fancy Feelings & DSCOSTU) - BONUS TRACK",
+      "url": "https://open.spotify.com/track/02kiSpaHtIrkNCPjGndAI1"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Reese Witherspoon",
+          "url": "https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9"
+        },
+        {
+          "name": "Nick Kroll",
+          "url": "https://open.spotify.com/artist/54wmKAtAAWcMLCJYzmU5ih"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150613,
+      "name": "Venus - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2igsNTOD2UmL9mMv4e1cp3"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66231,
+      "name": "Visiting Nana (Eddie's Tune)",
+      "url": "https://open.spotify.com/track/2bgzgTD3qybYR2FPirkkH8"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        },
+        {
+          "name": "Reese Witherspoon",
+          "url": "https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9"
+        },
+        {
+          "name": "Nick Kroll",
+          "url": "https://open.spotify.com/artist/54wmKAtAAWcMLCJYzmU5ih"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156824,
+      "name": "Where the Streets Have No Name (with Taron Egerton, Scarlett Johansson, Reese Witherspoon, Nick Kroll)",
+      "url": "https://open.spotify.com/track/10aPU1k9AtL5HOTMa7mbCC"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa"
+      },
+      "artists": [
+        {
+          "name": "Joby Talbot",
+          "url": "https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111926,
+      "name": "Who Is This \"Moon\"?",
+      "url": "https://open.spotify.com/track/3RnGR9TKQxGXrDG1crQJmB"
+    },
+    {
+      "album": {
+        "name": "Your Song Saved My Life (From Sing 2)",
+        "url": "https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210280,
+      "name": "Your Song Saved My Life - From Sing 2",
+      "url": "https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Ky57Pu5u9G"
 }

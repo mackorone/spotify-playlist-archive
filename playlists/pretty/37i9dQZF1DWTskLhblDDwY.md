@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,286 likes - 99 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,367 likes - 99 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 94 | [Love Song\-Please listen to my song\-](https://open.spotify.com/track/0Wrsd0WvsXtJfQdGeWTiY8) | [ツイスト](https://open.spotify.com/artist/4hZPOAxi6owjlwhmiAovMc) | [The Heart Rock Party](https://open.spotify.com/album/4JmTOjHeproci0e5GRQG30) | 5:30 |
 | 95 | [Jenie wa Gokigen Naname](https://open.spotify.com/track/0nIkiy76OXe90SlI7h4MzY) | [ジューシィ・フルーツ](https://open.spotify.com/artist/0ggP1vmcErj5IVYW7GrTVg) | [Nick Luscombe Presents Tokyo Dreaming](https://open.spotify.com/album/5jgGYPlj2o8KhO8bgR5SW7) | 3:46 |
 | 96 | [クルージング・オン](https://open.spotify.com/track/2MQUTZtyF7azClmtcbQwFB) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/3AXCgA9qtAcTM3zatEKkje) | 4:25 |
-| 97 | [大阪しぐれ](https://open.spotify.com/track/7uZIZF2hVsI86kFjhjBHKW) | [Harumi Miyako](https://open.spotify.com/artist/5TIK7wdMeoU5BGFP1mi8vC) | [歌屋 都はるみの真骨頂](https://open.spotify.com/album/5HDBMKlsBMwWiI8Duok4wh) | 4:02 |
-| 98 | [とまり木](https://open.spotify.com/track/0u9NfvZhBJOx0mD1dBp28O) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [小林幸子全曲集 2017](https://open.spotify.com/album/6qbTjzj9A6o6d79tHdi2iJ) | 3:29 |
+| 97 | [大阪しぐれ](https://open.spotify.com/track/5syxmUaqEwldFgfZqRbbiJ) | [Harumi Miyako](https://open.spotify.com/artist/5TIK7wdMeoU5BGFP1mi8vC) | [都はるみ特選集 BIRTHDAY](https://open.spotify.com/album/2XPeABbxLBxt0cARSVgIO6) | 4:01 |
+| 98 | [とまり木](https://open.spotify.com/track/3V90kEOAJsvIewAG0rYbHt) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [歌手生活35周年記念 小林幸子ツイン･パック／雨月（つき）伝説](https://open.spotify.com/album/19fptgVCO9mArxE6rsk9ba) | 3:28 |
 | 99 | [おまえとふたり](https://open.spotify.com/track/3OL41vM3n4DdyaWELJi6QL) | [Hiroshi Itsuki](https://open.spotify.com/artist/19UvGbujplb8Ra8xV5yeds) | [ベストセレクション3\(1971\-1994\)～おまえとふたり～](https://open.spotify.com/album/5NC095cpBWbZNFGvpOVoki) | 3:27 |
 
 Snapshot ID: `MCw2MmMxM2ViOGRiOWFmZTg3YjYzOWI0NzM0ZTU2NzQwN2NkYzRhOTE0`

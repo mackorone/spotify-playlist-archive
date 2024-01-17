@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1209137,
+  "num_followers": 1194090,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDJkOGRlN2QzYTY1Y2Y1Y2IyZmYxMWYxZTllM2RiNWQ5ZjY2ZWFl",
+  "snapshot_id": "MCxmZGI2MWVmZGIwNjY5ZjkyNjU1ZjljODEzNTQ2MjdiMmE0NzUxY2Vk",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -203,18 +203,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "26",
-        "url": "https://open.spotify.com/album/3hmHy0AS9qU52yxcShZZIN"
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
         }
       ],
-      "duration_ms": 235415,
-      "name": "26",
-      "url": "https://open.spotify.com/track/1N811YTtLlW8N5ie5cPamm"
+      "duration_ms": 193133,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -259,22 +263,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+        "name": "26",
+        "url": "https://open.spotify.com/album/3hmHy0AS9qU52yxcShZZIN"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 193133,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc"
+      "duration_ms": 235415,
+      "name": "26",
+      "url": "https://open.spotify.com/track/1N811YTtLlW8N5ie5cPamm"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Forest Fires",
+        "url": "https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 210924,
+      "name": "Forest Fires",
+      "url": "https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Going In",
         "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 161324,
       "name": "Going In",
       "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Forest Fires",
-        "url": "https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 210924,
-      "name": "Forest Fires",
-      "url": "https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 224445,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Colder Heavens EP",
-        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
+      "duration_ms": 224445,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -503,18 +487,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+      "duration_ms": 144186,
+      "name": "Half Your Love",
+      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 198026,
       "name": "Like Real People Do",
       "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Half Your Love",
-      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -619,22 +603,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "All Remains",
-        "url": "https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 227279,
-      "name": "Our Remains - Acoustic",
-      "url": "https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Twist",
         "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
       },
@@ -663,6 +631,58 @@
       "duration_ms": 204014,
       "name": "Cast Iron Skillet",
       "url": "https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "All Remains",
+        "url": "https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 227279,
+      "name": "Our Remains - Acoustic",
+      "url": "https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 240787,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -699,46 +719,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
-      },
-      "artists": [
-        {
-          "name": "Ainslie Wills",
-          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
-        },
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 213023,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 240787,
-      "name": "Consolation Prize",
-      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -771,34 +751,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Oh Ohio",
-        "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
-      },
-      "artists": [
+          "name": "Ainslie Wills",
+          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
+        },
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
         }
       ],
-      "duration_ms": 178106,
-      "name": "Oh Ohio",
-      "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
+      "duration_ms": 213023,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -819,54 +787,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Jenny Jenkins (Acoustic)",
-        "url": "https://open.spotify.com/album/2KMCjuIn9c73564EGhRH9u"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 241215,
-      "name": "Jenny Jenkins (Acoustic)",
-      "url": "https://open.spotify.com/track/2oF3Ipzuj03PoAmRX9LDXf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Stolen",
-        "url": "https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD"
-      },
-      "artists": [
-        {
-          "name": "Lotte Kestner",
-          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
-        }
-      ],
-      "duration_ms": 282438,
-      "name": "True Faith",
-      "url": "https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
@@ -883,6 +803,38 @@
       "duration_ms": 231263,
       "name": "Eye to Eye (feat. Sarah Jarosz)",
       "url": "https://open.spotify.com/track/2Sid8tsyv4YOmlH3FL1UOz"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -919,6 +871,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Oh Ohio",
+        "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Oh Ohio",
+      "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -931,6 +899,54 @@
       "duration_ms": 207936,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Stolen",
+        "url": "https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD"
+      },
+      "artists": [
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "duration_ms": 282438,
+      "name": "True Faith",
+      "url": "https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Find Our Way",
+        "url": "https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "duration_ms": 211145,
+      "name": "Find Our Way",
+      "url": "https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Jenny Jenkins (Acoustic)",
+        "url": "https://open.spotify.com/album/2KMCjuIn9c73564EGhRH9u"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 241215,
+      "name": "Jenny Jenkins (Acoustic)",
+      "url": "https://open.spotify.com/track/2oF3Ipzuj03PoAmRX9LDXf"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -951,18 +967,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        },
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Pocket Full of Rain",
-      "url": "https://open.spotify.com/track/4eUnqT2pBqi6t2PHy3l3R2"
+      "duration_ms": 243973,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1019,42 +1043,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
       },
       "artists": [
         {
-          "name": "Drew Holcomb",
-          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
-        },
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 243973,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Find Our Way",
-        "url": "https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq"
-      },
-      "artists": [
-        {
-          "name": "Salt Tree",
-          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
-        }
-      ],
-      "duration_ms": 211145,
-      "name": "Find Our Way",
-      "url": "https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg"
+      "duration_ms": 230906,
+      "name": "Pocket Full of Rain",
+      "url": "https://open.spotify.com/track/4eUnqT2pBqi6t2PHy3l3R2"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Paper Crown",
-        "url": "https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ"
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
       "artists": [
         {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 217556,
-      "name": "Only Lonely",
-      "url": "https://open.spotify.com/track/7l78lkJwcYBfWk2Lyz5kEc"
+      "duration_ms": 215040,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1107,50 +1107,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
+        "name": "Paper Crown",
+        "url": "https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Listen to Formation, Look for the Signs",
-        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
-      },
-      "artists": [
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
-        }
-      ],
-      "duration_ms": 212816,
-      "name": "Call the Days",
-      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "by design",
-        "url": "https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr"
-      },
-      "artists": [
-        {
-          "name": "doppelfinger",
-          "url": "https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1"
-        }
-      ],
-      "duration_ms": 315294,
-      "name": "quite alright",
-      "url": "https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1"
+      "duration_ms": 217556,
+      "name": "Only Lonely",
+      "url": "https://open.spotify.com/track/7l78lkJwcYBfWk2Lyz5kEc"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1171,34 +1139,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
+        "name": "by design",
+        "url": "https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr"
       },
       "artists": [
         {
-          "name": "Andrew Montana",
-          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+          "name": "doppelfinger",
+          "url": "https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1"
         }
       ],
-      "duration_ms": 189200,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+      "duration_ms": 315294,
+      "name": "quite alright",
+      "url": "https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1219,6 +1171,54 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Montana",
+          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Years",
+        "url": "https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 160822,
+      "name": "Witness Trees",
+      "url": "https://open.spotify.com/track/0TE3gM7LQPiiYsNFv7crzl"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Some People I Know",
         "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 139060,
       "name": "Red And Gold",
       "url": "https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Loving Everywhere I Go",
-        "url": "https://open.spotify.com/album/2ZCIrBYU8EDHgySjPO5O7c"
-      },
-      "artists": [
-        {
-          "name": "Hudson Taylor",
-          "url": "https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub"
-        }
-      ],
-      "duration_ms": 282521,
-      "name": "Old Soul (acoustic)",
-      "url": "https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB"
     }
   ],
   "unique_name": "Morning Acoustic",

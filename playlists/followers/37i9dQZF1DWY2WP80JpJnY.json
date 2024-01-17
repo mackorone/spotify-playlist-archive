@@ -1,580 +1,2383 @@
 {
-  "2022-05-30": 39779,
-  "2022-05-31": 39800,
-  "2022-06-01": 39835,
-  "2022-06-02": 39839,
-  "2022-06-03": 39862,
-  "2022-06-04": 39866,
-  "2022-06-05": 39894,
-  "2022-06-06": 39909,
-  "2022-06-07": 39920,
-  "2022-06-08": 39938,
-  "2022-06-09": 39945,
-  "2022-06-10": 39960,
-  "2022-06-11": 39971,
-  "2022-06-12": 39986,
-  "2022-06-13": 39988,
-  "2022-06-14": 39990,
-  "2022-06-15": 39996,
-  "2022-06-16": 40020,
-  "2022-06-17": 40038,
-  "2022-06-18": 40056,
-  "2022-06-19": 40090,
-  "2022-06-20": 40090,
-  "2022-06-21": 40104,
-  "2022-06-22": 40145,
-  "2022-06-23": 40145,
-  "2022-06-24": 40148,
-  "2022-06-25": 40158,
-  "2022-06-26": 40174,
-  "2022-06-27": 40188,
-  "2022-06-28": 40200,
-  "2022-06-29": 40221,
-  "2022-06-30": 40233,
-  "2022-07-01": 40249,
-  "2022-07-02": 40259,
-  "2022-07-03": 40268,
-  "2022-07-04": 40278,
-  "2022-07-05": 40294,
-  "2022-07-06": 40301,
-  "2022-07-07": 40324,
-  "2022-07-08": 40347,
-  "2022-07-09": 40372,
-  "2022-07-10": 40389,
-  "2022-07-11": 40399,
-  "2022-07-12": 40418,
-  "2022-07-13": 40447,
-  "2022-07-14": 40487,
-  "2022-07-15": 40508,
-  "2022-07-16": 40532,
-  "2022-07-17": 40547,
-  "2022-07-18": 40567,
-  "2022-07-19": 40583,
-  "2022-07-20": 40606,
-  "2022-07-21": 40611,
-  "2022-07-22": 40630,
-  "2022-07-23": 40646,
-  "2022-07-24": 40673,
-  "2022-07-25": 40696,
-  "2022-07-26": 40709,
-  "2022-07-27": 40717,
-  "2022-07-28": 40736,
-  "2022-07-29": 40754,
-  "2022-07-30": 40780,
-  "2022-07-31": 40780,
-  "2022-08-01": 40793,
-  "2022-08-02": 40840,
-  "2022-08-03": 40840,
-  "2022-08-04": 40854,
-  "2022-08-05": 40862,
-  "2022-08-06": 40870,
-  "2022-08-07": 40883,
-  "2022-08-08": 40885,
-  "2022-08-09": 40900,
-  "2022-08-10": 40984,
-  "2022-08-11": 41073,
-  "2022-08-12": 41107,
-  "2022-08-13": 41139,
-  "2022-08-14": 41158,
-  "2022-08-15": 41188,
-  "2022-08-16": 41204,
-  "2022-08-17": 41210,
-  "2022-08-18": 41228,
-  "2022-08-19": 41250,
-  "2022-08-20": 41265,
-  "2022-08-21": 41282,
-  "2022-08-22": 41305,
-  "2022-08-23": 41317,
-  "2022-08-24": 41333,
-  "2022-08-25": 41351,
-  "2022-08-26": 41375,
-  "2022-08-27": 41386,
-  "2022-08-28": 41407,
-  "2022-08-29": 41426,
-  "2022-08-30": 41442,
-  "2022-08-31": 41423,
-  "2022-09-01": 41411,
-  "2022-09-02": 41434,
-  "2022-09-03": 41422,
-  "2022-09-04": 41398,
-  "2022-09-05": 41404,
-  "2022-09-06": 41419,
-  "2022-09-07": 41435,
-  "2022-09-09": 41468,
-  "2022-09-10": 41486,
-  "2022-09-11": 41501,
-  "2022-09-12": 41515,
-  "2022-09-13": 41534,
-  "2022-09-15": 41562,
-  "2022-09-16": 41580,
-  "2022-09-17": 41586,
-  "2022-09-18": 41600,
-  "2022-09-19": 41611,
-  "2022-09-20": 41630,
-  "2022-09-21": 41644,
-  "2022-09-22": 41663,
-  "2022-09-23": 41682,
-  "2022-09-24": 41694,
-  "2022-09-25": 41716,
-  "2022-09-26": 41743,
-  "2022-09-27": 41759,
-  "2022-09-28": 41775,
-  "2022-09-29": 41793,
-  "2022-09-30": 41809,
-  "2022-10-01": 41820,
-  "2022-10-02": 41835,
-  "2022-10-03": 41846,
-  "2022-10-04": 41845,
-  "2022-10-05": 41870,
-  "2022-10-06": 41882,
-  "2022-10-07": 41899,
-  "2022-10-08": 41907,
-  "2022-10-09": 41938,
-  "2022-10-10": 41940,
-  "2022-10-11": 41955,
-  "2022-10-12": 41972,
-  "2022-10-13": 41980,
-  "2022-10-14": 41999,
-  "2022-10-15": 42010,
-  "2022-10-16": 42029,
-  "2022-10-17": 42042,
-  "2022-10-18": 42072,
-  "2022-10-19": 42082,
-  "2022-10-20": 42093,
-  "2022-10-21": 42106,
-  "2022-10-22": 42117,
-  "2022-10-23": 42128,
-  "2022-10-24": 42141,
-  "2022-10-25": 42154,
-  "2022-10-26": 42163,
-  "2022-10-27": 42171,
-  "2022-10-28": 42191,
-  "2022-10-29": 42199,
-  "2022-10-30": 42212,
-  "2022-10-31": 42227,
-  "2022-11-01": 42235,
-  "2022-11-02": 42245,
-  "2022-11-03": 42254,
-  "2022-11-04": 42263,
-  "2022-11-05": 42291,
-  "2022-11-06": 42301,
-  "2022-11-07": 42308,
-  "2022-11-08": 42326,
-  "2022-11-09": 42345,
-  "2022-11-10": 42358,
-  "2022-11-11": 42373,
-  "2022-11-12": 42394,
-  "2022-11-13": 42408,
-  "2022-11-14": 42410,
-  "2022-11-15": 42432,
-  "2022-11-16": 42449,
-  "2022-11-17": 42472,
-  "2022-11-18": 42475,
-  "2022-11-19": 42467,
-  "2022-11-20": 42469,
-  "2022-11-21": 42473,
-  "2022-11-22": 42501,
-  "2022-11-23": 42495,
-  "2022-11-24": 42527,
-  "2022-11-25": 42561,
-  "2022-11-26": 42605,
-  "2022-11-27": 42629,
-  "2022-11-28": 42651,
-  "2022-11-29": 42675,
-  "2022-11-30": 42705,
-  "2022-12-01": 42729,
-  "2022-12-02": 42752,
-  "2022-12-03": 42798,
-  "2022-12-04": 42858,
-  "2022-12-05": 42896,
-  "2022-12-06": 42953,
-  "2022-12-07": 43008,
-  "2022-12-08": 43080,
-  "2022-12-09": 43124,
-  "2022-12-10": 43165,
-  "2022-12-11": 43198,
-  "2022-12-12": 43242,
-  "2022-12-13": 43273,
-  "2022-12-14": 43288,
-  "2022-12-15": 43309,
-  "2022-12-16": 43342,
-  "2022-12-17": 43376,
-  "2022-12-18": 43386,
-  "2022-12-19": 43405,
-  "2022-12-20": 43438,
-  "2022-12-21": 43438,
-  "2022-12-22": 43470,
-  "2022-12-24": 43501,
-  "2022-12-25": 43510,
-  "2022-12-26": 43523,
-  "2022-12-27": 43525,
-  "2022-12-28": 43539,
-  "2022-12-29": 43560,
-  "2022-12-30": 43575,
-  "2022-12-31": 43591,
-  "2023-01-01": 43607,
-  "2023-01-02": 43622,
-  "2023-01-03": 43636,
-  "2023-01-04": 43661,
-  "2023-01-05": 43678,
-  "2023-01-06": 43705,
-  "2023-01-07": 43730,
-  "2023-01-08": 43731,
-  "2023-01-09": 43747,
-  "2023-01-10": 43759,
-  "2023-01-11": 43768,
-  "2023-01-12": 43787,
-  "2023-01-13": 43805,
-  "2023-01-14": 43854,
-  "2023-01-15": 43851,
-  "2023-01-16": 43867,
-  "2023-01-17": 43885,
-  "2023-01-18": 43905,
-  "2023-01-19": 43919,
-  "2023-01-20": 43949,
-  "2023-01-21": 43971,
-  "2023-01-22": 43990,
-  "2023-01-23": 44014,
-  "2023-01-24": 44027,
-  "2023-01-25": 44035,
-  "2023-01-26": 44056,
-  "2023-01-27": 44094,
-  "2023-01-28": 44129,
-  "2023-01-29": 44154,
-  "2023-01-30": 44180,
-  "2023-01-31": 44180,
-  "2023-02-01": 44215,
-  "2023-02-02": 44262,
-  "2023-02-03": 44297,
-  "2023-02-04": 44329,
-  "2023-02-05": 44374,
-  "2023-02-06": 44415,
-  "2023-02-07": 44446,
-  "2023-02-08": 44529,
-  "2023-02-09": 44529,
-  "2023-02-10": 44553,
-  "2023-02-11": 44568,
-  "2023-02-12": 44613,
-  "2023-02-13": 44644,
-  "2023-02-14": 44644,
-  "2023-02-15": 44660,
-  "2023-02-16": 44692,
-  "2023-02-17": 44732,
-  "2023-02-18": 44787,
-  "2023-02-19": 44790,
-  "2023-02-20": 44806,
-  "2023-02-21": 44828,
-  "2023-02-22": 44851,
-  "2023-02-23": 44872,
-  "2023-02-24": 45000,
-  "2023-02-25": 45150,
-  "2023-02-26": 45197,
-  "2023-02-27": 45300,
-  "2023-02-28": 45300,
-  "2023-03-01": 45325,
-  "2023-03-02": 45361,
-  "2023-03-03": 45412,
-  "2023-03-04": 45434,
-  "2023-03-05": 45502,
-  "2023-03-06": 45502,
-  "2023-03-07": 45545,
-  "2023-03-08": 45574,
-  "2023-03-09": 45595,
-  "2023-03-10": 45631,
-  "2023-03-11": 45652,
-  "2023-03-12": 45666,
-  "2023-03-13": 45690,
-  "2023-03-14": 45716,
-  "2023-03-15": 45753,
-  "2023-03-16": 45781,
-  "2023-03-17": 45781,
-  "2023-03-18": 45822,
-  "2023-03-19": 45868,
-  "2023-03-20": 45907,
-  "2023-03-21": 45931,
-  "2023-03-22": 45958,
-  "2023-03-23": 45980,
-  "2023-03-24": 45980,
-  "2023-03-25": 46020,
-  "2023-03-26": 46048,
-  "2023-03-27": 46081,
-  "2023-03-28": 46102,
-  "2023-03-29": 46120,
-  "2023-03-30": 46146,
-  "2023-03-31": 46146,
-  "2023-04-01": 46168,
-  "2023-04-02": 46188,
-  "2023-04-03": 46193,
-  "2023-04-04": 46204,
-  "2023-04-05": 46233,
-  "2023-04-06": 46256,
-  "2023-04-07": 46284,
-  "2023-04-09": 46320,
-  "2023-04-10": 46334,
-  "2023-04-11": 46366,
-  "2023-04-12": 46366,
-  "2023-04-13": 46384,
-  "2023-04-14": 46407,
-  "2023-04-15": 46423,
-  "2023-04-16": 46435,
-  "2023-04-17": 46456,
-  "2023-04-18": 46468,
-  "2023-04-19": 46482,
-  "2023-04-20": 46506,
-  "2023-04-21": 46525,
-  "2023-04-22": 46546,
-  "2023-04-23": 46568,
-  "2023-04-24": 46578,
-  "2023-04-25": 46663,
-  "2023-04-26": 46737,
-  "2023-04-27": 46761,
-  "2023-04-28": 46803,
-  "2023-04-29": 46840,
-  "2023-04-30": 46861,
-  "2023-05-01": 46865,
-  "2023-05-02": 46893,
-  "2023-05-03": 46910,
-  "2023-05-04": 46924,
-  "2023-05-05": 46950,
-  "2023-05-06": 46972,
-  "2023-05-07": 47000,
-  "2023-05-08": 47020,
-  "2023-05-09": 47029,
-  "2023-05-10": 47049,
-  "2023-05-11": 47073,
-  "2023-05-12": 47092,
-  "2023-05-13": 47117,
-  "2023-05-14": 47121,
-  "2023-05-15": 47141,
-  "2023-05-16": 47152,
-  "2023-05-17": 47164,
-  "2023-05-18": 47178,
-  "2023-05-19": 47190,
-  "2023-05-20": 47216,
-  "2023-05-21": 47216,
-  "2023-05-22": 47216,
-  "2023-05-23": 47228,
-  "2023-05-24": 47255,
-  "2023-05-25": 47258,
-  "2023-05-26": 47277,
-  "2023-05-27": 47288,
-  "2023-05-28": 47305,
-  "2023-05-29": 47305,
-  "2023-05-30": 47321,
-  "2023-05-31": 47338,
-  "2023-06-01": 47360,
-  "2023-06-02": 47371,
-  "2023-06-03": 47392,
-  "2023-06-04": 47401,
-  "2023-06-05": 47407,
-  "2023-06-06": 47413,
-  "2023-06-07": 47423,
-  "2023-06-08": 47431,
-  "2023-06-09": 47439,
-  "2023-06-10": 47453,
-  "2023-06-11": 47465,
-  "2023-06-12": 47477,
-  "2023-06-13": 47486,
-  "2023-06-14": 47492,
-  "2023-06-15": 47499,
-  "2023-06-16": 47512,
-  "2023-06-17": 47521,
-  "2023-06-18": 47533,
-  "2023-06-19": 47544,
-  "2023-06-20": 47553,
-  "2023-06-21": 47574,
-  "2023-06-22": 47589,
-  "2023-06-23": 47601,
-  "2023-06-24": 47613,
-  "2023-06-25": 47626,
-  "2023-06-26": 47625,
-  "2023-06-27": 47632,
-  "2023-06-28": 47655,
-  "2023-06-29": 47671,
-  "2023-06-30": 47686,
-  "2023-07-01": 47719,
-  "2023-07-02": 47719,
-  "2023-07-03": 47731,
-  "2023-07-04": 47743,
-  "2023-07-05": 47763,
-  "2023-07-06": 47788,
-  "2023-07-07": 47788,
-  "2023-07-08": 47812,
-  "2023-07-09": 47817,
-  "2023-07-10": 47840,
-  "2023-07-11": 47849,
-  "2023-07-12": 47864,
-  "2023-07-13": 47882,
-  "2023-07-14": 47896,
-  "2023-07-15": 47902,
-  "2023-07-16": 47929,
-  "2023-07-17": 47946,
-  "2023-07-18": 47956,
-  "2023-07-19": 47971,
-  "2023-07-20": 47983,
-  "2023-07-21": 47992,
-  "2023-07-22": 48002,
-  "2023-07-23": 48014,
-  "2023-07-24": 48022,
-  "2023-07-25": 48036,
-  "2023-07-26": 48059,
-  "2023-07-27": 48086,
-  "2023-07-28": 48101,
-  "2023-07-29": 48117,
-  "2023-07-30": 48131,
-  "2023-07-31": 48139,
-  "2023-08-01": 48148,
-  "2023-08-02": 48179,
-  "2023-08-03": 48199,
-  "2023-08-04": 48232,
-  "2023-08-05": 48247,
-  "2023-08-06": 48284,
-  "2023-08-07": 48284,
-  "2023-08-08": 48309,
-  "2023-08-09": 48338,
-  "2023-08-10": 48355,
-  "2023-08-11": 48379,
-  "2023-08-12": 48387,
-  "2023-08-13": 48402,
-  "2023-08-14": 48629,
-  "2023-08-15": 48745,
-  "2023-08-16": 48745,
-  "2023-08-17": 48767,
-  "2023-08-18": 48777,
-  "2023-08-19": 48795,
-  "2023-08-20": 48806,
-  "2023-08-21": 48826,
-  "2023-08-22": 48830,
-  "2023-08-23": 48842,
-  "2023-08-24": 48853,
-  "2023-08-25": 48870,
-  "2023-08-26": 48881,
-  "2023-08-27": 48894,
-  "2023-08-28": 48911,
-  "2023-08-29": 48915,
-  "2023-08-30": 48938,
-  "2023-08-31": 48939,
-  "2023-09-01": 48959,
-  "2023-09-02": 48959,
-  "2023-09-03": 48961,
-  "2023-09-04": 48965,
-  "2023-09-05": 48970,
-  "2023-09-06": 48974,
-  "2023-09-07": 48972,
-  "2023-09-08": 48985,
-  "2023-09-09": 48995,
-  "2023-09-10": 48998,
-  "2023-09-11": 48998,
-  "2023-09-12": 49004,
-  "2023-09-13": 49011,
-  "2023-09-14": 49008,
-  "2023-09-15": 49010,
-  "2023-09-16": 49013,
-  "2023-09-17": 49015,
-  "2023-09-18": 49024,
-  "2023-09-19": 49024,
-  "2023-09-20": 49037,
-  "2023-09-21": 49048,
-  "2023-09-22": 49060,
-  "2023-09-23": 49069,
-  "2023-09-24": 49079,
-  "2023-09-25": 49094,
-  "2023-09-26": 49104,
-  "2023-09-27": 49109,
-  "2023-09-28": 49117,
-  "2023-09-29": 49124,
-  "2023-09-30": 49131,
-  "2023-10-01": 49138,
-  "2023-10-02": 49144,
-  "2023-10-03": 49159,
-  "2023-10-04": 49176,
-  "2023-10-05": 49206,
-  "2023-10-06": 49226,
-  "2023-10-07": 49237,
-  "2023-10-08": 49249,
-  "2023-10-09": 49255,
-  "2023-10-10": 49251,
-  "2023-10-11": 49258,
-  "2023-10-12": 49258,
-  "2023-10-13": 49252,
-  "2023-10-14": 49250,
-  "2023-10-15": 49254,
-  "2023-10-16": 49262,
-  "2023-10-17": 49267,
-  "2023-10-18": 49270,
-  "2023-10-19": 49287,
-  "2023-10-20": 49298,
-  "2023-10-21": 49318,
-  "2023-10-22": 49330,
-  "2023-10-23": 49345,
-  "2023-10-24": 49352,
-  "2023-10-25": 49356,
-  "2023-10-26": 49365,
-  "2023-10-27": 49378,
-  "2023-10-28": 49380,
-  "2023-10-29": 49388,
-  "2023-10-30": 49448,
-  "2023-10-31": 49448,
-  "2023-11-01": 49478,
-  "2023-11-02": 49542,
-  "2023-11-03": 49602,
-  "2023-11-04": 49636,
-  "2023-11-05": 49654,
-  "2023-11-06": 49692,
-  "2023-11-07": 49735,
-  "2023-11-08": 49765,
-  "2023-11-09": 49795,
-  "2023-11-10": 49824,
-  "2023-11-11": 49846,
-  "2023-11-12": 49874,
-  "2023-11-13": 49891,
-  "2023-11-14": 49916,
-  "2023-11-15": 49916,
-  "2023-11-16": 49965,
-  "2023-11-17": 50003,
-  "2023-11-18": 50003,
-  "2023-11-19": 50023,
-  "2023-11-20": 50057,
-  "2023-11-21": 50085,
-  "2023-11-22": 50104,
-  "2023-11-23": 50123,
-  "2023-11-24": 50148,
-  "2023-11-25": 50165,
-  "2023-11-26": 50175,
-  "2023-11-27": 50192,
-  "2023-11-28": 50209,
-  "2023-11-29": 50242,
-  "2023-11-30": 50242,
-  "2023-12-01": 50277,
-  "2023-12-02": 50290,
-  "2023-12-03": 50306,
-  "2023-12-04": 50331,
-  "2023-12-05": 50343,
-  "2023-12-06": 50365,
-  "2023-12-07": 50381,
-  "2023-12-08": 50395,
-  "2023-12-09": 50414,
-  "2023-12-10": 50430,
-  "2023-12-11": 50446,
-  "2023-12-12": 50457,
-  "2023-12-13": 50475,
-  "2023-12-14": 50487,
-  "2023-12-15": 50504,
-  "2023-12-16": 50522,
-  "2023-12-17": 50539,
-  "2023-12-18": 50556,
-  "2023-12-19": 50578,
-  "2023-12-20": 50590,
-  "2023-12-21": 50614,
-  "2023-12-22": 50616,
-  "2023-12-23": 50630,
-  "2023-12-24": 50642,
-  "2023-12-25": 50655,
-  "2023-12-26": 50661,
-  "2023-12-27": 50668,
-  "2023-12-30": 50709,
-  "2023-12-31": 50729,
-  "2024-01-01": 50732,
-  "2024-01-02": 50734,
-  "2024-01-03": 50741
+  "2024-01-17": 50813,
+  "date_first_scraped": "2022-05-30",
+  "description": "You know. Epik High Is Here.",
+  "name": "This Is Epik High",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lovescream",
+        "url": "https://open.spotify.com/album/6rIZFsL2RzXX1PDXhAth1z"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Taru",
+          "url": "https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268133,
+      "name": "1\ubd84 1\ucd08 (feat. \ud0c0\ub8e8)",
+      "url": "https://open.spotify.com/track/5ZvOiFNa14akPXHddJgYFW"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Acceptance Speech (Feat. B.I)",
+      "url": "https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "DJ \ud22c\ucef7",
+          "url": "https://open.spotify.com/artist/674t3dg3NdCxT2wiATKehH"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "Mithra Jin",
+          "url": "https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293117,
+      "name": "Amor Fati",
+      "url": "https://open.spotify.com/track/5ohyT60P2aaBfrCSPg6gal"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Jong Wan",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 293117,
+      "name": "Amor Fati",
+      "url": "https://open.spotify.com/track/6zmayRg1p6jqkSNqEG2Tiu"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234760,
+      "name": "Based On A True Story (Feat. HEIZE)",
+      "url": "https://open.spotify.com/track/0ORoBq47N6JHgFXq52UAtM"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220551,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/3aFoxoOIdw6WNWH8ZdfXTh"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220551,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/5TVCpIsRzpidZzyD2Xor4q"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 327126,
+      "name": "Born Hater",
+      "url": "https://open.spotify.com/track/5U7tpgpGPatDwrpUn5MuZg"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327126,
+      "name": "Born Hater",
+      "url": "https://open.spotify.com/track/1Q4GCEgmuwVcR3FB1TpJFR"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208746,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM"
+    },
+    {
+      "album": {
+        "name": "Remixing the Human Soul (Remixed By Planet Shiver)",
+        "url": "https://open.spotify.com/album/5q6C7ikzZ2lMGtD6GcsH9q"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Planet Shiver",
+          "url": "https://open.spotify.com/artist/6rmCrN1VrAn0aqnbAxBntz"
+        },
+        {
+          "name": "\ub9ac\uc0ac",
+          "url": "https://open.spotify.com/artist/3QQIyWqGS35qZRxRMIQqyH"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321146,
+      "name": "Broken Umbrella (Feat. Lisa)",
+      "url": "https://open.spotify.com/track/6T7ljHNFWEBHzzYJwfJqdD"
+    },
+    {
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 6",
+        "url": "https://open.spotify.com/album/1BeWYcLEYlD2rOaa0EWdSr"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248143,
+      "name": "Can You Hear My Heart (feat. LEE HI)",
+      "url": "https://open.spotify.com/track/7n5eQJYX7e6H5gkzgyEfQG"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/1e2r6700uHv9zThv6bAIDE"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223591,
+      "name": "Don't Hate Me",
+      "url": "https://open.spotify.com/track/3MWKd1ae7ZM6IiDODVGC8r"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223591,
+      "name": "Don't Hate Me",
+      "url": "https://open.spotify.com/track/6TIDaGS7X7bsZyg4VzR9gv"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214642,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1GjkQuVBJUDOblY2dpTHKl"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214640,
+      "name": "End of the World (Feat. GSoul)",
+      "url": "https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213407,
+      "name": "Eyes Nose Lips",
+      "url": "https://open.spotify.com/track/2UMmoa8MP15tHnTFpO6A1E"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213407,
+      "name": "Eyes Nose Lips",
+      "url": "https://open.spotify.com/track/6xQuo2abg2I5Hcbf0HhD2n"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217146,
+      "name": "Face ID (Feat. GIRIBOY, Sik-K, JUSTHIS)",
+      "url": "https://open.spotify.com/track/6ue5eOPduRSZDqVw2QBvhe"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286226,
+      "name": "Family Portrait (Feat. Kim Feel)",
+      "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
+    },
+    {
+      "album": {
+        "name": "Remapping the Human Soul",
+        "url": "https://open.spotify.com/album/0dcpWdZ9nKIbxgZma4NhMa"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Fan",
+      "url": "https://open.spotify.com/track/4X0IXobYpLPiAN2ilOtMnM"
+    },
+    {
+      "album": {
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Amin. J",
+          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201226,
+      "name": "Fly (feat. Amin. J)",
+      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41613,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/3h9IR7NydHISEr2b2kq4FB"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267715,
+      "name": "HERE COME THE REGRETS",
+      "url": "https://open.spotify.com/track/2rbSrdUEvZvD18pSyqPZVZ"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267715,
+      "name": "HERE COME THE REGRETS",
+      "url": "https://open.spotify.com/track/2uQ2sakAeeGhevyZQwprxN"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291002,
+      "name": "HOME IS FAR AWAY",
+      "url": "https://open.spotify.com/track/7A2RLTIRAbncB7EwCV2JRq"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291002,
+      "name": "HOME IS FAR AWAY",
+      "url": "https://open.spotify.com/track/7zyEA6ntsqPH7sLc1YYK26"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "I Hated Myself (Tablo's Word)",
+      "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "In Self-defense (Feat. Woo, Nucksal, CHANGMO)",
+      "url": "https://open.spotify.com/track/5enmcVpqXFuq9rPZU1fzg3"
+    },
+    {
+      "album": {
+        "name": "sleepless in __________",
+        "url": "https://open.spotify.com/album/0ku3S11VuwERVu81G7m0jv"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222502,
+      "name": "In Seoul",
+      "url": "https://open.spotify.com/track/4PA4shomDPO4XTHUYbNmjB"
+    },
+    {
+      "album": {
+        "name": "sleepless in __________",
+        "url": "https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222502,
+      "name": "In Seoul (Feat. Sunwoojunga)",
+      "url": "https://open.spotify.com/track/4XiIVGujb1imYN7pylf90s"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233571,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/3Cu2cZW292bhfGEl7j6plB"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/1e2r6700uHv9zThv6bAIDE"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233571,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/7gQ6RrBLhvQA49GcZTABOg"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158100,
+      "name": "Leica",
+      "url": "https://open.spotify.com/track/5HGb06uR7zYFCADrkZ6ech"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "Leica (Feat. KIM SAWOL)",
+      "url": "https://open.spotify.com/track/2gatbbWP4sb3ASVCQH2nPN"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143426,
+      "name": "Lesson Zero",
+      "url": "https://open.spotify.com/track/5fKrNIdO9Am1EDiH05VfIN"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143429,
+      "name": "Lesson Zero",
+      "url": "https://open.spotify.com/track/61oCUBkGRfVEeJWXfdKUZ9"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199907,
+      "name": "Life Is Good",
+      "url": "https://open.spotify.com/track/2Ak8zSx1q7sm0rKaLrQQOv"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199907,
+      "name": "Life Is Good",
+      "url": "https://open.spotify.com/track/6UDSxBNbxg7DSRbx9fGvFK"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Jong Wan",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 302747,
+      "name": "LOST ONE",
+      "url": "https://open.spotify.com/track/4iI2SFBIuzZj0JyUNII5Rr"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302747,
+      "name": "LOST ONE",
+      "url": "https://open.spotify.com/track/6cZwhT1ev2tUpPuRZJH8Q7"
+    },
+    {
+      "album": {
+        "name": "Remapping the Human Soul",
+        "url": "https://open.spotify.com/album/0dcpWdZ9nKIbxgZma4NhMa"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Love Love Love",
+      "url": "https://open.spotify.com/track/7hlEhmg5h9XuFtaGfgvqjF"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236268,
+      "name": "LOVE STORY",
+      "url": "https://open.spotify.com/track/1hV2SwB1pcFXZgYG9Sq2J7"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236268,
+      "name": "LOVE STORY",
+      "url": "https://open.spotify.com/track/4q9zQ8wm3J2O8fzrV18XwP"
+    },
+    {
+      "album": {
+        "name": "\u9b42 Map the Soul",
+        "url": "https://open.spotify.com/album/3MhH8mOKp9gP4iO3EYg31a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "Myk",
+          "url": "https://open.spotify.com/artist/0POlGzHsz34BmE7T8klqQI"
+        },
+        {
+          "name": "Kero One",
+          "url": "https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273146,
+      "name": "Map The Soul (Worldwide Ver.) (Feat. Tablo, MYK, Kero One)",
+      "url": "https://open.spotify.com/track/13KD4LVOaWU0uxe7UTk67C"
+    },
+    {
+      "album": {
+        "name": "\u9b42 Map the Soul",
+        "url": "https://open.spotify.com/album/1e8oyAuXoF4DTtycaUGd7Z"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kero One",
+          "url": "https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1"
+        },
+        {
+          "name": "Myk",
+          "url": "https://open.spotify.com/artist/0POlGzHsz34BmE7T8klqQI"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273146,
+      "name": "Map the Soul (Worldwide Version) [feat. Tablo, MYK & Kero One]",
+      "url": "https://open.spotify.com/track/5D1vzchjH805WYLLVpeUjr"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283433,
+      "name": "MUNBAE-DONG",
+      "url": "https://open.spotify.com/track/42BYvDyryr6jTjU6JB3Lio"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 283433,
+      "name": "MUNBAE-DONG",
+      "url": "https://open.spotify.com/track/6rQziSE3oyCV5I8xCOhtBt"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/1e2r6700uHv9zThv6bAIDE"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209788,
+      "name": "New Beautiful",
+      "url": "https://open.spotify.com/track/0BMgQhopdeJ56YUhTJg996"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209788,
+      "name": "New Beautiful",
+      "url": "https://open.spotify.com/track/0EzaUUqBHH4T4QuuQJ1TuJ"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 277060,
+      "name": "NO THANXXX",
+      "url": "https://open.spotify.com/track/2YwPo7S3aSkafouarC7Gyn"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277060,
+      "name": "NO THANXXX",
+      "url": "https://open.spotify.com/track/4DzJl3Pi6H7oOyinUwWDfr"
+    },
+    {
+      "album": {
+        "name": "Pieces, Part One",
+        "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "\uc9c0\uc120",
+          "url": "https://open.spotify.com/artist/2Mo9NQaNCFCWSR5CnlfmbN"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230320,
+      "name": "One (feat. \uc9c0\uc120)",
+      "url": "https://open.spotify.com/track/2tSPS5dRintqVulKAKni2T"
+    },
+    {
+      "album": {
+        "name": "Epilogue",
+        "url": "https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224560,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/3pEnw8lI3cmoItuKfVysWX"
+    },
+    {
+      "album": {
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Jisun",
+          "url": "https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219173,
+      "name": "Paris (feat. Jisun)",
+      "url": "https://open.spotify.com/track/1CjVSDqhTehDvMeKjSIWGm"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188998,
+      "name": "PEOPLE SCARE ME",
+      "url": "https://open.spotify.com/track/5pOJ8wtA4ERUsYE3nA30JK"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188998,
+      "name": "PEOPLE SCARE ME",
+      "url": "https://open.spotify.com/track/7qLvwgaoM9L3FflkaJT0Dt"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60706,
+      "name": "Piano For Sale",
+      "url": "https://open.spotify.com/track/4l967KhnqHm5xSzS1mR4ng"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "Prequel",
+      "url": "https://open.spotify.com/track/2DWlYJ9KOYJEifleOpIavG"
+    },
+    {
+      "album": {
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243785,
+      "name": "Rain Song (Feat. Colde)",
+      "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245413,
+      "name": "Rain Song (Feat. Colde)",
+      "url": "https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257199,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/16jg76zHuYHMPghRdMfHeL"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257199,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/63c9xNPqkXqeK7eLQcuyzg"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "Rich Kids Anthem (Feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230066,
+      "name": "Rosario",
+      "url": "https://open.spotify.com/track/12QfVb1TGSSaSL7922KGyf"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230066,
+      "name": "Rosario (Feat. CL, ZICO)",
+      "url": "https://open.spotify.com/track/0OWBz5FCeATA2zhHgAk7Uh"
+    },
+    {
+      "album": {
+        "name": "Epilogue",
+        "url": "https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3kUJ9u148oaHwdKFT45qb3"
+    },
+    {
+      "album": {
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/5E5xpayOlNMK28OxS7deDq"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233775,
+      "name": "Screen Time (Feat. Hoshi of SEVENTEEN)",
+      "url": "https://open.spotify.com/track/4yorFTfi9Tay8tG0NNK7vB"
+    },
+    {
+      "album": {
+        "name": "Sleeping Beauty",
+        "url": "https://open.spotify.com/album/66xEyYMRttGk8Vsq8zmpQ4"
+      },
+      "artists": [
+        {
+          "name": "End of the World",
+          "url": "https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV"
+        },
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252214,
+      "name": "Sleeping Beauty",
+      "url": "https://open.spotify.com/track/2V4jY09PHhJpM5hpbHcSKs"
+    },
+    {
+      "album": {
+        "name": "Sleeping Beauty (End of the World x EPIK HIGH)",
+        "url": "https://open.spotify.com/album/37bIc0ETYUhgwOeFj02CEg"
+      },
+      "artists": [
+        {
+          "name": "End of the World",
+          "url": "https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV"
+        },
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252214,
+      "name": "Sleeping Beauty (End of the World x EPIK HIGH)",
+      "url": "https://open.spotify.com/track/3DaEdOs0IIj9vCZxO9ZfVT"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64573,
+      "name": "Social Distance 16",
+      "url": "https://open.spotify.com/track/7GiFLEeZrEV1d83YowQQn0"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 64574,
+      "name": "Social Distance 16",
+      "url": "https://open.spotify.com/track/5Qk9oyQzdN8M5CzTzW97Lm"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220960,
+      "name": "Super Rare (Feat. Wonstein, pH-1)",
+      "url": "https://open.spotify.com/track/6YuJzx4yiTMhia4aM1M9kU"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105860,
+      "name": "TAPE 2002 7 28",
+      "url": "https://open.spotify.com/track/1SHS0lUM3IGOr9cPEBXr1D"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 105860,
+      "name": "TAPE 2002 7 28",
+      "url": "https://open.spotify.com/track/4XQzpXfGWVuSlxhatzjaKQ"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210020,
+      "name": "THE BENEFITS OF HEARTBREAK",
+      "url": "https://open.spotify.com/track/00JtB9hdWM8PO2gSBP9nd3"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210020,
+      "name": "THE BENEFITS OF HEARTBREAK",
+      "url": "https://open.spotify.com/track/4Rx4a0hAO5G5mTNekkEyf2"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218134,
+      "name": "True Crime",
+      "url": "https://open.spotify.com/track/55P9EAHXSp006VmxIImwTm"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "True Crime (Feat. Miso)",
+      "url": "https://open.spotify.com/track/1sxCFxt2A6kWOm7KpFVVej"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/1e2r6700uHv9zThv6bAIDE"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221123,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/0Fbw77NI9svzOAvbGiBXu5"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221123,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/4Sg70hPGA5zrbAhFYycOXN"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241631,
+      "name": "US AGAINST THE WORLD",
+      "url": "https://open.spotify.com/track/1APplB7nYRz4UbwkLGq7Dq"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241631,
+      "name": "US AGAINST THE WORLD",
+      "url": "https://open.spotify.com/track/6hdLMk2pfad3oP4YWSdawd"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 92778,
+      "name": "Wish You Were",
+      "url": "https://open.spotify.com/track/1oBaGGKbs9R9Y4mfi0JpqB"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92800,
+      "name": "Wish You Were",
+      "url": "https://open.spotify.com/track/6FU95Yj9uAou09lfnuWMbX"
+    },
+    {
+      "album": {
+        "name": "Epilogue",
+        "url": "https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Wordkill",
+      "url": "https://open.spotify.com/track/6MuZfRhS5xIUiKRBFYax8j"
+    },
+    {
+      "album": {
+        "name": "Remixing the Human Soul (Remixed By Planet Shiver)",
+        "url": "https://open.spotify.com/album/58VVHvydGyNwBNnBQq2mvA"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "\ub9ac\uc0ac Lisa",
+          "url": "https://open.spotify.com/artist/5320fgiEJtdnlVa1GxW6gg"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 321146,
+      "name": "\u1107\u1165\u1105\u1167\u110c\u1175\u11ab \u110b\u116e\u1109\u1161\u11ab Broken Umbrella (feat. \u1105\u1175\u1109\u1161 Lisa)",
+      "url": "https://open.spotify.com/track/0pUOaT3hfXUFWuNONhGzdm"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234761,
+      "name": "\ub0b4 \uc598\uae30 \uac19\uc544 (Based On A True Story)",
+      "url": "https://open.spotify.com/track/4n4B2bDZuelBa1xAyXFdrN"
+    },
+    {
+      "album": {
+        "name": "Pieces, Part One",
+        "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "\uc9c0\uc120",
+          "url": "https://open.spotify.com/artist/2Mo9NQaNCFCWSR5CnlfmbN"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397226,
+      "name": "\ub2f9\uc2e0\uc758 \uc870\uac01\ub4e4 (feat. \uc9c0\uc120)",
+      "url": "https://open.spotify.com/track/1DfZwCfbJkYoJCMZ07xPSs"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251367,
+      "name": "\ub610 \uc2f8\uc6cc We Fight Ourselves",
+      "url": "https://open.spotify.com/track/500qSoror61uubHCynJzkB"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251367,
+      "name": "\ub610 \uc2f8\uc6cc We Fight Ourselves",
+      "url": "https://open.spotify.com/track/7Dhm6ckiZCs4ASHmuTQWrN"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274350,
+      "name": "\ub9c9\uc744 \uc62c\ub9ac\uba70 Encore",
+      "url": "https://open.spotify.com/track/03DZZDvcEeK9E7iv24f8Gr"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 274350,
+      "name": "\ub9c9\uc744 \uc62c\ub9ac\uba70 Encore",
+      "url": "https://open.spotify.com/track/6dMUcbtIC30gWi05LUtNJJ"
+    },
+    {
+      "album": {
+        "name": "Epilogue",
+        "url": "https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242546,
+      "name": "\ubc14\ubcf4 (Feat. Bumkey)",
+      "url": "https://open.spotify.com/track/7q72vMxEJ1Yo8iARHrhppO"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Yankie",
+          "url": "https://open.spotify.com/artist/5VKDE1ShT61vB7dgyiNDoE"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265706,
+      "name": "\ubd80\ub974\uc988 \ud560\ub9ac\ud30c Burj Khalifa",
+      "url": "https://open.spotify.com/track/0rQNYBCP3CjYgQpGfrLa50"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "\uc580\ud0a4(YANKIE)",
+          "url": "https://open.spotify.com/artist/0r1EofdKBhtyZJmyeqX4OQ"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265706,
+      "name": "\ubd80\ub974\uc988 \ud560\ub9ac\ud30c Burj Khalifa",
+      "url": "https://open.spotify.com/track/6l18qEgJFDecgHIq594tDT"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/1e2r6700uHv9zThv6bAIDE"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219629,
+      "name": "\uc0ac\ub791\ud55c\ub2e4\uba74 \ud574\uc120 \uc548\ub420 \ub9d0 Wrong",
+      "url": "https://open.spotify.com/track/19okUWbzWG0Lw6cOYCKXUz"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219629,
+      "name": "\uc0ac\ub791\ud55c\ub2e4\uba74 \ud574\uc120 \uc548\ub420 \ub9d0 Wrong",
+      "url": "https://open.spotify.com/track/24alBNZB7pae16SJlgs9R9"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196713,
+      "name": "\uc218\uc0c1\uc18c\uac10 (Acceptance Speech)",
+      "url": "https://open.spotify.com/track/4pRjeAuTly3cNDVTJdOVT7"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 277983,
+      "name": "\uc2a4\ud3ec\uc77c\ub7ec Spoiler",
+      "url": "https://open.spotify.com/track/0Q3jiHxV8nefT8de4eO0Uq"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277983,
+      "name": "\uc2a4\ud3ec\uc77c\ub7ec Spoiler",
+      "url": "https://open.spotify.com/track/5fowhDJDPY0uWsNANnC6eU"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Myk",
+          "url": "https://open.spotify.com/artist/0POlGzHsz34BmE7T8klqQI"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265051,
+      "name": "\uc2e0\ubc1c\uc7a5 Shoebox",
+      "url": "https://open.spotify.com/track/3OgoXeTqvX3aa5db3lKzJu"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Myk",
+          "url": "https://open.spotify.com/artist/0POlGzHsz34BmE7T8klqQI"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265051,
+      "name": "\uc2e0\ubc1c\uc7a5 Shoebox",
+      "url": "https://open.spotify.com/track/5wYAfjPChvnZQJVRzbCWv4"
+    },
+    {
+      "album": {
+        "name": "Pieces, Part One",
+        "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301720,
+      "name": "\uc6b0\uc0b0 (feat. \uc724\ud558)",
+      "url": "https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217587,
+      "name": "\uc815\ub2f9\ubc29\uc704 (In Self-defense)",
+      "url": "https://open.spotify.com/track/6Ht1fE0yLOw8ODeaSYJphi"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Joe Won Sun",
+          "url": "https://open.spotify.com/artist/2rbcCyEKbnxdEukZHHGnby"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264349,
+      "name": "\ud5e4\ud508\uc5d4\ub529 Happen Ending",
+      "url": "https://open.spotify.com/track/1zaJP6bRuGYBnSaZ7ad22D"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Joe Won Sun",
+          "url": "https://open.spotify.com/artist/2rbcCyEKbnxdEukZHHGnby"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264349,
+      "name": "\ud5e4\ud508\uc5d4\ub529 Happen Ending",
+      "url": "https://open.spotify.com/track/6KrJn7TLGbkXwbU8GAS5Sk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY2WP80JpJnY"
 }

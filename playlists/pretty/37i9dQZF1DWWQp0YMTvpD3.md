@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,899 likes - 140 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,059 likes - 140 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 30 | [Slip N Slide](https://open.spotify.com/track/3TOtSGvIYxvtMihDlt7BXm) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Luxe](https://open.spotify.com/album/2uSZqQyCiSEUs4IIuPCMn8) | 3:07 |
 | 31 | [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 |
 | 32 | [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 |
-| 33 | [Snow In The Distance](https://open.spotify.com/track/3A4MQf1npDonTCo8L2D4HS) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 2:32 |
+| 33 | [Snow In The Distance](https://open.spotify.com/track/0bjkjsN2X2IeXFRClxSfvw) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate Deluxe](https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR) | 2:32 |
 | 34 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 |
 | 35 | [Bulletproof Lady](https://open.spotify.com/track/5CXumXWGyr7aKvc5NqKWxH) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Cruisin' on the 45](https://open.spotify.com/album/6Hb4wdGwr0BjUQkt6NzfUX) | 2:39 |
 | 36 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 |

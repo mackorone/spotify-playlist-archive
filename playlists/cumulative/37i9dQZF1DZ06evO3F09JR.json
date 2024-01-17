@@ -246,7 +246,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 189333,
       "name": "Black Hawks Down",
       "url": "https://open.spotify.com/track/5SighFSFYzN69U4L7JhDLT"
@@ -406,10 +406,28 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": "2024-01-15",
       "duration_ms": 173320,
       "name": "Darkened Skies",
       "url": "https://open.spotify.com/track/1MUsuNmzi1f8KvtvkB5AI6"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 270604,
+      "name": "ECCO",
+      "url": "https://open.spotify.com/track/2zplGQ1MtHa4dMtGtRGpmS"
     },
     {
       "album": {
@@ -796,7 +814,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 719507,
       "name": "Immediate Horizon 4",
       "url": "https://open.spotify.com/track/3sVoD2TNyGarLfFMKAHSVi"
@@ -924,7 +942,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": "2024-01-07",
       "duration_ms": 342645,
       "name": "LA STORIA",
       "url": "https://open.spotify.com/track/1zNwVaR5uKDJTtrWssSMwc"
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": "2024-01-14",
       "duration_ms": 210720,
       "name": "Megalomania",
       "url": "https://open.spotify.com/track/6UCmtZZKwMKnzKcPEtUKcy"
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 98186,
       "name": "Mourning the Fallen",
       "url": "https://open.spotify.com/track/5oblJwpXzETf1DGPAeXXOg"
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-06",
       "duration_ms": 203866,
       "name": "Panther",
       "url": "https://open.spotify.com/track/4EeoyH0Uh9VEkUn6dqVtCw"
@@ -1281,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297527,
+      "name": "Prima Emosfera",
+      "url": "https://open.spotify.com/track/6fgz4BRCyxBEnCrnOATDup"
+    },
+    {
+      "album": {
         "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
       },
@@ -1300,10 +1336,46 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": "2024-01-17",
       "duration_ms": 200133,
       "name": "Quantum Impact",
       "url": "https://open.spotify.com/track/66vgYZLhHlqOynKYNTcMQn"
+    },
+    {
+      "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384657,
+      "name": "Quarta Emosfera",
+      "url": "https://open.spotify.com/track/4jv2QHX1EK7iSYT395wGeU"
+    },
+    {
+      "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461298,
+      "name": "Quinta Emosfera",
+      "url": "https://open.spotify.com/track/7dNWIGQs3AjqUWd1TdVg6V"
     },
     {
       "album": {
@@ -1352,7 +1424,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 180920,
       "name": "Retaliation",
       "url": "https://open.spotify.com/track/5kScxhOPotAJiwbKWbM5NN"
@@ -1395,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338434,
+      "name": "Seconda Emosfera",
+      "url": "https://open.spotify.com/track/2swOxJgEdleBGXTQiAOKQW"
+    },
+    {
+      "album": {
         "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
       },
@@ -1414,7 +1504,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": "2024-01-17",
       "duration_ms": 218493,
       "name": "Secrets of Golem Island",
       "url": "https://open.spotify.com/track/44XbZoz0X4cKAScjpamfTb"
@@ -1480,6 +1570,24 @@
       "duration_ms": 185893,
       "name": "Sentinels on Patrol",
       "url": "https://open.spotify.com/track/1CORVHstYrHGOx7YLqZLFP"
+    },
+    {
+      "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463644,
+      "name": "Sesta Emosfera",
+      "url": "https://open.spotify.com/track/1buvtoupRp3gJfICXlHyZv"
     },
     {
       "album": {
@@ -1669,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414000,
+      "name": "Terza Emosfera",
+      "url": "https://open.spotify.com/track/45f3DBQNeenVkDNSvMfc9q"
+    },
+    {
+      "album": {
         "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
       },
@@ -1740,7 +1866,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 82240,
       "name": "The Goliath",
       "url": "https://open.spotify.com/track/3BPYSSsURFB3PHfn8VKx3I"

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "These Dreams EP",
+        "url": "https://open.spotify.com/album/54q0cB6VUWE84i66K4cPvg"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0vyWtA8CYYZP2DxpP2Hbgm"
+    },
+    {
+      "album": {
         "name": "A Girl Like You",
         "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 192600,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
@@ -917,6 +935,24 @@
     },
     {
       "album": {
+        "name": "The Five Ghosts",
+        "url": "https://open.spotify.com/album/0fli3Vlq3OCeHEDpxlptVl"
+      },
+      "artists": [
+        {
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "I Died So I Could Haunt You",
+      "url": "https://open.spotify.com/track/7lW55LWB5WNghEKUDdSW2x"
+    },
+    {
+      "album": {
         "name": "NEGATIVE",
         "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
@@ -1270,7 +1306,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": "2024-01-17",
       "duration_ms": 173300,
       "name": "Omen",
       "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
@@ -2026,7 +2062,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 239866,
       "name": "Witches! Witches! Rest Now in the Fire",
       "url": "https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB"

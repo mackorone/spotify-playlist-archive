@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Central Cee, Nicki Minaj and Drake!",
+  "description": "Today's Hip-Hop with 21 Savage, Preme and Kid Cudi!",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 144390,
       "name": "500lbs",
       "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 166464,
       "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
       "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
@@ -4138,7 +4138,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 126857,
       "name": "Deli",
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
@@ -4763,6 +4763,24 @@
     },
     {
       "album": {
+        "name": "Down With Me",
+        "url": "https://open.spotify.com/album/2EhFeUrerhWKDzfLx1jgba"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 120034,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/2iVfe5kY149mbTMX92Urb4"
+    },
+    {
+      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP"
       },
@@ -4836,6 +4854,28 @@
       "duration_ms": 130560,
       "name": "Dwayne Carter Flow",
       "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
+    },
+    {
+      "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297290,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI"
     },
     {
       "album": {
@@ -9959,6 +9999,32 @@
     },
     {
       "album": {
+        "name": "LiGhT rAiLs *\u0a48\u2729\u2027\u208a\u02da",
+        "url": "https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145301,
+      "name": "LiGhT rAiLs *\u0a48\u2729\u2027\u208a\u02da",
+      "url": "https://open.spotify.com/track/2CKjPJ59ihAjVro074hFmW"
+    },
+    {
+      "album": {
         "name": "Lights Off (feat. Gunna & Lil Durk)",
         "url": "https://open.spotify.com/album/7J47Z2E4FxitaVruzJKbGx"
       },
@@ -11485,6 +11551,28 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
+    },
+    {
+      "album": {
         "name": "NOW That's What I Call Music! Vol. 83",
         "url": "https://open.spotify.com/album/3qCvZmBYk84q2vj3jonmEu"
       },
@@ -11619,6 +11707,24 @@
     },
     {
       "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "album": {
         "name": "Never Lose Me (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w"
       },
@@ -11634,7 +11740,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 165245,
       "name": "Never Lose Me (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic"
@@ -12614,6 +12720,24 @@
       "duration_ms": 160000,
       "name": "One Up",
       "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "Only Real",
+      "url": "https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM"
     },
     {
       "album": {
@@ -14108,7 +14232,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 156486,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/2vuiULdd4MTthc9TDjUYb4"
@@ -16244,7 +16368,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 171500,
       "name": "Strictly",
       "url": "https://open.spotify.com/track/5ynWLIQkVwBsoBJrvYLUYH"
@@ -17140,7 +17264,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 248661,
       "name": "The Secret Recipe",
       "url": "https://open.spotify.com/track/5lcYNUreUk4OwC8AhfG8qu"
@@ -17250,6 +17374,24 @@
       "duration_ms": 119175,
       "name": "Thinking About Drilling",
       "url": "https://open.spotify.com/track/1QLgRHLG9sQXq4Plb600kj"
+    },
+    {
+      "album": {
+        "name": "How Do You Sleep At Night? With You",
+        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156920,
+      "name": "Third Coast",
+      "url": "https://open.spotify.com/track/5ta1fZrCY7b98YNJqNN3H8"
     },
     {
       "album": {
@@ -19272,6 +19414,28 @@
       "duration_ms": 184893,
       "name": "Worst Day",
       "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
+    },
+    {
+      "album": {
+        "name": "INSANO",
+        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274200,
+      "name": "WOW (with A$AP Rocky)",
+      "url": "https://open.spotify.com/track/2RWlRSi9TthgUka2yrLnrD"
     },
     {
       "album": {

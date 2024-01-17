@@ -1,178 +1,781 @@
 {
-  "2023-07-10": 2098,
-  "2023-07-11": 2117,
-  "2023-07-12": 2136,
-  "2023-07-13": 2143,
-  "2023-07-14": 2147,
-  "2023-07-15": 2160,
-  "2023-07-16": 2171,
-  "2023-07-17": 2181,
-  "2023-07-18": 2193,
-  "2023-07-19": 2204,
-  "2023-07-20": 2214,
-  "2023-07-21": 2225,
-  "2023-07-22": 2235,
-  "2023-07-23": 2245,
-  "2023-07-24": 2250,
-  "2023-07-25": 2262,
-  "2023-07-26": 2276,
-  "2023-07-27": 2284,
-  "2023-07-28": 2300,
-  "2023-07-29": 2313,
-  "2023-07-30": 2325,
-  "2023-07-31": 2334,
-  "2023-08-01": 2348,
-  "2023-08-02": 2361,
-  "2023-08-03": 2366,
-  "2023-08-04": 2377,
-  "2023-08-05": 2386,
-  "2023-08-06": 2396,
-  "2023-08-07": 2396,
-  "2023-08-08": 2404,
-  "2023-08-09": 2414,
-  "2023-08-10": 2425,
-  "2023-08-11": 2429,
-  "2023-08-12": 2429,
-  "2023-08-13": 2429,
-  "2023-08-14": 2455,
-  "2023-08-15": 2467,
-  "2023-08-16": 2467,
-  "2023-08-17": 2481,
-  "2023-08-18": 2481,
-  "2023-08-19": 2499,
-  "2023-08-20": 2500,
-  "2023-08-21": 2500,
-  "2023-08-22": 2518,
-  "2023-08-23": 2531,
-  "2023-08-24": 2541,
-  "2023-08-25": 2541,
-  "2023-08-26": 2552,
-  "2023-08-27": 2560,
-  "2023-08-28": 2572,
-  "2023-08-29": 2572,
-  "2023-08-30": 2572,
-  "2023-08-31": 2595,
-  "2023-09-01": 2619,
-  "2023-09-02": 2619,
-  "2023-09-03": 2630,
-  "2023-09-04": 2630,
-  "2023-09-05": 2630,
-  "2023-09-06": 2658,
-  "2023-09-07": 2658,
-  "2023-09-08": 2658,
-  "2023-09-09": 2658,
-  "2023-09-10": 2697,
-  "2023-09-11": 2705,
-  "2023-09-12": 2705,
-  "2023-09-13": 2721,
-  "2023-09-14": 2721,
-  "2023-09-15": 2721,
-  "2023-09-16": 2746,
-  "2023-09-17": 2746,
-  "2023-09-18": 2746,
-  "2023-09-19": 2770,
-  "2023-09-20": 2770,
-  "2023-09-21": 2770,
-  "2023-09-22": 2798,
-  "2023-09-23": 2798,
-  "2023-09-24": 2798,
-  "2023-09-25": 2798,
-  "2023-09-26": 2829,
-  "2023-09-27": 2829,
-  "2023-09-28": 2829,
-  "2023-09-29": 2829,
-  "2023-09-30": 2829,
-  "2023-10-01": 2829,
-  "2023-10-02": 2870,
-  "2023-10-03": 2870,
-  "2023-10-04": 2870,
-  "2023-10-05": 2882,
-  "2023-10-06": 2887,
-  "2023-10-07": 2887,
-  "2023-10-08": 2887,
-  "2023-10-09": 2887,
-  "2023-10-10": 2887,
-  "2023-10-11": 2935,
-  "2023-10-12": 2935,
-  "2023-10-13": 2935,
-  "2023-10-14": 2935,
-  "2023-10-15": 2935,
-  "2023-10-16": 2935,
-  "2023-10-17": 2935,
-  "2023-10-18": 2935,
-  "2023-10-19": 2935,
-  "2023-10-20": 2935,
-  "2023-10-21": 2935,
-  "2023-10-22": 2935,
-  "2023-10-23": 2935,
-  "2023-10-24": 2935,
-  "2023-10-25": 2935,
-  "2023-10-26": 2935,
-  "2023-10-27": 2935,
-  "2023-10-28": 2935,
-  "2023-10-29": 2935,
-  "2023-10-30": 2935,
-  "2023-10-31": 2935,
-  "2023-11-01": 2935,
-  "2023-11-02": 2935,
-  "2023-11-03": 2935,
-  "2023-11-04": 2935,
-  "2023-11-05": 2935,
-  "2023-11-06": 2935,
-  "2023-11-07": 2935,
-  "2023-11-08": 2935,
-  "2023-11-09": 2935,
-  "2023-11-10": 2935,
-  "2023-11-11": 3149,
-  "2023-11-12": 3149,
-  "2023-11-13": 3149,
-  "2023-11-14": 3149,
-  "2023-11-15": 3149,
-  "2023-11-16": 3149,
-  "2023-11-17": 3149,
-  "2023-11-18": 3149,
-  "2023-11-19": 3149,
-  "2023-11-20": 3149,
-  "2023-11-21": 3149,
-  "2023-11-22": 3149,
-  "2023-11-23": 3149,
-  "2023-11-24": 3149,
-  "2023-11-25": 3149,
-  "2023-11-26": 3149,
-  "2023-11-27": 3149,
-  "2023-11-28": 3149,
-  "2023-11-29": 3149,
-  "2023-11-30": 3149,
-  "2023-12-01": 3149,
-  "2023-12-02": 3149,
-  "2023-12-03": 3149,
-  "2023-12-04": 3149,
-  "2023-12-05": 3149,
-  "2023-12-06": 3149,
-  "2023-12-07": 3149,
-  "2023-12-08": 3149,
-  "2023-12-09": 3149,
-  "2023-12-10": 3149,
-  "2023-12-11": 3149,
-  "2023-12-12": 3149,
-  "2023-12-13": 3149,
-  "2023-12-14": 3334,
-  "2023-12-15": 3337,
-  "2023-12-16": 3343,
-  "2023-12-17": 3345,
-  "2023-12-18": 3347,
-  "2023-12-19": 3350,
-  "2023-12-20": 3354,
-  "2023-12-21": 3361,
-  "2023-12-22": 3366,
-  "2023-12-23": 3368,
-  "2023-12-24": 3371,
-  "2023-12-25": 3376,
-  "2023-12-26": 3381,
-  "2023-12-27": 3385,
-  "2023-12-30": 3402,
-  "2023-12-31": 3410,
-  "2024-01-01": 3412,
-  "2024-01-02": 3417,
-  "2024-01-03": 3422
+  "2024-01-17": 3474,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
+  "name": "This Is Kemilly Santos",
+  "tracks": [
+    {
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301280,
+      "name": "360 Graus",
+      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
+    },
+    {
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258880,
+      "name": "A Porta do meu Quarto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
+    },
+    {
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249266,
+      "name": "A Promessa",
+      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
+    },
+    {
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273913,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
+    },
+    {
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/2FlAWTMqyJcbdxujlebgS8"
+    },
+    {
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230386,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
+    },
+    {
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311450,
+      "name": "Barulho de Milagre",
+      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
+    },
+    {
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
+    },
+    {
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "Cuidando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG"
+    },
+    {
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
+    },
+    {
+      "album": {
+        "name": "Deus Vai Agir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
+    },
+    {
+      "album": {
+        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241874,
+      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
+    },
+    {
+      "album": {
+        "name": "Escritor",
+        "url": "https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289248,
+      "name": "Escritor",
+      "url": "https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN"
+    },
+    {
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+    },
+    {
+      "album": {
+        "name": "Far\u00e1s Outra Vez (Do It Again)",
+        "url": "https://open.spotify.com/album/6gMtKlYu6gHfJvCua3K40R"
+      },
+      "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246991,
+      "name": "Far\u00e1s Outra Vez (Do It Again)",
+      "url": "https://open.spotify.com/track/0zCce3GH8A2yEDnUa6mrQO"
+    },
+    {
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317013,
+      "name": "Fica Tranquilo",
+      "url": "https://open.spotify.com/track/7aJjISDMmcRYcAtA2oJTYe"
+    },
+    {
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280615,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP"
+    },
+    {
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293026,
+      "name": "Fogo e Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi"
+    },
+    {
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 305506,
+      "name": "Fogo e Gl\u00f3ria / O Que Sua Gl\u00f3ria Fez Comigo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3UpoN13s3AYmC8UJlbrfNm"
+    },
+    {
+      "album": {
+        "name": "Grito Aflito",
+        "url": "https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P"
+      },
+      "artists": [
+        {
+          "name": "Rayssa Peres",
+          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280117,
+      "name": "Grito Aflito",
+      "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
+    },
+    {
+      "album": {
+        "name": "Limite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+    },
+    {
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238933,
+      "name": "Mais Que Vencedor",
+      "url": "https://open.spotify.com/track/5QUYNKUZAVpkDUijbPnQLo"
+    },
+    {
+      "album": {
+        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393986,
+      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
+    },
+    {
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290040,
+      "name": "Nas M\u00e3os do Oleiro",
+      "url": "https://open.spotify.com/track/0QR1izgJcNCPhWvX5OAy4f"
+    },
+    {
+      "album": {
+        "name": "O Desfecho",
+        "url": "https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 308059,
+      "name": "O Desfecho",
+      "url": "https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo"
+    },
+    {
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308059,
+      "name": "O Desfecho",
+      "url": "https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4"
+    },
+    {
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7"
+    },
+    {
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 289565,
+      "name": "Plano Original",
+      "url": "https://open.spotify.com/track/1zNWH6AFga2dG0L6uiW7Nf"
+    },
+    {
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270533,
+      "name": "Por Tr\u00e1s Desse Sil\u00eancio",
+      "url": "https://open.spotify.com/track/2f6WHHvOdqAcLbz6CsJf2u"
+    },
+    {
+      "album": {
+        "name": "Presen\u00e7a",
+        "url": "https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356176,
+      "name": "Presen\u00e7a",
+      "url": "https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20"
+    },
+    {
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "Quem Nunca",
+      "url": "https://open.spotify.com/track/77mLeysADp9ToGlEPsfaqD"
+    },
+    {
+      "album": {
+        "name": "Quem \u00e9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "C\u00e9sar Menotti & Fabiano",
+          "url": "https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240829,
+      "name": "Quem \u00e9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt"
+    },
+    {
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358973,
+      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2"
+    },
+    {
+      "album": {
+        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 358973,
+      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
+    },
+    {
+      "album": {
+        "name": "Sonhador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233093,
+      "name": "Sonhador (Ao Vivo)",
+      "url": "https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2"
+    },
+    {
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303946,
+      "name": "Tem Horas",
+      "url": "https://open.spotify.com/track/6d8O3NDJCEQIubyMn6nuCP"
+    },
+    {
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294053,
+      "name": "Tudo que Deus Falou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd"
+    },
+    {
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237187,
+      "name": "Vai Acontecer",
+      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
+    },
+    {
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "Vai Valer a Pena",
+      "url": "https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz"
+    },
+    {
+      "album": {
+        "name": "Vazio",
+        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309636,
+      "name": "Vazio",
+      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mcByN"
 }

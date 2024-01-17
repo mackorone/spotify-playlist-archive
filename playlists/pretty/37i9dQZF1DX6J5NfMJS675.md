@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,375,187 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377,374 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Switch](https://open.spotify.com/track/6T4wDFCjnNpEgNknKh7MHc) | [Lisa May \(Aus\)](https://open.spotify.com/artist/7rx8RLqLByWexSLqkGhO4p) | [Switch](https://open.spotify.com/album/6oLiZBCsvY809kLiHLjavA) | 6:31 |
 | 60 | [Circular](https://open.spotify.com/track/5wki473M05c257DxpTwfYm) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Circular EP](https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a) | 6:10 |
 
-Snapshot ID: `MCw1Y2MyYmJiNDcyMDFhMzYxZGFmMjgyN2E0M2FhYjY0OTA3ZTAyNWIy`
+Snapshot ID: `MCw0ZDFmYjQyNDE0OWY4NjgyYzcxM2VkYWI2ZjYxYmI0MDE0OWFhZDU2`

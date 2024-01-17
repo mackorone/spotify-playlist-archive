@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-27",
-  "description": "Amp up your commute with rock hits, new and old. Cover: The Smashing Pumpkins",
+  "description": "Amp up your commute with rock hits, new and old. Cover: Green Day",
   "name": "Rock Drive",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 321093,
       "name": "21 Guns",
       "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219468,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
+    },
+    {
+      "album": {
         "name": "Atomic City",
         "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
       },
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Chronicles Of The Kid",
+        "url": "https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
+    },
+    {
+      "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
@@ -236,7 +272,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 258333,
       "name": "Broken",
       "url": "https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"
@@ -423,6 +459,24 @@
     },
     {
       "album": {
+        "name": "One Eyed Bastard",
+        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/4euMjdK7Z7g8zrQmVIUQfe"
+    },
+    {
+      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -578,7 +632,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Everything Turns Around",
       "url": "https://open.spotify.com/track/69xF3xSskwfReh9L14Lv0N"
@@ -1428,7 +1482,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 209333,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL"
@@ -1486,6 +1540,24 @@
       "duration_ms": 185586,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+    },
+    {
+      "album": {
+        "name": "In Times New Roman...",
+        "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202776,
+      "name": "Paper Machete",
+      "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
     },
     {
       "album": {
@@ -1608,7 +1680,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 374333,
       "name": "Rooster (2022 Remaster)",
       "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
@@ -1644,7 +1716,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 222066,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL"
@@ -1716,7 +1788,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 173493,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
@@ -1752,7 +1824,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 277840,
       "name": "Show Me How to Live",
       "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
@@ -2116,6 +2188,42 @@
       "duration_ms": 181146,
       "name": "Trip Switch",
       "url": "https://open.spotify.com/track/13QI6bq0U8HMK7gUpAwFBK"
+    },
+    {
+      "album": {
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474400,
+      "name": "War Pigs",
+      "url": "https://open.spotify.com/track/0HVQuuXGAcQ2P5mBN521ae"
     },
     {
       "album": {

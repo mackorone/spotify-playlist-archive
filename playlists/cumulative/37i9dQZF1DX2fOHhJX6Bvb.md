@@ -4,7 +4,7 @@
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-122 songs - 6 hr 24 min
+124 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Clocks](https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Clocks](https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC) | 2:44 | 2023-09-29 |  |
 | [Dance The Night](https://open.spotify.com/track/7GXvUIgrh8eGCdCbT9jt6O) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Dance The Night](https://open.spotify.com/album/5OaPOolZ6M9k8tWI9XO66K) | 2:50 | 2023-11-17 |  |
 | [Dancing on my own](https://open.spotify.com/track/122XrAD5sOasFPY1eKUfCt) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [Dancing on my own](https://open.spotify.com/album/0PiSxlbMEumz9h8WYM3zQJ) | 3:10 | 2023-11-17 |  |
+| [deja vu](https://open.spotify.com/track/778jLXEk9gyetQoHYOUHBs) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [deja vu](https://open.spotify.com/album/1Jhq2Pmfisb2OiXFujRHrI) | 3:45 | 2024-01-05 |  |
 | [Diamonds](https://open.spotify.com/track/27KOvI2gU9fAMddgSTpQw4) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 3:09 | 2023-09-29 |  |
 | [Die 4 Me](https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Die 4 Me](https://open.spotify.com/album/4zluT7uuTQrgz55gESxfZe) | 2:36 | 2023-09-29 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/4OECCOjePxmHXVGo54go9F) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Don't Dream It's Over](https://open.spotify.com/album/4Tn2th2kFSCl3dbHNFdE3y) | 3:08 | 2023-09-29 |  |
@@ -114,6 +115,7 @@
 | [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-09-29 |  |
 | [Tough Love](https://open.spotify.com/track/6fiJcteH6fErcmD13PmiPq) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Tough Love](https://open.spotify.com/album/6yMais1OVuoMMei5VUH6Bt) | 2:45 | 2023-09-29 |  |
 | [Under Pressure](https://open.spotify.com/track/5YCab8agd3ARAF7Y3Z4wbx) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Love Of My Life \(Tribute to Queen\)](https://open.spotify.com/album/5vUFHXS6MNa3HnJruSpda8) | 3:07 | 2023-09-29 |  |
+| [Vampire](https://open.spotify.com/track/1PJ6gIJxcF3v9TwhrMPBjT) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Vampire](https://open.spotify.com/album/2pfliYSgsm7DY68Pxifaz8) | 3:07 | 2024-01-05 |  |
 | [Versace on the Floor](https://open.spotify.com/track/1yGi29gqjufSYeNWY2wPca) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Versace on the Floor](https://open.spotify.com/album/63JIMLku6xRaZvkpUQTs4R) | 3:18 | 2023-09-29 |  |
 | [Viva La Vida](https://open.spotify.com/track/7kxKactI72Fl5nZpTpLpJh) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Viva La Vida](https://open.spotify.com/album/4ywHnvPY7ZAp3C3440TJIs) | 3:48 | 2023-09-29 |  |
 | [Water Fountain](https://open.spotify.com/track/6kyed7E6Y1O1qVtT5D5noi) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Water Fountain](https://open.spotify.com/album/0JBPp7cnzacwTDBNGh7O0P) | 2:46 | 2023-09-29 |  |
@@ -129,6 +131,6 @@
 | [You And I](https://open.spotify.com/track/7suanns4dc723GDVQ1V3MH) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [You And I](https://open.spotify.com/album/1Ayycq9VDkdqrhj4UbQP3D) | 2:52 | 2023-09-29 |  |
 | [You're Gonna Live Forever In Me](https://open.spotify.com/track/6dNzoKTuLLYJ6rrE3gAEam) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [You're Gonna Live Forever In Me](https://open.spotify.com/album/2o7o94d9DTw7e9ZdQeK4Pu) | 2:54 | 2023-09-29 |  |
 | [Your Power](https://open.spotify.com/track/3BYzUvWqRbMqgAFJ0RKOit) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Your Power](https://open.spotify.com/album/43jo9EfovSbhORuO73djg6) | 3:04 | 2023-09-29 |  |
-| [Your Song](https://open.spotify.com/track/7nisGzYA4XRF38mfLh2cPc) | [Sofia Moore](https://open.spotify.com/artist/5JHf3A6nMsGyxSubFrHFpt) | [Your Song](https://open.spotify.com/album/43k1W0BRcw83kPZiCW18SC) | 2:14 | 2023-09-29 |  |
+| [Your Song](https://open.spotify.com/track/7nisGzYA4XRF38mfLh2cPc) | [Sofia Moore](https://open.spotify.com/artist/5JHf3A6nMsGyxSubFrHFpt) | [Your Song](https://open.spotify.com/album/43k1W0BRcw83kPZiCW18SC) | 2:14 | 2023-09-29 | 2024-01-05 |
 
 \*This playlist was first scraped on 2023-10-03. Prior content cannot be recovered.

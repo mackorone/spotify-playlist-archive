@@ -928,6 +928,24 @@
     {
       "album": {
         "name": "Jubel",
+        "url": "https://open.spotify.com/album/1DDTylkpgKVXNBHHJjIU8S"
+      },
+      "artists": [
+        {
+          "name": "Votabias",
+          "url": "https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/6TskfnWx1j3SwB8r14bTty"
+    },
+    {
+      "album": {
+        "name": "Jubel",
         "url": "https://open.spotify.com/album/48TUoolHm1FeQYx5jLAaQo"
       },
       "artists": [
@@ -956,7 +974,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 148440,
       "name": "Jubel - Radio Edit",
       "url": "https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO"

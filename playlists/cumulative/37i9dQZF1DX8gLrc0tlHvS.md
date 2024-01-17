@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Drew Holcomb & The Neighbors
 
-143 songs - 9 hr 16 min
+145 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-10 | 2023-06-10 |
 | [First Time](https://open.spotify.com/track/2qEv3RLo2KTgjP844901gV) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:44 | 2021-02-12 | 2022-07-29 |
 | [First Time](https://open.spotify.com/track/6OFKVE2HZdK3n2tbTDMhn3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:44 | 2021-02-12 |  |
-| [Flora](https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Flora](https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD) | 4:08 | 2023-06-16 |  |
+| [Flora](https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Flora](https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD) | 4:08 | 2023-06-16 | 2024-01-14 |
+| [Flora](https://open.spotify.com/track/6LGEAepdRhTsUW57oyOEHa) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:08 | 2023-07-21 |  |
 | [From the Wreckage Build a Home](https://open.spotify.com/track/4nfJaz7eFYR82rWumtPutG) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [From The Wreckage](https://open.spotify.com/album/3IsnebH7a085bEoQKee9UX) | 3:33 | 2021-02-12 |  |
 | [Ghost](https://open.spotify.com/track/34hnNivtjbAzrpoy4L75uk) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/6SuIleYbiL8pUzX4W7yPXG) | 4:29 | 2021-02-12 | 2022-07-29 |
 | [Ghost](https://open.spotify.com/track/3bwymFXaLawekXh24ZOL9s) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/17l9KWnEV8rjy3QoYAUGT7) | 4:29 | 2022-09-21 |  |
@@ -87,7 +88,8 @@
 | [Lay Me Down](https://open.spotify.com/track/6kMmh24QjVP5SpG1jMHnHy) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W) | 3:03 | 2021-02-12 |  |
 | [Lie With Me](https://open.spotify.com/track/1iudonQ7ptybga0x3PvS7A) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/6acXdayyq3W9N5hqf6FKIz) | 3:09 | 2023-07-21 | 2023-11-09 |
 | [Lie With Me](https://open.spotify.com/track/6A9qXg7BKXhznmytO7omZN) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/7JcGUBfMWoTjt5UOVbRqXU) | 3:09 | 2021-02-12 | 2022-07-29 |
-| [Lie with Me \- EP Version](https://open.spotify.com/track/34bGkKfN3W2z2EdA4PjLFH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/3qddrnnY93q5krHvd3z5BY) | 3:09 | 2021-02-12 |  |
+| [Lie With Me \(EP Version\)](https://open.spotify.com/track/4XuWrAvxl3gySyz8bN35Ma) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/0R4MzSUlneqJFXMccsmN1k) | 3:09 | 2023-07-21 |  |
+| [Lie with Me \- EP Version](https://open.spotify.com/track/34bGkKfN3W2z2EdA4PjLFH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/3qddrnnY93q5krHvd3z5BY) | 3:09 | 2021-02-12 | 2024-01-06 |
 | [Little Lion Man](https://open.spotify.com/track/2BBkIgdXLv5vyp1DR0wpQl) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt) | 4:06 | 2021-02-12 | 2022-07-29 |
 | [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 | 2021-02-12 | 2022-10-13 |
 | [Little Lion Man](https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:07 | 2022-09-21 |  |

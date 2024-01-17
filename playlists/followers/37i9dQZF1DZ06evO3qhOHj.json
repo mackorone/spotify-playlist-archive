@@ -1,21 +1,945 @@
 {
-  "2023-12-14": 25189,
-  "2023-12-15": 25192,
-  "2023-12-16": 25203,
-  "2023-12-17": 25210,
-  "2023-12-18": 25225,
-  "2023-12-19": 25235,
-  "2023-12-20": 25243,
-  "2023-12-21": 25245,
-  "2023-12-22": 25252,
-  "2023-12-23": 25264,
-  "2023-12-24": 25270,
-  "2023-12-25": 25279,
-  "2023-12-26": 25287,
-  "2023-12-27": 25302,
-  "2023-12-30": 25346,
-  "2023-12-31": 25351,
-  "2024-01-01": 25357,
-  "2024-01-02": 25364,
-  "2024-01-03": 25375
+  "2024-01-17": 25495,
+  "date_first_scraped": "2023-12-14",
+  "description": "This is Mr. Big. The essential tracks, all in one playlist.",
+  "name": "This Is Mr. Big",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320800,
+      "name": "A Little Too Loose - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/59VVs4joFeFmciCU9psuBE"
+    },
+    {
+      "album": {
+        "name": "Mr. Big (2023 Remastered)",
+        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285014,
+      "name": "Addicted To That Rush - 2023 Remastered",
+      "url": "https://open.spotify.com/track/59I1DrJrPtVg3mSJ4ZCtu7"
+    },
+    {
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "Ain't Seen Love Like That - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs"
+    },
+    {
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329080,
+      "name": "Alive and Kickin' - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/6pA0ZXLhjIVeo6rDQIHzHm"
+    },
+    {
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278160,
+      "name": "Anything For You - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM"
+    },
+    {
+      "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/6GvfNtsfika3NY9dJeJ8WI"
+    },
+    {
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289266,
+      "name": "Big Love - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
+    },
+    {
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253266,
+      "name": "CDFF-Lucky This Time - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB"
+    },
+    {
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253480,
+      "name": "Colorado Bulldog - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
+    },
+    {
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236040,
+      "name": "Daddy, Brother, Lover, Little Boy (The Electric Drill Song) - 2021 Remastered",
+      "url": "https://open.spotify.com/track/6YsOshSb3F3b07X9lIw5Et"
+    },
+    {
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/53l9k2aVCPJRzquRWwoexE"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175842,
+      "name": "Damn I'm in Love Again",
+      "url": "https://open.spotify.com/track/4wGPXraznAXLV1a0eUGLA3"
+    },
+    {
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "Dancin' Right into the Flame",
+      "url": "https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs"
+    },
+    {
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251413,
+      "name": "Electrified",
+      "url": "https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF"
+    },
+    {
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/53l9k2aVCPJRzquRWwoexE"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 219760,
+      "name": "Forever and Back",
+      "url": "https://open.spotify.com/track/3AdWEZiqAccgQlWfCoTIi2"
+    },
+    {
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Goin' Where the Wind Blows",
+      "url": "https://open.spotify.com/track/7MvH3ZyA1l72z3XiTFUIEH"
+    },
+    {
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210893,
+      "name": "Green-Tinted Sixties Mind - 2021 Remastered",
+      "url": "https://open.spotify.com/track/36zcRIdiJr94WIsWxbNMbU"
+    },
+    {
+      "album": {
+        "name": "Mr. Big (2023 Remastered)",
+        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235253,
+      "name": "How Can You Do What You Do - 2023 Remastered",
+      "url": "https://open.spotify.com/track/2Miw5vdPTOgIVrcHaUqmfL"
+    },
+    {
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252520,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d"
+    },
+    {
+      "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198840,
+      "name": "I'll Leave It Up To You",
+      "url": "https://open.spotify.com/track/0JgDzxPx6ue5NGysiDz2uj"
+    },
+    {
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288600,
+      "name": "If That's What It Takes",
+      "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
+    },
+    {
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263840,
+      "name": "Just Take My Heart - 2021 Remastered",
+      "url": "https://open.spotify.com/track/2hngAqZosbB3oYHYzsbtM9"
+    },
+    {
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229160,
+      "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
+      "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
+    },
+    {
+      "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292026,
+      "name": "Lost In America",
+      "url": "https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr"
+    },
+    {
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252533,
+      "name": "My Kinda Woman - 2021 Remastered",
+      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
+    },
+    {
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229280,
+      "name": "Never Say Never - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/7e8gvHt0e4vw55RUAlq25X"
+    },
+    {
+      "album": {
+        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
+        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Not One Night",
+      "url": "https://open.spotify.com/track/6V515Poan7LK5imto1SIZI"
+    },
+    {
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225773,
+      "name": "Nothing but Love - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/76J6iClvhdPlYsaYNpTFYI"
+    },
+    {
+      "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300293,
+      "name": "Nothing Like It In The World",
+      "url": "https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x"
+    },
+    {
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246360,
+      "name": "Promise Her the Moon - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6gVvbSDrQYtFmH3FsOAzZ3"
+    },
+    {
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239173,
+      "name": "Road to Ruin - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
+    },
+    {
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230120,
+      "name": "Rock & Roll Over - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
+    },
+    {
+      "album": {
+        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
+        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157733,
+      "name": "Seven Impossible Days - Live at Koseinenkin Hall, Tokyo, October 29, 1993",
+      "url": "https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P"
+    },
+    {
+      "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7hzfrKYkRfPUIiagwhBtZS"
+    },
+    {
+      "album": {
+        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
+        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Stay Together",
+      "url": "https://open.spotify.com/track/4oOkm5StZdNGxz90GccnSE"
+    },
+    {
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 265573,
+      "name": "Stranger In My Life",
+      "url": "https://open.spotify.com/track/1SgrsREYlgqJIGWvMU8GGK"
+    },
+    {
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265573,
+      "name": "Stranger In My Life",
+      "url": "https://open.spotify.com/track/6k7tDVwJiU2yFHycB90LN2"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222506,
+      "name": "Strike Like Lightning - Remastered",
+      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
+    },
+    {
+      "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282626,
+      "name": "Suffocation",
+      "url": "https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI"
+    },
+    {
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223426,
+      "name": "Superfantastic",
+      "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
+    },
+    {
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237386,
+      "name": "Take A Walk - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
+    },
+    {
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277813,
+      "name": "Take Cover",
+      "url": "https://open.spotify.com/track/77VL07g9hIVtowNCIyr9l2"
+    },
+    {
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200453,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
+    },
+    {
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226706,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
+    },
+    {
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "The Whole World's Gonna Know - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
+    },
+    {
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "To Be With You - 2021 Remastered",
+      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
+    },
+    {
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288746,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
+    },
+    {
+      "album": {
+        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
+        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Unnatural",
+      "url": "https://open.spotify.com/track/0tGcNkhcto2sENhb2WHRyD"
+    },
+    {
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247093,
+      "name": "Voodoo Kiss - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+    },
+    {
+      "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw"
+    },
+    {
+      "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262893,
+      "name": "Where Are They Now?",
+      "url": "https://open.spotify.com/track/6624eWVGf6m29iK3AKXuI6"
+    },
+    {
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208560,
+      "name": "Wild World - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
+    },
+    {
+      "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306560,
+      "name": "You Don't Have to Be Strong - Remastered Version",
+      "url": "https://open.spotify.com/track/2fEWmr3cr5A00CFd6NaKNP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qhOHj"
 }

@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-154 songs - 8 hr 48 min
+155 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Need U](https://open.spotify.com/track/2xJqtUrOdN7W2TqB84wHE1) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Need U](https://open.spotify.com/album/6gd2HEIElKRml3UJnIRNw3) | 2:30 | 2023-08-25 |  |
 | [Nervous](https://open.spotify.com/track/4dnbjKpg4V3gpUx3LGsYQl) | [Gommez](https://open.spotify.com/artist/5uktODBsdy22PAFGFO47xg) | [Nervous](https://open.spotify.com/album/6dXxo7cdZU34QtCPulh09v) | 3:51 | 2023-09-15 |  |
 | [Never Coming Back](https://open.spotify.com/track/6W6ry3cptNbQPR2jLuKhZO) | [Reznikov](https://open.spotify.com/artist/2INLOHIkRAYNha5uKGiRhn) | [Never Coming Back](https://open.spotify.com/album/0f84YUDjJSQ4vMESPhl8QF) | 2:42 | 2023-07-21 |  |
+| [Night Owls](https://open.spotify.com/track/4anGNCfSIlqVgBGxcgKNNK) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Night Owls](https://open.spotify.com/album/5k7SXzPDoAw8y9sbAiJtP2) | 3:06 | 2024-01-05 |  |
 | [No More](https://open.spotify.com/track/1FeiuCLt5LZcCmBdVHfkcs) | [Reznikov](https://open.spotify.com/artist/2INLOHIkRAYNha5uKGiRhn) | [No More](https://open.spotify.com/album/1ds0Q6TijhktHgKsLVAUEL) | 2:12 | 2023-07-21 | 2023-10-14 |
 | [Oh Low](https://open.spotify.com/track/7nI3oWYKEMWwcddD4SpUvg) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Oh Low](https://open.spotify.com/album/0rOH0FxIi30rsZ8kYbb2zR) | 2:53 | 2023-11-17 |  |
 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 | 2023-10-06 |  |

@@ -1,735 +1,925 @@
 {
-  "2021-12-25": 372715,
-  "2021-12-26": 372814,
-  "2021-12-27": 373046,
-  "2021-12-28": 373048,
-  "2021-12-29": 373159,
-  "2021-12-30": 373313,
-  "2021-12-31": 373419,
-  "2022-01-01": 373666,
-  "2022-01-02": 373698,
-  "2022-01-03": 373803,
-  "2022-01-04": 373889,
-  "2022-01-05": 373963,
-  "2022-01-06": 374081,
-  "2022-01-07": 374192,
-  "2022-01-08": 374446,
-  "2022-01-09": 374449,
-  "2022-01-10": 374554,
-  "2022-01-11": 374634,
-  "2022-01-12": 374668,
-  "2022-01-13": 374668,
-  "2022-01-14": 374668,
-  "2022-01-15": 374668,
-  "2022-01-16": 374668,
-  "2022-01-17": 374668,
-  "2022-01-18": 374668,
-  "2022-01-19": 374668,
-  "2022-01-20": 374668,
-  "2022-01-21": 374668,
-  "2022-01-22": 374668,
-  "2022-01-23": 374668,
-  "2022-01-24": 374668,
-  "2022-01-25": 374668,
-  "2022-01-26": 374668,
-  "2022-01-27": 374668,
-  "2022-01-28": 374668,
-  "2022-01-29": 374668,
-  "2022-01-30": 374668,
-  "2022-01-31": 374668,
-  "2022-02-01": 374668,
-  "2022-02-02": 374668,
-  "2022-02-03": 374668,
-  "2022-02-04": 374668,
-  "2022-02-05": 374668,
-  "2022-02-06": 374668,
-  "2022-02-07": 374668,
-  "2022-02-08": 374668,
-  "2022-02-09": 374668,
-  "2022-02-10": 374668,
-  "2022-02-11": 374668,
-  "2022-02-12": 374668,
-  "2022-02-13": 374668,
-  "2022-02-14": 374668,
-  "2022-02-15": 374668,
-  "2022-02-16": 374668,
-  "2022-02-17": 374668,
-  "2022-02-18": 374668,
-  "2022-02-19": 374668,
-  "2022-02-20": 374668,
-  "2022-02-21": 374668,
-  "2022-02-22": 374668,
-  "2022-02-23": 374668,
-  "2022-02-24": 374668,
-  "2022-02-25": 374668,
-  "2022-02-26": 374668,
-  "2022-02-27": 374668,
-  "2022-02-28": 374668,
-  "2022-03-01": 374668,
-  "2022-03-02": 374668,
-  "2022-03-03": 374668,
-  "2022-03-04": 374668,
-  "2022-03-05": 374668,
-  "2022-03-06": 374668,
-  "2022-03-07": 374668,
-  "2022-03-08": 374668,
-  "2022-03-09": 374668,
-  "2022-03-10": 374668,
-  "2022-03-11": 374668,
-  "2022-03-12": 374668,
-  "2022-03-13": 374668,
-  "2022-03-14": 374668,
-  "2022-03-15": 374668,
-  "2022-03-16": 374668,
-  "2022-03-17": 374668,
-  "2022-03-18": 374668,
-  "2022-03-19": 374668,
-  "2022-03-20": 374668,
-  "2022-03-21": 374668,
-  "2022-03-22": 374668,
-  "2022-03-23": 374668,
-  "2022-03-24": 374668,
-  "2022-03-25": 374668,
-  "2022-03-26": 374668,
-  "2022-03-27": 374668,
-  "2022-03-28": 374668,
-  "2022-03-30": 374668,
-  "2022-03-31": 374668,
-  "2022-04-01": 374668,
-  "2022-04-02": 374668,
-  "2022-04-03": 374668,
-  "2022-04-04": 374668,
-  "2022-04-05": 374668,
-  "2022-04-06": 374668,
-  "2022-04-07": 374668,
-  "2022-04-08": 374668,
-  "2022-04-09": 374668,
-  "2022-04-10": 374668,
-  "2022-04-11": 374668,
-  "2022-04-12": 374668,
-  "2022-04-13": 374668,
-  "2022-04-14": 374668,
-  "2022-04-15": 374668,
-  "2022-04-16": 374668,
-  "2022-04-17": 374668,
-  "2022-04-18": 374668,
-  "2022-04-19": 374668,
-  "2022-04-20": 374668,
-  "2022-04-21": 374668,
-  "2022-04-22": 374668,
-  "2022-04-23": 374668,
-  "2022-04-24": 374668,
-  "2022-04-25": 374668,
-  "2022-04-26": 374668,
-  "2022-04-27": 374668,
-  "2022-04-28": 374668,
-  "2022-04-29": 374668,
-  "2022-04-30": 374668,
-  "2022-05-01": 374668,
-  "2022-05-02": 374668,
-  "2022-05-03": 374668,
-  "2022-05-04": 374668,
-  "2022-05-05": 374668,
-  "2022-05-06": 374668,
-  "2022-05-07": 374668,
-  "2022-05-08": 374668,
-  "2022-05-09": 374668,
-  "2022-05-10": 374668,
-  "2022-05-11": 374668,
-  "2022-05-12": 374668,
-  "2022-05-13": 374668,
-  "2022-05-14": 374668,
-  "2022-05-15": 374668,
-  "2022-05-16": 374668,
-  "2022-05-17": 374668,
-  "2022-05-18": 374668,
-  "2022-05-19": 374668,
-  "2022-05-20": 374668,
-  "2022-05-21": 374668,
-  "2022-05-22": 374668,
-  "2022-05-23": 374668,
-  "2022-05-24": 374668,
-  "2022-05-25": 374668,
-  "2022-05-26": 374668,
-  "2022-05-27": 374668,
-  "2022-05-28": 374668,
-  "2022-05-29": 374668,
-  "2022-05-30": 374668,
-  "2022-05-31": 374668,
-  "2022-06-01": 374668,
-  "2022-06-02": 374668,
-  "2022-06-03": 374668,
-  "2022-06-04": 374668,
-  "2022-06-05": 374668,
-  "2022-06-06": 374668,
-  "2022-06-07": 374668,
-  "2022-06-08": 374668,
-  "2022-06-09": 374668,
-  "2022-06-10": 374668,
-  "2022-06-11": 374668,
-  "2022-06-12": 374668,
-  "2022-06-13": 374668,
-  "2022-06-14": 374668,
-  "2022-06-15": 374668,
-  "2022-06-16": 374668,
-  "2022-06-17": 374668,
-  "2022-06-18": 374668,
-  "2022-06-19": 374668,
-  "2022-06-20": 374668,
-  "2022-06-21": 374668,
-  "2022-06-22": 374668,
-  "2022-06-23": 374668,
-  "2022-06-24": 374668,
-  "2022-06-25": 374668,
-  "2022-06-26": 374668,
-  "2022-06-27": 374668,
-  "2022-06-28": 374668,
-  "2022-06-29": 374668,
-  "2022-06-30": 374668,
-  "2022-07-01": 374668,
-  "2022-07-02": 374668,
-  "2022-07-03": 374668,
-  "2022-07-04": 374668,
-  "2022-07-05": 374668,
-  "2022-07-06": 374668,
-  "2022-07-07": 374668,
-  "2022-07-08": 374668,
-  "2022-07-09": 374668,
-  "2022-07-10": 374668,
-  "2022-07-11": 374668,
-  "2022-07-12": 374668,
-  "2022-07-13": 374668,
-  "2022-07-14": 374668,
-  "2022-07-15": 374668,
-  "2022-07-16": 374668,
-  "2022-07-17": 374668,
-  "2022-07-18": 374668,
-  "2022-07-19": 374668,
-  "2022-07-20": 374668,
-  "2022-07-21": 374668,
-  "2022-07-22": 374668,
-  "2022-07-23": 374668,
-  "2022-07-24": 374668,
-  "2022-07-25": 374668,
-  "2022-07-26": 374668,
-  "2022-07-27": 374668,
-  "2022-07-28": 374668,
-  "2022-07-29": 374668,
-  "2022-07-30": 374668,
-  "2022-07-31": 374668,
-  "2022-08-01": 374668,
-  "2022-08-02": 374668,
-  "2022-08-03": 374668,
-  "2022-08-04": 374668,
-  "2022-08-05": 374668,
-  "2022-08-06": 374668,
-  "2022-08-07": 374668,
-  "2022-08-08": 374668,
-  "2022-08-09": 374668,
-  "2022-08-10": 374668,
-  "2022-08-11": 374668,
-  "2022-08-12": 374668,
-  "2022-08-13": 374668,
-  "2022-08-14": 374668,
-  "2022-08-15": 374668,
-  "2022-08-16": 374668,
-  "2022-08-17": 374668,
-  "2022-08-18": 374668,
-  "2022-08-19": 374668,
-  "2022-08-20": 374668,
-  "2022-08-21": 374668,
-  "2022-08-22": 374668,
-  "2022-08-23": 374668,
-  "2022-08-24": 374668,
-  "2022-08-25": 374668,
-  "2022-08-26": 374668,
-  "2022-08-27": 374668,
-  "2022-08-28": 374668,
-  "2022-08-29": 374668,
-  "2022-08-30": 374668,
-  "2022-08-31": 374668,
-  "2022-09-01": 374668,
-  "2022-09-02": 374668,
-  "2022-09-03": 374668,
-  "2022-09-04": 374668,
-  "2022-09-05": 374668,
-  "2022-09-06": 374668,
-  "2022-09-07": 374668,
-  "2022-09-09": 374668,
-  "2022-09-10": 374668,
-  "2022-09-11": 374668,
-  "2022-09-12": 374668,
-  "2022-09-13": 374668,
-  "2022-09-15": 374668,
-  "2022-09-16": 374668,
-  "2022-09-17": 374668,
-  "2022-09-18": 374668,
-  "2022-09-19": 374668,
-  "2022-09-20": 374668,
-  "2022-09-21": 374668,
-  "2022-09-22": 374668,
-  "2022-09-23": 374668,
-  "2022-09-24": 374668,
-  "2022-09-25": 374668,
-  "2022-09-26": 374668,
-  "2022-09-27": 374668,
-  "2022-09-28": 374668,
-  "2022-09-29": 374668,
-  "2022-09-30": 374668,
-  "2022-10-01": 374668,
-  "2022-10-02": 374668,
-  "2022-10-03": 374668,
-  "2022-10-04": 374668,
-  "2022-10-05": 374668,
-  "2022-10-06": 374668,
-  "2022-10-07": 374668,
-  "2022-10-08": 374668,
-  "2022-10-09": 374668,
-  "2022-10-10": 374668,
-  "2022-10-11": 374668,
-  "2022-10-12": 374668,
-  "2022-10-13": 374668,
-  "2022-10-14": 374668,
-  "2022-10-15": 374668,
-  "2022-10-16": 374668,
-  "2022-10-17": 374668,
-  "2022-10-18": 374668,
-  "2022-10-19": 374668,
-  "2022-10-20": 374668,
-  "2022-10-21": 374668,
-  "2022-10-22": 374668,
-  "2022-10-23": 374668,
-  "2022-10-24": 374668,
-  "2022-10-25": 374668,
-  "2022-10-26": 374668,
-  "2022-10-27": 374668,
-  "2022-10-28": 374668,
-  "2022-10-29": 374668,
-  "2022-10-30": 374668,
-  "2022-10-31": 374668,
-  "2022-11-01": 374668,
-  "2022-11-02": 374668,
-  "2022-11-03": 374668,
-  "2022-11-04": 374668,
-  "2022-11-05": 374668,
-  "2022-11-06": 374668,
-  "2022-11-07": 374668,
-  "2022-11-08": 374668,
-  "2022-11-09": 374668,
-  "2022-11-10": 374668,
-  "2022-11-11": 374668,
-  "2022-11-12": 374668,
-  "2022-11-13": 374668,
-  "2022-11-14": 374668,
-  "2022-11-15": 374668,
-  "2022-11-16": 374668,
-  "2022-11-17": 374668,
-  "2022-11-18": 374668,
-  "2022-11-19": 374668,
-  "2022-11-20": 374668,
-  "2022-11-21": 374668,
-  "2022-11-22": 374668,
-  "2022-11-23": 374668,
-  "2022-11-24": 374668,
-  "2022-11-25": 374668,
-  "2022-11-26": 374668,
-  "2022-11-27": 374668,
-  "2022-11-28": 374668,
-  "2022-11-29": 374668,
-  "2022-11-30": 374668,
-  "2022-12-01": 374668,
-  "2022-12-02": 374668,
-  "2022-12-03": 374668,
-  "2022-12-04": 374668,
-  "2022-12-05": 374668,
-  "2022-12-06": 374668,
-  "2022-12-07": 374668,
-  "2022-12-08": 374668,
-  "2022-12-09": 374668,
-  "2022-12-10": 374668,
-  "2022-12-11": 374668,
-  "2022-12-12": 374668,
-  "2022-12-13": 374668,
-  "2022-12-14": 374668,
-  "2022-12-15": 374668,
-  "2022-12-16": 374668,
-  "2022-12-17": 374668,
-  "2022-12-18": 374668,
-  "2022-12-19": 374668,
-  "2022-12-20": 374668,
-  "2022-12-21": 374668,
-  "2022-12-22": 374668,
-  "2022-12-24": 374668,
-  "2022-12-25": 374668,
-  "2022-12-26": 374668,
-  "2022-12-27": 374668,
-  "2022-12-28": 374668,
-  "2022-12-29": 374668,
-  "2022-12-30": 374668,
-  "2022-12-31": 374668,
-  "2023-01-01": 374668,
-  "2023-01-02": 374668,
-  "2023-01-03": 374668,
-  "2023-01-04": 374668,
-  "2023-01-05": 374668,
-  "2023-01-06": 374668,
-  "2023-01-07": 374668,
-  "2023-01-08": 374668,
-  "2023-01-09": 374668,
-  "2023-01-10": 374668,
-  "2023-01-11": 374668,
-  "2023-01-12": 374668,
-  "2023-01-13": 374668,
-  "2023-01-14": 374668,
-  "2023-01-15": 374668,
-  "2023-01-16": 374668,
-  "2023-01-17": 374668,
-  "2023-01-18": 374668,
-  "2023-01-19": 374668,
-  "2023-01-20": 374668,
-  "2023-01-21": 374668,
-  "2023-01-22": 374668,
-  "2023-01-23": 374668,
-  "2023-01-24": 374668,
-  "2023-01-25": 374668,
-  "2023-01-26": 374668,
-  "2023-01-27": 374668,
-  "2023-01-28": 374668,
-  "2023-01-29": 374668,
-  "2023-01-30": 374668,
-  "2023-01-31": 374668,
-  "2023-02-01": 374668,
-  "2023-02-02": 374668,
-  "2023-02-03": 374668,
-  "2023-02-04": 374668,
-  "2023-02-05": 374668,
-  "2023-02-06": 374668,
-  "2023-02-07": 374668,
-  "2023-02-08": 374668,
-  "2023-02-09": 374668,
-  "2023-02-10": 374668,
-  "2023-02-11": 374668,
-  "2023-02-12": 374668,
-  "2023-02-13": 374668,
-  "2023-02-14": 374668,
-  "2023-02-15": 374668,
-  "2023-02-16": 374668,
-  "2023-02-17": 374668,
-  "2023-02-18": 374668,
-  "2023-02-19": 374668,
-  "2023-02-20": 374668,
-  "2023-02-21": 374668,
-  "2023-02-22": 374668,
-  "2023-02-23": 374668,
-  "2023-02-24": 374668,
-  "2023-02-25": 374668,
-  "2023-02-26": 374668,
-  "2023-02-27": 374668,
-  "2023-02-28": 374668,
-  "2023-03-01": 374668,
-  "2023-03-02": 374668,
-  "2023-03-03": 374668,
-  "2023-03-04": 374668,
-  "2023-03-05": 374668,
-  "2023-03-06": 374668,
-  "2023-03-07": 374668,
-  "2023-03-08": 374668,
-  "2023-03-09": 374668,
-  "2023-03-10": 374668,
-  "2023-03-11": 374668,
-  "2023-03-12": 374668,
-  "2023-03-13": 374668,
-  "2023-03-14": 374668,
-  "2023-03-15": 374668,
-  "2023-03-16": 374668,
-  "2023-03-17": 374668,
-  "2023-03-18": 374668,
-  "2023-03-19": 374668,
-  "2023-03-20": 374668,
-  "2023-03-21": 374668,
-  "2023-03-22": 374668,
-  "2023-03-23": 374668,
-  "2023-03-24": 374668,
-  "2023-03-25": 374668,
-  "2023-03-26": 374668,
-  "2023-03-27": 374668,
-  "2023-03-28": 374668,
-  "2023-03-29": 374668,
-  "2023-03-30": 374668,
-  "2023-03-31": 374668,
-  "2023-04-01": 374668,
-  "2023-04-02": 374668,
-  "2023-04-03": 374668,
-  "2023-04-04": 374668,
-  "2023-04-05": 374668,
-  "2023-04-06": 374668,
-  "2023-04-07": 374668,
-  "2023-04-09": 374668,
-  "2023-04-10": 374668,
-  "2023-04-11": 374668,
-  "2023-04-12": 374668,
-  "2023-04-13": 374668,
-  "2023-04-14": 374668,
-  "2023-04-15": 374668,
-  "2023-04-16": 374668,
-  "2023-04-17": 374668,
-  "2023-04-18": 374668,
-  "2023-04-19": 374668,
-  "2023-04-20": 374668,
-  "2023-04-21": 374668,
-  "2023-04-22": 374668,
-  "2023-04-23": 374668,
-  "2023-04-24": 374668,
-  "2023-04-25": 374668,
-  "2023-04-26": 374668,
-  "2023-04-27": 374668,
-  "2023-04-28": 374668,
-  "2023-04-29": 374668,
-  "2023-04-30": 374668,
-  "2023-05-01": 374668,
-  "2023-05-02": 374668,
-  "2023-05-03": 374668,
-  "2023-05-04": 374668,
-  "2023-05-05": 374668,
-  "2023-05-06": 374668,
-  "2023-05-07": 374668,
-  "2023-05-08": 374668,
-  "2023-05-09": 374668,
-  "2023-05-10": 374668,
-  "2023-05-11": 374668,
-  "2023-05-12": 374668,
-  "2023-05-13": 374668,
-  "2023-05-14": 374668,
-  "2023-05-15": 374668,
-  "2023-05-16": 374668,
-  "2023-05-17": 374668,
-  "2023-05-18": 374668,
-  "2023-05-19": 374668,
-  "2023-05-20": 374668,
-  "2023-05-21": 374668,
-  "2023-05-22": 374668,
-  "2023-05-23": 374668,
-  "2023-05-24": 374668,
-  "2023-05-25": 374668,
-  "2023-05-26": 374668,
-  "2023-05-27": 374668,
-  "2023-05-28": 374668,
-  "2023-05-29": 374668,
-  "2023-05-30": 374668,
-  "2023-05-31": 374668,
-  "2023-06-01": 374668,
-  "2023-06-02": 374668,
-  "2023-06-03": 374668,
-  "2023-06-04": 374668,
-  "2023-06-05": 374668,
-  "2023-06-06": 374668,
-  "2023-06-07": 374668,
-  "2023-06-08": 374668,
-  "2023-06-09": 374668,
-  "2023-06-10": 374668,
-  "2023-06-11": 374668,
-  "2023-06-12": 374668,
-  "2023-06-13": 374668,
-  "2023-06-14": 374668,
-  "2023-06-15": 374668,
-  "2023-06-16": 374668,
-  "2023-06-17": 374668,
-  "2023-06-18": 374668,
-  "2023-06-19": 374668,
-  "2023-06-20": 374668,
-  "2023-06-21": 374668,
-  "2023-06-22": 374668,
-  "2023-06-23": 374668,
-  "2023-06-24": 374668,
-  "2023-06-25": 374668,
-  "2023-06-26": 374668,
-  "2023-06-27": 374668,
-  "2023-06-28": 374668,
-  "2023-06-29": 374668,
-  "2023-06-30": 374668,
-  "2023-07-01": 374668,
-  "2023-07-02": 374668,
-  "2023-07-03": 374668,
-  "2023-07-04": 374668,
-  "2023-07-05": 374668,
-  "2023-07-06": 374668,
-  "2023-07-07": 374668,
-  "2023-07-08": 374668,
-  "2023-07-09": 374668,
-  "2023-07-10": 374668,
-  "2023-07-11": 374668,
-  "2023-07-12": 374668,
-  "2023-07-13": 374668,
-  "2023-07-14": 374668,
-  "2023-07-15": 374668,
-  "2023-07-16": 374668,
-  "2023-07-17": 374668,
-  "2023-07-18": 374668,
-  "2023-07-19": 374668,
-  "2023-07-20": 374668,
-  "2023-07-21": 374668,
-  "2023-07-22": 374668,
-  "2023-07-23": 374668,
-  "2023-07-24": 374668,
-  "2023-07-25": 374668,
-  "2023-07-26": 374668,
-  "2023-07-27": 374668,
-  "2023-07-28": 374668,
-  "2023-07-29": 374668,
-  "2023-07-30": 374668,
-  "2023-07-31": 374668,
-  "2023-08-01": 374668,
-  "2023-08-02": 374668,
-  "2023-08-03": 374668,
-  "2023-08-04": 374668,
-  "2023-08-05": 374668,
-  "2023-08-06": 374668,
-  "2023-08-07": 374668,
-  "2023-08-08": 374668,
-  "2023-08-09": 374668,
-  "2023-08-10": 374668,
-  "2023-08-11": 374668,
-  "2023-08-12": 374668,
-  "2023-08-13": 374668,
-  "2023-08-14": 374668,
-  "2023-08-15": 374668,
-  "2023-08-16": 374668,
-  "2023-08-17": 374668,
-  "2023-08-18": 374668,
-  "2023-08-19": 374668,
-  "2023-08-20": 374668,
-  "2023-08-21": 374668,
-  "2023-08-22": 374668,
-  "2023-08-23": 374668,
-  "2023-08-24": 374668,
-  "2023-08-25": 374668,
-  "2023-08-26": 374668,
-  "2023-08-27": 374668,
-  "2023-08-28": 374668,
-  "2023-08-29": 374668,
-  "2023-08-30": 374668,
-  "2023-08-31": 374668,
-  "2023-09-01": 374668,
-  "2023-09-02": 374668,
-  "2023-09-03": 374668,
-  "2023-09-04": 374668,
-  "2023-09-05": 374668,
-  "2023-09-06": 374668,
-  "2023-09-07": 374668,
-  "2023-09-08": 374668,
-  "2023-09-09": 374668,
-  "2023-09-10": 374668,
-  "2023-09-11": 374668,
-  "2023-09-12": 374668,
-  "2023-09-13": 374668,
-  "2023-09-14": 374668,
-  "2023-09-15": 374668,
-  "2023-09-16": 374668,
-  "2023-09-17": 374668,
-  "2023-09-18": 374668,
-  "2023-09-19": 374668,
-  "2023-09-20": 374668,
-  "2023-09-21": 374668,
-  "2023-09-22": 374668,
-  "2023-09-23": 374668,
-  "2023-09-24": 374668,
-  "2023-09-25": 374668,
-  "2023-09-26": 374668,
-  "2023-09-27": 374668,
-  "2023-09-28": 374668,
-  "2023-09-29": 374668,
-  "2023-09-30": 374668,
-  "2023-10-01": 374668,
-  "2023-10-02": 374668,
-  "2023-10-03": 374668,
-  "2023-10-04": 374668,
-  "2023-10-05": 374668,
-  "2023-10-06": 374668,
-  "2023-10-07": 374668,
-  "2023-10-08": 374668,
-  "2023-10-09": 374668,
-  "2023-10-10": 374668,
-  "2023-10-11": 374668,
-  "2023-10-12": 374668,
-  "2023-10-13": 374668,
-  "2023-10-14": 374668,
-  "2023-10-15": 374668,
-  "2023-10-16": 374668,
-  "2023-10-17": 374668,
-  "2023-10-18": 374668,
-  "2023-10-19": 374668,
-  "2023-10-20": 374668,
-  "2023-10-21": 374668,
-  "2023-10-22": 374668,
-  "2023-10-23": 374668,
-  "2023-10-24": 374668,
-  "2023-10-25": 374668,
-  "2023-10-26": 374668,
-  "2023-10-27": 374668,
-  "2023-10-28": 374668,
-  "2023-10-29": 374668,
-  "2023-10-30": 374668,
-  "2023-10-31": 374668,
-  "2023-11-01": 374668,
-  "2023-11-02": 374668,
-  "2023-11-03": 374668,
-  "2023-11-04": 374668,
-  "2023-11-05": 374668,
-  "2023-11-06": 374668,
-  "2023-11-07": 374668,
-  "2023-11-08": 374668,
-  "2023-11-09": 374668,
-  "2023-11-10": 374668,
-  "2023-11-11": 374668,
-  "2023-11-12": 374668,
-  "2023-11-13": 374668,
-  "2023-11-14": 374668,
-  "2023-11-15": 374668,
-  "2023-11-16": 374668,
-  "2023-11-17": 374668,
-  "2023-11-18": 374668,
-  "2023-11-19": 374668,
-  "2023-11-20": 374668,
-  "2023-11-21": 374668,
-  "2023-11-22": 374668,
-  "2023-11-23": 374668,
-  "2023-11-24": 374668,
-  "2023-11-25": 374668,
-  "2023-11-26": 374668,
-  "2023-11-27": 374668,
-  "2023-11-28": 374668,
-  "2023-11-29": 374668,
-  "2023-11-30": 374668,
-  "2023-12-01": 374668,
-  "2023-12-02": 374668,
-  "2023-12-03": 374668,
-  "2023-12-04": 374668,
-  "2023-12-05": 374668,
-  "2023-12-06": 374668,
-  "2023-12-07": 374668,
-  "2023-12-08": 374668,
-  "2023-12-09": 374668,
-  "2023-12-10": 374668,
-  "2023-12-11": 374668,
-  "2023-12-12": 374668,
-  "2023-12-13": 374668,
-  "2023-12-14": 374668,
-  "2023-12-15": 374668,
-  "2023-12-16": 374668,
-  "2023-12-17": 374668,
-  "2023-12-18": 374668,
-  "2023-12-19": 374668,
-  "2023-12-20": 374668,
-  "2023-12-21": 374668,
-  "2023-12-22": 374668,
-  "2023-12-23": 374668,
-  "2023-12-24": 374668,
-  "2023-12-25": 374668,
-  "2023-12-26": 374668,
-  "2023-12-27": 374668,
-  "2023-12-30": 374668,
-  "2023-12-31": 374668,
-  "2024-01-01": 374668,
-  "2024-01-02": 374668,
-  "2024-01-03": 374668
+  "2024-01-17": 374668,
+  "date_first_scraped": "2021-12-21",
+  "description": "Stevie Wonder, the essential tracks, all in one playlist.",
+  "name": "This Is Stevie Wonder",
+  "tracks": [
+    {
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "A Place In The Sun",
+      "url": "https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I"
+    },
+    {
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
+    },
+    {
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "All In Love Is Fair",
+      "url": "https://open.spotify.com/track/7asmbWITwvuo1toSvoImnk"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428266,
+      "name": "As",
+      "url": "https://open.spotify.com/track/3hFh4tsMFhskEXlJ5DCzsG"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/5RQRPai5wx67G2P1kbBdwv"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313266,
+      "name": "Boogie On Reggae Woman",
+      "url": "https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb"
+    },
+    {
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247560,
+      "name": "Did I Hear You Say You Love Me",
+      "url": "https://open.spotify.com/track/3UKhp4MoWzRXQ8Vccz9dXl"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303466,
+      "name": "Do I Do",
+      "url": "https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82"
+    },
+    {
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284840,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
+    },
+    {
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "Faith - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP"
+    },
+    {
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "album": {
+        "name": "Conversation Peace",
+        "url": "https://open.spotify.com/album/1AjRRHn7aHgPxBWHlF5sO3"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300093,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/5mPzlwYXl0wTmho0rYbl7O"
+    },
+    {
+      "album": {
+        "name": "Characters",
+        "url": "https://open.spotify.com/album/54vpVgdihAoRU6pmuoHaxf"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251573,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yeSJJDdoKqNaDN7549ELm"
+    },
+    {
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298466,
+      "name": "Golden Lady",
+      "url": "https://open.spotify.com/track/1bpaA5Pn4jlo1cRAOBNQnh"
+    },
+    {
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357026,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/01lewSOj9ZaXplh9TpNKL4"
+    },
+    {
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335226,
+      "name": "He's Misstra Know-It-All",
+      "url": "https://open.spotify.com/track/7sQ9eys8uVNrCsPyzYlDgG"
+    },
+    {
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    {
+      "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315093,
+      "name": "How Come, How Long (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/6kTakcO9wwXh8tEqmJSV8h"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293066,
+      "name": "I Believe (When I Fall In Love It Will Be Forever)",
+      "url": "https://open.spotify.com/track/4P3R9J5VGPyAPx9T6ZXAcF"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "album": {
+        "name": "I Was Made To Love Her",
+        "url": "https://open.spotify.com/album/6thSjE17RxW8tJFtLyXA3B"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156440,
+      "name": "I Was Made To Love Her",
+      "url": "https://open.spotify.com/track/2aCKBrLn7rbhStk5k4FwnF"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252333,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/6jtsyzzGLDN5gbgKjYuMGB"
+    },
+    {
+      "album": {
+        "name": "Where I'm Coming From",
+        "url": "https://open.spotify.com/album/2oV8OJKtyGR7MwXH45rOoE"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180533,
+      "name": "If You Really Love Me",
+      "url": "https://open.spotify.com/track/6Axz5VSkc4Bs8eXWQxnynE"
+    },
+    {
+      "album": {
+        "name": "A Time To Love",
+        "url": "https://open.spotify.com/album/3gvuqyyvdMS8CbEwTLu5uL"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371773,
+      "name": "If Your Love Cannot Be Moved",
+      "url": "https://open.spotify.com/track/3Z6IPwOG2MZr9JtIDyZ7jL"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394026,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/0VFKMaDnEAmi90P9dOwtyz"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/2Qc5WMlXBbvhfeiWczhK2s"
+    },
+    {
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5rlgpm7n5f9mWc5LQU42bI"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Living For The City",
+      "url": "https://open.spotify.com/track/1O1mCVN5hue4lOOqd5EysZ"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410533,
+      "name": "Maybe Your Baby",
+      "url": "https://open.spotify.com/track/0x3jYUWbnbygky6JSnoSpX"
+    },
+    {
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150813,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/2DuHY4meaFz04Qs2UXfKir"
+    },
+    {
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222586,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
+    },
+    {
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252560,
+      "name": "Part-Time Lover",
+      "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/6lDeVSpTzOFAx4E1jY0eV0"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337133,
+      "name": "Ribbon In The Sky",
+      "url": "https://open.spotify.com/track/5mokboUpvSxFY4vHmpCheF"
+    },
+    {
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "Rocket Love",
+      "url": "https://open.spotify.com/track/1BPifF7NTeu4N4kdz50uI0"
+    },
+    {
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/6vKSrqeuPqnlsqDbBj6F3n"
+    },
+    {
+      "album": {
+        "name": "Fulfillingness' First Finale",
+        "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208097,
+      "name": "Smile Please",
+      "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
+    },
+    {
+      "album": {
+        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
+        "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "So Amazing",
+      "url": "https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314133,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/6FzuAWhUUkMPiv7LTLGFgE"
+    },
+    {
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276226,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/60TB2Ifv7CCjjyROXXnChC"
+    },
+    {
+      "album": {
+        "name": "Up-Tight Everything's Alright",
+        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175066,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
+    },
+    {
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323266,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/43LDXcy86qmEgfy6Wd2AZk"
+    },
+    {
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199506,
+      "name": "We Can Work It Out",
+      "url": "https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4"
+    },
+    {
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "Yester-Me, Yester-You, Yesterday",
+      "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278213,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/647D8WS57rPpIM1AXXHpHJ"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    {
+      "album": {
+        "name": "Fulfillingness' First Finale",
+        "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202706,
+      "name": "You Haven't Done Nothin'",
+      "url": "https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWYIyS8LLUDj"
 }

@@ -1,595 +1,3855 @@
 {
-  "2022-05-15": 57014,
-  "2022-05-16": 57074,
-  "2022-05-17": 57152,
-  "2022-05-18": 57217,
-  "2022-05-19": 57278,
-  "2022-05-20": 57346,
-  "2022-05-21": 57459,
-  "2022-05-22": 57459,
-  "2022-05-23": 57525,
-  "2022-05-24": 57592,
-  "2022-05-25": 57639,
-  "2022-05-26": 57717,
-  "2022-05-27": 57782,
-  "2022-05-28": 57844,
-  "2022-05-29": 57899,
-  "2022-05-30": 57962,
-  "2022-05-31": 58035,
-  "2022-06-01": 58129,
-  "2022-06-02": 58139,
-  "2022-06-03": 58197,
-  "2022-06-04": 58260,
-  "2022-06-05": 58324,
-  "2022-06-06": 58395,
-  "2022-06-07": 58455,
-  "2022-06-08": 58517,
-  "2022-06-09": 58571,
-  "2022-06-10": 58631,
-  "2022-06-11": 58690,
-  "2022-06-12": 58737,
-  "2022-06-13": 58797,
-  "2022-06-14": 58846,
-  "2022-06-15": 58900,
-  "2022-06-16": 58944,
-  "2022-06-17": 59009,
-  "2022-06-18": 59080,
-  "2022-06-19": 59214,
-  "2022-06-20": 59214,
-  "2022-06-21": 59267,
-  "2022-06-22": 59353,
-  "2022-06-23": 59353,
-  "2022-06-24": 59384,
-  "2022-06-25": 59426,
-  "2022-06-26": 59473,
-  "2022-06-27": 59520,
-  "2022-06-28": 59558,
-  "2022-06-29": 59622,
-  "2022-06-30": 59649,
-  "2022-07-01": 59698,
-  "2022-07-02": 59741,
-  "2022-07-03": 59778,
-  "2022-07-04": 59825,
-  "2022-07-05": 59879,
-  "2022-07-06": 59926,
-  "2022-07-07": 59972,
-  "2022-07-08": 60026,
-  "2022-07-09": 60070,
-  "2022-07-10": 60111,
-  "2022-07-11": 60189,
-  "2022-07-12": 60240,
-  "2022-07-13": 60292,
-  "2022-07-14": 60343,
-  "2022-07-15": 60402,
-  "2022-07-16": 60450,
-  "2022-07-17": 60496,
-  "2022-07-18": 60547,
-  "2022-07-19": 60614,
-  "2022-07-20": 60663,
-  "2022-07-21": 60706,
-  "2022-07-22": 60745,
-  "2022-07-23": 60791,
-  "2022-07-24": 60836,
-  "2022-07-25": 60893,
-  "2022-07-26": 60935,
-  "2022-07-27": 60985,
-  "2022-07-28": 61040,
-  "2022-07-29": 61097,
-  "2022-07-30": 61201,
-  "2022-07-31": 61201,
-  "2022-08-01": 61261,
-  "2022-08-02": 61391,
-  "2022-08-03": 61391,
-  "2022-08-04": 61434,
-  "2022-08-05": 61487,
-  "2022-08-06": 61537,
-  "2022-08-07": 61598,
-  "2022-08-08": 61672,
-  "2022-08-09": 61724,
-  "2022-08-10": 61789,
-  "2022-08-11": 61828,
-  "2022-08-12": 61889,
-  "2022-08-13": 61951,
-  "2022-08-14": 62004,
-  "2022-08-15": 62063,
-  "2022-08-16": 62102,
-  "2022-08-17": 62169,
-  "2022-08-18": 62229,
-  "2022-08-19": 62278,
-  "2022-08-20": 62318,
-  "2022-08-21": 62385,
-  "2022-08-22": 62454,
-  "2022-08-23": 62513,
-  "2022-08-24": 62573,
-  "2022-08-25": 62618,
-  "2022-08-26": 62675,
-  "2022-08-27": 62736,
-  "2022-08-28": 62790,
-  "2022-08-29": 62874,
-  "2022-08-30": 62883,
-  "2022-08-31": 62873,
-  "2022-09-01": 62837,
-  "2022-09-02": 62815,
-  "2022-09-03": 62689,
-  "2022-09-04": 62671,
-  "2022-09-05": 62702,
-  "2022-09-06": 62769,
-  "2022-09-07": 62834,
-  "2022-09-09": 62956,
-  "2022-09-10": 63011,
-  "2022-09-11": 63072,
-  "2022-09-12": 63130,
-  "2022-09-13": 63196,
-  "2022-09-15": 63336,
-  "2022-09-16": 63381,
-  "2022-09-17": 63451,
-  "2022-09-18": 63515,
-  "2022-09-19": 63579,
-  "2022-09-20": 63651,
-  "2022-09-21": 63717,
-  "2022-09-22": 63772,
-  "2022-09-23": 63825,
-  "2022-09-24": 63880,
-  "2022-09-25": 63942,
-  "2022-09-26": 64006,
-  "2022-09-27": 64074,
-  "2022-09-28": 64137,
-  "2022-09-29": 64199,
-  "2022-09-30": 64258,
-  "2022-10-01": 64313,
-  "2022-10-02": 64383,
-  "2022-10-03": 64433,
-  "2022-10-04": 64487,
-  "2022-10-05": 64537,
-  "2022-10-06": 64615,
-  "2022-10-07": 64655,
-  "2022-10-08": 64705,
-  "2022-10-09": 64798,
-  "2022-10-10": 64808,
-  "2022-10-11": 64863,
-  "2022-10-12": 64930,
-  "2022-10-13": 65002,
-  "2022-10-14": 65059,
-  "2022-10-15": 65123,
-  "2022-10-16": 65172,
-  "2022-10-17": 65221,
-  "2022-10-18": 65275,
-  "2022-10-19": 65336,
-  "2022-10-20": 65391,
-  "2022-10-21": 65459,
-  "2022-10-22": 65511,
-  "2022-10-23": 65571,
-  "2022-10-24": 65648,
-  "2022-10-25": 65722,
-  "2022-10-26": 65774,
-  "2022-10-27": 65844,
-  "2022-10-28": 65900,
-  "2022-10-29": 65955,
-  "2022-10-30": 66013,
-  "2022-10-31": 66075,
-  "2022-11-01": 66137,
-  "2022-11-02": 66192,
-  "2022-11-03": 66268,
-  "2022-11-04": 66336,
-  "2022-11-05": 66409,
-  "2022-11-06": 66480,
-  "2022-11-07": 66521,
-  "2022-11-08": 66567,
-  "2022-11-09": 66632,
-  "2022-11-10": 66691,
-  "2022-11-11": 66757,
-  "2022-11-12": 66831,
-  "2022-11-13": 66898,
-  "2022-11-14": 66965,
-  "2022-11-15": 67019,
-  "2022-11-16": 67082,
-  "2022-11-17": 67136,
-  "2022-11-18": 67164,
-  "2022-11-19": 67170,
-  "2022-11-20": 67212,
-  "2022-11-21": 67276,
-  "2022-11-22": 67339,
-  "2022-11-23": 67398,
-  "2022-11-24": 67511,
-  "2022-11-25": 67620,
-  "2022-11-26": 67691,
-  "2022-11-27": 67752,
-  "2022-11-28": 67811,
-  "2022-11-29": 67873,
-  "2022-11-30": 67938,
-  "2022-12-01": 67992,
-  "2022-12-02": 68035,
-  "2022-12-03": 68083,
-  "2022-12-04": 68150,
-  "2022-12-05": 68214,
-  "2022-12-06": 68265,
-  "2022-12-07": 68332,
-  "2022-12-08": 68382,
-  "2022-12-09": 68424,
-  "2022-12-10": 68474,
-  "2022-12-11": 68518,
-  "2022-12-12": 68598,
-  "2022-12-13": 68632,
-  "2022-12-14": 68695,
-  "2022-12-15": 68732,
-  "2022-12-16": 68779,
-  "2022-12-17": 68821,
-  "2022-12-18": 68894,
-  "2022-12-19": 68948,
-  "2022-12-20": 69041,
-  "2022-12-21": 69041,
-  "2022-12-22": 69108,
-  "2022-12-24": 69204,
-  "2022-12-25": 69255,
-  "2022-12-26": 69293,
-  "2022-12-27": 69344,
-  "2022-12-28": 69396,
-  "2022-12-29": 69466,
-  "2022-12-30": 69534,
-  "2022-12-31": 69586,
-  "2023-01-01": 69639,
-  "2023-01-02": 69698,
-  "2023-01-03": 69759,
-  "2023-01-04": 69835,
-  "2023-01-05": 69896,
-  "2023-01-06": 70002,
-  "2023-01-07": 70119,
-  "2023-01-08": 70140,
-  "2023-01-09": 70209,
-  "2023-01-10": 70291,
-  "2023-01-11": 70359,
-  "2023-01-12": 70426,
-  "2023-01-13": 70498,
-  "2023-01-14": 70602,
-  "2023-01-15": 70622,
-  "2023-01-16": 70690,
-  "2023-01-17": 70758,
-  "2023-01-18": 70820,
-  "2023-01-19": 70881,
-  "2023-01-20": 70951,
-  "2023-01-21": 71002,
-  "2023-01-22": 71065,
-  "2023-01-23": 71127,
-  "2023-01-24": 71202,
-  "2023-01-25": 71285,
-  "2023-01-26": 71372,
-  "2023-01-27": 71434,
-  "2023-01-28": 71488,
-  "2023-01-29": 71554,
-  "2023-01-30": 71629,
-  "2023-01-31": 71629,
-  "2023-02-01": 71759,
-  "2023-02-02": 71830,
-  "2023-02-03": 71887,
-  "2023-02-04": 71942,
-  "2023-02-05": 71989,
-  "2023-02-06": 72061,
-  "2023-02-07": 72126,
-  "2023-02-08": 72256,
-  "2023-02-09": 72256,
-  "2023-02-10": 72309,
-  "2023-02-11": 72369,
-  "2023-02-12": 72516,
-  "2023-02-13": 72590,
-  "2023-02-14": 72590,
-  "2023-02-15": 72652,
-  "2023-02-16": 72712,
-  "2023-02-17": 72775,
-  "2023-02-18": 72903,
-  "2023-02-19": 72915,
-  "2023-02-20": 72944,
-  "2023-02-21": 72996,
-  "2023-02-22": 73067,
-  "2023-02-23": 73123,
-  "2023-02-24": 73191,
-  "2023-02-25": 73267,
-  "2023-02-26": 73309,
-  "2023-02-27": 73433,
-  "2023-02-28": 73433,
-  "2023-03-01": 73500,
-  "2023-03-02": 73550,
-  "2023-03-03": 73604,
-  "2023-03-04": 73655,
-  "2023-03-05": 73768,
-  "2023-03-06": 73768,
-  "2023-03-07": 73818,
-  "2023-03-08": 73880,
-  "2023-03-09": 73944,
-  "2023-03-10": 73987,
-  "2023-03-11": 74037,
-  "2023-03-12": 74095,
-  "2023-03-13": 74166,
-  "2023-03-14": 74224,
-  "2023-03-15": 74281,
-  "2023-03-16": 74334,
-  "2023-03-17": 74334,
-  "2023-03-18": 74441,
-  "2023-03-19": 74495,
-  "2023-03-20": 74562,
-  "2023-03-21": 74607,
-  "2023-03-22": 74666,
-  "2023-03-23": 74734,
-  "2023-03-24": 74734,
-  "2023-03-25": 74848,
-  "2023-03-26": 74906,
-  "2023-03-27": 74977,
-  "2023-03-28": 75033,
-  "2023-03-29": 75113,
-  "2023-03-30": 75198,
-  "2023-03-31": 75198,
-  "2023-04-01": 75260,
-  "2023-04-02": 75299,
-  "2023-04-03": 75336,
-  "2023-04-04": 75398,
-  "2023-04-05": 75447,
-  "2023-04-06": 75499,
-  "2023-04-07": 75545,
-  "2023-04-09": 75671,
-  "2023-04-10": 75734,
-  "2023-04-11": 75861,
-  "2023-04-12": 75861,
-  "2023-04-13": 75914,
-  "2023-04-14": 75965,
-  "2023-04-15": 76017,
-  "2023-04-16": 76069,
-  "2023-04-17": 76132,
-  "2023-04-18": 76189,
-  "2023-04-19": 76256,
-  "2023-04-20": 76317,
-  "2023-04-21": 76371,
-  "2023-04-22": 76426,
-  "2023-04-23": 76493,
-  "2023-04-24": 76543,
-  "2023-04-25": 76601,
-  "2023-04-26": 76660,
-  "2023-04-27": 76715,
-  "2023-04-28": 76768,
-  "2023-04-29": 76813,
-  "2023-04-30": 76858,
-  "2023-05-01": 76922,
-  "2023-05-02": 76982,
-  "2023-05-03": 77031,
-  "2023-05-04": 77077,
-  "2023-05-05": 77120,
-  "2023-05-06": 77177,
-  "2023-05-07": 77241,
-  "2023-05-08": 77311,
-  "2023-05-09": 77366,
-  "2023-05-10": 77416,
-  "2023-05-11": 77463,
-  "2023-05-12": 77515,
-  "2023-05-13": 77576,
-  "2023-05-14": 77620,
-  "2023-05-15": 77681,
-  "2023-05-16": 77727,
-  "2023-05-17": 77785,
-  "2023-05-18": 77836,
-  "2023-05-19": 77885,
-  "2023-05-20": 77998,
-  "2023-05-21": 77998,
-  "2023-05-22": 77998,
-  "2023-05-23": 78107,
-  "2023-05-24": 78182,
-  "2023-05-25": 78189,
-  "2023-05-26": 78240,
-  "2023-05-27": 78271,
-  "2023-05-28": 78310,
-  "2023-05-29": 78310,
-  "2023-05-30": 78400,
-  "2023-05-31": 78436,
-  "2023-06-01": 78470,
-  "2023-06-02": 78515,
-  "2023-06-03": 78562,
-  "2023-06-04": 78614,
-  "2023-06-05": 78677,
-  "2023-06-06": 78710,
-  "2023-06-07": 78758,
-  "2023-06-08": 78801,
-  "2023-06-09": 78854,
-  "2023-06-10": 78876,
-  "2023-06-11": 78923,
-  "2023-06-12": 78964,
-  "2023-06-13": 79010,
-  "2023-06-14": 79075,
-  "2023-06-15": 79100,
-  "2023-06-16": 79136,
-  "2023-06-17": 79147,
-  "2023-06-18": 79179,
-  "2023-06-19": 79198,
-  "2023-06-20": 79204,
-  "2023-06-21": 79224,
-  "2023-06-22": 79234,
-  "2023-06-23": 79251,
-  "2023-06-24": 79260,
-  "2023-06-25": 79257,
-  "2023-06-26": 79283,
-  "2023-06-27": 79296,
-  "2023-06-28": 79314,
-  "2023-06-29": 79332,
-  "2023-06-30": 79351,
-  "2023-07-01": 79385,
-  "2023-07-02": 79385,
-  "2023-07-03": 79408,
-  "2023-07-04": 79427,
-  "2023-07-05": 79447,
-  "2023-07-06": 79487,
-  "2023-07-07": 79487,
-  "2023-07-08": 79505,
-  "2023-07-09": 79527,
-  "2023-07-10": 79554,
-  "2023-07-11": 79569,
-  "2023-07-12": 79584,
-  "2023-07-13": 79591,
-  "2023-07-14": 79616,
-  "2023-07-15": 79629,
-  "2023-07-16": 79645,
-  "2023-07-17": 79672,
-  "2023-07-18": 79694,
-  "2023-07-19": 79728,
-  "2023-07-20": 79758,
-  "2023-07-21": 79765,
-  "2023-07-22": 79787,
-  "2023-07-23": 79801,
-  "2023-07-24": 79818,
-  "2023-07-25": 79851,
-  "2023-07-26": 79863,
-  "2023-07-27": 79874,
-  "2023-07-28": 79883,
-  "2023-07-29": 79895,
-  "2023-07-30": 79907,
-  "2023-07-31": 79928,
-  "2023-08-01": 79948,
-  "2023-08-02": 79969,
-  "2023-08-03": 79996,
-  "2023-08-04": 80013,
-  "2023-08-05": 80036,
-  "2023-08-06": 80100,
-  "2023-08-07": 80100,
-  "2023-08-08": 80118,
-  "2023-08-09": 80143,
-  "2023-08-10": 80170,
-  "2023-08-11": 80199,
-  "2023-08-12": 80219,
-  "2023-08-13": 80243,
-  "2023-08-14": 80285,
-  "2023-08-15": 80322,
-  "2023-08-16": 80322,
-  "2023-08-17": 80347,
-  "2023-08-18": 80358,
-  "2023-08-19": 80381,
-  "2023-08-20": 80397,
-  "2023-08-21": 80421,
-  "2023-08-22": 80443,
-  "2023-08-23": 80465,
-  "2023-08-24": 80492,
-  "2023-08-25": 80515,
-  "2023-08-26": 80539,
-  "2023-08-27": 80563,
-  "2023-08-28": 80595,
-  "2023-08-29": 80619,
-  "2023-08-30": 80655,
-  "2023-08-31": 80686,
-  "2023-09-01": 80740,
-  "2023-09-02": 80740,
-  "2023-09-03": 80764,
-  "2023-09-04": 80764,
-  "2023-09-05": 80826,
-  "2023-09-06": 80849,
-  "2023-09-07": 80849,
-  "2023-09-08": 80849,
-  "2023-09-09": 80930,
-  "2023-09-10": 80964,
-  "2023-09-11": 80997,
-  "2023-09-12": 80997,
-  "2023-09-13": 81058,
-  "2023-09-14": 81058,
-  "2023-09-15": 81103,
-  "2023-09-16": 81112,
-  "2023-09-17": 81112,
-  "2023-09-18": 81112,
-  "2023-09-19": 81192,
-  "2023-09-20": 81209,
-  "2023-09-21": 81247,
-  "2023-09-22": 81284,
-  "2023-09-23": 81284,
-  "2023-09-24": 81284,
-  "2023-09-25": 81284,
-  "2023-09-26": 81404,
-  "2023-09-27": 81404,
-  "2023-09-28": 81438,
-  "2023-09-29": 81454,
-  "2023-09-30": 81454,
-  "2023-10-01": 81494,
-  "2023-10-02": 81527,
-  "2023-10-03": 81548,
-  "2023-10-04": 81577,
-  "2023-10-05": 81584,
-  "2023-10-06": 81604,
-  "2023-10-07": 81604,
-  "2023-10-08": 81646,
-  "2023-10-09": 81646,
-  "2023-10-10": 81646,
-  "2023-10-11": 81691,
-  "2023-10-12": 81691,
-  "2023-10-13": 81736,
-  "2023-10-14": 81736,
-  "2023-10-15": 81736,
-  "2023-10-16": 81736,
-  "2023-10-17": 81736,
-  "2023-10-18": 81736,
-  "2023-10-19": 81736,
-  "2023-10-20": 81736,
-  "2023-10-21": 81736,
-  "2023-10-22": 81736,
-  "2023-10-23": 81736,
-  "2023-10-24": 81736,
-  "2023-10-25": 81736,
-  "2023-10-26": 81736,
-  "2023-10-27": 81736,
-  "2023-10-28": 81736,
-  "2023-10-29": 81736,
-  "2023-10-30": 81736,
-  "2023-10-31": 81736,
-  "2023-11-01": 81736,
-  "2023-11-02": 81736,
-  "2023-11-03": 81736,
-  "2023-11-04": 81736,
-  "2023-11-05": 81736,
-  "2023-11-06": 81736,
-  "2023-11-07": 81736,
-  "2023-11-08": 81736,
-  "2023-11-09": 81736,
-  "2023-11-10": 81736,
-  "2023-11-11": 82354,
-  "2023-11-12": 82354,
-  "2023-11-13": 82354,
-  "2023-11-14": 82354,
-  "2023-11-15": 82354,
-  "2023-11-16": 82354,
-  "2023-11-17": 82530,
-  "2023-11-18": 82530,
-  "2023-11-19": 82530,
-  "2023-11-20": 82530,
-  "2023-11-21": 82530,
-  "2023-11-22": 82530,
-  "2023-11-23": 82639,
-  "2023-11-24": 82639,
-  "2023-11-25": 82639,
-  "2023-11-26": 82639,
-  "2023-11-27": 82639,
-  "2023-11-28": 82639,
-  "2023-11-29": 82639,
-  "2023-11-30": 82639,
-  "2023-12-01": 82639,
-  "2023-12-02": 82639,
-  "2023-12-03": 82639,
-  "2023-12-04": 82639,
-  "2023-12-05": 82639,
-  "2023-12-06": 82639,
-  "2023-12-07": 82639,
-  "2023-12-08": 82639,
-  "2023-12-09": 82639,
-  "2023-12-10": 82639,
-  "2023-12-11": 83048,
-  "2023-12-12": 83048,
-  "2023-12-13": 83048,
-  "2023-12-14": 83116,
-  "2023-12-15": 83124,
-  "2023-12-16": 83146,
-  "2023-12-17": 83165,
-  "2023-12-18": 83174,
-  "2023-12-19": 83196,
-  "2023-12-20": 83212,
-  "2023-12-21": 83224,
-  "2023-12-22": 83237,
-  "2023-12-23": 83257,
-  "2023-12-24": 83272,
-  "2023-12-25": 83287,
-  "2023-12-26": 83301,
-  "2023-12-27": 83310,
-  "2023-12-30": 83375,
-  "2023-12-31": 83406,
-  "2024-01-01": 83419,
-  "2024-01-02": 83426,
-  "2024-01-03": 83460
+  "2024-01-17": 83733,
+  "date_first_scraped": "2022-05-15",
+  "description": "Explore the softer side of Beethoven with this selection of calming favourites.",
+  "name": "Relaxing Beethoven",
+  "tracks": [
+    {
+      "album": {
+        "name": "Beethoven: Bagatelles Opp. 33, 119 & 126; F\u00fcr Elise; Rondo in C; Allegretto in C Minor; Klavierst\u00fcck in B-Flat",
+        "url": "https://open.spotify.com/album/3hH0HuHvg7QQsnnjBdLkNJ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "11 Bagatelles, Op. 119: 11. Andante ma non troppo",
+      "url": "https://open.spotify.com/track/6tKNA8EcrrH6New1Ex1mFl"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Bagatelles Opp. 33, 119 & 126; F\u00fcr Elise; Rondo in C; Allegretto in C Minor; Klavierst\u00fcck in B-Flat",
+        "url": "https://open.spotify.com/album/3hH0HuHvg7QQsnnjBdLkNJ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102160,
+      "name": "11 Bagatelles, Op. 119: 4. Andante cantabile",
+      "url": "https://open.spotify.com/track/1YbDbX8uec9YXkemEyU8Xq"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Bagatelles and Dances, Vol. 3",
+        "url": "https://open.spotify.com/album/7p0JWnWj9C8oCq6KBuBwJe"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 340960,
+      "name": "2 Rondos, Op. 51: Rondo in C Major, Op. 51, No. 1",
+      "url": "https://open.spotify.com/track/2twAG1D9XkF8NJg3N79Ay8"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Bagatelles and Dances, Vol. 3",
+        "url": "https://open.spotify.com/album/7p0JWnWj9C8oCq6KBuBwJe"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 470026,
+      "name": "Andante in F Major, WoO 57 \"Andante favori\"",
+      "url": "https://open.spotify.com/track/2fOCt0a1Ij7ZYqJrfnJOKV"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Bagatelles and Dances, Vol. 3",
+        "url": "https://open.spotify.com/album/4PlKH0cVeDtIR7O6zBbAff"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470026,
+      "name": "Andante in F Major, WoO 57, \"Andante favori\"",
+      "url": "https://open.spotify.com/track/0qYCPYx186XGi7SWhfFP69"
+    },
+    {
+      "album": {
+        "name": "Beethoven: F\u00fcr Elise",
+        "url": "https://open.spotify.com/album/75EwxrZFuonDUOe56McgDv"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 470026,
+      "name": "Andante in F Major, WoO 57, \"Andante favori\"",
+      "url": "https://open.spotify.com/track/7ti2hnV7WDf4TIJVpx5ZHb"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Bagatelles and Dances, Vol. 1",
+        "url": "https://open.spotify.com/album/774TyQV9LpA3ha4mA7ol7I"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 453266,
+      "name": "Bagatelle in A Minor, WoO 59 \"F\u00fcr Elise\" - Bagatelle in B-Flat Major, WoO 60 - Allegretto quasi andante in G Minor, WoO 61a - Allegretto in B Minor, WoO 61",
+      "url": "https://open.spotify.com/track/3DRu1GI6qvtVUDnygcTTj6"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Bagatelles and Dances, Vol. 1",
+        "url": "https://open.spotify.com/album/5NVdLmsUdW3g6EjoJW0wEM"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453266,
+      "name": "Bagatelle in A Minor, WoO 59, \"Fur Elise\". Bagatelle, WoO 60. Allegretto quasi andante, WoO 61a. Allegretto, WoO 61",
+      "url": "https://open.spotify.com/track/06toQgrXfTjsOtlrZLAMjd"
+    },
+    {
+      "album": {
+        "name": "Beethoven For Inspiration",
+        "url": "https://open.spotify.com/album/6onJJJNgeua7vQv1Cqgz5D"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 453266,
+      "name": "Bagatelle in A Minor, Woo 59, \"f\u00fcr Elise\" - Bagatelle in B-flat Major, Woo 60 - Klavierst\u00fcck in G Minor, Woo 61a, Hess 56 - Klavierst\u00fcck in B Minor, Woo 61, Hess 62",
+      "url": "https://open.spotify.com/track/2ir6WjKgSjIkKyup8h1S3G"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 8 \"Path\u00e9tique\", 9, 10 & 11",
+        "url": "https://open.spotify.com/album/2qY7hqQJJQAlfYVLpLBROZ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stephen Kovacevich",
+          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433306,
+      "name": "Beethoven: Piano Sonata No. 11 in B-Flat Major, Op. 22: II. Adagio con molto espressione",
+      "url": "https://open.spotify.com/track/1mlcwL59plBEfB7Db4uig9"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 8-11",
+        "url": "https://open.spotify.com/album/1p4nytsQSvzwlp07BAOx9i"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stephen Kovacevich",
+          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 433306,
+      "name": "Beethoven: Piano Sonata No. 11 in B-Flat Major, Op. 22: II. Adagio con molto espressione",
+      "url": "https://open.spotify.com/track/2s8ae3ZvdV4zCPf7oKlWe3"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Trios & Variations",
+        "url": "https://open.spotify.com/album/7ov7eEWrk9ySEjfgg0gajR"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jacqueline du Pr\u00e9",
+          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1145800,
+      "name": "Beethoven: Piano Trio in G Major, Op. 121a \"Kakadu Variations\"",
+      "url": "https://open.spotify.com/track/1NR0Di9dR9YQtxSKQwJT46"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Trios, Violin & Cello Sonatas",
+        "url": "https://open.spotify.com/album/59d2LdzitHl7pEORzIZdY1"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jacqueline du Pr\u00e9",
+          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1145800,
+      "name": "Beethoven: Piano Trio in G Major, Op. 121a \"Kakadu Variations\"",
+      "url": "https://open.spotify.com/track/6WKH60SSqFXfGxcwhcWX9T"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Trios Nos. 4 & 5 - Cello Sonatas Nos. 3 & 5",
+        "url": "https://open.spotify.com/album/6BCNehcY9A3qqejijYocKr"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jacqueline du Pr\u00e9",
+          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 1148493,
+      "name": "Beethoven: Piano Trio in G Major, Op. 121a \"Kakadu Variations\"",
+      "url": "https://open.spotify.com/track/56XfeoaKe7aRKKqjzKWjAR"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Trios, Violin & Cello Sonatas",
+        "url": "https://open.spotify.com/album/59d2LdzitHl7pEORzIZdY1"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jacqueline du Pr\u00e9",
+          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 459000,
+      "name": "Beethoven: Piano Trio No. 6 in E-Flat Major, Op. 70 No. 2: III. Allegretto ma non troppo",
+      "url": "https://open.spotify.com/track/0MvHeP2d9T5QNobS63IixM"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Trios & Variations",
+        "url": "https://open.spotify.com/album/7ov7eEWrk9ySEjfgg0gajR"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jacqueline du Pr\u00e9",
+          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459000,
+      "name": "Beethoven: Piano Trio No. 6 in E-Flat Major, Op. 70 No. 2: III. Allegretto ma non troppo",
+      "url": "https://open.spotify.com/track/3fMDNTJ0SOo51IJWJunwPA"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Piano Trios",
+        "url": "https://open.spotify.com/album/7C285YJObhxplgkT62Fw5p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jacqueline du Pr\u00e9",
+          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 459000,
+      "name": "Beethoven: Piano Trio No. 6 in E-Flat Major, Op. 70 No. 2: III. Allegretto ma non troppo",
+      "url": "https://open.spotify.com/track/6sHTRzAqTJasEwr3CEbI56"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Clarinet Trio, Op. 11 & Septet, Op. 20",
+        "url": "https://open.spotify.com/album/5C7Q2wc0Jk60h6Py372pYb"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421426,
+      "name": "Beethoven: Septet in E-Flat Major, Op. 20: IV. Tema con variazioni. Andante",
+      "url": "https://open.spotify.com/track/7u8yTTtzCu4z2j5nPe3Zuu"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete String Quartets, Quintets & Fragments",
+        "url": "https://open.spotify.com/album/0U3ogDg1ollox2lGG2u15l"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Endellion String Quartet",
+          "url": "https://open.spotify.com/artist/1jZGb7wdNVHUedPTAP0GSN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552400,
+      "name": "Beethoven: String Quartet No. 1 in F Major, Op. 18 No. 1: II. Adagio affettuoso ed appassionato",
+      "url": "https://open.spotify.com/track/5ryIh2y49Y5p0ziqrzX1Ya"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete String Quartets, Quintets & Fragments",
+        "url": "https://open.spotify.com/album/0U3ogDg1ollox2lGG2u15l"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Endellion String Quartet",
+          "url": "https://open.spotify.com/artist/1jZGb7wdNVHUedPTAP0GSN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 942253,
+      "name": "Beethoven: String Quartet No. 15 in A Minor, Op. 132: III. Molto adagio",
+      "url": "https://open.spotify.com/track/58GXDqnpYMmI2MikV9SXaj"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphony No. 6 \"Pastoral\"",
+        "url": "https://open.spotify.com/album/1kGJis704qkvZIWOIsKjA0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 758266,
+      "name": "Beethoven: Symphony No. 6 in F Major, Op. 68 \"Pastoral\": I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/5UbN3fe9OB1p5KwjgUAHD4"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Chamber Music for Winds",
+        "url": "https://open.spotify.com/album/4i3H2rI8MgdDYnIGex89d0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Les Vents Fran\u00e7ais",
+          "url": "https://open.spotify.com/artist/6gPZtcc8s5kJlYPhGWOeGZ"
+        },
+        {
+          "name": "Eric Le Sage",
+          "url": "https://open.spotify.com/artist/6JSdWtNdhfjutA5r16UOpx"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256586,
+      "name": "Beethoven: Trio for Oboe, Clarinet and Bassoon C Major, Op. 87: II. Adagio",
+      "url": "https://open.spotify.com/track/5KhznZQE9EbrmXx2Q9WUZM"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Chamber Music for Winds",
+        "url": "https://open.spotify.com/album/4i3H2rI8MgdDYnIGex89d0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Les Vents Fran\u00e7ais",
+          "url": "https://open.spotify.com/artist/6gPZtcc8s5kJlYPhGWOeGZ"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276626,
+      "name": "Beethoven: Trio for Piano, Flute and Bassoon in G Major, WoO 37: II. Adagio",
+      "url": "https://open.spotify.com/track/5jhmPF5FyHdmJRUcIh7pkL"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Violin Sonatas",
+        "url": "https://open.spotify.com/album/0BCdyJyFSELKQUQUc1Ymht"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348373,
+      "name": "Beethoven: Violin Sonata No. 10 in G Major, Op. 96: II. Adagio espressivo",
+      "url": "https://open.spotify.com/track/1vm7ixR7ZcOdOygxw7K7xm"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Violin Sonatas",
+        "url": "https://open.spotify.com/album/0BCdyJyFSELKQUQUc1Ymht"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343600,
+      "name": "Beethoven: Violin Sonata No. 4 in A Minor, Op. 23: II. Andante scherzoso",
+      "url": "https://open.spotify.com/track/5iKROMw2cpt9iu5HPd7rVz"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Violin Sonatas",
+        "url": "https://open.spotify.com/album/6mZXBzQFt9X45LdsJ6EfxB"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daishin Kashimoto",
+          "url": "https://open.spotify.com/artist/2CSDlPZTVkrgjFFAcrgkVg"
+        },
+        {
+          "name": "Konstantin Lifschitz",
+          "url": "https://open.spotify.com/artist/3HJ0cDihIkL0d5eQwkoToe"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568106,
+      "name": "Beethoven: Violin Sonata No. 6 in A Major, Op. 30 No. 1: II. Adagio molto espressivo",
+      "url": "https://open.spotify.com/track/24Acv6KbIwoZUkrIb2bPD4"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Violin Sonatas",
+        "url": "https://open.spotify.com/album/0BCdyJyFSELKQUQUc1Ymht"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146626,
+      "name": "Beethoven: Violin Sonata No. 9 in A Major, Op. 47 \"Kreutzer\": II. (a) Andante con Variazioni. Andante",
+      "url": "https://open.spotify.com/track/4dkJAb40MvWIhqIKa9xgZV"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Cello Sonatas Op.69 & 102; Variations",
+        "url": "https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 760000,
+      "name": "Cello Sonata No. 3 in A Major, Op. 69: I. Allegro ma non tanto",
+      "url": "https://open.spotify.com/track/42mziuM3hW9SCdbu1DE7ij"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Cello Sonatas No. 3, Op. 69 and Op. 64",
+        "url": "https://open.spotify.com/album/0Eilkk9XZPc0yPMGrWuGN0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Nina Tichman",
+          "url": "https://open.spotify.com/artist/0WsQ8QPl9UTebHHDU9ZjMl"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 88360,
+      "name": "Cello Sonata No. 3 in A Major, Op. 69: III. Adagio cantabile",
+      "url": "https://open.spotify.com/track/1jwdla7tNKQAyeGKqImjkA"
+    },
+    {
+      "album": {
+        "name": "Beethoven For Meditation (Swedish Edition)",
+        "url": "https://open.spotify.com/album/7wCYixXhP8Rf2xGarGHlgZ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Nina Tichman",
+          "url": "https://open.spotify.com/artist/0WsQ8QPl9UTebHHDU9ZjMl"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 90893,
+      "name": "Cello Sonata No. 3 in A Major, Op. 69: III. Adagio cantabile",
+      "url": "https://open.spotify.com/track/60OjKvebPd8Ia9WOhAEwik"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Cello Sonatas No. 3, Op. 69 and Op. 64",
+        "url": "https://open.spotify.com/album/6WB5uriSGRSD9nNHRlKSxh"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Nina Tichman",
+          "url": "https://open.spotify.com/artist/0WsQ8QPl9UTebHHDU9ZjMl"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88360,
+      "name": "Cello Sonata No. 3 in A Major, Op. 69: III. Adagio cantabile -",
+      "url": "https://open.spotify.com/track/3mE2n6a2swlzxz00hbDdvz"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Cello Sonatas Nos. 3 & 5 (Remastered)",
+        "url": "https://open.spotify.com/album/3ATiNFlbf0R9oRO1BII4CX"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 649173,
+      "name": "Cello Sonata No. 5 in D Major, Op. 102 No. 2: II. Adagio con molto sentimento d'affetto",
+      "url": "https://open.spotify.com/track/0T2a6HAUQT4lrDUaT6c6Gm"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Triple Concerto & Archduke Trio",
+        "url": "https://open.spotify.com/album/4gmWdiUeJy4ij9ZUHHhioh"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Storioni Trio",
+          "url": "https://open.spotify.com/artist/5vRxRW12hMxi14kdRamrc9"
+        },
+        {
+          "name": "Jan Willem de Vriend",
+          "url": "https://open.spotify.com/artist/5NI7U31M8fuYLuUUNMWVxG"
+        },
+        {
+          "name": "Netherlands Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0wSkrEH8UIuekg6grh5hku"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288640,
+      "name": "Concerto for violin, cello and piano in C major op. 56 \u201cTriple Concerto\u201d : Largo (attacca)",
+      "url": "https://open.spotify.com/track/72Qj5tYqqYCT303FQebTSl"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 4, 13, 22 and 19-20, Op. 49",
+        "url": "https://open.spotify.com/album/2iZIzqA8XAfSrbXccSsWvd"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Der Vampyr (The Vampire): III. Adagio con espressione",
+      "url": "https://open.spotify.com/track/1l5YPxurmYoNSy8OjZwWTg"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concertos Nos. 2 and 5",
+        "url": "https://open.spotify.com/album/7bKV2l7HPKwMffaqQS6WzI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stefan Vladar",
+          "url": "https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490026,
+      "name": "Klavierkonzert Nr. 5 Es-Dur, Op. 73: II. Adagio un poco mosso",
+      "url": "https://open.spotify.com/track/5ckuOHV2Yv1uLUj1t0cRr8"
+    },
+    {
+      "album": {
+        "name": "Pachelbel: Canon / Mozart: Eine kleine Nachtmusik / Albinoni: Adagio",
+        "url": "https://open.spotify.com/album/3EJoqpN6wt0yrJVmradzRo"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "I Musici",
+          "url": "https://open.spotify.com/artist/5TYM4xzvG2OuZafhTEuAHX"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "Minuet in G Major, WoO 10, No. 2",
+      "url": "https://open.spotify.com/track/3GLLowmxDIVQBYJJR5YRBz"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Symphonies and Piano Concertos",
+        "url": "https://open.spotify.com/album/5bZEoTR1m9BK6OQU06OUnG"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stefan Vladar",
+          "url": "https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 543000,
+      "name": "Piano Concerto No. 2 in B-Flat Major, Op. 19: II. Adagio",
+      "url": "https://open.spotify.com/track/0FttQVPgMBjAnWCQdYR0Al"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concertos Nos. 2 and 5",
+        "url": "https://open.spotify.com/album/4hMBYqKtbP7rsf5GSoDU5E"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stefan Vladar",
+          "url": "https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 543000,
+      "name": "Piano Concerto No. 2 in B-Flat Major, Op. 19: II. Adagio",
+      "url": "https://open.spotify.com/track/0bzvfb7zbfByAvnvWvU2A5"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concertos Nos. 2 and 5",
+        "url": "https://open.spotify.com/album/7bKV2l7HPKwMffaqQS6WzI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stefan Vladar",
+          "url": "https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543000,
+      "name": "Piano Concerto No. 2 in B-Flat Major, Op. 19: II. Adagio",
+      "url": "https://open.spotify.com/track/2zSsQLrIk7zYs1SukEsRtr"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concertos Nos. 3 and 4",
+        "url": "https://open.spotify.com/album/43CHZWHP2iWwgi6fDyELrI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stefan Vladar",
+          "url": "https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 592160,
+      "name": "Piano Concerto No. 3 in C Minor, Op. 37: II. Largo",
+      "url": "https://open.spotify.com/track/2gvHNjjX1fhfQ1LjLScYZS"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concertos Nos. 3 and 4",
+        "url": "https://open.spotify.com/album/3N7JVK7eA99XraybwRR8iW"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stefan Vladar",
+          "url": "https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592160,
+      "name": "Piano Concerto No. 3 in C Minor, Op. 37: II. Largo",
+      "url": "https://open.spotify.com/track/5YJXz8VfRwhfVgGSxYlThc"
+    },
+    {
+      "album": {
+        "name": "Pastorale - Classical Favourites for Relaxing and Dreaming",
+        "url": "https://open.spotify.com/album/2leU6g1UHEJjgv69EBSIwk"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stefan Vladar",
+          "url": "https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 596973,
+      "name": "Piano Concerto No. 3 in C Minor, Op. 37: Largo",
+      "url": "https://open.spotify.com/track/0fPzw3hEumeYn8LT6DqDft"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concertos Nos. 2 And 5",
+        "url": "https://open.spotify.com/album/7Coi9B3wGw5A6EogsBlY4O"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Stefan Vladar",
+          "url": "https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 481293,
+      "name": "Piano Concerto No. 5 In E Flat Major, Op. 73, \"Emperor\": II. Adagio Un Poco Mosso",
+      "url": "https://open.spotify.com/track/61nKSHxWu8081h278AZAZj"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concertos Nos. 2 and 5",
+        "url": "https://open.spotify.com/album/4hMBYqKtbP7rsf5GSoDU5E"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stefan Vladar",
+          "url": "https://open.spotify.com/artist/3cYlHOewTtDhkVIaEKZsOl"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 490026,
+      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso",
+      "url": "https://open.spotify.com/track/0wZzCgNeRHHRsZVFIjvP4l"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
+        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "Piano Sonata in F Minor, WoO 47, No. 2, \"Kurfurstensonaten\": II. Andante",
+      "url": "https://open.spotify.com/track/7foKd7AETCQ5kyBFL8nx7G"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
+        "url": "https://open.spotify.com/album/0esPzvo1nUkcBLrALzkHX9"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276066,
+      "name": "Piano Sonata in F Minor, WoO 47, No. 2, \"Kurf\u00fcrstensonaten\": II. Andante",
+      "url": "https://open.spotify.com/track/5NfMt47qrTJY9ropvZ7yTa"
+    },
+    {
+      "album": {
+        "name": "Study - Beethoven",
+        "url": "https://open.spotify.com/album/3Hym2kAfU05uQRcTs6Rhd9"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 433306,
+      "name": "Piano Sonata No. 11 in B-Flat Major, Op. 22: II. Adagio con molta espressione",
+      "url": "https://open.spotify.com/track/6krqMynTnxah4z4RCZRhmP"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472746,
+      "name": "Piano Sonata No. 12 in A-Flat Major, Op. 26: I. Andante con variazioni",
+      "url": "https://open.spotify.com/track/0bSpMIcVW5MtvRviUBbTtY"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 4, 13, 22 and 19-20, Op. 49",
+        "url": "https://open.spotify.com/album/32OpISfgprAPuAzOgIDJAB"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178666,
+      "name": "Piano Sonata No. 13 in E-Flat Major, Op. 27, No. 1, \"Quasi una Fantasia\": III. Adagio con espressione",
+      "url": "https://open.spotify.com/track/6zhmIsfid1RBqipY9UDGS7"
+    },
+    {
+      "album": {
+        "name": "Virtual Box Set - Complete Beethoven Piano Sonatas",
+        "url": "https://open.spotify.com/album/5xOUAz0roVQWzOWZaaK1HI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178666,
+      "name": "Piano Sonata No. 13 in E-Flat Major, Op. 27, No. 1: III. Adagio con espressione",
+      "url": "https://open.spotify.com/track/4TILr3xhTMUjnVlN7QlVTC"
+    },
+    {
+      "album": {
+        "name": "Famous Composers: Beethoven",
+        "url": "https://open.spotify.com/album/2nvWBRVKX7WV5yooKV593o"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 395346,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/0XyPHI13NIeRrYtX7pzkHc"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403333,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/630zE7N1xPxdK2Zz4S3rPA"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 12, 16 and 18",
+        "url": "https://open.spotify.com/album/1jFK7z9pEEPtOJtUWWA0cU"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267600,
+      "name": "Piano Sonata No. 18 in E-Flat Major, Op. 31, No. 3, \"La Chasse\": III. Menuetto. Moderato e grazioso",
+      "url": "https://open.spotify.com/track/1stoq8MBKfGLXYRgIeaVo1"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 12, 16 and 18",
+        "url": "https://open.spotify.com/album/1diVJqXABOtg1jOugBebim"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267600,
+      "name": "Piano Sonata No. 18 in E-Flat Major, Op. 31, No. 3, \"La Chasse\": III. Menuetto. Moderato e grazioso",
+      "url": "https://open.spotify.com/track/56XdNR4RPIjtG614QnwTtE"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas, Vol. 4",
+        "url": "https://open.spotify.com/album/5d0Wj1IHwX0T0Tnt6Rpo9P"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285480,
+      "name": "Piano Sonata No. 19 in G Minor, Op. 49 No. 1: I. Andante",
+      "url": "https://open.spotify.com/track/5NSEaoEaSNdD3XQM54e0C6"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 1-3, Op. 2",
+        "url": "https://open.spotify.com/album/4CvWG8rpO9E2qNAa0LxMPI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408506,
+      "name": "Piano Sonata No. 2 in A Major, Op. 2, No. 2: II. Largo appassionato",
+      "url": "https://open.spotify.com/track/2zKubo9E6vmN3CMVhYJaz8"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas, Vol. 3",
+        "url": "https://open.spotify.com/album/6QMbG4oWpe0WsGn8LDWtzL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 408506,
+      "name": "Piano Sonata No. 2 in A Major, Op. 2, No. 2: II. Largo appassionato",
+      "url": "https://open.spotify.com/track/5Wff1vQ7IHDt7fPT9eql1v"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 8, 14 and 23",
+        "url": "https://open.spotify.com/album/6gPBMSpe6fgRr34Z60g0LS"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347973,
+      "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": II. Andante con moto",
+      "url": "https://open.spotify.com/track/1KzDJqjXLGPhJWH62TrKER"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 8, 14 and 23",
+        "url": "https://open.spotify.com/album/6jJDSVBeIc5cgi6UM2wiC5"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 347973,
+      "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": II. Andante con moto",
+      "url": "https://open.spotify.com/track/6R9KwAd7wPHfY0OEUzVCkD"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 14, 21 and 23",
+        "url": "https://open.spotify.com/album/179DczHhlBdnq0uBgrXeaK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 343000,
+      "name": "Piano Sonata No. 23 in F Minor, Op. 57, \"Appassionata\": II. Andante con moto",
+      "url": "https://open.spotify.com/track/2KQ4RjziqdNYlfR8FBj45W"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas, Vol. 4",
+        "url": "https://open.spotify.com/album/5d0Wj1IHwX0T0Tnt6Rpo9P"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Piano Sonata No. 26 in E-Flat Major, Op. 81a \"Les Adieux\": II. Andante espressivo \"L'Absence\"",
+      "url": "https://open.spotify.com/track/7qGrAG3gSZiJnP2TmVnied"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos.27, 28, 30 & 31",
+        "url": "https://open.spotify.com/album/14o0F8jSDYaA4q9JHwqqud"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Emil Gilels",
+          "url": "https://open.spotify.com/artist/21h8E3aA7a9mjcUHbLpjxf"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Piano Sonata No. 28 In A, Op. 101: 3. Langsam und sehnsuchtsvoll (Adagio ma non troppo, con affetto)",
+      "url": "https://open.spotify.com/track/6771jOj4BNQcVww8zRWjJ5"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos.28 & 29",
+        "url": "https://open.spotify.com/album/0cAavl185miCXxZ1QlqRwY"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1188173,
+      "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": 3. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/0XWehGYuKo5qhMviEuLeY7"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas, Vol. 4",
+        "url": "https://open.spotify.com/album/5d0Wj1IHwX0T0Tnt6Rpo9P"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396240,
+      "name": "Piano Sonata No. 31 in A-Flat Major, Op. 110: I. Moderato cantabile, molto espressivo",
+      "url": "https://open.spotify.com/track/5ADkUi7fjHuEYtugf90Ck4"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 4, 13, 22 and 19-20, Op. 49",
+        "url": "https://open.spotify.com/album/32OpISfgprAPuAzOgIDJAB"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 479133,
+      "name": "Piano Sonata No. 4 in E-Flat Major, Op. 7: II. Largo, con gran espressione",
+      "url": "https://open.spotify.com/track/1I8ggQNYhFhZgZDWiCugnj"
+    },
+    {
+      "album": {
+        "name": "Beethoven For Relaxation",
+        "url": "https://open.spotify.com/album/7mEO1pzXkUy7TwTdxusYbM"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 479133,
+      "name": "Piano Sonata No. 4 in E-flat Major, Op. 7: Ii. Largo, con gran espressione",
+      "url": "https://open.spotify.com/track/4lXAO2pqFdPA0Ov3Ys0dpr"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Sonatas Nos. 4, 13, 22 and 19-20, Op. 49",
+        "url": "https://open.spotify.com/album/2iZIzqA8XAfSrbXccSsWvd"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479133,
+      "name": "Piano Sonata No. 4 in E-Flat Major, Op. 7: II. Largo, con gran espressione",
+      "url": "https://open.spotify.com/track/6tdaq4nCWeotTSenUAhAtL"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Piano Sonatas, Volume II",
+        "url": "https://open.spotify.com/album/3yG6WwxrY6WHFsSXjDymzH"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314186,
+      "name": "Piano Sonata No. 8 In C Minor, Op. 13 -\"Path\u00e9tique\": 2. Adagio cantabile - Live",
+      "url": "https://open.spotify.com/track/2zExp0TMKzbEkssEDJ7uf2"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Mondschein-Sonate \u2013 Meisterwerke",
+        "url": "https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 397773,
+      "name": "Piano Sonata No.14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/4KrBQ8fp7EiIsCcdnnXf2A"
+    },
+    {
+      "album": {
+        "name": "Beethoven, L. Van: Piano Trios, Vol. 2 - Piano Trios Nos. 1, 2, 9",
+        "url": "https://open.spotify.com/album/1XnP3WDHmZB7ls8lBg9D19"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Xyrion Trio",
+          "url": "https://open.spotify.com/artist/6DMl89Uj3Z4gySHC2WcB3d"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 454266,
+      "name": "Piano Trio No. 1 in E-Flat Major, Op. 1 No. 1: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/1heRa6ceJUqT4IU6GOSlzH"
+    },
+    {
+      "album": {
+        "name": "Beethoven For Study",
+        "url": "https://open.spotify.com/album/2jli5Dmx3lXCRXYUIW4w3m"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Xyrion Trio",
+          "url": "https://open.spotify.com/artist/6DMl89Uj3Z4gySHC2WcB3d"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 454266,
+      "name": "Piano Trio No. 1 in E-flat Major, Op. 1, No. 1: Ii. Adagio cantabile",
+      "url": "https://open.spotify.com/track/1bkf2BOxFVU1Fdy9ITkAqi"
+    },
+    {
+      "album": {
+        "name": "Beethoven, L. Van: Piano Trios, Vol. 2 - Piano Trios Nos. 1, 2, 9",
+        "url": "https://open.spotify.com/album/723468lykkh2i1igHuIom7"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Xyrion Trio",
+          "url": "https://open.spotify.com/artist/6DMl89Uj3Z4gySHC2WcB3d"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454266,
+      "name": "Piano Trio No. 1 in E-Flat Major, Op. 1, No. 1: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/3mEBp4pBNcklNLuMhtsdns"
+    },
+    {
+      "album": {
+        "name": "Beethoven, L. Van: Piano Trios, Vol. 1 - Piano Trios Nos. 5, 6, 10",
+        "url": "https://open.spotify.com/album/2Lv7XdysR34wAD21D6yMFT"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Xyrion Trio",
+          "url": "https://open.spotify.com/artist/6DMl89Uj3Z4gySHC2WcB3d"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 598360,
+      "name": "Piano Trio No. 5 in D Major, Op. 70 No. 1 \"Ghost\": II. Largo assai ed espressivo",
+      "url": "https://open.spotify.com/track/4ZEV00Q9Y0MXi0Ew7BMfJj"
+    },
+    {
+      "album": {
+        "name": "Beethoven, L. Van: Piano Trios, Vol. 1 - Piano Trios Nos. 5, 6, 10",
+        "url": "https://open.spotify.com/album/1EWQONQ1nhNrOy9lsX6PyZ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Xyrion Trio",
+          "url": "https://open.spotify.com/artist/6DMl89Uj3Z4gySHC2WcB3d"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598360,
+      "name": "Piano Trio No. 5 in D Major, Op. 70, No. 1, \"Ghost\": II. Largo assai ed espressivo",
+      "url": "https://open.spotify.com/track/3XsESeGukpUeraZQIL6Rtd"
+    },
+    {
+      "album": {
+        "name": "Beethoven For Relaxation",
+        "url": "https://open.spotify.com/album/7mEO1pzXkUy7TwTdxusYbM"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Xyrion Trio",
+          "url": "https://open.spotify.com/artist/6DMl89Uj3Z4gySHC2WcB3d"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 598360,
+      "name": "Piano Trio No. 5 in D Major, Op. 70, No. 1, \"ghost\": Ii. Largo assai ed espressivo",
+      "url": "https://open.spotify.com/track/5y6zcjyNC9syCnhRWnAmFL"
+    },
+    {
+      "album": {
+        "name": "Beethoven - 5th Symphony and beyond",
+        "url": "https://open.spotify.com/album/09oeA3SUKxYinUsGDRIJpA"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Thomas Zehetmair",
+          "url": "https://open.spotify.com/artist/3GOKMr4QNbiYzvNjjupsuW"
+        },
+        {
+          "name": "Frans Br\u00fcggen",
+          "url": "https://open.spotify.com/artist/1jhnnBVAie5Cj2IngkLSRc"
+        },
+        {
+          "name": "Orchestra Of The 18th Century",
+          "url": "https://open.spotify.com/artist/1yn4V7ppSO4KJ8amYxEcOa"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 459426,
+      "name": "Romance No. 2 in F Major for Violin and Orchestra, Op. 50",
+      "url": "https://open.spotify.com/track/2Yfp8Y0bhk4HPJtHlyOmmi"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Bagatelles and Dances, Vol. 3",
+        "url": "https://open.spotify.com/album/3x2DeJfUsJffpTHT76mUz2"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 340960,
+      "name": "Rondo in C Major, Op. 51, No. 1",
+      "url": "https://open.spotify.com/track/0YmWh1oHfO119SVR8dvFZJ"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Bagatelles and Dances, Vol. 3",
+        "url": "https://open.spotify.com/album/4PlKH0cVeDtIR7O6zBbAff"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340960,
+      "name": "Rondo in C Major, Op. 51, No. 1",
+      "url": "https://open.spotify.com/track/3Q7ugGdmbwgzlyAJqsXdux"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Chamber Music for Horns, Winds and Strings",
+        "url": "https://open.spotify.com/album/6Qhwxyn4jJHRtcUBQ7Fz0x"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "J\u00f3zsef Balogh",
+          "url": "https://open.spotify.com/artist/5WKy24cHPUnySLWwk8vceR"
+        },
+        {
+          "name": "Jozsef Vajda",
+          "url": "https://open.spotify.com/artist/2mpsEiXmTZrdtqHR5pEOwQ"
+        },
+        {
+          "name": "Jeno Kevehazi",
+          "url": "https://open.spotify.com/artist/69zER0tBs3f1AvOeAJSveN"
+        },
+        {
+          "name": "Ildiko Hegyi",
+          "url": "https://open.spotify.com/artist/7kn2JMtEbEcPV46Su5jtLb"
+        },
+        {
+          "name": "Gy\u00f6z\u00f6 M\u00e1th\u00e9",
+          "url": "https://open.spotify.com/artist/0sMYJBLkwdGwukyT7dJgBA"
+        },
+        {
+          "name": "P\u00e9ter Szab\u00f3",
+          "url": "https://open.spotify.com/artist/5JrRFwBNjAvIAQdONFFHo1"
+        },
+        {
+          "name": "Istvan Toth",
+          "url": "https://open.spotify.com/artist/0FHOSkpvBDHlhMg93HZQeM"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 521000,
+      "name": "Septet in E-Flat Major, Op. 20: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/47bBi7YOoKV9rv6enrosdA"
+    },
+    {
+      "album": {
+        "name": "Beethoven For Relaxation",
+        "url": "https://open.spotify.com/album/7mEO1pzXkUy7TwTdxusYbM"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "J\u00f3zsef Balogh",
+          "url": "https://open.spotify.com/artist/5WKy24cHPUnySLWwk8vceR"
+        },
+        {
+          "name": "Jozsef Vajda",
+          "url": "https://open.spotify.com/artist/2mpsEiXmTZrdtqHR5pEOwQ"
+        },
+        {
+          "name": "Jeno Kevehazi",
+          "url": "https://open.spotify.com/artist/69zER0tBs3f1AvOeAJSveN"
+        },
+        {
+          "name": "Ildiko Hegyi",
+          "url": "https://open.spotify.com/artist/7kn2JMtEbEcPV46Su5jtLb"
+        },
+        {
+          "name": "Gy\u00f6z\u00f6 M\u00e1th\u00e9",
+          "url": "https://open.spotify.com/artist/0sMYJBLkwdGwukyT7dJgBA"
+        },
+        {
+          "name": "P\u00e9ter Szab\u00f3",
+          "url": "https://open.spotify.com/artist/5JrRFwBNjAvIAQdONFFHo1"
+        },
+        {
+          "name": "Istvan Toth",
+          "url": "https://open.spotify.com/artist/0FHOSkpvBDHlhMg93HZQeM"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 521000,
+      "name": "Septet in E-flat Major, Op. 20: Ii. Adagio cantabile",
+      "url": "https://open.spotify.com/track/6ybdb0GoSbFCbLk3OUtBUH"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Chamber Music for Horns, Winds and Strings",
+        "url": "https://open.spotify.com/album/1Wmvid9DMr8fyqyW33wAHy"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "J\u00f3zsef Balogh",
+          "url": "https://open.spotify.com/artist/5WKy24cHPUnySLWwk8vceR"
+        },
+        {
+          "name": "Jozsef Vajda",
+          "url": "https://open.spotify.com/artist/2mpsEiXmTZrdtqHR5pEOwQ"
+        },
+        {
+          "name": "Jeno Kevehazi",
+          "url": "https://open.spotify.com/artist/69zER0tBs3f1AvOeAJSveN"
+        },
+        {
+          "name": "Ildiko Hegyi",
+          "url": "https://open.spotify.com/artist/7kn2JMtEbEcPV46Su5jtLb"
+        },
+        {
+          "name": "Gy\u00f6z\u00f6 M\u00e1th\u00e9",
+          "url": "https://open.spotify.com/artist/0sMYJBLkwdGwukyT7dJgBA"
+        },
+        {
+          "name": "P\u00e9ter Szab\u00f3",
+          "url": "https://open.spotify.com/artist/5JrRFwBNjAvIAQdONFFHo1"
+        },
+        {
+          "name": "Istvan Toth",
+          "url": "https://open.spotify.com/artist/0FHOSkpvBDHlhMg93HZQeM"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521000,
+      "name": "Septet in E-Flat Major, Op. 20: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/7rWdF5qabuzGx7hUV0XG4N"
+    },
+    {
+      "album": {
+        "name": "The Ergonomic Flute: Mozart Quartets K. 285 & K. 298, Beethoven Serenade Op. 25",
+        "url": "https://open.spotify.com/album/3cwkUka6E74y7BN7tiWT2D"
+      },
+      "artists": [
+        {
+          "name": "Aralee Dorough",
+          "url": "https://open.spotify.com/artist/38olTadZDTRkki6O922lwS"
+        },
+        {
+          "name": "Jennifer Owen",
+          "url": "https://open.spotify.com/artist/4A0Fz7Ms0zVDLodOHsNopD"
+        },
+        {
+          "name": "Linda Goldstein",
+          "url": "https://open.spotify.com/artist/2Q2gg67TlJlY9iMPMXy79V"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325400,
+      "name": "Serenade in D Major, Op. 25: II. Menuetto",
+      "url": "https://open.spotify.com/track/1Klr15b2roQ2aG35xwXTKe"
+    },
+    {
+      "album": {
+        "name": "The Ergonomic Flute: Mozart Quartets K. 285 & K. 298, Beethoven Serenade Op. 25",
+        "url": "https://open.spotify.com/album/3cwkUka6E74y7BN7tiWT2D"
+      },
+      "artists": [
+        {
+          "name": "Aralee Dorough",
+          "url": "https://open.spotify.com/artist/38olTadZDTRkki6O922lwS"
+        },
+        {
+          "name": "Jennifer Owen",
+          "url": "https://open.spotify.com/artist/4A0Fz7Ms0zVDLodOHsNopD"
+        },
+        {
+          "name": "Linda Goldstein",
+          "url": "https://open.spotify.com/artist/2Q2gg67TlJlY9iMPMXy79V"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386400,
+      "name": "Serenade in D Major, Op. 25: IV. Andante con variazioni",
+      "url": "https://open.spotify.com/track/5SbffUgh2yKQ3PVH4s9hgL"
+    },
+    {
+      "album": {
+        "name": "The Ergonomic Flute: Mozart Quartets K. 285 & K. 298, Beethoven Serenade Op. 25",
+        "url": "https://open.spotify.com/album/3cwkUka6E74y7BN7tiWT2D"
+      },
+      "artists": [
+        {
+          "name": "Aralee Dorough",
+          "url": "https://open.spotify.com/artist/38olTadZDTRkki6O922lwS"
+        },
+        {
+          "name": "Jennifer Owen",
+          "url": "https://open.spotify.com/artist/4A0Fz7Ms0zVDLodOHsNopD"
+        },
+        {
+          "name": "Linda Goldstein",
+          "url": "https://open.spotify.com/artist/2Q2gg67TlJlY9iMPMXy79V"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346573,
+      "name": "Serenade in D Major, Op. 25: VI. Adagio - Allegro vivace e disinvolto",
+      "url": "https://open.spotify.com/track/4ZcRZ6npyMwQCdxV5GvSxs"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Masterpieces Arranged for Woodwind Quintet, Vol. 3",
+        "url": "https://open.spotify.com/album/1enS3exAtGxtPUlX5JgkB3"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "The Israel Woodwind Quintet",
+          "url": "https://open.spotify.com/artist/5kKwi7hpzv3FWzriTtTN8I"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240213,
+      "name": "Sextet in E-Flat Major, Op. 71: II. Adagio",
+      "url": "https://open.spotify.com/track/3BD0FVZhc0vMjjL3mSXMy9"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Works for Piano & Cello",
+        "url": "https://open.spotify.com/album/11YquqSJiRgbYl1c4NufA0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Adrian Brendel",
+          "url": "https://open.spotify.com/artist/1eRJUh6hSr6p0aedjNQVZH"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 519106,
+      "name": "Sonata for Cello and Piano No. 3 in A, Op. 69: 3. Adagio cantabile - Allegro vivace",
+      "url": "https://open.spotify.com/track/4bOm9kjSbkskc4xfuelshT"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Cello Sonatas Op.69 & 102; Variations",
+        "url": "https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Sonata for Cello and Piano No. 4 in C Major, Op. 102 No. 1: I. Andante",
+      "url": "https://open.spotify.com/track/0EKPj41uhOc0r0UjkKbjsm"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Cello Sonatas Op.69 & 102; Variations",
+        "url": "https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "Sonata for Cello and Piano No. 4 in C Major, Op. 102 No. 1: III. Adagio",
+      "url": "https://open.spotify.com/track/4PcrM8TwgW6XP2uSGdQMtB"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/6MvXLGAsLZe47GptzKW4io"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Pierre Fouchenneret",
+          "url": "https://open.spotify.com/artist/37hnZPP7c01W6gNy5Bht0G"
+        },
+        {
+          "name": "Romain Descharmes",
+          "url": "https://open.spotify.com/artist/1rNgOH3BbQuNhS9XXFExVy"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490066,
+      "name": "Sonata for Piano and Violin No. 8 in G Major, Op. 30: II. Tempo di minuetto, ma molto moderato e grazioso",
+      "url": "https://open.spotify.com/track/1DeD5nWwXFbS0nSdn1yopQ"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets op. 59 Razumovsky, String Quintet op. 29",
+        "url": "https://open.spotify.com/album/314YCg4WdDHhfSuNA3HBMo"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kuijken Quartet",
+          "url": "https://open.spotify.com/artist/6ZgJN2Fudq5ouSmruHpazL"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 698906,
+      "name": "String Quartet in e minor op. 59 no. 2: Molto Adagio",
+      "url": "https://open.spotify.com/track/7j85NhBBa3vZPLd0Ahxg99"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets op. 59 Razumovsky, String Quintet op. 29",
+        "url": "https://open.spotify.com/album/314YCg4WdDHhfSuNA3HBMo"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kuijken Quartet",
+          "url": "https://open.spotify.com/artist/6ZgJN2Fudq5ouSmruHpazL"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616813,
+      "name": "String Quartet in F major op. 59 no. 1: Adagio molto e mesto",
+      "url": "https://open.spotify.com/track/1LFshblNG5R1mtzWLjfeFm"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets Vol.3",
+        "url": "https://open.spotify.com/album/24eQortKxKCap4wgrVG2g8"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Tak\u00e1cs Quartet",
+          "url": "https://open.spotify.com/artist/5DwQvVHPVspRvStEAN722N"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294013,
+      "name": "String Quartet No. 11 in F Minor, Op. 95 \"Serioso\": 4. Larghetto espressivo - Allegretto agitato",
+      "url": "https://open.spotify.com/track/2jPcNGd7nJK7nwK7rHIifm"
+    },
+    {
+      "album": {
+        "name": "Relaxing Beethoven",
+        "url": "https://open.spotify.com/album/2KeTf5u7JZ9pBsGtVyXlMp"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 377640,
+      "name": "String Quartet No. 13 in B-flat Major, Op. 130: V. Cavatina, Adagio molto espressivo",
+      "url": "https://open.spotify.com/track/1Ci2oLF31udrDX657lSFQF"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartet, Op. 130 / Grosse Fuge, Op. 133",
+        "url": "https://open.spotify.com/album/0krnbGAhvaPRaxT8nTGqNm"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 377640,
+      "name": "String Quartet No. 13 in B-Flat Major, Op. 130: V. Cavatina. Adagio molto espressivo",
+      "url": "https://open.spotify.com/track/5RDijjvQiE5RsrheSri07z"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartet, Op. 130 / Grosse Fuge, Op. 133",
+        "url": "https://open.spotify.com/album/3xsm3PYh1W3WrLiUdTqdBy"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377640,
+      "name": "String Quartet No. 13 in B-Flat Major, Op. 130: V. Cavatina: Adagio molto espressivo",
+      "url": "https://open.spotify.com/track/5oDPnB6zzK3RA9tJNJQInW"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets Vol.3",
+        "url": "https://open.spotify.com/album/24eQortKxKCap4wgrVG2g8"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Tak\u00e1cs Quartet",
+          "url": "https://open.spotify.com/artist/5DwQvVHPVspRvStEAN722N"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137453,
+      "name": "String Quartet No. 14 in C-Sharp Minor, Op. 131: 6. Adagio quasi un poco andante",
+      "url": "https://open.spotify.com/track/2QCzob1lnCHR1QtoWQzGKF"
+    },
+    {
+      "album": {
+        "name": "String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantante e tranquillo",
+        "url": "https://open.spotify.com/album/5zNMAGhEGoxklQKkgihV2W"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Calidore String Quartet",
+          "url": "https://open.spotify.com/artist/3q8iHBIrW7qIsaZpVcskMf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468893,
+      "name": "String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantante e tranquillo",
+      "url": "https://open.spotify.com/track/2v3lr8t2JiRx6fp3CZHJIU"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets, Opp. 135 and 131",
+        "url": "https://open.spotify.com/album/6nZKQlSS5ZkUKR0GUNnaQV"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 399400,
+      "name": "String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantante e tranquillo",
+      "url": "https://open.spotify.com/track/2D8nE4qdpIipTHLd7i6bk2"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets, Opp. 135 and 131",
+        "url": "https://open.spotify.com/album/3aC9z2Ybgg9oG7Igb6ZJoI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 399400,
+      "name": "String Quartet No. 16 in F Major, Op. 135: III. Lento assai, cantante e tranquillo",
+      "url": "https://open.spotify.com/track/6UpmewmdwOcLSj95jqB9e3"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets, Op. 18",
+        "url": "https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jerusalem Quartet",
+          "url": "https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362666,
+      "name": "String Quartet No. 2 in G Major, Op. 18, No. 2: II. Adagio cantabile - Allegro",
+      "url": "https://open.spotify.com/track/7v0g3biHWMpypyv0hfxroQ"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets, Op. 18",
+        "url": "https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jerusalem Quartet",
+          "url": "https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425440,
+      "name": "String Quartet No. 3 in D Major, Op. 18: II. Andante con moto",
+      "url": "https://open.spotify.com/track/0o3Mcv1JOPsrnc3wBROq2S"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets Op. 18, Nos. 5 and 6",
+        "url": "https://open.spotify.com/album/2wMj9JLyfbCySsyQLaflqr"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615413,
+      "name": "String Quartet No. 5 in A Major, Op. 18, No. 5: III. Andante cantabile",
+      "url": "https://open.spotify.com/track/53lHlCITMhyHcVtpB24IAL"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets, Op. 18, Nos. 5 and 6",
+        "url": "https://open.spotify.com/album/5ELCTASRNMg1JoxMlVtKlT"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 615413,
+      "name": "String Quartet No. 5 in A Major, Op. 18: III. Andante cantabile",
+      "url": "https://open.spotify.com/track/0d5orhHYTTrIFZeLB1coQO"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets, Op. 18, Nos. 5 and 6",
+        "url": "https://open.spotify.com/album/1C4Q0DhprOBpXB4uxYaSBE"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 615413,
+      "name": "String Quartet No. 5 in A Major, Op. 18: III. Andante cantabile - Poco adagio",
+      "url": "https://open.spotify.com/track/3zsFsLZ8L0vMAoI6wFCOZv"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets, Op. 18",
+        "url": "https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jerusalem Quartet",
+          "url": "https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389413,
+      "name": "String Quartet No. 6 in B-Flat Major, Op. 18 No. 6: II. Adagio ma non troppo",
+      "url": "https://open.spotify.com/track/5haDu6D9Afpa5GIt5wVWMb"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Middle Quartets",
+        "url": "https://open.spotify.com/album/06xEz1594T4WfXj0gTsFo7"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Tak\u00e1cs Quartet",
+          "url": "https://open.spotify.com/artist/5DwQvVHPVspRvStEAN722N"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 800906,
+      "name": "String Quartet No. 7 in F Major, Op. 59 No. 1 \"Rasumovsky No. 1\": 3. Adagio molto e mesto",
+      "url": "https://open.spotify.com/track/5Uvb0MwIE0eASAwUA140yQ"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quintets Complete",
+        "url": "https://open.spotify.com/album/5JrMMjs5IvLmZBmjeNmkSq"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "The Zurich String Quintet",
+          "url": "https://open.spotify.com/artist/1nbyeXbrlwYdGMFGF44Es3"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563520,
+      "name": "String Quintet in C Major, Op. 29: II. Adagio molto espressivo",
+      "url": "https://open.spotify.com/track/0pQ3Ty0kLK9jMLAUr6rcY2"
+    },
+    {
+      "album": {
+        "name": "Beethoven 2020 \u2013 Chamber Music 4: Large Works",
+        "url": "https://open.spotify.com/album/28qTdaxrfBM4cT6xVl75BQ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Lindsay String Quartet",
+          "url": "https://open.spotify.com/artist/7aYm3WwTfGcibcsqRJ4OpE"
+        },
+        {
+          "name": "Louise Williams",
+          "url": "https://open.spotify.com/artist/1DjsT0SK40JPkZhn1mKTek"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479413,
+      "name": "String Quintet in C Minor, Op. 104: 2. Andante cantabile con variazioni",
+      "url": "https://open.spotify.com/track/6gSw5IMAkQhq5tPJyam7kz"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartet, Op.132 & String Quintet, Op.104",
+        "url": "https://open.spotify.com/album/5PoVA8vwi5AVwQ898FS4ga"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Lindsay String Quartet",
+          "url": "https://open.spotify.com/artist/7aYm3WwTfGcibcsqRJ4OpE"
+        },
+        {
+          "name": "Louise Williams",
+          "url": "https://open.spotify.com/artist/1DjsT0SK40JPkZhn1mKTek"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 477706,
+      "name": "String Quintet in C Minor, Op.104: II. Andante cantabile con variazioni",
+      "url": "https://open.spotify.com/track/0Fwj48PEm0yBdlrBtBzr9s"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete String Trios, Vol. 2",
+        "url": "https://open.spotify.com/album/1WBPGlNibvN2xLjyUphMW0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Attila Falvay",
+          "url": "https://open.spotify.com/artist/1oKGqfZZIKhLTDT4DPTGlJ"
+        },
+        {
+          "name": "J\u00e1nos Fej\u00e9rv\u00e1ri",
+          "url": "https://open.spotify.com/artist/66yUzRFsOSqkZZdeEsSgJg"
+        },
+        {
+          "name": "Gy\u00f6rgy \u00c9der",
+          "url": "https://open.spotify.com/artist/4XHhE7n0kj7r0jnXJEd9Gl"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 412373,
+      "name": "String Trio in G Major, Op. 9, No. 1: II. Adagio, ma non tanto, e cantabile",
+      "url": "https://open.spotify.com/track/0WfBNpCVhhhcz4iYAHZlnD"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete String Trios, Vol. 2",
+        "url": "https://open.spotify.com/album/6vb8AZpdtvEfYoj5pIkZDa"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Attila Falvay",
+          "url": "https://open.spotify.com/artist/1oKGqfZZIKhLTDT4DPTGlJ"
+        },
+        {
+          "name": "J\u00e1nos Fej\u00e9rv\u00e1ri",
+          "url": "https://open.spotify.com/artist/66yUzRFsOSqkZZdeEsSgJg"
+        },
+        {
+          "name": "Gy\u00f6rgy \u00c9der",
+          "url": "https://open.spotify.com/artist/4XHhE7n0kj7r0jnXJEd9Gl"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412373,
+      "name": "String Trio in G Major, Op. 9, No. 1: II. Adagio, ma non tanto, e cantabile",
+      "url": "https://open.spotify.com/track/2CtvwBpTeygNT6krWxkSpC"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphonies Nos. 3 & 8",
+        "url": "https://open.spotify.com/album/3fIzjKBmq31J8BwjAfQkyD"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        },
+        {
+          "name": "B\u00e9la Drahos",
+          "url": "https://open.spotify.com/artist/2eqNsX66FyKi3bnl1KSqZz"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 771573,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": II. Marcia funebre: Adagio assai",
+      "url": "https://open.spotify.com/track/6CxsLfLg6IcL3BnHo8e6lE"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphonies Nos. 3 & 8",
+        "url": "https://open.spotify.com/album/4HLl7EUm9DX3QzxVIv3SEn"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        },
+        {
+          "name": "B\u00e9la Drahos",
+          "url": "https://open.spotify.com/artist/2eqNsX66FyKi3bnl1KSqZz"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 771573,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": II. Marcia funebre: Adagio assai",
+      "url": "https://open.spotify.com/track/6v5MB7DHsMABfLkj3ggXgh"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Complete Symphonies, Concertos & Overtures",
+        "url": "https://open.spotify.com/album/1pT8LeplxCOuzZv3iHkwqu"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        },
+        {
+          "name": "B\u00e9la Drahos",
+          "url": "https://open.spotify.com/artist/2eqNsX66FyKi3bnl1KSqZz"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 771573,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 55, \"Eroica\": II. Marcia funebre: Adagio assai",
+      "url": "https://open.spotify.com/track/4ICgQTtM0srYjtOHMbloa1"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphonies Nos. 1 and 6",
+        "url": "https://open.spotify.com/album/2RN9UQZpAsNzdveUborwMF"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        },
+        {
+          "name": "B\u00e9la Drahos",
+          "url": "https://open.spotify.com/artist/2eqNsX66FyKi3bnl1KSqZz"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 725173,
+      "name": "Symphony No. 6 in F Major, Op. 68 \"Pastoral\": II. Scene by the Brook. Andante molto mosso",
+      "url": "https://open.spotify.com/track/2XnEXSlHLYlzAEYUct5soU"
+    },
+    {
+      "album": {
+        "name": "Beethoven For Meditation (Swedish Edition)",
+        "url": "https://open.spotify.com/album/7wCYixXhP8Rf2xGarGHlgZ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        },
+        {
+          "name": "B\u00e9la Drahos",
+          "url": "https://open.spotify.com/artist/2eqNsX66FyKi3bnl1KSqZz"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 724440,
+      "name": "Symphony No. 6 in F Major, Op. 68, \"Pastoral\": II. Scene by the brook: Andante molto mosso",
+      "url": "https://open.spotify.com/track/0LX2Tg25P4lVfAILkI68Ee"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphonies Nos. 1 and 6",
+        "url": "https://open.spotify.com/album/0MXwaheGqU2KdpvJIcgCua"
+      },
+      "artists": [
+        {
+          "name": "Nicolaus Esterhazy Sinfonia",
+          "url": "https://open.spotify.com/artist/4F35SEDIS2NLiCp7CNLQ5z"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 725173,
+      "name": "Symphony No. 6 in F major, Op. 68, \"Pastoral\": II. Scene by the brook: Andante molto mosso",
+      "url": "https://open.spotify.com/track/2eHIu7Mu9zrr9DUPPTxhVh"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphony No.9",
+        "url": "https://open.spotify.com/album/2J30o5yqvwrIhmrOjTrVux"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 771320,
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": III. Adagio molto e cantabile",
+      "url": "https://open.spotify.com/track/69nDKRbYZLGNEkPhImEVGB"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Trios, Op. 1 - Hache: Desinstalation (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34B3UU8P8kXbIQob7QHZ7b"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Trio Leos",
+          "url": "https://open.spotify.com/artist/0b3QQXX92rqlAwimItM4Cf"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 493426,
+      "name": "Trio No. 3, Op. 1: II. Andante cantabile con variazoni",
+      "url": "https://open.spotify.com/track/0NKN1ApQ0LouHCNjPgMIcT"
+    },
+    {
+      "album": {
+        "name": "Beethoven (Piano trios opus 1)",
+        "url": "https://open.spotify.com/album/0UWtIMJh4whTz7oxCW7f24"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Trio Leos",
+          "url": "https://open.spotify.com/artist/0b3QQXX92rqlAwimItM4Cf"
+        },
+        {
+          "name": "Pablo Schatzman",
+          "url": "https://open.spotify.com/artist/6ODub5WwbfKPCCehgAFwSD"
+        },
+        {
+          "name": "Guillaume Lafeuille",
+          "url": "https://open.spotify.com/artist/59Z0nIigcxqk3uMJqlwSu3"
+        },
+        {
+          "name": "Jean-Michel Dayez",
+          "url": "https://open.spotify.com/artist/5aGzQSI3ooUL5HnVbUz171"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493426,
+      "name": "Trio n\u00b03, Op. 1: II. Andante cantabile con variazoni",
+      "url": "https://open.spotify.com/track/0utSHnvdKwf0KjVtE3PYmt"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/32lTEorUOicJuDmtj62Qta"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Fran\u00e7ois-Fr\u00e9d\u00e9ric Guy",
+          "url": "https://open.spotify.com/artist/1Rv0oczuL34paXAoXroxS2"
+        },
+        {
+          "name": "Tedi Papavrami",
+          "url": "https://open.spotify.com/artist/0xaTkrfbVvc8hGXuANRu8X"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365173,
+      "name": "Violin and Piano Sonata No. 3 in E-Flat, Op. 12 No. 3: II. Adagio con molto espressione",
+      "url": "https://open.spotify.com/track/5QeeA72iQYuIOzZMASxyIG"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/4FNbcd6j7MNf5FRMyYeWoK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Tedi Papavrami",
+          "url": "https://open.spotify.com/artist/0xaTkrfbVvc8hGXuANRu8X"
+        },
+        {
+          "name": "Fran\u00e7ois-Fr\u00e9d\u00e9ric Guy",
+          "url": "https://open.spotify.com/artist/1Rv0oczuL34paXAoXroxS2"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 365173,
+      "name": "Violin and Piano Sonata No. 3 in E-Flat, Op. 12 No. 3: II. Adagio con molt\u2019 espressione",
+      "url": "https://open.spotify.com/track/74KyJq5tPlLbDg81uP2Aj6"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/32lTEorUOicJuDmtj62Qta"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Fran\u00e7ois-Fr\u00e9d\u00e9ric Guy",
+          "url": "https://open.spotify.com/artist/1Rv0oczuL34paXAoXroxS2"
+        },
+        {
+          "name": "Tedi Papavrami",
+          "url": "https://open.spotify.com/artist/0xaTkrfbVvc8hGXuANRu8X"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423413,
+      "name": "Violin and Piano Sonata No. 6 in A, Op. 30 No. 1: II. Adagio molto espressivo",
+      "url": "https://open.spotify.com/track/6YsAPbJbziloUDoKj7DQjW"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/4FNbcd6j7MNf5FRMyYeWoK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Tedi Papavrami",
+          "url": "https://open.spotify.com/artist/0xaTkrfbVvc8hGXuANRu8X"
+        },
+        {
+          "name": "Fran\u00e7ois-Fr\u00e9d\u00e9ric Guy",
+          "url": "https://open.spotify.com/artist/1Rv0oczuL34paXAoXroxS2"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 423413,
+      "name": "Violin and Piano Sonata No. 6 in A, Op. 30 No. 1: II. Adagio molto espressivo",
+      "url": "https://open.spotify.com/track/3kfLya6gpevgd05lqFpuya"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/32lTEorUOicJuDmtj62Qta"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Fran\u00e7ois-Fr\u00e9d\u00e9ric Guy",
+          "url": "https://open.spotify.com/artist/1Rv0oczuL34paXAoXroxS2"
+        },
+        {
+          "name": "Tedi Papavrami",
+          "url": "https://open.spotify.com/artist/0xaTkrfbVvc8hGXuANRu8X"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498533,
+      "name": "Violin and Piano Sonata No. 7 in C Minor, Op. 30 No. 2: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/2qxNkoM5bhISl2HBYB8pl7"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/4FNbcd6j7MNf5FRMyYeWoK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Tedi Papavrami",
+          "url": "https://open.spotify.com/artist/0xaTkrfbVvc8hGXuANRu8X"
+        },
+        {
+          "name": "Fran\u00e7ois-Fr\u00e9d\u00e9ric Guy",
+          "url": "https://open.spotify.com/artist/1Rv0oczuL34paXAoXroxS2"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 498533,
+      "name": "Violin and Piano Sonata No. 7 in C Minor, Op. 30 No. 2: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/2ToHOtu0UE7ZSErLyR3WuC"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Concerto op.61; Violin Sonata op.47 'Kreutzer'",
+        "url": "https://open.spotify.com/album/4J6lGlZRjK1Hfwrz9qqQbh"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Vadim Repin",
+          "url": "https://open.spotify.com/artist/5AU4WeTDl2uf1jFw2w9FQT"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600986,
+      "name": "Violin Concerto In D, Op. 61: 2. Larghetto -",
+      "url": "https://open.spotify.com/track/1DGH0P0sm6avbRggzjvWTx"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Concerto; \"Kreutzer\" Sonata",
+        "url": "https://open.spotify.com/album/5GLH37zGL6yhyiC346f6Ae"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Vadim Repin",
+          "url": "https://open.spotify.com/artist/5AU4WeTDl2uf1jFw2w9FQT"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 601000,
+      "name": "Violin Concerto In D, Op. 61: 2. Larghetto -",
+      "url": "https://open.spotify.com/track/2aapVsnqPkQbJ3RqeIjkUR"
+    },
+    {
+      "album": {
+        "name": "Bravo Beethoven",
+        "url": "https://open.spotify.com/album/5rZiuYQgWzfrSXTrV4W1Eh"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Vadim Repin",
+          "url": "https://open.spotify.com/artist/5AU4WeTDl2uf1jFw2w9FQT"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 601400,
+      "name": "Violin Concerto In D, Op. 61: 2. Larghetto -",
+      "url": "https://open.spotify.com/track/4B2gClgMsTtZvbE7cr0MAK"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Concerto, Op. 61; Violin Romances, Op. 40 & Op.50",
+        "url": "https://open.spotify.com/album/7Cu0CSnE3TbHpVNz2p9gFO"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393333,
+      "name": "Violin Romance No. 1 In G Major, Op. 40",
+      "url": "https://open.spotify.com/track/0T7K3VnOeKjrJeisfJZLra"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Classical Academia",
+        "url": "https://open.spotify.com/album/5SRPJgMihJ3XNL9BevUiBv"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 393333,
+      "name": "Violin Romance No. 1 In G Major, Op. 40",
+      "url": "https://open.spotify.com/track/1DnXGy3WUiLE4JtUTeJzSz"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concerto after the Violin Concerto; Violin Romances",
+        "url": "https://open.spotify.com/album/5OOdHop213t2zDNTykriP3"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 394640,
+      "name": "Violin Romance No. 1 In G Major, Op. 40",
+      "url": "https://open.spotify.com/track/6PvNbpPdHtKi4b2i3VXp17"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Classical Hits",
+        "url": "https://open.spotify.com/album/3ky6QeHkkEB8XD507PnsOP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Thomas Zehetmair",
+          "url": "https://open.spotify.com/artist/3GOKMr4QNbiYzvNjjupsuW"
+        },
+        {
+          "name": "Orchestra Of The 18th Century",
+          "url": "https://open.spotify.com/artist/1yn4V7ppSO4KJ8amYxEcOa"
+        },
+        {
+          "name": "Frans Br\u00fcggen",
+          "url": "https://open.spotify.com/artist/1jhnnBVAie5Cj2IngkLSRc"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 454293,
+      "name": "Violin Romance No. 2 in F major, Op. 50 - Live In Enschede",
+      "url": "https://open.spotify.com/track/3uR0muELIsluumuaohLJ3R"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Concerto; 2 Romances",
+        "url": "https://open.spotify.com/album/1bxeRuWHMz7R8tPANkdc6A"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Thomas Zehetmair",
+          "url": "https://open.spotify.com/artist/3GOKMr4QNbiYzvNjjupsuW"
+        },
+        {
+          "name": "Orchestra Of The 18th Century",
+          "url": "https://open.spotify.com/artist/1yn4V7ppSO4KJ8amYxEcOa"
+        },
+        {
+          "name": "Frans Br\u00fcggen",
+          "url": "https://open.spotify.com/artist/1jhnnBVAie5Cj2IngkLSRc"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459426,
+      "name": "Violin Romance No. 2 in F major, Op. 50 - Live In Enschede",
+      "url": "https://open.spotify.com/track/4VtpIXzO1NfrrAILQOhMM8"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Violin Concerto In D Minor, Op.47 / Beethoven: Violin Romance No.1 In G Major / Brahms: Violin Concerto In D, Op.77 (The Originals)",
+        "url": "https://open.spotify.com/album/5NiRPUBfIRVKGdiCnhAtdp"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 393253,
+      "name": "Violin Romance No.1 In G Major, Op.40",
+      "url": "https://open.spotify.com/track/2S3qN8s6dS8QR5PthnqI2P"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Sonatas, Vol. 2 (Wigmore Hall Live)",
+        "url": "https://open.spotify.com/album/4D03dzwEM7dzE1mfdAkqUk"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Alina Ibragimova",
+          "url": "https://open.spotify.com/artist/6etYlNivtzkxl1W0826xd2"
+        },
+        {
+          "name": "C\u00e9dric Tiberghien",
+          "url": "https://open.spotify.com/artist/0sMptzkewzs9B6zO9UqUug"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312333,
+      "name": "Violin Sonata in A Major, Op. 12, No. 2: II. Andante, pi\u00f9 tosto allegretto - Live",
+      "url": "https://open.spotify.com/track/6gaaO15YVcpbDChMJhRO7m"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/755VZ4706gJnFl1HfO8KIK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388560,
+      "name": "Violin Sonata No. 1 in D Major, Op. 12 No. 1: II. Tema con variazioni (Andante con moto)",
+      "url": "https://open.spotify.com/track/5yut0tnLldiJkklHlAz3ka"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Sonatas Op. 12, Nos. 1-3",
+        "url": "https://open.spotify.com/album/63twvFNzyGa5Xtnwt6wPzT"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 443240,
+      "name": "Violin Sonata No. 1 in D Major, Op. 12 No. 1: II. Theme and Variations. Andante con moto",
+      "url": "https://open.spotify.com/track/4yYkowDjUM5WyRrclBvjir"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Sonatas Op. 12, Nos. 1-3",
+        "url": "https://open.spotify.com/album/4hHqWnl38h31Fz3sqhgAHF"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443240,
+      "name": "Violin Sonata No. 1 in D Major, Op. 12, No. 1: Tema con variazioni",
+      "url": "https://open.spotify.com/track/68RZHhBmi4w0cMAee9jBj3"
+    },
+    {
+      "album": {
+        "name": "Celebrate Beethoven: Chamber",
+        "url": "https://open.spotify.com/album/28wGOhhwLujou71oR3yr3q"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 375400,
+      "name": "Violin Sonata No. 10 in G Major, Op. 96 \"Cock-Crow\": II. Adagio espressivo",
+      "url": "https://open.spotify.com/track/5GPOzm5mQBgLRivVlYdR5u"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Sonatas Opp. 23 and 96 / 12 Variations",
+        "url": "https://open.spotify.com/album/5L9f4OLNgvZJ1K7I5Ixv5W"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 375400,
+      "name": "Violin Sonata No. 10 in G Major, Op. 96: II. Adagio espressivo",
+      "url": "https://open.spotify.com/track/3Syamumd6HfzNa3sg9Hu8o"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Sonatas Opp. 23 and 96 / 12 Variations",
+        "url": "https://open.spotify.com/album/7mxE8AAe1tshck9KkEyyfd"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375400,
+      "name": "Violin Sonata No. 10 in G Major, Op. 96: II. Adagio espressivo",
+      "url": "https://open.spotify.com/track/5sQjTcfc8EwCcV85pNGPbR"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas for Piano & Violin",
+        "url": "https://open.spotify.com/album/755VZ4706gJnFl1HfO8KIK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295586,
+      "name": "Violin Sonata No. 2 in A Major, Op. 12 No. 2: II. Andante, pi\u00f9 tosto allegretto",
+      "url": "https://open.spotify.com/track/2ZYjtBKb3a6jDIBveBiGDR"
+    },
+    {
+      "album": {
+        "name": "Beethoven Violin Sonatas 2: Alina Ibragimova & C\u00e9dric Tiberghien - Wigmore Hall Live",
+        "url": "https://open.spotify.com/album/0E0Fzkjr6Zdstohj4pcmVW"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Alina Ibragimova",
+          "url": "https://open.spotify.com/artist/6etYlNivtzkxl1W0826xd2"
+        },
+        {
+          "name": "C\u00e9dric Tiberghien",
+          "url": "https://open.spotify.com/artist/0sMptzkewzs9B6zO9UqUug"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 312333,
+      "name": "Violin Sonata No. 2 in A, Op. 12: No. 2 - Andante piu tosto allegretto",
+      "url": "https://open.spotify.com/track/2har8mF0vE5j22P69bMxpP"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Sonatas Nos. 5 and 9",
+        "url": "https://open.spotify.com/album/5nvUImz1VCDS8yAqRXz3jo"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 345800,
+      "name": "Violin Sonata No. 5 in F Major, Op. 24 \"Spring\": II. Adagio molto espressivo",
+      "url": "https://open.spotify.com/track/3sAiyjJ9EbYV8L4bSrdROa"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Adagio",
+        "url": "https://open.spotify.com/album/5lpQcm9aqvOvy3j6NY6DYq"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 348506,
+      "name": "Violin Sonata No. 5 in F Major, Op. 24, \"Spring\": Adagio molto espressivo",
+      "url": "https://open.spotify.com/track/2r8CUMfe4m0cfjOdbuUdQT"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Sonatas Nos. 5 And 9",
+        "url": "https://open.spotify.com/album/1nt8wWsVhbwbrINSI3Abyt"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345800,
+      "name": "Violin Sonata No. 5 In F Major, Op. 24, \"Spring\": II. Adagio Molto Espressivo",
+      "url": "https://open.spotify.com/track/6Njmwr5VS65o8I00avSZvB"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Sonatas Nos. 6, 7 & 8",
+        "url": "https://open.spotify.com/album/2DFZHCiuXd9gsIfVTPMzgR"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Andrew Wan",
+          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
+        },
+        {
+          "name": "Charles Richard-Hamelin",
+          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529040,
+      "name": "Violin Sonata No. 7 in C Minor, Op. 30, No. 2: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/6D9RllfKTPFOGbKFZsvYzG"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Chamber Music for Horns, Winds and Strings",
+        "url": "https://open.spotify.com/album/1Wmvid9DMr8fyqyW33wAHy"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Ott\u00f3 R\u00e1cz",
+          "url": "https://open.spotify.com/artist/29K3KFah5KwkXAXgFUxz8o"
+        },
+        {
+          "name": "Jozsef Vajda",
+          "url": "https://open.spotify.com/artist/2mpsEiXmTZrdtqHR5pEOwQ"
+        },
+        {
+          "name": "S\u00e1ndor Berki",
+          "url": "https://open.spotify.com/artist/67AxY6bRRMB32PxGkObf3Y"
+        },
+        {
+          "name": "J\u00e1nos Keveh\u00e1zi",
+          "url": "https://open.spotify.com/artist/6osnx8WSs1oNzaUArgf8Vn"
+        },
+        {
+          "name": "Jeno Kevehazi",
+          "url": "https://open.spotify.com/artist/69zER0tBs3f1AvOeAJSveN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "Wind Quintet in E-Flat Major, Hess 19: II. Adagio maestoso",
+      "url": "https://open.spotify.com/track/5TGCJDjLkKg05iT1ajUE1w"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Chamber Music for Horns, Winds and Strings",
+        "url": "https://open.spotify.com/album/6Qhwxyn4jJHRtcUBQ7Fz0x"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Ott\u00f3 R\u00e1cz",
+          "url": "https://open.spotify.com/artist/29K3KFah5KwkXAXgFUxz8o"
+        },
+        {
+          "name": "Jozsef Vajda",
+          "url": "https://open.spotify.com/artist/2mpsEiXmTZrdtqHR5pEOwQ"
+        },
+        {
+          "name": "S\u00e1ndor Berki",
+          "url": "https://open.spotify.com/artist/67AxY6bRRMB32PxGkObf3Y"
+        },
+        {
+          "name": "J\u00e1nos Keveh\u00e1zi",
+          "url": "https://open.spotify.com/artist/6osnx8WSs1oNzaUArgf8Vn"
+        },
+        {
+          "name": "Jeno Kevehazi",
+          "url": "https://open.spotify.com/artist/69zER0tBs3f1AvOeAJSveN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232333,
+      "name": "Wind Quintet in E-Flat Major, WoO 208, Hess 19: II. Adagio maestoso",
+      "url": "https://open.spotify.com/track/0c11dbNvZuY1pXL6VybKBh"
+    },
+    {
+      "album": {
+        "name": "Beethoven For Study",
+        "url": "https://open.spotify.com/album/2jli5Dmx3lXCRXYUIW4w3m"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Ott\u00f3 R\u00e1cz",
+          "url": "https://open.spotify.com/artist/29K3KFah5KwkXAXgFUxz8o"
+        },
+        {
+          "name": "Jozsef Vajda",
+          "url": "https://open.spotify.com/artist/2mpsEiXmTZrdtqHR5pEOwQ"
+        },
+        {
+          "name": "S\u00e1ndor Berki",
+          "url": "https://open.spotify.com/artist/67AxY6bRRMB32PxGkObf3Y"
+        },
+        {
+          "name": "J\u00e1nos Keveh\u00e1zi",
+          "url": "https://open.spotify.com/artist/6osnx8WSs1oNzaUArgf8Vn"
+        },
+        {
+          "name": "Jeno Kevehazi",
+          "url": "https://open.spotify.com/artist/69zER0tBs3f1AvOeAJSveN"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232333,
+      "name": "Wind Quintet in E-flat Major, Woo 208, Hess 19: Ii. Adagio maestoso",
+      "url": "https://open.spotify.com/track/2horokZAwTDOZSGwg0NPZ3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdTVW77weWfh"
 }

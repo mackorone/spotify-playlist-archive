@@ -1,395 +1,1139 @@
 {
-  "2022-12-03": 78640,
-  "2022-12-04": 89629,
-  "2022-12-05": 95153,
-  "2022-12-06": 98065,
-  "2022-12-07": 100843,
-  "2022-12-08": 104674,
-  "2022-12-09": 107656,
-  "2022-12-10": 109940,
-  "2022-12-11": 111836,
-  "2022-12-12": 113813,
-  "2022-12-13": 115435,
-  "2022-12-14": 117054,
-  "2022-12-15": 118603,
-  "2022-12-16": 120347,
-  "2022-12-17": 122178,
-  "2022-12-18": 124371,
-  "2022-12-19": 126534,
-  "2022-12-20": 129959,
-  "2022-12-21": 129959,
-  "2022-12-22": 131419,
-  "2022-12-24": 133875,
-  "2022-12-25": 134969,
-  "2022-12-26": 135872,
-  "2022-12-27": 137003,
-  "2022-12-28": 138238,
-  "2022-12-29": 139409,
-  "2022-12-30": 140587,
-  "2022-12-31": 141551,
-  "2023-01-01": 142516,
-  "2023-01-02": 143373,
-  "2023-01-03": 144491,
-  "2023-01-04": 145509,
-  "2023-01-05": 146648,
-  "2023-01-06": 147988,
-  "2023-01-07": 149612,
-  "2023-01-08": 149862,
-  "2023-01-09": 150929,
-  "2023-01-10": 151972,
-  "2023-01-11": 153103,
-  "2023-01-12": 154267,
-  "2023-01-13": 155441,
-  "2023-01-14": 157849,
-  "2023-01-15": 158047,
-  "2023-01-16": 159200,
-  "2023-01-17": 160221,
-  "2023-01-18": 161057,
-  "2023-01-19": 161986,
-  "2023-01-20": 162872,
-  "2023-01-21": 163695,
-  "2023-01-22": 164589,
-  "2023-01-23": 165520,
-  "2023-01-24": 166363,
-  "2023-01-25": 167159,
-  "2023-01-26": 167856,
-  "2023-01-27": 168698,
-  "2023-01-28": 169570,
-  "2023-01-29": 170616,
-  "2023-01-30": 171708,
-  "2023-01-31": 171708,
-  "2023-02-01": 173609,
-  "2023-02-02": 174337,
-  "2023-02-03": 175129,
-  "2023-02-04": 175962,
-  "2023-02-05": 176871,
-  "2023-02-06": 177873,
-  "2023-02-07": 178801,
-  "2023-02-08": 180704,
-  "2023-02-09": 180704,
-  "2023-02-10": 181617,
-  "2023-02-11": 182484,
-  "2023-02-12": 184287,
-  "2023-02-13": 185096,
-  "2023-02-14": 185096,
-  "2023-02-15": 185915,
-  "2023-02-16": 186711,
-  "2023-02-17": 187576,
-  "2023-02-18": 189121,
-  "2023-02-19": 189257,
-  "2023-02-20": 189901,
-  "2023-02-21": 190609,
-  "2023-02-22": 191372,
-  "2023-02-23": 192177,
-  "2023-02-24": 193079,
-  "2023-02-25": 194182,
-  "2023-02-26": 194770,
-  "2023-02-27": 196333,
-  "2023-02-28": 196333,
-  "2023-03-01": 197036,
-  "2023-03-02": 197818,
-  "2023-03-03": 198741,
-  "2023-03-04": 200258,
-  "2023-03-05": 202305,
-  "2023-03-06": 202305,
-  "2023-03-07": 203363,
-  "2023-03-08": 204150,
-  "2023-03-09": 204983,
-  "2023-03-10": 205683,
-  "2023-03-11": 206448,
-  "2023-03-12": 207343,
-  "2023-03-13": 208151,
-  "2023-03-14": 208833,
-  "2023-03-15": 210007,
-  "2023-03-16": 211132,
-  "2023-03-17": 211132,
-  "2023-03-18": 213449,
-  "2023-03-19": 214566,
-  "2023-03-20": 215563,
-  "2023-03-21": 216200,
-  "2023-03-22": 216919,
-  "2023-03-23": 217761,
-  "2023-03-24": 217761,
-  "2023-03-25": 223166,
-  "2023-03-26": 224837,
-  "2023-03-27": 226203,
-  "2023-03-28": 227220,
-  "2023-03-29": 228317,
-  "2023-03-30": 230267,
-  "2023-03-31": 230267,
-  "2023-04-01": 231472,
-  "2023-04-02": 232603,
-  "2023-04-03": 233926,
-  "2023-04-04": 235087,
-  "2023-04-05": 237033,
-  "2023-04-06": 238181,
-  "2023-04-07": 239366,
-  "2023-04-09": 243065,
-  "2023-04-10": 244430,
-  "2023-04-11": 246457,
-  "2023-04-12": 246457,
-  "2023-04-13": 247511,
-  "2023-04-14": 248529,
-  "2023-04-15": 249498,
-  "2023-04-16": 250401,
-  "2023-04-17": 251331,
-  "2023-04-18": 252121,
-  "2023-04-19": 252997,
-  "2023-04-20": 253767,
-  "2023-04-21": 254698,
-  "2023-04-22": 256672,
-  "2023-04-23": 258006,
-  "2023-04-24": 259102,
-  "2023-04-25": 260144,
-  "2023-04-26": 261318,
-  "2023-04-27": 262293,
-  "2023-04-28": 263300,
-  "2023-04-29": 264313,
-  "2023-04-30": 265291,
-  "2023-05-01": 266190,
-  "2023-05-02": 267123,
-  "2023-05-03": 267947,
-  "2023-05-04": 269072,
-  "2023-05-05": 270700,
-  "2023-05-06": 272190,
-  "2023-05-07": 273657,
-  "2023-05-08": 275040,
-  "2023-05-09": 276316,
-  "2023-05-10": 277635,
-  "2023-05-11": 278813,
-  "2023-05-12": 279847,
-  "2023-05-13": 281052,
-  "2023-05-14": 281991,
-  "2023-05-15": 282829,
-  "2023-05-16": 283634,
-  "2023-05-17": 284596,
-  "2023-05-18": 285390,
-  "2023-05-19": 286392,
-  "2023-05-20": 287937,
-  "2023-05-21": 287937,
-  "2023-05-22": 287937,
-  "2023-05-23": 289332,
-  "2023-05-24": 290406,
-  "2023-05-25": 290545,
-  "2023-05-26": 291179,
-  "2023-05-27": 291858,
-  "2023-05-28": 292608,
-  "2023-05-29": 292608,
-  "2023-05-30": 294096,
-  "2023-05-31": 294937,
-  "2023-06-01": 295688,
-  "2023-06-02": 296406,
-  "2023-06-03": 297128,
-  "2023-06-04": 297764,
-  "2023-06-05": 298515,
-  "2023-06-06": 299258,
-  "2023-06-07": 299998,
-  "2023-06-08": 300628,
-  "2023-06-09": 301359,
-  "2023-06-10": 302634,
-  "2023-06-11": 303404,
-  "2023-06-12": 304132,
-  "2023-06-13": 304722,
-  "2023-06-14": 305441,
-  "2023-06-15": 306146,
-  "2023-06-16": 306778,
-  "2023-06-17": 307240,
-  "2023-06-18": 307863,
-  "2023-06-19": 308422,
-  "2023-06-20": 308952,
-  "2023-06-21": 309449,
-  "2023-06-22": 309956,
-  "2023-06-23": 310519,
-  "2023-06-24": 311046,
-  "2023-06-25": 311530,
-  "2023-06-26": 311972,
-  "2023-06-27": 312384,
-  "2023-06-28": 312950,
-  "2023-06-29": 313506,
-  "2023-06-30": 314076,
-  "2023-07-01": 315100,
-  "2023-07-02": 315100,
-  "2023-07-03": 315632,
-  "2023-07-04": 316630,
-  "2023-07-05": 317218,
-  "2023-07-06": 318219,
-  "2023-07-07": 318219,
-  "2023-07-08": 318859,
-  "2023-07-09": 319426,
-  "2023-07-10": 319994,
-  "2023-07-11": 320503,
-  "2023-07-12": 320920,
-  "2023-07-13": 321457,
-  "2023-07-14": 322076,
-  "2023-07-15": 323081,
-  "2023-07-16": 324407,
-  "2023-07-17": 325354,
-  "2023-07-18": 326147,
-  "2023-07-19": 326832,
-  "2023-07-20": 327369,
-  "2023-07-21": 327985,
-  "2023-07-22": 328571,
-  "2023-07-23": 329110,
-  "2023-07-24": 329698,
-  "2023-07-25": 330293,
-  "2023-07-26": 330870,
-  "2023-07-27": 331373,
-  "2023-07-28": 331816,
-  "2023-07-29": 332289,
-  "2023-07-30": 332734,
-  "2023-07-31": 333101,
-  "2023-08-01": 333514,
-  "2023-08-02": 333927,
-  "2023-08-03": 334341,
-  "2023-08-04": 334788,
-  "2023-08-05": 335222,
-  "2023-08-06": 336216,
-  "2023-08-07": 336216,
-  "2023-08-08": 336771,
-  "2023-08-09": 337357,
-  "2023-08-10": 337955,
-  "2023-08-11": 338550,
-  "2023-08-12": 339237,
-  "2023-08-13": 339784,
-  "2023-08-14": 340389,
-  "2023-08-15": 341528,
-  "2023-08-16": 341528,
-  "2023-08-17": 342011,
-  "2023-08-18": 342560,
-  "2023-08-19": 343104,
-  "2023-08-20": 343607,
-  "2023-08-21": 344012,
-  "2023-08-22": 344479,
-  "2023-08-23": 344981,
-  "2023-08-24": 345365,
-  "2023-08-25": 345762,
-  "2023-08-26": 346197,
-  "2023-08-27": 346564,
-  "2023-08-28": 346935,
-  "2023-08-29": 347418,
-  "2023-08-30": 347786,
-  "2023-08-31": 348141,
-  "2023-09-01": 348704,
-  "2023-09-02": 348704,
-  "2023-09-03": 348890,
-  "2023-09-04": 349175,
-  "2023-09-05": 349450,
-  "2023-09-06": 349678,
-  "2023-09-07": 349913,
-  "2023-09-08": 350211,
-  "2023-09-09": 350708,
-  "2023-09-10": 350991,
-  "2023-09-11": 351340,
-  "2023-09-12": 351756,
-  "2023-09-13": 352177,
-  "2023-09-14": 352389,
-  "2023-09-15": 352611,
-  "2023-09-16": 352837,
-  "2023-09-17": 353067,
-  "2023-09-18": 353343,
-  "2023-09-19": 353596,
-  "2023-09-20": 353812,
-  "2023-09-21": 354068,
-  "2023-09-22": 354299,
-  "2023-09-23": 354566,
-  "2023-09-24": 354810,
-  "2023-09-25": 355098,
-  "2023-09-26": 355480,
-  "2023-09-27": 355731,
-  "2023-09-28": 356000,
-  "2023-09-29": 356280,
-  "2023-09-30": 356647,
-  "2023-10-01": 356975,
-  "2023-10-02": 357268,
-  "2023-10-03": 357507,
-  "2023-10-04": 357819,
-  "2023-10-05": 358128,
-  "2023-10-06": 358384,
-  "2023-10-07": 358724,
-  "2023-10-08": 359011,
-  "2023-10-09": 359277,
-  "2023-10-10": 359540,
-  "2023-10-11": 360007,
-  "2023-10-12": 360007,
-  "2023-10-13": 360195,
-  "2023-10-14": 360404,
-  "2023-10-15": 360615,
-  "2023-10-16": 360871,
-  "2023-10-17": 361113,
-  "2023-10-18": 361355,
-  "2023-10-19": 361599,
-  "2023-10-20": 362048,
-  "2023-10-21": 362516,
-  "2023-10-22": 363187,
-  "2023-10-23": 363759,
-  "2023-10-24": 364158,
-  "2023-10-25": 364484,
-  "2023-10-26": 364762,
-  "2023-10-27": 365005,
-  "2023-10-28": 365005,
-  "2023-10-29": 365005,
-  "2023-10-30": 365792,
-  "2023-10-31": 365792,
-  "2023-11-01": 366269,
-  "2023-11-02": 366480,
-  "2023-11-03": 366766,
-  "2023-11-04": 366766,
-  "2023-11-05": 367516,
-  "2023-11-06": 367829,
-  "2023-11-07": 368163,
-  "2023-11-08": 368507,
-  "2023-11-09": 368815,
-  "2023-11-10": 369115,
-  "2023-11-11": 369447,
-  "2023-11-12": 369730,
-  "2023-11-13": 369964,
-  "2023-11-14": 370184,
-  "2023-11-15": 370184,
-  "2023-11-16": 370630,
-  "2023-11-17": 370977,
-  "2023-11-18": 370977,
-  "2023-11-19": 371178,
-  "2023-11-20": 371362,
-  "2023-11-21": 371670,
-  "2023-11-22": 371865,
-  "2023-11-23": 372028,
-  "2023-11-24": 372028,
-  "2023-11-25": 372391,
-  "2023-11-26": 372561,
-  "2023-11-27": 372687,
-  "2023-11-28": 372846,
-  "2023-11-29": 373394,
-  "2023-11-30": 373394,
-  "2023-12-01": 373394,
-  "2023-12-02": 374236,
-  "2023-12-03": 374654,
-  "2023-12-04": 374654,
-  "2023-12-05": 375106,
-  "2023-12-06": 375321,
-  "2023-12-07": 375530,
-  "2023-12-08": 375530,
-  "2023-12-09": 375964,
-  "2023-12-10": 375964,
-  "2023-12-11": 376414,
-  "2023-12-12": 376414,
-  "2023-12-13": 376860,
-  "2023-12-14": 377157,
-  "2023-12-15": 377396,
-  "2023-12-16": 377727,
-  "2023-12-17": 378040,
-  "2023-12-18": 378285,
-  "2023-12-19": 378502,
-  "2023-12-20": 378717,
-  "2023-12-21": 378967,
-  "2023-12-22": 379251,
-  "2023-12-23": 379553,
-  "2023-12-24": 379802,
-  "2023-12-25": 379989,
-  "2023-12-26": 380195,
-  "2023-12-27": 380376,
-  "2023-12-30": 380962,
-  "2023-12-31": 381168,
-  "2024-01-01": 381298,
-  "2024-01-02": 382114,
-  "2024-01-03": 382963
+  "2024-01-17": 387541,
+  "date_first_scraped": "2022-12-03",
+  "description": "This is Rkive of RM. Indigo. \ud83d\udc9c",
+  "name": "This Is RM",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Project",
+        "url": "https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Hareem",
+          "url": "https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189173,
+      "name": "A Song Make to You Smile",
+      "url": "https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 186186,
+      "name": "All Day (with Tablo)",
+      "url": "https://open.spotify.com/track/40SuiVcQ5NyDk48nZSADK3"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186186,
+      "name": "All Day (with Tablo)",
+      "url": "https://open.spotify.com/track/3PgnXyzWXrEoE0oQdLMF3M"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "eAeon",
+          "url": "https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 112606,
+      "name": "badbye",
+      "url": "https://open.spotify.com/track/7L8JKDh4yB5rCcg2Rp4yvz"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "eAeon",
+          "url": "https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112606,
+      "name": "badbye (with eAeon)",
+      "url": "https://open.spotify.com/track/6CYJojwhuUyTTL5G6AsDHf"
+    },
+    {
+      "album": {
+        "name": "Bicycle",
+        "url": "https://open.spotify.com/album/2h9WH7UD0s15x8Ho5OCs8h"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205956,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/5zvLKLuTQvN8BzdQtOSBd3"
+    },
+    {
+      "album": {
+        "name": "WondaLand",
+        "url": "https://open.spotify.com/album/58CvWtN9NU9MS80uPB026O"
+      },
+      "artists": [
+        {
+          "name": "MFBTY",
+          "url": "https://open.spotify.com/artist/0YplwoXhpH25C92IduQ6RK"
+        },
+        {
+          "name": "EE",
+          "url": "https://open.spotify.com/artist/4CzDpmJ3sq9cUDMX0p1g3E"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Dino-J",
+          "url": "https://open.spotify.com/artist/7EZqgfXkH28R2lDju3Shk5"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254480,
+      "name": "Buckubucku (Feat. EE, RM Of BTS, Dino-J)",
+      "url": "https://open.spotify.com/track/4e3DIkvwzyWu3ZpZFZJb5o"
+    },
+    {
+      "album": {
+        "name": "Champion (Remix)",
+        "url": "https://open.spotify.com/album/1VD9g6kl7AYtKRw36VoJed"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "Champion - Remix",
+      "url": "https://open.spotify.com/track/6PurllVXXGL1s6UkLtzMVF"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277970,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114026,
+      "name": "Change pt.2",
+      "url": "https://open.spotify.com/track/2hMvhh9FiCB6njOYR7tkT8"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 114026,
+      "name": "Change pt.2",
+      "url": "https://open.spotify.com/track/7vPMugKcYwnX9Dh7SrLFHF"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 196507,
+      "name": "Closer (with Paul Blanco, Mahalia)",
+      "url": "https://open.spotify.com/track/5AmBIWCnsLscPSYsfCApBy"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196507,
+      "name": "Closer (with Paul Blanco, Mahalia)",
+      "url": "https://open.spotify.com/track/0Cuwd86fyu0lPVokzTp8Hu"
+    },
+    {
+      "album": {
+        "name": "Love Me / Love Me Not (Sessions)",
+        "url": "https://open.spotify.com/album/74nLAOXgk7p5ujlR5RYZ03"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244859,
+      "name": "Crying Over You \u25d0 (feat. RM & BEKA)",
+      "url": "https://open.spotify.com/track/7AyaV1Ga66yguStIr20zsO"
+    },
+    {
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
+      },
+      "artists": [
+        {
+          "name": "eAeon",
+          "url": "https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205386,
+      "name": "Don't (feat. RM)",
+      "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
+    },
+    {
+      "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Don't ever say love me (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 222493,
+      "name": "everythingoes",
+      "url": "https://open.spotify.com/track/7bSJAuXjyhlTcz5CfoNDdt"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "everythingoes (with Nell)",
+      "url": "https://open.spotify.com/track/0ZUtat3yQpzMRMJ9Qmz5k0"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 271805,
+      "name": "forever rain",
+      "url": "https://open.spotify.com/track/0MBLKSjisnYtP4J6KYYT1T"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271805,
+      "name": "forever rain",
+      "url": "https://open.spotify.com/track/42DD4cLqkprJPih3YxXkAO"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 162295,
+      "name": "Forg_tful (with Kim Sawol)",
+      "url": "https://open.spotify.com/track/3XKI5295qhFbwNesz3ollU"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162295,
+      "name": "Forg_tful (with Kim Sawol)",
+      "url": "https://open.spotify.com/track/1mrS1j5cwaffpXsthTb2Qx"
+    },
+    {
+      "album": {
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/69SDWudpzV0za05JJgU0PJ"
+      },
+      "artists": [
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256424,
+      "name": "Gajah (Feat. RM)",
+      "url": "https://open.spotify.com/track/6KboccKS3L0feiVQST88Ag"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 226189,
+      "name": "Hectic (with Colde)",
+      "url": "https://open.spotify.com/track/3wEr5lmE7oaC3qhCbJTY8B"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226189,
+      "name": "Hectic (with Colde)",
+      "url": "https://open.spotify.com/track/3ZCuqvHYhjDlliRH9oCs77"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "Intro : Persona",
+      "url": "https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166020,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/49iPCmLYg3SS8r2MXcbR1N"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 166020,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/50y0OQgar3BnwTt1pXdYsM"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 205833,
+      "name": "moonchild",
+      "url": "https://open.spotify.com/track/4fwYALz7GwmXgS8QTRjDEJ"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205833,
+      "name": "moonchild",
+      "url": "https://open.spotify.com/track/6BnciRM9jyEP9cEjvoN5eI"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 193963,
+      "name": "No.2 (with parkjiyoon)",
+      "url": "https://open.spotify.com/track/5ky45fGKbzGYilDewlBD6Z"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193963,
+      "name": "No.2 (with parkjiyoon)",
+      "url": "https://open.spotify.com/track/2sXaFMTkBHYrEgfGJ2y27a"
+    },
+    {
+      "album": {
+        "name": "Old Town Road (feat. RM of BTS) [Seoul Town Road Remix]",
+        "url": "https://open.spotify.com/album/7CQho9XJ69KLTUdM9vUZyW"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114133,
+      "name": "Old Town Road (feat. RM of BTS) - Seoul Town Road Remix",
+      "url": "https://open.spotify.com/track/6woeVu3fVMflqen1t4N6pg"
+    },
+    {
+      "album": {
+        "name": "Andre",
+        "url": "https://open.spotify.com/album/3c8EwsM7c6Ek2JPrf2b1VV"
+      },
+      "artists": [
+        {
+          "name": "yankie",
+          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Juvie Train",
+          "url": "https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Topbob",
+          "url": "https://open.spotify.com/artist/3g3dSdILSVIAoi9fdWkLIz"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340571,
+      "name": "ProMeTheUs",
+      "url": "https://open.spotify.com/track/4FC4LApeNhUUhhlar4AK5r"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275954,
+      "name": "seoul (prod. HONNE)",
+      "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 275954,
+      "name": "seoul (prod. HONNE)",
+      "url": "https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ"
+    },
+    {
+      "album": {
+        "name": "SEXY NUKIM (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Omega Sapien",
+          "url": "https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU"
+        },
+        {
+          "name": "bj wnjn",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        },
+        {
+          "name": "Mudd the student",
+          "url": "https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229937,
+      "name": "SEXY NUKIM (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
+    },
+    {
+      "album": {
+        "name": "Episode1 : Love",
+        "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Smoke Sprite (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 175328,
+      "name": "Still Life (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175328,
+      "name": "Still Life (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196529,
+      "name": "Strange (feat. RM)",
+      "url": "https://open.spotify.com/track/5sF4GOOSRELn8zn6DDGzUP"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 196529,
+      "name": "Strange (feat. RM)",
+      "url": "https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd"
+    },
+    {
+      "album": {
+        "name": "Drunken Tiger X: Rebirth of Tiger Jk",
+        "url": "https://open.spotify.com/album/0dSDs3V1AH4jANHJueedGV"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215798,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3wRn6i5bOJPAUg9trFSRCN"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208936,
+      "name": "tokyo",
+      "url": "https://open.spotify.com/track/2YCTRzLwXgiNvbod8xuCHl"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 208936,
+      "name": "tokyo",
+      "url": "https://open.spotify.com/track/3RvScmBWbdbnOVMF6FMcXI"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255010,
+      "name": "U (Feat. Kwon Jin Ah & Rap Monster)",
+      "url": "https://open.spotify.com/track/5LlgJFQLF4uXmt1nCtdyTJ"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194384,
+      "name": "uhgood",
+      "url": "https://open.spotify.com/track/5u9Pr2CujzeWFZJPALBPqQ"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 194384,
+      "name": "uhgood",
+      "url": "https://open.spotify.com/track/5vI1exL3zFhqFWDSL9fq5H"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 273499,
+      "name": "Wild Flower (with youjeen)",
+      "url": "https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Youjeen",
+          "url": "https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273499,
+      "name": "Wild Flower (with youjeen)",
+      "url": "https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF"
+    },
+    {
+      "album": {
+        "name": "UNSTABLE MINDSET",
+        "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221133,
+      "name": "WINTER FLOWER(Feat.RM)",
+      "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 233688,
+      "name": "Yun (with Erykah Badu)",
+      "url": "https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233688,
+      "name": "Yun (with Erykah Badu)",
+      "url": "https://open.spotify.com/track/3F3PuqGinS2T1ePmjUTw9t"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXa3GFRsPDpwq"
 }

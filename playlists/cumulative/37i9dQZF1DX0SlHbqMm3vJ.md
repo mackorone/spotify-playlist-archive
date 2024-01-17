@@ -2,15 +2,15 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Ric Hassani
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Qing Madi
 
-489 songs - 1 day 0 hr 33 min
+491 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 | 2023-03-10 | 2023-05-07 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-17 | 2023-09-25 |
-| [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 | 2023-11-03 |  |
+| [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 | 2023-11-03 | 2024-01-13 |
 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-09-29 | 2023-11-05 |
 | [234](https://open.spotify.com/track/2zCzjoAute0BouO3IVo5eh) | [DJ Savy](https://open.spotify.com/artist/5OXVSxR4R3fhxUIO6nJnNf), [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4), [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [234](https://open.spotify.com/album/7KLupsQWurAEG9XkDxRX5s) | 3:10 | 2023-01-27 | 2023-02-17 |
 | [2x2](https://open.spotify.com/track/2PDz5WNKhyeiGLHE3UgqaC) | [Offei](https://open.spotify.com/artist/53lrU0w5zDWd58f5hDsftr) | [Butterfly Season](https://open.spotify.com/album/0y2NCccIKyGMBtPJZvLv7L) | 2:39 | 2023-10-27 | 2023-11-17 |
@@ -33,6 +33,7 @@
 | [Alone](https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Alone](https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw) | 2:37 | 2023-09-14 |  |
 | [Already Won](https://open.spotify.com/track/5N5JTHckZoTCvhjESdaMxK) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Already Won](https://open.spotify.com/album/1BypTkXe5D3rNWZVwGzHDx) | 2:50 | 2022-05-19 | 2022-07-23 |
 | [AMEN](https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [AMEN](https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5) | 2:08 | 2023-11-03 |  |
+| [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-01-12 |  |
 | [Amina](https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Amina & The One](https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU) | 2:45 | 2023-04-20 |  |
 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 | 2023-09-08 | 2023-09-29 |
 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 | 2023-07-14 |  |
@@ -76,7 +77,7 @@
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-10 | 2023-05-12 |
 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 | 2023-01-19 | 2023-12-08 |
 | [BORN AGAIN \(feat\. Amaarae\)](https://open.spotify.com/track/52ahyxvt3Tz3acMSG0yHsx) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 3:03 | 2022-03-03 | 2022-03-05 |
-| [Break Up](https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 3:02 | 2023-09-08 |  |
+| [Break Up](https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 3:02 | 2023-09-08 | 2024-01-13 |
 | [Breakfast](https://open.spotify.com/track/2lQLYR3RrKK0xSO9xqkW7s) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Breakfast](https://open.spotify.com/album/0pxxxtJfvLuRS2vWvtOEly) | 3:18 | 2022-02-10 | 2022-02-23 |
 | [Breathing](https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [Breathing](https://open.spotify.com/album/2vuKxwd9eHXmNP2AolZYp2) | 3:01 | 2022-03-25 | 2022-07-28 |
 | [Brenda](https://open.spotify.com/track/2S5dAgNweHQogi41SuAdkf) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Brenda](https://open.spotify.com/album/4hOK3Nmq4EVvaSv62bgvM2) | 3:09 | 2022-08-05 | 2022-10-29 |
@@ -209,6 +210,7 @@
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-07-14 | 2023-10-27 |
 | [Icon](https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Icon](https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp) | 2:20 | 2023-12-08 |  |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-02-24 | 2022-07-29 |
+| [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 | 2024-01-12 |  |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-07-07 | 2022-09-24 |
 | [ike](https://open.spotify.com/track/5icyVz1YpcvOjvMYQOD1vg) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [ike](https://open.spotify.com/album/4ibEXk1tFp5U6622qsfUG5) | 2:55 | 2022-02-24 | 2022-02-27 |
 | [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 | 2022-04-07 | 2022-09-17 |

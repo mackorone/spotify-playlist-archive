@@ -1,493 +1,1885 @@
 {
-  "2022-08-25": 71921,
-  "2022-08-26": 71950,
-  "2022-08-27": 71969,
-  "2022-08-28": 72003,
-  "2022-08-29": 72037,
-  "2022-08-30": 72026,
-  "2022-08-31": 71996,
-  "2022-09-01": 71946,
-  "2022-09-02": 71898,
-  "2022-09-03": 71797,
-  "2022-09-04": 71783,
-  "2022-09-05": 71797,
-  "2022-09-06": 71811,
-  "2022-09-07": 71831,
-  "2022-09-09": 71873,
-  "2022-09-10": 71899,
-  "2022-09-11": 71921,
-  "2022-09-12": 71927,
-  "2022-09-13": 71946,
-  "2022-09-15": 71984,
-  "2022-09-16": 71996,
-  "2022-09-17": 72013,
-  "2022-09-18": 72027,
-  "2022-09-19": 72053,
-  "2022-09-20": 72062,
-  "2022-09-21": 72087,
-  "2022-09-22": 72108,
-  "2022-09-23": 72128,
-  "2022-09-24": 72149,
-  "2022-09-25": 72179,
-  "2022-09-26": 72203,
-  "2022-09-27": 72219,
-  "2022-09-28": 72234,
-  "2022-09-29": 72256,
-  "2022-09-30": 72274,
-  "2022-10-01": 72309,
-  "2022-10-02": 72335,
-  "2022-10-03": 72360,
-  "2022-10-04": 72376,
-  "2022-10-05": 72383,
-  "2022-10-06": 72405,
-  "2022-10-07": 72428,
-  "2022-10-08": 72448,
-  "2022-10-09": 72491,
-  "2022-10-10": 72491,
-  "2022-10-11": 72507,
-  "2022-10-12": 72532,
-  "2022-10-13": 72551,
-  "2022-10-14": 72574,
-  "2022-10-15": 72601,
-  "2022-10-16": 72632,
-  "2022-10-17": 72659,
-  "2022-10-18": 72680,
-  "2022-10-19": 72704,
-  "2022-10-20": 72724,
-  "2022-10-21": 72752,
-  "2022-10-22": 72771,
-  "2022-10-23": 72801,
-  "2022-10-24": 72822,
-  "2022-10-25": 72843,
-  "2022-10-26": 72861,
-  "2022-10-27": 72883,
-  "2022-10-28": 72904,
-  "2022-10-29": 72924,
-  "2022-10-30": 72940,
-  "2022-10-31": 72981,
-  "2022-11-01": 72998,
-  "2022-11-02": 73018,
-  "2022-11-03": 73043,
-  "2022-11-04": 73065,
-  "2022-11-05": 73100,
-  "2022-11-06": 73130,
-  "2022-11-07": 73161,
-  "2022-11-08": 73173,
-  "2022-11-09": 73220,
-  "2022-11-10": 73239,
-  "2022-11-11": 73281,
-  "2022-11-12": 73310,
-  "2022-11-13": 73331,
-  "2022-11-14": 73351,
-  "2022-11-15": 73380,
-  "2022-11-16": 73411,
-  "2022-11-17": 73429,
-  "2022-11-18": 73437,
-  "2022-11-19": 73444,
-  "2022-11-20": 73463,
-  "2022-11-21": 73480,
-  "2022-11-22": 73502,
-  "2022-11-23": 73527,
-  "2022-11-24": 73565,
-  "2022-11-25": 73610,
-  "2022-11-26": 73639,
-  "2022-11-27": 73675,
-  "2022-11-28": 73703,
-  "2022-11-29": 73717,
-  "2022-11-30": 73734,
-  "2022-12-01": 73764,
-  "2022-12-02": 73780,
-  "2022-12-03": 73823,
-  "2022-12-04": 73869,
-  "2022-12-05": 73909,
-  "2022-12-06": 73934,
-  "2022-12-07": 73966,
-  "2022-12-08": 73992,
-  "2022-12-09": 74069,
-  "2022-12-10": 74108,
-  "2022-12-11": 74135,
-  "2022-12-12": 74179,
-  "2022-12-13": 74214,
-  "2022-12-14": 74254,
-  "2022-12-15": 74277,
-  "2022-12-16": 74299,
-  "2022-12-17": 74339,
-  "2022-12-18": 74368,
-  "2022-12-19": 74393,
-  "2022-12-20": 74429,
-  "2022-12-21": 74429,
-  "2022-12-22": 74461,
-  "2022-12-24": 74517,
-  "2022-12-25": 74532,
-  "2022-12-26": 74562,
-  "2022-12-27": 74582,
-  "2022-12-28": 74609,
-  "2022-12-29": 74619,
-  "2022-12-30": 74650,
-  "2022-12-31": 74678,
-  "2023-01-01": 74707,
-  "2023-01-02": 74748,
-  "2023-01-03": 74799,
-  "2023-01-04": 74810,
-  "2023-01-05": 74833,
-  "2023-01-06": 74869,
-  "2023-01-07": 74920,
-  "2023-01-08": 74928,
-  "2023-01-09": 74973,
-  "2023-01-10": 74983,
-  "2023-01-11": 75008,
-  "2023-01-12": 75030,
-  "2023-01-13": 75059,
-  "2023-01-14": 75099,
-  "2023-01-15": 75100,
-  "2023-01-16": 75148,
-  "2023-01-17": 75188,
-  "2023-01-18": 75221,
-  "2023-01-19": 75240,
-  "2023-01-20": 75255,
-  "2023-01-21": 75292,
-  "2023-01-22": 75309,
-  "2023-01-23": 75343,
-  "2023-01-24": 75360,
-  "2023-01-25": 75391,
-  "2023-01-26": 75417,
-  "2023-01-27": 75430,
-  "2023-01-28": 75452,
-  "2023-01-29": 75490,
-  "2023-01-30": 75513,
-  "2023-01-31": 75513,
-  "2023-02-01": 75566,
-  "2023-02-02": 75589,
-  "2023-02-03": 75623,
-  "2023-02-04": 75647,
-  "2023-02-05": 75699,
-  "2023-02-06": 75745,
-  "2023-02-07": 75777,
-  "2023-02-08": 75841,
-  "2023-02-09": 75841,
-  "2023-02-10": 75882,
-  "2023-02-11": 75913,
-  "2023-02-12": 75984,
-  "2023-02-13": 76015,
-  "2023-02-14": 76015,
-  "2023-02-15": 76041,
-  "2023-02-16": 76072,
-  "2023-02-17": 76107,
-  "2023-02-18": 76168,
-  "2023-02-19": 76173,
-  "2023-02-20": 76206,
-  "2023-02-21": 76236,
-  "2023-02-22": 76266,
-  "2023-02-23": 76291,
-  "2023-02-24": 76321,
-  "2023-02-25": 76366,
-  "2023-02-26": 76388,
-  "2023-02-27": 76449,
-  "2023-02-28": 76449,
-  "2023-03-01": 76480,
-  "2023-03-02": 76504,
-  "2023-03-03": 76536,
-  "2023-03-04": 76564,
-  "2023-03-05": 76624,
-  "2023-03-06": 76624,
-  "2023-03-07": 76649,
-  "2023-03-08": 76675,
-  "2023-03-09": 76697,
-  "2023-03-10": 76721,
-  "2023-03-11": 76742,
-  "2023-03-12": 76776,
-  "2023-03-13": 76804,
-  "2023-03-14": 76830,
-  "2023-03-15": 76840,
-  "2023-03-16": 76860,
-  "2023-03-17": 76860,
-  "2023-03-18": 76897,
-  "2023-03-19": 76933,
-  "2023-03-20": 76971,
-  "2023-03-21": 77002,
-  "2023-03-22": 77028,
-  "2023-03-23": 77057,
-  "2023-03-24": 77057,
-  "2023-03-25": 77107,
-  "2023-03-26": 77134,
-  "2023-03-27": 77157,
-  "2023-03-28": 77179,
-  "2023-03-29": 77189,
-  "2023-03-30": 77234,
-  "2023-03-31": 77234,
-  "2023-04-01": 77250,
-  "2023-04-02": 77281,
-  "2023-04-03": 77301,
-  "2023-04-04": 77319,
-  "2023-04-05": 77339,
-  "2023-04-06": 77359,
-  "2023-04-07": 77381,
-  "2023-04-09": 77443,
-  "2023-04-10": 77468,
-  "2023-04-11": 77523,
-  "2023-04-12": 77523,
-  "2023-04-13": 77543,
-  "2023-04-14": 77561,
-  "2023-04-15": 77588,
-  "2023-04-16": 77610,
-  "2023-04-17": 77635,
-  "2023-04-18": 77660,
-  "2023-04-19": 77695,
-  "2023-04-20": 77724,
-  "2023-04-21": 77749,
-  "2023-04-22": 77772,
-  "2023-04-23": 77800,
-  "2023-04-24": 77824,
-  "2023-04-25": 77847,
-  "2023-04-26": 77869,
-  "2023-04-27": 77892,
-  "2023-04-28": 77910,
-  "2023-04-29": 77937,
-  "2023-04-30": 77976,
-  "2023-05-01": 78002,
-  "2023-05-02": 78046,
-  "2023-05-03": 78064,
-  "2023-05-04": 78089,
-  "2023-05-05": 78116,
-  "2023-05-06": 78139,
-  "2023-05-07": 78156,
-  "2023-05-08": 78193,
-  "2023-05-09": 78228,
-  "2023-05-10": 78254,
-  "2023-05-11": 78284,
-  "2023-05-12": 78301,
-  "2023-05-13": 78325,
-  "2023-05-14": 78356,
-  "2023-05-15": 78388,
-  "2023-05-16": 78400,
-  "2023-05-17": 78409,
-  "2023-05-18": 78442,
-  "2023-05-19": 78462,
-  "2023-05-20": 78526,
-  "2023-05-21": 78526,
-  "2023-05-22": 78526,
-  "2023-05-23": 78574,
-  "2023-05-24": 78613,
-  "2023-05-25": 78618,
-  "2023-05-26": 78637,
-  "2023-05-27": 78647,
-  "2023-05-28": 78679,
-  "2023-05-29": 78679,
-  "2023-05-30": 78723,
-  "2023-05-31": 78751,
-  "2023-06-01": 78773,
-  "2023-06-02": 78800,
-  "2023-06-03": 78822,
-  "2023-06-04": 78857,
-  "2023-06-05": 78880,
-  "2023-06-06": 78906,
-  "2023-06-07": 78918,
-  "2023-06-08": 78928,
-  "2023-06-09": 78958,
-  "2023-06-10": 78980,
-  "2023-06-11": 78991,
-  "2023-06-12": 79014,
-  "2023-06-13": 79033,
-  "2023-06-14": 79057,
-  "2023-06-15": 79085,
-  "2023-06-16": 79101,
-  "2023-06-17": 79118,
-  "2023-06-18": 79135,
-  "2023-06-19": 79160,
-  "2023-06-20": 79180,
-  "2023-06-21": 79198,
-  "2023-06-22": 79229,
-  "2023-06-23": 79280,
-  "2023-06-24": 79314,
-  "2023-06-25": 79349,
-  "2023-06-26": 79376,
-  "2023-06-27": 79410,
-  "2023-06-28": 79437,
-  "2023-06-29": 79454,
-  "2023-06-30": 79479,
-  "2023-07-01": 79529,
-  "2023-07-02": 79529,
-  "2023-07-03": 79568,
-  "2023-07-04": 79583,
-  "2023-07-05": 79599,
-  "2023-07-06": 79648,
-  "2023-07-07": 79648,
-  "2023-07-08": 79666,
-  "2023-07-09": 79681,
-  "2023-07-10": 79699,
-  "2023-07-11": 79724,
-  "2023-07-12": 79744,
-  "2023-07-13": 79767,
-  "2023-07-14": 79790,
-  "2023-07-15": 79807,
-  "2023-07-16": 79835,
-  "2023-07-17": 79877,
-  "2023-07-18": 79906,
-  "2023-07-19": 79933,
-  "2023-07-20": 79962,
-  "2023-07-21": 79976,
-  "2023-07-22": 80008,
-  "2023-07-23": 80054,
-  "2023-07-24": 80082,
-  "2023-07-25": 80107,
-  "2023-07-26": 80124,
-  "2023-07-27": 80145,
-  "2023-07-28": 80180,
-  "2023-07-29": 80209,
-  "2023-07-30": 80236,
-  "2023-07-31": 80261,
-  "2023-08-01": 80275,
-  "2023-08-02": 80306,
-  "2023-08-03": 80331,
-  "2023-08-04": 80355,
-  "2023-08-05": 80377,
-  "2023-08-06": 80436,
-  "2023-08-07": 80436,
-  "2023-08-08": 80460,
-  "2023-08-09": 80492,
-  "2023-08-10": 80516,
-  "2023-08-11": 80545,
-  "2023-08-12": 80567,
-  "2023-08-13": 80600,
-  "2023-08-14": 80625,
-  "2023-08-15": 80677,
-  "2023-08-16": 80677,
-  "2023-08-17": 80706,
-  "2023-08-18": 80718,
-  "2023-08-19": 80739,
-  "2023-08-20": 80757,
-  "2023-08-21": 80796,
-  "2023-08-22": 80815,
-  "2023-08-23": 80831,
-  "2023-08-24": 80866,
-  "2023-08-25": 80895,
-  "2023-08-26": 80928,
-  "2023-08-27": 80953,
-  "2023-08-28": 80979,
-  "2023-08-29": 81008,
-  "2023-08-30": 81023,
-  "2023-08-31": 81029,
-  "2023-09-01": 81057,
-  "2023-09-02": 81057,
-  "2023-09-03": 81068,
-  "2023-09-04": 81068,
-  "2023-09-05": 81109,
-  "2023-09-06": 81116,
-  "2023-09-07": 81116,
-  "2023-09-08": 81116,
-  "2023-09-09": 81174,
-  "2023-09-10": 81210,
-  "2023-09-11": 81233,
-  "2023-09-12": 81233,
-  "2023-09-13": 81278,
-  "2023-09-14": 81278,
-  "2023-09-15": 81312,
-  "2023-09-16": 81322,
-  "2023-09-17": 81322,
-  "2023-09-18": 81322,
-  "2023-09-19": 81389,
-  "2023-09-20": 81406,
-  "2023-09-21": 81418,
-  "2023-09-22": 81432,
-  "2023-09-23": 81432,
-  "2023-09-24": 81432,
-  "2023-09-25": 81432,
-  "2023-09-26": 81533,
-  "2023-09-27": 81533,
-  "2023-09-28": 81594,
-  "2023-09-29": 81621,
-  "2023-09-30": 81621,
-  "2023-10-01": 81656,
-  "2023-10-02": 81682,
-  "2023-10-03": 81698,
-  "2023-10-04": 81723,
-  "2023-10-05": 81748,
-  "2023-10-06": 81767,
-  "2023-10-07": 81767,
-  "2023-10-08": 81809,
-  "2023-10-09": 81809,
-  "2023-10-10": 81809,
-  "2023-10-11": 81826,
-  "2023-10-12": 81826,
-  "2023-10-13": 81805,
-  "2023-10-14": 81805,
-  "2023-10-15": 81805,
-  "2023-10-16": 81805,
-  "2023-10-17": 81805,
-  "2023-10-18": 81805,
-  "2023-10-19": 81805,
-  "2023-10-20": 81805,
-  "2023-10-21": 81805,
-  "2023-10-22": 81805,
-  "2023-10-23": 81805,
-  "2023-10-24": 81805,
-  "2023-10-25": 81805,
-  "2023-10-26": 81805,
-  "2023-10-27": 81805,
-  "2023-10-28": 81805,
-  "2023-10-29": 81805,
-  "2023-10-30": 81805,
-  "2023-10-31": 81805,
-  "2023-11-01": 81805,
-  "2023-11-02": 81805,
-  "2023-11-03": 81805,
-  "2023-11-04": 81805,
-  "2023-11-05": 81805,
-  "2023-11-06": 81805,
-  "2023-11-07": 81805,
-  "2023-11-08": 81805,
-  "2023-11-09": 81805,
-  "2023-11-10": 81805,
-  "2023-11-11": 82266,
-  "2023-11-12": 82266,
-  "2023-11-13": 82266,
-  "2023-11-14": 82266,
-  "2023-11-15": 82266,
-  "2023-11-16": 82266,
-  "2023-11-17": 82378,
-  "2023-11-18": 82378,
-  "2023-11-19": 82378,
-  "2023-11-20": 82378,
-  "2023-11-21": 82378,
-  "2023-11-22": 82378,
-  "2023-11-23": 82378,
-  "2023-11-24": 82378,
-  "2023-11-25": 82378,
-  "2023-11-26": 82378,
-  "2023-11-27": 82378,
-  "2023-11-28": 82378,
-  "2023-11-29": 82378,
-  "2023-11-30": 82378,
-  "2023-12-01": 82378,
-  "2023-12-02": 82378,
-  "2023-12-03": 82378,
-  "2023-12-04": 82378,
-  "2023-12-05": 82378,
-  "2023-12-06": 82378,
-  "2023-12-07": 82378,
-  "2023-12-08": 82378,
-  "2023-12-09": 82378,
-  "2023-12-10": 82378,
-  "2023-12-11": 82378,
-  "2023-12-12": 82378,
-  "2023-12-13": 82378,
-  "2023-12-14": 82813,
-  "2023-12-15": 82824,
-  "2023-12-16": 82838,
-  "2023-12-17": 82861,
-  "2023-12-18": 82885,
-  "2023-12-19": 82899,
-  "2023-12-20": 82915,
-  "2023-12-21": 82930,
-  "2023-12-22": 82943,
-  "2023-12-23": 82951,
-  "2023-12-24": 82972,
-  "2023-12-25": 82992,
-  "2023-12-26": 83006,
-  "2023-12-27": 83014,
-  "2023-12-30": 83056,
-  "2023-12-31": 83072,
-  "2024-01-01": 83096,
-  "2024-01-02": 83124,
-  "2024-01-03": 83154
+  "2024-01-17": 83291,
+  "date_first_scraped": "2022-08-25",
+  "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
+  "name": "This is Gershwin",
+  "tracks": [
+    {
+      "album": {
+        "name": "20 #1's: Jazz Ballads",
+        "url": "https://open.spotify.com/album/2F6MDJqFjeTmJFbbTGrYP7"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208213,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/1swSMpXMnvsiofT6fwW4bc"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 211480,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 949253,
+      "name": "2nd Rhapsody",
+      "url": "https://open.spotify.com/track/1ckFQ0OHFXmtDqIBp1SCUV"
+    },
+    {
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78000,
+      "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
+      "url": "https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq"
+    },
+    {
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86000,
+      "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
+      "url": "https://open.spotify.com/track/3TChFoNvKras9uQkimzK8R"
+    },
+    {
+      "album": {
+        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
+        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79226,
+      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
+      "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
+    },
+    {
+      "album": {
+        "name": "Great Violinists: Heifetz - Shaham - Mintz",
+        "url": "https://open.spotify.com/album/5GoHxDuWwQXkcZHIMBtRWm"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 80000,
+      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
+      "url": "https://open.spotify.com/track/1DljhadSLYOeXKQmMQkTWI"
+    },
+    {
+      "album": {
+        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
+        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
+      "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
+    },
+    {
+      "album": {
+        "name": "The Art of Andr\u00e9 Previn",
+        "url": "https://open.spotify.com/album/4DhdpCLNxf7MjjHKRcm8UO"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205000,
+      "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
+      "url": "https://open.spotify.com/track/0s0GpsU7WWv27Lsd1sESBB"
+    },
+    {
+      "album": {
+        "name": "Gershwin (The Best Of)",
+        "url": "https://open.spotify.com/album/0xmhkOmEQOo9VXG0B10jKO"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 78000,
+      "name": "3 Preludes: No. 3 in E-Flat Minor: Allegro ben ritmato e deciso",
+      "url": "https://open.spotify.com/track/6JElerdlx6iQFMwhb4hpRA"
+    },
+    {
+      "album": {
+        "name": "Musiken fr\u00e5n Molanders avsnitt 1",
+        "url": "https://open.spotify.com/album/6WzJgbhanxMpYYMAvBb2qc"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 86000,
+      "name": "3 Preludes: Nr 1 ur Tre preludium",
+      "url": "https://open.spotify.com/track/1monPZCTt6u6hsC8snXPOI"
+    },
+    {
+      "album": {
+        "name": "Wild: 7 Virtuoso Etudes: 1. I Got Rhythm (after G. Gershwin)",
+        "url": "https://open.spotify.com/album/1i1I1Su34eDYOoKdT5x0hF"
+      },
+      "artists": [
+        {
+          "name": "Earl Wild",
+          "url": "https://open.spotify.com/artist/12Fk4SuKXPe97FaSVD6WHK"
+        },
+        {
+          "name": "Isata Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132826,
+      "name": "7 Virtuoso Etudes: No. 1, I Got Rhythm (after G. Gershwin)",
+      "url": "https://open.spotify.com/track/1MCCJo3HPgOZkGAd2BmTuZ"
+    },
+    {
+      "album": {
+        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
+        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Juray Bartos",
+          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510600,
+      "name": "A Damsel In Distress: A Foggy Day",
+      "url": "https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z"
+    },
+    {
+      "album": {
+        "name": "Gershwin for Trumpet",
+        "url": "https://open.spotify.com/album/4DwD0fvNMsA4T0APHyCTwv"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Juraj Barto\u0161",
+          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 510600,
+      "name": "A Damsel in Distress: A Foggy Day (arr. P. Breiner)",
+      "url": "https://open.spotify.com/track/5OnwQwajhgz7WAG6xJ9kt6"
+    },
+    {
+      "album": {
+        "name": "Gershwin: An American In Paris; Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/7sXKUjqh71MCGDtOXS9tai"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "James Thomson",
+          "url": "https://open.spotify.com/artist/42R69MIfrvAnxX7V1qnM5q"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1146026,
+      "name": "An American in Paris",
+      "url": "https://open.spotify.com/track/0ZsKHtV8jxOZMuBJk2LIQC"
+    },
+    {
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "But Not For Me - Vocal Version",
+      "url": "https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
+        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Steven Browen",
+          "url": "https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412906,
+      "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
+      "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
+        "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        },
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389173,
+      "name": "Concerto in F: 3. Allegro agitato",
+      "url": "https://open.spotify.com/track/0VIGqlNjBUuRs37Habo8Rn"
+    },
+    {
+      "album": {
+        "name": "Pilgrim's Progress: Pioneers Of American Classical Music",
+        "url": "https://open.spotify.com/album/1FH2gs11V1PrHSVZm4kcHe"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "James Judd",
+          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 644400,
+      "name": "Cuban Overture",
+      "url": "https://open.spotify.com/track/1z1VjK4yCL1uBXgvPq5qBw"
+    },
+    {
+      "album": {
+        "name": "Gershwin: An American In Paris / Porgy And Bess",
+        "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
+      },
+      "artists": [
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642240,
+      "name": "Cuban Overture",
+      "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
+    },
+    {
+      "album": {
+        "name": "Sarah Vaughan Sings George Gershwin",
+        "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199387,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3yoCcX8jaVBWXb9c8Q5nW2"
+    },
+    {
+      "album": {
+        "name": "Gershwin Fantasy",
+        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1224000,
+      "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
+      "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
+    },
+    {
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Fascinatin' Rhythm",
+      "url": "https://open.spotify.com/track/7MQ1HfXBLl4y23fHNEZMgQ"
+    },
+    {
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397000,
+      "name": "Fascinatin' Rhythm: The Man I Love",
+      "url": "https://open.spotify.com/track/2dTWpfFK01aihdETa2tytE"
+    },
+    {
+      "album": {
+        "name": "Icon: Menuhin and Grappelli",
+        "url": "https://open.spotify.com/album/7pKyZXyyF4ikG7UPG5YDUr"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Yehudi Menuhin",
+          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Max Harris",
+          "url": "https://open.spotify.com/artist/7g1iPmm4Kbw0So4XdaiLD3"
+        },
+        {
+          "name": "Alan Clare",
+          "url": "https://open.spotify.com/artist/0MMwHaqa1W85gdwxNlM0Pu"
+        },
+        {
+          "name": "Denny Wright",
+          "url": "https://open.spotify.com/artist/0EWhMQAu45WK17WWkZFSzv"
+        },
+        {
+          "name": "Ike Isaacs",
+          "url": "https://open.spotify.com/artist/5lZ5YhujUkHGSl4bpaNGNu"
+        },
+        {
+          "name": "Lennie Bush",
+          "url": "https://open.spotify.com/artist/1lsKhZhlboadtoAPbmNhpl"
+        },
+        {
+          "name": "Ronnie Verrell",
+          "url": "https://open.spotify.com/artist/7nf9xTNic1JXOmmLzilSnU"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139626,
+      "name": "Gershwin / Arr. Harris: Fascinatin' Rhythm",
+      "url": "https://open.spotify.com/track/7hEmaEBReUuhaskdorVGRq"
+    },
+    {
+      "album": {
+        "name": "Kiri sings Gershwin",
+        "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "New Princess Theater Orchestra",
+          "url": "https://open.spotify.com/artist/59pisH3wBlKCZ6Ym2WbVWj"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Gershwin Love Walked In (From \"The Goldwyn Follies\") [Orch. Powell]",
+      "url": "https://open.spotify.com/track/6fqUacLto2pt1ipANMkjG2"
+    },
+    {
+      "album": {
+        "name": "Rhapsody",
+        "url": "https://open.spotify.com/album/7jxvnqfcGBH9yrlUyksTPM"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169866,
+      "name": "Gershwin: Gershwin Songbook: No. 8, The Man I Love",
+      "url": "https://open.spotify.com/track/5U22NoYI0mmrk7NIHySQWt"
+    },
+    {
+      "album": {
+        "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
+        "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92533,
+      "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
+      "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
+    },
+    {
+      "album": {
+        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
+        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Juray Bartos",
+          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
+      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
+    },
+    {
+      "album": {
+        "name": "Gershwin: We got Rhythm - A Gershwin Songbook",
+        "url": "https://open.spotify.com/album/5dpk1t1HctEJEQRZHlvVqE"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Girl Crazy: Embraceable You",
+      "url": "https://open.spotify.com/track/1V8yAiTafVSJ3l6xNAejR7"
+    },
+    {
+      "album": {
+        "name": "A short guide to George Gershwin",
+        "url": "https://open.spotify.com/album/7vaCxyQKKNVbXEwcnQDyvd"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 292000,
+      "name": "Girl Crazy: Embraceable You",
+      "url": "https://open.spotify.com/track/3eQyzc7eMOb41hJLfOMEt5"
+    },
+    {
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358640,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
+    },
+    {
+      "album": {
+        "name": "The Essential Louis Armstrong",
+        "url": "https://open.spotify.com/album/6S9Dm1I3P06Fcszze4YjCO"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 359840,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/1h33QII2ypmAzp2no3KLdN"
+    },
+    {
+      "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
+    },
+    {
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/53uUmJNBc744asiZN6hB38"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223000,
+      "name": "Lady, be Good!: Fascinating Rhythm (version for piano): Fascinatin' Rhythm",
+      "url": "https://open.spotify.com/track/4ulNNry20lWK0cVAtWU7Lz"
+    },
+    {
+      "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498373,
+      "name": "Let 'Em Eat Cake: Overture",
+      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
+    },
+    {
+      "album": {
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "Let's Call The Whole Thing Off",
+      "url": "https://open.spotify.com/track/6NDaYWg85ZnJ3Ae0WkILWh"
+    },
+    {
+      "album": {
+        "name": "Gershwin Fantasy",
+        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231053,
+      "name": "Liza (All the Clouds'll Roll Away)",
+      "url": "https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8"
+    },
+    {
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169786,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
+    },
+    {
+      "album": {
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
+    },
+    {
+      "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141760,
+      "name": "Nice Work If You Can Get It - Remastered",
+      "url": "https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275706,
+      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
+      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
+    },
+    {
+      "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426866,
+      "name": "Oh, Kay!: Overture",
+      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 826466,
+      "name": "Piano Concerto in F Major: I. Allegro",
+      "url": "https://open.spotify.com/track/4pi6ompYQXcmOVIfBgEakp"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 826466,
+      "name": "Piano Concerto in F Major: I. Allegro moderato - Cantabile - Poco meno scherzando",
+      "url": "https://open.spotify.com/track/7ipGbrTaeuWvuRF3NYHeIk"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Adagio",
+      "url": "https://open.spotify.com/track/24EDNyjGi0wUk6XgNtnYs7"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Andante con moto",
+      "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438560,
+      "name": "Piano Concerto in F Major: III. Allegro agitato",
+      "url": "https://open.spotify.com/track/533JRQYBlNy9qEBXGm8LeE"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 438560,
+      "name": "Piano Concerto in F Major: III. Allegro con brio",
+      "url": "https://open.spotify.com/track/6VDflF21RwoPqEE4vmqGyi"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
+        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Peter Jablonski",
+          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 799826,
+      "name": "Piano Concerto in F: 2. Adagio",
+      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+    },
+    {
+      "album": {
+        "name": "Gershwin for Trumpet",
+        "url": "https://open.spotify.com/album/4DwD0fvNMsA4T0APHyCTwv"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Juraj Barto\u0161",
+          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 278000,
+      "name": "Porgy and Bess (arr. P. Breiner): The Man I Love",
+      "url": "https://open.spotify.com/track/2b5kbG7dIR4w4rUV0fznVn"
+    },
+    {
+      "album": {
+        "name": "Mademoiselle in New York",
+        "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Lucienne Renaudin Vary",
+          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
+        },
+        {
+          "name": "Bill Elliott",
+          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
+    },
+    {
+      "album": {
+        "name": "Working from Home in Peace: Classical Tunes for Concentration",
+        "url": "https://open.spotify.com/album/2ZuPfY2ZWm2ctobxKac3TW"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Lucienne Renaudin Vary",
+          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
+        },
+        {
+          "name": "Bill Elliott",
+          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238413,
+      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/6z5QmwlY3IiX7GigcmfbRK"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
+        "url": "https://open.spotify.com/album/5MKnkXYVvwHFuBQwqXctSP"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+        },
+        {
+          "name": "Zhu Wang",
+          "url": "https://open.spotify.com/artist/3z5WrAR67znbCVkXjFKM6Q"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161146,
+      "name": "Porgy and Bess: It Ain't Necessarily So (Arr. Heifetz for Violin and Piano)",
+      "url": "https://open.spotify.com/track/22L3hZxNY2MVaf2Pkquw4u"
+    },
+    {
+      "album": {
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "James Judd",
+          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 890000,
+      "name": "Rhapsody in Blue",
+      "url": "https://open.spotify.com/track/0g7AZiNDzDuEYOwV27qoXb"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
+        "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Walter Donaldson",
+          "url": "https://open.spotify.com/artist/6zeneEyiHJB78Lthi6CHuQ"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        },
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275720,
+      "name": "Rialto Ripples (Rag)",
+      "url": "https://open.spotify.com/track/0VEWcDQ9GHPKVlHT3CrGhR"
+    },
+    {
+      "album": {
+        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
+        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Juray Bartos",
+          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366960,
+      "name": "Rosalie: How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0eImsHIGM7PmltQo7zlChL"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 949253,
+      "name": "Second Rhapsody",
+      "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
+    },
+    {
+      "album": {
+        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
+        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Juray Bartos",
+          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Shall We Dance: They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/5zbXdG74mRQ52rOIucyquY"
+    },
+    {
+      "album": {
+        "name": "Gershwin for Trumpet",
+        "url": "https://open.spotify.com/album/4DwD0fvNMsA4T0APHyCTwv"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Juraj Barto\u0161",
+          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 336000,
+      "name": "Shall we Dance: They can't take that away from me (arr. P. Breiner): They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/4v5oB24AVAVDOeBmIGw3NY"
+    },
+    {
+      "album": {
+        "name": "Gershwin Plays Gershwin: The Piano Rolls",
+        "url": "https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258093,
+      "name": "So Am I",
+      "url": "https://open.spotify.com/track/4BG2tiyGdAY8PWbvXd3587"
+    },
+    {
+      "album": {
+        "name": "Gershwin: We got Rhythm - A Gershwin Songbook",
+        "url": "https://open.spotify.com/album/5dpk1t1HctEJEQRZHlvVqE"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299253,
+      "name": "Someone to Watch over Me (Arr. for Piano) - From \"Oh Kay!\"",
+      "url": "https://open.spotify.com/track/3lsjf6k1z9HAlHDdab0KpR"
+    },
+    {
+      "album": {
+        "name": "A short guide to George Gershwin",
+        "url": "https://open.spotify.com/album/7vaCxyQKKNVbXEwcnQDyvd"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 299253,
+      "name": "Someone to Watch over Me (Arr. for Piano) - From \"Oh Kay!\"",
+      "url": "https://open.spotify.com/track/4ANB8CstCD4NMlAQV9ueqg"
+    },
+    {
+      "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/2poSmwqkBX2RE1Z7eQoU5c"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268440,
+      "name": "Someone To Watch Over Me - Demo",
+      "url": "https://open.spotify.com/track/6NTYTe9TefEXD65luwjxal"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96266,
+      "name": "Song Book: That Certain Feeling. Ardently",
+      "url": "https://open.spotify.com/track/5wdTS5phmn9ehfcAreEyvb"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
+        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Don Rose",
+          "url": "https://open.spotify.com/artist/68I7vZsOjHhe5587Lk75WL"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417640,
+      "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
+      "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
+    },
+    {
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/62Xj6x2LSWv47PtRAXrg5Z"
+    },
+    {
+      "album": {
+        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
+        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Juray Bartos",
+          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
+        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199421,
+      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
+      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
+    },
+    {
+      "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131400,
+      "name": "Three-Quarter Blues",
+      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
+    },
+    {
+      "album": {
+        "name": "Manhattan Playboys - American Light Classics",
+        "url": "https://open.spotify.com/album/503iQX6wnNcm6vvUB7A4Rx"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Iain Sutherland Concert Orchestra",
+          "url": "https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a"
+        },
+        {
+          "name": "Iain Sutherland",
+          "url": "https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 186400,
+      "name": "Walking the Dog",
+      "url": "https://open.spotify.com/track/0phdb9laifEUNBfe5fO1jp"
+    },
+    {
+      "album": {
+        "name": "Manhattan Playboys - American Light Classics",
+        "url": "https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Iain Sutherland Concert Orchestra",
+          "url": "https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a"
+        },
+        {
+          "name": "Iain Sutherland",
+          "url": "https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Walking the Dog",
+      "url": "https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ"
+    },
+    {
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdcNhMtmDJe1"
 }

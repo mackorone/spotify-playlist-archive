@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Arlo Parks en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. The Smile en portada.",
   "name": "Indielandia",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 272695,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/3znKpMRCzOloTYv0uGAs22"
@@ -194,10 +194,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 150824,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
+    },
+    {
+      "album": {
+        "name": "Best For You and Me",
+        "url": "https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185263,
+      "name": "Best For You and Me",
+      "url": "https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ"
     },
     {
       "album": {
@@ -230,7 +248,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 221946,
       "name": "Black Moon Rising",
       "url": "https://open.spotify.com/track/2LTah3NcoIJI9WHJW3VIlC"
@@ -374,7 +392,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 124000,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/29Pf9AzgYQnVPKyz5bU6K3"
@@ -396,6 +414,24 @@
       "duration_ms": 207133,
       "name": "Deep In The Night",
       "url": "https://open.spotify.com/track/6gtHOp7wydpyIguAIxWrTb"
+    },
+    {
+      "album": {
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229165,
+      "name": "Discount De Kooning (Last One Standing)",
+      "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
     },
     {
       "album": {
@@ -494,7 +530,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf"
@@ -519,6 +555,28 @@
     },
     {
       "album": {
+        "name": "Fantasneeze (feat. Matilda Mann)",
+        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201240,
+      "name": "Fantasneeze (feat. Matilda Mann)",
+      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+    },
+    {
+      "album": {
         "name": "Float Away",
         "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
       },
@@ -538,6 +596,24 @@
       "duration_ms": 186000,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
+    },
+    {
+      "album": {
+        "name": "Friend Of A Friend",
+        "url": "https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275200,
+      "name": "Friend Of A Friend",
+      "url": "https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj"
     },
     {
       "album": {
@@ -624,7 +700,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 294835,
       "name": "Hadsel",
       "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
@@ -664,7 +740,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 306106,
       "name": "Holiday House",
       "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
@@ -722,7 +798,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
@@ -867,6 +943,24 @@
     },
     {
       "album": {
+        "name": "It's So Good",
+        "url": "https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278518,
+      "name": "It's So Good",
+      "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
+    },
+    {
+      "album": {
         "name": "It's Euphoric",
         "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
       },
@@ -918,6 +1012,28 @@
       "duration_ms": 237434,
       "name": "kisses",
       "url": "https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2"
+    },
+    {
+      "album": {
+        "name": "Lego Ring",
+        "url": "https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163228,
+      "name": "Lego Ring",
+      "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
     },
     {
       "album": {
@@ -1047,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "My Best Friend",
+        "url": "https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "My Best Friend",
+      "url": "https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2"
+    },
+    {
+      "album": {
         "name": "My Room",
         "url": "https://open.spotify.com/album/2n8TEXBMxygQ1OcUxlkGK4"
       },
@@ -1121,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Declare",
+        "url": "https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Nothing To Declare",
+      "url": "https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -1136,10 +1288,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "album": {
@@ -1198,6 +1368,24 @@
       "duration_ms": 194096,
       "name": "Peach",
       "url": "https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83"
+    },
+    {
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201467,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT"
     },
     {
       "album": {
@@ -1266,7 +1454,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
@@ -1327,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/7GWri0vOM50HLghDtW0ZAd"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215725,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5xJ9WXXDxVsZIutIHQRXlq"
+    },
+    {
+      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
       },
@@ -1338,10 +1544,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 210377,
       "name": "Rocky Trail",
       "url": "https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW"
+    },
+    {
+      "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/3n66BWhi8FGqDOHFbkON6y"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/44mw4OdRaYz6KkRVP5PEjN"
     },
     {
       "album": {
@@ -1356,7 +1580,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": "2024-01-13",
       "duration_ms": 245933,
       "name": "Seaforth",
       "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
@@ -1392,7 +1616,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 146080,
       "name": "shutting me out",
       "url": "https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi"
@@ -1486,6 +1710,28 @@
       "duration_ms": 209099,
       "name": "Somethinggreater - Single Version",
       "url": "https://open.spotify.com/track/1hp7aHiWB6zxcpehJR7xRO"
+    },
+    {
+      "album": {
+        "name": "Spare Me the Decision (Cutouts Remix)",
+        "url": "https://open.spotify.com/album/4S6O2DQLLiPd1T9gqirP6P"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        },
+        {
+          "name": "Cutouts",
+          "url": "https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301680,
+      "name": "Spare Me The Decision - Cutouts Remix",
+      "url": "https://open.spotify.com/track/6ovMHhjpZZAeL1c9KMChXZ"
     },
     {
       "album": {
@@ -1616,7 +1862,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 267400,
       "name": "The Fight",
       "url": "https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0"
@@ -1718,6 +1964,24 @@
       "duration_ms": 201386,
       "name": "Typical",
       "url": "https://open.spotify.com/track/6E7pDd86Ps7k9eJonSQfh9"
+    },
+    {
+      "album": {
+        "name": "Untidy Creature",
+        "url": "https://open.spotify.com/album/7iB1U6TK6DtjX7Jt69SEPB"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208630,
+      "name": "Untidy Creature",
+      "url": "https://open.spotify.com/track/5iFAQbY63p9Wbpc8XGU84a"
     },
     {
       "album": {
@@ -1826,7 +2090,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 168786,
       "name": "Wings Of Time - From the Motion Picture Dungeons & Dragons: Honor Among Thieves",
       "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"

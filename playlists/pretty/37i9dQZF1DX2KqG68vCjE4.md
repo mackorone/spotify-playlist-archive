@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KqG68vCjE4.md) - [plain]
 
 > Wishing Willie Nelson a happy 90th birthday with Spotify Singles tributes from Margo Price feat\. Particle Kid, The War and Treaty, & Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,520 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,634 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

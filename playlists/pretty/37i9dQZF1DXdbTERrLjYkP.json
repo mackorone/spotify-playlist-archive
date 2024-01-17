@@ -1,13 +1,61 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lili-Ann De Francesco",
-  "num_followers": 92474,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Georgia Webster",
+  "num_followers": 92931,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2FlY2U2OWZiMGI3ODM3ZjU3ODJhMmFhNTAzYTFmN2M2YjQ5MzYy",
+  "snapshot_id": "MCxkNjEzYzQ3ZDdhMmQ4NTk3NzExYjE0ZDdlYWQ0NGJiMmRmMjQ1MThi",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/4aEpV2d6LOIsKqsmdueLTD"
+      },
+      "artists": [
+        {
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "gone for good",
+        "url": "https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 173503,
+      "name": "gone for good",
+      "url": "https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
+    },
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
@@ -25,36 +73,36 @@
       "url": "https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY"
     },
     {
-      "added_at": "2023-12-29 05:00:00",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs"
+        "name": "Porn Star",
+        "url": "https://open.spotify.com/album/50sODBepKvtl2xsK5ni7wU"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
         }
       ],
-      "duration_ms": 198688,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet"
+      "duration_ms": 154285,
+      "name": "Porn Star",
+      "url": "https://open.spotify.com/track/3gb6mXrHtMgHV6XDgFXb60"
     },
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "After You",
-        "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9"
       },
       "artists": [
         {
-          "name": "Julius Black",
-          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 203058,
-      "name": "After You",
-      "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
+      "duration_ms": 215082,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -71,6 +119,70 @@
       "duration_ms": 194304,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "guitar center",
+        "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 187839,
+      "name": "guitar center",
+      "url": "https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Locked Up Never Fade",
+        "url": "https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gaffney",
+          "url": "https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ"
+        }
+      ],
+      "duration_ms": 324447,
+      "name": "Locked Up Never Fade",
+      "url": "https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/7Jm1oRYt9j8kD7tMdDB19a"
+      },
+      "artists": [
+        {
+          "name": "Landan Ash",
+          "url": "https://open.spotify.com/artist/6qhb8OD7uR2pIteZ1FfroC"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/1KfXuX55mKi7dJmNhDlaW3"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "After You",
+        "url": "https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL"
+      },
+      "artists": [
+        {
+          "name": "Julius Black",
+          "url": "https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj"
+        }
+      ],
+      "duration_ms": 203058,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -137,10 +249,10 @@
       "url": "https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1"
     },
     {
-      "added_at": "2023-11-17 05:01:00",
+      "added_at": "2023-12-29 05:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs"
       },
       "artists": [
         {
@@ -148,25 +260,9 @@
           "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 215082,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
+      "duration_ms": 198688,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -311,22 +407,6 @@
       "duration_ms": 218220,
       "name": "New Friend",
       "url": "https://open.spotify.com/track/6ypdHshYFvRKxwvk3gV2TC"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "less like me",
-        "url": "https://open.spotify.com/album/7dC4gZcYpSTuomQwxYxIwL"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 198032,
-      "name": "less like me",
-      "url": "https://open.spotify.com/track/6lkPm38Rdg9Lfa4fotYJYV"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -715,22 +795,6 @@
     {
       "added_at": "2023-11-10 04:00:00",
       "album": {
-        "name": "at the end of the world",
-        "url": "https://open.spotify.com/album/1zyZ6yfGnOV4zgYFwglVsS"
-      },
-      "artists": [
-        {
-          "name": "Daniel Leggs",
-          "url": "https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "at the end of the world",
-      "url": "https://open.spotify.com/track/5ivyykAJXgoxXRTaNli7JB"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/1OdBCJQCZJFvYRvDz85STj"
       },
@@ -743,38 +807,6 @@
       "duration_ms": 207573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0k9KbFbpye6K8VPbA0HT7J"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/6BRdexHbMkyYtw0Z3nYYB3"
-      },
-      "artists": [
-        {
-          "name": "Sophia Alexa",
-          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
-        }
-      ],
-      "duration_ms": 221286,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/5udu8qPZKBuxXxygJ5mD8Z"
     },
     {
       "added_at": "2023-11-10 04:00:00",
@@ -827,22 +859,6 @@
     {
       "added_at": "2023-11-10 04:00:00",
       "album": {
-        "name": "Wait Up",
-        "url": "https://open.spotify.com/album/4owm0U3LAo5y1sCun9lyXV"
-      },
-      "artists": [
-        {
-          "name": "Becky Sikasa",
-          "url": "https://open.spotify.com/artist/3UqXMAMPI53itEWm6SMaBZ"
-        }
-      ],
-      "duration_ms": 175699,
-      "name": "Wait Up",
-      "url": "https://open.spotify.com/track/6zniefLYl8sGh6TY0rDbID"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 232465,
       "name": "promise to pick up the phone",
       "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Hahaha",
-        "url": "https://open.spotify.com/album/0ymEWOOv24RYfduGFeuAA7"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Hahaha",
-      "url": "https://open.spotify.com/track/0E6mNyZk7aN8XYkZ3rLD9n"
     },
     {
       "added_at": "2023-11-10 04:00:00",

@@ -1,574 +1,559 @@
 {
-  "2022-06-05": 48,
-  "2022-06-06": 54,
-  "2022-06-07": 59,
-  "2022-06-08": 70,
-  "2022-06-09": 78,
-  "2022-06-10": 81,
-  "2022-06-11": 87,
-  "2022-06-12": 92,
-  "2022-06-13": 95,
-  "2022-06-14": 104,
-  "2022-06-15": 115,
-  "2022-06-16": 125,
-  "2022-06-17": 132,
-  "2022-06-18": 147,
-  "2022-06-19": 168,
-  "2022-06-20": 168,
-  "2022-06-21": 183,
-  "2022-06-22": 210,
-  "2022-06-23": 210,
-  "2022-06-24": 223,
-  "2022-06-25": 237,
-  "2022-06-26": 250,
-  "2022-06-27": 263,
-  "2022-06-28": 272,
-  "2022-06-29": 286,
-  "2022-06-30": 291,
-  "2022-07-01": 303,
-  "2022-07-02": 319,
-  "2022-07-03": 331,
-  "2022-07-04": 344,
-  "2022-07-05": 355,
-  "2022-07-06": 372,
-  "2022-07-07": 389,
-  "2022-07-08": 404,
-  "2022-07-09": 413,
-  "2022-07-10": 422,
-  "2022-07-11": 430,
-  "2022-07-12": 442,
-  "2022-07-13": 450,
-  "2022-07-14": 468,
-  "2022-07-15": 479,
-  "2022-07-16": 492,
-  "2022-07-17": 505,
-  "2022-07-18": 516,
-  "2022-07-19": 530,
-  "2022-07-20": 536,
-  "2022-07-21": 542,
-  "2022-07-22": 552,
-  "2022-07-23": 561,
-  "2022-07-24": 568,
-  "2022-07-25": 575,
-  "2022-07-26": 592,
-  "2022-07-27": 606,
-  "2022-07-28": 614,
-  "2022-07-29": 622,
-  "2022-07-30": 639,
-  "2022-07-31": 639,
-  "2022-08-01": 646,
-  "2022-08-02": 662,
-  "2022-08-03": 662,
-  "2022-08-04": 672,
-  "2022-08-05": 682,
-  "2022-08-06": 691,
-  "2022-08-07": 700,
-  "2022-08-08": 710,
-  "2022-08-09": 717,
-  "2022-08-10": 727,
-  "2022-08-11": 730,
-  "2022-08-12": 743,
-  "2022-08-13": 753,
-  "2022-08-14": 764,
-  "2022-08-15": 779,
-  "2022-08-16": 788,
-  "2022-08-17": 793,
-  "2022-08-18": 803,
-  "2022-08-19": 813,
-  "2022-08-20": 822,
-  "2022-08-21": 837,
-  "2022-08-22": 843,
-  "2022-08-23": 852,
-  "2022-08-24": 865,
-  "2022-08-25": 876,
-  "2022-08-26": 888,
-  "2022-08-27": 903,
-  "2022-08-28": 913,
-  "2022-08-29": 916,
-  "2022-08-30": 923,
-  "2022-08-31": 932,
-  "2022-09-01": 942,
-  "2022-09-02": 952,
-  "2022-09-03": 955,
-  "2022-09-04": 964,
-  "2022-09-05": 974,
-  "2022-09-06": 978,
-  "2022-09-07": 988,
-  "2022-09-09": 1004,
-  "2022-09-10": 1012,
-  "2022-09-11": 1025,
-  "2022-09-12": 1039,
-  "2022-09-13": 1052,
-  "2022-09-15": 1067,
-  "2022-09-16": 1080,
-  "2022-09-17": 1084,
-  "2022-09-18": 1101,
-  "2022-09-19": 1121,
-  "2022-09-20": 1131,
-  "2022-09-21": 1144,
-  "2022-09-22": 1153,
-  "2022-09-23": 1164,
-  "2022-09-24": 1179,
-  "2022-09-25": 1195,
-  "2022-09-26": 1211,
-  "2022-09-27": 1219,
-  "2022-09-28": 1228,
-  "2022-09-29": 1243,
-  "2022-09-30": 1258,
-  "2022-10-01": 1272,
-  "2022-10-02": 1289,
-  "2022-10-03": 1294,
-  "2022-10-04": 1308,
-  "2022-10-05": 1318,
-  "2022-10-06": 1332,
-  "2022-10-07": 1343,
-  "2022-10-08": 1358,
-  "2022-10-09": 1374,
-  "2022-10-10": 1375,
-  "2022-10-11": 1389,
-  "2022-10-12": 1404,
-  "2022-10-13": 1413,
-  "2022-10-14": 1424,
-  "2022-10-15": 1431,
-  "2022-10-16": 1445,
-  "2022-10-17": 1449,
-  "2022-10-18": 1455,
-  "2022-10-19": 1466,
-  "2022-10-20": 1481,
-  "2022-10-21": 1491,
-  "2022-10-22": 1496,
-  "2022-10-23": 1502,
-  "2022-10-24": 1508,
-  "2022-10-25": 1530,
-  "2022-10-26": 1544,
-  "2022-10-27": 1553,
-  "2022-10-28": 1555,
-  "2022-10-29": 1560,
-  "2022-10-30": 1565,
-  "2022-10-31": 1571,
-  "2022-11-01": 1573,
-  "2022-11-02": 1575,
-  "2022-11-03": 1576,
-  "2022-11-04": 1579,
-  "2022-11-05": 1581,
-  "2022-11-06": 1586,
-  "2022-11-07": 1595,
-  "2022-11-08": 1598,
-  "2022-11-09": 1603,
-  "2022-11-10": 1607,
-  "2022-11-11": 1612,
-  "2022-11-12": 1613,
-  "2022-11-13": 1617,
-  "2022-11-14": 1615,
-  "2022-11-15": 1622,
-  "2022-11-16": 1628,
-  "2022-11-17": 1631,
-  "2022-11-18": 1634,
-  "2022-11-19": 1632,
-  "2022-11-20": 1635,
-  "2022-11-21": 1639,
-  "2022-11-22": 1647,
-  "2022-11-23": 1646,
-  "2022-11-24": 1661,
-  "2022-11-25": 1668,
-  "2022-11-26": 1671,
-  "2022-11-27": 1672,
-  "2022-11-28": 1675,
-  "2022-11-29": 1676,
-  "2022-11-30": 1681,
-  "2022-12-01": 1681,
-  "2022-12-02": 1685,
-  "2022-12-03": 1687,
-  "2022-12-04": 1688,
-  "2022-12-05": 1697,
-  "2022-12-06": 1702,
-  "2022-12-07": 1704,
-  "2022-12-08": 1708,
-  "2022-12-09": 1711,
-  "2022-12-10": 1713,
-  "2022-12-11": 1722,
-  "2022-12-12": 1724,
-  "2022-12-13": 1724,
-  "2022-12-14": 1726,
-  "2022-12-15": 1728,
-  "2022-12-16": 1732,
-  "2022-12-17": 1735,
-  "2022-12-18": 1737,
-  "2022-12-19": 1740,
-  "2022-12-20": 1750,
-  "2022-12-21": 1750,
-  "2022-12-22": 1757,
-  "2022-12-24": 1766,
-  "2022-12-25": 1770,
-  "2022-12-26": 1773,
-  "2022-12-27": 1771,
-  "2022-12-28": 1778,
-  "2022-12-29": 1780,
-  "2022-12-30": 1783,
-  "2022-12-31": 1863,
-  "2023-01-01": 1928,
-  "2023-01-02": 1930,
-  "2023-01-03": 1935,
-  "2023-01-04": 1941,
-  "2023-01-05": 1950,
-  "2023-01-06": 1954,
-  "2023-01-07": 1967,
-  "2023-01-08": 1969,
-  "2023-01-09": 1970,
-  "2023-01-10": 1969,
-  "2023-01-11": 1975,
-  "2023-01-12": 1975,
-  "2023-01-13": 1978,
-  "2023-01-14": 1981,
-  "2023-01-15": 1982,
-  "2023-01-16": 1985,
-  "2023-01-17": 1989,
-  "2023-01-18": 1990,
-  "2023-01-19": 1995,
-  "2023-01-20": 2000,
-  "2023-01-21": 2001,
-  "2023-01-22": 2000,
-  "2023-01-23": 2002,
-  "2023-01-24": 2001,
-  "2023-01-25": 2008,
-  "2023-01-26": 2008,
-  "2023-01-27": 2015,
-  "2023-01-28": 2018,
-  "2023-01-29": 2023,
-  "2023-01-30": 2027,
-  "2023-01-31": 2027,
-  "2023-02-01": 2032,
-  "2023-02-02": 2035,
-  "2023-02-03": 2037,
-  "2023-02-04": 2041,
-  "2023-02-05": 2048,
-  "2023-02-06": 2051,
-  "2023-02-07": 2054,
-  "2023-02-08": 2055,
-  "2023-02-09": 2055,
-  "2023-02-10": 2058,
-  "2023-02-11": 2058,
-  "2023-02-12": 2064,
-  "2023-02-13": 2071,
-  "2023-02-14": 2071,
-  "2023-02-15": 2078,
-  "2023-02-16": 2080,
-  "2023-02-17": 2081,
-  "2023-02-18": 2088,
-  "2023-02-19": 2088,
-  "2023-02-20": 2087,
-  "2023-02-21": 2090,
-  "2023-02-22": 2093,
-  "2023-02-23": 2100,
-  "2023-02-24": 2105,
-  "2023-02-25": 2105,
-  "2023-02-26": 2107,
-  "2023-02-27": 2111,
-  "2023-02-28": 2111,
-  "2023-03-01": 2111,
-  "2023-03-02": 2112,
-  "2023-03-03": 2114,
-  "2023-03-04": 2115,
-  "2023-03-05": 2119,
-  "2023-03-06": 2119,
-  "2023-03-07": 2127,
-  "2023-03-08": 2129,
-  "2023-03-09": 2131,
-  "2023-03-10": 2132,
-  "2023-03-11": 2134,
-  "2023-03-12": 2133,
-  "2023-03-13": 2139,
-  "2023-03-14": 2146,
-  "2023-03-15": 2147,
-  "2023-03-16": 2153,
-  "2023-03-17": 2153,
-  "2023-03-18": 2158,
-  "2023-03-19": 2156,
-  "2023-03-20": 2164,
-  "2023-03-21": 2167,
-  "2023-03-22": 2166,
-  "2023-03-23": 2169,
-  "2023-03-24": 2169,
-  "2023-03-25": 2176,
-  "2023-03-26": 2179,
-  "2023-03-27": 2181,
-  "2023-03-28": 2181,
-  "2023-03-29": 2187,
-  "2023-03-30": 2194,
-  "2023-03-31": 2194,
-  "2023-04-01": 2198,
-  "2023-04-02": 2199,
-  "2023-04-03": 2203,
-  "2023-04-04": 2208,
-  "2023-04-05": 2210,
-  "2023-04-06": 2212,
-  "2023-04-07": 2214,
-  "2023-04-09": 2224,
-  "2023-04-10": 2225,
-  "2023-04-11": 2237,
-  "2023-04-12": 2237,
-  "2023-04-13": 2239,
-  "2023-04-14": 2242,
-  "2023-04-15": 2246,
-  "2023-04-16": 2252,
-  "2023-04-17": 2260,
-  "2023-04-18": 2265,
-  "2023-04-19": 2268,
-  "2023-04-20": 2269,
-  "2023-04-21": 2271,
-  "2023-04-22": 2279,
-  "2023-04-23": 2286,
-  "2023-04-24": 2292,
-  "2023-04-25": 2292,
-  "2023-04-26": 2300,
-  "2023-04-27": 2302,
-  "2023-04-28": 2304,
-  "2023-04-29": 2306,
-  "2023-04-30": 2308,
-  "2023-05-01": 2309,
-  "2023-05-02": 2315,
-  "2023-05-03": 2318,
-  "2023-05-04": 2320,
-  "2023-05-05": 2323,
-  "2023-05-06": 2326,
-  "2023-05-07": 2331,
-  "2023-05-08": 2332,
-  "2023-05-09": 2333,
-  "2023-05-10": 2337,
-  "2023-05-11": 2343,
-  "2023-05-12": 2346,
-  "2023-05-13": 2347,
-  "2023-05-14": 2349,
-  "2023-05-15": 2352,
-  "2023-05-16": 2351,
-  "2023-05-17": 2354,
-  "2023-05-18": 2362,
-  "2023-05-19": 2365,
-  "2023-05-20": 2377,
-  "2023-05-21": 2377,
-  "2023-05-22": 2377,
-  "2023-05-23": 2384,
-  "2023-05-24": 2391,
-  "2023-05-25": 2392,
-  "2023-05-26": 2393,
-  "2023-05-27": 2398,
-  "2023-05-28": 2403,
-  "2023-05-29": 2403,
-  "2023-05-30": 2406,
-  "2023-05-31": 2409,
-  "2023-06-01": 2410,
-  "2023-06-02": 2411,
-  "2023-06-03": 2415,
-  "2023-06-04": 2420,
-  "2023-06-05": 2424,
-  "2023-06-06": 2425,
-  "2023-06-07": 2429,
-  "2023-06-08": 2433,
-  "2023-06-09": 2435,
-  "2023-06-10": 2441,
-  "2023-06-11": 2442,
-  "2023-06-12": 2442,
-  "2023-06-13": 2446,
-  "2023-06-14": 2446,
-  "2023-06-15": 2450,
-  "2023-06-16": 2455,
-  "2023-06-17": 2462,
-  "2023-06-18": 2466,
-  "2023-06-19": 2469,
-  "2023-06-20": 2475,
-  "2023-06-21": 2478,
-  "2023-06-22": 2481,
-  "2023-06-23": 2484,
-  "2023-06-24": 2485,
-  "2023-06-25": 2487,
-  "2023-06-26": 2488,
-  "2023-06-27": 2488,
-  "2023-06-28": 2489,
-  "2023-06-29": 2491,
-  "2023-06-30": 2493,
-  "2023-07-01": 2493,
-  "2023-07-02": 2493,
-  "2023-07-03": 2495,
-  "2023-07-04": 2497,
-  "2023-07-05": 2501,
-  "2023-07-06": 2506,
-  "2023-07-07": 2506,
-  "2023-07-08": 2511,
-  "2023-07-09": 2513,
-  "2023-07-10": 2517,
-  "2023-07-11": 2520,
-  "2023-07-12": 2526,
-  "2023-07-13": 2529,
-  "2023-07-14": 2533,
-  "2023-07-15": 2536,
-  "2023-07-16": 2538,
-  "2023-07-17": 2541,
-  "2023-07-18": 2543,
-  "2023-07-19": 2546,
-  "2023-07-20": 2545,
-  "2023-07-21": 2551,
-  "2023-07-22": 2551,
-  "2023-07-23": 2555,
-  "2023-07-24": 2554,
-  "2023-07-25": 2555,
-  "2023-07-26": 2557,
-  "2023-07-27": 2561,
-  "2023-07-28": 2565,
-  "2023-07-29": 2566,
-  "2023-07-30": 2565,
-  "2023-07-31": 2569,
-  "2023-08-01": 2570,
-  "2023-08-02": 2576,
-  "2023-08-03": 2583,
-  "2023-08-04": 2585,
-  "2023-08-05": 2585,
-  "2023-08-06": 2593,
-  "2023-08-07": 2593,
-  "2023-08-08": 2596,
-  "2023-08-09": 2601,
-  "2023-08-10": 2603,
-  "2023-08-11": 2606,
-  "2023-08-12": 2611,
-  "2023-08-13": 2613,
-  "2023-08-14": 2615,
-  "2023-08-15": 2623,
-  "2023-08-16": 2623,
-  "2023-08-17": 2628,
-  "2023-08-18": 2631,
-  "2023-08-19": 2633,
-  "2023-08-20": 2640,
-  "2023-08-21": 2640,
-  "2023-08-22": 2641,
-  "2023-08-23": 2641,
-  "2023-08-24": 2642,
-  "2023-08-25": 2644,
-  "2023-08-26": 2646,
-  "2023-08-27": 2655,
-  "2023-08-28": 2657,
-  "2023-08-29": 2659,
-  "2023-08-30": 2665,
-  "2023-08-31": 2664,
-  "2023-09-01": 2684,
-  "2023-09-02": 2684,
-  "2023-09-03": 2696,
-  "2023-09-04": 2710,
-  "2023-09-05": 2718,
-  "2023-09-06": 2733,
-  "2023-09-07": 2748,
-  "2023-09-08": 2758,
-  "2023-09-09": 2769,
-  "2023-09-10": 2788,
-  "2023-09-11": 2803,
-  "2023-09-12": 2815,
-  "2023-09-13": 2831,
-  "2023-09-14": 2842,
-  "2023-09-15": 2855,
-  "2023-09-16": 2874,
-  "2023-09-17": 2892,
-  "2023-09-18": 2901,
-  "2023-09-19": 2912,
-  "2023-09-20": 2924,
-  "2023-09-21": 2942,
-  "2023-09-22": 2956,
-  "2023-09-23": 2970,
-  "2023-09-24": 2981,
-  "2023-09-25": 2994,
-  "2023-09-26": 3017,
-  "2023-09-27": 3022,
-  "2023-09-28": 3039,
-  "2023-09-29": 3052,
-  "2023-09-30": 3061,
-  "2023-10-01": 3071,
-  "2023-10-02": 3079,
-  "2023-10-03": 3089,
-  "2023-10-04": 3107,
-  "2023-10-05": 3118,
-  "2023-10-06": 3130,
-  "2023-10-07": 3143,
-  "2023-10-08": 3156,
-  "2023-10-09": 3176,
-  "2023-10-10": 3183,
-  "2023-10-11": 3201,
-  "2023-10-12": 3201,
-  "2023-10-13": 3208,
-  "2023-10-14": 3215,
-  "2023-10-15": 3225,
-  "2023-10-16": 3232,
-  "2023-10-17": 3240,
-  "2023-10-18": 3255,
-  "2023-10-19": 3266,
-  "2023-10-20": 3272,
-  "2023-10-21": 3282,
-  "2023-10-22": 3294,
-  "2023-10-23": 3303,
-  "2023-10-24": 3310,
-  "2023-10-25": 3321,
-  "2023-10-26": 3334,
-  "2023-10-27": 3338,
-  "2023-10-28": 3348,
-  "2023-10-29": 3363,
-  "2023-10-30": 3379,
-  "2023-10-31": 3379,
-  "2023-11-01": 3388,
-  "2023-11-02": 3395,
-  "2023-11-03": 3412,
-  "2023-11-04": 3418,
-  "2023-11-05": 3426,
-  "2023-11-06": 3442,
-  "2023-11-07": 3442,
-  "2023-11-08": 3442,
-  "2023-11-09": 3442,
-  "2023-11-10": 3442,
-  "2023-11-11": 3442,
-  "2023-11-12": 3442,
-  "2023-11-13": 3442,
-  "2023-11-14": 3442,
-  "2023-11-15": 3442,
-  "2023-11-16": 3442,
-  "2023-11-17": 3442,
-  "2023-11-18": 3442,
-  "2023-11-19": 3442,
-  "2023-11-20": 3442,
-  "2023-11-21": 3442,
-  "2023-11-22": 3442,
-  "2023-11-23": 3442,
-  "2023-11-24": 3442,
-  "2023-11-25": 3442,
-  "2023-11-26": 3442,
-  "2023-11-27": 3442,
-  "2023-11-28": 3442,
-  "2023-11-29": 3442,
-  "2023-11-30": 3442,
-  "2023-12-01": 3442,
-  "2023-12-02": 3442,
-  "2023-12-03": 3442,
-  "2023-12-04": 3442,
-  "2023-12-05": 3442,
-  "2023-12-06": 3442,
-  "2023-12-07": 3442,
-  "2023-12-08": 3442,
-  "2023-12-09": 3442,
-  "2023-12-10": 3442,
-  "2023-12-11": 3442,
-  "2023-12-12": 3442,
-  "2023-12-13": 3442,
-  "2023-12-14": 3442,
-  "2023-12-15": 3442,
-  "2023-12-16": 3442,
-  "2023-12-17": 3442,
-  "2023-12-18": 3442,
-  "2023-12-19": 3442,
-  "2023-12-20": 3442,
-  "2023-12-21": 3442,
-  "2023-12-22": 3442,
-  "2023-12-23": 3442,
-  "2023-12-24": 3442,
-  "2023-12-25": 3442,
-  "2023-12-26": 3442,
-  "2023-12-27": 3442,
-  "2023-12-30": 3442,
-  "2023-12-31": 3442,
-  "2024-01-01": 3442,
-  "2024-01-02": 3442,
-  "2024-01-03": 3442
+  "2024-01-17": 3442,
+  "date_first_scraped": "2022-06-05",
+  "description": "The twins <a href=\u201cspotify:artist:0Adbm5kzcPUxFybf9fhjgG\u201d>Coco & Breezy</a> showcase a high-energy House Music set that will for sure get you dancing.",
+  "name": "Coco & Breezy DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ambience (Mixed)",
+        "url": "https://open.spotify.com/album/3BadVfodsvUBneuffK6Xf9"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Ambience - Mixed",
+      "url": "https://open.spotify.com/track/6sBTwuCwjbZC1hhrPqvg7I"
+    },
+    {
+      "album": {
+        "name": "Conga Mode - Edit (Mixed)",
+        "url": "https://open.spotify.com/album/1tUHqIRQK80kanPL75cNOG"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Conga Mode - Edit - Mixed",
+      "url": "https://open.spotify.com/track/2v331Sd9lShMu1mI099Fim"
+    },
+    {
+      "album": {
+        "name": "Every Morning (Mixed)",
+        "url": "https://open.spotify.com/album/6L9UFwK54Quwm8go0n1flK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Every Morning - Mixed",
+      "url": "https://open.spotify.com/track/5H4DG7zI4tQbRjV8Xxv8TG"
+    },
+    {
+      "album": {
+        "name": "Fur - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/1eMEfBy6GuqOBoJ6cswThe"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Fur - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/1zR2mf0S02uYvnUQBaCafx"
+    },
+    {
+      "album": {
+        "name": "Haven't You Heard - Fitzy's Fully Charged Mix (Mixed)",
+        "url": "https://open.spotify.com/album/6AAW6tgTLRtABm419t6OeL"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Haven't You Heard - Fitzy's Fully Charged Mix - Mixed",
+      "url": "https://open.spotify.com/track/0mOu6z5zBXxPbHMlROnDgi"
+    },
+    {
+      "album": {
+        "name": "Hydration (Mixed)",
+        "url": "https://open.spotify.com/album/0PIUJDVYgJLQFpbPBJ0a9q"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Hydration - Mixed",
+      "url": "https://open.spotify.com/track/1foIMqt7ZypjLDfx6n4cDf"
+    },
+    {
+      "album": {
+        "name": "Into The Groove (Mixed)",
+        "url": "https://open.spotify.com/album/5YAyo0un4y01v4CRwRVETf"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Into The Groove - Mixed",
+      "url": "https://open.spotify.com/track/1pqu8JyZMzT1zyVunPnGRy"
+    },
+    {
+      "album": {
+        "name": "Koalack (Mixed)",
+        "url": "https://open.spotify.com/album/4hTcAhQE1VtkTMxW35TH87"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Koalack - Mixed",
+      "url": "https://open.spotify.com/track/2YEMxmVqQal3JJ8EcndQie"
+    },
+    {
+      "album": {
+        "name": "Lift Your Hands Up (feat. Ramona Renea) [Mixed]",
+        "url": "https://open.spotify.com/album/44Rz29ULAGbq4PeIIJzTGD"
+      },
+      "artists": [
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Lift Your Hands Up (feat. Ramona Renea) - Mixed",
+      "url": "https://open.spotify.com/track/1iZPVqEtDuybWnwGInXCFh"
+    },
+    {
+      "album": {
+        "name": "Liftin Me Up (Mixed)",
+        "url": "https://open.spotify.com/album/0GPU70krmiBmiNHpMkWhQt"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 214000,
+      "name": "Liftin Me Up - Mixed",
+      "url": "https://open.spotify.com/track/3IuoMVdAjjYvvQqsIMxaUE"
+    },
+    {
+      "album": {
+        "name": "Liftin Me Up (Mixed)",
+        "url": "https://open.spotify.com/album/0VgkQbcNXAQD0IJghomx9b"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Liftin Me Up - Mixed",
+      "url": "https://open.spotify.com/track/63sgeA5MnRXEKjxsMyJ1Ff"
+    },
+    {
+      "album": {
+        "name": "Like Whoa (Mixed)",
+        "url": "https://open.spotify.com/album/0HAi8SkTBvyjT782P4C6Oa"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Like Whoa - Mixed",
+      "url": "https://open.spotify.com/track/6T1b8Xazbf0ENMo9qGrZeM"
+    },
+    {
+      "album": {
+        "name": "Mi Amor (Mixed)",
+        "url": "https://open.spotify.com/album/5rvN2dmotskJDuyxGpfpur"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Mi Amor - Mixed",
+      "url": "https://open.spotify.com/track/36rGmOXDcoWU1dvqTK6kmT"
+    },
+    {
+      "album": {
+        "name": "Pasilda - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/5gJo42Qf7vwGt1zdejvQwd"
+      },
+      "artists": [
+        {
+          "name": "Shovell",
+          "url": "https://open.spotify.com/artist/3H9aUontw9uSlcCDrKwJoE"
+        },
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Pasilda - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/3ctCBBJlXRZiRaGStMh5Vv"
+    },
+    {
+      "album": {
+        "name": "Power - Floorplan Remix - Extended (Mixed)",
+        "url": "https://open.spotify.com/album/5Za9cjd6NnXBUkbfCoDeKs"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "Power - Floorplan Remix - Extended - Mixed",
+      "url": "https://open.spotify.com/track/706hG2zEGavbuZNTiaubu4"
+    },
+    {
+      "album": {
+        "name": "Right 2 Left (feat. Busta Rhymes) [Mixed]",
+        "url": "https://open.spotify.com/album/5BAgdBCWoZKim6lXO9EZbb"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33000,
+      "name": "Right 2 Left (feat. Busta Rhymes) - Mixed",
+      "url": "https://open.spotify.com/track/5ub5UQAM3ZLHhMjtSAYKVw"
+    },
+    {
+      "album": {
+        "name": "Soda Pop - Jaden Thompson Remix (Mixed)",
+        "url": "https://open.spotify.com/album/7dtw4zt8eFSHxXXnUDA9IA"
+      },
+      "artists": [
+        {
+          "name": "Not So French",
+          "url": "https://open.spotify.com/artist/0TkwAk5kUsLpz0txBUVIXJ"
+        },
+        {
+          "name": "Jaden Thompson",
+          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Soda Pop - Jaden Thompson Remix - Mixed",
+      "url": "https://open.spotify.com/track/5s2nfnaTUsHZziFNeNfzgS"
+    },
+    {
+      "album": {
+        "name": "Sometimes (Mixed)",
+        "url": "https://open.spotify.com/album/4xuNRdWXbxc2hmJMZLp3I4"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Sometimes - Mixed",
+      "url": "https://open.spotify.com/track/1NGb2f9IVBtU8KWAHnNdaM"
+    },
+    {
+      "album": {
+        "name": "Spiritual Thing (Mixed)",
+        "url": "https://open.spotify.com/album/7z0xM3XE79aYd1EvAQ4eGa"
+      },
+      "artists": [
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "PvssyCat",
+          "url": "https://open.spotify.com/artist/6ctlU7z2EqhgtXOYcHtEGC"
+        },
+        {
+          "name": "Marvin Aloys",
+          "url": "https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93000,
+      "name": "Spiritual Thing - Mixed",
+      "url": "https://open.spotify.com/track/7vJTejvri9UCY686nMTa6J"
+    },
+    {
+      "album": {
+        "name": "Strings 4 Love - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/4F5el2MepPnWCxgweSvgcR"
+      },
+      "artists": [
+        {
+          "name": "Dance System",
+          "url": "https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Strings 4 Love - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/3WeDk3qsJOgNn9ZkZUFcwl"
+    },
+    {
+      "album": {
+        "name": "Talamanca - Vintage Culture Remix (Mixed)",
+        "url": "https://open.spotify.com/album/3ZvGkUpTcV5CF1LLNESCc7"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Talamanca - Vintage Culture Remix - Mixed",
+      "url": "https://open.spotify.com/track/2wzuVdQJueoNALXmqm2Nfa"
+    },
+    {
+      "album": {
+        "name": "U. - Junior Sanchez Remix (Mixed)",
+        "url": "https://open.spotify.com/album/7i6osdogLBzerOiTCVfbpC"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "U. - Junior Sanchez Remix - Mixed",
+      "url": "https://open.spotify.com/track/0UOcDbtanPese0WNxWEdRa"
+    },
+    {
+      "album": {
+        "name": "WET (Mixed)",
+        "url": "https://open.spotify.com/album/1Ts40SVafixuyorO5901qM"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "WET - Mixed",
+      "url": "https://open.spotify.com/track/5APD9rtYok17ZQdnCyGNbE"
+    },
+    {
+      "album": {
+        "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn) [Mixed]",
+        "url": "https://open.spotify.com/album/4VJJp037yk0iWb5UCnTYal"
+      },
+      "artists": [
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        },
+        {
+          "name": "Dave Giles II",
+          "url": "https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn) - Mixed",
+      "url": "https://open.spotify.com/track/6uM7lm6VQZREBsXVQktDeh"
+    },
+    {
+      "album": {
+        "name": "You Have House - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/0BzrfDHtQgtHtpqcipxkiV"
+      },
+      "artists": [
+        {
+          "name": "Supernova",
+          "url": "https://open.spotify.com/artist/45prnyVzaIl2StUTCsAZYx"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "You Have House - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/69t7r2yQdmNyC9gUvhczGT"
+    },
+    {
+      "album": {
+        "name": "Your Tongue (Mixed)",
+        "url": "https://open.spotify.com/album/2TBeqIJWHSWrUjkdhxz1nG"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "Your Tongue - Mixed",
+      "url": "https://open.spotify.com/track/44qX5ewDe6vgsr5cgToad6"
+    },
+    {
+      "album": {
+        "name": "Your Tongue (Mixed)",
+        "url": "https://open.spotify.com/album/0qhSbmLSQQ4C7DgGhszD01"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 92000,
+      "name": "Your Tongue - Mixed",
+      "url": "https://open.spotify.com/track/5dWOVT3cMVKp3xmHxWIotT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZbLKYSaVqSx"
 }

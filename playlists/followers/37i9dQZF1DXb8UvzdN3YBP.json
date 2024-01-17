@@ -1,412 +1,663 @@
 {
-  "2022-11-16": 24,
-  "2022-11-17": 28,
-  "2022-11-18": 31,
-  "2022-11-19": 34,
-  "2022-11-20": 51,
-  "2022-11-21": 102,
-  "2022-11-22": 154,
-  "2022-11-23": 1223,
-  "2022-11-24": 2847,
-  "2022-11-25": 3780,
-  "2022-11-26": 4010,
-  "2022-11-27": 4118,
-  "2022-11-28": 4287,
-  "2022-11-29": 4383,
-  "2022-11-30": 4457,
-  "2022-12-01": 4571,
-  "2022-12-02": 4618,
-  "2022-12-03": 4721,
-  "2022-12-04": 4786,
-  "2022-12-05": 4847,
-  "2022-12-06": 4904,
-  "2022-12-07": 4956,
-  "2022-12-08": 4988,
-  "2022-12-09": 5037,
-  "2022-12-10": 5102,
-  "2022-12-11": 5154,
-  "2022-12-12": 5216,
-  "2022-12-13": 5262,
-  "2022-12-14": 5315,
-  "2022-12-15": 5382,
-  "2022-12-16": 5418,
-  "2022-12-17": 5461,
-  "2022-12-18": 5513,
-  "2022-12-19": 5578,
-  "2022-12-20": 5672,
-  "2022-12-21": 5672,
-  "2022-12-22": 5714,
-  "2022-12-24": 7969,
-  "2022-12-25": 10385,
-  "2022-12-26": 12252,
-  "2022-12-27": 13883,
-  "2022-12-28": 15747,
-  "2022-12-29": 17292,
-  "2022-12-30": 18716,
-  "2022-12-31": 19363,
-  "2023-01-01": 19694,
-  "2023-01-02": 20014,
-  "2023-01-03": 20364,
-  "2023-01-04": 20567,
-  "2023-01-05": 20765,
-  "2023-01-06": 21018,
-  "2023-01-07": 21360,
-  "2023-01-08": 21452,
-  "2023-01-09": 21690,
-  "2023-01-10": 21843,
-  "2023-01-11": 21965,
-  "2023-01-12": 22104,
-  "2023-01-13": 22244,
-  "2023-01-14": 22467,
-  "2023-01-15": 22507,
-  "2023-01-16": 22666,
-  "2023-01-17": 22785,
-  "2023-01-18": 22886,
-  "2023-01-19": 22972,
-  "2023-01-20": 23044,
-  "2023-01-21": 23129,
-  "2023-01-22": 23266,
-  "2023-01-23": 23383,
-  "2023-01-24": 23452,
-  "2023-01-25": 23535,
-  "2023-01-26": 23597,
-  "2023-01-27": 23669,
-  "2023-01-28": 23742,
-  "2023-01-29": 23859,
-  "2023-01-30": 23955,
-  "2023-01-31": 23955,
-  "2023-02-01": 24075,
-  "2023-02-02": 24132,
-  "2023-02-03": 24200,
-  "2023-02-04": 24255,
-  "2023-02-05": 24335,
-  "2023-02-06": 24395,
-  "2023-02-07": 24455,
-  "2023-02-08": 24537,
-  "2023-02-09": 24537,
-  "2023-02-10": 24587,
-  "2023-02-11": 24642,
-  "2023-02-12": 24778,
-  "2023-02-13": 24796,
-  "2023-02-14": 24796,
-  "2023-02-15": 24827,
-  "2023-02-16": 24848,
-  "2023-02-17": 24870,
-  "2023-02-18": 24953,
-  "2023-02-19": 24962,
-  "2023-02-20": 25006,
-  "2023-02-21": 25042,
-  "2023-02-22": 25055,
-  "2023-02-23": 25087,
-  "2023-02-24": 25126,
-  "2023-02-25": 25176,
-  "2023-02-26": 25204,
-  "2023-02-27": 25274,
-  "2023-02-28": 25274,
-  "2023-03-01": 25306,
-  "2023-03-02": 25357,
-  "2023-03-03": 25433,
-  "2023-03-04": 25546,
-  "2023-03-05": 25789,
-  "2023-03-06": 25789,
-  "2023-03-07": 25876,
-  "2023-03-08": 25985,
-  "2023-03-09": 26095,
-  "2023-03-10": 26220,
-  "2023-03-11": 26320,
-  "2023-03-12": 26433,
-  "2023-03-13": 26513,
-  "2023-03-14": 26598,
-  "2023-03-15": 26776,
-  "2023-03-16": 26862,
-  "2023-03-17": 26862,
-  "2023-03-18": 27028,
-  "2023-03-19": 27092,
-  "2023-03-20": 27183,
-  "2023-03-21": 27250,
-  "2023-03-22": 27303,
-  "2023-03-23": 27334,
-  "2023-03-24": 27334,
-  "2023-03-25": 27419,
-  "2023-03-26": 27496,
-  "2023-03-27": 27565,
-  "2023-03-28": 27593,
-  "2023-03-29": 27627,
-  "2023-03-30": 27670,
-  "2023-03-31": 27670,
-  "2023-04-01": 27704,
-  "2023-04-02": 27749,
-  "2023-04-03": 27777,
-  "2023-04-04": 27786,
-  "2023-04-05": 27805,
-  "2023-04-06": 27828,
-  "2023-04-07": 27864,
-  "2023-04-09": 27926,
-  "2023-04-10": 27976,
-  "2023-04-11": 28039,
-  "2023-04-12": 28039,
-  "2023-04-13": 28062,
-  "2023-04-14": 28097,
-  "2023-04-15": 28123,
-  "2023-04-16": 28160,
-  "2023-04-17": 28182,
-  "2023-04-18": 28204,
-  "2023-04-19": 28237,
-  "2023-04-20": 28262,
-  "2023-04-21": 28283,
-  "2023-04-22": 28319,
-  "2023-04-23": 28347,
-  "2023-04-24": 28364,
-  "2023-04-25": 28400,
-  "2023-04-26": 28415,
-  "2023-04-27": 28440,
-  "2023-04-28": 28461,
-  "2023-04-29": 28476,
-  "2023-04-30": 28510,
-  "2023-05-01": 28534,
-  "2023-05-02": 28549,
-  "2023-05-03": 28577,
-  "2023-05-04": 28598,
-  "2023-05-05": 28626,
-  "2023-05-06": 28654,
-  "2023-05-07": 28682,
-  "2023-05-08": 28719,
-  "2023-05-09": 28741,
-  "2023-05-10": 28755,
-  "2023-05-11": 28775,
-  "2023-05-12": 28795,
-  "2023-05-13": 28830,
-  "2023-05-14": 28854,
-  "2023-05-15": 28882,
-  "2023-05-16": 28902,
-  "2023-05-17": 28925,
-  "2023-05-18": 28956,
-  "2023-05-19": 28993,
-  "2023-05-20": 29051,
-  "2023-05-21": 29051,
-  "2023-05-22": 29051,
-  "2023-05-23": 29111,
-  "2023-05-24": 29137,
-  "2023-05-25": 29141,
-  "2023-05-26": 29161,
-  "2023-05-27": 29196,
-  "2023-05-28": 29217,
-  "2023-05-29": 29217,
-  "2023-05-30": 29269,
-  "2023-05-31": 29290,
-  "2023-06-01": 29308,
-  "2023-06-02": 29327,
-  "2023-06-03": 29350,
-  "2023-06-04": 29366,
-  "2023-06-05": 29392,
-  "2023-06-06": 29418,
-  "2023-06-07": 29429,
-  "2023-06-08": 29448,
-  "2023-06-09": 29459,
-  "2023-06-10": 29491,
-  "2023-06-11": 29523,
-  "2023-06-12": 29551,
-  "2023-06-13": 29563,
-  "2023-06-14": 29579,
-  "2023-06-15": 29592,
-  "2023-06-16": 29606,
-  "2023-06-17": 29619,
-  "2023-06-18": 29641,
-  "2023-06-19": 29662,
-  "2023-06-20": 29677,
-  "2023-06-21": 29683,
-  "2023-06-22": 29699,
-  "2023-06-23": 29718,
-  "2023-06-24": 29736,
-  "2023-06-25": 29761,
-  "2023-06-26": 29776,
-  "2023-06-27": 29806,
-  "2023-06-28": 29832,
-  "2023-06-29": 29839,
-  "2023-06-30": 29849,
-  "2023-07-01": 29863,
-  "2023-07-02": 29863,
-  "2023-07-03": 29885,
-  "2023-07-04": 29915,
-  "2023-07-05": 29937,
-  "2023-07-06": 29978,
-  "2023-07-07": 29978,
-  "2023-07-08": 29999,
-  "2023-07-09": 30029,
-  "2023-07-10": 30054,
-  "2023-07-11": 30053,
-  "2023-07-12": 30078,
-  "2023-07-13": 30096,
-  "2023-07-14": 30104,
-  "2023-07-15": 30116,
-  "2023-07-16": 30133,
-  "2023-07-17": 30145,
-  "2023-07-18": 30162,
-  "2023-07-19": 30183,
-  "2023-07-20": 30196,
-  "2023-07-21": 30212,
-  "2023-07-22": 30235,
-  "2023-07-23": 30254,
-  "2023-07-24": 30268,
-  "2023-07-25": 30291,
-  "2023-07-26": 30313,
-  "2023-07-27": 30328,
-  "2023-07-28": 30332,
-  "2023-07-29": 30348,
-  "2023-07-30": 30375,
-  "2023-07-31": 30395,
-  "2023-08-01": 30405,
-  "2023-08-02": 30414,
-  "2023-08-03": 30439,
-  "2023-08-04": 30460,
-  "2023-08-05": 30490,
-  "2023-08-06": 30526,
-  "2023-08-07": 30526,
-  "2023-08-08": 30545,
-  "2023-08-09": 30564,
-  "2023-08-10": 30576,
-  "2023-08-11": 30588,
-  "2023-08-12": 30610,
-  "2023-08-13": 30635,
-  "2023-08-14": 30653,
-  "2023-08-15": 30693,
-  "2023-08-16": 30693,
-  "2023-08-17": 30699,
-  "2023-08-18": 30717,
-  "2023-08-19": 30722,
-  "2023-08-20": 30749,
-  "2023-08-21": 30768,
-  "2023-08-22": 30781,
-  "2023-08-23": 30799,
-  "2023-08-24": 30810,
-  "2023-08-25": 30836,
-  "2023-08-26": 30858,
-  "2023-08-27": 30880,
-  "2023-08-28": 30889,
-  "2023-08-29": 30905,
-  "2023-08-30": 30919,
-  "2023-08-31": 30937,
-  "2023-09-01": 30945,
-  "2023-09-02": 30945,
-  "2023-09-03": 30958,
-  "2023-09-04": 30966,
-  "2023-09-05": 30979,
-  "2023-09-06": 30988,
-  "2023-09-07": 31005,
-  "2023-09-08": 31017,
-  "2023-09-09": 31032,
-  "2023-09-10": 31046,
-  "2023-09-11": 31060,
-  "2023-09-12": 31073,
-  "2023-09-13": 31086,
-  "2023-09-14": 31103,
-  "2023-09-15": 31119,
-  "2023-09-16": 31133,
-  "2023-09-17": 31139,
-  "2023-09-18": 31156,
-  "2023-09-19": 31158,
-  "2023-09-20": 31176,
-  "2023-09-21": 31181,
-  "2023-09-22": 31188,
-  "2023-09-23": 31188,
-  "2023-09-24": 31197,
-  "2023-09-25": 31201,
-  "2023-09-26": 31215,
-  "2023-09-27": 31220,
-  "2023-09-28": 31226,
-  "2023-09-29": 31227,
-  "2023-09-30": 31235,
-  "2023-10-01": 31247,
-  "2023-10-02": 31241,
-  "2023-10-03": 31249,
-  "2023-10-04": 31261,
-  "2023-10-05": 31266,
-  "2023-10-06": 31281,
-  "2023-10-07": 31301,
-  "2023-10-08": 31312,
-  "2023-10-09": 31314,
-  "2023-10-10": 31329,
-  "2023-10-11": 31342,
-  "2023-10-12": 31342,
-  "2023-10-13": 31355,
-  "2023-10-14": 31355,
-  "2023-10-15": 31355,
-  "2023-10-16": 31382,
-  "2023-10-17": 31382,
-  "2023-10-18": 31390,
-  "2023-10-19": 31397,
-  "2023-10-20": 31397,
-  "2023-10-21": 31410,
-  "2023-10-22": 31410,
-  "2023-10-23": 31427,
-  "2023-10-24": 31434,
-  "2023-10-25": 31434,
-  "2023-10-26": 31446,
-  "2023-10-27": 31449,
-  "2023-10-28": 31449,
-  "2023-10-29": 31449,
-  "2023-10-30": 31483,
-  "2023-10-31": 31483,
-  "2023-11-01": 31507,
-  "2023-11-02": 31525,
-  "2023-11-03": 31543,
-  "2023-11-04": 31543,
-  "2023-11-05": 31543,
-  "2023-11-06": 31583,
-  "2023-11-07": 31583,
-  "2023-11-08": 31583,
-  "2023-11-09": 31583,
-  "2023-11-10": 31624,
-  "2023-11-11": 31634,
-  "2023-11-12": 31639,
-  "2023-11-13": 31639,
-  "2023-11-14": 31639,
-  "2023-11-15": 31639,
-  "2023-11-16": 31639,
-  "2023-11-17": 31699,
-  "2023-11-18": 31699,
-  "2023-11-19": 31699,
-  "2023-11-20": 31699,
-  "2023-11-21": 31717,
-  "2023-11-22": 31725,
-  "2023-11-23": 31734,
-  "2023-11-24": 31734,
-  "2023-11-25": 31738,
-  "2023-11-26": 31738,
-  "2023-11-27": 31738,
-  "2023-11-28": 31738,
-  "2023-11-29": 31762,
-  "2023-11-30": 31762,
-  "2023-12-01": 31762,
-  "2023-12-02": 31777,
-  "2023-12-03": 31777,
-  "2023-12-04": 31777,
-  "2023-12-05": 31777,
-  "2023-12-06": 31814,
-  "2023-12-07": 31814,
-  "2023-12-08": 31814,
-  "2023-12-09": 31832,
-  "2023-12-10": 31832,
-  "2023-12-11": 31850,
-  "2023-12-12": 31850,
-  "2023-12-13": 31875,
-  "2023-12-14": 31885,
-  "2023-12-15": 31895,
-  "2023-12-16": 31906,
-  "2023-12-17": 31925,
-  "2023-12-18": 31937,
-  "2023-12-19": 31940,
-  "2023-12-20": 31952,
-  "2023-12-21": 31957,
-  "2023-12-22": 31961,
-  "2023-12-23": 31979,
-  "2023-12-24": 31997,
-  "2023-12-25": 32010,
-  "2023-12-26": 32025,
-  "2023-12-27": 32036,
-  "2023-12-30": 32069,
-  "2023-12-31": 32089,
-  "2024-01-01": 32108,
-  "2024-01-02": 32130,
-  "2024-01-03": 32145
+  "2024-01-17": 32426,
+  "date_first_scraped": "2022-11-16",
+  "description": "Music from and inspired by \"Glass Onion: A Knives Out Mystery,\" coming soon to Netflix. ",
+  "name": "Glass Onion Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aeraki (To Thiliko)",
+        "url": "https://open.spotify.com/album/4tJtx4Ah4XKMoqQwnEJ0Gv"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191356,
+      "name": "Aeraki - To Thiliko",
+      "url": "https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc"
+    },
+    {
+      "album": {
+        "name": "Glass Onion: A Knives Out Mystery (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120366,
+      "name": "Andi's Theme",
+      "url": "https://open.spotify.com/track/25Jv0pEi5Kys6FGxsfk5yP"
+    },
+    {
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371544,
+      "name": "Blanc's Tale, Pt. II",
+      "url": "https://open.spotify.com/track/0ZzluTS60kq1Hu5M74sBtb"
+    },
+    {
+      "album": {
+        "name": "COWBOY BEBOP (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9"
+      },
+      "artists": [
+        {
+          "name": "SEATBELTS",
+          "url": "https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157306,
+      "name": "Cat Blues",
+      "url": "https://open.spotify.com/track/4UIWEomPQIaacYpTjEwMVS"
+    },
+    {
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387666,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
+    },
+    {
+      "album": {
+        "name": "First Under The Wire (Remastered 2022)",
+        "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316218,
+      "name": "Cool Change - Remastered 2022",
+      "url": "https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+    },
+    {
+      "album": {
+        "name": "Glass Onion: A Knives Out Mystery (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103892,
+      "name": "Disruption",
+      "url": "https://open.spotify.com/track/72OYoYN96FGfgrIypvOmVW"
+    },
+    {
+      "album": {
+        "name": "Tatiana Nikolayeva plays Bach",
+        "url": "https://open.spotify.com/album/2bNvavvuP5BlkSHa6lrfxJ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tatiana Nikolayeva",
+          "url": "https://open.spotify.com/artist/6DLkqUf81qiaGPUYEep6Gb"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338333,
+      "name": "Fugue in G Minor, BWV 578",
+      "url": "https://open.spotify.com/track/5nC9blLxTTMkUIgBjOHI5A"
+    },
+    {
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137840,
+      "name": "Glass Onion - Remastered 2009",
+      "url": "https://open.spotify.com/track/2jAojvUaPoHPFSPpF0UNRo"
+    },
+    {
+      "album": {
+        "name": "Glass Onion String Quartet in Bb Minor (from the Netflix Film \"Glass Onion\")",
+        "url": "https://open.spotify.com/album/4w0X1Fak64BztXtd7CRnYl"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135820,
+      "name": "Glass Onion String Quartet in Bb Minor",
+      "url": "https://open.spotify.com/track/4yNzkxzvTaEknvjqXYYyKL"
+    },
+    {
+      "album": {
+        "name": "Love Tracks",
+        "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296106,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
+    },
+    {
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255226,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
+    },
+    {
+      "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110775,
+      "name": "Knives Out! (String Quartet in G Minor)",
+      "url": "https://open.spotify.com/track/6MVKZqfRYWkeFNRiIRjJub"
+    },
+    {
+      "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183967,
+      "name": "Knives Out!, Pt. II (The Will)",
+      "url": "https://open.spotify.com/track/5j7V7I0CBkCpsmwVSV3rBa"
+    },
+    {
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296506,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX"
+    },
+    {
+      "album": {
+        "name": "Glass Onion: A Knives Out Mystery (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122402,
+      "name": "Lights Out!",
+      "url": "https://open.spotify.com/track/1a143SdTh2FY80bwYeI3Wx"
+    },
+    {
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY"
+    },
+    {
+      "album": {
+        "name": "Jazz Afternoon - Baby Jazz Music, Candle Light Dinner, Calm Piano",
+        "url": "https://open.spotify.com/album/3zJuKl44R9IXVAAnIENgWn"
+      },
+      "artists": [
+        {
+          "name": "Instrumental Piano Universe",
+          "url": "https://open.spotify.com/artist/6nWAezpstoJjzf1m6ZEl7P"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Moody Jazz",
+      "url": "https://open.spotify.com/track/4o2xQZiuhFix37Mc0SHMxn"
+    },
+    {
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373213,
+      "name": "Mothership Connection (Star Child)",
+      "url": "https://open.spotify.com/track/7rLAPi81R7qlVqgXfykdEL"
+    },
+    {
+      "album": {
+        "name": "Glass Onion: A Knives Out Mystery (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107044,
+      "name": "Ms. Birdie Jay",
+      "url": "https://open.spotify.com/track/6MLLGKq2DN1NzjphOPa7GV"
+    },
+    {
+      "album": {
+        "name": "Paris 1983",
+        "url": "https://open.spotify.com/album/4f102HY552Rn68aqwRbzFO"
+      },
+      "artists": [
+        {
+          "name": "Sun Ra",
+          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204158,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/7MuZnieEKLs0VLivHZveVk"
+    },
+    {
+      "album": {
+        "name": "PANIC ATTACK",
+        "url": "https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149920,
+      "name": "PANIC ATTACK",
+      "url": "https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx"
+    },
+    {
+      "album": {
+        "name": "Clandestine",
+        "url": "https://open.spotify.com/album/5NuF7nYaRGq8YlPY1X52Ro"
+      },
+      "artists": [
+        {
+          "name": "Jo Blankenburg",
+          "url": "https://open.spotify.com/artist/4tuiQRw9bC9HZhSFJEJ9Mz"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109283,
+      "name": "Play the Ponies",
+      "url": "https://open.spotify.com/track/3r7pQSqIWmXYFQci0aBBQi"
+    },
+    {
+      "album": {
+        "name": "Red Garland's Piano",
+        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588840,
+      "name": "Please Send Me Someone To Love",
+      "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
+    },
+    {
+      "album": {
+        "name": "Atmospheric Journeys 2",
+        "url": "https://open.spotify.com/album/4H6sy38N08EqbLWPEvv8Xu"
+      },
+      "artists": [
+        {
+          "name": "Graham De Wilde",
+          "url": "https://open.spotify.com/artist/460n0z7RWA7eJ8xCar7uzH"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Private Investigator",
+      "url": "https://open.spotify.com/track/7zHhpvu59OKXDG51LsXLTq"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167550,
+      "name": "Star - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5WfSHn8qVk1W3GJJQpETC1"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
+        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
+    },
+    {
+      "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176222,
+      "name": "The Dumbest Car Chase of All Time",
+      "url": "https://open.spotify.com/track/2EdP0jDri5scsvBfdYkOnq"
+    },
+    {
+      "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93730,
+      "name": "The Thrombey Family Theme (Solo Piano)",
+      "url": "https://open.spotify.com/track/1ObM2MEjk2VLXotQQhKKiY"
+    },
+    {
+      "album": {
+        "name": "Theme from Glass Onion",
+        "url": "https://open.spotify.com/album/6lfulecKKDldkbi1vh9ta0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113897,
+      "name": "Theme from Glass Onion",
+      "url": "https://open.spotify.com/track/6B7kChZl8KQnfNZN7BNikg"
+    },
+    {
+      "album": {
+        "name": "Bee Gees' 1st",
+        "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
+    },
+    {
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXb8UvzdN3YBP"
 }

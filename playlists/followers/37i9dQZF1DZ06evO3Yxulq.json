@@ -1,474 +1,1751 @@
 {
-  "2022-09-15": 27444,
-  "2022-09-16": 27466,
-  "2022-09-17": 27489,
-  "2022-09-18": 27517,
-  "2022-09-19": 27544,
-  "2022-09-20": 27563,
-  "2022-09-21": 27589,
-  "2022-09-22": 27621,
-  "2022-09-23": 27654,
-  "2022-09-24": 27654,
-  "2022-09-25": 27703,
-  "2022-09-26": 27738,
-  "2022-09-27": 27765,
-  "2022-09-28": 27796,
-  "2022-09-29": 27830,
-  "2022-09-30": 27863,
-  "2022-10-01": 27892,
-  "2022-10-02": 27927,
-  "2022-10-03": 27963,
-  "2022-10-04": 28004,
-  "2022-10-05": 28048,
-  "2022-10-06": 28071,
-  "2022-10-07": 28107,
-  "2022-10-08": 28135,
-  "2022-10-09": 28201,
-  "2022-10-10": 28208,
-  "2022-10-11": 28237,
-  "2022-10-12": 28283,
-  "2022-10-13": 28315,
-  "2022-10-14": 28348,
-  "2022-10-15": 28375,
-  "2022-10-16": 28400,
-  "2022-10-17": 28427,
-  "2022-10-18": 28467,
-  "2022-10-19": 28509,
-  "2022-10-20": 28537,
-  "2022-10-21": 28564,
-  "2022-10-22": 28592,
-  "2022-10-23": 28622,
-  "2022-10-24": 28647,
-  "2022-10-25": 28684,
-  "2022-10-26": 28719,
-  "2022-10-27": 28742,
-  "2022-10-28": 28774,
-  "2022-10-29": 28808,
-  "2022-10-30": 28824,
-  "2022-10-31": 28850,
-  "2022-11-01": 28875,
-  "2022-11-02": 28907,
-  "2022-11-03": 28934,
-  "2022-11-04": 28965,
-  "2022-11-05": 28994,
-  "2022-11-06": 29023,
-  "2022-11-07": 29048,
-  "2022-11-08": 29069,
-  "2022-11-09": 29087,
-  "2022-11-10": 29108,
-  "2022-11-11": 29131,
-  "2022-11-12": 29166,
-  "2022-11-13": 29185,
-  "2022-11-14": 29210,
-  "2022-11-15": 29244,
-  "2022-11-16": 29283,
-  "2022-11-17": 29308,
-  "2022-11-18": 29320,
-  "2022-11-19": 29328,
-  "2022-11-20": 29360,
-  "2022-11-21": 29381,
-  "2022-11-22": 29409,
-  "2022-11-23": 29438,
-  "2022-11-24": 29489,
-  "2022-11-25": 29521,
-  "2022-11-26": 29553,
-  "2022-11-27": 29565,
-  "2022-11-28": 29580,
-  "2022-11-29": 29594,
-  "2022-11-30": 29613,
-  "2022-12-01": 29629,
-  "2022-12-02": 29637,
-  "2022-12-03": 29668,
-  "2022-12-04": 29691,
-  "2022-12-05": 29709,
-  "2022-12-06": 29736,
-  "2022-12-07": 29761,
-  "2022-12-08": 29778,
-  "2022-12-09": 29805,
-  "2022-12-10": 29817,
-  "2022-12-11": 29836,
-  "2022-12-12": 29862,
-  "2022-12-13": 29881,
-  "2022-12-14": 29897,
-  "2022-12-15": 29915,
-  "2022-12-16": 29925,
-  "2022-12-17": 29950,
-  "2022-12-18": 29962,
-  "2022-12-19": 29987,
-  "2022-12-20": 30011,
-  "2022-12-21": 30011,
-  "2022-12-22": 30027,
-  "2022-12-24": 30063,
-  "2022-12-25": 30082,
-  "2022-12-26": 30102,
-  "2022-12-27": 30112,
-  "2022-12-28": 30132,
-  "2022-12-29": 30152,
-  "2022-12-30": 30182,
-  "2022-12-31": 30202,
-  "2023-01-01": 30221,
-  "2023-01-02": 30235,
-  "2023-01-03": 30255,
-  "2023-01-04": 30271,
-  "2023-01-05": 30287,
-  "2023-01-06": 30314,
-  "2023-01-07": 30356,
-  "2023-01-08": 30360,
-  "2023-01-09": 30386,
-  "2023-01-10": 30419,
-  "2023-01-11": 30439,
-  "2023-01-12": 30471,
-  "2023-01-13": 30489,
-  "2023-01-14": 30523,
-  "2023-01-15": 30527,
-  "2023-01-16": 30549,
-  "2023-01-17": 30569,
-  "2023-01-18": 30595,
-  "2023-01-19": 30613,
-  "2023-01-20": 30628,
-  "2023-01-21": 30639,
-  "2023-01-22": 30664,
-  "2023-01-23": 30688,
-  "2023-01-24": 30715,
-  "2023-01-25": 30739,
-  "2023-01-26": 30766,
-  "2023-01-27": 30784,
-  "2023-01-28": 30806,
-  "2023-01-29": 30835,
-  "2023-01-30": 30851,
-  "2023-01-31": 30851,
-  "2023-02-01": 30900,
-  "2023-02-02": 30934,
-  "2023-02-03": 30954,
-  "2023-02-04": 30977,
-  "2023-02-05": 30999,
-  "2023-02-06": 31019,
-  "2023-02-07": 31040,
-  "2023-02-08": 31095,
-  "2023-02-09": 31095,
-  "2023-02-10": 31119,
-  "2023-02-11": 31142,
-  "2023-02-12": 31196,
-  "2023-02-13": 31213,
-  "2023-02-14": 31213,
-  "2023-02-15": 31236,
-  "2023-02-16": 31257,
-  "2023-02-17": 31282,
-  "2023-02-18": 31337,
-  "2023-02-19": 31344,
-  "2023-02-20": 31369,
-  "2023-02-21": 31397,
-  "2023-02-22": 31430,
-  "2023-02-23": 31464,
-  "2023-02-24": 31494,
-  "2023-02-25": 31542,
-  "2023-02-26": 31561,
-  "2023-02-27": 31624,
-  "2023-02-28": 31624,
-  "2023-03-01": 31655,
-  "2023-03-02": 31678,
-  "2023-03-03": 31713,
-  "2023-03-04": 31744,
-  "2023-03-05": 31793,
-  "2023-03-06": 31793,
-  "2023-03-07": 31815,
-  "2023-03-08": 31841,
-  "2023-03-09": 31870,
-  "2023-03-10": 31894,
-  "2023-03-11": 31928,
-  "2023-03-12": 31950,
-  "2023-03-13": 31979,
-  "2023-03-14": 32003,
-  "2023-03-15": 32035,
-  "2023-03-16": 32035,
-  "2023-03-17": 32035,
-  "2023-03-18": 32096,
-  "2023-03-19": 32096,
-  "2023-03-20": 32146,
-  "2023-03-21": 32165,
-  "2023-03-22": 32193,
-  "2023-03-23": 32226,
-  "2023-03-24": 32226,
-  "2023-03-25": 32295,
-  "2023-03-26": 32326,
-  "2023-03-27": 32350,
-  "2023-03-28": 32374,
-  "2023-03-29": 32408,
-  "2023-03-30": 32450,
-  "2023-03-31": 32450,
-  "2023-04-01": 32473,
-  "2023-04-02": 32495,
-  "2023-04-03": 32521,
-  "2023-04-04": 32536,
-  "2023-04-05": 32562,
-  "2023-04-06": 32585,
-  "2023-04-07": 32603,
-  "2023-04-09": 32657,
-  "2023-04-10": 32695,
-  "2023-04-11": 32747,
-  "2023-04-12": 32747,
-  "2023-04-13": 32772,
-  "2023-04-14": 32801,
-  "2023-04-15": 32833,
-  "2023-04-16": 32853,
-  "2023-04-17": 32877,
-  "2023-04-18": 32898,
-  "2023-04-19": 32921,
-  "2023-04-20": 32952,
-  "2023-04-21": 32968,
-  "2023-04-22": 32990,
-  "2023-04-23": 33014,
-  "2023-04-24": 33034,
-  "2023-04-25": 33078,
-  "2023-04-26": 33096,
-  "2023-04-27": 33118,
-  "2023-04-28": 33144,
-  "2023-04-29": 33164,
-  "2023-04-30": 33195,
-  "2023-05-01": 33206,
-  "2023-05-02": 33232,
-  "2023-05-03": 33256,
-  "2023-05-04": 33280,
-  "2023-05-05": 33295,
-  "2023-05-06": 33316,
-  "2023-05-07": 33331,
-  "2023-05-08": 33351,
-  "2023-05-09": 33378,
-  "2023-05-10": 33395,
-  "2023-05-11": 33417,
-  "2023-05-12": 33434,
-  "2023-05-13": 33470,
-  "2023-05-14": 33492,
-  "2023-05-15": 33511,
-  "2023-05-16": 33523,
-  "2023-05-17": 33550,
-  "2023-05-18": 33575,
-  "2023-05-19": 33608,
-  "2023-05-20": 33643,
-  "2023-05-21": 33643,
-  "2023-05-22": 33643,
-  "2023-05-23": 33684,
-  "2023-05-24": 33722,
-  "2023-05-25": 33730,
-  "2023-05-26": 33749,
-  "2023-05-27": 33768,
-  "2023-05-28": 33784,
-  "2023-05-29": 33784,
-  "2023-05-30": 33830,
-  "2023-05-31": 33853,
-  "2023-06-01": 33869,
-  "2023-06-02": 33887,
-  "2023-06-03": 33913,
-  "2023-06-04": 33940,
-  "2023-06-05": 33955,
-  "2023-06-06": 33980,
-  "2023-06-07": 34006,
-  "2023-06-08": 34018,
-  "2023-06-09": 34047,
-  "2023-06-10": 34075,
-  "2023-06-11": 34103,
-  "2023-06-12": 34121,
-  "2023-06-13": 34147,
-  "2023-06-14": 34164,
-  "2023-06-15": 34184,
-  "2023-06-16": 34207,
-  "2023-06-17": 34226,
-  "2023-06-18": 34240,
-  "2023-06-19": 34253,
-  "2023-06-20": 34276,
-  "2023-06-21": 34292,
-  "2023-06-22": 34311,
-  "2023-06-23": 34323,
-  "2023-06-24": 34331,
-  "2023-06-25": 34358,
-  "2023-06-26": 34375,
-  "2023-06-27": 34394,
-  "2023-06-28": 34409,
-  "2023-06-29": 34422,
-  "2023-06-30": 34440,
-  "2023-07-01": 34482,
-  "2023-07-02": 34482,
-  "2023-07-03": 34506,
-  "2023-07-04": 34533,
-  "2023-07-05": 34558,
-  "2023-07-06": 34610,
-  "2023-07-07": 34610,
-  "2023-07-08": 34610,
-  "2023-07-09": 34646,
-  "2023-07-10": 34659,
-  "2023-07-11": 34687,
-  "2023-07-12": 34701,
-  "2023-07-13": 34729,
-  "2023-07-14": 34749,
-  "2023-07-15": 34764,
-  "2023-07-16": 34786,
-  "2023-07-17": 34794,
-  "2023-07-18": 34814,
-  "2023-07-19": 34830,
-  "2023-07-20": 34830,
-  "2023-07-21": 34860,
-  "2023-07-22": 34881,
-  "2023-07-23": 34898,
-  "2023-07-24": 34907,
-  "2023-07-25": 34924,
-  "2023-07-26": 34947,
-  "2023-07-27": 34965,
-  "2023-07-28": 34975,
-  "2023-07-29": 34999,
-  "2023-07-30": 34999,
-  "2023-07-31": 35041,
-  "2023-08-01": 35064,
-  "2023-08-02": 35088,
-  "2023-08-03": 35109,
-  "2023-08-04": 35133,
-  "2023-08-05": 35158,
-  "2023-08-06": 35193,
-  "2023-08-07": 35193,
-  "2023-08-08": 35224,
-  "2023-08-09": 35254,
-  "2023-08-10": 35271,
-  "2023-08-11": 35294,
-  "2023-08-12": 35294,
-  "2023-08-13": 35294,
-  "2023-08-14": 35294,
-  "2023-08-15": 35294,
-  "2023-08-16": 35294,
-  "2023-08-17": 35294,
-  "2023-08-18": 35294,
-  "2023-08-19": 35294,
-  "2023-08-20": 35465,
-  "2023-08-21": 35465,
-  "2023-08-22": 35507,
-  "2023-08-23": 35507,
-  "2023-08-24": 35507,
-  "2023-08-25": 35507,
-  "2023-08-26": 35575,
-  "2023-08-27": 35575,
-  "2023-08-28": 35606,
-  "2023-08-29": 35606,
-  "2023-08-30": 35606,
-  "2023-08-31": 35668,
-  "2023-09-01": 35695,
-  "2023-09-02": 35695,
-  "2023-09-03": 35695,
-  "2023-09-04": 35695,
-  "2023-09-05": 35695,
-  "2023-09-06": 35695,
-  "2023-09-07": 35695,
-  "2023-09-08": 35695,
-  "2023-09-09": 35695,
-  "2023-09-10": 35695,
-  "2023-09-11": 35695,
-  "2023-09-12": 35695,
-  "2023-09-13": 35695,
-  "2023-09-14": 35695,
-  "2023-09-15": 35695,
-  "2023-09-16": 36004,
-  "2023-09-17": 36004,
-  "2023-09-18": 36004,
-  "2023-09-19": 36066,
-  "2023-09-20": 36066,
-  "2023-09-21": 36066,
-  "2023-09-22": 36119,
-  "2023-09-23": 36119,
-  "2023-09-24": 36119,
-  "2023-09-25": 36119,
-  "2023-09-26": 36203,
-  "2023-09-27": 36203,
-  "2023-09-28": 36203,
-  "2023-09-29": 36203,
-  "2023-09-30": 36203,
-  "2023-10-01": 36203,
-  "2023-10-02": 36203,
-  "2023-10-03": 36203,
-  "2023-10-04": 36203,
-  "2023-10-05": 36203,
-  "2023-10-06": 36203,
-  "2023-10-07": 36203,
-  "2023-10-08": 36203,
-  "2023-10-09": 36203,
-  "2023-10-10": 36203,
-  "2023-10-11": 36407,
-  "2023-10-12": 36407,
-  "2023-10-13": 36407,
-  "2023-10-14": 36407,
-  "2023-10-15": 36407,
-  "2023-10-16": 36407,
-  "2023-10-17": 36407,
-  "2023-10-18": 36407,
-  "2023-10-19": 36407,
-  "2023-10-20": 36407,
-  "2023-10-21": 36407,
-  "2023-10-22": 36407,
-  "2023-10-23": 36407,
-  "2023-10-24": 36407,
-  "2023-10-25": 36407,
-  "2023-10-26": 36407,
-  "2023-10-27": 36407,
-  "2023-10-28": 36407,
-  "2023-10-29": 36407,
-  "2023-10-30": 36407,
-  "2023-10-31": 36407,
-  "2023-11-01": 36407,
-  "2023-11-02": 36407,
-  "2023-11-03": 36407,
-  "2023-11-04": 36407,
-  "2023-11-05": 36407,
-  "2023-11-06": 36407,
-  "2023-11-07": 36407,
-  "2023-11-08": 36407,
-  "2023-11-09": 36407,
-  "2023-11-10": 36407,
-  "2023-11-11": 36811,
-  "2023-11-12": 36811,
-  "2023-11-13": 36811,
-  "2023-11-14": 36811,
-  "2023-11-15": 36811,
-  "2023-11-16": 36811,
-  "2023-11-17": 36811,
-  "2023-11-18": 36811,
-  "2023-11-19": 36811,
-  "2023-11-20": 36811,
-  "2023-11-21": 36811,
-  "2023-11-22": 36811,
-  "2023-11-23": 36811,
-  "2023-11-24": 36811,
-  "2023-11-25": 36811,
-  "2023-11-26": 36811,
-  "2023-11-27": 36811,
-  "2023-11-28": 36811,
-  "2023-11-29": 36811,
-  "2023-11-30": 36811,
-  "2023-12-01": 36811,
-  "2023-12-02": 36811,
-  "2023-12-03": 36811,
-  "2023-12-04": 36811,
-  "2023-12-05": 36811,
-  "2023-12-06": 36811,
-  "2023-12-07": 36811,
-  "2023-12-08": 36811,
-  "2023-12-09": 36811,
-  "2023-12-10": 36811,
-  "2023-12-11": 36811,
-  "2023-12-12": 36811,
-  "2023-12-13": 36811,
-  "2023-12-14": 37296,
-  "2023-12-15": 37302,
-  "2023-12-16": 37319,
-  "2023-12-17": 37326,
-  "2023-12-18": 37340,
-  "2023-12-19": 37349,
-  "2023-12-20": 37355,
-  "2023-12-21": 37366,
-  "2023-12-22": 37378,
-  "2023-12-23": 37388,
-  "2023-12-24": 37403,
-  "2023-12-25": 37408,
-  "2023-12-26": 37414,
-  "2023-12-27": 37421,
-  "2023-12-30": 37469,
-  "2023-12-31": 37492,
-  "2024-01-01": 37510,
-  "2024-01-02": 37525,
-  "2024-01-03": 37557
+  "2024-01-17": 37566,
+  "date_first_scraped": "2022-09-15",
+  "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
+  "name": "This Is Christine D'Clario",
+  "tracks": [
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632006,
+      "name": "Admirable",
+      "url": "https://open.spotify.com/track/2ImRcOX7kKBGsqF0BvdVI5"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Grande (En Vivo)",
+        "url": "https://open.spotify.com/album/1hxi1rgM1p4Obqgdmp1Yqx"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 435186,
+      "name": "Agua Viva - En Vivo",
+      "url": "https://open.spotify.com/track/1LR7kCbyyA4sR1GZDdZTQ8"
+    },
+    {
+      "album": {
+        "name": "Aleluya (Gloria al Rey) [Live]",
+        "url": "https://open.spotify.com/album/1dWPC7jkHgkohBmPz3zwZm"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Armando S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 357785,
+      "name": "Aleluya (Gloria al Rey) - Live",
+      "url": "https://open.spotify.com/track/4L7IkK1GvTd36H4tOBkIIT"
+    },
+    {
+      "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R"
+    },
+    {
+      "album": {
+        "name": "Bello eres t\u00fa",
+        "url": "https://open.spotify.com/album/4WklYaOuYePHVlPn1jJcQ4"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410770,
+      "name": "Bello eres t\u00fa",
+      "url": "https://open.spotify.com/track/55DNwNrsS9IE4WTDlIu1su"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 287019,
+      "name": "Bendice Al Se\u00f1or",
+      "url": "https://open.spotify.com/track/4x2qFsAUwxgg6jOilQRRzX"
+    },
+    {
+      "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299600,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX"
+    },
+    {
+      "album": {
+        "name": "EVANGELIO (En Vivo)",
+        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 231844,
+      "name": "Como Dijiste (En Vivo)",
+      "url": "https://open.spotify.com/track/4i5TJpTEhGiJ6wxyr6eYvs"
+    },
+    {
+      "album": {
+        "name": "Corriente / Un D\u00eda A La Vez (Medley)",
+        "url": "https://open.spotify.com/album/69zXDKeRbppCOt0dVUH9ST"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
+      "duration_ms": 231742,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley)",
+      "url": "https://open.spotify.com/track/0DGbxlZlg2ZfT7s0KNCWsV"
+    },
+    {
+      "album": {
+        "name": "Corriente / Un D\u00eda A La Vez (Medley) [En Vivo]",
+        "url": "https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271374,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
+      "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
+    },
+    {
+      "album": {
+        "name": "Solo Tu...Lo Unico Que Quiero",
+        "url": "https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 291600,
+      "name": "Crea En Mi",
+      "url": "https://open.spotify.com/track/4sHo8Op1vPLk88OHr5XFZl"
+    },
+    {
+      "album": {
+        "name": "Jesus People",
+        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245621,
+      "name": "Cristo Es Necesario",
+      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
+    },
+    {
+      "album": {
+        "name": "Current / One Day At A Time (Medley)",
+        "url": "https://open.spotify.com/album/4i8Va3TUqrJfOHymL70Fac"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 230206,
+      "name": "Current / One Day At A Time - Medley",
+      "url": "https://open.spotify.com/track/3Y9yvWKk9n80sPjxVk4maA"
+    },
+    {
+      "album": {
+        "name": "Homecoming (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/20CnEGNCGv7sCWnV3AaC2o"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 633065,
+      "name": "C\u00f3mo No Voy A Creer",
+      "url": "https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf"
+    },
+    {
+      "album": {
+        "name": "Danzando",
+        "url": "https://open.spotify.com/album/7J3qxFpqVrSSE5fcqV01gu"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Becky Collazos",
+          "url": "https://open.spotify.com/artist/2e3Cv0nAlMvRoCfrsV75dI"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 488927,
+      "name": "Danzando - En Vivo",
+      "url": "https://open.spotify.com/track/07yd60JLsOIEIkQ13gpmRk"
+    },
+    {
+      "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Becky Collazos",
+          "url": "https://open.spotify.com/artist/2e3Cv0nAlMvRoCfrsV75dI"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488927,
+      "name": "Danzando - Live",
+      "url": "https://open.spotify.com/track/6WUJmzEMK7EBa2LLgp96s0"
+    },
+    {
+      "album": {
+        "name": "Amanece (Deluxe)",
+        "url": "https://open.spotify.com/album/4QAINDXWRYZ40GJun5RHfG"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 548641,
+      "name": "Desciende",
+      "url": "https://open.spotify.com/track/5LAHsfZD3XdEjmmKFS9j1i"
+    },
+    {
+      "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "David Reyes",
+          "url": "https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450875,
+      "name": "Dios de Lo Imposible",
+      "url": "https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513870,
+      "name": "Dios De Maravillas",
+      "url": "https://open.spotify.com/track/6JP6aiZrbthavbl8pd9oI7"
+    },
+    {
+      "album": {
+        "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/3Yi2UipOGBlp03eUNT6tpj"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245973,
+      "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/0zXTW0J4XLhqsNSrmwk9sp"
+    },
+    {
+      "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
+    },
+    {
+      "album": {
+        "name": "Operaci\u00f3n Mundial",
+        "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270186,
+      "name": "El Nombre De Jes\u00fas",
+      "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
+    },
+    {
+      "album": {
+        "name": "Grande y Fiel (En Vivo)",
+        "url": "https://open.spotify.com/album/3OXFYZ0hNUqEhgQMiq1716"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 335528,
+      "name": "El Shaddai - En Vivo",
+      "url": "https://open.spotify.com/track/4qsGLavsH2x74pdqg63Lkv"
+    },
+    {
+      "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335528,
+      "name": "El Shaddai - Live",
+      "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359583,
+      "name": "En El Trono Est\u00e1",
+      "url": "https://open.spotify.com/track/1N4f82oSvIKZa0hlwpO7Qi"
+    },
+    {
+      "album": {
+        "name": "No Desmayes Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/48CPRzW7m0pPX65vLHkM2E"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-27",
+      "duration_ms": 344120,
+      "name": "En Ti Confiar\u00e9",
+      "url": "https://open.spotify.com/track/100kVKpIklONHDpAx1V3P0"
+    },
+    {
+      "album": {
+        "name": "No Desmayes Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 344125,
+      "name": "En Ti Confiar\u00e9",
+      "url": "https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN"
+    },
+    {
+      "album": {
+        "name": "Esa Es La Raz\u00f3n (Live)",
+        "url": "https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395757,
+      "name": "Esa Es La Raz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362977,
+      "name": "Eterno (Con Cuando Los Santos Marchan Ya)",
+      "url": "https://open.spotify.com/track/1D7gcN6H8n0hdxr1osOd6N"
+    },
+    {
+      "album": {
+        "name": "Citizen of Heaven (Live)",
+        "url": "https://open.spotify.com/album/2CSitfTkVN7AkOXKYdF4Sc"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 557750,
+      "name": "Famous For (I Believe) / Do It Again (Live) (feat. Jenn Johnson & Christine D'Clario)",
+      "url": "https://open.spotify.com/track/5fMFyClENY0poEWgJFt6Jq"
+    },
+    {
+      "album": {
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242427,
+      "name": "Famous For (I Believe) [Spanish/English Version]",
+      "url": "https://open.spotify.com/track/5ZO6LwgpjWDqLjK54kO4EB"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296986,
+      "name": "Fidelidad (Grande Es Tu Fidelidad)",
+      "url": "https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh"
+    },
+    {
+      "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300186,
+      "name": "Gloria En Lo Alto",
+      "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
+    },
+    {
+      "album": {
+        "name": "Hasta poder ver",
+        "url": "https://open.spotify.com/album/5g5Vcw8n4yjZHNhFIruR9J"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309263,
+      "name": "Hasta poder ver",
+      "url": "https://open.spotify.com/track/3MH2bwGyeqHBAefP8UDj6x"
+    },
+    {
+      "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348728,
+      "name": "Incomparable Dios",
+      "url": "https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339673,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/3RmjJnvvUxSFor3G5x5yca"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas El Rey",
+        "url": "https://open.spotify.com/album/5KJmOHHkQm5Il4K1Ul2c7s"
+      },
+      "artists": [
+        {
+          "name": "Susy Gonzalez",
+          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 320314,
+      "name": "Jes\u00fas El Rey",
+      "url": "https://open.spotify.com/track/6O166RACqSEgx7GesuI8xB"
+    },
+    {
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287533,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 393349,
+      "name": "La Sangre De Jes\u00fas",
+      "url": "https://open.spotify.com/track/5KL0GnwVVojqz8pVkKmPe9"
+    },
+    {
+      "album": {
+        "name": "All That Remains",
+        "url": "https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-20",
+      "duration_ms": 346071,
+      "name": "Living Breath Of Heaven",
+      "url": "https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of"
+    },
+    {
+      "album": {
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/0fdRBSdw56pU3F5F3TJORK"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303400,
+      "name": "Loco Amor (Spanish Version)",
+      "url": "https://open.spotify.com/track/4ycyCxaQyVOA0hOELiU8wf"
+    },
+    {
+      "album": {
+        "name": "Lugar Secreto (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334746,
+      "name": "Lugar Secreto - Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308533,
+      "name": "Magnifico",
+      "url": "https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344549,
+      "name": "Me Amaste A M\u00ed",
+      "url": "https://open.spotify.com/track/2VLuMpiWXCudSSuQUFUDWc"
+    },
+    {
+      "album": {
+        "name": "Venga Tu Reino",
+        "url": "https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453077,
+      "name": "Me Rindo (feat. Karen Espinosa & Christine D'Clario)",
+      "url": "https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot"
+    },
+    {
+      "album": {
+        "name": "Mi Libertador",
+        "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491232,
+      "name": "Mi Libertador",
+      "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458993,
+      "name": "Mi Padre Me Ama [Adoraci\u00f3n Espont\u00e1nea]",
+      "url": "https://open.spotify.com/track/2olhLOVopC1RFSBJv96oTM"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 350858,
+      "name": "M\u00e1s Alto Honor",
+      "url": "https://open.spotify.com/track/59SqIgfrU82eXr0rRGIwoI"
+    },
+    {
+      "album": {
+        "name": "No Hay Comparaci\u00f3n",
+        "url": "https://open.spotify.com/album/5OX0FZ5YOOUitHawQSHoDH"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 193842,
+      "name": "No Hay Comparaci\u00f3n",
+      "url": "https://open.spotify.com/track/04FKReQTLMPeyhu6Gb6O1T"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488333,
+      "name": "No Hay Lugar M\u00e1s Alto (En Vivo) [feat. Christine D'clario]",
+      "url": "https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9"
+    },
+    {
+      "album": {
+        "name": "No Me Fallar\u00e1s (A\u00fan As\u00ed)",
+        "url": "https://open.spotify.com/album/2TgO0hQbveZ4r4hMAhbwBH"
+      },
+      "artists": [
+        {
+          "name": "Fellowship Creative",
+          "url": "https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 343819,
+      "name": "No Me Fallar\u00e1s (A\u00fan As\u00ed)",
+      "url": "https://open.spotify.com/track/09t4NyhBbbt8sFixr8RqVW"
+    },
+    {
+      "album": {
+        "name": "Solo Tu...Lo Unico Que Quiero",
+        "url": "https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 295453,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/39UXGTZChGwZvM9Z3Df4dU"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337527,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/4y4yAraDdzVc1Wdk37xlsR"
+    },
+    {
+      "album": {
+        "name": "Pura Sal",
+        "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266253,
+      "name": "Por la Eternidad",
+      "url": "https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445906,
+      "name": "Qu\u00e9 Se Abra El Cielo",
+      "url": "https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv"
+    },
+    {
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273488,
+      "name": "Redenci\u00f3n (Reden\u00e7\u00e3o)",
+      "url": "https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo"
+    },
+    {
+      "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 346071,
+      "name": "Respirar del Cielo",
+      "url": "https://open.spotify.com/track/65bjrimQiPoI4yNO5mBsv6"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Rey",
+      "url": "https://open.spotify.com/track/7EQLP2hUQTtOdnnnxeztbJ"
+    },
+    {
+      "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 286083,
+      "name": "Rey Infinito",
+      "url": "https://open.spotify.com/track/5qHACOfv3we8lAA7i5DLzf"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 378890,
+      "name": "Santo Esp\u00edritu Ven",
+      "url": "https://open.spotify.com/track/3fYObqxhWuisJBUoCS5Hos"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 249145,
+      "name": "Santo Santo",
+      "url": "https://open.spotify.com/track/55qIgMQbhzYK8RF52K8dy3"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338293,
+      "name": "Seguirte",
+      "url": "https://open.spotify.com/track/6X2bymkSxVkhegf4Ozhz0k"
+    },
+    {
+      "album": {
+        "name": "Ages En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1Lk3caIw9SNwPD8MYbUxKV"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 236441,
+      "name": "Selah",
+      "url": "https://open.spotify.com/track/5geEugjHtTKRw8zA2c9A2G"
+    },
+    {
+      "album": {
+        "name": "Solo Tu...Lo Unico Que Quiero",
+        "url": "https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/6yxDTsYge75Eka9yeXnHuN"
+    },
+    {
+      "album": {
+        "name": "Stories On Stories",
+        "url": "https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240457,
+      "name": "Stories On Stories",
+      "url": "https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2"
+    },
+    {
+      "album": {
+        "name": "Stories On Stories",
+        "url": "https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240457,
+      "name": "Tantas Historias",
+      "url": "https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT"
+    },
+    {
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 612165,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
+    },
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0fQSdKwSm4J3qXngyqPRRd"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Karina Moreno",
+          "url": "https://open.spotify.com/artist/55GwvcG0bBwuYoq1z8boko"
+        },
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        },
+        {
+          "name": "Gadiel Espinoza",
+          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 262813,
+      "name": "Tu Amistad Me Hace Bien (feat. Christine D'Clario, Karina Moreno, Coalo Zamorano & Gadiel Espinoza)",
+      "url": "https://open.spotify.com/track/0lrENvjmcsu1EsursfB9j0"
+    },
+    {
+      "album": {
+        "name": "Generacion Radical",
+        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384184,
+      "name": "Tu Eres Rey (feat. Christine D'clario)",
+      "url": "https://open.spotify.com/track/1ldSYj8tmHJ9qzizTSj9is"
+    },
+    {
+      "album": {
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242427,
+      "name": "Tu Poder (Creo en Ti)",
+      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293173,
+      "name": "Tu Presencia Es El Cielo",
+      "url": "https://open.spotify.com/track/1vEsPuI13xrlJQlbdytUFT"
+    },
+    {
+      "album": {
+        "name": "Gloria A Dios",
+        "url": "https://open.spotify.com/album/5Kuzntjor3pD8yKqMJflqw"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 236853,
+      "name": "T\u00fa Eres Para M\u00ed",
+      "url": "https://open.spotify.com/track/1Ll1RgcBNQZX6jDsfUfCwE"
+    },
+    {
+      "album": {
+        "name": "T\u00fa proveer\u00e1s",
+        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368020,
+      "name": "T\u00fa proveer\u00e1s",
+      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
+    },
+    {
+      "album": {
+        "name": "Grande y Fiel (En Vivo)",
+        "url": "https://open.spotify.com/album/3OXFYZ0hNUqEhgQMiq1716"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 582917,
+      "name": "Ven Satura - En Vivo",
+      "url": "https://open.spotify.com/track/3pfSCaOp79DNAi5rriXaiG"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316951,
+      "name": "Ya No Soy Esclavo",
+      "url": "https://open.spotify.com/track/5bLHWXRvImulvliu2xYRTH"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326974,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi"
+    },
+    {
+      "album": {
+        "name": "Adoraci\u00f3n Vol. 1",
+        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351542,
+      "name": "Yo Te Busco",
+      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
+    },
+    {
+      "album": {
+        "name": "Yo Te Busco",
+        "url": "https://open.spotify.com/album/5aI2q7Nzuqy8c0hdOArl5b"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 351542,
+      "name": "Yo Te Busco",
+      "url": "https://open.spotify.com/track/2yYEoYSJnQyZlQpch07h5f"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 338923,
+      "name": "Yo Ver\u00e9",
+      "url": "https://open.spotify.com/track/6K6L4Kb7Sh9TSqL0s9PrlC"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 245703,
+      "name": "\u00c1brenos Los Cielos",
+      "url": "https://open.spotify.com/track/5bYuSdpWXXcngti6OPFmZG"
+    },
+    {
+      "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258640,
+      "name": "\u00c9l Nos Ama",
+      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Yxulq"
 }

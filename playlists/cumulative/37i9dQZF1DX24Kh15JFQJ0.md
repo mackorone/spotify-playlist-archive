@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-256 songs - 15 hr 7 min
+258 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Family Bible](https://open.spotify.com/track/4jIbcHdc0U1hjZohhv8A3z) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 2:48 | 2022-07-22 | 2023-02-25 |
 | [First Time For Everything](https://open.spotify.com/track/1QEVprItEJhN82f6fW97HO) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [First Time For Everything](https://open.spotify.com/album/5yads6bxD4yYPPbTX5561M) | 4:03 | 2023-09-29 |  |
 | [Forever Young](https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Forever Young](https://open.spotify.com/album/4xZ6GN7EvZeAPcne44y5wb) | 4:16 | 2022-04-29 |  |
-| [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 |  |
+| [Friends Again](https://open.spotify.com/track/0jyLP8z6NPLYyM9NDk4Bn3) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Game Changer](https://open.spotify.com/album/2Q06sKwOeZbDrifNmByuk9) | 2:35 | 2023-11-17 |  |
+| [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 | 2024-01-05 |
 | [Get Me To The Stage On Time](https://open.spotify.com/track/7ltmPNSZmQmykswz99rK2y) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Get Me To The Stage On Time](https://open.spotify.com/album/5V3Wn9hlMLqhQGkSDRL62T) | 3:21 | 2023-10-27 |  |
 | [Getting Good](https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Getting Good](https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd) | 3:21 | 2021-10-15 |  |
 | [Girls Night Out](https://open.spotify.com/track/3EoGwCrxAQ8V0jGgsrHBvq) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:04 | 2023-11-10 |  |
@@ -218,6 +219,7 @@
 | [Tell Me That You Love Me](https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Life Is Like A Song \(Deluxe Edition\)](https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu) | 3:13 | 2023-06-02 |  |
 | [Tennessee Is A Great State Of Mine](https://open.spotify.com/track/6GbKzazubOXElqLC1wNFU3) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Tennessee Is A Great State Of Mine](https://open.spotify.com/album/65BnbeywsIzrzfkgmGeGl7) | 2:54 | 2023-02-17 |  |
 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 | 2022-09-23 |  |
+| [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 | 2024-01-05 |  |
 | [The Car](https://open.spotify.com/track/4CDp5Zrb2glB5LmyjzjzUH) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE), [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [The Car](https://open.spotify.com/album/0KsF1unjWjasy5xL1QV1SJ) | 3:35 | 2023-04-28 |  |
 | [The Chokin' Kind](https://open.spotify.com/track/2weCSG0uf4AiWVWCFQr7Kx) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 3:17 | 2023-03-03 |  |
 | [The Highway](https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA) | 3:29 | 2021-10-15 | 2023-01-28 |

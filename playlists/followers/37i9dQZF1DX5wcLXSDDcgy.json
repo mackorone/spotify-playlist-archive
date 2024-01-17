@@ -1,273 +1,963 @@
 {
-  "2023-04-05": 80073,
-  "2023-04-06": 82938,
-  "2023-04-07": 84554,
-  "2023-04-09": 101419,
-  "2023-04-10": 104292,
-  "2023-04-11": 108362,
-  "2023-04-12": 108362,
-  "2023-04-13": 110835,
-  "2023-04-14": 113053,
-  "2023-04-15": 114834,
-  "2023-04-16": 116700,
-  "2023-04-17": 118482,
-  "2023-04-18": 119989,
-  "2023-04-19": 121551,
-  "2023-04-20": 122986,
-  "2023-04-21": 125299,
-  "2023-04-22": 140222,
-  "2023-04-23": 146486,
-  "2023-04-24": 150676,
-  "2023-04-25": 156130,
-  "2023-04-26": 160844,
-  "2023-04-27": 164687,
-  "2023-04-28": 169683,
-  "2023-04-29": 174171,
-  "2023-04-30": 178305,
-  "2023-05-01": 181422,
-  "2023-05-02": 184124,
-  "2023-05-03": 186453,
-  "2023-05-04": 188624,
-  "2023-05-05": 191031,
-  "2023-05-06": 193559,
-  "2023-05-07": 195836,
-  "2023-05-08": 198038,
-  "2023-05-09": 200110,
-  "2023-05-10": 202219,
-  "2023-05-11": 204391,
-  "2023-05-12": 206316,
-  "2023-05-13": 208139,
-  "2023-05-14": 209844,
-  "2023-05-15": 211643,
-  "2023-05-16": 213632,
-  "2023-05-17": 215260,
-  "2023-05-18": 216710,
-  "2023-05-19": 218346,
-  "2023-05-20": 220993,
-  "2023-05-21": 220993,
-  "2023-05-22": 220993,
-  "2023-05-23": 223312,
-  "2023-05-24": 225269,
-  "2023-05-25": 225550,
-  "2023-05-26": 226574,
-  "2023-05-27": 227673,
-  "2023-05-28": 229046,
-  "2023-05-29": 229046,
-  "2023-05-30": 231661,
-  "2023-05-31": 232913,
-  "2023-06-01": 233972,
-  "2023-06-02": 235021,
-  "2023-06-03": 236210,
-  "2023-06-04": 237432,
-  "2023-06-05": 238719,
-  "2023-06-06": 239962,
-  "2023-06-07": 241138,
-  "2023-06-08": 242146,
-  "2023-06-09": 243238,
-  "2023-06-10": 244991,
-  "2023-06-11": 246119,
-  "2023-06-12": 247140,
-  "2023-06-13": 247967,
-  "2023-06-14": 248939,
-  "2023-06-15": 249988,
-  "2023-06-16": 250916,
-  "2023-06-17": 251719,
-  "2023-06-18": 252689,
-  "2023-06-19": 253588,
-  "2023-06-20": 254406,
-  "2023-06-21": 255269,
-  "2023-06-22": 256113,
-  "2023-06-23": 256935,
-  "2023-06-24": 257789,
-  "2023-06-25": 258552,
-  "2023-06-26": 259339,
-  "2023-06-27": 260033,
-  "2023-06-28": 260840,
-  "2023-06-29": 261641,
-  "2023-06-30": 262473,
-  "2023-07-01": 264051,
-  "2023-07-02": 264051,
-  "2023-07-03": 264877,
-  "2023-07-04": 266147,
-  "2023-07-05": 267009,
-  "2023-07-06": 268316,
-  "2023-07-07": 268316,
-  "2023-07-08": 269338,
-  "2023-07-09": 270091,
-  "2023-07-10": 270817,
-  "2023-07-11": 271421,
-  "2023-07-12": 271944,
-  "2023-07-13": 272266,
-  "2023-07-14": 273034,
-  "2023-07-15": 274078,
-  "2023-07-16": 275472,
-  "2023-07-17": 276472,
-  "2023-07-18": 277324,
-  "2023-07-19": 278184,
-  "2023-07-20": 278835,
-  "2023-07-21": 279555,
-  "2023-07-22": 280177,
-  "2023-07-23": 280736,
-  "2023-07-24": 281298,
-  "2023-07-25": 281898,
-  "2023-07-26": 282486,
-  "2023-07-27": 283067,
-  "2023-07-28": 283582,
-  "2023-07-29": 284106,
-  "2023-07-30": 284642,
-  "2023-07-31": 285105,
-  "2023-08-01": 285640,
-  "2023-08-02": 286081,
-  "2023-08-03": 286498,
-  "2023-08-04": 286986,
-  "2023-08-05": 287657,
-  "2023-08-06": 289438,
-  "2023-08-07": 289438,
-  "2023-08-08": 290611,
-  "2023-08-09": 291462,
-  "2023-08-10": 292381,
-  "2023-08-11": 293125,
-  "2023-08-12": 294005,
-  "2023-08-13": 294745,
-  "2023-08-14": 295494,
-  "2023-08-15": 296845,
-  "2023-08-16": 296845,
-  "2023-08-17": 297438,
-  "2023-08-18": 298117,
-  "2023-08-19": 298802,
-  "2023-08-20": 299339,
-  "2023-08-21": 299922,
-  "2023-08-22": 300454,
-  "2023-08-23": 300980,
-  "2023-08-24": 301490,
-  "2023-08-25": 301957,
-  "2023-08-26": 302534,
-  "2023-08-27": 302995,
-  "2023-08-28": 303467,
-  "2023-08-29": 304042,
-  "2023-08-30": 304462,
-  "2023-08-31": 304861,
-  "2023-09-01": 305640,
-  "2023-09-02": 305640,
-  "2023-09-03": 305963,
-  "2023-09-04": 306408,
-  "2023-09-05": 306779,
-  "2023-09-06": 307102,
-  "2023-09-07": 307460,
-  "2023-09-08": 307893,
-  "2023-09-09": 308562,
-  "2023-09-10": 308971,
-  "2023-09-11": 309528,
-  "2023-09-12": 309889,
-  "2023-09-13": 310296,
-  "2023-09-14": 310597,
-  "2023-09-15": 310909,
-  "2023-09-16": 311259,
-  "2023-09-17": 311591,
-  "2023-09-18": 312101,
-  "2023-09-19": 312493,
-  "2023-09-20": 312817,
-  "2023-09-21": 313180,
-  "2023-09-22": 313589,
-  "2023-09-23": 314014,
-  "2023-09-24": 314383,
-  "2023-09-25": 314847,
-  "2023-09-26": 315314,
-  "2023-09-27": 315632,
-  "2023-09-28": 316005,
-  "2023-09-29": 316382,
-  "2023-09-30": 316852,
-  "2023-10-01": 317282,
-  "2023-10-02": 317604,
-  "2023-10-03": 317936,
-  "2023-10-04": 318445,
-  "2023-10-05": 318815,
-  "2023-10-06": 319163,
-  "2023-10-07": 319531,
-  "2023-10-08": 319743,
-  "2023-10-09": 320065,
-  "2023-10-10": 320386,
-  "2023-10-11": 321003,
-  "2023-10-12": 321003,
-  "2023-10-13": 321306,
-  "2023-10-14": 321581,
-  "2023-10-15": 321876,
-  "2023-10-16": 322223,
-  "2023-10-17": 322624,
-  "2023-10-18": 322931,
-  "2023-10-19": 323306,
-  "2023-10-20": 323784,
-  "2023-10-21": 324179,
-  "2023-10-22": 324739,
-  "2023-10-23": 325241,
-  "2023-10-24": 325635,
-  "2023-10-25": 325986,
-  "2023-10-26": 326336,
-  "2023-10-27": 326675,
-  "2023-10-28": 327044,
-  "2023-10-29": 327389,
-  "2023-10-30": 328036,
-  "2023-10-31": 328036,
-  "2023-11-01": 328331,
-  "2023-11-02": 328634,
-  "2023-11-03": 328982,
-  "2023-11-04": 329513,
-  "2023-11-05": 329968,
-  "2023-11-06": 330360,
-  "2023-11-07": 330749,
-  "2023-11-08": 331191,
-  "2023-11-09": 331584,
-  "2023-11-10": 331922,
-  "2023-11-11": 332326,
-  "2023-11-12": 332689,
-  "2023-11-13": 332950,
-  "2023-11-14": 333315,
-  "2023-11-15": 333315,
-  "2023-11-16": 333836,
-  "2023-11-17": 334192,
-  "2023-11-18": 334192,
-  "2023-11-19": 334431,
-  "2023-11-20": 334700,
-  "2023-11-21": 335043,
-  "2023-11-22": 335323,
-  "2023-11-23": 335584,
-  "2023-11-24": 335882,
-  "2023-11-25": 336148,
-  "2023-11-26": 336375,
-  "2023-11-27": 336593,
-  "2023-11-28": 336799,
-  "2023-11-29": 337524,
-  "2023-11-30": 337524,
-  "2023-12-01": 338009,
-  "2023-12-02": 338548,
-  "2023-12-03": 338931,
-  "2023-12-04": 339289,
-  "2023-12-05": 339583,
-  "2023-12-06": 339865,
-  "2023-12-07": 340154,
-  "2023-12-08": 340467,
-  "2023-12-09": 340787,
-  "2023-12-10": 341113,
-  "2023-12-11": 341392,
-  "2023-12-12": 341664,
-  "2023-12-13": 341982,
-  "2023-12-14": 342374,
-  "2023-12-15": 342736,
-  "2023-12-16": 343231,
-  "2023-12-17": 343636,
-  "2023-12-18": 344004,
-  "2023-12-19": 344243,
-  "2023-12-20": 344570,
-  "2023-12-21": 344916,
-  "2023-12-22": 345284,
-  "2023-12-23": 345712,
-  "2023-12-24": 346096,
-  "2023-12-25": 346370,
-  "2023-12-26": 346647,
-  "2023-12-27": 346956,
-  "2023-12-30": 347782,
-  "2023-12-31": 348069,
-  "2024-01-01": 348289,
-  "2024-01-02": 349211,
-  "2024-01-03": 350197
+  "2024-01-17": 356069,
+  "date_first_scraped": "2023-04-05",
+  "description": "This Is Agust D. The essential tracks, all in one playlist.",
+  "name": "This Is Agust D",
+  "tracks": [
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 84550,
+      "name": "140503 at Dawn",
+      "url": "https://open.spotify.com/track/3i4XQx4K1g6Z0yFOzFk2Tu"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84550,
+      "name": "140503 at dawn",
+      "url": "https://open.spotify.com/track/7KqWZhPNdkcYRqgDU1W7RX"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "NiiHWA",
+          "url": "https://open.spotify.com/artist/1OY65G9NJJHsSt1lGLZU6q"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 133673,
+      "name": "28 (feat. NiiHWA)",
+      "url": "https://open.spotify.com/track/3AqSBtredpPyT18rEYl1vK"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "NiiHWA",
+          "url": "https://open.spotify.com/artist/1OY65G9NJJHsSt1lGLZU6q"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133673,
+      "name": "28 (feat. NiiHWA)",
+      "url": "https://open.spotify.com/track/3pGNUEIlaUlCU8mXxKInzw"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 185733,
+      "name": "724148",
+      "url": "https://open.spotify.com/track/4wvHmcBp5FKNeJUzigEH7s"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "724148",
+      "url": "https://open.spotify.com/track/7izWhevJMSFCtfDCFXQwjt"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234082,
+      "name": "Agust D",
+      "url": "https://open.spotify.com/track/6AknCCsxOsrJ2mkSdCtET1"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251533,
+      "name": "AMYGDALA",
+      "url": "https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192106,
+      "name": "Burn It (feat. MAX)",
+      "url": "https://open.spotify.com/track/2hX8rtWyNxYyaBT64H3LYU"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 192106,
+      "name": "Burn It (feat. MAX)",
+      "url": "https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "D-Day",
+      "url": "https://open.spotify.com/track/22W6wI4hDTjMAYKKBQW9dU"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225668,
+      "name": "Daechwita",
+      "url": "https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 225668,
+      "name": "Daechwita",
+      "url": "https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 292078,
+      "name": "Dear my friend (feat. Kim Jong Wan of NELL)",
+      "url": "https://open.spotify.com/track/5lw1xIqEvmVdmnNzmv1KJf"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292078,
+      "name": "Dear my friend (feat. Kim Jong Wan of NELL)",
+      "url": "https://open.spotify.com/track/6lUjwGIRWdcowZJRZrpqEr"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 149524,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/1Y84lXBGSuri3tDPUkFwXT"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149524,
+      "name": "give it to me",
+      "url": "https://open.spotify.com/track/1m0yEldZVNu9SzmtqfFWRt"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168926,
+      "name": "Haegeum",
+      "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219808,
+      "name": "Honsool",
+      "url": "https://open.spotify.com/track/2cSbuiICLgDR1GIQisS9Zf"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 219808,
+      "name": "Honsool",
+      "url": "https://open.spotify.com/track/5ErGQcHEA8ws2rVp3Xx06Z"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183290,
+      "name": "HUH?! (feat. j-hope)",
+      "url": "https://open.spotify.com/track/6XrPzwKeGzEvtan3acn7VH"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105139,
+      "name": "Interlude : Dawn",
+      "url": "https://open.spotify.com/track/56tf3cHQkwmvoplotk5QXd"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92685,
+      "name": "Interlude : Dream, Reality",
+      "url": "https://open.spotify.com/track/3qujZM6hKzQ7UCzNFD9JFa"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140198,
+      "name": "Interlude : Set me free",
+      "url": "https://open.spotify.com/track/0lfJTv87NKrjyr0k7eueUR"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 140198,
+      "name": "Interlude : Set me free",
+      "url": "https://open.spotify.com/track/4xAt9CoV83PT6U9JvcauLZ"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 92685,
+      "name": "Interlude_dream, Reality",
+      "url": "https://open.spotify.com/track/6p3GTNgwhXyeqBdzOoJQnj"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "dj friz",
+          "url": "https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64182,
+      "name": "Intro : DT sugA (Feat. DJ Friz)",
+      "url": "https://open.spotify.com/track/3GAz3o5o3lZGUOPUSPG8ul"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197638,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/7gv3UYPh05ZDP7Io5BIsn7"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 163015,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/057xGYST5exVyNevufrioZ"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163015,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1NuwEuQH7vbDLA9eg5TvEg"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 197000,
+      "name": "People",
+      "url": "https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "People",
+      "url": "https://open.spotify.com/track/6HDHaCnH2FCSdEwXrJfEVF"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "People Pt.2 (feat. IU)",
+      "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"
+    },
+    {
+      "album": {
+        "name": "People Pt.2 (feat. IU)",
+        "url": "https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "People Pt.2 (feat. IU)",
+      "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165319,
+      "name": "Polar Night",
+      "url": "https://open.spotify.com/track/3JSodIIStqTwXSH7nXOuhe"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171442,
+      "name": "SDL",
+      "url": "https://open.spotify.com/track/2vRoAkwc3UBEPW2udvN0u9"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 74298,
+      "name": "Skit",
+      "url": "https://open.spotify.com/track/0ZzK9J1kipwcLbwC9RZWCX"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74298,
+      "name": "skit",
+      "url": "https://open.spotify.com/track/26HtJsUEt63fiyqvqBA1aN"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264760,
+      "name": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "url": "https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 358270,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/6iFsAGMsGLvLesAhzTcRpl"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358270,
+      "name": "so far away (Feat. SURAN)",
+      "url": "https://open.spotify.com/track/2FviiM1DSKfJSRxMV5TD9w"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196529,
+      "name": "Strange (feat. RM)",
+      "url": "https://open.spotify.com/track/5sF4GOOSRELn8zn6DDGzUP"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 196529,
+      "name": "Strange (feat. RM)",
+      "url": "https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245757,
+      "name": "The Last",
+      "url": "https://open.spotify.com/track/2FUZnIf0LasXgvXMewJ0lO"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 245757,
+      "name": "The Last",
+      "url": "https://open.spotify.com/track/5GPiG4vIuDfYus1gRcXEok"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "Yankie",
+          "url": "https://open.spotify.com/artist/3EuteIwWAP4mLq0kvLML99"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 207873,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/2EIxlkSRyejFdD2Rp1Mmza"
+    },
+    {
+      "album": {
+        "name": "Agust D",
+        "url": "https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "yankie",
+          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207873,
+      "name": "Tony Montana (Feat. Yankie)",
+      "url": "https://open.spotify.com/track/041DRqg0jswhQut7PMjnrv"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 182171,
+      "name": "What do you think?",
+      "url": "https://open.spotify.com/track/5LtrXmU6LXHHbpb7puYNvA"
+    },
+    {
+      "album": {
+        "name": "D-2",
+        "url": "https://open.spotify.com/album/7lhFsAaVCFaYbkNvBMw5Zf"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182171,
+      "name": "What do you think?",
+      "url": "https://open.spotify.com/track/5dnT77AAQJcNYrqAod0jHQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5wcLXSDDcgy"
 }

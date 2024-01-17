@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,220 likes - 74 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,759 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 14 | [Several Times II](https://open.spotify.com/track/4IitjSBfTpUEMU9GTNfpz0) | [Pieter Nooten And Michael Brook](https://open.spotify.com/artist/1AhA5UAPUefljVYKupe1xp) | [Sleeps with the Fishes](https://open.spotify.com/album/3dtF7JTVFodlTm83YWcLYS) | 2:05 |
 | 15 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 |
 | 16 | [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 |
-| 17 | [Quiet Friend](https://open.spotify.com/track/3m1ngci5oStKN96zAt9Y9M) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 13:23 |
+| 17 | [Quiet Friend \- 30th Anniversary Remaster](https://open.spotify.com/track/3m1ngci5oStKN96zAt9Y9M) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence \(30th Anniversary Remaster\)](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 13:23 |
 | 18 | [Epilogue](https://open.spotify.com/track/1LIUJgDSRkNYjo4tVtoz2e) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 7:41 |
 | 19 | [Four Paths](https://open.spotify.com/track/4FelvwNQdtIoO8lxOEdiai) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Land of Look Behind \(Remastered + Expanded\)](https://open.spotify.com/album/5PfXgN1QUM9hpwdyyDeB5N) | 2:53 |
 | 20 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |

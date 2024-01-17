@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG6ypkYaOJL.md) - [plain]
 
 > Aquí está la música de Fanático, la serie de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094 likes - 18 songs - 58 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,096 likes - 18 songs - 58 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

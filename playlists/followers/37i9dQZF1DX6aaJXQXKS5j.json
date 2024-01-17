@@ -1,391 +1,1239 @@
 {
-  "2022-12-07": 363,
-  "2022-12-08": 749,
-  "2022-12-09": 1035,
-  "2022-12-10": 1285,
-  "2022-12-11": 1523,
-  "2022-12-12": 1733,
-  "2022-12-13": 2025,
-  "2022-12-14": 2229,
-  "2022-12-15": 2470,
-  "2022-12-16": 2679,
-  "2022-12-17": 2905,
-  "2022-12-18": 3117,
-  "2022-12-19": 3289,
-  "2022-12-20": 3691,
-  "2022-12-21": 3691,
-  "2022-12-22": 3885,
-  "2022-12-24": 4270,
-  "2022-12-25": 4372,
-  "2022-12-26": 4505,
-  "2022-12-27": 4662,
-  "2022-12-28": 4845,
-  "2022-12-29": 5031,
-  "2022-12-30": 5253,
-  "2022-12-31": 5424,
-  "2023-01-01": 5609,
-  "2023-01-02": 5706,
-  "2023-01-03": 5850,
-  "2023-01-04": 5963,
-  "2023-01-05": 6068,
-  "2023-01-06": 6192,
-  "2023-01-07": 6293,
-  "2023-01-08": 6310,
-  "2023-01-09": 6378,
-  "2023-01-10": 6431,
-  "2023-01-11": 6496,
-  "2023-01-12": 6572,
-  "2023-01-13": 6639,
-  "2023-01-14": 6752,
-  "2023-01-15": 6768,
-  "2023-01-16": 6832,
-  "2023-01-17": 6890,
-  "2023-01-18": 6968,
-  "2023-01-19": 7020,
-  "2023-01-20": 7097,
-  "2023-01-21": 7143,
-  "2023-01-22": 7209,
-  "2023-01-23": 7257,
-  "2023-01-24": 7292,
-  "2023-01-25": 7324,
-  "2023-01-26": 7380,
-  "2023-01-27": 7429,
-  "2023-01-28": 7505,
-  "2023-01-29": 7548,
-  "2023-01-30": 7594,
-  "2023-01-31": 7594,
-  "2023-02-01": 7708,
-  "2023-02-02": 7786,
-  "2023-02-03": 7861,
-  "2023-02-04": 7925,
-  "2023-02-05": 7982,
-  "2023-02-06": 8019,
-  "2023-02-07": 8085,
-  "2023-02-08": 8248,
-  "2023-02-09": 8248,
-  "2023-02-10": 8318,
-  "2023-02-11": 8395,
-  "2023-02-12": 8529,
-  "2023-02-13": 8606,
-  "2023-02-14": 8606,
-  "2023-02-15": 8684,
-  "2023-02-16": 8736,
-  "2023-02-17": 8805,
-  "2023-02-18": 8899,
-  "2023-02-19": 8917,
-  "2023-02-20": 8938,
-  "2023-02-21": 8967,
-  "2023-02-22": 9014,
-  "2023-02-23": 9054,
-  "2023-02-24": 9110,
-  "2023-02-25": 9177,
-  "2023-02-26": 9210,
-  "2023-02-27": 9286,
-  "2023-02-28": 9286,
-  "2023-03-01": 9330,
-  "2023-03-02": 9370,
-  "2023-03-03": 9426,
-  "2023-03-04": 9467,
-  "2023-03-05": 9534,
-  "2023-03-06": 9534,
-  "2023-03-07": 9573,
-  "2023-03-08": 9601,
-  "2023-03-09": 9641,
-  "2023-03-10": 9680,
-  "2023-03-11": 9716,
-  "2023-03-12": 9747,
-  "2023-03-13": 9794,
-  "2023-03-14": 9842,
-  "2023-03-15": 9889,
-  "2023-03-16": 9926,
-  "2023-03-17": 9926,
-  "2023-03-18": 10009,
-  "2023-03-19": 10048,
-  "2023-03-20": 10087,
-  "2023-03-21": 10123,
-  "2023-03-22": 10171,
-  "2023-03-23": 10220,
-  "2023-03-24": 10220,
-  "2023-03-25": 10317,
-  "2023-03-26": 10366,
-  "2023-03-27": 10420,
-  "2023-03-28": 10463,
-  "2023-03-29": 10506,
-  "2023-03-30": 10587,
-  "2023-03-31": 10587,
-  "2023-04-01": 10612,
-  "2023-04-02": 10636,
-  "2023-04-03": 10664,
-  "2023-04-04": 10712,
-  "2023-04-05": 10740,
-  "2023-04-06": 10773,
-  "2023-04-07": 10805,
-  "2023-04-09": 10867,
-  "2023-04-10": 10891,
-  "2023-04-11": 10981,
-  "2023-04-12": 10981,
-  "2023-04-13": 11017,
-  "2023-04-14": 11052,
-  "2023-04-15": 11079,
-  "2023-04-16": 11117,
-  "2023-04-17": 11158,
-  "2023-04-18": 11194,
-  "2023-04-19": 11239,
-  "2023-04-20": 11283,
-  "2023-04-21": 11334,
-  "2023-04-22": 11372,
-  "2023-04-23": 11402,
-  "2023-04-24": 11422,
-  "2023-04-25": 11460,
-  "2023-04-26": 11518,
-  "2023-04-27": 11559,
-  "2023-04-28": 11615,
-  "2023-04-29": 11662,
-  "2023-04-30": 11705,
-  "2023-05-01": 11733,
-  "2023-05-02": 11769,
-  "2023-05-03": 11808,
-  "2023-05-04": 11838,
-  "2023-05-05": 11880,
-  "2023-05-06": 11916,
-  "2023-05-07": 11949,
-  "2023-05-08": 12025,
-  "2023-05-09": 12082,
-  "2023-05-10": 12124,
-  "2023-05-11": 12163,
-  "2023-05-12": 12211,
-  "2023-05-13": 12246,
-  "2023-05-14": 12293,
-  "2023-05-15": 12329,
-  "2023-05-16": 12366,
-  "2023-05-17": 12402,
-  "2023-05-18": 12430,
-  "2023-05-19": 12480,
-  "2023-05-20": 12557,
-  "2023-05-21": 12557,
-  "2023-05-22": 12557,
-  "2023-05-23": 12631,
-  "2023-05-24": 12672,
-  "2023-05-25": 12683,
-  "2023-05-26": 12706,
-  "2023-05-27": 12743,
-  "2023-05-28": 12765,
-  "2023-05-29": 12765,
-  "2023-05-30": 12828,
-  "2023-05-31": 12860,
-  "2023-06-01": 12880,
-  "2023-06-02": 12903,
-  "2023-06-03": 12934,
-  "2023-06-04": 12968,
-  "2023-06-05": 12989,
-  "2023-06-06": 13012,
-  "2023-06-07": 13046,
-  "2023-06-08": 13058,
-  "2023-06-09": 13084,
-  "2023-06-10": 13108,
-  "2023-06-11": 13134,
-  "2023-06-12": 13162,
-  "2023-06-13": 13181,
-  "2023-06-14": 13207,
-  "2023-06-15": 13238,
-  "2023-06-16": 13267,
-  "2023-06-17": 13292,
-  "2023-06-18": 13321,
-  "2023-06-19": 13350,
-  "2023-06-20": 13395,
-  "2023-06-21": 13438,
-  "2023-06-22": 13460,
-  "2023-06-23": 13494,
-  "2023-06-24": 13525,
-  "2023-06-25": 13549,
-  "2023-06-26": 13578,
-  "2023-06-27": 13606,
-  "2023-06-28": 13636,
-  "2023-06-29": 13671,
-  "2023-06-30": 13720,
-  "2023-07-01": 13781,
-  "2023-07-02": 13781,
-  "2023-07-03": 13824,
-  "2023-07-04": 13877,
-  "2023-07-05": 13917,
-  "2023-07-06": 14020,
-  "2023-07-07": 14020,
-  "2023-07-08": 14066,
-  "2023-07-09": 14096,
-  "2023-07-10": 14136,
-  "2023-07-11": 14181,
-  "2023-07-12": 14206,
-  "2023-07-13": 14255,
-  "2023-07-14": 14293,
-  "2023-07-15": 14324,
-  "2023-07-16": 14368,
-  "2023-07-17": 14400,
-  "2023-07-18": 14424,
-  "2023-07-19": 14461,
-  "2023-07-20": 14504,
-  "2023-07-21": 14547,
-  "2023-07-22": 14575,
-  "2023-07-23": 14622,
-  "2023-07-24": 14652,
-  "2023-07-25": 14684,
-  "2023-07-26": 14712,
-  "2023-07-27": 14763,
-  "2023-07-28": 14827,
-  "2023-07-29": 14862,
-  "2023-07-30": 14897,
-  "2023-07-31": 14931,
-  "2023-08-01": 14961,
-  "2023-08-02": 14985,
-  "2023-08-03": 15021,
-  "2023-08-04": 15051,
-  "2023-08-05": 15081,
-  "2023-08-06": 15145,
-  "2023-08-07": 15145,
-  "2023-08-08": 15166,
-  "2023-08-09": 15184,
-  "2023-08-10": 15213,
-  "2023-08-11": 15237,
-  "2023-08-12": 15257,
-  "2023-08-13": 15283,
-  "2023-08-14": 15305,
-  "2023-08-15": 15344,
-  "2023-08-16": 15344,
-  "2023-08-17": 15362,
-  "2023-08-18": 15393,
-  "2023-08-19": 15418,
-  "2023-08-20": 15448,
-  "2023-08-21": 15474,
-  "2023-08-22": 15495,
-  "2023-08-23": 15529,
-  "2023-08-24": 15561,
-  "2023-08-25": 15580,
-  "2023-08-26": 15604,
-  "2023-08-27": 15616,
-  "2023-08-28": 15635,
-  "2023-08-29": 15672,
-  "2023-08-30": 15711,
-  "2023-08-31": 15743,
-  "2023-09-01": 15856,
-  "2023-09-02": 15856,
-  "2023-09-03": 15902,
-  "2023-09-04": 15986,
-  "2023-09-05": 16072,
-  "2023-09-06": 16148,
-  "2023-09-07": 16239,
-  "2023-09-08": 16314,
-  "2023-09-09": 16401,
-  "2023-09-10": 16476,
-  "2023-09-11": 16547,
-  "2023-09-12": 16609,
-  "2023-09-13": 16684,
-  "2023-09-14": 16765,
-  "2023-09-15": 16834,
-  "2023-09-16": 16899,
-  "2023-09-17": 16978,
-  "2023-09-18": 17037,
-  "2023-09-19": 17120,
-  "2023-09-20": 17181,
-  "2023-09-21": 17261,
-  "2023-09-22": 17341,
-  "2023-09-23": 17412,
-  "2023-09-24": 17490,
-  "2023-09-25": 17549,
-  "2023-09-26": 17644,
-  "2023-09-27": 17705,
-  "2023-09-28": 17774,
-  "2023-09-29": 17841,
-  "2023-09-30": 17909,
-  "2023-10-01": 17961,
-  "2023-10-02": 18001,
-  "2023-10-03": 18042,
-  "2023-10-04": 18098,
-  "2023-10-05": 18163,
-  "2023-10-06": 18262,
-  "2023-10-07": 18320,
-  "2023-10-08": 18375,
-  "2023-10-09": 18432,
-  "2023-10-10": 18793,
-  "2023-10-11": 20166,
-  "2023-10-12": 20166,
-  "2023-10-13": 20991,
-  "2023-10-14": 21640,
-  "2023-10-15": 22041,
-  "2023-10-16": 22416,
-  "2023-10-17": 22715,
-  "2023-10-18": 22955,
-  "2023-10-19": 23178,
-  "2023-10-20": 23666,
-  "2023-10-21": 24199,
-  "2023-10-22": 24504,
-  "2023-10-23": 24760,
-  "2023-10-24": 24963,
-  "2023-10-25": 25179,
-  "2023-10-26": 25522,
-  "2023-10-27": 25756,
-  "2023-10-28": 25947,
-  "2023-10-29": 26058,
-  "2023-10-30": 26272,
-  "2023-10-31": 26272,
-  "2023-11-01": 26384,
-  "2023-11-02": 26456,
-  "2023-11-03": 26564,
-  "2023-11-04": 26672,
-  "2023-11-05": 26759,
-  "2023-11-06": 26827,
-  "2023-11-07": 26909,
-  "2023-11-08": 27017,
-  "2023-11-09": 27086,
-  "2023-11-10": 27160,
-  "2023-11-11": 27286,
-  "2023-11-12": 27340,
-  "2023-11-13": 27380,
-  "2023-11-14": 27438,
-  "2023-11-15": 27438,
-  "2023-11-16": 27540,
-  "2023-11-17": 27685,
-  "2023-11-18": 27685,
-  "2023-11-19": 27735,
-  "2023-11-20": 27786,
-  "2023-11-21": 27826,
-  "2023-11-22": 27859,
-  "2023-11-23": 27901,
-  "2023-11-24": 27932,
-  "2023-11-25": 27967,
-  "2023-11-26": 28002,
-  "2023-11-27": 28033,
-  "2023-11-28": 28076,
-  "2023-11-29": 28170,
-  "2023-11-30": 28170,
-  "2023-12-01": 28238,
-  "2023-12-02": 28283,
-  "2023-12-03": 28320,
-  "2023-12-04": 28343,
-  "2023-12-05": 28368,
-  "2023-12-06": 28392,
-  "2023-12-07": 28437,
-  "2023-12-08": 28464,
-  "2023-12-09": 28474,
-  "2023-12-10": 28491,
-  "2023-12-11": 28507,
-  "2023-12-12": 28526,
-  "2023-12-13": 28539,
-  "2023-12-14": 28561,
-  "2023-12-15": 28579,
-  "2023-12-16": 28593,
-  "2023-12-17": 28609,
-  "2023-12-18": 28628,
-  "2023-12-19": 28636,
-  "2023-12-20": 28646,
-  "2023-12-21": 28674,
-  "2023-12-22": 28687,
-  "2023-12-23": 28707,
-  "2023-12-24": 28722,
-  "2023-12-25": 28739,
-  "2023-12-26": 28752,
-  "2023-12-27": 28765,
-  "2023-12-30": 28816,
-  "2023-12-31": 28833,
-  "2024-01-01": 28853,
-  "2024-01-02": 28861,
-  "2024-01-03": 28883
+  "2024-01-17": 29149,
+  "date_first_scraped": "2022-12-07",
+  "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
+  "name": "Trap Bunny",
+  "tracks": [
+    {
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170509,
+      "name": "200 Mph",
+      "url": "https://open.spotify.com/track/5jGUJXnELDaDTgiRjD9lsg"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243275,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
+    },
+    {
+      "album": {
+        "name": "47 (Remix)",
+        "url": "https://open.spotify.com/album/0uwIB5LyXa2riRyWUwKiJA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-29",
+      "duration_ms": 517809,
+      "name": "47 - Remix",
+      "url": "https://open.spotify.com/track/6IoKSUyNOOheJRjiuGb1ew"
+    },
+    {
+      "album": {
+        "name": "47 (Remix)",
+        "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517599,
+      "name": "47 - Remix",
+      "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359647,
+      "name": "ACHO PR",
+      "url": "https://open.spotify.com/track/1C7lXfx4Y5maVl4AgUVlHA"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235226,
+      "name": "Ahora Me Llama",
+      "url": "https://open.spotify.com/track/0alSPoUfrGb0RdVVG4Lf3n"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "BABY NUEVA",
+      "url": "https://open.spotify.com/track/3NhstUmrlhaN1M6hP8zMbb"
+    },
+    {
+      "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 155060,
+      "name": "BENDICIONES",
+      "url": "https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn"
+    },
+    {
+      "album": {
+        "name": "Blockia",
+        "url": "https://open.spotify.com/album/1hSE6GgLMO64esTVyBjjG4"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 201739,
+      "name": "Blockia",
+      "url": "https://open.spotify.com/track/3uPLiBTUgz7wrGJ2mw1rzM"
+    },
+    {
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156430,
+      "name": "BOOKER T",
+      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
+    },
+    {
+      "album": {
+        "name": "Caile",
+        "url": "https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300187,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
+    },
+    {
+      "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
+    },
+    {
+      "album": {
+        "name": "De Museo",
+        "url": "https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 209770,
+      "name": "De Museo",
+      "url": "https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm"
+    },
+    {
+      "album": {
+        "name": "Diles",
+        "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286040,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
+    },
+    {
+      "album": {
+        "name": "Dime Si Te Acuerdas",
+        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "Dime Si Te Acuerdas",
+      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Dos Mil 16",
+      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
+    },
+    {
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 165199,
+      "name": "EL MUNDO ES M\u00cdO",
+      "url": "https://open.spotify.com/track/36DHxTW2xdr9GG15T9oK9L"
+    },
+    {
+      "album": {
+        "name": "Estamos Arriba",
+        "url": "https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 225693,
+      "name": "Estamos Arriba",
+      "url": "https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227939,
+      "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
+      "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216327,
+      "name": "FINA",
+      "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240253,
+      "name": "Hablamos Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
+    },
+    {
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162151,
+      "name": "HOY COBR\u00c9",
+      "url": "https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J"
+    },
+    {
+      "album": {
+        "name": "TrapXficante",
+        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230520,
+      "name": "Krippy Kush",
+      "url": "https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9"
+    },
+    {
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162299,
+      "name": "LA DROGA",
+      "url": "https://open.spotify.com/track/67ACYA3UI6QMNtHX6b34wX"
+    },
+    {
+      "album": {
+        "name": "Me Acostumbre (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263288,
+      "name": "Me Acostumbre (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
+    },
+    {
+      "album": {
+        "name": "Me Llueven 3.0",
+        "url": "https://open.spotify.com/album/2MnWwUaZTarBd6M11iXJ6Z"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 290012,
+      "name": "Me Llueven 3.0",
+      "url": "https://open.spotify.com/track/7b59ZUw0TkGZuE0HNeiuc4"
+    },
+    {
+      "album": {
+        "name": "Me Mata",
+        "url": "https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412631,
+      "name": "Me Mata",
+      "url": "https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202635,
+      "name": "MERCEDES CAROTA",
+      "url": "https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189258,
+      "name": "MR. OCTOBER",
+      "url": "https://open.spotify.com/track/1ODFVLQszq0hCOdZtqV5wq"
+    },
+    {
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236215,
+      "name": "NI BIEN NI MAL",
+      "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225654,
+      "name": "NO ME QUIERO CASAR",
+      "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
+    },
+    {
+      "album": {
+        "name": "No Te Hagas",
+        "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
+      },
+      "artists": [
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233250,
+      "name": "No Te Hagas",
+      "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258280,
+      "name": "P FKN R",
+      "url": "https://open.spotify.com/track/0fgsKar6uBO08vzHXkTjWi"
+    },
+    {
+      "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191294,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 190207,
+      "name": "Puesto Pa' Guerrial",
+      "url": "https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs"
+    },
+    {
+      "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 150060,
+      "name": "RONCA FREESTYLE",
+      "url": "https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "SEDA",
+      "url": "https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl"
+    },
+    {
+      "album": {
+        "name": "Sensualidad",
+        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297485,
+      "name": "Sensualidad",
+      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
+    },
+    {
+      "album": {
+        "name": "Sexto Sentido (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227291,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
+    },
+    {
+      "album": {
+        "name": "Si Tu Lo Dejas",
+        "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Kosa",
+          "url": "https://open.spotify.com/artist/2DR7MOGAwxMZUA7U4N5X6t"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275478,
+      "name": "Si Tu Lo Dejas",
+      "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
+    },
+    {
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "THUNDER Y LIGHTNING",
+      "url": "https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E"
+    },
+    {
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/7CUZQVHLggh7X0za629It0"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215593,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/4PE7pAJ3DDmJdxWzpsXrlS"
+    },
+    {
+      "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
+    },
+    {
+      "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u"
+    },
+    {
+      "album": {
+        "name": "Tu No Metes Cabra",
+        "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170762,
+      "name": "Tu No Metes Cabra",
+      "url": "https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG"
+    },
+    {
+      "album": {
+        "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
+        "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306373,
+      "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
+      "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
+    },
+    {
+      "album": {
+        "name": "Un Ratito Mas",
+        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283120,
+      "name": "Un Ratito Mas",
+      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279613,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
+    },
+    {
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 159228,
+      "name": "\u00bfQuien Tu Eres?",
+      "url": "https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6aaJXQXKS5j"
 }

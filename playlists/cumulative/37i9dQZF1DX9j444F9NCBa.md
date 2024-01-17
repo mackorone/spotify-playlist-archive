@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-550 songs - 1 day 4 hr 0 min
+552 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [The Lady In Red](https://open.spotify.com/track/2H1cwjEMg7KdPPCICYDW3g) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [The Lady In Red](https://open.spotify.com/album/14mwYGiNZalFg8GW6NsIuD) | 3:42 | 2023-04-28 | 2023-06-23 |
 | [The Logical Song](https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [The Logical Song](https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC) | 2:58 | 2023-04-14 |  |
 | [The Long And Winding Road](https://open.spotify.com/track/1zfTxwyJW5k3TWVMk9Wkpn) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [The Long And Winding Road](https://open.spotify.com/album/7wrh0bTtTYQiqYMrnBQKVZ) | 2:29 | 2023-03-17 | 2023-06-03 |
+| [The Path of the Wind](https://open.spotify.com/track/12Ij9SbpofEHe5uOjYrjJo) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [The Path of the Wind](https://open.spotify.com/album/0WCAk84CLdkrJTCc77pESJ) | 1:42 | 2024-01-05 |  |
 | [The Power Of Love](https://open.spotify.com/track/1t9AJbE4IPwPHOeUfuonc6) | [Elisa Mosel](https://open.spotify.com/artist/2VNM8Yu05cK0W9sy9Ln2wM) | [The Power Of Love](https://open.spotify.com/album/1esxW8uKTEWEvmbTMXlTN3) | 3:19 | 2023-04-14 |  |
 | [The River](https://open.spotify.com/track/3PRRa4dwDkFCy9eSkJ9uDe) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [The River](https://open.spotify.com/album/4ANtz0euMNdAZS1NBXKf9E) | 2:25 | 2023-11-17 |  |
 | [The Rose](https://open.spotify.com/track/5qSl1ycvNC62IAa9CXWcKC) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [The Rose](https://open.spotify.com/album/1Z8aje0QPSztIonhoIhPeN) | 2:53 | 2022-12-02 | 2023-04-29 |
@@ -495,6 +496,7 @@
 | [Until I Found You](https://open.spotify.com/track/2yIXvAOhIvWZz7wzYTQIdB) | [Eva Witzell](https://open.spotify.com/artist/0A3DJSJYUBT9R1G9Z4zIS6) | [Until I Found You](https://open.spotify.com/album/41NiXyPSiRAoVPJQUw9CR8) | 2:42 | 2022-12-02 | 2023-03-18 |
 | [Until I Found You](https://open.spotify.com/track/4R2XWHPK2ljTjehV1PK82q) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Until I Found You](https://open.spotify.com/album/7eUEXAlRnCI2TTsqK3BJHm) | 2:16 | 2023-01-06 | 2023-06-03 |
 | [Up Where We Belong](https://open.spotify.com/track/3DGhWJz1fSwd80IOi6LjUH) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Up Where We Belong](https://open.spotify.com/album/2n5lxbfM2ypvRahQ6LDrvc) | 3:21 | 2023-12-22 |  |
+| [Vampire](https://open.spotify.com/track/1PJ6gIJxcF3v9TwhrMPBjT) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Vampire](https://open.spotify.com/album/2pfliYSgsm7DY68Pxifaz8) | 3:07 | 2024-01-05 |  |
 | [Versace on the Floor](https://open.spotify.com/track/1yGi29gqjufSYeNWY2wPca) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Versace on the Floor](https://open.spotify.com/album/63JIMLku6xRaZvkpUQTs4R) | 3:18 | 2022-12-02 |  |
 | [Vincent](https://open.spotify.com/track/3hLwdzukhUxAB8epGFKIkf) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Vincent](https://open.spotify.com/album/1paZJP3ZNLhSyDLyoetkIC) | 3:38 | 2022-01-21 | 2022-12-02 |
 | [Viva La Vida](https://open.spotify.com/track/7kxKactI72Fl5nZpTpLpJh) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Viva La Vida](https://open.spotify.com/album/4ywHnvPY7ZAp3C3440TJIs) | 3:48 | 2023-06-08 |  |

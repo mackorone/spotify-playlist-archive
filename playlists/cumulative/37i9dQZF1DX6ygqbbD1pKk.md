@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney.
 
-110 songs - 5 hr 40 min
+111 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Saber volver](https://open.spotify.com/track/1W3Ec5DR3MTumKVz0W8ahL) | [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0), [Opetaia Foa'i](https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 2:22 | 2023-09-15 |  |
 | [Shiny](https://open.spotify.com/track/1IZwCzAmaFmmdJj0cmhaax) | [Jemaine Clement](https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:05 | 2023-09-15 |  |
 | [Siempre A Mi Lado](https://open.spotify.com/track/6h7rxUcbbsjD3ooBv0EIpQ) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Siempre A Mi Lado](https://open.spotify.com/album/4ZplhhWfmxtjMU7U5yljyE) | 3:00 | 2023-09-15 |  |
+| [Something That I Want](https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:43 | 2024-01-09 |  |
 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 | 2023-09-15 |  |
 | [Spirit](https://open.spotify.com/track/38SueFAjT6jtFneyoQamYi) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 4:33 | 2023-09-15 |  |
 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 | 2023-09-15 |  |

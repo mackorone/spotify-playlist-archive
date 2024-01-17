@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > Thanks to everyone who came out and enjoyed Spotify House at Ole Red during CMA Fest with us!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,431 likes - 120 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,362 likes - 120 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

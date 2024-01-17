@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para ver llover, con buen cobijo y una taza de t\u00e9 entre las manos.",
-  "num_followers": 45981,
+  "num_followers": 46027,
   "original_name": "D\u00edas Lluviosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDBlOTEwMzdlMmQ5NGZmOTIzNDBmNDQyZTJkMjZkM2I2Mzg1Yzlk",
+  "snapshot_id": "MCw2ZThmODk1MDhhYjc1NzIzNjE2MWNkODUxMGYwNzEwYjhkYTFjY2Fj",
   "tracks": [
     {
       "added_at": "2023-01-17 14:07:53",
@@ -127,18 +127,18 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "Pistol",
-        "url": "https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5"
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 234174,
-      "name": "Pistol",
-      "url": "https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG"
+      "duration_ms": 160925,
+      "name": "Place To Be",
+      "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
+        "name": "Pistol",
+        "url": "https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 234174,
+      "name": "Pistol",
+      "url": "https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG"
+    },
+    {
+      "added_at": "2023-01-17 14:07:53",
+      "album": {
         "name": "Look at it in the Light",
         "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 160925,
-      "name": "Place To Be",
-      "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
-    },
-    {
-      "added_at": "2023-01-17 14:07:53",
-      "album": {
         "name": "complex (demo)",
         "url": "https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 256107,
       "name": "complex (demo)",
       "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
-    },
-    {
-      "added_at": "2023-01-17 14:07:53",
-      "album": {
-        "name": "les failles",
-        "url": "https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "soleil soleil",
-      "url": "https://open.spotify.com/track/6m3ObG4d6M92hJWYplJfnb"
     },
     {
       "added_at": "2023-04-20 00:57:39",
@@ -271,6 +255,38 @@
       "duration_ms": 181139,
       "name": "Catholic Country",
       "url": "https://open.spotify.com/track/6RJq7ki5vvDnLfn8E6EJVV"
+    },
+    {
+      "added_at": "2023-01-17 14:07:53",
+      "album": {
+        "name": "les failles",
+        "url": "https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "soleil soleil",
+      "url": "https://open.spotify.com/track/6m3ObG4d6M92hJWYplJfnb"
+    },
+    {
+      "added_at": "2023-01-17 14:07:53",
+      "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Organon",
+      "url": "https://open.spotify.com/track/4akPmp6IWf02FdXXXJi3lX"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -327,22 +343,6 @@
       "duration_ms": 279183,
       "name": "Can You Feel The Love Tonight",
       "url": "https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu"
-    },
-    {
-      "added_at": "2023-01-17 14:07:53",
-      "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Organon",
-      "url": "https://open.spotify.com/track/4akPmp6IWf02FdXXXJi3lX"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -409,6 +409,22 @@
       "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
     },
     {
+      "added_at": "2024-01-03 18:40:10",
+      "album": {
+        "name": "Gymnop\u00e9die",
+        "url": "https://open.spotify.com/album/1Vw6ZphBEFFsc9vn9hVK7o"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Gymnop\u00e9die",
+      "url": "https://open.spotify.com/track/4BSWSxDnXwDwWX0mOpBa4h"
+    },
+    {
       "added_at": "2023-01-17 14:07:53",
       "album": {
         "name": "Optimist",
@@ -427,18 +443,18 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+        "name": "Hard to Let Go",
+        "url": "https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 385653,
-      "name": "God Turn Me Into a Flower",
-      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
+      "duration_ms": 247615,
+      "name": "Hard to Let Go",
+      "url": "https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -459,18 +475,18 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
       "artists": [
         {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 284986,
-      "name": "' Cello Song",
-      "url": "https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj"
+      "duration_ms": 385653,
+      "name": "God Turn Me Into a Flower",
+      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -495,22 +511,6 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "Solitude Standing",
-        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        }
-      ],
-      "duration_ms": 129106,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy"
-    },
-    {
-      "added_at": "2023-01-17 14:07:53",
-      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 236372,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
+    },
+    {
+      "added_at": "2023-01-17 14:07:53",
+      "album": {
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "' Cello Song",
+      "url": "https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj"
     },
     {
       "added_at": "2023-10-10 00:38:24",
@@ -547,18 +563,18 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "Hard to Let Go",
-        "url": "https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5"
+        "name": "Solitude Standing",
+        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
         }
       ],
-      "duration_ms": 247615,
-      "name": "Hard to Let Go",
-      "url": "https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7"
+      "duration_ms": 129106,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -575,22 +591,6 @@
       "duration_ms": 215573,
       "name": "A Dangerous Thing",
       "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
-    },
-    {
-      "added_at": "2023-01-17 14:07:53",
-      "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Once Twice Melody",
-      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -647,34 +647,18 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "Mood (Acoustic)",
-        "url": "https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc"
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 175517,
-      "name": "Mood - Acoustic",
-      "url": "https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr"
-    },
-    {
-      "added_at": "2023-01-17 14:07:53",
-      "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+      "duration_ms": 284906,
+      "name": "Once Twice Melody",
+      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -695,6 +679,38 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+    },
+    {
+      "added_at": "2023-01-17 14:07:53",
+      "album": {
+        "name": "Mood (Acoustic)",
+        "url": "https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 175517,
+      "name": "Mood - Acoustic",
+      "url": "https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr"
+    },
+    {
+      "added_at": "2023-01-17 14:07:53",
+      "album": {
         "name": "M\u00e9lancolie",
         "url": "https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA"
       },
@@ -711,6 +727,26 @@
       "duration_ms": 162286,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"
+    },
+    {
+      "added_at": "2023-10-10 03:27:42",
+      "album": {
+        "name": "From The Valley",
+        "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 172190,
+      "name": "Heart of Gold (with Bon Iver)",
+      "url": "https://open.spotify.com/track/0AlgkqrQnGTXJ0Onk2Ok95"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -745,24 +781,20 @@
       "url": "https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn"
     },
     {
-      "added_at": "2023-10-10 03:27:42",
+      "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "From The Valley",
-        "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
+        "name": "Take me to Church",
+        "url": "https://open.spotify.com/album/2R23J1fwtVsyB0kSW00dAp"
       },
       "artists": [
         {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Tomas Lee",
+          "url": "https://open.spotify.com/artist/4gAbYtySCDOGOXHEUjrQVe"
         }
       ],
-      "duration_ms": 172190,
-      "name": "Heart of Gold (with Bon Iver)",
-      "url": "https://open.spotify.com/track/0AlgkqrQnGTXJ0Onk2Ok95"
+      "duration_ms": 225641,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/2zaaF3DvabHfFQPnIYVVUG"
     },
     {
       "added_at": "2023-01-17 14:07:53",
@@ -783,38 +815,6 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
-    },
-    {
-      "added_at": "2023-01-17 14:07:53",
-      "album": {
-        "name": "Take me to Church",
-        "url": "https://open.spotify.com/album/2R23J1fwtVsyB0kSW00dAp"
-      },
-      "artists": [
-        {
-          "name": "Tomas Lee",
-          "url": "https://open.spotify.com/artist/4gAbYtySCDOGOXHEUjrQVe"
-        }
-      ],
-      "duration_ms": 225641,
-      "name": "Take Me To Church",
-      "url": "https://open.spotify.com/track/2zaaF3DvabHfFQPnIYVVUG"
-    },
-    {
-      "added_at": "2023-01-17 14:07:53",
-      "album": {
         "name": "Doesn't Matter",
         "url": "https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-01-17 14:07:53",
       "album": {
-        "name": "Better in the Shade",
-        "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 216920,
-      "name": "Better in the Shade",
-      "url": "https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O"
+      "duration_ms": 274506,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     }
   ],
   "unique_name": "D\u00edas Lluviosos",

@@ -1,289 +1,1263 @@
 {
-  "2023-03-20": 80472,
-  "2023-03-21": 80510,
-  "2023-03-22": 80526,
-  "2023-03-23": 80561,
-  "2023-03-24": 80561,
-  "2023-03-25": 80609,
-  "2023-03-26": 80625,
-  "2023-03-27": 80641,
-  "2023-03-28": 80663,
-  "2023-03-29": 80681,
-  "2023-03-30": 80721,
-  "2023-03-31": 80721,
-  "2023-04-01": 80743,
-  "2023-04-02": 80761,
-  "2023-04-03": 80791,
-  "2023-04-04": 80803,
-  "2023-04-05": 80815,
-  "2023-04-06": 80837,
-  "2023-04-07": 80846,
-  "2023-04-09": 80892,
-  "2023-04-10": 80913,
-  "2023-04-11": 80956,
-  "2023-04-12": 80956,
-  "2023-04-13": 80968,
-  "2023-04-14": 80982,
-  "2023-04-15": 81014,
-  "2023-04-16": 81045,
-  "2023-04-17": 81050,
-  "2023-04-18": 81066,
-  "2023-04-19": 81080,
-  "2023-04-20": 81087,
-  "2023-04-21": 81113,
-  "2023-04-22": 81130,
-  "2023-04-23": 81139,
-  "2023-04-24": 81148,
-  "2023-04-25": 81173,
-  "2023-04-26": 81184,
-  "2023-04-27": 81201,
-  "2023-04-28": 81223,
-  "2023-04-29": 81254,
-  "2023-04-30": 81274,
-  "2023-05-01": 81294,
-  "2023-05-02": 81311,
-  "2023-05-03": 81317,
-  "2023-05-04": 81342,
-  "2023-05-05": 81357,
-  "2023-05-06": 81365,
-  "2023-05-07": 81380,
-  "2023-05-08": 81400,
-  "2023-05-09": 81414,
-  "2023-05-10": 81419,
-  "2023-05-11": 81426,
-  "2023-05-12": 81457,
-  "2023-05-13": 81474,
-  "2023-05-14": 81504,
-  "2023-05-15": 81532,
-  "2023-05-16": 81558,
-  "2023-05-17": 81575,
-  "2023-05-18": 81588,
-  "2023-05-19": 81612,
-  "2023-05-20": 81651,
-  "2023-05-21": 81651,
-  "2023-05-22": 81651,
-  "2023-05-23": 81703,
-  "2023-05-24": 81743,
-  "2023-05-25": 81743,
-  "2023-05-26": 81760,
-  "2023-05-27": 81773,
-  "2023-05-28": 81781,
-  "2023-05-29": 81781,
-  "2023-05-30": 81804,
-  "2023-05-31": 81814,
-  "2023-06-01": 81827,
-  "2023-06-02": 81846,
-  "2023-06-03": 81856,
-  "2023-06-04": 81876,
-  "2023-06-05": 81888,
-  "2023-06-06": 81899,
-  "2023-06-07": 81920,
-  "2023-06-08": 81934,
-  "2023-06-09": 81951,
-  "2023-06-10": 81971,
-  "2023-06-11": 81985,
-  "2023-06-12": 81996,
-  "2023-06-13": 82020,
-  "2023-06-14": 82035,
-  "2023-06-15": 82059,
-  "2023-06-16": 82082,
-  "2023-06-17": 82100,
-  "2023-06-18": 82130,
-  "2023-06-19": 82146,
-  "2023-06-20": 82159,
-  "2023-06-21": 82178,
-  "2023-06-22": 82184,
-  "2023-06-23": 82203,
-  "2023-06-24": 82228,
-  "2023-06-25": 82253,
-  "2023-06-26": 82274,
-  "2023-06-27": 82288,
-  "2023-06-28": 82302,
-  "2023-06-29": 82315,
-  "2023-06-30": 82328,
-  "2023-07-01": 82362,
-  "2023-07-02": 82362,
-  "2023-07-03": 82373,
-  "2023-07-04": 82390,
-  "2023-07-05": 82408,
-  "2023-07-06": 82434,
-  "2023-07-07": 82434,
-  "2023-07-08": 82443,
-  "2023-07-09": 82463,
-  "2023-07-10": 82475,
-  "2023-07-11": 82478,
-  "2023-07-12": 82490,
-  "2023-07-13": 82497,
-  "2023-07-14": 82509,
-  "2023-07-15": 82523,
-  "2023-07-16": 82539,
-  "2023-07-17": 82556,
-  "2023-07-18": 82567,
-  "2023-07-19": 82571,
-  "2023-07-20": 82587,
-  "2023-07-21": 82609,
-  "2023-07-22": 82626,
-  "2023-07-23": 82649,
-  "2023-07-24": 82670,
-  "2023-07-25": 82689,
-  "2023-07-26": 82703,
-  "2023-07-27": 82721,
-  "2023-07-28": 82733,
-  "2023-07-29": 82747,
-  "2023-07-30": 82762,
-  "2023-07-31": 82773,
-  "2023-08-01": 82788,
-  "2023-08-02": 82796,
-  "2023-08-03": 82800,
-  "2023-08-04": 82820,
-  "2023-08-05": 82845,
-  "2023-08-06": 82869,
-  "2023-08-07": 82869,
-  "2023-08-08": 82883,
-  "2023-08-09": 82902,
-  "2023-08-10": 82927,
-  "2023-08-11": 82947,
-  "2023-08-12": 82958,
-  "2023-08-13": 82958,
-  "2023-08-14": 82979,
-  "2023-08-15": 82988,
-  "2023-08-16": 82988,
-  "2023-08-17": 83024,
-  "2023-08-18": 83024,
-  "2023-08-19": 83046,
-  "2023-08-20": 83051,
-  "2023-08-21": 83057,
-  "2023-08-22": 83069,
-  "2023-08-23": 83071,
-  "2023-08-24": 83088,
-  "2023-08-25": 83088,
-  "2023-08-26": 83117,
-  "2023-08-27": 83127,
-  "2023-08-28": 83138,
-  "2023-08-29": 83138,
-  "2023-08-30": 83138,
-  "2023-08-31": 83187,
-  "2023-09-01": 83206,
-  "2023-09-02": 83206,
-  "2023-09-03": 83217,
-  "2023-09-04": 83217,
-  "2023-09-05": 83217,
-  "2023-09-06": 83246,
-  "2023-09-07": 83246,
-  "2023-09-08": 83246,
-  "2023-09-09": 83246,
-  "2023-09-10": 83322,
-  "2023-09-11": 83328,
-  "2023-09-12": 83328,
-  "2023-09-13": 83357,
-  "2023-09-14": 83357,
-  "2023-09-15": 83357,
-  "2023-09-16": 83400,
-  "2023-09-17": 83400,
-  "2023-09-18": 83400,
-  "2023-09-19": 83430,
-  "2023-09-20": 83430,
-  "2023-09-21": 83430,
-  "2023-09-22": 83485,
-  "2023-09-23": 83485,
-  "2023-09-24": 83485,
-  "2023-09-25": 83485,
-  "2023-09-26": 83524,
-  "2023-09-27": 83524,
-  "2023-09-28": 83524,
-  "2023-09-29": 83524,
-  "2023-09-30": 83524,
-  "2023-10-01": 83524,
-  "2023-10-02": 83609,
-  "2023-10-03": 83609,
-  "2023-10-04": 83609,
-  "2023-10-05": 83646,
-  "2023-10-06": 83660,
-  "2023-10-07": 83660,
-  "2023-10-08": 83660,
-  "2023-10-09": 83660,
-  "2023-10-10": 83660,
-  "2023-10-11": 83667,
-  "2023-10-12": 83667,
-  "2023-10-13": 83667,
-  "2023-10-14": 83667,
-  "2023-10-15": 83667,
-  "2023-10-16": 83667,
-  "2023-10-17": 83667,
-  "2023-10-18": 83667,
-  "2023-10-19": 83667,
-  "2023-10-20": 83667,
-  "2023-10-21": 83667,
-  "2023-10-22": 83667,
-  "2023-10-23": 83667,
-  "2023-10-24": 83667,
-  "2023-10-25": 83667,
-  "2023-10-26": 83667,
-  "2023-10-27": 83667,
-  "2023-10-28": 83667,
-  "2023-10-29": 83667,
-  "2023-10-30": 83667,
-  "2023-10-31": 83667,
-  "2023-11-01": 83667,
-  "2023-11-02": 83667,
-  "2023-11-03": 83667,
-  "2023-11-04": 83667,
-  "2023-11-05": 83667,
-  "2023-11-06": 83667,
-  "2023-11-07": 83667,
-  "2023-11-08": 83667,
-  "2023-11-09": 83667,
-  "2023-11-10": 83667,
-  "2023-11-11": 83781,
-  "2023-11-12": 83781,
-  "2023-11-13": 83781,
-  "2023-11-14": 83781,
-  "2023-11-15": 83781,
-  "2023-11-16": 83781,
-  "2023-11-17": 83781,
-  "2023-11-18": 83781,
-  "2023-11-19": 83781,
-  "2023-11-20": 83781,
-  "2023-11-21": 83781,
-  "2023-11-22": 83781,
-  "2023-11-23": 83781,
-  "2023-11-24": 83781,
-  "2023-11-25": 83781,
-  "2023-11-26": 83781,
-  "2023-11-27": 83781,
-  "2023-11-28": 83781,
-  "2023-11-29": 83781,
-  "2023-11-30": 83781,
-  "2023-12-01": 83781,
-  "2023-12-02": 83781,
-  "2023-12-03": 83781,
-  "2023-12-04": 83781,
-  "2023-12-05": 83781,
-  "2023-12-06": 83781,
-  "2023-12-07": 83781,
-  "2023-12-08": 83781,
-  "2023-12-09": 83781,
-  "2023-12-10": 83781,
-  "2023-12-11": 83781,
-  "2023-12-12": 83781,
-  "2023-12-13": 83781,
-  "2023-12-14": 84143,
-  "2023-12-15": 84152,
-  "2023-12-16": 84162,
-  "2023-12-17": 84169,
-  "2023-12-18": 84177,
-  "2023-12-19": 84195,
-  "2023-12-20": 84212,
-  "2023-12-21": 84219,
-  "2023-12-22": 84229,
-  "2023-12-23": 84241,
-  "2023-12-24": 84249,
-  "2023-12-25": 84254,
-  "2023-12-26": 84271,
-  "2023-12-27": 84283,
-  "2023-12-30": 84314,
-  "2023-12-31": 84328,
-  "2024-01-01": 84334,
-  "2024-01-02": 84337,
-  "2024-01-03": 84342
+  "2024-01-17": 84248,
+  "date_first_scraped": "2023-03-20",
+  "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
+  "name": "This Is Jonas Blue",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174840,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv"
+    },
+    {
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+    },
+    {
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Angles",
+      "url": "https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP"
+    },
+    {
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196214,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
+    },
+    {
+      "album": {
+        "name": "Billboard",
+        "url": "https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Tifa Chen",
+          "url": "https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172728,
+      "name": "Billboard",
+      "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
+    },
+    {
+      "album": {
+        "name": "Bum Bum Tam Tam (feat. Future) [Jonas Blue Remix]",
+        "url": "https://open.spotify.com/album/0MZO7gD4hAtniirDVl1v0A"
+      },
+      "artists": [
+        {
+          "name": "MC Fioti",
+          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 186149,
+      "name": "Bum Bum Tam Tam - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7vh69SQxqTfa5tsG4zeZOk"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201254,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
+    },
+    {
+      "album": {
+        "name": "Crying On The Dancefloor",
+        "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Endless Summer",
+          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
+        },
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173008,
+      "name": "Crying On The Dancefloor",
+      "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198090,
+      "name": "Don't Call It Love",
+      "url": "https://open.spotify.com/track/6NKOAdHTXONN0IZaekxifN"
+    },
+    {
+      "album": {
+        "name": "Don't Give Up (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Don't Give Up - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Wake Me Up",
+        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188894,
+      "name": "Don\u2019t Wake Me Up",
+      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
+    },
+    {
+      "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/5o15ApBZwwn2zkLHqSiPNK"
+      },
+      "artists": [
+        {
+          "name": "Solu Music",
+          "url": "https://open.spotify.com/artist/0lpwsK5bX64iD7GjEda5De"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "KimBlee",
+          "url": "https://open.spotify.com/artist/4OKxdPfybjZIWXLj8rml2s"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "Fade - Jonas Blue Vocal Mix",
+      "url": "https://open.spotify.com/track/6Q1v4ZvXui7kMfBLzr9Vca"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212424,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
+    },
+    {
+      "album": {
+        "name": "Fast Car (Remixes)",
+        "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330967,
+      "name": "Fast Car - Club Mix",
+      "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
+    },
+    {
+      "album": {
+        "name": "Fast Car (Remixes)",
+        "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        },
+        {
+          "name": "Rare Candy",
+          "url": "https://open.spotify.com/artist/5okfcZF47LTIbEIx6RILD9"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 342595,
+      "name": "Fast Car - Rare Candy Remix",
+      "url": "https://open.spotify.com/track/7npdzx7U6ZiBat9xrnQBZi"
+    },
+    {
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188891,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
+    },
+    {
+      "album": {
+        "name": "Hear Me Say",
+        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190772,
+      "name": "Hear Me Say",
+      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+    },
+    {
+      "album": {
+        "name": "Hearts Ain't Gonna Lie (Remixes, Pt. 1)",
+        "url": "https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238451,
+      "name": "Hearts Ain't Gonna Lie - Eden Prince Remix",
+      "url": "https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA"
+    },
+    {
+      "album": {
+        "name": "Summer Dance Party 2023",
+        "url": "https://open.spotify.com/album/5tGYisIrPRUbqdSQmwCcAk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-23",
+      "duration_ms": 224744,
+      "name": "I See Love - Extended Mix",
+      "url": "https://open.spotify.com/track/4kG5JA2eq34XKTW7rQibsJ"
+    },
+    {
+      "album": {
+        "name": "I See Love (From Hotel Transylvania 3)",
+        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173220,
+      "name": "I See Love - From Hotel Transylvania 3",
+      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/3niF8tyjfJw8pmfc6VYKGa"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184582,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/1CW7tYkpJ95c7bQkRf6CcK"
+    },
+    {
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Mark Villa",
+          "url": "https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "In Your Arms Tonight",
+      "url": "https://open.spotify.com/track/2Ka17lh9JIVVTZetW8Cbnv"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj"
+    },
+    {
+      "album": {
+        "name": "Mama (Acoustic)",
+        "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192277,
+      "name": "Mama - Acoustic",
+      "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
+    },
+    {
+      "album": {
+        "name": "Mama (Remixes)",
+        "url": "https://open.spotify.com/album/1eDBHbgNyQxfiG3erm7mH1"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        },
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
+      "duration_ms": 179887,
+      "name": "Mama - Syn Cole Remix",
+      "url": "https://open.spotify.com/track/3NFvv5bC6HWtxUftIBm8Qd"
+    },
+    {
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/7dm0STpyctopt8zjJ0IHPT"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186490,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC"
+    },
+    {
+      "album": {
+        "name": "THE REMIXES",
+        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+      "url": "https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3"
+    },
+    {
+      "album": {
+        "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/7o7krSdxaqzkLk3HtYbm2x"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 167040,
+      "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+      "url": "https://open.spotify.com/track/4JRjQE4sXKgOFURvvetuXi"
+    },
+    {
+      "album": {
+        "name": "My Head & My Heart (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "My Head & My Heart - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+    },
+    {
+      "album": {
+        "name": "My Life Is Music (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/7beqHc1JyjadCU4lIAWdRG"
+      },
+      "artists": [
+        {
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        },
+        {
+          "name": "The Visionary",
+          "url": "https://open.spotify.com/artist/2mjMWOig2tCmJsm198htSs"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 195483,
+      "name": "My Life Is Music (Jonas Blue Remix)",
+      "url": "https://open.spotify.com/track/2PnEzfFz03XKGU4JqrCw8A"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210921,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8"
+    },
+    {
+      "album": {
+        "name": "Needin' U (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/4TIJ6LDFzeJwKPjPaeWs95"
+      },
+      "artists": [
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 196190,
+      "name": "Needin' U (Jonas Blue Remix)",
+      "url": "https://open.spotify.com/track/5uRzm9hMLyStgXfiErpJu5"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185453,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
+    },
+    {
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196821,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
+    },
+    {
+      "album": {
+        "name": "Past Life (Koven Remix)",
+        "url": "https://open.spotify.com/album/1a04f6asIrwei8aDzc0krl"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 150344,
+      "name": "Past Life - Koven Remix",
+      "url": "https://open.spotify.com/track/0qd3s3CSis3SKKxBrsAP1p"
+    },
+    {
+      "album": {
+        "name": "Perfect Melody",
+        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159850,
+      "name": "Perfect Melody",
+      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
+    },
+    {
+      "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 191206,
+      "name": "Perfect Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
+    },
+    {
+      "album": {
+        "name": "Perfect Strangers (Sped Up Version)",
+        "url": "https://open.spotify.com/album/3bvW0RKuJCgPI3eNJ6HKQQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Perfect Strangers - Sped Up Version",
+      "url": "https://open.spotify.com/track/4bk3vxEfeXaaMZwJaP7Iuj"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193377,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194407,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198995,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
+    },
+    {
+      "album": {
+        "name": "Roll With Me (feat. Shungudzo & ZieZie)",
+        "url": "https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres"
+      },
+      "artists": [
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
+        {
+          "name": "ZieZie",
+          "url": "https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182364,
+      "name": "Roll With Me (feat. Shungudzo & ZieZie)",
+      "url": "https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7"
+    },
+    {
+      "album": {
+        "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
+        "url": "https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141204,
+      "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
+      "url": "https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT"
+    },
+    {
+      "album": {
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217080,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4"
+    },
+    {
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+    },
+    {
+      "album": {
+        "name": "Till The End (Jonas Blue & Sam Feldt Present Endless Summer)",
+        "url": "https://open.spotify.com/album/1ocuRCXk3wpcRl5OzQvGB9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Sam DeRosa",
+          "url": "https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0"
+        },
+        {
+          "name": "Endless Summer",
+          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Till The End - Jonas Blue & Sam Feldt Present Endless Summer",
+      "url": "https://open.spotify.com/track/42NgRCC7M5rfVNKXMaFitZ"
+    },
+    {
+      "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "album": {
+        "name": "What I Like About You (feat. Theresa Rex)",
+        "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220396,
+      "name": "What I Like About You (feat. Theresa Rex)",
+      "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 212640,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/1kEc9ep3rFqhwG4OlqbjLH"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194720,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0X3Z1S"
 }

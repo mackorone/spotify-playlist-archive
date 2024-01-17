@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-63 songs - 4 hr 14 min
+64 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Gumbala Suthuvom](https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gumbala Suthuvom](https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3) | 4:06 | 2022-11-05 |  |
 | [Idhan Gaana](https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs) | [Kaimalu Gokul](https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs), [Joy Sanjay](https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB) | [Idhan Gaana](https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ) | 2:53 | 2023-07-12 |  |
 | [Ithakka Thambakka Tha](https://open.spotify.com/track/0HBWoMOjQEJiIylD1CfnWD) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Ithakka Thambakka Tha](https://open.spotify.com/album/6WQDEX8jJHGlBcKJoPJDML) | 3:30 | 2022-11-05 |  |
-| [Jorthaale](https://open.spotify.com/track/39g4GmzPyDLTdtnhu24r2H) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Jorthaale](https://open.spotify.com/album/6ubFX2BkueKqYDxkQUpVb9) | 1:50 | 2022-11-05 |  |
+| [Jorthaale](https://open.spotify.com/track/39g4GmzPyDLTdtnhu24r2H) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Jorthaale](https://open.spotify.com/album/6ubFX2BkueKqYDxkQUpVb9) | 1:50 | 2022-11-05 | 2024-01-09 |
+| [Jorthaale](https://open.spotify.com/track/4Cc6Nh0GU0AIu3jg9jJv9q) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Jorthaale](https://open.spotify.com/album/4FwsmXb3jD1tUtSbZNocXH) | 1:50 | 2022-11-05 |  |
 | [Kaimalu Potu Ennaku Kaivali](https://open.spotify.com/track/70NBOOstkJOP69N2teD0Ln) | [Kaimalu Gokul](https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs) | [Kaimalu Potu Ennaku Kaivali](https://open.spotify.com/album/1Y29YKrWNf5oDUCYVMYQIn) | 4:08 | 2022-11-05 |  |
 | [Kanthar Koottam](https://open.spotify.com/track/13Dj7jpY7nVgJySkaSXGp0) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Padaiyon](https://open.spotify.com/album/4jczpkv1zItbvBazNYA1Af) | 5:53 | 2023-01-11 |  |
 | [Katthi](https://open.spotify.com/track/6id01ayZW6GNqKTYDvVREN) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Katthi](https://open.spotify.com/album/77Cw0DDVbnzCGmwAWAEO4L) | 4:04 | 2022-11-05 |  |

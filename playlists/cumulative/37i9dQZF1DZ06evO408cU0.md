@@ -4,7 +4,7 @@
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 36 min
+89 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Así Te Necesito](https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:00 | 2022-06-01 |  |
 | [Años Sin Saber De Ti](https://open.spotify.com/track/2WN2nNe4mYDA5uIOKxLMpq) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Segunda Temporada](https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt) | 3:26 | 2023-05-27 | 2023-09-16 |
 | [Borracho Conocido](https://open.spotify.com/track/6zVz0ihJiJse2eGIhUbAFb) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Borracho Conocido](https://open.spotify.com/album/07LeiBjD41ESGL4zF8qGVY) | 2:15 | 2022-06-01 | 2023-11-11 |
+| [Bote De Cerveza](https://open.spotify.com/track/21xeMj9uwa9cCJnk4qznRP) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 2:59 | 2024-01-05 | 2024-01-15 |
 | [Caballito De Otate \- En Vivo Desde El Rancho](https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:28 | 2022-11-02 |  |
 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 | 2022-06-01 |  |
 | [Confieso](https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Confieso](https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI) | 4:02 | 2022-10-13 |  |
@@ -38,7 +39,7 @@
 | [Ella Es Mi Mujer](https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:43 | 2022-06-01 |  |
 | [En Qué Cabeza Cabe](https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:53 | 2022-06-01 |  |
 | [Encontrarte](https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:00 | 2022-06-01 |  |
-| [Entre Ella Y Tú](https://open.spotify.com/track/2HavagLtOTS95ZX8Fmyz6z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:32 | 2022-06-01 | 2024-01-03 |
+| [Entre Ella Y Tú](https://open.spotify.com/track/2HavagLtOTS95ZX8Fmyz6z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:32 | 2022-06-01 | 2024-01-17 |
 | [Entre La Lluvia Y Mi Llorar \- En Vivo](https://open.spotify.com/track/2yPC0Jqy4TyU6As3laVefc) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo Desde El Rancho San Vicente](https://open.spotify.com/album/4Mg2CoaM5PqRjm7byUonvH) | 2:46 | 2022-12-20 | 2023-05-14 |
 | [Esta Vez Soy Yo](https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 4:13 | 2022-06-01 |  |
 | [Esta Vida \- En Vivo](https://open.spotify.com/track/0KpDXM7rU7Mbjy7u2ZiAoE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho San Vicente](https://open.spotify.com/album/4Mg2CoaM5PqRjm7byUonvH) | 3:37 | 2022-06-01 | 2022-07-30 |
@@ -60,6 +61,7 @@
 | [Me Piden \- En Vivo](https://open.spotify.com/track/7eUkofrlYpIG8qK0GaXCF8) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 4:47 | 2022-06-01 | 2022-10-13 |
 | [Me Rindo](https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Me Rindo](https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57) | 3:40 | 2022-06-01 |  |
 | [Mi Ranchito](https://open.spotify.com/track/2G5oALhCFdtyX2f21RFjAh) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Mi Ranchito](https://open.spotify.com/album/6UVu1KkkBpNHqdmVWQBNXb) | 2:19 | 2023-09-15 | 2023-11-11 |
+| [Mi Ranchito](https://open.spotify.com/track/49vhRf1PdCqTM6zhqABP9m) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Tributo Al Amo De La Banda](https://open.spotify.com/album/1sluShk7MxxjFsfo2y0Bfk) | 2:19 | 2024-01-07 | 2024-01-09 |
 | [Mi Virgencita](https://open.spotify.com/track/0D6F8YIA0dTfhDhpokALgA) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 2:25 | 2022-11-26 | 2022-11-28 |
 | [Mis Dos Vicios](https://open.spotify.com/track/6HbeUTNk0RyDBgU4a1KwV6) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:07 | 2022-06-01 | 2023-06-13 |
 | [Olvidarte No Será Sencillo](https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 3:46 | 2022-06-01 |  |

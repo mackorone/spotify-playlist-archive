@@ -1,735 +1,3141 @@
 {
-  "2021-12-25": 32068,
-  "2021-12-26": 32065,
-  "2021-12-27": 32061,
-  "2021-12-28": 32061,
-  "2021-12-29": 32058,
-  "2021-12-30": 32059,
-  "2021-12-31": 32058,
-  "2022-01-01": 32046,
-  "2022-01-02": 32045,
-  "2022-01-03": 32042,
-  "2022-01-04": 32042,
-  "2022-01-05": 32037,
-  "2022-01-06": 32036,
-  "2022-01-07": 32034,
-  "2022-01-08": 32030,
-  "2022-01-09": 32030,
-  "2022-01-10": 32025,
-  "2022-01-11": 32026,
-  "2022-01-12": 32025,
-  "2022-01-13": 32019,
-  "2022-01-14": 32016,
-  "2022-01-15": 32015,
-  "2022-01-16": 32015,
-  "2022-01-17": 32010,
-  "2022-01-18": 32010,
-  "2022-01-19": 32009,
-  "2022-01-20": 32005,
-  "2022-01-21": 31997,
-  "2022-01-22": 31995,
-  "2022-01-23": 31994,
-  "2022-01-24": 31993,
-  "2022-01-25": 31988,
-  "2022-01-26": 31990,
-  "2022-01-27": 31987,
-  "2022-01-28": 31984,
-  "2022-01-29": 31979,
-  "2022-01-30": 31979,
-  "2022-01-31": 31978,
-  "2022-02-01": 31975,
-  "2022-02-02": 31972,
-  "2022-02-03": 31971,
-  "2022-02-04": 31967,
-  "2022-02-05": 31964,
-  "2022-02-06": 31959,
-  "2022-02-07": 31956,
-  "2022-02-08": 31956,
-  "2022-02-09": 31953,
-  "2022-02-10": 31953,
-  "2022-02-11": 31951,
-  "2022-02-12": 31949,
-  "2022-02-13": 31945,
-  "2022-02-14": 31946,
-  "2022-02-15": 31937,
-  "2022-02-16": 31938,
-  "2022-02-17": 31936,
-  "2022-02-18": 31933,
-  "2022-02-19": 31930,
-  "2022-02-20": 31924,
-  "2022-02-21": 31923,
-  "2022-02-22": 31922,
-  "2022-02-23": 31923,
-  "2022-02-24": 31923,
-  "2022-02-25": 31923,
-  "2022-02-26": 31922,
-  "2022-02-27": 31916,
-  "2022-02-28": 31916,
-  "2022-03-01": 31914,
-  "2022-03-02": 31909,
-  "2022-03-03": 31907,
-  "2022-03-04": 31904,
-  "2022-03-05": 31903,
-  "2022-03-06": 31901,
-  "2022-03-07": 31898,
-  "2022-03-08": 31897,
-  "2022-03-09": 31893,
-  "2022-03-10": 31893,
-  "2022-03-11": 31891,
-  "2022-03-12": 31892,
-  "2022-03-13": 31892,
-  "2022-03-14": 31887,
-  "2022-03-15": 31888,
-  "2022-03-16": 31887,
-  "2022-03-17": 31885,
-  "2022-03-18": 31883,
-  "2022-03-19": 31884,
-  "2022-03-20": 31884,
-  "2022-03-21": 31879,
-  "2022-03-22": 31879,
-  "2022-03-23": 31874,
-  "2022-03-24": 31870,
-  "2022-03-25": 31869,
-  "2022-03-26": 31867,
-  "2022-03-27": 31865,
-  "2022-03-28": 31864,
-  "2022-03-30": 31865,
-  "2022-03-31": 31864,
-  "2022-04-01": 31864,
-  "2022-04-02": 31864,
-  "2022-04-03": 31864,
-  "2022-04-04": 31864,
-  "2022-04-05": 31864,
-  "2022-04-06": 31864,
-  "2022-04-07": 31864,
-  "2022-04-08": 31864,
-  "2022-04-09": 31864,
-  "2022-04-10": 31864,
-  "2022-04-11": 31864,
-  "2022-04-12": 31864,
-  "2022-04-13": 31864,
-  "2022-04-14": 31864,
-  "2022-04-15": 31864,
-  "2022-04-16": 31864,
-  "2022-04-17": 31864,
-  "2022-04-18": 31864,
-  "2022-04-19": 31864,
-  "2022-04-20": 31864,
-  "2022-04-21": 31864,
-  "2022-04-22": 31864,
-  "2022-04-23": 31864,
-  "2022-04-24": 31864,
-  "2022-04-25": 31864,
-  "2022-04-26": 31864,
-  "2022-04-27": 31864,
-  "2022-04-28": 31864,
-  "2022-04-29": 31864,
-  "2022-04-30": 31864,
-  "2022-05-01": 31864,
-  "2022-05-02": 31864,
-  "2022-05-03": 31864,
-  "2022-05-04": 31864,
-  "2022-05-05": 31864,
-  "2022-05-06": 31864,
-  "2022-05-07": 31864,
-  "2022-05-08": 31864,
-  "2022-05-09": 31864,
-  "2022-05-10": 31864,
-  "2022-05-11": 31864,
-  "2022-05-12": 31864,
-  "2022-05-13": 31864,
-  "2022-05-14": 31864,
-  "2022-05-15": 31864,
-  "2022-05-16": 31864,
-  "2022-05-17": 31864,
-  "2022-05-18": 31864,
-  "2022-05-19": 31864,
-  "2022-05-20": 31864,
-  "2022-05-21": 31864,
-  "2022-05-22": 31864,
-  "2022-05-23": 31864,
-  "2022-05-24": 31864,
-  "2022-05-25": 31864,
-  "2022-05-26": 31864,
-  "2022-05-27": 31864,
-  "2022-05-28": 31864,
-  "2022-05-29": 31864,
-  "2022-05-30": 31864,
-  "2022-05-31": 31864,
-  "2022-06-01": 31864,
-  "2022-06-02": 31864,
-  "2022-06-03": 31864,
-  "2022-06-04": 31864,
-  "2022-06-05": 31864,
-  "2022-06-06": 31864,
-  "2022-06-07": 31864,
-  "2022-06-08": 31864,
-  "2022-06-09": 31864,
-  "2022-06-10": 31864,
-  "2022-06-11": 31864,
-  "2022-06-12": 31864,
-  "2022-06-13": 31864,
-  "2022-06-14": 31864,
-  "2022-06-15": 31864,
-  "2022-06-16": 31864,
-  "2022-06-17": 31864,
-  "2022-06-18": 31864,
-  "2022-06-19": 31864,
-  "2022-06-20": 31864,
-  "2022-06-21": 31864,
-  "2022-06-22": 31864,
-  "2022-06-23": 31864,
-  "2022-06-24": 31864,
-  "2022-06-25": 31864,
-  "2022-06-26": 31864,
-  "2022-06-27": 31864,
-  "2022-06-28": 31864,
-  "2022-06-29": 31864,
-  "2022-06-30": 31864,
-  "2022-07-01": 31864,
-  "2022-07-02": 31864,
-  "2022-07-03": 31864,
-  "2022-07-04": 31864,
-  "2022-07-05": 31864,
-  "2022-07-06": 31864,
-  "2022-07-07": 31864,
-  "2022-07-08": 31864,
-  "2022-07-09": 31864,
-  "2022-07-10": 31864,
-  "2022-07-11": 31864,
-  "2022-07-12": 31864,
-  "2022-07-13": 31864,
-  "2022-07-14": 31864,
-  "2022-07-15": 31864,
-  "2022-07-16": 31864,
-  "2022-07-17": 31864,
-  "2022-07-18": 31864,
-  "2022-07-19": 31864,
-  "2022-07-20": 31864,
-  "2022-07-21": 31864,
-  "2022-07-22": 31864,
-  "2022-07-23": 31864,
-  "2022-07-24": 31864,
-  "2022-07-25": 31864,
-  "2022-07-26": 31864,
-  "2022-07-27": 31864,
-  "2022-07-28": 31864,
-  "2022-07-29": 31864,
-  "2022-07-30": 31864,
-  "2022-07-31": 31864,
-  "2022-08-01": 31864,
-  "2022-08-02": 31864,
-  "2022-08-03": 31864,
-  "2022-08-04": 31864,
-  "2022-08-05": 31864,
-  "2022-08-06": 31864,
-  "2022-08-07": 31864,
-  "2022-08-08": 31864,
-  "2022-08-09": 31864,
-  "2022-08-10": 31864,
-  "2022-08-11": 31864,
-  "2022-08-12": 31864,
-  "2022-08-13": 31864,
-  "2022-08-14": 31864,
-  "2022-08-15": 31864,
-  "2022-08-16": 31864,
-  "2022-08-17": 31864,
-  "2022-08-18": 31864,
-  "2022-08-19": 31864,
-  "2022-08-20": 31864,
-  "2022-08-21": 31864,
-  "2022-08-22": 31864,
-  "2022-08-23": 31864,
-  "2022-08-24": 31864,
-  "2022-08-25": 31864,
-  "2022-08-26": 31864,
-  "2022-08-27": 31864,
-  "2022-08-28": 31864,
-  "2022-08-29": 31864,
-  "2022-08-30": 31864,
-  "2022-08-31": 31864,
-  "2022-09-01": 31864,
-  "2022-09-02": 31864,
-  "2022-09-03": 31864,
-  "2022-09-04": 31864,
-  "2022-09-05": 31864,
-  "2022-09-06": 31864,
-  "2022-09-07": 31864,
-  "2022-09-09": 31864,
-  "2022-09-10": 31864,
-  "2022-09-11": 31864,
-  "2022-09-12": 31864,
-  "2022-09-13": 31864,
-  "2022-09-15": 31864,
-  "2022-09-16": 31864,
-  "2022-09-17": 31864,
-  "2022-09-18": 31864,
-  "2022-09-19": 31864,
-  "2022-09-20": 31864,
-  "2022-09-21": 31864,
-  "2022-09-22": 31864,
-  "2022-09-23": 31864,
-  "2022-09-24": 31864,
-  "2022-09-25": 31864,
-  "2022-09-26": 31864,
-  "2022-09-27": 31864,
-  "2022-09-28": 31864,
-  "2022-09-29": 31864,
-  "2022-09-30": 31864,
-  "2022-10-01": 31864,
-  "2022-10-02": 31864,
-  "2022-10-03": 31864,
-  "2022-10-04": 31864,
-  "2022-10-05": 31864,
-  "2022-10-06": 31864,
-  "2022-10-07": 31864,
-  "2022-10-08": 31864,
-  "2022-10-09": 31864,
-  "2022-10-10": 31864,
-  "2022-10-11": 31864,
-  "2022-10-12": 31864,
-  "2022-10-13": 31864,
-  "2022-10-14": 31864,
-  "2022-10-15": 31864,
-  "2022-10-16": 31864,
-  "2022-10-17": 31864,
-  "2022-10-18": 31864,
-  "2022-10-19": 31864,
-  "2022-10-20": 31864,
-  "2022-10-21": 31864,
-  "2022-10-22": 31864,
-  "2022-10-23": 31864,
-  "2022-10-24": 31864,
-  "2022-10-25": 31864,
-  "2022-10-26": 31864,
-  "2022-10-27": 31864,
-  "2022-10-28": 31864,
-  "2022-10-29": 31864,
-  "2022-10-30": 31864,
-  "2022-10-31": 31864,
-  "2022-11-01": 31864,
-  "2022-11-02": 31864,
-  "2022-11-03": 31864,
-  "2022-11-04": 31864,
-  "2022-11-05": 31864,
-  "2022-11-06": 31864,
-  "2022-11-07": 31864,
-  "2022-11-08": 31864,
-  "2022-11-09": 31864,
-  "2022-11-10": 31864,
-  "2022-11-11": 31864,
-  "2022-11-12": 31864,
-  "2022-11-13": 31864,
-  "2022-11-14": 31864,
-  "2022-11-15": 31864,
-  "2022-11-16": 31864,
-  "2022-11-17": 31864,
-  "2022-11-18": 31864,
-  "2022-11-19": 31864,
-  "2022-11-20": 31864,
-  "2022-11-21": 31864,
-  "2022-11-22": 31864,
-  "2022-11-23": 31864,
-  "2022-11-24": 31864,
-  "2022-11-25": 31864,
-  "2022-11-26": 31864,
-  "2022-11-27": 31864,
-  "2022-11-28": 31864,
-  "2022-11-29": 31864,
-  "2022-11-30": 31864,
-  "2022-12-01": 31864,
-  "2022-12-02": 31864,
-  "2022-12-03": 31864,
-  "2022-12-04": 31864,
-  "2022-12-05": 31864,
-  "2022-12-06": 31864,
-  "2022-12-07": 31864,
-  "2022-12-08": 31864,
-  "2022-12-09": 31864,
-  "2022-12-10": 31864,
-  "2022-12-11": 31864,
-  "2022-12-12": 31864,
-  "2022-12-13": 31864,
-  "2022-12-14": 31864,
-  "2022-12-15": 31864,
-  "2022-12-16": 31864,
-  "2022-12-17": 31864,
-  "2022-12-18": 31864,
-  "2022-12-19": 31864,
-  "2022-12-20": 31864,
-  "2022-12-21": 31864,
-  "2022-12-22": 31864,
-  "2022-12-24": 31864,
-  "2022-12-25": 31864,
-  "2022-12-26": 31864,
-  "2022-12-27": 31864,
-  "2022-12-28": 31864,
-  "2022-12-29": 31864,
-  "2022-12-30": 31864,
-  "2022-12-31": 31864,
-  "2023-01-01": 31864,
-  "2023-01-02": 31864,
-  "2023-01-03": 31864,
-  "2023-01-04": 31864,
-  "2023-01-05": 31864,
-  "2023-01-06": 31864,
-  "2023-01-07": 31864,
-  "2023-01-08": 31864,
-  "2023-01-09": 31864,
-  "2023-01-10": 31864,
-  "2023-01-11": 31864,
-  "2023-01-12": 31864,
-  "2023-01-13": 31864,
-  "2023-01-14": 31864,
-  "2023-01-15": 31864,
-  "2023-01-16": 31864,
-  "2023-01-17": 31864,
-  "2023-01-18": 31864,
-  "2023-01-19": 31864,
-  "2023-01-20": 31864,
-  "2023-01-21": 31864,
-  "2023-01-22": 31864,
-  "2023-01-23": 31864,
-  "2023-01-24": 31864,
-  "2023-01-25": 31864,
-  "2023-01-26": 31864,
-  "2023-01-27": 31864,
-  "2023-01-28": 31864,
-  "2023-01-29": 31864,
-  "2023-01-30": 31864,
-  "2023-01-31": 31864,
-  "2023-02-01": 31864,
-  "2023-02-02": 31864,
-  "2023-02-03": 31864,
-  "2023-02-04": 31864,
-  "2023-02-05": 31864,
-  "2023-02-06": 31864,
-  "2023-02-07": 31864,
-  "2023-02-08": 31864,
-  "2023-02-09": 31864,
-  "2023-02-10": 31864,
-  "2023-02-11": 31864,
-  "2023-02-12": 31864,
-  "2023-02-13": 31864,
-  "2023-02-14": 31864,
-  "2023-02-15": 31864,
-  "2023-02-16": 31864,
-  "2023-02-17": 31864,
-  "2023-02-18": 31864,
-  "2023-02-19": 31864,
-  "2023-02-20": 31864,
-  "2023-02-21": 31864,
-  "2023-02-22": 31864,
-  "2023-02-23": 31864,
-  "2023-02-24": 31864,
-  "2023-02-25": 31864,
-  "2023-02-26": 31864,
-  "2023-02-27": 31864,
-  "2023-02-28": 31864,
-  "2023-03-01": 31864,
-  "2023-03-02": 31864,
-  "2023-03-03": 31864,
-  "2023-03-04": 31864,
-  "2023-03-05": 31864,
-  "2023-03-06": 31864,
-  "2023-03-07": 31864,
-  "2023-03-08": 31864,
-  "2023-03-09": 31864,
-  "2023-03-10": 31864,
-  "2023-03-11": 31864,
-  "2023-03-12": 31864,
-  "2023-03-13": 31864,
-  "2023-03-14": 31864,
-  "2023-03-15": 31864,
-  "2023-03-16": 31864,
-  "2023-03-17": 31864,
-  "2023-03-18": 31864,
-  "2023-03-19": 31864,
-  "2023-03-20": 31864,
-  "2023-03-21": 31864,
-  "2023-03-22": 31864,
-  "2023-03-23": 31864,
-  "2023-03-24": 31864,
-  "2023-03-25": 31864,
-  "2023-03-26": 31864,
-  "2023-03-27": 31864,
-  "2023-03-28": 31864,
-  "2023-03-29": 31864,
-  "2023-03-30": 31864,
-  "2023-03-31": 31864,
-  "2023-04-01": 31864,
-  "2023-04-02": 31864,
-  "2023-04-03": 31864,
-  "2023-04-04": 31864,
-  "2023-04-05": 31864,
-  "2023-04-06": 31864,
-  "2023-04-07": 31864,
-  "2023-04-09": 31864,
-  "2023-04-10": 31864,
-  "2023-04-11": 31864,
-  "2023-04-12": 31864,
-  "2023-04-13": 31864,
-  "2023-04-14": 31864,
-  "2023-04-15": 31864,
-  "2023-04-16": 31864,
-  "2023-04-17": 31864,
-  "2023-04-18": 31864,
-  "2023-04-19": 31864,
-  "2023-04-20": 31864,
-  "2023-04-21": 31864,
-  "2023-04-22": 31864,
-  "2023-04-23": 31864,
-  "2023-04-24": 31864,
-  "2023-04-25": 31864,
-  "2023-04-26": 31864,
-  "2023-04-27": 31864,
-  "2023-04-28": 31864,
-  "2023-04-29": 31864,
-  "2023-04-30": 31864,
-  "2023-05-01": 31864,
-  "2023-05-02": 31864,
-  "2023-05-03": 31864,
-  "2023-05-04": 31864,
-  "2023-05-05": 31864,
-  "2023-05-06": 31864,
-  "2023-05-07": 31864,
-  "2023-05-08": 31864,
-  "2023-05-09": 31864,
-  "2023-05-10": 31864,
-  "2023-05-11": 31864,
-  "2023-05-12": 31864,
-  "2023-05-13": 31864,
-  "2023-05-14": 31864,
-  "2023-05-15": 31864,
-  "2023-05-16": 31864,
-  "2023-05-17": 31864,
-  "2023-05-18": 31864,
-  "2023-05-19": 31864,
-  "2023-05-20": 31864,
-  "2023-05-21": 31864,
-  "2023-05-22": 31864,
-  "2023-05-23": 31864,
-  "2023-05-24": 31864,
-  "2023-05-25": 31864,
-  "2023-05-26": 31864,
-  "2023-05-27": 31864,
-  "2023-05-28": 31864,
-  "2023-05-29": 31864,
-  "2023-05-30": 31864,
-  "2023-05-31": 31864,
-  "2023-06-01": 31864,
-  "2023-06-02": 31864,
-  "2023-06-03": 31864,
-  "2023-06-04": 31864,
-  "2023-06-05": 31864,
-  "2023-06-06": 31864,
-  "2023-06-07": 31864,
-  "2023-06-08": 31864,
-  "2023-06-09": 31864,
-  "2023-06-10": 31864,
-  "2023-06-11": 31864,
-  "2023-06-12": 31864,
-  "2023-06-13": 31864,
-  "2023-06-14": 31864,
-  "2023-06-15": 31864,
-  "2023-06-16": 31864,
-  "2023-06-17": 31864,
-  "2023-06-18": 31864,
-  "2023-06-19": 31864,
-  "2023-06-20": 31864,
-  "2023-06-21": 31864,
-  "2023-06-22": 31864,
-  "2023-06-23": 31864,
-  "2023-06-24": 31864,
-  "2023-06-25": 31864,
-  "2023-06-26": 31864,
-  "2023-06-27": 31864,
-  "2023-06-28": 31864,
-  "2023-06-29": 31864,
-  "2023-06-30": 31864,
-  "2023-07-01": 31864,
-  "2023-07-02": 31864,
-  "2023-07-03": 31864,
-  "2023-07-04": 31864,
-  "2023-07-05": 31864,
-  "2023-07-06": 31864,
-  "2023-07-07": 31864,
-  "2023-07-08": 31864,
-  "2023-07-09": 31864,
-  "2023-07-10": 31864,
-  "2023-07-11": 31864,
-  "2023-07-12": 31864,
-  "2023-07-13": 31864,
-  "2023-07-14": 31864,
-  "2023-07-15": 31864,
-  "2023-07-16": 31864,
-  "2023-07-17": 31864,
-  "2023-07-18": 31864,
-  "2023-07-19": 31864,
-  "2023-07-20": 31864,
-  "2023-07-21": 31864,
-  "2023-07-22": 31864,
-  "2023-07-23": 31864,
-  "2023-07-24": 31864,
-  "2023-07-25": 31864,
-  "2023-07-26": 31864,
-  "2023-07-27": 31864,
-  "2023-07-28": 31864,
-  "2023-07-29": 31864,
-  "2023-07-30": 31864,
-  "2023-07-31": 31864,
-  "2023-08-01": 31864,
-  "2023-08-02": 31864,
-  "2023-08-03": 31864,
-  "2023-08-04": 31864,
-  "2023-08-05": 31864,
-  "2023-08-06": 31864,
-  "2023-08-07": 31864,
-  "2023-08-08": 31864,
-  "2023-08-09": 31864,
-  "2023-08-10": 31864,
-  "2023-08-11": 31864,
-  "2023-08-12": 31864,
-  "2023-08-13": 31864,
-  "2023-08-14": 31864,
-  "2023-08-15": 31864,
-  "2023-08-16": 31864,
-  "2023-08-17": 31864,
-  "2023-08-18": 31864,
-  "2023-08-19": 31864,
-  "2023-08-20": 31864,
-  "2023-08-21": 31864,
-  "2023-08-22": 31864,
-  "2023-08-23": 31864,
-  "2023-08-24": 31864,
-  "2023-08-25": 31864,
-  "2023-08-26": 31864,
-  "2023-08-27": 31864,
-  "2023-08-28": 31864,
-  "2023-08-29": 31864,
-  "2023-08-30": 31864,
-  "2023-08-31": 31864,
-  "2023-09-01": 31864,
-  "2023-09-02": 31864,
-  "2023-09-03": 31864,
-  "2023-09-04": 31864,
-  "2023-09-05": 31864,
-  "2023-09-06": 31864,
-  "2023-09-07": 31864,
-  "2023-09-08": 31864,
-  "2023-09-09": 31864,
-  "2023-09-10": 31864,
-  "2023-09-11": 31864,
-  "2023-09-12": 31864,
-  "2023-09-13": 31864,
-  "2023-09-14": 31864,
-  "2023-09-15": 31864,
-  "2023-09-16": 31864,
-  "2023-09-17": 31864,
-  "2023-09-18": 31864,
-  "2023-09-19": 31864,
-  "2023-09-20": 31864,
-  "2023-09-21": 31864,
-  "2023-09-22": 31864,
-  "2023-09-23": 31864,
-  "2023-09-24": 31864,
-  "2023-09-25": 31864,
-  "2023-09-26": 31864,
-  "2023-09-27": 31864,
-  "2023-09-28": 31864,
-  "2023-09-29": 31864,
-  "2023-09-30": 31864,
-  "2023-10-01": 31864,
-  "2023-10-02": 31864,
-  "2023-10-03": 31864,
-  "2023-10-04": 31864,
-  "2023-10-05": 31864,
-  "2023-10-06": 31864,
-  "2023-10-07": 31864,
-  "2023-10-08": 31864,
-  "2023-10-09": 31864,
-  "2023-10-10": 31864,
-  "2023-10-11": 31864,
-  "2023-10-12": 31864,
-  "2023-10-13": 31864,
-  "2023-10-14": 31864,
-  "2023-10-15": 31864,
-  "2023-10-16": 31864,
-  "2023-10-17": 31864,
-  "2023-10-18": 31864,
-  "2023-10-19": 31864,
-  "2023-10-20": 31864,
-  "2023-10-21": 31864,
-  "2023-10-22": 31864,
-  "2023-10-23": 31864,
-  "2023-10-24": 31864,
-  "2023-10-25": 31864,
-  "2023-10-26": 31864,
-  "2023-10-27": 31864,
-  "2023-10-28": 31864,
-  "2023-10-29": 31864,
-  "2023-10-30": 31864,
-  "2023-10-31": 31864,
-  "2023-11-01": 31864,
-  "2023-11-02": 31864,
-  "2023-11-03": 31864,
-  "2023-11-04": 31864,
-  "2023-11-05": 31864,
-  "2023-11-06": 31864,
-  "2023-11-07": 31864,
-  "2023-11-08": 31864,
-  "2023-11-09": 31864,
-  "2023-11-10": 31864,
-  "2023-11-11": 31864,
-  "2023-11-12": 31864,
-  "2023-11-13": 31864,
-  "2023-11-14": 31864,
-  "2023-11-15": 31864,
-  "2023-11-16": 31864,
-  "2023-11-17": 31864,
-  "2023-11-18": 31864,
-  "2023-11-19": 31864,
-  "2023-11-20": 31864,
-  "2023-11-21": 31864,
-  "2023-11-22": 31864,
-  "2023-11-23": 31864,
-  "2023-11-24": 31864,
-  "2023-11-25": 31864,
-  "2023-11-26": 31864,
-  "2023-11-27": 31864,
-  "2023-11-28": 31864,
-  "2023-11-29": 31864,
-  "2023-11-30": 31864,
-  "2023-12-01": 31864,
-  "2023-12-02": 31864,
-  "2023-12-03": 31864,
-  "2023-12-04": 31864,
-  "2023-12-05": 31864,
-  "2023-12-06": 31864,
-  "2023-12-07": 31864,
-  "2023-12-08": 31864,
-  "2023-12-09": 31864,
-  "2023-12-10": 31864,
-  "2023-12-11": 31864,
-  "2023-12-12": 31864,
-  "2023-12-13": 31864,
-  "2023-12-14": 31864,
-  "2023-12-15": 31864,
-  "2023-12-16": 31864,
-  "2023-12-17": 31864,
-  "2023-12-18": 31864,
-  "2023-12-19": 31864,
-  "2023-12-20": 31864,
-  "2023-12-21": 31864,
-  "2023-12-22": 31864,
-  "2023-12-23": 31864,
-  "2023-12-24": 31864,
-  "2023-12-25": 31864,
-  "2023-12-26": 31864,
-  "2023-12-27": 31864,
-  "2023-12-30": 31864,
-  "2023-12-31": 31864,
-  "2024-01-01": 31864,
-  "2024-01-02": 31864,
-  "2024-01-03": 31864
+  "2024-01-17": 31864,
+  "date_first_scraped": "2021-12-21",
+  "description": "Learn and practice your Russian language skills, from basic vocabulary to useful travel phrases and conversations.",
+  "name": "Learn Russian",
+  "tracks": [
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10893,
+      "name": "A Doctor The Hotel A Bank",
+      "url": "https://open.spotify.com/track/7Ls9UMLqb063mitLPtQFcy"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6973,
+      "name": "At Hotels And Restaurants",
+      "url": "https://open.spotify.com/track/3gPDy8DSlzMysizWMCMRXf"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7720,
+      "name": "At Shops Do You Sell?",
+      "url": "https://open.spotify.com/track/2HutU94lqxOilOOgfdFbim"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8906,
+      "name": "Beef Lamb Pork",
+      "url": "https://open.spotify.com/track/7H6YvKLy8MkzyB7Uc3fXaU"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6266,
+      "name": "Bread Butter",
+      "url": "https://open.spotify.com/track/1ZgtVmB9L9NO5CqJJGA2aS"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5066,
+      "name": "Call Me At __o'clock",
+      "url": "https://open.spotify.com/track/0oxwhk3dqQ2pv0gJfG4Z6X"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10000,
+      "name": "Chicken Fish Eggs",
+      "url": "https://open.spotify.com/track/69WZLLWGfhTJDa72jvXG1P"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8920,
+      "name": "Coffee Tea Milk",
+      "url": "https://open.spotify.com/track/2M80xgoYtxYhkTVsDGrzVZ"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5853,
+      "name": "Day And Time",
+      "url": "https://open.spotify.com/track/4shmP7ghqIoER6d90mx69j"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "Dessert",
+      "url": "https://open.spotify.com/track/0ey8pjBkASr15NP0VqhJYY"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4320,
+      "name": "Do You Understand?",
+      "url": "https://open.spotify.com/track/54yqsE4FJsGwZbelgmNVzs"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7013,
+      "name": "Eighteen Nineteen",
+      "url": "https://open.spotify.com/track/72oOROATwn0lJGm0MmQS68"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10146,
+      "name": "Eleven Twelve Thirteen",
+      "url": "https://open.spotify.com/track/6jaG5ZGoIUYbjdT05zY9zL"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4200,
+      "name": "English To Russian Intro",
+      "url": "https://open.spotify.com/track/2eYOgACpLBBftKi1qbPqA3"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7853,
+      "name": "Excuse Me Good Night",
+      "url": "https://open.spotify.com/track/3E0hgk9vrw3GYGDuPadfHX"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6520,
+      "name": "Five Six",
+      "url": "https://open.spotify.com/track/4PVulbuSAX5iSYIXHWeUDV"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4893,
+      "name": "For Better Understanding",
+      "url": "https://open.spotify.com/track/5RGF7JgQKbNlyOJqlo7VV8"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7146,
+      "name": "Fourteen Fifteen",
+      "url": "https://open.spotify.com/track/6k0UsA6PWzx7ujIDtQuLBz"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5520,
+      "name": "Good Bad",
+      "url": "https://open.spotify.com/track/5inNBD1oFEnwuVmAYMw16i"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7293,
+      "name": "Hello Goodbye",
+      "url": "https://open.spotify.com/track/65ar34D92KizUlKte6uj3v"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6920,
+      "name": "Hour Minute",
+      "url": "https://open.spotify.com/track/1gymMtKT9gGB8aJietseJm"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "How Are You?",
+      "url": "https://open.spotify.com/track/7HR0TraJ5Dim2XqsEev37C"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4520,
+      "name": "How Much Is That?",
+      "url": "https://open.spotify.com/track/1grQntl4Nd4cTXSnj64n41"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4520,
+      "name": "I Do Not Understand",
+      "url": "https://open.spotify.com/track/1tVqdzDXw314DupCqq84by"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4346,
+      "name": "I Don't Speak",
+      "url": "https://open.spotify.com/track/7rTsYGgh9yyPdWqsJhbXqr"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4360,
+      "name": "I Understand",
+      "url": "https://open.spotify.com/track/7mUcCj0PlKLHT2RfrcBwm9"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4626,
+      "name": "I Will Take This",
+      "url": "https://open.spotify.com/track/3s0LeqjwARDiN4FiHl14jh"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7720,
+      "name": "I Would Like",
+      "url": "https://open.spotify.com/track/0wY9sXZS9WTveAIiOTEUkD"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6053,
+      "name": "Ice Water",
+      "url": "https://open.spotify.com/track/1NipPK75hiyiO39g5rVMS2"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128453,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/0e3eQ6bMPKendsx2qRknVs"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128453,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/45A88taFbXubDhmXBMGeHK"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128453,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/4bmotjQ98b8OfUvHvSKHTh"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4693,
+      "name": "It Is Too Expensive",
+      "url": "https://open.spotify.com/track/5o6HsPGoEWIu20XymnK6c4"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 932920,
+      "name": "Lesoon 44 - Speaking in the Past Tense",
+      "url": "https://open.spotify.com/track/5chRWCa8UA5ss8y14jnlxW"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fluently, Easily and Effectively",
+        "url": "https://open.spotify.com/album/68JqIWR61Ki3hmqu1rZD2y"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2172175,
+      "name": "Lesson 1",
+      "url": "https://open.spotify.com/track/76f7C7XH11qExUmseoIsco"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Lesson 1 - Basics",
+      "url": "https://open.spotify.com/track/263DVJyCMhSgLy7UNjEwNV"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122106,
+      "name": "Lesson 10 - More Numbers",
+      "url": "https://open.spotify.com/track/0EamIvu9aXOb4JRhffCyfe"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "Lesson 11 - Big Numbers",
+      "url": "https://open.spotify.com/track/1fEqUQgGA0xoHZBqcdkhUZ"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261533,
+      "name": "Lesson 12 -Very Big Numbers",
+      "url": "https://open.spotify.com/track/6rzB97lpRpympeRqUUnlLm"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484400,
+      "name": "Lesson 13 - At the Restaurant",
+      "url": "https://open.spotify.com/track/6c8dmG9pbTCSDSDvtyZx1g"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 702080,
+      "name": "Lesson 14 - Shopping",
+      "url": "https://open.spotify.com/track/4eFW2qWwecmqVLY7MS4DYy"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301200,
+      "name": "Lesson 15 - Time, General",
+      "url": "https://open.spotify.com/track/3j91Fo8sg1UlMEEMbJGOWO"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465360,
+      "name": "Lesson 16 - Time of Day",
+      "url": "https://open.spotify.com/track/7fpLjzC3jvLkTRnD9poavo"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300280,
+      "name": "Lesson 17 - Questions",
+      "url": "https://open.spotify.com/track/5KnWisnWsCvlsL3PvsGNXY"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280720,
+      "name": "Lesson 18 - Shops",
+      "url": "https://open.spotify.com/track/1LP8F4AHcq3loZ1TShhoKw"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456213,
+      "name": "Lesson 19 - Nouns",
+      "url": "https://open.spotify.com/track/5nHg7Au0AEXaVzMF8oumF9"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fluently, Easily and Effectively",
+        "url": "https://open.spotify.com/album/68JqIWR61Ki3hmqu1rZD2y"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1905126,
+      "name": "Lesson 2",
+      "url": "https://open.spotify.com/track/5bXDDauKOwG8mWQ5Jcb1qx"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373640,
+      "name": "Lesson 2 - Basic Phrases",
+      "url": "https://open.spotify.com/track/5cQqzb7QGsznLNgBqlWW3j"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 871586,
+      "name": "Lesson 20 - Adjectives & Adverbs",
+      "url": "https://open.spotify.com/track/1z3BooNS4CLTBzOumOqBtF"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548506,
+      "name": "Lesson 21 - Verbs",
+      "url": "https://open.spotify.com/track/48VJWNU84phMyRqpAbdp70"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407253,
+      "name": "Lesson 22 - Prepositions",
+      "url": "https://open.spotify.com/track/6R4btarDFzFhwxyzm9QNg9"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539880,
+      "name": "Lesson 23 - Using Pronouns with Prepositions",
+      "url": "https://open.spotify.com/track/3qPUvEJygDqZ6oiPreFpTn"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474786,
+      "name": "Lesson 24 - Possessive Adjectives",
+      "url": "https://open.spotify.com/track/5Ft636RtYGJuKiW8mZffit"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "Lesson 25 - Conjunctions and Similar Words",
+      "url": "https://open.spotify.com/track/0C8QJHYf97KYdnO1VJkXSz"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 985266,
+      "name": "Lesson 26 - Sentences & Phrases, General",
+      "url": "https://open.spotify.com/track/7r6jqtXlHMLA0IxoG1bpxm"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308373,
+      "name": "Lesson 27 - Sentences and Phrases, Negative",
+      "url": "https://open.spotify.com/track/453toEcYWe75o2ygMs9mcd"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339866,
+      "name": "Lesson 28 - Forming Questions",
+      "url": "https://open.spotify.com/track/6oQxoJHYJ6OUKFlfFLgKAE"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544133,
+      "name": "Lesson 29 - Sentences & Phrases, General",
+      "url": "https://open.spotify.com/track/1qvufgLaAgorCcNxfQ54ne"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fluently, Easily and Effectively",
+        "url": "https://open.spotify.com/album/68JqIWR61Ki3hmqu1rZD2y"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1897080,
+      "name": "Lesson 3",
+      "url": "https://open.spotify.com/track/0oO9ZhkD4mcKg0Y4b95JmI"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441640,
+      "name": "Lesson 3 - Transportation Nouns",
+      "url": "https://open.spotify.com/track/01m1jBqqpBEXaqTE2ZNDI9"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445546,
+      "name": "Lesson 30 - Sentences & Phrases, Transportation",
+      "url": "https://open.spotify.com/track/5NkoUYpDmNBtDe01G6hu63"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "Lesson 31 - Sentences & Phrases, Money",
+      "url": "https://open.spotify.com/track/1i1AvLUfVupS4nz0n2kMGC"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507693,
+      "name": "Lesson 32 - Sentences & Phrases, Hotel",
+      "url": "https://open.spotify.com/track/22oUYrjd2x8nd2y5n8NRUD"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374106,
+      "name": "Lesson 33 - Sentences & Phrases, Getting Around",
+      "url": "https://open.spotify.com/track/0xPwcqCbeA0bqiNp8o8TPc"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351146,
+      "name": "Lesson 34 - Sentences & Phrases, Directions",
+      "url": "https://open.spotify.com/track/1TLM4dC1MULGgSOsXwKtSL"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580840,
+      "name": "Lesson 36 - The Verb \"To Be\", Present Tense",
+      "url": "https://open.spotify.com/track/2KUiDsf1ZHIprvcQEhhuhS"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341866,
+      "name": "Lesson 37 - The Verb \"To Have\", Present Tense",
+      "url": "https://open.spotify.com/track/7eaWm5r2ZQ90PaHSdyqBzJ"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444413,
+      "name": "Lesson 38 - Typical First Conjugation Verbs",
+      "url": "https://open.spotify.com/track/6npJlxcZ9RSnuRknBAaT9M"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345400,
+      "name": "Lesson 39 - Typical Second Conjuction Verbs",
+      "url": "https://open.spotify.com/track/79kZO1QNwmTCqrfokkbXwO"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fluently, Easily and Effectively",
+        "url": "https://open.spotify.com/album/68JqIWR61Ki3hmqu1rZD2y"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2172384,
+      "name": "Lesson 4",
+      "url": "https://open.spotify.com/track/2d9Jh2U9rwweQZmVhZ1gch"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528626,
+      "name": "Lesson 4 - Transportation Phrases",
+      "url": "https://open.spotify.com/track/7DvtfZABMmIgtcl2Is3mk6"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 678933,
+      "name": "Lesson 40 - First Conjuction Verbs - Spelling Changes",
+      "url": "https://open.spotify.com/track/4aPDmNSAS7jzU5Be4J2tNB"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363533,
+      "name": "Lesson 41 - Second Conjuction Verbs - Spelling Changes",
+      "url": "https://open.spotify.com/track/72V3e7ayt4LCIKv91XgESV"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484106,
+      "name": "Lesson 42 - The Near Future Tense",
+      "url": "https://open.spotify.com/track/3AwOlsuQ7UYPfCxQSONwdE"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445080,
+      "name": "Lesson 43 - Speaking with the Infinitive of a Verb",
+      "url": "https://open.spotify.com/track/0U3vtEhNQP2r7YvoxLWG6U"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384840,
+      "name": "Lesson 45 - The Verb \"To Be\", Future Tense",
+      "url": "https://open.spotify.com/track/5RjLoAdFVcmE6xidl8eLID"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 852026,
+      "name": "Lesson 46 - Infinitive Verb Forms",
+      "url": "https://open.spotify.com/track/2dHE1GwlGtqlT5fZyuIGQ9"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574906,
+      "name": "Lesson 47 - More Infinitives",
+      "url": "https://open.spotify.com/track/3LsKBOp2EvxqcqcwfquZPs"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450720,
+      "name": "Lesson 48 - The Telephone",
+      "url": "https://open.spotify.com/track/2S3OQ6dKwuUa8EDK9xRkhZ"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 785173,
+      "name": "Lesson 49 - Practice with the Past Tense",
+      "url": "https://open.spotify.com/track/5ZRNfovXX8XI0fqdEiQYoS"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fluently, Easily and Effectively",
+        "url": "https://open.spotify.com/album/68JqIWR61Ki3hmqu1rZD2y"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2490765,
+      "name": "Lesson 5",
+      "url": "https://open.spotify.com/track/5JFbIgXQv1hO4GTFAv1bvz"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440613,
+      "name": "Lesson 5 - Money",
+      "url": "https://open.spotify.com/track/7fYNjnXRdUATH6TD6GgjM2"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1079680,
+      "name": "Lesson 50 - More Practice with the Past Tense",
+      "url": "https://open.spotify.com/track/6c3ZWdB3kyHdXcYJ5k2d0d"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613546,
+      "name": "Lesson 51 - The Verb \"To Be\", Past Tense",
+      "url": "https://open.spotify.com/track/0mNgEVd31eNafMIoCWWlZz"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289973,
+      "name": "Lesson 52 - The Verb \"To Have\", Past Tense",
+      "url": "https://open.spotify.com/track/3Wn3bUkack8uTaIECt7PY6"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648160,
+      "name": "Lesson 53 - Speaking about the Past",
+      "url": "https://open.spotify.com/track/6r9THrQzdn4w8nI3kin590"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621520,
+      "name": "Lesson 54 - Some Important Concepts",
+      "url": "https://open.spotify.com/track/5ybDafH0Eb1OmUYRcH6DdX"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564306,
+      "name": "Lesson 55 - More Important Concepts",
+      "url": "https://open.spotify.com/track/4VEevaXzP9oF5l2ziaDIsK"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515666,
+      "name": "Lesson 56 - Useful Singular Verb Forms in Sentences, Present Tense",
+      "url": "https://open.spotify.com/track/1a1iwoG1fOrSrlsPjpMF6s"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 657040,
+      "name": "Lesson 57 - Useful Plural Verb Forms in Sentences, Present Tense",
+      "url": "https://open.spotify.com/track/56xBxjHtkAosFYOTi9Cm6F"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339106,
+      "name": "Lesson 58 - Using Direct Object Pronouns in Sentences",
+      "url": "https://open.spotify.com/track/1NePbbhOvlHt2iCktUMElp"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323333,
+      "name": "Lesson 59 - Using Indirect Object Pronouns in Sentences",
+      "url": "https://open.spotify.com/track/2Dab51QWD9jknKA7DXgLML"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fluently, Easily and Effectively",
+        "url": "https://open.spotify.com/album/68JqIWR61Ki3hmqu1rZD2y"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2314569,
+      "name": "Lesson 6",
+      "url": "https://open.spotify.com/track/4JG9IlheHUiMkt0VGqTJdn"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628493,
+      "name": "Lesson 6 - Hotel",
+      "url": "https://open.spotify.com/track/1eMlxUqaC4EUsUXLIl2x0e"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485933,
+      "name": "Lesson 60 - Practice with Direct and Indirect Objects",
+      "url": "https://open.spotify.com/track/47xVHD1vPzk8zFYpB9Ntic"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484373,
+      "name": "Lesson 61 - Pronouns in Negative Sentences",
+      "url": "https://open.spotify.com/track/1XAmJHRtYcMEMQS9vAsca1"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480866,
+      "name": "Lesson 62 - The Car",
+      "url": "https://open.spotify.com/track/7awKVS1PbGso2jwxeIVvkd"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 749440,
+      "name": "Lesson 63 - Sentences with Important Words & Concepts",
+      "url": "https://open.spotify.com/track/1LbMNDtbVYzWSAY5ypot8k"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 780333,
+      "name": "Lesson 64 - More Sentences with Imporatant Words & Concepts",
+      "url": "https://open.spotify.com/track/72EjFQ7bKoSXYqIdhtL8Ww"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285160,
+      "name": "Lesson 65 - The Verb \"To Have\", Future Tense",
+      "url": "https://open.spotify.com/track/5WhEVj7izaLpnCCrn8k9bd"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317600,
+      "name": "Lesson 66 - The Imperfective Future Tense",
+      "url": "https://open.spotify.com/track/5qlXyeZjrsDmzbRl4oaofN"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 780026,
+      "name": "Lesson 67 - The Perfective Future Tense",
+      "url": "https://open.spotify.com/track/5ggFuBB1szIJPSs8X8MWeo"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272893,
+      "name": "Lesson 68 - Days of the Week",
+      "url": "https://open.spotify.com/track/5YG9iEdBr1dSXbxPWlN70K"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342426,
+      "name": "Lesson 69 - Months of the Year",
+      "url": "https://open.spotify.com/track/2lu5b2G7wxrMLSyQTsbDDf"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fluently, Easily and Effectively",
+        "url": "https://open.spotify.com/album/68JqIWR61Ki3hmqu1rZD2y"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2466993,
+      "name": "Lesson 7",
+      "url": "https://open.spotify.com/track/5Yi9OL0qy7xFuQZMptaaBK"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372040,
+      "name": "Lesson 7 - Important Words",
+      "url": "https://open.spotify.com/track/0XbNpEPHoTILWva7bj1yO6"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446906,
+      "name": "Lesson 70 - At the Doctor's Office",
+      "url": "https://open.spotify.com/track/74pfb3bQqJ0JBZd6ECchDR"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 768946,
+      "name": "Lesson 71 - At the Dinner Table",
+      "url": "https://open.spotify.com/track/1eHg7ckxzZIoLOR1vMoXhf"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 3",
+        "url": "https://open.spotify.com/album/5Br5gVFiX5qaUUfHRVkxPj"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476680,
+      "name": "Lesson 72 - Clothes",
+      "url": "https://open.spotify.com/track/0LBPRPwq80yZ5vScdfR8ou"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fluently, Easily and Effectively",
+        "url": "https://open.spotify.com/album/68JqIWR61Ki3hmqu1rZD2y"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274092,
+      "name": "Lesson 8",
+      "url": "https://open.spotify.com/track/4E8N1cCHXKBnCONIm6rdaL"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401226,
+      "name": "Lesson 8 - Directions",
+      "url": "https://open.spotify.com/track/1LvGBV2Amjmcm2afzimSaV"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 1",
+        "url": "https://open.spotify.com/album/6Ac5UfRL7oAC1BNHsGGHjB"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126986,
+      "name": "Lesson 9 - Numbers",
+      "url": "https://open.spotify.com/track/7lyDIsYbgTnB56zUyh2HNy"
+    },
+    {
+      "album": {
+        "name": "Learn in Your Car: Russian, Level 2",
+        "url": "https://open.spotify.com/album/3cvN3s3YYJIaThcb6xxH0y"
+      },
+      "artists": [
+        {
+          "name": "Henry Raymond Jr.",
+          "url": "https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380040,
+      "name": "Lessons 35 - Sentences & Phrases, Conversation",
+      "url": "https://open.spotify.com/track/3EBb200Q28PhTpzvpk0piW"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4600,
+      "name": "My Bill Please",
+      "url": "https://open.spotify.com/track/15ZfiuM2p8MTzjNA7bdFFj"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6186,
+      "name": "Nine Ten",
+      "url": "https://open.spotify.com/track/0piYQGRs5jMNFk3xZMS9Bk"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4453,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/3ZzvISw0tas2ruqfxHNfX9"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7160,
+      "name": "One Thousand Ten Thousand",
+      "url": "https://open.spotify.com/track/6ixjaJQBI3mni2QtTCEf63"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5933,
+      "name": "One Two",
+      "url": "https://open.spotify.com/track/3PFe7BWO4rPOHiMrsh4UBF"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6880,
+      "name": "Please Call Somebody Who Can Speak",
+      "url": "https://open.spotify.com/track/4xM4Beytypa5X7iaWj47ih"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10280,
+      "name": "Please Drive Slower I Am In A Hurry",
+      "url": "https://open.spotify.com/track/5nIrLO7tdREfdVKv2oY1we"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6466,
+      "name": "Please Go And Ask",
+      "url": "https://open.spotify.com/track/3SHnH8vR46NRmqFtkgdQCx"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4280,
+      "name": "Please Show Me",
+      "url": "https://open.spotify.com/track/5LjS0MZFPon7yAZnZicozh"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6333,
+      "name": "Please Thank You",
+      "url": "https://open.spotify.com/track/0ICrvjhNfixWcEVoKp12Jn"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5640,
+      "name": "Please Write It Down",
+      "url": "https://open.spotify.com/track/1vYB9CD5QBs8itf0A79XR5"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "Potatoes",
+      "url": "https://open.spotify.com/track/55eVEmoLleOthLgCV9KSGB"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6960,
+      "name": "Right Left",
+      "url": "https://open.spotify.com/track/1JzURtkDjGWaWNNj0AeU3A"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1086087,
+      "name": "Russian Language Lesson 1",
+      "url": "https://open.spotify.com/track/0cURUhYojo9H1iuMxzEEWf"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1245382,
+      "name": "Russian Language Lesson 10",
+      "url": "https://open.spotify.com/track/2bnCfXoM7lH4F1T7EQm5t9"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1157284,
+      "name": "Russian Language Lesson 11",
+      "url": "https://open.spotify.com/track/4GecJdo9aQMPmKMfzO7Z0F"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1157284,
+      "name": "Russian Language Lesson 12",
+      "url": "https://open.spotify.com/track/6dPPz4OjtHAJ2wdZSL5shL"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1233496,
+      "name": "Russian Language Lesson 13",
+      "url": "https://open.spotify.com/track/38lh7Lpg5qln57flbd9GKW"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1233496,
+      "name": "Russian Language Lesson 14",
+      "url": "https://open.spotify.com/track/0ocJhp4feiAx5rnubKydb9"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137046,
+      "name": "Russian Language Lesson 15",
+      "url": "https://open.spotify.com/track/7eoU345xjFM3yLiSJwQvrX"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137046,
+      "name": "Russian Language Lesson 16",
+      "url": "https://open.spotify.com/track/6MFyL4ltjqJgj6FPk2Ff3J"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1086087,
+      "name": "Russian Language Lesson 2",
+      "url": "https://open.spotify.com/track/5T1LOxGYd57f9AjqN1kKF7"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 952563,
+      "name": "Russian Language Lesson 3",
+      "url": "https://open.spotify.com/track/43mln2adLOmXnN0R85sGQK"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 952563,
+      "name": "Russian Language Lesson 4",
+      "url": "https://open.spotify.com/track/49sUrB6oATXjoFcU5odN2M"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 948540,
+      "name": "Russian Language Lesson 5",
+      "url": "https://open.spotify.com/track/6QAwTeW0w1LcFvMuq7FPTD"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 948540,
+      "name": "Russian Language Lesson 6",
+      "url": "https://open.spotify.com/track/3MjfKYKgWNrDwjyKNmj0Xx"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1086192,
+      "name": "Russian Language Lesson 7",
+      "url": "https://open.spotify.com/track/1pMCsTCrFF1QDT9bn7Uguu"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1086192,
+      "name": "Russian Language Lesson 8",
+      "url": "https://open.spotify.com/track/5frLxodqABJXDay3dswc7p"
+    },
+    {
+      "album": {
+        "name": "Learn Russian Fast",
+        "url": "https://open.spotify.com/album/47eUVua2qdPhM7FifsCm9O"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1245382,
+      "name": "Russian Language Lesson 9",
+      "url": "https://open.spotify.com/track/03RgWKbw5XniamqQEpa10s"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6600,
+      "name": "Salad Fruit",
+      "url": "https://open.spotify.com/track/0QPqspZ4XoiNPPZoT303BS"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8706,
+      "name": "Salt Pepper Sugar",
+      "url": "https://open.spotify.com/track/73nit5mUWlv8OIybzOfCjs"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4560,
+      "name": "Send It To",
+      "url": "https://open.spotify.com/track/2C7U1rdTskdg6v7Dd9qchB"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5986,
+      "name": "Seven Eight",
+      "url": "https://open.spotify.com/track/22UUKoTWuYtSrmP2naGSDk"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7946,
+      "name": "Sixteen Seventeen",
+      "url": "https://open.spotify.com/track/26ZuxwSQ4zadCnRQdaIQkQ"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9746,
+      "name": "Something Cheaper Something Better",
+      "url": "https://open.spotify.com/track/3f18j0IX6K3ScBLQFfojzR"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7013,
+      "name": "Stop Go",
+      "url": "https://open.spotify.com/track/4BhabGVphPD1WroXPIlX9X"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4053,
+      "name": "Straight Ahead",
+      "url": "https://open.spotify.com/track/3rRkLtkcWtA0ZCgJCSLMLo"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "Take Me To",
+      "url": "https://open.spotify.com/track/1xJOje94aWk1KoPxz5aArb"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6080,
+      "name": "Talk Slower Please",
+      "url": "https://open.spotify.com/track/63tGXVKLuM7Co1tNn92cPk"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6493,
+      "name": "The Consulate A Church",
+      "url": "https://open.spotify.com/track/3p6Wu85GBz7i5ArTWdcRAB"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7893,
+      "name": "The Mens' Room The Ladies' Room",
+      "url": "https://open.spotify.com/track/2stP5ZuDQS3updIkkzTXq0"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10800,
+      "name": "There Here At __o'clock",
+      "url": "https://open.spotify.com/track/1gX9VZcuAVxe24SB4PGj8q"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4346,
+      "name": "This Drycleaned",
+      "url": "https://open.spotify.com/track/30CpeIJBtbcoFI1bPvI3ZS"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4146,
+      "name": "This Washed",
+      "url": "https://open.spotify.com/track/4UhRN9PKIFHEOnzRjkxPkc"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6320,
+      "name": "Three Four",
+      "url": "https://open.spotify.com/track/2O7XldAQBcGqu2U4YwoOH5"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7720,
+      "name": "To Eat A Menu",
+      "url": "https://open.spotify.com/track/3eqj0mTljFlsIHlo7jSkT7"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7040,
+      "name": "Today Tonight",
+      "url": "https://open.spotify.com/track/2bfCk1Da99zqfLww73OBAe"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9640,
+      "name": "Transportation Please Call A Taxi",
+      "url": "https://open.spotify.com/track/34GxCKkypH3UigSGK9ZhxH"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6933,
+      "name": "Twenty One Hundred",
+      "url": "https://open.spotify.com/track/7xOfgv5vmmR7gJSa0IrlbV"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4013,
+      "name": "Vegetable",
+      "url": "https://open.spotify.com/track/3qnPeg24sWyOdK6Y7e5kqV"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4933,
+      "name": "Wait For Me Here",
+      "url": "https://open.spotify.com/track/3mVs0J7bV4CISsMxf2r0OF"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7586,
+      "name": "Ways Of Locating Places And People",
+      "url": "https://open.spotify.com/track/4AsRuR8SQl8blu2jlmGmHX"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4466,
+      "name": "What Do You Call That?",
+      "url": "https://open.spotify.com/track/5W2b7bQ0wUeKXXEabOOBFY"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4253,
+      "name": "Where Can I Buy",
+      "url": "https://open.spotify.com/track/5BfUr2dScHLPVQv2keMn3J"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "Where Is",
+      "url": "https://open.spotify.com/track/34fLZYjuCUofpjsUzdyU0N"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5920,
+      "name": "Where When",
+      "url": "https://open.spotify.com/track/7AZdYmau7bAw5aSFrVmNpJ"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4960,
+      "name": "Would You Repeat That Please?",
+      "url": "https://open.spotify.com/track/4SDCFvMZJLirW8RNyB6T5z"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7373,
+      "name": "Would You Write Out The Directions Please?",
+      "url": "https://open.spotify.com/track/7o9Ue3VHs13occCQcDaJux"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4560,
+      "name": "Yes No",
+      "url": "https://open.spotify.com/track/6CzkasneiX5iXGaF9ntLcw"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6493,
+      "name": "Yesterday Tomorrow",
+      "url": "https://open.spotify.com/track/7qDDR9Fzy2z2fcwAGdiEv3"
+    },
+    {
+      "album": {
+        "name": "English To Russian",
+        "url": "https://open.spotify.com/album/6Av64AqM7cqwNv5S3EvnS7"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7746,
+      "name": "You Are Welcome You Are Very Kind",
+      "url": "https://open.spotify.com/track/2VJuHUmdqtlvIgx8pm4EkL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSsCx004HXRd"
 }

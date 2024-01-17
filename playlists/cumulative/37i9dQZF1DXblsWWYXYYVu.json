@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "7:40",
+        "url": "https://open.spotify.com/album/3fC02Gt50dEhWrBtV3ESnC"
+      },
+      "artists": [
+        {
+          "name": "Maria Aragon",
+          "url": "https://open.spotify.com/artist/2aiQfmxcWSx7RrqSVbhiFX"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179124,
+      "name": "7:40",
+      "url": "https://open.spotify.com/track/5zkyyfHR18x8flUW3JixtX"
+    },
+    {
+      "album": {
         "name": "A Few Days",
         "url": "https://open.spotify.com/album/71uN4BV7Vb8c1CanxlHVGV"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 179306,
       "name": "Cairo, IL",
       "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"

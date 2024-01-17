@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5oDYW4eHMpo.md) - [plain]
 
 > OPN takes us on a magical journey with the release of his new album "Again".
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,850 likes - 46 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,529 likes - 46 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5oDYW4eHMpo.md) - [plain]
 | 9 | [Somewhere](https://open.spotify.com/track/1TbOnXZljfErLkrwC7ypBo) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:49 |
 | 10 | [Darling Effect](https://open.spotify.com/track/0aHHMatRvp6oJdVzdxgHAD) | [Insides](https://open.spotify.com/artist/7oFNZi5wfNdERJPWeH3gmd) | [Euphoria](https://open.spotify.com/album/38TVnnFHcoPrVNheaR6Y7t) | 5:03 |
 | 11 | [Eleven Eight](https://open.spotify.com/track/1kHLyQhgdqNJm7L6cCR2cj) | [Greg Davis](https://open.spotify.com/artist/4paVd8Xh0qCuX09r68eMMj) | [Arbor](https://open.spotify.com/album/6kpuSIEsLA5f48eZsMJeQq) | 3:52 |
-| 12 | [Die Dinge des Lebens](https://open.spotify.com/track/031TQHn8ICGcAKkOwWvMNG) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [The Amateur View](https://open.spotify.com/album/5zXCkTQBeSfeSxEG82DRRM) | 4:56 |
+| 12 | [Die Dinge des Lebens](https://open.spotify.com/track/0mZpVZRhcTWJXa6TQQPjNV) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [The Amateur View](https://open.spotify.com/album/7cxuhgQC5uExNMyeT1k56y) | 4:56 |
 | 13 | [You Show No Emotion At All](https://open.spotify.com/track/1jeK3NK3kUy7XAkJ3wfvyL) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Cold House](https://open.spotify.com/album/4f9GmceFKdzbAZHbb7XnQV) | 5:15 |
 | 14 | [Future Perfect](https://open.spotify.com/track/0RlpgTdnxatoTRBvG34zaB) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Fidelity](https://open.spotify.com/album/05V4gFM4ZIkotmDJxAGLl9) | 5:15 |
 | 15 | [Every Day Shines](https://open.spotify.com/track/0DgA3uiCmIVSgJZwrXQg2l) | [Earwig](https://open.spotify.com/artist/78NksjxycSNgUfmuO88KLO) | [Under My Skin I Am Laughing](https://open.spotify.com/album/1nrrTtAGX9pNLfOrCLgrJH) | 10:35 |

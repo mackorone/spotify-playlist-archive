@@ -4,7 +4,7 @@
 
 > 受験本番へ。努力のすべては、出し切れる。
 
-51 songs - 3 hr 14 min
+55 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,16 +17,16 @@
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2023-12-10 |  |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2023-12-10 |  |
 | [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2023-12-10 | 2023-12-20 |
-| [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2023-12-10 |  |
+| [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2023-12-10 | 2024-01-17 |
 | [DIFFICULT](https://open.spotify.com/track/6RbrF27Pe3oHVt0tC7cIwD) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [ROBIN HOOD STREET](https://open.spotify.com/album/160Dp7uGHyAp4BBuxtbv3c) | 3:40 | 2023-12-10 |  |
 | [DON'T WANNA SLEEP](https://open.spotify.com/track/1SBNKGLIg5uZgSTjZhSTMr) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:36 | 2023-12-10 |  |
 | [Eikouno Kakehashi](https://open.spotify.com/track/1RMCm1pdlC3x2sZA7sewqM) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Going \[2001\~2005\]](https://open.spotify.com/album/5fYiJSeE33imwwnKtrmFHH) | 5:26 | 2023-12-10 |  |
 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 | 2023-12-10 |  |
-| [Good Job](https://open.spotify.com/track/5x5ZidnSnk7ASnExcsxmqG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/0F4eK3aUWgWxxfulAHxUav) | 3:50 | 2023-12-10 |  |
-| [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2023-12-10 |  |
+| [Good Job](https://open.spotify.com/track/5x5ZidnSnk7ASnExcsxmqG) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/0F4eK3aUWgWxxfulAHxUav) | 3:50 | 2023-12-10 | 2024-01-17 |
+| [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2023-12-10 | 2024-01-17 |
 | [Gunjo Sanka](https://open.spotify.com/track/5rq7yhcpsofB04NgTqlY8r) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 4:36 | 2023-12-10 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2023-12-10 |  |
-| [HOMEWORK](https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [HOMEWORK](https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG) | 2:51 | 2023-12-10 |  |
+| [HOMEWORK](https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [HOMEWORK](https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG) | 2:51 | 2023-12-10 | 2024-01-17 |
 | [Hurricanes](https://open.spotify.com/track/4XH87UjBYFtVYar8CNmoTJ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:22 | 2023-12-10 |  |
 | [Kaishin no Ichigeki](https://open.spotify.com/track/3GzBwTfCuwtE0GhMJUlPXi) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Batsu to Maru to Tsumi to](https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3) | 4:36 | 2023-12-10 |  |
 | [Kimishidai Ressha](https://open.spotify.com/track/4PnlFpHAblOq5bnojjsyhZ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Zankyō Reference](https://open.spotify.com/album/0cb55nHUbG3tLjVVQYPdRj) | 4:14 | 2023-12-10 |  |
@@ -36,6 +36,7 @@
 | [My HERO](https://open.spotify.com/track/0wm2DJR8GHRYYl7mAcenAw) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [My HERO / 夕凪](https://open.spotify.com/album/0nLq5hQw2WPRIi7dGVSoSP) | 2:33 | 2023-12-10 |  |
 | [Nothing.](https://open.spotify.com/track/3wkruI7a25St8amf1SP7AO) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [GiANT KiLLERS](https://open.spotify.com/album/0x8WHtYyPwLrqdiwWKxBXM) | 4:43 | 2023-12-10 |  |
 | [ONE](https://open.spotify.com/track/01jAlHee4psROggfWjk8hp) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 5:28 | 2023-12-10 |  |
+| [Philosophy](https://open.spotify.com/track/41Rg4Xn7uQTlqIoocXRLDz) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Where's My History?](https://open.spotify.com/album/3HcoGE0lkcDVOR6BhyfFDE) | 6:01 | 2024-01-16 |  |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-12-10 |  |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-12-10 |  |
 | [Shukumei](https://open.spotify.com/track/0XaHPBAzPAC5ubwcRBqc1p) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 4:40 | 2023-12-10 |  |
@@ -44,13 +45,16 @@
 | [かつて天才だった俺たちへ](https://open.spotify.com/track/4qjpey2aljl28C40NmTcgQ) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [かつて天才だった俺たちへ](https://open.spotify.com/album/4RlqowFUNcZR7UTUinXZlT) | 3:34 | 2023-12-10 |  |
 | [だいじょうぶ](https://open.spotify.com/track/5nfpxwXCGlEz4IqylQoMwg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI) | 3:55 | 2023-12-10 |  |
 | [できっこないを やらなくちゃ](https://open.spotify.com/track/5abRbX9SH8nHYml4RKCE1W) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [できっこないを やらなくちゃ](https://open.spotify.com/album/1J1Bi1SJ5w5UzRBDD1F2ic) | 3:39 | 2023-12-10 |  |
+| [のびしろ](https://open.spotify.com/track/4inayqSdDjRuQMIXFn1M29) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [のびしろ](https://open.spotify.com/album/4Qyzx6cYuwuRjHBoEBPPBh) | 3:56 | 2024-01-16 |  |
 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2023-12-10 |  |
 | [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 | 2023-12-10 |  |
 | [サクラ咲ケ](https://open.spotify.com/track/5k6DwtL38uTMioBwIxX0Lx) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [サクラ咲ケ](https://open.spotify.com/album/5RSZR2FrUE5roCgGdAHMRy) | 4:22 | 2023-12-10 |  |
 | [サザンカ](https://open.spotify.com/track/2myzCVDwfwvDzEEmGwMNBN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [サザンカ](https://open.spotify.com/album/4vHtFyYDJEN6RP9cfm63nI) | 4:30 | 2023-12-10 |  |
+| [ダイヤモンド](https://open.spotify.com/track/33o7jjMP811sb4UGSMfSjW) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [jupiter](https://open.spotify.com/album/0onaVQoaiffqxbds3QDR1m) | 4:33 | 2024-01-16 |  |
 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 | 2023-12-10 |  |
 | [ファンファーレ](https://open.spotify.com/track/185espHo2bItrvYrUUkDhe) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Fanfare / Shunkashuto](https://open.spotify.com/album/1mORRulI70KWDReQW4ud4x) | 3:02 | 2023-12-10 |  |
 | [ワタリドリ](https://open.spotify.com/track/5PFxNrRme9z6jiprt8AfqX) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Where's My History?](https://open.spotify.com/album/3HcoGE0lkcDVOR6BhyfFDE) | 4:13 | 2023-12-10 |  |
+| [六文銭](https://open.spotify.com/track/5TkxhiSfPqay25JAQ1WdCf) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 6:44 | 2024-01-16 |  |
 | [大丈夫](https://open.spotify.com/track/5MYjno6goNbqgGHKEYhJ1Y) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [日常ドラマチック](https://open.spotify.com/album/12xSbnpgkagxvKJ0zvN0zP) | 4:46 | 2023-12-10 |  |
 | [愛は勝つ](https://open.spotify.com/track/7MqaQIHyo7Ud1QzDSmWpQ0) | [KAN](https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY) | [野球選手が夢だった](https://open.spotify.com/album/7akUfttPs5jXt8F1bI1MmT) | 4:07 | 2023-12-19 |  |
 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 | 2023-12-10 |  |

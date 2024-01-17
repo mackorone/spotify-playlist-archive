@@ -1,326 +1,1331 @@
 {
-  "2023-02-11": 5360,
-  "2023-02-12": 5368,
-  "2023-02-13": 5371,
-  "2023-02-14": 5371,
-  "2023-02-15": 5376,
-  "2023-02-16": 5376,
-  "2023-02-17": 5378,
-  "2023-02-18": 5382,
-  "2023-02-19": 5383,
-  "2023-02-20": 5385,
-  "2023-02-21": 5388,
-  "2023-02-22": 5390,
-  "2023-02-23": 5393,
-  "2023-02-24": 5393,
-  "2023-02-25": 5397,
-  "2023-02-26": 5401,
-  "2023-02-27": 5405,
-  "2023-02-28": 5405,
-  "2023-03-01": 5406,
-  "2023-03-02": 5410,
-  "2023-03-03": 5412,
-  "2023-03-04": 5415,
-  "2023-03-05": 5421,
-  "2023-03-06": 5421,
-  "2023-03-07": 5423,
-  "2023-03-08": 5424,
-  "2023-03-09": 5425,
-  "2023-03-10": 5428,
-  "2023-03-11": 5431,
-  "2023-03-12": 5435,
-  "2023-03-13": 5437,
-  "2023-03-14": 5442,
-  "2023-03-15": 5451,
-  "2023-03-16": 5450,
-  "2023-03-17": 5450,
-  "2023-03-18": 5454,
-  "2023-03-19": 5456,
-  "2023-03-20": 5455,
-  "2023-03-21": 5458,
-  "2023-03-22": 5459,
-  "2023-03-23": 5462,
-  "2023-03-24": 5462,
-  "2023-03-25": 5461,
-  "2023-03-26": 5461,
-  "2023-03-27": 5463,
-  "2023-03-28": 5462,
-  "2023-03-29": 5466,
-  "2023-03-30": 5471,
-  "2023-03-31": 5471,
-  "2023-04-01": 5475,
-  "2023-04-02": 5476,
-  "2023-04-03": 5478,
-  "2023-04-04": 5478,
-  "2023-04-05": 5478,
-  "2023-04-06": 5479,
-  "2023-04-07": 5481,
-  "2023-04-09": 5483,
-  "2023-04-10": 5483,
-  "2023-04-11": 5483,
-  "2023-04-12": 5483,
-  "2023-04-13": 5486,
-  "2023-04-14": 5488,
-  "2023-04-15": 5490,
-  "2023-04-16": 5490,
-  "2023-04-17": 5490,
-  "2023-04-18": 5491,
-  "2023-04-19": 5492,
-  "2023-04-20": 5493,
-  "2023-04-21": 5492,
-  "2023-04-22": 5494,
-  "2023-04-23": 5494,
-  "2023-04-24": 5496,
-  "2023-04-25": 5497,
-  "2023-04-26": 5501,
-  "2023-04-27": 5503,
-  "2023-04-28": 5505,
-  "2023-04-29": 5509,
-  "2023-04-30": 5510,
-  "2023-05-01": 5511,
-  "2023-05-02": 5510,
-  "2023-05-03": 5513,
-  "2023-05-04": 5516,
-  "2023-05-05": 5517,
-  "2023-05-06": 5519,
-  "2023-05-07": 5521,
-  "2023-05-08": 5521,
-  "2023-05-09": 5524,
-  "2023-05-10": 5527,
-  "2023-05-11": 5527,
-  "2023-05-12": 5527,
-  "2023-05-13": 5528,
-  "2023-05-14": 5531,
-  "2023-05-15": 5531,
-  "2023-05-16": 5534,
-  "2023-05-17": 5536,
-  "2023-05-18": 5536,
-  "2023-05-19": 5537,
-  "2023-05-20": 5539,
-  "2023-05-21": 5539,
-  "2023-05-22": 5539,
-  "2023-05-23": 5543,
-  "2023-05-24": 5547,
-  "2023-05-25": 5547,
-  "2023-05-26": 5550,
-  "2023-05-27": 5552,
-  "2023-05-28": 5551,
-  "2023-05-29": 5551,
-  "2023-05-30": 5553,
-  "2023-05-31": 5552,
-  "2023-06-01": 5554,
-  "2023-06-02": 5555,
-  "2023-06-03": 5556,
-  "2023-06-04": 5558,
-  "2023-06-05": 5563,
-  "2023-06-06": 5562,
-  "2023-06-07": 5562,
-  "2023-06-08": 5564,
-  "2023-06-09": 5564,
-  "2023-06-10": 5565,
-  "2023-06-11": 5568,
-  "2023-06-12": 5569,
-  "2023-06-13": 5569,
-  "2023-06-14": 5571,
-  "2023-06-15": 5573,
-  "2023-06-16": 5575,
-  "2023-06-17": 5574,
-  "2023-06-18": 5575,
-  "2023-06-19": 5577,
-  "2023-06-20": 5579,
-  "2023-06-21": 5579,
-  "2023-06-22": 5581,
-  "2023-06-23": 5582,
-  "2023-06-24": 5582,
-  "2023-06-25": 5585,
-  "2023-06-26": 5585,
-  "2023-06-27": 5589,
-  "2023-06-28": 5594,
-  "2023-06-29": 5594,
-  "2023-06-30": 5596,
-  "2023-07-01": 5601,
-  "2023-07-02": 5601,
-  "2023-07-03": 5603,
-  "2023-07-04": 5605,
-  "2023-07-05": 5606,
-  "2023-07-06": 5608,
-  "2023-07-07": 5608,
-  "2023-07-08": 5609,
-  "2023-07-09": 5609,
-  "2023-07-10": 5608,
-  "2023-07-11": 5610,
-  "2023-07-12": 5613,
-  "2023-07-13": 5618,
-  "2023-07-14": 5620,
-  "2023-07-15": 5620,
-  "2023-07-16": 5627,
-  "2023-07-17": 5627,
-  "2023-07-18": 5630,
-  "2023-07-19": 5631,
-  "2023-07-20": 5635,
-  "2023-07-21": 5636,
-  "2023-07-22": 5638,
-  "2023-07-23": 5638,
-  "2023-07-24": 5642,
-  "2023-07-25": 5645,
-  "2023-07-26": 5645,
-  "2023-07-27": 5647,
-  "2023-07-28": 5646,
-  "2023-07-29": 5649,
-  "2023-07-30": 5651,
-  "2023-07-31": 5650,
-  "2023-08-01": 5651,
-  "2023-08-02": 5651,
-  "2023-08-03": 5652,
-  "2023-08-04": 5653,
-  "2023-08-05": 5654,
-  "2023-08-06": 5656,
-  "2023-08-07": 5656,
-  "2023-08-08": 5658,
-  "2023-08-09": 5655,
-  "2023-08-10": 5654,
-  "2023-08-11": 5654,
-  "2023-08-12": 5656,
-  "2023-08-13": 5658,
-  "2023-08-14": 5659,
-  "2023-08-15": 5664,
-  "2023-08-16": 5664,
-  "2023-08-17": 5666,
-  "2023-08-18": 5666,
-  "2023-08-19": 5668,
-  "2023-08-20": 5671,
-  "2023-08-21": 5673,
-  "2023-08-22": 5673,
-  "2023-08-23": 5673,
-  "2023-08-24": 5673,
-  "2023-08-25": 5672,
-  "2023-08-26": 5673,
-  "2023-08-27": 5673,
-  "2023-08-28": 5672,
-  "2023-08-29": 5675,
-  "2023-08-30": 5677,
-  "2023-08-31": 5681,
-  "2023-09-01": 5683,
-  "2023-09-02": 5683,
-  "2023-09-03": 5684,
-  "2023-09-04": 5684,
-  "2023-09-05": 5689,
-  "2023-09-06": 5691,
-  "2023-09-07": 5696,
-  "2023-09-08": 5696,
-  "2023-09-09": 5695,
-  "2023-09-10": 5698,
-  "2023-09-11": 5699,
-  "2023-09-12": 5699,
-  "2023-09-13": 5699,
-  "2023-09-14": 5702,
-  "2023-09-15": 5704,
-  "2023-09-16": 5705,
-  "2023-09-17": 5708,
-  "2023-09-18": 5708,
-  "2023-09-19": 5710,
-  "2023-09-20": 5714,
-  "2023-09-21": 5715,
-  "2023-09-22": 5723,
-  "2023-09-23": 5721,
-  "2023-09-24": 5725,
-  "2023-09-25": 5725,
-  "2023-09-26": 5726,
-  "2023-09-27": 5727,
-  "2023-09-28": 5729,
-  "2023-09-29": 5729,
-  "2023-09-30": 5731,
-  "2023-10-01": 5732,
-  "2023-10-02": 5732,
-  "2023-10-03": 5733,
-  "2023-10-04": 5733,
-  "2023-10-05": 5731,
-  "2023-10-06": 5733,
-  "2023-10-07": 5735,
-  "2023-10-08": 5734,
-  "2023-10-09": 5736,
-  "2023-10-10": 5731,
-  "2023-10-11": 5731,
-  "2023-10-12": 5731,
-  "2023-10-13": 5732,
-  "2023-10-14": 5729,
-  "2023-10-15": 5727,
-  "2023-10-16": 5728,
-  "2023-10-17": 5731,
-  "2023-10-18": 5732,
-  "2023-10-19": 5733,
-  "2023-10-20": 5734,
-  "2023-10-21": 5736,
-  "2023-10-22": 5736,
-  "2023-10-23": 5737,
-  "2023-10-24": 5737,
-  "2023-10-25": 5738,
-  "2023-10-26": 5738,
-  "2023-10-27": 5738,
-  "2023-10-28": 5738,
-  "2023-10-29": 5739,
-  "2023-10-30": 5743,
-  "2023-10-31": 5743,
-  "2023-11-01": 5744,
-  "2023-11-02": 5742,
-  "2023-11-03": 5741,
-  "2023-11-04": 5742,
-  "2023-11-05": 5742,
-  "2023-11-06": 5744,
-  "2023-11-07": 5745,
-  "2023-11-08": 5746,
-  "2023-11-09": 5748,
-  "2023-11-10": 5750,
-  "2023-11-11": 5751,
-  "2023-11-12": 5751,
-  "2023-11-13": 5753,
-  "2023-11-14": 5753,
-  "2023-11-15": 5753,
-  "2023-11-16": 5757,
-  "2023-11-17": 5758,
-  "2023-11-18": 5758,
-  "2023-11-19": 5760,
-  "2023-11-20": 5762,
-  "2023-11-21": 5762,
-  "2023-11-22": 5764,
-  "2023-11-23": 5764,
-  "2023-11-24": 5763,
-  "2023-11-25": 5765,
-  "2023-11-26": 5766,
-  "2023-11-27": 5767,
-  "2023-11-28": 5767,
-  "2023-11-29": 5768,
-  "2023-11-30": 5768,
-  "2023-12-01": 5769,
-  "2023-12-02": 5771,
-  "2023-12-03": 5771,
-  "2023-12-04": 5772,
-  "2023-12-05": 5773,
-  "2023-12-06": 5773,
-  "2023-12-07": 5775,
-  "2023-12-08": 5775,
-  "2023-12-09": 5775,
-  "2023-12-10": 5775,
-  "2023-12-11": 5777,
-  "2023-12-12": 5776,
-  "2023-12-13": 5775,
-  "2023-12-14": 5781,
-  "2023-12-15": 5783,
-  "2023-12-16": 5784,
-  "2023-12-17": 5782,
-  "2023-12-18": 5782,
-  "2023-12-19": 5782,
-  "2023-12-20": 5783,
-  "2023-12-21": 5789,
-  "2023-12-22": 5807,
-  "2023-12-23": 5810,
-  "2023-12-24": 5812,
-  "2023-12-25": 5812,
-  "2023-12-26": 5811,
-  "2023-12-27": 5814,
-  "2023-12-30": 5818,
-  "2023-12-31": 5815,
-  "2024-01-01": 5816,
-  "2024-01-02": 5815,
-  "2024-01-03": 5815
+  "2024-01-17": 5917,
+  "date_first_scraped": "2023-02-11",
+  "description": "Music from TV shows and films nominated for the 81st Golden Globe Awards. Watch Jan 7, 2024 on CBS and Paramount+.",
+  "name": "Golden Globes",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Crown: Season Five (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE"
+      },
+      "artists": [
+        {
+          "name": "Martin Phipps",
+          "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 192560,
+      "name": "Actually Her",
+      "url": "https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp"
+    },
+    {
+      "album": {
+        "name": "Addicted to Romance (from the film 'She Came to Me')",
+        "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Patti Scialfa",
+          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Addicted to Romance - from the film 'She Came to Me'",
+      "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
+    },
+    {
+      "album": {
+        "name": "The Woman King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 97706,
+      "name": "Agojie Return",
+      "url": "https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK"
+    },
+    {
+      "album": {
+        "name": "The Menu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rNzQmIHjZCVQEfdOxEItQ"
+      },
+      "artists": [
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 264238,
+      "name": "All Aboard - from \"The Menu\" Soundtrack",
+      "url": "https://open.spotify.com/track/1hT4ky9OMjtDpZJbJs08XY"
+    },
+    {
+      "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108533,
+      "name": "Ask Me Why (Mother's Message)",
+      "url": "https://open.spotify.com/track/104EutLydSehDHiEjmtdBo"
+    },
+    {
+      "album": {
+        "name": "BARRY (HBO Original Music Soundtrack Season 1 & 2)",
+        "url": "https://open.spotify.com/album/4kYPrvylR7PVvk8fphlRVv"
+      },
+      "artists": [
+        {
+          "name": "David Wingo",
+          "url": "https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 69226,
+      "name": "Barry",
+      "url": "https://open.spotify.com/track/4dqBW6ZGXVKTHg15MErvJ9"
+    },
+    {
+      "album": {
+        "name": "Poor Things (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO"
+      },
+      "artists": [
+        {
+          "name": "Jerskin Fendrix",
+          "url": "https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103160,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl"
+    },
+    {
+      "album": {
+        "name": "Blonde (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        },
+        {
+          "name": "Warren Ellis",
+          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 225893,
+      "name": "Bright Horses (Instrumental)",
+      "url": "https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9"
+    },
+    {
+      "album": {
+        "name": "Oppenheimer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110160,
+      "name": "Can You Hear The Music",
+      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
+    },
+    {
+      "album": {
+        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
+        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 264438,
+      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
+      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    {
+      "album": {
+        "name": "Guillermo del Toro's Pinocchio (Soundtrack From The Netflix Film)",
+        "url": "https://open.spotify.com/album/7GQqZap38LT44AcbZriYqt"
+      },
+      "artists": [
+        {
+          "name": "Gregory Mann",
+          "url": "https://open.spotify.com/artist/75HkCZEX8TSyFqh0PkXaa7"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 168396,
+      "name": "Ciao Papa",
+      "url": "https://open.spotify.com/track/2R96PRe2nQz5nRSLyBDDDG"
+    },
+    {
+      "album": {
+        "name": "The Diplomat (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB"
+      },
+      "artists": [
+        {
+          "name": "Nathan Barr",
+          "url": "https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC"
+        },
+        {
+          "name": "Dimitri Smith",
+          "url": "https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69626,
+      "name": "Confirming Hal's Story",
+      "url": "https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg"
+    },
+    {
+      "album": {
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229566,
+      "name": "Cruel Summer - Live from TS | The Eras Tour",
+      "url": "https://open.spotify.com/track/6ClYMObS7f3Nn4AiZHYQt3"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176579,
+      "name": "Dance The Night",
+      "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
+    },
+    {
+      "album": {
+        "name": "Mission: Impossible - Dead Reckoning Part One (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4t1wHeUBtPD2nsIgVTGSOg"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72519,
+      "name": "Dead Reckoning Opening Titles",
+      "url": "https://open.spotify.com/track/5UwiTSY5hB74NxIaiWBRHx"
+    },
+    {
+      "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Steven Yeun as Danny from BEEF",
+          "url": "https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241706,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB"
+    },
+    {
+      "album": {
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 317026,
+      "name": "Empire Of Light",
+      "url": "https://open.spotify.com/track/6O22GpPxzXC3lnaiGZsGXa"
+    },
+    {
+      "album": {
+        "name": "DAHMER - Monster: The Jeffrey Dahmer Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0iWf4fEHwkLXSHoHunjwtt"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        },
+        {
+          "name": "Warren Ellis",
+          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 150694,
+      "name": "End Credits (from the Netflix Series \"DAHMER - Monster: The Jeffrey Dahmer Story\")",
+      "url": "https://open.spotify.com/track/1zmRTJEYYYamHKy8Bsi8ne"
+    },
+    {
+      "album": {
+        "name": "John Wick: Chapter 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185657,
+      "name": "Eye For an Eye",
+      "url": "https://open.spotify.com/track/63OiFJTU3Xv1CCCLFJQ6Fl"
+    },
+    {
+      "album": {
+        "name": "Fellow Travelers (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6Q93LklTcvLAysA2IhxHmP"
+      },
+      "artists": [
+        {
+          "name": "Paul Leonard-Morgan",
+          "url": "https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 93934,
+      "name": "Forbidden Joy",
+      "url": "https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7"
+    },
+    {
+      "album": {
+        "name": "Ted Lasso: Season 3 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6oemmy2XTmRXRryKR77LuG"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 254386,
+      "name": "Fought & Lost - Full Length TV Version",
+      "url": "https://open.spotify.com/track/2VegZvwc34NF0RVqxjkwfY"
+    },
+    {
+      "album": {
+        "name": "Shrinking: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        },
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147337,
+      "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
+      "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
+    },
+    {
+      "album": {
+        "name": "Pam & Tommy (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3DLTFjUNq8cigCAqaU1ZOc"
+      },
+      "artists": [
+        {
+          "name": "Isaac Carpenter",
+          "url": "https://open.spotify.com/artist/4xbXNEpKqu2JcnjxaHAWpj"
+        },
+        {
+          "name": "Sebastian Stan",
+          "url": "https://open.spotify.com/artist/0JX0HkJxazV5WddFlKp9JV"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 62575,
+      "name": "Get Outta My Face (feat. Sebastian Stan)",
+      "url": "https://open.spotify.com/track/6o9NhaBfBJS4pCd2RjGb66"
+    },
+    {
+      "album": {
+        "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 225300,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
+    },
+    {
+      "album": {
+        "name": "The Crown: Season Six (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN"
+      },
+      "artists": [
+        {
+          "name": "Martin Phipps",
+          "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Holding Hands (From \"The Crown: Season Six Soundtrack\")",
+      "url": "https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg"
+    },
+    {
+      "album": {
+        "name": "Top Gun: Maverick (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN"
+    },
+    {
+      "album": {
+        "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
+        "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
+      },
+      "artists": [
+        {
+          "name": "John Murphy",
+          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135347,
+      "name": "I Love You Guys",
+      "url": "https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu"
+    },
+    {
+      "album": {
+        "name": "The Color Purple (Music From And Inspired By)",
+        "url": "https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291173,
+      "name": "I\u2019m Here",
+      "url": "https://open.spotify.com/track/6CgvYXoJfZIxezbCoW9ZfX"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken",
+      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 196520,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
+    },
+    {
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332386,
+      "name": "Look At Us Now (Honeycomb)",
+      "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
+    },
+    {
+      "album": {
+        "name": "Only Murders in the Building: Season 3 (Original Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6zUX2wRpuzSwYXoTNzVSlE"
+      },
+      "artists": [
+        {
+          "name": "Only Murders in the Building \u2013 Cast",
+          "url": "https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih"
+        },
+        {
+          "name": "Meryl Streep",
+          "url": "https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2"
+        },
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150805,
+      "name": "Look for the Light",
+      "url": "https://open.spotify.com/track/2On7KSfkCdYu8D5u1f0JeU"
+    },
+    {
+      "album": {
+        "name": "All the Light We Cannot See (Soundtrack from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83679,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod"
+    },
+    {
+      "album": {
+        "name": "The Flight Attendant: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4eGTAHIWB70mIf3gwknjow"
+      },
+      "artists": [
+        {
+          "name": "Blake Neely",
+          "url": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 89786,
+      "name": "Main Title (The Flight Attendant)",
+      "url": "https://open.spotify.com/track/2RyCnbRAwgxNi8D4MexzkF"
+    },
+    {
+      "album": {
+        "name": "Mrs. Harris Goes to Paris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vjxJ2lyiNrKuV00JL5HRx"
+      },
+      "artists": [
+        {
+          "name": "Rael Jones",
+          "url": "https://open.spotify.com/artist/6gmWKEK7HKvYBas0CWXdlW"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 119393,
+      "name": "Mrs. Harris",
+      "url": "https://open.spotify.com/track/4Chlib7xjLWRsCU4A2uGCo"
+    },
+    {
+      "album": {
+        "name": "Diwali Special Party Songs",
+        "url": "https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 214207,
+      "name": "Naacho Naacho (From \"Rrr\")",
+      "url": "https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC"
+    },
+    {
+      "album": {
+        "name": "Naatu Naatu (From \"Rrr\")",
+        "url": "https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "M. M. Keeravani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-10",
+      "duration_ms": 214399,
+      "name": "Naatu Naatu (From \"Rrr\")",
+      "url": "https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP"
+    },
+    {
+      "album": {
+        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 267504,
+      "name": "Nothing Is Lost (You Give Me Strength)",
+      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
+    },
+    {
+      "album": {
+        "name": "Maestro: Music by Leonard Bernstein (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143925,
+      "name": "On the Town: Lonely Town. Pas de deux",
+      "url": "https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX"
+    },
+    {
+      "album": {
+        "name": "Killers of the Flower Moon (Soundtrack from the Apple Original Film)",
+        "url": "https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp"
+      },
+      "artists": [
+        {
+          "name": "Robbie Robertson",
+          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171425,
+      "name": "Osage Oil Boom",
+      "url": "https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY"
+    },
+    {
+      "album": {
+        "name": "The Whale (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/377eHf66txjBwadOeFF8Co"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 108371,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/0GmtAxeEI2VcZKWhUdXVV0"
+    },
+    {
+      "album": {
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95440,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
+        "name": "Wonka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187997,
+      "name": "Pure Imagination (from \"Wonka\")",
+      "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
+    },
+    {
+      "album": {
+        "name": "Past Lives (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217648,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2r1pq34i8ddPXyxvfqDBCG"
+    },
+    {
+      "album": {
+        "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
+        "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Tapia De Veer",
+          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 98440,
+      "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
+      "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
+    },
+    {
+      "album": {
+        "name": "The Fabelmans (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 104320,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI"
+    },
+    {
+      "album": {
+        "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+        "url": "https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+      "url": "https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk"
+    },
+    {
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60983,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Across the Spider-Verse (Original Score)",
+        "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62720,
+      "name": "Spider-Man 2099 (Miguel O'Hara)",
+      "url": "https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT"
+    },
+    {
+      "album": {
+        "name": "George & Tammy (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT"
+      },
+      "artists": [
+        {
+          "name": "Jessica Chastain",
+          "url": "https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF"
+        },
+        {
+          "name": "Michael Shannon",
+          "url": "https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 165752,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp"
+    },
+    {
+      "album": {
+        "name": "Slow Horses: Season 1 (ATV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV"
+      },
+      "artists": [
+        {
+          "name": "Mick Jagger",
+          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "Strange Game",
+      "url": "https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19"
+    },
+    {
+      "album": {
+        "name": "Succession: Season 4 (HBO Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2RIG29bd8zdq0TtHHTLZdV"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148427,
+      "name": "Succession - Andante Risoluto",
+      "url": "https://open.spotify.com/track/1hUiKGTTOQcYSaAxXZwUCA"
+    },
+    {
+      "album": {
+        "name": "T\u00c1R (MUSIC FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Cate Blanchett",
+          "url": "https://open.spotify.com/artist/2Z2dkKKXtKsfFAQz1enCeJ"
+        },
+        {
+          "name": "Jan Wolf",
+          "url": "https://open.spotify.com/artist/7FdzQYqYuqi6NhBNwXx3yY"
+        },
+        {
+          "name": "Dresdner Philharmonie",
+          "url": "https://open.spotify.com/artist/03C9IJtseK0NX9zw53URjF"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 199173,
+      "name": "Symphony No. 5 in C Sharp Minor / Pt. 1: I. Trauermarsch & II. St\u00fcrmisch bewegt - Rehearsals",
+      "url": "https://open.spotify.com/track/50Zfv1fSYcuTr9JeKV5OZ5"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67669,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5"
+    },
+    {
+      "album": {
+        "name": "Glass Onion: A Knives Out Mystery (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 113897,
+      "name": "Theme from Glass Onion",
+      "url": "https://open.spotify.com/track/3ah2iIRAY7R3xbh1c8hKrW"
+    },
+    {
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "This Wish",
+      "url": "https://open.spotify.com/track/5DJgVGikMm9NKyJO2wvDF6"
+    },
+    {
+      "album": {
+        "name": "Black Bird",
+        "url": "https://open.spotify.com/album/3d5Y2qarMZlq0YyvLueE4I"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 295306,
+      "name": "Titles",
+      "url": "https://open.spotify.com/track/3nXtowNQOkWjIu1Ep2smUw"
+    },
+    {
+      "album": {
+        "name": "Black Bird",
+        "url": "https://open.spotify.com/album/3O5ig1AqlNK4SQYU3litHb"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 295306,
+      "name": "Titles",
+      "url": "https://open.spotify.com/track/4HFqmG18ztVvqqBG0jVu34"
+    },
+    {
+      "album": {
+        "name": "The Dropout (Original Score)",
+        "url": "https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb"
+      },
+      "artists": [
+        {
+          "name": "Anne Nikitin",
+          "url": "https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 134058,
+      "name": "Today We Launch",
+      "url": "https://open.spotify.com/track/5IOfH50BVukvKUeIzQ7JWA"
+    },
+    {
+      "album": {
+        "name": "Fargo Year 5 (Soundtrack from the MGM/ FXP Series)",
+        "url": "https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282640,
+      "name": "Toxic (feat. Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY"
+    },
+    {
+      "album": {
+        "name": "ELVIS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
+      },
+      "artists": [
+        {
+          "name": "Austin Butler",
+          "url": "https://open.spotify.com/artist/7fonh9s1Y6OjzCsh7pbYQm"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 140840,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1XF9P9QsH5D3rPHk1oIQd5"
+    },
+    {
+      "album": {
+        "name": "ANATOMIE D'UNE CHUTE (Musique Originale)",
+        "url": "https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Daniel",
+          "url": "https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272926,
+      "name": "VARIATION AUTOUR D'UN PR\u00c9LUDE - Anatomie d'une chute",
+      "url": "https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh"
+    },
+    {
+      "album": {
+        "name": "ELVIS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 183026,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ"
+    },
+    {
+      "album": {
+        "name": "Inventing Anna (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "Pierre Charles",
+          "url": "https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 98579,
+      "name": "Vivian Connects The Dots",
+      "url": "https://open.spotify.com/track/2RtkEH2NxXMBkRWG5yjhZ0"
+    },
+    {
+      "album": {
+        "name": "Babylon (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 239213,
+      "name": "Voodoo Mama",
+      "url": "https://open.spotify.com/track/5pmlMjmOvUi5RCe64e9Tyu"
+    },
+    {
+      "album": {
+        "name": "The Banshees of Inisherin (Original Score)",
+        "url": "https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n"
+      },
+      "artists": [
+        {
+          "name": "Carter Burwell",
+          "url": "https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 77960,
+      "name": "Walking Home Alone",
+      "url": "https://open.spotify.com/track/1WhfX0T3ItwIHMqoGaLArQ"
+    },
+    {
+      "album": {
+        "name": "Only Murders in the Building: Season 2 (Original Score)",
+        "url": "https://open.spotify.com/album/4mSME5Jj4ANMDdgZ6ZJWYH"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Khosla",
+          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 76244,
+      "name": "We're Back (Persons of Interest)",
+      "url": "https://open.spotify.com/track/7rhF7tvuOdveyQ74ophxml"
+    },
+    {
+      "album": {
+        "name": "Wednesday (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 69893,
+      "name": "Wednesday Main Titles",
+      "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6AKLu0DKWt5"
 }

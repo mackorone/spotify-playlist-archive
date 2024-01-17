@@ -1,21 +1,985 @@
 {
-  "2023-12-14": 42196,
-  "2023-12-15": 42204,
-  "2023-12-16": 42208,
-  "2023-12-17": 42206,
-  "2023-12-18": 42208,
-  "2023-12-19": 42208,
-  "2023-12-20": 42204,
-  "2023-12-21": 42206,
-  "2023-12-22": 42206,
-  "2023-12-23": 42210,
-  "2023-12-24": 42215,
-  "2023-12-25": 42218,
-  "2023-12-26": 42219,
-  "2023-12-27": 42220,
-  "2023-12-30": 42222,
-  "2023-12-31": 42224,
-  "2024-01-01": 42225,
-  "2024-01-02": 42224,
-  "2024-01-03": 42226
+  "2024-01-17": 42185,
+  "date_first_scraped": "2023-12-14",
+  "description": "The best tracks in downtempo &amp; chill, curated by Anjuna. Perfect for studying, meditating &amp; relaxing. ",
+  "name": "Chill with Anjuna",
+  "tracks": [
+    {
+      "album": {
+        "name": "After All This Time",
+        "url": "https://open.spotify.com/album/3ReYVDlK8cefCzAvrJ85dv"
+      },
+      "artists": [
+        {
+          "name": "Otherwish",
+          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 289230,
+      "name": "After All This Time",
+      "url": "https://open.spotify.com/track/6vrIHPz9KzOZYs7snydrJm"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125520,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh"
+    },
+    {
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/6j9hfHxpXEaYzFwcSK4MhH"
+    },
+    {
+      "album": {
+        "name": "Beyond Belief",
+        "url": "https://open.spotify.com/album/3QjKIQBwd8U0NTsdCJc7ld"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258806,
+      "name": "Beyond Belief",
+      "url": "https://open.spotify.com/track/4ahm9nGSgc4YDzRi6eL3l2"
+    },
+    {
+      "album": {
+        "name": "Luminescence EP",
+        "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/21Xax3xNWXhRMtgiQa1PKM"
+    },
+    {
+      "album": {
+        "name": "Hallowed Ground EP",
+        "url": "https://open.spotify.com/album/1TTWT1c4LpEszi4Df2clbi"
+      },
+      "artists": [
+        {
+          "name": "Northling",
+          "url": "https://open.spotify.com/artist/24VRz9L4UbsZnTFssFclHD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245339,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0JDNJGIr9ViBuMjBZVgofJ"
+    },
+    {
+      "album": {
+        "name": "Brightest Lights",
+        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412800,
+      "name": "Brightest Lights (feat. POLI\u00c7A)",
+      "url": "https://open.spotify.com/track/49jWS1fz7QZQa4mBIqB0mu"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/3w2btrPhG4QXL5XG2pkFFm"
+    },
+    {
+      "album": {
+        "name": "closer",
+        "url": "https://open.spotify.com/album/3Wf2gPi59LCtE5yBfSAEae"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368432,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/1zSPYn6baJA7zuYj2EZ99y"
+    },
+    {
+      "album": {
+        "name": "Luminescence EP",
+        "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 308500,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/7mdzJQh0hDRo4qIf7pHsnX"
+    },
+    {
+      "album": {
+        "name": "if I can be honest",
+        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205611,
+      "name": "eden",
+      "url": "https://open.spotify.com/track/2hch6pI5wxnE2iPoFomn2b"
+    },
+    {
+      "album": {
+        "name": "If Beale Street Could Talk (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174186,
+      "name": "Eden (Harlem)",
+      "url": "https://open.spotify.com/track/0THutYP9Uqq75bogKFuoXL"
+    },
+    {
+      "album": {
+        "name": "Reflections 07",
+        "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
+      },
+      "artists": [
+        {
+          "name": "Faodail",
+          "url": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Entangled",
+      "url": "https://open.spotify.com/track/5802VW3sVbchM6EkEavcUt"
+    },
+    {
+      "album": {
+        "name": "Reflections 07",
+        "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
+      },
+      "artists": [
+        {
+          "name": "Turtle",
+          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109249,
+      "name": "Falls Of Avich",
+      "url": "https://open.spotify.com/track/4YplGCsYN7vpdtceKPPa32"
+    },
+    {
+      "album": {
+        "name": "Feel This (How Long Will I)",
+        "url": "https://open.spotify.com/album/7tJGLUwFnzo9ibvwy0H3xt"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        },
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170377,
+      "name": "Feel This (How Long Will I)",
+      "url": "https://open.spotify.com/track/6S7bSBiayEPAWNwCpARM9P"
+    },
+    {
+      "album": {
+        "name": "when the quiet comes",
+        "url": "https://open.spotify.com/album/4Dx6ghUqKDjLa6xJHpHQor"
+      },
+      "artists": [
+        {
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540330,
+      "name": "from nothing came something and you lasted a lifetime",
+      "url": "https://open.spotify.com/track/3DRjDMSsyFrqUWnM0k3IB1"
+    },
+    {
+      "album": {
+        "name": "Luminescence EP",
+        "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Glacial",
+      "url": "https://open.spotify.com/track/63ET2zAcWY2s8IiAYSFiq5"
+    },
+    {
+      "album": {
+        "name": "Sixteen Oceans",
+        "url": "https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228027,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/4EcQ8GHyJGLw45jkA9SzmD"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/7ugVT07wxOcRKewNgcE9J4"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 100000,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/42dXKrKWJwYf7tnRbdsrfo"
+    },
+    {
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/2c6FQDsHgiRNzXlN3dc71D"
+      },
+      "artists": [
+        {
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
+        },
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191801,
+      "name": "HER - Jody Wisternoff & James Grant Edit",
+      "url": "https://open.spotify.com/track/0kLgf6MpUKwYkZQAOAe8QZ"
+    },
+    {
+      "album": {
+        "name": "if I can be honest",
+        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298454,
+      "name": "here / present",
+      "url": "https://open.spotify.com/track/3p1JAGAqMNUUkM4ABUw9Ih"
+    },
+    {
+      "album": {
+        "name": "Hold On To You (Ryan Davis Revisit)",
+        "url": "https://open.spotify.com/album/1b0ZUmsLKfYcgEyNOVbxof"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Ryan Davis",
+          "url": "https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280101,
+      "name": "Hold On To You - Ryan Davis Revisit",
+      "url": "https://open.spotify.com/track/1qgnqE3a6314MTYyiq2hLr"
+    },
+    {
+      "album": {
+        "name": "if I can be honest",
+        "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203318,
+      "name": "if I can be honest",
+      "url": "https://open.spotify.com/track/67jECssRLcbLlrtlCAaKGY"
+    },
+    {
+      "album": {
+        "name": "Reflections 07",
+        "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
+      },
+      "artists": [
+        {
+          "name": "Yui Onodera",
+          "url": "https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 281904,
+      "name": "IZUMO",
+      "url": "https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq"
+    },
+    {
+      "album": {
+        "name": "J\u014dhatsu (\u84b8\u767a) (The Remixes)",
+        "url": "https://open.spotify.com/album/1iDvYexi7CTmtTSSI16vJs"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        },
+        {
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Kyoto (\u4eac\u90fd) - Lycoriscoris Remix",
+      "url": "https://open.spotify.com/track/3rNpzCkiH8H7kvL44T36D1"
+    },
+    {
+      "album": {
+        "name": "Erased Dreams",
+        "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216686,
+      "name": "Lone Machine",
+      "url": "https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj"
+    },
+    {
+      "album": {
+        "name": "Dusting For Smoke",
+        "url": "https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233499,
+      "name": "Lone Swordsman",
+      "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
+    },
+    {
+      "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243263,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
+    },
+    {
+      "album": {
+        "name": "Luminescence EP",
+        "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 249339,
+      "name": "Luminescence",
+      "url": "https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO"
+    },
+    {
+      "album": {
+        "name": "Lunar Tides",
+        "url": "https://open.spotify.com/album/3Muy52e2cUQxOp1DaK0l5J"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263877,
+      "name": "Lunar Tides",
+      "url": "https://open.spotify.com/track/3B9pDB6SV0TO99dg20CD62"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2s5VFHjQkBIipPndpB1sJD"
+    },
+    {
+      "album": {
+        "name": "Mother (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/1An9k3L20xsC26H2GAJZBK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137335,
+      "name": "Mother - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/4mFiTGlJLEWxBqhIp3hgtl"
+    },
+    {
+      "album": {
+        "name": "Mr Man (Dusky Revisit)",
+        "url": "https://open.spotify.com/album/7azyENMb9wOHFWoRShPs0x"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314295,
+      "name": "Mr Man - Dusky Revisit",
+      "url": "https://open.spotify.com/track/20kMYR1urcBTumqu7A9mub"
+    },
+    {
+      "album": {
+        "name": "My Mother Was A Synthesizer",
+        "url": "https://open.spotify.com/album/6fN16ql9IGuF2mpChQbIYO"
+      },
+      "artists": [
+        {
+          "name": "Talee",
+          "url": "https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203358,
+      "name": "My Mother Was A Synthesizer",
+      "url": "https://open.spotify.com/track/7LI2eU6g40u5C4SnhSnZ1H"
+    },
+    {
+      "album": {
+        "name": "My Mother Was A Synthesizer EP",
+        "url": "https://open.spotify.com/album/21dxrmqpCfgpnMA4V2GocZ"
+      },
+      "artists": [
+        {
+          "name": "Talee",
+          "url": "https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241663,
+      "name": "No Place Like",
+      "url": "https://open.spotify.com/track/1nQFnc0wvHTtOeVnkfgLGo"
+    },
+    {
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240293,
+      "name": "Once...",
+      "url": "https://open.spotify.com/track/6bYv31mEInRhLb7yPDkE2L"
+    },
+    {
+      "album": {
+        "name": "Music For Home Vol. 2: Redemption",
+        "url": "https://open.spotify.com/album/2vRGgj6klG7akio8JobObE"
+      },
+      "artists": [
+        {
+          "name": "Dae Kim",
+          "url": "https://open.spotify.com/artist/6dmVUp9TvBREry9O63OFbh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Reductive Ruin",
+      "url": "https://open.spotify.com/track/56OKl9gTmHB3VoGR4uPMy2"
+    },
+    {
+      "album": {
+        "name": "Music For Home Vol. 1: Our Season",
+        "url": "https://open.spotify.com/album/3k2iR3YPoOw1xIFHoLSpvX"
+      },
+      "artists": [
+        {
+          "name": "Marihiko Hara",
+          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
+        },
+        {
+          "name": "Polar M",
+          "url": "https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293972,
+      "name": "Reflected",
+      "url": "https://open.spotify.com/track/23ot990qxQ3vDliNsFbDE7"
+    },
+    {
+      "album": {
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS"
+      },
+      "artists": [
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270996,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
+    },
+    {
+      "album": {
+        "name": "Shinrin-yoku (\u68ee\u6797\u6d74)",
+        "url": "https://open.spotify.com/album/2fb2A2HtNR5dUvFpai1Pmv"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278004,
+      "name": "Shinrin-yoku (\u68ee\u6797\u6d74)",
+      "url": "https://open.spotify.com/track/2gHvMuXWRWs1E3hGhba4Vl"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/4yXRghXZcf9GMsxoErXEHb"
+    },
+    {
+      "album": {
+        "name": "Snow Day",
+        "url": "https://open.spotify.com/album/4CGsHJyqHvYt1TdEtj359g"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 208000,
+      "name": "Snow Day",
+      "url": "https://open.spotify.com/track/4om6fOW3uXnGWfTSmLDfwq"
+    },
+    {
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj"
+      },
+      "artists": [
+        {
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193531,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/27DozBowhDYuHNExnzbipt"
+    },
+    {
+      "album": {
+        "name": "2.23",
+        "url": "https://open.spotify.com/album/3cVo98Ytv09Iu5PIwnla5O"
+      },
+      "artists": [
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/6WY4GlbTKrZnzoaIyKdyDr"
+        },
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 66548,
+      "name": "summer & emails (no longer a sadness)",
+      "url": "https://open.spotify.com/track/0p03R0WRlCjPp5rENeC4GM"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216751,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM"
+    },
+    {
+      "album": {
+        "name": "Reflections 07",
+        "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
+      },
+      "artists": [
+        {
+          "name": "Nourey",
+          "url": "https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246049,
+      "name": "To Where Dreams Are",
+      "url": "https://open.spotify.com/track/3u5CANxJ6iPjZIVZz9Wcmu"
+    },
+    {
+      "album": {
+        "name": "Reflections 07",
+        "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/5HWHvmv2Se7JK5E5lzfUCB"
+    },
+    {
+      "album": {
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
+      },
+      "artists": [
+        {
+          "name": "minds&machines",
+          "url": "https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ"
+        },
+        {
+          "name": "Odeon",
+          "url": "https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 175652,
+      "name": "You - Odeon Remix",
+      "url": "https://open.spotify.com/track/1zGHbWjSuSuG86mlW9eWSl"
+    },
+    {
+      "album": {
+        "name": "My Mother Was A Synthesizer EP",
+        "url": "https://open.spotify.com/album/21dxrmqpCfgpnMA4V2GocZ"
+      },
+      "artists": [
+        {
+          "name": "Talee",
+          "url": "https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 158418,
+      "name": "Your Depth Of Imagination",
+      "url": "https://open.spotify.com/track/3RFMabGRVnc46cWqceyT9W"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/4LIb2PKCU2q36oMfA4eNHl"
 }

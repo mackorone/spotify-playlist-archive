@@ -50,7 +50,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 215160,
       "name": "21",
       "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 213284,
       "name": "Com a Mala",
       "url": "https://open.spotify.com/track/3IoMFT989cZDnmv8ubiUY2"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 127826,
       "name": "De Hist\u00f3ria em Hist\u00f3ria",
       "url": "https://open.spotify.com/track/08Bi0KpTp0sBu0Oj2CQcSW"
@@ -2050,6 +2050,28 @@
       "duration_ms": 146165,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
+    },
+    {
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170432,
+      "name": "depois da meia noite",
+      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
     },
     {
       "album": {
@@ -2228,7 +2250,7 @@
       },
       "artists": [
         {
-          "name": "J\u00e9 Santiago",
+          "name": "J\u00e9",
           "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
         }
       ],
@@ -2580,6 +2602,28 @@
       "duration_ms": 168152,
       "name": "Espanha",
       "url": "https://open.spotify.com/track/5pFmgdBYYVWFWgMi03jl69"
+    },
+    {
+      "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
     },
     {
       "album": {
@@ -3268,7 +3312,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": "2024-01-12",
       "duration_ms": 135813,
       "name": "Fuuga",
       "url": "https://open.spotify.com/track/44JedU7eYNmip1BfvtLIqw"
@@ -4912,7 +4956,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 192000,
       "name": "Modo Trapa\u00e7a",
       "url": "https://open.spotify.com/track/3OAOGZwWMzP24qefZmPYWR"
@@ -5020,7 +5064,7 @@
       },
       "artists": [
         {
-          "name": "J\u00e9 Santiago",
+          "name": "J\u00e9",
           "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
         },
         {
@@ -5492,7 +5536,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 290000,
       "name": "Ouro Ros\u00e9",
       "url": "https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv"
@@ -5536,7 +5580,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 206608,
       "name": "OUTRO PATAMAR",
       "url": "https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH"
@@ -5584,6 +5628,36 @@
       "duration_ms": 146400,
       "name": "Paco Rabanne",
       "url": "https://open.spotify.com/track/1Cln4fas8DsPv5IIyiZYuL"
+    },
+    {
+      "album": {
+        "name": "Paladar Infantil",
+        "url": "https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Paladar Infantil",
+      "url": "https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy"
     },
     {
       "album": {
@@ -6050,7 +6124,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 155355,
       "name": "Preto de Gueto",
       "url": "https://open.spotify.com/track/2YHdQVG5x6XI8HmdcqGJnn"
@@ -6860,7 +6934,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 140487,
       "name": "Suco de Fruta",
       "url": "https://open.spotify.com/track/4sbR19WEgjJUfRsU1z2DY2"
@@ -7094,6 +7168,180 @@
       "duration_ms": 181374,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/5kMECd0wcZa9ULc3mcq40D"
+    },
+    {
+      "album": {
+        "name": "THE BOX MEDLEY",
+        "url": "https://open.spotify.com/album/0viKAX9bVrwsQpNRxklthf"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Tivityn",
+          "url": "https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE"
+        },
+        {
+          "name": "Bruxo 021",
+          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
+        },
+        {
+          "name": "Martelin",
+          "url": "https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199555,
+      "name": "THE BOX MEDLEY",
+      "url": "https://open.spotify.com/track/4HUaEW97kTPeKOL6pN9cuD"
+    },
+    {
+      "album": {
+        "name": "The Box Medley 2",
+        "url": "https://open.spotify.com/album/1Rm56TQw5OpOICfF4WCwM6"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Ojizzy",
+          "url": "https://open.spotify.com/artist/1Jqziieqyx94PNBfIJlj6R"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "The Box Medley 2",
+      "url": "https://open.spotify.com/track/6MEDqys4CFyW9Y95LR6qGC"
+    },
+    {
+      "album": {
+        "name": "The Box Medley 3",
+        "url": "https://open.spotify.com/album/5p54YkCYQFGpU1pMlTBOp3"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "The Box Medley 3",
+      "url": "https://open.spotify.com/track/3BigeJqffIZ9N8eWH6eEVU"
+    },
+    {
+      "album": {
+        "name": "THE BOX MEDLEY 5",
+        "url": "https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189658,
+      "name": "THE BOX MEDLEY 5",
+      "url": "https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs"
+    },
+    {
+      "album": {
+        "name": "THE BOX MEDLEY 6",
+        "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241799,
+      "name": "THE BOX MEDLEY 6",
+      "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"
     },
     {
       "album": {
@@ -7495,7 +7743,7 @@
         },
         {
           "name": "Wylo",
-          "url": "https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg"
+          "url": "https://open.spotify.com/artist/59gFRpopXIytwMDYDggebp"
         },
         {
           "name": "Nagalli",

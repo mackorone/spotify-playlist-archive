@@ -241,7 +241,7 @@
         },
         {
           "name": "Haze",
-          "url": "https://open.spotify.com/artist/1KV5LxtNsGJYkXkVTxid0d"
+          "url": "https://open.spotify.com/artist/0VtFgBF5unURUMCDftu2Vp"
         },
         {
           "name": "Solomun",
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 209490,
       "name": "Around - Solomun Radio Edit",
       "url": "https://open.spotify.com/track/2jMresAoqgCxSPCAyzRA0m"
@@ -429,6 +429,28 @@
     },
     {
       "album": {
+        "name": "Barbarian",
+        "url": "https://open.spotify.com/album/5T2FBNcTJH9iiXqNNYIO0n"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm"
+    },
+    {
+      "album": {
         "name": "Bass Go Boom",
         "url": "https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG"
       },
@@ -593,6 +615,32 @@
     },
     {
       "album": {
+        "name": "Body Moving (Riordan Remix)",
+        "url": "https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Body Moving - Riordan Remix",
+      "url": "https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7"
+    },
+    {
+      "album": {
         "name": "Bongoloco",
         "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
       },
@@ -714,7 +762,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 382857,
       "name": "Brighter Days - Marco Lys Remix",
       "url": "https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX"
@@ -906,7 +954,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 217570,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/1MFSuqSBKU0U8GsmXFPwm4"
@@ -1228,7 +1276,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 193710,
       "name": "Different Side",
       "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
@@ -1254,6 +1302,24 @@
       "duration_ms": 230742,
       "name": "Dipped In $ugar",
       "url": "https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k"
+    },
+    {
+      "album": {
+        "name": "Diva Drums",
+        "url": "https://open.spotify.com/album/5bo5yDSoZKDrZbkhj6eOgz"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Diva Drums",
+      "url": "https://open.spotify.com/track/6f7fDS9gIPKCNB6MVijLsQ"
     },
     {
       "album": {
@@ -1808,7 +1874,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 327593,
       "name": "GET TUSSI - CLUB MIX",
       "url": "https://open.spotify.com/track/69b9Gd41v8EwhltyaIYz8R"
@@ -1848,7 +1914,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 155076,
       "name": "Give You",
       "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
@@ -2030,7 +2096,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 216000,
       "name": "Hijos De La Noche",
       "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
@@ -2128,7 +2194,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
@@ -2150,6 +2216,42 @@
       "duration_ms": 164526,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0IyYhV3YmH0do8nsRaH919"
+    },
+    {
+      "album": {
+        "name": "I Can't Take No More",
+        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157784,
+      "name": "I Can't Take No More",
+      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
+    },
+    {
+      "album": {
+        "name": "I Entah",
+        "url": "https://open.spotify.com/album/2Bw9YNMw0u1uAWNR7RPZyP"
+      },
+      "artists": [
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152578,
+      "name": "I Entah",
+      "url": "https://open.spotify.com/track/6RKtjKLTy2w6AXxzV42pSm"
     },
     {
       "album": {
@@ -2194,7 +2296,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 208400,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/3y5LDvgjA1pb18RsKjSOoo"
@@ -2591,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "LIFT OFF",
+        "url": "https://open.spotify.com/album/7ey50e1s482RfGNXqldS4W"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "LIFT OFF",
+      "url": "https://open.spotify.com/track/2T8Yxn4uXQoeBivDQNYCel"
+    },
+    {
+      "album": {
         "name": "Soundwave",
         "url": "https://open.spotify.com/album/3lgLl9tQe3oC6uMmYsDFAz"
       },
@@ -2730,7 +2850,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 200788,
       "name": "Low Rider - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG"
@@ -2748,7 +2868,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 148730,
       "name": "Make U Sweat",
       "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
@@ -2803,6 +2923,32 @@
     },
     {
       "album": {
+        "name": "MAMI (SOSA Remix)",
+        "url": "https://open.spotify.com/album/5sgZhu2akIrxRl5xB7iaom"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "Mami - SOSA Remix",
+      "url": "https://open.spotify.com/track/3BelLDoNYxRWMJQ8fImu55"
+    },
+    {
+      "album": {
         "name": "Marabunta",
         "url": "https://open.spotify.com/album/5rYvsI7is4N4aNBb10K8ut"
       },
@@ -2822,7 +2968,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 375063,
       "name": "Marabunta",
       "url": "https://open.spotify.com/track/7Gj66OhPqcQYMTt1ZFqS2N"
@@ -3126,7 +3272,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 334143,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6uQPQ4r4q33CpiMWP2xlQo"
@@ -3324,10 +3470,28 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 371533,
       "name": "On Hold - Jamie xx Remix",
       "url": "https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj"
+    },
+    {
+      "album": {
+        "name": "One Moment",
+        "url": "https://open.spotify.com/album/43DNy0NyAXS603IPelGSTR"
+      },
+      "artists": [
+        {
+          "name": "Carloh",
+          "url": "https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345000,
+      "name": "One Moment",
+      "url": "https://open.spotify.com/track/6v29e9ZravvxVPW9ICCmIn"
     },
     {
       "album": {
@@ -3542,7 +3706,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 200826,
       "name": "Pleasure Peak",
       "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
@@ -3706,6 +3870,28 @@
       "duration_ms": 152380,
       "name": "Rhymorator",
       "url": "https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy"
+    },
+    {
+      "album": {
+        "name": "Rhythm Machine",
+        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Rhythm Machine",
+      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
     },
     {
       "album": {
@@ -3887,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "Save Our Ship (SOS)",
+        "url": "https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197169,
+      "name": "Save Our Ship (SOS)",
+      "url": "https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA"
+    },
+    {
+      "album": {
         "name": "Save Our Souls",
         "url": "https://open.spotify.com/album/5zkAMtK4Yf2tn4Mt8ZRqZ3"
       },
@@ -3924,7 +4128,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 150909,
       "name": "Say Ooh",
       "url": "https://open.spotify.com/track/6nC9nypRE2z0QASeCtyiVN"
@@ -4202,7 +4406,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
@@ -4220,7 +4424,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 221350,
       "name": "Speaker Freaker",
       "url": "https://open.spotify.com/track/5f2y5tmQpZULdL0hVmbv2G"
@@ -4600,7 +4804,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 167163,
       "name": "The Funk You Want",
       "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"
@@ -4702,7 +4906,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 167903,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
@@ -4980,7 +5184,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 198306,
       "name": "Walked In The Room",
       "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
@@ -5250,6 +5454,32 @@
       "duration_ms": 354647,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
+    },
+    {
+      "album": {
+        "name": "YoYo Disco (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0tDc609bhacST4RuXKBzxV"
+      },
+      "artists": [
+        {
+          "name": "Wolfram",
+          "url": "https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24"
+        },
+        {
+          "name": "Josh Ludlow",
+          "url": "https://open.spotify.com/artist/1LphufDWflOQPlEPW2oruD"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197437,
+      "name": "YoYo Disco - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/6Vu17xDve7915qFNPk2Wgm"
     },
     {
       "album": {

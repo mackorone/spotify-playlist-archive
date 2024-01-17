@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-281 songs - 18 hr 8 min
+283 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All Or Nothing At All](https://open.spotify.com/track/6f9Rtjg4i6dczqNnLwDlyl) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [All Or Nothing At All](https://open.spotify.com/album/1zjHNjfAn2SnYsmDiK48Ef) | 4:50 | 2023-03-09 |  |
 | [All To Soon](https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [All To Soon](https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi) | 4:13 | 2022-05-17 | 2022-12-24 |
 | [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 | 2021-12-14 | 2022-11-25 |
-| [Alone at Night](https://open.spotify.com/track/4HljpOZkfoUT97Ia7K3DFf) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [Alone at Night](https://open.spotify.com/album/4Ch9O6W16gFXTeL8FoGQGd) | 2:59 | 2022-04-01 |  |
+| [Alone at Night](https://open.spotify.com/track/4HljpOZkfoUT97Ia7K3DFf) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [Alone at Night](https://open.spotify.com/album/4Ch9O6W16gFXTeL8FoGQGd) | 2:59 | 2022-04-01 | 2024-01-05 |
 | [Alone Together](https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 7:34 | 2022-02-03 | 2022-08-18 |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-16 |  |
 | [Am I Blue](https://open.spotify.com/track/2H9sFbaD7lixr8KrsXdiLh) | [Jiggs Whigham](https://open.spotify.com/artist/3Bzlk4ZlefSEhybdIYWEyr) | [Values](https://open.spotify.com/album/0KY9p5iJxvyXP1ruqNuc7M) | 4:47 | 2021-12-14 | 2022-08-18 |
@@ -77,6 +77,7 @@
 | [Don't Blame Me](https://open.spotify.com/track/5BDOsVUha92UcNnDmZkWTR) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Don't Blame Me](https://open.spotify.com/album/2dfSee4b6Y0iOmiatGOceh) | 3:06 | 2023-04-13 |  |
 | [Doubtful](https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Doubtful](https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo) | 3:44 | 2023-05-25 |  |
 | [Dreamin'](https://open.spotify.com/track/6oJ3j2m4kCHpMZhOY5jx8d) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Catcher](https://open.spotify.com/album/2kUpjLxnQsEQ2wvzCw4Nsg) | 2:29 | 2021-12-14 | 2022-09-09 |
+| [Elegy](https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY) | [Buss Quartet](https://open.spotify.com/artist/1OfER2aiowHuG93YnU0w7I) | [Elegy](https://open.spotify.com/album/1hAhmAaCca1No1t1ZZcKHj) | 3:51 | 2024-01-12 |  |
 | [Embracable You](https://open.spotify.com/track/2vc6aQG10jrwwi2VGXXcfl) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 2:34 | 2021-12-14 |  |
 | [Eternity](https://open.spotify.com/track/3AxL4mOBBcz5vse4V7o7es) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity](https://open.spotify.com/album/0fFkT2IJK4lCPGKX8LGseX) | 3:38 | 2021-12-14 | 2023-11-24 |
 | [Evening Dance](https://open.spotify.com/track/2mWTB2ZKouAhTQruOpbyMA) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Evening Dance](https://open.spotify.com/album/02XU7xcCZKUiYUfV9fvaNV) | 3:35 | 2023-01-19 |  |
@@ -257,6 +258,7 @@
 | [Turn Out the Stars](https://open.spotify.com/track/70BXRAXtYxQdNQnkq6aljf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Turn Out the Stars](https://open.spotify.com/album/0uioB9VBjFggpQITMYMIeQ) | 3:23 | 2021-12-14 |  |
 | [Under the same roof](https://open.spotify.com/track/3IzCbEBNJV97OpSdjd6DwQ) | [Krista Lake Band](https://open.spotify.com/artist/3WVZp2cbKWXh2PzmQEOx9D) | [Old Habits](https://open.spotify.com/album/1fco2lBvgsVH2R0xsklBaZ) | 3:58 | 2021-12-14 |  |
 | [Une Histoire Flamande](https://open.spotify.com/track/0gbrsvaa2jjGBPaDCjBaIw) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Une Histoire Flamande](https://open.spotify.com/album/5FgTkk5OWzO0vyWiZHANLZ) | 3:26 | 2023-08-10 |  |
+| [Urban Jazz Chronicles](https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Urban Jazz Chronicles](https://open.spotify.com/album/3t43Otx3MUbxa0u6WLEKp0) | 3:41 | 2024-01-05 |  |
 | [Velvet](https://open.spotify.com/track/368cbpZzyCxc564UhTULxA) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Velvet](https://open.spotify.com/album/2gZMDsQHC8kPl0jRhe1651) | 4:32 | 2021-12-14 | 2022-07-29 |
 | [Velvet](https://open.spotify.com/track/27EA3eyGv6Scd80kEiTvB8) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:32 | 2022-06-29 |  |
 | [Vi drar till fjället](https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Vi drar till fjället](https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP) | 2:50 | 2022-09-13 |  |

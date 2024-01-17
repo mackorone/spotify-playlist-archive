@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "When You Close Your Eyes",
+        "url": "https://open.spotify.com/album/5uIyKPIeVpqZFAdQPgKSa3"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "And There You Were",
+      "url": "https://open.spotify.com/track/20PEqypL4QvFNf8vZrEujy"
+    },
+    {
+      "album": {
         "name": "And We Eternal",
         "url": "https://open.spotify.com/album/7LNpuu6rkVrWpQ4zZJ8ST5"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/6M7XzlMsertPBhysePSjhL"
@@ -470,6 +488,24 @@
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8"
+    },
+    {
+      "album": {
+        "name": "Waltzing You To Sleep",
+        "url": "https://open.spotify.com/album/1iq88GDKb5tTXkxQBOqdLD"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 144625,
+      "name": "And There You Were",
+      "url": "https://open.spotify.com/track/6lOa2U2zqcE8fwLtFnVgkz"
     },
     {
       "album": {
@@ -1859,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Falling snowflakes",
+        "url": "https://open.spotify.com/album/7sGJpnYzFIho21AHeV4Mvi"
+      },
+      "artists": [
+        {
+          "name": "Sean Oban",
+          "url": "https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Falling snowflakes",
+      "url": "https://open.spotify.com/track/6R5vB4wyl9VRds7qDu6Qau"
+    },
+    {
+      "album": {
         "name": "Far Away Lands",
         "url": "https://open.spotify.com/album/4sTwqQ9YDLigNpLqKFXiaM"
       },
@@ -1906,7 +1960,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 175284,
       "name": "Fiore",
       "url": "https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM"
@@ -6273,6 +6327,24 @@
     },
     {
       "album": {
+        "name": "Songs Of Sundown",
+        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132625,
+      "name": "Vesper",
+      "url": "https://open.spotify.com/track/2xYwDciPjfdqigoChxk14c"
+    },
+    {
+      "album": {
         "name": "When The Little Man Speaks",
         "url": "https://open.spotify.com/album/2R4egikVsWjpn0GhfqeeS7"
       },
@@ -6338,7 +6410,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 132625,
       "name": "Vesper",
       "url": "https://open.spotify.com/track/4jpTr7sbHfyNRbvbTD75VO"
@@ -6626,7 +6698,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 185687,
       "name": "Welkin",
       "url": "https://open.spotify.com/track/6eEpm85ZhjGfBTTV0dTbKn"
@@ -6954,7 +7026,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 146000,
       "name": "Your Heart Will Mend",
       "url": "https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK"

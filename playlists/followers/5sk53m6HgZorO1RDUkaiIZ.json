@@ -1,735 +1,3047 @@
 {
-  "2021-12-25": 8303,
-  "2021-12-26": 8302,
-  "2021-12-27": 8302,
-  "2021-12-28": 8302,
-  "2021-12-29": 8302,
-  "2021-12-30": 8302,
-  "2021-12-31": 8301,
-  "2022-01-01": 8300,
-  "2022-01-02": 8300,
-  "2022-01-03": 8300,
-  "2022-01-04": 8299,
-  "2022-01-05": 8299,
-  "2022-01-06": 8299,
-  "2022-01-07": 8299,
-  "2022-01-08": 8299,
-  "2022-01-09": 8299,
-  "2022-01-10": 8299,
-  "2022-01-11": 8299,
-  "2022-01-12": 8299,
-  "2022-01-13": 8299,
-  "2022-01-14": 8298,
-  "2022-01-15": 8296,
-  "2022-01-16": 8296,
-  "2022-01-17": 8293,
-  "2022-01-18": 8293,
-  "2022-01-19": 8293,
-  "2022-01-20": 8291,
-  "2022-01-21": 8291,
-  "2022-01-22": 8289,
-  "2022-01-23": 8288,
-  "2022-01-24": 8288,
-  "2022-01-25": 8286,
-  "2022-01-26": 8285,
-  "2022-01-27": 8286,
-  "2022-01-28": 8286,
-  "2022-01-29": 8286,
-  "2022-01-30": 8285,
-  "2022-01-31": 8285,
-  "2022-02-01": 8284,
-  "2022-02-02": 8283,
-  "2022-02-03": 8282,
-  "2022-02-04": 8281,
-  "2022-02-05": 8280,
-  "2022-02-06": 8280,
-  "2022-02-07": 8280,
-  "2022-02-08": 8279,
-  "2022-02-09": 8279,
-  "2022-02-10": 8278,
-  "2022-02-11": 8278,
-  "2022-02-12": 8277,
-  "2022-02-13": 8277,
-  "2022-02-14": 8277,
-  "2022-02-15": 8277,
-  "2022-02-16": 8277,
-  "2022-02-17": 8277,
-  "2022-02-18": 8277,
-  "2022-02-19": 8277,
-  "2022-02-20": 8277,
-  "2022-02-21": 8276,
-  "2022-02-22": 8276,
-  "2022-02-23": 8276,
-  "2022-02-24": 8276,
-  "2022-02-25": 8275,
-  "2022-02-26": 8275,
-  "2022-02-27": 8275,
-  "2022-02-28": 8275,
-  "2022-03-01": 8275,
-  "2022-03-02": 8276,
-  "2022-03-03": 8276,
-  "2022-03-04": 8276,
-  "2022-03-05": 8276,
-  "2022-03-06": 8275,
-  "2022-03-07": 8274,
-  "2022-03-08": 8274,
-  "2022-03-09": 8274,
-  "2022-03-10": 8273,
-  "2022-03-11": 8273,
-  "2022-03-12": 8270,
-  "2022-03-13": 8270,
-  "2022-03-14": 8270,
-  "2022-03-15": 8270,
-  "2022-03-16": 8270,
-  "2022-03-17": 8270,
-  "2022-03-18": 8268,
-  "2022-03-19": 8267,
-  "2022-03-20": 8267,
-  "2022-03-21": 8267,
-  "2022-03-22": 8267,
-  "2022-03-23": 8267,
-  "2022-03-24": 8267,
-  "2022-03-25": 8267,
-  "2022-03-26": 8267,
-  "2022-03-27": 8267,
-  "2022-03-28": 8266,
-  "2022-03-30": 8264,
-  "2022-03-31": 8263,
-  "2022-04-01": 8263,
-  "2022-04-02": 8262,
-  "2022-04-03": 8262,
-  "2022-04-04": 8262,
-  "2022-04-05": 8262,
-  "2022-04-06": 8261,
-  "2022-04-07": 8261,
-  "2022-04-08": 8262,
-  "2022-04-09": 8261,
-  "2022-04-10": 8261,
-  "2022-04-11": 8260,
-  "2022-04-12": 8260,
-  "2022-04-13": 8260,
-  "2022-04-14": 8260,
-  "2022-04-15": 8260,
-  "2022-04-16": 8260,
-  "2022-04-17": 8260,
-  "2022-04-18": 8260,
-  "2022-04-19": 8260,
-  "2022-04-20": 8260,
-  "2022-04-21": 8260,
-  "2022-04-22": 8260,
-  "2022-04-23": 8259,
-  "2022-04-24": 8259,
-  "2022-04-25": 8259,
-  "2022-04-26": 8259,
-  "2022-04-27": 8259,
-  "2022-04-28": 8259,
-  "2022-04-29": 8259,
-  "2022-04-30": 8259,
-  "2022-05-01": 8258,
-  "2022-05-02": 8258,
-  "2022-05-03": 8258,
-  "2022-05-04": 8258,
-  "2022-05-05": 8257,
-  "2022-05-06": 8255,
-  "2022-05-07": 8255,
-  "2022-05-08": 8254,
-  "2022-05-09": 8254,
-  "2022-05-10": 8254,
-  "2022-05-11": 8254,
-  "2022-05-12": 8253,
-  "2022-05-13": 8253,
-  "2022-05-14": 8251,
-  "2022-05-15": 8250,
-  "2022-05-16": 8250,
-  "2022-05-17": 8249,
-  "2022-05-18": 8248,
-  "2022-05-19": 8248,
-  "2022-05-20": 8248,
-  "2022-05-21": 8248,
-  "2022-05-22": 8248,
-  "2022-05-23": 8248,
-  "2022-05-24": 8247,
-  "2022-05-25": 8247,
-  "2022-05-26": 8247,
-  "2022-05-27": 8247,
-  "2022-05-28": 8247,
-  "2022-05-29": 8247,
-  "2022-05-30": 8247,
-  "2022-05-31": 8247,
-  "2022-06-01": 8247,
-  "2022-06-02": 8247,
-  "2022-06-03": 8247,
-  "2022-06-04": 8247,
-  "2022-06-05": 8247,
-  "2022-06-06": 8246,
-  "2022-06-07": 8245,
-  "2022-06-08": 8246,
-  "2022-06-09": 8246,
-  "2022-06-10": 8246,
-  "2022-06-11": 8246,
-  "2022-06-12": 8246,
-  "2022-06-13": 8246,
-  "2022-06-14": 8246,
-  "2022-06-15": 8246,
-  "2022-06-16": 8246,
-  "2022-06-17": 8246,
-  "2022-06-18": 8245,
-  "2022-06-19": 8244,
-  "2022-06-20": 8244,
-  "2022-06-21": 8244,
-  "2022-06-22": 8243,
-  "2022-06-23": 8243,
-  "2022-06-24": 8242,
-  "2022-06-25": 8242,
-  "2022-06-26": 8243,
-  "2022-06-27": 8243,
-  "2022-06-28": 8242,
-  "2022-06-29": 8242,
-  "2022-06-30": 8242,
-  "2022-07-01": 8241,
-  "2022-07-02": 8241,
-  "2022-07-03": 8241,
-  "2022-07-04": 8241,
-  "2022-07-05": 8241,
-  "2022-07-06": 8241,
-  "2022-07-07": 8240,
-  "2022-07-08": 8240,
-  "2022-07-09": 8239,
-  "2022-07-10": 8239,
-  "2022-07-11": 8238,
-  "2022-07-12": 8238,
-  "2022-07-13": 8238,
-  "2022-07-14": 8237,
-  "2022-07-15": 8236,
-  "2022-07-16": 8235,
-  "2022-07-17": 8235,
-  "2022-07-18": 8234,
-  "2022-07-19": 8234,
-  "2022-07-20": 8234,
-  "2022-07-21": 8235,
-  "2022-07-22": 8235,
-  "2022-07-23": 8233,
-  "2022-07-24": 8233,
-  "2022-07-25": 8233,
-  "2022-07-26": 8233,
-  "2022-07-27": 8233,
-  "2022-07-28": 8232,
-  "2022-07-29": 8232,
-  "2022-07-30": 8232,
-  "2022-07-31": 8232,
-  "2022-08-01": 8232,
-  "2022-08-02": 8231,
-  "2022-08-03": 8231,
-  "2022-08-04": 8231,
-  "2022-08-05": 8231,
-  "2022-08-06": 8230,
-  "2022-08-07": 8230,
-  "2022-08-08": 8229,
-  "2022-08-09": 8229,
-  "2022-08-10": 8229,
-  "2022-08-11": 8228,
-  "2022-08-12": 8227,
-  "2022-08-13": 8227,
-  "2022-08-14": 8227,
-  "2022-08-15": 8226,
-  "2022-08-16": 8225,
-  "2022-08-17": 8225,
-  "2022-08-18": 8225,
-  "2022-08-19": 8225,
-  "2022-08-20": 8225,
-  "2022-08-21": 8222,
-  "2022-08-22": 8222,
-  "2022-08-23": 8222,
-  "2022-08-24": 8222,
-  "2022-08-25": 8222,
-  "2022-08-26": 8222,
-  "2022-08-27": 8222,
-  "2022-08-28": 8222,
-  "2022-08-29": 8222,
-  "2022-08-30": 8222,
-  "2022-08-31": 8222,
-  "2022-09-01": 8220,
-  "2022-09-02": 8221,
-  "2022-09-03": 8221,
-  "2022-09-04": 8221,
-  "2022-09-05": 8221,
-  "2022-09-06": 8221,
-  "2022-09-07": 8221,
-  "2022-09-09": 8221,
-  "2022-09-10": 8221,
-  "2022-09-11": 8221,
-  "2022-09-12": 8221,
-  "2022-09-13": 8221,
-  "2022-09-15": 8220,
-  "2022-09-16": 8220,
-  "2022-09-17": 8220,
-  "2022-09-18": 8220,
-  "2022-09-19": 8220,
-  "2022-09-20": 8220,
-  "2022-09-21": 8220,
-  "2022-09-22": 8220,
-  "2022-09-23": 8220,
-  "2022-09-24": 8220,
-  "2022-09-25": 8220,
-  "2022-09-26": 8220,
-  "2022-09-27": 8219,
-  "2022-09-28": 8219,
-  "2022-09-29": 8220,
-  "2022-09-30": 8219,
-  "2022-10-01": 8219,
-  "2022-10-02": 8219,
-  "2022-10-03": 8219,
-  "2022-10-04": 8219,
-  "2022-10-05": 8219,
-  "2022-10-06": 8219,
-  "2022-10-07": 8219,
-  "2022-10-08": 8219,
-  "2022-10-09": 8219,
-  "2022-10-10": 8219,
-  "2022-10-11": 8219,
-  "2022-10-12": 8219,
-  "2022-10-13": 8219,
-  "2022-10-14": 8219,
-  "2022-10-15": 8219,
-  "2022-10-16": 8219,
-  "2022-10-17": 8219,
-  "2022-10-18": 8219,
-  "2022-10-19": 8219,
-  "2022-10-20": 8219,
-  "2022-10-21": 8218,
-  "2022-10-22": 8217,
-  "2022-10-23": 8216,
-  "2022-10-24": 8215,
-  "2022-10-25": 8215,
-  "2022-10-26": 8215,
-  "2022-10-27": 8215,
-  "2022-10-28": 8214,
-  "2022-10-29": 8213,
-  "2022-10-30": 8213,
-  "2022-10-31": 8213,
-  "2022-11-01": 8213,
-  "2022-11-02": 8213,
-  "2022-11-03": 8212,
-  "2022-11-04": 8212,
-  "2022-11-05": 8210,
-  "2022-11-06": 8207,
-  "2022-11-07": 8206,
-  "2022-11-08": 8206,
-  "2022-11-09": 8206,
-  "2022-11-10": 8208,
-  "2022-11-11": 8207,
-  "2022-11-12": 8207,
-  "2022-11-13": 8206,
-  "2022-11-14": 8206,
-  "2022-11-15": 8205,
-  "2022-11-16": 8205,
-  "2022-11-17": 8204,
-  "2022-11-18": 8202,
-  "2022-11-19": 8199,
-  "2022-11-20": 8198,
-  "2022-11-21": 8198,
-  "2022-11-22": 8198,
-  "2022-11-23": 8198,
-  "2022-11-24": 8198,
-  "2022-11-25": 8198,
-  "2022-11-26": 8198,
-  "2022-11-27": 8196,
-  "2022-11-28": 8196,
-  "2022-11-29": 8196,
-  "2022-11-30": 8196,
-  "2022-12-01": 8195,
-  "2022-12-02": 8195,
-  "2022-12-03": 8195,
-  "2022-12-04": 8195,
-  "2022-12-05": 8195,
-  "2022-12-06": 8195,
-  "2022-12-07": 8195,
-  "2022-12-08": 8195,
-  "2022-12-09": 8195,
-  "2022-12-10": 8195,
-  "2022-12-11": 8194,
-  "2022-12-12": 8194,
-  "2022-12-13": 8193,
-  "2022-12-14": 8193,
-  "2022-12-15": 8192,
-  "2022-12-16": 8190,
-  "2022-12-17": 8190,
-  "2022-12-18": 8190,
-  "2022-12-19": 8190,
-  "2022-12-20": 8189,
-  "2022-12-21": 8189,
-  "2022-12-22": 8189,
-  "2022-12-24": 8189,
-  "2022-12-25": 8189,
-  "2022-12-26": 8189,
-  "2022-12-27": 8189,
-  "2022-12-28": 8189,
-  "2022-12-29": 8189,
-  "2022-12-30": 8188,
-  "2022-12-31": 8188,
-  "2023-01-01": 8188,
-  "2023-01-02": 8188,
-  "2023-01-03": 8187,
-  "2023-01-04": 8187,
-  "2023-01-05": 8186,
-  "2023-01-06": 8186,
-  "2023-01-07": 8184,
-  "2023-01-08": 8184,
-  "2023-01-09": 8184,
-  "2023-01-10": 8183,
-  "2023-01-11": 8183,
-  "2023-01-12": 8183,
-  "2023-01-13": 8183,
-  "2023-01-14": 8183,
-  "2023-01-15": 8183,
-  "2023-01-16": 8182,
-  "2023-01-17": 8181,
-  "2023-01-18": 8179,
-  "2023-01-19": 8178,
-  "2023-01-20": 8177,
-  "2023-01-21": 8177,
-  "2023-01-22": 8177,
-  "2023-01-23": 8177,
-  "2023-01-24": 8177,
-  "2023-01-25": 8176,
-  "2023-01-26": 8175,
-  "2023-01-27": 8174,
-  "2023-01-28": 8174,
-  "2023-01-29": 8173,
-  "2023-01-30": 8173,
-  "2023-01-31": 8173,
-  "2023-02-01": 8172,
-  "2023-02-02": 8171,
-  "2023-02-03": 8170,
-  "2023-02-04": 8168,
-  "2023-02-05": 8168,
-  "2023-02-06": 8168,
-  "2023-02-07": 8168,
-  "2023-02-08": 8168,
-  "2023-02-09": 8168,
-  "2023-02-10": 8168,
-  "2023-02-11": 8168,
-  "2023-02-12": 8168,
-  "2023-02-13": 8168,
-  "2023-02-14": 8168,
-  "2023-02-15": 8167,
-  "2023-02-16": 8167,
-  "2023-02-17": 8167,
-  "2023-02-18": 8166,
-  "2023-02-19": 8166,
-  "2023-02-20": 8166,
-  "2023-02-21": 8166,
-  "2023-02-22": 8165,
-  "2023-02-23": 8165,
-  "2023-02-24": 8164,
-  "2023-02-25": 8162,
-  "2023-02-26": 8162,
-  "2023-02-27": 8161,
-  "2023-02-28": 8161,
-  "2023-03-01": 8160,
-  "2023-03-02": 8160,
-  "2023-03-03": 8160,
-  "2023-03-04": 8160,
-  "2023-03-05": 8158,
-  "2023-03-06": 8158,
-  "2023-03-07": 8158,
-  "2023-03-08": 8159,
-  "2023-03-09": 8159,
-  "2023-03-10": 8159,
-  "2023-03-11": 8158,
-  "2023-03-12": 8158,
-  "2023-03-13": 8158,
-  "2023-03-14": 8157,
-  "2023-03-15": 8156,
-  "2023-03-16": 8156,
-  "2023-03-17": 8156,
-  "2023-03-18": 8156,
-  "2023-03-19": 8156,
-  "2023-03-20": 8156,
-  "2023-03-21": 8155,
-  "2023-03-22": 8155,
-  "2023-03-23": 8155,
-  "2023-03-24": 8155,
-  "2023-03-25": 8154,
-  "2023-03-26": 8154,
-  "2023-03-27": 8154,
-  "2023-03-28": 8154,
-  "2023-03-29": 8154,
-  "2023-03-30": 8153,
-  "2023-03-31": 8153,
-  "2023-04-01": 8152,
-  "2023-04-02": 8152,
-  "2023-04-03": 8152,
-  "2023-04-04": 8152,
-  "2023-04-05": 8152,
-  "2023-04-06": 8152,
-  "2023-04-07": 8152,
-  "2023-04-09": 8151,
-  "2023-04-10": 8151,
-  "2023-04-11": 8151,
-  "2023-04-12": 8151,
-  "2023-04-13": 8151,
-  "2023-04-14": 8150,
-  "2023-04-15": 8150,
-  "2023-04-16": 8150,
-  "2023-04-17": 8150,
-  "2023-04-18": 8150,
-  "2023-04-19": 8150,
-  "2023-04-20": 8150,
-  "2023-04-21": 8150,
-  "2023-04-22": 8150,
-  "2023-04-23": 8149,
-  "2023-04-24": 8149,
-  "2023-04-25": 8148,
-  "2023-04-26": 8148,
-  "2023-04-27": 8148,
-  "2023-04-28": 8148,
-  "2023-04-29": 8148,
-  "2023-04-30": 8147,
-  "2023-05-01": 8147,
-  "2023-05-02": 8147,
-  "2023-05-03": 8147,
-  "2023-05-04": 8146,
-  "2023-05-05": 8145,
-  "2023-05-06": 8145,
-  "2023-05-07": 8145,
-  "2023-05-08": 8145,
-  "2023-05-09": 8145,
-  "2023-05-10": 8145,
-  "2023-05-11": 8145,
-  "2023-05-12": 8144,
-  "2023-05-13": 8143,
-  "2023-05-14": 8143,
-  "2023-05-15": 8142,
-  "2023-05-16": 8142,
-  "2023-05-17": 8142,
-  "2023-05-18": 8142,
-  "2023-05-19": 8142,
-  "2023-05-20": 8142,
-  "2023-05-21": 8142,
-  "2023-05-22": 8142,
-  "2023-05-23": 8142,
-  "2023-05-24": 8142,
-  "2023-05-25": 8141,
-  "2023-05-26": 8141,
-  "2023-05-27": 8140,
-  "2023-05-28": 8140,
-  "2023-05-29": 8140,
-  "2023-05-30": 8140,
-  "2023-05-31": 8140,
-  "2023-06-01": 8140,
-  "2023-06-02": 8140,
-  "2023-06-03": 8140,
-  "2023-06-04": 8140,
-  "2023-06-05": 8139,
-  "2023-06-06": 8139,
-  "2023-06-07": 8139,
-  "2023-06-08": 8139,
-  "2023-06-09": 8139,
-  "2023-06-10": 8139,
-  "2023-06-11": 8139,
-  "2023-06-12": 8139,
-  "2023-06-13": 8139,
-  "2023-06-14": 8139,
-  "2023-06-15": 8139,
-  "2023-06-16": 8139,
-  "2023-06-17": 8139,
-  "2023-06-18": 8139,
-  "2023-06-19": 8138,
-  "2023-06-20": 8138,
-  "2023-06-21": 8138,
-  "2023-06-22": 8138,
-  "2023-06-23": 8138,
-  "2023-06-24": 8137,
-  "2023-06-25": 8137,
-  "2023-06-26": 8137,
-  "2023-06-27": 8137,
-  "2023-06-28": 8136,
-  "2023-06-29": 8136,
-  "2023-06-30": 8136,
-  "2023-07-01": 8135,
-  "2023-07-02": 8135,
-  "2023-07-03": 8135,
-  "2023-07-04": 8135,
-  "2023-07-05": 8135,
-  "2023-07-06": 8134,
-  "2023-07-07": 8134,
-  "2023-07-08": 8134,
-  "2023-07-09": 8133,
-  "2023-07-10": 8133,
-  "2023-07-11": 8132,
-  "2023-07-12": 8132,
-  "2023-07-13": 8132,
-  "2023-07-14": 8132,
-  "2023-07-15": 8132,
-  "2023-07-16": 8132,
-  "2023-07-17": 8132,
-  "2023-07-18": 8131,
-  "2023-07-19": 8131,
-  "2023-07-20": 8131,
-  "2023-07-21": 8131,
-  "2023-07-22": 8130,
-  "2023-07-23": 8130,
-  "2023-07-24": 8129,
-  "2023-07-25": 8129,
-  "2023-07-26": 8129,
-  "2023-07-27": 8129,
-  "2023-07-28": 8129,
-  "2023-07-29": 8129,
-  "2023-07-30": 8129,
-  "2023-07-31": 8128,
-  "2023-08-01": 8127,
-  "2023-08-02": 8126,
-  "2023-08-03": 8126,
-  "2023-08-04": 8126,
-  "2023-08-05": 8126,
-  "2023-08-06": 8126,
-  "2023-08-07": 8126,
-  "2023-08-08": 8126,
-  "2023-08-09": 8124,
-  "2023-08-10": 8124,
-  "2023-08-11": 8124,
-  "2023-08-12": 8124,
-  "2023-08-13": 8124,
-  "2023-08-14": 8124,
-  "2023-08-15": 8124,
-  "2023-08-16": 8124,
-  "2023-08-17": 8124,
-  "2023-08-18": 8124,
-  "2023-08-19": 8124,
-  "2023-08-20": 8123,
-  "2023-08-21": 8123,
-  "2023-08-22": 8123,
-  "2023-08-23": 8123,
-  "2023-08-24": 8123,
-  "2023-08-25": 8123,
-  "2023-08-26": 8123,
-  "2023-08-27": 8123,
-  "2023-08-28": 8122,
-  "2023-08-29": 8122,
-  "2023-08-30": 8122,
-  "2023-08-31": 8122,
-  "2023-09-01": 8122,
-  "2023-09-02": 8122,
-  "2023-09-03": 8122,
-  "2023-09-04": 8122,
-  "2023-09-05": 8122,
-  "2023-09-06": 8122,
-  "2023-09-07": 8122,
-  "2023-09-08": 8122,
-  "2023-09-09": 8122,
-  "2023-09-10": 8122,
-  "2023-09-11": 8122,
-  "2023-09-12": 8122,
-  "2023-09-13": 8122,
-  "2023-09-14": 8122,
-  "2023-09-15": 8122,
-  "2023-09-16": 8122,
-  "2023-09-17": 8122,
-  "2023-09-18": 8122,
-  "2023-09-19": 8122,
-  "2023-09-20": 8122,
-  "2023-09-21": 8122,
-  "2023-09-22": 8122,
-  "2023-09-23": 8122,
-  "2023-09-24": 8122,
-  "2023-09-25": 8122,
-  "2023-09-26": 8115,
-  "2023-09-27": 8115,
-  "2023-09-28": 8115,
-  "2023-09-29": 8115,
-  "2023-09-30": 8115,
-  "2023-10-01": 8115,
-  "2023-10-02": 8115,
-  "2023-10-03": 8115,
-  "2023-10-04": 8115,
-  "2023-10-05": 8115,
-  "2023-10-06": 8115,
-  "2023-10-07": 8115,
-  "2023-10-08": 8115,
-  "2023-10-09": 8115,
-  "2023-10-10": 8115,
-  "2023-10-11": 8115,
-  "2023-10-12": 8115,
-  "2023-10-13": 8115,
-  "2023-10-14": 8115,
-  "2023-10-15": 8115,
-  "2023-10-16": 8115,
-  "2023-10-17": 8115,
-  "2023-10-18": 8115,
-  "2023-10-19": 8115,
-  "2023-10-20": 8115,
-  "2023-10-21": 8115,
-  "2023-10-22": 8115,
-  "2023-10-23": 8115,
-  "2023-10-24": 8115,
-  "2023-10-25": 8115,
-  "2023-10-26": 8115,
-  "2023-10-27": 8115,
-  "2023-10-28": 8115,
-  "2023-10-29": 8115,
-  "2023-10-30": 8115,
-  "2023-10-31": 8115,
-  "2023-11-01": 8115,
-  "2023-11-02": 8115,
-  "2023-11-03": 8115,
-  "2023-11-04": 8115,
-  "2023-11-05": 8115,
-  "2023-11-06": 8115,
-  "2023-11-07": 8115,
-  "2023-11-08": 8115,
-  "2023-11-09": 8115,
-  "2023-11-10": 8115,
-  "2023-11-11": 8115,
-  "2023-11-12": 8115,
-  "2023-11-13": 8115,
-  "2023-11-14": 8115,
-  "2023-11-15": 8115,
-  "2023-11-16": 8115,
-  "2023-11-17": 8115,
-  "2023-11-18": 8115,
-  "2023-11-19": 8115,
-  "2023-11-20": 8115,
-  "2023-11-21": 8115,
-  "2023-11-22": 8115,
-  "2023-11-23": 8115,
-  "2023-11-24": 8115,
-  "2023-11-25": 8115,
-  "2023-11-26": 8115,
-  "2023-11-27": 8115,
-  "2023-11-28": 8115,
-  "2023-11-29": 8115,
-  "2023-11-30": 8115,
-  "2023-12-01": 8115,
-  "2023-12-02": 8115,
-  "2023-12-03": 8115,
-  "2023-12-04": 8115,
-  "2023-12-05": 8115,
-  "2023-12-06": 8115,
-  "2023-12-07": 8115,
-  "2023-12-08": 8115,
-  "2023-12-09": 8115,
-  "2023-12-10": 8115,
-  "2023-12-11": 8115,
-  "2023-12-12": 8115,
-  "2023-12-13": 8115,
-  "2023-12-14": 8062,
-  "2023-12-15": 8062,
-  "2023-12-16": 8061,
-  "2023-12-17": 8060,
-  "2023-12-18": 8060,
-  "2023-12-19": 8060,
-  "2023-12-20": 8060,
-  "2023-12-21": 8060,
-  "2023-12-22": 8060,
-  "2023-12-23": 8060,
-  "2023-12-24": 8060,
-  "2023-12-25": 8060,
-  "2023-12-26": 8060,
-  "2023-12-27": 8060,
-  "2023-12-30": 8059,
-  "2023-12-31": 8059,
-  "2024-01-01": 8059,
-  "2024-01-02": 8059,
-  "2024-01-03": 8059
+  "2024-01-17": 8035,
+  "date_first_scraped": "2021-12-21",
+  "description": "All confirmed artists at the Br\u00e5valla Festival 2017! June 28th - July 1st, Norrk\u00f6ping, Sweden. <a href=\"http://www.bravallafestival.se/\">www.bravallafestival.se</a>",
+  "name": "The official Br\u00e5valla Festival playlist 2017",
+  "tracks": [
+    {
+      "album": {
+        "name": "Vi \u00e4r m\u00e4nniskorna v\u00e5ra f\u00f6r\u00e4ldrar varnade oss f\u00f6r",
+        "url": "https://open.spotify.com/album/22kZ6nln10bP8RaZcq1i0E"
+      },
+      "artists": [
+        {
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "22",
+      "url": "https://open.spotify.com/track/3e9GV5ChDzEe8e5EqCHVnQ"
+    },
+    {
+      "album": {
+        "name": "5 fine fr\u00f8kner",
+        "url": "https://open.spotify.com/album/1tcEU0kvRx18KwP4qnVvHj"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "5 fine fr\u00f8kner",
+      "url": "https://open.spotify.com/track/2tFgv3sLFNc088KLtjxzVa"
+    },
+    {
+      "album": {
+        "name": "All I Wanna Do",
+        "url": "https://open.spotify.com/album/5iTIgNz59Z4j1wtX0I29z8"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/0BiGd2FNDQ0eh79ZHfp6tS"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre - Tolkningarna",
+        "url": "https://open.spotify.com/album/6s0TKDaBevGiKQKob1dNBo"
+      },
+      "artists": [
+        {
+          "name": "Little Jinder",
+          "url": "https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0"
+        }
+      ],
+      "date_added": "2017-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185946,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/0H3cy9U5qZWhrO5bYunEIL"
+    },
+    {
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262693,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq"
+    },
+    {
+      "album": {
+        "name": "Young as the Morning Old as the Sea (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MRC1VH6UnmiDFMvalRV68"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216206,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/2LYN8JZ2dec6wReOsB5XFo"
+    },
+    {
+      "album": {
+        "name": "Another Year Of Disaster",
+        "url": "https://open.spotify.com/album/4n98vGUQwWCoycMS631aZZ"
+      },
+      "artists": [
+        {
+          "name": "Adept",
+          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311066,
+      "name": "At Least Give Me My Dreams Back, You Negligent Whore!",
+      "url": "https://open.spotify.com/track/3RPJstcGqIqyTxFU2OArl9"
+    },
+    {
+      "album": {
+        "name": "Mezmerize",
+        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "B.Y.O.B.",
+      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
+    },
+    {
+      "album": {
+        "name": "Back Home (Radio Edit)",
+        "url": "https://open.spotify.com/album/3KaqkwF6GmbVdnHAC6cLpw"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207049,
+      "name": "Back Home - Radio Edit",
+      "url": "https://open.spotify.com/track/0ogDwM5qVLnAg9IHTUurps"
+    },
+    {
+      "album": {
+        "name": "Kristaller",
+        "url": "https://open.spotify.com/album/4sVpJJTw1dKDGlTprOvafq"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214887,
+      "name": "Bara F\u00e5 Va Mig Sj\u00e4lv",
+      "url": "https://open.spotify.com/track/2FnUyLhe7sjXgnZlK9sc0z"
+    },
+    {
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/4yQ3lsX2CZRbukZ6QHs1eX"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269233,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/68XQwuLFhzaV0ThuDv2I54"
+    },
+    {
+      "album": {
+        "name": "Gang Signs & Prayer",
+        "url": "https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2017-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238418,
+      "name": "Big For Your Boots",
+      "url": "https://open.spotify.com/track/3uMB82o0qa7erhiZBW9KQC"
+    },
+    {
+      "album": {
+        "name": "SremmLife 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5gyYLXgAcJoZrFgsmzA4MM"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291893,
+      "name": "Black Beatles",
+      "url": "https://open.spotify.com/track/21xJVN5wEbJogczYxfZhqR"
+    },
+    {
+      "album": {
+        "name": "Black Car/GAME",
+        "url": "https://open.spotify.com/album/5hJoPlCl0jOWCrqZTUAxPN"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2017-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/5TYH3jUG7s5JQmAs703N6v"
+    },
+    {
+      "album": {
+        "name": "Aelita",
+        "url": "https://open.spotify.com/album/6sb8GVIsRAHSlnWMN0xmK2"
+      },
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "Black Saturday",
+      "url": "https://open.spotify.com/track/2utvkwCbFL2LNTOXjviHf6"
+    },
+    {
+      "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/7pbD8A7vxppvJcIMYl9GJQ"
+      },
+      "artists": [
+        {
+          "name": "Adept",
+          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328461,
+      "name": "Black Veins",
+      "url": "https://open.spotify.com/track/39pw0Qlx6ejnjdaLGPt3k4"
+    },
+    {
+      "album": {
+        "name": "D\u00f6dliga Klassiker",
+        "url": "https://open.spotify.com/album/1q2lHqEOV6vYkmVcXfTmux"
+      },
+      "artists": [
+        {
+          "name": "bob hund",
+          "url": "https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx"
+        },
+        {
+          "name": "Popkollo",
+          "url": "https://open.spotify.com/artist/2i0UpK9eM0EnrVZzPfEpbo"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281560,
+      "name": "Blommor p\u00e5 brinnande fartyg",
+      "url": "https://open.spotify.com/track/2bg9KbV0joLSq3T8kZeVGd"
+    },
+    {
+      "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/5GD14yssQzKctqWzHWaFws"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209615,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/1qBVIqIYRqVlcKLncbuvEb"
+    },
+    {
+      "album": {
+        "name": "Bullets",
+        "url": "https://open.spotify.com/album/62YfOSgu9MDGVOuWcSm2Bn"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175520,
+      "name": "Bullets",
+      "url": "https://open.spotify.com/track/28FmVrFsjZsNjynjFteDA6"
+    },
+    {
+      "album": {
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230253,
+      "name": "BURN IT DOWN",
+      "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
+    },
+    {
+      "album": {
+        "name": "Can't Take It",
+        "url": "https://open.spotify.com/album/36EjQsH9PBdS4bKUX1dDJr"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "CADE",
+          "url": "https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185170,
+      "name": "Can't Take It",
+      "url": "https://open.spotify.com/track/5IiDjZUj8S6oLAxcsQjfTI"
+    },
+    {
+      "album": {
+        "name": "Careful",
+        "url": "https://open.spotify.com/album/19Qdple2TzJtbVK2EOro3H"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Eli",
+          "url": "https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj"
+        }
+      ],
+      "date_added": "2017-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Careful",
+      "url": "https://open.spotify.com/track/31eo221O5kkyaX5YaanAX1"
+    },
+    {
+      "album": {
+        "name": "Carolus Rex (Bonus Version)",
+        "url": "https://open.spotify.com/album/0g4vxW6we9OmhZecZOxOEF"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293826,
+      "name": "Carolus Rex",
+      "url": "https://open.spotify.com/track/6imjjOJ63SnfvbYTARjyqz"
+    },
+    {
+      "album": {
+        "name": "Mariner",
+        "url": "https://open.spotify.com/album/7Gys3aNZTqk5o0bXqcMZwv"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        },
+        {
+          "name": "Julie Christmas",
+          "url": "https://open.spotify.com/artist/4rHZDNrVu2XkdO7eysOHei"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533840,
+      "name": "Chevron",
+      "url": "https://open.spotify.com/track/4ABO6X3vc2Y6QFFT6YPjgU"
+    },
+    {
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/4DR0GWo7w2GJyQnFVa4jAB"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "Chop Suey!",
+      "url": "https://open.spotify.com/track/5V3mdRI2yQxbSsJGDPc5lD"
+    },
+    {
+      "album": {
+        "name": "Gang Signs & Prayer",
+        "url": "https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2017-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349583,
+      "name": "Cigarettes & Cush (feat. Kehlani & Lily Allen)",
+      "url": "https://open.spotify.com/track/7MhomISA7KRK6U7KzeV06v"
+    },
+    {
+      "album": {
+        "name": "Raise & Revolt",
+        "url": "https://open.spotify.com/album/4c34VLWSkCUFTOfPCqAvfM"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "date_added": "2017-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170993,
+      "name": "Circus Circus - Radio Edit",
+      "url": "https://open.spotify.com/track/0NKm4lruTqN714pOVgtdaW"
+    },
+    {
+      "album": {
+        "name": "City Of Dreams",
+        "url": "https://open.spotify.com/album/3WjpPZGNcRx1aEZdESXt7C"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ruben Haze",
+          "url": "https://open.spotify.com/artist/5nkzSFYwr8GJcwHT6vbbYL"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "City Of Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/5YHmAO5OSZqyvs0X9O3hEK"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244960,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "album": {
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/1kxDY7IJjRHX3dpQTvFUmS"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249499,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6w4LIVTA1966CdmIo0yG4x"
+    },
+    {
+      "album": {
+        "name": "V\u00e4lkommen till M\u00e5ngata",
+        "url": "https://open.spotify.com/album/2uKnkD12nXXKBxc9hCBTfG"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        }
+      ],
+      "date_added": "2017-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221973,
+      "name": "Cornflakes i s\u00e4ngen",
+      "url": "https://open.spotify.com/track/5dquq0swFDe85G7SDrVFSW"
+    },
+    {
+      "album": {
+        "name": "Frost God",
+        "url": "https://open.spotify.com/album/6Qj9L5tOFscNgKwi0Ab0TT"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2017-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245840,
+      "name": "Crystal City",
+      "url": "https://open.spotify.com/track/6Yqzw3U3RYFtIu9YnI1Ugj"
+    },
+    {
+      "album": {
+        "name": "Dance With Somebody",
+        "url": "https://open.spotify.com/album/70SU26JhKJ8YrSjWiTMWB8"
+      },
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "Dance With Somebody - Radio Version",
+      "url": "https://open.spotify.com/track/75lONKZNhv4bvUxiwzKxIc"
+    },
+    {
+      "album": {
+        "name": "Singles and Selected",
+        "url": "https://open.spotify.com/album/1GsKpPr6FmbteyXxOHHFdZ"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169018,
+      "name": "Dancing the Whole Way Home",
+      "url": "https://open.spotify.com/track/67tmclJQToXoCjiDCm43Jg"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305350,
+      "name": "Dang! (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+    },
+    {
+      "album": {
+        "name": "Derp",
+        "url": "https://open.spotify.com/album/4xmhpkYILmNpI483HP3wxl"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279374,
+      "name": "Derp",
+      "url": "https://open.spotify.com/track/4nrK0G6pOEuhMxn3hAaava"
+    },
+    {
+      "album": {
+        "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
+        "url": "https://open.spotify.com/album/4y7g9dQcKkmBBNtMYhHxQs"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2017-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267106,
+      "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
+      "url": "https://open.spotify.com/track/3SjXx3rbNGk8nCho8YEoz5"
+    },
+    {
+      "album": {
+        "name": "Devil on Hwy 9",
+        "url": "https://open.spotify.com/album/7q2YRcfvP0cJD9FOE5iQx5"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "date_added": "2017-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Devil on Hwy 9",
+      "url": "https://open.spotify.com/track/5JMHpG3up285TYa2Kq1KaT"
+    },
+    {
+      "album": {
+        "name": "Alla v\u00e5ra l\u00e5tar",
+        "url": "https://open.spotify.com/album/3NzSI2UfbRLuz6oSxvJrvx"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220040,
+      "name": "Din Idiot",
+      "url": "https://open.spotify.com/track/1gFZDb5kvPayobaRnCiytK"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/5N6BUFEAqwbVB1aiXBaElt"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        },
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201126,
+      "name": "Dive (feat. Enya and Alex Aris)",
+      "url": "https://open.spotify.com/track/6eEZH8Y3lgmILNqt6SP1Xn"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208373,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
+    },
+    {
+      "album": {
+        "name": "Don't Look Down (feat. Usher)",
+        "url": "https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223139,
+      "name": "Don't Look Down (feat. Usher)",
+      "url": "https://open.spotify.com/track/5M9jOReAKGZ2AttVefFjTY"
+    },
+    {
+      "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/3icV0CcTn06lARfp0CHCdS"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2017-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192946,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/05SRJ4mfEVZWdsLwBRD60G"
+    },
+    {
+      "album": {
+        "name": "Du g\u00e5r fri",
+        "url": "https://open.spotify.com/album/59b755841ri8hOJ2TAvJwu"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "date_added": "2017-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225152,
+      "name": "Du g\u00e5r fri",
+      "url": "https://open.spotify.com/track/3zTT7bMB5IYmJv2T8nvLwd"
+    },
+    {
+      "album": {
+        "name": "Dying For You (feat. Alex Aris)",
+        "url": "https://open.spotify.com/album/25a4dxbFd1fAZBM1pGceY1"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198970,
+      "name": "Dying for You (feat. Alex Aris) - Radio Edit",
+      "url": "https://open.spotify.com/track/59A6lBd9QmcD8rQTZPj1xD"
+    },
+    {
+      "album": {
+        "name": "Dynamite (feat. Pretty Sister)",
+        "url": "https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ"
+      },
+      "artists": [
+        {
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
+        },
+        {
+          "name": "Pretty Sister",
+          "url": "https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Dynamite (feat. Pretty Sister)",
+      "url": "https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg"
+    },
+    {
+      "album": {
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ"
+      },
+      "artists": [
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/23pZgY01lBlbwGyLIqZHt1"
+    },
+    {
+      "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/7xKccZreZrTbXydacX88hl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/6grsbjkrl7DN6waueAmNbm"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/2Sos0K5ZWM5EVCrzTli50A"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2017-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202438,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/6csAplSqJaGTuWtWJwEPOe"
+    },
+    {
+      "album": {
+        "name": "Here Today Gone Tomorrow",
+        "url": "https://open.spotify.com/album/6DdtJwuspKZtOw6qKt0tBy"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313084,
+      "name": "Facing The Sun",
+      "url": "https://open.spotify.com/track/2KOwLGewgXiF7hoOoprR8D"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0aoPXd30dX02Jm9FkDgWUE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2017-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202313,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3d9JucRI60arArgQXqtfjJ"
+    },
+    {
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2017-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193511,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
+    },
+    {
+      "album": {
+        "name": "FLAGS!",
+        "url": "https://open.spotify.com/album/6yKmUzuAUWC04thsWPHfOZ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "LIOHN",
+          "url": "https://open.spotify.com/artist/44HW6eRUCYQKCCuUYoc5CQ"
+        },
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "FLAGS!",
+      "url": "https://open.spotify.com/track/1e64FgGi3ADV9YHlPpYhUY"
+    },
+    {
+      "album": {
+        "name": "Veil Of Ignorance",
+        "url": "https://open.spotify.com/album/484lz6QLeD1U3rICSF8P5H"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "Friends & Traitors",
+      "url": "https://open.spotify.com/track/0o700FqVYCvzdCYXxfX92m"
+    },
+    {
+      "album": {
+        "name": "F\u00f6r Evigt",
+        "url": "https://open.spotify.com/album/66gGBaMEf92Tt8mPpGxTMx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Marlene",
+          "url": "https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl"
+        }
+      ],
+      "date_added": "2017-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203937,
+      "name": "F\u00f6r Evigt",
+      "url": "https://open.spotify.com/track/14xZtVbG1Ue1Bv8fbVVSl5"
+    },
+    {
+      "album": {
+        "name": "Gecko (Overdrive) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165440,
+      "name": "Gecko (Overdrive) - Radio Edit",
+      "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
+    },
+    {
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/200Cu6e5ICojEoT3ooNTod"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2017-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192590,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/59u7cajBrJ87LYymeHWn2G"
+    },
+    {
+      "album": {
+        "name": "Die Another Day",
+        "url": "https://open.spotify.com/album/0iRoxFYM88dGcdc1zVWo60"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Eli",
+          "url": "https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj"
+        }
+      ],
+      "date_added": "2017-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/0MxBQqV3C815arNjQneuPp"
+    },
+    {
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/0EEYxAUT2e2svHLaoUSnIN"
+      },
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
+        }
+      ],
+      "date_added": "2017-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215794,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/4Sad3qjDAq2RySOpYK4RzB"
+    },
+    {
+      "album": {
+        "name": "Gr\u00e5zon",
+        "url": "https://open.spotify.com/album/1swFxPgJeIwWuV27RT1M3q"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2017-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237942,
+      "name": "Gr\u00e5zon",
+      "url": "https://open.spotify.com/track/06ci3vCXWaiRsISLvKBob7"
+    },
+    {
+      "album": {
+        "name": "Below The Belt",
+        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222214,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
+    },
+    {
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/7kLwwQ9CM82o3IZ5K9pNRQ"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232986,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6bRgyHxbPkvrHiQFSWxo1B"
+    },
+    {
+      "album": {
+        "name": "Heavy (feat. Kiiara)",
+        "url": "https://open.spotify.com/album/2kizlRv4J1gO7nXZ7kzJdk"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
+        }
+      ],
+      "date_added": "2017-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Heavy (feat. Kiiara)",
+      "url": "https://open.spotify.com/track/32bqxZEJRJObeNyc8bEiPt"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3yqh9ozOA2cAgPUJaveAuG"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210012,
+      "name": "Heroes (we could be)",
+      "url": "https://open.spotify.com/track/6WQLkih8nE0JdUCEyLaGnQ"
+    },
+    {
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3kG203MbpftpTNKPP3Jxgf"
+      },
+      "artists": [
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        }
+      ],
+      "date_added": "2017-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229586,
+      "name": "Highway Man",
+      "url": "https://open.spotify.com/track/6jPggfBgf9SFe1Ae4HTBxA"
+    },
+    {
+      "album": {
+        "name": "Hj\u00e4rtslag",
+        "url": "https://open.spotify.com/album/454QsVNlVNbFoW3ya4oqoG"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2017-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Hj\u00e4rtslag",
+      "url": "https://open.spotify.com/track/09n5FTXMxUhK1SRtaFc7A8"
+    },
+    {
+      "album": {
+        "name": "Wolf's Heart",
+        "url": "https://open.spotify.com/album/4jdSZtOrRqIbFbsWHVVHhH"
+      },
+      "artists": [
+        {
+          "name": "Henrik Berggren",
+          "url": "https://open.spotify.com/artist/55kZLdVX3Iumv0m42sMnDA"
+        }
+      ],
+      "date_added": "2017-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207080,
+      "name": "Hold on to Your Dreams",
+      "url": "https://open.spotify.com/track/00qnS9VBfyaUGm59RBHKQw"
+    },
+    {
+      "album": {
+        "name": "No Time To Chill",
+        "url": "https://open.spotify.com/album/3hQGYIYWsjLjPHZ4aHQzes"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "date_added": "2017-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226200,
+      "name": "How Much Is the Fish?",
+      "url": "https://open.spotify.com/track/3AznTGybdNhTBJWoZgx9tg"
+    },
+    {
+      "album": {
+        "name": "Danzig III: How The Gods Kill",
+        "url": "https://open.spotify.com/album/67ofo7x7uCZMHYOMsL5mfD"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356400,
+      "name": "How The Gods Kill",
+      "url": "https://open.spotify.com/track/6oNHYM9DUxMaYpHd9LQUtT"
+    },
+    {
+      "album": {
+        "name": "Day & Age",
+        "url": "https://open.spotify.com/album/39JESZeZjLUrjwQtCrRs6d"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245360,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5mhUPDWQH3s544WCsa0r9w"
+    },
+    {
+      "album": {
+        "name": "Hungry Hearts",
+        "url": "https://open.spotify.com/album/0VKyfNQ7Opq84ToOmr7JEp"
+      },
+      "artists": [
+        {
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "Hungry Hearts - Radio Edit",
+      "url": "https://open.spotify.com/track/2KpqVE0AuyI3gGERKuWT6r"
+    },
+    {
+      "album": {
+        "name": "TEN$ION",
+        "url": "https://open.spotify.com/album/7mfVEoCXHS2M9unAxC110B"
+      },
+      "artists": [
+        {
+          "name": "Die Antwoord",
+          "url": "https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280920,
+      "name": "I Fink U Freeky",
+      "url": "https://open.spotify.com/track/5DBQWDGt7WVlyMgMgvGko9"
+    },
+    {
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216880,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
+    },
+    {
+      "album": {
+        "name": "In the Name of Love",
+        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195706,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
+    },
+    {
+      "album": {
+        "name": "Alla v\u00e5ra l\u00e5tar",
+        "url": "https://open.spotify.com/album/3NzSI2UfbRLuz6oSxvJrvx"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "Ingen annan r\u00f6r mig som du",
+      "url": "https://open.spotify.com/track/0ivYdbkBZnS18uZxNLHEhx"
+    },
+    {
+      "album": {
+        "name": "Forever For Now",
+        "url": "https://open.spotify.com/album/5aMxUGbgPEewtPsil6LJfY"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/6lai3DmICTpH3ygJvteIGm"
+    },
+    {
+      "album": {
+        "name": "The Rules Of Dada",
+        "url": "https://open.spotify.com/album/1lqbyIuEs1vy1lfgdKvCu0"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202506,
+      "name": "Kick Out The Epic Motherf**ker",
+      "url": "https://open.spotify.com/track/0FEPq7gON5KivhwrsWN0gI"
+    },
+    {
+      "album": {
+        "name": "Kill the Power",
+        "url": "https://open.spotify.com/album/0bmI6eDRCcp2ch6YenEGkS"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275356,
+      "name": "Kill the Power",
+      "url": "https://open.spotify.com/track/5Ik2UQeQFDgYhAI6CpsaWF"
+    },
+    {
+      "album": {
+        "name": "The Party's Over",
+        "url": "https://open.spotify.com/album/60fb6eccHG3kPp0azBPJRG"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316116,
+      "name": "Killing In The Name - Live",
+      "url": "https://open.spotify.com/track/7aAvSyNIClZMG2uMwoOeVU"
+    },
+    {
+      "album": {
+        "name": "The Deadfaced Dimension",
+        "url": "https://open.spotify.com/album/4Z3RHSVpMYdXciM5wo638s"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "date_added": "2017-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242824,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/4fuPFCrsnZ85emMfL52CKp"
+    },
+    {
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/6gdjvua6iksIJZgmD5FpRp"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2017-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/2djY65hifu2a4R2WqcXqKL"
+    },
+    {
+      "album": {
+        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2017-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228893,
+      "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+      "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
+    },
+    {
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/1rdVGFcmOnQzjEsW4fI45P"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435000,
+      "name": "Leave Me Here",
+      "url": "https://open.spotify.com/track/1Hu7uWexshjLpeera5VN8w"
+    },
+    {
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252866,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268105,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC"
+    },
+    {
+      "album": {
+        "name": "Love Drug",
+        "url": "https://open.spotify.com/album/5RtwW2Rw6ya9PFeTggI0A6"
+      },
+      "artists": [
+        {
+          "name": "Die Antwoord",
+          "url": "https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM"
+        }
+      ],
+      "date_added": "2017-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250628,
+      "name": "Love Drug",
+      "url": "https://open.spotify.com/track/4GUuAnl6UHJ3NJdw402woI"
+    },
+    {
+      "album": {
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252534,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+    },
+    {
+      "album": {
+        "name": "Till mina \u00e4lskade och \u00e4lskare",
+        "url": "https://open.spotify.com/album/4GT1R1qWhevQETcLMwrXxJ"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "date_added": "2017-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Lyckligare nu",
+      "url": "https://open.spotify.com/track/61o5tmzK4TdftIGykP7stT"
+    },
+    {
+      "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/3vqHU45940CTywg4uPCE27"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242560,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/3pUTJPIxhaMMFKhiMnfi1R"
+    },
+    {
+      "album": {
+        "name": "From The North",
+        "url": "https://open.spotify.com/album/4yIQQzoOrlE0vaH4i5nwOa"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231565,
+      "name": "Man & Earth",
+      "url": "https://open.spotify.com/track/3DMGwRrX0okkzr1RCoB36W"
+    },
+    {
+      "album": {
+        "name": "Yellow & Green",
+        "url": "https://open.spotify.com/album/4mSoz87AFyUIcZlCmwbI8s"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191426,
+      "name": "March to the Sea",
+      "url": "https://open.spotify.com/track/0qV5H8ttAXxb1An0rmG2bw"
+    },
+    {
+      "album": {
+        "name": "Kvelertak",
+        "url": "https://open.spotify.com/album/6B7T5VqGQ6eCn0tGNhyCfY"
+      },
+      "artists": [
+        {
+          "name": "Kvelertak",
+          "url": "https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Mj\u00f8d",
+      "url": "https://open.spotify.com/track/0s89CS83ATe8rnuOe8Yadx"
+    },
+    {
+      "album": {
+        "name": "Danzig",
+        "url": "https://open.spotify.com/album/7iNVpD0QtlhjsmDgW4IlBI"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204866,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5JtuIHVfsYBFAVrHwjUddj"
+    },
+    {
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp"
+    },
+    {
+      "album": {
+        "name": "Wild Cat",
+        "url": "https://open.spotify.com/album/2lksmh6xl1ksnd1I0RA83x"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223844,
+      "name": "My Little RnR",
+      "url": "https://open.spotify.com/track/4fPkExNmrBmuvQZnDI4CW1"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Died Wolf",
+        "url": "https://open.spotify.com/album/4Vwy2RelnRLfsVsuCnJ2Lb"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258613,
+      "name": "My Name Is Human",
+      "url": "https://open.spotify.com/track/6lYkFYPKdyOSSZ5xHCJbYg"
+    },
+    {
+      "album": {
+        "name": "Nervous (The Ooh Song) [Mark McCabe Remix]",
+        "url": "https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        },
+        {
+          "name": "Mark McCabe",
+          "url": "https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195194,
+      "name": "Nervous (The Ooh Song) - Mark McCabe Remix",
+      "url": "https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An"
+    },
+    {
+      "album": {
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/1kxDY7IJjRHX3dpQTvFUmS"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183808,
+      "name": "New Americana",
+      "url": "https://open.spotify.com/track/7ax0KTiQf6EWa59S3iQwHI"
+    },
+    {
+      "album": {
+        "name": "Night People",
+        "url": "https://open.spotify.com/album/2SChkyg43hZMnY5EtTv5F2"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Night People",
+      "url": "https://open.spotify.com/track/75TulEelZ2Bru5ixJYGJBv"
+    },
+    {
+      "album": {
+        "name": "SremmLife",
+        "url": "https://open.spotify.com/album/4ZmCBqmAmzZaw6AKnlXqQI"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "No Type",
+      "url": "https://open.spotify.com/track/6wb6zxkNTBtcYVkXcvNyJp"
+    },
+    {
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+    },
+    {
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/4c8BPGJWw7q2i1wWagUWnz"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215447,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/7tx0NDsCViutjOyd1c4A28"
+    },
+    {
+      "album": {
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ"
+      },
+      "artists": [
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Not Too Young",
+      "url": "https://open.spotify.com/track/2ClyWrksDZG5RFK9LJBlon"
+    },
+    {
+      "album": {
+        "name": "Vapen till dom hoppl\u00f6sa",
+        "url": "https://open.spotify.com/album/59OBk80K0cGmlFtD4YZD1J"
+      },
+      "artists": [
+        {
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224598,
+      "name": "Ny drog",
+      "url": "https://open.spotify.com/track/3AHZvL6q4YoUhgwSnNq74I"
+    },
+    {
+      "album": {
+        "name": "One Last Night On Earth (Remixes)",
+        "url": "https://open.spotify.com/album/0BWasV09mwSUbh9ixIJN9A"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219523,
+      "name": "One Last Night On Earth - Speaker Of The House Remix",
+      "url": "https://open.spotify.com/track/6Zjs6nPrDHmKvAUw80FJH6"
+    },
+    {
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/0nADKJFHqfEOzcb7Auwg60"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223515,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/5QTATIkC6dH9c8IMmqoF4q"
+    },
+    {
+      "album": {
+        "name": "Songsthatwewontgetsuedforbutattheendofthedayweallgonnadieanyway",
+        "url": "https://open.spotify.com/album/1oO9CuqHipplb4P1KuXzHo"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2017-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111021,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/4kicAOmyaRrrnqOwIUKdmV"
+    },
+    {
+      "album": {
+        "name": "Phone Down",
+        "url": "https://open.spotify.com/album/2jEoK4yuqMQOrxXj2006mu"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Emily Warren",
+          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215564,
+      "name": "Phone Down",
+      "url": "https://open.spotify.com/track/5bvNpG6wiIEf1PA13TkTu2"
+    },
+    {
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252256,
+      "name": "pick up the phone",
+      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
+    },
+    {
+      "album": {
+        "name": "Pop Bitches",
+        "url": "https://open.spotify.com/album/6BZercgnNuUZmrf4uU6dx6"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2017-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189307,
+      "name": "Pop Bitches",
+      "url": "https://open.spotify.com/track/5fmjnjYIzll2CtBwkZhwr8"
+    },
+    {
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/2DpB2pQLXrmqhWArMHum4t"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1M610MuSYm8N3xDnEjsKqM"
+    },
+    {
+      "album": {
+        "name": "Quit You",
+        "url": "https://open.spotify.com/album/2WPXSv8cyr0i20Z9jsPd5M"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221568,
+      "name": "Quit You",
+      "url": "https://open.spotify.com/track/4GJAd1nBylAEbw1dZDVzEQ"
+    },
+    {
+      "album": {
+        "name": "Rocket (feat. NEIKED)",
+        "url": "https://open.spotify.com/album/5CVjUl2iK5Q8PP3lzTY6Z2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        },
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        }
+      ],
+      "date_added": "2017-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190172,
+      "name": "Rocket (feat. NEIKED)",
+      "url": "https://open.spotify.com/track/4iqroWSTElC2W5hVHgJGLD"
+    },
+    {
+      "album": {
+        "name": "Run, Andy, Run",
+        "url": "https://open.spotify.com/album/1owPzu2ZErAVjlbt51Irik"
+      },
+      "artists": [
+        {
+          "name": "Henrik Berggren",
+          "url": "https://open.spotify.com/artist/55kZLdVX3Iumv0m42sMnDA"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343586,
+      "name": "Run, Andy, Run",
+      "url": "https://open.spotify.com/track/2vHvG1y228tdoFZrZtR3Yd"
+    },
+    {
+      "album": {
+        "name": "Gods of Violence",
+        "url": "https://open.spotify.com/album/2nLKBnudvFot4eQIfreTJO"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278200,
+      "name": "Satan Is Real",
+      "url": "https://open.spotify.com/track/39nMMa687djKNmMBr1Sjvd"
+    },
+    {
+      "album": {
+        "name": "Sayonara",
+        "url": "https://open.spotify.com/album/6fKGDzE3ROcdEZkgKUsEwE"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179849,
+      "name": "Sayonara",
+      "url": "https://open.spotify.com/track/0Zj65VBQqXiRMvO2pjhOMy"
+    },
+    {
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/5ZvgR8NnrJruUMxsfH07r2"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207858,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7KfHsbYasBvqMX739rB1lg"
+    },
+    {
+      "album": {
+        "name": "Shape Of A Heart",
+        "url": "https://open.spotify.com/album/4nTf3EhhX7OgZueElfLoIG"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "date_added": "2017-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217994,
+      "name": "Shape Of A Heart",
+      "url": "https://open.spotify.com/track/5br9M20Z7gvxZ17OcP5aO2"
+    },
+    {
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/7bzSRJuSLfCTWRzrOni6X7"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257120,
+      "name": "Shock Me",
+      "url": "https://open.spotify.com/track/5n5K6czwgPvZQpMTJVZ03O"
+    },
+    {
+      "album": {
+        "name": "Show Yourself",
+        "url": "https://open.spotify.com/album/0KxdIJxXofwKrxWYAz55dO"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182893,
+      "name": "Show Yourself",
+      "url": "https://open.spotify.com/track/4dkPH1mbx1OOLKtncPgJ0C"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2017-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188938,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/1CireMJYXN8Rw4u1HG5GFZ"
+    },
+    {
+      "album": {
+        "name": "Bamse - v\u00e4rldens starkaste bj\u00f6rn",
+        "url": "https://open.spotify.com/album/7J4mWRMb0BY6LVUGKLhtzg"
+      },
+      "artists": [
+        {
+          "name": "Bamse",
+          "url": "https://open.spotify.com/artist/1V95p8oWGxXlpcFRYqXV3w"
+        }
+      ],
+      "date_added": "2017-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33506,
+      "name": "Signatur - fr\u00e5n \"Bamse - v\u00e4rldens starkaste bj\u00f6rn\"",
+      "url": "https://open.spotify.com/track/6uhIL0PAovizquifzGH0lk"
+    },
+    {
+      "album": {
+        "name": "Sl\u00e4pper allt (feat. Norlie & KKV)",
+        "url": "https://open.spotify.com/album/6hCXX67bZh6RF4znSj5gN1"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        },
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2017-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211967,
+      "name": "Sl\u00e4pper allt (feat. Norlie & KKV)",
+      "url": "https://open.spotify.com/track/0lFgXIJbSU1jvCwETjZnwN"
+    },
+    {
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3kG203MbpftpTNKPP3Jxgf"
+      },
+      "artists": [
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        }
+      ],
+      "date_added": "2017-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "So You Do (Slimi Jimi Bubby Boy)",
+      "url": "https://open.spotify.com/track/1EvXBGDqIyAc4BFCJCehhC"
+    },
+    {
+      "album": {
+        "name": "Solo Dance",
+        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Solo Dance",
+      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
+    },
+    {
+      "album": {
+        "name": "Sjung",
+        "url": "https://open.spotify.com/album/1YqHIqrWx3eopxKFPqjqhT"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "Some Die Young",
+      "url": "https://open.spotify.com/track/2bfRfAO1RNWcpNtWJv042o"
+    },
+    {
+      "album": {
+        "name": "Something Just Like This (Remix Pack) [Remixes]",
+        "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2017-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252933,
+      "name": "Something Just Like This - Alesso Remix",
+      "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
+    },
+    {
+      "album": {
+        "name": "Without/Within",
+        "url": "https://open.spotify.com/album/62JForSPxT4heXyGCr4qwi"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305001,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/57hHKmri1XEjbcVx5ktxPr"
+    },
+    {
+      "album": {
+        "name": "Songsthatwewontgetsuedforbutattheendofthedayweallgonnadieanyway",
+        "url": "https://open.spotify.com/album/1oO9CuqHipplb4P1KuXzHo"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "date_added": "2017-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169319,
+      "name": "South Side Suicide (feat. Pouya)",
+      "url": "https://open.spotify.com/track/0LX4f8NnYnGxuryfP1MtJf"
+    },
+    {
+      "album": {
+        "name": "Gypsy Punks: Underdog World Strike",
+        "url": "https://open.spotify.com/album/73oHGzr0x0Hu1Z1R1rODNW"
+      },
+      "artists": [
+        {
+          "name": "Gogol Bordello",
+          "url": "https://open.spotify.com/artist/2SVw939fwuqSobLjF8u78b"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222506,
+      "name": "Start Wearing Purple",
+      "url": "https://open.spotify.com/track/3ZfHVIkXhsiPxaugiJY9lc"
+    },
+    {
+      "album": {
+        "name": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5YCwdMjxlC5hmHO8NcMoRE"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2016-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240867,
+      "name": "Still Falling For You - From \"Bridget Jones's Baby\"",
+      "url": "https://open.spotify.com/track/638fKB27P7UAmu3Aq0vEJ3"
+    },
+    {
+      "album": {
+        "name": "Allting suger",
+        "url": "https://open.spotify.com/album/3OwkTRqq9nSh7QBqDrh0Tc"
+      },
+      "artists": [
+        {
+          "name": "Little Jinder",
+          "url": "https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0"
+        }
+      ],
+      "date_added": "2017-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178302,
+      "name": "Super 8",
+      "url": "https://open.spotify.com/track/1eYX9oRvZFiWrtac2v1H9F"
+    },
+    {
+      "album": {
+        "name": "Nattesferd",
+        "url": "https://open.spotify.com/album/3xIPPeYwuaKXSQWclMtn7r"
+      },
+      "artists": [
+        {
+          "name": "Kvelertak",
+          "url": "https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214184,
+      "name": "Svartmesse",
+      "url": "https://open.spotify.com/track/1aQoSg3ZSS9NumpQfp4Fai"
+    },
+    {
+      "album": {
+        "name": "S\u00e4g n\u00e5t som f\u00e5r mig att stanna",
+        "url": "https://open.spotify.com/album/2uiA1nD4fOObJY3k09g2OU"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2017-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203120,
+      "name": "S\u00e4g n\u00e5t som f\u00e5r mig att stanna",
+      "url": "https://open.spotify.com/track/5sWeVXwpdXhS88GbbQNxnI"
+    },
+    {
+      "album": {
+        "name": "S\u00e4ga mig",
+        "url": "https://open.spotify.com/album/0W2NIl8UZmhrxdffRy5T8B"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "date_added": "2017-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203347,
+      "name": "S\u00e4ga mig",
+      "url": "https://open.spotify.com/track/7lP1Itp08ETqtjqJRTbmeh"
+    },
+    {
+      "album": {
+        "name": "Tandtr\u00e5d",
+        "url": "https://open.spotify.com/album/3kJ38NKMZpSKvCTyAdmppm"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        }
+      ],
+      "date_added": "2017-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242320,
+      "name": "Tandtr\u00e5d",
+      "url": "https://open.spotify.com/track/1K2a8QcaPTDTZ1e4M0s8gQ"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "date_added": "2017-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185967,
+      "name": "That's Not Me",
+      "url": "https://open.spotify.com/track/3loNCAyjqpgB9DvKhLMKi9"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0vQOkW8jvRYdf0wzonmLMK"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193111,
+      "name": "The Book of Love - EP Version",
+      "url": "https://open.spotify.com/track/4HcSK64Cy7JJ5gv1Txzhzo"
+    },
+    {
+      "album": {
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/5LK6DCdahD6OyHinbwM6Gv"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238517,
+      "name": "The Last Stand",
+      "url": "https://open.spotify.com/track/4luL1R4A2u0nesFPaJX0s8"
+    },
+    {
+      "album": {
+        "name": "The Stadium Techno Experience (20 Years of Hardcore Expanded Editon) [Remastered]",
+        "url": "https://open.spotify.com/album/0A50btQ2ALpobAG4jO63Iw"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "date_added": "2017-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234055,
+      "name": "The Logical Song - Radio Edit [Remastered]",
+      "url": "https://open.spotify.com/track/0OpsdOxCH5frtDmBNRQDEF"
+    },
+    {
+      "album": {
+        "name": "Once More 'Round the Sun",
+        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299786,
+      "name": "The Motherload",
+      "url": "https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD"
+    },
+    {
+      "album": {
+        "name": "The Right Song",
+        "url": "https://open.spotify.com/album/52ARQdcyTTerSifTwySoIq"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "The Right Song",
+      "url": "https://open.spotify.com/track/68vezH3cT6dVOABipmGZ9R"
+    },
+    {
+      "album": {
+        "name": "To My Brother, Johnny",
+        "url": "https://open.spotify.com/album/43OUzP6nGH3szu4MhQxQOE"
+      },
+      "artists": [
+        {
+          "name": "Henrik Berggren",
+          "url": "https://open.spotify.com/artist/55kZLdVX3Iumv0m42sMnDA"
+        }
+      ],
+      "date_added": "2017-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217302,
+      "name": "To My Brother, Johnny",
+      "url": "https://open.spotify.com/track/2GMxfI9q96homjq7Qy8UPE"
+    },
+    {
+      "album": {
+        "name": "Jag rear ut min sj\u00e4l",
+        "url": "https://open.spotify.com/album/4TSjDtkoIAzsVxMowLW85w"
+      },
+      "artists": [
+        {
+          "name": "bob hund",
+          "url": "https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Tralala lilla molntuss, kom hit ska du f\u00e5 en puss",
+      "url": "https://open.spotify.com/track/1Y5hLt3uWM1jZWE4Rzm90E"
+    },
+    {
+      "album": {
+        "name": "T\u00e5rarna i halsen",
+        "url": "https://open.spotify.com/album/3vbrKmjsCarxJ0fGWAuOTg"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        }
+      ],
+      "date_added": "2017-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "T\u00e5rarna i halsen",
+      "url": "https://open.spotify.com/track/1BlLq5ug2PczP90kqSrYAx"
+    },
+    {
+      "album": {
+        "name": "Donker Mag",
+        "url": "https://open.spotify.com/album/2ixDAaSvXUpGKat8hMA07G"
+      },
+      "artists": [
+        {
+          "name": "Die Antwoord",
+          "url": "https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213607,
+      "name": "Ugly Boy",
+      "url": "https://open.spotify.com/track/0zSGK8ZpVuo0XdIY21Vyrh"
+    },
+    {
+      "album": {
+        "name": "Where Shadows Forever Reign",
+        "url": "https://open.spotify.com/album/5nLV82NevjLuHTs1ZX67T9"
+      },
+      "artists": [
+        {
+          "name": "Dark Funeral",
+          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320435,
+      "name": "Unchain My Soul",
+      "url": "https://open.spotify.com/track/6YGDbl5MJmMSUP33UbGoAo"
+    },
+    {
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143080,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
+    },
+    {
+      "album": {
+        "name": "Naturkraft",
+        "url": "https://open.spotify.com/album/1WUagXFvCh1pnAj9hJSFnp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "date_added": "2017-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239917,
+      "name": "Varma Gator",
+      "url": "https://open.spotify.com/track/0DnNxJsxc5rLkc1a9Rablu"
+    },
+    {
+      "album": {
+        "name": "Vekk meg opp",
+        "url": "https://open.spotify.com/album/43NjNLRTwM4sGveLhuiUHp"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193340,
+      "name": "Vekk meg opp",
+      "url": "https://open.spotify.com/track/7r2VakkFKiTVc4OLAhYwRw"
+    },
+    {
+      "album": {
+        "name": "Violent Revolution (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2OAMr7GlfsxNlI6eVRnVmT"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2017-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294800,
+      "name": "Violent Revolution",
+      "url": "https://open.spotify.com/track/3jiTk0zbsLAZOVzOzdYuwI"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2016-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "Weekend (feat. Miguel)",
+      "url": "https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA"
+    },
+    {
+      "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "date_added": "2017-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC"
+    },
+    {
+      "album": {
+        "name": "Where Shadows Forever Reign",
+        "url": "https://open.spotify.com/album/5nLV82NevjLuHTs1ZX67T9"
+      },
+      "artists": [
+        {
+          "name": "Dark Funeral",
+          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
+        }
+      ],
+      "date_added": "2017-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332974,
+      "name": "Where Shadows Forever Reign",
+      "url": "https://open.spotify.com/track/4inmj5F1klS0C1XODSKHW0"
+    },
+    {
+      "album": {
+        "name": "Wild Child",
+        "url": "https://open.spotify.com/album/1uGrSEtbmxdS1bdgYZJWZq"
+      },
+      "artists": [
+        {
+          "name": "Henrik Berggren",
+          "url": "https://open.spotify.com/artist/55kZLdVX3Iumv0m42sMnDA"
+        }
+      ],
+      "date_added": "2017-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/3ATJuhOd2CB1u6WItHSfmT"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/3bsi8rJZlbU1ko5XnXx2KP"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "date_added": "2017-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3LG5h1QIvHZkChgmc2MVGq"
+    },
+    {
+      "album": {
+        "name": "With You (The Remixes)",
+        "url": "https://open.spotify.com/album/7B6EZBcEHqSwsUTqv8UaFN"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "FMLYBND",
+          "url": "https://open.spotify.com/artist/6PwZP9O9dvJCMALhgjygnh"
+        }
+      ],
+      "date_added": "2017-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328421,
+      "name": "With You (Jai Wolf Remix)",
+      "url": "https://open.spotify.com/track/5H2cgEPEJxA72Bqb4cLvrj"
+    },
+    {
+      "album": {
+        "name": "Super Taranta!",
+        "url": "https://open.spotify.com/album/52JKiBdisu9HmX6c7Ly263"
+      },
+      "artists": [
+        {
+          "name": "Gogol Bordello",
+          "url": "https://open.spotify.com/artist/2SVw939fwuqSobLjF8u78b"
+        }
+      ],
+      "date_added": "2017-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238040,
+      "name": "Wonderlust King",
+      "url": "https://open.spotify.com/track/5lhl1BuBHERehZokNToaJz"
+    },
+    {
+      "album": {
+        "name": "Restoring Force",
+        "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2017-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Would You Still Be There",
+      "url": "https://open.spotify.com/track/0m5PQFyWWwclSA0T813jnU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/5sk53m6HgZorO1RDUkaiIZ"
 }

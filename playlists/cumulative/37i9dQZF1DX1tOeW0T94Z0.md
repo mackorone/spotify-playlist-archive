@@ -2,9 +2,9 @@
 
 ### [Canadian Gems](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Keshia Chanté
 
-140 songs - 9 hr 9 min
+141 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [BaKardi Slang](https://open.spotify.com/track/0khDTXR2qTFkJdU1CqvPmJ) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Field Mob](https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm) | [Quest For Fire: Firestarter Vol\. 1](https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu) | 4:33 | 2022-07-01 |  |
 | [Beautiful U R](https://open.spotify.com/track/2CqREodaZD7NRmm2kJr9eZ) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [The Promise](https://open.spotify.com/album/7a36clUB9EeYb5ATXyBfxb) | 4:10 | 2022-07-01 |  |
 | [Beautiful U R](https://open.spotify.com/track/5oL0hajsnGW2U3UKvRFt6J) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [The Promise](https://open.spotify.com/album/5Ix6MoBe5fqEiDpNRppYfD) | 4:10 | 2022-07-01 | 2022-07-29 |
-| [Been Gone](https://open.spotify.com/track/0MoFEIqW3QFpI4GjRx5FaW) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Been Gone](https://open.spotify.com/album/7vcQYMWiFizYmCDWmdIGZ7) | 3:35 | 2022-07-01 | 2023-09-08 |
+| [Been Gone](https://open.spotify.com/track/0MoFEIqW3QFpI4GjRx5FaW) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Been Gone](https://open.spotify.com/album/7vcQYMWiFizYmCDWmdIGZ7) | 3:35 | 2022-07-01 |  |
 | [Been Gone](https://open.spotify.com/track/52FaLhmuRVqaN0JsLTGrr5) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [2U](https://open.spotify.com/album/4pYasVAOYUyNWRwNBU479t) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Best I Ever Had](https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 4:17 | 2022-07-01 | 2022-09-01 |
 | [Big](https://open.spotify.com/track/16rS604ZDQUYLk3ZuxkGzi) | [Brassmunk](https://open.spotify.com/artist/0mkac0FVvXY3uiOvQlcmtj) | [Lyrics of Fury III](https://open.spotify.com/album/2zyRI2YymhCrEOSFWpp9kd) | 3:54 | 2022-07-01 | 2022-07-29 |
@@ -44,7 +44,7 @@
 | [Don't You Forget It](https://open.spotify.com/track/7vKYuqKAySUizIkcAl4Oal) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [World Outside My Window](https://open.spotify.com/album/42xHDcAyEnhKzLPCrdnBud) | 4:08 | 2022-08-31 |  |
 | [E\-Z on the Motion](https://open.spotify.com/track/7v0NXl6RTU9XMhHrUp0gQJ) | [Ghetto Concept](https://open.spotify.com/artist/7dQsyUecbPiqTSDbVWJDaU) | [E\-Z on the Motion / Hard Copy](https://open.spotify.com/album/4FP694zjOnV4aPP6c8wn5a) | 3:58 | 2022-07-01 |  |
 | [Easy To Slip](https://open.spotify.com/track/6rBSBmvVnY3uMIbEMJC3tr) | [Solitair](https://open.spotify.com/artist/7bCQj0gFuYAroOiMArR4Dm) | [Easy To Slip](https://open.spotify.com/album/5aZ1tbINF1bJOt1FZj1M2U) | 3:54 | 2022-07-01 |  |
-| [Everyday \(Rudebwoy\)](https://open.spotify.com/track/3rIbZ1ElW0ZFF646ZQrYTj) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Ray Robinson](https://open.spotify.com/artist/4w0YXf91PUV9T1zlTK6yPr) | [Everyday \(Rudebwoy\)](https://open.spotify.com/album/2ZDasdZAS2qpAyqr3Vetk3) | 4:17 | 2022-07-01 |  |
+| [Everyday \(Rudebwoy\)](https://open.spotify.com/track/3rIbZ1ElW0ZFF646ZQrYTj) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Ray Robinson](https://open.spotify.com/artist/4w0YXf91PUV9T1zlTK6yPr) | [Everyday \(Rudebwoy\)](https://open.spotify.com/album/2ZDasdZAS2qpAyqr3Vetk3) | 4:17 | 2022-07-01 | 2024-01-13 |
 | [Fall From Paradise](https://open.spotify.com/track/0H1OureTxinowEaDHuR3pp) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [While You Were Sleeping](https://open.spotify.com/album/40Ns0bZ8vDcncxeRIfwN6Q) | 4:12 | 2022-07-01 | 2023-04-15 |
 | [Fall From Paradise](https://open.spotify.com/track/1dxAAKR7k0RDPrje4lUUk0) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [Hitch Hikin' Music](https://open.spotify.com/album/5m7ReqcMfj3VyXJiOF3Rxa) | 4:14 | 2023-04-07 |  |
 | [Fall From Paradise](https://open.spotify.com/track/7kAXueG6HY1SvZh83vyyzP) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [Hitch Hikin' Music \(Explicit Version\)](https://open.spotify.com/album/6hDg4un2YXL95sItRaKaY8) | 4:14 | 2022-07-01 | 2022-07-29 |
@@ -65,7 +65,8 @@
 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 | 2022-07-01 |  |
 | [Into You \(feat\. Fabolous\)](https://open.spotify.com/track/0ceeRNqbOzRiGE42KWSrRa) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:54 | 2022-07-01 |  |
 | [It Kills Me](https://open.spotify.com/track/6qU37BgVfPhpb2rhYzZWrF) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The Bridge](https://open.spotify.com/album/3Qwn4i9QV2uXfPiBQNnT3z) | 4:10 | 2022-07-01 | 2022-09-01 |
-| [Just a Second](https://open.spotify.com/track/63khjxx6Jcz8YGhWFWrL2P) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Just a Second](https://open.spotify.com/album/5O7awejDSOSd92idYH870A) | 4:26 | 2022-08-11 |  |
+| [It's Fo Twenty](https://open.spotify.com/track/6IHYCWWWyKOV54i5eXbSKq) | [Bishop Brigante](https://open.spotify.com/artist/4yGFddIt30417yFQiq2QaS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [It's Fo Twenty \(Explicit Version\)](https://open.spotify.com/album/2L2Ia4j1mNUec5fi5PS35O) | 3:46 | 2024-01-12 |  |
+| [Just a Second](https://open.spotify.com/track/63khjxx6Jcz8YGhWFWrL2P) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Just a Second](https://open.spotify.com/album/5O7awejDSOSd92idYH870A) | 4:26 | 2022-08-11 | 2024-01-13 |
 | [Just Wanna Party \(feat\. Voyce\)](https://open.spotify.com/track/7zyaGu9SsApEuzFdiii833) | [jDiggz](https://open.spotify.com/artist/69h6qCRk2eD3QUWWFbVUzk), [Voyce](https://open.spotify.com/artist/6Jf2xsWhvbhPKmbhuinqcp) | [Memoirs of a Playbwoy \(Remastered\)](https://open.spotify.com/album/4jFt17ofd4gqcOBGu9KKvf) | 4:38 | 2022-07-01 | 2022-09-01 |
 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2022-07-01 |  |
 | [La force de comprendre](https://open.spotify.com/track/6qwAZau93JWbbiiuLn38dn) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:46 | 2022-07-01 |  |

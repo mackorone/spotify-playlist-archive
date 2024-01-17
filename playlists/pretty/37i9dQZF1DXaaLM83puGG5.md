@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="https://www.evenintheday.com/">Even in the Day</a> and <a href="spotify:artist:7yyFlB8IOlpxT5aKGLdGZk">DJ Six7even!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,816 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,074 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 31 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/1JqxgXNhqWpFss7nZzlwOz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:59 |
 | 32 | [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 |
 | 33 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
-| 34 | [Laba Laba](https://open.spotify.com/track/27di6b8llDSHNpL7q4fyir) | [DJ Latitude](https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC), [Ayanfe](https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq) | [Laba Laba](https://open.spotify.com/album/6D0XzQkklNmXbOC9zkJSks) | 2:40 |
+| 34 | [Laba Laba](https://open.spotify.com/track/27di6b8llDSHNpL7q4fyir) | [DJ Latitude](https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC), [Ayanfe](https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq), [Wckedd](https://open.spotify.com/artist/6efG4C2TiknEf3ybw7Jmx5) | [Laba Laba](https://open.spotify.com/album/6D0XzQkklNmXbOC9zkJSks) | 2:40 |
 | 35 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 36 | [Ka Valungu](https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Valungu](https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU) | 5:00 |
 | 37 | [Amapiano](https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:45 |

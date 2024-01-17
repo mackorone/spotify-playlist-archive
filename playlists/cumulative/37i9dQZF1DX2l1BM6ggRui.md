@@ -4,7 +4,7 @@
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-65 songs - 3 hr 38 min
+66 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Honestly](https://open.spotify.com/track/5HB8Olk0vxhv8ynsh1x04y) | [LIMELIGHT](https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql) | [LIMELIGHT DEBUT EP 'LOVE & HAPPINESS'](https://open.spotify.com/album/6bGjdmkGl8QqTa1ElccP3C) | 3:09 | 2023-11-03 |  |
 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 | 2023-11-03 | 2023-12-14 |
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2023-11-03 |  |
-| [I FLY](https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [오늘의 웹툰 \(Original Soundtrack\) Pt\. 1](https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp) | 3:50 | 2023-11-03 |  |
+| [I FLY](https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [오늘의 웹툰 \(Original Soundtrack\) Pt\. 1](https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp) | 3:50 | 2023-11-03 | 2024-01-06 |
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2023-11-03 |  |
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-11-03 |  |
 | [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 | 2023-11-03 | 2023-12-02 |
@@ -53,6 +53,7 @@
 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 | 2023-11-03 |  |
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-11-03 |  |
 | [New Tomorrow](https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [NEW TOMORROW](https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU) | 3:50 | 2023-11-03 | 2023-12-18 |
+| [No MBTI](https://open.spotify.com/track/0ElgcgukyFblmSOu1IDFhu) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [No MBTI](https://open.spotify.com/album/6Cov5vJwPPSEaLyd9Gog8R) | 2:45 | 2023-11-03 |  |
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2023-11-03 | 2023-12-30 |
 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 | 2023-11-03 |  |
 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 | 2023-11-03 |  |

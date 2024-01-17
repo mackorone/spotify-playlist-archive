@@ -1,730 +1,1467 @@
 {
-  "2021-12-30": 30684,
-  "2021-12-31": 30687,
-  "2022-01-01": 30698,
-  "2022-01-02": 30702,
-  "2022-01-03": 30709,
-  "2022-01-04": 30732,
-  "2022-01-05": 30755,
-  "2022-01-06": 30766,
-  "2022-01-07": 30774,
-  "2022-01-08": 30804,
-  "2022-01-09": 30801,
-  "2022-01-10": 30818,
-  "2022-01-11": 30838,
-  "2022-01-12": 30845,
-  "2022-01-13": 30856,
-  "2022-01-14": 30860,
-  "2022-01-15": 30877,
-  "2022-01-16": 30876,
-  "2022-01-17": 30893,
-  "2022-01-18": 30893,
-  "2022-01-19": 30897,
-  "2022-01-20": 30894,
-  "2022-01-21": 30902,
-  "2022-01-22": 30909,
-  "2022-01-23": 30913,
-  "2022-01-24": 30900,
-  "2022-01-25": 30916,
-  "2022-01-26": 30914,
-  "2022-01-27": 30911,
-  "2022-01-28": 30917,
-  "2022-01-29": 30923,
-  "2022-01-30": 30923,
-  "2022-01-31": 30933,
-  "2022-02-01": 30947,
-  "2022-02-02": 30948,
-  "2022-02-03": 30962,
-  "2022-02-04": 30957,
-  "2022-02-05": 30963,
-  "2022-02-06": 30972,
-  "2022-02-07": 30970,
-  "2022-02-08": 30981,
-  "2022-02-09": 30999,
-  "2022-02-10": 31008,
-  "2022-02-11": 31005,
-  "2022-02-12": 31004,
-  "2022-02-13": 31014,
-  "2022-02-14": 31019,
-  "2022-02-15": 31026,
-  "2022-02-16": 31039,
-  "2022-02-17": 31034,
-  "2022-02-18": 31041,
-  "2022-02-19": 31033,
-  "2022-02-20": 31036,
-  "2022-02-21": 31038,
-  "2022-02-22": 31033,
-  "2022-02-23": 31044,
-  "2022-02-24": 31057,
-  "2022-02-25": 31064,
-  "2022-02-26": 31061,
-  "2022-02-27": 31075,
-  "2022-02-28": 31075,
-  "2022-03-01": 31077,
-  "2022-03-02": 31088,
-  "2022-03-03": 31096,
-  "2022-03-04": 31111,
-  "2022-03-05": 31118,
-  "2022-03-06": 31132,
-  "2022-03-07": 31125,
-  "2022-03-08": 31146,
-  "2022-03-09": 31151,
-  "2022-03-10": 31157,
-  "2022-03-11": 31159,
-  "2022-03-12": 31157,
-  "2022-03-13": 31163,
-  "2022-03-14": 31167,
-  "2022-03-15": 31171,
-  "2022-03-16": 31178,
-  "2022-03-17": 31182,
-  "2022-03-18": 31177,
-  "2022-03-19": 31173,
-  "2022-03-20": 31173,
-  "2022-03-21": 31184,
-  "2022-03-22": 31183,
-  "2022-03-23": 31179,
-  "2022-03-24": 31188,
-  "2022-03-25": 31194,
-  "2022-03-26": 31192,
-  "2022-03-27": 31195,
-  "2022-03-28": 31192,
-  "2022-03-30": 31204,
-  "2022-03-31": 31211,
-  "2022-04-01": 31221,
-  "2022-04-02": 31221,
-  "2022-04-03": 31230,
-  "2022-04-04": 31232,
-  "2022-04-05": 31235,
-  "2022-04-06": 31235,
-  "2022-04-07": 31236,
-  "2022-04-08": 31242,
-  "2022-04-09": 31242,
-  "2022-04-10": 31257,
-  "2022-04-11": 31265,
-  "2022-04-12": 31264,
-  "2022-04-13": 31272,
-  "2022-04-14": 31279,
-  "2022-04-15": 31290,
-  "2022-04-16": 31296,
-  "2022-04-17": 31303,
-  "2022-04-18": 31303,
-  "2022-04-19": 31310,
-  "2022-04-20": 31312,
-  "2022-04-21": 31315,
-  "2022-04-22": 31320,
-  "2022-04-23": 31325,
-  "2022-04-24": 31331,
-  "2022-04-25": 31329,
-  "2022-04-26": 31334,
-  "2022-04-27": 31356,
-  "2022-04-28": 31356,
-  "2022-04-29": 31352,
-  "2022-04-30": 31348,
-  "2022-05-01": 31344,
-  "2022-05-02": 31344,
-  "2022-05-03": 31347,
-  "2022-05-04": 31342,
-  "2022-05-05": 31339,
-  "2022-05-06": 31338,
-  "2022-05-07": 31335,
-  "2022-05-08": 31317,
-  "2022-05-09": 31321,
-  "2022-05-10": 31319,
-  "2022-05-11": 31324,
-  "2022-05-12": 31323,
-  "2022-05-13": 31320,
-  "2022-05-14": 31325,
-  "2022-05-15": 31326,
-  "2022-05-16": 31320,
-  "2022-05-17": 31316,
-  "2022-05-18": 31310,
-  "2022-05-19": 31314,
-  "2022-05-20": 31307,
-  "2022-05-21": 31315,
-  "2022-05-22": 31315,
-  "2022-05-23": 31315,
-  "2022-05-24": 31312,
-  "2022-05-25": 31316,
-  "2022-05-26": 31312,
-  "2022-05-27": 31303,
-  "2022-05-28": 31305,
-  "2022-05-29": 31300,
-  "2022-05-30": 31296,
-  "2022-05-31": 31296,
-  "2022-06-01": 31285,
-  "2022-06-02": 31287,
-  "2022-06-03": 31287,
-  "2022-06-04": 31288,
-  "2022-06-05": 31291,
-  "2022-06-06": 31279,
-  "2022-06-07": 31281,
-  "2022-06-08": 31278,
-  "2022-06-09": 31273,
-  "2022-06-10": 31274,
-  "2022-06-11": 31267,
-  "2022-06-12": 31262,
-  "2022-06-13": 31260,
-  "2022-06-14": 31261,
-  "2022-06-15": 31261,
-  "2022-06-16": 31261,
-  "2022-06-17": 31257,
-  "2022-06-18": 31259,
-  "2022-06-19": 31245,
-  "2022-06-20": 31245,
-  "2022-06-21": 31238,
-  "2022-06-22": 31231,
-  "2022-06-23": 31231,
-  "2022-06-24": 31217,
-  "2022-06-25": 31217,
-  "2022-06-26": 31223,
-  "2022-06-27": 31222,
-  "2022-06-28": 31215,
-  "2022-06-29": 31215,
-  "2022-06-30": 31216,
-  "2022-07-01": 31217,
-  "2022-07-02": 31212,
-  "2022-07-03": 31207,
-  "2022-07-04": 31204,
-  "2022-07-05": 31199,
-  "2022-07-06": 31198,
-  "2022-07-07": 31202,
-  "2022-07-08": 31198,
-  "2022-07-09": 31193,
-  "2022-07-10": 31189,
-  "2022-07-11": 31182,
-  "2022-07-12": 31186,
-  "2022-07-13": 31187,
-  "2022-07-14": 31187,
-  "2022-07-15": 31183,
-  "2022-07-16": 31183,
-  "2022-07-17": 31176,
-  "2022-07-18": 31175,
-  "2022-07-19": 31171,
-  "2022-07-20": 31167,
-  "2022-07-21": 31160,
-  "2022-07-22": 31160,
-  "2022-07-23": 31155,
-  "2022-07-24": 31146,
-  "2022-07-25": 31132,
-  "2022-07-26": 31134,
-  "2022-07-27": 31132,
-  "2022-07-28": 31134,
-  "2022-07-29": 31126,
-  "2022-07-30": 31124,
-  "2022-07-31": 31124,
-  "2022-08-01": 31118,
-  "2022-08-02": 31102,
-  "2022-08-03": 31102,
-  "2022-08-04": 31107,
-  "2022-08-05": 31114,
-  "2022-08-06": 31118,
-  "2022-08-07": 31112,
-  "2022-08-08": 31104,
-  "2022-08-09": 31110,
-  "2022-08-10": 31101,
-  "2022-08-11": 31097,
-  "2022-08-12": 31102,
-  "2022-08-13": 31103,
-  "2022-08-14": 31094,
-  "2022-08-15": 31081,
-  "2022-08-16": 31078,
-  "2022-08-17": 31084,
-  "2022-08-18": 31084,
-  "2022-08-19": 31090,
-  "2022-08-20": 31091,
-  "2022-08-21": 31093,
-  "2022-08-22": 31092,
-  "2022-08-23": 31095,
-  "2022-08-24": 31098,
-  "2022-08-25": 31112,
-  "2022-08-26": 31114,
-  "2022-08-27": 31108,
-  "2022-08-28": 31120,
-  "2022-08-29": 31113,
-  "2022-08-30": 31031,
-  "2022-08-31": 30845,
-  "2022-09-01": 30651,
-  "2022-09-02": 30448,
-  "2022-09-03": 30135,
-  "2022-09-04": 30000,
-  "2022-09-05": 29986,
-  "2022-09-06": 29985,
-  "2022-09-07": 29987,
-  "2022-09-09": 29991,
-  "2022-09-10": 30006,
-  "2022-09-11": 30006,
-  "2022-09-12": 30004,
-  "2022-09-13": 30009,
-  "2022-09-15": 30026,
-  "2022-09-16": 30032,
-  "2022-09-17": 30044,
-  "2022-09-18": 30048,
-  "2022-09-19": 30050,
-  "2022-09-20": 30055,
-  "2022-09-21": 30062,
-  "2022-09-22": 30071,
-  "2022-09-23": 30069,
-  "2022-09-24": 30076,
-  "2022-09-25": 30082,
-  "2022-09-26": 30090,
-  "2022-09-27": 30088,
-  "2022-09-28": 30086,
-  "2022-09-29": 30082,
-  "2022-09-30": 30087,
-  "2022-10-01": 30091,
-  "2022-10-02": 30084,
-  "2022-10-03": 30090,
-  "2022-10-04": 30091,
-  "2022-10-05": 30096,
-  "2022-10-06": 30097,
-  "2022-10-07": 30096,
-  "2022-10-08": 30095,
-  "2022-10-09": 30101,
-  "2022-10-10": 30097,
-  "2022-10-11": 30101,
-  "2022-10-12": 30118,
-  "2022-10-13": 30129,
-  "2022-10-14": 30131,
-  "2022-10-15": 30137,
-  "2022-10-16": 30147,
-  "2022-10-17": 30164,
-  "2022-10-18": 30176,
-  "2022-10-19": 30185,
-  "2022-10-20": 30192,
-  "2022-10-21": 30206,
-  "2022-10-22": 30209,
-  "2022-10-23": 30205,
-  "2022-10-24": 30205,
-  "2022-10-25": 30217,
-  "2022-10-26": 30215,
-  "2022-10-27": 30229,
-  "2022-10-28": 30232,
-  "2022-10-29": 30234,
-  "2022-10-30": 30239,
-  "2022-10-31": 30250,
-  "2022-11-01": 30254,
-  "2022-11-02": 30267,
-  "2022-11-03": 30276,
-  "2022-11-04": 30291,
-  "2022-11-05": 30304,
-  "2022-11-06": 30301,
-  "2022-11-07": 30303,
-  "2022-11-08": 30313,
-  "2022-11-09": 30333,
-  "2022-11-10": 30343,
-  "2022-11-11": 30350,
-  "2022-11-12": 30360,
-  "2022-11-13": 30367,
-  "2022-11-14": 30382,
-  "2022-11-15": 30401,
-  "2022-11-16": 30419,
-  "2022-11-17": 30427,
-  "2022-11-18": 30426,
-  "2022-11-19": 30420,
-  "2022-11-20": 30434,
-  "2022-11-21": 30447,
-  "2022-11-22": 30460,
-  "2022-11-23": 30473,
-  "2022-11-24": 30503,
-  "2022-11-25": 30522,
-  "2022-11-26": 30531,
-  "2022-11-27": 30543,
-  "2022-11-28": 30547,
-  "2022-11-29": 30562,
-  "2022-11-30": 30575,
-  "2022-12-01": 30575,
-  "2022-12-02": 30579,
-  "2022-12-03": 30604,
-  "2022-12-04": 30615,
-  "2022-12-05": 30623,
-  "2022-12-06": 30637,
-  "2022-12-07": 30646,
-  "2022-12-08": 30653,
-  "2022-12-09": 30665,
-  "2022-12-10": 30659,
-  "2022-12-11": 30662,
-  "2022-12-12": 30667,
-  "2022-12-13": 30677,
-  "2022-12-14": 30683,
-  "2022-12-15": 30693,
-  "2022-12-16": 30695,
-  "2022-12-17": 30708,
-  "2022-12-18": 30709,
-  "2022-12-19": 30719,
-  "2022-12-20": 30751,
-  "2022-12-21": 30751,
-  "2022-12-22": 30764,
-  "2022-12-24": 30771,
-  "2022-12-25": 30779,
-  "2022-12-26": 30784,
-  "2022-12-27": 30801,
-  "2022-12-28": 30810,
-  "2022-12-29": 30823,
-  "2022-12-30": 30828,
-  "2022-12-31": 30833,
-  "2023-01-01": 30836,
-  "2023-01-02": 30840,
-  "2023-01-03": 30866,
-  "2023-01-04": 30874,
-  "2023-01-05": 30884,
-  "2023-01-06": 30897,
-  "2023-01-07": 30899,
-  "2023-01-08": 30900,
-  "2023-01-09": 30905,
-  "2023-01-10": 30920,
-  "2023-01-11": 30928,
-  "2023-01-12": 30935,
-  "2023-01-13": 30948,
-  "2023-01-14": 30959,
-  "2023-01-15": 30963,
-  "2023-01-16": 30972,
-  "2023-01-17": 30998,
-  "2023-01-18": 31004,
-  "2023-01-19": 31002,
-  "2023-01-20": 31013,
-  "2023-01-21": 31021,
-  "2023-01-22": 31036,
-  "2023-01-23": 31046,
-  "2023-01-24": 31047,
-  "2023-01-25": 31053,
-  "2023-01-26": 31064,
-  "2023-01-27": 31068,
-  "2023-01-28": 31075,
-  "2023-01-29": 31088,
-  "2023-01-30": 31090,
-  "2023-01-31": 31090,
-  "2023-02-01": 31113,
-  "2023-02-02": 31127,
-  "2023-02-03": 31127,
-  "2023-02-04": 31139,
-  "2023-02-05": 31151,
-  "2023-02-06": 31164,
-  "2023-02-07": 31166,
-  "2023-02-08": 31175,
-  "2023-02-09": 31175,
-  "2023-02-10": 31187,
-  "2023-02-11": 31199,
-  "2023-02-12": 31213,
-  "2023-02-13": 31212,
-  "2023-02-14": 31212,
-  "2023-02-15": 31219,
-  "2023-02-16": 31229,
-  "2023-02-17": 31234,
-  "2023-02-18": 31237,
-  "2023-02-19": 31242,
-  "2023-02-20": 31245,
-  "2023-02-21": 31245,
-  "2023-02-22": 31254,
-  "2023-02-23": 31260,
-  "2023-02-24": 31268,
-  "2023-02-25": 31286,
-  "2023-02-26": 31280,
-  "2023-02-27": 31286,
-  "2023-02-28": 31286,
-  "2023-03-01": 31302,
-  "2023-03-02": 31316,
-  "2023-03-03": 31311,
-  "2023-03-04": 31318,
-  "2023-03-05": 31327,
-  "2023-03-06": 31327,
-  "2023-03-07": 31337,
-  "2023-03-08": 31339,
-  "2023-03-09": 31345,
-  "2023-03-10": 31359,
-  "2023-03-11": 31361,
-  "2023-03-12": 31366,
-  "2023-03-13": 31371,
-  "2023-03-14": 31375,
-  "2023-03-15": 31381,
-  "2023-03-16": 31401,
-  "2023-03-17": 31401,
-  "2023-03-18": 31397,
-  "2023-03-19": 31398,
-  "2023-03-20": 31398,
-  "2023-03-21": 31401,
-  "2023-03-22": 31416,
-  "2023-03-23": 31425,
-  "2023-03-24": 31425,
-  "2023-03-25": 31439,
-  "2023-03-26": 31446,
-  "2023-03-27": 31442,
-  "2023-03-28": 31449,
-  "2023-03-29": 31457,
-  "2023-03-30": 31460,
-  "2023-03-31": 31460,
-  "2023-04-01": 31465,
-  "2023-04-02": 31477,
-  "2023-04-03": 31485,
-  "2023-04-04": 31487,
-  "2023-04-05": 31500,
-  "2023-04-06": 31506,
-  "2023-04-07": 31505,
-  "2023-04-09": 31524,
-  "2023-04-10": 31523,
-  "2023-04-11": 31524,
-  "2023-04-12": 31524,
-  "2023-04-13": 31527,
-  "2023-04-14": 31536,
-  "2023-04-15": 31540,
-  "2023-04-16": 31543,
-  "2023-04-17": 31549,
-  "2023-04-18": 31550,
-  "2023-04-19": 31562,
-  "2023-04-20": 31563,
-  "2023-04-21": 31565,
-  "2023-04-22": 31569,
-  "2023-04-23": 31573,
-  "2023-04-24": 31573,
-  "2023-04-25": 31572,
-  "2023-04-26": 31571,
-  "2023-04-27": 31579,
-  "2023-04-28": 31589,
-  "2023-04-29": 31591,
-  "2023-04-30": 31596,
-  "2023-05-01": 31600,
-  "2023-05-02": 31601,
-  "2023-05-03": 31602,
-  "2023-05-04": 31608,
-  "2023-05-05": 31615,
-  "2023-05-06": 31624,
-  "2023-05-07": 31623,
-  "2023-05-08": 31626,
-  "2023-05-09": 31630,
-  "2023-05-10": 31639,
-  "2023-05-11": 31641,
-  "2023-05-12": 31643,
-  "2023-05-13": 31643,
-  "2023-05-14": 31643,
-  "2023-05-15": 31648,
-  "2023-05-16": 31651,
-  "2023-05-17": 31655,
-  "2023-05-18": 31659,
-  "2023-05-19": 31667,
-  "2023-05-20": 31675,
-  "2023-05-21": 31675,
-  "2023-05-22": 31675,
-  "2023-05-23": 31677,
-  "2023-05-24": 31682,
-  "2023-05-25": 31680,
-  "2023-05-26": 31679,
-  "2023-05-27": 31685,
-  "2023-05-28": 31694,
-  "2023-05-29": 31694,
-  "2023-05-30": 31693,
-  "2023-05-31": 31696,
-  "2023-06-01": 31700,
-  "2023-06-02": 31697,
-  "2023-06-03": 31691,
-  "2023-06-04": 31691,
-  "2023-06-05": 31689,
-  "2023-06-06": 31692,
-  "2023-06-07": 31693,
-  "2023-06-08": 31692,
-  "2023-06-09": 31690,
-  "2023-06-10": 31694,
-  "2023-06-11": 31692,
-  "2023-06-12": 31689,
-  "2023-06-13": 31695,
-  "2023-06-14": 31699,
-  "2023-06-15": 31701,
-  "2023-06-16": 31703,
-  "2023-06-17": 31704,
-  "2023-06-18": 31702,
-  "2023-06-19": 31710,
-  "2023-06-20": 31704,
-  "2023-06-21": 31709,
-  "2023-06-22": 31716,
-  "2023-06-23": 31718,
-  "2023-06-24": 31714,
-  "2023-06-25": 31716,
-  "2023-06-26": 31715,
-  "2023-06-27": 31712,
-  "2023-06-28": 31714,
-  "2023-06-29": 31714,
-  "2023-06-30": 31727,
-  "2023-07-01": 31739,
-  "2023-07-02": 31739,
-  "2023-07-03": 31746,
-  "2023-07-04": 31749,
-  "2023-07-05": 31762,
-  "2023-07-06": 31776,
-  "2023-07-07": 31776,
-  "2023-07-08": 31776,
-  "2023-07-09": 31777,
-  "2023-07-10": 31778,
-  "2023-07-11": 31776,
-  "2023-07-12": 31778,
-  "2023-07-13": 31788,
-  "2023-07-14": 31785,
-  "2023-07-15": 31782,
-  "2023-07-16": 31788,
-  "2023-07-17": 31791,
-  "2023-07-18": 31801,
-  "2023-07-19": 31804,
-  "2023-07-20": 31813,
-  "2023-07-21": 31821,
-  "2023-07-22": 31829,
-  "2023-07-23": 31834,
-  "2023-07-24": 31832,
-  "2023-07-25": 31833,
-  "2023-07-26": 31830,
-  "2023-07-27": 31835,
-  "2023-07-28": 31844,
-  "2023-07-29": 31833,
-  "2023-07-30": 31835,
-  "2023-07-31": 31841,
-  "2023-08-01": 31841,
-  "2023-08-02": 31845,
-  "2023-08-03": 31853,
-  "2023-08-04": 31857,
-  "2023-08-05": 31861,
-  "2023-08-06": 31872,
-  "2023-08-07": 31872,
-  "2023-08-08": 31879,
-  "2023-08-09": 31876,
-  "2023-08-10": 31873,
-  "2023-08-11": 31867,
-  "2023-08-12": 31868,
-  "2023-08-13": 31876,
-  "2023-08-14": 31883,
-  "2023-08-15": 31896,
-  "2023-08-16": 31896,
-  "2023-08-17": 31898,
-  "2023-08-18": 31896,
-  "2023-08-19": 31894,
-  "2023-08-20": 31904,
-  "2023-08-21": 31910,
-  "2023-08-22": 31918,
-  "2023-08-23": 31929,
-  "2023-08-24": 31931,
-  "2023-08-25": 31936,
-  "2023-08-26": 31940,
-  "2023-08-27": 31946,
-  "2023-08-28": 31954,
-  "2023-08-29": 31953,
-  "2023-08-30": 31964,
-  "2023-08-31": 31981,
-  "2023-09-01": 32007,
-  "2023-09-02": 32007,
-  "2023-09-03": 32014,
-  "2023-09-04": 32019,
-  "2023-09-05": 32025,
-  "2023-09-06": 32029,
-  "2023-09-07": 32041,
-  "2023-09-08": 32054,
-  "2023-09-09": 32062,
-  "2023-09-10": 32074,
-  "2023-09-11": 32074,
-  "2023-09-12": 32084,
-  "2023-09-13": 32088,
-  "2023-09-14": 32090,
-  "2023-09-15": 32108,
-  "2023-09-16": 32114,
-  "2023-09-17": 32119,
-  "2023-09-18": 32120,
-  "2023-09-19": 32125,
-  "2023-09-20": 32131,
-  "2023-09-21": 32146,
-  "2023-09-22": 32153,
-  "2023-09-23": 32170,
-  "2023-09-24": 32170,
-  "2023-09-25": 32182,
-  "2023-09-26": 32206,
-  "2023-09-27": 32214,
-  "2023-09-28": 32221,
-  "2023-09-29": 32230,
-  "2023-09-30": 32235,
-  "2023-10-01": 32245,
-  "2023-10-02": 32265,
-  "2023-10-03": 32267,
-  "2023-10-04": 32279,
-  "2023-10-05": 32285,
-  "2023-10-06": 32298,
-  "2023-10-07": 32314,
-  "2023-10-08": 32325,
-  "2023-10-09": 32338,
-  "2023-10-10": 32353,
-  "2023-10-11": 32383,
-  "2023-10-12": 32383,
-  "2023-10-13": 32398,
-  "2023-10-14": 32398,
-  "2023-10-15": 32398,
-  "2023-10-16": 32398,
-  "2023-10-17": 32398,
-  "2023-10-18": 32466,
-  "2023-10-19": 32489,
-  "2023-10-20": 32489,
-  "2023-10-21": 32489,
-  "2023-10-22": 32489,
-  "2023-10-23": 32557,
-  "2023-10-24": 32565,
-  "2023-10-25": 32565,
-  "2023-10-26": 32565,
-  "2023-10-27": 32565,
-  "2023-10-28": 32565,
-  "2023-10-29": 32565,
-  "2023-10-30": 32655,
-  "2023-10-31": 32655,
-  "2023-11-01": 32655,
-  "2023-11-02": 32707,
-  "2023-11-03": 32707,
-  "2023-11-04": 32707,
-  "2023-11-05": 32707,
-  "2023-11-06": 32707,
-  "2023-11-07": 32707,
-  "2023-11-08": 32707,
-  "2023-11-09": 32707,
-  "2023-11-10": 32707,
-  "2023-11-11": 32828,
-  "2023-11-12": 32831,
-  "2023-11-13": 32831,
-  "2023-11-14": 32831,
-  "2023-11-15": 32831,
-  "2023-11-16": 32831,
-  "2023-11-17": 32880,
-  "2023-11-18": 32880,
-  "2023-11-19": 32880,
-  "2023-11-20": 32880,
-  "2023-11-21": 32912,
-  "2023-11-22": 32912,
-  "2023-11-23": 32931,
-  "2023-11-24": 32931,
-  "2023-11-25": 32931,
-  "2023-11-26": 32931,
-  "2023-11-27": 32931,
-  "2023-11-28": 32931,
-  "2023-11-29": 32931,
-  "2023-11-30": 32931,
-  "2023-12-01": 32931,
-  "2023-12-02": 32931,
-  "2023-12-03": 32931,
-  "2023-12-04": 32931,
-  "2023-12-05": 32931,
-  "2023-12-06": 32931,
-  "2023-12-07": 32931,
-  "2023-12-08": 32931,
-  "2023-12-09": 33060,
-  "2023-12-10": 33060,
-  "2023-12-11": 33073,
-  "2023-12-12": 33073,
-  "2023-12-13": 33094,
-  "2023-12-14": 33108,
-  "2023-12-15": 33111,
-  "2023-12-16": 33114,
-  "2023-12-17": 33122,
-  "2023-12-18": 33139,
-  "2023-12-19": 33149,
-  "2023-12-20": 33152,
-  "2023-12-21": 33158,
-  "2023-12-22": 33172,
-  "2023-12-23": 33185,
-  "2023-12-24": 33200,
-  "2023-12-25": 33209,
-  "2023-12-26": 33220,
-  "2023-12-27": 33237,
-  "2023-12-30": 33266,
-  "2023-12-31": 33270,
-  "2024-01-01": 33277,
-  "2024-01-02": 33279,
-  "2024-01-03": 33291
+  "2024-01-17": 33374,
+  "date_first_scraped": "2021-12-30",
+  "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
+  "name": "ASMR Sleep Whispers",
+  "tracks": [
+    {
+      "album": {
+        "name": "7 Terrific Triggers",
+        "url": "https://open.spotify.com/album/5hkatDJDbc75G83lu0nEX6"
+      },
+      "artists": [
+        {
+          "name": "TheOneLilium ASMR",
+          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "7 Terrific Triggers, Pt. 1",
+      "url": "https://open.spotify.com/track/1kmBYv7Hw8zH2CaxTvzzii"
+    },
+    {
+      "album": {
+        "name": "7 Terrific Triggers",
+        "url": "https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3"
+      },
+      "artists": [
+        {
+          "name": "TheOneLilium ASMR",
+          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 216000,
+      "name": "7 Terrific Triggers, Pt. 1",
+      "url": "https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK"
+    },
+    {
+      "album": {
+        "name": "ASMR 8D Mic Scratching w/Spoolie and Slow Whispering",
+        "url": "https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-17",
+      "duration_ms": 206000,
+      "name": "8D Mic Scratching with Spoolie and Slow Whispering, Pt. 4",
+      "url": "https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb"
+    },
+    {
+      "album": {
+        "name": "ASMR 8D Mic Scratching w/Spoolie and Slow Whispering",
+        "url": "https://open.spotify.com/album/7xwDBNS7i2d09hJUwOhrEP"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "8D Mic Scratching with Spoolie and Slow Whispering, Pt. 4",
+      "url": "https://open.spotify.com/track/57fRbdbk9bPW5DJV508GBL"
+    },
+    {
+      "album": {
+        "name": "Russian Language Revision - Cyrillic Alphabet",
+        "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
+      },
+      "artists": [
+        {
+          "name": "iPad ASMR",
+          "url": "https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 209000,
+      "name": "Alphabet Revision, Pt. 1",
+      "url": "https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc"
+    },
+    {
+      "album": {
+        "name": "Russian Language Revision - Cyrillic Alphabet",
+        "url": "https://open.spotify.com/album/3sLOxB7tgQQBOc614YUoGT"
+      },
+      "artists": [
+        {
+          "name": "iPad ASMR",
+          "url": "https://open.spotify.com/artist/3oZZNdRaWl8HYAnwcbPYbN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Alphabet Revision, Pt. 1",
+      "url": "https://open.spotify.com/track/4Jg7i26bxbojqoo1QxCA8u"
+    },
+    {
+      "album": {
+        "name": "Anticipatory Ear to Ear Whisepers",
+        "url": "https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL"
+      },
+      "artists": [
+        {
+          "name": "Slight Sounds ASMR",
+          "url": "https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322455,
+      "name": "Anticipatory Ear to Ear Whispers Pt.1",
+      "url": "https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT"
+    },
+    {
+      "album": {
+        "name": "Shh it's Ok, Relax and Ramble (Personal Attention/Affirmation)",
+        "url": "https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 642000,
+      "name": "Audio on Spotify, Surfshark",
+      "url": "https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni"
+    },
+    {
+      "album": {
+        "name": "Shh it's Ok, Relax and Ramble (Personal Attention/Affirmation)",
+        "url": "https://open.spotify.com/album/2IcaGhcQOeJi10AjiuJGJy"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 642000,
+      "name": "Audio on Spotify, Surfshark",
+      "url": "https://open.spotify.com/track/2bPdgFLnWeynj5RQKdj4Gd"
+    },
+    {
+      "album": {
+        "name": "Tapping and Crinkling",
+        "url": "https://open.spotify.com/album/3KBp6agI6ObJbX1wR063Vr"
+      },
+      "artists": [
+        {
+          "name": "Chloe C ASMR",
+          "url": "https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 204337,
+      "name": "Blowing Air",
+      "url": "https://open.spotify.com/track/79NIaixDTBEYbQK5dO8aF1"
+    },
+    {
+      "album": {
+        "name": "Brain Melting Sleep Treatment",
+        "url": "https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w"
+      },
+      "artists": [
+        {
+          "name": "Tingting ASMR",
+          "url": "https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389971,
+      "name": "Brain Melting Sleep Treatment Pt.1",
+      "url": "https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa"
+    },
+    {
+      "album": {
+        "name": "Laura Says ASMR",
+        "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
+      },
+      "artists": [
+        {
+          "name": "Laura Love ASMR",
+          "url": "https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 244129,
+      "name": "Breathing in and out",
+      "url": "https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t"
+    },
+    {
+      "album": {
+        "name": "Close Ear to Ear Whispered Countdown to Sleep",
+        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
+      },
+      "artists": [
+        {
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296698,
+      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.2",
+      "url": "https://open.spotify.com/track/1volF5Eo78NkxftiB0pg75"
+    },
+    {
+      "album": {
+        "name": "Close Ear to Ear Whispered Countdown to Sleep",
+        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
+      },
+      "artists": [
+        {
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279222,
+      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.4",
+      "url": "https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR"
+    },
+    {
+      "album": {
+        "name": "Cozy Low-Light",
+        "url": "https://open.spotify.com/album/4ycfXJlHSIT4JeosgjGcMb"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Moon ASMR",
+          "url": "https://open.spotify.com/artist/2suw8cZRpUiapwhFP8tASj"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470619,
+      "name": "Cozy Low-Light Pt.4",
+      "url": "https://open.spotify.com/track/16hoz3j0hMPDMJYv659kPq"
+    },
+    {
+      "album": {
+        "name": "DEEP SLEEP in 45 Minutes",
+        "url": "https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u"
+      },
+      "artists": [
+        {
+          "name": "Alana ASMR",
+          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298347,
+      "name": "DEEP SLEEP in 45 Minutes Pt.3",
+      "url": "https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q"
+    },
+    {
+      "album": {
+        "name": "Checking Up On You (Scratch, Tapping, Ramble)",
+        "url": "https://open.spotify.com/album/1Do1eNmYnpBrXSbjXCI57Z"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321000,
+      "name": "Do You Have Plans?",
+      "url": "https://open.spotify.com/track/1qlGwXQZKiyXOw67dElhoP"
+    },
+    {
+      "album": {
+        "name": "Checking Up On You (Scratch, Tapping, Ramble)",
+        "url": "https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 321000,
+      "name": "Do You Have Plans?",
+      "url": "https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ"
+    },
+    {
+      "album": {
+        "name": "May I Touch You?",
+        "url": "https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw"
+      },
+      "artists": [
+        {
+          "name": "LunaRexx ASMR",
+          "url": "https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 187382,
+      "name": "Everything is Okay",
+      "url": "https://open.spotify.com/track/0EuUoivsrB7lBHZDffnvxc"
+    },
+    {
+      "album": {
+        "name": "May I Touch You?",
+        "url": "https://open.spotify.com/album/3zr7dqQ2k9EG0MCAubYqql"
+      },
+      "artists": [
+        {
+          "name": "LunaRexx ASMR",
+          "url": "https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187382,
+      "name": "Everything is Okay",
+      "url": "https://open.spotify.com/track/3nb3ETwE9NEjmRuszFSFp2"
+    },
+    {
+      "album": {
+        "name": "Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering [ASMR at 100% Sensitivity]",
+        "url": "https://open.spotify.com/album/1OmgwNuQvXPqnqENtlkrjT"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 192000,
+      "name": "Extremely Sensitive ASMR Mic Scratching and Ear to Ear Whispering, Pt. 1",
+      "url": "https://open.spotify.com/track/5k6j68qAUCCMtuFsuKPWSo"
+    },
+    {
+      "album": {
+        "name": "8D ASMR - Fluffy Mic & Slow Whispering Around Your Head",
+        "url": "https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-17",
+      "duration_ms": 316000,
+      "name": "Fluffy Mic & Slow Whispering Around Your Head, Pt. 2",
+      "url": "https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1"
+    },
+    {
+      "album": {
+        "name": "8D ASMR - Fluffy Mic & Slow Whispering Around Your Head",
+        "url": "https://open.spotify.com/album/0Gh6wdhrgzwGeTYsiz9qTY"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 316000,
+      "name": "Fluffy Mic & Slow Whispering Around Your Head, Pt. 2",
+      "url": "https://open.spotify.com/track/4EAP4yIQlIwowyqTKKBLXv"
+    },
+    {
+      "album": {
+        "name": "ASMR Whispers",
+        "url": "https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN"
+      },
+      "artists": [
+        {
+          "name": "Mikki ASMR",
+          "url": "https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306320,
+      "name": "Gibberish",
+      "url": "https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1"
+    },
+    {
+      "album": {
+        "name": "ASMR For Sleep | Zen Rainforest Sleep Treatment - Day 1 of 3",
+        "url": "https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 361000,
+      "name": "Going Over Your Notes / Writing Sounds",
+      "url": "https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a"
+    },
+    {
+      "album": {
+        "name": "ASMR For Sleep | Zen Rainforest Sleep Treatment - Day 1 of 3",
+        "url": "https://open.spotify.com/album/7FFtmDlOVzVkqRUuFip36l"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361000,
+      "name": "Going Over Your Notes / Writing Sounds",
+      "url": "https://open.spotify.com/track/3YxyDSG1HgIjVQOIt1sENb"
+    },
+    {
+      "album": {
+        "name": "Whispering Things Your Brain Needs To Hear",
+        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 909500,
+      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
+      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
+    },
+    {
+      "album": {
+        "name": "Whispering Things Your Brain Needs To Hear",
+        "url": "https://open.spotify.com/album/2uxS4hwrZPnUlUpPkGix99"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 909500,
+      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
+      "url": "https://open.spotify.com/track/6qh2KnPtlLsd421MywfYXs"
+    },
+    {
+      "album": {
+        "name": "ASMR Guided Visualisation for Sleep",
+        "url": "https://open.spotify.com/album/5J0uoLda9QaqqEnUBX6vBK"
+      },
+      "artists": [
+        {
+          "name": "ASMR Blossom",
+          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 135500,
+      "name": "Guided Visualization for Sleep, Pt. 1",
+      "url": "https://open.spotify.com/track/2iGO8SBiky4hRHVVGB270f"
+    },
+    {
+      "album": {
+        "name": "ASMR Guided Visualisation for Sleep",
+        "url": "https://open.spotify.com/album/2N9fYuYYRuK7M8tMVG73We"
+      },
+      "artists": [
+        {
+          "name": "ASMR Blossom",
+          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Guided Visualization for Sleep, Pt. 1",
+      "url": "https://open.spotify.com/track/5KLEQb0UkkzqAaLFrxb8ft"
+    },
+    {
+      "album": {
+        "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
+        "url": "https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Cottage ASMR",
+          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Identifying the Different Fantasy Coins",
+      "url": "https://open.spotify.com/track/2hZ9Oix00VixG6xLnQBoeW"
+    },
+    {
+      "album": {
+        "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
+        "url": "https://open.spotify.com/album/53mRZ0RNRh0pMAkFMrhLV8"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Cottage ASMR",
+          "url": "https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-17",
+      "duration_ms": 303000,
+      "name": "Identifying the Different Fantasy Coins",
+      "url": "https://open.spotify.com/track/6Y53WoHgjy7RwHh7AXiROE"
+    },
+    {
+      "album": {
+        "name": "Intense Relaxation",
+        "url": "https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8"
+      },
+      "artists": [
+        {
+          "name": "ASMR Glow",
+          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447873,
+      "name": "Intense Relaxation Pt.2",
+      "url": "https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40"
+    },
+    {
+      "album": {
+        "name": "Santorini Sunbath ASMR",
+        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
+      },
+      "artists": [
+        {
+          "name": "Summer ASMR",
+          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304949,
+      "name": "Into Dreams",
+      "url": "https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn"
+    },
+    {
+      "album": {
+        "name": "Let's Fall Asleep Together",
+        "url": "https://open.spotify.com/album/4MDMFBvoD63cpWzPhYOWPW"
+      },
+      "artists": [
+        {
+          "name": "ASMR Cherry Crush",
+          "url": "https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 218000,
+      "name": "It's Just You and Me",
+      "url": "https://open.spotify.com/track/1E15ykxdCHlUENEsqIOe7K"
+    },
+    {
+      "album": {
+        "name": "Let's Fall Asleep Together",
+        "url": "https://open.spotify.com/album/3IXSl8QI6bTxwUyk1wGBL2"
+      },
+      "artists": [
+        {
+          "name": "ASMR Cherry Crush",
+          "url": "https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "It's Just You and Me",
+      "url": "https://open.spotify.com/track/1wUoJueIuf0OL3jagKRt8D"
+    },
+    {
+      "album": {
+        "name": "Let's Fall Asleep Together",
+        "url": "https://open.spotify.com/album/5CRBoC6jLGPsxOpkcxKVRz"
+      },
+      "artists": [
+        {
+          "name": "ASMR Cherry Crush",
+          "url": "https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218000,
+      "name": "It's Just You and Me",
+      "url": "https://open.spotify.com/track/7AmkjYnKthAdWlsisckn75"
+    },
+    {
+      "album": {
+        "name": "KKW Beauty Unboxing",
+        "url": "https://open.spotify.com/album/1FwLj8SygHzhFh660eZBn7"
+      },
+      "artists": [
+        {
+          "name": "Chynaunique ASMR",
+          "url": "https://open.spotify.com/artist/6Z9u1ESUuHk9m66KVYFZa6"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 114000,
+      "name": "KKW Beauty Unboxing, Pt. 1",
+      "url": "https://open.spotify.com/track/69m3nD9Ju1Vo4rXxjfZrfr"
+    },
+    {
+      "album": {
+        "name": "Laura Says ASMR",
+        "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
+      },
+      "artists": [
+        {
+          "name": "Laura Love ASMR",
+          "url": "https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224891,
+      "name": "Laura Says ASMR",
+      "url": "https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp"
+    },
+    {
+      "album": {
+        "name": "3Dio Ear Touching ASMR - Liquid Bubble Hourglass",
+        "url": "https://open.spotify.com/album/7npzqkuDloJNEyEgxcy6yj"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 262500,
+      "name": "Liquid Bubble Hourglass & Whispering, Pt. 4",
+      "url": "https://open.spotify.com/track/4MoJG4kECK0KoPMPNbnLmL"
+    },
+    {
+      "album": {
+        "name": "Sounds To Help You Sleep in 15 Minutes",
+        "url": "https://open.spotify.com/album/7FBQgbJXAqYIQGvrHWsF3j"
+      },
+      "artists": [
+        {
+          "name": "fastASMR",
+          "url": "https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302088,
+      "name": "Making Your Eyes Heavy",
+      "url": "https://open.spotify.com/track/01Zuq3xB12zBwqfbPT55r8"
+    },
+    {
+      "album": {
+        "name": "Measuring and Examining Your Face",
+        "url": "https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4"
+      },
+      "artists": [
+        {
+          "name": "Catplant ASMR",
+          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376603,
+      "name": "Measuring and Examining Your Face Pt.1",
+      "url": "https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf"
+    },
+    {
+      "album": {
+        "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
+        "url": "https://open.spotify.com/album/0IHfyUsgLNwuSHP7gTxd2F"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404000,
+      "name": "Milk Bath",
+      "url": "https://open.spotify.com/track/2WwA9o1ZQWu9W2JGAg42OG"
+    },
+    {
+      "album": {
+        "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
+        "url": "https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 404000,
+      "name": "Milk Bath",
+      "url": "https://open.spotify.com/track/4Dph1YEGoMe8mw6Kze3c0u"
+    },
+    {
+      "album": {
+        "name": "Insanely Breathy Trigger Words",
+        "url": "https://open.spotify.com/album/0vD19eMiArWFikdxQ6JDBa"
+      },
+      "artists": [
+        {
+          "name": "Pelagea ASMR",
+          "url": "https://open.spotify.com/artist/40f0MzS4yBApX9ljSWcZkR"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121654,
+      "name": "Nase",
+      "url": "https://open.spotify.com/track/6kWaWKqVpNtvIdHTVY8vA0"
+    },
+    {
+      "album": {
+        "name": "12 Trigger Words to Help You Sleep",
+        "url": "https://open.spotify.com/album/1POequBnZcHlvAtAPQFjWj"
+      },
+      "artists": [
+        {
+          "name": "fastASMR",
+          "url": "https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507744,
+      "name": "Okay, Good, Stipple",
+      "url": "https://open.spotify.com/track/4yjGib7nCw7bbM6lXZCPMi"
+    },
+    {
+      "album": {
+        "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
+        "url": "https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 74000,
+      "name": "Painting Your Lips",
+      "url": "https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx"
+    },
+    {
+      "album": {
+        "name": "Binaural ASMR Descriptions",
+        "url": "https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0"
+      },
+      "artists": [
+        {
+          "name": "ASMR Whisperers",
+          "url": "https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 156115,
+      "name": "Pen Whisper Description",
+      "url": "https://open.spotify.com/track/0IPEY8pEz91Q28z1HHgj8z"
+    },
+    {
+      "album": {
+        "name": "Personal Attention and Positive Affirmations Just For You",
+        "url": "https://open.spotify.com/album/6Kf13BVT0bA0m0GsgqX4Hn"
+      },
+      "artists": [
+        {
+          "name": "Jinx ASMR",
+          "url": "https://open.spotify.com/artist/0xl6qcCkuTgiBrb4pGEOrx"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306201,
+      "name": "Personal Attention and Positive Affirmations Just For You Pt.1",
+      "url": "https://open.spotify.com/track/1zQ7QdMU2RKHR3mAzPHtJm"
+    },
+    {
+      "album": {
+        "name": "Intensely Crunchy Celery Eating",
+        "url": "https://open.spotify.com/album/6hAPbeiIKR3EN7c10aDOE8"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 884434,
+      "name": "Positive Affirmations",
+      "url": "https://open.spotify.com/track/0J6OydusRQAnCnm93BTi1z"
+    },
+    {
+      "album": {
+        "name": "Intensely Crunchy Celery Eating",
+        "url": "https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 884434,
+      "name": "Positive Affirmations",
+      "url": "https://open.spotify.com/track/4tO8q7KwM67C86FJHDAeoY"
+    },
+    {
+      "album": {
+        "name": "8D ASMR - Pure Whispering Around Your Head",
+        "url": "https://open.spotify.com/album/3vR69UwMbbMU06Q1S9A4Dd"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 386500,
+      "name": "Pure Whispering Around Your Head, Pt. 1",
+      "url": "https://open.spotify.com/track/6b15JZOC30ALj39u8qyKE3"
+    },
+    {
+      "album": {
+        "name": "July Tingly Studio Sounds Special",
+        "url": "https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz"
+      },
+      "artists": [
+        {
+          "name": "DianaDewAsmr",
+          "url": "https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307488,
+      "name": "Reassuring Whispers 2 Asmr",
+      "url": "https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx"
+    },
+    {
+      "album": {
+        "name": "July Tingly Studio Sounds Special",
+        "url": "https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz"
+      },
+      "artists": [
+        {
+          "name": "DianaDewAsmr",
+          "url": "https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226968,
+      "name": "Reassuring Whispers Asmr",
+      "url": "https://open.spotify.com/track/48yZMCOxznAnwEuqyiX1Cg"
+    },
+    {
+      "album": {
+        "name": "Binaural ASMR Descriptions",
+        "url": "https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0"
+      },
+      "artists": [
+        {
+          "name": "ASMR Whisperers",
+          "url": "https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166335,
+      "name": "Red Candle Whisper Description",
+      "url": "https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh"
+    },
+    {
+      "album": {
+        "name": "Step-Sis Takes Care Of You",
+        "url": "https://open.spotify.com/album/3tjYY9HmKxoKV0dmAaM6VZ"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420750,
+      "name": "Relax and Close Your Eyes",
+      "url": "https://open.spotify.com/track/3CmSxwPQVQ9sYR4SLgJR94"
+    },
+    {
+      "album": {
+        "name": "Step-Sis Takes Care Of You",
+        "url": "https://open.spotify.com/album/0Bfxpvxe19ojYWQ8ZgCF8A"
+      },
+      "artists": [
+        {
+          "name": "ASMR Leedah",
+          "url": "https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 420750,
+      "name": "Relax and Close Your Eyes",
+      "url": "https://open.spotify.com/track/3ejyzJpCraPR613IbUrnaL"
+    },
+    {
+      "album": {
+        "name": "Relaxing You HEAD to TOE",
+        "url": "https://open.spotify.com/album/7rR9BrOUJew20POht76Dzg"
+      },
+      "artists": [
+        {
+          "name": "Alana ASMR",
+          "url": "https://open.spotify.com/artist/48DAnk1KeJX11nFUNH8CyM"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245795,
+      "name": "Relaxing You HEAD to TOE Pt.5",
+      "url": "https://open.spotify.com/track/6Ult8KyCkQMVqhGWqxjZBy"
+    },
+    {
+      "album": {
+        "name": "May I Touch You?",
+        "url": "https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw"
+      },
+      "artists": [
+        {
+          "name": "LunaRexx ASMR",
+          "url": "https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 294500,
+      "name": "Removing Negative Energy",
+      "url": "https://open.spotify.com/track/24NTw0iCE8kjgY5BGKIqmh"
+    },
+    {
+      "album": {
+        "name": "May I Touch You?",
+        "url": "https://open.spotify.com/album/3zr7dqQ2k9EG0MCAubYqql"
+      },
+      "artists": [
+        {
+          "name": "LunaRexx ASMR",
+          "url": "https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294500,
+      "name": "Removing Negative Energy",
+      "url": "https://open.spotify.com/track/5ZkeEqISDLs7RG4bPkDobc"
+    },
+    {
+      "album": {
+        "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
+        "url": "https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm"
+      },
+      "artists": [
+        {
+          "name": "Dolce Romy ASMR",
+          "url": "https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 302000,
+      "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
+      "url": "https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd"
+    },
+    {
+      "album": {
+        "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
+        "url": "https://open.spotify.com/album/4HFd8jrnnZ7OUYXWGWggUU"
+      },
+      "artists": [
+        {
+          "name": "Dolce Romy ASMR",
+          "url": "https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
+      "url": "https://open.spotify.com/track/7jd2Sqru43mcGjzxlkKWn0"
+    },
+    {
+      "album": {
+        "name": "Santorini Sunbath ASMR",
+        "url": "https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt"
+      },
+      "artists": [
+        {
+          "name": "Summer ASMR",
+          "url": "https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271754,
+      "name": "Santorini Sunbath",
+      "url": "https://open.spotify.com/track/4tl4BYdRlBuY6LvDJcIECm"
+    },
+    {
+      "album": {
+        "name": "Sending Tingle Sleep Vibes",
+        "url": "https://open.spotify.com/album/0hpRT3bt8D7RYRY3MUrBsw"
+      },
+      "artists": [
+        {
+          "name": "Catplant ASMR",
+          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363375,
+      "name": "Sending Tingle Sleep Vibes Pt.1",
+      "url": "https://open.spotify.com/track/4gnmeGl4hzsjsMulvZto9O"
+    },
+    {
+      "album": {
+        "name": "Showering You In Compliments",
+        "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
+      },
+      "artists": [
+        {
+          "name": "ASMR Darling",
+          "url": "https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211128,
+      "name": "Showering You In Compliments Pt.2",
+      "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
+    },
+    {
+      "album": {
+        "name": "Karuna's Sleep Clinic",
+        "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
+      },
+      "artists": [
+        {
+          "name": "Karuna Satori ASMR",
+          "url": "https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232571,
+      "name": "Sleep Clinic Part 2",
+      "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
+    },
+    {
+      "album": {
+        "name": "Sleep-Inducing Haircut",
+        "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
+      },
+      "artists": [
+        {
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253899,
+      "name": "Sleep-Inducing Haircut Pt.3",
+      "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
+    },
+    {
+      "album": {
+        "name": "ASMR Sleep Relaxation Meditation",
+        "url": "https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL"
+      },
+      "artists": [
+        {
+          "name": "Julia Park",
+          "url": "https://open.spotify.com/artist/6txFTb7tigP6uQV2VDuPDS"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229078,
+      "name": "Sleepy Mindset",
+      "url": "https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w"
+    },
+    {
+      "album": {
+        "name": "Super sleepy attention, close positive whispers, inaudible whispers",
+        "url": "https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH"
+      },
+      "artists": [
+        {
+          "name": "RoseASMR",
+          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279875,
+      "name": "Super sleepy attention, close positive whispers, inaudible whispers Pt.1",
+      "url": "https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR"
+    },
+    {
+      "album": {
+        "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
+        "url": "https://open.spotify.com/album/22STdU6oFRzb7wDQAJqKZ3"
+      },
+      "artists": [
+        {
+          "name": "WhisperAudios ASMR",
+          "url": "https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359356,
+      "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
+      "url": "https://open.spotify.com/track/2WYFQOEtY5Y61kGj9g5KfW"
+    },
+    {
+      "album": {
+        "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
+        "url": "https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV"
+      },
+      "artists": [
+        {
+          "name": "WhisperAudios ASMR",
+          "url": "https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-17",
+      "duration_ms": 359356,
+      "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
+      "url": "https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq"
+    },
+    {
+      "album": {
+        "name": "Triggers I'm Wearing",
+        "url": "https://open.spotify.com/album/3xNxeiXBijPz3Ew2I69LWQ"
+      },
+      "artists": [
+        {
+          "name": "ASMR Glow",
+          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277763,
+      "name": "Triggers I'm Wearing Pt.1",
+      "url": "https://open.spotify.com/track/7jFNTsHEIckQPm6nhLlJ0z"
+    },
+    {
+      "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170035,
+      "name": "Unintelligble Sleep Whisper Breathing Scratching",
+      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
+    },
+    {
+      "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182682,
+      "name": "Unintelligble Sleep Whisper Dee Kaa",
+      "url": "https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2"
+    },
+    {
+      "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176039,
+      "name": "Unintelligble Sleep Whisper Sayy Wayy",
+      "url": "https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS"
+    },
+    {
+      "album": {
+        "name": "Unintelligible Whispers",
+        "url": "https://open.spotify.com/album/4yPrMv0lwW7Yl6XfExu0pz"
+      },
+      "artists": [
+        {
+          "name": "ASMR Glow",
+          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155141,
+      "name": "Unintelligible Whispers Pt.1",
+      "url": "https://open.spotify.com/track/7d4fH9j6urESBf2WsbkmKt"
+    },
+    {
+      "album": {
+        "name": "Uplifting Mantras",
+        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
+      },
+      "artists": [
+        {
+          "name": "Asmr Brain Tingle",
+          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293571,
+      "name": "Uplifting Mantra Pt One",
+      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
+    },
+    {
+      "album": {
+        "name": "Violet is BACK to help you fall sleep",
+        "url": "https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw"
+      },
+      "artists": [
+        {
+          "name": "RoseASMR",
+          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277354,
+      "name": "Violet is BACK to help you fall sleep Pt.1",
+      "url": "https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg"
+    },
+    {
+      "album": {
+        "name": "10 Triggers To Help Relax Your Brain At Night",
+        "url": "https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-17",
+      "duration_ms": 584000,
+      "name": "Whispers and Dry Ear Massage",
+      "url": "https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T"
+    },
+    {
+      "album": {
+        "name": "10 Triggers To Help Relax Your Brain At Night",
+        "url": "https://open.spotify.com/album/4f3eL2qfREaFIBo6uwreba"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 584000,
+      "name": "Whispers and Dry Ear Massage",
+      "url": "https://open.spotify.com/track/7M2eaTwjc4tnuvfnrd8df6"
+    },
+    {
+      "album": {
+        "name": "Whispers and Thrifty Tingles",
+        "url": "https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd"
+      },
+      "artists": [
+        {
+          "name": "Prim ASMR",
+          "url": "https://open.spotify.com/artist/6OhEbrAJdkKbJ8cjfNCi1X"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251219,
+      "name": "Whispers and Thrifty Tingles Pt.1",
+      "url": "https://open.spotify.com/track/3Wbm2ioAtPkjMj3N46M5ez"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbZmKskFbVct"
 }

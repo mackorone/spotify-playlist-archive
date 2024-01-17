@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-220 songs - 8 hr 48 min
+223 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Antihero](https://open.spotify.com/track/6foxdC9JnsAR2qCAYTVQij) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Antihero](https://open.spotify.com/album/3bz82Jb3mGlYeHuTs87b2R) | 2:55 | 2023-04-03 |  |
 | [apologize](https://open.spotify.com/track/3uY0353AUilxbXFM0XW1KQ) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [apologize](https://open.spotify.com/album/00vaTeWGH1I7WaDUy049Po) | 1:55 | 2023-02-07 |  |
 | [As It Was](https://open.spotify.com/track/7dSoV6Suc4ye0JCoyNWJJR) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [As It Was](https://open.spotify.com/album/6SSGQmNoS5n0ojWzSHQTh3) | 2:30 | 2022-10-14 |  |
-| [bad day](https://open.spotify.com/track/4HHoCZQ9v7agD2ZTq72q3Y) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bad day](https://open.spotify.com/album/5NfqbPcvdYcR3inewdtRBc) | 2:17 | 2023-03-24 |  |
+| [bad day](https://open.spotify.com/track/4HHoCZQ9v7agD2ZTq72q3Y) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bad day](https://open.spotify.com/album/5NfqbPcvdYcR3inewdtRBc) | 2:17 | 2023-03-24 | 2024-01-12 |
 | [Bad Habits](https://open.spotify.com/track/6XuohehgXJ3OLFFV3sdHMm) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [INDUSTRY BABY](https://open.spotify.com/album/5y9jSiiVOhg9Lw97EEVXUp) | 2:38 | 2023-01-13 |  |
 | [Bad Habits](https://open.spotify.com/track/7y161CHpc3KkKVMJZ1bNEQ) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Bad Habits](https://open.spotify.com/album/16XIxgGPr1Ispb6IJJ0AaW) | 1:28 | 2022-09-02 |  |
 | [beautiful](https://open.spotify.com/track/6jT6EJPndW8rDZZ1QZuFtK) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [beautiful](https://open.spotify.com/album/4TzUGKjAEbpIzrH9XlhN1P) | 1:56 | 2022-10-28 |  |
@@ -77,7 +77,8 @@
 | [fly away](https://open.spotify.com/track/3nEKznjXAihwGO0KDodJYi) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [fly away](https://open.spotify.com/album/4LqsbsDUK9nMERCArof3w8) | 1:51 | 2023-01-06 |  |
 | [fly me to the moon](https://open.spotify.com/track/0ZRXuSHt856z22kJtfqVjK) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [fly me to the moon](https://open.spotify.com/album/428Omo1qGn6r2FzfpVGDwC) | 1:48 | 2023-08-28 |  |
 | [fly me to the moon \~ lofi](https://open.spotify.com/track/5KIzXL5NxUb8NZQEuSqFt6) | [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [fly me to the moon \~ lofi](https://open.spotify.com/album/0opYKO3lnDCWgHtaq7wlBG) | 1:04 | 2022-09-02 | 2023-11-24 |
-| [Foolish](https://open.spotify.com/track/3Mt0mb8hQcCrzQUEMGXhWX) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/5cCEONJGfWiPtR9yn63Ghf) | 2:59 | 2022-12-02 |  |
+| [Foolish](https://open.spotify.com/track/327YD8hrJehqymoHyLzjvL) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/205AAzdvybdc1XHfLkQIfv) | 2:59 | 2024-01-12 |  |
+| [Foolish](https://open.spotify.com/track/3Mt0mb8hQcCrzQUEMGXhWX) | [vhsgus](https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb) | [Foolish](https://open.spotify.com/album/5cCEONJGfWiPtR9yn63Ghf) | 2:59 | 2022-12-02 | 2024-01-16 |
 | [Gangsta's Paradise](https://open.spotify.com/track/2VWNSlfsBCxKVDaGBTYAvL) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:55 | 2022-09-02 | 2022-09-30 |
 | [Gangsta's Paradise \- Lofi Version](https://open.spotify.com/track/176AsqgJiJL4PFMpGFD0px) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lofi Madness, Vol\. 1](https://open.spotify.com/album/3G0mO8o0VBCJMGpUdT6rFG) | 2:10 | 2022-09-30 | 2023-09-08 |
 | [Ghost](https://open.spotify.com/track/7xIONLBEuuXdjd9KFGxUWz) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Ghost](https://open.spotify.com/album/5F25JMKIZl6Zl4huvs6GtE) | 1:59 | 2022-09-02 |  |
@@ -88,6 +89,7 @@
 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2023-03-01 |  |
 | [Happier Than Ever](https://open.spotify.com/track/5i8lZgGvIBe3iL8WMCPHsi) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Happier Than Ever](https://open.spotify.com/album/44aUBNTF0z4prL3vEdIwAB) | 2:19 | 2022-11-11 |  |
 | [Havana \- Lofi Version](https://open.spotify.com/track/4QjurBzqOd71ctHlvWDCXo) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lo\-Fi Jams Vol\. 14](https://open.spotify.com/album/1IwWjovnVG3Ni1pr58JZkS) | 1:49 | 2022-09-02 | 2022-09-30 |
+| [heartbreaker](https://open.spotify.com/track/3y9W9xOMC5tB8aAA3lIEOo) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [heartbreaker](https://open.spotify.com/album/3uikouU6spEC8d5AT2su1F) | 2:50 | 2024-01-12 |  |
 | [Hedwig's Theme](https://open.spotify.com/track/43bicEv5d8GUZJtI9U6fzb) | [samu2rai](https://open.spotify.com/artist/2uEs3ZkDHUeILirtWAtu8w) | [Hedwig's Theme](https://open.spotify.com/album/5NBVyABkoyIRs5kjS7B9Cn) | 2:07 | 2023-09-08 | 2023-10-05 |
 | [hey, soul sister](https://open.spotify.com/track/1qJgvV6WYN8pLieuY18ahM) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [hey, soul sister](https://open.spotify.com/album/7aIiJxjW2A9pkYvgljzADh) | 2:31 | 2022-11-11 |  |
 | [Hold On We're Going Home](https://open.spotify.com/track/6tUsyUdQkxT7diLVsIp33U) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [Hold On We're Going Home](https://open.spotify.com/album/1ALfJ33fMEOetofYD5T2Wv) | 3:01 | 2023-11-17 |  |
@@ -133,7 +135,7 @@
 | [Never Gonna Give You Up](https://open.spotify.com/track/6mb3ei1PSzzZgZyOeQN5QA) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Never Gonna Give You Up](https://open.spotify.com/album/6k9mZX2jUO3e2xkQTDVScA) | 2:08 | 2022-09-02 |  |
 | [No Surprises](https://open.spotify.com/track/4TVrdSsBbr4RYWBqyVdATT) | [Granlund](https://open.spotify.com/artist/2dZvcVqJDI3Lbxnwg5hQ8m) | [My Name Is Spruce](https://open.spotify.com/album/6wTSNipQRO7zT58J0uQJGE) | 2:56 | 2022-09-02 | 2023-10-19 |
 | [nothing compares 2 u](https://open.spotify.com/track/2Bq5JGZFtj0rLGrm8uaLp8) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [nothing compares 2 u](https://open.spotify.com/album/3GUBR4e38i8Zo7BYJ0yn5q) | 2:12 | 2023-03-01 | 2023-12-21 |
-| [Nothing Else Matters](https://open.spotify.com/track/43iChjuuKFSZw3LMLnrs2i) | [Oliver Kruz](https://open.spotify.com/artist/4dJvVbTz4n1WbqCH6XKDCm) | [Nothing Else Matters](https://open.spotify.com/album/5AUFhByOltEqxUA41CcZ9l) | 3:30 | 2023-06-09 |  |
+| [Nothing Else Matters](https://open.spotify.com/track/43iChjuuKFSZw3LMLnrs2i) | [Oliver Kruz](https://open.spotify.com/artist/4dJvVbTz4n1WbqCH6XKDCm) | [Nothing Else Matters](https://open.spotify.com/album/5AUFhByOltEqxUA41CcZ9l) | 3:30 | 2023-06-09 | 2024-01-12 |
 | [Nothing´s Gonna Stop Us Now](https://open.spotify.com/track/5kDdYabORKt6kskxz1sd1S) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Nothing´s Gonna Stop Us Now](https://open.spotify.com/album/3jtPNM44kEtKnG2CxSeixS) | 2:40 | 2022-11-11 |  |
 | [Numb](https://open.spotify.com/track/3RLTOAqa72Kn7gh6NzaRot) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 2:55 | 2022-09-02 | 2022-11-12 |
 | [Numb](https://open.spotify.com/track/2XBFv43iLJAgc0tFLwpvSB) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [holydope](https://open.spotify.com/artist/0xxzcwAkvq75H2kNaZVLxD), [Gletscher](https://open.spotify.com/artist/2XvOqRc89ghu9XuYotuqDj) | [Numb](https://open.spotify.com/album/7zSYpDlrN7u5RYDSkDcHpz) | 2:06 | 2022-09-02 |  |
@@ -208,6 +210,7 @@
 | [Watermelon Sugar](https://open.spotify.com/track/3vHaS2v1VAYSTzNaUTnZmi) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Intentions](https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x) | 2:16 | 2022-11-11 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/22MIvtuAgtIwHslhKIyPyo) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Watermelon Sugar](https://open.spotify.com/album/426VKc5Es9l2G0q4IUoELZ) | 1:36 | 2022-09-02 | 2022-11-12 |
 | [waves](https://open.spotify.com/track/7piFPg3kuRbodjCBWjUsXS) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [waves](https://open.spotify.com/album/2r7peHnBz70EUzzSNfOan0) | 2:20 | 2022-09-02 |  |
+| [We Are Family](https://open.spotify.com/track/42XobImnQvdX9GUHqxnoPN) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [We Are Family](https://open.spotify.com/album/55G8HFz2yu9OoTavSMgRYj) | 1:48 | 2024-01-12 |  |
 | [weak](https://open.spotify.com/track/1fDXEyf7ljEsUN3iAPzyNd) | [phonadium](https://open.spotify.com/artist/1EbUbtNohBB2nDSZVdb0P8) | [weak](https://open.spotify.com/album/3Wfzenh9G4maSH1Hh3BP9i) | 2:55 | 2023-01-06 |  |
 | [wefoundlove](https://open.spotify.com/track/23kBxBCU9ey05l98Okzm1O) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [wefoundlove](https://open.spotify.com/album/6whfxObR17uLrOUpNpqzEP) | 2:01 | 2023-12-08 |  |
 | [when i was your man](https://open.spotify.com/track/75z7lw3D0bIqla7vXKbaK7) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [when i was your man](https://open.spotify.com/album/1ORHp2iPLW0OjhWH7gw4O1) | 2:18 | 2023-12-08 |  |

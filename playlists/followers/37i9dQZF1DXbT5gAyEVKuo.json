@@ -1,669 +1,1431 @@
 {
-  "2022-03-01": 50745,
-  "2022-03-02": 50749,
-  "2022-03-03": 50757,
-  "2022-03-04": 50765,
-  "2022-03-05": 50775,
-  "2022-03-06": 50787,
-  "2022-03-07": 50795,
-  "2022-03-08": 50802,
-  "2022-03-09": 50815,
-  "2022-03-10": 50824,
-  "2022-03-11": 50836,
-  "2022-03-12": 50845,
-  "2022-03-13": 50856,
-  "2022-03-14": 50875,
-  "2022-03-15": 50884,
-  "2022-03-16": 50902,
-  "2022-03-17": 50911,
-  "2022-03-18": 50928,
-  "2022-03-19": 50934,
-  "2022-03-20": 50934,
-  "2022-03-21": 50966,
-  "2022-03-22": 50977,
-  "2022-03-23": 50985,
-  "2022-03-24": 50999,
-  "2022-03-25": 51006,
-  "2022-03-26": 51015,
-  "2022-03-27": 51022,
-  "2022-03-28": 51033,
-  "2022-03-30": 51057,
-  "2022-03-31": 51069,
-  "2022-04-01": 51083,
-  "2022-04-02": 51098,
-  "2022-04-03": 51103,
-  "2022-04-04": 51118,
-  "2022-04-05": 51122,
-  "2022-04-06": 51134,
-  "2022-04-07": 51154,
-  "2022-04-08": 51162,
-  "2022-04-09": 51171,
-  "2022-04-10": 51189,
-  "2022-04-11": 51192,
-  "2022-04-12": 51192,
-  "2022-04-13": 51193,
-  "2022-04-14": 51199,
-  "2022-04-15": 51200,
-  "2022-04-16": 51212,
-  "2022-04-17": 51215,
-  "2022-04-18": 51226,
-  "2022-04-19": 51233,
-  "2022-04-20": 51242,
-  "2022-04-21": 51253,
-  "2022-04-22": 51259,
-  "2022-04-23": 51269,
-  "2022-04-24": 51283,
-  "2022-04-25": 51276,
-  "2022-04-26": 51280,
-  "2022-04-27": 51286,
-  "2022-04-28": 51290,
-  "2022-04-29": 51301,
-  "2022-04-30": 51307,
-  "2022-05-01": 51316,
-  "2022-05-02": 51316,
-  "2022-05-03": 51319,
-  "2022-05-04": 51329,
-  "2022-05-05": 51338,
-  "2022-05-06": 51341,
-  "2022-05-07": 51351,
-  "2022-05-08": 51370,
-  "2022-05-09": 51372,
-  "2022-05-10": 51379,
-  "2022-05-11": 51388,
-  "2022-05-12": 51395,
-  "2022-05-13": 51399,
-  "2022-05-14": 51405,
-  "2022-05-15": 51415,
-  "2022-05-16": 51429,
-  "2022-05-17": 51439,
-  "2022-05-18": 51448,
-  "2022-05-19": 51456,
-  "2022-05-20": 51478,
-  "2022-05-21": 51519,
-  "2022-05-22": 51519,
-  "2022-05-23": 51538,
-  "2022-05-24": 51547,
-  "2022-05-25": 51578,
-  "2022-05-26": 51599,
-  "2022-05-27": 51619,
-  "2022-05-28": 51629,
-  "2022-05-29": 51638,
-  "2022-05-30": 51656,
-  "2022-05-31": 51679,
-  "2022-06-01": 51705,
-  "2022-06-02": 51700,
-  "2022-06-03": 51720,
-  "2022-06-04": 51726,
-  "2022-06-05": 51736,
-  "2022-06-06": 51754,
-  "2022-06-07": 51774,
-  "2022-06-08": 51781,
-  "2022-06-09": 51798,
-  "2022-06-10": 51799,
-  "2022-06-11": 51810,
-  "2022-06-12": 51785,
-  "2022-06-13": 51814,
-  "2022-06-14": 51854,
-  "2022-06-15": 51876,
-  "2022-06-16": 51917,
-  "2022-06-17": 51959,
-  "2022-06-18": 51983,
-  "2022-06-19": 52022,
-  "2022-06-20": 52022,
-  "2022-06-21": 52071,
-  "2022-06-22": 52109,
-  "2022-06-23": 52109,
-  "2022-06-24": 52118,
-  "2022-06-25": 52108,
-  "2022-06-26": 52068,
-  "2022-06-27": 52070,
-  "2022-06-28": 52055,
-  "2022-06-29": 52042,
-  "2022-06-30": 52019,
-  "2022-07-01": 51990,
-  "2022-07-02": 51974,
-  "2022-07-03": 51985,
-  "2022-07-04": 51998,
-  "2022-07-05": 52041,
-  "2022-07-06": 52093,
-  "2022-07-07": 52172,
-  "2022-07-08": 52215,
-  "2022-07-09": 52195,
-  "2022-07-10": 52183,
-  "2022-07-11": 52182,
-  "2022-07-12": 52158,
-  "2022-07-13": 52172,
-  "2022-07-14": 52137,
-  "2022-07-15": 52106,
-  "2022-07-16": 52043,
-  "2022-07-17": 51969,
-  "2022-07-18": 51960,
-  "2022-07-19": 51963,
-  "2022-07-20": 51970,
-  "2022-07-21": 51974,
-  "2022-07-22": 51983,
-  "2022-07-23": 51988,
-  "2022-07-24": 51990,
-  "2022-07-25": 51995,
-  "2022-07-26": 52006,
-  "2022-07-27": 52010,
-  "2022-07-28": 52021,
-  "2022-07-29": 52023,
-  "2022-07-30": 52037,
-  "2022-07-31": 52037,
-  "2022-08-01": 52042,
-  "2022-08-02": 52057,
-  "2022-08-03": 52057,
-  "2022-08-04": 52057,
-  "2022-08-05": 52067,
-  "2022-08-06": 52072,
-  "2022-08-07": 52080,
-  "2022-08-08": 52091,
-  "2022-08-09": 52107,
-  "2022-08-10": 52115,
-  "2022-08-11": 52127,
-  "2022-08-12": 52131,
-  "2022-08-13": 52134,
-  "2022-08-14": 52141,
-  "2022-08-15": 52148,
-  "2022-08-16": 52154,
-  "2022-08-17": 52156,
-  "2022-08-18": 52160,
-  "2022-08-19": 52174,
-  "2022-08-20": 52174,
-  "2022-08-21": 52179,
-  "2022-08-22": 52184,
-  "2022-08-23": 52182,
-  "2022-08-24": 52195,
-  "2022-08-25": 52196,
-  "2022-08-26": 52206,
-  "2022-08-27": 52213,
-  "2022-08-28": 52225,
-  "2022-08-29": 52236,
-  "2022-08-30": 52244,
-  "2022-08-31": 52245,
-  "2022-09-01": 52251,
-  "2022-09-02": 52263,
-  "2022-09-03": 52273,
-  "2022-09-04": 52287,
-  "2022-09-05": 52301,
-  "2022-09-06": 52315,
-  "2022-09-07": 52324,
-  "2022-09-09": 52343,
-  "2022-09-10": 52348,
-  "2022-09-11": 52356,
-  "2022-09-12": 52365,
-  "2022-09-13": 52374,
-  "2022-09-15": 52386,
-  "2022-09-16": 52401,
-  "2022-09-17": 52421,
-  "2022-09-18": 52437,
-  "2022-09-19": 52466,
-  "2022-09-20": 52491,
-  "2022-09-21": 52502,
-  "2022-09-22": 52515,
-  "2022-09-23": 52537,
-  "2022-09-24": 52550,
-  "2022-09-25": 52566,
-  "2022-09-26": 52585,
-  "2022-09-27": 52605,
-  "2022-09-28": 52620,
-  "2022-09-29": 52632,
-  "2022-09-30": 52640,
-  "2022-10-01": 52660,
-  "2022-10-02": 52663,
-  "2022-10-03": 52681,
-  "2022-10-04": 52693,
-  "2022-10-05": 52707,
-  "2022-10-06": 52719,
-  "2022-10-07": 52724,
-  "2022-10-08": 52736,
-  "2022-10-09": 52762,
-  "2022-10-10": 52766,
-  "2022-10-11": 52772,
-  "2022-10-12": 52786,
-  "2022-10-13": 52797,
-  "2022-10-14": 52805,
-  "2022-10-15": 52821,
-  "2022-10-16": 52845,
-  "2022-10-17": 52867,
-  "2022-10-18": 52879,
-  "2022-10-19": 52890,
-  "2022-10-20": 52899,
-  "2022-10-21": 52916,
-  "2022-10-22": 52919,
-  "2022-10-23": 52934,
-  "2022-10-24": 52945,
-  "2022-10-25": 52960,
-  "2022-10-26": 52971,
-  "2022-10-27": 52978,
-  "2022-10-28": 52990,
-  "2022-10-29": 53005,
-  "2022-10-30": 53015,
-  "2022-10-31": 53028,
-  "2022-11-01": 53038,
-  "2022-11-02": 53055,
-  "2022-11-03": 53072,
-  "2022-11-04": 53089,
-  "2022-11-05": 53106,
-  "2022-11-06": 53117,
-  "2022-11-07": 53129,
-  "2022-11-08": 53154,
-  "2022-11-09": 53161,
-  "2022-11-10": 53171,
-  "2022-11-11": 53173,
-  "2022-11-12": 53196,
-  "2022-11-13": 53209,
-  "2022-11-14": 53230,
-  "2022-11-15": 53245,
-  "2022-11-16": 53258,
-  "2022-11-17": 53272,
-  "2022-11-18": 53281,
-  "2022-11-19": 53285,
-  "2022-11-20": 53294,
-  "2022-11-21": 53311,
-  "2022-11-22": 53324,
-  "2022-11-23": 53334,
-  "2022-11-24": 53355,
-  "2022-11-25": 53376,
-  "2022-11-26": 53395,
-  "2022-11-27": 53410,
-  "2022-11-28": 53424,
-  "2022-11-29": 53438,
-  "2022-11-30": 53458,
-  "2022-12-01": 53465,
-  "2022-12-02": 53469,
-  "2022-12-03": 53479,
-  "2022-12-04": 53489,
-  "2022-12-05": 53506,
-  "2022-12-06": 53516,
-  "2022-12-07": 53521,
-  "2022-12-08": 53532,
-  "2022-12-09": 53535,
-  "2022-12-10": 53534,
-  "2022-12-11": 53543,
-  "2022-12-12": 53560,
-  "2022-12-13": 53573,
-  "2022-12-14": 53586,
-  "2022-12-15": 53598,
-  "2022-12-16": 53607,
-  "2022-12-17": 53608,
-  "2022-12-18": 53605,
-  "2022-12-19": 53618,
-  "2022-12-20": 53633,
-  "2022-12-21": 53633,
-  "2022-12-22": 53643,
-  "2022-12-24": 53671,
-  "2022-12-25": 53682,
-  "2022-12-26": 53693,
-  "2022-12-27": 53708,
-  "2022-12-28": 53714,
-  "2022-12-29": 53717,
-  "2022-12-30": 53730,
-  "2022-12-31": 53737,
-  "2023-01-01": 53751,
-  "2023-01-02": 53758,
-  "2023-01-03": 53770,
-  "2023-01-04": 53792,
-  "2023-01-05": 53814,
-  "2023-01-06": 53832,
-  "2023-01-07": 53843,
-  "2023-01-08": 53843,
-  "2023-01-09": 53868,
-  "2023-01-10": 53879,
-  "2023-01-11": 53904,
-  "2023-01-12": 53924,
-  "2023-01-13": 53933,
-  "2023-01-14": 53954,
-  "2023-01-15": 53957,
-  "2023-01-16": 53976,
-  "2023-01-17": 53990,
-  "2023-01-18": 54007,
-  "2023-01-19": 54020,
-  "2023-01-20": 54035,
-  "2023-01-21": 54047,
-  "2023-01-22": 54064,
-  "2023-01-23": 54084,
-  "2023-01-24": 54100,
-  "2023-01-25": 54116,
-  "2023-01-26": 54127,
-  "2023-01-27": 54132,
-  "2023-01-28": 54148,
-  "2023-01-29": 54159,
-  "2023-01-30": 54187,
-  "2023-01-31": 54187,
-  "2023-02-01": 54218,
-  "2023-02-02": 54224,
-  "2023-02-03": 54239,
-  "2023-02-04": 54256,
-  "2023-02-05": 54264,
-  "2023-02-06": 54282,
-  "2023-02-07": 54296,
-  "2023-02-08": 54327,
-  "2023-02-09": 54327,
-  "2023-02-10": 54333,
-  "2023-02-11": 54350,
-  "2023-02-12": 54373,
-  "2023-02-13": 54379,
-  "2023-02-14": 54379,
-  "2023-02-15": 54383,
-  "2023-02-16": 54392,
-  "2023-02-17": 54393,
-  "2023-02-18": 54417,
-  "2023-02-19": 54420,
-  "2023-02-20": 54472,
-  "2023-02-21": 54555,
-  "2023-02-22": 54631,
-  "2023-02-23": 54740,
-  "2023-02-24": 54851,
-  "2023-02-25": 54947,
-  "2023-02-26": 55020,
-  "2023-02-27": 55258,
-  "2023-02-28": 55258,
-  "2023-03-01": 55363,
-  "2023-03-02": 55455,
-  "2023-03-03": 55568,
-  "2023-03-04": 55659,
-  "2023-03-05": 55897,
-  "2023-03-06": 55897,
-  "2023-03-07": 55993,
-  "2023-03-08": 56076,
-  "2023-03-09": 56185,
-  "2023-03-10": 56278,
-  "2023-03-11": 56349,
-  "2023-03-12": 56439,
-  "2023-03-13": 56535,
-  "2023-03-14": 56617,
-  "2023-03-15": 56701,
-  "2023-03-16": 56791,
-  "2023-03-17": 56791,
-  "2023-03-18": 56961,
-  "2023-03-19": 57054,
-  "2023-03-20": 57157,
-  "2023-03-21": 57243,
-  "2023-03-22": 57341,
-  "2023-03-23": 57415,
-  "2023-03-24": 57415,
-  "2023-03-25": 57582,
-  "2023-03-26": 57656,
-  "2023-03-27": 57778,
-  "2023-03-28": 57866,
-  "2023-03-29": 57970,
-  "2023-03-30": 58123,
-  "2023-03-31": 58123,
-  "2023-04-01": 58202,
-  "2023-04-02": 58265,
-  "2023-04-03": 58374,
-  "2023-04-04": 58462,
-  "2023-04-05": 58556,
-  "2023-04-06": 58665,
-  "2023-04-07": 58754,
-  "2023-04-09": 58945,
-  "2023-04-10": 59095,
-  "2023-04-11": 59256,
-  "2023-04-12": 59256,
-  "2023-04-13": 59342,
-  "2023-04-14": 59415,
-  "2023-04-15": 59496,
-  "2023-04-16": 59583,
-  "2023-04-17": 59701,
-  "2023-04-18": 59796,
-  "2023-04-19": 59897,
-  "2023-04-20": 59989,
-  "2023-04-21": 60085,
-  "2023-04-22": 60154,
-  "2023-04-23": 60245,
-  "2023-04-24": 60374,
-  "2023-04-25": 60463,
-  "2023-04-26": 60576,
-  "2023-04-27": 60681,
-  "2023-04-28": 60756,
-  "2023-04-29": 60840,
-  "2023-04-30": 60905,
-  "2023-05-01": 61013,
-  "2023-05-02": 61091,
-  "2023-05-03": 61200,
-  "2023-05-04": 61291,
-  "2023-05-05": 61378,
-  "2023-05-06": 61444,
-  "2023-05-07": 61523,
-  "2023-05-08": 61624,
-  "2023-05-09": 61688,
-  "2023-05-10": 61777,
-  "2023-05-11": 61851,
-  "2023-05-12": 61932,
-  "2023-05-13": 62000,
-  "2023-05-14": 62081,
-  "2023-05-15": 62178,
-  "2023-05-16": 62245,
-  "2023-05-17": 62334,
-  "2023-05-18": 62424,
-  "2023-05-19": 62500,
-  "2023-05-20": 62653,
-  "2023-05-21": 62653,
-  "2023-05-22": 62653,
-  "2023-05-23": 62814,
-  "2023-05-24": 62943,
-  "2023-05-25": 62965,
-  "2023-05-26": 63049,
-  "2023-05-27": 63145,
-  "2023-05-28": 63202,
-  "2023-05-29": 63202,
-  "2023-05-30": 63340,
-  "2023-05-31": 63413,
-  "2023-06-01": 63483,
-  "2023-06-02": 63539,
-  "2023-06-03": 63608,
-  "2023-06-04": 63671,
-  "2023-06-05": 63757,
-  "2023-06-06": 63834,
-  "2023-06-07": 63911,
-  "2023-06-08": 63975,
-  "2023-06-09": 64035,
-  "2023-06-10": 64091,
-  "2023-06-11": 64158,
-  "2023-06-12": 64237,
-  "2023-06-13": 64309,
-  "2023-06-14": 64363,
-  "2023-06-15": 64439,
-  "2023-06-16": 64522,
-  "2023-06-17": 64572,
-  "2023-06-18": 64633,
-  "2023-06-19": 64706,
-  "2023-06-20": 64769,
-  "2023-06-21": 64832,
-  "2023-06-22": 64888,
-  "2023-06-23": 64960,
-  "2023-06-24": 65023,
-  "2023-06-25": 65089,
-  "2023-06-26": 65176,
-  "2023-06-27": 65248,
-  "2023-06-28": 65313,
-  "2023-06-29": 65367,
-  "2023-06-30": 65439,
-  "2023-07-01": 65550,
-  "2023-07-02": 65550,
-  "2023-07-03": 65634,
-  "2023-07-04": 65714,
-  "2023-07-05": 65777,
-  "2023-07-06": 65888,
-  "2023-07-07": 65888,
-  "2023-07-08": 65946,
-  "2023-07-09": 66024,
-  "2023-07-10": 66134,
-  "2023-07-11": 66202,
-  "2023-07-12": 66274,
-  "2023-07-13": 66352,
-  "2023-07-14": 66425,
-  "2023-07-15": 66467,
-  "2023-07-16": 66526,
-  "2023-07-17": 66609,
-  "2023-07-18": 66681,
-  "2023-07-19": 66738,
-  "2023-07-20": 66788,
-  "2023-07-21": 66846,
-  "2023-07-22": 66917,
-  "2023-07-23": 66980,
-  "2023-07-24": 67068,
-  "2023-07-25": 67144,
-  "2023-07-26": 67209,
-  "2023-07-27": 67272,
-  "2023-07-28": 67340,
-  "2023-07-29": 67406,
-  "2023-07-30": 67455,
-  "2023-07-31": 67523,
-  "2023-08-01": 67598,
-  "2023-08-02": 67652,
-  "2023-08-03": 67715,
-  "2023-08-04": 67771,
-  "2023-08-05": 67837,
-  "2023-08-06": 67973,
-  "2023-08-07": 67973,
-  "2023-08-08": 68030,
-  "2023-08-09": 68095,
-  "2023-08-10": 68166,
-  "2023-08-11": 68225,
-  "2023-08-12": 68293,
-  "2023-08-13": 68361,
-  "2023-08-14": 68440,
-  "2023-08-15": 68576,
-  "2023-08-16": 68576,
-  "2023-08-17": 68633,
-  "2023-08-18": 68709,
-  "2023-08-19": 68780,
-  "2023-08-20": 68854,
-  "2023-08-21": 68925,
-  "2023-08-22": 68992,
-  "2023-08-23": 69042,
-  "2023-08-24": 69092,
-  "2023-08-25": 69152,
-  "2023-08-26": 69215,
-  "2023-08-27": 69294,
-  "2023-08-28": 69369,
-  "2023-08-29": 69432,
-  "2023-08-30": 69502,
-  "2023-08-31": 69557,
-  "2023-09-01": 69696,
-  "2023-09-02": 69696,
-  "2023-09-03": 69752,
-  "2023-09-04": 69848,
-  "2023-09-05": 69912,
-  "2023-09-06": 70006,
-  "2023-09-07": 70066,
-  "2023-09-08": 70132,
-  "2023-09-09": 70191,
-  "2023-09-10": 70257,
-  "2023-09-11": 70334,
-  "2023-09-12": 70410,
-  "2023-09-13": 70491,
-  "2023-09-14": 70557,
-  "2023-09-15": 70640,
-  "2023-09-16": 70710,
-  "2023-09-17": 70794,
-  "2023-09-18": 70887,
-  "2023-09-19": 70947,
-  "2023-09-20": 70992,
-  "2023-09-21": 71055,
-  "2023-09-22": 71120,
-  "2023-09-23": 71180,
-  "2023-09-24": 71273,
-  "2023-09-25": 71371,
-  "2023-09-26": 71465,
-  "2023-09-27": 71531,
-  "2023-09-28": 71591,
-  "2023-09-29": 71667,
-  "2023-09-30": 71734,
-  "2023-10-01": 71779,
-  "2023-10-02": 71874,
-  "2023-10-03": 71932,
-  "2023-10-04": 72014,
-  "2023-10-05": 72074,
-  "2023-10-06": 72147,
-  "2023-10-07": 72211,
-  "2023-10-08": 72271,
-  "2023-10-09": 72348,
-  "2023-10-10": 72343,
-  "2023-10-11": 72406,
-  "2023-10-12": 72406,
-  "2023-10-13": 72412,
-  "2023-10-14": 72412,
-  "2023-10-15": 72412,
-  "2023-10-16": 72412,
-  "2023-10-17": 72412,
-  "2023-10-18": 72720,
-  "2023-10-19": 72808,
-  "2023-10-20": 72808,
-  "2023-10-21": 72808,
-  "2023-10-22": 72808,
-  "2023-10-23": 73076,
-  "2023-10-24": 73147,
-  "2023-10-25": 73147,
-  "2023-10-26": 73147,
-  "2023-10-27": 73353,
-  "2023-10-28": 73353,
-  "2023-10-29": 73353,
-  "2023-10-30": 73535,
-  "2023-10-31": 73535,
-  "2023-11-01": 73661,
-  "2023-11-02": 73731,
-  "2023-11-03": 73794,
-  "2023-11-04": 73794,
-  "2023-11-05": 73794,
-  "2023-11-06": 73794,
-  "2023-11-07": 73794,
-  "2023-11-08": 73794,
-  "2023-11-09": 73794,
-  "2023-11-10": 73794,
-  "2023-11-11": 74302,
-  "2023-11-12": 74354,
-  "2023-11-13": 74354,
-  "2023-11-14": 74354,
-  "2023-11-15": 74354,
-  "2023-11-16": 74354,
-  "2023-11-17": 74713,
-  "2023-11-18": 74713,
-  "2023-11-19": 74713,
-  "2023-11-20": 74713,
-  "2023-11-21": 74877,
-  "2023-11-22": 74937,
-  "2023-11-23": 74971,
-  "2023-11-24": 74971,
-  "2023-11-25": 74971,
-  "2023-11-26": 74971,
-  "2023-11-27": 74971,
-  "2023-11-28": 74971,
-  "2023-11-29": 74971,
-  "2023-11-30": 74971,
-  "2023-12-01": 74971,
-  "2023-12-02": 74971,
-  "2023-12-03": 74971,
-  "2023-12-04": 74971,
-  "2023-12-05": 74971,
-  "2023-12-06": 74971,
-  "2023-12-07": 74971,
-  "2023-12-08": 74971,
-  "2023-12-09": 75828,
-  "2023-12-10": 75828,
-  "2023-12-11": 75927,
-  "2023-12-12": 75927,
-  "2023-12-13": 76033,
-  "2023-12-14": 76091,
-  "2023-12-15": 76134,
-  "2023-12-16": 76178,
-  "2023-12-17": 76236,
-  "2023-12-18": 76283,
-  "2023-12-19": 76326,
-  "2023-12-20": 76364,
-  "2023-12-21": 76417,
-  "2023-12-22": 76462,
-  "2023-12-23": 76495,
-  "2023-12-24": 76526,
-  "2023-12-25": 76576,
-  "2023-12-26": 76608,
-  "2023-12-27": 76641,
-  "2023-12-30": 76771,
-  "2023-12-31": 76819,
-  "2024-01-01": 76892,
-  "2024-01-02": 76941,
-  "2024-01-03": 76994
+  "2024-01-17": 77480,
+  "date_first_scraped": "2022-03-01",
+  "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
+  "name": "Gospel Live",
+  "tracks": [
+    {
+      "album": {
+        "name": "Anthems & Glory (Live)",
+        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486243,
+      "name": "All I Need - Live",
+      "url": "https://open.spotify.com/track/0WK1BBh6hboTqZ9LXNXM2n"
+    },
+    {
+      "album": {
+        "name": "Anthems & Glory (Live)",
+        "url": "https://open.spotify.com/album/51bpcxMhkM5JGtJdVlQUV0"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 486243,
+      "name": "All I Need - Live",
+      "url": "https://open.spotify.com/track/4v1kWCbf642osv9iuo3Rt6"
+    },
+    {
+      "album": {
+        "name": "Already Won (Live)",
+        "url": "https://open.spotify.com/album/4epcjphraBNrnFAIGPl0GB"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 211884,
+      "name": "Already Won - Live",
+      "url": "https://open.spotify.com/track/0cZAIIbDleBvlEXfpYJfVU"
+    },
+    {
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 292600,
+      "name": "As We Worship",
+      "url": "https://open.spotify.com/track/3H2hXLAKhnlxzXNniGj32Y"
+    },
+    {
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 292600,
+      "name": "As We Worship",
+      "url": "https://open.spotify.com/track/3cSM9pXri2UMikc9zAFUAQ"
+    },
+    {
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292600,
+      "name": "As We Worship",
+      "url": "https://open.spotify.com/track/6yORqP4FcmePh187fTnLsz"
+    },
+    {
+      "album": {
+        "name": "I Just Want You",
+        "url": "https://open.spotify.com/album/63fXLki4JEgJ099NHRBpzf"
+      },
+      "artists": [
+        {
+          "name": "Vicki Yohe",
+          "url": "https://open.spotify.com/artist/2ePc8jGwsMZtgQemYDJLY7"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318560,
+      "name": "Because Of Who You Are",
+      "url": "https://open.spotify.com/track/25rVj3vBLwE6Fo8C8NFSwb"
+    },
+    {
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
+    },
+    {
+      "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340200,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu"
+    },
+    {
+      "album": {
+        "name": "Gospel's Best Live",
+        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243453,
+      "name": "Celebrate - Live",
+      "url": "https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL"
+    },
+    {
+      "album": {
+        "name": "Gospel's Best Live",
+        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 445360,
+      "name": "Center Of My Joy - Live",
+      "url": "https://open.spotify.com/track/2oKFjzpOQrj2t0lwXlSrjV"
+    },
+    {
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 548360,
+      "name": "Closer/Wrap Me In Your Arms",
+      "url": "https://open.spotify.com/track/2roFCNcQD9EZu0mk4XnmDI"
+    },
+    {
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548360,
+      "name": "Closer/Wrap Me In Your Arms",
+      "url": "https://open.spotify.com/track/2ysp98TmA9ozUKoMhTedx1"
+    },
+    {
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 548360,
+      "name": "Closer/Wrap Me In Your Arms",
+      "url": "https://open.spotify.com/track/4ULyiYqodr8cjH1Y9HqudW"
+    },
+    {
+      "album": {
+        "name": "Worship Journal (Live)",
+        "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384013,
+      "name": "Father Jesus Spirit (Live)",
+      "url": "https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U"
+    },
+    {
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "BRL",
+          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547000,
+      "name": "Free - Live",
+      "url": "https://open.spotify.com/track/0RNPiXc8aLrCbuivYlouzd"
+    },
+    {
+      "album": {
+        "name": "Worship Journal (Live)",
+        "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585080,
+      "name": "God Is My Refuge (Live)",
+      "url": "https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1"
+    },
+    {
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 369840,
+      "name": "Grace - Live",
+      "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
+    },
+    {
+      "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484640,
+      "name": "Great Is Your Mercy - Live",
+      "url": "https://open.spotify.com/track/62DNye6dXRsmZNVJaXZYc5"
+    },
+    {
+      "album": {
+        "name": "He Always Wins (feat. Erica Campbell & 1K Phew) [Live]",
+        "url": "https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422861,
+      "name": "He Always Wins (feat. Erica Campbell & 1K Phew) - Live",
+      "url": "https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2"
+    },
+    {
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287080,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/1HVYkNyIsnwwPZeYzGGsja"
+    },
+    {
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 287080,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/7euxCHA7OHB8L4dgvhgpKY"
+    },
+    {
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 287080,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr"
+    },
+    {
+      "album": {
+        "name": "Kirk Franklin Presents Songs For The Storm, Volume 1",
+        "url": "https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz"
+      },
+      "artists": [
+        {
+          "name": "Gods Property",
+          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518906,
+      "name": "He'll Take The Pain Away - Live",
+      "url": "https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45"
+    },
+    {
+      "album": {
+        "name": "The Essential John P. Kee",
+        "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
+      },
+      "artists": [
+        {
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326493,
+      "name": "I Do Worship (feat. John P. Kee) - Live",
+      "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
+    },
+    {
+      "album": {
+        "name": "Nothing Like Your Presence",
+        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246173,
+      "name": "I Don't Wanna Leave - Live From Chattanooga, TN",
+      "url": "https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC"
+    },
+    {
+      "album": {
+        "name": "I Want More (Live)",
+        "url": "https://open.spotify.com/album/0H3x29mJ1RE9N4aQW4AdQn"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Sharon Willingham",
+          "url": "https://open.spotify.com/artist/7CmRu1RssDhfWHaW9YS0o1"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 462253,
+      "name": "I Want More - Live",
+      "url": "https://open.spotify.com/track/4xuDNUP9gCNye1QSTS7Gkc"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Very Best Of Byron Cage",
+        "url": "https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa"
+      },
+      "artists": [
+        {
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317880,
+      "name": "I Will Bless the Lord - Live",
+      "url": "https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y"
+    },
+    {
+      "album": {
+        "name": "Blessed By Association",
+        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292466,
+      "name": "I Won't Let Go - Live",
+      "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
+    },
+    {
+      "album": {
+        "name": "Worth Fighting For (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419413,
+      "name": "I'll Just Say Yes - Live",
+      "url": "https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ"
+    },
+    {
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/2ztTfdy5qm752MdcmmWrYn"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 245146,
+      "name": "If He Did It Before....Same God - Live",
+      "url": "https://open.spotify.com/track/3FaNt2AIvfkVdgawgEyY2B"
+    },
+    {
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245146,
+      "name": "If He Did It Before....Same God - Live",
+      "url": "https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC"
+    },
+    {
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506429,
+      "name": "In Spite Of Me - Live",
+      "url": "https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "BRL",
+          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549106,
+      "name": "Indescribable - Live",
+      "url": "https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg"
+    },
+    {
+      "album": {
+        "name": "Setlist Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338894,
+      "name": "Intentional - Live",
+      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
+    },
+    {
+      "album": {
+        "name": "The Best Of Gospel Superfest (Live)",
+        "url": "https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379533,
+      "name": "It's Not Over",
+      "url": "https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf"
+    },
+    {
+      "album": {
+        "name": "One Nation Under God",
+        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418261,
+      "name": "It's Yours",
+      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
+    },
+    {
+      "album": {
+        "name": "Sessions - EP",
+        "url": "https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 249176,
+      "name": "Maintain (feat. Chantae Cann) (Live)",
+      "url": "https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB"
+    },
+    {
+      "album": {
+        "name": "Sessions - EP",
+        "url": "https://open.spotify.com/album/1oZT3QZW02UfhhgmWp8Kfl"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249176,
+      "name": "Maintain (feat. Chantae Cann) (Live)",
+      "url": "https://open.spotify.com/track/4w2Tb5sSoWow02O8Y0Rmrp"
+    },
+    {
+      "album": {
+        "name": "Sessions - EP",
+        "url": "https://open.spotify.com/album/5baBTN8eqOMrGY9wnLWDpi"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249176,
+      "name": "Maintain (feat. Chantae Cann) (Live)",
+      "url": "https://open.spotify.com/track/7oPr7tHtMifbFJrkoXe8aO"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/721attgvdIZ6sv4JMvmak7"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Rich Tolbert Jr.",
+          "url": "https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402826,
+      "name": "Miracle Worker (feat. Rich Tolbert Jr.) - Live",
+      "url": "https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Rich Tolbert Jr.",
+          "url": "https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 402826,
+      "name": "Miracle Worker (feat. Rich Tolbert Jr.) - Live",
+      "url": "https://open.spotify.com/track/5ygojrfeLjr7BHp6nGh0XS"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker",
+        "url": "https://open.spotify.com/album/1K7jpP3wzsmp2JldSCnQWX"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Rich Tolbert Jr.",
+          "url": "https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 402935,
+      "name": "Miracle Worker - Live",
+      "url": "https://open.spotify.com/track/5OsbxrGblsMoytfevbmwyK"
+    },
+    {
+      "album": {
+        "name": "Gospel's Best Live",
+        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence & The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281973,
+      "name": "Never Seen The Righteous - Live",
+      "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
+    },
+    {
+      "album": {
+        "name": "Nobody Like You Lord (Radio Edit - Live)",
+        "url": "https://open.spotify.com/album/3qQk8UYKGkjp91yl799gWJ"
+      },
+      "artists": [
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244736,
+      "name": "Nobody Like You Lord - Radio Edit - Live",
+      "url": "https://open.spotify.com/track/4SFD5o0lu61Y2uAdGHqwyv"
+    },
+    {
+      "album": {
+        "name": "Nothing/Something (Live)",
+        "url": "https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321790,
+      "name": "Nothing / Something - Live",
+      "url": "https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb"
+    },
+    {
+      "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412200,
+      "name": "Now Behold the Lamb - Live",
+      "url": "https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w"
+    },
+    {
+      "album": {
+        "name": "The Best Of Gospel Superfest (Live)",
+        "url": "https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N"
+      },
+      "artists": [
+        {
+          "name": "Melvin Williams",
+          "url": "https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253293,
+      "name": "Ooh Wee Another Blessing",
+      "url": "https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc"
+    },
+    {
+      "album": {
+        "name": "The Experience",
+        "url": "https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465933,
+      "name": "Open My Heart - Live",
+      "url": "https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90"
+    },
+    {
+      "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376666,
+      "name": "Put A Praise On It - Live",
+      "url": "https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS"
+    },
+    {
+      "album": {
+        "name": "Peace: The Album",
+        "url": "https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462320,
+      "name": "Rushing In - Live",
+      "url": "https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp"
+    },
+    {
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 347746,
+      "name": "Smile - Live",
+      "url": "https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9"
+    },
+    {
+      "album": {
+        "name": "Tell Of His Goodness",
+        "url": "https://open.spotify.com/album/5DuVNo2xLDf9HBazJjPUEq"
+      },
+      "artists": [
+        {
+          "name": "Jerome L. Ferrell & The Lighthouse Choir",
+          "url": "https://open.spotify.com/artist/5dXf1eZq3oPmDmhbtNTGgs"
+        },
+        {
+          "name": "Douglas Miller",
+          "url": "https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 348826,
+      "name": "Tell Of His Goodness",
+      "url": "https://open.spotify.com/track/7vBHM4rng1xTrCJij4uoCK"
+    },
+    {
+      "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320093,
+      "name": "That's What I Believe",
+      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
+    },
+    {
+      "album": {
+        "name": "Live In Washington",
+        "url": "https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388626,
+      "name": "The Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters - The Millennium Collection: The Best Of Richard Smallwood",
+        "url": "https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 267053,
+      "name": "The Lord's Prayer - Live",
+      "url": "https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb"
+    },
+    {
+      "album": {
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "album": {
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299600,
+      "name": "Total Praise (with Vision) - Live",
+      "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
+    },
+    {
+      "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293560,
+      "name": "We Fall Down - Live",
+      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
+    },
+    {
+      "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347106,
+      "name": "Why We Sing - Live",
+      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
+    },
+    {
+      "album": {
+        "name": "Wide as the Sky",
+        "url": "https://open.spotify.com/album/5Tu8nE6k0ZDiwTanXGFCoO"
+      },
+      "artists": [
+        {
+          "name": "Isabel Davis",
+          "url": "https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478198,
+      "name": "Wide as the Sky - Live",
+      "url": "https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik"
+    },
+    {
+      "album": {
+        "name": "Work It Out (Live)",
+        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320955,
+      "name": "Work It Out - Live",
+      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
+    },
+    {
+      "album": {
+        "name": "Worth Fighting For (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406480,
+      "name": "Worth Fighting For - Live",
+      "url": "https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE"
+    },
+    {
+      "album": {
+        "name": "Yahweh / Yeshua Hamashiach",
+        "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
+      },
+      "artists": [
+        {
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+        },
+        {
+          "name": "Cross Worship",
+          "url": "https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f"
+        },
+        {
+          "name": "Osby Berry",
+          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345005,
+      "name": "Yahweh / Yeshua Hamashiach",
+      "url": "https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB"
+    },
+    {
+      "album": {
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 480640,
+      "name": "You Know My Name - Live",
+      "url": "https://open.spotify.com/track/2appMt6i5ePK4c9RlbI3cF"
+    },
+    {
+      "album": {
+        "name": "Setlist Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307866,
+      "name": "You Waited (Live)",
+      "url": "https://open.spotify.com/track/2JffucuR5jZhDf9ysy0EnA"
+    },
+    {
+      "album": {
+        "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+        "url": "https://open.spotify.com/album/1th2131XTDQCahpTXc0ZxU"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Nicole Harris",
+          "url": "https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228791,
+      "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+      "url": "https://open.spotify.com/track/1Y0XTbnb53whT7mOkx2TNf"
+    },
+    {
+      "album": {
+        "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+        "url": "https://open.spotify.com/album/63Dts9ir6pyJiLrlPB0PBL"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Nicole Harris",
+          "url": "https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 228791,
+      "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+      "url": "https://open.spotify.com/track/70O4lnaxr3stKaPAZOHSgj"
+    },
+    {
+      "album": {
+        "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+        "url": "https://open.spotify.com/album/4eg8cRySS5C6jEC8D2vxvA"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Nicole Harris",
+          "url": "https://open.spotify.com/artist/0vot03PmrmBeagTXjtdxv8"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229007,
+      "name": "You're Doing It All Again (Radio Edit) [Live] (feat. Nicole Harris)",
+      "url": "https://open.spotify.com/track/3NFRngKYisUYOqftYepBef"
+    },
+    {
+      "album": {
+        "name": "Your Great Name (Live) - Single",
+        "url": "https://open.spotify.com/album/4WRLkgBaXabxMjQyDREdl8"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265573,
+      "name": "Your Great Name (Live)",
+      "url": "https://open.spotify.com/track/1JOT5cCiLGrzRQIWNOhBk5"
+    },
+    {
+      "album": {
+        "name": "Your Great Name (Live) - Single",
+        "url": "https://open.spotify.com/album/1b5xZ0TrmAYNNCmtjnl2G5"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 265573,
+      "name": "Your Great Name (Live)",
+      "url": "https://open.spotify.com/track/3hDeZSWqjlQPJM7w8zHToK"
+    },
+    {
+      "album": {
+        "name": "Your Great Name (Live) - Single",
+        "url": "https://open.spotify.com/album/1AehkTC1OOiwGkbO4ANakm"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265573,
+      "name": "Your Great Name (Live)",
+      "url": "https://open.spotify.com/track/4pTI61NxIuonwEsovOsDoc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbT5gAyEVKuo"
 }

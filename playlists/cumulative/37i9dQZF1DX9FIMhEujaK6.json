@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 185168,
       "name": "Above",
       "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Fortress",
+        "url": "https://open.spotify.com/album/0UG9EkpapSwVURP5SM5qIg"
+      },
+      "artists": [
+        {
+          "name": "Kipunji",
+          "url": "https://open.spotify.com/artist/4QwUuTuiNYfwdCDOlAq7um"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286919,
+      "name": "Fortress",
+      "url": "https://open.spotify.com/track/7faGA4VMnkaMsu3lFN2gxy"
+    },
+    {
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -900,6 +918,24 @@
       "duration_ms": 263041,
       "name": "Hates Me",
       "url": "https://open.spotify.com/track/65TQTuti8fOntyi7NzXLTQ"
+    },
+    {
+      "album": {
+        "name": "Have U",
+        "url": "https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161614,
+      "name": "Have U",
+      "url": "https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B"
     },
     {
       "album": {

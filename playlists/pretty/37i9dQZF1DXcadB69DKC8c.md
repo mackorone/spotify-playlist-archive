@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,524 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,376 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

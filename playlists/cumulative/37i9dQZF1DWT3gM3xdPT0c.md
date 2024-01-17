@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-309 songs - 13 hr 15 min
+313 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 | 2023-05-09 | 2023-09-01 |
 | [Brooke's Path](https://open.spotify.com/track/6IrsZTFv2PMsRbYLhtpBur) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Brooke's Path](https://open.spotify.com/album/05aFINCNicADeoVTXnMpRh) | 3:04 | 2023-11-24 |  |
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2022-03-04 | 2022-09-17 |
+| [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 | 2024-01-12 |  |
 | [By Your Side](https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 3:11 | 2022-03-04 | 2022-07-22 |
 | [Caledonia](https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ) | [Selena Dominguez](https://open.spotify.com/artist/2NixYvC1pTi52NazQO8zq6) | [Caledonia](https://open.spotify.com/album/4g2vl00ThtZT3xQW8BJIdz) | 3:28 | 2022-03-04 | 2023-03-10 |
 | [Calming Rain](https://open.spotify.com/track/7gGoipsdaoYS99Sjw7gizS) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Say My Name!](https://open.spotify.com/album/3STB33e4MiSaNNvU2XXPbh) | 3:07 | 2022-07-01 | 2022-07-22 |
@@ -130,6 +131,7 @@
 | [Hanna\`s Waltz](https://open.spotify.com/track/3qnrlBE2EdCb0lbVm7jjWQ) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Hanna\`s Waltz](https://open.spotify.com/album/11hzf8FQ7RhyLBKC5C2tsT) | 2:22 | 2022-03-04 | 2022-05-27 |
 | [Happy Faces](https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G) | [Juno Harrell](https://open.spotify.com/artist/3JPYFv2u0fEm4GzDqKVrWY) | [Happy Faces](https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy) | 3:20 | 2022-03-04 | 2022-04-06 |
 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 | 2023-02-24 |  |
+| [Havana](https://open.spotify.com/track/2GpaE8yk3gqH02k3h3Dmyq) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Havana](https://open.spotify.com/album/02zn5PgCVPHmuZ1dcp6yb3) | 2:06 | 2024-01-12 |  |
 | [Headed to the Hillside](https://open.spotify.com/track/0SRfTC8lmnaVrmzrGxkmMN) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Brave New Promises](https://open.spotify.com/album/5wgqxwzeY7WL0BbAdMliHj) | 2:47 | 2022-10-14 | 2023-02-25 |
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-03-04 |  |
@@ -274,6 +276,7 @@
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-21 | 2023-08-26 |
 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 | 2022-10-28 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-04-05 |  |
+| [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 |  |
 | [The Rainbow](https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [The Rainbow](https://open.spotify.com/album/0UBviprrJBKJPfjrfDTqqI) | 2:07 | 2022-05-27 | 2023-03-25 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-21 |  |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-24 |  |
@@ -293,6 +296,7 @@
 | [Vedana](https://open.spotify.com/track/1DxPQ0ZGbg6uJyBApXwYRP) | [Eugenia Russo](https://open.spotify.com/artist/1ozt8bFZUS8nHkKQ5eMr4O) | [Vedana](https://open.spotify.com/album/2VSWEzLFtAmsDUgeb9fEPM) | 2:33 | 2022-05-27 | 2022-12-10 |
 | [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-03-04 | 2023-09-01 |
+| [Visions](https://open.spotify.com/track/6vI1mGiTj4D8Lbi0G3Jl0z) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Visions](https://open.spotify.com/album/04JtQI5Xil1h3GCx8MyJJ8) | 2:02 | 2024-01-12 |  |
 | [Waiting](https://open.spotify.com/track/6Zq6tANmR79uUWS58OUglp) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Waiting](https://open.spotify.com/album/0wZfKkKEbZ89LjEPIqxLJE) | 2:07 | 2022-12-09 | 2023-10-13 |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2022-03-04 | 2023-01-20 |
 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 | 2023-05-09 | 2023-08-26 |

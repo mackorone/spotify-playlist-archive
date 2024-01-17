@@ -4,7 +4,7 @@
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 7 min
+53 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,12 @@
 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 | 2023-12-18 |  |
 | [Ese Beso](https://open.spotify.com/track/07hnXmPXyMeBHh3nT4PeQ0) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 4:09 | 2023-12-18 |  |
 | [Esta vez](https://open.spotify.com/track/620p6E4gMgvGEJJq3NZRUq) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a Frente](https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz) | 4:11 | 2023-12-18 |  |
+| [Extravíate](https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a Frente](https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz) | 3:09 | 2024-01-11 |  |
 | [Frente a Frente](https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:38 | 2023-12-18 |  |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:27 | 2023-12-18 |  |
 | [Llamarada](https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:17 | 2023-12-18 |  |
 | [Llamarada \(feat\. Edith Márquez\) \- En Vivo](https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h) | 3:40 | 2023-12-18 |  |
-| [Mi Ciudad](https://open.spotify.com/track/0d9fwpIG5o356RkkqEwLOu) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Mi Ciudad](https://open.spotify.com/album/15Yk0xqTaQ6wI5DX2xpRn3) | 3:35 | 2023-12-31 |  |
+| [Mi Ciudad](https://open.spotify.com/track/0d9fwpIG5o356RkkqEwLOu) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Mi Ciudad](https://open.spotify.com/album/15Yk0xqTaQ6wI5DX2xpRn3) | 3:35 | 2023-12-31 | 2024-01-12 |
 | [Mi error, mi fantasía](https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:48 | 2023-12-18 |  |
 | [Mi nombre](https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 4:22 | 2023-12-18 |  |
 | [Mírame](https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:46 | 2023-12-18 |  |

@@ -1,512 +1,971 @@
 {
-  "2022-08-06": 646,
-  "2022-08-07": 646,
-  "2022-08-08": 648,
-  "2022-08-09": 651,
-  "2022-08-10": 654,
-  "2022-08-11": 654,
-  "2022-08-12": 655,
-  "2022-08-13": 655,
-  "2022-08-14": 655,
-  "2022-08-15": 656,
-  "2022-08-16": 658,
-  "2022-08-17": 658,
-  "2022-08-18": 659,
-  "2022-08-19": 659,
-  "2022-08-20": 660,
-  "2022-08-21": 662,
-  "2022-08-22": 662,
-  "2022-08-23": 664,
-  "2022-08-24": 667,
-  "2022-08-25": 669,
-  "2022-08-26": 670,
-  "2022-08-27": 672,
-  "2022-08-28": 672,
-  "2022-08-29": 677,
-  "2022-08-30": 678,
-  "2022-08-31": 678,
-  "2022-09-01": 684,
-  "2022-09-02": 689,
-  "2022-09-03": 690,
-  "2022-09-04": 698,
-  "2022-09-05": 704,
-  "2022-09-06": 710,
-  "2022-09-07": 714,
-  "2022-09-09": 723,
-  "2022-09-10": 731,
-  "2022-09-11": 747,
-  "2022-09-12": 757,
-  "2022-09-13": 763,
-  "2022-09-15": 780,
-  "2022-09-16": 787,
-  "2022-09-17": 790,
-  "2022-09-18": 799,
-  "2022-09-19": 803,
-  "2022-09-20": 805,
-  "2022-09-21": 810,
-  "2022-09-22": 817,
-  "2022-09-23": 823,
-  "2022-09-24": 828,
-  "2022-09-25": 838,
-  "2022-09-26": 845,
-  "2022-09-27": 852,
-  "2022-09-28": 857,
-  "2022-09-29": 865,
-  "2022-09-30": 868,
-  "2022-10-01": 871,
-  "2022-10-02": 878,
-  "2022-10-03": 879,
-  "2022-10-04": 882,
-  "2022-10-05": 884,
-  "2022-10-06": 885,
-  "2022-10-07": 890,
-  "2022-10-08": 896,
-  "2022-10-09": 907,
-  "2022-10-10": 908,
-  "2022-10-11": 914,
-  "2022-10-12": 914,
-  "2022-10-13": 918,
-  "2022-10-14": 921,
-  "2022-10-15": 923,
-  "2022-10-16": 931,
-  "2022-10-17": 939,
-  "2022-10-18": 943,
-  "2022-10-19": 945,
-  "2022-10-20": 948,
-  "2022-10-21": 951,
-  "2022-10-22": 953,
-  "2022-10-23": 963,
-  "2022-10-24": 969,
-  "2022-10-25": 970,
-  "2022-10-26": 973,
-  "2022-10-27": 974,
-  "2022-10-28": 979,
-  "2022-10-29": 981,
-  "2022-10-30": 985,
-  "2022-10-31": 991,
-  "2022-11-01": 995,
-  "2022-11-02": 997,
-  "2022-11-03": 1000,
-  "2022-11-04": 1002,
-  "2022-11-05": 1007,
-  "2022-11-06": 1011,
-  "2022-11-07": 1018,
-  "2022-11-08": 1022,
-  "2022-11-09": 1025,
-  "2022-11-10": 1029,
-  "2022-11-11": 1032,
-  "2022-11-12": 1035,
-  "2022-11-13": 1036,
-  "2022-11-14": 1039,
-  "2022-11-15": 1042,
-  "2022-11-16": 1045,
-  "2022-11-17": 1052,
-  "2022-11-18": 1055,
-  "2022-11-19": 1053,
-  "2022-11-20": 1051,
-  "2022-11-21": 1054,
-  "2022-11-22": 1064,
-  "2022-11-23": 1058,
-  "2022-11-24": 1078,
-  "2022-11-25": 1089,
-  "2022-11-26": 1095,
-  "2022-11-27": 1099,
-  "2022-11-28": 1102,
-  "2022-11-29": 1105,
-  "2022-11-30": 1112,
-  "2022-12-01": 1117,
-  "2022-12-02": 1117,
-  "2022-12-03": 1118,
-  "2022-12-04": 1122,
-  "2022-12-05": 1123,
-  "2022-12-06": 1126,
-  "2022-12-07": 1131,
-  "2022-12-08": 1131,
-  "2022-12-09": 1133,
-  "2022-12-10": 1135,
-  "2022-12-11": 1142,
-  "2022-12-12": 1149,
-  "2022-12-13": 1156,
-  "2022-12-14": 1163,
-  "2022-12-15": 1169,
-  "2022-12-16": 1172,
-  "2022-12-17": 1174,
-  "2022-12-18": 1177,
-  "2022-12-19": 1182,
-  "2022-12-20": 1189,
-  "2022-12-21": 1189,
-  "2022-12-22": 1193,
-  "2022-12-24": 1200,
-  "2022-12-25": 1204,
-  "2022-12-26": 1207,
-  "2022-12-27": 1209,
-  "2022-12-28": 1214,
-  "2022-12-29": 1218,
-  "2022-12-30": 1219,
-  "2022-12-31": 1224,
-  "2023-01-01": 1227,
-  "2023-01-02": 1231,
-  "2023-01-03": 1235,
-  "2023-01-04": 1236,
-  "2023-01-05": 1237,
-  "2023-01-06": 1239,
-  "2023-01-07": 1247,
-  "2023-01-08": 1248,
-  "2023-01-09": 1250,
-  "2023-01-10": 1253,
-  "2023-01-11": 1258,
-  "2023-01-12": 1263,
-  "2023-01-13": 1266,
-  "2023-01-14": 1273,
-  "2023-01-15": 1273,
-  "2023-01-16": 1279,
-  "2023-01-17": 1283,
-  "2023-01-18": 1289,
-  "2023-01-19": 1289,
-  "2023-01-20": 1294,
-  "2023-01-21": 1297,
-  "2023-01-22": 1302,
-  "2023-01-23": 1308,
-  "2023-01-24": 1311,
-  "2023-01-25": 1315,
-  "2023-01-26": 1318,
-  "2023-01-27": 1320,
-  "2023-01-28": 1325,
-  "2023-01-29": 1330,
-  "2023-01-30": 1334,
-  "2023-01-31": 1334,
-  "2023-02-01": 1335,
-  "2023-02-02": 1337,
-  "2023-02-03": 1339,
-  "2023-02-04": 1342,
-  "2023-02-05": 1348,
-  "2023-02-06": 1351,
-  "2023-02-07": 1355,
-  "2023-02-08": 1355,
-  "2023-02-09": 1355,
-  "2023-02-10": 1358,
-  "2023-02-11": 1360,
-  "2023-02-12": 1372,
-  "2023-02-13": 1375,
-  "2023-02-14": 1375,
-  "2023-02-15": 1380,
-  "2023-02-16": 1386,
-  "2023-02-17": 1386,
-  "2023-02-18": 1395,
-  "2023-02-19": 1395,
-  "2023-02-20": 1394,
-  "2023-02-21": 1397,
-  "2023-02-22": 1401,
-  "2023-02-23": 1405,
-  "2023-02-24": 1406,
-  "2023-02-25": 1413,
-  "2023-02-26": 1414,
-  "2023-02-27": 1420,
-  "2023-02-28": 1420,
-  "2023-03-01": 1426,
-  "2023-03-02": 1430,
-  "2023-03-03": 1432,
-  "2023-03-04": 1436,
-  "2023-03-05": 1443,
-  "2023-03-06": 1443,
-  "2023-03-07": 1448,
-  "2023-03-08": 1450,
-  "2023-03-09": 1454,
-  "2023-03-10": 1457,
-  "2023-03-11": 1457,
-  "2023-03-12": 1466,
-  "2023-03-13": 1472,
-  "2023-03-14": 1479,
-  "2023-03-15": 1483,
-  "2023-03-16": 1485,
-  "2023-03-17": 1485,
-  "2023-03-18": 1500,
-  "2023-03-19": 1502,
-  "2023-03-20": 1509,
-  "2023-03-21": 1510,
-  "2023-03-22": 1514,
-  "2023-03-23": 1518,
-  "2023-03-24": 1518,
-  "2023-03-25": 1521,
-  "2023-03-26": 1522,
-  "2023-03-27": 1522,
-  "2023-03-28": 1528,
-  "2023-03-29": 1529,
-  "2023-03-30": 1547,
-  "2023-03-31": 1547,
-  "2023-04-01": 1555,
-  "2023-04-02": 1562,
-  "2023-04-03": 1569,
-  "2023-04-04": 1574,
-  "2023-04-05": 1576,
-  "2023-04-06": 1580,
-  "2023-04-07": 1581,
-  "2023-04-09": 1588,
-  "2023-04-10": 1590,
-  "2023-04-11": 1596,
-  "2023-04-12": 1596,
-  "2023-04-13": 1593,
-  "2023-04-14": 1600,
-  "2023-04-15": 1602,
-  "2023-04-16": 1604,
-  "2023-04-17": 1608,
-  "2023-04-18": 1611,
-  "2023-04-19": 1612,
-  "2023-04-20": 1618,
-  "2023-04-21": 1622,
-  "2023-04-22": 1627,
-  "2023-04-23": 1631,
-  "2023-04-24": 1636,
-  "2023-04-25": 1638,
-  "2023-04-26": 1639,
-  "2023-04-27": 1642,
-  "2023-04-28": 1644,
-  "2023-04-29": 1646,
-  "2023-04-30": 1650,
-  "2023-05-01": 1654,
-  "2023-05-02": 1655,
-  "2023-05-03": 1656,
-  "2023-05-04": 1656,
-  "2023-05-05": 1657,
-  "2023-05-06": 1660,
-  "2023-05-07": 1663,
-  "2023-05-08": 1666,
-  "2023-05-09": 1665,
-  "2023-05-10": 1666,
-  "2023-05-11": 1669,
-  "2023-05-12": 1674,
-  "2023-05-13": 1678,
-  "2023-05-14": 1682,
-  "2023-05-15": 1688,
-  "2023-05-16": 1689,
-  "2023-05-17": 1695,
-  "2023-05-18": 1696,
-  "2023-05-19": 1696,
-  "2023-05-20": 1703,
-  "2023-05-21": 1703,
-  "2023-05-22": 1703,
-  "2023-05-23": 1711,
-  "2023-05-24": 1714,
-  "2023-05-25": 1714,
-  "2023-05-26": 1714,
-  "2023-05-27": 1717,
-  "2023-05-28": 1721,
-  "2023-05-29": 1721,
-  "2023-05-30": 1726,
-  "2023-05-31": 1726,
-  "2023-06-01": 1727,
-  "2023-06-02": 1728,
-  "2023-06-03": 1731,
-  "2023-06-04": 1736,
-  "2023-06-05": 1736,
-  "2023-06-06": 1740,
-  "2023-06-07": 1742,
-  "2023-06-08": 1744,
-  "2023-06-09": 1748,
-  "2023-06-10": 1750,
-  "2023-06-11": 1759,
-  "2023-06-12": 1761,
-  "2023-06-13": 1766,
-  "2023-06-14": 1768,
-  "2023-06-15": 1773,
-  "2023-06-16": 1772,
-  "2023-06-17": 1773,
-  "2023-06-18": 1775,
-  "2023-06-19": 1780,
-  "2023-06-20": 1785,
-  "2023-06-21": 1786,
-  "2023-06-22": 1787,
-  "2023-06-23": 1789,
-  "2023-06-24": 1788,
-  "2023-06-25": 1790,
-  "2023-06-26": 1792,
-  "2023-06-27": 1794,
-  "2023-06-28": 1795,
-  "2023-06-29": 1795,
-  "2023-06-30": 1797,
-  "2023-07-01": 1800,
-  "2023-07-02": 1800,
-  "2023-07-03": 1801,
-  "2023-07-04": 1804,
-  "2023-07-05": 1805,
-  "2023-07-06": 1809,
-  "2023-07-07": 1809,
-  "2023-07-08": 1813,
-  "2023-07-09": 1812,
-  "2023-07-10": 1813,
-  "2023-07-11": 1815,
-  "2023-07-12": 1816,
-  "2023-07-13": 1819,
-  "2023-07-14": 1823,
-  "2023-07-15": 1823,
-  "2023-07-16": 1823,
-  "2023-07-17": 1829,
-  "2023-07-18": 1833,
-  "2023-07-19": 1836,
-  "2023-07-20": 1837,
-  "2023-07-21": 1839,
-  "2023-07-22": 1838,
-  "2023-07-23": 1838,
-  "2023-07-24": 1841,
-  "2023-07-25": 1842,
-  "2023-07-26": 1843,
-  "2023-07-27": 1845,
-  "2023-07-28": 1847,
-  "2023-07-29": 1850,
-  "2023-07-30": 1855,
-  "2023-07-31": 1855,
-  "2023-08-01": 1857,
-  "2023-08-02": 1859,
-  "2023-08-03": 1860,
-  "2023-08-04": 1860,
-  "2023-08-05": 1860,
-  "2023-08-06": 1860,
-  "2023-08-07": 1860,
-  "2023-08-08": 1860,
-  "2023-08-09": 1860,
-  "2023-08-10": 1860,
-  "2023-08-11": 1860,
-  "2023-08-12": 1860,
-  "2023-08-13": 1860,
-  "2023-08-14": 1860,
-  "2023-08-15": 1860,
-  "2023-08-16": 1860,
-  "2023-08-17": 1860,
-  "2023-08-18": 1860,
-  "2023-08-19": 1860,
-  "2023-08-20": 1860,
-  "2023-08-21": 1860,
-  "2023-08-22": 1860,
-  "2023-08-23": 1860,
-  "2023-08-24": 1860,
-  "2023-08-25": 1860,
-  "2023-08-26": 1860,
-  "2023-08-27": 1860,
-  "2023-08-28": 1860,
-  "2023-08-29": 1860,
-  "2023-08-30": 1860,
-  "2023-08-31": 1860,
-  "2023-09-01": 1860,
-  "2023-09-02": 1860,
-  "2023-09-03": 1860,
-  "2023-09-04": 1860,
-  "2023-09-05": 1860,
-  "2023-09-06": 1860,
-  "2023-09-07": 1860,
-  "2023-09-08": 1860,
-  "2023-09-09": 1860,
-  "2023-09-10": 1860,
-  "2023-09-11": 1860,
-  "2023-09-12": 1860,
-  "2023-09-13": 1860,
-  "2023-09-14": 1860,
-  "2023-09-15": 1860,
-  "2023-09-16": 1860,
-  "2023-09-17": 1860,
-  "2023-09-18": 1860,
-  "2023-09-19": 1860,
-  "2023-09-20": 1860,
-  "2023-09-21": 1860,
-  "2023-09-22": 1860,
-  "2023-09-23": 1860,
-  "2023-09-24": 1860,
-  "2023-09-25": 1860,
-  "2023-09-26": 1860,
-  "2023-09-27": 1860,
-  "2023-09-28": 1860,
-  "2023-09-29": 1860,
-  "2023-09-30": 1860,
-  "2023-10-01": 1860,
-  "2023-10-02": 1860,
-  "2023-10-03": 1860,
-  "2023-10-04": 1860,
-  "2023-10-05": 1860,
-  "2023-10-06": 1860,
-  "2023-10-07": 1860,
-  "2023-10-08": 1860,
-  "2023-10-09": 1860,
-  "2023-10-10": 1860,
-  "2023-10-11": 1860,
-  "2023-10-12": 1860,
-  "2023-10-13": 1860,
-  "2023-10-14": 1860,
-  "2023-10-15": 1860,
-  "2023-10-16": 1860,
-  "2023-10-17": 1860,
-  "2023-10-18": 1860,
-  "2023-10-19": 1860,
-  "2023-10-20": 1860,
-  "2023-10-21": 1860,
-  "2023-10-22": 1860,
-  "2023-10-23": 1860,
-  "2023-10-24": 1860,
-  "2023-10-25": 1860,
-  "2023-10-26": 1860,
-  "2023-10-27": 1860,
-  "2023-10-28": 1860,
-  "2023-10-29": 1860,
-  "2023-10-30": 1860,
-  "2023-10-31": 1860,
-  "2023-11-01": 1860,
-  "2023-11-02": 1860,
-  "2023-11-03": 1860,
-  "2023-11-04": 1860,
-  "2023-11-05": 1860,
-  "2023-11-06": 1860,
-  "2023-11-07": 1860,
-  "2023-11-08": 1860,
-  "2023-11-09": 1860,
-  "2023-11-10": 1860,
-  "2023-11-11": 1860,
-  "2023-11-12": 1860,
-  "2023-11-13": 1860,
-  "2023-11-14": 1860,
-  "2023-11-15": 1860,
-  "2023-11-16": 1860,
-  "2023-11-17": 1860,
-  "2023-11-18": 1860,
-  "2023-11-19": 1860,
-  "2023-11-20": 1860,
-  "2023-11-21": 1860,
-  "2023-11-22": 1860,
-  "2023-11-23": 1860,
-  "2023-11-24": 1860,
-  "2023-11-25": 1860,
-  "2023-11-26": 1860,
-  "2023-11-27": 1860,
-  "2023-11-28": 1860,
-  "2023-11-29": 1860,
-  "2023-11-30": 1860,
-  "2023-12-01": 1860,
-  "2023-12-02": 1860,
-  "2023-12-03": 1860,
-  "2023-12-04": 1860,
-  "2023-12-05": 1860,
-  "2023-12-06": 1860,
-  "2023-12-07": 1860,
-  "2023-12-08": 1860,
-  "2023-12-09": 1860,
-  "2023-12-10": 1860,
-  "2023-12-11": 1860,
-  "2023-12-12": 1860,
-  "2023-12-13": 1860,
-  "2023-12-14": 1860,
-  "2023-12-15": 1860,
-  "2023-12-16": 1860,
-  "2023-12-17": 1860,
-  "2023-12-18": 1860,
-  "2023-12-19": 1860,
-  "2023-12-20": 1860,
-  "2023-12-21": 1860,
-  "2023-12-22": 1860,
-  "2023-12-23": 1860,
-  "2023-12-24": 1860,
-  "2023-12-25": 1860,
-  "2023-12-26": 1860,
-  "2023-12-27": 1860,
-  "2023-12-30": 1860,
-  "2023-12-31": 1860,
-  "2024-01-01": 1860,
-  "2024-01-02": 1860,
-  "2024-01-03": 1860
+  "2024-01-17": 1860,
+  "date_first_scraped": "2022-08-06",
+  "description": "Listen to the official playlist for the hit series.",
+  "name": "Ridley Jones Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77973,
+      "name": "All of You (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/51J4qu6wJx2DPfXLS1y0n7"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 3)",
+        "url": "https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Laraine Newman",
+          "url": "https://open.spotify.com/artist/7HtMfy9xzvN9Vi28zO4MUw"
+        },
+        {
+          "name": "David Errigo Jr.",
+          "url": "https://open.spotify.com/artist/29VZZH10aBKp4JD9TzRIfI"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72520,
+      "name": "Along for the Ride (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Laraine Newman, David Errigo Jr.)",
+      "url": "https://open.spotify.com/track/5CNxIEXEpF9bAE8uSMYcz2"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 3)",
+        "url": "https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72626,
+      "name": "Art of the Steal (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/3na90VDQOXwhgZBg4y0GNX"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 3)",
+        "url": "https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iris Menas",
+          "url": "https://open.spotify.com/artist/5OyrupLad8mQvLHANtc5KB"
+        },
+        {
+          "name": "Haven Burton",
+          "url": "https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65773,
+      "name": "Big is a State of Mind (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Iris Menas, Haven Burton)",
+      "url": "https://open.spotify.com/track/1qajHFZJUMO3xwBgjs1bdn"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 3)",
+        "url": "https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Sutton Foster",
+          "url": "https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65960,
+      "name": "Change Can Be Good (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Sutton Foster, Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/53KKsNMiAn45yLcYSjK7wa"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 3)",
+        "url": "https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67506,
+      "name": "Do What's Right (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/6rNGUOvmyp6Xp0lcIuABLs"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66053,
+      "name": "Feel At Home (From The Netlix Series: \"Ridley Jones\" Vol. 2) (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/6cPUor4IdDBcyPCKfskp60"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75653,
+      "name": "For the Greater Good (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/0oIYC2pBcJHLjRR2f2jhRi"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Jane Lynch",
+          "url": "https://open.spotify.com/artist/0bV8w3RENfmk0OrSz3V9JP"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75680,
+      "name": "Goodbye (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Jane Lynch)",
+      "url": "https://open.spotify.com/track/3uAR3yzIjhfTUPR7BVxYBZ"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 3)",
+        "url": "https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Sutton Foster",
+          "url": "https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74373,
+      "name": "Home (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Sutton Foster, Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/5LUcArrZoeWmcTjzA1okYW"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Ezra Menas",
+          "url": "https://open.spotify.com/artist/3jesNW7wh5qztD6sUkylzV"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60706,
+      "name": "I Feel Like Me (From The Netlix Series: \"Ridley Jones\" Vol. 2) (feat. Ezra Menas)",
+      "url": "https://open.spotify.com/track/3cZHbHpbV4Ld9kPYgVqKfV"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60213,
+      "name": "I'm Not Ready (From The Netlix Series: \"Ridley Jones\" Vol. 2) (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/51NesRb93888CiNu0MZ0WK"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75786,
+      "name": "I'm Ready (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/0MqcYLLTOyScQwD8xAd7nz"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66546,
+      "name": "I'm So Ready (From The Netlix Series: \"Ridley Jones\" Vol. 2) (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/5XeuoLVQLWe2Icqv09Gzd5"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63186,
+      "name": "It's All Me (From The Netlix Series: \"Ridley Jones\" Vol. 2)",
+      "url": "https://open.spotify.com/track/1eDzHZuMKAHFh1eeWWI06u"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        },
+        {
+          "name": "Charles DeWayne",
+          "url": "https://open.spotify.com/artist/5WkfCmT7PZjlZCkLW0VA8i"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62546,
+      "name": "Keeping It Real (feat. Iara Nemirovsky, Charles DeWayne)",
+      "url": "https://open.spotify.com/track/2nB8YrLSCMxkPBTwzkQS4y"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Ezra Menas",
+          "url": "https://open.spotify.com/artist/3jesNW7wh5qztD6sUkylzV"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71986,
+      "name": "Lead the Herd (From The Netlix Series: \"Ridley Jones\" Vol. 2) (feat. Ezra Menas)",
+      "url": "https://open.spotify.com/track/2zjo7oB34g2WLrNZEHttWx"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70053,
+      "name": "Me! (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/2a5kyfJLbTFKXUbsj9RmYT"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        },
+        {
+          "name": "David Errigo Jr.",
+          "url": "https://open.spotify.com/artist/29VZZH10aBKp4JD9TzRIfI"
+        },
+        {
+          "name": "Tyler Shamy",
+          "url": "https://open.spotify.com/artist/1HCnSwXEA4v29mhIqqvLOS"
+        },
+        {
+          "name": "Iris Menas",
+          "url": "https://open.spotify.com/artist/5OyrupLad8mQvLHANtc5KB"
+        },
+        {
+          "name": "Laraine Newman",
+          "url": "https://open.spotify.com/artist/7HtMfy9xzvN9Vi28zO4MUw"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58160,
+      "name": "Mummy Thunder (feat. Iara Nemirovsky, David Errigo Jr., Tyler Shamy, Iris Menas, Laraine Newman)",
+      "url": "https://open.spotify.com/track/5W2K6R9LyZl8ZnBEtPNNIk"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Sutton Foster",
+          "url": "https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67386,
+      "name": "Museum Lullaby (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Sutton Foster, Ridley Jones Cast)",
+      "url": "https://open.spotify.com/track/36SXDCFiIXFY8lT7IkWQcU"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Sutton Foster",
+          "url": "https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86280,
+      "name": "My Greatest Quest (From The Netlix Series: \"Ridley Jones\" Vol. 2) (feat. Sutton Foster)",
+      "url": "https://open.spotify.com/track/1WAOeO3Zawv0uNxQW5korB"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "David Errigo Jr.",
+          "url": "https://open.spotify.com/artist/29VZZH10aBKp4JD9TzRIfI"
+        },
+        {
+          "name": "Tyler Shamy",
+          "url": "https://open.spotify.com/artist/1HCnSwXEA4v29mhIqqvLOS"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63973,
+      "name": "My Little Bro (From The Netlix Series: \"Ridley Jones\" Vol. 2) (feat. David Errigo Jr., Tyler Shamy)",
+      "url": "https://open.spotify.com/track/6wmu1ibs53KRdgArnzYSFo"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Ashlyn Madden",
+          "url": "https://open.spotify.com/artist/61FgsrCQW7peAfE3PezyGN"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75093,
+      "name": "My Two Dads And Me (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Ashlyn Madden)",
+      "url": "https://open.spotify.com/track/3mhQWXzbI3u50bo2pNrQuU"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iris Menas",
+          "url": "https://open.spotify.com/artist/5OyrupLad8mQvLHANtc5KB"
+        },
+        {
+          "name": "Laraine Newman",
+          "url": "https://open.spotify.com/artist/7HtMfy9xzvN9Vi28zO4MUw"
+        },
+        {
+          "name": "Tyler Shamy",
+          "url": "https://open.spotify.com/artist/1HCnSwXEA4v29mhIqqvLOS"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75226,
+      "name": "On the Hunt (feat. Tyler Shamy, Iris Menas, Laraine Newman)",
+      "url": "https://open.spotify.com/track/1vqd0moPGdLGYd7UByGpWg"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "David Errigo Jr.",
+          "url": "https://open.spotify.com/artist/29VZZH10aBKp4JD9TzRIfI"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71706,
+      "name": "One of A Kind (From The Netflix Series: \u201cRidley Jones\u201d) (feat. David Errigo Jr.)",
+      "url": "https://open.spotify.com/track/10tF0aH4k60wlB8nRFnzOE"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Lauren Patten",
+          "url": "https://open.spotify.com/artist/0EFGcWFxko9uqZ1foyjysa"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62013,
+      "name": "Ridley Jones Theme Song (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Lauren Patten)",
+      "url": "https://open.spotify.com/track/2iQTyCRelJWZpy8q2QGaI6"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61333,
+      "name": "Rise Above (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Ridley Jones Cast)",
+      "url": "https://open.spotify.com/track/1LaGlSuXnL6px2J6OjXR5M"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Ashlyn Madden",
+          "url": "https://open.spotify.com/artist/61FgsrCQW7peAfE3PezyGN"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67840,
+      "name": "Royally Afraid (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Ashlyn Madden)",
+      "url": "https://open.spotify.com/track/6APtwX2OSTXUX9U5Y66bIX"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60826,
+      "name": "Stand As One (From The Netlix Series: \"Ridley Jones\" Vol. 2)",
+      "url": "https://open.spotify.com/track/74fubyFxiMMNBRWdjDvCEE"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "David Errigo Jr.",
+          "url": "https://open.spotify.com/artist/29VZZH10aBKp4JD9TzRIfI"
+        },
+        {
+          "name": "Tyler Shamy",
+          "url": "https://open.spotify.com/artist/1HCnSwXEA4v29mhIqqvLOS"
+        },
+        {
+          "name": "Iris Menas",
+          "url": "https://open.spotify.com/artist/5OyrupLad8mQvLHANtc5KB"
+        },
+        {
+          "name": "Ashlyn Madden",
+          "url": "https://open.spotify.com/artist/61FgsrCQW7peAfE3PezyGN"
+        },
+        {
+          "name": "Laraine Newman",
+          "url": "https://open.spotify.com/artist/7HtMfy9xzvN9Vi28zO4MUw"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64892,
+      "name": "That's What I Heard (feat. David Errigo Jr., Tyler Shamy, Iris Menas, Ashlyn Madden, Laraine Newman)",
+      "url": "https://open.spotify.com/track/42qsnmOgTgnWpSxdS3Ohlz"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 3)",
+        "url": "https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Laraine Newman",
+          "url": "https://open.spotify.com/artist/7HtMfy9xzvN9Vi28zO4MUw"
+        },
+        {
+          "name": "Gabrielle Luiz",
+          "url": "https://open.spotify.com/artist/5Dnly5BoqD5QRymqXSeTSD"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67800,
+      "name": "The Beauty of Outer Space (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Laraine Newman, Gabrielle Luiz)",
+      "url": "https://open.spotify.com/track/7nzUoaYSznMJrMpUiPDiuD"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68506,
+      "name": "The Eyes of the Museum (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Ridley Jones Cast)",
+      "url": "https://open.spotify.com/track/1kA5HH6sJqVQWFxqCtWKSz"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 3)",
+        "url": "https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Andrew Rannells",
+          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
+        },
+        {
+          "name": "Chris Colfer",
+          "url": "https://open.spotify.com/artist/3hrKlJnaCBHOeaLf3wE9TA"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75733,
+      "name": "The Greatest Gifts (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Andrew Rannells, Chris Colfer)",
+      "url": "https://open.spotify.com/track/3UnlolHgkyXm0MKeqaM8Ol"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Yvette Nicole Brown",
+          "url": "https://open.spotify.com/artist/1kmMq3l60Mp0rJBgAa83UO"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52146,
+      "name": "The Riddle Of The Sphinx (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Yvette Nicole Brown)",
+      "url": "https://open.spotify.com/track/6rxHayMn4UW6tWT5pOKUEA"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Tyler Shamy",
+          "url": "https://open.spotify.com/artist/1HCnSwXEA4v29mhIqqvLOS"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73306,
+      "name": "The Tale of Me And My Tail (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Tyler Shamy)",
+      "url": "https://open.spotify.com/track/7A65MLdbN0NzJa7qk93d9D"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iris Menas",
+          "url": "https://open.spotify.com/artist/5OyrupLad8mQvLHANtc5KB"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66720,
+      "name": "Tough Like You (feat. Iris Menas)",
+      "url": "https://open.spotify.com/track/1hRQ7COBRcrmwO4cnrCZiJ"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Ezra Menas",
+          "url": "https://open.spotify.com/artist/3jesNW7wh5qztD6sUkylzV"
+        },
+        {
+          "name": "Ashlyn Madden",
+          "url": "https://open.spotify.com/artist/61FgsrCQW7peAfE3PezyGN"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57293,
+      "name": "Way Too Different to Get Along (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Ashlyn Madden, Ezra Menas)",
+      "url": "https://open.spotify.com/track/1O47UAKBmYCSzBTFtfCM9H"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Ricardo Hurtado",
+          "url": "https://open.spotify.com/artist/5xbCcbHswKIxttuCx8ufmG"
+        },
+        {
+          "name": "Tahj Mowry",
+          "url": "https://open.spotify.com/artist/0sVyntUJeNJ1jcJszDQsxy"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66306,
+      "name": "Welcome to Our Island (feat. Ricardo Hurtado, Tahj Mowry)",
+      "url": "https://open.spotify.com/track/1xsSeeF1alDbZx2hQej9ut"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones",
+        "url": "https://open.spotify.com/album/4Z9ZBsr43iwuwyc9BN5CZg"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Dave Boat",
+          "url": "https://open.spotify.com/artist/25Jhydk6PCWD3lYij5UEOS"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72560,
+      "name": "Where This Mammoth Belongs (feat. Dave Boat)",
+      "url": "https://open.spotify.com/track/4oj1nMWGTrPcNzRiInzRXQ"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "David Errigo Jr.",
+          "url": "https://open.spotify.com/artist/29VZZH10aBKp4JD9TzRIfI"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61346,
+      "name": "You Can't Let A Bummer Get You Down (From The Netlix Series: \"Ridley Jones\" Vol. 2) (feat. David Errigo Jr.)",
+      "url": "https://open.spotify.com/track/2MvgE37cZwchx3fBDGEyJj"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67826,
+      "name": "You're A Hero (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Ridley Jones Cast)",
+      "url": "https://open.spotify.com/track/3o2NLYYBKuOfiOe7LWRvcX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXdbjTtdRf2g"
 }

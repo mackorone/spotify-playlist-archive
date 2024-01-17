@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 275327,
       "name": "Grita Tierra",
       "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": "2024-01-16",
       "duration_ms": 183640,
       "name": "La Maldici\u00f3n de Mi Pa\u00eds",
       "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 226355,
       "name": "Ni\u00f1x",
       "url": "https://open.spotify.com/track/2sKurE9yCmgFfdP4vW0rgy"
@@ -3732,10 +3732,28 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 239906,
       "name": "Nuestro Amo Juega al Esclavo",
       "url": "https://open.spotify.com/track/0xt7T3rqNolRjO0AUWqBiD"
+    },
+    {
+      "album": {
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239906,
+      "name": "Nuestro Amo Juega al Esclavo",
+      "url": "https://open.spotify.com/track/14UY2VvUlmEmSd9ILCqyUz"
     },
     {
       "album": {
@@ -4313,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "Formas para Perderse o I.D.E.A.S",
+        "url": "https://open.spotify.com/album/5hVZa47W1Zil7bIDRgGWjT"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301560,
+      "name": "Polyrics",
+      "url": "https://open.spotify.com/track/6XKoyd0TlK3i0aS7CEiGVX"
+    },
+    {
+      "album": {
         "name": "Pateando Piedras",
         "url": "https://open.spotify.com/album/0Av7hm17VTE9gQgJ2pg7WW"
       },
@@ -4656,6 +4692,24 @@
     {
       "album": {
         "name": "Fiesta",
+        "url": "https://open.spotify.com/album/4N7aFyo10qOsLA6hV2b4RL"
+      },
+      "artists": [
+        {
+          "name": "Fiskales Ad-Hok",
+          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128573,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/5vHv37nWrQKPVlzsL0R4Zp"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
         "url": "https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv"
       },
       "artists": [
@@ -4666,7 +4720,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 128573,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c"
@@ -5108,7 +5162,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"

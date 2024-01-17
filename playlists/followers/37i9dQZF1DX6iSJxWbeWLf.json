@@ -1,329 +1,621 @@
 {
-  "2023-02-08": 2396,
-  "2023-02-09": 2396,
-  "2023-02-10": 2428,
-  "2023-02-11": 2453,
-  "2023-02-12": 2551,
-  "2023-02-13": 2614,
-  "2023-02-14": 2614,
-  "2023-02-15": 2678,
-  "2023-02-16": 2749,
-  "2023-02-17": 2820,
-  "2023-02-18": 2914,
-  "2023-02-19": 2931,
-  "2023-02-20": 2995,
-  "2023-02-21": 3059,
-  "2023-02-22": 3127,
-  "2023-02-23": 3189,
-  "2023-02-24": 3230,
-  "2023-02-25": 3299,
-  "2023-02-26": 3332,
-  "2023-02-27": 3477,
-  "2023-02-28": 3477,
-  "2023-03-01": 3551,
-  "2023-03-02": 3630,
-  "2023-03-03": 3679,
-  "2023-03-04": 3728,
-  "2023-03-05": 3855,
-  "2023-03-06": 3855,
-  "2023-03-07": 3909,
-  "2023-03-08": 3971,
-  "2023-03-09": 4035,
-  "2023-03-10": 4104,
-  "2023-03-11": 4148,
-  "2023-03-12": 4199,
-  "2023-03-13": 4259,
-  "2023-03-14": 4321,
-  "2023-03-15": 4386,
-  "2023-03-16": 4457,
-  "2023-03-17": 4457,
-  "2023-03-18": 4568,
-  "2023-03-19": 4606,
-  "2023-03-20": 4655,
-  "2023-03-21": 4719,
-  "2023-03-22": 4804,
-  "2023-03-23": 4874,
-  "2023-03-24": 4874,
-  "2023-03-25": 4981,
-  "2023-03-26": 5030,
-  "2023-03-27": 5109,
-  "2023-03-28": 5185,
-  "2023-03-29": 5271,
-  "2023-03-30": 5391,
-  "2023-03-31": 5391,
-  "2023-04-01": 5442,
-  "2023-04-02": 5494,
-  "2023-04-03": 5543,
-  "2023-04-04": 5601,
-  "2023-04-05": 5655,
-  "2023-04-06": 5724,
-  "2023-04-07": 5775,
-  "2023-04-09": 5913,
-  "2023-04-10": 5977,
-  "2023-04-11": 6134,
-  "2023-04-12": 6134,
-  "2023-04-13": 6204,
-  "2023-04-14": 6289,
-  "2023-04-15": 6340,
-  "2023-04-16": 6400,
-  "2023-04-17": 6477,
-  "2023-04-18": 6547,
-  "2023-04-19": 6700,
-  "2023-04-20": 6805,
-  "2023-04-21": 6878,
-  "2023-04-22": 6939,
-  "2023-04-23": 6993,
-  "2023-04-24": 7073,
-  "2023-04-25": 7142,
-  "2023-04-26": 7270,
-  "2023-04-27": 7335,
-  "2023-04-28": 7417,
-  "2023-04-29": 7474,
-  "2023-04-30": 7518,
-  "2023-05-01": 7582,
-  "2023-05-02": 7654,
-  "2023-05-03": 7744,
-  "2023-05-04": 7821,
-  "2023-05-05": 7888,
-  "2023-05-06": 7938,
-  "2023-05-07": 7988,
-  "2023-05-08": 8045,
-  "2023-05-09": 8125,
-  "2023-05-10": 8181,
-  "2023-05-11": 8228,
-  "2023-05-12": 8298,
-  "2023-05-13": 8357,
-  "2023-05-14": 8421,
-  "2023-05-15": 8492,
-  "2023-05-16": 8562,
-  "2023-05-17": 8632,
-  "2023-05-18": 8700,
-  "2023-05-19": 8791,
-  "2023-05-20": 8918,
-  "2023-05-21": 8918,
-  "2023-05-22": 8918,
-  "2023-05-23": 9051,
-  "2023-05-24": 9161,
-  "2023-05-25": 9177,
-  "2023-05-26": 9241,
-  "2023-05-27": 9283,
-  "2023-05-28": 9330,
-  "2023-05-29": 9330,
-  "2023-05-30": 9433,
-  "2023-05-31": 9513,
-  "2023-06-01": 9569,
-  "2023-06-02": 9629,
-  "2023-06-03": 9679,
-  "2023-06-04": 9709,
-  "2023-06-05": 9760,
-  "2023-06-06": 9825,
-  "2023-06-07": 9881,
-  "2023-06-08": 9941,
-  "2023-06-09": 9982,
-  "2023-06-10": 10029,
-  "2023-06-11": 10066,
-  "2023-06-12": 10114,
-  "2023-06-13": 10156,
-  "2023-06-14": 10156,
-  "2023-06-15": 10239,
-  "2023-06-16": 10280,
-  "2023-06-17": 10329,
-  "2023-06-18": 10354,
-  "2023-06-19": 10391,
-  "2023-06-20": 10450,
-  "2023-06-21": 10503,
-  "2023-06-22": 10549,
-  "2023-06-23": 10581,
-  "2023-06-24": 10607,
-  "2023-06-25": 10640,
-  "2023-06-26": 10669,
-  "2023-06-27": 10716,
-  "2023-06-28": 10757,
-  "2023-06-29": 10821,
-  "2023-06-30": 10867,
-  "2023-07-01": 10939,
-  "2023-07-02": 10939,
-  "2023-07-03": 10978,
-  "2023-07-04": 11035,
-  "2023-07-05": 11082,
-  "2023-07-06": 11178,
-  "2023-07-07": 11178,
-  "2023-07-08": 11223,
-  "2023-07-09": 11252,
-  "2023-07-10": 11300,
-  "2023-07-11": 11327,
-  "2023-07-12": 11376,
-  "2023-07-13": 11425,
-  "2023-07-14": 11462,
-  "2023-07-15": 11496,
-  "2023-07-16": 11535,
-  "2023-07-17": 11577,
-  "2023-07-18": 11638,
-  "2023-07-19": 11681,
-  "2023-07-20": 11727,
-  "2023-07-21": 11772,
-  "2023-07-22": 11809,
-  "2023-07-23": 11844,
-  "2023-07-24": 11873,
-  "2023-07-25": 11922,
-  "2023-07-26": 11949,
-  "2023-07-27": 11994,
-  "2023-07-28": 12032,
-  "2023-07-29": 12063,
-  "2023-07-30": 12093,
-  "2023-07-31": 12130,
-  "2023-08-01": 12170,
-  "2023-08-02": 12215,
-  "2023-08-03": 12280,
-  "2023-08-04": 12324,
-  "2023-08-05": 12364,
-  "2023-08-06": 12458,
-  "2023-08-07": 12458,
-  "2023-08-08": 12503,
-  "2023-08-09": 12549,
-  "2023-08-10": 12597,
-  "2023-08-11": 12652,
-  "2023-08-12": 12696,
-  "2023-08-13": 12739,
-  "2023-08-14": 12774,
-  "2023-08-15": 12897,
-  "2023-08-16": 12897,
-  "2023-08-17": 12962,
-  "2023-08-18": 13029,
-  "2023-08-19": 13092,
-  "2023-08-20": 13150,
-  "2023-08-21": 13208,
-  "2023-08-22": 13276,
-  "2023-08-23": 13342,
-  "2023-08-24": 13400,
-  "2023-08-25": 13484,
-  "2023-08-26": 13537,
-  "2023-08-27": 13590,
-  "2023-08-28": 13677,
-  "2023-08-29": 13752,
-  "2023-08-30": 13826,
-  "2023-08-31": 13914,
-  "2023-09-01": 14063,
-  "2023-09-02": 14063,
-  "2023-09-03": 14101,
-  "2023-09-04": 14165,
-  "2023-09-05": 14238,
-  "2023-09-06": 14317,
-  "2023-09-07": 14380,
-  "2023-09-08": 14452,
-  "2023-09-09": 14536,
-  "2023-09-10": 14594,
-  "2023-09-11": 14657,
-  "2023-09-12": 14754,
-  "2023-09-13": 14911,
-  "2023-09-14": 15040,
-  "2023-09-15": 15105,
-  "2023-09-16": 15172,
-  "2023-09-17": 15244,
-  "2023-09-18": 15319,
-  "2023-09-19": 15427,
-  "2023-09-20": 15511,
-  "2023-09-21": 15637,
-  "2023-09-22": 15716,
-  "2023-09-23": 15787,
-  "2023-09-24": 15842,
-  "2023-09-25": 15917,
-  "2023-09-26": 16025,
-  "2023-09-27": 16093,
-  "2023-09-28": 16180,
-  "2023-09-29": 16252,
-  "2023-09-30": 16311,
-  "2023-10-01": 16354,
-  "2023-10-02": 16412,
-  "2023-10-03": 16482,
-  "2023-10-04": 16571,
-  "2023-10-05": 16643,
-  "2023-10-06": 16721,
-  "2023-10-07": 16755,
-  "2023-10-08": 16783,
-  "2023-10-09": 16844,
-  "2023-10-10": 16898,
-  "2023-10-11": 17038,
-  "2023-10-12": 17038,
-  "2023-10-13": 17095,
-  "2023-10-14": 17143,
-  "2023-10-15": 17187,
-  "2023-10-16": 17265,
-  "2023-10-17": 17332,
-  "2023-10-18": 17404,
-  "2023-10-19": 17475,
-  "2023-10-20": 17537,
-  "2023-10-21": 17596,
-  "2023-10-22": 17637,
-  "2023-10-23": 17703,
-  "2023-10-24": 17777,
-  "2023-10-25": 17847,
-  "2023-10-26": 17920,
-  "2023-10-27": 17989,
-  "2023-10-28": 18025,
-  "2023-10-29": 18062,
-  "2023-10-30": 18187,
-  "2023-10-31": 18187,
-  "2023-11-01": 18260,
-  "2023-11-02": 18328,
-  "2023-11-03": 18394,
-  "2023-11-04": 18448,
-  "2023-11-05": 18490,
-  "2023-11-06": 18558,
-  "2023-11-07": 18638,
-  "2023-11-08": 18709,
-  "2023-11-09": 18779,
-  "2023-11-10": 18848,
-  "2023-11-11": 18896,
-  "2023-11-12": 18944,
-  "2023-11-13": 18988,
-  "2023-11-14": 19055,
-  "2023-11-15": 19055,
-  "2023-11-16": 19188,
-  "2023-11-17": 19283,
-  "2023-11-18": 19283,
-  "2023-11-19": 19340,
-  "2023-11-20": 19421,
-  "2023-11-21": 19497,
-  "2023-11-22": 19577,
-  "2023-11-23": 19636,
-  "2023-11-24": 19687,
-  "2023-11-25": 19733,
-  "2023-11-26": 19784,
-  "2023-11-27": 19843,
-  "2023-11-28": 19908,
-  "2023-11-29": 20051,
-  "2023-11-30": 20051,
-  "2023-12-01": 20124,
-  "2023-12-02": 20170,
-  "2023-12-03": 20202,
-  "2023-12-04": 20269,
-  "2023-12-05": 20346,
-  "2023-12-06": 20419,
-  "2023-12-07": 20475,
-  "2023-12-08": 20526,
-  "2023-12-09": 20559,
-  "2023-12-10": 20602,
-  "2023-12-11": 20649,
-  "2023-12-12": 20737,
-  "2023-12-13": 20802,
-  "2023-12-14": 20856,
-  "2023-12-15": 20885,
-  "2023-12-16": 20927,
-  "2023-12-17": 20967,
-  "2023-12-18": 21001,
-  "2023-12-19": 21043,
-  "2023-12-20": 21074,
-  "2023-12-21": 21113,
-  "2023-12-22": 21154,
-  "2023-12-23": 21182,
-  "2023-12-24": 21214,
-  "2023-12-25": 21225,
-  "2023-12-26": 21254,
-  "2023-12-27": 21300,
-  "2023-12-30": 21402,
-  "2023-12-31": 21452,
-  "2024-01-01": 21482,
-  "2024-01-02": 21522,
-  "2024-01-03": 21579
+  "2024-01-17": 22486,
+  "date_first_scraped": "2023-02-08",
+  "description": "Noise, Waves, Rain...\na stimulating mix to get your brain into the right flow.",
+  "name": "Hyper Focus Noise",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rumori Di Notte",
+        "url": "https://open.spotify.com/album/1S9SdBPsQCziWWoXSO8azE"
+      },
+      "artists": [
+        {
+          "name": "Natural Sample Makers",
+          "url": "https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150836,
+      "name": "Addormentarsi",
+      "url": "https://open.spotify.com/track/5CJwgyuXlhfXiZzJI53BUw"
+    },
+    {
+      "album": {
+        "name": "Baby Sleep Noise Womb Sounds",
+        "url": "https://open.spotify.com/album/4nwGE89ZDvH1afTG6Tzxc3"
+      },
+      "artists": [
+        {
+          "name": "ASMR Whisperers",
+          "url": "https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Ambient Noise for Babies Sleep 4 (Heartbeat)",
+      "url": "https://open.spotify.com/track/448Iy0QkL0zc0hZTQymt04"
+    },
+    {
+      "album": {
+        "name": "Baby Sleep Noise Womb Sounds",
+        "url": "https://open.spotify.com/album/4nwGE89ZDvH1afTG6Tzxc3"
+      },
+      "artists": [
+        {
+          "name": "ASMR Whisperers",
+          "url": "https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ambient Noise for Babies Sleep 5 (Heartbeat)",
+      "url": "https://open.spotify.com/track/57dINLIpeMw8MLuMuW0voM"
+    },
+    {
+      "album": {
+        "name": "Rain and Ocean Soundscapes",
+        "url": "https://open.spotify.com/album/5hbhvPjENqCuWA1pfl0KJZ"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262831,
+      "name": "Binaural Soothing Wave Sounds",
+      "url": "https://open.spotify.com/track/10gnXr8t4P7X3WpvRDyaPD"
+    },
+    {
+      "album": {
+        "name": "Wombs Sounds for Baby Sleep (with Heartbeats)",
+        "url": "https://open.spotify.com/album/2mqMGoA5RNNFt19WGNCc33"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Calm Sleep Sounds for Babies",
+      "url": "https://open.spotify.com/track/2oUULGrURe3PsiYZqmmF4W"
+    },
+    {
+      "album": {
+        "name": "Nightly Rain",
+        "url": "https://open.spotify.com/album/6ctFzaJrahIfWFj5s1bgXZ"
+      },
+      "artists": [
+        {
+          "name": "Plectrasonics",
+          "url": "https://open.spotify.com/artist/2dyUwQxoYt3ersIjh4Z77v"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121874,
+      "name": "Carpe Noctem - Fade",
+      "url": "https://open.spotify.com/track/2UJaSUNuWwkuvYoXGqlANp"
+    },
+    {
+      "album": {
+        "name": "Cascading Water",
+        "url": "https://open.spotify.com/album/18pUis5CO7ljukwfgO9BI4"
+      },
+      "artists": [
+        {
+          "name": "Pacific Soundscapes",
+          "url": "https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150730,
+      "name": "Cascading Water",
+      "url": "https://open.spotify.com/track/3xzldmkvd3FcrdWV6Zz3sA"
+    },
+    {
+      "album": {
+        "name": "Consistent Rain",
+        "url": "https://open.spotify.com/album/11wLvp7lKyBLSo6csOmJCo"
+      },
+      "artists": [
+        {
+          "name": "Wrap Yourself Up",
+          "url": "https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Consistent Rain",
+      "url": "https://open.spotify.com/track/1RqxfnREk3NfdYmHpALdrc"
+    },
+    {
+      "album": {
+        "name": "Oceanic Breeze",
+        "url": "https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp"
+      },
+      "artists": [
+        {
+          "name": "Brainwave Samples",
+          "url": "https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168614,
+      "name": "Distant Waves Pt. 2",
+      "url": "https://open.spotify.com/track/6gj55yZkNA0UA9XDO4PXof"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Beauty",
+        "url": "https://open.spotify.com/album/2RADMCLv0wqNp0vChBcSP6"
+      },
+      "artists": [
+        {
+          "name": "Pink Noise Traveler",
+          "url": "https://open.spotify.com/artist/1NC629rjoeMtPM5WGgk1nD"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Dozing Pink Noise",
+      "url": "https://open.spotify.com/track/1CnDh3GRwICYp5vQ41MtC0"
+    },
+    {
+      "album": {
+        "name": "Winds Of Sleep",
+        "url": "https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 112615,
+      "name": "Fan Of Sleep",
+      "url": "https://open.spotify.com/track/3X0TLnpNbg4MPTdyGVljm1"
+    },
+    {
+      "album": {
+        "name": "Swedish River Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/5WFw9LxCl3TY6ioNWn9Jsf"
+      },
+      "artists": [
+        {
+          "name": "In The River (Sound FX)",
+          "url": "https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178028,
+      "name": "Focus River Stream",
+      "url": "https://open.spotify.com/track/4YTl4WlQzccIhKGrJkb81v"
+    },
+    {
+      "album": {
+        "name": "Misty Rain",
+        "url": "https://open.spotify.com/album/2ZTBbqsjjp5b7tvSGcWWQu"
+      },
+      "artists": [
+        {
+          "name": "Freyr",
+          "url": "https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Get Away Rain",
+      "url": "https://open.spotify.com/track/4MRSkeZDLve6VCSTOvKa45"
+    },
+    {
+      "album": {
+        "name": "Swedish Water Streams",
+        "url": "https://open.spotify.com/album/0R1de3qcFqytuzgoRePMAF"
+      },
+      "artists": [
+        {
+          "name": "Floder",
+          "url": "https://open.spotify.com/artist/57MZUPxjVvsMBiz5JzL3ii"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 102000,
+      "name": "Huge River - Seamless",
+      "url": "https://open.spotify.com/track/11NG99zOBCi53U8DsVTSyG"
+    },
+    {
+      "album": {
+        "name": "Dreamy Sleep Noise",
+        "url": "https://open.spotify.com/album/3HuThTlI9TwfQYJhab4ayN"
+      },
+      "artists": [
+        {
+          "name": "White Textures",
+          "url": "https://open.spotify.com/artist/3po9omZSjr6BgIzdw2Wsjz"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124713,
+      "name": "Humble Noise",
+      "url": "https://open.spotify.com/track/1A9Zpwjpjz91R7lIACq5EG"
+    },
+    {
+      "album": {
+        "name": "The Wet Forest",
+        "url": "https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6"
+      },
+      "artists": [
+        {
+          "name": "Slumbertronica",
+          "url": "https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Lake Rain With Thunder",
+      "url": "https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0"
+    },
+    {
+      "album": {
+        "name": "Low Slow Noise",
+        "url": "https://open.spotify.com/album/3duCww2adwRWRR8811ErjL"
+      },
+      "artists": [
+        {
+          "name": "Soundstars",
+          "url": "https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150341,
+      "name": "Mild White Noise",
+      "url": "https://open.spotify.com/track/2eFije7gUh0N0NcmvHKOVp"
+    },
+    {
+      "album": {
+        "name": "Wombs Sounds for Baby Sleep (with Heartbeats)",
+        "url": "https://open.spotify.com/album/2mqMGoA5RNNFt19WGNCc33"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Natural Noise Machine for Babies",
+      "url": "https://open.spotify.com/track/1O5PEJX6Cb7eM6bNRZT2IY"
+    },
+    {
+      "album": {
+        "name": "Noise Rain",
+        "url": "https://open.spotify.com/album/0gQvJtixPCxHTn9GGogXEy"
+      },
+      "artists": [
+        {
+          "name": "Natures Orchestra",
+          "url": "https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164954,
+      "name": "Noise Rain",
+      "url": "https://open.spotify.com/track/1Vxx4lP5fRdm4A18AwNGBu"
+    },
+    {
+      "album": {
+        "name": "Pac\u00edfico",
+        "url": "https://open.spotify.com/album/6hYCsHoKis66UWEFMr3Odi"
+      },
+      "artists": [
+        {
+          "name": "Brisa Matinal",
+          "url": "https://open.spotify.com/artist/1DXZ1YHbVYMnaiBKoqiBqd"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188312,
+      "name": "Pac\u00edfico",
+      "url": "https://open.spotify.com/track/0JFaOI42ENrS1Zs6pwT2r9"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Sleep",
+        "url": "https://open.spotify.com/album/4B143uGP1Wwhb5xO95nvaS"
+      },
+      "artists": [
+        {
+          "name": "Falling into Pink",
+          "url": "https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219750,
+      "name": "Pink Noise for Sleeping",
+      "url": "https://open.spotify.com/track/2ex3O9bv4muJcuVI3BQbtj"
+    },
+    {
+      "album": {
+        "name": "Pink Noise in the Clouds",
+        "url": "https://open.spotify.com/album/51Ih7E1U2BpapVGCRESxb6"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Activity",
+          "url": "https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190793,
+      "name": "Pink Noise in the Clouds",
+      "url": "https://open.spotify.com/track/13CjSx77aqHKD1FwlLTPL3"
+    },
+    {
+      "album": {
+        "name": "Rain On The Cobblestone",
+        "url": "https://open.spotify.com/album/4zi0Wh076joFe9HESotzxP"
+      },
+      "artists": [
+        {
+          "name": "Royal Rain",
+          "url": "https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221978,
+      "name": "Rain On The Cobblestone",
+      "url": "https://open.spotify.com/track/5jCwTeQv8DXJzsMmzv0qYi"
+    },
+    {
+      "album": {
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rocking Waves",
+      "url": "https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa"
+    },
+    {
+      "album": {
+        "name": "Empty Rain",
+        "url": "https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y"
+      },
+      "artists": [
+        {
+          "name": "AEON",
+          "url": "https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Safe Rain",
+      "url": "https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt"
+    },
+    {
+      "album": {
+        "name": "Soaking Rain",
+        "url": "https://open.spotify.com/album/20WguoNvu9y7cUi53GQeic"
+      },
+      "artists": [
+        {
+          "name": "Bona Nochy",
+          "url": "https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Soaking Rain",
+      "url": "https://open.spotify.com/track/0ew24XQhqDFsThoo1YhiEY"
+    },
+    {
+      "album": {
+        "name": "Relaxed Outdoor Recordings",
+        "url": "https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307686,
+      "name": "Soft River Rush",
+      "url": "https://open.spotify.com/track/5XSWssjTG3lDhEmAj5qrc2"
+    },
+    {
+      "album": {
+        "name": "Midnight Rainy-Feels",
+        "url": "https://open.spotify.com/album/6azVRcM9ruSLAQv7mpXBCG"
+      },
+      "artists": [
+        {
+          "name": "Nature Sleepsters",
+          "url": "https://open.spotify.com/artist/1oKEOLD6ZytrrT508w0QvJ"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Soothing Nightrain",
+      "url": "https://open.spotify.com/track/4j1GHholDVcERsOOLFWEEo"
+    },
+    {
+      "album": {
+        "name": "Steady White Noise",
+        "url": "https://open.spotify.com/album/14hlWan4DFAHTypwMU1jwJ"
+      },
+      "artists": [
+        {
+          "name": "Chen Pa",
+          "url": "https://open.spotify.com/artist/6tBqsxZQcS6IjIwzZ3axD9"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 119987,
+      "name": "Steady White Noise",
+      "url": "https://open.spotify.com/track/3KUrzypSgfa0TViYS27VMU"
+    },
+    {
+      "album": {
+        "name": "Tulum Beach Mexico",
+        "url": "https://open.spotify.com/album/0qx8dsZdAmOr9YWYkX0PgF"
+      },
+      "artists": [
+        {
+          "name": "Beaches Of Mexico",
+          "url": "https://open.spotify.com/artist/60ZQhamDSQvaag9ALSY1Zy"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183999,
+      "name": "Tulum Beach Mexico",
+      "url": "https://open.spotify.com/track/3e1XvFj6gAk9EIzyd4c730"
+    },
+    {
+      "album": {
+        "name": "Placid Noise",
+        "url": "https://open.spotify.com/album/2BOzypucqC7iyUbofB6gWn"
+      },
+      "artists": [
+        {
+          "name": "Ambinima",
+          "url": "https://open.spotify.com/artist/1DtkBjA8TFpAlXxOHxCqta"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "White Heaven",
+      "url": "https://open.spotify.com/track/6QC5r7XJPiyn92rOWpLkc6"
+    },
+    {
+      "album": {
+        "name": "Light Noise Samples",
+        "url": "https://open.spotify.com/album/7piAiiAMVL8xJxat85Jjaq"
+      },
+      "artists": [
+        {
+          "name": "Noise Library Samples Bank",
+          "url": "https://open.spotify.com/artist/6CL6g0j2NdZ5DjhL0JHtkc"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128562,
+      "name": "White Noise - 7k +5.0 dB Gain",
+      "url": "https://open.spotify.com/track/0yodukAf2LaYe9ZzX4xtRS"
+    },
+    {
+      "album": {
+        "name": "White Noise Tranquility",
+        "url": "https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7"
+      },
+      "artists": [
+        {
+          "name": "Three Peels",
+          "url": "https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172756,
+      "name": "White Noise Tiefschlaf",
+      "url": "https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW"
+    },
+    {
+      "album": {
+        "name": "Ocean Waves for Sleep Vol. 1",
+        "url": "https://open.spotify.com/album/7oGG72MVLqWWzTRa8lQ4t5"
+      },
+      "artists": [
+        {
+          "name": "Coast to Coast Recordings",
+          "url": "https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172143,
+      "name": "Windy Ocean Waves",
+      "url": "https://open.spotify.com/track/6XEEsaEjxwQx4ulaTO1SnT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6iSJxWbeWLf"
 }

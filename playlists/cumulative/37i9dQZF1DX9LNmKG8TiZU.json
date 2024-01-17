@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "Des titres pop, tout en douceur. Photo : Lana Del Rey",
+  "description": "Des titres pop, tout en douceur. Photo : Zaho de Sagazan",
   "name": "Douceur Pop",
   "tracks": [
     {
@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "TRANSPARENT",
+        "url": "https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193196,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX"
+    },
+    {
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -915,6 +933,24 @@
     },
     {
       "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203856,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV"
+    },
+    {
+      "album": {
         "name": "If That's Alright",
         "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
       },
@@ -930,6 +966,28 @@
       "duration_ms": 235393,
       "name": "If That's Alright",
       "url": "https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5"
+    },
+    {
+      "album": {
+        "name": "If you love me",
+        "url": "https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216306,
+      "name": "If you love me",
+      "url": "https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD"
     },
     {
       "album": {
@@ -1254,10 +1312,28 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 147597,
       "name": "My Mind & Me",
       "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+    },
+    {
+      "album": {
+        "name": "Natalie",
+        "url": "https://open.spotify.com/album/4TuCf4bW5jxNuk47vkXESC"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229203,
+      "name": "Natalie",
+      "url": "https://open.spotify.com/track/3axvKVVUSPSZ45ccjEF7MD"
     },
     {
       "album": {
@@ -1308,7 +1384,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 165746,
       "name": "October Passed Me By",
       "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
@@ -1690,7 +1766,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 213806,
       "name": "Sorority",
       "url": "https://open.spotify.com/track/19CqaxojbrK0QthZtht4nR"
@@ -1784,7 +1860,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"

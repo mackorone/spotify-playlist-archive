@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 268080,
       "name": "Blue Heron",
       "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "El B\u00faho",
+      "url": "https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW"
+    },
+    {
+      "album": {
         "name": "Colder Heavens EP",
         "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
       },
@@ -834,7 +852,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 231706,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 221426,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/6H66K7PGQMdXMlIzqxRl9z"
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 225744,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"
@@ -2338,10 +2356,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 268626,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+    },
+    {
+      "album": {
+        "name": "Nocturne - EP",
+        "url": "https://open.spotify.com/album/5ok909swMjMJcxMivt4JPQ"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/3wSrfFr3uqwz17l1iF5rvc"
     },
     {
       "album": {
@@ -2698,7 +2734,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 133786,
       "name": "Sang About It",
       "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
@@ -2900,7 +2936,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
@@ -4040,7 +4076,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 206015,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW"

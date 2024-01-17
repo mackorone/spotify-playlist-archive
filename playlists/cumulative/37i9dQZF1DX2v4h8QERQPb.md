@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-235 songs - 12 hr 2 min
+236 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Nacimos pa' Ganar](https://open.spotify.com/track/4DdatyVHq3SaBf7R3PPuey) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Nacimos pa' Ganar](https://open.spotify.com/album/6EIHEX7mSbyfvemYyLBJEQ) | 3:09 | 2023-11-24 |  |
 | [Nada Es Para Siempre](https://open.spotify.com/track/2QMBPx3fIO2JYFzIRRSfhI) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Nada Es Para Siempre](https://open.spotify.com/album/289rCJ7vXlZJaKNIDtVBgf) | 3:06 | 2021-11-26 | 2022-07-29 |
 | [Nada Es para Siempre](https://open.spotify.com/track/4C4wrB3c84AZZXLttZnjqd) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:06 | 2022-06-10 |  |
+| [No Cap \- A COLORS SHOW](https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [No Cap \- A COLORS SHOW](https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN) | 2:10 | 2024-01-10 |  |
 | [No Tiene Nombre](https://open.spotify.com/track/0cws4NHHYz3g1xGKEjkdJJ) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con la Bolsa al Hombro](https://open.spotify.com/album/2Z7KnlhpsX8JPzaFdnWBSV) | 3:55 | 2022-04-11 | 2022-08-05 |
 | [No Tiene Nombre](https://open.spotify.com/track/3QtY890q1pVlPqMnXETBok) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con La Bolsa Al Hombro](https://open.spotify.com/album/1sUtG5iAA7L65zvM41bjGi) | 3:55 | 2022-07-29 |  |
 | [Nota De Voz](https://open.spotify.com/track/7fjdmeVSIGoZ6am4tAuKsA) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [Nota De Voz](https://open.spotify.com/album/51R0wIm1SJy3Oo1AdBpjKj) | 2:30 | 2023-05-12 | 2023-08-26 |
@@ -227,7 +228,7 @@
 | [Te Quiero para](https://open.spotify.com/track/69nP6g8hzlfQ5kUka943Fk) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Anita Sibona](https://open.spotify.com/artist/20yH9OjsIndxVscCeBVwAY) | [Rap & Shine](https://open.spotify.com/album/7yzfOTZ1Ig2I7cCI1jxh8G) | 2:48 | 2023-06-09 |  |
 | [Temblor](https://open.spotify.com/track/43wAPWvoJFZk8JPOHilrGM) | [Dozer](https://open.spotify.com/artist/4fTvbZBIfIc3aAKbZhm5ce) | [Temblor](https://open.spotify.com/album/3pANNuWcM0Iv85Wm2C8CA5) | 3:05 | 2022-12-02 | 2023-01-28 |
 | [Tengo Sed](https://open.spotify.com/track/3acTJvD1eCLOBfBG4hAbfe) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Tengo Sed](https://open.spotify.com/album/1qBiq07wvvO6W8fsuoz2UE) | 2:28 | 2022-04-11 | 2023-08-26 |
-| [THROW UP SESSION \#1](https://open.spotify.com/track/4AmkflbQtBjOjNwSt92P1u) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#1](https://open.spotify.com/album/0fpnN5zwByW6DeHbQ2hnY7) | 2:31 | 2021-11-26 |  |
+| [THROW UP SESSION \#1](https://open.spotify.com/track/4AmkflbQtBjOjNwSt92P1u) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#1](https://open.spotify.com/album/0fpnN5zwByW6DeHbQ2hnY7) | 2:31 | 2021-11-26 | 2024-01-11 |
 | [THROW UP SESSION \#3](https://open.spotify.com/track/01UQtSmwS81vFhFIYssL3X) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#3](https://open.spotify.com/album/27owiW0lkPzBp29osg0VWZ) | 3:51 | 2021-11-26 | 2023-06-10 |
 | [Tiki Tiki](https://open.spotify.com/track/3rgB1ONEntmwiQmdgYjTlL) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Dionni6x](https://open.spotify.com/artist/4EGrrCV9oQud0iuTekbUhr) | [Tiki Tiki](https://open.spotify.com/album/4i9DE82wZ7AIbIQ3ZNapgX) | 3:15 | 2021-11-26 | 2022-07-30 |
 | [Tiro de Gracia](https://open.spotify.com/track/01zR0xLjDBmzdg5rADeinp) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Tiro de Gracia](https://open.spotify.com/album/1FeSej0INTejbdQZYJT2am) | 3:27 | 2022-07-29 | 2022-10-28 |

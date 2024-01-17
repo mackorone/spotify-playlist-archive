@@ -1,577 +1,1263 @@
 {
-  "2022-06-02": 317033,
-  "2022-06-03": 317219,
-  "2022-06-04": 317431,
-  "2022-06-05": 317656,
-  "2022-06-06": 317827,
-  "2022-06-07": 317965,
-  "2022-06-08": 318152,
-  "2022-06-09": 318246,
-  "2022-06-10": 318419,
-  "2022-06-11": 318583,
-  "2022-06-12": 318760,
-  "2022-06-13": 318924,
-  "2022-06-14": 319044,
-  "2022-06-15": 319187,
-  "2022-06-16": 319316,
-  "2022-06-17": 319468,
-  "2022-06-18": 319663,
-  "2022-06-19": 320074,
-  "2022-06-20": 320074,
-  "2022-06-21": 320215,
-  "2022-06-22": 320487,
-  "2022-06-23": 320487,
-  "2022-06-24": 320631,
-  "2022-06-25": 320807,
-  "2022-06-26": 321008,
-  "2022-06-27": 321162,
-  "2022-06-28": 321278,
-  "2022-06-29": 321383,
-  "2022-06-30": 321502,
-  "2022-07-01": 321670,
-  "2022-07-02": 321855,
-  "2022-07-03": 322033,
-  "2022-07-04": 322171,
-  "2022-07-05": 322171,
-  "2022-07-06": 322171,
-  "2022-07-07": 322510,
-  "2022-07-08": 322641,
-  "2022-07-09": 322790,
-  "2022-07-10": 322956,
-  "2022-07-11": 323088,
-  "2022-07-12": 323179,
-  "2022-07-13": 323274,
-  "2022-07-14": 323369,
-  "2022-07-15": 323496,
-  "2022-07-16": 323667,
-  "2022-07-17": 323841,
-  "2022-07-18": 324078,
-  "2022-07-19": 324199,
-  "2022-07-20": 324354,
-  "2022-07-21": 324466,
-  "2022-07-22": 324618,
-  "2022-07-23": 324760,
-  "2022-07-24": 324909,
-  "2022-07-25": 325051,
-  "2022-07-26": 325168,
-  "2022-07-27": 325285,
-  "2022-07-28": 325390,
-  "2022-07-29": 325544,
-  "2022-07-30": 325857,
-  "2022-07-31": 325857,
-  "2022-08-01": 326007,
-  "2022-08-02": 326231,
-  "2022-08-03": 326231,
-  "2022-08-04": 326340,
-  "2022-08-05": 326499,
-  "2022-08-06": 326658,
-  "2022-08-07": 326849,
-  "2022-08-08": 327011,
-  "2022-08-09": 327123,
-  "2022-08-10": 327243,
-  "2022-08-11": 327344,
-  "2022-08-12": 327465,
-  "2022-08-13": 327586,
-  "2022-08-14": 327736,
-  "2022-08-15": 327848,
-  "2022-08-16": 327931,
-  "2022-08-17": 328032,
-  "2022-08-18": 328161,
-  "2022-08-19": 328269,
-  "2022-08-20": 328404,
-  "2022-08-21": 328547,
-  "2022-08-22": 328677,
-  "2022-08-23": 328775,
-  "2022-08-24": 328892,
-  "2022-08-25": 329034,
-  "2022-08-26": 329166,
-  "2022-08-27": 329292,
-  "2022-08-28": 329443,
-  "2022-08-29": 329586,
-  "2022-08-30": 329711,
-  "2022-08-31": 329828,
-  "2022-09-01": 329956,
-  "2022-09-02": 330106,
-  "2022-09-03": 330258,
-  "2022-09-04": 330442,
-  "2022-09-05": 330577,
-  "2022-09-06": 330664,
-  "2022-09-07": 330784,
-  "2022-09-09": 331016,
-  "2022-09-10": 331165,
-  "2022-09-11": 331323,
-  "2022-09-12": 331446,
-  "2022-09-13": 331554,
-  "2022-09-15": 331722,
-  "2022-09-16": 331857,
-  "2022-09-17": 332020,
-  "2022-09-18": 332149,
-  "2022-09-19": 332275,
-  "2022-09-20": 332353,
-  "2022-09-21": 332477,
-  "2022-09-22": 332567,
-  "2022-09-23": 332723,
-  "2022-09-24": 332723,
-  "2022-09-25": 333112,
-  "2022-09-26": 333318,
-  "2022-09-27": 333484,
-  "2022-09-28": 333618,
-  "2022-09-29": 333757,
-  "2022-09-30": 333907,
-  "2022-10-01": 334065,
-  "2022-10-02": 334222,
-  "2022-10-03": 334348,
-  "2022-10-04": 334466,
-  "2022-10-05": 334605,
-  "2022-10-06": 334724,
-  "2022-10-07": 334837,
-  "2022-10-08": 334974,
-  "2022-10-09": 335261,
-  "2022-10-10": 335293,
-  "2022-10-11": 335378,
-  "2022-10-12": 335500,
-  "2022-10-13": 335614,
-  "2022-10-14": 335769,
-  "2022-10-15": 335929,
-  "2022-10-16": 336096,
-  "2022-10-17": 336241,
-  "2022-10-18": 336319,
-  "2022-10-19": 336449,
-  "2022-10-20": 336522,
-  "2022-10-21": 336620,
-  "2022-10-22": 336736,
-  "2022-10-23": 336875,
-  "2022-10-24": 337005,
-  "2022-10-25": 337095,
-  "2022-10-26": 337216,
-  "2022-10-27": 337365,
-  "2022-10-28": 337507,
-  "2022-10-29": 337657,
-  "2022-10-30": 337828,
-  "2022-10-31": 337976,
-  "2022-11-01": 338096,
-  "2022-11-02": 338237,
-  "2022-11-03": 338376,
-  "2022-11-04": 338503,
-  "2022-11-05": 338618,
-  "2022-11-06": 338794,
-  "2022-11-07": 338938,
-  "2022-11-08": 339037,
-  "2022-11-09": 339147,
-  "2022-11-10": 339255,
-  "2022-11-11": 339413,
-  "2022-11-12": 339598,
-  "2022-11-13": 339757,
-  "2022-11-14": 339921,
-  "2022-11-15": 340025,
-  "2022-11-16": 340110,
-  "2022-11-17": 340209,
-  "2022-11-18": 340246,
-  "2022-11-19": 340264,
-  "2022-11-20": 340397,
-  "2022-11-21": 340562,
-  "2022-11-22": 340702,
-  "2022-11-23": 340820,
-  "2022-11-24": 340869,
-  "2022-11-25": 341273,
-  "2022-11-26": 341629,
-  "2022-11-27": 341873,
-  "2022-11-28": 342079,
-  "2022-11-29": 342228,
-  "2022-11-30": 342381,
-  "2022-12-01": 342549,
-  "2022-12-02": 342613,
-  "2022-12-03": 342832,
-  "2022-12-04": 343024,
-  "2022-12-05": 343181,
-  "2022-12-06": 343319,
-  "2022-12-07": 343452,
-  "2022-12-08": 343618,
-  "2022-12-09": 343819,
-  "2022-12-10": 344042,
-  "2022-12-11": 344266,
-  "2022-12-12": 344473,
-  "2022-12-13": 344637,
-  "2022-12-14": 344808,
-  "2022-12-15": 344990,
-  "2022-12-16": 345206,
-  "2022-12-17": 345433,
-  "2022-12-18": 345679,
-  "2022-12-19": 345853,
-  "2022-12-20": 346197,
-  "2022-12-21": 346197,
-  "2022-12-22": 346374,
-  "2022-12-24": 346811,
-  "2022-12-25": 347124,
-  "2022-12-26": 347443,
-  "2022-12-27": 347571,
-  "2022-12-28": 347752,
-  "2022-12-29": 347916,
-  "2022-12-30": 348093,
-  "2022-12-31": 348322,
-  "2023-01-01": 348662,
-  "2023-01-02": 348961,
-  "2023-01-03": 349103,
-  "2023-01-04": 349225,
-  "2023-01-05": 349365,
-  "2023-01-06": 349538,
-  "2023-01-07": 349783,
-  "2023-01-08": 349829,
-  "2023-01-09": 350053,
-  "2023-01-10": 350184,
-  "2023-01-11": 350323,
-  "2023-01-12": 350493,
-  "2023-01-13": 350705,
-  "2023-01-14": 351073,
-  "2023-01-15": 351103,
-  "2023-01-16": 351281,
-  "2023-01-17": 351420,
-  "2023-01-18": 351554,
-  "2023-01-19": 351701,
-  "2023-01-20": 351851,
-  "2023-01-21": 351996,
-  "2023-01-22": 352152,
-  "2023-01-23": 352337,
-  "2023-01-24": 352439,
-  "2023-01-25": 352550,
-  "2023-01-26": 352680,
-  "2023-01-27": 352796,
-  "2023-01-28": 352927,
-  "2023-01-29": 353104,
-  "2023-01-30": 353243,
-  "2023-01-31": 353243,
-  "2023-02-01": 353498,
-  "2023-02-02": 353663,
-  "2023-02-03": 353792,
-  "2023-02-04": 353938,
-  "2023-02-05": 354138,
-  "2023-02-06": 354274,
-  "2023-02-07": 354377,
-  "2023-02-08": 354604,
-  "2023-02-09": 354604,
-  "2023-02-10": 354729,
-  "2023-02-11": 354866,
-  "2023-02-12": 355145,
-  "2023-02-13": 355224,
-  "2023-02-14": 355224,
-  "2023-02-15": 355433,
-  "2023-02-16": 355605,
-  "2023-02-17": 355734,
-  "2023-02-18": 356075,
-  "2023-02-19": 356127,
-  "2023-02-20": 356246,
-  "2023-02-21": 356373,
-  "2023-02-22": 356488,
-  "2023-02-23": 356598,
-  "2023-02-24": 356738,
-  "2023-02-25": 356941,
-  "2023-02-26": 357083,
-  "2023-02-27": 357344,
-  "2023-02-28": 357344,
-  "2023-03-01": 357463,
-  "2023-03-02": 357606,
-  "2023-03-03": 357781,
-  "2023-03-04": 357955,
-  "2023-03-05": 358302,
-  "2023-03-06": 358302,
-  "2023-03-07": 358427,
-  "2023-03-08": 358550,
-  "2023-03-09": 358692,
-  "2023-03-10": 358835,
-  "2023-03-11": 358991,
-  "2023-03-12": 359160,
-  "2023-03-13": 359309,
-  "2023-03-14": 359419,
-  "2023-03-15": 359526,
-  "2023-03-16": 359526,
-  "2023-03-17": 359526,
-  "2023-03-18": 359945,
-  "2023-03-19": 359945,
-  "2023-03-20": 360263,
-  "2023-03-21": 360388,
-  "2023-03-22": 360471,
-  "2023-03-23": 360574,
-  "2023-03-24": 360574,
-  "2023-03-25": 360843,
-  "2023-03-26": 361018,
-  "2023-03-27": 361163,
-  "2023-03-28": 361291,
-  "2023-03-29": 361481,
-  "2023-03-30": 361728,
-  "2023-03-31": 361728,
-  "2023-04-01": 362049,
-  "2023-04-02": 362367,
-  "2023-04-03": 362583,
-  "2023-04-04": 362788,
-  "2023-04-05": 363003,
-  "2023-04-06": 363254,
-  "2023-04-07": 363593,
-  "2023-04-09": 364067,
-  "2023-04-10": 364240,
-  "2023-04-11": 364568,
-  "2023-04-12": 364568,
-  "2023-04-13": 364759,
-  "2023-04-14": 364975,
-  "2023-04-15": 365203,
-  "2023-04-16": 365461,
-  "2023-04-17": 365651,
-  "2023-04-18": 365842,
-  "2023-04-19": 366034,
-  "2023-04-20": 366217,
-  "2023-04-21": 366449,
-  "2023-04-22": 366665,
-  "2023-04-23": 366909,
-  "2023-04-24": 367106,
-  "2023-04-25": 367306,
-  "2023-04-26": 367481,
-  "2023-04-27": 367703,
-  "2023-04-28": 367933,
-  "2023-04-29": 368152,
-  "2023-04-30": 368367,
-  "2023-05-01": 368575,
-  "2023-05-02": 368772,
-  "2023-05-03": 368955,
-  "2023-05-04": 369116,
-  "2023-05-05": 369296,
-  "2023-05-06": 369579,
-  "2023-05-07": 369849,
-  "2023-05-08": 370114,
-  "2023-05-09": 370293,
-  "2023-05-10": 370539,
-  "2023-05-11": 370791,
-  "2023-05-12": 370994,
-  "2023-05-13": 371246,
-  "2023-05-14": 371511,
-  "2023-05-15": 371746,
-  "2023-05-16": 371952,
-  "2023-05-17": 372112,
-  "2023-05-18": 372280,
-  "2023-05-19": 372463,
-  "2023-05-20": 372896,
-  "2023-05-21": 372896,
-  "2023-05-22": 372896,
-  "2023-05-23": 373234,
-  "2023-05-24": 373523,
-  "2023-05-25": 373571,
-  "2023-05-26": 373741,
-  "2023-05-27": 373943,
-  "2023-05-28": 374173,
-  "2023-05-29": 374173,
-  "2023-05-30": 374485,
-  "2023-05-31": 374645,
-  "2023-06-01": 374786,
-  "2023-06-02": 374933,
-  "2023-06-03": 375126,
-  "2023-06-04": 375355,
-  "2023-06-05": 375540,
-  "2023-06-06": 375669,
-  "2023-06-07": 375849,
-  "2023-06-08": 376010,
-  "2023-06-09": 376204,
-  "2023-06-10": 376451,
-  "2023-06-11": 376713,
-  "2023-06-12": 376881,
-  "2023-06-13": 377029,
-  "2023-06-14": 377188,
-  "2023-06-15": 377359,
-  "2023-06-16": 377534,
-  "2023-06-17": 377764,
-  "2023-06-18": 378011,
-  "2023-06-19": 378207,
-  "2023-06-20": 378347,
-  "2023-06-21": 378491,
-  "2023-06-22": 378651,
-  "2023-06-23": 378828,
-  "2023-06-24": 379063,
-  "2023-06-25": 379279,
-  "2023-06-26": 379500,
-  "2023-06-27": 379642,
-  "2023-06-28": 379816,
-  "2023-06-29": 379982,
-  "2023-06-30": 380136,
-  "2023-07-01": 380536,
-  "2023-07-02": 380536,
-  "2023-07-03": 380726,
-  "2023-07-04": 380881,
-  "2023-07-05": 381037,
-  "2023-07-06": 381399,
-  "2023-07-07": 381399,
-  "2023-07-08": 381399,
-  "2023-07-09": 381797,
-  "2023-07-10": 381996,
-  "2023-07-11": 382153,
-  "2023-07-12": 382296,
-  "2023-07-13": 382486,
-  "2023-07-14": 382650,
-  "2023-07-15": 382788,
-  "2023-07-16": 383039,
-  "2023-07-17": 383217,
-  "2023-07-18": 383364,
-  "2023-07-19": 383572,
-  "2023-07-20": 383747,
-  "2023-07-21": 383935,
-  "2023-07-22": 384148,
-  "2023-07-23": 384394,
-  "2023-07-24": 384577,
-  "2023-07-25": 384724,
-  "2023-07-26": 384873,
-  "2023-07-27": 385047,
-  "2023-07-28": 385216,
-  "2023-07-29": 385420,
-  "2023-07-30": 385653,
-  "2023-07-31": 385824,
-  "2023-08-01": 385986,
-  "2023-08-02": 386159,
-  "2023-08-03": 386328,
-  "2023-08-04": 386484,
-  "2023-08-05": 386655,
-  "2023-08-06": 387101,
-  "2023-08-07": 387101,
-  "2023-08-08": 387230,
-  "2023-08-09": 387374,
-  "2023-08-10": 387545,
-  "2023-08-11": 387751,
-  "2023-08-12": 387751,
-  "2023-08-13": 387751,
-  "2023-08-14": 388381,
-  "2023-08-15": 388381,
-  "2023-08-16": 388381,
-  "2023-08-17": 388381,
-  "2023-08-18": 388381,
-  "2023-08-19": 388381,
-  "2023-08-20": 389563,
-  "2023-08-21": 389563,
-  "2023-08-22": 389925,
-  "2023-08-23": 389925,
-  "2023-08-24": 389925,
-  "2023-08-25": 389925,
-  "2023-08-26": 390693,
-  "2023-08-27": 390693,
-  "2023-08-28": 391129,
-  "2023-08-29": 391129,
-  "2023-08-30": 391129,
-  "2023-08-31": 391549,
-  "2023-09-01": 391682,
-  "2023-09-02": 391682,
-  "2023-09-03": 392055,
-  "2023-09-04": 392055,
-  "2023-09-05": 392055,
-  "2023-09-06": 392500,
-  "2023-09-07": 392500,
-  "2023-09-08": 392500,
-  "2023-09-09": 392500,
-  "2023-09-10": 393143,
-  "2023-09-11": 393143,
-  "2023-09-12": 393143,
-  "2023-09-13": 393615,
-  "2023-09-14": 393615,
-  "2023-09-15": 393615,
-  "2023-09-16": 394287,
-  "2023-09-17": 394287,
-  "2023-09-18": 394287,
-  "2023-09-19": 394847,
-  "2023-09-20": 394847,
-  "2023-09-21": 394847,
-  "2023-09-22": 395152,
-  "2023-09-23": 395152,
-  "2023-09-24": 395152,
-  "2023-09-25": 395152,
-  "2023-09-26": 395776,
-  "2023-09-27": 395776,
-  "2023-09-28": 395776,
-  "2023-09-29": 395776,
-  "2023-09-30": 395776,
-  "2023-10-01": 395776,
-  "2023-10-02": 395776,
-  "2023-10-03": 395776,
-  "2023-10-04": 395776,
-  "2023-10-05": 396907,
-  "2023-10-06": 396907,
-  "2023-10-07": 396907,
-  "2023-10-08": 396907,
-  "2023-10-09": 396907,
-  "2023-10-10": 396907,
-  "2023-10-11": 397626,
-  "2023-10-12": 397626,
-  "2023-10-13": 397626,
-  "2023-10-14": 397626,
-  "2023-10-15": 397626,
-  "2023-10-16": 397626,
-  "2023-10-17": 397626,
-  "2023-10-18": 397626,
-  "2023-10-19": 397626,
-  "2023-10-20": 397626,
-  "2023-10-21": 397626,
-  "2023-10-22": 397626,
-  "2023-10-23": 397626,
-  "2023-10-24": 397626,
-  "2023-10-25": 397626,
-  "2023-10-26": 397626,
-  "2023-10-27": 397626,
-  "2023-10-28": 397626,
-  "2023-10-29": 397626,
-  "2023-10-30": 397626,
-  "2023-10-31": 397626,
-  "2023-11-01": 397626,
-  "2023-11-02": 397626,
-  "2023-11-03": 397626,
-  "2023-11-04": 397626,
-  "2023-11-05": 397626,
-  "2023-11-06": 397626,
-  "2023-11-07": 397626,
-  "2023-11-08": 397626,
-  "2023-11-09": 397626,
-  "2023-11-10": 397626,
-  "2023-11-11": 402824,
-  "2023-11-12": 402824,
-  "2023-11-13": 402824,
-  "2023-11-14": 402824,
-  "2023-11-15": 402824,
-  "2023-11-16": 402824,
-  "2023-11-17": 402824,
-  "2023-11-18": 402824,
-  "2023-11-19": 402824,
-  "2023-11-20": 402824,
-  "2023-11-21": 402824,
-  "2023-11-22": 402824,
-  "2023-11-23": 402824,
-  "2023-11-24": 402824,
-  "2023-11-25": 402824,
-  "2023-11-26": 402824,
-  "2023-11-27": 402824,
-  "2023-11-28": 402824,
-  "2023-11-29": 402824,
-  "2023-11-30": 402824,
-  "2023-12-01": 402824,
-  "2023-12-02": 402824,
-  "2023-12-03": 402824,
-  "2023-12-04": 402824,
-  "2023-12-05": 402824,
-  "2023-12-06": 402824,
-  "2023-12-07": 402824,
-  "2023-12-08": 402824,
-  "2023-12-09": 402824,
-  "2023-12-10": 402824,
-  "2023-12-11": 402824,
-  "2023-12-12": 402824,
-  "2023-12-13": 402824,
-  "2023-12-14": 407707,
-  "2023-12-15": 407777,
-  "2023-12-16": 407888,
-  "2023-12-17": 407998,
-  "2023-12-18": 408109,
-  "2023-12-19": 408173,
-  "2023-12-20": 408244,
-  "2023-12-21": 408352,
-  "2023-12-22": 408457,
-  "2023-12-23": 408576,
-  "2023-12-24": 408688,
-  "2023-12-25": 408831,
-  "2023-12-26": 409009,
-  "2023-12-27": 409099,
-  "2023-12-30": 409416,
-  "2023-12-31": 409543,
-  "2024-01-01": 409712,
-  "2024-01-02": 409902,
-  "2024-01-03": 409964
+  "2024-01-17": 410271,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
+  "name": "This Is Valent\u00edn Elizalde",
+  "tracks": [
+    {
+      "album": {
+        "name": "La Historia De Los Exitos",
+        "url": "https://open.spotify.com/album/5oDuUiZkrmZeBgdyVcgFL6"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "118 Balazos",
+      "url": "https://open.spotify.com/track/1x7w8NuVvmSP4r65576eUZ"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "A Mis Enemigos",
+      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
+    },
+    {
+      "album": {
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235520,
+      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/2YBcpGHHvg9vfCosDvTeal"
+    },
+    {
+      "album": {
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161933,
+      "name": "Amor Prisionero - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/5XhsSUVmOHvPIrGn7safdH"
+    },
+    {
+      "album": {
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Amor Que Muere - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Musical",
+        "url": "https://open.spotify.com/album/3RlQl1k33Vm0kynw47fTjX"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 178960,
+      "name": "As\u00ed Que Te Vas",
+      "url": "https://open.spotify.com/track/2ztgz4z6ZTBY7kOvEkZ87j"
+    },
+    {
+      "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "As\u00ed Que Te Vas",
+      "url": "https://open.spotify.com/track/50ipI7duYwyQYw79guJRP8"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Que Te Vas",
+        "url": "https://open.spotify.com/album/2oGmmDoPposslbmIBYljwH"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 183226,
+      "name": "As\u00ed Que Te Vas",
+      "url": "https://open.spotify.com/track/60t2rZ1IpgzX2UQ8MLHWTX"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234453,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Villa Juarez Sonora",
+        "url": "https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-28",
+      "duration_ms": 210946,
+      "name": "Catarino Y Los Rurales",
+      "url": "https://open.spotify.com/track/1YLIdBkPxQwklrVk9RlzJP"
+    },
+    {
+      "album": {
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403493,
+      "name": "Clave Privada - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/03UlkuvBTpbvaSbAaJUriF"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Villa Juarez Sonora",
+        "url": "https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 140080,
+      "name": "Corazon De Oro",
+      "url": "https://open.spotify.com/track/4mGuAAAyVlYdgORnfrTQpQ"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "C\u00f3mo Me Duele",
+      "url": "https://open.spotify.com/track/38jXCpkXh5h6rfrTmNNADe"
+    },
+    {
+      "album": {
+        "name": "El Vale Por Siempre (Vol. 2)",
+        "url": "https://open.spotify.com/album/2LxvdlrXMhZw0HYoxxv99p"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 221840,
+      "name": "C\u00f3mo Me Duele",
+      "url": "https://open.spotify.com/track/4L6J4hgUDVH1ocO0QCE8o2"
+    },
+    {
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165533,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5"
+    },
+    {
+      "album": {
+        "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "El Hijo Del Pueblo",
+      "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
+    },
+    {
+      "album": {
+        "name": "Exitos De Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "El Huizache",
+      "url": "https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz"
+    },
+    {
+      "album": {
+        "name": "El M Grande",
+        "url": "https://open.spotify.com/album/3mtVCsqcqQ9N56rIeLbO5y"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "El M Grande",
+      "url": "https://open.spotify.com/track/4DMuDJisndgBlDGsvx5yG8"
+    },
+    {
+      "album": {
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239120,
+      "name": "El Pavido Navido - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Villa Juarez Sonora",
+        "url": "https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/64s6BmkogWiJCeFyzSveiM"
+    },
+    {
+      "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "El Toro Moro",
+      "url": "https://open.spotify.com/track/6IUAQvGdHpqx6WYl3As5Rh"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Homenaje A Una Vida",
+        "url": "https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 230866,
+      "name": "El Venadito",
+      "url": "https://open.spotify.com/track/1LgRHcKeJz6ATJ8SPxWF85"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232986,
+      "name": "El Venadito",
+      "url": "https://open.spotify.com/track/47YN8mvkYqRspTkh6hA7Ow"
+    },
+    {
+      "album": {
+        "name": "En Busca Del Amor",
+        "url": "https://open.spotify.com/album/6OyuwCArxeXhjquo17WHhH"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 163626,
+      "name": "En Busca Del Amor",
+      "url": "https://open.spotify.com/track/71j7pKCwVoXQX2U2addBn8"
+    },
+    {
+      "album": {
+        "name": "Ebrio de Amor",
+        "url": "https://open.spotify.com/album/7zaRBfzLrYisxc5092BkLj"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149465,
+      "name": "Esta Cobardia",
+      "url": "https://open.spotify.com/track/17TL9yOtBcUaq4dwq4WBa8"
+    },
+    {
+      "album": {
+        "name": "Flor de Capomo",
+        "url": "https://open.spotify.com/album/0TBSLDwB9LUUUwKLdWdHjf"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155432,
+      "name": "Flor de Capomo",
+      "url": "https://open.spotify.com/track/4tjXsHj3H4RYPd0vGHmACg"
+    },
+    {
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207933,
+      "name": "Hola Y Adios",
+      "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
+    },
+    {
+      "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173106,
+      "name": "La Gallina Ponedora",
+      "url": "https://open.spotify.com/track/7sWpr279lr6tDK5w0js3pC"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "La M\u00e1s Deseada",
+      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
+    },
+    {
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/29YDKQOWNWncNxE75t1EY3"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 202320,
+      "name": "La Papa",
+      "url": "https://open.spotify.com/track/3CnlFw80D6rDYqgQ6ODsAs"
+    },
+    {
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
+    },
+    {
+      "album": {
+        "name": "17 Exitos en Honor a Mi Padre",
+        "url": "https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "La Suavecita",
+      "url": "https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g"
+    },
+    {
+      "album": {
+        "name": "La Mejor Colecci\u00f3n De Corridos",
+        "url": "https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157280,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO"
+    },
+    {
+      "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 156573,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u"
+    },
+    {
+      "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159866,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/1cp26SwLH6r7mPFvT4KmDP"
+    },
+    {
+      "album": {
+        "name": "Se Les Pelo Baltazar",
+        "url": "https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238240,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v"
+    },
+    {
+      "album": {
+        "name": "Sin Censura Su \u00daltimo Concierto (En Vivo Desde Los Angeles CA, 2006)",
+        "url": "https://open.spotify.com/album/65hKWFUh570PVFBopSgfaa"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 550360,
+      "name": "La Yaquesita Popurr\u00ed - En Vivo Desde Los Angeles, CA / 2006",
+      "url": "https://open.spotify.com/track/0odqSYHLOpCGzRKFrLpJvL"
+    },
+    {
+      "album": {
+        "name": "Lobo Domesticado",
+        "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/21dO2n3oshsn3FkbB6Y5Mm"
+    },
+    {
+      "album": {
+        "name": "Sin Censura Su \u00daltimo Concierto (En Vivo Desde Los Angeles CA, 2006 / Componente 2)",
+        "url": "https://open.spotify.com/album/509Khys7Q3ZDhPuGaDL11p"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176266,
+      "name": "Los \"Pajaros\" - Bonus Track",
+      "url": "https://open.spotify.com/track/6M517vjML2dFAE41OfF1JA"
+    },
+    {
+      "album": {
+        "name": "Y Se Parece A T\u00ed",
+        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211906,
+      "name": "Mi Amante",
+      "url": "https://open.spotify.com/track/5bX4DfCjAI8ORKWLX2iiOJ"
+    },
+    {
+      "album": {
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184306,
+      "name": "Mi Gusto Es - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz"
+    },
+    {
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145853,
+      "name": "Mi Virgencita",
+      "url": "https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui"
+    },
+    {
+      "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223480,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/6HYzSzoRXH844SQbLYfNOS"
+    },
+    {
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 169600,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4"
+    },
+    {
+      "album": {
+        "name": "Pa' Que Son Pasiones",
+        "url": "https://open.spotify.com/album/3PBwBac0AfDItVJ7qe4l9U"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 192893,
+      "name": "Pa' Que Son Pasiones",
+      "url": "https://open.spotify.com/track/3efT4wg1RQG0nkKrN2zegl"
+    },
+    {
+      "album": {
+        "name": "Pa' Qu\u00e9 Son Pasiones",
+        "url": "https://open.spotify.com/album/3ghUPKQkDQ0ZjNTePotJDj"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 170000,
+      "name": "Pa' Qu\u00e9 Son Pasiones",
+      "url": "https://open.spotify.com/track/1g8OBHnpZeQI1yoyJrjWQ2"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "Para Que Olvidar",
+      "url": "https://open.spotify.com/track/3hxkmCgl3XdDfWkyRfjkWh"
+    },
+    {
+      "album": {
+        "name": "Lobo Domesticado",
+        "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206386,
+      "name": "Porque Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152306,
+      "name": "Que Vivan Las Mujeres",
+      "url": "https://open.spotify.com/track/42Ja72gm1M9ddPKoIVotVI"
+    },
+    {
+      "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Quiero Charlar Con La Muerte",
+      "url": "https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s All\u00e1 Del Mar",
+        "url": "https://open.spotify.com/album/4oQk3BkMOumiLgc226fQsH"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-14",
+      "duration_ms": 195466,
+      "name": "Rey Pobre",
+      "url": "https://open.spotify.com/track/0E3TI2k9fNZrDb4g73vccP"
+    },
+    {
+      "album": {
+        "name": "Corridos Entre Amigos",
+        "url": "https://open.spotify.com/album/5agaJQWKkXpk8wESkYJPeo"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153586,
+      "name": "Rodolfo Campa Roldan",
+      "url": "https://open.spotify.com/track/1zjAw8ZDES8FdCriHShU6s"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144613,
+      "name": "Se\u00f1ora Equivocada",
+      "url": "https://open.spotify.com/track/5R90gu1goaOnbasX1zPWxi"
+    },
+    {
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231293,
+      "name": "Sobre La Tumba De Mi Padre",
+      "url": "https://open.spotify.com/track/6jVcf6qobg1VLoYah4jomr"
+    },
+    {
+      "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215373,
+      "name": "Soy As\u00ed",
+      "url": "https://open.spotify.com/track/5O4eVNx9CpTxGLoyLmqn7P"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Una Vida Vol 1",
+        "url": "https://open.spotify.com/album/4c2ZYYDwVqpfShY6IJGoFi"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/3v8d12Ogo5N2ucwReogiSq"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Homenaje A Una Vida",
+        "url": "https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 171386,
+      "name": "Tibur\u00f3n A La Vista",
+      "url": "https://open.spotify.com/track/7CUz1DOUHIWyhEacFwp7gO"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183826,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/6tcCTb903f89qDO3ylbhEN"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186960,
+      "name": "Vete Con \u00c9l",
+      "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 158826,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N"
+    },
+    {
+      "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231160,
+      "name": "Volvere A Amar",
+      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
+    },
+    {
+      "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156120,
+      "name": "Vuelve Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2WwkIeLHly6VJuOb1ihhzG"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 124680,
+      "name": "Y No Me Lo Das",
+      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
+    },
+    {
+      "album": {
+        "name": "Y Se Parece A T\u00ed",
+        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142373,
+      "name": "Y Se Parece A Ti",
+      "url": "https://open.spotify.com/track/0XRCG6jacQjl0EkLJheIR8"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137053,
+      "name": "Ya Viene Amaneciendo",
+      "url": "https://open.spotify.com/track/5AVJgFRGY7zv55T2XcuJcH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26EKuA"
 }

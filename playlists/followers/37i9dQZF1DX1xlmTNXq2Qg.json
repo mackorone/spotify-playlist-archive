@@ -1,734 +1,1397 @@
 {
-  "2021-12-25": 779724,
-  "2021-12-26": 779849,
-  "2021-12-27": 780104,
-  "2021-12-28": 780106,
-  "2021-12-29": 780266,
-  "2021-12-30": 780464,
-  "2021-12-31": 780597,
-  "2022-01-01": 780803,
-  "2022-01-02": 780878,
-  "2022-01-03": 780973,
-  "2022-01-04": 781100,
-  "2022-01-05": 781214,
-  "2022-01-06": 781351,
-  "2022-01-07": 781475,
-  "2022-01-08": 781745,
-  "2022-01-09": 781741,
-  "2022-01-10": 781899,
-  "2022-01-11": 782041,
-  "2022-01-12": 782135,
-  "2022-01-13": 782263,
-  "2022-01-14": 782425,
-  "2022-01-15": 782750,
-  "2022-01-16": 782755,
-  "2022-01-17": 783125,
-  "2022-01-18": 783147,
-  "2022-01-19": 783267,
-  "2022-01-20": 783430,
-  "2022-01-21": 783595,
-  "2022-01-22": 783759,
-  "2022-01-23": 783894,
-  "2022-01-24": 784068,
-  "2022-01-25": 784204,
-  "2022-01-26": 784384,
-  "2022-01-27": 784581,
-  "2022-01-28": 784771,
-  "2022-01-29": 784941,
-  "2022-01-30": 785087,
-  "2022-01-31": 785217,
-  "2022-02-01": 785347,
-  "2022-02-02": 785478,
-  "2022-02-03": 785642,
-  "2022-02-04": 785792,
-  "2022-02-05": 785933,
-  "2022-02-06": 786067,
-  "2022-02-07": 786206,
-  "2022-02-08": 786313,
-  "2022-02-09": 786441,
-  "2022-02-10": 786578,
-  "2022-02-11": 786751,
-  "2022-02-12": 786897,
-  "2022-02-13": 787025,
-  "2022-02-14": 787162,
-  "2022-02-15": 787301,
-  "2022-02-16": 787418,
-  "2022-02-17": 787618,
-  "2022-02-18": 787754,
-  "2022-02-19": 787863,
-  "2022-02-20": 788048,
-  "2022-02-21": 788209,
-  "2022-02-22": 788376,
-  "2022-02-23": 788523,
-  "2022-02-24": 788678,
-  "2022-02-25": 788803,
-  "2022-02-26": 788913,
-  "2022-02-27": 789135,
-  "2022-02-28": 789135,
-  "2022-03-01": 789244,
-  "2022-03-02": 789362,
-  "2022-03-03": 789487,
-  "2022-03-04": 789615,
-  "2022-03-05": 789731,
-  "2022-03-06": 789847,
-  "2022-03-07": 790006,
-  "2022-03-08": 790152,
-  "2022-03-09": 790317,
-  "2022-03-10": 790510,
-  "2022-03-11": 790711,
-  "2022-03-12": 790925,
-  "2022-03-13": 791115,
-  "2022-03-14": 791276,
-  "2022-03-15": 791443,
-  "2022-03-16": 791616,
-  "2022-03-17": 791748,
-  "2022-03-18": 791973,
-  "2022-03-19": 792080,
-  "2022-03-20": 792080,
-  "2022-03-21": 792406,
-  "2022-03-22": 792547,
-  "2022-03-23": 792716,
-  "2022-03-24": 792875,
-  "2022-03-25": 793027,
-  "2022-03-26": 793165,
-  "2022-03-27": 793302,
-  "2022-03-28": 793434,
-  "2022-03-30": 793694,
-  "2022-03-31": 793855,
-  "2022-04-01": 794049,
-  "2022-04-02": 794239,
-  "2022-04-03": 794374,
-  "2022-04-04": 794488,
-  "2022-04-05": 794643,
-  "2022-04-06": 794803,
-  "2022-04-07": 794962,
-  "2022-04-08": 795151,
-  "2022-04-09": 795389,
-  "2022-04-10": 795832,
-  "2022-04-11": 796290,
-  "2022-04-12": 796358,
-  "2022-04-13": 796680,
-  "2022-04-14": 797031,
-  "2022-04-15": 797353,
-  "2022-04-16": 797640,
-  "2022-04-17": 797915,
-  "2022-04-18": 798224,
-  "2022-04-19": 798412,
-  "2022-04-20": 798673,
-  "2022-04-21": 798925,
-  "2022-04-22": 799144,
-  "2022-04-23": 799319,
-  "2022-04-24": 799544,
-  "2022-04-25": 799762,
-  "2022-04-26": 799902,
-  "2022-04-27": 800140,
-  "2022-04-28": 800318,
-  "2022-04-29": 800698,
-  "2022-04-30": 800928,
-  "2022-05-01": 801175,
-  "2022-05-02": 801175,
-  "2022-05-03": 801380,
-  "2022-05-04": 801591,
-  "2022-05-05": 801829,
-  "2022-05-06": 802053,
-  "2022-05-07": 802324,
-  "2022-05-08": 802556,
-  "2022-05-09": 802586,
-  "2022-05-10": 802753,
-  "2022-05-11": 802948,
-  "2022-05-12": 803101,
-  "2022-05-13": 803254,
-  "2022-05-14": 803458,
-  "2022-05-15": 803688,
-  "2022-05-16": 803865,
-  "2022-05-17": 804000,
-  "2022-05-18": 804175,
-  "2022-05-19": 804327,
-  "2022-05-20": 804535,
-  "2022-05-21": 804873,
-  "2022-05-22": 804873,
-  "2022-05-23": 805042,
-  "2022-05-24": 805185,
-  "2022-05-25": 805356,
-  "2022-05-26": 805977,
-  "2022-05-27": 806519,
-  "2022-05-28": 807007,
-  "2022-05-29": 807454,
-  "2022-05-30": 807811,
-  "2022-05-31": 808101,
-  "2022-06-01": 808579,
-  "2022-06-02": 808623,
-  "2022-06-03": 808860,
-  "2022-06-04": 809073,
-  "2022-06-05": 809235,
-  "2022-06-06": 809422,
-  "2022-06-07": 809940,
-  "2022-06-08": 810519,
-  "2022-06-09": 810865,
-  "2022-06-10": 811175,
-  "2022-06-11": 811503,
-  "2022-06-12": 811728,
-  "2022-06-13": 811926,
-  "2022-06-14": 812116,
-  "2022-06-15": 812319,
-  "2022-06-16": 812475,
-  "2022-06-17": 812625,
-  "2022-06-18": 812792,
-  "2022-06-19": 813066,
-  "2022-06-20": 813066,
-  "2022-06-21": 813181,
-  "2022-06-22": 813422,
-  "2022-06-23": 813422,
-  "2022-06-24": 813548,
-  "2022-06-25": 813645,
-  "2022-06-26": 813743,
-  "2022-06-27": 813815,
-  "2022-06-28": 813815,
-  "2022-06-29": 813958,
-  "2022-06-30": 814075,
-  "2022-07-01": 814171,
-  "2022-07-02": 814274,
-  "2022-07-03": 814358,
-  "2022-07-04": 814419,
-  "2022-07-05": 814535,
-  "2022-07-06": 814657,
-  "2022-07-07": 814770,
-  "2022-07-08": 814895,
-  "2022-07-09": 814998,
-  "2022-07-10": 815106,
-  "2022-07-11": 815190,
-  "2022-07-12": 815273,
-  "2022-07-13": 815380,
-  "2022-07-14": 815500,
-  "2022-07-15": 815621,
-  "2022-07-16": 815731,
-  "2022-07-17": 815851,
-  "2022-07-18": 815916,
-  "2022-07-19": 816047,
-  "2022-07-20": 816136,
-  "2022-07-21": 816222,
-  "2022-07-22": 816344,
-  "2022-07-23": 816437,
-  "2022-07-24": 816523,
-  "2022-07-25": 816614,
-  "2022-07-26": 816725,
-  "2022-07-27": 816849,
-  "2022-07-28": 816972,
-  "2022-07-29": 817046,
-  "2022-07-30": 817246,
-  "2022-07-31": 817246,
-  "2022-08-01": 817340,
-  "2022-08-02": 817570,
-  "2022-08-03": 817570,
-  "2022-08-04": 817704,
-  "2022-08-05": 817816,
-  "2022-08-06": 817930,
-  "2022-08-07": 818041,
-  "2022-08-08": 818163,
-  "2022-08-09": 818293,
-  "2022-08-10": 818414,
-  "2022-08-11": 818540,
-  "2022-08-12": 818683,
-  "2022-08-13": 818839,
-  "2022-08-14": 818961,
-  "2022-08-15": 819113,
-  "2022-08-16": 819237,
-  "2022-08-17": 819407,
-  "2022-08-18": 819553,
-  "2022-08-19": 819692,
-  "2022-08-20": 819816,
-  "2022-08-21": 819935,
-  "2022-08-22": 820040,
-  "2022-08-23": 820180,
-  "2022-08-24": 820294,
-  "2022-08-25": 820442,
-  "2022-08-26": 820581,
-  "2022-08-27": 820732,
-  "2022-08-28": 820839,
-  "2022-08-29": 820959,
-  "2022-08-30": 820901,
-  "2022-08-31": 820694,
-  "2022-09-01": 820335,
-  "2022-09-02": 819992,
-  "2022-09-03": 820129,
-  "2022-09-04": 819166,
-  "2022-09-05": 819251,
-  "2022-09-06": 819345,
-  "2022-09-07": 819494,
-  "2022-09-09": 33525,
-  "2022-09-10": 33804,
-  "2022-09-11": 2570,
-  "2022-09-12": 1796,
-  "2022-09-15": 718,
-  "2022-09-16": 974,
-  "2022-09-17": 1224,
-  "2022-09-18": 1449,
-  "2022-09-19": 1694,
-  "2022-09-20": 1694,
-  "2022-09-21": 1694,
-  "2022-09-22": 1694,
-  "2022-09-23": 1694,
-  "2022-09-24": 1694,
-  "2022-09-25": 1694,
-  "2022-09-26": 1694,
-  "2022-09-27": 1694,
-  "2022-09-28": 1694,
-  "2022-09-29": 1694,
-  "2022-09-30": 1694,
-  "2022-10-01": 1694,
-  "2022-10-02": 1694,
-  "2022-10-03": 1694,
-  "2022-10-04": 1694,
-  "2022-10-05": 1694,
-  "2022-10-06": 1694,
-  "2022-10-07": 1694,
-  "2022-10-08": 1694,
-  "2022-10-09": 1694,
-  "2022-10-10": 1694,
-  "2022-10-11": 1694,
-  "2022-10-12": 1694,
-  "2022-10-13": 1694,
-  "2022-10-14": 1694,
-  "2022-10-15": 1694,
-  "2022-10-16": 1694,
-  "2022-10-17": 1694,
-  "2022-10-18": 1694,
-  "2022-10-19": 1694,
-  "2022-10-20": 1694,
-  "2022-10-21": 1694,
-  "2022-10-22": 1694,
-  "2022-10-23": 1694,
-  "2022-10-24": 1694,
-  "2022-10-25": 1694,
-  "2022-10-26": 1694,
-  "2022-10-27": 1694,
-  "2022-10-28": 1694,
-  "2022-10-29": 1694,
-  "2022-10-30": 1694,
-  "2022-10-31": 1694,
-  "2022-11-01": 1694,
-  "2022-11-02": 1694,
-  "2022-11-03": 1694,
-  "2022-11-04": 1694,
-  "2022-11-05": 1694,
-  "2022-11-06": 1694,
-  "2022-11-07": 1694,
-  "2022-11-08": 1694,
-  "2022-11-09": 1694,
-  "2022-11-10": 1694,
-  "2022-11-11": 1694,
-  "2022-11-12": 1694,
-  "2022-11-13": 1694,
-  "2022-11-14": 1694,
-  "2022-11-15": 1694,
-  "2022-11-16": 1694,
-  "2022-11-17": 1694,
-  "2022-11-18": 1694,
-  "2022-11-19": 1694,
-  "2022-11-20": 1694,
-  "2022-11-21": 1694,
-  "2022-11-22": 1694,
-  "2022-11-23": 1694,
-  "2022-11-24": 1694,
-  "2022-11-25": 1694,
-  "2022-11-26": 1694,
-  "2022-11-27": 1694,
-  "2022-11-28": 1694,
-  "2022-11-29": 1694,
-  "2022-11-30": 1694,
-  "2022-12-01": 1694,
-  "2022-12-02": 1694,
-  "2022-12-03": 1694,
-  "2022-12-04": 1694,
-  "2022-12-05": 1694,
-  "2022-12-06": 1694,
-  "2022-12-07": 1694,
-  "2022-12-08": 1694,
-  "2022-12-09": 1694,
-  "2022-12-10": 1694,
-  "2022-12-11": 1694,
-  "2022-12-12": 1694,
-  "2022-12-13": 1694,
-  "2022-12-14": 1694,
-  "2022-12-15": 1694,
-  "2022-12-16": 1694,
-  "2022-12-17": 1694,
-  "2022-12-18": 1694,
-  "2022-12-19": 1694,
-  "2022-12-20": 1694,
-  "2022-12-21": 1694,
-  "2022-12-22": 1694,
-  "2022-12-24": 1694,
-  "2022-12-25": 1694,
-  "2022-12-26": 1694,
-  "2022-12-27": 1694,
-  "2022-12-28": 1694,
-  "2022-12-29": 1694,
-  "2022-12-30": 1694,
-  "2022-12-31": 1694,
-  "2023-01-01": 1694,
-  "2023-01-02": 1694,
-  "2023-01-03": 1694,
-  "2023-01-04": 1694,
-  "2023-01-05": 1694,
-  "2023-01-06": 1694,
-  "2023-01-07": 1694,
-  "2023-01-08": 1694,
-  "2023-01-09": 1694,
-  "2023-01-10": 1694,
-  "2023-01-11": 1694,
-  "2023-01-12": 1694,
-  "2023-01-13": 1694,
-  "2023-01-14": 1694,
-  "2023-01-15": 1694,
-  "2023-01-16": 1694,
-  "2023-01-17": 1694,
-  "2023-01-18": 1694,
-  "2023-01-19": 1694,
-  "2023-01-20": 1694,
-  "2023-01-21": 1694,
-  "2023-01-22": 1694,
-  "2023-01-23": 1694,
-  "2023-01-24": 1694,
-  "2023-01-25": 1694,
-  "2023-01-26": 1694,
-  "2023-01-27": 1694,
-  "2023-01-28": 1694,
-  "2023-01-29": 1694,
-  "2023-01-30": 1694,
-  "2023-01-31": 1694,
-  "2023-02-01": 1694,
-  "2023-02-02": 1694,
-  "2023-02-03": 1694,
-  "2023-02-04": 1694,
-  "2023-02-05": 1694,
-  "2023-02-06": 1694,
-  "2023-02-07": 1694,
-  "2023-02-08": 1694,
-  "2023-02-09": 1694,
-  "2023-02-10": 1694,
-  "2023-02-11": 1694,
-  "2023-02-12": 1694,
-  "2023-02-13": 1694,
-  "2023-02-14": 1694,
-  "2023-02-15": 1694,
-  "2023-02-16": 1694,
-  "2023-02-17": 1694,
-  "2023-02-18": 1694,
-  "2023-02-19": 1694,
-  "2023-02-20": 1694,
-  "2023-02-21": 1694,
-  "2023-02-22": 1694,
-  "2023-02-23": 1694,
-  "2023-02-24": 1694,
-  "2023-02-25": 1694,
-  "2023-02-26": 1694,
-  "2023-02-27": 1694,
-  "2023-02-28": 1694,
-  "2023-03-01": 1694,
-  "2023-03-02": 1694,
-  "2023-03-03": 1694,
-  "2023-03-04": 1694,
-  "2023-03-05": 1694,
-  "2023-03-06": 1694,
-  "2023-03-07": 1694,
-  "2023-03-08": 1694,
-  "2023-03-09": 1694,
-  "2023-03-10": 1694,
-  "2023-03-11": 1694,
-  "2023-03-12": 1694,
-  "2023-03-13": 1694,
-  "2023-03-14": 1694,
-  "2023-03-15": 1694,
-  "2023-03-16": 1694,
-  "2023-03-17": 1694,
-  "2023-03-18": 1694,
-  "2023-03-19": 1694,
-  "2023-03-20": 1694,
-  "2023-03-21": 1694,
-  "2023-03-22": 1694,
-  "2023-03-23": 1694,
-  "2023-03-24": 1694,
-  "2023-03-25": 1694,
-  "2023-03-26": 1694,
-  "2023-03-27": 1694,
-  "2023-03-28": 1694,
-  "2023-03-29": 1694,
-  "2023-03-30": 1694,
-  "2023-03-31": 1694,
-  "2023-04-01": 1694,
-  "2023-04-02": 1694,
-  "2023-04-03": 1694,
-  "2023-04-04": 1694,
-  "2023-04-05": 1694,
-  "2023-04-06": 1694,
-  "2023-04-07": 1694,
-  "2023-04-09": 1694,
-  "2023-04-10": 1694,
-  "2023-04-11": 1694,
-  "2023-04-12": 1694,
-  "2023-04-13": 1694,
-  "2023-04-14": 1694,
-  "2023-04-15": 1694,
-  "2023-04-16": 1694,
-  "2023-04-17": 1694,
-  "2023-04-18": 1694,
-  "2023-04-19": 1694,
-  "2023-04-20": 1694,
-  "2023-04-21": 1694,
-  "2023-04-22": 1694,
-  "2023-04-23": 1694,
-  "2023-04-24": 1694,
-  "2023-04-25": 1694,
-  "2023-04-26": 1694,
-  "2023-04-27": 1694,
-  "2023-04-28": 1694,
-  "2023-04-29": 1694,
-  "2023-04-30": 1694,
-  "2023-05-01": 1694,
-  "2023-05-02": 1694,
-  "2023-05-03": 1694,
-  "2023-05-04": 1694,
-  "2023-05-05": 1694,
-  "2023-05-06": 1694,
-  "2023-05-07": 1694,
-  "2023-05-08": 1694,
-  "2023-05-09": 1694,
-  "2023-05-10": 1694,
-  "2023-05-11": 1694,
-  "2023-05-12": 1694,
-  "2023-05-13": 1694,
-  "2023-05-14": 1694,
-  "2023-05-15": 1694,
-  "2023-05-16": 1694,
-  "2023-05-17": 1694,
-  "2023-05-18": 1694,
-  "2023-05-19": 1694,
-  "2023-05-20": 1694,
-  "2023-05-21": 1694,
-  "2023-05-22": 1694,
-  "2023-05-23": 1694,
-  "2023-05-24": 1694,
-  "2023-05-25": 1694,
-  "2023-05-26": 1694,
-  "2023-05-27": 1694,
-  "2023-05-28": 1694,
-  "2023-05-29": 1694,
-  "2023-05-30": 1694,
-  "2023-05-31": 1694,
-  "2023-06-01": 1694,
-  "2023-06-02": 1694,
-  "2023-06-03": 1694,
-  "2023-06-04": 1694,
-  "2023-06-05": 1694,
-  "2023-06-06": 1694,
-  "2023-06-07": 1694,
-  "2023-06-08": 1694,
-  "2023-06-09": 1694,
-  "2023-06-10": 1694,
-  "2023-06-11": 1694,
-  "2023-06-12": 1694,
-  "2023-06-13": 1694,
-  "2023-06-14": 1694,
-  "2023-06-15": 1694,
-  "2023-06-16": 1694,
-  "2023-06-17": 1694,
-  "2023-06-18": 1694,
-  "2023-06-19": 1694,
-  "2023-06-20": 1694,
-  "2023-06-21": 1694,
-  "2023-06-22": 1694,
-  "2023-06-23": 1694,
-  "2023-06-24": 1694,
-  "2023-06-25": 1694,
-  "2023-06-26": 1694,
-  "2023-06-27": 1694,
-  "2023-06-28": 1694,
-  "2023-06-29": 1694,
-  "2023-06-30": 1694,
-  "2023-07-01": 1694,
-  "2023-07-02": 1694,
-  "2023-07-03": 1694,
-  "2023-07-04": 1694,
-  "2023-07-05": 1694,
-  "2023-07-06": 1694,
-  "2023-07-07": 1694,
-  "2023-07-08": 1694,
-  "2023-07-09": 1694,
-  "2023-07-10": 1694,
-  "2023-07-11": 1694,
-  "2023-07-12": 1694,
-  "2023-07-13": 1694,
-  "2023-07-14": 1694,
-  "2023-07-15": 1694,
-  "2023-07-16": 1694,
-  "2023-07-17": 1694,
-  "2023-07-18": 1694,
-  "2023-07-19": 1694,
-  "2023-07-20": 1694,
-  "2023-07-21": 1694,
-  "2023-07-22": 1694,
-  "2023-07-23": 1694,
-  "2023-07-24": 1694,
-  "2023-07-25": 1694,
-  "2023-07-26": 1694,
-  "2023-07-27": 1694,
-  "2023-07-28": 1694,
-  "2023-07-29": 1694,
-  "2023-07-30": 1694,
-  "2023-07-31": 1694,
-  "2023-08-01": 1694,
-  "2023-08-02": 1694,
-  "2023-08-03": 1694,
-  "2023-08-04": 1694,
-  "2023-08-05": 1694,
-  "2023-08-06": 1694,
-  "2023-08-07": 1694,
-  "2023-08-08": 1694,
-  "2023-08-09": 1694,
-  "2023-08-10": 1694,
-  "2023-08-11": 1694,
-  "2023-08-12": 1694,
-  "2023-08-13": 1694,
-  "2023-08-14": 1694,
-  "2023-08-15": 1694,
-  "2023-08-16": 1694,
-  "2023-08-17": 1694,
-  "2023-08-18": 1694,
-  "2023-08-19": 1694,
-  "2023-08-20": 1694,
-  "2023-08-21": 1694,
-  "2023-08-22": 1694,
-  "2023-08-23": 1694,
-  "2023-08-24": 1694,
-  "2023-08-25": 1694,
-  "2023-08-26": 1694,
-  "2023-08-27": 1694,
-  "2023-08-28": 1694,
-  "2023-08-29": 1694,
-  "2023-08-30": 1694,
-  "2023-08-31": 1694,
-  "2023-09-01": 1694,
-  "2023-09-02": 1694,
-  "2023-09-03": 1694,
-  "2023-09-04": 1694,
-  "2023-09-05": 1694,
-  "2023-09-06": 1694,
-  "2023-09-07": 1694,
-  "2023-09-08": 1694,
-  "2023-09-09": 1694,
-  "2023-09-10": 1694,
-  "2023-09-11": 1694,
-  "2023-09-12": 1694,
-  "2023-09-13": 1694,
-  "2023-09-14": 1694,
-  "2023-09-15": 1694,
-  "2023-09-16": 1694,
-  "2023-09-17": 1694,
-  "2023-09-18": 1694,
-  "2023-09-19": 1694,
-  "2023-09-20": 1694,
-  "2023-09-21": 1694,
-  "2023-09-22": 1694,
-  "2023-09-23": 1694,
-  "2023-09-24": 1694,
-  "2023-09-25": 1694,
-  "2023-09-26": 1694,
-  "2023-09-27": 1694,
-  "2023-09-28": 1694,
-  "2023-09-29": 1694,
-  "2023-09-30": 1694,
-  "2023-10-01": 1694,
-  "2023-10-02": 1694,
-  "2023-10-03": 1694,
-  "2023-10-04": 1694,
-  "2023-10-05": 1694,
-  "2023-10-06": 1694,
-  "2023-10-07": 1694,
-  "2023-10-08": 1694,
-  "2023-10-09": 1694,
-  "2023-10-10": 1694,
-  "2023-10-11": 1694,
-  "2023-10-12": 1694,
-  "2023-10-13": 1694,
-  "2023-10-14": 1694,
-  "2023-10-15": 1694,
-  "2023-10-16": 1694,
-  "2023-10-17": 1694,
-  "2023-10-18": 1694,
-  "2023-10-19": 1694,
-  "2023-10-20": 1694,
-  "2023-10-21": 1694,
-  "2023-10-22": 1694,
-  "2023-10-23": 1694,
-  "2023-10-24": 1694,
-  "2023-10-25": 1694,
-  "2023-10-26": 1694,
-  "2023-10-27": 1694,
-  "2023-10-28": 1694,
-  "2023-10-29": 1694,
-  "2023-10-30": 1694,
-  "2023-10-31": 1694,
-  "2023-11-01": 1694,
-  "2023-11-02": 1694,
-  "2023-11-03": 1694,
-  "2023-11-04": 1694,
-  "2023-11-05": 1694,
-  "2023-11-06": 1694,
-  "2023-11-07": 1694,
-  "2023-11-08": 1694,
-  "2023-11-09": 1694,
-  "2023-11-10": 1694,
-  "2023-11-11": 1694,
-  "2023-11-12": 1694,
-  "2023-11-13": 1694,
-  "2023-11-14": 1694,
-  "2023-11-15": 1694,
-  "2023-11-16": 1694,
-  "2023-11-17": 1694,
-  "2023-11-18": 1694,
-  "2023-11-19": 1694,
-  "2023-11-20": 1694,
-  "2023-11-21": 1694,
-  "2023-11-22": 1694,
-  "2023-11-23": 1694,
-  "2023-11-24": 1694,
-  "2023-11-25": 1694,
-  "2023-11-26": 1694,
-  "2023-11-27": 1694,
-  "2023-11-28": 1694,
-  "2023-11-29": 1694,
-  "2023-11-30": 1694,
-  "2023-12-01": 1694,
-  "2023-12-02": 1694,
-  "2023-12-03": 1694,
-  "2023-12-04": 1694,
-  "2023-12-05": 1694,
-  "2023-12-06": 1694,
-  "2023-12-07": 1694,
-  "2023-12-08": 1694,
-  "2023-12-09": 1694,
-  "2023-12-10": 1694,
-  "2023-12-11": 1694,
-  "2023-12-12": 1694,
-  "2023-12-13": 1694,
-  "2023-12-14": 1694,
-  "2023-12-15": 1694,
-  "2023-12-16": 1694,
-  "2023-12-17": 1694,
-  "2023-12-18": 1694,
-  "2023-12-19": 1694,
-  "2023-12-20": 1694,
-  "2023-12-21": 1694,
-  "2023-12-22": 1694,
-  "2023-12-23": 1694,
-  "2023-12-24": 1694,
-  "2023-12-25": 1694,
-  "2023-12-26": 1694,
-  "2023-12-27": 1694,
-  "2023-12-30": 1694,
-  "2023-12-31": 1694,
-  "2024-01-01": 1694,
-  "2024-01-02": 1694,
-  "2024-01-03": 1694
+  "2024-01-17": 1694,
+  "date_first_scraped": "2021-12-21",
+  "description": "Time for dancing in the kitchen!",
+  "name": "This Is LANY",
+  "tracks": [
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214480,
+      "name": "(what i wish just one person would say to me)",
+      "url": "https://open.spotify.com/track/68BpjQ7Vc8uUHvUKMcLLHe"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234818,
+      "name": "13",
+      "url": "https://open.spotify.com/track/0WOvSEVpUGkNufX0w0M06F"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234818,
+      "name": "13",
+      "url": "https://open.spotify.com/track/3zgs1f6Tj0mn29qTXJuhSY"
+    },
+    {
+      "album": {
+        "name": "I Loved You.",
+        "url": "https://open.spotify.com/album/3hKjzbCr8wCNcjr54dYYv6"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205094,
+      "name": "4EVER!",
+      "url": "https://open.spotify.com/track/5U0RzSPAVv4jxWkLinGLWF"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194573,
+      "name": "anything 4 u",
+      "url": "https://open.spotify.com/track/0Aii1ZdrQwkas2lrRFz6ZY"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210946,
+      "name": "bad news",
+      "url": "https://open.spotify.com/track/0jtC5SX58IPcd62uEk9oHu"
+    },
+    {
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206006,
+      "name": "Bad, Bad, Bad",
+      "url": "https://open.spotify.com/track/5OTH21tpmWn9YL3XzfB8AX"
+    },
+    {
+      "album": {
+        "name": "Congrats",
+        "url": "https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217470,
+      "name": "Congrats",
+      "url": "https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD"
+    },
+    {
+      "album": {
+        "name": "cowboy in LA",
+        "url": "https://open.spotify.com/album/2cUg7ckSqDt8gXp9tmfdZ5"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213800,
+      "name": "cowboy in LA",
+      "url": "https://open.spotify.com/track/0E6uWutxRjIDhleURR92do"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "cowboy in LA",
+      "url": "https://open.spotify.com/track/22ZcJxQkzIL6EU692kAFWY"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189010,
+      "name": "current location",
+      "url": "https://open.spotify.com/track/3g6nGCEj7NK0KabxlfL9co"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/2XQhKfcXw1TrOB1QQPWSSl"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189010,
+      "name": "current location",
+      "url": "https://open.spotify.com/track/5vqpqBAB8L9NyhLZo0ZKie"
+    },
+    {
+      "album": {
+        "name": "dancing in the kitchen",
+        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208599,
+      "name": "dancing in the kitchen",
+      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
+    },
+    {
+      "album": {
+        "name": "gg bb xx",
+        "url": "https://open.spotify.com/album/20tgAhlplT42WnAAC8Xndk"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201442,
+      "name": "ex i never had",
+      "url": "https://open.spotify.com/track/1NAyq9TrQIpLHWStUX4xAQ"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249379,
+      "name": "Good Girls",
+      "url": "https://open.spotify.com/track/2kMKmb60xVUIWW2Out8ypz"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249379,
+      "name": "Good Girls",
+      "url": "https://open.spotify.com/track/3jhligm7HycklC8M3CcXnM"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "good guys",
+      "url": "https://open.spotify.com/track/2jNyJzHvoLSuI7CWAhsdhn"
+    },
+    {
+      "album": {
+        "name": "good guys",
+        "url": "https://open.spotify.com/album/1rvGSofYK4rYkX2INIzFjI"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224994,
+      "name": "good guys",
+      "url": "https://open.spotify.com/track/3c7peg169veVaJRzlbCaKw"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199506,
+      "name": "heart won't let me",
+      "url": "https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 346797,
+      "name": "Hericane",
+      "url": "https://open.spotify.com/track/0TQwHViH6PeO7zUxH6EAT3"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346797,
+      "name": "Hericane",
+      "url": "https://open.spotify.com/track/4bU5xCQQiURmotfz9ohUNo"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216749,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/2N5AA16n90ZDksRqGID3kM"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216749,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/6f6YWK6F4uOXvxnVTg8CoH"
+    },
+    {
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201197,
+      "name": "I Don't Wanna Love You Anymore",
+      "url": "https://open.spotify.com/track/7ArrTJ1LwcGAlEO65LUQ7i"
+    },
+    {
+      "album": {
+        "name": "I Quit Drinking",
+        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "I Quit Drinking",
+      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256480,
+      "name": "i still talk to jesus",
+      "url": "https://open.spotify.com/track/1FvNOyyBpkZaAZBASx3BH8"
+    },
+    {
+      "album": {
+        "name": "if this is the last time",
+        "url": "https://open.spotify.com/album/3G2RelPzbgYpjSIsi0YS0J"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203842,
+      "name": "if this is the last time",
+      "url": "https://open.spotify.com/track/2ccNaerby1wXA993dY6XsR"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203853,
+      "name": "if this is the last time",
+      "url": "https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc"
+    },
+    {
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182900,
+      "name": "If You See Her",
+      "url": "https://open.spotify.com/track/3coUcc0CDAHz2QwdP7Pee8"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211149,
+      "name": "ILYSB",
+      "url": "https://open.spotify.com/track/0dPBlz8N0veeceejtuvpPz"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211149,
+      "name": "ILYSB",
+      "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
+    },
+    {
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244820,
+      "name": "ILYSB - STRIPPED",
+      "url": "https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H"
+    },
+    {
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/0aI9MJnKQpQBdzEL4evb9L"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244820,
+      "name": "ILYSB - STRIPPED",
+      "url": "https://open.spotify.com/track/7j4IOedQQtMpSHEvyXZsHI"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228301,
+      "name": "It Was Love",
+      "url": "https://open.spotify.com/track/3ChWkuO3jUggiTTpAMbkyh"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228301,
+      "name": "It Was Love",
+      "url": "https://open.spotify.com/track/3Qqsr0Xu0Ts6AaC1XqMFC8"
+    },
+    {
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276197,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/7DMPq3XndRJaj6NTINsLOz"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/2XQhKfcXw1TrOB1QQPWSSl"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198533,
+      "name": "like you lots",
+      "url": "https://open.spotify.com/track/25KwUCiGvdCP3Xy3waYffE"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 198533,
+      "name": "like you lots",
+      "url": "https://open.spotify.com/track/4eTVMSVtVJWlvGk8hzGC9q"
+    },
+    {
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214245,
+      "name": "Made In Hollywood",
+      "url": "https://open.spotify.com/track/7EXSbDVsIiPdN0VwVyDoZd"
+    },
+    {
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286928,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
+    },
+    {
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/4aoWQU2gSUjl4AZeCPSo1b"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232853,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/3GRSqlALWISqLeNncZMbpX"
+    },
+    {
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232853,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN"
+    },
+    {
+      "album": {
+        "name": "never mind, let's break up",
+        "url": "https://open.spotify.com/album/38cbgGWFNBxq8zVtacRpqC"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162316,
+      "name": "never mind, let's break up",
+      "url": "https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "nobody else",
+      "url": "https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw"
+    },
+    {
+      "album": {
+        "name": "okay",
+        "url": "https://open.spotify.com/album/5jfU7VYOq1M8SllX6emQHN"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169182,
+      "name": "okay",
+      "url": "https://open.spotify.com/track/1a0Mg4XPdt4EKsUz5beRZY"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 232319,
+      "name": "Pancakes",
+      "url": "https://open.spotify.com/track/2Br251pz4tr0L5FOuf6Fyx"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232319,
+      "name": "Pancakes",
+      "url": "https://open.spotify.com/track/5zZ4EPA81iTmQ8K6LwaU1r"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244466,
+      "name": "paper",
+      "url": "https://open.spotify.com/track/3VI7vR4nbDDhoF63XHSbmE"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185922,
+      "name": "pink skies",
+      "url": "https://open.spotify.com/track/6BZ6pl5bczDc3cMF1kBaOy"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200344,
+      "name": "quit",
+      "url": "https://open.spotify.com/track/05NiTlbGwYmiJtyhsYIqzt"
+    },
+    {
+      "album": {
+        "name": "roll over, baby",
+        "url": "https://open.spotify.com/album/68MzlG2mwETSByGOWCkMD8"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204439,
+      "name": "roll over, baby",
+      "url": "https://open.spotify.com/track/6tbtPAY92umzdAlQQOdJkB"
+    },
+    {
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228192,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/0QXHHEi0rHMwmkxK5pvc05"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "sad",
+      "url": "https://open.spotify.com/track/6guqC53ktWrwIuXOMApLbV"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209426,
+      "name": "sharing you",
+      "url": "https://open.spotify.com/track/1ktLoFDVfk1f7kJvh3lnOJ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3iw65zUPsMXmVRnuzJJUtR"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1Ot2Go1a9Qryw4DfV9DsNL"
+    },
+    {
+      "album": {
+        "name": "I Loved You.",
+        "url": "https://open.spotify.com/album/3hKjzbCr8wCNcjr54dYYv6"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232712,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/2JUaGpCrD8tywgj9MeLFbb"
+    },
+    {
+      "album": {
+        "name": "Stupid Feelings",
+        "url": "https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166924,
+      "name": "Stupid Feelings",
+      "url": "https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203650,
+      "name": "Super Far",
+      "url": "https://open.spotify.com/track/15ahYSiHAIMxAnujlXVtta"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203650,
+      "name": "Super Far",
+      "url": "https://open.spotify.com/track/74ODGXs4byLTRdnKGM4s6E"
+    },
+    {
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194810,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/6A9mMKHYdeUJGvQDKChC0C"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236693,
+      "name": "The Breakup",
+      "url": "https://open.spotify.com/track/42MrgSLArhLVJMJXVJbZjZ"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236693,
+      "name": "The Breakup",
+      "url": "https://open.spotify.com/track/6sxTH1KkX0gdAVWLjleobR"
+    },
+    {
+      "album": {
+        "name": "gg bb xx (deluxe)",
+        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202202,
+      "name": "the older you get, the less you cry",
+      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
+    },
+    {
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212002,
+      "name": "Thick And Thin",
+      "url": "https://open.spotify.com/track/3D110t9ctcoOoylXsc3iR8"
+    },
+    {
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204515,
+      "name": "Thru These Tears",
+      "url": "https://open.spotify.com/track/7GbAp0HKPQW7WnFJAzMoRk"
+    },
+    {
+      "album": {
+        "name": "up to me / dna [demo]",
+        "url": "https://open.spotify.com/album/0GrGh2x8KprTal72UkxnBP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "up to me",
+      "url": "https://open.spotify.com/track/5pbQaprwbDRlzXBo8xVnCo"
+    },
+    {
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217949,
+      "name": "Valentine's Day",
+      "url": "https://open.spotify.com/track/2juRA8DhQePry4eb2LMUMM"
+    },
+    {
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231002,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212026,
+      "name": "when you're drunk",
+      "url": "https://open.spotify.com/track/0Bv25hxffynRiTkRvlPxw0"
+    },
+    {
+      "album": {
+        "name": "WHERE THE HELL ARE MY FRIENDS",
+        "url": "https://open.spotify.com/album/34ySll9UQXpSngEI0NJbFO"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216180,
+      "name": "WHERE THE HELL ARE MY FRIENDS",
+      "url": "https://open.spotify.com/track/4TA2nSix6i8K2VV9wt6rUn"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217024,
+      "name": "WHERE THE HELL ARE MY FRIENDS",
+      "url": "https://open.spotify.com/track/1Ey2bSPiqNR4wDFpjInp9X"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219440,
+      "name": "yea, babe, no way",
+      "url": "https://open.spotify.com/track/2BL0OrWVgMzEUFdTbfRf0W"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274013,
+      "name": "you!",
+      "url": "https://open.spotify.com/track/1vg0ZHaTvBwlNxLxyYrEvP"
+    },
+    {
+      "album": {
+        "name": "you!",
+        "url": "https://open.spotify.com/album/5Ob72SRWEGd36eRlASw6k2"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 274013,
+      "name": "you!",
+      "url": "https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF"
+    },
+    {
+      "album": {
+        "name": "I Loved You.",
+        "url": "https://open.spotify.com/album/3hKjzbCr8wCNcjr54dYYv6"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215091,
+      "name": "youarefire",
+      "url": "https://open.spotify.com/track/32NhGuyYmzL8uBM164QV33"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1xlmTNXq2Qg"
 }

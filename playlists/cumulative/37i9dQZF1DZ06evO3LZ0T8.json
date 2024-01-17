@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/1lkizjmEM7phja1LAX1WS7"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154941,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ"
+    },
+    {
+      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV"
       },

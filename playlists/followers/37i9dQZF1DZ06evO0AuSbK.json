@@ -1,479 +1,823 @@
 {
-  "2022-09-09": 290018,
-  "2022-09-10": 290166,
-  "2022-09-11": 290293,
-  "2022-09-12": 290406,
-  "2022-09-13": 290524,
-  "2022-09-15": 290836,
-  "2022-09-16": 290956,
-  "2022-09-17": 291108,
-  "2022-09-18": 291235,
-  "2022-09-19": 291340,
-  "2022-09-20": 291442,
-  "2022-09-21": 291589,
-  "2022-09-22": 291736,
-  "2022-09-23": 291883,
-  "2022-09-24": 292014,
-  "2022-09-25": 292133,
-  "2022-09-26": 292241,
-  "2022-09-27": 292345,
-  "2022-09-28": 292494,
-  "2022-09-29": 292643,
-  "2022-09-30": 292792,
-  "2022-10-01": 292956,
-  "2022-10-02": 293095,
-  "2022-10-03": 293233,
-  "2022-10-04": 293357,
-  "2022-10-05": 293473,
-  "2022-10-06": 293578,
-  "2022-10-07": 293747,
-  "2022-10-08": 293888,
-  "2022-10-09": 294101,
-  "2022-10-10": 294136,
-  "2022-10-11": 294269,
-  "2022-10-12": 294402,
-  "2022-10-13": 294545,
-  "2022-10-14": 294678,
-  "2022-10-15": 294815,
-  "2022-10-16": 294977,
-  "2022-10-17": 295092,
-  "2022-10-18": 295205,
-  "2022-10-19": 295352,
-  "2022-10-20": 295470,
-  "2022-10-21": 295623,
-  "2022-10-22": 295811,
-  "2022-10-23": 295970,
-  "2022-10-24": 296060,
-  "2022-10-25": 296177,
-  "2022-10-26": 296315,
-  "2022-10-27": 296438,
-  "2022-10-28": 296570,
-  "2022-10-29": 296695,
-  "2022-10-30": 296815,
-  "2022-10-31": 296908,
-  "2022-11-01": 297051,
-  "2022-11-02": 297178,
-  "2022-11-03": 297302,
-  "2022-11-04": 297430,
-  "2022-11-05": 297596,
-  "2022-11-06": 297717,
-  "2022-11-07": 297826,
-  "2022-11-08": 297931,
-  "2022-11-09": 298135,
-  "2022-11-10": 298326,
-  "2022-11-11": 298503,
-  "2022-11-12": 298694,
-  "2022-11-13": 298816,
-  "2022-11-14": 298959,
-  "2022-11-15": 299068,
-  "2022-11-16": 299190,
-  "2022-11-17": 299329,
-  "2022-11-18": 299372,
-  "2022-11-19": 299418,
-  "2022-11-20": 299552,
-  "2022-11-21": 299689,
-  "2022-11-22": 299800,
-  "2022-11-23": 299912,
-  "2022-11-24": 300156,
-  "2022-11-25": 300362,
-  "2022-11-26": 300498,
-  "2022-11-27": 300595,
-  "2022-11-28": 300698,
-  "2022-11-29": 300803,
-  "2022-11-30": 300929,
-  "2022-12-01": 301067,
-  "2022-12-02": 301137,
-  "2022-12-03": 301329,
-  "2022-12-04": 301486,
-  "2022-12-05": 301621,
-  "2022-12-06": 301719,
-  "2022-12-07": 301855,
-  "2022-12-08": 302028,
-  "2022-12-09": 302191,
-  "2022-12-10": 302373,
-  "2022-12-11": 302515,
-  "2022-12-12": 302636,
-  "2022-12-13": 302760,
-  "2022-12-14": 302909,
-  "2022-12-15": 303083,
-  "2022-12-16": 303244,
-  "2022-12-17": 303412,
-  "2022-12-18": 303572,
-  "2022-12-19": 303695,
-  "2022-12-20": 304009,
-  "2022-12-21": 304009,
-  "2022-12-22": 304165,
-  "2022-12-24": 304485,
-  "2022-12-25": 304632,
-  "2022-12-26": 304727,
-  "2022-12-27": 304832,
-  "2022-12-28": 304956,
-  "2022-12-29": 305083,
-  "2022-12-30": 305245,
-  "2022-12-31": 305375,
-  "2023-01-01": 305518,
-  "2023-01-02": 305620,
-  "2023-01-03": 305741,
-  "2023-01-04": 305850,
-  "2023-01-05": 305980,
-  "2023-01-06": 306159,
-  "2023-01-07": 306398,
-  "2023-01-08": 306442,
-  "2023-01-09": 306560,
-  "2023-01-10": 306705,
-  "2023-01-11": 306857,
-  "2023-01-12": 306986,
-  "2023-01-13": 307158,
-  "2023-01-14": 307418,
-  "2023-01-15": 307451,
-  "2023-01-16": 307576,
-  "2023-01-17": 307729,
-  "2023-01-18": 307893,
-  "2023-01-19": 308076,
-  "2023-01-20": 308269,
-  "2023-01-21": 308457,
-  "2023-01-22": 308641,
-  "2023-01-23": 308767,
-  "2023-01-24": 308907,
-  "2023-01-25": 309058,
-  "2023-01-26": 309240,
-  "2023-01-27": 309365,
-  "2023-01-28": 309546,
-  "2023-01-29": 309723,
-  "2023-01-30": 309869,
-  "2023-01-31": 309869,
-  "2023-02-01": 310151,
-  "2023-02-02": 310332,
-  "2023-02-03": 310487,
-  "2023-02-04": 310647,
-  "2023-02-05": 310811,
-  "2023-02-06": 310988,
-  "2023-02-07": 311172,
-  "2023-02-08": 311554,
-  "2023-02-09": 311554,
-  "2023-02-10": 311762,
-  "2023-02-11": 312077,
-  "2023-02-12": 312509,
-  "2023-02-13": 312678,
-  "2023-02-14": 312678,
-  "2023-02-15": 312865,
-  "2023-02-16": 313117,
-  "2023-02-17": 313335,
-  "2023-02-18": 314036,
-  "2023-02-19": 314080,
-  "2023-02-20": 314267,
-  "2023-02-21": 314504,
-  "2023-02-22": 314769,
-  "2023-02-23": 315049,
-  "2023-02-24": 315388,
-  "2023-02-25": 315735,
-  "2023-02-26": 315907,
-  "2023-02-27": 316333,
-  "2023-02-28": 316333,
-  "2023-03-01": 316595,
-  "2023-03-02": 316858,
-  "2023-03-03": 317162,
-  "2023-03-04": 317414,
-  "2023-03-05": 317835,
-  "2023-03-06": 317835,
-  "2023-03-07": 318029,
-  "2023-03-08": 318219,
-  "2023-03-09": 318436,
-  "2023-03-10": 318635,
-  "2023-03-11": 318869,
-  "2023-03-12": 319057,
-  "2023-03-13": 319236,
-  "2023-03-14": 319457,
-  "2023-03-15": 319654,
-  "2023-03-16": 319814,
-  "2023-03-17": 319814,
-  "2023-03-18": 320186,
-  "2023-03-19": 320356,
-  "2023-03-20": 320502,
-  "2023-03-21": 320677,
-  "2023-03-22": 320860,
-  "2023-03-23": 321063,
-  "2023-03-24": 321063,
-  "2023-03-25": 321488,
-  "2023-03-26": 321734,
-  "2023-03-27": 321921,
-  "2023-03-28": 322117,
-  "2023-03-29": 322342,
-  "2023-03-30": 322761,
-  "2023-03-31": 322761,
-  "2023-04-01": 322999,
-  "2023-04-02": 323214,
-  "2023-04-03": 323407,
-  "2023-04-04": 323622,
-  "2023-04-05": 323848,
-  "2023-04-06": 324097,
-  "2023-04-07": 324320,
-  "2023-04-09": 324736,
-  "2023-04-10": 324885,
-  "2023-04-11": 325171,
-  "2023-04-12": 325171,
-  "2023-04-13": 325388,
-  "2023-04-14": 325606,
-  "2023-04-15": 325804,
-  "2023-04-16": 325967,
-  "2023-04-17": 326150,
-  "2023-04-18": 326346,
-  "2023-04-19": 326540,
-  "2023-04-20": 326756,
-  "2023-04-21": 326986,
-  "2023-04-22": 327212,
-  "2023-04-23": 327436,
-  "2023-04-24": 327612,
-  "2023-04-25": 327765,
-  "2023-04-26": 327991,
-  "2023-04-27": 328263,
-  "2023-04-28": 328494,
-  "2023-04-29": 328703,
-  "2023-04-30": 328902,
-  "2023-05-01": 329101,
-  "2023-05-02": 329293,
-  "2023-05-03": 329468,
-  "2023-05-04": 329671,
-  "2023-05-05": 329876,
-  "2023-05-06": 330057,
-  "2023-05-07": 330253,
-  "2023-05-08": 330414,
-  "2023-05-09": 330557,
-  "2023-05-10": 330744,
-  "2023-05-11": 330906,
-  "2023-05-12": 331088,
-  "2023-05-13": 331287,
-  "2023-05-14": 331449,
-  "2023-05-15": 331604,
-  "2023-05-16": 331757,
-  "2023-05-17": 331927,
-  "2023-05-18": 332103,
-  "2023-05-19": 332267,
-  "2023-05-20": 332619,
-  "2023-05-21": 332619,
-  "2023-05-22": 332619,
-  "2023-05-23": 332904,
-  "2023-05-24": 333219,
-  "2023-05-25": 333264,
-  "2023-05-26": 333428,
-  "2023-05-27": 333586,
-  "2023-05-28": 333750,
-  "2023-05-29": 333750,
-  "2023-05-30": 334004,
-  "2023-05-31": 334174,
-  "2023-06-01": 334363,
-  "2023-06-02": 334559,
-  "2023-06-03": 334758,
-  "2023-06-04": 334929,
-  "2023-06-05": 335096,
-  "2023-06-06": 335285,
-  "2023-06-07": 335479,
-  "2023-06-08": 335689,
-  "2023-06-09": 335868,
-  "2023-06-10": 336041,
-  "2023-06-11": 336200,
-  "2023-06-12": 336323,
-  "2023-06-13": 336478,
-  "2023-06-14": 336625,
-  "2023-06-15": 336783,
-  "2023-06-16": 336941,
-  "2023-06-17": 337112,
-  "2023-06-18": 337244,
-  "2023-06-19": 337359,
-  "2023-06-20": 337478,
-  "2023-06-21": 337615,
-  "2023-06-22": 337742,
-  "2023-06-23": 337898,
-  "2023-06-24": 338069,
-  "2023-06-25": 338236,
-  "2023-06-26": 338373,
-  "2023-06-27": 338515,
-  "2023-06-28": 338682,
-  "2023-06-29": 338815,
-  "2023-06-30": 338962,
-  "2023-07-01": 339266,
-  "2023-07-02": 339266,
-  "2023-07-03": 339403,
-  "2023-07-04": 339535,
-  "2023-07-05": 339662,
-  "2023-07-06": 339947,
-  "2023-07-07": 339947,
-  "2023-07-08": 340096,
-  "2023-07-09": 340224,
-  "2023-07-10": 340347,
-  "2023-07-11": 340469,
-  "2023-07-12": 340588,
-  "2023-07-13": 340743,
-  "2023-07-14": 340880,
-  "2023-07-15": 340977,
-  "2023-07-16": 341142,
-  "2023-07-17": 341261,
-  "2023-07-18": 341366,
-  "2023-07-19": 341523,
-  "2023-07-20": 341676,
-  "2023-07-21": 341846,
-  "2023-07-22": 341995,
-  "2023-07-23": 342146,
-  "2023-07-24": 342254,
-  "2023-07-25": 342407,
-  "2023-07-26": 342521,
-  "2023-07-27": 342688,
-  "2023-07-28": 342828,
-  "2023-07-29": 342973,
-  "2023-07-30": 343117,
-  "2023-07-31": 343264,
-  "2023-08-01": 343384,
-  "2023-08-02": 343505,
-  "2023-08-03": 343650,
-  "2023-08-04": 343786,
-  "2023-08-05": 343935,
-  "2023-08-06": 344236,
-  "2023-08-07": 344236,
-  "2023-08-08": 344365,
-  "2023-08-09": 344502,
-  "2023-08-10": 344675,
-  "2023-08-11": 344813,
-  "2023-08-12": 344980,
-  "2023-08-13": 344980,
-  "2023-08-14": 345315,
-  "2023-08-15": 345493,
-  "2023-08-16": 345493,
-  "2023-08-17": 345804,
-  "2023-08-18": 345988,
-  "2023-08-19": 346189,
-  "2023-08-20": 346328,
-  "2023-08-21": 346467,
-  "2023-08-22": 346610,
-  "2023-08-23": 346782,
-  "2023-08-24": 346943,
-  "2023-08-25": 347148,
-  "2023-08-26": 347423,
-  "2023-08-27": 347610,
-  "2023-08-28": 347746,
-  "2023-08-29": 347896,
-  "2023-08-30": 347896,
-  "2023-08-31": 348242,
-  "2023-09-01": 348614,
-  "2023-09-02": 348614,
-  "2023-09-03": 348764,
-  "2023-09-04": 348764,
-  "2023-09-05": 349038,
-  "2023-09-06": 349190,
-  "2023-09-07": 349190,
-  "2023-09-08": 349190,
-  "2023-09-09": 349190,
-  "2023-09-10": 349858,
-  "2023-09-11": 349993,
-  "2023-09-12": 349993,
-  "2023-09-13": 350294,
-  "2023-09-14": 350294,
-  "2023-09-15": 350294,
-  "2023-09-16": 350771,
-  "2023-09-17": 350771,
-  "2023-09-18": 350771,
-  "2023-09-19": 351109,
-  "2023-09-20": 351109,
-  "2023-09-21": 351109,
-  "2023-09-22": 351529,
-  "2023-09-23": 351529,
-  "2023-09-24": 351529,
-  "2023-09-25": 351529,
-  "2023-09-26": 352190,
-  "2023-09-27": 352190,
-  "2023-09-28": 352190,
-  "2023-09-29": 352190,
-  "2023-09-30": 352190,
-  "2023-10-01": 352190,
-  "2023-10-02": 353165,
-  "2023-10-03": 353165,
-  "2023-10-04": 353165,
-  "2023-10-05": 353583,
-  "2023-10-06": 353732,
-  "2023-10-07": 353732,
-  "2023-10-08": 353732,
-  "2023-10-09": 353732,
-  "2023-10-10": 353732,
-  "2023-10-11": 354360,
-  "2023-10-12": 354360,
-  "2023-10-13": 354360,
-  "2023-10-14": 354360,
-  "2023-10-15": 354360,
-  "2023-10-16": 354360,
-  "2023-10-17": 354360,
-  "2023-10-18": 354360,
-  "2023-10-19": 354360,
-  "2023-10-20": 354360,
-  "2023-10-21": 354360,
-  "2023-10-22": 354360,
-  "2023-10-23": 354360,
-  "2023-10-24": 354360,
-  "2023-10-25": 354360,
-  "2023-10-26": 354360,
-  "2023-10-27": 354360,
-  "2023-10-28": 354360,
-  "2023-10-29": 354360,
-  "2023-10-30": 354360,
-  "2023-10-31": 354360,
-  "2023-11-01": 354360,
-  "2023-11-02": 354360,
-  "2023-11-03": 354360,
-  "2023-11-04": 354360,
-  "2023-11-05": 354360,
-  "2023-11-06": 354360,
-  "2023-11-07": 354360,
-  "2023-11-08": 354360,
-  "2023-11-09": 354360,
-  "2023-11-10": 354360,
-  "2023-11-11": 359141,
-  "2023-11-12": 359141,
-  "2023-11-13": 359141,
-  "2023-11-14": 359141,
-  "2023-11-15": 359141,
-  "2023-11-16": 359141,
-  "2023-11-17": 359141,
-  "2023-11-18": 359141,
-  "2023-11-19": 359141,
-  "2023-11-20": 359141,
-  "2023-11-21": 359141,
-  "2023-11-22": 359141,
-  "2023-11-23": 359141,
-  "2023-11-24": 359141,
-  "2023-11-25": 359141,
-  "2023-11-26": 359141,
-  "2023-11-27": 359141,
-  "2023-11-28": 359141,
-  "2023-11-29": 359141,
-  "2023-11-30": 359141,
-  "2023-12-01": 359141,
-  "2023-12-02": 359141,
-  "2023-12-03": 359141,
-  "2023-12-04": 359141,
-  "2023-12-05": 359141,
-  "2023-12-06": 359141,
-  "2023-12-07": 359141,
-  "2023-12-08": 359141,
-  "2023-12-09": 359141,
-  "2023-12-10": 359141,
-  "2023-12-11": 359141,
-  "2023-12-12": 359141,
-  "2023-12-13": 359141,
-  "2023-12-14": 364376,
-  "2023-12-15": 364549,
-  "2023-12-16": 364699,
-  "2023-12-17": 364832,
-  "2023-12-18": 364937,
-  "2023-12-19": 365051,
-  "2023-12-20": 365195,
-  "2023-12-21": 365325,
-  "2023-12-22": 365489,
-  "2023-12-23": 365641,
-  "2023-12-24": 365763,
-  "2023-12-25": 365858,
-  "2023-12-26": 365961,
-  "2023-12-27": 366072,
-  "2023-12-30": 366452,
-  "2023-12-31": 366564,
-  "2024-01-01": 366655,
-  "2024-01-02": 366720,
-  "2024-01-03": 366816
+  "2024-01-17": 367919,
+  "date_first_scraped": "2022-09-09",
+  "description": "This is Limp Bizkit. The essential tracks, all in one playlist.",
+  "name": "This Is Limp Bizkit",
+  "tracks": [
+    {
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Almost Over",
+      "url": "https://open.spotify.com/track/043Re81uRxCx2Nw6LfAheU"
+    },
+    {
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-21",
+      "duration_ms": 115587,
+      "name": "Barnacle",
+      "url": "https://open.spotify.com/track/5DlvocrKUdERmdV6kldCph"
+    },
+    {
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
+    },
+    {
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 420266,
+      "name": "Boiler",
+      "url": "https://open.spotify.com/track/1a3RarhRdrNSTEEERYEFJn"
+    },
+    {
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "Break Stuff",
+      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
+    },
+    {
+      "album": {
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137546,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/4wWf2hSQwmVc1lCWHAMTUR"
+    },
+    {
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236733,
+      "name": "Build A Bridge",
+      "url": "https://open.spotify.com/track/4qWOEeCDVLZPXGzgxE8F7D"
+    },
+    {
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308093,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
+    },
+    {
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132206,
+      "name": "Dad Vibes",
+      "url": "https://open.spotify.com/track/2ppAkaBj4vaL0qsFm1TOKI"
+    },
+    {
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181290,
+      "name": "Dirty Rotten Bizkit",
+      "url": "https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD"
+    },
+    {
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175203,
+      "name": "Don't Change",
+      "url": "https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ"
+    },
+    {
+      "album": {
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "Douche Bag",
+      "url": "https://open.spotify.com/track/02feeh3yjDZDXEOXiVh96S"
+    },
+    {
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236333,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU"
+    },
+    {
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112821,
+      "name": "Empty Hole",
+      "url": "https://open.spotify.com/track/2ISetzZ91WX6szLgyfNQOV"
+    },
+    {
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+    },
+    {
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247360,
+      "name": "Full Nelson",
+      "url": "https://open.spotify.com/track/6YU556RBcA4js0poLlP8Cu"
+    },
+    {
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Gimme The Mic",
+      "url": "https://open.spotify.com/track/2KuGuEVhHoQ0F1PVupQovc"
+    },
+    {
+      "album": {
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "Gold Cobra",
+      "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
+    },
+    {
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230240,
+      "name": "Hot Dog",
+      "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8"
+    },
+    {
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Indigo Flow",
+      "url": "https://open.spotify.com/track/1XkTsmGEThbTQRQpB5byLU"
+    },
+    {
+      "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/5Bu9ucyQatIFNf6dm0lzpX"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244840,
+      "name": "Just Drop Dead",
+      "url": "https://open.spotify.com/track/7oGFLiay0XopGrUiYbZKHC"
+    },
+    {
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Just Like This",
+      "url": "https://open.spotify.com/track/7on45JTbuUgroAC4DXwBqQ"
+    },
+    {
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264040,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/0QepvU0N2fC2B5uIPafO1q"
+    },
+    {
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273440,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/77AbmFudFBhF5a4Vcmwqtu"
+    },
+    {
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
+    },
+    {
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289866,
+      "name": "N 2 Gether Now",
+      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
+    },
+    {
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260105,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/5VNMlLgQdpo2ksrYzD9ANy"
+    },
+    {
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289560,
+      "name": "Nookie",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
+    },
+    {
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202862,
+      "name": "Out Of Style",
+      "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
+    },
+    {
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Pollution",
+      "url": "https://open.spotify.com/track/2Gle7uL36Pg0FZKuNtW30v"
+    },
+    {
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354733,
+      "name": "Re-Arranged",
+      "url": "https://open.spotify.com/track/6IPJ7LeWIOhxPW8Sq3nIGc"
+    },
+    {
+      "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
+    },
+    {
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Rollin' (Air Raid Vehicle)",
+      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
+    },
+    {
+      "album": {
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "Shark Attack",
+      "url": "https://open.spotify.com/track/1oQIVInvZ4e92v1bOzrUgD"
+    },
+    {
+      "album": {
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272906,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4H5tQdRchZaGpwoz56qRQa"
+    },
+    {
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/2PusNhFvJHBr4qtHBKcHP4"
+    },
+    {
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324640,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1CP8UCFq3Buyg4MN8mZUka"
+    },
+    {
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321040,
+      "name": "Take A Look Around",
+      "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "album": {
+        "name": "The Unquestionable Truth (Pt. 1)",
+        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316360,
+      "name": "The Propaganda",
+      "url": "https://open.spotify.com/track/7m8leIR2d0XtLWm1lPXaKu"
+    },
+    {
+      "album": {
+        "name": "The Unquestionable Truth (Pt. 1)",
+        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/3fCk6T2IJsMVEZ45079urc"
+    },
+    {
+      "album": {
+        "name": "The Unquestionable Truth (Pt. 1)",
+        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 237906,
+      "name": "The Surrender",
+      "url": "https://open.spotify.com/track/6nFqXBpJRPcyfay192nlyB"
+    },
+    {
+      "album": {
+        "name": "The Unquestionable Truth (Pt. 1)",
+        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325520,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/52h4yQrQZD3BkycTqlKsjj"
+    },
+    {
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140763,
+      "name": "Turn It Up, Bitch",
+      "url": "https://open.spotify.com/track/2KlKLcZPU4CptMCQ3TY5ls"
+    },
+    {
+      "album": {
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285573,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/6cUABkGFq0f8hBZZCUBX4Q"
+    },
+    {
+      "album": {
+        "name": "Greatest Hitz",
+        "url": "https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245933,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/3U0twJ3eXYEgEo0hh5Osh0"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AuSbK"
 }

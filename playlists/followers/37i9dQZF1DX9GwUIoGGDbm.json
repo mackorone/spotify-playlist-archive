@@ -1,279 +1,1477 @@
 {
-  "2023-03-30": 309,
-  "2023-03-31": 309,
-  "2023-04-01": 1951,
-  "2023-04-02": 2772,
-  "2023-04-03": 3286,
-  "2023-04-04": 3459,
-  "2023-04-05": 3615,
-  "2023-04-06": 3820,
-  "2023-04-07": 3938,
-  "2023-04-09": 4187,
-  "2023-04-10": 4304,
-  "2023-04-11": 4523,
-  "2023-04-12": 4523,
-  "2023-04-13": 4629,
-  "2023-04-14": 4737,
-  "2023-04-15": 4843,
-  "2023-04-16": 4959,
-  "2023-04-17": 5082,
-  "2023-04-18": 5181,
-  "2023-04-19": 5271,
-  "2023-04-20": 5376,
-  "2023-04-21": 5478,
-  "2023-04-22": 5579,
-  "2023-04-23": 5689,
-  "2023-04-24": 5782,
-  "2023-04-25": 5836,
-  "2023-04-26": 5884,
-  "2023-04-27": 5934,
-  "2023-04-28": 5974,
-  "2023-04-29": 6010,
-  "2023-04-30": 6044,
-  "2023-05-01": 6077,
-  "2023-05-02": 6112,
-  "2023-05-03": 6135,
-  "2023-05-04": 6173,
-  "2023-05-05": 6210,
-  "2023-05-06": 6240,
-  "2023-05-07": 6267,
-  "2023-05-08": 6290,
-  "2023-05-09": 6316,
-  "2023-05-10": 6352,
-  "2023-05-11": 6384,
-  "2023-05-12": 6412,
-  "2023-05-13": 6435,
-  "2023-05-14": 6470,
-  "2023-05-15": 6504,
-  "2023-05-16": 6530,
-  "2023-05-17": 6540,
-  "2023-05-18": 6552,
-  "2023-05-19": 6560,
-  "2023-05-20": 6569,
-  "2023-05-21": 6569,
-  "2023-05-22": 6569,
-  "2023-05-23": 6569,
-  "2023-05-24": 6579,
-  "2023-05-25": 6577,
-  "2023-05-26": 6580,
-  "2023-05-27": 6581,
-  "2023-05-28": 6580,
-  "2023-05-29": 6580,
-  "2023-05-30": 6594,
-  "2023-05-31": 6598,
-  "2023-06-01": 6606,
-  "2023-06-02": 6612,
-  "2023-06-03": 6620,
-  "2023-06-04": 6630,
-  "2023-06-05": 6637,
-  "2023-06-06": 6646,
-  "2023-06-07": 6653,
-  "2023-06-08": 6660,
-  "2023-06-09": 6667,
-  "2023-06-10": 6669,
-  "2023-06-11": 6677,
-  "2023-06-12": 6683,
-  "2023-06-13": 6694,
-  "2023-06-14": 6703,
-  "2023-06-15": 6707,
-  "2023-06-16": 6707,
-  "2023-06-17": 6708,
-  "2023-06-18": 6713,
-  "2023-06-19": 6726,
-  "2023-06-20": 6728,
-  "2023-06-21": 6730,
-  "2023-06-22": 6733,
-  "2023-06-23": 6736,
-  "2023-06-24": 6738,
-  "2023-06-25": 6746,
-  "2023-06-26": 6754,
-  "2023-06-27": 6758,
-  "2023-06-28": 6766,
-  "2023-06-29": 6776,
-  "2023-06-30": 6783,
-  "2023-07-01": 6793,
-  "2023-07-02": 6793,
-  "2023-07-03": 6797,
-  "2023-07-04": 6808,
-  "2023-07-05": 6812,
-  "2023-07-06": 6819,
-  "2023-07-07": 6819,
-  "2023-07-08": 6831,
-  "2023-07-09": 6851,
-  "2023-07-10": 6860,
-  "2023-07-11": 6871,
-  "2023-07-12": 6875,
-  "2023-07-13": 6882,
-  "2023-07-14": 6887,
-  "2023-07-15": 6891,
-  "2023-07-16": 6900,
-  "2023-07-17": 6905,
-  "2023-07-18": 6909,
-  "2023-07-19": 6912,
-  "2023-07-20": 6921,
-  "2023-07-21": 6931,
-  "2023-07-22": 6937,
-  "2023-07-23": 6945,
-  "2023-07-24": 6949,
-  "2023-07-25": 6955,
-  "2023-07-26": 6964,
-  "2023-07-27": 6969,
-  "2023-07-28": 6974,
-  "2023-07-29": 6981,
-  "2023-07-30": 6987,
-  "2023-07-31": 6994,
-  "2023-08-01": 6999,
-  "2023-08-02": 7006,
-  "2023-08-03": 7015,
-  "2023-08-04": 7025,
-  "2023-08-05": 7029,
-  "2023-08-06": 7040,
-  "2023-08-07": 7040,
-  "2023-08-08": 7043,
-  "2023-08-09": 7044,
-  "2023-08-10": 7053,
-  "2023-08-11": 7058,
-  "2023-08-12": 7068,
-  "2023-08-13": 7075,
-  "2023-08-14": 7077,
-  "2023-08-15": 7087,
-  "2023-08-16": 7087,
-  "2023-08-17": 7095,
-  "2023-08-18": 7097,
-  "2023-08-19": 7100,
-  "2023-08-20": 7104,
-  "2023-08-21": 7109,
-  "2023-08-22": 7116,
-  "2023-08-23": 7129,
-  "2023-08-24": 7136,
-  "2023-08-25": 7145,
-  "2023-08-26": 7155,
-  "2023-08-27": 7166,
-  "2023-08-28": 7171,
-  "2023-08-29": 7175,
-  "2023-08-30": 7181,
-  "2023-08-31": 7192,
-  "2023-09-01": 7205,
-  "2023-09-02": 7205,
-  "2023-09-03": 7225,
-  "2023-09-04": 7249,
-  "2023-09-05": 7261,
-  "2023-09-06": 7279,
-  "2023-09-07": 7298,
-  "2023-09-08": 7312,
-  "2023-09-09": 7329,
-  "2023-09-10": 7346,
-  "2023-09-11": 7370,
-  "2023-09-12": 7382,
-  "2023-09-13": 7404,
-  "2023-09-14": 7420,
-  "2023-09-15": 7434,
-  "2023-09-16": 7448,
-  "2023-09-17": 7469,
-  "2023-09-18": 7491,
-  "2023-09-19": 7507,
-  "2023-09-20": 7519,
-  "2023-09-21": 7534,
-  "2023-09-22": 7549,
-  "2023-09-23": 7564,
-  "2023-09-24": 7571,
-  "2023-09-25": 7584,
-  "2023-09-26": 7605,
-  "2023-09-27": 7615,
-  "2023-09-28": 7626,
-  "2023-09-29": 7641,
-  "2023-09-30": 7652,
-  "2023-10-01": 7663,
-  "2023-10-02": 7678,
-  "2023-10-03": 7686,
-  "2023-10-04": 7706,
-  "2023-10-05": 7715,
-  "2023-10-06": 7725,
-  "2023-10-07": 7737,
-  "2023-10-08": 7744,
-  "2023-10-09": 7756,
-  "2023-10-10": 7764,
-  "2023-10-11": 7782,
-  "2023-10-12": 7782,
-  "2023-10-13": 7792,
-  "2023-10-14": 7797,
-  "2023-10-15": 7805,
-  "2023-10-16": 7814,
-  "2023-10-17": 7821,
-  "2023-10-18": 7836,
-  "2023-10-19": 7847,
-  "2023-10-20": 7853,
-  "2023-10-21": 7855,
-  "2023-10-22": 7861,
-  "2023-10-23": 7874,
-  "2023-10-24": 7886,
-  "2023-10-25": 7892,
-  "2023-10-26": 7897,
-  "2023-10-27": 7903,
-  "2023-10-28": 7903,
-  "2023-10-29": 7903,
-  "2023-10-30": 7939,
-  "2023-10-31": 7939,
-  "2023-11-01": 7947,
-  "2023-11-02": 7953,
-  "2023-11-03": 7966,
-  "2023-11-04": 7971,
-  "2023-11-05": 7980,
-  "2023-11-06": 7987,
-  "2023-11-07": 7998,
-  "2023-11-08": 8005,
-  "2023-11-09": 8011,
-  "2023-11-10": 8020,
-  "2023-11-11": 8036,
-  "2023-11-12": 8039,
-  "2023-11-13": 8050,
-  "2023-11-14": 8063,
-  "2023-11-15": 8063,
-  "2023-11-16": 8098,
-  "2023-11-17": 8115,
-  "2023-11-18": 8115,
-  "2023-11-19": 8130,
-  "2023-11-20": 8146,
-  "2023-11-21": 8163,
-  "2023-11-22": 8173,
-  "2023-11-23": 8188,
-  "2023-11-24": 8188,
-  "2023-11-25": 8216,
-  "2023-11-26": 8223,
-  "2023-11-27": 8234,
-  "2023-11-28": 8240,
-  "2023-11-29": 8256,
-  "2023-11-30": 8256,
-  "2023-12-01": 8261,
-  "2023-12-02": 8273,
-  "2023-12-03": 8276,
-  "2023-12-04": 8284,
-  "2023-12-05": 8292,
-  "2023-12-06": 8301,
-  "2023-12-07": 8312,
-  "2023-12-08": 8321,
-  "2023-12-09": 8320,
-  "2023-12-10": 8323,
-  "2023-12-11": 8327,
-  "2023-12-12": 8327,
-  "2023-12-13": 8331,
-  "2023-12-14": 8340,
-  "2023-12-15": 8341,
-  "2023-12-16": 8347,
-  "2023-12-17": 8348,
-  "2023-12-18": 8353,
-  "2023-12-19": 8355,
-  "2023-12-20": 8358,
-  "2023-12-21": 8362,
-  "2023-12-22": 8362,
-  "2023-12-23": 8368,
-  "2023-12-24": 8368,
-  "2023-12-25": 8368,
-  "2023-12-26": 8368,
-  "2023-12-27": 8376,
-  "2023-12-30": 8386,
-  "2023-12-31": 8386,
-  "2024-01-01": 8387,
-  "2024-01-02": 8387,
-  "2024-01-03": 8382
+  "2024-01-17": 8417,
+  "date_first_scraped": "2023-03-31",
+  "description": "Music from \"KAGUYA-SAMA: LOVE IS WAR\". \u300c\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044\u300d\u30b7\u30ea\u30fc\u30ba\u3092\u5f69\u308b\u697d\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u8d64\u5742\u30a2\u30ab\uff0f\u96c6\u82f1\u793e\u30fb\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "KAGUYA-SAMA: LOVE IS WAR \u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044 ",
+  "tracks": [
+    {
+      "album": {
+        "name": "ALL TIME ROCK 'N' ROLL",
+        "url": "https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9"
+      },
+      "artists": [
+        {
+          "name": "Masayuki Suzuki",
+          "url": "https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF"
+        },
+        {
+          "name": "\u9234\u6728\u611b\u7406",
+          "url": "https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254640,
+      "name": "DADDY ! DADDY ! DO !",
+      "url": "https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u4e0a\u512a(CV:\u9234\u6728\u5d1a\u6c70)",
+          "url": "https://open.spotify.com/artist/06QvkYq7wYca4yyGipLjjW"
+        },
+        {
+          "name": "\u4f0a\u4e95\u91ce\u30df\u30b3(CV:\u5bcc\u7530\u7f8e\u6182)",
+          "url": "https://open.spotify.com/artist/2Whrp7tcNj5hbnbz2iMvzG"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257519,
+      "name": "DADDY ! DADDY ! DO !",
+      "url": "https://open.spotify.com/track/2EXrZBkM93UvAPAmeXRlHs"
+    },
+    {
+      "album": {
+        "name": "GIRI GIRI",
+        "url": "https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN"
+      },
+      "artists": [
+        {
+          "name": "Masayuki Suzuki",
+          "url": "https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF"
+        },
+        {
+          "name": "\u3059\u3045",
+          "url": "https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258765,
+      "name": "GIRI GIRI",
+      "url": "https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ"
+    },
+    {
+      "album": {
+        "name": "heart notes",
+        "url": "https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u611b\u7406",
+          "url": "https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257206,
+      "name": "heart notes",
+      "url": "https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0"
+    },
+    {
+      "album": {
+        "name": "Love is Show",
+        "url": "https://open.spotify.com/album/2bcEQN6dTexArpv0SqCpL5"
+      },
+      "artists": [
+        {
+          "name": "Masayuki Suzuki",
+          "url": "https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF"
+        },
+        {
+          "name": "\u9ad8\u57ce\u308c\u306b",
+          "url": "https://open.spotify.com/artist/2CxNK0ldwLmusTYWs11geL"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242027,
+      "name": "Love is Show",
+      "url": "https://open.spotify.com/track/1wPOJ0SBOqbrs8Zw7wte88"
+    },
+    {
+      "album": {
+        "name": "My Nonfiction",
+        "url": "https://open.spotify.com/album/2naRwNTQ1LHtsxQjDOCZ7R"
+      },
+      "artists": [
+        {
+          "name": "\u767d\u9280\u5fa1\u884c(CV:\u53e4\u5ddd\u614e)",
+          "url": "https://open.spotify.com/artist/0oTiO95sHpwUlOp7RZ2mPp"
+        },
+        {
+          "name": "\u85e4\u539f\u5343\u82b1(CV:\u5c0f\u539f\u597d\u7f8e)",
+          "url": "https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155931,
+      "name": "My Nonfiction",
+      "url": "https://open.spotify.com/track/77wmpTzmexp0gvyeQq45zV"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93973,
+      "name": "\u3042\u306a\u305f\u306e\u30cf\u30fc\u30c8\u306b\u30d8\u30c3\u30c9\u30b7\u30e7\u30c3\u30c8\uff01",
+      "url": "https://open.spotify.com/track/3mxJTUKQBVlW4gsYCdCrhN"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u544aRADIO",
+          "url": "https://open.spotify.com/artist/1087aeXm9MVViKZqVZORvg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254186,
+      "name": "\u3042\u308a\u304c\u3068\u3046\u3002",
+      "url": "https://open.spotify.com/track/3ZNQgUfC4OG7iQPhXm2iyd"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73240,
+      "name": "\u304b\u3050\u3084\u69d8",
+      "url": "https://open.spotify.com/track/2t4GTlU94UjdYcSP8Fol3Q"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74720,
+      "name": "\u304c\u3093\u3070\u308c\u30fc\uff01",
+      "url": "https://open.spotify.com/track/1yKEQZgIW7dFtHeLZJvX1Q"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116440,
+      "name": "\u3052\u3063",
+      "url": "https://open.spotify.com/track/6CHSrZ0w23gdAxsJxxaPoC"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128266,
+      "name": "\u3053\u306e\uff11\u5e74",
+      "url": "https://open.spotify.com/track/5JEZbjLnsCrRDoXbRe1U0c"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94866,
+      "name": "\u305d\u3046\u3044\u3046\u590f",
+      "url": "https://open.spotify.com/track/70SmAOzw3GUxA9TsmSMYKw"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68946,
+      "name": "\u305d\u3046\u3044\u3046\u76eeB",
+      "url": "https://open.spotify.com/track/2dZbmpUrEwElbil8oGgqKi"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148400,
+      "name": "\u3061\u3083\u3093\u3068\u898b\u308b\u3060\u3051\u3067",
+      "url": "https://open.spotify.com/track/5Fa3XR9i6AM1zoKjM1EgQH"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96800,
+      "name": "\u3064\u3070\u3081\u5148\u8f29",
+      "url": "https://open.spotify.com/track/45BOFzgDNrfExqVHywmryX"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142426,
+      "name": "\u3072\u305f\u3080\u304d",
+      "url": "https://open.spotify.com/track/29waYswQXk3iKV3FvUi5KU"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52866,
+      "name": "\u3072\u3068\u308a",
+      "url": "https://open.spotify.com/track/1cCmFAvyBHk8v6OnytN3o1"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90346,
+      "name": "\u3076\u3063\u3061\u3083\u3051",
+      "url": "https://open.spotify.com/track/1QELpj87Lmz9PhcLWoEp2M"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66293,
+      "name": "\u307e\u3055\u306b\u5730\u7344",
+      "url": "https://open.spotify.com/track/6Tn20BToN4tjK32BH2fdEe"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96240,
+      "name": "\u3080\u304b\u30fc\u3057\u3080\u304b\u3057",
+      "url": "https://open.spotify.com/track/2xxd9ckwkWB45JzJNgTYX9"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71453,
+      "name": "\u3082\u3066\u306a\u3057",
+      "url": "https://open.spotify.com/track/2HfNhVt0rKyEhGkwcxr3lR"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254040,
+      "name": "\u3084\u3055\u3057\u3055\u306e\u8a18\u61b6",
+      "url": "https://open.spotify.com/track/1dKN4gUy9GaUMn0p0IBtxB"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u544aRADIO",
+          "url": "https://open.spotify.com/artist/1087aeXm9MVViKZqVZORvg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252653,
+      "name": "\u30a2\u30aa\u30cf\u30eb",
+      "url": "https://open.spotify.com/track/3SU6QfO8sxcXi6XcUpSlHy"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68613,
+      "name": "\u30a2\u30af\u30b7\u30c7\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/4pHn5jeJLCtzT0h8LJnQzE"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66186,
+      "name": "\u30a4\u30d9\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/2XhjtnfRWl5kJPWPIBfYJr"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u4e95\u91ce\u30df\u30b3(CV:\u5bcc\u7530\u7f8e\u6182)",
+          "url": "https://open.spotify.com/artist/2Whrp7tcNj5hbnbz2iMvzG"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257545,
+      "name": "\u30aa\u30bb\u30ed",
+      "url": "https://open.spotify.com/track/1xGdgFKUohOdZNPwTHn5Tg"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39066,
+      "name": "\u30ad\u30df\u3060\u3051\u306e",
+      "url": "https://open.spotify.com/track/1DSQ0WAk4RvIAosMF3neyP"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98386,
+      "name": "\u30b2\u30fc\u30e0\u3057\u307e\u3057\u3087\u3046\uff01",
+      "url": "https://open.spotify.com/track/6QL2KO5yrEUyECQhZcDKRv"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67720,
+      "name": "\u30b4\u30c3\u30c9\u30cf\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/32Ql1M3S7rZhgdKJ6eUsQ8"
+    },
+    {
+      "album": {
+        "name": "Assortrip",
+        "url": "https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ"
+      },
+      "artists": [
+        {
+          "name": "halca",
+          "url": "https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243960,
+      "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30af\u30e9\u30a4\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u56db\u5bae\u304b\u3050\u3084(CV:\u53e4\u8cc0\u8475)",
+          "url": "https://open.spotify.com/artist/5dsjmUaFAqJvIN8PJ1n3Ay"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240920,
+      "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30af\u30e9\u30a4\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/0W4Ke3QvBn1I8jBqbv9A0X"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206653,
+      "name": "\u30bd\u30fc\u30e9\u30f3\u7bc0 (\u79c0\u77e5\u9662\u5b66\u5712\u4f53\u80b2\u796dver.)",
+      "url": "https://open.spotify.com/track/1s1jG27fmKbees3BMDKBD7"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u539f\u5343\u82b1(CV:\u5c0f\u539f\u597d\u7f8e)",
+          "url": "https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "\u30c1\u30ab\u3063\u3068\u30c1\u30ab\u5343\u82b1\u3063",
+      "url": "https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38786,
+      "name": "\u30c1\u30e3\u30f3\u30b9\u6765\u305f\u3041\u3042\u3042\uff01",
+      "url": "https://open.spotify.com/track/4g1tQ4Cgx0aS5S6I7NbZik"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30fc\u30c8\u306f\u304a\u624b\u4e0a\u3052",
+        "url": "https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u611b\u7406",
+          "url": "https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227027,
+      "name": "\u30cf\u30fc\u30c8\u306f\u304a\u624b\u4e0a\u3052",
+      "url": "https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86280,
+      "name": "\u30d1\u30d1\u6d3b",
+      "url": "https://open.spotify.com/track/1SLPwVMfhmG6ZNPzBWh953"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95706,
+      "name": "\u30de\u30c3\u30b9\u30eb\u30af\u30a4\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/590sfHJhZnhcrTadRTWPga"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30fb\u30c9\u30e9\u30de\u30c6\u30a3\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1NIPOt9WMMqNIpXA3adOPj"
+      },
+      "artists": [
+        {
+          "name": "Masayuki Suzuki",
+          "url": "https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF"
+        },
+        {
+          "name": "\u4f0a\u539f\u516d\u82b1",
+          "url": "https://open.spotify.com/artist/2oHiy1x5X3FnhsLrrS6IEo"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263613,
+      "name": "\u30e9\u30d6\u30fb\u30c9\u30e9\u30de\u30c6\u30a3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/7AhMVnj6N89jmuCKNyr0AZ"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u767d\u9280\u5fa1\u884c(CV:\u53e4\u5ddd\u614e)",
+          "url": "https://open.spotify.com/artist/0oTiO95sHpwUlOp7RZ2mPp"
+        },
+        {
+          "name": "\u56db\u5bae\u304b\u3050\u3084(CV:\u53e4\u8cc0\u8475)",
+          "url": "https://open.spotify.com/artist/5dsjmUaFAqJvIN8PJ1n3Ay"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262800,
+      "name": "\u30e9\u30d6\u30fb\u30c9\u30e9\u30de\u30c6\u30a3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/18PEZBX1d4r1oqblWFMnai"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af\u30de\u30cb\u30d5\u30a7\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/4RsEb8TXkdM9a1nqNzv0rw"
+      },
+      "artists": [
+        {
+          "name": "halca",
+          "url": "https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246306,
+      "name": "\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af\u30de\u30cb\u30d5\u30a7\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/5zTs0vqU5ecrsvbYdRVdBB"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78506,
+      "name": "\u4ed5\u65b9\u306a\u3044\u3067\u3059\u306d",
+      "url": "https://open.spotify.com/track/7tCmT2cDZcd30eUc09T2Mi"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129493,
+      "name": "\u4fe1\u3058\u3066",
+      "url": "https://open.spotify.com/track/5kKxGoeQZvWLY0OYI52D7E"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51906,
+      "name": "\u4ffa\u306e\u30ce\u30f3\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3HokcfkDGKT3OIOvMk7mBq"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69506,
+      "name": "\u4ffa\u306e\u5973\u306b",
+      "url": "https://open.spotify.com/track/0oO1L6XCXDey0YIqQi49iG"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71520,
+      "name": "\u5065\u5eb7\u512a\u826f\u5150",
+      "url": "https://open.spotify.com/track/6uFSAxI9H2KA7zaZTDLTuj"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73946,
+      "name": "\u52a9\u3051\u3066",
+      "url": "https://open.spotify.com/track/43uPV9RUo5u8XTxzJdfnlR"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82426,
+      "name": "\u544a\u767d",
+      "url": "https://open.spotify.com/track/08Hcz6DxSUsvJo13dsvyI1"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66880,
+      "name": "\u5b8c\u6557",
+      "url": "https://open.spotify.com/track/7qCWtimMAnq4lMUVrFY9a7"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107146,
+      "name": "\u5bfeF\u4ed5\u69d8",
+      "url": "https://open.spotify.com/track/1klyEfENqoPTYumR5yXtb3"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134826,
+      "name": "\u5f37\u304f\u306a\u3093\u3066\u306a\u3044",
+      "url": "https://open.spotify.com/track/5ZDDIWZhlM4byn4dSUs9OS"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93160,
+      "name": "\u5fc3\u306b\u4e88\u9632\u7dda",
+      "url": "https://open.spotify.com/track/0Z16qAlx4D50sbkOli4sw6"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131853,
+      "name": "\u601d\u3044",
+      "url": "https://open.spotify.com/track/3sOYvziFpBliJnOLrgpLyA"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u897f\u7530\u572d\u7a00",
+          "url": "https://open.spotify.com/artist/65ZK9nLtUCgjxoeuJaEHF6"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250680,
+      "name": "\u60b2\u3057\u304f\u3066 lulululu -Original ver.-",
+      "url": "https://open.spotify.com/track/4FVQ7SLv1xLgNRi4y1Dp0m"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u897f\u7530\u572d\u7a00",
+          "url": "https://open.spotify.com/artist/65ZK9nLtUCgjxoeuJaEHF6"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249680,
+      "name": "\u60b2\u3057\u304f\u3066 lulululu -\u30cf\u30fc\u30b5\u30abver.-",
+      "url": "https://open.spotify.com/track/5zLU6TJa4pe5rBQpr36blk"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75293,
+      "name": "\u6557\u5317",
+      "url": "https://open.spotify.com/track/0Tbllp57D0nvcu6TpaSk44"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98720,
+      "name": "\u6587\u5316\u796d\u30de\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/5kjZ1V2o5pGd0PwhrWhxuu"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u544aRADIO",
+          "url": "https://open.spotify.com/artist/1087aeXm9MVViKZqVZORvg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253946,
+      "name": "\u6625\u8272\u30ea\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/4QWU92eylm8p3bitClapHT"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126400,
+      "name": "\u672c\u5f53\u306e\u79c1",
+      "url": "https://open.spotify.com/track/4h0ZfvzrTe0OvyPvvsoO7f"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80240,
+      "name": "\u6ce3\u304f\u307b\u3069",
+      "url": "https://open.spotify.com/track/4AC7g3agk0gKpu3LrdNk0Y"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124866,
+      "name": "\u6f14\u8aac\u306f\u30fc\u3063\uff01\uff1f",
+      "url": "https://open.spotify.com/track/46PtbvLGRcgYXQCBKwzjzq"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72173,
+      "name": "\u751f\u5f92\u4f1a\u5ba4",
+      "url": "https://open.spotify.com/track/1VSOi3mIAumYPilxoG4JeY"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147733,
+      "name": "\u77e5\u3063\u3066\u6b32\u3057\u304f\u3066",
+      "url": "https://open.spotify.com/track/3Zz5gR59yMRdqiKgUhOSal"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78973,
+      "name": "\u78ba\u4fe1",
+      "url": "https://open.spotify.com/track/79Fo3eXsh4x5AEvrjFg8ZN"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230240,
+      "name": "\u79c0\u77e5\u9662\u5b66\u5712\u6821\u6b4c",
+      "url": "https://open.spotify.com/track/08cOAJyqDK6E7JT1jy78e7"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108493,
+      "name": "\u79c1\u3082\u3057\u305f\u3044",
+      "url": "https://open.spotify.com/track/4LcWIyl73OsY6Q8esmd7k9"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82666,
+      "name": "\u79c1\u7acb\u79c0\u77e5\u9662\u5b66\u5712",
+      "url": "https://open.spotify.com/track/0Y8NRL95mkeQRJ4otH7l5t"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u56db\u5bae\u304b\u3050\u3084(CV:\u53e4\u8cc0\u8475)",
+          "url": "https://open.spotify.com/artist/5dsjmUaFAqJvIN8PJ1n3Ay"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310973,
+      "name": "\u7b54\u3048\u5408\u308f\u305b",
+      "url": "https://open.spotify.com/track/4YcVLcYlOAMfni0yzf1nzy"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68600,
+      "name": "\u7d14\u91d1\u98fe\u7dd2",
+      "url": "https://open.spotify.com/track/2eGyLLxyTEOY26DUb0aLiW"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85800,
+      "name": "\u7d1b\u308c\u3082\u7121\u304f\u6bba\u610f",
+      "url": "https://open.spotify.com/track/1LxDKJ2dONXzUFLpaDw58R"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88960,
+      "name": "\u7d42\u308f\u3063\u305f......!",
+      "url": "https://open.spotify.com/track/3NcwMyemzFlkp4Xv6R4hiv"
+    },
+    {
+      "album": {
+        "name": "KAGUYA ULTRA BEST",
+        "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u539f\u5343\u82b1(CV:\u5c0f\u539f\u597d\u7f8e)",
+          "url": "https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288413,
+      "name": "\u7ffc\u3092\u3042\u3052\u305f\u3044",
+      "url": "https://open.spotify.com/track/2kOjXysx8qyzEzYGnTbmow"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75440,
+      "name": "\u899a\u609f",
+      "url": "https://open.spotify.com/track/0TPFL7I4lD6hzvUDW62OLO"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92053,
+      "name": "\u8a31\u3057\u3066\u306f\u3044\u3051\u306a\u3044\u308f",
+      "url": "https://open.spotify.com/track/6x2AEwJiu06xz6f20brCYd"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "\u8a95\u751f\u65e5",
+      "url": "https://open.spotify.com/track/15vAw4BHpWGgEJpXqlyCYo"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69253,
+      "name": "\u9593\u63a5\u30ad\u2026\u2026",
+      "url": "https://open.spotify.com/track/5nq7LH2smwREjrQtUziT6d"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season2",
+        "url": "https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139306,
+      "name": "\u9593\u9055\u3063\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/6l2ut29Xk75agCI73QuwdO"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30eb\u30ab\u30ab\u30ca\u30bf\u30d8",
+        "url": "https://open.spotify.com/album/6vkvEwrB0FClvO0pMg7FLq"
+      },
+      "artists": [
+        {
+          "name": "\u798f\u539f \u9065",
+          "url": "https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272826,
+      "name": "\u98a8\u306b\u5439\u304b\u308c\u3066",
+      "url": "https://open.spotify.com/track/6qi17D1xjNEFMLpYwFurV1"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season3",
+        "url": "https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106733,
+      "name": "\u9b54\u5973\u306e\u9928",
+      "url": "https://open.spotify.com/track/0Cl7mvysw3gzg8YeGx9YMi"
+    },
+    {
+      "album": {
+        "name": "KAGUYA Music Collection Season1",
+        "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
+      },
+      "artists": [
+        {
+          "name": "\u7fbd\u5ca1 \u4f73",
+          "url": "https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109253,
+      "name": "\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/0xnuIoUVDqG4WUjtoMVKHq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9GwUIoGGDbm"
 }

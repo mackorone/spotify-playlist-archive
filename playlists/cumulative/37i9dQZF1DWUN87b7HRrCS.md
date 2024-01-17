@@ -4,14 +4,16 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-92 songs - 5 hr 57 min
+97 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bossa for Love](https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Smile For Me](https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK) | 3:30 | 2023-08-17 |  |
 | [A Little Brighter Every Day](https://open.spotify.com/track/7xPLrNKJ5fHIV4gm2MtMZK) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [A Little Brighter Every Day](https://open.spotify.com/album/46LYThMVZtZb45xNBQvqmp) | 3:17 | 2023-05-11 |  |
 | [Above the Clouds](https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:00 | 2023-08-24 |  |
+| [Amanhã](https://open.spotify.com/track/4vZrmDFysiHR2gUORSfpvM) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Amanhã](https://open.spotify.com/album/11WpvblIjfo4CQN04AtDhu) | 3:25 | 2024-01-12 |  |
 | [Anita's Dream](https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Anita's Dream](https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b) | 3:07 | 2023-11-17 |  |
+| [As Irrational As Love](https://open.spotify.com/track/4KFTPKOpnL7GoGrXArHANm) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [As Irrational As Love](https://open.spotify.com/album/2QUZjdU2k2Y48BDOocNf7v) | 3:44 | 2024-01-12 |  |
 | [Beatrice](https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5) | [Sunset Cafe Jazz Band](https://open.spotify.com/artist/3sKiXQhuMcP5SwY9qYvzfk) | [All of Me](https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq) | 4:30 | 2023-05-11 |  |
 | [Belém](https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Belém](https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H) | 2:53 | 2023-12-08 |  |
 | [Boomerang](https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Boomerang](https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb) | 3:27 | 2023-10-06 |  |
@@ -50,6 +52,7 @@
 | [I've Never Been in Love Before](https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I've Never Been in Love Before](https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1) | 3:56 | 2023-05-11 |  |
 | [Insônia](https://open.spotify.com/track/4Q92ioXrNYiaLaRDJEc1mq) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 2:44 | 2023-05-11 |  |
 | [Inútil paisagem](https://open.spotify.com/track/4VhDH7KDHeYqyGcRTity4J) | [Juliano Vidal Band](https://open.spotify.com/artist/5ZOhtZZUJLIUeiZOEJwVa2) | [O Morro Nao Tem Vez](https://open.spotify.com/album/1wgx5igIEBKoVA9jKGegKD) | 4:23 | 2023-05-11 |  |
+| [Just Chill and Breathe](https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Just Chill and Breathe](https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA) | 3:11 | 2024-01-12 |  |
 | [La Boca](https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [La Boca](https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5) | 4:04 | 2023-09-22 |  |
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2023-05-11 |  |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-05-11 |  |
@@ -79,6 +82,7 @@
 | [Saudade](https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Saudade](https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu) | 2:40 | 2023-10-20 |  |
 | [Seu Sorriso](https://open.spotify.com/track/4tQ8S7exeZTiZ1DAYWgchp) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Seu Sorriso](https://open.spotify.com/album/7t8vEsRo1BMzxObmka9RKs) | 3:06 | 2023-12-08 |  |
 | [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-05-11 |  |
+| [Sobre o oceano](https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Sobre o oceano](https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx) | 2:50 | 2024-01-12 |  |
 | [Sombra La Lua](https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Sombra La Lua](https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5) | 3:46 | 2023-11-17 |  |
 | [Song for My Father](https://open.spotify.com/track/6m4SAo4N6YGD5JJCLFoPDU) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [Killer Joe](https://open.spotify.com/album/27bI53AGLeovNbXmBzUnN2) | 3:42 | 2023-05-11 |  |
 | [Standing Tall](https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:51 | 2023-05-11 |  |
@@ -89,6 +93,7 @@
 | [Tangeri](https://open.spotify.com/track/6ihB2dtJ91MxDE6sD13kty) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Here Now](https://open.spotify.com/album/4zoSsjGlKk9Ny6BrdSNNPY) | 4:44 | 2023-11-17 |  |
 | [The Look Of Love](https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [The Look Of Love](https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH) | 2:13 | 2023-05-25 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2023-05-11 |  |
+| [The winner takes it all](https://open.spotify.com/track/02Psb0agmZobapdLYj8Iax) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [The winner takes it all](https://open.spotify.com/album/1i2L2zQlWf6Z36fGt7kmSg) | 2:54 | 2024-01-05 |  |
 | [Time Passes By](https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Time Passes By](https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u) | 2:31 | 2023-10-13 |  |
 | [Time Passing Slowly](https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Time Passing Slowly](https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv) | 3:38 | 2023-05-11 |  |
 | [Verano](https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Verano](https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX) | 2:52 | 2023-05-11 |  |

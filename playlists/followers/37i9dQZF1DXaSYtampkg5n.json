@@ -1,631 +1,2207 @@
 {
-  "2022-04-09": 109984,
-  "2022-04-10": 110078,
-  "2022-04-11": 110121,
-  "2022-04-12": 110122,
-  "2022-04-13": 110159,
-  "2022-04-14": 110207,
-  "2022-04-15": 110236,
-  "2022-04-16": 110281,
-  "2022-04-17": 110331,
-  "2022-04-18": 110388,
-  "2022-04-19": 110442,
-  "2022-04-20": 110488,
-  "2022-04-21": 110541,
-  "2022-04-22": 110601,
-  "2022-04-23": 110638,
-  "2022-04-24": 110682,
-  "2022-04-25": 110739,
-  "2022-04-26": 110775,
-  "2022-04-27": 110829,
-  "2022-04-28": 110874,
-  "2022-04-29": 110918,
-  "2022-04-30": 110969,
-  "2022-05-01": 111028,
-  "2022-05-02": 111028,
-  "2022-05-03": 111055,
-  "2022-05-04": 111093,
-  "2022-05-05": 111138,
-  "2022-05-06": 111175,
-  "2022-05-07": 111218,
-  "2022-05-08": 111298,
-  "2022-05-09": 111300,
-  "2022-05-10": 111335,
-  "2022-05-11": 111368,
-  "2022-05-12": 111409,
-  "2022-05-13": 111462,
-  "2022-05-14": 111507,
-  "2022-05-15": 111572,
-  "2022-05-16": 111625,
-  "2022-05-17": 111661,
-  "2022-05-18": 111715,
-  "2022-05-19": 111766,
-  "2022-05-20": 111829,
-  "2022-05-21": 111934,
-  "2022-05-22": 111934,
-  "2022-05-23": 111993,
-  "2022-05-24": 112034,
-  "2022-05-25": 112066,
-  "2022-05-26": 112102,
-  "2022-05-27": 112162,
-  "2022-05-28": 112211,
-  "2022-05-29": 112263,
-  "2022-05-30": 112303,
-  "2022-05-31": 112337,
-  "2022-06-01": 112412,
-  "2022-06-02": 112414,
-  "2022-06-03": 112455,
-  "2022-06-04": 112505,
-  "2022-06-05": 112561,
-  "2022-06-06": 112618,
-  "2022-06-07": 112655,
-  "2022-06-08": 112718,
-  "2022-06-09": 112762,
-  "2022-06-10": 112804,
-  "2022-06-11": 112879,
-  "2022-06-12": 112938,
-  "2022-06-13": 112988,
-  "2022-06-14": 113037,
-  "2022-06-15": 113124,
-  "2022-06-16": 113180,
-  "2022-06-17": 113243,
-  "2022-06-18": 113300,
-  "2022-06-19": 113426,
-  "2022-06-20": 113426,
-  "2022-06-21": 113446,
-  "2022-06-22": 113527,
-  "2022-06-23": 113527,
-  "2022-06-24": 113574,
-  "2022-06-25": 113601,
-  "2022-06-26": 113630,
-  "2022-06-27": 113685,
-  "2022-06-28": 113714,
-  "2022-06-29": 113756,
-  "2022-06-30": 113848,
-  "2022-07-01": 113925,
-  "2022-07-02": 114020,
-  "2022-07-03": 114111,
-  "2022-07-04": 114202,
-  "2022-07-05": 114276,
-  "2022-07-06": 114349,
-  "2022-07-07": 114392,
-  "2022-07-08": 114431,
-  "2022-07-09": 114480,
-  "2022-07-10": 114516,
-  "2022-07-11": 114565,
-  "2022-07-12": 114588,
-  "2022-07-13": 114624,
-  "2022-07-14": 114683,
-  "2022-07-15": 114733,
-  "2022-07-16": 114798,
-  "2022-07-17": 114867,
-  "2022-07-18": 114925,
-  "2022-07-19": 114982,
-  "2022-07-20": 115030,
-  "2022-07-21": 115070,
-  "2022-07-22": 115127,
-  "2022-07-23": 115175,
-  "2022-07-24": 115218,
-  "2022-07-25": 115262,
-  "2022-07-26": 115292,
-  "2022-07-27": 115331,
-  "2022-07-28": 115377,
-  "2022-07-29": 115411,
-  "2022-07-30": 115515,
-  "2022-07-31": 115515,
-  "2022-08-01": 115582,
-  "2022-08-02": 115695,
-  "2022-08-03": 115695,
-  "2022-08-04": 115764,
-  "2022-08-05": 115821,
-  "2022-08-06": 115875,
-  "2022-08-07": 115936,
-  "2022-08-08": 116004,
-  "2022-08-09": 116051,
-  "2022-08-10": 116101,
-  "2022-08-11": 116141,
-  "2022-08-12": 116199,
-  "2022-08-13": 116252,
-  "2022-08-14": 116300,
-  "2022-08-15": 116345,
-  "2022-08-16": 116392,
-  "2022-08-17": 116432,
-  "2022-08-18": 116466,
-  "2022-08-19": 116519,
-  "2022-08-20": 116566,
-  "2022-08-21": 116616,
-  "2022-08-22": 116666,
-  "2022-08-23": 116713,
-  "2022-08-24": 116775,
-  "2022-08-25": 116814,
-  "2022-08-26": 116850,
-  "2022-08-27": 116896,
-  "2022-08-28": 116953,
-  "2022-08-29": 116986,
-  "2022-08-30": 116979,
-  "2022-08-31": 116933,
-  "2022-09-01": 116878,
-  "2022-09-02": 116819,
-  "2022-09-03": 116709,
-  "2022-09-04": 116700,
-  "2022-09-05": 116726,
-  "2022-09-06": 116755,
-  "2022-09-07": 116780,
-  "2022-09-09": 116837,
-  "2022-09-10": 116858,
-  "2022-09-11": 116891,
-  "2022-09-12": 116920,
-  "2022-09-13": 116944,
-  "2022-09-15": 116972,
-  "2022-09-16": 117006,
-  "2022-09-17": 117030,
-  "2022-09-18": 117069,
-  "2022-09-19": 117119,
-  "2022-09-20": 117141,
-  "2022-09-21": 117165,
-  "2022-09-22": 117188,
-  "2022-09-23": 117218,
-  "2022-09-24": 117250,
-  "2022-09-25": 117294,
-  "2022-09-26": 117325,
-  "2022-09-27": 117355,
-  "2022-09-28": 117366,
-  "2022-09-29": 117405,
-  "2022-09-30": 117436,
-  "2022-10-01": 117471,
-  "2022-10-02": 117507,
-  "2022-10-03": 117545,
-  "2022-10-04": 117553,
-  "2022-10-05": 117569,
-  "2022-10-06": 117599,
-  "2022-10-07": 117628,
-  "2022-10-08": 117657,
-  "2022-10-09": 117711,
-  "2022-10-10": 117719,
-  "2022-10-11": 117743,
-  "2022-10-12": 117758,
-  "2022-10-13": 117779,
-  "2022-10-14": 117809,
-  "2022-10-15": 117838,
-  "2022-10-16": 117866,
-  "2022-10-17": 117898,
-  "2022-10-18": 117903,
-  "2022-10-19": 117927,
-  "2022-10-20": 117944,
-  "2022-10-21": 117976,
-  "2022-10-22": 117999,
-  "2022-10-23": 118023,
-  "2022-10-24": 118054,
-  "2022-10-25": 118069,
-  "2022-10-26": 118094,
-  "2022-10-27": 118115,
-  "2022-10-28": 118140,
-  "2022-10-29": 118172,
-  "2022-10-30": 118207,
-  "2022-10-31": 118241,
-  "2022-11-01": 118265,
-  "2022-11-02": 118282,
-  "2022-11-03": 118308,
-  "2022-11-04": 118320,
-  "2022-11-05": 118349,
-  "2022-11-06": 118388,
-  "2022-11-07": 118423,
-  "2022-11-08": 118455,
-  "2022-11-09": 118490,
-  "2022-11-10": 118518,
-  "2022-11-11": 118554,
-  "2022-11-12": 118582,
-  "2022-11-13": 118609,
-  "2022-11-14": 118641,
-  "2022-11-15": 118673,
-  "2022-11-16": 118696,
-  "2022-11-17": 118721,
-  "2022-11-18": 118725,
-  "2022-11-19": 118727,
-  "2022-11-20": 118752,
-  "2022-11-21": 118788,
-  "2022-11-22": 118818,
-  "2022-11-23": 118843,
-  "2022-11-24": 118928,
-  "2022-11-25": 118988,
-  "2022-11-26": 119025,
-  "2022-11-27": 119068,
-  "2022-11-28": 119117,
-  "2022-11-29": 119142,
-  "2022-11-30": 119182,
-  "2022-12-01": 119221,
-  "2022-12-02": 119245,
-  "2022-12-03": 119287,
-  "2022-12-04": 119319,
-  "2022-12-05": 119349,
-  "2022-12-06": 119381,
-  "2022-12-07": 119422,
-  "2022-12-08": 119451,
-  "2022-12-09": 119494,
-  "2022-12-10": 119527,
-  "2022-12-11": 119554,
-  "2022-12-12": 119594,
-  "2022-12-13": 119610,
-  "2022-12-14": 119638,
-  "2022-12-15": 119651,
-  "2022-12-16": 119685,
-  "2022-12-17": 119725,
-  "2022-12-18": 119774,
-  "2022-12-19": 119801,
-  "2022-12-20": 119856,
-  "2022-12-21": 119856,
-  "2022-12-22": 119881,
-  "2022-12-24": 119951,
-  "2022-12-25": 119986,
-  "2022-12-26": 120022,
-  "2022-12-27": 120066,
-  "2022-12-28": 120108,
-  "2022-12-29": 120154,
-  "2022-12-30": 120191,
-  "2022-12-31": 120219,
-  "2023-01-01": 120257,
-  "2023-01-02": 120296,
-  "2023-01-03": 120340,
-  "2023-01-04": 120367,
-  "2023-01-05": 120411,
-  "2023-01-06": 120468,
-  "2023-01-07": 120564,
-  "2023-01-08": 120574,
-  "2023-01-09": 120629,
-  "2023-01-10": 120673,
-  "2023-01-11": 120715,
-  "2023-01-12": 120761,
-  "2023-01-13": 120806,
-  "2023-01-14": 120885,
-  "2023-01-15": 120905,
-  "2023-01-16": 120939,
-  "2023-01-17": 120973,
-  "2023-01-18": 121008,
-  "2023-01-19": 121046,
-  "2023-01-20": 121097,
-  "2023-01-21": 121143,
-  "2023-01-22": 121192,
-  "2023-01-23": 121239,
-  "2023-01-24": 121289,
-  "2023-01-25": 121327,
-  "2023-01-26": 121359,
-  "2023-01-27": 121393,
-  "2023-01-28": 121432,
-  "2023-01-29": 121491,
-  "2023-01-30": 121515,
-  "2023-01-31": 121515,
-  "2023-02-01": 121568,
-  "2023-02-02": 121604,
-  "2023-02-03": 121651,
-  "2023-02-04": 121696,
-  "2023-02-05": 121741,
-  "2023-02-06": 121790,
-  "2023-02-07": 121818,
-  "2023-02-08": 121891,
-  "2023-02-09": 121891,
-  "2023-02-10": 121931,
-  "2023-02-11": 121968,
-  "2023-02-12": 122074,
-  "2023-02-13": 122096,
-  "2023-02-14": 122096,
-  "2023-02-15": 122121,
-  "2023-02-16": 122159,
-  "2023-02-17": 122193,
-  "2023-02-18": 122272,
-  "2023-02-19": 122279,
-  "2023-02-20": 122310,
-  "2023-02-21": 122351,
-  "2023-02-22": 122389,
-  "2023-02-23": 122429,
-  "2023-02-24": 122474,
-  "2023-02-25": 122529,
-  "2023-02-26": 122571,
-  "2023-02-27": 122641,
-  "2023-02-28": 122641,
-  "2023-03-01": 122681,
-  "2023-03-02": 122702,
-  "2023-03-03": 122705,
-  "2023-03-04": 122708,
-  "2023-03-05": 122707,
-  "2023-03-06": 122707,
-  "2023-03-07": 122708,
-  "2023-03-08": 122712,
-  "2023-03-09": 122713,
-  "2023-03-10": 122709,
-  "2023-03-11": 122702,
-  "2023-03-12": 122696,
-  "2023-03-13": 122699,
-  "2023-03-14": 122699,
-  "2023-03-15": 122698,
-  "2023-03-16": 122695,
-  "2023-03-17": 122695,
-  "2023-03-18": 122703,
-  "2023-03-19": 122710,
-  "2023-03-20": 122709,
-  "2023-03-21": 122711,
-  "2023-03-22": 122708,
-  "2023-03-23": 122711,
-  "2023-03-24": 122711,
-  "2023-03-25": 122705,
-  "2023-03-26": 122709,
-  "2023-03-27": 122708,
-  "2023-03-28": 122702,
-  "2023-03-29": 122700,
-  "2023-03-30": 122690,
-  "2023-03-31": 122690,
-  "2023-04-01": 122686,
-  "2023-04-02": 122680,
-  "2023-04-03": 122679,
-  "2023-04-04": 122680,
-  "2023-04-05": 122677,
-  "2023-04-06": 122674,
-  "2023-04-07": 122668,
-  "2023-04-09": 122663,
-  "2023-04-10": 122659,
-  "2023-04-11": 122651,
-  "2023-04-12": 122651,
-  "2023-04-13": 122643,
-  "2023-04-14": 122640,
-  "2023-04-15": 122635,
-  "2023-04-16": 122628,
-  "2023-04-17": 122622,
-  "2023-04-18": 122625,
-  "2023-04-19": 122617,
-  "2023-04-20": 122614,
-  "2023-04-21": 122608,
-  "2023-04-22": 122609,
-  "2023-04-23": 122609,
-  "2023-04-24": 122612,
-  "2023-04-25": 122606,
-  "2023-04-26": 122592,
-  "2023-04-27": 122589,
-  "2023-04-28": 122579,
-  "2023-04-29": 122577,
-  "2023-04-30": 122580,
-  "2023-05-01": 122578,
-  "2023-05-02": 122575,
-  "2023-05-03": 122571,
-  "2023-05-04": 122566,
-  "2023-05-05": 122565,
-  "2023-05-06": 122560,
-  "2023-05-07": 122562,
-  "2023-05-08": 122551,
-  "2023-05-09": 122548,
-  "2023-05-10": 122543,
-  "2023-05-11": 122536,
-  "2023-05-12": 122535,
-  "2023-05-13": 122526,
-  "2023-05-14": 122524,
-  "2023-05-15": 122522,
-  "2023-05-16": 122517,
-  "2023-05-17": 122523,
-  "2023-05-18": 122537,
-  "2023-05-19": 122543,
-  "2023-05-20": 122560,
-  "2023-05-21": 122560,
-  "2023-05-22": 122560,
-  "2023-05-23": 122585,
-  "2023-05-24": 122596,
-  "2023-05-25": 122595,
-  "2023-05-26": 122607,
-  "2023-05-27": 122609,
-  "2023-05-28": 122628,
-  "2023-05-29": 122628,
-  "2023-05-30": 122653,
-  "2023-05-31": 122663,
-  "2023-06-01": 122667,
-  "2023-06-02": 122670,
-  "2023-06-03": 122665,
-  "2023-06-04": 122663,
-  "2023-06-05": 122671,
-  "2023-06-06": 122680,
-  "2023-06-07": 122675,
-  "2023-06-08": 122674,
-  "2023-06-09": 122672,
-  "2023-06-10": 122682,
-  "2023-06-11": 122682,
-  "2023-06-12": 122681,
-  "2023-06-13": 122688,
-  "2023-06-14": 122690,
-  "2023-06-15": 122694,
-  "2023-06-16": 122695,
-  "2023-06-17": 122693,
-  "2023-06-18": 122695,
-  "2023-06-19": 122695,
-  "2023-06-20": 122693,
-  "2023-06-21": 122697,
-  "2023-06-22": 122705,
-  "2023-06-23": 122718,
-  "2023-06-24": 122727,
-  "2023-06-25": 122742,
-  "2023-06-26": 122747,
-  "2023-06-27": 122754,
-  "2023-06-28": 122766,
-  "2023-06-29": 122770,
-  "2023-06-30": 122781,
-  "2023-07-01": 122807,
-  "2023-07-02": 122807,
-  "2023-07-03": 122815,
-  "2023-07-04": 122816,
-  "2023-07-05": 122824,
-  "2023-07-06": 122846,
-  "2023-07-07": 122846,
-  "2023-07-08": 122859,
-  "2023-07-09": 122878,
-  "2023-07-10": 122885,
-  "2023-07-11": 122896,
-  "2023-07-12": 122900,
-  "2023-07-13": 122910,
-  "2023-07-14": 122919,
-  "2023-07-15": 122923,
-  "2023-07-16": 122934,
-  "2023-07-17": 122946,
-  "2023-07-18": 122950,
-  "2023-07-19": 122958,
-  "2023-07-20": 122959,
-  "2023-07-21": 122961,
-  "2023-07-22": 122962,
-  "2023-07-23": 122976,
-  "2023-07-24": 122980,
-  "2023-07-25": 122975,
-  "2023-07-26": 122976,
-  "2023-07-27": 122984,
-  "2023-07-28": 122990,
-  "2023-07-29": 122992,
-  "2023-07-30": 122995,
-  "2023-07-31": 123006,
-  "2023-08-01": 123006,
-  "2023-08-02": 123006,
-  "2023-08-03": 123008,
-  "2023-08-04": 123004,
-  "2023-08-05": 123008,
-  "2023-08-06": 123024,
-  "2023-08-07": 123024,
-  "2023-08-08": 123028,
-  "2023-08-09": 123035,
-  "2023-08-10": 123039,
-  "2023-08-11": 123047,
-  "2023-08-12": 123048,
-  "2023-08-13": 123051,
-  "2023-08-14": 123061,
-  "2023-08-15": 123074,
-  "2023-08-16": 123074,
-  "2023-08-17": 123088,
-  "2023-08-18": 123097,
-  "2023-08-19": 123105,
-  "2023-08-20": 123114,
-  "2023-08-21": 123128,
-  "2023-08-22": 123131,
-  "2023-08-23": 123133,
-  "2023-08-24": 123135,
-  "2023-08-25": 123142,
-  "2023-08-26": 123150,
-  "2023-08-27": 123153,
-  "2023-08-28": 123158,
-  "2023-08-29": 123155,
-  "2023-08-30": 123151,
-  "2023-08-31": 123153,
-  "2023-09-01": 123166,
-  "2023-09-02": 123166,
-  "2023-09-03": 123167,
-  "2023-09-04": 123171,
-  "2023-09-05": 123178,
-  "2023-09-06": 123178,
-  "2023-09-07": 123177,
-  "2023-09-08": 123193,
-  "2023-09-09": 123197,
-  "2023-09-10": 123204,
-  "2023-09-11": 123205,
-  "2023-09-12": 123217,
-  "2023-09-13": 123224,
-  "2023-09-14": 123225,
-  "2023-09-15": 123225,
-  "2023-09-16": 123232,
-  "2023-09-17": 123232,
-  "2023-09-18": 123232,
-  "2023-09-19": 123233,
-  "2023-09-20": 123238,
-  "2023-09-21": 123238,
-  "2023-09-22": 123247,
-  "2023-09-23": 123246,
-  "2023-09-24": 123248,
-  "2023-09-25": 123250,
-  "2023-09-26": 123250,
-  "2023-09-27": 123255,
-  "2023-09-28": 123262,
-  "2023-09-29": 123263,
-  "2023-09-30": 123261,
-  "2023-10-01": 123263,
-  "2023-10-02": 123263,
-  "2023-10-03": 123259,
-  "2023-10-04": 123264,
-  "2023-10-05": 123268,
-  "2023-10-06": 123264,
-  "2023-10-07": 123270,
-  "2023-10-08": 123266,
-  "2023-10-09": 123261,
-  "2023-10-10": 123246,
-  "2023-10-11": 123228,
-  "2023-10-12": 123228,
-  "2023-10-13": 123218,
-  "2023-10-14": 123218,
-  "2023-10-15": 123207,
-  "2023-10-16": 123208,
-  "2023-10-17": 123213,
-  "2023-10-18": 123210,
-  "2023-10-19": 123220,
-  "2023-10-20": 123224,
-  "2023-10-21": 123235,
-  "2023-10-22": 123234,
-  "2023-10-23": 123236,
-  "2023-10-24": 123241,
-  "2023-10-25": 123240,
-  "2023-10-26": 123242,
-  "2023-10-27": 123247,
-  "2023-10-28": 123247,
-  "2023-10-29": 123247,
-  "2023-10-30": 123245,
-  "2023-10-31": 123245,
-  "2023-11-01": 123238,
-  "2023-11-02": 123243,
-  "2023-11-03": 123244,
-  "2023-11-04": 123244,
-  "2023-11-05": 123244,
-  "2023-11-06": 123248,
-  "2023-11-07": 123245,
-  "2023-11-08": 123243,
-  "2023-11-09": 123243,
-  "2023-11-10": 123244,
-  "2023-11-11": 123246,
-  "2023-11-12": 123242,
-  "2023-11-13": 123242,
-  "2023-11-14": 123236,
-  "2023-11-15": 123236,
-  "2023-11-16": 123226,
-  "2023-11-17": 123220,
-  "2023-11-18": 123220,
-  "2023-11-19": 123218,
-  "2023-11-20": 123211,
-  "2023-11-21": 123209,
-  "2023-11-22": 123212,
-  "2023-11-23": 123211,
-  "2023-11-24": 123211,
-  "2023-11-25": 123207,
-  "2023-11-26": 123207,
-  "2023-11-27": 123211,
-  "2023-11-28": 123213,
-  "2023-11-29": 123216,
-  "2023-11-30": 123216,
-  "2023-12-01": 123216,
-  "2023-12-02": 123201,
-  "2023-12-03": 123200,
-  "2023-12-04": 123200,
-  "2023-12-05": 123190,
-  "2023-12-06": 123187,
-  "2023-12-07": 123184,
-  "2023-12-08": 123184,
-  "2023-12-09": 123176,
-  "2023-12-10": 123176,
-  "2023-12-11": 123176,
-  "2023-12-12": 123176,
-  "2023-12-13": 123180,
-  "2023-12-14": 123186,
-  "2023-12-15": 123189,
-  "2023-12-16": 123189,
-  "2023-12-17": 123194,
-  "2023-12-18": 123195,
-  "2023-12-19": 123194,
-  "2023-12-20": 123189,
-  "2023-12-21": 123188,
-  "2023-12-22": 123189,
-  "2023-12-23": 123187,
-  "2023-12-24": 123188,
-  "2023-12-25": 123190,
-  "2023-12-26": 123187,
-  "2023-12-27": 123186,
-  "2023-12-30": 123188,
-  "2023-12-31": 123193,
-  "2024-01-01": 123193,
-  "2024-01-02": 123199,
-  "2024-01-03": 123191
+  "2024-01-17": 123121,
+  "date_first_scraped": "2022-04-09",
+  "description": "Sheer joy for sunny days in 50 old and new African jams.",
+  "name": "Pure Sunshine",
+  "tracks": [
+    {
+      "album": {
+        "name": "From Africa With Fury: Rise",
+        "url": "https://open.spotify.com/album/7bm0xSYvg2T9YMSHH0ULpT"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 316973,
+      "name": "African Soldier",
+      "url": "https://open.spotify.com/track/1sg7f2j7kMmeUrT2lf4I6w"
+    },
+    {
+      "album": {
+        "name": "From Africa With Fury: Rise",
+        "url": "https://open.spotify.com/album/3LNtsr41dMcpDEBoSq7sux"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 316973,
+      "name": "African Soldier",
+      "url": "https://open.spotify.com/track/1tbUmCysCajR0ATiaZ4jpO"
+    },
+    {
+      "album": {
+        "name": "From Africa With Fury: Rise",
+        "url": "https://open.spotify.com/album/2ifJESGupde7BuXW8U1aZV"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315973,
+      "name": "African Soldier",
+      "url": "https://open.spotify.com/track/5mTmOuw9eqvNMJZjlzpv2L"
+    },
+    {
+      "album": {
+        "name": "Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81",
+        "url": "https://open.spotify.com/album/6Q7IHMtwm5rvoTuPL8lUkz"
+      },
+      "artists": [
+        {
+          "name": "Gyedu-Blay Ambolley and His Creations",
+          "url": "https://open.spotify.com/artist/2sNHRUX6XU5Bnfnh8JOdZI"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 326493,
+      "name": "Akoko Ba",
+      "url": "https://open.spotify.com/track/29OXLtT3c3r7gJhLqT6YgL"
+    },
+    {
+      "album": {
+        "name": "Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81",
+        "url": "https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL"
+      },
+      "artists": [
+        {
+          "name": "Gyedu-Blay Ambolley and His Creations",
+          "url": "https://open.spotify.com/artist/2sNHRUX6XU5Bnfnh8JOdZI"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326493,
+      "name": "Akoko Ba",
+      "url": "https://open.spotify.com/track/67jYMnAQsCPM0CGtNTr8NM"
+    },
+    {
+      "album": {
+        "name": "Soundway presents Ghana Special (Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81)",
+        "url": "https://open.spotify.com/album/5DKrMCbixQ2EjIvSBcLM28"
+      },
+      "artists": [
+        {
+          "name": "Gyedu-Blay Ambolley and His Creations",
+          "url": "https://open.spotify.com/artist/2sNHRUX6XU5Bnfnh8JOdZI"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 326493,
+      "name": "Akoko Ba",
+      "url": "https://open.spotify.com/track/6WnEqnaH6d8iUbbguKCxsN"
+    },
+    {
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT"
+    },
+    {
+      "album": {
+        "name": "Afrobeat par Mondomix avec Tony Allen, Femi Kuti, Manu Dibango, KonKoma\u2026",
+        "url": "https://open.spotify.com/album/3G9vTcy2aN6A5qn1Yb8DJj"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/3DSebryZoyKDegPI7RV4QX"
+    },
+    {
+      "album": {
+        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
+        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP"
+    },
+    {
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/5ww9r75Y8JPRgAAc3qJPms"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        },
+        {
+          "name": "The Afro Sounders",
+          "url": "https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483986,
+      "name": "Alo Mi Alo (Parts 1 & 2)",
+      "url": "https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        },
+        {
+          "name": "The Afro Sounders",
+          "url": "https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 483986,
+      "name": "Alo Mi Alo (Parts 1 & 2)",
+      "url": "https://open.spotify.com/track/7COVviTaElmPDX7fX0FHGL"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents Funketeers, Vol. 3",
+        "url": "https://open.spotify.com/album/4USOs3dK9IXZShjZasmKJ2"
+      },
+      "artists": [
+        {
+          "name": "Fred Fisher",
+          "url": "https://open.spotify.com/artist/3XQnrGFC2HRRgTt2N2TXWC"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488866,
+      "name": "Asa-Sa",
+      "url": "https://open.spotify.com/track/6qjqjWxDUQJ9XPfCzwxPOW"
+    },
+    {
+      "album": {
+        "name": "Objectif Perfection (African Dancefloor Classics)",
+        "url": "https://open.spotify.com/album/0qZyPM2KOriazUJ9aJuE7x"
+      },
+      "artists": [
+        {
+          "name": "Balla Et Ses Balladins",
+          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 384666,
+      "name": "Assa",
+      "url": "https://open.spotify.com/track/5lnyo4q556OJN8d7fV9TYy"
+    },
+    {
+      "album": {
+        "name": "Objectif perfection",
+        "url": "https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4"
+      },
+      "artists": [
+        {
+          "name": "Balla Et Ses Balladins",
+          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384666,
+      "name": "Assa",
+      "url": "https://open.spotify.com/track/6ChuADJJyE7bfPUecz0vmN"
+    },
+    {
+      "album": {
+        "name": "Yahadi Guere",
+        "url": "https://open.spotify.com/album/73ulGjMC65pyFze3ldCsZ3"
+      },
+      "artists": [
+        {
+          "name": "Balla Et Ses Balladins",
+          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 387053,
+      "name": "Assa",
+      "url": "https://open.spotify.com/track/05O3zWIvISdeQxz8zokhhJ"
+    },
+    {
+      "album": {
+        "name": "R\u00e9sistance",
+        "url": "https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "Bamako",
+      "url": "https://open.spotify.com/track/1oSip9aq8h5GyJW0t3rcfn"
+    },
+    {
+      "album": {
+        "name": "Bamako",
+        "url": "https://open.spotify.com/album/5CZOiqYuHNc2dQ5jiIWWXT"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 220133,
+      "name": "Bamako",
+      "url": "https://open.spotify.com/track/47wrNHxFN1xCDSe2xGRJPB"
+    },
+    {
+      "album": {
+        "name": "Bamako",
+        "url": "https://open.spotify.com/album/23Z8ucEhhNBCQqthF47zuc"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220133,
+      "name": "Bamako",
+      "url": "https://open.spotify.com/track/4MtkmKfOfv9fPdS1nJCWgb"
+    },
+    {
+      "album": {
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/37eLqzuevZgrfsvHieEcRH"
+      },
+      "artists": [
+        {
+          "name": "Bibi Tanga & The Selenites",
+          "url": "https://open.spotify.com/artist/1wDClxPQ3dnP5IfginkLma"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256346,
+      "name": "Be Africa",
+      "url": "https://open.spotify.com/track/6a88SuJzJZoZW510kyhnv0"
+    },
+    {
+      "album": {
+        "name": "Calypso Romeo",
+        "url": "https://open.spotify.com/album/2AFff6hOOBPky0XrsjHYB3"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "Birth of Ghana",
+      "url": "https://open.spotify.com/track/0HFYcmjhjWUOb5DC0uA36t"
+    },
+    {
+      "album": {
+        "name": "London Is The Place For Me",
+        "url": "https://open.spotify.com/album/50ZsuvNW5mHYFqcFjNHd21"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172280,
+      "name": "Birth Of Ghana",
+      "url": "https://open.spotify.com/track/2xagaGJ2QGjoiyraaNs23Y"
+    },
+    {
+      "album": {
+        "name": "Birth of Ghana",
+        "url": "https://open.spotify.com/album/4YWjGGpvfjVOGT2dx1SsC5"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        },
+        {
+          "name": "Freddy Grant\u00b4s Caribean Rhythm",
+          "url": "https://open.spotify.com/artist/5Y0kKx4FMUAD5H0bkmVAzR"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168924,
+      "name": "Birth of Ghana",
+      "url": "https://open.spotify.com/track/2u9CRfZU4jCDB9p9tWjsMl"
+    },
+    {
+      "album": {
+        "name": "City In Lights",
+        "url": "https://open.spotify.com/album/0WBMcpOtxSmgTSe13HuErF"
+      },
+      "artists": [
+        {
+          "name": "Africa Express",
+          "url": "https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm"
+        },
+        {
+          "name": "Nick Zinner",
+          "url": "https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO"
+        },
+        {
+          "name": "Otim Alpha",
+          "url": "https://open.spotify.com/artist/07uMqKd2ikfAnQiyF0bNlV"
+        },
+        {
+          "name": "Mahotella Queens",
+          "url": "https://open.spotify.com/artist/2IUmEbKT6wvT8Jv7AEaMIA"
+        },
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "date_added": "2019-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241013,
+      "name": "City In Lights",
+      "url": "https://open.spotify.com/track/0FESwnCDY6Y2gbKDRQpWnr"
+    },
+    {
+      "album": {
+        "name": "EGOLI",
+        "url": "https://open.spotify.com/album/6XOtavVWhCDQTn6o10QeUB"
+      },
+      "artists": [
+        {
+          "name": "Africa Express",
+          "url": "https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm"
+        },
+        {
+          "name": "Nick Zinner",
+          "url": "https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO"
+        },
+        {
+          "name": "Otim Alpha",
+          "url": "https://open.spotify.com/artist/07uMqKd2ikfAnQiyF0bNlV"
+        },
+        {
+          "name": "Mahotella Queens",
+          "url": "https://open.spotify.com/artist/2IUmEbKT6wvT8Jv7AEaMIA"
+        },
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "date_added": "2019-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241013,
+      "name": "City In Lights",
+      "url": "https://open.spotify.com/track/1P7WPHbG33wHjDHVjH6v11"
+    },
+    {
+      "album": {
+        "name": "EGOLI",
+        "url": "https://open.spotify.com/album/2c7B7bFNWRMSubpagKaB7K"
+      },
+      "artists": [
+        {
+          "name": "Africa Express",
+          "url": "https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm"
+        },
+        {
+          "name": "Nick Zinner",
+          "url": "https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO"
+        },
+        {
+          "name": "Otim Alpha",
+          "url": "https://open.spotify.com/artist/07uMqKd2ikfAnQiyF0bNlV"
+        },
+        {
+          "name": "Mahotella Queens",
+          "url": "https://open.spotify.com/artist/2IUmEbKT6wvT8Jv7AEaMIA"
+        },
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "date_added": "2019-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241013,
+      "name": "City In Lights",
+      "url": "https://open.spotify.com/track/6nBah3NB7KQrcqWJxisVyQ"
+    },
+    {
+      "album": {
+        "name": "Tower of Silence",
+        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+      },
+      "artists": [
+        {
+          "name": "Roberto Musci",
+          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177255,
+      "name": "Claudia, Wilhelm R And Me",
+      "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
+    },
+    {
+      "album": {
+        "name": "Obaa Sima",
+        "url": "https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu"
+      },
+      "artists": [
+        {
+          "name": "Ata Kak",
+          "url": "https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367599,
+      "name": "Daa Nyinaa",
+      "url": "https://open.spotify.com/track/48lSNIKsrrwc9IhgP8XXwV"
+    },
+    {
+      "album": {
+        "name": "Obaa Sima",
+        "url": "https://open.spotify.com/album/5rWdCCXgUf8Ptz1goEmLKC"
+      },
+      "artists": [
+        {
+          "name": "Ata Kak",
+          "url": "https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 367599,
+      "name": "Daa Nyinaa",
+      "url": "https://open.spotify.com/track/567JRYU3Gxdvh9810wNc4s"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199013,
+      "name": "Dancing Time",
+      "url": "https://open.spotify.com/track/0injEpDsmEo9ejpMekkeQR"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents Funketeers, Vol. 2",
+        "url": "https://open.spotify.com/album/1hxuq8Z9sLH3pYupWe91XA"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201213,
+      "name": "Dancing Time",
+      "url": "https://open.spotify.com/track/0VTNFT7YW45zsrdCQBURgg"
+    },
+    {
+      "album": {
+        "name": "Dancing Time",
+        "url": "https://open.spotify.com/album/126myrNmHl3SNiRcmN22Co"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201213,
+      "name": "Dancing Time",
+      "url": "https://open.spotify.com/track/6T0o9t2gBrFKic4mvGpZhU"
+    },
+    {
+      "album": {
+        "name": "Antibalas",
+        "url": "https://open.spotify.com/album/4yMhiZusgnoNlDBHZks8lG"
+      },
+      "artists": [
+        {
+          "name": "Antibalas",
+          "url": "https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 375306,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/1LclSylnnHUKdrCZjS0V6M"
+    },
+    {
+      "album": {
+        "name": "Antibalas",
+        "url": "https://open.spotify.com/album/3XSANYFEaahq8DoY5FSwwM"
+      },
+      "artists": [
+        {
+          "name": "Antibalas",
+          "url": "https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375306,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/4kIcaK5ukJ1XwewfuO25XP"
+    },
+    {
+      "album": {
+        "name": "Antibalas",
+        "url": "https://open.spotify.com/album/2iS8BbypqWnaU4GlJQlJAF"
+      },
+      "artists": [
+        {
+          "name": "Antibalas",
+          "url": "https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 375306,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/634Boo3ThjlnOkURPKQLBP"
+    },
+    {
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
+    },
+    {
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
+    },
+    {
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
+    },
+    {
+      "album": {
+        "name": "Disco Hi-Life",
+        "url": "https://open.spotify.com/album/3imgLN3LrdTmKN5ZyoDBxU"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535000,
+      "name": "Disco Hi - Life",
+      "url": "https://open.spotify.com/track/7LRRSTX1m4CzW8MXnfoxa0"
+    },
+    {
+      "album": {
+        "name": "Disco Hi-Life",
+        "url": "https://open.spotify.com/album/3cUO83PVpSoMFOXQjmmvpC"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 535000,
+      "name": "Disco Hi -Life",
+      "url": "https://open.spotify.com/track/6youyUcVG2gttyQadZiCIl"
+    },
+    {
+      "album": {
+        "name": "Hot Casa Records, Vol. 1",
+        "url": "https://open.spotify.com/album/3pdmm1aqnSNlG6ckV2vhIP"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 535529,
+      "name": "Disco Hi-Life",
+      "url": "https://open.spotify.com/track/1xSp8X0HPAOtvwIPaosL5I"
+    },
+    {
+      "album": {
+        "name": "Golden Afrique, vol. 1 (Bolibana Collection)",
+        "url": "https://open.spotify.com/album/7mJvBakyfrHS1HAgCmn8tH"
+      },
+      "artists": [
+        {
+          "name": "Super Mama Djombo",
+          "url": "https://open.spotify.com/artist/38WRvRXIOeefhY4vRxEGrr"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312693,
+      "name": "Dissan Na M bera",
+      "url": "https://open.spotify.com/track/58npysd8ChDhTD4fqtdZhv"
+    },
+    {
+      "album": {
+        "name": "Djonsinho Cabral",
+        "url": "https://open.spotify.com/album/46Hgkni19D3rYUCI5qoyPj"
+      },
+      "artists": [
+        {
+          "name": "Os Tubar\u00f5es",
+          "url": "https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345379,
+      "name": "Djonsinho Cabral",
+      "url": "https://open.spotify.com/track/3o6gc8f9D97n96WfUMKpuv"
+    },
+    {
+      "album": {
+        "name": "Djonsinha cabral",
+        "url": "https://open.spotify.com/album/7yPOisIuVr5BJjTGfkobVX"
+      },
+      "artists": [
+        {
+          "name": "Os Tubar\u00f5es",
+          "url": "https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 345466,
+      "name": "Djonsinho cabral",
+      "url": "https://open.spotify.com/track/5r4EQ9mw1gtbwu0GKYeION"
+    },
+    {
+      "album": {
+        "name": "You No Fit Touch Am",
+        "url": "https://open.spotify.com/album/6Vtz6LOM6FKcxNW7vMkKeK"
+      },
+      "artists": [
+        {
+          "name": "Dele Sosimi",
+          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369877,
+      "name": "E Go Betta",
+      "url": "https://open.spotify.com/track/4oYuAdRxIVLed4LxpLH4Bn"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf"
+      },
+      "artists": [
+        {
+          "name": "Sahara All Stars Band Jos",
+          "url": "https://open.spotify.com/artist/2IY8SmR9pxmS7tOFAa8JFd"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 359120,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/7oYSpa5cP4N9Ri4DA2sWxa"
+    },
+    {
+      "album": {
+        "name": "Enjoy Yourself",
+        "url": "https://open.spotify.com/album/7gypen6SPcpqjxwc7CAoJA"
+      },
+      "artists": [
+        {
+          "name": "Sahara All Stars Band Jos.",
+          "url": "https://open.spotify.com/artist/11E58RQVNMMzzBWpi8J2rW"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362493,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/7BgOdtjbfgvip4BJRn9NmI"
+    },
+    {
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hxUXnxYUzclI1GTwpUMUh"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/0tVn1s7vUJcsbFhAGeeCLq"
+    },
+    {
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/2EFTCGlsFaSxZfELBtLXrc"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 392573,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/3anMkSns8d9sLKH0Tpya13"
+    },
+    {
+      "album": {
+        "name": "Soundway presents Nigeria Disco Funk Special (The Sound of the Underground Lagos Dancefloor 1974-1979)",
+        "url": "https://open.spotify.com/album/0dz2rEJQWICfv4tbVIJFbc"
+      },
+      "artists": [
+        {
+          "name": "Johnny Haastrup",
+          "url": "https://open.spotify.com/artist/2CQhdBxDO7W5bNDAYC82xb"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374253,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/2ha70kafYrxpwKB2DHLTJT"
+    },
+    {
+      "album": {
+        "name": "Wanted Afro Groove: From Diggers to Music Lovers",
+        "url": "https://open.spotify.com/album/4GioKadXUS5NdiWcIfSxU8"
+      },
+      "artists": [
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        },
+        {
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251663,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/4gO2Dz75IwkXgtX9squYJ7"
+    },
+    {
+      "album": {
+        "name": "Pat Thomas & Kwashibu Area Band",
+        "url": "https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC"
+      },
+      "artists": [
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        },
+        {
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252889,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf"
+    },
+    {
+      "album": {
+        "name": "Pat Thomas & Kwashibu Area Band",
+        "url": "https://open.spotify.com/album/0vI4coIOAGzhLZRAIcDKHL"
+      },
+      "artists": [
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        },
+        {
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252889,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/4dqT5slEDm4TCG8TKako0t"
+    },
+    {
+      "album": {
+        "name": "HomeCooking",
+        "url": "https://open.spotify.com/album/5yzzvJinNh6q3305O3RuTQ"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284226,
+      "name": "Home Cooking",
+      "url": "https://open.spotify.com/track/20x6NOGs8e0Q4FTFPejMUJ"
+    },
+    {
+      "album": {
+        "name": "AfroCubism",
+        "url": "https://open.spotify.com/album/2xeis5rXeObCoxaSVqQd5E"
+      },
+      "artists": [
+        {
+          "name": "AfroCubism",
+          "url": "https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353986,
+      "name": "Jarabi",
+      "url": "https://open.spotify.com/track/7KORuIh0eVDvHXmR1PpB0v"
+    },
+    {
+      "album": {
+        "name": "Afrocubism",
+        "url": "https://open.spotify.com/album/7qXvKyPmjYWye72ZTIrihK"
+      },
+      "artists": [
+        {
+          "name": "AfroCubism",
+          "url": "https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
+      "duration_ms": 357413,
+      "name": "Jarabi",
+      "url": "https://open.spotify.com/track/5EvehLwAeQkVwwEfoAawa4"
+    },
+    {
+      "album": {
+        "name": "Afrocubism",
+        "url": "https://open.spotify.com/album/1CH76GNjApPSbQcRqComt7"
+      },
+      "artists": [
+        {
+          "name": "AfroCubism",
+          "url": "https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Eliades Ochoa & Bassekou Kouyat\u00e9",
+          "url": "https://open.spotify.com/artist/0VjN7ASjJCJTldoryWvxM4"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 357413,
+      "name": "Jarabi",
+      "url": "https://open.spotify.com/track/0RxOwIbcKkIIYlofyLznGY"
+    },
+    {
+      "album": {
+        "name": "Soundway presents Ghana Special (Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81)",
+        "url": "https://open.spotify.com/album/5DKrMCbixQ2EjIvSBcLM28"
+      },
+      "artists": [
+        {
+          "name": "The Mercury Dance Band",
+          "url": "https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180600,
+      "name": "Kai Wawa",
+      "url": "https://open.spotify.com/track/1jSfn07Bqf24cLlW8nRMtC"
+    },
+    {
+      "album": {
+        "name": "Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81",
+        "url": "https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL"
+      },
+      "artists": [
+        {
+          "name": "The Mercury Dance Band",
+          "url": "https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Kai Wawa",
+      "url": "https://open.spotify.com/track/4QjZfrqndQfDn7tz8dHBRr"
+    },
+    {
+      "album": {
+        "name": "Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81",
+        "url": "https://open.spotify.com/album/6Q7IHMtwm5rvoTuPL8lUkz"
+      },
+      "artists": [
+        {
+          "name": "The Mercury Dance Band",
+          "url": "https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 180600,
+      "name": "Kai Wawa",
+      "url": "https://open.spotify.com/track/5ZNfrNTjNWrDqGF6TAOhnM"
+    },
+    {
+      "album": {
+        "name": "Take One (Analog Africa No. 2)",
+        "url": "https://open.spotify.com/album/7dRwLFKHSz4QV2PKkIuHMD"
+      },
+      "artists": [
+        {
+          "name": "Hallelujah Chicken Run Band",
+          "url": "https://open.spotify.com/artist/4F4uGrDn844DLT3ThoztIE"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216000,
+      "name": "Kare Nanhasi",
+      "url": "https://open.spotify.com/track/085HOiIrvSvFxfv9gT4Ny0"
+    },
+    {
+      "album": {
+        "name": "4-Track Recording Session (Analog Africa No. 1)",
+        "url": "https://open.spotify.com/album/65rLpTr70dPG6deRYBpCm2"
+      },
+      "artists": [
+        {
+          "name": "Hallelujah Chicken Run Band",
+          "url": "https://open.spotify.com/artist/55xAwB77WuAIIinohovFwe"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 216000,
+      "name": "Kare Nanhasi",
+      "url": "https://open.spotify.com/track/4ZAOkPfa22QYJlWtF6aJDg"
+    },
+    {
+      "album": {
+        "name": "4-Track Recording Session (Analog Africa No. 1)",
+        "url": "https://open.spotify.com/album/4iXf2ybRyGp7Ux0TXtUoDm"
+      },
+      "artists": [
+        {
+          "name": "Hallelujah Chicken Run Band",
+          "url": "https://open.spotify.com/artist/4F4uGrDn844DLT3ThoztIE"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Kare Nanhasi",
+      "url": "https://open.spotify.com/track/4l9wFkjVU37DqhF7jES8dV"
+    },
+    {
+      "album": {
+        "name": "Kare Nanhasi",
+        "url": "https://open.spotify.com/album/2iVCfzM7bseTFNkicFaMY6"
+      },
+      "artists": [
+        {
+          "name": "Hallelujah Chicken Run Band",
+          "url": "https://open.spotify.com/artist/55xAwB77WuAIIinohovFwe"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 216000,
+      "name": "Kare Nanhasi",
+      "url": "https://open.spotify.com/track/6kCCceHGKebGu2jMJohJgq"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Gasper Lawal",
+          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360800,
+      "name": "Kita Kita",
+      "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf"
+      },
+      "artists": [
+        {
+          "name": "Gasper Lawal",
+          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 360800,
+      "name": "Kita Kita",
+      "url": "https://open.spotify.com/track/726WAXh6DuDGYtQ63fDSix"
+    },
+    {
+      "album": {
+        "name": "Next Stop Soweto 4: Zulu Rock, Afro-Disco & Mbaqanga 1975-1985",
+        "url": "https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F"
+      },
+      "artists": [
+        {
+          "name": "The Actions",
+          "url": "https://open.spotify.com/artist/6zVPjXxvk8RmPKjhOONids"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368986,
+      "name": "Kokro-Ko (Hide and Seek)",
+      "url": "https://open.spotify.com/track/3qRVMQ4NopQIr8tFFKL6SD"
+    },
+    {
+      "album": {
+        "name": "Next Stop Soweto 4: Zulu Rock, Afro-Disco & Mbaqanga 1975-1985",
+        "url": "https://open.spotify.com/album/5khc9IMDttTmkq3DVHJ9U7"
+      },
+      "artists": [
+        {
+          "name": "The Actions",
+          "url": "https://open.spotify.com/artist/6zVPjXxvk8RmPKjhOONids"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 368986,
+      "name": "Kokro-Ko (Hide and Seek)",
+      "url": "https://open.spotify.com/track/48FWYZGRRxhAHCkKRngYWw"
+    },
+    {
+      "album": {
+        "name": "Angola 72/74",
+        "url": "https://open.spotify.com/album/0wKklfUh0GTGAICfuQxpMP"
+      },
+      "artists": [
+        {
+          "name": "Bonga",
+          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Ku Tando",
+      "url": "https://open.spotify.com/track/00JRJnpa2IqNjuIOPBB5IC"
+    },
+    {
+      "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/4MTtvGnI74RyOmG5UrVZhf"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN"
+    },
+    {
+      "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "album": {
+        "name": "Afro-Rock Vol. 1",
+        "url": "https://open.spotify.com/album/46ZQZkK27RoM56LLt8xkSY"
+      },
+      "artists": [
+        {
+          "name": "Yahoos",
+          "url": "https://open.spotify.com/artist/06eyiiZcYZf4SRTlsMxWxa"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "Mabala",
+      "url": "https://open.spotify.com/track/4LFPnSWr311iWy2MkjeiWe"
+    },
+    {
+      "album": {
+        "name": "Afro-Rock Vol. 1",
+        "url": "https://open.spotify.com/album/3xeW7a1YY6rTIccohDOHrr"
+      },
+      "artists": [
+        {
+          "name": "Yahoos",
+          "url": "https://open.spotify.com/artist/06eyiiZcYZf4SRTlsMxWxa"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249466,
+      "name": "Mabala",
+      "url": "https://open.spotify.com/track/632SVgEJovjLpTfNFp2M5s"
+    },
+    {
+      "album": {
+        "name": "Volume 1 - Absa Gueye",
+        "url": "https://open.spotify.com/album/5JN2ejFy2lqtPqUFcLMORv"
+      },
+      "artists": [
+        {
+          "name": "Etoile De Dakar",
+          "url": "https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290960,
+      "name": "Mane Khouma Khol Thi Yao",
+      "url": "https://open.spotify.com/track/08vETLzvQLVbdkF69a60PT"
+    },
+    {
+      "album": {
+        "name": "Golden Afrique, vol. 1 (Bolibana Collection)",
+        "url": "https://open.spotify.com/album/7mJvBakyfrHS1HAgCmn8tH"
+      },
+      "artists": [
+        {
+          "name": "Etoile De Dakar",
+          "url": "https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291373,
+      "name": "Mane Kouma Xol",
+      "url": "https://open.spotify.com/track/1O2bu126BAzcQSz4B2j1yW"
+    },
+    {
+      "album": {
+        "name": "Next Stop Soweto 4: Zulu Rock, Afro-Disco & Mbaqanga 1975-1985",
+        "url": "https://open.spotify.com/album/5khc9IMDttTmkq3DVHJ9U7"
+      },
+      "artists": [
+        {
+          "name": "Abafana Bama Soul",
+          "url": "https://open.spotify.com/artist/3bA0rDxgBWuownNwVIUsS3"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208106,
+      "name": "Masisizwane",
+      "url": "https://open.spotify.com/track/5DBTHQMQfmByrCYFB8err5"
+    },
+    {
+      "album": {
+        "name": "Next Stop Soweto 4: Zulu Rock, Afro-Disco & Mbaqanga 1975-1985",
+        "url": "https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F"
+      },
+      "artists": [
+        {
+          "name": "Abafana Bama Soul",
+          "url": "https://open.spotify.com/artist/3bA0rDxgBWuownNwVIUsS3"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "Masisizwane",
+      "url": "https://open.spotify.com/track/5drNawZolFDqGjK99v2Hri"
+    },
+    {
+      "album": {
+        "name": "Bel ley",
+        "url": "https://open.spotify.com/album/0hSeNBxRtRd7qh1s37nhBZ"
+      },
+      "artists": [
+        {
+          "name": "Tabu Ley Rochereau",
+          "url": "https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 512400,
+      "name": "Monsieur Malonga",
+      "url": "https://open.spotify.com/track/39TdLWLrPPqzv1vCEQnIXE"
+    },
+    {
+      "album": {
+        "name": "The Voice of Lightness Vol.2: Tabu Ley",
+        "url": "https://open.spotify.com/album/2ULjahphUnILjXoPCCkxxx"
+      },
+      "artists": [
+        {
+          "name": "Tabu Ley Rochereau",
+          "url": "https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 514266,
+      "name": "Monsieur Malonga",
+      "url": "https://open.spotify.com/track/6QjGSFDpIHpPTxvfk9kYRI"
+    },
+    {
+      "album": {
+        "name": "The Voice of Lightness, Vol. 2: Congo Classics (1977-1993) [Album 1]",
+        "url": "https://open.spotify.com/album/1IiZl1AtQZJPNKd1uifCeH"
+      },
+      "artists": [
+        {
+          "name": "Tabu Ley Rochereau",
+          "url": "https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514266,
+      "name": "Monsieur Malonga",
+      "url": "https://open.spotify.com/track/6Ug3P0ivlgDyO2Rm6GxQnT"
+    },
+    {
+      "album": {
+        "name": "Soul Explosion",
+        "url": "https://open.spotify.com/album/5da59RIGjC0GUOoCqJ29UN"
+      },
+      "artists": [
+        {
+          "name": "The Daktaris",
+          "url": "https://open.spotify.com/artist/42ccKlw9sHnNr29o6gqnsv"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "Musicawi Silt",
+      "url": "https://open.spotify.com/track/2Th6QlcdwdpfE5ZLjVqDVn"
+    },
+    {
+      "album": {
+        "name": "Beyond Addis 02 (Modern Ethiopian Dance Grooves Inspired By Swinging Addis)",
+        "url": "https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT"
+      },
+      "artists": [
+        {
+          "name": "The Daktaris",
+          "url": "https://open.spotify.com/artist/42ccKlw9sHnNr29o6gqnsv"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
+      "duration_ms": 184586,
+      "name": "Musicawi Silt",
+      "url": "https://open.spotify.com/track/2qo7XWwu0l0IJ29Ybf5Mqh"
+    },
+    {
+      "album": {
+        "name": "Cotonou Club",
+        "url": "https://open.spotify.com/album/07TRtwC1H4J3QcRu5mRVhd"
+      },
+      "artists": [
+        {
+          "name": "T. P. Orchestre Poly-Rythmo",
+          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278086,
+      "name": "Ne Te Fache Pas",
+      "url": "https://open.spotify.com/track/1OXWh5wI5uospTQMLnjDQ2"
+    },
+    {
+      "album": {
+        "name": "Cotonou Club",
+        "url": "https://open.spotify.com/album/46SaHGfX201NN00geCtBZY"
+      },
+      "artists": [
+        {
+          "name": "T. P. Orchestre Poly-Rythmo",
+          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278086,
+      "name": "Ne Te Fache Pas",
+      "url": "https://open.spotify.com/track/5HcTELjbUpb51pxN4RUodP"
+    },
+    {
+      "album": {
+        "name": "Made in Dakar",
+        "url": "https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Baobab",
+          "url": "https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
+      "duration_ms": 431133,
+      "name": "Nijaay",
+      "url": "https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D"
+    },
+    {
+      "album": {
+        "name": "Made in Dakar",
+        "url": "https://open.spotify.com/album/42oYfuID95AxYWA0jduZCo"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Baobab",
+          "url": "https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434986,
+      "name": "Nijaay",
+      "url": "https://open.spotify.com/track/09Fm7uCNugdcI9bitG6Ype"
+    },
+    {
+      "album": {
+        "name": "Made in Dakar",
+        "url": "https://open.spotify.com/album/7xrvWXcKHm7TxJcen0kfaV"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Baobab",
+          "url": "https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 434986,
+      "name": "Nijaay",
+      "url": "https://open.spotify.com/track/2R3cAh0hgAGDE4XTFZGBwC"
+    },
+    {
+      "album": {
+        "name": "Best of The Black President",
+        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 414933,
+      "name": "O.D.O.O. - Edit",
+      "url": "https://open.spotify.com/track/7yEPnFUTRWmfrLGLu24DRz"
+    },
+    {
+      "album": {
+        "name": "The Best of the Black President",
+        "url": "https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415066,
+      "name": "O.D.O.O. - Edit Version",
+      "url": "https://open.spotify.com/track/2WS1GEWDQ7oN3sBjC0IIWI"
+    },
+    {
+      "album": {
+        "name": "The Best of the Black President",
+        "url": "https://open.spotify.com/album/5KsZEYcRsGrJFzBkubfNGb"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 415066,
+      "name": "O.D.O.O. - Edit Version",
+      "url": "https://open.spotify.com/track/4Db2j0IH9ZfsQoryddUSG7"
+    },
+    {
+      "album": {
+        "name": "Obaa Sima",
+        "url": "https://open.spotify.com/album/5rWdCCXgUf8Ptz1goEmLKC"
+      },
+      "artists": [
+        {
+          "name": "Ata Kak",
+          "url": "https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 338409,
+      "name": "Obaa Sima",
+      "url": "https://open.spotify.com/track/0RleEAKmcUbJ3R7AK0dSfV"
+    },
+    {
+      "album": {
+        "name": "Obaa Sima",
+        "url": "https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu"
+      },
+      "artists": [
+        {
+          "name": "Ata Kak",
+          "url": "https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338409,
+      "name": "Obaa Sima",
+      "url": "https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ"
+    },
+    {
+      "album": {
+        "name": "Pat Thomas & Kwashibu Area Band",
+        "url": "https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC"
+      },
+      "artists": [
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        },
+        {
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243752,
+      "name": "Odo Adaada",
+      "url": "https://open.spotify.com/track/2mi21f0CUYggWZ575iItwB"
+    },
+    {
+      "album": {
+        "name": "Pat Thomas & Kwashibu Area Band",
+        "url": "https://open.spotify.com/album/0vI4coIOAGzhLZRAIcDKHL"
+      },
+      "artists": [
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        },
+        {
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243752,
+      "name": "Odo Adaada",
+      "url": "https://open.spotify.com/track/6gGRFyDJ1y9wloAFlOFykC"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/7AMXlfKBuhRB5wBXpsVUPO"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180146,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/4S4dCACmtuPWbhvMSfDXqN"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180174,
+      "name": "Pata Pata - Stereo Version",
+      "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
+    },
+    {
+      "album": {
+        "name": "Shaka Bundu",
+        "url": "https://open.spotify.com/album/6rAslHNWd1rE26WNyu1tM7"
+      },
+      "artists": [
+        {
+          "name": "Penny Penny",
+          "url": "https://open.spotify.com/artist/06Q8GDhLVAoLAQwwFCPiAp"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290666,
+      "name": "Shaka Bundu",
+      "url": "https://open.spotify.com/track/3XUjBarjhIMhwdIqHEYpPq"
+    },
+    {
+      "album": {
+        "name": "Shaka Bundu",
+        "url": "https://open.spotify.com/album/64SxVLbnnQ2jYgHuBosDi4"
+      },
+      "artists": [
+        {
+          "name": "Penny Penny",
+          "url": "https://open.spotify.com/artist/06Q8GDhLVAoLAQwwFCPiAp"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290666,
+      "name": "Shaka Bundu",
+      "url": "https://open.spotify.com/track/3dEHR9etpw4v8ui2sJEjfS"
+    },
+    {
+      "album": {
+        "name": "Next Stop Soweto 4: Zulu Rock, Afro-Disco & Mbaqanga 1975-1985",
+        "url": "https://open.spotify.com/album/5khc9IMDttTmkq3DVHJ9U7"
+      },
+      "artists": [
+        {
+          "name": "The Movers",
+          "url": "https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246866,
+      "name": "Soweto Disco",
+      "url": "https://open.spotify.com/track/0jNS601kXdrD5eVTQnFmNM"
+    },
+    {
+      "album": {
+        "name": "Next Stop Soweto 4: Zulu Rock, Afro-Disco & Mbaqanga 1975-1985",
+        "url": "https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F"
+      },
+      "artists": [
+        {
+          "name": "The Movers",
+          "url": "https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "Soweto Disco",
+      "url": "https://open.spotify.com/track/2Emwq6e9LijfaRNyqRiuqb"
+    },
+    {
+      "album": {
+        "name": "Build Music",
+        "url": "https://open.spotify.com/album/2JtuzTyHNRARIo5ou49rJX"
+      },
+      "artists": [
+        {
+          "name": "Janka Nabay",
+          "url": "https://open.spotify.com/artist/0uIXmyH9fptEsagZP6kv4w"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234442,
+      "name": "Stop Jealous",
+      "url": "https://open.spotify.com/track/3Ify2qoyMuNjuMFHa0W2kb"
+    },
+    {
+      "album": {
+        "name": "Build Music",
+        "url": "https://open.spotify.com/album/1MXaSZMAZDQOVMbxhotGPq"
+      },
+      "artists": [
+        {
+          "name": "Janka Nabay and the Bubu Gang",
+          "url": "https://open.spotify.com/artist/1zC407L9CgUmxSDswWVISu"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234442,
+      "name": "Stop Jealous",
+      "url": "https://open.spotify.com/track/0KgG8DYWlLQwPJSpsHyafq"
+    },
+    {
+      "album": {
+        "name": "Revolution - Remastered Edition",
+        "url": "https://open.spotify.com/album/39rctsy2wAHsayxov0fvEH"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 319465,
+      "name": "Sweet Fanta Diallo",
+      "url": "https://open.spotify.com/track/12AzpzVW0p7gyMwCZbfN5L"
+    },
+    {
+      "album": {
+        "name": "Revolution - Remastered Edition",
+        "url": "https://open.spotify.com/album/3U9cfJhS8H9AsuOtc9WMGT"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 319465,
+      "name": "Sweet Fanta Diallo",
+      "url": "https://open.spotify.com/track/2js85SD3LHxyeNsoqQRq9H"
+    },
+    {
+      "album": {
+        "name": "Sweet Fanta Diallo (Original Version) - Single",
+        "url": "https://open.spotify.com/album/0tSxsaDFFSokEqBQwdcXJe"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 319480,
+      "name": "Sweet Fanta Diallo",
+      "url": "https://open.spotify.com/track/2OvInx8L79Tf6ECNmhf1f2"
+    },
+    {
+      "album": {
+        "name": "Revolution (Remastered Edition)",
+        "url": "https://open.spotify.com/album/7w57EeKZS9C5RDRS5rhqLs"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319465,
+      "name": "Sweet Fanta Diallo - Remastered Edition",
+      "url": "https://open.spotify.com/track/7HeMuHzQ1439ZpWmocNNXy"
+    },
+    {
+      "album": {
+        "name": "African Electronic Music 1975 - 1982",
+        "url": "https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz"
+      },
+      "artists": [
+        {
+          "name": "Francis Bebey",
+          "url": "https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305466,
+      "name": "The Coffee Cola Song",
+      "url": "https://open.spotify.com/track/6qBkgf34enQ1CdaXDy46yr"
+    },
+    {
+      "album": {
+        "name": "Afro Exotique - Adventures In The Leftfield, Africa 1972-82",
+        "url": "https://open.spotify.com/album/06l60JOH4AVnCVX4UeIhXi"
+      },
+      "artists": [
+        {
+          "name": "Francis Bebey",
+          "url": "https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 306255,
+      "name": "The Coffee Cola Song",
+      "url": "https://open.spotify.com/track/3Y9XSINHLe5C8XI5kNmCZI"
+    },
+    {
+      "album": {
+        "name": "African Electronic Music (1975-1982)",
+        "url": "https://open.spotify.com/album/7w99Aae1tYSTSb1OiDnxYY"
+      },
+      "artists": [
+        {
+          "name": "Francis Bebey",
+          "url": "https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 306455,
+      "name": "The Coffee Cola Song",
+      "url": "https://open.spotify.com/track/3GYBtgclotwzSnd3u21VY7"
+    },
+    {
+      "album": {
+        "name": "African Electronic Music 1975 - 1982",
+        "url": "https://open.spotify.com/album/6JdOxflkC4cFpSzZAAJ46D"
+      },
+      "artists": [
+        {
+          "name": "Francis Bebey",
+          "url": "https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306455,
+      "name": "The Coffee Cola Song",
+      "url": "https://open.spotify.com/track/6pJiQvl1KtkEoveSS9HTKz"
+    },
+    {
+      "album": {
+        "name": "Ibibio Sound Machine",
+        "url": "https://open.spotify.com/album/2X8EHo2qYg6L5SsYcF4Iy3"
+      },
+      "artists": [
+        {
+          "name": "Ibibio Sound Machine",
+          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280813,
+      "name": "The Talking Fish",
+      "url": "https://open.spotify.com/track/1sGYDYE8dg47jnGFfM089j"
+    },
+    {
+      "album": {
+        "name": "Ibibio Sound Machine",
+        "url": "https://open.spotify.com/album/68rsP4CYyKYNYFrU6kIFnz"
+      },
+      "artists": [
+        {
+          "name": "Ibibio Sound Machine",
+          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 280813,
+      "name": "The Talking Fish",
+      "url": "https://open.spotify.com/track/2aT4HED0ewpbYuSU4FucaX"
+    },
+    {
+      "album": {
+        "name": "Ibibio Sound Machine",
+        "url": "https://open.spotify.com/album/6fpXOuVVRCTVScpnBTBtG8"
+      },
+      "artists": [
+        {
+          "name": "Ibibio Sound Machine",
+          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280813,
+      "name": "The Talking Fish",
+      "url": "https://open.spotify.com/track/77olimEkYdq1743eHmoBeF"
+    },
+    {
+      "album": {
+        "name": "This Is Marijata",
+        "url": "https://open.spotify.com/album/5NgqwPu0hiNGTzltEHUTC0"
+      },
+      "artists": [
+        {
+          "name": "Marijata",
+          "url": "https://open.spotify.com/artist/1zlDVq7isxuxMGTueub0K3"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249306,
+      "name": "We Live In Peace",
+      "url": "https://open.spotify.com/track/4l8N1IPZW1NpL4RnWbCiAj"
+    },
+    {
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hxUXnxYUzclI1GTwpUMUh"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 772097,
+      "name": "When the Going is Smooth & Good",
+      "url": "https://open.spotify.com/track/2tBJsuyGnI8NRlh5LNuAxY"
+    },
+    {
+      "album": {
+        "name": "Anything You Sow",
+        "url": "https://open.spotify.com/album/7hhXs3XnlGTf65404kxQZs"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "date_added": "2018-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 773800,
+      "name": "When the Going is Smooth & Good",
+      "url": "https://open.spotify.com/track/13oiVcrRczGhGVbWr38qdq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaSYtampkg5n"
 }

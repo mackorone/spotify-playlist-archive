@@ -1,433 +1,1287 @@
 {
-  "2022-10-26": 5141,
-  "2022-10-27": 5144,
-  "2022-10-28": 5147,
-  "2022-10-29": 5149,
-  "2022-10-30": 5152,
-  "2022-10-31": 5155,
-  "2022-11-01": 5160,
-  "2022-11-02": 5164,
-  "2022-11-03": 5164,
-  "2022-11-04": 5169,
-  "2022-11-05": 5176,
-  "2022-11-06": 5176,
-  "2022-11-07": 5179,
-  "2022-11-08": 5180,
-  "2022-11-09": 5185,
-  "2022-11-10": 5185,
-  "2022-11-11": 5183,
-  "2022-11-12": 5186,
-  "2022-11-13": 5187,
-  "2022-11-14": 5191,
-  "2022-11-15": 5191,
-  "2022-11-16": 5191,
-  "2022-11-17": 5193,
-  "2022-11-18": 5195,
-  "2022-11-19": 5198,
-  "2022-11-20": 5203,
-  "2022-11-21": 5207,
-  "2022-11-22": 5212,
-  "2022-11-23": 5215,
-  "2022-11-24": 5223,
-  "2022-11-25": 5227,
-  "2022-11-26": 5226,
-  "2022-11-27": 5226,
-  "2022-11-28": 5227,
-  "2022-11-29": 5231,
-  "2022-11-30": 5232,
-  "2022-12-01": 5238,
-  "2022-12-02": 5240,
-  "2022-12-03": 5240,
-  "2022-12-04": 5243,
-  "2022-12-05": 5242,
-  "2022-12-06": 5242,
-  "2022-12-07": 5245,
-  "2022-12-08": 5247,
-  "2022-12-09": 5251,
-  "2022-12-10": 5258,
-  "2022-12-11": 5261,
-  "2022-12-12": 5261,
-  "2022-12-13": 5263,
-  "2022-12-14": 5263,
-  "2022-12-15": 5266,
-  "2022-12-16": 5266,
-  "2022-12-17": 5265,
-  "2022-12-18": 5270,
-  "2022-12-19": 5274,
-  "2022-12-20": 5279,
-  "2022-12-21": 5279,
-  "2022-12-22": 5283,
-  "2022-12-24": 5286,
-  "2022-12-25": 5291,
-  "2022-12-26": 5293,
-  "2022-12-27": 5295,
-  "2022-12-28": 5295,
-  "2022-12-29": 5296,
-  "2022-12-30": 5298,
-  "2022-12-31": 5300,
-  "2023-01-01": 5301,
-  "2023-01-02": 5303,
-  "2023-01-03": 5304,
-  "2023-01-04": 5308,
-  "2023-01-05": 5311,
-  "2023-01-06": 5316,
-  "2023-01-07": 5323,
-  "2023-01-08": 5323,
-  "2023-01-09": 5329,
-  "2023-01-10": 5330,
-  "2023-01-11": 5334,
-  "2023-01-12": 5336,
-  "2023-01-13": 5343,
-  "2023-01-14": 5353,
-  "2023-01-15": 5353,
-  "2023-01-16": 5359,
-  "2023-01-17": 5366,
-  "2023-01-18": 5370,
-  "2023-01-19": 5374,
-  "2023-01-20": 5375,
-  "2023-01-21": 5377,
-  "2023-01-22": 5376,
-  "2023-01-23": 5380,
-  "2023-01-24": 5383,
-  "2023-01-25": 5385,
-  "2023-01-26": 5385,
-  "2023-01-27": 5391,
-  "2023-01-28": 5397,
-  "2023-01-29": 5400,
-  "2023-01-30": 5400,
-  "2023-01-31": 5400,
-  "2023-02-01": 5403,
-  "2023-02-02": 5403,
-  "2023-02-03": 5406,
-  "2023-02-04": 5409,
-  "2023-02-05": 5410,
-  "2023-02-06": 5412,
-  "2023-02-07": 5415,
-  "2023-02-08": 5416,
-  "2023-02-09": 5416,
-  "2023-02-10": 5418,
-  "2023-02-11": 5421,
-  "2023-02-12": 5423,
-  "2023-02-13": 5429,
-  "2023-02-14": 5429,
-  "2023-02-15": 5427,
-  "2023-02-16": 5430,
-  "2023-02-17": 5429,
-  "2023-02-18": 5433,
-  "2023-02-19": 5433,
-  "2023-02-20": 5432,
-  "2023-02-21": 5433,
-  "2023-02-22": 5437,
-  "2023-02-23": 5441,
-  "2023-02-24": 5447,
-  "2023-02-25": 5448,
-  "2023-02-26": 5448,
-  "2023-02-27": 5455,
-  "2023-02-28": 5455,
-  "2023-03-01": 5455,
-  "2023-03-02": 5458,
-  "2023-03-03": 5465,
-  "2023-03-04": 5467,
-  "2023-03-05": 5474,
-  "2023-03-06": 5474,
-  "2023-03-07": 5485,
-  "2023-03-08": 5498,
-  "2023-03-09": 5511,
-  "2023-03-10": 5519,
-  "2023-03-11": 5526,
-  "2023-03-12": 5527,
-  "2023-03-13": 5536,
-  "2023-03-14": 5541,
-  "2023-03-15": 5543,
-  "2023-03-16": 5543,
-  "2023-03-17": 5543,
-  "2023-03-18": 5562,
-  "2023-03-19": 5562,
-  "2023-03-20": 5568,
-  "2023-03-21": 5567,
-  "2023-03-22": 5570,
-  "2023-03-23": 5576,
-  "2023-03-24": 5576,
-  "2023-03-25": 5579,
-  "2023-03-26": 5585,
-  "2023-03-27": 5593,
-  "2023-03-28": 5596,
-  "2023-03-29": 5599,
-  "2023-03-30": 5612,
-  "2023-03-31": 5612,
-  "2023-04-01": 5616,
-  "2023-04-02": 5617,
-  "2023-04-03": 5618,
-  "2023-04-04": 5619,
-  "2023-04-05": 5625,
-  "2023-04-06": 5628,
-  "2023-04-07": 5628,
-  "2023-04-09": 5631,
-  "2023-04-10": 5635,
-  "2023-04-11": 5640,
-  "2023-04-12": 5640,
-  "2023-04-13": 5642,
-  "2023-04-14": 5646,
-  "2023-04-15": 5653,
-  "2023-04-16": 5659,
-  "2023-04-17": 5658,
-  "2023-04-18": 5662,
-  "2023-04-19": 5670,
-  "2023-04-20": 5671,
-  "2023-04-21": 5675,
-  "2023-04-22": 5681,
-  "2023-04-23": 5683,
-  "2023-04-24": 5685,
-  "2023-04-25": 5692,
-  "2023-04-26": 5691,
-  "2023-04-27": 5696,
-  "2023-04-28": 5703,
-  "2023-04-29": 5705,
-  "2023-04-30": 5711,
-  "2023-05-01": 5716,
-  "2023-05-02": 5721,
-  "2023-05-03": 5721,
-  "2023-05-04": 5727,
-  "2023-05-05": 5730,
-  "2023-05-06": 5735,
-  "2023-05-07": 5740,
-  "2023-05-08": 5743,
-  "2023-05-09": 5744,
-  "2023-05-10": 5749,
-  "2023-05-11": 5752,
-  "2023-05-12": 5752,
-  "2023-05-13": 5751,
-  "2023-05-14": 5754,
-  "2023-05-15": 5755,
-  "2023-05-16": 5758,
-  "2023-05-17": 5764,
-  "2023-05-18": 5770,
-  "2023-05-19": 5773,
-  "2023-05-20": 5780,
-  "2023-05-21": 5780,
-  "2023-05-22": 5780,
-  "2023-05-23": 5790,
-  "2023-05-24": 5789,
-  "2023-05-25": 5788,
-  "2023-05-26": 5791,
-  "2023-05-27": 5795,
-  "2023-05-28": 5796,
-  "2023-05-29": 5796,
-  "2023-05-30": 5800,
-  "2023-05-31": 5805,
-  "2023-06-01": 5809,
-  "2023-06-02": 5816,
-  "2023-06-03": 5820,
-  "2023-06-04": 5819,
-  "2023-06-05": 5823,
-  "2023-06-06": 5831,
-  "2023-06-07": 5835,
-  "2023-06-08": 5836,
-  "2023-06-09": 5839,
-  "2023-06-10": 5843,
-  "2023-06-11": 5846,
-  "2023-06-12": 5848,
-  "2023-06-13": 5852,
-  "2023-06-14": 5855,
-  "2023-06-15": 5866,
-  "2023-06-16": 5870,
-  "2023-06-17": 5874,
-  "2023-06-18": 5880,
-  "2023-06-19": 5885,
-  "2023-06-20": 5889,
-  "2023-06-21": 5896,
-  "2023-06-22": 5895,
-  "2023-06-23": 5897,
-  "2023-06-24": 5900,
-  "2023-06-25": 5904,
-  "2023-06-26": 5907,
-  "2023-06-27": 5912,
-  "2023-06-28": 5918,
-  "2023-06-29": 5919,
-  "2023-06-30": 5920,
-  "2023-07-01": 5923,
-  "2023-07-02": 5923,
-  "2023-07-03": 5924,
-  "2023-07-04": 5927,
-  "2023-07-05": 5929,
-  "2023-07-06": 5936,
-  "2023-07-07": 5936,
-  "2023-07-08": 5936,
-  "2023-07-09": 5942,
-  "2023-07-10": 5944,
-  "2023-07-11": 5946,
-  "2023-07-12": 5947,
-  "2023-07-13": 5953,
-  "2023-07-14": 5954,
-  "2023-07-15": 5953,
-  "2023-07-16": 5958,
-  "2023-07-17": 5966,
-  "2023-07-18": 5968,
-  "2023-07-19": 5971,
-  "2023-07-20": 5976,
-  "2023-07-21": 5983,
-  "2023-07-22": 5983,
-  "2023-07-23": 5985,
-  "2023-07-24": 5989,
-  "2023-07-25": 5995,
-  "2023-07-26": 6000,
-  "2023-07-27": 6004,
-  "2023-07-28": 6006,
-  "2023-07-29": 6010,
-  "2023-07-30": 6017,
-  "2023-07-31": 6018,
-  "2023-08-01": 6022,
-  "2023-08-02": 6024,
-  "2023-08-03": 6029,
-  "2023-08-04": 6032,
-  "2023-08-05": 6035,
-  "2023-08-06": 6039,
-  "2023-08-07": 6039,
-  "2023-08-08": 6042,
-  "2023-08-09": 6047,
-  "2023-08-10": 6053,
-  "2023-08-11": 6053,
-  "2023-08-12": 6053,
-  "2023-08-13": 6053,
-  "2023-08-14": 6063,
-  "2023-08-15": 6063,
-  "2023-08-16": 6063,
-  "2023-08-17": 6063,
-  "2023-08-18": 6063,
-  "2023-08-19": 6063,
-  "2023-08-20": 6080,
-  "2023-08-21": 6080,
-  "2023-08-22": 6092,
-  "2023-08-23": 6092,
-  "2023-08-24": 6092,
-  "2023-08-25": 6092,
-  "2023-08-26": 6103,
-  "2023-08-27": 6103,
-  "2023-08-28": 6106,
-  "2023-08-29": 6106,
-  "2023-08-30": 6106,
-  "2023-08-31": 6114,
-  "2023-09-01": 6114,
-  "2023-09-02": 6114,
-  "2023-09-03": 6114,
-  "2023-09-04": 6114,
-  "2023-09-05": 6114,
-  "2023-09-06": 6117,
-  "2023-09-07": 6117,
-  "2023-09-08": 6117,
-  "2023-09-09": 6117,
-  "2023-09-10": 6126,
-  "2023-09-11": 6126,
-  "2023-09-12": 6126,
-  "2023-09-13": 6126,
-  "2023-09-14": 6126,
-  "2023-09-15": 6126,
-  "2023-09-16": 6152,
-  "2023-09-17": 6152,
-  "2023-09-18": 6152,
-  "2023-09-19": 6162,
-  "2023-09-20": 6162,
-  "2023-09-21": 6162,
-  "2023-09-22": 6173,
-  "2023-09-23": 6173,
-  "2023-09-24": 6173,
-  "2023-09-25": 6173,
-  "2023-09-26": 6183,
-  "2023-09-27": 6183,
-  "2023-09-28": 6183,
-  "2023-09-29": 6183,
-  "2023-09-30": 6183,
-  "2023-10-01": 6183,
-  "2023-10-02": 6183,
-  "2023-10-03": 6183,
-  "2023-10-04": 6183,
-  "2023-10-05": 6183,
-  "2023-10-06": 6183,
-  "2023-10-07": 6183,
-  "2023-10-08": 6183,
-  "2023-10-09": 6183,
-  "2023-10-10": 6183,
-  "2023-10-11": 6253,
-  "2023-10-12": 6253,
-  "2023-10-13": 6253,
-  "2023-10-14": 6253,
-  "2023-10-15": 6253,
-  "2023-10-16": 6253,
-  "2023-10-17": 6253,
-  "2023-10-18": 6253,
-  "2023-10-19": 6253,
-  "2023-10-20": 6253,
-  "2023-10-21": 6253,
-  "2023-10-22": 6253,
-  "2023-10-23": 6253,
-  "2023-10-24": 6253,
-  "2023-10-25": 6253,
-  "2023-10-26": 6253,
-  "2023-10-27": 6253,
-  "2023-10-28": 6253,
-  "2023-10-29": 6253,
-  "2023-10-30": 6253,
-  "2023-10-31": 6253,
-  "2023-11-01": 6253,
-  "2023-11-02": 6253,
-  "2023-11-03": 6253,
-  "2023-11-04": 6253,
-  "2023-11-05": 6253,
-  "2023-11-06": 6253,
-  "2023-11-07": 6253,
-  "2023-11-08": 6253,
-  "2023-11-09": 6253,
-  "2023-11-10": 6253,
-  "2023-11-11": 6362,
-  "2023-11-12": 6362,
-  "2023-11-13": 6362,
-  "2023-11-14": 6362,
-  "2023-11-15": 6362,
-  "2023-11-16": 6362,
-  "2023-11-17": 6362,
-  "2023-11-18": 6362,
-  "2023-11-19": 6362,
-  "2023-11-20": 6362,
-  "2023-11-21": 6362,
-  "2023-11-22": 6362,
-  "2023-11-23": 6362,
-  "2023-11-24": 6362,
-  "2023-11-25": 6362,
-  "2023-11-26": 6362,
-  "2023-11-27": 6362,
-  "2023-11-28": 6362,
-  "2023-11-29": 6362,
-  "2023-11-30": 6362,
-  "2023-12-01": 6362,
-  "2023-12-02": 6362,
-  "2023-12-03": 6362,
-  "2023-12-04": 6362,
-  "2023-12-05": 6362,
-  "2023-12-06": 6362,
-  "2023-12-07": 6362,
-  "2023-12-08": 6362,
-  "2023-12-09": 6362,
-  "2023-12-10": 6362,
-  "2023-12-11": 6362,
-  "2023-12-12": 6362,
-  "2023-12-13": 6362,
-  "2023-12-14": 6454,
-  "2023-12-15": 6457,
-  "2023-12-16": 6458,
-  "2023-12-17": 6458,
-  "2023-12-18": 6458,
-  "2023-12-19": 6458,
-  "2023-12-20": 6457,
-  "2023-12-21": 6457,
-  "2023-12-22": 6459,
-  "2023-12-23": 6460,
-  "2023-12-24": 6463,
-  "2023-12-25": 6460,
-  "2023-12-26": 6461,
-  "2023-12-27": 6465,
-  "2023-12-30": 6474,
-  "2023-12-31": 6475,
-  "2024-01-01": 6475,
-  "2024-01-02": 6473,
-  "2024-01-03": 6474
+  "2024-01-17": 6505,
+  "date_first_scraped": "2022-10-26",
+  "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
+  "name": "This Is Funeral For A Friend",
+  "tracks": [
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223626,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/7g0ZRgrt1YqRxZPpn6gKBT"
+    },
+    {
+      "album": {
+        "name": "Between Order and Model",
+        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219781,
+      "name": "10.45 Amsterdam Conversations",
+      "url": "https://open.spotify.com/track/4t0VJ7J6QMZBE5lz0LdbjU"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/671IkodRxbHQXE41qo7I0H"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 217373,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/05RUfrBHI8krcUWn9oy59m"
+    },
+    {
+      "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "All Hands on Deck, Pt. 1: Raise the Sail",
+      "url": "https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB"
+    },
+    {
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217720,
+      "name": "All the Rage",
+      "url": "https://open.spotify.com/track/0Al5GzxSOC4RoU3QhrSEFL"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260706,
+      "name": "Bend Your Arms to Look Like Wings",
+      "url": "https://open.spotify.com/track/3N9ZntO9poYoBRXWMSfpAr"
+    },
+    {
+      "album": {
+        "name": "Memory and Humanity",
+        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Beneath the Burning Tree",
+      "url": "https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ"
+    },
+    {
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165573,
+      "name": "Best Friends and Hospital Beds",
+      "url": "https://open.spotify.com/track/6B1XIYrH0g7uuf9yNeDsue"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/671IkodRxbHQXE41qo7I0H"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 209666,
+      "name": "Broken Foundation",
+      "url": "https://open.spotify.com/track/627WjvbFxEffhuUF4fqxxj"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 111466,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6lmnA6X89A01eFfQl0YvBG"
+    },
+    {
+      "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260600,
+      "name": "Built to Last",
+      "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 233840,
+      "name": "Bullet Theory",
+      "url": "https://open.spotify.com/track/6R34ROTnrjRXnMdBJuaP3I"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-05",
+      "duration_ms": 233840,
+      "name": "Bullet Theory",
+      "url": "https://open.spotify.com/track/7nh7lmeaUtM0EejuRCy8Jn"
+    },
+    {
+      "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223413,
+      "name": "Captains of Industry",
+      "url": "https://open.spotify.com/track/6CbF8PKM6y7duGG4haW1lA"
+    },
+    {
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137906,
+      "name": "Conduit",
+      "url": "https://open.spotify.com/track/66uvCO0JFHfaGqpyoeaTM5"
+    },
+    {
+      "album": {
+        "name": "The Young And Defenceless EP",
+        "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 209360,
+      "name": "Damned If You Do, Dead If You Don't",
+      "url": "https://open.spotify.com/track/2vqvoXou424cxTKKpAGhTx"
+    },
+    {
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195746,
+      "name": "Death Comes to Us All",
+      "url": "https://open.spotify.com/track/4n4JSCL8UnjRtte7p7obld"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317746,
+      "name": "Escape Artists Never Die",
+      "url": "https://open.spotify.com/track/34RIandjffS6fEMitjZnvF"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 317746,
+      "name": "Escape Artists Never Die",
+      "url": "https://open.spotify.com/track/63piavgR25OkIFCfgs3rlp"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/671IkodRxbHQXE41qo7I0H"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 210480,
+      "name": "Front Row Seats to the End of the World",
+      "url": "https://open.spotify.com/track/48nnqzcHX9m1Vr0OONtRaB"
+    },
+    {
+      "album": {
+        "name": "Between Order and Model",
+        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236020,
+      "name": "Grand Central Station",
+      "url": "https://open.spotify.com/track/5AD7EUrQoEpcd7PAoiCGpF"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186146,
+      "name": "Hidden Track",
+      "url": "https://open.spotify.com/track/3jOSaN99SOX4a2Dw6213Ba"
+    },
+    {
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217057,
+      "name": "High Castles",
+      "url": "https://open.spotify.com/track/6S5FOiN5SAgZVth5LWFsSt"
+    },
+    {
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249546,
+      "name": "History",
+      "url": "https://open.spotify.com/track/6Fbh1lMmind3rj6W67QFeO"
+    },
+    {
+      "album": {
+        "name": "Streetcar (UK CDX)",
+        "url": "https://open.spotify.com/album/4dss7r2PN9gTAS84e9nh1J"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 288453,
+      "name": "I Am the Arsonist",
+      "url": "https://open.spotify.com/track/1RbYI4uOtQbwzdo6XoDSQH"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Inequality",
+      "url": "https://open.spotify.com/track/5ohutul21ZtJtb16LiSjdk"
+    },
+    {
+      "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262920,
+      "name": "Into Oblivion (Reunion)",
+      "url": "https://open.spotify.com/track/58pj6Wv5OWBRBEWDOaY4EZ"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216853,
+      "name": "Juneau",
+      "url": "https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9"
+    },
+    {
+      "album": {
+        "name": "Between Order and Model",
+        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222844,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/2UDhqlhFbCKRlRhRNGBxFT"
+    },
+    {
+      "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "Kicking and Screaming",
+      "url": "https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8"
+    },
+    {
+      "album": {
+        "name": "Seven Ways To Scream Your Name",
+        "url": "https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 239800,
+      "name": "Kiss And Makeup",
+      "url": "https://open.spotify.com/track/5b2qrDNLnOjUE36yjkWfXv"
+    },
+    {
+      "album": {
+        "name": "Juneau",
+        "url": "https://open.spotify.com/album/7vmCr91Hlwofzj7tVZqg81"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Kiss And Makeup (All Bets Are Off) - Radio One Rock Show",
+      "url": "https://open.spotify.com/track/0kW8jLewouNxnXogAJAG7Q"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 107053,
+      "name": "Modern Excuse of a Man",
+      "url": "https://open.spotify.com/track/33gRce24npD7SMId6DN4HX"
+    },
+    {
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/3k0coNayddFcRWKYJujrx4"
+    },
+    {
+      "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "No Honour Among Thieves",
+      "url": "https://open.spotify.com/track/4ALq38AjjMixTna7WTidZn"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/671IkodRxbHQXE41qo7I0H"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 152280,
+      "name": "Old Hymns",
+      "url": "https://open.spotify.com/track/0qB4fvTSTTw2MlUoomMVEh"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 152280,
+      "name": "Old Hymns",
+      "url": "https://open.spotify.com/track/3fCwI1gG0zo3Qr6qB68A2Q"
+    },
+    {
+      "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "On a Wire",
+      "url": "https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179719,
+      "name": "Pencil Pusher",
+      "url": "https://open.spotify.com/track/0VUIjTUbVuGgvd1xXQGaoP"
+    },
+    {
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/5Xf3jkF3S5IB2u29aSLKjf"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 313106,
+      "name": "Red Is the New Black",
+      "url": "https://open.spotify.com/track/00xrSZwKt8BZWF5Lv5gVuB"
+    },
+    {
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/4uaGUSJyxsNIM4h4Dw73cf"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255525,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/7taPGIacorqe7v7Rigw6UT"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "Rookie of the Year",
+      "url": "https://open.spotify.com/track/05IWxcvFY5t7fUVJQdK9GA"
+    },
+    {
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247426,
+      "name": "Roses for the Dead",
+      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
+    },
+    {
+      "album": {
+        "name": "Memory and Humanity",
+        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "Rules and Games",
+      "url": "https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m"
+    },
+    {
+      "album": {
+        "name": "The Young And Defenceless EP",
+        "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Serpents in Solitude",
+      "url": "https://open.spotify.com/track/2v79Ji3CqxYQ5NpgdGC7qh"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "She Drove Me to Daytime Television",
+      "url": "https://open.spotify.com/track/6v1iCqLDznDBwjDkP2tCt8"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/671IkodRxbHQXE41qo7I0H"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 170720,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4ykkcv8uHTMXSfBUD7FE0E"
+    },
+    {
+      "album": {
+        "name": "The Young And Defenceless EP",
+        "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 175040,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/2MsdYXhhEWz5plyUXEw1i3"
+    },
+    {
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "Spine",
+      "url": "https://open.spotify.com/track/4kj1UC6tMgspee3nRtLdqd"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233242,
+      "name": "Stand by Me for the Millionth Time",
+      "url": "https://open.spotify.com/track/6VqeHGqHH5mWHCngFC2IQb"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Storytelling",
+      "url": "https://open.spotify.com/track/5eptCQgkvncBHbWn6Slzje"
+    },
+    {
+      "album": {
+        "name": "Between Order and Model",
+        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206838,
+      "name": "Storytelling Pt2",
+      "url": "https://open.spotify.com/track/3jHM1V1pJJBLo2J47D3FZa"
+    },
+    {
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Streetcar",
+      "url": "https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg"
+    },
+    {
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/4pZcafB8p6eH2p5cs8ZaW4"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264720,
+      "name": "Sunday Bloody Sunday",
+      "url": "https://open.spotify.com/track/686ZsEtJzTwS9cDcrQkoBQ"
+    },
+    {
+      "album": {
+        "name": "Between Order and Model",
+        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142128,
+      "name": "The Art of American Football",
+      "url": "https://open.spotify.com/track/5jAbXsbYk7ZufSShbIWyym"
+    },
+    {
+      "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "The Diary",
+      "url": "https://open.spotify.com/track/47KSg94NVnpiPBKHV5IiDO"
+    },
+    {
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146786,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/4z6nCgne1X6YJEnQdAHaYb"
+    },
+    {
+      "album": {
+        "name": "Between Order and Model",
+        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255415,
+      "name": "The Getaway Plan",
+      "url": "https://open.spotify.com/track/024SKJQWI46Wcs2vrE1cH7"
+    },
+    {
+      "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "The Great Wide Open",
+      "url": "https://open.spotify.com/track/4Kw0rzSRMusVoIoyMuCeuM"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 304000,
+      "name": "The Jade Tree Years Were My Best",
+      "url": "https://open.spotify.com/track/5mN1F8DxZNByfHuXY11uOP"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 44080,
+      "name": "This Side of Brightness",
+      "url": "https://open.spotify.com/track/0u02R9SibsR1umIC9pIH2w"
+    },
+    {
+      "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162906,
+      "name": "This Years Most Open Heartbreak",
+      "url": "https://open.spotify.com/track/1AZ8CSdziuczeW2ckUPvO2"
+    },
+    {
+      "album": {
+        "name": "Memory and Humanity",
+        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202813,
+      "name": "To Die Like Mouchette",
+      "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
+    },
+    {
+      "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225293,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2Lfr1sBeUbe5fxKPbpZ2P4"
+    },
+    {
+      "album": {
+        "name": "Memory and Humanity",
+        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264493,
+      "name": "Waterfront Dance Club",
+      "url": "https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx"
+    },
+    {
+      "album": {
+        "name": "See You All in Hell",
+        "url": "https://open.spotify.com/album/5MooIxGhbCMMUAhOYBET4N"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 177800,
+      "name": "Will to Die",
+      "url": "https://open.spotify.com/track/4r89jCskt1SKa3yVTXukzK"
+    },
+    {
+      "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151173,
+      "name": "Wrench",
+      "url": "https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "You Should Be Ashamed of Yourself",
+      "url": "https://open.spotify.com/track/0D84aXi3d8Y3Qd3gOaSTOP"
+    },
+    {
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "You've Got a Bad Case of the Religions",
+      "url": "https://open.spotify.com/track/7oW1NontbB6FPayssJi0V3"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 164533,
+      "name": "Your Revolution Is a Joke",
+      "url": "https://open.spotify.com/track/73EV46BBjJo06nFtEb0JRS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Gwh1O"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 
 > BLACKPINK in our area! Are you ready to Shut Down?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,166,070 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,161,980 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

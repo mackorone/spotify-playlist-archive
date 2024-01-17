@@ -1,732 +1,1117 @@
 {
-  "2021-12-28": 51317,
-  "2021-12-29": 51360,
-  "2021-12-30": 51397,
-  "2021-12-31": 51421,
-  "2022-01-01": 51532,
-  "2022-01-02": 51552,
-  "2022-01-03": 51588,
-  "2022-01-04": 51623,
-  "2022-01-05": 51659,
-  "2022-01-06": 51689,
-  "2022-01-07": 51722,
-  "2022-01-08": 51846,
-  "2022-01-09": 51846,
-  "2022-01-10": 51910,
-  "2022-01-11": 51949,
-  "2022-01-12": 51980,
-  "2022-01-13": 51980,
-  "2022-01-14": 51980,
-  "2022-01-15": 51980,
-  "2022-01-16": 51980,
-  "2022-01-17": 51980,
-  "2022-01-18": 51980,
-  "2022-01-19": 51980,
-  "2022-01-20": 51980,
-  "2022-01-21": 51980,
-  "2022-01-22": 51980,
-  "2022-01-23": 51980,
-  "2022-01-24": 51980,
-  "2022-01-25": 51980,
-  "2022-01-26": 51980,
-  "2022-01-27": 51980,
-  "2022-01-28": 51980,
-  "2022-01-29": 51980,
-  "2022-01-30": 51980,
-  "2022-01-31": 51980,
-  "2022-02-01": 51980,
-  "2022-02-02": 51980,
-  "2022-02-03": 51980,
-  "2022-02-04": 51980,
-  "2022-02-05": 51980,
-  "2022-02-06": 51980,
-  "2022-02-07": 51980,
-  "2022-02-08": 51980,
-  "2022-02-09": 51980,
-  "2022-02-10": 51980,
-  "2022-02-11": 51980,
-  "2022-02-12": 51980,
-  "2022-02-13": 51980,
-  "2022-02-14": 51980,
-  "2022-02-15": 51980,
-  "2022-02-16": 51980,
-  "2022-02-17": 51980,
-  "2022-02-18": 51980,
-  "2022-02-19": 51980,
-  "2022-02-20": 51980,
-  "2022-02-21": 51980,
-  "2022-02-22": 51980,
-  "2022-02-23": 51980,
-  "2022-02-24": 51980,
-  "2022-02-25": 51980,
-  "2022-02-26": 51980,
-  "2022-02-27": 51980,
-  "2022-02-28": 51980,
-  "2022-03-01": 51980,
-  "2022-03-02": 51980,
-  "2022-03-03": 51980,
-  "2022-03-04": 51980,
-  "2022-03-05": 51980,
-  "2022-03-06": 51980,
-  "2022-03-07": 51980,
-  "2022-03-08": 51980,
-  "2022-03-09": 51980,
-  "2022-03-10": 51980,
-  "2022-03-11": 51980,
-  "2022-03-12": 51980,
-  "2022-03-13": 51980,
-  "2022-03-14": 51980,
-  "2022-03-15": 51980,
-  "2022-03-16": 51980,
-  "2022-03-17": 51980,
-  "2022-03-18": 51980,
-  "2022-03-19": 51980,
-  "2022-03-20": 51980,
-  "2022-03-21": 51980,
-  "2022-03-22": 51980,
-  "2022-03-23": 51980,
-  "2022-03-24": 51980,
-  "2022-03-25": 51980,
-  "2022-03-26": 51980,
-  "2022-03-27": 51980,
-  "2022-03-28": 51980,
-  "2022-03-30": 51980,
-  "2022-03-31": 51980,
-  "2022-04-01": 51980,
-  "2022-04-02": 51980,
-  "2022-04-03": 51980,
-  "2022-04-04": 51980,
-  "2022-04-05": 51980,
-  "2022-04-06": 51980,
-  "2022-04-07": 51980,
-  "2022-04-08": 51980,
-  "2022-04-09": 51980,
-  "2022-04-10": 51980,
-  "2022-04-11": 51980,
-  "2022-04-12": 51980,
-  "2022-04-13": 51980,
-  "2022-04-14": 51980,
-  "2022-04-15": 51980,
-  "2022-04-16": 51980,
-  "2022-04-17": 51980,
-  "2022-04-18": 51980,
-  "2022-04-19": 51980,
-  "2022-04-20": 51980,
-  "2022-04-21": 51980,
-  "2022-04-22": 51980,
-  "2022-04-23": 51980,
-  "2022-04-24": 51980,
-  "2022-04-25": 51980,
-  "2022-04-26": 51980,
-  "2022-04-27": 51980,
-  "2022-04-28": 51980,
-  "2022-04-29": 51980,
-  "2022-04-30": 51980,
-  "2022-05-01": 51980,
-  "2022-05-02": 51980,
-  "2022-05-03": 51980,
-  "2022-05-04": 51980,
-  "2022-05-05": 51980,
-  "2022-05-06": 51980,
-  "2022-05-07": 51980,
-  "2022-05-08": 51980,
-  "2022-05-09": 51980,
-  "2022-05-10": 51980,
-  "2022-05-11": 51980,
-  "2022-05-12": 51980,
-  "2022-05-13": 51980,
-  "2022-05-14": 51980,
-  "2022-05-15": 51980,
-  "2022-05-16": 51980,
-  "2022-05-17": 51980,
-  "2022-05-18": 51980,
-  "2022-05-19": 51980,
-  "2022-05-20": 51980,
-  "2022-05-21": 51980,
-  "2022-05-22": 51980,
-  "2022-05-23": 51980,
-  "2022-05-24": 51980,
-  "2022-05-25": 51980,
-  "2022-05-26": 51980,
-  "2022-05-27": 51980,
-  "2022-05-28": 51980,
-  "2022-05-29": 51980,
-  "2022-05-30": 51980,
-  "2022-05-31": 51980,
-  "2022-06-01": 51980,
-  "2022-06-02": 51980,
-  "2022-06-03": 51980,
-  "2022-06-04": 51980,
-  "2022-06-05": 51980,
-  "2022-06-06": 51980,
-  "2022-06-07": 51980,
-  "2022-06-08": 51980,
-  "2022-06-09": 51980,
-  "2022-06-10": 51980,
-  "2022-06-11": 51980,
-  "2022-06-12": 51980,
-  "2022-06-13": 51980,
-  "2022-06-14": 51980,
-  "2022-06-15": 51980,
-  "2022-06-16": 51980,
-  "2022-06-17": 51980,
-  "2022-06-18": 51980,
-  "2022-06-19": 51980,
-  "2022-06-20": 51980,
-  "2022-06-21": 51980,
-  "2022-06-22": 51980,
-  "2022-06-23": 51980,
-  "2022-06-24": 51980,
-  "2022-06-25": 51980,
-  "2022-06-26": 51980,
-  "2022-06-27": 51980,
-  "2022-06-28": 51980,
-  "2022-06-29": 51980,
-  "2022-06-30": 51980,
-  "2022-07-01": 51980,
-  "2022-07-02": 51980,
-  "2022-07-03": 51980,
-  "2022-07-04": 51980,
-  "2022-07-05": 51980,
-  "2022-07-06": 51980,
-  "2022-07-07": 51980,
-  "2022-07-08": 51980,
-  "2022-07-09": 51980,
-  "2022-07-10": 51980,
-  "2022-07-11": 51980,
-  "2022-07-12": 51980,
-  "2022-07-13": 51980,
-  "2022-07-14": 51980,
-  "2022-07-15": 51980,
-  "2022-07-16": 51980,
-  "2022-07-17": 51980,
-  "2022-07-18": 51980,
-  "2022-07-19": 51980,
-  "2022-07-20": 51980,
-  "2022-07-21": 51980,
-  "2022-07-22": 51980,
-  "2022-07-23": 51980,
-  "2022-07-24": 51980,
-  "2022-07-25": 51980,
-  "2022-07-26": 51980,
-  "2022-07-27": 51980,
-  "2022-07-28": 51980,
-  "2022-07-29": 51980,
-  "2022-07-30": 51980,
-  "2022-07-31": 51980,
-  "2022-08-01": 51980,
-  "2022-08-02": 51980,
-  "2022-08-03": 51980,
-  "2022-08-04": 51980,
-  "2022-08-05": 51980,
-  "2022-08-06": 51980,
-  "2022-08-07": 51980,
-  "2022-08-08": 51980,
-  "2022-08-09": 51980,
-  "2022-08-10": 51980,
-  "2022-08-11": 51980,
-  "2022-08-12": 51980,
-  "2022-08-13": 51980,
-  "2022-08-14": 51980,
-  "2022-08-15": 51980,
-  "2022-08-16": 51980,
-  "2022-08-17": 51980,
-  "2022-08-18": 51980,
-  "2022-08-19": 51980,
-  "2022-08-20": 51980,
-  "2022-08-21": 51980,
-  "2022-08-22": 51980,
-  "2022-08-23": 51980,
-  "2022-08-24": 51980,
-  "2022-08-25": 51980,
-  "2022-08-26": 51980,
-  "2022-08-27": 51980,
-  "2022-08-28": 51980,
-  "2022-08-29": 51980,
-  "2022-08-30": 51980,
-  "2022-08-31": 51980,
-  "2022-09-01": 51980,
-  "2022-09-02": 51980,
-  "2022-09-03": 51980,
-  "2022-09-04": 51980,
-  "2022-09-05": 51980,
-  "2022-09-06": 51980,
-  "2022-09-07": 51980,
-  "2022-09-09": 51980,
-  "2022-09-10": 51980,
-  "2022-09-11": 51980,
-  "2022-09-12": 51980,
-  "2022-09-13": 51980,
-  "2022-09-15": 51980,
-  "2022-09-16": 51980,
-  "2022-09-17": 51980,
-  "2022-09-18": 51980,
-  "2022-09-19": 51980,
-  "2022-09-20": 51980,
-  "2022-09-21": 51980,
-  "2022-09-22": 51980,
-  "2022-09-23": 51980,
-  "2022-09-24": 51980,
-  "2022-09-25": 51980,
-  "2022-09-26": 51980,
-  "2022-09-27": 51980,
-  "2022-09-28": 51980,
-  "2022-09-29": 51980,
-  "2022-09-30": 51980,
-  "2022-10-01": 51980,
-  "2022-10-02": 51980,
-  "2022-10-03": 51980,
-  "2022-10-04": 51980,
-  "2022-10-05": 51980,
-  "2022-10-06": 51980,
-  "2022-10-07": 51980,
-  "2022-10-08": 51980,
-  "2022-10-09": 51980,
-  "2022-10-10": 51980,
-  "2022-10-11": 51980,
-  "2022-10-12": 51980,
-  "2022-10-13": 51980,
-  "2022-10-14": 51980,
-  "2022-10-15": 51980,
-  "2022-10-16": 51980,
-  "2022-10-17": 51980,
-  "2022-10-18": 51980,
-  "2022-10-19": 51980,
-  "2022-10-20": 51980,
-  "2022-10-21": 51980,
-  "2022-10-22": 51980,
-  "2022-10-23": 51980,
-  "2022-10-24": 51980,
-  "2022-10-25": 51980,
-  "2022-10-26": 51980,
-  "2022-10-27": 51980,
-  "2022-10-28": 51980,
-  "2022-10-29": 51980,
-  "2022-10-30": 51980,
-  "2022-10-31": 51980,
-  "2022-11-01": 51980,
-  "2022-11-02": 51980,
-  "2022-11-03": 51980,
-  "2022-11-04": 51980,
-  "2022-11-05": 51980,
-  "2022-11-06": 51980,
-  "2022-11-07": 51980,
-  "2022-11-08": 51980,
-  "2022-11-09": 51980,
-  "2022-11-10": 51980,
-  "2022-11-11": 51980,
-  "2022-11-12": 51980,
-  "2022-11-13": 51980,
-  "2022-11-14": 51980,
-  "2022-11-15": 51980,
-  "2022-11-16": 51980,
-  "2022-11-17": 51980,
-  "2022-11-18": 51980,
-  "2022-11-19": 51980,
-  "2022-11-20": 51980,
-  "2022-11-21": 51980,
-  "2022-11-22": 51980,
-  "2022-11-23": 51980,
-  "2022-11-24": 51980,
-  "2022-11-25": 51980,
-  "2022-11-26": 51980,
-  "2022-11-27": 51980,
-  "2022-11-28": 51980,
-  "2022-11-29": 51980,
-  "2022-11-30": 51980,
-  "2022-12-01": 51980,
-  "2022-12-02": 51980,
-  "2022-12-03": 51980,
-  "2022-12-04": 51980,
-  "2022-12-05": 51980,
-  "2022-12-06": 51980,
-  "2022-12-07": 51980,
-  "2022-12-08": 51980,
-  "2022-12-09": 51980,
-  "2022-12-10": 51980,
-  "2022-12-11": 51980,
-  "2022-12-12": 51980,
-  "2022-12-13": 51980,
-  "2022-12-14": 51980,
-  "2022-12-15": 51980,
-  "2022-12-16": 51980,
-  "2022-12-17": 51980,
-  "2022-12-18": 51980,
-  "2022-12-19": 51980,
-  "2022-12-20": 51980,
-  "2022-12-21": 51980,
-  "2022-12-22": 51980,
-  "2022-12-24": 51980,
-  "2022-12-25": 51980,
-  "2022-12-26": 51980,
-  "2022-12-27": 51980,
-  "2022-12-28": 51980,
-  "2022-12-29": 51980,
-  "2022-12-30": 51980,
-  "2022-12-31": 51980,
-  "2023-01-01": 51980,
-  "2023-01-02": 51980,
-  "2023-01-03": 51980,
-  "2023-01-04": 51980,
-  "2023-01-05": 51980,
-  "2023-01-06": 51980,
-  "2023-01-07": 51980,
-  "2023-01-08": 51980,
-  "2023-01-09": 51980,
-  "2023-01-10": 51980,
-  "2023-01-11": 51980,
-  "2023-01-12": 51980,
-  "2023-01-13": 51980,
-  "2023-01-14": 51980,
-  "2023-01-15": 51980,
-  "2023-01-16": 51980,
-  "2023-01-17": 51980,
-  "2023-01-18": 51980,
-  "2023-01-19": 51980,
-  "2023-01-20": 51980,
-  "2023-01-21": 51980,
-  "2023-01-22": 51980,
-  "2023-01-23": 51980,
-  "2023-01-24": 51980,
-  "2023-01-25": 51980,
-  "2023-01-26": 51980,
-  "2023-01-27": 51980,
-  "2023-01-28": 51980,
-  "2023-01-29": 51980,
-  "2023-01-30": 51980,
-  "2023-01-31": 51980,
-  "2023-02-01": 51980,
-  "2023-02-02": 51980,
-  "2023-02-03": 51980,
-  "2023-02-04": 51980,
-  "2023-02-05": 51980,
-  "2023-02-06": 51980,
-  "2023-02-07": 51980,
-  "2023-02-08": 51980,
-  "2023-02-09": 51980,
-  "2023-02-10": 51980,
-  "2023-02-11": 51980,
-  "2023-02-12": 51980,
-  "2023-02-13": 51980,
-  "2023-02-14": 51980,
-  "2023-02-15": 51980,
-  "2023-02-16": 51980,
-  "2023-02-17": 51980,
-  "2023-02-18": 51980,
-  "2023-02-19": 51980,
-  "2023-02-20": 51980,
-  "2023-02-21": 51980,
-  "2023-02-22": 51980,
-  "2023-02-23": 51980,
-  "2023-02-24": 51980,
-  "2023-02-25": 51980,
-  "2023-02-26": 51980,
-  "2023-02-27": 51980,
-  "2023-02-28": 51980,
-  "2023-03-01": 51980,
-  "2023-03-02": 51980,
-  "2023-03-03": 51980,
-  "2023-03-04": 51980,
-  "2023-03-05": 51980,
-  "2023-03-06": 51980,
-  "2023-03-07": 51980,
-  "2023-03-08": 51980,
-  "2023-03-09": 51980,
-  "2023-03-10": 51980,
-  "2023-03-11": 51980,
-  "2023-03-12": 51980,
-  "2023-03-13": 51980,
-  "2023-03-14": 51980,
-  "2023-03-15": 51980,
-  "2023-03-16": 51980,
-  "2023-03-17": 51980,
-  "2023-03-18": 51980,
-  "2023-03-19": 51980,
-  "2023-03-20": 51980,
-  "2023-03-21": 51980,
-  "2023-03-22": 51980,
-  "2023-03-23": 51980,
-  "2023-03-24": 51980,
-  "2023-03-25": 51980,
-  "2023-03-26": 51980,
-  "2023-03-27": 51980,
-  "2023-03-28": 51980,
-  "2023-03-29": 51980,
-  "2023-03-30": 51980,
-  "2023-03-31": 51980,
-  "2023-04-01": 51980,
-  "2023-04-02": 51980,
-  "2023-04-03": 51980,
-  "2023-04-04": 51980,
-  "2023-04-05": 51980,
-  "2023-04-06": 51980,
-  "2023-04-07": 51980,
-  "2023-04-09": 51980,
-  "2023-04-10": 51980,
-  "2023-04-11": 51980,
-  "2023-04-12": 51980,
-  "2023-04-13": 51980,
-  "2023-04-14": 51980,
-  "2023-04-15": 51980,
-  "2023-04-16": 51980,
-  "2023-04-17": 51980,
-  "2023-04-18": 51980,
-  "2023-04-19": 51980,
-  "2023-04-20": 51980,
-  "2023-04-21": 51980,
-  "2023-04-22": 51980,
-  "2023-04-23": 51980,
-  "2023-04-24": 51980,
-  "2023-04-25": 51980,
-  "2023-04-26": 51980,
-  "2023-04-27": 51980,
-  "2023-04-28": 51980,
-  "2023-04-29": 51980,
-  "2023-04-30": 51980,
-  "2023-05-01": 51980,
-  "2023-05-02": 51980,
-  "2023-05-03": 51980,
-  "2023-05-04": 51980,
-  "2023-05-05": 51980,
-  "2023-05-06": 51980,
-  "2023-05-07": 51980,
-  "2023-05-08": 51980,
-  "2023-05-09": 51980,
-  "2023-05-10": 51980,
-  "2023-05-11": 51980,
-  "2023-05-12": 51980,
-  "2023-05-13": 51980,
-  "2023-05-14": 51980,
-  "2023-05-15": 51980,
-  "2023-05-16": 51980,
-  "2023-05-17": 51980,
-  "2023-05-18": 51980,
-  "2023-05-19": 51980,
-  "2023-05-20": 51980,
-  "2023-05-21": 51980,
-  "2023-05-22": 51980,
-  "2023-05-23": 51980,
-  "2023-05-24": 51980,
-  "2023-05-25": 51980,
-  "2023-05-26": 51980,
-  "2023-05-27": 51980,
-  "2023-05-28": 51980,
-  "2023-05-29": 51980,
-  "2023-05-30": 51980,
-  "2023-05-31": 51980,
-  "2023-06-01": 51980,
-  "2023-06-02": 51980,
-  "2023-06-03": 51980,
-  "2023-06-04": 51980,
-  "2023-06-05": 51980,
-  "2023-06-06": 51980,
-  "2023-06-07": 51980,
-  "2023-06-08": 51980,
-  "2023-06-09": 51980,
-  "2023-06-10": 51980,
-  "2023-06-11": 51980,
-  "2023-06-12": 51980,
-  "2023-06-13": 51980,
-  "2023-06-14": 51980,
-  "2023-06-15": 51980,
-  "2023-06-16": 51980,
-  "2023-06-17": 51980,
-  "2023-06-18": 51980,
-  "2023-06-19": 51980,
-  "2023-06-20": 51980,
-  "2023-06-21": 51980,
-  "2023-06-22": 51980,
-  "2023-06-23": 51980,
-  "2023-06-24": 51980,
-  "2023-06-25": 51980,
-  "2023-06-26": 51980,
-  "2023-06-27": 51980,
-  "2023-06-28": 51980,
-  "2023-06-29": 51980,
-  "2023-06-30": 51980,
-  "2023-07-01": 51980,
-  "2023-07-02": 51980,
-  "2023-07-03": 51980,
-  "2023-07-04": 51980,
-  "2023-07-05": 51980,
-  "2023-07-06": 51980,
-  "2023-07-07": 51980,
-  "2023-07-08": 51980,
-  "2023-07-09": 51980,
-  "2023-07-10": 51980,
-  "2023-07-11": 51980,
-  "2023-07-12": 51980,
-  "2023-07-13": 51980,
-  "2023-07-14": 51980,
-  "2023-07-15": 51980,
-  "2023-07-16": 51980,
-  "2023-07-17": 51980,
-  "2023-07-18": 51980,
-  "2023-07-19": 51980,
-  "2023-07-20": 51980,
-  "2023-07-21": 51980,
-  "2023-07-22": 51980,
-  "2023-07-23": 51980,
-  "2023-07-24": 51980,
-  "2023-07-25": 51980,
-  "2023-07-26": 51980,
-  "2023-07-27": 51980,
-  "2023-07-28": 51980,
-  "2023-07-29": 51980,
-  "2023-07-30": 51980,
-  "2023-07-31": 51980,
-  "2023-08-01": 51980,
-  "2023-08-02": 51980,
-  "2023-08-03": 51980,
-  "2023-08-04": 51980,
-  "2023-08-05": 51980,
-  "2023-08-06": 51980,
-  "2023-08-07": 51980,
-  "2023-08-08": 51980,
-  "2023-08-09": 51980,
-  "2023-08-10": 51980,
-  "2023-08-11": 51980,
-  "2023-08-12": 51980,
-  "2023-08-13": 51980,
-  "2023-08-14": 51980,
-  "2023-08-15": 51980,
-  "2023-08-16": 51980,
-  "2023-08-17": 51980,
-  "2023-08-18": 51980,
-  "2023-08-19": 51980,
-  "2023-08-20": 51980,
-  "2023-08-21": 51980,
-  "2023-08-22": 51980,
-  "2023-08-23": 51980,
-  "2023-08-24": 51980,
-  "2023-08-25": 51980,
-  "2023-08-26": 51980,
-  "2023-08-27": 51980,
-  "2023-08-28": 51980,
-  "2023-08-29": 51980,
-  "2023-08-30": 51980,
-  "2023-08-31": 51980,
-  "2023-09-01": 51980,
-  "2023-09-02": 51980,
-  "2023-09-03": 51980,
-  "2023-09-04": 51980,
-  "2023-09-05": 51980,
-  "2023-09-06": 51980,
-  "2023-09-07": 51980,
-  "2023-09-08": 51980,
-  "2023-09-09": 51980,
-  "2023-09-10": 51980,
-  "2023-09-11": 51980,
-  "2023-09-12": 51980,
-  "2023-09-13": 51980,
-  "2023-09-14": 51980,
-  "2023-09-15": 51980,
-  "2023-09-16": 51980,
-  "2023-09-17": 51980,
-  "2023-09-18": 51980,
-  "2023-09-19": 51980,
-  "2023-09-20": 51980,
-  "2023-09-21": 51980,
-  "2023-09-22": 51980,
-  "2023-09-23": 51980,
-  "2023-09-24": 51980,
-  "2023-09-25": 51980,
-  "2023-09-26": 51980,
-  "2023-09-27": 51980,
-  "2023-09-28": 51980,
-  "2023-09-29": 51980,
-  "2023-09-30": 51980,
-  "2023-10-01": 51980,
-  "2023-10-02": 51980,
-  "2023-10-03": 51980,
-  "2023-10-04": 51980,
-  "2023-10-05": 51980,
-  "2023-10-06": 51980,
-  "2023-10-07": 51980,
-  "2023-10-08": 51980,
-  "2023-10-09": 51980,
-  "2023-10-10": 51980,
-  "2023-10-11": 51980,
-  "2023-10-12": 51980,
-  "2023-10-13": 51980,
-  "2023-10-14": 51980,
-  "2023-10-15": 51980,
-  "2023-10-16": 51980,
-  "2023-10-17": 51980,
-  "2023-10-18": 51980,
-  "2023-10-19": 51980,
-  "2023-10-20": 51980,
-  "2023-10-21": 51980,
-  "2023-10-22": 51980,
-  "2023-10-23": 51980,
-  "2023-10-24": 51980,
-  "2023-10-25": 51980,
-  "2023-10-26": 51980,
-  "2023-10-27": 51980,
-  "2023-10-28": 51980,
-  "2023-10-29": 51980,
-  "2023-10-30": 51980,
-  "2023-10-31": 51980,
-  "2023-11-01": 51980,
-  "2023-11-02": 51980,
-  "2023-11-03": 51980,
-  "2023-11-04": 51980,
-  "2023-11-05": 51980,
-  "2023-11-06": 51980,
-  "2023-11-07": 51980,
-  "2023-11-08": 51980,
-  "2023-11-09": 51980,
-  "2023-11-10": 51980,
-  "2023-11-11": 51980,
-  "2023-11-12": 51980,
-  "2023-11-13": 51980,
-  "2023-11-14": 51980,
-  "2023-11-15": 51980,
-  "2023-11-16": 51980,
-  "2023-11-17": 51980,
-  "2023-11-18": 51980,
-  "2023-11-19": 51980,
-  "2023-11-20": 51980,
-  "2023-11-21": 51980,
-  "2023-11-22": 51980,
-  "2023-11-23": 51980,
-  "2023-11-24": 51980,
-  "2023-11-25": 51980,
-  "2023-11-26": 51980,
-  "2023-11-27": 51980,
-  "2023-11-28": 51980,
-  "2023-11-29": 51980,
-  "2023-11-30": 51980,
-  "2023-12-01": 51980,
-  "2023-12-02": 51980,
-  "2023-12-03": 51980,
-  "2023-12-04": 51980,
-  "2023-12-05": 51980,
-  "2023-12-06": 51980,
-  "2023-12-07": 51980,
-  "2023-12-08": 51980,
-  "2023-12-09": 51980,
-  "2023-12-10": 51980,
-  "2023-12-11": 51980,
-  "2023-12-12": 51980,
-  "2023-12-13": 51980,
-  "2023-12-14": 51980,
-  "2023-12-15": 51980,
-  "2023-12-16": 51980,
-  "2023-12-17": 51980,
-  "2023-12-18": 51980,
-  "2023-12-19": 51980,
-  "2023-12-20": 51980,
-  "2023-12-21": 51980,
-  "2023-12-22": 51980,
-  "2023-12-23": 51980,
-  "2023-12-24": 51980,
-  "2023-12-25": 51980,
-  "2023-12-26": 51980,
-  "2023-12-27": 51980,
-  "2023-12-30": 51980,
-  "2023-12-31": 51980,
-  "2024-01-01": 51980,
-  "2024-01-02": 51980,
-  "2024-01-03": 51980
+  "2024-01-17": 51980,
+  "date_first_scraped": "2021-12-28",
+  "description": "The essential Joan Baez, all in one place.",
+  "name": "This Is Joan Baez (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459133,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/3KQRvCKd6elig016BuK6Zp"
+    },
+    {
+      "album": {
+        "name": "How Sweet the Sound",
+        "url": "https://open.spotify.com/album/5OdF8tz3Au9u7awZKr4xqE"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295320,
+      "name": "A Song For David",
+      "url": "https://open.spotify.com/track/01iiIGIvcUd3THjiiYRW5p"
+    },
+    {
+      "album": {
+        "name": "From Every Stage (Live)",
+        "url": "https://open.spotify.com/album/5bCQ2pvQiF7AqPQVI03YdV"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265706,
+      "name": "Amazing Grace - Live On Tour / 1975",
+      "url": "https://open.spotify.com/track/1mV8KVKdg4K8aToBY3S7hf"
+    },
+    {
+      "album": {
+        "name": "Joan",
+        "url": "https://open.spotify.com/album/7MHKK9mfQGgNOF3BXOvcUD"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302733,
+      "name": "Annabel Lee",
+      "url": "https://open.spotify.com/track/4apPc1TY0x3qffVadLgI3Y"
+    },
+    {
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291133,
+      "name": "Asimbonanga",
+      "url": "https://open.spotify.com/track/6dq3aSrSJsF5K8iUilz15W"
+    },
+    {
+      "album": {
+        "name": "In Concert",
+        "url": "https://open.spotify.com/album/0xOIYvDBZVEEQvFEu46Ylg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192493,
+      "name": "Babe, I'm Gonna Leave You",
+      "url": "https://open.spotify.com/track/0QeCux4ywDSHREzBQscoGI"
+    },
+    {
+      "album": {
+        "name": "How Sweet the Sound",
+        "url": "https://open.spotify.com/album/5OdF8tz3Au9u7awZKr4xqE"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257839,
+      "name": "Barbara Allen",
+      "url": "https://open.spotify.com/track/6mTAXocBW6qfCbsTlwvi5c"
+    },
+    {
+      "album": {
+        "name": "Blessed Are...",
+        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186160,
+      "name": "Blessed Are",
+      "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/61w0fi4vQywV8YIHznnhBr"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/2N7myvBdAIRdZL0h4PfxhA"
+    },
+    {
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306120,
+      "name": "Brothers In Arms",
+      "url": "https://open.spotify.com/track/1ByLEl7kTAAmBo68GH6A7I"
+    },
+    {
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+    },
+    {
+      "album": {
+        "name": "Live At Newport",
+        "url": "https://open.spotify.com/album/6DD9mf89uQD82tzoB1cZRN"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244970,
+      "name": "Come All Ye Fair And Tender Maidens",
+      "url": "https://open.spotify.com/track/2aPi3NHtBlFckfr4qNVtFy"
+    },
+    {
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139240,
+      "name": "Daddy, You Been On My Mind",
+      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/61w0fi4vQywV8YIHznnhBr"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286106,
+      "name": "Diamonds And Rust",
+      "url": "https://open.spotify.com/track/3oLKEO5NCdf2Zi3mBzKaAs"
+    },
+    {
+      "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/5YqdrbmXUOYUjL7GYaSVSo"
+    },
+    {
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "Donna Donna",
+      "url": "https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI"
+    },
+    {
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "East Virginia",
+      "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits And Others",
+        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+    },
+    {
+      "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/0PImlNWLk4BIX0coFLXEp8"
+    },
+    {
+      "album": {
+        "name": "From Every Stage (Live)",
+        "url": "https://open.spotify.com/album/5bCQ2pvQiF7AqPQVI03YdV"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "Forever Young - Live On Tour / 1975",
+      "url": "https://open.spotify.com/track/1Xwe7meRSr6y81NCh2mx9D"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/61w0fi4vQywV8YIHznnhBr"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270333,
+      "name": "Fountain Of Sorrow",
+      "url": "https://open.spotify.com/track/7EmAsrhTJqYOc3bCGJ11oR"
+    },
+    {
+      "album": {
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216520,
+      "name": "God Is God",
+      "url": "https://open.spotify.com/track/1l8Adf2L6CiKmLNH9JuTLz"
+    },
+    {
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/40k0TSTenVponbKzY4c9Ew"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "Gracias A La Vida (Here's To Life)",
+      "url": "https://open.spotify.com/track/5TT770Ly9HEXzDgSOe5wU8"
+    },
+    {
+      "album": {
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273426,
+      "name": "Hard Times Come Again No More",
+      "url": "https://open.spotify.com/track/1y1R5ZwZKavm8K6O9OKwOC"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/61w0fi4vQywV8YIHznnhBr"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Hello In There",
+      "url": "https://open.spotify.com/track/5DQD8ajdqMIcUq4WdG9qio"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits And Others",
+        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/2f0IH9hzc2YyX264GaJ1Xk"
+    },
+    {
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
+    },
+    {
+      "album": {
+        "name": "How Sweet the Sound",
+        "url": "https://open.spotify.com/album/5OdF8tz3Au9u7awZKr4xqE"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "I will Never Marry",
+      "url": "https://open.spotify.com/track/2DVIJip6V7vwUCWhWZdJWE"
+    },
+    {
+      "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6"
+    },
+    {
+      "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "It's All Over Now, Baby Blue",
+      "url": "https://open.spotify.com/track/5oeFMb1rbllXWxafIFxX52"
+    },
+    {
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "James & The Gang",
+      "url": "https://open.spotify.com/track/0oVbP6H6Erf8eg03F33MbF"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/61w0fi4vQywV8YIHznnhBr"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268173,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/4SZsWnedm0PwfGMztvTDHb"
+    },
+    {
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/40k0TSTenVponbKzY4c9Ew"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "La Llorona (The Weeping Woman)",
+      "url": "https://open.spotify.com/track/3U8poKWDyclUiTONKs6QIs"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits And Others",
+        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/4nzuujPepvK9gaUyxulAPT"
+    },
+    {
+      "album": {
+        "name": "Live At Newport",
+        "url": "https://open.spotify.com/album/6DD9mf89uQD82tzoB1cZRN"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "Long Black Veil",
+      "url": "https://open.spotify.com/track/42RHnTR92sA6GMAc7kHIP6"
+    },
+    {
+      "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "Love Is Just A Four-Letter Word",
+      "url": "https://open.spotify.com/track/3qq5qOc70lovPvgBqI0vBI"
+    },
+    {
+      "album": {
+        "name": "How Sweet the Sound",
+        "url": "https://open.spotify.com/album/5OdF8tz3Au9u7awZKr4xqE"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293200,
+      "name": "Love Song To A Stranger",
+      "url": "https://open.spotify.com/track/2vGEpCAF1GrSVnCzG7ukRk"
+    },
+    {
+      "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1dvS3jG5ovvMlctpPuxXsX"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234066,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/1zfP8q3H5eMbZSyyp6R5Qy"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/61w0fi4vQywV8YIHznnhBr"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165026,
+      "name": "Never Dreamed You'd Leave In Summer",
+      "url": "https://open.spotify.com/track/5TRzu0Heu1Rp7crgHNW8Qh"
+    },
+    {
+      "album": {
+        "name": "The First 10 Years",
+        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230826,
+      "name": "No Expectations",
+      "url": "https://open.spotify.com/track/3bWxltjraNlnSdX4bpEkPm"
+    },
+    {
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225640,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/4xsbcFEIM5dkQZmEKg7Z9e"
+    },
+    {
+      "album": {
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349466,
+      "name": "Oh Freedom / Ain\u2019t Gonna Let Nobody Turn Me Around - Medley",
+      "url": "https://open.spotify.com/track/0yapcX2lGADsCmKTeUaXAX"
+    },
+    {
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186520,
+      "name": "Recently",
+      "url": "https://open.spotify.com/track/6I0X3yPC0cF7cp29eeBm5q"
+    },
+    {
+      "album": {
+        "name": "Ring Them Bells (Collector's Edition / Live)",
+        "url": "https://open.spotify.com/album/5UVNLEgUPc2vhDB30herJN"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Mary Black",
+          "url": "https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Ring Them Bells - Live",
+      "url": "https://open.spotify.com/track/7lieUbamDaAITKYfqZs8CN"
+    },
+    {
+      "album": {
+        "name": "Joan",
+        "url": "https://open.spotify.com/album/7MHKK9mfQGgNOF3BXOvcUD"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Saigon Bride",
+      "url": "https://open.spotify.com/track/3pqYXhr6eeC4HdBb7VivSO"
+    },
+    {
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206906,
+      "name": "Satisfied Mind",
+      "url": "https://open.spotify.com/track/514mJOyHmx2qoLGXyyEaia"
+    },
+    {
+      "album": {
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344293,
+      "name": "She Moved Through The Fair",
+      "url": "https://open.spotify.com/track/3lroklVIelJiObRBewQXz7"
+    },
+    {
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152066,
+      "name": "Silver Dagger",
+      "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
+    },
+    {
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3SBybndqrgHuP5eRntLuuc"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Sweet Sir Galahad",
+      "url": "https://open.spotify.com/track/3QOx7YIWTzbBkx4JgiTEpP"
+    },
+    {
+      "album": {
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445880,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits And Others",
+        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "The Dangling Conversation",
+      "url": "https://open.spotify.com/track/6SNQzPSt1SEJE0GY59KgZd"
+    },
+    {
+      "album": {
+        "name": "Joan Baez, Vol. Ii",
+        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "The Lily Of The West",
+      "url": "https://open.spotify.com/track/5PLaAHbGpQ8DVfChRG2y2b"
+    },
+    {
+      "album": {
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "The Moon Is A Harsh Mistress",
+      "url": "https://open.spotify.com/track/5UQ8amy5ifba2JkYnAW6XK"
+    },
+    {
+      "album": {
+        "name": "Blessed Are...",
+        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "The Night They Drove Old Dixie Down",
+      "url": "https://open.spotify.com/track/0uHYplBhwLYey7f9qAmnSM"
+    },
+    {
+      "album": {
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        },
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304920,
+      "name": "The Water Is Wide",
+      "url": "https://open.spotify.com/track/1wn4WMOzOZo9PXAJdDlcGS"
+    },
+    {
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277600,
+      "name": "The Wild Mountain Thyme",
+      "url": "https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj"
+    },
+    {
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "There But For Fortune",
+      "url": "https://open.spotify.com/track/7qY7QChY4O2D3QhwgvNx8R"
+    },
+    {
+      "album": {
+        "name": "Blessed Are...",
+        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426960,
+      "name": "Three Horses",
+      "url": "https://open.spotify.com/track/5Ese1AqAteIpdwylReWpMX"
+    },
+    {
+      "album": {
+        "name": "Whistle Down The Wind",
+        "url": "https://open.spotify.com/album/5g8ffe9SMlni7xgpZVlGiW"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289440,
+      "name": "Whistle Down The Wind",
+      "url": "https://open.spotify.com/track/1OM9uPyyeay3FUBdO1SiiH"
+    },
+    {
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2020-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157160,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0ylvIHUvZdj"
 }

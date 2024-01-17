@@ -2,7 +2,7 @@
 
 ### [Bollywood Central](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> Bollywood Central, jab baje toh seedha dil ke centre mein lage ❤️
+> Bollywood Central, jab baje toh seedha dil ke centre mein lage ❤️ Cover \- Animal
 
 129 songs - 8 hr 36 min
 

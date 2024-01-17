@@ -1,354 +1,1155 @@
 {
-  "2023-01-14": 2849,
-  "2023-01-15": 2847,
-  "2023-01-16": 2853,
-  "2023-01-17": 2857,
-  "2023-01-18": 2862,
-  "2023-01-19": 2866,
-  "2023-01-20": 2873,
-  "2023-01-21": 2881,
-  "2023-01-22": 2884,
-  "2023-01-23": 2887,
-  "2023-01-24": 2890,
-  "2023-01-25": 2896,
-  "2023-01-26": 2904,
-  "2023-01-27": 2904,
-  "2023-01-28": 2907,
-  "2023-01-29": 2915,
-  "2023-01-30": 2916,
-  "2023-01-31": 2916,
-  "2023-02-01": 2926,
-  "2023-02-02": 2931,
-  "2023-02-03": 2933,
-  "2023-02-04": 2944,
-  "2023-02-05": 2942,
-  "2023-02-06": 2948,
-  "2023-02-07": 2953,
-  "2023-02-08": 2955,
-  "2023-02-09": 2955,
-  "2023-02-10": 2962,
-  "2023-02-11": 2965,
-  "2023-02-12": 2974,
-  "2023-02-13": 2979,
-  "2023-02-14": 2979,
-  "2023-02-15": 2981,
-  "2023-02-16": 2987,
-  "2023-02-17": 2989,
-  "2023-02-18": 3000,
-  "2023-02-19": 3001,
-  "2023-02-20": 3004,
-  "2023-02-21": 3008,
-  "2023-02-22": 3010,
-  "2023-02-23": 3013,
-  "2023-02-24": 3018,
-  "2023-02-25": 3023,
-  "2023-02-26": 3031,
-  "2023-02-27": 3042,
-  "2023-02-28": 3042,
-  "2023-03-01": 3045,
-  "2023-03-02": 3049,
-  "2023-03-03": 3057,
-  "2023-03-04": 3061,
-  "2023-03-05": 3076,
-  "2023-03-06": 3076,
-  "2023-03-07": 3082,
-  "2023-03-08": 3086,
-  "2023-03-09": 3092,
-  "2023-03-10": 3093,
-  "2023-03-11": 3101,
-  "2023-03-12": 3107,
-  "2023-03-13": 3113,
-  "2023-03-14": 3115,
-  "2023-03-15": 3119,
-  "2023-03-16": 3119,
-  "2023-03-17": 3119,
-  "2023-03-18": 3133,
-  "2023-03-19": 3133,
-  "2023-03-20": 3139,
-  "2023-03-21": 3142,
-  "2023-03-22": 3142,
-  "2023-03-23": 3144,
-  "2023-03-24": 3144,
-  "2023-03-25": 3148,
-  "2023-03-26": 3152,
-  "2023-03-27": 3153,
-  "2023-03-28": 3158,
-  "2023-03-29": 3162,
-  "2023-03-30": 3173,
-  "2023-03-31": 3173,
-  "2023-04-01": 3176,
-  "2023-04-02": 3180,
-  "2023-04-03": 3183,
-  "2023-04-04": 3189,
-  "2023-04-05": 3191,
-  "2023-04-06": 3194,
-  "2023-04-07": 3198,
-  "2023-04-09": 3201,
-  "2023-04-10": 3203,
-  "2023-04-11": 3211,
-  "2023-04-12": 3211,
-  "2023-04-13": 3218,
-  "2023-04-14": 3219,
-  "2023-04-15": 3221,
-  "2023-04-16": 3229,
-  "2023-04-17": 3233,
-  "2023-04-18": 3235,
-  "2023-04-19": 3236,
-  "2023-04-20": 3244,
-  "2023-04-21": 3249,
-  "2023-04-22": 3257,
-  "2023-04-23": 3263,
-  "2023-04-24": 3264,
-  "2023-04-25": 3265,
-  "2023-04-26": 3266,
-  "2023-04-27": 3269,
-  "2023-04-28": 3272,
-  "2023-04-29": 3274,
-  "2023-04-30": 3277,
-  "2023-05-01": 3280,
-  "2023-05-02": 3282,
-  "2023-05-03": 3289,
-  "2023-05-04": 3292,
-  "2023-05-05": 3297,
-  "2023-05-06": 3302,
-  "2023-05-07": 3303,
-  "2023-05-08": 3306,
-  "2023-05-09": 3311,
-  "2023-05-10": 3317,
-  "2023-05-11": 3320,
-  "2023-05-12": 3325,
-  "2023-05-13": 3331,
-  "2023-05-14": 3333,
-  "2023-05-15": 3336,
-  "2023-05-16": 3342,
-  "2023-05-17": 3346,
-  "2023-05-18": 3349,
-  "2023-05-19": 3357,
-  "2023-05-20": 3365,
-  "2023-05-21": 3365,
-  "2023-05-22": 3365,
-  "2023-05-23": 3373,
-  "2023-05-24": 3387,
-  "2023-05-25": 3388,
-  "2023-05-26": 3396,
-  "2023-05-27": 3401,
-  "2023-05-28": 3406,
-  "2023-05-29": 3406,
-  "2023-05-30": 3418,
-  "2023-05-31": 3427,
-  "2023-06-01": 3433,
-  "2023-06-02": 3439,
-  "2023-06-03": 3443,
-  "2023-06-04": 3443,
-  "2023-06-05": 3449,
-  "2023-06-06": 3454,
-  "2023-06-07": 3457,
-  "2023-06-08": 3464,
-  "2023-06-09": 3471,
-  "2023-06-10": 3472,
-  "2023-06-11": 3474,
-  "2023-06-12": 3483,
-  "2023-06-13": 3491,
-  "2023-06-14": 3497,
-  "2023-06-15": 3499,
-  "2023-06-16": 3501,
-  "2023-06-17": 3507,
-  "2023-06-18": 3511,
-  "2023-06-19": 3516,
-  "2023-06-20": 3519,
-  "2023-06-21": 3521,
-  "2023-06-22": 3523,
-  "2023-06-23": 3525,
-  "2023-06-24": 3529,
-  "2023-06-25": 3530,
-  "2023-06-26": 3533,
-  "2023-06-27": 3537,
-  "2023-06-28": 3538,
-  "2023-06-29": 3544,
-  "2023-06-30": 3545,
-  "2023-07-01": 3556,
-  "2023-07-02": 3556,
-  "2023-07-03": 3559,
-  "2023-07-04": 3565,
-  "2023-07-05": 3569,
-  "2023-07-06": 3585,
-  "2023-07-07": 3585,
-  "2023-07-08": 3585,
-  "2023-07-09": 3594,
-  "2023-07-10": 3601,
-  "2023-07-11": 3605,
-  "2023-07-12": 3611,
-  "2023-07-13": 3617,
-  "2023-07-14": 3621,
-  "2023-07-15": 3620,
-  "2023-07-16": 3629,
-  "2023-07-17": 3629,
-  "2023-07-18": 3634,
-  "2023-07-19": 3638,
-  "2023-07-20": 3638,
-  "2023-07-21": 3646,
-  "2023-07-22": 3648,
-  "2023-07-23": 3650,
-  "2023-07-24": 3652,
-  "2023-07-25": 3657,
-  "2023-07-26": 3660,
-  "2023-07-27": 3662,
-  "2023-07-28": 3665,
-  "2023-07-29": 3671,
-  "2023-07-30": 3677,
-  "2023-07-31": 3679,
-  "2023-08-01": 3685,
-  "2023-08-02": 3688,
-  "2023-08-03": 3691,
-  "2023-08-04": 3693,
-  "2023-08-05": 3700,
-  "2023-08-06": 3714,
-  "2023-08-07": 3714,
-  "2023-08-08": 3716,
-  "2023-08-09": 3722,
-  "2023-08-10": 3725,
-  "2023-08-11": 3730,
-  "2023-08-12": 3730,
-  "2023-08-13": 3730,
-  "2023-08-14": 3744,
-  "2023-08-15": 3744,
-  "2023-08-16": 3744,
-  "2023-08-17": 3744,
-  "2023-08-18": 3744,
-  "2023-08-19": 3744,
-  "2023-08-20": 3764,
-  "2023-08-21": 3764,
-  "2023-08-22": 3769,
-  "2023-08-23": 3769,
-  "2023-08-24": 3769,
-  "2023-08-25": 3769,
-  "2023-08-26": 3780,
-  "2023-08-27": 3780,
-  "2023-08-28": 3788,
-  "2023-08-29": 3788,
-  "2023-08-30": 3788,
-  "2023-08-31": 3790,
-  "2023-09-01": 3797,
-  "2023-09-02": 3797,
-  "2023-09-03": 3797,
-  "2023-09-04": 3797,
-  "2023-09-05": 3797,
-  "2023-09-06": 3797,
-  "2023-09-07": 3797,
-  "2023-09-08": 3797,
-  "2023-09-09": 3797,
-  "2023-09-10": 3797,
-  "2023-09-11": 3797,
-  "2023-09-12": 3797,
-  "2023-09-13": 3797,
-  "2023-09-14": 3797,
-  "2023-09-15": 3797,
-  "2023-09-16": 3859,
-  "2023-09-17": 3859,
-  "2023-09-18": 3859,
-  "2023-09-19": 3865,
-  "2023-09-20": 3865,
-  "2023-09-21": 3865,
-  "2023-09-22": 3867,
-  "2023-09-23": 3867,
-  "2023-09-24": 3867,
-  "2023-09-25": 3867,
-  "2023-09-26": 3884,
-  "2023-09-27": 3884,
-  "2023-09-28": 3884,
-  "2023-09-29": 3884,
-  "2023-09-30": 3884,
-  "2023-10-01": 3884,
-  "2023-10-02": 3884,
-  "2023-10-03": 3884,
-  "2023-10-04": 3884,
-  "2023-10-05": 3884,
-  "2023-10-06": 3884,
-  "2023-10-07": 3884,
-  "2023-10-08": 3884,
-  "2023-10-09": 3884,
-  "2023-10-10": 3884,
-  "2023-10-11": 3939,
-  "2023-10-12": 3939,
-  "2023-10-13": 3939,
-  "2023-10-14": 3939,
-  "2023-10-15": 3939,
-  "2023-10-16": 3939,
-  "2023-10-17": 3939,
-  "2023-10-18": 3939,
-  "2023-10-19": 3939,
-  "2023-10-20": 3939,
-  "2023-10-21": 3939,
-  "2023-10-22": 3939,
-  "2023-10-23": 3939,
-  "2023-10-24": 3939,
-  "2023-10-25": 3939,
-  "2023-10-26": 3939,
-  "2023-10-27": 3939,
-  "2023-10-28": 3939,
-  "2023-10-29": 3939,
-  "2023-10-30": 3939,
-  "2023-10-31": 3939,
-  "2023-11-01": 3939,
-  "2023-11-02": 3939,
-  "2023-11-03": 3939,
-  "2023-11-04": 3939,
-  "2023-11-05": 3939,
-  "2023-11-06": 3939,
-  "2023-11-07": 3939,
-  "2023-11-08": 3939,
-  "2023-11-09": 3939,
-  "2023-11-10": 3939,
-  "2023-11-11": 4037,
-  "2023-11-12": 4037,
-  "2023-11-13": 4037,
-  "2023-11-14": 4037,
-  "2023-11-15": 4037,
-  "2023-11-16": 4037,
-  "2023-11-17": 4037,
-  "2023-11-18": 4037,
-  "2023-11-19": 4037,
-  "2023-11-20": 4037,
-  "2023-11-21": 4037,
-  "2023-11-22": 4037,
-  "2023-11-23": 4037,
-  "2023-11-24": 4037,
-  "2023-11-25": 4037,
-  "2023-11-26": 4037,
-  "2023-11-27": 4037,
-  "2023-11-28": 4037,
-  "2023-11-29": 4037,
-  "2023-11-30": 4037,
-  "2023-12-01": 4037,
-  "2023-12-02": 4037,
-  "2023-12-03": 4037,
-  "2023-12-04": 4037,
-  "2023-12-05": 4037,
-  "2023-12-06": 4037,
-  "2023-12-07": 4037,
-  "2023-12-08": 4037,
-  "2023-12-09": 4037,
-  "2023-12-10": 4037,
-  "2023-12-11": 4037,
-  "2023-12-12": 4037,
-  "2023-12-13": 4037,
-  "2023-12-14": 4138,
-  "2023-12-15": 4138,
-  "2023-12-16": 4142,
-  "2023-12-17": 4147,
-  "2023-12-18": 4150,
-  "2023-12-19": 4150,
-  "2023-12-20": 4152,
-  "2023-12-21": 4158,
-  "2023-12-22": 4160,
-  "2023-12-23": 4164,
-  "2023-12-24": 4165,
-  "2023-12-25": 4168,
-  "2023-12-26": 4170,
-  "2023-12-27": 4177,
-  "2023-12-30": 4188,
-  "2023-12-31": 4190,
-  "2024-01-01": 4192,
-  "2024-01-02": 4193,
-  "2024-01-03": 4195
+  "2024-01-17": 4226,
+  "date_first_scraped": "2023-01-14",
+  "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
+  "name": "This Is Charlie Monttana",
+  "tracks": [
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228530,
+      "name": "Ataque",
+      "url": "https://open.spotify.com/track/3SdI7oIwqdpZcwuTf6TqCp"
+    },
+    {
+      "album": {
+        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
+        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "Blues para Trabajar - En Vivo",
+      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
+    },
+    {
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287066,
+      "name": "Brillando en la Obscuridad",
+      "url": "https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK"
+    },
+    {
+      "album": {
+        "name": "Pares y Duetos: Disco 2",
+        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Transmetal",
+          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Cayendo",
+      "url": "https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO"
+    },
+    {
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Como las Hojas",
+      "url": "https://open.spotify.com/track/29zaOzj0yjImJ8yltwD1KG"
+    },
+    {
+      "album": {
+        "name": "Pares y Duetos: Disco 1",
+        "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-20",
+      "duration_ms": 245066,
+      "name": "Como las Hojas",
+      "url": "https://open.spotify.com/track/2WtlUoUJHSjrOFZg3VGgOv"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "Corazones Rotos",
+      "url": "https://open.spotify.com/track/6Zl0iCDdfhR5VWHiDFRycO"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278666,
+      "name": "De Que el Amor Apesta",
+      "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "Derramando Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB"
+    },
+    {
+      "album": {
+        "name": "Pares y Duetos: Disco 1",
+        "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 179546,
+      "name": "D\u00e9jame Rocanrolearte",
+      "url": "https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1"
+    },
+    {
+      "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146466,
+      "name": "D\u00e9jenme Rockanrolear",
+      "url": "https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ"
+    },
+    {
+      "album": {
+        "name": "Pares y Duetos, Disco 3",
+        "url": "https://open.spotify.com/album/2RP9lmCNj2n5vGL6POGWZU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Lalo Tex",
+          "url": "https://open.spotify.com/artist/32qNFnXBJ97qsGNVVOUJ7w"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270600,
+      "name": "El Vaquero Rocanrolero",
+      "url": "https://open.spotify.com/track/5qIkSQH1NhKJlInZpmbsiy"
+    },
+    {
+      "album": {
+        "name": "Pares y Duetos: Disco 1",
+        "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205760,
+      "name": "Empan\u00edzame la Mojarra",
+      "url": "https://open.spotify.com/track/0Si0jP8VqfXivdvhnQG6A2"
+    },
+    {
+      "album": {
+        "name": "Dr. Hollywood",
+        "url": "https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Es Que Te Amo, Pt. 1",
+      "url": "https://open.spotify.com/track/2i5YDMvJ10Wcx4tIquYgxx"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Estoy Ardiendo",
+      "url": "https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK"
+    },
+    {
+      "album": {
+        "name": "Pares y Duetos: Disco 2",
+        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Estoy Tan Solo",
+      "url": "https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/3dYIbbqwLf6WpnnfhqriCG"
+    },
+    {
+      "album": {
+        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
+        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 266506,
+      "name": "Intro + 4 de Febrero - En Vivo",
+      "url": "https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203173,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175906,
+      "name": "La Rubia",
+      "url": "https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5"
+    },
+    {
+      "album": {
+        "name": "Rock Star",
+        "url": "https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313933,
+      "name": "La \u00daltima Carta",
+      "url": "https://open.spotify.com/track/5YBgsFJou4PLqaBSuO9YSJ"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206239,
+      "name": "Las Encueradas",
+      "url": "https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg"
+    },
+    {
+      "album": {
+        "name": "Montamorfosis",
+        "url": "https://open.spotify.com/album/7ALgl4x4459Wn1yFaotbkT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207447,
+      "name": "Ll\u00e9vatela pa Tu Casa",
+      "url": "https://open.spotify.com/track/2r4bXPcsTPTrPeFqaSVM5r"
+    },
+    {
+      "album": {
+        "name": "Presente: Mi Legado",
+        "url": "https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Me Gusta Tu Chava",
+      "url": "https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K"
+    },
+    {
+      "album": {
+        "name": "Montamorfosis",
+        "url": "https://open.spotify.com/album/7ALgl4x4459Wn1yFaotbkT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261688,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/4hwNgohVFTNCvXUdWLVmOM"
+    },
+    {
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Mi Terrible Soledad",
+      "url": "https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO"
+    },
+    {
+      "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "No Me la Acab\u00f3",
+      "url": "https://open.spotify.com/track/2O6PTggiZQT3kRZ20EIX1v"
+    },
+    {
+      "album": {
+        "name": "Rock Star",
+        "url": "https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254733,
+      "name": "No Te Mueras en Mi Casa",
+      "url": "https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q"
+    },
+    {
+      "album": {
+        "name": "12 A\u00f1os de Punkrock... Y No Mamadas",
+        "url": "https://open.spotify.com/album/3DH1EgwejIGD44XLuhb82r"
+      },
+      "artists": [
+        {
+          "name": "Seguimos Perdiendo",
+          "url": "https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr"
+        },
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177015,
+      "name": "Pastillas y Coca\u00edna",
+      "url": "https://open.spotify.com/track/0FxWqZ0D0XSYoKN5CCCgq2"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153320,
+      "name": "Perd\u00f3name Mi Amor",
+      "url": "https://open.spotify.com/track/7Mtc9v1kK4jZjQmWi155xM"
+    },
+    {
+      "album": {
+        "name": "Ford Monttana 69",
+        "url": "https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 291426,
+      "name": "Pero Apareciste T\u00fa",
+      "url": "https://open.spotify.com/track/7u0Y2ZHmWqIs9FBzxFhzz6"
+    },
+    {
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306360,
+      "name": "Pinche Pancho",
+      "url": "https://open.spotify.com/track/5aPW7Izp95syL826w96yO6"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200226,
+      "name": "Pinche Vatito",
+      "url": "https://open.spotify.com/track/0sH55NdPhIRuAAjB5GDen1"
+    },
+    {
+      "album": {
+        "name": "Pinches Mariguanos",
+        "url": "https://open.spotify.com/album/089KiimOn0i7lGJJztXELG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211146,
+      "name": "Pinches Mariguanos",
+      "url": "https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH"
+    },
+    {
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282946,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Por No Tener a Quien Amar",
+      "url": "https://open.spotify.com/track/3LephrgrP9s47JW97NA3UK"
+    },
+    {
+      "album": {
+        "name": "Decreto por el Regreso de los Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309626,
+      "name": "Prot\u00e9geme",
+      "url": "https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F"
+    },
+    {
+      "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344920,
+      "name": "Ramillete de Piernas",
+      "url": "https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra"
+    },
+    {
+      "album": {
+        "name": "Teatro Metropolitan 2018 (En Vivo)",
+        "url": "https://open.spotify.com/album/3jjZeLI5yIcstu7qFIDgeU"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343613,
+      "name": "Recuerdos (En Vivo)",
+      "url": "https://open.spotify.com/track/2OvWNqEgX2avknXMNiJcRM"
+    },
+    {
+      "album": {
+        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
+        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 222680,
+      "name": "Si Se Acuerda la Banda - En Vivo",
+      "url": "https://open.spotify.com/track/0Zqjsu8XkzpjELsNHVZ4nB"
+    },
+    {
+      "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286106,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW"
+    },
+    {
+      "album": {
+        "name": "Dr. Hollywood",
+        "url": "https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317920,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7"
+    },
+    {
+      "album": {
+        "name": "Rockin' And Rollin'",
+        "url": "https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 200200,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/6bd9jqWlKdzkKqshA00OY1"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 213484,
+      "name": "Tocando el Cielo",
+      "url": "https://open.spotify.com/track/4q0iHgSQgyeFtkc0DbWFq7"
+    },
+    {
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Tocando el Cielo",
+      "url": "https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB"
+    },
+    {
+      "album": {
+        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
+        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320306,
+      "name": "Todas Esas Lagrimas - En Vivo",
+      "url": "https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223747,
+      "name": "Todos Estos A\u00f1os",
+      "url": "https://open.spotify.com/track/3RyPPIzLHpXG8bIw4SVItO"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242680,
+      "name": "Tu Mam\u00e1 No Me Quiere",
+      "url": "https://open.spotify.com/track/0cDbBduK0f4n0WBQjThaYV"
+    },
+    {
+      "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ"
+    },
+    {
+      "album": {
+        "name": "Pares y Duetos: Disco 2",
+        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 358000,
+      "name": "T\u00fa No Sabes Chupar",
+      "url": "https://open.spotify.com/track/1Imw8CswIvCg7SmmEtjRAz"
+    },
+    {
+      "album": {
+        "name": "En El Teatro Ferrocarrilero (En Vivo Vol. 2)",
+        "url": "https://open.spotify.com/album/3Jt4yEPdiMwXfTUVfOQUtE"
+      },
+      "artists": [
+        {
+          "name": "Sur 16",
+          "url": "https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq"
+        },
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 238816,
+      "name": "Una Vez Mas - En Vivo",
+      "url": "https://open.spotify.com/track/30miTbpiE0lfCiLEEQryYF"
+    },
+    {
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 255746,
+      "name": "Vaquero Rockanrolero",
+      "url": "https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256394,
+      "name": "Vaquero Rockanrolero",
+      "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
+    },
+    {
+      "album": {
+        "name": "Decreto por el Regreso de los Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263026,
+      "name": "Whatsapp",
+      "url": "https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl"
+    },
+    {
+      "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Y Sufrir\u00e1s",
+      "url": "https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308453,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/2lNmpgbYahhoq600OzGbhA"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 304800,
+      "name": "Ya No Te Tengo",
+      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
+    },
+    {
+      "album": {
+        "name": "Decreto por el Regreso de los Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226520,
+      "name": "\u00a1Vete al Carajo!",
+      "url": "https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "\u00bfD\u00f3nde Est\u00e1s?",
+      "url": "https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A"
+    },
+    {
+      "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "\u00d3jala Fuera un Cuento",
+      "url": "https://open.spotify.com/track/1WHoZMGtJoaOq6AKvhp6az"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HRG4F"
 }

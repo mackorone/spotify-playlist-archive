@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Beloved Dance",
+        "url": "https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183250,
+      "name": "Beloved Dance",
+      "url": "https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy"
+    },
+    {
+      "album": {
         "name": "Beloved Moment",
         "url": "https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze"
       },
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 301500,
       "name": "Clear as Autumn Nights",
       "url": "https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J"
@@ -2505,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Decor-free",
+        "url": "https://open.spotify.com/album/1cry6SmclW8CYxmloksuVf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Troedsson",
+          "url": "https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239163,
+      "name": "Decor-free",
+      "url": "https://open.spotify.com/track/4iACpgxgxLkWkd4kypNNwx"
+    },
+    {
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c"
       },
@@ -2761,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t ruin it",
+        "url": "https://open.spotify.com/album/3Y9sptxgegR4ePGCr5JYXR"
+      },
+      "artists": [
+        {
+          "name": "Lia Riggs Trio",
+          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134035,
+      "name": "Don\u2019t ruin it",
+      "url": "https://open.spotify.com/track/5E9FQwE8VNfNYB9bSD8lAn"
+    },
+    {
+      "album": {
         "name": "That's Where It's At",
         "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
@@ -2986,6 +3040,32 @@
     {
       "album": {
         "name": "West of 5th",
+        "url": "https://open.spotify.com/album/0U3WgFMFWPqcR4xf1kEXLT"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 289693,
+      "name": "Eleanor",
+      "url": "https://open.spotify.com/track/3acWM17VlZFZbYhgUKfpzt"
+    },
+    {
+      "album": {
+        "name": "West of 5th",
         "url": "https://open.spotify.com/album/7HzP4w4TIlGa9I6xEAklBc"
       },
       "artists": [
@@ -3008,6 +3088,24 @@
       "duration_ms": 289693,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/6vWkMerIb8fzLSeYQ7iCCi"
+    },
+    {
+      "album": {
+        "name": "Elegy",
+        "url": "https://open.spotify.com/album/1hAhmAaCca1No1t1ZZcKHj"
+      },
+      "artists": [
+        {
+          "name": "Buss Quartet",
+          "url": "https://open.spotify.com/artist/1OfER2aiowHuG93YnU0w7I"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY"
     },
     {
       "album": {
@@ -3148,7 +3246,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 215868,
       "name": "Evening Dance",
       "url": "https://open.spotify.com/track/2mWTB2ZKouAhTQruOpbyMA"
@@ -3790,7 +3888,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 204515,
       "name": "Full-time Obsession",
       "url": "https://open.spotify.com/track/3ecM9Yp2c4Aw37mni1kOi2"
@@ -3848,6 +3946,24 @@
       "duration_ms": 265226,
       "name": "Gee Baby, Ain't I Good To You - Remastered",
       "url": "https://open.spotify.com/track/3UrxgGboM1N5xsdOcz4o0K"
+    },
+    {
+      "album": {
+        "name": "Gentle Rain",
+        "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192874,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
     },
     {
       "album": {
@@ -4042,7 +4158,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 156237,
       "name": "Half to the hills",
       "url": "https://open.spotify.com/track/2zPWKbfRZojow5x9ljlfUC"
@@ -4096,7 +4212,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 250853,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i"
@@ -4652,6 +4768,24 @@
       "duration_ms": 231379,
       "name": "I Guess I'll Have To Change My Plans",
       "url": "https://open.spotify.com/track/1Dn4xfTFsE7T3QM7adZFo4"
+    },
+    {
+      "album": {
+        "name": "I Hear You Now",
+        "url": "https://open.spotify.com/album/7KAddonNSAiDuYBlMZIYS3"
+      },
+      "artists": [
+        {
+          "name": "Carla Anderson",
+          "url": "https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223454,
+      "name": "I Hear You Now",
+      "url": "https://open.spotify.com/track/6SMfs8KCyzSANk33d3cQcN"
     },
     {
       "album": {
@@ -5818,7 +5952,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 218516,
       "name": "Journee",
       "url": "https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi"
@@ -5879,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "Keeping Records",
+        "url": "https://open.spotify.com/album/3sVOt2neHbez0mTDaRrvX7"
+      },
+      "artists": [
+        {
+          "name": "Gaige Myers",
+          "url": "https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221149,
+      "name": "Keeping Records",
+      "url": "https://open.spotify.com/track/03gAqGt9brarmfmF0xJNBr"
+    },
+    {
+      "album": {
         "name": "Kept running",
         "url": "https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt"
       },
@@ -5912,6 +6064,24 @@
       "duration_ms": 197198,
       "name": "Kingfisher",
       "url": "https://open.spotify.com/track/64w7l0VwTdnnoYvvIRoQ77"
+    },
+    {
+      "album": {
+        "name": "L'Isle de belles r\u00eaves",
+        "url": "https://open.spotify.com/album/3l5m9KfsjJjOxATo1aHAyN"
+      },
+      "artists": [
+        {
+          "name": "Jean-Baptiste Rees",
+          "url": "https://open.spotify.com/artist/5E0PYnAOEfcjASo2ZEK7nM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187194,
+      "name": "L'Isle de belles r\u00eaves",
+      "url": "https://open.spotify.com/track/7lbWwenk01MX1mY8xlJbAS"
     },
     {
       "album": {
@@ -6484,7 +6654,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": "2024-01-08",
       "duration_ms": 334866,
       "name": "Lonely Town",
       "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
@@ -6826,7 +6996,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 231920,
       "name": "Mama's Fish House",
       "url": "https://open.spotify.com/track/7Lg4ezQ23LtLQCF8ONnolW"
@@ -8670,7 +8840,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 460000,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/6gwOTHR7B1YyWlnAiMBoT0"
@@ -9235,6 +9405,24 @@
     },
     {
       "album": {
+        "name": "Shadow Play",
+        "url": "https://open.spotify.com/album/0FGaEv4Rl39dHICS8ioAIN"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225100,
+      "name": "Shadow Play",
+      "url": "https://open.spotify.com/track/1VLxIOjukOrzBwqL6mp9Q3"
+    },
+    {
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ"
       },
@@ -9574,6 +9762,24 @@
       "duration_ms": 174552,
       "name": "Soft Lad",
       "url": "https://open.spotify.com/track/2D5WUT4UAYqceSBUmwstDf"
+    },
+    {
+      "album": {
+        "name": "Soft Moments",
+        "url": "https://open.spotify.com/album/2jqAwZGJu7ymVMmo3qYTKD"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202851,
+      "name": "Soft Moments",
+      "url": "https://open.spotify.com/track/0cGUiaeg4Ty9MxXIttAnQB"
     },
     {
       "album": {
@@ -10128,7 +10334,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 160029,
       "name": "Streetlights In Nightime",
       "url": "https://open.spotify.com/track/2r810ZLTVaACtPtjEgzL5B"
@@ -10470,7 +10676,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 214375,
       "name": "The Ansible",
       "url": "https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l"
@@ -10578,7 +10784,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 203030,
       "name": "The Beat Of A Different Drum",
       "url": "https://open.spotify.com/track/67ljrdF7u8X2xbj4zgkPDQ"
@@ -11198,7 +11404,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 157928,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/5MCVwLbFOCJ1zCPM1kJqH7"
@@ -11436,7 +11642,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 209430,
       "name": "Tideaway",
       "url": "https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY"
@@ -11746,6 +11952,24 @@
       "duration_ms": 213750,
       "name": "Up before the dawn",
       "url": "https://open.spotify.com/track/1R7EYodTHWPEyV5u96oFRE"
+    },
+    {
+      "album": {
+        "name": "Urban Jazz Chronicles",
+        "url": "https://open.spotify.com/album/3t43Otx3MUbxa0u6WLEKp0"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221431,
+      "name": "Urban Jazz Chronicles",
+      "url": "https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz"
     },
     {
       "album": {
@@ -12110,6 +12334,24 @@
       "duration_ms": 170000,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/0s3HQstgfSJ3HYKRxcgkA4"
+    },
+    {
+      "album": {
+        "name": "What about us?",
+        "url": "https://open.spotify.com/album/1LsjFX2NwGjN1t0lqLZCtJ"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169566,
+      "name": "What about us?",
+      "url": "https://open.spotify.com/track/2sPyhvBDiIdvbcKShnNh1D"
     },
     {
       "album": {
@@ -12770,6 +13012,24 @@
       "duration_ms": 304694,
       "name": "You Gave Me That Look",
       "url": "https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1"
+    },
+    {
+      "album": {
+        "name": "You Go To My Head",
+        "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299029,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
     },
     {
       "album": {

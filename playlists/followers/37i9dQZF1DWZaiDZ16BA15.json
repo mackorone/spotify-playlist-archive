@@ -1,467 +1,391 @@
 {
-  "2022-09-22": 992,
-  "2022-09-23": 1199,
-  "2022-09-24": 1418,
-  "2022-09-25": 1572,
-  "2022-09-26": 1731,
-  "2022-09-27": 1793,
-  "2022-09-28": 1846,
-  "2022-09-29": 1925,
-  "2022-09-30": 1995,
-  "2022-10-01": 2046,
-  "2022-10-02": 2096,
-  "2022-10-03": 2123,
-  "2022-10-04": 2172,
-  "2022-10-05": 2206,
-  "2022-10-06": 2229,
-  "2022-10-07": 2269,
-  "2022-10-08": 2292,
-  "2022-10-09": 2333,
-  "2022-10-10": 2335,
-  "2022-10-11": 2371,
-  "2022-10-12": 2405,
-  "2022-10-13": 2425,
-  "2022-10-14": 2448,
-  "2022-10-15": 2484,
-  "2022-10-16": 2526,
-  "2022-10-17": 2554,
-  "2022-10-18": 2578,
-  "2022-10-19": 2607,
-  "2022-10-20": 2640,
-  "2022-10-21": 2668,
-  "2022-10-22": 2701,
-  "2022-10-23": 2725,
-  "2022-10-24": 2745,
-  "2022-10-25": 2813,
-  "2022-10-26": 2845,
-  "2022-10-27": 2876,
-  "2022-10-28": 2904,
-  "2022-10-29": 2937,
-  "2022-10-30": 2993,
-  "2022-10-31": 3030,
-  "2022-11-01": 3083,
-  "2022-11-02": 3132,
-  "2022-11-03": 3201,
-  "2022-11-04": 3254,
-  "2022-11-05": 3324,
-  "2022-11-06": 3387,
-  "2022-11-07": 3443,
-  "2022-11-08": 3488,
-  "2022-11-09": 3533,
-  "2022-11-10": 3576,
-  "2022-11-11": 3633,
-  "2022-11-12": 3703,
-  "2022-11-13": 3752,
-  "2022-11-14": 3821,
-  "2022-11-15": 3871,
-  "2022-11-16": 3921,
-  "2022-11-17": 3974,
-  "2022-11-18": 3996,
-  "2022-11-19": 3987,
-  "2022-11-20": 3996,
-  "2022-11-21": 4045,
-  "2022-11-22": 4174,
-  "2022-11-23": 4169,
-  "2022-11-24": 4294,
-  "2022-11-25": 4352,
-  "2022-11-26": 4424,
-  "2022-11-27": 4490,
-  "2022-11-28": 4543,
-  "2022-11-29": 4589,
-  "2022-11-30": 4643,
-  "2022-12-01": 4699,
-  "2022-12-02": 4741,
-  "2022-12-03": 4792,
-  "2022-12-04": 4839,
-  "2022-12-05": 4879,
-  "2022-12-06": 4917,
-  "2022-12-07": 4957,
-  "2022-12-08": 5005,
-  "2022-12-09": 5048,
-  "2022-12-10": 5087,
-  "2022-12-11": 5127,
-  "2022-12-12": 5160,
-  "2022-12-13": 5195,
-  "2022-12-14": 5230,
-  "2022-12-15": 5280,
-  "2022-12-16": 5346,
-  "2022-12-17": 5379,
-  "2022-12-18": 5418,
-  "2022-12-19": 5461,
-  "2022-12-20": 5520,
-  "2022-12-21": 5520,
-  "2022-12-22": 5561,
-  "2022-12-24": 5659,
-  "2022-12-25": 5708,
-  "2022-12-26": 5737,
-  "2022-12-27": 5778,
-  "2022-12-28": 5830,
-  "2022-12-29": 5865,
-  "2022-12-30": 5905,
-  "2022-12-31": 5967,
-  "2023-01-01": 6002,
-  "2023-01-02": 6027,
-  "2023-01-03": 6072,
-  "2023-01-04": 6114,
-  "2023-01-05": 6157,
-  "2023-01-06": 6193,
-  "2023-01-07": 6274,
-  "2023-01-08": 6285,
-  "2023-01-09": 6328,
-  "2023-01-10": 6368,
-  "2023-01-11": 6413,
-  "2023-01-12": 6467,
-  "2023-01-13": 6522,
-  "2023-01-14": 6626,
-  "2023-01-15": 6635,
-  "2023-01-16": 6678,
-  "2023-01-17": 6734,
-  "2023-01-18": 6768,
-  "2023-01-19": 6802,
-  "2023-01-20": 6860,
-  "2023-01-21": 6919,
-  "2023-01-22": 6950,
-  "2023-01-23": 6979,
-  "2023-01-24": 7021,
-  "2023-01-25": 7066,
-  "2023-01-26": 7119,
-  "2023-01-27": 7172,
-  "2023-01-28": 7218,
-  "2023-01-29": 7285,
-  "2023-01-30": 7323,
-  "2023-01-31": 7323,
-  "2023-02-01": 7397,
-  "2023-02-02": 7434,
-  "2023-02-03": 7478,
-  "2023-02-04": 7524,
-  "2023-02-05": 7571,
-  "2023-02-06": 7620,
-  "2023-02-07": 7651,
-  "2023-02-08": 7767,
-  "2023-02-09": 7767,
-  "2023-02-10": 7821,
-  "2023-02-11": 7855,
-  "2023-02-12": 7940,
-  "2023-02-13": 7967,
-  "2023-02-14": 7967,
-  "2023-02-15": 7993,
-  "2023-02-16": 8024,
-  "2023-02-17": 8069,
-  "2023-02-18": 8167,
-  "2023-02-19": 8177,
-  "2023-02-20": 8228,
-  "2023-02-21": 8259,
-  "2023-02-22": 8302,
-  "2023-02-23": 8352,
-  "2023-02-24": 8387,
-  "2023-02-25": 8451,
-  "2023-02-26": 8483,
-  "2023-02-27": 8567,
-  "2023-02-28": 8567,
-  "2023-03-01": 8609,
-  "2023-03-02": 8652,
-  "2023-03-03": 8707,
-  "2023-03-04": 8773,
-  "2023-03-05": 8892,
-  "2023-03-06": 8892,
-  "2023-03-07": 8923,
-  "2023-03-08": 8967,
-  "2023-03-09": 9012,
-  "2023-03-10": 9040,
-  "2023-03-11": 9083,
-  "2023-03-12": 9119,
-  "2023-03-13": 9171,
-  "2023-03-14": 9208,
-  "2023-03-15": 9248,
-  "2023-03-16": 9294,
-  "2023-03-17": 9294,
-  "2023-03-18": 9358,
-  "2023-03-19": 9398,
-  "2023-03-20": 9430,
-  "2023-03-21": 9476,
-  "2023-03-22": 9524,
-  "2023-03-23": 9567,
-  "2023-03-24": 9567,
-  "2023-03-25": 9653,
-  "2023-03-26": 9707,
-  "2023-03-27": 9755,
-  "2023-03-28": 9809,
-  "2023-03-29": 9876,
-  "2023-03-30": 9973,
-  "2023-03-31": 9973,
-  "2023-04-01": 10012,
-  "2023-04-02": 10067,
-  "2023-04-03": 10136,
-  "2023-04-04": 10189,
-  "2023-04-05": 10237,
-  "2023-04-06": 10306,
-  "2023-04-07": 10354,
-  "2023-04-09": 10495,
-  "2023-04-10": 10551,
-  "2023-04-11": 10646,
-  "2023-04-12": 10646,
-  "2023-04-13": 10686,
-  "2023-04-14": 10723,
-  "2023-04-15": 10782,
-  "2023-04-16": 10843,
-  "2023-04-17": 10907,
-  "2023-04-18": 10958,
-  "2023-04-19": 11013,
-  "2023-04-20": 11053,
-  "2023-04-21": 11110,
-  "2023-04-22": 11172,
-  "2023-04-23": 11233,
-  "2023-04-24": 11280,
-  "2023-04-25": 11326,
-  "2023-04-26": 11368,
-  "2023-04-27": 11390,
-  "2023-04-28": 11435,
-  "2023-04-29": 11485,
-  "2023-04-30": 11534,
-  "2023-05-01": 11570,
-  "2023-05-02": 11658,
-  "2023-05-03": 11725,
-  "2023-05-04": 11767,
-  "2023-05-05": 11815,
-  "2023-05-06": 11875,
-  "2023-05-07": 11941,
-  "2023-05-08": 11983,
-  "2023-05-09": 12025,
-  "2023-05-10": 12077,
-  "2023-05-11": 12122,
-  "2023-05-12": 12168,
-  "2023-05-13": 12239,
-  "2023-05-14": 12299,
-  "2023-05-15": 12359,
-  "2023-05-16": 12395,
-  "2023-05-17": 12452,
-  "2023-05-18": 12498,
-  "2023-05-19": 12562,
-  "2023-05-20": 12695,
-  "2023-05-21": 12695,
-  "2023-05-22": 12695,
-  "2023-05-23": 12783,
-  "2023-05-24": 12884,
-  "2023-05-25": 12902,
-  "2023-05-26": 12949,
-  "2023-05-27": 13006,
-  "2023-05-28": 13054,
-  "2023-05-29": 13054,
-  "2023-05-30": 13145,
-  "2023-05-31": 13208,
-  "2023-06-01": 13256,
-  "2023-06-02": 13296,
-  "2023-06-03": 13342,
-  "2023-06-04": 13414,
-  "2023-06-05": 13460,
-  "2023-06-06": 13515,
-  "2023-06-07": 13577,
-  "2023-06-08": 13645,
-  "2023-06-09": 13706,
-  "2023-06-10": 13755,
-  "2023-06-11": 13821,
-  "2023-06-12": 13873,
-  "2023-06-13": 13915,
-  "2023-06-14": 13976,
-  "2023-06-15": 14045,
-  "2023-06-16": 14113,
-  "2023-06-17": 14167,
-  "2023-06-18": 14215,
-  "2023-06-19": 14251,
-  "2023-06-20": 14290,
-  "2023-06-21": 14325,
-  "2023-06-22": 14370,
-  "2023-06-23": 14416,
-  "2023-06-24": 14463,
-  "2023-06-25": 14527,
-  "2023-06-26": 14593,
-  "2023-06-27": 14651,
-  "2023-06-28": 14701,
-  "2023-06-29": 14757,
-  "2023-06-30": 14818,
-  "2023-07-01": 14970,
-  "2023-07-02": 14970,
-  "2023-07-03": 15029,
-  "2023-07-04": 15092,
-  "2023-07-05": 15133,
-  "2023-07-06": 15245,
-  "2023-07-07": 15245,
-  "2023-07-08": 15315,
-  "2023-07-09": 15389,
-  "2023-07-10": 15470,
-  "2023-07-11": 15530,
-  "2023-07-12": 15589,
-  "2023-07-13": 15658,
-  "2023-07-14": 15720,
-  "2023-07-15": 15774,
-  "2023-07-16": 15854,
-  "2023-07-17": 15916,
-  "2023-07-18": 15962,
-  "2023-07-19": 16022,
-  "2023-07-20": 16088,
-  "2023-07-21": 16151,
-  "2023-07-22": 16206,
-  "2023-07-23": 16259,
-  "2023-07-24": 16314,
-  "2023-07-25": 16378,
-  "2023-07-26": 16435,
-  "2023-07-27": 16501,
-  "2023-07-28": 16574,
-  "2023-07-29": 16654,
-  "2023-07-30": 16718,
-  "2023-07-31": 16780,
-  "2023-08-01": 16851,
-  "2023-08-02": 16922,
-  "2023-08-03": 16986,
-  "2023-08-04": 17067,
-  "2023-08-05": 17129,
-  "2023-08-06": 17269,
-  "2023-08-07": 17269,
-  "2023-08-08": 17346,
-  "2023-08-09": 17397,
-  "2023-08-10": 17452,
-  "2023-08-11": 17510,
-  "2023-08-12": 17580,
-  "2023-08-13": 17656,
-  "2023-08-14": 17736,
-  "2023-08-15": 17885,
-  "2023-08-16": 17885,
-  "2023-08-17": 17957,
-  "2023-08-18": 18020,
-  "2023-08-19": 18097,
-  "2023-08-20": 18166,
-  "2023-08-21": 18244,
-  "2023-08-22": 18320,
-  "2023-08-23": 18396,
-  "2023-08-24": 18479,
-  "2023-08-25": 18549,
-  "2023-08-26": 18609,
-  "2023-08-27": 18693,
-  "2023-08-28": 18774,
-  "2023-08-29": 18830,
-  "2023-08-30": 18890,
-  "2023-08-31": 18937,
-  "2023-09-01": 19051,
-  "2023-09-02": 19051,
-  "2023-09-03": 19087,
-  "2023-09-04": 19132,
-  "2023-09-05": 19170,
-  "2023-09-06": 19211,
-  "2023-09-07": 19250,
-  "2023-09-08": 19290,
-  "2023-09-09": 19338,
-  "2023-09-10": 19380,
-  "2023-09-11": 19429,
-  "2023-09-12": 19471,
-  "2023-09-13": 19512,
-  "2023-09-14": 19548,
-  "2023-09-15": 19574,
-  "2023-09-16": 19618,
-  "2023-09-17": 19662,
-  "2023-09-18": 19695,
-  "2023-09-19": 19710,
-  "2023-09-20": 19735,
-  "2023-09-21": 19769,
-  "2023-09-22": 19802,
-  "2023-09-23": 19836,
-  "2023-09-24": 19878,
-  "2023-09-25": 19905,
-  "2023-09-26": 19945,
-  "2023-09-27": 19982,
-  "2023-09-28": 20009,
-  "2023-09-29": 20042,
-  "2023-09-30": 20069,
-  "2023-10-01": 20102,
-  "2023-10-02": 20127,
-  "2023-10-03": 20157,
-  "2023-10-04": 20188,
-  "2023-10-05": 20213,
-  "2023-10-06": 20224,
-  "2023-10-07": 20254,
-  "2023-10-08": 20272,
-  "2023-10-09": 20297,
-  "2023-10-10": 20321,
-  "2023-10-11": 20367,
-  "2023-10-12": 20367,
-  "2023-10-13": 20389,
-  "2023-10-14": 20407,
-  "2023-10-15": 20430,
-  "2023-10-16": 20463,
-  "2023-10-17": 20480,
-  "2023-10-18": 20513,
-  "2023-10-19": 20528,
-  "2023-10-20": 20551,
-  "2023-10-21": 20582,
-  "2023-10-22": 20609,
-  "2023-10-23": 20637,
-  "2023-10-24": 20669,
-  "2023-10-25": 20687,
-  "2023-10-26": 20719,
-  "2023-10-27": 20739,
-  "2023-10-28": 20766,
-  "2023-10-29": 20783,
-  "2023-10-30": 20831,
-  "2023-10-31": 20831,
-  "2023-11-01": 20861,
-  "2023-11-02": 20888,
-  "2023-11-03": 20905,
-  "2023-11-04": 20927,
-  "2023-11-05": 20955,
-  "2023-11-06": 20987,
-  "2023-11-07": 20987,
-  "2023-11-08": 20987,
-  "2023-11-09": 20987,
-  "2023-11-10": 20987,
-  "2023-11-11": 20987,
-  "2023-11-12": 20987,
-  "2023-11-13": 20987,
-  "2023-11-14": 20987,
-  "2023-11-15": 20987,
-  "2023-11-16": 20987,
-  "2023-11-17": 20987,
-  "2023-11-18": 20987,
-  "2023-11-19": 20987,
-  "2023-11-20": 20987,
-  "2023-11-21": 20987,
-  "2023-11-22": 20987,
-  "2023-11-23": 20987,
-  "2023-11-24": 20987,
-  "2023-11-25": 20987,
-  "2023-11-26": 20987,
-  "2023-11-27": 20987,
-  "2023-11-28": 20987,
-  "2023-11-29": 20987,
-  "2023-11-30": 20987,
-  "2023-12-01": 20987,
-  "2023-12-02": 20987,
-  "2023-12-03": 20987,
-  "2023-12-04": 20987,
-  "2023-12-05": 20987,
-  "2023-12-06": 20987,
-  "2023-12-07": 20987,
-  "2023-12-08": 20987,
-  "2023-12-09": 20987,
-  "2023-12-10": 20987,
-  "2023-12-11": 20987,
-  "2023-12-12": 20987,
-  "2023-12-13": 20987,
-  "2023-12-14": 20987,
-  "2023-12-15": 20987,
-  "2023-12-16": 20987,
-  "2023-12-17": 20987,
-  "2023-12-18": 20987,
-  "2023-12-19": 20987,
-  "2023-12-20": 20987,
-  "2023-12-21": 20987,
-  "2023-12-22": 20987,
-  "2023-12-23": 20987,
-  "2023-12-24": 20987,
-  "2023-12-25": 20987,
-  "2023-12-26": 20987,
-  "2023-12-27": 20987,
-  "2023-12-30": 20987,
-  "2023-12-31": 20987,
-  "2024-01-01": 20987,
-  "2024-01-02": 20987,
-  "2024-01-03": 20987
+  "2024-01-17": 20987,
+  "date_first_scraped": "2022-09-22",
+  "description": "Italian duo <a href=\"spotify:artist:6mM9a86Nrw0y7f9MaJGbpU\">Giol\u00ec & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.",
+  "name": "Giol\u00ec & Assia's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Angel 1 (Mixed)",
+        "url": "https://open.spotify.com/album/1LlT7FLWh7fAEosERc8HvC"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Angel 1 - Mixed",
+      "url": "https://open.spotify.com/track/2RqveOt4w375IIRUNJKOzf"
+    },
+    {
+      "album": {
+        "name": "Berserk (Mixed)",
+        "url": "https://open.spotify.com/album/27dVFuvMjaqL5VPloK0ttx"
+      },
+      "artists": [
+        {
+          "name": "Santiago Luna",
+          "url": "https://open.spotify.com/artist/4aM2sMXNqhsSKd0w89gOP8"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Berserk - Mixed",
+      "url": "https://open.spotify.com/track/0n2wdvzINVDHNGhZK3pdTg"
+    },
+    {
+      "album": {
+        "name": "Blame on Me - Club Edit (Mixed)",
+        "url": "https://open.spotify.com/album/3jC8nr4gZnrurwPIwZVZAS"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Hang Massive",
+          "url": "https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Blame on Me - Club Edit - Mixed",
+      "url": "https://open.spotify.com/track/3SvVIhOlmW9SPlR7KXbGZN"
+    },
+    {
+      "album": {
+        "name": "Fire Hell and Holy Water (Mixed)",
+        "url": "https://open.spotify.com/album/5oIrhfrHjMRvPwpC0u3CyO"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Fire Hell and Holy Water - Mixed",
+      "url": "https://open.spotify.com/track/745qUk66s5pDjIgdqRMO8Y"
+    },
+    {
+      "album": {
+        "name": "Hela (Mixed)",
+        "url": "https://open.spotify.com/album/6ygiIWvvJmTSUeqnzveu5s"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Hela - Mixed",
+      "url": "https://open.spotify.com/track/7JJ6NykhLd1aYbYKTfVg4F"
+    },
+    {
+      "album": {
+        "name": "Kakaramba - Cabasa Tribe Remix (Mixed)",
+        "url": "https://open.spotify.com/album/3c8E2Zzdu1Rm7gTGWOojbj"
+      },
+      "artists": [
+        {
+          "name": "Milkoeh",
+          "url": "https://open.spotify.com/artist/5ohfiqQjV311dQdfpgzYak"
+        },
+        {
+          "name": "Tick Tock",
+          "url": "https://open.spotify.com/artist/4HSLzKb8RzSBc6z7hvenm9"
+        },
+        {
+          "name": "B'Utiza",
+          "url": "https://open.spotify.com/artist/52AxxPFLWcF8qLAxCOekmE"
+        },
+        {
+          "name": "Cabasa Tribe",
+          "url": "https://open.spotify.com/artist/2GVXCkaensOw92z6rev9Ok"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Kakaramba - Cabasa Tribe Remix - Mixed",
+      "url": "https://open.spotify.com/track/4tjDMsODSyFwNAIy9Wvtrr"
+    },
+    {
+      "album": {
+        "name": "Keia - Modeplex Remix (Mixed)",
+        "url": "https://open.spotify.com/album/2zEcR5TZtB6kM5fKoHsd8L"
+      },
+      "artists": [
+        {
+          "name": "Artaria",
+          "url": "https://open.spotify.com/artist/54LH798QKraEZosT57zMqU"
+        },
+        {
+          "name": "Modeplex",
+          "url": "https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Keia - Modeplex Remix - Mixed",
+      "url": "https://open.spotify.com/track/4X5wslsbAuXiW5QppGrWU1"
+    },
+    {
+      "album": {
+        "name": "Lost - Zakente Remix (Mixed)",
+        "url": "https://open.spotify.com/album/3E6bbzRbsVGt6FKe1AOElV"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Zakente",
+          "url": "https://open.spotify.com/artist/5onJRnzNCch9amHkNIr8Bd"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Lost - Zakente Remix - Mixed",
+      "url": "https://open.spotify.com/track/45K4y0mwWVBMw5Te1NASrm"
+    },
+    {
+      "album": {
+        "name": "Fire Hell and Holy Water",
+        "url": "https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76260,
+      "name": "Playing Chess (Prelude)",
+      "url": "https://open.spotify.com/track/2pP3PPZ2tiXDX6ifjTEB0X"
+    },
+    {
+      "album": {
+        "name": "Playing Chess (Prelude) [Mixed]",
+        "url": "https://open.spotify.com/album/7H4KbZS9tkIxKSoQPeJJlF"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 75000,
+      "name": "Playing Chess (Prelude) - Mixed",
+      "url": "https://open.spotify.com/track/2xmIzWmqX82is1CeoxSNHv"
+    },
+    {
+      "album": {
+        "name": "Playing Chess (Mixed)",
+        "url": "https://open.spotify.com/album/0rr8n4nWYMbJBFJF6TjQ0g"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Playing Chess - Mixed",
+      "url": "https://open.spotify.com/track/6dTXkqYUn2guNpC83JML9g"
+    },
+    {
+      "album": {
+        "name": "Salut (Mixed)",
+        "url": "https://open.spotify.com/album/26mHKw4uEvVMNTCGqWyt4e"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Salut - Mixed",
+      "url": "https://open.spotify.com/track/7Dz4Bh89CDCeiwnMU5NI5r"
+    },
+    {
+      "album": {
+        "name": "Shooting In My Chest (Mixed)",
+        "url": "https://open.spotify.com/album/72nmTewrokp0ijGZtMRZIK"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Shooting In My Chest - Mixed",
+      "url": "https://open.spotify.com/track/5yZ3dNhYcDTSG33MI3oaUG"
+    },
+    {
+      "album": {
+        "name": "Silence (Mixed)",
+        "url": "https://open.spotify.com/album/19al8GSDYh710jgWe2jJiO"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Silence - Mixed",
+      "url": "https://open.spotify.com/track/2U69avfzYJVrOYuOSezvhj"
+    },
+    {
+      "album": {
+        "name": "Terra - &lez Interpretation (Mixed)",
+        "url": "https://open.spotify.com/album/2kRp3nr8baD5wEd9O1s8iq"
+      },
+      "artists": [
+        {
+          "name": "Klaus",
+          "url": "https://open.spotify.com/artist/0TtgAlKNutf5UgUpo6z3wT"
+        },
+        {
+          "name": "&lez",
+          "url": "https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Terra - &lez Interpretation - Mixed",
+      "url": "https://open.spotify.com/track/4qnALa0js1kpUZHsjRkrL1"
+    },
+    {
+      "album": {
+        "name": "The Akan (Mixed)",
+        "url": "https://open.spotify.com/album/79QnKOq6WMeWNOFmguP4PL"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "The Akan - Mixed",
+      "url": "https://open.spotify.com/track/3FBsODMByNGh4BRIbT4rXj"
+    },
+    {
+      "album": {
+        "name": "Transparent (Mixed)",
+        "url": "https://open.spotify.com/album/0C0xvs9FJ8XiEcW0N2fRuc"
+      },
+      "artists": [
+        {
+          "name": "Ziger",
+          "url": "https://open.spotify.com/artist/33L8FupX5olugmSnrRpYUQ"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Transparent - Mixed",
+      "url": "https://open.spotify.com/track/2qPuHzvZkF9w1gixNFgdBq"
+    },
+    {
+      "album": {
+        "name": "Twisted Voice (Mixed)",
+        "url": "https://open.spotify.com/album/1tVGkZsXyhMo1IRSmBr1Gd"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Twisted Voice - Mixed",
+      "url": "https://open.spotify.com/track/2fBOXC2ljrXzwx8PByAnVg"
+    },
+    {
+      "album": {
+        "name": "Woza - Nitefreak Remix (Mixed)",
+        "url": "https://open.spotify.com/album/4Jfq3RfOPmqJaiGcg32ou2"
+      },
+      "artists": [
+        {
+          "name": "Afro Exotiq",
+          "url": "https://open.spotify.com/artist/1u42YFJFM9CC3bhfoB0suE"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Woza - Nitefreak Remix - Mixed",
+      "url": "https://open.spotify.com/track/1KvJJ2MZmRiSrHGv2OsEgo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZaiDZ16BA15"
 }

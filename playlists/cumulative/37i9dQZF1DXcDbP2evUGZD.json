@@ -572,6 +572,24 @@
     {
       "album": {
         "name": "Braindead",
+        "url": "https://open.spotify.com/album/5Y2eg7LXKaXjcDcfaYVgwj"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163862,
+      "name": "Braindead",
+      "url": "https://open.spotify.com/track/0V1DMFiDjbkibUvgapzTPj"
+    },
+    {
+      "album": {
+        "name": "Braindead",
         "url": "https://open.spotify.com/album/2dIATUDwagqAym02UKbfWV"
       },
       "artists": [
@@ -582,7 +600,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 163862,
       "name": "Braindead",
       "url": "https://open.spotify.com/track/10qiH1RJkexhTUuN562FsP"
@@ -838,10 +856,28 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 186115,
       "name": "cutlery collector",
       "url": "https://open.spotify.com/track/0ztNEk0IqFl3qK5dcFjuTE"
+    },
+    {
+      "album": {
+        "name": "love",
+        "url": "https://open.spotify.com/album/600af5WWeNaasoZFOzG8DN"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186115,
+      "name": "cutlery collector",
+      "url": "https://open.spotify.com/track/2zCvh9HWfYGmIjCDffXZyf"
     },
     {
       "album": {

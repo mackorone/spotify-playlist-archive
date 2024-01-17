@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 221826,
       "name": "Debe Haber un Lugar",
       "url": "https://open.spotify.com/track/5nPsoszhdGDXXx4CkuFhVv"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 243159,
       "name": "J.C. Del Barrio",
       "url": "https://open.spotify.com/track/3S6ijIIkgWjQFA80cH7Q02"
@@ -898,10 +898,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 60920,
       "name": "Presentaci\u00f3n, Pt. 2 - En Vivo",
       "url": "https://open.spotify.com/track/6dEz0ipVf1uCeMHnO57yRC"
+    },
+    {
+      "album": {
+        "name": "Volviendo a Casa",
+        "url": "https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Puedes Decir",
+      "url": "https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy"
     },
     {
       "album": {
@@ -916,7 +934,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 189453,
       "name": "Puedes Decir",
       "url": "https://open.spotify.com/track/5vnDhoFEOXK3UKbyBn7PLK"
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": "2024-01-09",
       "duration_ms": 269106,
       "name": "Vivir por Vivir",
       "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
@@ -1252,10 +1270,28 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 258668,
       "name": "Y T\u00fa C\u00f3mo Lo Sabes? - Like Heaven Club Mix",
       "url": "https://open.spotify.com/track/50DdzGb5A01K43n5PNZMEi"
+    },
+    {
+      "album": {
+        "name": "Yayo",
+        "url": "https://open.spotify.com/album/7L3dnKcqyEBW1lNXf5p4wf"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237693,
+      "name": "Yayo",
+      "url": "https://open.spotify.com/track/554UiqN2TguT6PGTBAJGUo"
     },
     {
       "album": {
@@ -1270,7 +1306,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 238548,
       "name": "Yayo",
       "url": "https://open.spotify.com/track/1SpQUbVwRRo4hbrgJxSKwI"

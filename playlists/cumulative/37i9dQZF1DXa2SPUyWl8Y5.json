@@ -682,7 +682,7 @@
       ],
       "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 350047,
       "name": "Bird",
       "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 380039,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS"
@@ -816,10 +816,32 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 408003,
       "name": "Boavista - Innellea Remix",
       "url": "https://open.spotify.com/track/2H66zNHEqwFckqVfxeFxIa"
+    },
+    {
+      "album": {
+        "name": "Boavista Remixes",
+        "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
+      },
+      "artists": [
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408003,
+      "name": "Boavista - Innellea's Arp Attachement",
+      "url": "https://open.spotify.com/track/0h467C8iLWdgfW58aj0X0o"
     },
     {
       "album": {
@@ -1568,7 +1590,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 192476,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
@@ -6388,7 +6410,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 210731,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"

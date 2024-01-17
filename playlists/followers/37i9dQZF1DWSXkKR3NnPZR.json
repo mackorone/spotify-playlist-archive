@@ -1,716 +1,921 @@
 {
-  "2022-01-13": 64546,
-  "2022-01-14": 64739,
-  "2022-01-15": 65117,
-  "2022-01-16": 65123,
-  "2022-01-17": 65536,
-  "2022-01-18": 65565,
-  "2022-01-19": 65659,
-  "2022-01-20": 65807,
-  "2022-01-21": 65955,
-  "2022-01-22": 66166,
-  "2022-01-23": 66347,
-  "2022-01-24": 66540,
-  "2022-01-25": 66704,
-  "2022-01-26": 66869,
-  "2022-01-27": 67072,
-  "2022-01-28": 67273,
-  "2022-01-29": 67472,
-  "2022-01-30": 67702,
-  "2022-01-31": 67901,
-  "2022-02-01": 68081,
-  "2022-02-02": 68263,
-  "2022-02-03": 68433,
-  "2022-02-04": 68620,
-  "2022-02-05": 68832,
-  "2022-02-06": 69043,
-  "2022-02-07": 69246,
-  "2022-02-08": 69451,
-  "2022-02-09": 69645,
-  "2022-02-10": 69865,
-  "2022-02-11": 70078,
-  "2022-02-12": 70310,
-  "2022-02-13": 70496,
-  "2022-02-14": 70656,
-  "2022-02-15": 70787,
-  "2022-02-16": 70964,
-  "2022-02-17": 71157,
-  "2022-02-18": 71374,
-  "2022-02-19": 71592,
-  "2022-02-20": 71792,
-  "2022-02-21": 72002,
-  "2022-02-22": 72164,
-  "2022-02-23": 72368,
-  "2022-02-24": 72571,
-  "2022-02-25": 72715,
-  "2022-02-26": 72875,
-  "2022-02-27": 73266,
-  "2022-02-28": 73266,
-  "2022-03-01": 73423,
-  "2022-03-02": 73603,
-  "2022-03-03": 73793,
-  "2022-03-04": 73970,
-  "2022-03-05": 74137,
-  "2022-03-06": 74314,
-  "2022-03-07": 74476,
-  "2022-03-08": 74620,
-  "2022-03-09": 74787,
-  "2022-03-10": 74966,
-  "2022-03-11": 75183,
-  "2022-03-12": 75391,
-  "2022-03-13": 75634,
-  "2022-03-14": 75844,
-  "2022-03-15": 76055,
-  "2022-03-16": 76221,
-  "2022-03-17": 76405,
-  "2022-03-18": 76689,
-  "2022-03-19": 76822,
-  "2022-03-20": 76822,
-  "2022-03-21": 77227,
-  "2022-03-22": 77356,
-  "2022-03-23": 77550,
-  "2022-03-24": 77749,
-  "2022-03-25": 77925,
-  "2022-03-26": 78129,
-  "2022-03-27": 78348,
-  "2022-03-28": 78564,
-  "2022-03-30": 78988,
-  "2022-03-31": 79220,
-  "2022-04-01": 79479,
-  "2022-04-02": 79680,
-  "2022-04-03": 79928,
-  "2022-04-04": 80119,
-  "2022-04-05": 80274,
-  "2022-04-06": 80468,
-  "2022-04-07": 80668,
-  "2022-04-08": 80877,
-  "2022-04-09": 81135,
-  "2022-04-10": 81542,
-  "2022-04-11": 81761,
-  "2022-04-12": 81812,
-  "2022-04-13": 81989,
-  "2022-04-14": 82202,
-  "2022-04-15": 82446,
-  "2022-04-16": 82691,
-  "2022-04-17": 82912,
-  "2022-04-18": 83169,
-  "2022-04-19": 83298,
-  "2022-04-20": 83532,
-  "2022-04-21": 83748,
-  "2022-04-22": 83974,
-  "2022-04-23": 84233,
-  "2022-04-24": 84535,
-  "2022-04-25": 84775,
-  "2022-04-26": 84989,
-  "2022-04-27": 85349,
-  "2022-04-28": 85526,
-  "2022-04-29": 85908,
-  "2022-04-30": 86159,
-  "2022-05-01": 86413,
-  "2022-05-02": 86413,
-  "2022-05-03": 86647,
-  "2022-05-04": 86877,
-  "2022-05-05": 87066,
-  "2022-05-06": 87251,
-  "2022-05-07": 87505,
-  "2022-05-08": 87793,
-  "2022-05-09": 87829,
-  "2022-05-10": 87967,
-  "2022-05-11": 88127,
-  "2022-05-12": 88288,
-  "2022-05-13": 88453,
-  "2022-05-14": 88605,
-  "2022-05-15": 88777,
-  "2022-05-16": 88931,
-  "2022-05-17": 89087,
-  "2022-05-18": 89234,
-  "2022-05-19": 89397,
-  "2022-05-20": 89644,
-  "2022-05-21": 90060,
-  "2022-05-22": 90060,
-  "2022-05-23": 90257,
-  "2022-05-24": 90429,
-  "2022-05-25": 90626,
-  "2022-05-26": 90809,
-  "2022-05-27": 91011,
-  "2022-05-28": 91168,
-  "2022-05-29": 91370,
-  "2022-05-30": 91535,
-  "2022-05-31": 91710,
-  "2022-06-01": 92046,
-  "2022-06-02": 92081,
-  "2022-06-03": 92214,
-  "2022-06-04": 92417,
-  "2022-06-05": 92600,
-  "2022-06-06": 92788,
-  "2022-06-07": 92955,
-  "2022-06-08": 93197,
-  "2022-06-09": 93383,
-  "2022-06-10": 93654,
-  "2022-06-11": 93975,
-  "2022-06-12": 94284,
-  "2022-06-13": 94574,
-  "2022-06-14": 94849,
-  "2022-06-15": 95132,
-  "2022-06-16": 95443,
-  "2022-06-17": 95733,
-  "2022-06-18": 95959,
-  "2022-06-19": 96409,
-  "2022-06-20": 96409,
-  "2022-06-21": 96592,
-  "2022-06-22": 96946,
-  "2022-06-23": 96946,
-  "2022-06-24": 97132,
-  "2022-06-25": 97297,
-  "2022-06-26": 97474,
-  "2022-06-27": 97626,
-  "2022-06-28": 97755,
-  "2022-06-29": 97925,
-  "2022-06-30": 98068,
-  "2022-07-01": 98238,
-  "2022-07-02": 98419,
-  "2022-07-03": 98633,
-  "2022-07-04": 98837,
-  "2022-07-05": 99002,
-  "2022-07-06": 99151,
-  "2022-07-07": 99348,
-  "2022-07-08": 99533,
-  "2022-07-09": 99694,
-  "2022-07-10": 99889,
-  "2022-07-11": 100096,
-  "2022-07-12": 100269,
-  "2022-07-13": 100456,
-  "2022-07-14": 100632,
-  "2022-07-15": 100842,
-  "2022-07-16": 101103,
-  "2022-07-17": 101370,
-  "2022-07-18": 101581,
-  "2022-07-19": 101791,
-  "2022-07-20": 102019,
-  "2022-07-21": 102245,
-  "2022-07-22": 102468,
-  "2022-07-23": 102670,
-  "2022-07-24": 102893,
-  "2022-07-25": 103133,
-  "2022-07-26": 103372,
-  "2022-07-27": 103617,
-  "2022-07-28": 103853,
-  "2022-07-29": 104088,
-  "2022-07-30": 104530,
-  "2022-07-31": 104530,
-  "2022-08-01": 104738,
-  "2022-08-02": 105079,
-  "2022-08-03": 105079,
-  "2022-08-04": 105311,
-  "2022-08-05": 105550,
-  "2022-08-06": 105833,
-  "2022-08-07": 106097,
-  "2022-08-08": 106357,
-  "2022-08-09": 106562,
-  "2022-08-10": 106780,
-  "2022-08-11": 107020,
-  "2022-08-12": 107306,
-  "2022-08-13": 107558,
-  "2022-08-14": 107870,
-  "2022-08-15": 108132,
-  "2022-08-16": 108356,
-  "2022-08-17": 108620,
-  "2022-08-18": 108901,
-  "2022-08-19": 109205,
-  "2022-08-20": 109444,
-  "2022-08-21": 109710,
-  "2022-08-22": 109957,
-  "2022-08-23": 110159,
-  "2022-08-24": 110363,
-  "2022-08-25": 110606,
-  "2022-08-26": 110818,
-  "2022-08-27": 111054,
-  "2022-08-28": 111341,
-  "2022-08-29": 111583,
-  "2022-08-30": 111812,
-  "2022-08-31": 112027,
-  "2022-09-01": 112243,
-  "2022-09-02": 112534,
-  "2022-09-03": 112824,
-  "2022-09-04": 113147,
-  "2022-09-05": 113401,
-  "2022-09-06": 113640,
-  "2022-09-07": 113874,
-  "2022-09-09": 114392,
-  "2022-09-10": 114701,
-  "2022-09-11": 115022,
-  "2022-09-12": 115316,
-  "2022-09-13": 115569,
-  "2022-09-15": 116171,
-  "2022-09-16": 116688,
-  "2022-09-17": 117099,
-  "2022-09-18": 117474,
-  "2022-09-19": 117783,
-  "2022-09-20": 118055,
-  "2022-09-21": 118334,
-  "2022-09-22": 118625,
-  "2022-09-23": 118937,
-  "2022-09-24": 119244,
-  "2022-09-25": 119555,
-  "2022-09-26": 119847,
-  "2022-09-27": 120107,
-  "2022-09-28": 120377,
-  "2022-09-29": 120643,
-  "2022-09-30": 120915,
-  "2022-10-01": 121220,
-  "2022-10-02": 121523,
-  "2022-10-03": 121783,
-  "2022-10-04": 122032,
-  "2022-10-05": 122308,
-  "2022-10-06": 122582,
-  "2022-10-07": 122883,
-  "2022-10-08": 123189,
-  "2022-10-09": 123792,
-  "2022-10-10": 123902,
-  "2022-10-11": 124258,
-  "2022-10-12": 124555,
-  "2022-10-13": 124825,
-  "2022-10-14": 125095,
-  "2022-10-15": 125358,
-  "2022-10-16": 125654,
-  "2022-10-17": 125878,
-  "2022-10-18": 126089,
-  "2022-10-19": 126363,
-  "2022-10-20": 126602,
-  "2022-10-21": 126868,
-  "2022-10-22": 127143,
-  "2022-10-23": 127404,
-  "2022-10-24": 127656,
-  "2022-10-25": 127883,
-  "2022-10-26": 128100,
-  "2022-10-27": 128363,
-  "2022-10-28": 128662,
-  "2022-10-29": 128952,
-  "2022-10-30": 129239,
-  "2022-10-31": 129500,
-  "2022-11-01": 129727,
-  "2022-11-02": 129941,
-  "2022-11-03": 130152,
-  "2022-11-04": 130388,
-  "2022-11-05": 130640,
-  "2022-11-06": 130858,
-  "2022-11-07": 131098,
-  "2022-11-08": 131292,
-  "2022-11-09": 131550,
-  "2022-11-10": 131763,
-  "2022-11-11": 131975,
-  "2022-11-12": 132238,
-  "2022-11-13": 132417,
-  "2022-11-14": 132646,
-  "2022-11-15": 132854,
-  "2022-11-16": 133085,
-  "2022-11-17": 133320,
-  "2022-11-18": 133385,
-  "2022-11-19": 133320,
-  "2022-11-20": 133400,
-  "2022-11-21": 133577,
-  "2022-11-22": 133805,
-  "2022-11-23": 134013,
-  "2022-11-24": 134352,
-  "2022-11-25": 134769,
-  "2022-11-26": 135068,
-  "2022-11-27": 135265,
-  "2022-11-28": 135463,
-  "2022-11-29": 135660,
-  "2022-11-30": 135868,
-  "2022-12-01": 136031,
-  "2022-12-02": 136271,
-  "2022-12-03": 136412,
-  "2022-12-04": 136689,
-  "2022-12-05": 136904,
-  "2022-12-06": 137074,
-  "2022-12-07": 137236,
-  "2022-12-08": 137412,
-  "2022-12-09": 137636,
-  "2022-12-10": 137858,
-  "2022-12-11": 138050,
-  "2022-12-12": 138256,
-  "2022-12-13": 138436,
-  "2022-12-14": 138632,
-  "2022-12-15": 138842,
-  "2022-12-16": 139036,
-  "2022-12-17": 139278,
-  "2022-12-18": 139507,
-  "2022-12-19": 139718,
-  "2022-12-20": 140196,
-  "2022-12-21": 140196,
-  "2022-12-22": 140420,
-  "2022-12-24": 140906,
-  "2022-12-25": 141164,
-  "2022-12-26": 141363,
-  "2022-12-27": 141590,
-  "2022-12-28": 141868,
-  "2022-12-29": 142168,
-  "2022-12-30": 142449,
-  "2022-12-31": 142690,
-  "2023-01-01": 142938,
-  "2023-01-02": 143165,
-  "2023-01-03": 143379,
-  "2023-01-04": 143598,
-  "2023-01-05": 143825,
-  "2023-01-06": 144122,
-  "2023-01-07": 144444,
-  "2023-01-08": 144514,
-  "2023-01-09": 144780,
-  "2023-01-10": 144973,
-  "2023-01-11": 145173,
-  "2023-01-12": 145402,
-  "2023-01-13": 145656,
-  "2023-01-14": 146196,
-  "2023-01-15": 146282,
-  "2023-01-16": 146515,
-  "2023-01-17": 146790,
-  "2023-01-18": 146996,
-  "2023-01-19": 147208,
-  "2023-01-20": 147413,
-  "2023-01-21": 147661,
-  "2023-01-22": 147899,
-  "2023-01-23": 148155,
-  "2023-01-24": 148355,
-  "2023-01-25": 148587,
-  "2023-01-26": 148788,
-  "2023-01-27": 148957,
-  "2023-01-28": 149176,
-  "2023-01-29": 149352,
-  "2023-01-30": 149502,
-  "2023-01-31": 149502,
-  "2023-02-01": 149854,
-  "2023-02-02": 150039,
-  "2023-02-03": 150209,
-  "2023-02-04": 150389,
-  "2023-02-05": 150597,
-  "2023-02-06": 150806,
-  "2023-02-07": 151009,
-  "2023-02-08": 151434,
-  "2023-02-09": 151434,
-  "2023-02-10": 151667,
-  "2023-02-11": 151841,
-  "2023-02-12": 152224,
-  "2023-02-13": 152377,
-  "2023-02-14": 152377,
-  "2023-02-15": 152580,
-  "2023-02-16": 152830,
-  "2023-02-17": 153086,
-  "2023-02-18": 153657,
-  "2023-02-19": 153731,
-  "2023-02-20": 153920,
-  "2023-02-21": 154148,
-  "2023-02-22": 154410,
-  "2023-02-23": 154752,
-  "2023-02-24": 155043,
-  "2023-02-25": 155496,
-  "2023-02-26": 155693,
-  "2023-02-27": 156282,
-  "2023-02-28": 156282,
-  "2023-03-01": 156536,
-  "2023-03-02": 156746,
-  "2023-03-03": 156973,
-  "2023-03-04": 157188,
-  "2023-03-05": 157687,
-  "2023-03-06": 157687,
-  "2023-03-07": 157911,
-  "2023-03-08": 158112,
-  "2023-03-09": 158317,
-  "2023-03-10": 158543,
-  "2023-03-11": 158762,
-  "2023-03-12": 158996,
-  "2023-03-13": 159209,
-  "2023-03-14": 159383,
-  "2023-03-15": 159562,
-  "2023-03-16": 159767,
-  "2023-03-17": 159767,
-  "2023-03-18": 160200,
-  "2023-03-19": 160441,
-  "2023-03-20": 160673,
-  "2023-03-21": 160890,
-  "2023-03-22": 161089,
-  "2023-03-23": 161301,
-  "2023-03-24": 161301,
-  "2023-03-25": 161724,
-  "2023-03-26": 161924,
-  "2023-03-27": 162108,
-  "2023-03-28": 162270,
-  "2023-03-29": 162487,
-  "2023-03-30": 162814,
-  "2023-03-31": 162814,
-  "2023-04-01": 163022,
-  "2023-04-02": 163249,
-  "2023-04-03": 163458,
-  "2023-04-04": 163650,
-  "2023-04-05": 163802,
-  "2023-04-06": 164001,
-  "2023-04-07": 164185,
-  "2023-04-09": 164566,
-  "2023-04-10": 164734,
-  "2023-04-11": 165039,
-  "2023-04-12": 165039,
-  "2023-04-13": 165189,
-  "2023-04-14": 165345,
-  "2023-04-15": 165516,
-  "2023-04-16": 165693,
-  "2023-04-17": 165834,
-  "2023-04-18": 165979,
-  "2023-04-19": 166137,
-  "2023-04-20": 166309,
-  "2023-04-21": 166620,
-  "2023-04-22": 166921,
-  "2023-04-23": 167240,
-  "2023-04-24": 167532,
-  "2023-04-25": 167758,
-  "2023-04-26": 167982,
-  "2023-04-27": 168203,
-  "2023-04-28": 168385,
-  "2023-04-29": 168605,
-  "2023-04-30": 168805,
-  "2023-05-01": 169011,
-  "2023-05-02": 169210,
-  "2023-05-03": 169374,
-  "2023-05-04": 169538,
-  "2023-05-05": 169728,
-  "2023-05-06": 169963,
-  "2023-05-07": 170165,
-  "2023-05-08": 170364,
-  "2023-05-09": 170561,
-  "2023-05-10": 170745,
-  "2023-05-11": 170953,
-  "2023-05-12": 171140,
-  "2023-05-13": 171360,
-  "2023-05-14": 171596,
-  "2023-05-15": 171790,
-  "2023-05-16": 171977,
-  "2023-05-17": 172163,
-  "2023-05-18": 172417,
-  "2023-05-19": 172688,
-  "2023-05-20": 173288,
-  "2023-05-21": 173288,
-  "2023-05-22": 173288,
-  "2023-05-23": 173832,
-  "2023-05-24": 174200,
-  "2023-05-25": 174259,
-  "2023-05-26": 174475,
-  "2023-05-27": 174665,
-  "2023-05-28": 174905,
-  "2023-05-29": 174905,
-  "2023-05-30": 175207,
-  "2023-05-31": 175352,
-  "2023-06-01": 175525,
-  "2023-06-02": 175665,
-  "2023-06-03": 175832,
-  "2023-06-04": 176013,
-  "2023-06-05": 176179,
-  "2023-06-06": 176318,
-  "2023-06-07": 176475,
-  "2023-06-08": 176597,
-  "2023-06-09": 176731,
-  "2023-06-10": 176887,
-  "2023-06-11": 177057,
-  "2023-06-12": 177240,
-  "2023-06-13": 177371,
-  "2023-06-14": 177527,
-  "2023-06-15": 177638,
-  "2023-06-16": 177764,
-  "2023-06-17": 177882,
-  "2023-06-18": 178052,
-  "2023-06-19": 178193,
-  "2023-06-20": 178301,
-  "2023-06-21": 178409,
-  "2023-06-22": 178560,
-  "2023-06-23": 178705,
-  "2023-06-24": 178845,
-  "2023-06-25": 178989,
-  "2023-06-26": 179136,
-  "2023-06-27": 179268,
-  "2023-06-28": 179401,
-  "2023-06-29": 179534,
-  "2023-06-30": 179679,
-  "2023-07-01": 179934,
-  "2023-07-02": 179934,
-  "2023-07-03": 180069,
-  "2023-07-04": 180164,
-  "2023-07-05": 180288,
-  "2023-07-06": 180536,
-  "2023-07-07": 180536,
-  "2023-07-08": 180659,
-  "2023-07-09": 180814,
-  "2023-07-10": 180957,
-  "2023-07-11": 181041,
-  "2023-07-12": 181152,
-  "2023-07-13": 181257,
-  "2023-07-14": 181373,
-  "2023-07-15": 181454,
-  "2023-07-16": 181627,
-  "2023-07-17": 181745,
-  "2023-07-18": 181836,
-  "2023-07-19": 181972,
-  "2023-07-20": 182105,
-  "2023-07-21": 182210,
-  "2023-07-22": 182347,
-  "2023-07-23": 182513,
-  "2023-07-24": 182639,
-  "2023-07-25": 182774,
-  "2023-07-26": 182904,
-  "2023-07-27": 183014,
-  "2023-07-28": 183153,
-  "2023-07-29": 183298,
-  "2023-07-30": 183458,
-  "2023-07-31": 183606,
-  "2023-08-01": 183705,
-  "2023-08-02": 183831,
-  "2023-08-03": 183980,
-  "2023-08-04": 184120,
-  "2023-08-05": 184318,
-  "2023-08-06": 184835,
-  "2023-08-07": 184835,
-  "2023-08-08": 185031,
-  "2023-08-09": 185271,
-  "2023-08-10": 185500,
-  "2023-08-11": 185734,
-  "2023-08-12": 185970,
-  "2023-08-13": 186203,
-  "2023-08-14": 186439,
-  "2023-08-15": 186805,
-  "2023-08-16": 186805,
-  "2023-08-17": 187011,
-  "2023-08-18": 187235,
-  "2023-08-19": 187425,
-  "2023-08-20": 187646,
-  "2023-08-21": 187860,
-  "2023-08-22": 188016,
-  "2023-08-23": 188182,
-  "2023-08-24": 188320,
-  "2023-08-25": 188460,
-  "2023-08-26": 188659,
-  "2023-08-27": 188828,
-  "2023-08-28": 189017,
-  "2023-08-29": 189151,
-  "2023-08-30": 189296,
-  "2023-08-31": 189445,
-  "2023-09-01": 189760,
-  "2023-09-02": 189760,
-  "2023-09-03": 189894,
-  "2023-09-04": 190071,
-  "2023-09-05": 190219,
-  "2023-09-06": 190354,
-  "2023-09-07": 190509,
-  "2023-09-08": 190671,
-  "2023-09-09": 190884,
-  "2023-09-10": 191079,
-  "2023-09-11": 191256,
-  "2023-09-12": 191441,
-  "2023-09-13": 191652,
-  "2023-09-14": 191838,
-  "2023-09-15": 192092,
-  "2023-09-16": 192476,
-  "2023-09-17": 192785,
-  "2023-09-18": 192957,
-  "2023-09-19": 193101,
-  "2023-09-20": 193266,
-  "2023-09-21": 193399,
-  "2023-09-22": 193598,
-  "2023-09-23": 193762,
-  "2023-09-24": 193914,
-  "2023-09-25": 194056,
-  "2023-09-26": 194188,
-  "2023-09-27": 194293,
-  "2023-09-28": 194409,
-  "2023-09-29": 194530,
-  "2023-09-30": 194655,
-  "2023-10-01": 194797,
-  "2023-10-02": 194917,
-  "2023-10-03": 195026,
-  "2023-10-04": 195118,
-  "2023-10-05": 195261,
-  "2023-10-06": 195362,
-  "2023-10-07": 195474,
-  "2023-10-08": 195592,
-  "2023-10-09": 195714,
-  "2023-10-10": 195828,
-  "2023-10-11": 196032,
-  "2023-10-12": 196032,
-  "2023-10-13": 196151,
-  "2023-10-14": 196271,
-  "2023-10-15": 196398,
-  "2023-10-16": 196520,
-  "2023-10-17": 196628,
-  "2023-10-18": 196707,
-  "2023-10-19": 196826,
-  "2023-10-20": 196948,
-  "2023-10-21": 197089,
-  "2023-10-22": 197196,
-  "2023-10-23": 197286,
-  "2023-10-24": 197389,
-  "2023-10-25": 197489,
-  "2023-10-26": 197593,
-  "2023-10-27": 197693,
-  "2023-10-28": 197821,
-  "2023-10-29": 197913,
-  "2023-10-30": 198117,
-  "2023-10-31": 198117,
-  "2023-11-01": 198195,
-  "2023-11-02": 198289,
-  "2023-11-03": 198380,
-  "2023-11-04": 198483,
-  "2023-11-05": 198578,
-  "2023-11-06": 198695,
-  "2023-11-07": 198810,
-  "2023-11-08": 198944,
-  "2023-11-09": 199063,
-  "2023-11-10": 199214,
-  "2023-11-11": 199363,
-  "2023-11-12": 199446,
-  "2023-11-13": 199530,
-  "2023-11-14": 199602,
-  "2023-11-15": 199602,
-  "2023-11-16": 199806,
-  "2023-11-17": 200067,
-  "2023-11-18": 200067,
-  "2023-11-19": 200226,
-  "2023-11-20": 200335,
-  "2023-11-21": 200598,
-  "2023-11-22": 200883,
-  "2023-11-23": 201065,
-  "2023-11-24": 201203,
-  "2023-11-25": 201335,
-  "2023-11-26": 201487,
-  "2023-11-27": 201640,
-  "2023-11-28": 201736,
-  "2023-11-29": 202138,
-  "2023-11-30": 202138,
-  "2023-12-01": 202346,
-  "2023-12-02": 202510,
-  "2023-12-03": 202668,
-  "2023-12-04": 202809,
-  "2023-12-05": 202959,
-  "2023-12-06": 203089,
-  "2023-12-07": 203222,
-  "2023-12-08": 203390,
-  "2023-12-09": 203594,
-  "2023-12-10": 203819,
-  "2023-12-11": 204006,
-  "2023-12-12": 204163,
-  "2023-12-13": 204303,
-  "2023-12-14": 204503,
-  "2023-12-15": 204612,
-  "2023-12-16": 204750,
-  "2023-12-17": 204903,
-  "2023-12-18": 205061,
-  "2023-12-19": 205176,
-  "2023-12-20": 205320,
-  "2023-12-21": 205481,
-  "2023-12-22": 205662,
-  "2023-12-23": 205827,
-  "2023-12-24": 206037,
-  "2023-12-25": 206230,
-  "2023-12-26": 206433,
-  "2023-12-27": 206623,
-  "2023-12-30": 207191,
-  "2023-12-31": 207361,
-  "2024-01-01": 207521,
-  "2024-01-02": 207671,
-  "2024-01-03": 207835
+  "2024-01-17": 209894,
+  "date_first_scraped": "2022-01-13",
+  "description": "Los grandes \u00e9xitos de Luis Miguel y Alejandro Fern\u00e1ndez en un mismo lugar.",
+  "name": "Dos \u00cdconos: Luis Miguel x Alejandro Fern\u00e1ndez",
+  "tracks": [
+    {
+      "album": {
+        "name": "Celebridades- Luis Miguel",
+        "url": "https://open.spotify.com/album/1cpQHKtfCtrxMz7zUlX7of"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205909,
+      "name": "1+1=2 Enamorados",
+      "url": "https://open.spotify.com/track/2vHF81RO8GVarx2ykRhOsu"
+    },
+    {
+      "album": {
+        "name": "De Noche - Clasicos A Mi Manera",
+        "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/4bc94CmMRBdAHPbIigr4mj"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211760,
+      "name": "Amarte es un placer",
+      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324040,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/18eQbiep3Kllvt52SW3ZCj"
+    },
+    {
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229053,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
+    },
+    {
+      "album": {
+        "name": "Mas Rom\u00e1ntico Que Nunca - Sus Grandes Exitos Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/2TBD76ifIFJGhj8AsHF3xb"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Canta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5L9YBNfJx7ngCq1jrkQ8Tl"
+    },
+    {
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Como Quien Pierde una Estrella",
+      "url": "https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
+    },
+    {
+      "album": {
+        "name": "Decepciones",
+        "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223706,
+      "name": "Decepciones",
+      "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
+    },
+    {
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
+    },
+    {
+      "album": {
+        "name": "Eso Y M\u00e1s",
+        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
+    },
+    {
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/6av3uLAacGG7c9fjshWmuH"
+    },
+    {
+      "album": {
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291106,
+      "name": "Hoy Tengo Ganas De Ti",
+      "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "La Gloria Eres Tu",
+      "url": "https://open.spotify.com/track/0toNfHRTPmbsHi63G7Vgdz"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+    },
+    {
+      "album": {
+        "name": "Mi Verdad",
+        "url": "https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196266,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1tQYNmqyChbjXyZqOkto7s"
+    },
+    {
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231773,
+      "name": "Me Dediqu\u00e9 a Perderte",
+      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
+    },
+    {
+      "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/3pJmw2cOLaMNwmyTUlEuLX"
+    },
+    {
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "M\u00e1talas",
+      "url": "https://open.spotify.com/track/2uZX6rf2otrXvGx8vby7Xd"
+    },
+    {
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a Amada Mia",
+        "url": "https://open.spotify.com/album/3TVNw5Xt1czL5ZnQ9A5kzM"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Ni\u00f1a Amada M\u00eda",
+      "url": "https://open.spotify.com/track/7D9vpiy6FdXDx53fP1ioD7"
+    },
+    {
+      "album": {
+        "name": "De Noche - Clasicos A Mi Manera",
+        "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198480,
+      "name": "No",
+      "url": "https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT"
+    },
+    {
+      "album": {
+        "name": "Mis Boleros Favoritos",
+        "url": "https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/11x1jx2HdzyjXgB31WAEkG"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244133,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238933,
+      "name": "Oro De Ley",
+      "url": "https://open.spotify.com/track/2PZtKB8fDoDGLot27oUnWH"
+    },
+    {
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484706,
+      "name": "Popurr\u00ed Juan Gabriel / Ya Lo S\u00e9 Que T\u00fa Te Vas / La Diferencia / Te Sigo Amando - En Vivo",
+      "url": "https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
+    },
+    {
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "Que Seas Feliz",
+      "url": "https://open.spotify.com/track/6AOt2y4PzYgiUapxCIrbfV"
+    },
+    {
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Quiero Que Vuelvas",
+      "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
+    },
+    {
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260853,
+      "name": "Qu\u00e9 L\u00e1stima",
+      "url": "https://open.spotify.com/track/5mqhPFVGkCJ67BtEL52pJW"
+    },
+    {
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268466,
+      "name": "Qu\u00e9 Nivel De Mujer",
+      "url": "https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc"
+    },
+    {
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245866,
+      "name": "Qu\u00e9 Voy a Hacer Con Mi Amor",
+      "url": "https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q"
+    },
+    {
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200386,
+      "name": "Sabes Una Cosa",
+      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
+    },
+    {
+      "album": {
+        "name": "Mis Boleros Favoritos",
+        "url": "https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/6FplxvL2eaAd21QDPSp7M0"
+    },
+    {
+      "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240240,
+      "name": "Se Me Va La Voz",
+      "url": "https://open.spotify.com/track/5mrVaQBkLX0pErRNDNVREE"
+    },
+    {
+      "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233840,
+      "name": "Si t\u00fa te atreves",
+      "url": "https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J"
+    },
+    {
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335533,
+      "name": "Suave - En vivo",
+      "url": "https://open.spotify.com/track/3wEzk1HBTwaDsV6GU0trKN"
+    },
+    {
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "S\u00e9 Que Te Duele",
+      "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
+    },
+    {
+      "album": {
+        "name": "Confidencias Reales (En Vivo Desde El Teatro Real)",
+        "url": "https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "Te Amar\u00e9 - En Vivo Desde El Teatro Real",
+      "url": "https://open.spotify.com/track/1xoMRgnQY63sYQZNfImUEZ"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194320,
+      "name": "Te necesito",
+      "url": "https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx"
+    },
+    {
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE"
+    },
+    {
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371533,
+      "name": "Te propongo esta noche",
+      "url": "https://open.spotify.com/track/3rZySdtQD7kNmpVb8gYQv4"
+    },
+    {
+      "album": {
+        "name": "Mas Rom\u00e1ntico Que Nunca - Sus Grandes Exitos Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/2TBD76ifIFJGhj8AsHF3xb"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250640,
+      "name": "Te Voy a Perder",
+      "url": "https://open.spotify.com/track/0Mp1XuQz36h46H3UXja0zw"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272826,
+      "name": "Tengo Todo Excepto a Ti",
+      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
+    },
+    {
+      "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214746,
+      "name": "Tienes Que Entender",
+      "url": "https://open.spotify.com/track/7ee2FbCIkLtNyAXrnXZy5G"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSXkKR3NnPZR"
 }

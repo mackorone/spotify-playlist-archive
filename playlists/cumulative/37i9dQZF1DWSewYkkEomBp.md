@@ -4,7 +4,7 @@
 
 > The perfect tunes to accompany your lazy day in the garden.
 
-166 songs - 10 hr 25 min
+167 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Cruisin to the Park](https://open.spotify.com/track/0sNYfZwh3F8hs7dcax1xZC) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:32 | 2020-05-18 | 2022-11-14 |
 | [Cruisin to the Park](https://open.spotify.com/track/1bfTXGpAL4638bmw5Krpb3) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Cruisin to the Park](https://open.spotify.com/album/5qgjDKdzAt2fTNdOgx0qmK) | 3:32 | 2020-05-18 | 2022-07-29 |
 | [Cruisin to the Park](https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Cruisin to the Park](https://open.spotify.com/album/1X0ZHwPLIpROo8arjBErDY) | 3:32 | 2020-05-18 |  |
-| [Dancing In the Moonlight](https://open.spotify.com/track/7ufDF5ePKsnxYgP0DAZoZE) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/5OzsCyv6MpJzmHVXIkeN9y) | 3:01 | 2020-05-18 |  |
+| [Dancing In the Moonlight](https://open.spotify.com/track/7ufDF5ePKsnxYgP0DAZoZE) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/5OzsCyv6MpJzmHVXIkeN9y) | 2:54 | 2020-05-18 | 2024-01-13 |
+| [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 | 2020-05-18 |  |
 | [Daydream](https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Daydream](https://open.spotify.com/album/678WzpMIeszIatLVnczSnS) | 2:19 | 2020-05-18 |  |
 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 | 2020-05-18 |  |
 | [Do That Stuff](https://open.spotify.com/track/2Es7L5xt6GmxZSNoISTW1I) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Clones Of Dr\. Funkenstein](https://open.spotify.com/album/658zJVrLYgMe6bUUJhBXmJ) | 4:48 | 2020-05-18 |  |

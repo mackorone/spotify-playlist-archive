@@ -1,472 +1,1233 @@
 {
-  "2022-09-17": 4926,
-  "2022-09-18": 4936,
-  "2022-09-19": 4966,
-  "2022-09-20": 4988,
-  "2022-09-21": 5011,
-  "2022-09-22": 5050,
-  "2022-09-23": 5070,
-  "2022-09-24": 5095,
-  "2022-09-25": 5112,
-  "2022-09-26": 5132,
-  "2022-09-27": 5161,
-  "2022-09-28": 5199,
-  "2022-09-29": 5235,
-  "2022-09-30": 5281,
-  "2022-10-01": 5322,
-  "2022-10-02": 5341,
-  "2022-10-03": 5362,
-  "2022-10-04": 5399,
-  "2022-10-05": 5427,
-  "2022-10-06": 5453,
-  "2022-10-07": 5482,
-  "2022-10-08": 5495,
-  "2022-10-09": 5540,
-  "2022-10-10": 5547,
-  "2022-10-11": 5565,
-  "2022-10-12": 5595,
-  "2022-10-13": 5625,
-  "2022-10-14": 5652,
-  "2022-10-15": 5673,
-  "2022-10-16": 5690,
-  "2022-10-17": 5711,
-  "2022-10-18": 5730,
-  "2022-10-19": 5762,
-  "2022-10-20": 5788,
-  "2022-10-21": 5817,
-  "2022-10-22": 5841,
-  "2022-10-23": 5853,
-  "2022-10-24": 5874,
-  "2022-10-25": 5888,
-  "2022-10-26": 5898,
-  "2022-10-27": 5908,
-  "2022-10-28": 5926,
-  "2022-10-29": 5940,
-  "2022-10-30": 5946,
-  "2022-10-31": 5960,
-  "2022-11-01": 5977,
-  "2022-11-02": 6002,
-  "2022-11-03": 6012,
-  "2022-11-04": 6028,
-  "2022-11-05": 6049,
-  "2022-11-06": 6066,
-  "2022-11-07": 6081,
-  "2022-11-08": 6117,
-  "2022-11-09": 6189,
-  "2022-11-10": 6258,
-  "2022-11-11": 6317,
-  "2022-11-12": 6363,
-  "2022-11-13": 6388,
-  "2022-11-14": 6414,
-  "2022-11-15": 6446,
-  "2022-11-16": 6474,
-  "2022-11-17": 6501,
-  "2022-11-18": 6511,
-  "2022-11-19": 6516,
-  "2022-11-20": 6536,
-  "2022-11-21": 6567,
-  "2022-11-22": 6593,
-  "2022-11-23": 6616,
-  "2022-11-24": 6664,
-  "2022-11-25": 6706,
-  "2022-11-26": 6742,
-  "2022-11-27": 6772,
-  "2022-11-28": 6799,
-  "2022-11-29": 6828,
-  "2022-11-30": 6849,
-  "2022-12-01": 6913,
-  "2022-12-02": 6960,
-  "2022-12-03": 7040,
-  "2022-12-04": 7062,
-  "2022-12-05": 7104,
-  "2022-12-06": 7144,
-  "2022-12-07": 7170,
-  "2022-12-08": 7209,
-  "2022-12-09": 7241,
-  "2022-12-10": 7269,
-  "2022-12-11": 7295,
-  "2022-12-12": 7326,
-  "2022-12-13": 7360,
-  "2022-12-14": 7394,
-  "2022-12-15": 7440,
-  "2022-12-16": 7468,
-  "2022-12-17": 7501,
-  "2022-12-18": 7523,
-  "2022-12-19": 7547,
-  "2022-12-20": 7614,
-  "2022-12-21": 7614,
-  "2022-12-22": 7637,
-  "2022-12-24": 7687,
-  "2022-12-25": 7708,
-  "2022-12-26": 7717,
-  "2022-12-27": 7735,
-  "2022-12-28": 7783,
-  "2022-12-29": 7838,
-  "2022-12-30": 7883,
-  "2022-12-31": 7922,
-  "2023-01-01": 7964,
-  "2023-01-02": 8022,
-  "2023-01-03": 8087,
-  "2023-01-04": 8132,
-  "2023-01-05": 8180,
-  "2023-01-06": 8219,
-  "2023-01-07": 8275,
-  "2023-01-08": 8280,
-  "2023-01-09": 8319,
-  "2023-01-10": 8359,
-  "2023-01-11": 8403,
-  "2023-01-12": 8460,
-  "2023-01-13": 8485,
-  "2023-01-14": 8543,
-  "2023-01-15": 8552,
-  "2023-01-16": 8592,
-  "2023-01-17": 8658,
-  "2023-01-18": 8722,
-  "2023-01-19": 8792,
-  "2023-01-20": 8823,
-  "2023-01-21": 8885,
-  "2023-01-22": 8925,
-  "2023-01-23": 8990,
-  "2023-01-24": 9034,
-  "2023-01-25": 9072,
-  "2023-01-26": 9100,
-  "2023-01-27": 9153,
-  "2023-01-28": 9189,
-  "2023-01-29": 9228,
-  "2023-01-30": 9266,
-  "2023-01-31": 9266,
-  "2023-02-01": 9339,
-  "2023-02-02": 9368,
-  "2023-02-03": 9409,
-  "2023-02-04": 9456,
-  "2023-02-05": 9489,
-  "2023-02-06": 9546,
-  "2023-02-07": 9592,
-  "2023-02-08": 9679,
-  "2023-02-09": 9679,
-  "2023-02-10": 9730,
-  "2023-02-11": 9778,
-  "2023-02-12": 9886,
-  "2023-02-13": 9950,
-  "2023-02-14": 9950,
-  "2023-02-15": 10010,
-  "2023-02-16": 10075,
-  "2023-02-17": 10121,
-  "2023-02-18": 10264,
-  "2023-02-19": 10275,
-  "2023-02-20": 10324,
-  "2023-02-21": 10379,
-  "2023-02-22": 10436,
-  "2023-02-23": 10505,
-  "2023-02-24": 10567,
-  "2023-02-25": 10648,
-  "2023-02-26": 10687,
-  "2023-02-27": 10827,
-  "2023-02-28": 10827,
-  "2023-03-01": 10892,
-  "2023-03-02": 10952,
-  "2023-03-03": 11005,
-  "2023-03-04": 11078,
-  "2023-03-05": 11204,
-  "2023-03-06": 11204,
-  "2023-03-07": 11289,
-  "2023-03-08": 11338,
-  "2023-03-09": 11400,
-  "2023-03-10": 11459,
-  "2023-03-11": 11535,
-  "2023-03-12": 11607,
-  "2023-03-13": 11660,
-  "2023-03-14": 11712,
-  "2023-03-15": 11772,
-  "2023-03-16": 11772,
-  "2023-03-17": 11772,
-  "2023-03-18": 11983,
-  "2023-03-19": 11983,
-  "2023-03-20": 12122,
-  "2023-03-21": 12182,
-  "2023-03-22": 12228,
-  "2023-03-23": 12288,
-  "2023-03-24": 12288,
-  "2023-03-25": 12396,
-  "2023-03-26": 12458,
-  "2023-03-27": 12527,
-  "2023-03-28": 12581,
-  "2023-03-29": 12650,
-  "2023-03-30": 12784,
-  "2023-03-31": 12784,
-  "2023-04-01": 12845,
-  "2023-04-02": 12915,
-  "2023-04-03": 12976,
-  "2023-04-04": 13034,
-  "2023-04-05": 13087,
-  "2023-04-06": 13148,
-  "2023-04-07": 13231,
-  "2023-04-09": 13376,
-  "2023-04-10": 13425,
-  "2023-04-11": 13569,
-  "2023-04-12": 13569,
-  "2023-04-13": 13651,
-  "2023-04-14": 13710,
-  "2023-04-15": 13783,
-  "2023-04-16": 13840,
-  "2023-04-17": 13885,
-  "2023-04-18": 13939,
-  "2023-04-19": 13989,
-  "2023-04-20": 14056,
-  "2023-04-21": 14120,
-  "2023-04-22": 14166,
-  "2023-04-23": 14226,
-  "2023-04-24": 14278,
-  "2023-04-25": 14337,
-  "2023-04-26": 14385,
-  "2023-04-27": 14431,
-  "2023-04-28": 14482,
-  "2023-04-29": 14525,
-  "2023-04-30": 14571,
-  "2023-05-01": 14626,
-  "2023-05-02": 14667,
-  "2023-05-03": 14713,
-  "2023-05-04": 14755,
-  "2023-05-05": 14804,
-  "2023-05-06": 14847,
-  "2023-05-07": 14880,
-  "2023-05-08": 14931,
-  "2023-05-09": 14979,
-  "2023-05-10": 15023,
-  "2023-05-11": 15072,
-  "2023-05-12": 15123,
-  "2023-05-13": 15183,
-  "2023-05-14": 15210,
-  "2023-05-15": 15250,
-  "2023-05-16": 15301,
-  "2023-05-17": 15331,
-  "2023-05-18": 15367,
-  "2023-05-19": 15408,
-  "2023-05-20": 15496,
-  "2023-05-21": 15496,
-  "2023-05-22": 15496,
-  "2023-05-23": 15592,
-  "2023-05-24": 15643,
-  "2023-05-25": 15651,
-  "2023-05-26": 15684,
-  "2023-05-27": 15713,
-  "2023-05-28": 15747,
-  "2023-05-29": 15747,
-  "2023-05-30": 15824,
-  "2023-05-31": 15845,
-  "2023-06-01": 15869,
-  "2023-06-02": 15904,
-  "2023-06-03": 15936,
-  "2023-06-04": 15966,
-  "2023-06-05": 16001,
-  "2023-06-06": 16035,
-  "2023-06-07": 16091,
-  "2023-06-08": 16132,
-  "2023-06-09": 16167,
-  "2023-06-10": 16193,
-  "2023-06-11": 16224,
-  "2023-06-12": 16254,
-  "2023-06-13": 16285,
-  "2023-06-14": 16347,
-  "2023-06-15": 16383,
-  "2023-06-16": 16437,
-  "2023-06-17": 16456,
-  "2023-06-18": 16503,
-  "2023-06-19": 16536,
-  "2023-06-20": 16568,
-  "2023-06-21": 16608,
-  "2023-06-22": 16639,
-  "2023-06-23": 16669,
-  "2023-06-24": 16718,
-  "2023-06-25": 16766,
-  "2023-06-26": 16791,
-  "2023-06-27": 16832,
-  "2023-06-28": 16863,
-  "2023-06-29": 16893,
-  "2023-06-30": 16920,
-  "2023-07-01": 16988,
-  "2023-07-02": 16988,
-  "2023-07-03": 17030,
-  "2023-07-04": 17046,
-  "2023-07-05": 17096,
-  "2023-07-06": 17161,
-  "2023-07-07": 17161,
-  "2023-07-08": 17174,
-  "2023-07-09": 17200,
-  "2023-07-10": 17223,
-  "2023-07-11": 17245,
-  "2023-07-12": 17277,
-  "2023-07-13": 17312,
-  "2023-07-14": 17357,
-  "2023-07-15": 17398,
-  "2023-07-16": 17446,
-  "2023-07-17": 17494,
-  "2023-07-18": 17527,
-  "2023-07-19": 17568,
-  "2023-07-20": 17601,
-  "2023-07-21": 17628,
-  "2023-07-22": 17655,
-  "2023-07-23": 17691,
-  "2023-07-24": 17726,
-  "2023-07-25": 17764,
-  "2023-07-26": 17800,
-  "2023-07-27": 17855,
-  "2023-07-28": 17893,
-  "2023-07-29": 17925,
-  "2023-07-30": 17974,
-  "2023-07-31": 18014,
-  "2023-08-01": 18051,
-  "2023-08-02": 18094,
-  "2023-08-03": 18129,
-  "2023-08-04": 18167,
-  "2023-08-05": 18220,
-  "2023-08-06": 18310,
-  "2023-08-07": 18310,
-  "2023-08-08": 18351,
-  "2023-08-09": 18377,
-  "2023-08-10": 18418,
-  "2023-08-11": 18467,
-  "2023-08-12": 18506,
-  "2023-08-13": 18506,
-  "2023-08-14": 18591,
-  "2023-08-15": 18648,
-  "2023-08-16": 18648,
-  "2023-08-17": 18733,
-  "2023-08-18": 18733,
-  "2023-08-19": 18796,
-  "2023-08-20": 18842,
-  "2023-08-21": 18873,
-  "2023-08-22": 18901,
-  "2023-08-23": 18941,
-  "2023-08-24": 18966,
-  "2023-08-25": 18966,
-  "2023-08-26": 19020,
-  "2023-08-27": 19049,
-  "2023-08-28": 19080,
-  "2023-08-29": 19080,
-  "2023-08-30": 19080,
-  "2023-08-31": 19203,
-  "2023-09-01": 19271,
-  "2023-09-02": 19271,
-  "2023-09-03": 19299,
-  "2023-09-04": 19299,
-  "2023-09-05": 19299,
-  "2023-09-06": 19371,
-  "2023-09-07": 19371,
-  "2023-09-08": 19371,
-  "2023-09-09": 19371,
-  "2023-09-10": 19504,
-  "2023-09-11": 19520,
-  "2023-09-12": 19520,
-  "2023-09-13": 19597,
-  "2023-09-14": 19597,
-  "2023-09-15": 19597,
-  "2023-09-16": 19741,
-  "2023-09-17": 19741,
-  "2023-09-18": 19741,
-  "2023-09-19": 19875,
-  "2023-09-20": 19875,
-  "2023-09-21": 19875,
-  "2023-09-22": 19997,
-  "2023-09-23": 19997,
-  "2023-09-24": 19997,
-  "2023-09-25": 19997,
-  "2023-09-26": 20135,
-  "2023-09-27": 20135,
-  "2023-09-28": 20135,
-  "2023-09-29": 20135,
-  "2023-09-30": 20135,
-  "2023-10-01": 20135,
-  "2023-10-02": 20326,
-  "2023-10-03": 20326,
-  "2023-10-04": 20326,
-  "2023-10-05": 20413,
-  "2023-10-06": 20451,
-  "2023-10-07": 20451,
-  "2023-10-08": 20451,
-  "2023-10-09": 20451,
-  "2023-10-10": 20451,
-  "2023-10-11": 20595,
-  "2023-10-12": 20595,
-  "2023-10-13": 20595,
-  "2023-10-14": 20595,
-  "2023-10-15": 20595,
-  "2023-10-16": 20595,
-  "2023-10-17": 20595,
-  "2023-10-18": 20595,
-  "2023-10-19": 20595,
-  "2023-10-20": 20595,
-  "2023-10-21": 20595,
-  "2023-10-22": 20595,
-  "2023-10-23": 20595,
-  "2023-10-24": 20595,
-  "2023-10-25": 20595,
-  "2023-10-26": 20595,
-  "2023-10-27": 20595,
-  "2023-10-28": 20595,
-  "2023-10-29": 20595,
-  "2023-10-30": 20595,
-  "2023-10-31": 20595,
-  "2023-11-01": 20595,
-  "2023-11-02": 20595,
-  "2023-11-03": 20595,
-  "2023-11-04": 20595,
-  "2023-11-05": 20595,
-  "2023-11-06": 20595,
-  "2023-11-07": 20595,
-  "2023-11-08": 20595,
-  "2023-11-09": 20595,
-  "2023-11-10": 20595,
-  "2023-11-11": 21481,
-  "2023-11-12": 21481,
-  "2023-11-13": 21481,
-  "2023-11-14": 21481,
-  "2023-11-15": 21481,
-  "2023-11-16": 21481,
-  "2023-11-17": 21481,
-  "2023-11-18": 21481,
-  "2023-11-19": 21481,
-  "2023-11-20": 21481,
-  "2023-11-21": 21481,
-  "2023-11-22": 21481,
-  "2023-11-23": 21481,
-  "2023-11-24": 21481,
-  "2023-11-25": 21481,
-  "2023-11-26": 21481,
-  "2023-11-27": 21481,
-  "2023-11-28": 21481,
-  "2023-11-29": 21481,
-  "2023-11-30": 21481,
-  "2023-12-01": 21481,
-  "2023-12-02": 21481,
-  "2023-12-03": 21481,
-  "2023-12-04": 21481,
-  "2023-12-05": 21481,
-  "2023-12-06": 21481,
-  "2023-12-07": 21481,
-  "2023-12-08": 21481,
-  "2023-12-09": 21481,
-  "2023-12-10": 21481,
-  "2023-12-11": 21481,
-  "2023-12-12": 21481,
-  "2023-12-13": 21481,
-  "2023-12-14": 22537,
-  "2023-12-15": 22565,
-  "2023-12-16": 22605,
-  "2023-12-17": 22641,
-  "2023-12-18": 22671,
-  "2023-12-19": 22714,
-  "2023-12-20": 22756,
-  "2023-12-21": 22802,
-  "2023-12-22": 22841,
-  "2023-12-23": 22849,
-  "2023-12-24": 22884,
-  "2023-12-25": 22912,
-  "2023-12-26": 22933,
-  "2023-12-27": 22971,
-  "2023-12-30": 23069,
-  "2023-12-31": 23112,
-  "2024-01-01": 23143,
-  "2024-01-02": 23172,
-  "2024-01-03": 23212
+  "2024-01-17": 23654,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
+  "name": "This Is Lizzy McAlpine",
+  "tracks": [
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "...What Are We?",
+      "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 218500,
+      "name": "...What Are We?",
+      "url": "https://open.spotify.com/track/32RWKC1dl511V27LDNDHdj"
+    },
+    {
+      "album": {
+        "name": "7PM",
+        "url": "https://open.spotify.com/album/7skYaHXGxK6JiRwlVgJ5ri"
+      },
+      "artists": [
+        {
+          "name": "Lilacs.",
+          "url": "https://open.spotify.com/artist/2MgMN5BR3mfAMR5y7S2UIr"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
+      "duration_ms": 202105,
+      "name": "7PM",
+      "url": "https://open.spotify.com/track/76tztTt7xAC6E0RZggd9xg"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 197032,
+      "name": "all my ghosts",
+      "url": "https://open.spotify.com/track/2tEfW1QMddoTWIIgHtHiPV"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197032,
+      "name": "all my ghosts",
+      "url": "https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 225500,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/6hATzsi5c70uo0pyrI1Gcj"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259165,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/0zLnAV1lYEhVnKk3ITmCym"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 259166,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/5FKNq0lLJnP3iZzBTD0PZj"
+    },
+    {
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159548,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J"
+    },
+    {
+      "album": {
+        "name": "Call Your Mom (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 192757,
+      "name": "called you again",
+      "url": "https://open.spotify.com/track/0YEDKQ02fPwrG27jk4RBl8"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
+    },
+    {
+      "album": {
+        "name": "vol. 17",
+        "url": "https://open.spotify.com/album/45sgglnETFyB3EJJmY5Hsj"
+      },
+      "artists": [
+        {
+          "name": "stories",
+          "url": "https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185536,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0FK7VTnXJSWqayUOPgVJ4V"
+    },
+    {
+      "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/7kPywVWHVzRTrlzPMXFIWq"
+      },
+      "artists": [
+        {
+          "name": "stories",
+          "url": "https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 185536,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/1dHbjQmKlr15e6xP7VDfWi"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268432,
+      "name": "doomsday",
+      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 268432,
+      "name": "doomsday",
+      "url": "https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214468,
+      "name": "erase me",
+      "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 214468,
+      "name": "erase me (feat. Jacob Collier)",
+      "url": "https://open.spotify.com/track/3WP4iglY7SPmXucvNLJq2G"
+    },
+    {
+      "album": {
+        "name": "A Grey Area",
+        "url": "https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133626,
+      "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
+      "url": "https://open.spotify.com/track/07hbdNti9gk29sidptgZou"
+    },
+    {
+      "album": {
+        "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
+        "url": "https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 133626,
+      "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
+      "url": "https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7"
+    },
+    {
+      "album": {
+        "name": "False Art",
+        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183454,
+      "name": "False Art",
+      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156798,
+      "name": "hate to be lame",
+      "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 156798,
+      "name": "hate to be lame (feat. FINNEAS)",
+      "url": "https://open.spotify.com/track/33DWkHTEF8LmdxI1OPc50a"
+    },
+    {
+      "album": {
+        "name": "Hold On (From \"Dear Edward\")",
+        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156826,
+      "name": "Hold On (From \"Dear Edward\")",
+      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
+    },
+    {
+      "album": {
+        "name": "Hold On (From \"Dear Edward\")",
+        "url": "https://open.spotify.com/album/06tHRR1xXpauOmo47S1DTL"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 156826,
+      "name": "Hold On (From \"Dear Edward\")",
+      "url": "https://open.spotify.com/track/39YmS0tsTXHloxBgU3sYf9"
+    },
+    {
+      "album": {
+        "name": "Hope (Acoustic)",
+        "url": "https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223933,
+      "name": "Hope - Acoustic",
+      "url": "https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl"
+    },
+    {
+      "album": {
+        "name": "I Think I",
+        "url": "https://open.spotify.com/album/2TxV63ZiqONxz4lfA25rYJ"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "I Think I",
+      "url": "https://open.spotify.com/track/4v7shHT3eXpvBoG5k2OMIM"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 227488,
+      "name": "In Agreement",
+      "url": "https://open.spotify.com/track/0dyYA68FsaBGDKfmu9pQm6"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227488,
+      "name": "In Agreement",
+      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
+    },
+    {
+      "album": {
+        "name": "Just the Two of Us",
+        "url": "https://open.spotify.com/album/6ppQvrvuJh7YAiAsz5IMp8"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195242,
+      "name": "Just the Two of Us",
+      "url": "https://open.spotify.com/track/7kjvp3gUi1BzmcUsjk1k6I"
+    },
+    {
+      "album": {
+        "name": "Lady In Blue (Pickup Live Session)",
+        "url": "https://open.spotify.com/album/0paOo5lZd1KIFagxQgLMLf"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "Lady In Blue (Pickup Live Session)",
+      "url": "https://open.spotify.com/track/0ZrmeApk2p2FY4BGvQHPoZ"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180482,
+      "name": "Let Light Be Light",
+      "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 180482,
+      "name": "Let Light Be Light",
+      "url": "https://open.spotify.com/track/5xmcaaw5Sj0AXftGNesoxc"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 144631,
+      "name": "Means Something",
+      "url": "https://open.spotify.com/track/53taBvemC88CMHP2I1xAFX"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144631,
+      "name": "Means Something",
+      "url": "https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249946,
+      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 226736,
+      "name": "orange show speedway",
+      "url": "https://open.spotify.com/track/25Q51oxy3Rf8fU9BHo863S"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 226736,
+      "name": "orange show speedway",
+      "url": "https://open.spotify.com/track/6Ngps97GnSV17gGxsYX1NZ"
+    },
+    {
+      "album": {
+        "name": "Over-the-Ocean Call",
+        "url": "https://open.spotify.com/album/70OpmX87dKDQK5sq8xh5rq"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 244402,
+      "name": "Over-the-Ocean Call",
+      "url": "https://open.spotify.com/track/6Kd3udS3G5mQq4Nt51mCKh"
+    },
+    {
+      "album": {
+        "name": "Over-the-Ocean Call",
+        "url": "https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244402,
+      "name": "Over-the-Ocean Call",
+      "url": "https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235035,
+      "name": "Pancakes for Dinner",
+      "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 235035,
+      "name": "Pancakes for Dinner",
+      "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
+    },
+    {
+      "album": {
+        "name": "Paranoia Purple",
+        "url": "https://open.spotify.com/album/6nqblG53NdUSIoKLndjgL2"
+      },
+      "artists": [
+        {
+          "name": "stories",
+          "url": "https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237156,
+      "name": "Paranoia Purple",
+      "url": "https://open.spotify.com/track/0kOq336SMTIa90VjHMutht"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189247,
+      "name": "reckless driving",
+      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 189247,
+      "name": "reckless driving (feat. Ben Kessler)",
+      "url": "https://open.spotify.com/track/14NUzP69qYaAdkU0fUGwD5"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Same Boat",
+      "url": "https://open.spotify.com/track/4PCsSHOvnIXh2TBdEzb0pr"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 202800,
+      "name": "Same Boat",
+      "url": "https://open.spotify.com/track/6QllZj61FBD4tkCHuAguBW"
+    },
+    {
+      "album": {
+        "name": "Stank Face",
+        "url": "https://open.spotify.com/album/1pl9uWuNFtZ3eBcSpnmL9r"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189845,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/1SveOKrBFiyneSj3Pd5Sup"
+    },
+    {
+      "album": {
+        "name": "Stayin' Alive",
+        "url": "https://open.spotify.com/album/0FmuxgEy8Sjec7tNY4SPCv"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 189845,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/5yH1Dmshfq3sVD2VKvroaB"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/4J7JZr3LfTC96SLjbpIyDe"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 222000,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/6Pkxhe00RTJovt56H4yLL0"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 194278,
+      "name": "When The World Stopped Moving",
+      "url": "https://open.spotify.com/track/5UIHXjP6OYHXJdnnNKmAHX"
+    },
+    {
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194278,
+      "name": "When The World Stopped Moving",
+      "url": "https://open.spotify.com/track/7JgDvGmgeKcdM633G1XAo9"
+    },
+    {
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/2FhVMpJN2jtR2BwvZOFZop"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3P7aN7piKYjITMJgFT09Ib"
+    },
+    {
+      "album": {
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WjMOs"
 }

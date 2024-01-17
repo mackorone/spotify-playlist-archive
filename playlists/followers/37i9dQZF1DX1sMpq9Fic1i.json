@@ -1,195 +1,599 @@
 {
-  "2023-06-23": 79,
-  "2023-06-24": 304,
-  "2023-06-25": 453,
-  "2023-06-26": 583,
-  "2023-06-27": 651,
-  "2023-06-28": 708,
-  "2023-06-29": 770,
-  "2023-06-30": 827,
-  "2023-07-01": 947,
-  "2023-07-02": 947,
-  "2023-07-03": 1001,
-  "2023-07-04": 1048,
-  "2023-07-05": 1113,
-  "2023-07-06": 1233,
-  "2023-07-07": 1233,
-  "2023-07-08": 1288,
-  "2023-07-09": 1349,
-  "2023-07-10": 1400,
-  "2023-07-11": 1452,
-  "2023-07-12": 1510,
-  "2023-07-13": 1566,
-  "2023-07-14": 1612,
-  "2023-07-15": 1642,
-  "2023-07-16": 1674,
-  "2023-07-17": 1714,
-  "2023-07-18": 1734,
-  "2023-07-19": 1747,
-  "2023-07-20": 1758,
-  "2023-07-21": 1768,
-  "2023-07-22": 1781,
-  "2023-07-23": 1799,
-  "2023-07-24": 1811,
-  "2023-07-25": 1823,
-  "2023-07-26": 1833,
-  "2023-07-27": 1839,
-  "2023-07-28": 1847,
-  "2023-07-29": 1854,
-  "2023-07-30": 1864,
-  "2023-07-31": 1872,
-  "2023-08-01": 1878,
-  "2023-08-02": 1889,
-  "2023-08-03": 1900,
-  "2023-08-04": 1910,
-  "2023-08-05": 1917,
-  "2023-08-06": 1937,
-  "2023-08-07": 1937,
-  "2023-08-08": 1946,
-  "2023-08-09": 1959,
-  "2023-08-10": 1963,
-  "2023-08-11": 1972,
-  "2023-08-12": 1980,
-  "2023-08-13": 1988,
-  "2023-08-14": 1997,
-  "2023-08-15": 2017,
-  "2023-08-16": 2017,
-  "2023-08-17": 2034,
-  "2023-08-18": 2040,
-  "2023-08-19": 2046,
-  "2023-08-20": 2052,
-  "2023-08-21": 2059,
-  "2023-08-22": 2072,
-  "2023-08-23": 2079,
-  "2023-08-24": 2085,
-  "2023-08-25": 2092,
-  "2023-08-26": 2097,
-  "2023-08-27": 2104,
-  "2023-08-28": 2111,
-  "2023-08-29": 2124,
-  "2023-08-30": 2128,
-  "2023-08-31": 2133,
-  "2023-09-01": 2162,
-  "2023-09-02": 2162,
-  "2023-09-03": 2184,
-  "2023-09-04": 2222,
-  "2023-09-05": 2245,
-  "2023-09-06": 2270,
-  "2023-09-07": 2298,
-  "2023-09-08": 2332,
-  "2023-09-09": 2359,
-  "2023-09-10": 2396,
-  "2023-09-11": 2425,
-  "2023-09-12": 2464,
-  "2023-09-13": 2494,
-  "2023-09-14": 2524,
-  "2023-09-15": 2553,
-  "2023-09-16": 2581,
-  "2023-09-17": 2605,
-  "2023-09-18": 2635,
-  "2023-09-19": 2660,
-  "2023-09-20": 2683,
-  "2023-09-21": 2711,
-  "2023-09-22": 2736,
-  "2023-09-23": 2757,
-  "2023-09-24": 2784,
-  "2023-09-25": 2812,
-  "2023-09-26": 2853,
-  "2023-09-27": 2878,
-  "2023-09-28": 2904,
-  "2023-09-29": 2929,
-  "2023-09-30": 2959,
-  "2023-10-01": 2988,
-  "2023-10-02": 3016,
-  "2023-10-03": 3036,
-  "2023-10-04": 3072,
-  "2023-10-05": 3095,
-  "2023-10-06": 3117,
-  "2023-10-07": 3156,
-  "2023-10-08": 3198,
-  "2023-10-09": 3238,
-  "2023-10-10": 3261,
-  "2023-10-11": 3347,
-  "2023-10-12": 3347,
-  "2023-10-13": 3381,
-  "2023-10-14": 3414,
-  "2023-10-15": 3458,
-  "2023-10-16": 3488,
-  "2023-10-17": 3518,
-  "2023-10-18": 3555,
-  "2023-10-19": 3594,
-  "2023-10-20": 3619,
-  "2023-10-21": 3647,
-  "2023-10-22": 3680,
-  "2023-10-23": 3712,
-  "2023-10-24": 3745,
-  "2023-10-25": 3781,
-  "2023-10-26": 3805,
-  "2023-10-27": 3840,
-  "2023-10-28": 3863,
-  "2023-10-29": 3890,
-  "2023-10-30": 3939,
-  "2023-10-31": 3939,
-  "2023-11-01": 3966,
-  "2023-11-02": 3996,
-  "2023-11-03": 4023,
-  "2023-11-04": 4050,
-  "2023-11-05": 4085,
-  "2023-11-06": 4132,
-  "2023-11-07": 4160,
-  "2023-11-08": 4188,
-  "2023-11-09": 4218,
-  "2023-11-10": 4244,
-  "2023-11-11": 4282,
-  "2023-11-12": 4311,
-  "2023-11-13": 4338,
-  "2023-11-14": 4357,
-  "2023-11-15": 4357,
-  "2023-11-16": 4402,
-  "2023-11-17": 4458,
-  "2023-11-18": 4458,
-  "2023-11-19": 4484,
-  "2023-11-20": 4507,
-  "2023-11-21": 4533,
-  "2023-11-22": 4556,
-  "2023-11-23": 4580,
-  "2023-11-24": 4611,
-  "2023-11-25": 4642,
-  "2023-11-26": 4675,
-  "2023-11-27": 4704,
-  "2023-11-28": 4725,
-  "2023-11-29": 4779,
-  "2023-11-30": 4779,
-  "2023-12-01": 4809,
-  "2023-12-02": 4837,
-  "2023-12-03": 4859,
-  "2023-12-04": 4890,
-  "2023-12-05": 4909,
-  "2023-12-06": 4929,
-  "2023-12-07": 4959,
-  "2023-12-08": 4974,
-  "2023-12-09": 4975,
-  "2023-12-10": 4976,
-  "2023-12-11": 4975,
-  "2023-12-12": 4976,
-  "2023-12-13": 4977,
-  "2023-12-14": 4980,
-  "2023-12-15": 4978,
-  "2023-12-16": 4979,
-  "2023-12-17": 4975,
-  "2023-12-18": 4978,
-  "2023-12-19": 4980,
-  "2023-12-20": 4980,
-  "2023-12-21": 4981,
-  "2023-12-22": 4980,
-  "2023-12-23": 4986,
-  "2023-12-24": 4985,
-  "2023-12-25": 4985,
-  "2023-12-26": 4988,
-  "2023-12-27": 4993,
-  "2023-12-30": 5002,
-  "2023-12-31": 5002,
-  "2024-01-01": 5001,
-  "2024-01-02": 5001,
-  "2024-01-03": 5003
+  "2024-01-17": 5016,
+  "date_first_scraped": "2023-06-23",
+  "description": "Music from \"BLUELOCK\" /\u30a2\u30cb\u30e1\u300c\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u91d1\u57ce\u5b97\u5e78\u30fb\u30ce\u6751\u512a\u4ecb\u30fb\u8b1b\u8ac7\u793e\uff0f\u300c\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "BLUELOCK \u30d6\u30eb\u30fc\u30ed\u30c3\u30af",
+  "tracks": [
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84133,
+      "name": "Aggressive",
+      "url": "https://open.spotify.com/track/7nCYiBOZ3zeTJ9kfW8RNDE"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171166,
+      "name": "Awakening of BAROU",
+      "url": "https://open.spotify.com/track/0tIhFwq1gSJdjPH0mo19HW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108933,
+      "name": "BACHIRA",
+      "url": "https://open.spotify.com/track/1dtQH4HvGUYo8iCOn7m5Ss"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97700,
+      "name": "Back and Forth",
+      "url": "https://open.spotify.com/track/4syuXGPoDB2Fo3jnW2vs7K"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.1",
+        "url": "https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm"
+      },
+      "artists": [
+        {
+          "name": "TEAM Z",
+          "url": "https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Beyond the Image",
+      "url": "https://open.spotify.com/track/1D83RID6kfu6t2FJwXS0Oa"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142133,
+      "name": "BLUELOCK",
+      "url": "https://open.spotify.com/track/6o6BdgEE5mK8muWiRuMw4j"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99633,
+      "name": "CHIGIRI",
+      "url": "https://open.spotify.com/track/2bbLUl984baOGtljQ6uPiR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86966,
+      "name": "Despair",
+      "url": "https://open.spotify.com/track/0mdgTQt3wfchbTm7d34SsR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Distorted Pleasure",
+      "url": "https://open.spotify.com/track/7itXW9B5kOjtHAA2215uat"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170900,
+      "name": "Farewell to KAIBUTSU",
+      "url": "https://open.spotify.com/track/3mdbsLzskY9n7njsvWAVeT"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96366,
+      "name": "Formidable Enemy",
+      "url": "https://open.spotify.com/track/2LAL45DNefNXxeacUKergK"
+    },
+    {
+      "album": {
+        "name": "Judgement",
+        "url": "https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "Judgement",
+      "url": "https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98100,
+      "name": "Kick Off",
+      "url": "https://open.spotify.com/track/0dpKc2wZhvWRtrUogyp06P"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.1",
+        "url": "https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm"
+      },
+      "artists": [
+        {
+          "name": "TEAM Z",
+          "url": "https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237766,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5W1vf2mP0x2fnEnbK7jydv"
+    },
+    {
+      "album": {
+        "name": "Ninth Peel",
+        "url": "https://open.spotify.com/album/7LJTvMEZzwp3MgG78n8eZR"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "Numbness like a ginger",
+      "url": "https://open.spotify.com/track/6WmH150zngZw8mNenyWY5o"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106300,
+      "name": "Protrusion",
+      "url": "https://open.spotify.com/track/4WZ9mk9TQCFoxdem6QZfHk"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110800,
+      "name": "Push Forward",
+      "url": "https://open.spotify.com/track/5WFx45nWwYVR5vaNlKmOwd"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87733,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/0hAOzO4MiON3OakQPmaQJ1"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153933,
+      "name": "RIN",
+      "url": "https://open.spotify.com/track/1ab3xr1b3TMpAOZwhM0qwN"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102800,
+      "name": "Spatial Awareness",
+      "url": "https://open.spotify.com/track/1igQeKnLlROweUAG7Jk9Y6"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101333,
+      "name": "Start Line",
+      "url": "https://open.spotify.com/track/1qxwEvmgGfFBL3jIqRKtHX"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99500,
+      "name": "Struggle",
+      "url": "https://open.spotify.com/track/5jp3XLGkRTIMfCQQUh4s9L"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.1",
+        "url": "https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm"
+      },
+      "artists": [
+        {
+          "name": "TEAM Z",
+          "url": "https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "The Last One",
+      "url": "https://open.spotify.com/track/4tVWri4uMyt2s6AZboHP9k"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.2",
+        "url": "https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24"
+      },
+      "artists": [
+        {
+          "name": "\u7cf8\u5e2b \u51db (CV.\u5185\u5c71\u6602\u8f1d)",
+          "url": "https://open.spotify.com/artist/0QoaRCbgKEviNjMegnAzMb"
+        },
+        {
+          "name": "\u87fb\u751f\u5341\u5175\u885b (CV.\u5c0f\u897f\u514b\u5e78)",
+          "url": "https://open.spotify.com/artist/5rvkRdSpUH0eOGfl9EyFcZ"
+        },
+        {
+          "name": "\u6642\u5149\u9752\u5fd7 (CV.\u7acb\u82b1\u614e\u4e4b\u4ecb)",
+          "url": "https://open.spotify.com/artist/2nP6faLXMNsePrQJZRcb0c"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "TOP OF THE LOCK",
+      "url": "https://open.spotify.com/track/1IzBaJeL29QR0ydI7S5gXb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.2",
+        "url": "https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24"
+      },
+      "artists": [
+        {
+          "name": "\u6f54 \u4e16\u4e00 (CV.\u6d66 \u548c\u5e0c)",
+          "url": "https://open.spotify.com/artist/4XUjnW6zLnXVPaRskMvja0"
+        },
+        {
+          "name": "\u8702\u697d \u5efb (CV.\u6d77\u6e21 \u7ffc)",
+          "url": "https://open.spotify.com/artist/6fnmf4FIORmnmc1DdDiI6F"
+        },
+        {
+          "name": "\u51ea \u8aa0\u58eb\u90ce (CV.\u5cf6\ufa11\u4fe1\u9577)",
+          "url": "https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239733,
+      "name": "TriWAR GAME",
+      "url": "https://open.spotify.com/track/0nUW5Wn9QfkrppsDytLYgG"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.2",
+        "url": "https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24"
+      },
+      "artists": [
+        {
+          "name": "\u6f54 \u4e16\u4e00 (CV.\u6d66 \u548c\u5e0c)",
+          "url": "https://open.spotify.com/artist/4XUjnW6zLnXVPaRskMvja0"
+        },
+        {
+          "name": "\u99ac\u72fc\u7167\u82f1 (CV.\u8acf\u8a2a\u90e8\u9806\u4e00)",
+          "url": "https://open.spotify.com/artist/6KkwcFMAfIMWhIzqVCSWC0"
+        },
+        {
+          "name": "\u51ea \u8aa0\u58eb\u90ce (CV.\u5cf6\ufa11\u4fe1\u9577)",
+          "url": "https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "TriWAR GAME - ReCollision",
+      "url": "https://open.spotify.com/track/4sSnACioBjMQsuz5nDzsre"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
+      },
+      "artists": [
+        {
+          "name": "\u6751\u5c71\u2606\u6f64",
+          "url": "https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95600,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/2on1qKATYdG1NyyJUEJbRO"
+    },
+    {
+      "album": {
+        "name": "WINNER",
+        "url": "https://open.spotify.com/album/0ugax3s6E7k3ElIU0EMpuo"
+      },
+      "artists": [
+        {
+          "name": "\u4ef2\u6751\u5b97\u609f",
+          "url": "https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212425,
+      "name": "WINNER",
+      "url": "https://open.spotify.com/track/14mCnyDRVwIaBEzI4UKvt0"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30aa\u30b9\u304c\u6975\u307e\u308b",
+        "url": "https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230586,
+      "name": "\u30ab\u30aa\u30b9\u304c\u6975\u307e\u308b",
+      "url": "https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.2",
+        "url": "https://open.spotify.com/album/09qKCaYKCHpUY0yjoGDB24"
+      },
+      "artists": [
+        {
+          "name": "\u570b\u795e\u932c\u4ecb (CV.\u5c0f\u91ce\u53cb\u6a39)",
+          "url": "https://open.spotify.com/artist/2DFbKMoyXH8iGUvrCoYS6s"
+        },
+        {
+          "name": "\u5343\u5207\u8c79\u99ac (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/3Q5mbDEOzgcVvkWJCE2HQA"
+        },
+        {
+          "name": "\u5fa1\u5f71\u73b2\u738b (CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/3fBJQAW7mepUbdLh48EZ1Y"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "\u30bc\u30ed",
+      "url": "https://open.spotify.com/track/2gIUhgY6m1Yj0exHdXhVsR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 Vol.1",
+        "url": "https://open.spotify.com/album/2r3tMBuZQaSZGY2fnINUtm"
+      },
+      "artists": [
+        {
+          "name": "TEAM Z",
+          "url": "https://open.spotify.com/artist/6D4IKJOUg7a8wq5TSiwd54"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "\u66b4\u98a8\u3068\u30d7\u30ed\u30e1\u30c6\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/6zVQTG4XWUQa7fyF8PIVGl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1sMpq9Fic1i"
 }

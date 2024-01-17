@@ -188,6 +188,28 @@
     {
       "album": {
         "name": "Anthems & Glory (Live)",
+        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310644,
+      "name": "Come A Little Closer - Live",
+      "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
+    },
+    {
+      "album": {
+        "name": "Anthems & Glory (Live)",
         "url": "https://open.spotify.com/album/51bpcxMhkM5JGtJdVlQUV0"
       },
       "artists": [
@@ -202,7 +224,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 310644,
       "name": "Come A Little Closer - Live",
       "url": "https://open.spotify.com/track/7oSL5SUODjjZ7UFQc4IWzT"
@@ -770,6 +792,60 @@
     {
       "album": {
         "name": "My City - Single",
+        "url": "https://open.spotify.com/album/2nLXrmWwWYef7UOgkuUMd6"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "J. Moss",
+          "url": "https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "21:03",
+          "url": "https://open.spotify.com/artist/0N6Fi2VLCxTWZAjcSQzIB4"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Clareta Haddon",
+          "url": "https://open.spotify.com/artist/3VgTSNIqovF0AvCvxtQRt5"
+        },
+        {
+          "name": "Dorinda Clark-Cole",
+          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
+        },
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        },
+        {
+          "name": "Shelby 5",
+          "url": "https://open.spotify.com/artist/7cvQ26Fz2sz3iMcAc8HXaD"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218207,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/4BZ0BhOjn8C6NaXnGwV1gn"
+    },
+    {
+      "album": {
+        "name": "My City - Single",
         "url": "https://open.spotify.com/album/67jcRJ4BYWurZ6s0V6cBAO"
       },
       "artists": [
@@ -816,7 +892,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 218207,
       "name": "My City",
       "url": "https://open.spotify.com/track/7bZSnGBtmPSZpGLfiCTg5l"
@@ -1512,7 +1588,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-07",
       "duration_ms": 376973,
       "name": "You Are - Live",
       "url": "https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW"

@@ -1,735 +1,1875 @@
 {
-  "2021-12-25": 7570,
-  "2021-12-26": 7570,
-  "2021-12-27": 7568,
-  "2021-12-28": 7568,
-  "2021-12-29": 7568,
-  "2021-12-30": 7566,
-  "2021-12-31": 7565,
-  "2022-01-01": 7564,
-  "2022-01-02": 7564,
-  "2022-01-03": 7564,
-  "2022-01-04": 7564,
-  "2022-01-05": 7563,
-  "2022-01-06": 7562,
-  "2022-01-07": 7562,
-  "2022-01-08": 7562,
-  "2022-01-09": 7562,
-  "2022-01-10": 7562,
-  "2022-01-11": 7562,
-  "2022-01-12": 7562,
-  "2022-01-13": 7561,
-  "2022-01-14": 7561,
-  "2022-01-15": 7561,
-  "2022-01-16": 7561,
-  "2022-01-17": 7560,
-  "2022-01-18": 7560,
-  "2022-01-19": 7560,
-  "2022-01-20": 7561,
-  "2022-01-21": 7561,
-  "2022-01-22": 7561,
-  "2022-01-23": 7560,
-  "2022-01-24": 7560,
-  "2022-01-25": 7560,
-  "2022-01-26": 7560,
-  "2022-01-27": 7560,
-  "2022-01-28": 7560,
-  "2022-01-29": 7559,
-  "2022-01-30": 7559,
-  "2022-01-31": 7559,
-  "2022-02-01": 7557,
-  "2022-02-02": 7555,
-  "2022-02-03": 7555,
-  "2022-02-04": 7555,
-  "2022-02-05": 7556,
-  "2022-02-06": 7556,
-  "2022-02-07": 7556,
-  "2022-02-08": 7556,
-  "2022-02-09": 7556,
-  "2022-02-10": 7556,
-  "2022-02-11": 7556,
-  "2022-02-12": 7555,
-  "2022-02-13": 7555,
-  "2022-02-14": 7555,
-  "2022-02-15": 7555,
-  "2022-02-16": 7555,
-  "2022-02-17": 7554,
-  "2022-02-18": 7553,
-  "2022-02-19": 7553,
-  "2022-02-20": 7553,
-  "2022-02-21": 7552,
-  "2022-02-22": 7552,
-  "2022-02-23": 7551,
-  "2022-02-24": 7550,
-  "2022-02-25": 7550,
-  "2022-02-26": 7550,
-  "2022-02-27": 7551,
-  "2022-02-28": 7551,
-  "2022-03-01": 7551,
-  "2022-03-02": 7551,
-  "2022-03-03": 7551,
-  "2022-03-04": 7550,
-  "2022-03-05": 7550,
-  "2022-03-06": 7550,
-  "2022-03-07": 7550,
-  "2022-03-08": 7551,
-  "2022-03-09": 7549,
-  "2022-03-10": 7548,
-  "2022-03-11": 7549,
-  "2022-03-12": 7548,
-  "2022-03-13": 7548,
-  "2022-03-14": 7548,
-  "2022-03-15": 7548,
-  "2022-03-16": 7548,
-  "2022-03-17": 7547,
-  "2022-03-18": 7547,
-  "2022-03-19": 7546,
-  "2022-03-20": 7546,
-  "2022-03-21": 7543,
-  "2022-03-22": 7543,
-  "2022-03-23": 7543,
-  "2022-03-24": 7543,
-  "2022-03-25": 7542,
-  "2022-03-26": 7542,
-  "2022-03-27": 7541,
-  "2022-03-28": 7541,
-  "2022-03-30": 7541,
-  "2022-03-31": 7540,
-  "2022-04-01": 7540,
-  "2022-04-02": 7540,
-  "2022-04-03": 7540,
-  "2022-04-04": 7540,
-  "2022-04-05": 7540,
-  "2022-04-06": 7540,
-  "2022-04-07": 7540,
-  "2022-04-08": 7540,
-  "2022-04-09": 7540,
-  "2022-04-10": 7540,
-  "2022-04-11": 7540,
-  "2022-04-12": 7540,
-  "2022-04-13": 7540,
-  "2022-04-14": 7540,
-  "2022-04-15": 7540,
-  "2022-04-16": 7540,
-  "2022-04-17": 7540,
-  "2022-04-18": 7540,
-  "2022-04-19": 7540,
-  "2022-04-20": 7540,
-  "2022-04-21": 7540,
-  "2022-04-22": 7540,
-  "2022-04-23": 7540,
-  "2022-04-24": 7540,
-  "2022-04-25": 7540,
-  "2022-04-26": 7540,
-  "2022-04-27": 7540,
-  "2022-04-28": 7540,
-  "2022-04-29": 7540,
-  "2022-04-30": 7540,
-  "2022-05-01": 7540,
-  "2022-05-02": 7540,
-  "2022-05-03": 7540,
-  "2022-05-04": 7540,
-  "2022-05-05": 7540,
-  "2022-05-06": 7540,
-  "2022-05-07": 7540,
-  "2022-05-08": 7540,
-  "2022-05-09": 7540,
-  "2022-05-10": 7540,
-  "2022-05-11": 7540,
-  "2022-05-12": 7540,
-  "2022-05-13": 7540,
-  "2022-05-14": 7540,
-  "2022-05-15": 7540,
-  "2022-05-16": 7540,
-  "2022-05-17": 7540,
-  "2022-05-18": 7540,
-  "2022-05-19": 7540,
-  "2022-05-20": 7540,
-  "2022-05-21": 7540,
-  "2022-05-22": 7540,
-  "2022-05-23": 7540,
-  "2022-05-24": 7540,
-  "2022-05-25": 7540,
-  "2022-05-26": 7540,
-  "2022-05-27": 7540,
-  "2022-05-28": 7540,
-  "2022-05-29": 7540,
-  "2022-05-30": 7540,
-  "2022-05-31": 7540,
-  "2022-06-01": 7540,
-  "2022-06-02": 7540,
-  "2022-06-03": 7540,
-  "2022-06-04": 7540,
-  "2022-06-05": 7540,
-  "2022-06-06": 7540,
-  "2022-06-07": 7540,
-  "2022-06-08": 7540,
-  "2022-06-09": 7540,
-  "2022-06-10": 7540,
-  "2022-06-11": 7540,
-  "2022-06-12": 7540,
-  "2022-06-13": 7540,
-  "2022-06-14": 7540,
-  "2022-06-15": 7540,
-  "2022-06-16": 7540,
-  "2022-06-17": 7540,
-  "2022-06-18": 7540,
-  "2022-06-19": 7540,
-  "2022-06-20": 7540,
-  "2022-06-21": 7540,
-  "2022-06-22": 7540,
-  "2022-06-23": 7540,
-  "2022-06-24": 7540,
-  "2022-06-25": 7540,
-  "2022-06-26": 7540,
-  "2022-06-27": 7540,
-  "2022-06-28": 7540,
-  "2022-06-29": 7540,
-  "2022-06-30": 7540,
-  "2022-07-01": 7540,
-  "2022-07-02": 7540,
-  "2022-07-03": 7540,
-  "2022-07-04": 7540,
-  "2022-07-05": 7540,
-  "2022-07-06": 7540,
-  "2022-07-07": 7540,
-  "2022-07-08": 7540,
-  "2022-07-09": 7540,
-  "2022-07-10": 7540,
-  "2022-07-11": 7540,
-  "2022-07-12": 7540,
-  "2022-07-13": 7540,
-  "2022-07-14": 7540,
-  "2022-07-15": 7540,
-  "2022-07-16": 7540,
-  "2022-07-17": 7540,
-  "2022-07-18": 7540,
-  "2022-07-19": 7540,
-  "2022-07-20": 7540,
-  "2022-07-21": 7540,
-  "2022-07-22": 7540,
-  "2022-07-23": 7540,
-  "2022-07-24": 7540,
-  "2022-07-25": 7540,
-  "2022-07-26": 7540,
-  "2022-07-27": 7540,
-  "2022-07-28": 7540,
-  "2022-07-29": 7540,
-  "2022-07-30": 7540,
-  "2022-07-31": 7540,
-  "2022-08-01": 7540,
-  "2022-08-02": 7540,
-  "2022-08-03": 7540,
-  "2022-08-04": 7540,
-  "2022-08-05": 7540,
-  "2022-08-06": 7540,
-  "2022-08-07": 7540,
-  "2022-08-08": 7540,
-  "2022-08-09": 7540,
-  "2022-08-10": 7540,
-  "2022-08-11": 7540,
-  "2022-08-12": 7540,
-  "2022-08-13": 7540,
-  "2022-08-14": 7540,
-  "2022-08-15": 7540,
-  "2022-08-16": 7540,
-  "2022-08-17": 7540,
-  "2022-08-18": 7540,
-  "2022-08-19": 7540,
-  "2022-08-20": 7540,
-  "2022-08-21": 7540,
-  "2022-08-22": 7540,
-  "2022-08-23": 7540,
-  "2022-08-24": 7540,
-  "2022-08-25": 7540,
-  "2022-08-26": 7540,
-  "2022-08-27": 7540,
-  "2022-08-28": 7540,
-  "2022-08-29": 7540,
-  "2022-08-30": 7540,
-  "2022-08-31": 7540,
-  "2022-09-01": 7540,
-  "2022-09-02": 7540,
-  "2022-09-03": 7540,
-  "2022-09-04": 7540,
-  "2022-09-05": 7540,
-  "2022-09-06": 7540,
-  "2022-09-07": 7540,
-  "2022-09-09": 7540,
-  "2022-09-10": 7540,
-  "2022-09-11": 7540,
-  "2022-09-12": 7540,
-  "2022-09-13": 7540,
-  "2022-09-15": 7540,
-  "2022-09-16": 7540,
-  "2022-09-17": 7540,
-  "2022-09-18": 7540,
-  "2022-09-19": 7540,
-  "2022-09-20": 7540,
-  "2022-09-21": 7540,
-  "2022-09-22": 7540,
-  "2022-09-23": 7540,
-  "2022-09-24": 7540,
-  "2022-09-25": 7540,
-  "2022-09-26": 7540,
-  "2022-09-27": 7540,
-  "2022-09-28": 7540,
-  "2022-09-29": 7540,
-  "2022-09-30": 7540,
-  "2022-10-01": 7540,
-  "2022-10-02": 7540,
-  "2022-10-03": 7540,
-  "2022-10-04": 7540,
-  "2022-10-05": 7540,
-  "2022-10-06": 7540,
-  "2022-10-07": 7540,
-  "2022-10-08": 7540,
-  "2022-10-09": 7540,
-  "2022-10-10": 7540,
-  "2022-10-11": 7540,
-  "2022-10-12": 7540,
-  "2022-10-13": 7540,
-  "2022-10-14": 7540,
-  "2022-10-15": 7540,
-  "2022-10-16": 7540,
-  "2022-10-17": 7540,
-  "2022-10-18": 7540,
-  "2022-10-19": 7540,
-  "2022-10-20": 7540,
-  "2022-10-21": 7540,
-  "2022-10-22": 7540,
-  "2022-10-23": 7540,
-  "2022-10-24": 7540,
-  "2022-10-25": 7540,
-  "2022-10-26": 7540,
-  "2022-10-27": 7540,
-  "2022-10-28": 7540,
-  "2022-10-29": 7540,
-  "2022-10-30": 7540,
-  "2022-10-31": 7540,
-  "2022-11-01": 7540,
-  "2022-11-02": 7540,
-  "2022-11-03": 7540,
-  "2022-11-04": 7540,
-  "2022-11-05": 7540,
-  "2022-11-06": 7540,
-  "2022-11-07": 7540,
-  "2022-11-08": 7540,
-  "2022-11-09": 7540,
-  "2022-11-10": 7540,
-  "2022-11-11": 7540,
-  "2022-11-12": 7540,
-  "2022-11-13": 7540,
-  "2022-11-14": 7540,
-  "2022-11-15": 7540,
-  "2022-11-16": 7540,
-  "2022-11-17": 7540,
-  "2022-11-18": 7540,
-  "2022-11-19": 7540,
-  "2022-11-20": 7540,
-  "2022-11-21": 7540,
-  "2022-11-22": 7540,
-  "2022-11-23": 7540,
-  "2022-11-24": 7540,
-  "2022-11-25": 7540,
-  "2022-11-26": 7540,
-  "2022-11-27": 7540,
-  "2022-11-28": 7540,
-  "2022-11-29": 7540,
-  "2022-11-30": 7540,
-  "2022-12-01": 7540,
-  "2022-12-02": 7540,
-  "2022-12-03": 7540,
-  "2022-12-04": 7540,
-  "2022-12-05": 7540,
-  "2022-12-06": 7540,
-  "2022-12-07": 7540,
-  "2022-12-08": 7540,
-  "2022-12-09": 7540,
-  "2022-12-10": 7540,
-  "2022-12-11": 7540,
-  "2022-12-12": 7540,
-  "2022-12-13": 7540,
-  "2022-12-14": 7540,
-  "2022-12-15": 7540,
-  "2022-12-16": 7540,
-  "2022-12-17": 7540,
-  "2022-12-18": 7540,
-  "2022-12-19": 7540,
-  "2022-12-20": 7540,
-  "2022-12-21": 7540,
-  "2022-12-22": 7540,
-  "2022-12-24": 7540,
-  "2022-12-25": 7540,
-  "2022-12-26": 7540,
-  "2022-12-27": 7540,
-  "2022-12-28": 7540,
-  "2022-12-29": 7540,
-  "2022-12-30": 7540,
-  "2022-12-31": 7540,
-  "2023-01-01": 7540,
-  "2023-01-02": 7540,
-  "2023-01-03": 7540,
-  "2023-01-04": 7540,
-  "2023-01-05": 7540,
-  "2023-01-06": 7540,
-  "2023-01-07": 7540,
-  "2023-01-08": 7540,
-  "2023-01-09": 7540,
-  "2023-01-10": 7540,
-  "2023-01-11": 7540,
-  "2023-01-12": 7540,
-  "2023-01-13": 7540,
-  "2023-01-14": 7540,
-  "2023-01-15": 7540,
-  "2023-01-16": 7540,
-  "2023-01-17": 7540,
-  "2023-01-18": 7540,
-  "2023-01-19": 7540,
-  "2023-01-20": 7540,
-  "2023-01-21": 7540,
-  "2023-01-22": 7540,
-  "2023-01-23": 7540,
-  "2023-01-24": 7540,
-  "2023-01-25": 7540,
-  "2023-01-26": 7540,
-  "2023-01-27": 7540,
-  "2023-01-28": 7540,
-  "2023-01-29": 7540,
-  "2023-01-30": 7540,
-  "2023-01-31": 7540,
-  "2023-02-01": 7540,
-  "2023-02-02": 7540,
-  "2023-02-03": 7540,
-  "2023-02-04": 7540,
-  "2023-02-05": 7540,
-  "2023-02-06": 7540,
-  "2023-02-07": 7540,
-  "2023-02-08": 7540,
-  "2023-02-09": 7540,
-  "2023-02-10": 7540,
-  "2023-02-11": 7540,
-  "2023-02-12": 7540,
-  "2023-02-13": 7540,
-  "2023-02-14": 7540,
-  "2023-02-15": 7540,
-  "2023-02-16": 7540,
-  "2023-02-17": 7540,
-  "2023-02-18": 7540,
-  "2023-02-19": 7540,
-  "2023-02-20": 7540,
-  "2023-02-21": 7540,
-  "2023-02-22": 7540,
-  "2023-02-23": 7540,
-  "2023-02-24": 7540,
-  "2023-02-25": 7540,
-  "2023-02-26": 7540,
-  "2023-02-27": 7540,
-  "2023-02-28": 7540,
-  "2023-03-01": 7540,
-  "2023-03-02": 7540,
-  "2023-03-03": 7540,
-  "2023-03-04": 7540,
-  "2023-03-05": 7540,
-  "2023-03-06": 7540,
-  "2023-03-07": 7540,
-  "2023-03-08": 7540,
-  "2023-03-09": 7540,
-  "2023-03-10": 7540,
-  "2023-03-11": 7540,
-  "2023-03-12": 7540,
-  "2023-03-13": 7540,
-  "2023-03-14": 7540,
-  "2023-03-15": 7540,
-  "2023-03-16": 7540,
-  "2023-03-17": 7540,
-  "2023-03-18": 7540,
-  "2023-03-19": 7540,
-  "2023-03-20": 7540,
-  "2023-03-21": 7540,
-  "2023-03-22": 7540,
-  "2023-03-23": 7540,
-  "2023-03-24": 7540,
-  "2023-03-25": 7540,
-  "2023-03-26": 7540,
-  "2023-03-27": 7540,
-  "2023-03-28": 7540,
-  "2023-03-29": 7540,
-  "2023-03-30": 7540,
-  "2023-03-31": 7540,
-  "2023-04-01": 7540,
-  "2023-04-02": 7540,
-  "2023-04-03": 7540,
-  "2023-04-04": 7540,
-  "2023-04-05": 7540,
-  "2023-04-06": 7540,
-  "2023-04-07": 7540,
-  "2023-04-09": 7540,
-  "2023-04-10": 7540,
-  "2023-04-11": 7540,
-  "2023-04-12": 7540,
-  "2023-04-13": 7540,
-  "2023-04-14": 7540,
-  "2023-04-15": 7540,
-  "2023-04-16": 7540,
-  "2023-04-17": 7540,
-  "2023-04-18": 7540,
-  "2023-04-19": 7540,
-  "2023-04-20": 7540,
-  "2023-04-21": 7540,
-  "2023-04-22": 7540,
-  "2023-04-23": 7540,
-  "2023-04-24": 7540,
-  "2023-04-25": 7540,
-  "2023-04-26": 7540,
-  "2023-04-27": 7540,
-  "2023-04-28": 7540,
-  "2023-04-29": 7540,
-  "2023-04-30": 7540,
-  "2023-05-01": 7540,
-  "2023-05-02": 7540,
-  "2023-05-03": 7540,
-  "2023-05-04": 7540,
-  "2023-05-05": 7540,
-  "2023-05-06": 7540,
-  "2023-05-07": 7540,
-  "2023-05-08": 7540,
-  "2023-05-09": 7540,
-  "2023-05-10": 7540,
-  "2023-05-11": 7540,
-  "2023-05-12": 7540,
-  "2023-05-13": 7540,
-  "2023-05-14": 7540,
-  "2023-05-15": 7540,
-  "2023-05-16": 7540,
-  "2023-05-17": 7540,
-  "2023-05-18": 7540,
-  "2023-05-19": 7540,
-  "2023-05-20": 7540,
-  "2023-05-21": 7540,
-  "2023-05-22": 7540,
-  "2023-05-23": 7540,
-  "2023-05-24": 7540,
-  "2023-05-25": 7540,
-  "2023-05-26": 7540,
-  "2023-05-27": 7540,
-  "2023-05-28": 7540,
-  "2023-05-29": 7540,
-  "2023-05-30": 7540,
-  "2023-05-31": 7540,
-  "2023-06-01": 7540,
-  "2023-06-02": 7540,
-  "2023-06-03": 7540,
-  "2023-06-04": 7540,
-  "2023-06-05": 7540,
-  "2023-06-06": 7540,
-  "2023-06-07": 7540,
-  "2023-06-08": 7540,
-  "2023-06-09": 7540,
-  "2023-06-10": 7540,
-  "2023-06-11": 7540,
-  "2023-06-12": 7540,
-  "2023-06-13": 7540,
-  "2023-06-14": 7540,
-  "2023-06-15": 7540,
-  "2023-06-16": 7540,
-  "2023-06-17": 7540,
-  "2023-06-18": 7540,
-  "2023-06-19": 7540,
-  "2023-06-20": 7540,
-  "2023-06-21": 7540,
-  "2023-06-22": 7540,
-  "2023-06-23": 7540,
-  "2023-06-24": 7540,
-  "2023-06-25": 7540,
-  "2023-06-26": 7540,
-  "2023-06-27": 7540,
-  "2023-06-28": 7540,
-  "2023-06-29": 7540,
-  "2023-06-30": 7540,
-  "2023-07-01": 7540,
-  "2023-07-02": 7540,
-  "2023-07-03": 7540,
-  "2023-07-04": 7540,
-  "2023-07-05": 7540,
-  "2023-07-06": 7540,
-  "2023-07-07": 7540,
-  "2023-07-08": 7540,
-  "2023-07-09": 7540,
-  "2023-07-10": 7540,
-  "2023-07-11": 7540,
-  "2023-07-12": 7540,
-  "2023-07-13": 7540,
-  "2023-07-14": 7540,
-  "2023-07-15": 7540,
-  "2023-07-16": 7540,
-  "2023-07-17": 7540,
-  "2023-07-18": 7540,
-  "2023-07-19": 7540,
-  "2023-07-20": 7540,
-  "2023-07-21": 7540,
-  "2023-07-22": 7540,
-  "2023-07-23": 7540,
-  "2023-07-24": 7540,
-  "2023-07-25": 7540,
-  "2023-07-26": 7540,
-  "2023-07-27": 7540,
-  "2023-07-28": 7540,
-  "2023-07-29": 7540,
-  "2023-07-30": 7540,
-  "2023-07-31": 7540,
-  "2023-08-01": 7540,
-  "2023-08-02": 7540,
-  "2023-08-03": 7540,
-  "2023-08-04": 7540,
-  "2023-08-05": 7540,
-  "2023-08-06": 7540,
-  "2023-08-07": 7540,
-  "2023-08-08": 7540,
-  "2023-08-09": 7540,
-  "2023-08-10": 7540,
-  "2023-08-11": 7540,
-  "2023-08-12": 7540,
-  "2023-08-13": 7540,
-  "2023-08-14": 7540,
-  "2023-08-15": 7540,
-  "2023-08-16": 7540,
-  "2023-08-17": 7540,
-  "2023-08-18": 7540,
-  "2023-08-19": 7540,
-  "2023-08-20": 7540,
-  "2023-08-21": 7540,
-  "2023-08-22": 7540,
-  "2023-08-23": 7540,
-  "2023-08-24": 7540,
-  "2023-08-25": 7540,
-  "2023-08-26": 7540,
-  "2023-08-27": 7540,
-  "2023-08-28": 7540,
-  "2023-08-29": 7540,
-  "2023-08-30": 7540,
-  "2023-08-31": 7540,
-  "2023-09-01": 7540,
-  "2023-09-02": 7540,
-  "2023-09-03": 7540,
-  "2023-09-04": 7540,
-  "2023-09-05": 7540,
-  "2023-09-06": 7540,
-  "2023-09-07": 7540,
-  "2023-09-08": 7540,
-  "2023-09-09": 7540,
-  "2023-09-10": 7540,
-  "2023-09-11": 7540,
-  "2023-09-12": 7540,
-  "2023-09-13": 7540,
-  "2023-09-14": 7540,
-  "2023-09-15": 7540,
-  "2023-09-16": 7540,
-  "2023-09-17": 7540,
-  "2023-09-18": 7540,
-  "2023-09-19": 7540,
-  "2023-09-20": 7540,
-  "2023-09-21": 7540,
-  "2023-09-22": 7540,
-  "2023-09-23": 7540,
-  "2023-09-24": 7540,
-  "2023-09-25": 7540,
-  "2023-09-26": 7540,
-  "2023-09-27": 7540,
-  "2023-09-28": 7540,
-  "2023-09-29": 7540,
-  "2023-09-30": 7540,
-  "2023-10-01": 7540,
-  "2023-10-02": 7540,
-  "2023-10-03": 7540,
-  "2023-10-04": 7540,
-  "2023-10-05": 7540,
-  "2023-10-06": 7540,
-  "2023-10-07": 7540,
-  "2023-10-08": 7540,
-  "2023-10-09": 7540,
-  "2023-10-10": 7540,
-  "2023-10-11": 7540,
-  "2023-10-12": 7540,
-  "2023-10-13": 7540,
-  "2023-10-14": 7540,
-  "2023-10-15": 7540,
-  "2023-10-16": 7540,
-  "2023-10-17": 7540,
-  "2023-10-18": 7540,
-  "2023-10-19": 7540,
-  "2023-10-20": 7540,
-  "2023-10-21": 7540,
-  "2023-10-22": 7540,
-  "2023-10-23": 7540,
-  "2023-10-24": 7540,
-  "2023-10-25": 7540,
-  "2023-10-26": 7540,
-  "2023-10-27": 7540,
-  "2023-10-28": 7540,
-  "2023-10-29": 7540,
-  "2023-10-30": 7540,
-  "2023-10-31": 7540,
-  "2023-11-01": 7540,
-  "2023-11-02": 7540,
-  "2023-11-03": 7540,
-  "2023-11-04": 7540,
-  "2023-11-05": 7540,
-  "2023-11-06": 7540,
-  "2023-11-07": 7540,
-  "2023-11-08": 7540,
-  "2023-11-09": 7540,
-  "2023-11-10": 7540,
-  "2023-11-11": 7540,
-  "2023-11-12": 7540,
-  "2023-11-13": 7540,
-  "2023-11-14": 7540,
-  "2023-11-15": 7540,
-  "2023-11-16": 7540,
-  "2023-11-17": 7540,
-  "2023-11-18": 7540,
-  "2023-11-19": 7540,
-  "2023-11-20": 7540,
-  "2023-11-21": 7540,
-  "2023-11-22": 7540,
-  "2023-11-23": 7540,
-  "2023-11-24": 7540,
-  "2023-11-25": 7540,
-  "2023-11-26": 7540,
-  "2023-11-27": 7540,
-  "2023-11-28": 7540,
-  "2023-11-29": 7540,
-  "2023-11-30": 7540,
-  "2023-12-01": 7540,
-  "2023-12-02": 7540,
-  "2023-12-03": 7540,
-  "2023-12-04": 7540,
-  "2023-12-05": 7540,
-  "2023-12-06": 7540,
-  "2023-12-07": 7540,
-  "2023-12-08": 7540,
-  "2023-12-09": 7540,
-  "2023-12-10": 7540,
-  "2023-12-11": 7540,
-  "2023-12-12": 7540,
-  "2023-12-13": 7540,
-  "2023-12-14": 7540,
-  "2023-12-15": 7540,
-  "2023-12-16": 7540,
-  "2023-12-17": 7540,
-  "2023-12-18": 7540,
-  "2023-12-19": 7540,
-  "2023-12-20": 7540,
-  "2023-12-21": 7540,
-  "2023-12-22": 7540,
-  "2023-12-23": 7540,
-  "2023-12-24": 7540,
-  "2023-12-25": 7540,
-  "2023-12-26": 7540,
-  "2023-12-27": 7540,
-  "2023-12-30": 7540,
-  "2023-12-31": 7540,
-  "2024-01-01": 7540,
-  "2024-01-02": 7540,
-  "2024-01-03": 7540
+  "2024-01-17": 7540,
+  "date_first_scraped": "2021-12-21",
+  "description": "Advice on writing everything from college compositions to mystery novels and children's books.",
+  "name": "How to Write...",
+  "tracks": [
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243198,
+      "name": "5 Tiny Writing Errors That Turn Off Publishers Instantly",
+      "url": "https://open.spotify.com/track/0XWIlgkRD2V1QuWukvyfyt"
+    },
+    {
+      "album": {
+        "name": "Creative Writing",
+        "url": "https://open.spotify.com/album/7gXpDJQwS50uwMPSiO25WR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274453,
+      "name": "Autobiographical Narrative",
+      "url": "https://open.spotify.com/track/6cyBRZiek93SNRrGTTm5hV"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281506,
+      "name": "Bringing People to Life: Personality \u2013v- Plot",
+      "url": "https://open.spotify.com/track/6kJnLeJPqK9mqHHHyjclma"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355920,
+      "name": "By Any Other Name: Creating a Title",
+      "url": "https://open.spotify.com/track/49cHg5p9qyLJbuqkkK5lYx"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103576,
+      "name": "Chapter 1",
+      "url": "https://open.spotify.com/track/140VqOLMhyJ0gmLFxZLIBZ"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124814,
+      "name": "Chapter 10",
+      "url": "https://open.spotify.com/track/7bX1GsbOkKLNY7pAFILgmb"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72151,
+      "name": "Chapter 11",
+      "url": "https://open.spotify.com/track/4UgdZjL3p0njkIOa08awu8"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146417,
+      "name": "Chapter 12",
+      "url": "https://open.spotify.com/track/6hhqH48RW1pP3eBVztPNpN"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144353,
+      "name": "Chapter 13",
+      "url": "https://open.spotify.com/track/7HHE9F8m37RjOYj2gRffdN"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367047,
+      "name": "Chapter 14",
+      "url": "https://open.spotify.com/track/5TNKU4qZ7KfO74UA7q7Ofj"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429140,
+      "name": "Chapter 15",
+      "url": "https://open.spotify.com/track/5S0BEs82AnrKQKReDegDKb"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516494,
+      "name": "Chapter 16",
+      "url": "https://open.spotify.com/track/00GduPWnbPbhyLzqvZzM8o"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247563,
+      "name": "Chapter 2",
+      "url": "https://open.spotify.com/track/4HRltikAdRaarv6z8ysltr"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267285,
+      "name": "Chapter 3",
+      "url": "https://open.spotify.com/track/385z2MP3tz4zjkl6tiVPTx"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179096,
+      "name": "Chapter 4",
+      "url": "https://open.spotify.com/track/2q7Kj3wsJPVrCZrQfDVPeT"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108513,
+      "name": "Chapter 5",
+      "url": "https://open.spotify.com/track/4aaPDjFctVNspi4HQnjEaH"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141480,
+      "name": "Chapter 6",
+      "url": "https://open.spotify.com/track/4zzXtvswe1cNoQyDlQwcF4"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91429,
+      "name": "Chapter 7",
+      "url": "https://open.spotify.com/track/78QurNFTEIjlUNE0uBYWbe"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151850,
+      "name": "Chapter 8",
+      "url": "https://open.spotify.com/track/3GCOGyjfFQh8i1NCIuTqc7"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149552,
+      "name": "Chapter 9",
+      "url": "https://open.spotify.com/track/2Mfkcw7PzfBzDHdoMNUkhc"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308240,
+      "name": "Closing Comments",
+      "url": "https://open.spotify.com/track/1y6Cd7guSeJR1M2ewoaPty"
+    },
+    {
+      "album": {
+        "name": "Humour, The Short Story Collection",
+        "url": "https://open.spotify.com/album/2bAzIFI0ZO0873dSqaFBHv"
+      },
+      "artists": [
+        {
+          "name": "Stuart Milligan",
+          "url": "https://open.spotify.com/artist/0npl4kCcvIRUwQf1xkx7cC"
+        },
+        {
+          "name": "Mark Twain",
+          "url": "https://open.spotify.com/artist/40kw34hzyaeH4tJjAI5xbJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569004,
+      "name": "Concerning the American Language",
+      "url": "https://open.spotify.com/track/1F2PT8YpZ10WJJduSwEtOE"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5068,
+      "name": "Conclusion",
+      "url": "https://open.spotify.com/track/6cjjZosl7CDFPBQ3w8Mci9"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361253,
+      "name": "Do Your Homework: Don\u2019t Make a Fool Out of Yourself",
+      "url": "https://open.spotify.com/track/61BYn8jZRNcH515286fEG8"
+    },
+    {
+      "album": {
+        "name": "Effective Business Writing for Success: How to Convey Written Messages Clearly and Make a Positive Impact On Your Readers",
+        "url": "https://open.spotify.com/album/1vzYzGyuA4a3yLrisy5XjR"
+      },
+      "artists": [
+        {
+          "name": "Jane Smith",
+          "url": "https://open.spotify.com/artist/30kacQTrl12da61Z4RGDpI"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4374000,
+      "name": "Effective Business Writing for Success: How to Convey Written Messages Clearly and Make a Positive Impact On Your Readers",
+      "url": "https://open.spotify.com/track/6KgPjmpKCUyZ7LhWuEuHu5"
+    },
+    {
+      "album": {
+        "name": "How to Write an Effective Composition",
+        "url": "https://open.spotify.com/album/6s2mingZjtXkEJANnhcXNy"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1460453,
+      "name": "Exposition: Organizing and Writing an Essay",
+      "url": "https://open.spotify.com/track/3jtqlhqNxFHBhRQYrbVCeh"
+    },
+    {
+      "album": {
+        "name": "Creative Writing",
+        "url": "https://open.spotify.com/album/7gXpDJQwS50uwMPSiO25WR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512320,
+      "name": "Finding the Inspiration",
+      "url": "https://open.spotify.com/track/6Ag59geuUEuZT4upGR9Ari"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "Finding Your Voice: Who\u2019s Telling the Story?",
+      "url": "https://open.spotify.com/track/444jSg9VftUzFt4r0IbOQS"
+    },
+    {
+      "album": {
+        "name": "Creative Writing",
+        "url": "https://open.spotify.com/album/7gXpDJQwS50uwMPSiO25WR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Format for Writing- Literary Types and Media",
+      "url": "https://open.spotify.com/track/4WNSBrKHicWVYCOxlMnbQ1"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371386,
+      "name": "Getting Started: Repetition Is Good",
+      "url": "https://open.spotify.com/track/2El1VOOsdOQMWQxkYduFD0"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Novel",
+        "url": "https://open.spotify.com/album/2kM0BXFd6BoqqkNBI2LRfR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "Growth of the Novel",
+      "url": "https://open.spotify.com/track/3TVNz77pDRTdB7uPZuY4wE"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452306,
+      "name": "Have Some Fun: Name-Dropping Might Be Okay",
+      "url": "https://open.spotify.com/track/4qm4hE8co3NYhzFv68HE7i"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Short Story",
+        "url": "https://open.spotify.com/album/2cfBYWrWY6ijTpRa0l54AV"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "HOW THE SHORT STORY EVOLVED and Use In the Modern Short Story",
+      "url": "https://open.spotify.com/track/1aDukdcyh8GY9eT0tn7rdw"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Short Story",
+        "url": "https://open.spotify.com/album/2cfBYWrWY6ijTpRa0l54AV"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282773,
+      "name": "HOW THE SHORT STORY EVOLVED The Roots of the Short Story",
+      "url": "https://open.spotify.com/track/2bHLNDeMTFHPLDCiuLpOxx"
+    },
+    {
+      "album": {
+        "name": "Humour, The Short Story Collection",
+        "url": "https://open.spotify.com/album/2bAzIFI0ZO0873dSqaFBHv"
+      },
+      "artists": [
+        {
+          "name": "Stuart Milligan",
+          "url": "https://open.spotify.com/artist/0npl4kCcvIRUwQf1xkx7cC"
+        },
+        {
+          "name": "Mark Twain",
+          "url": "https://open.spotify.com/artist/40kw34hzyaeH4tJjAI5xbJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 889192,
+      "name": "How to Tell a Story",
+      "url": "https://open.spotify.com/track/5vGhSyxaseY9gQJkxHBGa2"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369840,
+      "name": "How to Write a Novel",
+      "url": "https://open.spotify.com/track/1HHowhmAWWQOjaIvUB3ypR"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385644,
+      "name": "How to Write a Novel Without Leaving Your Couch",
+      "url": "https://open.spotify.com/track/0zfvOLYIJhfBe1E65dIi59"
+    },
+    {
+      "album": {
+        "name": "How to Write a Childrens Book in 30 Days Or Less",
+        "url": "https://open.spotify.com/album/4nfa8yQ09iWo0lc1GRU8zV"
+      },
+      "artists": [
+        {
+          "name": "Caterina Christakos",
+          "url": "https://open.spotify.com/artist/7qrJ70HalJaAn5XVJrrhg2"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53578,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1ppGv3mtJ9jPyayqhATRy1"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/1LJqpeuZ3aZDrBpb61VJed"
+    },
+    {
+      "album": {
+        "name": "Creative Writing",
+        "url": "https://open.spotify.com/album/7gXpDJQwS50uwMPSiO25WR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347600,
+      "name": "Introduction- Self Expression Through Writing",
+      "url": "https://open.spotify.com/track/2DgZ64d4fJ2cvGePJ8XjmZ"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279901,
+      "name": "Is Your Research Showing?",
+      "url": "https://open.spotify.com/track/2K1xhs3eMudgKUtV99KvvP"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382346,
+      "name": "I\u2019ll Call You Back: Something Should Come Around",
+      "url": "https://open.spotify.com/track/61AiGKDx2DIRC0vdNeg3UB"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484320,
+      "name": "Know Your Limitations: No Faking It",
+      "url": "https://open.spotify.com/track/11ZmeCwH3539iPWxzIzhbT"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405080,
+      "name": "Know Your Options First: Time Book Publishing",
+      "url": "https://open.spotify.com/track/49Oh3HBfFt3MpDLpmXW7bG"
+    },
+    {
+      "album": {
+        "name": "How To Write A Book, Get Published, And Make Money As A Writer",
+        "url": "https://open.spotify.com/album/5U0mG83ttHpHCnuirOPeQt"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3283066,
+      "name": "Making Money As A Writer - Finding Writing Jobs",
+      "url": "https://open.spotify.com/track/06DcHFYR6QkcRlPmAXumVt"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323394,
+      "name": "Marketing Self-Published Books",
+      "url": "https://open.spotify.com/track/4quXKPNV7gtYw8VEcq7ujt"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Short Story",
+        "url": "https://open.spotify.com/album/2cfBYWrWY6ijTpRa0l54AV"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617693,
+      "name": "MASTERS OF THE SHORT STORY",
+      "url": "https://open.spotify.com/track/6jkQi2B0alNNXDgRSmn8Mn"
+    },
+    {
+      "album": {
+        "name": "Creative Writing",
+        "url": "https://open.spotify.com/album/7gXpDJQwS50uwMPSiO25WR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586266,
+      "name": "Methods of Developing Your Ideas",
+      "url": "https://open.spotify.com/track/4B8nh8a8y5nsVqNPzoyGnK"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433680,
+      "name": "Name Calling: Creating Characters",
+      "url": "https://open.spotify.com/track/1VR8gJ8iYnPuYBusbrufoN"
+    },
+    {
+      "album": {
+        "name": "How to Write an Effective Composition",
+        "url": "https://open.spotify.com/album/6s2mingZjtXkEJANnhcXNy"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1109600,
+      "name": "Narrative and Descriptive Writing",
+      "url": "https://open.spotify.com/track/5duoanEiJMLHqWfdo6PGKK"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446960,
+      "name": "No Loose Ends: the \u2018showdown\u2019",
+      "url": "https://open.spotify.com/track/3wiWRoD2HVuVAv6gKdxvUG"
+    },
+    {
+      "album": {
+        "name": "How To Write A Book, Get Published, And Make Money As A Writer",
+        "url": "https://open.spotify.com/album/5U0mG83ttHpHCnuirOPeQt"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2796800,
+      "name": "Overcoming Writer's Block - Techniques And Solutions",
+      "url": "https://open.spotify.com/track/7na8CPX0NO53rnexcbYPHk"
+    },
+    {
+      "album": {
+        "name": "Learn to Study for Success at College and University",
+        "url": "https://open.spotify.com/album/60AevlMlAFkBKUS4AAfFkW"
+      },
+      "artists": [
+        {
+          "name": "Professor Aidan Moran",
+          "url": "https://open.spotify.com/artist/7vw67ByynxLEU2TgiUhBcR"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567093,
+      "name": "Planning and writing essays and papers",
+      "url": "https://open.spotify.com/track/4SDTDpyPFEClPtWWN0354s"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285830,
+      "name": "Poetry Can Inspire Fiction Writers",
+      "url": "https://open.spotify.com/track/6qZ9B6rGdVoaEXCMEwgOiD"
+    },
+    {
+      "album": {
+        "name": "Great Short Stories of the World",
+        "url": "https://open.spotify.com/album/4jqCV91pQUO0IDFuplPNpj"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98786,
+      "name": "Pt 1: Introduction The Short Story Defined",
+      "url": "https://open.spotify.com/track/3CCnkDN0qgo0dSxwCVu3hl"
+    },
+    {
+      "album": {
+        "name": "Great Short Stories of the World",
+        "url": "https://open.spotify.com/album/4jqCV91pQUO0IDFuplPNpj"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469293,
+      "name": "Pt 2: NEW VISTAS IN THE SHORT STORY: Backgrounds in Other Lands",
+      "url": "https://open.spotify.com/track/35Wzx0yxWj9UeRCI4oC5Dw"
+    },
+    {
+      "album": {
+        "name": "Great Short Stories of the World",
+        "url": "https://open.spotify.com/album/4jqCV91pQUO0IDFuplPNpj"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1053920,
+      "name": "Pt 3: THE SHORT STORY AS AN INSTRUMENT OF INTERNATIONAL UNDERSTANDING",
+      "url": "https://open.spotify.com/track/6XRpF5SCgMvWO8E0qcakqG"
+    },
+    {
+      "album": {
+        "name": "Great Short Stories of the World",
+        "url": "https://open.spotify.com/album/4jqCV91pQUO0IDFuplPNpj"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 626666,
+      "name": "Pt 4: THE SHORT STORY AS A DYNAMIC COMMUNICATIONS MEDIUM",
+      "url": "https://open.spotify.com/track/2NbCQnLWPaA0t436heT0TS"
+    },
+    {
+      "album": {
+        "name": "Great Short Stories of the World",
+        "url": "https://open.spotify.com/album/4jqCV91pQUO0IDFuplPNpj"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432213,
+      "name": "Pt 5: VARIATIONS ON A THEME: How Different Short Story Writers Have Treated Related Subjects",
+      "url": "https://open.spotify.com/track/1xodiq4GjgmXZdbsIYd5n2"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289920,
+      "name": "Putting It On Paper (or Digitally)",
+      "url": "https://open.spotify.com/track/4UB6iQVKAURZYRytyq0UB8"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Novel",
+        "url": "https://open.spotify.com/album/2kM0BXFd6BoqqkNBI2LRfR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386693,
+      "name": "Qualifications of the Novelist",
+      "url": "https://open.spotify.com/track/2atSSwCUPK9708iJdvgGHW"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303173,
+      "name": "Resources: the Protagonist\u2019s 'intel' Source",
+      "url": "https://open.spotify.com/track/26gzY4GIIRQpJXDQOenTMF"
+    },
+    {
+      "album": {
+        "name": "Creative Writing",
+        "url": "https://open.spotify.com/album/7gXpDJQwS50uwMPSiO25WR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433773,
+      "name": "Selecting and Arranging Material",
+      "url": "https://open.spotify.com/track/4SS32XcoJzKbw6a1EPjIWW"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355081,
+      "name": "Several Things Writers Today Should Be Grateful For",
+      "url": "https://open.spotify.com/track/72tME4dPMWUvFhHm7Vcy8u"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Novel",
+        "url": "https://open.spotify.com/album/2kM0BXFd6BoqqkNBI2LRfR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 977253,
+      "name": "Some Famous World Novels Examined",
+      "url": "https://open.spotify.com/track/23NXXu9OA3rHzJ0eOZy5ug"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Short Story",
+        "url": "https://open.spotify.com/album/2cfBYWrWY6ijTpRa0l54AV"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415280,
+      "name": "SOME MEMORABLE THEMES EXAMINED",
+      "url": "https://open.spotify.com/track/7ouEhBaxWxg06n8tIrnALh"
+    },
+    {
+      "album": {
+        "name": "Creative Writing",
+        "url": "https://open.spotify.com/album/7gXpDJQwS50uwMPSiO25WR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496426,
+      "name": "Sources of Ideas",
+      "url": "https://open.spotify.com/track/5XK41Zlkc4KsahO4rIAt20"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Novel",
+        "url": "https://open.spotify.com/album/2kM0BXFd6BoqqkNBI2LRfR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 643880,
+      "name": "Technique of the Novel",
+      "url": "https://open.spotify.com/track/0MSy23z7yWgTlKXnLAjncg"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339120,
+      "name": "Tension: Make \u2018em Turn the Page",
+      "url": "https://open.spotify.com/track/0ia7B3xqlKXsL1mlAahVVS"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Short Story",
+        "url": "https://open.spotify.com/album/2cfBYWrWY6ijTpRa0l54AV"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399946,
+      "name": "The Art of the Short Story, The Essay, Poetry, Drama, and Biography",
+      "url": "https://open.spotify.com/track/4ww4zDPF3mlAo3hLuqdNuD"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Short Story",
+        "url": "https://open.spotify.com/album/2cfBYWrWY6ijTpRa0l54AV"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263666,
+      "name": "The Art of the Short Story: Characterization",
+      "url": "https://open.spotify.com/track/31oJ36OBQ8rxHu0nv50eDs"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Short Story",
+        "url": "https://open.spotify.com/album/2cfBYWrWY6ijTpRa0l54AV"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256306,
+      "name": "The Art of the Short Story: Mood, Setting, and Action",
+      "url": "https://open.spotify.com/track/3atv6CABnyswMwvMg6r0kF"
+    },
+    {
+      "album": {
+        "name": "Creative Writing",
+        "url": "https://open.spotify.com/album/7gXpDJQwS50uwMPSiO25WR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360666,
+      "name": "The Art of Writing- Literary Style and Technique",
+      "url": "https://open.spotify.com/track/6MGlszPoFMiJPEdQjnbrFT"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284626,
+      "name": "The Butler Did It: Pick a Genre",
+      "url": "https://open.spotify.com/track/1m4dP3GfDEFw6Q0pMaLO1i"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231480,
+      "name": "The Client: Non-Linear Plot Lines",
+      "url": "https://open.spotify.com/track/79HnhP0gVxUcxnmrtSeZNo"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276610,
+      "name": "The Editor / Author Partnership",
+      "url": "https://open.spotify.com/track/2REyugxrHGVE20YnNq2yvN"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424040,
+      "name": "The First Chapter: Making a First Impression",
+      "url": "https://open.spotify.com/track/11xVY1DcpyXt7ebQ8mBS3w"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179120,
+      "name": "The Last Chapter: Who Will Read the Book?",
+      "url": "https://open.spotify.com/track/4Vc8NOy3Wxz8O1UrmLZIc8"
+    },
+    {
+      "album": {
+        "name": "Humour, The Short Story Collection",
+        "url": "https://open.spotify.com/album/2bAzIFI0ZO0873dSqaFBHv"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        },
+        {
+          "name": "Jerome K Jerome",
+          "url": "https://open.spotify.com/artist/54sHnlTSHviaAgGFtWYFpW"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1327717,
+      "name": "The Minor Poets Story",
+      "url": "https://open.spotify.com/track/5ORbcHbCBShubQgehLqW5H"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Novel",
+        "url": "https://open.spotify.com/album/2kM0BXFd6BoqqkNBI2LRfR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "The Novel as a \"Best Seller\"",
+      "url": "https://open.spotify.com/track/3rhMPWbMVeJn3m6JLpFnmm"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Novel",
+        "url": "https://open.spotify.com/album/2kM0BXFd6BoqqkNBI2LRfR"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443653,
+      "name": "The Novel as a Literary Type",
+      "url": "https://open.spotify.com/track/1ZmhzcG8YA6MMum2fukxvW"
+    },
+    {
+      "album": {
+        "name": "Understanding and Appreciation of the Short Story",
+        "url": "https://open.spotify.com/album/2cfBYWrWY6ijTpRa0l54AV"
+      },
+      "artists": [
+        {
+          "name": "Morris Schreiber",
+          "url": "https://open.spotify.com/artist/43A7TraqS5hRRPiVOGvZUO"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482973,
+      "name": "THE SHORT STORY COMPARED WITH OTHER LITERARY TYPES: Questions and Answers on Themes",
+      "url": "https://open.spotify.com/track/2SZPjcj4i86qqyRG67jJ6M"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392186,
+      "name": "The Way It Really Is: It\u2019s Only Fiction",
+      "url": "https://open.spotify.com/track/609K9wvnRhaeg6o6xEyq6D"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406542,
+      "name": "The Writer\u0092s Dilemma",
+      "url": "https://open.spotify.com/track/3LnfJ7QlM4C5XhlQblFUfb"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "Variety, the Spice of Life: Everyone Sounds Different",
+      "url": "https://open.spotify.com/track/3IsMOcLJ8zRhIWJH9FdhxU"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303254,
+      "name": "Ways to Get Unstuck",
+      "url": "https://open.spotify.com/track/1PtVygG4u8orXao1FE96Mn"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518066,
+      "name": "We Can All Get Along: the Character Arc",
+      "url": "https://open.spotify.com/track/2kzfrVXZgtogITHmPsPiJU"
+    },
+    {
+      "album": {
+        "name": "Start Writing a Book Today! (How to Be a Writer and Sell Your First Book with Confidence)",
+        "url": "https://open.spotify.com/album/5w2QdcsucuGPHTn6eraAYf"
+      },
+      "artists": [
+        {
+          "name": "Imogene Walker",
+          "url": "https://open.spotify.com/artist/3lm4CNkFYi7VRqSBJXr76z"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359496,
+      "name": "Why You Must Start by Targeting Your Audience",
+      "url": "https://open.spotify.com/track/3RK8RR7xCG1p2wr9nG8q6t"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532373,
+      "name": "Working Backwards: Know the Solution First",
+      "url": "https://open.spotify.com/track/4I1AZhPRGfTOsZimp26sVp"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343760,
+      "name": "Your First Book",
+      "url": "https://open.spotify.com/track/1dhgg0hEU1VFqHTnZp5gK4"
+    },
+    {
+      "album": {
+        "name": "How To Write A Book, Get Published, And Make Money As A Writer",
+        "url": "https://open.spotify.com/album/5U0mG83ttHpHCnuirOPeQt"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2849746,
+      "name": "Your Writing Career - How To Develop It",
+      "url": "https://open.spotify.com/track/1Pr7NgPSaIO8OQmdrnyCNA"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 674693,
+      "name": "\u201c...by Reason of Sanity\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/6Q6WfcankmdP7OgEram2Qe"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1539560,
+      "name": "\u201ca Class Action\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/1mLByoSJ9XMDCmxyYsvWeA"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 955320,
+      "name": "\u201ca Good Alibi\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/4vhQr5mJbdD2sMwA8uQUFI"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515960,
+      "name": "\u201can Element of Peril\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/17969UZvEG1smrG5ZpCQsS"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1388453,
+      "name": "\u201cconspiracy of Innocence\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/2BQ0PUe9atHQ6mexZ51Prg"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 860760,
+      "name": "\u201chow to Rob a Bank\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/3wJt0gHlTM59ES9sGfzNmc"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 705320,
+      "name": "\u201clegally Dead\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/016ByX3jtsSbfqydqaicSY"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1220093,
+      "name": "\u201cthe Common Law\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/4apUur96REsBA7zQUYp2ra"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 870586,
+      "name": "\u201cthe Final Case\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/7c82ZH73D8hePonoaEby52"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1124720,
+      "name": "\u201cthe Magician\u2019s Legacy\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/6eDWLLSAwMaVo4SkSTKPXg"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1391266,
+      "name": "\u201cthe Reluctant Jurist\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/1wUjIHIp174VsywCt37ogn"
+    },
+    {
+      "album": {
+        "name": "How to Write a Mystery Novel: A Behind the Scenes Look At the Creation of a Crime Series",
+        "url": "https://open.spotify.com/album/79F6tGaF9tOxDFs5B4llT4"
+      },
+      "artists": [
+        {
+          "name": "Ted Delorme & Gene Grossman",
+          "url": "https://open.spotify.com/artist/54OQaKfZT0JXVBWe0VLdJI"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485626,
+      "name": "\u201c\u2026until Proven Innocent\u201d \u2013 First Chapter",
+      "url": "https://open.spotify.com/track/1bSOplYT3BPL8uQggvsJ8T"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0IquWoRS2Rk"
 }

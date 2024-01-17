@@ -1,99 +1,257 @@
 {
-  "2023-09-27": 2484,
-  "2023-09-28": 2522,
-  "2023-09-29": 2552,
-  "2023-09-30": 2574,
-  "2023-10-01": 2591,
-  "2023-10-02": 2617,
-  "2023-10-03": 2644,
-  "2023-10-04": 2675,
-  "2023-10-05": 2694,
-  "2023-10-06": 2712,
-  "2023-10-07": 2726,
-  "2023-10-08": 2757,
-  "2023-10-09": 2789,
-  "2023-10-10": 2821,
-  "2023-10-11": 2861,
-  "2023-10-12": 2861,
-  "2023-10-13": 2879,
-  "2023-10-14": 2908,
-  "2023-10-15": 2926,
-  "2023-10-16": 2959,
-  "2023-10-17": 2977,
-  "2023-10-18": 2999,
-  "2023-10-19": 3025,
-  "2023-10-20": 3048,
-  "2023-10-21": 3074,
-  "2023-10-22": 3108,
-  "2023-10-23": 3128,
-  "2023-10-24": 3149,
-  "2023-10-25": 3177,
-  "2023-10-26": 3210,
-  "2023-10-27": 3239,
-  "2023-10-28": 3267,
-  "2023-10-29": 3296,
-  "2023-10-30": 3348,
-  "2023-10-31": 3348,
-  "2023-11-01": 3369,
-  "2023-11-02": 3395,
-  "2023-11-03": 3416,
-  "2023-11-04": 3435,
-  "2023-11-05": 3467,
-  "2023-11-06": 3505,
-  "2023-11-07": 3505,
-  "2023-11-08": 3505,
-  "2023-11-09": 3505,
-  "2023-11-10": 3505,
-  "2023-11-11": 3505,
-  "2023-11-12": 3505,
-  "2023-11-13": 3505,
-  "2023-11-14": 3505,
-  "2023-11-15": 3505,
-  "2023-11-16": 3505,
-  "2023-11-17": 3505,
-  "2023-11-18": 3505,
-  "2023-11-19": 3505,
-  "2023-11-20": 3505,
-  "2023-11-21": 3505,
-  "2023-11-22": 3505,
-  "2023-11-23": 3505,
-  "2023-11-24": 3505,
-  "2023-11-25": 3505,
-  "2023-11-26": 3505,
-  "2023-11-27": 3505,
-  "2023-11-28": 3505,
-  "2023-11-29": 3505,
-  "2023-11-30": 3505,
-  "2023-12-01": 3505,
-  "2023-12-02": 3505,
-  "2023-12-03": 3505,
-  "2023-12-04": 3505,
-  "2023-12-05": 3505,
-  "2023-12-06": 3505,
-  "2023-12-07": 3505,
-  "2023-12-08": 3505,
-  "2023-12-09": 3505,
-  "2023-12-10": 3505,
-  "2023-12-11": 3505,
-  "2023-12-12": 3505,
-  "2023-12-13": 3505,
-  "2023-12-14": 3505,
-  "2023-12-15": 3505,
-  "2023-12-16": 3505,
-  "2023-12-17": 3505,
-  "2023-12-18": 3505,
-  "2023-12-19": 3505,
-  "2023-12-20": 3505,
-  "2023-12-21": 3505,
-  "2023-12-22": 3505,
-  "2023-12-23": 3505,
-  "2023-12-24": 3505,
-  "2023-12-25": 3505,
-  "2023-12-26": 3505,
-  "2023-12-27": 3505,
-  "2023-12-30": 3505,
-  "2023-12-31": 3505,
-  "2024-01-01": 3505,
-  "2024-01-02": 3505,
-  "2024-01-03": 3505
+  "2024-01-17": 3505,
+  "date_first_scraped": "2023-09-27",
+  "description": "<a href=\"spotify:artist:5B9q1NRokzWYB7nSgnlHyv\">Giuseppe Ottaviani</a> delivers a superb mix of trance and progressive tracks, taken from his 'Horizons' mix series.",
+  "name": "Giuseppe Ottaviani DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Back to Life - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/69Je7go9rkUi4FpVJ04cxj"
+      },
+      "artists": [
+        {
+          "name": "Alex DaF",
+          "url": "https://open.spotify.com/artist/4aDlXjn4IwpOQDmVcon6E6"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Back to Life - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/2LrFKSgvRlWR6ViTm6Vdl4"
+    },
+    {
+      "album": {
+        "name": "Closer (Mixed)",
+        "url": "https://open.spotify.com/album/6nsTirmfwHEi7KN2vG9O2N"
+      },
+      "artists": [
+        {
+          "name": "Christian Burns",
+          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Closer - Mixed",
+      "url": "https://open.spotify.com/track/1M8eybOyIZ7xTV0rc8Xs8T"
+    },
+    {
+      "album": {
+        "name": "Coming Home - Steve Dekay Remix (Mixed)",
+        "url": "https://open.spotify.com/album/3bL5UMZMyC0GXagWLVZXNw"
+      },
+      "artists": [
+        {
+          "name": "Harshil Kamdar",
+          "url": "https://open.spotify.com/artist/7BTbq5jH8tND6FAN6qoey2"
+        },
+        {
+          "name": "Steve Dekay",
+          "url": "https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "Coming Home - Steve Dekay Remix - Mixed",
+      "url": "https://open.spotify.com/track/0Y7tgGaD0Zr9iYkiGlvk2N"
+    },
+    {
+      "album": {
+        "name": "Euphoria - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/2cQVQZowVdYk1gq57Pq5q3"
+      },
+      "artists": [
+        {
+          "name": "Pietro Palascino",
+          "url": "https://open.spotify.com/artist/2024OZhSLW17ayezyotwKP"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Euphoria - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/2nn6SNa6L02KIL8LAzzeQG"
+    },
+    {
+      "album": {
+        "name": "Hell & High Water - DRYM Remix (Mixed)",
+        "url": "https://open.spotify.com/album/1KdsrvmS9CebengnKNDTM9"
+      },
+      "artists": [
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "GXD",
+          "url": "https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8"
+        },
+        {
+          "name": "DRYM",
+          "url": "https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379000,
+      "name": "Hell & High Water - DRYM Remix - Mixed",
+      "url": "https://open.spotify.com/track/0q64WyOYcm9CLvfuIFjYha"
+    },
+    {
+      "album": {
+        "name": "Keep You Safe - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/7clVT5zEd5fKPj3p4LjMmc"
+      },
+      "artists": [
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Keep You Safe - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/6KVYFlYbzO8gR4bj54KiKV"
+    },
+    {
+      "album": {
+        "name": "Melody (Mixed)",
+        "url": "https://open.spotify.com/album/1A84In374XqRN29gLnpJ1P"
+      },
+      "artists": [
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Melody - Mixed",
+      "url": "https://open.spotify.com/track/2T6taX5CujwL8VUO2umAFI"
+    },
+    {
+      "album": {
+        "name": "Nobody Loves Me (Mixed)",
+        "url": "https://open.spotify.com/album/1Er1TDbAzCiYLUZtJlDEMR"
+      },
+      "artists": [
+        {
+          "name": "Siskin",
+          "url": "https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Nobody Loves Me - Mixed",
+      "url": "https://open.spotify.com/track/5nBlZuquBRvJJ5jKqfuCZY"
+    },
+    {
+      "album": {
+        "name": "Purified - Giuseppe Ottaviani Retouch (Mixed)",
+        "url": "https://open.spotify.com/album/7eP1vhWzQ9brt1CGqCuBtB"
+      },
+      "artists": [
+        {
+          "name": "Starpicker",
+          "url": "https://open.spotify.com/artist/1n6m0hJ3GGiRBqUy4mUbC3"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Purified - Giuseppe Ottaviani Retouch - Mixed",
+      "url": "https://open.spotify.com/track/3RPuuqR2SSMyLpKlLi19PR"
+    },
+    {
+      "album": {
+        "name": "Remembering You (Mixed)",
+        "url": "https://open.spotify.com/album/1BZJFzvGWwlGiJr4LdhVon"
+      },
+      "artists": [
+        {
+          "name": "Paipy",
+          "url": "https://open.spotify.com/artist/3rVbuob8px4qa4Kv7OXJ3z"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Remembering You - Mixed",
+      "url": "https://open.spotify.com/track/1hRzXVm3MxRi1sQvon1Ans"
+    },
+    {
+      "album": {
+        "name": "Resurrection - GXD Extended Remix (Mixed)",
+        "url": "https://open.spotify.com/album/7l0Sw2gchDukgsUZGr3LYz"
+      },
+      "artists": [
+        {
+          "name": "Andy Moor",
+          "url": "https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn"
+        },
+        {
+          "name": "GXD",
+          "url": "https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365000,
+      "name": "Resurrection - GXD Extended Remix - Mixed",
+      "url": "https://open.spotify.com/track/2g5jqvmqvn4RloWhfW7KLK"
+    },
+    {
+      "album": {
+        "name": "The Wind in Your Face - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/7qpyEzw80pTQ7j9d3H6MIY"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "The Wind in Your Face - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/5M0yhtVqR4heosa8i3dAlW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZNbedlqmPup"
 }

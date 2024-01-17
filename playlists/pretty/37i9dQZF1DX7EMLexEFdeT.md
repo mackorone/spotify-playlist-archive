@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 
 > Did you hear that?
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,053 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,437 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 3 | [Black Venom](https://open.spotify.com/track/6i7etqtto9YoUBFrA1kIFO) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band III](https://open.spotify.com/album/5zmTjYZUebsP2GKjzFq9Zm) | 3:32 |
 | 4 | [Burn The Witch](https://open.spotify.com/track/7yyif2Ity1GipUXTdgofKw) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 3:35 |
 | 5 | [Bad Ritual](https://open.spotify.com/track/14lFMWrwM30Q8FiijmxWVz) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Creep On Creepin' On](https://open.spotify.com/album/2tWkGlUTyWZcVsqryi8U1q) | 3:07 |
-| 6 | [Plans We Made](https://open.spotify.com/track/2SieYbWMvEVhiTSmBUALv0) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/49leS9Adpf8wPfT6fnu1Ix) | 3:40 |
+| 6 | [Plans We Made](https://open.spotify.com/track/64KZxsKOncz4jh3F7GZFmR) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/2e0UMWNKH6j16Kb2otAW5w) | 3:40 |
 | 7 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
 | 8 | [Seven Devils](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 5:03 |
 | 9 | [Dead Souls \- From "The Crow" Soundtrack](https://open.spotify.com/track/4jOi4D0touCN691r2F03Tm) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral \(Deluxe Edition\)](https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU) | 4:53 |

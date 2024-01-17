@@ -4,7 +4,7 @@
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-407 songs - 1 day 2 hr 1 min
+408 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Cool Down](https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Cool Down](https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93) | 4:02 | 2023-05-16 | 2023-06-09 |
 | [Cool Down The Pace](https://open.spotify.com/track/069XwdkglfN94CvwUZvBxv) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse](https://open.spotify.com/album/7N01iXLj1lHSaAw4Z96DcN) | 5:15 | 2021-10-18 | 2022-07-29 |
 | [Cool Down The Pace](https://open.spotify.com/track/4llIZen1Cn4mi3DJm2Lqlz) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 5:17 | 2022-06-20 |  |
-| [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 | 2021-10-18 |  |
+| [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 | 2021-10-18 | 2024-01-09 |
 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2022-06-20 |  |
 | [Could You Be Loved](https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 3:57 | 2021-10-18 | 2022-07-29 |
 | [Could You Be Loved \- Acoustic](https://open.spotify.com/track/5ONmWYosIGBFjAKPgozdO2) | [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Could You Be Loved \(Acoustic\)](https://open.spotify.com/album/5afbOG4U5ALo0wX5RF5pQS) | 4:27 | 2021-10-18 | 2022-07-29 |
@@ -80,7 +80,7 @@
 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 | 2021-10-18 | 2022-11-13 |
 | [Dela Move](https://open.spotify.com/track/7CXhhrcWLysNuKZpCOmMnk) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dela Move](https://open.spotify.com/album/0T60lKTc1dxqFCNXVzKFj0) | 3:22 | 2021-10-18 | 2022-03-01 |
 | [Destiny](https://open.spotify.com/track/2ZW0A9cFELkFsCT5UkWjkG) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 3:58 | 2022-07-29 | 2022-08-19 |
-| [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 | 2022-10-13 | 2024-01-01 |
+| [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 | 2022-10-13 |  |
 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 | 2021-10-18 |  |
 | [Don't Explain](https://open.spotify.com/track/4aMJWOxbgdreFo0CAzuVyC) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Celebrating Nina: A Reggae Tribute to Nina Simone](https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF) | 5:08 | 2022-07-29 | 2022-08-19 |
 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 | 2021-10-18 | 2023-11-04 |
@@ -189,6 +189,7 @@
 | [Love Alone](https://open.spotify.com/track/4ieXbToMBt4Cy0MU6Lf3av) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Alone](https://open.spotify.com/album/0MlJXgZuqRWqCXyY2qRDqM) | 3:29 | 2022-04-22 | 2022-11-13 |
 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipre](https://open.spotify.com/artist/3ptWB2WLHDeI7QQQDDGGfw) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 | 2021-10-18 |  |
 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 | 2022-06-20 | 2023-11-16 |
+| [Love Is My Religion](https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:48 | 2023-06-08 | 2024-01-16 |
 | [Love Is My Religion](https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:48 | 2022-10-13 | 2023-11-09 |
 | [Love Is My Religion \- Acoustic](https://open.spotify.com/track/2byTXyYqi3jeWdWqB6fiSq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu) | 3:59 | 2022-06-20 | 2022-10-13 |
 | [Love Me Browning](https://open.spotify.com/track/0bhwkOfM7yVI0fZmlS0d2t) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Mr Mention](https://open.spotify.com/album/30OprvPAmiCw2Nlt5FQMT7) | 3:47 | 2022-07-29 | 2022-08-19 |

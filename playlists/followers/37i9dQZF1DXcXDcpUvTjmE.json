@@ -1,16 +1,1367 @@
 {
-  "2023-12-19": 16086,
-  "2023-12-20": 16090,
-  "2023-12-21": 16098,
-  "2023-12-22": 16102,
-  "2023-12-23": 16102,
-  "2023-12-24": 16108,
-  "2023-12-25": 16110,
-  "2023-12-26": 16114,
-  "2023-12-27": 16114,
-  "2023-12-30": 16127,
-  "2023-12-31": 16130,
-  "2024-01-01": 16128,
-  "2024-01-02": 16132,
-  "2024-01-03": 16132
+  "2024-01-17": 16195,
+  "date_first_scraped": "2023-12-19",
+  "description": "Canciones de calaveritas, monstruos y fantasmitas amigables.",
+  "name": "Miedo, miedo, mucho miedo",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257640,
+      "name": "...To Die For",
+      "url": "https://open.spotify.com/track/2wQN8tMYOHStr6Q61jh0IK"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: Fantasia",
+        "url": "https://open.spotify.com/album/0XXxxwNjdxo8DNuaUeMppt"
+      },
+      "artists": [
+        {
+          "name": "Irwin Kostal",
+          "url": "https://open.spotify.com/artist/1HmcCckVaFw44DHhZKuKgN"
+        },
+        {
+          "name": "Disney Studio Orchestra",
+          "url": "https://open.spotify.com/artist/6D1uEwdsshGIFFYUKbKBfG"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525893,
+      "name": "A Night on Bald Mountain - Irwin Kostal Re-Record 1982",
+      "url": "https://open.spotify.com/track/6Z0Ex3xz4kCPEpubnFXlQH"
+    },
+    {
+      "album": {
+        "name": "Amc Presents Halloween Hits - Music For A Monster Fest",
+        "url": "https://open.spotify.com/album/6ltFnpJnHiIjZNg6lUzalj"
+      },
+      "artists": [
+        {
+          "name": "Amc Orchestra",
+          "url": "https://open.spotify.com/artist/5RoU3hjYKEZYV8Zs5vee5B"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 87386,
+      "name": "Addams Family Theme",
+      "url": "https://open.spotify.com/track/35rJ69XdeGIP9dcFKMrICJ"
+    },
+    {
+      "album": {
+        "name": "Amc Presents Halloween Hits - Music For A Monster Fest",
+        "url": "https://open.spotify.com/album/7qMdLTDyWSF0JI5xql7ii2"
+      },
+      "artists": [
+        {
+          "name": "Amc Orchestra",
+          "url": "https://open.spotify.com/artist/5RoU3hjYKEZYV8Zs5vee5B"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87386,
+      "name": "Addams Family Theme",
+      "url": "https://open.spotify.com/track/4T7XXaRKnnvojIpbA7UwXS"
+    },
+    {
+      "album": {
+        "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
+        "url": "https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Arwrarwrirwrarwro",
+      "url": "https://open.spotify.com/track/2aNVklYPur5d2nB7r0BrRo"
+    },
+    {
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
+    },
+    {
+      "album": {
+        "name": "Friendship Is Magic: Songs Of Harmony (Music From The Original TV Series) [Spanish Version]",
+        "url": "https://open.spotify.com/album/0oZEO0Je0xCZAL80Pg0QXs"
+      },
+      "artists": [
+        {
+          "name": "Twilight Sparkle",
+          "url": "https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac"
+        },
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        },
+        {
+          "name": "Rainbow Dash",
+          "url": "https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n"
+        },
+        {
+          "name": "Fluttershy",
+          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
+        },
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
+        },
+        {
+          "name": "Apple Jack",
+          "url": "https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142328,
+      "name": "Bats - Spanish",
+      "url": "https://open.spotify.com/track/3hGkUb21DWPYFjNyRV7wsN"
+    },
+    {
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Irons",
+          "url": "https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV"
+        },
+        {
+          "name": "Whoopi Goldberg",
+          "url": "https://open.spotify.com/artist/1ZsoHNxHMKTgliJcxSRlb5"
+        },
+        {
+          "name": "Cheech Marin",
+          "url": "https://open.spotify.com/artist/68TP2Pr8i7dvyFHU0p748r"
+        },
+        {
+          "name": "Jim Cummings",
+          "url": "https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "Be Prepared",
+      "url": "https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Vampirina - Ghoul Girls Rock!",
+        "url": "https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105575,
+      "name": "Boogieman Boogie",
+      "url": "https://open.spotify.com/track/6EjVi0xapUs3DekiAOfJpT"
+    },
+    {
+      "album": {
+        "name": "Nada en Su Lugar",
+        "url": "https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ"
+      },
+      "artists": [
+        {
+          "name": "Canticu\u00e9nticos",
+          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Cumbia del Monstruo",
+      "url": "https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U"
+    },
+    {
+      "album": {
+        "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
+        "url": "https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
+      "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
+    },
+    {
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "El Fantasma",
+      "url": "https://open.spotify.com/track/2YMm4t2mgTbFS6G45Y6SMJ"
+    },
+    {
+      "album": {
+        "name": "No Nos da Pereza la Naturaleza",
+        "url": "https://open.spotify.com/album/6DlewySG2FgU4yWCGnuqTx"
+      },
+      "artists": [
+        {
+          "name": "Petit Pop",
+          "url": "https://open.spotify.com/artist/7lEZFSGur0Mdk0h5LZG4t2"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113906,
+      "name": "El Monstruo Soy Yo",
+      "url": "https://open.spotify.com/track/53kJQgaVAzWkvX90MUSBjM"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1a Despierto",
+        "url": "https://open.spotify.com/album/56G9wuuD9UH9hH9KuFB2tb"
+      },
+      "artists": [
+        {
+          "name": "Billy Boom Band",
+          "url": "https://open.spotify.com/artist/1ScDhsYvIByaTyeOMfPQNE"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267996,
+      "name": "El Vampiro Manolo",
+      "url": "https://open.spotify.com/track/4j9Sjsj04Vkwfy3GazKtMb"
+    },
+    {
+      "album": {
+        "name": "Descendants (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224626,
+      "name": "Evil Like Me",
+      "url": "https://open.spotify.com/track/0oe0UYSKAESBUR12I1ESXQ"
+    },
+    {
+      "album": {
+        "name": "Exploration (Coraline) [feat. Julia K]",
+        "url": "https://open.spotify.com/album/6F97IrZ8PASCkKyzJD3TAj"
+      },
+      "artists": [
+        {
+          "name": "Amy Turk",
+          "url": "https://open.spotify.com/artist/69EWJ8UVSlytt27VsEsQAw"
+        },
+        {
+          "name": "Julia K",
+          "url": "https://open.spotify.com/artist/6loVeBatIksL5ZkGD1i4So"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122130,
+      "name": "Exploration (Coraline) [feat. Julia K]",
+      "url": "https://open.spotify.com/track/24AX9XecMUvVKzQjir6Xpl"
+    },
+    {
+      "album": {
+        "name": "Finding Nemo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110600,
+      "name": "Friends Not Food",
+      "url": "https://open.spotify.com/track/5oUPyabzoYqt3boNFxJagV"
+    },
+    {
+      "album": {
+        "name": "Disney Halloween",
+        "url": "https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y"
+      },
+      "artists": [
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Friends on the Other Side - From \"The Princess and the Frog\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/4Q5APtkX88HcxwkgmXY3hS"
+    },
+    {
+      "album": {
+        "name": "The Haunted Mansion: Halloween Haunted House Music & Sound Effects",
+        "url": "https://open.spotify.com/album/71BXAS8anaFo62IkXtOoCC"
+      },
+      "artists": [
+        {
+          "name": "Haunted Mansion Rockstars",
+          "url": "https://open.spotify.com/artist/1GKLqB5k5Etjz3QJy8pIob"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295561,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/5THpb2z2boYdPdpFqlbhUs"
+    },
+    {
+      "album": {
+        "name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]",
+        "url": "https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245253,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
+    },
+    {
+      "album": {
+        "name": "Gravity Falls Theme Song",
+        "url": "https://open.spotify.com/album/0ELvg6KtYrbfoaKAqsT8ir"
+      },
+      "artists": [
+        {
+          "name": "NateWantsToBattle",
+          "url": "https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96144,
+      "name": "Gravity Falls Theme Song",
+      "url": "https://open.spotify.com/track/6Ay2DqMNmsTnl24U90K6ze"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: Disneyland",
+        "url": "https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41"
+      },
+      "artists": [
+        {
+          "name": "The Melomen",
+          "url": "https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB"
+        },
+        {
+          "name": "Paul Frees",
+          "url": "https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk"
+        },
+        {
+          "name": "Betty Taylor",
+          "url": "https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1"
+        },
+        {
+          "name": "Bill Lee",
+          "url": "https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL"
+        },
+        {
+          "name": "Thurl Ravenscroft",
+          "url": "https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332400,
+      "name": "Grim Grinning Ghosts - From \"The Haunted Mansion\"",
+      "url": "https://open.spotify.com/track/22HoAbMq2QiKjfc1ZNqy0D"
+    },
+    {
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/7GODKOQ30ouMDFRKIJ4ldH"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187746,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4lQaBlZBMqPs8IFHIEROWV"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Halloween Party",
+        "url": "https://open.spotify.com/album/3BvAR0KQfu2aJTQM4RCq4R"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60087,
+      "name": "Hauntleyween - From \"Vampirina\"",
+      "url": "https://open.spotify.com/track/3A54nSro6R46cW8mqACWjk"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Vampirina - Ghoul Girls Rock!",
+        "url": "https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67566,
+      "name": "Home Scream Home",
+      "url": "https://open.spotify.com/track/77xqY0kiujZDwiiAThgOuE"
+    },
+    {
+      "album": {
+        "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
+      },
+      "artists": [
+        {
+          "name": "Billy Crystal",
+          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
+        },
+        {
+          "name": "John Goodman",
+          "url": "https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217786,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602"
+    },
+    {
+      "album": {
+        "name": "Edward Scissorhands",
+        "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Introduction (Titles)",
+      "url": "https://open.spotify.com/track/55n2WpwjQnIM1lvmxkzllb"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "Cast - The Nightmare Before Christmas",
+          "url": "https://open.spotify.com/artist/1LBMTH4i180mwTLvTW84H3"
+        },
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Jack's Obsession",
+      "url": "https://open.spotify.com/track/0Ywg5t3A8dbO1WgvPJDeWG"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Paul Reubens",
+          "url": "https://open.spotify.com/artist/0bLeinXJM2eS7FWfqRmnIP"
+        },
+        {
+          "name": "Catherine O'Hara",
+          "url": "https://open.spotify.com/artist/0KDbBK1pnCWEL33tRNwDhD"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Kidnap The Sandy Claws",
+      "url": "https://open.spotify.com/track/6Nsy4XzwR0AP3V67kOpgIs"
+    },
+    {
+      "album": {
+        "name": "La Casita de Patylu",
+        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "La Bruja de Nueva York",
+      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
+    },
+    {
+      "album": {
+        "name": "Solo para Ni\u00f1os, vol. 3",
+        "url": "https://open.spotify.com/album/5J1aVBsBqbexh0l3PsDnFo"
+      },
+      "artists": [
+        {
+          "name": "Duply Kids",
+          "url": "https://open.spotify.com/artist/34WdtIWAO1ID6qYnhGCEhn"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "La Brujita Boba Bo",
+      "url": "https://open.spotify.com/track/1LJdY1blaClDtfUbog9K7v"
+    },
+    {
+      "album": {
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200028,
+      "name": "La Casa De Los Sustos",
+      "url": "https://open.spotify.com/track/6ryh4OSsy1oi41F6V8FdpE"
+    },
+    {
+      "album": {
+        "name": "Show en vivo",
+        "url": "https://open.spotify.com/album/0iphB7gPwuwPvVRyfjIecL"
+      },
+      "artists": [
+        {
+          "name": "El Chavo Animado",
+          "url": "https://open.spotify.com/artist/6TrsLddSWd6lZLIYR54JCX"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134213,
+      "name": "Las brujas",
+      "url": "https://open.spotify.com/track/3YVTCcgb8cwcQ2Bm3VI8oH"
+    },
+    {
+      "album": {
+        "name": "Ronda Musical Infantil",
+        "url": "https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj"
+      },
+      "artists": [
+        {
+          "name": "Felix Canales",
+          "url": "https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205220,
+      "name": "Las Calaveras Salen de Su Tumba",
+      "url": "https://open.spotify.com/track/4M8GWjD4XlSvfvBl6ndxoV"
+    },
+    {
+      "album": {
+        "name": "El Rey Leon (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD"
+      },
+      "artists": [
+        {
+          "name": "Rosanelda Aguirre",
+          "url": "https://open.spotify.com/artist/6kz1gH0PaYV0zvTsph9l5U"
+        },
+        {
+          "name": "Carlos Petrel",
+          "url": "https://open.spotify.com/artist/6GRpQSfSpLhn3eOQJupFTf"
+        },
+        {
+          "name": "Jes\u00fas Barrero",
+          "url": "https://open.spotify.com/artist/54CJwyIvWPWGYULtfow9tW"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Listos Ya - De \"El Rey Le\u00f3n\"/Banda Sonora Original",
+      "url": "https://open.spotify.com/track/7ztSV5r08RRxSv9taJDDmb"
+    },
+    {
+      "album": {
+        "name": "Charlie And The Chocolate Factory (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6riALCk3ywWSOrFdASqwXk"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102146,
+      "name": "Loompa Land",
+      "url": "https://open.spotify.com/track/6s4vIivEING6nrYUvvx49X"
+    },
+    {
+      "album": {
+        "name": "Finding Nemo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61000,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4WH2uecM7bUb2JSlXVfgym"
+    },
+    {
+      "album": {
+        "name": "Frankenweenie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0dmu8w9avy1mol3wXyL4zg"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403906,
+      "name": "Making Monsters - From \"Frankenweenie\"/Score",
+      "url": "https://open.spotify.com/track/3dKkBk9eZQcqY3jLXFSxqe"
+    },
+    {
+      "album": {
+        "name": "La Princesa Flotante y Otras Canciones",
+        "url": "https://open.spotify.com/album/3eamuuIIurbn3fEq92Jmtu"
+      },
+      "artists": [
+        {
+          "name": "Children\u00b4s Corner",
+          "url": "https://open.spotify.com/artist/6R1V57b5BHoV8h1wcgWSgB"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119223,
+      "name": "Monstruo, Monstruo",
+      "url": "https://open.spotify.com/track/2EdTl7Os79U8q1cw3XnZSL"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Halloween Party",
+        "url": "https://open.spotify.com/album/3BvAR0KQfu2aJTQM4RCq4R"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62024,
+      "name": "On Halloween Night - From \"Puppy Dog Pals\"",
+      "url": "https://open.spotify.com/track/2Z8ZkkxT1mKVmbgC1iFIe1"
+    },
+    {
+      "album": {
+        "name": "Maleficent (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+      "url": "https://open.spotify.com/track/2C10p0VZJHYj07oBALeUE3"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "Ed Ivory",
+          "url": "https://open.spotify.com/artist/2Iv9xUxQZyMxknah773Sdw"
+        },
+        {
+          "name": "Ken Page",
+          "url": "https://open.spotify.com/artist/5AAomuiyEWayklKG3qLv6U"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Oogie Boogie's Song",
+      "url": "https://open.spotify.com/track/3MX6S65yDDJGPxVtBzru5w"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0"
+      },
+      "artists": [
+        {
+          "name": "Hyenas",
+          "url": "https://open.spotify.com/artist/5CgQGShjRDDB9NwEtTDXq2"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94426,
+      "name": "Panic and Run",
+      "url": "https://open.spotify.com/track/5DZhP7yAUiyGpBeOv1fzPx"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Halloween Party",
+        "url": "https://open.spotify.com/album/3BvAR0KQfu2aJTQM4RCq4R"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57281,
+      "name": "Perfect for the Party - From \"Vampirina\"",
+      "url": "https://open.spotify.com/track/3gviMVI2X61aoAjkxvWRTt"
+    },
+    {
+      "album": {
+        "name": "Toy Story of Terror!",
+        "url": "https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83053,
+      "name": "Pink Peanut Panic",
+      "url": "https://open.spotify.com/track/4seqlgOkpxyOObwPnPfe1q"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG"
+      },
+      "artists": [
+        {
+          "name": "Pat Carroll",
+          "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN"
+    },
+    {
+      "album": {
+        "name": "El Rey Le\u00f3n (Edici\u00f3n Especial/Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/1D08bmEUqEiNEelbWvhFUv"
+      },
+      "artists": [
+        {
+          "name": "Jordi Doncos",
+          "url": "https://open.spotify.com/artist/4QR1lYssaiEA7EoVdlzZHs"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Preparaos",
+      "url": "https://open.spotify.com/track/74NT4PgSoTmv76RzTEIqJp"
+    },
+    {
+      "album": {
+        "name": "Tim Burton's Corpse Bride Original Motion Picture Soundtrack (U.S. Release)",
+        "url": "https://open.spotify.com/album/7EB12gs5cyRcj9TsdZwYEd"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Remains of the Day",
+      "url": "https://open.spotify.com/track/6dw3oQI0NhwYxMiNfVRIHA"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Halloween Party",
+        "url": "https://open.spotify.com/album/3BvAR0KQfu2aJTQM4RCq4R"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65730,
+      "name": "Scary Good - From \"Vampirina\"",
+      "url": "https://open.spotify.com/track/4536eqUIheOUTNMOmttDSD"
+    },
+    {
+      "album": {
+        "name": "Yellow Submarine (Remastered)",
+        "url": "https://open.spotify.com/album/1gKZ5A1ndFqbcrWtW85cCy"
+      },
+      "artists": [
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "Sea Of Monsters - Remastered 2009",
+      "url": "https://open.spotify.com/track/30u8QyT0kBSYO5RcZmaLl3"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs & Sounds",
+        "url": "https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo"
+      },
+      "artists": [
+        {
+          "name": "Marco Marinangeli",
+          "url": "https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162280,
+      "name": "Shake Your Bones",
+      "url": "https://open.spotify.com/track/3JK1TFuy5wVNLVI4aO0K7v"
+    },
+    {
+      "album": {
+        "name": "Battlestar Galactica: The A to Z of Fantasy TV",
+        "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142560,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
+    },
+    {
+      "album": {
+        "name": "Tim Burton: Music from His Films",
+        "url": "https://open.spotify.com/album/6o1Iq7FcwbracZdRgGK5a1"
+      },
+      "artists": [
+        {
+          "name": "The London Film Score Orchestra",
+          "url": "https://open.spotify.com/artist/73Fn8jqdMFpFm7iD1I9Byp"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "The Banana Boat Song (Day-O) [From \"Beetlejuice\"]",
+      "url": "https://open.spotify.com/track/6s2XNes3M4aiNLkMSqWIPp"
+    },
+    {
+      "album": {
+        "name": "The Lion King (Original Motion Picture Soundtrack/Japan Release Version)",
+        "url": "https://open.spotify.com/album/3xEqS4UZ79bX70ByHs18Dy"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246733,
+      "name": "The Hyenas",
+      "url": "https://open.spotify.com/track/3Js8HivFbPTysp6ZcCqzkJ"
+    },
+    {
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Chorus - Beauty And the Beast",
+          "url": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d"
+        },
+        {
+          "name": "Richard White",
+          "url": "https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "The Mob Song",
+      "url": "https://open.spotify.com/track/7fg6upKiVZURSDxVLqY9oU"
+    },
+    {
+      "album": {
+        "name": "Toy Story of Terror!",
+        "url": "https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44893,
+      "name": "The Suspension Is Killing Me",
+      "url": "https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: Disneyland",
+        "url": "https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41"
+      },
+      "artists": [
+        {
+          "name": "Richard Bellis",
+          "url": "https://open.spotify.com/artist/2AvjWonQaWlRkaolk2NCxe"
+        },
+        {
+          "name": "Marious Constant",
+          "url": "https://open.spotify.com/artist/3n9cVWs0spyjg2feaCScV7"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101866,
+      "name": "The Twilight Zone Tower of Terror Theme - From \"The Twilight Zone Tower of Terror\"",
+      "url": "https://open.spotify.com/track/5InLKF7uz0wBmkLfYqoZxj"
+    },
+    {
+      "album": {
+        "name": "Sweeney Todd, The Demon Barber of Fleet Street, The Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0CgTKS2HmWc3JeI9Fit2vX"
+      },
+      "artists": [
+        {
+          "name": "Helena Bonham Carter",
+          "url": "https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143346,
+      "name": "The Worst Pies in London",
+      "url": "https://open.spotify.com/track/1Qg27064zgcyaB78AgwZ4i"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
+    },
+    {
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358053,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
+    },
+    {
+      "album": {
+        "name": "Gloria Fuertes por la Fant\u00e1stica Banda",
+        "url": "https://open.spotify.com/album/1AC85bQJtuXXI36mgfgTyS"
+      },
+      "artists": [
+        {
+          "name": "La Fant\u00e1stica Banda",
+          "url": "https://open.spotify.com/artist/2mbyPF0FTuOfDVcGS8jMJh"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230129,
+      "name": "Todos tenemos miedo o envidia",
+      "url": "https://open.spotify.com/track/5m1ATCPQDdcuyXiXLmvloM"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0"
+      },
+      "artists": [
+        {
+          "name": "Janja",
+          "url": "https://open.spotify.com/artist/6BEzghXwgwHH2J6qkURGwl"
+        },
+        {
+          "name": "Mzingo",
+          "url": "https://open.spotify.com/artist/1cOUmamrBrhZcWl0y2H5k5"
+        },
+        {
+          "name": "Hyenas",
+          "url": "https://open.spotify.com/artist/5CgQGShjRDDB9NwEtTDXq2"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116506,
+      "name": "Tonight We Strike",
+      "url": "https://open.spotify.com/track/58YrrFj3e37IdfM3TJXRWx"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Vampirina - Ghoul Girls Rock!",
+        "url": "https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63422,
+      "name": "Transylvania, Here We Come!",
+      "url": "https://open.spotify.com/track/272xBGyRZpecuM7SYunDf2"
+    },
+    {
+      "album": {
+        "name": "Tumbas por Aqu\u00ed, Tumbas por All\u00e1",
+        "url": "https://open.spotify.com/album/6bGWOPmkCd1eFPTQ9s3dlu"
+      },
+      "artists": [
+        {
+          "name": "Felix Canales",
+          "url": "https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186311,
+      "name": "Tumbas por Aqu\u00ed, Tumbas por All\u00e1",
+      "url": "https://open.spotify.com/track/7c6lG7uCwpi3xssBVqQbli"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Dance Party! The Album",
+        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54827,
+      "name": "Vampirina Theme - From \"Vampirina\"",
+      "url": "https://open.spotify.com/track/6viVSBDabjDw2kAbiIiEa5"
+    },
+    {
+      "album": {
+        "name": "Frozen: El Reino del Hielo (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/5KGKfs835hj9SZyqnmzfhn"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104666,
+      "name": "Wolves - From \"Frozen\"/Score",
+      "url": "https://open.spotify.com/track/2tlB0mLu0YuibC1ZHaWMsT"
+    },
+    {
+      "album": {
+        "name": "Charlie And The Chocolate Factory (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6riALCk3ywWSOrFdASqwXk"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61400,
+      "name": "Wonka's Welcome Song",
+      "url": "https://open.spotify.com/track/4PjA023WJoPg7IerRswLp3"
+    },
+    {
+      "album": {
+        "name": "\u00a1\u00a1Baila Sin Parar!!",
+        "url": "https://open.spotify.com/album/7JtKNO4yaLe5xcje4fcRK7"
+      },
+      "artists": [
+        {
+          "name": "Chumi Chuma",
+          "url": "https://open.spotify.com/artist/4aE9HK9D7IoM6GvqkApVV9"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212156,
+      "name": "Zombi, Zombi, Zombi",
+      "url": "https://open.spotify.com/track/6OheFRLon5ajTpyXLo4xNk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcXDcpUvTjmE"
 }

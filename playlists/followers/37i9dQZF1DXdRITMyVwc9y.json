@@ -1,735 +1,785 @@
 {
-  "2021-12-25": 64335,
-  "2021-12-26": 64354,
-  "2021-12-27": 64386,
-  "2021-12-28": 64386,
-  "2021-12-29": 64401,
-  "2021-12-30": 64430,
-  "2021-12-31": 64442,
-  "2022-01-01": 64492,
-  "2022-01-02": 64501,
-  "2022-01-03": 64530,
-  "2022-01-04": 64552,
-  "2022-01-05": 64575,
-  "2022-01-06": 64586,
-  "2022-01-07": 64600,
-  "2022-01-08": 64663,
-  "2022-01-09": 64665,
-  "2022-01-10": 64685,
-  "2022-01-11": 64685,
-  "2022-01-12": 64708,
-  "2022-01-13": 64708,
-  "2022-01-14": 64708,
-  "2022-01-15": 64708,
-  "2022-01-16": 64708,
-  "2022-01-17": 64708,
-  "2022-01-18": 64708,
-  "2022-01-19": 64708,
-  "2022-01-20": 64708,
-  "2022-01-21": 64708,
-  "2022-01-22": 64708,
-  "2022-01-23": 64708,
-  "2022-01-24": 64708,
-  "2022-01-25": 64708,
-  "2022-01-26": 64708,
-  "2022-01-27": 64708,
-  "2022-01-28": 64708,
-  "2022-01-29": 64708,
-  "2022-01-30": 64708,
-  "2022-01-31": 64708,
-  "2022-02-01": 64708,
-  "2022-02-02": 64708,
-  "2022-02-03": 64708,
-  "2022-02-04": 64708,
-  "2022-02-05": 64708,
-  "2022-02-06": 64708,
-  "2022-02-07": 64708,
-  "2022-02-08": 64708,
-  "2022-02-09": 64708,
-  "2022-02-10": 64708,
-  "2022-02-11": 64708,
-  "2022-02-12": 64708,
-  "2022-02-13": 64708,
-  "2022-02-14": 64708,
-  "2022-02-15": 64708,
-  "2022-02-16": 64708,
-  "2022-02-17": 64708,
-  "2022-02-18": 64708,
-  "2022-02-19": 64708,
-  "2022-02-20": 64708,
-  "2022-02-21": 64708,
-  "2022-02-22": 64708,
-  "2022-02-23": 64708,
-  "2022-02-24": 64708,
-  "2022-02-25": 64708,
-  "2022-02-26": 64708,
-  "2022-02-27": 64708,
-  "2022-02-28": 64708,
-  "2022-03-01": 64708,
-  "2022-03-02": 64708,
-  "2022-03-03": 64708,
-  "2022-03-04": 64708,
-  "2022-03-05": 64708,
-  "2022-03-06": 64708,
-  "2022-03-07": 64708,
-  "2022-03-08": 64708,
-  "2022-03-09": 64708,
-  "2022-03-10": 64708,
-  "2022-03-11": 64708,
-  "2022-03-12": 64708,
-  "2022-03-13": 64708,
-  "2022-03-14": 64708,
-  "2022-03-15": 64708,
-  "2022-03-16": 64708,
-  "2022-03-17": 64708,
-  "2022-03-18": 64708,
-  "2022-03-19": 64708,
-  "2022-03-20": 64708,
-  "2022-03-21": 64708,
-  "2022-03-22": 64708,
-  "2022-03-23": 64708,
-  "2022-03-24": 64708,
-  "2022-03-25": 64708,
-  "2022-03-26": 64708,
-  "2022-03-27": 64708,
-  "2022-03-28": 64708,
-  "2022-03-30": 64708,
-  "2022-03-31": 64708,
-  "2022-04-01": 64708,
-  "2022-04-02": 64708,
-  "2022-04-03": 64708,
-  "2022-04-04": 64708,
-  "2022-04-05": 64708,
-  "2022-04-06": 64708,
-  "2022-04-07": 64708,
-  "2022-04-08": 64708,
-  "2022-04-09": 64708,
-  "2022-04-10": 64708,
-  "2022-04-11": 64708,
-  "2022-04-12": 64708,
-  "2022-04-13": 64708,
-  "2022-04-14": 64708,
-  "2022-04-15": 64708,
-  "2022-04-16": 64708,
-  "2022-04-17": 64708,
-  "2022-04-18": 64708,
-  "2022-04-19": 64708,
-  "2022-04-20": 64708,
-  "2022-04-21": 64708,
-  "2022-04-22": 64708,
-  "2022-04-23": 64708,
-  "2022-04-24": 64708,
-  "2022-04-25": 64708,
-  "2022-04-26": 64708,
-  "2022-04-27": 64708,
-  "2022-04-28": 64708,
-  "2022-04-29": 64708,
-  "2022-04-30": 64708,
-  "2022-05-01": 64708,
-  "2022-05-02": 64708,
-  "2022-05-03": 64708,
-  "2022-05-04": 64708,
-  "2022-05-05": 64708,
-  "2022-05-06": 64708,
-  "2022-05-07": 64708,
-  "2022-05-08": 64708,
-  "2022-05-09": 64708,
-  "2022-05-10": 64708,
-  "2022-05-11": 64708,
-  "2022-05-12": 64708,
-  "2022-05-13": 64708,
-  "2022-05-14": 64708,
-  "2022-05-15": 64708,
-  "2022-05-16": 64708,
-  "2022-05-17": 64708,
-  "2022-05-18": 64708,
-  "2022-05-19": 64708,
-  "2022-05-20": 64708,
-  "2022-05-21": 64708,
-  "2022-05-22": 64708,
-  "2022-05-23": 64708,
-  "2022-05-24": 64708,
-  "2022-05-25": 64708,
-  "2022-05-26": 64708,
-  "2022-05-27": 64708,
-  "2022-05-28": 64708,
-  "2022-05-29": 64708,
-  "2022-05-30": 64708,
-  "2022-05-31": 64708,
-  "2022-06-01": 64708,
-  "2022-06-02": 64708,
-  "2022-06-03": 64708,
-  "2022-06-04": 64708,
-  "2022-06-05": 64708,
-  "2022-06-06": 64708,
-  "2022-06-07": 64708,
-  "2022-06-08": 64708,
-  "2022-06-09": 64708,
-  "2022-06-10": 64708,
-  "2022-06-11": 64708,
-  "2022-06-12": 64708,
-  "2022-06-13": 64708,
-  "2022-06-14": 64708,
-  "2022-06-15": 64708,
-  "2022-06-16": 64708,
-  "2022-06-17": 64708,
-  "2022-06-18": 64708,
-  "2022-06-19": 64708,
-  "2022-06-20": 64708,
-  "2022-06-21": 64708,
-  "2022-06-22": 64708,
-  "2022-06-23": 64708,
-  "2022-06-24": 64708,
-  "2022-06-25": 64708,
-  "2022-06-26": 64708,
-  "2022-06-27": 64708,
-  "2022-06-28": 64708,
-  "2022-06-29": 64708,
-  "2022-06-30": 64708,
-  "2022-07-01": 64708,
-  "2022-07-02": 64708,
-  "2022-07-03": 64708,
-  "2022-07-04": 64708,
-  "2022-07-05": 64708,
-  "2022-07-06": 64708,
-  "2022-07-07": 64708,
-  "2022-07-08": 64708,
-  "2022-07-09": 64708,
-  "2022-07-10": 64708,
-  "2022-07-11": 64708,
-  "2022-07-12": 64708,
-  "2022-07-13": 64708,
-  "2022-07-14": 64708,
-  "2022-07-15": 64708,
-  "2022-07-16": 64708,
-  "2022-07-17": 64708,
-  "2022-07-18": 64708,
-  "2022-07-19": 64708,
-  "2022-07-20": 64708,
-  "2022-07-21": 64708,
-  "2022-07-22": 64708,
-  "2022-07-23": 64708,
-  "2022-07-24": 64708,
-  "2022-07-25": 64708,
-  "2022-07-26": 64708,
-  "2022-07-27": 64708,
-  "2022-07-28": 64708,
-  "2022-07-29": 64708,
-  "2022-07-30": 64708,
-  "2022-07-31": 64708,
-  "2022-08-01": 64708,
-  "2022-08-02": 64708,
-  "2022-08-03": 64708,
-  "2022-08-04": 64708,
-  "2022-08-05": 64708,
-  "2022-08-06": 64708,
-  "2022-08-07": 64708,
-  "2022-08-08": 64708,
-  "2022-08-09": 64708,
-  "2022-08-10": 64708,
-  "2022-08-11": 64708,
-  "2022-08-12": 64708,
-  "2022-08-13": 64708,
-  "2022-08-14": 64708,
-  "2022-08-15": 64708,
-  "2022-08-16": 64708,
-  "2022-08-17": 64708,
-  "2022-08-18": 64708,
-  "2022-08-19": 64708,
-  "2022-08-20": 64708,
-  "2022-08-21": 64708,
-  "2022-08-22": 64708,
-  "2022-08-23": 64708,
-  "2022-08-24": 64708,
-  "2022-08-25": 64708,
-  "2022-08-26": 64708,
-  "2022-08-27": 64708,
-  "2022-08-28": 64708,
-  "2022-08-29": 64708,
-  "2022-08-30": 64708,
-  "2022-08-31": 64708,
-  "2022-09-01": 64708,
-  "2022-09-02": 64708,
-  "2022-09-03": 64708,
-  "2022-09-04": 64708,
-  "2022-09-05": 64708,
-  "2022-09-06": 64708,
-  "2022-09-07": 64708,
-  "2022-09-09": 64708,
-  "2022-09-10": 64708,
-  "2022-09-11": 64708,
-  "2022-09-12": 64708,
-  "2022-09-13": 64708,
-  "2022-09-15": 64708,
-  "2022-09-16": 64708,
-  "2022-09-17": 64708,
-  "2022-09-18": 64708,
-  "2022-09-19": 64708,
-  "2022-09-20": 64708,
-  "2022-09-21": 64708,
-  "2022-09-22": 64708,
-  "2022-09-23": 64708,
-  "2022-09-24": 64708,
-  "2022-09-25": 64708,
-  "2022-09-26": 64708,
-  "2022-09-27": 64708,
-  "2022-09-28": 64708,
-  "2022-09-29": 64708,
-  "2022-09-30": 64708,
-  "2022-10-01": 64708,
-  "2022-10-02": 64708,
-  "2022-10-03": 64708,
-  "2022-10-04": 64708,
-  "2022-10-05": 64708,
-  "2022-10-06": 64708,
-  "2022-10-07": 64708,
-  "2022-10-08": 64708,
-  "2022-10-09": 64708,
-  "2022-10-10": 64708,
-  "2022-10-11": 64708,
-  "2022-10-12": 64708,
-  "2022-10-13": 64708,
-  "2022-10-14": 64708,
-  "2022-10-15": 64708,
-  "2022-10-16": 64708,
-  "2022-10-17": 64708,
-  "2022-10-18": 64708,
-  "2022-10-19": 64708,
-  "2022-10-20": 64708,
-  "2022-10-21": 64708,
-  "2022-10-22": 64708,
-  "2022-10-23": 64708,
-  "2022-10-24": 64708,
-  "2022-10-25": 64708,
-  "2022-10-26": 64708,
-  "2022-10-27": 64708,
-  "2022-10-28": 64708,
-  "2022-10-29": 64708,
-  "2022-10-30": 64708,
-  "2022-10-31": 64708,
-  "2022-11-01": 64708,
-  "2022-11-02": 64708,
-  "2022-11-03": 64708,
-  "2022-11-04": 64708,
-  "2022-11-05": 64708,
-  "2022-11-06": 64708,
-  "2022-11-07": 64708,
-  "2022-11-08": 64708,
-  "2022-11-09": 64708,
-  "2022-11-10": 64708,
-  "2022-11-11": 64708,
-  "2022-11-12": 64708,
-  "2022-11-13": 64708,
-  "2022-11-14": 64708,
-  "2022-11-15": 64708,
-  "2022-11-16": 64708,
-  "2022-11-17": 64708,
-  "2022-11-18": 64708,
-  "2022-11-19": 64708,
-  "2022-11-20": 64708,
-  "2022-11-21": 64708,
-  "2022-11-22": 64708,
-  "2022-11-23": 64708,
-  "2022-11-24": 64708,
-  "2022-11-25": 64708,
-  "2022-11-26": 64708,
-  "2022-11-27": 64708,
-  "2022-11-28": 64708,
-  "2022-11-29": 64708,
-  "2022-11-30": 64708,
-  "2022-12-01": 64708,
-  "2022-12-02": 64708,
-  "2022-12-03": 64708,
-  "2022-12-04": 64708,
-  "2022-12-05": 64708,
-  "2022-12-06": 64708,
-  "2022-12-07": 64708,
-  "2022-12-08": 64708,
-  "2022-12-09": 64708,
-  "2022-12-10": 64708,
-  "2022-12-11": 64708,
-  "2022-12-12": 64708,
-  "2022-12-13": 64708,
-  "2022-12-14": 64708,
-  "2022-12-15": 64708,
-  "2022-12-16": 64708,
-  "2022-12-17": 64708,
-  "2022-12-18": 64708,
-  "2022-12-19": 64708,
-  "2022-12-20": 64708,
-  "2022-12-21": 64708,
-  "2022-12-22": 64708,
-  "2022-12-24": 64708,
-  "2022-12-25": 64708,
-  "2022-12-26": 64708,
-  "2022-12-27": 64708,
-  "2022-12-28": 64708,
-  "2022-12-29": 64708,
-  "2022-12-30": 64708,
-  "2022-12-31": 64708,
-  "2023-01-01": 64708,
-  "2023-01-02": 64708,
-  "2023-01-03": 64708,
-  "2023-01-04": 64708,
-  "2023-01-05": 64708,
-  "2023-01-06": 64708,
-  "2023-01-07": 64708,
-  "2023-01-08": 64708,
-  "2023-01-09": 64708,
-  "2023-01-10": 64708,
-  "2023-01-11": 64708,
-  "2023-01-12": 64708,
-  "2023-01-13": 64708,
-  "2023-01-14": 64708,
-  "2023-01-15": 64708,
-  "2023-01-16": 64708,
-  "2023-01-17": 64708,
-  "2023-01-18": 64708,
-  "2023-01-19": 64708,
-  "2023-01-20": 64708,
-  "2023-01-21": 64708,
-  "2023-01-22": 64708,
-  "2023-01-23": 64708,
-  "2023-01-24": 64708,
-  "2023-01-25": 64708,
-  "2023-01-26": 64708,
-  "2023-01-27": 64708,
-  "2023-01-28": 64708,
-  "2023-01-29": 64708,
-  "2023-01-30": 64708,
-  "2023-01-31": 64708,
-  "2023-02-01": 64708,
-  "2023-02-02": 64708,
-  "2023-02-03": 64708,
-  "2023-02-04": 64708,
-  "2023-02-05": 64708,
-  "2023-02-06": 64708,
-  "2023-02-07": 64708,
-  "2023-02-08": 64708,
-  "2023-02-09": 64708,
-  "2023-02-10": 64708,
-  "2023-02-11": 64708,
-  "2023-02-12": 64708,
-  "2023-02-13": 64708,
-  "2023-02-14": 64708,
-  "2023-02-15": 64708,
-  "2023-02-16": 64708,
-  "2023-02-17": 64708,
-  "2023-02-18": 64708,
-  "2023-02-19": 64708,
-  "2023-02-20": 64708,
-  "2023-02-21": 64708,
-  "2023-02-22": 64708,
-  "2023-02-23": 64708,
-  "2023-02-24": 64708,
-  "2023-02-25": 64708,
-  "2023-02-26": 64708,
-  "2023-02-27": 64708,
-  "2023-02-28": 64708,
-  "2023-03-01": 64708,
-  "2023-03-02": 64708,
-  "2023-03-03": 64708,
-  "2023-03-04": 64708,
-  "2023-03-05": 64708,
-  "2023-03-06": 64708,
-  "2023-03-07": 64708,
-  "2023-03-08": 64708,
-  "2023-03-09": 64708,
-  "2023-03-10": 64708,
-  "2023-03-11": 64708,
-  "2023-03-12": 64708,
-  "2023-03-13": 64708,
-  "2023-03-14": 64708,
-  "2023-03-15": 64708,
-  "2023-03-16": 64708,
-  "2023-03-17": 64708,
-  "2023-03-18": 64708,
-  "2023-03-19": 64708,
-  "2023-03-20": 64708,
-  "2023-03-21": 64708,
-  "2023-03-22": 64708,
-  "2023-03-23": 64708,
-  "2023-03-24": 64708,
-  "2023-03-25": 64708,
-  "2023-03-26": 64708,
-  "2023-03-27": 64708,
-  "2023-03-28": 64708,
-  "2023-03-29": 64708,
-  "2023-03-30": 64708,
-  "2023-03-31": 64708,
-  "2023-04-01": 64708,
-  "2023-04-02": 64708,
-  "2023-04-03": 64708,
-  "2023-04-04": 64708,
-  "2023-04-05": 64708,
-  "2023-04-06": 64708,
-  "2023-04-07": 64708,
-  "2023-04-09": 64708,
-  "2023-04-10": 64708,
-  "2023-04-11": 64708,
-  "2023-04-12": 64708,
-  "2023-04-13": 64708,
-  "2023-04-14": 64708,
-  "2023-04-15": 64708,
-  "2023-04-16": 64708,
-  "2023-04-17": 64708,
-  "2023-04-18": 64708,
-  "2023-04-19": 64708,
-  "2023-04-20": 64708,
-  "2023-04-21": 64708,
-  "2023-04-22": 64708,
-  "2023-04-23": 64708,
-  "2023-04-24": 64708,
-  "2023-04-25": 64708,
-  "2023-04-26": 64708,
-  "2023-04-27": 64708,
-  "2023-04-28": 64708,
-  "2023-04-29": 64708,
-  "2023-04-30": 64708,
-  "2023-05-01": 64708,
-  "2023-05-02": 64708,
-  "2023-05-03": 64708,
-  "2023-05-04": 64708,
-  "2023-05-05": 64708,
-  "2023-05-06": 64708,
-  "2023-05-07": 64708,
-  "2023-05-08": 64708,
-  "2023-05-09": 64708,
-  "2023-05-10": 64708,
-  "2023-05-11": 64708,
-  "2023-05-12": 64708,
-  "2023-05-13": 64708,
-  "2023-05-14": 64708,
-  "2023-05-15": 64708,
-  "2023-05-16": 64708,
-  "2023-05-17": 64708,
-  "2023-05-18": 64708,
-  "2023-05-19": 64708,
-  "2023-05-20": 64708,
-  "2023-05-21": 64708,
-  "2023-05-22": 64708,
-  "2023-05-23": 64708,
-  "2023-05-24": 64708,
-  "2023-05-25": 64708,
-  "2023-05-26": 64708,
-  "2023-05-27": 64708,
-  "2023-05-28": 64708,
-  "2023-05-29": 64708,
-  "2023-05-30": 64708,
-  "2023-05-31": 64708,
-  "2023-06-01": 64708,
-  "2023-06-02": 64708,
-  "2023-06-03": 64708,
-  "2023-06-04": 64708,
-  "2023-06-05": 64708,
-  "2023-06-06": 64708,
-  "2023-06-07": 64708,
-  "2023-06-08": 64708,
-  "2023-06-09": 64708,
-  "2023-06-10": 64708,
-  "2023-06-11": 64708,
-  "2023-06-12": 64708,
-  "2023-06-13": 64708,
-  "2023-06-14": 64708,
-  "2023-06-15": 64708,
-  "2023-06-16": 64708,
-  "2023-06-17": 64708,
-  "2023-06-18": 64708,
-  "2023-06-19": 64708,
-  "2023-06-20": 64708,
-  "2023-06-21": 64708,
-  "2023-06-22": 64708,
-  "2023-06-23": 64708,
-  "2023-06-24": 64708,
-  "2023-06-25": 64708,
-  "2023-06-26": 64708,
-  "2023-06-27": 64708,
-  "2023-06-28": 64708,
-  "2023-06-29": 64708,
-  "2023-06-30": 64708,
-  "2023-07-01": 64708,
-  "2023-07-02": 64708,
-  "2023-07-03": 64708,
-  "2023-07-04": 64708,
-  "2023-07-05": 64708,
-  "2023-07-06": 64708,
-  "2023-07-07": 64708,
-  "2023-07-08": 64708,
-  "2023-07-09": 64708,
-  "2023-07-10": 64708,
-  "2023-07-11": 64708,
-  "2023-07-12": 64708,
-  "2023-07-13": 64708,
-  "2023-07-14": 64708,
-  "2023-07-15": 64708,
-  "2023-07-16": 64708,
-  "2023-07-17": 64708,
-  "2023-07-18": 64708,
-  "2023-07-19": 64708,
-  "2023-07-20": 64708,
-  "2023-07-21": 64708,
-  "2023-07-22": 64708,
-  "2023-07-23": 64708,
-  "2023-07-24": 64708,
-  "2023-07-25": 64708,
-  "2023-07-26": 64708,
-  "2023-07-27": 64708,
-  "2023-07-28": 64708,
-  "2023-07-29": 64708,
-  "2023-07-30": 64708,
-  "2023-07-31": 64708,
-  "2023-08-01": 64708,
-  "2023-08-02": 64708,
-  "2023-08-03": 64708,
-  "2023-08-04": 64708,
-  "2023-08-05": 64708,
-  "2023-08-06": 64708,
-  "2023-08-07": 64708,
-  "2023-08-08": 64708,
-  "2023-08-09": 64708,
-  "2023-08-10": 64708,
-  "2023-08-11": 64708,
-  "2023-08-12": 64708,
-  "2023-08-13": 64708,
-  "2023-08-14": 64708,
-  "2023-08-15": 64708,
-  "2023-08-16": 64708,
-  "2023-08-17": 64708,
-  "2023-08-18": 64708,
-  "2023-08-19": 64708,
-  "2023-08-20": 64708,
-  "2023-08-21": 64708,
-  "2023-08-22": 64708,
-  "2023-08-23": 64708,
-  "2023-08-24": 64708,
-  "2023-08-25": 64708,
-  "2023-08-26": 64708,
-  "2023-08-27": 64708,
-  "2023-08-28": 64708,
-  "2023-08-29": 64708,
-  "2023-08-30": 64708,
-  "2023-08-31": 64708,
-  "2023-09-01": 64708,
-  "2023-09-02": 64708,
-  "2023-09-03": 64708,
-  "2023-09-04": 64708,
-  "2023-09-05": 64708,
-  "2023-09-06": 64708,
-  "2023-09-07": 64708,
-  "2023-09-08": 64708,
-  "2023-09-09": 64708,
-  "2023-09-10": 64708,
-  "2023-09-11": 64708,
-  "2023-09-12": 64708,
-  "2023-09-13": 64708,
-  "2023-09-14": 64708,
-  "2023-09-15": 64708,
-  "2023-09-16": 64708,
-  "2023-09-17": 64708,
-  "2023-09-18": 64708,
-  "2023-09-19": 64708,
-  "2023-09-20": 64708,
-  "2023-09-21": 64708,
-  "2023-09-22": 64708,
-  "2023-09-23": 64708,
-  "2023-09-24": 64708,
-  "2023-09-25": 64708,
-  "2023-09-26": 64708,
-  "2023-09-27": 64708,
-  "2023-09-28": 64708,
-  "2023-09-29": 64708,
-  "2023-09-30": 64708,
-  "2023-10-01": 64708,
-  "2023-10-02": 64708,
-  "2023-10-03": 64708,
-  "2023-10-04": 64708,
-  "2023-10-05": 64708,
-  "2023-10-06": 64708,
-  "2023-10-07": 64708,
-  "2023-10-08": 64708,
-  "2023-10-09": 64708,
-  "2023-10-10": 64708,
-  "2023-10-11": 64708,
-  "2023-10-12": 64708,
-  "2023-10-13": 64708,
-  "2023-10-14": 64708,
-  "2023-10-15": 64708,
-  "2023-10-16": 64708,
-  "2023-10-17": 64708,
-  "2023-10-18": 64708,
-  "2023-10-19": 64708,
-  "2023-10-20": 64708,
-  "2023-10-21": 64708,
-  "2023-10-22": 64708,
-  "2023-10-23": 64708,
-  "2023-10-24": 64708,
-  "2023-10-25": 64708,
-  "2023-10-26": 64708,
-  "2023-10-27": 64708,
-  "2023-10-28": 64708,
-  "2023-10-29": 64708,
-  "2023-10-30": 64708,
-  "2023-10-31": 64708,
-  "2023-11-01": 64708,
-  "2023-11-02": 64708,
-  "2023-11-03": 64708,
-  "2023-11-04": 64708,
-  "2023-11-05": 64708,
-  "2023-11-06": 64708,
-  "2023-11-07": 64708,
-  "2023-11-08": 64708,
-  "2023-11-09": 64708,
-  "2023-11-10": 64708,
-  "2023-11-11": 64708,
-  "2023-11-12": 64708,
-  "2023-11-13": 64708,
-  "2023-11-14": 64708,
-  "2023-11-15": 64708,
-  "2023-11-16": 64708,
-  "2023-11-17": 64708,
-  "2023-11-18": 64708,
-  "2023-11-19": 64708,
-  "2023-11-20": 64708,
-  "2023-11-21": 64708,
-  "2023-11-22": 64708,
-  "2023-11-23": 64708,
-  "2023-11-24": 64708,
-  "2023-11-25": 64708,
-  "2023-11-26": 64708,
-  "2023-11-27": 64708,
-  "2023-11-28": 64708,
-  "2023-11-29": 64708,
-  "2023-11-30": 64708,
-  "2023-12-01": 64708,
-  "2023-12-02": 64708,
-  "2023-12-03": 64708,
-  "2023-12-04": 64708,
-  "2023-12-05": 64708,
-  "2023-12-06": 64708,
-  "2023-12-07": 64708,
-  "2023-12-08": 64708,
-  "2023-12-09": 64708,
-  "2023-12-10": 64708,
-  "2023-12-11": 64708,
-  "2023-12-12": 64708,
-  "2023-12-13": 64708,
-  "2023-12-14": 64708,
-  "2023-12-15": 64708,
-  "2023-12-16": 64708,
-  "2023-12-17": 64708,
-  "2023-12-18": 64708,
-  "2023-12-19": 64708,
-  "2023-12-20": 64708,
-  "2023-12-21": 64708,
-  "2023-12-22": 64708,
-  "2023-12-23": 64708,
-  "2023-12-24": 64708,
-  "2023-12-25": 64708,
-  "2023-12-26": 64708,
-  "2023-12-27": 64708,
-  "2023-12-30": 64708,
-  "2023-12-31": 64708,
-  "2024-01-01": 64708,
-  "2024-01-02": 64708,
-  "2024-01-03": 64708
+  "2024-01-17": 64708,
+  "date_first_scraped": "2021-12-21",
+  "description": "This is Emeli Sand\u00e9. The essential tracks, all in one playlist.",
+  "name": "This is: Emeli Sand\u00e9",
+  "tracks": [
+    {
+      "album": {
+        "name": "Electronic Earth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271813,
+      "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF"
+    },
+    {
+      "album": {
+        "name": "Long Live The Angels",
+        "url": "https://open.spotify.com/album/1mSkU8rCuqR11b1hNvWjgw"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262880,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/0Q1CLOFhsk4KhLKOgLmgLK"
+    },
+    {
+      "album": {
+        "name": "Spotify Live",
+        "url": "https://open.spotify.com/album/7gINVjGuO9u8UaTxDqacSq"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254146,
+      "name": "Breathing Underwater - Live From Spotify, London",
+      "url": "https://open.spotify.com/track/6BqJEGGYElJ71xSw1O42Pp"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221133,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/0tRbE57ldKxtHep2R9KQZF"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        },
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/1OiUSBHXB50476HpiayCMU"
+    },
+    {
+      "album": {
+        "name": "Live At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/1A253TQGd0C0DIba96h85G"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273949,
+      "name": "Daddy - Live From The Royal Albert Hall,United Kingdom/2012",
+      "url": "https://open.spotify.com/track/4LoWE9WlPEKB0s7qSyEx2O"
+    },
+    {
+      "album": {
+        "name": "Extraordinary Being",
+        "url": "https://open.spotify.com/album/5VviVaeo5tJVy9Il7zRD4x"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244680,
+      "name": "Extraordinary Being",
+      "url": "https://open.spotify.com/track/3zboB0IK3bjgkJdH1Dr3tA"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/646cPHHdR9E2QLrmuUwhf6"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244750,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/5P5DlkMeOFrQCHUgB05PYf"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2AOpbitJNMvKhSbsi2YD4F"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216101,
+      "name": "Free (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/2rOuCpkWsioxg8QNPMX9lB"
+    },
+    {
+      "album": {
+        "name": "Free As A Bird",
+        "url": "https://open.spotify.com/album/2I9l98Q9SF234MiQLBf8za"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235053,
+      "name": "Free As A Bird",
+      "url": "https://open.spotify.com/track/12Gn2tivYxzcYYziGyq59B"
+    },
+    {
+      "album": {
+        "name": "Long Live The Angels",
+        "url": "https://open.spotify.com/album/1mSkU8rCuqR11b1hNvWjgw"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "\u00c1ine Zion",
+          "url": "https://open.spotify.com/artist/0FFYIJKmnqvdesxjzuCePg"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242040,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2LsYs9LtG8W5WekWRCOOZE"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251946,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5e3WXo50iEZ0z5S3dYR5hY"
+    },
+    {
+      "album": {
+        "name": "Kingdom Coming",
+        "url": "https://open.spotify.com/album/6HqpF3qlqfGWsZQD5GjAIV"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281847,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4lvj8B7u7hnpHmHGLXuYto"
+    },
+    {
+      "album": {
+        "name": "Long Live The Angels",
+        "url": "https://open.spotify.com/album/1mSkU8rCuqR11b1hNvWjgw"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/0gvPnDf3tBXu4nrkqL73dN"
+    },
+    {
+      "album": {
+        "name": "Spotify Live",
+        "url": "https://open.spotify.com/album/7gINVjGuO9u8UaTxDqacSq"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225095,
+      "name": "Highs & Lows - Live From Spotify, London",
+      "url": "https://open.spotify.com/track/1eBU6y6fGc06z6A1I8FAfF"
+    },
+    {
+      "album": {
+        "name": "Long Live The Angels",
+        "url": "https://open.spotify.com/album/1mSkU8rCuqR11b1hNvWjgw"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/0EaGIT8vHXRNuMNwJ8XAWt"
+    },
+    {
+      "album": {
+        "name": "Spotify Live",
+        "url": "https://open.spotify.com/album/7gINVjGuO9u8UaTxDqacSq"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317057,
+      "name": "Hurts - Live From Spotify, London",
+      "url": "https://open.spotify.com/track/6zqsAcQ9fV82wjbWgxIi2F"
+    },
+    {
+      "album": {
+        "name": "I.O.U.",
+        "url": "https://open.spotify.com/album/2XiShuDf0psUPITrVlXAO1"
+      },
+      "artists": [
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236937,
+      "name": "I.O.U.",
+      "url": "https://open.spotify.com/track/33r8mmCnEA7tWzyFBobrlS"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HRVsEENfqhaHpO9jcFifw"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/66yRvcITRhs4p8lnZTVueL"
+    },
+    {
+      "album": {
+        "name": "Disc-Overy",
+        "url": "https://open.spotify.com/album/0B0XOuBWbgLAOkmOFXDe9M"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257466,
+      "name": "Let Go (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/1aXCXN9iBohPAXH13hzauJ"
+    },
+    {
+      "album": {
+        "name": "Hotel Cabana",
+        "url": "https://open.spotify.com/album/0iQm7rOF77SidB8qdC2cbp"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197187,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/1NhICAB9B7c4517vbUK1Ji"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HRVsEENfqhaHpO9jcFifw"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250880,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/22t2KoYniACfVadpIHPjeW"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "My Kind Of Love",
+      "url": "https://open.spotify.com/track/0msQ8XAR6dGpQKzg27ycn6"
+    },
+    {
+      "album": {
+        "name": "Never Be Your Woman",
+        "url": "https://open.spotify.com/album/45MaWX9LfJvi8KpGnnadLX"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146905,
+      "name": "Never Be Your Woman - SHY FX Radio Edit",
+      "url": "https://open.spotify.com/track/4ymsAGWOmrWYmQ5nbzgeYC"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/2C5l2dK6ep2JRgQ9UenCBs"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions - Live From Spotify NYC, USA/2012",
+        "url": "https://open.spotify.com/album/23NSEnpwoyErSZ3FXXPx4N"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220792,
+      "name": "Next To Me - Live From Spotify NYC, USA/2012",
+      "url": "https://open.spotify.com/track/4Y1ZvAbetcpZsmedL9uhmR"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283706,
+      "name": "Read All About It, Pt. III",
+      "url": "https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV"
+    },
+    {
+      "album": {
+        "name": "Spotify Live",
+        "url": "https://open.spotify.com/album/21OcsMhvxiZdqyKbvLJemo"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315807,
+      "name": "Read All About It, Pt. III - Live From Spotify, London",
+      "url": "https://open.spotify.com/track/1E2YAnWhS1RL6ghGutYYoL"
+    },
+    {
+      "album": {
+        "name": "Long Live The Angels (Deluxe)",
+        "url": "https://open.spotify.com/album/5dROr3bb551hRGk7cTiS8A"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134266,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/26GcVenudtCEleGPxbFHGA"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279720,
+      "name": "River",
+      "url": "https://open.spotify.com/track/2f0FtrLDgtbBnxj6KdG7M9"
+    },
+    {
+      "album": {
+        "name": "Long Live The Angels",
+        "url": "https://open.spotify.com/album/1mSkU8rCuqR11b1hNvWjgw"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Shakes",
+      "url": "https://open.spotify.com/track/6mZVRWudCc1XX4HLoB5m3h"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/2Kvao4pWDV87JI9KFA1GTW"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209693,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/17Lz57lmEXE9o5p9UZBPqs"
+    },
+    {
+      "album": {
+        "name": "Kingdom Coming",
+        "url": "https://open.spotify.com/album/6HqpF3qlqfGWsZQD5GjAIV"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253332,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/77Z4I0NiLKCCWUQ1YL20jX"
+    },
+    {
+      "album": {
+        "name": "Sparrow",
+        "url": "https://open.spotify.com/album/5lyagAZ7SJgVei37ByhIN5"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "Sparrow",
+      "url": "https://open.spotify.com/track/5TKZ9idH7g9jGzBCFqpEeB"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/420InqZHZ4UcoK9LYX8oKV"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181989,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/4sRqO2wknA3eNxP2NUlEV5"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HRVsEENfqhaHpO9jcFifw"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186960,
+      "name": "Suitcase",
+      "url": "https://open.spotify.com/track/12H8k9KSTKSJkn3kY70Jdb"
+    },
+    {
+      "album": {
+        "name": "Long Live The Angels (Deluxe)",
+        "url": "https://open.spotify.com/album/5dROr3bb551hRGk7cTiS8A"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199786,
+      "name": "Sweet Architect",
+      "url": "https://open.spotify.com/track/3s4yfND8fupEjSY4nVQ5VO"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "What I Did for Love (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/1YRjRHdl0aEtzHEn1uGi8k"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131440,
+      "name": "Where I Sleep",
+      "url": "https://open.spotify.com/track/6Ylfh1z3kwkQ88AvefB8rf"
+    },
+    {
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208793,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5PR5GWZf7GwZPrbfNkzHh6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdRITMyVwc9y"
 }

@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-229 songs - 16 hr 37 min
+230 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [In Front Of Your House](https://open.spotify.com/track/0rViDA4QiHTkYuzxYUEe9n) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [HIM](https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9) | 4:02 | 2021-04-21 |  |
 | [Invisible Love](https://open.spotify.com/track/5x4CcLKwNZu7gXPUSSzWKM) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [Endless Ballads](https://open.spotify.com/album/44FedgiN0rKXySN772ZYZK) | 4:10 | 2021-04-21 |  |
 | [Jasmine](https://open.spotify.com/track/3sIVEWJZYmCotuP6QpAleG) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [LEE SEUNG CHUL\-THE BEST LIVE \(WORLD TOUR\)](https://open.spotify.com/album/00KwiwUMAW7d13SUOgQhmN) | 4:32 | 2021-04-21 |  |
-| [Just Leave Me](https://open.spotify.com/track/3YN0q0v5QtNLtxKJN15cCp) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ASs7ts92epzIgCHlnJdIt) | 4:19 | 2021-04-21 |  |
+| [Just Leave Me](https://open.spotify.com/track/2Ilx3JTEgcEpWYsZhyh7kW) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NcHBdgT7kYMoa3xX6jJne) | 4:19 | 2021-04-21 |  |
+| [Just Leave Me](https://open.spotify.com/track/3YN0q0v5QtNLtxKJN15cCp) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ASs7ts92epzIgCHlnJdIt) | 4:19 | 2021-04-21 | 2024-01-10 |
 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 | 2021-04-21 |  |
 | [Last Word](https://open.spotify.com/track/6dRyBm6M2YL3MBXQgH4QDV) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Last Word](https://open.spotify.com/album/44kn7ta9X8hCv97TcmWDmr) | 4:39 | 2021-04-21 |  |
 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 | 2021-04-21 |  |
@@ -230,8 +231,8 @@
 | [추억은 사랑을 닮아](https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S) | 5:29 | 2021-04-21 |  |
 | [편지](https://open.spotify.com/track/63iyjzP7bRIOtf0SxYLziU) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [경서](https://open.spotify.com/artist/5IKE5kjQDEqRpROolvILZJ) | [Fantastic Duo Part.13](https://open.spotify.com/album/4mkv2DmvSNxeQG5PTE3keG) | 5:18 | 2021-04-21 |  |
 | [편지](https://open.spotify.com/track/7x4ZCeYY5ihBsL7mXcN4TM) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [경서](https://open.spotify.com/artist/5IKE5kjQDEqRpROolvILZJ) | [판타스틱 듀오 Part.13](https://open.spotify.com/album/2BCByuEjdYUHbCI8SbsxAU) | 5:18 | 2021-04-21 | 2023-12-02 |
-| [편지할게요](https://open.spotify.com/track/43YpsYj6YW2kDPF06CsGZR) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [사랑해 \(Part.2\)](https://open.spotify.com/album/1Qjjlnra3hF2xAKGmuJ2zQ) | 4:46 | 2021-04-21 |  |
-| [편지할게요](https://open.spotify.com/track/0jHRtgWauzb1mkANquNQ5T) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [사랑해 Pt 2](https://open.spotify.com/album/5MBUlTj7xtUnmXgNxl0Cp5) | 4:46 | 2021-04-21 | 2023-08-09 |
+| [편지할게요](https://open.spotify.com/track/43YpsYj6YW2kDPF06CsGZR) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [사랑해 \(Part.2\)](https://open.spotify.com/album/1Qjjlnra3hF2xAKGmuJ2zQ) | 4:46 | 2021-04-21 | 2024-01-15 |
+| [편지할게요](https://open.spotify.com/track/0jHRtgWauzb1mkANquNQ5T) | [Lena Park](https://open.spotify.com/artist/0haibpa9N2huTbnUiziBeF) | [사랑해 Pt 2](https://open.spotify.com/album/5MBUlTj7xtUnmXgNxl0Cp5) | 4:46 | 2021-04-21 |  |
 | [한 남자](https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:18 | 2021-04-21 |  |
 | [해줄 수 없는 일](https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN) | 4:21 | 2021-04-21 |  |
 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 | 2021-04-21 |  |

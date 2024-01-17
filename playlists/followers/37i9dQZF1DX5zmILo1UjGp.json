@@ -1,721 +1,1611 @@
 {
-  "2022-01-08": 578639,
-  "2022-01-09": 578648,
-  "2022-01-10": 578825,
-  "2022-01-11": 578939,
-  "2022-01-12": 579040,
-  "2022-01-13": 579040,
-  "2022-01-14": 579040,
-  "2022-01-15": 579040,
-  "2022-01-16": 579040,
-  "2022-01-17": 579040,
-  "2022-01-18": 579040,
-  "2022-01-19": 579040,
-  "2022-01-20": 579040,
-  "2022-01-21": 579040,
-  "2022-01-22": 579040,
-  "2022-01-23": 579040,
-  "2022-01-24": 579040,
-  "2022-01-25": 579040,
-  "2022-01-26": 579040,
-  "2022-01-27": 579040,
-  "2022-01-28": 579040,
-  "2022-01-29": 579040,
-  "2022-01-30": 579040,
-  "2022-01-31": 579040,
-  "2022-02-01": 579040,
-  "2022-02-02": 579040,
-  "2022-02-03": 579040,
-  "2022-02-04": 579040,
-  "2022-02-05": 579040,
-  "2022-02-06": 579040,
-  "2022-02-07": 579040,
-  "2022-02-08": 579040,
-  "2022-02-09": 579040,
-  "2022-02-10": 579040,
-  "2022-02-11": 579040,
-  "2022-02-12": 579040,
-  "2022-02-13": 579040,
-  "2022-02-14": 579040,
-  "2022-02-15": 579040,
-  "2022-02-16": 579040,
-  "2022-02-17": 579040,
-  "2022-02-18": 579040,
-  "2022-02-19": 579040,
-  "2022-02-20": 579040,
-  "2022-02-21": 579040,
-  "2022-02-22": 579040,
-  "2022-02-23": 579040,
-  "2022-02-24": 579040,
-  "2022-02-25": 579040,
-  "2022-02-26": 579040,
-  "2022-02-27": 579040,
-  "2022-02-28": 579040,
-  "2022-03-01": 579040,
-  "2022-03-02": 579040,
-  "2022-03-03": 579040,
-  "2022-03-04": 579040,
-  "2022-03-05": 579040,
-  "2022-03-06": 579040,
-  "2022-03-07": 579040,
-  "2022-03-08": 579040,
-  "2022-03-09": 579040,
-  "2022-03-10": 579040,
-  "2022-03-11": 579040,
-  "2022-03-12": 579040,
-  "2022-03-13": 579040,
-  "2022-03-14": 579040,
-  "2022-03-15": 579040,
-  "2022-03-16": 579040,
-  "2022-03-17": 579040,
-  "2022-03-18": 579040,
-  "2022-03-19": 579040,
-  "2022-03-20": 579040,
-  "2022-03-21": 579040,
-  "2022-03-22": 579040,
-  "2022-03-23": 579040,
-  "2022-03-24": 579040,
-  "2022-03-25": 579040,
-  "2022-03-26": 579040,
-  "2022-03-27": 579040,
-  "2022-03-28": 579040,
-  "2022-03-30": 579040,
-  "2022-03-31": 579040,
-  "2022-04-01": 579040,
-  "2022-04-02": 579040,
-  "2022-04-03": 579040,
-  "2022-04-04": 579040,
-  "2022-04-05": 579040,
-  "2022-04-06": 579040,
-  "2022-04-07": 579040,
-  "2022-04-08": 579040,
-  "2022-04-09": 579040,
-  "2022-04-10": 579040,
-  "2022-04-11": 579040,
-  "2022-04-12": 579040,
-  "2022-04-13": 579040,
-  "2022-04-14": 579040,
-  "2022-04-15": 579040,
-  "2022-04-16": 579040,
-  "2022-04-17": 579040,
-  "2022-04-18": 579040,
-  "2022-04-19": 579040,
-  "2022-04-20": 579040,
-  "2022-04-21": 579040,
-  "2022-04-22": 579040,
-  "2022-04-23": 579040,
-  "2022-04-24": 579040,
-  "2022-04-25": 579040,
-  "2022-04-26": 579040,
-  "2022-04-27": 579040,
-  "2022-04-28": 579040,
-  "2022-04-29": 579040,
-  "2022-04-30": 579040,
-  "2022-05-01": 579040,
-  "2022-05-02": 579040,
-  "2022-05-03": 579040,
-  "2022-05-04": 579040,
-  "2022-05-05": 579040,
-  "2022-05-06": 579040,
-  "2022-05-07": 579040,
-  "2022-05-08": 579040,
-  "2022-05-09": 579040,
-  "2022-05-10": 579040,
-  "2022-05-11": 579040,
-  "2022-05-12": 579040,
-  "2022-05-13": 579040,
-  "2022-05-14": 579040,
-  "2022-05-15": 579040,
-  "2022-05-16": 579040,
-  "2022-05-17": 579040,
-  "2022-05-18": 579040,
-  "2022-05-19": 579040,
-  "2022-05-20": 579040,
-  "2022-05-21": 579040,
-  "2022-05-22": 579040,
-  "2022-05-23": 579040,
-  "2022-05-24": 579040,
-  "2022-05-25": 579040,
-  "2022-05-26": 579040,
-  "2022-05-27": 579040,
-  "2022-05-28": 579040,
-  "2022-05-29": 579040,
-  "2022-05-30": 579040,
-  "2022-05-31": 579040,
-  "2022-06-01": 579040,
-  "2022-06-02": 579040,
-  "2022-06-03": 579040,
-  "2022-06-04": 579040,
-  "2022-06-05": 579040,
-  "2022-06-06": 579040,
-  "2022-06-07": 579040,
-  "2022-06-08": 579040,
-  "2022-06-09": 579040,
-  "2022-06-10": 579040,
-  "2022-06-11": 579040,
-  "2022-06-12": 579040,
-  "2022-06-13": 579040,
-  "2022-06-14": 579040,
-  "2022-06-15": 579040,
-  "2022-06-16": 579040,
-  "2022-06-17": 579040,
-  "2022-06-18": 579040,
-  "2022-06-19": 579040,
-  "2022-06-20": 579040,
-  "2022-06-21": 579040,
-  "2022-06-22": 579040,
-  "2022-06-23": 579040,
-  "2022-06-24": 579040,
-  "2022-06-25": 579040,
-  "2022-06-26": 579040,
-  "2022-06-27": 579040,
-  "2022-06-28": 579040,
-  "2022-06-29": 579040,
-  "2022-06-30": 579040,
-  "2022-07-01": 579040,
-  "2022-07-02": 579040,
-  "2022-07-03": 579040,
-  "2022-07-04": 579040,
-  "2022-07-05": 579040,
-  "2022-07-06": 579040,
-  "2022-07-07": 579040,
-  "2022-07-08": 579040,
-  "2022-07-09": 579040,
-  "2022-07-10": 579040,
-  "2022-07-11": 579040,
-  "2022-07-12": 579040,
-  "2022-07-13": 579040,
-  "2022-07-14": 579040,
-  "2022-07-15": 579040,
-  "2022-07-16": 579040,
-  "2022-07-17": 579040,
-  "2022-07-18": 579040,
-  "2022-07-19": 579040,
-  "2022-07-20": 579040,
-  "2022-07-21": 579040,
-  "2022-07-22": 579040,
-  "2022-07-23": 579040,
-  "2022-07-24": 579040,
-  "2022-07-25": 579040,
-  "2022-07-26": 579040,
-  "2022-07-27": 579040,
-  "2022-07-28": 579040,
-  "2022-07-29": 579040,
-  "2022-07-30": 579040,
-  "2022-07-31": 579040,
-  "2022-08-01": 579040,
-  "2022-08-02": 579040,
-  "2022-08-03": 579040,
-  "2022-08-04": 579040,
-  "2022-08-05": 579040,
-  "2022-08-06": 579040,
-  "2022-08-07": 579040,
-  "2022-08-08": 579040,
-  "2022-08-09": 579040,
-  "2022-08-10": 579040,
-  "2022-08-11": 579040,
-  "2022-08-12": 579040,
-  "2022-08-13": 579040,
-  "2022-08-14": 579040,
-  "2022-08-15": 579040,
-  "2022-08-16": 579040,
-  "2022-08-17": 579040,
-  "2022-08-18": 579040,
-  "2022-08-19": 579040,
-  "2022-08-20": 579040,
-  "2022-08-21": 579040,
-  "2022-08-22": 579040,
-  "2022-08-23": 579040,
-  "2022-08-24": 579040,
-  "2022-08-25": 579040,
-  "2022-08-26": 579040,
-  "2022-08-27": 579040,
-  "2022-08-28": 579040,
-  "2022-08-29": 579040,
-  "2022-08-30": 579040,
-  "2022-08-31": 579040,
-  "2022-09-01": 579040,
-  "2022-09-02": 579040,
-  "2022-09-03": 579040,
-  "2022-09-04": 579040,
-  "2022-09-05": 579040,
-  "2022-09-06": 579040,
-  "2022-09-07": 579040,
-  "2022-09-09": 579040,
-  "2022-09-10": 579040,
-  "2022-09-11": 579040,
-  "2022-09-12": 579040,
-  "2022-09-13": 579040,
-  "2022-09-15": 579040,
-  "2022-09-16": 579040,
-  "2022-09-17": 579040,
-  "2022-09-18": 579040,
-  "2022-09-19": 579040,
-  "2022-09-20": 579040,
-  "2022-09-21": 579040,
-  "2022-09-22": 579040,
-  "2022-09-23": 579040,
-  "2022-09-24": 579040,
-  "2022-09-25": 579040,
-  "2022-09-26": 579040,
-  "2022-09-27": 579040,
-  "2022-09-28": 579040,
-  "2022-09-29": 579040,
-  "2022-09-30": 579040,
-  "2022-10-01": 579040,
-  "2022-10-02": 579040,
-  "2022-10-03": 579040,
-  "2022-10-04": 579040,
-  "2022-10-05": 579040,
-  "2022-10-06": 579040,
-  "2022-10-07": 579040,
-  "2022-10-08": 579040,
-  "2022-10-09": 579040,
-  "2022-10-10": 579040,
-  "2022-10-11": 579040,
-  "2022-10-12": 579040,
-  "2022-10-13": 579040,
-  "2022-10-14": 579040,
-  "2022-10-15": 579040,
-  "2022-10-16": 579040,
-  "2022-10-17": 579040,
-  "2022-10-18": 579040,
-  "2022-10-19": 579040,
-  "2022-10-20": 579040,
-  "2022-10-21": 579040,
-  "2022-10-22": 579040,
-  "2022-10-23": 579040,
-  "2022-10-24": 579040,
-  "2022-10-25": 579040,
-  "2022-10-26": 579040,
-  "2022-10-27": 579040,
-  "2022-10-28": 579040,
-  "2022-10-29": 579040,
-  "2022-10-30": 579040,
-  "2022-10-31": 579040,
-  "2022-11-01": 579040,
-  "2022-11-02": 579040,
-  "2022-11-03": 579040,
-  "2022-11-04": 579040,
-  "2022-11-05": 579040,
-  "2022-11-06": 579040,
-  "2022-11-07": 579040,
-  "2022-11-08": 579040,
-  "2022-11-09": 579040,
-  "2022-11-10": 579040,
-  "2022-11-11": 579040,
-  "2022-11-12": 579040,
-  "2022-11-13": 579040,
-  "2022-11-14": 579040,
-  "2022-11-15": 579040,
-  "2022-11-16": 579040,
-  "2022-11-17": 579040,
-  "2022-11-18": 579040,
-  "2022-11-19": 579040,
-  "2022-11-20": 579040,
-  "2022-11-21": 579040,
-  "2022-11-22": 579040,
-  "2022-11-23": 579040,
-  "2022-11-24": 579040,
-  "2022-11-25": 579040,
-  "2022-11-26": 579040,
-  "2022-11-27": 579040,
-  "2022-11-28": 579040,
-  "2022-11-29": 579040,
-  "2022-11-30": 579040,
-  "2022-12-01": 579040,
-  "2022-12-02": 579040,
-  "2022-12-03": 579040,
-  "2022-12-04": 579040,
-  "2022-12-05": 579040,
-  "2022-12-06": 579040,
-  "2022-12-07": 579040,
-  "2022-12-08": 579040,
-  "2022-12-09": 579040,
-  "2022-12-10": 579040,
-  "2022-12-11": 579040,
-  "2022-12-12": 579040,
-  "2022-12-13": 579040,
-  "2022-12-14": 579040,
-  "2022-12-15": 579040,
-  "2022-12-16": 579040,
-  "2022-12-17": 579040,
-  "2022-12-18": 579040,
-  "2022-12-19": 579040,
-  "2022-12-20": 579040,
-  "2022-12-21": 579040,
-  "2022-12-22": 579040,
-  "2022-12-24": 579040,
-  "2022-12-25": 579040,
-  "2022-12-26": 579040,
-  "2022-12-27": 579040,
-  "2022-12-28": 579040,
-  "2022-12-29": 579040,
-  "2022-12-30": 579040,
-  "2022-12-31": 579040,
-  "2023-01-01": 579040,
-  "2023-01-02": 579040,
-  "2023-01-03": 579040,
-  "2023-01-04": 579040,
-  "2023-01-05": 579040,
-  "2023-01-06": 579040,
-  "2023-01-07": 579040,
-  "2023-01-08": 579040,
-  "2023-01-09": 579040,
-  "2023-01-10": 579040,
-  "2023-01-11": 579040,
-  "2023-01-12": 579040,
-  "2023-01-13": 579040,
-  "2023-01-14": 579040,
-  "2023-01-15": 579040,
-  "2023-01-16": 579040,
-  "2023-01-17": 579040,
-  "2023-01-18": 579040,
-  "2023-01-19": 579040,
-  "2023-01-20": 579040,
-  "2023-01-21": 579040,
-  "2023-01-22": 579040,
-  "2023-01-23": 579040,
-  "2023-01-24": 579040,
-  "2023-01-25": 579040,
-  "2023-01-26": 579040,
-  "2023-01-27": 579040,
-  "2023-01-28": 579040,
-  "2023-01-29": 579040,
-  "2023-01-30": 579040,
-  "2023-01-31": 579040,
-  "2023-02-01": 579040,
-  "2023-02-02": 579040,
-  "2023-02-03": 579040,
-  "2023-02-04": 579040,
-  "2023-02-05": 579040,
-  "2023-02-06": 579040,
-  "2023-02-07": 579040,
-  "2023-02-08": 579040,
-  "2023-02-09": 579040,
-  "2023-02-10": 579040,
-  "2023-02-11": 579040,
-  "2023-02-12": 579040,
-  "2023-02-13": 579040,
-  "2023-02-14": 579040,
-  "2023-02-15": 579040,
-  "2023-02-16": 579040,
-  "2023-02-17": 579040,
-  "2023-02-18": 579040,
-  "2023-02-19": 579040,
-  "2023-02-20": 579040,
-  "2023-02-21": 579040,
-  "2023-02-22": 579040,
-  "2023-02-23": 579040,
-  "2023-02-24": 579040,
-  "2023-02-25": 579040,
-  "2023-02-26": 579040,
-  "2023-02-27": 579040,
-  "2023-02-28": 579040,
-  "2023-03-01": 579040,
-  "2023-03-02": 579040,
-  "2023-03-03": 579040,
-  "2023-03-04": 579040,
-  "2023-03-05": 579040,
-  "2023-03-06": 579040,
-  "2023-03-07": 579040,
-  "2023-03-08": 579040,
-  "2023-03-09": 579040,
-  "2023-03-10": 579040,
-  "2023-03-11": 579040,
-  "2023-03-12": 579040,
-  "2023-03-13": 579040,
-  "2023-03-14": 579040,
-  "2023-03-15": 579040,
-  "2023-03-16": 579040,
-  "2023-03-17": 579040,
-  "2023-03-18": 579040,
-  "2023-03-19": 579040,
-  "2023-03-20": 579040,
-  "2023-03-21": 579040,
-  "2023-03-22": 579040,
-  "2023-03-23": 579040,
-  "2023-03-24": 579040,
-  "2023-03-25": 579040,
-  "2023-03-26": 579040,
-  "2023-03-27": 579040,
-  "2023-03-28": 579040,
-  "2023-03-29": 579040,
-  "2023-03-30": 579040,
-  "2023-03-31": 579040,
-  "2023-04-01": 579040,
-  "2023-04-02": 579040,
-  "2023-04-03": 579040,
-  "2023-04-04": 579040,
-  "2023-04-05": 579040,
-  "2023-04-06": 579040,
-  "2023-04-07": 579040,
-  "2023-04-09": 579040,
-  "2023-04-10": 579040,
-  "2023-04-11": 579040,
-  "2023-04-12": 579040,
-  "2023-04-13": 579040,
-  "2023-04-14": 579040,
-  "2023-04-15": 579040,
-  "2023-04-16": 579040,
-  "2023-04-17": 579040,
-  "2023-04-18": 579040,
-  "2023-04-19": 579040,
-  "2023-04-20": 579040,
-  "2023-04-21": 579040,
-  "2023-04-22": 579040,
-  "2023-04-23": 579040,
-  "2023-04-24": 579040,
-  "2023-04-25": 579040,
-  "2023-04-26": 579040,
-  "2023-04-27": 579040,
-  "2023-04-28": 579040,
-  "2023-04-29": 579040,
-  "2023-04-30": 579040,
-  "2023-05-01": 579040,
-  "2023-05-02": 579040,
-  "2023-05-03": 579040,
-  "2023-05-04": 579040,
-  "2023-05-05": 579040,
-  "2023-05-06": 579040,
-  "2023-05-07": 579040,
-  "2023-05-08": 579040,
-  "2023-05-09": 579040,
-  "2023-05-10": 579040,
-  "2023-05-11": 579040,
-  "2023-05-12": 579040,
-  "2023-05-13": 579040,
-  "2023-05-14": 579040,
-  "2023-05-15": 579040,
-  "2023-05-16": 579040,
-  "2023-05-17": 579040,
-  "2023-05-18": 579040,
-  "2023-05-19": 579040,
-  "2023-05-20": 579040,
-  "2023-05-21": 579040,
-  "2023-05-22": 579040,
-  "2023-05-23": 579040,
-  "2023-05-24": 579040,
-  "2023-05-25": 579040,
-  "2023-05-26": 579040,
-  "2023-05-27": 579040,
-  "2023-05-28": 579040,
-  "2023-05-29": 579040,
-  "2023-05-30": 579040,
-  "2023-05-31": 579040,
-  "2023-06-01": 579040,
-  "2023-06-02": 579040,
-  "2023-06-03": 579040,
-  "2023-06-04": 579040,
-  "2023-06-05": 579040,
-  "2023-06-06": 579040,
-  "2023-06-07": 579040,
-  "2023-06-08": 579040,
-  "2023-06-09": 579040,
-  "2023-06-10": 579040,
-  "2023-06-11": 579040,
-  "2023-06-12": 579040,
-  "2023-06-13": 579040,
-  "2023-06-14": 579040,
-  "2023-06-15": 579040,
-  "2023-06-16": 579040,
-  "2023-06-17": 579040,
-  "2023-06-18": 579040,
-  "2023-06-19": 579040,
-  "2023-06-20": 579040,
-  "2023-06-21": 579040,
-  "2023-06-22": 579040,
-  "2023-06-23": 579040,
-  "2023-06-24": 579040,
-  "2023-06-25": 579040,
-  "2023-06-26": 579040,
-  "2023-06-27": 579040,
-  "2023-06-28": 579040,
-  "2023-06-29": 579040,
-  "2023-06-30": 579040,
-  "2023-07-01": 579040,
-  "2023-07-02": 579040,
-  "2023-07-03": 579040,
-  "2023-07-04": 579040,
-  "2023-07-05": 579040,
-  "2023-07-06": 579040,
-  "2023-07-07": 579040,
-  "2023-07-08": 579040,
-  "2023-07-09": 579040,
-  "2023-07-10": 579040,
-  "2023-07-11": 579040,
-  "2023-07-12": 579040,
-  "2023-07-13": 579040,
-  "2023-07-14": 579040,
-  "2023-07-15": 579040,
-  "2023-07-16": 579040,
-  "2023-07-17": 579040,
-  "2023-07-18": 579040,
-  "2023-07-19": 579040,
-  "2023-07-20": 579040,
-  "2023-07-21": 579040,
-  "2023-07-22": 579040,
-  "2023-07-23": 579040,
-  "2023-07-24": 579040,
-  "2023-07-25": 579040,
-  "2023-07-26": 579040,
-  "2023-07-27": 579040,
-  "2023-07-28": 579040,
-  "2023-07-29": 579040,
-  "2023-07-30": 579040,
-  "2023-07-31": 579040,
-  "2023-08-01": 579040,
-  "2023-08-02": 579040,
-  "2023-08-03": 579040,
-  "2023-08-04": 579040,
-  "2023-08-05": 579040,
-  "2023-08-06": 579040,
-  "2023-08-07": 579040,
-  "2023-08-08": 579040,
-  "2023-08-09": 579040,
-  "2023-08-10": 579040,
-  "2023-08-11": 579040,
-  "2023-08-12": 579040,
-  "2023-08-13": 579040,
-  "2023-08-14": 579040,
-  "2023-08-15": 579040,
-  "2023-08-16": 579040,
-  "2023-08-17": 579040,
-  "2023-08-18": 579040,
-  "2023-08-19": 579040,
-  "2023-08-20": 579040,
-  "2023-08-21": 579040,
-  "2023-08-22": 579040,
-  "2023-08-23": 579040,
-  "2023-08-24": 579040,
-  "2023-08-25": 579040,
-  "2023-08-26": 579040,
-  "2023-08-27": 579040,
-  "2023-08-28": 579040,
-  "2023-08-29": 579040,
-  "2023-08-30": 579040,
-  "2023-08-31": 579040,
-  "2023-09-01": 579040,
-  "2023-09-02": 579040,
-  "2023-09-03": 579040,
-  "2023-09-04": 579040,
-  "2023-09-05": 579040,
-  "2023-09-06": 579040,
-  "2023-09-07": 579040,
-  "2023-09-08": 579040,
-  "2023-09-09": 579040,
-  "2023-09-10": 579040,
-  "2023-09-11": 579040,
-  "2023-09-12": 579040,
-  "2023-09-13": 579040,
-  "2023-09-14": 579040,
-  "2023-09-15": 579040,
-  "2023-09-16": 579040,
-  "2023-09-17": 579040,
-  "2023-09-18": 579040,
-  "2023-09-19": 579040,
-  "2023-09-20": 579040,
-  "2023-09-21": 579040,
-  "2023-09-22": 579040,
-  "2023-09-23": 579040,
-  "2023-09-24": 579040,
-  "2023-09-25": 579040,
-  "2023-09-26": 579040,
-  "2023-09-27": 579040,
-  "2023-09-28": 579040,
-  "2023-09-29": 579040,
-  "2023-09-30": 579040,
-  "2023-10-01": 579040,
-  "2023-10-02": 579040,
-  "2023-10-03": 579040,
-  "2023-10-04": 579040,
-  "2023-10-05": 579040,
-  "2023-10-06": 579040,
-  "2023-10-07": 579040,
-  "2023-10-08": 579040,
-  "2023-10-09": 579040,
-  "2023-10-10": 579040,
-  "2023-10-11": 579040,
-  "2023-10-12": 579040,
-  "2023-10-13": 579040,
-  "2023-10-14": 579040,
-  "2023-10-15": 579040,
-  "2023-10-16": 579040,
-  "2023-10-17": 579040,
-  "2023-10-18": 579040,
-  "2023-10-19": 579040,
-  "2023-10-20": 579040,
-  "2023-10-21": 579040,
-  "2023-10-22": 579040,
-  "2023-10-23": 579040,
-  "2023-10-24": 579040,
-  "2023-10-25": 579040,
-  "2023-10-26": 579040,
-  "2023-10-27": 579040,
-  "2023-10-28": 579040,
-  "2023-10-29": 579040,
-  "2023-10-30": 579040,
-  "2023-10-31": 579040,
-  "2023-11-01": 579040,
-  "2023-11-02": 579040,
-  "2023-11-03": 579040,
-  "2023-11-04": 579040,
-  "2023-11-05": 579040,
-  "2023-11-06": 579040,
-  "2023-11-07": 579040,
-  "2023-11-08": 579040,
-  "2023-11-09": 579040,
-  "2023-11-10": 579040,
-  "2023-11-11": 579040,
-  "2023-11-12": 579040,
-  "2023-11-13": 579040,
-  "2023-11-14": 579040,
-  "2023-11-15": 579040,
-  "2023-11-16": 579040,
-  "2023-11-17": 579040,
-  "2023-11-18": 579040,
-  "2023-11-19": 579040,
-  "2023-11-20": 579040,
-  "2023-11-21": 579040,
-  "2023-11-22": 579040,
-  "2023-11-23": 579040,
-  "2023-11-24": 579040,
-  "2023-11-25": 579040,
-  "2023-11-26": 579040,
-  "2023-11-27": 579040,
-  "2023-11-28": 579040,
-  "2023-11-29": 579040,
-  "2023-11-30": 579040,
-  "2023-12-01": 579040,
-  "2023-12-02": 579040,
-  "2023-12-03": 579040,
-  "2023-12-04": 579040,
-  "2023-12-05": 579040,
-  "2023-12-06": 579040,
-  "2023-12-07": 579040,
-  "2023-12-08": 579040,
-  "2023-12-09": 579040,
-  "2023-12-10": 579040,
-  "2023-12-11": 579040,
-  "2023-12-12": 579040,
-  "2023-12-13": 579040,
-  "2023-12-14": 579040,
-  "2023-12-15": 579040,
-  "2023-12-16": 579040,
-  "2023-12-17": 579040,
-  "2023-12-18": 579040,
-  "2023-12-19": 579040,
-  "2023-12-20": 579040,
-  "2023-12-21": 579040,
-  "2023-12-22": 579040,
-  "2023-12-23": 579040,
-  "2023-12-24": 579040,
-  "2023-12-25": 579040,
-  "2023-12-26": 579040,
-  "2023-12-27": 579040,
-  "2023-12-30": 579040,
-  "2023-12-31": 579040,
-  "2024-01-01": 579040,
-  "2024-01-02": 579040,
-  "2024-01-03": 579040
+  "2024-01-17": 579040,
+  "date_first_scraped": "2022-01-09",
+  "description": "Escucha todos los \u00e9xitos de Reik en un s\u00f3lo lugar.",
+  "name": "This Is Reik",
+  "tracks": [
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "A Ciegas",
+      "url": "https://open.spotify.com/track/4AGGJFKN0TJWM5UcDuuykF"
+    },
+    {
+      "album": {
+        "name": "A Un Paso De La Luna (Remix)",
+        "url": "https://open.spotify.com/album/7uqAed3H0PhUrLDoyVATh8"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194262,
+      "name": "A Un Paso De La Luna - Remix",
+      "url": "https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv"
+    },
+    {
+      "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Ahora Sin Ti",
+      "url": "https://open.spotify.com/track/19rOKybz13RIbraQ2Jyr9e"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Felix y Gil",
+          "url": "https://open.spotify.com/artist/7MR6yLDtEYaexKuStfsDUy"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195533,
+      "name": "Al Fin Est\u00e1s Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5WLUaYou0GTWgTfRDhf178"
+    },
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Aleluya",
+      "url": "https://open.spotify.com/track/23CsjGOYDQiJpX44BSn9TM"
+    },
+    {
+      "album": {
+        "name": "Amigos Con Derechos",
+        "url": "https://open.spotify.com/album/3qX5J1RkaFxSXEqRc8Qzmo"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227476,
+      "name": "Amigos Con Derechos",
+      "url": "https://open.spotify.com/track/2zDj4WjbNDmrRL6Z4YjjCA"
+    },
+    {
+      "album": {
+        "name": "Amigos Con Derechos (Versi\u00f3n Pop)",
+        "url": "https://open.spotify.com/album/0kgDu06HbiED3MkVxZR7cq"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235457,
+      "name": "Amigos Con Derechos - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/2Xf2AJyIaLVHOVxeoqLTtB"
+    },
+    {
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226946,
+      "name": "Amor Primero",
+      "url": "https://open.spotify.com/track/71d3PAZh1NiepBoyNJN9ZT"
+    },
+    {
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233840,
+      "name": "Cada Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4tVeDEytCeyeWmLrZdktGK"
+    },
+    {
+      "album": {
+        "name": "Ciego",
+        "url": "https://open.spotify.com/album/7pC6Kvwy5knA9qbNCSzDMs"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Ciego",
+      "url": "https://open.spotify.com/track/5vNocq26ujTMI4L8bECuGk"
+    },
+    {
+      "album": {
+        "name": "Color Esperanza 2020",
+        "url": "https://open.spotify.com/album/6EZE5e3vBZZkSsnyn1g1gb"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Jorge Villamizar",
+          "url": "https://open.spotify.com/artist/3zPWcnruZBNnrd22uS8UBy"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        },
+        {
+          "name": "Ara Malikian",
+          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217546,
+      "name": "Color Esperanza 2020",
+      "url": "https://open.spotify.com/track/3eSJmGWqoBRx5wbFCtvPtz"
+    },
+    {
+      "album": {
+        "name": "Reik En Vivo Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3nFMhhRvntmafaNnxJqcYX"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Con la Cara en Alto",
+      "url": "https://open.spotify.com/track/6Gi3JimL6FXu2lkyTAIRxE"
+    },
+    {
+      "album": {
+        "name": "Reik En Vivo Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3nFMhhRvntmafaNnxJqcYX"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223986,
+      "name": "Con la Cara en Alto - Versi\u00f3n Cello",
+      "url": "https://open.spotify.com/track/4Kop7QlU0RFhOPQAO3MEnd"
+    },
+    {
+      "album": {
+        "name": "Con la Falta Que Me Haces",
+        "url": "https://open.spotify.com/album/6au2RlG5v26y1S5axAEmWw"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164380,
+      "name": "Con la Falta Que Me Haces",
+      "url": "https://open.spotify.com/track/04HbA6XyuQ5MduWJUPmwiP"
+    },
+    {
+      "album": {
+        "name": "Con la Falta Que Me Haces (Con Grupo Firme)",
+        "url": "https://open.spotify.com/album/5IQTxc6Se8vZsoZXCvm36h"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224039,
+      "name": "Con la Falta Que Me Haces - Con Grupo Firme",
+      "url": "https://open.spotify.com/track/47pxVljvHqhBjmT126bSgX"
+    },
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0FHNqVPxu14WivXR4Y2hFr"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e1ntas Veces",
+        "url": "https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194127,
+      "name": "Cu\u00e1ntas Veces",
+      "url": "https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "De Rodillas",
+      "url": "https://open.spotify.com/track/0Co5gTHVp54QyEQw5yPrd7"
+    },
+    {
+      "album": {
+        "name": "Dime (feat. Reik)",
+        "url": "https://open.spotify.com/album/5VPZBUJVOZQAzPSpCcRGUl"
+      },
+      "artists": [
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205430,
+      "name": "Dime (feat. Reik)",
+      "url": "https://open.spotify.com/track/1Bmh8yjfnE21YbWC9orEai"
+    },
+    {
+      "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/0gTAsJ7rKWbnHrZg8mOHVV"
+      },
+      "artists": [
+        {
+          "name": "Dvicio",
+          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219189,
+      "name": "DOSIS",
+      "url": "https://open.spotify.com/track/0cDumxvNKhydP1Cmon2S6E"
+    },
+    {
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/33nh5PW5ABzuy0JmKxREh8"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238360,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/3NncP0ajz9lqYAZcQD7Bpo"
+    },
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250466,
+      "name": "D\u00e9jame Ir",
+      "url": "https://open.spotify.com/track/3kaTlm05Rri4cWnSOXd344"
+    },
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196333,
+      "name": "D\u00e9jate Llevar",
+      "url": "https://open.spotify.com/track/6Vzl1dv9B6qgaHg8OnvpZF"
+    },
+    {
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197393,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5"
+    },
+    {
+      "album": {
+        "name": "Eres T\u00fa",
+        "url": "https://open.spotify.com/album/5fMxsjcd2Gr3bjYy938V5T"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218232,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/4tRFdhdqMUkGfnAkis3lNv"
+    },
+    {
+      "album": {
+        "name": "Un Dia Mas (Edicion Especial)",
+        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "Fui",
+      "url": "https://open.spotify.com/track/1LmncqvV0ozgnPSocwdcRd"
+    },
+    {
+      "album": {
+        "name": "Haz Lo Que Quieras",
+        "url": "https://open.spotify.com/album/0DAzZb56XTRFZYgQQIBwP8"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231644,
+      "name": "Haz Lo Que Quieras",
+      "url": "https://open.spotify.com/track/6VxuSFyAV3AjGsmI4GQq8d"
+    },
+    {
+      "album": {
+        "name": "H\u00e1blame de Ti",
+        "url": "https://open.spotify.com/album/1LDz5uxz33TEzU9MCTzR9M"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192639,
+      "name": "H\u00e1blame de Ti",
+      "url": "https://open.spotify.com/track/1mXOBUGR84wGUjREyuYpB8"
+    },
+    {
+      "album": {
+        "name": "Indeciso",
+        "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217253,
+      "name": "Indeciso",
+      "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
+    },
+    {
+      "album": {
+        "name": "Un Dia Mas (Edicion Especial)",
+        "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222986,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/22seP38foydqUMp5Fvkcjm"
+    },
+    {
+      "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215773,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/5saQ13jGnI9vZzZ1nQFKrn"
+    },
+    {
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186359,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+    },
+    {
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236093,
+      "name": "Levemente",
+      "url": "https://open.spotify.com/track/7GubkaSMg7K4qd2LsKMIKj"
+    },
+    {
+      "album": {
+        "name": "Lo Intent\u00e9 Todo",
+        "url": "https://open.spotify.com/album/0r18uYl5JRCEPLsLqdDEB2"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204044,
+      "name": "Lo Intent\u00e9 Todo",
+      "url": "https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor Ya Va a Venir",
+        "url": "https://open.spotify.com/album/4xovCT9uO3N77kOXQDUkjt"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217030,
+      "name": "Lo Mejor Ya Va a Venir",
+      "url": "https://open.spotify.com/track/7cWAsseBaEkWa19fRlQZls"
+    },
+    {
+      "album": {
+        "name": "Loquita",
+        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199551,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
+    },
+    {
+      "album": {
+        "name": "Los Tragos",
+        "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Los Tragos",
+      "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
+    },
+    {
+      "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192973,
+      "name": "Me Duele Amarte",
+      "url": "https://open.spotify.com/track/2VLcpwzuZVSZQUCQDQRM8n"
+    },
+    {
+      "album": {
+        "name": "Me Niego (feat. Ozuna & Wisin)",
+        "url": "https://open.spotify.com/album/1QsrAiIvA7njuEMwP9poqt"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221653,
+      "name": "Me Niego (feat. Ozuna & Wisin)",
+      "url": "https://open.spotify.com/track/6jA8JUuPCGYjFcgw0AoM5T"
+    },
+    {
+      "album": {
+        "name": "Me Niego (Versi\u00f3n Pop) (feat. Ozuna & Wisin)",
+        "url": "https://open.spotify.com/album/0qOtvxOd0UeRwBlbyUd0VT"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253986,
+      "name": "Me Niego (Versi\u00f3n Pop) (feat. Ozuna & Wisin)",
+      "url": "https://open.spotify.com/track/1UF1mEUnXlSznLSML0BKEm"
+    },
+    {
+      "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219230,
+      "name": "Mi \u00daltima Canci\u00f3n (feat. Reik)",
+      "url": "https://open.spotify.com/track/1bYlEvCQVPNKXU4MmhByR6"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Que Suerte (feat. Jes\u00fas Navarro)",
+        "url": "https://open.spotify.com/album/11ltZUM4iFO3N7ZOmVJ5zZ"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Luengo",
+          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
+        },
+        {
+          "name": "Jes\u00fas Navarro",
+          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204959,
+      "name": "M\u00e1s Que Suerte (feat. Jes\u00fas Navarro)",
+      "url": "https://open.spotify.com/track/5KUaLrnJZrdUMbggfu7I4m"
+    },
+    {
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171426,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4jKlF0cSp9v3c6fLI7LDZ5"
+    },
+    {
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203226,
+      "name": "Noviembre Sin Ti",
+      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175146,
+      "name": "N\u00e1ufragos",
+      "url": "https://open.spotify.com/track/76HDEgJO37r9pM0u9QW4ZD"
+    },
+    {
+      "album": {
+        "name": "One More Time - Special Mini Album",
+        "url": "https://open.spotify.com/album/6caW8rU3a8QvNvSirSMVgc"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186468,
+      "name": "One More Time (Otra Vez)",
+      "url": "https://open.spotify.com/track/4devzi1cnXZsCbiisursmF"
+    },
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/5Giq7ViIXKkTtxOhzPY2Qf"
+    },
+    {
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174932,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
+    },
+    {
+      "album": {
+        "name": "Pero Te Conoc\u00ed",
+        "url": "https://open.spotify.com/album/7nv6eLXbM7wGEXmjwh2djL"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186870,
+      "name": "Pero Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/3GoZFM9oqXO68BQXBA1Czv"
+    },
+    {
+      "album": {
+        "name": "Poco",
+        "url": "https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225705,
+      "name": "Poco",
+      "url": "https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb"
+    },
+    {
+      "album": {
+        "name": "Poco (Versi\u00f3n Pop)",
+        "url": "https://open.spotify.com/album/0mjZI4wov0t0CRlbKKGuqr"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173098,
+      "name": "Poco - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/4DAWpeE7iV2vJ6dL4SVPCo"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207186,
+      "name": "Qu\u00e9 Gano Olvid\u00e1ndote",
+      "url": "https://open.spotify.com/track/7iXRsjttPa62GpOcqsx1aE"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Gano Olvid\u00e1ndote (feat. Zion & Lennox) [Versi\u00f3n Urbana]",
+        "url": "https://open.spotify.com/album/6KWa3KnDP6yMEvMY9G26jh"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "Qu\u00e9 Gano Olvid\u00e1ndote (feat. Zion & Lennox) - Versi\u00f3n Urbana",
+      "url": "https://open.spotify.com/track/3H179O48ynsu9q8LOnFQZY"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Tienes T\u00fa (feat. Jes\u00fas de Reik & Mau y Ricky)",
+        "url": "https://open.spotify.com/album/694hCUyeR4sSjV7J1mu0dO"
+      },
+      "artists": [
+        {
+          "name": "Dvicio",
+          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+        },
+        {
+          "name": "Jes\u00fas Reik",
+          "url": "https://open.spotify.com/artist/5W9RX9DoA3MSvQGnoIgs7X"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212348,
+      "name": "Qu\u00e9 Tienes T\u00fa (feat. Jes\u00fas de Reik & Mau y Ricky)",
+      "url": "https://open.spotify.com/track/4txQPJDlvU72lC6EMhT7m9"
+    },
+    {
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171320,
+      "name": "Qu\u00e9 Vida la M\u00eda",
+      "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
+    },
+    {
+      "album": {
+        "name": "Resulta",
+        "url": "https://open.spotify.com/album/1EVNFuSiztmP2u92SIwwqd"
+      },
+      "artists": [
+        {
+          "name": "RIKI",
+          "url": "https://open.spotify.com/artist/1DyU8JVejfDzqXo9x2mFfQ"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Resulta",
+      "url": "https://open.spotify.com/track/1vKpHTveVVpoGs4ti0hsFW"
+    },
+    {
+      "album": {
+        "name": "R\u00e1ptame",
+        "url": "https://open.spotify.com/album/29gllJ3zBEJxU1IWkgB8Bk"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199088,
+      "name": "R\u00e1ptame",
+      "url": "https://open.spotify.com/track/0I6syWcqSUsZ3sXJEOIGsj"
+    },
+    {
+      "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
+    },
+    {
+      "album": {
+        "name": "Si Me Dices Que S\u00ed",
+        "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211651,
+      "name": "Si Me Dices Que S\u00ed",
+      "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
+    },
+    {
+      "album": {
+        "name": "Si Me Dices Que S\u00ed (feat. Camilo) [R3HAB Remix]",
+        "url": "https://open.spotify.com/album/6i2maKWlX3CxMAeXotdTPu"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186116,
+      "name": "Si Me Dices Que S\u00ed (feat. Camilo) - R3HAB Remix",
+      "url": "https://open.spotify.com/track/4qluwGB0E43AJFDcuQwKKV"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Spanglish",
+      "url": "https://open.spotify.com/track/0hK00jnhGedTmIg6jvGsK6"
+    },
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223786,
+      "name": "Te Fuiste de Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0832pFK9N12P1B0nuaUb2Z"
+    },
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/0ITiP8ZhU0kDc4O6KWV8Hv"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212946,
+      "name": "Un Amor de Verdad",
+      "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199920,
+      "name": "Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/6UwB2R8I5LoUmmYc0mphdl"
+    },
+    {
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0kPaQoi0n0f3qANfYoxyVF"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209960,
+      "name": "V\u00e1monos Lejos",
+      "url": "https://open.spotify.com/track/47gaisgXjBPPFahH5Bs2Ro"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "We Only Have Tonight",
+      "url": "https://open.spotify.com/track/52NXDTfHit8un7rFldo3hQ"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+    },
+    {
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219226,
+      "name": "Ya Me Enter\u00e9 (feat. Nicky Jam) - Urban Version",
+      "url": "https://open.spotify.com/track/2SSYqDX8KTgy01NlqtUo0F"
+    },
+    {
+      "album": {
+        "name": "Ya Veremos (English Version)",
+        "url": "https://open.spotify.com/album/3TaKSJeT73HCTdSJ3Fpvc3"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165123,
+      "name": "Ya Veremos - English Version",
+      "url": "https://open.spotify.com/track/7jjddqTZmVVNZzLM5RJtki"
+    },
+    {
+      "album": {
+        "name": "Yo No S\u00e9 (Remix)",
+        "url": "https://open.spotify.com/album/4wLbxT1y2DINPAdnJHVEpq"
+      },
+      "artists": [
+        {
+          "name": "Mati G\u00f3mez",
+          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Yo No S\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/26KXzccmVWEgNidxH4XiO3"
+    },
+    {
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217986,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/2GSr8anleCXKLNjjjijoMZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5zmILo1UjGp"
 }

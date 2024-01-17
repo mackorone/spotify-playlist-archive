@@ -5606,6 +5606,24 @@
     {
       "album": {
         "name": "Moya",
+        "url": "https://open.spotify.com/album/1LuwaqnAQtmW6yjViz5wHG"
+      },
+      "artists": [
+        {
+          "name": "Morena",
+          "url": "https://open.spotify.com/artist/1e9EVXjjycz6jn201oEJTI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478021,
+      "name": "Moya",
+      "url": "https://open.spotify.com/track/7gYMqL0qPmP5rg6UMrjh06"
+    },
+    {
+      "album": {
+        "name": "Moya",
         "url": "https://open.spotify.com/album/5ZGoooiMAjYiPdU0sDaby6"
       },
       "artists": [
@@ -6262,6 +6280,28 @@
       "duration_ms": 474616,
       "name": "Nomada",
       "url": "https://open.spotify.com/track/4Om4hcaPAyltvB2vujUzjj"
+    },
+    {
+      "album": {
+        "name": "Normalize",
+        "url": "https://open.spotify.com/album/4QR8sCmgq6WvKY9ia86O8p"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "NAE (SA)",
+          "url": "https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333559,
+      "name": "Normalize",
+      "url": "https://open.spotify.com/track/2hyqsTz3yVbiEvPOhXHuBZ"
     },
     {
       "album": {

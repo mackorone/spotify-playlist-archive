@@ -1,621 +1,1925 @@
 {
-  "2022-04-19": 637840,
-  "2022-04-20": 644690,
-  "2022-04-21": 651410,
-  "2022-04-22": 658311,
-  "2022-04-23": 665697,
-  "2022-04-24": 672257,
-  "2022-04-25": 678727,
-  "2022-04-26": 684764,
-  "2022-04-27": 691669,
-  "2022-04-28": 696428,
-  "2022-04-29": 703676,
-  "2022-04-30": 708148,
-  "2022-05-01": 712987,
-  "2022-05-02": 712987,
-  "2022-05-03": 716740,
-  "2022-05-04": 720425,
-  "2022-05-05": 724223,
-  "2022-05-06": 727542,
-  "2022-05-07": 731313,
-  "2022-05-08": 735729,
-  "2022-05-09": 736293,
-  "2022-05-10": 738933,
-  "2022-05-11": 741461,
-  "2022-05-12": 744041,
-  "2022-05-13": 746502,
-  "2022-05-14": 749119,
-  "2022-05-15": 751164,
-  "2022-05-16": 753134,
-  "2022-05-17": 755220,
-  "2022-05-18": 757763,
-  "2022-05-19": 759993,
-  "2022-05-20": 762238,
-  "2022-05-21": 765225,
-  "2022-05-22": 765225,
-  "2022-05-23": 766844,
-  "2022-05-24": 768476,
-  "2022-05-25": 770169,
-  "2022-05-26": 771788,
-  "2022-05-27": 773343,
-  "2022-05-28": 774816,
-  "2022-05-29": 776190,
-  "2022-05-30": 777744,
-  "2022-05-31": 779191,
-  "2022-06-01": 782042,
-  "2022-06-02": 782292,
-  "2022-06-03": 783487,
-  "2022-06-04": 784897,
-  "2022-06-05": 787246,
-  "2022-06-06": 789343,
-  "2022-06-07": 791310,
-  "2022-06-08": 793507,
-  "2022-06-09": 794845,
-  "2022-06-10": 796186,
-  "2022-06-11": 797357,
-  "2022-06-12": 798430,
-  "2022-06-13": 799495,
-  "2022-06-14": 800469,
-  "2022-06-15": 801622,
-  "2022-06-16": 802606,
-  "2022-06-17": 803560,
-  "2022-06-18": 804539,
-  "2022-06-19": 806334,
-  "2022-06-20": 806334,
-  "2022-06-21": 807183,
-  "2022-06-22": 808886,
-  "2022-06-23": 808886,
-  "2022-06-24": 809672,
-  "2022-06-25": 810459,
-  "2022-06-26": 811266,
-  "2022-06-27": 812014,
-  "2022-06-28": 812719,
-  "2022-06-29": 813506,
-  "2022-06-30": 814249,
-  "2022-07-01": 815055,
-  "2022-07-02": 815853,
-  "2022-07-03": 816559,
-  "2022-07-04": 817262,
-  "2022-07-05": 817856,
-  "2022-07-06": 818608,
-  "2022-07-07": 819292,
-  "2022-07-08": 820020,
-  "2022-07-09": 820649,
-  "2022-07-10": 821245,
-  "2022-07-11": 821847,
-  "2022-07-12": 822417,
-  "2022-07-13": 823009,
-  "2022-07-14": 823654,
-  "2022-07-15": 824339,
-  "2022-07-16": 824949,
-  "2022-07-17": 825582,
-  "2022-07-18": 826185,
-  "2022-07-19": 826774,
-  "2022-07-20": 827374,
-  "2022-07-21": 828085,
-  "2022-07-22": 828904,
-  "2022-07-23": 829661,
-  "2022-07-24": 830452,
-  "2022-07-25": 831100,
-  "2022-07-26": 831833,
-  "2022-07-27": 832552,
-  "2022-07-28": 833271,
-  "2022-07-29": 833960,
-  "2022-07-30": 835258,
-  "2022-07-31": 835258,
-  "2022-08-01": 835858,
-  "2022-08-02": 837175,
-  "2022-08-03": 837175,
-  "2022-08-04": 837804,
-  "2022-08-05": 838395,
-  "2022-08-06": 838986,
-  "2022-08-07": 839609,
-  "2022-08-08": 840196,
-  "2022-08-09": 840808,
-  "2022-08-10": 841438,
-  "2022-08-11": 841993,
-  "2022-08-12": 842612,
-  "2022-08-13": 843196,
-  "2022-08-14": 843727,
-  "2022-08-15": 844277,
-  "2022-08-16": 844812,
-  "2022-08-17": 845360,
-  "2022-08-18": 845942,
-  "2022-08-19": 846575,
-  "2022-08-20": 847089,
-  "2022-08-21": 847653,
-  "2022-08-22": 848122,
-  "2022-08-23": 848574,
-  "2022-08-24": 849017,
-  "2022-08-25": 849536,
-  "2022-08-26": 850024,
-  "2022-08-27": 850573,
-  "2022-08-28": 851079,
-  "2022-08-29": 851470,
-  "2022-08-30": 851827,
-  "2022-08-31": 852110,
-  "2022-09-01": 852373,
-  "2022-09-02": 852688,
-  "2022-09-03": 852835,
-  "2022-09-04": 853073,
-  "2022-09-05": 853521,
-  "2022-09-06": 853997,
-  "2022-09-07": 854448,
-  "2022-09-09": 855410,
-  "2022-09-10": 855967,
-  "2022-09-11": 856459,
-  "2022-09-12": 856885,
-  "2022-09-13": 857337,
-  "2022-09-15": 858163,
-  "2022-09-16": 858668,
-  "2022-09-17": 859074,
-  "2022-09-18": 859592,
-  "2022-09-19": 860066,
-  "2022-09-20": 860420,
-  "2022-09-21": 860755,
-  "2022-09-22": 861215,
-  "2022-09-23": 861614,
-  "2022-09-24": 861974,
-  "2022-09-25": 862365,
-  "2022-09-26": 862813,
-  "2022-09-27": 863232,
-  "2022-09-28": 863635,
-  "2022-09-29": 864093,
-  "2022-09-30": 864523,
-  "2022-10-01": 864991,
-  "2022-10-02": 865408,
-  "2022-10-03": 865726,
-  "2022-10-04": 866124,
-  "2022-10-05": 866495,
-  "2022-10-06": 866963,
-  "2022-10-07": 867403,
-  "2022-10-08": 867848,
-  "2022-10-09": 868463,
-  "2022-10-10": 868545,
-  "2022-10-11": 868944,
-  "2022-10-12": 869297,
-  "2022-10-13": 869667,
-  "2022-10-14": 870102,
-  "2022-10-15": 870461,
-  "2022-10-16": 870831,
-  "2022-10-17": 871176,
-  "2022-10-18": 871593,
-  "2022-10-19": 871923,
-  "2022-10-20": 872325,
-  "2022-10-21": 872690,
-  "2022-10-22": 872925,
-  "2022-10-23": 873248,
-  "2022-10-24": 873512,
-  "2022-10-25": 873810,
-  "2022-10-26": 874132,
-  "2022-10-27": 874478,
-  "2022-10-28": 874795,
-  "2022-10-29": 875072,
-  "2022-10-30": 875358,
-  "2022-10-31": 875598,
-  "2022-11-01": 875900,
-  "2022-11-02": 876162,
-  "2022-11-03": 876533,
-  "2022-11-04": 876890,
-  "2022-11-05": 877206,
-  "2022-11-06": 877493,
-  "2022-11-07": 877789,
-  "2022-11-08": 878128,
-  "2022-11-09": 878530,
-  "2022-11-10": 878909,
-  "2022-11-11": 879296,
-  "2022-11-12": 879666,
-  "2022-11-13": 879941,
-  "2022-11-14": 880306,
-  "2022-11-15": 880646,
-  "2022-11-16": 880953,
-  "2022-11-17": 881322,
-  "2022-11-18": 881264,
-  "2022-11-19": 881013,
-  "2022-11-20": 881570,
-  "2022-11-21": 881849,
-  "2022-11-22": 882142,
-  "2022-11-23": 881864,
-  "2022-11-24": 883177,
-  "2022-11-25": 883686,
-  "2022-11-26": 884030,
-  "2022-11-27": 884267,
-  "2022-11-28": 884612,
-  "2022-11-29": 884913,
-  "2022-11-30": 885211,
-  "2022-12-01": 885349,
-  "2022-12-02": 885562,
-  "2022-12-03": 885927,
-  "2022-12-04": 886189,
-  "2022-12-05": 886532,
-  "2022-12-06": 886801,
-  "2022-12-07": 887126,
-  "2022-12-08": 887453,
-  "2022-12-09": 887814,
-  "2022-12-10": 888246,
-  "2022-12-11": 888616,
-  "2022-12-12": 888885,
-  "2022-12-13": 889181,
-  "2022-12-14": 889542,
-  "2022-12-15": 889888,
-  "2022-12-16": 890201,
-  "2022-12-17": 890436,
-  "2022-12-18": 890759,
-  "2022-12-19": 890997,
-  "2022-12-20": 891473,
-  "2022-12-21": 891473,
-  "2022-12-22": 891698,
-  "2022-12-24": 892160,
-  "2022-12-25": 892386,
-  "2022-12-26": 892550,
-  "2022-12-27": 892801,
-  "2022-12-28": 893036,
-  "2022-12-29": 893234,
-  "2022-12-30": 893511,
-  "2022-12-31": 893731,
-  "2023-01-01": 893946,
-  "2023-01-02": 894138,
-  "2023-01-03": 894452,
-  "2023-01-04": 894757,
-  "2023-01-05": 895115,
-  "2023-01-06": 895573,
-  "2023-01-07": 896154,
-  "2023-01-08": 896252,
-  "2023-01-09": 896543,
-  "2023-01-10": 896940,
-  "2023-01-11": 897281,
-  "2023-01-12": 897689,
-  "2023-01-13": 898125,
-  "2023-01-14": 898843,
-  "2023-01-15": 898959,
-  "2023-01-16": 899321,
-  "2023-01-17": 899728,
-  "2023-01-18": 900154,
-  "2023-01-19": 900594,
-  "2023-01-20": 900995,
-  "2023-01-21": 901377,
-  "2023-01-22": 901851,
-  "2023-01-23": 902370,
-  "2023-01-24": 902849,
-  "2023-01-25": 903227,
-  "2023-01-26": 903676,
-  "2023-01-27": 904110,
-  "2023-01-28": 904497,
-  "2023-01-29": 904906,
-  "2023-01-30": 905309,
-  "2023-01-31": 905309,
-  "2023-02-01": 906212,
-  "2023-02-02": 906674,
-  "2023-02-03": 907176,
-  "2023-02-04": 907687,
-  "2023-02-05": 908181,
-  "2023-02-06": 908731,
-  "2023-02-07": 909205,
-  "2023-02-08": 910177,
-  "2023-02-09": 910177,
-  "2023-02-10": 910759,
-  "2023-02-11": 911235,
-  "2023-02-12": 912142,
-  "2023-02-13": 912576,
-  "2023-02-14": 912576,
-  "2023-02-15": 913062,
-  "2023-02-16": 913560,
-  "2023-02-17": 914104,
-  "2023-02-18": 915041,
-  "2023-02-19": 915120,
-  "2023-02-20": 915551,
-  "2023-02-21": 916054,
-  "2023-02-22": 916567,
-  "2023-02-23": 916977,
-  "2023-02-24": 917464,
-  "2023-02-25": 918102,
-  "2023-02-26": 918497,
-  "2023-02-27": 919484,
-  "2023-02-28": 919484,
-  "2023-03-01": 919878,
-  "2023-03-02": 920447,
-  "2023-03-03": 921066,
-  "2023-03-04": 921547,
-  "2023-03-05": 922512,
-  "2023-03-06": 922512,
-  "2023-03-07": 923018,
-  "2023-03-08": 923511,
-  "2023-03-09": 924009,
-  "2023-03-10": 924481,
-  "2023-03-11": 924970,
-  "2023-03-12": 925448,
-  "2023-03-13": 926031,
-  "2023-03-14": 926658,
-  "2023-03-15": 927219,
-  "2023-03-16": 927666,
-  "2023-03-17": 927666,
-  "2023-03-18": 928574,
-  "2023-03-19": 928960,
-  "2023-03-20": 929384,
-  "2023-03-21": 929832,
-  "2023-03-22": 930227,
-  "2023-03-23": 930602,
-  "2023-03-24": 930602,
-  "2023-03-25": 931565,
-  "2023-03-26": 932016,
-  "2023-03-27": 932514,
-  "2023-03-28": 933032,
-  "2023-03-29": 933613,
-  "2023-03-30": 934563,
-  "2023-03-31": 934563,
-  "2023-04-01": 934997,
-  "2023-04-02": 935481,
-  "2023-04-03": 935958,
-  "2023-04-04": 936447,
-  "2023-04-05": 936966,
-  "2023-04-06": 937428,
-  "2023-04-07": 937852,
-  "2023-04-09": 938678,
-  "2023-04-10": 939088,
-  "2023-04-11": 939936,
-  "2023-04-12": 939936,
-  "2023-04-13": 940361,
-  "2023-04-14": 940869,
-  "2023-04-15": 941311,
-  "2023-04-16": 941774,
-  "2023-04-17": 942212,
-  "2023-04-18": 942641,
-  "2023-04-19": 943155,
-  "2023-04-20": 943651,
-  "2023-04-21": 944152,
-  "2023-04-22": 944582,
-  "2023-04-23": 945038,
-  "2023-04-24": 945494,
-  "2023-04-25": 945872,
-  "2023-04-26": 946237,
-  "2023-04-27": 946641,
-  "2023-04-28": 947130,
-  "2023-04-29": 947514,
-  "2023-04-30": 947954,
-  "2023-05-01": 948358,
-  "2023-05-02": 948800,
-  "2023-05-03": 949250,
-  "2023-05-04": 949727,
-  "2023-05-05": 951942,
-  "2023-05-06": 955648,
-  "2023-05-07": 959669,
-  "2023-05-08": 964678,
-  "2023-05-09": 970236,
-  "2023-05-10": 976184,
-  "2023-05-11": 981595,
-  "2023-05-12": 986620,
-  "2023-05-13": 990280,
-  "2023-05-14": 994594,
-  "2023-05-15": 998352,
-  "2023-05-16": 1002049,
-  "2023-05-17": 1005788,
-  "2023-05-18": 1008827,
-  "2023-05-19": 1012084,
-  "2023-05-20": 1016898,
-  "2023-05-21": 1016898,
-  "2023-05-22": 1016898,
-  "2023-05-23": 1021079,
-  "2023-05-24": 1024153,
-  "2023-05-25": 1024648,
-  "2023-05-26": 1026169,
-  "2023-05-27": 1027539,
-  "2023-05-28": 1028779,
-  "2023-05-29": 1028779,
-  "2023-05-30": 1031113,
-  "2023-05-31": 1032402,
-  "2023-06-01": 1033637,
-  "2023-06-02": 1034692,
-  "2023-06-03": 1035665,
-  "2023-06-04": 1036544,
-  "2023-06-05": 1037438,
-  "2023-06-06": 1038275,
-  "2023-06-07": 1039003,
-  "2023-06-08": 1039666,
-  "2023-06-09": 1040324,
-  "2023-06-10": 1040862,
-  "2023-06-11": 1041383,
-  "2023-06-12": 1041959,
-  "2023-06-13": 1042499,
-  "2023-06-14": 1043003,
-  "2023-06-15": 1043464,
-  "2023-06-16": 1043869,
-  "2023-06-17": 1044281,
-  "2023-06-18": 1044728,
-  "2023-06-19": 1045165,
-  "2023-06-20": 1045558,
-  "2023-06-21": 1045941,
-  "2023-06-22": 1046329,
-  "2023-06-23": 1046650,
-  "2023-06-24": 1046944,
-  "2023-06-25": 1047242,
-  "2023-06-26": 1047512,
-  "2023-06-27": 1047754,
-  "2023-06-28": 1048037,
-  "2023-06-29": 1048282,
-  "2023-06-30": 1048585,
-  "2023-07-01": 1049076,
-  "2023-07-02": 1049076,
-  "2023-07-03": 1049319,
-  "2023-07-04": 1049493,
-  "2023-07-05": 1049738,
-  "2023-07-06": 1050130,
-  "2023-07-07": 1050130,
-  "2023-07-08": 1050244,
-  "2023-07-09": 1050370,
-  "2023-07-10": 1050424,
-  "2023-07-11": 1050473,
-  "2023-07-12": 1050539,
-  "2023-07-13": 1050791,
-  "2023-07-14": 1051097,
-  "2023-07-15": 1051307,
-  "2023-07-16": 1051576,
-  "2023-07-17": 1051837,
-  "2023-07-18": 1052075,
-  "2023-07-19": 1052258,
-  "2023-07-20": 1052496,
-  "2023-07-21": 1052716,
-  "2023-07-22": 1052948,
-  "2023-07-23": 1053147,
-  "2023-07-24": 1053316,
-  "2023-07-25": 1053508,
-  "2023-07-26": 1053697,
-  "2023-07-27": 1053867,
-  "2023-07-28": 1054030,
-  "2023-07-29": 1054203,
-  "2023-07-30": 1054346,
-  "2023-07-31": 1054493,
-  "2023-08-01": 1054579,
-  "2023-08-02": 1054705,
-  "2023-08-03": 1054840,
-  "2023-08-04": 1054949,
-  "2023-08-05": 1055050,
-  "2023-08-06": 1055226,
-  "2023-08-07": 1055226,
-  "2023-08-08": 1055325,
-  "2023-08-09": 1055407,
-  "2023-08-10": 1055483,
-  "2023-08-11": 1055556,
-  "2023-08-12": 1055662,
-  "2023-08-13": 1055774,
-  "2023-08-14": 1055825,
-  "2023-08-15": 1055913,
-  "2023-08-16": 1055913,
-  "2023-08-17": 1055966,
-  "2023-08-18": 1056008,
-  "2023-08-19": 1056063,
-  "2023-08-20": 1056075,
-  "2023-08-21": 1056106,
-  "2023-08-22": 1056160,
-  "2023-08-23": 1056190,
-  "2023-08-24": 1056216,
-  "2023-08-25": 1056252,
-  "2023-08-26": 1056279,
-  "2023-08-27": 1056278,
-  "2023-08-28": 1056333,
-  "2023-08-29": 1056375,
-  "2023-08-30": 1056369,
-  "2023-08-31": 1056372,
-  "2023-09-01": 1056419,
-  "2023-09-02": 1056419,
-  "2023-09-03": 1056413,
-  "2023-09-04": 1056434,
-  "2023-09-05": 1056450,
-  "2023-09-06": 1056480,
-  "2023-09-07": 1056537,
-  "2023-09-08": 1056592,
-  "2023-09-09": 1056649,
-  "2023-09-10": 1056781,
-  "2023-09-11": 1056853,
-  "2023-09-12": 1056962,
-  "2023-09-13": 1057075,
-  "2023-09-14": 1057200,
-  "2023-09-15": 1057342,
-  "2023-09-16": 1057436,
-  "2023-09-17": 1057556,
-  "2023-09-18": 1057611,
-  "2023-09-19": 1057736,
-  "2023-09-20": 1057873,
-  "2023-09-21": 1058043,
-  "2023-09-22": 1058141,
-  "2023-09-23": 1058199,
-  "2023-09-24": 1058328,
-  "2023-09-25": 1058412,
-  "2023-09-26": 1058433,
-  "2023-09-27": 1058511,
-  "2023-09-28": 1058554,
-  "2023-09-29": 1058662,
-  "2023-09-30": 1058736,
-  "2023-10-01": 1058789,
-  "2023-10-02": 1058777,
-  "2023-10-03": 1058796,
-  "2023-10-04": 1058785,
-  "2023-10-05": 1058812,
-  "2023-10-06": 1058850,
-  "2023-10-07": 1058876,
-  "2023-10-08": 1058921,
-  "2023-10-09": 1058896,
-  "2023-10-10": 1058882,
-  "2023-10-11": 1058864,
-  "2023-10-12": 1058864,
-  "2023-10-13": 1058861,
-  "2023-10-14": 1058882,
-  "2023-10-15": 1058851,
-  "2023-10-16": 1058869,
-  "2023-10-17": 1058836,
-  "2023-10-18": 1058812,
-  "2023-10-19": 1058778,
-  "2023-10-20": 1058776,
-  "2023-10-21": 1058790,
-  "2023-10-22": 1058820,
-  "2023-10-23": 1058845,
-  "2023-10-24": 1058790,
-  "2023-10-25": 1058769,
-  "2023-10-26": 1058787,
-  "2023-10-27": 1058811,
-  "2023-10-28": 1058785,
-  "2023-10-29": 1058795,
-  "2023-10-30": 1058836,
-  "2023-10-31": 1058836,
-  "2023-11-01": 1058812,
-  "2023-11-02": 1058850,
-  "2023-11-03": 1058865,
-  "2023-11-04": 1058927,
-  "2023-11-05": 1058911,
-  "2023-11-06": 1058932,
-  "2023-11-07": 1058952,
-  "2023-11-08": 1058960,
-  "2023-11-09": 1059001,
-  "2023-11-10": 1059032,
-  "2023-11-11": 1059065,
-  "2023-11-12": 1059068,
-  "2023-11-13": 1059081,
-  "2023-11-14": 1059076,
-  "2023-11-15": 1059076,
-  "2023-11-16": 1059046,
-  "2023-11-17": 1059016,
-  "2023-11-18": 1059016,
-  "2023-11-19": 1059026,
-  "2023-11-20": 1059022,
-  "2023-11-21": 1059043,
-  "2023-11-22": 1059036,
-  "2023-11-23": 1059025,
-  "2023-11-24": 1059061,
-  "2023-11-25": 1059059,
-  "2023-11-26": 1059066,
-  "2023-11-27": 1059045,
-  "2023-11-28": 1059050,
-  "2023-11-29": 1058908,
-  "2023-11-30": 1058908,
-  "2023-12-01": 1058816,
-  "2023-12-02": 1058740,
-  "2023-12-03": 1058705,
-  "2023-12-04": 1058691,
-  "2023-12-05": 1058647,
-  "2023-12-06": 1058610,
-  "2023-12-07": 1058618,
-  "2023-12-08": 1058603,
-  "2023-12-09": 1058591,
-  "2023-12-10": 1058579,
-  "2023-12-11": 1058571,
-  "2023-12-12": 1058544,
-  "2023-12-13": 1058552,
-  "2023-12-14": 1058580,
-  "2023-12-15": 1058602,
-  "2023-12-16": 1058619,
-  "2023-12-17": 1058655,
-  "2023-12-18": 1058664,
-  "2023-12-19": 1058662,
-  "2023-12-20": 1058652,
-  "2023-12-21": 1058666,
-  "2023-12-22": 1058635,
-  "2023-12-23": 1058636,
-  "2023-12-24": 1058630,
-  "2023-12-25": 1058620,
-  "2023-12-26": 1058616,
-  "2023-12-27": 1058639,
-  "2023-12-30": 1058635,
-  "2023-12-31": 1058632,
-  "2024-01-01": 1058667,
-  "2024-01-02": 1058614,
-  "2024-01-03": 1058555
+  "2024-01-17": 1058581,
+  "date_first_scraped": "2022-04-19",
+  "description": "All your favorite tracks from Bridgerton and Queen Charlotte, now streaming on Netflix.",
+  "name": "Bridgerton and Queen Charlotte Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79364,
+      "name": "A Country Visit - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/17dg6Kx2lGJCPmcrwdTTrk"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "A Feeling I've Never Been",
+      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61321,
+      "name": "A Gift For Edwina - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/3KIWoTOcz63RIyEC3WGFWg"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "A Grand Finish",
+      "url": "https://open.spotify.com/track/1O7qIZsyQ9gO6bDqG9OAVH"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259812,
+      "name": "A Love Based on Friendship",
+      "url": "https://open.spotify.com/track/465AIYmN1MtioHOxhw5YAV"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138896,
+      "name": "Accidental Eavesdropping - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/5SuINKcJeJOUcNjR28LZQi"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140666,
+      "name": "All is Fair in Love and War",
+      "url": "https://open.spotify.com/track/1CnU8JfCkvgSE9bcLjfxpb"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97606,
+      "name": "Almost Break Down",
+      "url": "https://open.spotify.com/track/6LD9JOG2mCfJkFdBqoAf4Z"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83301,
+      "name": "Almost Kiss",
+      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142603,
+      "name": "Arranging Marriage",
+      "url": "https://open.spotify.com/track/1Efnol5ZaNkz6FWZ4vTTm7"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/1qOsHMitiWT4Zhx9ICzmjW"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58026,
+      "name": "Call Me Simon",
+      "url": "https://open.spotify.com/track/1FiuRddsTkHDtmPO9xTkg2"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161405,
+      "name": "Choices - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/5NPvjxh3HXBFT64sUr8kWb"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221478,
+      "name": "Come Back to Me",
+      "url": "https://open.spotify.com/track/3Kb1Vu5yfMbJkFDLNIUBAk"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147960,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/4FOK3JKtMHUlwzFhg8193o"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279840,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Mike Froudarakis",
+          "url": "https://open.spotify.com/artist/3gGBjO6ke4rl7eFJ2XFpFg"
+        },
+        {
+          "name": "Alexander Leeming Froudakis",
+          "url": "https://open.spotify.com/artist/6h94vIxQQmEQL26ver8Vt8"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140846,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6TSNKoF2jWWIiFfK4g8SFI"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Hannah V",
+          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
+        },
+        {
+          "name": "Joe Rodwell",
+          "url": "https://open.spotify.com/artist/08v2ze9Khd6JwFPdgDoDRR"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116170,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6M4CKv0mfBDXKg8uIphjG0"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47072,
+      "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/6ymT9JIQbSTWpDF8ftTmqc"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190520,
+      "name": "Feeling Exceptional",
+      "url": "https://open.spotify.com/track/5WhcrQAYRlXU8yW2aXYeYs"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103893,
+      "name": "Flawless My Dear",
+      "url": "https://open.spotify.com/track/44XwYLC7YA8mqc6vo7tC18"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74885,
+      "name": "Game Over - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/3AMTM7zr4iQTGG4Zj3eDWq"
+    },
+    {
+      "album": {
+        "name": "Ballet Highlights - The Nutcracker, Romeo & Juliet, Swan Lake",
+        "url": "https://open.spotify.com/album/4OIaXexWOfirCq7u5nQKtR"
+      },
+      "artists": [
+        {
+          "name": "Jacques Offenbach",
+          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "Ga\u00eet\u00e9 parisienne: Barcarolle",
+      "url": "https://open.spotify.com/track/5PAdbw7X61H3fQ8OwaTuBO"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151819,
+      "name": "George Charlotte Montage",
+      "url": "https://open.spotify.com/track/3dV83tzJcZ0gNTJ5nfj7JS"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/3oh7ZiaBgHj4sLxdMEUSJx"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Caleb Chan",
+          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
+        },
+        {
+          "name": "Brian Chan",
+          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/74N9z23qZd1q3rViChUdB7"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98622,
+      "name": "Happy Endings Don't Exist - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/4TwYQi2KSNEs5Zi383di1Q"
+    },
+    {
+      "album": {
+        "name": "Haydn: String Quartets \"The Rider\" & \"Emperor\"",
+        "url": "https://open.spotify.com/album/5w3wNBSUiCEzUX1cRQHebg"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Alban Berg Quartett",
+          "url": "https://open.spotify.com/artist/39bcPlnQijRpADa2yk6SGS"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409226,
+      "name": "Haydn: String Quartet in C Major, Op. 76 No. 3, Hob. III:77 \"Emperor\": I. Allegro",
+      "url": "https://open.spotify.com/track/47DAIw0cnLLHEXcuUHHC6a"
+    },
+    {
+      "album": {
+        "name": "Haydn: String Quartets, Op. 33 No. 3 \"The Bird\", Op. 77 Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/7kTaDGrN68gJVFY2CTTkXj"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Alban Berg Quartett",
+          "url": "https://open.spotify.com/artist/39bcPlnQijRpADa2yk6SGS"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285560,
+      "name": "Haydn: String Quartet in F Major, Op. 77 No. 2, Hob. III:82: II. Menuetto - Trio",
+      "url": "https://open.spotify.com/track/1UAqF9zo9cIg1I6NMwHHrV"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201303,
+      "name": "He's Not Fine",
+      "url": "https://open.spotify.com/track/4d4caey9TqqMHvs71IbLpM"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82002,
+      "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/4ibFnVHag07dErldkPF7uh"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Kiris Houston",
+          "url": "https://open.spotify.com/artist/1xYtMP3MMtJRx99jXrTVKB"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226433,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2qmWh0uDidLJ8yAlPOtq0g"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228684,
+      "name": "I Am Venus",
+      "url": "https://open.spotify.com/track/45Y6CfbfZnKrBaqJcqNsAk"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126960,
+      "name": "I Love You - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/7rZ7vONq8cZDHGoTkvPJ04"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129468,
+      "name": "I Love You Charlotte",
+      "url": "https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285946,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/1Pz0hDCAXTTfcpNT5YrufQ"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123194,
+      "name": "I'm Just George",
+      "url": "https://open.spotify.com/track/7mq3v02LtHKsUSqWaZAypf"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN"
+    },
+    {
+      "album": {
+        "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) [Orchestral - from Queen Charlotte: A Bridgerton Story [Covers from the Netflix Series]]",
+        "url": "https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Queen Charlotte's Global Orchestra",
+          "url": "https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294250,
+      "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) - Orchestral",
+      "url": "https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD"
+    },
+    {
+      "album": {
+        "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) [Spanish Version]",
+        "url": "https://open.spotify.com/album/5aF9dL42UZ754k72o35CXW"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Queen Charlotte's Global Orchestra",
+          "url": "https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295960,
+      "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) - Spanish Version",
+      "url": "https://open.spotify.com/track/7GgLzAU45zlpbl1c5FQeOE"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/3ZpdOnmZvlJVCuMGMYDNQO"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151759,
+      "name": "It Has Been Said - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/0Te3W2KaeN0pHE7zWvw3Ey"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231825,
+      "name": "It's My Fault - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/2Yu1t33vjxWFbZTynPk1by"
+    },
+    {
+      "album": {
+        "name": "Shostakovich: The Jazz Album",
+        "url": "https://open.spotify.com/album/2Mo2TzMxaeAnOvdHsiBHtO"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "Jazz Suite No. 2: VI. Waltz II",
+      "url": "https://open.spotify.com/track/3LOi1V051Obp9hHRgAC0JU"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Kabhi Khushi Kabhie Gham",
+      "url": "https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95465,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90927,
+      "name": "Lord Bridgerton Stung - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/52ML8gtby5HUV3pAc6Ws50"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Love is A Choice",
+      "url": "https://open.spotify.com/track/0OQXYoAMu9z5Gb20PVAlcx"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65078,
+      "name": "Main Title (from the Netflix Series \"Queen Charlotte\")",
+      "url": "https://open.spotify.com/track/79tCf5okCzsoZh8bhXXrJ7"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244339,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206185,
+      "name": "Meet Dr. Monro",
+      "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "Miserable Together, Happy Apart",
+      "url": "https://open.spotify.com/track/4ldvq98Fku77vsg5nwjk77"
+    },
+    {
+      "album": {
+        "name": "Mozart : Piano Works & Violin Sonatas",
+        "url": "https://open.spotify.com/album/7i2POY9vhMAm31cuCf49X1"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Hiro Kurosaki",
+          "url": "https://open.spotify.com/artist/3R64pTFa000X1uTEsJ5h0Q"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274933,
+      "name": "Mozart: Violin Sonata in C Major, K. 296: III. Rondo. Allegro",
+      "url": "https://open.spotify.com/track/54UXI0Z5DDYcU0AiHTX7aD"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123376,
+      "name": "Newlyweds - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/1Sloyd49goIP7tj7YJKVcu"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Caleb Chan",
+          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
+        },
+        {
+          "name": "Brian Chan",
+          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/02xryujVOT8wOxSxCfGG9M"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132829,
+      "name": "Not Far Enough - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/2EOo0FImBkDqX2c7Ntv5AN"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77970,
+      "name": "Nothing Could Keep Me Away - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/5ek7tr9sYv9X2xbZMPgS1E"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113372,
+      "name": "Observatory Kiss",
+      "url": "https://open.spotify.com/track/5464c5jof2DVpBwIB2fXQR"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164093,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/7124sNVnag8a7PP98skfDT"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602746,
+      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
+      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176627,
+      "name": "Princess Royal Is Dead",
+      "url": "https://open.spotify.com/track/4P4dSt0h0ktL8h5XCKHSXj"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Brunch with Vivaldi",
+        "url": "https://open.spotify.com/album/7vjUkzgBtOhL42fXMscbUW"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 155135,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/2WP7odDNsrrkceU9zarqqd"
+    },
+    {
+      "album": {
+        "name": "Bach: The Cello Suites - Recomposed by Peter Gregson",
+        "url": "https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        },
+        {
+          "name": "Richard Harwood",
+          "url": "https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9"
+        },
+        {
+          "name": "Reinoud Ford",
+          "url": "https://open.spotify.com/artist/5fVIkYGFnKyKO5CTphBoKO"
+        },
+        {
+          "name": "Tim Lowe",
+          "url": "https://open.spotify.com/artist/4c6Gwxq0m60hm6dx4dnAqB"
+        },
+        {
+          "name": "Ben Chappell",
+          "url": "https://open.spotify.com/artist/5Bcr5JYvl4wiO9jvoDvH8F"
+        },
+        {
+          "name": "Katherine Jenkinson",
+          "url": "https://open.spotify.com/artist/3GD1m7RLwgmITy17vj8Ht6"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168676,
+      "name": "Recomposed by Peter Gregson: Bach - Cello Suite No. 6 in D Major, BWV 1012: 6. Gigue",
+      "url": "https://open.spotify.com/track/6yPUtBVbbSpp7khUpcmcDu"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77292,
+      "name": "Rest of Our Lives Together",
+      "url": "https://open.spotify.com/track/0t43ICMyAzfB1sITOLb9pY"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Caleb Chan",
+          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
+        },
+        {
+          "name": "Brian Chan",
+          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191811,
+      "name": "Run the World",
+      "url": "https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144080,
+      "name": "Sharpening My Knives - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/1p6dmceofpMeM6LnWdgoKJ"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242320,
+      "name": "Shock and Delight",
+      "url": "https://open.spotify.com/track/0iEV33suLaiHhF7nemOkgU"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Steve Horner",
+          "url": "https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Sign of the Times - Stripped",
+      "url": "https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282506,
+      "name": "Simon and Lady Danbury",
+      "url": "https://open.spotify.com/track/2hIuEnjD66R7bwZbOOvEBV"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65319,
+      "name": "Sommerset House",
+      "url": "https://open.spotify.com/track/3mDRj6QwmDUgjKVIGMU0nk"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151506,
+      "name": "Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/3sBxUne6rvOPAgVmYUA2IC"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "Hillary Smith",
+          "url": "https://open.spotify.com/artist/1Yy8TYDcutF60eKqdmaYv0"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198640,
+      "name": "Strange (feat. Hillary Smith)",
+      "url": "https://open.spotify.com/track/2bPWLtJe3v33z1j40sWB8a"
+    },
+    {
+      "album": {
+        "name": "Saint-Georges: Orchestral Works",
+        "url": "https://open.spotify.com/album/6SKSqIKNlfjUrZiykcEP0W"
+      },
+      "artists": [
+        {
+          "name": "Joseph Boulogne Chevalier de Saint-Georges",
+          "url": "https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU"
+        },
+        {
+          "name": "Yury Revich",
+          "url": "https://open.spotify.com/artist/5yxLM2cMSiBRrtlAfeOldw"
+        },
+        {
+          "name": "Libor Je\u017eek",
+          "url": "https://open.spotify.com/artist/28qbCqqK9uh9jAJtZAu4Tj"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467813,
+      "name": "Symphonie Concertante in C Major, Op. 9 No. 1: I. Allegro",
+      "url": "https://open.spotify.com/track/24QTLzJYGy7bFQgwWLSoss"
+    },
+    {
+      "album": {
+        "name": "Saint-Georges: Orchestral Works",
+        "url": "https://open.spotify.com/album/6SKSqIKNlfjUrZiykcEP0W"
+      },
+      "artists": [
+        {
+          "name": "Joseph Boulogne Chevalier de Saint-Georges",
+          "url": "https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU"
+        },
+        {
+          "name": "Yury Revich",
+          "url": "https://open.spotify.com/artist/5yxLM2cMSiBRrtlAfeOldw"
+        },
+        {
+          "name": "Libor Je\u017eek",
+          "url": "https://open.spotify.com/artist/28qbCqqK9uh9jAJtZAu4Tj"
+        },
+        {
+          "name": "Pavla Honsov\u00e1",
+          "url": "https://open.spotify.com/artist/7F379p4cYyppp4YXIzPmBq"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318560,
+      "name": "Symphonie Concertante in F Major, Op. 10 No. 1: I. Allegro",
+      "url": "https://open.spotify.com/track/2URH7VsU1AqGnpLjQMlRVK"
+    },
+    {
+      "album": {
+        "name": "Saint-Georges: Orchestral Works",
+        "url": "https://open.spotify.com/album/6SKSqIKNlfjUrZiykcEP0W"
+      },
+      "artists": [
+        {
+          "name": "Joseph Boulogne Chevalier de Saint-Georges",
+          "url": "https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247640,
+      "name": "Symphony in G Major, Op. 11 No. 1: I. Allegro",
+      "url": "https://open.spotify.com/track/6wV5Nhsr9Mihm5GLgCsLIV"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206720,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152429,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433546,
+      "name": "The Duel",
+      "url": "https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94520,
+      "name": "The Latest Whistledown",
+      "url": "https://open.spotify.com/track/5CPrUBHBeR3RnDNtFe5kLP"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99260,
+      "name": "The Real Work Begins - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/6gfCyskGqMGvw4lei4cxhJ"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70187,
+      "name": "They Are Betrothed - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/0icaL9UsTzoS2E7RNKN7N2"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68167,
+      "name": "To Wait - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/15oxTMhXIOtvjCxqdM8ehg"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164080,
+      "name": "Together We Are Whole",
+      "url": "https://open.spotify.com/track/2hFPvRHCTeuF3V91avsmHf"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187946,
+      "name": "We Could Form An Attachment",
+      "url": "https://open.spotify.com/track/7MEfoydIhCWOplxnKtWawa"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291213,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "What Women Do Best",
+      "url": "https://open.spotify.com/track/5ED4YtbD9MhpbuU25wa0iE"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315293,
+      "name": "What You Saw Was A Lie",
+      "url": "https://open.spotify.com/track/05vlqSfkR400nfnAeXuz34"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166746,
+      "name": "When You Are Alone",
+      "url": "https://open.spotify.com/track/6ZPPUSUZWY2qPIal1EdctE"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218732,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/5vgnRvuUVkic3Dhy1oGORc"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Midnite String Quartet",
+          "url": "https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233771,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/0AhsYyKYi2J6w9rqP93DSe"
+    },
+    {
+      "album": {
+        "name": "You Oughta Know",
+        "url": "https://open.spotify.com/album/7eMwL8nKcoYE8AYFO7LTuO"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        },
+        {
+          "name": "Kroma Strings",
+          "url": "https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248995,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/1dUpj0vJ2mMPZC9P3jecyq"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        },
+        {
+          "name": "Tom\u00e1s Peire-Serrate",
+          "url": "https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167609,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF"
+    },
+    {
+      "album": {
+        "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
+        "url": "https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        },
+        {
+          "name": "Kroma Strings",
+          "url": "https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247243,
+      "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
+      "url": "https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Hl0iWtr5b3"
 }

@@ -1,472 +1,1445 @@
 {
-  "2022-09-17": 412689,
-  "2022-09-18": 412811,
-  "2022-09-19": 412925,
-  "2022-09-20": 413018,
-  "2022-09-21": 413108,
-  "2022-09-22": 413205,
-  "2022-09-23": 413289,
-  "2022-09-24": 413289,
-  "2022-09-25": 413496,
-  "2022-09-26": 413584,
-  "2022-09-27": 413653,
-  "2022-09-28": 413729,
-  "2022-09-29": 413823,
-  "2022-09-30": 413894,
-  "2022-10-01": 413997,
-  "2022-10-02": 414115,
-  "2022-10-03": 414206,
-  "2022-10-04": 414282,
-  "2022-10-05": 414341,
-  "2022-10-06": 414419,
-  "2022-10-07": 414520,
-  "2022-10-08": 414638,
-  "2022-10-09": 414852,
-  "2022-10-10": 414880,
-  "2022-10-11": 414986,
-  "2022-10-12": 415084,
-  "2022-10-13": 415196,
-  "2022-10-14": 415292,
-  "2022-10-15": 415396,
-  "2022-10-16": 415507,
-  "2022-10-17": 415582,
-  "2022-10-18": 415668,
-  "2022-10-19": 415746,
-  "2022-10-20": 415849,
-  "2022-10-21": 415922,
-  "2022-10-22": 416016,
-  "2022-10-23": 416112,
-  "2022-10-24": 416217,
-  "2022-10-25": 416305,
-  "2022-10-26": 416355,
-  "2022-10-27": 416425,
-  "2022-10-28": 416518,
-  "2022-10-29": 416580,
-  "2022-10-30": 416654,
-  "2022-10-31": 416741,
-  "2022-11-01": 416818,
-  "2022-11-02": 416896,
-  "2022-11-03": 416951,
-  "2022-11-04": 417062,
-  "2022-11-05": 417139,
-  "2022-11-06": 417244,
-  "2022-11-07": 417326,
-  "2022-11-08": 417396,
-  "2022-11-09": 417468,
-  "2022-11-10": 417551,
-  "2022-11-11": 417634,
-  "2022-11-12": 417749,
-  "2022-11-13": 417856,
-  "2022-11-14": 417938,
-  "2022-11-15": 418019,
-  "2022-11-16": 418079,
-  "2022-11-17": 418164,
-  "2022-11-18": 418190,
-  "2022-11-19": 418204,
-  "2022-11-20": 418300,
-  "2022-11-21": 418403,
-  "2022-11-22": 418500,
-  "2022-11-23": 418569,
-  "2022-11-24": 418754,
-  "2022-11-25": 418904,
-  "2022-11-26": 419004,
-  "2022-11-27": 419092,
-  "2022-11-28": 419334,
-  "2022-11-29": 419431,
-  "2022-11-30": 419526,
-  "2022-12-01": 419623,
-  "2022-12-02": 419678,
-  "2022-12-03": 419849,
-  "2022-12-04": 419967,
-  "2022-12-05": 420054,
-  "2022-12-06": 420125,
-  "2022-12-07": 420207,
-  "2022-12-08": 420297,
-  "2022-12-09": 420372,
-  "2022-12-10": 420452,
-  "2022-12-11": 420552,
-  "2022-12-12": 420622,
-  "2022-12-13": 420722,
-  "2022-12-14": 420786,
-  "2022-12-15": 420877,
-  "2022-12-16": 420941,
-  "2022-12-17": 421033,
-  "2022-12-18": 421127,
-  "2022-12-19": 421194,
-  "2022-12-20": 421355,
-  "2022-12-21": 421355,
-  "2022-12-22": 421408,
-  "2022-12-24": 421581,
-  "2022-12-25": 421646,
-  "2022-12-26": 421748,
-  "2022-12-27": 421825,
-  "2022-12-28": 421910,
-  "2022-12-29": 421999,
-  "2022-12-30": 422091,
-  "2022-12-31": 422208,
-  "2023-01-01": 422307,
-  "2023-01-02": 422406,
-  "2023-01-03": 422501,
-  "2023-01-04": 422558,
-  "2023-01-05": 422648,
-  "2023-01-06": 422779,
-  "2023-01-07": 422969,
-  "2023-01-08": 422985,
-  "2023-01-09": 423097,
-  "2023-01-10": 423179,
-  "2023-01-11": 423268,
-  "2023-01-12": 423351,
-  "2023-01-13": 423435,
-  "2023-01-14": 423620,
-  "2023-01-15": 423640,
-  "2023-01-16": 423742,
-  "2023-01-17": 423817,
-  "2023-01-18": 423901,
-  "2023-01-19": 423993,
-  "2023-01-20": 424097,
-  "2023-01-21": 424202,
-  "2023-01-22": 424307,
-  "2023-01-23": 424454,
-  "2023-01-24": 424560,
-  "2023-01-25": 424685,
-  "2023-01-26": 424767,
-  "2023-01-27": 424842,
-  "2023-01-28": 424943,
-  "2023-01-29": 425022,
-  "2023-01-30": 425105,
-  "2023-01-31": 425105,
-  "2023-02-01": 425273,
-  "2023-02-02": 425339,
-  "2023-02-03": 425440,
-  "2023-02-04": 425537,
-  "2023-02-05": 425632,
-  "2023-02-06": 425736,
-  "2023-02-07": 425839,
-  "2023-02-08": 426015,
-  "2023-02-09": 426015,
-  "2023-02-10": 426118,
-  "2023-02-11": 426226,
-  "2023-02-12": 426411,
-  "2023-02-13": 426479,
-  "2023-02-14": 426479,
-  "2023-02-15": 426563,
-  "2023-02-16": 426634,
-  "2023-02-17": 426740,
-  "2023-02-18": 426948,
-  "2023-02-19": 426967,
-  "2023-02-20": 427067,
-  "2023-02-21": 427149,
-  "2023-02-22": 427236,
-  "2023-02-23": 427327,
-  "2023-02-24": 427421,
-  "2023-02-25": 427556,
-  "2023-02-26": 427620,
-  "2023-02-27": 427791,
-  "2023-02-28": 427791,
-  "2023-03-01": 427884,
-  "2023-03-02": 427981,
-  "2023-03-03": 428081,
-  "2023-03-04": 428186,
-  "2023-03-05": 428469,
-  "2023-03-06": 428469,
-  "2023-03-07": 428547,
-  "2023-03-08": 428645,
-  "2023-03-09": 428739,
-  "2023-03-10": 428825,
-  "2023-03-11": 428914,
-  "2023-03-12": 429021,
-  "2023-03-13": 429119,
-  "2023-03-14": 429202,
-  "2023-03-15": 429292,
-  "2023-03-16": 429292,
-  "2023-03-17": 429292,
-  "2023-03-18": 429710,
-  "2023-03-19": 429710,
-  "2023-03-20": 429996,
-  "2023-03-21": 430115,
-  "2023-03-22": 430253,
-  "2023-03-23": 430356,
-  "2023-03-24": 430356,
-  "2023-03-25": 430662,
-  "2023-03-26": 430797,
-  "2023-03-27": 430938,
-  "2023-03-28": 431055,
-  "2023-03-29": 431192,
-  "2023-03-30": 431424,
-  "2023-03-31": 431424,
-  "2023-04-01": 431561,
-  "2023-04-02": 431675,
-  "2023-04-03": 431815,
-  "2023-04-04": 431950,
-  "2023-04-05": 432040,
-  "2023-04-06": 432152,
-  "2023-04-07": 432254,
-  "2023-04-09": 432504,
-  "2023-04-10": 432615,
-  "2023-04-11": 432842,
-  "2023-04-12": 432842,
-  "2023-04-13": 432935,
-  "2023-04-14": 433029,
-  "2023-04-15": 433140,
-  "2023-04-16": 433254,
-  "2023-04-17": 433370,
-  "2023-04-18": 433466,
-  "2023-04-19": 433553,
-  "2023-04-20": 433653,
-  "2023-04-21": 433790,
-  "2023-04-22": 433922,
-  "2023-04-23": 434039,
-  "2023-04-24": 434169,
-  "2023-04-25": 434273,
-  "2023-04-26": 434367,
-  "2023-04-27": 434474,
-  "2023-04-28": 434649,
-  "2023-04-29": 434808,
-  "2023-04-30": 434979,
-  "2023-05-01": 435123,
-  "2023-05-02": 435250,
-  "2023-05-03": 435358,
-  "2023-05-04": 435479,
-  "2023-05-05": 435609,
-  "2023-05-06": 435717,
-  "2023-05-07": 435828,
-  "2023-05-08": 435977,
-  "2023-05-09": 436083,
-  "2023-05-10": 436199,
-  "2023-05-11": 436296,
-  "2023-05-12": 436401,
-  "2023-05-13": 436529,
-  "2023-05-14": 436674,
-  "2023-05-15": 436800,
-  "2023-05-16": 436889,
-  "2023-05-17": 436976,
-  "2023-05-18": 437061,
-  "2023-05-19": 437168,
-  "2023-05-20": 437463,
-  "2023-05-21": 437463,
-  "2023-05-22": 437463,
-  "2023-05-23": 437696,
-  "2023-05-24": 437887,
-  "2023-05-25": 437909,
-  "2023-05-26": 438022,
-  "2023-05-27": 438143,
-  "2023-05-28": 438277,
-  "2023-05-29": 438277,
-  "2023-05-30": 438515,
-  "2023-05-31": 438619,
-  "2023-06-01": 438783,
-  "2023-06-02": 438941,
-  "2023-06-03": 439077,
-  "2023-06-04": 439210,
-  "2023-06-05": 439341,
-  "2023-06-06": 439552,
-  "2023-06-07": 439704,
-  "2023-06-08": 439829,
-  "2023-06-09": 439954,
-  "2023-06-10": 440087,
-  "2023-06-11": 440241,
-  "2023-06-12": 440385,
-  "2023-06-13": 440541,
-  "2023-06-14": 440652,
-  "2023-06-15": 440786,
-  "2023-06-16": 440905,
-  "2023-06-17": 441050,
-  "2023-06-18": 441200,
-  "2023-06-19": 441336,
-  "2023-06-20": 441434,
-  "2023-06-21": 441572,
-  "2023-06-22": 441679,
-  "2023-06-23": 441821,
-  "2023-06-24": 441970,
-  "2023-06-25": 442093,
-  "2023-06-26": 442230,
-  "2023-06-27": 442355,
-  "2023-06-28": 442493,
-  "2023-06-29": 442662,
-  "2023-06-30": 442832,
-  "2023-07-01": 443218,
-  "2023-07-02": 443218,
-  "2023-07-03": 443385,
-  "2023-07-04": 443523,
-  "2023-07-05": 443637,
-  "2023-07-06": 443907,
-  "2023-07-07": 443907,
-  "2023-07-08": 444105,
-  "2023-07-09": 444298,
-  "2023-07-10": 444473,
-  "2023-07-11": 444618,
-  "2023-07-12": 444759,
-  "2023-07-13": 444914,
-  "2023-07-14": 445156,
-  "2023-07-15": 445339,
-  "2023-07-16": 445547,
-  "2023-07-17": 445713,
-  "2023-07-18": 445837,
-  "2023-07-19": 445934,
-  "2023-07-20": 446069,
-  "2023-07-21": 446183,
-  "2023-07-22": 446305,
-  "2023-07-23": 446470,
-  "2023-07-24": 446595,
-  "2023-07-25": 446751,
-  "2023-07-26": 446835,
-  "2023-07-27": 446943,
-  "2023-07-28": 447110,
-  "2023-07-29": 447262,
-  "2023-07-30": 447394,
-  "2023-07-31": 447526,
-  "2023-08-01": 447620,
-  "2023-08-02": 447728,
-  "2023-08-03": 447827,
-  "2023-08-04": 447934,
-  "2023-08-05": 448060,
-  "2023-08-06": 448288,
-  "2023-08-07": 448288,
-  "2023-08-08": 448380,
-  "2023-08-09": 448514,
-  "2023-08-10": 448648,
-  "2023-08-11": 448752,
-  "2023-08-12": 448752,
-  "2023-08-13": 448752,
-  "2023-08-14": 449170,
-  "2023-08-15": 449170,
-  "2023-08-16": 449170,
-  "2023-08-17": 449515,
-  "2023-08-18": 449515,
-  "2023-08-19": 449515,
-  "2023-08-20": 449912,
-  "2023-08-21": 449912,
-  "2023-08-22": 450160,
-  "2023-08-23": 450160,
-  "2023-08-24": 450384,
-  "2023-08-25": 450384,
-  "2023-08-26": 450592,
-  "2023-08-27": 450592,
-  "2023-08-28": 450876,
-  "2023-08-29": 450876,
-  "2023-08-30": 450876,
-  "2023-08-31": 451246,
-  "2023-09-01": 451341,
-  "2023-09-02": 451341,
-  "2023-09-03": 451613,
-  "2023-09-04": 451613,
-  "2023-09-05": 451613,
-  "2023-09-06": 451909,
-  "2023-09-07": 451909,
-  "2023-09-08": 451909,
-  "2023-09-09": 451909,
-  "2023-09-10": 452352,
-  "2023-09-11": 452352,
-  "2023-09-12": 452352,
-  "2023-09-13": 452675,
-  "2023-09-14": 452675,
-  "2023-09-15": 452675,
-  "2023-09-16": 452978,
-  "2023-09-17": 452978,
-  "2023-09-18": 452978,
-  "2023-09-19": 453313,
-  "2023-09-20": 453313,
-  "2023-09-21": 453313,
-  "2023-09-22": 453573,
-  "2023-09-23": 453573,
-  "2023-09-24": 453573,
-  "2023-09-25": 453573,
-  "2023-09-26": 454023,
-  "2023-09-27": 454023,
-  "2023-09-28": 454023,
-  "2023-09-29": 454023,
-  "2023-09-30": 454023,
-  "2023-10-01": 454023,
-  "2023-10-02": 454530,
-  "2023-10-03": 454530,
-  "2023-10-04": 454530,
-  "2023-10-05": 454768,
-  "2023-10-06": 454768,
-  "2023-10-07": 454768,
-  "2023-10-08": 454768,
-  "2023-10-09": 454768,
-  "2023-10-10": 454768,
-  "2023-10-11": 455402,
-  "2023-10-12": 455402,
-  "2023-10-13": 455402,
-  "2023-10-14": 455402,
-  "2023-10-15": 455402,
-  "2023-10-16": 455402,
-  "2023-10-17": 455402,
-  "2023-10-18": 455402,
-  "2023-10-19": 455402,
-  "2023-10-20": 455402,
-  "2023-10-21": 455402,
-  "2023-10-22": 455402,
-  "2023-10-23": 455402,
-  "2023-10-24": 455402,
-  "2023-10-25": 455402,
-  "2023-10-26": 455402,
-  "2023-10-27": 455402,
-  "2023-10-28": 455402,
-  "2023-10-29": 455402,
-  "2023-10-30": 455402,
-  "2023-10-31": 455402,
-  "2023-11-01": 455402,
-  "2023-11-02": 455402,
-  "2023-11-03": 455402,
-  "2023-11-04": 455402,
-  "2023-11-05": 455402,
-  "2023-11-06": 455402,
-  "2023-11-07": 455402,
-  "2023-11-08": 455402,
-  "2023-11-09": 455402,
-  "2023-11-10": 455402,
-  "2023-11-11": 458972,
-  "2023-11-12": 458972,
-  "2023-11-13": 458972,
-  "2023-11-14": 458972,
-  "2023-11-15": 458972,
-  "2023-11-16": 458972,
-  "2023-11-17": 458972,
-  "2023-11-18": 458972,
-  "2023-11-19": 458972,
-  "2023-11-20": 458972,
-  "2023-11-21": 458972,
-  "2023-11-22": 458972,
-  "2023-11-23": 458972,
-  "2023-11-24": 458972,
-  "2023-11-25": 458972,
-  "2023-11-26": 458972,
-  "2023-11-27": 458972,
-  "2023-11-28": 458972,
-  "2023-11-29": 458972,
-  "2023-11-30": 458972,
-  "2023-12-01": 458972,
-  "2023-12-02": 458972,
-  "2023-12-03": 458972,
-  "2023-12-04": 458972,
-  "2023-12-05": 458972,
-  "2023-12-06": 458972,
-  "2023-12-07": 458972,
-  "2023-12-08": 458972,
-  "2023-12-09": 458972,
-  "2023-12-10": 458972,
-  "2023-12-11": 458972,
-  "2023-12-12": 458972,
-  "2023-12-13": 458972,
-  "2023-12-14": 461618,
-  "2023-12-15": 461674,
-  "2023-12-16": 461757,
-  "2023-12-17": 461837,
-  "2023-12-18": 461908,
-  "2023-12-19": 461967,
-  "2023-12-20": 462019,
-  "2023-12-21": 462099,
-  "2023-12-22": 462170,
-  "2023-12-23": 462246,
-  "2023-12-24": 462341,
-  "2023-12-25": 462414,
-  "2023-12-26": 462481,
-  "2023-12-27": 462561,
-  "2023-12-30": 462841,
-  "2023-12-31": 462935,
-  "2024-01-01": 463017,
-  "2024-01-02": 463089,
-  "2024-01-03": 463165
+  "2024-01-17": 463948,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
+  "name": "This Is Mumford & Sons",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 245704,
+      "name": "After the Storm",
+      "url": "https://open.spotify.com/track/2Omy3B47TotpL7yDfArVqQ"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 248173,
+      "name": "After the Storm",
+      "url": "https://open.spotify.com/track/6jEvloulrt9iCYW9IXJ2yi"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 255826,
+      "name": "Awake My Soul",
+      "url": "https://open.spotify.com/track/3khbaRkdMXpwxd6Ege88gj"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255837,
+      "name": "Awake My Soul",
+      "url": "https://open.spotify.com/track/2jTkLdldm7xtHUfHKhzR7S"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/56gIMfbYgE8T317pqNNxrk"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 208933,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/7nhItJUpHMXJURhZNyXHJs"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3OgZdIAHaDMOtYq8Z5iCQ5"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/4XzBJwWmmvBP1I8y4sY4g4"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/7HFgnF1oPMzkCqEMBOA2yI"
+    },
+    {
+      "album": {
+        "name": "Blind Leading The Blind",
+        "url": "https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224703,
+      "name": "Blind Leading The Blind",
+      "url": "https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be"
+    },
+    {
+      "album": {
+        "name": "Delta Tour EP",
+        "url": "https://open.spotify.com/album/3zXzpwfIW0jHqhb5YHg55u"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 327411,
+      "name": "Blood with Gang Of Youths (Live from Stockholm)",
+      "url": "https://open.spotify.com/track/3sBdNkdyTEzSzWVQjg1vmd"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 260230,
+      "name": "Broad-Shouldered Beasts",
+      "url": "https://open.spotify.com/track/2Klr258jO2APdeexDcvTRD"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "Cold Arms",
+      "url": "https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376239,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/3Rtlsb4YUeAz1733sFt8eJ"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "Ditmas",
+      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
+    },
+    {
+      "album": {
+        "name": "Live from Shepherd's Bush Empire",
+        "url": "https://open.spotify.com/album/0HeTCm08wXQGyPv3qjc9O9"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 221093,
+      "name": "Feel the Tide - Live from Shepherd's Bush Empire, 2010",
+      "url": "https://open.spotify.com/track/1NiaRGKtWwIkKoz2nwBxbV"
+    },
+    {
+      "album": {
+        "name": "Live from Shepherd's Bush Empire",
+        "url": "https://open.spotify.com/album/2BSWogsmKbWv9zmTAjjgpH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221093,
+      "name": "Feel the Tide - Live from Shepherd's Bush Empire, 2010",
+      "url": "https://open.spotify.com/track/34tD0jmk90OTCt5OPj8w5v"
+    },
+    {
+      "album": {
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "The Very Best",
+          "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
+        },
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221099,
+      "name": "Fool You\u2019ve Landed",
+      "url": "https://open.spotify.com/track/0MKQZo1oHR4IOoc63V6Mxg"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 276780,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0VdIHp2hF3mFXnr2Slh6V6"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276780,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/29u2jPjN6ZEKf31W0eEbx7"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 276780,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4sUkoGq1ln1KmfxJEiOkUK"
+    },
+    {
+      "album": {
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271025,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 339720,
+      "name": "Ghosts That We Knew",
+      "url": "https://open.spotify.com/track/4ClTOGZc8kcb8l58Vx5z5A"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
+    },
+    {
+      "album": {
+        "name": "Live from Shepherd's Bush Empire",
+        "url": "https://open.spotify.com/album/2BSWogsmKbWv9zmTAjjgpH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244466,
+      "name": "Hold on to What You Believe - Live from Shepherd's Bush Empire, 2010",
+      "url": "https://open.spotify.com/track/13UaKj7X8zno0QHa0sQ4lR"
+    },
+    {
+      "album": {
+        "name": "Live from Shepherd's Bush Empire",
+        "url": "https://open.spotify.com/album/0HeTCm08wXQGyPv3qjc9O9"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 244466,
+      "name": "Hold on to What You Believe - Live from Shepherd's Bush Empire, 2010",
+      "url": "https://open.spotify.com/track/2va7x2PRDMO8wRDvkK5hwV"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307853,
+      "name": "Hopeless Wanderer",
+      "url": "https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 307853,
+      "name": "Hopeless Wanderer",
+      "url": "https://open.spotify.com/track/4dfLrcSJpjvoRlgkHZEqz1"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 307853,
+      "name": "Hopeless Wanderer",
+      "url": "https://open.spotify.com/track/7rME25EmgXGVPQqKtU4CIK"
+    },
+    {
+      "album": {
+        "name": "Delta Tour EP",
+        "url": "https://open.spotify.com/album/0Mdbs380PEaE81bScwSlBB"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 299081,
+      "name": "Hurt (Live from Werchter)",
+      "url": "https://open.spotify.com/track/7owiVG8UaTtTkcErdgyHet"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5tFS6ENAcvCW1V8uKYuk5m"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276720,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/5PRRthP9SLfbXB359MfIWv"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190034,
+      "name": "Just Smoke",
+      "url": "https://open.spotify.com/track/7CDi9DHRDKyfLSgtDs9wex"
+    },
+    {
+      "album": {
+        "name": "Indomable",
+        "url": "https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225986,
+      "name": "Learn Me Right",
+      "url": "https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/0kjj3EUl6EOrKSC9iDurZq"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 245173,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/2KrN3MCNztKcSleZgHEj83"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 246973,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247002,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 314786,
+      "name": "Lover Of The Light",
+      "url": "https://open.spotify.com/track/0Qp1eaUp7ophvR2lo7fQuN"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
+      "duration_ms": 314893,
+      "name": "Lover of the Light",
+      "url": "https://open.spotify.com/track/48dghEx4vhyQQfFLwxPfHD"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314893,
+      "name": "Lover of the Light",
+      "url": "https://open.spotify.com/track/6NUr2TMn5nsaerT4tuHpFb"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 236883,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/4ma2AbPdsy5ijCyJn16mAv"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236883,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5RJeg1KeRTQxsgZcPrxWBD"
+    },
+    {
+      "album": {
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        },
+        {
+          "name": "The Very Best",
+          "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 217460,
+      "name": "Ngamila",
+      "url": "https://open.spotify.com/track/0tvH0mNKvUpE3WtP16Jzpp"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/3Y9ZyBUDTVcgvhEtCfiXh7"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/4O7kxdfjLOFUwIB6Q63ScX"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 124346,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/6LPjdmMvIKGxuzVFsTKF6Z"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124520,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/6XMJ0ESQ7LZLklgOPpbZJV"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 264009,
+      "name": "Roll Away Your Stone",
+      "url": "https://open.spotify.com/track/6jC4VpzLZwfD6YkWqGY09s"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248546,
+      "name": "Snake Eyes",
+      "url": "https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo"
+    },
+    {
+      "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369301,
+      "name": "Someone Saved My Life Tonight",
+      "url": "https://open.spotify.com/track/7wfVhQbInlrp92VTyi4gx3"
+    },
+    {
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
+    },
+    {
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
+    },
+    {
+      "album": {
+        "name": "LoveBlood",
+        "url": "https://open.spotify.com/album/07MeEPmkdYGUOCjsdh22Wj"
+      },
+      "artists": [
+        {
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216013,
+      "name": "The Brightest Lights",
+      "url": "https://open.spotify.com/track/7DSFu4NFVpDpWCafZ0cxPJ"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217984,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 217986,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 331693,
+      "name": "The Wild",
+      "url": "https://open.spotify.com/track/12vSf3woc2toFvHxwjLI5v"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-27",
+      "duration_ms": 221240,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb"
+    },
+    {
+      "album": {
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267946,
+      "name": "There Will Be Time",
+      "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 173400,
+      "name": "Timshel",
+      "url": "https://open.spotify.com/track/4c3zZWPPYkvjSV07Cv95oJ"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173429,
+      "name": "Timshel",
+      "url": "https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ"
+    },
+    {
+      "album": {
+        "name": "Dharohar Project, Laura Marling & Mumford & Sons",
+        "url": "https://open.spotify.com/album/5hFc7nkIHmfOk5Ms5smQaF"
+      },
+      "artists": [
+        {
+          "name": "Dharohar Project",
+          "url": "https://open.spotify.com/artist/04R1pgF7Jim781YHSBdCzy"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 262746,
+      "name": "To Darkness / Kripa",
+      "url": "https://open.spotify.com/track/5hY2IsjDhhEBLzeqlgbNoB"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312626,
+      "name": "Tompkins Square Park",
+      "url": "https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 217675,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/1fbiarYX9ZHCDLp4mj8XHA"
+    },
+    {
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217675,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 254160,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/06YV4yr9sdJqSNj4HjZk2s"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254205,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278226,
+      "name": "Wilder Mind",
+      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219628,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 219680,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/50FgfudO6MUkdP3XMIf1hh"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/0kjj3EUl6EOrKSC9iDurZq"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 219706,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/2Fs75T6oa9QifkDHaPkf6k"
+    },
+    {
+      "album": {
+        "name": "Delta Tour EP",
+        "url": "https://open.spotify.com/album/0Mdbs380PEaE81bScwSlBB"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 359691,
+      "name": "With A Little Help From My Friends (Live from London)",
+      "url": "https://open.spotify.com/track/6Rd8m5KdOL2ayiK00ko1Mu"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274552,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO"
+    },
+    {
+      "album": {
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        },
+        {
+          "name": "The Very Best",
+          "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
+        },
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240453,
+      "name": "Wona",
+      "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Tcb3G"
 }

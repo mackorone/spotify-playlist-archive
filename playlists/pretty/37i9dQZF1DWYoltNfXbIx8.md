@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,219 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,518 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Só Deus Pode Me Julgar](https://open.spotify.com/track/6qssC6tXnAbbm01ZRSCJel) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 6:56 |
 | 2 | [Rap É Compromisso](https://open.spotify.com/track/4WZfgKQ9WGPsa25rHVrL3x) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 4:23 |
 | 3 | [Homem na Estrada](https://open.spotify.com/track/36fttUvKnvYuzB5ASzxhkD) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 8:41 |
-| 4 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 |
+| 4 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 |
 | 5 | [Carruagem da Morte](https://open.spotify.com/track/5P2RYcthgnyNRYQm8Cxkai) | [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Meu Respeito Eu Não Enrolo Numa Seda](https://open.spotify.com/album/0hzhim7UnHj5kVDPOTP3qJ) | 7:52 |
 | 6 | [O 5° Vigia](https://open.spotify.com/track/3VNIwW4MkSvp0xVEmfrvUL) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/45JoFHuQTEcG4CQNO49xUZ) | 6:16 |
 | 7 | [O Homem estragou tudo](https://open.spotify.com/track/3QF009hr5Vu9o6d3z3ViQ0) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Direto do Campo de Extermínio](https://open.spotify.com/album/3SStKpKrLzkfETa9i73mMn) | 5:15 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 46 | [Só por Você \- 2018 Remasterizado](https://open.spotify.com/track/0y1Uw9bsg7ToSgY1dWKHkX) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(2018 Remasterizado\)](https://open.spotify.com/album/5pUeLvZrpWTvyDHPq7UQJP) | 4:18 |
 | 47 | [No Brooklin](https://open.spotify.com/track/0VlvuqnBF8VRqT4iV1HekA) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:47 |
 | 48 | [Fim de Semana no Parque](https://open.spotify.com/track/6NKchtT70MibwEZfK2ksjl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 7:47 |
-| 49 | [Matemática na Prática](https://open.spotify.com/track/7z7wZz5bLUqVCynB5763rk) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 4:30 |
+| 49 | [Matemática Na Prática](https://open.spotify.com/track/3DMQMn1xpkfBBOqlzziupj) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/3Enl5PklqXTyO1kRZzBfMI) | 4:31 |
 | 50 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
 | 51 | [Exército Do Rap](https://open.spotify.com/track/4utfUZHM35t2r7GEOqNa8S) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 3:00 |
 | 52 | [L\. Gelada \- 3 da Madrugada](https://open.spotify.com/track/32mcFZ8uedc5Wd5xoZsNXe) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 7:21 |

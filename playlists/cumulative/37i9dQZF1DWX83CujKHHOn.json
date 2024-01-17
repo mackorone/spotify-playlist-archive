@@ -3333,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187591,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8"
+    },
+    {
+      "album": {
         "name": "Lose You Too",
         "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
       },
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 220783,
       "name": "Never Get Over You",
       "url": "https://open.spotify.com/track/68Y2EMgrAZDrwRIlhWxLxa"

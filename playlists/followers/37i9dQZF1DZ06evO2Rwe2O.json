@@ -1,298 +1,1041 @@
 {
-  "2023-03-11": 9176,
-  "2023-03-12": 9185,
-  "2023-03-13": 9196,
-  "2023-03-14": 9208,
-  "2023-03-15": 9221,
-  "2023-03-16": 9221,
-  "2023-03-17": 9221,
-  "2023-03-18": 9249,
-  "2023-03-19": 9249,
-  "2023-03-20": 9266,
-  "2023-03-21": 9271,
-  "2023-03-22": 9282,
-  "2023-03-23": 9287,
-  "2023-03-24": 9287,
-  "2023-03-25": 9300,
-  "2023-03-26": 9311,
-  "2023-03-27": 9325,
-  "2023-03-28": 9328,
-  "2023-03-29": 9337,
-  "2023-03-30": 9353,
-  "2023-03-31": 9353,
-  "2023-04-01": 9357,
-  "2023-04-02": 9362,
-  "2023-04-03": 9369,
-  "2023-04-04": 9378,
-  "2023-04-05": 9383,
-  "2023-04-06": 9390,
-  "2023-04-07": 9398,
-  "2023-04-09": 9419,
-  "2023-04-10": 9425,
-  "2023-04-11": 9437,
-  "2023-04-12": 9437,
-  "2023-04-13": 9440,
-  "2023-04-14": 9444,
-  "2023-04-15": 9450,
-  "2023-04-16": 9457,
-  "2023-04-17": 9466,
-  "2023-04-18": 9472,
-  "2023-04-19": 9477,
-  "2023-04-20": 9488,
-  "2023-04-21": 9497,
-  "2023-04-22": 9506,
-  "2023-04-23": 9514,
-  "2023-04-24": 9522,
-  "2023-04-25": 9531,
-  "2023-04-26": 9538,
-  "2023-04-27": 9547,
-  "2023-04-28": 9556,
-  "2023-04-29": 9561,
-  "2023-04-30": 9570,
-  "2023-05-01": 9581,
-  "2023-05-02": 9581,
-  "2023-05-03": 9592,
-  "2023-05-04": 9602,
-  "2023-05-05": 9605,
-  "2023-05-06": 9614,
-  "2023-05-07": 9624,
-  "2023-05-08": 9629,
-  "2023-05-09": 9636,
-  "2023-05-10": 9638,
-  "2023-05-11": 9641,
-  "2023-05-12": 9649,
-  "2023-05-13": 9655,
-  "2023-05-14": 9659,
-  "2023-05-15": 9666,
-  "2023-05-16": 9667,
-  "2023-05-17": 9675,
-  "2023-05-18": 9673,
-  "2023-05-19": 9679,
-  "2023-05-20": 9686,
-  "2023-05-21": 9686,
-  "2023-05-22": 9686,
-  "2023-05-23": 9704,
-  "2023-05-24": 9718,
-  "2023-05-25": 9721,
-  "2023-05-26": 9723,
-  "2023-05-27": 9724,
-  "2023-05-28": 9732,
-  "2023-05-29": 9732,
-  "2023-05-30": 9747,
-  "2023-05-31": 9750,
-  "2023-06-01": 9762,
-  "2023-06-02": 9768,
-  "2023-06-03": 9775,
-  "2023-06-04": 9779,
-  "2023-06-05": 9781,
-  "2023-06-06": 9784,
-  "2023-06-07": 9795,
-  "2023-06-08": 9801,
-  "2023-06-09": 9808,
-  "2023-06-10": 9813,
-  "2023-06-11": 9828,
-  "2023-06-12": 9836,
-  "2023-06-13": 9838,
-  "2023-06-14": 9842,
-  "2023-06-15": 9851,
-  "2023-06-16": 9856,
-  "2023-06-17": 9865,
-  "2023-06-18": 9868,
-  "2023-06-19": 9876,
-  "2023-06-20": 9884,
-  "2023-06-21": 9884,
-  "2023-06-22": 9887,
-  "2023-06-23": 9894,
-  "2023-06-24": 9899,
-  "2023-06-25": 9904,
-  "2023-06-26": 9909,
-  "2023-06-27": 9915,
-  "2023-06-28": 9917,
-  "2023-06-29": 9927,
-  "2023-06-30": 9935,
-  "2023-07-01": 9955,
-  "2023-07-02": 9955,
-  "2023-07-03": 9953,
-  "2023-07-04": 9961,
-  "2023-07-05": 9969,
-  "2023-07-06": 9977,
-  "2023-07-07": 9977,
-  "2023-07-08": 9977,
-  "2023-07-09": 9985,
-  "2023-07-10": 9991,
-  "2023-07-11": 9995,
-  "2023-07-12": 10003,
-  "2023-07-13": 10009,
-  "2023-07-14": 10014,
-  "2023-07-15": 10016,
-  "2023-07-16": 10026,
-  "2023-07-17": 10032,
-  "2023-07-18": 10040,
-  "2023-07-19": 10046,
-  "2023-07-20": 10050,
-  "2023-07-21": 10054,
-  "2023-07-22": 10066,
-  "2023-07-23": 10073,
-  "2023-07-24": 10078,
-  "2023-07-25": 10089,
-  "2023-07-26": 10094,
-  "2023-07-27": 10098,
-  "2023-07-28": 10107,
-  "2023-07-29": 10114,
-  "2023-07-30": 10120,
-  "2023-07-31": 10128,
-  "2023-08-01": 10137,
-  "2023-08-02": 10141,
-  "2023-08-03": 10144,
-  "2023-08-04": 10151,
-  "2023-08-05": 10157,
-  "2023-08-06": 10169,
-  "2023-08-07": 10169,
-  "2023-08-08": 10171,
-  "2023-08-09": 10177,
-  "2023-08-10": 10183,
-  "2023-08-11": 10187,
-  "2023-08-12": 10187,
-  "2023-08-13": 10187,
-  "2023-08-14": 10203,
-  "2023-08-15": 10203,
-  "2023-08-16": 10203,
-  "2023-08-17": 10203,
-  "2023-08-18": 10203,
-  "2023-08-19": 10203,
-  "2023-08-20": 10250,
-  "2023-08-21": 10250,
-  "2023-08-22": 10260,
-  "2023-08-23": 10260,
-  "2023-08-24": 10260,
-  "2023-08-25": 10260,
-  "2023-08-26": 10282,
-  "2023-08-27": 10282,
-  "2023-08-28": 10292,
-  "2023-08-29": 10292,
-  "2023-08-30": 10292,
-  "2023-08-31": 10301,
-  "2023-09-01": 10308,
-  "2023-09-02": 10308,
-  "2023-09-03": 10308,
-  "2023-09-04": 10308,
-  "2023-09-05": 10308,
-  "2023-09-06": 10334,
-  "2023-09-07": 10334,
-  "2023-09-08": 10334,
-  "2023-09-09": 10334,
-  "2023-09-10": 10360,
-  "2023-09-11": 10360,
-  "2023-09-12": 10360,
-  "2023-09-13": 10360,
-  "2023-09-14": 10360,
-  "2023-09-15": 10360,
-  "2023-09-16": 10393,
-  "2023-09-17": 10393,
-  "2023-09-18": 10393,
-  "2023-09-19": 10409,
-  "2023-09-20": 10409,
-  "2023-09-21": 10409,
-  "2023-09-22": 10430,
-  "2023-09-23": 10430,
-  "2023-09-24": 10430,
-  "2023-09-25": 10430,
-  "2023-09-26": 10454,
-  "2023-09-27": 10454,
-  "2023-09-28": 10454,
-  "2023-09-29": 10454,
-  "2023-09-30": 10454,
-  "2023-10-01": 10454,
-  "2023-10-02": 10454,
-  "2023-10-03": 10454,
-  "2023-10-04": 10454,
-  "2023-10-05": 10454,
-  "2023-10-06": 10454,
-  "2023-10-07": 10454,
-  "2023-10-08": 10454,
-  "2023-10-09": 10454,
-  "2023-10-10": 10454,
-  "2023-10-11": 10521,
-  "2023-10-12": 10521,
-  "2023-10-13": 10521,
-  "2023-10-14": 10521,
-  "2023-10-15": 10521,
-  "2023-10-16": 10521,
-  "2023-10-17": 10521,
-  "2023-10-18": 10521,
-  "2023-10-19": 10521,
-  "2023-10-20": 10521,
-  "2023-10-21": 10521,
-  "2023-10-22": 10521,
-  "2023-10-23": 10521,
-  "2023-10-24": 10521,
-  "2023-10-25": 10521,
-  "2023-10-26": 10521,
-  "2023-10-27": 10521,
-  "2023-10-28": 10521,
-  "2023-10-29": 10521,
-  "2023-10-30": 10521,
-  "2023-10-31": 10521,
-  "2023-11-01": 10521,
-  "2023-11-02": 10521,
-  "2023-11-03": 10521,
-  "2023-11-04": 10521,
-  "2023-11-05": 10521,
-  "2023-11-06": 10521,
-  "2023-11-07": 10521,
-  "2023-11-08": 10521,
-  "2023-11-09": 10521,
-  "2023-11-10": 10521,
-  "2023-11-11": 10641,
-  "2023-11-12": 10641,
-  "2023-11-13": 10641,
-  "2023-11-14": 10641,
-  "2023-11-15": 10641,
-  "2023-11-16": 10641,
-  "2023-11-17": 10641,
-  "2023-11-18": 10641,
-  "2023-11-19": 10641,
-  "2023-11-20": 10641,
-  "2023-11-21": 10641,
-  "2023-11-22": 10641,
-  "2023-11-23": 10641,
-  "2023-11-24": 10641,
-  "2023-11-25": 10641,
-  "2023-11-26": 10641,
-  "2023-11-27": 10641,
-  "2023-11-28": 10641,
-  "2023-11-29": 10641,
-  "2023-11-30": 10641,
-  "2023-12-01": 10641,
-  "2023-12-02": 10641,
-  "2023-12-03": 10641,
-  "2023-12-04": 10641,
-  "2023-12-05": 10641,
-  "2023-12-06": 10641,
-  "2023-12-07": 10641,
-  "2023-12-08": 10641,
-  "2023-12-09": 10641,
-  "2023-12-10": 10641,
-  "2023-12-11": 10641,
-  "2023-12-12": 10641,
-  "2023-12-13": 10641,
-  "2023-12-14": 10736,
-  "2023-12-15": 10740,
-  "2023-12-16": 10742,
-  "2023-12-17": 10748,
-  "2023-12-18": 10749,
-  "2023-12-19": 10754,
-  "2023-12-20": 10758,
-  "2023-12-21": 10767,
-  "2023-12-22": 10769,
-  "2023-12-23": 10772,
-  "2023-12-24": 10774,
-  "2023-12-25": 10776,
-  "2023-12-26": 10779,
-  "2023-12-27": 10780,
-  "2023-12-30": 10797,
-  "2023-12-31": 10800,
-  "2024-01-01": 10805,
-  "2024-01-02": 10808,
-  "2024-01-03": 10815
+  "2024-01-17": 10866,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
+  "name": "This Is Big Daddy Weave",
+  "tracks": [
+    {
+      "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206411,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/78x8gB6FVSDB9q01E7rlI8"
+    },
+    {
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4Gqez49VUwAYdthySame7Y"
+    },
+    {
+      "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292289,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi"
+    },
+    {
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326733,
+      "name": "Audience of One",
+      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
+    },
+    {
+      "album": {
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313840,
+      "name": "Be Your Everything",
+      "url": "https://open.spotify.com/track/3RkTLYMiGUmdNUkqtD4iPg"
+    },
+    {
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272053,
+      "name": "Beautiful Offering",
+      "url": "https://open.spotify.com/track/1Ne01Bjmgb3q08r6tdw3Oc"
+    },
+    {
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 335946,
+      "name": "Come Sit Down",
+      "url": "https://open.spotify.com/track/4OFnAQqkz0mGQUmx59Carl"
+    },
+    {
+      "album": {
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Completely Free",
+      "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
+    },
+    {
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232346,
+      "name": "Every Time I Breathe",
+      "url": "https://open.spotify.com/track/4yOpRExvm1qwGBZNeS4cXt"
+    },
+    {
+      "album": {
+        "name": "Love Come To Life: The Redeemed Edition",
+        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197188,
+      "name": "Everything Beautiful",
+      "url": "https://open.spotify.com/track/331Knn1SGIHAjAfHtP9UBR"
+    },
+    {
+      "album": {
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Fields of Grace",
+      "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
+    },
+    {
+      "album": {
+        "name": "What I Was Made For",
+        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 200720,
+      "name": "For Who You Are",
+      "url": "https://open.spotify.com/track/5YJG5A01wPavs17Zv09Jka"
+    },
+    {
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 268840,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/3pcHBtO6656mInuhof9xQ8"
+    },
+    {
+      "album": {
+        "name": "God Is In This Story",
+        "url": "https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 207893,
+      "name": "God Is In This Story",
+      "url": "https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T"
+    },
+    {
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344760,
+      "name": "Good Good Father - Live",
+      "url": "https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44"
+    },
+    {
+      "album": {
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317560,
+      "name": "Heart Cries Holy",
+      "url": "https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD"
+    },
+    {
+      "album": {
+        "name": "Heaven Changes Everything",
+        "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211706,
+      "name": "Heaven Changes Everything",
+      "url": "https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71"
+    },
+    {
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Hold Me Jesus",
+      "url": "https://open.spotify.com/track/6jY58FrHShSeJIuA3m5Osx"
+    },
+    {
+      "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319803,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/1J9VTeVlVUbZLre3Yc1A4V"
+    },
+    {
+      "album": {
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/6oJY4rogX1Y9UHL2yL21TY"
+      },
+      "artists": [
+        {
+          "name": "The Church Will Sing",
+          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
+        },
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257940,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/3xc5C0e85ZJbXLz0nrANWt"
+    },
+    {
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "I Will Go",
+      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
+    },
+    {
+      "album": {
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243917,
+      "name": "If We Are The Body (feat. Hannah Kerr)",
+      "url": "https://open.spotify.com/track/12AUzHL6cmZNCKZT3HZIMN"
+    },
+    {
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "If You Died Tonight",
+      "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "In Christ",
+      "url": "https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc"
+    },
+    {
+      "album": {
+        "name": "What I Was Made For",
+        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302120,
+      "name": "It's All About You",
+      "url": "https://open.spotify.com/track/2pnm4XSwVkbc6waMzF9odE"
+    },
+    {
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277880,
+      "name": "Jesus I Believe",
+      "url": "https://open.spotify.com/track/3HRfH5dCEmrc4kquT51XgE"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Just The Way I Am",
+      "url": "https://open.spotify.com/track/5DWxGimczAZe7byauhrUba"
+    },
+    {
+      "album": {
+        "name": "My Utmost For His Highest",
+        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283952,
+      "name": "Lavish",
+      "url": "https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh"
+    },
+    {
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273680,
+      "name": "Let It Rise",
+      "url": "https://open.spotify.com/track/3d7BD6z3dmOn0uyuyTzFnr"
+    },
+    {
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226520,
+      "name": "Love Come To Life",
+      "url": "https://open.spotify.com/track/26FQmwQ538RwRB7vV3KLjR"
+    },
+    {
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270160,
+      "name": "Maker of the Wind",
+      "url": "https://open.spotify.com/track/0c6ycONajngTNG7TPTAEKN"
+    },
+    {
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278320,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/6Dkou08rjWrgGijVmoAVZp"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273320,
+      "name": "Neighborhoods",
+      "url": "https://open.spotify.com/track/5olQics7uPj0dp1vBTkyYe"
+    },
+    {
+      "album": {
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "New Every Morning",
+      "url": "https://open.spotify.com/track/1vC1qUFwuDgTlRg89ZMhcH"
+    },
+    {
+      "album": {
+        "name": "Love Come To Life: The Redeemed Edition",
+        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288060,
+      "name": "No Other Name",
+      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
+    },
+    {
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329026,
+      "name": "Overwhelmed",
+      "url": "https://open.spotify.com/track/0UcyrdirFfmpzEKQJ47Ixr"
+    },
+    {
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276186,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
+    },
+    {
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258440,
+      "name": "Revive Us Again",
+      "url": "https://open.spotify.com/track/1gDz3147BMHrVz772aYTwn"
+    },
+    {
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247986,
+      "name": "Right With You",
+      "url": "https://open.spotify.com/track/2v4QOcKW0wXtG2o9vSrsSX"
+    },
+    {
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339440,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/0pmi8Y9gF1QHtuEwQfuzsp"
+    },
+    {
+      "album": {
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/47Us0P876YRcCz5e4PqYGh"
+    },
+    {
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306253,
+      "name": "The Lion and the Lamb",
+      "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
+    },
+    {
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261880,
+      "name": "The Only Name (Yours Will Be)",
+      "url": "https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF"
+    },
+    {
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197786,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/1Dm66v7VLsHHNUzxaJQdC7"
+    },
+    {
+      "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235749,
+      "name": "This Is What We Live For",
+      "url": "https://open.spotify.com/track/4JRQpTXsde4JQtIO3D76iT"
+    },
+    {
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233813,
+      "name": "Trust And Obey",
+      "url": "https://open.spotify.com/track/1pB0uLHifv66pukzMZ94fj"
+    },
+    {
+      "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233761,
+      "name": "Turn On The Light",
+      "url": "https://open.spotify.com/track/7eMEf2vcT5POvOLaery3I9"
+    },
+    {
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259440,
+      "name": "We Want the World to Hear",
+      "url": "https://open.spotify.com/track/2NlhZ6eRfCD8Hb8fd315nn"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 181413,
+      "name": "What I Was Made For",
+      "url": "https://open.spotify.com/track/1hk4vnmDj37es8cEpJjRVB"
+    },
+    {
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245280,
+      "name": "What Life Would Be Like",
+      "url": "https://open.spotify.com/track/71Mwr0v0cPykFBBpnYiSED"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339693,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0"
+    },
+    {
+      "album": {
+        "name": "Get the Truth",
+        "url": "https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257026,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU"
+    },
+    {
+      "album": {
+        "name": "What I Was Made For",
+        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313106,
+      "name": "Words of Life",
+      "url": "https://open.spotify.com/track/7C7n4C6VoUhUyIO7oHeQ6I"
+    },
+    {
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/70KZlDFmyd2OGigiLGwOwd"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "You're Worthy Of My Praise",
+      "url": "https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ"
+    },
+    {
+      "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268018,
+      "name": "Your Love Changes Everything",
+      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Rwe2O"
 }

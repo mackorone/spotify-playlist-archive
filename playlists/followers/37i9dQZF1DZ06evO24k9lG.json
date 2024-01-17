@@ -1,381 +1,1009 @@
 {
-  "2022-12-17": 42836,
-  "2022-12-18": 42885,
-  "2022-12-19": 42906,
-  "2022-12-20": 42947,
-  "2022-12-21": 42947,
-  "2022-12-22": 42961,
-  "2022-12-24": 43030,
-  "2022-12-25": 43064,
-  "2022-12-26": 43093,
-  "2022-12-27": 43119,
-  "2022-12-28": 43144,
-  "2022-12-29": 43170,
-  "2022-12-30": 43204,
-  "2022-12-31": 43246,
-  "2023-01-01": 43292,
-  "2023-01-02": 43316,
-  "2023-01-03": 43356,
-  "2023-01-04": 43369,
-  "2023-01-05": 43402,
-  "2023-01-06": 43429,
-  "2023-01-07": 43476,
-  "2023-01-08": 43483,
-  "2023-01-09": 43511,
-  "2023-01-10": 43533,
-  "2023-01-11": 43564,
-  "2023-01-12": 43585,
-  "2023-01-13": 43611,
-  "2023-01-14": 43658,
-  "2023-01-15": 43663,
-  "2023-01-16": 43694,
-  "2023-01-17": 43714,
-  "2023-01-18": 43739,
-  "2023-01-19": 43772,
-  "2023-01-20": 43800,
-  "2023-01-21": 43821,
-  "2023-01-22": 43851,
-  "2023-01-23": 43869,
-  "2023-01-24": 43890,
-  "2023-01-25": 43918,
-  "2023-01-26": 43943,
-  "2023-01-27": 43965,
-  "2023-01-28": 43996,
-  "2023-01-29": 44045,
-  "2023-01-30": 44078,
-  "2023-01-31": 44078,
-  "2023-02-01": 44118,
-  "2023-02-02": 44140,
-  "2023-02-03": 44160,
-  "2023-02-04": 44182,
-  "2023-02-05": 44207,
-  "2023-02-06": 44244,
-  "2023-02-07": 44264,
-  "2023-02-08": 44297,
-  "2023-02-09": 44297,
-  "2023-02-10": 44314,
-  "2023-02-11": 44351,
-  "2023-02-12": 44400,
-  "2023-02-13": 44413,
-  "2023-02-14": 44413,
-  "2023-02-15": 44432,
-  "2023-02-16": 44453,
-  "2023-02-17": 44477,
-  "2023-02-18": 44524,
-  "2023-02-19": 44532,
-  "2023-02-20": 44552,
-  "2023-02-21": 44576,
-  "2023-02-22": 44586,
-  "2023-02-23": 44604,
-  "2023-02-24": 44634,
-  "2023-02-25": 44670,
-  "2023-02-26": 44688,
-  "2023-02-27": 44736,
-  "2023-02-28": 44736,
-  "2023-03-01": 44755,
-  "2023-03-02": 44773,
-  "2023-03-03": 44792,
-  "2023-03-04": 44814,
-  "2023-03-05": 44872,
-  "2023-03-06": 44872,
-  "2023-03-07": 44902,
-  "2023-03-08": 44927,
-  "2023-03-09": 44949,
-  "2023-03-10": 44972,
-  "2023-03-11": 44998,
-  "2023-03-12": 45027,
-  "2023-03-13": 45043,
-  "2023-03-14": 45069,
-  "2023-03-15": 45098,
-  "2023-03-16": 45098,
-  "2023-03-17": 45098,
-  "2023-03-18": 45187,
-  "2023-03-19": 45187,
-  "2023-03-20": 45245,
-  "2023-03-21": 45267,
-  "2023-03-22": 45288,
-  "2023-03-23": 45316,
-  "2023-03-24": 45316,
-  "2023-03-25": 45391,
-  "2023-03-26": 45436,
-  "2023-03-27": 45465,
-  "2023-03-28": 45485,
-  "2023-03-29": 45509,
-  "2023-03-30": 45542,
-  "2023-03-31": 45542,
-  "2023-04-01": 45576,
-  "2023-04-02": 45613,
-  "2023-04-03": 45642,
-  "2023-04-04": 45677,
-  "2023-04-05": 45697,
-  "2023-04-06": 45728,
-  "2023-04-07": 45754,
-  "2023-04-09": 45798,
-  "2023-04-10": 45813,
-  "2023-04-11": 45862,
-  "2023-04-12": 45862,
-  "2023-04-13": 45887,
-  "2023-04-14": 45908,
-  "2023-04-15": 45929,
-  "2023-04-16": 45950,
-  "2023-04-17": 45971,
-  "2023-04-18": 45996,
-  "2023-04-19": 46008,
-  "2023-04-20": 46023,
-  "2023-04-21": 46049,
-  "2023-04-22": 46072,
-  "2023-04-23": 46095,
-  "2023-04-24": 46130,
-  "2023-04-25": 46154,
-  "2023-04-26": 46180,
-  "2023-04-27": 46215,
-  "2023-04-28": 46252,
-  "2023-04-29": 46283,
-  "2023-04-30": 46325,
-  "2023-05-01": 46353,
-  "2023-05-02": 46399,
-  "2023-05-03": 46422,
-  "2023-05-04": 46450,
-  "2023-05-05": 46485,
-  "2023-05-06": 46513,
-  "2023-05-07": 46537,
-  "2023-05-08": 46562,
-  "2023-05-09": 46588,
-  "2023-05-10": 46613,
-  "2023-05-11": 46634,
-  "2023-05-12": 46662,
-  "2023-05-13": 46702,
-  "2023-05-14": 46732,
-  "2023-05-15": 46749,
-  "2023-05-16": 46778,
-  "2023-05-17": 46800,
-  "2023-05-18": 46820,
-  "2023-05-19": 46853,
-  "2023-05-20": 46924,
-  "2023-05-21": 46924,
-  "2023-05-22": 46924,
-  "2023-05-23": 46987,
-  "2023-05-24": 47022,
-  "2023-05-25": 47032,
-  "2023-05-26": 47060,
-  "2023-05-27": 47101,
-  "2023-05-28": 47127,
-  "2023-05-29": 47127,
-  "2023-05-30": 47191,
-  "2023-05-31": 47214,
-  "2023-06-01": 47236,
-  "2023-06-02": 47267,
-  "2023-06-03": 47300,
-  "2023-06-04": 47330,
-  "2023-06-05": 47352,
-  "2023-06-06": 47378,
-  "2023-06-07": 47397,
-  "2023-06-08": 47422,
-  "2023-06-09": 47453,
-  "2023-06-10": 47483,
-  "2023-06-11": 47519,
-  "2023-06-12": 47553,
-  "2023-06-13": 47582,
-  "2023-06-14": 47595,
-  "2023-06-15": 47628,
-  "2023-06-16": 47659,
-  "2023-06-17": 47692,
-  "2023-06-18": 47750,
-  "2023-06-19": 47785,
-  "2023-06-20": 47810,
-  "2023-06-21": 47844,
-  "2023-06-22": 47871,
-  "2023-06-23": 47892,
-  "2023-06-24": 47922,
-  "2023-06-25": 47971,
-  "2023-06-26": 47990,
-  "2023-06-27": 48019,
-  "2023-06-28": 48054,
-  "2023-06-29": 48085,
-  "2023-06-30": 48114,
-  "2023-07-01": 48224,
-  "2023-07-02": 48224,
-  "2023-07-03": 48261,
-  "2023-07-04": 48294,
-  "2023-07-05": 48333,
-  "2023-07-06": 48392,
-  "2023-07-07": 48392,
-  "2023-07-08": 48392,
-  "2023-07-09": 48479,
-  "2023-07-10": 48513,
-  "2023-07-11": 48542,
-  "2023-07-12": 48582,
-  "2023-07-13": 48620,
-  "2023-07-14": 48668,
-  "2023-07-15": 48687,
-  "2023-07-16": 48738,
-  "2023-07-17": 48773,
-  "2023-07-18": 48788,
-  "2023-07-19": 48818,
-  "2023-07-20": 48833,
-  "2023-07-21": 48876,
-  "2023-07-22": 48915,
-  "2023-07-23": 48949,
-  "2023-07-24": 48991,
-  "2023-07-25": 49019,
-  "2023-07-26": 49051,
-  "2023-07-27": 49101,
-  "2023-07-28": 49156,
-  "2023-07-29": 49205,
-  "2023-07-30": 49255,
-  "2023-07-31": 49296,
-  "2023-08-01": 49334,
-  "2023-08-02": 49377,
-  "2023-08-03": 49417,
-  "2023-08-04": 49450,
-  "2023-08-05": 49498,
-  "2023-08-06": 49602,
-  "2023-08-07": 49602,
-  "2023-08-08": 49647,
-  "2023-08-09": 49675,
-  "2023-08-10": 49722,
-  "2023-08-11": 49761,
-  "2023-08-12": 49761,
-  "2023-08-13": 49761,
-  "2023-08-14": 49896,
-  "2023-08-15": 49896,
-  "2023-08-16": 49896,
-  "2023-08-17": 49896,
-  "2023-08-18": 49896,
-  "2023-08-19": 49896,
-  "2023-08-20": 50156,
-  "2023-08-21": 50156,
-  "2023-08-22": 50245,
-  "2023-08-23": 50245,
-  "2023-08-24": 50245,
-  "2023-08-25": 50245,
-  "2023-08-26": 50405,
-  "2023-08-27": 50405,
-  "2023-08-28": 50500,
-  "2023-08-29": 50500,
-  "2023-08-30": 50500,
-  "2023-08-31": 50591,
-  "2023-09-01": 50621,
-  "2023-09-02": 50621,
-  "2023-09-03": 50715,
-  "2023-09-04": 50715,
-  "2023-09-05": 50715,
-  "2023-09-06": 50815,
-  "2023-09-07": 50815,
-  "2023-09-08": 50815,
-  "2023-09-09": 50815,
-  "2023-09-10": 50997,
-  "2023-09-11": 50997,
-  "2023-09-12": 50997,
-  "2023-09-13": 51114,
-  "2023-09-14": 51114,
-  "2023-09-15": 51114,
-  "2023-09-16": 51222,
-  "2023-09-17": 51222,
-  "2023-09-18": 51222,
-  "2023-09-19": 51344,
-  "2023-09-20": 51344,
-  "2023-09-21": 51344,
-  "2023-09-22": 51426,
-  "2023-09-23": 51426,
-  "2023-09-24": 51426,
-  "2023-09-25": 51426,
-  "2023-09-26": 51555,
-  "2023-09-27": 51555,
-  "2023-09-28": 51555,
-  "2023-09-29": 51555,
-  "2023-09-30": 51555,
-  "2023-10-01": 51555,
-  "2023-10-02": 51555,
-  "2023-10-03": 51555,
-  "2023-10-04": 51555,
-  "2023-10-05": 51786,
-  "2023-10-06": 51786,
-  "2023-10-07": 51786,
-  "2023-10-08": 51786,
-  "2023-10-09": 51786,
-  "2023-10-10": 51786,
-  "2023-10-11": 51912,
-  "2023-10-12": 51912,
-  "2023-10-13": 51912,
-  "2023-10-14": 51912,
-  "2023-10-15": 51912,
-  "2023-10-16": 51912,
-  "2023-10-17": 51912,
-  "2023-10-18": 51912,
-  "2023-10-19": 51912,
-  "2023-10-20": 51912,
-  "2023-10-21": 51912,
-  "2023-10-22": 51912,
-  "2023-10-23": 51912,
-  "2023-10-24": 51912,
-  "2023-10-25": 51912,
-  "2023-10-26": 51912,
-  "2023-10-27": 51912,
-  "2023-10-28": 51912,
-  "2023-10-29": 51912,
-  "2023-10-30": 51912,
-  "2023-10-31": 51912,
-  "2023-11-01": 51912,
-  "2023-11-02": 51912,
-  "2023-11-03": 51912,
-  "2023-11-04": 51912,
-  "2023-11-05": 51912,
-  "2023-11-06": 51912,
-  "2023-11-07": 51912,
-  "2023-11-08": 51912,
-  "2023-11-09": 51912,
-  "2023-11-10": 51912,
-  "2023-11-11": 52747,
-  "2023-11-12": 52747,
-  "2023-11-13": 52747,
-  "2023-11-14": 52747,
-  "2023-11-15": 52747,
-  "2023-11-16": 52747,
-  "2023-11-17": 52747,
-  "2023-11-18": 52747,
-  "2023-11-19": 52747,
-  "2023-11-20": 52747,
-  "2023-11-21": 52747,
-  "2023-11-22": 52747,
-  "2023-11-23": 52747,
-  "2023-11-24": 52747,
-  "2023-11-25": 52747,
-  "2023-11-26": 52747,
-  "2023-11-27": 52747,
-  "2023-11-28": 52747,
-  "2023-11-29": 52747,
-  "2023-11-30": 52747,
-  "2023-12-01": 52747,
-  "2023-12-02": 52747,
-  "2023-12-03": 52747,
-  "2023-12-04": 52747,
-  "2023-12-05": 52747,
-  "2023-12-06": 52747,
-  "2023-12-07": 52747,
-  "2023-12-08": 52747,
-  "2023-12-09": 52747,
-  "2023-12-10": 52747,
-  "2023-12-11": 52747,
-  "2023-12-12": 52747,
-  "2023-12-13": 52747,
-  "2023-12-14": 53523,
-  "2023-12-15": 53538,
-  "2023-12-16": 53554,
-  "2023-12-17": 53579,
-  "2023-12-18": 53600,
-  "2023-12-19": 53623,
-  "2023-12-20": 53638,
-  "2023-12-21": 53667,
-  "2023-12-22": 53687,
-  "2023-12-23": 53715,
-  "2023-12-24": 53742,
-  "2023-12-25": 53765,
-  "2023-12-26": 53790,
-  "2023-12-27": 53798,
-  "2023-12-30": 53841,
-  "2023-12-31": 53875,
-  "2024-01-01": 53893,
-  "2024-01-02": 53914,
-  "2024-01-03": 53924
+  "2024-01-17": 54000,
+  "date_first_scraped": "2022-12-17",
+  "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
+  "name": "This Is Binomio de Oro de Am\u00e9rica",
+  "tracks": [
+    {
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Acuerdate De Mi",
+      "url": "https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD"
+    },
+    {
+      "album": {
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295653,
+      "name": "Amigo El Corazon",
+      "url": "https://open.spotify.com/track/4N4HpuGlzf9lOmVTvrta2K"
+    },
+    {
+      "album": {
+        "name": "A Su Gusto",
+        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267506,
+      "name": "Ba\u00f1arte en Mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6oIuJKZdgjmkqVLtdkgAss"
+    },
+    {
+      "album": {
+        "name": "De La Mano Con El Pueblo",
+        "url": "https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319826,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/0ZrddFVnZp5galGScp8NK5"
+    },
+    {
+      "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297160,
+      "name": "Como Expresar Lo Que Siento",
+      "url": "https://open.spotify.com/track/0okBbOBN9ofokXlK7uQBZu"
+    },
+    {
+      "album": {
+        "name": "Solo Hits",
+        "url": "https://open.spotify.com/album/0TuwCPLmXFqqbbeVuQjAR3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289746,
+      "name": "Como Hago",
+      "url": "https://open.spotify.com/track/61PSeaG0rMXe7KYfmLpXir"
+    },
+    {
+      "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289586,
+      "name": "Como Olvidarte",
+      "url": "https://open.spotify.com/track/7pt07GWL2dIwCXyf5mlo4A"
+    },
+    {
+      "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290733,
+      "name": "Como Te Olvido",
+      "url": "https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U"
+    },
+    {
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305106,
+      "name": "Corazoncito Negro",
+      "url": "https://open.spotify.com/track/2uYOWiJbJmDcqCxIAuiWkB"
+    },
+    {
+      "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296013,
+      "name": "Cuando Vuelvas",
+      "url": "https://open.spotify.com/track/4DIUQD8fBn7ondOghonHa8"
+    },
+    {
+      "album": {
+        "name": "Cumbia Triste (Marraneo Time T2) [Ac\u00fastico En Vivo]",
+        "url": "https://open.spotify.com/album/7EmuMEtDUMJDXc1HJnxP2b"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 169476,
+      "name": "Cumbia Triste (Marraneo Time T2) - Ac\u00fastico En Vivo",
+      "url": "https://open.spotify.com/track/0EenRXa3ielyyC2lDTrrr4"
+    },
+    {
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292333,
+      "name": "Dejate Atrapar",
+      "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
+    },
+    {
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303413,
+      "name": "Dificil de igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+    },
+    {
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289293,
+      "name": "Dime Como Te Olvido",
+      "url": "https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD"
+    },
+    {
+      "album": {
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221093,
+      "name": "Distintos Destinos",
+      "url": "https://open.spotify.com/track/3klDMS8I5WdQMD82aAhbha"
+    },
+    {
+      "album": {
+        "name": "Vallenato sin Fronteras",
+        "url": "https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277989,
+      "name": "El Diario",
+      "url": "https://open.spotify.com/track/53Gc3Ruoh4VXdhl7LxxfVF"
+    },
+    {
+      "album": {
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295450,
+      "name": "El Forastero",
+      "url": "https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH"
+    },
+    {
+      "album": {
+        "name": "Vallenato sin Fronteras",
+        "url": "https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 269305,
+      "name": "Grafiti De Amor",
+      "url": "https://open.spotify.com/track/2FHxgJPddTyNKFU8UNXEg8"
+    },
+    {
+      "album": {
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294400,
+      "name": "Hoy Me Di Cuenta",
+      "url": "https://open.spotify.com/track/3jz0yIwy75UoCgyNMwlVT9"
+    },
+    {
+      "album": {
+        "name": "Impredecible",
+        "url": "https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281332,
+      "name": "Impredecible",
+      "url": "https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK"
+    },
+    {
+      "album": {
+        "name": "La Combinacion Vallenata Vol. 2",
+        "url": "https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl"
+      },
+      "artists": [
+        {
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
+          "name": "Jes\u00fas Manuel",
+          "url": "https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z"
+        },
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291853,
+      "name": "Jam\u00e1s Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/7DnAvmdF8AxO6jdT1dNRON"
+    },
+    {
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297299,
+      "name": "Lejos De Ti",
+      "url": "https://open.spotify.com/track/4RdZtnUWiuSPTsirLtZxIz"
+    },
+    {
+      "album": {
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280413,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/6S4mHl2osunAmz5vx928tH"
+    },
+    {
+      "album": {
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261616,
+      "name": "Manantial De Amor",
+      "url": "https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC"
+    },
+    {
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300786,
+      "name": "Me Ilusione",
+      "url": "https://open.spotify.com/track/20jSoyCuEIjuq9eKCYHpLK"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287426,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/012cYVnGDH4YYAyKhSdIus"
+    },
+    {
+      "album": {
+        "name": "A Su Gusto",
+        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285320,
+      "name": "Me Voy De Ti",
+      "url": "https://open.spotify.com/track/3IJfVcDe4tZlLAPpEPuGvs"
+    },
+    {
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276640,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/2aRFBt9T9HrNAjP5pwl8wd"
+    },
+    {
+      "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310306,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh"
+    },
+    {
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296840,
+      "name": "No Me Resignare",
+      "url": "https://open.spotify.com/track/0bmLUt1Gt466W82eREpJsH"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296013,
+      "name": "No Me Vuelvo a Ilusionar",
+      "url": "https://open.spotify.com/track/4hgX90wBttJ4VZeSXEWJ6P"
+    },
+    {
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289750,
+      "name": "No Pude Olvidarte",
+      "url": "https://open.spotify.com/track/55lwN8AEwtgdG9YDTXwKKh"
+    },
+    {
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279475,
+      "name": "No Puedo Olvidarla",
+      "url": "https://open.spotify.com/track/1fbGlN6KJzmelg4tCSs2ck"
+    },
+    {
+      "album": {
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305880,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/0OF0Y4tv6s2mWWOmVzUAMA"
+    },
+    {
+      "album": {
+        "name": "Todo Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246546,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7"
+    },
+    {
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304117,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298986,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280173,
+      "name": "Real\u00edzame mis sue\u00f1os",
+      "url": "https://open.spotify.com/track/5uFmiw2BfcTPmjXyLzkmRk"
+    },
+    {
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279666,
+      "name": "Si No Regresas",
+      "url": "https://open.spotify.com/track/57GGPAQbF9q2byE6GEbHds"
+    },
+    {
+      "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294640,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q"
+    },
+    {
+      "album": {
+        "name": "La Combinacion Vallenata Vol. 3",
+        "url": "https://open.spotify.com/album/3YvmSceIoFKWBoUPb2VciJ"
+      },
+      "artists": [
+        {
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316826,
+      "name": "Sigue Tu Camino",
+      "url": "https://open.spotify.com/track/1Ku8R7GC0hwdtzLiMyxLv8"
+    },
+    {
+      "album": {
+        "name": "De La Mano Con El Pueblo",
+        "url": "https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302950,
+      "name": "Solo Por Ti",
+      "url": "https://open.spotify.com/track/5biz82cvckw47XRp26iJwT"
+    },
+    {
+      "album": {
+        "name": "A Su Gusto",
+        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268453,
+      "name": "Te Eche De Menos",
+      "url": "https://open.spotify.com/track/6lz3DX7t2AxSEHqTsOSyE6"
+    },
+    {
+      "album": {
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284160,
+      "name": "Te Har\u00e9 Feliz",
+      "url": "https://open.spotify.com/track/4Con9ddUgt05U6Ea5QY0tC"
+    },
+    {
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 286066,
+      "name": "Tiempo de Comenzar",
+      "url": "https://open.spotify.com/track/2e3EIY28lGzZih4bZdgUPw"
+    },
+    {
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260545,
+      "name": "Todo Se Acaba",
+      "url": "https://open.spotify.com/track/7yRdBOPaGYhvHFMXbVJCPj"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281693,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/1PM7WVCkmMmsWnnbh54FqC"
+    },
+    {
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301531,
+      "name": "Un Camino Lejano",
+      "url": "https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg"
+    },
+    {
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289724,
+      "name": "Un Osito Dormilon",
+      "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"
+    },
+    {
+      "album": {
+        "name": "Un Osito Dormil\u00f3n (Marraneo Time T2) [Ac\u00fastico En Vivo]",
+        "url": "https://open.spotify.com/album/5rt1wvH3VB4KaZVGzWfvHi"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 287200,
+      "name": "Un Osito Dormil\u00f3n (Marraneo Time T2) - Ac\u00fastico En Vivo",
+      "url": "https://open.spotify.com/track/4Sxvf3mGZU5Rf1YZ7YaGKp"
+    },
+    {
+      "album": {
+        "name": "En Todo Su Esplendor",
+        "url": "https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279653,
+      "name": "Un Recuerdo Que Mata",
+      "url": "https://open.spotify.com/track/6olio6TmfjrE5Jmnq3F1VV"
+    },
+    {
+      "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287173,
+      "name": "Una Como Tu",
+      "url": "https://open.spotify.com/track/0EMt8VJkhRztiR2MRnjAK7"
+    },
+    {
+      "album": {
+        "name": "A Su Gusto",
+        "url": "https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276413,
+      "name": "Volvio El Dolor",
+      "url": "https://open.spotify.com/track/2SV9OTkT0LZGCrGFY7cr1f"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297920,
+      "name": "Y No Regresas",
+      "url": "https://open.spotify.com/track/2jnRsLF9SldwnS129Utsqi"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO24k9lG"
 }

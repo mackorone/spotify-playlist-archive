@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 
 > Love songs from your favorite films
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,744 likes - 97 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,495 likes - 97 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -105,6 +105,42 @@
     },
     {
       "album": {
+        "name": "Maestra Audio Liner",
+        "url": "https://open.spotify.com/album/6ZSZtsahW78yXJ4zenOQad"
+      },
+      "artists": [
+        {
+          "name": "Jea",
+          "url": "https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25000,
+      "name": "Curated by JeA",
+      "url": "https://open.spotify.com/track/345dzgbWZZzWwOVgufJfbC"
+    },
+    {
+      "album": {
+        "name": "Maestra Audio Liner",
+        "url": "https://open.spotify.com/album/6ZSZtsahW78yXJ4zenOQad"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31250,
+      "name": "Curated by Sumi Jo",
+      "url": "https://open.spotify.com/track/7if8YWZvvldFhHH7GkMPTJ"
+    },
+    {
+      "album": {
         "name": "Symphonic Queen - The Greatest Hits",
         "url": "https://open.spotify.com/album/2cxk26Jcp16zhJv77IFd2v"
       },
@@ -128,6 +164,24 @@
       "duration_ms": 222546,
       "name": "Don't Stop Me Now",
       "url": "https://open.spotify.com/track/2ruB0oOIk52u2AWmiWrGgd"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4bg3HYoBFNRe6ZkMDSjJsF"
+      },
+      "artists": [
+        {
+          "name": "Jung Jae-Min",
+          "url": "https://open.spotify.com/artist/4Wm2dUQAzkLP6OOvA8heBv"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257548,
+      "name": "G.F. Handel - Passacaglia for 2 Violin and Orchestra",
+      "url": "https://open.spotify.com/track/22BCbvreiyC2ddabNmJ7tM"
     },
     {
       "album": {
@@ -269,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4bg3HYoBFNRe6ZkMDSjJsF"
+      },
+      "artists": [
+        {
+          "name": "ALi",
+          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189657,
+      "name": "Luminous Conatus",
+      "url": "https://open.spotify.com/track/68gQD3kc5fkO2t64UhwH4s"
+    },
+    {
+      "album": {
         "name": "Maestra (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv"
       },
@@ -300,7 +372,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220965,
-      "name": "Mendelssohn : 2nd Movement from Violin Concerto In E Minor Op.64 (Arr. by Shin Min Sup for Orchestra)",
+      "name": "Mendelssohn : 2nd Movement from Violin Concerto In E Minor Op.64",
       "url": "https://open.spotify.com/track/7bYr5SdlOyTT9RJBQKK5RR"
     },
     {

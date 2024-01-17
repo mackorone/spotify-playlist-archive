@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9M0XCg3OHJ6.md) - [plain]
 
 > Sail away to dreamland and sleep all night with fluffy and relaxing white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,530 likes - 172 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,871 likes - 172 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

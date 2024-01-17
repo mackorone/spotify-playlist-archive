@@ -1,405 +1,2321 @@
 {
-  "2022-11-23": 6524,
-  "2022-11-24": 6590,
-  "2022-11-25": 6635,
-  "2022-11-26": 6662,
-  "2022-11-27": 6705,
-  "2022-11-28": 6726,
-  "2022-11-29": 6765,
-  "2022-11-30": 6799,
-  "2022-12-01": 6840,
-  "2022-12-02": 6852,
-  "2022-12-03": 6896,
-  "2022-12-04": 6921,
-  "2022-12-05": 6950,
-  "2022-12-06": 6969,
-  "2022-12-07": 7001,
-  "2022-12-08": 7041,
-  "2022-12-09": 7072,
-  "2022-12-10": 7101,
-  "2022-12-11": 7111,
-  "2022-12-12": 7135,
-  "2022-12-13": 7176,
-  "2022-12-14": 7205,
-  "2022-12-15": 7227,
-  "2022-12-16": 7260,
-  "2022-12-17": 7279,
-  "2022-12-18": 7299,
-  "2022-12-19": 7325,
-  "2022-12-20": 7366,
-  "2022-12-21": 7366,
-  "2022-12-22": 7376,
-  "2022-12-24": 7420,
-  "2022-12-25": 7441,
-  "2022-12-26": 7468,
-  "2022-12-27": 7503,
-  "2022-12-28": 7517,
-  "2022-12-29": 7545,
-  "2022-12-30": 7575,
-  "2022-12-31": 7604,
-  "2023-01-01": 7617,
-  "2023-01-02": 7650,
-  "2023-01-03": 7679,
-  "2023-01-04": 7706,
-  "2023-01-05": 7735,
-  "2023-01-06": 7758,
-  "2023-01-07": 7791,
-  "2023-01-08": 7793,
-  "2023-01-09": 7820,
-  "2023-01-10": 7848,
-  "2023-01-11": 7867,
-  "2023-01-12": 7900,
-  "2023-01-13": 7942,
-  "2023-01-14": 8015,
-  "2023-01-15": 8022,
-  "2023-01-16": 8045,
-  "2023-01-17": 8072,
-  "2023-01-18": 8118,
-  "2023-01-19": 8140,
-  "2023-01-20": 8177,
-  "2023-01-21": 8221,
-  "2023-01-22": 8257,
-  "2023-01-23": 8290,
-  "2023-01-24": 8324,
-  "2023-01-25": 8353,
-  "2023-01-26": 8388,
-  "2023-01-27": 8434,
-  "2023-01-28": 8463,
-  "2023-01-29": 8486,
-  "2023-01-30": 8507,
-  "2023-01-31": 8507,
-  "2023-02-01": 8569,
-  "2023-02-02": 8584,
-  "2023-02-03": 8621,
-  "2023-02-04": 8658,
-  "2023-02-05": 8699,
-  "2023-02-06": 8716,
-  "2023-02-07": 8749,
-  "2023-02-08": 8807,
-  "2023-02-09": 8807,
-  "2023-02-10": 8829,
-  "2023-02-11": 8857,
-  "2023-02-12": 8888,
-  "2023-02-13": 8913,
-  "2023-02-14": 8913,
-  "2023-02-15": 8940,
-  "2023-02-16": 8954,
-  "2023-02-17": 8977,
-  "2023-02-18": 9041,
-  "2023-02-19": 9048,
-  "2023-02-20": 9067,
-  "2023-02-21": 9089,
-  "2023-02-22": 9110,
-  "2023-02-23": 9140,
-  "2023-02-24": 9185,
-  "2023-02-25": 9224,
-  "2023-02-26": 9238,
-  "2023-02-27": 9273,
-  "2023-02-28": 9273,
-  "2023-03-01": 9275,
-  "2023-03-02": 9301,
-  "2023-03-03": 9325,
-  "2023-03-04": 9352,
-  "2023-03-05": 9402,
-  "2023-03-06": 9402,
-  "2023-03-07": 9428,
-  "2023-03-08": 9459,
-  "2023-03-09": 9474,
-  "2023-03-10": 9507,
-  "2023-03-11": 9512,
-  "2023-03-12": 9540,
-  "2023-03-13": 9566,
-  "2023-03-14": 9596,
-  "2023-03-15": 9624,
-  "2023-03-16": 9646,
-  "2023-03-17": 9646,
-  "2023-03-18": 9713,
-  "2023-03-19": 9749,
-  "2023-03-20": 9778,
-  "2023-03-21": 9803,
-  "2023-03-22": 9830,
-  "2023-03-23": 9858,
-  "2023-03-24": 9858,
-  "2023-03-25": 9905,
-  "2023-03-26": 9927,
-  "2023-03-27": 9963,
-  "2023-03-28": 9974,
-  "2023-03-29": 10003,
-  "2023-03-30": 10047,
-  "2023-03-31": 10047,
-  "2023-04-01": 10078,
-  "2023-04-02": 10108,
-  "2023-04-03": 10151,
-  "2023-04-04": 10160,
-  "2023-04-05": 10188,
-  "2023-04-06": 10211,
-  "2023-04-07": 10230,
-  "2023-04-09": 10277,
-  "2023-04-10": 10309,
-  "2023-04-11": 10392,
-  "2023-04-12": 10392,
-  "2023-04-13": 10424,
-  "2023-04-14": 10455,
-  "2023-04-15": 10484,
-  "2023-04-16": 10497,
-  "2023-04-17": 10523,
-  "2023-04-18": 10550,
-  "2023-04-19": 10580,
-  "2023-04-20": 10620,
-  "2023-04-21": 10660,
-  "2023-04-22": 10676,
-  "2023-04-23": 10705,
-  "2023-04-24": 10729,
-  "2023-04-25": 10765,
-  "2023-04-26": 10793,
-  "2023-04-27": 10823,
-  "2023-04-28": 10862,
-  "2023-04-29": 10895,
-  "2023-04-30": 10919,
-  "2023-05-01": 10946,
-  "2023-05-02": 10969,
-  "2023-05-03": 10984,
-  "2023-05-04": 11004,
-  "2023-05-05": 11025,
-  "2023-05-06": 11058,
-  "2023-05-07": 11084,
-  "2023-05-08": 11119,
-  "2023-05-09": 11152,
-  "2023-05-10": 11179,
-  "2023-05-11": 11210,
-  "2023-05-12": 11238,
-  "2023-05-13": 11277,
-  "2023-05-14": 11307,
-  "2023-05-15": 11321,
-  "2023-05-16": 11339,
-  "2023-05-17": 11373,
-  "2023-05-18": 11400,
-  "2023-05-19": 11415,
-  "2023-05-20": 11446,
-  "2023-05-21": 11446,
-  "2023-05-22": 11446,
-  "2023-05-23": 11492,
-  "2023-05-24": 11541,
-  "2023-05-25": 11534,
-  "2023-05-26": 11551,
-  "2023-05-27": 11576,
-  "2023-05-28": 11595,
-  "2023-05-29": 11595,
-  "2023-05-30": 11657,
-  "2023-05-31": 11685,
-  "2023-06-01": 11711,
-  "2023-06-02": 11736,
-  "2023-06-03": 11756,
-  "2023-06-04": 11783,
-  "2023-06-05": 11818,
-  "2023-06-06": 11845,
-  "2023-06-07": 11860,
-  "2023-06-08": 11882,
-  "2023-06-09": 11921,
-  "2023-06-10": 11942,
-  "2023-06-11": 11964,
-  "2023-06-12": 11999,
-  "2023-06-13": 12027,
-  "2023-06-14": 12042,
-  "2023-06-15": 12066,
-  "2023-06-16": 12095,
-  "2023-06-17": 12108,
-  "2023-06-18": 12139,
-  "2023-06-19": 12169,
-  "2023-06-20": 12194,
-  "2023-06-21": 12210,
-  "2023-06-22": 12240,
-  "2023-06-23": 12259,
-  "2023-06-24": 12280,
-  "2023-06-25": 12314,
-  "2023-06-26": 12334,
-  "2023-06-27": 12351,
-  "2023-06-28": 12381,
-  "2023-06-29": 12398,
-  "2023-06-30": 12428,
-  "2023-07-01": 12488,
-  "2023-07-02": 12488,
-  "2023-07-03": 12501,
-  "2023-07-04": 12523,
-  "2023-07-05": 12546,
-  "2023-07-06": 12583,
-  "2023-07-07": 12583,
-  "2023-07-08": 12626,
-  "2023-07-09": 12657,
-  "2023-07-10": 12686,
-  "2023-07-11": 12706,
-  "2023-07-12": 12728,
-  "2023-07-13": 12744,
-  "2023-07-14": 12784,
-  "2023-07-15": 12793,
-  "2023-07-16": 12831,
-  "2023-07-17": 12852,
-  "2023-07-18": 12865,
-  "2023-07-19": 12890,
-  "2023-07-20": 12908,
-  "2023-07-21": 12922,
-  "2023-07-22": 12939,
-  "2023-07-23": 12960,
-  "2023-07-24": 12970,
-  "2023-07-25": 12985,
-  "2023-07-26": 13003,
-  "2023-07-27": 13031,
-  "2023-07-28": 13054,
-  "2023-07-29": 13094,
-  "2023-07-30": 13111,
-  "2023-07-31": 13146,
-  "2023-08-01": 13154,
-  "2023-08-02": 13173,
-  "2023-08-03": 13186,
-  "2023-08-04": 13216,
-  "2023-08-05": 13222,
-  "2023-08-06": 13257,
-  "2023-08-07": 13257,
-  "2023-08-08": 13275,
-  "2023-08-09": 13287,
-  "2023-08-10": 13300,
-  "2023-08-11": 13326,
-  "2023-08-12": 13344,
-  "2023-08-13": 13359,
-  "2023-08-14": 13384,
-  "2023-08-15": 13408,
-  "2023-08-16": 13408,
-  "2023-08-17": 13426,
-  "2023-08-18": 13445,
-  "2023-08-19": 13460,
-  "2023-08-20": 13468,
-  "2023-08-21": 13482,
-  "2023-08-22": 13506,
-  "2023-08-23": 13518,
-  "2023-08-24": 13531,
-  "2023-08-25": 13542,
-  "2023-08-26": 13547,
-  "2023-08-27": 13559,
-  "2023-08-28": 13573,
-  "2023-08-29": 13579,
-  "2023-08-30": 13594,
-  "2023-08-31": 13607,
-  "2023-09-01": 13748,
-  "2023-09-02": 13748,
-  "2023-09-03": 13800,
-  "2023-09-04": 13921,
-  "2023-09-05": 14000,
-  "2023-09-06": 14095,
-  "2023-09-07": 14187,
-  "2023-09-08": 14275,
-  "2023-09-09": 14368,
-  "2023-09-10": 14445,
-  "2023-09-11": 14533,
-  "2023-09-12": 14633,
-  "2023-09-13": 14750,
-  "2023-09-14": 14831,
-  "2023-09-15": 14930,
-  "2023-09-16": 15016,
-  "2023-09-17": 15114,
-  "2023-09-18": 15209,
-  "2023-09-19": 15318,
-  "2023-09-20": 15393,
-  "2023-09-21": 15514,
-  "2023-09-22": 15624,
-  "2023-09-23": 15731,
-  "2023-09-24": 15811,
-  "2023-09-25": 15916,
-  "2023-09-26": 16018,
-  "2023-09-27": 16084,
-  "2023-09-28": 16164,
-  "2023-09-29": 16255,
-  "2023-09-30": 16359,
-  "2023-10-01": 16435,
-  "2023-10-02": 16533,
-  "2023-10-03": 16601,
-  "2023-10-04": 16689,
-  "2023-10-05": 16769,
-  "2023-10-06": 16846,
-  "2023-10-07": 16917,
-  "2023-10-08": 16976,
-  "2023-10-09": 17036,
-  "2023-10-10": 17111,
-  "2023-10-11": 17278,
-  "2023-10-12": 17278,
-  "2023-10-13": 17343,
-  "2023-10-14": 17409,
-  "2023-10-15": 17483,
-  "2023-10-16": 17577,
-  "2023-10-17": 17655,
-  "2023-10-18": 17716,
-  "2023-10-19": 17778,
-  "2023-10-20": 17844,
-  "2023-10-21": 17914,
-  "2023-10-22": 17999,
-  "2023-10-23": 18078,
-  "2023-10-24": 18144,
-  "2023-10-25": 18207,
-  "2023-10-26": 18288,
-  "2023-10-27": 18372,
-  "2023-10-28": 18431,
-  "2023-10-29": 18499,
-  "2023-10-30": 18655,
-  "2023-10-31": 18655,
-  "2023-11-01": 18722,
-  "2023-11-02": 18799,
-  "2023-11-03": 18891,
-  "2023-11-04": 18959,
-  "2023-11-05": 19032,
-  "2023-11-06": 19106,
-  "2023-11-07": 19161,
-  "2023-11-08": 19257,
-  "2023-11-09": 19339,
-  "2023-11-10": 19413,
-  "2023-11-11": 19500,
-  "2023-11-12": 19563,
-  "2023-11-13": 19623,
-  "2023-11-14": 19703,
-  "2023-11-15": 19703,
-  "2023-11-16": 19896,
-  "2023-11-17": 20009,
-  "2023-11-18": 20009,
-  "2023-11-19": 20089,
-  "2023-11-20": 20157,
-  "2023-11-21": 20225,
-  "2023-11-22": 20282,
-  "2023-11-23": 20334,
-  "2023-11-24": 20400,
-  "2023-11-25": 20482,
-  "2023-11-26": 20561,
-  "2023-11-27": 20657,
-  "2023-11-28": 20739,
-  "2023-11-29": 20914,
-  "2023-11-30": 20914,
-  "2023-12-01": 21009,
-  "2023-12-02": 21090,
-  "2023-12-03": 21188,
-  "2023-12-04": 21276,
-  "2023-12-05": 21356,
-  "2023-12-06": 21440,
-  "2023-12-07": 21530,
-  "2023-12-08": 21586,
-  "2023-12-09": 21604,
-  "2023-12-10": 21570,
-  "2023-12-11": 21592,
-  "2023-12-12": 21621,
-  "2023-12-13": 21638,
-  "2023-12-14": 21670,
-  "2023-12-15": 21678,
-  "2023-12-16": 21688,
-  "2023-12-17": 21702,
-  "2023-12-18": 21718,
-  "2023-12-19": 21721,
-  "2023-12-20": 21741,
-  "2023-12-21": 21742,
-  "2023-12-22": 21753,
-  "2023-12-23": 21757,
-  "2023-12-24": 21767,
-  "2023-12-25": 21772,
-  "2023-12-26": 21780,
-  "2023-12-27": 21786,
-  "2023-12-30": 21833,
-  "2023-12-31": 21840,
-  "2024-01-01": 21855,
-  "2024-01-02": 21859,
-  "2024-01-03": 21869
+  "2024-01-17": 21971,
+  "date_first_scraped": "2022-11-23",
+  "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
+  "name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
+  "tracks": [
+    {
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193321,
+      "name": "200%",
+      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216786,
+      "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
+      "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
+    },
+    {
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206266,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
+    },
+    {
+      "album": {
+        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205192,
+      "name": "ALWAYS",
+      "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233955,
+      "name": "Baby, Don't Cry",
+      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
+    },
+    {
+      "album": {
+        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
+    },
+    {
+      "album": {
+        "name": "A Class",
+        "url": "https://open.spotify.com/album/5Nq0GIIfrsCnUPx4Ayej1c"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "Bad Girl Good Girl",
+      "url": "https://open.spotify.com/track/1EkLacfCJIJcHkJvxlkJKE"
+    },
+    {
+      "album": {
+        "name": "A Class",
+        "url": "https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 217560,
+      "name": "Bad Girl Good Girl",
+      "url": "https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc"
+    },
+    {
+      "album": {
+        "name": "BERMUDA TRIANGLE",
+        "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "BERMUDA TRIANGLE",
+      "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217051,
+      "name": "Blood Sweat & Tears",
+      "url": "https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233098,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
+    },
+    {
+      "album": {
+        "name": "ARRIVAL OF EVERGLOW",
+        "url": "https://open.spotify.com/album/4qFVcLDapqLmjinahsk7U0"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228682,
+      "name": "Bon Bon Chocolat",
+      "url": "https://open.spotify.com/track/5XS0GCCIotaI6XtsYcIKeX"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288915,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
+    },
+    {
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212244,
+      "name": "Bubble Pop!",
+      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
+    },
+    {
+      "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
+    },
+    {
+      "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "album": {
+        "name": "THE THIRD SINGLE CATALLENA",
+        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
+      },
+      "artists": [
+        {
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193153,
+      "name": "Catallena",
+      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+    },
+    {
+      "album": {
+        "name": "NCT #127 CHERRY BOMB\u2013 The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236667,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58"
+    },
+    {
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229627,
+      "name": "COME BACK HOME",
+      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
+    },
+    {
+      "album": {
+        "name": "COUP D'ETAT",
+        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224792,
+      "name": "CROOKED",
+      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229359,
+      "name": "D (Half Moon)",
+      "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
+    },
+    {
+      "album": {
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199873,
+      "name": "DALLA DALLA",
+      "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211350,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
+    },
+    {
+      "album": {
+        "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+        "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216555,
+      "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+      "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214380,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
+    },
+    {
+      "album": {
+        "name": "/// (You, Clouds, Rain)",
+        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 189410,
+      "name": "Don't Know You",
+      "url": "https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg"
+    },
+    {
+      "album": {
+        "name": "Electric Shock - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196946,
+      "name": "Electric Shock",
+      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
+    },
+    {
+      "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189355,
+      "name": "Energetic",
+      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+    },
+    {
+      "album": {
+        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Every day, Every Moment",
+      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "album": {
+        "name": "My Love From the Star Part 7",
+        "url": "https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243323,
+      "name": "Every moment of you",
+      "url": "https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC"
+    },
+    {
+      "album": {
+        "name": "My Love From the Star (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 243323,
+      "name": "Every moment of you",
+      "url": "https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS"
+    },
+    {
+      "album": {
+        "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189355,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
+    },
+    {
+      "album": {
+        "name": "NU'EST The First Album \"Re:BIRTH\"",
+        "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 220134,
+      "name": "FACE",
+      "url": "https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm"
+    },
+    {
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 231626,
+      "name": "FANTASTIC BABY - Japanese ver.",
+      "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
+    },
+    {
+      "album": {
+        "name": "COLLECTION",
+        "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231748,
+      "name": "FXXK IT",
+      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
+    },
+    {
+      "album": {
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+    },
+    {
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+    },
+    {
+      "album": {
+        "name": "Give It To Me (2)",
+        "url": "https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201325,
+      "name": "Give it to me",
+      "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
+    },
+    {
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233586,
+      "name": "Good day",
+      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
+    },
+    {
+      "album": {
+        "name": "A Class",
+        "url": "https://open.spotify.com/album/5Nq0GIIfrsCnUPx4Ayej1c"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225574,
+      "name": "Good-bye Baby",
+      "url": "https://open.spotify.com/track/0HWzu5wDNPI1f365KKICdz"
+    },
+    {
+      "album": {
+        "name": "Gotta Go",
+        "url": "https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221813,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Growl",
+      "url": "https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9"
+    },
+    {
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/1PPU2sGpyQVivVTBLyrjJx"
+      },
+      "artists": [
+        {
+          "name": "2PM",
+          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198826,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/5RENkTP0he793Basw1Stto"
+    },
+    {
+      "album": {
+        "name": "HANN (Alone)",
+        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205820,
+      "name": "HANN (Alone)",
+      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256359,
+      "name": "Haru Haru",
+      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
+    },
+    {
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179053,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
+    },
+    {
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
+      "duration_ms": 209801,
+      "name": "History",
+      "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
+    },
+    {
+      "album": {
+        "name": "My Last Love OST Part.4",
+        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195216,
+      "name": "Hold my hand",
+      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
+    },
+    {
+      "album": {
+        "name": "Hot Summer - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-12",
+      "duration_ms": 225786,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
+    },
+    {
+      "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 186799,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm"
+    },
+    {
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01zi2Tsa9ojYgPY5Q08aUb"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186799,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/3jb7gznZVfqyMQGJo4hzG2"
+    },
+    {
+      "album": {
+        "name": "I - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206038,
+      "name": "I",
+      "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
+    },
+    {
+      "album": {
+        "name": "I Am The Best",
+        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208730,
+      "name": "I Am The Best",
+      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271325,
+      "name": "I GOT A BOY",
+      "url": "https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp"
+    },
+    {
+      "album": {
+        "name": "INSANE LOVE",
+        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221371,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169448,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "I Need A Girl (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow",
+      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
+    },
+    {
+      "album": {
+        "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
+        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272847,
+      "name": "If It Is You",
+      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
+    },
+    {
+      "album": {
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210834,
+      "name": "If You Do",
+      "url": "https://open.spotify.com/track/2Yzb7XLjtfZCeVm6XYH55s"
+    },
+    {
+      "album": {
+        "name": "COLOR*IZ",
+        "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218993,
+      "name": "La Vie en Rose",
+      "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279655,
+      "name": "LAST DANCE",
+      "url": "https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6"
+    },
+    {
+      "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283800,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211926,
+      "name": "LET'S NOT FALL IN LOVE",
+      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
+    },
+    {
+      "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209648,
+      "name": "LOVE SCENARIO",
+      "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
+    },
+    {
+      "album": {
+        "name": "Lucifer - The 2nd Album",
+        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233986,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
+    },
+    {
+      "album": {
+        "name": "Lupin",
+        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-08",
+      "duration_ms": 192440,
+      "name": "Lupin",
+      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
+    },
+    {
+      "album": {
+        "name": "Ma Boy",
+        "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
+      },
+      "artists": [
+        {
+          "name": "SISTAR19",
+          "url": "https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196702,
+      "name": "Ma Boy",
+      "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
+    },
+    {
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270452,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
+    },
+    {
+      "album": {
+        "name": "Our love is great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
+    },
+    {
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 193253,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
+    },
+    {
+      "album": {
+        "name": "MINISKIRT",
+        "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
+      },
+      "artists": [
+        {
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179808,
+      "name": "Miniskirt",
+      "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e9 1 : MIROH",
+        "url": "https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207617,
+      "name": "MIROH",
+      "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
+    },
+    {
+      "album": {
+        "name": "MOVE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211949,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
+    },
+    {
+      "album": {
+        "name": "Mr. Simple - The 5th Album",
+        "url": "https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241826,
+      "name": "Mr. Simple",
+      "url": "https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z"
+    },
+    {
+      "album": {
+        "name": "Secret Garden",
+        "url": "https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220099,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j"
+    },
+    {
+      "album": {
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217085,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/66nsOtUGPFQzKxSmgCjk1c"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198008,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1hGSF6kVDU8dWmXDLyfHBt"
+    },
+    {
+      "album": {
+        "name": "Your BGM Vol.1",
+        "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
+      },
+      "artists": [
+        {
+          "name": "\uc5d0\ub9ad\ub0a8 (Eric Nam), CHEEZE (\uce58\uc988)",
+          "url": "https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239099,
+      "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
+      "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 234856,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+    },
+    {
+      "album": {
+        "name": "The 3rd Album Part.1",
+        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212976,
+      "name": "Please don\u2019t\u2026",
+      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
+    },
+    {
+      "album": {
+        "name": "Rain - SM STATION",
+        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222047,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
+    },
+    {
+      "album": {
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
+    },
+    {
+      "album": {
+        "name": "John Travolta Wanna Be",
+        "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
+      },
+      "artists": [
+        {
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214427,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW"
+    },
+    {
+      "album": {
+        "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
+        "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209104,
+      "name": "Rough",
+      "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
+    },
+    {
+      "album": {
+        "name": "THE SECRET",
+        "url": "https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-14",
+      "duration_ms": 222581,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd"
+    },
+    {
+      "album": {
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239186,
+      "name": "Sherlock (Clue + Note)",
+      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
+    },
+    {
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198795,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
+    },
+    {
+      "album": {
+        "name": "Girl's Day Love Second Album",
+        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200705,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
+    },
+    {
+      "album": {
+        "name": "Song Request (feat. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281066,
+      "name": "Song Request (feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192441,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
+    },
+    {
+      "album": {
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
+    },
+    {
+      "album": {
+        "name": "The Wonder Years",
+        "url": "https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 217000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl"
+    },
+    {
+      "album": {
+        "name": "The Wonder Years",
+        "url": "https://open.spotify.com/album/3svp0TRDC5MMUAPNMimAi1"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UuKZDzjZ7cVMOvpmuAMYj"
+    },
+    {
+      "album": {
+        "name": "NCT 2018 EMPATHY",
+        "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
+      },
+      "artists": [
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG"
+        },
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214035,
+      "name": "The 7th Sense",
+      "url": "https://open.spotify.com/track/6BdchFAP4TUZUceAsAEb5U"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 226906,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
+    },
+    {
+      "album": {
+        "name": "INFINITIZE",
+        "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
+      "duration_ms": 202520,
+      "name": "The Chaser",
+      "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
+    },
+    {
+      "album": {
+        "name": "Trouble Maker",
+        "url": "https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm"
+      },
+      "artists": [
+        {
+          "name": "Trouble Maker",
+          "url": "https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219637,
+      "name": "Trouble Maker",
+      "url": "https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn"
+    },
+    {
+      "album": {
+        "name": "AH YEAH",
+        "url": "https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ"
+      },
+      "artists": [
+        {
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189882,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi"
+    },
+    {
+      "album": {
+        "name": "Love&Letter repackage album",
+        "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192092,
+      "name": "VERY NICE",
+      "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190821,
+      "name": "View",
+      "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
+    },
+    {
+      "album": {
+        "name": "Why So Lonely",
+        "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Why So Lonely",
+      "url": "https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX"
+    },
+    {
+      "album": {
+        "name": "Why So Lonely",
+        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 206706,
+      "name": "Why So Lonely",
+      "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
+    },
+    {
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
+    },
+    {
+      "album": {
+        "name": "Playful Kiss OST",
+        "url": "https://open.spotify.com/album/4cBlP0W14X5Jfe8kQw4xGB"
+      },
+      "artists": [
+        {
+          "name": "G.NA",
+          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-04",
+      "duration_ms": 237322,
+      "name": "Will You Kiss Me",
+      "url": "https://open.spotify.com/track/45qSSH075SHoIV9cSn2wZK"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186017,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx"
+    },
+    {
+      "album": {
+        "name": "Yanghwa BRDG",
+        "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229349,
+      "name": "Yanghwa BRDG",
+      "url": "https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU"
+    },
+    {
+      "album": {
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "You and I (Park Bom)",
+      "url": "https://open.spotify.com/track/14Pn9Vd2GKwQrVYADgCZ5l"
+    },
+    {
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+    },
+    {
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
+    },
+    {
+      "album": {
+        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 282806,
+      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
+      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
+    },
+    {
+      "album": {
+        "name": "\uae30\ub300",
+        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 196826,
+      "name": "\uae30\ub300\ud574",
+      "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229989,
+      "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
+      "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
+    },
+    {
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-12",
+      "duration_ms": 210834,
+      "name": "\ub2c8\uac00 \ud558\uba74 If You Do",
+      "url": "https://open.spotify.com/track/5ypObuDXm2XT7ipEE5yZMr"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/3X1fI5m8vwpqzCfhELxl2T"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 198008,
+      "name": "\ub2e4\ub978 \ub0a8\uc790 \ub9d0\uace0 \ub108 Only You",
+      "url": "https://open.spotify.com/track/09CAOGrMHucCFL64TYGJ7H"
+    },
+    {
+      "album": {
+        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
+        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-24",
+      "duration_ms": 239186,
+      "name": "\ubbf8\uc778\uc544 Bonamana",
+      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
+    },
+    {
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233813,
+      "name": "\ubcf4\uc5ec\uc904\uac8c",
+      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
+    },
+    {
+      "album": {
+        "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
+        "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
+      "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
+    },
+    {
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 197672,
+      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
+      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4winw66sZTE"
 }

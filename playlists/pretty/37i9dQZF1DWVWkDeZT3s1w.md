@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,451 likes - 88 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,302 likes - 88 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 53 | [104](https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [104](https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy) | 3:08 |
 | 54 | [En el Aire](https://open.spotify.com/track/2XDj1sDCtz9eN9lotxlhQ8) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/69TwSYaQOEdYI2Qq9FBgAT) | 3:01 |
 | 55 | [Shhh](https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Magic Classic](https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM) | [Shhh](https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5) | 2:25 |
-| 56 | [Madurar](https://open.spotify.com/track/1NeVrrBxzzG9hlF7HYMqrl) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Madurar](https://open.spotify.com/album/6vrLra49PAThZU0jag7B7k) | 4:27 |
+| 56 | [Madurar](https://open.spotify.com/track/3FKEQ67zqDyH3FcraQ4UTA) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Madurar](https://open.spotify.com/album/5okDYebvQXR8pkKASwVn8V) | 4:27 |
 | 57 | [En Defensa Propia](https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Ahora o Nunca](https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE) | 6:13 |
 | 58 | [Los Zurdos Mueren Antes](https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Almanauta](https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV) | 7:36 |
 | 59 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 |

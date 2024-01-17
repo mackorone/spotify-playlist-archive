@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Tyla
+> The hottest tracks with the freshest hits! Cover: Teddy Swims
 
 125 songs - 6 hr 48 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,653 likes - 83 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,127 likes - 83 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 27 | [All I Want for Christmas Is You](https://open.spotify.com/track/5jfp1SOlHfDmkAhaclif6A) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [All I Want for Christmas Is You](https://open.spotify.com/album/3lk74ZQt2hNBpF90tAR9Ss) | 3:38 |
 | 28 | [White Christmas \- Spotify Singles \- Holiday, Recorded at Air Studios, London](https://open.spotify.com/track/7F9oCEKbqjN99cV5HpvYER) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [White Christmas \(Spotify Singles \- Holiday, Recorded at Air Studios, London\)](https://open.spotify.com/album/1gDgPEEeuFPfRMASQWU8A0) | 3:12 |
 | 29 | [It's the Most Wonderful Time of the Year \- Spotify Singles Holiday](https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [It's the Most Wonderful Time of the Year \(Spotify Singles Holiday\)](https://open.spotify.com/album/4BuhsOIhCtbXzuDzJeyH1e) | 3:25 |
-| 30 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
+| 30 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
 | 31 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 |
 | 32 | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/track/3agFbERmZM62th15YW4Iru) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/album/2qA6ipSGFgsVG6cXrFBbOx) | 3:34 |
 | 33 | [Hard Candy Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/7ARgYvIGWXcAyKCmxZMqEW) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Hard Candy Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/2rnJ0VBNmS5pdFrbY9p8YI) | 4:09 |

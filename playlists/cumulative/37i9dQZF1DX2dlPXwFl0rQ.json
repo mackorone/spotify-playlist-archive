@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables de la M\u00fasica Mexicana. Brianda en portada.",
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. Didi R en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 213013,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 201428,
       "name": "C\u00fabreme",
       "url": "https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 175521,
       "name": "Directito A Mi Herida - En Vivo",
       "url": "https://open.spotify.com/track/0tNPaiYXFUoobqPWHucQ3E"
@@ -2090,6 +2090,24 @@
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+    },
+    {
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+      },
+      "artists": [
+        {
+          "name": "Didi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "album": {
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 200546,
       "name": "MALAMANTE (en carne viva)",
       "url": "https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi"
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 238026,
       "name": "Mariposa de Barrio",
       "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
@@ -3817,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187706,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj"
+    },
+    {
+      "album": {
         "name": "No Le Lloro A Cabrones",
         "url": "https://open.spotify.com/album/1yb6Tix7xyNRTrWOqEGgqc"
       },
@@ -3904,7 +3940,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 172013,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
@@ -5340,7 +5376,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 187411,
       "name": "Solita Solita",
       "url": "https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3"
@@ -5658,7 +5694,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 168711,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"

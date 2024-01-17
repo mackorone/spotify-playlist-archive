@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Ain't Got No Home",
+        "url": "https://open.spotify.com/album/1GEI9hf2uxMLDaRRI6D8l2"
+      },
+      "artists": [
+        {
+          "name": "Clarence",
+          "url": "https://open.spotify.com/artist/4jIgs40OSNAm3wFNjGzoKb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141933,
+      "name": "Ain't Got No Home",
+      "url": "https://open.spotify.com/track/2bBwi0SQowI6sCQyptjJ4U"
+    },
+    {
+      "album": {
         "name": "Clarence \"Frogman\" Henry Greatest Hits",
         "url": "https://open.spotify.com/album/4L2u5v1MImGXjuAuoUIikW"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 141453,
       "name": "Ain't Got No Home (Rerecorded)",
       "url": "https://open.spotify.com/track/42JaO80ilvsaec1HJFBDTu"

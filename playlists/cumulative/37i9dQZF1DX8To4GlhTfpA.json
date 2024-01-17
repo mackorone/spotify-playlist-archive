@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Stay for a night",
+        "url": "https://open.spotify.com/album/6jbFp6nxsfb6nqxWcShE1y"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Stay for a night",
+      "url": "https://open.spotify.com/track/5rzgBuzs1sYUm4FulagBnu"
+    },
+    {
+      "album": {
         "name": "SUPERSTAR",
         "url": "https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S"
       },

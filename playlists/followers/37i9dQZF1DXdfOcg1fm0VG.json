@@ -1,735 +1,3463 @@
 {
-  "2021-12-25": 457665,
-  "2021-12-26": 457816,
-  "2021-12-27": 458223,
-  "2021-12-28": 458224,
-  "2021-12-29": 458462,
-  "2021-12-30": 458672,
-  "2021-12-31": 458871,
-  "2022-01-01": 459246,
-  "2022-01-02": 459287,
-  "2022-01-03": 459432,
-  "2022-01-04": 459620,
-  "2022-01-05": 459839,
-  "2022-01-06": 460065,
-  "2022-01-07": 513233,
-  "2022-01-08": 513628,
-  "2022-01-09": 513644,
-  "2022-01-10": 513851,
-  "2022-01-11": 514043,
-  "2022-01-12": 514231,
-  "2022-01-13": 514478,
-  "2022-01-14": 514730,
-  "2022-01-15": 515164,
-  "2022-01-16": 515181,
-  "2022-01-17": 515619,
-  "2022-01-18": 515633,
-  "2022-01-19": 515779,
-  "2022-01-20": 515986,
-  "2022-01-21": 516235,
-  "2022-01-22": 516453,
-  "2022-01-23": 516653,
-  "2022-01-24": 516869,
-  "2022-01-25": 517090,
-  "2022-01-26": 517288,
-  "2022-01-27": 517500,
-  "2022-01-28": 517710,
-  "2022-01-29": 517921,
-  "2022-01-30": 518139,
-  "2022-01-31": 518366,
-  "2022-02-01": 518602,
-  "2022-02-02": 518821,
-  "2022-02-03": 519057,
-  "2022-02-04": 519280,
-  "2022-02-05": 519511,
-  "2022-02-06": 519705,
-  "2022-02-07": 519888,
-  "2022-02-08": 520087,
-  "2022-02-09": 520319,
-  "2022-02-10": 520559,
-  "2022-02-11": 520815,
-  "2022-02-12": 520975,
-  "2022-02-13": 521186,
-  "2022-02-14": 521403,
-  "2022-02-15": 521571,
-  "2022-02-16": 521757,
-  "2022-02-17": 521962,
-  "2022-02-18": 522160,
-  "2022-02-19": 522355,
-  "2022-02-20": 522597,
-  "2022-02-21": 522785,
-  "2022-02-22": 523039,
-  "2022-02-23": 523220,
-  "2022-02-24": 523464,
-  "2022-02-25": 523694,
-  "2022-02-26": 523864,
-  "2022-02-27": 524289,
-  "2022-02-28": 524289,
-  "2022-03-01": 524491,
-  "2022-03-02": 524691,
-  "2022-03-03": 524884,
-  "2022-03-04": 525129,
-  "2022-03-05": 525321,
-  "2022-03-06": 525502,
-  "2022-03-07": 525689,
-  "2022-03-08": 525862,
-  "2022-03-09": 526049,
-  "2022-03-10": 526248,
-  "2022-03-11": 526458,
-  "2022-03-12": 526632,
-  "2022-03-13": 526834,
-  "2022-03-14": 527014,
-  "2022-03-15": 527176,
-  "2022-03-16": 527363,
-  "2022-03-17": 527583,
-  "2022-03-18": 527826,
-  "2022-03-19": 527926,
-  "2022-03-20": 527926,
-  "2022-03-21": 528455,
-  "2022-03-22": 528625,
-  "2022-03-23": 528820,
-  "2022-03-24": 529029,
-  "2022-03-25": 529217,
-  "2022-03-26": 529359,
-  "2022-03-27": 529550,
-  "2022-03-28": 529714,
-  "2022-03-30": 530113,
-  "2022-03-31": 530334,
-  "2022-04-01": 530556,
-  "2022-04-02": 531636,
-  "2022-04-03": 531832,
-  "2022-04-04": 532009,
-  "2022-04-05": 532207,
-  "2022-04-06": 532429,
-  "2022-04-07": 532674,
-  "2022-04-08": 532877,
-  "2022-04-09": 533117,
-  "2022-04-10": 533479,
-  "2022-04-11": 533711,
-  "2022-04-12": 533740,
-  "2022-04-13": 533935,
-  "2022-04-14": 534164,
-  "2022-04-15": 534433,
-  "2022-04-16": 534652,
-  "2022-04-17": 534876,
-  "2022-04-18": 535102,
-  "2022-04-19": 535282,
-  "2022-04-20": 535496,
-  "2022-04-21": 535704,
-  "2022-04-22": 535959,
-  "2022-04-23": 536201,
-  "2022-04-24": 536397,
-  "2022-04-25": 536618,
-  "2022-04-26": 536905,
-  "2022-04-27": 537347,
-  "2022-04-28": 537523,
-  "2022-04-29": 537836,
-  "2022-04-30": 538043,
-  "2022-05-01": 538235,
-  "2022-05-02": 538235,
-  "2022-05-03": 538422,
-  "2022-05-04": 538595,
-  "2022-05-05": 538785,
-  "2022-05-06": 538963,
-  "2022-05-07": 539102,
-  "2022-05-08": 539296,
-  "2022-05-09": 539319,
-  "2022-05-10": 539465,
-  "2022-05-11": 539628,
-  "2022-05-12": 539779,
-  "2022-05-13": 539941,
-  "2022-05-14": 540079,
-  "2022-05-15": 540193,
-  "2022-05-16": 540323,
-  "2022-05-17": 540476,
-  "2022-05-18": 540578,
-  "2022-05-19": 540738,
-  "2022-05-20": 540924,
-  "2022-05-21": 541169,
-  "2022-05-22": 541169,
-  "2022-05-23": 541301,
-  "2022-05-24": 541432,
-  "2022-05-25": 541575,
-  "2022-05-26": 541752,
-  "2022-05-27": 542060,
-  "2022-05-28": 542286,
-  "2022-05-29": 542535,
-  "2022-05-30": 542862,
-  "2022-05-31": 543164,
-  "2022-06-01": 543710,
-  "2022-06-02": 543746,
-  "2022-06-03": 544016,
-  "2022-06-04": 544306,
-  "2022-06-05": 544593,
-  "2022-06-06": 544867,
-  "2022-06-07": 545127,
-  "2022-06-08": 545463,
-  "2022-06-09": 545674,
-  "2022-06-10": 545936,
-  "2022-06-11": 546235,
-  "2022-06-12": 546465,
-  "2022-06-13": 546727,
-  "2022-06-14": 546985,
-  "2022-06-15": 547262,
-  "2022-06-16": 547508,
-  "2022-06-17": 547780,
-  "2022-06-18": 548004,
-  "2022-06-19": 548477,
-  "2022-06-20": 548477,
-  "2022-06-21": 548721,
-  "2022-06-22": 549254,
-  "2022-06-23": 549254,
-  "2022-06-24": 549489,
-  "2022-06-25": 549726,
-  "2022-06-26": 549905,
-  "2022-06-27": 550098,
-  "2022-06-28": 550322,
-  "2022-06-29": 550585,
-  "2022-06-30": 550833,
-  "2022-07-01": 551114,
-  "2022-07-02": 551383,
-  "2022-07-03": 551626,
-  "2022-07-04": 551852,
-  "2022-07-05": 552110,
-  "2022-07-06": 552405,
-  "2022-07-07": 552624,
-  "2022-07-08": 552896,
-  "2022-07-09": 553201,
-  "2022-07-10": 553473,
-  "2022-07-11": 553733,
-  "2022-07-12": 553993,
-  "2022-07-13": 554274,
-  "2022-07-14": 554579,
-  "2022-07-15": 554909,
-  "2022-07-16": 555182,
-  "2022-07-17": 555470,
-  "2022-07-18": 555761,
-  "2022-07-19": 556063,
-  "2022-07-20": 556338,
-  "2022-07-21": 556615,
-  "2022-07-22": 556895,
-  "2022-07-23": 557172,
-  "2022-07-24": 557454,
-  "2022-07-25": 557750,
-  "2022-07-26": 558073,
-  "2022-07-27": 558390,
-  "2022-07-28": 558664,
-  "2022-07-29": 558974,
-  "2022-07-30": 559521,
-  "2022-07-31": 559521,
-  "2022-08-01": 559796,
-  "2022-08-02": 560340,
-  "2022-08-03": 560340,
-  "2022-08-04": 560659,
-  "2022-08-05": 560952,
-  "2022-08-06": 561216,
-  "2022-08-07": 561512,
-  "2022-08-08": 561846,
-  "2022-08-09": 562127,
-  "2022-08-10": 562439,
-  "2022-08-11": 562739,
-  "2022-08-12": 563000,
-  "2022-08-13": 563281,
-  "2022-08-14": 563529,
-  "2022-08-15": 563847,
-  "2022-08-16": 564093,
-  "2022-08-17": 564363,
-  "2022-08-18": 564655,
-  "2022-08-19": 564943,
-  "2022-08-20": 565245,
-  "2022-08-21": 565530,
-  "2022-08-22": 565838,
-  "2022-08-23": 566107,
-  "2022-08-24": 566396,
-  "2022-08-25": 566690,
-  "2022-08-26": 566985,
-  "2022-08-27": 567276,
-  "2022-08-28": 567617,
-  "2022-08-29": 567897,
-  "2022-08-30": 567481,
-  "2022-08-31": 566209,
-  "2022-09-01": 564905,
-  "2022-09-02": 563517,
-  "2022-09-03": 561042,
-  "2022-09-04": 560045,
-  "2022-09-05": 560109,
-  "2022-09-06": 560439,
-  "2022-09-07": 560756,
-  "2022-09-09": 561348,
-  "2022-09-10": 561635,
-  "2022-09-11": 562021,
-  "2022-09-12": 562340,
-  "2022-09-13": 562624,
-  "2022-09-15": 563312,
-  "2022-09-16": 563651,
-  "2022-09-17": 563970,
-  "2022-09-18": 564277,
-  "2022-09-19": 564603,
-  "2022-09-20": 564914,
-  "2022-09-21": 565210,
-  "2022-09-22": 565513,
-  "2022-09-23": 565850,
-  "2022-09-24": 566136,
-  "2022-09-25": 566448,
-  "2022-09-26": 566756,
-  "2022-09-27": 567097,
-  "2022-09-28": 567415,
-  "2022-09-29": 567739,
-  "2022-09-30": 568043,
-  "2022-10-01": 568341,
-  "2022-10-02": 568651,
-  "2022-10-03": 568933,
-  "2022-10-04": 569192,
-  "2022-10-05": 569455,
-  "2022-10-06": 569725,
-  "2022-10-07": 570029,
-  "2022-10-08": 570348,
-  "2022-10-09": 570774,
-  "2022-10-10": 570842,
-  "2022-10-11": 571150,
-  "2022-10-12": 571450,
-  "2022-10-13": 571760,
-  "2022-10-14": 572051,
-  "2022-10-15": 572322,
-  "2022-10-16": 572611,
-  "2022-10-17": 572856,
-  "2022-10-18": 573136,
-  "2022-10-19": 573435,
-  "2022-10-20": 573715,
-  "2022-10-21": 573987,
-  "2022-10-22": 574244,
-  "2022-10-23": 574509,
-  "2022-10-24": 574772,
-  "2022-10-25": 575032,
-  "2022-10-26": 575314,
-  "2022-10-27": 575644,
-  "2022-10-28": 575944,
-  "2022-10-29": 576211,
-  "2022-10-30": 576423,
-  "2022-10-31": 576655,
-  "2022-11-01": 576934,
-  "2022-11-02": 577232,
-  "2022-11-03": 577491,
-  "2022-11-04": 577779,
-  "2022-11-05": 578024,
-  "2022-11-06": 578277,
-  "2022-11-07": 578543,
-  "2022-11-08": 578866,
-  "2022-11-09": 579156,
-  "2022-11-10": 579416,
-  "2022-11-11": 579691,
-  "2022-11-12": 580021,
-  "2022-11-13": 580266,
-  "2022-11-14": 580578,
-  "2022-11-15": 580880,
-  "2022-11-16": 581254,
-  "2022-11-17": 581535,
-  "2022-11-18": 581583,
-  "2022-11-19": 581630,
-  "2022-11-20": 581899,
-  "2022-11-21": 582149,
-  "2022-11-22": 582415,
-  "2022-11-23": 582676,
-  "2022-11-24": 583258,
-  "2022-11-25": 583744,
-  "2022-11-26": 584069,
-  "2022-11-27": 584405,
-  "2022-11-28": 584685,
-  "2022-11-29": 584956,
-  "2022-11-30": 585266,
-  "2022-12-01": 585732,
-  "2022-12-02": 585966,
-  "2022-12-03": 586410,
-  "2022-12-04": 586766,
-  "2022-12-05": 587037,
-  "2022-12-06": 587428,
-  "2022-12-07": 587842,
-  "2022-12-08": 588237,
-  "2022-12-09": 588587,
-  "2022-12-10": 588918,
-  "2022-12-11": 589253,
-  "2022-12-12": 589620,
-  "2022-12-13": 590019,
-  "2022-12-14": 590372,
-  "2022-12-15": 590777,
-  "2022-12-16": 591083,
-  "2022-12-17": 591449,
-  "2022-12-18": 591781,
-  "2022-12-19": 592200,
-  "2022-12-20": 592923,
-  "2022-12-21": 592923,
-  "2022-12-22": 593285,
-  "2022-12-24": 593915,
-  "2022-12-25": 594172,
-  "2022-12-26": 594430,
-  "2022-12-27": 594695,
-  "2022-12-28": 595073,
-  "2022-12-29": 595408,
-  "2022-12-30": 595752,
-  "2022-12-31": 596054,
-  "2023-01-01": 596356,
-  "2023-01-02": 596620,
-  "2023-01-03": 596924,
-  "2023-01-04": 597284,
-  "2023-01-05": 597711,
-  "2023-01-06": 598111,
-  "2023-01-07": 598692,
-  "2023-01-08": 598813,
-  "2023-01-09": 599222,
-  "2023-01-10": 599630,
-  "2023-01-11": 600052,
-  "2023-01-12": 600461,
-  "2023-01-13": 600849,
-  "2023-01-14": 601469,
-  "2023-01-15": 601539,
-  "2023-01-16": 601908,
-  "2023-01-17": 602302,
-  "2023-01-18": 602695,
-  "2023-01-19": 603100,
-  "2023-01-20": 603466,
-  "2023-01-21": 603817,
-  "2023-01-22": 604176,
-  "2023-01-23": 604542,
-  "2023-01-24": 604891,
-  "2023-01-25": 605240,
-  "2023-01-26": 605661,
-  "2023-01-27": 606113,
-  "2023-01-28": 606521,
-  "2023-01-29": 606941,
-  "2023-01-30": 607311,
-  "2023-01-31": 607311,
-  "2023-02-01": 608233,
-  "2023-02-02": 608669,
-  "2023-02-03": 609107,
-  "2023-02-04": 609499,
-  "2023-02-05": 609827,
-  "2023-02-06": 610192,
-  "2023-02-07": 610588,
-  "2023-02-08": 611408,
-  "2023-02-09": 611408,
-  "2023-02-10": 611794,
-  "2023-02-11": 612134,
-  "2023-02-12": 612756,
-  "2023-02-13": 613127,
-  "2023-02-14": 613127,
-  "2023-02-15": 613434,
-  "2023-02-16": 613754,
-  "2023-02-17": 614091,
-  "2023-02-18": 614655,
-  "2023-02-19": 614704,
-  "2023-02-20": 614924,
-  "2023-02-21": 615267,
-  "2023-02-22": 615583,
-  "2023-02-23": 615925,
-  "2023-02-24": 616201,
-  "2023-02-25": 616580,
-  "2023-02-26": 616801,
-  "2023-02-27": 617343,
-  "2023-02-28": 617343,
-  "2023-03-01": 617660,
-  "2023-03-02": 618000,
-  "2023-03-03": 618365,
-  "2023-03-04": 618690,
-  "2023-03-05": 619335,
-  "2023-03-06": 619335,
-  "2023-03-07": 619677,
-  "2023-03-08": 619924,
-  "2023-03-09": 620288,
-  "2023-03-10": 620654,
-  "2023-03-11": 620952,
-  "2023-03-12": 621284,
-  "2023-03-13": 621598,
-  "2023-03-14": 621868,
-  "2023-03-15": 622162,
-  "2023-03-16": 622501,
-  "2023-03-17": 622501,
-  "2023-03-18": 623115,
-  "2023-03-19": 623374,
-  "2023-03-20": 623661,
-  "2023-03-21": 623967,
-  "2023-03-22": 624308,
-  "2023-03-23": 624645,
-  "2023-03-24": 624645,
-  "2023-03-25": 625236,
-  "2023-03-26": 625489,
-  "2023-03-27": 625805,
-  "2023-03-28": 626062,
-  "2023-03-29": 626388,
-  "2023-03-30": 626943,
-  "2023-03-31": 626943,
-  "2023-04-01": 627256,
-  "2023-04-02": 627546,
-  "2023-04-03": 627827,
-  "2023-04-04": 628105,
-  "2023-04-05": 628416,
-  "2023-04-06": 628718,
-  "2023-04-07": 629002,
-  "2023-04-09": 629508,
-  "2023-04-10": 629724,
-  "2023-04-11": 630247,
-  "2023-04-12": 630247,
-  "2023-04-13": 630500,
-  "2023-04-14": 630725,
-  "2023-04-15": 630959,
-  "2023-04-16": 631190,
-  "2023-04-17": 631462,
-  "2023-04-18": 631693,
-  "2023-04-19": 632011,
-  "2023-04-20": 632249,
-  "2023-04-21": 632486,
-  "2023-04-22": 632768,
-  "2023-04-23": 632977,
-  "2023-04-24": 633197,
-  "2023-04-25": 633441,
-  "2023-04-26": 633712,
-  "2023-04-27": 633962,
-  "2023-04-28": 634201,
-  "2023-04-29": 634401,
-  "2023-04-30": 634655,
-  "2023-05-01": 634844,
-  "2023-05-02": 635063,
-  "2023-05-03": 635324,
-  "2023-05-04": 635556,
-  "2023-05-05": 635731,
-  "2023-05-06": 635960,
-  "2023-05-07": 636128,
-  "2023-05-08": 636302,
-  "2023-05-09": 636553,
-  "2023-05-10": 636757,
-  "2023-05-11": 636973,
-  "2023-05-12": 637253,
-  "2023-05-13": 637492,
-  "2023-05-14": 637698,
-  "2023-05-15": 637910,
-  "2023-05-16": 638139,
-  "2023-05-17": 638362,
-  "2023-05-18": 638593,
-  "2023-05-19": 638878,
-  "2023-05-20": 639293,
-  "2023-05-21": 639293,
-  "2023-05-22": 639293,
-  "2023-05-23": 639673,
-  "2023-05-24": 640043,
-  "2023-05-25": 640095,
-  "2023-05-26": 640323,
-  "2023-05-27": 640510,
-  "2023-05-28": 640728,
-  "2023-05-29": 640728,
-  "2023-05-30": 641092,
-  "2023-05-31": 641282,
-  "2023-06-01": 641481,
-  "2023-06-02": 641673,
-  "2023-06-03": 641888,
-  "2023-06-04": 642038,
-  "2023-06-05": 642224,
-  "2023-06-06": 642456,
-  "2023-06-07": 642668,
-  "2023-06-08": 642876,
-  "2023-06-09": 643068,
-  "2023-06-10": 643225,
-  "2023-06-11": 643430,
-  "2023-06-12": 643653,
-  "2023-06-13": 643856,
-  "2023-06-14": 644049,
-  "2023-06-15": 644272,
-  "2023-06-16": 644470,
-  "2023-06-17": 644655,
-  "2023-06-18": 644844,
-  "2023-06-19": 645019,
-  "2023-06-20": 645186,
-  "2023-06-21": 645357,
-  "2023-06-22": 645533,
-  "2023-06-23": 645754,
-  "2023-06-24": 645913,
-  "2023-06-25": 646066,
-  "2023-06-26": 646205,
-  "2023-06-27": 646391,
-  "2023-06-28": 646615,
-  "2023-06-29": 646794,
-  "2023-06-30": 646963,
-  "2023-07-01": 647276,
-  "2023-07-02": 647276,
-  "2023-07-03": 647424,
-  "2023-07-04": 647583,
-  "2023-07-05": 647751,
-  "2023-07-06": 648107,
-  "2023-07-07": 648107,
-  "2023-07-08": 648275,
-  "2023-07-09": 648406,
-  "2023-07-10": 648609,
-  "2023-07-11": 648766,
-  "2023-07-12": 648929,
-  "2023-07-13": 649100,
-  "2023-07-14": 649282,
-  "2023-07-15": 649429,
-  "2023-07-16": 649656,
-  "2023-07-17": 649850,
-  "2023-07-18": 650030,
-  "2023-07-19": 650248,
-  "2023-07-20": 650424,
-  "2023-07-21": 650609,
-  "2023-07-22": 650822,
-  "2023-07-23": 651005,
-  "2023-07-24": 651187,
-  "2023-07-25": 651376,
-  "2023-07-26": 651558,
-  "2023-07-27": 651718,
-  "2023-07-28": 651951,
-  "2023-07-29": 652144,
-  "2023-07-30": 652291,
-  "2023-07-31": 652500,
-  "2023-08-01": 652696,
-  "2023-08-02": 652894,
-  "2023-08-03": 653089,
-  "2023-08-04": 653308,
-  "2023-08-05": 653488,
-  "2023-08-06": 653849,
-  "2023-08-07": 653849,
-  "2023-08-08": 654038,
-  "2023-08-09": 654213,
-  "2023-08-10": 654382,
-  "2023-08-11": 654568,
-  "2023-08-12": 654761,
-  "2023-08-13": 654969,
-  "2023-08-14": 655181,
-  "2023-08-15": 655612,
-  "2023-08-16": 655612,
-  "2023-08-17": 655847,
-  "2023-08-18": 656046,
-  "2023-08-19": 656260,
-  "2023-08-20": 656431,
-  "2023-08-21": 656618,
-  "2023-08-22": 656873,
-  "2023-08-23": 657079,
-  "2023-08-24": 657273,
-  "2023-08-25": 657463,
-  "2023-08-26": 657660,
-  "2023-08-27": 657844,
-  "2023-08-28": 658027,
-  "2023-08-29": 658228,
-  "2023-08-30": 658425,
-  "2023-08-31": 658649,
-  "2023-09-01": 658972,
-  "2023-09-02": 658972,
-  "2023-09-03": 659117,
-  "2023-09-04": 659117,
-  "2023-09-05": 659433,
-  "2023-09-06": 659582,
-  "2023-09-07": 659582,
-  "2023-09-08": 659582,
-  "2023-09-09": 660130,
-  "2023-09-10": 660287,
-  "2023-09-11": 660462,
-  "2023-09-12": 660462,
-  "2023-09-13": 660868,
-  "2023-09-14": 660868,
-  "2023-09-15": 661249,
-  "2023-09-16": 661388,
-  "2023-09-17": 661388,
-  "2023-09-18": 661388,
-  "2023-09-19": 661862,
-  "2023-09-20": 662010,
-  "2023-09-21": 662173,
-  "2023-09-22": 662313,
-  "2023-09-23": 662313,
-  "2023-09-24": 662313,
-  "2023-09-25": 662313,
-  "2023-09-26": 663069,
-  "2023-09-27": 663069,
-  "2023-09-28": 663433,
-  "2023-09-29": 663621,
-  "2023-09-30": 663621,
-  "2023-10-01": 663899,
-  "2023-10-02": 664055,
-  "2023-10-03": 664214,
-  "2023-10-04": 664377,
-  "2023-10-05": 664504,
-  "2023-10-06": 664711,
-  "2023-10-07": 664711,
-  "2023-10-08": 664994,
-  "2023-10-09": 664994,
-  "2023-10-10": 664994,
-  "2023-10-11": 665237,
-  "2023-10-12": 665237,
-  "2023-10-13": 665298,
-  "2023-10-14": 665298,
-  "2023-10-15": 665298,
-  "2023-10-16": 665298,
-  "2023-10-17": 665298,
-  "2023-10-18": 665298,
-  "2023-10-19": 665298,
-  "2023-10-20": 665298,
-  "2023-10-21": 665298,
-  "2023-10-22": 665298,
-  "2023-10-23": 665298,
-  "2023-10-24": 665298,
-  "2023-10-25": 665298,
-  "2023-10-26": 665298,
-  "2023-10-27": 665298,
-  "2023-10-28": 665298,
-  "2023-10-29": 665298,
-  "2023-10-30": 665298,
-  "2023-10-31": 665298,
-  "2023-11-01": 665298,
-  "2023-11-02": 665298,
-  "2023-11-03": 665298,
-  "2023-11-04": 665298,
-  "2023-11-05": 665298,
-  "2023-11-06": 665298,
-  "2023-11-07": 665298,
-  "2023-11-08": 665298,
-  "2023-11-09": 665298,
-  "2023-11-10": 665298,
-  "2023-11-11": 669350,
-  "2023-11-12": 669350,
-  "2023-11-13": 669350,
-  "2023-11-14": 669350,
-  "2023-11-15": 669350,
-  "2023-11-16": 669350,
-  "2023-11-17": 670192,
-  "2023-11-18": 670192,
-  "2023-11-19": 670192,
-  "2023-11-20": 670192,
-  "2023-11-21": 670192,
-  "2023-11-22": 670192,
-  "2023-11-23": 670192,
-  "2023-11-24": 670192,
-  "2023-11-25": 670192,
-  "2023-11-26": 670192,
-  "2023-11-27": 670192,
-  "2023-11-28": 670192,
-  "2023-11-29": 670192,
-  "2023-11-30": 670192,
-  "2023-12-01": 670192,
-  "2023-12-02": 670192,
-  "2023-12-03": 670192,
-  "2023-12-04": 670192,
-  "2023-12-05": 670192,
-  "2023-12-06": 670192,
-  "2023-12-07": 670192,
-  "2023-12-08": 670192,
-  "2023-12-09": 670192,
-  "2023-12-10": 670192,
-  "2023-12-11": 670192,
-  "2023-12-12": 670192,
-  "2023-12-13": 670192,
-  "2023-12-14": 673959,
-  "2023-12-15": 674066,
-  "2023-12-16": 674205,
-  "2023-12-17": 674322,
-  "2023-12-18": 674462,
-  "2023-12-19": 674590,
-  "2023-12-20": 674759,
-  "2023-12-21": 674917,
-  "2023-12-22": 675031,
-  "2023-12-23": 675183,
-  "2023-12-24": 675363,
-  "2023-12-25": 675517,
-  "2023-12-26": 675632,
-  "2023-12-27": 675750,
-  "2023-12-30": 676232,
-  "2023-12-31": 676365,
-  "2024-01-01": 676498,
-  "2024-01-02": 676629,
-  "2024-01-03": 676800
+  "2024-01-17": 678944,
+  "date_first_scraped": "2021-12-21",
+  "description": "Double-jump into these legendary video game soundtracks, featuring old favorites and new classics.",
+  "name": "Video Game Soundtracks",
+  "tracks": [
+    {
+      "album": {
+        "name": "Red Dead Redemption Original Soundtrack",
+        "url": "https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK"
+      },
+      "artists": [
+        {
+          "name": "Bill Elm",
+          "url": "https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW"
+        },
+        {
+          "name": "Woody Jackson",
+          "url": "https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338240,
+      "name": "(Theme From) Red Dead Redemption",
+      "url": "https://open.spotify.com/track/4BL3XnXe40ZS2YuRXWS4wX"
+    },
+    {
+      "album": {
+        "name": "Red Dead Redemption Original Soundtrack",
+        "url": "https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg"
+      },
+      "artists": [
+        {
+          "name": "Bill Elm & Woody Jackson",
+          "url": "https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 338240,
+      "name": "(Theme From) Red Dead Redemption",
+      "url": "https://open.spotify.com/track/2cnhi0n4UMWCXQIEaVjnm5"
+    },
+    {
+      "album": {
+        "name": "Portal 2: Songs to Test By (Collectors Edition)",
+        "url": "https://open.spotify.com/album/21MOM5nRM9SjIsonoOGY4Q"
+      },
+      "artists": [
+        {
+          "name": "Aperture Science Psychoacoustic Laboratories",
+          "url": "https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192426,
+      "name": "9999999",
+      "url": "https://open.spotify.com/track/4vdsb4vl6VtGmUwFteOeWA"
+    },
+    {
+      "album": {
+        "name": "Portal 2: Songs to Test by (Collectors Edition)",
+        "url": "https://open.spotify.com/album/3avDuVP1Ua1QsCXLoSStHb"
+      },
+      "artists": [
+        {
+          "name": "Aperture Science Psychoacoustic Laboratories",
+          "url": "https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "9999999",
+      "url": "https://open.spotify.com/track/7cb5qcpZusQZv5FVnj4sRg"
+    },
+    {
+      "album": {
+        "name": "Portal 2: Songs to Test By (Collectors Edition)",
+        "url": "https://open.spotify.com/album/5l1BFWphq5XiWlpbYUjrhr"
+      },
+      "artists": [
+        {
+          "name": "Aperture Science Psychoacoustic Laboratories",
+          "url": "https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 192426,
+      "name": "9999999",
+      "url": "https://open.spotify.com/track/7t0AFyyVYgwXuPRjbhQGph"
+    },
+    {
+      "album": {
+        "name": "Harmony: The Fall of Reverie (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/18jbuRWWfVHnp2g5MEqtRJ"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "[WITH GREAT POWER]",
+      "url": "https://open.spotify.com/track/1SsqQhUJT1TxlkOXQi9XKh"
+    },
+    {
+      "album": {
+        "name": "F1 22 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5hRhjXSgKKSlLX8ZFhxEqT"
+      },
+      "artists": [
+        {
+          "name": "Ian Livingstone",
+          "url": "https://open.spotify.com/artist/71wbvQyh0QbofdrRXCagLU"
+        },
+        {
+          "name": "Ethan Livingstone",
+          "url": "https://open.spotify.com/artist/5SWVyhFS5ykl0LpJQNNL6H"
+        },
+        {
+          "name": "Julie Seechuk",
+          "url": "https://open.spotify.com/artist/1R62hlOb9mHKh9sWyPvBGa"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255436,
+      "name": "A New Dawn (feat. Julie Seechuk)",
+      "url": "https://open.spotify.com/track/0gs2sDUTqsDaxY5BLxhpik"
+    },
+    {
+      "album": {
+        "name": "A Plague Tale: Requiem (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7h4CSV1MgXOf5XKntD3Ivj"
+      },
+      "artists": [
+        {
+          "name": "Olivier Deriviere",
+          "url": "https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR"
+        },
+        {
+          "name": "Eric Maria Couturier",
+          "url": "https://open.spotify.com/artist/0UqAL9Ez6drtGaSr9WuTZ1"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 239811,
+      "name": "A Plague Tale Requiem",
+      "url": "https://open.spotify.com/track/6QTIrIYGPNDpbcV961TJS1"
+    },
+    {
+      "album": {
+        "name": "A Plague Tale: Requiem (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzbew7AnCrYDAD0fPkT3T"
+      },
+      "artists": [
+        {
+          "name": "Olivier Deriviere",
+          "url": "https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR"
+        },
+        {
+          "name": "Eric Maria Couturier",
+          "url": "https://open.spotify.com/artist/0UqAL9Ez6drtGaSr9WuTZ1"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240174,
+      "name": "A Plague Tale Requiem",
+      "url": "https://open.spotify.com/track/7gsabNOGAMEaJyusi5pUt3"
+    },
+    {
+      "album": {
+        "name": "Tomb Raider (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4wySbyHsEqSWvkMQlmR7lr"
+      },
+      "artists": [
+        {
+          "name": "Jason Graves",
+          "url": "https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 62000,
+      "name": "Adventure Found Me",
+      "url": "https://open.spotify.com/track/4JFqLr1cF9jWwVOCdQ69wd"
+    },
+    {
+      "album": {
+        "name": "Tomb Raider (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/44UET2RaWhgHXIwiZAF0EN"
+      },
+      "artists": [
+        {
+          "name": "Jason Graves",
+          "url": "https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62000,
+      "name": "Adventure Found Me",
+      "url": "https://open.spotify.com/track/6DGUzh0i57qQRHIjWL2W4m"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Alan Umstead",
+          "url": "https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "All Gone (No Escape)",
+      "url": "https://open.spotify.com/track/6zezOLouSWKEfMizbzcsad"
+    },
+    {
+      "album": {
+        "name": "Everybody's Gone to the Rapture (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM"
+      },
+      "artists": [
+        {
+          "name": "Jessica Curry",
+          "url": "https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 103893,
+      "name": "All the Earth",
+      "url": "https://open.spotify.com/track/1ObRVltzyUfuBbJsxGvCRs"
+    },
+    {
+      "album": {
+        "name": "Horizon Zero Dawn (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ZAaYcFudS0BtKhWJqeMCH"
+      },
+      "artists": [
+        {
+          "name": "Joris de Man",
+          "url": "https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 151124,
+      "name": "Aloy's Theme (feat. Julie Elven) - Part 1 - Motherland",
+      "url": "https://open.spotify.com/track/14Raww1VcizsEpQQpbEqbd"
+    },
+    {
+      "album": {
+        "name": "Horizon Zero Dawn (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3CKIid67j09sFpBJRUU2Rg"
+      },
+      "artists": [
+        {
+          "name": "Joris de Man",
+          "url": "https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U"
+        },
+        {
+          "name": "Julie Elven",
+          "url": "https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 151124,
+      "name": "Aloy's Theme (feat. Julie Elven) - Part 1 - Motherland",
+      "url": "https://open.spotify.com/track/1Im6n5wqjf8uU7dMPn1i47"
+    },
+    {
+      "album": {
+        "name": "Horizon Zero Dawn (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1tnJU98uHAWkkAsRekqtTe"
+      },
+      "artists": [
+        {
+          "name": "Joris de Man",
+          "url": "https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U"
+        },
+        {
+          "name": "Julie Elven",
+          "url": "https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151124,
+      "name": "Aloy's Theme (feat. Julie Elven) - Part 1 - Motherland",
+      "url": "https://open.spotify.com/track/5d1EmpjegN3JqRH3KIOJEB"
+    },
+    {
+      "album": {
+        "name": "Sid Meier's Civilization VI (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6ERIx2c5kFBBFj6CEI7BWd"
+      },
+      "artists": [
+        {
+          "name": "Geoff Knorr",
+          "url": "https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206912,
+      "name": "Arabia (The Medieval Era)",
+      "url": "https://open.spotify.com/track/5iujP4oGYJCAacXaQHHJs2"
+    },
+    {
+      "album": {
+        "name": "Batman: Arkham City (Original Video Game Score)",
+        "url": "https://open.spotify.com/album/1TXy0eNffZssA66lDpoAPL"
+      },
+      "artists": [
+        {
+          "name": "Nick Arundel",
+          "url": "https://open.spotify.com/artist/28nfdxDKC9hymmAjsfrdIP"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "Arkham City Main Theme",
+      "url": "https://open.spotify.com/track/1m73S45l5u5Al1jQCNBVsf"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed 4: Black Flag (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133378,
+      "name": "Assassin's Creed IV Black Flag Main Theme",
+      "url": "https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed Valhalla: Twilight of the Gods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3WDVwd8Ns69Pryp0A6ETL5"
+      },
+      "artists": [
+        {
+          "name": "Sarah Schachner",
+          "url": "https://open.spotify.com/artist/692KvxElsJHIJQCS6Eoc32"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        },
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195173,
+      "name": "Assassin's Creed Valhalla Main Theme (feat. Einar Selvik)",
+      "url": "https://open.spotify.com/track/59FMS2jznmqwLYx1Noa6H4"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
+      },
+      "artists": [
+        {
+          "name": "Sarah Schachner",
+          "url": "https://open.spotify.com/artist/692KvxElsJHIJQCS6Eoc32"
+        },
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 195440,
+      "name": "Assassin's Creed Valhalla Main Theme (feat. Einar Selvik)",
+      "url": "https://open.spotify.com/track/2hQIeYuMXRrvCASE6kB37E"
+    },
+    {
+      "album": {
+        "name": "The Elder Scrolls V: Skyrim: Original Game Soundtrack",
+        "url": "https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441463,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/2jd20t5nkaFrEbTPJNXDzi"
+    },
+    {
+      "album": {
+        "name": "TALES OF ARISE - Beyond the Dawn Original Soundtrack",
+        "url": "https://open.spotify.com/album/2HL2ppkJtrzXl1lu96JVGY"
+      },
+      "artists": [
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        },
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97029,
+      "name": "Beyond the Dawn",
+      "url": "https://open.spotify.com/track/1alyWxibSGkmwbwZYy9Hhe"
+    },
+    {
+      "album": {
+        "name": "Vampire: The Masquerade - Bloodhunt (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1n9ixNMkvMMHukntiOfIZf"
+      },
+      "artists": [
+        {
+          "name": "Atanas Valkov",
+          "url": "https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 177000,
+      "name": "Bloodhunt Main Theme",
+      "url": "https://open.spotify.com/track/1r4MUA5cT9eGCI9drPV74m"
+    },
+    {
+      "album": {
+        "name": "Vampire: The Masquerade - Bloodhunt (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5pZcw77Yw4E0r9PK9SNN7S"
+      },
+      "artists": [
+        {
+          "name": "Atanas Valkov",
+          "url": "https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Bloodhunt Main Theme",
+      "url": "https://open.spotify.com/track/5YccTgIOcpRp4OUZpUSzC2"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER STORIES 2: WINGS OF RUIN ORIGINAL SOUND TRACK",
+        "url": "https://open.spotify.com/album/4m9EYywTRX2I2eimoPaaN8"
+      },
+      "artists": [
+        {
+          "name": "Marika Suzuki",
+          "url": "https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229607,
+      "name": "Bonding Winds - Monster Hunter Stories 2 Version",
+      "url": "https://open.spotify.com/track/77AG1cu6yIcvSHV9Ct8q6o"
+    },
+    {
+      "album": {
+        "name": "ICO\u301c\u9727\u306e\u4e2d\u306e\u65cb\u5f8b\u301c",
+        "url": "https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv"
+      },
+      "artists": [
+        {
+          "name": "ICO",
+          "url": "https://open.spotify.com/artist/28QxVPI8Qeh3rOriVjJziN"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "Castle in the Mist",
+      "url": "https://open.spotify.com/track/3NqHQ4V2U4wQuWlByWfa1r"
+    },
+    {
+      "album": {
+        "name": "Castlevania",
+        "url": "https://open.spotify.com/album/4RSVZeOGgBwv3z0l7lHpIT"
+      },
+      "artists": [
+        {
+          "name": "Michiru Yamane",
+          "url": "https://open.spotify.com/artist/6yHzqH70UbRHmoTOcEBmRz"
+        },
+        {
+          "name": "Jun Irie",
+          "url": "https://open.spotify.com/artist/5JqskDaiPYXK7suG5avAiC"
+        },
+        {
+          "name": "Play! Orchestra",
+          "url": "https://open.spotify.com/artist/0GYcXLXJH56tMNErPW6Wfg"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410878,
+      "name": "Castlevania",
+      "url": "https://open.spotify.com/track/664qR3uQQOlRVIr2bTzJQz"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed: The Best of Jesper Kyd",
+        "url": "https://open.spotify.com/album/3wZlREjJIfZoXPskuiire7"
+      },
+      "artists": [
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333280,
+      "name": "City of Rome",
+      "url": "https://open.spotify.com/track/6ZXa4Ztf2itEtbTRNUDYAP"
+    },
+    {
+      "album": {
+        "name": "Far: Lone Sails",
+        "url": "https://open.spotify.com/album/0WqpTTuUTg5jwnHC3raWgU"
+      },
+      "artists": [
+        {
+          "name": "Joel Schoch",
+          "url": "https://open.spotify.com/artist/6jDyAH1lGJdLV9rfEFgeGH"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181382,
+      "name": "Colored Engine",
+      "url": "https://open.spotify.com/track/2U832A0zdb8OABhBmFjlWS"
+    },
+    {
+      "album": {
+        "name": "Music from Crash Bandicoot N. Sane Trilogy (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0seis2rI9tpi9u9I3Dnza2"
+      },
+      "artists": [
+        {
+          "name": "Vicarious Visions Audio",
+          "url": "https://open.spotify.com/artist/57McP1QXbAqhD2M1oQICzB"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48629,
+      "name": "Crash Bandicoot Main Theme",
+      "url": "https://open.spotify.com/track/6LtiYg9rZXcqeonqFnGrQx"
+    },
+    {
+      "album": {
+        "name": "Music from Crash Bandicoot N. Sane Trilogy",
+        "url": "https://open.spotify.com/album/2erZbQwABnyWVwQ8FK0UAb"
+      },
+      "artists": [
+        {
+          "name": "Vicarious Visions Audio",
+          "url": "https://open.spotify.com/artist/57McP1QXbAqhD2M1oQICzB"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 48630,
+      "name": "Crash Bandicoot Main Theme",
+      "url": "https://open.spotify.com/track/73gyiXLAKUUtX8sAiE2gGV"
+    },
+    {
+      "album": {
+        "name": "The Callisto Protocol (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2TzKa6fZV8syswzob8Sb19"
+      },
+      "artists": [
+        {
+          "name": "Finishing Move Inc.",
+          "url": "https://open.spotify.com/artist/4LI758CRLLaXDPpVScbsEf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213586,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/4BhtX2RYw9R6Y3ZNWz1DqM"
+    },
+    {
+      "album": {
+        "name": "Crypt of the Necrodancer (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3nZQnXN0pPRe4QccJXHPS6"
+      },
+      "artists": [
+        {
+          "name": "Danny Baranowsky",
+          "url": "https://open.spotify.com/artist/2CivYlBeDSjMj9Azw9cIHB"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165604,
+      "name": "Crypteque",
+      "url": "https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5"
+    },
+    {
+      "album": {
+        "name": "Stardew Valley (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk"
+      },
+      "artists": [
+        {
+          "name": "ConcernedApe",
+          "url": "https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Dance of the Moonlight Jellies",
+      "url": "https://open.spotify.com/track/1qHX3JQefKOvy64bIWEAhS"
+    },
+    {
+      "album": {
+        "name": "Dark Souls 3",
+        "url": "https://open.spotify.com/album/3zSvk9thQMwQDrKMD0kJJv"
+      },
+      "artists": [
+        {
+          "name": "Yuka Kitamura",
+          "url": "https://open.spotify.com/artist/3nIELxtRA56U1AXqJFzyDw"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166533,
+      "name": "Dark Souls 3",
+      "url": "https://open.spotify.com/track/2xIRBmAuVk6s7ZoukykRqS"
+    },
+    {
+      "album": {
+        "name": "Days Gone (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2koUTJvJTFzOs8mresqtle"
+      },
+      "artists": [
+        {
+          "name": "Nathan Whitehead",
+          "url": "https://open.spotify.com/artist/1H74HYtrgoflUgbNupSbdP"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "Days Gone",
+      "url": "https://open.spotify.com/track/0o2Sdhds3vTjXRfJZBTzLm"
+    },
+    {
+      "album": {
+        "name": "KINGDOM HEARTS -HD 2.5 ReMIX- (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6eVWdfj3yizOc8qtEmF00P"
+      },
+      "artists": [
+        {
+          "name": "Yoko Shimomura",
+          "url": "https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259105,
+      "name": "Dearly Beloved - KINGDOM HEARTS II Version-",
+      "url": "https://open.spotify.com/track/6Tkn4gwyqVcpU0ecgtU3bw"
+    },
+    {
+      "album": {
+        "name": "The Music of League of Legends Vol. 1",
+        "url": "https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Demacia Rising",
+      "url": "https://open.spotify.com/track/6Q6G9OIyiehtUDmSOGCLCF"
+    },
+    {
+      "album": {
+        "name": "Immortals Fenyx Rising (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5j30b8wiK6MbEbmxnB8CmI"
+      },
+      "artists": [
+        {
+          "name": "Gareth Coker",
+          "url": "https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264156,
+      "name": "Dianoia",
+      "url": "https://open.spotify.com/track/4eKttBFjxz3qF2ByEv5tol"
+    },
+    {
+      "album": {
+        "name": "The Elder Scrolls V: Skyrim: Original Game Soundtrack",
+        "url": "https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "Dragonborn",
+      "url": "https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg"
+    },
+    {
+      "album": {
+        "name": "Elden Ring (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
+      },
+      "artists": [
+        {
+          "name": "Tsukasa Saitoh",
+          "url": "https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98382,
+      "name": "Elden Ring",
+      "url": "https://open.spotify.com/track/2iiJOgkKOCyb7ZPeqUNpud"
+    },
+    {
+      "album": {
+        "name": "The Greatest Video Game Music",
+        "url": "https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        },
+        {
+          "name": "Andrew Skeet",
+          "url": "https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112761,
+      "name": "Elder Scrolls: Oblivion",
+      "url": "https://open.spotify.com/track/7aENwq13lwx4TLLNRDxr5P"
+    },
+    {
+      "album": {
+        "name": "Sid Meier's Civilization VI (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6ERIx2c5kFBBFj6CEI7BWd"
+      },
+      "artists": [
+        {
+          "name": "Geoff Knorr",
+          "url": "https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238919,
+      "name": "England (The Industrial Era)",
+      "url": "https://open.spotify.com/track/697Keoq5gB7W3xui3vBpG4"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed 2 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ"
+      },
+      "artists": [
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237900,
+      "name": "Ezio's Family",
+      "url": "https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF"
+    },
+    {
+      "album": {
+        "name": "Distant Worlds III: More Music from Final Fantasy",
+        "url": "https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6"
+      },
+      "artists": [
+        {
+          "name": "Masashi Hamauzu",
+          "url": "https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174053,
+      "name": "Fabula Nova Crystallis (From \"Final Fantasy XIII\")",
+      "url": "https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa"
+    },
+    {
+      "album": {
+        "name": "Fall Guys (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT"
+      },
+      "artists": [
+        {
+          "name": "Jukio Kallio",
+          "url": "https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq"
+        },
+        {
+          "name": "Daniel Hagstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "Fall 'N' Roll",
+      "url": "https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173920,
+      "name": "FFVII REMAKE: \u95d8\u3046\u8005\u9054 -\u306a\u3093\u3067\u3082\u5c4b\u306e\u4ed5\u4e8b- (Let the Battles Begin! - A Merc's Job)",
+      "url": "https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "TATRAN",
+          "url": "https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281333,
+      "name": "Fields of Dusk - Orchestral Version",
+      "url": "https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ"
+    },
+    {
+      "album": {
+        "name": "Everybody's Gone to the Rapture (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM"
+      },
+      "artists": [
+        {
+          "name": "Jessica Curry",
+          "url": "https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240120,
+      "name": "Finding the Pattern",
+      "url": "https://open.spotify.com/track/4u2qyRFTBYm3Se02t0Ki7d"
+    },
+    {
+      "album": {
+        "name": "Celeste (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218708,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/03EyMyy76ZYLUh3lvGrNgE"
+    },
+    {
+      "album": {
+        "name": "Celeste (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218708,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/4MsC3bu5B8WQGHQjOoH2NG"
+    },
+    {
+      "album": {
+        "name": "Tales of Arise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/74coE6457t07plLwF26Bmo"
+      },
+      "artists": [
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        },
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "Flame of Hope",
+      "url": "https://open.spotify.com/track/2LRj7dos9qXcoMSJZ7E9xy"
+    },
+    {
+      "album": {
+        "name": "Tales of Arise (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4It1n0UCx3YTbe0vmWeVdS"
+      },
+      "artists": [
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 231360,
+      "name": "Flame of Hope",
+      "url": "https://open.spotify.com/track/1by9jxofwB9YKUqOqqOzZM"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact - Fountain of Belleau (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4UwFbGhMZA4LZqqAnt8LCB"
+      },
+      "artists": [
+        {
+          "name": "HOYO-MiX",
+          "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "Fontaine",
+      "url": "https://open.spotify.com/track/7gEpP0zIY3lVwTl7I5GZmH"
+    },
+    {
+      "album": {
+        "name": "Cyberpunk 2077: Phantom Liberty (Original Score)",
+        "url": "https://open.spotify.com/album/0YmI7KdXpmTikNmFHVMilu"
+      },
+      "artists": [
+        {
+          "name": "P.T. Adamczyk",
+          "url": "https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Force Projection",
+      "url": "https://open.spotify.com/track/1ZJevzwhAH7YHB6AFmoIqG"
+    },
+    {
+      "album": {
+        "name": "Far Cry 3 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        },
+        {
+          "name": "Serena McKinney",
+          "url": "https://open.spotify.com/artist/7gKCfXkWzSIIqF28LtrnsV"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244187,
+      "name": "Further",
+      "url": "https://open.spotify.com/track/5SWI7JbAwfTPgs0cuorR7H"
+    },
+    {
+      "album": {
+        "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R"
+      },
+      "artists": [
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141993,
+      "name": "Geralt Of Rivia",
+      "url": "https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv"
+    },
+    {
+      "album": {
+        "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn"
+      },
+      "artists": [
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141993,
+      "name": "Geralt Of Rivia",
+      "url": "https://open.spotify.com/track/5tmhUzJuP7XwqCHglyqnt8"
+    },
+    {
+      "album": {
+        "name": "Ea Music Composer Series: James Hannigan, Vol. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ"
+      },
+      "artists": [
+        {
+          "name": "James Hannigan",
+          "url": "https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106933,
+      "name": "Get To Potions",
+      "url": "https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn"
+    },
+    {
+      "album": {
+        "name": "Battlefield V (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4SAV75H61yWLg3tiIwM2FX"
+      },
+      "artists": [
+        {
+          "name": "Johan S\u00f6derqvist",
+          "url": "https://open.spotify.com/artist/0Z6bE6kOVhh2DHZPMUz2Sr"
+        },
+        {
+          "name": "Patrik Andr\u00e9n",
+          "url": "https://open.spotify.com/artist/6RgbIwWiBcHtDEk77uNjrA"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143240,
+      "name": "Glorifica",
+      "url": "https://open.spotify.com/track/2P961w334gKjxJEM2h8Rxi"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 246626,
+      "name": "God of War",
+      "url": "https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k / Svartalfheim",
+        "url": "https://open.spotify.com/album/0QqigrkIqIlzIz2Vk6mnhQ"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 274666,
+      "name": "God of War Ragnar\u00f6k (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/1K6kU7xS4BbYabECcpTA5O"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274666,
+      "name": "God of War Ragnar\u00f6k (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu"
+    },
+    {
+      "album": {
+        "name": "Elden Ring (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
+      },
+      "artists": [
+        {
+          "name": "Shoi Miyazawa",
+          "url": "https://open.spotify.com/artist/5RpBia18SUKXrsrHLYlrrd"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 288144,
+      "name": "Godrick the Grafted",
+      "url": "https://open.spotify.com/track/6RhrqyCOyLiA3MzTu8ecmD"
+    },
+    {
+      "album": {
+        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
+      },
+      "artists": [
+        {
+          "name": "John Paesano",
+          "url": "https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz"
+        },
+        {
+          "name": "Ben Billions",
+          "url": "https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Greater Together (Album Version)",
+      "url": "https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g"
+    },
+    {
+      "album": {
+        "name": "Gris (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2YMWspDGtbDgYULXvVQFM6"
+      },
+      "artists": [
+        {
+          "name": "Berlinist",
+          "url": "https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Gris, Pt. 1",
+      "url": "https://open.spotify.com/track/3m7ieZFPvfPARawHCs3Mjj"
+    },
+    {
+      "album": {
+        "name": "Halo: Combat Evolved (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4eOwVM6B9yJCwk030GGYRI"
+      },
+      "artists": [
+        {
+          "name": "Halo",
+          "url": "https://open.spotify.com/artist/3AVA9bUTMNoJ9RrbmB0YfW"
+        },
+        {
+          "name": "Martin O'Donnell",
+          "url": "https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib"
+        },
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262160,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6DhcuZbi4FW28RLicWNmmx"
+    },
+    {
+      "album": {
+        "name": "Halo: Original Soundtrack",
+        "url": "https://open.spotify.com/album/6GSXmRwERX2erR5xuLTajj"
+      },
+      "artists": [
+        {
+          "name": "Martin O'Donnell",
+          "url": "https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib"
+        },
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262160,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0htrx26DcVDcyXErXyJsTo"
+    },
+    {
+      "album": {
+        "name": "Halo: Combat Evolved (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/78tWR5P0I53edR7PeXpDfF"
+      },
+      "artists": [
+        {
+          "name": "Martin O'Donnell",
+          "url": "https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib"
+        },
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 262160,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4xbrgqQF8bzy22K8JhtFM9"
+    },
+    {
+      "album": {
+        "name": "PERSONA5 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c8\u30e9\u30b9\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
+          "url": "https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Have a Short Rest",
+      "url": "https://open.spotify.com/track/6ebNn9bRWksrrrWotc6xcV"
+    },
+    {
+      "album": {
+        "name": "Hello Rocks (from Hoa - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y"
+      },
+      "artists": [
+        {
+          "name": "Johannes Johansson",
+          "url": "https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166528,
+      "name": "Hello Rocks - from Hoa - Original Soundtrack",
+      "url": "https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys"
+    },
+    {
+      "album": {
+        "name": "The Outer Worlds (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Hd0qkZ6fnN981YtFQI6oG"
+      },
+      "artists": [
+        {
+          "name": "Justin E. Bell",
+          "url": "https://open.spotify.com/artist/6dMgJ2cftqX4iCnrSLJXHw"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465286,
+      "name": "Hope (Title Theme)",
+      "url": "https://open.spotify.com/track/5UE1l5fozj8mkaZMk1xmBX"
+    },
+    {
+      "album": {
+        "name": "Detroit: Become Human Original Soundtrack",
+        "url": "https://open.spotify.com/album/3DdgFZ4HatZt4mO1bJTKEy"
+      },
+      "artists": [
+        {
+          "name": "Nima Fakhrara",
+          "url": "https://open.spotify.com/artist/0xgLzYXTSX00BF1UpyXQpi"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 172000,
+      "name": "Hostage - Connor",
+      "url": "https://open.spotify.com/track/0OEZKBDeAOdqXFA4NPh1S4"
+    },
+    {
+      "album": {
+        "name": "Detroit: Become Human Original Soundtrack",
+        "url": "https://open.spotify.com/album/1nYDgpUXZLk7gIBFf5cXXM"
+      },
+      "artists": [
+        {
+          "name": "Nima Fakhrara",
+          "url": "https://open.spotify.com/artist/0xgLzYXTSX00BF1UpyXQpi"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 172000,
+      "name": "Hostage - Connor",
+      "url": "https://open.spotify.com/track/1uGs0Zq5f4L1fuKBbFxvEt"
+    },
+    {
+      "album": {
+        "name": "Detroit: Become Human (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3mlnG0QIGKsAp50vTBKSur"
+      },
+      "artists": [
+        {
+          "name": "Nima Fakhrara",
+          "url": "https://open.spotify.com/artist/0xgLzYXTSX00BF1UpyXQpi"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Hostage - Connor",
+      "url": "https://open.spotify.com/track/2lux5JzRo8SBpwjMWurAHb"
+    },
+    {
+      "album": {
+        "name": "Distant Worlds V: More Music from Final Fantasy",
+        "url": "https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108506,
+      "name": "Hymn of the Fayth (Final Fantasy X)",
+      "url": "https://open.spotify.com/track/72LWO03wjiyCVqxrNUpx2V"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5409\u7530 \u6c99\u7e54",
+          "url": "https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "In The Name Of",
+      "url": "https://open.spotify.com/track/4HN9ojfqPcGhgoPf3tDEYo"
+    },
+    {
+      "album": {
+        "name": "Starfield: Original Game Soundtrack",
+        "url": "https://open.spotify.com/album/1XXC0nK0M6T3UCGCdm7UQG"
+      },
+      "artists": [
+        {
+          "name": "Inon Zur",
+          "url": "https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169303,
+      "name": "Into the Starfield (Main Theme)",
+      "url": "https://open.spotify.com/track/325hdqkyHBRYu6ZOZt5Yrh"
+    },
+    {
+      "album": {
+        "name": "Cuphead (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu"
+      },
+      "artists": [
+        {
+          "name": "Kristofer Maddigan",
+          "url": "https://open.spotify.com/artist/2jR6Lr47O21Iq7l5Bs2mig"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211706,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/2ufr0Gs4OWL1Uo22EsJDSx"
+    },
+    {
+      "album": {
+        "name": "The Sims 4, Vol. 2 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0Mm4jKQfmwgJettxDVHf64"
+      },
+      "artists": [
+        {
+          "name": "Ilan Eshkeri",
+          "url": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140253,
+      "name": "It\u2019s the Sims \u2013 The Sims 4 Seasons \u2013 Seasons Theme",
+      "url": "https://open.spotify.com/track/5sOTi75kj7Lwgyc5daU6pF"
+    },
+    {
+      "album": {
+        "name": "Destiny 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6EuwzfvfcEA1X8fODjFhhJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        },
+        {
+          "name": "Skye Lewin",
+          "url": "https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1"
+        },
+        {
+          "name": "C Paul Johnson",
+          "url": "https://open.spotify.com/artist/1IMQj6EtlmfuEDQI1Mh7HK"
+        },
+        {
+          "name": "Rotem Moav",
+          "url": "https://open.spotify.com/artist/5EzR3mljAoKai6zZePlqpC"
+        },
+        {
+          "name": "Pieter Schlosser",
+          "url": "https://open.spotify.com/artist/7E6yVUVRGff9KfjPGkpMc4"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437173,
+      "name": "Journey (feat. Kronos Quartet)",
+      "url": "https://open.spotify.com/track/5P68xT9dqkleXVVtdIJPXo"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed Valhalla: Out of the North (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5iDRB3mIvV9ceXZIkXA4KT"
+      },
+      "artists": [
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 221440,
+      "name": "Kingdom of Wessex",
+      "url": "https://open.spotify.com/track/49Zre5VpuQk1GtH63JLm5B"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed Valhalla: Out of the North (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1XVLOMqM70YmlLnkLCWAR8"
+      },
+      "artists": [
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Kingdom of Wessex",
+      "url": "https://open.spotify.com/track/3wNSZ0ZowXgUeO4sEEHMRw"
+    },
+    {
+      "album": {
+        "name": "Crusader Kings 3 (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5PtKUxCsYh3QKUJOF8Mlsr"
+      },
+      "artists": [
+        {
+          "name": "Andreas Waldetoft",
+          "url": "https://open.spotify.com/artist/7eyudpSl4KF7iXun4H2PSh"
+        },
+        {
+          "name": "Paradox Interactive",
+          "url": "https://open.spotify.com/artist/75N2nC2KNgaQ1e6bGs0wyc"
+        },
+        {
+          "name": "Nina \u00c5kerblom Nielsen",
+          "url": "https://open.spotify.com/artist/1QmMQFvCfie370LsTjkqEd"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321379,
+      "name": "Knights Of Jerusalem",
+      "url": "https://open.spotify.com/track/3AWSRZ967XzZAtGIQnqvrc"
+    },
+    {
+      "album": {
+        "name": "Russia's Most Beautiful Tunes: The Stars of St. Petersburg",
+        "url": "https://open.spotify.com/album/4edbR88lESCV93dr2fQ3ia"
+      },
+      "artists": [
+        {
+          "name": "Stars Of St. Petersburg",
+          "url": "https://open.spotify.com/artist/7dhNSrp8upsw8ifn6baQEL"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "Korobeiniki",
+      "url": "https://open.spotify.com/track/0Ifw1dsZ0fwI9HjQK58lWb"
+    },
+    {
+      "album": {
+        "name": "Ori and the Will of the Wisps (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF"
+      },
+      "artists": [
+        {
+          "name": "Gareth Coker",
+          "url": "https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164612,
+      "name": "Ku's First Flight",
+      "url": "https://open.spotify.com/track/6QZf9ZiKtvyvg7TdNeW4k1"
+    },
+    {
+      "album": {
+        "name": "Mass Effect 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2QfSNNISIlORduwQniMz91"
+      },
+      "artists": [
+        {
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123720,
+      "name": "Leaving Earth",
+      "url": "https://open.spotify.com/track/1ZUwoCWz8rJqzBTwtdscPN"
+    },
+    {
+      "album": {
+        "name": "Mass Effect 3",
+        "url": "https://open.spotify.com/album/4AqNrJQ3uSoonTUgvBQHMX"
+      },
+      "artists": [
+        {
+          "name": "Clint Mansell and EA Games Soundtrack",
+          "url": "https://open.spotify.com/artist/2gBmYs1LglQFCBMGeiXPDw"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123720,
+      "name": "Leaving Earth",
+      "url": "https://open.spotify.com/track/1LpFMCykhFSQPWzNgxcvFs"
+    },
+    {
+      "album": {
+        "name": "The Greatest Video Game Music",
+        "url": "https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx"
+      },
+      "artists": [
+        {
+          "name": "Koji Kondo",
+          "url": "https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c"
+        },
+        {
+          "name": "Andrew Skeet",
+          "url": "https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261168,
+      "name": "Legend of Zelda: Suite",
+      "url": "https://open.spotify.com/track/5VuHhNAOSsCxF6ltddkEUm"
+    },
+    {
+      "album": {
+        "name": "Anthem (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Schachner",
+          "url": "https://open.spotify.com/artist/692KvxElsJHIJQCS6Eoc32"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226746,
+      "name": "Legion of Dawn",
+      "url": "https://open.spotify.com/track/4fFXTt4Lb1SVVQucRgA2Pg"
+    },
+    {
+      "album": {
+        "name": "Ori and the Blind Forest (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo"
+      },
+      "artists": [
+        {
+          "name": "Gareth Coker",
+          "url": "https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B"
+        },
+        {
+          "name": "Aeralie Brighton",
+          "url": "https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259081,
+      "name": "Light of Nibel (feat. Aeralie Brighton)",
+      "url": "https://open.spotify.com/track/79aotvPXTlHbZ8MvoxhqAE"
+    },
+    {
+      "album": {
+        "name": "Distant Worlds II: More Music from Final Fantasy",
+        "url": "https://open.spotify.com/album/1WUnKluVNj06DrGDAlsQyr"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403493,
+      "name": "Main Theme of Final Fantasy VII (Final Fantasy VII)",
+      "url": "https://open.spotify.com/track/1Op47dMLD73On4rNNNU3AW"
+    },
+    {
+      "album": {
+        "name": "Fallout 3: Original Game Soundtrack",
+        "url": "https://open.spotify.com/album/5eikNDtOsRBp4npSO9nFOJ"
+      },
+      "artists": [
+        {
+          "name": "Inon Zur",
+          "url": "https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124969,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/3ynOh82NOks4d4YcKkcrnt"
+    },
+    {
+      "album": {
+        "name": "Deathloop (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2VNdSDOOqN9f1uFHrZt75y"
+      },
+      "artists": [
+        {
+          "name": "Tom Salta",
+          "url": "https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj"
+        },
+        {
+          "name": "Aeralie Brighton",
+          "url": "https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74946,
+      "name": "Menu (Protect the Loop)",
+      "url": "https://open.spotify.com/track/0HGknL22SeV3WN0hrWffhp"
+    },
+    {
+      "album": {
+        "name": "METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK",
+        "url": "https://open.spotify.com/album/1tBv8dV8YXy58L9io2eYbI"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259920,
+      "name": "Metal Gear Saga",
+      "url": "https://open.spotify.com/track/3gMRvptppSZGbhYBeIqxV3"
+    },
+    {
+      "album": {
+        "name": "Jusant (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/65gX1rOrAQvcxGEbUGAfvz"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Ferran",
+          "url": "https://open.spotify.com/artist/228Gomw7aulbQurdDNRv7r"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109845,
+      "name": "Migration",
+      "url": "https://open.spotify.com/track/4p4KwzIJ6Ztjh9HsKYCgOw"
+    },
+    {
+      "album": {
+        "name": "Mirage Theme (From Assassin's Creed Mirage)",
+        "url": "https://open.spotify.com/album/5zqIzGbR9wAkZFSLRkndlK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Angelides",
+          "url": "https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        },
+        {
+          "name": "Layth Sidiq",
+          "url": "https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212517,
+      "name": "Mirage Theme - From Assassin's Creed Mirage",
+      "url": "https://open.spotify.com/track/17D3bYY9JJJjH1TUAruBJr"
+    },
+    {
+      "album": {
+        "name": "Return to Monkey Island (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4XB1SVZfzNnMCybZQbC3aR"
+      },
+      "artists": [
+        {
+          "name": "Michael Z. Land",
+          "url": "https://open.spotify.com/artist/5vlxfbCfKvnlesc4rE3w2S"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104571,
+      "name": "Monkey Island Theme",
+      "url": "https://open.spotify.com/track/6xgicG9zxRtZnauyqurAuW"
+    },
+    {
+      "album": {
+        "name": "Journey (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn"
+      },
+      "artists": [
+        {
+          "name": "Austin Wintory",
+          "url": "https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106960,
+      "name": "Nascence",
+      "url": "https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W"
+    },
+    {
+      "album": {
+        "name": "Journey (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0ndOKj9ShVUgDc2UiR8b2M"
+      },
+      "artists": [
+        {
+          "name": "Austin Wintory",
+          "url": "https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 106960,
+      "name": "Nascence",
+      "url": "https://open.spotify.com/track/6zcP5A5Xv6bvCUpwXrswKa"
+    },
+    {
+      "album": {
+        "name": "Uncharted 2: Among Thieves (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ZHFLShyZ4XtrQNbPU5F5c"
+      },
+      "artists": [
+        {
+          "name": "Greg Edmonson",
+          "url": "https://open.spotify.com/artist/2O0YGVBPONB6lPJYxb0q3w"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105515,
+      "name": "Nate's Theme 2.0",
+      "url": "https://open.spotify.com/track/0tYeu9EIruakcoksqC6991"
+    },
+    {
+      "album": {
+        "name": "Uncharted 2: Among Thieves (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7AeuCduXts5efoVLam7dUk"
+      },
+      "artists": [
+        {
+          "name": "Greg Edmonson",
+          "url": "https://open.spotify.com/artist/2O0YGVBPONB6lPJYxb0q3w"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 105515,
+      "name": "Nate's Theme 2.0",
+      "url": "https://open.spotify.com/track/2xJCwA0WygA4INcY2tMQ5g"
+    },
+    {
+      "album": {
+        "name": "Marvel\u2019s Spider-Man: Miles Morales (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6CaxswOwsM2r7jchhSyTb8"
+      },
+      "artists": [
+        {
+          "name": "John Paesano",
+          "url": "https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "New York's Only Spider-Man",
+      "url": "https://open.spotify.com/track/3sPz0HlbbJsiTL1jrrrxGT"
+    },
+    {
+      "album": {
+        "name": "Hades: Original Soundtrack",
+        "url": "https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb"
+      },
+      "artists": [
+        {
+          "name": "Darren Korb",
+          "url": "https://open.spotify.com/artist/0ZMWrgLff357yxLyEU77a1"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145048,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/5uiqrM9NLgnoAkJeqJqdlt"
+    },
+    {
+      "album": {
+        "name": "Distant Worlds: Music from Final Fantasy",
+        "url": "https://open.spotify.com/album/04uEX0wzsnA5UcaEtxcbal"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265573,
+      "name": "One\u200b-\u200bWinged Angel (Final Fantasy VII)",
+      "url": "https://open.spotify.com/track/7GBP9vqKB9o9wcQrkblICD"
+    },
+    {
+      "album": {
+        "name": "Distant Worlds: Music from Final Fantasy",
+        "url": "https://open.spotify.com/album/04uEX0wzsnA5UcaEtxcbal"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243293,
+      "name": "Opening\u200b~\u200bBombing Mission (Final Fantasy VII)",
+      "url": "https://open.spotify.com/track/0hEExwWtYKCAKdUXRCZ4JV"
+    },
+    {
+      "album": {
+        "name": "Hogwarts Legacy (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi"
+      },
+      "artists": [
+        {
+          "name": "chuck e. myers 'sea'",
+          "url": "https://open.spotify.com/artist/3LgsL4KAyz5zPUMnDoZjCa"
+        },
+        {
+          "name": "J Scott Rakozy",
+          "url": "https://open.spotify.com/artist/5QsqtbrHN65994pLwOyp5N"
+        },
+        {
+          "name": "Peter Murray",
+          "url": "https://open.spotify.com/artist/4OmBmVt6D1vpEF32YC9gWL"
+        },
+        {
+          "name": "Hogwarts Legacy",
+          "url": "https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300280,
+      "name": "Overture to the Unwritten (from \"Hogwarts Legacy\")",
+      "url": "https://open.spotify.com/track/4u3Idn4PRAINifJ5lgzZDx"
+    },
+    {
+      "album": {
+        "name": "The Last Guardian Soundtrack (Japan Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cTewzrku9xOpNPXOZ4jVo"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Furukawa",
+          "url": "https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Overture: Lore",
+      "url": "https://open.spotify.com/track/3ITCrEvmcuQOnmy4g1TZY5"
+    },
+    {
+      "album": {
+        "name": "Child of Light",
+        "url": "https://open.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211546,
+      "name": "Pilgrims on a Long Journey",
+      "url": "https://open.spotify.com/track/3ZuXIVoa0q3D21CJY4ZLjd"
+    },
+    {
+      "album": {
+        "name": "A Plague Tale: Innocence (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2wD6ibumlAybToO5Mpy9pK"
+      },
+      "artists": [
+        {
+          "name": "Olivier Deriviere",
+          "url": "https://open.spotify.com/artist/2CXwRGFTYdcEAI44NT7qDR"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136093,
+      "name": "Plague Tale",
+      "url": "https://open.spotify.com/track/6M8tbJM72TgAKXcxXTgtxQ"
+    },
+    {
+      "album": {
+        "name": "Level 3",
+        "url": "https://open.spotify.com/album/2KHrrZCAkI8HOIJpOqLzET"
+      },
+      "artists": [
+        {
+          "name": "Video Games Live",
+          "url": "https://open.spotify.com/artist/6dZAVi5PugDwlAnH8KMEGl"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254747,
+      "name": "Pok\u00e9mon\u00ae",
+      "url": "https://open.spotify.com/track/74RXECEEdc945gowRY4ebj"
+    },
+    {
+      "album": {
+        "name": "Never Alone (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/01aAZS4vF5Rpe1ak4Ngcf3"
+      },
+      "artists": [
+        {
+          "name": "Never Alone",
+          "url": "https://open.spotify.com/artist/00FJJnZ8342BcvhZvAQkOD"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 189910,
+      "name": "Prelude and Main Titles",
+      "url": "https://open.spotify.com/track/3XjWFz19CqI8IP1h5JdSdH"
+    },
+    {
+      "album": {
+        "name": "Promise of the West (\"Horizon Forbidden West\" Reveal Trailer Theme)",
+        "url": "https://open.spotify.com/album/7g2KZmy9miQS6uWY35H8kC"
+      },
+      "artists": [
+        {
+          "name": "Joris de Man",
+          "url": "https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U"
+        },
+        {
+          "name": "Julie Elven",
+          "url": "https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175455,
+      "name": "Promise of the West (feat. Julie Elven)",
+      "url": "https://open.spotify.com/track/4AXy57QDFmqdKAhvbM3yAP"
+    },
+    {
+      "album": {
+        "name": "Untitled Goose Game (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7y8Ihc6D0V71csR3xP8uAj"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Dan Golding",
+          "url": "https://open.spotify.com/artist/6yL1j20yrcLtfc8Fb9a4hM"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-15",
+      "duration_ms": 147512,
+      "name": "Pr\u00e9ludes / Book 1, L. 117 - Arr. Dan Golding: Minstrels",
+      "url": "https://open.spotify.com/track/5PjcWKOgKS9eclq2J0uJV5"
+    },
+    {
+      "album": {
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32000,
+      "name": "Quiet Water",
+      "url": "https://open.spotify.com/track/0gt76DuMx7F3UZJPg7jcC5"
+    },
+    {
+      "album": {
+        "name": "Ratchet & Clank: Rift Apart (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Dq65Lwt50IB0eAKuT10nC"
+      },
+      "artists": [
+        {
+          "name": "Mark Mothersbaugh",
+          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
+        },
+        {
+          "name": "Wataru Hokoyama",
+          "url": "https://open.spotify.com/artist/6UZmaOjwzTSWYflEx9LFX6"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Rift Apart",
+      "url": "https://open.spotify.com/track/4MJ5RyJXc0COLaoeBxvgpw"
+    },
+    {
+      "album": {
+        "name": "Horizon Call of the Mountain (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/45yWDK1rkyOp7B2l7zgFvt"
+      },
+      "artists": [
+        {
+          "name": "Alistair Kerley",
+          "url": "https://open.spotify.com/artist/34ABTloDcLIblFcNvro2S0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212813,
+      "name": "Ryas' Theme",
+      "url": "https://open.spotify.com/track/7Aob4PraD6KWsJX7KB6gkm"
+    },
+    {
+      "album": {
+        "name": "Distant Worlds V: More Music from Final Fantasy",
+        "url": "https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD"
+      },
+      "artists": [
+        {
+          "name": "Masashi Hamauzu",
+          "url": "https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 255493,
+      "name": "Saber's Edge (Final Fantasy XIII)",
+      "url": "https://open.spotify.com/track/6yt8SuNkqup43idePXmKt2"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41704,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3zudlPMpi7uCXuaAQiyd9D"
+    },
+    {
+      "album": {
+        "name": "Level 3",
+        "url": "https://open.spotify.com/album/2KHrrZCAkI8HOIJpOqLzET"
+      },
+      "artists": [
+        {
+          "name": "Video Games Live",
+          "url": "https://open.spotify.com/artist/6dZAVi5PugDwlAnH8KMEGl"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182855,
+      "name": "Shadow of the Colossus\u00ae",
+      "url": "https://open.spotify.com/track/7azgc6j5E6XhEDAfwW3Zrr"
+    },
+    {
+      "album": {
+        "name": "KINGDOM HEARTS -HD 1.5 ReMIX- (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/59xa0duBH2doywRKohAqIY"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "SIMPLE AND CLEAN - KINGDOM Orchestra Instrumental Version-",
+      "url": "https://open.spotify.com/track/4WyvlOC3qntGmX64E7kWmF"
+    },
+    {
+      "album": {
+        "name": "Kingdom Come: Deliverance (Original Soundtrack Essentials)",
+        "url": "https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg"
+      },
+      "artists": [
+        {
+          "name": "Jan Valta",
+          "url": "https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9"
+        },
+        {
+          "name": "Adam Sporka",
+          "url": "https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Skalitz 1403",
+      "url": "https://open.spotify.com/track/1GraDYg4bSZYIV7AOqc1ls"
+    },
+    {
+      "album": {
+        "name": "Sogno di Volare (Civilization VI Main Theme)",
+        "url": "https://open.spotify.com/album/3Mlu8nz19IlADr2IK85VJa"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tin",
+          "url": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233053,
+      "name": "Sogno di Volare (\u201cThe Dream of Flight\u201d)",
+      "url": "https://open.spotify.com/track/1miPwGI7xUKfHj6vIpMfP3"
+    },
+    {
+      "album": {
+        "name": "Star Guardian 2022 (Official Orchestral Theme)",
+        "url": "https://open.spotify.com/album/3bxxma5xoyxqMaE3l4YHl5"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309289,
+      "name": "Star Guardian 2022 - Official Orchestral Theme",
+      "url": "https://open.spotify.com/track/0VNqKLUyplTxCPZbIaVKls"
+    },
+    {
+      "album": {
+        "name": "Cult of the Lamb (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6uFdRK2clKYng68ThOFDIE"
+      },
+      "artists": [
+        {
+          "name": "River Boy",
+          "url": "https://open.spotify.com/artist/0jyJkJaH4nFWPopjeIYRlA"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299076,
+      "name": "Start a Cult",
+      "url": "https://open.spotify.com/track/1ISexq6FLytZxcEqvn7LOk"
+    },
+    {
+      "album": {
+        "name": "Sea of Solitude (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0f1WBVSfCzjFJHMUv8n5Ff"
+      },
+      "artists": [
+        {
+          "name": "Guy Jackson",
+          "url": "https://open.spotify.com/artist/3HyEoZ7fYGMAJ2fAHIeD9K"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "Sunny's Theme",
+      "url": "https://open.spotify.com/track/32WK8dQzMwl0AjvNxhf7lz"
+    },
+    {
+      "album": {
+        "name": "The Greatest Video Game Music",
+        "url": "https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx"
+      },
+      "artists": [
+        {
+          "name": "Koji Kondo",
+          "url": "https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c"
+        },
+        {
+          "name": "Andrew Skeet",
+          "url": "https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252095,
+      "name": "Super Mario Bros: Theme",
+      "url": "https://open.spotify.com/track/5sDx7tlKik6y6k2wfCnrxL"
+    },
+    {
+      "album": {
+        "name": "The Greatest Video Game Music",
+        "url": "https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx"
+      },
+      "artists": [
+        {
+          "name": "Koji Kondo",
+          "url": "https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c"
+        },
+        {
+          "name": "Mahito Yokota",
+          "url": "https://open.spotify.com/artist/3s9zTij1nIF3KY1G6BG1WZ"
+        },
+        {
+          "name": "Andrew Skeet",
+          "url": "https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229777,
+      "name": "Super Mario Galaxy: Gusty Garden Galaxy",
+      "url": "https://open.spotify.com/track/05XPxcgHp4I4CFlOhMnskS"
+    },
+    {
+      "album": {
+        "name": "Minecraft - Volume Alpha",
+        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Sweden",
+      "url": "https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5"
+    },
+    {
+      "album": {
+        "name": "Death Stranding (Original Score Volume 2)",
+        "url": "https://open.spotify.com/album/31IhCTqab094HwqAjqGENb"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61346,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/6vIL1KWpWZOLhbpJ6xCjGU"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245562,
+      "name": "The Ewer (Day)",
+      "url": "https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP"
+    },
+    {
+      "album": {
+        "name": "Death Stranding (Original Score)",
+        "url": "https://open.spotify.com/album/5e4LO7QzLLN6sSs9RlaawU"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205626,
+      "name": "The Face of Our New Hope",
+      "url": "https://open.spotify.com/track/4Er4Eq5De16sKwCV8nx4ej"
+    },
+    {
+      "album": {
+        "name": "Elden Ring (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
+      },
+      "artists": [
+        {
+          "name": "Tsukasa Saitoh",
+          "url": "https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298444,
+      "name": "The Final Battle",
+      "url": "https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ"
+    },
+    {
+      "album": {
+        "name": "Bloodborne Original Soundtrack",
+        "url": "https://open.spotify.com/album/5nRwiGsiEtrFN847UULpzL"
+      },
+      "artists": [
+        {
+          "name": "SIE Sound Team",
+          "url": "https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311746,
+      "name": "The First Hunter",
+      "url": "https://open.spotify.com/track/33eoaqosKfgXYHd6HyYmPh"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XIII Original Soundtrack",
+        "url": "https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g"
+      },
+      "artists": [
+        {
+          "name": "Masashi Hamauzu",
+          "url": "https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-20",
+      "duration_ms": 164946,
+      "name": "The Gapra Whitewood",
+      "url": "https://open.spotify.com/track/3b74h1zdaACqenzjNoe87z"
+    },
+    {
+      "album": {
+        "name": "Princess Zelda's Theme (From \"The Legend of Zelda: The Wind Waker\")",
+        "url": "https://open.spotify.com/album/1d1nxlw2y8ifwZjuaNlNeq"
+      },
+      "artists": [
+        {
+          "name": "ZREO: Second Quest",
+          "url": "https://open.spotify.com/artist/05AGytwFyvapQpCCCKxB4t"
+        },
+        {
+          "name": "Ari Fisher",
+          "url": "https://open.spotify.com/artist/07rnY0mvYeyEPmXtxdLtHd"
+        },
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        },
+        {
+          "name": "Shane Cox",
+          "url": "https://open.spotify.com/artist/5lsm7WKhncE6yZ1GSNx7r2"
+        },
+        {
+          "name": "Michael A. Grant",
+          "url": "https://open.spotify.com/artist/5xnLuHlotCjJwv8z20LhWL"
+        },
+        {
+          "name": "Liza Saracina",
+          "url": "https://open.spotify.com/artist/7AsJnHhfKdC6JbayMi7qzc"
+        },
+        {
+          "name": "Scott Hearn",
+          "url": "https://open.spotify.com/artist/1PtqwTpl0i2GpdHQUpva3T"
+        },
+        {
+          "name": "Tim Stoney",
+          "url": "https://open.spotify.com/artist/2XtBCEEXqhJwco6i1md1JD"
+        },
+        {
+          "name": "Meredith Moore",
+          "url": "https://open.spotify.com/artist/2gybYvNWbuooD6nVbvBGKo"
+        },
+        {
+          "name": "Gianluca Cucco",
+          "url": "https://open.spotify.com/artist/6kZCniozPQAf4NaKqRCGF8"
+        },
+        {
+          "name": "Michele Fortunato",
+          "url": "https://open.spotify.com/artist/3pMKETicvcKufM2oIsTP0H"
+        },
+        {
+          "name": "Jennifer Kirby",
+          "url": "https://open.spotify.com/artist/0h81NmXZ2wJ4gW1dF5HEJ0"
+        },
+        {
+          "name": "Davide Bonomo",
+          "url": "https://open.spotify.com/artist/3XdMZPBtkLuVtKubOktgPr"
+        },
+        {
+          "name": "Allison Dettloff",
+          "url": "https://open.spotify.com/artist/0yKCKijZLjUaf91y2xi6UE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 376441,
+      "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
+      "url": "https://open.spotify.com/track/5mqdVjCmsdlTrlNx8zQK1p"
+    },
+    {
+      "album": {
+        "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
+        "url": "https://open.spotify.com/album/5tOvIY2wdzZdimqejO04nR"
+      },
+      "artists": [
+        {
+          "name": "ZREO: Second Quest",
+          "url": "https://open.spotify.com/artist/05AGytwFyvapQpCCCKxB4t"
+        },
+        {
+          "name": "Ari Fisher",
+          "url": "https://open.spotify.com/artist/07rnY0mvYeyEPmXtxdLtHd"
+        },
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        },
+        {
+          "name": "Shane Cox",
+          "url": "https://open.spotify.com/artist/5lsm7WKhncE6yZ1GSNx7r2"
+        },
+        {
+          "name": "Michael A. Grant",
+          "url": "https://open.spotify.com/artist/5xnLuHlotCjJwv8z20LhWL"
+        },
+        {
+          "name": "Liza Saracina",
+          "url": "https://open.spotify.com/artist/7AsJnHhfKdC6JbayMi7qzc"
+        },
+        {
+          "name": "Scott Hearn",
+          "url": "https://open.spotify.com/artist/1PtqwTpl0i2GpdHQUpva3T"
+        },
+        {
+          "name": "Tim Stoney",
+          "url": "https://open.spotify.com/artist/2XtBCEEXqhJwco6i1md1JD"
+        },
+        {
+          "name": "Meredith Moore",
+          "url": "https://open.spotify.com/artist/2gybYvNWbuooD6nVbvBGKo"
+        },
+        {
+          "name": "Gianluca Cucco",
+          "url": "https://open.spotify.com/artist/6kZCniozPQAf4NaKqRCGF8"
+        },
+        {
+          "name": "Michele Fortunato",
+          "url": "https://open.spotify.com/artist/3pMKETicvcKufM2oIsTP0H"
+        },
+        {
+          "name": "Jennifer Kirby",
+          "url": "https://open.spotify.com/artist/0h81NmXZ2wJ4gW1dF5HEJ0"
+        },
+        {
+          "name": "Davide Bonomo",
+          "url": "https://open.spotify.com/artist/3XdMZPBtkLuVtKubOktgPr"
+        },
+        {
+          "name": "Allison Dettloff",
+          "url": "https://open.spotify.com/artist/0yKCKijZLjUaf91y2xi6UE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-12",
+      "duration_ms": 376441,
+      "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
+      "url": "https://open.spotify.com/track/6QZXrA53z0pp9skkQHKwBa"
+    },
+    {
+      "album": {
+        "name": "Fair Winds & Following Seas",
+        "url": "https://open.spotify.com/album/0N0gRiaqCsHBpYJuQ0OxWl"
+      },
+      "artists": [
+        {
+          "name": "ZREO: Second Quest",
+          "url": "https://open.spotify.com/artist/05AGytwFyvapQpCCCKxB4t"
+        },
+        {
+          "name": "Ari Fisher",
+          "url": "https://open.spotify.com/artist/07rnY0mvYeyEPmXtxdLtHd"
+        },
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        },
+        {
+          "name": "Shane Cox",
+          "url": "https://open.spotify.com/artist/5lsm7WKhncE6yZ1GSNx7r2"
+        },
+        {
+          "name": "Michael A. Grant",
+          "url": "https://open.spotify.com/artist/5xnLuHlotCjJwv8z20LhWL"
+        },
+        {
+          "name": "Liza Saracina",
+          "url": "https://open.spotify.com/artist/7AsJnHhfKdC6JbayMi7qzc"
+        },
+        {
+          "name": "Scott Hearn",
+          "url": "https://open.spotify.com/artist/1PtqwTpl0i2GpdHQUpva3T"
+        },
+        {
+          "name": "Tim Stoney",
+          "url": "https://open.spotify.com/artist/2XtBCEEXqhJwco6i1md1JD"
+        },
+        {
+          "name": "Meredith Moore",
+          "url": "https://open.spotify.com/artist/2gybYvNWbuooD6nVbvBGKo"
+        },
+        {
+          "name": "Gianluca Cucco",
+          "url": "https://open.spotify.com/artist/6kZCniozPQAf4NaKqRCGF8"
+        },
+        {
+          "name": "Michele Fortunato",
+          "url": "https://open.spotify.com/artist/3pMKETicvcKufM2oIsTP0H"
+        },
+        {
+          "name": "Jennifer Kirby",
+          "url": "https://open.spotify.com/artist/0h81NmXZ2wJ4gW1dF5HEJ0"
+        },
+        {
+          "name": "Davide Bonomo",
+          "url": "https://open.spotify.com/artist/3XdMZPBtkLuVtKubOktgPr"
+        },
+        {
+          "name": "Allison Dettloff",
+          "url": "https://open.spotify.com/artist/0yKCKijZLjUaf91y2xi6UE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376441,
+      "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
+      "url": "https://open.spotify.com/track/7H3Ew1qOhm2cmSEau9mtPv"
+    },
+    {
+      "album": {
+        "name": "Ganondorf Battle (From \"The Legend of Zelda: The Wind Waker\")",
+        "url": "https://open.spotify.com/album/4XpsMRQKvwBAzeAPcSAfwL"
+      },
+      "artists": [
+        {
+          "name": "ZREO: Second Quest",
+          "url": "https://open.spotify.com/artist/05AGytwFyvapQpCCCKxB4t"
+        },
+        {
+          "name": "Ari Fisher",
+          "url": "https://open.spotify.com/artist/07rnY0mvYeyEPmXtxdLtHd"
+        },
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        },
+        {
+          "name": "Shane Cox",
+          "url": "https://open.spotify.com/artist/5lsm7WKhncE6yZ1GSNx7r2"
+        },
+        {
+          "name": "Michael A. Grant",
+          "url": "https://open.spotify.com/artist/5xnLuHlotCjJwv8z20LhWL"
+        },
+        {
+          "name": "Liza Saracina",
+          "url": "https://open.spotify.com/artist/7AsJnHhfKdC6JbayMi7qzc"
+        },
+        {
+          "name": "Scott Hearn",
+          "url": "https://open.spotify.com/artist/1PtqwTpl0i2GpdHQUpva3T"
+        },
+        {
+          "name": "Tim Stoney",
+          "url": "https://open.spotify.com/artist/2XtBCEEXqhJwco6i1md1JD"
+        },
+        {
+          "name": "Meredith Moore",
+          "url": "https://open.spotify.com/artist/2gybYvNWbuooD6nVbvBGKo"
+        },
+        {
+          "name": "Gianluca Cucco",
+          "url": "https://open.spotify.com/artist/6kZCniozPQAf4NaKqRCGF8"
+        },
+        {
+          "name": "Michele Fortunato",
+          "url": "https://open.spotify.com/artist/3pMKETicvcKufM2oIsTP0H"
+        },
+        {
+          "name": "Jennifer Kirby",
+          "url": "https://open.spotify.com/artist/0h81NmXZ2wJ4gW1dF5HEJ0"
+        },
+        {
+          "name": "Davide Bonomo",
+          "url": "https://open.spotify.com/artist/3XdMZPBtkLuVtKubOktgPr"
+        },
+        {
+          "name": "Allison Dettloff",
+          "url": "https://open.spotify.com/artist/0yKCKijZLjUaf91y2xi6UE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 376441,
+      "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
+      "url": "https://open.spotify.com/track/7gi0kXIMBeBlrEVdA7DAYt"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183533,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/285ieonEuLkll3zknYK2TY"
+    },
+    {
+      "album": {
+        "name": "The Last of Us Part II (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172560,
+      "name": "The Last of Us Part II",
+      "url": "https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU"
+    },
+    {
+      "album": {
+        "name": "Everybody's Gone to the Rapture (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM"
+      },
+      "artists": [
+        {
+          "name": "Jessica Curry",
+          "url": "https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-28",
+      "duration_ms": 190413,
+      "name": "The Light We Cast",
+      "url": "https://open.spotify.com/track/2pdGvz2IWaw0ST2mAafKno"
+    },
+    {
+      "album": {
+        "name": "Little BIG Music: Musical Oddities From And Inspired By Little Big Planet",
+        "url": "https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc"
+      },
+      "artists": [
+        {
+          "name": "The Daniel Pemberton TV Orchestra",
+          "url": "https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-15",
+      "duration_ms": 151000,
+      "name": "The Orb Of Dreamers",
+      "url": "https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP"
+    },
+    {
+      "album": {
+        "name": "Cyberpunk 2077 - Original Score",
+        "url": "https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp"
+      },
+      "artists": [
+        {
+          "name": "P.T. Adamczyk",
+          "url": "https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "The Rebel Path",
+      "url": "https://open.spotify.com/track/3m8UfZwPMMbiWfGR8Lg2cR"
+    },
+    {
+      "album": {
+        "name": "The Elder Scrolls V: Skyrim: Original Game Soundtrack",
+        "url": "https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244842,
+      "name": "The Streets of Whiterun",
+      "url": "https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE"
+    },
+    {
+      "album": {
+        "name": "Ghost of Tsushima (Music from the Video Game)",
+        "url": "https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq"
+      },
+      "artists": [
+        {
+          "name": "Ilan Eshkeri",
+          "url": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254880,
+      "name": "The Way of the Ghost",
+      "url": "https://open.spotify.com/track/0AnsIh2o4sa9p8pHJOi9oI"
+    },
+    {
+      "album": {
+        "name": "Outer Wilds (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o"
+      },
+      "artists": [
+        {
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204957,
+      "name": "Timber Hearth",
+      "url": "https://open.spotify.com/track/3BIf974vl0lIEo3EY1XvD1"
+    },
+    {
+      "album": {
+        "name": "Fable Legends:The Rosewood",
+        "url": "https://open.spotify.com/album/1FdHeXxHiE06U5anAfv4H2"
+      },
+      "artists": [
+        {
+          "name": "Russell Shaw",
+          "url": "https://open.spotify.com/artist/5wuYDMU4DPsiqWaB8QBZU5"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255687,
+      "name": "Title Theme",
+      "url": "https://open.spotify.com/track/7xiqFMenX3KY3kINA88d8Q"
+    },
+    {
+      "album": {
+        "name": "The Tomb Raider Suite",
+        "url": "https://open.spotify.com/album/6NYHX8GzTK9FYQDbJLmrv0"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "Tomb Raider Theme",
+      "url": "https://open.spotify.com/track/1BJtsYb9mSh8y9BW6pB71N"
+    },
+    {
+      "album": {
+        "name": "The Tomb Raider Suite",
+        "url": "https://open.spotify.com/album/3xfTmsqB82eFdMfKSA9YdH"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 193840,
+      "name": "Tomb Raider Theme",
+      "url": "https://open.spotify.com/track/2dEmQ9nsLbLaztypZxG78f"
+    },
+    {
+      "album": {
+        "name": "Half-Life 2 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/17b1MAKoRoML4ecB59iEpR"
+      },
+      "artists": [
+        {
+          "name": "Valve",
+          "url": "https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43233,
+      "name": "Triage at Dawn",
+      "url": "https://open.spotify.com/track/3EAX272za8qK7lZziGwDDy"
+    },
+    {
+      "album": {
+        "name": "Half-Life 2",
+        "url": "https://open.spotify.com/album/2V0wi4SuioFjmpMu9u60bg"
+      },
+      "artists": [
+        {
+          "name": "Valve",
+          "url": "https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 43233,
+      "name": "Triage at Dawn",
+      "url": "https://open.spotify.com/track/7Iu08xvGoJhOWGxqRN4Hyh"
+    },
+    {
+      "album": {
+        "name": "The Sims (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7ycdCSJkou3lE7MLECIgz5"
+      },
+      "artists": [
+        {
+          "name": "Jerry Martin",
+          "url": "https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288876,
+      "name": "Under Construction",
+      "url": "https://open.spotify.com/track/5RwEwvUrQz1K4JqdIoZxWZ"
+    },
+    {
+      "album": {
+        "name": "The Sims (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0sSQLHnZOm240uhrPmycuk"
+      },
+      "artists": [
+        {
+          "name": "Jerry Martin",
+          "url": "https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288876,
+      "name": "Under Construction",
+      "url": "https://open.spotify.com/track/7hqCX9nPUOnFYk4q1XKq3e"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184706,
+      "name": "Village of Shadows",
+      "url": "https://open.spotify.com/track/6YquGNlW5KGhCwUWYz0vxr"
+    },
+    {
+      "album": {
+        "name": "Viva Libertad: Epic Version (From the Far Cry 6 Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/09qDkLNQEo9FfrM4fav4FC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Bromfman",
+          "url": "https://open.spotify.com/artist/5SiBQxijnMwUGUYG31gZnS"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160255,
+      "name": "Viva Libertad: Epic Version (From the Far Cry 6 Original Game Soundtrack)",
+      "url": "https://open.spotify.com/track/3zMto3WJqJQXYaAABtR7mf"
+    },
+    {
+      "album": {
+        "name": "Assassin's Creed Syndicate (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf"
+      },
+      "artists": [
+        {
+          "name": "Austin Wintory",
+          "url": "https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291348,
+      "name": "Waltzing on Rooftops and Cobblestones",
+      "url": "https://open.spotify.com/track/5wc6TcHF6a44wTCKhkzEV3"
+    },
+    {
+      "album": {
+        "name": "Dead Space",
+        "url": "https://open.spotify.com/album/0APOiX6fWqcHybQzssumck"
+      },
+      "artists": [
+        {
+          "name": "Jason Graves",
+          "url": "https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 321093,
+      "name": "Welcome Aboard The U.S.G. Ishimura",
+      "url": "https://open.spotify.com/track/7dLtnUKOtrZ3CvQ3SMkpg8"
+    },
+    {
+      "album": {
+        "name": "Dead Space (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6hiqqJJ6Fo7hGU54CvM9MM"
+      },
+      "artists": [
+        {
+          "name": "Jason Graves",
+          "url": "https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ"
+        },
+        {
+          "name": "EA Games Soundtrack",
+          "url": "https://open.spotify.com/artist/1gsT5GesFZ2qkDkgPxMUA1"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320788,
+      "name": "Welcome Aboard The U.S.G. Ishimura",
+      "url": "https://open.spotify.com/track/0albZjbwvxiUOEltWXj1ao"
+    },
+    {
+      "album": {
+        "name": "Fae Farm (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/59mxfP8W8ksmXRGSkcXRUV"
+      },
+      "artists": [
+        {
+          "name": "Cris Velasco",
+          "url": "https://open.spotify.com/artist/13bb43GIQWR0f6rYeQcrUV"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Welcome to Azoria",
+      "url": "https://open.spotify.com/track/7w44XC3UWngSGoZd3qfCLQ"
+    },
+    {
+      "album": {
+        "name": "Horizon Forbidden West, Volume 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EvkNL0xZZeUEV7ROInlvl"
+      },
+      "artists": [
+        {
+          "name": "Oleksa Lozowchuk",
+          "url": "https://open.spotify.com/artist/14F3jEeosuaJHvcu2el861"
+        },
+        {
+          "name": "Julie Elven",
+          "url": "https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv"
+        },
+        {
+          "name": "Melissa R. Kaplan",
+          "url": "https://open.spotify.com/artist/4DpSdMOP7JLMUGjNpri704"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189137,
+      "name": "Whatever Comes (feat. Julie Elven & Melissa R. Kaplan)",
+      "url": "https://open.spotify.com/track/5DXfjB2KmTcbaTrzjI6DWr"
+    },
+    {
+      "album": {
+        "name": "Horizon Forbidden West (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx"
+      },
+      "artists": [
+        {
+          "name": "Oleksa Lozowchuk",
+          "url": "https://open.spotify.com/artist/14F3jEeosuaJHvcu2el861"
+        },
+        {
+          "name": "Julie Elven",
+          "url": "https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv"
+        },
+        {
+          "name": "Melissa R. Kaplan",
+          "url": "https://open.spotify.com/artist/4DpSdMOP7JLMUGjNpri704"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189137,
+      "name": "Whatever Comes (feat. Julie Elven & Melissa R. Kaplan)",
+      "url": "https://open.spotify.com/track/6qV7yy8DwETobwsJgTLSCe"
+    },
+    {
+      "album": {
+        "name": "The Elder Scrolls V: Skyrim: Original Game Soundtrack",
+        "url": "https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545268,
+      "name": "Wind Guide You",
+      "url": "https://open.spotify.com/track/5K6HZ4t7rUb2VbZqmBPPfY"
+    },
+    {
+      "album": {
+        "name": "For Honor: Year of Reckoning (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0JRybfJ6X52gxLVdGNSenK"
+      },
+      "artists": [
+        {
+          "name": "Luc St-Pierre",
+          "url": "https://open.spotify.com/artist/06MZrFGmjWvAW2RXOlcxWu"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250259,
+      "name": "Wyverndale's Theme",
+      "url": "https://open.spotify.com/track/11gkYPiJmBqKyXstgFmgAX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdfOcg1fm0VG"
 }

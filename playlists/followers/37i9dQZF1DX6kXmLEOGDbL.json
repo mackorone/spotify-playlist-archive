@@ -1,97 +1,1063 @@
 {
-  "2023-09-29": 1737,
-  "2023-09-30": 1744,
-  "2023-10-01": 1772,
-  "2023-10-02": 1800,
-  "2023-10-03": 1812,
-  "2023-10-04": 1824,
-  "2023-10-05": 1835,
-  "2023-10-06": 1842,
-  "2023-10-07": 1853,
-  "2023-10-08": 1871,
-  "2023-10-09": 1879,
-  "2023-10-10": 1887,
-  "2023-10-11": 1901,
-  "2023-10-12": 1901,
-  "2023-10-13": 1913,
-  "2023-10-14": 1917,
-  "2023-10-15": 1934,
-  "2023-10-16": 1950,
-  "2023-10-17": 1958,
-  "2023-10-18": 1971,
-  "2023-10-19": 1993,
-  "2023-10-20": 2005,
-  "2023-10-21": 2017,
-  "2023-10-22": 2040,
-  "2023-10-23": 2047,
-  "2023-10-24": 2062,
-  "2023-10-25": 2076,
-  "2023-10-26": 2092,
-  "2023-10-27": 2110,
-  "2023-10-28": 2127,
-  "2023-10-29": 2145,
-  "2023-10-30": 2170,
-  "2023-10-31": 2170,
-  "2023-11-01": 2181,
-  "2023-11-02": 2195,
-  "2023-11-03": 2209,
-  "2023-11-04": 2220,
-  "2023-11-05": 2237,
-  "2023-11-06": 2254,
-  "2023-11-07": 2261,
-  "2023-11-08": 2270,
-  "2023-11-09": 2285,
-  "2023-11-10": 2292,
-  "2023-11-11": 2302,
-  "2023-11-12": 2328,
-  "2023-11-13": 2351,
-  "2023-11-14": 2356,
-  "2023-11-15": 2356,
-  "2023-11-16": 2381,
-  "2023-11-17": 2410,
-  "2023-11-18": 2410,
-  "2023-11-19": 2424,
-  "2023-11-20": 2441,
-  "2023-11-21": 2451,
-  "2023-11-22": 2463,
-  "2023-11-23": 2475,
-  "2023-11-24": 2488,
-  "2023-11-25": 2496,
-  "2023-11-26": 2506,
-  "2023-11-27": 2514,
-  "2023-11-28": 2527,
-  "2023-11-29": 2562,
-  "2023-11-30": 2562,
-  "2023-12-01": 2578,
-  "2023-12-02": 2584,
-  "2023-12-03": 2596,
-  "2023-12-04": 2612,
-  "2023-12-05": 2622,
-  "2023-12-06": 2627,
-  "2023-12-07": 2642,
-  "2023-12-08": 2651,
-  "2023-12-09": 2657,
-  "2023-12-10": 2663,
-  "2023-12-11": 2667,
-  "2023-12-12": 2677,
-  "2023-12-13": 2683,
-  "2023-12-14": 2692,
-  "2023-12-15": 2693,
-  "2023-12-16": 2696,
-  "2023-12-17": 2701,
-  "2023-12-18": 2710,
-  "2023-12-19": 2714,
-  "2023-12-20": 2716,
-  "2023-12-21": 2719,
-  "2023-12-22": 2722,
-  "2023-12-23": 2725,
-  "2023-12-24": 2734,
-  "2023-12-25": 2740,
-  "2023-12-26": 2745,
-  "2023-12-27": 2747,
-  "2023-12-30": 2770,
-  "2023-12-31": 2777,
-  "2024-01-01": 2784,
-  "2024-01-02": 2791,
-  "2024-01-03": 2800
+  "2024-01-17": 2908,
+  "date_first_scraped": "2023-09-29",
+  "description": "Retrouvez toutes les chansons du dessin anim\u00e9 culte",
+  "name": "Chantons avec Barbapapa",
+  "tracks": [
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132792,
+      "name": "Barbabelle, bella, bella",
+      "url": "https://open.spotify.com/track/0hCDZZirU0CuzeoMzWQbhc"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151931,
+      "name": "Barbapapa rock",
+      "url": "https://open.spotify.com/track/5oH85m6TZwJ1Q79CvrQyQL"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128086,
+      "name": "Barbibul est un inventeur",
+      "url": "https://open.spotify.com/track/7Mmv1Ora226iCZgje1eC46"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141100,
+      "name": "Barbidou et les animaux",
+      "url": "https://open.spotify.com/track/3p0qEb6Nr5PIC1ob1cfXC0"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91097,
+      "name": "Barbidur est un champion",
+      "url": "https://open.spotify.com/track/626MebGh40KJn3jYV3jfoy"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115739,
+      "name": "Barbouille le barbouilleur",
+      "url": "https://open.spotify.com/track/5GNijlTF5fVAcjSPGWQf4Y"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151349,
+      "name": "Bravo pour Barbidur",
+      "url": "https://open.spotify.com/track/237KDhV6N6NiDu3ZvIOqJy"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204889,
+      "name": "Dis-la, dis-la ton id\u00e9e",
+      "url": "https://open.spotify.com/track/5FF8NLhLdEJVi8SRHnZ3yy"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120244,
+      "name": "J'aide mon papa",
+      "url": "https://open.spotify.com/track/7ocE9ZtOMu8CRowjuxIVg5"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182495,
+      "name": "L'op\u00e9ra des grenouilles",
+      "url": "https://open.spotify.com/track/0TC1qwRqNyfiqMOR8tjY1j"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153120,
+      "name": "La chanson de Barbalala",
+      "url": "https://open.spotify.com/track/34nmyevm8sfDDMI0becTEZ"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93529,
+      "name": "La chanson de Barbotine",
+      "url": "https://open.spotify.com/track/6oIU7WFa5x6J6oGWhZuSDi"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114916,
+      "name": "La chanson de ma boite \u00e0 peinture",
+      "url": "https://open.spotify.com/track/7Gd57oCR3V0GRPBvKQGgrd"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173213,
+      "name": "La m\u00e9tamorphose de Barbapapa",
+      "url": "https://open.spotify.com/track/7HgWze38oJcgW7TwQYxAb2"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127887,
+      "name": "Le ballon de Barbapapa",
+      "url": "https://open.spotify.com/track/4Su02m4JVqsfkcEy2Wq1hY"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "Le chant d'amour de Barbabelle",
+      "url": "https://open.spotify.com/track/4qITgZjukKLKaCY4PlztlX"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141920,
+      "name": "Le meilleur ami des b\u00eates",
+      "url": "https://open.spotify.com/track/6pPjgv2usLOdiJznXlMC1v"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164352,
+      "name": "Le pays des Barbapapa",
+      "url": "https://open.spotify.com/track/21AkxQmYAAaAGZ81hQ1fS4"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154825,
+      "name": "Les r\u00eaves de Barbalala",
+      "url": "https://open.spotify.com/track/72BvSmwUSpfvIXxCp8KRLR"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117406,
+      "name": "Ma maman est un \u00e9l\u00e9phant",
+      "url": "https://open.spotify.com/track/6MmToCvZuM3EdlhzJWE3Ur"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Alain Cocagne",
+          "url": "https://open.spotify.com/artist/5aty3CF1h4Mxe8HRo5WJOI"
+        },
+        {
+          "name": "Annie Colette",
+          "url": "https://open.spotify.com/artist/4wQEFkUtekiH6LXsEd9r78"
+        },
+        {
+          "name": "S\u00e9bastien Gardet",
+          "url": "https://open.spotify.com/artist/0TbXlxrHrDXuLDJPS5k5xG"
+        },
+        {
+          "name": "Christine Mure d\u2019Alexis",
+          "url": "https://open.spotify.com/artist/2dyIAv7MMvtXvzk8mEi70G"
+        },
+        {
+          "name": "Augustin Viatte",
+          "url": "https://open.spotify.com/artist/0KhO2YiTKgjOMeRp19mIL3"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152534,
+      "name": "Pour \u00eatre un Barbapapa",
+      "url": "https://open.spotify.com/track/2xSshCUsgKVSApxar8uJNo"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31381,
+      "name": "Voici venir les Babapapa (g\u00e9n\u00e9rique)",
+      "url": "https://open.spotify.com/track/1XjA2UDq32zm3a2cI963xE"
+    },
+    {
+      "album": {
+        "name": "Les chansons des Barbapapa",
+        "url": "https://open.spotify.com/album/5jL6pZUgai3VzmKpQefFX4"
+      },
+      "artists": [
+        {
+          "name": "Ricet Barrier",
+          "url": "https://open.spotify.com/artist/5CackGp2RCAAozNvU2aGGg"
+        },
+        {
+          "name": "Marina Vinitzki",
+          "url": "https://open.spotify.com/artist/1grKX7keyJIhwwWQb1HJIN"
+        },
+        {
+          "name": "Vanina Vinitzki",
+          "url": "https://open.spotify.com/artist/2de1KqqhAKI5rrAwYZ3TjL"
+        },
+        {
+          "name": "Valia Vinitzki",
+          "url": "https://open.spotify.com/artist/3aelsi6IFlN35t32GieTrc"
+        },
+        {
+          "name": "Barbara Boutet",
+          "url": "https://open.spotify.com/artist/3BdMUriBb841aUCODKCQJ4"
+        },
+        {
+          "name": "Alex Legrand",
+          "url": "https://open.spotify.com/artist/7hl3Dwfl8axovH8tbti6vh"
+        },
+        {
+          "name": "Morvan Salez",
+          "url": "https://open.spotify.com/artist/7jBvQ6ymJzlB2ER6IhDEYL"
+        },
+        {
+          "name": "No\u00ebl Lopez",
+          "url": "https://open.spotify.com/artist/6pJboOyMsFl3REtOWfotFb"
+        },
+        {
+          "name": "Paul Vaguelsy",
+          "url": "https://open.spotify.com/artist/5DuFhNQUqYLBLpefAqosRd"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127331,
+      "name": "Voici venir les Barbapapa",
+      "url": "https://open.spotify.com/track/0pZDgWEVktxUWL1XghB3G8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6kXmLEOGDbL"
 }

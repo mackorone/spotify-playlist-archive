@@ -1,732 +1,1527 @@
 {
-  "2021-12-28": 9599,
-  "2021-12-29": 9639,
-  "2021-12-30": 9684,
-  "2021-12-31": 9656,
-  "2022-01-01": 9603,
-  "2022-01-02": 9593,
-  "2022-01-03": 9553,
-  "2022-01-04": 9483,
-  "2022-01-05": 9421,
-  "2022-01-06": 9387,
-  "2022-01-07": 9355,
-  "2022-01-08": 9279,
-  "2022-01-09": 9279,
-  "2022-01-10": 9256,
-  "2022-01-11": 9229,
-  "2022-01-12": 9203,
-  "2022-01-13": 9180,
-  "2022-01-14": 9153,
-  "2022-01-15": 9118,
-  "2022-01-16": 9117,
-  "2022-01-17": 9089,
-  "2022-01-18": 9086,
-  "2022-01-19": 9071,
-  "2022-01-20": 9059,
-  "2022-01-21": 9047,
-  "2022-01-22": 9034,
-  "2022-01-23": 9026,
-  "2022-01-24": 9012,
-  "2022-01-25": 8996,
-  "2022-01-26": 8987,
-  "2022-01-27": 8983,
-  "2022-01-28": 8977,
-  "2022-01-29": 8969,
-  "2022-01-30": 8964,
-  "2022-01-31": 8952,
-  "2022-02-01": 8937,
-  "2022-02-02": 8932,
-  "2022-02-03": 8918,
-  "2022-02-04": 8913,
-  "2022-02-05": 8909,
-  "2022-02-06": 8906,
-  "2022-02-07": 8893,
-  "2022-02-08": 8887,
-  "2022-02-09": 8879,
-  "2022-02-10": 8870,
-  "2022-02-11": 8864,
-  "2022-02-12": 8856,
-  "2022-02-13": 8850,
-  "2022-02-14": 8844,
-  "2022-02-15": 8840,
-  "2022-02-16": 8834,
-  "2022-02-17": 8829,
-  "2022-02-18": 8825,
-  "2022-02-19": 8819,
-  "2022-02-20": 8811,
-  "2022-02-21": 8804,
-  "2022-02-22": 8799,
-  "2022-02-23": 8794,
-  "2022-02-24": 8787,
-  "2022-02-25": 8785,
-  "2022-02-26": 8783,
-  "2022-02-27": 8777,
-  "2022-02-28": 8777,
-  "2022-03-01": 8774,
-  "2022-03-02": 8765,
-  "2022-03-03": 8757,
-  "2022-03-04": 8751,
-  "2022-03-05": 8743,
-  "2022-03-06": 8735,
-  "2022-03-07": 8732,
-  "2022-03-08": 8726,
-  "2022-03-09": 8722,
-  "2022-03-10": 8718,
-  "2022-03-11": 8715,
-  "2022-03-12": 8711,
-  "2022-03-13": 8707,
-  "2022-03-14": 8704,
-  "2022-03-15": 8700,
-  "2022-03-16": 8698,
-  "2022-03-17": 8693,
-  "2022-03-18": 8687,
-  "2022-03-19": 8687,
-  "2022-03-20": 8687,
-  "2022-03-21": 8678,
-  "2022-03-22": 8676,
-  "2022-03-23": 8674,
-  "2022-03-24": 8672,
-  "2022-03-25": 8670,
-  "2022-03-26": 8669,
-  "2022-03-27": 8668,
-  "2022-03-28": 8662,
-  "2022-03-30": 8659,
-  "2022-03-31": 8651,
-  "2022-04-01": 8650,
-  "2022-04-02": 8651,
-  "2022-04-03": 8651,
-  "2022-04-04": 8649,
-  "2022-04-05": 8648,
-  "2022-04-06": 8646,
-  "2022-04-07": 8641,
-  "2022-04-08": 8638,
-  "2022-04-09": 8633,
-  "2022-04-10": 8626,
-  "2022-04-11": 8623,
-  "2022-04-12": 8619,
-  "2022-04-13": 8619,
-  "2022-04-14": 8618,
-  "2022-04-15": 8614,
-  "2022-04-16": 8614,
-  "2022-04-17": 8612,
-  "2022-04-18": 8608,
-  "2022-04-19": 8606,
-  "2022-04-20": 8604,
-  "2022-04-21": 8599,
-  "2022-04-22": 8597,
-  "2022-04-23": 8595,
-  "2022-04-24": 8592,
-  "2022-04-25": 8593,
-  "2022-04-26": 8592,
-  "2022-04-27": 8591,
-  "2022-04-28": 8594,
-  "2022-04-29": 8591,
-  "2022-04-30": 8591,
-  "2022-05-01": 8591,
-  "2022-05-02": 8591,
-  "2022-05-03": 8593,
-  "2022-05-04": 8588,
-  "2022-05-05": 8587,
-  "2022-05-06": 8590,
-  "2022-05-07": 8587,
-  "2022-05-08": 8586,
-  "2022-05-09": 8585,
-  "2022-05-10": 8583,
-  "2022-05-11": 8586,
-  "2022-05-12": 8582,
-  "2022-05-13": 8580,
-  "2022-05-14": 8581,
-  "2022-05-15": 8579,
-  "2022-05-16": 8581,
-  "2022-05-17": 8580,
-  "2022-05-18": 8581,
-  "2022-05-19": 8582,
-  "2022-05-20": 8580,
-  "2022-05-21": 8577,
-  "2022-05-22": 8577,
-  "2022-05-23": 8577,
-  "2022-05-24": 8573,
-  "2022-05-25": 8568,
-  "2022-05-26": 8569,
-  "2022-05-27": 8569,
-  "2022-05-28": 8564,
-  "2022-05-29": 8562,
-  "2022-05-30": 8555,
-  "2022-05-31": 8554,
-  "2022-06-01": 8551,
-  "2022-06-02": 8551,
-  "2022-06-03": 8553,
-  "2022-06-04": 8553,
-  "2022-06-05": 8551,
-  "2022-06-06": 8551,
-  "2022-06-07": 8553,
-  "2022-06-08": 8554,
-  "2022-06-09": 8553,
-  "2022-06-10": 8551,
-  "2022-06-11": 8549,
-  "2022-06-12": 8550,
-  "2022-06-13": 8551,
-  "2022-06-14": 8551,
-  "2022-06-15": 8551,
-  "2022-06-16": 8549,
-  "2022-06-17": 8548,
-  "2022-06-18": 8547,
-  "2022-06-19": 8543,
-  "2022-06-20": 8543,
-  "2022-06-21": 8544,
-  "2022-06-22": 8542,
-  "2022-06-23": 8542,
-  "2022-06-24": 8543,
-  "2022-06-25": 8542,
-  "2022-06-26": 8541,
-  "2022-06-27": 8541,
-  "2022-06-28": 8538,
-  "2022-06-29": 8538,
-  "2022-06-30": 8537,
-  "2022-07-01": 8538,
-  "2022-07-02": 8536,
-  "2022-07-03": 8536,
-  "2022-07-04": 8535,
-  "2022-07-05": 8535,
-  "2022-07-06": 8536,
-  "2022-07-07": 8537,
-  "2022-07-08": 8540,
-  "2022-07-09": 8540,
-  "2022-07-10": 8542,
-  "2022-07-11": 8541,
-  "2022-07-12": 8542,
-  "2022-07-13": 8545,
-  "2022-07-14": 8548,
-  "2022-07-15": 8547,
-  "2022-07-16": 8552,
-  "2022-07-17": 8555,
-  "2022-07-18": 8557,
-  "2022-07-19": 8561,
-  "2022-07-20": 8565,
-  "2022-07-21": 8567,
-  "2022-07-22": 8564,
-  "2022-07-23": 8566,
-  "2022-07-24": 8568,
-  "2022-07-25": 8570,
-  "2022-07-26": 8569,
-  "2022-07-27": 8573,
-  "2022-07-28": 8578,
-  "2022-07-29": 8582,
-  "2022-07-30": 8588,
-  "2022-07-31": 8588,
-  "2022-08-01": 8592,
-  "2022-08-02": 8597,
-  "2022-08-03": 8597,
-  "2022-08-04": 8605,
-  "2022-08-05": 8609,
-  "2022-08-06": 8616,
-  "2022-08-07": 8624,
-  "2022-08-08": 8628,
-  "2022-08-09": 8633,
-  "2022-08-10": 8636,
-  "2022-08-11": 8638,
-  "2022-08-12": 8641,
-  "2022-08-13": 8640,
-  "2022-08-14": 8640,
-  "2022-08-15": 8651,
-  "2022-08-16": 8655,
-  "2022-08-17": 8658,
-  "2022-08-18": 8660,
-  "2022-08-19": 8662,
-  "2022-08-20": 8662,
-  "2022-08-21": 8664,
-  "2022-08-22": 8667,
-  "2022-08-23": 8673,
-  "2022-08-24": 8676,
-  "2022-08-25": 8683,
-  "2022-08-26": 8686,
-  "2022-08-27": 8687,
-  "2022-08-28": 8695,
-  "2022-08-29": 8708,
-  "2022-08-30": 8713,
-  "2022-08-31": 8716,
-  "2022-09-01": 8727,
-  "2022-09-02": 8739,
-  "2022-09-03": 8744,
-  "2022-09-04": 8749,
-  "2022-09-05": 8767,
-  "2022-09-06": 8783,
-  "2022-09-07": 8792,
-  "2022-09-09": 8812,
-  "2022-09-10": 8824,
-  "2022-09-11": 8839,
-  "2022-09-12": 8856,
-  "2022-09-13": 8870,
-  "2022-09-15": 8893,
-  "2022-09-16": 8911,
-  "2022-09-17": 8921,
-  "2022-09-18": 8937,
-  "2022-09-19": 8951,
-  "2022-09-20": 8964,
-  "2022-09-21": 8982,
-  "2022-09-22": 9010,
-  "2022-09-23": 9030,
-  "2022-09-24": 9058,
-  "2022-09-25": 9068,
-  "2022-09-26": 9088,
-  "2022-09-27": 9102,
-  "2022-09-28": 9123,
-  "2022-09-29": 9145,
-  "2022-09-30": 9169,
-  "2022-10-01": 9198,
-  "2022-10-02": 9222,
-  "2022-10-03": 9239,
-  "2022-10-04": 9263,
-  "2022-10-05": 9301,
-  "2022-10-06": 9333,
-  "2022-10-07": 9353,
-  "2022-10-08": 9391,
-  "2022-10-09": 9444,
-  "2022-10-10": 9458,
-  "2022-10-11": 9482,
-  "2022-10-12": 9518,
-  "2022-10-13": 9555,
-  "2022-10-14": 9586,
-  "2022-10-15": 9617,
-  "2022-10-16": 9653,
-  "2022-10-17": 9678,
-  "2022-10-18": 9737,
-  "2022-10-19": 9790,
-  "2022-10-20": 9845,
-  "2022-10-21": 9889,
-  "2022-10-22": 9909,
-  "2022-10-23": 9973,
-  "2022-10-24": 10038,
-  "2022-10-25": 10096,
-  "2022-10-26": 10159,
-  "2022-10-27": 10256,
-  "2022-10-28": 10352,
-  "2022-10-29": 10447,
-  "2022-10-30": 10592,
-  "2022-10-31": 10740,
-  "2022-11-01": 10883,
-  "2022-11-02": 11180,
-  "2022-11-03": 11436,
-  "2022-11-04": 11673,
-  "2022-11-05": 11907,
-  "2022-11-06": 12198,
-  "2022-11-07": 12547,
-  "2022-11-08": 12823,
-  "2022-11-09": 13138,
-  "2022-11-10": 13467,
-  "2022-11-11": 13842,
-  "2022-11-12": 14247,
-  "2022-11-13": 14721,
-  "2022-11-14": 15219,
-  "2022-11-15": 15658,
-  "2022-11-16": 16212,
-  "2022-11-17": 16735,
-  "2022-11-18": 16937,
-  "2022-11-19": 17151,
-  "2022-11-20": 17660,
-  "2022-11-21": 18289,
-  "2022-11-22": 18957,
-  "2022-11-23": 18905,
-  "2022-11-24": 20841,
-  "2022-11-25": 21796,
-  "2022-11-26": 22572,
-  "2022-11-27": 23513,
-  "2022-11-28": 24838,
-  "2022-11-29": 25881,
-  "2022-11-30": 26895,
-  "2022-12-01": 27880,
-  "2022-12-02": 28675,
-  "2022-12-03": 30183,
-  "2022-12-04": 31376,
-  "2022-12-05": 32850,
-  "2022-12-06": 34078,
-  "2022-12-07": 35190,
-  "2022-12-08": 36272,
-  "2022-12-09": 37386,
-  "2022-12-10": 38463,
-  "2022-12-11": 39549,
-  "2022-12-12": 40863,
-  "2022-12-13": 41908,
-  "2022-12-14": 42882,
-  "2022-12-15": 43904,
-  "2022-12-16": 44954,
-  "2022-12-17": 45938,
-  "2022-12-18": 47160,
-  "2022-12-19": 48252,
-  "2022-12-20": 51044,
-  "2022-12-21": 51044,
-  "2022-12-22": 52036,
-  "2022-12-24": 54217,
-  "2022-12-25": 56029,
-  "2022-12-26": 57078,
-  "2022-12-27": 57224,
-  "2022-12-28": 57211,
-  "2022-12-29": 57126,
-  "2022-12-30": 57060,
-  "2022-12-31": 56979,
-  "2023-01-01": 56921,
-  "2023-01-02": 56838,
-  "2023-01-03": 56678,
-  "2023-01-04": 56505,
-  "2023-01-05": 56340,
-  "2023-01-06": 56229,
-  "2023-01-07": 56069,
-  "2023-01-08": 56047,
-  "2023-01-09": 55971,
-  "2023-01-10": 55870,
-  "2023-01-11": 55768,
-  "2023-01-12": 55670,
-  "2023-01-13": 55602,
-  "2023-01-14": 55484,
-  "2023-01-15": 55476,
-  "2023-01-16": 55424,
-  "2023-01-17": 55358,
-  "2023-01-18": 55290,
-  "2023-01-19": 55220,
-  "2023-01-20": 55170,
-  "2023-01-21": 55116,
-  "2023-01-22": 55068,
-  "2023-01-23": 55031,
-  "2023-01-24": 54994,
-  "2023-01-25": 54952,
-  "2023-01-26": 54915,
-  "2023-01-27": 54874,
-  "2023-01-28": 54822,
-  "2023-01-29": 54786,
-  "2023-01-30": 54748,
-  "2023-01-31": 54748,
-  "2023-02-01": 54670,
-  "2023-02-02": 54642,
-  "2023-02-03": 54617,
-  "2023-02-04": 54583,
-  "2023-02-05": 54550,
-  "2023-02-06": 54520,
-  "2023-02-07": 54491,
-  "2023-02-08": 54415,
-  "2023-02-09": 54415,
-  "2023-02-10": 54386,
-  "2023-02-11": 54355,
-  "2023-02-12": 54308,
-  "2023-02-13": 54291,
-  "2023-02-14": 54291,
-  "2023-02-15": 54278,
-  "2023-02-16": 54252,
-  "2023-02-17": 54227,
-  "2023-02-18": 54187,
-  "2023-02-19": 54184,
-  "2023-02-20": 54165,
-  "2023-02-21": 54139,
-  "2023-02-22": 54127,
-  "2023-02-23": 54106,
-  "2023-02-24": 54083,
-  "2023-02-25": 54057,
-  "2023-02-26": 54050,
-  "2023-02-27": 54030,
-  "2023-02-28": 54030,
-  "2023-03-01": 54010,
-  "2023-03-02": 53996,
-  "2023-03-03": 53979,
-  "2023-03-04": 53962,
-  "2023-03-05": 53931,
-  "2023-03-06": 53931,
-  "2023-03-07": 53911,
-  "2023-03-08": 53898,
-  "2023-03-09": 53888,
-  "2023-03-10": 53877,
-  "2023-03-11": 53851,
-  "2023-03-12": 53835,
-  "2023-03-13": 53825,
-  "2023-03-14": 53814,
-  "2023-03-15": 53797,
-  "2023-03-16": 53784,
-  "2023-03-17": 53784,
-  "2023-03-18": 53761,
-  "2023-03-19": 53749,
-  "2023-03-20": 53741,
-  "2023-03-21": 53717,
-  "2023-03-22": 53703,
-  "2023-03-23": 53690,
-  "2023-03-24": 53690,
-  "2023-03-25": 53665,
-  "2023-03-26": 53649,
-  "2023-03-27": 53628,
-  "2023-03-28": 53616,
-  "2023-03-29": 53604,
-  "2023-03-30": 53583,
-  "2023-03-31": 53583,
-  "2023-04-01": 53573,
-  "2023-04-02": 53558,
-  "2023-04-03": 53551,
-  "2023-04-04": 53536,
-  "2023-04-05": 53525,
-  "2023-04-06": 53511,
-  "2023-04-07": 53502,
-  "2023-04-09": 53479,
-  "2023-04-10": 53473,
-  "2023-04-11": 53454,
-  "2023-04-12": 53454,
-  "2023-04-13": 53434,
-  "2023-04-14": 53419,
-  "2023-04-15": 53402,
-  "2023-04-16": 53391,
-  "2023-04-17": 53377,
-  "2023-04-18": 53363,
-  "2023-04-19": 53355,
-  "2023-04-20": 53345,
-  "2023-04-21": 53340,
-  "2023-04-22": 53328,
-  "2023-04-23": 53321,
-  "2023-04-24": 53310,
-  "2023-04-25": 53299,
-  "2023-04-26": 53282,
-  "2023-04-27": 53273,
-  "2023-04-28": 53268,
-  "2023-04-29": 53267,
-  "2023-04-30": 53257,
-  "2023-05-01": 53253,
-  "2023-05-02": 53251,
-  "2023-05-03": 53241,
-  "2023-05-04": 53233,
-  "2023-05-05": 53223,
-  "2023-05-06": 53214,
-  "2023-05-07": 53204,
-  "2023-05-08": 53202,
-  "2023-05-09": 53196,
-  "2023-05-10": 53186,
-  "2023-05-11": 53184,
-  "2023-05-12": 53175,
-  "2023-05-13": 53169,
-  "2023-05-14": 53171,
-  "2023-05-15": 53166,
-  "2023-05-16": 53161,
-  "2023-05-17": 53158,
-  "2023-05-18": 53161,
-  "2023-05-19": 53155,
-  "2023-05-20": 53141,
-  "2023-05-21": 53141,
-  "2023-05-22": 53141,
-  "2023-05-23": 53132,
-  "2023-05-24": 53126,
-  "2023-05-25": 53124,
-  "2023-05-26": 53125,
-  "2023-05-27": 53120,
-  "2023-05-28": 53117,
-  "2023-05-29": 53117,
-  "2023-05-30": 53107,
-  "2023-05-31": 53105,
-  "2023-06-01": 53098,
-  "2023-06-02": 53091,
-  "2023-06-03": 53084,
-  "2023-06-04": 53083,
-  "2023-06-05": 53081,
-  "2023-06-06": 53073,
-  "2023-06-07": 53071,
-  "2023-06-08": 53071,
-  "2023-06-09": 53074,
-  "2023-06-10": 53067,
-  "2023-06-11": 53065,
-  "2023-06-12": 53058,
-  "2023-06-13": 53061,
-  "2023-06-14": 53054,
-  "2023-06-15": 53051,
-  "2023-06-16": 53052,
-  "2023-06-17": 53050,
-  "2023-06-18": 53047,
-  "2023-06-19": 53043,
-  "2023-06-20": 53043,
-  "2023-06-21": 53043,
-  "2023-06-22": 53049,
-  "2023-06-23": 53048,
-  "2023-06-24": 53041,
-  "2023-06-25": 53042,
-  "2023-06-26": 53034,
-  "2023-06-27": 53039,
-  "2023-06-28": 53038,
-  "2023-06-29": 53039,
-  "2023-06-30": 53033,
-  "2023-07-01": 53030,
-  "2023-07-02": 53030,
-  "2023-07-03": 53032,
-  "2023-07-04": 53034,
-  "2023-07-05": 53028,
-  "2023-07-06": 53024,
-  "2023-07-07": 53024,
-  "2023-07-08": 53017,
-  "2023-07-09": 53013,
-  "2023-07-10": 53014,
-  "2023-07-11": 53016,
-  "2023-07-12": 53012,
-  "2023-07-13": 53013,
-  "2023-07-14": 53013,
-  "2023-07-15": 53011,
-  "2023-07-16": 53019,
-  "2023-07-17": 53019,
-  "2023-07-18": 53024,
-  "2023-07-19": 53027,
-  "2023-07-20": 53033,
-  "2023-07-21": 53038,
-  "2023-07-22": 53044,
-  "2023-07-23": 53052,
-  "2023-07-24": 53059,
-  "2023-07-25": 53060,
-  "2023-07-26": 53063,
-  "2023-07-27": 53070,
-  "2023-07-28": 53074,
-  "2023-07-29": 53080,
-  "2023-07-30": 53078,
-  "2023-07-31": 53084,
-  "2023-08-01": 53085,
-  "2023-08-02": 53093,
-  "2023-08-03": 53097,
-  "2023-08-04": 53101,
-  "2023-08-05": 53102,
-  "2023-08-06": 53104,
-  "2023-08-07": 53104,
-  "2023-08-08": 53098,
-  "2023-08-09": 53105,
-  "2023-08-10": 53116,
-  "2023-08-11": 53117,
-  "2023-08-12": 53129,
-  "2023-08-13": 53133,
-  "2023-08-14": 53144,
-  "2023-08-15": 53163,
-  "2023-08-16": 53163,
-  "2023-08-17": 53175,
-  "2023-08-18": 53186,
-  "2023-08-19": 53189,
-  "2023-08-20": 53187,
-  "2023-08-21": 53197,
-  "2023-08-22": 53204,
-  "2023-08-23": 53214,
-  "2023-08-24": 53224,
-  "2023-08-25": 53230,
-  "2023-08-26": 53236,
-  "2023-08-27": 53247,
-  "2023-08-28": 53255,
-  "2023-08-29": 53271,
-  "2023-08-30": 53292,
-  "2023-08-31": 53303,
-  "2023-09-01": 53378,
-  "2023-09-02": 53378,
-  "2023-09-03": 53405,
-  "2023-09-04": 53433,
-  "2023-09-05": 53457,
-  "2023-09-06": 53481,
-  "2023-09-07": 53501,
-  "2023-09-08": 53521,
-  "2023-09-09": 53539,
-  "2023-09-10": 53550,
-  "2023-09-11": 53577,
-  "2023-09-12": 53598,
-  "2023-09-13": 53624,
-  "2023-09-14": 53643,
-  "2023-09-15": 53673,
-  "2023-09-16": 53697,
-  "2023-09-17": 53716,
-  "2023-09-18": 53749,
-  "2023-09-19": 53767,
-  "2023-09-20": 53807,
-  "2023-09-21": 53836,
-  "2023-09-22": 53862,
-  "2023-09-23": 53887,
-  "2023-09-24": 53922,
-  "2023-09-25": 53951,
-  "2023-09-26": 53979,
-  "2023-09-27": 54005,
-  "2023-09-28": 54028,
-  "2023-09-29": 54048,
-  "2023-09-30": 54072,
-  "2023-10-01": 54084,
-  "2023-10-02": 54099,
-  "2023-10-03": 54118,
-  "2023-10-04": 54140,
-  "2023-10-05": 54158,
-  "2023-10-06": 54182,
-  "2023-10-07": 54208,
-  "2023-10-08": 54225,
-  "2023-10-09": 54254,
-  "2023-10-10": 54282,
-  "2023-10-11": 54330,
-  "2023-10-12": 54330,
-  "2023-10-13": 54360,
-  "2023-10-14": 54382,
-  "2023-10-15": 54427,
-  "2023-10-16": 54466,
-  "2023-10-17": 54496,
-  "2023-10-18": 54557,
-  "2023-10-19": 54616,
-  "2023-10-20": 54667,
-  "2023-10-21": 54704,
-  "2023-10-22": 54747,
-  "2023-10-23": 54802,
-  "2023-10-24": 54854,
-  "2023-10-25": 54905,
-  "2023-10-26": 54960,
-  "2023-10-27": 55031,
-  "2023-10-28": 55091,
-  "2023-10-29": 55155,
-  "2023-10-30": 55348,
-  "2023-10-31": 55348,
-  "2023-11-01": 55454,
-  "2023-11-02": 55662,
-  "2023-11-03": 55897,
-  "2023-11-04": 56085,
-  "2023-11-05": 56267,
-  "2023-11-06": 56446,
-  "2023-11-07": 56624,
-  "2023-11-08": 56798,
-  "2023-11-09": 56990,
-  "2023-11-10": 57177,
-  "2023-11-11": 57398,
-  "2023-11-12": 57570,
-  "2023-11-13": 57831,
-  "2023-11-14": 58048,
-  "2023-11-15": 58048,
-  "2023-11-16": 58487,
-  "2023-11-17": 58950,
-  "2023-11-18": 58950,
-  "2023-11-19": 59224,
-  "2023-11-20": 59553,
-  "2023-11-21": 59853,
-  "2023-11-22": 60155,
-  "2023-11-23": 60467,
-  "2023-11-24": 60770,
-  "2023-11-25": 61154,
-  "2023-11-26": 61623,
-  "2023-11-27": 62221,
-  "2023-11-28": 62759,
-  "2023-11-29": 64637,
-  "2023-11-30": 64637,
-  "2023-12-01": 65387,
-  "2023-12-02": 66160,
-  "2023-12-03": 67026,
-  "2023-12-04": 67916,
-  "2023-12-05": 68696,
-  "2023-12-06": 69726,
-  "2023-12-07": 70657,
-  "2023-12-08": 71425,
-  "2023-12-09": 72202,
-  "2023-12-10": 73043,
-  "2023-12-11": 73931,
-  "2023-12-12": 74684,
-  "2023-12-13": 75725,
-  "2023-12-14": 76896,
-  "2023-12-15": 77560,
-  "2023-12-16": 78340,
-  "2023-12-17": 79303,
-  "2023-12-18": 80297,
-  "2023-12-19": 81230,
-  "2023-12-20": 82264,
-  "2023-12-21": 83306,
-  "2023-12-22": 84347,
-  "2023-12-23": 85342,
-  "2023-12-24": 86405,
-  "2023-12-25": 87835,
-  "2023-12-26": 88698,
-  "2023-12-27": 88854,
-  "2023-12-30": 88767,
-  "2023-12-31": 88709,
-  "2024-01-01": 88657,
-  "2024-01-02": 88548,
-  "2024-01-03": 88398
+  "2024-01-17": 87233,
+  "date_first_scraped": "2021-12-28",
+  "description": "Relax to these chilled instrumental Christmas tunes. ",
+  "name": "Relaxing Christmas",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Christmas Collection",
+        "url": "https://open.spotify.com/album/0IlX79HsNRwWdpRgtZ0qlS"
+      },
+      "artists": [
+        {
+          "name": "Piano Man Sam",
+          "url": "https://open.spotify.com/artist/7JJqk0ASV8zGJiBnrQUSbI"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172997,
+      "name": "All I Want For Christmas Is You - Instrumental",
+      "url": "https://open.spotify.com/track/4FrdCx26BQaktGdIkkbthy"
+    },
+    {
+      "album": {
+        "name": "The Christmas Collection",
+        "url": "https://open.spotify.com/album/4PuFVka05TTduMjo0tQWMC"
+      },
+      "artists": [
+        {
+          "name": "Piano Man Sam",
+          "url": "https://open.spotify.com/artist/7JJqk0ASV8zGJiBnrQUSbI"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172997,
+      "name": "All I Want For Christmas Is You - Instrumental",
+      "url": "https://open.spotify.com/track/7mqyjMcNw4nifDnyhmSAxQ"
+    },
+    {
+      "album": {
+        "name": "Auld Lang Syne (Arr. Riley)",
+        "url": "https://open.spotify.com/album/0yDhTV5nPwlTUPd2wlkTEk"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 125893,
+      "name": "Auld Lang Syne (Arr. Riley)",
+      "url": "https://open.spotify.com/track/0tjjiibhuoiPujMxlsDfQE"
+    },
+    {
+      "album": {
+        "name": "Away in a Manger",
+        "url": "https://open.spotify.com/album/3Ql5d9dIaefIyO4wMoV9PU"
+      },
+      "artists": [
+        {
+          "name": "William J. Kirkpatrick",
+          "url": "https://open.spotify.com/artist/0IyFf7sJynolp1a7Ck79u9"
+        },
+        {
+          "name": "Boulanger Trio",
+          "url": "https://open.spotify.com/artist/347x9Hh12BrOdcCwMxknoi"
+        },
+        {
+          "name": "Asya Fateyeva",
+          "url": "https://open.spotify.com/artist/74CgMfXwxw0JvpVGFzXV99"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197165,
+      "name": "Away in a Manger",
+      "url": "https://open.spotify.com/track/2Hhngl3KwlefHtY0hORMH4"
+    },
+    {
+      "album": {
+        "name": "Warlock: Bethlehem Down",
+        "url": "https://open.spotify.com/album/0j71fTpamXeMd4yRMbbeXx"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174320,
+      "name": "Bethlehem Down",
+      "url": "https://open.spotify.com/track/2HJfbaED8RpSad8pUE9Toe"
+    },
+    {
+      "album": {
+        "name": "Candlelight Carol",
+        "url": "https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167652,
+      "name": "Candlelight Carol",
+      "url": "https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N"
+    },
+    {
+      "album": {
+        "name": "Beautiful Cello",
+        "url": "https://open.spotify.com/album/0mUUsd64PlYJuGsuSfyawn"
+      },
+      "artists": [
+        {
+          "name": "Cellist Yesle",
+          "url": "https://open.spotify.com/artist/1EPr2hpZSt3xNbeXEyBEbj"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228642,
+      "name": "Christmas Letter",
+      "url": "https://open.spotify.com/track/3oFDysBX3TkBDmy5cZuxJP"
+    },
+    {
+      "album": {
+        "name": "Carol of the Bells (arr. piano) / Christmas Time Is Here (arr. piano)",
+        "url": "https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414733,
+      "name": "Christmas Time Is Here (arr. piano)",
+      "url": "https://open.spotify.com/track/4IGPENN8Ou2Q4MFbXKwt8l"
+    },
+    {
+      "album": {
+        "name": "Elliott Jack Sansom Plays Christmas Movie Themes",
+        "url": "https://open.spotify.com/album/4aHKQXLjhsNzk9Ic6Ns5au"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Christmas, Why Can't I Find You? - from 'How The Grinch Stole Christmas'",
+      "url": "https://open.spotify.com/track/7Hexb3gBNmQ765WDGNpGbg"
+    },
+    {
+      "album": {
+        "name": "Coventry Carol",
+        "url": "https://open.spotify.com/album/3gNj1pBbG3MbswEnpdMDSl"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209837,
+      "name": "Coventry Carol",
+      "url": "https://open.spotify.com/track/6MX93EaPA2m5YtMOxSlyvv"
+    },
+    {
+      "album": {
+        "name": "Silent Nights - Die sch\u00f6nsten Melodien f\u00fcr eine entspannte Weihnachtszeit",
+        "url": "https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Nigel Hess",
+          "url": "https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269706,
+      "name": "Ding Dong! Merrily On High",
+      "url": "https://open.spotify.com/track/44KfRf2QBhyChudtmInTXX"
+    },
+    {
+      "album": {
+        "name": "El Noi de la Mare (Transc. for Guitar by Miguel Llobet)",
+        "url": "https://open.spotify.com/album/5gs4oAgiXUZqG7sevHwakF"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152647,
+      "name": "El Noi de la Mare (Transc. for Guitar by Miguel Llobet)",
+      "url": "https://open.spotify.com/track/7q7YGy7gwwB1a2KYy0mcGO"
+    },
+    {
+      "album": {
+        "name": "Together At Last",
+        "url": "https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T"
+      },
+      "artists": [
+        {
+          "name": "Jem Finer",
+          "url": "https://open.spotify.com/artist/5DJY4vHKN7NdsbU60GVIkW"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192181,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/2Lef0CHyds1JR5t8oPXXzw"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 263923,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/6fdLagw34w7uPH65UpGe7y"
+    },
+    {
+      "album": {
+        "name": "When Christmas Morn Is Dawning",
+        "url": "https://open.spotify.com/album/713jtXTO3X5BgGLCKraUnQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Rasmus H Thomsen",
+          "url": "https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163905,
+      "name": "Feliz Navidad (Arr. for Piano by Rasmus H Thomsen)",
+      "url": "https://open.spotify.com/track/2Qxl1GRAv2UZYqJhm2nzVl"
+    },
+    {
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125437,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
+    },
+    {
+      "album": {
+        "name": "Gabriel's Message",
+        "url": "https://open.spotify.com/album/0YC5jOsmjX2LebjVZq0VMa"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154422,
+      "name": "Gabriel's Message",
+      "url": "https://open.spotify.com/track/0QWDOBSNiPaM73Y2AxXQ4L"
+    },
+    {
+      "album": {
+        "name": "Give me no Splendour, Gold or Pomp",
+        "url": "https://open.spotify.com/album/2oy471jjrzeyB6AAWle1sL"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149038,
+      "name": "Give me no Splendour, Gold or Pomp",
+      "url": "https://open.spotify.com/track/48HpzCZRKhMWKvOI3Ic0rl"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/1LehggnhCoj9tHcXh99YjX"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143881,
+      "name": "Gloria In Exelcis Deo",
+      "url": "https://open.spotify.com/track/0aKUktm0u2VMJSKboCnUQA"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/26AHxf0rHw2qAhUN3EGSF9"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 143881,
+      "name": "Gloria In Exelcis Deo",
+      "url": "https://open.spotify.com/track/2E61pXyRJv1tApFvqEb7jM"
+    },
+    {
+      "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB"
+      },
+      "artists": [
+        {
+          "name": "Michael Logozar",
+          "url": "https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171306,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4"
+    },
+    {
+      "album": {
+        "name": "Songs of Joy & Peace",
+        "url": "https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285626,
+      "name": "Happy Xmas (War is Over)",
+      "url": "https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE"
+    },
+    {
+      "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/73NbCZ1FCzXKpozFfpcOSd"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Leonardo Lucero",
+          "url": "https://open.spotify.com/artist/0RmoXT2viR9SdWDQznufRE"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113598,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/1qXc4y3UMJeAaSjBnXdPos"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas (Arr. Mackay)",
+        "url": "https://open.spotify.com/album/2VU6vUsCJNXjuVKpvJlgJP"
+      },
+      "artists": [
+        {
+          "name": "Hugh Martin",
+          "url": "https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW"
+        },
+        {
+          "name": "Ralph Blane",
+          "url": "https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Oscar Holch",
+          "url": "https://open.spotify.com/artist/0yAcZP2jxBzykyUu92Wm2Z"
+        },
+        {
+          "name": "Matthew Sharp",
+          "url": "https://open.spotify.com/artist/0IivBy8bFH9oN4N5wWmGz7"
+        },
+        {
+          "name": "Sam Becker",
+          "url": "https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT"
+        },
+        {
+          "name": "Ming Liu",
+          "url": "https://open.spotify.com/artist/1y6zFseZunoGSLcUk161Le"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185226,
+      "name": "Have Yourself A Merry Little Christmas (Arr. Mackay)",
+      "url": "https://open.spotify.com/track/6oDXX38npeVEQhDMIkdXcM"
+    },
+    {
+      "album": {
+        "name": "Winter II",
+        "url": "https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Marvel",
+          "url": "https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193053,
+      "name": "Huron Carol",
+      "url": "https://open.spotify.com/track/7dkXnwn1iKD6DZ28gA5OY5"
+    },
+    {
+      "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/7zV7gDophcjhvTynWSI9ju"
+      },
+      "artists": [
+        {
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148002,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/4DHmQW2gtRc4Gx991GZrsS"
+    },
+    {
+      "album": {
+        "name": "I Wonder as I Wander",
+        "url": "https://open.spotify.com/album/5djuC60i0uFWvVhYbGLvOe"
+      },
+      "artists": [
+        {
+          "name": "Barron Ryan",
+          "url": "https://open.spotify.com/artist/4gj7WndN1VykJMR3z4j9to"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286024,
+      "name": "I Wonder as I Wander",
+      "url": "https://open.spotify.com/track/4MgmjwYiDDj7h0MZF8Km5m"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/0z3OrHSOvYlME9tNVajV8n"
+      },
+      "artists": [
+        {
+          "name": "Dan Evmark",
+          "url": "https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261532,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/2AlhKcEFRYnlvtt5FyYmR5"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/6ABJT39u4YaKGD33L3080f"
+      },
+      "artists": [
+        {
+          "name": "Dan Evmark",
+          "url": "https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 261532,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/5npbKR3fjmyfnYY1RtjxGc"
+    },
+    {
+      "album": {
+        "name": "In Dulci Jubilo",
+        "url": "https://open.spotify.com/album/6g98k09O6i2x5RDn4hOPWQ"
+      },
+      "artists": [
+        {
+          "name": "John Vegard Schow",
+          "url": "https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219864,
+      "name": "In Dulci Jubilo",
+      "url": "https://open.spotify.com/track/5Al7jcNFVr6sPXmO2jZpjX"
+    },
+    {
+      "album": {
+        "name": "In the Bleak Midwinter (Arr. for Piano by Martin Stadtfeld)",
+        "url": "https://open.spotify.com/album/6ud4LYbVUC9gd8EvKGOrWT"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126986,
+      "name": "In the Bleak Midwinter (Arr. for Piano by Martin Stadtfeld)",
+      "url": "https://open.spotify.com/track/6dAWKg1egU4uBjLGj2EUL3"
+    },
+    {
+      "album": {
+        "name": "Midwinter's Eve - Music for Christmas",
+        "url": "https://open.spotify.com/album/7DOdHPkADua4PT6yyP60GE"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "London Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/1ucDa7qmi9SfqfSqES9iXZ"
+        },
+        {
+          "name": "Christopher Warren-Green",
+          "url": "https://open.spotify.com/artist/6exISmHxzPKtfKOWwkVHwK"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "In the Bleak Midwinter, H. 73, No. 1",
+      "url": "https://open.spotify.com/track/1wrHwFpnwV4snllIwRMa1y"
+    },
+    {
+      "album": {
+        "name": "Carols Without Words",
+        "url": "https://open.spotify.com/album/2vsG13X4JWVDyx7kXua8HJ"
+      },
+      "artists": [
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Cliff Masterson",
+          "url": "https://open.spotify.com/artist/0cUh2BRVeZhzTX9dfQBx3e"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "It Came Upon A Midnight Clear",
+      "url": "https://open.spotify.com/track/6MAC5m83LjGzldqDBvKJ5q"
+    },
+    {
+      "album": {
+        "name": "Largo From Winter",
+        "url": "https://open.spotify.com/album/060kov0LwToXCEdgQsYbac"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228893,
+      "name": "Largo From Winter",
+      "url": "https://open.spotify.com/track/6qNxvuKuLORieVbQeKauYe"
+    },
+    {
+      "album": {
+        "name": "Christmas - Plain & Simple II",
+        "url": "https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4"
+      },
+      "artists": [
+        {
+          "name": "Michele McLaughlin",
+          "url": "https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243746,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp"
+    },
+    {
+      "album": {
+        "name": "A Night in Winter",
+        "url": "https://open.spotify.com/album/5I28ceSFOIzyyEF3jGBVkf"
+      },
+      "artists": [
+        {
+          "name": "Winter Harp Ensemble",
+          "url": "https://open.spotify.com/artist/4WX6y7CG68HnwLAwC2IkQw"
+        },
+        {
+          "name": "Lori Pappajohn",
+          "url": "https://open.spotify.com/artist/61RcUdOwqcuSYE2rMLy0YL"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251946,
+      "name": "Lo How a Rose",
+      "url": "https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3"
+    },
+    {
+      "album": {
+        "name": "Mary Did You Know",
+        "url": "https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229280,
+      "name": "Mary Did You Know",
+      "url": "https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i"
+    },
+    {
+      "album": {
+        "name": "Mary's Boychild",
+        "url": "https://open.spotify.com/album/3DFsEtBtGmseKUD7pm7QGE"
+      },
+      "artists": [
+        {
+          "name": "Jester Hairston",
+          "url": "https://open.spotify.com/artist/3tgxh3cqdCA5UvqwuNYWWl"
+        },
+        {
+          "name": "The Masked Pianoman",
+          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121693,
+      "name": "Mary's Boychild",
+      "url": "https://open.spotify.com/track/5yyxBmvuGEOMZ4DKfhobNx"
+    },
+    {
+      "album": {
+        "name": "O Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/7EoYR3CpzVLDng5B6hbIbP"
+      },
+      "artists": [
+        {
+          "name": "BAWK",
+          "url": "https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140826,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/0wwQHm22k4V0eoqLXLdd8E"
+    },
+    {
+      "album": {
+        "name": "O Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/6pM5sjp8nekGKbMS6KDJ9i"
+      },
+      "artists": [
+        {
+          "name": "BAWK",
+          "url": "https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 140826,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/4WehDMVkpIxLPCltba3JFs"
+    },
+    {
+      "album": {
+        "name": "A Cello Christmas",
+        "url": "https://open.spotify.com/album/0pciEObXXUDRudyHwJrgj7"
+      },
+      "artists": [
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 152727,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/6lNQuXMNa4qdkny0gzgbeV"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1"
+      },
+      "artists": [
+        {
+          "name": "Adolphe Adam",
+          "url": "https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-16",
+      "duration_ms": 189861,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/4wps5wZL1C1ye4lzxgGA5P"
+    },
+    {
+      "album": {
+        "name": "Christmas Piano with Alexis",
+        "url": "https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx"
+      },
+      "artists": [
+        {
+          "name": "Adolphe Adam",
+          "url": "https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191861,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/71Gm9SQksFzIYDM1p5RpOt"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/7ysRwKlllMX84dE2tSSXWQ"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189861,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3vHRNs120gcWRfv5Tcvqfi"
+    },
+    {
+      "album": {
+        "name": "Christmas Time (3 New Carols For 2014)",
+        "url": "https://open.spotify.com/album/5FAWryvmzBlzJOwrte0xIN"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Craig Ogden",
+          "url": "https://open.spotify.com/artist/07pZelCNTBK93CD474588Q"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 139120,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/7ocAJ3CVIMc4AJJRdxGe7U"
+    },
+    {
+      "album": {
+        "name": "Traditional: O Tannenbaum, du tr\u00e4gst ein\u2019 gr\u00fcnen Zweig (Arr. Hoffmann & Grabe for Harp) [Musical Moments]",
+        "url": "https://open.spotify.com/album/1Fpts6LEM50PmN9UV1Dc5S"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Magdalena Hoffmann",
+          "url": "https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "O Tannenbaum, du tr\u00e4gst ein\u2019 gr\u00fcnen Zweig (Arr. Hoffmann & Grabe for Harp)",
+      "url": "https://open.spotify.com/track/74u9Z0LqZHsjIjLn8whyjx"
+    },
+    {
+      "album": {
+        "name": "Oh Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k"
+      },
+      "artists": [
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Oh Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R"
+    },
+    {
+      "album": {
+        "name": "Silent Nights",
+        "url": "https://open.spotify.com/album/6vjr6L0QWJ75MJXsctvx0C"
+      },
+      "artists": [
+        {
+          "name": "Henry John Gauntlett",
+          "url": "https://open.spotify.com/artist/0Ywn9U6rufDhKYfZanCr6c"
+        },
+        {
+          "name": "Nigel Hess",
+          "url": "https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 217466,
+      "name": "Once In Royal David\u2019s City",
+      "url": "https://open.spotify.com/track/1vr31htsP3k9idjJzbbT4n"
+    },
+    {
+      "album": {
+        "name": "Dark Academia Christmas",
+        "url": "https://open.spotify.com/album/1JQ2kq4F8pyWKaJqeIKG6S"
+      },
+      "artists": [
+        {
+          "name": "Henry John Gauntlett",
+          "url": "https://open.spotify.com/artist/0Ywn9U6rufDhKYfZanCr6c"
+        },
+        {
+          "name": "Nigel Hess",
+          "url": "https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218386,
+      "name": "Once In Royal David\u2019s City",
+      "url": "https://open.spotify.com/track/0mj6WJRfdnM1x9JgQgepWn"
+    },
+    {
+      "album": {
+        "name": "Silent Nights - Die sch\u00f6nsten Melodien f\u00fcr eine entspannte Weihnachtszeit",
+        "url": "https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS"
+      },
+      "artists": [
+        {
+          "name": "Henry John Gauntlett",
+          "url": "https://open.spotify.com/artist/0Ywn9U6rufDhKYfZanCr6c"
+        },
+        {
+          "name": "Nigel Hess",
+          "url": "https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218386,
+      "name": "Once In Royal David\u2019s City",
+      "url": "https://open.spotify.com/track/6M7DHt54sGNGyxZrMZMR8w"
+    },
+    {
+      "album": {
+        "name": "Chloe Hearts Christmas",
+        "url": "https://open.spotify.com/album/1htpG1vi3iNXgtqyl3YPig"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "Chloe Flower",
+          "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Czech Studio Orchestra",
+          "url": "https://open.spotify.com/artist/6XBxkEgoCuovPtpGqfxC5a"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "River",
+      "url": "https://open.spotify.com/track/1ZemH3BLNCtIoGEfQVvSbR"
+    },
+    {
+      "album": {
+        "name": "Rosey Chan x The Listening Planet",
+        "url": "https://open.spotify.com/album/5F4wY7c0LzSy0KKxBCOwOG"
+      },
+      "artists": [
+        {
+          "name": "Rosey Chan",
+          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243040,
+      "name": "Rosey Chan x The Listening Planet",
+      "url": "https://open.spotify.com/track/3B6XD4wi46t80Cop4H6lEk"
+    },
+    {
+      "album": {
+        "name": "John Rutter: The Colours of Christmas",
+        "url": "https://open.spotify.com/album/5EQU41n7Lj7OAn0wuRMwGt"
+      },
+      "artists": [
+        {
+          "name": "John Lenehan",
+          "url": "https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177017,
+      "name": "Rutter: The Colours of Christmas - Arr. for Piano by John Lenehan",
+      "url": "https://open.spotify.com/track/5hxJyjM1uI60T8xJB5U4yg"
+    },
+    {
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/0OB5qNV3Nk6lbZpWNQI8jA"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 167000,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/2DCxWF4de4snGIze8xKw15"
+    },
+    {
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/24C2NLD7zqkPVrV1trhRlL"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/65VUbfbDAWV9j03HHl10hc"
+    },
+    {
+      "album": {
+        "name": "Winter Songs",
+        "url": "https://open.spotify.com/album/2jFBT3xeFTFExf0p7nZPT6"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226226,
+      "name": "Silent Night (Arr. Gjeilo)",
+      "url": "https://open.spotify.com/track/52IYxMsVmlYNuluq0H4tS6"
+    },
+    {
+      "album": {
+        "name": "Winter Tales",
+        "url": "https://open.spotify.com/album/3o8RQHt67qDlpA3JRo59Pl"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159013,
+      "name": "Sleep for Mama (Icelandic Folk Song)",
+      "url": "https://open.spotify.com/track/2xI6xvh6At0gjyLeiMP9RC"
+    },
+    {
+      "album": {
+        "name": "Somewhere in my memory (arr. L Lucero)",
+        "url": "https://open.spotify.com/album/02boQxTnksOLSOSCFOCSKd"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/31xTJIxkX0eWMARvDuTyZl"
+        },
+        {
+          "name": "Leonardo Lucero",
+          "url": "https://open.spotify.com/artist/0RmoXT2viR9SdWDQznufRE"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 158000,
+      "name": "Somewhere in my memory (arr. L Lucero)",
+      "url": "https://open.spotify.com/track/2823E8fmJUEw1j47EUXlfo"
+    },
+    {
+      "album": {
+        "name": "Somewhere In My Memory (from 'Home Alone')",
+        "url": "https://open.spotify.com/album/7JQDeQraMoELsWOxzd81HV"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Somewhere In My Memory - from 'Home Alone'",
+      "url": "https://open.spotify.com/track/6GHpGH1c670vptD19Mvi7A"
+    },
+    {
+      "album": {
+        "name": "Christmas Piano with Alexis",
+        "url": "https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112361,
+      "name": "Still, Still, Still",
+      "url": "https://open.spotify.com/track/28hC0zMOkbVZBNPw0NJTdN"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1b1lifPc4Un5xuO9LJjcdd"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/2ZqwIozv140VtUIcKllHQJ"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+        "url": "https://open.spotify.com/album/5Alx7HeL1vtAV2crddvB3h"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9 and Robert Wells",
+          "url": "https://open.spotify.com/artist/2OsA2lCQCoBnZieSdGUVfN"
+        },
+        {
+          "name": "Elliott Jacqu\u00e9s",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195483,
+      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "url": "https://open.spotify.com/track/1oGv4rDnVsy1gjRe8xkzEz"
+    },
+    {
+      "album": {
+        "name": "The First Christmas",
+        "url": "https://open.spotify.com/album/3mggmM1Msp3b5gvsZfs5Yg"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "The First Christmas",
+      "url": "https://open.spotify.com/track/3JsIen630AIZTAiGpEHgkU"
+    },
+    {
+      "album": {
+        "name": "A Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224771,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/0f9O0RNskatv4lzUK6axjy"
+    },
+    {
+      "album": {
+        "name": "The Wexford Carol",
+        "url": "https://open.spotify.com/album/2avlZClfTbrRCAMttmcPuE"
+      },
+      "artists": [
+        {
+          "name": "Carducci String Quartet",
+          "url": "https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157376,
+      "name": "The Wexford Carol",
+      "url": "https://open.spotify.com/track/2DUq09XWvzX2QRXKs3ZMUH"
+    },
+    {
+      "album": {
+        "name": "Walking in the Air (Piano Solo)",
+        "url": "https://open.spotify.com/album/2OL3V55VQa6cl2QNpOXF2K"
+      },
+      "artists": [
+        {
+          "name": "Howard Blake",
+          "url": "https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei"
+        },
+        {
+          "name": "Joe Alexander Shepherd",
+          "url": "https://open.spotify.com/artist/0LN3ADKCdqFQv7uJ1kZjBa"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219546,
+      "name": "Walking in the Air - Piano Solo",
+      "url": "https://open.spotify.com/track/1s7kwpJPuBhHVO0WuEgFmE"
+    },
+    {
+      "album": {
+        "name": "Walking in the Air (Piano Solo)",
+        "url": "https://open.spotify.com/album/0bbA0VNAJ51xqLt4N13yks"
+      },
+      "artists": [
+        {
+          "name": "Howard David Blake",
+          "url": "https://open.spotify.com/artist/6N5z4tdsX1oGACw5lZGe72"
+        },
+        {
+          "name": "Joe Alexander Shepherd",
+          "url": "https://open.spotify.com/artist/0LN3ADKCdqFQv7uJ1kZjBa"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219546,
+      "name": "Walking in the Air - Piano Solo",
+      "url": "https://open.spotify.com/track/6hFwNd3XEQp56paHH8GD5g"
+    },
+    {
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/4x04WzKXt5q1tqUf5Eais1"
+      },
+      "artists": [
+        {
+          "name": "Robin Meloy Goldsby",
+          "url": "https://open.spotify.com/artist/2ZS0eOeBhk5GgOetMqP7xb"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262709,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/3wE6NC3et1CbZjcvWIQXUp"
+    },
+    {
+      "album": {
+        "name": "A Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258357,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/23zCWNIS8w4Bhi9Es2E5uh"
+    },
+    {
+      "album": {
+        "name": "The Piano Collection",
+        "url": "https://open.spotify.com/album/13QCcMPgbmg9FZROLvenU3"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257760,
+      "name": "What Sweeter Music",
+      "url": "https://open.spotify.com/track/22TtoL9ogBV2B4eHK01924"
+    },
+    {
+      "album": {
+        "name": "Christmas Elegance",
+        "url": "https://open.spotify.com/album/5npdxE8fnqpl6MWSWn40Hb"
+      },
+      "artists": [
+        {
+          "name": "Beegie Adair",
+          "url": "https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI"
+        },
+        {
+          "name": "David Davidson",
+          "url": "https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 249480,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/3Kmam37aGtUbQ2TPVrpwpX"
+    },
+    {
+      "album": {
+        "name": "Christmas Elegance: Elegant Holiday Instrumentals Featuring Piano And Violin",
+        "url": "https://open.spotify.com/album/59iScT5hI7Gi59PE79QnHC"
+      },
+      "artists": [
+        {
+          "name": "Beegie Adair",
+          "url": "https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI"
+        },
+        {
+          "name": "David Davidson",
+          "url": "https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249480,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6zrXZLbL6gPCVLeodyN0bd"
+    },
+    {
+      "album": {
+        "name": "Winter Light (Christmas Morning Version)",
+        "url": "https://open.spotify.com/album/6q14CGdJ2go2vc9x6dAjne"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        },
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "Winter Light - Christmas Morning Version",
+      "url": "https://open.spotify.com/track/7kxKV6jCh1zuI598rdYgcN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pJ4E78jhBi"
 }

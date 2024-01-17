@@ -1,735 +1,945 @@
 {
-  "2021-12-25": 5574,
-  "2021-12-26": 5574,
-  "2021-12-27": 5573,
-  "2021-12-28": 5573,
-  "2021-12-29": 5570,
-  "2021-12-30": 5569,
-  "2021-12-31": 5571,
-  "2022-01-01": 5569,
-  "2022-01-02": 5569,
-  "2022-01-03": 5569,
-  "2022-01-04": 5569,
-  "2022-01-05": 5569,
-  "2022-01-06": 5569,
-  "2022-01-07": 5569,
-  "2022-01-08": 5569,
-  "2022-01-09": 5569,
-  "2022-01-10": 5568,
-  "2022-01-11": 5568,
-  "2022-01-12": 5569,
-  "2022-01-13": 5569,
-  "2022-01-14": 5569,
-  "2022-01-15": 5569,
-  "2022-01-16": 5569,
-  "2022-01-17": 5569,
-  "2022-01-18": 5569,
-  "2022-01-19": 5570,
-  "2022-01-20": 5570,
-  "2022-01-21": 5571,
-  "2022-01-22": 5571,
-  "2022-01-23": 5570,
-  "2022-01-24": 5570,
-  "2022-01-25": 5571,
-  "2022-01-26": 5571,
-  "2022-01-27": 5570,
-  "2022-01-28": 5570,
-  "2022-01-29": 5568,
-  "2022-01-30": 5568,
-  "2022-01-31": 5567,
-  "2022-02-01": 5567,
-  "2022-02-02": 5567,
-  "2022-02-03": 5567,
-  "2022-02-04": 5567,
-  "2022-02-05": 5567,
-  "2022-02-06": 5567,
-  "2022-02-07": 5568,
-  "2022-02-08": 5568,
-  "2022-02-09": 5567,
-  "2022-02-10": 5566,
-  "2022-02-11": 5566,
-  "2022-02-12": 5565,
-  "2022-02-13": 5565,
-  "2022-02-14": 5565,
-  "2022-02-15": 5564,
-  "2022-02-16": 5564,
-  "2022-02-17": 5565,
-  "2022-02-18": 5563,
-  "2022-02-19": 5563,
-  "2022-02-20": 5562,
-  "2022-02-21": 5561,
-  "2022-02-22": 5562,
-  "2022-02-23": 5562,
-  "2022-02-24": 5562,
-  "2022-02-25": 5562,
-  "2022-02-26": 5562,
-  "2022-02-27": 5561,
-  "2022-02-28": 5561,
-  "2022-03-01": 5561,
-  "2022-03-02": 5561,
-  "2022-03-03": 5562,
-  "2022-03-04": 5562,
-  "2022-03-05": 5562,
-  "2022-03-06": 5564,
-  "2022-03-07": 5564,
-  "2022-03-08": 5565,
-  "2022-03-09": 5564,
-  "2022-03-10": 5564,
-  "2022-03-11": 5564,
-  "2022-03-12": 5565,
-  "2022-03-13": 5565,
-  "2022-03-14": 5565,
-  "2022-03-15": 5565,
-  "2022-03-16": 5564,
-  "2022-03-17": 5564,
-  "2022-03-18": 5562,
-  "2022-03-19": 5562,
-  "2022-03-20": 5562,
-  "2022-03-21": 5562,
-  "2022-03-22": 5562,
-  "2022-03-23": 5562,
-  "2022-03-24": 5562,
-  "2022-03-25": 5562,
-  "2022-03-26": 5562,
-  "2022-03-27": 5562,
-  "2022-03-28": 5563,
-  "2022-03-30": 5563,
-  "2022-03-31": 5564,
-  "2022-04-01": 5564,
-  "2022-04-02": 5564,
-  "2022-04-03": 5564,
-  "2022-04-04": 5564,
-  "2022-04-05": 5564,
-  "2022-04-06": 5564,
-  "2022-04-07": 5564,
-  "2022-04-08": 5564,
-  "2022-04-09": 5564,
-  "2022-04-10": 5564,
-  "2022-04-11": 5564,
-  "2022-04-12": 5564,
-  "2022-04-13": 5564,
-  "2022-04-14": 5564,
-  "2022-04-15": 5564,
-  "2022-04-16": 5564,
-  "2022-04-17": 5564,
-  "2022-04-18": 5564,
-  "2022-04-19": 5564,
-  "2022-04-20": 5564,
-  "2022-04-21": 5564,
-  "2022-04-22": 5564,
-  "2022-04-23": 5564,
-  "2022-04-24": 5564,
-  "2022-04-25": 5564,
-  "2022-04-26": 5564,
-  "2022-04-27": 5564,
-  "2022-04-28": 5564,
-  "2022-04-29": 5564,
-  "2022-04-30": 5564,
-  "2022-05-01": 5564,
-  "2022-05-02": 5564,
-  "2022-05-03": 5564,
-  "2022-05-04": 5564,
-  "2022-05-05": 5564,
-  "2022-05-06": 5564,
-  "2022-05-07": 5564,
-  "2022-05-08": 5564,
-  "2022-05-09": 5564,
-  "2022-05-10": 5564,
-  "2022-05-11": 5564,
-  "2022-05-12": 5564,
-  "2022-05-13": 5564,
-  "2022-05-14": 5564,
-  "2022-05-15": 5564,
-  "2022-05-16": 5564,
-  "2022-05-17": 5564,
-  "2022-05-18": 5564,
-  "2022-05-19": 5564,
-  "2022-05-20": 5564,
-  "2022-05-21": 5564,
-  "2022-05-22": 5564,
-  "2022-05-23": 5564,
-  "2022-05-24": 5564,
-  "2022-05-25": 5564,
-  "2022-05-26": 5564,
-  "2022-05-27": 5564,
-  "2022-05-28": 5564,
-  "2022-05-29": 5564,
-  "2022-05-30": 5564,
-  "2022-05-31": 5564,
-  "2022-06-01": 5564,
-  "2022-06-02": 5564,
-  "2022-06-03": 5564,
-  "2022-06-04": 5564,
-  "2022-06-05": 5564,
-  "2022-06-06": 5564,
-  "2022-06-07": 5564,
-  "2022-06-08": 5564,
-  "2022-06-09": 5564,
-  "2022-06-10": 5564,
-  "2022-06-11": 5564,
-  "2022-06-12": 5564,
-  "2022-06-13": 5564,
-  "2022-06-14": 5564,
-  "2022-06-15": 5564,
-  "2022-06-16": 5564,
-  "2022-06-17": 5564,
-  "2022-06-18": 5564,
-  "2022-06-19": 5564,
-  "2022-06-20": 5564,
-  "2022-06-21": 5564,
-  "2022-06-22": 5564,
-  "2022-06-23": 5564,
-  "2022-06-24": 5564,
-  "2022-06-25": 5564,
-  "2022-06-26": 5564,
-  "2022-06-27": 5564,
-  "2022-06-28": 5564,
-  "2022-06-29": 5564,
-  "2022-06-30": 5564,
-  "2022-07-01": 5564,
-  "2022-07-02": 5564,
-  "2022-07-03": 5564,
-  "2022-07-04": 5564,
-  "2022-07-05": 5564,
-  "2022-07-06": 5564,
-  "2022-07-07": 5564,
-  "2022-07-08": 5564,
-  "2022-07-09": 5564,
-  "2022-07-10": 5564,
-  "2022-07-11": 5564,
-  "2022-07-12": 5564,
-  "2022-07-13": 5564,
-  "2022-07-14": 5564,
-  "2022-07-15": 5564,
-  "2022-07-16": 5564,
-  "2022-07-17": 5564,
-  "2022-07-18": 5564,
-  "2022-07-19": 5564,
-  "2022-07-20": 5564,
-  "2022-07-21": 5564,
-  "2022-07-22": 5564,
-  "2022-07-23": 5564,
-  "2022-07-24": 5564,
-  "2022-07-25": 5564,
-  "2022-07-26": 5564,
-  "2022-07-27": 5564,
-  "2022-07-28": 5564,
-  "2022-07-29": 5564,
-  "2022-07-30": 5564,
-  "2022-07-31": 5564,
-  "2022-08-01": 5564,
-  "2022-08-02": 5564,
-  "2022-08-03": 5564,
-  "2022-08-04": 5564,
-  "2022-08-05": 5564,
-  "2022-08-06": 5564,
-  "2022-08-07": 5564,
-  "2022-08-08": 5564,
-  "2022-08-09": 5564,
-  "2022-08-10": 5564,
-  "2022-08-11": 5564,
-  "2022-08-12": 5564,
-  "2022-08-13": 5564,
-  "2022-08-14": 5564,
-  "2022-08-15": 5564,
-  "2022-08-16": 5564,
-  "2022-08-17": 5564,
-  "2022-08-18": 5564,
-  "2022-08-19": 5564,
-  "2022-08-20": 5564,
-  "2022-08-21": 5564,
-  "2022-08-22": 5564,
-  "2022-08-23": 5564,
-  "2022-08-24": 5564,
-  "2022-08-25": 5564,
-  "2022-08-26": 5564,
-  "2022-08-27": 5564,
-  "2022-08-28": 5564,
-  "2022-08-29": 5564,
-  "2022-08-30": 5564,
-  "2022-08-31": 5564,
-  "2022-09-01": 5564,
-  "2022-09-02": 5564,
-  "2022-09-03": 5564,
-  "2022-09-04": 5564,
-  "2022-09-05": 5564,
-  "2022-09-06": 5564,
-  "2022-09-07": 5564,
-  "2022-09-09": 5564,
-  "2022-09-10": 5564,
-  "2022-09-11": 5564,
-  "2022-09-12": 5564,
-  "2022-09-13": 5564,
-  "2022-09-15": 5564,
-  "2022-09-16": 5564,
-  "2022-09-17": 5564,
-  "2022-09-18": 5564,
-  "2022-09-19": 5564,
-  "2022-09-20": 5564,
-  "2022-09-21": 5564,
-  "2022-09-22": 5564,
-  "2022-09-23": 5564,
-  "2022-09-24": 5564,
-  "2022-09-25": 5564,
-  "2022-09-26": 5564,
-  "2022-09-27": 5564,
-  "2022-09-28": 5564,
-  "2022-09-29": 5564,
-  "2022-09-30": 5564,
-  "2022-10-01": 5564,
-  "2022-10-02": 5564,
-  "2022-10-03": 5564,
-  "2022-10-04": 5564,
-  "2022-10-05": 5564,
-  "2022-10-06": 5564,
-  "2022-10-07": 5564,
-  "2022-10-08": 5564,
-  "2022-10-09": 5564,
-  "2022-10-10": 5564,
-  "2022-10-11": 5564,
-  "2022-10-12": 5564,
-  "2022-10-13": 5564,
-  "2022-10-14": 5564,
-  "2022-10-15": 5564,
-  "2022-10-16": 5564,
-  "2022-10-17": 5564,
-  "2022-10-18": 5564,
-  "2022-10-19": 5564,
-  "2022-10-20": 5564,
-  "2022-10-21": 5564,
-  "2022-10-22": 5564,
-  "2022-10-23": 5564,
-  "2022-10-24": 5564,
-  "2022-10-25": 5564,
-  "2022-10-26": 5564,
-  "2022-10-27": 5564,
-  "2022-10-28": 5564,
-  "2022-10-29": 5564,
-  "2022-10-30": 5564,
-  "2022-10-31": 5564,
-  "2022-11-01": 5564,
-  "2022-11-02": 5564,
-  "2022-11-03": 5564,
-  "2022-11-04": 5564,
-  "2022-11-05": 5564,
-  "2022-11-06": 5564,
-  "2022-11-07": 5564,
-  "2022-11-08": 5564,
-  "2022-11-09": 5564,
-  "2022-11-10": 5564,
-  "2022-11-11": 5564,
-  "2022-11-12": 5564,
-  "2022-11-13": 5564,
-  "2022-11-14": 5564,
-  "2022-11-15": 5564,
-  "2022-11-16": 5564,
-  "2022-11-17": 5564,
-  "2022-11-18": 5564,
-  "2022-11-19": 5564,
-  "2022-11-20": 5564,
-  "2022-11-21": 5564,
-  "2022-11-22": 5564,
-  "2022-11-23": 5564,
-  "2022-11-24": 5564,
-  "2022-11-25": 5564,
-  "2022-11-26": 5564,
-  "2022-11-27": 5564,
-  "2022-11-28": 5564,
-  "2022-11-29": 5564,
-  "2022-11-30": 5564,
-  "2022-12-01": 5564,
-  "2022-12-02": 5564,
-  "2022-12-03": 5564,
-  "2022-12-04": 5564,
-  "2022-12-05": 5564,
-  "2022-12-06": 5564,
-  "2022-12-07": 5564,
-  "2022-12-08": 5564,
-  "2022-12-09": 5564,
-  "2022-12-10": 5564,
-  "2022-12-11": 5564,
-  "2022-12-12": 5564,
-  "2022-12-13": 5564,
-  "2022-12-14": 5564,
-  "2022-12-15": 5564,
-  "2022-12-16": 5564,
-  "2022-12-17": 5564,
-  "2022-12-18": 5564,
-  "2022-12-19": 5564,
-  "2022-12-20": 5564,
-  "2022-12-21": 5564,
-  "2022-12-22": 5564,
-  "2022-12-24": 5564,
-  "2022-12-25": 5564,
-  "2022-12-26": 5564,
-  "2022-12-27": 5564,
-  "2022-12-28": 5564,
-  "2022-12-29": 5564,
-  "2022-12-30": 5564,
-  "2022-12-31": 5564,
-  "2023-01-01": 5564,
-  "2023-01-02": 5564,
-  "2023-01-03": 5564,
-  "2023-01-04": 5564,
-  "2023-01-05": 5564,
-  "2023-01-06": 5564,
-  "2023-01-07": 5564,
-  "2023-01-08": 5564,
-  "2023-01-09": 5564,
-  "2023-01-10": 5564,
-  "2023-01-11": 5564,
-  "2023-01-12": 5564,
-  "2023-01-13": 5564,
-  "2023-01-14": 5564,
-  "2023-01-15": 5564,
-  "2023-01-16": 5564,
-  "2023-01-17": 5564,
-  "2023-01-18": 5564,
-  "2023-01-19": 5564,
-  "2023-01-20": 5564,
-  "2023-01-21": 5564,
-  "2023-01-22": 5564,
-  "2023-01-23": 5564,
-  "2023-01-24": 5564,
-  "2023-01-25": 5564,
-  "2023-01-26": 5564,
-  "2023-01-27": 5564,
-  "2023-01-28": 5564,
-  "2023-01-29": 5564,
-  "2023-01-30": 5564,
-  "2023-01-31": 5564,
-  "2023-02-01": 5564,
-  "2023-02-02": 5564,
-  "2023-02-03": 5564,
-  "2023-02-04": 5564,
-  "2023-02-05": 5564,
-  "2023-02-06": 5564,
-  "2023-02-07": 5564,
-  "2023-02-08": 5564,
-  "2023-02-09": 5564,
-  "2023-02-10": 5564,
-  "2023-02-11": 5564,
-  "2023-02-12": 5564,
-  "2023-02-13": 5564,
-  "2023-02-14": 5564,
-  "2023-02-15": 5564,
-  "2023-02-16": 5564,
-  "2023-02-17": 5564,
-  "2023-02-18": 5564,
-  "2023-02-19": 5564,
-  "2023-02-20": 5564,
-  "2023-02-21": 5564,
-  "2023-02-22": 5564,
-  "2023-02-23": 5564,
-  "2023-02-24": 5564,
-  "2023-02-25": 5564,
-  "2023-02-26": 5564,
-  "2023-02-27": 5564,
-  "2023-02-28": 5564,
-  "2023-03-01": 5564,
-  "2023-03-02": 5564,
-  "2023-03-03": 5564,
-  "2023-03-04": 5564,
-  "2023-03-05": 5564,
-  "2023-03-06": 5564,
-  "2023-03-07": 5564,
-  "2023-03-08": 5564,
-  "2023-03-09": 5564,
-  "2023-03-10": 5564,
-  "2023-03-11": 5564,
-  "2023-03-12": 5564,
-  "2023-03-13": 5564,
-  "2023-03-14": 5564,
-  "2023-03-15": 5564,
-  "2023-03-16": 5564,
-  "2023-03-17": 5564,
-  "2023-03-18": 5564,
-  "2023-03-19": 5564,
-  "2023-03-20": 5564,
-  "2023-03-21": 5564,
-  "2023-03-22": 5564,
-  "2023-03-23": 5564,
-  "2023-03-24": 5564,
-  "2023-03-25": 5564,
-  "2023-03-26": 5564,
-  "2023-03-27": 5564,
-  "2023-03-28": 5564,
-  "2023-03-29": 5564,
-  "2023-03-30": 5564,
-  "2023-03-31": 5564,
-  "2023-04-01": 5564,
-  "2023-04-02": 5564,
-  "2023-04-03": 5564,
-  "2023-04-04": 5564,
-  "2023-04-05": 5564,
-  "2023-04-06": 5564,
-  "2023-04-07": 5564,
-  "2023-04-09": 5564,
-  "2023-04-10": 5564,
-  "2023-04-11": 5564,
-  "2023-04-12": 5564,
-  "2023-04-13": 5564,
-  "2023-04-14": 5564,
-  "2023-04-15": 5564,
-  "2023-04-16": 5564,
-  "2023-04-17": 5564,
-  "2023-04-18": 5564,
-  "2023-04-19": 5564,
-  "2023-04-20": 5564,
-  "2023-04-21": 5564,
-  "2023-04-22": 5564,
-  "2023-04-23": 5564,
-  "2023-04-24": 5564,
-  "2023-04-25": 5564,
-  "2023-04-26": 5564,
-  "2023-04-27": 5564,
-  "2023-04-28": 5564,
-  "2023-04-29": 5564,
-  "2023-04-30": 5564,
-  "2023-05-01": 5564,
-  "2023-05-02": 5564,
-  "2023-05-03": 5564,
-  "2023-05-04": 5564,
-  "2023-05-05": 5564,
-  "2023-05-06": 5564,
-  "2023-05-07": 5564,
-  "2023-05-08": 5564,
-  "2023-05-09": 5564,
-  "2023-05-10": 5564,
-  "2023-05-11": 5564,
-  "2023-05-12": 5564,
-  "2023-05-13": 5564,
-  "2023-05-14": 5564,
-  "2023-05-15": 5564,
-  "2023-05-16": 5564,
-  "2023-05-17": 5564,
-  "2023-05-18": 5564,
-  "2023-05-19": 5564,
-  "2023-05-20": 5564,
-  "2023-05-21": 5564,
-  "2023-05-22": 5564,
-  "2023-05-23": 5564,
-  "2023-05-24": 5564,
-  "2023-05-25": 5564,
-  "2023-05-26": 5564,
-  "2023-05-27": 5564,
-  "2023-05-28": 5564,
-  "2023-05-29": 5564,
-  "2023-05-30": 5564,
-  "2023-05-31": 5564,
-  "2023-06-01": 5564,
-  "2023-06-02": 5564,
-  "2023-06-03": 5564,
-  "2023-06-04": 5564,
-  "2023-06-05": 5564,
-  "2023-06-06": 5564,
-  "2023-06-07": 5564,
-  "2023-06-08": 5564,
-  "2023-06-09": 5564,
-  "2023-06-10": 5564,
-  "2023-06-11": 5564,
-  "2023-06-12": 5564,
-  "2023-06-13": 5564,
-  "2023-06-14": 5564,
-  "2023-06-15": 5564,
-  "2023-06-16": 5564,
-  "2023-06-17": 5564,
-  "2023-06-18": 5564,
-  "2023-06-19": 5564,
-  "2023-06-20": 5564,
-  "2023-06-21": 5564,
-  "2023-06-22": 5564,
-  "2023-06-23": 5564,
-  "2023-06-24": 5564,
-  "2023-06-25": 5564,
-  "2023-06-26": 5564,
-  "2023-06-27": 5564,
-  "2023-06-28": 5564,
-  "2023-06-29": 5564,
-  "2023-06-30": 5564,
-  "2023-07-01": 5564,
-  "2023-07-02": 5564,
-  "2023-07-03": 5564,
-  "2023-07-04": 5564,
-  "2023-07-05": 5564,
-  "2023-07-06": 5564,
-  "2023-07-07": 5564,
-  "2023-07-08": 5564,
-  "2023-07-09": 5564,
-  "2023-07-10": 5564,
-  "2023-07-11": 5564,
-  "2023-07-12": 5564,
-  "2023-07-13": 5564,
-  "2023-07-14": 5564,
-  "2023-07-15": 5564,
-  "2023-07-16": 5564,
-  "2023-07-17": 5564,
-  "2023-07-18": 5564,
-  "2023-07-19": 5564,
-  "2023-07-20": 5564,
-  "2023-07-21": 5564,
-  "2023-07-22": 5564,
-  "2023-07-23": 5564,
-  "2023-07-24": 5564,
-  "2023-07-25": 5564,
-  "2023-07-26": 5564,
-  "2023-07-27": 5564,
-  "2023-07-28": 5564,
-  "2023-07-29": 5564,
-  "2023-07-30": 5564,
-  "2023-07-31": 5564,
-  "2023-08-01": 5564,
-  "2023-08-02": 5564,
-  "2023-08-03": 5564,
-  "2023-08-04": 5564,
-  "2023-08-05": 5564,
-  "2023-08-06": 5564,
-  "2023-08-07": 5564,
-  "2023-08-08": 5564,
-  "2023-08-09": 5564,
-  "2023-08-10": 5564,
-  "2023-08-11": 5564,
-  "2023-08-12": 5564,
-  "2023-08-13": 5564,
-  "2023-08-14": 5564,
-  "2023-08-15": 5564,
-  "2023-08-16": 5564,
-  "2023-08-17": 5564,
-  "2023-08-18": 5564,
-  "2023-08-19": 5564,
-  "2023-08-20": 5564,
-  "2023-08-21": 5564,
-  "2023-08-22": 5564,
-  "2023-08-23": 5564,
-  "2023-08-24": 5564,
-  "2023-08-25": 5564,
-  "2023-08-26": 5564,
-  "2023-08-27": 5564,
-  "2023-08-28": 5564,
-  "2023-08-29": 5564,
-  "2023-08-30": 5564,
-  "2023-08-31": 5564,
-  "2023-09-01": 5564,
-  "2023-09-02": 5564,
-  "2023-09-03": 5564,
-  "2023-09-04": 5564,
-  "2023-09-05": 5564,
-  "2023-09-06": 5564,
-  "2023-09-07": 5564,
-  "2023-09-08": 5564,
-  "2023-09-09": 5564,
-  "2023-09-10": 5564,
-  "2023-09-11": 5564,
-  "2023-09-12": 5564,
-  "2023-09-13": 5564,
-  "2023-09-14": 5564,
-  "2023-09-15": 5564,
-  "2023-09-16": 5564,
-  "2023-09-17": 5564,
-  "2023-09-18": 5564,
-  "2023-09-19": 5564,
-  "2023-09-20": 5564,
-  "2023-09-21": 5564,
-  "2023-09-22": 5564,
-  "2023-09-23": 5564,
-  "2023-09-24": 5564,
-  "2023-09-25": 5564,
-  "2023-09-26": 5564,
-  "2023-09-27": 5564,
-  "2023-09-28": 5564,
-  "2023-09-29": 5564,
-  "2023-09-30": 5564,
-  "2023-10-01": 5564,
-  "2023-10-02": 5564,
-  "2023-10-03": 5564,
-  "2023-10-04": 5564,
-  "2023-10-05": 5564,
-  "2023-10-06": 5564,
-  "2023-10-07": 5564,
-  "2023-10-08": 5564,
-  "2023-10-09": 5564,
-  "2023-10-10": 5564,
-  "2023-10-11": 5564,
-  "2023-10-12": 5564,
-  "2023-10-13": 5564,
-  "2023-10-14": 5564,
-  "2023-10-15": 5564,
-  "2023-10-16": 5564,
-  "2023-10-17": 5564,
-  "2023-10-18": 5564,
-  "2023-10-19": 5564,
-  "2023-10-20": 5564,
-  "2023-10-21": 5564,
-  "2023-10-22": 5564,
-  "2023-10-23": 5564,
-  "2023-10-24": 5564,
-  "2023-10-25": 5564,
-  "2023-10-26": 5564,
-  "2023-10-27": 5564,
-  "2023-10-28": 5564,
-  "2023-10-29": 5564,
-  "2023-10-30": 5564,
-  "2023-10-31": 5564,
-  "2023-11-01": 5564,
-  "2023-11-02": 5564,
-  "2023-11-03": 5564,
-  "2023-11-04": 5564,
-  "2023-11-05": 5564,
-  "2023-11-06": 5564,
-  "2023-11-07": 5564,
-  "2023-11-08": 5564,
-  "2023-11-09": 5564,
-  "2023-11-10": 5564,
-  "2023-11-11": 5564,
-  "2023-11-12": 5564,
-  "2023-11-13": 5564,
-  "2023-11-14": 5564,
-  "2023-11-15": 5564,
-  "2023-11-16": 5564,
-  "2023-11-17": 5564,
-  "2023-11-18": 5564,
-  "2023-11-19": 5564,
-  "2023-11-20": 5564,
-  "2023-11-21": 5564,
-  "2023-11-22": 5564,
-  "2023-11-23": 5564,
-  "2023-11-24": 5564,
-  "2023-11-25": 5564,
-  "2023-11-26": 5564,
-  "2023-11-27": 5564,
-  "2023-11-28": 5564,
-  "2023-11-29": 5564,
-  "2023-11-30": 5564,
-  "2023-12-01": 5564,
-  "2023-12-02": 5564,
-  "2023-12-03": 5564,
-  "2023-12-04": 5564,
-  "2023-12-05": 5564,
-  "2023-12-06": 5564,
-  "2023-12-07": 5564,
-  "2023-12-08": 5564,
-  "2023-12-09": 5564,
-  "2023-12-10": 5564,
-  "2023-12-11": 5564,
-  "2023-12-12": 5564,
-  "2023-12-13": 5564,
-  "2023-12-14": 5564,
-  "2023-12-15": 5564,
-  "2023-12-16": 5564,
-  "2023-12-17": 5564,
-  "2023-12-18": 5564,
-  "2023-12-19": 5564,
-  "2023-12-20": 5564,
-  "2023-12-21": 5564,
-  "2023-12-22": 5564,
-  "2023-12-23": 5564,
-  "2023-12-24": 5564,
-  "2023-12-25": 5564,
-  "2023-12-26": 5564,
-  "2023-12-27": 5564,
-  "2023-12-30": 5564,
-  "2023-12-31": 5564,
-  "2024-01-01": 5564,
-  "2024-01-02": 5564,
-  "2024-01-03": 5564
+  "2024-01-17": 5564,
+  "date_first_scraped": "2021-12-21",
+  "description": "Renowned for her part in the Chicago Black Renaissance, the <a href=\"spotify:artist:4H2657mM3Y4j6ITcmHOf21\">writer</a> reads her own poems and the work of her contemporaries.",
+  "name": "Margaret Walker",
+  "tracks": [
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102440,
+      "name": "A Coquette Conquered",
+      "url": "https://open.spotify.com/track/2K32z4efYOCquiKR9PZEYN"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "An Antebellum Sermon",
+      "url": "https://open.spotify.com/track/6QTtg7YENfVaO5u3WR1lsU"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144213,
+      "name": "Ballad for Phyllis Wheatley",
+      "url": "https://open.spotify.com/track/0Awv8At3U3JlrUbs2je2ap"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Ballad of Hoppy Toad",
+      "url": "https://open.spotify.com/track/1tLSDpE1ejqlL6uKUol7jb"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80213,
+      "name": "Ballad of the Landlord",
+      "url": "https://open.spotify.com/track/4JzJA45HaTa2VVFYKvpFSv"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135986,
+      "name": "Big John Henry",
+      "url": "https://open.spotify.com/track/63BsFbhUYSYvcZ7M74gwUB"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57533,
+      "name": "Cross",
+      "url": "https://open.spotify.com/track/6nNm4PdgmIuvGicPKiS1ld"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112933,
+      "name": "Dark Blood",
+      "url": "https://open.spotify.com/track/4yHWcf4qkMnCoTLWz9kULX"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630680,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/1T67VbijAaGf19NFhnA5Je"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 885453,
+      "name": "Epitaph for My Father",
+      "url": "https://open.spotify.com/track/4uW5u3bQ4NeQ1TerCkXKHX"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354880,
+      "name": "For My People",
+      "url": "https://open.spotify.com/track/7t0HqVtgeLAu5DoQq4WdcR"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352466,
+      "name": "Go Down Death",
+      "url": "https://open.spotify.com/track/7CNLHAx4zOf8QHvaqTau2T"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106746,
+      "name": "Gus the Lion Man",
+      "url": "https://open.spotify.com/track/64f48EvYrrcn97cEPCQ6dh"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40986,
+      "name": "Harlem",
+      "url": "https://open.spotify.com/track/3qjv2UJuir6OqO3Vg1EI1R"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424040,
+      "name": "Harriet Tubman",
+      "url": "https://open.spotify.com/track/33UYRKVnHGg3pdeAw9ybLb"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156013,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/5gch5UhdmNF3h3GUJ1Av2T"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240253,
+      "name": "Jackson, Mississippi",
+      "url": "https://open.spotify.com/track/3aeZQW1k2oF7O2shLomRZj"
+    },
+    {
+      "album": {
+        "name": "Anthology of Negro Poetry",
+        "url": "https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110786,
+      "name": "John Henry",
+      "url": "https://open.spotify.com/track/5qTJGOBUvdMcG9IMrwxine"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394880,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/0Mwz24aiD1F8Lfam1MBPHF"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Kissie Lee",
+      "url": "https://open.spotify.com/track/3HIaZIc0pIajY2ElOYtK4A"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199573,
+      "name": "Listen Lord (A Prayer)",
+      "url": "https://open.spotify.com/track/2u38uCdlVfFOr4hqzzl9PI"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125226,
+      "name": "Long John Nelson and Sweetie Pie",
+      "url": "https://open.spotify.com/track/3ffk5imLsbNXhyEay7fDeW"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67093,
+      "name": "Madam and Her \"Might Have Been..\"",
+      "url": "https://open.spotify.com/track/3e7PHO4IrVnHTYM0rEH50J"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51440,
+      "name": "Madam and her Madam",
+      "url": "https://open.spotify.com/track/5gkkrZSs70JuHu7a3easTB"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61453,
+      "name": "Madam and the Census Man",
+      "url": "https://open.spotify.com/track/6sCsa2kcA0wGIZGfdIqP7n"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57853,
+      "name": "Madam and the Charity Child",
+      "url": "https://open.spotify.com/track/2TWmuh8zzTvj5xYugr6kN2"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64053,
+      "name": "Madam and the Fortune Teller",
+      "url": "https://open.spotify.com/track/78K7QIbkPGkGPD6r6YReCY"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56546,
+      "name": "Madam and the Minister",
+      "url": "https://open.spotify.com/track/1NHa4bthYqoBdHrk5FhSR7"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58106,
+      "name": "Madam and the Number Writer",
+      "url": "https://open.spotify.com/track/2HDaOBJtP4ozFZilGN80KR"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82973,
+      "name": "Madam and the Phone Bill",
+      "url": "https://open.spotify.com/track/6QhB5AVqPqlTy0a2P1I4g8"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56106,
+      "name": "Madam and the Rent Man",
+      "url": "https://open.spotify.com/track/4WQE8ar4xRmTJTF5KVP0pH"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62800,
+      "name": "Madam and the Wrong Visitor",
+      "url": "https://open.spotify.com/track/64RCEnrYKr11h77iRcceGE"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54053,
+      "name": "Madam's Calling Card",
+      "url": "https://open.spotify.com/track/7mhFi2t4RqqZ4XEmMLq1I8"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60626,
+      "name": "Madam's Past History",
+      "url": "https://open.spotify.com/track/5Ns1tI0Z5VazPCMcp5M6lK"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "Molly Means",
+      "url": "https://open.spotify.com/track/5Dq3qGbXMfX4zQJgPRE5l7"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70053,
+      "name": "Mother to Son",
+      "url": "https://open.spotify.com/track/3P2lT1BPjr3ZKtRoPN6wDX"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62293,
+      "name": "Negro Dancers",
+      "url": "https://open.spotify.com/track/1MmdF6bfq9YcMjxfVwAsCh"
+    },
+    {
+      "album": {
+        "name": "Anthology of Negro Poetry",
+        "url": "https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "Old Molley Means",
+      "url": "https://open.spotify.com/track/7736v3w8xdiC3rCzEXgjIM"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123146,
+      "name": "Papa Chicken",
+      "url": "https://open.spotify.com/track/12VgZloVi1n5Nqa4WibwBA"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Southern Song and Sorrow Home",
+      "url": "https://open.spotify.com/track/21ztV5nEod8ZUjM7Zq75gz"
+    },
+    {
+      "album": {
+        "name": "Anthology of Negro Poetry",
+        "url": "https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79280,
+      "name": "Stackalee",
+      "url": "https://open.spotify.com/track/1IiyVw2OgcanxBDJhc7cEm"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100520,
+      "name": "Stagger Lee (Stagolee)",
+      "url": "https://open.spotify.com/track/61749qm9XZgWxGvZzBiJvQ"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69466,
+      "name": "Teacher",
+      "url": "https://open.spotify.com/track/65XGbBDTqvP2lQhea3puDh"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172093,
+      "name": "The Ballad of the Free",
+      "url": "https://open.spotify.com/track/4kyEcp980YXWvWGc3yfHew"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61160,
+      "name": "The Cat and the Saxophone",
+      "url": "https://open.spotify.com/track/4ACUacabrPMrBahmMtF6H1"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 644813,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7aX0sD9YVKow6AKAiqdupx"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462346,
+      "name": "The Prodigal Son",
+      "url": "https://open.spotify.com/track/64tI708MuqeO8RVPH8ufFN"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163160,
+      "name": "Two Gun Buster and Trigger Slim",
+      "url": "https://open.spotify.com/track/68o7HosybcOJ9EG3GCm28x"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "We Have Been Believers",
+      "url": "https://open.spotify.com/track/1F953129iN4gBeGvfeYE5K"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259093,
+      "name": "When Dey Listed Colored Soldiers",
+      "url": "https://open.spotify.com/track/3gPhZTeJVJzMa7aM4DyACz"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Alexander Reads Langston Hughes, P.L. Dunbar, J.W. Johnson",
+        "url": "https://open.spotify.com/album/1jEIHn3YlxRld2MVCRlUJw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237626,
+      "name": "When Melindy Sings",
+      "url": "https://open.spotify.com/track/0lKH2v4eTV6hBed9oHQQJz"
+    },
+    {
+      "album": {
+        "name": "Margaret Walker Reads Margaret Walker and Langston Hughes",
+        "url": "https://open.spotify.com/album/0mZUbPxXn3Zio2nlQrVMEC"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2017-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147613,
+      "name": "Yalluh Hammuh",
+      "url": "https://open.spotify.com/track/2fRVStvv7cnTAdzpk7eMeb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1pKjqvkDHkD"
 }

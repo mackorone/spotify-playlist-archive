@@ -1,179 +1,1305 @@
 {
-  "2023-07-09": 32914,
-  "2023-07-10": 32935,
-  "2023-07-11": 32947,
-  "2023-07-12": 32970,
-  "2023-07-13": 32992,
-  "2023-07-14": 33021,
-  "2023-07-15": 33043,
-  "2023-07-16": 33073,
-  "2023-07-17": 33089,
-  "2023-07-18": 33113,
-  "2023-07-19": 33130,
-  "2023-07-20": 33146,
-  "2023-07-21": 33166,
-  "2023-07-22": 33196,
-  "2023-07-23": 33213,
-  "2023-07-24": 33223,
-  "2023-07-25": 33238,
-  "2023-07-26": 33262,
-  "2023-07-27": 33282,
-  "2023-07-28": 33304,
-  "2023-07-29": 33321,
-  "2023-07-30": 33347,
-  "2023-07-31": 33367,
-  "2023-08-01": 33381,
-  "2023-08-02": 33391,
-  "2023-08-03": 33406,
-  "2023-08-04": 33423,
-  "2023-08-05": 33444,
-  "2023-08-06": 33472,
-  "2023-08-07": 33472,
-  "2023-08-08": 33488,
-  "2023-08-09": 33507,
-  "2023-08-10": 33533,
-  "2023-08-11": 33556,
-  "2023-08-12": 33573,
-  "2023-08-13": 33584,
-  "2023-08-14": 33595,
-  "2023-08-15": 33629,
-  "2023-08-16": 33629,
-  "2023-08-17": 33649,
-  "2023-08-18": 33663,
-  "2023-08-19": 33683,
-  "2023-08-20": 33705,
-  "2023-08-21": 33719,
-  "2023-08-22": 33725,
-  "2023-08-23": 33752,
-  "2023-08-24": 33763,
-  "2023-08-25": 33787,
-  "2023-08-26": 33806,
-  "2023-08-27": 33831,
-  "2023-08-28": 33864,
-  "2023-08-29": 33883,
-  "2023-08-30": 33888,
-  "2023-08-31": 33905,
-  "2023-09-01": 33937,
-  "2023-09-02": 33937,
-  "2023-09-03": 33962,
-  "2023-09-04": 33989,
-  "2023-09-05": 34002,
-  "2023-09-06": 34024,
-  "2023-09-07": 34034,
-  "2023-09-08": 34039,
-  "2023-09-09": 34061,
-  "2023-09-10": 34084,
-  "2023-09-11": 34106,
-  "2023-09-12": 34113,
-  "2023-09-13": 34129,
-  "2023-09-14": 34126,
-  "2023-09-15": 34138,
-  "2023-09-16": 34151,
-  "2023-09-17": 34172,
-  "2023-09-18": 34185,
-  "2023-09-19": 34196,
-  "2023-09-20": 34223,
-  "2023-09-21": 34226,
-  "2023-09-22": 34258,
-  "2023-09-23": 34278,
-  "2023-09-24": 34304,
-  "2023-09-25": 34327,
-  "2023-09-26": 34346,
-  "2023-09-27": 34354,
-  "2023-09-28": 34367,
-  "2023-09-29": 34382,
-  "2023-09-30": 34390,
-  "2023-10-01": 34405,
-  "2023-10-02": 34414,
-  "2023-10-03": 34427,
-  "2023-10-04": 34436,
-  "2023-10-05": 34441,
-  "2023-10-06": 34449,
-  "2023-10-07": 34464,
-  "2023-10-08": 34476,
-  "2023-10-09": 34491,
-  "2023-10-10": 34500,
-  "2023-10-11": 34509,
-  "2023-10-12": 34509,
-  "2023-10-13": 34514,
-  "2023-10-14": 34516,
-  "2023-10-15": 34522,
-  "2023-10-16": 34545,
-  "2023-10-17": 34550,
-  "2023-10-18": 34562,
-  "2023-10-19": 34563,
-  "2023-10-20": 34563,
-  "2023-10-21": 34572,
-  "2023-10-22": 34585,
-  "2023-10-23": 34591,
-  "2023-10-24": 34600,
-  "2023-10-25": 34604,
-  "2023-10-26": 34613,
-  "2023-10-27": 34623,
-  "2023-10-28": 34639,
-  "2023-10-29": 34655,
-  "2023-10-30": 34665,
-  "2023-10-31": 34665,
-  "2023-11-01": 34679,
-  "2023-11-02": 34692,
-  "2023-11-03": 34699,
-  "2023-11-04": 34701,
-  "2023-11-05": 34701,
-  "2023-11-06": 34699,
-  "2023-11-07": 34695,
-  "2023-11-08": 34710,
-  "2023-11-09": 34706,
-  "2023-11-10": 34706,
-  "2023-11-11": 34714,
-  "2023-11-12": 34717,
-  "2023-11-13": 34726,
-  "2023-11-14": 34722,
-  "2023-11-15": 34722,
-  "2023-11-16": 34719,
-  "2023-11-17": 34724,
-  "2023-11-18": 34724,
-  "2023-11-19": 34723,
-  "2023-11-20": 34718,
-  "2023-11-21": 34723,
-  "2023-11-22": 34719,
-  "2023-11-23": 34724,
-  "2023-11-24": 34726,
-  "2023-11-25": 34728,
-  "2023-11-26": 34738,
-  "2023-11-27": 34741,
-  "2023-11-28": 34735,
-  "2023-11-29": 34724,
-  "2023-11-30": 34724,
-  "2023-12-01": 34723,
-  "2023-12-02": 34713,
-  "2023-12-03": 34708,
-  "2023-12-04": 34700,
-  "2023-12-05": 34695,
-  "2023-12-06": 34689,
-  "2023-12-07": 34687,
-  "2023-12-08": 34694,
-  "2023-12-09": 34687,
-  "2023-12-10": 34694,
-  "2023-12-11": 34699,
-  "2023-12-12": 34692,
-  "2023-12-13": 34696,
-  "2023-12-14": 34687,
-  "2023-12-15": 34691,
-  "2023-12-16": 34694,
-  "2023-12-17": 34698,
-  "2023-12-18": 34699,
-  "2023-12-19": 34696,
-  "2023-12-20": 34691,
-  "2023-12-21": 34694,
-  "2023-12-22": 34695,
-  "2023-12-23": 34700,
-  "2023-12-24": 34699,
-  "2023-12-25": 34704,
-  "2023-12-26": 34694,
-  "2023-12-27": 34693,
-  "2023-12-30": 34680,
-  "2023-12-31": 34679,
-  "2024-01-01": 34680,
-  "2024-01-02": 34682,
-  "2024-01-03": 34675
+  "2024-01-17": 34676,
+  "date_first_scraped": "2023-07-09",
+  "description": "Listen to your favorite songs from the ZOMBIES soundtracks. Original movie, ZOMBIES 3, now streaming.",
+  "name": "ZOMBIES Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170458,
+      "name": "Ain't No Doubt About It",
+      "url": "https://open.spotify.com/track/5MF6bAKq8VbYQuNw7vuvb7"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240984,
+      "name": "Alien Invasion",
+      "url": "https://open.spotify.com/track/0pNzaDt5Bey6LWbCZZzUYK"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186100,
+      "name": "BAMM",
+      "url": "https://open.spotify.com/track/1bFY36a62kXGJqNcN5aJkW"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77687,
+      "name": "BAMM - Zombie Block Party",
+      "url": "https://open.spotify.com/track/4dm9OrbSKvgxpWgoPOamCf"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156843,
+      "name": "Call to the Wild",
+      "url": "https://open.spotify.com/track/1u6EFa4RLVRYH23FUsKe6B"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Ariel Martin",
+          "url": "https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165604,
+      "name": "Come on Out",
+      "url": "https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq"
+    },
+    {
+      "album": {
+        "name": "Endless Summer (From \"ZOMBIES: The Re-Animated Series Shorts\")",
+        "url": "https://open.spotify.com/album/2HMw6NdRGnh4z0fNpz6Xy9"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149495,
+      "name": "Endless Summer - From \"ZOMBIES: The Re-Animated Series Shorts\"",
+      "url": "https://open.spotify.com/track/7rrp6pOMU08ZT9pnYZMzZt"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151451,
+      "name": "Exceptional Zed",
+      "url": "https://open.spotify.com/track/1hEYnDxgrg2zcITOZgaU3J"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43393,
+      "name": "Exceptional Zed (Reprise)",
+      "url": "https://open.spotify.com/track/4e5BmkLeUCVXxuAFyDQhPO"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES: Addison's Moonstone Mystery",
+        "url": "https://open.spotify.com/album/4yowQ8Wed8f51r7ahFIqgs"
+      },
+      "artists": [
+        {
+          "name": "Cast of ZOMBIES: Addison's Moonstone Mystery",
+          "url": "https://open.spotify.com/artist/1A0Jf1TgQQUoWAoXFWhlQf"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140722,
+      "name": "Feelin' the Power",
+      "url": "https://open.spotify.com/track/6pu6XNfVupA7ug6Ou8kZIA"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49752,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/5iY3JBFXbV9Yu7cHtmwmfo"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212143,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/4f6rhvJnkH35dl2nRzx1FV"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173563,
+      "name": "Fired Up - Competition",
+      "url": "https://open.spotify.com/track/7pdxIsgOqMqIbcvSWAsZU5"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Carla Jeffery",
+          "url": "https://open.spotify.com/artist/4SFjiS7o0Exe0rrpJfXvMa"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "Baby Ariel",
+          "url": "https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213983,
+      "name": "Flesh & Bone",
+      "url": "https://open.spotify.com/track/72SvoAUIQnaPJIzEspcgW6"
+    },
+    {
+      "album": {
+        "name": "Flesh & Bone/Come on Out Mashup",
+        "url": "https://open.spotify.com/album/2ZxEXa1WuSQmBC0Gvul51c"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Ariel Martin",
+          "url": "https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Carla Jeffery",
+          "url": "https://open.spotify.com/artist/4SFjiS7o0Exe0rrpJfXvMa"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174756,
+      "name": "Flesh & Bone/Come on Out Mashup",
+      "url": "https://open.spotify.com/track/73mOXxeKICXMbA1vQxbCE2"
+    },
+    {
+      "album": {
+        "name": "Flesh & Bone/Someday Mashup",
+        "url": "https://open.spotify.com/album/7KGSmNtRWeIfR2gdmVOgrz"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Carla Jeffery",
+          "url": "https://open.spotify.com/artist/4SFjiS7o0Exe0rrpJfXvMa"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "Baby Ariel",
+          "url": "https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135857,
+      "name": "Flesh & Bone/Someday Mashup",
+      "url": "https://open.spotify.com/track/3uDEYiyRdZnHkYslL5kKW7"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164277,
+      "name": "Gotta Find Where I Belong",
+      "url": "https://open.spotify.com/track/0Zbh5g5hEWyaofKWRIKRPM"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205847,
+      "name": "I'm Finally Me",
+      "url": "https://open.spotify.com/track/2YmjFNVWgYrSjvV1H3hENS"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Trevor Tordjman",
+          "url": "https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt"
+        },
+        {
+          "name": "Emilia McCarthy",
+          "url": "https://open.spotify.com/artist/0Rrz0CY0wBXcRWsen048FH"
+        },
+        {
+          "name": "Jasmine Ren\u00e9e Thomas",
+          "url": "https://open.spotify.com/artist/0qMGmSO3KICqqEKoyAHM5V"
+        },
+        {
+          "name": "Noah Zulfikar",
+          "url": "https://open.spotify.com/artist/0ntlVFUQqw4QmMqrtHmDP4"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "I'm Winning",
+      "url": "https://open.spotify.com/track/2fpJtH5VJyxBbM4l3UQj7S"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123411,
+      "name": "Like the Zombies Do",
+      "url": "https://open.spotify.com/track/6PSN0NJHzkCmNWGpF6yDsj"
+    },
+    {
+      "album": {
+        "name": "Like the Zombies Do/Chillin' Like a Villain Mashup",
+        "url": "https://open.spotify.com/album/6yVqwzezZ5GxU0g2IZCnJn"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "Baby Ariel",
+          "url": "https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Mitchell Hope",
+          "url": "https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "Like the Zombies Do/Chillin' Like a Villain Mashup",
+      "url": "https://open.spotify.com/track/4WmC5Cx1TonoA7T1tJCmaG"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES: Addison's Moonstone Mystery",
+        "url": "https://open.spotify.com/album/4yowQ8Wed8f51r7ahFIqgs"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200886,
+      "name": "More Than a Mystery",
+      "url": "https://open.spotify.com/track/2PzmEjCvjYSuGePnch0Yue"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209983,
+      "name": "My Year",
+      "url": "https://open.spotify.com/track/77NgPW9Bt7QPU69YsYpiKV"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182199,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/1UbsroMAB2p3Hhk8j1pxbw"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Trevor Tordjman",
+          "url": "https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt"
+        },
+        {
+          "name": "Carla Jeffery",
+          "url": "https://open.spotify.com/artist/4SFjiS7o0Exe0rrpJfXvMa"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "Baby Ariel",
+          "url": "https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe"
+        },
+        {
+          "name": "Emilia McCarthy",
+          "url": "https://open.spotify.com/artist/0Rrz0CY0wBXcRWsen048FH"
+        },
+        {
+          "name": "Jasmine Ren\u00e9e Thomas",
+          "url": "https://open.spotify.com/artist/0qMGmSO3KICqqEKoyAHM5V"
+        },
+        {
+          "name": "Noah Zulfikar",
+          "url": "https://open.spotify.com/artist/0ntlVFUQqw4QmMqrtHmDP4"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172114,
+      "name": "One for All",
+      "url": "https://open.spotify.com/track/3IdzLdMPPep5FNregml0LU"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58974,
+      "name": "Our Year",
+      "url": "https://open.spotify.com/track/4aZ3pAgKUYDEBFzxmIYf69"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106850,
+      "name": "Pep Rally",
+      "url": "https://open.spotify.com/track/7jqNSY13pdU49oq08SPAwb"
+    },
+    {
+      "album": {
+        "name": "Shrimpy in the House (From \"ZOMBIES: Addison's Monster Mystery\")",
+        "url": "https://open.spotify.com/album/6xxc5HicmkmXUfQQMcybhQ"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145613,
+      "name": "Shrimpy in the House - From \"ZOMBIES: Addison's Monster Mystery\"",
+      "url": "https://open.spotify.com/track/6OLWoRF3H3DHBNC678u8Cc"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183799,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2d1AiZExnhYoauaSWkB1Fm"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95981,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1uAl1ygEbZfWvHMW90t0dW"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73190,
+      "name": "Someday (Reprise)",
+      "url": "https://open.spotify.com/track/1j4JQOiaOGbqx9j5VjgI92"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212793,
+      "name": "Someday - Ballad",
+      "url": "https://open.spotify.com/track/0ZJLMe0E1GZtc45HVD7uog"
+    },
+    {
+      "album": {
+        "name": "Someday/Ain't No Doubt About It Mashup",
+        "url": "https://open.spotify.com/album/0e67ISAIDM3zSmtrVdHD7D"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152484,
+      "name": "Someday/Ain't No Doubt About It Mashup",
+      "url": "https://open.spotify.com/track/6JJQOeotAP9c2vUn0oQoiL"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Trevor Tordjman",
+          "url": "https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223496,
+      "name": "Stand",
+      "url": "https://open.spotify.com/track/1CF5oUdUrWSGddOr1PBoqs"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Baby Ariel",
+          "url": "https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189806,
+      "name": "The New Kid in Town",
+      "url": "https://open.spotify.com/track/2yNEi0TwqAFt74yd62x0pO"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "Matt Cornett",
+          "url": "https://open.spotify.com/artist/61lrTfBVPrE3DOTu9MGmhQ"
+        },
+        {
+          "name": "Terry Hu",
+          "url": "https://open.spotify.com/artist/5MQjEg9fHarQKj6FVZXQ6H"
+        },
+        {
+          "name": "Kyra Tantao",
+          "url": "https://open.spotify.com/artist/3ypI9JeiQU0gp8WcYPTY4U"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125127,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4unv6iLSxUzOgtfBfPxfts"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Trevor Tordjman",
+          "url": "https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt"
+        },
+        {
+          "name": "Carla Jeffery",
+          "url": "https://open.spotify.com/artist/4SFjiS7o0Exe0rrpJfXvMa"
+        },
+        {
+          "name": "Emilia McCarthy",
+          "url": "https://open.spotify.com/artist/0Rrz0CY0wBXcRWsen048FH"
+        },
+        {
+          "name": "Jasmine Ren\u00e9e Thomas",
+          "url": "https://open.spotify.com/artist/0qMGmSO3KICqqEKoyAHM5V"
+        },
+        {
+          "name": "James Godfrey",
+          "url": "https://open.spotify.com/artist/74Pc0I893wFcEVZ1PxvOEE"
+        },
+        {
+          "name": "Noah Zulfikar",
+          "url": "https://open.spotify.com/artist/0ntlVFUQqw4QmMqrtHmDP4"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192280,
+      "name": "We Got This",
+      "url": "https://open.spotify.com/track/62DGiYjz0FU8dztf3ylFyI"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "Baby Ariel",
+          "url": "https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150792,
+      "name": "We Own the Night",
+      "url": "https://open.spotify.com/track/3n1lJB7m8iNDToXJVzIHD2"
+    },
+    {
+      "album": {
+        "name": "We Own the Night/Night Falls Mashup",
+        "url": "https://open.spotify.com/album/2mYQu2MUwyblZECHxNAxkk"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "Baby Ariel",
+          "url": "https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+          "name": "Thomas Doherty",
+          "url": "https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg"
+        },
+        {
+          "name": "Dylan Playfair",
+          "url": "https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142609,
+      "name": "We Own the Night/Night Falls Mashup",
+      "url": "https://open.spotify.com/track/1LAZLRBcK45jRCATsOxBr4"
+    },
+    {
+      "album": {
+        "name": "What Is This Feeling (From \"ZOMBIES 3\")",
+        "url": "https://open.spotify.com/album/7g939bOgwENtvfu24WFUNx"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177479,
+      "name": "What Is This Feeling - From \"ZOMBIES 3\"",
+      "url": "https://open.spotify.com/track/7xlgPgMUFXuzY5F0mpRDGt"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES: Addison's Moonstone Mystery",
+        "url": "https://open.spotify.com/album/4yowQ8Wed8f51r7ahFIqgs"
+      },
+      "artists": [
+        {
+          "name": "Cast of ZOMBIES: Addison's Moonstone Mystery",
+          "url": "https://open.spotify.com/artist/1A0Jf1TgQQUoWAoXFWhlQf"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116702,
+      "name": "You Do You",
+      "url": "https://open.spotify.com/track/1Su2nWZSc9iszMFpB7g03s"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "George S. Clinton",
+          "url": "https://open.spotify.com/artist/7yNXDeNn1rHZaEk941GcWZ"
+        },
+        {
+          "name": "Amit May Cohen",
+          "url": "https://open.spotify.com/artist/0XmtL3Aq8d8KtOoqb77MKV"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186602,
+      "name": "ZOMBIES 3 Score Medley",
+      "url": "https://open.spotify.com/track/1z27QL5KgJzgiphaEyUyGl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUlr9ih12ddz"
 }

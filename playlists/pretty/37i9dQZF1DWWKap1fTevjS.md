@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,238 likes - 265 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,243 likes - 265 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 171 | [Ladybugs](https://open.spotify.com/track/0bPOqdsUdPCOayNdh0ERNW) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Ladybugs](https://open.spotify.com/album/1EgGcnjTXA2Ci9Bt882r6C) | 3:09 |
 | 172 | [Miraculous](https://open.spotify.com/track/39klOrreaNPjsYeh1zTFjh) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [Miraculous](https://open.spotify.com/album/5uiAQcotkaF94TIP8cIlR1) | 3:27 |
 | 173 | [Noctu](https://open.spotify.com/track/4tPLkMhxU4a62HmkA95iwC) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Noctu](https://open.spotify.com/album/0ddzc5odnJ9sgAEaQAKiKP) | 3:21 |
-| 174 | [Awareness](https://open.spotify.com/track/4osn2bAHvnGlOab7xOak7Q) | [Isa Duwall](https://open.spotify.com/artist/3M97AbLFCPQV6dLLTfP1nD) | [Awareness](https://open.spotify.com/album/3Tonb9LcXzkJpfbd3xjV23) | 2:53 |
+| 174 | [Awareness](https://open.spotify.com/track/4osn2bAHvnGlOab7xOak7Q) | [Isa Duwall](https://open.spotify.com/artist/1Isryx8tW37VcoRksHidGD) | [Awareness](https://open.spotify.com/album/3Tonb9LcXzkJpfbd3xjV23) | 2:53 |
 | 175 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 |
 | 176 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 |
 | 177 | [Lowering Mind](https://open.spotify.com/track/5tfnG31hpSaIGTFLVUdlEx) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Humility](https://open.spotify.com/album/0sUwuNy0E8I5xVWKXLy3XI) | 4:12 |

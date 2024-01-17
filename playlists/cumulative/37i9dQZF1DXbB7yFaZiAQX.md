@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-441 songs - 1 day 7 hr 9 min
+442 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Midnight Man](https://open.spotify.com/track/4NkNu6seQP1XttxabCJSx1) | [Flash and the Pan](https://open.spotify.com/artist/573nSltoBinkbQXk5JSY9U) | [Collection](https://open.spotify.com/album/0P9q63bMtm9s8VDQp6cJSK) | 4:54 | 2020-10-21 | 2022-11-23 |
 | [Mirror in the Bathroom](https://open.spotify.com/track/2JV6DM5CGcpThMVZtucCqC) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [I Just Can't Stop It \[Deluxe Edition\]](https://open.spotify.com/album/4loqJOnMNURLM7LEpZ57cu) | 3:09 | 2018-12-12 | 2022-07-29 |
 | [Mirror In the Bathroom](https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [I Just Can't Stop It \(Remastered\)](https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh) | 3:10 | 2018-12-12 | 2023-11-06 |
+| [Mirror in the Bathroom \- 2012 Remaster](https://open.spotify.com/track/3XggELqP0NoiOxhMDhSWBp) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [I Just Can’t Stop It \(2012 Remaster\)](https://open.spotify.com/album/6YMcUP9kpIRlglcO5WNMbC) | 3:08 | 2023-05-03 |  |
 | [Modern Love \- 1999 Remaster](https://open.spotify.com/track/7LyIoUsiMtelB1I0I4drEF) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 4:48 | 2018-12-12 | 2022-07-29 |
 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 | 2018-12-12 |  |
 | [Moments In Love](https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [\(Who's Afraid Of\) The Art Of Noise? \[Remastered\]](https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR) | 10:15 | 2021-06-15 |  |
@@ -291,7 +292,7 @@
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 | 2018-12-12 |  |
 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/7LwlTiFehCUVQQJKEUzF5Z) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/3VWF2zk0hXCcUmtprzF4zs) | 3:58 | 2018-12-12 | 2022-07-29 |
 | [Quiet Life](https://open.spotify.com/track/3vyzp6lqJbpZlDfwXan61J) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/0QOBJYviordwqHAgv5g9m3) | 4:48 | 2018-12-12 | 2022-07-27 |
-| [Quiet Life](https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT) | 4:49 | 2018-12-12 |  |
+| [Quiet Life](https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Quiet Life](https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT) | 4:49 | 2018-12-12 | 2024-01-07 |
 | [Radio Free Europe](https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur](https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q) | 4:05 | 2018-12-12 |  |
 | [Radio Free Europe](https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur \- Deluxe Edition](https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm) | 4:05 | 2018-12-12 | 2022-07-29 |
 | [Rain](https://open.spotify.com/track/3Od5XBElZqm5N6rr86LS5r) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 3:56 | 2018-12-12 |  |

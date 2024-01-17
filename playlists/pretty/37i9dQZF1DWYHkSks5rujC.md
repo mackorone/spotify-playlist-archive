@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHkSks5rujC.md) - [plain]
 
 > A journey through The Beatles' career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,790 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,343 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

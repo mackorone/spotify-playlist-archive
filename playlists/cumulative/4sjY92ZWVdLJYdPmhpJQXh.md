@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-602 songs - 1 day 5 hr 40 min
+604 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [The Art of Letting Go](https://open.spotify.com/track/6i08kCm2z1gI38NGnzLIJ1) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [four](https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP) | 2:32 | 2023-01-20 | 2023-03-11 |
 | [The Biggest](https://open.spotify.com/track/7M4M1GExnJhatiVlHf1Nfm) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [DCG Shun](https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11), [DCG Bsavv](https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL) | [The Biggest](https://open.spotify.com/album/27MhJVEQWJlpQMAh7aEM4U) | 2:00 | 2022-11-04 | 2023-03-11 |
 | [The End \(feat\. BABYMETAL\)](https://open.spotify.com/track/07TSrx1BDK6twM9avkYzbe) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:07 | 2023-07-05 |  |
+| [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Grinch Freestyle \(feat\. Latto\)](https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1) | 2:26 | 2024-01-03 |  |
 | [The Kitchen](https://open.spotify.com/track/14ZAryaOGjWc52i84ApWh0) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [The Kitchen](https://open.spotify.com/album/7hXIoUSA4AMI9zOGsepWXv) | 3:21 | 2022-04-08 | 2022-11-23 |
 | [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 | 2022-12-09 | 2023-03-11 |
 | [the ringer](https://open.spotify.com/track/1rKPnrP8PxVIUKqoflty9G) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:34 | 2022-11-04 | 2022-11-23 |
@@ -558,6 +559,7 @@
 | [Top Down](https://open.spotify.com/track/0i5P0FZPJmHrycya3AnWRq) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E) | [Top Down](https://open.spotify.com/album/4Szh2YcfzZLZiEuR2tuILk) | 3:09 | 2022-04-25 | 2022-11-23 |
 | [toxic crush](https://open.spotify.com/track/4jx3OhzeLknPoF52To841h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 4](https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N) | 2:14 | 2022-05-06 | 2022-11-23 |
 | [TRAPPER \(Remix\) \[feat\. Lil Baby\]](https://open.spotify.com/track/2MoqW8Uq2oGtTO3QtQMqKU) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 4:29 | 2022-11-18 | 2023-03-11 |
+| [TUNNEL VISION](https://open.spotify.com/track/183WuVX0zsr0dHydHkKtGQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:44 | 2024-01-03 |  |
 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 | 2023-05-05 |  |
 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 | 2022-07-15 | 2022-11-25 |
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/2tnfun3wNXMb81Om05LczH) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Feed Tha Streets III](https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji) | 2:28 | 2022-11-18 | 2023-03-11 |

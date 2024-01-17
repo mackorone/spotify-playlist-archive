@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 516533,
       "name": "August in Paris",
       "url": "https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": "2024-01-12",
       "duration_ms": 398664,
       "name": "Blessed - Virgil Abloh Future-Jazz Remix",
       "url": "https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN"
@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "It's So Good",
+        "url": "https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278518,
+      "name": "It's So Good",
+      "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
+    },
+    {
+      "album": {
         "name": "L'uomo d'affari / Italove",
         "url": "https://open.spotify.com/album/6g6DHknco9iNEvZn47eK8P"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 405768,
       "name": "Just Us",
       "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
@@ -3260,10 +3278,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 439490,
       "name": "Pain",
       "url": "https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN"
+    },
+    {
+      "album": {
+        "name": "Lesser Man EP",
+        "url": "https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439490,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi"
     },
     {
       "album": {
@@ -4680,7 +4716,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-13",
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
@@ -4826,6 +4862,28 @@
       "duration_ms": 286080,
       "name": "Work It - Soulwax Remix",
       "url": "https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P"
+    },
+    {
+      "album": {
+        "name": "XTASIS CARNAL",
+        "url": "https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID"
+      },
+      "artists": [
+        {
+          "name": "SITA",
+          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
+        },
+        {
+          "name": "Cardopusher",
+          "url": "https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231875,
+      "name": "XTASIS CARNAL",
+      "url": "https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i"
     },
     {
       "album": {

@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-17",
       "duration_ms": 303333,
       "name": "A Woman's Worth",
       "url": "https://open.spotify.com/track/0rimetBQIYXE3uMCbuXBUa"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 237823,
       "name": "Best Of Me (Originals)",
       "url": "https://open.spotify.com/track/04m9VQHR3VqTaSKB19RU5Q"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 239306,
       "name": "Best Of Me (Originals)",
       "url": "https://open.spotify.com/track/0VuONk2yU3wnSBtB881QXM"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 272703,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/3ddTcWO0otfZvR3zn0bduS"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 217066,
       "name": "Come For Me (Unlocked)",
       "url": "https://open.spotify.com/track/1xgf7XiQ7rHae5SOuIrNVC"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 272613,
       "name": "Doesn't Mean Anything",
       "url": "https://open.spotify.com/track/5bpx60gYQoDDJcP7vBygPB"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 313514,
       "name": "Doesn't Mean Anything",
       "url": "https://open.spotify.com/track/2FKYQbdegoxuFDoSKbsYPn"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 206911,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/4M3VnGriMuTOUV65fj16yg"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-13",
       "duration_ms": 232853,
       "name": "Girl on Fire",
       "url": "https://open.spotify.com/track/4lu1NPveXOHrRPxM9JOCZF"
@@ -1188,6 +1188,24 @@
       "duration_ms": 275600,
       "name": "Go Ahead",
       "url": "https://open.spotify.com/track/2FeADxLaweWn04ktlPCxUt"
+    },
+    {
+      "album": {
+        "name": "The Diary Of Alicia Keys 20",
+        "url": "https://open.spotify.com/album/52pl5ANwTRORPcPj6vlzA8"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243214,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/6A3eVBVATl1ntRIKCkthKI"
     },
     {
       "album": {
@@ -1375,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "If I Ain't Got You (Official HD Video)",
+        "url": "https://open.spotify.com/album/2zvaidU72KUZFFKrM4t93J"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/59TEPBzyKfMtcJ01w6Umoo"
+    },
+    {
+      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -1386,7 +1422,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 209120,
       "name": "In Common",
       "url": "https://open.spotify.com/track/2y292SsIKqyBnII5TZuhv7"
@@ -1646,7 +1682,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 225151,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5X0UH4kp5zNOQiAbeN6OF1"
@@ -1664,7 +1700,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 256000,
       "name": "Karma",
       "url": "https://open.spotify.com/track/588RGyR1f4Plc8nm7SrdCa"
@@ -1722,7 +1758,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 262762,
       "name": "LALA (Unlocked)",
       "url": "https://open.spotify.com/track/5oRbU0qch8SO127OPwiFdX"
@@ -1860,7 +1896,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 267818,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/6Cl7yuosuJMY29lzjoDrXW"
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 315360,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/3JHDtmFdX9kdx9wz0md98U"
@@ -2012,7 +2048,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-16",
       "duration_ms": 203320,
       "name": "Love Looks Better",
       "url": "https://open.spotify.com/track/0HL5XOeVxgX1cEPY2KgRRa"
@@ -2142,7 +2178,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 234410,
       "name": "Million Dollar Bill",
       "url": "https://open.spotify.com/track/2CUEDnyy9H8P3O6vzJTCF9"
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "No One",
       "url": "https://open.spotify.com/track/1rEWI6tnJ3Za9sZC2YZm0J"
@@ -2560,7 +2596,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 171520,
       "name": "Only You (Originals)",
       "url": "https://open.spotify.com/track/05TNqUXgomBnqbzKKC8y6Y"
@@ -2578,7 +2614,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 195746,
       "name": "Only You (Originals)",
       "url": "https://open.spotify.com/track/4CN5QwsYFty7KkcVguSBXr"
@@ -2654,7 +2690,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 211066,
       "name": "Perfect Way To Die",
       "url": "https://open.spotify.com/track/4rxetbgJZra2oJKBIF8vr5"
@@ -2672,7 +2708,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 238997,
       "name": "Perfect Way To Die",
       "url": "https://open.spotify.com/track/0ALegRhmtzVDGhXvrOUrI0"
@@ -3100,7 +3136,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 250218,
       "name": "So Done",
       "url": "https://open.spotify.com/track/3CHdCeXVBB5U7PYxjilNuT"
@@ -3238,7 +3274,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 253098,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/18kkEfe5r9c1TqoWpmjlKR"
@@ -3256,7 +3292,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 274106,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O"
@@ -3310,7 +3346,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 190200,
       "name": "Teenage Love Affair",
       "url": "https://open.spotify.com/track/34ClgyHf8Awds1ew9vMX26"
@@ -3328,7 +3364,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 295210,
       "name": "Teenage Love Affair",
       "url": "https://open.spotify.com/track/4VnUhIagY3iC1N4MeWsEtw"
@@ -3497,6 +3533,24 @@
     },
     {
       "album": {
+        "name": "Time Machine (Official Video)",
+        "url": "https://open.spotify.com/album/11pCfMFJ4ctD4pRGB1qcvt"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242005,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/3hBxzzWEIHFpVWuU0s2YQD"
+    },
+    {
+      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -3508,7 +3562,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 266293,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5mK9w8MYTh3SpmycLZ561K"
@@ -3552,7 +3606,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-15",
       "duration_ms": 173053,
       "name": "Trillions (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
@@ -3606,7 +3660,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-17",
       "duration_ms": 249013,
       "name": "Try Sleeping with a Broken Heart",
       "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
@@ -3678,7 +3732,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 249240,
       "name": "Un-thinkable (I'm Ready)",
       "url": "https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996"
@@ -3696,7 +3750,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 281791,
       "name": "Un-thinkable (I'm Ready)",
       "url": "https://open.spotify.com/track/3eIU2ArynyyP0uFJG6ibsj"
@@ -3732,7 +3786,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 204400,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg"
@@ -3750,7 +3804,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 208042,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/1umefo2cFpOUXfRhcqqhZM"
@@ -3870,7 +3924,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 284683,
       "name": "We Are Here",
       "url": "https://open.spotify.com/track/1lEPbd3Pf73s28zoem3IxX"
@@ -3888,7 +3942,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 304661,
       "name": "We Are Here",
       "url": "https://open.spotify.com/track/1m2sdZi5pG42sONPjoVYJj"
@@ -4072,7 +4126,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 366733,
       "name": "You Don't Know My Name",
       "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"

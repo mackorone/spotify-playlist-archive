@@ -682,7 +682,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 296000,
-      "name": "\u30ab\u30eb\u307a\u30fb\u30c7\u30a3\u30a8\u30e0~\u4eca\u65e5\u304c\u305d\u306e\u65e5\u3055",
+      "name": "\u30ab\u30eb\u307a\u30fb\u30c7\u30a3\u30a8\u30e0\uff5e\u4eca\u65e5\u304c\u305d\u306e\u65e5\u3055",
       "url": "https://open.spotify.com/track/30gSJf2EyyXKij3fvQUjsi"
     },
     {
@@ -698,7 +698,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 132573,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ab (\u8af8\u4eba\u3053\u305e\u308a\u3066)",
       "url": "https://open.spotify.com/track/1iXpI5zNsSCg9dih1n9l6g"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 182373,
       "name": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bb\u30a4\u30d0\u30fc - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bb\u30a4\u30d0\u30fc\u300f\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de",
       "url": "https://open.spotify.com/track/5Pp5PkCW8QgvSJGcD1dsdQ"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 313240,
       "name": "\u6d41\u308c\u3086\u304f\u4e16\u754c\u306e\u4e2d\u3067",
       "url": "https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh"
@@ -1178,6 +1178,28 @@
       "duration_ms": 273280,
       "name": "\u6d41\u661f\u3068\u30d0\u30e9\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd"
+    },
+    {
+      "album": {
+        "name": "GR8EST",
+        "url": "https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u30b8\u30e3\u30cb\u221e",
+          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299040,
+      "name": "\u7121\u8cac\u4efb\u30d2\u30fc\u30ed\u30fc jam with \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
+      "url": "https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh"
     },
     {
       "album": {
@@ -1212,8 +1234,8 @@
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         },
         {
-          "name": "\u77f3\u539f\u614e\u4e5f",
-          "url": "https://open.spotify.com/artist/5ymLwYNk5I8OUbsy12hW3g"
+          "name": "\u77f3\u539f \u614e\u4e5f",
+          "url": "https://open.spotify.com/artist/7M6jvaUIrKDZK9rhjjv5x8"
         }
       ],
       "date_added": "2023-01-14",

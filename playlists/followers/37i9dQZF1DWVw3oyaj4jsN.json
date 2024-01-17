@@ -1,735 +1,855 @@
 {
-  "2021-12-25": 603588,
-  "2021-12-26": 603676,
-  "2021-12-27": 603851,
-  "2021-12-28": 603850,
-  "2021-12-29": 603910,
-  "2021-12-30": 603985,
-  "2021-12-31": 604013,
-  "2022-01-01": 604133,
-  "2022-01-02": 604146,
-  "2022-01-03": 604211,
-  "2022-01-04": 604274,
-  "2022-01-05": 604312,
-  "2022-01-06": 604383,
-  "2022-01-07": 604471,
-  "2022-01-08": 604606,
-  "2022-01-09": 604606,
-  "2022-01-10": 604704,
-  "2022-01-11": 604704,
-  "2022-01-12": 604760,
-  "2022-01-13": 604760,
-  "2022-01-14": 604760,
-  "2022-01-15": 604760,
-  "2022-01-16": 604760,
-  "2022-01-17": 604760,
-  "2022-01-18": 604760,
-  "2022-01-19": 604760,
-  "2022-01-20": 604760,
-  "2022-01-21": 604760,
-  "2022-01-22": 604760,
-  "2022-01-23": 604760,
-  "2022-01-24": 604760,
-  "2022-01-25": 604760,
-  "2022-01-26": 604760,
-  "2022-01-27": 604760,
-  "2022-01-28": 604760,
-  "2022-01-29": 604760,
-  "2022-01-30": 604760,
-  "2022-01-31": 604760,
-  "2022-02-01": 604760,
-  "2022-02-02": 604760,
-  "2022-02-03": 604760,
-  "2022-02-04": 604760,
-  "2022-02-05": 604760,
-  "2022-02-06": 604760,
-  "2022-02-07": 604760,
-  "2022-02-08": 604760,
-  "2022-02-09": 604760,
-  "2022-02-10": 604760,
-  "2022-02-11": 604760,
-  "2022-02-12": 604760,
-  "2022-02-13": 604760,
-  "2022-02-14": 604760,
-  "2022-02-15": 604760,
-  "2022-02-16": 604760,
-  "2022-02-17": 604760,
-  "2022-02-18": 604760,
-  "2022-02-19": 604760,
-  "2022-02-20": 604760,
-  "2022-02-21": 604760,
-  "2022-02-22": 604760,
-  "2022-02-23": 604760,
-  "2022-02-24": 604760,
-  "2022-02-25": 604760,
-  "2022-02-26": 604760,
-  "2022-02-27": 604760,
-  "2022-02-28": 604760,
-  "2022-03-01": 604760,
-  "2022-03-02": 604760,
-  "2022-03-03": 604760,
-  "2022-03-04": 604760,
-  "2022-03-05": 604760,
-  "2022-03-06": 604760,
-  "2022-03-07": 604760,
-  "2022-03-08": 604760,
-  "2022-03-09": 604760,
-  "2022-03-10": 604760,
-  "2022-03-11": 604760,
-  "2022-03-12": 604760,
-  "2022-03-13": 604760,
-  "2022-03-14": 604760,
-  "2022-03-15": 604760,
-  "2022-03-16": 604760,
-  "2022-03-17": 604760,
-  "2022-03-18": 604760,
-  "2022-03-19": 604760,
-  "2022-03-20": 604760,
-  "2022-03-21": 604760,
-  "2022-03-22": 604760,
-  "2022-03-23": 604760,
-  "2022-03-24": 604760,
-  "2022-03-25": 604760,
-  "2022-03-26": 604760,
-  "2022-03-27": 604760,
-  "2022-03-28": 604760,
-  "2022-03-30": 604760,
-  "2022-03-31": 604760,
-  "2022-04-01": 604760,
-  "2022-04-02": 604760,
-  "2022-04-03": 604760,
-  "2022-04-04": 604760,
-  "2022-04-05": 604760,
-  "2022-04-06": 604760,
-  "2022-04-07": 604760,
-  "2022-04-08": 604760,
-  "2022-04-09": 604760,
-  "2022-04-10": 604760,
-  "2022-04-11": 604760,
-  "2022-04-12": 604760,
-  "2022-04-13": 604760,
-  "2022-04-14": 604760,
-  "2022-04-15": 604760,
-  "2022-04-16": 604760,
-  "2022-04-17": 604760,
-  "2022-04-18": 604760,
-  "2022-04-19": 604760,
-  "2022-04-20": 604760,
-  "2022-04-21": 604760,
-  "2022-04-22": 604760,
-  "2022-04-23": 604760,
-  "2022-04-24": 604760,
-  "2022-04-25": 604760,
-  "2022-04-26": 604760,
-  "2022-04-27": 604760,
-  "2022-04-28": 604760,
-  "2022-04-29": 604760,
-  "2022-04-30": 604760,
-  "2022-05-01": 604760,
-  "2022-05-02": 604760,
-  "2022-05-03": 604760,
-  "2022-05-04": 604760,
-  "2022-05-05": 604760,
-  "2022-05-06": 604760,
-  "2022-05-07": 604760,
-  "2022-05-08": 604760,
-  "2022-05-09": 604760,
-  "2022-05-10": 604760,
-  "2022-05-11": 604760,
-  "2022-05-12": 604760,
-  "2022-05-13": 604760,
-  "2022-05-14": 604760,
-  "2022-05-15": 604760,
-  "2022-05-16": 604760,
-  "2022-05-17": 604760,
-  "2022-05-18": 604760,
-  "2022-05-19": 604760,
-  "2022-05-20": 604760,
-  "2022-05-21": 604760,
-  "2022-05-22": 604760,
-  "2022-05-23": 604760,
-  "2022-05-24": 604760,
-  "2022-05-25": 604760,
-  "2022-05-26": 604760,
-  "2022-05-27": 604760,
-  "2022-05-28": 604760,
-  "2022-05-29": 604760,
-  "2022-05-30": 604760,
-  "2022-05-31": 604760,
-  "2022-06-01": 604760,
-  "2022-06-02": 604760,
-  "2022-06-03": 604760,
-  "2022-06-04": 604760,
-  "2022-06-05": 604760,
-  "2022-06-06": 604760,
-  "2022-06-07": 604760,
-  "2022-06-08": 604760,
-  "2022-06-09": 604760,
-  "2022-06-10": 604760,
-  "2022-06-11": 604760,
-  "2022-06-12": 604760,
-  "2022-06-13": 604760,
-  "2022-06-14": 604760,
-  "2022-06-15": 604760,
-  "2022-06-16": 604760,
-  "2022-06-17": 604760,
-  "2022-06-18": 604760,
-  "2022-06-19": 604760,
-  "2022-06-20": 604760,
-  "2022-06-21": 604760,
-  "2022-06-22": 604760,
-  "2022-06-23": 604760,
-  "2022-06-24": 604760,
-  "2022-06-25": 604760,
-  "2022-06-26": 604760,
-  "2022-06-27": 604760,
-  "2022-06-28": 604760,
-  "2022-06-29": 604760,
-  "2022-06-30": 604760,
-  "2022-07-01": 604760,
-  "2022-07-02": 604760,
-  "2022-07-03": 604760,
-  "2022-07-04": 604760,
-  "2022-07-05": 604760,
-  "2022-07-06": 604760,
-  "2022-07-07": 604760,
-  "2022-07-08": 604760,
-  "2022-07-09": 604760,
-  "2022-07-10": 604760,
-  "2022-07-11": 604760,
-  "2022-07-12": 604760,
-  "2022-07-13": 604760,
-  "2022-07-14": 604760,
-  "2022-07-15": 604760,
-  "2022-07-16": 604760,
-  "2022-07-17": 604760,
-  "2022-07-18": 604760,
-  "2022-07-19": 604760,
-  "2022-07-20": 604760,
-  "2022-07-21": 604760,
-  "2022-07-22": 604760,
-  "2022-07-23": 604760,
-  "2022-07-24": 604760,
-  "2022-07-25": 604760,
-  "2022-07-26": 604760,
-  "2022-07-27": 604760,
-  "2022-07-28": 604760,
-  "2022-07-29": 604760,
-  "2022-07-30": 604760,
-  "2022-07-31": 604760,
-  "2022-08-01": 604760,
-  "2022-08-02": 604760,
-  "2022-08-03": 604760,
-  "2022-08-04": 604760,
-  "2022-08-05": 604760,
-  "2022-08-06": 604760,
-  "2022-08-07": 604760,
-  "2022-08-08": 604760,
-  "2022-08-09": 604760,
-  "2022-08-10": 604760,
-  "2022-08-11": 604760,
-  "2022-08-12": 604760,
-  "2022-08-13": 604760,
-  "2022-08-14": 604760,
-  "2022-08-15": 604760,
-  "2022-08-16": 604760,
-  "2022-08-17": 604760,
-  "2022-08-18": 604760,
-  "2022-08-19": 604760,
-  "2022-08-20": 604760,
-  "2022-08-21": 604760,
-  "2022-08-22": 604760,
-  "2022-08-23": 604760,
-  "2022-08-24": 604760,
-  "2022-08-25": 604760,
-  "2022-08-26": 604760,
-  "2022-08-27": 604760,
-  "2022-08-28": 604760,
-  "2022-08-29": 604760,
-  "2022-08-30": 604760,
-  "2022-08-31": 604760,
-  "2022-09-01": 604760,
-  "2022-09-02": 604760,
-  "2022-09-03": 604760,
-  "2022-09-04": 604760,
-  "2022-09-05": 604760,
-  "2022-09-06": 604760,
-  "2022-09-07": 604760,
-  "2022-09-09": 604760,
-  "2022-09-10": 604760,
-  "2022-09-11": 604760,
-  "2022-09-12": 604760,
-  "2022-09-13": 604760,
-  "2022-09-15": 604760,
-  "2022-09-16": 604760,
-  "2022-09-17": 604760,
-  "2022-09-18": 604760,
-  "2022-09-19": 604760,
-  "2022-09-20": 604760,
-  "2022-09-21": 604760,
-  "2022-09-22": 604760,
-  "2022-09-23": 604760,
-  "2022-09-24": 604760,
-  "2022-09-25": 604760,
-  "2022-09-26": 604760,
-  "2022-09-27": 604760,
-  "2022-09-28": 604760,
-  "2022-09-29": 604760,
-  "2022-09-30": 604760,
-  "2022-10-01": 604760,
-  "2022-10-02": 604760,
-  "2022-10-03": 604760,
-  "2022-10-04": 604760,
-  "2022-10-05": 604760,
-  "2022-10-06": 604760,
-  "2022-10-07": 604760,
-  "2022-10-08": 604760,
-  "2022-10-09": 604760,
-  "2022-10-10": 604760,
-  "2022-10-11": 604760,
-  "2022-10-12": 604760,
-  "2022-10-13": 604760,
-  "2022-10-14": 604760,
-  "2022-10-15": 604760,
-  "2022-10-16": 604760,
-  "2022-10-17": 604760,
-  "2022-10-18": 604760,
-  "2022-10-19": 604760,
-  "2022-10-20": 604760,
-  "2022-10-21": 604760,
-  "2022-10-22": 604760,
-  "2022-10-23": 604760,
-  "2022-10-24": 604760,
-  "2022-10-25": 604760,
-  "2022-10-26": 604760,
-  "2022-10-27": 604760,
-  "2022-10-28": 604760,
-  "2022-10-29": 604760,
-  "2022-10-30": 604760,
-  "2022-10-31": 604760,
-  "2022-11-01": 604760,
-  "2022-11-02": 604760,
-  "2022-11-03": 604760,
-  "2022-11-04": 604760,
-  "2022-11-05": 604760,
-  "2022-11-06": 604760,
-  "2022-11-07": 604760,
-  "2022-11-08": 604760,
-  "2022-11-09": 604760,
-  "2022-11-10": 604760,
-  "2022-11-11": 604760,
-  "2022-11-12": 604760,
-  "2022-11-13": 604760,
-  "2022-11-14": 604760,
-  "2022-11-15": 604760,
-  "2022-11-16": 604760,
-  "2022-11-17": 604760,
-  "2022-11-18": 604760,
-  "2022-11-19": 604760,
-  "2022-11-20": 604760,
-  "2022-11-21": 604760,
-  "2022-11-22": 604760,
-  "2022-11-23": 604760,
-  "2022-11-24": 604760,
-  "2022-11-25": 604760,
-  "2022-11-26": 604760,
-  "2022-11-27": 604760,
-  "2022-11-28": 604760,
-  "2022-11-29": 604760,
-  "2022-11-30": 604760,
-  "2022-12-01": 604760,
-  "2022-12-02": 604760,
-  "2022-12-03": 604760,
-  "2022-12-04": 604760,
-  "2022-12-05": 604760,
-  "2022-12-06": 604760,
-  "2022-12-07": 604760,
-  "2022-12-08": 604760,
-  "2022-12-09": 604760,
-  "2022-12-10": 604760,
-  "2022-12-11": 604760,
-  "2022-12-12": 604760,
-  "2022-12-13": 604760,
-  "2022-12-14": 604760,
-  "2022-12-15": 604760,
-  "2022-12-16": 604760,
-  "2022-12-17": 604760,
-  "2022-12-18": 604760,
-  "2022-12-19": 604760,
-  "2022-12-20": 604760,
-  "2022-12-21": 604760,
-  "2022-12-22": 604760,
-  "2022-12-24": 604760,
-  "2022-12-25": 604760,
-  "2022-12-26": 604760,
-  "2022-12-27": 604760,
-  "2022-12-28": 604760,
-  "2022-12-29": 604760,
-  "2022-12-30": 604760,
-  "2022-12-31": 604760,
-  "2023-01-01": 604760,
-  "2023-01-02": 604760,
-  "2023-01-03": 604760,
-  "2023-01-04": 604760,
-  "2023-01-05": 604760,
-  "2023-01-06": 604760,
-  "2023-01-07": 604760,
-  "2023-01-08": 604760,
-  "2023-01-09": 604760,
-  "2023-01-10": 604760,
-  "2023-01-11": 604760,
-  "2023-01-12": 604760,
-  "2023-01-13": 604760,
-  "2023-01-14": 604760,
-  "2023-01-15": 604760,
-  "2023-01-16": 604760,
-  "2023-01-17": 604760,
-  "2023-01-18": 604760,
-  "2023-01-19": 604760,
-  "2023-01-20": 604760,
-  "2023-01-21": 604760,
-  "2023-01-22": 604760,
-  "2023-01-23": 604760,
-  "2023-01-24": 604760,
-  "2023-01-25": 604760,
-  "2023-01-26": 604760,
-  "2023-01-27": 604760,
-  "2023-01-28": 604760,
-  "2023-01-29": 604760,
-  "2023-01-30": 604760,
-  "2023-01-31": 604760,
-  "2023-02-01": 604760,
-  "2023-02-02": 604760,
-  "2023-02-03": 604760,
-  "2023-02-04": 604760,
-  "2023-02-05": 604760,
-  "2023-02-06": 604760,
-  "2023-02-07": 604760,
-  "2023-02-08": 604760,
-  "2023-02-09": 604760,
-  "2023-02-10": 604760,
-  "2023-02-11": 604760,
-  "2023-02-12": 604760,
-  "2023-02-13": 604760,
-  "2023-02-14": 604760,
-  "2023-02-15": 604760,
-  "2023-02-16": 604760,
-  "2023-02-17": 604760,
-  "2023-02-18": 604760,
-  "2023-02-19": 604760,
-  "2023-02-20": 604760,
-  "2023-02-21": 604760,
-  "2023-02-22": 604760,
-  "2023-02-23": 604760,
-  "2023-02-24": 604760,
-  "2023-02-25": 604760,
-  "2023-02-26": 604760,
-  "2023-02-27": 604760,
-  "2023-02-28": 604760,
-  "2023-03-01": 604760,
-  "2023-03-02": 604760,
-  "2023-03-03": 604760,
-  "2023-03-04": 604760,
-  "2023-03-05": 604760,
-  "2023-03-06": 604760,
-  "2023-03-07": 604760,
-  "2023-03-08": 604760,
-  "2023-03-09": 604760,
-  "2023-03-10": 604760,
-  "2023-03-11": 604760,
-  "2023-03-12": 604760,
-  "2023-03-13": 604760,
-  "2023-03-14": 604760,
-  "2023-03-15": 604760,
-  "2023-03-16": 604760,
-  "2023-03-17": 604760,
-  "2023-03-18": 604760,
-  "2023-03-19": 604760,
-  "2023-03-20": 604760,
-  "2023-03-21": 604760,
-  "2023-03-22": 604760,
-  "2023-03-23": 604760,
-  "2023-03-24": 604760,
-  "2023-03-25": 604760,
-  "2023-03-26": 604760,
-  "2023-03-27": 604760,
-  "2023-03-28": 604760,
-  "2023-03-29": 604760,
-  "2023-03-30": 604760,
-  "2023-03-31": 604760,
-  "2023-04-01": 604760,
-  "2023-04-02": 604760,
-  "2023-04-03": 604760,
-  "2023-04-04": 604760,
-  "2023-04-05": 604760,
-  "2023-04-06": 604760,
-  "2023-04-07": 604760,
-  "2023-04-09": 604760,
-  "2023-04-10": 604760,
-  "2023-04-11": 604760,
-  "2023-04-12": 604760,
-  "2023-04-13": 604760,
-  "2023-04-14": 604760,
-  "2023-04-15": 604760,
-  "2023-04-16": 604760,
-  "2023-04-17": 604760,
-  "2023-04-18": 604760,
-  "2023-04-19": 604760,
-  "2023-04-20": 604760,
-  "2023-04-21": 604760,
-  "2023-04-22": 604760,
-  "2023-04-23": 604760,
-  "2023-04-24": 604760,
-  "2023-04-25": 604760,
-  "2023-04-26": 604760,
-  "2023-04-27": 604760,
-  "2023-04-28": 604760,
-  "2023-04-29": 604760,
-  "2023-04-30": 604760,
-  "2023-05-01": 604760,
-  "2023-05-02": 604760,
-  "2023-05-03": 604760,
-  "2023-05-04": 604760,
-  "2023-05-05": 604760,
-  "2023-05-06": 604760,
-  "2023-05-07": 604760,
-  "2023-05-08": 604760,
-  "2023-05-09": 604760,
-  "2023-05-10": 604760,
-  "2023-05-11": 604760,
-  "2023-05-12": 604760,
-  "2023-05-13": 604760,
-  "2023-05-14": 604760,
-  "2023-05-15": 604760,
-  "2023-05-16": 604760,
-  "2023-05-17": 604760,
-  "2023-05-18": 604760,
-  "2023-05-19": 604760,
-  "2023-05-20": 604760,
-  "2023-05-21": 604760,
-  "2023-05-22": 604760,
-  "2023-05-23": 604760,
-  "2023-05-24": 604760,
-  "2023-05-25": 604760,
-  "2023-05-26": 604760,
-  "2023-05-27": 604760,
-  "2023-05-28": 604760,
-  "2023-05-29": 604760,
-  "2023-05-30": 604760,
-  "2023-05-31": 604760,
-  "2023-06-01": 604760,
-  "2023-06-02": 604760,
-  "2023-06-03": 604760,
-  "2023-06-04": 604760,
-  "2023-06-05": 604760,
-  "2023-06-06": 604760,
-  "2023-06-07": 604760,
-  "2023-06-08": 604760,
-  "2023-06-09": 604760,
-  "2023-06-10": 604760,
-  "2023-06-11": 604760,
-  "2023-06-12": 604760,
-  "2023-06-13": 604760,
-  "2023-06-14": 604760,
-  "2023-06-15": 604760,
-  "2023-06-16": 604760,
-  "2023-06-17": 604760,
-  "2023-06-18": 604760,
-  "2023-06-19": 604760,
-  "2023-06-20": 604760,
-  "2023-06-21": 604760,
-  "2023-06-22": 604760,
-  "2023-06-23": 604760,
-  "2023-06-24": 604760,
-  "2023-06-25": 604760,
-  "2023-06-26": 604760,
-  "2023-06-27": 604760,
-  "2023-06-28": 604760,
-  "2023-06-29": 604760,
-  "2023-06-30": 604760,
-  "2023-07-01": 604760,
-  "2023-07-02": 604760,
-  "2023-07-03": 604760,
-  "2023-07-04": 604760,
-  "2023-07-05": 604760,
-  "2023-07-06": 604760,
-  "2023-07-07": 604760,
-  "2023-07-08": 604760,
-  "2023-07-09": 604760,
-  "2023-07-10": 604760,
-  "2023-07-11": 604760,
-  "2023-07-12": 604760,
-  "2023-07-13": 604760,
-  "2023-07-14": 604760,
-  "2023-07-15": 604760,
-  "2023-07-16": 604760,
-  "2023-07-17": 604760,
-  "2023-07-18": 604760,
-  "2023-07-19": 604760,
-  "2023-07-20": 604760,
-  "2023-07-21": 604760,
-  "2023-07-22": 604760,
-  "2023-07-23": 604760,
-  "2023-07-24": 604760,
-  "2023-07-25": 604760,
-  "2023-07-26": 604760,
-  "2023-07-27": 604760,
-  "2023-07-28": 604760,
-  "2023-07-29": 604760,
-  "2023-07-30": 604760,
-  "2023-07-31": 604760,
-  "2023-08-01": 604760,
-  "2023-08-02": 604760,
-  "2023-08-03": 604760,
-  "2023-08-04": 604760,
-  "2023-08-05": 604760,
-  "2023-08-06": 604760,
-  "2023-08-07": 604760,
-  "2023-08-08": 604760,
-  "2023-08-09": 604760,
-  "2023-08-10": 604760,
-  "2023-08-11": 604760,
-  "2023-08-12": 604760,
-  "2023-08-13": 604760,
-  "2023-08-14": 604760,
-  "2023-08-15": 604760,
-  "2023-08-16": 604760,
-  "2023-08-17": 604760,
-  "2023-08-18": 604760,
-  "2023-08-19": 604760,
-  "2023-08-20": 604760,
-  "2023-08-21": 604760,
-  "2023-08-22": 604760,
-  "2023-08-23": 604760,
-  "2023-08-24": 604760,
-  "2023-08-25": 604760,
-  "2023-08-26": 604760,
-  "2023-08-27": 604760,
-  "2023-08-28": 604760,
-  "2023-08-29": 604760,
-  "2023-08-30": 604760,
-  "2023-08-31": 604760,
-  "2023-09-01": 604760,
-  "2023-09-02": 604760,
-  "2023-09-03": 604760,
-  "2023-09-04": 604760,
-  "2023-09-05": 604760,
-  "2023-09-06": 604760,
-  "2023-09-07": 604760,
-  "2023-09-08": 604760,
-  "2023-09-09": 604760,
-  "2023-09-10": 604760,
-  "2023-09-11": 604760,
-  "2023-09-12": 604760,
-  "2023-09-13": 604760,
-  "2023-09-14": 604760,
-  "2023-09-15": 604760,
-  "2023-09-16": 604760,
-  "2023-09-17": 604760,
-  "2023-09-18": 604760,
-  "2023-09-19": 604760,
-  "2023-09-20": 604760,
-  "2023-09-21": 604760,
-  "2023-09-22": 604760,
-  "2023-09-23": 604760,
-  "2023-09-24": 604760,
-  "2023-09-25": 604760,
-  "2023-09-26": 604760,
-  "2023-09-27": 604760,
-  "2023-09-28": 604760,
-  "2023-09-29": 604760,
-  "2023-09-30": 604760,
-  "2023-10-01": 604760,
-  "2023-10-02": 604760,
-  "2023-10-03": 604760,
-  "2023-10-04": 604760,
-  "2023-10-05": 604760,
-  "2023-10-06": 604760,
-  "2023-10-07": 604760,
-  "2023-10-08": 604760,
-  "2023-10-09": 604760,
-  "2023-10-10": 604760,
-  "2023-10-11": 604760,
-  "2023-10-12": 604760,
-  "2023-10-13": 604760,
-  "2023-10-14": 604760,
-  "2023-10-15": 604760,
-  "2023-10-16": 604760,
-  "2023-10-17": 604760,
-  "2023-10-18": 604760,
-  "2023-10-19": 604760,
-  "2023-10-20": 604760,
-  "2023-10-21": 604760,
-  "2023-10-22": 604760,
-  "2023-10-23": 604760,
-  "2023-10-24": 604760,
-  "2023-10-25": 604760,
-  "2023-10-26": 604760,
-  "2023-10-27": 604760,
-  "2023-10-28": 604760,
-  "2023-10-29": 604760,
-  "2023-10-30": 604760,
-  "2023-10-31": 604760,
-  "2023-11-01": 604760,
-  "2023-11-02": 604760,
-  "2023-11-03": 604760,
-  "2023-11-04": 604760,
-  "2023-11-05": 604760,
-  "2023-11-06": 604760,
-  "2023-11-07": 604760,
-  "2023-11-08": 604760,
-  "2023-11-09": 604760,
-  "2023-11-10": 604760,
-  "2023-11-11": 604760,
-  "2023-11-12": 604760,
-  "2023-11-13": 604760,
-  "2023-11-14": 604760,
-  "2023-11-15": 604760,
-  "2023-11-16": 604760,
-  "2023-11-17": 604760,
-  "2023-11-18": 604760,
-  "2023-11-19": 604760,
-  "2023-11-20": 604760,
-  "2023-11-21": 604760,
-  "2023-11-22": 604760,
-  "2023-11-23": 604760,
-  "2023-11-24": 604760,
-  "2023-11-25": 604760,
-  "2023-11-26": 604760,
-  "2023-11-27": 604760,
-  "2023-11-28": 604760,
-  "2023-11-29": 604760,
-  "2023-11-30": 604760,
-  "2023-12-01": 604760,
-  "2023-12-02": 604760,
-  "2023-12-03": 604760,
-  "2023-12-04": 604760,
-  "2023-12-05": 604760,
-  "2023-12-06": 604760,
-  "2023-12-07": 604760,
-  "2023-12-08": 604760,
-  "2023-12-09": 604760,
-  "2023-12-10": 604760,
-  "2023-12-11": 604760,
-  "2023-12-12": 604760,
-  "2023-12-13": 604760,
-  "2023-12-14": 604760,
-  "2023-12-15": 604760,
-  "2023-12-16": 604760,
-  "2023-12-17": 604760,
-  "2023-12-18": 604760,
-  "2023-12-19": 604760,
-  "2023-12-20": 604760,
-  "2023-12-21": 604760,
-  "2023-12-22": 604760,
-  "2023-12-23": 604760,
-  "2023-12-24": 604760,
-  "2023-12-25": 604760,
-  "2023-12-26": 604760,
-  "2023-12-27": 604760,
-  "2023-12-30": 604760,
-  "2023-12-31": 604760,
-  "2024-01-01": 604760,
-  "2024-01-02": 604760,
-  "2024-01-03": 604760
+  "2024-01-17": 604760,
+  "date_first_scraped": "2021-12-21",
+  "description": "Meet G-Dragon, Taeyang, T.O.P, and Daesung\u2014members of the acclaimed K-Pop phenom with their V.I.Ps",
+  "name": "This Is: BIGBANG",
+  "tracks": [
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2R2SusHMCwhf0ed78ajJUM"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "Ain't No Fun (\uc7ac\ubbf8\uc5c6\uc5b4)",
+      "url": "https://open.spotify.com/track/36UC3m4kBQi4NewZ6TUKfU"
+    },
+    {
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/4uXdVN0q22qyWiU42rLmJq"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6hfsEwisw3xRuUfIKb65Q6"
+    },
+    {
+      "album": {
+        "name": "M",
+        "url": "https://open.spotify.com/album/3GYXZuzKAIwZIS0ogPOBy5"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169482,
+      "name": "BAE BAE",
+      "url": "https://open.spotify.com/track/4SLZDeEuyeOCHuCQAG8Pf0"
+    },
+    {
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/2YJrdV7ZxFSrNa2rMaLr9D"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220238,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/0BU2OFDU7NvV7zza77F2YN"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition Still Alive 1",
+        "url": "https://open.spotify.com/album/7tCxOPrGwO3ojcfi8ZdNKQ"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180533,
+      "name": "Bingle Bingle",
+      "url": "https://open.spotify.com/track/6OvxJkLM8RzQUBwrGWHiTm"
+    },
+    {
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/4uXdVN0q22qyWiU42rLmJq"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6FpGiWJHMs78QGzVAjNOlw"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/5kJPwfrd8cM9nurOLE0lr6"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Cafe",
+      "url": "https://open.spotify.com/track/7Cgq7A7xaCbJr4MYvLU93U"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/6eFAxaoZhy1KBYuYHCfnDg"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210190,
+      "name": "DARLING",
+      "url": "https://open.spotify.com/track/1UVVPtvtUXeVzbNKjlcVht"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/6eFAxaoZhy1KBYuYHCfnDg"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209882,
+      "name": "EMPTY ROAD",
+      "url": "https://open.spotify.com/track/22ujj7oolbVcxbkXE1wZiQ"
+    },
+    {
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/4uXdVN0q22qyWiU42rLmJq"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232586,
+      "name": "Fantastic Baby",
+      "url": "https://open.spotify.com/track/44jlAR4JltMotTZJE24KaE"
+    },
+    {
+      "album": {
+        "name": "FLOWER ROAD",
+        "url": "https://open.spotify.com/album/0jJEKb5PUTpD1VxgDx7vO7"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228631,
+      "name": "FLOWER ROAD",
+      "url": "https://open.spotify.com/track/37DVuXUPIFPsYBmr6hBoxA"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/407pN41bJq9wAWvauVVGa2"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231810,
+      "name": "FXXK IT",
+      "url": "https://open.spotify.com/track/0YVsrgp4OOUhFuYMAVQazV"
+    },
+    {
+      "album": {
+        "name": "BIGBANG SPECIAL EVENT 2017",
+        "url": "https://open.spotify.com/album/6IgeTUHsBH0sgsrFEV8afQ"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233546,
+      "name": "FXXK IT - KR Ver. BIGBANG SPECIAL EVENT 2017",
+      "url": "https://open.spotify.com/track/0cpy1DlTlpNI0w826ecuXu"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/407pN41bJq9wAWvauVVGa2"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229041,
+      "name": "GIRLFRIEND",
+      "url": "https://open.spotify.com/track/5qtSNy9cdlzMqQQyaOzH6U"
+    },
+    {
+      "album": {
+        "name": "GOOD BOY",
+        "url": "https://open.spotify.com/album/3z9PnyT3r4hdtZKLG5lC4J"
+      },
+      "artists": [
+        {
+          "name": "GD X TAEYANG",
+          "url": "https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245192,
+      "name": "GOOD BOY",
+      "url": "https://open.spotify.com/track/3F1mueW8iouZUgjmawhVhe"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/49cfNmV24xZ9IBlZ6QFLzT"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256360,
+      "name": "Haru Haru",
+      "url": "https://open.spotify.com/track/3d3RUv7bMGWEHw5Rr6TBjL"
+    },
+    {
+      "album": {
+        "name": "D",
+        "url": "https://open.spotify.com/album/2DIOEfz9HuzawA4Dtj5HEQ"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264280,
+      "name": "IF YOU",
+      "url": "https://open.spotify.com/track/77IZ5gbHrUR6lp9gE9QqYb"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Vol. 1",
+        "url": "https://open.spotify.com/album/4wvNjlQKwJv7L8FB6Y4ivZ"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/75bsh5bxj6NiBiOqBDGNqf"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/407pN41bJq9wAWvauVVGa2"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279719,
+      "name": "LAST DANCE",
+      "url": "https://open.spotify.com/track/7dhr1r6OWHxrpvrdHxfe1n"
+    },
+    {
+      "album": {
+        "name": "BIGBANG SPECIAL EVENT 2017",
+        "url": "https://open.spotify.com/album/6IgeTUHsBH0sgsrFEV8afQ"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287733,
+      "name": "LAST DANCE - KR Ver. BIGBANG SPECIAL EVENT 2017",
+      "url": "https://open.spotify.com/track/4aAZew1RkrjfYkFo1n0Zd8"
+    },
+    {
+      "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4060O57QHvG0wS8FrJe4n7"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Last Farewell",
+      "url": "https://open.spotify.com/track/5HbwEwnXUH9oyY7gZxv87Z"
+    },
+    {
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/54sYdn1VdKFloHBKsBWEpa"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211983,
+      "name": "Let's not fall in love",
+      "url": "https://open.spotify.com/track/4pwtsRdCFNse3U1lWLG2W1"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/5yKeKYuviZrmBSTlfijDnl"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/55HpKcJUfEHzX8fUMvCjG9"
+    },
+    {
+      "album": {
+        "name": "M",
+        "url": "https://open.spotify.com/album/3GYXZuzKAIwZIS0ogPOBy5"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/53gAeYCSCdXiWX7IfvP3oo"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition Still Alive 1",
+        "url": "https://open.spotify.com/album/7tCxOPrGwO3ojcfi8ZdNKQ"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "Love Dust",
+      "url": "https://open.spotify.com/track/1jX5W7hV7LkCp998d7s77o"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/5kJPwfrd8cM9nurOLE0lr6"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225813,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2qaGeFZcginU0g5wDuD3jQ"
+    },
+    {
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/4uXdVN0q22qyWiU42rLmJq"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231293,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0mxBXzoj8bU9zHTkJo2jUl"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/1fUA5LAFLvKCEUrAXh6Ec0"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232933,
+      "name": "My Heaven",
+      "url": "https://open.spotify.com/track/3V0732JPfWHFd2CqOdIhe5"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/6eFAxaoZhy1KBYuYHCfnDg"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201655,
+      "name": "NAKED",
+      "url": "https://open.spotify.com/track/0r6cbuaBbvrCMIIAUWUsNA"
+    },
+    {
+      "album": {
+        "name": "D",
+        "url": "https://open.spotify.com/album/2DIOEfz9HuzawA4Dtj5HEQ"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237583,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/1TTiZwoorWMR4KmaI0irjU"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/5kJPwfrd8cM9nurOLE0lr6"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214640,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/19Qlz0c9m66XYJnwLK6TWj"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition Still Alive 1",
+        "url": "https://open.spotify.com/album/7tCxOPrGwO3ojcfi8ZdNKQ"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/5kAPGuS9zG9SreLjgxjuBB"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/2csX6IJo4308J9hohCiPjw"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234786,
+      "name": "Stupid Liar",
+      "url": "https://open.spotify.com/track/0aFGjyMKP1cEnHd2o3imDX"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5qswMsScvMLXIxSQB6eQWh"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "Sunset Glow",
+      "url": "https://open.spotify.com/track/3OIzR9emRQyZntD8QpGAe6"
+    },
+    {
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/3qeyO96nIxtZ25IsPeMill"
+      },
+      "artists": [
+        {
+          "name": "T.O.P.",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212509,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/1OM2geiMjTOm0CYUcJcENL"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/6eFAxaoZhy1KBYuYHCfnDg"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199458,
+      "name": "WAKE ME UP",
+      "url": "https://open.spotify.com/track/0vBUsN3rew8OjgowVwykOn"
+    },
+    {
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/2YJrdV7ZxFSrNa2rMaLr9D"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195578,
+      "name": "WE LIKE 2 PARTY",
+      "url": "https://open.spotify.com/track/0J7On679dnx7IpBDQfvpAi"
+    },
+    {
+      "album": {
+        "name": "BIGBANG SPECIAL EVENT 2017",
+        "url": "https://open.spotify.com/album/6IgeTUHsBH0sgsrFEV8afQ"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "WE LIKE 2 PARTY - KR Ver. BIGBANG SPECIAL EVENT 2017",
+      "url": "https://open.spotify.com/track/7cEowM5L6ahBydSsEJYAxs"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/6eFAxaoZhy1KBYuYHCfnDg"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85585,
+      "name": "WHITE NIGHT",
+      "url": "https://open.spotify.com/track/2uWx84DNKWmstqgLRSBkEw"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2R2SusHMCwhf0ed78ajJUM"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222989,
+      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
+      "url": "https://open.spotify.com/track/22OJopNgbjHSaPPXD7svWk"
+    },
+    {
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/54sYdn1VdKFloHBKsBWEpa"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194507,
+      "name": "ZUTTER (GD&T.O.P)",
+      "url": "https://open.spotify.com/track/0FKyOvFCcyo4AYnU7lF1Bp"
+    },
+    {
+      "album": {
+        "name": "KWON JI YONG",
+        "url": "https://open.spotify.com/album/2SOEQhCJdBlxrIV68Wfisk"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182079,
+      "name": "\uac1c\uc18c\ub9ac (BULLSHIT)",
+      "url": "https://open.spotify.com/track/3iVX6XiS0J31HIbZIzeF4R"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/27XDcBXIllsjdrwMoOM5Wm"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229989,
+      "name": "\ub208,\ucf54,\uc785(Eyes, Noes, Lips)",
+      "url": "https://open.spotify.com/track/2orE4MtP5Oy0ynoA1KkF3t"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/27XDcBXIllsjdrwMoOM5Wm"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227021,
+      "name": "\ub9c1\uac00\ub9c1\uac00(RINGA LINGA)",
+      "url": "https://open.spotify.com/track/5l4u7LfxvtBPIiV3ptriqs"
+    },
+    {
+      "album": {
+        "name": "KWON JI YONG",
+        "url": "https://open.spotify.com/album/2SOEQhCJdBlxrIV68Wfisk"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222867,
+      "name": "\ubb34\uc81c(\u7121\u984c) (Untitled, 2014)",
+      "url": "https://open.spotify.com/track/5jBGI01km1Rt8gqBKVCU7R"
+    },
+    {
+      "album": {
+        "name": "COUP D'ETAT",
+        "url": "https://open.spotify.com/album/6KMR8jlvEkXiL7Jco4HvPi"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224792,
+      "name": "\uc090\ub531\ud558\uac8c (Crooked)",
+      "url": "https://open.spotify.com/track/5Rei61HA8R3TR4b0kOEINA"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/27XDcBXIllsjdrwMoOM5Wm"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191793,
+      "name": "\uc0c8\ubcbd\ud55c\uc2dc(1AM)",
+      "url": "https://open.spotify.com/track/58M68JO60rhDniuSK11b6S"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVw3oyaj4jsN"
 }

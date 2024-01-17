@@ -1,584 +1,1871 @@
 {
-  "2022-05-26": 3924,
-  "2022-05-27": 3926,
-  "2022-05-28": 3929,
-  "2022-05-29": 3931,
-  "2022-05-30": 3939,
-  "2022-05-31": 3943,
-  "2022-06-01": 3950,
-  "2022-06-02": 3949,
-  "2022-06-03": 3953,
-  "2022-06-04": 3956,
-  "2022-06-05": 3962,
-  "2022-06-06": 3965,
-  "2022-06-07": 3967,
-  "2022-06-08": 3965,
-  "2022-06-09": 3966,
-  "2022-06-10": 3966,
-  "2022-06-11": 3967,
-  "2022-06-12": 3964,
-  "2022-06-13": 3964,
-  "2022-06-14": 3967,
-  "2022-06-15": 3968,
-  "2022-06-16": 3969,
-  "2022-06-17": 3972,
-  "2022-06-18": 3976,
-  "2022-06-19": 3980,
-  "2022-06-20": 3980,
-  "2022-06-21": 3985,
-  "2022-06-22": 3991,
-  "2022-06-23": 3991,
-  "2022-06-24": 3993,
-  "2022-06-25": 3998,
-  "2022-06-26": 3999,
-  "2022-06-27": 4004,
-  "2022-06-28": 4009,
-  "2022-06-29": 4009,
-  "2022-06-30": 4016,
-  "2022-07-01": 4018,
-  "2022-07-02": 4022,
-  "2022-07-03": 4024,
-  "2022-07-04": 4028,
-  "2022-07-05": 4028,
-  "2022-07-06": 4028,
-  "2022-07-07": 4032,
-  "2022-07-08": 4034,
-  "2022-07-09": 4037,
-  "2022-07-10": 4042,
-  "2022-07-11": 4044,
-  "2022-07-12": 4048,
-  "2022-07-13": 4051,
-  "2022-07-14": 4053,
-  "2022-07-15": 4056,
-  "2022-07-16": 4056,
-  "2022-07-17": 4057,
-  "2022-07-18": 4060,
-  "2022-07-19": 4061,
-  "2022-07-20": 4062,
-  "2022-07-21": 4066,
-  "2022-07-22": 4068,
-  "2022-07-23": 4072,
-  "2022-07-24": 4074,
-  "2022-07-25": 4078,
-  "2022-07-26": 4080,
-  "2022-07-27": 4083,
-  "2022-07-28": 4089,
-  "2022-07-29": 4095,
-  "2022-07-30": 4099,
-  "2022-07-31": 4099,
-  "2022-08-01": 4103,
-  "2022-08-02": 4112,
-  "2022-08-03": 4112,
-  "2022-08-04": 4114,
-  "2022-08-05": 4115,
-  "2022-08-06": 4119,
-  "2022-08-07": 4121,
-  "2022-08-08": 4126,
-  "2022-08-09": 4128,
-  "2022-08-10": 4131,
-  "2022-08-11": 4133,
-  "2022-08-12": 4135,
-  "2022-08-13": 4140,
-  "2022-08-14": 4143,
-  "2022-08-15": 4145,
-  "2022-08-16": 4147,
-  "2022-08-17": 4152,
-  "2022-08-18": 4154,
-  "2022-08-19": 4158,
-  "2022-08-20": 4159,
-  "2022-08-21": 4164,
-  "2022-08-22": 4169,
-  "2022-08-23": 4172,
-  "2022-08-24": 4174,
-  "2022-08-25": 4178,
-  "2022-08-26": 4178,
-  "2022-08-27": 4180,
-  "2022-08-28": 4182,
-  "2022-08-29": 4185,
-  "2022-08-30": 4188,
-  "2022-08-31": 4191,
-  "2022-09-01": 4195,
-  "2022-09-02": 4198,
-  "2022-09-03": 4202,
-  "2022-09-04": 4209,
-  "2022-09-05": 4212,
-  "2022-09-06": 4213,
-  "2022-09-07": 4216,
-  "2022-09-09": 4221,
-  "2022-09-10": 4222,
-  "2022-09-11": 4232,
-  "2022-09-12": 4233,
-  "2022-09-13": 4235,
-  "2022-09-15": 4244,
-  "2022-09-16": 4250,
-  "2022-09-17": 4254,
-  "2022-09-18": 4256,
-  "2022-09-19": 4259,
-  "2022-09-20": 4262,
-  "2022-09-21": 4261,
-  "2022-09-22": 4261,
-  "2022-09-23": 4263,
-  "2022-09-24": 4263,
-  "2022-09-25": 4266,
-  "2022-09-26": 4270,
-  "2022-09-27": 4272,
-  "2022-09-28": 4275,
-  "2022-09-29": 4280,
-  "2022-09-30": 4281,
-  "2022-10-01": 4286,
-  "2022-10-02": 4289,
-  "2022-10-03": 4292,
-  "2022-10-04": 4294,
-  "2022-10-05": 4296,
-  "2022-10-06": 4298,
-  "2022-10-07": 4303,
-  "2022-10-08": 4304,
-  "2022-10-09": 4313,
-  "2022-10-10": 4314,
-  "2022-10-11": 4318,
-  "2022-10-12": 4324,
-  "2022-10-13": 4327,
-  "2022-10-14": 4327,
-  "2022-10-15": 4332,
-  "2022-10-16": 4340,
-  "2022-10-17": 4342,
-  "2022-10-18": 4345,
-  "2022-10-19": 4350,
-  "2022-10-20": 4351,
-  "2022-10-21": 4356,
-  "2022-10-22": 4358,
-  "2022-10-23": 4359,
-  "2022-10-24": 4361,
-  "2022-10-25": 4363,
-  "2022-10-26": 4363,
-  "2022-10-27": 4368,
-  "2022-10-28": 4370,
-  "2022-10-29": 4370,
-  "2022-10-30": 4376,
-  "2022-10-31": 4379,
-  "2022-11-01": 4381,
-  "2022-11-02": 4386,
-  "2022-11-03": 4388,
-  "2022-11-04": 4395,
-  "2022-11-05": 4398,
-  "2022-11-06": 4401,
-  "2022-11-07": 4407,
-  "2022-11-08": 4413,
-  "2022-11-09": 4417,
-  "2022-11-10": 4417,
-  "2022-11-11": 4418,
-  "2022-11-12": 4424,
-  "2022-11-13": 4424,
-  "2022-11-14": 4428,
-  "2022-11-15": 4429,
-  "2022-11-16": 4430,
-  "2022-11-17": 4433,
-  "2022-11-18": 4435,
-  "2022-11-19": 4433,
-  "2022-11-20": 4438,
-  "2022-11-21": 4440,
-  "2022-11-22": 4444,
-  "2022-11-23": 4445,
-  "2022-11-24": 4450,
-  "2022-11-25": 4451,
-  "2022-11-26": 4458,
-  "2022-11-27": 4461,
-  "2022-11-28": 4461,
-  "2022-11-29": 4464,
-  "2022-11-30": 4466,
-  "2022-12-01": 4466,
-  "2022-12-02": 4469,
-  "2022-12-03": 4475,
-  "2022-12-04": 4478,
-  "2022-12-05": 4482,
-  "2022-12-06": 4483,
-  "2022-12-07": 4487,
-  "2022-12-08": 4491,
-  "2022-12-09": 4491,
-  "2022-12-10": 4493,
-  "2022-12-11": 4495,
-  "2022-12-12": 4498,
-  "2022-12-13": 4498,
-  "2022-12-14": 4498,
-  "2022-12-15": 4501,
-  "2022-12-16": 4506,
-  "2022-12-17": 4509,
-  "2022-12-18": 4511,
-  "2022-12-19": 4515,
-  "2022-12-20": 4518,
-  "2022-12-21": 4518,
-  "2022-12-22": 4526,
-  "2022-12-24": 4530,
-  "2022-12-25": 4532,
-  "2022-12-26": 4533,
-  "2022-12-27": 4534,
-  "2022-12-28": 4538,
-  "2022-12-29": 4539,
-  "2022-12-30": 4541,
-  "2022-12-31": 4544,
-  "2023-01-01": 4548,
-  "2023-01-02": 4553,
-  "2023-01-03": 4558,
-  "2023-01-04": 4561,
-  "2023-01-05": 4563,
-  "2023-01-06": 4566,
-  "2023-01-07": 4570,
-  "2023-01-08": 4571,
-  "2023-01-09": 4574,
-  "2023-01-10": 4578,
-  "2023-01-11": 4579,
-  "2023-01-12": 4583,
-  "2023-01-13": 4584,
-  "2023-01-14": 4590,
-  "2023-01-15": 4592,
-  "2023-01-16": 4593,
-  "2023-01-17": 4599,
-  "2023-01-18": 4599,
-  "2023-01-19": 4598,
-  "2023-01-20": 4602,
-  "2023-01-21": 4607,
-  "2023-01-22": 4611,
-  "2023-01-23": 4614,
-  "2023-01-24": 4618,
-  "2023-01-25": 4619,
-  "2023-01-26": 4621,
-  "2023-01-27": 4621,
-  "2023-01-28": 4624,
-  "2023-01-29": 4626,
-  "2023-01-30": 4632,
-  "2023-01-31": 4632,
-  "2023-02-01": 4634,
-  "2023-02-02": 4639,
-  "2023-02-03": 4646,
-  "2023-02-04": 4648,
-  "2023-02-05": 4650,
-  "2023-02-06": 4655,
-  "2023-02-07": 4661,
-  "2023-02-08": 4668,
-  "2023-02-09": 4668,
-  "2023-02-10": 4673,
-  "2023-02-11": 4676,
-  "2023-02-12": 4682,
-  "2023-02-13": 4688,
-  "2023-02-14": 4688,
-  "2023-02-15": 4691,
-  "2023-02-16": 4693,
-  "2023-02-17": 4695,
-  "2023-02-18": 4699,
-  "2023-02-19": 4698,
-  "2023-02-20": 4698,
-  "2023-02-21": 4702,
-  "2023-02-22": 4706,
-  "2023-02-23": 4706,
-  "2023-02-24": 4708,
-  "2023-02-25": 4714,
-  "2023-02-26": 4715,
-  "2023-02-27": 4720,
-  "2023-02-28": 4720,
-  "2023-03-01": 4723,
-  "2023-03-02": 4725,
-  "2023-03-03": 4730,
-  "2023-03-04": 4734,
-  "2023-03-05": 4738,
-  "2023-03-06": 4738,
-  "2023-03-07": 4742,
-  "2023-03-08": 4744,
-  "2023-03-09": 4745,
-  "2023-03-10": 4747,
-  "2023-03-11": 4750,
-  "2023-03-12": 4754,
-  "2023-03-13": 4757,
-  "2023-03-14": 4760,
-  "2023-03-15": 4768,
-  "2023-03-16": 4768,
-  "2023-03-17": 4768,
-  "2023-03-18": 4774,
-  "2023-03-19": 4774,
-  "2023-03-20": 4777,
-  "2023-03-21": 4779,
-  "2023-03-22": 4784,
-  "2023-03-23": 4786,
-  "2023-03-24": 4786,
-  "2023-03-25": 4789,
-  "2023-03-26": 4793,
-  "2023-03-27": 4797,
-  "2023-03-28": 4798,
-  "2023-03-29": 4801,
-  "2023-03-30": 4802,
-  "2023-03-31": 4802,
-  "2023-04-01": 4806,
-  "2023-04-02": 4806,
-  "2023-04-03": 4811,
-  "2023-04-04": 4813,
-  "2023-04-05": 4819,
-  "2023-04-06": 4827,
-  "2023-04-07": 4833,
-  "2023-04-09": 4841,
-  "2023-04-10": 4843,
-  "2023-04-11": 4851,
-  "2023-04-12": 4851,
-  "2023-04-13": 4853,
-  "2023-04-14": 4858,
-  "2023-04-15": 4859,
-  "2023-04-16": 4858,
-  "2023-04-17": 4861,
-  "2023-04-18": 4863,
-  "2023-04-19": 4866,
-  "2023-04-20": 4870,
-  "2023-04-21": 4875,
-  "2023-04-22": 4880,
-  "2023-04-23": 4883,
-  "2023-04-24": 4885,
-  "2023-04-25": 4891,
-  "2023-04-26": 4896,
-  "2023-04-27": 4898,
-  "2023-04-28": 4898,
-  "2023-04-29": 4902,
-  "2023-04-30": 4901,
-  "2023-05-01": 4904,
-  "2023-05-02": 4904,
-  "2023-05-03": 4907,
-  "2023-05-04": 4911,
-  "2023-05-05": 4916,
-  "2023-05-06": 4919,
-  "2023-05-07": 4925,
-  "2023-05-08": 4934,
-  "2023-05-09": 4937,
-  "2023-05-10": 4939,
-  "2023-05-11": 4938,
-  "2023-05-12": 4941,
-  "2023-05-13": 4943,
-  "2023-05-14": 4949,
-  "2023-05-15": 4954,
-  "2023-05-16": 4954,
-  "2023-05-17": 4957,
-  "2023-05-18": 4961,
-  "2023-05-19": 4965,
-  "2023-05-20": 4972,
-  "2023-05-21": 4972,
-  "2023-05-22": 4972,
-  "2023-05-23": 4981,
-  "2023-05-24": 4981,
-  "2023-05-25": 4983,
-  "2023-05-26": 4986,
-  "2023-05-27": 4988,
-  "2023-05-28": 4993,
-  "2023-05-29": 4993,
-  "2023-05-30": 5001,
-  "2023-05-31": 5003,
-  "2023-06-01": 5004,
-  "2023-06-02": 5007,
-  "2023-06-03": 5009,
-  "2023-06-04": 5014,
-  "2023-06-05": 5019,
-  "2023-06-06": 5021,
-  "2023-06-07": 5028,
-  "2023-06-08": 5028,
-  "2023-06-09": 5030,
-  "2023-06-10": 5031,
-  "2023-06-11": 5038,
-  "2023-06-12": 5041,
-  "2023-06-13": 5042,
-  "2023-06-14": 5045,
-  "2023-06-15": 5047,
-  "2023-06-16": 5052,
-  "2023-06-17": 5056,
-  "2023-06-18": 5062,
-  "2023-06-19": 5061,
-  "2023-06-20": 5063,
-  "2023-06-21": 5065,
-  "2023-06-22": 5067,
-  "2023-06-23": 5073,
-  "2023-06-24": 5077,
-  "2023-06-25": 5082,
-  "2023-06-26": 5084,
-  "2023-06-27": 5084,
-  "2023-06-28": 5086,
-  "2023-06-29": 5087,
-  "2023-06-30": 5088,
-  "2023-07-01": 5096,
-  "2023-07-02": 5096,
-  "2023-07-03": 5098,
-  "2023-07-04": 5099,
-  "2023-07-05": 5104,
-  "2023-07-06": 5114,
-  "2023-07-07": 5114,
-  "2023-07-08": 5118,
-  "2023-07-09": 5121,
-  "2023-07-10": 5124,
-  "2023-07-11": 5123,
-  "2023-07-12": 5123,
-  "2023-07-13": 5126,
-  "2023-07-14": 5126,
-  "2023-07-15": 5127,
-  "2023-07-16": 5130,
-  "2023-07-17": 5133,
-  "2023-07-18": 5135,
-  "2023-07-19": 5139,
-  "2023-07-20": 5139,
-  "2023-07-21": 5140,
-  "2023-07-22": 5146,
-  "2023-07-23": 5147,
-  "2023-07-24": 5148,
-  "2023-07-25": 5154,
-  "2023-07-26": 5154,
-  "2023-07-27": 5157,
-  "2023-07-28": 5164,
-  "2023-07-29": 5164,
-  "2023-07-30": 5166,
-  "2023-07-31": 5169,
-  "2023-08-01": 5167,
-  "2023-08-02": 5171,
-  "2023-08-03": 5173,
-  "2023-08-04": 5181,
-  "2023-08-05": 5183,
-  "2023-08-06": 5193,
-  "2023-08-07": 5193,
-  "2023-08-08": 5199,
-  "2023-08-09": 5201,
-  "2023-08-10": 5206,
-  "2023-08-11": 5207,
-  "2023-08-12": 5207,
-  "2023-08-13": 5207,
-  "2023-08-14": 5213,
-  "2023-08-15": 5213,
-  "2023-08-16": 5213,
-  "2023-08-17": 5213,
-  "2023-08-18": 5213,
-  "2023-08-19": 5213,
-  "2023-08-20": 5231,
-  "2023-08-21": 5231,
-  "2023-08-22": 5236,
-  "2023-08-23": 5236,
-  "2023-08-24": 5236,
-  "2023-08-25": 5236,
-  "2023-08-26": 5250,
-  "2023-08-27": 5250,
-  "2023-08-28": 5257,
-  "2023-08-29": 5257,
-  "2023-08-30": 5257,
-  "2023-08-31": 5265,
-  "2023-09-01": 5268,
-  "2023-09-02": 5268,
-  "2023-09-03": 5277,
-  "2023-09-04": 5277,
-  "2023-09-05": 5277,
-  "2023-09-06": 5283,
-  "2023-09-07": 5283,
-  "2023-09-08": 5283,
-  "2023-09-09": 5283,
-  "2023-09-10": 5301,
-  "2023-09-11": 5301,
-  "2023-09-12": 5301,
-  "2023-09-13": 5310,
-  "2023-09-14": 5310,
-  "2023-09-15": 5310,
-  "2023-09-16": 5314,
-  "2023-09-17": 5314,
-  "2023-09-18": 5314,
-  "2023-09-19": 5316,
-  "2023-09-20": 5316,
-  "2023-09-21": 5316,
-  "2023-09-22": 5322,
-  "2023-09-23": 5322,
-  "2023-09-24": 5322,
-  "2023-09-25": 5322,
-  "2023-09-26": 5336,
-  "2023-09-27": 5336,
-  "2023-09-28": 5336,
-  "2023-09-29": 5336,
-  "2023-09-30": 5336,
-  "2023-10-01": 5336,
-  "2023-10-02": 5347,
-  "2023-10-03": 5347,
-  "2023-10-04": 5347,
-  "2023-10-05": 5353,
-  "2023-10-06": 5353,
-  "2023-10-07": 5353,
-  "2023-10-08": 5353,
-  "2023-10-09": 5353,
-  "2023-10-10": 5353,
-  "2023-10-11": 5372,
-  "2023-10-12": 5372,
-  "2023-10-13": 5372,
-  "2023-10-14": 5372,
-  "2023-10-15": 5372,
-  "2023-10-16": 5372,
-  "2023-10-17": 5372,
-  "2023-10-18": 5372,
-  "2023-10-19": 5372,
-  "2023-10-20": 5372,
-  "2023-10-21": 5372,
-  "2023-10-22": 5372,
-  "2023-10-23": 5372,
-  "2023-10-24": 5372,
-  "2023-10-25": 5372,
-  "2023-10-26": 5372,
-  "2023-10-27": 5372,
-  "2023-10-28": 5372,
-  "2023-10-29": 5372,
-  "2023-10-30": 5372,
-  "2023-10-31": 5372,
-  "2023-11-01": 5372,
-  "2023-11-02": 5372,
-  "2023-11-03": 5372,
-  "2023-11-04": 5372,
-  "2023-11-05": 5372,
-  "2023-11-06": 5372,
-  "2023-11-07": 5372,
-  "2023-11-08": 5372,
-  "2023-11-09": 5372,
-  "2023-11-10": 5372,
-  "2023-11-11": 5449,
-  "2023-11-12": 5449,
-  "2023-11-13": 5449,
-  "2023-11-14": 5449,
-  "2023-11-15": 5449,
-  "2023-11-16": 5449,
-  "2023-11-17": 5449,
-  "2023-11-18": 5449,
-  "2023-11-19": 5449,
-  "2023-11-20": 5449,
-  "2023-11-21": 5449,
-  "2023-11-22": 5449,
-  "2023-11-23": 5449,
-  "2023-11-24": 5449,
-  "2023-11-25": 5449,
-  "2023-11-26": 5449,
-  "2023-11-27": 5449,
-  "2023-11-28": 5449,
-  "2023-11-29": 5449,
-  "2023-11-30": 5449,
-  "2023-12-01": 5449,
-  "2023-12-02": 5449,
-  "2023-12-03": 5449,
-  "2023-12-04": 5449,
-  "2023-12-05": 5449,
-  "2023-12-06": 5449,
-  "2023-12-07": 5449,
-  "2023-12-08": 5449,
-  "2023-12-09": 5449,
-  "2023-12-10": 5449,
-  "2023-12-11": 5449,
-  "2023-12-12": 5449,
-  "2023-12-13": 5449,
-  "2023-12-14": 5526,
-  "2023-12-15": 5526,
-  "2023-12-16": 5531,
-  "2023-12-17": 5532,
-  "2023-12-18": 5535,
-  "2023-12-19": 5540,
-  "2023-12-20": 5543,
-  "2023-12-21": 5544,
-  "2023-12-22": 5550,
-  "2023-12-23": 5550,
-  "2023-12-24": 5551,
-  "2023-12-25": 5554,
-  "2023-12-26": 5559,
-  "2023-12-27": 5561,
-  "2023-12-30": 5565,
-  "2023-12-31": 5568,
-  "2024-01-01": 5570,
-  "2024-01-02": 5574,
-  "2024-01-03": 5575
+  "2024-01-17": 5651,
+  "date_first_scraped": "2022-05-26",
+  "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
+  "name": "This Is The Three Degrees",
+  "tracks": [
+    {
+      "album": {
+        "name": "Love Train",
+        "url": "https://open.spotify.com/album/1nzZhYtbe8GFuZewHrba0h"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 263026,
+      "name": "A Tender Lie",
+      "url": "https://open.spotify.com/track/01jqak2GWNeXgYfqzibrvr"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 259013,
+      "name": "A Woman Needs A Good Man",
+      "url": "https://open.spotify.com/track/6WOGuewVo54QJIGsXDxjo9"
+    },
+    {
+      "album": {
+        "name": "International",
+        "url": "https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251120,
+      "name": "Another Heartache",
+      "url": "https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152533,
+      "name": "Can't You See What You're Doing To Me",
+      "url": "https://open.spotify.com/track/7esa3lQi1Ixu8kK2lGF8YB"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 189346,
+      "name": "Caught Between Two Fires",
+      "url": "https://open.spotify.com/track/66FHvvHSCv8eSFzGeQmJYL"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Best Of The Roulette Years",
+        "url": "https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 180426,
+      "name": "Collage",
+      "url": "https://open.spotify.com/track/6AI9Z7xC2Gf9kaIdx6lqD0"
+    },
+    {
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180426,
+      "name": "Collage",
+      "url": "https://open.spotify.com/track/6phBZrGz8O3i5rzol5TYmz"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez"
+      },
+      "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151786,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1qzZUUlJsvDJ10QvzcO304"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275746,
+      "name": "Dirty Ol' Man",
+      "url": "https://open.spotify.com/track/2svNxzjcNhy1U9JhaxAaQa"
+    },
+    {
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 244253,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
+    },
+    {
+      "album": {
+        "name": "International",
+        "url": "https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244253,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/77IGjPxsNS0ZKBgtyrQ6mQ"
+    },
+    {
+      "album": {
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137866,
+      "name": "Drivin' Me Mad",
+      "url": "https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez"
+      },
+      "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137573,
+      "name": "End Titles",
+      "url": "https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Three Degrees: When Will I See You Again",
+        "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214266,
+      "name": "Everybody Gets to Go to the Moon - Live",
+      "url": "https://open.spotify.com/track/3Uzj51MegrbwSZg9hBFfpX"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 138760,
+      "name": "Find My Way (Mono)",
+      "url": "https://open.spotify.com/track/6idx90MHZPYXkIyMZLHNSb"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163626,
+      "name": "Free Ride - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
+    },
+    {
+      "album": {
+        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
+        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124200,
+      "name": "Gee Baby (I'm Sorry)",
+      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
+    },
+    {
+      "album": {
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 293906,
+      "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
+      "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Three Degrees: When Will I See You Again",
+        "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Get Your Love Back",
+      "url": "https://open.spotify.com/track/5sgrsPuLZZrUn9g2tGESRp"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234800,
+      "name": "Givin' Up Givin' In",
+      "url": "https://open.spotify.com/track/69F4BXLcsrlHg2s2mViAfG"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes / Gotta Draw the Line",
+        "url": "https://open.spotify.com/album/4SkEdHeraLeqe5stv41pq9"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "Gotta Draw the Line",
+      "url": "https://open.spotify.com/track/7HNVtnLuq2lmKMPB9kFj1A"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 180053,
+      "name": "Handle with Care",
+      "url": "https://open.spotify.com/track/1bqSqoMH7GA9pRJYHdAnNd"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 200333,
+      "name": "Harlem - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/5eLe5XqyTIvEqqET5s03DG"
+    },
+    {
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 234146,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf"
+    },
+    {
+      "album": {
+        "name": "Holding Back (Lounge Remix)",
+        "url": "https://open.spotify.com/album/0dvUplDgs0OvKxPcIls9T8"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 272065,
+      "name": "Holding Back (Lounge Remix)",
+      "url": "https://open.spotify.com/track/5eh1kdp9Go1FDHWxLGUGoU"
+    },
+    {
+      "album": {
+        "name": "Dancing with the Divas",
+        "url": "https://open.spotify.com/album/6thYx7uC3WcCxvbbvyQlzo"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 219186,
+      "name": "Holding Back - Glamma Edit",
+      "url": "https://open.spotify.com/track/6f7kXH7E0UCdKHCfv9bxsx"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169680,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/21Y28bL36SaVy1tRc6KATk"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196546,
+      "name": "I Do Take You",
+      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 237706,
+      "name": "I Like Being A Woman",
+      "url": "https://open.spotify.com/track/1J8gk2wlXNnsabMGUOutl3"
+    },
+    {
+      "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196106,
+      "name": "I Turn to You - Mono Version",
+      "url": "https://open.spotify.com/track/4WNofpNcxMXpnAPzu5c6Fz"
+    },
+    {
+      "album": {
+        "name": "Tales Are True / I Wanna Be Your Baby",
+        "url": "https://open.spotify.com/album/5m0vIwKgbBqhDKQ1s3yeiW"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 171960,
+      "name": "I Wanna Be Your Baby",
+      "url": "https://open.spotify.com/track/7jyu10lLeLdV1dWtFmn9Yw"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Best Of The Roulette Years",
+        "url": "https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 178213,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/0EDADfWHwCXlZDETMCBW3m"
+    },
+    {
+      "album": {
+        "name": "I'm Gonna Need You / Just Right for Love",
+        "url": "https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 172133,
+      "name": "I'm Gonna Need You",
+      "url": "https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429160,
+      "name": "If And When",
+      "url": "https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 193533,
+      "name": "If You Must Leave My Life",
+      "url": "https://open.spotify.com/track/3shCTJnZKOJ7YdHVBRHg4c"
+    },
+    {
+      "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 193533,
+      "name": "If You Must Leave My Life",
+      "url": "https://open.spotify.com/track/5icPV15prKmFvjRnwQ1lsS"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 232906,
+      "name": "Isn't It a Pity",
+      "url": "https://open.spotify.com/track/4wlBhCofkw3WkNKXo9wWni"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Best Of The Roulette Years",
+        "url": "https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 232906,
+      "name": "Isn't It a Pity",
+      "url": "https://open.spotify.com/track/7jS85VOyC98H3uqIUFo0cj"
+    },
+    {
+      "album": {
+        "name": "Treasure Isle In Dub: Rare Dubs 1970-1978",
+        "url": "https://open.spotify.com/album/1cA0JUShXHlsosSZcWMfRt"
+      },
+      "artists": [
+        {
+          "name": "Bunny Lee",
+          "url": "https://open.spotify.com/artist/79gBZXBZwJs2cBerjhgAxI"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "It's Raining Dub",
+      "url": "https://open.spotify.com/track/7E6uigxRWr5GZDMlCEQDsV"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239160,
+      "name": "Jump The Gun",
+      "url": "https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1"
+    },
+    {
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244160,
+      "name": "La chanson poupulaire",
+      "url": "https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ"
+    },
+    {
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244866,
+      "name": "Lonelier Are Fools",
+      "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 173240,
+      "name": "Lonely Town",
+      "url": "https://open.spotify.com/track/53McY1IpPZJ8v4HyOMi9vm"
+    },
+    {
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 173240,
+      "name": "Lonely Town",
+      "url": "https://open.spotify.com/track/5b7OwoCMxAOXnQnz8O0zbR"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Three Degrees: When Will I See You Again",
+        "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177626,
+      "name": "Long Lost Lover",
+      "url": "https://open.spotify.com/track/6NUvRBMnhKax5XvI2I4a62"
+    },
+    {
+      "album": {
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157773,
+      "name": "Look in My Eyes",
+      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
+    },
+    {
+      "album": {
+        "name": "Deep Grooves",
+        "url": "https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313906,
+      "name": "Love Is the Message (feat. The Three Degrees) - Love Groove Bonus",
+      "url": "https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP"
+    },
+    {
+      "album": {
+        "name": "Silvester 70er Hits",
+        "url": "https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 230653,
+      "name": "Love the One Your With",
+      "url": "https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 302642,
+      "name": "Love Train - Live",
+      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 408346,
+      "name": "Love Train - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/6T19ChkTtuvJSKcg3xt0Mn"
+    },
+    {
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 187066,
+      "name": "Loving Cup",
+      "url": "https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 193946,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/5Yif0s3XbfCnznoFkvbQSG"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Best Of The Roulette Years",
+        "url": "https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 404080,
+      "name": "MacArthur Park",
+      "url": "https://open.spotify.com/track/5ORCXq29lxskGi0V082NBl"
+    },
+    {
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 404080,
+      "name": "MacArthur Park",
+      "url": "https://open.spotify.com/track/6SqeK2h7wWHs0BqtEJ5u9r"
+    },
+    {
+      "album": {
+        "name": "Pop Masters: Vital Signs",
+        "url": "https://open.spotify.com/album/2d2RfYN5iMdhTOqBDuE5IO"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 286480,
+      "name": "Make It Easy On Yourself",
+      "url": "https://open.spotify.com/track/1c011SkU9d45oKg0woHXr6"
+    },
+    {
+      "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337946,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 210826,
+      "name": "Melting Pot (Mono Version)",
+      "url": "https://open.spotify.com/track/5OAfwamRaDmPHynFb3vJtr"
+    },
+    {
+      "album": {
+        "name": "Doing Fine",
+        "url": "https://open.spotify.com/album/3TtzcnFBXLAbgqzQkU4u3Y"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 246480,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/6iIFbQlbPGfTIv70it0hLT"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269200,
+      "name": "My Simple Heart",
+      "url": "https://open.spotify.com/track/1DPxZZCpNJ0zbgrvVZ4Ni4"
+    },
+    {
+      "album": {
+        "name": "60's Girl Groups",
+        "url": "https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "No, No Not Again",
+      "url": "https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/40eFBdD9yoC9f6NbqlYZbp"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 322173,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/4brsAsm0UZztPTUuMZaLn4"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Best Of The Roulette Years",
+        "url": "https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 274480,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5da5BnxJydeLtlmhjwCBaA"
+    },
+    {
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
+    },
+    {
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 234666,
+      "name": "Somos Novios (It's Impossible)",
+      "url": "https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 219800,
+      "name": "Standing Up For Love",
+      "url": "https://open.spotify.com/track/6v4WVyvDlAvpTBuQe9RL8B"
+    },
+    {
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 235693,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r"
+    },
+    {
+      "album": {
+        "name": "Strategy: Our Tribute to Philadelphia",
+        "url": "https://open.spotify.com/album/6UGp2YJFRY7iqtzbkPKNGs"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 264680,
+      "name": "Strategy",
+      "url": "https://open.spotify.com/track/7JxDelauco6wQBtPHh4nWM"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/14BaP4HtDt9fZPg9BSawkL"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 203600,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/26OtHPTkmfORwu9yAZczJS"
+    },
+    {
+      "album": {
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
+    },
+    {
+      "album": {
+        "name": "Love Is The Message",
+        "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222346,
+      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
+      "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 228333,
+      "name": "T.S.O.P. (The Sound Of Philadelphia) - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/45zlvuzYYe5jcG8VX9XXEZ"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits (Re-recorded)",
+        "url": "https://open.spotify.com/album/5UDCcqlQ9mEJ1Bhgy4mcL6"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 174653,
+      "name": "T.S.O.P. - The Sound Of Philadelphia - Rerecorded",
+      "url": "https://open.spotify.com/track/3nmNoQu3fG7shfIw3XBetT"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Three Degrees: When Will I See You Again",
+        "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203933,
+      "name": "Take Good Care of Yourself",
+      "url": "https://open.spotify.com/track/5atFgDE8TM07EhCKkBIPlq"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 205133,
+      "name": "Take Good Care of Yourself",
+      "url": "https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "The Grass (Will Sing for You) [Mono Version]",
+      "url": "https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2"
+    },
+    {
+      "album": {
+        "name": "The Heaven I Need",
+        "url": "https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197456,
+      "name": "The Heaven I Need (Backing Track)",
+      "url": "https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl"
+    },
+    {
+      "album": {
+        "name": "The Heaven I Need",
+        "url": "https://open.spotify.com/album/5BrtfX0BIYysyPYyfDEA7J"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 197456,
+      "name": "The Heaven I Need - Single Version",
+      "url": "https://open.spotify.com/track/3XjxAp2oPICHJTXUDTga2f"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "The Magic Door",
+      "url": "https://open.spotify.com/track/5B94YFQfQ42lnEoOn3tA7M"
+    },
+    {
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 153040,
+      "name": "The Magic Door",
+      "url": "https://open.spotify.com/track/7pdps9Rup0JFhYwaoiXyO5"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262040,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Blues Vol. 1",
+        "url": "https://open.spotify.com/album/5N8SLaE9OqRB2HhH4qNe8Y"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
+      "duration_ms": 173640,
+      "name": "The Sound of Philadelphia",
+      "url": "https://open.spotify.com/track/4pJVcScT1pDGpCgLk6LnSL"
+    },
+    {
+      "album": {
+        "name": "Uplifting Soul Classics",
+        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159626,
+      "name": "There's So Much Love All Around Me",
+      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
+    },
+    {
+      "album": {
+        "name": "This Is the House",
+        "url": "https://open.spotify.com/album/3g1eUz81JzJzie1W6CmbiM"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 221056,
+      "name": "This Is the House",
+      "url": "https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 187880,
+      "name": "Through Misty Eyes (Mono Version)",
+      "url": "https://open.spotify.com/track/060nY8Cccr0RQzDfHuHF5I"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221093,
+      "name": "Toast Of Love",
+      "url": "https://open.spotify.com/track/3fHPWPG4Ef7cI7vOZYTeJZ"
+    },
+    {
+      "album": {
+        "name": "International",
+        "url": "https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277320,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 273506,
+      "name": "Trade Winds",
+      "url": "https://open.spotify.com/track/2uzwlTsKQimo498MeuJFgb"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees - The Very Best Of",
+        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees - The Very Best Of",
+        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "What I Did for Love",
+      "url": "https://open.spotify.com/track/5ivPBMpp37NridLZrQDwsx"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "album": {
+        "name": "When Will I See You Again",
+        "url": "https://open.spotify.com/album/0KAz7SC26vWkTyllKBC239"
+      },
+      "artists": [
+        {
+          "name": "Thomas Anders",
+          "url": "https://open.spotify.com/artist/5YST2BJLoQVVhyXoZfbCZ0"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/4euw74YAO8Q0dsOClYq0cM"
+    },
+    {
+      "album": {
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 481640,
+      "name": "When Will I See You Again / Love Train - Live Medley",
+      "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
+    },
+    {
+      "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Who Is She and What Is She to You",
+      "url": "https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253960,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/4r6kWCkQEI5Ef3LQCu5zoV"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161813,
+      "name": "Year Of Decision",
+      "url": "https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Best Of The Roulette Years",
+        "url": "https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 169640,
+      "name": "You're the Fool",
+      "url": "https://open.spotify.com/track/0Gvcv8098ht4cz0gZTqrc5"
+    },
+    {
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169640,
+      "name": "You're the Fool",
+      "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
+    },
+    {
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204520,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4"
+    },
+    {
+      "album": {
+        "name": "Maybe / Yours",
+        "url": "https://open.spotify.com/album/1Ghs1ydR25taZze9hXHjib"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 164135,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6KcKPjE7ysZTnox78X3Uw7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl"
 }

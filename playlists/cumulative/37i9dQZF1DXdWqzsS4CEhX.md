@@ -4,7 +4,7 @@
 
 > La hora de la nostalgia es patrocinada por tus baladas favoritas.
 
-80 songs - 5 hr 57 min
+81 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/40dJCw4xU6Bd5ie9rfagNo) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/4yaypP8ytl2ghM2kiNSD8a) | 4:11 | 2022-04-19 | 2022-07-29 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-04-19 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/7FjO6tymaNxO9Jr4xqmvZh) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Cinematic Reflections](https://open.spotify.com/album/4ozY3aWk7ip0JxqDRcpBG5) | 4:13 | 2022-10-03 | 2022-11-13 |
-| [Eye in the Sky \- Remastered](https://open.spotify.com/track/5BaiGbqPEazQvJ4IjXCKzH) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Platinum & Gold Collection](https://open.spotify.com/album/4ltvv5PsmocuDZky3IzPaK) | 4:32 | 2022-04-19 |  |
+| [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 | 2023-11-16 |  |
+| [Eye in the Sky \- Remastered](https://open.spotify.com/track/5BaiGbqPEazQvJ4IjXCKzH) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Platinum & Gold Collection](https://open.spotify.com/album/4ltvv5PsmocuDZky3IzPaK) | 4:32 | 2022-04-19 | 2024-01-06 |
 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 | 2023-11-16 |  |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-04-19 |  |
 | [Funkytown](https://open.spotify.com/track/37yIrMPeJYRm7zJ8rr3Uvv) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Throwback Tunes: 1980](https://open.spotify.com/album/0uYxyIZYfUPYEUYUpBaowN) | 3:58 | 2022-04-19 |  |

@@ -1,10 +1,955 @@
 {
-  "2023-12-25": 125428,
-  "2023-12-26": 125470,
-  "2023-12-27": 125542,
-  "2023-12-30": 125726,
-  "2023-12-31": 125784,
-  "2024-01-01": 125851,
-  "2024-01-02": 125922,
-  "2024-01-03": 126001
+  "2024-01-17": 126763,
+  "date_first_scraped": "2023-12-25",
+  "description": "This is Kenny G. The essential tracks, all in one playlist.",
+  "name": "This Is Kenny G",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Mother's Lullaby",
+        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197125,
+      "name": "A Mother\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334160,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1i2GAfGtYhaveFdUX3mcgj"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Baby G",
+      "url": "https://open.spotify.com/track/43BthQDBthBJM8dflfeoIF"
+    },
+    {
+      "album": {
+        "name": "Brazilian Nights (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/1q4S6jIILSpd6Ws7wP35fk"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285893,
+      "name": "By The Time This Night Is Over (with Peabo Bryson)",
+      "url": "https://open.spotify.com/track/1ayBTblH8cbaAGYpXTeaQR"
+    },
+    {
+      "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77374,
+      "name": "Clair de Lune (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa"
+    },
+    {
+      "album": {
+        "name": "At Last...The Duets Album",
+        "url": "https://open.spotify.com/album/4XyegEYaF8gFxDI4OB3T4W"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272026,
+      "name": "Don't Know Why (feat. David Benoit)",
+      "url": "https://open.spotify.com/track/6OYTX5S8bqRA7CeUtpzBR5"
+    },
+    {
+      "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245773,
+      "name": "Don't Make Me Wait for Love",
+      "url": "https://open.spotify.com/track/4xbJyF9RDa1VLoZNoCFy1r"
+    },
+    {
+      "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207757,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256519,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2"
+    },
+    {
+      "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296266,
+      "name": "Every Time I Close My Eyes (with Kenny G)",
+      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298066,
+      "name": "Everytime I Close My Eyes (with Babyface)",
+      "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299493,
+      "name": "Forever in Love",
+      "url": "https://open.spotify.com/track/13cpOnmccZGVGFngLxYN4I"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256506,
+      "name": "Going Home - Edit",
+      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440400,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
+    },
+    {
+      "album": {
+        "name": "Brazilian Nights (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281906,
+      "name": "Heart And Soul - Live",
+      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261866,
+      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
+      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
+    },
+    {
+      "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242026,
+      "name": "I'm in the Mood for Love",
+      "url": "https://open.spotify.com/track/64wNfDYFufvc9pZqqLPMWW"
+    },
+    {
+      "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205160,
+      "name": "If",
+      "url": "https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300466,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276813,
+      "name": "Jasmine Flower",
+      "url": "https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Loving You - Edit",
+      "url": "https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9"
+    },
+    {
+      "album": {
+        "name": "Lullaby Tres",
+        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124976,
+      "name": "Lullaby Tres",
+      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
+    },
+    {
+      "album": {
+        "name": "Amore (Remastered)",
+        "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Berlincioni",
+          "url": "https://open.spotify.com/artist/7EI7G45KH76Fdywj5JhX0h"
+        },
+        {
+          "name": "Gianfranco Fasano",
+          "url": "https://open.spotify.com/artist/5hTXF4Di7MKw9UeTIBE52A"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214572,
+      "name": "Mi manchi",
+      "url": "https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE"
+    },
+    {
+      "album": {
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273306,
+      "name": "Missing You Now (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313933,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
+    },
+    {
+      "album": {
+        "name": "Songbird: The Best Of Kenny G",
+        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261200,
+      "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
+      "url": "https://open.spotify.com/track/5f2u9cxFcnNAmYEEkIVGkw"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Chant\u00e9 Moore",
+          "url": "https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241066,
+      "name": "One More Time (feat. Chante Moore)",
+      "url": "https://open.spotify.com/track/3jWIQKsrPtAxQEWJ0V89xR"
+    },
+    {
+      "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192492,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
+    },
+    {
+      "album": {
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395040,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/5I7uF6AdRy5SbtHE6k1QJo"
+    },
+    {
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327600,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"
+    },
+    {
+      "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302266,
+      "name": "That Somebody Was You (with Toni Braxton)",
+      "url": "https://open.spotify.com/track/3xLKkJUafOtel0oe25XABQ"
+    },
+    {
+      "album": {
+        "name": "Songbird: The Best Of Kenny G",
+        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259146,
+      "name": "The Champion's Theme",
+      "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
+    },
+    {
+      "album": {
+        "name": "Classics In The Key Of G",
+        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "The Girl from Ipanema (feat. Bebel Gilberto)",
+      "url": "https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ"
+    },
+    {
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260760,
+      "name": "The Joy of Life",
+      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315293,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/3k9Yi9FsAUrpOVTgyQOIDa"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361466,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh"
+    },
+    {
+      "album": {
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313560,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN"
+    },
+    {
+      "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "The Way We Were",
+      "url": "https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242266,
+      "name": "Theme from \"Dying Young\"",
+      "url": "https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25"
+    },
+    {
+      "album": {
+        "name": "JESUS IS KING",
+        "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213877,
+      "name": "Use This Gospel",
+      "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
+    },
+    {
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258466,
+      "name": "We've Saved the Best for Last",
+      "url": "https://open.spotify.com/track/2LqA7jb7WOlsxTHlzEOG1b"
+    },
+    {
+      "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD"
+    },
+    {
+      "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "You Send Me (with Michael Bolton)",
+      "url": "https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k"
+    },
+    {
+      "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252866,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy"
 }

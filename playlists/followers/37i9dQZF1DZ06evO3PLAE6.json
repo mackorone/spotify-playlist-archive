@@ -1,200 +1,1145 @@
 {
-  "2023-06-18": 8668,
-  "2023-06-19": 8673,
-  "2023-06-20": 8680,
-  "2023-06-21": 8685,
-  "2023-06-22": 8690,
-  "2023-06-23": 8695,
-  "2023-06-24": 8703,
-  "2023-06-25": 8713,
-  "2023-06-26": 8717,
-  "2023-06-27": 8729,
-  "2023-06-28": 8735,
-  "2023-06-29": 8738,
-  "2023-06-30": 8746,
-  "2023-07-01": 8760,
-  "2023-07-02": 8760,
-  "2023-07-03": 8763,
-  "2023-07-04": 8764,
-  "2023-07-05": 8768,
-  "2023-07-06": 8792,
-  "2023-07-07": 8792,
-  "2023-07-08": 8792,
-  "2023-07-09": 8813,
-  "2023-07-10": 8819,
-  "2023-07-11": 8827,
-  "2023-07-12": 8831,
-  "2023-07-13": 8840,
-  "2023-07-14": 8851,
-  "2023-07-15": 8850,
-  "2023-07-16": 8864,
-  "2023-07-17": 8877,
-  "2023-07-18": 8885,
-  "2023-07-19": 8889,
-  "2023-07-20": 8889,
-  "2023-07-21": 8907,
-  "2023-07-22": 8916,
-  "2023-07-23": 8931,
-  "2023-07-24": 8936,
-  "2023-07-25": 8938,
-  "2023-07-26": 8946,
-  "2023-07-27": 8950,
-  "2023-07-28": 8963,
-  "2023-07-29": 8970,
-  "2023-07-30": 8980,
-  "2023-07-31": 8986,
-  "2023-08-01": 8994,
-  "2023-08-02": 8995,
-  "2023-08-03": 9001,
-  "2023-08-04": 9005,
-  "2023-08-05": 9009,
-  "2023-08-06": 9025,
-  "2023-08-07": 9025,
-  "2023-08-08": 9032,
-  "2023-08-09": 9034,
-  "2023-08-10": 9037,
-  "2023-08-11": 9042,
-  "2023-08-12": 9042,
-  "2023-08-13": 9042,
-  "2023-08-14": 9063,
-  "2023-08-15": 9063,
-  "2023-08-16": 9063,
-  "2023-08-17": 9063,
-  "2023-08-18": 9063,
-  "2023-08-19": 9063,
-  "2023-08-20": 9099,
-  "2023-08-21": 9099,
-  "2023-08-22": 9113,
-  "2023-08-23": 9113,
-  "2023-08-24": 9113,
-  "2023-08-25": 9113,
-  "2023-08-26": 9136,
-  "2023-08-27": 9136,
-  "2023-08-28": 9149,
-  "2023-08-29": 9149,
-  "2023-08-30": 9149,
-  "2023-08-31": 9161,
-  "2023-09-01": 9170,
-  "2023-09-02": 9170,
-  "2023-09-03": 9170,
-  "2023-09-04": 9170,
-  "2023-09-05": 9170,
-  "2023-09-06": 9170,
-  "2023-09-07": 9170,
-  "2023-09-08": 9170,
-  "2023-09-09": 9170,
-  "2023-09-10": 9170,
-  "2023-09-11": 9170,
-  "2023-09-12": 9170,
-  "2023-09-13": 9170,
-  "2023-09-14": 9170,
-  "2023-09-15": 9170,
-  "2023-09-16": 9252,
-  "2023-09-17": 9252,
-  "2023-09-18": 9252,
-  "2023-09-19": 9278,
-  "2023-09-20": 9278,
-  "2023-09-21": 9278,
-  "2023-09-22": 9291,
-  "2023-09-23": 9291,
-  "2023-09-24": 9291,
-  "2023-09-25": 9291,
-  "2023-09-26": 9326,
-  "2023-09-27": 9326,
-  "2023-09-28": 9326,
-  "2023-09-29": 9326,
-  "2023-09-30": 9326,
-  "2023-10-01": 9326,
-  "2023-10-02": 9326,
-  "2023-10-03": 9326,
-  "2023-10-04": 9326,
-  "2023-10-05": 9326,
-  "2023-10-06": 9326,
-  "2023-10-07": 9326,
-  "2023-10-08": 9326,
-  "2023-10-09": 9326,
-  "2023-10-10": 9326,
-  "2023-10-11": 9412,
-  "2023-10-12": 9412,
-  "2023-10-13": 9412,
-  "2023-10-14": 9412,
-  "2023-10-15": 9412,
-  "2023-10-16": 9412,
-  "2023-10-17": 9412,
-  "2023-10-18": 9412,
-  "2023-10-19": 9412,
-  "2023-10-20": 9412,
-  "2023-10-21": 9412,
-  "2023-10-22": 9412,
-  "2023-10-23": 9412,
-  "2023-10-24": 9412,
-  "2023-10-25": 9412,
-  "2023-10-26": 9412,
-  "2023-10-27": 9412,
-  "2023-10-28": 9412,
-  "2023-10-29": 9412,
-  "2023-10-30": 9412,
-  "2023-10-31": 9412,
-  "2023-11-01": 9412,
-  "2023-11-02": 9412,
-  "2023-11-03": 9412,
-  "2023-11-04": 9412,
-  "2023-11-05": 9412,
-  "2023-11-06": 9412,
-  "2023-11-07": 9412,
-  "2023-11-08": 9412,
-  "2023-11-09": 9412,
-  "2023-11-10": 9412,
-  "2023-11-11": 9552,
-  "2023-11-12": 9552,
-  "2023-11-13": 9552,
-  "2023-11-14": 9552,
-  "2023-11-15": 9552,
-  "2023-11-16": 9552,
-  "2023-11-17": 9552,
-  "2023-11-18": 9552,
-  "2023-11-19": 9552,
-  "2023-11-20": 9552,
-  "2023-11-21": 9552,
-  "2023-11-22": 9552,
-  "2023-11-23": 9552,
-  "2023-11-24": 9552,
-  "2023-11-25": 9552,
-  "2023-11-26": 9552,
-  "2023-11-27": 9552,
-  "2023-11-28": 9552,
-  "2023-11-29": 9552,
-  "2023-11-30": 9552,
-  "2023-12-01": 9552,
-  "2023-12-02": 9552,
-  "2023-12-03": 9552,
-  "2023-12-04": 9552,
-  "2023-12-05": 9552,
-  "2023-12-06": 9552,
-  "2023-12-07": 9552,
-  "2023-12-08": 9552,
-  "2023-12-09": 9552,
-  "2023-12-10": 9552,
-  "2023-12-11": 9552,
-  "2023-12-12": 9552,
-  "2023-12-13": 9552,
-  "2023-12-14": 9695,
-  "2023-12-15": 9698,
-  "2023-12-16": 9700,
-  "2023-12-17": 9703,
-  "2023-12-18": 9709,
-  "2023-12-19": 9709,
-  "2023-12-20": 9709,
-  "2023-12-21": 9716,
-  "2023-12-22": 9720,
-  "2023-12-23": 9722,
-  "2023-12-24": 9729,
-  "2023-12-25": 9733,
-  "2023-12-26": 9737,
-  "2023-12-27": 9739,
-  "2023-12-30": 9747,
-  "2023-12-31": 9756,
-  "2024-01-01": 9759,
-  "2024-01-02": 9759,
-  "2024-01-03": 9763
+  "2024-01-17": 9823,
+  "date_first_scraped": "2023-06-18",
+  "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
+  "name": "This Is Kasey Chambers",
+  "tracks": [
+    {
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "A Little Bit Lonesome",
+      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
+    },
+    {
+      "album": {
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "Adam and Eve",
+      "url": "https://open.spotify.com/track/2zqvygijtFwaeOtiohdu81"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257021,
+      "name": "Ain't No Little Girl",
+      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
+    },
+    {
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192986,
+      "name": "Barricades And Brickwalls",
+      "url": "https://open.spotify.com/track/0LxWErAb5oxhdSO8wTJE1u"
+    },
+    {
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194186,
+      "name": "Beautiful Mess",
+      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
+    },
+    {
+      "album": {
+        "name": "She Will Have Her Way - The Songs Of Tim & Neil Finn",
+        "url": "https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/1gVTqBN71D8imfxxq9gRxD"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 199773,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
+    },
+    {
+      "album": {
+        "name": "Cannot Buy My Soul: The Songs Of Kev Carmody (2020 Edition)",
+        "url": "https://open.spotify.com/album/4dN2UoUgVj9oIq0VSFkHEZ"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Jimmy Barnes",
+          "url": "https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229034,
+      "name": "Black Bess",
+      "url": "https://open.spotify.com/track/73X9kXbVeHzKtWnWLaGSHI"
+    },
+    {
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245866,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
+    },
+    {
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "Cry Like A Baby",
+      "url": "https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR"
+    },
+    {
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 202960,
+      "name": "Devil On Your Back",
+      "url": "https://open.spotify.com/track/0sXG3AwAmMq4IlC0A5Tupj"
+    },
+    {
+      "album": {
+        "name": "F U Cancer",
+        "url": "https://open.spotify.com/album/5ho3Zka2kZ3gDnoR8RvZcA"
+      },
+      "artists": [
+        {
+          "name": "Catherine Britt",
+          "url": "https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Beccy Cole",
+          "url": "https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG"
+        },
+        {
+          "name": "Lyn Bowtell",
+          "url": "https://open.spotify.com/artist/25rD775DJJ1JuBZfYYPxKK"
+        },
+        {
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+        },
+        {
+          "name": "Wesley Dean",
+          "url": "https://open.spotify.com/artist/4KvLfhBh83ARBAQ8Ynm5HI"
+        },
+        {
+          "name": "Wendy Matthews",
+          "url": "https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170899,
+      "name": "F U Cancer",
+      "url": "https://open.spotify.com/track/31LIWxlhD7bnCBBRk7oITh"
+    },
+    {
+      "album": {
+        "name": "The Captain (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ig3Pw8bB9sPz2XeB2dsfe"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163252,
+      "name": "Freight Train - Remastered / 2019",
+      "url": "https://open.spotify.com/track/7zObzpCaTfCjxk93ITIETS"
+    },
+    {
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105293,
+      "name": "Georgia Brown",
+      "url": "https://open.spotify.com/track/3Jwm0yvkmn8IoRVXIOsc3p"
+    },
+    {
+      "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/5O1JpWoLxXK3IgxtxTYBmR"
+      },
+      "artists": [
+        {
+          "name": "Bliss n Eso",
+          "url": "https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263714,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/5kS79rn0ol9Ha8zyxCz8Z4"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187692,
+      "name": "Hey (with Paul Kelly)",
+      "url": "https://open.spotify.com/track/3XnN1OhwOLTYjDB1UR3Sx8"
+    },
+    {
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/7KlvXLOb3z0UFX0uBHG0x6"
+    },
+    {
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271960,
+      "name": "I Still Pray",
+      "url": "https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/2R38JdMDjMAxJ0pQmfnQvG"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 220266,
+      "name": "If We Had A Child",
+      "url": "https://open.spotify.com/track/1vMyByVaRTqcb6YLwf4cfp"
+    },
+    {
+      "album": {
+        "name": "A BEAST IS ME",
+        "url": "https://open.spotify.com/album/6lTAD8u0rkeVfmPlwPl1Mc"
+      },
+      "artists": [
+        {
+          "name": "harry hook is real",
+          "url": "https://open.spotify.com/artist/3z4MFm15zrdNOIBh7y2d33"
+        },
+        {
+          "name": "Elly Poletti",
+          "url": "https://open.spotify.com/artist/66N0DhPufyHCFxVodma0rm"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "The Strzelecki Stringbusters",
+          "url": "https://open.spotify.com/artist/01e11TEyqvqREU3HAZW0Sq"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204777,
+      "name": "jewel moon",
+      "url": "https://open.spotify.com/track/3OYyxVA9XDYCqJqTNhxjaR"
+    },
+    {
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143866,
+      "name": "Last Hard Bible",
+      "url": "https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss"
+    },
+    {
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Like A River",
+      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
+    },
+    {
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210213,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
+    },
+    {
+      "album": {
+        "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+        "url": "https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494360,
+      "name": "Lose Yourself - Live at Civic Theater, Newcastle, Australia",
+      "url": "https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT"
+    },
+    {
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189746,
+      "name": "Love Like A Hurricane",
+      "url": "https://open.spotify.com/track/4CrJxr4egNEYhniSDNITy4"
+    },
+    {
+      "album": {
+        "name": "Storybook",
+        "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 213533,
+      "name": "Luka",
+      "url": "https://open.spotify.com/track/6JlFTEQrVMz4uVDfhVk2gk"
+    },
+    {
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "Matilda No More",
+      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
+    },
+    {
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186320,
+      "name": "Monkey On A Wire",
+      "url": "https://open.spotify.com/track/7noOxZuNKyPn9mJCZFv3zr"
+    },
+    {
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199986,
+      "name": "Not Pretty Enough",
+      "url": "https://open.spotify.com/track/5fkp9yhvTJ3oJEFO1AnFzm"
+    },
+    {
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171893,
+      "name": "On A Bad Day",
+      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
+    },
+    {
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157880,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd"
+    },
+    {
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282600,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/78xEO4qUV8ZgMA5TqYbF0L"
+    },
+    {
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222386,
+      "name": "Rattlin' Bones",
+      "url": "https://open.spotify.com/track/7M6oKJS7dCDQYgaViybJh9"
+    },
+    {
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221247,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP"
+    },
+    {
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Saturated",
+      "url": "https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa"
+    },
+    {
+      "album": {
+        "name": "Everyday Amen",
+        "url": "https://open.spotify.com/album/2EVfi6XfZjOuH0ovIXP0MY"
+      },
+      "artists": [
+        {
+          "name": "Felix Riebl",
+          "url": "https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 283146,
+      "name": "Saturday Night (Speckles Of Light)",
+      "url": "https://open.spotify.com/track/5sYlg1stKUfVaOAjnBNPkE"
+    },
+    {
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "Sleeping Cold",
+      "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+    },
+    {
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249266,
+      "name": "Someone Like Me",
+      "url": "https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8"
+    },
+    {
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "Sweetest Waste Of Time",
+      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
+    },
+    {
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "The Captain",
+      "url": "https://open.spotify.com/track/1njWYdD28YORBUTF6vshxc"
+    },
+    {
+      "album": {
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155693,
+      "name": "The Quiet Life",
+      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
+    },
+    {
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170933,
+      "name": "This Flower",
+      "url": "https://open.spotify.com/track/2rzPn4z4u7vtOqGwExY4Sq"
+    },
+    {
+      "album": {
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85106,
+      "name": "Till Death Do Us Part",
+      "url": "https://open.spotify.com/track/4G2COCdrTM30M1dyrxrwF9"
+    },
+    {
+      "album": {
+        "name": "Extraordinary Girl",
+        "url": "https://open.spotify.com/album/2sXotAqmWDIBvPO4jbFFUp"
+      },
+      "artists": [
+        {
+          "name": "Jamie McDell",
+          "url": "https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 190600,
+      "name": "Tori",
+      "url": "https://open.spotify.com/track/0zMCWK0HzPd9m9RW2xTvlx"
+    },
+    {
+      "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/2vlKm70T2lTLawrgDGaK7v"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/6aRJ3Z7TpCpj58CjOwSSh2"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/0fP6sL5Q937oEJ5IawnlBM"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226446,
+      "name": "Walk a Country Mile",
+      "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
+    },
+    {
+      "album": {
+        "name": "Storybook",
+        "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 283760,
+      "name": "Water In The Fuel",
+      "url": "https://open.spotify.com/track/1LbTU7V7cis87D7qgyAD4u"
+    },
+    {
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300333,
+      "name": "Wayward Angel",
+      "url": "https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1"
+    },
+    {
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129053,
+      "name": "We're All Gonna Die Someday",
+      "url": "https://open.spotify.com/track/4Yzt8bQMvDk2YfKamGLAxR"
+    },
+    {
+      "album": {
+        "name": "Songs From The South: Paul Kelly's Greatest Hits 1985-2019",
+        "url": "https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142688,
+      "name": "When We\u2019re Both Old & Mad",
+      "url": "https://open.spotify.com/track/4dx684GtAUi86s1bzstO65"
+    },
+    {
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/7yFK6PyTCAEdb0FY16TwXS"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175832,
+      "name": "Whispering Voice",
+      "url": "https://open.spotify.com/track/6KrH808OiGT7HiwofPkOEo"
+    },
+    {
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235600,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
+    },
+    {
+      "album": {
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+      },
+      "artists": [
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148653,
+      "name": "Wreck and Ruin",
+      "url": "https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f"
+    },
+    {
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245156,
+      "name": "You Got The Car",
+      "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PLAE6"
 }

@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-112 songs - 6 hr 19 min
+113 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,13 +42,14 @@
 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 | 2023-02-24 | 2023-07-26 |
 | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/2DuDGvtZmUZZINTOvhm3CR) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/album/38xoqyWybDC5qjbsshhRkd) | 3:06 | 2023-01-04 | 2023-11-18 |
 | [Head Above Water](https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:40 | 2023-01-04 |  |
-| [Hideaway](https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hideaway](https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM) | 4:13 | 2023-08-16 |  |
+| [Hideaway](https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hideaway](https://open.spotify.com/album/0UNq2Rh80UIYuaXHwgMMQM) | 4:13 | 2023-08-16 | 2024-01-06 |
 | [Hold On To Your Love](https://open.spotify.com/track/2oxVItPArYYf155nTFCcaa) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Hold On To Your Love](https://open.spotify.com/album/62pkGnBoTgvodYHbqg8h0l) | 2:46 | 2023-01-04 | 2023-05-13 |
 | [Hollow](https://open.spotify.com/track/6QeJEhEoMNqsn2yhCvG3jc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:31 | 2023-01-04 |  |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 | 2023-01-04 |  |
 | [Hope Floats](https://open.spotify.com/track/3Rtx95usvUGG57YgHpOdZt) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Hope Floats](https://open.spotify.com/album/2b9NvHkvqvPJxN4XKYmv8G) | 3:18 | 2023-01-04 | 2023-02-03 |
 | [Hope Floats](https://open.spotify.com/track/6se0p6REzFIqJ333SCIlux) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Somebody To You](https://open.spotify.com/album/5okrovZbV2oi6t8AIZQRbk) | 3:18 | 2023-01-31 | 2023-08-12 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2023-01-04 | 2023-09-16 |
+| [I Don’t Wanna Worry](https://open.spotify.com/track/1Ej3EHORVUTtvCRh5UnslF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [I Don’t Wanna Worry](https://open.spotify.com/album/1IlkeN0XXqZcsTcJvbZISS) | 3:33 | 2024-01-05 |  |
 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 |  |
 | [I'll Follow](https://open.spotify.com/track/05oHYdKxu7cnqrZgw6CiLK) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [I'll Follow](https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w) | 2:52 | 2023-05-05 |  |
 | [I'm Here](https://open.spotify.com/track/4ttrwU0rvD0f4WRQsHDPrh) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 3:42 | 2023-09-22 | 2023-11-16 |

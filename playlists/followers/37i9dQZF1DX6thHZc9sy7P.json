@@ -1,580 +1,1995 @@
 {
-  "2022-05-30": 142256,
-  "2022-05-31": 142274,
-  "2022-06-01": 142303,
-  "2022-06-02": 142293,
-  "2022-06-03": 142315,
-  "2022-06-04": 142337,
-  "2022-06-05": 142349,
-  "2022-06-06": 142371,
-  "2022-06-07": 142388,
-  "2022-06-08": 142414,
-  "2022-06-09": 142443,
-  "2022-06-10": 142465,
-  "2022-06-11": 142479,
-  "2022-06-12": 142500,
-  "2022-06-13": 142506,
-  "2022-06-14": 142523,
-  "2022-06-15": 142548,
-  "2022-06-16": 142561,
-  "2022-06-17": 142589,
-  "2022-06-18": 142602,
-  "2022-06-19": 142616,
-  "2022-06-20": 142616,
-  "2022-06-21": 142644,
-  "2022-06-22": 142697,
-  "2022-06-23": 142697,
-  "2022-06-24": 142714,
-  "2022-06-25": 142730,
-  "2022-06-26": 142737,
-  "2022-06-27": 142765,
-  "2022-06-28": 142797,
-  "2022-06-29": 142802,
-  "2022-06-30": 142820,
-  "2022-07-01": 142839,
-  "2022-07-02": 142857,
-  "2022-07-03": 142876,
-  "2022-07-04": 142904,
-  "2022-07-05": 142926,
-  "2022-07-06": 143047,
-  "2022-07-07": 143124,
-  "2022-07-08": 143192,
-  "2022-07-09": 143243,
-  "2022-07-10": 143289,
-  "2022-07-11": 143335,
-  "2022-07-12": 143406,
-  "2022-07-13": 143491,
-  "2022-07-14": 143584,
-  "2022-07-15": 143675,
-  "2022-07-16": 143748,
-  "2022-07-17": 143807,
-  "2022-07-18": 143865,
-  "2022-07-19": 143939,
-  "2022-07-20": 143988,
-  "2022-07-21": 144026,
-  "2022-07-22": 144072,
-  "2022-07-23": 144099,
-  "2022-07-24": 144136,
-  "2022-07-25": 144202,
-  "2022-07-26": 144232,
-  "2022-07-27": 144250,
-  "2022-07-28": 144288,
-  "2022-07-29": 144319,
-  "2022-07-30": 144391,
-  "2022-07-31": 144391,
-  "2022-08-01": 144419,
-  "2022-08-02": 144482,
-  "2022-08-03": 144482,
-  "2022-08-04": 144518,
-  "2022-08-05": 144550,
-  "2022-08-06": 144557,
-  "2022-08-07": 144584,
-  "2022-08-08": 144628,
-  "2022-08-09": 144661,
-  "2022-08-10": 144692,
-  "2022-08-11": 144720,
-  "2022-08-12": 144754,
-  "2022-08-13": 144781,
-  "2022-08-14": 144811,
-  "2022-08-15": 144845,
-  "2022-08-16": 144884,
-  "2022-08-17": 144908,
-  "2022-08-18": 144931,
-  "2022-08-19": 144965,
-  "2022-08-20": 145007,
-  "2022-08-21": 145041,
-  "2022-08-22": 145061,
-  "2022-08-23": 145095,
-  "2022-08-24": 145129,
-  "2022-08-25": 145164,
-  "2022-08-26": 145194,
-  "2022-08-27": 145224,
-  "2022-08-28": 145268,
-  "2022-08-29": 145301,
-  "2022-08-30": 145276,
-  "2022-08-31": 145203,
-  "2022-09-01": 145117,
-  "2022-09-02": 145061,
-  "2022-09-03": 144920,
-  "2022-09-04": 144877,
-  "2022-09-05": 144897,
-  "2022-09-06": 144900,
-  "2022-09-07": 144929,
-  "2022-09-09": 144972,
-  "2022-09-10": 145008,
-  "2022-09-11": 145026,
-  "2022-09-12": 145045,
-  "2022-09-13": 145051,
-  "2022-09-15": 145081,
-  "2022-09-16": 145112,
-  "2022-09-17": 145129,
-  "2022-09-18": 145160,
-  "2022-09-19": 145165,
-  "2022-09-20": 145174,
-  "2022-09-21": 145199,
-  "2022-09-22": 145219,
-  "2022-09-23": 145261,
-  "2022-09-24": 145290,
-  "2022-09-25": 145321,
-  "2022-09-26": 145340,
-  "2022-09-27": 145353,
-  "2022-09-28": 145374,
-  "2022-09-29": 145396,
-  "2022-09-30": 145409,
-  "2022-10-01": 145423,
-  "2022-10-02": 145452,
-  "2022-10-03": 145479,
-  "2022-10-04": 145496,
-  "2022-10-05": 145536,
-  "2022-10-06": 145561,
-  "2022-10-07": 145590,
-  "2022-10-08": 145613,
-  "2022-10-09": 145655,
-  "2022-10-10": 145656,
-  "2022-10-11": 145667,
-  "2022-10-12": 145677,
-  "2022-10-13": 145702,
-  "2022-10-14": 145721,
-  "2022-10-15": 145761,
-  "2022-10-16": 145775,
-  "2022-10-17": 145792,
-  "2022-10-18": 145824,
-  "2022-10-19": 145836,
-  "2022-10-20": 145852,
-  "2022-10-21": 145874,
-  "2022-10-22": 145896,
-  "2022-10-23": 145911,
-  "2022-10-24": 145926,
-  "2022-10-25": 145952,
-  "2022-10-26": 145980,
-  "2022-10-27": 145996,
-  "2022-10-28": 146015,
-  "2022-10-29": 146034,
-  "2022-10-30": 146047,
-  "2022-10-31": 146060,
-  "2022-11-01": 146086,
-  "2022-11-02": 146106,
-  "2022-11-03": 146138,
-  "2022-11-04": 146164,
-  "2022-11-05": 146185,
-  "2022-11-06": 146197,
-  "2022-11-07": 146219,
-  "2022-11-08": 146232,
-  "2022-11-09": 146252,
-  "2022-11-10": 146265,
-  "2022-11-11": 146276,
-  "2022-11-12": 146289,
-  "2022-11-13": 146295,
-  "2022-11-14": 146327,
-  "2022-11-15": 146348,
-  "2022-11-16": 146371,
-  "2022-11-17": 146388,
-  "2022-11-18": 146390,
-  "2022-11-19": 146386,
-  "2022-11-20": 146393,
-  "2022-11-21": 146407,
-  "2022-11-22": 146427,
-  "2022-11-23": 146409,
-  "2022-11-24": 146495,
-  "2022-11-25": 146537,
-  "2022-11-26": 146549,
-  "2022-11-27": 146580,
-  "2022-11-28": 146592,
-  "2022-11-29": 146602,
-  "2022-11-30": 146629,
-  "2022-12-01": 146647,
-  "2022-12-02": 146669,
-  "2022-12-03": 146695,
-  "2022-12-04": 146712,
-  "2022-12-05": 146755,
-  "2022-12-06": 146786,
-  "2022-12-07": 146799,
-  "2022-12-08": 146822,
-  "2022-12-09": 146836,
-  "2022-12-10": 146866,
-  "2022-12-11": 146904,
-  "2022-12-12": 146925,
-  "2022-12-13": 146949,
-  "2022-12-14": 146971,
-  "2022-12-15": 146982,
-  "2022-12-16": 147006,
-  "2022-12-17": 147027,
-  "2022-12-18": 147044,
-  "2022-12-19": 147060,
-  "2022-12-20": 147086,
-  "2022-12-21": 147086,
-  "2022-12-22": 147090,
-  "2022-12-24": 147122,
-  "2022-12-25": 147148,
-  "2022-12-26": 147168,
-  "2022-12-27": 147187,
-  "2022-12-28": 147196,
-  "2022-12-29": 147223,
-  "2022-12-30": 147239,
-  "2022-12-31": 147262,
-  "2023-01-01": 147272,
-  "2023-01-02": 147297,
-  "2023-01-03": 147311,
-  "2023-01-04": 147333,
-  "2023-01-05": 147354,
-  "2023-01-06": 147403,
-  "2023-01-07": 147444,
-  "2023-01-08": 147442,
-  "2023-01-09": 147461,
-  "2023-01-10": 147483,
-  "2023-01-11": 147495,
-  "2023-01-12": 147510,
-  "2023-01-13": 147530,
-  "2023-01-14": 147582,
-  "2023-01-15": 147580,
-  "2023-01-16": 147606,
-  "2023-01-17": 147617,
-  "2023-01-18": 147627,
-  "2023-01-19": 147636,
-  "2023-01-20": 147661,
-  "2023-01-21": 147680,
-  "2023-01-22": 147687,
-  "2023-01-23": 147715,
-  "2023-01-24": 147729,
-  "2023-01-25": 147741,
-  "2023-01-26": 147756,
-  "2023-01-27": 147771,
-  "2023-01-28": 147784,
-  "2023-01-29": 147801,
-  "2023-01-30": 147820,
-  "2023-01-31": 147820,
-  "2023-02-01": 147827,
-  "2023-02-02": 147843,
-  "2023-02-03": 147869,
-  "2023-02-04": 147890,
-  "2023-02-05": 147910,
-  "2023-02-06": 147928,
-  "2023-02-07": 147943,
-  "2023-02-08": 147975,
-  "2023-02-09": 147975,
-  "2023-02-10": 147983,
-  "2023-02-11": 147981,
-  "2023-02-12": 148010,
-  "2023-02-13": 148016,
-  "2023-02-14": 148016,
-  "2023-02-15": 148035,
-  "2023-02-16": 148053,
-  "2023-02-17": 148073,
-  "2023-02-18": 148107,
-  "2023-02-19": 148112,
-  "2023-02-20": 148136,
-  "2023-02-21": 148139,
-  "2023-02-22": 148143,
-  "2023-02-23": 148156,
-  "2023-02-24": 148170,
-  "2023-02-25": 148204,
-  "2023-02-26": 148219,
-  "2023-02-27": 148253,
-  "2023-02-28": 148253,
-  "2023-03-01": 148272,
-  "2023-03-02": 148292,
-  "2023-03-03": 148306,
-  "2023-03-04": 148326,
-  "2023-03-05": 148364,
-  "2023-03-06": 148364,
-  "2023-03-07": 148380,
-  "2023-03-08": 148406,
-  "2023-03-09": 148420,
-  "2023-03-10": 148445,
-  "2023-03-11": 148448,
-  "2023-03-12": 148455,
-  "2023-03-13": 148459,
-  "2023-03-14": 148468,
-  "2023-03-15": 148482,
-  "2023-03-16": 148501,
-  "2023-03-17": 148501,
-  "2023-03-18": 148524,
-  "2023-03-19": 148540,
-  "2023-03-20": 148544,
-  "2023-03-21": 148562,
-  "2023-03-22": 148575,
-  "2023-03-23": 148591,
-  "2023-03-24": 148591,
-  "2023-03-25": 148615,
-  "2023-03-26": 148629,
-  "2023-03-27": 148647,
-  "2023-03-28": 148654,
-  "2023-03-29": 148663,
-  "2023-03-30": 148682,
-  "2023-03-31": 148682,
-  "2023-04-01": 148698,
-  "2023-04-02": 148730,
-  "2023-04-03": 148743,
-  "2023-04-04": 148749,
-  "2023-04-05": 148761,
-  "2023-04-06": 148779,
-  "2023-04-07": 148784,
-  "2023-04-09": 148800,
-  "2023-04-10": 148814,
-  "2023-04-11": 148824,
-  "2023-04-12": 148824,
-  "2023-04-13": 148805,
-  "2023-04-14": 148810,
-  "2023-04-15": 148832,
-  "2023-04-16": 148850,
-  "2023-04-17": 148854,
-  "2023-04-18": 148866,
-  "2023-04-19": 148892,
-  "2023-04-20": 148909,
-  "2023-04-21": 148929,
-  "2023-04-22": 148940,
-  "2023-04-23": 148949,
-  "2023-04-24": 148963,
-  "2023-04-25": 148989,
-  "2023-04-26": 149017,
-  "2023-04-27": 149045,
-  "2023-04-28": 149066,
-  "2023-04-29": 149090,
-  "2023-04-30": 149100,
-  "2023-05-01": 149106,
-  "2023-05-02": 149115,
-  "2023-05-03": 149133,
-  "2023-05-04": 149150,
-  "2023-05-05": 149158,
-  "2023-05-06": 149184,
-  "2023-05-07": 149203,
-  "2023-05-08": 149218,
-  "2023-05-09": 149246,
-  "2023-05-10": 149254,
-  "2023-05-11": 149280,
-  "2023-05-12": 149297,
-  "2023-05-13": 149320,
-  "2023-05-14": 149347,
-  "2023-05-15": 149353,
-  "2023-05-16": 149368,
-  "2023-05-17": 149392,
-  "2023-05-18": 149414,
-  "2023-05-19": 149431,
-  "2023-05-20": 149477,
-  "2023-05-21": 149477,
-  "2023-05-22": 149477,
-  "2023-05-23": 149521,
-  "2023-05-24": 149554,
-  "2023-05-25": 149553,
-  "2023-05-26": 149571,
-  "2023-05-27": 149580,
-  "2023-05-28": 149587,
-  "2023-05-29": 149587,
-  "2023-05-30": 149641,
-  "2023-05-31": 149662,
-  "2023-06-01": 149672,
-  "2023-06-02": 149692,
-  "2023-06-03": 149708,
-  "2023-06-04": 149733,
-  "2023-06-05": 149744,
-  "2023-06-06": 149757,
-  "2023-06-07": 149766,
-  "2023-06-08": 149768,
-  "2023-06-09": 149804,
-  "2023-06-10": 149820,
-  "2023-06-11": 149837,
-  "2023-06-12": 149851,
-  "2023-06-13": 149865,
-  "2023-06-14": 149867,
-  "2023-06-15": 149887,
-  "2023-06-16": 149900,
-  "2023-06-17": 149914,
-  "2023-06-18": 149928,
-  "2023-06-19": 149943,
-  "2023-06-20": 149960,
-  "2023-06-21": 149975,
-  "2023-06-22": 149988,
-  "2023-06-23": 150004,
-  "2023-06-24": 150013,
-  "2023-06-25": 150029,
-  "2023-06-26": 150043,
-  "2023-06-27": 150034,
-  "2023-06-28": 150039,
-  "2023-06-29": 150047,
-  "2023-06-30": 150065,
-  "2023-07-01": 150105,
-  "2023-07-02": 150105,
-  "2023-07-03": 150114,
-  "2023-07-04": 150132,
-  "2023-07-05": 150142,
-  "2023-07-06": 150142,
-  "2023-07-07": 150142,
-  "2023-07-08": 150162,
-  "2023-07-09": 150173,
-  "2023-07-10": 150197,
-  "2023-07-11": 150213,
-  "2023-07-12": 150216,
-  "2023-07-13": 150236,
-  "2023-07-14": 150241,
-  "2023-07-15": 150252,
-  "2023-07-16": 150267,
-  "2023-07-17": 150274,
-  "2023-07-18": 150285,
-  "2023-07-19": 150314,
-  "2023-07-20": 150328,
-  "2023-07-21": 150347,
-  "2023-07-22": 150355,
-  "2023-07-23": 150361,
-  "2023-07-24": 150370,
-  "2023-07-25": 150379,
-  "2023-07-26": 150388,
-  "2023-07-27": 150392,
-  "2023-07-28": 150406,
-  "2023-07-29": 150442,
-  "2023-07-30": 150446,
-  "2023-07-31": 150475,
-  "2023-08-01": 150489,
-  "2023-08-02": 150507,
-  "2023-08-03": 150540,
-  "2023-08-04": 150563,
-  "2023-08-05": 150580,
-  "2023-08-06": 150603,
-  "2023-08-07": 150603,
-  "2023-08-08": 150618,
-  "2023-08-09": 150638,
-  "2023-08-10": 150659,
-  "2023-08-11": 150671,
-  "2023-08-12": 150686,
-  "2023-08-13": 150703,
-  "2023-08-14": 150720,
-  "2023-08-15": 150742,
-  "2023-08-16": 150742,
-  "2023-08-17": 150745,
-  "2023-08-18": 150751,
-  "2023-08-19": 150754,
-  "2023-08-20": 150760,
-  "2023-08-21": 150769,
-  "2023-08-22": 150776,
-  "2023-08-23": 150778,
-  "2023-08-24": 150798,
-  "2023-08-25": 150807,
-  "2023-08-26": 150823,
-  "2023-08-27": 150836,
-  "2023-08-28": 150842,
-  "2023-08-29": 150845,
-  "2023-08-30": 150848,
-  "2023-08-31": 150847,
-  "2023-09-01": 150879,
-  "2023-09-02": 150879,
-  "2023-09-03": 150890,
-  "2023-09-04": 150899,
-  "2023-09-05": 150905,
-  "2023-09-06": 150916,
-  "2023-09-07": 150935,
-  "2023-09-08": 150956,
-  "2023-09-09": 150976,
-  "2023-09-10": 150994,
-  "2023-09-11": 151005,
-  "2023-09-12": 151022,
-  "2023-09-13": 151036,
-  "2023-09-14": 151052,
-  "2023-09-15": 151044,
-  "2023-09-16": 151056,
-  "2023-09-17": 151064,
-  "2023-09-18": 151059,
-  "2023-09-19": 151074,
-  "2023-09-20": 151081,
-  "2023-09-21": 151108,
-  "2023-09-22": 151121,
-  "2023-09-23": 151141,
-  "2023-09-24": 151151,
-  "2023-09-25": 151159,
-  "2023-09-26": 151177,
-  "2023-09-27": 151189,
-  "2023-09-28": 151202,
-  "2023-09-29": 151216,
-  "2023-09-30": 151237,
-  "2023-10-01": 151254,
-  "2023-10-02": 151274,
-  "2023-10-03": 151277,
-  "2023-10-04": 151292,
-  "2023-10-05": 151310,
-  "2023-10-06": 151311,
-  "2023-10-07": 151322,
-  "2023-10-08": 151330,
-  "2023-10-09": 151333,
-  "2023-10-10": 151094,
-  "2023-10-11": 150604,
-  "2023-10-12": 150604,
-  "2023-10-13": 150573,
-  "2023-10-14": 150441,
-  "2023-10-15": 150424,
-  "2023-10-16": 150429,
-  "2023-10-17": 150444,
-  "2023-10-18": 150446,
-  "2023-10-19": 150463,
-  "2023-10-20": 150467,
-  "2023-10-21": 150473,
-  "2023-10-22": 150491,
-  "2023-10-23": 150499,
-  "2023-10-24": 150514,
-  "2023-10-25": 150521,
-  "2023-10-26": 150526,
-  "2023-10-27": 150532,
-  "2023-10-28": 150536,
-  "2023-10-29": 150547,
-  "2023-10-30": 150564,
-  "2023-10-31": 150564,
-  "2023-11-01": 150575,
-  "2023-11-02": 150593,
-  "2023-11-03": 150602,
-  "2023-11-04": 150608,
-  "2023-11-05": 150622,
-  "2023-11-06": 150628,
-  "2023-11-07": 150646,
-  "2023-11-08": 150651,
-  "2023-11-09": 150658,
-  "2023-11-10": 150663,
-  "2023-11-11": 150675,
-  "2023-11-12": 150678,
-  "2023-11-13": 150684,
-  "2023-11-14": 150699,
-  "2023-11-15": 150699,
-  "2023-11-16": 150717,
-  "2023-11-17": 150729,
-  "2023-11-18": 150729,
-  "2023-11-19": 150748,
-  "2023-11-20": 150760,
-  "2023-11-21": 150773,
-  "2023-11-22": 150779,
-  "2023-11-23": 150793,
-  "2023-11-24": 150809,
-  "2023-11-25": 150819,
-  "2023-11-26": 150828,
-  "2023-11-27": 150832,
-  "2023-11-28": 150843,
-  "2023-11-29": 150878,
-  "2023-11-30": 150878,
-  "2023-12-01": 150885,
-  "2023-12-02": 150896,
-  "2023-12-03": 150901,
-  "2023-12-04": 150909,
-  "2023-12-05": 150927,
-  "2023-12-06": 150931,
-  "2023-12-07": 150941,
-  "2023-12-08": 150953,
-  "2023-12-09": 150960,
-  "2023-12-10": 150983,
-  "2023-12-11": 150990,
-  "2023-12-12": 151008,
-  "2023-12-13": 151016,
-  "2023-12-14": 151040,
-  "2023-12-15": 151034,
-  "2023-12-16": 151056,
-  "2023-12-17": 151061,
-  "2023-12-18": 151070,
-  "2023-12-19": 151077,
-  "2023-12-20": 151082,
-  "2023-12-21": 151094,
-  "2023-12-22": 151101,
-  "2023-12-23": 151108,
-  "2023-12-24": 151112,
-  "2023-12-25": 151118,
-  "2023-12-26": 151132,
-  "2023-12-27": 151144,
-  "2023-12-30": 151175,
-  "2023-12-31": 151180,
-  "2024-01-01": 151186,
-  "2024-01-02": 151196,
-  "2024-01-03": 151207
+  "2024-01-17": 149900,
+  "date_first_scraped": "2022-05-30",
+  "description": "Guess who's back? Get into the Inner Circle with us!",
+  "name": "This Is WINNER",
+  "tracks": [
+    {
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215043,
+      "name": "10 MIN",
+      "url": "https://open.spotify.com/track/16sFJNnpsLNnyuWoYsBGjv"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176906,
+      "name": "AH YEAH",
+      "url": "https://open.spotify.com/track/2WDhYlm5gBepkMZHBk0LN7"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176906,
+      "name": "AH YEAH",
+      "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
+    },
+    {
+      "album": {
+        "name": "EVERYD4Y",
+        "url": "https://open.spotify.com/album/4Mzs97iNgQoPe5ET0Xr4BL"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224909,
+      "name": "AIR",
+      "url": "https://open.spotify.com/track/0R4oywOD4wsKOoxnjFUL5y"
+    },
+    {
+      "album": {
+        "name": "EVERYD4Y",
+        "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224909,
+      "name": "AIR",
+      "url": "https://open.spotify.com/track/72iLCSMWOE87GGsIKMb2G4"
+    },
+    {
+      "album": {
+        "name": "EXIT : E",
+        "url": "https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246253,
+      "name": "BABY BABY",
+      "url": "https://open.spotify.com/track/2zLRE8rUhH2i7maIU5sWVI"
+    },
+    {
+      "album": {
+        "name": "EXIT : E",
+        "url": "https://open.spotify.com/album/3b9Tzv22EZaAApyoafYo5Q"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246253,
+      "name": "BABY BABY",
+      "url": "https://open.spotify.com/track/5LnFGGk0RS1FNc8bfWyaHS"
+    },
+    {
+      "album": {
+        "name": "The MOBB",
+        "url": "https://open.spotify.com/album/6LwgGVAkFEmopo6EROaBpd"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199335,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/03D2t5wn77cpCxH8p99ZvA"
+    },
+    {
+      "album": {
+        "name": "The MOBB",
+        "url": "https://open.spotify.com/album/0PdAg07vtuG2iqJE6abWNE"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199392,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/50WjJ7Haxc2ZKaRKJhYybD"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205386,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/17xZMvALrK9SgUp8mliXSm"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205386,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/4vSoSxMXMeZw3NEZjFZakN"
+    },
+    {
+      "album": {
+        "name": "BORN TO LOVE YOU",
+        "url": "https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174452,
+      "name": "BORN TO LOVE YOU",
+      "url": "https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP"
+    },
+    {
+      "album": {
+        "name": "JINU's HEYDAY",
+        "url": "https://open.spotify.com/album/3WsmgekXScHCwEG23l0spG"
+      },
+      "artists": [
+        {
+          "name": "JINU",
+          "url": "https://open.spotify.com/artist/10lR6OAc74wnyP1P8Gfsct"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194436,
+      "name": "CALL ANYTIME",
+      "url": "https://open.spotify.com/track/1KTbLNP5zv7SCY8POC2gvZ"
+    },
+    {
+      "album": {
+        "name": "JINU's HEYDAY",
+        "url": "https://open.spotify.com/album/7oTY3AOtpKewRBjuxfSiyE"
+      },
+      "artists": [
+        {
+          "name": "JINU",
+          "url": "https://open.spotify.com/artist/10lR6OAc74wnyP1P8Gfsct"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194436,
+      "name": "CALL ANYTIME",
+      "url": "https://open.spotify.com/track/5LILPLYXMhiJqSW19s4k1t"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235151,
+      "name": "Color ring (4 ver.)",
+      "url": "https://open.spotify.com/track/20e7tNjJ1pcos8X5g8U1QV"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235151,
+      "name": "Color ring (4 ver.)",
+      "url": "https://open.spotify.com/track/4uJTSHa5e1JV0r7tz8TSNi"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210174,
+      "name": "Dduk (JINU SOLO)",
+      "url": "https://open.spotify.com/track/6NbxpPOBPAaOUreoASeKlx"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210174,
+      "name": "Dduk (JINU SOLO)",
+      "url": "https://open.spotify.com/track/7IqxadboF7BZb84L01cCUj"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237598,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/1IdM9Qtv8BE9IZ3BNiPeMA"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237598,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/6ASB1Us0D4FY0niR12QJOW"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237668,
+      "name": "Different (4 ver.)",
+      "url": "https://open.spotify.com/track/4nRRcRsN1xIV8pb1J0xxO3"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237668,
+      "name": "Different (4 ver.)",
+      "url": "https://open.spotify.com/track/66BHcjKxri8Rh4PK0f3b72"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3hgan4waRFWu2uvzxSVHCh"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197566,
+      "name": "DON'T BE SHY",
+      "url": "https://open.spotify.com/track/4NRkeGpIsxKH9jrcpbZr0x"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197566,
+      "name": "DON'T BE SHY",
+      "url": "https://open.spotify.com/track/4OlytFvnCSsyHMVP0Kv8pc"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205850,
+      "name": "Don\u2019t flirt (4 ver.)",
+      "url": "https://open.spotify.com/track/1xigZZHbIJkzeHCfIRYkAF"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205850,
+      "name": "Don\u2019t flirt (4 ver.)",
+      "url": "https://open.spotify.com/track/6Zd9eMhxY4MM7MvUXSKVuK"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3hgan4waRFWu2uvzxSVHCh"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198610,
+      "name": "DRESS UP",
+      "url": "https://open.spotify.com/track/1SQbGHZMWWXNrOUnoCflm0"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198610,
+      "name": "DRESS UP",
+      "url": "https://open.spotify.com/track/2wkCQXuW2IOhlzdtK5QRs9"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220125,
+      "name": "Empty (4 ver.)",
+      "url": "https://open.spotify.com/track/3fpee3i4SccmOatcEMp8DH"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220125,
+      "name": "Empty (4 ver.)",
+      "url": "https://open.spotify.com/track/6Bygyl5d5Jf7w7RSBHdkOu"
+    },
+    {
+      "album": {
+        "name": "EVERYD4Y",
+        "url": "https://open.spotify.com/album/4Mzs97iNgQoPe5ET0Xr4BL"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206350,
+      "name": "EVERYDAY",
+      "url": "https://open.spotify.com/track/42rziXmwGA04hNSMi2MliA"
+    },
+    {
+      "album": {
+        "name": "EVERYD4Y",
+        "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206350,
+      "name": "EVERYDAY",
+      "url": "https://open.spotify.com/track/7nSbcCwzzF7WUjNU9h9uGE"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200974,
+      "name": "EVERYDAY (REMIX)",
+      "url": "https://open.spotify.com/track/6Au0CsV5ellJU7JSHwPpQM"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200974,
+      "name": "EVERYDAY (REMIX)",
+      "url": "https://open.spotify.com/track/7hGOGkxcAojrklrol5kkU0"
+    },
+    {
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199179,
+      "name": "FAMILY",
+      "url": "https://open.spotify.com/track/3kITvNEXfzdIuT5X5r9lXQ"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/5YPQbtPGPneFUgZ6UYYPDw"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207924,
+      "name": "FIANC\u00c9",
+      "url": "https://open.spotify.com/track/1bZNFcnyCmlnbs337baR0b"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207986,
+      "name": "FIANC\u00c9",
+      "url": "https://open.spotify.com/track/6Tw2x3wavaWsboio2Cy44I"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214561,
+      "name": "FIRST LOVE (2019)",
+      "url": "https://open.spotify.com/track/59asJKj9mAySQhfhbtJGeP"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214561,
+      "name": "FIRST LOVE (2019)",
+      "url": "https://open.spotify.com/track/6PiaO92uPOPDWg6RlSQxcg"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3hgan4waRFWu2uvzxSVHCh"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189478,
+      "name": "FLAMENCO (HOONY SOLO)",
+      "url": "https://open.spotify.com/track/0WzSO8Jxkk2jM3Ekaw9jRe"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189478,
+      "name": "FLAMENCO (HOONY SOLO)",
+      "url": "https://open.spotify.com/track/1mKkLaUNSlhqhiWhDtcg1Z"
+    },
+    {
+      "album": {
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221793,
+      "name": "FOOL",
+      "url": "https://open.spotify.com/track/1mTlfqaoh3piVp3Uhdv7jB"
+    },
+    {
+      "album": {
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221793,
+      "name": "FOOL",
+      "url": "https://open.spotify.com/track/2CCyeyaPmGRpVxmRwu3HZo"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176351,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/1ary1LsoU9EKfON8oFeALX"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176351,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/3Gf5UpAW8XA1XMS6CB54KK"
+    },
+    {
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192875,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/4tUkszgggTqQ4s2sutt7QW"
+    },
+    {
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "I LOVE U",
+      "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
+    },
+    {
+      "album": {
+        "name": "EXIT : E",
+        "url": "https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213437,
+      "name": "I'M YOUNG",
+      "url": "https://open.spotify.com/track/26t8QQ0oibWO00k25hEGSN"
+    },
+    {
+      "album": {
+        "name": "EXIT : E",
+        "url": "https://open.spotify.com/album/3b9Tzv22EZaAApyoafYo5Q"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213437,
+      "name": "I'M YOUNG",
+      "url": "https://open.spotify.com/track/6CZN1rzi0UPPebOafqF5jl"
+    },
+    {
+      "album": {
+        "name": "EXIT MOVEMENT:E (JAPAN EDITION)",
+        "url": "https://open.spotify.com/album/6DOmD0SufB8lZ2fQFRV08b"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192696,
+      "name": "IMMATURE",
+      "url": "https://open.spotify.com/track/4MKADX60Z5h7WAfaDVbTAS"
+    },
+    {
+      "album": {
+        "name": "OUR TWENTY FOR",
+        "url": "https://open.spotify.com/album/3s5LEazLAxgYZSFdG98rHw"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207768,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/43Y6XibvJzLJj3GyVQaEFJ"
+    },
+    {
+      "album": {
+        "name": "OUR TWENTY FOR",
+        "url": "https://open.spotify.com/album/6lkXJykDmEjdCWX4auOIjE"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207768,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/6xZbRSkdowxgRj6U8qQF1b"
+    },
+    {
+      "album": {
+        "name": "WINNER THE BEST \"SONG 4 U\"",
+        "url": "https://open.spotify.com/album/1OOoxLYJtQry4GGDQ4P95n"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "ISLAND - JP Ver.",
+      "url": "https://open.spotify.com/track/2LBIZOuS8wD1g0TUMzH3Fq"
+    },
+    {
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225861,
+      "name": "IYAH",
+      "url": "https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200844,
+      "name": "Just dance",
+      "url": "https://open.spotify.com/track/1fjqodgVEzZmbCEMha5OnK"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200844,
+      "name": "Just dance",
+      "url": "https://open.spotify.com/track/1tLJ8C8Bs6gG1DKLerJ4CR"
+    },
+    {
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202794,
+      "name": "LITTLE FINGER",
+      "url": "https://open.spotify.com/track/5DH5BqrQXjfTd9I0aEtPAQ"
+    },
+    {
+      "album": {
+        "name": "OUR TWENTY FOR",
+        "url": "https://open.spotify.com/album/4mvbi1jkr0RaEMA2QucYPv"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217680,
+      "name": "LOVE ME LOVE ME",
+      "url": "https://open.spotify.com/track/5hlqtwCuRf3QchUjjw9iua"
+    },
+    {
+      "album": {
+        "name": "MILLIONS",
+        "url": "https://open.spotify.com/album/4DfTjPhhTGnJJLSouxFrd1"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 208283,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/4ayr28xOK5Jp5Ag1vNMopT"
+    },
+    {
+      "album": {
+        "name": "MILLIONS",
+        "url": "https://open.spotify.com/album/1qBFnXYzALfwnIvsknOEKK"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208283,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/5wIMMlbIGCNAXnGy0ijojN"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/1cxfi0rCA6ZaOvlNsLLtYs"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/1mNprAwCQaw9xRQItl1J2q"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234116,
+      "name": "MOLA",
+      "url": "https://open.spotify.com/track/0vnuToVffsQ29Ge51sr5qy"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234116,
+      "name": "MOLA",
+      "url": "https://open.spotify.com/track/10GmoyKD8PGcgVoMcVWhwC"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235331,
+      "name": "My bad",
+      "url": "https://open.spotify.com/track/76nRCiWj5ewNz0nT0jMfhg"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235331,
+      "name": "My bad",
+      "url": "https://open.spotify.com/track/7hWvGq4jwsgjVLaAeDvp78"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3hgan4waRFWu2uvzxSVHCh"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215916,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3wUKRsBYMagXw7onnHwcJr"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215916,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/7hp06nBxl1m6sh8ohMKKoA"
+    },
+    {
+      "album": {
+        "name": "Kang's Kitchen3",
+        "url": "https://open.spotify.com/album/0HZyxYjfes2LXNtSCAzoFJ"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "P.O",
+          "url": "https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182671,
+      "name": "Pat Pat",
+      "url": "https://open.spotify.com/track/1JgGRf2zKk5R2lnI7SBptA"
+    },
+    {
+      "album": {
+        "name": "Kang's Kitchen3",
+        "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "P.O",
+          "url": "https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182671,
+      "name": "Pat Pat",
+      "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
+    },
+    {
+      "album": {
+        "name": "PRICKED (MINO & TAEHYUN)",
+        "url": "https://open.spotify.com/album/1nVXFIc7lO4L3Tdiy6r483"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231793,
+      "name": "PRICKED (MINO & TAEHYUN)",
+      "url": "https://open.spotify.com/track/7zv91EUPWySxdts1wBB6E4"
+    },
+    {
+      "album": {
+        "name": "EXIT : E",
+        "url": "https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231793,
+      "name": "PRICKED (MINO&TAEHYUN)",
+      "url": "https://open.spotify.com/track/65tvwcHf4V5yKLHMrAwKje"
+    },
+    {
+      "album": {
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt"
+    },
+    {
+      "album": {
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223871,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/40ZLOoPhvn8HkMBBJRP1kq"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223871,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/5mIQsn1tRQ8uJ2VOW44EiA"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145706,
+      "name": "Run away",
+      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
+    },
+    {
+      "album": {
+        "name": "TAKE (KR EDITION)",
+        "url": "https://open.spotify.com/album/0UeHCISBZ4G00cLdFKIRA0"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145706,
+      "name": "Run away - KR Ver.",
+      "url": "https://open.spotify.com/track/1184jV78PgS9MxH7fpsMRi"
+    },
+    {
+      "album": {
+        "name": "EXIT : E",
+        "url": "https://open.spotify.com/album/3b9Tzv22EZaAApyoafYo5Q"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208264,
+      "name": "SENTIMENTAL",
+      "url": "https://open.spotify.com/track/3WHNAF7jrtL5Grl59V1wtv"
+    },
+    {
+      "album": {
+        "name": "EXIT : E",
+        "url": "https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209281,
+      "name": "SENTIMENTAL",
+      "url": "https://open.spotify.com/track/7000FosyVc1UpvN2Sckidx"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196790,
+      "name": "Serenade (HOONY SOLO)",
+      "url": "https://open.spotify.com/track/0YreoPlXF0g5A1NVu1qB6V"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196790,
+      "name": "Serenade (HOONY SOLO)",
+      "url": "https://open.spotify.com/track/56uChzXJte68QJZ9U81hqZ"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199948,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/15ACIGQ5IiM8V3rAJZ02l1"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199948,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/2UO5SzVbSWubanngPvePXu"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3hgan4waRFWu2uvzxSVHCh"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198277,
+      "name": "SOSO",
+      "url": "https://open.spotify.com/track/3SSvulbo5beqzHl0cBsD5O"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198277,
+      "name": "SOSO",
+      "url": "https://open.spotify.com/track/5r8b02M37428Axrmya9Nrv"
+    },
+    {
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205956,
+      "name": "SWEET HOME",
+      "url": "https://open.spotify.com/track/7F2gGDgHxt4QoxNxUOp9mf"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "TANG!\u2661",
+      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224443,
+      "name": "Teaser",
+      "url": "https://open.spotify.com/track/50CozK5LGzPW6rwuCMlnTZ"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224443,
+      "name": "Teaser",
+      "url": "https://open.spotify.com/track/7wbH6SrRfMMCSfw1vk37Sd"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2EegWUxYA83XnbwlFf7HEn"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222491,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/210VphjiHyiFc8xOXYP0D2"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5VnB3wqkqy6bcf9eKGTFOo"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222491,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/5ESSZV5aMRC9haiItQDjbK"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3hgan4waRFWu2uvzxSVHCh"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167189,
+      "name": "WIND (YOON SOLO)",
+      "url": "https://open.spotify.com/track/4uEpbI5gZ1KwtCWcC3ZXoj"
+    },
+    {
+      "album": {
+        "name": "CROSS",
+        "url": "https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167189,
+      "name": "WIND (YOON SOLO)",
+      "url": "https://open.spotify.com/track/51LuixIygTrK4lsvjBx7sN"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213258,
+      "name": "ZOO",
+      "url": "https://open.spotify.com/track/20qBbwsO49vWQZPv2O6aWL"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213258,
+      "name": "ZOO",
+      "url": "https://open.spotify.com/track/3z900RSJuw4sVEfEtVOjco"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172714,
+      "name": "\uac54 \uc138 I'm Him",
+      "url": "https://open.spotify.com/track/3e2blQpgdH9pIrrGFI6SZw"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172714,
+      "name": "\uac54 \uc138 I'm Him",
+      "url": "https://open.spotify.com/track/7LvZFvfo7Vr5i84GZ44JGr"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247772,
+      "name": "\uace0\ubc31\ud558\ub294 \uac70\uc57c Confession",
+      "url": "https://open.spotify.com/track/0AgR6mzyjICL214AXYY8sD"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247772,
+      "name": "\uace0\ubc31\ud558\ub294 \uac70\uc57c Confession",
+      "url": "https://open.spotify.com/track/2HpYrrrf4mA84To3PCsvSR"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220357,
+      "name": "\uacf5\ud5c8\ud574 empty",
+      "url": "https://open.spotify.com/track/2ENZ9lWpoLAGFDJsDb2Cbt"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220357,
+      "name": "\uacf5\ud5c8\ud574 empty",
+      "url": "https://open.spotify.com/track/7zgabC90KSPZZwNjfZeTqo"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205195,
+      "name": "\ub07c\ubd80\ub9ac\uc9c0\ub9c8 Don't flirt",
+      "url": "https://open.spotify.com/track/1PoqPHvqIIZY9QOCFXWjre"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205195,
+      "name": "\ub07c\ubd80\ub9ac\uc9c0\ub9c8 Don't flirt",
+      "url": "https://open.spotify.com/track/1o1XVvsz8Q10CsA1J2VHmC"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202178,
+      "name": "\uc774 \ubc24 Tonight",
+      "url": "https://open.spotify.com/track/4yePoUYIBgTmL5DwOtwhCY"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202178,
+      "name": "\uc774 \ubc24 Tonight",
+      "url": "https://open.spotify.com/track/6YnGrwsjBSk3oGo4aJdo2Q"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203138,
+      "name": "\ucc99 Love is a lie",
+      "url": "https://open.spotify.com/track/0Dgto5V6NRLTqWaGKOUAtd"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203138,
+      "name": "\ucc99 Love is a lie",
+      "url": "https://open.spotify.com/track/2gpBXMv2yGwq1icZKpcu6f"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235042,
+      "name": "\uceec\ub7ec\ub9c1 Color Ring",
+      "url": "https://open.spotify.com/track/45Trte32AfhgjL8yBnV1Nq"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235042,
+      "name": "\uceec\ub7ec\ub9c1 Color Ring",
+      "url": "https://open.spotify.com/track/6viJhP1omFP37DdRHO6Gk7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6thHZc9sy7P"
 }

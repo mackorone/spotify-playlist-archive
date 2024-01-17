@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Vianney, Kendji Girac et Soprano au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "Jeck au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -56,6 +56,28 @@
       "duration_ms": 200360,
       "name": "Avant Elle",
       "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
+    },
+    {
+      "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        },
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "Beau (feat. Julien Dor\u00e9)",
+      "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
     },
     {
       "album": {
@@ -204,10 +226,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 171000,
       "name": "Creep - Reprise",
       "url": "https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H"
+    },
+    {
+      "album": {
+        "name": "Creep (Reprise)",
+        "url": "https://open.spotify.com/album/2Q1hHWosLo5qBPj6oL8bDY"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 171000,
+      "name": "Creep - Reprise",
+      "url": "https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo"
     },
     {
       "album": {
@@ -530,6 +570,42 @@
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
+    },
+    {
+      "album": {
+        "name": "Fil Rouge",
+        "url": "https://open.spotify.com/album/657eSseT00fReQMUiSEinS"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00eblle",
+          "url": "https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193280,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3EfttFhRYALpOcWbHBR0fZ"
+    },
+    {
+      "album": {
+        "name": "fou",
+        "url": "https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168720,
+      "name": "fou",
+      "url": "https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B"
     },
     {
       "album": {
@@ -1028,7 +1104,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 254773,
       "name": "Le hall des d\u00e9parts",
       "url": "https://open.spotify.com/track/5OSiXJYZvfXGCJh7XCfeWi"
@@ -1346,7 +1422,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 209605,
       "name": "Plus de sens",
       "url": "https://open.spotify.com/track/7HEKgyGKb9oil5ZrW7cHH4"
@@ -1498,7 +1574,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 207338,
       "name": "SI TE LLAMO",
       "url": "https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s"
@@ -1520,6 +1596,24 @@
       "duration_ms": 146200,
       "name": "Vivre",
       "url": "https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q"
+    },
+    {
+      "album": {
+        "name": "Vivre",
+        "url": "https://open.spotify.com/album/3UsNSZZNOMGY1tav0ncHzW"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236493,
+      "name": "Vivre",
+      "url": "https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV"
     },
     {
       "album": {

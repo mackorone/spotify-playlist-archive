@@ -4,7 +4,7 @@
 
 > I'll do yours if you do mine...The official playlist for Do Revenge, out now on Netflix.
 
-31 songs - 1 hr 40 min
+32 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 | 2022-09-16 |  |
 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 | 2022-09-16 |  |
 | [Pretend](https://open.spotify.com/track/1h8dms5lJ4QcXB0tyguk4c) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Juliana Madrid EP](https://open.spotify.com/album/24kUFs20sObGQMAW7VgWso) | 3:07 | 2022-09-16 |  |
-| [Shame Reactions](https://open.spotify.com/track/4N7dBKVIo7ZrStAGThgPzQ) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 1:32 | 2022-09-16 |  |
+| [Shame Reactions](https://open.spotify.com/track/0GaNf8DeuRwRadtqNrfvYu) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/4jhKUGRhFwUqc2427ydBi3) | 1:32 | 2022-09-16 |  |
+| [Shame Reactions](https://open.spotify.com/track/4N7dBKVIo7ZrStAGThgPzQ) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 1:32 | 2022-09-16 | 2024-01-14 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-09-16 |  |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2022-09-16 | 2022-10-07 |
 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 | 2022-09-16 |  |

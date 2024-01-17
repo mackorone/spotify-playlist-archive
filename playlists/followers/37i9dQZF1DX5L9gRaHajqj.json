@@ -1,735 +1,909 @@
 {
-  "2021-12-25": 315826,
-  "2021-12-26": 315939,
-  "2021-12-27": 316164,
-  "2021-12-28": 316167,
-  "2021-12-29": 316319,
-  "2021-12-30": 316493,
-  "2021-12-31": 316633,
-  "2022-01-01": 316934,
-  "2022-01-02": 316987,
-  "2022-01-03": 317078,
-  "2022-01-04": 317177,
-  "2022-01-05": 317306,
-  "2022-01-06": 317418,
-  "2022-01-07": 317520,
-  "2022-01-08": 317822,
-  "2022-01-09": 317825,
-  "2022-01-10": 317949,
-  "2022-01-11": 317993,
-  "2022-01-12": 318133,
-  "2022-01-13": 318133,
-  "2022-01-14": 318133,
-  "2022-01-15": 318133,
-  "2022-01-16": 318133,
-  "2022-01-17": 318133,
-  "2022-01-18": 318133,
-  "2022-01-19": 318133,
-  "2022-01-20": 318133,
-  "2022-01-21": 318133,
-  "2022-01-22": 318133,
-  "2022-01-23": 318133,
-  "2022-01-24": 318133,
-  "2022-01-25": 318133,
-  "2022-01-26": 318133,
-  "2022-01-27": 318133,
-  "2022-01-28": 318133,
-  "2022-01-29": 318133,
-  "2022-01-30": 318133,
-  "2022-01-31": 318133,
-  "2022-02-01": 318133,
-  "2022-02-02": 318133,
-  "2022-02-03": 318133,
-  "2022-02-04": 318133,
-  "2022-02-05": 318133,
-  "2022-02-06": 318133,
-  "2022-02-07": 318133,
-  "2022-02-08": 318133,
-  "2022-02-09": 318133,
-  "2022-02-10": 318133,
-  "2022-02-11": 318133,
-  "2022-02-12": 318133,
-  "2022-02-13": 318133,
-  "2022-02-14": 318133,
-  "2022-02-15": 318133,
-  "2022-02-16": 318133,
-  "2022-02-17": 318133,
-  "2022-02-18": 318133,
-  "2022-02-19": 318133,
-  "2022-02-20": 318133,
-  "2022-02-21": 318133,
-  "2022-02-22": 318133,
-  "2022-02-23": 318133,
-  "2022-02-24": 318133,
-  "2022-02-25": 318133,
-  "2022-02-26": 318133,
-  "2022-02-27": 318133,
-  "2022-02-28": 318133,
-  "2022-03-01": 318133,
-  "2022-03-02": 318133,
-  "2022-03-03": 318133,
-  "2022-03-04": 318133,
-  "2022-03-05": 318133,
-  "2022-03-06": 318133,
-  "2022-03-07": 318133,
-  "2022-03-08": 318133,
-  "2022-03-09": 318133,
-  "2022-03-10": 318133,
-  "2022-03-11": 318133,
-  "2022-03-12": 318133,
-  "2022-03-13": 318133,
-  "2022-03-14": 318133,
-  "2022-03-15": 318133,
-  "2022-03-16": 318133,
-  "2022-03-17": 318133,
-  "2022-03-18": 318133,
-  "2022-03-19": 318133,
-  "2022-03-20": 318133,
-  "2022-03-21": 318133,
-  "2022-03-22": 318133,
-  "2022-03-23": 318133,
-  "2022-03-24": 318133,
-  "2022-03-25": 318133,
-  "2022-03-26": 318133,
-  "2022-03-27": 318133,
-  "2022-03-28": 318133,
-  "2022-03-30": 318133,
-  "2022-03-31": 318133,
-  "2022-04-01": 318133,
-  "2022-04-02": 318133,
-  "2022-04-03": 318133,
-  "2022-04-04": 318133,
-  "2022-04-05": 318133,
-  "2022-04-06": 318133,
-  "2022-04-07": 318133,
-  "2022-04-08": 318133,
-  "2022-04-09": 318133,
-  "2022-04-10": 318133,
-  "2022-04-11": 318133,
-  "2022-04-12": 318133,
-  "2022-04-13": 318133,
-  "2022-04-14": 318133,
-  "2022-04-15": 318133,
-  "2022-04-16": 318133,
-  "2022-04-17": 318133,
-  "2022-04-18": 318133,
-  "2022-04-19": 318133,
-  "2022-04-20": 318133,
-  "2022-04-21": 318133,
-  "2022-04-22": 318133,
-  "2022-04-23": 318133,
-  "2022-04-24": 318133,
-  "2022-04-25": 318133,
-  "2022-04-26": 318133,
-  "2022-04-27": 318133,
-  "2022-04-28": 318133,
-  "2022-04-29": 318133,
-  "2022-04-30": 318133,
-  "2022-05-01": 318133,
-  "2022-05-02": 318133,
-  "2022-05-03": 318133,
-  "2022-05-04": 318133,
-  "2022-05-05": 318133,
-  "2022-05-06": 318133,
-  "2022-05-07": 318133,
-  "2022-05-08": 318133,
-  "2022-05-09": 318133,
-  "2022-05-10": 318133,
-  "2022-05-11": 318133,
-  "2022-05-12": 318133,
-  "2022-05-13": 318133,
-  "2022-05-14": 318133,
-  "2022-05-15": 318133,
-  "2022-05-16": 318133,
-  "2022-05-17": 318133,
-  "2022-05-18": 318133,
-  "2022-05-19": 318133,
-  "2022-05-20": 318133,
-  "2022-05-21": 318133,
-  "2022-05-22": 318133,
-  "2022-05-23": 318133,
-  "2022-05-24": 318133,
-  "2022-05-25": 318133,
-  "2022-05-26": 318133,
-  "2022-05-27": 318133,
-  "2022-05-28": 318133,
-  "2022-05-29": 318133,
-  "2022-05-30": 318133,
-  "2022-05-31": 318133,
-  "2022-06-01": 318133,
-  "2022-06-02": 318133,
-  "2022-06-03": 318133,
-  "2022-06-04": 318133,
-  "2022-06-05": 318133,
-  "2022-06-06": 318133,
-  "2022-06-07": 318133,
-  "2022-06-08": 318133,
-  "2022-06-09": 318133,
-  "2022-06-10": 318133,
-  "2022-06-11": 318133,
-  "2022-06-12": 318133,
-  "2022-06-13": 318133,
-  "2022-06-14": 318133,
-  "2022-06-15": 318133,
-  "2022-06-16": 318133,
-  "2022-06-17": 318133,
-  "2022-06-18": 318133,
-  "2022-06-19": 318133,
-  "2022-06-20": 318133,
-  "2022-06-21": 318133,
-  "2022-06-22": 318133,
-  "2022-06-23": 318133,
-  "2022-06-24": 318133,
-  "2022-06-25": 318133,
-  "2022-06-26": 318133,
-  "2022-06-27": 318133,
-  "2022-06-28": 318133,
-  "2022-06-29": 318133,
-  "2022-06-30": 318133,
-  "2022-07-01": 318133,
-  "2022-07-02": 318133,
-  "2022-07-03": 318133,
-  "2022-07-04": 318133,
-  "2022-07-05": 318133,
-  "2022-07-06": 318133,
-  "2022-07-07": 318133,
-  "2022-07-08": 318133,
-  "2022-07-09": 318133,
-  "2022-07-10": 318133,
-  "2022-07-11": 318133,
-  "2022-07-12": 318133,
-  "2022-07-13": 318133,
-  "2022-07-14": 318133,
-  "2022-07-15": 318133,
-  "2022-07-16": 318133,
-  "2022-07-17": 318133,
-  "2022-07-18": 318133,
-  "2022-07-19": 318133,
-  "2022-07-20": 318133,
-  "2022-07-21": 318133,
-  "2022-07-22": 318133,
-  "2022-07-23": 318133,
-  "2022-07-24": 318133,
-  "2022-07-25": 318133,
-  "2022-07-26": 318133,
-  "2022-07-27": 318133,
-  "2022-07-28": 318133,
-  "2022-07-29": 318133,
-  "2022-07-30": 318133,
-  "2022-07-31": 318133,
-  "2022-08-01": 318133,
-  "2022-08-02": 318133,
-  "2022-08-03": 318133,
-  "2022-08-04": 318133,
-  "2022-08-05": 318133,
-  "2022-08-06": 318133,
-  "2022-08-07": 318133,
-  "2022-08-08": 318133,
-  "2022-08-09": 318133,
-  "2022-08-10": 318133,
-  "2022-08-11": 318133,
-  "2022-08-12": 318133,
-  "2022-08-13": 318133,
-  "2022-08-14": 318133,
-  "2022-08-15": 318133,
-  "2022-08-16": 318133,
-  "2022-08-17": 318133,
-  "2022-08-18": 318133,
-  "2022-08-19": 318133,
-  "2022-08-20": 318133,
-  "2022-08-21": 318133,
-  "2022-08-22": 318133,
-  "2022-08-23": 318133,
-  "2022-08-24": 318133,
-  "2022-08-25": 318133,
-  "2022-08-26": 318133,
-  "2022-08-27": 318133,
-  "2022-08-28": 318133,
-  "2022-08-29": 318133,
-  "2022-08-30": 318133,
-  "2022-08-31": 318133,
-  "2022-09-01": 318133,
-  "2022-09-02": 318133,
-  "2022-09-03": 318133,
-  "2022-09-04": 318133,
-  "2022-09-05": 318133,
-  "2022-09-06": 318133,
-  "2022-09-07": 318133,
-  "2022-09-09": 318133,
-  "2022-09-10": 318133,
-  "2022-09-11": 318133,
-  "2022-09-12": 318133,
-  "2022-09-13": 318133,
-  "2022-09-15": 318133,
-  "2022-09-16": 318133,
-  "2022-09-17": 318133,
-  "2022-09-18": 318133,
-  "2022-09-19": 318133,
-  "2022-09-20": 318133,
-  "2022-09-21": 318133,
-  "2022-09-22": 318133,
-  "2022-09-23": 318133,
-  "2022-09-24": 318133,
-  "2022-09-25": 318133,
-  "2022-09-26": 318133,
-  "2022-09-27": 318133,
-  "2022-09-28": 318133,
-  "2022-09-29": 318133,
-  "2022-09-30": 318133,
-  "2022-10-01": 318133,
-  "2022-10-02": 318133,
-  "2022-10-03": 318133,
-  "2022-10-04": 318133,
-  "2022-10-05": 318133,
-  "2022-10-06": 318133,
-  "2022-10-07": 318133,
-  "2022-10-08": 318133,
-  "2022-10-09": 318133,
-  "2022-10-10": 318133,
-  "2022-10-11": 318133,
-  "2022-10-12": 318133,
-  "2022-10-13": 318133,
-  "2022-10-14": 318133,
-  "2022-10-15": 318133,
-  "2022-10-16": 318133,
-  "2022-10-17": 318133,
-  "2022-10-18": 318133,
-  "2022-10-19": 318133,
-  "2022-10-20": 318133,
-  "2022-10-21": 318133,
-  "2022-10-22": 318133,
-  "2022-10-23": 318133,
-  "2022-10-24": 318133,
-  "2022-10-25": 318133,
-  "2022-10-26": 318133,
-  "2022-10-27": 318133,
-  "2022-10-28": 318133,
-  "2022-10-29": 318133,
-  "2022-10-30": 318133,
-  "2022-10-31": 318133,
-  "2022-11-01": 318133,
-  "2022-11-02": 318133,
-  "2022-11-03": 318133,
-  "2022-11-04": 318133,
-  "2022-11-05": 318133,
-  "2022-11-06": 318133,
-  "2022-11-07": 318133,
-  "2022-11-08": 318133,
-  "2022-11-09": 318133,
-  "2022-11-10": 318133,
-  "2022-11-11": 318133,
-  "2022-11-12": 318133,
-  "2022-11-13": 318133,
-  "2022-11-14": 318133,
-  "2022-11-15": 318133,
-  "2022-11-16": 318133,
-  "2022-11-17": 318133,
-  "2022-11-18": 318133,
-  "2022-11-19": 318133,
-  "2022-11-20": 318133,
-  "2022-11-21": 318133,
-  "2022-11-22": 318133,
-  "2022-11-23": 318133,
-  "2022-11-24": 318133,
-  "2022-11-25": 318133,
-  "2022-11-26": 318133,
-  "2022-11-27": 318133,
-  "2022-11-28": 318133,
-  "2022-11-29": 318133,
-  "2022-11-30": 318133,
-  "2022-12-01": 318133,
-  "2022-12-02": 318133,
-  "2022-12-03": 318133,
-  "2022-12-04": 318133,
-  "2022-12-05": 318133,
-  "2022-12-06": 318133,
-  "2022-12-07": 318133,
-  "2022-12-08": 318133,
-  "2022-12-09": 318133,
-  "2022-12-10": 318133,
-  "2022-12-11": 318133,
-  "2022-12-12": 318133,
-  "2022-12-13": 318133,
-  "2022-12-14": 318133,
-  "2022-12-15": 318133,
-  "2022-12-16": 318133,
-  "2022-12-17": 318133,
-  "2022-12-18": 318133,
-  "2022-12-19": 318133,
-  "2022-12-20": 318133,
-  "2022-12-21": 318133,
-  "2022-12-22": 318133,
-  "2022-12-24": 318133,
-  "2022-12-25": 318133,
-  "2022-12-26": 318133,
-  "2022-12-27": 318133,
-  "2022-12-28": 318133,
-  "2022-12-29": 318133,
-  "2022-12-30": 318133,
-  "2022-12-31": 318133,
-  "2023-01-01": 318133,
-  "2023-01-02": 318133,
-  "2023-01-03": 318133,
-  "2023-01-04": 318133,
-  "2023-01-05": 318133,
-  "2023-01-06": 318133,
-  "2023-01-07": 318133,
-  "2023-01-08": 318133,
-  "2023-01-09": 318133,
-  "2023-01-10": 318133,
-  "2023-01-11": 318133,
-  "2023-01-12": 318133,
-  "2023-01-13": 318133,
-  "2023-01-14": 318133,
-  "2023-01-15": 318133,
-  "2023-01-16": 318133,
-  "2023-01-17": 318133,
-  "2023-01-18": 318133,
-  "2023-01-19": 318133,
-  "2023-01-20": 318133,
-  "2023-01-21": 318133,
-  "2023-01-22": 318133,
-  "2023-01-23": 318133,
-  "2023-01-24": 318133,
-  "2023-01-25": 318133,
-  "2023-01-26": 318133,
-  "2023-01-27": 318133,
-  "2023-01-28": 318133,
-  "2023-01-29": 318133,
-  "2023-01-30": 318133,
-  "2023-01-31": 318133,
-  "2023-02-01": 318133,
-  "2023-02-02": 318133,
-  "2023-02-03": 318133,
-  "2023-02-04": 318133,
-  "2023-02-05": 318133,
-  "2023-02-06": 318133,
-  "2023-02-07": 318133,
-  "2023-02-08": 318133,
-  "2023-02-09": 318133,
-  "2023-02-10": 318133,
-  "2023-02-11": 318133,
-  "2023-02-12": 318133,
-  "2023-02-13": 318133,
-  "2023-02-14": 318133,
-  "2023-02-15": 318133,
-  "2023-02-16": 318133,
-  "2023-02-17": 318133,
-  "2023-02-18": 318133,
-  "2023-02-19": 318133,
-  "2023-02-20": 318133,
-  "2023-02-21": 318133,
-  "2023-02-22": 318133,
-  "2023-02-23": 318133,
-  "2023-02-24": 318133,
-  "2023-02-25": 318133,
-  "2023-02-26": 318133,
-  "2023-02-27": 318133,
-  "2023-02-28": 318133,
-  "2023-03-01": 318133,
-  "2023-03-02": 318133,
-  "2023-03-03": 318133,
-  "2023-03-04": 318133,
-  "2023-03-05": 318133,
-  "2023-03-06": 318133,
-  "2023-03-07": 318133,
-  "2023-03-08": 318133,
-  "2023-03-09": 318133,
-  "2023-03-10": 318133,
-  "2023-03-11": 318133,
-  "2023-03-12": 318133,
-  "2023-03-13": 318133,
-  "2023-03-14": 318133,
-  "2023-03-15": 318133,
-  "2023-03-16": 318133,
-  "2023-03-17": 318133,
-  "2023-03-18": 318133,
-  "2023-03-19": 318133,
-  "2023-03-20": 318133,
-  "2023-03-21": 318133,
-  "2023-03-22": 318133,
-  "2023-03-23": 318133,
-  "2023-03-24": 318133,
-  "2023-03-25": 318133,
-  "2023-03-26": 318133,
-  "2023-03-27": 318133,
-  "2023-03-28": 318133,
-  "2023-03-29": 318133,
-  "2023-03-30": 318133,
-  "2023-03-31": 318133,
-  "2023-04-01": 318133,
-  "2023-04-02": 318133,
-  "2023-04-03": 318133,
-  "2023-04-04": 318133,
-  "2023-04-05": 318133,
-  "2023-04-06": 318133,
-  "2023-04-07": 318133,
-  "2023-04-09": 318133,
-  "2023-04-10": 318133,
-  "2023-04-11": 318133,
-  "2023-04-12": 318133,
-  "2023-04-13": 318133,
-  "2023-04-14": 318133,
-  "2023-04-15": 318133,
-  "2023-04-16": 318133,
-  "2023-04-17": 318133,
-  "2023-04-18": 318133,
-  "2023-04-19": 318133,
-  "2023-04-20": 318133,
-  "2023-04-21": 318133,
-  "2023-04-22": 318133,
-  "2023-04-23": 318133,
-  "2023-04-24": 318133,
-  "2023-04-25": 318133,
-  "2023-04-26": 318133,
-  "2023-04-27": 318133,
-  "2023-04-28": 318133,
-  "2023-04-29": 318133,
-  "2023-04-30": 318133,
-  "2023-05-01": 318133,
-  "2023-05-02": 318133,
-  "2023-05-03": 318133,
-  "2023-05-04": 318133,
-  "2023-05-05": 318133,
-  "2023-05-06": 318133,
-  "2023-05-07": 318133,
-  "2023-05-08": 318133,
-  "2023-05-09": 318133,
-  "2023-05-10": 318133,
-  "2023-05-11": 318133,
-  "2023-05-12": 318133,
-  "2023-05-13": 318133,
-  "2023-05-14": 318133,
-  "2023-05-15": 318133,
-  "2023-05-16": 318133,
-  "2023-05-17": 318133,
-  "2023-05-18": 318133,
-  "2023-05-19": 318133,
-  "2023-05-20": 318133,
-  "2023-05-21": 318133,
-  "2023-05-22": 318133,
-  "2023-05-23": 318133,
-  "2023-05-24": 318133,
-  "2023-05-25": 318133,
-  "2023-05-26": 318133,
-  "2023-05-27": 318133,
-  "2023-05-28": 318133,
-  "2023-05-29": 318133,
-  "2023-05-30": 318133,
-  "2023-05-31": 318133,
-  "2023-06-01": 318133,
-  "2023-06-02": 318133,
-  "2023-06-03": 318133,
-  "2023-06-04": 318133,
-  "2023-06-05": 318133,
-  "2023-06-06": 318133,
-  "2023-06-07": 318133,
-  "2023-06-08": 318133,
-  "2023-06-09": 318133,
-  "2023-06-10": 318133,
-  "2023-06-11": 318133,
-  "2023-06-12": 318133,
-  "2023-06-13": 318133,
-  "2023-06-14": 318133,
-  "2023-06-15": 318133,
-  "2023-06-16": 318133,
-  "2023-06-17": 318133,
-  "2023-06-18": 318133,
-  "2023-06-19": 318133,
-  "2023-06-20": 318133,
-  "2023-06-21": 318133,
-  "2023-06-22": 318133,
-  "2023-06-23": 318133,
-  "2023-06-24": 318133,
-  "2023-06-25": 318133,
-  "2023-06-26": 318133,
-  "2023-06-27": 318133,
-  "2023-06-28": 318133,
-  "2023-06-29": 318133,
-  "2023-06-30": 318133,
-  "2023-07-01": 318133,
-  "2023-07-02": 318133,
-  "2023-07-03": 318133,
-  "2023-07-04": 318133,
-  "2023-07-05": 318133,
-  "2023-07-06": 318133,
-  "2023-07-07": 318133,
-  "2023-07-08": 318133,
-  "2023-07-09": 318133,
-  "2023-07-10": 318133,
-  "2023-07-11": 318133,
-  "2023-07-12": 318133,
-  "2023-07-13": 318133,
-  "2023-07-14": 318133,
-  "2023-07-15": 318133,
-  "2023-07-16": 318133,
-  "2023-07-17": 318133,
-  "2023-07-18": 318133,
-  "2023-07-19": 318133,
-  "2023-07-20": 318133,
-  "2023-07-21": 318133,
-  "2023-07-22": 318133,
-  "2023-07-23": 318133,
-  "2023-07-24": 318133,
-  "2023-07-25": 318133,
-  "2023-07-26": 318133,
-  "2023-07-27": 318133,
-  "2023-07-28": 318133,
-  "2023-07-29": 318133,
-  "2023-07-30": 318133,
-  "2023-07-31": 318133,
-  "2023-08-01": 318133,
-  "2023-08-02": 318133,
-  "2023-08-03": 318133,
-  "2023-08-04": 318133,
-  "2023-08-05": 318133,
-  "2023-08-06": 318133,
-  "2023-08-07": 318133,
-  "2023-08-08": 318133,
-  "2023-08-09": 318133,
-  "2023-08-10": 318133,
-  "2023-08-11": 318133,
-  "2023-08-12": 318133,
-  "2023-08-13": 318133,
-  "2023-08-14": 318133,
-  "2023-08-15": 318133,
-  "2023-08-16": 318133,
-  "2023-08-17": 318133,
-  "2023-08-18": 318133,
-  "2023-08-19": 318133,
-  "2023-08-20": 318133,
-  "2023-08-21": 318133,
-  "2023-08-22": 318133,
-  "2023-08-23": 318133,
-  "2023-08-24": 318133,
-  "2023-08-25": 318133,
-  "2023-08-26": 318133,
-  "2023-08-27": 318133,
-  "2023-08-28": 318133,
-  "2023-08-29": 318133,
-  "2023-08-30": 318133,
-  "2023-08-31": 318133,
-  "2023-09-01": 318133,
-  "2023-09-02": 318133,
-  "2023-09-03": 318133,
-  "2023-09-04": 318133,
-  "2023-09-05": 318133,
-  "2023-09-06": 318133,
-  "2023-09-07": 318133,
-  "2023-09-08": 318133,
-  "2023-09-09": 318133,
-  "2023-09-10": 318133,
-  "2023-09-11": 318133,
-  "2023-09-12": 318133,
-  "2023-09-13": 318133,
-  "2023-09-14": 318133,
-  "2023-09-15": 318133,
-  "2023-09-16": 318133,
-  "2023-09-17": 318133,
-  "2023-09-18": 318133,
-  "2023-09-19": 318133,
-  "2023-09-20": 318133,
-  "2023-09-21": 318133,
-  "2023-09-22": 318133,
-  "2023-09-23": 318133,
-  "2023-09-24": 318133,
-  "2023-09-25": 318133,
-  "2023-09-26": 318133,
-  "2023-09-27": 318133,
-  "2023-09-28": 318133,
-  "2023-09-29": 318133,
-  "2023-09-30": 318133,
-  "2023-10-01": 318133,
-  "2023-10-02": 318133,
-  "2023-10-03": 318133,
-  "2023-10-04": 318133,
-  "2023-10-05": 318133,
-  "2023-10-06": 318133,
-  "2023-10-07": 318133,
-  "2023-10-08": 318133,
-  "2023-10-09": 318133,
-  "2023-10-10": 318133,
-  "2023-10-11": 318133,
-  "2023-10-12": 318133,
-  "2023-10-13": 318133,
-  "2023-10-14": 318133,
-  "2023-10-15": 318133,
-  "2023-10-16": 318133,
-  "2023-10-17": 318133,
-  "2023-10-18": 318133,
-  "2023-10-19": 318133,
-  "2023-10-20": 318133,
-  "2023-10-21": 318133,
-  "2023-10-22": 318133,
-  "2023-10-23": 318133,
-  "2023-10-24": 318133,
-  "2023-10-25": 318133,
-  "2023-10-26": 318133,
-  "2023-10-27": 318133,
-  "2023-10-28": 318133,
-  "2023-10-29": 318133,
-  "2023-10-30": 318133,
-  "2023-10-31": 318133,
-  "2023-11-01": 318133,
-  "2023-11-02": 318133,
-  "2023-11-03": 318133,
-  "2023-11-04": 318133,
-  "2023-11-05": 318133,
-  "2023-11-06": 318133,
-  "2023-11-07": 318133,
-  "2023-11-08": 318133,
-  "2023-11-09": 318133,
-  "2023-11-10": 318133,
-  "2023-11-11": 318133,
-  "2023-11-12": 318133,
-  "2023-11-13": 318133,
-  "2023-11-14": 318133,
-  "2023-11-15": 318133,
-  "2023-11-16": 318133,
-  "2023-11-17": 318133,
-  "2023-11-18": 318133,
-  "2023-11-19": 318133,
-  "2023-11-20": 318133,
-  "2023-11-21": 318133,
-  "2023-11-22": 318133,
-  "2023-11-23": 318133,
-  "2023-11-24": 318133,
-  "2023-11-25": 318133,
-  "2023-11-26": 318133,
-  "2023-11-27": 318133,
-  "2023-11-28": 318133,
-  "2023-11-29": 318133,
-  "2023-11-30": 318133,
-  "2023-12-01": 318133,
-  "2023-12-02": 318133,
-  "2023-12-03": 318133,
-  "2023-12-04": 318133,
-  "2023-12-05": 318133,
-  "2023-12-06": 318133,
-  "2023-12-07": 318133,
-  "2023-12-08": 318133,
-  "2023-12-09": 318133,
-  "2023-12-10": 318133,
-  "2023-12-11": 318133,
-  "2023-12-12": 318133,
-  "2023-12-13": 318133,
-  "2023-12-14": 318133,
-  "2023-12-15": 318133,
-  "2023-12-16": 318133,
-  "2023-12-17": 318133,
-  "2023-12-18": 318133,
-  "2023-12-19": 318133,
-  "2023-12-20": 318133,
-  "2023-12-21": 318133,
-  "2023-12-22": 318133,
-  "2023-12-23": 318133,
-  "2023-12-24": 318133,
-  "2023-12-25": 318133,
-  "2023-12-26": 318133,
-  "2023-12-27": 318133,
-  "2023-12-30": 318133,
-  "2023-12-31": 318133,
-  "2024-01-01": 318133,
-  "2024-01-02": 318133,
-  "2024-01-03": 318133
+  "2024-01-17": 318133,
+  "date_first_scraped": "2021-12-21",
+  "description": "The essential KISS, all in one place.",
+  "name": "This Is KISS (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lick It Up (Remastered Version)",
+        "url": "https://open.spotify.com/album/2WGWP0OTduRpSNe055aL0O"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "A Million To One",
+      "url": "https://open.spotify.com/track/3BQxwqMIrDH2yEf0LohF12"
+    },
+    {
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+    },
+    {
+      "album": {
+        "name": "Dressed To Kill (Remastered Version)",
+        "url": "https://open.spotify.com/album/1qjBjGoc5UCL8dg7q72UVP"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "C'mon And Love Me",
+      "url": "https://open.spotify.com/track/1b9E9SNS0BaTnMM1M89GHz"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "Calling Dr. Love",
+      "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
+    },
+    {
+      "album": {
+        "name": "Dynasty (Remastered Version)",
+        "url": "https://open.spotify.com/album/4ZI8J8xcvFTje53q91yAFs"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265933,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/1QuQ8y7cyjpYJgauHqAsxP"
+    },
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262973,
+      "name": "Cold Gin",
+      "url": "https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8"
+    },
+    {
+      "album": {
+        "name": "Crazy Nights (Remastered Version)",
+        "url": "https://open.spotify.com/album/50WDm1tVXgUjwbMtmm4o6u"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Crazy Crazy Nights",
+      "url": "https://open.spotify.com/track/45AmJxnQ9ifHsADkmp1qz1"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night (Remastered Version)",
+        "url": "https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243400,
+      "name": "Creatures Of The Night",
+      "url": "https://open.spotify.com/track/5IVzK4nmcPhKQrZSuvcFy5"
+    },
+    {
+      "album": {
+        "name": "Destroyer (Remastered Version)",
+        "url": "https://open.spotify.com/album/6pM2OebWJjdIkB8kQZU87b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318200,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/2pTT8ZlrxfLl9zovq8H4Q2"
+    },
+    {
+      "album": {
+        "name": "Kiss (Remastered Version)",
+        "url": "https://open.spotify.com/album/3Wp4R81dcFmeJ90iwmTXAQ"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Deuce",
+      "url": "https://open.spotify.com/track/61C3q9WLs0NpYCMeeLr2RW"
+    },
+    {
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Do You Love Me",
+      "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240493,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279066,
+      "name": "Every Time I Look At You",
+      "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
+    },
+    {
+      "album": {
+        "name": "Destroyer (Remastered Version)",
+        "url": "https://open.spotify.com/album/6pM2OebWJjdIkB8kQZU87b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "Flaming Youth",
+      "url": "https://open.spotify.com/track/61lnbnJA3TMsZrGrqpkQ5m"
+    },
+    {
+      "album": {
+        "name": "Hot In The Shade",
+        "url": "https://open.spotify.com/album/2oumvuipSTRBQDcA9RVtTP"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232626,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0oSjcBQU1n11XpohLbCE5O"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320226,
+      "name": "God Gave Rock 'N' Roll To You II",
+      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
+    },
+    {
+      "album": {
+        "name": "Destroyer (Remastered Version)",
+        "url": "https://open.spotify.com/album/6pM2OebWJjdIkB8kQZU87b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253840,
+      "name": "God Of Thunder",
+      "url": "https://open.spotify.com/track/1S7TXP3ljMQEpsXlge5zji"
+    },
+    {
+      "album": {
+        "name": "Hotter Than Hell (Remastered Version)",
+        "url": "https://open.spotify.com/album/5IObn61Lp3aQ2Hb875ZTk6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Goin' Blind",
+      "url": "https://open.spotify.com/track/01AJsKRh3Ny0okDDtUROgx"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Hard Luck Woman",
+      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
+    },
+    {
+      "album": {
+        "name": "Animalize (Remastered Version)",
+        "url": "https://open.spotify.com/album/7bVCYp0Ubh3rWWWUGMDuqy"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Heaven's On Fire",
+      "url": "https://open.spotify.com/track/01fv3ehMBP3wZoWcjOCHWh"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4kbpC5IuE0gPbDAG0YIHAX"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247280,
+      "name": "Hell Or Hallelujah",
+      "url": "https://open.spotify.com/track/1cIaeorUtSqh8wyANSfQWz"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night (Remastered Version)",
+        "url": "https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255426,
+      "name": "I Love It Loud",
+      "url": "https://open.spotify.com/track/7a9B6AGbsyJ7ihroI5Ntur"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night (Remastered Version)",
+        "url": "https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366106,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB"
+    },
+    {
+      "album": {
+        "name": "Love Gun (Remastered Version)",
+        "url": "https://open.spotify.com/album/3VivUk7rFkaAzrSCbp0giF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "I Stole Your Love",
+      "url": "https://open.spotify.com/track/5shCxjhe8srzMMimBtdPAA"
+    },
+    {
+      "album": {
+        "name": "Dynasty (Remastered Version)",
+        "url": "https://open.spotify.com/album/4ZI8J8xcvFTje53q91yAFs"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/6S9q9mEifNdnTNlli2xSuD"
+    },
+    {
+      "album": {
+        "name": "Carnival Of Souls: The Final Sessions",
+        "url": "https://open.spotify.com/album/3QC94KhsfrsVLKZcBFVyyJ"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229306,
+      "name": "I Will Be There",
+      "url": "https://open.spotify.com/track/38pkS60AZGN25uxQLFUc6l"
+    },
+    {
+      "album": {
+        "name": "Killers",
+        "url": "https://open.spotify.com/album/6NLwpe3ztBODWaEWg1udJs"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238813,
+      "name": "I'm A Legend Tonight",
+      "url": "https://open.spotify.com/track/3pWtQ6toHqdZh886w5k2tH"
+    },
+    {
+      "album": {
+        "name": "Lick It Up (Remastered Version)",
+        "url": "https://open.spotify.com/album/2WGWP0OTduRpSNe055aL0O"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Lick It Up",
+      "url": "https://open.spotify.com/track/0wriasAXzNoXPX31XYiba3"
+    },
+    {
+      "album": {
+        "name": "Love Gun (Remastered Version)",
+        "url": "https://open.spotify.com/album/3VivUk7rFkaAzrSCbp0giF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Love Gun",
+      "url": "https://open.spotify.com/track/5MFYMGpELNHIRng8WblNCr"
+    },
+    {
+      "album": {
+        "name": "Sonic Boom [German Version]",
+        "url": "https://open.spotify.com/album/4ZgcDBXKucfcjhtQa0adJe"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "Modern Day Delilah",
+      "url": "https://open.spotify.com/track/1DrYT76fi549dM1ZzLRjIm"
+    },
+    {
+      "album": {
+        "name": "Kiss: Ace Frehley",
+        "url": "https://open.spotify.com/album/3XV8HJgy2lbBhQIj8n9cVh"
+      },
+      "artists": [
+        {
+          "name": "Ace Frehley",
+          "url": "https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "New York Groove",
+      "url": "https://open.spotify.com/track/3osfGSP1QvXWdgWWrvttQh"
+    },
+    {
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Plaster Caster",
+      "url": "https://open.spotify.com/track/5BMGKj445wO9EgMHMhAMIg"
+    },
+    {
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/02fdqg15D4tA1f5c6iNK4Z"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330360,
+      "name": "Psycho Circus",
+      "url": "https://open.spotify.com/track/6vlSke9gk5j8iHikBB0a2z"
+    },
+    {
+      "album": {
+        "name": "Gene Simmons",
+        "url": "https://open.spotify.com/album/1UG6nXmopbK68829KOhZa4"
+      },
+      "artists": [
+        {
+          "name": "Gene Simmons",
+          "url": "https://open.spotify.com/artist/5gAbCaW9OmfIqqZGLpKb3f"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/16yV7oJyKuzEfKhsY0avVR"
+    },
+    {
+      "album": {
+        "name": "Crazy Nights (Remastered Version)",
+        "url": "https://open.spotify.com/album/50WDm1tVXgUjwbMtmm4o6u"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Reason To Live",
+      "url": "https://open.spotify.com/track/0NdCMQqXwXvaVitgRTElSj"
+    },
+    {
+      "album": {
+        "name": "Hot In The Shade",
+        "url": "https://open.spotify.com/album/2oumvuipSTRBQDcA9RVtTP"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244240,
+      "name": "Rise To It",
+      "url": "https://open.spotify.com/track/05egaMi3QfTR6e36ENorlN"
+    },
+    {
+      "album": {
+        "name": "Dressed To Kill (Remastered Version)",
+        "url": "https://open.spotify.com/album/1qjBjGoc5UCL8dg7q72UVP"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/0fCWbJq1hagsRgShtn6gIU"
+    },
+    {
+      "album": {
+        "name": "Alive II (Remastered Version)",
+        "url": "https://open.spotify.com/album/1tTqwVVQwhe0pqUUTj5Fi5"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "Rocket Ride",
+      "url": "https://open.spotify.com/track/7lBMJbsGn59bsnZnXwzcN5"
+    },
+    {
+      "album": {
+        "name": "Unmasked (Remastered Version)",
+        "url": "https://open.spotify.com/album/0QFeJLzvaeCHe2X3cjTDwn"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Shandi",
+      "url": "https://open.spotify.com/track/3DuK3ztxt6jwtMN4BGLEVG"
+    },
+    {
+      "album": {
+        "name": "Kiss (Remastered Version)",
+        "url": "https://open.spotify.com/album/3Wp4R81dcFmeJ90iwmTXAQ"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Strutter",
+      "url": "https://open.spotify.com/track/2GNat4nfktZONFZ7Cqm5Bq"
+    },
+    {
+      "album": {
+        "name": "Dynasty (Remastered Version)",
+        "url": "https://open.spotify.com/album/4ZI8J8xcvFTje53q91yAFs"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241506,
+      "name": "Sure Know Something",
+      "url": "https://open.spotify.com/track/0vuOvCwfwIt43HhlDJeVMX"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Over (Remastered Version)",
+        "url": "https://open.spotify.com/album/0SnCUvff87FWw0m9Lxp51D"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/2um0bfBHa3nnEaPILqETKG"
+    },
+    {
+      "album": {
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235933,
+      "name": "Tears Are Falling",
+      "url": "https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3"
+    },
+    {
+      "album": {
+        "name": "Music From \"The Elder\" (Remastered Version)",
+        "url": "https://open.spotify.com/album/24c99sOvMuDbVI6rbU3BTl"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271466,
+      "name": "The Oath",
+      "url": "https://open.spotify.com/track/4TE7Ia6s3UxnB8pMSCJnjj"
+    },
+    {
+      "album": {
+        "name": "Animalize (Remastered Version)",
+        "url": "https://open.spotify.com/album/7bVCYp0Ubh3rWWWUGMDuqy"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261426,
+      "name": "Thrills In The Night",
+      "url": "https://open.spotify.com/track/1ezMXbj83MyIo1mTrDXoag"
+    },
+    {
+      "album": {
+        "name": "Paul Stanley",
+        "url": "https://open.spotify.com/album/1dfx29ZDPSayTfJoFCx9oE"
+      },
+      "artists": [
+        {
+          "name": "Paul Stanley",
+          "url": "https://open.spotify.com/artist/5W0GCoUUwU3SF6qpJanlug"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280466,
+      "name": "Tonight You Belong To Me",
+      "url": "https://open.spotify.com/track/0Deh1HDteO2ucWyFEI3MwS"
+    },
+    {
+      "album": {
+        "name": "Asylum (Remastered Version)",
+        "url": "https://open.spotify.com/album/2pf9Ihv3MB7w0r8nS3yq4S"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243800,
+      "name": "Uh! All Night",
+      "url": "https://open.spotify.com/track/5N21fcQRxAkfLdTl833DTZ"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/0ebfVybTT7IVAfZ9uq5OX6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/6lEjHafVGt2FzYw2a5ZdIS"
+    },
+    {
+      "album": {
+        "name": "Asylum (Remastered Version)",
+        "url": "https://open.spotify.com/album/2pf9Ihv3MB7w0r8nS3yq4S"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Who Wants To Be Lonely",
+      "url": "https://open.spotify.com/track/69KAca7l3O12Njw0Q0JBoF"
+    },
+    {
+      "album": {
+        "name": "Peter Criss",
+        "url": "https://open.spotify.com/album/0Z6MDjfxXrGyOhS2zrO7yL"
+      },
+      "artists": [
+        {
+          "name": "Peter Criss",
+          "url": "https://open.spotify.com/artist/5DWj9QLyCN9dyQydd1P9QG"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197773,
+      "name": "You Matter To Me",
+      "url": "https://open.spotify.com/track/0mXEKzNPqSg1FPVTa1moaV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5L9gRaHajqj"
 }

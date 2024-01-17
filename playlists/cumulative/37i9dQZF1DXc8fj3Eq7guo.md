@@ -4,7 +4,7 @@
 
 > Where you at? We outside!
 
-61 songs - 4 hr 16 min
+62 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 |  |
 | [Botswana](https://open.spotify.com/track/1CzcV8k8LoILPQMCGb7Zis) | [Carto](https://open.spotify.com/artist/5PJi5oUz6E3iA2t9IHtXVE), [Midday](https://open.spotify.com/artist/7eKm0PKhNlA36ybLq3fGs0) | [Cartostrophe](https://open.spotify.com/album/2fh9U70k4ZphuTnL5iufgw) | 2:58 | 2023-09-08 |  |
 | [Cairo](https://open.spotify.com/track/7dPGqNBb89NlmYyc1zkQ8a) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Cairo](https://open.spotify.com/album/0eZghBruhOmhbF5Uy9nqJR) | 3:16 | 2023-09-08 |  |
-| [Congo](https://open.spotify.com/track/5hdc76uABRjaZ7rZrE8mTb) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:44 | 2023-09-08 |  |
+| [Congo](https://open.spotify.com/track/50ZTcX3axxFDTd0UIOhPDy) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/1LxfAAwpMpXYzCOlDQAUEZ) | 3:44 | 2023-12-15 |  |
+| [Congo](https://open.spotify.com/track/5hdc76uABRjaZ7rZrE8mTb) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:44 | 2023-09-08 | 2024-01-12 |
 | [Dar Mpaka Moro](https://open.spotify.com/track/3WMhJoxSQ2gDx7cbHUOKX1) | [34GVNG](https://open.spotify.com/artist/3PcH8OctDvsGvWpbmTyWkE) | [Dar Mpaka Moro](https://open.spotify.com/album/6UhqSSojeI7zRX5o5khtwv) | 3:16 | 2023-09-08 | 2023-12-16 |
 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 |  |
 | [Durban](https://open.spotify.com/track/65DMtntgb3Ptc4Ag828z8J) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Home](https://open.spotify.com/album/7HSs5XfwIMll6DsjdyO1WR) | 4:07 | 2023-09-08 |  |

@@ -4,7 +4,7 @@
 
 > The USB essentials that defined our setlists this year\. Cover: Skrillex, Fred again.\. & Four Tet
 
-166 songs - 11 hr 22 min
+168 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-11-29 |  |
 | [Angel 1](https://open.spotify.com/track/2XmN4sUQdDwnAwCqTpScMw) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 5:46 | 2022-11-30 | 2023-11-30 |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-11-30 | 2023-08-18 |
-| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-11-29 |  |
+| [Aria](https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA) | 3:56 | 2023-11-29 |  |
+| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-11-29 | 2024-01-05 |
 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2023-11-29 |  |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-11-30 | 2023-11-30 |
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-11-29 |  |
@@ -99,7 +100,8 @@
 | [Manizer](https://open.spotify.com/track/0pe3Yuk1Bqed5pQJ3umH3Q) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/63UQSM43BVNmbRoYQkE19T) | 4:04 | 2022-11-30 | 2023-11-30 |
 | [Manizer](https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM) | 4:04 | 2022-11-30 | 2023-11-06 |
 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 | 2023-11-29 |  |
-| [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-11-29 |  |
+| [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2023-11-29 |  |
+| [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-11-29 | 2024-01-05 |
 | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA) | 2:56 | 2023-11-29 |  |
 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 | 2023-11-29 |  |
 | [Moon](https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Moon](https://open.spotify.com/album/1Qy0K3GpyxtAyG2u4s53VH) | 2:58 | 2023-11-29 |  |

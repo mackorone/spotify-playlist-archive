@@ -3489,24 +3489,6 @@
     },
     {
       "album": {
-        "name": "Archive of Emotions",
-        "url": "https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03"
-      },
-      "artists": [
-        {
-          "name": "Ryu Su Jeong",
-          "url": "https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc"
-        }
-      ],
-      "date_added": "2023-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196546,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/143uhMdnt6VRpHwDKSp4Ks"
-    },
-    {
-      "album": {
         "name": "Love or Hate",
         "url": "https://open.spotify.com/album/73lmR1Fx6yF8KdtCRfr6a0"
       },
@@ -3540,6 +3522,24 @@
       "duration_ms": 196546,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4sMaKBeqInpDVaGZCQHNl4"
+    },
+    {
+      "album": {
+        "name": "Archive of Emotions",
+        "url": "https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03"
+      },
+      "artists": [
+        {
+          "name": "Ryu Sujeong",
+          "url": "https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196546,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/143uhMdnt6VRpHwDKSp4Ks"
     },
     {
       "album": {
@@ -9442,7 +9442,7 @@
       },
       "artists": [
         {
-          "name": "Ryu Su Jeong",
+          "name": "Ryu Sujeong",
           "url": "https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc"
         }
       ],

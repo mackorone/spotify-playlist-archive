@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-248 songs - 11 hr 31 min
+251 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 | 2023-10-10 |  |
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* | 2023-09-09 |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-09-26 |  |
+| [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 | 2024-01-09 |  |
 | [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-09-08 |  |
 | [As We Float](https://open.spotify.com/track/2mCHLtMrI4SLayY8spzC5V) | [Joe Kirby](https://open.spotify.com/artist/0Vqhg7RKoHs40Y2Nc9jA8a) | [Abbey Road Masters: Repair & Reflect](https://open.spotify.com/album/3qbfM9ChNmnFlb1iU8B3Yv) | 2:46 | 2022-05-27 |  |
 | [Aspiration](https://open.spotify.com/track/2t8KaPzrQ3Isk45ZlhXKL4) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Aspiration](https://open.spotify.com/album/4mgZqnt9d1LMagwFdV0Ic6) | 3:06 | 2020-10-20\* |  |
@@ -49,6 +50,7 @@
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-06-18 | 2023-09-09 |
 | [Colin](https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Colin](https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR) | 2:43 | 2022-09-02 | 2023-09-09 |
 | [comforts of my home](https://open.spotify.com/track/1hhQmJMdkjz2zIwGWbspLT) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [comforts of my home](https://open.spotify.com/album/6DGBy524Vl7oPw4xFN9xsI) | 2:43 | 2023-09-08 |  |
+| [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 | 2024-01-09 |  |
 | [Creating](https://open.spotify.com/track/1WomdwYcTk5F70E4hxAOE3) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Dolce](https://open.spotify.com/album/0ygFEGKH9Rn6GeeThGKVOc) | 2:25 | 2020-10-20\* | 2023-09-09 |
 | [Crossing](https://open.spotify.com/track/08Q4GyxnB8ak1ZwHnjwova) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Crossing](https://open.spotify.com/album/3FljiBhzr6zWL9zymtBkpV) | 2:33 | 2020-10-20\* | 2023-09-09 |
 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 | 2020-10-20\* | 2023-09-09 |
@@ -197,8 +199,8 @@
 | [Sol Da Manhã](https://open.spotify.com/track/50N1j5jEo9Wj30rnG6OuIH) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Sol Da Manhã](https://open.spotify.com/album/6j4tS64diWDcR9suydI2dz) | 2:38 | 2020-10-20\* |  |
 | [Someone Else's Memories](https://open.spotify.com/track/0dbeYro3abzF7yIrRorb3o) | [So Vea](https://open.spotify.com/artist/3HKvIprAGifH1akdCwAm3u) | [Someone Else's Memories](https://open.spotify.com/album/21iNC9S6FJxEAbqTVFQW30) | 3:28 | 2020-10-20\* | 2023-09-09 |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-09-18 |  |
-| [Sommernacht](https://open.spotify.com/track/1UOcTdl0c9FV6kRJtlDstp) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Zeitwende](https://open.spotify.com/album/5r6ZeOl1BWKav1ygarn1Gd) | 2:30 | 2023-09-08 |  |
-| [Sonar](https://open.spotify.com/track/2cALhQ0Tark1fCoezh76lw) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Karl Moss](https://open.spotify.com/album/5TVb1POzOFwH37hgsYjvbI) | 2:11 | 2023-09-08 |  |
+| [Sommernacht](https://open.spotify.com/track/1UOcTdl0c9FV6kRJtlDstp) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Zeitwende](https://open.spotify.com/album/5r6ZeOl1BWKav1ygarn1Gd) | 2:30 | 2023-09-08 | 2024-01-10 |
+| [Sonar](https://open.spotify.com/track/2cALhQ0Tark1fCoezh76lw) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Karl Moss](https://open.spotify.com/album/5TVb1POzOFwH37hgsYjvbI) | 2:11 | 2023-09-08 | 2024-01-10 |
 | [Soothing Me](https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Soothing Me](https://open.spotify.com/album/6ds0odJgRkazJMLj74z5du) | 3:27 | 2021-02-24 |  |
 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 | 2021-04-22 | 2023-09-09 |
 | [Speed of Light](https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:01 | 2020-10-20\* | 2023-09-09 |
@@ -206,6 +208,7 @@
 | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi) | 3:05 | 2022-05-20 |  |
 | [Stellar Love](https://open.spotify.com/track/0Zb70eJIng8v2H38ZivcNw) | [John Hanks](https://open.spotify.com/artist/3MN3dRQvZWIRj0wTpY5QnY) | [Stellar Love](https://open.spotify.com/album/62MMCb2Z0fa1kCTGvKU086) | 2:31 | 2020-10-20\* | 2021-11-17 |
 | [Still Asleep](https://open.spotify.com/track/4JOjSfJqokAV6Ff2DhCZcf) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [A Second to Forget](https://open.spotify.com/album/2876PFeHSUpVjjbxVQhlkd) | 2:08 | 2020-10-20\* | 2022-07-08 |
+| [Stratus](https://open.spotify.com/track/44OBgH2g9Xk6DWVo7TNyNG) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Stratus](https://open.spotify.com/album/4A4McFEifBMLzvMgqmW53R) | 2:15 | 2024-01-09 |  |
 | [Street Lights](https://open.spotify.com/track/4MJpaD8vXN3d9APFeE1FMJ) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 3:03 | 2020-10-20\* | 2023-09-09 |
 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 | 2020-10-20\* | 2023-09-09 |
 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2020-10-20\* |  |

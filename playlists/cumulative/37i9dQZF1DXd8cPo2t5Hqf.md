@@ -4,7 +4,7 @@
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-180 songs - 12 hr 1 min
+181 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [MEGANE](https://open.spotify.com/track/5d1pbk01azByOstUjlVjxv) | [Ultra\-Noob](https://open.spotify.com/artist/53yMKP0uZAp87VXQqVP6jC) | [MEGANE](https://open.spotify.com/album/56dO5TuLKQlCzgp8vfLb16) | 5:08 | 2021-05-26 | 2023-01-16 |
 | [moon](https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [moon](https://open.spotify.com/album/5PDWbuNnJa04B3c9n9AwTd) | 5:35 | 2021-05-26 |  |
 | [Negaposi\*Continues](https://open.spotify.com/track/3cSNJSsLzGC5J5xlpl96Hj) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [The Fantastic Diagram of Futuristic Playdreams](https://open.spotify.com/album/5LNJMGII3AZ67FeTJzZfQa) | 3:07 | 2021-05-26 |  |
+| [Ni Soku Ho Kou](https://open.spotify.com/track/01egFIiFbxjCIhZZI7ccDw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [DECO\*27 VOCALOID COLLECTION 2008\~2012](https://open.spotify.com/album/4iIqFpozjKLiWzHCtNsDY3) | 3:03 | 2021-05-26 |  |
 | [Nice To Meet You, Mr\. Earthling](https://open.spotify.com/track/18WrQK5FPIQkOWc5fTtlG4) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 3:58 | 2021-05-26 |  |
 | [Nyanyanyanyanyanyanya!](https://open.spotify.com/track/12dIZe3xCPeetNkdovFxxk) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Nyanyanyanyanyanyanya!](https://open.spotify.com/album/7JRhwPHdxrzyRuKfGVlR51) | 3:46 | 2021-05-26 |  |
 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 | 2021-05-26 |  |
@@ -63,7 +64,7 @@
 | [Starduster](https://open.spotify.com/track/5EFsxswJGYvcenuEa6a60r) | [jimmythumbP](https://open.spotify.com/artist/0SHnvufFixG9v3C7hRrW7U) | [EXIT TUNES PRESENTS Supernova](https://open.spotify.com/album/6nTMSjhV8XWnMKEBv9dycs) | 5:00 | 2021-05-26 | 2022-07-29 |
 | [StargazeR](https://open.spotify.com/track/2AJeqUXKxkJorjdAdiU15g) | [Kots Beirne](https://open.spotify.com/artist/0bBNxdKfD4SOpqZfiUt9Bm) | [No Image](https://open.spotify.com/album/6GQA7kq777VzJxKr4ezJqp) | 3:29 | 2021-05-26 | 2022-08-30 |
 | [Stay with me \-Orignal Length\-](https://open.spotify.com/track/3MK05deWAdteWiZfTBBW3B) | [shu\-t](https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4) | [Stay with me](https://open.spotify.com/album/7njeu43DT80m0i9cuWLb1P) | 4:02 | 2021-05-26 | 2022-07-10 |
-| [Streaming Heart](https://open.spotify.com/track/28DyuhrsEP2mBlAVSTJPBg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Conti New](https://open.spotify.com/album/2oSy4DbxYUqDp4sie8LvFw) | 2:58 | 2021-05-26 |  |
+| [Streaming Heart](https://open.spotify.com/track/28DyuhrsEP2mBlAVSTJPBg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Conti New](https://open.spotify.com/album/2oSy4DbxYUqDp4sie8LvFw) | 2:58 | 2021-05-26 | 2024-01-15 |
 | [Sweet Devil \- Eight Mix](https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:54 | 2021-05-26 |  |
 | [SYMPHONIC DIVE](https://open.spotify.com/track/4zyrALIyu51mUWgxkeAF88) | [Re:nG](https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L) | [NextOne \-KrnT edit\-](https://open.spotify.com/album/5RZPfYN7MYiOD6o8gcKqu1) | 4:35 | 2021-05-26 | 2022-07-28 |
 | [Tell Your World](https://open.spotify.com/track/6kBNaF6seD0JqFl4aBJ55e) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Tell Your World EP](https://open.spotify.com/album/5lReAmKNgxEHuESCWyY5S7) | 4:14 | 2021-05-26 |  |

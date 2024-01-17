@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ckau7CzXJzdTbR2ngbia3.md) - [plain]
 
 > 100 greatest songs of the 2010s\. Featuring top tracks from Dua Lipa, Ed Sheeran, Bruno Mars, The Weeknd, Adele, Rihanna and more\. The ultimate throwback playlist to the 2010s!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 126,842 likes - 100 songs - 6 hr 2 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 125,251 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/3ckau7CzXJzdTbR2ngbia3.md) - [plain]
 | 99 | [Rewrite The Stars](https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Rewrite The Stars](https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU) | 3:37 |
 | 100 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 
-Snapshot ID: `NzcxLDEwZmI0MmJlZDZlYjE5ZTI5YzQ3YmYxOTk2NjRmOTk1MWEyMDdmYWY=`
+Snapshot ID: `Nzc1LGZlMDc2Mzk1MWU2NTQ2MGU5YmUwZDRiMzczOGExMDM5YzVhZTlmMTE=`

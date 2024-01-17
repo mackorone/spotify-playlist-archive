@@ -1,569 +1,2641 @@
 {
-  "2022-06-10": 131623,
-  "2022-06-11": 131804,
-  "2022-06-12": 131971,
-  "2022-06-13": 132082,
-  "2022-06-14": 132146,
-  "2022-06-15": 132241,
-  "2022-06-16": 132317,
-  "2022-06-17": 132440,
-  "2022-06-18": 132530,
-  "2022-06-19": 132696,
-  "2022-06-20": 132696,
-  "2022-06-21": 132770,
-  "2022-06-22": 132906,
-  "2022-06-23": 132906,
-  "2022-06-24": 132954,
-  "2022-06-25": 133007,
-  "2022-06-26": 133061,
-  "2022-06-27": 133122,
-  "2022-06-28": 133174,
-  "2022-06-29": 133235,
-  "2022-06-30": 133309,
-  "2022-07-01": 133350,
-  "2022-07-02": 133414,
-  "2022-07-03": 133494,
-  "2022-07-04": 133548,
-  "2022-07-05": 133607,
-  "2022-07-06": 133652,
-  "2022-07-07": 133706,
-  "2022-07-08": 133753,
-  "2022-07-09": 133788,
-  "2022-07-10": 133824,
-  "2022-07-11": 133870,
-  "2022-07-12": 133911,
-  "2022-07-13": 133969,
-  "2022-07-14": 134033,
-  "2022-07-15": 134070,
-  "2022-07-16": 134118,
-  "2022-07-17": 134179,
-  "2022-07-18": 134372,
-  "2022-07-19": 134686,
-  "2022-07-20": 134871,
-  "2022-07-21": 134976,
-  "2022-07-22": 135035,
-  "2022-07-23": 135091,
-  "2022-07-24": 135152,
-  "2022-07-25": 135191,
-  "2022-07-26": 135243,
-  "2022-07-27": 135299,
-  "2022-07-28": 135346,
-  "2022-07-29": 135376,
-  "2022-07-30": 135492,
-  "2022-07-31": 135492,
-  "2022-08-01": 135527,
-  "2022-08-02": 135630,
-  "2022-08-03": 135630,
-  "2022-08-04": 135685,
-  "2022-08-05": 135723,
-  "2022-08-06": 135767,
-  "2022-08-07": 135814,
-  "2022-08-08": 135842,
-  "2022-08-09": 135881,
-  "2022-08-10": 135911,
-  "2022-08-11": 135947,
-  "2022-08-12": 136000,
-  "2022-08-13": 136026,
-  "2022-08-14": 136070,
-  "2022-08-15": 136093,
-  "2022-08-16": 136143,
-  "2022-08-17": 136165,
-  "2022-08-18": 136197,
-  "2022-08-19": 136244,
-  "2022-08-20": 136302,
-  "2022-08-21": 136338,
-  "2022-08-22": 136379,
-  "2022-08-23": 136419,
-  "2022-08-24": 136442,
-  "2022-08-25": 136484,
-  "2022-08-26": 136537,
-  "2022-08-27": 136559,
-  "2022-08-28": 136597,
-  "2022-08-29": 136620,
-  "2022-08-30": 136650,
-  "2022-08-31": 136675,
-  "2022-09-01": 136733,
-  "2022-09-02": 136780,
-  "2022-09-03": 136819,
-  "2022-09-04": 136849,
-  "2022-09-05": 136869,
-  "2022-09-06": 136900,
-  "2022-09-07": 136927,
-  "2022-09-09": 137009,
-  "2022-09-10": 137048,
-  "2022-09-11": 137084,
-  "2022-09-12": 137098,
-  "2022-09-13": 137131,
-  "2022-09-15": 137187,
-  "2022-09-16": 137246,
-  "2022-09-17": 137365,
-  "2022-09-18": 137440,
-  "2022-09-19": 137497,
-  "2022-09-20": 137583,
-  "2022-09-21": 137643,
-  "2022-09-22": 137703,
-  "2022-09-23": 137764,
-  "2022-09-24": 137847,
-  "2022-09-25": 137922,
-  "2022-09-26": 137996,
-  "2022-09-27": 138055,
-  "2022-09-28": 138103,
-  "2022-09-29": 138157,
-  "2022-09-30": 138201,
-  "2022-10-01": 138243,
-  "2022-10-02": 138304,
-  "2022-10-03": 138367,
-  "2022-10-04": 138421,
-  "2022-10-05": 138484,
-  "2022-10-06": 138537,
-  "2022-10-07": 138573,
-  "2022-10-08": 138626,
-  "2022-10-09": 138730,
-  "2022-10-10": 138742,
-  "2022-10-11": 138802,
-  "2022-10-12": 138859,
-  "2022-10-13": 138906,
-  "2022-10-14": 138960,
-  "2022-10-15": 138995,
-  "2022-10-16": 139021,
-  "2022-10-17": 139042,
-  "2022-10-18": 139069,
-  "2022-10-19": 139087,
-  "2022-10-20": 139108,
-  "2022-10-21": 139133,
-  "2022-10-22": 139174,
-  "2022-10-23": 139227,
-  "2022-10-24": 139262,
-  "2022-10-25": 139288,
-  "2022-10-26": 139321,
-  "2022-10-27": 139348,
-  "2022-10-28": 139382,
-  "2022-10-29": 139408,
-  "2022-10-30": 139425,
-  "2022-10-31": 139456,
-  "2022-11-01": 139483,
-  "2022-11-02": 139506,
-  "2022-11-03": 139548,
-  "2022-11-04": 139578,
-  "2022-11-05": 139612,
-  "2022-11-06": 139631,
-  "2022-11-07": 139665,
-  "2022-11-08": 139686,
-  "2022-11-09": 139706,
-  "2022-11-10": 139741,
-  "2022-11-11": 139791,
-  "2022-11-12": 139829,
-  "2022-11-13": 139853,
-  "2022-11-14": 139889,
-  "2022-11-15": 139928,
-  "2022-11-16": 139959,
-  "2022-11-17": 139975,
-  "2022-11-18": 139987,
-  "2022-11-19": 139973,
-  "2022-11-20": 139998,
-  "2022-11-21": 139969,
-  "2022-11-22": 140088,
-  "2022-11-23": 140066,
-  "2022-11-24": 140191,
-  "2022-11-25": 140275,
-  "2022-11-26": 140303,
-  "2022-11-27": 140357,
-  "2022-11-28": 140395,
-  "2022-11-29": 140411,
-  "2022-11-30": 140449,
-  "2022-12-01": 140496,
-  "2022-12-02": 140515,
-  "2022-12-03": 140554,
-  "2022-12-04": 140599,
-  "2022-12-05": 140638,
-  "2022-12-06": 140682,
-  "2022-12-07": 140711,
-  "2022-12-08": 140746,
-  "2022-12-09": 140798,
-  "2022-12-10": 140836,
-  "2022-12-11": 140877,
-  "2022-12-12": 140904,
-  "2022-12-13": 140931,
-  "2022-12-14": 140958,
-  "2022-12-15": 140989,
-  "2022-12-16": 141020,
-  "2022-12-17": 141043,
-  "2022-12-18": 141098,
-  "2022-12-19": 141138,
-  "2022-12-20": 141241,
-  "2022-12-21": 141241,
-  "2022-12-22": 141282,
-  "2022-12-24": 141339,
-  "2022-12-25": 141369,
-  "2022-12-26": 141410,
-  "2022-12-27": 141451,
-  "2022-12-28": 141487,
-  "2022-12-29": 141513,
-  "2022-12-30": 141553,
-  "2022-12-31": 141605,
-  "2023-01-01": 141709,
-  "2023-01-02": 141769,
-  "2023-01-03": 141822,
-  "2023-01-04": 141864,
-  "2023-01-05": 141927,
-  "2023-01-06": 141974,
-  "2023-01-07": 142038,
-  "2023-01-08": 142039,
-  "2023-01-09": 142079,
-  "2023-01-10": 142121,
-  "2023-01-11": 142152,
-  "2023-01-12": 142188,
-  "2023-01-13": 142214,
-  "2023-01-14": 142282,
-  "2023-01-15": 142289,
-  "2023-01-16": 142326,
-  "2023-01-17": 142370,
-  "2023-01-18": 142401,
-  "2023-01-19": 142437,
-  "2023-01-20": 142459,
-  "2023-01-21": 142491,
-  "2023-01-22": 142532,
-  "2023-01-23": 142568,
-  "2023-01-24": 142588,
-  "2023-01-25": 142625,
-  "2023-01-26": 142666,
-  "2023-01-27": 142709,
-  "2023-01-28": 142719,
-  "2023-01-29": 142761,
-  "2023-01-30": 142803,
-  "2023-01-31": 142803,
-  "2023-02-01": 142863,
-  "2023-02-02": 142904,
-  "2023-02-03": 142951,
-  "2023-02-04": 142999,
-  "2023-02-05": 143036,
-  "2023-02-06": 143075,
-  "2023-02-07": 143112,
-  "2023-02-08": 143170,
-  "2023-02-09": 143170,
-  "2023-02-10": 143204,
-  "2023-02-11": 143220,
-  "2023-02-12": 143304,
-  "2023-02-13": 143332,
-  "2023-02-14": 143332,
-  "2023-02-15": 143367,
-  "2023-02-16": 143377,
-  "2023-02-17": 143402,
-  "2023-02-18": 143454,
-  "2023-02-19": 143461,
-  "2023-02-20": 143477,
-  "2023-02-21": 143506,
-  "2023-02-22": 143544,
-  "2023-02-23": 143575,
-  "2023-02-24": 143590,
-  "2023-02-25": 143628,
-  "2023-02-26": 143646,
-  "2023-02-27": 143691,
-  "2023-02-28": 143691,
-  "2023-03-01": 143711,
-  "2023-03-02": 143733,
-  "2023-03-03": 143757,
-  "2023-03-04": 143760,
-  "2023-03-05": 143792,
-  "2023-03-06": 143792,
-  "2023-03-07": 143805,
-  "2023-03-08": 143825,
-  "2023-03-09": 143840,
-  "2023-03-10": 143859,
-  "2023-03-11": 143869,
-  "2023-03-12": 143882,
-  "2023-03-13": 143898,
-  "2023-03-14": 143911,
-  "2023-03-15": 143926,
-  "2023-03-16": 143946,
-  "2023-03-17": 143946,
-  "2023-03-18": 143973,
-  "2023-03-19": 143986,
-  "2023-03-20": 144001,
-  "2023-03-21": 144018,
-  "2023-03-22": 144034,
-  "2023-03-23": 144053,
-  "2023-03-24": 144053,
-  "2023-03-25": 144081,
-  "2023-03-26": 144111,
-  "2023-03-27": 144124,
-  "2023-03-28": 144142,
-  "2023-03-29": 144187,
-  "2023-03-30": 144236,
-  "2023-03-31": 144236,
-  "2023-04-01": 144262,
-  "2023-04-02": 144285,
-  "2023-04-03": 144318,
-  "2023-04-04": 144342,
-  "2023-04-05": 144367,
-  "2023-04-06": 144394,
-  "2023-04-07": 144405,
-  "2023-04-09": 144462,
-  "2023-04-10": 144487,
-  "2023-04-11": 144544,
-  "2023-04-12": 144544,
-  "2023-04-13": 144571,
-  "2023-04-14": 144601,
-  "2023-04-15": 144622,
-  "2023-04-16": 144652,
-  "2023-04-17": 144673,
-  "2023-04-18": 144700,
-  "2023-04-19": 144717,
-  "2023-04-20": 144740,
-  "2023-04-21": 144760,
-  "2023-04-22": 144781,
-  "2023-04-23": 144810,
-  "2023-04-24": 144834,
-  "2023-04-25": 144853,
-  "2023-04-26": 144876,
-  "2023-04-27": 144891,
-  "2023-04-28": 144910,
-  "2023-04-29": 144931,
-  "2023-04-30": 144949,
-  "2023-05-01": 144983,
-  "2023-05-02": 145009,
-  "2023-05-03": 145037,
-  "2023-05-04": 145071,
-  "2023-05-05": 145108,
-  "2023-05-06": 145140,
-  "2023-05-07": 145171,
-  "2023-05-08": 145195,
-  "2023-05-09": 145229,
-  "2023-05-10": 145267,
-  "2023-05-11": 145314,
-  "2023-05-12": 145376,
-  "2023-05-13": 145430,
-  "2023-05-14": 145475,
-  "2023-05-15": 145509,
-  "2023-05-16": 145538,
-  "2023-05-17": 145591,
-  "2023-05-18": 145636,
-  "2023-05-19": 145666,
-  "2023-05-20": 145734,
-  "2023-05-21": 145734,
-  "2023-05-22": 145734,
-  "2023-05-23": 145792,
-  "2023-05-24": 145874,
-  "2023-05-25": 145873,
-  "2023-05-26": 145903,
-  "2023-05-27": 145937,
-  "2023-05-28": 145960,
-  "2023-05-29": 145960,
-  "2023-05-30": 146004,
-  "2023-05-31": 146040,
-  "2023-06-01": 146069,
-  "2023-06-02": 146094,
-  "2023-06-03": 146116,
-  "2023-06-04": 146146,
-  "2023-06-05": 146168,
-  "2023-06-06": 146198,
-  "2023-06-07": 146217,
-  "2023-06-08": 146242,
-  "2023-06-09": 146255,
-  "2023-06-10": 146274,
-  "2023-06-11": 146302,
-  "2023-06-12": 146340,
-  "2023-06-13": 146358,
-  "2023-06-14": 146381,
-  "2023-06-15": 146407,
-  "2023-06-16": 146420,
-  "2023-06-17": 146443,
-  "2023-06-18": 146469,
-  "2023-06-19": 146489,
-  "2023-06-20": 146499,
-  "2023-06-21": 146539,
-  "2023-06-22": 146567,
-  "2023-06-23": 146592,
-  "2023-06-24": 146609,
-  "2023-06-25": 146624,
-  "2023-06-26": 146651,
-  "2023-06-27": 146670,
-  "2023-06-28": 146689,
-  "2023-06-29": 146701,
-  "2023-06-30": 146722,
-  "2023-07-01": 146768,
-  "2023-07-02": 146768,
-  "2023-07-03": 146791,
-  "2023-07-04": 146825,
-  "2023-07-05": 146852,
-  "2023-07-06": 146896,
-  "2023-07-07": 146896,
-  "2023-07-08": 146904,
-  "2023-07-09": 146916,
-  "2023-07-10": 146937,
-  "2023-07-11": 146954,
-  "2023-07-12": 146982,
-  "2023-07-13": 146997,
-  "2023-07-14": 147025,
-  "2023-07-15": 147032,
-  "2023-07-16": 147068,
-  "2023-07-17": 147082,
-  "2023-07-18": 147103,
-  "2023-07-19": 147131,
-  "2023-07-20": 147148,
-  "2023-07-21": 147148,
-  "2023-07-22": 147155,
-  "2023-07-23": 147181,
-  "2023-07-24": 147191,
-  "2023-07-25": 147211,
-  "2023-07-26": 147226,
-  "2023-07-27": 147242,
-  "2023-07-28": 147260,
-  "2023-07-29": 147277,
-  "2023-07-30": 147297,
-  "2023-07-31": 147322,
-  "2023-08-01": 147342,
-  "2023-08-02": 147357,
-  "2023-08-03": 147385,
-  "2023-08-04": 147391,
-  "2023-08-05": 147408,
-  "2023-08-06": 147446,
-  "2023-08-07": 147446,
-  "2023-08-08": 147458,
-  "2023-08-09": 147482,
-  "2023-08-10": 147508,
-  "2023-08-11": 147540,
-  "2023-08-12": 147572,
-  "2023-08-13": 147604,
-  "2023-08-14": 147741,
-  "2023-08-15": 148172,
-  "2023-08-16": 148172,
-  "2023-08-17": 148274,
-  "2023-08-18": 148362,
-  "2023-08-19": 148430,
-  "2023-08-20": 148516,
-  "2023-08-21": 148600,
-  "2023-08-22": 148642,
-  "2023-08-23": 148699,
-  "2023-08-24": 148774,
-  "2023-08-25": 148835,
-  "2023-08-26": 148915,
-  "2023-08-27": 148990,
-  "2023-08-28": 149039,
-  "2023-08-29": 149100,
-  "2023-08-30": 149140,
-  "2023-08-31": 149182,
-  "2023-09-01": 149277,
-  "2023-09-02": 149277,
-  "2023-09-03": 149318,
-  "2023-09-04": 149348,
-  "2023-09-05": 149388,
-  "2023-09-06": 149418,
-  "2023-09-07": 149464,
-  "2023-09-08": 149511,
-  "2023-09-09": 149563,
-  "2023-09-10": 149631,
-  "2023-09-11": 149664,
-  "2023-09-12": 149701,
-  "2023-09-13": 149733,
-  "2023-09-14": 149770,
-  "2023-09-15": 149796,
-  "2023-09-16": 149823,
-  "2023-09-17": 149855,
-  "2023-09-18": 149883,
-  "2023-09-19": 149934,
-  "2023-09-20": 149959,
-  "2023-09-21": 149995,
-  "2023-09-22": 150052,
-  "2023-09-23": 150082,
-  "2023-09-24": 150112,
-  "2023-09-25": 150135,
-  "2023-09-26": 150162,
-  "2023-09-27": 150185,
-  "2023-09-28": 150208,
-  "2023-09-29": 150233,
-  "2023-09-30": 150260,
-  "2023-10-01": 150296,
-  "2023-10-02": 150321,
-  "2023-10-03": 150338,
-  "2023-10-04": 150355,
-  "2023-10-05": 150362,
-  "2023-10-06": 150393,
-  "2023-10-07": 150401,
-  "2023-10-08": 150406,
-  "2023-10-09": 150420,
-  "2023-10-10": 150410,
-  "2023-10-11": 150384,
-  "2023-10-12": 150384,
-  "2023-10-13": 150400,
-  "2023-10-14": 150407,
-  "2023-10-15": 150420,
-  "2023-10-16": 150449,
-  "2023-10-17": 150474,
-  "2023-10-18": 150489,
-  "2023-10-19": 150519,
-  "2023-10-20": 150541,
-  "2023-10-21": 150546,
-  "2023-10-22": 150575,
-  "2023-10-23": 150596,
-  "2023-10-24": 150610,
-  "2023-10-25": 150632,
-  "2023-10-26": 150638,
-  "2023-10-27": 150653,
-  "2023-10-28": 150663,
-  "2023-10-29": 150674,
-  "2023-10-30": 150707,
-  "2023-10-31": 150707,
-  "2023-11-01": 150722,
-  "2023-11-02": 150752,
-  "2023-11-03": 150769,
-  "2023-11-04": 150776,
-  "2023-11-05": 150789,
-  "2023-11-06": 150809,
-  "2023-11-07": 150816,
-  "2023-11-08": 150832,
-  "2023-11-09": 150855,
-  "2023-11-10": 150877,
-  "2023-11-11": 150900,
-  "2023-11-12": 150906,
-  "2023-11-13": 150917,
-  "2023-11-14": 150920,
-  "2023-11-15": 150920,
-  "2023-11-16": 150951,
-  "2023-11-17": 150961,
-  "2023-11-18": 150961,
-  "2023-11-19": 150969,
-  "2023-11-20": 150987,
-  "2023-11-21": 150992,
-  "2023-11-22": 150994,
-  "2023-11-23": 151004,
-  "2023-11-24": 151009,
-  "2023-11-25": 151019,
-  "2023-11-26": 151030,
-  "2023-11-27": 151057,
-  "2023-11-28": 151070,
-  "2023-11-29": 151116,
-  "2023-11-30": 151116,
-  "2023-12-01": 151123,
-  "2023-12-02": 151125,
-  "2023-12-03": 151141,
-  "2023-12-04": 151147,
-  "2023-12-05": 151164,
-  "2023-12-06": 151156,
-  "2023-12-07": 151174,
-  "2023-12-08": 151201,
-  "2023-12-09": 151223,
-  "2023-12-10": 151233,
-  "2023-12-11": 151243,
-  "2023-12-12": 151260,
-  "2023-12-13": 151263,
-  "2023-12-14": 151284,
-  "2023-12-15": 151280,
-  "2023-12-16": 151298,
-  "2023-12-17": 151311,
-  "2023-12-18": 151310,
-  "2023-12-19": 151349,
-  "2023-12-20": 151368,
-  "2023-12-21": 151369,
-  "2023-12-22": 151383,
-  "2023-12-23": 151402,
-  "2023-12-24": 151422,
-  "2023-12-25": 151446,
-  "2023-12-26": 151469,
-  "2023-12-27": 151586,
-  "2023-12-30": 151925,
-  "2023-12-31": 152003,
-  "2024-01-01": 152078,
-  "2024-01-02": 152110,
-  "2024-01-03": 152143
+  "2024-01-17": 152448,
+  "date_first_scraped": "2022-06-10",
+  "description": "\u97f3\u697d\u5bb6\u3001\u4ff3\u512a\u3001\u6587\u7b46\u5bb6\u3068\u3057\u3066\u5e45\u5e83\u304f\u6d3b\u8e8d\u3059\u308b\u661f\u91ce\u6e90\u306e\u30aa\u30fc\u30eb\u30bf\u30a4\u30e0\u30fb\u30d9\u30b9\u30c8\uff01Check out all the essentials from superstar singer-songwriter, Gen Hoshino!",
+  "name": "This Is \u661f\u91ce\u6e90 (Gen Hoshino)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/2op3b4cWvxjWI3TlD9M8a3"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211533,
+      "name": "Ain't Nobody Know",
+      "url": "https://open.spotify.com/track/0TVfS8GKzlHNT9Z4IQ7Wrz"
+    },
+    {
+      "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "Ain't Nobody Know",
+      "url": "https://open.spotify.com/track/1RsW5svUAwAPNdmFmcNKaa"
+    },
+    {
+      "album": {
+        "name": "Baka no Uta",
+        "url": "https://open.spotify.com/album/2tr63kOkJSfR8PRiIqWkXz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168129,
+      "name": "Ana wo Horu",
+      "url": "https://open.spotify.com/track/6BrsfCDjWJwkbhApfOHTYd"
+    },
+    {
+      "album": {
+        "name": "Baka no Uta",
+        "url": "https://open.spotify.com/album/2tr63kOkJSfR8PRiIqWkXz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205594,
+      "name": "Baka no Uta",
+      "url": "https://open.spotify.com/track/39CcJng5G8RGnOiQuM5jMg"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147062,
+      "name": "Bakemono",
+      "url": "https://open.spotify.com/track/1dHbm7QRN71DiFqwRAL963"
+    },
+    {
+      "album": {
+        "name": "Baka no Uta",
+        "url": "https://open.spotify.com/album/2tr63kOkJSfR8PRiIqWkXz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202184,
+      "name": "Barabara",
+      "url": "https://open.spotify.com/track/0WZsiLJt3fahbqEA04j2Qv"
+    },
+    {
+      "album": {
+        "name": "\u5149\u306e\u8de1\uff0f\u751f\u547d\u4f53",
+        "url": "https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 205200,
+      "name": "Beyond the Sequence",
+      "url": "https://open.spotify.com/track/0q5bHv4FAaFK5bWYMucHar"
+    },
+    {
+      "album": {
+        "name": "Why / Life",
+        "url": "https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Beyond the Sequence",
+      "url": "https://open.spotify.com/track/57F3OT0OcwOzYc06dmM71L"
+    },
+    {
+      "album": {
+        "name": "Comedy",
+        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+    },
+    {
+      "album": {
+        "name": "Comedy (feat. DJ Jazzy Jeff & Kaidi Tatham)",
+        "url": "https://open.spotify.com/album/39Iq6BG49jqLDli2On1ttE"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "DJ Jazzy Jeff",
+          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+        },
+        {
+          "name": "Kaidi Tatham",
+          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "Comedy (feat. DJ Jazzy Jeff & Kaidi Tatham)",
+      "url": "https://open.spotify.com/track/55ACw2lzo3PvmuzRmoYVVQ"
+    },
+    {
+      "album": {
+        "name": "Koi",
+        "url": "https://open.spotify.com/album/0dQHVhTZlbT2S7vq6pM0t7"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266866,
+      "name": "Continues",
+      "url": "https://open.spotify.com/track/2j07bmaxncaCWCRU2cYltM"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268400,
+      "name": "Continues",
+      "url": "https://open.spotify.com/track/2RjN72vwuliC8FX4CcgylQ"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268400,
+      "name": "Continues",
+      "url": "https://open.spotify.com/track/67Sio6JxPyqHG62lnJrWL8"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214266,
+      "name": "Crazy Crazy",
+      "url": "https://open.spotify.com/track/57T1nEAUura1AX0JgJDVDu"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214266,
+      "name": "Crazy Crazy",
+      "url": "https://open.spotify.com/track/5UPRrapEmPhJUhmuUa7qqD"
+    },
+    {
+      "album": {
+        "name": "Create",
+        "url": "https://open.spotify.com/album/7yYs9yoqpDz0nkeNdzYpvR"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234166,
+      "name": "Create",
+      "url": "https://open.spotify.com/track/5FqE1Cd1rt7ijK76BlFx87"
+    },
+    {
+      "album": {
+        "name": "Cube",
+        "url": "https://open.spotify.com/album/5PEW5e7jELgzt5QH0dHHpx"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Cube",
+      "url": "https://open.spotify.com/track/0KS2Tet5hEKRYrsLJkVILV"
+    },
+    {
+      "album": {
+        "name": "Cube",
+        "url": "https://open.spotify.com/album/1Btb0X4mIlkg8pF7LrdSHh"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205666,
+      "name": "Cube",
+      "url": "https://open.spotify.com/track/6zyo1q1mrt3cnpduIHoLSq"
+    },
+    {
+      "album": {
+        "name": "FUSHIGI/CREATE",
+        "url": "https://open.spotify.com/album/1tUDKOZlY1s83HQ2D2AZxj"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Dancing On The Inside (New Year's Eve)",
+      "url": "https://open.spotify.com/track/4yZhE66HniB1CMpEQMaTAx"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143066,
+      "name": "Dancing Reluctantly (Live Session)",
+      "url": "https://open.spotify.com/track/0obw6jSxnUV5zvrQDgE8or"
+    },
+    {
+      "album": {
+        "name": "Doraemon",
+        "url": "https://open.spotify.com/album/5VGCJPjawUCJhP4PG2IKtp"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "Doraemon",
+      "url": "https://open.spotify.com/track/2pcuXnZhTirLXsfXGVFTv2"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231600,
+      "name": "Down Town",
+      "url": "https://open.spotify.com/track/5g5ioDgBlDUQduaGJHSRkN"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231600,
+      "name": "Down Town",
+      "url": "https://open.spotify.com/track/7aGylKLUnZ5QHngdviZSsb"
+    },
+    {
+      "album": {
+        "name": "Koi",
+        "url": "https://open.spotify.com/album/0dQHVhTZlbT2S7vq6pM0t7"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "Drinking Dance",
+      "url": "https://open.spotify.com/track/2kslhvz31NSZ6eKSiiNH5a"
+    },
+    {
+      "album": {
+        "name": "\u604b",
+        "url": "https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220200,
+      "name": "Drinking Dance",
+      "url": "https://open.spotify.com/track/5BI9ImD6DhRtfsgaRAg4LL"
+    },
+    {
+      "album": {
+        "name": "Gag",
+        "url": "https://open.spotify.com/album/6A3T1oQsAklCecRLwiKPps"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226980,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/08r2AeGoMNJKd21IVl5N1V"
+    },
+    {
+      "album": {
+        "name": "Family Song",
+        "url": "https://open.spotify.com/album/1oJznhV4m2H2PeeNkCnKbR"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Family Song",
+      "url": "https://open.spotify.com/track/3Ms2WsIGHExju0gpucrWxv"
+    },
+    {
+      "album": {
+        "name": "Family Song",
+        "url": "https://open.spotify.com/album/6xgolNn3qUk3c2fvkBKuwN"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 324000,
+      "name": "Family Song",
+      "url": "https://open.spotify.com/track/6XzDz5r1bGMkcOKeXQwTqM"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289697,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/4heHCAVdN0df6wrtN6moAI"
+    },
+    {
+      "album": {
+        "name": "Film",
+        "url": "https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 291298,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/33aI7zjfWi9zuQdhVjFGuQ"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282466,
+      "name": "Friend Ship",
+      "url": "https://open.spotify.com/track/3hKwzU4pRQwDr5YJODcuRf"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282466,
+      "name": "Friend Ship",
+      "url": "https://open.spotify.com/track/6BQkSdgPMRdXTfW3ZT0WHY"
+    },
+    {
+      "album": {
+        "name": "FUSHIGI",
+        "url": "https://open.spotify.com/album/0DgaDZNp5WTWVpCS8jYI5M"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "FUSHIGI",
+      "url": "https://open.spotify.com/track/3dPpQeLTWjCjEbSevDMQfW"
+    },
+    {
+      "album": {
+        "name": "Gag",
+        "url": "https://open.spotify.com/album/6A3T1oQsAklCecRLwiKPps"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282124,
+      "name": "Gag",
+      "url": "https://open.spotify.com/track/1qr5ewvJ25GNZ84K5R94z8"
+    },
+    {
+      "album": {
+        "name": "Gen Hoshino - \u4e0d\u601d\u8b70 (FUSHIGI) - Go Stream Live ver.",
+        "url": "https://open.spotify.com/show/0BLVSv3WdigtRGaZwaWnM9"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino - \u4e0d\u601d\u8b70 (FUSHIGI) - Go Stream Live ver.",
+          "url": "https://open.spotify.com/show/0BLVSv3WdigtRGaZwaWnM9"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 315273,
+      "name": "Gen Hoshino - \u4e0d\u601d\u8b70 (FUSHIGI) - Go Stream Live ver.",
+      "url": "https://open.spotify.com/episode/2g2kFHrb2bFWdWe2I59IIM"
+    },
+    {
+      "album": {
+        "name": "Gen Hoshino - \u559c\u5287 (Comedy) - Go Stream Live ver.",
+        "url": "https://open.spotify.com/show/1Sqer3M4kCCnAnl8AeQ1No"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino - \u559c\u5287 (Comedy) - Go Stream Live ver.",
+          "url": "https://open.spotify.com/show/1Sqer3M4kCCnAnl8AeQ1No"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 244744,
+      "name": "Gen Hoshino - \u559c\u5287 (Comedy) - Go Stream Live ver.",
+      "url": "https://open.spotify.com/episode/4Egod6HWtLiHMbepJg4B6Q"
+    },
+    {
+      "album": {
+        "name": "Gen Hoshino - \u7570\u4e16\u754c\u6df7\u5408\u5927\u821e\u8e0f\u4f1a (I Wanna Be Your Ghost) - Go Stream Live ver.",
+        "url": "https://open.spotify.com/show/7nW6YMuNBl9gG5IMlYNrur"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino - \u7570\u4e16\u754c\u6df7\u5408\u5927\u821e\u8e0f\u4f1a (I Wanna Be Your Ghost) - Go Stream Live ver.",
+          "url": "https://open.spotify.com/show/7nW6YMuNBl9gG5IMlYNrur"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 250624,
+      "name": "Gen Hoshino - \u7570\u4e16\u754c\u6df7\u5408\u5927\u821e\u8e0f\u4f1a (I Wanna Be Your Ghost) - Go Stream Live ver.",
+      "url": "https://open.spotify.com/episode/1zQZIMixATUl1sHH5ZN9nf"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Get a Feel",
+      "url": "https://open.spotify.com/track/0EDr2psGs1hBVSKHOS5lOY"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187000,
+      "name": "Get a Feel",
+      "url": "https://open.spotify.com/track/7cwzoU55oSCNP7m8dWDShQ"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "Hada",
+      "url": "https://open.spotify.com/track/1FbnblJUrxTv7uGSilSu54"
+    },
+    {
+      "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/5GURKS7rYpa92t9iXp5hBV"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/5me2njhsNOrvMV2XjVwuXq"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254133,
+      "name": "Hello Song",
+      "url": "https://open.spotify.com/track/4xT0IadOt3fBGIFKQPGUdt"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254133,
+      "name": "Hello Song",
+      "url": "https://open.spotify.com/track/7IV7n5PxCPwDqOnVQGPwnU"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be Your Ghost (feat. Ghosts)",
+        "url": "https://open.spotify.com/album/3yMv72mFXC359orTQ2mZHe"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225533,
+      "name": "I Wanna Be Your Ghost (feat. Ghosts)",
+      "url": "https://open.spotify.com/track/12qmPGMrOCogibc7qyxT9s"
+    },
+    {
+      "album": {
+        "name": "Idea",
+        "url": "https://open.spotify.com/album/2qiA2JQR9MpFuCGJ3Lwxfv"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 279333,
+      "name": "Idea",
+      "url": "https://open.spotify.com/track/0645JPZvbWYtwOIMSUBrXY"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280666,
+      "name": "Idea",
+      "url": "https://open.spotify.com/track/30QnX1bcrFYqWQNKfWclr8"
+    },
+    {
+      "album": {
+        "name": "Into The Sun",
+        "url": "https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        },
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Stephen Malkmus",
+          "url": "https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8"
+        },
+        {
+          "name": "Pi Ja Ma",
+          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
+        },
+        {
+          "name": "Axel Concato",
+          "url": "https://open.spotify.com/artist/1vmJHFbi8KRWgmOmOU0M5V"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200994,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt"
+    },
+    {
+      "album": {
+        "name": "Yume no Sotohe",
+        "url": "https://open.spotify.com/album/5YyPibZaKicJjbISgppRHK"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241219,
+      "name": "Kanata",
+      "url": "https://open.spotify.com/track/0ZJxxXQxFW1IABDB1Iwjzp"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226133,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/48xCwzYgpO629btODlQxgK"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/4u4gECARUB57ebfqmbKB2W"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "Koi",
+      "url": "https://open.spotify.com/track/4nmjL1mUKOAfAbo9QG9tSE"
+    },
+    {
+      "album": {
+        "name": "Kudaranai no Nakani",
+        "url": "https://open.spotify.com/album/1MU427kNQa3hclVCxa5cKv"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259508,
+      "name": "Kudaranai no Nakani",
+      "url": "https://open.spotify.com/track/3jgeWUZGUO78fkKF0Q4oA4"
+    },
+    {
+      "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260152,
+      "name": "Kudaranai no Nakani",
+      "url": "https://open.spotify.com/track/3PhezG0b5NSLgvAcxdQ13G"
+    },
+    {
+      "album": {
+        "name": "Baka no Uta",
+        "url": "https://open.spotify.com/album/2tr63kOkJSfR8PRiIqWkXz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284976,
+      "name": "Kuse no Uta",
+      "url": "https://open.spotify.com/track/2hNwpwWM7x1TfNgrbumlEF"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Lighthouse (Live Session)",
+      "url": "https://open.spotify.com/track/2kXbQ8jhtZqwXs9rnrWrE4"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35333,
+      "name": "Mad Hope - Short (feat. Louis Cole, Sam Gendel)",
+      "url": "https://open.spotify.com/track/4t7pE7Au1BciptoSBOQqLU"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 35333,
+      "name": "Mad Hope - Short (feat. Louis Cole, Sam Gendel)",
+      "url": "https://open.spotify.com/track/5A91wBqBR10Zbp2BiraThi"
+    },
+    {
+      "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198221,
+      "name": "Mirai",
+      "url": "https://open.spotify.com/track/1seHFXkqjgRsahTag8RbCU"
+    },
+    {
+      "album": {
+        "name": "SUN",
+        "url": "https://open.spotify.com/album/4CkAmxvvfAYrXr3tM8Zpqz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159133,
+      "name": "Moon Sick",
+      "url": "https://open.spotify.com/track/2NKwAXmRJJGNtSznAiC9bg"
+    },
+    {
+      "album": {
+        "name": "SUN",
+        "url": "https://open.spotify.com/album/5729BXTN8NmCuCkjQTlSL6"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159133,
+      "name": "Moon Sick",
+      "url": "https://open.spotify.com/track/4FLycfLPnJSx6lCJg3PbnD"
+    },
+    {
+      "album": {
+        "name": "Film",
+        "url": "https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207105,
+      "name": "Moshimo",
+      "url": "https://open.spotify.com/track/0hFTQDCIK3CVSivCzBuM8v"
+    },
+    {
+      "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279720,
+      "name": "Nichijo",
+      "url": "https://open.spotify.com/track/19wvuvxAeBAEHGxt9KIG5e"
+    },
+    {
+      "album": {
+        "name": "Crazy Crazy/\u685c\u306e\u68ee",
+        "url": "https://open.spotify.com/album/6MpR8BS7yIKKS2DPejjYvw"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206907,
+      "name": "Night Troop",
+      "url": "https://open.spotify.com/track/0CdWeglfN1w2ZlK1yk4kgK"
+    },
+    {
+      "album": {
+        "name": "Crazy Crazy/Sakura no Mori",
+        "url": "https://open.spotify.com/album/1a7bYgO5K7wzEhZgGlnZ23"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206907,
+      "name": "Night Troop",
+      "url": "https://open.spotify.com/track/7yZHpV8preP7YIjqlY1K6v"
+    },
+    {
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204173,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/753sRMieYWBC6HGodwtkjI"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280933,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/037Z9dmkkqelP4cU0fcqWs"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280933,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/3Ar74ZAYT9fRzGqsGnE7Kc"
+    },
+    {
+      "album": {
+        "name": "Why / Life",
+        "url": "https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Odd Couple",
+      "url": "https://open.spotify.com/track/5IQFO0FaHVIkv3Xnu0ROBu"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "MC. waka",
+          "url": "https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 166600,
+      "name": "Orange (feat. MC. waka)",
+      "url": "https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "MC. waka",
+          "url": "https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Orange (feat. MC. waka)",
+      "url": "https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116866,
+      "name": "Outcast (Live Session)",
+      "url": "https://open.spotify.com/track/3iu6xaMIQHEP9mZMv7Nyew"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182000,
+      "name": "Pop Virus",
+      "url": "https://open.spotify.com/track/4hQ5tBCwPRkzhFB424U63U"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Pop Virus",
+      "url": "https://open.spotify.com/track/6hDBkm6B8HF9B4oATW28YN"
+    },
+    {
+      "album": {
+        "name": "Film",
+        "url": "https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208594,
+      "name": "Ranshi",
+      "url": "https://open.spotify.com/track/2Tg1VOIfnI1w6GZDf7owty"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Responder (Live Session)",
+      "url": "https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310333,
+      "name": "Sakura no Mori",
+      "url": "https://open.spotify.com/track/7eEvKU1yG1JaaBEjyV7ySN"
+    },
+    {
+      "album": {
+        "name": "Crazy Crazy/Sakura no Mori",
+        "url": "https://open.spotify.com/album/1a7bYgO5K7wzEhZgGlnZ23"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 312126,
+      "name": "Sakura no Mori",
+      "url": "https://open.spotify.com/track/3yBMzpbHGbQjxC9UwmRP02"
+    },
+    {
+      "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/2op3b4cWvxjWI3TlD9M8a3"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200133,
+      "name": "Same Thing (feat. Superorganism)",
+      "url": "https://open.spotify.com/track/0NZNtJar3qon6oVIR6XjIA"
+    },
+    {
+      "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Same Thing (feat. Superorganism)",
+      "url": "https://open.spotify.com/track/3deGeTEWAMMPDMzKUFP39q"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232866,
+      "name": "Sapiens",
+      "url": "https://open.spotify.com/track/2YXAvGaZ0NidrX5keTA4dM"
+    },
+    {
+      "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Sarashi-mono (feat. PUNPEE)",
+      "url": "https://open.spotify.com/track/1HU8n15qhw1py9JjLoHCaE"
+    },
+    {
+      "album": {
+        "name": "Shiranai",
+        "url": "https://open.spotify.com/album/7c3Bu72RPwlH8WcvVV0K5N"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 293397,
+      "name": "Shiranai",
+      "url": "https://open.spotify.com/track/4ZUP1sXvg3NESkF458HNQg"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294396,
+      "name": "Shiranai",
+      "url": "https://open.spotify.com/track/4thliUqGlsr5HrgNaHnKB5"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 274000,
+      "name": "Snow Men",
+      "url": "https://open.spotify.com/track/4EAFrjOpnbkUel0WrD9TTy"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Snow Men",
+      "url": "https://open.spotify.com/track/5XuHnDWqL3KxOGvcbAbwNJ"
+    },
+    {
+      "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178381,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/7ADRzLxJt9IS8xsEmF2hNU"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241466,
+      "name": "SUN",
+      "url": "https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241466,
+      "name": "SUN",
+      "url": "https://open.spotify.com/track/7rIBp3U5Igzn44l7Z7mOtE"
+    },
+    {
+      "album": {
+        "name": "SUN",
+        "url": "https://open.spotify.com/album/5729BXTN8NmCuCkjQTlSL6"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243800,
+      "name": "SUN",
+      "url": "https://open.spotify.com/track/2JxraLWLNzRpLhPmFx3a1w"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u3048\u3082\u3093",
+        "url": "https://open.spotify.com/album/1LdrgeXgpJkelkirMtgFxq"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233733,
+      "name": "The Shower",
+      "url": "https://open.spotify.com/track/3LtQtp24SRMuymIrQmQfKW"
+    },
+    {
+      "album": {
+        "name": "Doraemon",
+        "url": "https://open.spotify.com/album/5VGCJPjawUCJhP4PG2IKtp"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "The Shower",
+      "url": "https://open.spotify.com/track/6J2MV2X7j6wNMzWV9lBh4B"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255666,
+      "name": "Tokiyo",
+      "url": "https://open.spotify.com/track/588HgBgBK9Z2z3MMkGu7YN"
+    },
+    {
+      "album": {
+        "name": "FUSHIGI/CREATE",
+        "url": "https://open.spotify.com/album/1tUDKOZlY1s83HQ2D2AZxj"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "Tomato",
+      "url": "https://open.spotify.com/track/23Vc7bWEZKZaTpb7gyxOhL"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270466,
+      "name": "Week End",
+      "url": "https://open.spotify.com/track/4yBciZ52BnlfqsbwmRKKKp"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270466,
+      "name": "Week End",
+      "url": "https://open.spotify.com/track/5eZdmSbdCtO344dC0A3CB2"
+    },
+    {
+      "album": {
+        "name": "Why / Life",
+        "url": "https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Why Don't You Play In Hell?",
+      "url": "https://open.spotify.com/track/4cjKCc5EiJbRanDMw81SUG"
+    },
+    {
+      "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176479,
+      "name": "Yuge",
+      "url": "https://open.spotify.com/track/5D1d1YeP3q4TBj5k4c6Kxn"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231194,
+      "name": "Yume no Sotohe",
+      "url": "https://open.spotify.com/track/5gco2ws1tdB6Md3vFqbwf4"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u601d\u8b70/\u5275\u9020",
+        "url": "https://open.spotify.com/album/4hszJ4hSzw0tmz2y30DzNK"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228666,
+      "name": "\u3046\u3061\u3067\u8e0a\u308d\u3046 (\u5927\u6666\u65e5)",
+      "url": "https://open.spotify.com/track/2zyFTHMJZNTH2pqjxo48kE"
+    },
+    {
+      "album": {
+        "name": "\u5149\u306e\u8de1\uff0f\u751f\u547d\u4f53",
+        "url": "https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 192333,
+      "name": "\u304a\u3068\u3082\u3060\u3061",
+      "url": "https://open.spotify.com/track/68BmFo8k9wtaAXgQjRt51s"
+    },
+    {
+      "album": {
+        "name": "\u3070\u304b\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284976,
+      "name": "\u304f\u305b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/3VYGe2iv4Ja4KcgsKGhTZg"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30d4\u30bd\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260152,
+      "name": "\u304f\u3060\u3089\u306a\u3044\u306e\u4e2d\u306b",
+      "url": "https://open.spotify.com/track/1HD7YyTYAQ4LPussdtj7Ui"
+    },
+    {
+      "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/2op3b4cWvxjWI3TlD9M8a3"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230600,
+      "name": "\u3055\u3089\u3057\u3082\u306e (feat. PUNPEE)",
+      "url": "https://open.spotify.com/track/0LXJ38MncJmqqVdeUhDIZv"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 143066,
+      "name": "\u3057\u304b\u305f\u306a\u304f\u8e0a\u308b (Live Session)",
+      "url": "https://open.spotify.com/track/0Ajxm63ciUR7KdbbBMN86s"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u601d\u8b70/\u5275\u9020",
+        "url": "https://open.spotify.com/album/4hszJ4hSzw0tmz2y30DzNK"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168866,
+      "name": "\u305d\u3057\u305f\u3089",
+      "url": "https://open.spotify.com/track/2puoZAkFbPOwHpi0YyaQUJ"
+    },
+    {
+      "album": {
+        "name": "\u3070\u304b\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205594,
+      "name": "\u3070\u304b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/6CkWNqNXkCpYx55if8I9oj"
+    },
+    {
+      "album": {
+        "name": "\u3070\u304b\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202184,
+      "name": "\u3070\u3089\u3070\u3089",
+      "url": "https://open.spotify.com/track/0RFt3nrc40G6eJHgnvvDxv"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a3\u30eb\u30e0",
+        "url": "https://open.spotify.com/album/7qRrk4lJ3aukVtTe2c7Qyq"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207105,
+      "name": "\u3082\u3057\u3082",
+      "url": "https://open.spotify.com/track/4kulXzzPedW6CrAQiU8cpa"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280666,
+      "name": "\u30a2\u30a4\u30c7\u30a2",
+      "url": "https://open.spotify.com/track/7jgqNMnqAT9FghC1uSYTFF"
+    },
+    {
+      "album": {
+        "name": "\u30ae\u30e3\u30b0",
+        "url": "https://open.spotify.com/album/1a9T29gq7pbsfocWOzBdZL"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282124,
+      "name": "\u30ae\u30e3\u30b0",
+      "url": "https://open.spotify.com/track/1SthVgXPOV0py1CHizp42X"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232866,
+      "name": "\u30b5\u30d4\u30a8\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3WioT72oVomnlpYpfl9HeN"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30d4\u30bd\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178381,
+      "name": "\u30b9\u30c6\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/06QZEmhNR7QdWsQxDzgtHa"
+    },
+    {
+      "album": {
+        "name": "\u30ae\u30e3\u30b0",
+        "url": "https://open.spotify.com/album/1a9T29gq7pbsfocWOzBdZL"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226980,
+      "name": "\u30c0\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/53xdNKz8q8r1N3oxXW5hjh"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u3048\u3082\u3093",
+        "url": "https://open.spotify.com/album/1LdrgeXgpJkelkirMtgFxq"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239933,
+      "name": "\u30c9\u30e9\u3048\u3082\u3093",
+      "url": "https://open.spotify.com/track/6rEReeuYDZdggaSMF1sybO"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/2z8PuJutQ2cqlYpu9K0vxf"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289697,
+      "name": "\u30d5\u30a3\u30eb\u30e0",
+      "url": "https://open.spotify.com/track/7zixzfko6GIUYjD9NtRUOR"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u601d\u8b70",
+        "url": "https://open.spotify.com/album/5s6klVSavspAWCCKSjDYCn"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290000,
+      "name": "\u4e0d\u601d\u8b70",
+      "url": "https://open.spotify.com/track/6NKn02oJDkUkRa9IHbMe3n"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a3\u30eb\u30e0",
+        "url": "https://open.spotify.com/album/7qRrk4lJ3aukVtTe2c7Qyq"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208594,
+      "name": "\u4e71\u8996",
+      "url": "https://open.spotify.com/track/6qIcxgK7ZlF00wnkPB9KcX"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 116866,
+      "name": "\u4ef2\u9593\u306f\u305a\u308c (Live Session)",
+      "url": "https://open.spotify.com/track/1ntXyakVwav6cNBJRmYpH1"
+    },
+    {
+      "album": {
+        "name": "\u5149\u306e\u8de1\uff0f\u751f\u547d\u4f53",
+        "url": "https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 250333,
+      "name": "\u5149\u306e\u8de1",
+      "url": "https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89"
+    },
+    {
+      "album": {
+        "name": "\u5275\u9020",
+        "url": "https://open.spotify.com/album/0K9ynR8vZZocGNMi9bvlUM"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234166,
+      "name": "\u5275\u9020",
+      "url": "https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/2z8PuJutQ2cqlYpu9K0vxf"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 147062,
+      "name": "\u5316\u7269",
+      "url": "https://open.spotify.com/track/5IOKl1EeyOw7Bjp9E84tdw"
+    },
+    {
+      "album": {
+        "name": "\u559c\u5287",
+        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230666,
+      "name": "\u559c\u5287",
+      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
+    },
+    {
+      "album": {
+        "name": "\u559c\u5287 (feat. DJ Jazzy Jeff & Kaidi Tatham)",
+        "url": "https://open.spotify.com/album/2g9XXfCHYDpSgaSdkM04uZ"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "DJ Jazzy Jeff",
+          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+        },
+        {
+          "name": "Kaidi Tatham",
+          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234333,
+      "name": "\u559c\u5287 (feat. DJ Jazzy Jeff & Kaidi Tatham)",
+      "url": "https://open.spotify.com/track/4x4Nx7y7f4dZ2Bp3veS1kA"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221266,
+      "name": "\u5730\u7344\u3067\u306a\u305c\u60aa\u3044",
+      "url": "https://open.spotify.com/track/61znEgS6PbjGHLmQcNr0xZ"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/2z8PuJutQ2cqlYpu9K0vxf"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231194,
+      "name": "\u5922\u306e\u5916\u3078",
+      "url": "https://open.spotify.com/track/6wlUtMxqW0E4V0ZzPtRMkt"
+    },
+    {
+      "album": {
+        "name": "\u5922\u306e\u5916\u3078",
+        "url": "https://open.spotify.com/album/16Qv1FdwQb59zNHBNG94lb"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241219,
+      "name": "\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/0X6YqzGOAaShLBr6HmnTxT"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251266,
+      "name": "\u604b",
+      "url": "https://open.spotify.com/track/1flvuaMS27JxpEBL0u2cWc"
+    },
+    {
+      "album": {
+        "name": "\u6298\u308a\u5408\u3044",
+        "url": "https://open.spotify.com/album/7gCmdcty82ewDfdrLhMhQJ"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184666,
+      "name": "\u6298\u308a\u5408\u3044",
+      "url": "https://open.spotify.com/track/0JiX8UaEUb2mt4Hrp3HtrK"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30d4\u30bd\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279720,
+      "name": "\u65e5\u5e38",
+      "url": "https://open.spotify.com/track/2ZQMD01H60aj1qC3jz0KG1"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255666,
+      "name": "\u6642\u3088",
+      "url": "https://open.spotify.com/track/72CAbDIuiTIerMusyaQ0hv"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30d4\u30bd\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198221,
+      "name": "\u672a\u6765",
+      "url": "https://open.spotify.com/track/4q8gfiDFF4YI7LRJa6GhBL"
+    },
+    {
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310333,
+      "name": "\u685c\u306e\u68ee",
+      "url": "https://open.spotify.com/track/7hjZPeA13HBpkkQw9Hzrqe"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30d4\u30bd\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176479,
+      "name": "\u6e6f\u6c17",
+      "url": "https://open.spotify.com/track/3EMr3gNOpGCC4Uaty4sCcB"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 187666,
+      "name": "\u706f\u53f0 (Live Session)",
+      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
+    },
+    {
+      "album": {
+        "name": "\u751f\u547d\u4f53",
+        "url": "https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 191666,
+      "name": "\u751f\u547d\u4f53",
+      "url": "https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W"
+    },
+    {
+      "album": {
+        "name": "\u7570\u4e16\u754c\u6df7\u5408\u5927\u821e\u8e0f\u4f1a (feat. \u304a\u3070\u3051)",
+        "url": "https://open.spotify.com/album/48aHoa0UvjChDUllkQZoaX"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225533,
+      "name": "\u7570\u4e16\u754c\u6df7\u5408\u5927\u821e\u8e0f\u4f1a (feat. \u304a\u3070\u3051)",
+      "url": "https://open.spotify.com/track/2YaWdN5tieE4Ntorawbbvq"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/2z8PuJutQ2cqlYpu9K0vxf"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294396,
+      "name": "\u77e5\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/7rSLSZWOvx67HWeUOBqze8"
+    },
+    {
+      "album": {
+        "name": "\u3070\u304b\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168129,
+      "name": "\u7a74\u3092\u6398\u308b",
+      "url": "https://open.spotify.com/track/5jgmSmIUIMjuaoDbER4Wgs"
+    },
+    {
+      "album": {
+        "name": "POP VIRUS",
+        "url": "https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239933,
+      "name": "\u808c",
+      "url": "https://open.spotify.com/track/0YEjAa5T0NQwvB7uz1dJvW"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 217000,
+      "name": "\u89e3\u7b54\u8005 (Live Session)",
+      "url": "https://open.spotify.com/track/3fFZ2JYJxvZvNLefOpy7gP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1WBmdWaXNNZ"
 }

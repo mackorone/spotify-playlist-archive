@@ -4,7 +4,7 @@
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-93 songs - 6 hr 35 min
+94 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Taos Summer Nights](https://open.spotify.com/track/3NMtFLp7SAusoKo1UI62Xr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Song Carrier](https://open.spotify.com/album/59mxUFZ7iAE29OF35AANwA) | 4:48 | 2021-12-17 |  |
 | [The First Flute Song](https://open.spotify.com/track/6s7y4KZZfaE28Iwk7OCpBh) | [Kevin Locke](https://open.spotify.com/artist/3k7DkQUs1860lvgVW29ZK2) | [The First Flute](https://open.spotify.com/album/5QvccuqSzkx6wd24fGw0qK) | 2:57 | 2021-12-17 |  |
 | [The Two Feathers](https://open.spotify.com/track/41SCDPYvddVF6dVnQ33U18) | [Cheryl B\. Engelhardt](https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [The Passenger](https://open.spotify.com/album/6BOlCg7eDQ6dECEPIXOuK5) | 3:26 | 2022-10-26 |  |
-| [Translucent Shadows](https://open.spotify.com/track/1OmnvhVmoct7xBGdm0VTXD) | [Coyote Oldman](https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP) | [Under An Ancient Sky](https://open.spotify.com/album/3F54i2mdjYQ7dLWmaZTllR) | 5:59 | 2022-10-26 |  |
+| [Translucent Shadows](https://open.spotify.com/track/1OmnvhVmoct7xBGdm0VTXD) | [Coyote Oldman](https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP) | [Under An Ancient Sky](https://open.spotify.com/album/3F54i2mdjYQ7dLWmaZTllR) | 5:59 | 2022-10-26 | 2024-01-14 |
+| [Translucent Shadows](https://open.spotify.com/track/2JICvh6G2BE0vCRPyAWTpV) | [Coyote Oldman](https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP) | [Under An Ancient Sky](https://open.spotify.com/album/7e4q1fV2MAltbpftP1hhrX) | 5:59 | 2023-11-09 |  |
 | [Whale Song](https://open.spotify.com/track/031rKdOx3Yb8vs7uxZlk2a) | [Liesbet Leroy](https://open.spotify.com/artist/3v9SFRsfDMczAhfLHEecka) | [Whale Song](https://open.spotify.com/album/5likFIyUr26KN2TyegOXQp) | 5:05 | 2022-10-26 |  |
 | [Whispering Journeys](https://open.spotify.com/track/5IRtmlC8vMIC5TpVfIcLAk) | [Robert Tree Cody](https://open.spotify.com/artist/0fChGjwomMpq8e7ICKYy1s) | [Dreams from the Grandfather \- Native American Songs for Flute and Voice](https://open.spotify.com/album/4tz2QeE2BRZ8qTpylp1D6V) | 4:30 | 2021-12-17 |  |
 | [White Horse Dreaming](https://open.spotify.com/track/37oLnXYomz0eazyJFSNOse) | [Johnny Whitehorse](https://open.spotify.com/artist/6ubkj48AdWEtGZpYeWLW2U) | [Johnny Whitehorse](https://open.spotify.com/album/6RGpYr3V6NkNBtKNQATXQK) | 6:09 | 2021-12-17 |  |

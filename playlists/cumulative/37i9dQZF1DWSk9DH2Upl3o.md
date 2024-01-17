@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-159 songs - 15 hr 8 min
+160 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Breakfast of Champs \(Live\)](https://open.spotify.com/track/35S87Fc7BaLnwtKQZQ3633) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Jaunts of Our Lives, Vol\. 2 \(Live\)](https://open.spotify.com/album/5b4LQV3XlMqhfevuZeEW3a) | 14:15 | 2023-04-21 |  |
 | [Breathless](https://open.spotify.com/track/4f9U0iMBjmcBzguVEu2xaP) | [Shambala](https://open.spotify.com/artist/1wFNBQylnepwBAVoEcL7l8) | [Breathless](https://open.spotify.com/album/0pyhlYwLsvjX72hCOTSJHy) | 3:19 | 2023-06-02 |  |
 | [Burning the Hardwood Floor \(Live\)](https://open.spotify.com/track/1zgPMQXv5YtUUn5GA3njWj) | [Airshow](https://open.spotify.com/artist/2USLUiPGlv1amJy3gUszGw) | [Live 02.05.22 \(High Cotton Brewing Company \- Memphis, TN\)](https://open.spotify.com/album/068pAkEPmPbbaSTCfN8tef) | 8:49 | 2022-09-16 |  |
+| [Can't Cut the Mustard](https://open.spotify.com/track/7BUnS98zgtwP45KSpT3C61) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Baked Shrimp](https://open.spotify.com/album/54drhsF5JtrFOcaxlCshsa) | 3:46 | 2024-01-12 |  |
 | [Chapanga](https://open.spotify.com/track/4h2SJ0PCKNa6y02KofNSIm) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Cycles](https://open.spotify.com/album/1XmsC5vZ8s9kLp0RqYHN3y) | 5:41 | 2022-06-23 |  |
-| [Chop Suey](https://open.spotify.com/track/52D0hGXHrME17EQhCtYPn6) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Chop Suey](https://open.spotify.com/album/7LZCNMm7U6K6NqX3P4ypQm) | 6:39 | 2023-06-30 |  |
+| [Chop Suey](https://open.spotify.com/track/52D0hGXHrME17EQhCtYPn6) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Chop Suey](https://open.spotify.com/album/7LZCNMm7U6K6NqX3P4ypQm) | 6:39 | 2023-06-30 | 2024-01-13 |
 | [Colorado](https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh) | 5:06 | 2022-06-23 | 2023-04-29 |
 | [Colorado](https://open.spotify.com/track/5UgymKh4hQH97G0m7sJeYl) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/3pCxaR5TAlOmGAZQ7TLtwI) | 5:06 | 2022-07-01 |  |
 | [Comes In Waves \- Live at EastWest Studios](https://open.spotify.com/track/6y4xSKfYeOjof39UciTQGz) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller \(Deluxe\)](https://open.spotify.com/album/7KiWpWWSK7VCN5zzi0rb0U) | 5:48 | 2023-02-17 |  |

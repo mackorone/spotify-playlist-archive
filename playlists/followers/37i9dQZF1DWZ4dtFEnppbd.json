@@ -1,596 +1,709 @@
 {
-  "2022-05-14": 8019,
-  "2022-05-15": 8018,
-  "2022-05-16": 8017,
-  "2022-05-17": 8018,
-  "2022-05-18": 8020,
-  "2022-05-19": 8021,
-  "2022-05-20": 8025,
-  "2022-05-21": 8028,
-  "2022-05-22": 8028,
-  "2022-05-23": 8030,
-  "2022-05-24": 8029,
-  "2022-05-25": 8031,
-  "2022-05-26": 8034,
-  "2022-05-27": 8033,
-  "2022-05-28": 8035,
-  "2022-05-29": 8037,
-  "2022-05-30": 8037,
-  "2022-05-31": 8038,
-  "2022-06-01": 8037,
-  "2022-06-02": 8037,
-  "2022-06-03": 8037,
-  "2022-06-04": 8033,
-  "2022-06-05": 8033,
-  "2022-06-06": 8033,
-  "2022-06-07": 8033,
-  "2022-06-08": 8032,
-  "2022-06-09": 8033,
-  "2022-06-10": 8033,
-  "2022-06-11": 8035,
-  "2022-06-12": 8036,
-  "2022-06-13": 8035,
-  "2022-06-14": 8035,
-  "2022-06-15": 8036,
-  "2022-06-16": 8038,
-  "2022-06-17": 8035,
-  "2022-06-18": 8035,
-  "2022-06-19": 8038,
-  "2022-06-20": 8038,
-  "2022-06-21": 8040,
-  "2022-06-22": 8042,
-  "2022-06-23": 8042,
-  "2022-06-24": 8044,
-  "2022-06-25": 8045,
-  "2022-06-26": 8047,
-  "2022-06-27": 8047,
-  "2022-06-28": 8046,
-  "2022-06-29": 8046,
-  "2022-06-30": 8046,
-  "2022-07-01": 8048,
-  "2022-07-02": 8048,
-  "2022-07-03": 8048,
-  "2022-07-04": 8048,
-  "2022-07-05": 8048,
-  "2022-07-06": 8048,
-  "2022-07-07": 8050,
-  "2022-07-08": 8051,
-  "2022-07-09": 8051,
-  "2022-07-10": 8051,
-  "2022-07-11": 8052,
-  "2022-07-12": 8054,
-  "2022-07-13": 8053,
-  "2022-07-14": 8055,
-  "2022-07-15": 8055,
-  "2022-07-16": 8055,
-  "2022-07-17": 8057,
-  "2022-07-18": 8058,
-  "2022-07-19": 8058,
-  "2022-07-20": 8057,
-  "2022-07-21": 8057,
-  "2022-07-22": 8058,
-  "2022-07-23": 8059,
-  "2022-07-24": 8061,
-  "2022-07-25": 8061,
-  "2022-07-26": 8062,
-  "2022-07-27": 8063,
-  "2022-07-28": 8062,
-  "2022-07-29": 8060,
-  "2022-07-30": 8060,
-  "2022-07-31": 8060,
-  "2022-08-01": 8062,
-  "2022-08-02": 8064,
-  "2022-08-03": 8064,
-  "2022-08-04": 8061,
-  "2022-08-05": 8059,
-  "2022-08-06": 8060,
-  "2022-08-07": 8059,
-  "2022-08-08": 8059,
-  "2022-08-09": 8060,
-  "2022-08-10": 8061,
-  "2022-08-11": 8060,
-  "2022-08-12": 8061,
-  "2022-08-13": 8063,
-  "2022-08-14": 8063,
-  "2022-08-15": 8063,
-  "2022-08-16": 8062,
-  "2022-08-17": 8064,
-  "2022-08-18": 8064,
-  "2022-08-19": 8063,
-  "2022-08-20": 8063,
-  "2022-08-21": 8063,
-  "2022-08-22": 8062,
-  "2022-08-23": 8063,
-  "2022-08-24": 8063,
-  "2022-08-25": 8062,
-  "2022-08-26": 8062,
-  "2022-08-27": 8062,
-  "2022-08-28": 8061,
-  "2022-08-29": 8062,
-  "2022-08-30": 8062,
-  "2022-08-31": 8063,
-  "2022-09-01": 8064,
-  "2022-09-02": 8065,
-  "2022-09-03": 8065,
-  "2022-09-04": 8065,
-  "2022-09-05": 8066,
-  "2022-09-06": 8066,
-  "2022-09-07": 8065,
-  "2022-09-09": 8065,
-  "2022-09-10": 8067,
-  "2022-09-11": 8066,
-  "2022-09-12": 8065,
-  "2022-09-13": 8066,
-  "2022-09-15": 8067,
-  "2022-09-16": 8069,
-  "2022-09-17": 8072,
-  "2022-09-18": 8072,
-  "2022-09-19": 8075,
-  "2022-09-20": 8075,
-  "2022-09-21": 8074,
-  "2022-09-22": 8074,
-  "2022-09-23": 8075,
-  "2022-09-24": 8075,
-  "2022-09-25": 8079,
-  "2022-09-26": 8078,
-  "2022-09-27": 8079,
-  "2022-09-28": 8079,
-  "2022-09-29": 8081,
-  "2022-09-30": 8080,
-  "2022-10-01": 8081,
-  "2022-10-02": 8084,
-  "2022-10-03": 8082,
-  "2022-10-04": 8083,
-  "2022-10-05": 8083,
-  "2022-10-06": 8083,
-  "2022-10-07": 8086,
-  "2022-10-08": 8086,
-  "2022-10-09": 8087,
-  "2022-10-10": 8087,
-  "2022-10-11": 8087,
-  "2022-10-12": 8087,
-  "2022-10-13": 8085,
-  "2022-10-14": 8087,
-  "2022-10-15": 8088,
-  "2022-10-16": 8090,
-  "2022-10-17": 8092,
-  "2022-10-18": 8092,
-  "2022-10-19": 8092,
-  "2022-10-20": 8091,
-  "2022-10-21": 8092,
-  "2022-10-22": 8092,
-  "2022-10-23": 8091,
-  "2022-10-24": 8092,
-  "2022-10-25": 8093,
-  "2022-10-26": 8094,
-  "2022-10-27": 8095,
-  "2022-10-28": 8095,
-  "2022-10-29": 8098,
-  "2022-10-30": 8098,
-  "2022-10-31": 8099,
-  "2022-11-01": 8099,
-  "2022-11-02": 8105,
-  "2022-11-03": 8108,
-  "2022-11-04": 8106,
-  "2022-11-05": 8108,
-  "2022-11-06": 8107,
-  "2022-11-07": 8109,
-  "2022-11-08": 8110,
-  "2022-11-09": 8112,
-  "2022-11-10": 8113,
-  "2022-11-11": 8114,
-  "2022-11-12": 8114,
-  "2022-11-13": 8115,
-  "2022-11-14": 8117,
-  "2022-11-15": 8116,
-  "2022-11-16": 8117,
-  "2022-11-17": 8116,
-  "2022-11-18": 8116,
-  "2022-11-19": 8115,
-  "2022-11-20": 8117,
-  "2022-11-21": 8117,
-  "2022-11-22": 8121,
-  "2022-11-23": 8120,
-  "2022-11-24": 8122,
-  "2022-11-25": 8125,
-  "2022-11-26": 8127,
-  "2022-11-27": 8129,
-  "2022-11-28": 8127,
-  "2022-11-29": 8128,
-  "2022-11-30": 8129,
-  "2022-12-01": 8130,
-  "2022-12-02": 8131,
-  "2022-12-03": 8132,
-  "2022-12-04": 8132,
-  "2022-12-05": 8132,
-  "2022-12-06": 8133,
-  "2022-12-07": 8135,
-  "2022-12-08": 8137,
-  "2022-12-09": 8139,
-  "2022-12-10": 8141,
-  "2022-12-11": 8141,
-  "2022-12-12": 8141,
-  "2022-12-13": 8143,
-  "2022-12-14": 8143,
-  "2022-12-15": 8144,
-  "2022-12-16": 8145,
-  "2022-12-17": 8143,
-  "2022-12-18": 8143,
-  "2022-12-19": 8145,
-  "2022-12-20": 8145,
-  "2022-12-21": 8145,
-  "2022-12-22": 8145,
-  "2022-12-24": 8142,
-  "2022-12-25": 8144,
-  "2022-12-26": 8144,
-  "2022-12-27": 8145,
-  "2022-12-28": 8146,
-  "2022-12-29": 8146,
-  "2022-12-30": 8147,
-  "2022-12-31": 8146,
-  "2023-01-01": 8148,
-  "2023-01-02": 8150,
-  "2023-01-03": 8151,
-  "2023-01-04": 8151,
-  "2023-01-05": 8152,
-  "2023-01-06": 8155,
-  "2023-01-07": 8155,
-  "2023-01-08": 8155,
-  "2023-01-09": 8155,
-  "2023-01-10": 8158,
-  "2023-01-11": 8158,
-  "2023-01-12": 8158,
-  "2023-01-13": 8158,
-  "2023-01-14": 8161,
-  "2023-01-15": 8162,
-  "2023-01-16": 8164,
-  "2023-01-17": 8166,
-  "2023-01-18": 8164,
-  "2023-01-19": 8165,
-  "2023-01-20": 8167,
-  "2023-01-21": 8168,
-  "2023-01-22": 8168,
-  "2023-01-23": 8167,
-  "2023-01-24": 8168,
-  "2023-01-25": 8167,
-  "2023-01-26": 8168,
-  "2023-01-27": 8167,
-  "2023-01-28": 8166,
-  "2023-01-29": 8167,
-  "2023-01-30": 8169,
-  "2023-01-31": 8169,
-  "2023-02-01": 8171,
-  "2023-02-02": 8169,
-  "2023-02-03": 8169,
-  "2023-02-04": 8169,
-  "2023-02-05": 8170,
-  "2023-02-06": 8169,
-  "2023-02-07": 8170,
-  "2023-02-08": 8172,
-  "2023-02-09": 8172,
-  "2023-02-10": 8171,
-  "2023-02-11": 8171,
-  "2023-02-12": 8174,
-  "2023-02-13": 8178,
-  "2023-02-14": 8178,
-  "2023-02-15": 8177,
-  "2023-02-16": 8177,
-  "2023-02-17": 8179,
-  "2023-02-18": 8181,
-  "2023-02-19": 8182,
-  "2023-02-20": 8182,
-  "2023-02-21": 8184,
-  "2023-02-22": 8185,
-  "2023-02-23": 8186,
-  "2023-02-24": 8186,
-  "2023-02-25": 8186,
-  "2023-02-26": 8187,
-  "2023-02-27": 8188,
-  "2023-02-28": 8188,
-  "2023-03-01": 8187,
-  "2023-03-02": 8188,
-  "2023-03-03": 8188,
-  "2023-03-04": 8191,
-  "2023-03-05": 8191,
-  "2023-03-06": 8191,
-  "2023-03-07": 8190,
-  "2023-03-08": 8192,
-  "2023-03-09": 8191,
-  "2023-03-10": 8192,
-  "2023-03-11": 8193,
-  "2023-03-12": 8193,
-  "2023-03-13": 8193,
-  "2023-03-14": 8193,
-  "2023-03-15": 8194,
-  "2023-03-16": 8193,
-  "2023-03-17": 8193,
-  "2023-03-18": 8193,
-  "2023-03-19": 8193,
-  "2023-03-20": 8196,
-  "2023-03-21": 8196,
-  "2023-03-22": 8196,
-  "2023-03-23": 8199,
-  "2023-03-24": 8199,
-  "2023-03-25": 8201,
-  "2023-03-26": 8200,
-  "2023-03-27": 8201,
-  "2023-03-28": 8203,
-  "2023-03-29": 8203,
-  "2023-03-30": 8204,
-  "2023-03-31": 8204,
-  "2023-04-01": 8205,
-  "2023-04-02": 8206,
-  "2023-04-03": 8206,
-  "2023-04-04": 8207,
-  "2023-04-05": 8206,
-  "2023-04-06": 8205,
-  "2023-04-07": 8205,
-  "2023-04-09": 8205,
-  "2023-04-10": 8205,
-  "2023-04-11": 8205,
-  "2023-04-12": 8205,
-  "2023-04-13": 8203,
-  "2023-04-14": 8203,
-  "2023-04-15": 8203,
-  "2023-04-16": 8203,
-  "2023-04-17": 8205,
-  "2023-04-18": 8208,
-  "2023-04-19": 8208,
-  "2023-04-20": 8209,
-  "2023-04-21": 8211,
-  "2023-04-22": 8212,
-  "2023-04-23": 8212,
-  "2023-04-24": 8213,
-  "2023-04-25": 8214,
-  "2023-04-26": 8216,
-  "2023-04-27": 8216,
-  "2023-04-28": 8215,
-  "2023-04-29": 8214,
-  "2023-04-30": 8214,
-  "2023-05-01": 8214,
-  "2023-05-02": 8213,
-  "2023-05-03": 8213,
-  "2023-05-04": 8213,
-  "2023-05-05": 8213,
-  "2023-05-06": 8214,
-  "2023-05-07": 8216,
-  "2023-05-08": 8216,
-  "2023-05-09": 8217,
-  "2023-05-10": 8217,
-  "2023-05-11": 8220,
-  "2023-05-12": 8221,
-  "2023-05-13": 8221,
-  "2023-05-14": 8220,
-  "2023-05-15": 8221,
-  "2023-05-16": 8222,
-  "2023-05-17": 8222,
-  "2023-05-18": 8221,
-  "2023-05-19": 8222,
-  "2023-05-20": 8224,
-  "2023-05-21": 8224,
-  "2023-05-22": 8224,
-  "2023-05-23": 8224,
-  "2023-05-24": 8223,
-  "2023-05-25": 8223,
-  "2023-05-26": 8222,
-  "2023-05-27": 8223,
-  "2023-05-28": 8222,
-  "2023-05-29": 8222,
-  "2023-05-30": 8223,
-  "2023-05-31": 8223,
-  "2023-06-01": 8223,
-  "2023-06-02": 8224,
-  "2023-06-03": 8224,
-  "2023-06-04": 8223,
-  "2023-06-05": 8224,
-  "2023-06-06": 8225,
-  "2023-06-07": 8225,
-  "2023-06-08": 8225,
-  "2023-06-09": 8226,
-  "2023-06-10": 8228,
-  "2023-06-11": 8227,
-  "2023-06-12": 8229,
-  "2023-06-13": 8229,
-  "2023-06-14": 8229,
-  "2023-06-15": 8230,
-  "2023-06-16": 8230,
-  "2023-06-17": 8230,
-  "2023-06-18": 8232,
-  "2023-06-19": 8232,
-  "2023-06-20": 8231,
-  "2023-06-21": 8231,
-  "2023-06-22": 8231,
-  "2023-06-23": 8230,
-  "2023-06-24": 8230,
-  "2023-06-25": 8231,
-  "2023-06-26": 8232,
-  "2023-06-27": 8232,
-  "2023-06-28": 8233,
-  "2023-06-29": 8231,
-  "2023-06-30": 8234,
-  "2023-07-01": 8235,
-  "2023-07-02": 8235,
-  "2023-07-03": 8236,
-  "2023-07-04": 8237,
-  "2023-07-05": 8238,
-  "2023-07-06": 8240,
-  "2023-07-07": 8240,
-  "2023-07-08": 8240,
-  "2023-07-09": 8241,
-  "2023-07-10": 8242,
-  "2023-07-11": 8244,
-  "2023-07-12": 8244,
-  "2023-07-13": 8243,
-  "2023-07-14": 8241,
-  "2023-07-15": 8239,
-  "2023-07-16": 8239,
-  "2023-07-17": 8239,
-  "2023-07-18": 8240,
-  "2023-07-19": 8240,
-  "2023-07-20": 8241,
-  "2023-07-21": 8240,
-  "2023-07-22": 8239,
-  "2023-07-23": 8239,
-  "2023-07-24": 8238,
-  "2023-07-25": 8239,
-  "2023-07-26": 8239,
-  "2023-07-27": 8239,
-  "2023-07-28": 8239,
-  "2023-07-29": 8239,
-  "2023-07-30": 8238,
-  "2023-07-31": 8237,
-  "2023-08-01": 8237,
-  "2023-08-02": 8238,
-  "2023-08-03": 8239,
-  "2023-08-04": 8237,
-  "2023-08-05": 8238,
-  "2023-08-06": 8238,
-  "2023-08-07": 8238,
-  "2023-08-08": 8238,
-  "2023-08-09": 8240,
-  "2023-08-10": 8242,
-  "2023-08-11": 8243,
-  "2023-08-12": 8240,
-  "2023-08-13": 8240,
-  "2023-08-14": 8238,
-  "2023-08-15": 8240,
-  "2023-08-16": 8240,
-  "2023-08-17": 8241,
-  "2023-08-18": 8240,
-  "2023-08-19": 8241,
-  "2023-08-20": 8244,
-  "2023-08-21": 8244,
-  "2023-08-22": 8245,
-  "2023-08-23": 8245,
-  "2023-08-24": 8245,
-  "2023-08-25": 8248,
-  "2023-08-26": 8252,
-  "2023-08-27": 8252,
-  "2023-08-28": 8253,
-  "2023-08-29": 8255,
-  "2023-08-30": 8255,
-  "2023-08-31": 8254,
-  "2023-09-01": 8258,
-  "2023-09-02": 8258,
-  "2023-09-03": 8258,
-  "2023-09-04": 8258,
-  "2023-09-05": 8258,
-  "2023-09-06": 8256,
-  "2023-09-07": 8256,
-  "2023-09-08": 8255,
-  "2023-09-09": 8255,
-  "2023-09-10": 8256,
-  "2023-09-11": 8255,
-  "2023-09-12": 8255,
-  "2023-09-13": 8256,
-  "2023-09-14": 8256,
-  "2023-09-15": 8257,
-  "2023-09-16": 8258,
-  "2023-09-17": 8258,
-  "2023-09-18": 8258,
-  "2023-09-19": 8259,
-  "2023-09-20": 8259,
-  "2023-09-21": 8261,
-  "2023-09-22": 8262,
-  "2023-09-23": 8262,
-  "2023-09-24": 8261,
-  "2023-09-25": 8260,
-  "2023-09-26": 8260,
-  "2023-09-27": 8258,
-  "2023-09-28": 8260,
-  "2023-09-29": 8262,
-  "2023-09-30": 8262,
-  "2023-10-01": 8262,
-  "2023-10-02": 8261,
-  "2023-10-03": 8261,
-  "2023-10-04": 8261,
-  "2023-10-05": 8262,
-  "2023-10-06": 8262,
-  "2023-10-07": 8262,
-  "2023-10-08": 8261,
-  "2023-10-09": 8263,
-  "2023-10-10": 8258,
-  "2023-10-11": 8254,
-  "2023-10-12": 8254,
-  "2023-10-13": 8253,
-  "2023-10-14": 8253,
-  "2023-10-15": 8253,
-  "2023-10-16": 8254,
-  "2023-10-17": 8254,
-  "2023-10-18": 8253,
-  "2023-10-19": 8254,
-  "2023-10-20": 8254,
-  "2023-10-21": 8254,
-  "2023-10-22": 8253,
-  "2023-10-23": 8254,
-  "2023-10-24": 8253,
-  "2023-10-25": 8253,
-  "2023-10-26": 8250,
-  "2023-10-27": 8251,
-  "2023-10-28": 8251,
-  "2023-10-29": 8252,
-  "2023-10-30": 8255,
-  "2023-10-31": 8255,
-  "2023-11-01": 8255,
-  "2023-11-02": 8256,
-  "2023-11-03": 8257,
-  "2023-11-04": 8258,
-  "2023-11-05": 8258,
-  "2023-11-06": 8259,
-  "2023-11-07": 8258,
-  "2023-11-08": 8258,
-  "2023-11-09": 8260,
-  "2023-11-10": 8262,
-  "2023-11-11": 8262,
-  "2023-11-12": 8263,
-  "2023-11-13": 8263,
-  "2023-11-14": 8264,
-  "2023-11-15": 8264,
-  "2023-11-16": 8266,
-  "2023-11-17": 8266,
-  "2023-11-18": 8266,
-  "2023-11-19": 8266,
-  "2023-11-20": 8266,
-  "2023-11-21": 8269,
-  "2023-11-22": 8270,
-  "2023-11-23": 8272,
-  "2023-11-24": 8272,
-  "2023-11-25": 8273,
-  "2023-11-26": 8273,
-  "2023-11-27": 8274,
-  "2023-11-28": 8272,
-  "2023-11-29": 8272,
-  "2023-11-30": 8272,
-  "2023-12-01": 8273,
-  "2023-12-02": 8271,
-  "2023-12-03": 8270,
-  "2023-12-04": 8271,
-  "2023-12-05": 8271,
-  "2023-12-06": 8271,
-  "2023-12-07": 8273,
-  "2023-12-08": 8274,
-  "2023-12-09": 8273,
-  "2023-12-10": 8274,
-  "2023-12-11": 8275,
-  "2023-12-12": 8271,
-  "2023-12-13": 8271,
-  "2023-12-14": 8271,
-  "2023-12-15": 8271,
-  "2023-12-16": 8271,
-  "2023-12-17": 8273,
-  "2023-12-18": 8275,
-  "2023-12-19": 8275,
-  "2023-12-20": 8275,
-  "2023-12-21": 8275,
-  "2023-12-22": 8275,
-  "2023-12-23": 8275,
-  "2023-12-24": 8275,
-  "2023-12-25": 8275,
-  "2023-12-26": 8275,
-  "2023-12-27": 8274,
-  "2023-12-30": 8274,
-  "2023-12-31": 8275,
-  "2024-01-01": 8276,
-  "2024-01-02": 8278,
-  "2024-01-03": 8281
+  "2024-01-17": 8270,
+  "date_first_scraped": "2022-05-14",
+  "description": "Sounds of spiritual comfort and cultural traditions of triumph.",
+  "name": "Songs of Salvation",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace (Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72)",
+        "url": "https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648826,
+      "name": "Amazing Grace - Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72",
+      "url": "https://open.spotify.com/track/62aEe7mLn8wdWr0o26shwx"
+    },
+    {
+      "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
+      },
+      "artists": [
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573933,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
+    },
+    {
+      "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/5fEQIDDrcjsW2kbq5TfJFt"
+      },
+      "artists": [
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 573933,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/3ZsOrjblRWKQi3fiXLjZyF"
+    },
+    {
+      "album": {
+        "name": "The Center Of My Joy",
+        "url": "https://open.spotify.com/album/3tluqCDSTlCAsCHW6U7oI3"
+      },
+      "artists": [
+        {
+          "name": "The Richard Smallwood Singers",
+          "url": "https://open.spotify.com/artist/1f0rrVqBleK8SLWDwIjM24"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 317306,
+      "name": "Center Of My Joy",
+      "url": "https://open.spotify.com/track/5qLg9MrPWD0q9nSF8LmlBF"
+    },
+    {
+      "album": {
+        "name": "Feel the Spirit",
+        "url": "https://open.spotify.com/album/04l4rg5skAfyKkriPC7jm0"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 322933,
+      "name": "Everything You Touch Is a Song",
+      "url": "https://open.spotify.com/track/3ahBlS5O40OR0zqKVwvOcU"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1OFvGlqOQ1gSJ6Jf6DFVRS"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 323026,
+      "name": "Everything You Touch Is A Song",
+      "url": "https://open.spotify.com/track/0nFEeSOwXfkYKSShg2RR1V"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/4l40xbbwT18kZlanwGxCM2"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323026,
+      "name": "Everything You Touch Is A Song",
+      "url": "https://open.spotify.com/track/3qp1gaoVXBy6HOiyHPGVa0"
+    },
+    {
+      "album": {
+        "name": "House Of Gospel Anthology - The 80'S Volume 1",
+        "url": "https://open.spotify.com/album/7LFIe0Z0iVzi6YiPcZucC2"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 323026,
+      "name": "Everything You Touch Is A Song",
+      "url": "https://open.spotify.com/track/4loGT4uKwIx4qkJYAicjkA"
+    },
+    {
+      "album": {
+        "name": "Spirituals",
+        "url": "https://open.spotify.com/album/3guwEJxJNnTWjdgLYofTMO"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339240,
+      "name": "Go Down Moses",
+      "url": "https://open.spotify.com/track/2S5O0hwIwFxpnIKC0Tm1xM"
+    },
+    {
+      "album": {
+        "name": "It\u2019s A New Day",
+        "url": "https://open.spotify.com/album/2seseSh5U6TRFKfF6phFlO"
+      },
+      "artists": [
+        {
+          "name": "James Cleveland & The Southern California Community Choir",
+          "url": "https://open.spotify.com/artist/3O90nZ7V5cI8QoyuKNWjZ0"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407946,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/78wYW2SI5MKVXw4zdqbceY"
+    },
+    {
+      "album": {
+        "name": "The Light Years",
+        "url": "https://open.spotify.com/album/2tVqOk4m5YAIKGPzIsesyA"
+      },
+      "artists": [
+        {
+          "name": "Walter Hawkins",
+          "url": "https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310600,
+      "name": "Goin' Up Yonder",
+      "url": "https://open.spotify.com/track/0CddhzZQHcXL71o94gy4WX"
+    },
+    {
+      "album": {
+        "name": "The Light Years",
+        "url": "https://open.spotify.com/album/5CFrLSHTPFhnHCkxZdlH29"
+      },
+      "artists": [
+        {
+          "name": "Walter Hawkins",
+          "url": "https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310600,
+      "name": "Goin' Up Yonder",
+      "url": "https://open.spotify.com/track/1fJyQ4F6hTWfHrnvbygRWB"
+    },
+    {
+      "album": {
+        "name": "Gospel Heritage Christmas, Vol. 3",
+        "url": "https://open.spotify.com/album/3qslBgw2OwfSJ0eSzgSTXe"
+      },
+      "artists": [
+        {
+          "name": "Walter Hawkins",
+          "url": "https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 310600,
+      "name": "Goin' Up Yonder",
+      "url": "https://open.spotify.com/track/1l1xhtNsfCFhyK3HraaiNQ"
+    },
+    {
+      "album": {
+        "name": "The Light Years",
+        "url": "https://open.spotify.com/album/4pYsME51r7rDRZcdEv9DGB"
+      },
+      "artists": [
+        {
+          "name": "Walter Hawkins",
+          "url": "https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 310600,
+      "name": "Going Up Yonder",
+      "url": "https://open.spotify.com/track/477kgQbTTs9CSEJAZL9e9j"
+    },
+    {
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Delores \"Mom\" Winans",
+          "url": "https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300666,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH"
+    },
+    {
+      "album": {
+        "name": "Live in Memphis",
+        "url": "https://open.spotify.com/album/6r9Qb40H8qmnNjaZFjgI9p"
+      },
+      "artists": [
+        {
+          "name": "The Canton Spirituals",
+          "url": "https://open.spotify.com/artist/1EPpCbbQoN5loEfqOeuvFs"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539706,
+      "name": "Heavenly Choir",
+      "url": "https://open.spotify.com/track/4esEKIxsmfIJX7x6TWWyBM"
+    },
+    {
+      "album": {
+        "name": "The Essential Mahalia Jackson",
+        "url": "https://open.spotify.com/album/2w9wFu5qjGKqBHDLNU2b8N"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261200,
+      "name": "His Eye Is On the Sparrow",
+      "url": "https://open.spotify.com/track/3STapK53VnT5cCgUU2XIjr"
+    },
+    {
+      "album": {
+        "name": "Live... In Chicago",
+        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521600,
+      "name": "Hold My Mule - Live",
+      "url": "https://open.spotify.com/track/0JjsI172ped2hF5v27o28J"
+    },
+    {
+      "album": {
+        "name": "Precious Lord",
+        "url": "https://open.spotify.com/album/07su16Rgh6gRQlJ65bgThM"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214626,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/6irtSIChqibVEqf6DNfV3Q"
+    },
+    {
+      "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276773,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
+    },
+    {
+      "album": {
+        "name": "Richard Smallwood With Vision - The Praise & Worship Songs of Richard Smallwood (with Vision)",
+        "url": "https://open.spotify.com/album/3wxcveWLL5NiG7NLNIFsMh"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307293,
+      "name": "I Love The Lord - Extended edit",
+      "url": "https://open.spotify.com/track/73eweBasus5cvtjQWGlS7Q"
+    },
+    {
+      "album": {
+        "name": "The Best Of Lionel Richie 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/6UaOmeGGHUSHyy3F4ngAwa"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366026,
+      "name": "Jesus Is Love",
+      "url": "https://open.spotify.com/track/52i3VeUFbCRk3z8YgBFM7N"
+    },
+    {
+      "album": {
+        "name": "I'll See You In The Rapture",
+        "url": "https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400066,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/6wmaBYjdDnrPpof3WdguF4"
+    },
+    {
+      "album": {
+        "name": "We Shall Overcome",
+        "url": "https://open.spotify.com/album/7cklzk697oyuNTu9QJadxB"
+      },
+      "artists": [
+        {
+          "name": "The Boys Choir Of Harlem",
+          "url": "https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330560,
+      "name": "Lift Every Voice and Sing",
+      "url": "https://open.spotify.com/track/6utcrEbz9W9cFoha3ouoc2"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace (Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72)",
+        "url": "https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344534,
+      "name": "Medley: Precious Lord, Take My Hand / You've Got a Friend - Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72",
+      "url": "https://open.spotify.com/track/0xmbZP4ZwecZcVRxOaWuKE"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418706,
+      "name": "Now Behold the Lamb - Live",
+      "url": "https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P"
+    },
+    {
+      "album": {
+        "name": "Oh Happy Day: The Best Of The Edwin Hawkins Singers",
+        "url": "https://open.spotify.com/album/4ZIuHLkXVaiAcEaMWzTKcF"
+      },
+      "artists": [
+        {
+          "name": "The Edwin Hawkins Singers",
+          "url": "https://open.spotify.com/artist/0lEzfSVcNRLDUKdI7fBDD3"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308600,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/34yIb7hw5SuR80au1BHTtt"
+    },
+    {
+      "album": {
+        "name": "Fifty Blessed Years",
+        "url": "https://open.spotify.com/album/4IddWR3TFYrrjYJ4SyaPtK"
+      },
+      "artists": [
+        {
+          "name": "Rev. Milton Brunson",
+          "url": "https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis"
+        },
+        {
+          "name": "The Thompson Community Singers",
+          "url": "https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304533,
+      "name": "Safe In His Arms",
+      "url": "https://open.spotify.com/track/4TsOvX4vJ41XOBA0Dmks9k"
+    },
+    {
+      "album": {
+        "name": "More Of The Best",
+        "url": "https://open.spotify.com/album/0bN1BUgEmjeqHcP5IwBLKT"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285560,
+      "name": "Soon and Very Soon",
+      "url": "https://open.spotify.com/track/1aVd1n3zBkk3jq5sHKg0OJ"
+    },
+    {
+      "album": {
+        "name": "More Of The Best",
+        "url": "https://open.spotify.com/album/3Jgzx5IVMczCsxa0LfEH6U"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 285560,
+      "name": "Soon and Very Soon",
+      "url": "https://open.spotify.com/track/1jgB4xgmPJhG6qTfAsZH6O"
+    },
+    {
+      "album": {
+        "name": "More Of The Best",
+        "url": "https://open.spotify.com/album/1z5ZSwYTX0kjVcdf37qUZV"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 285560,
+      "name": "Soon and Very Soon",
+      "url": "https://open.spotify.com/track/6Ol5cYjqt8ps5amYtYhKIK"
+    },
+    {
+      "album": {
+        "name": "The Iconic Artists of Gospel Music",
+        "url": "https://open.spotify.com/album/3WVOkxBtWd7vmuapji6UHL"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 316773,
+      "name": "The Center of My Joy",
+      "url": "https://open.spotify.com/track/7vaPBsS0kw9AypFXeUukpr"
+    },
+    {
+      "album": {
+        "name": "Textures",
+        "url": "https://open.spotify.com/album/11vPXkDqXaKM84D1ggfpHl"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317746,
+      "name": "The Center of My Joy",
+      "url": "https://open.spotify.com/track/01uA4LkBFfp2xEeIojihtC"
+    },
+    {
+      "album": {
+        "name": "Tramaine Hawkins Live",
+        "url": "https://open.spotify.com/album/0e7ByrzFOoMGqhPTQttAT4"
+      },
+      "artists": [
+        {
+          "name": "Tramaine Hawkins",
+          "url": "https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395064,
+      "name": "The Potter's House - Live",
+      "url": "https://open.spotify.com/track/2GLX6WynSRAirDye9AtKkw"
+    },
+    {
+      "album": {
+        "name": "This Little Light",
+        "url": "https://open.spotify.com/album/3nPA17BhaIjxqULOJUmn4a"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159546,
+      "name": "This Little Light Of Mine",
+      "url": "https://open.spotify.com/track/1e36CYAbqtlQ9Lo26BB6yl"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns & Spiritual Songs",
+        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346920,
+      "name": "Total Praise (feat. Richard Smallwood)",
+      "url": "https://open.spotify.com/track/0MqK9lvoxeAOVvSy1lmCB3"
+    },
+    {
+      "album": {
+        "name": "Compositions: A Decade Of Song",
+        "url": "https://open.spotify.com/album/5EXmnESegPhactTtjsF8md"
+      },
+      "artists": [
+        {
+          "name": "Daryl Coley",
+          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453933,
+      "name": "When Sunday Comes",
+      "url": "https://open.spotify.com/track/1JIyzwxYKUktXe7tn4oqk9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ4dtFEnppbd"
 }

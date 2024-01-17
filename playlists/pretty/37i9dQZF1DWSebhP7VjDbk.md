@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 
 > Playlist oficial da série "De Volta aos 15" estrelando Maisa e Camila Queiroz\. Só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,650 likes - 68 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,702 likes - 68 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 13 | [Me Adora](https://open.spotify.com/track/5fphkEmVP9cTdU0LbuqLQO) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Chiaroscuro](https://open.spotify.com/album/2eqKyLfs5LoKhnLnCF5Qa8) | 4:31 |
 | 14 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
 | 15 | [Só os Loucos Sabem](https://open.spotify.com/track/3nI0piSOxAik2RCpHGloB7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Camisa 10 joga bola até na chuva](https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt) | 3:30 |
-| 16 | [Mulher de fases](https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [So No Forevis](https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE) | 3:33 |
+| 16 | [Mulher de fases](https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Só No Forevis](https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE) | 3:33 |
 | 17 | [Carla](https://open.spotify.com/track/79f21uRzn79zWCxrsF17hj) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [V.I.B.E.](https://open.spotify.com/album/0dUTLlo7mTukUVVUry5wkJ) | 4:08 |
-| 18 | [Sem radar](https://open.spotify.com/track/4MOC8XHvAL6mmgEWyntQTb) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Tudo outra vez](https://open.spotify.com/album/2s0V8kS2t739EnTahL8DX3) | 3:52 |
+| 18 | [Sem Radar](https://open.spotify.com/track/4MOC8XHvAL6mmgEWyntQTb) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Tudo Outra Vez](https://open.spotify.com/album/2s0V8kS2t739EnTahL8DX3) | 3:52 |
 | 19 | [Cedo Ou Tarde](https://open.spotify.com/track/4chg7pMn6KWQSqisDBuOSn) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:13 |
 | 20 | [Razões E Emoções](https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:42 |
 | 21 | [Pela Última Vez](https://open.spotify.com/track/3CmpbtqlnasF3781SgGxgo) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:44 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 60 | [Palpite](https://open.spotify.com/track/0ZmvPa1tgXSwoHcFRBnDES) | [Vanessa Rangel](https://open.spotify.com/artist/5SiyWxibX0FgAcRG57u12L) | [Vanessa Rangel](https://open.spotify.com/album/0kMLHzZMrWQsVzwGOuM6EL) | 3:52 |
 | 61 | [Você Vai Estar Na Minha](https://open.spotify.com/track/7dvLYhzZEcdxYGUALIYZhG) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Negra Livre](https://open.spotify.com/album/1kds8EP60d4XSe50NIWCXi) | 3:24 |
 | 62 | [Todo Mundo Quer Cuidar De Mim](https://open.spotify.com/track/0UGFD73qzIK4a7Z36gNasV) | [Brava](https://open.spotify.com/artist/0GlweLglugalynHkzHqFXg) | [Brava](https://open.spotify.com/album/5ubOaWP7T1Kok3901PARCD) | 3:21 |
-| 63 | [Amanhã não se sabe](https://open.spotify.com/track/7vUbma0t0JXiKDOeqruWWK) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Tudo outra vez](https://open.spotify.com/album/2s0V8kS2t739EnTahL8DX3) | 4:25 |
+| 63 | [Amanhã não se sabe](https://open.spotify.com/track/7vUbma0t0JXiKDOeqruWWK) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Tudo Outra Vez](https://open.spotify.com/album/2s0V8kS2t739EnTahL8DX3) | 4:25 |
 | 64 | [As Quatro Estações](https://open.spotify.com/track/1SPdAFFXGeAo5Op3yChd1r) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações](https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS) | 4:08 |
 | 65 | [Só Hoje](https://open.spotify.com/track/1sClAsuPNqEaza29NcaJKP) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Discotecagem Pop Variada](https://open.spotify.com/album/34bqDaxqIdNbohOPdyk2RS) | 3:31 |
 | 66 | [Sutilmente](https://open.spotify.com/track/4pG8lbKPKkfGSniMXxZTM7) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Estandarte](https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz) | 4:02 |

@@ -1,12 +1,12 @@
 {
   "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon. Follow now!",
-  "num_followers": 231623,
+  "num_followers": 230469,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "NTI2MCxkMDIzN2VmMzE3MjcwY2YyM2ExNGNlZjUxZmE3NDA1Y2ZhYWNiNWEx",
+  "snapshot_id": "NTI3NCw4ZDM0MzAxYjJlOGU1YzQwYmFkMTFmZWEzNzE2ZmUyNTJkNzgwMmMx",
   "tracks": [
     {
       "added_at": "2022-07-18 10:03:31",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8"
     },
     {
+      "added_at": "2024-01-09 10:43:41",
+      "album": {
+        "name": "Husn",
+        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Husn",
+      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
+    },
+    {
       "added_at": "2023-10-25 04:47:56",
       "album": {
         "name": "Raanjhan Aaya",
@@ -67,38 +83,6 @@
       "duration_ms": 163369,
       "name": "Raanjhan Aaya",
       "url": "https://open.spotify.com/track/0vqtlDkv6BamM6PIKM9ptz"
-    },
-    {
-      "added_at": "2023-08-10 11:59:00",
-      "album": {
-        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
-        "url": "https://open.spotify.com/album/2140eUTm2dUfKj1FL7DDAe"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Ranveer Singh",
-          "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 213611,
-      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
-      "url": "https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW"
     },
     {
       "added_at": "2023-12-14 13:21:57",
@@ -169,6 +153,62 @@
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
+      "added_at": "2023-08-10 11:59:00",
+      "album": {
+        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/2140eUTm2dUfKj1FL7DDAe"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ranveer Singh",
+          "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 213611,
+      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW"
+    },
+    {
+      "added_at": "2021-07-30 08:52:07",
+      "album": {
+        "name": "Raataan Lambiyan (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 230292,
+      "name": "Raataan Lambiyan (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
+    },
+    {
       "added_at": "2023-11-30 07:18:07",
       "album": {
         "name": "Anjani X",
@@ -191,6 +231,34 @@
       "duration_ms": 186857,
       "name": "Anjani X",
       "url": "https://open.spotify.com/track/1h1vGNtJMR2xKfOm9pVrSz"
+    },
+    {
+      "added_at": "2021-08-07 05:30:49",
+      "album": {
+        "name": "Ranjha (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "duration_ms": 228855,
+      "name": "Ranjha (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
     },
     {
       "added_at": "2023-12-11 13:43:13",
@@ -233,28 +301,20 @@
       "url": "https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn"
     },
     {
-      "added_at": "2023-11-30 07:16:53",
+      "added_at": "2024-01-09 10:36:47",
       "album": {
-        "name": "In Raahon Mein (From \"The Archies\")",
-        "url": "https://open.spotify.com/album/1QH9L2KybZAacyZODZyZ3n"
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
       },
       "artists": [
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Javed Akhtar",
-          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
         }
       ],
-      "duration_ms": 183882,
-      "name": "In Raahon Mein (From \"The Archies\")",
-      "url": "https://open.spotify.com/track/25qNCxhu9VzFgcCPawszwh"
+      "duration_ms": 226933,
+      "name": "King Shit",
+      "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
     },
     {
       "added_at": "2023-11-30 07:34:57",
@@ -305,38 +365,6 @@
       "url": "https://open.spotify.com/track/4nc6XiUze2Yh7wFueGOPv7"
     },
     {
-      "added_at": "2023-10-19 06:28:20",
-      "album": {
-        "name": "Sunoh (From \"The Archies\")",
-        "url": "https://open.spotify.com/album/4hn7BSt8k7zIyyaNkkUXlJ"
-      },
-      "artists": [
-        {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
-        },
-        {
-          "name": "Javed Akhtar",
-          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
-        },
-        {
-          "name": "Ankur Tewari",
-          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
-        },
-        {
-          "name": "The Islanders",
-          "url": "https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i"
-        },
-        {
-          "name": "Dot.",
-          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
-        }
-      ],
-      "duration_ms": 185462,
-      "name": "Sunoh (From \"The Archies\")",
-      "url": "https://open.spotify.com/track/2oNcmoIOlDTBKPh7FzXSAT"
-    },
-    {
       "added_at": "2023-08-22 05:22:34",
       "album": {
         "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
@@ -363,30 +391,6 @@
       "duration_ms": 164045,
       "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
       "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
-    },
-    {
-      "added_at": "2021-07-30 08:52:07",
-      "album": {
-        "name": "Raataan Lambiyan (From \"Shershaah\")",
-        "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "duration_ms": 230292,
-      "name": "Raataan Lambiyan (From \"Shershaah\")",
-      "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
     },
     {
       "added_at": "2023-11-30 07:17:40",
@@ -427,34 +431,6 @@
       "duration_ms": 181250,
       "name": "Mahiye Jinna Sohna",
       "url": "https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq"
-    },
-    {
-      "added_at": "2021-08-07 05:30:49",
-      "album": {
-        "name": "Ranjha (From \"Shershaah\")",
-        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Anvita Dutt",
-          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
-        }
-      ],
-      "duration_ms": 228855,
-      "name": "Ranjha (From \"Shershaah\")",
-      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
     },
     {
       "added_at": "2022-08-12 05:53:58",

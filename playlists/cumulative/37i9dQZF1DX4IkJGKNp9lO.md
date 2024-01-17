@@ -4,7 +4,7 @@
 
 > 
 
-265 songs - 12 hr 41 min
+266 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,11 +242,12 @@
 | [Tro Rätt Tro Fel](https://open.spotify.com/track/7CNyBCHfFMRCQRFeTT5r8p) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM) | 3:57 | 2021-12-14 |  |
 | [Troll och häxor](https://open.spotify.com/track/0VsgAzswvCa3J7SWD9liq2) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le som en fotomodell](https://open.spotify.com/album/4NtpTaduhq45agXOMqMaKE) | 2:10 | 2021-12-14 | 2022-07-29 |
 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 | 2021-12-14 |  |
-| [Tuffa tjejer](https://open.spotify.com/track/54t6OXb9ULThYhHoluZd1s) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/3iBrrZEan24fG7L8gEp6mv) | 2:08 | 2023-12-14 |  |
+| [Tuffa tjejer](https://open.spotify.com/track/54t6OXb9ULThYhHoluZd1s) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/3iBrrZEan24fG7L8gEp6mv) | 2:08 | 2023-12-14 | 2024-01-05 |
 | [Tuffa tjejer](https://open.spotify.com/track/68piTUx7iztTcalFvaXovc) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/7oJHyi9KpoJRKH5Ypxarcm) | 2:08 | 2021-12-14 | 2022-07-27 |
 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 | 2021-12-14 |  |
 | [Tänk negativt](https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Det blir som det blir](https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj) | 2:31 | 2023-10-26 |  |
 | [Tänk negativt](https://open.spotify.com/track/49gKIBAd8nsGWGs8Aimouy) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Tänk negativt](https://open.spotify.com/album/0f5LTeksAWDDcPSMzyNZE7) | 2:31 | 2023-09-28 | 2023-11-02 |
+| [Upp till dans](https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c) | [Vidro](https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8) | [Upp till dans](https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud) | 2:21 | 2024-01-04 |  |
 | [Utsugare](https://open.spotify.com/track/5HNtfpuToKHzDKOPwORi6j) | [Slaktkniv](https://open.spotify.com/artist/4TElB6wIyF7PdN7jYbgaaw) | [Powerpunk, Vol\. 2](https://open.spotify.com/album/6gKlAmyFXz9gKXE1sSue99) | 1:58 | 2021-12-14 | 2022-07-12 |
 | [Vad har du gjort?](https://open.spotify.com/track/6wdwI3hB821ni3XJJTZCgO) | [Hårdgnissel](https://open.spotify.com/artist/6go8Hycq8HF9V1g2kgPyyj) | [Vad har du gjort?](https://open.spotify.com/album/5cNCoynkJwR7mEEjiClJA1) | 1:40 | 2021-12-14 | 2022-07-28 |
 | [Vandrar vägen](https://open.spotify.com/track/2nVc9atl0DHGOIokK2aS2B) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Visar vägen](https://open.spotify.com/album/3uf8YWyGgdJRJXh5olLWO1) | 3:15 | 2021-12-14 | 2022-07-24 |

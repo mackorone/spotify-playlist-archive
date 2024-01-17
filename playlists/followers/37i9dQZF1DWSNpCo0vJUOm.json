@@ -1,735 +1,1071 @@
 {
-  "2021-12-25": 246148,
-  "2021-12-26": 246261,
-  "2021-12-27": 246459,
-  "2021-12-28": 246460,
-  "2021-12-29": 246557,
-  "2021-12-30": 246680,
-  "2021-12-31": 246783,
-  "2022-01-01": 247006,
-  "2022-01-02": 247054,
-  "2022-01-03": 247128,
-  "2022-01-04": 247227,
-  "2022-01-05": 247322,
-  "2022-01-06": 247413,
-  "2022-01-07": 247533,
-  "2022-01-08": 247789,
-  "2022-01-09": 247796,
-  "2022-01-10": 247899,
-  "2022-01-11": 247899,
-  "2022-01-12": 248027,
-  "2022-01-13": 248027,
-  "2022-01-14": 248027,
-  "2022-01-15": 248027,
-  "2022-01-16": 248027,
-  "2022-01-17": 248027,
-  "2022-01-18": 248027,
-  "2022-01-19": 248027,
-  "2022-01-20": 248027,
-  "2022-01-21": 248027,
-  "2022-01-22": 248027,
-  "2022-01-23": 248027,
-  "2022-01-24": 248027,
-  "2022-01-25": 248027,
-  "2022-01-26": 248027,
-  "2022-01-27": 248027,
-  "2022-01-28": 248027,
-  "2022-01-29": 248027,
-  "2022-01-30": 248027,
-  "2022-01-31": 248027,
-  "2022-02-01": 248027,
-  "2022-02-02": 248027,
-  "2022-02-03": 248027,
-  "2022-02-04": 248027,
-  "2022-02-05": 248027,
-  "2022-02-06": 248027,
-  "2022-02-07": 248027,
-  "2022-02-08": 248027,
-  "2022-02-09": 248027,
-  "2022-02-10": 248027,
-  "2022-02-11": 248027,
-  "2022-02-12": 248027,
-  "2022-02-13": 248027,
-  "2022-02-14": 248027,
-  "2022-02-15": 248027,
-  "2022-02-16": 248027,
-  "2022-02-17": 248027,
-  "2022-02-18": 248027,
-  "2022-02-19": 248027,
-  "2022-02-20": 248027,
-  "2022-02-21": 248027,
-  "2022-02-22": 248027,
-  "2022-02-23": 248027,
-  "2022-02-24": 248027,
-  "2022-02-25": 248027,
-  "2022-02-26": 248027,
-  "2022-02-27": 248027,
-  "2022-02-28": 248027,
-  "2022-03-01": 248027,
-  "2022-03-02": 248027,
-  "2022-03-03": 248027,
-  "2022-03-04": 248027,
-  "2022-03-05": 248027,
-  "2022-03-06": 248027,
-  "2022-03-07": 248027,
-  "2022-03-08": 248027,
-  "2022-03-09": 248027,
-  "2022-03-10": 248027,
-  "2022-03-11": 248027,
-  "2022-03-12": 248027,
-  "2022-03-13": 248027,
-  "2022-03-14": 248027,
-  "2022-03-15": 248027,
-  "2022-03-16": 248027,
-  "2022-03-17": 248027,
-  "2022-03-18": 248027,
-  "2022-03-19": 248027,
-  "2022-03-20": 248027,
-  "2022-03-21": 248027,
-  "2022-03-22": 248027,
-  "2022-03-23": 248027,
-  "2022-03-24": 248027,
-  "2022-03-25": 248027,
-  "2022-03-26": 248027,
-  "2022-03-27": 248027,
-  "2022-03-28": 248027,
-  "2022-03-30": 248027,
-  "2022-03-31": 248027,
-  "2022-04-01": 248027,
-  "2022-04-02": 248027,
-  "2022-04-03": 248027,
-  "2022-04-04": 248027,
-  "2022-04-05": 248027,
-  "2022-04-06": 248027,
-  "2022-04-07": 248027,
-  "2022-04-08": 248027,
-  "2022-04-09": 248027,
-  "2022-04-10": 248027,
-  "2022-04-11": 248027,
-  "2022-04-12": 248027,
-  "2022-04-13": 248027,
-  "2022-04-14": 248027,
-  "2022-04-15": 248027,
-  "2022-04-16": 248027,
-  "2022-04-17": 248027,
-  "2022-04-18": 248027,
-  "2022-04-19": 248027,
-  "2022-04-20": 248027,
-  "2022-04-21": 248027,
-  "2022-04-22": 248027,
-  "2022-04-23": 248027,
-  "2022-04-24": 248027,
-  "2022-04-25": 248027,
-  "2022-04-26": 248027,
-  "2022-04-27": 248027,
-  "2022-04-28": 248027,
-  "2022-04-29": 248027,
-  "2022-04-30": 248027,
-  "2022-05-01": 248027,
-  "2022-05-02": 248027,
-  "2022-05-03": 248027,
-  "2022-05-04": 248027,
-  "2022-05-05": 248027,
-  "2022-05-06": 248027,
-  "2022-05-07": 248027,
-  "2022-05-08": 248027,
-  "2022-05-09": 248027,
-  "2022-05-10": 248027,
-  "2022-05-11": 248027,
-  "2022-05-12": 248027,
-  "2022-05-13": 248027,
-  "2022-05-14": 248027,
-  "2022-05-15": 248027,
-  "2022-05-16": 248027,
-  "2022-05-17": 248027,
-  "2022-05-18": 248027,
-  "2022-05-19": 248027,
-  "2022-05-20": 248027,
-  "2022-05-21": 248027,
-  "2022-05-22": 248027,
-  "2022-05-23": 248027,
-  "2022-05-24": 248027,
-  "2022-05-25": 248027,
-  "2022-05-26": 248027,
-  "2022-05-27": 248027,
-  "2022-05-28": 248027,
-  "2022-05-29": 248027,
-  "2022-05-30": 248027,
-  "2022-05-31": 248027,
-  "2022-06-01": 248027,
-  "2022-06-02": 248027,
-  "2022-06-03": 248027,
-  "2022-06-04": 248027,
-  "2022-06-05": 248027,
-  "2022-06-06": 248027,
-  "2022-06-07": 248027,
-  "2022-06-08": 248027,
-  "2022-06-09": 248027,
-  "2022-06-10": 248027,
-  "2022-06-11": 248027,
-  "2022-06-12": 248027,
-  "2022-06-13": 248027,
-  "2022-06-14": 248027,
-  "2022-06-15": 248027,
-  "2022-06-16": 248027,
-  "2022-06-17": 248027,
-  "2022-06-18": 248027,
-  "2022-06-19": 248027,
-  "2022-06-20": 248027,
-  "2022-06-21": 248027,
-  "2022-06-22": 248027,
-  "2022-06-23": 248027,
-  "2022-06-24": 248027,
-  "2022-06-25": 248027,
-  "2022-06-26": 248027,
-  "2022-06-27": 248027,
-  "2022-06-28": 248027,
-  "2022-06-29": 248027,
-  "2022-06-30": 248027,
-  "2022-07-01": 248027,
-  "2022-07-02": 248027,
-  "2022-07-03": 248027,
-  "2022-07-04": 248027,
-  "2022-07-05": 248027,
-  "2022-07-06": 248027,
-  "2022-07-07": 248027,
-  "2022-07-08": 248027,
-  "2022-07-09": 248027,
-  "2022-07-10": 248027,
-  "2022-07-11": 248027,
-  "2022-07-12": 248027,
-  "2022-07-13": 248027,
-  "2022-07-14": 248027,
-  "2022-07-15": 248027,
-  "2022-07-16": 248027,
-  "2022-07-17": 248027,
-  "2022-07-18": 248027,
-  "2022-07-19": 248027,
-  "2022-07-20": 248027,
-  "2022-07-21": 248027,
-  "2022-07-22": 248027,
-  "2022-07-23": 248027,
-  "2022-07-24": 248027,
-  "2022-07-25": 248027,
-  "2022-07-26": 248027,
-  "2022-07-27": 248027,
-  "2022-07-28": 248027,
-  "2022-07-29": 248027,
-  "2022-07-30": 248027,
-  "2022-07-31": 248027,
-  "2022-08-01": 248027,
-  "2022-08-02": 248027,
-  "2022-08-03": 248027,
-  "2022-08-04": 248027,
-  "2022-08-05": 248027,
-  "2022-08-06": 248027,
-  "2022-08-07": 248027,
-  "2022-08-08": 248027,
-  "2022-08-09": 248027,
-  "2022-08-10": 248027,
-  "2022-08-11": 248027,
-  "2022-08-12": 248027,
-  "2022-08-13": 248027,
-  "2022-08-14": 248027,
-  "2022-08-15": 248027,
-  "2022-08-16": 248027,
-  "2022-08-17": 248027,
-  "2022-08-18": 248027,
-  "2022-08-19": 248027,
-  "2022-08-20": 248027,
-  "2022-08-21": 248027,
-  "2022-08-22": 248027,
-  "2022-08-23": 248027,
-  "2022-08-24": 248027,
-  "2022-08-25": 248027,
-  "2022-08-26": 248027,
-  "2022-08-27": 248027,
-  "2022-08-28": 248027,
-  "2022-08-29": 248027,
-  "2022-08-30": 248027,
-  "2022-08-31": 248027,
-  "2022-09-01": 248027,
-  "2022-09-02": 248027,
-  "2022-09-03": 248027,
-  "2022-09-04": 248027,
-  "2022-09-05": 248027,
-  "2022-09-06": 248027,
-  "2022-09-07": 248027,
-  "2022-09-09": 248027,
-  "2022-09-10": 248027,
-  "2022-09-11": 248027,
-  "2022-09-12": 248027,
-  "2022-09-13": 248027,
-  "2022-09-15": 248027,
-  "2022-09-16": 248027,
-  "2022-09-17": 248027,
-  "2022-09-18": 248027,
-  "2022-09-19": 248027,
-  "2022-09-20": 248027,
-  "2022-09-21": 248027,
-  "2022-09-22": 248027,
-  "2022-09-23": 248027,
-  "2022-09-24": 248027,
-  "2022-09-25": 248027,
-  "2022-09-26": 248027,
-  "2022-09-27": 248027,
-  "2022-09-28": 248027,
-  "2022-09-29": 248027,
-  "2022-09-30": 248027,
-  "2022-10-01": 248027,
-  "2022-10-02": 248027,
-  "2022-10-03": 248027,
-  "2022-10-04": 248027,
-  "2022-10-05": 248027,
-  "2022-10-06": 248027,
-  "2022-10-07": 248027,
-  "2022-10-08": 248027,
-  "2022-10-09": 248027,
-  "2022-10-10": 248027,
-  "2022-10-11": 248027,
-  "2022-10-12": 248027,
-  "2022-10-13": 248027,
-  "2022-10-14": 248027,
-  "2022-10-15": 248027,
-  "2022-10-16": 248027,
-  "2022-10-17": 248027,
-  "2022-10-18": 248027,
-  "2022-10-19": 248027,
-  "2022-10-20": 248027,
-  "2022-10-21": 248027,
-  "2022-10-22": 248027,
-  "2022-10-23": 248027,
-  "2022-10-24": 248027,
-  "2022-10-25": 248027,
-  "2022-10-26": 248027,
-  "2022-10-27": 248027,
-  "2022-10-28": 248027,
-  "2022-10-29": 248027,
-  "2022-10-30": 248027,
-  "2022-10-31": 248027,
-  "2022-11-01": 248027,
-  "2022-11-02": 248027,
-  "2022-11-03": 248027,
-  "2022-11-04": 248027,
-  "2022-11-05": 248027,
-  "2022-11-06": 248027,
-  "2022-11-07": 248027,
-  "2022-11-08": 248027,
-  "2022-11-09": 248027,
-  "2022-11-10": 248027,
-  "2022-11-11": 248027,
-  "2022-11-12": 248027,
-  "2022-11-13": 248027,
-  "2022-11-14": 248027,
-  "2022-11-15": 248027,
-  "2022-11-16": 248027,
-  "2022-11-17": 248027,
-  "2022-11-18": 248027,
-  "2022-11-19": 248027,
-  "2022-11-20": 248027,
-  "2022-11-21": 248027,
-  "2022-11-22": 248027,
-  "2022-11-23": 248027,
-  "2022-11-24": 248027,
-  "2022-11-25": 248027,
-  "2022-11-26": 248027,
-  "2022-11-27": 248027,
-  "2022-11-28": 248027,
-  "2022-11-29": 248027,
-  "2022-11-30": 248027,
-  "2022-12-01": 248027,
-  "2022-12-02": 248027,
-  "2022-12-03": 248027,
-  "2022-12-04": 248027,
-  "2022-12-05": 248027,
-  "2022-12-06": 248027,
-  "2022-12-07": 248027,
-  "2022-12-08": 248027,
-  "2022-12-09": 248027,
-  "2022-12-10": 248027,
-  "2022-12-11": 248027,
-  "2022-12-12": 248027,
-  "2022-12-13": 248027,
-  "2022-12-14": 248027,
-  "2022-12-15": 248027,
-  "2022-12-16": 248027,
-  "2022-12-17": 248027,
-  "2022-12-18": 248027,
-  "2022-12-19": 248027,
-  "2022-12-20": 248027,
-  "2022-12-21": 248027,
-  "2022-12-22": 248027,
-  "2022-12-24": 248027,
-  "2022-12-25": 248027,
-  "2022-12-26": 248027,
-  "2022-12-27": 248027,
-  "2022-12-28": 248027,
-  "2022-12-29": 248027,
-  "2022-12-30": 248027,
-  "2022-12-31": 248027,
-  "2023-01-01": 248027,
-  "2023-01-02": 248027,
-  "2023-01-03": 248027,
-  "2023-01-04": 248027,
-  "2023-01-05": 248027,
-  "2023-01-06": 248027,
-  "2023-01-07": 248027,
-  "2023-01-08": 248027,
-  "2023-01-09": 248027,
-  "2023-01-10": 248027,
-  "2023-01-11": 248027,
-  "2023-01-12": 248027,
-  "2023-01-13": 248027,
-  "2023-01-14": 248027,
-  "2023-01-15": 248027,
-  "2023-01-16": 248027,
-  "2023-01-17": 248027,
-  "2023-01-18": 248027,
-  "2023-01-19": 248027,
-  "2023-01-20": 248027,
-  "2023-01-21": 248027,
-  "2023-01-22": 248027,
-  "2023-01-23": 248027,
-  "2023-01-24": 248027,
-  "2023-01-25": 248027,
-  "2023-01-26": 248027,
-  "2023-01-27": 248027,
-  "2023-01-28": 248027,
-  "2023-01-29": 248027,
-  "2023-01-30": 248027,
-  "2023-01-31": 248027,
-  "2023-02-01": 248027,
-  "2023-02-02": 248027,
-  "2023-02-03": 248027,
-  "2023-02-04": 248027,
-  "2023-02-05": 248027,
-  "2023-02-06": 248027,
-  "2023-02-07": 248027,
-  "2023-02-08": 248027,
-  "2023-02-09": 248027,
-  "2023-02-10": 248027,
-  "2023-02-11": 248027,
-  "2023-02-12": 248027,
-  "2023-02-13": 248027,
-  "2023-02-14": 248027,
-  "2023-02-15": 248027,
-  "2023-02-16": 248027,
-  "2023-02-17": 248027,
-  "2023-02-18": 248027,
-  "2023-02-19": 248027,
-  "2023-02-20": 248027,
-  "2023-02-21": 248027,
-  "2023-02-22": 248027,
-  "2023-02-23": 248027,
-  "2023-02-24": 248027,
-  "2023-02-25": 248027,
-  "2023-02-26": 248027,
-  "2023-02-27": 248027,
-  "2023-02-28": 248027,
-  "2023-03-01": 248027,
-  "2023-03-02": 248027,
-  "2023-03-03": 248027,
-  "2023-03-04": 248027,
-  "2023-03-05": 248027,
-  "2023-03-06": 248027,
-  "2023-03-07": 248027,
-  "2023-03-08": 248027,
-  "2023-03-09": 248027,
-  "2023-03-10": 248027,
-  "2023-03-11": 248027,
-  "2023-03-12": 248027,
-  "2023-03-13": 248027,
-  "2023-03-14": 248027,
-  "2023-03-15": 248027,
-  "2023-03-16": 248027,
-  "2023-03-17": 248027,
-  "2023-03-18": 248027,
-  "2023-03-19": 248027,
-  "2023-03-20": 248027,
-  "2023-03-21": 248027,
-  "2023-03-22": 248027,
-  "2023-03-23": 248027,
-  "2023-03-24": 248027,
-  "2023-03-25": 248027,
-  "2023-03-26": 248027,
-  "2023-03-27": 248027,
-  "2023-03-28": 248027,
-  "2023-03-29": 248027,
-  "2023-03-30": 248027,
-  "2023-03-31": 248027,
-  "2023-04-01": 248027,
-  "2023-04-02": 248027,
-  "2023-04-03": 248027,
-  "2023-04-04": 248027,
-  "2023-04-05": 248027,
-  "2023-04-06": 248027,
-  "2023-04-07": 248027,
-  "2023-04-09": 248027,
-  "2023-04-10": 248027,
-  "2023-04-11": 248027,
-  "2023-04-12": 248027,
-  "2023-04-13": 248027,
-  "2023-04-14": 248027,
-  "2023-04-15": 248027,
-  "2023-04-16": 248027,
-  "2023-04-17": 248027,
-  "2023-04-18": 248027,
-  "2023-04-19": 248027,
-  "2023-04-20": 248027,
-  "2023-04-21": 248027,
-  "2023-04-22": 248027,
-  "2023-04-23": 248027,
-  "2023-04-24": 248027,
-  "2023-04-25": 248027,
-  "2023-04-26": 248027,
-  "2023-04-27": 248027,
-  "2023-04-28": 248027,
-  "2023-04-29": 248027,
-  "2023-04-30": 248027,
-  "2023-05-01": 248027,
-  "2023-05-02": 248027,
-  "2023-05-03": 248027,
-  "2023-05-04": 248027,
-  "2023-05-05": 248027,
-  "2023-05-06": 248027,
-  "2023-05-07": 248027,
-  "2023-05-08": 248027,
-  "2023-05-09": 248027,
-  "2023-05-10": 248027,
-  "2023-05-11": 248027,
-  "2023-05-12": 248027,
-  "2023-05-13": 248027,
-  "2023-05-14": 248027,
-  "2023-05-15": 248027,
-  "2023-05-16": 248027,
-  "2023-05-17": 248027,
-  "2023-05-18": 248027,
-  "2023-05-19": 248027,
-  "2023-05-20": 248027,
-  "2023-05-21": 248027,
-  "2023-05-22": 248027,
-  "2023-05-23": 248027,
-  "2023-05-24": 248027,
-  "2023-05-25": 248027,
-  "2023-05-26": 248027,
-  "2023-05-27": 248027,
-  "2023-05-28": 248027,
-  "2023-05-29": 248027,
-  "2023-05-30": 248027,
-  "2023-05-31": 248027,
-  "2023-06-01": 248027,
-  "2023-06-02": 248027,
-  "2023-06-03": 248027,
-  "2023-06-04": 248027,
-  "2023-06-05": 248027,
-  "2023-06-06": 248027,
-  "2023-06-07": 248027,
-  "2023-06-08": 248027,
-  "2023-06-09": 248027,
-  "2023-06-10": 248027,
-  "2023-06-11": 248027,
-  "2023-06-12": 248027,
-  "2023-06-13": 248027,
-  "2023-06-14": 248027,
-  "2023-06-15": 248027,
-  "2023-06-16": 248027,
-  "2023-06-17": 248027,
-  "2023-06-18": 248027,
-  "2023-06-19": 248027,
-  "2023-06-20": 248027,
-  "2023-06-21": 248027,
-  "2023-06-22": 248027,
-  "2023-06-23": 248027,
-  "2023-06-24": 248027,
-  "2023-06-25": 248027,
-  "2023-06-26": 248027,
-  "2023-06-27": 248027,
-  "2023-06-28": 248027,
-  "2023-06-29": 248027,
-  "2023-06-30": 248027,
-  "2023-07-01": 248027,
-  "2023-07-02": 248027,
-  "2023-07-03": 248027,
-  "2023-07-04": 248027,
-  "2023-07-05": 248027,
-  "2023-07-06": 248027,
-  "2023-07-07": 248027,
-  "2023-07-08": 248027,
-  "2023-07-09": 248027,
-  "2023-07-10": 248027,
-  "2023-07-11": 248027,
-  "2023-07-12": 248027,
-  "2023-07-13": 248027,
-  "2023-07-14": 248027,
-  "2023-07-15": 248027,
-  "2023-07-16": 248027,
-  "2023-07-17": 248027,
-  "2023-07-18": 248027,
-  "2023-07-19": 248027,
-  "2023-07-20": 248027,
-  "2023-07-21": 248027,
-  "2023-07-22": 248027,
-  "2023-07-23": 248027,
-  "2023-07-24": 248027,
-  "2023-07-25": 248027,
-  "2023-07-26": 248027,
-  "2023-07-27": 248027,
-  "2023-07-28": 248027,
-  "2023-07-29": 248027,
-  "2023-07-30": 248027,
-  "2023-07-31": 248027,
-  "2023-08-01": 248027,
-  "2023-08-02": 248027,
-  "2023-08-03": 248027,
-  "2023-08-04": 248027,
-  "2023-08-05": 248027,
-  "2023-08-06": 248027,
-  "2023-08-07": 248027,
-  "2023-08-08": 248027,
-  "2023-08-09": 248027,
-  "2023-08-10": 248027,
-  "2023-08-11": 248027,
-  "2023-08-12": 248027,
-  "2023-08-13": 248027,
-  "2023-08-14": 248027,
-  "2023-08-15": 248027,
-  "2023-08-16": 248027,
-  "2023-08-17": 248027,
-  "2023-08-18": 248027,
-  "2023-08-19": 248027,
-  "2023-08-20": 248027,
-  "2023-08-21": 248027,
-  "2023-08-22": 248027,
-  "2023-08-23": 248027,
-  "2023-08-24": 248027,
-  "2023-08-25": 248027,
-  "2023-08-26": 248027,
-  "2023-08-27": 248027,
-  "2023-08-28": 248027,
-  "2023-08-29": 248027,
-  "2023-08-30": 248027,
-  "2023-08-31": 248027,
-  "2023-09-01": 248027,
-  "2023-09-02": 248027,
-  "2023-09-03": 248027,
-  "2023-09-04": 248027,
-  "2023-09-05": 248027,
-  "2023-09-06": 248027,
-  "2023-09-07": 248027,
-  "2023-09-08": 248027,
-  "2023-09-09": 248027,
-  "2023-09-10": 248027,
-  "2023-09-11": 248027,
-  "2023-09-12": 248027,
-  "2023-09-13": 248027,
-  "2023-09-14": 248027,
-  "2023-09-15": 248027,
-  "2023-09-16": 248027,
-  "2023-09-17": 248027,
-  "2023-09-18": 248027,
-  "2023-09-19": 248027,
-  "2023-09-20": 248027,
-  "2023-09-21": 248027,
-  "2023-09-22": 248027,
-  "2023-09-23": 248027,
-  "2023-09-24": 248027,
-  "2023-09-25": 248027,
-  "2023-09-26": 248027,
-  "2023-09-27": 248027,
-  "2023-09-28": 248027,
-  "2023-09-29": 248027,
-  "2023-09-30": 248027,
-  "2023-10-01": 248027,
-  "2023-10-02": 248027,
-  "2023-10-03": 248027,
-  "2023-10-04": 248027,
-  "2023-10-05": 248027,
-  "2023-10-06": 248027,
-  "2023-10-07": 248027,
-  "2023-10-08": 248027,
-  "2023-10-09": 248027,
-  "2023-10-10": 248027,
-  "2023-10-11": 248027,
-  "2023-10-12": 248027,
-  "2023-10-13": 248027,
-  "2023-10-14": 248027,
-  "2023-10-15": 248027,
-  "2023-10-16": 248027,
-  "2023-10-17": 248027,
-  "2023-10-18": 248027,
-  "2023-10-19": 248027,
-  "2023-10-20": 248027,
-  "2023-10-21": 248027,
-  "2023-10-22": 248027,
-  "2023-10-23": 248027,
-  "2023-10-24": 248027,
-  "2023-10-25": 248027,
-  "2023-10-26": 248027,
-  "2023-10-27": 248027,
-  "2023-10-28": 248027,
-  "2023-10-29": 248027,
-  "2023-10-30": 248027,
-  "2023-10-31": 248027,
-  "2023-11-01": 248027,
-  "2023-11-02": 248027,
-  "2023-11-03": 248027,
-  "2023-11-04": 248027,
-  "2023-11-05": 248027,
-  "2023-11-06": 248027,
-  "2023-11-07": 248027,
-  "2023-11-08": 248027,
-  "2023-11-09": 248027,
-  "2023-11-10": 248027,
-  "2023-11-11": 248027,
-  "2023-11-12": 248027,
-  "2023-11-13": 248027,
-  "2023-11-14": 248027,
-  "2023-11-15": 248027,
-  "2023-11-16": 248027,
-  "2023-11-17": 248027,
-  "2023-11-18": 248027,
-  "2023-11-19": 248027,
-  "2023-11-20": 248027,
-  "2023-11-21": 248027,
-  "2023-11-22": 248027,
-  "2023-11-23": 248027,
-  "2023-11-24": 248027,
-  "2023-11-25": 248027,
-  "2023-11-26": 248027,
-  "2023-11-27": 248027,
-  "2023-11-28": 248027,
-  "2023-11-29": 248027,
-  "2023-11-30": 248027,
-  "2023-12-01": 248027,
-  "2023-12-02": 248027,
-  "2023-12-03": 248027,
-  "2023-12-04": 248027,
-  "2023-12-05": 248027,
-  "2023-12-06": 248027,
-  "2023-12-07": 248027,
-  "2023-12-08": 248027,
-  "2023-12-09": 248027,
-  "2023-12-10": 248027,
-  "2023-12-11": 248027,
-  "2023-12-12": 248027,
-  "2023-12-13": 248027,
-  "2023-12-14": 248027,
-  "2023-12-15": 248027,
-  "2023-12-16": 248027,
-  "2023-12-17": 248027,
-  "2023-12-18": 248027,
-  "2023-12-19": 248027,
-  "2023-12-20": 248027,
-  "2023-12-21": 248027,
-  "2023-12-22": 248027,
-  "2023-12-23": 248027,
-  "2023-12-24": 248027,
-  "2023-12-25": 248027,
-  "2023-12-26": 248027,
-  "2023-12-27": 248027,
-  "2023-12-30": 248027,
-  "2023-12-31": 248027,
-  "2024-01-01": 248027,
-  "2024-01-02": 248027,
-  "2024-01-03": 248027
+  "2024-01-17": 248027,
+  "date_first_scraped": "2021-12-21",
+  "description": "The ones we love. This is R.E.M.",
+  "name": "This Is: R.E.M.",
+  "tracks": [
+    {
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/1pSsHEkqT4hlvJWDBlpVKU"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "(Don't Go Back To) Rockville",
+      "url": "https://open.spotify.com/track/5OshTiUUBzCaD8N9cUysdx"
+    },
+    {
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5AfgJ4mjGvANakNjGrKGgy"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "At My Most Beautiful",
+      "url": "https://open.spotify.com/track/5Knohtj8UsTpFZsTCkMZWx"
+    },
+    {
+      "album": {
+        "name": "In Time: The Best Of R.E.M. 1988-2003",
+        "url": "https://open.spotify.com/album/5PHng5BLIYSwmFfrihOeOi"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247840,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/3GqdTcvXQvqX0FljBh7eDP"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3nDp9F1DKJ4FjIcRXgmOJh"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330933,
+      "name": "Bang And Blame",
+      "url": "https://open.spotify.com/track/4FCn9LuUy6unyPSnXVwLq1"
+    },
+    {
+      "album": {
+        "name": "Lifes Rich Pageant",
+        "url": "https://open.spotify.com/album/5utjCgJfaqaOqfHGMzD9cB"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Begin The Begin",
+      "url": "https://open.spotify.com/track/5z0V8zBt6uI8dqc0ChROpg"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3nDp9F1DKJ4FjIcRXgmOJh"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278706,
+      "name": "Crush With Eyeliner",
+      "url": "https://open.spotify.com/track/42DkVLfA1tTqMm0eOxq90I"
+    },
+    {
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5AfgJ4mjGvANakNjGrKGgy"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "Daysleeper",
+      "url": "https://open.spotify.com/track/7chTzkbpS16xJqyhJWQlmt"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271373,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1HO9SEz1cREBdWJo7XiBB1"
+    },
+    {
+      "album": {
+        "name": "Fables Of The Reconstruction (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mpuceSlGGudTQPeArVABP"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Driver 8 - Remastered",
+      "url": "https://open.spotify.com/track/4BEU0NjtF2EHmlWi4Cs1Kf"
+    },
+    {
+      "album": {
+        "name": "New Adventures In Hi-Fi",
+        "url": "https://open.spotify.com/album/3pPyHBRk2RvmNn4Cg1Asv6"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324826,
+      "name": "E-Bow The Letter",
+      "url": "https://open.spotify.com/track/2S3wW83zk0CosLGYN7jfor"
+    },
+    {
+      "album": {
+        "name": "New Adventures In Hi-Fi",
+        "url": "https://open.spotify.com/album/3pPyHBRk2RvmNn4Cg1Asv6"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245373,
+      "name": "Electrolite",
+      "url": "https://open.spotify.com/track/6TU0zW9qJaG53vSa1R57qb"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320986,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/6YpwcSOgpLosJm4jXXHlu0"
+    },
+    {
+      "album": {
+        "name": "Document - 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201546,
+      "name": "Exhuming McCarthy - Remastered",
+      "url": "https://open.spotify.com/track/7GEQic2y8KjVONDyRvZgCK"
+    },
+    {
+      "album": {
+        "name": "Lifes Rich Pageant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Fall On Me - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
+    },
+    {
+      "album": {
+        "name": "Fables Of The Reconstruction (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mpuceSlGGudTQPeArVABP"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291053,
+      "name": "Feeling Gravitys Pull - Remastered",
+      "url": "https://open.spotify.com/track/2xRU6juKQQHGPYEANoKEk4"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232560,
+      "name": "Find The River",
+      "url": "https://open.spotify.com/track/0i19G7KGIaQIEQF7T9H0Mq"
+    },
+    {
+      "album": {
+        "name": "Document - 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230120,
+      "name": "Finest Worksong - Remastered",
+      "url": "https://open.spotify.com/track/0D4lZI5jBVVB1PUqkkZuNa"
+    },
+    {
+      "album": {
+        "name": "Dead Letter Office",
+        "url": "https://open.spotify.com/album/5nK2SaHNQdigSxtRRrb5wd"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "Gardening At Night",
+      "url": "https://open.spotify.com/track/2J9FBZjvPFJy5kZqEPYB2V"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "Half A World Away",
+      "url": "https://open.spotify.com/track/0mglqLULsaV6sIYnQpXSY7"
+    },
+    {
+      "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/3AFRhYTvZnAtOGlMIslC4v"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351466,
+      "name": "I'll Take The Rain",
+      "url": "https://open.spotify.com/track/02E59Z64bxt4EyGcXiqcIY"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267453,
+      "name": "Ignoreland",
+      "url": "https://open.spotify.com/track/1L2xLOiPKueCwIJYYAmSsd"
+    },
+    {
+      "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/3AFRhYTvZnAtOGlMIslC4v"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236626,
+      "name": "Imitation Of Life",
+      "url": "https://open.spotify.com/track/5Wo7vtVNx8Hz2L9CSf7tKd"
+    },
+    {
+      "album": {
+        "name": "Document - 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247240,
+      "name": "It's The End Of The World As We Know It (And I Feel Fine) - Remastered",
+      "url": "https://open.spotify.com/track/7MYbzpwYe4idnynYQCE998"
+    },
+    {
+      "album": {
+        "name": "Around The Sun",
+        "url": "https://open.spotify.com/album/5CI03g8QNehnEWXAhRtw0s"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289333,
+      "name": "Leaving New York",
+      "url": "https://open.spotify.com/track/4lgVbDYZR1VV4gEkIueSiw"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3nDp9F1DKJ4FjIcRXgmOJh"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/2cF01xTPbe08sLyWm6efb3"
+    },
+    {
+      "album": {
+        "name": "Fables Of The Reconstruction (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mpuceSlGGudTQPeArVABP"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Life And How To Live It - Remastered",
+      "url": "https://open.spotify.com/track/1yB6adiY4n7DHjQPsM5Vgi"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268426,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
+    },
+    {
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5AfgJ4mjGvANakNjGrKGgy"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271600,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EX99kuSsTM9RyRAciMvvE"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313733,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/1A7RrOZG7sYNMG3Zdi82eY"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197653,
+      "name": "Monty Got A Raw Deal",
+      "url": "https://open.spotify.com/track/5x4Wcsr9R2j4IfAU8jXswF"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199360,
+      "name": "Near Wild Heaven",
+      "url": "https://open.spotify.com/track/378HOooPNo6LRIfVHb15nW"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135640,
+      "name": "New Orleans Instrumental No. 1",
+      "url": "https://open.spotify.com/track/1zeaNw8kJ4k0foh6kQEAth"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258106,
+      "name": "Nightswimming",
+      "url": "https://open.spotify.com/track/0hGQ36LokYcYHbEeLB1sYP"
+    },
+    {
+      "album": {
+        "name": "Collapse Into Now",
+        "url": "https://open.spotify.com/album/3rUHPaRyuYSt1onemgS7W3"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200946,
+      "name": "Oh My Heart",
+      "url": "https://open.spotify.com/track/6lbL7XOBiJ43wqZ58AnMwt"
+    },
+    {
+      "album": {
+        "name": "Green (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "Orange Crush - Remastered",
+      "url": "https://open.spotify.com/track/1dZ0YJDBE5cyEbYVahUqPI"
+    },
+    {
+      "album": {
+        "name": "Green (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184933,
+      "name": "Pop Song 89 - Remastered",
+      "url": "https://open.spotify.com/track/0f7lwf8ahLohUsaMW8GZIO"
+    },
+    {
+      "album": {
+        "name": "Murmur - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245786,
+      "name": "Radio Free Europe",
+      "url": "https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "Radio Song",
+      "url": "https://open.spotify.com/track/5UBeN0XvvIvnEjyp6uThr4"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
+    },
+    {
+      "album": {
+        "name": "Murmur - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197840,
+      "name": "Sitting Still",
+      "url": "https://open.spotify.com/track/2pp6riMLgJwOoIWzoN9dzH"
+    },
+    {
+      "album": {
+        "name": "Reckoning - Deluxe Edition",
+        "url": "https://open.spotify.com/album/2tCxbYgt56pq18tpISvSoR"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "So. Central Rain",
+      "url": "https://open.spotify.com/track/1Wx9GbtaQfvELps23BIiPt"
+    },
+    {
+      "album": {
+        "name": "Green (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Stand - Remastered",
+      "url": "https://open.spotify.com/track/1xZugBFMDSnCBTNrreWET0"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195906,
+      "name": "Star Me Kitten",
+      "url": "https://open.spotify.com/track/6VYrr36LvENN0esgS3VS6W"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3nDp9F1DKJ4FjIcRXgmOJh"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233426,
+      "name": "Strange Currencies",
+      "url": "https://open.spotify.com/track/22L2W5zBju0h7mFSfFzUJW"
+    },
+    {
+      "album": {
+        "name": "Lifes Rich Pageant",
+        "url": "https://open.spotify.com/album/5utjCgJfaqaOqfHGMzD9cB"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/7iqds11TrI0RS6p3ALk004"
+    },
+    {
+      "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/33lyLAH9ntGdiHGWpTdddm"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "Supernatural Superserious",
+      "url": "https://open.spotify.com/track/6ls4ko2ZRKoNj8Wa0UkBy9"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261320,
+      "name": "Sweetness Follows",
+      "url": "https://open.spotify.com/track/4A5QTQ7KW9s1SW0woYbAef"
+    },
+    {
+      "album": {
+        "name": "Murmur - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201466,
+      "name": "Talk About The Passion",
+      "url": "https://open.spotify.com/track/3J2WkycsAdhVzBAPdHJ8oX"
+    },
+    {
+      "album": {
+        "name": "In Time: The Best Of R.E.M. 1988-2003",
+        "url": "https://open.spotify.com/album/3UvVHQ31PhSMtI2GIS91Lz"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/7w57O4o0xCTn9YpKuaPZDd"
+    },
+    {
+      "album": {
+        "name": "Document - 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "The One I Love - Remastered 2012",
+      "url": "https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249093,
+      "name": "The Sidewinder Sleeps Tonite",
+      "url": "https://open.spotify.com/track/3YKvad72HNf4ASFNSvNl0z"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3nDp9F1DKJ4FjIcRXgmOJh"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/6rhDqZqeFnIwUEkSHgWnTy"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Try Not To Breathe",
+      "url": "https://open.spotify.com/track/2P7YRZ6XbIkF5PY1WJiN5H"
+    },
+    {
+      "album": {
+        "name": "Green (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257293,
+      "name": "Turn You Inside-Out - Remastered",
+      "url": "https://open.spotify.com/track/5cHJkKqz6USfa7U5xT4j8o"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3nDp9F1DKJ4FjIcRXgmOJh"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "What's The Frequency, Kenneth?",
+      "url": "https://open.spotify.com/track/1yStBw3HI2pnjbO3ihq33N"
+    },
+    {
+      "album": {
+        "name": "Chronic Town",
+        "url": "https://open.spotify.com/album/4GKHyDVQYaMbpXpTckjX6G"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249386,
+      "name": "Wolves, Lower",
+      "url": "https://open.spotify.com/track/5HZzcCLbX2LY4IP5qPRcqj"
+    },
+    {
+      "album": {
+        "name": "Green (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259733,
+      "name": "World Leader Pretend - Remastered",
+      "url": "https://open.spotify.com/track/7KBiPgHgfy5t1wo2alQvF6"
+    },
+    {
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5AfgJ4mjGvANakNjGrKGgy"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2019-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323600,
+      "name": "You're In The Air",
+      "url": "https://open.spotify.com/track/2CEtYGKvWAt0MBDWFW5XQ3"
+    },
+    {
+      "album": {
+        "name": "Collapse Into Now",
+        "url": "https://open.spotify.com/album/2QfGdHHkWY0zBlwnMtoj9H"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2020-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254613,
+      "name": "\u00dcberlin",
+      "url": "https://open.spotify.com/track/0vyQzGo4ZhrOvp0zMkpyLP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSNpCo0vJUOm"
 }

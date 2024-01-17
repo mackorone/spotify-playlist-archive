@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-71 songs - 5 hr 53 min
+75 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-09-08 |  |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-09-08 | 2023-02-04 |
 | [Banyu Langit](https://open.spotify.com/track/5hqpDFoA8j4T3MkXEd4UNk) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Banyu Langit](https://open.spotify.com/album/200eVqfp0zNFdQMbmPaRZQ) | 4:53 | 2021-09-08 |  |
-| [Bubrah](https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0) | 5:46 | 2023-08-09 |  |
+| [Bubrah](https://open.spotify.com/track/25RJ8ELZpDxxqYewIesAXY) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/5Nkut8ikqRpSbTAplNoMat) | 5:46 | 2024-01-11 |  |
+| [Bubrah](https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0) | 5:46 | 2023-08-09 | 2024-01-14 |
 | [Cerito Loro](https://open.spotify.com/track/57egBaCTBOuAs7ErKxyYjN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/46KkX8tvr0ANum32q8SX8F) | 6:17 | 2021-09-08 |  |
 | [Cidro 2](https://open.spotify.com/track/17yog0bsFVvumvOuux03wM) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Cidro 2](https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA) | 4:02 | 2021-09-08 |  |
 | [Cidro Asmoro](https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Cidro Asmoro](https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc) | 5:26 | 2023-02-03 |  |
@@ -21,12 +22,13 @@
 | [Dalan Liyane](https://open.spotify.com/track/30xujBi9kPi3YWEbgzv8gH) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Dalan Liyane](https://open.spotify.com/album/6LFJ0rjfUWeddBZbgCDIPU) | 4:18 | 2023-05-19 |  |
 | [Dalan Liyane](https://open.spotify.com/track/14DyVmkBiTzhcGQg1udF9o) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/25k6Y3OXSiOk4LBthG4Qjb) | 4:16 | 2021-09-08 | 2023-03-02 |
 | [Dalan Liyane](https://open.spotify.com/track/2PHWOjXO7lhh0Nlaa8jmoe) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/7KZw8TKU5XJyw2dLVUCSs8) | 4:16 | 2023-02-16 |  |
-| [Demi Kowe](https://open.spotify.com/track/4kuM5ZVxSejOpDXJvnDz3B) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Demi Kowe](https://open.spotify.com/album/2DjJKCcUtMiO8fITKrYip6) | 4:23 | 2021-09-08 |  |
+| [Demi Kowe](https://open.spotify.com/track/4kuM5ZVxSejOpDXJvnDz3B) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Demi Kowe](https://open.spotify.com/album/2DjJKCcUtMiO8fITKrYip6) | 4:23 | 2021-09-08 | 2024-01-12 |
 | [Ditinggal Pas Sayang Sayange](https://open.spotify.com/track/1TTRTw1LBNmhhbOivTVaf9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Ditinggal Pas Sayang Sayange](https://open.spotify.com/album/0m2eRIh8FVBM9ul8usVljr) | 4:50 | 2021-09-08 |  |
 | [Dumes](https://open.spotify.com/track/5IhULiOyG58jL20qWkztEg) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Dumes](https://open.spotify.com/album/7fChrUmjD25EVYcvPTIWUd) | 4:26 | 2023-08-09 |  |
 | [Durung Ikhlas](https://open.spotify.com/track/0dokrFBhI5MAJ9UYGplJWx) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Durung Ikhlas](https://open.spotify.com/album/03bt7cjECUUsUrcrGDBwHr) | 4:02 | 2023-02-03 |  |
 | [Emas Hantaran](https://open.spotify.com/track/05MHiHJwPgzCKa5C8gyYH7) | [Arief](https://open.spotify.com/artist/4oKMJxfKAUkddjrPMPdk5k), [Yollanda](https://open.spotify.com/artist/6lruGjGA2RQwJyZMmOpL7e) | [Emas Hantaran](https://open.spotify.com/album/1dmUeIIkru2EioSgNBArzn) | 4:52 | 2021-09-08 |  |
 | [Gak Pernah Cukup](https://open.spotify.com/track/3nmsic2kCWqzDTPHVLXVcn) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Gak Pernah Cukup](https://open.spotify.com/album/41Xs0KpcT1GoIZrWahujKJ) | 4:58 | 2021-09-08 |  |
+| [Gampil](https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Gampil](https://open.spotify.com/album/0UjiKUCJA3xHzSfhjlqqVk) | 4:51 | 2024-01-11 |  |
 | [Gede Roso](https://open.spotify.com/track/3WdcGNxJHzyjZdu6Y15E6G) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Gede Roso](https://open.spotify.com/album/5CnwfcvfEAJyAImoXTPJtu) | 3:53 | 2021-09-08 |  |
 | [Jajal Kowe Dadi Aku](https://open.spotify.com/track/0VSNH5XtyjQL8qCurq31Cf) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Jajal Kowe Dadi Aku](https://open.spotify.com/album/37qGCmUzMc4OH6sO15s4cM) | 3:52 | 2021-09-08 |  |
 | [Kebacut Nyaman](https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Kebacut Nyaman](https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL) | 5:05 | 2023-08-09 |  |
@@ -40,7 +42,7 @@
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 |  |
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-09-08 |  |
 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 | 2021-09-08 | 2023-10-19 |
-| [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2023-10-11 |  |
+| [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2023-10-11 | 2024-01-12 |
 | [Loro Ati Sejak Dini](https://open.spotify.com/track/03Ct1Mmyvj0f0Eg5Jk6ULp) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/1cWsE4b3euHysg7MkSsIaW) | 4:44 | 2023-10-11 |  |
 | [Loro Ati Sejak Dini](https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj) | 4:44 | 2023-08-09 | 2023-12-03 |
 | [Los Dol](https://open.spotify.com/track/2bCnJ2aCkSh0PIcS6nL2QM) | [Mr Jono & Joni](https://open.spotify.com/artist/15rzzisy7nred7z7Wotmy6) | [Los Dol](https://open.spotify.com/album/3nMuIEIxQ2VxTBAu5N4dKs) | 5:33 | 2021-09-08 | 2023-08-10 |
@@ -54,6 +56,7 @@
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/11lUbzZyDxoBy4yJYASpQy) | 4:34 | 2023-10-11 |  |
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 | 2023-09-01 | 2023-12-03 |
 | [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-12 | 2023-09-07 |
+| [Nyekso Batin](https://open.spotify.com/track/5UhAkrQMv5n9ID1Ut8qaRz) | [Ajeng Febria](https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg) | [Nyekso Batin](https://open.spotify.com/album/4hwokUDyl4OCYVXIFVja2m) | 3:43 | 2024-01-11 |  |
 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 | 2023-02-03 |  |
 | [Ojo Nangis](https://open.spotify.com/track/4Iz7wW7kYwGOtGhv9bnO06) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis](https://open.spotify.com/album/7yXCV83nLn5d9BKwsolEEE) | 5:23 | 2021-09-08 |  |
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2023-08-09 |  |
@@ -77,7 +80,8 @@
 | [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-03 |  |
 | [Tekan Semene](https://open.spotify.com/track/05l0TpxjHw8Y5Vxb9p5xKv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Tekan Semene](https://open.spotify.com/album/6kll8pVZnCHYbEKPDiV5XS) | 5:44 | 2021-09-08 |  |
 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 | 2021-09-08 |  |
-| [Tresno Liyane](https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno Liyane](https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ) | 4:50 | 2023-03-31 |  |
+| [Tresno liyane](https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno liyane](https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE) | 4:50 | 2024-01-11 |  |
+| [Tresno Liyane](https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno Liyane](https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ) | 4:50 | 2023-03-31 | 2024-01-14 |
 | [Yowes Modaro](https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Yowes Modaro](https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW) | 4:52 | 2021-09-08 |  |
 
 \*This playlist was first scraped on 2022-12-15. Prior content cannot be recovered.

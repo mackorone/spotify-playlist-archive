@@ -1,472 +1,1187 @@
 {
-  "2022-09-17": 2859,
-  "2022-09-18": 2860,
-  "2022-09-19": 2864,
-  "2022-09-20": 2868,
-  "2022-09-21": 2873,
-  "2022-09-22": 2874,
-  "2022-09-23": 2878,
-  "2022-09-24": 2878,
-  "2022-09-25": 2880,
-  "2022-09-26": 2885,
-  "2022-09-27": 2888,
-  "2022-09-28": 2889,
-  "2022-09-29": 2890,
-  "2022-09-30": 2891,
-  "2022-10-01": 2894,
-  "2022-10-02": 2896,
-  "2022-10-03": 2895,
-  "2022-10-04": 2899,
-  "2022-10-05": 2900,
-  "2022-10-06": 2902,
-  "2022-10-07": 2902,
-  "2022-10-08": 2905,
-  "2022-10-09": 2909,
-  "2022-10-10": 2909,
-  "2022-10-11": 2909,
-  "2022-10-12": 2910,
-  "2022-10-13": 2918,
-  "2022-10-14": 2920,
-  "2022-10-15": 2922,
-  "2022-10-16": 2922,
-  "2022-10-17": 2926,
-  "2022-10-18": 2927,
-  "2022-10-19": 2926,
-  "2022-10-20": 2928,
-  "2022-10-21": 2928,
-  "2022-10-22": 2929,
-  "2022-10-23": 2931,
-  "2022-10-24": 2933,
-  "2022-10-25": 2935,
-  "2022-10-26": 2939,
-  "2022-10-27": 2940,
-  "2022-10-28": 2943,
-  "2022-10-29": 2946,
-  "2022-10-30": 2948,
-  "2022-10-31": 2949,
-  "2022-11-01": 2952,
-  "2022-11-02": 2956,
-  "2022-11-03": 2960,
-  "2022-11-04": 2961,
-  "2022-11-05": 2963,
-  "2022-11-06": 2967,
-  "2022-11-07": 2968,
-  "2022-11-08": 2973,
-  "2022-11-09": 2976,
-  "2022-11-10": 2975,
-  "2022-11-11": 2978,
-  "2022-11-12": 2979,
-  "2022-11-13": 2982,
-  "2022-11-14": 2989,
-  "2022-11-15": 2991,
-  "2022-11-16": 2992,
-  "2022-11-17": 2995,
-  "2022-11-18": 2998,
-  "2022-11-19": 2999,
-  "2022-11-20": 3001,
-  "2022-11-21": 3005,
-  "2022-11-22": 3005,
-  "2022-11-23": 3008,
-  "2022-11-24": 3011,
-  "2022-11-25": 3013,
-  "2022-11-26": 3013,
-  "2022-11-27": 3014,
-  "2022-11-28": 3015,
-  "2022-11-29": 3015,
-  "2022-11-30": 3015,
-  "2022-12-01": 3018,
-  "2022-12-02": 3019,
-  "2022-12-03": 3020,
-  "2022-12-04": 3022,
-  "2022-12-05": 3023,
-  "2022-12-06": 3025,
-  "2022-12-07": 3026,
-  "2022-12-08": 3027,
-  "2022-12-09": 3027,
-  "2022-12-10": 3025,
-  "2022-12-11": 3028,
-  "2022-12-12": 3025,
-  "2022-12-13": 3027,
-  "2022-12-14": 3027,
-  "2022-12-15": 3029,
-  "2022-12-16": 3029,
-  "2022-12-17": 3028,
-  "2022-12-18": 3028,
-  "2022-12-19": 3030,
-  "2022-12-20": 3030,
-  "2022-12-21": 3030,
-  "2022-12-22": 3030,
-  "2022-12-24": 3031,
-  "2022-12-25": 3031,
-  "2022-12-26": 3031,
-  "2022-12-27": 3031,
-  "2022-12-28": 3033,
-  "2022-12-29": 3034,
-  "2022-12-30": 3035,
-  "2022-12-31": 3037,
-  "2023-01-01": 3037,
-  "2023-01-02": 3039,
-  "2023-01-03": 3042,
-  "2023-01-04": 3044,
-  "2023-01-05": 3045,
-  "2023-01-06": 3043,
-  "2023-01-07": 3047,
-  "2023-01-08": 3047,
-  "2023-01-09": 3047,
-  "2023-01-10": 3049,
-  "2023-01-11": 3051,
-  "2023-01-12": 3050,
-  "2023-01-13": 3050,
-  "2023-01-14": 3051,
-  "2023-01-15": 3052,
-  "2023-01-16": 3052,
-  "2023-01-17": 3053,
-  "2023-01-18": 3055,
-  "2023-01-19": 3055,
-  "2023-01-20": 3056,
-  "2023-01-21": 3060,
-  "2023-01-22": 3061,
-  "2023-01-23": 3059,
-  "2023-01-24": 3061,
-  "2023-01-25": 3062,
-  "2023-01-26": 3063,
-  "2023-01-27": 3067,
-  "2023-01-28": 3068,
-  "2023-01-29": 3068,
-  "2023-01-30": 3070,
-  "2023-01-31": 3070,
-  "2023-02-01": 3070,
-  "2023-02-02": 3070,
-  "2023-02-03": 3072,
-  "2023-02-04": 3072,
-  "2023-02-05": 3071,
-  "2023-02-06": 3072,
-  "2023-02-07": 3071,
-  "2023-02-08": 3071,
-  "2023-02-09": 3071,
-  "2023-02-10": 3071,
-  "2023-02-11": 3075,
-  "2023-02-12": 3075,
-  "2023-02-13": 3074,
-  "2023-02-14": 3074,
-  "2023-02-15": 3077,
-  "2023-02-16": 3077,
-  "2023-02-17": 3087,
-  "2023-02-18": 3089,
-  "2023-02-19": 3089,
-  "2023-02-20": 3090,
-  "2023-02-21": 3092,
-  "2023-02-22": 3091,
-  "2023-02-23": 3093,
-  "2023-02-24": 3094,
-  "2023-02-25": 3098,
-  "2023-02-26": 3099,
-  "2023-02-27": 3099,
-  "2023-02-28": 3099,
-  "2023-03-01": 3102,
-  "2023-03-02": 3104,
-  "2023-03-03": 3105,
-  "2023-03-04": 3106,
-  "2023-03-05": 3108,
-  "2023-03-06": 3108,
-  "2023-03-07": 3107,
-  "2023-03-08": 3108,
-  "2023-03-09": 3110,
-  "2023-03-10": 3111,
-  "2023-03-11": 3111,
-  "2023-03-12": 3111,
-  "2023-03-13": 3111,
-  "2023-03-14": 3111,
-  "2023-03-15": 3112,
-  "2023-03-16": 3112,
-  "2023-03-17": 3112,
-  "2023-03-18": 3114,
-  "2023-03-19": 3114,
-  "2023-03-20": 3119,
-  "2023-03-21": 3121,
-  "2023-03-22": 3122,
-  "2023-03-23": 3123,
-  "2023-03-24": 3123,
-  "2023-03-25": 3125,
-  "2023-03-26": 3128,
-  "2023-03-27": 3127,
-  "2023-03-28": 3126,
-  "2023-03-29": 3130,
-  "2023-03-30": 3133,
-  "2023-03-31": 3133,
-  "2023-04-01": 3134,
-  "2023-04-02": 3136,
-  "2023-04-03": 3136,
-  "2023-04-04": 3136,
-  "2023-04-05": 3135,
-  "2023-04-06": 3136,
-  "2023-04-07": 3141,
-  "2023-04-09": 3142,
-  "2023-04-10": 3142,
-  "2023-04-11": 3145,
-  "2023-04-12": 3145,
-  "2023-04-13": 3148,
-  "2023-04-14": 3149,
-  "2023-04-15": 3148,
-  "2023-04-16": 3147,
-  "2023-04-17": 3147,
-  "2023-04-18": 3146,
-  "2023-04-19": 3147,
-  "2023-04-20": 3144,
-  "2023-04-21": 3145,
-  "2023-04-22": 3144,
-  "2023-04-23": 3144,
-  "2023-04-24": 3145,
-  "2023-04-25": 3145,
-  "2023-04-26": 3146,
-  "2023-04-27": 3151,
-  "2023-04-28": 3153,
-  "2023-04-29": 3155,
-  "2023-04-30": 3157,
-  "2023-05-01": 3156,
-  "2023-05-02": 3158,
-  "2023-05-03": 3160,
-  "2023-05-04": 3160,
-  "2023-05-05": 3161,
-  "2023-05-06": 3161,
-  "2023-05-07": 3162,
-  "2023-05-08": 3161,
-  "2023-05-09": 3163,
-  "2023-05-10": 3164,
-  "2023-05-11": 3165,
-  "2023-05-12": 3165,
-  "2023-05-13": 3166,
-  "2023-05-14": 3166,
-  "2023-05-15": 3167,
-  "2023-05-16": 3167,
-  "2023-05-17": 3166,
-  "2023-05-18": 3169,
-  "2023-05-19": 3172,
-  "2023-05-20": 3174,
-  "2023-05-21": 3174,
-  "2023-05-22": 3174,
-  "2023-05-23": 3175,
-  "2023-05-24": 3175,
-  "2023-05-25": 3175,
-  "2023-05-26": 3177,
-  "2023-05-27": 3178,
-  "2023-05-28": 3181,
-  "2023-05-29": 3181,
-  "2023-05-30": 3184,
-  "2023-05-31": 3184,
-  "2023-06-01": 3184,
-  "2023-06-02": 3184,
-  "2023-06-03": 3183,
-  "2023-06-04": 3185,
-  "2023-06-05": 3186,
-  "2023-06-06": 3189,
-  "2023-06-07": 3192,
-  "2023-06-08": 3193,
-  "2023-06-09": 3194,
-  "2023-06-10": 3198,
-  "2023-06-11": 3199,
-  "2023-06-12": 3204,
-  "2023-06-13": 3205,
-  "2023-06-14": 3206,
-  "2023-06-15": 3209,
-  "2023-06-16": 3209,
-  "2023-06-17": 3208,
-  "2023-06-18": 3211,
-  "2023-06-19": 3212,
-  "2023-06-20": 3212,
-  "2023-06-21": 3216,
-  "2023-06-22": 3213,
-  "2023-06-23": 3215,
-  "2023-06-24": 3215,
-  "2023-06-25": 3215,
-  "2023-06-26": 3216,
-  "2023-06-27": 3217,
-  "2023-06-28": 3218,
-  "2023-06-29": 3221,
-  "2023-06-30": 3224,
-  "2023-07-01": 3227,
-  "2023-07-02": 3227,
-  "2023-07-03": 3228,
-  "2023-07-04": 3230,
-  "2023-07-05": 3231,
-  "2023-07-06": 3234,
-  "2023-07-07": 3234,
-  "2023-07-08": 3235,
-  "2023-07-09": 3236,
-  "2023-07-10": 3239,
-  "2023-07-11": 3240,
-  "2023-07-12": 3242,
-  "2023-07-13": 3241,
-  "2023-07-14": 3241,
-  "2023-07-15": 3244,
-  "2023-07-16": 3244,
-  "2023-07-17": 3247,
-  "2023-07-18": 3247,
-  "2023-07-19": 3247,
-  "2023-07-20": 3247,
-  "2023-07-21": 3249,
-  "2023-07-22": 3250,
-  "2023-07-23": 3250,
-  "2023-07-24": 3253,
-  "2023-07-25": 3254,
-  "2023-07-26": 3256,
-  "2023-07-27": 3259,
-  "2023-07-28": 3262,
-  "2023-07-29": 3263,
-  "2023-07-30": 3265,
-  "2023-07-31": 3268,
-  "2023-08-01": 3272,
-  "2023-08-02": 3272,
-  "2023-08-03": 3273,
-  "2023-08-04": 3273,
-  "2023-08-05": 3275,
-  "2023-08-06": 3275,
-  "2023-08-07": 3275,
-  "2023-08-08": 3276,
-  "2023-08-09": 3279,
-  "2023-08-10": 3279,
-  "2023-08-11": 3281,
-  "2023-08-12": 3281,
-  "2023-08-13": 3281,
-  "2023-08-14": 3284,
-  "2023-08-15": 3286,
-  "2023-08-16": 3286,
-  "2023-08-17": 3292,
-  "2023-08-18": 3292,
-  "2023-08-19": 3296,
-  "2023-08-20": 3296,
-  "2023-08-21": 3297,
-  "2023-08-22": 3300,
-  "2023-08-23": 3301,
-  "2023-08-24": 3302,
-  "2023-08-25": 3302,
-  "2023-08-26": 3306,
-  "2023-08-27": 3306,
-  "2023-08-28": 3305,
-  "2023-08-29": 3305,
-  "2023-08-30": 3305,
-  "2023-08-31": 3308,
-  "2023-09-01": 3312,
-  "2023-09-02": 3312,
-  "2023-09-03": 3314,
-  "2023-09-04": 3314,
-  "2023-09-05": 3314,
-  "2023-09-06": 3315,
-  "2023-09-07": 3315,
-  "2023-09-08": 3315,
-  "2023-09-09": 3315,
-  "2023-09-10": 3316,
-  "2023-09-11": 3316,
-  "2023-09-12": 3316,
-  "2023-09-13": 3321,
-  "2023-09-14": 3321,
-  "2023-09-15": 3321,
-  "2023-09-16": 3328,
-  "2023-09-17": 3328,
-  "2023-09-18": 3328,
-  "2023-09-19": 3330,
-  "2023-09-20": 3330,
-  "2023-09-21": 3330,
-  "2023-09-22": 3335,
-  "2023-09-23": 3335,
-  "2023-09-24": 3335,
-  "2023-09-25": 3335,
-  "2023-09-26": 3336,
-  "2023-09-27": 3336,
-  "2023-09-28": 3336,
-  "2023-09-29": 3336,
-  "2023-09-30": 3336,
-  "2023-10-01": 3336,
-  "2023-10-02": 3340,
-  "2023-10-03": 3340,
-  "2023-10-04": 3340,
-  "2023-10-05": 3345,
-  "2023-10-06": 3345,
-  "2023-10-07": 3345,
-  "2023-10-08": 3345,
-  "2023-10-09": 3345,
-  "2023-10-10": 3345,
-  "2023-10-11": 3352,
-  "2023-10-12": 3352,
-  "2023-10-13": 3352,
-  "2023-10-14": 3352,
-  "2023-10-15": 3352,
-  "2023-10-16": 3352,
-  "2023-10-17": 3352,
-  "2023-10-18": 3352,
-  "2023-10-19": 3352,
-  "2023-10-20": 3352,
-  "2023-10-21": 3352,
-  "2023-10-22": 3352,
-  "2023-10-23": 3352,
-  "2023-10-24": 3352,
-  "2023-10-25": 3352,
-  "2023-10-26": 3352,
-  "2023-10-27": 3352,
-  "2023-10-28": 3352,
-  "2023-10-29": 3352,
-  "2023-10-30": 3352,
-  "2023-10-31": 3352,
-  "2023-11-01": 3352,
-  "2023-11-02": 3352,
-  "2023-11-03": 3352,
-  "2023-11-04": 3352,
-  "2023-11-05": 3352,
-  "2023-11-06": 3352,
-  "2023-11-07": 3352,
-  "2023-11-08": 3352,
-  "2023-11-09": 3352,
-  "2023-11-10": 3352,
-  "2023-11-11": 3406,
-  "2023-11-12": 3406,
-  "2023-11-13": 3406,
-  "2023-11-14": 3406,
-  "2023-11-15": 3406,
-  "2023-11-16": 3406,
-  "2023-11-17": 3406,
-  "2023-11-18": 3406,
-  "2023-11-19": 3406,
-  "2023-11-20": 3406,
-  "2023-11-21": 3406,
-  "2023-11-22": 3406,
-  "2023-11-23": 3406,
-  "2023-11-24": 3406,
-  "2023-11-25": 3406,
-  "2023-11-26": 3406,
-  "2023-11-27": 3406,
-  "2023-11-28": 3406,
-  "2023-11-29": 3406,
-  "2023-11-30": 3406,
-  "2023-12-01": 3406,
-  "2023-12-02": 3406,
-  "2023-12-03": 3406,
-  "2023-12-04": 3406,
-  "2023-12-05": 3406,
-  "2023-12-06": 3406,
-  "2023-12-07": 3406,
-  "2023-12-08": 3406,
-  "2023-12-09": 3406,
-  "2023-12-10": 3406,
-  "2023-12-11": 3406,
-  "2023-12-12": 3406,
-  "2023-12-13": 3406,
-  "2023-12-14": 3455,
-  "2023-12-15": 3457,
-  "2023-12-16": 3459,
-  "2023-12-17": 3462,
-  "2023-12-18": 3463,
-  "2023-12-19": 3467,
-  "2023-12-20": 3467,
-  "2023-12-21": 3468,
-  "2023-12-22": 3471,
-  "2023-12-23": 3471,
-  "2023-12-24": 3471,
-  "2023-12-25": 3472,
-  "2023-12-26": 3471,
-  "2023-12-27": 3471,
-  "2023-12-30": 3472,
-  "2023-12-31": 3474,
-  "2024-01-01": 3476,
-  "2024-01-02": 3476,
-  "2024-01-03": 3478
+  "2024-01-17": 3494,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
+  "name": "This Is Tigers Jaw",
+  "tracks": [
+    {
+      "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 281573,
+      "name": "Between Your Band and the Other Band",
+      "url": "https://open.spotify.com/track/3l0Q2p2Ynz5Mfm4y3BnZAi"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 216118,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/6BpZV5puLFApc0SGYV1rSq"
+    },
+    {
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/19OmsLCVYcEGoMgmbzZxPv"
+    },
+    {
+      "album": {
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 163561,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1dWSrF7s0Gx6SZUe8w9Uq9"
+    },
+    {
+      "album": {
+        "name": "Studio 4 Acoustic Session",
+        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 228928,
+      "name": "Carry You Over",
+      "url": "https://open.spotify.com/track/6k8PzX1lx7tqzyY1l7O8u5"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156089,
+      "name": "Cat's Cradle",
+      "url": "https://open.spotify.com/track/6Wrt1iG9AKqkavwSXh1aNz"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Charmer",
+      "url": "https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh"
+    },
+    {
+      "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/5O8NZbdm6mLy8HgJzROeJG"
+    },
+    {
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 121933,
+      "name": "Coil/Recoil",
+      "url": "https://open.spotify.com/track/0vvFaa0HSRU0Lrx0GphltU"
+    },
+    {
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121933,
+      "name": "Coil/Recoil",
+      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153589,
+      "name": "Commit",
+      "url": "https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud"
+    },
+    {
+      "album": {
+        "name": "Constant Headache",
+        "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        },
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181430,
+      "name": "Constant Headache",
+      "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160213,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
+    },
+    {
+      "album": {
+        "name": "Spirit Desire",
+        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266706,
+      "name": "Crystal Vision",
+      "url": "https://open.spotify.com/track/7EFukKfVHrKBqk5uMvOA6w"
+    },
+    {
+      "album": {
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 180070,
+      "name": "Danielson",
+      "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 161386,
+      "name": "Distress Signal",
+      "url": "https://open.spotify.com/track/0WNkiBlZdhn6JXzyCki4gO"
+    },
+    {
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232920,
+      "name": "Escape Plan",
+      "url": "https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy"
+    },
+    {
+      "album": {
+        "name": "Eyes Shut",
+        "url": "https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165466,
+      "name": "Eyes Shut",
+      "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
+    },
+    {
+      "album": {
+        "name": "Fake Death",
+        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128520,
+      "name": "Fake Death",
+      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
+    },
+    {
+      "album": {
+        "name": "Studio 4 Acoustic Session",
+        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 175093,
+      "name": "Fake Death",
+      "url": "https://open.spotify.com/track/222IX0SYu1TZ49kAucVZh9"
+    },
+    {
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123853,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW"
+    },
+    {
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226546,
+      "name": "Follows",
+      "url": "https://open.spotify.com/track/3EVgZBKWXY6xOtS8mrhW1C"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131813,
+      "name": "Frame You",
+      "url": "https://open.spotify.com/track/0pIOxvTWGHz6noPi8AJE9w"
+    },
+    {
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252226,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/02GBtzxf70cvt8wxxhKnyG"
+    },
+    {
+      "album": {
+        "name": "Run For Cover Subscription Singles Series #3",
+        "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265238,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
+    },
+    {
+      "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87146,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/7257V9Op6BXdKbuQDCR6yW"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 222109,
+      "name": "Heaven Apart",
+      "url": "https://open.spotify.com/track/0OGuJTsdY9B0C2fwPHvxbE"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163924,
+      "name": "Hesitation",
+      "url": "https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/1efmAix0BIp3o9tmd4437z"
+    },
+    {
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 230920,
+      "name": "I Saw The Wolf",
+      "url": "https://open.spotify.com/track/507E5wYg75ncbcrYJXkH2t"
+    },
+    {
+      "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256839,
+      "name": "I Saw Water",
+      "url": "https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg"
+    },
+    {
+      "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 168426,
+      "name": "I Was Never Your Boyfriend",
+      "url": "https://open.spotify.com/track/2g5WRDweHvGA5DPrO99bek"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        },
+        {
+          "name": "Andy Hull",
+          "url": "https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216947,
+      "name": "I Won't Care How You Remember Me",
+      "url": "https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME"
+    },
+    {
+      "album": {
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 103352,
+      "name": "Its About Killing People",
+      "url": "https://open.spotify.com/track/7rtvbytMpnY8mMosSEpjLL"
+    },
+    {
+      "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158920,
+      "name": "Jet Alone",
+      "url": "https://open.spotify.com/track/5oUl5qMNWrZlbA2LvqVUYF"
+    },
+    {
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "June",
+      "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189578,
+      "name": "Lemon Mouth",
+      "url": "https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO"
+    },
+    {
+      "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180253,
+      "name": "Lodging",
+      "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
+    },
+    {
+      "album": {
+        "name": "Spirit Desire",
+        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98213,
+      "name": "Meet at the Corner",
+      "url": "https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175293,
+      "name": "Nervous Kids",
+      "url": "https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh"
+    },
+    {
+      "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157280,
+      "name": "Never Saw It Coming",
+      "url": "https://open.spotify.com/track/2vu91wEkfNs7341Eq3cHKS"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 195681,
+      "name": "Never Wanted To",
+      "url": "https://open.spotify.com/track/6J1gXMOvobGCZN3s9EBOGJ"
+    },
+    {
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164569,
+      "name": "New Detroit",
+      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
+    },
+    {
+      "album": {
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 150047,
+      "name": "Okay Paddy",
+      "url": "https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2"
+    },
+    {
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191890,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
+    },
+    {
+      "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122680,
+      "name": "Plane Vs. Tank Vs. Submarine",
+      "url": "https://open.spotify.com/track/1JxUKhB7QGd082YGskroob"
+    },
+    {
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218807,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/4HMwxrEa9kRd4guVQZy9Cp"
+    },
+    {
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102186,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC"
+    },
+    {
+      "album": {
+        "name": "Studio 4 Acoustic Session",
+        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252856,
+      "name": "Safe In Your Skin / Where Am I?",
+      "url": "https://open.spotify.com/track/25tGBkXBIE93mrkRLD5gml"
+    },
+    {
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 216933,
+      "name": "Same Stone",
+      "url": "https://open.spotify.com/track/5jOOZRXH9CBuaHsYekcTRh"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Slow Come On",
+      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
+    },
+    {
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 112946,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3T634xUoZHDer4u5nZCzfe"
+    },
+    {
+      "album": {
+        "name": "Spirit Desire",
+        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311400,
+      "name": "Spirit Desire",
+      "url": "https://open.spotify.com/track/3PTKa8qgM7axIkatKDxVft"
+    },
+    {
+      "album": {
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 212114,
+      "name": "Stungun",
+      "url": "https://open.spotify.com/track/7hhZGHHDvI2IYe7RQSPfQu"
+    },
+    {
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159151,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
+    },
+    {
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140426,
+      "name": "Test Pattern",
+      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
+    },
+    {
+      "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5bJt0jOz9spwJ1rJwSQJ1a"
+    },
+    {
+      "album": {
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 75534,
+      "name": "The Times Tower Belongs To The Dead",
+      "url": "https://open.spotify.com/track/16yMXSfQ2vTudBl6Aqw1WC"
+    },
+    {
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148733,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
+    },
+    {
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 148733,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/36XjpC5U6QNIvIFA6AUrtp"
+    },
+    {
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 139250,
+      "name": "Waltz",
+      "url": "https://open.spotify.com/track/5NTGujjjnZH83kbSW1KvK5"
+    },
+    {
+      "album": {
+        "name": "Warn Me",
+        "url": "https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "Warn Me",
+      "url": "https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y"
+    },
+    {
+      "album": {
+        "name": "Spirit Desire",
+        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119133,
+      "name": "We Are Great, There Is Only One (Tigers Jaw)",
+      "url": "https://open.spotify.com/track/0btYefrUbkE9XDtmprpINs"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 350480,
+      "name": "What Would You Do",
+      "url": "https://open.spotify.com/track/6bREqR9MJcyrEzxxHgef9B"
+    },
+    {
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 244986,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dqH2Z"
 }

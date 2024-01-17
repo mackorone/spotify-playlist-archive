@@ -1,329 +1,575 @@
 {
-  "2023-02-08": 37183,
-  "2023-02-09": 37183,
-  "2023-02-10": 45883,
-  "2023-02-11": 50485,
-  "2023-02-12": 53553,
-  "2023-02-13": 54707,
-  "2023-02-14": 54707,
-  "2023-02-15": 57940,
-  "2023-02-16": 60842,
-  "2023-02-17": 63551,
-  "2023-02-18": 68848,
-  "2023-02-19": 69365,
-  "2023-02-20": 71445,
-  "2023-02-21": 73664,
-  "2023-02-22": 75879,
-  "2023-02-23": 78158,
-  "2023-02-24": 80598,
-  "2023-02-25": 83771,
-  "2023-02-26": 85352,
-  "2023-02-27": 89544,
-  "2023-02-28": 89544,
-  "2023-03-01": 91389,
-  "2023-03-02": 93288,
-  "2023-03-03": 95837,
-  "2023-03-04": 98554,
-  "2023-03-05": 103297,
-  "2023-03-06": 103297,
-  "2023-03-07": 105978,
-  "2023-03-08": 107821,
-  "2023-03-09": 109601,
-  "2023-03-10": 111305,
-  "2023-03-11": 112971,
-  "2023-03-12": 114841,
-  "2023-03-13": 116781,
-  "2023-03-14": 118319,
-  "2023-03-15": 119997,
-  "2023-03-16": 121745,
-  "2023-03-17": 121745,
-  "2023-03-18": 125659,
-  "2023-03-19": 127700,
-  "2023-03-20": 129656,
-  "2023-03-21": 131324,
-  "2023-03-22": 132869,
-  "2023-03-23": 134418,
-  "2023-03-24": 134418,
-  "2023-03-25": 139379,
-  "2023-03-26": 141612,
-  "2023-03-27": 143647,
-  "2023-03-28": 145194,
-  "2023-03-29": 146783,
-  "2023-03-30": 149370,
-  "2023-03-31": 149370,
-  "2023-04-01": 150829,
-  "2023-04-02": 152240,
-  "2023-04-03": 153716,
-  "2023-04-04": 155057,
-  "2023-04-05": 156912,
-  "2023-04-06": 158366,
-  "2023-04-07": 159728,
-  "2023-04-09": 163198,
-  "2023-04-10": 164600,
-  "2023-04-11": 167109,
-  "2023-04-12": 167109,
-  "2023-04-13": 168522,
-  "2023-04-14": 169881,
-  "2023-04-15": 171164,
-  "2023-04-16": 172431,
-  "2023-04-17": 173689,
-  "2023-04-18": 174878,
-  "2023-04-19": 176326,
-  "2023-04-20": 177667,
-  "2023-04-21": 178949,
-  "2023-04-22": 180650,
-  "2023-04-23": 182151,
-  "2023-04-24": 183524,
-  "2023-04-25": 184739,
-  "2023-04-26": 186040,
-  "2023-04-27": 187313,
-  "2023-04-28": 188502,
-  "2023-04-29": 189771,
-  "2023-04-30": 191037,
-  "2023-05-01": 192188,
-  "2023-05-02": 193409,
-  "2023-05-03": 194521,
-  "2023-05-04": 195600,
-  "2023-05-05": 196718,
-  "2023-05-06": 197847,
-  "2023-05-07": 199070,
-  "2023-05-08": 200329,
-  "2023-05-09": 201678,
-  "2023-05-10": 202944,
-  "2023-05-11": 204151,
-  "2023-05-12": 205367,
-  "2023-05-13": 206863,
-  "2023-05-14": 208215,
-  "2023-05-15": 209337,
-  "2023-05-16": 210411,
-  "2023-05-17": 211444,
-  "2023-05-18": 212449,
-  "2023-05-19": 213627,
-  "2023-05-20": 215769,
-  "2023-05-21": 215769,
-  "2023-05-22": 215769,
-  "2023-05-23": 217731,
-  "2023-05-24": 219256,
-  "2023-05-25": 219479,
-  "2023-05-26": 220462,
-  "2023-05-27": 221531,
-  "2023-05-28": 222985,
-  "2023-05-29": 222985,
-  "2023-05-30": 225647,
-  "2023-05-31": 227249,
-  "2023-06-01": 228588,
-  "2023-06-02": 229701,
-  "2023-06-03": 230890,
-  "2023-06-04": 232120,
-  "2023-06-05": 233214,
-  "2023-06-06": 234262,
-  "2023-06-07": 235304,
-  "2023-06-08": 236221,
-  "2023-06-09": 237169,
-  "2023-06-10": 239017,
-  "2023-06-11": 240153,
-  "2023-06-12": 241134,
-  "2023-06-13": 242234,
-  "2023-06-14": 243406,
-  "2023-06-15": 244218,
-  "2023-06-16": 244978,
-  "2023-06-17": 245686,
-  "2023-06-18": 246482,
-  "2023-06-19": 247289,
-  "2023-06-20": 247873,
-  "2023-06-21": 248494,
-  "2023-06-22": 249192,
-  "2023-06-23": 249897,
-  "2023-06-24": 250617,
-  "2023-06-25": 251234,
-  "2023-06-26": 251884,
-  "2023-06-27": 252429,
-  "2023-06-28": 253020,
-  "2023-06-29": 253634,
-  "2023-06-30": 254264,
-  "2023-07-01": 255641,
-  "2023-07-02": 255641,
-  "2023-07-03": 256351,
-  "2023-07-04": 257444,
-  "2023-07-05": 258153,
-  "2023-07-06": 259519,
-  "2023-07-07": 259519,
-  "2023-07-08": 260620,
-  "2023-07-09": 261372,
-  "2023-07-10": 262158,
-  "2023-07-11": 262874,
-  "2023-07-12": 263533,
-  "2023-07-13": 264246,
-  "2023-07-14": 265039,
-  "2023-07-15": 266065,
-  "2023-07-16": 267375,
-  "2023-07-17": 268278,
-  "2023-07-18": 269180,
-  "2023-07-19": 269976,
-  "2023-07-20": 270666,
-  "2023-07-21": 271381,
-  "2023-07-22": 272086,
-  "2023-07-23": 272662,
-  "2023-07-24": 273250,
-  "2023-07-25": 273830,
-  "2023-07-26": 274406,
-  "2023-07-27": 274947,
-  "2023-07-28": 275517,
-  "2023-07-29": 276097,
-  "2023-07-30": 276637,
-  "2023-07-31": 277161,
-  "2023-08-01": 277648,
-  "2023-08-02": 278124,
-  "2023-08-03": 278564,
-  "2023-08-04": 279012,
-  "2023-08-05": 279497,
-  "2023-08-06": 280549,
-  "2023-08-07": 280549,
-  "2023-08-08": 281100,
-  "2023-08-09": 281757,
-  "2023-08-10": 282351,
-  "2023-08-11": 282943,
-  "2023-08-12": 283650,
-  "2023-08-13": 284333,
-  "2023-08-14": 285034,
-  "2023-08-15": 286118,
-  "2023-08-16": 286118,
-  "2023-08-17": 286751,
-  "2023-08-18": 287359,
-  "2023-08-19": 288018,
-  "2023-08-20": 288620,
-  "2023-08-21": 289145,
-  "2023-08-22": 289651,
-  "2023-08-23": 290189,
-  "2023-08-24": 290730,
-  "2023-08-25": 291232,
-  "2023-08-26": 291745,
-  "2023-08-27": 292287,
-  "2023-08-28": 292821,
-  "2023-08-29": 293402,
-  "2023-08-30": 293886,
-  "2023-08-31": 294371,
-  "2023-09-01": 295082,
-  "2023-09-02": 295082,
-  "2023-09-03": 295356,
-  "2023-09-04": 295717,
-  "2023-09-05": 296020,
-  "2023-09-06": 296307,
-  "2023-09-07": 296634,
-  "2023-09-08": 296967,
-  "2023-09-09": 297448,
-  "2023-09-10": 297863,
-  "2023-09-11": 298247,
-  "2023-09-12": 298562,
-  "2023-09-13": 299022,
-  "2023-09-14": 299385,
-  "2023-09-15": 299718,
-  "2023-09-16": 300090,
-  "2023-09-17": 300440,
-  "2023-09-18": 300758,
-  "2023-09-19": 301048,
-  "2023-09-20": 301326,
-  "2023-09-21": 301703,
-  "2023-09-22": 302036,
-  "2023-09-23": 302370,
-  "2023-09-24": 302702,
-  "2023-09-25": 303081,
-  "2023-09-26": 303458,
-  "2023-09-27": 303691,
-  "2023-09-28": 304014,
-  "2023-09-29": 304324,
-  "2023-09-30": 304716,
-  "2023-10-01": 305081,
-  "2023-10-02": 305412,
-  "2023-10-03": 305685,
-  "2023-10-04": 306035,
-  "2023-10-05": 306361,
-  "2023-10-06": 306688,
-  "2023-10-07": 307015,
-  "2023-10-08": 307326,
-  "2023-10-09": 307651,
-  "2023-10-10": 307977,
-  "2023-10-11": 308566,
-  "2023-10-12": 308566,
-  "2023-10-13": 308867,
-  "2023-10-14": 308867,
-  "2023-10-15": 309478,
-  "2023-10-16": 310006,
-  "2023-10-17": 310359,
-  "2023-10-18": 310698,
-  "2023-10-19": 311046,
-  "2023-10-20": 311387,
-  "2023-10-21": 311660,
-  "2023-10-22": 311974,
-  "2023-10-23": 312278,
-  "2023-10-24": 312535,
-  "2023-10-25": 312742,
-  "2023-10-26": 312970,
-  "2023-10-27": 313218,
-  "2023-10-28": 313218,
-  "2023-10-29": 313218,
-  "2023-10-30": 313972,
-  "2023-10-31": 313972,
-  "2023-11-01": 314431,
-  "2023-11-02": 314661,
-  "2023-11-03": 314894,
-  "2023-11-04": 314894,
-  "2023-11-05": 314894,
-  "2023-11-06": 315843,
-  "2023-11-07": 316104,
-  "2023-11-08": 316358,
-  "2023-11-09": 316358,
-  "2023-11-10": 316997,
-  "2023-11-11": 317379,
-  "2023-11-12": 317682,
-  "2023-11-13": 317991,
-  "2023-11-14": 318281,
-  "2023-11-15": 318281,
-  "2023-11-16": 318791,
-  "2023-11-17": 319330,
-  "2023-11-18": 319330,
-  "2023-11-19": 319639,
-  "2023-11-20": 319903,
-  "2023-11-21": 320149,
-  "2023-11-22": 320397,
-  "2023-11-23": 320740,
-  "2023-11-24": 320740,
-  "2023-11-25": 321352,
-  "2023-11-26": 321352,
-  "2023-11-27": 321980,
-  "2023-11-28": 322236,
-  "2023-11-29": 322826,
-  "2023-11-30": 322826,
-  "2023-12-01": 322826,
-  "2023-12-02": 323482,
-  "2023-12-03": 323902,
-  "2023-12-04": 323902,
-  "2023-12-05": 324478,
-  "2023-12-06": 324765,
-  "2023-12-07": 325019,
-  "2023-12-08": 325019,
-  "2023-12-09": 325580,
-  "2023-12-10": 325580,
-  "2023-12-11": 326280,
-  "2023-12-12": 326280,
-  "2023-12-13": 327458,
-  "2023-12-14": 328363,
-  "2023-12-15": 328882,
-  "2023-12-16": 329539,
-  "2023-12-17": 330128,
-  "2023-12-18": 330619,
-  "2023-12-19": 331051,
-  "2023-12-20": 331462,
-  "2023-12-21": 331874,
-  "2023-12-22": 332274,
-  "2023-12-23": 332656,
-  "2023-12-24": 333009,
-  "2023-12-25": 333350,
-  "2023-12-26": 333683,
-  "2023-12-27": 333984,
-  "2023-12-30": 335035,
-  "2023-12-31": 335379,
-  "2024-01-01": 335732,
-  "2024-01-02": 336114,
-  "2024-01-03": 336466
+  "2024-01-17": 341177,
+  "date_first_scraped": "2023-02-08",
+  "description": "Enjoy the concert LIVE SET including the voices of BTS members on stage! (BTS \uba64\ubc84\ub4e4\uc758 \ubb34\ub300\uc758 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "BTS: Yet to Come in Busan",
+  "tracks": [
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250295,
+      "name": "00:00 (Zero O\u2019Clock)",
+      "url": "https://open.spotify.com/track/6fqaMyg066xlukvUJWdM2T"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "Boy With Luv (feat. Halsey)",
+      "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
+    },
+    {
+      "album": {
+        "name": "Dark & Wild",
+        "url": "https://open.spotify.com/album/35voVqYGkotyJ945O9egDY"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Supreme Boi",
+          "url": "https://open.spotify.com/artist/6sBiS0iWcCyMMgiYrEOxbt"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267782,
+      "name": "BTS Cypher Pt.3: Killer",
+      "url": "https://open.spotify.com/track/5OlieB5VdsOMuBuCtllXGW"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15949,
+      "name": "BTS Greeting",
+      "url": "https://open.spotify.com/track/7d1wqOnoxfHIFcjhMN2sIN"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203351,
+      "name": "Burning Up (Fire)",
+      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
+    },
+    {
+      "album": {
+        "name": "Butter (Hotter, Sweeter, Cooler)",
+        "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164441,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295127,
+      "name": "Butterfly - Prologue Mix",
+      "url": "https://open.spotify.com/track/0XwvxY5yMRI7vh55eBRe3B"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 12645,
+      "name": "Comment - Boys With Luv",
+      "url": "https://open.spotify.com/track/1hmpgx5cup3kFnfetvh2OI"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13947,
+      "name": "Comment - Butter",
+      "url": "https://open.spotify.com/track/3TOqRSqY2ACaeMZinLX69h"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27750,
+      "name": "Comment - FIRE",
+      "url": "https://open.spotify.com/track/1aUsGMi5TFziMrw9fANxsO"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29229,
+      "name": "Comment - Ma City",
+      "url": "https://open.spotify.com/track/76PlsR9uQ2LNHwgIyvkI6y"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100033,
+      "name": "Comment - Spring Day",
+      "url": "https://open.spotify.com/track/2xNl3n0oxcdIZhQ3XDjPvE"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life Pt.1",
+        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240020,
+      "name": "Dope",
+      "url": "https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq"
+    },
+    {
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/72IwoG8tqvIWV10IHjpNNA"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38371,
+      "name": "Encore + HBD Jimin",
+      "url": "https://open.spotify.com/track/6h0piH6ASg9T7rZwFBpZPH"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41374,
+      "name": "Ending Comment",
+      "url": "https://open.spotify.com/track/24ljup7NmAzzzWyZMLR4IJ"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171803,
+      "name": "Epilogue: Young Forever",
+      "url": "https://open.spotify.com/track/6BskTMfDjXVzeqQHOau5Vi"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45366,
+      "name": "Finale Comment",
+      "url": "https://open.spotify.com/track/4UWbsrCitWKVn1idlAg04z"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264480,
+      "name": "For Youth",
+      "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
+    },
+    {
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222732,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153553,
+      "name": "Individual Member Greeting",
+      "url": "https://open.spotify.com/track/1OJGuz05wOmdRYp1Li7nWK"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14414,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3lBx157kzG5MDI8PwpQH9v"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life Pt.2",
+        "url": "https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256686,
+      "name": "Ma City",
+      "url": "https://open.spotify.com/track/2wm3oZ5IzWz5tVyo3gFIJq"
+    },
+    {
+      "album": {
+        "name": "Love Yourself \u627f 'Her'",
+        "url": "https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238193,
+      "name": "MIC Drop",
+      "url": "https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE"
+    },
+    {
+      "album": {
+        "name": "Busan audio liner",
+        "url": "https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180580,
+      "name": "Opening Comment",
+      "url": "https://open.spotify.com/track/6oGus6uX0AD2Vj6sZPDZoz"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236334,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/0RElgFnZjIZ0hLlO4WY14R"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204939,
+      "name": "Run BTS",
+      "url": "https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196505,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS"
+    },
+    {
+      "album": {
+        "name": "You Never Walk Alone",
+        "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274097,
+      "name": "Spring Day",
+      "url": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225012,
+      "name": "UGH!",
+      "url": "https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaR2kf8OYllT"
 }

@@ -1,735 +1,5343 @@
 {
-  "2021-12-25": 5560,
-  "2021-12-26": 5560,
-  "2021-12-27": 5560,
-  "2021-12-28": 5560,
-  "2021-12-29": 5560,
-  "2021-12-30": 5560,
-  "2021-12-31": 5560,
-  "2022-01-01": 5559,
-  "2022-01-02": 5559,
-  "2022-01-03": 5559,
-  "2022-01-04": 5556,
-  "2022-01-05": 5555,
-  "2022-01-06": 5555,
-  "2022-01-07": 5555,
-  "2022-01-08": 5554,
-  "2022-01-09": 5554,
-  "2022-01-10": 5552,
-  "2022-01-11": 5553,
-  "2022-01-12": 5553,
-  "2022-01-13": 5551,
-  "2022-01-14": 5551,
-  "2022-01-15": 5551,
-  "2022-01-16": 5551,
-  "2022-01-17": 5549,
-  "2022-01-18": 5549,
-  "2022-01-19": 5549,
-  "2022-01-20": 5548,
-  "2022-01-21": 5544,
-  "2022-01-22": 5543,
-  "2022-01-23": 5543,
-  "2022-01-24": 5541,
-  "2022-01-25": 5540,
-  "2022-01-26": 5541,
-  "2022-01-27": 5540,
-  "2022-01-28": 5539,
-  "2022-01-29": 5539,
-  "2022-01-30": 5539,
-  "2022-01-31": 5537,
-  "2022-02-01": 5537,
-  "2022-02-02": 5537,
-  "2022-02-03": 5536,
-  "2022-02-04": 5536,
-  "2022-02-05": 5536,
-  "2022-02-06": 5536,
-  "2022-02-07": 5536,
-  "2022-02-08": 5537,
-  "2022-02-09": 5537,
-  "2022-02-10": 5535,
-  "2022-02-11": 5535,
-  "2022-02-12": 5535,
-  "2022-02-13": 5535,
-  "2022-02-14": 5535,
-  "2022-02-15": 5534,
-  "2022-02-16": 5534,
-  "2022-02-17": 5531,
-  "2022-02-18": 5529,
-  "2022-02-19": 5527,
-  "2022-02-20": 5527,
-  "2022-02-21": 5527,
-  "2022-02-22": 5526,
-  "2022-02-23": 5526,
-  "2022-02-24": 5523,
-  "2022-02-25": 5523,
-  "2022-02-26": 5523,
-  "2022-02-27": 5523,
-  "2022-02-28": 5523,
-  "2022-03-01": 5523,
-  "2022-03-02": 5523,
-  "2022-03-03": 5522,
-  "2022-03-04": 5522,
-  "2022-03-05": 5522,
-  "2022-03-06": 5522,
-  "2022-03-07": 5522,
-  "2022-03-08": 5523,
-  "2022-03-09": 5523,
-  "2022-03-10": 5523,
-  "2022-03-11": 5523,
-  "2022-03-12": 5523,
-  "2022-03-13": 5523,
-  "2022-03-14": 5523,
-  "2022-03-15": 5521,
-  "2022-03-16": 5521,
-  "2022-03-17": 5521,
-  "2022-03-18": 5521,
-  "2022-03-19": 5521,
-  "2022-03-20": 5521,
-  "2022-03-21": 5520,
-  "2022-03-22": 5520,
-  "2022-03-23": 5519,
-  "2022-03-24": 5519,
-  "2022-03-25": 5519,
-  "2022-03-26": 5519,
-  "2022-03-27": 5519,
-  "2022-03-28": 5519,
-  "2022-03-30": 5519,
-  "2022-03-31": 5518,
-  "2022-04-01": 5518,
-  "2022-04-02": 5518,
-  "2022-04-03": 5518,
-  "2022-04-04": 5518,
-  "2022-04-05": 5518,
-  "2022-04-06": 5518,
-  "2022-04-07": 5518,
-  "2022-04-08": 5518,
-  "2022-04-09": 5518,
-  "2022-04-10": 5518,
-  "2022-04-11": 5518,
-  "2022-04-12": 5518,
-  "2022-04-13": 5518,
-  "2022-04-14": 5518,
-  "2022-04-15": 5518,
-  "2022-04-16": 5518,
-  "2022-04-17": 5518,
-  "2022-04-18": 5518,
-  "2022-04-19": 5518,
-  "2022-04-20": 5518,
-  "2022-04-21": 5518,
-  "2022-04-22": 5518,
-  "2022-04-23": 5518,
-  "2022-04-24": 5518,
-  "2022-04-25": 5518,
-  "2022-04-26": 5518,
-  "2022-04-27": 5518,
-  "2022-04-28": 5518,
-  "2022-04-29": 5518,
-  "2022-04-30": 5518,
-  "2022-05-01": 5518,
-  "2022-05-02": 5518,
-  "2022-05-03": 5518,
-  "2022-05-04": 5518,
-  "2022-05-05": 5518,
-  "2022-05-06": 5518,
-  "2022-05-07": 5518,
-  "2022-05-08": 5518,
-  "2022-05-09": 5518,
-  "2022-05-10": 5518,
-  "2022-05-11": 5518,
-  "2022-05-12": 5518,
-  "2022-05-13": 5518,
-  "2022-05-14": 5518,
-  "2022-05-15": 5518,
-  "2022-05-16": 5518,
-  "2022-05-17": 5518,
-  "2022-05-18": 5518,
-  "2022-05-19": 5518,
-  "2022-05-20": 5518,
-  "2022-05-21": 5518,
-  "2022-05-22": 5518,
-  "2022-05-23": 5518,
-  "2022-05-24": 5518,
-  "2022-05-25": 5518,
-  "2022-05-26": 5518,
-  "2022-05-27": 5518,
-  "2022-05-28": 5518,
-  "2022-05-29": 5518,
-  "2022-05-30": 5518,
-  "2022-05-31": 5518,
-  "2022-06-01": 5518,
-  "2022-06-02": 5518,
-  "2022-06-03": 5518,
-  "2022-06-04": 5518,
-  "2022-06-05": 5518,
-  "2022-06-06": 5518,
-  "2022-06-07": 5518,
-  "2022-06-08": 5518,
-  "2022-06-09": 5518,
-  "2022-06-10": 5518,
-  "2022-06-11": 5518,
-  "2022-06-12": 5518,
-  "2022-06-13": 5518,
-  "2022-06-14": 5518,
-  "2022-06-15": 5518,
-  "2022-06-16": 5518,
-  "2022-06-17": 5518,
-  "2022-06-18": 5518,
-  "2022-06-19": 5518,
-  "2022-06-20": 5518,
-  "2022-06-21": 5518,
-  "2022-06-22": 5518,
-  "2022-06-23": 5518,
-  "2022-06-24": 5518,
-  "2022-06-25": 5518,
-  "2022-06-26": 5518,
-  "2022-06-27": 5518,
-  "2022-06-28": 5518,
-  "2022-06-29": 5518,
-  "2022-06-30": 5518,
-  "2022-07-01": 5518,
-  "2022-07-02": 5518,
-  "2022-07-03": 5518,
-  "2022-07-04": 5518,
-  "2022-07-05": 5518,
-  "2022-07-06": 5518,
-  "2022-07-07": 5518,
-  "2022-07-08": 5518,
-  "2022-07-09": 5518,
-  "2022-07-10": 5518,
-  "2022-07-11": 5518,
-  "2022-07-12": 5518,
-  "2022-07-13": 5518,
-  "2022-07-14": 5518,
-  "2022-07-15": 5518,
-  "2022-07-16": 5518,
-  "2022-07-17": 5518,
-  "2022-07-18": 5518,
-  "2022-07-19": 5518,
-  "2022-07-20": 5518,
-  "2022-07-21": 5518,
-  "2022-07-22": 5518,
-  "2022-07-23": 5518,
-  "2022-07-24": 5518,
-  "2022-07-25": 5518,
-  "2022-07-26": 5518,
-  "2022-07-27": 5518,
-  "2022-07-28": 5518,
-  "2022-07-29": 5518,
-  "2022-07-30": 5518,
-  "2022-07-31": 5518,
-  "2022-08-01": 5518,
-  "2022-08-02": 5518,
-  "2022-08-03": 5518,
-  "2022-08-04": 5518,
-  "2022-08-05": 5518,
-  "2022-08-06": 5518,
-  "2022-08-07": 5518,
-  "2022-08-08": 5518,
-  "2022-08-09": 5518,
-  "2022-08-10": 5518,
-  "2022-08-11": 5518,
-  "2022-08-12": 5518,
-  "2022-08-13": 5518,
-  "2022-08-14": 5518,
-  "2022-08-15": 5518,
-  "2022-08-16": 5518,
-  "2022-08-17": 5518,
-  "2022-08-18": 5518,
-  "2022-08-19": 5518,
-  "2022-08-20": 5518,
-  "2022-08-21": 5518,
-  "2022-08-22": 5518,
-  "2022-08-23": 5518,
-  "2022-08-24": 5518,
-  "2022-08-25": 5518,
-  "2022-08-26": 5518,
-  "2022-08-27": 5518,
-  "2022-08-28": 5518,
-  "2022-08-29": 5518,
-  "2022-08-30": 5518,
-  "2022-08-31": 5518,
-  "2022-09-01": 5518,
-  "2022-09-02": 5518,
-  "2022-09-03": 5518,
-  "2022-09-04": 5518,
-  "2022-09-05": 5518,
-  "2022-09-06": 5518,
-  "2022-09-07": 5518,
-  "2022-09-09": 5518,
-  "2022-09-10": 5518,
-  "2022-09-11": 5518,
-  "2022-09-12": 5518,
-  "2022-09-13": 5518,
-  "2022-09-15": 5518,
-  "2022-09-16": 5518,
-  "2022-09-17": 5518,
-  "2022-09-18": 5518,
-  "2022-09-19": 5518,
-  "2022-09-20": 5518,
-  "2022-09-21": 5518,
-  "2022-09-22": 5518,
-  "2022-09-23": 5518,
-  "2022-09-24": 5518,
-  "2022-09-25": 5518,
-  "2022-09-26": 5518,
-  "2022-09-27": 5518,
-  "2022-09-28": 5518,
-  "2022-09-29": 5518,
-  "2022-09-30": 5518,
-  "2022-10-01": 5518,
-  "2022-10-02": 5518,
-  "2022-10-03": 5518,
-  "2022-10-04": 5518,
-  "2022-10-05": 5518,
-  "2022-10-06": 5518,
-  "2022-10-07": 5518,
-  "2022-10-08": 5518,
-  "2022-10-09": 5518,
-  "2022-10-10": 5518,
-  "2022-10-11": 5518,
-  "2022-10-12": 5518,
-  "2022-10-13": 5518,
-  "2022-10-14": 5518,
-  "2022-10-15": 5518,
-  "2022-10-16": 5518,
-  "2022-10-17": 5518,
-  "2022-10-18": 5518,
-  "2022-10-19": 5518,
-  "2022-10-20": 5518,
-  "2022-10-21": 5518,
-  "2022-10-22": 5518,
-  "2022-10-23": 5518,
-  "2022-10-24": 5518,
-  "2022-10-25": 5518,
-  "2022-10-26": 5518,
-  "2022-10-27": 5518,
-  "2022-10-28": 5518,
-  "2022-10-29": 5518,
-  "2022-10-30": 5518,
-  "2022-10-31": 5518,
-  "2022-11-01": 5518,
-  "2022-11-02": 5518,
-  "2022-11-03": 5518,
-  "2022-11-04": 5518,
-  "2022-11-05": 5518,
-  "2022-11-06": 5518,
-  "2022-11-07": 5518,
-  "2022-11-08": 5518,
-  "2022-11-09": 5518,
-  "2022-11-10": 5518,
-  "2022-11-11": 5518,
-  "2022-11-12": 5518,
-  "2022-11-13": 5518,
-  "2022-11-14": 5518,
-  "2022-11-15": 5518,
-  "2022-11-16": 5518,
-  "2022-11-17": 5518,
-  "2022-11-18": 5518,
-  "2022-11-19": 5518,
-  "2022-11-20": 5518,
-  "2022-11-21": 5518,
-  "2022-11-22": 5518,
-  "2022-11-23": 5518,
-  "2022-11-24": 5518,
-  "2022-11-25": 5518,
-  "2022-11-26": 5518,
-  "2022-11-27": 5518,
-  "2022-11-28": 5518,
-  "2022-11-29": 5518,
-  "2022-11-30": 5518,
-  "2022-12-01": 5518,
-  "2022-12-02": 5518,
-  "2022-12-03": 5518,
-  "2022-12-04": 5518,
-  "2022-12-05": 5518,
-  "2022-12-06": 5518,
-  "2022-12-07": 5518,
-  "2022-12-08": 5518,
-  "2022-12-09": 5518,
-  "2022-12-10": 5518,
-  "2022-12-11": 5518,
-  "2022-12-12": 5518,
-  "2022-12-13": 5518,
-  "2022-12-14": 5518,
-  "2022-12-15": 5518,
-  "2022-12-16": 5518,
-  "2022-12-17": 5518,
-  "2022-12-18": 5518,
-  "2022-12-19": 5518,
-  "2022-12-20": 5518,
-  "2022-12-21": 5518,
-  "2022-12-22": 5518,
-  "2022-12-24": 5518,
-  "2022-12-25": 5518,
-  "2022-12-26": 5518,
-  "2022-12-27": 5518,
-  "2022-12-28": 5518,
-  "2022-12-29": 5518,
-  "2022-12-30": 5518,
-  "2022-12-31": 5518,
-  "2023-01-01": 5518,
-  "2023-01-02": 5518,
-  "2023-01-03": 5518,
-  "2023-01-04": 5518,
-  "2023-01-05": 5518,
-  "2023-01-06": 5518,
-  "2023-01-07": 5518,
-  "2023-01-08": 5518,
-  "2023-01-09": 5518,
-  "2023-01-10": 5518,
-  "2023-01-11": 5518,
-  "2023-01-12": 5518,
-  "2023-01-13": 5518,
-  "2023-01-14": 5518,
-  "2023-01-15": 5518,
-  "2023-01-16": 5518,
-  "2023-01-17": 5518,
-  "2023-01-18": 5518,
-  "2023-01-19": 5518,
-  "2023-01-20": 5518,
-  "2023-01-21": 5518,
-  "2023-01-22": 5518,
-  "2023-01-23": 5518,
-  "2023-01-24": 5518,
-  "2023-01-25": 5518,
-  "2023-01-26": 5518,
-  "2023-01-27": 5518,
-  "2023-01-28": 5518,
-  "2023-01-29": 5518,
-  "2023-01-30": 5518,
-  "2023-01-31": 5518,
-  "2023-02-01": 5518,
-  "2023-02-02": 5518,
-  "2023-02-03": 5518,
-  "2023-02-04": 5518,
-  "2023-02-05": 5518,
-  "2023-02-06": 5518,
-  "2023-02-07": 5518,
-  "2023-02-08": 5518,
-  "2023-02-09": 5518,
-  "2023-02-10": 5518,
-  "2023-02-11": 5518,
-  "2023-02-12": 5518,
-  "2023-02-13": 5518,
-  "2023-02-14": 5518,
-  "2023-02-15": 5518,
-  "2023-02-16": 5518,
-  "2023-02-17": 5518,
-  "2023-02-18": 5518,
-  "2023-02-19": 5518,
-  "2023-02-20": 5518,
-  "2023-02-21": 5518,
-  "2023-02-22": 5518,
-  "2023-02-23": 5518,
-  "2023-02-24": 5518,
-  "2023-02-25": 5518,
-  "2023-02-26": 5518,
-  "2023-02-27": 5518,
-  "2023-02-28": 5518,
-  "2023-03-01": 5518,
-  "2023-03-02": 5518,
-  "2023-03-03": 5518,
-  "2023-03-04": 5518,
-  "2023-03-05": 5518,
-  "2023-03-06": 5518,
-  "2023-03-07": 5518,
-  "2023-03-08": 5518,
-  "2023-03-09": 5518,
-  "2023-03-10": 5518,
-  "2023-03-11": 5518,
-  "2023-03-12": 5518,
-  "2023-03-13": 5518,
-  "2023-03-14": 5518,
-  "2023-03-15": 5518,
-  "2023-03-16": 5518,
-  "2023-03-17": 5518,
-  "2023-03-18": 5518,
-  "2023-03-19": 5518,
-  "2023-03-20": 5518,
-  "2023-03-21": 5518,
-  "2023-03-22": 5518,
-  "2023-03-23": 5518,
-  "2023-03-24": 5518,
-  "2023-03-25": 5518,
-  "2023-03-26": 5518,
-  "2023-03-27": 5518,
-  "2023-03-28": 5518,
-  "2023-03-29": 5518,
-  "2023-03-30": 5518,
-  "2023-03-31": 5518,
-  "2023-04-01": 5518,
-  "2023-04-02": 5518,
-  "2023-04-03": 5518,
-  "2023-04-04": 5518,
-  "2023-04-05": 5518,
-  "2023-04-06": 5518,
-  "2023-04-07": 5518,
-  "2023-04-09": 5518,
-  "2023-04-10": 5518,
-  "2023-04-11": 5518,
-  "2023-04-12": 5518,
-  "2023-04-13": 5518,
-  "2023-04-14": 5518,
-  "2023-04-15": 5518,
-  "2023-04-16": 5518,
-  "2023-04-17": 5518,
-  "2023-04-18": 5518,
-  "2023-04-19": 5518,
-  "2023-04-20": 5518,
-  "2023-04-21": 5518,
-  "2023-04-22": 5518,
-  "2023-04-23": 5518,
-  "2023-04-24": 5518,
-  "2023-04-25": 5518,
-  "2023-04-26": 5518,
-  "2023-04-27": 5518,
-  "2023-04-28": 5518,
-  "2023-04-29": 5518,
-  "2023-04-30": 5518,
-  "2023-05-01": 5518,
-  "2023-05-02": 5518,
-  "2023-05-03": 5518,
-  "2023-05-04": 5518,
-  "2023-05-05": 5518,
-  "2023-05-06": 5518,
-  "2023-05-07": 5518,
-  "2023-05-08": 5518,
-  "2023-05-09": 5518,
-  "2023-05-10": 5518,
-  "2023-05-11": 5518,
-  "2023-05-12": 5518,
-  "2023-05-13": 5518,
-  "2023-05-14": 5518,
-  "2023-05-15": 5518,
-  "2023-05-16": 5518,
-  "2023-05-17": 5518,
-  "2023-05-18": 5518,
-  "2023-05-19": 5518,
-  "2023-05-20": 5518,
-  "2023-05-21": 5518,
-  "2023-05-22": 5518,
-  "2023-05-23": 5518,
-  "2023-05-24": 5518,
-  "2023-05-25": 5518,
-  "2023-05-26": 5518,
-  "2023-05-27": 5518,
-  "2023-05-28": 5518,
-  "2023-05-29": 5518,
-  "2023-05-30": 5518,
-  "2023-05-31": 5518,
-  "2023-06-01": 5518,
-  "2023-06-02": 5518,
-  "2023-06-03": 5518,
-  "2023-06-04": 5518,
-  "2023-06-05": 5518,
-  "2023-06-06": 5518,
-  "2023-06-07": 5518,
-  "2023-06-08": 5518,
-  "2023-06-09": 5518,
-  "2023-06-10": 5518,
-  "2023-06-11": 5518,
-  "2023-06-12": 5518,
-  "2023-06-13": 5518,
-  "2023-06-14": 5518,
-  "2023-06-15": 5518,
-  "2023-06-16": 5518,
-  "2023-06-17": 5518,
-  "2023-06-18": 5518,
-  "2023-06-19": 5518,
-  "2023-06-20": 5518,
-  "2023-06-21": 5518,
-  "2023-06-22": 5518,
-  "2023-06-23": 5518,
-  "2023-06-24": 5518,
-  "2023-06-25": 5518,
-  "2023-06-26": 5518,
-  "2023-06-27": 5518,
-  "2023-06-28": 5518,
-  "2023-06-29": 5518,
-  "2023-06-30": 5518,
-  "2023-07-01": 5518,
-  "2023-07-02": 5518,
-  "2023-07-03": 5518,
-  "2023-07-04": 5518,
-  "2023-07-05": 5518,
-  "2023-07-06": 5518,
-  "2023-07-07": 5518,
-  "2023-07-08": 5518,
-  "2023-07-09": 5518,
-  "2023-07-10": 5518,
-  "2023-07-11": 5518,
-  "2023-07-12": 5518,
-  "2023-07-13": 5518,
-  "2023-07-14": 5518,
-  "2023-07-15": 5518,
-  "2023-07-16": 5518,
-  "2023-07-17": 5518,
-  "2023-07-18": 5518,
-  "2023-07-19": 5518,
-  "2023-07-20": 5518,
-  "2023-07-21": 5518,
-  "2023-07-22": 5518,
-  "2023-07-23": 5518,
-  "2023-07-24": 5518,
-  "2023-07-25": 5518,
-  "2023-07-26": 5518,
-  "2023-07-27": 5518,
-  "2023-07-28": 5518,
-  "2023-07-29": 5518,
-  "2023-07-30": 5518,
-  "2023-07-31": 5518,
-  "2023-08-01": 5518,
-  "2023-08-02": 5518,
-  "2023-08-03": 5518,
-  "2023-08-04": 5518,
-  "2023-08-05": 5518,
-  "2023-08-06": 5518,
-  "2023-08-07": 5518,
-  "2023-08-08": 5518,
-  "2023-08-09": 5518,
-  "2023-08-10": 5518,
-  "2023-08-11": 5518,
-  "2023-08-12": 5518,
-  "2023-08-13": 5518,
-  "2023-08-14": 5518,
-  "2023-08-15": 5518,
-  "2023-08-16": 5518,
-  "2023-08-17": 5518,
-  "2023-08-18": 5518,
-  "2023-08-19": 5518,
-  "2023-08-20": 5518,
-  "2023-08-21": 5518,
-  "2023-08-22": 5518,
-  "2023-08-23": 5518,
-  "2023-08-24": 5518,
-  "2023-08-25": 5518,
-  "2023-08-26": 5518,
-  "2023-08-27": 5518,
-  "2023-08-28": 5518,
-  "2023-08-29": 5518,
-  "2023-08-30": 5518,
-  "2023-08-31": 5518,
-  "2023-09-01": 5518,
-  "2023-09-02": 5518,
-  "2023-09-03": 5518,
-  "2023-09-04": 5518,
-  "2023-09-05": 5518,
-  "2023-09-06": 5518,
-  "2023-09-07": 5518,
-  "2023-09-08": 5518,
-  "2023-09-09": 5518,
-  "2023-09-10": 5518,
-  "2023-09-11": 5518,
-  "2023-09-12": 5518,
-  "2023-09-13": 5518,
-  "2023-09-14": 5518,
-  "2023-09-15": 5518,
-  "2023-09-16": 5518,
-  "2023-09-17": 5518,
-  "2023-09-18": 5518,
-  "2023-09-19": 5518,
-  "2023-09-20": 5518,
-  "2023-09-21": 5518,
-  "2023-09-22": 5518,
-  "2023-09-23": 5518,
-  "2023-09-24": 5518,
-  "2023-09-25": 5518,
-  "2023-09-26": 5518,
-  "2023-09-27": 5518,
-  "2023-09-28": 5518,
-  "2023-09-29": 5518,
-  "2023-09-30": 5518,
-  "2023-10-01": 5518,
-  "2023-10-02": 5518,
-  "2023-10-03": 5518,
-  "2023-10-04": 5518,
-  "2023-10-05": 5518,
-  "2023-10-06": 5518,
-  "2023-10-07": 5518,
-  "2023-10-08": 5518,
-  "2023-10-09": 5518,
-  "2023-10-10": 5518,
-  "2023-10-11": 5518,
-  "2023-10-12": 5518,
-  "2023-10-13": 5518,
-  "2023-10-14": 5518,
-  "2023-10-15": 5518,
-  "2023-10-16": 5518,
-  "2023-10-17": 5518,
-  "2023-10-18": 5518,
-  "2023-10-19": 5518,
-  "2023-10-20": 5518,
-  "2023-10-21": 5518,
-  "2023-10-22": 5518,
-  "2023-10-23": 5518,
-  "2023-10-24": 5518,
-  "2023-10-25": 5518,
-  "2023-10-26": 5518,
-  "2023-10-27": 5518,
-  "2023-10-28": 5518,
-  "2023-10-29": 5518,
-  "2023-10-30": 5518,
-  "2023-10-31": 5518,
-  "2023-11-01": 5518,
-  "2023-11-02": 5518,
-  "2023-11-03": 5518,
-  "2023-11-04": 5518,
-  "2023-11-05": 5518,
-  "2023-11-06": 5518,
-  "2023-11-07": 5518,
-  "2023-11-08": 5518,
-  "2023-11-09": 5518,
-  "2023-11-10": 5518,
-  "2023-11-11": 5518,
-  "2023-11-12": 5518,
-  "2023-11-13": 5518,
-  "2023-11-14": 5518,
-  "2023-11-15": 5518,
-  "2023-11-16": 5518,
-  "2023-11-17": 5518,
-  "2023-11-18": 5518,
-  "2023-11-19": 5518,
-  "2023-11-20": 5518,
-  "2023-11-21": 5518,
-  "2023-11-22": 5518,
-  "2023-11-23": 5518,
-  "2023-11-24": 5518,
-  "2023-11-25": 5518,
-  "2023-11-26": 5518,
-  "2023-11-27": 5518,
-  "2023-11-28": 5518,
-  "2023-11-29": 5518,
-  "2023-11-30": 5518,
-  "2023-12-01": 5518,
-  "2023-12-02": 5518,
-  "2023-12-03": 5518,
-  "2023-12-04": 5518,
-  "2023-12-05": 5518,
-  "2023-12-06": 5518,
-  "2023-12-07": 5518,
-  "2023-12-08": 5518,
-  "2023-12-09": 5518,
-  "2023-12-10": 5518,
-  "2023-12-11": 5518,
-  "2023-12-12": 5518,
-  "2023-12-13": 5518,
-  "2023-12-14": 5518,
-  "2023-12-15": 5518,
-  "2023-12-16": 5518,
-  "2023-12-17": 5518,
-  "2023-12-18": 5518,
-  "2023-12-19": 5518,
-  "2023-12-20": 5518,
-  "2023-12-21": 5518,
-  "2023-12-22": 5518,
-  "2023-12-23": 5518,
-  "2023-12-24": 5518,
-  "2023-12-25": 5518,
-  "2023-12-26": 5518,
-  "2023-12-27": 5518,
-  "2023-12-30": 5518,
-  "2023-12-31": 5518,
-  "2024-01-01": 5518,
-  "2024-01-02": 5518,
-  "2024-01-03": 5518
+  "2024-01-17": 5518,
+  "date_first_scraped": "2021-12-21",
+  "description": "From brooding skepticism and ardent romance to utter whimsy and nonsense, explore the Victorian sensibility, as displayed in some of the era's best poetry.",
+  "name": "The Victorians",
+  "tracks": [
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60426,
+      "name": "'I Awake And Feel...'",
+      "url": "https://open.spotify.com/track/1wK11Q4v9feI0yAbbGR2HH"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "'That Nature Is An Heraclitean Fire...'",
+      "url": "https://open.spotify.com/track/7rZKo3W6TP28IePoqeg4PD"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73013,
+      "name": "'Thee God I Came From...'",
+      "url": "https://open.spotify.com/track/0pMN4dMIdu76ov8eTOqd6O"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65040,
+      "name": "'Thou Art Indeed Just...'",
+      "url": "https://open.spotify.com/track/7xgY1NbyeXtDf71MAbF0nR"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Lillie",
+          "url": "https://open.spotify.com/artist/5Mkm7BgKeJjpN3eJ5b5sLC"
+        },
+        {
+          "name": "Stanley Holloway",
+          "url": "https://open.spotify.com/artist/4vxeI1WNgRCQVQdmLuA42v"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64213,
+      "name": "'Tis The Voice Of The Lobster",
+      "url": "https://open.spotify.com/track/69N5RzXV4nMuf6IFm6I68v"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Death - Volume 1",
+        "url": "https://open.spotify.com/album/2KX7ED8g8rMKo3PIPMalh1"
+      },
+      "artists": [
+        {
+          "name": "Algernon Charles Swinburne",
+          "url": "https://open.spotify.com/artist/6zekf2UiZYZXCPsltZMXB8"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332264,
+      "name": "A Ballad Of Death By Algernon Charles Swinburne",
+      "url": "https://open.spotify.com/track/0FXXLcrqRgdBcNpK1h4FMl"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285141,
+      "name": "A Captive Throstle",
+      "url": "https://open.spotify.com/track/30YB246oFbYSpN5gMw6IjW"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14553,
+      "name": "A Caution to Poets",
+      "url": "https://open.spotify.com/track/0xeUFrfHznOKWyF2FPyh2b"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291115,
+      "name": "A Curse For A Nation By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/6CJ98BJAuZD9zQU5bJybK6"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42271,
+      "name": "A E Houseman - When I Was One and Twenty",
+      "url": "https://open.spotify.com/track/1GIF1tpkrnQkIftVbbkhF9"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77798,
+      "name": "A E Houseman - When Summer's End Is Nighing",
+      "url": "https://open.spotify.com/track/5OSwnSCT3t5CXanJKcZYWW"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49528,
+      "name": "A Farewell to Youth",
+      "url": "https://open.spotify.com/track/7gsxqRAhaK4TbG2ffiLTsc"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330814,
+      "name": "A Lover's Quarrel - Robert Browning",
+      "url": "https://open.spotify.com/track/2dr831jZZsPBiTEHzttdg9"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98139,
+      "name": "A Man's Requirements By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/4Tb8dL7VjQPfPc1wrqJxTm"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130426,
+      "name": "A March Minstrel",
+      "url": "https://open.spotify.com/track/4Onm5bReMxnhdBkrKwINyx"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168975,
+      "name": "A Memory Picture",
+      "url": "https://open.spotify.com/track/04s3gcdgddytpw6XtZdKOJ"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106809,
+      "name": "A Musicial Instrument By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/1VBwChIuFk6RhLkvlhOQJ0"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114335,
+      "name": "A Night in June",
+      "url": "https://open.spotify.com/track/1PgDzrqyBHks2QXIqQaDXq"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63805,
+      "name": "A November Note",
+      "url": "https://open.spotify.com/track/6YrauRJkt6oZl1QGZnmfbk"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130565,
+      "name": "A Rare Guest",
+      "url": "https://open.spotify.com/track/4VJ69aQJF8QbCWdu8CaEz4"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362602,
+      "name": "A Reply to a Pessimist",
+      "url": "https://open.spotify.com/track/0qSfjZHZ7pNn1fzBR4S2eL"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51774,
+      "name": "A Sleepless Night",
+      "url": "https://open.spotify.com/track/2X5UIwEpm5vmOS2NU4PDVq"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54174,
+      "name": "A Thought For A Lonly Death Bed - Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/2ngybYR536AtG33tTBwPfV"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108135,
+      "name": "A Voice from the West",
+      "url": "https://open.spotify.com/track/6zCe1gquQqXMd57KGA194k"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70971,
+      "name": "A Wild Rose",
+      "url": "https://open.spotify.com/track/2yFJ8VUHCX0JQsK0UowSr5"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156676,
+      "name": "A Wish",
+      "url": "https://open.spotify.com/track/3tPILDDuisQY7EJYPU267t"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107611,
+      "name": "A Woman's Shortcomings By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/2JFLfPIQFADLj6hUk8AOuC"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458872,
+      "name": "Abt Vogler - Robert Browning",
+      "url": "https://open.spotify.com/track/1E5RsnQYE5xHPh1iPXHnCP"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113742,
+      "name": "Admiral Death",
+      "url": "https://open.spotify.com/track/0VedYCsiWWiz6hn3kDhCJA"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188795,
+      "name": "Admirals All",
+      "url": "https://open.spotify.com/track/4EpcbEq7ladqtNYvaofhCY"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107369,
+      "name": "Agetha",
+      "url": "https://open.spotify.com/track/3Nc397jjiTPkzq2qJ2WzgB"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27956,
+      "name": "Alfred Lord Tennyson - Beautiful City",
+      "url": "https://open.spotify.com/track/4t4WXhO2C1pDyJafc9dw5e"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46436,
+      "name": "Alfred Lord Tennyson - Break Break Break",
+      "url": "https://open.spotify.com/track/0gkj2uY7P38dEP2aLc85j6"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50596,
+      "name": "Alfred Lord Tennyson - Crossing the Bar",
+      "url": "https://open.spotify.com/track/6o56hd9JuL5mvj8QuiMM3d"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128287,
+      "name": "Alfred Lord Tennyson - Fatima",
+      "url": "https://open.spotify.com/track/6dYA2zSw5CDIfErLviqTyP"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268586,
+      "name": "Alfred Lord Tennyson - Lady Clare",
+      "url": "https://open.spotify.com/track/0Yg21wqStc6mjHFw9rkJ1R"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Sean Barrett",
+          "url": "https://open.spotify.com/artist/4v5PxW9sqGYuWERSYHsH7t"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 936359,
+      "name": "Alfred Lord Tennyson - Morte D'arthur",
+      "url": "https://open.spotify.com/track/5neCW8L4ySSGsP0TeunXrT"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60624,
+      "name": "Alfred Lord Tennyson - Ring out Wild Bells",
+      "url": "https://open.spotify.com/track/6RMLKCashHlS8KtJFCiXU5"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40240,
+      "name": "Alfred Lord Tennyson - Spring",
+      "url": "https://open.spotify.com/track/5j9Ognmht8CehNCzJQDtJm"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49876,
+      "name": "Alfred Lord Tennyson - Summer Night",
+      "url": "https://open.spotify.com/track/2QvrcYA9k7AovvpCZhi1PU"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46973,
+      "name": "Alfred Lord Tennyson - Sweet and Low",
+      "url": "https://open.spotify.com/track/3vsSLV1aGllrxL2MCha4LY"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130554,
+      "name": "Alfred Lord Tennyson - The Charge of the Light Brigade",
+      "url": "https://open.spotify.com/track/5CEmqris1uZ5Yl3TAugOOl"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28965,
+      "name": "Alfred Lord Tennyson - The Death of the Old Year",
+      "url": "https://open.spotify.com/track/0QrRyJOX438BwfcpGSwGsf"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "David Shaw-Parker",
+          "url": "https://open.spotify.com/artist/5ySoL6vYTXQwa3UlRROujv"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30185,
+      "name": "Alfred Lord Tennyson - The Eagle",
+      "url": "https://open.spotify.com/track/780tMgCkKXSCdkv31xMjmp"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60836,
+      "name": "Alfred Lord Tennyson - The Flower",
+      "url": "https://open.spotify.com/track/5RBbaxCZICNndU2SsuZd7t"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58258,
+      "name": "Alfred Lord Tennyson - The Kracken",
+      "url": "https://open.spotify.com/track/1HDqsa2MmVgipNztuOS1T3"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461601,
+      "name": "Alfred Lord Tennyson - The Lady of Shalott",
+      "url": "https://open.spotify.com/track/3iLP5oAFDcAZ8hjZXvj6nj"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153785,
+      "name": "Alfred Lord Tennyson - The Mermaid",
+      "url": "https://open.spotify.com/track/2IMnHKGqvgD1vWEL3l5bHY"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106602,
+      "name": "Alfred Lord Tennyson - The Merman",
+      "url": "https://open.spotify.com/track/7jcgDzti8FK0KbKAw9oBr4"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27004,
+      "name": "Alfred Lord Tennyson - The Oak",
+      "url": "https://open.spotify.com/track/60tegQbEXUSET25XVBnlHn"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47670,
+      "name": "Alfred Lord Tennyson - The Owl",
+      "url": "https://open.spotify.com/track/0O2KHks5xjKsJ1inN22zNP"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81769,
+      "name": "Alfred Lord Tennyson - Two Extracts from the Princess",
+      "url": "https://open.spotify.com/track/4fP1IrEzPARVqaBe7yuUBi"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Lord Tennyson",
+        "url": "https://open.spotify.com/album/283CL5IteSeBMYSLK6pFEE"
+      },
+      "artists": [
+        {
+          "name": "Nigel Davenport",
+          "url": "https://open.spotify.com/artist/3eiE117HiblfKG8ms1BvbX"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296960,
+      "name": "Alfred Lord Tennyson - Ulysses",
+      "url": "https://open.spotify.com/track/6tHuHyfAjJdVCbL8B1n8s7"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Music",
+        "url": "https://open.spotify.com/album/0rltMHvtIfmuXnYi3huvYH"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97268,
+      "name": "Algernon Charles Swinburne - Music - An Ode",
+      "url": "https://open.spotify.com/track/19eUD2G0HbUKCCHssgHPvw"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Flowers",
+        "url": "https://open.spotify.com/album/03HI69yvY4uNTKZSTFPdE8"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226998,
+      "name": "Algernon Charles Swinburne - The Year of the Rose",
+      "url": "https://open.spotify.com/track/5ckcR0XXlyNQAH9hmYedDT"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229192,
+      "name": "Alice Meynell - A Letter from a Girl to Her Own Age",
+      "url": "https://open.spotify.com/track/1DlC26qoZHE8FfsgOJPVAM"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55478,
+      "name": "Alice Meynell - After a Parting",
+      "url": "https://open.spotify.com/track/3XKZYPM9SntSAZomrcofGg"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96653,
+      "name": "Alice Meynell - Christ in the Universe",
+      "url": "https://open.spotify.com/track/0W9Fpyl30KNxBOTAcjGDzt"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56401,
+      "name": "Alice Meynell - In February",
+      "url": "https://open.spotify.com/track/0qDjbdztbEiFChIIiA0OFy"
+    },
+    {
+      "album": {
+        "name": "Mother's Day - Volume 2",
+        "url": "https://open.spotify.com/album/7CM6i1dLpBPkQbnnoiRK53"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26346,
+      "name": "Alice Meynell - Maternity",
+      "url": "https://open.spotify.com/track/0WL6oftM24VVwKDu71jzN5"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76463,
+      "name": "Alice Meynell - Regrets",
+      "url": "https://open.spotify.com/track/3zgOYNitL9aAhLPM7HkZA9"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61045,
+      "name": "Alice Meynell - Renouncement",
+      "url": "https://open.spotify.com/track/361frNb47CGwq6Vhc2b2Xp"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100403,
+      "name": "Alice Meynell - Summer in England 1914",
+      "url": "https://open.spotify.com/track/1YOwn3MmgmBPklUHyE3mvY"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58769,
+      "name": "Alice Meynell - Thoughts in Separation",
+      "url": "https://open.spotify.com/track/4lZGt9Z8yNJNHzzj70oTL5"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139528,
+      "name": "Alice Meynell - To a Poet",
+      "url": "https://open.spotify.com/track/1YGsz2tRbncIYeRMUytfiG"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115391,
+      "name": "Alice Meynell - To the Beloved",
+      "url": "https://open.spotify.com/track/2yxh1R4FUUI3ItIfPNShXu"
+    },
+    {
+      "album": {
+        "name": "Kensal Green - The London Cemetery",
+        "url": "https://open.spotify.com/album/5AKvRlaufHJYWXUMfQNnHG"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60487,
+      "name": "Alice Meynell - Your Own Fair Youth",
+      "url": "https://open.spotify.com/track/437Pk9optFPRQOpyn0eeL8"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49179,
+      "name": "Among the Rocks - Robert Browning",
+      "url": "https://open.spotify.com/track/6X8i4xk0rwMJmeMmmzAYfA"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233273,
+      "name": "An April Fool",
+      "url": "https://open.spotify.com/track/2TqQRKUqFia7qM8ot6x3VS"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48146,
+      "name": "An April Love",
+      "url": "https://open.spotify.com/track/35Mzc0RI2lFYxoTworMvox"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267722,
+      "name": "An Extract from the Haunted House",
+      "url": "https://open.spotify.com/track/0raIeW2QAsPIiCMzwf8Jlr"
+    },
+    {
+      "album": {
+        "name": "Poetry Of Robert Browning",
+        "url": "https://open.spotify.com/album/4IFv8oT0f8M9W3AYb8MyDw"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1048466,
+      "name": "Andrea Del Sarto",
+      "url": "https://open.spotify.com/track/2CUuFtUxAd95SE8GB6wS62"
+    },
+    {
+      "album": {
+        "name": "April - The Poetry Of",
+        "url": "https://open.spotify.com/album/2NoyX00uJRhWesOfjnFRvr"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136579,
+      "name": "April By Algernon Charles Swinburne",
+      "url": "https://open.spotify.com/track/39JeHTWzNhWfXXCMETI8Ov"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83510,
+      "name": "Aubrey Beardsley - The Three Musicians, The First Version",
+      "url": "https://open.spotify.com/track/54MIuio2pk7yLwCMA1dmM7"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55124,
+      "name": "Aubrey Beardsley - The Three Musicians, The Published Version",
+      "url": "https://open.spotify.com/track/6yauYHxyMBVguRFzHXsBUh"
+    },
+    {
+      "album": {
+        "name": "August - The Poetry Of",
+        "url": "https://open.spotify.com/album/18298C79a6sxXrXuu2qc2k"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162949,
+      "name": "August By Algernon Charles Swinburne",
+      "url": "https://open.spotify.com/track/3maz2NdGQ8tey3CoPqnC28"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63164,
+      "name": "Aurora Leigh (Excerpts) - Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/1XEBFB3YjDi79aD0Iy8oOW"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219591,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/5wzuBTLmdvZiZ7mHBSUdSh"
+    },
+    {
+      "album": {
+        "name": "Autumn - A Season In Verse",
+        "url": "https://open.spotify.com/album/2Uhk3QAL9GUk4fKpgOPf4j"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148022,
+      "name": "Autumn In Cornwall By Algernon Charles Swinburne",
+      "url": "https://open.spotify.com/track/3Q1d3TzutuyLFiWpcG9kiA"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52778,
+      "name": "Ballad",
+      "url": "https://open.spotify.com/track/7nGdsWJVfNrLIleLk8ugP7"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73613,
+      "name": "Binsey Poplars",
+      "url": "https://open.spotify.com/track/0An0beUgUJXlliZPhGup73"
+    },
+    {
+      "album": {
+        "name": "Hear Great Poets Read: Tennyson, Browning, Whitman, Yeats, Frost, Sandburg, Stevens, Eliot, Williams, H.D., Jeffers, Ransom",
+        "url": "https://open.spotify.com/album/5kUXAsszpSHNhLYQdOMR1M"
+      },
+      "artists": [
+        {
+          "name": "Robert Browning",
+          "url": "https://open.spotify.com/artist/3mkFDFbMUFl5XU5tEI10FO"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55213,
+      "name": "Browning - How They Brought the Good News from Ghent to Aix I",
+      "url": "https://open.spotify.com/track/6S3zcpzEJ3bq5dMlveczLt"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110109,
+      "name": "By the Fates",
+      "url": "https://open.spotify.com/track/2l91dXYz76c52j9wlu2ucS"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67069,
+      "name": "Change Upon Change By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/06Am1qshbnfWRpYilCbBD3"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Eve Karpf",
+          "url": "https://open.spotify.com/artist/5qBGuyitasg6iGuo3MUpR7"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85217,
+      "name": "Choosing Their Names",
+      "url": "https://open.spotify.com/track/19ojqgPx8NozlFHcs6KWnM"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100913,
+      "name": "Chorus Of Eden Spirits By Elizabeth Barrett Browning SPELL",
+      "url": "https://open.spotify.com/track/5I6zfgQb8dcBY1HabRuMzN"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Stella Gonet",
+          "url": "https://open.spotify.com/artist/7KnyOWWvNbl2kioNk0WdbI"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51269,
+      "name": "Christina Rossetti - A Birthday",
+      "url": "https://open.spotify.com/track/2ODdh4KAM9osln8WFeLnHR"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Eve Karpf",
+          "url": "https://open.spotify.com/artist/5qBGuyitasg6iGuo3MUpR7"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57864,
+      "name": "Christina Rossetti - Remember",
+      "url": "https://open.spotify.com/track/3EgwuWreHNognSpB4McxGX"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47477,
+      "name": "Christina Rossetti - Sonnets Are Full of Love",
+      "url": "https://open.spotify.com/track/2CYEbSYIaM41saztSHGTE2"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Eve Karpf",
+          "url": "https://open.spotify.com/artist/5qBGuyitasg6iGuo3MUpR7"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33622,
+      "name": "Christina Rossetti - The City Mouse and the Country Mouse",
+      "url": "https://open.spotify.com/track/199RapOVtCgGlEio72YUM1"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Nigel Planer",
+          "url": "https://open.spotify.com/artist/1Zeao6Q1W0KKhnDwhZR9GN"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35293,
+      "name": "Christina Rossetti - Who Has Seen the Wind",
+      "url": "https://open.spotify.com/track/5uLiOJ8h0k4KbgvlU64PVT"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53638,
+      "name": "Comfort By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/4DgPAViumlNmGOA3uockYw"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97935,
+      "name": "Confessions - Robert Browning",
+      "url": "https://open.spotify.com/track/0gZXCzJCycmDV4qkPxXWNP"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143117,
+      "name": "Consolation",
+      "url": "https://open.spotify.com/track/6gaGdi9Og3pe8po5iZGZxQ"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50944,
+      "name": "Continued",
+      "url": "https://open.spotify.com/track/2FiF3MAgxbbZ9L2gYCA5NV"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95619,
+      "name": "Coventry Patmore - The Toys",
+      "url": "https://open.spotify.com/track/2ps3hS3VWan9GktftHEVkB"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172670,
+      "name": "Craven",
+      "url": "https://open.spotify.com/track/0kmraIApWiuZkA34KY6Fat"
+    },
+    {
+      "album": {
+        "name": "Fiennes, Ralph: Kipling",
+        "url": "https://open.spotify.com/album/1UMRkrYSzqH3tH3yCauNOW"
+      },
+      "artists": [
+        {
+          "name": "Rudyard Kipling",
+          "url": "https://open.spotify.com/artist/5uNTrZ1JlKsnpTeFyKWPYO"
+        },
+        {
+          "name": "Ralph Fiennes",
+          "url": "https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Danny Deever",
+      "url": "https://open.spotify.com/track/0GOfdhKYjoWQZnVpuptice"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57475,
+      "name": "Dante Gabriel Rossetti - On the Road to Waterloo",
+      "url": "https://open.spotify.com/track/2lvq283hheVcLXRfLQmsE6"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60161,
+      "name": "Dante Gabriel Rossetti - The Kiss",
+      "url": "https://open.spotify.com/track/3wfIF10leesmP9JnMkXUTd"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60046,
+      "name": "Dante Gabriel Rossetti - The Sea Limits",
+      "url": "https://open.spotify.com/track/7fwScZTlWhGTs0OBwf4MYz"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48669,
+      "name": "Death",
+      "url": "https://open.spotify.com/track/67cy2MdjdJ2pmuu5wrJWVN"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159254,
+      "name": "December Matins",
+      "url": "https://open.spotify.com/track/0LERVMnuU0uji9lX6cvozs"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27217,
+      "name": "Despondency",
+      "url": "https://open.spotify.com/track/33keydjWcFJnZPPNT29i9y"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122671,
+      "name": "Dover Beach",
+      "url": "https://open.spotify.com/track/79eYj6mdffiuIZOyNlkG0u"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Drake's Drum",
+      "url": "https://open.spotify.com/track/7nkmSdnexzIxfkiNgk7pCc"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54746,
+      "name": "Early Death and Fame",
+      "url": "https://open.spotify.com/track/1TuQp3KW2YzMrIFgYofziF"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51037,
+      "name": "East London",
+      "url": "https://open.spotify.com/track/6sgVeciYx7tYoZcTgtFCYb"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Stella Gonet",
+          "url": "https://open.spotify.com/artist/7KnyOWWvNbl2kioNk0WdbI"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58514,
+      "name": "Elizabeth Barrett Browning - How Do I Love Thee",
+      "url": "https://open.spotify.com/track/0FjNKxoZeul3bF9jmgM67Q"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74965,
+      "name": "Elizabeth Barrett Browning - To My Father on His Birthday",
+      "url": "https://open.spotify.com/track/2TcUaFW2u7SRVGFeXsUMlV"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483416,
+      "name": "Elizabeth Gaskell - Sketches Among the Poor",
+      "url": "https://open.spotify.com/track/2l0h4YJ45Bnswbqr1lOvaU"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36374,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/1ko1e1H3KdjvJP22uXve2v"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40025,
+      "name": "Ernest Christopher Dowson - If We Must Part",
+      "url": "https://open.spotify.com/track/2D21TzcottEan82jxUw7OA"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/6HOLMcZVYmHXaQ14Am3AdU"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99973,
+      "name": "Etude Realiste - Algernon Charles Swinburne",
+      "url": "https://open.spotify.com/track/6KQnkg3Ad4HSWLOAK7u8kw"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104756,
+      "name": "Fair Ines",
+      "url": "https://open.spotify.com/track/2P7Ccmnvz4Ip9O8ONFJOQr"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Sean Barrett",
+          "url": "https://open.spotify.com/artist/4v5PxW9sqGYuWERSYHsH7t"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147306,
+      "name": "Faithless Sally Brown",
+      "url": "https://open.spotify.com/track/4PgvTe80VCSsH6V7pJlUfH"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54241,
+      "name": "False Poets and True (To Wordsworth)",
+      "url": "https://open.spotify.com/track/5BlcJ5cILH7oXorkPfhk13"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47235,
+      "name": "Farewell, Life! My Senses Swim",
+      "url": "https://open.spotify.com/track/3nN9O0odRpP297LZbzAQqf"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Cyril Richard",
+          "url": "https://open.spotify.com/artist/3vE8JNukeYc5Xlf4wbai2w"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79480,
+      "name": "Father William",
+      "url": "https://open.spotify.com/track/27AGWL8JITVv5isvDnNzwj"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54670,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2n7Q1Nu6lNFFwqTCONb16w"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29180,
+      "name": "For a Trafalgar Cenotaph",
+      "url": "https://open.spotify.com/track/3FIHSiYCpCMkkEn7lOdCjP"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53823,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/5txUDXFuF7XlMva5li1Vwz"
+    },
+    {
+      "album": {
+        "name": "March - The Poetry Of",
+        "url": "https://open.spotify.com/album/56n1uJHb2uNPW1p91bdU9W"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199180,
+      "name": "Four Songs For Four Seasons By Algernon Charles Swinburne",
+      "url": "https://open.spotify.com/track/7ikOLvRw90qP4UiBDKd0XL"
+    },
+    {
+      "album": {
+        "name": "Poetry Of Robert Browning",
+        "url": "https://open.spotify.com/album/4IFv8oT0f8M9W3AYb8MyDw"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1288413,
+      "name": "Fra Lippo Lippi",
+      "url": "https://open.spotify.com/track/03dF22dPlGAco8pAysUIYA"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125550,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0PG6lAkvoM3xVVQEZ7uF4S"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56447,
+      "name": "G K Chesterton - The Convert",
+      "url": "https://open.spotify.com/track/00ZAAVt1kPzpB80hNBcWip"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113174,
+      "name": "G K Chesterton - The Rolling English Road",
+      "url": "https://open.spotify.com/track/5D48MUZ2NyA327jd50EX5k"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386516,
+      "name": "George Eliot - Mother and Poet",
+      "url": "https://open.spotify.com/track/6H3MwOiHGPalIw3K7vybYd"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17577,
+      "name": "George Meredith - Sonnet 29",
+      "url": "https://open.spotify.com/track/6MyC2D5B9T18ZWeTzokaPg"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49388,
+      "name": "George Meredith - Winter Heavens",
+      "url": "https://open.spotify.com/track/4ft5JQhkaIGPsNFcfzffMq"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180426,
+      "name": "Gillespie",
+      "url": "https://open.spotify.com/track/6ZiKcEAWVRxqfou1ey8oZ4"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31733,
+      "name": "Give Me October's Meditative Haze",
+      "url": "https://open.spotify.com/track/62z2Edh1sHrT9LhFZx4fyv"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50851,
+      "name": "Gleaners of Fame",
+      "url": "https://open.spotify.com/track/1B3ne0u52Jg2ObzO9wupSd"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64040,
+      "name": "God's Grandeur",
+      "url": "https://open.spotify.com/track/2nYCb9oNmJztVFvhxICJBq"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100472,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/3VY3XctdI3mzK4ejhqbL81"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100970,
+      "name": "Hawke",
+      "url": "https://open.spotify.com/track/5MuclamGDWHMbihAAHcwXX"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31520,
+      "name": "Heaven-Haven",
+      "url": "https://open.spotify.com/track/6V0CkVzVHR61oG1lWDSsea"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57631,
+      "name": "Home Thoughts from Abroad - Robert Browning",
+      "url": "https://open.spotify.com/track/5mlXCPPSgVGtgtY7eFgG9l"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54369,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/2FaMVv77Gvba2Si3p7klQS"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180082,
+      "name": "How Florence Rings Her Bells",
+      "url": "https://open.spotify.com/track/5GUmIjg1NOrnG13E81vtq6"
+    },
+    {
+      "album": {
+        "name": "Edward Lear - The Poems & Rhymes",
+        "url": "https://open.spotify.com/album/4hW4rPYxfchXUsCeup1pAJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Lear",
+          "url": "https://open.spotify.com/artist/4UFCJlVZH0nZ07VvDY0uin"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79133,
+      "name": "How Pleasant To Know",
+      "url": "https://open.spotify.com/track/18OxXNt55HvQm3Sv5mhzhJ"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97059,
+      "name": "Human Life",
+      "url": "https://open.spotify.com/track/6GmfGnSQXJUd22YdiwUnxt"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Lillie",
+          "url": "https://open.spotify.com/artist/5Mkm7BgKeJjpN3eJ5b5sLC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Humpty Dumpty's Poem",
+      "url": "https://open.spotify.com/track/0dTWkSkcdAw34QBeJ7y6UH"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66586,
+      "name": "Hurrahing In Harvest",
+      "url": "https://open.spotify.com/track/00OHP5NSNzSnJ34o69Yiau"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Bron",
+          "url": "https://open.spotify.com/artist/7ay9b0vTNnpfLN0UGQC21B"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78854,
+      "name": "I Remember I Remember",
+      "url": "https://open.spotify.com/track/3j0pbgmpmr33G3XBjSkYGp"
+    },
+    {
+      "album": {
+        "name": "Fiennes, Ralph: Kipling",
+        "url": "https://open.spotify.com/album/1UMRkrYSzqH3tH3yCauNOW"
+      },
+      "artists": [
+        {
+          "name": "Rudyard Kipling",
+          "url": "https://open.spotify.com/artist/5uNTrZ1JlKsnpTeFyKWPYO"
+        },
+        {
+          "name": "Ralph Fiennes",
+          "url": "https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142986,
+      "name": "If",
+      "url": "https://open.spotify.com/track/2xZpLP86l3a430BCNqDCXN"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55460,
+      "name": "Immortality",
+      "url": "https://open.spotify.com/track/1U7MZWra0uVDrZsiH200D6"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112795,
+      "name": "In 3 Days - Robert Browning",
+      "url": "https://open.spotify.com/track/29Sh5bIaEs2LyW4hTECPBV"
+    },
+    {
+      "album": {
+        "name": "The Four Seasons - The Poetry",
+        "url": "https://open.spotify.com/album/7AO6KL21usQdYEKzxD3W4k"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135410,
+      "name": "In Autumn - Alice Meynell",
+      "url": "https://open.spotify.com/track/2844uA7oqYRIw369mHfBop"
+    },
+    {
+      "album": {
+        "name": "February - The Poetry Of",
+        "url": "https://open.spotify.com/album/2jgpUYxI4IJ675w47vmBmp"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56401,
+      "name": "In February By Alice Meynell",
+      "url": "https://open.spotify.com/track/75bEqQ66fQBGMksGAA3V7l"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94133,
+      "name": "In Praise of England",
+      "url": "https://open.spotify.com/track/25yneCoRaupUxm6eWegqoh"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117237,
+      "name": "In Sutton Woods",
+      "url": "https://open.spotify.com/track/2UI01T8TzLxEmyU1f4PZyw"
+    },
+    {
+      "album": {
+        "name": "The Poetry Collection",
+        "url": "https://open.spotify.com/album/64LxKZIkGxva3SKWRPug4o"
+      },
+      "artists": [
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "Inscription for a Bed at Kelmscott Manor by William Morris",
+      "url": "https://open.spotify.com/track/5xx3uVAnP8EkKYWOaQhCel"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57000,
+      "name": "Inversnaid",
+      "url": "https://open.spotify.com/track/0xxbfi6RNbZoaYWOSZuDxF"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Lillie",
+          "url": "https://open.spotify.com/artist/5Mkm7BgKeJjpN3eJ5b5sLC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85293,
+      "name": "Jabberwocky",
+      "url": "https://open.spotify.com/track/6L5u7rVSepq7NN1BZGzpzN"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "T P McKenna",
+          "url": "https://open.spotify.com/artist/0qYIMz3UQ1a7ow6cIMHQ27"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "James Clarence Mangan - The Nameless One",
+      "url": "https://open.spotify.com/track/3WN5HKMf8GYPmu6x3NSpJ3"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Birds",
+        "url": "https://open.spotify.com/album/6m16ATgIoiFqtYpNqL4Dce"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47508,
+      "name": "John Clare - The Thrush's Nest",
+      "url": "https://open.spotify.com/track/2kuhfKVLeNmjzykOBzPNeI"
+    },
+    {
+      "album": {
+        "name": "Fiennes, Ralph: Kipling",
+        "url": "https://open.spotify.com/album/1UMRkrYSzqH3tH3yCauNOW"
+      },
+      "artists": [
+        {
+          "name": "Rudyard Kipling",
+          "url": "https://open.spotify.com/artist/5uNTrZ1JlKsnpTeFyKWPYO"
+        },
+        {
+          "name": "Ralph Fiennes",
+          "url": "https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319226,
+      "name": "Kim",
+      "url": "https://open.spotify.com/track/1UdgNBCE04AOnT6QnW3USK"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108490,
+      "name": "Laudabunt Alii",
+      "url": "https://open.spotify.com/track/60quvVIrAUxmbSJ5lVuUFB"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/6HOLMcZVYmHXaQ14Am3AdU"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64200,
+      "name": "Laus - Infantium - William Canton",
+      "url": "https://open.spotify.com/track/5L9kxckNLyGBb7EwjsF6f9"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54613,
+      "name": "Life in a Bottle - Robert Browning",
+      "url": "https://open.spotify.com/track/2lD3Djap997S1JuDJgL6t8"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56784,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/3vnkHHWsxIaedZZrmiFgsv"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45952,
+      "name": "Love's Harvest",
+      "url": "https://open.spotify.com/track/2AbphZg4Vqoy8iunMGOc81"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51943,
+      "name": "Love's Unity",
+      "url": "https://open.spotify.com/track/2KaAyddx2srJwqkVuZd9If"
+    },
+    {
+      "album": {
+        "name": "The Ode",
+        "url": "https://open.spotify.com/album/18WQuZQihblLMVfr2fw4p7"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343446,
+      "name": "March - An Ode by Algernon Charles Swinburne",
+      "url": "https://open.spotify.com/track/5saGnZ30MDibrSmMk9EE1M"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45290,
+      "name": "Memorabilia - Robert Browning",
+      "url": "https://open.spotify.com/track/38OFaNZphxrOmjmSzldYw3"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Messmates",
+      "url": "https://open.spotify.com/track/2tMoVNV1yhKNfukyk5fASX"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49667,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/1ZDV7gotGY0siUzww0gFur"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88653,
+      "name": "Minora Sidera",
+      "url": "https://open.spotify.com/track/6xLoJNn4CWdtkw6xvW0UIr"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113835,
+      "name": "Mortality",
+      "url": "https://open.spotify.com/track/4JLQGU8uBNCbRU1T1Z9IHq"
+    },
+    {
+      "album": {
+        "name": "Fiennes, Ralph: Kipling",
+        "url": "https://open.spotify.com/album/1UMRkrYSzqH3tH3yCauNOW"
+      },
+      "artists": [
+        {
+          "name": "Rudyard Kipling",
+          "url": "https://open.spotify.com/artist/5uNTrZ1JlKsnpTeFyKWPYO"
+        },
+        {
+          "name": "Ralph Fiennes",
+          "url": "https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65026,
+      "name": "My Boy Jack",
+      "url": "https://open.spotify.com/track/7hg8Ph1tnRqpmz0hHEhHbD"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148201,
+      "name": "My Heart & I By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/1mGpVIQjkqFrEM6xCY9aau"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185620,
+      "name": "My Last Duchess - Robert Browning",
+      "url": "https://open.spotify.com/track/7zXgxqQGkg0FMl1CHXs9dA"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89257,
+      "name": "My Winter Rose",
+      "url": "https://open.spotify.com/track/2cBfJF4jhlOcXwXP294Opi"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69590,
+      "name": "No!",
+      "url": "https://open.spotify.com/track/2FJ2uHcgU7EwtVDyKmmzvZ"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26633,
+      "name": "November",
+      "url": "https://open.spotify.com/track/2nbtpDYm11TkcG65W5BDa8"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57568,
+      "name": "Now - Robert Browning",
+      "url": "https://open.spotify.com/track/3SvAagCW5MeMmylOqHf8kh"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342099,
+      "name": "Ode to Melancholy",
+      "url": "https://open.spotify.com/track/2hdotRGnVV9zpIt9Mp4mC9"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 725588,
+      "name": "Ode to the Great Unknown",
+      "url": "https://open.spotify.com/track/36OhxMd7mSfKV2afdhsLfy"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272230,
+      "name": "Ode to the Moon",
+      "url": "https://open.spotify.com/track/5BeCJW1w2vxauAUZY3gyYr"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Trees",
+        "url": "https://open.spotify.com/album/0hRsFUlLyKKam2lLrEdcNV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31317,
+      "name": "Oscar Wilde - In the Forest",
+      "url": "https://open.spotify.com/track/31F6KyJw5JbOMAF9wWAH1E"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Flowers",
+        "url": "https://open.spotify.com/album/03HI69yvY4uNTKZSTFPdE8"
+      },
+      "artists": [
+        {
+          "name": "Sean Barrett",
+          "url": "https://open.spotify.com/artist/4v5PxW9sqGYuWERSYHsH7t"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 932613,
+      "name": "Oscar Wilde - The Garden of Eros",
+      "url": "https://open.spotify.com/track/3Z5lMsqIIivYqJvAvPr6Gc"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39413,
+      "name": "Pied Beauty",
+      "url": "https://open.spotify.com/track/2qTOmVZBfkoN1tAmYgSj1D"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83904,
+      "name": "Prospice - Robert Browning",
+      "url": "https://open.spotify.com/track/4ydTdJwpSwIZflUy5Ag16O"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51966,
+      "name": "Resignation",
+      "url": "https://open.spotify.com/track/3KOq9A3ANzZXfnjQISLYkI"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56587,
+      "name": "Rudyard Kipling - Cuckoo Song By",
+      "url": "https://open.spotify.com/track/7ms0aXe89ieNOPfQGnal79"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57631,
+      "name": "Rudyard Kipling - Home Thoughts from Abroad",
+      "url": "https://open.spotify.com/track/5FmGgZag0AxKYBcoxZ7eCl"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201618,
+      "name": "Rudyard Kipling - Mandalay",
+      "url": "https://open.spotify.com/track/4KhqvP7GCo9Kq2WpJosXTF"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83951,
+      "name": "Rudyard Kipling - Our Fathers Also",
+      "url": "https://open.spotify.com/track/2iELoMVg0IKYwyelXbk8x6"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Sandy Tosvig",
+          "url": "https://open.spotify.com/artist/08t7MXwCvaidtHLBmW0rSc"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69830,
+      "name": "Rudyard Kipling - The Egg Shell",
+      "url": "https://open.spotify.com/track/3u5YctiXrQmbR13sg2NjKS"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91036,
+      "name": "Rudyard Kipling - The Mother's Son",
+      "url": "https://open.spotify.com/track/1pprRpgVOXSpQFivihgDzN"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478981,
+      "name": "Rugby Chapel, November 1857",
+      "url": "https://open.spotify.com/track/4NNzF7OLWlqExqWoqNSzq4"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221789,
+      "name": "San Stefano",
+      "url": "https://open.spotify.com/track/1Ekmeqe2Pkp3CafxOHbMIK"
+    },
+    {
+      "album": {
+        "name": "Hoffnung Music Festivals 1956, 1958 & 1961",
+        "url": "https://open.spotify.com/album/3hNeDWIhMU8lNzmntG3nuD"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1ty\u00e1s Seiber",
+          "url": "https://open.spotify.com/artist/30qzZsYGKfarUeer1vS1q3"
+        },
+        {
+          "name": "Dame Edith Evans",
+          "url": "https://open.spotify.com/artist/0JjrTfaQ0x5FJjoaFMI44b"
+        },
+        {
+          "name": "Annetta Hoffnung",
+          "url": "https://open.spotify.com/artist/1oU3awfE78CukhuXWMpKtO"
+        },
+        {
+          "name": "Hoffnung Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3j0GDeDKyagG87Nim6X8mg"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304026,
+      "name": "Seiber: The Famous Tay Whale - A dramatic poem by William McGonagall",
+      "url": "https://open.spotify.com/track/5We0vWeL2WXsiDsryJ0S2y"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/6vBmkiw1CuSvSnzZZfeqrU"
+      },
+      "artists": [
+        {
+          "name": "Gerald Heard",
+          "url": "https://open.spotify.com/artist/7eQgAmXN6msx5mwBTYRR8R"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89040,
+      "name": "Selections from \"I Am the Way\" (By Alice Meynell)",
+      "url": "https://open.spotify.com/track/7ePigt2pGGU3FpE9rE7t0O"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247189,
+      "name": "Seringapatam",
+      "url": "https://open.spotify.com/track/1XUdNvSznK9LkGa2GbD1a9"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54114,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/3OfmE5qEnuwWd7yyoIofbi"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36873,
+      "name": "Sir a C Lyall - Badmington",
+      "url": "https://open.spotify.com/track/21aNnehqDEafZmdZ37Vzij"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60527,
+      "name": "Song",
+      "url": "https://open.spotify.com/track/0BDrWjnfl91b0HoUFzDuJD"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Tim Graham",
+          "url": "https://open.spotify.com/artist/0JgGn5yedV9BExCmF51FHz"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49345,
+      "name": "Songs from Lucifer",
+      "url": "https://open.spotify.com/track/0kK3MNJuV85WGQKG8jCFAf"
+    },
+    {
+      "album": {
+        "name": "Erotic Poetry Collection",
+        "url": "https://open.spotify.com/album/7iESVQOEu7t2CXpufNHXXR"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70000,
+      "name": "Sonnet By George Moore",
+      "url": "https://open.spotify.com/track/6wnKFPnEbXkr9pLd552QOB"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50549,
+      "name": "Sonnet to My Wife",
+      "url": "https://open.spotify.com/track/5oU4PyItDGn5hEVhhcLZEh"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65010,
+      "name": "Sonnet to Ocean",
+      "url": "https://open.spotify.com/track/1I0RWpBKSltud1gnznzQY3"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - Sonnets From The Portuguese",
+        "url": "https://open.spotify.com/album/5ml1lmeH332K005oPASWnd"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2336802,
+      "name": "Sonnets From The Portguese",
+      "url": "https://open.spotify.com/track/0MpKDelIXFx5IOFFWAbVXy"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2336802,
+      "name": "Sonnets From The Portguese",
+      "url": "https://open.spotify.com/track/5XEAV5D4h9CS29YFKOkxYK"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58444,
+      "name": "Sorrow's Importunity",
+      "url": "https://open.spotify.com/track/2Mp3qC5UTqUsGXTYPBoXoX"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50355,
+      "name": "Spiritual Love",
+      "url": "https://open.spotify.com/track/179PPAcXfZBkWGkDMSzJSQ"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56213,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5hqZjcB6yOBrBIECAk2Mhs"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52000,
+      "name": "Spring & Fall",
+      "url": "https://open.spotify.com/track/5oXpwu86xq0Xr6S3HGifNg"
+    },
+    {
+      "album": {
+        "name": "The Four Seasons - The Poetry",
+        "url": "https://open.spotify.com/album/7AO6KL21usQdYEKzxD3W4k"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52453,
+      "name": "Spring's Bedfellow - William Morris",
+      "url": "https://open.spotify.com/track/1VO5JucQXYAlsuYVbn7Idd"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187501,
+      "name": "Stanzas from the Grande Chartreuse",
+      "url": "https://open.spotify.com/track/1yHAZjwK5Pi4fcqHfNpCvO"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60560,
+      "name": "Starlight Night",
+      "url": "https://open.spotify.com/track/6lVyXur7x3Pc2bErF4YrqW"
+    },
+    {
+      "album": {
+        "name": "The Four Seasons - The Poetry",
+        "url": "https://open.spotify.com/album/7AO6KL21usQdYEKzxD3W4k"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49110,
+      "name": "Summer Dawn - William Morris",
+      "url": "https://open.spotify.com/track/6DBhy64RpeEAj8qzqC8CHM"
+    },
+    {
+      "album": {
+        "name": "The Romantics - Volume 1",
+        "url": "https://open.spotify.com/album/3f5IEcFIuzMva4ixrPb9fI"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47717,
+      "name": "Summer Evening - John Clare",
+      "url": "https://open.spotify.com/track/25zCdYCTDYLeiudyokcRbN"
+    },
+    {
+      "album": {
+        "name": "Hear Great Poets Read: Tennyson, Browning, Whitman, Yeats, Frost, Sandburg, Stevens, Eliot, Williams, H.D., Jeffers, Ransom",
+        "url": "https://open.spotify.com/album/5kUXAsszpSHNhLYQdOMR1M"
+      },
+      "artists": [
+        {
+          "name": "Lord Alfred Tennyson",
+          "url": "https://open.spotify.com/artist/0RjzRqRDS5ivWqxCav3Ftp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53133,
+      "name": "Tennyson - from The Bugle Song",
+      "url": "https://open.spotify.com/track/3LvPXHdfnX4oEmKzWwMdTW"
+    },
+    {
+      "album": {
+        "name": "Hear Great Poets Read: Tennyson, Browning, Whitman, Yeats, Frost, Sandburg, Stevens, Eliot, Williams, H.D., Jeffers, Ransom",
+        "url": "https://open.spotify.com/album/5kUXAsszpSHNhLYQdOMR1M"
+      },
+      "artists": [
+        {
+          "name": "Lord Alfred Tennyson",
+          "url": "https://open.spotify.com/artist/0RjzRqRDS5ivWqxCav3Ftp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80253,
+      "name": "Tennyson - from The Charge of the Light Brigade",
+      "url": "https://open.spotify.com/track/5IVV5S45Oil9mwZGAFi1gr"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52860,
+      "name": "The Austerity of Poetry",
+      "url": "https://open.spotify.com/track/1Wv194bcFYhwOC1hxMKVWs"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109528,
+      "name": "The Autumn By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/6zgorMEUO6cuJ1bnm907cS"
+    },
+    {
+      "album": {
+        "name": "Poetry Of Robert Browning",
+        "url": "https://open.spotify.com/album/4IFv8oT0f8M9W3AYb8MyDw"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613066,
+      "name": "The Bishop Orders His Tomb",
+      "url": "https://open.spotify.com/track/65JMJUm1FwWbjRejxckR5V"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100639,
+      "name": "The Bright Medusa",
+      "url": "https://open.spotify.com/track/1KA0OPyFcDFfPwG0ACyD0v"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282772,
+      "name": "The Buried Life",
+      "url": "https://open.spotify.com/track/7qjeXmifdLrze3LigmJwY9"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62640,
+      "name": "The Candle Indoors",
+      "url": "https://open.spotify.com/track/1BFBqTNHzDDU4zaciJGDA4"
+    },
+    {
+      "album": {
+        "name": "Edward Lear - The Poems & Rhymes",
+        "url": "https://open.spotify.com/album/4hW4rPYxfchXUsCeup1pAJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Lear",
+          "url": "https://open.spotify.com/artist/4UFCJlVZH0nZ07VvDY0uin"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245295,
+      "name": "The Courtship Of Yongy Bongy Bo",
+      "url": "https://open.spotify.com/track/5oArSBTlwetfmHWepD3Zoq"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188479,
+      "name": "The Death of Admiral Blake",
+      "url": "https://open.spotify.com/track/1Ua01Ehr3KFacDHXYdO03n"
+    },
+    {
+      "album": {
+        "name": "The Alec Guinness Poetry Collection",
+        "url": "https://open.spotify.com/album/3FKUl7itpp59RPAPzlGcMg"
+      },
+      "artists": [
+        {
+          "name": "Alec Guinness",
+          "url": "https://open.spotify.com/artist/6a3ejMFdVTK1Cq3EvY0LpP"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "The Death of Lord and Lady Dalhousie By William McGonagall",
+      "url": "https://open.spotify.com/track/3WITYQH54XwIts8dz1oKs1"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53777,
+      "name": "The Divinity",
+      "url": "https://open.spotify.com/track/3L8MO2DoEe7YPCU4427h0f"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46370,
+      "name": "The Exile",
+      "url": "https://open.spotify.com/track/6Gijtl76zlZ4T4Cp6tBpsS"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121709,
+      "name": "The Fighting T\u00e9m\u00e9raire",
+      "url": "https://open.spotify.com/track/7iwBWlhYj1pCZaLquSXIJP"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211208,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/4n0jnEkImWKzgcxHsIkoBl"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Death - Volume 1",
+        "url": "https://open.spotify.com/album/2KX7ED8g8rMKo3PIPMalh1"
+      },
+      "artists": [
+        {
+          "name": "Oscar Wilde",
+          "url": "https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54613,
+      "name": "The Grave Of Shelley By Oscar Wilde",
+      "url": "https://open.spotify.com/track/1rl6Z5E8zU1wXdAcIXcIlc"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87666,
+      "name": "The Habit Of Perfection",
+      "url": "https://open.spotify.com/track/3Yd2VmqTrNpnEIS86d5VwE"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246561,
+      "name": "The House Of Clouds By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/4TGaeYAVduoZj3fDlQ7Bzw"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1346453,
+      "name": "The Hunting Of The Snark",
+      "url": "https://open.spotify.com/track/1bFrxbtD6Gl0OuE6U6mVL3"
+    },
+    {
+      "album": {
+        "name": "Edward Lear - The Poems & Rhymes",
+        "url": "https://open.spotify.com/album/4hW4rPYxfchXUsCeup1pAJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Lear",
+          "url": "https://open.spotify.com/artist/4UFCJlVZH0nZ07VvDY0uin"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "The Jumblies",
+      "url": "https://open.spotify.com/track/4w9cpPcQogkXwyUrWSaj3O"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394832,
+      "name": "The Key (A Moorish Romance)",
+      "url": "https://open.spotify.com/track/7g8LQNcqO3LBqdSiKJBL8a"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67451,
+      "name": "The Ladies Yes By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/1DbeCKMqfCQX976CkqGiS5"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "David Shaw-Parker",
+          "url": "https://open.spotify.com/artist/5ySoL6vYTXQwa3UlRROujv"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433005,
+      "name": "The Last Ride Together - Robert Browning",
+      "url": "https://open.spotify.com/track/7GEY5Ogo1QqM5GbjnhqA6T"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49760,
+      "name": "The Last Word",
+      "url": "https://open.spotify.com/track/68ylzHjohX9smrZEvtZPYc"
+    },
+    {
+      "album": {
+        "name": "Poems By Gerard Manley Hopkins",
+        "url": "https://open.spotify.com/album/3tSBIW36is5wIFB2kNyLXY"
+      },
+      "artists": [
+        {
+          "name": "Margaret Rawlings",
+          "url": "https://open.spotify.com/artist/51y2aqG5Bz3CX5rAj2A1bp"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298120,
+      "name": "The Leaden Eacho & The Golden Echo",
+      "url": "https://open.spotify.com/track/113OQJD83eOGfN08RaN1HL"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112581,
+      "name": "The Lost Leader - Robert Browning",
+      "url": "https://open.spotify.com/track/6VxNjTD730K9KWpmS3y3Jx"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Cyril Richard",
+          "url": "https://open.spotify.com/artist/3vE8JNukeYc5Xlf4wbai2w"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102866,
+      "name": "The Mad Gardener's Song",
+      "url": "https://open.spotify.com/track/2AbJjTodoj0yy9cpYchTP8"
+    },
+    {
+      "album": {
+        "name": "March - The Poetry Of",
+        "url": "https://open.spotify.com/album/56n1uJHb2uNPW1p91bdU9W"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256046,
+      "name": "The Message Of The March Wind By William Morris",
+      "url": "https://open.spotify.com/track/3dPJ6TP96Np6UUpBrpuePj"
+    },
+    {
+      "album": {
+        "name": "Fiennes, Ralph: Kipling",
+        "url": "https://open.spotify.com/album/1UMRkrYSzqH3tH3yCauNOW"
+      },
+      "artists": [
+        {
+          "name": "Rudyard Kipling",
+          "url": "https://open.spotify.com/artist/5uNTrZ1JlKsnpTeFyKWPYO"
+        },
+        {
+          "name": "Ralph Fiennes",
+          "url": "https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70253,
+      "name": "The Mine-Sweepers",
+      "url": "https://open.spotify.com/track/0GcxRugvgfvZqHDh6vn0yQ"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Lillie",
+          "url": "https://open.spotify.com/artist/5Mkm7BgKeJjpN3eJ5b5sLC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99280,
+      "name": "The Mock Turtle's Song",
+      "url": "https://open.spotify.com/track/30Ie6QETf3cxBPMlwlbava"
+    },
+    {
+      "album": {
+        "name": "Edward Lear - The Poems & Rhymes",
+        "url": "https://open.spotify.com/album/4hW4rPYxfchXUsCeup1pAJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Lear",
+          "url": "https://open.spotify.com/artist/4UFCJlVZH0nZ07VvDY0uin"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "The Nutcracker & The Sugar Tongs",
+      "url": "https://open.spotify.com/track/2OtEA3YClXbDSnInjjHfS4"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98235,
+      "name": "The Old and Bold",
+      "url": "https://open.spotify.com/track/1NzQk3EYaqpgpsbYmJ0iS5"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173310,
+      "name": "The Old Superb",
+      "url": "https://open.spotify.com/track/5tFkLymSocnfMsDsBnsfDT"
+    },
+    {
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/0VBLw2hl95Tkvt7GIFc0Hq"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59234,
+      "name": "The Old Year By John Clare",
+      "url": "https://open.spotify.com/track/64pJoJtYdDhicIyyCOhxCr"
+    },
+    {
+      "album": {
+        "name": "Edward Lear - The Poems & Rhymes",
+        "url": "https://open.spotify.com/album/4hW4rPYxfchXUsCeup1pAJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Lear",
+          "url": "https://open.spotify.com/artist/4UFCJlVZH0nZ07VvDY0uin"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98173,
+      "name": "The Owl And The Pussy Cat",
+      "url": "https://open.spotify.com/track/48OpxOWZ5xc4OsMICBvT7N"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232640,
+      "name": "The Passing of the Century",
+      "url": "https://open.spotify.com/track/5uhqgQHfwawFuilyRRkGOm"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "David Moore",
+          "url": "https://open.spotify.com/artist/1w50KY0tLIblQTpeGbyYYE"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333800,
+      "name": "The Path Of Roses",
+      "url": "https://open.spotify.com/track/3cC90Ib2WMMdaEjNJHzHcl"
+    },
+    {
+      "album": {
+        "name": "Edward Lear - The Poems & Rhymes",
+        "url": "https://open.spotify.com/album/4hW4rPYxfchXUsCeup1pAJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Lear",
+          "url": "https://open.spotify.com/artist/4UFCJlVZH0nZ07VvDY0uin"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262385,
+      "name": "The Pelican Chorus",
+      "url": "https://open.spotify.com/track/3TaW3rFhL63qJT90fbFCjB"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "David Shaw-Parker",
+          "url": "https://open.spotify.com/artist/5ySoL6vYTXQwa3UlRROujv"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 882173,
+      "name": "The Pied Piper of Hamelin - Robert Browning",
+      "url": "https://open.spotify.com/track/1iFMydHHqSQUT5j3RryF5y"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Stanley Holloway",
+          "url": "https://open.spotify.com/artist/4vxeI1WNgRCQVQdmLuA42v"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352920,
+      "name": "The Pig-Tale",
+      "url": "https://open.spotify.com/track/7opdUOIoe3or3nBN2Oijy2"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100786,
+      "name": "The Poet's Portion",
+      "url": "https://open.spotify.com/track/5ysLrr8C8v9Wwhiu3nlozA"
+    },
+    {
+      "album": {
+        "name": "Edward Lear - The Poems & Rhymes",
+        "url": "https://open.spotify.com/album/4hW4rPYxfchXUsCeup1pAJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Lear",
+          "url": "https://open.spotify.com/artist/4UFCJlVZH0nZ07VvDY0uin"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132005,
+      "name": "The Quangle Wangle's Hat",
+      "url": "https://open.spotify.com/track/2bzpxuJZwuh4t2vh1yq4gA"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235766,
+      "name": "The Quarter-Gunner's Yarn",
+      "url": "https://open.spotify.com/track/5HLgLtIdwTWIjhYXUBReAH"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Stanley Holloway",
+          "url": "https://open.spotify.com/artist/4vxeI1WNgRCQVQdmLuA42v"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "The Red Knight's Song",
+      "url": "https://open.spotify.com/track/5n6tW7lVQgNfZYaoZLWnr0"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 659322,
+      "name": "The Runaway Slave At Pilgrim's Point By Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/1R5XBO2Nqu38f13l2FvBDd"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307519,
+      "name": "The Silent Muse",
+      "url": "https://open.spotify.com/track/3iCDn8GuJRtuWfGoi8Efa1"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44466,
+      "name": "The Song of the Shirt",
+      "url": "https://open.spotify.com/track/0o2OQNYxSudm4CkGTVveeW"
+    },
+    {
+      "album": {
+        "name": "Edward Lear - The Poems & Rhymes",
+        "url": "https://open.spotify.com/album/4hW4rPYxfchXUsCeup1pAJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Lear",
+          "url": "https://open.spotify.com/artist/4UFCJlVZH0nZ07VvDY0uin"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89443,
+      "name": "The Table And The Chair",
+      "url": "https://open.spotify.com/track/4TGmtpPVZ5vvY8peAVGF8O"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Cyril Richard",
+          "url": "https://open.spotify.com/artist/3vE8JNukeYc5Xlf4wbai2w"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249026,
+      "name": "The Walrus And The Carpenter",
+      "url": "https://open.spotify.com/track/337Ep7W1ncoNYKtRGSMsPH"
+    },
+    {
+      "album": {
+        "name": "Fiennes, Ralph: Kipling",
+        "url": "https://open.spotify.com/album/1UMRkrYSzqH3tH3yCauNOW"
+      },
+      "artists": [
+        {
+          "name": "Rudyard Kipling",
+          "url": "https://open.spotify.com/artist/5uNTrZ1JlKsnpTeFyKWPYO"
+        },
+        {
+          "name": "Ralph Fiennes",
+          "url": "https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65906,
+      "name": "The Way Through the Woods",
+      "url": "https://open.spotify.com/track/6e1iXgk8GRU5Rv2PKd3trc"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18668,
+      "name": "The Year's at the Spring - Robert Browning",
+      "url": "https://open.spotify.com/track/39OtrZ5f5Wjzl0MboOncgP"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275469,
+      "name": "The Youth of Man",
+      "url": "https://open.spotify.com/track/1tDpsjWOxXrJew5TiNrDQV"
+    },
+    {
+      "album": {
+        "name": "Edward Lear - The Poems & Rhymes",
+        "url": "https://open.spotify.com/album/4hW4rPYxfchXUsCeup1pAJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Lear",
+          "url": "https://open.spotify.com/artist/4UFCJlVZH0nZ07VvDY0uin"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15209,
+      "name": "There Was A Young Lady Whose Eyes",
+      "url": "https://open.spotify.com/track/2OARpo8YqvmLf8RiLmpMV7"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340432,
+      "name": "Thomas Babbington Macaulay - Lines Written in August",
+      "url": "https://open.spotify.com/track/171Zf9vmqeSWPeR8cdkkOg"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118224,
+      "name": "Though All the World",
+      "url": "https://open.spotify.com/track/6RqNFRNlMr0w0bClWpQuCP"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "David Moore",
+          "url": "https://open.spotify.com/artist/1w50KY0tLIblQTpeGbyYYE"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286040,
+      "name": "Three Sunsets",
+      "url": "https://open.spotify.com/track/6FsMEEFTThISbVBOumMVeH"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71076,
+      "name": "Time, Hope & Memory",
+      "url": "https://open.spotify.com/track/0KjYiYfeLXHrdNLbi7ScQQ"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Thomas Hood",
+        "url": "https://open.spotify.com/album/7piecaCNOQUYgyexFNi7kV"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45706,
+      "name": "To a False Friend",
+      "url": "https://open.spotify.com/track/40plFEJiRarYK1HKkljQDX"
+    },
+    {
+      "album": {
+        "name": "Elizabeth Barrett Browning - The Poetry Of",
+        "url": "https://open.spotify.com/album/3W7ORfo1RZkQvjbUrH8pVv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Barrett Browning",
+          "url": "https://open.spotify.com/artist/1xPQyfozl8QcJL2EoDxXZC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74965,
+      "name": "To My Father On His Birthday - Elizabeth Barrett Browning",
+      "url": "https://open.spotify.com/track/2MeuU5Ej8ydvK6pOqDdtVV"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Robert Browning",
+        "url": "https://open.spotify.com/album/55CYYq9nIVxIM6hXj84Zkl"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49249,
+      "name": "Verse Making - Robert Browning",
+      "url": "https://open.spotify.com/track/5zuZsuXRrYWqQO7sSN1Yt0"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Vita\u00ef Lampada",
+      "url": "https://open.spotify.com/track/3i2JnO3ZTbhCvOsVTwdEGm"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Henry Newbolt",
+        "url": "https://open.spotify.com/album/1xXzuT6P9lLifWkhI06pl1"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "V\u00e6 Victis",
+      "url": "https://open.spotify.com/track/5wgBYTIKhnFeHT78sgC6Ja"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50956,
+      "name": "West London",
+      "url": "https://open.spotify.com/track/3s5bkofM5Wh26YZRuHgRnr"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52616,
+      "name": "Wilford Scawen Blunt - The Idlers Calender - June",
+      "url": "https://open.spotify.com/track/5nDutywxmQtufRdPeiUlki"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59187,
+      "name": "Wilfred Scawen Blunt - The Idlers Calendar - December",
+      "url": "https://open.spotify.com/track/1M13gcm20ZhKbHxeRvuzn9"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Lewis Carroll",
+        "url": "https://open.spotify.com/album/7tWheoqxbI77n3emC9xLWp"
+      },
+      "artists": [
+        {
+          "name": "Cyril Richard",
+          "url": "https://open.spotify.com/artist/3vE8JNukeYc5Xlf4wbai2w"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72893,
+      "name": "Will You Walk A Little Faster",
+      "url": "https://open.spotify.com/track/2FEyG8sfHLOytUCscQ0KC8"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 2",
+        "url": "https://open.spotify.com/album/7pGdWaJ55r7vEqmsfpilSQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44187,
+      "name": "William Ernest Henley - Between the Dusk of Summer",
+      "url": "https://open.spotify.com/track/2KWldYOe5CfzFafth4DnLb"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Flowers",
+        "url": "https://open.spotify.com/album/03HI69yvY4uNTKZSTFPdE8"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94435,
+      "name": "William Morris - A Garden by the Sea",
+      "url": "https://open.spotify.com/track/1rPRf38y2bc4MBqnPuaekO"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61881,
+      "name": "William Morris - The Doomed Ship",
+      "url": "https://open.spotify.com/track/7lMNX4bM2btuBCSjuJntHU"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Trees",
+        "url": "https://open.spotify.com/album/0hRsFUlLyKKam2lLrEdcNV"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26969,
+      "name": "William Morris - The Forest",
+      "url": "https://open.spotify.com/track/4nA30ew6DYLo3JAppQugrC"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 1",
+        "url": "https://open.spotify.com/album/0XfvslKLpveXaRJEV8uOIL"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55333,
+      "name": "William Scawen Blunt - The Idlers Calender - April - Trout Fishing",
+      "url": "https://open.spotify.com/track/6emrpYwcvVIwLaVk6BW2h9"
+    },
+    {
+      "album": {
+        "name": "Victorian Poetry - Volume 3",
+        "url": "https://open.spotify.com/album/0vl4OG7kQqzbCJRAuXpaNq"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77171,
+      "name": "William Topaz Mcgonagall - Beautiful Balmoral",
+      "url": "https://open.spotify.com/track/7akNvwlNdNZc7bYtzTzcRz"
+    },
+    {
+      "album": {
+        "name": "Winter - A Season In Verse",
+        "url": "https://open.spotify.com/album/5hygFiEPcQlc506N9c0RJC"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137769,
+      "name": "Winter In Northumberland (Extract) By Algernon Charles Swinburne",
+      "url": "https://open.spotify.com/track/05tzY1jmNIDpukdARaLHPp"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Alfred Austin",
+        "url": "https://open.spotify.com/album/7LTvMcz9MfzI3alML3TOHe"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19632,
+      "name": "Winter Violets",
+      "url": "https://open.spotify.com/track/6UErAU82mNQzaKrLSXSZUH"
+    },
+    {
+      "album": {
+        "name": "Matthew Arnold - The Poetry",
+        "url": "https://open.spotify.com/album/3UEVNWOYedva0Rq04gVagN"
+      },
+      "artists": [
+        {
+          "name": "Matthew Arnold",
+          "url": "https://open.spotify.com/artist/61fLox0wl2dLq8MrzRHi79"
+        },
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2014-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80782,
+      "name": "Youth and Calm",
+      "url": "https://open.spotify.com/track/5kweUuvbFVxuBdRUHycKxM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZxkZk4wnQ5T"
 }

@@ -4,7 +4,7 @@
 
 > from Stillwater to Nashville with Wyatt Flores
 
-236 songs - 14 hr 13 min
+237 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [68 \- Live](https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Live at Bo Bash 2021](https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M) | 3:28 | 2023-03-21 | 2023-04-22 |
 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 | 2023-02-24 |  |
 | [A Little Dive Bar in Dahlonega](https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:29 | 2023-02-24 | 2023-12-09 |
-| [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2023-08-25 | 2023-12-09 |
+| [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2023-08-25 |  |
 | [Actin' Up](https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:25 | 2023-02-24 | 2023-07-28 |
 | [Ain't Nothin' to It](https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:22 | 2023-02-24 |  |
 | [Ain't Proud](https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Ain't Proud](https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW) | 3:26 | 2023-05-05 | 2023-07-28 |
@@ -29,7 +29,7 @@
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2023-02-24 | 2023-03-25 |
 | [Ballad Of A Southern Man](https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 3:40 | 2023-02-24 | 2023-12-09 |
 | [Beneath Oak Trees](https://open.spotify.com/track/3ijPMKSNCF1sfwKPsnIrIW) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:57 | 2023-10-06 |  |
-| [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2023-02-24 |  |
+| [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2023-02-24 | 2024-01-05 |
 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 | 2023-02-24 | 2023-12-09 |
 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 | 2023-03-24 | 2023-09-27 |
 | [Blue](https://open.spotify.com/track/0FJqXBo7ZHrskhH4owaL9S) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:38 | 2023-11-21 |  |
@@ -38,7 +38,7 @@
 | [Bring on the Neon](https://open.spotify.com/track/5NaxaWrHLoeJjx8WVJMO8b) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Bring on the Neon](https://open.spotify.com/album/2UTxlKf1ow8TylD4KeLz1v) | 4:21 | 2023-03-24 | 2023-06-17 |
 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 | 2023-02-24 |  |
 | [Bury Me in My Hometown](https://open.spotify.com/track/0MXvwOILiBUUJ2esyQ6htx) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Bury Me In My Hometown](https://open.spotify.com/album/5gyi3b9G9KTIoVlBGhkamX) | 3:35 | 2023-06-30 | 2023-11-18 |
-| [Bury Me in My Hometown](https://open.spotify.com/track/1jzQGB2wOOm1AaqA8cf0ic) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:35 | 2023-11-17 |  |
+| [Bury Me in My Hometown](https://open.spotify.com/track/1jzQGB2wOOm1AaqA8cf0ic) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:35 | 2023-11-17 | 2024-01-05 |
 | [Chronically Cautious \- Country Version](https://open.spotify.com/track/6ZrmGXr5UhSw2ymL9Bhky7) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Chronically Cautious \(Country Version\)](https://open.spotify.com/album/6MEZWd1dc8o5hvtmYP8M3s) | 2:12 | 2023-06-30 |  |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-09-29 |  |
 | [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-07-28 | 2023-10-06 |
@@ -209,6 +209,7 @@
 | [The Jealous Kind \(Live from the Church\)](https://open.spotify.com/track/5s39a54LU092WwtEGoOmtp) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Jealous Kind \(Live from the Church\)](https://open.spotify.com/album/1KSDcbkwcDd1XrjYz8Lpx0) | 3:35 | 2023-02-24 | 2023-05-11 |
 | [The Light](https://open.spotify.com/track/0yR3qIIgtfTvv4bTXayP0m) | [James Tucker](https://open.spotify.com/artist/5BxhrOGx4mGsMPi9PphUXG) | [The Light](https://open.spotify.com/album/0GynnBKic0lC9PMaCmd24P) | 4:42 | 2023-03-31 | 2023-12-09 |
 | [The Medicine Will](https://open.spotify.com/track/6wNrsAy7zzXWadJLNCvf6k) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Son Of The Mountains: The First Four Tracks](https://open.spotify.com/album/1lk9TilfdJzp9dIpPSyl4D) | 4:09 | 2023-09-29 | 2023-12-09 |
+| [The Moon \(feat\. Hillary Lindsey & Lori McKenna\)](https://open.spotify.com/track/505B8PAcsjCpntbYFp3Mrb) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [History of Heartbreak](https://open.spotify.com/album/1xYOjjl7ahWGn65D9j9uGe) | 4:18 | 2024-01-05 |  |
 | [Thinkin Bout Cheatin](https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Thinkin Bout Cheatin](https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc) | 3:42 | 2023-02-24 |  |
 | [This Damn Song](https://open.spotify.com/track/784cuiNXGutuO6wJgqOFWd) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [This Damn Song](https://open.spotify.com/album/1SnlCthXFkWWkZPzNAdqrZ) | 4:40 | 2023-02-24 |  |
 | [Till I Return](https://open.spotify.com/track/5bi8RvkKme1gAWymqVbhSR) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:36 | 2023-09-22 | 2023-11-23 |

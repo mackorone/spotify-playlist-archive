@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,803 likes - 98 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864 likes - 98 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

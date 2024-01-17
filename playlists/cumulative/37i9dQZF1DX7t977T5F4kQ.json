@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "Afrafranto",
+        "url": "https://open.spotify.com/album/6eaqs8ArRnHL7kpSeqj4mK"
+      },
+      "artists": [
+        {
+          "name": "Limuel",
+          "url": "https://open.spotify.com/artist/3NBnMiLgFDVmRmPEFTaWT8"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201702,
+      "name": "Afrafranto",
+      "url": "https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr"
+    },
+    {
+      "album": {
         "name": "Africa Money",
         "url": "https://open.spotify.com/album/7kpWSh8UcAGkcxZVUibqCh"
       },
@@ -264,6 +282,24 @@
       "duration_ms": 174400,
       "name": "Akohwie",
       "url": "https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS"
+    },
+    {
+      "album": {
+        "name": "Akokoa",
+        "url": "https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD"
+      },
+      "artists": [
+        {
+          "name": "Safo Newman",
+          "url": "https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202501,
+      "name": "Akokoa",
+      "url": "https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR"
     },
     {
       "album": {
@@ -430,7 +466,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 286039,
       "name": "Asikyire",
       "url": "https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA"
@@ -1806,10 +1842,32 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 214629,
       "name": "Feeli Free",
       "url": "https://open.spotify.com/track/5vxXhQPRO0oMXujM4A0o7V"
+    },
+    {
+      "album": {
+        "name": "For Times We Lost",
+        "url": "https://open.spotify.com/album/78aCHVIephfuOTzaFI4oGI"
+      },
+      "artists": [
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194117,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2IbZaJSrigYM4mUJaggJr9"
     },
     {
       "album": {
@@ -1828,7 +1886,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 194117,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/3UYRNOw7cwUzIJmKCwjXEX"
@@ -2058,7 +2116,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 148490,
       "name": "Gbemidebe",
       "url": "https://open.spotify.com/track/7GnTsvc6WXJLnc94DT8wCG"
@@ -2592,7 +2650,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 163467,
       "name": "Joo",
       "url": "https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6"
@@ -3218,7 +3276,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 173465,
       "name": "MY BABY",
       "url": "https://open.spotify.com/track/5WocaJtnBuISqoXTq89FYp"
@@ -5496,7 +5554,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 216911,
       "name": "Walk & Move",
       "url": "https://open.spotify.com/track/7MMmZ6Ja9JmKyFSKZhziPh"
@@ -5550,7 +5608,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 154811,
       "name": "Wo Be Di",
       "url": "https://open.spotify.com/track/3qdewg2LKF0GWD8Uw7JpHP"

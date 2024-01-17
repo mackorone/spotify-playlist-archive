@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alicia Villareal",
-  "name": "Mariachi 2023",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar ",
+  "name": "Mariachi 2024",
   "tracks": [
     {
       "album": {
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": "2024-01-13",
       "duration_ms": 257640,
       "name": "C\u00f3mo Te Olvido",
       "url": "https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 181466,
       "name": "En Tu Sonrisa",
       "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
@@ -2466,6 +2466,24 @@
       "duration_ms": 185213,
       "name": "Inexperto En Olvidarte",
       "url": "https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ"
+    },
+    {
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+      },
+      "artists": [
+        {
+          "name": "Didi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "album": {
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 178000,
       "name": "Las Rejas No Matan",
       "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
@@ -4193,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187706,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj"
+    },
+    {
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. 1",
         "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
@@ -4378,7 +4414,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 205120,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
@@ -5838,7 +5874,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 173613,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd"
@@ -6580,7 +6616,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 233879,
       "name": "Uno Y Uno",
       "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
@@ -6944,7 +6980,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 215893,
       "name": "Yo No Creo En Los Hombres",
       "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"

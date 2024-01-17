@@ -4,7 +4,7 @@
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-249 songs - 12 hr 52 min
+250 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [El venadito](https://open.spotify.com/track/6QwLrOSaZXZO7NgE1MhdR2) | [Hermanos Zaizar](https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo) | [16 Exitos de los Hermanos Zaizar](https://open.spotify.com/album/1n9DnpRlC0dB6Fhr70DaGO) | 2:46 | 2021-12-29 | 2023-02-24 |
 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 | 2021-12-29 |  |
 | [En La Barra](https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Para Vivir Contigo](https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe) | 2:35 | 2023-02-24 |  |
-| [En un Camión Pasajero](https://open.spotify.com/track/2cuNeHP1pqYVMwMZ9hBzDW) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [La Rosa Negra / El Ahijado](https://open.spotify.com/album/4bXrEzi0fVVxTDSUVwBfna) | 2:05 | 2022-06-07 | 2024-01-01 |
+| [En un Camión Pasajero](https://open.spotify.com/track/2cuNeHP1pqYVMwMZ9hBzDW) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [La Rosa Negra / El Ahijado](https://open.spotify.com/album/4bXrEzi0fVVxTDSUVwBfna) | 2:05 | 2022-06-07 |  |
 | [Entrega Total](https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 2:38 | 2022-06-07 |  |
 | [Esta situación](https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:27 | 2021-12-29 |  |
 | [Fallaste Corazón / Del Cielo Cayó una Rosa](https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:49 | 2021-12-29 |  |
@@ -233,7 +233,7 @@
 | [Tú y las Nubes](https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:19 | 2021-12-29 |  |
 | [Un Beso para el Cielo](https://open.spotify.com/track/0JGB3vSKZp5llpdL1oJcy1) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Un Beso para el Cielo](https://open.spotify.com/album/0CyTLGAbPLjzSMNIRSUY4a) | 3:05 | 2023-06-16 |  |
 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 | 2022-06-07 |  |
-| [Un Puño de Tierra](https://open.spotify.com/track/5sccvYWAbqyChZPqPadLqC) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [RCA 100 Años De Musica](https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA) | 3:19 | 2021-12-29 |  |
+| [Un Puño de Tierra](https://open.spotify.com/track/5sccvYWAbqyChZPqPadLqC) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [RCA 100 Años De Musica](https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA) | 3:19 | 2021-12-29 | 2024-01-07 |
 | [Un Viejo Amor](https://open.spotify.com/track/20NJvnEVfiinje8E8Y1di3) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs) | 2:40 | 2022-06-07 | 2022-07-29 |
 | [Un Viejo Amor](https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 | 2022-06-07 |  |
 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 | 2022-06-07 |  |
@@ -256,6 +256,7 @@
 | [Yo Se Que Te Acordaras](https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Penas, Desengaños..\. y Amores](https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0) | 3:23 | 2021-12-29 |  |
 | [Zenaida Ingrata](https://open.spotify.com/track/6uO97s9FsybAdIg1qJxaqq) | [Dueto America](https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO) | [La Gran Colección del 60 Aniversario CBS \- Dueto América](https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW) | 2:45 | 2021-12-29 |  |
 | [¡Qué Va!](https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:45 | 2021-12-29 |  |
-| [Ésta Es Pa´ Mi Viejo](https://open.spotify.com/track/2SvmdNjEnZIg8ObqDuqRxA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4GQpRmGfSE3H6m49TTflwC) | 3:23 | 2023-06-16 |  |
+| [Ésta Es Pa´ Mi Viejo](https://open.spotify.com/track/2SvmdNjEnZIg8ObqDuqRxA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4GQpRmGfSE3H6m49TTflwC) | 3:23 | 2023-06-16 | 2024-01-05 |
+| [Ésta Es Pa´ Mi Viejo](https://open.spotify.com/track/3rC52DzXOSFLi6QtCHhruq) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4az9RCoS0n0tBFIMo4svAI) | 3:23 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

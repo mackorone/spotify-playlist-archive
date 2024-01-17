@@ -4187,6 +4187,28 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2ALJwbBEAUpuqg7JFuhtlv"
+      },
+      "artists": [
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "SOUNDR",
+          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264827,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/094tCgchiXY2srShd51TvA"
+    },
+    {
+      "album": {
         "name": "Haircut",
         "url": "https://open.spotify.com/album/6MpnYFXkjVgmzpDwlvofou"
       },

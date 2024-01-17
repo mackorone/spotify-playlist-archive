@@ -1,110 +1,1045 @@
 {
-  "2023-09-16": 35378,
-  "2023-09-17": 35378,
-  "2023-09-18": 35378,
-  "2023-09-19": 35631,
-  "2023-09-20": 35631,
-  "2023-09-21": 35631,
-  "2023-09-22": 35895,
-  "2023-09-23": 35895,
-  "2023-09-24": 35895,
-  "2023-09-25": 35895,
-  "2023-09-26": 36221,
-  "2023-09-27": 36221,
-  "2023-09-28": 36221,
-  "2023-09-29": 36221,
-  "2023-09-30": 36221,
-  "2023-10-01": 36221,
-  "2023-10-02": 36221,
-  "2023-10-03": 36221,
-  "2023-10-04": 36221,
-  "2023-10-05": 36221,
-  "2023-10-06": 36221,
-  "2023-10-07": 36221,
-  "2023-10-08": 36221,
-  "2023-10-09": 36221,
-  "2023-10-10": 36221,
-  "2023-10-11": 37725,
-  "2023-10-12": 37725,
-  "2023-10-13": 37725,
-  "2023-10-14": 37725,
-  "2023-10-15": 37725,
-  "2023-10-16": 37725,
-  "2023-10-17": 37725,
-  "2023-10-18": 37725,
-  "2023-10-19": 37725,
-  "2023-10-20": 37725,
-  "2023-10-21": 37725,
-  "2023-10-22": 37725,
-  "2023-10-23": 37725,
-  "2023-10-24": 37725,
-  "2023-10-25": 37725,
-  "2023-10-26": 37725,
-  "2023-10-27": 37725,
-  "2023-10-28": 37725,
-  "2023-10-29": 37725,
-  "2023-10-30": 37725,
-  "2023-10-31": 37725,
-  "2023-11-01": 37725,
-  "2023-11-02": 37725,
-  "2023-11-03": 37725,
-  "2023-11-04": 37725,
-  "2023-11-05": 37725,
-  "2023-11-06": 37725,
-  "2023-11-07": 37725,
-  "2023-11-08": 37725,
-  "2023-11-09": 37725,
-  "2023-11-10": 37725,
-  "2023-11-11": 41569,
-  "2023-11-12": 41569,
-  "2023-11-13": 41569,
-  "2023-11-14": 41569,
-  "2023-11-15": 41569,
-  "2023-11-16": 41569,
-  "2023-11-17": 41569,
-  "2023-11-18": 41569,
-  "2023-11-19": 41569,
-  "2023-11-20": 41569,
-  "2023-11-21": 41569,
-  "2023-11-22": 41569,
-  "2023-11-23": 41569,
-  "2023-11-24": 41569,
-  "2023-11-25": 41569,
-  "2023-11-26": 41569,
-  "2023-11-27": 41569,
-  "2023-11-28": 41569,
-  "2023-11-29": 41569,
-  "2023-11-30": 41569,
-  "2023-12-01": 41569,
-  "2023-12-02": 41569,
-  "2023-12-03": 41569,
-  "2023-12-04": 41569,
-  "2023-12-05": 41569,
-  "2023-12-06": 41569,
-  "2023-12-07": 41569,
-  "2023-12-08": 41569,
-  "2023-12-09": 41569,
-  "2023-12-10": 41569,
-  "2023-12-11": 41569,
-  "2023-12-12": 41569,
-  "2023-12-13": 41569,
-  "2023-12-14": 44960,
-  "2023-12-15": 45019,
-  "2023-12-16": 45086,
-  "2023-12-17": 45167,
-  "2023-12-18": 45261,
-  "2023-12-19": 45319,
-  "2023-12-20": 45383,
-  "2023-12-21": 45455,
-  "2023-12-22": 45538,
-  "2023-12-23": 45679,
-  "2023-12-24": 45739,
-  "2023-12-25": 45805,
-  "2023-12-26": 45850,
-  "2023-12-27": 45921,
-  "2023-12-30": 46210,
-  "2023-12-31": 46325,
-  "2024-01-01": 46409,
-  "2024-01-02": 46622,
-  "2024-01-03": 46724
+  "2024-01-17": 47925,
+  "date_first_scraped": "2023-09-16",
+  "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
+  "name": "This Is Lainey Wilson",
+  "tracks": [
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 206693,
+      "name": "Atta Girl",
+      "url": "https://open.spotify.com/track/3HIuFNCjr1hKnyzCixYfiC"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Atta Girl",
+      "url": "https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi"
+    },
+    {
+      "album": {
+        "name": "Beer Song (feat. Lainey Wilson, Chase Rice & Granger Smith)",
+        "url": "https://open.spotify.com/album/0ad8YULS4johbf2s4lw15n"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        },
+        {
+          "name": "Granger Smith",
+          "url": "https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211995,
+      "name": "Beer Song (feat. Lainey Wilson, Chase Rice & Granger Smith)",
+      "url": "https://open.spotify.com/track/2knMiXaeKybZGQtWUd8TJB"
+    },
+    {
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177727,
+      "name": "Breakin' Your Heart",
+      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
+    },
+    {
+      "album": {
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "Caught on Fire",
+      "url": "https://open.spotify.com/track/4MzYrhAYNFWr5PsOlp193B"
+    },
+    {
+      "album": {
+        "name": "Comin' To Your City (ESPN College Gameday)",
+        "url": "https://open.spotify.com/album/0youbMUrUsYtJdNe6v9UdW"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        },
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103111,
+      "name": "Comin' To Your City - ESPN College Gameday",
+      "url": "https://open.spotify.com/track/39DjHTMaFuDAMdXtq09fNN"
+    },
+    {
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Dirty Looks",
+      "url": "https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6"
+    },
+    {
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 194666,
+      "name": "Dirty Looks",
+      "url": "https://open.spotify.com/track/612qCFbMeFIeDupbFY38Ve"
+    },
+    {
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204709,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
+    },
+    {
+      "album": {
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262720,
+      "name": "Gravel",
+      "url": "https://open.spotify.com/track/2W08wJxwvaM5k9bjV2cEEI"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "Heart Like A Truck",
+      "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 199040,
+      "name": "Heart Like A Truck",
+      "url": "https://open.spotify.com/track/5UNMyX2AzF8X90wAYAxG6Q"
+    },
+    {
+      "album": {
+        "name": "High on Somethin'",
+        "url": "https://open.spotify.com/album/4EzwszYds42Co3GAi54Wgc"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184675,
+      "name": "High on Somethin'",
+      "url": "https://open.spotify.com/track/3IzJkRiZZqVLZ5hMEfuElB"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
+    },
+    {
+      "album": {
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274320,
+      "name": "I Make Myself",
+      "url": "https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs"
+    },
+    {
+      "album": {
+        "name": "Enlisted",
+        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249481,
+      "name": "International Harvester",
+      "url": "https://open.spotify.com/track/1IFHSmd00HhsINmxvjXtLW"
+    },
+    {
+      "album": {
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235973,
+      "name": "Let Me Be Your Jesus",
+      "url": "https://open.spotify.com/track/1S4gixTGy0wyXv4AB0xmva"
+    },
+    {
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174891,
+      "name": "Microphone",
+      "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Middle Finger - Spotify Singles",
+      "url": "https://open.spotify.com/track/0aioEeNyDjBwl7yb0xH0Rg"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 156160,
+      "name": "Middle Finger - Spotify Singles",
+      "url": "https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9"
+    },
+    {
+      "album": {
+        "name": "More Than Friends (feat. Lainey Wilson)",
+        "url": "https://open.spotify.com/album/0aJOXNP0MBlCLrhJF61Igw"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "More Than Friends (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/0ux8xs7l9rh1Hr8SgExguM"
+    },
+    {
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Never Say Never (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
+    },
+    {
+      "album": {
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
+    },
+    {
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 239013,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/1xjSBl8RQlFG3dzywK2l9j"
+    },
+    {
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239013,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "Save Me (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn"
+    },
+    {
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 201653,
+      "name": "Sayin' What I'm Thinkin'",
+      "url": "https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79"
+    },
+    {
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 168120,
+      "name": "Smell Like Smoke",
+      "url": "https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168120,
+      "name": "Smell Like Smoke",
+      "url": "https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ"
+    },
+    {
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/4QJhHUCcaCPS0hO6XYFpHO"
+    },
+    {
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
+    },
+    {
+      "album": {
+        "name": "Unlocked",
+        "url": "https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179811,
+      "name": "Thicc As Thieves (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd"
+    },
+    {
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Things A Man Oughta Know",
+      "url": "https://open.spotify.com/track/3S0sk6DSTgesXsUSAEHNr5"
+    },
+    {
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 203373,
+      "name": "Things a Man Oughta Know",
+      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
+    },
+    {
+      "album": {
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "Tougher",
+      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
+    },
+    {
+      "album": {
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "Two Sides of Bad",
+      "url": "https://open.spotify.com/track/4LyY1jvrnKnIWl3uv94qd1"
+    },
+    {
+      "album": {
+        "name": "Two Story House",
+        "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 199986,
+      "name": "Two Story House",
+      "url": "https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2"
+    },
+    {
+      "album": {
+        "name": "Two Story House",
+        "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199986,
+      "name": "Two Story House",
+      "url": "https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g"
+    },
+    {
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277659,
+      "name": "wait in the truck (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/49GYvCcvMQq1SY3f7Y347h"
+    },
+    {
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175675,
+      "name": "Waste of Good Whiskey",
+      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8"
+    },
+    {
+      "album": {
+        "name": "Watermelon Moonshine",
+        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 208546,
+      "name": "Weak-End",
+      "url": "https://open.spotify.com/track/1WTWurcIy9hRnzJiJp3ZtI"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Weak-End",
+      "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 250880,
+      "name": "Wildflowers and Wild Horses",
+      "url": "https://open.spotify.com/track/4SCIqKkTic7hUHsL201OY0"
+    },
+    {
+      "album": {
+        "name": "Wildflowers and Wild Horses",
+        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216573,
+      "name": "Wildflowers and Wild Horses (Single Version)",
+      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
+    },
+    {
+      "album": {
+        "name": "Workin' Overtime",
+        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197685,
+      "name": "Workin' Overtime",
+      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
+    },
+    {
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 140413,
+      "name": "WWDD",
+      "url": "https://open.spotify.com/track/4cR1F7nczN6vuGAzr52zTE"
+    },
+    {
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "WWDD",
+      "url": "https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl"
+    },
+    {
+      "album": {
+        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        },
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256217,
+      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk"
 }

@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 222062,
       "name": "Blue Lips",
       "url": "https://open.spotify.com/track/6RG8y3WSNUE3DcIC3eQCXO"
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "It's All You",
+        "url": "https://open.spotify.com/album/2UOEEPeGKrKIMzHJDLfVKT"
+      },
+      "artists": [
+        {
+          "name": "Kennen",
+          "url": "https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103750,
+      "name": "It's All You",
+      "url": "https://open.spotify.com/track/3kE62aRIdnW6Hd9fvXLgA8"
+    },
+    {
+      "album": {
         "name": "(i would have followed you)",
         "url": "https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I"
       },
@@ -842,6 +860,24 @@
       "duration_ms": 187130,
       "name": "Picture You",
       "url": "https://open.spotify.com/track/2Pspo5BWPcTnMHMstLFRHV"
+    },
+    {
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149485,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj"
     },
     {
       "album": {
@@ -1170,7 +1206,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 183967,
       "name": "You\u2019re My World",
       "url": "https://open.spotify.com/track/5ZnopBrM4ANzVmiLPohvDC"

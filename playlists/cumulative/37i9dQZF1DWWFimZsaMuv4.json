@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Cloud Brown Sound 2",
+        "url": "https://open.spotify.com/album/5l5buwn4tYLW6CXENDODgB"
+      },
+      "artists": [
+        {
+          "name": "Tearless Night",
+          "url": "https://open.spotify.com/artist/4osg1jFYxWRpGPqMCl8fDX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "Aircraft Brown Cabin Noise",
+      "url": "https://open.spotify.com/track/0xutwj8NALTPasKl5ElRhW"
+    },
+    {
+      "album": {
         "name": "Brown Noise Nap Time",
         "url": "https://open.spotify.com/album/22OZbDOiL4G3I4UYNGeT4F"
       },
@@ -182,6 +200,142 @@
       "duration_ms": 222299,
       "name": "Airplane Brown Noise",
       "url": "https://open.spotify.com/track/4uCkmEUbPytlQH08l22wEL"
+    },
+    {
+      "album": {
+        "name": "White Noise Sound Effects",
+        "url": "https://open.spotify.com/album/6rDI7RO32ONYXGZap8tOSM"
+      },
+      "artists": [
+        {
+          "name": "Finnolia Sounds for Sleep",
+          "url": "https://open.spotify.com/artist/5E1AZS0FeeVGQMShx4apiS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Airplane Cabin (Large Aircraft)",
+      "url": "https://open.spotify.com/track/2XmWKhT0Js1AC0nYR7UNWa"
+    },
+    {
+      "album": {
+        "name": "!!!!\" 9 Hours White Noise \"!!!!",
+        "url": "https://open.spotify.com/album/3Sx97RtAPsECnSns4EL2B4"
+      },
+      "artists": [
+        {
+          "name": "White Noise Therapy",
+          "url": "https://open.spotify.com/artist/1O7bUkov2v71fDS60GOfMD"
+        },
+        {
+          "name": "Baby Sleep",
+          "url": "https://open.spotify.com/artist/1UD3SXwenV5Zmrdl7KKfqW"
+        },
+        {
+          "name": "White Noise Baby Sleep",
+          "url": "https://open.spotify.com/artist/4W12lEvVl5wectUtRNrvDh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130389,
+      "name": "Airplane Cabin at 1kHz",
+      "url": "https://open.spotify.com/track/5PeOFPreKxrodGpyUjm6n4"
+    },
+    {
+      "album": {
+        "name": "Airplane Cabin Noise For Sleeping (Loopable)",
+        "url": "https://open.spotify.com/album/3t5firyd0LCFQsVKDo8qpK"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Airplane Cabin Azure Sky Soft Winds (Loopable)",
+      "url": "https://open.spotify.com/track/3NLoawUamL5tfXJqbTe7bu"
+    },
+    {
+      "album": {
+        "name": "Noise Cancelling For Work And Study",
+        "url": "https://open.spotify.com/album/5PrEqZQl9D4q50AFBeAyLJ"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Study Focus Help",
+          "url": "https://open.spotify.com/artist/2eWsULF010CY3fWemRf22i"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142221,
+      "name": "Airplane Cabin Relaxing Noise for Studying (Loopable no fade)",
+      "url": "https://open.spotify.com/track/0VAh6rDX9IRrrc9OB82lFE"
+    },
+    {
+      "album": {
+        "name": "White Noise For Study",
+        "url": "https://open.spotify.com/album/1I9fdXBGNUIe70ainOtQAz"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Study Focus Help",
+          "url": "https://open.spotify.com/artist/2eWsULF010CY3fWemRf22i"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142221,
+      "name": "Airplane Cabin Relaxing Noise for Studying (Loopable no fade)",
+      "url": "https://open.spotify.com/track/3PZvfC6Xis9QCBkQn3HVXd"
+    },
+    {
+      "album": {
+        "name": "Loopable White Noise for Yoga & Meditation, Relaxing, and Reducing Anxiety, Vol. 1",
+        "url": "https://open.spotify.com/album/17WbMRIBX7euk4F7f6hVhE"
+      },
+      "artists": [
+        {
+          "name": "Zen Sounds",
+          "url": "https://open.spotify.com/artist/72wvzdZYpypsBmGaGr3vGM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Airplane Cabin: No Layover (Loopable)",
+      "url": "https://open.spotify.com/track/1JPSLydKppadHbWCed2sLh"
     },
     {
       "album": {
@@ -254,6 +408,28 @@
       "duration_ms": 200000,
       "name": "Airplane Tranquility - White Noise",
       "url": "https://open.spotify.com/track/3cVcPlIScyQQYJUe6GhiN7"
+    },
+    {
+      "album": {
+        "name": "1 Hour of Airplane White Noise",
+        "url": "https://open.spotify.com/album/2CZodCLPiQA0sYgdX5BAue"
+      },
+      "artists": [
+        {
+          "name": "White Noise Atmospheres",
+          "url": "https://open.spotify.com/artist/2MMporXXsUcHOMx6Wd01rI"
+        },
+        {
+          "name": "Sleep Sound Library",
+          "url": "https://open.spotify.com/artist/2HUwcmtXI5ee5Zo3nnThlV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Airplane White Noise for Sleep",
+      "url": "https://open.spotify.com/track/1fobiHP5NHEzJObb43Whz9"
     },
     {
       "album": {
@@ -952,7 +1128,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 122000,
       "name": "Enveloppe mon esprit",
       "url": "https://open.spotify.com/track/4xS7sINj4WKMF9NllK0a0U"
@@ -970,7 +1146,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 140000,
       "name": "Et trouve la s\u00e9r\u00e9nit\u00e9",
       "url": "https://open.spotify.com/track/2g6iFehgg1k8CZP4vEKTJn"
@@ -2536,7 +2712,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 186082,
       "name": "Sleepy S Curve",
       "url": "https://open.spotify.com/track/1HOQdGI04xCzELCtpTmIEN"
@@ -2846,6 +3022,28 @@
       "duration_ms": 169644,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/6CbPp21JO1ZFFVkP9vism2"
+    },
+    {
+      "album": {
+        "name": "Empty Airplane Cabin",
+        "url": "https://open.spotify.com/album/7qWTF20bgUlibgtWNIcGLE"
+      },
+      "artists": [
+        {
+          "name": "White Noise Atmospheres",
+          "url": "https://open.spotify.com/artist/2MMporXXsUcHOMx6Wd01rI"
+        },
+        {
+          "name": "White Noise Therapy",
+          "url": "https://open.spotify.com/artist/1O7bUkov2v71fDS60GOfMD"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Transit",
+      "url": "https://open.spotify.com/track/7qzDBgkJKHIDw4pH8RtxQx"
     },
     {
       "album": {

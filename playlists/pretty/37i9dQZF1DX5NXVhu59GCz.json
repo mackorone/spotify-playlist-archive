@@ -1,6 +1,6 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 118172,
+  "num_followers": 116825,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Distortions",
-        "url": "https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF"
-      },
-      "artists": [
-        {
-          "name": "The Litter",
-          "url": "https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm"
-        }
-      ],
-      "duration_ms": 272493,
-      "name": "Codine",
-      "url": "https://open.spotify.com/track/77508QPMrHixHl0ORGZWTA"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 266000,
       "name": "Death Sound",
       "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Distortions",
+        "url": "https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF"
+      },
+      "artists": [
+        {
+          "name": "The Litter",
+          "url": "https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm"
+        }
+      ],
+      "duration_ms": 272493,
+      "name": "Codine",
+      "url": "https://open.spotify.com/track/77508QPMrHixHl0ORGZWTA"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -283,6 +283,22 @@
       "duration_ms": 137346,
       "name": "We Ain't Got Nothin' yet",
       "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Inkpot & Attila",
+        "url": "https://open.spotify.com/album/5liqryZxZvie3pfCR21liP"
+      },
+      "artists": [
+        {
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Inkpot",
+      "url": "https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -317,22 +333,6 @@
       "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Inkpot & Attila",
-        "url": "https://open.spotify.com/album/5liqryZxZvie3pfCR21liP"
-      },
-      "artists": [
-        {
-          "name": "Shocking Blue",
-          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Inkpot",
-      "url": "https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n"
-    },
-    {
       "added_at": "2022-03-28 19:25:04",
       "album": {
         "name": "Halfbreed",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H"
     },
     {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
-        "name": "The Legendary Goldstar Album & Golden Glass",
-        "url": "https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf"
-      },
-      "artists": [
-        {
-          "name": "The Misunderstood",
-          "url": "https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Never Had A Girl",
-      "url": "https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU"
-    },
-    {
       "added_at": "2018-02-28 19:55:41",
       "album": {
         "name": "Mk. II (Remastered)",
@@ -383,6 +367,22 @@
       "duration_ms": 295213,
       "name": "Contemporary Chick Con Song - Remastered",
       "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "The Legendary Goldstar Album & Golden Glass",
+        "url": "https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf"
+      },
+      "artists": [
+        {
+          "name": "The Misunderstood",
+          "url": "https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "Never Had A Girl",
+      "url": "https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -403,6 +403,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "Power Plant",
+        "url": "https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb"
+      },
+      "artists": [
+        {
+          "name": "The Golden Dawn",
+          "url": "https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Starvation",
+      "url": "https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "Grace Slick & The Great Society",
         "url": "https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 392000,
       "name": "Sally Go 'Round the Roses",
       "url": "https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Power Plant",
-        "url": "https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb"
-      },
-      "artists": [
-        {
-          "name": "The Golden Dawn",
-          "url": "https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Starvation",
-      "url": "https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/1yC4zXWJuywuVp5Hm5nobQ"
     },
     {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
-        "name": "Ragamuffin Man / A \u2018B\u2019 Side",
-        "url": "https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 313480,
-      "name": "A \"B\" Side",
-      "url": "https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI"
-    },
-    {
       "added_at": "2018-02-28 19:55:41",
       "album": {
         "name": "Incense And Peppermints",
@@ -499,6 +483,22 @@
       "duration_ms": 505266,
       "name": "The World's On Fire",
       "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Ragamuffin Man / A \u2018B\u2019 Side",
+        "url": "https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 313480,
+      "name": "A \"B\" Side",
+      "url": "https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -743,22 +743,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "The Studio Outtakes",
-        "url": "https://open.spotify.com/album/0rXM1CIG0xeDoHABrXHACR"
-      },
-      "artists": [
-        {
-          "name": "Frumious Bandersnatch",
-          "url": "https://open.spotify.com/artist/6oGriTn7yPNEco3WkbNqS9"
-        }
-      ],
-      "duration_ms": 582906,
-      "name": "Cheshire",
-      "url": "https://open.spotify.com/track/4KWLEtCcc13YDp6YogeVMB"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Ptoof!",
         "url": "https://open.spotify.com/album/3xXRXr2O9mesGZFm5yvclT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 238320,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/55rOMTH7SKUpHtj7qnAhdB"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "The Studio Outtakes",
+        "url": "https://open.spotify.com/album/0rXM1CIG0xeDoHABrXHACR"
+      },
+      "artists": [
+        {
+          "name": "Frumious Bandersnatch",
+          "url": "https://open.spotify.com/artist/6oGriTn7yPNEco3WkbNqS9"
+        }
+      ],
+      "duration_ms": 582906,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/4KWLEtCcc13YDp6YogeVMB"
     },
     {
       "added_at": "2018-02-28 19:55:41",

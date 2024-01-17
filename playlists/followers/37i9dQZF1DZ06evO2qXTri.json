@@ -1,474 +1,2323 @@
 {
-  "2022-09-15": 5715,
-  "2022-09-16": 5762,
-  "2022-09-17": 5809,
-  "2022-09-18": 5851,
-  "2022-09-19": 5923,
-  "2022-09-20": 5976,
-  "2022-09-21": 6027,
-  "2022-09-22": 6078,
-  "2022-09-23": 6126,
-  "2022-09-24": 6126,
-  "2022-09-25": 6234,
-  "2022-09-26": 6307,
-  "2022-09-27": 6351,
-  "2022-09-28": 6394,
-  "2022-09-29": 6435,
-  "2022-09-30": 6477,
-  "2022-10-01": 6528,
-  "2022-10-02": 6563,
-  "2022-10-03": 6616,
-  "2022-10-04": 6666,
-  "2022-10-05": 6711,
-  "2022-10-06": 6757,
-  "2022-10-07": 6808,
-  "2022-10-08": 6854,
-  "2022-10-09": 6973,
-  "2022-10-10": 6991,
-  "2022-10-11": 7035,
-  "2022-10-12": 7082,
-  "2022-10-13": 7132,
-  "2022-10-14": 7183,
-  "2022-10-15": 7238,
-  "2022-10-16": 7283,
-  "2022-10-17": 7346,
-  "2022-10-18": 7401,
-  "2022-10-19": 7449,
-  "2022-10-20": 7494,
-  "2022-10-21": 7536,
-  "2022-10-22": 7581,
-  "2022-10-23": 7630,
-  "2022-10-24": 7692,
-  "2022-10-25": 7748,
-  "2022-10-26": 7786,
-  "2022-10-27": 7830,
-  "2022-10-28": 7867,
-  "2022-10-29": 7906,
-  "2022-10-30": 7953,
-  "2022-10-31": 8005,
-  "2022-11-01": 8039,
-  "2022-11-02": 8076,
-  "2022-11-03": 8130,
-  "2022-11-04": 8163,
-  "2022-11-05": 8212,
-  "2022-11-06": 8253,
-  "2022-11-07": 8305,
-  "2022-11-08": 8362,
-  "2022-11-09": 8409,
-  "2022-11-10": 8454,
-  "2022-11-11": 8481,
-  "2022-11-12": 8540,
-  "2022-11-13": 8573,
-  "2022-11-14": 8625,
-  "2022-11-15": 8673,
-  "2022-11-16": 8713,
-  "2022-11-17": 8749,
-  "2022-11-18": 8763,
-  "2022-11-19": 8775,
-  "2022-11-20": 8810,
-  "2022-11-21": 8850,
-  "2022-11-22": 8909,
-  "2022-11-23": 8954,
-  "2022-11-24": 9012,
-  "2022-11-25": 9101,
-  "2022-11-26": 9147,
-  "2022-11-27": 9185,
-  "2022-11-28": 9236,
-  "2022-11-29": 9265,
-  "2022-11-30": 9294,
-  "2022-12-01": 9327,
-  "2022-12-02": 9338,
-  "2022-12-03": 9395,
-  "2022-12-04": 9441,
-  "2022-12-05": 9499,
-  "2022-12-06": 9537,
-  "2022-12-07": 9571,
-  "2022-12-08": 9608,
-  "2022-12-09": 9647,
-  "2022-12-10": 9688,
-  "2022-12-11": 9722,
-  "2022-12-12": 9787,
-  "2022-12-13": 9818,
-  "2022-12-14": 9853,
-  "2022-12-15": 9888,
-  "2022-12-16": 9925,
-  "2022-12-17": 9963,
-  "2022-12-18": 9997,
-  "2022-12-19": 10054,
-  "2022-12-20": 10117,
-  "2022-12-21": 10117,
-  "2022-12-22": 10154,
-  "2022-12-24": 10228,
-  "2022-12-25": 10270,
-  "2022-12-26": 10313,
-  "2022-12-27": 10334,
-  "2022-12-28": 10379,
-  "2022-12-29": 10421,
-  "2022-12-30": 10465,
-  "2022-12-31": 10503,
-  "2023-01-01": 10549,
-  "2023-01-02": 10609,
-  "2023-01-03": 10665,
-  "2023-01-04": 10711,
-  "2023-01-05": 10747,
-  "2023-01-06": 10796,
-  "2023-01-07": 10859,
-  "2023-01-08": 10870,
-  "2023-01-09": 10928,
-  "2023-01-10": 10981,
-  "2023-01-11": 11022,
-  "2023-01-12": 11061,
-  "2023-01-13": 11093,
-  "2023-01-14": 11185,
-  "2023-01-15": 11198,
-  "2023-01-16": 11254,
-  "2023-01-17": 11303,
-  "2023-01-18": 11352,
-  "2023-01-19": 11403,
-  "2023-01-20": 11456,
-  "2023-01-21": 11528,
-  "2023-01-22": 11567,
-  "2023-01-23": 11645,
-  "2023-01-24": 11692,
-  "2023-01-25": 11728,
-  "2023-01-26": 11779,
-  "2023-01-27": 11824,
-  "2023-01-28": 11864,
-  "2023-01-29": 11913,
-  "2023-01-30": 11973,
-  "2023-01-31": 11973,
-  "2023-02-01": 12061,
-  "2023-02-02": 12107,
-  "2023-02-03": 12146,
-  "2023-02-04": 12182,
-  "2023-02-05": 12212,
-  "2023-02-06": 12273,
-  "2023-02-07": 12313,
-  "2023-02-08": 12400,
-  "2023-02-09": 12400,
-  "2023-02-10": 12452,
-  "2023-02-11": 12501,
-  "2023-02-12": 12606,
-  "2023-02-13": 12648,
-  "2023-02-14": 12648,
-  "2023-02-15": 12689,
-  "2023-02-16": 12746,
-  "2023-02-17": 12790,
-  "2023-02-18": 12884,
-  "2023-02-19": 12894,
-  "2023-02-20": 12947,
-  "2023-02-21": 13002,
-  "2023-02-22": 13050,
-  "2023-02-23": 13104,
-  "2023-02-24": 13149,
-  "2023-02-25": 13203,
-  "2023-02-26": 13245,
-  "2023-02-27": 13363,
-  "2023-02-28": 13363,
-  "2023-03-01": 13396,
-  "2023-03-02": 13438,
-  "2023-03-03": 13485,
-  "2023-03-04": 13539,
-  "2023-03-05": 13608,
-  "2023-03-06": 13608,
-  "2023-03-07": 13651,
-  "2023-03-08": 13692,
-  "2023-03-09": 13728,
-  "2023-03-10": 13767,
-  "2023-03-11": 13807,
-  "2023-03-12": 13843,
-  "2023-03-13": 13889,
-  "2023-03-14": 13924,
-  "2023-03-15": 13953,
-  "2023-03-16": 13953,
-  "2023-03-17": 13953,
-  "2023-03-18": 14061,
-  "2023-03-19": 14061,
-  "2023-03-20": 14147,
-  "2023-03-21": 14198,
-  "2023-03-22": 14244,
-  "2023-03-23": 14293,
-  "2023-03-24": 14293,
-  "2023-03-25": 14379,
-  "2023-03-26": 14410,
-  "2023-03-27": 14458,
-  "2023-03-28": 14489,
-  "2023-03-29": 14531,
-  "2023-03-30": 14597,
-  "2023-03-31": 14597,
-  "2023-04-01": 14633,
-  "2023-04-02": 14680,
-  "2023-04-03": 14746,
-  "2023-04-04": 14788,
-  "2023-04-05": 14828,
-  "2023-04-06": 14867,
-  "2023-04-07": 14907,
-  "2023-04-09": 14991,
-  "2023-04-10": 15069,
-  "2023-04-11": 15159,
-  "2023-04-12": 15159,
-  "2023-04-13": 15211,
-  "2023-04-14": 15256,
-  "2023-04-15": 15290,
-  "2023-04-16": 15333,
-  "2023-04-17": 15406,
-  "2023-04-18": 15456,
-  "2023-04-19": 15505,
-  "2023-04-20": 15547,
-  "2023-04-21": 15595,
-  "2023-04-22": 15631,
-  "2023-04-23": 15679,
-  "2023-04-24": 15734,
-  "2023-04-25": 15776,
-  "2023-04-26": 15821,
-  "2023-04-27": 15852,
-  "2023-04-28": 15887,
-  "2023-04-29": 15932,
-  "2023-04-30": 15975,
-  "2023-05-01": 16016,
-  "2023-05-02": 16049,
-  "2023-05-03": 16075,
-  "2023-05-04": 16115,
-  "2023-05-05": 16144,
-  "2023-05-06": 16184,
-  "2023-05-07": 16222,
-  "2023-05-08": 16272,
-  "2023-05-09": 16317,
-  "2023-05-10": 16350,
-  "2023-05-11": 16391,
-  "2023-05-12": 16443,
-  "2023-05-13": 16483,
-  "2023-05-14": 16528,
-  "2023-05-15": 16574,
-  "2023-05-16": 16617,
-  "2023-05-17": 16656,
-  "2023-05-18": 16692,
-  "2023-05-19": 16758,
-  "2023-05-20": 16871,
-  "2023-05-21": 16871,
-  "2023-05-22": 16871,
-  "2023-05-23": 16982,
-  "2023-05-24": 17074,
-  "2023-05-25": 17085,
-  "2023-05-26": 17113,
-  "2023-05-27": 17150,
-  "2023-05-28": 17204,
-  "2023-05-29": 17204,
-  "2023-05-30": 17294,
-  "2023-05-31": 17328,
-  "2023-06-01": 17375,
-  "2023-06-02": 17425,
-  "2023-06-03": 17469,
-  "2023-06-04": 17508,
-  "2023-06-05": 17562,
-  "2023-06-06": 17603,
-  "2023-06-07": 17643,
-  "2023-06-08": 17693,
-  "2023-06-09": 17737,
-  "2023-06-10": 17775,
-  "2023-06-11": 17804,
-  "2023-06-12": 17878,
-  "2023-06-13": 17896,
-  "2023-06-14": 17935,
-  "2023-06-15": 17960,
-  "2023-06-16": 17999,
-  "2023-06-17": 18032,
-  "2023-06-18": 18069,
-  "2023-06-19": 18110,
-  "2023-06-20": 18146,
-  "2023-06-21": 18193,
-  "2023-06-22": 18237,
-  "2023-06-23": 18289,
-  "2023-06-24": 18323,
-  "2023-06-25": 18364,
-  "2023-06-26": 18399,
-  "2023-06-27": 18447,
-  "2023-06-28": 18488,
-  "2023-06-29": 18526,
-  "2023-06-30": 18558,
-  "2023-07-01": 18629,
-  "2023-07-02": 18629,
-  "2023-07-03": 18683,
-  "2023-07-04": 18711,
-  "2023-07-05": 18753,
-  "2023-07-06": 18808,
-  "2023-07-07": 18808,
-  "2023-07-08": 18808,
-  "2023-07-09": 18875,
-  "2023-07-10": 18919,
-  "2023-07-11": 18958,
-  "2023-07-12": 18991,
-  "2023-07-13": 19035,
-  "2023-07-14": 19077,
-  "2023-07-15": 19110,
-  "2023-07-16": 19149,
-  "2023-07-17": 19185,
-  "2023-07-18": 19221,
-  "2023-07-19": 19247,
-  "2023-07-20": 19285,
-  "2023-07-21": 19324,
-  "2023-07-22": 19350,
-  "2023-07-23": 19399,
-  "2023-07-24": 19463,
-  "2023-07-25": 19490,
-  "2023-07-26": 19534,
-  "2023-07-27": 19576,
-  "2023-07-28": 19618,
-  "2023-07-29": 19640,
-  "2023-07-30": 19684,
-  "2023-07-31": 19727,
-  "2023-08-01": 19746,
-  "2023-08-02": 19775,
-  "2023-08-03": 19804,
-  "2023-08-04": 19840,
-  "2023-08-05": 19866,
-  "2023-08-06": 19941,
-  "2023-08-07": 19941,
-  "2023-08-08": 19973,
-  "2023-08-09": 20007,
-  "2023-08-10": 20039,
-  "2023-08-11": 20077,
-  "2023-08-12": 20077,
-  "2023-08-13": 20077,
-  "2023-08-14": 20172,
-  "2023-08-15": 20172,
-  "2023-08-16": 20172,
-  "2023-08-17": 20172,
-  "2023-08-18": 20172,
-  "2023-08-19": 20172,
-  "2023-08-20": 20393,
-  "2023-08-21": 20393,
-  "2023-08-22": 20457,
-  "2023-08-23": 20457,
-  "2023-08-24": 20457,
-  "2023-08-25": 20457,
-  "2023-08-26": 20579,
-  "2023-08-27": 20579,
-  "2023-08-28": 20670,
-  "2023-08-29": 20670,
-  "2023-08-30": 20670,
-  "2023-08-31": 20751,
-  "2023-09-01": 20789,
-  "2023-09-02": 20789,
-  "2023-09-03": 20789,
-  "2023-09-04": 20789,
-  "2023-09-05": 20789,
-  "2023-09-06": 20789,
-  "2023-09-07": 20789,
-  "2023-09-08": 20789,
-  "2023-09-09": 20789,
-  "2023-09-10": 20789,
-  "2023-09-11": 20789,
-  "2023-09-12": 20789,
-  "2023-09-13": 20789,
-  "2023-09-14": 20789,
-  "2023-09-15": 20789,
-  "2023-09-16": 21402,
-  "2023-09-17": 21402,
-  "2023-09-18": 21402,
-  "2023-09-19": 21543,
-  "2023-09-20": 21543,
-  "2023-09-21": 21543,
-  "2023-09-22": 21642,
-  "2023-09-23": 21642,
-  "2023-09-24": 21642,
-  "2023-09-25": 21642,
-  "2023-09-26": 21829,
-  "2023-09-27": 21829,
-  "2023-09-28": 21829,
-  "2023-09-29": 21829,
-  "2023-09-30": 21829,
-  "2023-10-01": 21829,
-  "2023-10-02": 21829,
-  "2023-10-03": 21829,
-  "2023-10-04": 21829,
-  "2023-10-05": 21829,
-  "2023-10-06": 21829,
-  "2023-10-07": 21829,
-  "2023-10-08": 21829,
-  "2023-10-09": 21829,
-  "2023-10-10": 21829,
-  "2023-10-11": 22413,
-  "2023-10-12": 22413,
-  "2023-10-13": 22413,
-  "2023-10-14": 22413,
-  "2023-10-15": 22413,
-  "2023-10-16": 22413,
-  "2023-10-17": 22413,
-  "2023-10-18": 22413,
-  "2023-10-19": 22413,
-  "2023-10-20": 22413,
-  "2023-10-21": 22413,
-  "2023-10-22": 22413,
-  "2023-10-23": 22413,
-  "2023-10-24": 22413,
-  "2023-10-25": 22413,
-  "2023-10-26": 22413,
-  "2023-10-27": 22413,
-  "2023-10-28": 22413,
-  "2023-10-29": 22413,
-  "2023-10-30": 22413,
-  "2023-10-31": 22413,
-  "2023-11-01": 22413,
-  "2023-11-02": 22413,
-  "2023-11-03": 22413,
-  "2023-11-04": 22413,
-  "2023-11-05": 22413,
-  "2023-11-06": 22413,
-  "2023-11-07": 22413,
-  "2023-11-08": 22413,
-  "2023-11-09": 22413,
-  "2023-11-10": 22413,
-  "2023-11-11": 23426,
-  "2023-11-12": 23426,
-  "2023-11-13": 23426,
-  "2023-11-14": 23426,
-  "2023-11-15": 23426,
-  "2023-11-16": 23426,
-  "2023-11-17": 23426,
-  "2023-11-18": 23426,
-  "2023-11-19": 23426,
-  "2023-11-20": 23426,
-  "2023-11-21": 23426,
-  "2023-11-22": 23426,
-  "2023-11-23": 23426,
-  "2023-11-24": 23426,
-  "2023-11-25": 23426,
-  "2023-11-26": 23426,
-  "2023-11-27": 23426,
-  "2023-11-28": 23426,
-  "2023-11-29": 23426,
-  "2023-11-30": 23426,
-  "2023-12-01": 23426,
-  "2023-12-02": 23426,
-  "2023-12-03": 23426,
-  "2023-12-04": 23426,
-  "2023-12-05": 23426,
-  "2023-12-06": 23426,
-  "2023-12-07": 23426,
-  "2023-12-08": 23426,
-  "2023-12-09": 23426,
-  "2023-12-10": 23426,
-  "2023-12-11": 23426,
-  "2023-12-12": 23426,
-  "2023-12-13": 23426,
-  "2023-12-14": 24339,
-  "2023-12-15": 24362,
-  "2023-12-16": 24392,
-  "2023-12-17": 24419,
-  "2023-12-18": 24451,
-  "2023-12-19": 24477,
-  "2023-12-20": 24501,
-  "2023-12-21": 24521,
-  "2023-12-22": 24546,
-  "2023-12-23": 24576,
-  "2023-12-24": 24613,
-  "2023-12-25": 24655,
-  "2023-12-26": 24676,
-  "2023-12-27": 24697,
-  "2023-12-30": 24763,
-  "2023-12-31": 24800,
-  "2024-01-01": 24833,
-  "2024-01-02": 24868,
-  "2024-01-03": 24888
+  "2024-01-17": 25329,
+  "date_first_scraped": "2022-09-15",
+  "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
+  "name": "This Is Kirk Franklin",
+  "tracks": [
+    {
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237986,
+      "name": "123 Victory",
+      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378200,
+      "name": "A God Like You",
+      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374780,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        },
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 161191,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/68kKY7PTKkmrNmffMygxvJ"
+    },
+    {
+      "album": {
+        "name": "All Things",
+        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189799,
+      "name": "All Things",
+      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
+    },
+    {
+      "album": {
+        "name": "The Rebirth of Kirk Franklin",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 404600,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0lJrL2qMu7MJqzwxtn0RGi"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 263973,
+      "name": "Before I Die",
+      "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 240760,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5w1XUDAVEeWIP669p3e48X"
+    },
+    {
+      "album": {
+        "name": "Better Days (Live)",
+        "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
+      },
+      "artists": [
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 323333,
+      "name": "Better Days - Live",
+      "url": "https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc"
+    },
+    {
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244360,
+      "name": "Bleed The Same",
+      "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5csWtqsTAJhJS8vLLsXiMG"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
+    },
+    {
+      "album": {
+        "name": "Bless Me",
+        "url": "https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o"
+    },
+    {
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 209573,
+      "name": "Blessing In The Storm",
+      "url": "https://open.spotify.com/track/6pnl2K7y2aA8eMJjwMBigb"
+    },
+    {
+      "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 340133,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5TlSqF8DhwDLaUMFmV3APE"
+    },
+    {
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340133,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312078,
+      "name": "Can't Nobody (feat. Ryan Ofei & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2VLXdIm5sJgDdRvfh2QrRe"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 312078,
+      "name": "Can't Nobody (feat. Ryan Ofei & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/6m2L8UyoRjOYDJZ4Hdjcvd"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407266,
+      "name": "Could've Been (with J Moss & Tye Tribbett)",
+      "url": "https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK"
+    },
+    {
+      "album": {
+        "name": "The Fight Of My Life",
+        "url": "https://open.spotify.com/album/4jOZyxhGDWkhJ5xXZirKDW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 264866,
+      "name": "Declaration (This Is It!)",
+      "url": "https://open.spotify.com/track/5vPnMZd9Ms9srd6rfd14jN"
+    },
+    {
+      "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 368560,
+      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 180678,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 180678,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/3Xvw1rd3WZn4qLuiz1Veaj"
+    },
+    {
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271131,
+      "name": "F.A.V.O.R",
+      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
+    },
+    {
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 391695,
+      "name": "Father Knows Best",
+      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 625062,
+      "name": "Fear is Not My Future (feat. Brandon Lake & Chandler Moore)",
+      "url": "https://open.spotify.com/track/4t9q80lwmctzfRsJDLQAHg"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625062,
+      "name": "Fear Is Not My Future (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
+    },
+    {
+      "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406983,
+      "name": "Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname)",
+      "url": "https://open.spotify.com/track/2AgnbuzvnfPvq1sAYNB4pj"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388586,
+      "name": "Give Me (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268865,
+      "name": "God's Got Us",
+      "url": "https://open.spotify.com/track/2hblLgMBErp2DQCWCjjmdy"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 268865,
+      "name": "God's Got Us (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/5KmQTbZx32wyekcRD0pllw"
+    },
+    {
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 341706,
+      "name": "Gonna Be A Lovely Day",
+      "url": "https://open.spotify.com/track/5jxCllQyFj1KhkQIJyk7Wy"
+    },
+    {
+      "album": {
+        "name": "Gospel According To PJ",
+        "url": "https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        },
+        {
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232345,
+      "name": "Gotta Have You (feat. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles)",
+      "url": "https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4"
+    },
+    {
+      "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 265866,
+      "name": "He Reigns / Awesome God - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/1mkLV53Mtcpl4XJOcBL5B4"
+    },
+    {
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265866,
+      "name": "He Reigns / Awesome God - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/4mDkFfjm82m9goCcumFeL7"
+    },
+    {
+      "album": {
+        "name": "The Essential Kirk Franklin",
+        "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 266400,
+      "name": "He Reigns / Awesome God - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/2vWWqwrLHAc1th3bR5O4Uv"
+    },
+    {
+      "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "He's Able - Live",
+      "url": "https://open.spotify.com/track/537bauuRZw1QMo3Ya4vZrz"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 333786,
+      "name": "Hello Fear",
+      "url": "https://open.spotify.com/track/1AjtmWU3ym5SLct9Oq8kAt"
+    },
+    {
+      "album": {
+        "name": "Overcomer",
+        "url": "https://open.spotify.com/album/6pqXXcSmkHmuODhcFLfNuQ"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 259066,
+      "name": "Hello God",
+      "url": "https://open.spotify.com/track/5vCmQ3GFBY338mNytXxXaB"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Dorinda Clark-Cole",
+          "url": "https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 320933,
+      "name": "Hero (with Dorinda Clark-Cole)",
+      "url": "https://open.spotify.com/track/2NyfnHqHGhar6QURDA1b94"
+    },
+    {
+      "album": {
+        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 230590,
+      "name": "Hold Tight (feat. Ryan Ellis & Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5dovyGSRpHwz5YRJCOktO7"
+    },
+    {
+      "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 307733,
+      "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f"
+    },
+    {
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307733,
+      "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/7H7uouUOWcBHnBJkAf77Tm"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 214121,
+      "name": "I Found You (feat. Chandler Moore & Aaron Moses)",
+      "url": "https://open.spotify.com/track/0L8gnCJngwQuhXcr8IwmuT"
+    },
+    {
+      "album": {
+        "name": "The Fight Of My Life",
+        "url": "https://open.spotify.com/album/4jOZyxhGDWkhJ5xXZirKDW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 185573,
+      "name": "I Like Me (feat. Da' T.R.U.T.H.)",
+      "url": "https://open.spotify.com/track/31PJEni32PQEUGY1UE0QM2"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307973,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 210116,
+      "name": "I Smile (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/55pvriIqGidXWHHAPUqJNY"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318840,
+      "name": "Imagine Me",
+      "url": "https://open.spotify.com/track/7kN3bGZtBKwWwYKSkE3RER"
+    },
+    {
+      "album": {
+        "name": "The Fight Of My Life",
+        "url": "https://open.spotify.com/album/4jOZyxhGDWkhJ5xXZirKDW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 223426,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/01bQcX573Co0x8tfHIID56"
+    },
+    {
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275582,
+      "name": "Just for Me",
+      "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565833,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 565833,
+      "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
+      "url": "https://open.spotify.com/track/4UTJRQlIDvePxa6deMMk4j"
+    },
+    {
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 309066,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/4IyemaA2yUElYlOiCV1vGC"
+    },
+    {
+      "album": {
+        "name": "Life and Favor",
+        "url": "https://open.spotify.com/album/4gpnTKSK7OOSQpr8TtMeEo"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "New Life",
+          "url": "https://open.spotify.com/artist/6VNKtxRJ6IFNHhNC4HUhBw"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 239200,
+      "name": "Life and Favor - Remix",
+      "url": "https://open.spotify.com/track/4CCe4GWOFUZBvMXq45jkU0"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 264570,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/4An7JvNffDjCUg3ZyhwJhc"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246560,
+      "name": "Looking for You",
+      "url": "https://open.spotify.com/track/7lXbmBVZsyhxsxBzodG1w3"
+    },
+    {
+      "album": {
+        "name": "Portable Sounds (With Bonus Remixes)",
+        "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375973,
+      "name": "Lose My Soul - Afterparty Interlude",
+      "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
+    },
+    {
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251714,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 202117,
+      "name": "Melodies from Heaven (feat. Chandler Moore & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/26dEVHEewuaf2ZLTexVMvC"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202117,
+      "name": "Melodies From Heaven (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh"
+    },
+    {
+      "album": {
+        "name": "The Epilogue.",
+        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276629,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
+    },
+    {
+      "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175292,
+      "name": "Millionaire (Good Like That)",
+      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421165,
+      "name": "My Life Is In Your Hands",
+      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 421165,
+      "name": "My Life is in Your Hands (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/73HndhN1se7Bdmwl5o4vVz"
+    },
+    {
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 382573,
+      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
+    },
+    {
+      "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 382573,
+      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/57FntrbRuzrLpJOfayNbWk"
+    },
+    {
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423106,
+      "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
+      "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/29MNEELNBciKWVHXyvh5gX"
+    },
+    {
+      "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/0gRF9GgWiZyRQeBoPgucGi"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 207960,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1"
+    },
+    {
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214008,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
+    },
+    {
+      "album": {
+        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Mosby",
+          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265693,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
+    },
+    {
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236339,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
+    },
+    {
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 337893,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7"
+    },
+    {
+      "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292040,
+      "name": "Silver and Gold - Live",
+      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
+    },
+    {
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368440,
+      "name": "Something About the Name Jesus",
+      "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Rance Allen",
+          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 336773,
+      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
+      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
+    },
+    {
+      "album": {
+        "name": "The Essential Kirk Franklin",
+        "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305666,
+      "name": "Stomp (Remix)",
+      "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
+    },
+    {
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245901,
+      "name": "Strong God",
+      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
+    },
+    {
+      "album": {
+        "name": "Restoration",
+        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241988,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
+    },
+    {
+      "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 363101,
+      "name": "Talkin Bout (Love) (feat. Chandler Moore & Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/6tucWz1MYMswwWmwoM3JGw"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        },
+        {
+          "name": "Beverly Crawford",
+          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 418573,
+      "name": "The Altar (feat. Marvin Sapp & Beverly Crawford)",
+      "url": "https://open.spotify.com/track/1UTX3QSo7JN8o4X5GAO0aE"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 308267,
+      "name": "The Name (feat. Brandon Lake & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/3c1ctXazqt8aTYmKqT2UCW"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 647024,
+      "name": "The One You Love / One Thing Remains (feat. Brandon Lake, Dante Bowe & Chandler Moore)",
+      "url": "https://open.spotify.com/track/0Mqb5jCtcctzWFGAT3jRZY"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 647024,
+      "name": "The One You Love/One Thing Remains (feat. Brandon Lake & Dante Bowe)",
+      "url": "https://open.spotify.com/track/6BnHuqER7ETLtTWMy4017Q"
+    },
+    {
+      "album": {
+        "name": "God's Property from Kirk Franklin's Nu Nation",
+        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346866,
+      "name": "The Storm Is Over Now",
+      "url": "https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt"
+    },
+    {
+      "album": {
+        "name": "Burn The Ships (Deluxe Edition: Remixes & Collaborations)",
+        "url": "https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206103,
+      "name": "TOGETHER",
+      "url": "https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0"
+    },
+    {
+      "album": {
+        "name": "TOGETHER",
+        "url": "https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 206103,
+      "name": "TOGETHER",
+      "url": "https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH"
+    },
+    {
+      "album": {
+        "name": "Try Love",
+        "url": "https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272593,
+      "name": "Try Love",
+      "url": "https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 241857,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/4pBAvG8mGqsiW5OdZUINMS"
+    },
+    {
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265893,
+      "name": "Wanna Be Happy?",
+      "url": "https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo"
+    },
+    {
+      "album": {
+        "name": "We Win (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 194999,
+      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311989,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/7obTEIQJyS4K2ejom06UsC"
+    },
+    {
+      "album": {
+        "name": "The Rebirth of Kirk Franklin",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 341360,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/4lZSRuTcs9ucnBDuxExFm0"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225444,
+      "name": "Why We Sing (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1gB4zVWkHjoimGdyNhOmXv"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 225444,
+      "name": "Why We Sing (feat. Kirk Franklin & Brandon Lake)",
+      "url": "https://open.spotify.com/track/6imcJeslHNSai4c7SllEbk"
+    },
+    {
+      "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355160,
+      "name": "Why We Sing - Live",
+      "url": "https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv"
+    },
+    {
+      "album": {
+        "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
+        "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
+    },
+    {
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 233800,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/7cRK1EuD5cKEbA1zrzfoVb"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204016,
+      "name": "You Still Love Us",
+      "url": "https://open.spotify.com/track/3dlU9kLdhOL2dwEFQYJuHI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qXTri"
 }

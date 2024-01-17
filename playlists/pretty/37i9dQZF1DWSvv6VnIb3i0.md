@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,714 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,290 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 49 | [Le Manège](https://open.spotify.com/track/6yOGumo25Hrr7IKDS75gm6) | [Stanislas](https://open.spotify.com/artist/4B6omre6u07tKDEXvDNJBc) | [L'Equilibre Instable](https://open.spotify.com/album/6eMCkS0r8atntN0rgg2i9G) | 4:45 |
 | 50 | [Les voyages en train](https://open.spotify.com/track/1fhKFixA1BKke1I2evNUxQ) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Midi 20](https://open.spotify.com/album/3KLf3aJPySlGsTYGdkWPbP) | 2:51 |
 
-Snapshot ID: `MCwzMmViN2QzYjNlMzllOWM3MjE2NjE0MDU4YTNhOTY2YjFjNjlmMDhj`
+Snapshot ID: `MCxlYjRlOTllMGVkNGIyZDVkMjhkNmFkMjY2MTVkMWE3MWZhMDg0MjYy`

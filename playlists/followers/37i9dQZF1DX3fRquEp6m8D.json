@@ -1,289 +1,1021 @@
 {
-  "2023-03-20": 1984138,
-  "2023-03-21": 1984513,
-  "2023-03-22": 1984884,
-  "2023-03-23": 1985334,
-  "2023-03-24": 1985334,
-  "2023-03-25": 1986291,
-  "2023-03-26": 1986864,
-  "2023-03-27": 1987305,
-  "2023-03-28": 1987701,
-  "2023-03-29": 1988139,
-  "2023-03-30": 1988926,
-  "2023-03-31": 1988926,
-  "2023-04-01": 1989465,
-  "2023-04-02": 1990014,
-  "2023-04-03": 1990539,
-  "2023-04-04": 1990962,
-  "2023-04-05": 1991433,
-  "2023-04-06": 1991953,
-  "2023-04-07": 1992484,
-  "2023-04-09": 1993359,
-  "2023-04-10": 1993782,
-  "2023-04-11": 1994544,
-  "2023-04-12": 1994544,
-  "2023-04-13": 1994938,
-  "2023-04-14": 1995380,
-  "2023-04-15": 1995884,
-  "2023-04-16": 1996325,
-  "2023-04-17": 1996745,
-  "2023-04-18": 1997119,
-  "2023-04-19": 1997537,
-  "2023-04-20": 1997978,
-  "2023-04-21": 1998443,
-  "2023-04-22": 1998881,
-  "2023-04-23": 1999324,
-  "2023-04-24": 1999783,
-  "2023-04-25": 2000173,
-  "2023-04-26": 2000561,
-  "2023-04-27": 2001014,
-  "2023-04-28": 2001507,
-  "2023-04-29": 2001981,
-  "2023-04-30": 2002431,
-  "2023-05-01": 2002838,
-  "2023-05-02": 2003227,
-  "2023-05-03": 2003759,
-  "2023-05-04": 2004301,
-  "2023-05-05": 2004782,
-  "2023-05-06": 2005298,
-  "2023-05-07": 2005826,
-  "2023-05-08": 2006310,
-  "2023-05-09": 2006765,
-  "2023-05-10": 2007194,
-  "2023-05-11": 2007588,
-  "2023-05-12": 2008084,
-  "2023-05-13": 2008602,
-  "2023-05-14": 2009081,
-  "2023-05-15": 2009468,
-  "2023-05-16": 2009863,
-  "2023-05-17": 2010310,
-  "2023-05-18": 2010732,
-  "2023-05-19": 2011150,
-  "2023-05-20": 2012102,
-  "2023-05-21": 2012102,
-  "2023-05-22": 2012102,
-  "2023-05-23": 2012916,
-  "2023-05-24": 2013743,
-  "2023-05-25": 2013844,
-  "2023-05-26": 2014391,
-  "2023-05-27": 2015126,
-  "2023-05-28": 2015898,
-  "2023-05-29": 2015898,
-  "2023-05-30": 2017092,
-  "2023-05-31": 2017686,
-  "2023-06-01": 2018340,
-  "2023-06-02": 2018891,
-  "2023-06-03": 2019476,
-  "2023-06-04": 2020109,
-  "2023-06-05": 2020635,
-  "2023-06-06": 2021200,
-  "2023-06-07": 2021927,
-  "2023-06-08": 2022539,
-  "2023-06-09": 2023091,
-  "2023-06-10": 2023718,
-  "2023-06-11": 2024379,
-  "2023-06-12": 2024944,
-  "2023-06-13": 2025558,
-  "2023-06-14": 2026090,
-  "2023-06-15": 2026632,
-  "2023-06-16": 2027162,
-  "2023-06-17": 2027728,
-  "2023-06-18": 2028313,
-  "2023-06-19": 2028833,
-  "2023-06-20": 2029319,
-  "2023-06-21": 2029822,
-  "2023-06-22": 2030359,
-  "2023-06-23": 2030909,
-  "2023-06-24": 2031437,
-  "2023-06-25": 2032033,
-  "2023-06-26": 2032633,
-  "2023-06-27": 2033168,
-  "2023-06-28": 2033676,
-  "2023-06-29": 2034149,
-  "2023-06-30": 2034707,
-  "2023-07-01": 2035746,
-  "2023-07-02": 2035746,
-  "2023-07-03": 2036231,
-  "2023-07-04": 2036650,
-  "2023-07-05": 2037098,
-  "2023-07-06": 2038040,
-  "2023-07-07": 2038040,
-  "2023-07-08": 2038591,
-  "2023-07-09": 2039050,
-  "2023-07-10": 2039492,
-  "2023-07-11": 2039948,
-  "2023-07-12": 2040474,
-  "2023-07-13": 2040992,
-  "2023-07-14": 2041560,
-  "2023-07-15": 2042049,
-  "2023-07-16": 2042696,
-  "2023-07-17": 2043210,
-  "2023-07-18": 2043721,
-  "2023-07-19": 2044260,
-  "2023-07-20": 2044868,
-  "2023-07-21": 2045492,
-  "2023-07-22": 2046152,
-  "2023-07-23": 2046966,
-  "2023-07-24": 2047585,
-  "2023-07-25": 2048268,
-  "2023-07-26": 2048936,
-  "2023-07-27": 2049616,
-  "2023-07-28": 2050361,
-  "2023-07-29": 2051132,
-  "2023-07-30": 2051933,
-  "2023-07-31": 2052687,
-  "2023-08-01": 2053310,
-  "2023-08-02": 2053979,
-  "2023-08-03": 2054663,
-  "2023-08-04": 2055393,
-  "2023-08-05": 2056118,
-  "2023-08-06": 2057542,
-  "2023-08-07": 2057542,
-  "2023-08-08": 2058120,
-  "2023-08-09": 2058741,
-  "2023-08-10": 2059417,
-  "2023-08-11": 2060057,
-  "2023-08-12": 2060735,
-  "2023-08-13": 2061495,
-  "2023-08-14": 2062164,
-  "2023-08-15": 2063480,
-  "2023-08-16": 2063480,
-  "2023-08-17": 2064137,
-  "2023-08-18": 2064797,
-  "2023-08-19": 2065595,
-  "2023-08-20": 2066345,
-  "2023-08-21": 2067035,
-  "2023-08-22": 2067706,
-  "2023-08-23": 2068392,
-  "2023-08-24": 2069082,
-  "2023-08-25": 2069740,
-  "2023-08-26": 2070510,
-  "2023-08-27": 2071257,
-  "2023-08-28": 2071863,
-  "2023-08-29": 2072465,
-  "2023-08-30": 2073125,
-  "2023-08-31": 2073790,
-  "2023-09-01": 2075016,
-  "2023-09-02": 2075016,
-  "2023-09-03": 2075672,
-  "2023-09-04": 2076194,
-  "2023-09-05": 2076648,
-  "2023-09-06": 2077181,
-  "2023-09-07": 2077610,
-  "2023-09-08": 2078174,
-  "2023-09-09": 2078766,
-  "2023-09-10": 2079403,
-  "2023-09-11": 2079953,
-  "2023-09-12": 2080457,
-  "2023-09-13": 2080951,
-  "2023-09-14": 2081458,
-  "2023-09-15": 2082000,
-  "2023-09-16": 2082543,
-  "2023-09-17": 2083087,
-  "2023-09-18": 2083535,
-  "2023-09-19": 2083974,
-  "2023-09-20": 2084254,
-  "2023-09-21": 2084671,
-  "2023-09-22": 2085065,
-  "2023-09-23": 2085583,
-  "2023-09-24": 2086087,
-  "2023-09-25": 2086478,
-  "2023-09-26": 2086985,
-  "2023-09-27": 2087291,
-  "2023-09-28": 2087677,
-  "2023-09-29": 2088153,
-  "2023-09-30": 2088624,
-  "2023-10-01": 2089081,
-  "2023-10-02": 2089570,
-  "2023-10-03": 2089893,
-  "2023-10-04": 2090321,
-  "2023-10-05": 2090731,
-  "2023-10-06": 2091217,
-  "2023-10-07": 2091681,
-  "2023-10-08": 2092107,
-  "2023-10-09": 2092456,
-  "2023-10-10": 2092174,
-  "2023-10-11": 2092298,
-  "2023-10-12": 2092298,
-  "2023-10-13": 2092213,
-  "2023-10-14": 2092194,
-  "2023-10-15": 2092517,
-  "2023-10-16": 2092905,
-  "2023-10-17": 2093257,
-  "2023-10-18": 2093541,
-  "2023-10-19": 2093865,
-  "2023-10-20": 2094211,
-  "2023-10-21": 2094542,
-  "2023-10-22": 2094855,
-  "2023-10-23": 2095111,
-  "2023-10-24": 2095395,
-  "2023-10-25": 2095655,
-  "2023-10-26": 2095940,
-  "2023-10-27": 2096266,
-  "2023-10-28": 2096620,
-  "2023-10-29": 2096943,
-  "2023-10-30": 2097474,
-  "2023-10-31": 2097474,
-  "2023-11-01": 2097683,
-  "2023-11-02": 2098001,
-  "2023-11-03": 2098237,
-  "2023-11-04": 2098452,
-  "2023-11-05": 2098778,
-  "2023-11-06": 2099051,
-  "2023-11-07": 2099326,
-  "2023-11-08": 2099602,
-  "2023-11-09": 2099977,
-  "2023-11-10": 2100689,
-  "2023-11-11": 2105651,
-  "2023-11-12": 2107732,
-  "2023-11-13": 2109490,
-  "2023-11-14": 2110918,
-  "2023-11-15": 2110918,
-  "2023-11-16": 2112805,
-  "2023-11-17": 2114334,
-  "2023-11-18": 2114334,
-  "2023-11-19": 2114956,
-  "2023-11-20": 2115492,
-  "2023-11-21": 2116098,
-  "2023-11-22": 2116664,
-  "2023-11-23": 2117178,
-  "2023-11-24": 2117712,
-  "2023-11-25": 2118207,
-  "2023-11-26": 2118650,
-  "2023-11-27": 2119067,
-  "2023-11-28": 2119475,
-  "2023-11-29": 2120340,
-  "2023-11-30": 2120340,
-  "2023-12-01": 2120860,
-  "2023-12-02": 2121492,
-  "2023-12-03": 2122092,
-  "2023-12-04": 2122494,
-  "2023-12-05": 2122938,
-  "2023-12-06": 2123452,
-  "2023-12-07": 2123991,
-  "2023-12-08": 2124571,
-  "2023-12-09": 2125147,
-  "2023-12-10": 2125662,
-  "2023-12-11": 2126086,
-  "2023-12-12": 2126468,
-  "2023-12-13": 2126883,
-  "2023-12-14": 2127472,
-  "2023-12-15": 2127832,
-  "2023-12-16": 2128346,
-  "2023-12-17": 2128853,
-  "2023-12-18": 2129336,
-  "2023-12-19": 2129775,
-  "2023-12-20": 2130178,
-  "2023-12-21": 2130603,
-  "2023-12-22": 2131061,
-  "2023-12-23": 2131664,
-  "2023-12-24": 2132163,
-  "2023-12-25": 2132581,
-  "2023-12-26": 2132978,
-  "2023-12-27": 2133501,
-  "2023-12-30": 2135258,
-  "2023-12-31": 2135868,
-  "2024-01-01": 2136397,
-  "2024-01-02": 2136845,
-  "2024-01-03": 2137302
+  "2024-01-17": 2141387,
+  "date_first_scraped": "2023-03-20",
+  "description": "The essential tracks, all in one playlist.",
+  "name": "This Is Dua Lipa",
+  "tracks": [
+    {
+      "album": {
+        "name": "Be the One",
+        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202914,
+      "name": "Be the One",
+      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Complete Edition)",
+        "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/1LPGXjVWl8EnrnyaOgPpBm"
+    },
+    {
+      "album": {
+        "name": "Blow Your Mind (Mwah)",
+        "url": "https://open.spotify.com/album/7fb7W4noziWjuzWsdr3DzT"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178583,
+      "name": "Blow Your Mind (Mwah)",
+      "url": "https://open.spotify.com/track/7kJlTKjNZVT26iwiDUVhRm"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166266,
+      "name": "Boys Will Be Boys",
+      "url": "https://open.spotify.com/track/4szI7zRh7kLApCSqiB6R7b"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/4PULMUg3AwudcRCzvVmgXT"
+    },
+    {
+      "album": {
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209583,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/4Ulqu89XempybuL8ApUeqL"
+    },
+    {
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/2FlcxnvybdwpaMmMhaRtSN"
+    },
+    {
+      "album": {
+        "name": "Electricity (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
+      },
+      "artists": [
+        {
+          "name": "Silk City",
+          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Electricity (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156910,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/5tFAwDNw4K6KYKCWtta7pe"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184881,
+      "name": "Future Nostalgia",
+      "url": "https://open.spotify.com/track/3iYNJX4FTRGlfMQySjlGNr"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4P76CEIXrrWT2cgS1YrTMr"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218754,
+      "name": "Good In Bed",
+      "url": "https://open.spotify.com/track/3pyodt4pb554dMz8fCv7oi"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208505,
+      "name": "Hallucinate",
+      "url": "https://open.spotify.com/track/6pbKWWP8WwTaP5TbSq1vCA"
+    },
+    {
+      "album": {
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "High (& Dua Lipa)",
+      "url": "https://open.spotify.com/track/3dD9yyYTQ73SZvyOygyKva"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/5E5MqaS6eOsbaJibl3YeMZ"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187957,
+      "name": "Hotter Than Hell",
+      "url": "https://open.spotify.com/track/5eTNdkstwKaNahHf41fJ9u"
+    },
+    {
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
+        "name": "Live Acoustic EP",
+        "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156481,
+      "name": "I'd Rather Go Blind - Live",
+      "url": "https://open.spotify.com/track/5nMkd5cq4JPZqAoQTXv8Wm"
+    },
+    {
+      "album": {
+        "name": "Spotify Session",
+        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "I'm Not the Only One - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195351,
+      "name": "If It Ain\u2019t Me",
+      "url": "https://open.spotify.com/track/1IdDtg7GhWfHYEWDymq3d2"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Complete Edition)",
+        "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189173,
+      "name": "Kiss and Make Up",
+      "url": "https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228976,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/1oXHXIB8rHgwHSsPRNjEzn"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/0v2boHmWtxMTD2REGN8MbK"
+    },
+    {
+      "album": {
+        "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+        "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250280,
+      "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+      "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "album": {
+        "name": "Lost in Your Light (feat. Miguel)",
+        "url": "https://open.spotify.com/album/62p5XdeJZ6LMZ94D37rMM1"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203769,
+      "name": "Lost In Your Light (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1v3bR4v6SruaE8efrTUqqp"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258004,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228706,
+      "name": "My Love (feat. Major Lazer, WizKid, Dua Lipa)",
+      "url": "https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB"
+    },
+    {
+      "album": {
+        "name": "New Love",
+        "url": "https://open.spotify.com/album/3y9KX279BOc4iFpMoM1y72"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271934,
+      "name": "New Love",
+      "url": "https://open.spotify.com/track/4VZXB1paIf867OlmQg89GU"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "album": {
+        "name": "New Rules (Initial Talk Remix)",
+        "url": "https://open.spotify.com/album/4y71utPzV6RPn0OsdLmYjY"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Initial Talk",
+          "url": "https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224549,
+      "name": "New Rules - Initial Talk Remix",
+      "url": "https://open.spotify.com/track/2ygfHXyt3gvyhvKrNJU61n"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216080,
+      "name": "No Goodbyes",
+      "url": "https://open.spotify.com/track/0mDGNetRxywxqgiXFbagZh"
+    },
+    {
+      "album": {
+        "name": "Mad Love The Prequel",
+        "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221176,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 143176,
+      "name": "Not My Problem (feat. JID)",
+      "url": "https://open.spotify.com/track/69GVTnxGmUlF2ymLPL2CEp"
+    },
+    {
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5UncbfPKpWlxsWWyhmM87l"
+    },
+    {
+      "album": {
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194607,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/6boViHmG6c8ubzxTvcMoJY"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169338,
+      "name": "Prisoner (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/1V4uMdCH6aDZire0vVqnXW"
+    },
+    {
+      "album": {
+        "name": "Room For 2",
+        "url": "https://open.spotify.com/album/7E3zgNBEK3ClgfBe7hDpJR"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208689,
+      "name": "Room for 2",
+      "url": "https://open.spotify.com/track/4U1TYTYFoFXfhTEGwLlTH1"
+    },
+    {
+      "album": {
+        "name": "Scared to Be Lonely",
+        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220883,
+      "name": "Scared to Be Lonely",
+      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
+    },
+    {
+      "album": {
+        "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\")",
+        "url": "https://open.spotify.com/album/11u8ZjrMHunQFg7l3nfDaX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182074,
+      "name": "Swan Song - From the Motion Picture \"Alita: Battle Angel\"",
+      "url": "https://open.spotify.com/track/5600nq7TiBraBX2jobyJ3l"
+    },
+    {
+      "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200108,
+      "name": "That Kind Of Woman",
+      "url": "https://open.spotify.com/track/4FuZofNMHdtsEdrsqwF3xR"
+    },
+    {
+      "album": {
+        "name": "Thinking 'Bout You",
+        "url": "https://open.spotify.com/album/3J7J77jXl24OixprloNzk8"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171946,
+      "name": "Thinking 'Bout You",
+      "url": "https://open.spotify.com/track/4Wmjt3ICd1G0geHb2Loho1"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231815,
+      "name": "Un D\u00eda (One Day)",
+      "url": "https://open.spotify.com/track/2GPCE96x9Go6acdDt8ex6p"
+    },
+    {
+      "album": {
+        "name": "Want To",
+        "url": "https://open.spotify.com/album/4Hwj8MyVYpdLEGKOFjVjQF"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211817,
+      "name": "Want To",
+      "url": "https://open.spotify.com/track/5fK0Q3j2iUcQtiRDXlPW0K"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia (The Moonlight Edition)",
+        "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165506,
+      "name": "We're Good",
+      "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3fRquEp6m8D"
 }

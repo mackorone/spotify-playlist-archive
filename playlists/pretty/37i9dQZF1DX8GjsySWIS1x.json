@@ -1,13 +1,133 @@
 {
   "description": "The latest promotional gaming tracks, gaming synchs, and more.",
-  "num_followers": 1034669,
+  "num_followers": 1033156,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTU2MWRkOGZmZjdkODE3NjU3ZjgzMDVjY2ZmZWY1ZDU3MWIzNGZm",
+  "snapshot_id": "MCxmYzBlMzhjMThmODJmODJlYTRlMGJlZTI0M2ZjZWQ1NTU5ZTdmNzE2",
   "tracks": [
+    {
+      "added_at": "2024-01-11 17:00:25",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/7KiawVJTzXPxU7vvtSY5eW"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Forts",
+          "url": "https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/0uipX8PqFOjgiY43E4lgLe"
+    },
+    {
+      "added_at": "2024-01-11 17:00:25",
+      "album": {
+        "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+        "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 123624,
+      "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
+      "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
+    },
+    {
+      "added_at": "2024-01-11 17:00:25",
+      "album": {
+        "name": "D\u0101M-FunK Presents The Music of Grand Theft Auto Online Original Score",
+        "url": "https://open.spotify.com/album/2bhA2miYR9z7etELwRl7Us"
+      },
+      "artists": [
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 178543,
+      "name": "LOS SANTOS DRUG WARS",
+      "url": "https://open.spotify.com/track/3ChHOgGHUSBJBCr4JwfvQP"
+    },
+    {
+      "added_at": "2024-01-11 17:00:25",
+      "album": {
+        "name": "You & Me Makes Us",
+        "url": "https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "DEEGAN",
+          "url": "https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi"
+        }
+      ],
+      "duration_ms": 176055,
+      "name": "You & Me Makes Us",
+      "url": "https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q"
+    },
+    {
+      "added_at": "2024-01-11 17:00:25",
+      "album": {
+        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/5G5hspjbhZC9s6btkm76rN"
+    },
     {
       "added_at": "2023-12-06 16:28:12",
       "album": {
@@ -617,22 +737,6 @@
       "url": "https://open.spotify.com/track/435BEnoOXQWHrgqSoMTxB3"
     },
     {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS"
-      },
-      "artists": [
-        {
-          "name": "Stellar",
-          "url": "https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10"
-        }
-      ],
-      "duration_ms": 166355,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp"
-    },
-    {
       "added_at": "2022-09-29 15:51:46",
       "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
@@ -947,22 +1051,6 @@
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {
-        "name": "DEMIDEVIL",
-        "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 146523,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
         "name": "ASIN9NE",
         "url": "https://open.spotify.com/album/0g81USzuFuid3QkYfxeMXM"
       },
@@ -991,22 +1079,6 @@
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/3h1NpsC8ScXsPHHzJZLH7m"
-      },
-      "artists": [
-        {
-          "name": "Confetti",
-          "url": "https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/30uCmqegKQnH5AbOE51gPD"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
         "name": "Game On!",
         "url": "https://open.spotify.com/album/6SpxyDfoqxLUuvd5jiyAZx"
       },
@@ -1019,38 +1091,6 @@
       "duration_ms": 293400,
       "name": "To the Bone",
       "url": "https://open.spotify.com/track/6A1otOgRcNpIs0eta8D4tb"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "The Search (Edit)",
-        "url": "https://open.spotify.com/album/07cARcxd2ZMyo5oNgtq758"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 197694,
-      "name": "The Search - Edit",
-      "url": "https://open.spotify.com/track/4tZDUt8vHpvjfOXcHwOvtq"
     },
     {
       "added_at": "2022-07-28 15:31:40",
@@ -1107,26 +1147,6 @@
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {
-        "name": "SUICIDE YEAR",
-        "url": "https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1"
-      },
-      "artists": [
-        {
-          "name": "WEEDMANE",
-          "url": "https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx"
-        },
-        {
-          "name": "Suicideyear",
-          "url": "https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO"
-        }
-      ],
-      "duration_ms": 91820,
-      "name": "SUICIDE YEAR",
-      "url": "https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
         "name": "I See a Dreamer",
         "url": "https://open.spotify.com/album/4KyRX5MlQF4mQLpehDxrZD"
       },
@@ -1155,38 +1175,6 @@
       "duration_ms": 183328,
       "name": "Feed the Machine",
       "url": "https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Metamorph",
-        "url": "https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 161592,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/3LBLmC8gqvt1l43kdpx43w"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/0zwSEVp17wHbivhkBSHJY6"
-      },
-      "artists": [
-        {
-          "name": "Stellar",
-          "url": "https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "El Dorado",
-      "url": "https://open.spotify.com/track/3p94RpSxQdZocUfrzpemmm"
     },
     {
       "added_at": "2022-07-28 15:31:40",

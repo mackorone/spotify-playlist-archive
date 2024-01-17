@@ -1,577 +1,1247 @@
 {
-  "2022-06-02": 1662,
-  "2022-06-03": 1667,
-  "2022-06-04": 1671,
-  "2022-06-05": 1674,
-  "2022-06-06": 1678,
-  "2022-06-07": 1685,
-  "2022-06-08": 1688,
-  "2022-06-09": 1689,
-  "2022-06-10": 1690,
-  "2022-06-11": 1696,
-  "2022-06-12": 1704,
-  "2022-06-13": 1712,
-  "2022-06-14": 1721,
-  "2022-06-15": 1725,
-  "2022-06-16": 1735,
-  "2022-06-17": 1743,
-  "2022-06-18": 1750,
-  "2022-06-19": 1759,
-  "2022-06-20": 1759,
-  "2022-06-21": 1770,
-  "2022-06-22": 1782,
-  "2022-06-23": 1782,
-  "2022-06-24": 1793,
-  "2022-06-25": 1798,
-  "2022-06-26": 1807,
-  "2022-06-27": 1819,
-  "2022-06-28": 1823,
-  "2022-06-29": 1832,
-  "2022-06-30": 1837,
-  "2022-07-01": 1848,
-  "2022-07-02": 1858,
-  "2022-07-03": 1866,
-  "2022-07-04": 1869,
-  "2022-07-05": 1875,
-  "2022-07-06": 1876,
-  "2022-07-07": 1883,
-  "2022-07-08": 1886,
-  "2022-07-09": 1891,
-  "2022-07-10": 1899,
-  "2022-07-11": 1911,
-  "2022-07-12": 1919,
-  "2022-07-13": 1929,
-  "2022-07-14": 1938,
-  "2022-07-15": 1948,
-  "2022-07-16": 1957,
-  "2022-07-17": 1969,
-  "2022-07-18": 1980,
-  "2022-07-19": 1990,
-  "2022-07-20": 1998,
-  "2022-07-21": 2002,
-  "2022-07-22": 2009,
-  "2022-07-23": 2024,
-  "2022-07-24": 2038,
-  "2022-07-25": 2049,
-  "2022-07-26": 2061,
-  "2022-07-27": 2066,
-  "2022-07-28": 2077,
-  "2022-07-29": 2084,
-  "2022-07-30": 2095,
-  "2022-07-31": 2095,
-  "2022-08-01": 2104,
-  "2022-08-02": 2123,
-  "2022-08-03": 2123,
-  "2022-08-04": 2129,
-  "2022-08-05": 2138,
-  "2022-08-06": 2146,
-  "2022-08-07": 2157,
-  "2022-08-08": 2168,
-  "2022-08-09": 2172,
-  "2022-08-10": 2179,
-  "2022-08-11": 2190,
-  "2022-08-12": 2199,
-  "2022-08-13": 2204,
-  "2022-08-14": 2211,
-  "2022-08-15": 2220,
-  "2022-08-16": 2226,
-  "2022-08-17": 2227,
-  "2022-08-18": 2230,
-  "2022-08-19": 2241,
-  "2022-08-20": 2246,
-  "2022-08-21": 2254,
-  "2022-08-22": 2263,
-  "2022-08-23": 2267,
-  "2022-08-24": 2282,
-  "2022-08-25": 2292,
-  "2022-08-26": 2295,
-  "2022-08-27": 2297,
-  "2022-08-28": 2307,
-  "2022-08-29": 2321,
-  "2022-08-30": 2324,
-  "2022-08-31": 2330,
-  "2022-09-01": 2335,
-  "2022-09-02": 2345,
-  "2022-09-03": 2351,
-  "2022-09-04": 2360,
-  "2022-09-05": 2364,
-  "2022-09-06": 2370,
-  "2022-09-07": 2373,
-  "2022-09-09": 2381,
-  "2022-09-10": 2393,
-  "2022-09-11": 2396,
-  "2022-09-12": 2400,
-  "2022-09-13": 2402,
-  "2022-09-15": 2417,
-  "2022-09-16": 2432,
-  "2022-09-17": 2448,
-  "2022-09-18": 2465,
-  "2022-09-19": 2483,
-  "2022-09-20": 2506,
-  "2022-09-21": 2527,
-  "2022-09-22": 2543,
-  "2022-09-23": 2559,
-  "2022-09-24": 2577,
-  "2022-09-25": 2600,
-  "2022-09-26": 2621,
-  "2022-09-27": 2637,
-  "2022-09-28": 2653,
-  "2022-09-29": 2668,
-  "2022-09-30": 2689,
-  "2022-10-01": 2702,
-  "2022-10-02": 2716,
-  "2022-10-03": 2734,
-  "2022-10-04": 2750,
-  "2022-10-05": 2757,
-  "2022-10-06": 2771,
-  "2022-10-07": 2789,
-  "2022-10-08": 2810,
-  "2022-10-09": 2829,
-  "2022-10-10": 2831,
-  "2022-10-11": 2842,
-  "2022-10-12": 2856,
-  "2022-10-13": 2865,
-  "2022-10-14": 2878,
-  "2022-10-15": 2892,
-  "2022-10-16": 2906,
-  "2022-10-17": 2922,
-  "2022-10-18": 2937,
-  "2022-10-19": 2949,
-  "2022-10-20": 2956,
-  "2022-10-21": 2968,
-  "2022-10-22": 2977,
-  "2022-10-23": 2983,
-  "2022-10-24": 2987,
-  "2022-10-25": 2999,
-  "2022-10-26": 3008,
-  "2022-10-27": 3013,
-  "2022-10-28": 3027,
-  "2022-10-29": 3041,
-  "2022-10-30": 3056,
-  "2022-10-31": 3065,
-  "2022-11-01": 3075,
-  "2022-11-02": 3087,
-  "2022-11-03": 3101,
-  "2022-11-04": 3114,
-  "2022-11-05": 3123,
-  "2022-11-06": 3132,
-  "2022-11-07": 3142,
-  "2022-11-08": 3153,
-  "2022-11-09": 3168,
-  "2022-11-10": 3183,
-  "2022-11-11": 3203,
-  "2022-11-12": 3215,
-  "2022-11-13": 3222,
-  "2022-11-14": 3234,
-  "2022-11-15": 3248,
-  "2022-11-16": 3265,
-  "2022-11-17": 3279,
-  "2022-11-18": 3284,
-  "2022-11-19": 3289,
-  "2022-11-20": 3300,
-  "2022-11-21": 3312,
-  "2022-11-22": 3326,
-  "2022-11-23": 3340,
-  "2022-11-24": 3361,
-  "2022-11-25": 3376,
-  "2022-11-26": 3385,
-  "2022-11-27": 3395,
-  "2022-11-28": 3411,
-  "2022-11-29": 3426,
-  "2022-11-30": 3437,
-  "2022-12-01": 3444,
-  "2022-12-02": 3450,
-  "2022-12-03": 3459,
-  "2022-12-04": 3470,
-  "2022-12-05": 3478,
-  "2022-12-06": 3485,
-  "2022-12-07": 3490,
-  "2022-12-08": 3499,
-  "2022-12-09": 3498,
-  "2022-12-10": 3501,
-  "2022-12-11": 3511,
-  "2022-12-12": 3523,
-  "2022-12-13": 3537,
-  "2022-12-14": 3542,
-  "2022-12-15": 3547,
-  "2022-12-16": 3556,
-  "2022-12-17": 3561,
-  "2022-12-18": 3568,
-  "2022-12-19": 3576,
-  "2022-12-20": 3589,
-  "2022-12-21": 3589,
-  "2022-12-22": 3599,
-  "2022-12-24": 3612,
-  "2022-12-25": 3615,
-  "2022-12-26": 3620,
-  "2022-12-27": 3629,
-  "2022-12-28": 3635,
-  "2022-12-29": 3644,
-  "2022-12-30": 3649,
-  "2022-12-31": 3665,
-  "2023-01-01": 3666,
-  "2023-01-02": 3674,
-  "2023-01-03": 3686,
-  "2023-01-04": 3693,
-  "2023-01-05": 3710,
-  "2023-01-06": 3728,
-  "2023-01-07": 3756,
-  "2023-01-08": 3758,
-  "2023-01-09": 3774,
-  "2023-01-10": 3789,
-  "2023-01-11": 3800,
-  "2023-01-12": 3801,
-  "2023-01-13": 3813,
-  "2023-01-14": 3831,
-  "2023-01-15": 3834,
-  "2023-01-16": 3849,
-  "2023-01-17": 3860,
-  "2023-01-18": 3875,
-  "2023-01-19": 3886,
-  "2023-01-20": 3901,
-  "2023-01-21": 3912,
-  "2023-01-22": 3929,
-  "2023-01-23": 3940,
-  "2023-01-24": 3953,
-  "2023-01-25": 3969,
-  "2023-01-26": 3988,
-  "2023-01-27": 4004,
-  "2023-01-28": 4021,
-  "2023-01-29": 4033,
-  "2023-01-30": 4040,
-  "2023-01-31": 4040,
-  "2023-02-01": 4064,
-  "2023-02-02": 4085,
-  "2023-02-03": 4102,
-  "2023-02-04": 4124,
-  "2023-02-05": 4140,
-  "2023-02-06": 4147,
-  "2023-02-07": 4161,
-  "2023-02-08": 4185,
-  "2023-02-09": 4185,
-  "2023-02-10": 4193,
-  "2023-02-11": 4207,
-  "2023-02-12": 4238,
-  "2023-02-13": 4251,
-  "2023-02-14": 4251,
-  "2023-02-15": 4261,
-  "2023-02-16": 4267,
-  "2023-02-17": 4288,
-  "2023-02-18": 4313,
-  "2023-02-19": 4315,
-  "2023-02-20": 4325,
-  "2023-02-21": 4345,
-  "2023-02-22": 4362,
-  "2023-02-23": 4376,
-  "2023-02-24": 4400,
-  "2023-02-25": 4420,
-  "2023-02-26": 4438,
-  "2023-02-27": 4478,
-  "2023-02-28": 4478,
-  "2023-03-01": 4491,
-  "2023-03-02": 4507,
-  "2023-03-03": 4523,
-  "2023-03-04": 4525,
-  "2023-03-05": 4567,
-  "2023-03-06": 4567,
-  "2023-03-07": 4578,
-  "2023-03-08": 4585,
-  "2023-03-09": 4597,
-  "2023-03-10": 4615,
-  "2023-03-11": 4620,
-  "2023-03-12": 4642,
-  "2023-03-13": 4663,
-  "2023-03-14": 4684,
-  "2023-03-15": 4702,
-  "2023-03-16": 4716,
-  "2023-03-17": 4716,
-  "2023-03-18": 4757,
-  "2023-03-19": 4771,
-  "2023-03-20": 4785,
-  "2023-03-21": 4806,
-  "2023-03-22": 4823,
-  "2023-03-23": 4840,
-  "2023-03-24": 4840,
-  "2023-03-25": 4868,
-  "2023-03-26": 4883,
-  "2023-03-27": 4901,
-  "2023-03-28": 4921,
-  "2023-03-29": 4939,
-  "2023-03-30": 4969,
-  "2023-03-31": 4969,
-  "2023-04-01": 4982,
-  "2023-04-02": 4994,
-  "2023-04-03": 5012,
-  "2023-04-04": 5022,
-  "2023-04-05": 5040,
-  "2023-04-06": 5050,
-  "2023-04-07": 5069,
-  "2023-04-09": 5100,
-  "2023-04-10": 5115,
-  "2023-04-11": 5147,
-  "2023-04-12": 5147,
-  "2023-04-13": 5155,
-  "2023-04-14": 5168,
-  "2023-04-15": 5187,
-  "2023-04-16": 5203,
-  "2023-04-17": 5216,
-  "2023-04-18": 5231,
-  "2023-04-19": 5240,
-  "2023-04-20": 5259,
-  "2023-04-21": 5275,
-  "2023-04-22": 5296,
-  "2023-04-23": 5308,
-  "2023-04-24": 5321,
-  "2023-04-25": 5329,
-  "2023-04-26": 5343,
-  "2023-04-27": 5369,
-  "2023-04-28": 5381,
-  "2023-04-29": 5395,
-  "2023-04-30": 5420,
-  "2023-05-01": 5439,
-  "2023-05-02": 5456,
-  "2023-05-03": 5466,
-  "2023-05-04": 5484,
-  "2023-05-05": 5508,
-  "2023-05-06": 5512,
-  "2023-05-07": 5533,
-  "2023-05-08": 5546,
-  "2023-05-09": 5565,
-  "2023-05-10": 5572,
-  "2023-05-11": 5588,
-  "2023-05-12": 5604,
-  "2023-05-13": 5617,
-  "2023-05-14": 5633,
-  "2023-05-15": 5644,
-  "2023-05-16": 5660,
-  "2023-05-17": 5676,
-  "2023-05-18": 5690,
-  "2023-05-19": 5709,
-  "2023-05-20": 5738,
-  "2023-05-21": 5738,
-  "2023-05-22": 5738,
-  "2023-05-23": 5776,
-  "2023-05-24": 5806,
-  "2023-05-25": 5809,
-  "2023-05-26": 5834,
-  "2023-05-27": 5856,
-  "2023-05-28": 5872,
-  "2023-05-29": 5872,
-  "2023-05-30": 5901,
-  "2023-05-31": 5928,
-  "2023-06-01": 5946,
-  "2023-06-02": 5967,
-  "2023-06-03": 5983,
-  "2023-06-04": 6004,
-  "2023-06-05": 6019,
-  "2023-06-06": 6052,
-  "2023-06-07": 6070,
-  "2023-06-08": 6093,
-  "2023-06-09": 6117,
-  "2023-06-10": 6133,
-  "2023-06-11": 6147,
-  "2023-06-12": 6174,
-  "2023-06-13": 6194,
-  "2023-06-14": 6221,
-  "2023-06-15": 6245,
-  "2023-06-16": 6270,
-  "2023-06-17": 6297,
-  "2023-06-18": 6326,
-  "2023-06-19": 6356,
-  "2023-06-20": 6387,
-  "2023-06-21": 6405,
-  "2023-06-22": 6433,
-  "2023-06-23": 6461,
-  "2023-06-24": 6489,
-  "2023-06-25": 6517,
-  "2023-06-26": 6537,
-  "2023-06-27": 6566,
-  "2023-06-28": 6590,
-  "2023-06-29": 6616,
-  "2023-06-30": 6645,
-  "2023-07-01": 6691,
-  "2023-07-02": 6691,
-  "2023-07-03": 6716,
-  "2023-07-04": 6742,
-  "2023-07-05": 6757,
-  "2023-07-06": 6809,
-  "2023-07-07": 6809,
-  "2023-07-08": 6837,
-  "2023-07-09": 6863,
-  "2023-07-10": 6908,
-  "2023-07-11": 6942,
-  "2023-07-12": 6963,
-  "2023-07-13": 6988,
-  "2023-07-14": 7016,
-  "2023-07-15": 7044,
-  "2023-07-16": 7077,
-  "2023-07-17": 7096,
-  "2023-07-18": 7116,
-  "2023-07-19": 7142,
-  "2023-07-20": 7167,
-  "2023-07-21": 7201,
-  "2023-07-22": 7232,
-  "2023-07-23": 7256,
-  "2023-07-24": 7273,
-  "2023-07-25": 7303,
-  "2023-07-26": 7314,
-  "2023-07-27": 7323,
-  "2023-07-28": 7352,
-  "2023-07-29": 7377,
-  "2023-07-30": 7404,
-  "2023-07-31": 7434,
-  "2023-08-01": 7464,
-  "2023-08-02": 7491,
-  "2023-08-03": 7526,
-  "2023-08-04": 7543,
-  "2023-08-05": 7564,
-  "2023-08-06": 7603,
-  "2023-08-07": 7603,
-  "2023-08-08": 7627,
-  "2023-08-09": 7644,
-  "2023-08-10": 7658,
-  "2023-08-11": 7669,
-  "2023-08-12": 7682,
-  "2023-08-13": 7701,
-  "2023-08-14": 7732,
-  "2023-08-15": 7760,
-  "2023-08-16": 7760,
-  "2023-08-17": 7792,
-  "2023-08-18": 7808,
-  "2023-08-19": 7821,
-  "2023-08-20": 7846,
-  "2023-08-21": 7874,
-  "2023-08-22": 7894,
-  "2023-08-23": 7909,
-  "2023-08-24": 7925,
-  "2023-08-25": 7943,
-  "2023-08-26": 7965,
-  "2023-08-27": 7989,
-  "2023-08-28": 8018,
-  "2023-08-29": 8036,
-  "2023-08-30": 8053,
-  "2023-08-31": 8072,
-  "2023-09-01": 8123,
-  "2023-09-02": 8123,
-  "2023-09-03": 8144,
-  "2023-09-04": 8163,
-  "2023-09-05": 8185,
-  "2023-09-06": 8198,
-  "2023-09-07": 8215,
-  "2023-09-08": 8231,
-  "2023-09-09": 8252,
-  "2023-09-10": 8265,
-  "2023-09-11": 8275,
-  "2023-09-12": 8287,
-  "2023-09-13": 8299,
-  "2023-09-14": 8299,
-  "2023-09-15": 8323,
-  "2023-09-16": 8334,
-  "2023-09-17": 8334,
-  "2023-09-18": 8378,
-  "2023-09-19": 8393,
-  "2023-09-20": 8401,
-  "2023-09-21": 8418,
-  "2023-09-22": 8428,
-  "2023-09-23": 8443,
-  "2023-09-24": 8443,
-  "2023-09-25": 8443,
-  "2023-09-26": 8474,
-  "2023-09-27": 8484,
-  "2023-09-28": 8498,
-  "2023-09-29": 8508,
-  "2023-09-30": 8508,
-  "2023-10-01": 8534,
-  "2023-10-02": 8543,
-  "2023-10-03": 8546,
-  "2023-10-04": 8551,
-  "2023-10-05": 8556,
-  "2023-10-06": 8555,
-  "2023-10-07": 8566,
-  "2023-10-08": 8571,
-  "2023-10-09": 8571,
-  "2023-10-10": 8598,
-  "2023-10-11": 8604,
-  "2023-10-12": 8604,
-  "2023-10-13": 8622,
-  "2023-10-14": 8622,
-  "2023-10-15": 8622,
-  "2023-10-16": 8622,
-  "2023-10-17": 8622,
-  "2023-10-18": 8622,
-  "2023-10-19": 8622,
-  "2023-10-20": 8622,
-  "2023-10-21": 8622,
-  "2023-10-22": 8622,
-  "2023-10-23": 8622,
-  "2023-10-24": 8711,
-  "2023-10-25": 8711,
-  "2023-10-26": 8711,
-  "2023-10-27": 8711,
-  "2023-10-28": 8711,
-  "2023-10-29": 8711,
-  "2023-10-30": 8711,
-  "2023-10-31": 8711,
-  "2023-11-01": 8711,
-  "2023-11-02": 8711,
-  "2023-11-03": 8711,
-  "2023-11-04": 8711,
-  "2023-11-05": 8711,
-  "2023-11-06": 8711,
-  "2023-11-07": 8711,
-  "2023-11-08": 8711,
-  "2023-11-09": 8711,
-  "2023-11-10": 8711,
-  "2023-11-11": 8806,
-  "2023-11-12": 8806,
-  "2023-11-13": 8806,
-  "2023-11-14": 8806,
-  "2023-11-15": 8806,
-  "2023-11-16": 8806,
-  "2023-11-17": 8822,
-  "2023-11-18": 8822,
-  "2023-11-19": 8822,
-  "2023-11-20": 8822,
-  "2023-11-21": 8822,
-  "2023-11-22": 8822,
-  "2023-11-23": 8836,
-  "2023-11-24": 8836,
-  "2023-11-25": 8836,
-  "2023-11-26": 8836,
-  "2023-11-27": 8836,
-  "2023-11-28": 8836,
-  "2023-11-29": 8836,
-  "2023-11-30": 8836,
-  "2023-12-01": 8836,
-  "2023-12-02": 8836,
-  "2023-12-03": 8836,
-  "2023-12-04": 8836,
-  "2023-12-05": 8836,
-  "2023-12-06": 8836,
-  "2023-12-07": 8836,
-  "2023-12-08": 8836,
-  "2023-12-09": 8890,
-  "2023-12-10": 8890,
-  "2023-12-11": 8889,
-  "2023-12-12": 8889,
-  "2023-12-13": 8889,
-  "2023-12-14": 8894,
-  "2023-12-15": 8895,
-  "2023-12-16": 8898,
-  "2023-12-17": 8904,
-  "2023-12-18": 8907,
-  "2023-12-19": 8906,
-  "2023-12-20": 8914,
-  "2023-12-21": 8917,
-  "2023-12-22": 8922,
-  "2023-12-23": 8923,
-  "2023-12-24": 8922,
-  "2023-12-25": 8925,
-  "2023-12-26": 8932,
-  "2023-12-27": 8928,
-  "2023-12-30": 8935,
-  "2023-12-31": 8938,
-  "2024-01-01": 8947,
-  "2024-01-02": 8948,
-  "2024-01-03": 8947
+  "2024-01-17": 614,
+  "date_first_scraped": "2022-06-02",
+  "description": "A playlist of Christian summer camp favorites, past and present.",
+  "name": "Christian Summer Camp",
+  "tracks": [
+    {
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276773,
+      "name": "Above All",
+      "url": "https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN"
+    },
+    {
+      "album": {
+        "name": "We Are Young & Free (Live)",
+        "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Alive - Studio Version",
+      "url": "https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u"
+    },
+    {
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126333,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
+    },
+    {
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "Bailee Madison",
+          "url": "https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE"
+        },
+        {
+          "name": "Jahbril Cook",
+          "url": "https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT"
+        },
+        {
+          "name": "Kat Conner Sterling",
+          "url": "https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD"
+        },
+        {
+          "name": "Iain Tucker",
+          "url": "https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139867,
+      "name": "Awesome God / God Only Knows - Campfire Medley",
+      "url": "https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3"
+    },
+    {
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/23UWXk1FORanft5u9boft9"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228679,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
+    },
+    {
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
+    },
+    {
+      "album": {
+        "name": "Don't Censor Me",
+        "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
+      },
+      "artists": [
+        {
+          "name": "Audio Adrenaline",
+          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Big House",
+      "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
+    },
+    {
+      "album": {
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348893,
+      "name": "Blessed Be Your Name",
+      "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "album": {
+        "name": "Season One",
+        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352026,
+      "name": "Brokenness Aside",
+      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
+    },
+    {
+      "album": {
+        "name": "The Kingdom of Heaven Is Like This",
+        "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
+      },
+      "artists": [
+        {
+          "name": "Rain For Roots",
+          "url": "https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182635,
+      "name": "Do Not Worry (feat. Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
+    },
+    {
+      "album": {
+        "name": "Praise And Worship Top 40",
+        "url": "https://open.spotify.com/album/41yxtxd3tOJ7CXlUPGnfWg"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Praise Band",
+          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239893,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/1HBWWoS8rdvZtPLdK4UY6g"
+    },
+    {
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS"
+      },
+      "artists": [
+        {
+          "name": "Orange Kids Music",
+          "url": "https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160130,
+      "name": "Fear Get Out of Here",
+      "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
+    },
+    {
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294800,
+      "name": "Give Me Faith",
+      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
+    },
+    {
+      "album": {
+        "name": "Great Big God",
+        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Vineyard Kids",
+          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171773,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+    },
+    {
+      "album": {
+        "name": "Simply Worship",
+        "url": "https://open.spotify.com/album/3tTXAa3g7P8iA5fphqeHpW"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 315306,
+      "name": "Here I Am To Worship",
+      "url": "https://open.spotify.com/track/1jJGsbNUHIx56LERqyJrah"
+    },
+    {
+      "album": {
+        "name": "Ultimate Collection",
+        "url": "https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317113,
+      "name": "Here I Am To Worship",
+      "url": "https://open.spotify.com/track/0uOd48gTo5pVFzk6Yrba6Y"
+    },
+    {
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/0v4hMZok1tOdMGPRlcKXOC"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 316866,
+      "name": "Here I Am To Worship - Mission Worship - In Christ Alone Album Version",
+      "url": "https://open.spotify.com/track/6CWg6OxlJE72TOLNja5vqh"
+    },
+    {
+      "album": {
+        "name": "Gotee Hits",
+        "url": "https://open.spotify.com/album/4dm9eudoPrZgupGdfOSrzG"
+      },
+      "artists": [
+        {
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199440,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/0A32dbMVBWsk1y0ewKWvkx"
+    },
+    {
+      "album": {
+        "name": "The Art of Translation",
+        "url": "https://open.spotify.com/album/2DtNX7KFKsCf1CNJt5gvif"
+      },
+      "artists": [
+        {
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199440,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/56Dfc7SRXmLVUH2Dx4Soa2"
+    },
+    {
+      "album": {
+        "name": "The Art of Translation",
+        "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
+      },
+      "artists": [
+        {
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q"
+    },
+    {
+      "album": {
+        "name": "Majestic (Revisited)",
+        "url": "https://open.spotify.com/album/3gWb1UHZunO0Gz28KIyH6w"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305026,
+      "name": "Holy Spirit - Revisited",
+      "url": "https://open.spotify.com/track/4Jvq8lCTo5shqoqeDTQ9F7"
+    },
+    {
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
+    },
+    {
+      "album": {
+        "name": "I Am Alive",
+        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
+      },
+      "artists": [
+        {
+          "name": "SL Worship",
+          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228506,
+      "name": "I Am Alive",
+      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
+    },
+    {
+      "album": {
+        "name": "Sunday School Songs",
+        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93786,
+      "name": "I've Got Peace Like A River",
+      "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
+    },
+    {
+      "album": {
+        "name": "Jesus Freak (Remastered)",
+        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305480,
+      "name": "In The Light - Remastered 2013",
+      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
+    },
+    {
+      "album": {
+        "name": "8 Great Hits dc Talk",
+        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287173,
+      "name": "Jesus Freak",
+      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
+    },
+    {
+      "album": {
+        "name": "As Family We Go",
+        "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226373,
+      "name": "Joy Of The Lord",
+      "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
+    },
+    {
+      "album": {
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
+      },
+      "artists": [
+        {
+          "name": "Copper Pointe Worship",
+          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188520,
+      "name": "Lift You Higher",
+      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
+    },
+    {
+      "album": {
+        "name": "Living in Freedom",
+        "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
+      },
+      "artists": [
+        {
+          "name": "Stephen Witt",
+          "url": "https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266253,
+      "name": "Living in Freedom",
+      "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
+    },
+    {
+      "album": {
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
+    },
+    {
+      "album": {
+        "name": "SonicPraise",
+        "url": "https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name On High",
+      "url": "https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection: Worship",
+        "url": "https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 381626,
+      "name": "Lord I Lift Your Name On High",
+      "url": "https://open.spotify.com/track/5uDZy78ASEbX2uMqR69BwT"
+    },
+    {
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
+    },
+    {
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+    },
+    {
+      "album": {
+        "name": "Love Like You (Laudr8 Remix)",
+        "url": "https://open.spotify.com/album/5JsuVLJIXwJcC1b0QG086M"
+      },
+      "artists": [
+        {
+          "name": "N + I",
+          "url": "https://open.spotify.com/artist/2W8wysjBNC2z0U87dTzGpm"
+        },
+        {
+          "name": "Laudr8",
+          "url": "https://open.spotify.com/artist/6lemZqDbBHWop31eZGxX8i"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "Love Like You (Laudr8 Remix)",
+      "url": "https://open.spotify.com/track/2WFOLhpZmDGhl1xmwIIZrJ"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Love Won't Let Me Down",
+      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Letdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "Meant to Live",
+      "url": "https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "album": {
+        "name": "More Than Good Enough",
+        "url": "https://open.spotify.com/album/46FVrs8EC3twbTNHVWCLVt"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223688,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/4nZN50JWs7JTQxbW3PXNKV"
+    },
+    {
+      "album": {
+        "name": "The Art Of Celebration",
+        "url": "https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224169,
+      "name": "My Lighthouse",
+      "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
+      },
+      "artists": [
+        {
+          "name": "Amber Sky Records",
+          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
+        },
+        {
+          "name": "Emily Hearn",
+          "url": "https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "My Strength (feat. Emily Hearn)",
+      "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
+    },
+    {
+      "album": {
+        "name": "We Belong To Jesus (feat. New Life Kids)",
+        "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        },
+        {
+          "name": "New Life Kids",
+          "url": "https://open.spotify.com/artist/7gEZRb7O8vKSmKFCNjypG2"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "Never Be Shaken",
+      "url": "https://open.spotify.com/track/4siHGq67CuIl7m8L5qC3a5"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kids Worship",
+        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232489,
+      "name": "Nothing Is Impossible",
+      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
+    },
+    {
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249640,
+      "name": "Oceans (Where Feet May Fail) - Radio Version",
+      "url": "https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs"
+    },
+    {
+      "album": {
+        "name": "The Art of Translation",
+        "url": "https://open.spotify.com/album/2DtNX7KFKsCf1CNJt5gvif"
+      },
+      "artists": [
+        {
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233173,
+      "name": "Ooh Ahh (My Life Be Like) (feat. Toby Mac)",
+      "url": "https://open.spotify.com/track/2cGJxXXIBrxMhk2fWUJTLs"
+    },
+    {
+      "album": {
+        "name": "The Art of Translation",
+        "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
+      },
+      "artists": [
+        {
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "Ooh Ahh (My Life Be Like) [feat. Tobymac]",
+      "url": "https://open.spotify.com/track/1KBN9lYx9QkfUJC3NSXlhQ"
+    },
+    {
+      "album": {
+        "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
+        "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
+      },
+      "artists": [
+        {
+          "name": "Elevation",
+          "url": "https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252725,
+      "name": "Open the Eyes of My Heart Lord",
+      "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
+    },
+    {
+      "album": {
+        "name": "Action Bible Songs",
+        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127800,
+      "name": "Rise And Shine (Arky, Arky)",
+      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
+    },
+    {
+      "album": {
+        "name": "Top 25 Praise Songs: 2005",
+        "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Praise Band",
+          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "Shine, Jesus Shine",
+      "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
+    },
+    {
+      "album": {
+        "name": "How Could I Be Silent",
+        "url": "https://open.spotify.com/album/5MQxNJ9Fg8AyhHmHf4VUdY"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/2iLIzTOmpyPv24l0mfdhLA"
+    },
+    {
+      "album": {
+        "name": "How Could I Be Silent",
+        "url": "https://open.spotify.com/album/5WDL5SKUnD01m3oEHGSJ4A"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212520,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/7Jsgkhp3pASBzaqb4vI9nW"
+    },
+    {
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184733,
+      "name": "Start a Fire",
+      "url": "https://open.spotify.com/track/4jdQaEDZ4y3x54FzxnfYAQ"
+    },
+    {
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184733,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
+    },
+    {
+      "album": {
+        "name": "Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol. 7",
+        "url": "https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV"
+      },
+      "artists": [
+        {
+          "name": "GroupMusic",
+          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178155,
+      "name": "The Golden Rule",
+      "url": "https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb"
+    },
+    {
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "Bailee Madison",
+          "url": "https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE"
+        },
+        {
+          "name": "Jahbril Cook",
+          "url": "https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT"
+        },
+        {
+          "name": "Kat Conner Sterling",
+          "url": "https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD"
+        },
+        {
+          "name": "Iain Tucker",
+          "url": "https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN"
+        },
+        {
+          "name": "Sherri Shepherd",
+          "url": "https://open.spotify.com/artist/006eSnqZrWRa4Z7jhlCt4J"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222765,
+      "name": "The Great Adventure",
+      "url": "https://open.spotify.com/track/3Qpx3cHP6XMmf8comtpjkT"
+    },
+    {
+      "album": {
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318120,
+      "name": "The Heart Of Worship",
+      "url": "https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH"
+    },
+    {
+      "album": {
+        "name": "This Is Living",
+        "url": "https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "This Is Living",
+      "url": "https://open.spotify.com/track/6TCk1yecQRDU5sXG3vjTYj"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
+      },
+      "artists": [
+        {
+          "name": "Darrell Evans",
+          "url": "https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361173,
+      "name": "Trading My Sorrows (Yes Lord)",
+      "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
+    },
+    {
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288640,
+      "name": "When You Walk Into The Room",
+      "url": "https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4"
+    },
+    {
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228063,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 2",
+        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229487,
+      "name": "You Are My All In All",
+      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+    },
+    {
+      "album": {
+        "name": "You Tell Me",
+        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
+      },
+      "artists": [
+        {
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "You Tell Me",
+      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcaKTBuc6XdP"
 }

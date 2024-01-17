@@ -1,433 +1,1253 @@
 {
-  "2022-10-26": 32705,
-  "2022-10-27": 32722,
-  "2022-10-28": 32738,
-  "2022-10-29": 32760,
-  "2022-10-30": 32770,
-  "2022-10-31": 32780,
-  "2022-11-01": 32791,
-  "2022-11-02": 32800,
-  "2022-11-03": 32806,
-  "2022-11-04": 32831,
-  "2022-11-05": 32842,
-  "2022-11-06": 32847,
-  "2022-11-07": 32856,
-  "2022-11-08": 32862,
-  "2022-11-09": 32876,
-  "2022-11-10": 32890,
-  "2022-11-11": 32906,
-  "2022-11-12": 32917,
-  "2022-11-13": 32927,
-  "2022-11-14": 32932,
-  "2022-11-15": 32939,
-  "2022-11-16": 32953,
-  "2022-11-17": 32965,
-  "2022-11-18": 32964,
-  "2022-11-19": 32961,
-  "2022-11-20": 32967,
-  "2022-11-21": 32977,
-  "2022-11-22": 32991,
-  "2022-11-23": 32998,
-  "2022-11-24": 33048,
-  "2022-11-25": 33042,
-  "2022-11-26": 33051,
-  "2022-11-27": 33055,
-  "2022-11-28": 33066,
-  "2022-11-29": 33072,
-  "2022-11-30": 33073,
-  "2022-12-01": 33089,
-  "2022-12-02": 33092,
-  "2022-12-03": 33100,
-  "2022-12-04": 33108,
-  "2022-12-05": 33116,
-  "2022-12-06": 33118,
-  "2022-12-07": 33129,
-  "2022-12-08": 33139,
-  "2022-12-09": 33154,
-  "2022-12-10": 33165,
-  "2022-12-11": 33179,
-  "2022-12-12": 33187,
-  "2022-12-13": 33196,
-  "2022-12-14": 33202,
-  "2022-12-15": 33211,
-  "2022-12-16": 33224,
-  "2022-12-17": 33227,
-  "2022-12-18": 33240,
-  "2022-12-19": 33253,
-  "2022-12-20": 33265,
-  "2022-12-21": 33265,
-  "2022-12-22": 33275,
-  "2022-12-24": 33287,
-  "2022-12-25": 33298,
-  "2022-12-26": 33298,
-  "2022-12-27": 33305,
-  "2022-12-28": 33310,
-  "2022-12-29": 33315,
-  "2022-12-30": 33314,
-  "2022-12-31": 33320,
-  "2023-01-01": 33328,
-  "2023-01-02": 33336,
-  "2023-01-03": 33347,
-  "2023-01-04": 33345,
-  "2023-01-05": 33351,
-  "2023-01-06": 33358,
-  "2023-01-07": 33375,
-  "2023-01-08": 33380,
-  "2023-01-09": 33387,
-  "2023-01-10": 33394,
-  "2023-01-11": 33397,
-  "2023-01-12": 33407,
-  "2023-01-13": 33411,
-  "2023-01-14": 33424,
-  "2023-01-15": 33426,
-  "2023-01-16": 33437,
-  "2023-01-17": 33439,
-  "2023-01-18": 33444,
-  "2023-01-19": 33453,
-  "2023-01-20": 33461,
-  "2023-01-21": 33467,
-  "2023-01-22": 33477,
-  "2023-01-23": 33491,
-  "2023-01-24": 33494,
-  "2023-01-25": 33504,
-  "2023-01-26": 33516,
-  "2023-01-27": 33534,
-  "2023-01-28": 33544,
-  "2023-01-29": 33555,
-  "2023-01-30": 33554,
-  "2023-01-31": 33554,
-  "2023-02-01": 33570,
-  "2023-02-02": 33575,
-  "2023-02-03": 33584,
-  "2023-02-04": 33597,
-  "2023-02-05": 33614,
-  "2023-02-06": 33619,
-  "2023-02-07": 33629,
-  "2023-02-08": 33645,
-  "2023-02-09": 33645,
-  "2023-02-10": 33657,
-  "2023-02-11": 33667,
-  "2023-02-12": 33675,
-  "2023-02-13": 33682,
-  "2023-02-14": 33682,
-  "2023-02-15": 33691,
-  "2023-02-16": 33707,
-  "2023-02-17": 33718,
-  "2023-02-18": 33732,
-  "2023-02-19": 33734,
-  "2023-02-20": 33735,
-  "2023-02-21": 33746,
-  "2023-02-22": 33751,
-  "2023-02-23": 33760,
-  "2023-02-24": 33765,
-  "2023-02-25": 33779,
-  "2023-02-26": 33788,
-  "2023-02-27": 33796,
-  "2023-02-28": 33796,
-  "2023-03-01": 33797,
-  "2023-03-02": 33809,
-  "2023-03-03": 33829,
-  "2023-03-04": 33842,
-  "2023-03-05": 33856,
-  "2023-03-06": 33856,
-  "2023-03-07": 33863,
-  "2023-03-08": 33876,
-  "2023-03-09": 33889,
-  "2023-03-10": 33889,
-  "2023-03-11": 33897,
-  "2023-03-12": 33913,
-  "2023-03-13": 33928,
-  "2023-03-14": 33930,
-  "2023-03-15": 33932,
-  "2023-03-16": 33932,
-  "2023-03-17": 33932,
-  "2023-03-18": 33955,
-  "2023-03-19": 33955,
-  "2023-03-20": 33976,
-  "2023-03-21": 33984,
-  "2023-03-22": 33989,
-  "2023-03-23": 34004,
-  "2023-03-24": 34004,
-  "2023-03-25": 34035,
-  "2023-03-26": 34046,
-  "2023-03-27": 34056,
-  "2023-03-28": 34063,
-  "2023-03-29": 34074,
-  "2023-03-30": 34091,
-  "2023-03-31": 34091,
-  "2023-04-01": 34100,
-  "2023-04-02": 34105,
-  "2023-04-03": 34118,
-  "2023-04-04": 34129,
-  "2023-04-05": 34139,
-  "2023-04-06": 34144,
-  "2023-04-07": 34158,
-  "2023-04-09": 34171,
-  "2023-04-10": 34177,
-  "2023-04-11": 34191,
-  "2023-04-12": 34191,
-  "2023-04-13": 34196,
-  "2023-04-14": 34203,
-  "2023-04-15": 34216,
-  "2023-04-16": 34228,
-  "2023-04-17": 34231,
-  "2023-04-18": 34236,
-  "2023-04-19": 34241,
-  "2023-04-20": 34245,
-  "2023-04-21": 34255,
-  "2023-04-22": 34257,
-  "2023-04-23": 34268,
-  "2023-04-24": 34279,
-  "2023-04-25": 34292,
-  "2023-04-26": 34303,
-  "2023-04-27": 34305,
-  "2023-04-28": 34315,
-  "2023-04-29": 34321,
-  "2023-04-30": 34332,
-  "2023-05-01": 34334,
-  "2023-05-02": 34336,
-  "2023-05-03": 34335,
-  "2023-05-04": 34344,
-  "2023-05-05": 34358,
-  "2023-05-06": 34372,
-  "2023-05-07": 34383,
-  "2023-05-08": 34394,
-  "2023-05-09": 34402,
-  "2023-05-10": 34413,
-  "2023-05-11": 34415,
-  "2023-05-12": 34425,
-  "2023-05-13": 34435,
-  "2023-05-14": 34445,
-  "2023-05-15": 34461,
-  "2023-05-16": 34465,
-  "2023-05-17": 34474,
-  "2023-05-18": 34485,
-  "2023-05-19": 34492,
-  "2023-05-20": 34508,
-  "2023-05-21": 34508,
-  "2023-05-22": 34508,
-  "2023-05-23": 34508,
-  "2023-05-24": 34526,
-  "2023-05-25": 34528,
-  "2023-05-26": 34537,
-  "2023-05-27": 34541,
-  "2023-05-28": 34553,
-  "2023-05-29": 34553,
-  "2023-05-30": 34577,
-  "2023-05-31": 34589,
-  "2023-06-01": 34593,
-  "2023-06-02": 34607,
-  "2023-06-03": 34614,
-  "2023-06-04": 34623,
-  "2023-06-05": 34635,
-  "2023-06-06": 34642,
-  "2023-06-07": 34660,
-  "2023-06-08": 34664,
-  "2023-06-09": 34671,
-  "2023-06-10": 34679,
-  "2023-06-11": 34694,
-  "2023-06-12": 34702,
-  "2023-06-13": 34715,
-  "2023-06-14": 34726,
-  "2023-06-15": 34738,
-  "2023-06-16": 34741,
-  "2023-06-17": 34756,
-  "2023-06-18": 34765,
-  "2023-06-19": 34768,
-  "2023-06-20": 34779,
-  "2023-06-21": 34782,
-  "2023-06-22": 34793,
-  "2023-06-23": 34801,
-  "2023-06-24": 34812,
-  "2023-06-25": 34820,
-  "2023-06-26": 34831,
-  "2023-06-27": 34840,
-  "2023-06-28": 34851,
-  "2023-06-29": 34860,
-  "2023-06-30": 34865,
-  "2023-07-01": 34889,
-  "2023-07-02": 34889,
-  "2023-07-03": 34900,
-  "2023-07-04": 34915,
-  "2023-07-05": 34920,
-  "2023-07-06": 34945,
-  "2023-07-07": 34945,
-  "2023-07-08": 34958,
-  "2023-07-09": 34965,
-  "2023-07-10": 34971,
-  "2023-07-11": 34982,
-  "2023-07-12": 34989,
-  "2023-07-13": 35000,
-  "2023-07-14": 35010,
-  "2023-07-15": 35015,
-  "2023-07-16": 35030,
-  "2023-07-17": 35037,
-  "2023-07-18": 35047,
-  "2023-07-19": 35055,
-  "2023-07-20": 35064,
-  "2023-07-21": 35076,
-  "2023-07-22": 35085,
-  "2023-07-23": 35094,
-  "2023-07-24": 35100,
-  "2023-07-25": 35110,
-  "2023-07-26": 35123,
-  "2023-07-27": 35135,
-  "2023-07-28": 35148,
-  "2023-07-29": 35157,
-  "2023-07-30": 35168,
-  "2023-07-31": 35178,
-  "2023-08-01": 35188,
-  "2023-08-02": 35203,
-  "2023-08-03": 35208,
-  "2023-08-04": 35212,
-  "2023-08-05": 35220,
-  "2023-08-06": 35223,
-  "2023-08-07": 35223,
-  "2023-08-08": 35233,
-  "2023-08-09": 35241,
-  "2023-08-10": 35252,
-  "2023-08-11": 35262,
-  "2023-08-12": 35262,
-  "2023-08-13": 35262,
-  "2023-08-14": 35286,
-  "2023-08-15": 35286,
-  "2023-08-16": 35286,
-  "2023-08-17": 35345,
-  "2023-08-18": 35345,
-  "2023-08-19": 35345,
-  "2023-08-20": 35387,
-  "2023-08-21": 35387,
-  "2023-08-22": 35403,
-  "2023-08-23": 35403,
-  "2023-08-24": 35403,
-  "2023-08-25": 35403,
-  "2023-08-26": 35458,
-  "2023-08-27": 35458,
-  "2023-08-28": 35482,
-  "2023-08-29": 35482,
-  "2023-08-30": 35482,
-  "2023-08-31": 35511,
-  "2023-09-01": 35522,
-  "2023-09-02": 35522,
-  "2023-09-03": 35552,
-  "2023-09-04": 35552,
-  "2023-09-05": 35552,
-  "2023-09-06": 35589,
-  "2023-09-07": 35589,
-  "2023-09-08": 35589,
-  "2023-09-09": 35589,
-  "2023-09-10": 35619,
-  "2023-09-11": 35619,
-  "2023-09-12": 35619,
-  "2023-09-13": 35646,
-  "2023-09-14": 35646,
-  "2023-09-15": 35646,
-  "2023-09-16": 35674,
-  "2023-09-17": 35674,
-  "2023-09-18": 35674,
-  "2023-09-19": 35696,
-  "2023-09-20": 35696,
-  "2023-09-21": 35696,
-  "2023-09-22": 35721,
-  "2023-09-23": 35721,
-  "2023-09-24": 35721,
-  "2023-09-25": 35721,
-  "2023-09-26": 35763,
-  "2023-09-27": 35763,
-  "2023-09-28": 35763,
-  "2023-09-29": 35763,
-  "2023-09-30": 35763,
-  "2023-10-01": 35763,
-  "2023-10-02": 35821,
-  "2023-10-03": 35821,
-  "2023-10-04": 35821,
-  "2023-10-05": 35855,
-  "2023-10-06": 35855,
-  "2023-10-07": 35855,
-  "2023-10-08": 35855,
-  "2023-10-09": 35855,
-  "2023-10-10": 35855,
-  "2023-10-11": 35874,
-  "2023-10-12": 35874,
-  "2023-10-13": 35874,
-  "2023-10-14": 35874,
-  "2023-10-15": 35874,
-  "2023-10-16": 35874,
-  "2023-10-17": 35874,
-  "2023-10-18": 35874,
-  "2023-10-19": 35874,
-  "2023-10-20": 35874,
-  "2023-10-21": 35874,
-  "2023-10-22": 35874,
-  "2023-10-23": 35874,
-  "2023-10-24": 35874,
-  "2023-10-25": 35874,
-  "2023-10-26": 35874,
-  "2023-10-27": 35874,
-  "2023-10-28": 35874,
-  "2023-10-29": 35874,
-  "2023-10-30": 35874,
-  "2023-10-31": 35874,
-  "2023-11-01": 35874,
-  "2023-11-02": 35874,
-  "2023-11-03": 35874,
-  "2023-11-04": 35874,
-  "2023-11-05": 35874,
-  "2023-11-06": 35874,
-  "2023-11-07": 35874,
-  "2023-11-08": 35874,
-  "2023-11-09": 35874,
-  "2023-11-10": 35874,
-  "2023-11-11": 36082,
-  "2023-11-12": 36082,
-  "2023-11-13": 36082,
-  "2023-11-14": 36082,
-  "2023-11-15": 36082,
-  "2023-11-16": 36082,
-  "2023-11-17": 36082,
-  "2023-11-18": 36082,
-  "2023-11-19": 36082,
-  "2023-11-20": 36082,
-  "2023-11-21": 36082,
-  "2023-11-22": 36082,
-  "2023-11-23": 36082,
-  "2023-11-24": 36082,
-  "2023-11-25": 36082,
-  "2023-11-26": 36082,
-  "2023-11-27": 36082,
-  "2023-11-28": 36082,
-  "2023-11-29": 36082,
-  "2023-11-30": 36082,
-  "2023-12-01": 36082,
-  "2023-12-02": 36082,
-  "2023-12-03": 36082,
-  "2023-12-04": 36082,
-  "2023-12-05": 36082,
-  "2023-12-06": 36082,
-  "2023-12-07": 36082,
-  "2023-12-08": 36082,
-  "2023-12-09": 36082,
-  "2023-12-10": 36082,
-  "2023-12-11": 36082,
-  "2023-12-12": 36082,
-  "2023-12-13": 36082,
-  "2023-12-14": 36327,
-  "2023-12-15": 36333,
-  "2023-12-16": 36344,
-  "2023-12-17": 36352,
-  "2023-12-18": 36358,
-  "2023-12-19": 36362,
-  "2023-12-20": 36368,
-  "2023-12-21": 36367,
-  "2023-12-22": 36380,
-  "2023-12-23": 36386,
-  "2023-12-24": 36394,
-  "2023-12-25": 36401,
-  "2023-12-26": 36403,
-  "2023-12-27": 36411,
-  "2023-12-30": 36424,
-  "2023-12-31": 36425,
-  "2024-01-01": 36431,
-  "2024-01-02": 36425,
-  "2024-01-03": 36433
+  "2024-01-17": 36505,
+  "date_first_scraped": "2022-10-26",
+  "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
+  "name": "This Is Taking Back Sunday",
+  "tracks": [
+    {
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
+    },
+    {
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/216CNxCLlMTynBoS9uZAb2"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 299721,
+      "name": "A Song For Dan",
+      "url": "https://open.spotify.com/track/54ZRdH8aJD9yUbkJmkFqKz"
+    },
+    {
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/216CNxCLlMTynBoS9uZAb2"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 239453,
+      "name": "All Ready To Go",
+      "url": "https://open.spotify.com/track/0rkg1WLUTCvzYM8ViG29d8"
+    },
+    {
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 228322,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/5HS7t19RoitQdGssdOCzkf"
+    },
+    {
+      "album": {
+        "name": "Amphetamine Smiles",
+        "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 185653,
+      "name": "Amphetamine Smiles",
+      "url": "https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185653,
+      "name": "Amphetamine Smiles",
+      "url": "https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN"
+    },
+    {
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191583,
+      "name": "Beat Up Car",
+      "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
+    },
+    {
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "Best Places To Be A Mom",
+      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
+    },
+    {
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234142,
+      "name": "Better Homes And Gardens",
+      "url": "https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D"
+    },
+    {
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Bonus Mosh Pt. II",
+      "url": "https://open.spotify.com/track/29zr7yJcEHQpCXz8aAZWOb"
+    },
+    {
+      "album": {
+        "name": "Bullet With Butterfly Wings",
+        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272093,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Call Come Running",
+      "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
+    },
+    {
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239306,
+      "name": "Call Me In The Morning",
+      "url": "https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux"
+    },
+    {
+      "album": {
+        "name": "Transformers: Revenge Of The Fallen The Album",
+        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168360,
+      "name": "Capital M-E",
+      "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
+    },
+    {
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-28",
+      "duration_ms": 168360,
+      "name": "Capital M-E",
+      "url": "https://open.spotify.com/track/7gZpGRd8lzWXBIMDWIN2LX"
+    },
+    {
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 232026,
+      "name": "Cut Me Up Jenny",
+      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
+    },
+    {
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212937,
+      "name": "Cute Without The 'E' (Cut From The Team) - Remastered",
+      "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4"
+    },
+    {
+      "album": {
+        "name": "Cute Without The E (Ziri)",
+        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Cute Without The E (Ziri)",
+      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 252506,
+      "name": "Death Wolf",
+      "url": "https://open.spotify.com/track/2D1i89f8JciKL4IOmUwdEy"
+    },
+    {
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 196440,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/0uUCGxUnbgiYDc9mnj9nZh"
+    },
+    {
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171831,
+      "name": "Error Operator",
+      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
+    },
+    {
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284360,
+      "name": "Everything Must Go",
+      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
+    },
+    {
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Faith (When I Let You Down)",
+      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 217453,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/4XtYWu7zHWqBOBgjVbgd74"
+    },
+    {
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273519,
+      "name": "Flicker, Fade",
+      "url": "https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e"
+    },
+    {
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215423,
+      "name": "Great Romances Of The 20th Century - Remastered",
+      "url": "https://open.spotify.com/track/3c8n08bk0XGdL3HKro1kpD"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 188653,
+      "name": "I Am The Only One Who Knows You",
+      "url": "https://open.spotify.com/track/2mHQcAgn3gcg5UxDidJd1X"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 322906,
+      "name": "I Felt It Too",
+      "url": "https://open.spotify.com/track/4gQGrIw38yZITh4JQNEVOO"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 194920,
+      "name": "Juice 2 Me",
+      "url": "https://open.spotify.com/track/0CyVjQtb75XP8yH0MDQZKb"
+    },
+    {
+      "album": {
+        "name": "Just Us Two",
+        "url": "https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228638,
+      "name": "Just Us Two",
+      "url": "https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192813,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE"
+    },
+    {
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Liar (It Takes One To Know One)",
+      "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "Lightbringer",
+      "url": "https://open.spotify.com/track/4tXjfYEBt6TFR9uw6Dsxpq"
+    },
+    {
+      "album": {
+        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207280,
+      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+    },
+    {
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208280,
+      "name": "MakeDamnSure",
+      "url": "https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX"
+    },
+    {
+      "album": {
+        "name": "Tell All Your Friends (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 201920,
+      "name": "Mutual Head Club - Demo",
+      "url": "https://open.spotify.com/track/5UYNFezTaq71mYe6dfu9LO"
+    },
+    {
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247226,
+      "name": "My Blue Heaven",
+      "url": "https://open.spotify.com/track/6pYzQWbPT3zw4F8Y5euTfl"
+    },
+    {
+      "album": {
+        "name": "My Name Is Jonas",
+        "url": "https://open.spotify.com/album/0Amv7DoAWRHE1nPS2LGXmw"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 196840,
+      "name": "My Name Is Jonas",
+      "url": "https://open.spotify.com/track/5824RecoRviXjWRAYNuFyM"
+    },
+    {
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213533,
+      "name": "New Again",
+      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "New Music Friday",
+      "url": "https://open.spotify.com/track/2NC1x67is50XdNyvvNPjJ1"
+    },
+    {
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 239081,
+      "name": "Nothing At All",
+      "url": "https://open.spotify.com/track/0IKqfoRn3Lp8gGnM8IcrcD"
+    },
+    {
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229533,
+      "name": "Number Five With A Bullet",
+      "url": "https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr"
+    },
+    {
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233866,
+      "name": "One-Eighty By Summer",
+      "url": "https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195733,
+      "name": "Quit Trying",
+      "url": "https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti"
+    },
+    {
+      "album": {
+        "name": "S'old (Remixes)",
+        "url": "https://open.spotify.com/album/0KLeIGewVPe1KRB9dv7Mue"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        {
+          "name": "Tushar Apte",
+          "url": "https://open.spotify.com/artist/6LCld2MR6JS728sAQkn2ve"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131733,
+      "name": "S'old - Springloaded Remix",
+      "url": "https://open.spotify.com/track/7gGuvt2UiEYj4KRxrfmQsh"
+    },
+    {
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Set Phasers To Stun",
+      "url": "https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx"
+    },
+    {
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183706,
+      "name": "Sink Into Me",
+      "url": "https://open.spotify.com/track/3XctWgpqES8k6NcpJuS1jA"
+    },
+    {
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/1rnuOugmaCQNaYxMhGrSyT"
+    },
+    {
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219963,
+      "name": "Stood A Chance",
+      "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
+    },
+    {
+      "album": {
+        "name": "Tony Hawk's American Wasteland Soundtrack",
+        "url": "https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 116053,
+      "name": "Suburban Home / I Like Food",
+      "url": "https://open.spotify.com/track/0QAnIy8DmxJNaClLQVYlxM"
+    },
+    {
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "Summer, Man",
+      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
+    },
+    {
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
+    },
+    {
+      "album": {
+        "name": "S'old",
+        "url": "https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 163493,
+      "name": "S\u2019old",
+      "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "S\u2019old",
+      "url": "https://open.spotify.com/track/3CnO992SN5Pg4teEUJ8z2X"
+    },
+    {
+      "album": {
+        "name": "Victory Style, Vol. 5",
+        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 232066,
+      "name": "The Ballad Of Sal Villanueva",
+      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 197781,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197786,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je"
+    },
+    {
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228609,
+      "name": "There's No 'I' In Team - Remastered",
+      "url": "https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG"
+    },
+    {
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "This Is All Now",
+      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
+    },
+    {
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251373,
+      "name": "This Photograph Is Proof (I Know You Know)",
+      "url": "https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152360,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/1LX0mHhWjzv03627Qi80Qd"
+    },
+    {
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205125,
+      "name": "Timberwolves At New Jersey - Remastered",
+      "url": "https://open.spotify.com/track/1JFPraHovseDzutd6BOIry"
+    },
+    {
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227506,
+      "name": "What's It Feel Like To Be A Ghost?",
+      "url": "https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267813,
+      "name": "You Can't Look Back",
+      "url": "https://open.spotify.com/track/5qHSOO5fanhbdjPaiAIeVY"
+    },
+    {
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe"
+    },
+    {
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201358,
+      "name": "You Know How I Do - Remastered",
+      "url": "https://open.spotify.com/track/7zqyhEbjAajHuvH2Icn1Hr"
+    },
+    {
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181336,
+      "name": "You're So Last Summer - Remastered",
+      "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
+    },
+    {
+      "album": {
+        "name": "Live From Orensanz",
+        "url": "https://open.spotify.com/album/586wLbc8nvAWQXVcAAwib4"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 296906,
+      "name": "Your Own Disaster - Live From Orensanz, New York, NY / 2010",
+      "url": "https://open.spotify.com/track/1aggSZloUOTB3Y6vGMD8GS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b7p16"
 }

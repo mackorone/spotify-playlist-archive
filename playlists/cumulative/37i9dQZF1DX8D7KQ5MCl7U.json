@@ -588,7 +588,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Ajab Khail",
       "url": "https://open.spotify.com/track/427BC6reuQ7MFaucXBovNQ"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 325454,
       "name": "Ballay Ballay",
       "url": "https://open.spotify.com/track/0oTc1HOfVDuqGU3DrohNWm"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 358481,
       "name": "Bol",
       "url": "https://open.spotify.com/track/1duKMLHT2Zgs17ssrtx902"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 348000,
       "name": "Chal Diyay",
       "url": "https://open.spotify.com/track/2BnBTE1aK5OLXmrdx951Lg"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 187040,
       "name": "Cricket Khidaiye",
       "url": "https://open.spotify.com/track/5gOO2HvBaYqwlTChlmurzd"
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
@@ -2792,6 +2792,28 @@
       "duration_ms": 436542,
       "name": "Hina Ki Khushbu",
       "url": "https://open.spotify.com/track/7Lnuzd3yjL157DIwvhTM6p"
+    },
+    {
+      "album": {
+        "name": "Hina Ki Khushbu (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/5bfPk7k07jhL01WAojtaen"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Samra Khan",
+          "url": "https://open.spotify.com/artist/6RTvKMKR11gpANguOSx5vv"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436542,
+      "name": "Hina Ki Khushbu - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/2XXm0MVlFidBfeO1UIFJ9M"
     },
     {
       "album": {
@@ -3732,7 +3754,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 326252,
       "name": "Keedar",
       "url": "https://open.spotify.com/track/260stHweKoYmMbztG3cpRN"
@@ -3758,7 +3780,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": "2024-01-13",
       "duration_ms": 964760,
       "name": "Khabaram Raseeda",
       "url": "https://open.spotify.com/track/0q4658Fq3RFbtzxMyeo1HI"
@@ -3984,6 +4006,24 @@
       "duration_ms": 261010,
       "name": "Kinaray",
       "url": "https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I"
+    },
+    {
+      "album": {
+        "name": "Kinaray (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/1kYjfNM4mmZjdnqOCTnjjX"
+      },
+      "artists": [
+        {
+          "name": "Mekaal Hasan Band",
+          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261010,
+      "name": "Kinaray - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/0rLTPr8MuyUiJZqYfeyD83"
     },
     {
       "album": {
@@ -4278,7 +4318,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 364753,
       "name": "Lambi Judaai",
       "url": "https://open.spotify.com/track/6gXuetJiQ00vPIy6zs3SGR"
@@ -4480,7 +4520,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 266000,
       "name": "Mahi Ve",
       "url": "https://open.spotify.com/track/115hRY1suqgzrw5IUfspTW"
@@ -5607,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "Neun La Leya (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/5DS2vMT0HKcMFRyCAbvJqj"
+      },
+      "artists": [
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436309,
+      "name": "Neun La Leya - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/03We3hIYal3nbit50UWi1o"
+    },
+    {
+      "album": {
         "name": "Coke Studio Sessions (Season 4)",
         "url": "https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs"
       },
@@ -6691,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "Rung Jindri (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/1tSwsJ64Kh6lg6Ejo74h5j"
+      },
+      "artists": [
+        {
+          "name": "Arif Lohar",
+          "url": "https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360266,
+      "name": "Rung Jindri - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/0rgdSKxrgi1xUVZ8MI89kV"
+    },
+    {
+      "album": {
         "name": "Saari Duniya",
         "url": "https://open.spotify.com/album/4GzAnKEqzZohDHQjfQJniG"
       },
@@ -6742,7 +6818,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 357579,
       "name": "Sab Aakho Ali Ali",
       "url": "https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5"

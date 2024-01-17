@@ -1,735 +1,913 @@
 {
-  "2021-12-25": 366,
-  "2021-12-26": 366,
-  "2021-12-27": 370,
-  "2021-12-28": 370,
-  "2021-12-29": 371,
-  "2021-12-30": 370,
-  "2021-12-31": 371,
-  "2022-01-01": 373,
-  "2022-01-02": 373,
-  "2022-01-03": 375,
-  "2022-01-04": 376,
-  "2022-01-05": 376,
-  "2022-01-06": 377,
-  "2022-01-07": 379,
-  "2022-01-08": 382,
-  "2022-01-09": 382,
-  "2022-01-10": 382,
-  "2022-01-11": 383,
-  "2022-01-12": 383,
-  "2022-01-13": 383,
-  "2022-01-14": 382,
-  "2022-01-15": 384,
-  "2022-01-16": 384,
-  "2022-01-17": 391,
-  "2022-01-18": 391,
-  "2022-01-19": 391,
-  "2022-01-20": 392,
-  "2022-01-21": 394,
-  "2022-01-22": 395,
-  "2022-01-23": 399,
-  "2022-01-24": 400,
-  "2022-01-25": 400,
-  "2022-01-26": 402,
-  "2022-01-27": 403,
-  "2022-01-28": 404,
-  "2022-01-29": 408,
-  "2022-01-30": 412,
-  "2022-01-31": 412,
-  "2022-02-01": 414,
-  "2022-02-02": 416,
-  "2022-02-03": 422,
-  "2022-02-04": 430,
-  "2022-02-05": 432,
-  "2022-02-06": 433,
-  "2022-02-07": 435,
-  "2022-02-08": 434,
-  "2022-02-09": 433,
-  "2022-02-10": 434,
-  "2022-02-11": 434,
-  "2022-02-12": 434,
-  "2022-02-13": 435,
-  "2022-02-14": 436,
-  "2022-02-15": 437,
-  "2022-02-16": 437,
-  "2022-02-17": 437,
-  "2022-02-18": 437,
-  "2022-02-19": 437,
-  "2022-02-20": 437,
-  "2022-02-21": 437,
-  "2022-02-22": 437,
-  "2022-02-23": 437,
-  "2022-02-24": 437,
-  "2022-02-25": 437,
-  "2022-02-26": 439,
-  "2022-02-27": 440,
-  "2022-02-28": 440,
-  "2022-03-01": 440,
-  "2022-03-02": 440,
-  "2022-03-03": 440,
-  "2022-03-04": 443,
-  "2022-03-05": 443,
-  "2022-03-06": 443,
-  "2022-03-07": 444,
-  "2022-03-08": 444,
-  "2022-03-09": 444,
-  "2022-03-10": 447,
-  "2022-03-11": 449,
-  "2022-03-12": 454,
-  "2022-03-13": 458,
-  "2022-03-14": 457,
-  "2022-03-15": 456,
-  "2022-03-16": 455,
-  "2022-03-17": 455,
-  "2022-03-18": 454,
-  "2022-03-19": 455,
-  "2022-03-20": 455,
-  "2022-03-21": 457,
-  "2022-03-22": 458,
-  "2022-03-23": 459,
-  "2022-03-24": 459,
-  "2022-03-25": 460,
-  "2022-03-26": 460,
-  "2022-03-27": 461,
-  "2022-03-28": 461,
-  "2022-03-30": 460,
-  "2022-03-31": 460,
-  "2022-04-01": 460,
-  "2022-04-02": 460,
-  "2022-04-03": 461,
-  "2022-04-04": 457,
-  "2022-04-05": 461,
-  "2022-04-06": 460,
-  "2022-04-07": 461,
-  "2022-04-08": 461,
-  "2022-04-09": 461,
-  "2022-04-10": 461,
-  "2022-04-11": 461,
-  "2022-04-12": 461,
-  "2022-04-13": 461,
-  "2022-04-14": 460,
-  "2022-04-15": 460,
-  "2022-04-16": 460,
-  "2022-04-17": 460,
-  "2022-04-18": 460,
-  "2022-04-19": 460,
-  "2022-04-20": 460,
-  "2022-04-21": 460,
-  "2022-04-22": 460,
-  "2022-04-23": 460,
-  "2022-04-24": 460,
-  "2022-04-25": 460,
-  "2022-04-26": 460,
-  "2022-04-27": 458,
-  "2022-04-28": 458,
-  "2022-04-29": 458,
-  "2022-04-30": 459,
-  "2022-05-01": 458,
-  "2022-05-02": 458,
-  "2022-05-03": 458,
-  "2022-05-04": 458,
-  "2022-05-05": 458,
-  "2022-05-06": 458,
-  "2022-05-07": 458,
-  "2022-05-08": 458,
-  "2022-05-09": 458,
-  "2022-05-10": 458,
-  "2022-05-11": 458,
-  "2022-05-12": 458,
-  "2022-05-13": 458,
-  "2022-05-14": 458,
-  "2022-05-15": 458,
-  "2022-05-16": 458,
-  "2022-05-17": 458,
-  "2022-05-18": 458,
-  "2022-05-19": 458,
-  "2022-05-20": 457,
-  "2022-05-21": 458,
-  "2022-05-22": 458,
-  "2022-05-23": 458,
-  "2022-05-24": 458,
-  "2022-05-25": 457,
-  "2022-05-26": 457,
-  "2022-05-27": 457,
-  "2022-05-28": 457,
-  "2022-05-29": 457,
-  "2022-05-30": 457,
-  "2022-05-31": 457,
-  "2022-06-01": 458,
-  "2022-06-02": 458,
-  "2022-06-03": 458,
-  "2022-06-04": 458,
-  "2022-06-05": 458,
-  "2022-06-06": 457,
-  "2022-06-07": 457,
-  "2022-06-08": 457,
-  "2022-06-09": 457,
-  "2022-06-10": 457,
-  "2022-06-11": 457,
-  "2022-06-12": 457,
-  "2022-06-13": 457,
-  "2022-06-14": 457,
-  "2022-06-15": 457,
-  "2022-06-16": 457,
-  "2022-06-17": 456,
-  "2022-06-18": 456,
-  "2022-06-19": 456,
-  "2022-06-20": 456,
-  "2022-06-21": 457,
-  "2022-06-22": 457,
-  "2022-06-23": 457,
-  "2022-06-24": 457,
-  "2022-06-25": 457,
-  "2022-06-26": 457,
-  "2022-06-27": 456,
-  "2022-06-28": 456,
-  "2022-06-29": 456,
-  "2022-06-30": 455,
-  "2022-07-01": 455,
-  "2022-07-02": 455,
-  "2022-07-03": 455,
-  "2022-07-04": 455,
-  "2022-07-05": 455,
-  "2022-07-06": 455,
-  "2022-07-07": 455,
-  "2022-07-08": 455,
-  "2022-07-09": 455,
-  "2022-07-10": 455,
-  "2022-07-11": 455,
-  "2022-07-12": 455,
-  "2022-07-13": 455,
-  "2022-07-14": 456,
-  "2022-07-15": 455,
-  "2022-07-16": 453,
-  "2022-07-17": 453,
-  "2022-07-18": 453,
-  "2022-07-19": 454,
-  "2022-07-20": 454,
-  "2022-07-21": 454,
-  "2022-07-22": 455,
-  "2022-07-23": 455,
-  "2022-07-24": 455,
-  "2022-07-25": 455,
-  "2022-07-26": 455,
-  "2022-07-27": 455,
-  "2022-07-28": 455,
-  "2022-07-29": 454,
-  "2022-07-30": 454,
-  "2022-07-31": 454,
-  "2022-08-01": 454,
-  "2022-08-02": 455,
-  "2022-08-03": 455,
-  "2022-08-04": 455,
-  "2022-08-05": 455,
-  "2022-08-06": 455,
-  "2022-08-07": 455,
-  "2022-08-08": 455,
-  "2022-08-09": 455,
-  "2022-08-10": 455,
-  "2022-08-11": 455,
-  "2022-08-12": 455,
-  "2022-08-13": 454,
-  "2022-08-14": 454,
-  "2022-08-15": 455,
-  "2022-08-16": 455,
-  "2022-08-17": 455,
-  "2022-08-18": 456,
-  "2022-08-19": 456,
-  "2022-08-20": 455,
-  "2022-08-21": 455,
-  "2022-08-22": 455,
-  "2022-08-23": 455,
-  "2022-08-24": 455,
-  "2022-08-25": 455,
-  "2022-08-26": 455,
-  "2022-08-27": 455,
-  "2022-08-28": 455,
-  "2022-08-29": 455,
-  "2022-08-30": 455,
-  "2022-08-31": 455,
-  "2022-09-01": 455,
-  "2022-09-02": 456,
-  "2022-09-03": 456,
-  "2022-09-04": 456,
-  "2022-09-05": 457,
-  "2022-09-06": 457,
-  "2022-09-07": 457,
-  "2022-09-09": 457,
-  "2022-09-10": 457,
-  "2022-09-11": 457,
-  "2022-09-12": 457,
-  "2022-09-13": 456,
-  "2022-09-15": 456,
-  "2022-09-16": 456,
-  "2022-09-17": 456,
-  "2022-09-18": 456,
-  "2022-09-19": 456,
-  "2022-09-20": 457,
-  "2022-09-21": 457,
-  "2022-09-22": 457,
-  "2022-09-23": 459,
-  "2022-09-24": 459,
-  "2022-09-25": 459,
-  "2022-09-26": 459,
-  "2022-09-27": 461,
-  "2022-09-28": 461,
-  "2022-09-29": 461,
-  "2022-09-30": 461,
-  "2022-10-01": 461,
-  "2022-10-02": 460,
-  "2022-10-03": 461,
-  "2022-10-04": 461,
-  "2022-10-05": 461,
-  "2022-10-06": 461,
-  "2022-10-07": 462,
-  "2022-10-08": 462,
-  "2022-10-09": 462,
-  "2022-10-10": 462,
-  "2022-10-11": 463,
-  "2022-10-12": 463,
-  "2022-10-13": 463,
-  "2022-10-14": 462,
-  "2022-10-15": 463,
-  "2022-10-16": 463,
-  "2022-10-17": 463,
-  "2022-10-18": 463,
-  "2022-10-19": 463,
-  "2022-10-20": 463,
-  "2022-10-21": 464,
-  "2022-10-22": 463,
-  "2022-10-23": 463,
-  "2022-10-24": 464,
-  "2022-10-25": 465,
-  "2022-10-26": 465,
-  "2022-10-27": 466,
-  "2022-10-28": 466,
-  "2022-10-29": 467,
-  "2022-10-30": 467,
-  "2022-10-31": 467,
-  "2022-11-01": 467,
-  "2022-11-02": 468,
-  "2022-11-03": 468,
-  "2022-11-04": 468,
-  "2022-11-05": 468,
-  "2022-11-06": 468,
-  "2022-11-07": 468,
-  "2022-11-08": 468,
-  "2022-11-09": 467,
-  "2022-11-10": 472,
-  "2022-11-11": 472,
-  "2022-11-12": 473,
-  "2022-11-13": 473,
-  "2022-11-14": 473,
-  "2022-11-15": 473,
-  "2022-11-16": 478,
-  "2022-11-17": 478,
-  "2022-11-18": 481,
-  "2022-11-19": 481,
-  "2022-11-20": 477,
-  "2022-11-21": 476,
-  "2022-11-22": 479,
-  "2022-11-23": 479,
-  "2022-11-24": 480,
-  "2022-11-25": 481,
-  "2022-11-26": 482,
-  "2022-11-27": 482,
-  "2022-11-28": 483,
-  "2022-11-29": 483,
-  "2022-11-30": 484,
-  "2022-12-01": 486,
-  "2022-12-02": 486,
-  "2022-12-03": 486,
-  "2022-12-04": 487,
-  "2022-12-05": 488,
-  "2022-12-06": 488,
-  "2022-12-07": 488,
-  "2022-12-08": 488,
-  "2022-12-09": 489,
-  "2022-12-10": 488,
-  "2022-12-11": 489,
-  "2022-12-12": 490,
-  "2022-12-13": 497,
-  "2022-12-14": 497,
-  "2022-12-15": 497,
-  "2022-12-16": 499,
-  "2022-12-17": 501,
-  "2022-12-18": 501,
-  "2022-12-19": 502,
-  "2022-12-20": 504,
-  "2022-12-21": 504,
-  "2022-12-22": 502,
-  "2022-12-24": 506,
-  "2022-12-25": 506,
-  "2022-12-26": 507,
-  "2022-12-27": 506,
-  "2022-12-28": 506,
-  "2022-12-29": 507,
-  "2022-12-30": 507,
-  "2022-12-31": 508,
-  "2023-01-01": 508,
-  "2023-01-02": 507,
-  "2023-01-03": 509,
-  "2023-01-04": 510,
-  "2023-01-05": 510,
-  "2023-01-06": 515,
-  "2023-01-07": 516,
-  "2023-01-08": 519,
-  "2023-01-09": 519,
-  "2023-01-10": 519,
-  "2023-01-11": 519,
-  "2023-01-12": 520,
-  "2023-01-13": 520,
-  "2023-01-14": 521,
-  "2023-01-15": 521,
-  "2023-01-16": 524,
-  "2023-01-17": 524,
-  "2023-01-18": 524,
-  "2023-01-19": 525,
-  "2023-01-20": 526,
-  "2023-01-21": 528,
-  "2023-01-22": 529,
-  "2023-01-23": 530,
-  "2023-01-24": 531,
-  "2023-01-25": 532,
-  "2023-01-26": 533,
-  "2023-01-27": 534,
-  "2023-01-28": 533,
-  "2023-01-29": 534,
-  "2023-01-30": 536,
-  "2023-01-31": 536,
-  "2023-02-01": 536,
-  "2023-02-02": 537,
-  "2023-02-03": 536,
-  "2023-02-04": 536,
-  "2023-02-05": 537,
-  "2023-02-06": 537,
-  "2023-02-07": 538,
-  "2023-02-08": 538,
-  "2023-02-09": 538,
-  "2023-02-10": 538,
-  "2023-02-11": 538,
-  "2023-02-12": 538,
-  "2023-02-13": 539,
-  "2023-02-14": 539,
-  "2023-02-15": 541,
-  "2023-02-16": 541,
-  "2023-02-17": 542,
-  "2023-02-18": 542,
-  "2023-02-19": 542,
-  "2023-02-20": 543,
-  "2023-02-21": 542,
-  "2023-02-22": 541,
-  "2023-02-23": 541,
-  "2023-02-24": 541,
-  "2023-02-25": 542,
-  "2023-02-26": 544,
-  "2023-02-27": 545,
-  "2023-02-28": 545,
-  "2023-03-01": 545,
-  "2023-03-02": 545,
-  "2023-03-03": 546,
-  "2023-03-04": 546,
-  "2023-03-05": 545,
-  "2023-03-06": 545,
-  "2023-03-07": 545,
-  "2023-03-08": 546,
-  "2023-03-09": 546,
-  "2023-03-10": 546,
-  "2023-03-11": 546,
-  "2023-03-12": 546,
-  "2023-03-13": 546,
-  "2023-03-14": 546,
-  "2023-03-15": 547,
-  "2023-03-16": 547,
-  "2023-03-17": 547,
-  "2023-03-18": 548,
-  "2023-03-19": 548,
-  "2023-03-20": 548,
-  "2023-03-21": 548,
-  "2023-03-22": 548,
-  "2023-03-23": 548,
-  "2023-03-24": 548,
-  "2023-03-25": 548,
-  "2023-03-26": 549,
-  "2023-03-27": 549,
-  "2023-03-28": 549,
-  "2023-03-29": 549,
-  "2023-03-30": 549,
-  "2023-03-31": 549,
-  "2023-04-01": 548,
-  "2023-04-02": 548,
-  "2023-04-03": 549,
-  "2023-04-04": 549,
-  "2023-04-05": 549,
-  "2023-04-06": 549,
-  "2023-04-07": 549,
-  "2023-04-09": 550,
-  "2023-04-10": 550,
-  "2023-04-11": 550,
-  "2023-04-12": 550,
-  "2023-04-13": 550,
-  "2023-04-14": 550,
-  "2023-04-15": 550,
-  "2023-04-16": 550,
-  "2023-04-17": 550,
-  "2023-04-18": 550,
-  "2023-04-19": 550,
-  "2023-04-20": 550,
-  "2023-04-21": 550,
-  "2023-04-22": 550,
-  "2023-04-23": 550,
-  "2023-04-24": 550,
-  "2023-04-25": 550,
-  "2023-04-26": 550,
-  "2023-04-27": 550,
-  "2023-04-28": 550,
-  "2023-04-29": 550,
-  "2023-04-30": 550,
-  "2023-05-01": 550,
-  "2023-05-02": 551,
-  "2023-05-03": 551,
-  "2023-05-04": 551,
-  "2023-05-05": 551,
-  "2023-05-06": 551,
-  "2023-05-07": 551,
-  "2023-05-08": 551,
-  "2023-05-09": 551,
-  "2023-05-10": 551,
-  "2023-05-11": 551,
-  "2023-05-12": 551,
-  "2023-05-13": 551,
-  "2023-05-14": 551,
-  "2023-05-15": 551,
-  "2023-05-16": 551,
-  "2023-05-17": 551,
-  "2023-05-18": 550,
-  "2023-05-19": 550,
-  "2023-05-20": 549,
-  "2023-05-21": 549,
-  "2023-05-22": 549,
-  "2023-05-23": 550,
-  "2023-05-24": 550,
-  "2023-05-25": 551,
-  "2023-05-26": 551,
-  "2023-05-27": 552,
-  "2023-05-28": 552,
-  "2023-05-29": 552,
-  "2023-05-30": 552,
-  "2023-05-31": 552,
-  "2023-06-01": 552,
-  "2023-06-02": 552,
-  "2023-06-03": 552,
-  "2023-06-04": 552,
-  "2023-06-05": 552,
-  "2023-06-06": 552,
-  "2023-06-07": 552,
-  "2023-06-08": 552,
-  "2023-06-09": 552,
-  "2023-06-10": 552,
-  "2023-06-11": 552,
-  "2023-06-12": 551,
-  "2023-06-13": 550,
-  "2023-06-14": 548,
-  "2023-06-15": 548,
-  "2023-06-16": 548,
-  "2023-06-17": 550,
-  "2023-06-18": 550,
-  "2023-06-19": 550,
-  "2023-06-20": 550,
-  "2023-06-21": 550,
-  "2023-06-22": 550,
-  "2023-06-23": 550,
-  "2023-06-24": 550,
-  "2023-06-25": 550,
-  "2023-06-26": 550,
-  "2023-06-27": 552,
-  "2023-06-28": 552,
-  "2023-06-29": 552,
-  "2023-06-30": 552,
-  "2023-07-01": 552,
-  "2023-07-02": 552,
-  "2023-07-03": 552,
-  "2023-07-04": 552,
-  "2023-07-05": 552,
-  "2023-07-06": 552,
-  "2023-07-07": 552,
-  "2023-07-08": 552,
-  "2023-07-09": 551,
-  "2023-07-10": 551,
-  "2023-07-11": 551,
-  "2023-07-12": 551,
-  "2023-07-13": 551,
-  "2023-07-14": 551,
-  "2023-07-15": 552,
-  "2023-07-16": 552,
-  "2023-07-17": 552,
-  "2023-07-18": 552,
-  "2023-07-19": 552,
-  "2023-07-20": 552,
-  "2023-07-21": 551,
-  "2023-07-22": 551,
-  "2023-07-23": 551,
-  "2023-07-24": 551,
-  "2023-07-25": 551,
-  "2023-07-26": 551,
-  "2023-07-27": 551,
-  "2023-07-28": 551,
-  "2023-07-29": 553,
-  "2023-07-30": 553,
-  "2023-07-31": 553,
-  "2023-08-01": 553,
-  "2023-08-02": 553,
-  "2023-08-03": 553,
-  "2023-08-04": 553,
-  "2023-08-05": 553,
-  "2023-08-06": 553,
-  "2023-08-07": 553,
-  "2023-08-08": 553,
-  "2023-08-09": 552,
-  "2023-08-10": 552,
-  "2023-08-11": 551,
-  "2023-08-12": 551,
-  "2023-08-13": 551,
-  "2023-08-14": 551,
-  "2023-08-15": 551,
-  "2023-08-16": 551,
-  "2023-08-17": 551,
-  "2023-08-18": 551,
-  "2023-08-19": 551,
-  "2023-08-20": 551,
-  "2023-08-21": 551,
-  "2023-08-22": 551,
-  "2023-08-23": 551,
-  "2023-08-24": 551,
-  "2023-08-25": 551,
-  "2023-08-26": 551,
-  "2023-08-27": 551,
-  "2023-08-28": 551,
-  "2023-08-29": 551,
-  "2023-08-30": 551,
-  "2023-08-31": 551,
-  "2023-09-01": 551,
-  "2023-09-02": 551,
-  "2023-09-03": 551,
-  "2023-09-04": 551,
-  "2023-09-05": 551,
-  "2023-09-06": 551,
-  "2023-09-07": 551,
-  "2023-09-08": 551,
-  "2023-09-09": 551,
-  "2023-09-10": 551,
-  "2023-09-11": 551,
-  "2023-09-12": 551,
-  "2023-09-13": 551,
-  "2023-09-14": 551,
-  "2023-09-15": 551,
-  "2023-09-16": 551,
-  "2023-09-17": 551,
-  "2023-09-18": 551,
-  "2023-09-19": 551,
-  "2023-09-20": 551,
-  "2023-09-21": 551,
-  "2023-09-22": 551,
-  "2023-09-23": 551,
-  "2023-09-24": 551,
-  "2023-09-25": 551,
-  "2023-09-26": 553,
-  "2023-09-27": 553,
-  "2023-09-28": 553,
-  "2023-09-29": 553,
-  "2023-09-30": 553,
-  "2023-10-01": 553,
-  "2023-10-02": 553,
-  "2023-10-03": 553,
-  "2023-10-04": 553,
-  "2023-10-05": 553,
-  "2023-10-06": 553,
-  "2023-10-07": 553,
-  "2023-10-08": 553,
-  "2023-10-09": 553,
-  "2023-10-10": 553,
-  "2023-10-11": 553,
-  "2023-10-12": 553,
-  "2023-10-13": 553,
-  "2023-10-14": 553,
-  "2023-10-15": 553,
-  "2023-10-16": 553,
-  "2023-10-17": 553,
-  "2023-10-18": 553,
-  "2023-10-19": 553,
-  "2023-10-20": 553,
-  "2023-10-21": 553,
-  "2023-10-22": 553,
-  "2023-10-23": 553,
-  "2023-10-24": 553,
-  "2023-10-25": 553,
-  "2023-10-26": 553,
-  "2023-10-27": 553,
-  "2023-10-28": 553,
-  "2023-10-29": 553,
-  "2023-10-30": 553,
-  "2023-10-31": 553,
-  "2023-11-01": 553,
-  "2023-11-02": 553,
-  "2023-11-03": 553,
-  "2023-11-04": 553,
-  "2023-11-05": 553,
-  "2023-11-06": 553,
-  "2023-11-07": 553,
-  "2023-11-08": 553,
-  "2023-11-09": 553,
-  "2023-11-10": 553,
-  "2023-11-11": 553,
-  "2023-11-12": 553,
-  "2023-11-13": 553,
-  "2023-11-14": 553,
-  "2023-11-15": 553,
-  "2023-11-16": 553,
-  "2023-11-17": 553,
-  "2023-11-18": 553,
-  "2023-11-19": 553,
-  "2023-11-20": 553,
-  "2023-11-21": 553,
-  "2023-11-22": 553,
-  "2023-11-23": 553,
-  "2023-11-24": 553,
-  "2023-11-25": 553,
-  "2023-11-26": 553,
-  "2023-11-27": 553,
-  "2023-11-28": 553,
-  "2023-11-29": 553,
-  "2023-11-30": 553,
-  "2023-12-01": 553,
-  "2023-12-02": 553,
-  "2023-12-03": 553,
-  "2023-12-04": 553,
-  "2023-12-05": 553,
-  "2023-12-06": 553,
-  "2023-12-07": 553,
-  "2023-12-08": 553,
-  "2023-12-09": 553,
-  "2023-12-10": 553,
-  "2023-12-11": 553,
-  "2023-12-12": 553,
-  "2023-12-13": 553,
-  "2023-12-14": 569,
-  "2023-12-15": 569,
-  "2023-12-16": 568,
-  "2023-12-17": 568,
-  "2023-12-18": 567,
-  "2023-12-19": 567,
-  "2023-12-20": 568,
-  "2023-12-21": 568,
-  "2023-12-22": 568,
-  "2023-12-23": 568,
-  "2023-12-24": 568,
-  "2023-12-25": 568,
-  "2023-12-26": 568,
-  "2023-12-27": 568,
-  "2023-12-30": 570,
-  "2023-12-31": 571,
-  "2024-01-01": 572,
-  "2024-01-02": 572,
-  "2024-01-03": 572
+  "2024-01-17": 582,
+  "date_first_scraped": "2021-12-21",
+  "description": "Give in to the season, with the ultimate collection of classic snow songs.",
+  "name": "50 Songs for Snow",
+  "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/38cBGrq39q9tN2M2TdcxbC"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3e6ZqyhDUkiPdVaQ9MiNm7"
+    },
+    {
+      "album": {
+        "name": "50 Words for Snow",
+        "url": "https://open.spotify.com/album/1VAB3Xn92dPKPWzocgQqkh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510880,
+      "name": "50 Words For Snow",
+      "url": "https://open.spotify.com/track/6MtXVfbFWxYUWSaMwKsyZJ"
+    },
+    {
+      "album": {
+        "name": "The Essential Simon & Garfunkel",
+        "url": "https://open.spotify.com/album/12BwdaXk3rbOjTnIKxXa4G"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "A Hazy Shade of Winter",
+      "url": "https://open.spotify.com/track/0quVAA0KO9Ph79wndSJBXy"
+    },
+    {
+      "album": {
+        "name": "Amarantine",
+        "url": "https://open.spotify.com/album/2efGoxVxoX55EATLcD0o8y"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Amid the Falling Snow",
+      "url": "https://open.spotify.com/track/69BSguYY4m6b1yibQdUBst"
+    },
+    {
+      "album": {
+        "name": "New Moon (2xCD)",
+        "url": "https://open.spotify.com/album/4c2uWXpA7ROez9KV7FQ3TU"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/4Ca4JITj1KlT4OyK2oeWno"
+    },
+    {
+      "album": {
+        "name": "Fly By Night",
+        "url": "https://open.spotify.com/album/3ZtICWkqezf0bBTUwY1Khe"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517373,
+      "name": "By-Tor And The Snow Dog",
+      "url": "https://open.spotify.com/track/0hRJNNyjoIlRcrgYVypM2Y"
+    },
+    {
+      "album": {
+        "name": "No End in Sight: The Very Best of Foreigner",
+        "url": "https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Cold as Ice - 2008 Remaster",
+      "url": "https://open.spotify.com/track/3iM9wFGlyR28IBZrXYZK9j"
+    },
+    {
+      "album": {
+        "name": "Grateful Dead",
+        "url": "https://open.spotify.com/album/0DaisqoiVdNtl5f33hEPxt"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146706,
+      "name": "Cold Rain and Snow",
+      "url": "https://open.spotify.com/track/4Tdc6SSkkHBAH4ckkWvnzU"
+    },
+    {
+      "album": {
+        "name": "Apostrophe(')",
+        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125320,
+      "name": "Don't Eat The Yellow Snow",
+      "url": "https://open.spotify.com/track/1QY4TdhuNIOX2SHLdElzd5"
+    },
+    {
+      "album": {
+        "name": "The Sweet Escape (International Version)",
+        "url": "https://open.spotify.com/album/2uoNsOC1w0zkRp0TE2uzuI"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284786,
+      "name": "Early Winter",
+      "url": "https://open.spotify.com/track/1EyKXIC7M4Qd6wJgU3nP1W"
+    },
+    {
+      "album": {
+        "name": "The Bird Of Music (Bonus Track)",
+        "url": "https://open.spotify.com/album/3Y8QUZCRhpzt2EQeoWINX0"
+      },
+      "artists": [
+        {
+          "name": "Au Revoir Simone",
+          "url": "https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "Fallen Snow",
+      "url": "https://open.spotify.com/track/06eLSwUFhd9Gufpx7IC8ja"
+    },
+    {
+      "album": {
+        "name": "No More Shall We Part (Remastered)",
+        "url": "https://open.spotify.com/album/4zdod6lsBznzFBYqQ7IR4I"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336760,
+      "name": "Fifteen Feet of Pure White Snow",
+      "url": "https://open.spotify.com/track/5TROhLWdqB5oqmg4U74MST"
+    },
+    {
+      "album": {
+        "name": "Christmas Album",
+        "url": "https://open.spotify.com/album/4ArHkPDKYTlBTSTa2iSvKj"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298226,
+      "name": "First Snow On Brooklyn",
+      "url": "https://open.spotify.com/track/2YlJsbM0PlrDFa727ELtCk"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (1994 Remaster)",
+        "url": "https://open.spotify.com/album/1u5BsuBK45mLwrbqdASN3g"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145066,
+      "name": "Immigrant Song - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6kjlvJLh2DBsSQtqVzFh8I"
+    },
+    {
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "album": {
+        "name": "This Is Our Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Ns6bxdNr5wo0Zu8I9QHdT"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467960,
+      "name": "Listen, The Snow Is Falling",
+      "url": "https://open.spotify.com/track/3KlD3QgFsCvnwTXKm88PEZ"
+    },
+    {
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/7gipVROy3GHgyqT4Ya2TbI"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273226,
+      "name": "Men of Snow",
+      "url": "https://open.spotify.com/track/1snZjPHqmd3G6SeHJyisQm"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357200,
+      "name": "Moonlight Mile - 2009 Mix",
+      "url": "https://open.spotify.com/track/3w7hnMNX4zVZeBJ6LisTjT"
+    },
+    {
+      "album": {
+        "name": "The Stars Are Indifferent To Astronomy",
+        "url": "https://open.spotify.com/album/7kMnBrFZfdqSWQBGW0wAyz"
+      },
+      "artists": [
+        {
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "No Snow On The Mountain",
+      "url": "https://open.spotify.com/track/68TyKAVHW62yGMWW3wEBSs"
+    },
+    {
+      "album": {
+        "name": "Blue Horse [Bonus Version]",
+        "url": "https://open.spotify.com/album/3QIGfxqOFTO9xh74DXpB3N"
+      },
+      "artists": [
+        {
+          "name": "The Be Good Tanyas",
+          "url": "https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Rain And Snow",
+      "url": "https://open.spotify.com/track/3Ia3I1IT2NoXFTuxuHVefi"
+    },
+    {
+      "album": {
+        "name": "Ridin' the Storm Out",
+        "url": "https://open.spotify.com/album/0ou3qVgWMaALQlDmATM4bA"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Ridin' the Storm Out",
+      "url": "https://open.spotify.com/track/0SkmxNE5ydxiEN0hzJbMac"
+    },
+    {
+      "album": {
+        "name": "Sleet and Snow",
+        "url": "https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx"
+      },
+      "artists": [
+        {
+          "name": "My First Tooth",
+          "url": "https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Sleet and Snow",
+      "url": "https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM"
+    },
+    {
+      "album": {
+        "name": "A Carolina Jubilee",
+        "url": "https://open.spotify.com/album/3mxeKWIHzJShLJ2MbPYSFm"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340626,
+      "name": "Smoke In Our Lights",
+      "url": "https://open.spotify.com/track/3bOTMp5MhYcCxjtndqR1zm"
+    },
+    {
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118893,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/1iJRbiAHg6pTlKL0RFGO3W"
+    },
+    {
+      "album": {
+        "name": "Magic neighbor",
+        "url": "https://open.spotify.com/album/0MFJyfJQTcotyuGgf0RXEX"
+      },
+      "artists": [
+        {
+          "name": "Lisa Germano",
+          "url": "https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256626,
+      "name": "snow",
+      "url": "https://open.spotify.com/track/6eCJUQFtIYzryiyVUtxcMN"
+    },
+    {
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306828,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/1wp9SHLdY9bMy7pCa2fd7C"
+    },
+    {
+      "album": {
+        "name": "Snow (Hey Oh)",
+        "url": "https://open.spotify.com/album/45AEwWiI7JPZolwc2Xwaoc"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334666,
+      "name": "Snow (Hey Oh)",
+      "url": "https://open.spotify.com/track/6fgbQt13JlpN59PytgTMsA"
+    },
+    {
+      "album": {
+        "name": "Winter Songs EP",
+        "url": "https://open.spotify.com/album/12LlLnVszu0tnMIEng9d61"
+      },
+      "artists": [
+        {
+          "name": "Matt Pond PA",
+          "url": "https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211951,
+      "name": "Snow Day",
+      "url": "https://open.spotify.com/track/3jFTSi4nm1Gosfqh7gvSPd"
+    },
+    {
+      "album": {
+        "name": "Join the Dots: B-Sides and Rarities, 1978-2001 (The Fiction Years)",
+        "url": "https://open.spotify.com/album/0Be9aR7uSUhQII8AC404TP"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207240,
+      "name": "Snow in Summer",
+      "url": "https://open.spotify.com/track/2ISfJj4SxAHHfZkymGrWMl"
+    },
+    {
+      "album": {
+        "name": "Volume 3",
+        "url": "https://open.spotify.com/album/7L0jUfO6TEYQmrVQTDp2xA"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152346,
+      "name": "Snow Queen",
+      "url": "https://open.spotify.com/track/4P3orcdgIe7j64YzUUfQ1f"
+    },
+    {
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148466,
+      "name": "Snowball",
+      "url": "https://open.spotify.com/track/7BJIcG07Gjyca9skBOO6CE"
+    },
+    {
+      "album": {
+        "name": "This Way Is My Way",
+        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134226,
+      "name": "Snowbird",
+      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2SIFXSFOHJgqC6q3whbSZU"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Snowblind",
+      "url": "https://open.spotify.com/track/64ewia8OkN3Rpsl9OfN82a"
+    },
+    {
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/4eU85ZMCKcTN1MY1zlPcxU"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+          "name": "John Kay",
+          "url": "https://open.spotify.com/artist/3IJv5pAua8t2Q5FP79TXOt"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Snowblind Friend",
+      "url": "https://open.spotify.com/track/25KGpwkIMMyIdER0bgicIi"
+    },
+    {
+      "album": {
+        "name": "And Then There Were Three (2007 Remaster)",
+        "url": "https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271386,
+      "name": "Snowbound - 2007 Remaster",
+      "url": "https://open.spotify.com/track/37SV7uT36t2ob31WWqTPL2"
+    },
+    {
+      "album": {
+        "name": "Wide Eyes Blind Love",
+        "url": "https://open.spotify.com/album/7BLV1kSHzRGW0ZZjBZP6lZ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164560,
+      "name": "Snowflakes",
+      "url": "https://open.spotify.com/track/39YmoAbnMVghjquO4HGmnR"
+    },
+    {
+      "album": {
+        "name": "Wintersong",
+        "url": "https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228080,
+      "name": "Song for a Winter's Night",
+      "url": "https://open.spotify.com/track/4t5N8KQcIg0DjksF5Q6wIe"
+    },
+    {
+      "album": {
+        "name": "Chicago VII (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/4O8dmYS0wfxvY56LJdp280"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319866,
+      "name": "Song of the Evergreens",
+      "url": "https://open.spotify.com/track/0IEgQg9jYySSpfrb4NMC8e"
+    },
+    {
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190466,
+      "name": "Tenth Avenue Freeze-Out",
+      "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
+    },
+    {
+      "album": {
+        "name": "A Momentary Lapse Of Reason (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/01HKPNTFYT5fWbXgjwfjj8"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375440,
+      "name": "Terminal Frost - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/1hCB8czVq8fEZev5K6MdWr"
+    },
+    {
+      "album": {
+        "name": "If You\u2019re Feeling Sinister",
+        "url": "https://open.spotify.com/album/6dCg3NshlkeOJPyhPZG8Qa"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251306,
+      "name": "The Fox in the Snow",
+      "url": "https://open.spotify.com/track/32Ofwuhumlu6AqMU77GlII"
+    },
+    {
+      "album": {
+        "name": "No Need To Argue",
+        "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "The Icicle Melts",
+      "url": "https://open.spotify.com/track/5RApJB3xWzniVnHtQDAaCP"
+    },
+    {
+      "album": {
+        "name": "Tracks In the Snow",
+        "url": "https://open.spotify.com/album/28Fqt02jcDyoi6EfOMy8kQ"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230973,
+      "name": "Tracks In the Snow",
+      "url": "https://open.spotify.com/track/5KsZSksgeYi3RxIoAAcy5l"
+    },
+    {
+      "album": {
+        "name": "Welcome Interstate Managers",
+        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+      },
+      "artists": [
+        {
+          "name": "Fountains Of Wayne",
+          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Valley Winter Song",
+      "url": "https://open.spotify.com/track/0g10ndCuaKKaDqUa7gKZMV"
+    },
+    {
+      "album": {
+        "name": "Aha Shake Heartbreak",
+        "url": "https://open.spotify.com/album/45dX2VUWOryNLR0DRFNlq6"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130306,
+      "name": "Velvet Snow",
+      "url": "https://open.spotify.com/track/5ZS7B9iuErr4fTsmyz8zVC"
+    },
+    {
+      "album": {
+        "name": "No Line On The Horizon",
+        "url": "https://open.spotify.com/album/2cVfcuckyfRP6KVAHsRPHC"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281066,
+      "name": "White As Snow",
+      "url": "https://open.spotify.com/track/2x7hnujevTcJyFZjnBOdlO"
+    },
+    {
+      "album": {
+        "name": "21 At 33",
+        "url": "https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272946,
+      "name": "White Lady White Powder",
+      "url": "https://open.spotify.com/track/1AC2yaxIO68p1h5gSeKsTO"
+    },
+    {
+      "album": {
+        "name": "Queen II (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/0YpxBancYcVg9aLnZerBQg"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273200,
+      "name": "White Queen (As It Began) - Remastered 2011",
+      "url": "https://open.spotify.com/track/1z6gIEOUMvc7atlYd1IxQX"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/1Er5JMNcguoBMFXxwZ7BWH"
+    },
+    {
+      "album": {
+        "name": "Crucify",
+        "url": "https://open.spotify.com/album/1BVdtqNeJHiAeAJLn1BYMP"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "date_added": "2014-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5d0wBKIxpCSfYmBBaELSlx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/4sEKPcBYLcW3woDviiaigj"
 }

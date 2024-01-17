@@ -1,577 +1,1649 @@
 {
-  "2022-06-02": 17370,
-  "2022-06-03": 17371,
-  "2022-06-04": 17377,
-  "2022-06-05": 17385,
-  "2022-06-06": 17397,
-  "2022-06-07": 17401,
-  "2022-06-08": 17408,
-  "2022-06-09": 17410,
-  "2022-06-10": 17419,
-  "2022-06-11": 17432,
-  "2022-06-12": 17442,
-  "2022-06-13": 17449,
-  "2022-06-14": 17453,
-  "2022-06-15": 17457,
-  "2022-06-16": 17461,
-  "2022-06-17": 17471,
-  "2022-06-18": 17479,
-  "2022-06-19": 17505,
-  "2022-06-20": 17505,
-  "2022-06-21": 17512,
-  "2022-06-22": 17524,
-  "2022-06-23": 17524,
-  "2022-06-24": 17533,
-  "2022-06-25": 17545,
-  "2022-06-26": 17556,
-  "2022-06-27": 17572,
-  "2022-06-28": 17576,
-  "2022-06-29": 17584,
-  "2022-06-30": 17589,
-  "2022-07-01": 17600,
-  "2022-07-02": 17611,
-  "2022-07-03": 17635,
-  "2022-07-04": 17643,
-  "2022-07-05": 17643,
-  "2022-07-06": 17643,
-  "2022-07-07": 17670,
-  "2022-07-08": 17678,
-  "2022-07-09": 17688,
-  "2022-07-10": 17703,
-  "2022-07-11": 17722,
-  "2022-07-12": 17727,
-  "2022-07-13": 17736,
-  "2022-07-14": 17745,
-  "2022-07-15": 17760,
-  "2022-07-16": 17770,
-  "2022-07-17": 17781,
-  "2022-07-18": 17793,
-  "2022-07-19": 17802,
-  "2022-07-20": 17807,
-  "2022-07-21": 17817,
-  "2022-07-22": 17825,
-  "2022-07-23": 17843,
-  "2022-07-24": 17855,
-  "2022-07-25": 17864,
-  "2022-07-26": 17872,
-  "2022-07-27": 17884,
-  "2022-07-28": 17898,
-  "2022-07-29": 17906,
-  "2022-07-30": 17932,
-  "2022-07-31": 17932,
-  "2022-08-01": 17945,
-  "2022-08-02": 17957,
-  "2022-08-03": 17957,
-  "2022-08-04": 17960,
-  "2022-08-05": 17966,
-  "2022-08-06": 17981,
-  "2022-08-07": 17992,
-  "2022-08-08": 18008,
-  "2022-08-09": 18013,
-  "2022-08-10": 18019,
-  "2022-08-11": 18020,
-  "2022-08-12": 18028,
-  "2022-08-13": 18033,
-  "2022-08-14": 18044,
-  "2022-08-15": 18060,
-  "2022-08-16": 18062,
-  "2022-08-17": 18072,
-  "2022-08-18": 18075,
-  "2022-08-19": 18081,
-  "2022-08-20": 18089,
-  "2022-08-21": 18102,
-  "2022-08-22": 18113,
-  "2022-08-23": 18117,
-  "2022-08-24": 18124,
-  "2022-08-25": 18130,
-  "2022-08-26": 18143,
-  "2022-08-27": 18161,
-  "2022-08-28": 18181,
-  "2022-08-29": 18196,
-  "2022-08-30": 18203,
-  "2022-08-31": 18212,
-  "2022-09-01": 18223,
-  "2022-09-02": 18223,
-  "2022-09-03": 18231,
-  "2022-09-04": 18250,
-  "2022-09-05": 18260,
-  "2022-09-06": 18263,
-  "2022-09-07": 18272,
-  "2022-09-09": 18293,
-  "2022-09-10": 18299,
-  "2022-09-11": 18309,
-  "2022-09-12": 18325,
-  "2022-09-13": 18334,
-  "2022-09-15": 18346,
-  "2022-09-16": 18357,
-  "2022-09-17": 18371,
-  "2022-09-18": 18389,
-  "2022-09-19": 18399,
-  "2022-09-20": 18405,
-  "2022-09-21": 18414,
-  "2022-09-22": 18425,
-  "2022-09-23": 18430,
-  "2022-09-24": 18430,
-  "2022-09-25": 18452,
-  "2022-09-26": 18454,
-  "2022-09-27": 18456,
-  "2022-09-28": 18469,
-  "2022-09-29": 18478,
-  "2022-09-30": 18484,
-  "2022-10-01": 18494,
-  "2022-10-02": 18505,
-  "2022-10-03": 18514,
-  "2022-10-04": 18526,
-  "2022-10-05": 18532,
-  "2022-10-06": 18536,
-  "2022-10-07": 18543,
-  "2022-10-08": 18552,
-  "2022-10-09": 18574,
-  "2022-10-10": 18581,
-  "2022-10-11": 18590,
-  "2022-10-12": 18600,
-  "2022-10-13": 18611,
-  "2022-10-14": 18620,
-  "2022-10-15": 18630,
-  "2022-10-16": 18640,
-  "2022-10-17": 18646,
-  "2022-10-18": 18652,
-  "2022-10-19": 18654,
-  "2022-10-20": 18659,
-  "2022-10-21": 18665,
-  "2022-10-22": 18682,
-  "2022-10-23": 18691,
-  "2022-10-24": 18705,
-  "2022-10-25": 18708,
-  "2022-10-26": 18717,
-  "2022-10-27": 18722,
-  "2022-10-28": 18731,
-  "2022-10-29": 18744,
-  "2022-10-30": 18764,
-  "2022-10-31": 18777,
-  "2022-11-01": 18796,
-  "2022-11-02": 18801,
-  "2022-11-03": 18806,
-  "2022-11-04": 18820,
-  "2022-11-05": 18822,
-  "2022-11-06": 18838,
-  "2022-11-07": 18849,
-  "2022-11-08": 18859,
-  "2022-11-09": 18866,
-  "2022-11-10": 18875,
-  "2022-11-11": 18889,
-  "2022-11-12": 18900,
-  "2022-11-13": 18908,
-  "2022-11-14": 18913,
-  "2022-11-15": 18918,
-  "2022-11-16": 18923,
-  "2022-11-17": 18937,
-  "2022-11-18": 18938,
-  "2022-11-19": 18938,
-  "2022-11-20": 18945,
-  "2022-11-21": 18960,
-  "2022-11-22": 18968,
-  "2022-11-23": 18973,
-  "2022-11-24": 18985,
-  "2022-11-25": 18999,
-  "2022-11-26": 19011,
-  "2022-11-27": 19022,
-  "2022-11-28": 19025,
-  "2022-11-29": 19030,
-  "2022-11-30": 19037,
-  "2022-12-01": 19039,
-  "2022-12-02": 19045,
-  "2022-12-03": 19057,
-  "2022-12-04": 19073,
-  "2022-12-05": 19088,
-  "2022-12-06": 19099,
-  "2022-12-07": 19109,
-  "2022-12-08": 19113,
-  "2022-12-09": 19127,
-  "2022-12-10": 19139,
-  "2022-12-11": 19151,
-  "2022-12-12": 19163,
-  "2022-12-13": 19168,
-  "2022-12-14": 19182,
-  "2022-12-15": 19187,
-  "2022-12-16": 19196,
-  "2022-12-17": 19203,
-  "2022-12-18": 19217,
-  "2022-12-19": 19229,
-  "2022-12-20": 19247,
-  "2022-12-21": 19247,
-  "2022-12-22": 19253,
-  "2022-12-24": 19278,
-  "2022-12-25": 19291,
-  "2022-12-26": 19303,
-  "2022-12-27": 19305,
-  "2022-12-28": 19317,
-  "2022-12-29": 19332,
-  "2022-12-30": 19346,
-  "2022-12-31": 19365,
-  "2023-01-01": 19393,
-  "2023-01-02": 19426,
-  "2023-01-03": 19435,
-  "2023-01-04": 19439,
-  "2023-01-05": 19454,
-  "2023-01-06": 19464,
-  "2023-01-07": 19481,
-  "2023-01-08": 19486,
-  "2023-01-09": 19490,
-  "2023-01-10": 19495,
-  "2023-01-11": 19506,
-  "2023-01-12": 19510,
-  "2023-01-13": 19515,
-  "2023-01-14": 19524,
-  "2023-01-15": 19532,
-  "2023-01-16": 19546,
-  "2023-01-17": 19547,
-  "2023-01-18": 19556,
-  "2023-01-19": 19564,
-  "2023-01-20": 19580,
-  "2023-01-21": 19586,
-  "2023-01-22": 19597,
-  "2023-01-23": 19616,
-  "2023-01-24": 19621,
-  "2023-01-25": 19632,
-  "2023-01-26": 19649,
-  "2023-01-27": 19661,
-  "2023-01-28": 19666,
-  "2023-01-29": 19673,
-  "2023-01-30": 19681,
-  "2023-01-31": 19681,
-  "2023-02-01": 19697,
-  "2023-02-02": 19707,
-  "2023-02-03": 19712,
-  "2023-02-04": 19721,
-  "2023-02-05": 19734,
-  "2023-02-06": 19748,
-  "2023-02-07": 19759,
-  "2023-02-08": 19777,
-  "2023-02-09": 19777,
-  "2023-02-10": 19781,
-  "2023-02-11": 19794,
-  "2023-02-12": 19823,
-  "2023-02-13": 19834,
-  "2023-02-14": 19834,
-  "2023-02-15": 19842,
-  "2023-02-16": 19853,
-  "2023-02-17": 19861,
-  "2023-02-18": 19880,
-  "2023-02-19": 19883,
-  "2023-02-20": 19888,
-  "2023-02-21": 19900,
-  "2023-02-22": 19905,
-  "2023-02-23": 19911,
-  "2023-02-24": 19931,
-  "2023-02-25": 19952,
-  "2023-02-26": 19956,
-  "2023-02-27": 19972,
-  "2023-02-28": 19972,
-  "2023-03-01": 19979,
-  "2023-03-02": 19987,
-  "2023-03-03": 19993,
-  "2023-03-04": 20007,
-  "2023-03-05": 20042,
-  "2023-03-06": 20042,
-  "2023-03-07": 20053,
-  "2023-03-08": 20058,
-  "2023-03-09": 20070,
-  "2023-03-10": 20077,
-  "2023-03-11": 20084,
-  "2023-03-12": 20096,
-  "2023-03-13": 20110,
-  "2023-03-14": 20118,
-  "2023-03-15": 20126,
-  "2023-03-16": 20126,
-  "2023-03-17": 20126,
-  "2023-03-18": 20173,
-  "2023-03-19": 20173,
-  "2023-03-20": 20200,
-  "2023-03-21": 20205,
-  "2023-03-22": 20212,
-  "2023-03-23": 20220,
-  "2023-03-24": 20220,
-  "2023-03-25": 20251,
-  "2023-03-26": 20271,
-  "2023-03-27": 20275,
-  "2023-03-28": 20283,
-  "2023-03-29": 20295,
-  "2023-03-30": 20304,
-  "2023-03-31": 20304,
-  "2023-04-01": 20318,
-  "2023-04-02": 20336,
-  "2023-04-03": 20353,
-  "2023-04-04": 20360,
-  "2023-04-05": 20372,
-  "2023-04-06": 20389,
-  "2023-04-07": 20402,
-  "2023-04-09": 20433,
-  "2023-04-10": 20443,
-  "2023-04-11": 20453,
-  "2023-04-12": 20453,
-  "2023-04-13": 20462,
-  "2023-04-14": 20472,
-  "2023-04-15": 20485,
-  "2023-04-16": 20503,
-  "2023-04-17": 20517,
-  "2023-04-18": 20525,
-  "2023-04-19": 20533,
-  "2023-04-20": 20540,
-  "2023-04-21": 20550,
-  "2023-04-22": 20565,
-  "2023-04-23": 20579,
-  "2023-04-24": 20592,
-  "2023-04-25": 20599,
-  "2023-04-26": 20612,
-  "2023-04-27": 20626,
-  "2023-04-28": 20640,
-  "2023-04-29": 20654,
-  "2023-04-30": 20670,
-  "2023-05-01": 20681,
-  "2023-05-02": 20691,
-  "2023-05-03": 20701,
-  "2023-05-04": 20711,
-  "2023-05-05": 20715,
-  "2023-05-06": 20723,
-  "2023-05-07": 20745,
-  "2023-05-08": 20755,
-  "2023-05-09": 20766,
-  "2023-05-10": 20771,
-  "2023-05-11": 20780,
-  "2023-05-12": 20787,
-  "2023-05-13": 20794,
-  "2023-05-14": 20810,
-  "2023-05-15": 20825,
-  "2023-05-16": 20838,
-  "2023-05-17": 20843,
-  "2023-05-18": 20847,
-  "2023-05-19": 20857,
-  "2023-05-20": 20880,
-  "2023-05-21": 20880,
-  "2023-05-22": 20880,
-  "2023-05-23": 20902,
-  "2023-05-24": 20920,
-  "2023-05-25": 20921,
-  "2023-05-26": 20931,
-  "2023-05-27": 20940,
-  "2023-05-28": 20963,
-  "2023-05-29": 20963,
-  "2023-05-30": 20984,
-  "2023-05-31": 20992,
-  "2023-06-01": 21003,
-  "2023-06-02": 21012,
-  "2023-06-03": 21024,
-  "2023-06-04": 21032,
-  "2023-06-05": 21040,
-  "2023-06-06": 21048,
-  "2023-06-07": 21057,
-  "2023-06-08": 21071,
-  "2023-06-09": 21086,
-  "2023-06-10": 21100,
-  "2023-06-11": 21115,
-  "2023-06-12": 21127,
-  "2023-06-13": 21146,
-  "2023-06-14": 21146,
-  "2023-06-15": 21163,
-  "2023-06-16": 21172,
-  "2023-06-17": 21179,
-  "2023-06-18": 21201,
-  "2023-06-19": 21219,
-  "2023-06-20": 21228,
-  "2023-06-21": 21238,
-  "2023-06-22": 21256,
-  "2023-06-23": 21271,
-  "2023-06-24": 21280,
-  "2023-06-25": 21295,
-  "2023-06-26": 21304,
-  "2023-06-27": 21309,
-  "2023-06-28": 21316,
-  "2023-06-29": 21331,
-  "2023-06-30": 21345,
-  "2023-07-01": 21377,
-  "2023-07-02": 21377,
-  "2023-07-03": 21386,
-  "2023-07-04": 21395,
-  "2023-07-05": 21398,
-  "2023-07-06": 21419,
-  "2023-07-07": 21419,
-  "2023-07-08": 21419,
-  "2023-07-09": 21438,
-  "2023-07-10": 21450,
-  "2023-07-11": 21457,
-  "2023-07-12": 21457,
-  "2023-07-13": 21470,
-  "2023-07-14": 21484,
-  "2023-07-15": 21497,
-  "2023-07-16": 21524,
-  "2023-07-17": 21532,
-  "2023-07-18": 21538,
-  "2023-07-19": 21550,
-  "2023-07-20": 21550,
-  "2023-07-21": 21572,
-  "2023-07-22": 21576,
-  "2023-07-23": 21592,
-  "2023-07-24": 21603,
-  "2023-07-25": 21610,
-  "2023-07-26": 21621,
-  "2023-07-27": 21633,
-  "2023-07-28": 21642,
-  "2023-07-29": 21664,
-  "2023-07-30": 21684,
-  "2023-07-31": 21702,
-  "2023-08-01": 21712,
-  "2023-08-02": 21720,
-  "2023-08-03": 21729,
-  "2023-08-04": 21747,
-  "2023-08-05": 21763,
-  "2023-08-06": 21806,
-  "2023-08-07": 21806,
-  "2023-08-08": 21819,
-  "2023-08-09": 21835,
-  "2023-08-10": 21839,
-  "2023-08-11": 21850,
-  "2023-08-12": 21850,
-  "2023-08-13": 21850,
-  "2023-08-14": 21850,
-  "2023-08-15": 21850,
-  "2023-08-16": 21850,
-  "2023-08-17": 21850,
-  "2023-08-18": 21850,
-  "2023-08-19": 21850,
-  "2023-08-20": 21982,
-  "2023-08-21": 21982,
-  "2023-08-22": 22007,
-  "2023-08-23": 22007,
-  "2023-08-24": 22007,
-  "2023-08-25": 22007,
-  "2023-08-26": 22054,
-  "2023-08-27": 22054,
-  "2023-08-28": 22086,
-  "2023-08-29": 22086,
-  "2023-08-30": 22086,
-  "2023-08-31": 22121,
-  "2023-09-01": 22139,
-  "2023-09-02": 22139,
-  "2023-09-03": 22139,
-  "2023-09-04": 22139,
-  "2023-09-05": 22139,
-  "2023-09-06": 22139,
-  "2023-09-07": 22139,
-  "2023-09-08": 22139,
-  "2023-09-09": 22139,
-  "2023-09-10": 22139,
-  "2023-09-11": 22139,
-  "2023-09-12": 22139,
-  "2023-09-13": 22139,
-  "2023-09-14": 22139,
-  "2023-09-15": 22139,
-  "2023-09-16": 22305,
-  "2023-09-17": 22305,
-  "2023-09-18": 22305,
-  "2023-09-19": 22345,
-  "2023-09-20": 22345,
-  "2023-09-21": 22345,
-  "2023-09-22": 22366,
-  "2023-09-23": 22366,
-  "2023-09-24": 22366,
-  "2023-09-25": 22366,
-  "2023-09-26": 22404,
-  "2023-09-27": 22404,
-  "2023-09-28": 22404,
-  "2023-09-29": 22404,
-  "2023-09-30": 22404,
-  "2023-10-01": 22404,
-  "2023-10-02": 22404,
-  "2023-10-03": 22404,
-  "2023-10-04": 22404,
-  "2023-10-05": 22404,
-  "2023-10-06": 22404,
-  "2023-10-07": 22404,
-  "2023-10-08": 22404,
-  "2023-10-09": 22404,
-  "2023-10-10": 22404,
-  "2023-10-11": 22945,
-  "2023-10-12": 22945,
-  "2023-10-13": 22945,
-  "2023-10-14": 22945,
-  "2023-10-15": 22945,
-  "2023-10-16": 22945,
-  "2023-10-17": 22945,
-  "2023-10-18": 22945,
-  "2023-10-19": 22945,
-  "2023-10-20": 22945,
-  "2023-10-21": 22945,
-  "2023-10-22": 22945,
-  "2023-10-23": 22945,
-  "2023-10-24": 22945,
-  "2023-10-25": 22945,
-  "2023-10-26": 22945,
-  "2023-10-27": 22945,
-  "2023-10-28": 22945,
-  "2023-10-29": 22945,
-  "2023-10-30": 22945,
-  "2023-10-31": 22945,
-  "2023-11-01": 22945,
-  "2023-11-02": 22945,
-  "2023-11-03": 22945,
-  "2023-11-04": 22945,
-  "2023-11-05": 22945,
-  "2023-11-06": 22945,
-  "2023-11-07": 22945,
-  "2023-11-08": 22945,
-  "2023-11-09": 22945,
-  "2023-11-10": 22945,
-  "2023-11-11": 23295,
-  "2023-11-12": 23295,
-  "2023-11-13": 23295,
-  "2023-11-14": 23295,
-  "2023-11-15": 23295,
-  "2023-11-16": 23295,
-  "2023-11-17": 23295,
-  "2023-11-18": 23295,
-  "2023-11-19": 23295,
-  "2023-11-20": 23295,
-  "2023-11-21": 23295,
-  "2023-11-22": 23295,
-  "2023-11-23": 23295,
-  "2023-11-24": 23295,
-  "2023-11-25": 23295,
-  "2023-11-26": 23295,
-  "2023-11-27": 23295,
-  "2023-11-28": 23295,
-  "2023-11-29": 23295,
-  "2023-11-30": 23295,
-  "2023-12-01": 23295,
-  "2023-12-02": 23295,
-  "2023-12-03": 23295,
-  "2023-12-04": 23295,
-  "2023-12-05": 23295,
-  "2023-12-06": 23295,
-  "2023-12-07": 23295,
-  "2023-12-08": 23295,
-  "2023-12-09": 23295,
-  "2023-12-10": 23295,
-  "2023-12-11": 23295,
-  "2023-12-12": 23295,
-  "2023-12-13": 23295,
-  "2023-12-14": 23649,
-  "2023-12-15": 23649,
-  "2023-12-16": 23662,
-  "2023-12-17": 23675,
-  "2023-12-18": 23679,
-  "2023-12-19": 23686,
-  "2023-12-20": 23694,
-  "2023-12-21": 23709,
-  "2023-12-22": 23724,
-  "2023-12-23": 23740,
-  "2023-12-24": 23747,
-  "2023-12-25": 23771,
-  "2023-12-26": 23786,
-  "2023-12-27": 23794,
-  "2023-12-30": 23822,
-  "2023-12-31": 23837,
-  "2024-01-01": 23865,
-  "2024-01-02": 23875,
-  "2024-01-03": 23877
+  "2024-01-17": 23946,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
+  "name": "This Is Los Traileros Del Norte",
+  "tracks": [
+    {
+      "album": {
+        "name": "35 Aniversario: En Vivo Desde el Domo Care",
+        "url": "https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        },
+        {
+          "name": "Lalo Mora Jr.",
+          "url": "https://open.spotify.com/artist/2GJSx6ApAz7rUALTS0CWPu"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 239053,
+      "name": "Abeja Reina - En Vivo",
+      "url": "https://open.spotify.com/track/3BvKPAOfOVdItJX9UOEtoN"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 170973,
+      "name": "Abeja Re\u00edna",
+      "url": "https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "Abeja Re\u00edna",
+      "url": "https://open.spotify.com/track/2m5ePayanrtB3LWWiKxVEg"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "Ahora Que Estuviste Lejos",
+      "url": "https://open.spotify.com/track/3g9YsvJjIeKa2W2sXg7tae"
+    },
+    {
+      "album": {
+        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
+        "url": "https://open.spotify.com/album/0h5HCJTFJd9Cy6EYqLcwfK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 155546,
+      "name": "Ahora Que Estuviste Lejos",
+      "url": "https://open.spotify.com/track/1TFcMQeNqQiBwlpNPPPmD0"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2ZT0rXwm3h0FaGgA5CLzGt"
+    },
+    {
+      "album": {
+        "name": "35 Aniversario: En Vivo Desde el Domo Care",
+        "url": "https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 172746,
+      "name": "Amor Brutal - En Vivo",
+      "url": "https://open.spotify.com/track/4buTWLBGvDn8mtWXKHoM8D"
+    },
+    {
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194613,
+      "name": "Anoche Estuve Llorando",
+      "url": "https://open.spotify.com/track/2HG6dbqVUBQQEe9JtyTns1"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 160440,
+      "name": "Apartamento Tres",
+      "url": "https://open.spotify.com/track/1kDuEYiV3CfuGDoopG9fL4"
+    },
+    {
+      "album": {
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160493,
+      "name": "Apartamento Tres",
+      "url": "https://open.spotify.com/track/2GMXI3Bhz9GPXMpOWLv4L3"
+    },
+    {
+      "album": {
+        "name": "Tambi\u00e9n Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/3VLGmlnHGYtLsKmbsVqxM5"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 217640,
+      "name": "Apoco No",
+      "url": "https://open.spotify.com/track/3K0XV1sdVnPf6z9NO4q8U5"
+    },
+    {
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "Aprend\u00ed Contigo",
+      "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 183226,
+      "name": "Arrastrando La Cobija",
+      "url": "https://open.spotify.com/track/7rawYVXegJYjMKNK888djz"
+    },
+    {
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "Arrastrando La Cobija",
+      "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
+    },
+    {
+      "album": {
+        "name": "De Festejo",
+        "url": "https://open.spotify.com/album/6yC5ut8GXAWCY5LS5ctqh1"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        },
+        {
+          "name": "Eliseo Robles Jr.",
+          "url": "https://open.spotify.com/artist/024sMKXZ3Vd1br0b1LGyTI"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 174268,
+      "name": "Ay Amigo!",
+      "url": "https://open.spotify.com/track/0LR71IkOpwAt2wxYlSiFD0"
+    },
+    {
+      "album": {
+        "name": "Ba\u00fal de los Recuerdos",
+        "url": "https://open.spotify.com/album/4OqajkovGS58z3pUXOmqXo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 185313,
+      "name": "Ba\u00fal de los Recuerdos",
+      "url": "https://open.spotify.com/track/6sIMOfRdvbn2PE8LCr9xpB"
+    },
+    {
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 172200,
+      "name": "Chamaca",
+      "url": "https://open.spotify.com/track/4Ygb0Vf5U5mRx9VtJXYgj8"
+    },
+    {
+      "album": {
+        "name": "Tambi\u00e9n Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/3VLGmlnHGYtLsKmbsVqxM5"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 179640,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/21ut7jcqCVEmgvP9YaKyz4"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 184986,
+      "name": "Contestaci\u00f3n A La Muerte De Marylee",
+      "url": "https://open.spotify.com/track/6izucF9I6OfbHnefeFdFwz"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Monterrey, NL",
+        "url": "https://open.spotify.com/album/5NuJqywzjzd5M77YyOTR6I"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 201625,
+      "name": "Corazon Vacio (En Vivo)",
+      "url": "https://open.spotify.com/track/3TQ6UHQeFMzSbE7NRPAZ6d"
+    },
+    {
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "Corazon Viejo",
+      "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162613,
+      "name": "Coraz\u00f3n Vaci\u00f3",
+      "url": "https://open.spotify.com/track/1xb1n8lg8FkLkt8mxcRuVX"
+    },
+    {
+      "album": {
+        "name": "Atr\u00e1s Del Escenario",
+        "url": "https://open.spotify.com/album/68uz1T0TeyArcH2MMVy6Kl"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "Dale Un Cuartazo Al Macho",
+      "url": "https://open.spotify.com/track/5CaVmNwvbF9ryrr8RNWr7u"
+    },
+    {
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185080,
+      "name": "Destap\u00e9 Otra Botella",
+      "url": "https://open.spotify.com/track/1kchtVnM8zZJXGgugsHhuL"
+    },
+    {
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "El Amor De Los Dos",
+      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
+    },
+    {
+      "album": {
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175946,
+      "name": "El Beso De Judas",
+      "url": "https://open.spotify.com/track/41u6boHB1VeoyQltaHgu7D"
+    },
+    {
+      "album": {
+        "name": "35 Aniversario: En Vivo Desde el Domo Care",
+        "url": "https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        },
+        {
+          "name": "Ricky L\u00f3pez",
+          "url": "https://open.spotify.com/artist/0tbis939faPuJg5RXYNRpo"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 163746,
+      "name": "El Caim\u00e1n - En Vivo",
+      "url": "https://open.spotify.com/track/4TrKU1y51lR2kjjZtQhqga"
+    },
+    {
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125133,
+      "name": "El Conejito",
+      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
+    },
+    {
+      "album": {
+        "name": "Corridos De Mi Tierra",
+        "url": "https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "El Corrido De Amado Carrillo",
+      "url": "https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY"
+    },
+    {
+      "album": {
+        "name": "Corridos Al Estilo Diferente",
+        "url": "https://open.spotify.com/album/5oeZmHmp8CRIc6CFUfTOWE"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 223000,
+      "name": "El Corrido De Los P\u00e9rez",
+      "url": "https://open.spotify.com/track/2Gu9iF9fQs4gtsG4ly1F8H"
+    },
+    {
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 168520,
+      "name": "El Divorcio",
+      "url": "https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d"
+    },
+    {
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 188973,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/7AVGGhvVFm5QQ9HoMhePKX"
+    },
+    {
+      "album": {
+        "name": "En Vivo en el Palenque, Vol. 1",
+        "url": "https://open.spotify.com/album/13atYop6cd8nOn5ELitzLb"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 189125,
+      "name": "El Mayor de los Traileros - En Vivo",
+      "url": "https://open.spotify.com/track/3Maww7zPwTEfAMlUY0c297"
+    },
+    {
+      "album": {
+        "name": "Las M\u00e1s Pedidas, Vol. 2",
+        "url": "https://open.spotify.com/album/4FYk7meQNVhlLc9XyU44xP"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 167312,
+      "name": "El Medallon",
+      "url": "https://open.spotify.com/track/2Zn1kNDGRoW8lvPLw8ACr4"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 200360,
+      "name": "En La Esquina",
+      "url": "https://open.spotify.com/track/5e2kTy5xWpEfOAFRyLKX7M"
+    },
+    {
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 166453,
+      "name": "Esperando Tu Regreso",
+      "url": "https://open.spotify.com/track/6gK6fLYcmadSgqIbecYLKx"
+    },
+    {
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167293,
+      "name": "Esperando Tu Regreso",
+      "url": "https://open.spotify.com/track/3vJiuzSI33U3hs58E5QOOp"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Fracaso",
+      "url": "https://open.spotify.com/track/45k71bk9yCZioceJ3umVzC"
+    },
+    {
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Hotel De Paso",
+      "url": "https://open.spotify.com/track/5nFMsTQAVRBUIiqLstuO2t"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Islas Mar\u00edas",
+      "url": "https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8"
+    },
+    {
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156066,
+      "name": "La Burra Tuerta",
+      "url": "https://open.spotify.com/track/4kcODJ1E30HoJA6zhwvNqC"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 153746,
+      "name": "La Desmedida",
+      "url": "https://open.spotify.com/track/3ilkGDqYW0m2gpDBD09qnE"
+    },
+    {
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145520,
+      "name": "La Entrega",
+      "url": "https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz"
+    },
+    {
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171906,
+      "name": "La Francis",
+      "url": "https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt"
+    },
+    {
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "La Paga",
+      "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
+    },
+    {
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153653,
+      "name": "La Quiero Con El Alma",
+      "url": "https://open.spotify.com/track/5O7gyxlFdbRcupanCMT1bG"
+    },
+    {
+      "album": {
+        "name": "35 Aniversario: En Vivo Desde el Domo Care",
+        "url": "https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 206333,
+      "name": "La Tabla del Uno - En Vivo",
+      "url": "https://open.spotify.com/track/2ca21NmVvhjRTNJOOpdOYL"
+    },
+    {
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 154146,
+      "name": "La Tracalera",
+      "url": "https://open.spotify.com/track/3prGI7hz4h7eDofFRQm6DH"
+    },
+    {
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "La Trailerita",
+      "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
+    },
+    {
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163093,
+      "name": "Las Edades",
+      "url": "https://open.spotify.com/track/1zlh34h2BSn438NY6Beqm2"
+    },
+    {
+      "album": {
+        "name": "De Festejo",
+        "url": "https://open.spotify.com/album/6yC5ut8GXAWCY5LS5ctqh1"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 158710,
+      "name": "L\u00edbrame Dios",
+      "url": "https://open.spotify.com/track/6Cx5zhrSpv6GZTxGVrFagD"
+    },
+    {
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+    },
+    {
+      "album": {
+        "name": "Te Sigo Amando",
+        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 180933,
+      "name": "Me Est\u00e1 Doliendo Dejarte",
+      "url": "https://open.spotify.com/track/5nQKzKV7A0UbLB5v0zaqvd"
+    },
+    {
+      "album": {
+        "name": "Recordando",
+        "url": "https://open.spotify.com/album/6dOXeCoGargfF3rc3n4slP"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 171066,
+      "name": "Me Va Y Me Viene",
+      "url": "https://open.spotify.com/track/03AwEUNvTXg0f0fwyCgr1I"
+    },
+    {
+      "album": {
+        "name": "Ni Tu Amigo Ni Tu Amante",
+        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "Mi Sacrificio",
+      "url": "https://open.spotify.com/track/2uUK1y1A53rggDtfqZ1AQ0"
+    },
+    {
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140826,
+      "name": "Mudo Por Tu Amor",
+      "url": "https://open.spotify.com/track/0zItQwc6k71g0smaBjrng1"
+    },
+    {
+      "album": {
+        "name": "Ni Tu Amigo Ni Tu Amante",
+        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159146,
+      "name": "Ni Tu Amigo Ni Tu Amante",
+      "url": "https://open.spotify.com/track/2SeZ4jqXC5gFGaMrIDJOr2"
+    },
+    {
+      "album": {
+        "name": "Te Sigo Amando",
+        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "No Hay Problema",
+      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
+    },
+    {
+      "album": {
+        "name": "Las M\u00e1s Pedidas, Vol. 1",
+        "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-07",
+      "duration_ms": 161625,
+      "name": "No Le Hace Que Le Aunque",
+      "url": "https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg"
+    },
+    {
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 163986,
+      "name": "No Sabes Amar",
+      "url": "https://open.spotify.com/track/6kxAZkr8hABBkG7dGWkkOX"
+    },
+    {
+      "album": {
+        "name": "Amor Brutal",
+        "url": "https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188120,
+      "name": "No Te Paniquees",
+      "url": "https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv"
+    },
+    {
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "Noble Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0DrotAHjAF5wkVRLrLLiGK"
+    },
+    {
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/0mrX7N28wFzFpkkeCGLCix"
+    },
+    {
+      "album": {
+        "name": "Mas Mexicanos Que Nunca",
+        "url": "https://open.spotify.com/album/0WmU0vKZo2Cj84Ri0J7L0M"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 214112,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/6xg5luJD50QQdwNZunIlCa"
+    },
+    {
+      "album": {
+        "name": "El Adi\u00f3s",
+        "url": "https://open.spotify.com/album/4zzIZntIdoZ0bKy4GOqmjQ"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 210720,
+      "name": "Por Motivos de Salud",
+      "url": "https://open.spotify.com/track/21fwsNalbCexxQKxgTY4eR"
+    },
+    {
+      "album": {
+        "name": "Mas Mexicanos Que Nunca",
+        "url": "https://open.spotify.com/album/0WmU0vKZo2Cj84Ri0J7L0M"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 194758,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/3SCSuJUWcMkUOuxnvhzVP6"
+    },
+    {
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 166693,
+      "name": "Quiero Besarte A La Noche",
+      "url": "https://open.spotify.com/track/5OmsB03J9ZRlKdL9EReRuz"
+    },
+    {
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
+    },
+    {
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Rosas Blancas",
+      "url": "https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn"
+    },
+    {
+      "album": {
+        "name": "Ni Tu Amigo Ni Tu Amante",
+        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166773,
+      "name": "Se Burlaron Mis Amigos",
+      "url": "https://open.spotify.com/track/4U3s9W6mUbWHSZqYrXdEUv"
+    },
+    {
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 166213,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/0qLNTZOUv7qdXxrtDWPejH"
+    },
+    {
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140973,
+      "name": "Solo Y Triste",
+      "url": "https://open.spotify.com/track/2GNsqriWKJlqCaMCvfTW9H"
+    },
+    {
+      "album": {
+        "name": "Las M\u00e1s Pedidas, Vol. 2",
+        "url": "https://open.spotify.com/album/4FYk7meQNVhlLc9XyU44xP"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178687,
+      "name": "Somos Ajenos",
+      "url": "https://open.spotify.com/track/2ssVqXLiCALogRNO6MNr4k"
+    },
+    {
+      "album": {
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Toco Madera",
+      "url": "https://open.spotify.com/track/2qyQTvoprTG6xk05FCtRt7"
+    },
+    {
+      "album": {
+        "name": "Ni Amores Ni Deudas",
+        "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        },
+        {
+          "name": "Ces\u00e1reo S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif"
+        },
+        {
+          "name": "Salomon Robles",
+          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Tres Por Una",
+      "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
+    },
+    {
+      "album": {
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192773,
+      "name": "Tres Veces Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/4VPiiwdjs8gWAQLVjn0NoZ"
+    },
+    {
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 194000,
+      "name": "Tres Veces Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/4FmlFs00vJVtRSNQddCQyJ"
+    },
+    {
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158573,
+      "name": "Trigue\u00f1ita De Ojos Negros",
+      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
+    },
+    {
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 164280,
+      "name": "Tus Labios Y Mi Copa",
+      "url": "https://open.spotify.com/track/4uClaTjzYCrVHKSY1Y34Um"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175746,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6lmjd76MajyeChAApIDZJv"
+    },
+    {
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Ultimo Amor, Ultimo Due\u00f1o",
+      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
+    },
+    {
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166373,
+      "name": "Una Noche No",
+      "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
+    },
+    {
+      "album": {
+        "name": "Como Decirte",
+        "url": "https://open.spotify.com/album/3zMm3HTIhFivAyQOSHjfYy"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/1yUMetUWBf8xoh8XBa4PZm"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-05",
+      "duration_ms": 177066,
+      "name": "Veneno Y Lodo",
+      "url": "https://open.spotify.com/track/4EvX0ScozsUhvKAmKPGevE"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 153720,
+      "name": "Victimas",
+      "url": "https://open.spotify.com/track/4p7OPAspRVLXd9mmGFYqyM"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171573,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/7apr6hZDvyayZr4LNBycfb"
+    },
+    {
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "Voy A Tratar De Olvidarte",
+      "url": "https://open.spotify.com/track/47nUD9V3Hlbt3HEAO5rcdQ"
+    },
+    {
+      "album": {
+        "name": "Recordando",
+        "url": "https://open.spotify.com/album/6dOXeCoGargfF3rc3n4slP"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 153466,
+      "name": "Y Para Que",
+      "url": "https://open.spotify.com/track/3ML4BsSeYMgBfoXlaB6REt"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 172893,
+      "name": "Y Vol\u00f3 La Paloma",
+      "url": "https://open.spotify.com/track/6wlTNaNVQZL6g0ydwkwLuZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SlD0O"
 }

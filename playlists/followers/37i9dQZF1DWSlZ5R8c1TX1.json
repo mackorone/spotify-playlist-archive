@@ -1,430 +1,1105 @@
 {
-  "2022-10-29": 229883,
-  "2022-10-30": 229959,
-  "2022-10-31": 230052,
-  "2022-11-01": 230139,
-  "2022-11-02": 230244,
-  "2022-11-03": 230326,
-  "2022-11-04": 230427,
-  "2022-11-05": 230501,
-  "2022-11-06": 230587,
-  "2022-11-07": 230651,
-  "2022-11-08": 230742,
-  "2022-11-09": 230824,
-  "2022-11-10": 230893,
-  "2022-11-11": 230969,
-  "2022-11-12": 231074,
-  "2022-11-13": 231145,
-  "2022-11-14": 231216,
-  "2022-11-15": 231320,
-  "2022-11-16": 231445,
-  "2022-11-17": 231538,
-  "2022-11-18": 231553,
-  "2022-11-19": 231528,
-  "2022-11-20": 231542,
-  "2022-11-21": 231623,
-  "2022-11-22": 231716,
-  "2022-11-23": 231809,
-  "2022-11-24": 231996,
-  "2022-11-25": 232205,
-  "2022-11-26": 232341,
-  "2022-11-27": 232438,
-  "2022-11-28": 232519,
-  "2022-11-29": 232601,
-  "2022-11-30": 232690,
-  "2022-12-01": 232766,
-  "2022-12-02": 232872,
-  "2022-12-03": 232896,
-  "2022-12-04": 233028,
-  "2022-12-05": 233137,
-  "2022-12-06": 233219,
-  "2022-12-07": 233329,
-  "2022-12-08": 233435,
-  "2022-12-09": 233549,
-  "2022-12-10": 233645,
-  "2022-12-11": 233738,
-  "2022-12-12": 233814,
-  "2022-12-13": 233906,
-  "2022-12-14": 233996,
-  "2022-12-15": 234081,
-  "2022-12-16": 234176,
-  "2022-12-17": 234265,
-  "2022-12-18": 234357,
-  "2022-12-19": 234435,
-  "2022-12-20": 234611,
-  "2022-12-21": 234611,
-  "2022-12-22": 234708,
-  "2022-12-24": 234909,
-  "2022-12-25": 235012,
-  "2022-12-26": 235091,
-  "2022-12-27": 235202,
-  "2022-12-28": 235298,
-  "2022-12-29": 235393,
-  "2022-12-30": 235486,
-  "2022-12-31": 235586,
-  "2023-01-01": 235661,
-  "2023-01-02": 235757,
-  "2023-01-03": 235846,
-  "2023-01-04": 235933,
-  "2023-01-05": 236011,
-  "2023-01-06": 236144,
-  "2023-01-07": 236322,
-  "2023-01-08": 236341,
-  "2023-01-09": 236445,
-  "2023-01-10": 236526,
-  "2023-01-11": 236633,
-  "2023-01-12": 236729,
-  "2023-01-13": 236864,
-  "2023-01-14": 237063,
-  "2023-01-15": 237093,
-  "2023-01-16": 237184,
-  "2023-01-17": 237281,
-  "2023-01-18": 237396,
-  "2023-01-19": 237511,
-  "2023-01-20": 237608,
-  "2023-01-21": 237706,
-  "2023-01-22": 237813,
-  "2023-01-23": 237912,
-  "2023-01-24": 237989,
-  "2023-01-25": 238109,
-  "2023-01-26": 238196,
-  "2023-01-27": 238286,
-  "2023-01-28": 238377,
-  "2023-01-29": 238473,
-  "2023-01-30": 238540,
-  "2023-01-31": 238540,
-  "2023-02-01": 238690,
-  "2023-02-02": 238771,
-  "2023-02-03": 238866,
-  "2023-02-04": 238979,
-  "2023-02-05": 239080,
-  "2023-02-06": 239178,
-  "2023-02-07": 239257,
-  "2023-02-08": 239459,
-  "2023-02-09": 239459,
-  "2023-02-10": 239564,
-  "2023-02-11": 239673,
-  "2023-02-12": 239838,
-  "2023-02-13": 239936,
-  "2023-02-14": 239936,
-  "2023-02-15": 240015,
-  "2023-02-16": 240114,
-  "2023-02-17": 240193,
-  "2023-02-18": 240386,
-  "2023-02-19": 240400,
-  "2023-02-20": 240476,
-  "2023-02-21": 240566,
-  "2023-02-22": 240687,
-  "2023-02-23": 240767,
-  "2023-02-24": 240858,
-  "2023-02-25": 240994,
-  "2023-02-26": 241050,
-  "2023-02-27": 241213,
-  "2023-02-28": 241213,
-  "2023-03-01": 241317,
-  "2023-03-02": 241412,
-  "2023-03-03": 241517,
-  "2023-03-04": 241608,
-  "2023-03-05": 241810,
-  "2023-03-06": 241810,
-  "2023-03-07": 241916,
-  "2023-03-08": 241990,
-  "2023-03-09": 242084,
-  "2023-03-10": 242180,
-  "2023-03-11": 242293,
-  "2023-03-12": 242408,
-  "2023-03-13": 242509,
-  "2023-03-14": 242589,
-  "2023-03-15": 242682,
-  "2023-03-16": 242780,
-  "2023-03-17": 242780,
-  "2023-03-18": 242952,
-  "2023-03-19": 243054,
-  "2023-03-20": 243130,
-  "2023-03-21": 243214,
-  "2023-03-22": 243289,
-  "2023-03-23": 243377,
-  "2023-03-24": 243377,
-  "2023-03-25": 243545,
-  "2023-03-26": 243635,
-  "2023-03-27": 243731,
-  "2023-03-28": 243835,
-  "2023-03-29": 243919,
-  "2023-03-30": 244113,
-  "2023-03-31": 244113,
-  "2023-04-01": 244219,
-  "2023-04-02": 244314,
-  "2023-04-03": 244418,
-  "2023-04-04": 244506,
-  "2023-04-05": 244606,
-  "2023-04-06": 244696,
-  "2023-04-07": 244782,
-  "2023-04-09": 244927,
-  "2023-04-10": 245002,
-  "2023-04-11": 245191,
-  "2023-04-12": 245191,
-  "2023-04-13": 245288,
-  "2023-04-14": 245401,
-  "2023-04-15": 245487,
-  "2023-04-16": 245571,
-  "2023-04-17": 245644,
-  "2023-04-18": 245733,
-  "2023-04-19": 245839,
-  "2023-04-20": 245942,
-  "2023-04-21": 246069,
-  "2023-04-22": 246188,
-  "2023-04-23": 246278,
-  "2023-04-24": 246390,
-  "2023-04-25": 246505,
-  "2023-04-26": 246631,
-  "2023-04-27": 246737,
-  "2023-04-28": 246845,
-  "2023-04-29": 246926,
-  "2023-04-30": 247011,
-  "2023-05-01": 247079,
-  "2023-05-02": 247151,
-  "2023-05-03": 247235,
-  "2023-05-04": 247337,
-  "2023-05-05": 247453,
-  "2023-05-06": 247548,
-  "2023-05-07": 247644,
-  "2023-05-08": 247716,
-  "2023-05-09": 247805,
-  "2023-05-10": 247903,
-  "2023-05-11": 247993,
-  "2023-05-12": 248086,
-  "2023-05-13": 248183,
-  "2023-05-14": 248277,
-  "2023-05-15": 248350,
-  "2023-05-16": 248399,
-  "2023-05-17": 248497,
-  "2023-05-18": 248567,
-  "2023-05-19": 248663,
-  "2023-05-20": 248862,
-  "2023-05-21": 248862,
-  "2023-05-22": 248862,
-  "2023-05-23": 249018,
-  "2023-05-24": 249186,
-  "2023-05-25": 249215,
-  "2023-05-26": 249313,
-  "2023-05-27": 249411,
-  "2023-05-28": 249509,
-  "2023-05-29": 249509,
-  "2023-05-30": 249655,
-  "2023-05-31": 249738,
-  "2023-06-01": 249809,
-  "2023-06-02": 249917,
-  "2023-06-03": 250008,
-  "2023-06-04": 250104,
-  "2023-06-05": 250161,
-  "2023-06-06": 250263,
-  "2023-06-07": 250347,
-  "2023-06-08": 250462,
-  "2023-06-09": 250567,
-  "2023-06-10": 250680,
-  "2023-06-11": 250788,
-  "2023-06-12": 250881,
-  "2023-06-13": 250969,
-  "2023-06-14": 251033,
-  "2023-06-15": 251103,
-  "2023-06-16": 251208,
-  "2023-06-17": 251208,
-  "2023-06-18": 251208,
-  "2023-06-19": 251208,
-  "2023-06-20": 251208,
-  "2023-06-21": 251208,
-  "2023-06-22": 251208,
-  "2023-06-23": 251208,
-  "2023-06-24": 251208,
-  "2023-06-25": 251208,
-  "2023-06-26": 251208,
-  "2023-06-27": 251208,
-  "2023-06-28": 251208,
-  "2023-06-29": 251208,
-  "2023-06-30": 251208,
-  "2023-07-01": 251208,
-  "2023-07-02": 251208,
-  "2023-07-03": 251208,
-  "2023-07-04": 251208,
-  "2023-07-05": 251208,
-  "2023-07-06": 251208,
-  "2023-07-07": 251208,
-  "2023-07-08": 251208,
-  "2023-07-09": 251208,
-  "2023-07-10": 251208,
-  "2023-07-11": 251208,
-  "2023-07-12": 251208,
-  "2023-07-13": 251208,
-  "2023-07-14": 251208,
-  "2023-07-15": 251208,
-  "2023-07-16": 251208,
-  "2023-07-17": 251208,
-  "2023-07-18": 251208,
-  "2023-07-19": 251208,
-  "2023-07-20": 251208,
-  "2023-07-21": 251208,
-  "2023-07-22": 251208,
-  "2023-07-23": 251208,
-  "2023-07-24": 251208,
-  "2023-07-25": 251208,
-  "2023-07-26": 251208,
-  "2023-07-27": 251208,
-  "2023-07-28": 251208,
-  "2023-07-29": 251208,
-  "2023-07-30": 251208,
-  "2023-07-31": 251208,
-  "2023-08-01": 251208,
-  "2023-08-02": 251208,
-  "2023-08-03": 251208,
-  "2023-08-04": 251208,
-  "2023-08-05": 251208,
-  "2023-08-06": 251208,
-  "2023-08-07": 251208,
-  "2023-08-08": 251208,
-  "2023-08-09": 251208,
-  "2023-08-10": 251208,
-  "2023-08-11": 251208,
-  "2023-08-12": 251208,
-  "2023-08-13": 251208,
-  "2023-08-14": 251208,
-  "2023-08-15": 251208,
-  "2023-08-16": 251208,
-  "2023-08-17": 251208,
-  "2023-08-18": 251208,
-  "2023-08-19": 251208,
-  "2023-08-20": 251208,
-  "2023-08-21": 251208,
-  "2023-08-22": 251208,
-  "2023-08-23": 251208,
-  "2023-08-24": 251208,
-  "2023-08-25": 251208,
-  "2023-08-26": 251208,
-  "2023-08-27": 251208,
-  "2023-08-28": 251208,
-  "2023-08-29": 251208,
-  "2023-08-30": 251208,
-  "2023-08-31": 251208,
-  "2023-09-01": 251208,
-  "2023-09-02": 251208,
-  "2023-09-03": 251208,
-  "2023-09-04": 251208,
-  "2023-09-05": 251208,
-  "2023-09-06": 251208,
-  "2023-09-07": 251208,
-  "2023-09-08": 251208,
-  "2023-09-09": 251208,
-  "2023-09-10": 251208,
-  "2023-09-11": 251208,
-  "2023-09-12": 251208,
-  "2023-09-13": 251208,
-  "2023-09-14": 251208,
-  "2023-09-15": 251208,
-  "2023-09-16": 251208,
-  "2023-09-17": 251208,
-  "2023-09-18": 251208,
-  "2023-09-19": 251208,
-  "2023-09-20": 251208,
-  "2023-09-21": 251208,
-  "2023-09-22": 251208,
-  "2023-09-23": 251208,
-  "2023-09-24": 251208,
-  "2023-09-25": 251208,
-  "2023-09-26": 251208,
-  "2023-09-27": 251208,
-  "2023-09-28": 251208,
-  "2023-09-29": 251208,
-  "2023-09-30": 251208,
-  "2023-10-01": 251208,
-  "2023-10-02": 251208,
-  "2023-10-03": 251208,
-  "2023-10-04": 251208,
-  "2023-10-05": 251208,
-  "2023-10-06": 251208,
-  "2023-10-07": 251208,
-  "2023-10-08": 251208,
-  "2023-10-09": 251208,
-  "2023-10-10": 251208,
-  "2023-10-11": 251208,
-  "2023-10-12": 251208,
-  "2023-10-13": 251208,
-  "2023-10-14": 251208,
-  "2023-10-15": 251208,
-  "2023-10-16": 251208,
-  "2023-10-17": 251208,
-  "2023-10-18": 251208,
-  "2023-10-19": 251208,
-  "2023-10-20": 251208,
-  "2023-10-21": 251208,
-  "2023-10-22": 251208,
-  "2023-10-23": 251208,
-  "2023-10-24": 251208,
-  "2023-10-25": 251208,
-  "2023-10-26": 251208,
-  "2023-10-27": 251208,
-  "2023-10-28": 251208,
-  "2023-10-29": 251208,
-  "2023-10-30": 251208,
-  "2023-10-31": 251208,
-  "2023-11-01": 251208,
-  "2023-11-02": 251208,
-  "2023-11-03": 251208,
-  "2023-11-04": 251208,
-  "2023-11-05": 251208,
-  "2023-11-06": 251208,
-  "2023-11-07": 251208,
-  "2023-11-08": 251208,
-  "2023-11-09": 251208,
-  "2023-11-10": 251208,
-  "2023-11-11": 251208,
-  "2023-11-12": 251208,
-  "2023-11-13": 251208,
-  "2023-11-14": 251208,
-  "2023-11-15": 251208,
-  "2023-11-16": 251208,
-  "2023-11-17": 251208,
-  "2023-11-18": 251208,
-  "2023-11-19": 251208,
-  "2023-11-20": 251208,
-  "2023-11-21": 251208,
-  "2023-11-22": 251208,
-  "2023-11-23": 251208,
-  "2023-11-24": 251208,
-  "2023-11-25": 251208,
-  "2023-11-26": 251208,
-  "2023-11-27": 251208,
-  "2023-11-28": 251208,
-  "2023-11-29": 251208,
-  "2023-11-30": 251208,
-  "2023-12-01": 251208,
-  "2023-12-02": 251208,
-  "2023-12-03": 251208,
-  "2023-12-04": 251208,
-  "2023-12-05": 251208,
-  "2023-12-06": 251208,
-  "2023-12-07": 251208,
-  "2023-12-08": 251208,
-  "2023-12-09": 251208,
-  "2023-12-10": 251208,
-  "2023-12-11": 251208,
-  "2023-12-12": 251208,
-  "2023-12-13": 251208,
-  "2023-12-14": 251208,
-  "2023-12-15": 251208,
-  "2023-12-16": 251208,
-  "2023-12-17": 251208,
-  "2023-12-18": 251208,
-  "2023-12-19": 251208,
-  "2023-12-20": 251208,
-  "2023-12-21": 251208,
-  "2023-12-22": 251208,
-  "2023-12-23": 251208,
-  "2023-12-24": 251208,
-  "2023-12-25": 251208,
-  "2023-12-26": 251208,
-  "2023-12-27": 251208,
-  "2023-12-30": 251208,
-  "2023-12-31": 251208,
-  "2024-01-01": 251208,
-  "2024-01-02": 251208,
-  "2024-01-03": 251208
+  "2024-01-17": 251208,
+  "date_first_scraped": "2022-10-29",
+  "description": "This Is Roddy Ricch. The essential tracks, all in one playlist.",
+  "name": "This Is Roddy Ricch",
+  "tracks": [
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "all good (feat. Future)",
+      "url": "https://open.spotify.com/track/4tEArA9SQlyNrBHpjNZAWM"
+    },
+    {
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172320,
+      "name": "Bacc Seat (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX"
+    },
+    {
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/04yB9kBsaEQgT8hFfcsQik"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50283,
+      "name": "bibi's interlude",
+      "url": "https://open.spotify.com/track/6d2Z6mJZE9KJaa8iZRJIG1"
+    },
+    {
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167557,
+      "name": "Boom Boom Room",
+      "url": "https://open.spotify.com/track/3aBL75wBGHJnskegE9jyhb"
+    },
+    {
+      "album": {
+        "name": "Practice Makes Paper",
+        "url": "https://open.spotify.com/album/5EK2Kc4pKtcVGUM4Dvz2PQ"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284439,
+      "name": "Chase The Money",
+      "url": "https://open.spotify.com/track/3rnDyg4f2oRsWmXdZVFD1Y"
+    },
+    {
+      "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "COOLER THAN A BITCH (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/5LHHKZOwV8XW4LJP2C64mw"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186261,
+      "name": "crash the party",
+      "url": "https://open.spotify.com/track/0WtWtk7D05LELKQk0q8FMC"
+    },
+    {
+      "album": {
+        "name": "Feed Tha Streets II",
+        "url": "https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "Cream",
+      "url": "https://open.spotify.com/track/2wz3OO7ndJQj15z3drwKkf"
+    },
+    {
+      "album": {
+        "name": "Feed Tha Streets II",
+        "url": "https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157656,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/3wLtYwtqvKK2ewelSVPeDK"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "don\u2019t i (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
+    },
+    {
+      "album": {
+        "name": "Feed Tha Streets II",
+        "url": "https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224002,
+      "name": "Down Below",
+      "url": "https://open.spotify.com/track/4SWWe2OYC4mqf40Gc2RSdl"
+    },
+    {
+      "album": {
+        "name": "Feed Tha Streets II",
+        "url": "https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214375,
+      "name": "Every Season",
+      "url": "https://open.spotify.com/track/1ttPzkTSpQUFcEGx8bjerL"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "everything you need",
+      "url": "https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv"
+    },
+    {
+      "album": {
+        "name": "TrapStar Turnt PopStar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uBhSx6lqr4RkWM2YUYOrC"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184140,
+      "name": "Evolved (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/0q2n4kmbSaQUPfECkNpkfD"
+    },
+    {
+      "album": {
+        "name": "Feed Tha Streets II",
+        "url": "https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169887,
+      "name": "Feed Tha Streets 2 (Intro)",
+      "url": "https://open.spotify.com/track/3kgQ1kJC1WkuYVJuNJHPGA"
+    },
+    {
+      "album": {
+        "name": "Gifted (feat. Roddy Ricch)",
+        "url": "https://open.spotify.com/album/5RCg8bx2jAo66z9uffG44u"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168477,
+      "name": "Gifted (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/0mb3uDw5vfFUcZfJYFOMRu"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170413,
+      "name": "hibachi (feat. Kodak Black & 21 Savage)",
+      "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
+    },
+    {
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220486,
+      "name": "High Fashion (feat. Mustard)",
+      "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
+    },
+    {
+      "album": {
+        "name": "How It Is (feat. Roddy Ricch, Chip & Yxng Bane)",
+        "url": "https://open.spotify.com/album/73aHfMP5GrDh5UDdIXVIkb"
+      },
+      "artists": [
+        {
+          "name": "The Plug",
+          "url": "https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
+        },
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277551,
+      "name": "How It Is (feat. Roddy Ricch, Chip & Yxng Bane)",
+      "url": "https://open.spotify.com/track/1ogmtYEsS4ywfLIhMee5bu"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174549,
+      "name": "late at night",
+      "url": "https://open.spotify.com/track/6kksmL4t09IgxhajuVDDxR"
+    },
+    {
+      "album": {
+        "name": "LEMME FIND OUT",
+        "url": "https://open.spotify.com/album/5BreDfoKKD7DBSzzQ6tAAi"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158882,
+      "name": "LEMME FIND OUT",
+      "url": "https://open.spotify.com/track/2aMi7wkUtVZ7QTm6paGgox"
+    },
+    {
+      "album": {
+        "name": "Lemonade (Feat. Roddy Ricch & Don Toliver) [Remix]",
+        "url": "https://open.spotify.com/album/7AgDcfBGf9SYACiuIHXPRK"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181495,
+      "name": "Lemonade (Feat. Roddy Ricch & Don Toliver) [Remix]",
+      "url": "https://open.spotify.com/track/5sBplhIrmzA4kQGyIOpmDf"
+    },
+    {
+      "album": {
+        "name": "Letter To Nipsey (feat. Roddy Ricch)",
+        "url": "https://open.spotify.com/album/5kQY1TXZGxVUKVgK4Rq4mf"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167845,
+      "name": "Letter to Nipsey (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/0j2CNrgtalXRGIvHMO2vzh"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209051,
+      "name": "man made",
+      "url": "https://open.spotify.com/track/5ciPtn2yJDgSSXio7dQq13"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96021,
+      "name": "more than a trend",
+      "url": "https://open.spotify.com/track/0yk8VLT5BXbqHK8DZD3xUg"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222225,
+      "name": "moved to miami (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159741,
+      "name": "murda one (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1rdVnpJ6puWLlxkG6Kmcls"
+    },
+    {
+      "album": {
+        "name": "Feed Tha Streets II",
+        "url": "https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179059,
+      "name": "Nascar",
+      "url": "https://open.spotify.com/track/4F60iJFwx0G7x3SNjYWiZP"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191359,
+      "name": "no way (feat. Jamie Foxx)",
+      "url": "https://open.spotify.com/track/1nmk4zIiNEbZYJ4eJpajnV"
+    },
+    {
+      "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188563,
+      "name": "Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",
+      "url": "https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88"
+    },
+    {
+      "album": {
+        "name": "Out Tha Mud",
+        "url": "https://open.spotify.com/album/5zFQbfLwhrai9TtTBLXjm2"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212051,
+      "name": "Out Tha Mud",
+      "url": "https://open.spotify.com/track/7jI9cnrZof9mRNpIsA7QQN"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162916,
+      "name": "paid my dues (feat. Takeoff)",
+      "url": "https://open.spotify.com/track/61TWTSHcrFVgaRr6U4MKBs"
+    },
+    {
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198848,
+      "name": "Peta (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/4bl1HBZliBuYpFZjWgefE4"
+    },
+    {
+      "album": {
+        "name": "Project Dreams",
+        "url": "https://open.spotify.com/album/4mKWtSdQVrmWzY0d3fLBTR"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167898,
+      "name": "Project Dreams",
+      "url": "https://open.spotify.com/track/6GSkLS2y4ZnnZsuRAj975K"
+    },
+    {
+      "album": {
+        "name": "Racks in the Middle (feat. Roddy Ricch and Hit-Boy)",
+        "url": "https://open.spotify.com/album/6a2c06GAsKigzV53VyzBXk"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233277,
+      "name": "Racks in the Middle (feat. Roddy Ricch and Hit-Boy)",
+      "url": "https://open.spotify.com/track/6ya8ejoKgw906Y8LWclqrp"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181733,
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185367,
+      "name": "rollercoastin",
+      "url": "https://open.spotify.com/track/70QQOOZksoit78QsiDrEiN"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54970,
+      "name": "slow it down (feat. Ty Dolla $ign & Alex Isley)",
+      "url": "https://open.spotify.com/track/4OB4lUX8h7QLBo1rfiWNht"
+    },
+    {
+      "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168494,
+      "name": "Splash Warning (feat. Future, Roddy Ricch and Young Thug)",
+      "url": "https://open.spotify.com/track/6cPnE82DKBLd7sg02ZNg8K"
+    },
+    {
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158691,
+      "name": "Start Wit Me (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu"
+    },
+    {
+      "album": {
+        "name": "STUNNAMAN",
+        "url": "https://open.spotify.com/album/0L6pUcZrXpM18hRPJVE4cV"
+      },
+      "artists": [
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219121,
+      "name": "STUNNAMAN (with Roddy Ricch & feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/3ptB4SmuSJTGhQByFrMJVJ"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200958,
+      "name": "thailand",
+      "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
+    },
+    {
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "The Woo (feat. 50 Cent & Roddy Ricch)",
+      "url": "https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn"
+    },
+    {
+      "album": {
+        "name": "Summertime Shootout 3: Coldest Summer Ever",
+        "url": "https://open.spotify.com/album/3HnnFZuxm8gUEQE6SL67JQ"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220786,
+      "name": "Time (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3Hx8hoMtBcIj2vbS9hCOvy"
+    },
+    {
+      "album": {
+        "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
+        "url": "https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
+      "url": "https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE"
+    },
+    {
+      "album": {
+        "name": "Walk Em Down (feat. Roddy Ricch)",
+        "url": "https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173288,
+      "name": "Walk Em Down (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg"
+    },
+    {
+      "album": {
+        "name": "Wow. (Remix)",
+        "url": "https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170053,
+      "name": "Wow. - Remix",
+      "url": "https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSlZ5R8c1TX1"
 }

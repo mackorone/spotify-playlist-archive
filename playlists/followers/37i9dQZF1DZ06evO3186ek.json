@@ -1,474 +1,2415 @@
 {
-  "2022-09-15": 76944,
-  "2022-09-16": 77087,
-  "2022-09-17": 77200,
-  "2022-09-18": 77334,
-  "2022-09-19": 77496,
-  "2022-09-20": 77631,
-  "2022-09-21": 77752,
-  "2022-09-22": 77872,
-  "2022-09-23": 78009,
-  "2022-09-24": 78009,
-  "2022-09-25": 78245,
-  "2022-09-26": 78387,
-  "2022-09-27": 78521,
-  "2022-09-28": 78676,
-  "2022-09-29": 78823,
-  "2022-09-30": 78968,
-  "2022-10-01": 79091,
-  "2022-10-02": 79195,
-  "2022-10-03": 79309,
-  "2022-10-04": 79436,
-  "2022-10-05": 79579,
-  "2022-10-06": 79695,
-  "2022-10-07": 79789,
-  "2022-10-08": 79891,
-  "2022-10-09": 80130,
-  "2022-10-10": 80157,
-  "2022-10-11": 80301,
-  "2022-10-12": 80451,
-  "2022-10-13": 80596,
-  "2022-10-14": 80709,
-  "2022-10-15": 80805,
-  "2022-10-16": 80899,
-  "2022-10-17": 81031,
-  "2022-10-18": 81146,
-  "2022-10-19": 81264,
-  "2022-10-20": 81375,
-  "2022-10-21": 81461,
-  "2022-10-22": 81561,
-  "2022-10-23": 81666,
-  "2022-10-24": 81788,
-  "2022-10-25": 81883,
-  "2022-10-26": 81970,
-  "2022-10-27": 82080,
-  "2022-10-28": 82149,
-  "2022-10-29": 82235,
-  "2022-10-30": 82331,
-  "2022-10-31": 82458,
-  "2022-11-01": 82550,
-  "2022-11-02": 82656,
-  "2022-11-03": 82763,
-  "2022-11-04": 82860,
-  "2022-11-05": 82972,
-  "2022-11-06": 83079,
-  "2022-11-07": 83193,
-  "2022-11-08": 83332,
-  "2022-11-09": 83448,
-  "2022-11-10": 83544,
-  "2022-11-11": 83667,
-  "2022-11-12": 83806,
-  "2022-11-13": 83899,
-  "2022-11-14": 84020,
-  "2022-11-15": 84130,
-  "2022-11-16": 84218,
-  "2022-11-17": 84297,
-  "2022-11-18": 84348,
-  "2022-11-19": 84372,
-  "2022-11-20": 84445,
-  "2022-11-21": 84530,
-  "2022-11-22": 84638,
-  "2022-11-23": 84741,
-  "2022-11-24": 84908,
-  "2022-11-25": 85031,
-  "2022-11-26": 85116,
-  "2022-11-27": 85206,
-  "2022-11-28": 85279,
-  "2022-11-29": 85375,
-  "2022-11-30": 85469,
-  "2022-12-01": 85588,
-  "2022-12-02": 85659,
-  "2022-12-03": 85858,
-  "2022-12-04": 85982,
-  "2022-12-05": 86130,
-  "2022-12-06": 86255,
-  "2022-12-07": 86381,
-  "2022-12-08": 86497,
-  "2022-12-09": 86611,
-  "2022-12-10": 86720,
-  "2022-12-11": 86811,
-  "2022-12-12": 86920,
-  "2022-12-13": 87008,
-  "2022-12-14": 87109,
-  "2022-12-15": 87184,
-  "2022-12-16": 87279,
-  "2022-12-17": 87359,
-  "2022-12-18": 87443,
-  "2022-12-19": 87530,
-  "2022-12-20": 87689,
-  "2022-12-21": 87689,
-  "2022-12-22": 87798,
-  "2022-12-24": 87953,
-  "2022-12-25": 88032,
-  "2022-12-26": 88116,
-  "2022-12-27": 88206,
-  "2022-12-28": 88311,
-  "2022-12-29": 88447,
-  "2022-12-30": 88553,
-  "2022-12-31": 88673,
-  "2023-01-01": 88775,
-  "2023-01-02": 88906,
-  "2023-01-03": 89059,
-  "2023-01-04": 89178,
-  "2023-01-05": 89315,
-  "2023-01-06": 89471,
-  "2023-01-07": 89653,
-  "2023-01-08": 89687,
-  "2023-01-09": 89852,
-  "2023-01-10": 90009,
-  "2023-01-11": 90136,
-  "2023-01-12": 90337,
-  "2023-01-13": 90471,
-  "2023-01-14": 90698,
-  "2023-01-15": 90732,
-  "2023-01-16": 90866,
-  "2023-01-17": 91017,
-  "2023-01-18": 91144,
-  "2023-01-19": 91304,
-  "2023-01-20": 91451,
-  "2023-01-21": 91624,
-  "2023-01-22": 91769,
-  "2023-01-23": 91952,
-  "2023-01-24": 92101,
-  "2023-01-25": 92258,
-  "2023-01-26": 92458,
-  "2023-01-27": 92582,
-  "2023-01-28": 92725,
-  "2023-01-29": 92848,
-  "2023-01-30": 93022,
-  "2023-01-31": 93022,
-  "2023-02-01": 93328,
-  "2023-02-02": 93447,
-  "2023-02-03": 93564,
-  "2023-02-04": 93655,
-  "2023-02-05": 93792,
-  "2023-02-06": 93920,
-  "2023-02-07": 94187,
-  "2023-02-08": 94663,
-  "2023-02-09": 94663,
-  "2023-02-10": 94854,
-  "2023-02-11": 95012,
-  "2023-02-12": 95342,
-  "2023-02-13": 95482,
-  "2023-02-14": 95482,
-  "2023-02-15": 95623,
-  "2023-02-16": 95776,
-  "2023-02-17": 95939,
-  "2023-02-18": 96239,
-  "2023-02-19": 96269,
-  "2023-02-20": 96370,
-  "2023-02-21": 96512,
-  "2023-02-22": 96630,
-  "2023-02-23": 96749,
-  "2023-02-24": 96908,
-  "2023-02-25": 97093,
-  "2023-02-26": 97208,
-  "2023-02-27": 97483,
-  "2023-02-28": 97483,
-  "2023-03-01": 97624,
-  "2023-03-02": 97759,
-  "2023-03-03": 97869,
-  "2023-03-04": 97974,
-  "2023-03-05": 98237,
-  "2023-03-06": 98237,
-  "2023-03-07": 98356,
-  "2023-03-08": 98484,
-  "2023-03-09": 98592,
-  "2023-03-10": 98730,
-  "2023-03-11": 98866,
-  "2023-03-12": 98961,
-  "2023-03-13": 99078,
-  "2023-03-14": 99190,
-  "2023-03-15": 99291,
-  "2023-03-16": 99291,
-  "2023-03-17": 99291,
-  "2023-03-18": 99586,
-  "2023-03-19": 99586,
-  "2023-03-20": 99801,
-  "2023-03-21": 99918,
-  "2023-03-22": 100065,
-  "2023-03-23": 100191,
-  "2023-03-24": 100191,
-  "2023-03-25": 100425,
-  "2023-03-26": 100536,
-  "2023-03-27": 100673,
-  "2023-03-28": 100774,
-  "2023-03-29": 100916,
-  "2023-03-30": 101110,
-  "2023-03-31": 101110,
-  "2023-04-01": 101206,
-  "2023-04-02": 101310,
-  "2023-04-03": 101442,
-  "2023-04-04": 101581,
-  "2023-04-05": 101679,
-  "2023-04-06": 101793,
-  "2023-04-07": 101891,
-  "2023-04-09": 102129,
-  "2023-04-10": 102249,
-  "2023-04-11": 102476,
-  "2023-04-12": 102476,
-  "2023-04-13": 102576,
-  "2023-04-14": 102688,
-  "2023-04-15": 102789,
-  "2023-04-16": 102895,
-  "2023-04-17": 102988,
-  "2023-04-18": 103107,
-  "2023-04-19": 103227,
-  "2023-04-20": 103328,
-  "2023-04-21": 103434,
-  "2023-04-22": 103555,
-  "2023-04-23": 103654,
-  "2023-04-24": 103791,
-  "2023-04-25": 103912,
-  "2023-04-26": 104013,
-  "2023-04-27": 104105,
-  "2023-04-28": 104191,
-  "2023-04-29": 104293,
-  "2023-04-30": 104395,
-  "2023-05-01": 104514,
-  "2023-05-02": 104587,
-  "2023-05-03": 104701,
-  "2023-05-04": 104785,
-  "2023-05-05": 104880,
-  "2023-05-06": 104976,
-  "2023-05-07": 105068,
-  "2023-05-08": 105181,
-  "2023-05-09": 105288,
-  "2023-05-10": 105385,
-  "2023-05-11": 105489,
-  "2023-05-12": 105581,
-  "2023-05-13": 105661,
-  "2023-05-14": 105737,
-  "2023-05-15": 105836,
-  "2023-05-16": 105928,
-  "2023-05-17": 106036,
-  "2023-05-18": 106126,
-  "2023-05-19": 106216,
-  "2023-05-20": 106375,
-  "2023-05-21": 106375,
-  "2023-05-22": 106375,
-  "2023-05-23": 106548,
-  "2023-05-24": 106713,
-  "2023-05-25": 106731,
-  "2023-05-26": 106825,
-  "2023-05-27": 106914,
-  "2023-05-28": 107001,
-  "2023-05-29": 107001,
-  "2023-05-30": 107201,
-  "2023-05-31": 107288,
-  "2023-06-01": 107375,
-  "2023-06-02": 107473,
-  "2023-06-03": 107546,
-  "2023-06-04": 107628,
-  "2023-06-05": 107723,
-  "2023-06-06": 107805,
-  "2023-06-07": 107876,
-  "2023-06-08": 107953,
-  "2023-06-09": 108048,
-  "2023-06-10": 108103,
-  "2023-06-11": 108201,
-  "2023-06-12": 108313,
-  "2023-06-13": 108391,
-  "2023-06-14": 108391,
-  "2023-06-15": 108563,
-  "2023-06-16": 108653,
-  "2023-06-17": 108761,
-  "2023-06-18": 108834,
-  "2023-06-19": 108920,
-  "2023-06-20": 109003,
-  "2023-06-21": 109101,
-  "2023-06-22": 109179,
-  "2023-06-23": 109260,
-  "2023-06-24": 109342,
-  "2023-06-25": 109425,
-  "2023-06-26": 109532,
-  "2023-06-27": 109616,
-  "2023-06-28": 109711,
-  "2023-06-29": 109787,
-  "2023-06-30": 109850,
-  "2023-07-01": 109991,
-  "2023-07-02": 109991,
-  "2023-07-03": 110108,
-  "2023-07-04": 110195,
-  "2023-07-05": 110254,
-  "2023-07-06": 110410,
-  "2023-07-07": 110410,
-  "2023-07-08": 110410,
-  "2023-07-09": 110575,
-  "2023-07-10": 110665,
-  "2023-07-11": 110740,
-  "2023-07-12": 110835,
-  "2023-07-13": 110917,
-  "2023-07-14": 111003,
-  "2023-07-15": 111072,
-  "2023-07-16": 111177,
-  "2023-07-17": 111263,
-  "2023-07-18": 111363,
-  "2023-07-19": 111476,
-  "2023-07-20": 111548,
-  "2023-07-21": 111621,
-  "2023-07-22": 111687,
-  "2023-07-23": 111765,
-  "2023-07-24": 111895,
-  "2023-07-25": 111985,
-  "2023-07-26": 112069,
-  "2023-07-27": 112144,
-  "2023-07-28": 112243,
-  "2023-07-29": 112323,
-  "2023-07-30": 112427,
-  "2023-07-31": 112536,
-  "2023-08-01": 114073,
-  "2023-08-02": 114621,
-  "2023-08-03": 115022,
-  "2023-08-04": 115307,
-  "2023-08-05": 115429,
-  "2023-08-06": 115757,
-  "2023-08-07": 115757,
-  "2023-08-08": 115936,
-  "2023-08-09": 116005,
-  "2023-08-10": 116090,
-  "2023-08-11": 116171,
-  "2023-08-12": 116171,
-  "2023-08-13": 116171,
-  "2023-08-14": 116413,
-  "2023-08-15": 116413,
-  "2023-08-16": 116413,
-  "2023-08-17": 116413,
-  "2023-08-18": 116413,
-  "2023-08-19": 116413,
-  "2023-08-20": 116929,
-  "2023-08-21": 116929,
-  "2023-08-22": 117156,
-  "2023-08-23": 117156,
-  "2023-08-24": 117156,
-  "2023-08-25": 117156,
-  "2023-08-26": 117603,
-  "2023-08-27": 117603,
-  "2023-08-28": 117786,
-  "2023-08-29": 117786,
-  "2023-08-30": 117786,
-  "2023-08-31": 118114,
-  "2023-09-01": 118210,
-  "2023-09-02": 118210,
-  "2023-09-03": 118210,
-  "2023-09-04": 118210,
-  "2023-09-05": 118210,
-  "2023-09-06": 118210,
-  "2023-09-07": 118210,
-  "2023-09-08": 118210,
-  "2023-09-09": 118210,
-  "2023-09-10": 118210,
-  "2023-09-11": 118210,
-  "2023-09-12": 118210,
-  "2023-09-13": 118210,
-  "2023-09-14": 118210,
-  "2023-09-15": 118210,
-  "2023-09-16": 120055,
-  "2023-09-17": 120055,
-  "2023-09-18": 120055,
-  "2023-09-19": 120315,
-  "2023-09-20": 120315,
-  "2023-09-21": 120315,
-  "2023-09-22": 120561,
-  "2023-09-23": 120561,
-  "2023-09-24": 120561,
-  "2023-09-25": 120561,
-  "2023-09-26": 120965,
-  "2023-09-27": 120965,
-  "2023-09-28": 120965,
-  "2023-09-29": 120965,
-  "2023-09-30": 120965,
-  "2023-10-01": 120965,
-  "2023-10-02": 120965,
-  "2023-10-03": 120965,
-  "2023-10-04": 120965,
-  "2023-10-05": 120965,
-  "2023-10-06": 120965,
-  "2023-10-07": 120965,
-  "2023-10-08": 120965,
-  "2023-10-09": 120965,
-  "2023-10-10": 120965,
-  "2023-10-11": 122823,
-  "2023-10-12": 122823,
-  "2023-10-13": 122823,
-  "2023-10-14": 122823,
-  "2023-10-15": 122823,
-  "2023-10-16": 122823,
-  "2023-10-17": 122823,
-  "2023-10-18": 122823,
-  "2023-10-19": 122823,
-  "2023-10-20": 122823,
-  "2023-10-21": 122823,
-  "2023-10-22": 122823,
-  "2023-10-23": 122823,
-  "2023-10-24": 122823,
-  "2023-10-25": 122823,
-  "2023-10-26": 122823,
-  "2023-10-27": 122823,
-  "2023-10-28": 122823,
-  "2023-10-29": 122823,
-  "2023-10-30": 122823,
-  "2023-10-31": 122823,
-  "2023-11-01": 122823,
-  "2023-11-02": 122823,
-  "2023-11-03": 122823,
-  "2023-11-04": 122823,
-  "2023-11-05": 122823,
-  "2023-11-06": 122823,
-  "2023-11-07": 122823,
-  "2023-11-08": 122823,
-  "2023-11-09": 122823,
-  "2023-11-10": 122823,
-  "2023-11-11": 126000,
-  "2023-11-12": 126000,
-  "2023-11-13": 126000,
-  "2023-11-14": 126000,
-  "2023-11-15": 126000,
-  "2023-11-16": 126000,
-  "2023-11-17": 126000,
-  "2023-11-18": 126000,
-  "2023-11-19": 126000,
-  "2023-11-20": 126000,
-  "2023-11-21": 126000,
-  "2023-11-22": 126000,
-  "2023-11-23": 126000,
-  "2023-11-24": 126000,
-  "2023-11-25": 126000,
-  "2023-11-26": 126000,
-  "2023-11-27": 126000,
-  "2023-11-28": 126000,
-  "2023-11-29": 126000,
-  "2023-11-30": 126000,
-  "2023-12-01": 126000,
-  "2023-12-02": 126000,
-  "2023-12-03": 126000,
-  "2023-12-04": 126000,
-  "2023-12-05": 126000,
-  "2023-12-06": 126000,
-  "2023-12-07": 126000,
-  "2023-12-08": 126000,
-  "2023-12-09": 126000,
-  "2023-12-10": 126000,
-  "2023-12-11": 126000,
-  "2023-12-12": 126000,
-  "2023-12-13": 126000,
-  "2023-12-14": 129011,
-  "2023-12-15": 129065,
-  "2023-12-16": 129152,
-  "2023-12-17": 129219,
-  "2023-12-18": 129285,
-  "2023-12-19": 129350,
-  "2023-12-20": 129422,
-  "2023-12-21": 129499,
-  "2023-12-22": 129559,
-  "2023-12-23": 129634,
-  "2023-12-24": 129695,
-  "2023-12-25": 129782,
-  "2023-12-26": 129825,
-  "2023-12-27": 129885,
-  "2023-12-30": 130098,
-  "2023-12-31": 130172,
-  "2024-01-01": 130254,
-  "2024-01-02": 130329,
-  "2024-01-03": 130404
+  "2024-01-17": 131628,
+  "date_first_scraped": "2022-09-15",
+  "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
+  "name": "This Is Maverick City Music",
+  "tracks": [
+    {
+      "album": {
+        "name": "Como En El Cielo",
+        "url": "https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Laila Olivera",
+          "url": "https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 474408,
+      "name": "Acercame (feat. Johnny Pe\u00f1a & Laila Olivera)",
+      "url": "https://open.spotify.com/track/4kEF0MXh1BWR0c48T7a9RS"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 471301,
+      "name": "Be Praised (feat. Naomi Raine & Aaron Moses)",
+      "url": "https://open.spotify.com/track/6X8403w0sVBs0Bz5yVnF39"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 519396,
+      "name": "Before and After (feat. Amanda Lindsey Cook)",
+      "url": "https://open.spotify.com/track/1JICbpzjKvImlgKQOu7pf1"
+    },
+    {
+      "album": {
+        "name": "Tribl I",
+        "url": "https://open.spotify.com/album/2uqcxn7xhGvMIx7Kimhmr7"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Tianna",
+          "url": "https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 494862,
+      "name": "Better (feat. Brandon Lake & Tianna)",
+      "url": "https://open.spotify.com/track/1lGDCGKIMrRTSQl8fjtn5l"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5csWtqsTAJhJS8vLLsXiMG"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
+    },
+    {
+      "album": {
+        "name": "Bless Me",
+        "url": "https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o"
+    },
+    {
+      "album": {
+        "name": "Breathe - EP",
+        "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326500,
+      "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
+      "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 551086,
+      "name": "Build Your Church (feat. Naomi Raine & Chris Brown)",
+      "url": "https://open.spotify.com/track/20eBRnBU8rtwt18XtTnOHC"
+    },
+    {
+      "album": {
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "My Mom",
+          "url": "https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231161,
+      "name": "Came Too Far (feat. Maverick City Music & My Mom)",
+      "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
+    },
+    {
+      "album": {
+        "name": "Tribl Nights Anthologies",
+        "url": "https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 522994,
+      "name": "Canvas & Clay (King of My Heart) [feat. DOE & Jonathan Traylor]",
+      "url": "https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4"
+    },
+    {
+      "album": {
+        "name": "You Hold It All Together",
+        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449704,
+      "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400646,
+      "name": "Closer (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/786kFVhHYQ3zIgTHWo6WHQ"
+    },
+    {
+      "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 460255,
+      "name": "Come and Behold (feat. Elyssa Smith)",
+      "url": "https://open.spotify.com/track/2S86PB6hncEjoMLGBYGDbd"
+    },
+    {
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 860000,
+      "name": "Communion (feat. Steffany Gretzinger & Brandon Lake)",
+      "url": "https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo",
+        "url": "https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Amanda Camille",
+          "url": "https://open.spotify.com/artist/6HGQmlvyrjFK2ZWuSK2YIR"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 344015,
+      "name": "Conmigo (feat. Nate Diaz & Amanda Camille)",
+      "url": "https://open.spotify.com/track/6Ikao91sXHsljCRhkSX20j"
+    },
+    {
+      "album": {
+        "name": "Crazy Love (feat. JWLKRS Worship)",
+        "url": "https://open.spotify.com/album/5rrTuiCJK1IozX5qW1Fm22"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "JWLKRS Worship",
+          "url": "https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358151,
+      "name": "Crazy Love (feat. JWLKRS Worship)",
+      "url": "https://open.spotify.com/track/7AboTNWY3jzxA4i5L7FPjf"
+    },
+    {
+      "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 462607,
+      "name": "C\u00f3mo Te Amamos (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/10q6abcYrEB5BBQxN0In72"
+    },
+    {
+      "album": {
+        "name": "Maverick City, Vol. 1",
+        "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Alton Eugene",
+          "url": "https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139593,
+      "name": "Doxology (feat. Alton Eugene)",
+      "url": "https://open.spotify.com/track/1e7vIWOyyck23niJBxhdpa"
+    },
+    {
+      "album": {
+        "name": "Fall On Me (Maverick City Music Version)",
+        "url": "https://open.spotify.com/album/5AXnIJzI8jSbXecVXwJdMP"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Fall On Me (Maverick City Music Version)",
+      "url": "https://open.spotify.com/track/3u17j60STzpuF3nBptem3b"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 625062,
+      "name": "Fear is Not My Future (feat. Brandon Lake & Chandler Moore)",
+      "url": "https://open.spotify.com/track/4t9q80lwmctzfRsJDLQAHg"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625062,
+      "name": "Fear Is Not My Future (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
+    },
+    {
+      "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498332,
+      "name": "For My Good (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 446438,
+      "name": "Fresh Fire (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/5f3WMePgGGeTilkjlzdCIq"
+    },
+    {
+      "album": {
+        "name": "God Problems",
+        "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590857,
+      "name": "God Problems",
+      "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
+    },
+    {
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263833,
+      "name": "God Really Loves Us",
+      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
+    },
+    {
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492415,
+      "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 268865,
+      "name": "God's Got Us (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/5KmQTbZx32wyekcRD0pllw"
+    },
+    {
+      "album": {
+        "name": "Good News (feat. Todd Galberth)",
+        "url": "https://open.spotify.com/album/7wXs3tGbYj2qzaLLT26DgB"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 546799,
+      "name": "Good News (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/5JmHiLoaUWE3kokwxAlCzV"
+    },
+    {
+      "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 546799,
+      "name": "Good News (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/5efXSu72m8RiRsXgvmtpY4"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/4s4I3L3OOyeR5b5Ecmpynm"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
+    },
+    {
+      "album": {
+        "name": "Breathe - EP",
+        "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401983,
+      "name": "Heal Our Land / Come & Move (feat. Joe L Barnes, Maryanne J. George & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/1TVlOcTf8nR0epxgHxaPt3"
+    },
+    {
+      "album": {
+        "name": "Tribl I",
+        "url": "https://open.spotify.com/album/2uqcxn7xhGvMIx7Kimhmr7"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Mariah Adigun",
+          "url": "https://open.spotify.com/artist/5ZnWuXYXeApR3oaGzCOJSt"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 448387,
+      "name": "High Praise (feat. Ryan Ofei, Mariah Adigun)",
+      "url": "https://open.spotify.com/track/7GxBNeX6foHMXfbg2TEidY"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        },
+        {
+          "name": "Alton Eugene",
+          "url": "https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 316142,
+      "name": "Holy Ghost (feat. Bri Babineuax & Alton Eugene)",
+      "url": "https://open.spotify.com/track/7IEKYcNmE949Zrsh2mYNhd"
+    },
+    {
+      "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465744,
+      "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
+      "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
+    },
+    {
+      "album": {
+        "name": "In The Room (feat. Tasha Cobbs Leonard)",
+        "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597481,
+      "name": "In The Room (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 731816,
+      "name": "Isaiah Song (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/5mYA6dUiWYFJGBbyEe5dS4"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598994,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360451,
+      "name": "Jireh (feat. Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/2MYjytJWL1cXiv3jWvCqzZ"
+    },
+    {
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Katie Torwalt",
+          "url": "https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 862146,
+      "name": "Joy of the Lord (feat. Dante Bowe, Naomi Raine, Katie Torwalt & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/1aQ3fg8LGKYAGohdbpnLEs"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 531374,
+      "name": "Jubilee (feat. Naomi Raine & Bryan & Katie Torwalt)",
+      "url": "https://open.spotify.com/track/0DcteHHiSoPSwRqSnxz2p1"
+    },
+    {
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 457326,
+      "name": "Keep Praying (feat. DOE, Ryan Ofei & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/1Cb3Y3sgpFx3nVC2fUKhA5"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565833,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 565833,
+      "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
+      "url": "https://open.spotify.com/track/4UTJRQlIDvePxa6deMMk4j"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 945731,
+      "name": "Lean Back (feat. Amanda Lindsey Cook)",
+      "url": "https://open.spotify.com/track/4EtKV9VxLbL6wgeQjiPm4r"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542193,
+      "name": "Man of Your Word (feat. KJ Scriven)",
+      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 515232,
+      "name": "Mercy (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD"
+    },
+    {
+      "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Melody Adorno",
+          "url": "https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515963,
+      "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
+      "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
+    },
+    {
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375634,
+      "name": "Mighty One (feat. Todd Dulaney, Maryanne J. George & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/1Ige5heWT74ObjEsIwlJCK"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405513,
+      "name": "Million Little Miracles (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "album": {
+        "name": "The Maverick Way - EP",
+        "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 556673,
+      "name": "More Than Able (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
+    },
+    {
+      "album": {
+        "name": "More Than Able (feat. Tasha Cobbs Leonard) [Radio]",
+        "url": "https://open.spotify.com/album/6bNK1Y4vnSCpyrye064PVE"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210724,
+      "name": "More Than Able (feat. Tasha Cobbs Leonard) [Radio]",
+      "url": "https://open.spotify.com/track/1EYoiGnLrqrUysjwGwfwik"
+    },
+    {
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726770,
+      "name": "Most Beautiful / So in Love",
+      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
+    },
+    {
+      "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621222,
+      "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
+      "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 421165,
+      "name": "My Life is in Your Hands (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/73HndhN1se7Bdmwl5o4vVz"
+    },
+    {
+      "album": {
+        "name": "Maverick City, Vol. 1",
+        "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 680029,
+      "name": "My Soul Sings (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/5cc19U5WGGElNUc38XY25r"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420058,
+      "name": "Names (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1"
+    },
+    {
+      "album": {
+        "name": "Tribl Nights Atlanta",
+        "url": "https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 793982,
+      "name": "Never Lost (feat. Joe L Barnes, Lizzie Morgan & Melvin Crispell III)",
+      "url": "https://open.spotify.com/track/0erjjRw2XQti6uQqxMs9n8"
+    },
+    {
+      "album": {
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402803,
+      "name": "Old Church Basement (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Rosie Mac",
+          "url": "https://open.spotify.com/artist/1djtj57J9xN4iKp1f201ws"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255566,
+      "name": "Pull Me Close (feat. Rosie Mac)",
+      "url": "https://open.spotify.com/track/7mQlQBxcTSJITsqcHK3s0n"
+    },
+    {
+      "album": {
+        "name": "Maverick City, Vol. 1",
+        "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 641766,
+      "name": "Real Thing (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/3g4WBq2CluHrcmGSk9RFDn"
+    },
+    {
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
+    },
+    {
+      "album": {
+        "name": "You Hold It All Together",
+        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 578433,
+      "name": "Remember (feat. Dante Bowe & Eniola Abioye)",
+      "url": "https://open.spotify.com/track/7HoKBaEzZTKQYEB75e9lo4"
+    },
+    {
+      "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337152,
+      "name": "Rest on Us (feat. Brandon Lake & Eniola Abioye)",
+      "url": "https://open.spotify.com/track/0A402ZdxwQzaVdyH5Zav5X"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Nate Moore",
+          "url": "https://open.spotify.com/artist/6hxp9zz5Y5d8Htno5hpk66"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 252511,
+      "name": "Ruins (feat. Joe L. Barnes & Nate Moore)",
+      "url": "https://open.spotify.com/track/73C4In4b1ICegtmEJIyymj"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 489781,
+      "name": "Shall Not Want (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/2mA8BJg8PWOJbsyah9MQ8Z"
+    },
+    {
+      "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Laila Olivera",
+          "url": "https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 464553,
+      "name": "Simple Adoraci\u00f3n (feat. Laila Olivera & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/0wYot44AfBl47H4dHb9CIF"
+    },
+    {
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 352518,
+      "name": "Son of Suffering (feat. Jekalyn Carr, Chandler Moore & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/1saGZi3pwWnddLZOV1lRMB"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432294,
+      "name": "Such an Awesome God (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
+    },
+    {
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299509,
+      "name": "Sufficient for Today (feat. Maryanne J. George & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv"
+    },
+    {
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563067,
+      "name": "Take Me Back (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449446,
+      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
+      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 647024,
+      "name": "The One You Love / One Thing Remains (feat. Brandon Lake, Dante Bowe & Chandler Moore)",
+      "url": "https://open.spotify.com/track/0Mqb5jCtcctzWFGAT3jRZY"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435535,
+      "name": "The Story I'll Tell",
+      "url": "https://open.spotify.com/track/5ypaD5LqwkhRKBuIptdkVl"
+    },
+    {
+      "album": {
+        "name": "Venga Tu Reino (Deluxe)",
+        "url": "https://open.spotify.com/album/26W3PMfdqy8gG7Tw9rlozA"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 109672,
+      "name": "Tu Fidelidad (feat. Nate Diaz & Evan Craft)",
+      "url": "https://open.spotify.com/track/6F8ipnqGKidd5pUjpgww7J"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457548,
+      "name": "Used To This (feat. Naomi Raine & Brandon Lake)",
+      "url": "https://open.spotify.com/track/1d7RCdfczxJNVSgXL4Gkil"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564423,
+      "name": "Wait On You (feat. Dante Bowe & Chandler Moore)",
+      "url": "https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy"
+    },
+    {
+      "album": {
+        "name": "You Hold It All Together",
+        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510726,
+      "name": "When I Lock Eyes (feat. Brandon Lake & Elyssa Smith)",
+      "url": "https://open.spotify.com/track/4dzxXnney0FbzFq6Daucsu"
+    },
+    {
+      "album": {
+        "name": "Worthy of My Song (Worthy of It All)",
+        "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506796,
+      "name": "Worthy of My Song (Worthy of It All)",
+      "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513188,
+      "name": "Yes & Amen",
+      "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
+    },
+    {
+      "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469125,
+      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
+    },
+    {
+      "album": {
+        "name": "YET (feat. Ashley Hess & the King will come)",
+        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Ashley Hess",
+          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+        },
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350194,
+      "name": "YET (feat. Ashley Hess & the King will come)",
+      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
+    },
+    {
+      "album": {
+        "name": "You Hold It All Together",
+        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 670829,
+      "name": "You Hold It All Together (feat. Elyssa Smith)",
+      "url": "https://open.spotify.com/track/3BuFDYFrDHMqxtjWB1Fk0G"
+    },
+    {
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Majesty Rose",
+          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 629316,
+      "name": "You Keep on Getting Better (feat. Majesty Rose)",
+      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3186ek"
 }

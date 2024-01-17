@@ -1,289 +1,1443 @@
 {
-  "2023-03-20": 59184,
-  "2023-03-21": 59210,
-  "2023-03-22": 59225,
-  "2023-03-23": 59246,
-  "2023-03-24": 59246,
-  "2023-03-25": 59302,
-  "2023-03-26": 59336,
-  "2023-03-27": 59365,
-  "2023-03-28": 59387,
-  "2023-03-29": 59414,
-  "2023-03-30": 59453,
-  "2023-03-31": 59453,
-  "2023-04-01": 59474,
-  "2023-04-02": 59499,
-  "2023-04-03": 59519,
-  "2023-04-04": 59548,
-  "2023-04-05": 59578,
-  "2023-04-06": 59609,
-  "2023-04-07": 59627,
-  "2023-04-09": 59676,
-  "2023-04-10": 59705,
-  "2023-04-11": 59751,
-  "2023-04-12": 59751,
-  "2023-04-13": 59783,
-  "2023-04-14": 59808,
-  "2023-04-15": 59832,
-  "2023-04-16": 59853,
-  "2023-04-17": 59875,
-  "2023-04-18": 59896,
-  "2023-04-19": 59915,
-  "2023-04-20": 59933,
-  "2023-04-21": 59952,
-  "2023-04-22": 59968,
-  "2023-04-23": 59991,
-  "2023-04-24": 60010,
-  "2023-04-25": 60020,
-  "2023-04-26": 60036,
-  "2023-04-27": 60074,
-  "2023-04-28": 60091,
-  "2023-04-29": 60129,
-  "2023-04-30": 60173,
-  "2023-05-01": 60198,
-  "2023-05-02": 60220,
-  "2023-05-03": 60243,
-  "2023-05-04": 60283,
-  "2023-05-05": 60296,
-  "2023-05-06": 60323,
-  "2023-05-07": 60341,
-  "2023-05-08": 60373,
-  "2023-05-09": 60413,
-  "2023-05-10": 60436,
-  "2023-05-11": 60472,
-  "2023-05-12": 60502,
-  "2023-05-13": 60525,
-  "2023-05-14": 60559,
-  "2023-05-15": 60603,
-  "2023-05-16": 60629,
-  "2023-05-17": 60658,
-  "2023-05-18": 60677,
-  "2023-05-19": 60708,
-  "2023-05-20": 60769,
-  "2023-05-21": 60769,
-  "2023-05-22": 60769,
-  "2023-05-23": 60836,
-  "2023-05-24": 60880,
-  "2023-05-25": 60883,
-  "2023-05-26": 60909,
-  "2023-05-27": 60941,
-  "2023-05-28": 60965,
-  "2023-05-29": 60965,
-  "2023-05-30": 61014,
-  "2023-05-31": 61039,
-  "2023-06-01": 61063,
-  "2023-06-02": 61084,
-  "2023-06-03": 61125,
-  "2023-06-04": 61165,
-  "2023-06-05": 61197,
-  "2023-06-06": 61242,
-  "2023-06-07": 61272,
-  "2023-06-08": 61288,
-  "2023-06-09": 61330,
-  "2023-06-10": 61363,
-  "2023-06-11": 61397,
-  "2023-06-12": 61426,
-  "2023-06-13": 61465,
-  "2023-06-14": 61497,
-  "2023-06-15": 61526,
-  "2023-06-16": 61556,
-  "2023-06-17": 61584,
-  "2023-06-18": 61611,
-  "2023-06-19": 61640,
-  "2023-06-20": 61662,
-  "2023-06-21": 61682,
-  "2023-06-22": 61717,
-  "2023-06-23": 61744,
-  "2023-06-24": 61777,
-  "2023-06-25": 61797,
-  "2023-06-26": 61809,
-  "2023-06-27": 61833,
-  "2023-06-28": 61849,
-  "2023-06-29": 61877,
-  "2023-06-30": 61898,
-  "2023-07-01": 61936,
-  "2023-07-02": 61936,
-  "2023-07-03": 61948,
-  "2023-07-04": 61976,
-  "2023-07-05": 62002,
-  "2023-07-06": 62042,
-  "2023-07-07": 62042,
-  "2023-07-08": 62068,
-  "2023-07-09": 62077,
-  "2023-07-10": 62102,
-  "2023-07-11": 62130,
-  "2023-07-12": 62144,
-  "2023-07-13": 62167,
-  "2023-07-14": 62204,
-  "2023-07-15": 62218,
-  "2023-07-16": 62245,
-  "2023-07-17": 62259,
-  "2023-07-18": 62275,
-  "2023-07-19": 62284,
-  "2023-07-20": 62298,
-  "2023-07-21": 62316,
-  "2023-07-22": 62348,
-  "2023-07-23": 62373,
-  "2023-07-24": 62390,
-  "2023-07-25": 62408,
-  "2023-07-26": 62434,
-  "2023-07-27": 62481,
-  "2023-07-28": 62515,
-  "2023-07-29": 62542,
-  "2023-07-30": 62571,
-  "2023-07-31": 62602,
-  "2023-08-01": 62616,
-  "2023-08-02": 62631,
-  "2023-08-03": 62667,
-  "2023-08-04": 62693,
-  "2023-08-05": 62713,
-  "2023-08-06": 62759,
-  "2023-08-07": 62759,
-  "2023-08-08": 62776,
-  "2023-08-09": 62800,
-  "2023-08-10": 62820,
-  "2023-08-11": 62843,
-  "2023-08-12": 62859,
-  "2023-08-13": 62859,
-  "2023-08-14": 62893,
-  "2023-08-15": 62917,
-  "2023-08-16": 62917,
-  "2023-08-17": 62961,
-  "2023-08-18": 62961,
-  "2023-08-19": 63012,
-  "2023-08-20": 63037,
-  "2023-08-21": 63061,
-  "2023-08-22": 63075,
-  "2023-08-23": 63095,
-  "2023-08-24": 63108,
-  "2023-08-25": 63125,
-  "2023-08-26": 63152,
-  "2023-08-27": 63168,
-  "2023-08-28": 63176,
-  "2023-08-29": 63199,
-  "2023-08-30": 63199,
-  "2023-08-31": 63237,
-  "2023-09-01": 63280,
-  "2023-09-02": 63280,
-  "2023-09-03": 63296,
-  "2023-09-04": 63296,
-  "2023-09-05": 63337,
-  "2023-09-06": 63350,
-  "2023-09-07": 63350,
-  "2023-09-08": 63350,
-  "2023-09-09": 63350,
-  "2023-09-10": 63436,
-  "2023-09-11": 63444,
-  "2023-09-12": 63444,
-  "2023-09-13": 63481,
-  "2023-09-14": 63481,
-  "2023-09-15": 63481,
-  "2023-09-16": 63516,
-  "2023-09-17": 63516,
-  "2023-09-18": 63516,
-  "2023-09-19": 63556,
-  "2023-09-20": 63556,
-  "2023-09-21": 63556,
-  "2023-09-22": 63605,
-  "2023-09-23": 63605,
-  "2023-09-24": 63605,
-  "2023-09-25": 63605,
-  "2023-09-26": 63695,
-  "2023-09-27": 63695,
-  "2023-09-28": 63695,
-  "2023-09-29": 63695,
-  "2023-09-30": 63695,
-  "2023-10-01": 63695,
-  "2023-10-02": 63809,
-  "2023-10-03": 63809,
-  "2023-10-04": 63809,
-  "2023-10-05": 63858,
-  "2023-10-06": 63870,
-  "2023-10-07": 63870,
-  "2023-10-08": 63870,
-  "2023-10-09": 63870,
-  "2023-10-10": 63870,
-  "2023-10-11": 63912,
-  "2023-10-12": 63912,
-  "2023-10-13": 63912,
-  "2023-10-14": 63912,
-  "2023-10-15": 63912,
-  "2023-10-16": 63912,
-  "2023-10-17": 63912,
-  "2023-10-18": 63912,
-  "2023-10-19": 63912,
-  "2023-10-20": 63912,
-  "2023-10-21": 63912,
-  "2023-10-22": 63912,
-  "2023-10-23": 63912,
-  "2023-10-24": 63912,
-  "2023-10-25": 63912,
-  "2023-10-26": 63912,
-  "2023-10-27": 63912,
-  "2023-10-28": 63912,
-  "2023-10-29": 63912,
-  "2023-10-30": 63912,
-  "2023-10-31": 63912,
-  "2023-11-01": 63912,
-  "2023-11-02": 63912,
-  "2023-11-03": 63912,
-  "2023-11-04": 63912,
-  "2023-11-05": 63912,
-  "2023-11-06": 63912,
-  "2023-11-07": 63912,
-  "2023-11-08": 63912,
-  "2023-11-09": 63912,
-  "2023-11-10": 63912,
-  "2023-11-11": 64160,
-  "2023-11-12": 64160,
-  "2023-11-13": 64160,
-  "2023-11-14": 64160,
-  "2023-11-15": 64160,
-  "2023-11-16": 64160,
-  "2023-11-17": 64160,
-  "2023-11-18": 64160,
-  "2023-11-19": 64160,
-  "2023-11-20": 64160,
-  "2023-11-21": 64160,
-  "2023-11-22": 64160,
-  "2023-11-23": 64160,
-  "2023-11-24": 64160,
-  "2023-11-25": 64160,
-  "2023-11-26": 64160,
-  "2023-11-27": 64160,
-  "2023-11-28": 64160,
-  "2023-11-29": 64160,
-  "2023-11-30": 64160,
-  "2023-12-01": 64160,
-  "2023-12-02": 64160,
-  "2023-12-03": 64160,
-  "2023-12-04": 64160,
-  "2023-12-05": 64160,
-  "2023-12-06": 64160,
-  "2023-12-07": 64160,
-  "2023-12-08": 64160,
-  "2023-12-09": 64160,
-  "2023-12-10": 64160,
-  "2023-12-11": 64160,
-  "2023-12-12": 64160,
-  "2023-12-13": 64160,
-  "2023-12-14": 64538,
-  "2023-12-15": 64548,
-  "2023-12-16": 64561,
-  "2023-12-17": 64573,
-  "2023-12-18": 64579,
-  "2023-12-19": 64587,
-  "2023-12-20": 64597,
-  "2023-12-21": 64611,
-  "2023-12-22": 64628,
-  "2023-12-23": 64634,
-  "2023-12-24": 64649,
-  "2023-12-25": 64660,
-  "2023-12-26": 64669,
-  "2023-12-27": 64685,
-  "2023-12-30": 64732,
-  "2023-12-31": 64745,
-  "2024-01-01": 64753,
-  "2024-01-02": 64762,
-  "2024-01-03": 64785
+  "2024-01-17": 64793,
+  "date_first_scraped": "2023-03-20",
+  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
+  "name": "This Is Mike Bah\u00eda",
+  "tracks": [
+    {
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192207,
+      "name": "A D\u00f3nde Te Me Fuiste",
+      "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
+    },
+    {
+      "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/5sAHeZ8Zw6ufw2vC7D6h3f"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 225436,
+      "name": "Alguien Me Dijo",
+      "url": "https://open.spotify.com/track/6aBirvJl4KUjiT4pnEpaHw"
+    },
+    {
+      "album": {
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235424,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Att: Amor",
+      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
+    },
+    {
+      "album": {
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/0FmAqrlA3BYvuFvLuH7ron"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209669,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/2DIhapIzZgaCojayfVUNc7"
+    },
+    {
+      "album": {
+        "name": "BEBE",
+        "url": "https://open.spotify.com/album/3U7vsq3icFfLPkEea20pti"
+      },
+      "artists": [
+        {
+          "name": "XAXO",
+          "url": "https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 200880,
+      "name": "BEBE",
+      "url": "https://open.spotify.com/track/6jhuprDoUF22u8UJLu0qth"
+    },
+    {
+      "album": {
+        "name": "Busc\u00e1ndote",
+        "url": "https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241684,
+      "name": "Busc\u00e1ndote",
+      "url": "https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F"
+    },
+    {
+      "album": {
+        "name": "Colorao",
+        "url": "https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198518,
+      "name": "Colorao",
+      "url": "https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN"
+    },
+    {
+      "album": {
+        "name": "Contigo Hasta El Final",
+        "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
+      },
+      "artists": [
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168720,
+      "name": "Contigo Hasta El Final",
+      "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148723,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"
+    },
+    {
+      "album": {
+        "name": "Cuenta Conmigo (feat. Mozart La Para)",
+        "url": "https://open.spotify.com/album/3kjw0eHhKKug5FEtGjW3BO"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202483,
+      "name": "Cuenta Conmigo (feat. Mozart La Para)",
+      "url": "https://open.spotify.com/track/3KvK89jd2onVdthF4hZNN4"
+    },
+    {
+      "album": {
+        "name": "Darte Amor",
+        "url": "https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W"
+      },
+      "artists": [
+        {
+          "name": "Jordy Jill",
+          "url": "https://open.spotify.com/artist/10IxurTiAiRppIUcayF5iV"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Darte Amor",
+      "url": "https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7"
+    },
+    {
+      "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/503M75Hh6JciFgZ4xi8XTw"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181845,
+      "name": "Detente",
+      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
+    },
+    {
+      "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/5sAHeZ8Zw6ufw2vC7D6h3f"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 181760,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/4iVKMzCR2Hw4vAGGHPicVO"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jame",
+        "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189679,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
+    },
+    {
+      "album": {
+        "name": "El Ego\u00edsmo",
+        "url": "https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Keityn",
+          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 170471,
+      "name": "El Ego\u00edsmo",
+      "url": "https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Keityn",
+          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170471,
+      "name": "El Ego\u00edsmo",
+      "url": "https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 156521,
+      "name": "Enfocado",
+      "url": "https://open.spotify.com/track/0FvENwVY1jcqwyVjM367Mo"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168520,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
+    },
+    {
+      "album": {
+        "name": "Estar Contigo",
+        "url": "https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228832,
+      "name": "Estar Contigo",
+      "url": "https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp"
+    },
+    {
+      "album": {
+        "name": "La Depre",
+        "url": "https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123954,
+      "name": "La Depre",
+      "url": "https://open.spotify.com/track/0YUH9q1hmcW9QbTYWElH6t"
+    },
+    {
+      "album": {
+        "name": "La Falta",
+        "url": "https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188412,
+      "name": "La Falta",
+      "url": "https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197879,
+      "name": "La L\u00e1",
+      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+    },
+    {
+      "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181866,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4"
+    },
+    {
+      "album": {
+        "name": "La Mu\u00f1eca",
+        "url": "https://open.spotify.com/album/5lVyjeKAjzxkyFx8qzXvlJ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "La Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/0MVTiHaxhTTbGriRX148BR"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 166400,
+      "name": "La M\u00eda",
+      "url": "https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr"
+    },
+    {
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192469,
+      "name": "La Rutina",
+      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
+    },
+    {
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70992,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv"
+    },
+    {
+      "album": {
+        "name": "Le Hace Falta Un Beso (feat. Mike Bah\u00eda) [Versi\u00f3n Reggaeton]",
+        "url": "https://open.spotify.com/album/5jdcm1AstweMXm4HoTuVl8"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Le Hace Falta Un Beso (feat. Mike Bah\u00eda) - Versi\u00f3n Reggaeton",
+      "url": "https://open.spotify.com/track/2jec7cCgz0dWzLwJd9jWh2"
+    },
+    {
+      "album": {
+        "name": "Locos Dementes",
+        "url": "https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 215961,
+      "name": "Locos Dementes",
+      "url": "https://open.spotify.com/track/1avccdZyIOpCisznKwu47H"
+    },
+    {
+      "album": {
+        "name": "Desde Mi Ventana",
+        "url": "https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215961,
+      "name": "Locos Dementes",
+      "url": "https://open.spotify.com/track/1sUMlYx18k1f9oIvuNO16B"
+    },
+    {
+      "album": {
+        "name": "Magdalena",
+        "url": "https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198933,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z"
+    },
+    {
+      "album": {
+        "name": "Mi Pecadito",
+        "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197076,
+      "name": "Mi Pecadito",
+      "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
+    },
+    {
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221444,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku"
+    },
+    {
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
+    },
+    {
+      "album": {
+        "name": "Noche en Hawaii",
+        "url": "https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM"
+      },
+      "artists": [
+        {
+          "name": "Bonny Lovy",
+          "url": "https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177156,
+      "name": "Noche en Hawaii",
+      "url": "https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK"
+    },
+    {
+      "album": {
+        "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
+        "url": "https://open.spotify.com/album/55TklthdUXnsj5YtXKV1Od"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201370,
+      "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
+      "url": "https://open.spotify.com/track/19lKEvyLuIQzHlsXVXJSK3"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/60kBowdQcKIoT0A78zclCU"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 195554,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/38SwcrG9RVLlqJPpCgVDuR"
+    },
+    {
+      "album": {
+        "name": "Por Vos",
+        "url": "https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165276,
+      "name": "Por Vos",
+      "url": "https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n Dijo Miedo (Remix)",
+        "url": "https://open.spotify.com/album/6jBso5WvelScOurIlQtQim"
+      },
+      "artists": [
+        {
+          "name": "Sharlene",
+          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Kobi Cantillo",
+          "url": "https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 224786,
+      "name": "Qui\u00e9n Dijo Miedo - Remix",
+      "url": "https://open.spotify.com/track/6OGOo2UGP95Qrp8wMwwp74"
+    },
+    {
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 182222,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date Aqu\u00ed",
+        "url": "https://open.spotify.com/album/49FMV0pdlfmElBcTeGg8UX"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 183092,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/40BHOcBhBU6InTXea4VRAK"
+    },
+    {
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "Ropa Interior (feat. Be\u00e9le)",
+      "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
+    },
+    {
+      "album": {
+        "name": "Sayonara",
+        "url": "https://open.spotify.com/album/39DPMMB7W6CvFTHSXjOBnW"
+      },
+      "artists": [
+        {
+          "name": "Ana Guerra",
+          "url": "https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 197856,
+      "name": "Sayonara",
+      "url": "https://open.spotify.com/track/4AhrJnUccT5G6ZIBslE8E4"
+    },
+    {
+      "album": {
+        "name": "Se Siente Bien",
+        "url": "https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237880,
+      "name": "Se Siente Bien",
+      "url": "https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206967,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Si Dios Fuera Poeta",
+      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
+    },
+    {
+      "album": {
+        "name": "Si Tu Amor No Vuelve",
+        "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
+    },
+    {
+      "album": {
+        "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+        "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182926,
+      "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+      "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
+    },
+    {
+      "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/5sAHeZ8Zw6ufw2vC7D6h3f"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Sola Bonita",
+      "url": "https://open.spotify.com/track/7tCdtaWLd8SJlCq9wsjGVO"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Sufrimos De Lo Mismo",
+      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
+    },
+    {
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/5tkNolbHmwahGRepiHrold"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211330,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC"
+    },
+    {
+      "album": {
+        "name": "Te Besar\u00e9 (Salsa Remix) [feat. Andy Rivera]",
+        "url": "https://open.spotify.com/album/1SXryDEtEfJXfTJGtSBTO9"
+      },
+      "artists": [
+        {
+          "name": "MOLY",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
+      "duration_ms": 226238,
+      "name": "Te Besar\u00e9 (feat. Andy Rivera) - Salsa Remix",
+      "url": "https://open.spotify.com/track/54jGbYt3RqLauOs3L25J8f"
+    },
+    {
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226238,
+      "name": "Te Besar\u00e9 - Salsa Remix",
+      "url": "https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU"
+    },
+    {
+      "album": {
+        "name": "Tu Enemiga",
+        "url": "https://open.spotify.com/album/0uAiQ6Ul6cmEZp0py1AQpD"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206237,
+      "name": "Tu Enemiga",
+      "url": "https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK"
+    },
+    {
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164720,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Tienes Raz\u00f3n - EP",
+        "url": "https://open.spotify.com/album/0C0BMCxF9Xc4Dz5k7cSIWd"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 197013,
+      "name": "T\u00fa Tienes Raz\u00f3n (feat. Mike Bah\u00eda) - Versi\u00f3n Urbana",
+      "url": "https://open.spotify.com/track/22ZDZQspD6nmT9krDjb8zO"
+    },
+    {
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191395,
+      "name": "Vine a Buscarte",
+      "url": "https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs"
+    },
+    {
+      "album": {
+        "name": "Yo Te Quiero M\u00e1s (feat. Mike Bah\u00eda) [Remix]",
+        "url": "https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184828,
+      "name": "Yo Te Quiero M\u00e1s (feat. Mike Bah\u00eda) - Remix",
+      "url": "https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 132112,
+      "name": "\u00bfC\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/39UW0ALFyTXCNpCNxBUdNP"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 138000,
+      "name": "\u00bfQu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/0tzJyFk0VuB3MNW4CinfJW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0M2nrG"
 }

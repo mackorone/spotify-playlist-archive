@@ -4098,7 +4098,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 259875,
       "name": "Ghost Pains",
       "url": "https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr"
@@ -5302,7 +5302,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-13",
       "duration_ms": 210967,
       "name": "Jackal",
       "url": "https://open.spotify.com/track/5jcMCQL05OcFszOrag5En1"
@@ -5870,7 +5870,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 268973,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/0pvwcb7Uu6lVVW6Mq2jfnk"
@@ -8110,6 +8110,24 @@
     {
       "album": {
         "name": "Retrospective: Live From Atlanta (Box Set)",
+        "url": "https://open.spotify.com/album/6nSjuxftoDh07XO5uNNpMg"
+      },
+      "artists": [
+        {
+          "name": "The Contortionist",
+          "url": "https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270273,
+      "name": "Reimagined - Set 1 - Live From Atlanta",
+      "url": "https://open.spotify.com/track/1AozJrg5k08jsn54Watygb"
+    },
+    {
+      "album": {
+        "name": "Retrospective: Live From Atlanta (Box Set)",
         "url": "https://open.spotify.com/album/3uzkgSIJnLReaw1R3zLXSC"
       },
       "artists": [
@@ -10072,7 +10090,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 197134,
       "name": "The Lie",
       "url": "https://open.spotify.com/track/4CJcbhNcSiuRsgbw2bubCB"

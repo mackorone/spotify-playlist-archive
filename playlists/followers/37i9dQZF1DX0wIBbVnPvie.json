@@ -1,175 +1,905 @@
 {
-  "2023-07-13": 50033,
-  "2023-07-14": 55575,
-  "2023-07-15": 58614,
-  "2023-07-16": 63206,
-  "2023-07-17": 65989,
-  "2023-07-18": 68830,
-  "2023-07-19": 72044,
-  "2023-07-20": 79682,
-  "2023-07-21": 95463,
-  "2023-07-22": 172173,
-  "2023-07-23": 255709,
-  "2023-07-24": 332423,
-  "2023-07-25": 370593,
-  "2023-07-26": 399009,
-  "2023-07-27": 484374,
-  "2023-07-28": 531535,
-  "2023-07-29": 635605,
-  "2023-07-30": 674144,
-  "2023-07-31": 700793,
-  "2023-08-01": 721991,
-  "2023-08-02": 739050,
-  "2023-08-03": 754027,
-  "2023-08-04": 767694,
-  "2023-08-05": 781063,
-  "2023-08-06": 806024,
-  "2023-08-07": 806024,
-  "2023-08-08": 815407,
-  "2023-08-09": 823909,
-  "2023-08-10": 831776,
-  "2023-08-11": 838970,
-  "2023-08-12": 845968,
-  "2023-08-13": 852929,
-  "2023-08-14": 858673,
-  "2023-08-15": 867286,
-  "2023-08-16": 867286,
-  "2023-08-17": 870983,
-  "2023-08-18": 874166,
-  "2023-08-19": 877296,
-  "2023-08-20": 882422,
-  "2023-08-21": 886183,
-  "2023-08-22": 889609,
-  "2023-08-23": 892732,
-  "2023-08-24": 895514,
-  "2023-08-25": 898283,
-  "2023-08-26": 900804,
-  "2023-08-27": 903425,
-  "2023-08-28": 906620,
-  "2023-08-29": 908401,
-  "2023-08-30": 909725,
-  "2023-08-31": 911013,
-  "2023-09-01": 913294,
-  "2023-09-02": 913294,
-  "2023-09-03": 914651,
-  "2023-09-04": 915675,
-  "2023-09-05": 916550,
-  "2023-09-06": 917325,
-  "2023-09-07": 918071,
-  "2023-09-08": 918850,
-  "2023-09-09": 919650,
-  "2023-09-10": 920764,
-  "2023-09-11": 921572,
-  "2023-09-12": 922101,
-  "2023-09-13": 922614,
-  "2023-09-14": 923111,
-  "2023-09-15": 923648,
-  "2023-09-16": 924232,
-  "2023-09-17": 925122,
-  "2023-09-18": 925851,
-  "2023-09-19": 926278,
-  "2023-09-20": 926630,
-  "2023-09-21": 927063,
-  "2023-09-22": 927522,
-  "2023-09-23": 928048,
-  "2023-09-24": 928800,
-  "2023-09-25": 929314,
-  "2023-09-26": 929694,
-  "2023-09-27": 929940,
-  "2023-09-28": 930326,
-  "2023-09-29": 930694,
-  "2023-09-30": 931144,
-  "2023-10-01": 931723,
-  "2023-10-02": 932109,
-  "2023-10-03": 932365,
-  "2023-10-04": 932658,
-  "2023-10-05": 932842,
-  "2023-10-06": 933054,
-  "2023-10-07": 933326,
-  "2023-10-08": 933720,
-  "2023-10-09": 933895,
-  "2023-10-10": 933962,
-  "2023-10-11": 934202,
-  "2023-10-12": 934202,
-  "2023-10-13": 934312,
-  "2023-10-14": 934493,
-  "2023-10-15": 934725,
-  "2023-10-16": 934822,
-  "2023-10-17": 934873,
-  "2023-10-18": 934972,
-  "2023-10-19": 935122,
-  "2023-10-20": 935251,
-  "2023-10-21": 935391,
-  "2023-10-22": 935567,
-  "2023-10-23": 935639,
-  "2023-10-24": 935579,
-  "2023-10-25": 935573,
-  "2023-10-26": 935634,
-  "2023-10-27": 935737,
-  "2023-10-28": 935660,
-  "2023-10-29": 935766,
-  "2023-10-30": 935699,
-  "2023-10-31": 935699,
-  "2023-11-01": 935715,
-  "2023-11-02": 935626,
-  "2023-11-03": 935550,
-  "2023-11-04": 935467,
-  "2023-11-05": 935497,
-  "2023-11-06": 935395,
-  "2023-11-07": 935271,
-  "2023-11-08": 935137,
-  "2023-11-09": 935009,
-  "2023-11-10": 934916,
-  "2023-11-11": 934845,
-  "2023-11-12": 934856,
-  "2023-11-13": 934706,
-  "2023-11-14": 934528,
-  "2023-11-15": 934528,
-  "2023-11-16": 934277,
-  "2023-11-17": 933941,
-  "2023-11-18": 933941,
-  "2023-11-19": 933875,
-  "2023-11-20": 933666,
-  "2023-11-21": 933460,
-  "2023-11-22": 933251,
-  "2023-11-23": 933034,
-  "2023-11-24": 932894,
-  "2023-11-25": 932694,
-  "2023-11-26": 932462,
-  "2023-11-27": 932233,
-  "2023-11-28": 931904,
-  "2023-11-29": 930936,
-  "2023-11-30": 930936,
-  "2023-12-01": 930348,
-  "2023-12-02": 929961,
-  "2023-12-03": 929565,
-  "2023-12-04": 929121,
-  "2023-12-05": 928793,
-  "2023-12-06": 928470,
-  "2023-12-07": 928156,
-  "2023-12-08": 927854,
-  "2023-12-09": 927613,
-  "2023-12-10": 927289,
-  "2023-12-11": 926953,
-  "2023-12-12": 926640,
-  "2023-12-13": 926350,
-  "2023-12-14": 926059,
-  "2023-12-15": 925843,
-  "2023-12-16": 925651,
-  "2023-12-17": 925449,
-  "2023-12-18": 925157,
-  "2023-12-19": 924849,
-  "2023-12-20": 924639,
-  "2023-12-21": 924485,
-  "2023-12-22": 924317,
-  "2023-12-23": 924948,
-  "2023-12-24": 924832,
-  "2023-12-25": 924713,
-  "2023-12-26": 924535,
-  "2023-12-27": 924252,
-  "2023-12-30": 923571,
-  "2023-12-31": 923268,
-  "2024-01-01": 923040,
-  "2024-01-02": 922712,
-  "2024-01-03": 922220
+  "2024-01-17": 918180,
+  "date_first_scraped": "2023-07-13",
+  "description": "She's everything. He's just Ken. Listen to the music from and inspired by Barbie, curated by Mark Ronson. ",
+  "name": "Barbie Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "album": {
+        "name": "Angel (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123820,
+      "name": "Angel (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
+    },
+    {
+      "album": {
+        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149438,
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
+    },
+    {
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "album": {
+        "name": "Barbie World (with Aqua) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/23h5e1s4DWuHca1220KdKr"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109750,
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/749HNBEskSdXTKtGYvASFH"
+    },
+    {
+      "album": {
+        "name": "Birds of Prey: The Album",
+        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136200,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/3r6wuvcMPjtIWlYdkpdMPM"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137514,
+      "name": "Choose Your Fighter",
+      "url": "https://open.spotify.com/track/7lcuUkp4LjPflvzPjemDzw"
+    },
+    {
+      "album": {
+        "name": "Indigo Girls (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x"
+      },
+      "artists": [
+        {
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241600,
+      "name": "Closer to Fine",
+      "url": "https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw"
+    },
+    {
+      "album": {
+        "name": "Closer To Fine (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/0xmn6GY7CCPi7qYV0sZJ7p"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Catherine Carlile",
+          "url": "https://open.spotify.com/artist/4xEcoUxmI70KeAP1r1Fvb5"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352687,
+      "name": "Closer To Fine (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1v9iJFBaJCxBCdBNdvXeMd"
+    },
+    {
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139410,
+      "name": "Forever & Again",
+      "url": "https://open.spotify.com/track/2pdbNPIBRuAyspK97Blj0a"
+    },
+    {
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141807,
+      "name": "Hey Blondie",
+      "url": "https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226057,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6Tv4vYGT0mjnqkHdRpyxbg"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8"
+    },
+    {
+      "album": {
+        "name": "A Goofy Movie",
+        "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
+      },
+      "artists": [
+        {
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+        },
+        {
+          "name": "Rosie Gaines",
+          "url": "https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241386,
+      "name": "I2I",
+      "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
+    },
+    {
+      "album": {
+        "name": "Charlie's Angels - Music From the Motion Picture",
+        "url": "https://open.spotify.com/album/3OeMQP4wOCYluTnh8YOJL8"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Independent Women, Pt. 1",
+      "url": "https://open.spotify.com/track/0SARtM2035y7DaoQg2HFl1"
+    },
+    {
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken",
+      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
+    },
+    {
+      "album": {
+        "name": "Ken The EP",
+        "url": "https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196422,
+      "name": "I\u2019m Just Ken - Merry Kristmas Barbie",
+      "url": "https://open.spotify.com/track/0xUZ46LRp05nuTksovv90G"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87827,
+      "name": "Journey To The Real World",
+      "url": "https://open.spotify.com/track/43evTNhnbi70nlOVZ8Q5sK"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3nawsgthTwlZbXoUjcWoaH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241546,
+      "name": "Juice (Know The Ledge)",
+      "url": "https://open.spotify.com/track/4LXsPdBcHAuttD9mKyhA8a"
+    },
+    {
+      "album": {
+        "name": "Barbie (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93894,
+      "name": "Ken Makes a Discovery",
+      "url": "https://open.spotify.com/track/3c2UJ9MmoWR5ofOb8uYqeL"
+    },
+    {
+      "album": {
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264846,
+      "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
+      "url": "https://open.spotify.com/track/7GQqj9jRtDkMp8zByehXQI"
+    },
+    {
+      "album": {
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261893,
+      "name": "Let's Hear It for the Boy - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187764,
+      "name": "Man I Am",
+      "url": "https://open.spotify.com/track/28NzgzNmoHRsFKihGxpmmV"
+    },
+    {
+      "album": {
+        "name": "Barbie (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        },
+        {
+          "name": "Molly Lewis",
+          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142163,
+      "name": "Meeting Ruth",
+      "url": "https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143833,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1"
+    },
+    {
+      "album": {
+        "name": "Pink (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/4Np4Y9DtFQYc3MlgOst3gb"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64009,
+      "name": "Pink (Bad Day) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/5qLX1qtb9lJjblp0Uc6ejF"
+    },
+    {
+      "album": {
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
+    },
+    {
+      "album": {
+        "name": "Push (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/694IwHsLbe9Eu9ANJBbR9w"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203557,
+      "name": "Push (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/3G9Yl95jGxSQHs9VnyBwKF"
+    },
+    {
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165670,
+      "name": "Silver Platter",
+      "url": "https://open.spotify.com/track/6QS24xFgmG0XPxsmFhGTYS"
+    },
+    {
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
+    },
+    {
+      "album": {
+        "name": "Barbie (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107445,
+      "name": "Stairway to Weird Barbie",
+      "url": "https://open.spotify.com/track/4BkEbxPB39DPn7Wrrb90MT"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/2xSXw1EqGSAKc1e4TPaQvV"
+    },
+    {
+      "album": {
+        "name": "Running Scared Original Soundtrack",
+        "url": "https://open.spotify.com/album/0jpBkCsQky21f4HOrDse6R"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459906,
+      "name": "Sweet Freedom",
+      "url": "https://open.spotify.com/track/4ZsYF5rjUXIwds6KNimPRo"
+    },
+    {
+      "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+      "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+    },
+    {
+      "album": {
+        "name": "Romeo Must Die (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5PdccyECX3DIvmmdQY7FKT"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285466,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/4FJo9f5wGYnRD6VFjwVGcB"
+    },
+    {
+      "album": {
+        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166882,
+      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "Xanadu",
+        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208506,
+      "name": "Xanadu",
+      "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
+    },
+    {
+      "album": {
+        "name": "Barbie (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217788,
+      "name": "You Failed Me!",
+      "url": "https://open.spotify.com/track/3T4d38TxiVSAD5EmLEqTte"
+    },
+    {
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "You're The One That I Want - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0wIBbVnPvie"
 }

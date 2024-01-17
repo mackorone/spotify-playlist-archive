@@ -1,433 +1,1233 @@
 {
-  "2022-10-26": 27269,
-  "2022-10-27": 27295,
-  "2022-10-28": 27317,
-  "2022-10-29": 27337,
-  "2022-10-30": 27358,
-  "2022-10-31": 27373,
-  "2022-11-01": 27386,
-  "2022-11-02": 27405,
-  "2022-11-03": 27419,
-  "2022-11-04": 27432,
-  "2022-11-05": 27451,
-  "2022-11-06": 27463,
-  "2022-11-07": 27474,
-  "2022-11-08": 27493,
-  "2022-11-09": 27510,
-  "2022-11-10": 27517,
-  "2022-11-11": 27531,
-  "2022-11-12": 27550,
-  "2022-11-13": 27565,
-  "2022-11-14": 27570,
-  "2022-11-15": 27581,
-  "2022-11-16": 27599,
-  "2022-11-17": 27617,
-  "2022-11-18": 27623,
-  "2022-11-19": 27626,
-  "2022-11-20": 27654,
-  "2022-11-21": 27666,
-  "2022-11-22": 27685,
-  "2022-11-23": 27698,
-  "2022-11-24": 27740,
-  "2022-11-25": 27770,
-  "2022-11-26": 27789,
-  "2022-11-27": 27799,
-  "2022-11-28": 27822,
-  "2022-11-29": 27833,
-  "2022-11-30": 27846,
-  "2022-12-01": 27864,
-  "2022-12-02": 27873,
-  "2022-12-03": 27894,
-  "2022-12-04": 27900,
-  "2022-12-05": 27911,
-  "2022-12-06": 27917,
-  "2022-12-07": 27931,
-  "2022-12-08": 27935,
-  "2022-12-09": 27946,
-  "2022-12-10": 27962,
-  "2022-12-11": 27969,
-  "2022-12-12": 27975,
-  "2022-12-13": 27985,
-  "2022-12-14": 27995,
-  "2022-12-15": 28014,
-  "2022-12-16": 28021,
-  "2022-12-17": 28036,
-  "2022-12-18": 28043,
-  "2022-12-19": 28057,
-  "2022-12-20": 28079,
-  "2022-12-21": 28079,
-  "2022-12-22": 28092,
-  "2022-12-24": 28112,
-  "2022-12-25": 28122,
-  "2022-12-26": 28128,
-  "2022-12-27": 28132,
-  "2022-12-28": 28142,
-  "2022-12-29": 28147,
-  "2022-12-30": 28156,
-  "2022-12-31": 28161,
-  "2023-01-01": 28172,
-  "2023-01-02": 28183,
-  "2023-01-03": 28191,
-  "2023-01-04": 28198,
-  "2023-01-05": 28205,
-  "2023-01-06": 28215,
-  "2023-01-07": 28232,
-  "2023-01-08": 28233,
-  "2023-01-09": 28248,
-  "2023-01-10": 28265,
-  "2023-01-11": 28271,
-  "2023-01-12": 28283,
-  "2023-01-13": 28293,
-  "2023-01-14": 28316,
-  "2023-01-15": 28317,
-  "2023-01-16": 28341,
-  "2023-01-17": 28353,
-  "2023-01-18": 28364,
-  "2023-01-19": 28378,
-  "2023-01-20": 28393,
-  "2023-01-21": 28405,
-  "2023-01-22": 28417,
-  "2023-01-23": 28420,
-  "2023-01-24": 28432,
-  "2023-01-25": 28442,
-  "2023-01-26": 28457,
-  "2023-01-27": 28468,
-  "2023-01-28": 28488,
-  "2023-01-29": 28503,
-  "2023-01-30": 28514,
-  "2023-01-31": 28514,
-  "2023-02-01": 28539,
-  "2023-02-02": 28548,
-  "2023-02-03": 28555,
-  "2023-02-04": 28574,
-  "2023-02-05": 28597,
-  "2023-02-06": 28604,
-  "2023-02-07": 28607,
-  "2023-02-08": 28628,
-  "2023-02-09": 28628,
-  "2023-02-10": 28643,
-  "2023-02-11": 28656,
-  "2023-02-12": 28670,
-  "2023-02-13": 28678,
-  "2023-02-14": 28678,
-  "2023-02-15": 28697,
-  "2023-02-16": 28711,
-  "2023-02-17": 28715,
-  "2023-02-18": 28743,
-  "2023-02-19": 28747,
-  "2023-02-20": 28752,
-  "2023-02-21": 28772,
-  "2023-02-22": 28784,
-  "2023-02-23": 28802,
-  "2023-02-24": 28812,
-  "2023-02-25": 28831,
-  "2023-02-26": 28839,
-  "2023-02-27": 28863,
-  "2023-02-28": 28863,
-  "2023-03-01": 28881,
-  "2023-03-02": 28888,
-  "2023-03-03": 28896,
-  "2023-03-04": 28914,
-  "2023-03-05": 28928,
-  "2023-03-06": 28928,
-  "2023-03-07": 28933,
-  "2023-03-08": 28951,
-  "2023-03-09": 28974,
-  "2023-03-10": 28987,
-  "2023-03-11": 29004,
-  "2023-03-12": 29020,
-  "2023-03-13": 29043,
-  "2023-03-14": 29060,
-  "2023-03-15": 29072,
-  "2023-03-16": 29086,
-  "2023-03-17": 29086,
-  "2023-03-18": 29118,
-  "2023-03-19": 29133,
-  "2023-03-20": 29140,
-  "2023-03-21": 29151,
-  "2023-03-22": 29162,
-  "2023-03-23": 29175,
-  "2023-03-24": 29175,
-  "2023-03-25": 29210,
-  "2023-03-26": 29225,
-  "2023-03-27": 29236,
-  "2023-03-28": 29248,
-  "2023-03-29": 29264,
-  "2023-03-30": 29291,
-  "2023-03-31": 29291,
-  "2023-04-01": 29305,
-  "2023-04-02": 29318,
-  "2023-04-03": 29330,
-  "2023-04-04": 29342,
-  "2023-04-05": 29344,
-  "2023-04-06": 29357,
-  "2023-04-07": 29370,
-  "2023-04-09": 29388,
-  "2023-04-10": 29401,
-  "2023-04-11": 29418,
-  "2023-04-12": 29418,
-  "2023-04-13": 29430,
-  "2023-04-14": 29439,
-  "2023-04-15": 29456,
-  "2023-04-16": 29467,
-  "2023-04-17": 29475,
-  "2023-04-18": 29472,
-  "2023-04-19": 29483,
-  "2023-04-20": 29488,
-  "2023-04-21": 29496,
-  "2023-04-22": 29514,
-  "2023-04-23": 29527,
-  "2023-04-24": 29539,
-  "2023-04-25": 29549,
-  "2023-04-26": 29558,
-  "2023-04-27": 29568,
-  "2023-04-28": 29576,
-  "2023-04-29": 29587,
-  "2023-04-30": 29599,
-  "2023-05-01": 29605,
-  "2023-05-02": 29616,
-  "2023-05-03": 29631,
-  "2023-05-04": 29636,
-  "2023-05-05": 29647,
-  "2023-05-06": 29656,
-  "2023-05-07": 29665,
-  "2023-05-08": 29673,
-  "2023-05-09": 29683,
-  "2023-05-10": 29694,
-  "2023-05-11": 29705,
-  "2023-05-12": 29718,
-  "2023-05-13": 29721,
-  "2023-05-14": 29727,
-  "2023-05-15": 29743,
-  "2023-05-16": 29747,
-  "2023-05-17": 29765,
-  "2023-05-18": 29769,
-  "2023-05-19": 29779,
-  "2023-05-20": 29802,
-  "2023-05-21": 29802,
-  "2023-05-22": 29802,
-  "2023-05-23": 29822,
-  "2023-05-24": 29831,
-  "2023-05-25": 29833,
-  "2023-05-26": 29846,
-  "2023-05-27": 29860,
-  "2023-05-28": 29875,
-  "2023-05-29": 29875,
-  "2023-05-30": 29895,
-  "2023-05-31": 29900,
-  "2023-06-01": 29909,
-  "2023-06-02": 29926,
-  "2023-06-03": 29939,
-  "2023-06-04": 29950,
-  "2023-06-05": 29960,
-  "2023-06-06": 29970,
-  "2023-06-07": 29983,
-  "2023-06-08": 29994,
-  "2023-06-09": 30007,
-  "2023-06-10": 30022,
-  "2023-06-11": 30034,
-  "2023-06-12": 30044,
-  "2023-06-13": 30058,
-  "2023-06-14": 30058,
-  "2023-06-15": 30098,
-  "2023-06-16": 30108,
-  "2023-06-17": 30123,
-  "2023-06-18": 30145,
-  "2023-06-19": 30157,
-  "2023-06-20": 30162,
-  "2023-06-21": 30172,
-  "2023-06-22": 30187,
-  "2023-06-23": 30194,
-  "2023-06-24": 30206,
-  "2023-06-25": 30218,
-  "2023-06-26": 30229,
-  "2023-06-27": 30240,
-  "2023-06-28": 30258,
-  "2023-06-29": 30268,
-  "2023-06-30": 30282,
-  "2023-07-01": 30302,
-  "2023-07-02": 30302,
-  "2023-07-03": 30310,
-  "2023-07-04": 30327,
-  "2023-07-05": 30339,
-  "2023-07-06": 30361,
-  "2023-07-07": 30361,
-  "2023-07-08": 30374,
-  "2023-07-09": 30378,
-  "2023-07-10": 30388,
-  "2023-07-11": 30391,
-  "2023-07-12": 30398,
-  "2023-07-13": 30408,
-  "2023-07-14": 30422,
-  "2023-07-15": 30432,
-  "2023-07-16": 30443,
-  "2023-07-17": 30453,
-  "2023-07-18": 30470,
-  "2023-07-19": 30492,
-  "2023-07-20": 30508,
-  "2023-07-21": 30522,
-  "2023-07-22": 30539,
-  "2023-07-23": 30548,
-  "2023-07-24": 30554,
-  "2023-07-25": 30575,
-  "2023-07-26": 30586,
-  "2023-07-27": 30599,
-  "2023-07-28": 30614,
-  "2023-07-29": 30627,
-  "2023-07-30": 30629,
-  "2023-07-31": 30636,
-  "2023-08-01": 30647,
-  "2023-08-02": 30654,
-  "2023-08-03": 30672,
-  "2023-08-04": 30682,
-  "2023-08-05": 30695,
-  "2023-08-06": 30704,
-  "2023-08-07": 30704,
-  "2023-08-08": 30723,
-  "2023-08-09": 30730,
-  "2023-08-10": 30747,
-  "2023-08-11": 30761,
-  "2023-08-12": 30767,
-  "2023-08-13": 30767,
-  "2023-08-14": 30774,
-  "2023-08-15": 30786,
-  "2023-08-16": 30786,
-  "2023-08-17": 30805,
-  "2023-08-18": 30825,
-  "2023-08-19": 30834,
-  "2023-08-20": 30844,
-  "2023-08-21": 30854,
-  "2023-08-22": 30855,
-  "2023-08-23": 30871,
-  "2023-08-24": 30880,
-  "2023-08-25": 30893,
-  "2023-08-26": 30903,
-  "2023-08-27": 30908,
-  "2023-08-28": 30918,
-  "2023-08-29": 30925,
-  "2023-08-30": 30925,
-  "2023-08-31": 30948,
-  "2023-09-01": 30966,
-  "2023-09-02": 30966,
-  "2023-09-03": 30976,
-  "2023-09-04": 30976,
-  "2023-09-05": 30991,
-  "2023-09-06": 31002,
-  "2023-09-07": 31002,
-  "2023-09-08": 31002,
-  "2023-09-09": 31002,
-  "2023-09-10": 31039,
-  "2023-09-11": 31049,
-  "2023-09-12": 31049,
-  "2023-09-13": 31081,
-  "2023-09-14": 31081,
-  "2023-09-15": 31081,
-  "2023-09-16": 31121,
-  "2023-09-17": 31121,
-  "2023-09-18": 31121,
-  "2023-09-19": 31155,
-  "2023-09-20": 31155,
-  "2023-09-21": 31155,
-  "2023-09-22": 31188,
-  "2023-09-23": 31188,
-  "2023-09-24": 31188,
-  "2023-09-25": 31188,
-  "2023-09-26": 31236,
-  "2023-09-27": 31236,
-  "2023-09-28": 31236,
-  "2023-09-29": 31236,
-  "2023-09-30": 31236,
-  "2023-10-01": 31236,
-  "2023-10-02": 31298,
-  "2023-10-03": 31298,
-  "2023-10-04": 31298,
-  "2023-10-05": 31339,
-  "2023-10-06": 31356,
-  "2023-10-07": 31356,
-  "2023-10-08": 31356,
-  "2023-10-09": 31356,
-  "2023-10-10": 31356,
-  "2023-10-11": 31421,
-  "2023-10-12": 31421,
-  "2023-10-13": 31421,
-  "2023-10-14": 31421,
-  "2023-10-15": 31421,
-  "2023-10-16": 31421,
-  "2023-10-17": 31421,
-  "2023-10-18": 31421,
-  "2023-10-19": 31421,
-  "2023-10-20": 31421,
-  "2023-10-21": 31421,
-  "2023-10-22": 31421,
-  "2023-10-23": 31421,
-  "2023-10-24": 31421,
-  "2023-10-25": 31421,
-  "2023-10-26": 31421,
-  "2023-10-27": 31421,
-  "2023-10-28": 31421,
-  "2023-10-29": 31421,
-  "2023-10-30": 31421,
-  "2023-10-31": 31421,
-  "2023-11-01": 31421,
-  "2023-11-02": 31421,
-  "2023-11-03": 31421,
-  "2023-11-04": 31421,
-  "2023-11-05": 31421,
-  "2023-11-06": 31421,
-  "2023-11-07": 31421,
-  "2023-11-08": 31421,
-  "2023-11-09": 31421,
-  "2023-11-10": 31421,
-  "2023-11-11": 31720,
-  "2023-11-12": 31720,
-  "2023-11-13": 31720,
-  "2023-11-14": 31720,
-  "2023-11-15": 31720,
-  "2023-11-16": 31720,
-  "2023-11-17": 31720,
-  "2023-11-18": 31720,
-  "2023-11-19": 31720,
-  "2023-11-20": 31720,
-  "2023-11-21": 31720,
-  "2023-11-22": 31720,
-  "2023-11-23": 31720,
-  "2023-11-24": 31720,
-  "2023-11-25": 31720,
-  "2023-11-26": 31720,
-  "2023-11-27": 31720,
-  "2023-11-28": 31720,
-  "2023-11-29": 31720,
-  "2023-11-30": 31720,
-  "2023-12-01": 31720,
-  "2023-12-02": 31720,
-  "2023-12-03": 31720,
-  "2023-12-04": 31720,
-  "2023-12-05": 31720,
-  "2023-12-06": 31720,
-  "2023-12-07": 31720,
-  "2023-12-08": 31720,
-  "2023-12-09": 31720,
-  "2023-12-10": 31720,
-  "2023-12-11": 31720,
-  "2023-12-12": 31720,
-  "2023-12-13": 31720,
-  "2023-12-14": 31967,
-  "2023-12-15": 31970,
-  "2023-12-16": 31977,
-  "2023-12-17": 31988,
-  "2023-12-18": 31996,
-  "2023-12-19": 31999,
-  "2023-12-20": 32008,
-  "2023-12-21": 32015,
-  "2023-12-22": 32020,
-  "2023-12-23": 32035,
-  "2023-12-24": 32037,
-  "2023-12-25": 32040,
-  "2023-12-26": 32043,
-  "2023-12-27": 32046,
-  "2023-12-30": 32063,
-  "2023-12-31": 32073,
-  "2024-01-01": 32074,
-  "2024-01-02": 32073,
-  "2024-01-03": 32082
+  "2024-01-17": 32145,
+  "date_first_scraped": "2022-10-26",
+  "description": "This is AFI. The essential tracks, all in one playlist.",
+  "name": "This Is AFI",
+  "tracks": [
+    {
+      "album": {
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177373,
+      "name": "17 Crimes",
+      "url": "https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw"
+    },
+    {
+      "album": {
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "A Deep Slow Panic",
+      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
+    },
+    {
+      "album": {
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "A Single Second",
+      "url": "https://open.spotify.com/track/3kAxXpkSl233HRCa5V8OGr"
+    },
+    {
+      "album": {
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Aurelia",
+      "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
+    },
+    {
+      "album": {
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226026,
+      "name": "Beautiful Thieves",
+      "url": "https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/5JdWKsA1x4DOpn8w25vJHg"
+    },
+    {
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254680,
+      "name": "Bleed Black",
+      "url": "https://open.spotify.com/track/2d7D8CladbfO6SOTcTLTXN"
+    },
+    {
+      "album": {
+        "name": "Caught",
+        "url": "https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 251334,
+      "name": "Caught",
+      "url": "https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1"
+    },
+    {
+      "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 76360,
+      "name": "Cereal Wars",
+      "url": "https://open.spotify.com/track/3fapJxj4535xGdH5pVzA2w"
+    },
+    {
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 117960,
+      "name": "Cult Status",
+      "url": "https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY"
+    },
+    {
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Dancing Through Sunday",
+      "url": "https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 293174,
+      "name": "Dulcer\u00eda",
+      "url": "https://open.spotify.com/track/146C9OBVvmmRUVLPA6O8k8"
+    },
+    {
+      "album": {
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226173,
+      "name": "End Transmission",
+      "url": "https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204963,
+      "name": "Escape From Los Angeles",
+      "url": "https://open.spotify.com/track/5r46wLYpaQIwEHoS4cbdBC"
+    },
+    {
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "Ever And A Day",
+      "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
+    },
+    {
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168573,
+      "name": "Exsanguination",
+      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
+    },
+    {
+      "album": {
+        "name": "All Hallows EP",
+        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192626,
+      "name": "Fall Children",
+      "url": "https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168574,
+      "name": "Far Too Near",
+      "url": "https://open.spotify.com/track/6AW7A6Z0HPhR5aO6k0zvtz"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 168574,
+      "name": "Far Too Near",
+      "url": "https://open.spotify.com/track/6MrpnM2VIpyjPQdnqItSYe"
+    },
+    {
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108773,
+      "name": "File 13",
+      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
+    },
+    {
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+    },
+    {
+      "album": {
+        "name": "AFI",
+        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "God Called In Sick Today",
+      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
+    },
+    {
+      "album": {
+        "name": "All Hallows EP",
+        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 238106,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/5YzAjvec8mCjm2bGppn8Oz"
+    },
+    {
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110733,
+      "name": "He Who Laughs Last...",
+      "url": "https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr"
+    },
+    {
+      "album": {
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 176386,
+      "name": "Hidden Knives",
+      "url": "https://open.spotify.com/track/01qfmGPqmz2nWuM22YxdC5"
+    },
+    {
+      "album": {
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277840,
+      "name": "I Hope You Suffer",
+      "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
+    },
+    {
+      "album": {
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/73h2unQGoSEL75TlZVl7Pb"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 277840,
+      "name": "I Hope You Suffer",
+      "url": "https://open.spotify.com/track/7AX7C2oJrN1ZLkLyBlofz1"
+    },
+    {
+      "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72560,
+      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
+      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
+    },
+    {
+      "album": {
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58026,
+      "name": "Keeping Out Of Direct Sunlight (An Introduction)",
+      "url": "https://open.spotify.com/track/3BCOkZIixxoz478EDfVr1Z"
+    },
+    {
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159613,
+      "name": "Kill Caustic",
+      "url": "https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 157894,
+      "name": "Looking Tragic",
+      "url": "https://open.spotify.com/track/0IgDRS7Sop5ClSYNFMTUSy"
+    },
+    {
+      "album": {
+        "name": "Looking Tragic / Begging For Trouble",
+        "url": "https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 157894,
+      "name": "Looking Tragic",
+      "url": "https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg"
+    },
+    {
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165653,
+      "name": "Love Like Winter",
+      "url": "https://open.spotify.com/track/3cDE9Yn4GrsxSrlMCLdmTT"
+    },
+    {
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241720,
+      "name": "Malleus Maleficarum",
+      "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
+    },
+    {
+      "album": {
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260760,
+      "name": "Medicate",
+      "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
+    },
+    {
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 176506,
+      "name": "Miseria Cantare - The Beginning",
+      "url": "https://open.spotify.com/track/5unomAZop0VloK8vwwuPpi"
+    },
+    {
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "Miss Murder",
+      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149906,
+      "name": "Narrative Of Soul Against Soul",
+      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 140199,
+      "name": "On Your Back",
+      "url": "https://open.spotify.com/track/0uwDEG8QrLC9jN9okXGLJx"
+    },
+    {
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118800,
+      "name": "Perfect Fit",
+      "url": "https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB"
+    },
+    {
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127133,
+      "name": "Porphyria",
+      "url": "https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg"
+    },
+    {
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94466,
+      "name": "Prelude 12/21",
+      "url": "https://open.spotify.com/track/6hxa24dKfCoe1EA6g0RHNw"
+    },
+    {
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118866,
+      "name": "Sacrifice Theory",
+      "url": "https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP"
+    },
+    {
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250706,
+      "name": "Silver And Cold",
+      "url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg"
+    },
+    {
+      "album": {
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "Snow Cats",
+      "url": "https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5"
+    },
+    {
+      "album": {
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Still A Stranger",
+      "url": "https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE"
+    },
+    {
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93426,
+      "name": "Strength Through Wounding",
+      "url": "https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65"
+    },
+    {
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "Summer Shudder",
+      "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk"
+    },
+    {
+      "album": {
+        "name": "All Hallows EP",
+        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "The Boy Who Destroyed The World",
+      "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
+    },
+    {
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207693,
+      "name": "The Days Of The Phoenix",
+      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
+    },
+    {
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 256800,
+      "name": "The Interview",
+      "url": "https://open.spotify.com/track/0uCy3G3G6zUxZS0z74Y3UB"
+    },
+    {
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243920,
+      "name": "The Killing Lights",
+      "url": "https://open.spotify.com/track/5ThgOYuTH92cHr32utoGyN"
+    },
+    {
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+    },
+    {
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211040,
+      "name": "The Leaving Song Pt. II",
+      "url": "https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb"
+    },
+    {
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162573,
+      "name": "The Lost Souls",
+      "url": "https://open.spotify.com/track/2yQkmsZyxw99iNzgbbkuOn"
+    },
+    {
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "The Nephilim",
+      "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
+    },
+    {
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 207786,
+      "name": "The Prayer Position",
+      "url": "https://open.spotify.com/track/6DxOjwql8bm5hGn7WtRnS8"
+    },
+    {
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250360,
+      "name": "This Celluloid Dream",
+      "url": "https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v"
+    },
+    {
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140240,
+      "name": "This Secret Ninja",
+      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
+    },
+    {
+      "album": {
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Too Shy To Scream",
+      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
+    },
+    {
+      "album": {
+        "name": "AFI",
+        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164360,
+      "name": "Totalimmortal",
+      "url": "https://open.spotify.com/track/3pbQW2s8n2KysT7SBIvRdc"
+    },
+    {
+      "album": {
+        "name": "Trash Bat",
+        "url": "https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127625,
+      "name": "Trash Bat",
+      "url": "https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz"
+    },
+    {
+      "album": {
+        "name": "The Missing Man",
+        "url": "https://open.spotify.com/album/6vvN8noC5dToR8W9WZPyRO"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 127625,
+      "name": "Trash Bat",
+      "url": "https://open.spotify.com/track/77S5QQdlLJmr3HT8gMuWS9"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 241856,
+      "name": "Twisted Tongues",
+      "url": "https://open.spotify.com/track/5x1Shc6k7r3hBYyjNaaddy"
+    },
+    {
+      "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89666,
+      "name": "Two Of A Kind",
+      "url": "https://open.spotify.com/track/2dHVJ38uK5AmAyl06MSBx6"
+    },
+    {
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102600,
+      "name": "Wake-Up Call",
+      "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
+    },
+    {
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "Wester",
+      "url": "https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CFC9y"
 }

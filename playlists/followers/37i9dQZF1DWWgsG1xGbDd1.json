@@ -1,731 +1,1971 @@
 {
-  "2021-12-29": 64587,
-  "2021-12-30": 64656,
-  "2021-12-31": 64738,
-  "2022-01-01": 64916,
-  "2022-01-02": 64947,
-  "2022-01-03": 65018,
-  "2022-01-04": 65119,
-  "2022-01-05": 65224,
-  "2022-01-06": 65317,
-  "2022-01-07": 65395,
-  "2022-01-08": 65556,
-  "2022-01-09": 65556,
-  "2022-01-10": 65661,
-  "2022-01-11": 65727,
-  "2022-01-12": 65804,
-  "2022-01-13": 65896,
-  "2022-01-14": 65968,
-  "2022-01-15": 66130,
-  "2022-01-16": 66138,
-  "2022-01-17": 66314,
-  "2022-01-18": 66321,
-  "2022-01-19": 66393,
-  "2022-01-20": 66466,
-  "2022-01-21": 66545,
-  "2022-01-22": 66646,
-  "2022-01-23": 66729,
-  "2022-01-24": 66830,
-  "2022-01-25": 66897,
-  "2022-01-26": 66984,
-  "2022-01-27": 67058,
-  "2022-01-28": 67141,
-  "2022-01-29": 67231,
-  "2022-01-30": 67325,
-  "2022-01-31": 67429,
-  "2022-02-01": 67495,
-  "2022-02-02": 67574,
-  "2022-02-03": 67644,
-  "2022-02-04": 67719,
-  "2022-02-05": 67821,
-  "2022-02-06": 67927,
-  "2022-02-07": 68012,
-  "2022-02-08": 68082,
-  "2022-02-09": 68173,
-  "2022-02-10": 68276,
-  "2022-02-11": 68362,
-  "2022-02-12": 68434,
-  "2022-02-13": 68543,
-  "2022-02-14": 68631,
-  "2022-02-15": 68711,
-  "2022-02-16": 68779,
-  "2022-02-17": 68877,
-  "2022-02-18": 68963,
-  "2022-02-19": 69042,
-  "2022-02-20": 69147,
-  "2022-02-21": 69232,
-  "2022-02-22": 69292,
-  "2022-02-23": 69376,
-  "2022-02-24": 69469,
-  "2022-02-25": 69543,
-  "2022-02-26": 69632,
-  "2022-02-27": 69797,
-  "2022-02-28": 69797,
-  "2022-03-01": 69881,
-  "2022-03-02": 69956,
-  "2022-03-03": 70028,
-  "2022-03-04": 70111,
-  "2022-03-05": 70195,
-  "2022-03-06": 70278,
-  "2022-03-07": 70379,
-  "2022-03-08": 70452,
-  "2022-03-09": 70517,
-  "2022-03-10": 70604,
-  "2022-03-11": 70668,
-  "2022-03-12": 70755,
-  "2022-03-13": 70837,
-  "2022-03-14": 70921,
-  "2022-03-15": 70986,
-  "2022-03-16": 71053,
-  "2022-03-17": 71131,
-  "2022-03-18": 71212,
-  "2022-03-19": 71258,
-  "2022-03-20": 71258,
-  "2022-03-21": 71449,
-  "2022-03-22": 71497,
-  "2022-03-23": 71575,
-  "2022-03-24": 71658,
-  "2022-03-25": 71743,
-  "2022-03-26": 71819,
-  "2022-03-27": 71908,
-  "2022-03-28": 71997,
-  "2022-03-30": 72129,
-  "2022-03-31": 72197,
-  "2022-04-01": 72274,
-  "2022-04-02": 72355,
-  "2022-04-03": 72434,
-  "2022-04-04": 72534,
-  "2022-04-05": 72612,
-  "2022-04-06": 72697,
-  "2022-04-07": 72789,
-  "2022-04-08": 72871,
-  "2022-04-09": 72966,
-  "2022-04-10": 73169,
-  "2022-04-11": 73263,
-  "2022-04-12": 73274,
-  "2022-04-13": 73365,
-  "2022-04-14": 73470,
-  "2022-04-15": 73587,
-  "2022-04-16": 73667,
-  "2022-04-17": 73778,
-  "2022-04-18": 73901,
-  "2022-04-19": 73984,
-  "2022-04-20": 74057,
-  "2022-04-21": 74173,
-  "2022-04-22": 74282,
-  "2022-04-23": 74383,
-  "2022-04-24": 74475,
-  "2022-04-25": 74592,
-  "2022-04-26": 74711,
-  "2022-04-27": 74788,
-  "2022-04-28": 74870,
-  "2022-04-29": 75025,
-  "2022-04-30": 75139,
-  "2022-05-01": 75271,
-  "2022-05-02": 75271,
-  "2022-05-03": 75379,
-  "2022-05-04": 75469,
-  "2022-05-05": 75542,
-  "2022-05-06": 75635,
-  "2022-05-07": 75734,
-  "2022-05-08": 75882,
-  "2022-05-09": 75892,
-  "2022-05-10": 75977,
-  "2022-05-11": 76042,
-  "2022-05-12": 76122,
-  "2022-05-13": 76192,
-  "2022-05-14": 76284,
-  "2022-05-15": 76383,
-  "2022-05-16": 76461,
-  "2022-05-17": 76530,
-  "2022-05-18": 76619,
-  "2022-05-19": 76700,
-  "2022-05-20": 76785,
-  "2022-05-21": 76963,
-  "2022-05-22": 76963,
-  "2022-05-23": 77080,
-  "2022-05-24": 77159,
-  "2022-05-25": 77241,
-  "2022-05-26": 77322,
-  "2022-05-27": 77405,
-  "2022-05-28": 77503,
-  "2022-05-29": 77621,
-  "2022-05-30": 77708,
-  "2022-05-31": 77787,
-  "2022-06-01": 77977,
-  "2022-06-02": 77988,
-  "2022-06-03": 78075,
-  "2022-06-04": 78163,
-  "2022-06-05": 78306,
-  "2022-06-06": 78404,
-  "2022-06-07": 78514,
-  "2022-06-08": 78625,
-  "2022-06-09": 78711,
-  "2022-06-10": 78818,
-  "2022-06-11": 78898,
-  "2022-06-12": 79016,
-  "2022-06-13": 79125,
-  "2022-06-14": 79209,
-  "2022-06-15": 79330,
-  "2022-06-16": 79412,
-  "2022-06-17": 79514,
-  "2022-06-18": 79602,
-  "2022-06-19": 79842,
-  "2022-06-20": 79842,
-  "2022-06-21": 79915,
-  "2022-06-22": 80098,
-  "2022-06-23": 80098,
-  "2022-06-24": 80192,
-  "2022-06-25": 80284,
-  "2022-06-26": 80376,
-  "2022-06-27": 80452,
-  "2022-06-28": 80513,
-  "2022-06-29": 80584,
-  "2022-06-30": 80656,
-  "2022-07-01": 80748,
-  "2022-07-02": 80843,
-  "2022-07-03": 80950,
-  "2022-07-04": 81054,
-  "2022-07-05": 81143,
-  "2022-07-06": 81204,
-  "2022-07-07": 81282,
-  "2022-07-08": 81370,
-  "2022-07-09": 81449,
-  "2022-07-10": 81546,
-  "2022-07-11": 81660,
-  "2022-07-12": 81734,
-  "2022-07-13": 81815,
-  "2022-07-14": 81912,
-  "2022-07-15": 82006,
-  "2022-07-16": 82094,
-  "2022-07-17": 82214,
-  "2022-07-18": 82339,
-  "2022-07-19": 82455,
-  "2022-07-20": 82553,
-  "2022-07-21": 82661,
-  "2022-07-22": 82738,
-  "2022-07-23": 82816,
-  "2022-07-24": 82907,
-  "2022-07-25": 83031,
-  "2022-07-26": 83115,
-  "2022-07-27": 83204,
-  "2022-07-28": 83261,
-  "2022-07-29": 83338,
-  "2022-07-30": 83525,
-  "2022-07-31": 83525,
-  "2022-08-01": 83643,
-  "2022-08-02": 83818,
-  "2022-08-03": 83818,
-  "2022-08-04": 83915,
-  "2022-08-05": 84019,
-  "2022-08-06": 84107,
-  "2022-08-07": 84206,
-  "2022-08-08": 84293,
-  "2022-08-09": 84385,
-  "2022-08-10": 84484,
-  "2022-08-11": 84580,
-  "2022-08-12": 84674,
-  "2022-08-13": 84803,
-  "2022-08-14": 84919,
-  "2022-08-15": 85061,
-  "2022-08-16": 85144,
-  "2022-08-17": 85246,
-  "2022-08-18": 85328,
-  "2022-08-19": 85420,
-  "2022-08-20": 85504,
-  "2022-08-21": 85609,
-  "2022-08-22": 85719,
-  "2022-08-23": 85803,
-  "2022-08-24": 85908,
-  "2022-08-25": 86018,
-  "2022-08-26": 86101,
-  "2022-08-27": 86202,
-  "2022-08-28": 86301,
-  "2022-08-29": 86420,
-  "2022-08-30": 86489,
-  "2022-08-31": 86511,
-  "2022-09-01": 86516,
-  "2022-09-02": 86592,
-  "2022-09-03": 86611,
-  "2022-09-04": 86578,
-  "2022-09-05": 86622,
-  "2022-09-06": 86713,
-  "2022-09-07": 86794,
-  "2022-09-09": 86965,
-  "2022-09-10": 87043,
-  "2022-09-11": 87155,
-  "2022-09-12": 87247,
-  "2022-09-13": 87331,
-  "2022-09-15": 87488,
-  "2022-09-16": 87556,
-  "2022-09-17": 87637,
-  "2022-09-18": 87711,
-  "2022-09-19": 87798,
-  "2022-09-20": 87866,
-  "2022-09-21": 87949,
-  "2022-09-22": 88020,
-  "2022-09-23": 88079,
-  "2022-09-24": 88149,
-  "2022-09-25": 88238,
-  "2022-09-26": 88323,
-  "2022-09-27": 88382,
-  "2022-09-28": 88446,
-  "2022-09-29": 88492,
-  "2022-09-30": 88565,
-  "2022-10-01": 88648,
-  "2022-10-02": 88725,
-  "2022-10-03": 88794,
-  "2022-10-04": 88861,
-  "2022-10-05": 88919,
-  "2022-10-06": 88984,
-  "2022-10-07": 89058,
-  "2022-10-08": 89125,
-  "2022-10-09": 89250,
-  "2022-10-10": 89269,
-  "2022-10-11": 89342,
-  "2022-10-12": 89404,
-  "2022-10-13": 89472,
-  "2022-10-14": 89547,
-  "2022-10-15": 89598,
-  "2022-10-16": 89678,
-  "2022-10-17": 89739,
-  "2022-10-18": 89794,
-  "2022-10-19": 89851,
-  "2022-10-20": 89915,
-  "2022-10-21": 89983,
-  "2022-10-22": 90034,
-  "2022-10-23": 90086,
-  "2022-10-24": 90136,
-  "2022-10-25": 90180,
-  "2022-10-26": 90225,
-  "2022-10-27": 90297,
-  "2022-10-28": 90365,
-  "2022-10-29": 90443,
-  "2022-10-30": 90518,
-  "2022-10-31": 90580,
-  "2022-11-01": 90625,
-  "2022-11-02": 90689,
-  "2022-11-03": 90740,
-  "2022-11-04": 90807,
-  "2022-11-05": 90873,
-  "2022-11-06": 90945,
-  "2022-11-07": 91011,
-  "2022-11-08": 91056,
-  "2022-11-09": 91131,
-  "2022-11-10": 91186,
-  "2022-11-11": 91250,
-  "2022-11-12": 91324,
-  "2022-11-13": 91403,
-  "2022-11-14": 91472,
-  "2022-11-15": 91549,
-  "2022-11-16": 91610,
-  "2022-11-17": 91666,
-  "2022-11-18": 91672,
-  "2022-11-19": 91659,
-  "2022-11-20": 91668,
-  "2022-11-21": 91709,
-  "2022-11-22": 91876,
-  "2022-11-23": 91858,
-  "2022-11-24": 91991,
-  "2022-11-25": 92121,
-  "2022-11-26": 92208,
-  "2022-11-27": 92275,
-  "2022-11-28": 92354,
-  "2022-11-29": 92410,
-  "2022-11-30": 92481,
-  "2022-12-01": 92590,
-  "2022-12-02": 92662,
-  "2022-12-03": 92705,
-  "2022-12-04": 92818,
-  "2022-12-05": 92904,
-  "2022-12-06": 92979,
-  "2022-12-07": 93047,
-  "2022-12-08": 93159,
-  "2022-12-09": 93249,
-  "2022-12-10": 93337,
-  "2022-12-11": 93430,
-  "2022-12-12": 93535,
-  "2022-12-13": 93611,
-  "2022-12-14": 93677,
-  "2022-12-15": 93769,
-  "2022-12-16": 93846,
-  "2022-12-17": 93931,
-  "2022-12-18": 94024,
-  "2022-12-19": 94122,
-  "2022-12-20": 94309,
-  "2022-12-21": 94309,
-  "2022-12-22": 94411,
-  "2022-12-24": 94624,
-  "2022-12-25": 94731,
-  "2022-12-26": 94831,
-  "2022-12-27": 94932,
-  "2022-12-28": 95025,
-  "2022-12-29": 95113,
-  "2022-12-30": 95232,
-  "2022-12-31": 95323,
-  "2023-01-01": 95420,
-  "2023-01-02": 95480,
-  "2023-01-03": 95580,
-  "2023-01-04": 95676,
-  "2023-01-05": 95771,
-  "2023-01-06": 95870,
-  "2023-01-07": 96022,
-  "2023-01-08": 96051,
-  "2023-01-09": 96154,
-  "2023-01-10": 96239,
-  "2023-01-11": 96345,
-  "2023-01-12": 96451,
-  "2023-01-13": 96556,
-  "2023-01-14": 96736,
-  "2023-01-15": 96774,
-  "2023-01-16": 96903,
-  "2023-01-17": 97020,
-  "2023-01-18": 97124,
-  "2023-01-19": 97207,
-  "2023-01-20": 97311,
-  "2023-01-21": 97411,
-  "2023-01-22": 97533,
-  "2023-01-23": 97646,
-  "2023-01-24": 97759,
-  "2023-01-25": 97865,
-  "2023-01-26": 97968,
-  "2023-01-27": 98083,
-  "2023-01-28": 98197,
-  "2023-01-29": 98308,
-  "2023-01-30": 98423,
-  "2023-01-31": 98423,
-  "2023-02-01": 98606,
-  "2023-02-02": 98707,
-  "2023-02-03": 98829,
-  "2023-02-04": 98948,
-  "2023-02-05": 99085,
-  "2023-02-06": 99200,
-  "2023-02-07": 99332,
-  "2023-02-08": 99558,
-  "2023-02-09": 99558,
-  "2023-02-10": 99693,
-  "2023-02-11": 99821,
-  "2023-02-12": 100041,
-  "2023-02-13": 100153,
-  "2023-02-14": 100153,
-  "2023-02-15": 100277,
-  "2023-02-16": 100365,
-  "2023-02-17": 100439,
-  "2023-02-18": 100609,
-  "2023-02-19": 100625,
-  "2023-02-20": 100699,
-  "2023-02-21": 100781,
-  "2023-02-22": 100846,
-  "2023-02-23": 100913,
-  "2023-02-24": 101006,
-  "2023-02-25": 101136,
-  "2023-02-26": 101203,
-  "2023-02-27": 101405,
-  "2023-02-28": 101405,
-  "2023-03-01": 101492,
-  "2023-03-02": 101627,
-  "2023-03-03": 101734,
-  "2023-03-04": 101837,
-  "2023-03-05": 102096,
-  "2023-03-06": 102096,
-  "2023-03-07": 102246,
-  "2023-03-08": 102366,
-  "2023-03-09": 102484,
-  "2023-03-10": 102609,
-  "2023-03-11": 102728,
-  "2023-03-12": 102865,
-  "2023-03-13": 102969,
-  "2023-03-14": 103067,
-  "2023-03-15": 103192,
-  "2023-03-16": 103322,
-  "2023-03-17": 103322,
-  "2023-03-18": 103547,
-  "2023-03-19": 103669,
-  "2023-03-20": 103789,
-  "2023-03-21": 103903,
-  "2023-03-22": 104013,
-  "2023-03-23": 104158,
-  "2023-03-24": 104158,
-  "2023-03-25": 104371,
-  "2023-03-26": 104478,
-  "2023-03-27": 104597,
-  "2023-03-28": 104708,
-  "2023-03-29": 104805,
-  "2023-03-30": 105043,
-  "2023-03-31": 105043,
-  "2023-04-01": 105155,
-  "2023-04-02": 105264,
-  "2023-04-03": 105376,
-  "2023-04-04": 105478,
-  "2023-04-05": 105593,
-  "2023-04-06": 105707,
-  "2023-04-07": 105818,
-  "2023-04-09": 106028,
-  "2023-04-10": 106124,
-  "2023-04-11": 106312,
-  "2023-04-12": 106312,
-  "2023-04-13": 106402,
-  "2023-04-14": 106496,
-  "2023-04-15": 106594,
-  "2023-04-16": 106690,
-  "2023-04-17": 106786,
-  "2023-04-18": 106874,
-  "2023-04-19": 107045,
-  "2023-04-20": 107154,
-  "2023-04-21": 107266,
-  "2023-04-22": 107389,
-  "2023-04-23": 107476,
-  "2023-04-24": 107597,
-  "2023-04-25": 107687,
-  "2023-04-26": 107812,
-  "2023-04-27": 107902,
-  "2023-04-28": 107983,
-  "2023-04-29": 108062,
-  "2023-04-30": 108169,
-  "2023-05-01": 108259,
-  "2023-05-02": 108358,
-  "2023-05-03": 108438,
-  "2023-05-04": 108542,
-  "2023-05-05": 108634,
-  "2023-05-06": 108735,
-  "2023-05-07": 108839,
-  "2023-05-08": 108929,
-  "2023-05-09": 108990,
-  "2023-05-10": 109079,
-  "2023-05-11": 109160,
-  "2023-05-12": 109255,
-  "2023-05-13": 109323,
-  "2023-05-14": 109410,
-  "2023-05-15": 109507,
-  "2023-05-16": 109586,
-  "2023-05-17": 109668,
-  "2023-05-18": 109763,
-  "2023-05-19": 109880,
-  "2023-05-20": 110093,
-  "2023-05-21": 110093,
-  "2023-05-22": 110093,
-  "2023-05-23": 110278,
-  "2023-05-24": 110427,
-  "2023-05-25": 110456,
-  "2023-05-26": 110548,
-  "2023-05-27": 110644,
-  "2023-05-28": 110756,
-  "2023-05-29": 110756,
-  "2023-05-30": 110973,
-  "2023-05-31": 111054,
-  "2023-06-01": 111151,
-  "2023-06-02": 111250,
-  "2023-06-03": 111350,
-  "2023-06-04": 111459,
-  "2023-06-05": 111551,
-  "2023-06-06": 111632,
-  "2023-06-07": 111698,
-  "2023-06-08": 111772,
-  "2023-06-09": 111850,
-  "2023-06-10": 111940,
-  "2023-06-11": 112051,
-  "2023-06-12": 112147,
-  "2023-06-13": 112210,
-  "2023-06-14": 112327,
-  "2023-06-15": 112426,
-  "2023-06-16": 112500,
-  "2023-06-17": 112585,
-  "2023-06-18": 112704,
-  "2023-06-19": 112791,
-  "2023-06-20": 112885,
-  "2023-06-21": 112965,
-  "2023-06-22": 113050,
-  "2023-06-23": 113125,
-  "2023-06-24": 113230,
-  "2023-06-25": 113330,
-  "2023-06-26": 113434,
-  "2023-06-27": 113514,
-  "2023-06-28": 113579,
-  "2023-06-29": 113670,
-  "2023-06-30": 113751,
-  "2023-07-01": 113911,
-  "2023-07-02": 113911,
-  "2023-07-03": 113998,
-  "2023-07-04": 114061,
-  "2023-07-05": 114147,
-  "2023-07-06": 114320,
-  "2023-07-07": 114320,
-  "2023-07-08": 114425,
-  "2023-07-09": 114529,
-  "2023-07-10": 114641,
-  "2023-07-11": 114724,
-  "2023-07-12": 114810,
-  "2023-07-13": 114885,
-  "2023-07-14": 114969,
-  "2023-07-15": 115029,
-  "2023-07-16": 115115,
-  "2023-07-17": 115204,
-  "2023-07-18": 115278,
-  "2023-07-19": 115357,
-  "2023-07-20": 115452,
-  "2023-07-21": 115546,
-  "2023-07-22": 115638,
-  "2023-07-23": 115724,
-  "2023-07-24": 115808,
-  "2023-07-25": 115909,
-  "2023-07-26": 115976,
-  "2023-07-27": 116050,
-  "2023-07-28": 116139,
-  "2023-07-29": 116222,
-  "2023-07-30": 116331,
-  "2023-07-31": 116421,
-  "2023-08-01": 116499,
-  "2023-08-02": 116582,
-  "2023-08-03": 116643,
-  "2023-08-04": 116717,
-  "2023-08-05": 116812,
-  "2023-08-06": 116993,
-  "2023-08-07": 116993,
-  "2023-08-08": 117064,
-  "2023-08-09": 117137,
-  "2023-08-10": 117231,
-  "2023-08-11": 117306,
-  "2023-08-12": 117407,
-  "2023-08-13": 117512,
-  "2023-08-14": 117589,
-  "2023-08-15": 117772,
-  "2023-08-16": 117772,
-  "2023-08-17": 117881,
-  "2023-08-18": 117986,
-  "2023-08-19": 118099,
-  "2023-08-20": 118203,
-  "2023-08-21": 118294,
-  "2023-08-22": 118359,
-  "2023-08-23": 118455,
-  "2023-08-24": 118539,
-  "2023-08-25": 118635,
-  "2023-08-26": 118734,
-  "2023-08-27": 118819,
-  "2023-08-28": 118920,
-  "2023-08-29": 118997,
-  "2023-08-30": 119083,
-  "2023-08-31": 119168,
-  "2023-09-01": 119295,
-  "2023-09-02": 119295,
-  "2023-09-03": 119353,
-  "2023-09-04": 119423,
-  "2023-09-05": 119482,
-  "2023-09-06": 119536,
-  "2023-09-07": 119604,
-  "2023-09-08": 119675,
-  "2023-09-09": 119747,
-  "2023-09-10": 119837,
-  "2023-09-11": 119901,
-  "2023-09-12": 119970,
-  "2023-09-13": 120084,
-  "2023-09-14": 120153,
-  "2023-09-15": 120224,
-  "2023-09-16": 120335,
-  "2023-09-17": 120467,
-  "2023-09-18": 120545,
-  "2023-09-19": 120617,
-  "2023-09-20": 120693,
-  "2023-09-21": 120765,
-  "2023-09-22": 120841,
-  "2023-09-23": 120914,
-  "2023-09-24": 120970,
-  "2023-09-25": 121055,
-  "2023-09-26": 121152,
-  "2023-09-27": 121199,
-  "2023-09-28": 121264,
-  "2023-09-29": 121317,
-  "2023-09-30": 121377,
-  "2023-10-01": 121442,
-  "2023-10-02": 121506,
-  "2023-10-03": 121570,
-  "2023-10-04": 121614,
-  "2023-10-05": 121675,
-  "2023-10-06": 121756,
-  "2023-10-07": 121823,
-  "2023-10-08": 121891,
-  "2023-10-09": 121958,
-  "2023-10-10": 122018,
-  "2023-10-11": 122155,
-  "2023-10-12": 122155,
-  "2023-10-13": 122211,
-  "2023-10-14": 122287,
-  "2023-10-15": 122372,
-  "2023-10-16": 122430,
-  "2023-10-17": 122493,
-  "2023-10-18": 122544,
-  "2023-10-19": 122610,
-  "2023-10-20": 122685,
-  "2023-10-21": 122732,
-  "2023-10-22": 122800,
-  "2023-10-23": 122867,
-  "2023-10-24": 122927,
-  "2023-10-25": 122987,
-  "2023-10-26": 123038,
-  "2023-10-27": 123091,
-  "2023-10-28": 123160,
-  "2023-10-29": 123234,
-  "2023-10-30": 123342,
-  "2023-10-31": 123342,
-  "2023-11-01": 123404,
-  "2023-11-02": 123454,
-  "2023-11-03": 123517,
-  "2023-11-04": 123580,
-  "2023-11-05": 123618,
-  "2023-11-06": 123683,
-  "2023-11-07": 123728,
-  "2023-11-08": 123777,
-  "2023-11-09": 123838,
-  "2023-11-10": 123911,
-  "2023-11-11": 123962,
-  "2023-11-12": 124033,
-  "2023-11-13": 124092,
-  "2023-11-14": 124135,
-  "2023-11-15": 124135,
-  "2023-11-16": 124234,
-  "2023-11-17": 124342,
-  "2023-11-18": 124342,
-  "2023-11-19": 124402,
-  "2023-11-20": 124458,
-  "2023-11-21": 124517,
-  "2023-11-22": 124569,
-  "2023-11-23": 124624,
-  "2023-11-24": 124665,
-  "2023-11-25": 124733,
-  "2023-11-26": 124793,
-  "2023-11-27": 124843,
-  "2023-11-28": 124907,
-  "2023-11-29": 125030,
-  "2023-11-30": 125030,
-  "2023-12-01": 125090,
-  "2023-12-02": 125128,
-  "2023-12-03": 125183,
-  "2023-12-04": 125230,
-  "2023-12-05": 125283,
-  "2023-12-06": 125318,
-  "2023-12-07": 125378,
-  "2023-12-08": 125436,
-  "2023-12-09": 125490,
-  "2023-12-10": 125576,
-  "2023-12-11": 125638,
-  "2023-12-12": 125686,
-  "2023-12-13": 125727,
-  "2023-12-14": 125801,
-  "2023-12-15": 125840,
-  "2023-12-16": 125888,
-  "2023-12-17": 125958,
-  "2023-12-18": 126023,
-  "2023-12-19": 126082,
-  "2023-12-20": 126163,
-  "2023-12-21": 126225,
-  "2023-12-22": 126305,
-  "2023-12-23": 126371,
-  "2023-12-24": 126454,
-  "2023-12-25": 126523,
-  "2023-12-26": 126586,
-  "2023-12-27": 126636,
-  "2023-12-30": 126879,
-  "2023-12-31": 126963,
-  "2024-01-01": 127052,
-  "2024-01-02": 127116,
-  "2024-01-03": 127196
+  "2024-01-17": 128322,
+  "date_first_scraped": "2021-12-29",
+  "description": "You feel the sun on your face. ",
+  "name": "Vintage Vibes: Sunny Reggae",
+  "tracks": [
+    {
+      "album": {
+        "name": "Foundation Ska",
+        "url": "https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 144773,
+      "name": "Addis Ababa",
+      "url": "https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w"
+    },
+    {
+      "album": {
+        "name": "Foundation Ska",
+        "url": "https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144773,
+      "name": "Addis Ababa",
+      "url": "https://open.spotify.com/track/7BpfGzM57fK5fIw7Pt0yBO"
+    },
+    {
+      "album": {
+        "name": "Studio One Ska",
+        "url": "https://open.spotify.com/album/0rb7M19pl1lRSboIKvoxEv"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 147280,
+      "name": "Addis Ababa",
+      "url": "https://open.spotify.com/track/0eVmqKYRg6A8hqOTdxcDyI"
+    },
+    {
+      "album": {
+        "name": "Studio One Roots",
+        "url": "https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI"
+      },
+      "artists": [
+        {
+          "name": "Zoot Simms",
+          "url": "https://open.spotify.com/artist/3dP5i6gdh5Wulg5Zs1gRPx"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "African Challenge",
+      "url": "https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "Lester Sterling",
+          "url": "https://open.spotify.com/artist/0bxvspvRBbcpshzQFSqKVv"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/3fFXhwkwFDhcCuEjzm4EqM"
+    },
+    {
+      "album": {
+        "name": "Studio One Funk",
+        "url": "https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4"
+      },
+      "artists": [
+        {
+          "name": "Roy Richards",
+          "url": "https://open.spotify.com/artist/0X4uxfskqekFkXgS7MTQAU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-04",
+      "duration_ms": 117266,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/2yvfBytG7N9Z1NuVgKf0qt"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One",
+        "url": "https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG"
+      },
+      "artists": [
+        {
+          "name": "Cannon & The Soul Vendors",
+          "url": "https://open.spotify.com/artist/6WbLpFGT1pphhgLCfB3pf4"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182773,
+      "name": "Bad Treatment",
+      "url": "https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV"
+    },
+    {
+      "album": {
+        "name": "Studio One Funk",
+        "url": "https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4"
+      },
+      "artists": [
+        {
+          "name": "Prince Francis",
+          "url": "https://open.spotify.com/artist/0ZmWfUj6u8nXIgKYwnFMKd"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 183333,
+      "name": "Beat Down Babylon",
+      "url": "https://open.spotify.com/track/4295DKi5lhEJWzljy6Lbnx"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher Volume 2",
+        "url": "https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a"
+      },
+      "artists": [
+        {
+          "name": "Pablove Black",
+          "url": "https://open.spotify.com/artist/42FwZoRg0zhZgg2LUqglEz"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 204146,
+      "name": "Black Wax",
+      "url": "https://open.spotify.com/track/1yZp4EH1pnKnytB1psEb7y"
+    },
+    {
+      "album": {
+        "name": "Freddie McGregor: The Anthology",
+        "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-15",
+      "duration_ms": 147600,
+      "name": "Bobby Babylon",
+      "url": "https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns"
+    },
+    {
+      "album": {
+        "name": "Studio One Rockers",
+        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149680,
+      "name": "Bobby Babylon",
+      "url": "https://open.spotify.com/track/2Z0EHTytryLUAIUikxakIH"
+    },
+    {
+      "album": {
+        "name": "Bobby Bobylon: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1NhP0Jn5grdBKwsRWx8L4x"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Bobby Bobylon",
+      "url": "https://open.spotify.com/track/3t0VvMqwrXM4RgrBYlB235"
+    },
+    {
+      "album": {
+        "name": "Bobby Bobylon: Deluxe Edition",
+        "url": "https://open.spotify.com/album/4u8wLI8DPL2CJ8d9NyKX7g"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 146526,
+      "name": "Bobby Bobylon",
+      "url": "https://open.spotify.com/track/5TjBwP3SZMJNvmh4aCfTMS"
+    },
+    {
+      "album": {
+        "name": "Studio One Ironsides",
+        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+      },
+      "artists": [
+        {
+          "name": "The Gladiators",
+          "url": "https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168880,
+      "name": "Bongo Red",
+      "url": "https://open.spotify.com/track/2eo43OF7EEgIELPnTcrJUH"
+    },
+    {
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255840,
+      "name": "Buffalo Soldier",
+      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
+    },
+    {
+      "album": {
+        "name": "Studio One Sound",
+        "url": "https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze"
+      },
+      "artists": [
+        {
+          "name": "Marcia Griffiths",
+          "url": "https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123773,
+      "name": "Call to Me",
+      "url": "https://open.spotify.com/track/5AlZ6pmFMiiEGAm6QLKhC5"
+    },
+    {
+      "album": {
+        "name": "Dancing the Ska",
+        "url": "https://open.spotify.com/album/6b2G79N6sJoKbg7Mw0Pubw"
+      },
+      "artists": [
+        {
+          "name": "Rita Marley",
+          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 121470,
+      "name": "Call to Me (aka Come to Me)",
+      "url": "https://open.spotify.com/track/07JiDePV5j3JS2Ohss2u7y"
+    },
+    {
+      "album": {
+        "name": "Dancing the Ska",
+        "url": "https://open.spotify.com/album/6uoQ5sCHsjfbWIHYkojaPm"
+      },
+      "artists": [
+        {
+          "name": "Rita Marley",
+          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121470,
+      "name": "Call to Me (aka Come to Me)",
+      "url": "https://open.spotify.com/track/5yMXY2QCnkeggMgLSOaqR0"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S",
+        "url": "https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO"
+      },
+      "artists": [
+        {
+          "name": "Dillinger",
+          "url": "https://open.spotify.com/artist/5J69edy1luLIzbgyl4u1Dv"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-27",
+      "duration_ms": 159800,
+      "name": "Chuky Skank",
+      "url": "https://open.spotify.com/track/232oGt97gDd6jJmb9lFcR2"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Coconut Rock",
+      "url": "https://open.spotify.com/track/3gxEtE7T9CdLod0ZdOTrJv"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher Volume 2",
+        "url": "https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a"
+      },
+      "artists": [
+        {
+          "name": "Sugar Belly",
+          "url": "https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219893,
+      "name": "Cousin Joe Pt 1",
+      "url": "https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb"
+    },
+    {
+      "album": {
+        "name": "Studio One Rockers",
+        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
+      },
+      "artists": [
+        {
+          "name": "Prince Jazzbo",
+          "url": "https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 195306,
+      "name": "Crabwalking",
+      "url": "https://open.spotify.com/track/4jYXEy2Rv5V5jcf4JAiR7o"
+    },
+    {
+      "album": {
+        "name": "Studio One Ironsides",
+        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173080,
+      "name": "Danger In Your Eyes",
+      "url": "https://open.spotify.com/track/2PQeK7uGoKfc1sGRTN1cFR"
+    },
+    {
+      "album": {
+        "name": "The Best of Studio One, Vol. 1",
+        "url": "https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ"
+      },
+      "artists": [
+        {
+          "name": "The Abyssinians",
+          "url": "https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 199746,
+      "name": "Declaration of Rights",
+      "url": "https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim"
+    },
+    {
+      "album": {
+        "name": "The Best of Studio One, Vol. 1",
+        "url": "https://open.spotify.com/album/4I8Brkbsd0auuU1R3dsws7"
+      },
+      "artists": [
+        {
+          "name": "The Abyssinians",
+          "url": "https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "Declaration of Rights",
+      "url": "https://open.spotify.com/track/3nZY7IAd5VJ9O2E5vHynx6"
+    },
+    {
+      "album": {
+        "name": "Original Jamaican Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/2pumKN2jSlSPdXjHe2veJg"
+      },
+      "artists": [
+        {
+          "name": "The Abyssinians",
+          "url": "https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199746,
+      "name": "Declaration of Rights",
+      "url": "https://open.spotify.com/track/72d00Av5BisHp8KZDjR3ie"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records Presents Studio One Story",
+        "url": "https://open.spotify.com/album/5Mr1LHcR1zseZQ087rNg1W"
+      },
+      "artists": [
+        {
+          "name": "The Abyssinians",
+          "url": "https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200973,
+      "name": "Declaration Of Rights",
+      "url": "https://open.spotify.com/track/3t1rBSQTTvmgzSsnSORInf"
+    },
+    {
+      "album": {
+        "name": "Studio One Roots",
+        "url": "https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI"
+      },
+      "artists": [
+        {
+          "name": "Devon \"Soul\" Russell",
+          "url": "https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233653,
+      "name": "Drum Song",
+      "url": "https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU"
+    },
+    {
+      "album": {
+        "name": "Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962-65",
+        "url": "https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj"
+      },
+      "artists": [
+        {
+          "name": "Soul Brothers",
+          "url": "https://open.spotify.com/artist/1UTxQ0jbtZoJPXD9cUC3iD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250360,
+      "name": "Freedom Sounds",
+      "url": "https://open.spotify.com/track/4dNDYHH9JPAHc339r1y8ty"
+    },
+    {
+      "album": {
+        "name": "Fat Back Ska, Vol. 2",
+        "url": "https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw"
+      },
+      "artists": [
+        {
+          "name": "The Soul Brothers",
+          "url": "https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250360,
+      "name": "Freedom Sounds",
+      "url": "https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw"
+    },
+    {
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 197840,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
+    },
+    {
+      "album": {
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One",
+        "url": "https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG"
+      },
+      "artists": [
+        {
+          "name": "Owen Gray",
+          "url": "https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187253,
+      "name": "Give Me a Little Sign",
+      "url": "https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB"
+    },
+    {
+      "album": {
+        "name": "Fat Back Ska, Vol. 2",
+        "url": "https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111173,
+      "name": "Gumma",
+      "url": "https://open.spotify.com/track/48lJI0zX6WopGcgmwv22kv"
+    },
+    {
+      "album": {
+        "name": "Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962-65",
+        "url": "https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111173,
+      "name": "Gumma",
+      "url": "https://open.spotify.com/track/6Jz8AqlYRx2QaReB3Schvn"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records Presents Studio One Story",
+        "url": "https://open.spotify.com/album/5Mr1LHcR1zseZQ087rNg1W"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/5np6g6qhDLUh1y15nlxPBC"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records presents Sugar Minott at Studio One",
+        "url": "https://open.spotify.com/album/2S0HvAeuZShMBQpk982CGp"
+      },
+      "artists": [
+        {
+          "name": "Sugar Minott",
+          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "Hang On Natty",
+      "url": "https://open.spotify.com/track/1TKDhky8F2v7Dlz69mH8yq"
+    },
+    {
+      "album": {
+        "name": "Studio One Sound",
+        "url": "https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze"
+      },
+      "artists": [
+        {
+          "name": "Dub Specialist",
+          "url": "https://open.spotify.com/artist/2Z6eWhLfvDVcgULunQskjk"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Happy Feelings",
+      "url": "https://open.spotify.com/track/5cERnwvQmaeAFNaJavhw1X"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "Don Drummond & The Skatalites \u2014 Heavenless",
+          "url": "https://open.spotify.com/artist/1VmIFcBGFy0M17OBzIAe2X"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 372506,
+      "name": "Heavenless",
+      "url": "https://open.spotify.com/track/2s4U4ZCLqSWMrekCakqlBl"
+    },
+    {
+      "album": {
+        "name": "Studio One Lovers",
+        "url": "https://open.spotify.com/album/0RAY8NtmtYwIEh6G5avSyi"
+      },
+      "artists": [
+        {
+          "name": "The Sharks",
+          "url": "https://open.spotify.com/artist/5YUnGJyBSdPLoJExvs7qHF"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "How Could I Live",
+      "url": "https://open.spotify.com/track/4dY12uO1KLfh79TUyZVSEN"
+    },
+    {
+      "album": {
+        "name": "Studio One Ironsides",
+        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "I Man A Rasta",
+      "url": "https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2"
+    },
+    {
+      "album": {
+        "name": "Studio One Kings",
+        "url": "https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj"
+      },
+      "artists": [
+        {
+          "name": "Anthony Rocky Ellis",
+          "url": "https://open.spotify.com/artist/3UPeHT1ujrnMl7mOto6xTA"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139386,
+      "name": "I'm The Ruler",
+      "url": "https://open.spotify.com/track/0naH4jtOlEiZYuuIrBdyIj"
+    },
+    {
+      "album": {
+        "name": "Presenting The Gladiators",
+        "url": "https://open.spotify.com/album/2k0QrDX5MJCGHp0XyHyOBg"
+      },
+      "artists": [
+        {
+          "name": "The Gladiators",
+          "url": "https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161567,
+      "name": "Jah Jah Go Before Us",
+      "url": "https://open.spotify.com/track/0zUagLtFMJJWhXtTBp5OLT"
+    },
+    {
+      "album": {
+        "name": "Presenting The Gladiators",
+        "url": "https://open.spotify.com/album/6inbtfHKcxOyAAOqkzw7di"
+      },
+      "artists": [
+        {
+          "name": "The Gladiators",
+          "url": "https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 161567,
+      "name": "Jah Jah Go Before Us",
+      "url": "https://open.spotify.com/track/1R0XkmUBzSOqiWV8XSZ1if"
+    },
+    {
+      "album": {
+        "name": "Studio One Groups",
+        "url": "https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo"
+      },
+      "artists": [
+        {
+          "name": "The Gladiators",
+          "url": "https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166426,
+      "name": "Jah Jah Go Before Us",
+      "url": "https://open.spotify.com/track/55lbdEV1suvlkYVyIgVZxU"
+    },
+    {
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mittoo & Ernest Ranglin",
+          "url": "https://open.spotify.com/artist/3qqbVqjun4ZUlWsjwg8tQq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Jericho Skank",
+      "url": "https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu"
+    },
+    {
+      "album": {
+        "name": "Studio One Ironsides",
+        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+      },
+      "artists": [
+        {
+          "name": "Dennis Alcapone",
+          "url": "https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "Joe Frazier",
+      "url": "https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT"
+    },
+    {
+      "album": {
+        "name": "Studio One Sound",
+        "url": "https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze"
+      },
+      "artists": [
+        {
+          "name": "Lord Tanamo",
+          "url": "https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150760,
+      "name": "Keep on Moving",
+      "url": "https://open.spotify.com/track/3fooEYpcvSYV8XWRRZ59AD"
+    },
+    {
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 217440,
+      "name": "Kinky Reggae - Original Album Version",
+      "url": "https://open.spotify.com/track/7rzl3uAXLQMWznyVUaoeer"
+    },
+    {
+      "album": {
+        "name": "Studio One Sound",
+        "url": "https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze"
+      },
+      "artists": [
+        {
+          "name": "Prince Lincoln",
+          "url": "https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239266,
+      "name": "Live Up to Your Name",
+      "url": "https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi"
+    },
+    {
+      "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 310426,
+      "name": "Lively Up Yourself",
+      "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
+    },
+    {
+      "album": {
+        "name": "Studio One Kings",
+        "url": "https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj"
+      },
+      "artists": [
+        {
+          "name": "The Ethiopian",
+          "url": "https://open.spotify.com/artist/5dl6NImlsBk6gGlZOp9IkU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 259506,
+      "name": "Locust",
+      "url": "https://open.spotify.com/track/3jFPay48ActRmwHnhPHwu7"
+    },
+    {
+      "album": {
+        "name": "Studio One Groups",
+        "url": "https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159480,
+      "name": "Love and Affection",
+      "url": "https://open.spotify.com/track/2OGB6WhcDJ2kMl1uAPRt7j"
+    },
+    {
+      "album": {
+        "name": "Studio One Funk",
+        "url": "https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4"
+      },
+      "artists": [
+        {
+          "name": "Im and Sound Dimension",
+          "url": "https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "Love Jah",
+      "url": "https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks"
+    },
+    {
+      "album": {
+        "name": "Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962-65",
+        "url": "https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj"
+      },
+      "artists": [
+        {
+          "name": "Hugh Godfrey",
+          "url": "https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 108626,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/4iYwpyRtLevg1OXHARWCSn"
+    },
+    {
+      "album": {
+        "name": "This Girl Loves Reggae",
+        "url": "https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD"
+      },
+      "artists": [
+        {
+          "name": "Hugh Godfrey",
+          "url": "https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108626,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf"
+    },
+    {
+      "album": {
+        "name": "Studio One Ironsides",
+        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+      },
+      "artists": [
+        {
+          "name": "Marcia Griffiths",
+          "url": "https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134826,
+      "name": "Mark My Word",
+      "url": "https://open.spotify.com/track/1uVnn2BEEwbcSmV0YVIGL2"
+    },
+    {
+      "album": {
+        "name": "Studio One Roots",
+        "url": "https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI"
+      },
+      "artists": [
+        {
+          "name": "Lennie Hibbert",
+          "url": "https://open.spotify.com/artist/5t4dVHPMK33Uj2B89FSnW2"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 258146,
+      "name": "More Creation",
+      "url": "https://open.spotify.com/track/0UEFVv1SWszuI53WXwKfSv"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "Liberation Group",
+          "url": "https://open.spotify.com/artist/5ndZzvsrg96O78vOjnwUx4"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215946,
+      "name": "Namibia",
+      "url": "https://open.spotify.com/track/0tzz52F0Y1bPeRT31cIdCr"
+    },
+    {
+      "album": {
+        "name": "Studio One Ironsides",
+        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+      },
+      "artists": [
+        {
+          "name": "Don Drummond",
+          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "Nanny\u2019s Corner",
+      "url": "https://open.spotify.com/track/5xUjLG37Qk3YR2CYpGHgKR"
+    },
+    {
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/29SbydyD69yI0qs7Ma3xMs"
+      },
+      "artists": [
+        {
+          "name": "Carlton & The Shoes",
+          "url": "https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "Never Give Your Heart Away",
+      "url": "https://open.spotify.com/track/00NZUSWCUszqs2MFEfReTj"
+    },
+    {
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/6xagSz2uBot6PdYytMZxxi"
+      },
+      "artists": [
+        {
+          "name": "Carlton & The Shoes",
+          "url": "https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 185760,
+      "name": "Never Give Your Heart Away",
+      "url": "https://open.spotify.com/track/22LNaj7qU9BC1nlylGVaKt"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records Presents STUDIO ONE Lovers Rock",
+        "url": "https://open.spotify.com/album/0iD8pXGKRM4YfdjjzJMOo7"
+      },
+      "artists": [
+        {
+          "name": "Carlton & The Shoes",
+          "url": "https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191693,
+      "name": "Never Give Your Heart Away",
+      "url": "https://open.spotify.com/track/4Fe9EIHcLd3jmJ10GsjuPM"
+    },
+    {
+      "album": {
+        "name": "Feel Like Jumping: The Best of Studio One Women",
+        "url": "https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ"
+      },
+      "artists": [
+        {
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 269506,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0"
+    },
+    {
+      "album": {
+        "name": "Feel Like Jumping: The Best of Studio One Women",
+        "url": "https://open.spotify.com/album/3RTeh1T46KVNuoSyTYE2Ns"
+      },
+      "artists": [
+        {
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269506,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/6CWghtCtJOgJgP58GyFx2m"
+    },
+    {
+      "album": {
+        "name": "Studio One Rockers",
+        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
+      },
+      "artists": [
+        {
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271000,
+      "name": "No, No, No",
+      "url": "https://open.spotify.com/track/4bukx6aimK0TeawVaPVLi8"
+    },
+    {
+      "album": {
+        "name": "Studio One Soul 2",
+        "url": "https://open.spotify.com/album/3ACnIAA3byGqPwuvtAr3kE"
+      },
+      "artists": [
+        {
+          "name": "Hortense Ellis",
+          "url": "https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197173,
+      "name": "People Make The World Go Round",
+      "url": "https://open.spotify.com/track/4YHyTPPrfbROj1Uh5V3oYj"
+    },
+    {
+      "album": {
+        "name": "Alton & Hortense Ellis",
+        "url": "https://open.spotify.com/album/2Q8BPKtSNcI3YHc0gHtW0q"
+      },
+      "artists": [
+        {
+          "name": "Hortense Ellis",
+          "url": "https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "People Make the World Go Round",
+      "url": "https://open.spotify.com/track/1XMBtQ6S7DJoj1FDLpFBgq"
+    },
+    {
+      "album": {
+        "name": "Alton & Hortense Ellis",
+        "url": "https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy"
+      },
+      "artists": [
+        {
+          "name": "Hortense Ellis",
+          "url": "https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 198000,
+      "name": "People Make the World Go Round",
+      "url": "https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK"
+    },
+    {
+      "album": {
+        "name": "Studio One Groups",
+        "url": "https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo"
+      },
+      "artists": [
+        {
+          "name": "The Royals",
+          "url": "https://open.spotify.com/artist/3wbKJbdbAOOAvNyJQjGfNn"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "Pick Up The Pieces",
+      "url": "https://open.spotify.com/track/63OEtoCA6gPrkeqe68xsN7"
+    },
+    {
+      "album": {
+        "name": "Studio One Funk",
+        "url": "https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4"
+      },
+      "artists": [
+        {
+          "name": "Pablove Black",
+          "url": "https://open.spotify.com/artist/42FwZoRg0zhZgg2LUqglEz"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253373,
+      "name": "Poco Tempo",
+      "url": "https://open.spotify.com/track/1X2V7D8O2BeVXPatr23Evr"
+    },
+    {
+      "album": {
+        "name": "Natural High: The Bongo Man Collection",
+        "url": "https://open.spotify.com/album/0LgCSVBOq8Ztb2iganefyS"
+      },
+      "artists": [
+        {
+          "name": "Pablove Black and The New Establishment",
+          "url": "https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250543,
+      "name": "Poco Tempo (aka Pocco Tempo)",
+      "url": "https://open.spotify.com/track/0yDFdIxaF1fRGrPMYyMRyP"
+    },
+    {
+      "album": {
+        "name": "Natural High: The Bongo Man Collection",
+        "url": "https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S"
+      },
+      "artists": [
+        {
+          "name": "Pablove Black and The New Establishment",
+          "url": "https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 250543,
+      "name": "Poco Tempo (aka Pocco Tempo)",
+      "url": "https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp"
+    },
+    {
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213893,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher Volume 2",
+        "url": "https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a"
+      },
+      "artists": [
+        {
+          "name": "Brentford All Stars",
+          "url": "https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "Race Track",
+      "url": "https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h"
+    },
+    {
+      "album": {
+        "name": "Studio One Rockers",
+        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
+      },
+      "artists": [
+        {
+          "name": "Sound Dimension",
+          "url": "https://open.spotify.com/artist/5OUHQrNOEtdwwSo7I68lzv"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151133,
+      "name": "Real Rock",
+      "url": "https://open.spotify.com/track/5jnA4sMHH7OiImyOHKSVdl"
+    },
+    {
+      "album": {
+        "name": "Studio One Funk",
+        "url": "https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Williams",
+          "url": "https://open.spotify.com/artist/0neTVvqj2VQoVQRrfWtfNE"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 154546,
+      "name": "Reggae Feet",
+      "url": "https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG"
+    },
+    {
+      "album": {
+        "name": "Studio One Ironsides",
+        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+      },
+      "artists": [
+        {
+          "name": "Drum Bago and Rebel Group",
+          "url": "https://open.spotify.com/artist/0BoSjN4E9chFiBI118KLwM"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180586,
+      "name": "Reggae Version",
+      "url": "https://open.spotify.com/track/7gnGakKfPtbXTDh9zoj1r4"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "Soul Vendors",
+          "url": "https://open.spotify.com/artist/2jJI2J9IXpHrUBXpsuMa5x"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Ringo Rock",
+      "url": "https://open.spotify.com/track/0d98jmXYAEuh2cLAdLp8Q9"
+    },
+    {
+      "album": {
+        "name": "Studio One Classics",
+        "url": "https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR"
+      },
+      "artists": [
+        {
+          "name": "Burning Spear",
+          "url": "https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 167666,
+      "name": "Rocking Time",
+      "url": "https://open.spotify.com/track/2xoglIbnCpu5ZYowHJyNet"
+    },
+    {
+      "album": {
+        "name": "Studio One Classics",
+        "url": "https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR"
+      },
+      "artists": [
+        {
+          "name": "Slim Smith",
+          "url": "https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 186893,
+      "name": "Rougher Yet",
+      "url": "https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One",
+        "url": "https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG"
+      },
+      "artists": [
+        {
+          "name": "The Termites",
+          "url": "https://open.spotify.com/artist/62Il32zMicP6h1H4VUF6jq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131880,
+      "name": "Rub Up Push Up",
+      "url": "https://open.spotify.com/track/12Iiv0jGt8lyAlrrdVqpPU"
+    },
+    {
+      "album": {
+        "name": "Winner Of My Heart - Reggae",
+        "url": "https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5"
+      },
+      "artists": [
+        {
+          "name": "The Clarendonians",
+          "url": "https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141800,
+      "name": "Rudie Bam Bam",
+      "url": "https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk"
+    },
+    {
+      "album": {
+        "name": "Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962-65",
+        "url": "https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj"
+      },
+      "artists": [
+        {
+          "name": "The Clarendonians",
+          "url": "https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141800,
+      "name": "Rudie Bam Bam",
+      "url": "https://open.spotify.com/track/5wMDhtowY6v49Ftjws4hvg"
+    },
+    {
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
+    },
+    {
+      "album": {
+        "name": "Studio One Classics",
+        "url": "https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR"
+      },
+      "artists": [
+        {
+          "name": "Prince Jazzbo",
+          "url": "https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158186,
+      "name": "School",
+      "url": "https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S",
+        "url": "https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO"
+      },
+      "artists": [
+        {
+          "name": "The Willows",
+          "url": "https://open.spotify.com/artist/2VKTGKX88xeP0pNOSOeXof"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363386,
+      "name": "Send Another Moses",
+      "url": "https://open.spotify.com/track/4HSC43MCTRxCA6ohDU4MNB"
+    },
+    {
+      "album": {
+        "name": "Studio One Classics",
+        "url": "https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "Simmer Down",
+      "url": "https://open.spotify.com/track/2qUkkHORN5objY895DYs55"
+    },
+    {
+      "album": {
+        "name": "Studio One Rockers",
+        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187373,
+      "name": "Skylarking",
+      "url": "https://open.spotify.com/track/58iZqKMclBROw5IjI4cwQ6"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 188026,
+      "name": "So Much Things To Say",
+      "url": "https://open.spotify.com/track/2RiOvJpzM1IsxZNLlCBqIM"
+    },
+    {
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 188026,
+      "name": "So Much Things To Say",
+      "url": "https://open.spotify.com/track/4z62783TED1Rz0XOpBLOV7"
+    },
+    {
+      "album": {
+        "name": "Studio One Dub Volume 2",
+        "url": "https://open.spotify.com/album/4c5MDMjgliQuLDMq04ecp3"
+      },
+      "artists": [
+        {
+          "name": "St Ct and the Gladiators Band",
+          "url": "https://open.spotify.com/artist/0dKddycMI80gcYQTkqKFQh"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 197600,
+      "name": "Soul Locks",
+      "url": "https://open.spotify.com/track/49QxDYDu2N2G6vEyuOqPk9"
+    },
+    {
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Stir It Up - Jamaican Version",
+      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
+    },
+    {
+      "album": {
+        "name": "Studio One Rockers",
+        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
+      },
+      "artists": [
+        {
+          "name": "Ernest Ranglin",
+          "url": "https://open.spotify.com/artist/6RTCb5pWKinqlUyG2qacit"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146253,
+      "name": "Surfin",
+      "url": "https://open.spotify.com/track/79HIvcu6xOekJTWPIFSe9P"
+    },
+    {
+      "album": {
+        "name": "Studio One Sound",
+        "url": "https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze"
+      },
+      "artists": [
+        {
+          "name": "Jackie Opel",
+          "url": "https://open.spotify.com/artist/4H5WEBeEt0zGNPA8bzPlJI"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163386,
+      "name": "The Lord Is With Me",
+      "url": "https://open.spotify.com/track/4D9l6fyrjLYvhALDmrBXBk"
+    },
+    {
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "New Establishment",
+          "url": "https://open.spotify.com/artist/4zV2neXlhnE7v964YxFgek"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 161013,
+      "name": "The People Skanking",
+      "url": "https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx"
+    },
+    {
+      "album": {
+        "name": "Studio One Kings",
+        "url": "https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj"
+      },
+      "artists": [
+        {
+          "name": "Alton Ellis",
+          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153626,
+      "name": "The Well Run Dry",
+      "url": "https://open.spotify.com/track/30b90XD4VP61a8h70iv31o"
+    },
+    {
+      "album": {
+        "name": "Studio One Sound",
+        "url": "https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze"
+      },
+      "artists": [
+        {
+          "name": "Larry Marshall",
+          "url": "https://open.spotify.com/artist/0wK61txc27pFLNRg9lz3rl"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-09",
+      "duration_ms": 117866,
+      "name": "There's a Fire",
+      "url": "https://open.spotify.com/track/7EhKVBUrL5dd7VNZDXGpiD"
+    },
+    {
+      "album": {
+        "name": "Studio One Groups",
+        "url": "https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo"
+      },
+      "artists": [
+        {
+          "name": "The Bassies",
+          "url": "https://open.spotify.com/artist/0iRfV89CEYWMpwoYb1SUIZ"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Things a Come Up to Bump",
+      "url": "https://open.spotify.com/track/1V8TACzzOdmBYczCBBoKwt"
+    },
+    {
+      "album": {
+        "name": "Studio One Sound",
+        "url": "https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze"
+      },
+      "artists": [
+        {
+          "name": "Wailing Souls",
+          "url": "https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238066,
+      "name": "Trouble Maker",
+      "url": "https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49"
+    },
+    {
+      "album": {
+        "name": "Studio One Rockers",
+        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
+      },
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181693,
+      "name": "Truth And Rights",
+      "url": "https://open.spotify.com/track/4UDhprhFPKxJZ2ChNSJsKG"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256239,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
+    },
+    {
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256240,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/4Gq2ydMKhDZmctzkmk2bYo"
+    },
+    {
+      "album": {
+        "name": "Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962-65",
+        "url": "https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Man",
+          "url": "https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134200,
+      "name": "Where's Garvey",
+      "url": "https://open.spotify.com/track/32fwQQjAdnaW9TuqJdW8rw"
+    },
+    {
+      "album": {
+        "name": "Reggae For House Parties",
+        "url": "https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Man",
+          "url": "https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134200,
+      "name": "Where's Garvey",
+      "url": "https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00"
+    },
+    {
+      "album": {
+        "name": "Ska Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/5SnwwIFYmfaJlsa37OI3NG"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Man",
+          "url": "https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 134200,
+      "name": "Where's Garvey",
+      "url": "https://open.spotify.com/track/67WLLqIoGXbcTS6FwfrL0Z"
+    },
+    {
+      "album": {
+        "name": "Studio One Roots",
+        "url": "https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI"
+      },
+      "artists": [
+        {
+          "name": "Linton Cooper (w. The Brentford Disco Set)",
+          "url": "https://open.spotify.com/artist/0Zc8HYdVsRDDYj2atgS3aI"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "You'll Get Your Pay",
+      "url": "https://open.spotify.com/track/0QS4vNmAoV6Y0FMz0FTYhe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWgsG1xGbDd1"
 }

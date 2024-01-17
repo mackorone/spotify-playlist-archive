@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3rXtgePifMs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3rXtgePifMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3rXtgePifMs)
 
-### [Soundtrack oficial de EA SPORTS FC 24](https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs)
+### [EA SPORTS FC 24 Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs)
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-115 songs - 6 hr 12 min
+116 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A STRANGER](https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [A STRANGER](https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC) | 2:47 | 2023-09-21 |  |
 | [Absolutely Tidy](https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1) | [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Absolutely Tidy](https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl) | 2:51 | 2023-09-20 |  |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-11-20 |  |
-| [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 | 2023-12-01 |  |
+| [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 | 2023-12-01 | 2024-01-09 |
+| [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 | 2024-01-08 |  |
 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 | 2023-09-20 |  |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-20 |  |
 | [Assumptions \- Jengi Remix](https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:06 | 2023-09-20 |  |

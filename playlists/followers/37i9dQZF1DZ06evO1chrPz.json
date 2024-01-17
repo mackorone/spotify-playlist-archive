@@ -1,291 +1,1613 @@
 {
-  "2023-03-18": 183968,
-  "2023-03-19": 183968,
-  "2023-03-20": 184102,
-  "2023-03-21": 184151,
-  "2023-03-22": 184228,
-  "2023-03-23": 184309,
-  "2023-03-24": 184309,
-  "2023-03-25": 184506,
-  "2023-03-26": 184612,
-  "2023-03-27": 184731,
-  "2023-03-28": 184818,
-  "2023-03-29": 184903,
-  "2023-03-30": 185000,
-  "2023-03-31": 185000,
-  "2023-04-01": 185049,
-  "2023-04-02": 185104,
-  "2023-04-03": 185158,
-  "2023-04-04": 185207,
-  "2023-04-05": 185283,
-  "2023-04-06": 185344,
-  "2023-04-07": 185394,
-  "2023-04-09": 185507,
-  "2023-04-10": 185572,
-  "2023-04-11": 185693,
-  "2023-04-12": 185693,
-  "2023-04-13": 185750,
-  "2023-04-14": 185800,
-  "2023-04-15": 185842,
-  "2023-04-16": 185882,
-  "2023-04-17": 185934,
-  "2023-04-18": 186004,
-  "2023-04-19": 186051,
-  "2023-04-20": 186090,
-  "2023-04-21": 186143,
-  "2023-04-22": 186188,
-  "2023-04-23": 186251,
-  "2023-04-24": 186305,
-  "2023-04-25": 186360,
-  "2023-04-26": 186414,
-  "2023-04-27": 186457,
-  "2023-04-28": 186508,
-  "2023-04-29": 186547,
-  "2023-04-30": 186594,
-  "2023-05-01": 186643,
-  "2023-05-02": 186686,
-  "2023-05-03": 186721,
-  "2023-05-04": 186755,
-  "2023-05-05": 186796,
-  "2023-05-06": 186831,
-  "2023-05-07": 186863,
-  "2023-05-08": 186908,
-  "2023-05-09": 186952,
-  "2023-05-10": 186983,
-  "2023-05-11": 187023,
-  "2023-05-12": 187065,
-  "2023-05-13": 187096,
-  "2023-05-14": 187119,
-  "2023-05-15": 187156,
-  "2023-05-16": 187196,
-  "2023-05-17": 187232,
-  "2023-05-18": 187276,
-  "2023-05-19": 187313,
-  "2023-05-20": 187412,
-  "2023-05-21": 187412,
-  "2023-05-22": 187412,
-  "2023-05-23": 187528,
-  "2023-05-24": 187633,
-  "2023-05-25": 187648,
-  "2023-05-26": 187684,
-  "2023-05-27": 187732,
-  "2023-05-28": 187774,
-  "2023-05-29": 187774,
-  "2023-05-30": 187865,
-  "2023-05-31": 187917,
-  "2023-06-01": 187963,
-  "2023-06-02": 188011,
-  "2023-06-03": 188051,
-  "2023-06-04": 188096,
-  "2023-06-05": 188149,
-  "2023-06-06": 188189,
-  "2023-06-07": 188226,
-  "2023-06-08": 188258,
-  "2023-06-09": 188290,
-  "2023-06-10": 188329,
-  "2023-06-11": 188383,
-  "2023-06-12": 188429,
-  "2023-06-13": 188471,
-  "2023-06-14": 188511,
-  "2023-06-15": 188555,
-  "2023-06-16": 188577,
-  "2023-06-17": 188613,
-  "2023-06-18": 188641,
-  "2023-06-19": 188679,
-  "2023-06-20": 188721,
-  "2023-06-21": 188766,
-  "2023-06-22": 188787,
-  "2023-06-23": 188834,
-  "2023-06-24": 188864,
-  "2023-06-25": 188901,
-  "2023-06-26": 188941,
-  "2023-06-27": 188984,
-  "2023-06-28": 189026,
-  "2023-06-29": 189063,
-  "2023-06-30": 189089,
-  "2023-07-01": 189169,
-  "2023-07-02": 189169,
-  "2023-07-03": 189196,
-  "2023-07-04": 189230,
-  "2023-07-05": 189267,
-  "2023-07-06": 189345,
-  "2023-07-07": 189345,
-  "2023-07-08": 189374,
-  "2023-07-09": 189393,
-  "2023-07-10": 189429,
-  "2023-07-11": 189457,
-  "2023-07-12": 189485,
-  "2023-07-13": 189506,
-  "2023-07-14": 189544,
-  "2023-07-15": 189577,
-  "2023-07-16": 189623,
-  "2023-07-17": 189672,
-  "2023-07-18": 189712,
-  "2023-07-19": 189743,
-  "2023-07-20": 189785,
-  "2023-07-21": 189814,
-  "2023-07-22": 189840,
-  "2023-07-23": 189876,
-  "2023-07-24": 189911,
-  "2023-07-25": 189938,
-  "2023-07-26": 189973,
-  "2023-07-27": 190006,
-  "2023-07-28": 190064,
-  "2023-07-29": 190099,
-  "2023-07-30": 190128,
-  "2023-07-31": 190173,
-  "2023-08-01": 190213,
-  "2023-08-02": 190251,
-  "2023-08-03": 190289,
-  "2023-08-04": 190322,
-  "2023-08-05": 190357,
-  "2023-08-06": 190426,
-  "2023-08-07": 190426,
-  "2023-08-08": 190456,
-  "2023-08-09": 190481,
-  "2023-08-10": 190527,
-  "2023-08-11": 190552,
-  "2023-08-12": 190552,
-  "2023-08-13": 190552,
-  "2023-08-14": 190671,
-  "2023-08-15": 190671,
-  "2023-08-16": 190671,
-  "2023-08-17": 190787,
-  "2023-08-18": 190787,
-  "2023-08-19": 190787,
-  "2023-08-20": 190923,
-  "2023-08-21": 190923,
-  "2023-08-22": 191003,
-  "2023-08-23": 191003,
-  "2023-08-24": 191003,
-  "2023-08-25": 191003,
-  "2023-08-26": 191152,
-  "2023-08-27": 191152,
-  "2023-08-28": 191193,
-  "2023-08-29": 191193,
-  "2023-08-30": 191193,
-  "2023-08-31": 191335,
-  "2023-09-01": 191373,
-  "2023-09-02": 191373,
-  "2023-09-03": 191470,
-  "2023-09-04": 191470,
-  "2023-09-05": 191470,
-  "2023-09-06": 191587,
-  "2023-09-07": 191587,
-  "2023-09-08": 191587,
-  "2023-09-09": 191587,
-  "2023-09-10": 191747,
-  "2023-09-11": 191747,
-  "2023-09-12": 191747,
-  "2023-09-13": 191871,
-  "2023-09-14": 191871,
-  "2023-09-15": 191871,
-  "2023-09-16": 191975,
-  "2023-09-17": 191975,
-  "2023-09-18": 191975,
-  "2023-09-19": 192085,
-  "2023-09-20": 192085,
-  "2023-09-21": 192085,
-  "2023-09-22": 192175,
-  "2023-09-23": 192175,
-  "2023-09-24": 192175,
-  "2023-09-25": 192175,
-  "2023-09-26": 192334,
-  "2023-09-27": 192334,
-  "2023-09-28": 192334,
-  "2023-09-29": 192334,
-  "2023-09-30": 192334,
-  "2023-10-01": 192334,
-  "2023-10-02": 192520,
-  "2023-10-03": 192520,
-  "2023-10-04": 192520,
-  "2023-10-05": 192627,
-  "2023-10-06": 192627,
-  "2023-10-07": 192627,
-  "2023-10-08": 192627,
-  "2023-10-09": 192627,
-  "2023-10-10": 192627,
-  "2023-10-11": 192737,
-  "2023-10-12": 192737,
-  "2023-10-13": 192737,
-  "2023-10-14": 192737,
-  "2023-10-15": 192737,
-  "2023-10-16": 192737,
-  "2023-10-17": 192737,
-  "2023-10-18": 192737,
-  "2023-10-19": 192737,
-  "2023-10-20": 192737,
-  "2023-10-21": 192737,
-  "2023-10-22": 192737,
-  "2023-10-23": 192737,
-  "2023-10-24": 192737,
-  "2023-10-25": 192737,
-  "2023-10-26": 192737,
-  "2023-10-27": 192737,
-  "2023-10-28": 192737,
-  "2023-10-29": 192737,
-  "2023-10-30": 192737,
-  "2023-10-31": 192737,
-  "2023-11-01": 192737,
-  "2023-11-02": 192737,
-  "2023-11-03": 192737,
-  "2023-11-04": 192737,
-  "2023-11-05": 192737,
-  "2023-11-06": 192737,
-  "2023-11-07": 192737,
-  "2023-11-08": 192737,
-  "2023-11-09": 192737,
-  "2023-11-10": 192737,
-  "2023-11-11": 193544,
-  "2023-11-12": 193544,
-  "2023-11-13": 193544,
-  "2023-11-14": 193544,
-  "2023-11-15": 193544,
-  "2023-11-16": 193544,
-  "2023-11-17": 193544,
-  "2023-11-18": 193544,
-  "2023-11-19": 193544,
-  "2023-11-20": 193544,
-  "2023-11-21": 193544,
-  "2023-11-22": 193544,
-  "2023-11-23": 193544,
-  "2023-11-24": 193544,
-  "2023-11-25": 193544,
-  "2023-11-26": 193544,
-  "2023-11-27": 193544,
-  "2023-11-28": 193544,
-  "2023-11-29": 193544,
-  "2023-11-30": 193544,
-  "2023-12-01": 193544,
-  "2023-12-02": 193544,
-  "2023-12-03": 193544,
-  "2023-12-04": 193544,
-  "2023-12-05": 193544,
-  "2023-12-06": 193544,
-  "2023-12-07": 193544,
-  "2023-12-08": 193544,
-  "2023-12-09": 193544,
-  "2023-12-10": 193544,
-  "2023-12-11": 193544,
-  "2023-12-12": 193544,
-  "2023-12-13": 193544,
-  "2023-12-14": 194501,
-  "2023-12-15": 194499,
-  "2023-12-16": 194525,
-  "2023-12-17": 194540,
-  "2023-12-18": 194560,
-  "2023-12-19": 194583,
-  "2023-12-20": 194601,
-  "2023-12-21": 194619,
-  "2023-12-22": 194636,
-  "2023-12-23": 194649,
-  "2023-12-24": 194681,
-  "2023-12-25": 194699,
-  "2023-12-26": 194719,
-  "2023-12-27": 194738,
-  "2023-12-30": 194807,
-  "2023-12-31": 194836,
-  "2024-01-01": 194860,
-  "2024-01-02": 194878,
-  "2024-01-03": 194911
+  "2024-01-17": 195007,
+  "date_first_scraped": "2023-03-18",
+  "description": "This is Bethel Music. The essential tracks, all in one playlist.",
+  "name": "This Is Bethel Music",
+  "tracks": [
+    {
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336932,
+      "name": "All Hail King Jesus - Live",
+      "url": "https://open.spotify.com/track/0Aa9storemJMkPbFnLH8jE"
+    },
+    {
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 294151,
+      "name": "Anything Is Possible - Live",
+      "url": "https://open.spotify.com/track/64nXCNi7Ct1wi5Q6VROGAF"
+    },
+    {
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395161,
+      "name": "Back To Life - Live",
+      "url": "https://open.spotify.com/track/6WUwmKUfTF12jlJ2ll1aW5"
+    },
+    {
+      "album": {
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485396,
+      "name": "Be Enthroned - Live",
+      "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
+    },
+    {
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318120,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/7IKax3Xr0hNeWj3jqlQtCl"
+    },
+    {
+      "album": {
+        "name": "Surrounded By Holy",
+        "url": "https://open.spotify.com/album/40Cv3OatvEElZTKKUhL2Lg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 318120,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/7dDk1DRpk2YoMOUkcF9ygL"
+    },
+    {
+      "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/0N7g1biLYfgX00mWoHmMud"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 589677,
+      "name": "Beauty / We Fall Down - Live",
+      "url": "https://open.spotify.com/track/6qk2m4FLAsWT5BaaTqhddH"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319546,
+      "name": "By the Grace of God",
+      "url": "https://open.spotify.com/track/2NLGDqOvvIU1ZNzAFHeVcO"
+    },
+    {
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526890,
+      "name": "Champion - Live",
+      "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
+    },
+    {
+      "album": {
+        "name": "Homecoming (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/20CnEGNCGv7sCWnV3AaC2o"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 633065,
+      "name": "C\u00f3mo No Voy A Creer",
+      "url": "https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376093,
+      "name": "Dancing on the Waves",
+      "url": "https://open.spotify.com/track/2soQW3y7DwZIPH4fS5av1W"
+    },
+    {
+      "album": {
+        "name": "Without Words: Genesis",
+        "url": "https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 338773,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/33VLrOZbnbz5pGSY2neHyO"
+    },
+    {
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383447,
+      "name": "Egypt - Live",
+      "url": "https://open.spotify.com/track/72SrSfTI6p9HCBuVKmCNu9"
+    },
+    {
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322326,
+      "name": "Ever Be - Live",
+      "url": "https://open.spotify.com/track/7gbdU7Cuj07lHi0qW0vZcG"
+    },
+    {
+      "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371774,
+      "name": "Extravagant - Live",
+      "url": "https://open.spotify.com/track/5UivJ02lC3RH9MmAysIltU"
+    },
+    {
+      "album": {
+        "name": "The Loft Sessions",
+        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "Fall Afresh",
+      "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
+    },
+    {
+      "album": {
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452520,
+      "name": "God I Look to You",
+      "url": "https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI"
+    },
+    {
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515387,
+      "name": "God of Revival - Live",
+      "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
+    },
+    {
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296400,
+      "name": "Goodness of God - Live",
+      "url": "https://open.spotify.com/track/1gj9poFl2mLKkguqWo5Y1i"
+    },
+    {
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324680,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/6uKEqHuYJSTJzXVpsyYEIc"
+    },
+    {
+      "album": {
+        "name": "Surrounded By Holy",
+        "url": "https://open.spotify.com/album/40Cv3OatvEElZTKKUhL2Lg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 324680,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/78wwNVnh9DTAHFNTZewEwB"
+    },
+    {
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Gable Price",
+          "url": "https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468274,
+      "name": "Homecoming - Live",
+      "url": "https://open.spotify.com/track/18Kt9lI9qQK5hUHtaIPOP2"
+    },
+    {
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 456000,
+      "name": "I Believe - Live",
+      "url": "https://open.spotify.com/track/6p9Frj8pPOCWol6HMFihSs"
+    },
+    {
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519770,
+      "name": "I Belong To Jesus - Live",
+      "url": "https://open.spotify.com/track/0mhKPUIHNEz4tuWNxNEqCS"
+    },
+    {
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 305768,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/1ZJ8pODFM2y5DeSthUTBrC"
+    },
+    {
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 298681,
+      "name": "In Over My Head (Crash Over Me) - Live",
+      "url": "https://open.spotify.com/track/2kDe0QRaCBKIh8QY64GDvK"
+    },
+    {
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 236120,
+      "name": "Inheritance",
+      "url": "https://open.spotify.com/track/2ebUFQNAvcHbyrCVxPWw0V"
+    },
+    {
+      "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79706,
+      "name": "Isabelline (Interlude)",
+      "url": "https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX"
+    },
+    {
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 341066,
+      "name": "Isn't He Beautiful",
+      "url": "https://open.spotify.com/track/15h37QkTcfXJ3LDeNY92zF"
+    },
+    {
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385053,
+      "name": "It Is Well - Live",
+      "url": "https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7"
+    },
+    {
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415079,
+      "name": "Jesus We Love You - Live",
+      "url": "https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn"
+    },
+    {
+      "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299365,
+      "name": "King of My Heart - Live",
+      "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
+    },
+    {
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Michaela Gentile",
+          "url": "https://open.spotify.com/artist/1YxxxADeTdoTeS633H5lCQ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 319739,
+      "name": "Let My Life Be Worship",
+      "url": "https://open.spotify.com/track/2DrarKE3JnOXED3kbTuLtY"
+    },
+    {
+      "album": {
+        "name": "Without Words: Genesis",
+        "url": "https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 124053,
+      "name": "Light (Interlude)",
+      "url": "https://open.spotify.com/track/0E3EOUKG8t3mwDSxhPdZCt"
+    },
+    {
+      "album": {
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Leeland Mooring",
+          "url": "https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280762,
+      "name": "Lion and the Lamb",
+      "url": "https://open.spotify.com/track/4eLKR4wt81H4aso4KyAkO1"
+    },
+    {
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/2rKiADhVznDGC1oRjeczDr"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406346,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6CW9qtzZpHZ3o39BYlpU0x"
+    },
+    {
+      "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248910,
+      "name": "Luminosity",
+      "url": "https://open.spotify.com/track/6ZLsrfSUuGQak9ZaWkoLCI"
+    },
+    {
+      "album": {
+        "name": "Bethel Music en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291986,
+      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
+      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
+    },
+    {
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373691,
+      "name": "No Longer Slaves (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
+    },
+    {
+      "album": {
+        "name": "Nothing Else (Live)",
+        "url": "https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526768,
+      "name": "Nothing Else - Live",
+      "url": "https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF"
+    },
+    {
+      "album": {
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292226,
+      "name": "Only Jesus - Instrumental",
+      "url": "https://open.spotify.com/track/5pnGeK0thAFqmNEahyCXrj"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297293,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/2Gpk1rtu5wVUCMQH86kErs"
+    },
+    {
+      "album": {
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339870,
+      "name": "Pieces - Live",
+      "url": "https://open.spotify.com/track/56ECskEyc7XqOCyRPruZ37"
+    },
+    {
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281893,
+      "name": "Precious Blood",
+      "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
+    },
+    {
+      "album": {
+        "name": "Raise a Hallelujah (Studio Version)",
+        "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244040,
+      "name": "Raise a Hallelujah (Studio Version)",
+      "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
+    },
+    {
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 470880,
+      "name": "Raise a Hallelujah - Live",
+      "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
+    },
+    {
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510726,
+      "name": "Reason To Praise - Live",
+      "url": "https://open.spotify.com/track/4wiv0itDHcgSB8IjOxn4SA"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341173,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/2uKwH2Wc0vtVXrRieOMxlu"
+    },
+    {
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347566,
+      "name": "Reign Above It All - Live",
+      "url": "https://open.spotify.com/track/1zhp0SM5CkGUdoCFagzVPe"
+    },
+    {
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
+    },
+    {
+      "album": {
+        "name": "Without Words: Genesis",
+        "url": "https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 89013,
+      "name": "Rest (Interlude)",
+      "url": "https://open.spotify.com/track/1IYcZ692RWOq5Qb4BPuqAR"
+    },
+    {
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 479771,
+      "name": "Son Of Suffering - Live",
+      "url": "https://open.spotify.com/track/5DWuh0oKJfcpabhzAMbXOM"
+    },
+    {
+      "album": {
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Stand In Your Love (Radio Version)",
+      "url": "https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303053,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/0HtWxjydJ3pEwT5nHJxxZ1"
+    },
+    {
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294280,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
+    },
+    {
+      "album": {
+        "name": "Surrounded By Holy",
+        "url": "https://open.spotify.com/album/40Cv3OatvEElZTKKUhL2Lg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 294280,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/3oHBQsiTAi3FHCL2zKXvpf"
+    },
+    {
+      "album": {
+        "name": "Surrounded By Holy",
+        "url": "https://open.spotify.com/album/1PPHCkGg32qpdCB8UryA2p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 455529,
+      "name": "Surrounded By Holy - Live",
+      "url": "https://open.spotify.com/track/0PmGvuvTmEw4mkL6URYfDc"
+    },
+    {
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414173,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/5cebPQVq4mdFykugzU2LfU"
+    },
+    {
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 374173,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/0Oo7srQNAnA6RsPPBMTu7m"
+    },
+    {
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263293,
+      "name": "The Light in You",
+      "url": "https://open.spotify.com/track/4dx1Mf0Cl6luHghe58xKAV"
+    },
+    {
+      "album": {
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/4cYPV8aF3JL4AKdbJeFZ86"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452013,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/3ExKJt4K8duUfEG49QWzPi"
+    },
+    {
+      "album": {
+        "name": "Too Good To Not Believe (Live)",
+        "url": "https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 633462,
+      "name": "Too Good To Not Believe - Live",
+      "url": "https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS"
+    },
+    {
+      "album": {
+        "name": "Touch of Heaven / Alabaster Heart (Live)",
+        "url": "https://open.spotify.com/album/3lhcektGJ2MtzmmIdlwFXX"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630228,
+      "name": "Touch of Heaven / Alabaster Heart - Live",
+      "url": "https://open.spotify.com/track/5oiNJJdKqJ5Vfwion1dR1n"
+    },
+    {
+      "album": {
+        "name": "Without Words: Genesis",
+        "url": "https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/4cMLthbMtEEghWm4C6jkfO"
+    },
+    {
+      "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 104480,
+      "name": "Ultramarine (Interlude)",
+      "url": "https://open.spotify.com/track/5TEHmmf6KmPEl2M2wUNJuo"
+    },
+    {
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 333080,
+      "name": "Victory Is Yours - Live",
+      "url": "https://open.spotify.com/track/42bdU7oDyRvyRXaKbUrtfu"
+    },
+    {
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281506,
+      "name": "We Dance - Live",
+      "url": "https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW"
+    },
+    {
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416323,
+      "name": "We Praise You - Live",
+      "url": "https://open.spotify.com/track/4ECDvXMDVz3nUXfZOqF9j2"
+    },
+    {
+      "album": {
+        "name": "Without Words: Genesis",
+        "url": "https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 296453,
+      "name": "What a Beautiful Name",
+      "url": "https://open.spotify.com/track/4VB43SPyiTaV9FfXH6522J"
+    },
+    {
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366160,
+      "name": "You Make Me Brave - Live",
+      "url": "https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ"
+    },
+    {
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261519,
+      "name": "You're Gonna Be Ok",
+      "url": "https://open.spotify.com/track/35sVDinWrh5nYjpzPXe4qz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPz"
 }

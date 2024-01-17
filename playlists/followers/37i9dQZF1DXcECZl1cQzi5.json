@@ -1,72 +1,1489 @@
 {
-  "2023-10-24": 2175,
-  "2023-10-25": 2175,
-  "2023-10-26": 2175,
-  "2023-10-27": 2175,
-  "2023-10-28": 2175,
-  "2023-10-29": 2175,
-  "2023-10-30": 2175,
-  "2023-10-31": 2175,
-  "2023-11-01": 2175,
-  "2023-11-02": 2175,
-  "2023-11-03": 2175,
-  "2023-11-04": 2175,
-  "2023-11-05": 2175,
-  "2023-11-06": 2175,
-  "2023-11-07": 2175,
-  "2023-11-08": 2175,
-  "2023-11-09": 2175,
-  "2023-11-10": 2175,
-  "2023-11-11": 4587,
-  "2023-11-12": 4702,
-  "2023-11-13": 4702,
-  "2023-11-14": 4702,
-  "2023-11-15": 4702,
-  "2023-11-16": 4702,
-  "2023-11-17": 5527,
-  "2023-11-18": 5527,
-  "2023-11-19": 5527,
-  "2023-11-20": 5527,
-  "2023-11-21": 5527,
-  "2023-11-22": 5527,
-  "2023-11-23": 6190,
-  "2023-11-24": 6190,
-  "2023-11-25": 6190,
-  "2023-11-26": 6190,
-  "2023-11-27": 6190,
-  "2023-11-28": 6190,
-  "2023-11-29": 6190,
-  "2023-11-30": 6190,
-  "2023-12-01": 6190,
-  "2023-12-02": 6190,
-  "2023-12-03": 6190,
-  "2023-12-04": 6190,
-  "2023-12-05": 6190,
-  "2023-12-06": 6190,
-  "2023-12-07": 6190,
-  "2023-12-08": 6190,
-  "2023-12-09": 7922,
-  "2023-12-10": 7922,
-  "2023-12-11": 8142,
-  "2023-12-12": 8142,
-  "2023-12-13": 8142,
-  "2023-12-14": 8495,
-  "2023-12-15": 8562,
-  "2023-12-16": 8656,
-  "2023-12-17": 8730,
-  "2023-12-18": 8859,
-  "2023-12-19": 8966,
-  "2023-12-20": 9063,
-  "2023-12-21": 9154,
-  "2023-12-22": 9248,
-  "2023-12-23": 9321,
-  "2023-12-24": 9412,
-  "2023-12-25": 9489,
-  "2023-12-26": 9554,
-  "2023-12-27": 9653,
-  "2023-12-30": 9941,
-  "2023-12-31": 10034,
-  "2024-01-01": 10129,
-  "2024-01-02": 10222,
-  "2024-01-03": 10333
+  "2024-01-17": 11969,
+  "date_first_scraped": "2023-10-24",
+  "description": "Ocean sounds and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
+  "name": "Island of Serenity",
+  "tracks": [
+    {
+      "album": {
+        "name": "432 Hz All One",
+        "url": "https://open.spotify.com/album/2KLtD4cSDuuPtxH764R0HV"
+      },
+      "artists": [
+        {
+          "name": "Stella Oceans",
+          "url": "https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "432 Hz All One",
+      "url": "https://open.spotify.com/track/3PUqz1G8iM070GCCC64MUs"
+    },
+    {
+      "album": {
+        "name": "528 Hz Ocean Rest",
+        "url": "https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A"
+      },
+      "artists": [
+        {
+          "name": "Particles And Waves",
+          "url": "https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "528 Hz Ocean Rest",
+      "url": "https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG"
+    },
+    {
+      "album": {
+        "name": "A Lake Almost Still",
+        "url": "https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq"
+      },
+      "artists": [
+        {
+          "name": "Adored Swan",
+          "url": "https://open.spotify.com/artist/4l336DEMdfVDdYuPzhp4tp"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137020,
+      "name": "A Lake Almost Still",
+      "url": "https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu"
+    },
+    {
+      "album": {
+        "name": "Aabha - Sound Bath",
+        "url": "https://open.spotify.com/album/5SNx9VaBDuGycrI7lxJnfl"
+      },
+      "artists": [
+        {
+          "name": "Amrita Ananda",
+          "url": "https://open.spotify.com/artist/17ph9VKUlu3hc0liTAhYWP"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Aabha - Sound Bath",
+      "url": "https://open.spotify.com/track/4CGYBCKiaSm5Y5oqn7xZIh"
+    },
+    {
+      "album": {
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT"
+      },
+      "artists": [
+        {
+          "name": "Hieling",
+          "url": "https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Above the Clouds",
+      "url": "https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5"
+    },
+    {
+      "album": {
+        "name": "Aethaerum",
+        "url": "https://open.spotify.com/album/6n5YtNCZaQFCh6PndO9IhI"
+      },
+      "artists": [
+        {
+          "name": "Ayala Cola",
+          "url": "https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Aethaerum",
+      "url": "https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k"
+    },
+    {
+      "album": {
+        "name": "Atomos Atmos",
+        "url": "https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc"
+      },
+      "artists": [
+        {
+          "name": "Claudette Bernard",
+          "url": "https://open.spotify.com/artist/4EWNPU1XQV8ckiiJjERuf9"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Atomos Atmos",
+      "url": "https://open.spotify.com/track/1PinJYwTcizpP5mTW4qIRX"
+    },
+    {
+      "album": {
+        "name": "Birth",
+        "url": "https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ"
+      },
+      "artists": [
+        {
+          "name": "Hieling",
+          "url": "https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201874,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT"
+    },
+    {
+      "album": {
+        "name": "Eternals",
+        "url": "https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z"
+      },
+      "artists": [
+        {
+          "name": "Sweep Bliss",
+          "url": "https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134369,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h"
+    },
+    {
+      "album": {
+        "name": "Breezing",
+        "url": "https://open.spotify.com/album/0V4ZUcZU62VwEtuKxrDGZ4"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163291,
+      "name": "Breezing",
+      "url": "https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J"
+    },
+    {
+      "album": {
+        "name": "Briongl\u00f3id (Sound Bath)",
+        "url": "https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y"
+      },
+      "artists": [
+        {
+          "name": "Tamila Gagan",
+          "url": "https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165112,
+      "name": "Briongl\u00f3id (Sound Bath)",
+      "url": "https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF"
+    },
+    {
+      "album": {
+        "name": "Calming Seas",
+        "url": "https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P"
+      },
+      "artists": [
+        {
+          "name": "A Lonely Moon",
+          "url": "https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203871,
+      "name": "Calming Seas",
+      "url": "https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq"
+    },
+    {
+      "album": {
+        "name": "Calming Waves",
+        "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
+      },
+      "artists": [
+        {
+          "name": "Castillo Indigo",
+          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157997,
+      "name": "Calming Waves",
+      "url": "https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf"
+    },
+    {
+      "album": {
+        "name": "Chao Phraya",
+        "url": "https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO"
+      },
+      "artists": [
+        {
+          "name": "Forrest Gomez",
+          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Chao Phraya",
+      "url": "https://open.spotify.com/track/3x2joKTEP8I0uSfl9MFjJC"
+    },
+    {
+      "album": {
+        "name": "Coastal Route",
+        "url": "https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG"
+      },
+      "artists": [
+        {
+          "name": "Voices Of The Ocean",
+          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195913,
+      "name": "Coastal Route",
+      "url": "https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu"
+    },
+    {
+      "album": {
+        "name": "Dawning (Sound Bath)",
+        "url": "https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8"
+      },
+      "artists": [
+        {
+          "name": "Yaalani",
+          "url": "https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146506,
+      "name": "Dawning - Sound Bath",
+      "url": "https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4"
+    },
+    {
+      "album": {
+        "name": "Calming Seas",
+        "url": "https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P"
+      },
+      "artists": [
+        {
+          "name": "A Lonely Moon",
+          "url": "https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Deep Cove",
+      "url": "https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi"
+    },
+    {
+      "album": {
+        "name": "Sunrise Serenade",
+        "url": "https://open.spotify.com/album/5fXtwzH2IFeVPS1EXzOyc9"
+      },
+      "artists": [
+        {
+          "name": "Still Tides",
+          "url": "https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167183,
+      "name": "Deep Horizon (By The Sea)",
+      "url": "https://open.spotify.com/track/1Vr254pm0vAoskLaqR6F24"
+    },
+    {
+      "album": {
+        "name": "Deep Waters 432Hz",
+        "url": "https://open.spotify.com/album/04DUTY1SOJFPjdViDnh8iZ"
+      },
+      "artists": [
+        {
+          "name": "Center of Jupiter",
+          "url": "https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134874,
+      "name": "Deep Waters 432Hz",
+      "url": "https://open.spotify.com/track/2I88iPM3OQJfzp9t9Iqd6f"
+    },
+    {
+      "album": {
+        "name": "Delightful Waves",
+        "url": "https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Plausible",
+          "url": "https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194437,
+      "name": "Delightful Waves",
+      "url": "https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2"
+    },
+    {
+      "album": {
+        "name": "Devine Waves",
+        "url": "https://open.spotify.com/album/7987vByLF9HkepU0VIabSG"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Devine Waves",
+      "url": "https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4"
+    },
+    {
+      "album": {
+        "name": "Devotions",
+        "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
+      },
+      "artists": [
+        {
+          "name": "Hans Heeler",
+          "url": "https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Devotions",
+      "url": "https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg"
+    },
+    {
+      "album": {
+        "name": "Dream Ripples",
+        "url": "https://open.spotify.com/album/0zxCATLreAmFRKmML8p4bF"
+      },
+      "artists": [
+        {
+          "name": "Lusunzi",
+          "url": "https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148127,
+      "name": "Dream Ripples",
+      "url": "https://open.spotify.com/track/6yd4nQEl7aicM2nqLHoTiY"
+    },
+    {
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/2z2WkFkO85mvy8NTsdLN0I"
+      },
+      "artists": [
+        {
+          "name": "Hevios",
+          "url": "https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153658,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/3cVQJRndyIwxIe3BDjUKkD"
+    },
+    {
+      "album": {
+        "name": "Endless 432 Hz",
+        "url": "https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM"
+      },
+      "artists": [
+        {
+          "name": "Eoforwine",
+          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199595,
+      "name": "Endless 432 Hz",
+      "url": "https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so"
+    },
+    {
+      "album": {
+        "name": "Fishermans Village",
+        "url": "https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni"
+      },
+      "artists": [
+        {
+          "name": "Harada Mi",
+          "url": "https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157303,
+      "name": "Fishermans Village",
+      "url": "https://open.spotify.com/track/1Xg8CzWQX1tYZ5zfx54oFM"
+    },
+    {
+      "album": {
+        "name": "Frihet Natur",
+        "url": "https://open.spotify.com/album/36Ur6FxNtvITUMwNvwlqkV"
+      },
+      "artists": [
+        {
+          "name": "Moderato Aredo",
+          "url": "https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Frihet Natur",
+      "url": "https://open.spotify.com/track/2bobfsUclg5AgoTDIGn5DD"
+    },
+    {
+      "album": {
+        "name": "Hacienda",
+        "url": "https://open.spotify.com/album/2TqivOnFGVlV4Lg9U6giFP"
+      },
+      "artists": [
+        {
+          "name": "Harada Mi",
+          "url": "https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203964,
+      "name": "Hacienda",
+      "url": "https://open.spotify.com/track/777BLV38yrgiI6CFh0egvo"
+    },
+    {
+      "album": {
+        "name": "Hammock Life",
+        "url": "https://open.spotify.com/album/1rMazcyTVAwOIV8lAllCNZ"
+      },
+      "artists": [
+        {
+          "name": "Forrest Gomez",
+          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Hammock Life",
+      "url": "https://open.spotify.com/track/3p0ITpxIkPIbgKIH7t3JLw"
+    },
+    {
+      "album": {
+        "name": "Healing Vibrations",
+        "url": "https://open.spotify.com/album/4fdCupr10MhDYHQHr7NMgp"
+      },
+      "artists": [
+        {
+          "name": "Restful Minds",
+          "url": "https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 228364,
+      "name": "Healing Vibrations",
+      "url": "https://open.spotify.com/track/63DqInT6u5XnSNTBxi9KdK"
+    },
+    {
+      "album": {
+        "name": "Hidden Beach",
+        "url": "https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Hidden Beach",
+      "url": "https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp"
+    },
+    {
+      "album": {
+        "name": "Indigo Glow",
+        "url": "https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9"
+      },
+      "artists": [
+        {
+          "name": "Xoj Litran",
+          "url": "https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Indigo Glow",
+      "url": "https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6"
+      },
+      "artists": [
+        {
+          "name": "Time Sphere",
+          "url": "https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216804,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj"
+    },
+    {
+      "album": {
+        "name": "Lumen At The Beach",
+        "url": "https://open.spotify.com/album/1hpj4CvS7jBcV1LDcUwUjL"
+      },
+      "artists": [
+        {
+          "name": "Absydius",
+          "url": "https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Lumen At The Beach",
+      "url": "https://open.spotify.com/track/5wvyUoWHUim7nBqYfqhOfp"
+    },
+    {
+      "album": {
+        "name": "Majestic (Ocean)",
+        "url": "https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH"
+      },
+      "artists": [
+        {
+          "name": "Moonlight River",
+          "url": "https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Majestic (Ocean)",
+      "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
+    },
+    {
+      "album": {
+        "name": "Midnight Shoreline",
+        "url": "https://open.spotify.com/album/1E0JXRIEt2SeGocrN2ZIpL"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Midnight Shoreline",
+      "url": "https://open.spotify.com/track/5efJPDxGLNB0h6niF1AXNP"
+    },
+    {
+      "album": {
+        "name": "Temple of the Heart",
+        "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187452,
+      "name": "Oasis of Calm",
+      "url": "https://open.spotify.com/track/3apfI7QvT9f673V4SXXbCW"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156762,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY"
+    },
+    {
+      "album": {
+        "name": "Ocean Mindfulness",
+        "url": "https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh"
+      },
+      "artists": [
+        {
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+        },
+        {
+          "name": "Human Is Alive",
+          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207914,
+      "name": "Ocean Mindfulness",
+      "url": "https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ"
+    },
+    {
+      "album": {
+        "name": "Oceanfront",
+        "url": "https://open.spotify.com/album/422uRupupycQ4E9MfKCHKQ"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Oceanfront",
+      "url": "https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi"
+    },
+    {
+      "album": {
+        "name": "Oceanic Peace",
+        "url": "https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Oceanic Peace",
+      "url": "https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv"
+    },
+    {
+      "album": {
+        "name": "Oceanos Alpha",
+        "url": "https://open.spotify.com/album/3Eb7Mfz5OTLzBu4PWKnbY0"
+      },
+      "artists": [
+        {
+          "name": "Mission Venus",
+          "url": "https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193890,
+      "name": "Oceanos - Alpha 65Hz - 72Hz",
+      "url": "https://open.spotify.com/track/0JkHZdKIt2VXwiP5IHkaZn"
+    },
+    {
+      "album": {
+        "name": "Oceanwide",
+        "url": "https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr"
+      },
+      "artists": [
+        {
+          "name": "Forgotten Lake",
+          "url": "https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217172,
+      "name": "Oceanwide",
+      "url": "https://open.spotify.com/track/5JcwPNcYMr0yKOXruhXMPq"
+    },
+    {
+      "album": {
+        "name": "Ondas",
+        "url": "https://open.spotify.com/album/0zX9Kh9v01hlMMlumPkNyv"
+      },
+      "artists": [
+        {
+          "name": "Hevios",
+          "url": "https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173499,
+      "name": "Ondas",
+      "url": "https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV"
+    },
+    {
+      "album": {
+        "name": "Osdale Air",
+        "url": "https://open.spotify.com/album/4erw5sMPYXrWjyaSyHqEV0"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Osdale Air",
+      "url": "https://open.spotify.com/track/2IFvIXlGNFaVqg7gaDkJZa"
+    },
+    {
+      "album": {
+        "name": "Over the Horizon",
+        "url": "https://open.spotify.com/album/2pSvgBR3X8bffY2bOOuhsq"
+      },
+      "artists": [
+        {
+          "name": "Stravae",
+          "url": "https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191750,
+      "name": "Over the Horizon",
+      "url": "https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn"
+    },
+    {
+      "album": {
+        "name": "Over-By The Sea",
+        "url": "https://open.spotify.com/album/3OLJio2N5cMvg0m2TtVryk"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217241,
+      "name": "Over-By The Sea",
+      "url": "https://open.spotify.com/track/2n7ywqxa37GiHhKIiAqPaj"
+    },
+    {
+      "album": {
+        "name": "Paessagio Naturale",
+        "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
+      },
+      "artists": [
+        {
+          "name": "Campane",
+          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "Paessagio Naturale",
+      "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
+    },
+    {
+      "album": {
+        "name": "Pawkian",
+        "url": "https://open.spotify.com/album/5jHIQGoDGlXEzqXW5QPWgI"
+      },
+      "artists": [
+        {
+          "name": "Hevios",
+          "url": "https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "Pawkian",
+      "url": "https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw"
+    },
+    {
+      "album": {
+        "name": "Pukaki Passion",
+        "url": "https://open.spotify.com/album/2iXVcEH9ABo2oIZelDAbnj"
+      },
+      "artists": [
+        {
+          "name": "Greet The Day",
+          "url": "https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189628,
+      "name": "Pukaki Passion",
+      "url": "https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5"
+    },
+    {
+      "album": {
+        "name": "Reaching Waves",
+        "url": "https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s"
+      },
+      "artists": [
+        {
+          "name": "Fleurs de Son",
+          "url": "https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Reaching Waves",
+      "url": "https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td"
+    },
+    {
+      "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0"
+      },
+      "artists": [
+        {
+          "name": "Misha Burton",
+          "url": "https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182695,
+      "name": "Restore",
+      "url": "https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX"
+    },
+    {
+      "album": {
+        "name": "Rila",
+        "url": "https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun"
+      },
+      "artists": [
+        {
+          "name": "Nestos",
+          "url": "https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "Rila",
+      "url": "https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD"
+    },
+    {
+      "album": {
+        "name": "Rolling Seas",
+        "url": "https://open.spotify.com/album/4Em9f24EvsgN5My2fkimU0"
+      },
+      "artists": [
+        {
+          "name": "Hrothgar Tarek",
+          "url": "https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189994,
+      "name": "Rolling Seas",
+      "url": "https://open.spotify.com/track/5RtXN3MImgzXJTHzlnYEpu"
+    },
+    {
+      "album": {
+        "name": "Sand Mountain",
+        "url": "https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138576,
+      "name": "Sand Mountain",
+      "url": "https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1"
+    },
+    {
+      "album": {
+        "name": "Santanyi",
+        "url": "https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161401,
+      "name": "Santanyi",
+      "url": "https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp"
+    },
+    {
+      "album": {
+        "name": "Shores of Serenity",
+        "url": "https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Shores of Serenity",
+      "url": "https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
+      },
+      "artists": [
+        {
+          "name": "Clouds Come Down",
+          "url": "https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231102,
+      "name": "Silent Retreat (Ocean View)",
+      "url": "https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf"
+    },
+    {
+      "album": {
+        "name": "Singing Mermaids",
+        "url": "https://open.spotify.com/album/7rwtwkooAD4zrqkvH8Mff3"
+      },
+      "artists": [
+        {
+          "name": "George Memfri",
+          "url": "https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Singing Mermaids",
+      "url": "https://open.spotify.com/track/7MnNQEoNtmddjkcM7pQsaH"
+    },
+    {
+      "album": {
+        "name": "Skye Nights",
+        "url": "https://open.spotify.com/album/7DfLxJGWfggWYmti94MYD9"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214444,
+      "name": "Skye Nights",
+      "url": "https://open.spotify.com/track/39MhIdIn0QhJoHhHEPfmQg"
+    },
+    {
+      "album": {
+        "name": "Slowing down with the Waves",
+        "url": "https://open.spotify.com/album/7CDYHzDA8UwQbmqXiXZKwO"
+      },
+      "artists": [
+        {
+          "name": "Solar Wash",
+          "url": "https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Slowing down with the Waves",
+      "url": "https://open.spotify.com/track/1hO3Xxm95UQffwh50jQ5Yg"
+    },
+    {
+      "album": {
+        "name": "Soft Sea Waves",
+        "url": "https://open.spotify.com/album/3vMqqCHWcoOS3qysd89GiH"
+      },
+      "artists": [
+        {
+          "name": "Aristides Okoro",
+          "url": "https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174677,
+      "name": "Soft Sea Waves",
+      "url": "https://open.spotify.com/track/16PZo5L2PS0p9WNES66TlO"
+    },
+    {
+      "album": {
+        "name": "Soothing Beach",
+        "url": "https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII"
+      },
+      "artists": [
+        {
+          "name": "Eshe Fajah",
+          "url": "https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Soothing Beach",
+      "url": "https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz"
+    },
+    {
+      "album": {
+        "name": "Soothing Waves",
+        "url": "https://open.spotify.com/album/3kPehnBJFJSeIYdb2OWd5s"
+      },
+      "artists": [
+        {
+          "name": "Menidia",
+          "url": "https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151898,
+      "name": "Soothing Waves",
+      "url": "https://open.spotify.com/track/44pymRZAgj5Tqx1D4LNB3L"
+    },
+    {
+      "album": {
+        "name": "Soulful Serenity",
+        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
+      },
+      "artists": [
+        {
+          "name": "Neoterikoi",
+          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184251,
+      "name": "Soulful Serenity",
+      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
+    },
+    {
+      "album": {
+        "name": "Summer Hibernation",
+        "url": "https://open.spotify.com/album/1fEc95TyHR3Krn0hmigMmf"
+      },
+      "artists": [
+        {
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186408,
+      "name": "Summer Hibernation",
+      "url": "https://open.spotify.com/track/69xIKC9AS1D5BXBXIun0Rb"
+    },
+    {
+      "album": {
+        "name": "Sunrise Wave",
+        "url": "https://open.spotify.com/album/6EyvIKH2rr6umpHpbe4Lso"
+      },
+      "artists": [
+        {
+          "name": "Forrest Gomez",
+          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Sunrise Wave",
+      "url": "https://open.spotify.com/track/3fgKG6Zl8L7dFIThSlHfbY"
+    },
+    {
+      "album": {
+        "name": "S\u00e1lmur (Sound Bath)",
+        "url": "https://open.spotify.com/album/0ouaxJpx3JvdUdMkjKbZFM"
+      },
+      "artists": [
+        {
+          "name": "Arn\u00f3r",
+          "url": "https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "S\u00e1lmur (Sound Bath)",
+      "url": "https://open.spotify.com/track/5KASAZ937O4CSKQ3hYAMaB"
+    },
+    {
+      "album": {
+        "name": "Taigh An Locha",
+        "url": "https://open.spotify.com/album/6f7sk0ebjs0GOJZm6WRse1"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Taigh An Locha",
+      "url": "https://open.spotify.com/track/4Fissa3zt57IqW1m5Db7bq"
+    },
+    {
+      "album": {
+        "name": "The North Sea",
+        "url": "https://open.spotify.com/album/7CBWzwXLxmfXco1i9Kza09"
+      },
+      "artists": [
+        {
+          "name": "Tundriunas",
+          "url": "https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "The North Sea",
+      "url": "https://open.spotify.com/track/5kR1w0nEgRVJi28Y3v445V"
+    },
+    {
+      "album": {
+        "name": "Calming Waves",
+        "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
+      },
+      "artists": [
+        {
+          "name": "Castillo Indigo",
+          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190977,
+      "name": "The Shining Sea",
+      "url": "https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl"
+    },
+    {
+      "album": {
+        "name": "The Tower of Embellion",
+        "url": "https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188584,
+      "name": "The Tower of Embellion",
+      "url": "https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e4umend (Sound Bath)",
+        "url": "https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS"
+      },
+      "artists": [
+        {
+          "name": "Kaspar Hahn",
+          "url": "https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 137810,
+      "name": "Tr\u00e4umend (Sound Bath)",
+      "url": "https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo"
+    },
+    {
+      "album": {
+        "name": "Vakandi (Sound Bath)",
+        "url": "https://open.spotify.com/album/0PppRLpAnKS1i8o9Ie8GzV"
+      },
+      "artists": [
+        {
+          "name": "Toninn",
+          "url": "https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150422,
+      "name": "Vakandi (Sound Bath)",
+      "url": "https://open.spotify.com/track/1cipDwJ3Ck65zMWqpaC1Zn"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ"
+      },
+      "artists": [
+        {
+          "name": "Crystallinum",
+          "url": "https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Venus Beach",
+      "url": "https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj"
+    },
+    {
+      "album": {
+        "name": "Walk Along The Ocean",
+        "url": "https://open.spotify.com/album/28ODbPuwRuIQr5RZOL3GFp"
+      },
+      "artists": [
+        {
+          "name": "Esmay Gouin",
+          "url": "https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Walk Along The Ocean",
+      "url": "https://open.spotify.com/track/5ABusCPxzgAShqK5wkInOo"
+    },
+    {
+      "album": {
+        "name": "Warm Sandy Beaches",
+        "url": "https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Warm Sandy Beaches",
+      "url": "https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX"
+    },
+    {
+      "album": {
+        "name": "Wavelines",
+        "url": "https://open.spotify.com/album/3sftADZhlTICCQvNkAHNtL"
+      },
+      "artists": [
+        {
+          "name": "Sangenjaya",
+          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148624,
+      "name": "Wavelines",
+      "url": "https://open.spotify.com/track/6lPugXizncPT4QTQWU9v4j"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182361,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+    },
+    {
+      "album": {
+        "name": "Waves of Daelbata",
+        "url": "https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb"
+      },
+      "artists": [
+        {
+          "name": "Eryone",
+          "url": "https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168336,
+      "name": "Waves of Daelbata",
+      "url": "https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH"
+    },
+    {
+      "album": {
+        "name": "Wellness",
+        "url": "https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f"
+      },
+      "artists": [
+        {
+          "name": "Yuio Zah",
+          "url": "https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Wellness",
+      "url": "https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs"
+    },
+    {
+      "album": {
+        "name": "Zen (Sound Bath)",
+        "url": "https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT"
+      },
+      "artists": [
+        {
+          "name": "Ghost Of Summer",
+          "url": "https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "Zen (Sound Bath)",
+      "url": "https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcECZl1cQzi5"
 }

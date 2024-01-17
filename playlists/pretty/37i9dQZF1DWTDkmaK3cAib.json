@@ -1,6 +1,6 @@
 {
   "description": "let's get it on",
-  "num_followers": 43001,
+  "num_followers": 43438,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193456,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
         "name": "No digas nada",
         "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
       },
@@ -227,26 +247,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193456,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC"
       },
@@ -259,22 +259,6 @@
       "duration_ms": 312000,
       "name": "Lo Que Siento",
       "url": "https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 164810,
-      "name": "Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -295,6 +279,22 @@
       "duration_ms": 165880,
       "name": "Le Pido a DIOS",
       "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 164810,
+      "name": "Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 193435,
-      "name": "Cuando Me Acerco A Ti",
-      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 206611,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 193435,
+      "name": "Cuando Me Acerco A Ti",
+      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/58EM1w815O5XZGWSF7DUCf"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
         "name": "fue mejor (feat. SZA)",
         "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
       },
@@ -591,46 +607,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "E.VAX",
-          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
-        }
-      ],
-      "duration_ms": 196701,
-      "name": "11 Y ONCE",
-      "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "LEJOS DEL CIELO",
-      "url": "https://open.spotify.com/track/58EM1w815O5XZGWSF7DUCf"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -663,6 +639,30 @@
       "duration_ms": 248485,
       "name": "Besame Sin Sentir",
       "url": "https://open.spotify.com/track/0ssrK9S67e9ZGmL9joKWLn"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "E.VAX",
+          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
+        }
+      ],
+      "duration_ms": 196701,
+      "name": "11 Y ONCE",
+      "url": "https://open.spotify.com/track/0DwVNspGmrWAWFnbjMa2FZ"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -711,6 +711,38 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 187481,
+      "name": "Rimas Pa' Seducir",
+      "url": "https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 248687,
+      "name": "La Mujer Que Bota Fuego",
+      "url": "https://open.spotify.com/track/236RkCUAucOj7QXfeVWOfA"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -727,26 +759,6 @@
       "duration_ms": 196426,
       "name": "PROMESA",
       "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "me jodi...",
-      "url": "https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -779,38 +791,6 @@
       "duration_ms": 194233,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/4KM3EegQxVIvcihTEjPdRf"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 187481,
-      "name": "Rimas Pa' Seducir",
-      "url": "https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 248687,
-      "name": "La Mujer Que Bota Fuego",
-      "url": "https://open.spotify.com/track/236RkCUAucOj7QXfeVWOfA"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -855,6 +835,46 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "me jodi...",
+      "url": "https://open.spotify.com/track/4trfOyEYrf0Ezx8LUDogU1"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "18+1",
+      "url": "https://open.spotify.com/track/5rxzvuFvtIVFWSSte40IFe"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
         "name": "Ukiyo",
         "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
       },
@@ -887,22 +907,18 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 181040,
-      "name": "18+1",
-      "url": "https://open.spotify.com/track/5rxzvuFvtIVFWSSte40IFe"
+      "duration_ms": 296618,
+      "name": "Para Estar",
+      "url": "https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -943,34 +959,18 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Malib\u00fa",
-        "url": "https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz"
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Malib\u00fa",
-      "url": "https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 296618,
-      "name": "Para Estar",
-      "url": "https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV"
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -991,34 +991,18 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+        "name": "Malib\u00fa",
+        "url": "https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 198973,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
+      "duration_ms": 220400,
+      "name": "Malib\u00fa",
+      "url": "https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1035,6 +1019,22 @@
       "duration_ms": 207335,
       "name": "No Me Sueltes M\u00e1s",
       "url": "https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
+        "name": "Versos de Placer",
+        "url": "https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "Versos de Placer",
+      "url": "https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 161889,
       "name": "LQTQH",
       "url": "https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "Versos de Placer",
-        "url": "https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 168095,
-      "name": "Versos de Placer",
-      "url": "https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 160340,
-      "name": "Religiosa",
-      "url": "https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -1251,26 +1235,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "No Fue",
-        "url": "https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 195844,
-      "name": "No Fue",
-      "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM"
       },
@@ -1287,6 +1251,42 @@
       "duration_ms": 174303,
       "name": "Aire",
       "url": "https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 160340,
+      "name": "Religiosa",
+      "url": "https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "No Fue",
+        "url": "https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 195844,
+      "name": "No Fue",
+      "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
     },
     {
       "added_at": "2023-12-12 22:35:32",

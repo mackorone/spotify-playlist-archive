@@ -1,577 +1,2113 @@
 {
-  "2022-06-02": 27610,
-  "2022-06-03": 27622,
-  "2022-06-04": 27637,
-  "2022-06-05": 27657,
-  "2022-06-06": 27667,
-  "2022-06-07": 27674,
-  "2022-06-08": 27694,
-  "2022-06-09": 27702,
-  "2022-06-10": 27711,
-  "2022-06-11": 27730,
-  "2022-06-12": 27748,
-  "2022-06-13": 27763,
-  "2022-06-14": 27768,
-  "2022-06-15": 27784,
-  "2022-06-16": 27791,
-  "2022-06-17": 27807,
-  "2022-06-18": 27830,
-  "2022-06-19": 27865,
-  "2022-06-20": 27865,
-  "2022-06-21": 27880,
-  "2022-06-22": 27903,
-  "2022-06-23": 27903,
-  "2022-06-24": 27917,
-  "2022-06-25": 27938,
-  "2022-06-26": 27961,
-  "2022-06-27": 27970,
-  "2022-06-28": 27983,
-  "2022-06-29": 27992,
-  "2022-06-30": 28010,
-  "2022-07-01": 28024,
-  "2022-07-02": 28034,
-  "2022-07-03": 28057,
-  "2022-07-04": 28074,
-  "2022-07-05": 28074,
-  "2022-07-06": 28074,
-  "2022-07-07": 28111,
-  "2022-07-08": 28123,
-  "2022-07-09": 28151,
-  "2022-07-10": 28170,
-  "2022-07-11": 28182,
-  "2022-07-12": 28192,
-  "2022-07-13": 28212,
-  "2022-07-14": 28233,
-  "2022-07-15": 28254,
-  "2022-07-16": 28281,
-  "2022-07-17": 28302,
-  "2022-07-18": 28316,
-  "2022-07-19": 28331,
-  "2022-07-20": 28346,
-  "2022-07-21": 28362,
-  "2022-07-22": 28388,
-  "2022-07-23": 28405,
-  "2022-07-24": 28436,
-  "2022-07-25": 28458,
-  "2022-07-26": 28486,
-  "2022-07-27": 28505,
-  "2022-07-28": 28529,
-  "2022-07-29": 28551,
-  "2022-07-30": 28594,
-  "2022-07-31": 28594,
-  "2022-08-01": 28615,
-  "2022-08-02": 28647,
-  "2022-08-03": 28647,
-  "2022-08-04": 28658,
-  "2022-08-05": 28683,
-  "2022-08-06": 28713,
-  "2022-08-07": 28729,
-  "2022-08-08": 28735,
-  "2022-08-09": 28755,
-  "2022-08-10": 28767,
-  "2022-08-11": 28786,
-  "2022-08-12": 28801,
-  "2022-08-13": 28816,
-  "2022-08-14": 28835,
-  "2022-08-15": 28853,
-  "2022-08-16": 28874,
-  "2022-08-17": 28892,
-  "2022-08-18": 28907,
-  "2022-08-19": 28927,
-  "2022-08-20": 28942,
-  "2022-08-21": 28964,
-  "2022-08-22": 28978,
-  "2022-08-23": 29002,
-  "2022-08-24": 29012,
-  "2022-08-25": 29033,
-  "2022-08-26": 29053,
-  "2022-08-27": 29073,
-  "2022-08-28": 29082,
-  "2022-08-29": 29097,
-  "2022-08-30": 29124,
-  "2022-08-31": 29147,
-  "2022-09-01": 29177,
-  "2022-09-02": 29203,
-  "2022-09-03": 29226,
-  "2022-09-04": 29247,
-  "2022-09-05": 29266,
-  "2022-09-06": 29280,
-  "2022-09-07": 29304,
-  "2022-09-09": 29353,
-  "2022-09-10": 29379,
-  "2022-09-11": 29406,
-  "2022-09-12": 29428,
-  "2022-09-13": 29451,
-  "2022-09-15": 29498,
-  "2022-09-16": 29534,
-  "2022-09-17": 29557,
-  "2022-09-18": 29584,
-  "2022-09-19": 29609,
-  "2022-09-20": 29625,
-  "2022-09-21": 29649,
-  "2022-09-22": 29663,
-  "2022-09-23": 29686,
-  "2022-09-24": 29686,
-  "2022-09-25": 29721,
-  "2022-09-26": 29748,
-  "2022-09-27": 29756,
-  "2022-09-28": 29775,
-  "2022-09-29": 29799,
-  "2022-09-30": 29816,
-  "2022-10-01": 29828,
-  "2022-10-02": 29852,
-  "2022-10-03": 29865,
-  "2022-10-04": 29883,
-  "2022-10-05": 29896,
-  "2022-10-06": 29911,
-  "2022-10-07": 29933,
-  "2022-10-08": 29950,
-  "2022-10-09": 29985,
-  "2022-10-10": 29985,
-  "2022-10-11": 30002,
-  "2022-10-12": 30015,
-  "2022-10-13": 30019,
-  "2022-10-14": 30036,
-  "2022-10-15": 30052,
-  "2022-10-16": 30062,
-  "2022-10-17": 30079,
-  "2022-10-18": 30090,
-  "2022-10-19": 30111,
-  "2022-10-20": 30129,
-  "2022-10-21": 30151,
-  "2022-10-22": 30166,
-  "2022-10-23": 30186,
-  "2022-10-24": 30205,
-  "2022-10-25": 30221,
-  "2022-10-26": 30237,
-  "2022-10-27": 30256,
-  "2022-10-28": 30272,
-  "2022-10-29": 30293,
-  "2022-10-30": 30314,
-  "2022-10-31": 30331,
-  "2022-11-01": 30350,
-  "2022-11-02": 30367,
-  "2022-11-03": 30386,
-  "2022-11-04": 30406,
-  "2022-11-05": 30423,
-  "2022-11-06": 30448,
-  "2022-11-07": 30467,
-  "2022-11-08": 30478,
-  "2022-11-09": 30497,
-  "2022-11-10": 30517,
-  "2022-11-11": 30537,
-  "2022-11-12": 30566,
-  "2022-11-13": 30575,
-  "2022-11-14": 30592,
-  "2022-11-15": 30622,
-  "2022-11-16": 30655,
-  "2022-11-17": 30676,
-  "2022-11-18": 30694,
-  "2022-11-19": 30707,
-  "2022-11-20": 30744,
-  "2022-11-21": 30780,
-  "2022-11-22": 30808,
-  "2022-11-23": 30837,
-  "2022-11-24": 30878,
-  "2022-11-25": 30912,
-  "2022-11-26": 30937,
-  "2022-11-27": 30953,
-  "2022-11-28": 30971,
-  "2022-11-29": 30981,
-  "2022-11-30": 30996,
-  "2022-12-01": 31010,
-  "2022-12-02": 31018,
-  "2022-12-03": 31050,
-  "2022-12-04": 31071,
-  "2022-12-05": 31090,
-  "2022-12-06": 31111,
-  "2022-12-07": 31127,
-  "2022-12-08": 31154,
-  "2022-12-09": 31176,
-  "2022-12-10": 31199,
-  "2022-12-11": 31214,
-  "2022-12-12": 31232,
-  "2022-12-13": 31248,
-  "2022-12-14": 31265,
-  "2022-12-15": 31286,
-  "2022-12-16": 31313,
-  "2022-12-17": 31326,
-  "2022-12-18": 31345,
-  "2022-12-19": 31368,
-  "2022-12-20": 31404,
-  "2022-12-21": 31404,
-  "2022-12-22": 31418,
-  "2022-12-24": 31458,
-  "2022-12-25": 31490,
-  "2022-12-26": 31505,
-  "2022-12-27": 31521,
-  "2022-12-28": 31533,
-  "2022-12-29": 31555,
-  "2022-12-30": 31580,
-  "2022-12-31": 31608,
-  "2023-01-01": 31626,
-  "2023-01-02": 31638,
-  "2023-01-03": 31656,
-  "2023-01-04": 31671,
-  "2023-01-05": 31696,
-  "2023-01-06": 31720,
-  "2023-01-07": 31752,
-  "2023-01-08": 31755,
-  "2023-01-09": 31775,
-  "2023-01-10": 31790,
-  "2023-01-11": 31815,
-  "2023-01-12": 31835,
-  "2023-01-13": 31849,
-  "2023-01-14": 31889,
-  "2023-01-15": 31894,
-  "2023-01-16": 31913,
-  "2023-01-17": 31926,
-  "2023-01-18": 31945,
-  "2023-01-19": 31959,
-  "2023-01-20": 31983,
-  "2023-01-21": 32002,
-  "2023-01-22": 32026,
-  "2023-01-23": 32050,
-  "2023-01-24": 32074,
-  "2023-01-25": 32088,
-  "2023-01-26": 32116,
-  "2023-01-27": 32131,
-  "2023-01-28": 32143,
-  "2023-01-29": 32161,
-  "2023-01-30": 32176,
-  "2023-01-31": 32176,
-  "2023-02-01": 32206,
-  "2023-02-02": 32224,
-  "2023-02-03": 32247,
-  "2023-02-04": 32263,
-  "2023-02-05": 32280,
-  "2023-02-06": 32299,
-  "2023-02-07": 32310,
-  "2023-02-08": 32341,
-  "2023-02-09": 32341,
-  "2023-02-10": 32350,
-  "2023-02-11": 32365,
-  "2023-02-12": 32401,
-  "2023-02-13": 32416,
-  "2023-02-14": 32416,
-  "2023-02-15": 32428,
-  "2023-02-16": 32451,
-  "2023-02-17": 32465,
-  "2023-02-18": 32502,
-  "2023-02-19": 32511,
-  "2023-02-20": 32520,
-  "2023-02-21": 32530,
-  "2023-02-22": 32549,
-  "2023-02-23": 32559,
-  "2023-02-24": 32584,
-  "2023-02-25": 32608,
-  "2023-02-26": 32620,
-  "2023-02-27": 32651,
-  "2023-02-28": 32651,
-  "2023-03-01": 32671,
-  "2023-03-02": 32680,
-  "2023-03-03": 32700,
-  "2023-03-04": 32715,
-  "2023-03-05": 32751,
-  "2023-03-06": 32751,
-  "2023-03-07": 32756,
-  "2023-03-08": 32767,
-  "2023-03-09": 32783,
-  "2023-03-10": 32792,
-  "2023-03-11": 32810,
-  "2023-03-12": 32830,
-  "2023-03-13": 32836,
-  "2023-03-14": 32849,
-  "2023-03-15": 32870,
-  "2023-03-16": 32870,
-  "2023-03-17": 32870,
-  "2023-03-18": 32910,
-  "2023-03-19": 32910,
-  "2023-03-20": 32941,
-  "2023-03-21": 32948,
-  "2023-03-22": 32965,
-  "2023-03-23": 32985,
-  "2023-03-24": 32985,
-  "2023-03-25": 33021,
-  "2023-03-26": 33050,
-  "2023-03-27": 33056,
-  "2023-03-28": 33071,
-  "2023-03-29": 33094,
-  "2023-03-30": 33123,
-  "2023-03-31": 33123,
-  "2023-04-01": 33138,
-  "2023-04-02": 33156,
-  "2023-04-03": 33165,
-  "2023-04-04": 33181,
-  "2023-04-05": 33197,
-  "2023-04-06": 33213,
-  "2023-04-07": 33229,
-  "2023-04-09": 33254,
-  "2023-04-10": 33270,
-  "2023-04-11": 33281,
-  "2023-04-12": 33281,
-  "2023-04-13": 33301,
-  "2023-04-14": 33320,
-  "2023-04-15": 33331,
-  "2023-04-16": 33334,
-  "2023-04-17": 33349,
-  "2023-04-18": 33365,
-  "2023-04-19": 33382,
-  "2023-04-20": 33392,
-  "2023-04-21": 33416,
-  "2023-04-22": 33437,
-  "2023-04-23": 33457,
-  "2023-04-24": 33474,
-  "2023-04-25": 33493,
-  "2023-04-26": 33499,
-  "2023-04-27": 33514,
-  "2023-04-28": 33526,
-  "2023-04-29": 33544,
-  "2023-04-30": 33562,
-  "2023-05-01": 33574,
-  "2023-05-02": 33579,
-  "2023-05-03": 33602,
-  "2023-05-04": 33624,
-  "2023-05-05": 33631,
-  "2023-05-06": 33649,
-  "2023-05-07": 33673,
-  "2023-05-08": 33691,
-  "2023-05-09": 33699,
-  "2023-05-10": 33725,
-  "2023-05-11": 33749,
-  "2023-05-12": 33765,
-  "2023-05-13": 33791,
-  "2023-05-14": 33816,
-  "2023-05-15": 33832,
-  "2023-05-16": 33849,
-  "2023-05-17": 33865,
-  "2023-05-18": 33883,
-  "2023-05-19": 33888,
-  "2023-05-20": 33919,
-  "2023-05-21": 33919,
-  "2023-05-22": 33919,
-  "2023-05-23": 33943,
-  "2023-05-24": 33970,
-  "2023-05-25": 33983,
-  "2023-05-26": 34007,
-  "2023-05-27": 34034,
-  "2023-05-28": 34050,
-  "2023-05-29": 34050,
-  "2023-05-30": 34071,
-  "2023-05-31": 34086,
-  "2023-06-01": 34101,
-  "2023-06-02": 34114,
-  "2023-06-03": 34129,
-  "2023-06-04": 34149,
-  "2023-06-05": 34169,
-  "2023-06-06": 34183,
-  "2023-06-07": 34203,
-  "2023-06-08": 34226,
-  "2023-06-09": 34246,
-  "2023-06-10": 34268,
-  "2023-06-11": 34294,
-  "2023-06-12": 34314,
-  "2023-06-13": 34326,
-  "2023-06-14": 34326,
-  "2023-06-15": 34355,
-  "2023-06-16": 34375,
-  "2023-06-17": 34401,
-  "2023-06-18": 34416,
-  "2023-06-19": 34438,
-  "2023-06-20": 34455,
-  "2023-06-21": 34471,
-  "2023-06-22": 34484,
-  "2023-06-23": 34504,
-  "2023-06-24": 34523,
-  "2023-06-25": 34547,
-  "2023-06-26": 34557,
-  "2023-06-27": 34574,
-  "2023-06-28": 34588,
-  "2023-06-29": 34605,
-  "2023-06-30": 34615,
-  "2023-07-01": 34653,
-  "2023-07-02": 34653,
-  "2023-07-03": 34665,
-  "2023-07-04": 34679,
-  "2023-07-05": 34702,
-  "2023-07-06": 34729,
-  "2023-07-07": 34729,
-  "2023-07-08": 34738,
-  "2023-07-09": 34749,
-  "2023-07-10": 34765,
-  "2023-07-11": 34778,
-  "2023-07-12": 34805,
-  "2023-07-13": 34822,
-  "2023-07-14": 34831,
-  "2023-07-15": 34842,
-  "2023-07-16": 34867,
-  "2023-07-17": 34897,
-  "2023-07-18": 34910,
-  "2023-07-19": 34917,
-  "2023-07-20": 34937,
-  "2023-07-21": 34957,
-  "2023-07-22": 34970,
-  "2023-07-23": 34989,
-  "2023-07-24": 34998,
-  "2023-07-25": 35020,
-  "2023-07-26": 35031,
-  "2023-07-27": 35049,
-  "2023-07-28": 35078,
-  "2023-07-29": 35101,
-  "2023-07-30": 35109,
-  "2023-07-31": 35120,
-  "2023-08-01": 35132,
-  "2023-08-02": 35146,
-  "2023-08-03": 35167,
-  "2023-08-04": 35192,
-  "2023-08-05": 35213,
-  "2023-08-06": 35261,
-  "2023-08-07": 35261,
-  "2023-08-08": 35270,
-  "2023-08-09": 35279,
-  "2023-08-10": 35300,
-  "2023-08-11": 35321,
-  "2023-08-12": 35321,
-  "2023-08-13": 35321,
-  "2023-08-14": 35363,
-  "2023-08-15": 35363,
-  "2023-08-16": 35363,
-  "2023-08-17": 35426,
-  "2023-08-18": 35426,
-  "2023-08-19": 35426,
-  "2023-08-20": 35497,
-  "2023-08-21": 35497,
-  "2023-08-22": 35530,
-  "2023-08-23": 35530,
-  "2023-08-24": 35530,
-  "2023-08-25": 35530,
-  "2023-08-26": 35612,
-  "2023-08-27": 35612,
-  "2023-08-28": 35659,
-  "2023-08-29": 35659,
-  "2023-08-30": 35659,
-  "2023-08-31": 35704,
-  "2023-09-01": 35723,
-  "2023-09-02": 35723,
-  "2023-09-03": 35762,
-  "2023-09-04": 35762,
-  "2023-09-05": 35762,
-  "2023-09-06": 35804,
-  "2023-09-07": 35804,
-  "2023-09-08": 35804,
-  "2023-09-09": 35804,
-  "2023-09-10": 35879,
-  "2023-09-11": 35879,
-  "2023-09-12": 35879,
-  "2023-09-13": 35941,
-  "2023-09-14": 35941,
-  "2023-09-15": 35941,
-  "2023-09-16": 35999,
-  "2023-09-17": 35999,
-  "2023-09-18": 35999,
-  "2023-09-19": 36030,
-  "2023-09-20": 36030,
-  "2023-09-21": 36030,
-  "2023-09-22": 36063,
-  "2023-09-23": 36063,
-  "2023-09-24": 36063,
-  "2023-09-25": 36063,
-  "2023-09-26": 36134,
-  "2023-09-27": 36134,
-  "2023-09-28": 36134,
-  "2023-09-29": 36134,
-  "2023-09-30": 36134,
-  "2023-10-01": 36134,
-  "2023-10-02": 36206,
-  "2023-10-03": 36206,
-  "2023-10-04": 36206,
-  "2023-10-05": 36259,
-  "2023-10-06": 36259,
-  "2023-10-07": 36259,
-  "2023-10-08": 36259,
-  "2023-10-09": 36259,
-  "2023-10-10": 36259,
-  "2023-10-11": 36336,
-  "2023-10-12": 36336,
-  "2023-10-13": 36336,
-  "2023-10-14": 36336,
-  "2023-10-15": 36336,
-  "2023-10-16": 36336,
-  "2023-10-17": 36336,
-  "2023-10-18": 36336,
-  "2023-10-19": 36336,
-  "2023-10-20": 36336,
-  "2023-10-21": 36336,
-  "2023-10-22": 36336,
-  "2023-10-23": 36336,
-  "2023-10-24": 36336,
-  "2023-10-25": 36336,
-  "2023-10-26": 36336,
-  "2023-10-27": 36336,
-  "2023-10-28": 36336,
-  "2023-10-29": 36336,
-  "2023-10-30": 36336,
-  "2023-10-31": 36336,
-  "2023-11-01": 36336,
-  "2023-11-02": 36336,
-  "2023-11-03": 36336,
-  "2023-11-04": 36336,
-  "2023-11-05": 36336,
-  "2023-11-06": 36336,
-  "2023-11-07": 36336,
-  "2023-11-08": 36336,
-  "2023-11-09": 36336,
-  "2023-11-10": 36336,
-  "2023-11-11": 36880,
-  "2023-11-12": 36880,
-  "2023-11-13": 36880,
-  "2023-11-14": 36880,
-  "2023-11-15": 36880,
-  "2023-11-16": 36880,
-  "2023-11-17": 36880,
-  "2023-11-18": 36880,
-  "2023-11-19": 36880,
-  "2023-11-20": 36880,
-  "2023-11-21": 36880,
-  "2023-11-22": 36880,
-  "2023-11-23": 36880,
-  "2023-11-24": 36880,
-  "2023-11-25": 36880,
-  "2023-11-26": 36880,
-  "2023-11-27": 36880,
-  "2023-11-28": 36880,
-  "2023-11-29": 36880,
-  "2023-11-30": 36880,
-  "2023-12-01": 36880,
-  "2023-12-02": 36880,
-  "2023-12-03": 36880,
-  "2023-12-04": 36880,
-  "2023-12-05": 36880,
-  "2023-12-06": 36880,
-  "2023-12-07": 36880,
-  "2023-12-08": 36880,
-  "2023-12-09": 36880,
-  "2023-12-10": 36880,
-  "2023-12-11": 36880,
-  "2023-12-12": 36880,
-  "2023-12-13": 36880,
-  "2023-12-14": 37373,
-  "2023-12-15": 37381,
-  "2023-12-16": 37394,
-  "2023-12-17": 37411,
-  "2023-12-18": 37414,
-  "2023-12-19": 37417,
-  "2023-12-20": 37427,
-  "2023-12-21": 37440,
-  "2023-12-22": 37451,
-  "2023-12-23": 37465,
-  "2023-12-24": 37473,
-  "2023-12-25": 37488,
-  "2023-12-26": 37500,
-  "2023-12-27": 37504,
-  "2023-12-30": 37532,
-  "2023-12-31": 37547,
-  "2024-01-01": 37566,
-  "2024-01-02": 37572,
-  "2024-01-03": 37586
+  "2024-01-17": 37529,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
+  "name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sangre Caliente",
+        "url": "https://open.spotify.com/album/68uVtFPGu8zglJSVhJ2s1M"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 169093,
+      "name": "A Poco No",
+      "url": "https://open.spotify.com/track/5Wv9ZVPoGsfwKo09t4iz5a"
+    },
+    {
+      "album": {
+        "name": "40 A\u00f1os, Pese A Quien Pese",
+        "url": "https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "Abeja Reina",
+      "url": "https://open.spotify.com/track/521dnbUMvNsL38KZq4NN22"
+    },
+    {
+      "album": {
+        "name": "Soy Tu Maestro (\"45 Aniversario\" - Version Mexico)",
+        "url": "https://open.spotify.com/album/4um9670JOh3rRlgsrgKTCW"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182986,
+      "name": "Al Menos",
+      "url": "https://open.spotify.com/track/5UnH0S2TSLUy8WyqgJXOQ3"
+    },
+    {
+      "album": {
+        "name": "De Aqu\u00ed Pal Real",
+        "url": "https://open.spotify.com/album/6XUS7DX5FZD6gGN2uaCdVk"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "Algo Oficial",
+      "url": "https://open.spotify.com/track/4GuQY57gbi7DEgc2AJoyBh"
+    },
+    {
+      "album": {
+        "name": "De Aqu\u00ed Pa'l Real",
+        "url": "https://open.spotify.com/album/4q5mIDBPpfcIM3piHbYJG2"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 183933,
+      "name": "Algo Oficial",
+      "url": "https://open.spotify.com/track/5TuRecHi9e3bFILTwRok97"
+    },
+    {
+      "album": {
+        "name": "40 A\u00f1os, Pese A Quien Pese",
+        "url": "https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 157186,
+      "name": "Angel De La Noche",
+      "url": "https://open.spotify.com/track/2SFPShG14Uk73oHPgNDaBK"
+    },
+    {
+      "album": {
+        "name": "Bendito Destino",
+        "url": "https://open.spotify.com/album/1qTfZSwtJ0U8kLDUGSvCuH"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 172842,
+      "name": "Bendito Destino",
+      "url": "https://open.spotify.com/track/61dvkuoxkU2jmWZChXcKp5"
+    },
+    {
+      "album": {
+        "name": "Con Sabor A Lim\u00f3n, Volumen 2",
+        "url": "https://open.spotify.com/album/75eFixvrDXcxe1BLKOfLwG"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 167133,
+      "name": "Besos Y Cerezas",
+      "url": "https://open.spotify.com/track/7a21PMHaImzKLNbsbyILuf"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n A Mi Pap\u00e1",
+        "url": "https://open.spotify.com/album/7vRddwntQQ0bBBzreNKmFL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 163143,
+      "name": "Canci\u00f3n A Mi Pap\u00e1",
+      "url": "https://open.spotify.com/track/0Ec1rgYW7VMIhSDIxoa5Di"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n a Mi Pap\u00e1",
+        "url": "https://open.spotify.com/album/4z8gWLTm7PUf8CmnLQ1pca"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 163143,
+      "name": "Canci\u00f3n a Mi Pap\u00e1",
+      "url": "https://open.spotify.com/track/1yD07nDoSftuK04VdN1VXD"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125066,
+      "name": "Cien Mil Veces",
+      "url": "https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S"
+    },
+    {
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 217213,
+      "name": "Como Si No Fuimos Nada",
+      "url": "https://open.spotify.com/track/2BJlcaqAhnaTEmXPaQWaMe"
+    },
+    {
+      "album": {
+        "name": "Como Si No Fuimos Nada",
+        "url": "https://open.spotify.com/album/7FbALC5f5pRWB0btE0RqVQ"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 217213,
+      "name": "Como Si No Fuimos Nada",
+      "url": "https://open.spotify.com/track/4eSS6zVAfDwVchQYuZ8B7r"
+    },
+    {
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 182280,
+      "name": "Cuantas Borracheras",
+      "url": "https://open.spotify.com/track/2EagmrVEVsJr1xImVl6XiK"
+    },
+    {
+      "album": {
+        "name": "Derecho De Antiguedad",
+        "url": "https://open.spotify.com/album/0s8ImVdy8zLd19wySRzk1s"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "Derecho De Antig\u00fcedad",
+      "url": "https://open.spotify.com/track/15KNGMJFNAaZUq7qNmuKJU"
+    },
+    {
+      "album": {
+        "name": "El Primer Lugar",
+        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Di Que Regresar\u00e1s",
+      "url": "https://open.spotify.com/track/7dPxocEuvcOA0YC7woHPvu"
+    },
+    {
+      "album": {
+        "name": "Diamante Negro",
+        "url": "https://open.spotify.com/album/5kxWakS53bUY1Ee3ZVMNo0"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 206875,
+      "name": "Diamante Negro",
+      "url": "https://open.spotify.com/track/2Oiw6YkJgH8bEVR19YDdwL"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Original Que Nunca",
+        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173546,
+      "name": "Dos Gotas de Agua",
+      "url": "https://open.spotify.com/track/5y9jffhDLOKtHBdEMVm0Ss"
+    },
+    {
+      "album": {
+        "name": "Dos Gotas De Agua",
+        "url": "https://open.spotify.com/album/7yEy8rEkjEDUjb8xUHLt59"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 178189,
+      "name": "Dos Gotas De Agua",
+      "url": "https://open.spotify.com/track/1pQFw81rRvhmkxkC9ntDeq"
+    },
+    {
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170586,
+      "name": "El 24 de Junio",
+      "url": "https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Original Que Nunca",
+        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132960,
+      "name": "El Abandonado",
+      "url": "https://open.spotify.com/track/6DaZrI8CJueK9v607LjEWh"
+    },
+    {
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 188693,
+      "name": "El Balido de Mi Ganado",
+      "url": "https://open.spotify.com/track/5wEH0WguIFC6gbBcLzhHLE"
+    },
+    {
+      "album": {
+        "name": "El Camale\u00f3n",
+        "url": "https://open.spotify.com/album/3Z6UXc4IMKuTBfJeBjWoM2"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 170541,
+      "name": "El Camale\u00f3n",
+      "url": "https://open.spotify.com/track/4dmVjDzryo2ybwFZhUb1bS"
+    },
+    {
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187324,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h"
+    },
+    {
+      "album": {
+        "name": "El Primer Lugar",
+        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278453,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
+    },
+    {
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 210666,
+      "name": "El Gato Negro",
+      "url": "https://open.spotify.com/track/7qQNloY3tLiCjjuXOMhA9O"
+    },
+    {
+      "album": {
+        "name": "El Jabal\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/7qa37ksFrIY02MNKdmNj8E"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 191333,
+      "name": "El Jabal\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6nweqeaCzAuZkEr2Lm9EMg"
+    },
+    {
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213680,
+      "name": "El Leon de la Sierra",
+      "url": "https://open.spotify.com/track/3Fkxdlxm9VJ2gA4tiZOYn5"
+    },
+    {
+      "album": {
+        "name": "El Mayor de Mis Antojos",
+        "url": "https://open.spotify.com/album/1MMHNFKunsbtbGc0NLTxEN"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 160573,
+      "name": "El Mayor de Mis Antojos",
+      "url": "https://open.spotify.com/track/6WwXpk0swxMzlbgUrUEHeY"
+    },
+    {
+      "album": {
+        "name": "El Primer Lugar",
+        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153666,
+      "name": "El Mejor Perfume",
+      "url": "https://open.spotify.com/track/31DmTztbIIsv6wSE93S4fZ"
+    },
+    {
+      "album": {
+        "name": "El Pobre M\u00e1s Rico",
+        "url": "https://open.spotify.com/album/5tygqHF9BjHXy6GaSY5k0W"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 189000,
+      "name": "El Pobre M\u00e1s Rico",
+      "url": "https://open.spotify.com/track/2pzhTUKlKIQRVW6KwfbI7P"
+    },
+    {
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131291,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
+    },
+    {
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/2NIilNsryaeleEx7xFrU3G"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 158160,
+      "name": "El Presente Es Lo Que Cuenta",
+      "url": "https://open.spotify.com/track/0JzRsfOAUnDO0Qy5ADjbHp"
+    },
+    {
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 158160,
+      "name": "El Presente Es Lo Que Cuenta",
+      "url": "https://open.spotify.com/track/4R7n9oENw1HhpcWtaCHOP3"
+    },
+    {
+      "album": {
+        "name": "El Primer Lugar",
+        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "El Primer Lugar",
+      "url": "https://open.spotify.com/track/6nGvtRw8Upm5L0tMtPcjGz"
+    },
+    {
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191961,
+      "name": "El Rengo del Gallo Giro",
+      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
+    },
+    {
+      "album": {
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191480,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/3oVS5y1oJz5MxBxN5xCUks"
+    },
+    {
+      "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-17",
+      "duration_ms": 182466,
+      "name": "Entre Perico y Perico",
+      "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"
+    },
+    {
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 150293,
+      "name": "Estas a Tiempo",
+      "url": "https://open.spotify.com/track/7m6Z1D03EmTZ9lgDfsbLeA"
+    },
+    {
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 150293,
+      "name": "Est\u00e1s a Tiempo",
+      "url": "https://open.spotify.com/track/69QsCVZ8toyrw0W6kgFbzB"
+    },
+    {
+      "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258359,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/330607uBEh09fIWqWfZFBf"
+    },
+    {
+      "album": {
+        "name": "Soy Tu Maestro (\"45 Aniversario\" - Version Mexico)",
+        "url": "https://open.spotify.com/album/4um9670JOh3rRlgsrgKTCW"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209906,
+      "name": "Fruta Madura",
+      "url": "https://open.spotify.com/track/0INnxXLdKizPJY5DeDNRgH"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Original Que Nunca",
+        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 163613,
+      "name": "Guarecita",
+      "url": "https://open.spotify.com/track/0wHFB3V27Tf7dKtZnsgy4Z"
+    },
+    {
+      "album": {
+        "name": "Soy Tu Maestro (\"45 Aniversario\" - Relanzamiento)",
+        "url": "https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "Hasta Mi \u00daltimo D\u00eda",
+      "url": "https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea"
+    },
+    {
+      "album": {
+        "name": "Hasta Mi \u00daltimo D\u00eda",
+        "url": "https://open.spotify.com/album/38bmy9zub6tulcno281oni"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Carlos Sarabia",
+          "url": "https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 154112,
+      "name": "Hasta Mi \u00daltimo D\u00eda",
+      "url": "https://open.spotify.com/track/5jcbmyy5pgayTU37rsnDld"
+    },
+    {
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Juan Martha",
+      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
+    },
+    {
+      "album": {
+        "name": "Derecho De Antig\u00fcedad",
+        "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "La Cama Destendida",
+      "url": "https://open.spotify.com/track/3IFOYkQOCSegN7A5fsfvyG"
+    },
+    {
+      "album": {
+        "name": "25 Corridos Explosivos",
+        "url": "https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187386,
+      "name": "La Ca\u00edda de un Monarca",
+      "url": "https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL"
+    },
+    {
+      "album": {
+        "name": "Para Estar a Mano",
+        "url": "https://open.spotify.com/album/1LLGxwtJvzHAGslbUrVPn8"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 151053,
+      "name": "La Chica Fresa",
+      "url": "https://open.spotify.com/track/4CLffwkFj6NNeB3i9sEBrT"
+    },
+    {
+      "album": {
+        "name": "Vida Prestada",
+        "url": "https://open.spotify.com/album/1fKskDRp3qeKDhD73tAtEO"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 187400,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/5I4Leo72ZaUpOInFHzQBFM"
+    },
+    {
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166112,
+      "name": "La Feria de San Marcos",
+      "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
+    },
+    {
+      "album": {
+        "name": "Arriba Sinaloa: Las Mejores Voces De Banda Sinaloense",
+        "url": "https://open.spotify.com/album/0KWZFuJ6Ye5QP1eHveu60F"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 226866,
+      "name": "La Original",
+      "url": "https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB"
+    },
+    {
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215720,
+      "name": "Las Dos Plebes",
+      "url": "https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM"
+    },
+    {
+      "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186053,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/1WMqXkIY78VBdOW0DlWEy3"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Original Que Nunca",
+        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192946,
+      "name": "Le\u00f1a de Pirul",
+      "url": "https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2"
+    },
+    {
+      "album": {
+        "name": "Le\u00f1a De Pirul",
+        "url": "https://open.spotify.com/album/37mhHuWvuAdM4DMz4NSdMy"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-09",
+      "duration_ms": 201831,
+      "name": "Le\u00f1a De Pirul",
+      "url": "https://open.spotify.com/track/6U6mYBBhdVnz1PiXyRLPNi"
+    },
+    {
+      "album": {
+        "name": "40 A\u00f1os, Pese A Quien Pese",
+        "url": "https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 153560,
+      "name": "Llego Su Padre",
+      "url": "https://open.spotify.com/track/21byep5M5KIo4LhFWyLZds"
+    },
+    {
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 147173,
+      "name": "Lo Que Siento por Ti",
+      "url": "https://open.spotify.com/track/3yro7uaXpkHj066YSkFaye"
+    },
+    {
+      "album": {
+        "name": "De Aqu\u00ed Pal Real",
+        "url": "https://open.spotify.com/album/6XUS7DX5FZD6gGN2uaCdVk"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 199080,
+      "name": "Lo Tienes Que Saber",
+      "url": "https://open.spotify.com/track/1tqm7TWCbPaxdEMcapBMgV"
+    },
+    {
+      "album": {
+        "name": "De Aqu\u00ed Pa'l Real",
+        "url": "https://open.spotify.com/album/4q5mIDBPpfcIM3piHbYJG2"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 199080,
+      "name": "Lo Tienes Que Saber",
+      "url": "https://open.spotify.com/track/30BPR5veZEnXoJWbIFrpbr"
+    },
+    {
+      "album": {
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Los Traficantes",
+      "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
+    },
+    {
+      "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 195893,
+      "name": "Los Vergelitos",
+      "url": "https://open.spotify.com/track/0Phhy3bUx7OcgJyacLbbAa"
+    },
+    {
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "Macario Leyva",
+      "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
+    },
+    {
+      "album": {
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239837,
+      "name": "Mayor de Edad",
+      "url": "https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU"
+    },
+    {
+      "album": {
+        "name": "El Mayor de Mis Antojos",
+        "url": "https://open.spotify.com/album/1MMHNFKunsbtbGc0NLTxEN"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 191533,
+      "name": "Ma\u00f1ana Se Lo Digo",
+      "url": "https://open.spotify.com/track/0MxxcP0LDkam6gHgFFerOX"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156293,
+      "name": "Me Ca\u00edste del Cielo",
+      "url": "https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN"
+    },
+    {
+      "album": {
+        "name": "Me Esta Doliendo el Alma",
+        "url": "https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 199950,
+      "name": "Me Esta Doliendo el Alma",
+      "url": "https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW"
+    },
+    {
+      "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154426,
+      "name": "Me Lo Contaron Ayer",
+      "url": "https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L"
+    },
+    {
+      "album": {
+        "name": "Merengue y Sentimiento",
+        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "Me Muero por Ella (Bachata) Feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga",
+      "url": "https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd"
+    },
+    {
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 186547,
+      "name": "Me Pongo en Tu Lugar",
+      "url": "https://open.spotify.com/track/6tanSQtzUgIZ8L7us6vLvz"
+    },
+    {
+      "album": {
+        "name": "El Presente Es Lo Que Cuenta",
+        "url": "https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 186547,
+      "name": "Me Pongo En Tu Lugar",
+      "url": "https://open.spotify.com/track/6xSumymUkikvGOrzXIUgVW"
+    },
+    {
+      "album": {
+        "name": "Me Pongo en Tu Lugar (En Vivo)",
+        "url": "https://open.spotify.com/album/2DTPGxkk5O9bSArdXM4lpI"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-11",
+      "duration_ms": 192083,
+      "name": "Me Pongo en Tu Lugar (En Vivo)",
+      "url": "https://open.spotify.com/track/1unucSoKiY6rNR3IM8oZHP"
+    },
+    {
+      "album": {
+        "name": "Me Sigue Doliendo",
+        "url": "https://open.spotify.com/album/1AB47h7dTdCTlO0i2GtiGi"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 227876,
+      "name": "Me Sigue Doliendo",
+      "url": "https://open.spotify.com/track/5Mqqd14WL7mmJMLESWYNtX"
+    },
+    {
+      "album": {
+        "name": "Mi Destino Es Ser Borracho",
+        "url": "https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199552,
+      "name": "Mi Destino Es Ser Borracho",
+      "url": "https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O"
+    },
+    {
+      "album": {
+        "name": "Mis 3 Animales",
+        "url": "https://open.spotify.com/album/3eE9FObDq5KK0QzSKAf2Bt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 173127,
+      "name": "Mis 3 Animales",
+      "url": "https://open.spotify.com/track/7C1XFjfirE8r7piaEagMVv"
+    },
+    {
+      "album": {
+        "name": "Puro Mazatl\u00e1n",
+        "url": "https://open.spotify.com/album/4VjgcKHDIzC7mgXvWdEu46"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 179586,
+      "name": "Negrita Eae",
+      "url": "https://open.spotify.com/track/4GhYLLUuRKMgK8oSApgAO4"
+    },
+    {
+      "album": {
+        "name": "Nos Vamos Juntos - Un Tributo A Las Canciones De Caifanes Y Jaguares",
+        "url": "https://open.spotify.com/album/2uk0BrQkXCpGFC0L4CQHVj"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 274314,
+      "name": "No Dejes Que",
+      "url": "https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo"
+    },
+    {
+      "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185946,
+      "name": "No Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/6VFi3gg9YZYt9MBa2EiRgP"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Pa'que Me Sirve la Vida",
+      "url": "https://open.spotify.com/track/7tc9bte3gaVOUv8se6zKVt"
+    },
+    {
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 205133,
+      "name": "Pacas de a Kilo",
+      "url": "https://open.spotify.com/track/3TIZ20vC3CjlkYoeLXLmPN"
+    },
+    {
+      "album": {
+        "name": "Para Ti No Tengo Un No",
+        "url": "https://open.spotify.com/album/65uS21LFiv7Cb5APOOcb7Y"
+      },
+      "artists": [
+        {
+          "name": "Edwin Garcia",
+          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "Para Ti No Tengo Un No",
+      "url": "https://open.spotify.com/track/222kIss5L0jcGN7RK9TLgv"
+    },
+    {
+      "album": {
+        "name": "Pelotero a la Bola",
+        "url": "https://open.spotify.com/album/60ImhtY4GfPH2J3gX0kCoR"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Su Majestad Mi Banda el Mexicano de Casimiro Zamudio",
+          "url": "https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
+      "duration_ms": 179777,
+      "name": "Pelotero a la Bola",
+      "url": "https://open.spotify.com/track/4tftetgzdzAkomjDyI65eK"
+    },
+    {
+      "album": {
+        "name": "Tributo a",
+        "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152213,
+      "name": "Pero Yo No Lo Conozco (feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga)",
+      "url": "https://open.spotify.com/track/7DroPZbnPTJZSZtax3swP8"
+    },
+    {
+      "album": {
+        "name": "P\u00eddeme La Luna",
+        "url": "https://open.spotify.com/album/4fo8B3ZqdrkI3lUbyCPjsp"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 187389,
+      "name": "P\u00eddeme La Luna",
+      "url": "https://open.spotify.com/track/61IAeLmwQm8trt765Xi6zu"
+    },
+    {
+      "album": {
+        "name": "Celebrando a una Leyenda (En Vivo)",
+        "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229066,
+      "name": "P\u00eddeme la Luna (En Vivo) (feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga)",
+      "url": "https://open.spotify.com/track/4zDzGZIdKG1PdvguOGET8D"
+    },
+    {
+      "album": {
+        "name": "Derecho De Antig\u00fcedad",
+        "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "Que Me Digan Loco",
+      "url": "https://open.spotify.com/track/3JOxS04XfwGxJpyKwVeWrx"
+    },
+    {
+      "album": {
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 207453,
+      "name": "Que Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/0TBBrqwC87pusube1JOiw9"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo y Lo Mejor",
+        "url": "https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-19",
+      "duration_ms": 183200,
+      "name": "Que Voy a Hacer para Olvidarte",
+      "url": "https://open.spotify.com/track/6TknakzgbpaYIJSGkm61SW"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "Qu\u00e9 Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/7woiqCtmgq3q8LZaAsP0BC"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 206623,
+      "name": "Qu\u00e9 Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/31PFQ5MxekE2pNWIxxrpar"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Voy A Hacer Para Olvidarte",
+        "url": "https://open.spotify.com/album/22M3XTilMjDgmqciYJFk5w"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 177912,
+      "name": "Qu\u00e9 Voy A Hacer Para Olvidarte",
+      "url": "https://open.spotify.com/track/04GweOJ0hUSX3URVtx0G30"
+    },
+    {
+      "album": {
+        "name": "Lo Nuevo y Lo Mejor",
+        "url": "https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Reproches al Viento",
+      "url": "https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY"
+    },
+    {
+      "album": {
+        "name": "Reproches Al Viento",
+        "url": "https://open.spotify.com/album/6Ook6mOO6gY5In5TAYS6q3"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 221414,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/2yIgZNeQVWvQAriFDf4CsI"
+    },
+    {
+      "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126120,
+      "name": "Rifar\u00e9 Mi Suerte",
+      "url": "https://open.spotify.com/track/1SrYVzqCiKywmHYYsCJ0pI"
+    },
+    {
+      "album": {
+        "name": "Medio Siglo",
+        "url": "https://open.spotify.com/album/5DWuNwCOHBE61d2owmCv1R"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231426,
+      "name": "Sal de Mi Vida",
+      "url": "https://open.spotify.com/track/2hConPP7C5qyOG069xQVKo"
+    },
+    {
+      "album": {
+        "name": "Se Me Hizo Vicio",
+        "url": "https://open.spotify.com/album/0q9YBFD8bUPkQewdsKcTVW"
+      },
+      "artists": [
+        {
+          "name": "Israel Valdez",
+          "url": "https://open.spotify.com/artist/6ku8V32RMBkP9rURvRjHCi"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165898,
+      "name": "Se Me Hizo Vicio",
+      "url": "https://open.spotify.com/track/5xBFETjSNKNMfeMI5G2ceS"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/6aTyqTryxFbbFAfdOvZBOb"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 165040,
+      "name": "Se Me Hizo Vicio",
+      "url": "https://open.spotify.com/track/5ojaAFtMvJuDzN2hCFy1aX"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159306,
+      "name": "Si por Casualidad",
+      "url": "https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee"
+    },
+    {
+      "album": {
+        "name": "Soy Tu Maestro",
+        "url": "https://open.spotify.com/album/0GdHeCV6ThHAEhBUJIDlN9"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210760,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/6zwpRMJHf3DQupj1NFyxrD"
+    },
+    {
+      "album": {
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Si Ya No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
+    },
+    {
+      "album": {
+        "name": "Derecho De Antig\u00fcedad",
+        "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220146,
+      "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z"
+    },
+    {
+      "album": {
+        "name": "Te Aprovechas",
+        "url": "https://open.spotify.com/album/2UoPJJmTnHiMw1L1XM9bzL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 182594,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/2yZ2icFApg5sM4NG63a1RR"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Original Que Nunca",
+        "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125533,
+      "name": "Te Llegar\u00e1 Mi Olvido",
+      "url": "https://open.spotify.com/track/1RFos4pteRCTVxd3jrqbLH"
+    },
+    {
+      "album": {
+        "name": "Te Llevaste Lo Mejor",
+        "url": "https://open.spotify.com/album/113eqLjB58bCdPOBjTYVsh"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 228778,
+      "name": "Te Llevaste Lo Mejor",
+      "url": "https://open.spotify.com/track/1ghKTQnQ3eK4PCz1sCdNoa"
+    },
+    {
+      "album": {
+        "name": "El Mayor de Mis Antojos",
+        "url": "https://open.spotify.com/album/1MMHNFKunsbtbGc0NLTxEN"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 161040,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/3JpCeYH4ecOATz52uaIKO4"
+    },
+    {
+      "album": {
+        "name": "Tomen Tomen",
+        "url": "https://open.spotify.com/album/6bPGTaF2hjHIulhXQ4RIoR"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 176193,
+      "name": "Tomen Tomen",
+      "url": "https://open.spotify.com/track/2zMFH7tqWNewiuWxVewPPL"
+    },
+    {
+      "album": {
+        "name": "Corridos En Vivo La Original Banda El Lim\u00f3n",
+        "url": "https://open.spotify.com/album/2eZ42ZO51n3xHHSZRDnBVm"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 183980,
+      "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+      "url": "https://open.spotify.com/track/03XT2C69jHbJvw3QdRvlOk"
+    },
+    {
+      "album": {
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 174000,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
+    },
+    {
+      "album": {
+        "name": "Dos Gotas de Agua",
+        "url": "https://open.spotify.com/album/1Kosuz65EekRnT8zsAcoQj"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 156826,
+      "name": "Vuela Paloma",
+      "url": "https://open.spotify.com/track/2n1cZHde59WHCHG4aaN94w"
+    },
+    {
+      "album": {
+        "name": "De Aqu\u00ed Pa'l Real",
+        "url": "https://open.spotify.com/album/4q5mIDBPpfcIM3piHbYJG2"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 192737,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/0p5QrCnGwTQ9HUM7SpEbOP"
+    },
+    {
+      "album": {
+        "name": "Y Ahora Te Vas",
+        "url": "https://open.spotify.com/album/1RnKnR16T9sWJlxCgWla1i"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 192737,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/1uMJkxQipn0Mm0cAoctX82"
+    },
+    {
+      "album": {
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221480,
+      "name": "Ya No Te Vayas",
+      "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hVM8E"
 }

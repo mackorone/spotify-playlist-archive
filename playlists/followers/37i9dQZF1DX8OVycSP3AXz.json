@@ -1,735 +1,1889 @@
 {
-  "2021-12-25": 50683,
-  "2021-12-26": 50701,
-  "2021-12-27": 50731,
-  "2021-12-28": 50731,
-  "2021-12-29": 50738,
-  "2021-12-30": 50761,
-  "2021-12-31": 50782,
-  "2022-01-01": 50842,
-  "2022-01-02": 50844,
-  "2022-01-03": 50858,
-  "2022-01-04": 50875,
-  "2022-01-05": 50888,
-  "2022-01-06": 50908,
-  "2022-01-07": 50916,
-  "2022-01-08": 50952,
-  "2022-01-09": 50949,
-  "2022-01-10": 50965,
-  "2022-01-11": 50972,
-  "2022-01-12": 50979,
-  "2022-01-13": 50995,
-  "2022-01-14": 51000,
-  "2022-01-15": 51040,
-  "2022-01-16": 51042,
-  "2022-01-17": 51076,
-  "2022-01-18": 51076,
-  "2022-01-19": 51096,
-  "2022-01-20": 51120,
-  "2022-01-21": 51131,
-  "2022-01-22": 51146,
-  "2022-01-23": 51167,
-  "2022-01-24": 51182,
-  "2022-01-25": 51198,
-  "2022-01-26": 51212,
-  "2022-01-27": 51229,
-  "2022-01-28": 51236,
-  "2022-01-29": 51260,
-  "2022-01-30": 51277,
-  "2022-01-31": 51308,
-  "2022-02-01": 51324,
-  "2022-02-02": 51339,
-  "2022-02-03": 51346,
-  "2022-02-04": 51357,
-  "2022-02-05": 51371,
-  "2022-02-06": 51392,
-  "2022-02-07": 51421,
-  "2022-02-08": 51438,
-  "2022-02-09": 51457,
-  "2022-02-10": 51464,
-  "2022-02-11": 51483,
-  "2022-02-12": 51505,
-  "2022-02-13": 51528,
-  "2022-02-14": 51547,
-  "2022-02-15": 51555,
-  "2022-02-16": 51578,
-  "2022-02-17": 51591,
-  "2022-02-18": 51609,
-  "2022-02-19": 51628,
-  "2022-02-20": 51644,
-  "2022-02-21": 51660,
-  "2022-02-22": 51676,
-  "2022-02-23": 51689,
-  "2022-02-24": 51709,
-  "2022-02-25": 51721,
-  "2022-02-26": 51728,
-  "2022-02-27": 51745,
-  "2022-02-28": 51745,
-  "2022-03-01": 51754,
-  "2022-03-02": 51767,
-  "2022-03-03": 51796,
-  "2022-03-04": 51808,
-  "2022-03-05": 51830,
-  "2022-03-06": 51863,
-  "2022-03-07": 51882,
-  "2022-03-08": 51897,
-  "2022-03-09": 51902,
-  "2022-03-10": 51917,
-  "2022-03-11": 51924,
-  "2022-03-12": 51940,
-  "2022-03-13": 51957,
-  "2022-03-14": 51974,
-  "2022-03-15": 51980,
-  "2022-03-16": 51990,
-  "2022-03-17": 52006,
-  "2022-03-18": 52027,
-  "2022-03-19": 52035,
-  "2022-03-20": 52035,
-  "2022-03-21": 52053,
-  "2022-03-22": 52058,
-  "2022-03-23": 52064,
-  "2022-03-24": 52070,
-  "2022-03-25": 52079,
-  "2022-03-26": 52094,
-  "2022-03-27": 52117,
-  "2022-03-28": 52126,
-  "2022-03-30": 52148,
-  "2022-03-31": 52160,
-  "2022-04-01": 52179,
-  "2022-04-02": 52190,
-  "2022-04-03": 52206,
-  "2022-04-04": 52226,
-  "2022-04-05": 52244,
-  "2022-04-06": 52260,
-  "2022-04-07": 52279,
-  "2022-04-08": 52288,
-  "2022-04-09": 52303,
-  "2022-04-10": 52329,
-  "2022-04-11": 52335,
-  "2022-04-12": 52337,
-  "2022-04-13": 52353,
-  "2022-04-14": 52366,
-  "2022-04-15": 52384,
-  "2022-04-16": 52412,
-  "2022-04-17": 52424,
-  "2022-04-18": 52448,
-  "2022-04-19": 52462,
-  "2022-04-20": 52484,
-  "2022-04-21": 52496,
-  "2022-04-22": 52505,
-  "2022-04-23": 52514,
-  "2022-04-24": 52536,
-  "2022-04-25": 52550,
-  "2022-04-26": 52564,
-  "2022-04-27": 52580,
-  "2022-04-28": 52598,
-  "2022-04-29": 52625,
-  "2022-04-30": 52634,
-  "2022-05-01": 52662,
-  "2022-05-02": 52662,
-  "2022-05-03": 52672,
-  "2022-05-04": 52686,
-  "2022-05-05": 52704,
-  "2022-05-06": 52718,
-  "2022-05-07": 52740,
-  "2022-05-08": 52775,
-  "2022-05-09": 52781,
-  "2022-05-10": 52796,
-  "2022-05-11": 52811,
-  "2022-05-12": 52834,
-  "2022-05-13": 52845,
-  "2022-05-14": 52863,
-  "2022-05-15": 52887,
-  "2022-05-16": 52911,
-  "2022-05-17": 52918,
-  "2022-05-18": 52935,
-  "2022-05-19": 52949,
-  "2022-05-20": 52960,
-  "2022-05-21": 53001,
-  "2022-05-22": 53001,
-  "2022-05-23": 53020,
-  "2022-05-24": 53032,
-  "2022-05-25": 53046,
-  "2022-05-26": 53056,
-  "2022-05-27": 53079,
-  "2022-05-28": 53099,
-  "2022-05-29": 53114,
-  "2022-05-30": 53132,
-  "2022-05-31": 53146,
-  "2022-06-01": 53168,
-  "2022-06-02": 53166,
-  "2022-06-03": 53189,
-  "2022-06-04": 53201,
-  "2022-06-05": 53216,
-  "2022-06-06": 53219,
-  "2022-06-07": 53228,
-  "2022-06-08": 53240,
-  "2022-06-09": 53259,
-  "2022-06-10": 53273,
-  "2022-06-11": 53289,
-  "2022-06-12": 53308,
-  "2022-06-13": 53323,
-  "2022-06-14": 53334,
-  "2022-06-15": 53353,
-  "2022-06-16": 53368,
-  "2022-06-17": 53389,
-  "2022-06-18": 53402,
-  "2022-06-19": 53441,
-  "2022-06-20": 53441,
-  "2022-06-21": 53458,
-  "2022-06-22": 53498,
-  "2022-06-23": 53498,
-  "2022-06-24": 53512,
-  "2022-06-25": 53522,
-  "2022-06-26": 53548,
-  "2022-06-27": 53566,
-  "2022-06-28": 53577,
-  "2022-06-29": 53606,
-  "2022-06-30": 53635,
-  "2022-07-01": 53657,
-  "2022-07-02": 53686,
-  "2022-07-03": 53723,
-  "2022-07-04": 53756,
-  "2022-07-05": 53782,
-  "2022-07-06": 53818,
-  "2022-07-07": 53839,
-  "2022-07-08": 53871,
-  "2022-07-09": 53900,
-  "2022-07-10": 53947,
-  "2022-07-11": 53980,
-  "2022-07-12": 54007,
-  "2022-07-13": 54046,
-  "2022-07-14": 54072,
-  "2022-07-15": 54119,
-  "2022-07-16": 54165,
-  "2022-07-17": 54203,
-  "2022-07-18": 54233,
-  "2022-07-19": 54253,
-  "2022-07-20": 54281,
-  "2022-07-21": 54316,
-  "2022-07-22": 54351,
-  "2022-07-23": 54381,
-  "2022-07-24": 54422,
-  "2022-07-25": 54458,
-  "2022-07-26": 54489,
-  "2022-07-27": 54529,
-  "2022-07-28": 54558,
-  "2022-07-29": 54588,
-  "2022-07-30": 54638,
-  "2022-07-31": 54638,
-  "2022-08-01": 54671,
-  "2022-08-02": 54734,
-  "2022-08-03": 54734,
-  "2022-08-04": 54779,
-  "2022-08-05": 54804,
-  "2022-08-06": 54840,
-  "2022-08-07": 54892,
-  "2022-08-08": 54927,
-  "2022-08-09": 54960,
-  "2022-08-10": 54999,
-  "2022-08-11": 55025,
-  "2022-08-12": 55058,
-  "2022-08-13": 55089,
-  "2022-08-14": 55136,
-  "2022-08-15": 55179,
-  "2022-08-16": 55217,
-  "2022-08-17": 55261,
-  "2022-08-18": 55289,
-  "2022-08-19": 55330,
-  "2022-08-20": 55366,
-  "2022-08-21": 55398,
-  "2022-08-22": 55432,
-  "2022-08-23": 55471,
-  "2022-08-24": 55503,
-  "2022-08-25": 55540,
-  "2022-08-26": 55566,
-  "2022-08-27": 55601,
-  "2022-08-28": 55638,
-  "2022-08-29": 55676,
-  "2022-08-30": 55718,
-  "2022-08-31": 55748,
-  "2022-09-01": 55756,
-  "2022-09-02": 55791,
-  "2022-09-03": 55804,
-  "2022-09-04": 55837,
-  "2022-09-05": 55861,
-  "2022-09-06": 55882,
-  "2022-09-07": 55914,
-  "2022-09-09": 55962,
-  "2022-09-10": 56003,
-  "2022-09-11": 56040,
-  "2022-09-12": 56071,
-  "2022-09-13": 56096,
-  "2022-09-15": 56136,
-  "2022-09-16": 56171,
-  "2022-09-17": 56194,
-  "2022-09-18": 56224,
-  "2022-09-19": 56262,
-  "2022-09-20": 56298,
-  "2022-09-21": 56329,
-  "2022-09-22": 56363,
-  "2022-09-23": 56381,
-  "2022-09-24": 56413,
-  "2022-09-25": 56447,
-  "2022-09-26": 56491,
-  "2022-09-27": 56517,
-  "2022-09-28": 56553,
-  "2022-09-29": 56580,
-  "2022-09-30": 56613,
-  "2022-10-01": 56634,
-  "2022-10-02": 56667,
-  "2022-10-03": 56702,
-  "2022-10-04": 56724,
-  "2022-10-05": 56754,
-  "2022-10-06": 56779,
-  "2022-10-07": 56821,
-  "2022-10-08": 56851,
-  "2022-10-09": 56928,
-  "2022-10-10": 56940,
-  "2022-10-11": 56981,
-  "2022-10-12": 56996,
-  "2022-10-13": 57023,
-  "2022-10-14": 57050,
-  "2022-10-15": 57080,
-  "2022-10-16": 57135,
-  "2022-10-17": 57177,
-  "2022-10-18": 57198,
-  "2022-10-19": 57221,
-  "2022-10-20": 57244,
-  "2022-10-21": 57271,
-  "2022-10-22": 57301,
-  "2022-10-23": 57331,
-  "2022-10-24": 57362,
-  "2022-10-25": 57391,
-  "2022-10-26": 57427,
-  "2022-10-27": 57452,
-  "2022-10-28": 57482,
-  "2022-10-29": 57514,
-  "2022-10-30": 57547,
-  "2022-10-31": 57575,
-  "2022-11-01": 57609,
-  "2022-11-02": 57637,
-  "2022-11-03": 57676,
-  "2022-11-04": 57702,
-  "2022-11-05": 57760,
-  "2022-11-06": 57797,
-  "2022-11-07": 57831,
-  "2022-11-08": 57848,
-  "2022-11-09": 57877,
-  "2022-11-10": 57910,
-  "2022-11-11": 57937,
-  "2022-11-12": 57975,
-  "2022-11-13": 58006,
-  "2022-11-14": 58042,
-  "2022-11-15": 58061,
-  "2022-11-16": 58093,
-  "2022-11-17": 58125,
-  "2022-11-18": 58139,
-  "2022-11-19": 58148,
-  "2022-11-20": 58179,
-  "2022-11-21": 58219,
-  "2022-11-22": 58253,
-  "2022-11-23": 58287,
-  "2022-11-24": 58332,
-  "2022-11-25": 58372,
-  "2022-11-26": 58415,
-  "2022-11-27": 58457,
-  "2022-11-28": 58496,
-  "2022-11-29": 58522,
-  "2022-11-30": 58557,
-  "2022-12-01": 58597,
-  "2022-12-02": 58614,
-  "2022-12-03": 58652,
-  "2022-12-04": 58694,
-  "2022-12-05": 58732,
-  "2022-12-06": 58760,
-  "2022-12-07": 58787,
-  "2022-12-08": 58809,
-  "2022-12-09": 58841,
-  "2022-12-10": 58869,
-  "2022-12-11": 58892,
-  "2022-12-12": 58928,
-  "2022-12-13": 58946,
-  "2022-12-14": 58974,
-  "2022-12-15": 59001,
-  "2022-12-16": 59031,
-  "2022-12-17": 59056,
-  "2022-12-18": 59082,
-  "2022-12-19": 59112,
-  "2022-12-20": 59164,
-  "2022-12-21": 59164,
-  "2022-12-22": 59187,
-  "2022-12-24": 59257,
-  "2022-12-25": 59302,
-  "2022-12-26": 59353,
-  "2022-12-27": 59391,
-  "2022-12-28": 59426,
-  "2022-12-29": 59461,
-  "2022-12-30": 59485,
-  "2022-12-31": 59517,
-  "2023-01-01": 59577,
-  "2023-01-02": 59619,
-  "2023-01-03": 59661,
-  "2023-01-04": 59694,
-  "2023-01-05": 59727,
-  "2023-01-06": 59761,
-  "2023-01-07": 59817,
-  "2023-01-08": 59830,
-  "2023-01-09": 59869,
-  "2023-01-10": 59914,
-  "2023-01-11": 59952,
-  "2023-01-12": 59988,
-  "2023-01-13": 60015,
-  "2023-01-14": 60086,
-  "2023-01-15": 60090,
-  "2023-01-16": 60132,
-  "2023-01-17": 60158,
-  "2023-01-18": 60203,
-  "2023-01-19": 60227,
-  "2023-01-20": 60265,
-  "2023-01-21": 60305,
-  "2023-01-22": 60356,
-  "2023-01-23": 60404,
-  "2023-01-24": 60436,
-  "2023-01-25": 60456,
-  "2023-01-26": 60494,
-  "2023-01-27": 60518,
-  "2023-01-28": 60550,
-  "2023-01-29": 60599,
-  "2023-01-30": 60640,
-  "2023-01-31": 60640,
-  "2023-02-01": 60681,
-  "2023-02-02": 60701,
-  "2023-02-03": 60730,
-  "2023-02-04": 60760,
-  "2023-02-05": 60801,
-  "2023-02-06": 60844,
-  "2023-02-07": 60883,
-  "2023-02-08": 60934,
-  "2023-02-09": 60934,
-  "2023-02-10": 60962,
-  "2023-02-11": 60992,
-  "2023-02-12": 61063,
-  "2023-02-13": 61091,
-  "2023-02-14": 61091,
-  "2023-02-15": 61119,
-  "2023-02-16": 61146,
-  "2023-02-17": 61173,
-  "2023-02-18": 61241,
-  "2023-02-19": 61243,
-  "2023-02-20": 61281,
-  "2023-02-21": 61309,
-  "2023-02-22": 61330,
-  "2023-02-23": 61362,
-  "2023-02-24": 61391,
-  "2023-02-25": 61426,
-  "2023-02-26": 61449,
-  "2023-02-27": 61511,
-  "2023-02-28": 61511,
-  "2023-03-01": 61539,
-  "2023-03-02": 61558,
-  "2023-03-03": 61588,
-  "2023-03-04": 61621,
-  "2023-03-05": 61685,
-  "2023-03-06": 61685,
-  "2023-03-07": 61712,
-  "2023-03-08": 61742,
-  "2023-03-09": 61760,
-  "2023-03-10": 61783,
-  "2023-03-11": 61821,
-  "2023-03-12": 61843,
-  "2023-03-13": 61877,
-  "2023-03-14": 61913,
-  "2023-03-15": 61946,
-  "2023-03-16": 61959,
-  "2023-03-17": 61959,
-  "2023-03-18": 62015,
-  "2023-03-19": 62045,
-  "2023-03-20": 62075,
-  "2023-03-21": 62099,
-  "2023-03-22": 62123,
-  "2023-03-23": 62152,
-  "2023-03-24": 62152,
-  "2023-03-25": 62213,
-  "2023-03-26": 62254,
-  "2023-03-27": 62289,
-  "2023-03-28": 62331,
-  "2023-03-29": 62364,
-  "2023-03-30": 62431,
-  "2023-03-31": 62431,
-  "2023-04-01": 62463,
-  "2023-04-02": 62510,
-  "2023-04-03": 62547,
-  "2023-04-04": 62576,
-  "2023-04-05": 62602,
-  "2023-04-06": 62639,
-  "2023-04-07": 62668,
-  "2023-04-09": 62742,
-  "2023-04-10": 62787,
-  "2023-04-11": 62840,
-  "2023-04-12": 62840,
-  "2023-04-13": 62857,
-  "2023-04-14": 62899,
-  "2023-04-15": 62937,
-  "2023-04-16": 62968,
-  "2023-04-17": 63010,
-  "2023-04-18": 63037,
-  "2023-04-19": 63082,
-  "2023-04-20": 63126,
-  "2023-04-21": 63162,
-  "2023-04-22": 63204,
-  "2023-04-23": 63245,
-  "2023-04-24": 63292,
-  "2023-04-25": 63323,
-  "2023-04-26": 63354,
-  "2023-04-27": 63384,
-  "2023-04-28": 63423,
-  "2023-04-29": 63449,
-  "2023-04-30": 63470,
-  "2023-05-01": 63503,
-  "2023-05-02": 63538,
-  "2023-05-03": 63562,
-  "2023-05-04": 63590,
-  "2023-05-05": 63623,
-  "2023-05-06": 63652,
-  "2023-05-07": 63677,
-  "2023-05-08": 63711,
-  "2023-05-09": 63739,
-  "2023-05-10": 63764,
-  "2023-05-11": 63799,
-  "2023-05-12": 63824,
-  "2023-05-13": 63858,
-  "2023-05-14": 63905,
-  "2023-05-15": 63959,
-  "2023-05-16": 63999,
-  "2023-05-17": 64037,
-  "2023-05-18": 64068,
-  "2023-05-19": 64115,
-  "2023-05-20": 64212,
-  "2023-05-21": 64212,
-  "2023-05-22": 64212,
-  "2023-05-23": 64263,
-  "2023-05-24": 64325,
-  "2023-05-25": 64327,
-  "2023-05-26": 64356,
-  "2023-05-27": 64399,
-  "2023-05-28": 64433,
-  "2023-05-29": 64433,
-  "2023-05-30": 64500,
-  "2023-05-31": 64523,
-  "2023-06-01": 64570,
-  "2023-06-02": 64591,
-  "2023-06-03": 64616,
-  "2023-06-04": 64661,
-  "2023-06-05": 64698,
-  "2023-06-06": 64731,
-  "2023-06-07": 64768,
-  "2023-06-08": 64791,
-  "2023-06-09": 64832,
-  "2023-06-10": 64859,
-  "2023-06-11": 64894,
-  "2023-06-12": 64939,
-  "2023-06-13": 64956,
-  "2023-06-14": 64984,
-  "2023-06-15": 65003,
-  "2023-06-16": 65034,
-  "2023-06-17": 65058,
-  "2023-06-18": 65098,
-  "2023-06-19": 65143,
-  "2023-06-20": 65167,
-  "2023-06-21": 65186,
-  "2023-06-22": 65215,
-  "2023-06-23": 65240,
-  "2023-06-24": 65276,
-  "2023-06-25": 65307,
-  "2023-06-26": 65342,
-  "2023-06-27": 65356,
-  "2023-06-28": 65380,
-  "2023-06-29": 65402,
-  "2023-06-30": 65436,
-  "2023-07-01": 65491,
-  "2023-07-02": 65491,
-  "2023-07-03": 65530,
-  "2023-07-04": 65551,
-  "2023-07-05": 65589,
-  "2023-07-06": 65636,
-  "2023-07-07": 65636,
-  "2023-07-08": 65657,
-  "2023-07-09": 65693,
-  "2023-07-10": 65717,
-  "2023-07-11": 65740,
-  "2023-07-12": 65774,
-  "2023-07-13": 65804,
-  "2023-07-14": 65825,
-  "2023-07-15": 65857,
-  "2023-07-16": 65899,
-  "2023-07-17": 65951,
-  "2023-07-18": 66007,
-  "2023-07-19": 66051,
-  "2023-07-20": 66092,
-  "2023-07-21": 66140,
-  "2023-07-22": 66187,
-  "2023-07-23": 66237,
-  "2023-07-24": 66282,
-  "2023-07-25": 66322,
-  "2023-07-26": 66359,
-  "2023-07-27": 66389,
-  "2023-07-28": 66415,
-  "2023-07-29": 66441,
-  "2023-07-30": 66481,
-  "2023-07-31": 66510,
-  "2023-08-01": 66550,
-  "2023-08-02": 66583,
-  "2023-08-03": 66624,
-  "2023-08-04": 66652,
-  "2023-08-05": 66689,
-  "2023-08-06": 66769,
-  "2023-08-07": 66769,
-  "2023-08-08": 66788,
-  "2023-08-09": 66805,
-  "2023-08-10": 66831,
-  "2023-08-11": 66853,
-  "2023-08-12": 66896,
-  "2023-08-13": 66927,
-  "2023-08-14": 66956,
-  "2023-08-15": 67030,
-  "2023-08-16": 67030,
-  "2023-08-17": 67057,
-  "2023-08-18": 67091,
-  "2023-08-19": 67128,
-  "2023-08-20": 67165,
-  "2023-08-21": 67205,
-  "2023-08-22": 67227,
-  "2023-08-23": 67263,
-  "2023-08-24": 67292,
-  "2023-08-25": 67323,
-  "2023-08-26": 67358,
-  "2023-08-27": 67398,
-  "2023-08-28": 67429,
-  "2023-08-29": 67452,
-  "2023-08-30": 67477,
-  "2023-08-31": 67492,
-  "2023-09-01": 67583,
-  "2023-09-02": 67583,
-  "2023-09-03": 67625,
-  "2023-09-04": 67671,
-  "2023-09-05": 67713,
-  "2023-09-06": 67759,
-  "2023-09-07": 67813,
-  "2023-09-08": 67844,
-  "2023-09-09": 67883,
-  "2023-09-10": 67939,
-  "2023-09-11": 67980,
-  "2023-09-12": 68028,
-  "2023-09-13": 68081,
-  "2023-09-14": 68131,
-  "2023-09-15": 68180,
-  "2023-09-16": 68235,
-  "2023-09-17": 68279,
-  "2023-09-18": 68338,
-  "2023-09-19": 68384,
-  "2023-09-20": 68431,
-  "2023-09-21": 68497,
-  "2023-09-22": 68539,
-  "2023-09-23": 68601,
-  "2023-09-24": 68656,
-  "2023-09-25": 68706,
-  "2023-09-26": 68755,
-  "2023-09-27": 68788,
-  "2023-09-28": 68823,
-  "2023-09-29": 68868,
-  "2023-09-30": 68913,
-  "2023-10-01": 68976,
-  "2023-10-02": 69013,
-  "2023-10-03": 69047,
-  "2023-10-04": 69077,
-  "2023-10-05": 69113,
-  "2023-10-06": 69141,
-  "2023-10-07": 69176,
-  "2023-10-08": 69225,
-  "2023-10-09": 69258,
-  "2023-10-10": 69242,
-  "2023-10-11": 69253,
-  "2023-10-12": 69253,
-  "2023-10-13": 69227,
-  "2023-10-14": 69204,
-  "2023-10-15": 69248,
-  "2023-10-16": 69300,
-  "2023-10-17": 69342,
-  "2023-10-18": 69391,
-  "2023-10-19": 69441,
-  "2023-10-20": 69483,
-  "2023-10-21": 69525,
-  "2023-10-22": 69567,
-  "2023-10-23": 69615,
-  "2023-10-24": 69648,
-  "2023-10-25": 69683,
-  "2023-10-26": 69733,
-  "2023-10-27": 69769,
-  "2023-10-28": 69769,
-  "2023-10-29": 69851,
-  "2023-10-30": 69904,
-  "2023-10-31": 69904,
-  "2023-11-01": 69975,
-  "2023-11-02": 70017,
-  "2023-11-03": 70051,
-  "2023-11-04": 70098,
-  "2023-11-05": 70135,
-  "2023-11-06": 70183,
-  "2023-11-07": 70224,
-  "2023-11-08": 70255,
-  "2023-11-09": 70299,
-  "2023-11-10": 70346,
-  "2023-11-11": 70379,
-  "2023-11-12": 70437,
-  "2023-11-13": 70478,
-  "2023-11-14": 70517,
-  "2023-11-15": 70517,
-  "2023-11-16": 70587,
-  "2023-11-17": 70650,
-  "2023-11-18": 70650,
-  "2023-11-19": 70693,
-  "2023-11-20": 70719,
-  "2023-11-21": 70770,
-  "2023-11-22": 70807,
-  "2023-11-23": 70830,
-  "2023-11-24": 70830,
-  "2023-11-25": 70886,
-  "2023-11-26": 70916,
-  "2023-11-27": 70959,
-  "2023-11-28": 70994,
-  "2023-11-29": 71054,
-  "2023-11-30": 71054,
-  "2023-12-01": 71090,
-  "2023-12-02": 71122,
-  "2023-12-03": 71152,
-  "2023-12-04": 71180,
-  "2023-12-05": 71208,
-  "2023-12-06": 71237,
-  "2023-12-07": 71264,
-  "2023-12-08": 71292,
-  "2023-12-09": 71297,
-  "2023-12-10": 71309,
-  "2023-12-11": 71322,
-  "2023-12-12": 71330,
-  "2023-12-13": 71343,
-  "2023-12-14": 71345,
-  "2023-12-15": 71352,
-  "2023-12-16": 71364,
-  "2023-12-17": 71367,
-  "2023-12-18": 71377,
-  "2023-12-19": 71390,
-  "2023-12-20": 71395,
-  "2023-12-21": 71407,
-  "2023-12-22": 71419,
-  "2023-12-23": 71427,
-  "2023-12-24": 71449,
-  "2023-12-25": 71462,
-  "2023-12-26": 71474,
-  "2023-12-27": 71477,
-  "2023-12-30": 71508,
-  "2023-12-31": 71515,
-  "2024-01-01": 71529,
-  "2024-01-02": 71544,
-  "2024-01-03": 71551
+  "2024-01-17": 71322,
+  "date_first_scraped": "2021-12-21",
+  "description": "Replongez dans les plus grands tubes de la p\u00e9riode y\u00e9y\u00e9. Photo : Fran\u00e7oise Hardy",
+  "name": "Salut les y\u00e9y\u00e9s",
+  "tracks": [
+    {
+      "album": {
+        "name": "The French Mademoiselle",
+        "url": "https://open.spotify.com/album/2iFYrUwMGHs4DwAJ94RxuW"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Taieb",
+          "url": "https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 138948,
+      "name": "7 Heure Du Mat",
+      "url": "https://open.spotify.com/track/5sVA72TQmjb4lqIt00jAaZ"
+    },
+    {
+      "album": {
+        "name": "Jacqueline Ta\u00efeb",
+        "url": "https://open.spotify.com/album/61emYO8kHDuDFWjKS2aELG"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Taieb",
+          "url": "https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136933,
+      "name": "7 heures du matin",
+      "url": "https://open.spotify.com/track/4CeHrAL1fGUi94RIk3Z2H2"
+    },
+    {
+      "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/1ZfOSvrmz8by3bdz0w6NBA"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9"
+    },
+    {
+      "album": {
+        "name": "Best of (Collector)",
+        "url": "https://open.spotify.com/album/5vp7Y6bJSUc2maDl3SFywe"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 170840,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/3Sju0jbR35bTfajNgbkgFy"
+    },
+    {
+      "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-08",
+      "duration_ms": 170840,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa"
+    },
+    {
+      "album": {
+        "name": "Hommages",
+        "url": "https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132826,
+      "name": "Belles belles belles",
+      "url": "https://open.spotify.com/track/1Q6j1dx7pXzuLZLAexFWuQ"
+    },
+    {
+      "album": {
+        "name": "Master Serie Vol 1",
+        "url": "https://open.spotify.com/album/1NxQK1XBP8kUoIv990pCEw"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134133,
+      "name": "Belles belles belles",
+      "url": "https://open.spotify.com/track/58A0ccFbVbjAoA07ENee7k"
+    },
+    {
+      "album": {
+        "name": "Belles, Belles, Belles",
+        "url": "https://open.spotify.com/album/5AKROatvEzKMHX6p5KFvyB"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 134466,
+      "name": "Belles Belles Belles",
+      "url": "https://open.spotify.com/track/1TrzM2nhMXA2Y7sdqncXPE"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq"
+      },
+      "artists": [
+        {
+          "name": "Danyel Gerard",
+          "url": "https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 205093,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW"
+    },
+    {
+      "album": {
+        "name": "Souvenirs De La France",
+        "url": "https://open.spotify.com/album/2J8U1ZM3bWFz943PjdmU6Q"
+      },
+      "artists": [
+        {
+          "name": "Danyel Gerard",
+          "url": "https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-25",
+      "duration_ms": 205800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5zkZI5JT6pAOJ1q4nvDhXg"
+    },
+    {
+      "album": {
+        "name": "O Melhor da M\u00fasica Francesa",
+        "url": "https://open.spotify.com/album/7o0DwyhqgvhgDXxyZez77o"
+      },
+      "artists": [
+        {
+          "name": "Danyel Gerard",
+          "url": "https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3ZiYD5x1gKCrYtuHkxJ2kr"
+    },
+    {
+      "album": {
+        "name": "Est-ce que tu le sais ? (avec Dick Rivers)",
+        "url": "https://open.spotify.com/album/2eusU9U7fLiHhsQwoiFiou"
+      },
+      "artists": [
+        {
+          "name": "Les Chats Sauvages",
+          "url": "https://open.spotify.com/artist/60U5Nsvpj5mJics5PcIkmd"
+        },
+        {
+          "name": "Dick Rivers",
+          "url": "https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138173,
+      "name": "C'est pas s\u00e9rieux",
+      "url": "https://open.spotify.com/track/42qeNYv2wPMRVu3C2OJrHZ"
+    },
+    {
+      "album": {
+        "name": "Les Grandes Chansons",
+        "url": "https://open.spotify.com/album/0ciLIRt5oVC8vXsv7aSd0S"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9 Vilard",
+          "url": "https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214813,
+      "name": "Capri c'est fini",
+      "url": "https://open.spotify.com/track/5mViPCYgYThWfhCRocs0Ar"
+    },
+    {
+      "album": {
+        "name": "Capri C'Est Fini",
+        "url": "https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9 Vilard",
+          "url": "https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Capri c'est fini",
+      "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
+    },
+    {
+      "album": {
+        "name": "Capri C'Est Fini",
+        "url": "https://open.spotify.com/album/32sm9U3FJRLJnOygy0N809"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9 Vilard",
+          "url": "https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219226,
+      "name": "Capri c'est fini",
+      "url": "https://open.spotify.com/track/7dND31PE5a7FtLsW6H4Xgy"
+    },
+    {
+      "album": {
+        "name": "Femmes de Paris, Vol. 1",
+        "url": "https://open.spotify.com/album/4WAhaUW6UqRGz13o7WTZdJ"
+      },
+      "artists": [
+        {
+          "name": "Eileen",
+          "url": "https://open.spotify.com/artist/2AocfyglsHV2wP3IobPCyH"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 152573,
+      "name": "Ces bottes sont faites pour marcher",
+      "url": "https://open.spotify.com/track/5Exf4zEZZaKmXfklj0vVCh"
+    },
+    {
+      "album": {
+        "name": "French Women Legends",
+        "url": "https://open.spotify.com/album/2YaoevzHAXk4ktz3Xz1FdM"
+      },
+      "artists": [
+        {
+          "name": "Eileen",
+          "url": "https://open.spotify.com/artist/2AocfyglsHV2wP3IobPCyH"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Ces bottes sont faites pour marcher",
+      "url": "https://open.spotify.com/track/272AWiVCoatzqTsDRP1KVi"
+    },
+    {
+      "album": {
+        "name": "Salut les copains",
+        "url": "https://open.spotify.com/album/53zZVigzEiUdLMAQQhs5Zj"
+      },
+      "artists": [
+        {
+          "name": "Eileen",
+          "url": "https://open.spotify.com/artist/2AocfyglsHV2wP3IobPCyH"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153040,
+      "name": "Ces bottes sont faites pour marcher",
+      "url": "https://open.spotify.com/track/3YagVqK6nD7lz7T6knjKVy"
+    },
+    {
+      "album": {
+        "name": "Double Best Of - Comme Un Boomerang",
+        "url": "https://open.spotify.com/album/3ikheuf2MSfLP17Gd3wjfu"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129880,
+      "name": "Comic Strip",
+      "url": "https://open.spotify.com/track/5bfKQTXw30LJ7mR7onUQHb"
+    },
+    {
+      "album": {
+        "name": "Initials B.B.",
+        "url": "https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130080,
+      "name": "Comic Strip",
+      "url": "https://open.spotify.com/track/4xP5cjA72WSiXNXql3glWS"
+    },
+    {
+      "album": {
+        "name": "Salut les copains",
+        "url": "https://open.spotify.com/album/32ZEuOQRv2szpnEoCv24bv"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 132906,
+      "name": "Comic Strip",
+      "url": "https://open.spotify.com/track/56mduKtQOrUXUuLF2YZ3wO"
+    },
+    {
+      "album": {
+        "name": "Comme un gar\u00e7on",
+        "url": "https://open.spotify.com/album/0K0bH9JWURyXFrSK4ZYmUM"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Vartan",
+          "url": "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196573,
+      "name": "Comme un gar\u00e7on",
+      "url": "https://open.spotify.com/track/3ChTu8j7meZ1op8QtTMVfR"
+    },
+    {
+      "album": {
+        "name": "Comme un gar\u00e7on",
+        "url": "https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Vartan",
+          "url": "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 196573,
+      "name": "Comme un gar\u00e7on",
+      "url": "https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK"
+    },
+    {
+      "album": {
+        "name": "Comme un gar\u00e7on",
+        "url": "https://open.spotify.com/album/65XVPzsge42MC6cOVXqo1q"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Vartan",
+          "url": "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196573,
+      "name": "Comme un gar\u00e7on",
+      "url": "https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c"
+    },
+    {
+      "album": {
+        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
+        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148506,
+      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
+      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+    },
+    {
+      "album": {
+        "name": "CD Story",
+        "url": "https://open.spotify.com/album/3kWiseg5CTaGdHbj5dPiXJ"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 185960,
+      "name": "C\u00e9line",
+      "url": "https://open.spotify.com/track/56Z7oxfgO0p1dfnd3OEKCX"
+    },
+    {
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "C\u00e9line",
+      "url": "https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A"
+    },
+    {
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188466,
+      "name": "C\u00e9line",
+      "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
+    },
+    {
+      "album": {
+        "name": "Twistin' The Rock Story / Vol 5",
+        "url": "https://open.spotify.com/album/2d5t4obzjRCFHHV5i2LJ1a"
+      },
+      "artists": [
+        {
+          "name": "Les Chaussettes Noires",
+          "url": "https://open.spotify.com/artist/6KXdUNa8QT8Sty4k5G2LqK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152733,
+      "name": "Daniela (de quoi te m\u00eales-tu Daniela)",
+      "url": "https://open.spotify.com/track/5BnU92BVLCUKNmcWvxoXwp"
+    },
+    {
+      "album": {
+        "name": "Les 50 Plus Belles Chansons",
+        "url": "https://open.spotify.com/album/5VpUEu2db3vWXVMCkpOGb2"
+      },
+      "artists": [
+        {
+          "name": "Les Chaussettes Noires",
+          "url": "https://open.spotify.com/artist/6KXdUNa8QT8Sty4k5G2LqK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153280,
+      "name": "Daniela (de quoi te m\u00eales-tu Daniela)",
+      "url": "https://open.spotify.com/track/7H1PXJ9fh4L7T8dLF9v2za"
+    },
+    {
+      "album": {
+        "name": "Long Box 3 CD",
+        "url": "https://open.spotify.com/album/7pfowC0bQ1sp5KV4uIXcVj"
+      },
+      "artists": [
+        {
+          "name": "Les Chaussettes Noires",
+          "url": "https://open.spotify.com/artist/6KXdUNa8QT8Sty4k5G2LqK"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155506,
+      "name": "Daniela (de quoi te m\u00eales-tu Daniela)",
+      "url": "https://open.spotify.com/track/3ViDEvv6PgjE0yiYDmJjrA"
+    },
+    {
+      "album": {
+        "name": "Tendres Annees",
+        "url": "https://open.spotify.com/album/5ka3kH5QiNRqPJr0HvTSmY"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144960,
+      "name": "Dans mes bras oublie ta peine",
+      "url": "https://open.spotify.com/track/0q4gNGS2rCxzbpiJvE7R2D"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/5uplCXh4kyfX3JnC8t76Cd"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Dans mes bras oublie ta peine",
+      "url": "https://open.spotify.com/track/38FNGeI74jlw6S9kXLtzsy"
+    },
+    {
+      "album": {
+        "name": "Cocorico",
+        "url": "https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 144960,
+      "name": "Dans mes bras oublie ta peine",
+      "url": "https://open.spotify.com/track/3v2OihRftMdzfWpNpQ1AD5"
+    },
+    {
+      "album": {
+        "name": "Les ann\u00e9es 60, Vol. 2",
+        "url": "https://open.spotify.com/album/7psc0MrG0TGTKXwSTsjRom"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carli",
+          "url": "https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 174693,
+      "name": "Demain tu te maries",
+      "url": "https://open.spotify.com/track/0Aziek43A42InI3fZgORWf"
+    },
+    {
+      "album": {
+        "name": "Tendres Annees",
+        "url": "https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carli",
+          "url": "https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "Demain tu te maries",
+      "url": "https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh"
+    },
+    {
+      "album": {
+        "name": "Et moi, et moi, et moi",
+        "url": "https://open.spotify.com/album/3UPrsSEE9KIjy0Hln8Swkn"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175466,
+      "name": "Et moi, et moi, et moi",
+      "url": "https://open.spotify.com/track/4XSRqScl0RWxFjOQID8QCW"
+    },
+    {
+      "album": {
+        "name": "Brigitte Bardot Show 67",
+        "url": "https://open.spotify.com/album/0uhqJFy7MI5yJHdgofylnN"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Harley Davidson",
+      "url": "https://open.spotify.com/track/0wXKL7dVWwl8LZjbhKMGPr"
+    },
+    {
+      "album": {
+        "name": "Les Gam's",
+        "url": "https://open.spotify.com/album/6ktDHC59EX6rpC3RFjFCIW"
+      },
+      "artists": [
+        {
+          "name": "Les Gam's",
+          "url": "https://open.spotify.com/artist/5yj1bCBGvwhFRgYuKZgHqa"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148350,
+      "name": "Il a le Truc",
+      "url": "https://open.spotify.com/track/70fuO7PxNJXxtApu6Vki8e"
+    },
+    {
+      "album": {
+        "name": "Il est cinq heures",
+        "url": "https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Il est cinq heures, Paris s'\u00e9veille",
+      "url": "https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj"
+    },
+    {
+      "album": {
+        "name": "Il Fait Trop Beau Pour Travailler",
+        "url": "https://open.spotify.com/album/3qYJhooIMPsv0O501RunHQ"
+      },
+      "artists": [
+        {
+          "name": "Les Parisiennes",
+          "url": "https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140173,
+      "name": "Il fait trop beau pour travailler",
+      "url": "https://open.spotify.com/track/4Xt6do7xmBqVEs1G6vkPlh"
+    },
+    {
+      "album": {
+        "name": "Cocorico",
+        "url": "https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05"
+      },
+      "artists": [
+        {
+          "name": "Les Parisiennes",
+          "url": "https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-17",
+      "duration_ms": 140173,
+      "name": "Il fait trop beau pour travailler",
+      "url": "https://open.spotify.com/track/5ATfGq3HBnsrzLDRj8mkYL"
+    },
+    {
+      "album": {
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136440,
+      "name": "Itsi bitsi petit bikini",
+      "url": "https://open.spotify.com/track/58d1Duljvjx8bwG4nlLgK6"
+    },
+    {
+      "album": {
+        "name": "D'ici et d'ailleurs - Le meilleur de Dalida \u00e0 travers le monde",
+        "url": "https://open.spotify.com/album/4N8rDc5TXbGctoRkzo9ByU"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141120,
+      "name": "Itsi bitsi petit bikini",
+      "url": "https://open.spotify.com/track/26zpCtNVJjHG2jgEW0a76g"
+    },
+    {
+      "album": {
+        "name": "Hit Parade Best Of",
+        "url": "https://open.spotify.com/album/5MPOyZcY2WCcALz7YbNr05"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 137173,
+      "name": "Itsi Bitsi Petit Bikini / Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
+      "url": "https://open.spotify.com/track/3AmaOYSLccL1G0dw9SC8eQ"
+    },
+    {
+      "album": {
+        "name": "En Vogue",
+        "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "J'aime les filles",
+      "url": "https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo"
+    },
+    {
+      "album": {
+        "name": "Nouvelle Vague",
+        "url": "https://open.spotify.com/album/3RD8OwrRIVqE37lTzqD0XD"
+      },
+      "artists": [
+        {
+          "name": "Richard Anthony",
+          "url": "https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203640,
+      "name": "J'entends siffler le train",
+      "url": "https://open.spotify.com/track/0nxE1Ed9fbfLw6oVHR6N3N"
+    },
+    {
+      "album": {
+        "name": "les plus belles chansons",
+        "url": "https://open.spotify.com/album/0dvnB0KschqGz0ezdnWsmO"
+      },
+      "artists": [
+        {
+          "name": "Richard Anthony",
+          "url": "https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "J'entends siffler le train",
+      "url": "https://open.spotify.com/track/487LFx8UVLxUsDAdetnCp2"
+    },
+    {
+      "album": {
+        "name": "J'entends siffler le train (Remastered)",
+        "url": "https://open.spotify.com/album/3inxzMkdAUx94zJDaB5HcC"
+      },
+      "artists": [
+        {
+          "name": "Richard Anthony",
+          "url": "https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 200407,
+      "name": "J'entends siffler le train - Remastered",
+      "url": "https://open.spotify.com/track/1PtsUo7Zsadub2T4anyF6O"
+    },
+    {
+      "album": {
+        "name": "Jean-Philippe",
+        "url": "https://open.spotify.com/album/0fNCDCmWK9OIlT9X5y92Y9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 147373,
+      "name": "L'idole des jeunes",
+      "url": "https://open.spotify.com/track/4uEAhKOTCxHrkcYIg3C5wt"
+    },
+    {
+      "album": {
+        "name": "L'Idole des jeunes",
+        "url": "https://open.spotify.com/album/2uUQ2HkoPEzh55x1Zx549F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148093,
+      "name": "L'idole des jeunes",
+      "url": "https://open.spotify.com/track/53ZKkbhsI7p27GN5TcVbdX"
+    },
+    {
+      "album": {
+        "name": "Anthologie Vol. 1",
+        "url": "https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148133,
+      "name": "L'idole des jeunes",
+      "url": "https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez"
+    },
+    {
+      "album": {
+        "name": "Sheila (Compilation 2006)",
+        "url": "https://open.spotify.com/album/6ixot8kh9JC9usgdNBKkZB"
+      },
+      "artists": [
+        {
+          "name": "Sheila",
+          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159720,
+      "name": "L'\u00e9cole est finie - Version st\u00e9r\u00e9o",
+      "url": "https://open.spotify.com/track/4Kgq5PpWPsqMLOId5CvoYF"
+    },
+    {
+      "album": {
+        "name": "Les plus belles chansons fran\u00e7aises",
+        "url": "https://open.spotify.com/album/1FGF4A3hrzH1YBHTNoVKrU"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/3ZOmDC01bMYi8PcdeQ2zgD"
+    },
+    {
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
+    },
+    {
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/0ChLtqgbEO6vTIQVYQcxc3"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151094,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/6wV31VHHbmA5C7vl08HA7S"
+    },
+    {
+      "album": {
+        "name": "C'est Ma Chanson",
+        "url": "https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 175693,
+      "name": "La nuit n'en finit plus",
+      "url": "https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb"
+    },
+    {
+      "album": {
+        "name": "C'est ma chanson",
+        "url": "https://open.spotify.com/album/3tZV6fFNYUXa3HUFaT7Xhz"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 178640,
+      "name": "La nuit n'en finit plus",
+      "url": "https://open.spotify.com/track/1TGcuqWyRfV488tGSiv9iq"
+    },
+    {
+      "album": {
+        "name": "C'est ma chanson",
+        "url": "https://open.spotify.com/album/5vcS1aftWAi42Jw7I8UXWP"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178640,
+      "name": "La nuit n'en finit plus",
+      "url": "https://open.spotify.com/track/5dPrYYQcqfZh3Wg3cnS43w"
+    },
+    {
+      "album": {
+        "name": "A Nashville",
+        "url": "https://open.spotify.com/album/1MmmmrUViWnOkzlxLTYQzq"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Vartan",
+          "url": "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 149800,
+      "name": "La plus Belle pour Aller Danser",
+      "url": "https://open.spotify.com/track/1V8V3UYeX2Est81MMucvJC"
+    },
+    {
+      "album": {
+        "name": "Le meilleur des ann\u00e9es RCA",
+        "url": "https://open.spotify.com/album/0hDBBVDvifGDR3HXujYthJ"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Vartan",
+          "url": "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153933,
+      "name": "La plus Belle pour Aller Danser",
+      "url": "https://open.spotify.com/track/63kzVzdblx4FzGx3ctmTPn"
+    },
+    {
+      "album": {
+        "name": "Sylvie Vartan",
+        "url": "https://open.spotify.com/album/0ZXogrtxGD1Uz4CrlcoAmp"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Vartan",
+          "url": "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156734,
+      "name": "La Plus Belle Pour Aller Danser",
+      "url": "https://open.spotify.com/track/5iJRjhwDCnhLBoGLrXr0jj"
+    },
+    {
+      "album": {
+        "name": "Sylvie Vartan",
+        "url": "https://open.spotify.com/album/06FWWMSdXEmoQaBrTihM0B"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Vartan",
+          "url": "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156760,
+      "name": "La plus belle pour aller danser",
+      "url": "https://open.spotify.com/track/7gmYsqbN1hrrSOsxNlvq4W"
+    },
+    {
+      "album": {
+        "name": "Les ann\u00e9es 60, Vol. 3 (Les plus belles chansons)",
+        "url": "https://open.spotify.com/album/6fMDDEdR5nenBrVBNXHuUe"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 125426,
+      "name": "Laisse tomber les filles",
+      "url": "https://open.spotify.com/track/6E8UbIEeB01Op5PAuP5cyn"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127160,
+      "name": "Laisse tomber les filles",
+      "url": "https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ"
+    },
+    {
+      "album": {
+        "name": "New Year's Eve 2021 with the Frenchies",
+        "url": "https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 133520,
+      "name": "Laisse tomber les filles",
+      "url": "https://open.spotify.com/track/0mU8byD07n6FLEOqxRJcz1"
+    },
+    {
+      "album": {
+        "name": "Les Champs-\u00c8lys\u00e9es",
+        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Le petit pain au chocolat",
+      "url": "https://open.spotify.com/track/2VRLDyUSV5krEJOjFwsWas"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
+    },
+    {
+      "album": {
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Le t\u00e9l\u00e9fon",
+      "url": "https://open.spotify.com/track/5MkRyZiEyNnosHTAYs23Mx"
+    },
+    {
+      "album": {
+        "name": "Les Champs-\u00c8lys\u00e9es",
+        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157626,
+      "name": "Les Champs-Elys\u00e9es",
+      "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e9sors 60's",
+        "url": "https://open.spotify.com/album/406ITkSun3uzXzUwqLKneX"
+      },
+      "artists": [
+        {
+          "name": "Antoine",
+          "url": "https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 206466,
+      "name": "Les elucubrations d'Antoine",
+      "url": "https://open.spotify.com/track/6898KjBwWLdsJUH1Tu9rI7"
+    },
+    {
+      "album": {
+        "name": "Cuentame",
+        "url": "https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs"
+      },
+      "artists": [
+        {
+          "name": "Antoine",
+          "url": "https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Les elucubrations d'Antoine",
+      "url": "https://open.spotify.com/track/2yHTeToSYvVE9FuUO3uwHe"
+    },
+    {
+      "album": {
+        "name": "MusicWorld France",
+        "url": "https://open.spotify.com/album/0WKozvA71AJGWSNW6y9Aa0"
+      },
+      "artists": [
+        {
+          "name": "Antoine",
+          "url": "https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207400,
+      "name": "Les elucubrations d'Antoine",
+      "url": "https://open.spotify.com/track/79JldwTZxGilhRuQlECrz2"
+    },
+    {
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
+    },
+    {
+      "album": {
+        "name": "Cocorico",
+        "url": "https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05"
+      },
+      "artists": [
+        {
+          "name": "Frank Alamo",
+          "url": "https://open.spotify.com/artist/3NrXcUsQ2zK1oze56zlKUM"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 138026,
+      "name": "Ma biche",
+      "url": "https://open.spotify.com/track/2C4Z819AnkLo8YWgWZpCXh"
+    },
+    {
+      "album": {
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/574E4sQjG1V6mpuFrVWIpl"
+      },
+      "artists": [
+        {
+          "name": "Frank Alamo",
+          "url": "https://open.spotify.com/artist/3NrXcUsQ2zK1oze56zlKUM"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Ma biche",
+      "url": "https://open.spotify.com/track/2xwpd8oRBZiEmCdRvhnzTl"
+    },
+    {
+      "album": {
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/15Ul1kl0QUCxTLR1IgMMz6"
+      },
+      "artists": [
+        {
+          "name": "Frank Alamo",
+          "url": "https://open.spotify.com/artist/3NrXcUsQ2zK1oze56zlKUM"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142173,
+      "name": "Ma biche",
+      "url": "https://open.spotify.com/track/4aQdYn8c5BrVpZ4GZpPHzr"
+    },
+    {
+      "album": {
+        "name": "20 Chansons D'or",
+        "url": "https://open.spotify.com/album/6BbnudpBxhrGGLTHfc3nC0"
+      },
+      "artists": [
+        {
+          "name": "Adamo",
+          "url": "https://open.spotify.com/artist/26ycUCO6mpGAZPw9yHzhon"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178266,
+      "name": "Mes mains sur tes hanches",
+      "url": "https://open.spotify.com/track/7pYErbyVO59xUZQC08FI2v"
+    },
+    {
+      "album": {
+        "name": "Singles + Faces B 1964-1966",
+        "url": "https://open.spotify.com/album/5hMPMHP3ks0km3jDp5xGnF"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "Mes mains sur tes hanches",
+      "url": "https://open.spotify.com/track/4chX3KwIY3BJBqsnXpgDSy"
+    },
+    {
+      "album": {
+        "name": "L' essentiel",
+        "url": "https://open.spotify.com/album/3fQ3ExJgpL6A0AVw4oL53f"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 178266,
+      "name": "Mes mains sur tes hanches",
+      "url": "https://open.spotify.com/track/5J1vSiDuzEbnkfRLw6T19H"
+    },
+    {
+      "album": {
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144040,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/0cV7Y3WH3iwsZTjibVyck1"
+    },
+    {
+      "album": {
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/7EXl1EDhQ8z50gJpYfC9jB"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144040,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/6ra8H4uQsTWKmSyovSRcK5"
+    },
+    {
+      "album": {
+        "name": "Les 50 Plus Belles Chansons",
+        "url": "https://open.spotify.com/album/3lUBO178ihbMVB41U5qE53"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144093,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/1V4XG6ZfJw6P89Yo9mBaFA"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
+        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137160,
+      "name": "Mon amie la rose",
+      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 150506,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/7i4WaTC7Xp6SY49aCdcVia"
+    },
+    {
+      "album": {
+        "name": "Hits chanson fran\u00e7aise",
+        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
+    },
+    {
+      "album": {
+        "name": "Champions Of Europe",
+        "url": "https://open.spotify.com/album/4Qjpudb7cTQe7BM6UxuHTu"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/46Lyf9Cur09tBVBVA8GMKt"
+    },
+    {
+      "album": {
+        "name": "Chansons Collected",
+        "url": "https://open.spotify.com/album/1mJgaoLt3bJRoOY16VYd6G"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/6D5KhpY0TFfZWTYriDgErp"
+    },
+    {
+      "album": {
+        "name": "L'album de sa vie 100 titres",
+        "url": "https://open.spotify.com/album/1UZ7nohagyt799Vw0vUU4c"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175320,
+      "name": "Retiens la nuit",
+      "url": "https://open.spotify.com/track/4dBzCMkzbZlEqgPitN3TgE"
+    },
+    {
+      "album": {
+        "name": "Salut les copains",
+        "url": "https://open.spotify.com/album/5FDxqiMUFTJvINVP4N6K7K"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156293,
+      "name": "Salut les copains",
+      "url": "https://open.spotify.com/track/0h1Yfiy1LEHsyQTzGIZklu"
+    },
+    {
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132533,
+      "name": "Santiano",
+      "url": "https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz"
+    },
+    {
+      "album": {
+        "name": "Les Champs-\u00c8lys\u00e9es",
+        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157573,
+      "name": "Siffler sur la colline",
+      "url": "https://open.spotify.com/track/3gvUS6JaXzbXNihHQlRWBW"
+    },
+    {
+      "album": {
+        "name": "Souvenirs, Souvenirs",
+        "url": "https://open.spotify.com/album/55wZUMJJK62Yb1QoQK7imL"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129960,
+      "name": "Souvenirs, souvenirs",
+      "url": "https://open.spotify.com/track/1DDdDbmbEDsFXEXgxBmvFQ"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 187746,
+      "name": "Tous les gar\u00e7ons et les filles - Slow",
+      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "album": {
+        "name": "Est-ce que tu le sais ? (avec Dick Rivers)",
+        "url": "https://open.spotify.com/album/2eusU9U7fLiHhsQwoiFiou"
+      },
+      "artists": [
+        {
+          "name": "Les Chats Sauvages",
+          "url": "https://open.spotify.com/artist/60U5Nsvpj5mJics5PcIkmd"
+        },
+        {
+          "name": "Dick Rivers",
+          "url": "https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104600,
+      "name": "Twist \u00e0 Saint-Tropez",
+      "url": "https://open.spotify.com/track/5zUJlRQyzxw09Jv1hDgL5h"
+    },
+    {
+      "album": {
+        "name": "Les ann\u00e9es 60, Vol. 2",
+        "url": "https://open.spotify.com/album/7psc0MrG0TGTKXwSTsjRom"
+      },
+      "artists": [
+        {
+          "name": "Monty",
+          "url": "https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 131426,
+      "name": "Un verre de whisky",
+      "url": "https://open.spotify.com/track/6mWJLNSVLNJDa2f0Quqa3X"
+    },
+    {
+      "album": {
+        "name": "Monty Tendres Ann\u00e9es 60",
+        "url": "https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP"
+      },
+      "artists": [
+        {
+          "name": "Monty",
+          "url": "https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133666,
+      "name": "Un verre de whisky",
+      "url": "https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt"
+    },
+    {
+      "album": {
+        "name": "Anthologie Vol. 1",
+        "url": "https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124093,
+      "name": "Viens danser le twist",
+      "url": "https://open.spotify.com/track/5QLZEGOnjRYhqjAii9JAaP"
+    },
+    {
+      "album": {
+        "name": "Viens danser le Twist (St\u00e9r\u00e9o)",
+        "url": "https://open.spotify.com/album/6FFZtB7pXVbL13lxNH1VQA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 126813,
+      "name": "Viens danser le twist",
+      "url": "https://open.spotify.com/track/0CibYO3SSIBM8skoXwHKpr"
+    },
+    {
+      "album": {
+        "name": "\u00c9coute ce disque",
+        "url": "https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp"
+      },
+      "artists": [
+        {
+          "name": "Sheila",
+          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133240,
+      "name": "Vous les copains",
+      "url": "https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP"
+    },
+    {
+      "album": {
+        "name": "Les N\u00b01",
+        "url": "https://open.spotify.com/album/1LL8Bpuu24eNeOyxqAUFSd"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176466,
+      "name": "Vous permettez Monsieur",
+      "url": "https://open.spotify.com/track/7ooXNiHvxOaVJ8Bfb4hnic"
+    },
+    {
+      "album": {
+        "name": "Le disque d'or (Remastered)",
+        "url": "https://open.spotify.com/album/5W64Efp3Z9rSRRgCncuRRV"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182200,
+      "name": "Vous permettez, monsieur ?",
+      "url": "https://open.spotify.com/track/1zuKBLFQF8xlBcA8VrN3LU"
+    },
+    {
+      "album": {
+        "name": "Adamo - studio 1",
+        "url": "https://open.spotify.com/album/5UR5XXp6YVvI9kRRUgdNtl"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Vous permettez, monsieur ?",
+      "url": "https://open.spotify.com/track/3xCE5pciNmiRNUk9J6pWeM"
+    },
+    {
+      "album": {
+        "name": "Twistin\u2019 The Rock, Vol. 9",
+        "url": "https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg"
+      },
+      "artists": [
+        {
+          "name": "Gillian Hills",
+          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Zou bisou bisou",
+      "url": "https://open.spotify.com/track/4qqf1avpzRUnVowNQd1jFw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8OVycSP3AXz"
 }

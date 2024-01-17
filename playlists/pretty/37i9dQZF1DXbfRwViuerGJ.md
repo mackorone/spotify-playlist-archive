@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 
 > Celebrate all of the best Spotify Kids' hits in 2023 with your family!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,202 likes - 35 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,108 likes - 35 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 |
+| 1 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 |
 | 2 | [Dance Mode](https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:58 |
 | 3 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
 | 4 | [you can fly](https://open.spotify.com/track/0zquapxRr9z4nFyC4eQ6CA) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:01 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 | 34 | [JJ Says](https://open.spotify.com/track/44pkcxAxTC6FQPjANGSdQ1) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Let's Play!](https://open.spotify.com/album/4QFoOP1nrmlSi0U1ajH1iE) | 2:43 |
 | 35 | [Happy Dance](https://open.spotify.com/track/0k1rBoFbEGVTyZd1GVbEW5) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [Snuffleupagus](https://open.spotify.com/artist/4s59qVGtHnriH2APKSliX5), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Happy Dance](https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg) | 1:47 |
 
-Snapshot ID: `MCw3NGNlMzliZWE3MmZlNWZiNmVmNGU1NWEwMjY4YjkwNWJlNDNjNmQ5`
+Snapshot ID: `MCxmM2I3MzFhNzA2ZjRkMDQyNzQyMzAxOWZjN2I3OWZiOTRjMzFhMjhh`

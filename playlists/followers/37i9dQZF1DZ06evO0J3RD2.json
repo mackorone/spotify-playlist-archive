@@ -1,472 +1,783 @@
 {
-  "2022-09-17": 2873,
-  "2022-09-18": 2884,
-  "2022-09-19": 2893,
-  "2022-09-20": 2902,
-  "2022-09-21": 2912,
-  "2022-09-22": 2921,
-  "2022-09-23": 2933,
-  "2022-09-24": 2936,
-  "2022-09-25": 2940,
-  "2022-09-26": 2948,
-  "2022-09-27": 2954,
-  "2022-09-28": 2961,
-  "2022-09-29": 2966,
-  "2022-09-30": 2977,
-  "2022-10-01": 2982,
-  "2022-10-02": 2986,
-  "2022-10-03": 2991,
-  "2022-10-04": 2998,
-  "2022-10-05": 3007,
-  "2022-10-06": 3018,
-  "2022-10-07": 3017,
-  "2022-10-08": 3024,
-  "2022-10-09": 3032,
-  "2022-10-10": 3034,
-  "2022-10-11": 3037,
-  "2022-10-12": 3045,
-  "2022-10-13": 3054,
-  "2022-10-14": 3064,
-  "2022-10-15": 3078,
-  "2022-10-16": 3079,
-  "2022-10-17": 3089,
-  "2022-10-18": 3094,
-  "2022-10-19": 3102,
-  "2022-10-20": 3111,
-  "2022-10-21": 3117,
-  "2022-10-22": 3125,
-  "2022-10-23": 3135,
-  "2022-10-24": 3142,
-  "2022-10-25": 3152,
-  "2022-10-26": 3156,
-  "2022-10-27": 3162,
-  "2022-10-28": 3173,
-  "2022-10-29": 3181,
-  "2022-10-30": 3185,
-  "2022-10-31": 3188,
-  "2022-11-01": 3193,
-  "2022-11-02": 3201,
-  "2022-11-03": 3203,
-  "2022-11-04": 3207,
-  "2022-11-05": 3207,
-  "2022-11-06": 3208,
-  "2022-11-07": 3210,
-  "2022-11-08": 3218,
-  "2022-11-09": 3222,
-  "2022-11-10": 3226,
-  "2022-11-11": 3233,
-  "2022-11-12": 3243,
-  "2022-11-13": 3247,
-  "2022-11-14": 3248,
-  "2022-11-15": 3251,
-  "2022-11-16": 3255,
-  "2022-11-17": 3262,
-  "2022-11-18": 3263,
-  "2022-11-19": 3265,
-  "2022-11-20": 3268,
-  "2022-11-21": 3272,
-  "2022-11-22": 3278,
-  "2022-11-23": 3283,
-  "2022-11-24": 3290,
-  "2022-11-25": 3302,
-  "2022-11-26": 3308,
-  "2022-11-27": 3312,
-  "2022-11-28": 3315,
-  "2022-11-29": 3317,
-  "2022-11-30": 3318,
-  "2022-12-01": 3325,
-  "2022-12-02": 3333,
-  "2022-12-03": 3340,
-  "2022-12-04": 3345,
-  "2022-12-05": 3350,
-  "2022-12-06": 3356,
-  "2022-12-07": 3360,
-  "2022-12-08": 3362,
-  "2022-12-09": 3366,
-  "2022-12-10": 3372,
-  "2022-12-11": 3377,
-  "2022-12-12": 3384,
-  "2022-12-13": 3388,
-  "2022-12-14": 3394,
-  "2022-12-15": 3395,
-  "2022-12-16": 3400,
-  "2022-12-17": 3404,
-  "2022-12-18": 3406,
-  "2022-12-19": 3412,
-  "2022-12-20": 3421,
-  "2022-12-21": 3421,
-  "2022-12-22": 3425,
-  "2022-12-24": 3431,
-  "2022-12-25": 3433,
-  "2022-12-26": 3438,
-  "2022-12-27": 3444,
-  "2022-12-28": 3445,
-  "2022-12-29": 3450,
-  "2022-12-30": 3463,
-  "2022-12-31": 3469,
-  "2023-01-01": 3471,
-  "2023-01-02": 3474,
-  "2023-01-03": 3478,
-  "2023-01-04": 3484,
-  "2023-01-05": 3488,
-  "2023-01-06": 3491,
-  "2023-01-07": 3497,
-  "2023-01-08": 3500,
-  "2023-01-09": 3507,
-  "2023-01-10": 3516,
-  "2023-01-11": 3519,
-  "2023-01-12": 3523,
-  "2023-01-13": 3527,
-  "2023-01-14": 3551,
-  "2023-01-15": 3553,
-  "2023-01-16": 3558,
-  "2023-01-17": 3571,
-  "2023-01-18": 3581,
-  "2023-01-19": 3588,
-  "2023-01-20": 3593,
-  "2023-01-21": 3603,
-  "2023-01-22": 3608,
-  "2023-01-23": 3615,
-  "2023-01-24": 3622,
-  "2023-01-25": 3626,
-  "2023-01-26": 3630,
-  "2023-01-27": 3637,
-  "2023-01-28": 3645,
-  "2023-01-29": 3650,
-  "2023-01-30": 3654,
-  "2023-01-31": 3654,
-  "2023-02-01": 3663,
-  "2023-02-02": 3668,
-  "2023-02-03": 3672,
-  "2023-02-04": 3677,
-  "2023-02-05": 3682,
-  "2023-02-06": 3685,
-  "2023-02-07": 3692,
-  "2023-02-08": 3701,
-  "2023-02-09": 3701,
-  "2023-02-10": 3714,
-  "2023-02-11": 3722,
-  "2023-02-12": 3727,
-  "2023-02-13": 3731,
-  "2023-02-14": 3731,
-  "2023-02-15": 3736,
-  "2023-02-16": 3745,
-  "2023-02-17": 3747,
-  "2023-02-18": 3760,
-  "2023-02-19": 3760,
-  "2023-02-20": 3768,
-  "2023-02-21": 3771,
-  "2023-02-22": 3778,
-  "2023-02-23": 3783,
-  "2023-02-24": 3785,
-  "2023-02-25": 3790,
-  "2023-02-26": 3790,
-  "2023-02-27": 3798,
-  "2023-02-28": 3798,
-  "2023-03-01": 3800,
-  "2023-03-02": 3806,
-  "2023-03-03": 3812,
-  "2023-03-04": 3814,
-  "2023-03-05": 3815,
-  "2023-03-06": 3815,
-  "2023-03-07": 3821,
-  "2023-03-08": 3826,
-  "2023-03-09": 3825,
-  "2023-03-10": 3834,
-  "2023-03-11": 3836,
-  "2023-03-12": 3842,
-  "2023-03-13": 3846,
-  "2023-03-14": 3852,
-  "2023-03-15": 3859,
-  "2023-03-16": 3865,
-  "2023-03-17": 3865,
-  "2023-03-18": 3880,
-  "2023-03-19": 3886,
-  "2023-03-20": 3895,
-  "2023-03-21": 3899,
-  "2023-03-22": 3909,
-  "2023-03-23": 3915,
-  "2023-03-24": 3915,
-  "2023-03-25": 3943,
-  "2023-03-26": 3953,
-  "2023-03-27": 3963,
-  "2023-03-28": 3982,
-  "2023-03-29": 3995,
-  "2023-03-30": 4007,
-  "2023-03-31": 4007,
-  "2023-04-01": 4015,
-  "2023-04-02": 4023,
-  "2023-04-03": 4026,
-  "2023-04-04": 4031,
-  "2023-04-05": 4038,
-  "2023-04-06": 4046,
-  "2023-04-07": 4055,
-  "2023-04-09": 4074,
-  "2023-04-10": 4079,
-  "2023-04-11": 4089,
-  "2023-04-12": 4089,
-  "2023-04-13": 4097,
-  "2023-04-14": 4104,
-  "2023-04-15": 4111,
-  "2023-04-16": 4114,
-  "2023-04-17": 4118,
-  "2023-04-18": 4120,
-  "2023-04-19": 4124,
-  "2023-04-20": 4134,
-  "2023-04-21": 4142,
-  "2023-04-22": 4147,
-  "2023-04-23": 4152,
-  "2023-04-24": 4157,
-  "2023-04-25": 4158,
-  "2023-04-26": 4161,
-  "2023-04-27": 4168,
-  "2023-04-28": 4176,
-  "2023-04-29": 4192,
-  "2023-04-30": 4196,
-  "2023-05-01": 4200,
-  "2023-05-02": 4201,
-  "2023-05-03": 4210,
-  "2023-05-04": 4220,
-  "2023-05-05": 4231,
-  "2023-05-06": 4234,
-  "2023-05-07": 4243,
-  "2023-05-08": 4248,
-  "2023-05-09": 4255,
-  "2023-05-10": 4261,
-  "2023-05-11": 4273,
-  "2023-05-12": 4282,
-  "2023-05-13": 4289,
-  "2023-05-14": 4293,
-  "2023-05-15": 4300,
-  "2023-05-16": 4306,
-  "2023-05-17": 4324,
-  "2023-05-18": 4335,
-  "2023-05-19": 4344,
-  "2023-05-20": 4356,
-  "2023-05-21": 4356,
-  "2023-05-22": 4356,
-  "2023-05-23": 4375,
-  "2023-05-24": 4384,
-  "2023-05-25": 4385,
-  "2023-05-26": 4400,
-  "2023-05-27": 4414,
-  "2023-05-28": 4417,
-  "2023-05-29": 4417,
-  "2023-05-30": 4436,
-  "2023-05-31": 4450,
-  "2023-06-01": 4465,
-  "2023-06-02": 4477,
-  "2023-06-03": 4486,
-  "2023-06-04": 4494,
-  "2023-06-05": 4507,
-  "2023-06-06": 4513,
-  "2023-06-07": 4519,
-  "2023-06-08": 4528,
-  "2023-06-09": 4534,
-  "2023-06-10": 4545,
-  "2023-06-11": 4555,
-  "2023-06-12": 4559,
-  "2023-06-13": 4574,
-  "2023-06-14": 4574,
-  "2023-06-15": 4583,
-  "2023-06-16": 4590,
-  "2023-06-17": 4601,
-  "2023-06-18": 4609,
-  "2023-06-19": 4613,
-  "2023-06-20": 4620,
-  "2023-06-21": 4626,
-  "2023-06-22": 4638,
-  "2023-06-23": 4647,
-  "2023-06-24": 4655,
-  "2023-06-25": 4658,
-  "2023-06-26": 4662,
-  "2023-06-27": 4670,
-  "2023-06-28": 4675,
-  "2023-06-29": 4679,
-  "2023-06-30": 4684,
-  "2023-07-01": 4695,
-  "2023-07-02": 4695,
-  "2023-07-03": 4699,
-  "2023-07-04": 4703,
-  "2023-07-05": 4707,
-  "2023-07-06": 4723,
-  "2023-07-07": 4723,
-  "2023-07-08": 4727,
-  "2023-07-09": 4725,
-  "2023-07-10": 4728,
-  "2023-07-11": 4733,
-  "2023-07-12": 4738,
-  "2023-07-13": 4740,
-  "2023-07-14": 4742,
-  "2023-07-15": 4748,
-  "2023-07-16": 4755,
-  "2023-07-17": 4757,
-  "2023-07-18": 4763,
-  "2023-07-19": 4768,
-  "2023-07-20": 4778,
-  "2023-07-21": 4791,
-  "2023-07-22": 4799,
-  "2023-07-23": 4801,
-  "2023-07-24": 4805,
-  "2023-07-25": 4812,
-  "2023-07-26": 4824,
-  "2023-07-27": 4835,
-  "2023-07-28": 4843,
-  "2023-07-29": 4850,
-  "2023-07-30": 4856,
-  "2023-07-31": 4859,
-  "2023-08-01": 4873,
-  "2023-08-02": 4878,
-  "2023-08-03": 4882,
-  "2023-08-04": 4888,
-  "2023-08-05": 4894,
-  "2023-08-06": 4918,
-  "2023-08-07": 4918,
-  "2023-08-08": 4923,
-  "2023-08-09": 4935,
-  "2023-08-10": 4940,
-  "2023-08-11": 4950,
-  "2023-08-12": 4954,
-  "2023-08-13": 4954,
-  "2023-08-14": 4966,
-  "2023-08-15": 4972,
-  "2023-08-16": 4972,
-  "2023-08-17": 4982,
-  "2023-08-18": 4982,
-  "2023-08-19": 5005,
-  "2023-08-20": 5016,
-  "2023-08-21": 5024,
-  "2023-08-22": 5030,
-  "2023-08-23": 5032,
-  "2023-08-24": 5040,
-  "2023-08-25": 5052,
-  "2023-08-26": 5059,
-  "2023-08-27": 5064,
-  "2023-08-28": 5068,
-  "2023-08-29": 5075,
-  "2023-08-30": 5075,
-  "2023-08-31": 5093,
-  "2023-09-01": 5101,
-  "2023-09-02": 5101,
-  "2023-09-03": 5112,
-  "2023-09-04": 5112,
-  "2023-09-05": 5127,
-  "2023-09-06": 5138,
-  "2023-09-07": 5138,
-  "2023-09-08": 5138,
-  "2023-09-09": 5138,
-  "2023-09-10": 5169,
-  "2023-09-11": 5180,
-  "2023-09-12": 5180,
-  "2023-09-13": 5191,
-  "2023-09-14": 5191,
-  "2023-09-15": 5191,
-  "2023-09-16": 5215,
-  "2023-09-17": 5215,
-  "2023-09-18": 5215,
-  "2023-09-19": 5243,
-  "2023-09-20": 5243,
-  "2023-09-21": 5243,
-  "2023-09-22": 5270,
-  "2023-09-23": 5270,
-  "2023-09-24": 5270,
-  "2023-09-25": 5270,
-  "2023-09-26": 5315,
-  "2023-09-27": 5315,
-  "2023-09-28": 5315,
-  "2023-09-29": 5315,
-  "2023-09-30": 5315,
-  "2023-10-01": 5315,
-  "2023-10-02": 5356,
-  "2023-10-03": 5356,
-  "2023-10-04": 5356,
-  "2023-10-05": 5370,
-  "2023-10-06": 5373,
-  "2023-10-07": 5373,
-  "2023-10-08": 5373,
-  "2023-10-09": 5373,
-  "2023-10-10": 5373,
-  "2023-10-11": 5408,
-  "2023-10-12": 5408,
-  "2023-10-13": 5408,
-  "2023-10-14": 5408,
-  "2023-10-15": 5408,
-  "2023-10-16": 5408,
-  "2023-10-17": 5408,
-  "2023-10-18": 5408,
-  "2023-10-19": 5408,
-  "2023-10-20": 5408,
-  "2023-10-21": 5408,
-  "2023-10-22": 5408,
-  "2023-10-23": 5408,
-  "2023-10-24": 5408,
-  "2023-10-25": 5408,
-  "2023-10-26": 5408,
-  "2023-10-27": 5408,
-  "2023-10-28": 5408,
-  "2023-10-29": 5408,
-  "2023-10-30": 5408,
-  "2023-10-31": 5408,
-  "2023-11-01": 5408,
-  "2023-11-02": 5408,
-  "2023-11-03": 5408,
-  "2023-11-04": 5408,
-  "2023-11-05": 5408,
-  "2023-11-06": 5408,
-  "2023-11-07": 5408,
-  "2023-11-08": 5408,
-  "2023-11-09": 5408,
-  "2023-11-10": 5408,
-  "2023-11-11": 5612,
-  "2023-11-12": 5612,
-  "2023-11-13": 5612,
-  "2023-11-14": 5612,
-  "2023-11-15": 5612,
-  "2023-11-16": 5612,
-  "2023-11-17": 5612,
-  "2023-11-18": 5612,
-  "2023-11-19": 5612,
-  "2023-11-20": 5612,
-  "2023-11-21": 5612,
-  "2023-11-22": 5612,
-  "2023-11-23": 5612,
-  "2023-11-24": 5612,
-  "2023-11-25": 5612,
-  "2023-11-26": 5612,
-  "2023-11-27": 5612,
-  "2023-11-28": 5612,
-  "2023-11-29": 5612,
-  "2023-11-30": 5612,
-  "2023-12-01": 5612,
-  "2023-12-02": 5612,
-  "2023-12-03": 5612,
-  "2023-12-04": 5612,
-  "2023-12-05": 5612,
-  "2023-12-06": 5612,
-  "2023-12-07": 5612,
-  "2023-12-08": 5612,
-  "2023-12-09": 5612,
-  "2023-12-10": 5612,
-  "2023-12-11": 5612,
-  "2023-12-12": 5612,
-  "2023-12-13": 5612,
-  "2023-12-14": 5800,
-  "2023-12-15": 5802,
-  "2023-12-16": 5814,
-  "2023-12-17": 5821,
-  "2023-12-18": 5826,
-  "2023-12-19": 5833,
-  "2023-12-20": 5840,
-  "2023-12-21": 5844,
-  "2023-12-22": 5851,
-  "2023-12-23": 5858,
-  "2023-12-24": 5865,
-  "2023-12-25": 5869,
-  "2023-12-26": 5873,
-  "2023-12-27": 5875,
-  "2023-12-30": 5892,
-  "2023-12-31": 5898,
-  "2024-01-01": 5906,
-  "2024-01-02": 5905,
-  "2024-01-03": 5909
+  "2024-01-17": 5978,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Movements. The essential tracks, all in one playlist.",
+  "name": "This Is Movements",
+  "tracks": [
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202143,
+      "name": "A.M.P.",
+      "url": "https://open.spotify.com/track/3QqZ3IX7jXUViisvlMT4tM"
+    },
+    {
+      "album": {
+        "name": "Live At Studio 4",
+        "url": "https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185841,
+      "name": "Banquet - Live at Studio 4",
+      "url": "https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS"
+    },
+    {
+      "album": {
+        "name": "Barbed Wire Body",
+        "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208023,
+      "name": "Barbed Wire Body",
+      "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
+    },
+    {
+      "album": {
+        "name": "Cherry Thrill",
+        "url": "https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199521,
+      "name": "Cherry Thrill",
+      "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg"
+    },
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 269229,
+      "name": "Coeur D\u2019Alene",
+      "url": "https://open.spotify.com/track/0Rn0JiS3ycW4bXqnRYeH2S"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
+    },
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 203726,
+      "name": "Dance With Death",
+      "url": "https://open.spotify.com/track/7AgM4wOE1gZrWSRvGDLNBf"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "Daylily",
+      "url": "https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236986,
+      "name": "Don\u2019t Give Up Your Ghost",
+      "url": "https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc"
+    },
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl"
+    },
+    {
+      "album": {
+        "name": "Fail You",
+        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "Garden Eyes",
+      "url": "https://open.spotify.com/track/0llSSP7u2IRZ3ShjIu4PVZ"
+    },
+    {
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164084,
+      "name": "Hatchet",
+      "url": "https://open.spotify.com/track/6jGPtSuSPFODlN1a7TQuqT"
+    },
+    {
+      "album": {
+        "name": "Heaven Sent",
+        "url": "https://open.spotify.com/album/6BDU1plhN9IHE2HckwDi4T"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 180278,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/0xFxmOZKOB0smoKvRLVkjQ"
+    },
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180278,
+      "name": "Heaven Sent",
+      "url": "https://open.spotify.com/track/2VVPf2Z8FmTwfT5oUnFE48"
+    },
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199196,
+      "name": "I Hope You Choke!",
+      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213186,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/4urLThnwcBZ3hnHSIsbhCN"
+    },
+    {
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147788,
+      "name": "Kept",
+      "url": "https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1"
+    },
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230590,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/3JkwT4fdlXMVpFxJisM1qE"
+    },
+    {
+      "album": {
+        "name": "Killing Time / Lead Pipe",
+        "url": "https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-23",
+      "duration_ms": 230590,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/5h2zlwT2jML36Y6vUNRH9h"
+    },
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179794,
+      "name": "Lead Pipe",
+      "url": "https://open.spotify.com/track/791XlnGCxlmyPS6BKdNzbp"
+    },
+    {
+      "album": {
+        "name": "Killing Time / Lead Pipe",
+        "url": "https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 179920,
+      "name": "Lead Pipe",
+      "url": "https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc"
+    },
+    {
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237541,
+      "name": "Losing Fight",
+      "url": "https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL"
+    },
+    {
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269946,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 277146,
+      "name": "Love Took The Last Of It",
+      "url": "https://open.spotify.com/track/1IlAPVYbBIffKz29syKvBb"
+    },
+    {
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241034,
+      "name": "Nineteen",
+      "url": "https://open.spotify.com/track/5b3p0Lc2Kc1gwZnECZ1kmg"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95466,
+      "name": "No Good Left To Give",
+      "url": "https://open.spotify.com/track/7lEqc7FV8GvApJWC1Zns88"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give (B-Sides)",
+        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237558,
+      "name": "No Silhouette",
+      "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give (B-Sides)",
+        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188325,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE"
+    },
+    {
+      "album": {
+        "name": "Protection (Demo)",
+        "url": "https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209967,
+      "name": "Protection - Demo",
+      "url": "https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189560,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "Skin To Skin",
+      "url": "https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284626,
+      "name": "Suffer Through",
+      "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 229240,
+      "name": "The Grey",
+      "url": "https://open.spotify.com/track/5Y6anXM0uQ6P5OIonxdsBe"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226360,
+      "name": "Third Degree",
+      "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
+    },
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 281022,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky"
+    },
+    {
+      "album": {
+        "name": "Tightrope",
+        "url": "https://open.spotify.com/album/7DdfRSxj7KN1q2a7Jwu0vi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 281022,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/6HUAWdvqLh5mGPGhZGRGjx"
+    },
+    {
+      "album": {
+        "name": "No Good Left To Give",
+        "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 240866,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/74kXBXZW06evdyhknXq6ZX"
+    },
+    {
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Vacant Home",
+      "url": "https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy"
+    },
+    {
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186667,
+      "name": "Worst Wishes",
+      "url": "https://open.spotify.com/track/4iZKboBUScbIPlhBqG0P2x"
+    },
+    {
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 243733,
+      "name": "You\u2019re One Of Us Now",
+      "url": "https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0J3RD2"
 }

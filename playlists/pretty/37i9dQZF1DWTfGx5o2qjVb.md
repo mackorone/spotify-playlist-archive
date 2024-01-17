@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459 likes - 100 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 786 likes - 100 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 99 | [Pop dat ass](https://open.spotify.com/track/7vwnDhYQVvlrlYvcUdkSyS) | [DJ Omega](https://open.spotify.com/artist/3TxjIt5Qj9031vomAqmI03) | [DJ Omega Classics Part 2](https://open.spotify.com/album/0wUYkwiUg7XsjYQdX8Qgr2) | 3:34 |
 | 100 | [Quartetto O'batalistico \- Beats On The Street](https://open.spotify.com/track/2JSNIsH6tpm22Ei59jU7AR) | [Tuccillo](https://open.spotify.com/artist/6EIy9BdHGGzEPbasqwMabi), [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj) | [Quartetto O'batalistico / Auris \(Canto A Obatala\)](https://open.spotify.com/album/31dhwsyD7MdtVnDCn7aiSH) | 4:59 |
 
-Snapshot ID: `MCw1M2QyYzdjZDJmMDgzMDdiNWVhMmNiNWM0MTBhY2I2NTIwYTBjNjI4`
+Snapshot ID: `MCw3YmI3YzRkZGQ3M2JhZDAxZjYyYjNhZWM1NzQ1NDI1NTA2OTk0ZTNl`

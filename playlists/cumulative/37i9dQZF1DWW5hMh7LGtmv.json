@@ -1096,6 +1096,24 @@
     {
       "album": {
         "name": "Jubel",
+        "url": "https://open.spotify.com/album/1DDTylkpgKVXNBHHJjIU8S"
+      },
+      "artists": [
+        {
+          "name": "Votabias",
+          "url": "https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/6TskfnWx1j3SwB8r14bTty"
+    },
+    {
+      "album": {
+        "name": "Jubel",
         "url": "https://open.spotify.com/album/48TUoolHm1FeQYx5jLAaQo"
       },
       "artists": [
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 148440,
       "name": "Jubel - Radio Edit",
       "url": "https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO"
@@ -1556,6 +1574,32 @@
     {
       "album": {
         "name": "Stereo Love",
+        "url": "https://open.spotify.com/album/2EOw23rlpH4xu9LikN3Oaq"
+      },
+      "artists": [
+        {
+          "name": "lorche",
+          "url": "https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL"
+        },
+        {
+          "name": "Elianex",
+          "url": "https://open.spotify.com/artist/2XIEM9f7J5MN9fTsdNthAM"
+        },
+        {
+          "name": "ZETH INC.",
+          "url": "https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155921,
+      "name": "Stereo Love",
+      "url": "https://open.spotify.com/track/2ZNbSbLeXhFEwLvbV6tJjK"
+    },
+    {
+      "album": {
+        "name": "Stereo Love",
         "url": "https://open.spotify.com/album/1g9MChpxVdgoyA7kMbcnfj"
       },
       "artists": [
@@ -1570,7 +1614,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 155755,
       "name": "Stereo Love - UK Radio Edit",
       "url": "https://open.spotify.com/track/6TyXieyAu2z51H6VMPKRI4"

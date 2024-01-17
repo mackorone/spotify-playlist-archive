@@ -1,500 +1,4489 @@
 {
-  "2022-08-18": 15603,
-  "2022-08-19": 15639,
-  "2022-08-20": 15661,
-  "2022-08-21": 15699,
-  "2022-08-22": 15741,
-  "2022-08-23": 15776,
-  "2022-08-24": 15818,
-  "2022-08-25": 15843,
-  "2022-08-26": 15896,
-  "2022-08-27": 15935,
-  "2022-08-28": 15965,
-  "2022-08-29": 16006,
-  "2022-08-30": 16027,
-  "2022-08-31": 16044,
-  "2022-09-01": 16061,
-  "2022-09-02": 16095,
-  "2022-09-03": 16116,
-  "2022-09-04": 16118,
-  "2022-09-05": 16125,
-  "2022-09-06": 16155,
-  "2022-09-07": 16198,
-  "2022-09-09": 16275,
-  "2022-09-10": 16298,
-  "2022-09-11": 16323,
-  "2022-09-12": 16365,
-  "2022-09-13": 16404,
-  "2022-09-15": 16827,
-  "2022-09-16": 16969,
-  "2022-09-17": 17086,
-  "2022-09-18": 17202,
-  "2022-09-19": 17283,
-  "2022-09-20": 17374,
-  "2022-09-21": 17416,
-  "2022-09-22": 17466,
-  "2022-09-23": 17514,
-  "2022-09-24": 17548,
-  "2022-09-25": 17586,
-  "2022-09-26": 17631,
-  "2022-09-27": 17671,
-  "2022-09-28": 17735,
-  "2022-09-29": 17790,
-  "2022-09-30": 17829,
-  "2022-10-01": 17884,
-  "2022-10-02": 17932,
-  "2022-10-03": 17959,
-  "2022-10-04": 18007,
-  "2022-10-05": 18056,
-  "2022-10-06": 18098,
-  "2022-10-07": 18148,
-  "2022-10-08": 18200,
-  "2022-10-09": 18291,
-  "2022-10-10": 18316,
-  "2022-10-11": 18364,
-  "2022-10-12": 18415,
-  "2022-10-13": 18456,
-  "2022-10-14": 18494,
-  "2022-10-15": 18540,
-  "2022-10-16": 18585,
-  "2022-10-17": 18633,
-  "2022-10-18": 18681,
-  "2022-10-19": 18718,
-  "2022-10-20": 18750,
-  "2022-10-21": 18802,
-  "2022-10-22": 18844,
-  "2022-10-23": 18893,
-  "2022-10-24": 18957,
-  "2022-10-25": 19016,
-  "2022-10-26": 19069,
-  "2022-10-27": 19125,
-  "2022-10-28": 19173,
-  "2022-10-29": 19228,
-  "2022-10-30": 19278,
-  "2022-10-31": 19346,
-  "2022-11-01": 19420,
-  "2022-11-02": 19473,
-  "2022-11-03": 19523,
-  "2022-11-04": 19581,
-  "2022-11-05": 19624,
-  "2022-11-06": 19695,
-  "2022-11-07": 19755,
-  "2022-11-08": 19805,
-  "2022-11-09": 19859,
-  "2022-11-10": 19906,
-  "2022-11-11": 19964,
-  "2022-11-12": 20034,
-  "2022-11-13": 20077,
-  "2022-11-14": 20138,
-  "2022-11-15": 20209,
-  "2022-11-16": 20287,
-  "2022-11-17": 20362,
-  "2022-11-18": 20384,
-  "2022-11-19": 20373,
-  "2022-11-20": 20376,
-  "2022-11-21": 20431,
-  "2022-11-22": 20502,
-  "2022-11-23": 20560,
-  "2022-11-24": 20672,
-  "2022-11-25": 20810,
-  "2022-11-26": 20935,
-  "2022-11-27": 21021,
-  "2022-11-28": 21092,
-  "2022-11-29": 21163,
-  "2022-11-30": 21235,
-  "2022-12-01": 21340,
-  "2022-12-02": 21600,
-  "2022-12-03": 21628,
-  "2022-12-04": 21856,
-  "2022-12-05": 22001,
-  "2022-12-06": 22115,
-  "2022-12-07": 22202,
-  "2022-12-08": 22360,
-  "2022-12-09": 22505,
-  "2022-12-10": 22625,
-  "2022-12-11": 22736,
-  "2022-12-12": 22844,
-  "2022-12-13": 22919,
-  "2022-12-14": 23021,
-  "2022-12-15": 23102,
-  "2022-12-16": 23188,
-  "2022-12-17": 23264,
-  "2022-12-18": 23386,
-  "2022-12-19": 23487,
-  "2022-12-20": 23668,
-  "2022-12-21": 23668,
-  "2022-12-22": 23798,
-  "2022-12-24": 23976,
-  "2022-12-25": 24091,
-  "2022-12-26": 24193,
-  "2022-12-27": 24302,
-  "2022-12-28": 24400,
-  "2022-12-29": 24483,
-  "2022-12-30": 24549,
-  "2022-12-31": 24630,
-  "2023-01-01": 24719,
-  "2023-01-02": 24787,
-  "2023-01-03": 24872,
-  "2023-01-04": 24941,
-  "2023-01-05": 25013,
-  "2023-01-06": 25101,
-  "2023-01-07": 25163,
-  "2023-01-08": 25168,
-  "2023-01-09": 25220,
-  "2023-01-10": 25285,
-  "2023-01-11": 25362,
-  "2023-01-12": 25411,
-  "2023-01-13": 25475,
-  "2023-01-14": 25550,
-  "2023-01-15": 25553,
-  "2023-01-16": 25579,
-  "2023-01-17": 25627,
-  "2023-01-18": 25673,
-  "2023-01-19": 25753,
-  "2023-01-20": 25839,
-  "2023-01-21": 25914,
-  "2023-01-22": 25990,
-  "2023-01-23": 26097,
-  "2023-01-24": 26171,
-  "2023-01-25": 26259,
-  "2023-01-26": 26335,
-  "2023-01-27": 26422,
-  "2023-01-28": 26505,
-  "2023-01-29": 26655,
-  "2023-01-30": 26788,
-  "2023-01-31": 26788,
-  "2023-02-01": 27026,
-  "2023-02-02": 27100,
-  "2023-02-03": 27180,
-  "2023-02-04": 27251,
-  "2023-02-05": 27308,
-  "2023-02-06": 27381,
-  "2023-02-07": 27443,
-  "2023-02-08": 27561,
-  "2023-02-09": 27561,
-  "2023-02-10": 27614,
-  "2023-02-11": 27671,
-  "2023-02-12": 27775,
-  "2023-02-13": 27836,
-  "2023-02-14": 27836,
-  "2023-02-15": 27869,
-  "2023-02-16": 27915,
-  "2023-02-17": 27954,
-  "2023-02-18": 28062,
-  "2023-02-19": 28081,
-  "2023-02-20": 28115,
-  "2023-02-21": 28186,
-  "2023-02-22": 28233,
-  "2023-02-23": 28282,
-  "2023-02-24": 28342,
-  "2023-02-25": 28559,
-  "2023-02-26": 28588,
-  "2023-02-27": 28701,
-  "2023-02-28": 28701,
-  "2023-03-01": 28779,
-  "2023-03-02": 28842,
-  "2023-03-03": 28910,
-  "2023-03-04": 28974,
-  "2023-03-05": 29081,
-  "2023-03-06": 29081,
-  "2023-03-07": 29149,
-  "2023-03-08": 29197,
-  "2023-03-09": 29253,
-  "2023-03-10": 29288,
-  "2023-03-11": 29342,
-  "2023-03-12": 29391,
-  "2023-03-13": 29450,
-  "2023-03-14": 29527,
-  "2023-03-15": 29584,
-  "2023-03-16": 29656,
-  "2023-03-17": 29656,
-  "2023-03-18": 29803,
-  "2023-03-19": 29844,
-  "2023-03-20": 29931,
-  "2023-03-21": 29983,
-  "2023-03-22": 30049,
-  "2023-03-23": 30124,
-  "2023-03-24": 30124,
-  "2023-03-25": 30255,
-  "2023-03-26": 30322,
-  "2023-03-27": 30386,
-  "2023-03-28": 30463,
-  "2023-03-29": 30571,
-  "2023-03-30": 30671,
-  "2023-03-31": 30671,
-  "2023-04-01": 30722,
-  "2023-04-02": 30778,
-  "2023-04-03": 30838,
-  "2023-04-04": 30914,
-  "2023-04-05": 30969,
-  "2023-04-06": 31019,
-  "2023-04-07": 31072,
-  "2023-04-09": 31186,
-  "2023-04-10": 31245,
-  "2023-04-11": 31369,
-  "2023-04-12": 31369,
-  "2023-04-13": 31429,
-  "2023-04-14": 31477,
-  "2023-04-15": 31528,
-  "2023-04-16": 31595,
-  "2023-04-17": 31659,
-  "2023-04-18": 31737,
-  "2023-04-19": 31813,
-  "2023-04-20": 31895,
-  "2023-04-21": 31962,
-  "2023-04-22": 32007,
-  "2023-04-23": 32074,
-  "2023-04-24": 32131,
-  "2023-04-25": 32202,
-  "2023-04-26": 32272,
-  "2023-04-27": 32336,
-  "2023-04-28": 32406,
-  "2023-04-29": 32472,
-  "2023-04-30": 32525,
-  "2023-05-01": 32605,
-  "2023-05-02": 32730,
-  "2023-05-03": 32829,
-  "2023-05-04": 32890,
-  "2023-05-05": 32934,
-  "2023-05-06": 32986,
-  "2023-05-07": 33063,
-  "2023-05-08": 33131,
-  "2023-05-09": 33202,
-  "2023-05-10": 33249,
-  "2023-05-11": 33317,
-  "2023-05-12": 33372,
-  "2023-05-13": 33411,
-  "2023-05-14": 33475,
-  "2023-05-15": 33533,
-  "2023-05-16": 33584,
-  "2023-05-17": 33644,
-  "2023-05-18": 33697,
-  "2023-05-19": 33750,
-  "2023-05-20": 33947,
-  "2023-05-21": 33947,
-  "2023-05-22": 33947,
-  "2023-05-23": 34202,
-  "2023-05-24": 34364,
-  "2023-05-25": 34385,
-  "2023-05-26": 34450,
-  "2023-05-27": 34519,
-  "2023-05-28": 34580,
-  "2023-05-29": 34580,
-  "2023-05-30": 34667,
-  "2023-05-31": 34706,
-  "2023-06-01": 34744,
-  "2023-06-02": 34777,
-  "2023-06-03": 34807,
-  "2023-06-04": 34841,
-  "2023-06-05": 34881,
-  "2023-06-06": 34906,
-  "2023-06-07": 34934,
-  "2023-06-08": 34975,
-  "2023-06-09": 35018,
-  "2023-06-10": 35047,
-  "2023-06-11": 35081,
-  "2023-06-12": 35108,
-  "2023-06-13": 35142,
-  "2023-06-14": 35181,
-  "2023-06-15": 35201,
-  "2023-06-16": 35241,
-  "2023-06-17": 35279,
-  "2023-06-18": 35332,
-  "2023-06-19": 35368,
-  "2023-06-20": 35386,
-  "2023-06-21": 35433,
-  "2023-06-22": 35457,
-  "2023-06-23": 35480,
-  "2023-06-24": 35509,
-  "2023-06-25": 35529,
-  "2023-06-26": 35562,
-  "2023-06-27": 35603,
-  "2023-06-28": 35617,
-  "2023-06-29": 35649,
-  "2023-06-30": 35684,
-  "2023-07-01": 35821,
-  "2023-07-02": 35821,
-  "2023-07-03": 35873,
-  "2023-07-04": 35924,
-  "2023-07-05": 35977,
-  "2023-07-06": 36056,
-  "2023-07-07": 36056,
-  "2023-07-08": 36105,
-  "2023-07-09": 36162,
-  "2023-07-10": 36238,
-  "2023-07-11": 36275,
-  "2023-07-12": 36317,
-  "2023-07-13": 36351,
-  "2023-07-14": 36397,
-  "2023-07-15": 36415,
-  "2023-07-16": 36451,
-  "2023-07-17": 36489,
-  "2023-07-18": 36522,
-  "2023-07-19": 36555,
-  "2023-07-20": 36592,
-  "2023-07-21": 36629,
-  "2023-07-22": 36654,
-  "2023-07-23": 36691,
-  "2023-07-24": 36724,
-  "2023-07-25": 36759,
-  "2023-07-26": 36797,
-  "2023-07-27": 36829,
-  "2023-07-28": 36874,
-  "2023-07-29": 36901,
-  "2023-07-30": 36928,
-  "2023-07-31": 36955,
-  "2023-08-01": 36987,
-  "2023-08-02": 37011,
-  "2023-08-03": 37030,
-  "2023-08-04": 37053,
-  "2023-08-05": 37084,
-  "2023-08-06": 37146,
-  "2023-08-07": 37146,
-  "2023-08-08": 37175,
-  "2023-08-09": 37207,
-  "2023-08-10": 37228,
-  "2023-08-11": 37247,
-  "2023-08-12": 37277,
-  "2023-08-13": 37311,
-  "2023-08-14": 37332,
-  "2023-08-15": 37387,
-  "2023-08-16": 37387,
-  "2023-08-17": 37414,
-  "2023-08-18": 37431,
-  "2023-08-19": 37449,
-  "2023-08-20": 37478,
-  "2023-08-21": 37491,
-  "2023-08-22": 37513,
-  "2023-08-23": 37534,
-  "2023-08-24": 37550,
-  "2023-08-25": 37589,
-  "2023-08-26": 37613,
-  "2023-08-27": 37652,
-  "2023-08-28": 37676,
-  "2023-08-29": 37699,
-  "2023-08-30": 37720,
-  "2023-08-31": 37743,
-  "2023-09-01": 37820,
-  "2023-09-02": 37820,
-  "2023-09-03": 37843,
-  "2023-09-04": 37874,
-  "2023-09-05": 37915,
-  "2023-09-06": 37955,
-  "2023-09-07": 37993,
-  "2023-09-08": 38044,
-  "2023-09-09": 38085,
-  "2023-09-10": 38110,
-  "2023-09-11": 38157,
-  "2023-09-12": 38185,
-  "2023-09-13": 38231,
-  "2023-09-14": 38282,
-  "2023-09-15": 38324,
-  "2023-09-16": 38364,
-  "2023-09-17": 38410,
-  "2023-09-18": 38450,
-  "2023-09-19": 38491,
-  "2023-09-20": 38523,
-  "2023-09-21": 38551,
-  "2023-09-22": 38582,
-  "2023-09-23": 38618,
-  "2023-09-24": 38658,
-  "2023-09-25": 38681,
-  "2023-09-26": 38718,
-  "2023-09-27": 38739,
-  "2023-09-28": 38776,
-  "2023-09-29": 38818,
-  "2023-09-30": 38837,
-  "2023-10-01": 38873,
-  "2023-10-02": 38903,
-  "2023-10-03": 38926,
-  "2023-10-04": 38949,
-  "2023-10-05": 38971,
-  "2023-10-06": 38987,
-  "2023-10-07": 39015,
-  "2023-10-08": 39037,
-  "2023-10-09": 39073,
-  "2023-10-10": 39100,
-  "2023-10-11": 39138,
-  "2023-10-12": 39138,
-  "2023-10-13": 39174,
-  "2023-10-14": 39205,
-  "2023-10-15": 39232,
-  "2023-10-16": 39279,
-  "2023-10-17": 39319,
-  "2023-10-18": 39357,
-  "2023-10-19": 39407,
-  "2023-10-20": 39450,
-  "2023-10-21": 39490,
-  "2023-10-22": 39528,
-  "2023-10-23": 39585,
-  "2023-10-24": 39637,
-  "2023-10-25": 39674,
-  "2023-10-26": 39714,
-  "2023-10-27": 39760,
-  "2023-10-28": 39796,
-  "2023-10-29": 39833,
-  "2023-10-30": 39908,
-  "2023-10-31": 39908,
-  "2023-11-01": 39957,
-  "2023-11-02": 40000,
-  "2023-11-03": 40034,
-  "2023-11-04": 40079,
-  "2023-11-05": 40109,
-  "2023-11-06": 40144,
-  "2023-11-07": 40192,
-  "2023-11-08": 40228,
-  "2023-11-09": 40275,
-  "2023-11-10": 40303,
-  "2023-11-11": 40345,
-  "2023-11-12": 40367,
-  "2023-11-13": 40400,
-  "2023-11-14": 40430,
-  "2023-11-15": 40430,
-  "2023-11-16": 40507,
-  "2023-11-17": 40561,
-  "2023-11-18": 40561,
-  "2023-11-19": 40601,
-  "2023-11-20": 40656,
-  "2023-11-21": 40686,
-  "2023-11-22": 40718,
-  "2023-11-23": 40763,
-  "2023-11-24": 40801,
-  "2023-11-25": 40830,
-  "2023-11-26": 40862,
-  "2023-11-27": 40913,
-  "2023-11-28": 40951,
-  "2023-11-29": 41059,
-  "2023-11-30": 41059,
-  "2023-12-01": 41128,
-  "2023-12-02": 41189,
-  "2023-12-03": 41273,
-  "2023-12-04": 41326,
-  "2023-12-05": 41391,
-  "2023-12-06": 41453,
-  "2023-12-07": 41498,
-  "2023-12-08": 41546,
-  "2023-12-09": 41579,
-  "2023-12-10": 41627,
-  "2023-12-11": 41674,
-  "2023-12-12": 41725,
-  "2023-12-13": 41769,
-  "2023-12-14": 41829,
-  "2023-12-15": 41855,
-  "2023-12-16": 41911,
-  "2023-12-17": 41951,
-  "2023-12-18": 42004,
-  "2023-12-19": 42053,
-  "2023-12-20": 42093,
-  "2023-12-21": 42145,
-  "2023-12-22": 42175,
-  "2023-12-23": 42214,
-  "2023-12-24": 42262,
-  "2023-12-25": 42312,
-  "2023-12-26": 42341,
-  "2023-12-27": 42387,
-  "2023-12-30": 42506,
-  "2023-12-31": 42543,
-  "2024-01-01": 42587,
-  "2024-01-02": 42624,
-  "2024-01-03": 42677
+  "2024-01-17": 43285,
+  "date_first_scraped": "2022-08-18",
+  "description": "Relax and unwind to the soothing hum of the electric fan. ",
+  "name": "Fan Noise",
+  "tracks": [
+    {
+      "album": {
+        "name": "Fan Noises For Inner Balance",
+        "url": "https://open.spotify.com/album/1qKpt0Ngx0IWD1hzkMgVZO"
+      },
+      "artists": [
+        {
+          "name": "Field Rec Deluxe",
+          "url": "https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "852 Hz Brown Noise Fan",
+      "url": "https://open.spotify.com/track/5kCtcCeabsR79WeC4sby3N"
+    },
+    {
+      "album": {
+        "name": "Relaxing Aircon Sounds",
+        "url": "https://open.spotify.com/album/7CDjb00xtyoKe68EXcZWu0"
+      },
+      "artists": [
+        {
+          "name": "Fan Collector",
+          "url": "https://open.spotify.com/artist/0vruwrVKqBmYPTAefnqJ7I"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "AC Fan Outdoor Unit - Loopable",
+      "url": "https://open.spotify.com/track/1cVFQmU7HIBbvp08Jbr5Rf"
+    },
+    {
+      "album": {
+        "name": "Air Circulator",
+        "url": "https://open.spotify.com/album/3y6cbkSQKYq7FPB5wZ0MNZ"
+      },
+      "artists": [
+        {
+          "name": "Drowse Off",
+          "url": "https://open.spotify.com/artist/318hciCz2MiTnD1Mgb0BBG"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Air Circulator",
+      "url": "https://open.spotify.com/track/5MxdCk2Xuf3FJFIlFPjNaM"
+    },
+    {
+      "album": {
+        "name": "Soothing Fan Sounds",
+        "url": "https://open.spotify.com/album/3Ru6zXljgYq1bLgieh1XzI"
+      },
+      "artists": [
+        {
+          "name": "Oxford Deluxe Noise",
+          "url": "https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162730,
+      "name": "Air Conditioner For Sleeping Babies",
+      "url": "https://open.spotify.com/track/0Hz7vWqRRqwoBlvNXGZtGx"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner Pink Noise",
+        "url": "https://open.spotify.com/album/4BWmnO3nQ712fnEmBhdsFA"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 212000,
+      "name": "Air Conditioner Pink Noise",
+      "url": "https://open.spotify.com/track/7BhpPmVSAWKpJacRaI1SGg"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner White Noise",
+        "url": "https://open.spotify.com/album/7diWLqeF5sHyFK4D1WOckr"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 212000,
+      "name": "Air Conditioner White Noise",
+      "url": "https://open.spotify.com/track/2ycpmX1MjmKy7O6z6fQKpT"
+    },
+    {
+      "album": {
+        "name": "Air Conditioning Loud",
+        "url": "https://open.spotify.com/album/7ioZiLY0vsQ0Ic3TaJ293W"
+      },
+      "artists": [
+        {
+          "name": "Fan Fans",
+          "url": "https://open.spotify.com/artist/6vg3Al8inaxQiiwsbzccnF"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208169,
+      "name": "Air Conditioning Loud",
+      "url": "https://open.spotify.com/track/3hZrpgiTX4PISRFKZYFAMl"
+    },
+    {
+      "album": {
+        "name": "Relaxing Home",
+        "url": "https://open.spotify.com/album/6yS7nwiBJzHzO7RgHsZXaB"
+      },
+      "artists": [
+        {
+          "name": "ASMR House",
+          "url": "https://open.spotify.com/artist/0eyKdB5nGKUPj5AEzdvlWk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 243444,
+      "name": "Air Filter",
+      "url": "https://open.spotify.com/track/3HpTncqTia4xRkhtAn61D4"
+    },
+    {
+      "album": {
+        "name": "White Noise Air Con Unit",
+        "url": "https://open.spotify.com/album/0FoRYrX4JgcZbxE2FHcEYM"
+      },
+      "artists": [
+        {
+          "name": "Silent Knights",
+          "url": "https://open.spotify.com/artist/6XXL4cZkUvRIW1lD11xNt1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 258000,
+      "name": "Air High Fan",
+      "url": "https://open.spotify.com/track/4uadTP6Wdjqgd6Q72LWzul"
+    },
+    {
+      "album": {
+        "name": "White Noise Air Con Unit",
+        "url": "https://open.spotify.com/album/0FoRYrX4JgcZbxE2FHcEYM"
+      },
+      "artists": [
+        {
+          "name": "Silent Knights",
+          "url": "https://open.spotify.com/artist/6XXL4cZkUvRIW1lD11xNt1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 258000,
+      "name": "Air Leak Noise Fan",
+      "url": "https://open.spotify.com/track/6v0axNXblD0DocWYhO9Zpg"
+    },
+    {
+      "album": {
+        "name": "Fans To Make You Rest",
+        "url": "https://open.spotify.com/album/4sYpk3pzq1kN5k2Hu7I2Ek"
+      },
+      "artists": [
+        {
+          "name": "The Night Ferry",
+          "url": "https://open.spotify.com/artist/5oJmfnmUzYimrw7CAk8Oyk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Air Outlet",
+      "url": "https://open.spotify.com/track/4m3jbAgzye1Q5kyXUBwSsA"
+    },
+    {
+      "album": {
+        "name": "Fans To Make You Rest",
+        "url": "https://open.spotify.com/album/4sYpk3pzq1kN5k2Hu7I2Ek"
+      },
+      "artists": [
+        {
+          "name": "The Night Ferry",
+          "url": "https://open.spotify.com/artist/5oJmfnmUzYimrw7CAk8Oyk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Air Outlet - Seamless",
+      "url": "https://open.spotify.com/track/3eIHIQb7FsPPL69yT6Ko1h"
+    },
+    {
+      "album": {
+        "name": "Relaxing Box Fan Ambience",
+        "url": "https://open.spotify.com/album/6aSII2RT05ZQgcrNG4tgg0"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Airflow Haven",
+      "url": "https://open.spotify.com/track/2YbgTPxqTMdQva4oBeeais"
+    },
+    {
+      "album": {
+        "name": "Fan Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/0YEkPZ64ji8bJpu2ceIQce"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151330,
+      "name": "Almost Broken Fan",
+      "url": "https://open.spotify.com/track/6Z13quMQ4ZvKewjoKOniPs"
+    },
+    {
+      "album": {
+        "name": "Tranquillity AC",
+        "url": "https://open.spotify.com/album/00QQC6Xsxe8xH14eaYyYBX"
+      },
+      "artists": [
+        {
+          "name": "Doug Carrlas",
+          "url": "https://open.spotify.com/artist/3ZshreGfZ99jtTwoYcmmT5"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Ambient AC",
+      "url": "https://open.spotify.com/track/1aUsBlPwfPCeYK6AXmvenw"
+    },
+    {
+      "album": {
+        "name": "Calm Restful Box Fan Sounds",
+        "url": "https://open.spotify.com/album/5PnBXTlS3RMT2Ynjq6i4iC"
+      },
+      "artists": [
+        {
+          "name": "Emotional Support Fan",
+          "url": "https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228140,
+      "name": "Ambient Air Box Fan",
+      "url": "https://open.spotify.com/track/4dRxzSQxXiWpWTY9MfZNHs"
+    },
+    {
+      "album": {
+        "name": "Asmr - Deep Sleep Triggers (Sleep Aid)",
+        "url": "https://open.spotify.com/album/7h0ImpLQTwq0hvetaaOlWG"
+      },
+      "artists": [
+        {
+          "name": "ASMR HD",
+          "url": "https://open.spotify.com/artist/7nR813jWFgkPsXs1GjrzZk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 143018,
+      "name": "Asmr: Big Fan Noise - Rem Sleep",
+      "url": "https://open.spotify.com/track/3oOltlMbWMByDccCqhtYU8"
+    },
+    {
+      "album": {
+        "name": "Celestial Cosmic White Noise for Baby Sleep",
+        "url": "https://open.spotify.com/album/0uG6NGUNsecKRdS7Z4tIkn"
+      },
+      "artists": [
+        {
+          "name": "Fan Noise for Sleep",
+          "url": "https://open.spotify.com/artist/2WP9EbBw6YPsZgaDewdgE3"
+        },
+        {
+          "name": "White Noise, Pink Noise, Brown Noise",
+          "url": "https://open.spotify.com/artist/5REqVwrgxaSn4nhfisfnA0"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 61294,
+      "name": "Baby Sleep: Ventilation & Fan Sound",
+      "url": "https://open.spotify.com/track/3qjGV6pa9SaMrMFUDSa3fH"
+    },
+    {
+      "album": {
+        "name": "Basement Fan Room",
+        "url": "https://open.spotify.com/album/0aUt1rguFr8zIQWrZebqh6"
+      },
+      "artists": [
+        {
+          "name": "brozains",
+          "url": "https://open.spotify.com/artist/7gUQb4sAvvLplz558JypaA"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Basement Fan Room",
+      "url": "https://open.spotify.com/track/4lzKWF2qFvk6yUgpqPDchC"
+    },
+    {
+      "album": {
+        "name": "Relaxing Home",
+        "url": "https://open.spotify.com/album/6yS7nwiBJzHzO7RgHsZXaB"
+      },
+      "artists": [
+        {
+          "name": "ASMR House",
+          "url": "https://open.spotify.com/artist/0eyKdB5nGKUPj5AEzdvlWk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 240607,
+      "name": "Bathroom Fan",
+      "url": "https://open.spotify.com/track/19oXvWzjYzWEvoJlLScQA0"
+    },
+    {
+      "album": {
+        "name": "Bedroom Sleep Sounds",
+        "url": "https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd"
+      },
+      "artists": [
+        {
+          "name": "ASMR HOME",
+          "url": "https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Bedroom Sleep Sounds",
+      "url": "https://open.spotify.com/track/6MFajIc3H8o6frZonyjd9K"
+    },
+    {
+      "album": {
+        "name": "Best White Noise - Loopable",
+        "url": "https://open.spotify.com/album/2JOO0Ta5UPolcWfxVkN4np"
+      },
+      "artists": [
+        {
+          "name": "Erik Eriksson",
+          "url": "https://open.spotify.com/artist/2c5WYCqQGs0UttiLCzVfOe"
+        },
+        {
+          "name": "White Noise Sleep Sounds",
+          "url": "https://open.spotify.com/artist/3q3dE3qsl5FYAZzzxBIVLI"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 72223,
+      "name": "Best Box Fan Sound - Loopable with no fade",
+      "url": "https://open.spotify.com/track/3gYjtASDIOrBZb4izoI8ts"
+    },
+    {
+      "album": {
+        "name": "White Noise Fan Heaters",
+        "url": "https://open.spotify.com/album/4CX2as3vojsBFgHbFmmhOT"
+      },
+      "artists": [
+        {
+          "name": "Silent Knights",
+          "url": "https://open.spotify.com/artist/6XXL4cZkUvRIW1lD11xNt1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 212000,
+      "name": "Big Blow Fan",
+      "url": "https://open.spotify.com/track/1qYyztFqHYgxJKNa8nMiAM"
+    },
+    {
+      "album": {
+        "name": "Dream Breeze",
+        "url": "https://open.spotify.com/album/5lw1wXg6rtUvi76mk154Yx"
+      },
+      "artists": [
+        {
+          "name": "Lucid",
+          "url": "https://open.spotify.com/artist/4PDgHpILxXUfE71E7bIU2j"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 112731,
+      "name": "Big Fan Of Sleeping",
+      "url": "https://open.spotify.com/track/3PzPW3QOvNs80KUmADFQ5j"
+    },
+    {
+      "album": {
+        "name": "Big Fan Warehouse",
+        "url": "https://open.spotify.com/album/1Vt2uB50jom0vjzfeqMLV2"
+      },
+      "artists": [
+        {
+          "name": "Calor Malvado",
+          "url": "https://open.spotify.com/artist/2KBlE7vqrHghTXzMP1jgwK"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Big Fan Warehouse",
+      "url": "https://open.spotify.com/track/5sCcBYJaVmI3jgWCrel5gg"
+    },
+    {
+      "album": {
+        "name": "Blissful Box Fan",
+        "url": "https://open.spotify.com/album/1kHN77D5uNaLRFtlT4gYVO"
+      },
+      "artists": [
+        {
+          "name": "DREAMCOVE",
+          "url": "https://open.spotify.com/artist/6csdJegl2ASJXwAswQPd1q"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163477,
+      "name": "Blissful Box Fan",
+      "url": "https://open.spotify.com/track/6f7OWn3YP5KxwMX660ihLv"
+    },
+    {
+      "album": {
+        "name": "Box Fan Haven: Harmonious Melodies for Rest",
+        "url": "https://open.spotify.com/album/3HltYCzk2bFVPJqBcym02t"
+      },
+      "artists": [
+        {
+          "name": "Ablation",
+          "url": "https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162436,
+      "name": "Blissful Resonance: Box Fan's Sleepy Serenade",
+      "url": "https://open.spotify.com/track/0t3ZB1nhjHmY95VEccJxMf"
+    },
+    {
+      "album": {
+        "name": "Box Fan",
+        "url": "https://open.spotify.com/album/6JI7AFH2f6ze3dljZ5Mq5f"
+      },
+      "artists": [
+        {
+          "name": "DREAM TRIGGER",
+          "url": "https://open.spotify.com/artist/0Pbfet6H6ItOIYXErem1Wa"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161991,
+      "name": "Box Fan",
+      "url": "https://open.spotify.com/track/4Ndl6Fuvnvh5MvghORbSlF"
+    },
+    {
+      "album": {
+        "name": "The Fan Collection",
+        "url": "https://open.spotify.com/album/1EfUnnXEA3h6DrQNd7HRdG"
+      },
+      "artists": [
+        {
+          "name": "Fade Away Sleep Sounds",
+          "url": "https://open.spotify.com/artist/5c7VpP33FVLibHz6LKoUgZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 164764,
+      "name": "Box Fan",
+      "url": "https://open.spotify.com/track/60GYN2VOmVl5zJELCE5Cn4"
+    },
+    {
+      "album": {
+        "name": "Box Fan ASMR",
+        "url": "https://open.spotify.com/album/4gjWqMDQYweuRuqkgOEWU4"
+      },
+      "artists": [
+        {
+          "name": "The Oscillator",
+          "url": "https://open.spotify.com/artist/2LrAFvNupQBhLQQtLpDQaR"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122610,
+      "name": "Box Fan ASMR",
+      "url": "https://open.spotify.com/track/1Y8kjg4m3dRilNg7QXKhlA"
+    },
+    {
+      "album": {
+        "name": "Box Fan Serenity: A Melodic Journey to Rest",
+        "url": "https://open.spotify.com/album/4h7gufPAQGzpGIrYbe3fIt"
+      },
+      "artists": [
+        {
+          "name": "Timasion",
+          "url": "https://open.spotify.com/artist/4j41JyurhVC4wrVHoC6ZHP"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128867,
+      "name": "Box Fan Bliss: Harmonic Whir of Sleep",
+      "url": "https://open.spotify.com/track/6iGrApf1YO9fl7REHl2cZB"
+    },
+    {
+      "album": {
+        "name": "Box Fan Bliss: Serene Serenades of Sleep",
+        "url": "https://open.spotify.com/album/7poX3GnuGcg6V6cQhXFSV5"
+      },
+      "artists": [
+        {
+          "name": "Emotion Noise",
+          "url": "https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137446,
+      "name": "Box Fan Bliss: Serene Serenades of Sleep",
+      "url": "https://open.spotify.com/track/2VWCeGp3SR5fAFvx18KETh"
+    },
+    {
+      "album": {
+        "name": "Box Fan Reverie: Tranquil Melodies for Rest",
+        "url": "https://open.spotify.com/album/1MwWFmfTZbc6kVrs3gKt3C"
+      },
+      "artists": [
+        {
+          "name": "Electric Relaxing",
+          "url": "https://open.spotify.com/artist/2f2KQ6nj6HuMLIq2B0SQ3s"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130584,
+      "name": "Box Fan Bliss: Serene Whir of Slumber",
+      "url": "https://open.spotify.com/track/1ttm8oByxwPnBg2bhaKJQo"
+    },
+    {
+      "album": {
+        "name": "Box Fan Breeze: Nature's Lullaby",
+        "url": "https://open.spotify.com/album/6rjj5IMQpXMxpHnt2JugQQ"
+      },
+      "artists": [
+        {
+          "name": "Pure Spaces",
+          "url": "https://open.spotify.com/artist/4Xdi1VXQLrrTz9BwDdwQ7n"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163851,
+      "name": "Box Fan Breeze: Nature's Lullaby",
+      "url": "https://open.spotify.com/track/1rHUYRhiDn9E7wA4N4cVSV"
+    },
+    {
+      "album": {
+        "name": "Sleep Oasis: Box Fan's Serenade of Peace",
+        "url": "https://open.spotify.com/album/1crSouUeE6DysZrS741vGI"
+      },
+      "artists": [
+        {
+          "name": "Bits & Noise",
+          "url": "https://open.spotify.com/artist/7kcK3nZZHSgYrQLdexefpQ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146688,
+      "name": "Box Fan Breeze: Whispers of Tranquility",
+      "url": "https://open.spotify.com/track/79yexYw1Fe1teuRHEY2755"
+    },
+    {
+      "album": {
+        "name": "Box Fan Breezes: Gentle Winds of Relaxation",
+        "url": "https://open.spotify.com/album/2q2OqFzUs9jBUlIRQHIyxy"
+      },
+      "artists": [
+        {
+          "name": "Sonic Lab",
+          "url": "https://open.spotify.com/artist/0UJY3iGsud9VYG9W3MmTYS"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133791,
+      "name": "Box Fan Breezes: Gentle Winds of Relaxation",
+      "url": "https://open.spotify.com/track/1Rzl6mUJLKQfvbcSipllDt"
+    },
+    {
+      "album": {
+        "name": "Box Fan Deluxe",
+        "url": "https://open.spotify.com/album/4sljAtnIQxIGK2s9mffFEL"
+      },
+      "artists": [
+        {
+          "name": "Noizu Deluxe",
+          "url": "https://open.spotify.com/artist/11OG3LRKgXcTxtDxqkYbH0"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Box Fan Deluxe",
+      "url": "https://open.spotify.com/track/5SdkbWbdljFuLJCRSGfzL5"
+    },
+    {
+      "album": {
+        "name": "Dozy Air",
+        "url": "https://open.spotify.com/album/20hMsJOvush0K4Sjc3MUqi"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 206000,
+      "name": "Box Fan Dreams",
+      "url": "https://open.spotify.com/track/54ckcQQoQKoKHVt6z29Gc8"
+    },
+    {
+      "album": {
+        "name": "Box Fan Dreamscape",
+        "url": "https://open.spotify.com/album/1IZIv4tojHc8V7rnF1KfcZ"
+      },
+      "artists": [
+        {
+          "name": "Oasis of Calm",
+          "url": "https://open.spotify.com/artist/2rh4cubCpnUGfpeXGNfSIE"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146388,
+      "name": "Box Fan Dreamscape",
+      "url": "https://open.spotify.com/track/0WnPuSa7fLZYr3Ra4ATcT3"
+    },
+    {
+      "album": {
+        "name": "Tranquil Lullabies: Box Fan's Melodic Slumber",
+        "url": "https://open.spotify.com/album/4E6sPQapYCv8c4ICN0jP9x"
+      },
+      "artists": [
+        {
+          "name": "Latium",
+          "url": "https://open.spotify.com/artist/2tLNY5INS60mwIOdmPuhV2"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136036,
+      "name": "Box Fan Dreamscape: Serenades for Peaceful Rest",
+      "url": "https://open.spotify.com/track/32kCMnGn4nAEo8xjBSrIFa"
+    },
+    {
+      "album": {
+        "name": "Box Fan For Relaxation",
+        "url": "https://open.spotify.com/album/3ZPUt5Y4tot8RabzxBaCJo"
+      },
+      "artists": [
+        {
+          "name": "Silent Places",
+          "url": "https://open.spotify.com/artist/1c6wOnLBxfbHDjPoRcPVPW"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Box Fan For Relaxation",
+      "url": "https://open.spotify.com/track/0xCTsZ8khWPbNKugXMt3qL"
+    },
+    {
+      "album": {
+        "name": "Box Fan For Sleep",
+        "url": "https://open.spotify.com/album/7CZL1ZL6PK8DXcdKPBVF9K"
+      },
+      "artists": [
+        {
+          "name": "ASMR Deluxe",
+          "url": "https://open.spotify.com/artist/6ymmMXSFB9EVMsSZykjkmm"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Box Fan For Sleep",
+      "url": "https://open.spotify.com/track/3qrOvHORff8bgYrPigmNAv"
+    },
+    {
+      "album": {
+        "name": "Box Fan For Sleep",
+        "url": "https://open.spotify.com/album/5J0aU1Y8V4sZg35WGnFQh6"
+      },
+      "artists": [
+        {
+          "name": "WOS Project",
+          "url": "https://open.spotify.com/artist/4R7xSJpwf9IsrGzUYNpyz0"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Box Fan For Sleep",
+      "url": "https://open.spotify.com/track/4mMamzAVJMrEgvRCjvBgPa"
+    },
+    {
+      "album": {
+        "name": "Box Fan Harmony: Your Sleep Soundtrack",
+        "url": "https://open.spotify.com/album/78NIjsMPOVXu3m0f8RUPM9"
+      },
+      "artists": [
+        {
+          "name": "Elvine",
+          "url": "https://open.spotify.com/artist/3udPu5UsIIGPmxUVqhjj2n"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Box Fan Harmony: Your Sleep Soundtrack",
+      "url": "https://open.spotify.com/track/0fxHL19ZP1JsPugospqZHA"
+    },
+    {
+      "album": {
+        "name": "Box Fan Haven: Blissful Soundscapes",
+        "url": "https://open.spotify.com/album/6Pldue8XtcL9j5rExmXipA"
+      },
+      "artists": [
+        {
+          "name": "Isotopic Dreams",
+          "url": "https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124106,
+      "name": "Box Fan Haven: Blissful Soundscapes",
+      "url": "https://open.spotify.com/track/3gctnAKTNXDS83rtS64ZlV"
+    },
+    {
+      "album": {
+        "name": "Box Fan Haven: Harmonious Melodies for Rest",
+        "url": "https://open.spotify.com/album/3HltYCzk2bFVPJqBcym02t"
+      },
+      "artists": [
+        {
+          "name": "Ablation",
+          "url": "https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "Box Fan Haven: Harmonious Melodies for Rest",
+      "url": "https://open.spotify.com/track/1ejfCbVdFe5I0vYyoC8vfN"
+    },
+    {
+      "album": {
+        "name": "Blissful Resonance: Box Fan's Symphony of Sleep",
+        "url": "https://open.spotify.com/album/5N1XuSjwP5TnEiMUQvInsB"
+      },
+      "artists": [
+        {
+          "name": "Fo Cus",
+          "url": "https://open.spotify.com/artist/3NWrEYvAGHF0FT50FE7dDH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123396,
+      "name": "Box Fan Haven: Melodies for Tranquil Nights",
+      "url": "https://open.spotify.com/track/0hy2IggXBj6zLsCgFjwl23"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner & Fan Sounds",
+        "url": "https://open.spotify.com/album/0RQrEFcbuzRCVAlgvP4395"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228140,
+      "name": "Box Fan High Power",
+      "url": "https://open.spotify.com/track/0C0d1O5avtx7ShNVMZPidh"
+    },
+    {
+      "album": {
+        "name": "Sleep Haven: Box Fan's Tranquil Whispers",
+        "url": "https://open.spotify.com/album/3tb7eRikpZM3TAJMgTB4b0"
+      },
+      "artists": [
+        {
+          "name": "Nozon",
+          "url": "https://open.spotify.com/artist/1NYlBYTFUeQJBzcZItcE9v"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154889,
+      "name": "Box Fan Lullabies: Melodies for Peaceful Sleep",
+      "url": "https://open.spotify.com/track/2C2TBSaQR3mh8KWVILw97Z"
+    },
+    {
+      "album": {
+        "name": "Tranquil Whispers: Box Fan's Soothing Melodies",
+        "url": "https://open.spotify.com/album/61E6AV1w5Hf1MwcU8SSsrg"
+      },
+      "artists": [
+        {
+          "name": "Cosmos Noise",
+          "url": "https://open.spotify.com/artist/0Xm5ak5ChDxVwUuxnhmE33"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152857,
+      "name": "Box Fan Lullabies: Serenades for Peaceful Sleep",
+      "url": "https://open.spotify.com/track/4vz5U3D9UzspobK8hrFtW0"
+    },
+    {
+      "album": {
+        "name": "Relaxing Box Fans",
+        "url": "https://open.spotify.com/album/1RA2FpNmkItxy3aiVMKX7Q"
+      },
+      "artists": [
+        {
+          "name": "Home Sounds",
+          "url": "https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189663,
+      "name": "Box Fan Medium Distant Unidirectional",
+      "url": "https://open.spotify.com/track/1pi3vV0SIKf8ZYfRKOJdFc"
+    },
+    {
+      "album": {
+        "name": "Box Fan Medium Speed Sleep Noise",
+        "url": "https://open.spotify.com/album/4uDeREWpOZRhdC0IlaqTbZ"
+      },
+      "artists": [
+        {
+          "name": "Aural Escapes",
+          "url": "https://open.spotify.com/artist/4kj7tHRcrRKoK8j7cvCmUu"
+        },
+        {
+          "name": "Dream Candy",
+          "url": "https://open.spotify.com/artist/5FfxqUrqhaA8xH28GwIhr2"
+        },
+        {
+          "name": "Hushaboo",
+          "url": "https://open.spotify.com/artist/5pEKINgSUwRy9OJ7yMdMQ1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 76378,
+      "name": "Box Fan Medium Speed Sleep Noise",
+      "url": "https://open.spotify.com/track/3zvRcOTRjbuDgUX5wAOMIo"
+    },
+    {
+      "album": {
+        "name": "Box Fan Oasis: Melodies for Relaxation",
+        "url": "https://open.spotify.com/album/6gHA1yGBBX9Uxy99ZpH8Jf"
+      },
+      "artists": [
+        {
+          "name": "Noise Shapers",
+          "url": "https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134435,
+      "name": "Box Fan Oasis: Melodies for Relaxation",
+      "url": "https://open.spotify.com/track/0oLDM7xFL38hmJEYM6g74R"
+    },
+    {
+      "album": {
+        "name": "Box Fan Reverie: Tranquil Melodies for Rest",
+        "url": "https://open.spotify.com/album/1MwWFmfTZbc6kVrs3gKt3C"
+      },
+      "artists": [
+        {
+          "name": "Electric Relaxing",
+          "url": "https://open.spotify.com/artist/2f2KQ6nj6HuMLIq2B0SQ3s"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169252,
+      "name": "Box Fan Reverie: Tranquil Melodies for Rest",
+      "url": "https://open.spotify.com/track/6YVe09dp3dCJbwCxJmhUx6"
+    },
+    {
+      "album": {
+        "name": "Whispers of Sleep: Box Fan's Soothing Harmony",
+        "url": "https://open.spotify.com/album/1YnzwFNJFTpgR0KsgMm6dI"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Specialists",
+          "url": "https://open.spotify.com/artist/2wNur6TVoTGoXd7VQR47EF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139851,
+      "name": "Box Fan Serenade: Lullabies for Dreamers",
+      "url": "https://open.spotify.com/track/564T8mKdyIcuOZb51qQWWS"
+    },
+    {
+      "album": {
+        "name": "Whispering Winds: Box Fan Naptime",
+        "url": "https://open.spotify.com/album/7GfHi4eRM0dkIWovS1nokK"
+      },
+      "artists": [
+        {
+          "name": "brozains",
+          "url": "https://open.spotify.com/artist/7gUQb4sAvvLplz558JypaA"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140646,
+      "name": "Box Fan Serenade: Your Bedtime Companion",
+      "url": "https://open.spotify.com/track/2WXJGzNiXzeWgr1QNdkBmR"
+    },
+    {
+      "album": {
+        "name": "Box Fan Serenity: A Melodic Journey to Rest",
+        "url": "https://open.spotify.com/album/4h7gufPAQGzpGIrYbe3fIt"
+      },
+      "artists": [
+        {
+          "name": "Timasion",
+          "url": "https://open.spotify.com/artist/4j41JyurhVC4wrVHoC6ZHP"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138462,
+      "name": "Box Fan Serenity: A Melodic Journey to Rest",
+      "url": "https://open.spotify.com/track/4QoXdDzCdPtA5E0yQ3eacI"
+    },
+    {
+      "album": {
+        "name": "Box Fan Sleep Aid",
+        "url": "https://open.spotify.com/album/0Bkn2XiTP6H5QQZoHe0TJ3"
+      },
+      "artists": [
+        {
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181841,
+      "name": "Box Fan Sleep Aid",
+      "url": "https://open.spotify.com/track/3oFm5bzHlwAdmJ1oO9cWyp"
+    },
+    {
+      "album": {
+        "name": "Dozy Air",
+        "url": "https://open.spotify.com/album/20hMsJOvush0K4Sjc3MUqi"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Box Fan Sleepscape",
+      "url": "https://open.spotify.com/track/6aejoTzAd1fin1CLLO3DQM"
+    },
+    {
+      "album": {
+        "name": "Dozy Air",
+        "url": "https://open.spotify.com/album/20hMsJOvush0K4Sjc3MUqi"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Box Fan Slumber",
+      "url": "https://open.spotify.com/track/6u5Pm4LlHKFvaO9wdeBiSs"
+    },
+    {
+      "album": {
+        "name": "Box Fan Sound",
+        "url": "https://open.spotify.com/album/6IpRxqDSZWmoviDBWvHt8I"
+      },
+      "artists": [
+        {
+          "name": "Tmsoft\u2019s White Noise Sleep Sounds",
+          "url": "https://open.spotify.com/artist/3HykQi5PlnOTB8tjm11KkK"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 589971,
+      "name": "Box Fan Sound",
+      "url": "https://open.spotify.com/track/575DZcL4PtBm3qoFdilkq8"
+    },
+    {
+      "album": {
+        "name": "Box Fan Sounds",
+        "url": "https://open.spotify.com/album/313UwykIx4ocvEBUEs4WCF"
+      },
+      "artists": [
+        {
+          "name": "Sound Shifter",
+          "url": "https://open.spotify.com/artist/7t66bkY5Q3LlCe44F3LSPD"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145645,
+      "name": "Box Fan Sounds",
+      "url": "https://open.spotify.com/track/6IrGoW9vdvYfpm4DettLnN"
+    },
+    {
+      "album": {
+        "name": "Box Fan Stories",
+        "url": "https://open.spotify.com/album/7rqOi9XVmC4FggURfJzwuW"
+      },
+      "artists": [
+        {
+          "name": "Depth of Noise",
+          "url": "https://open.spotify.com/artist/5fqU7hizLIOQ6FxU9BrlwH"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Box Fan Stories",
+      "url": "https://open.spotify.com/track/5ZDAdwuQEl6XVHsaQXBrHD"
+    },
+    {
+      "album": {
+        "name": "Box Fan Symphony: The Art of Relaxation",
+        "url": "https://open.spotify.com/album/4tD7CH0XoOsPF180RiVw55"
+      },
+      "artists": [
+        {
+          "name": "Daily Life Sounds",
+          "url": "https://open.spotify.com/artist/7bmcgO5uw1tRqkxQYZbErC"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139849,
+      "name": "Box Fan Symphony: The Art of Relaxation",
+      "url": "https://open.spotify.com/track/3coGz0NWp5COW6jRTuoag4"
+    },
+    {
+      "album": {
+        "name": "Sleepscape Symphony: Box Fan's Lullabies for Sleep",
+        "url": "https://open.spotify.com/album/1fi8jhn5t0HMOcOSKpQG01"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135206,
+      "name": "Box Fan Zen: Gentle Whispers of Slumber",
+      "url": "https://open.spotify.com/track/3u6HW07foQfzEzSm57P3Nk"
+    },
+    {
+      "album": {
+        "name": "Fan Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/0YEkPZ64ji8bJpu2ceIQce"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158950,
+      "name": "Bright Fan (Filtered 1.8khz)",
+      "url": "https://open.spotify.com/track/2uPX2NkfAviPxVdjq8Ktcj"
+    },
+    {
+      "album": {
+        "name": "Broken Bedroom Fan",
+        "url": "https://open.spotify.com/album/7zPFLeFTAZ8J3tV1wIf51J"
+      },
+      "artists": [
+        {
+          "name": "No Placebo",
+          "url": "https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156639,
+      "name": "Broken Bedroom Fan",
+      "url": "https://open.spotify.com/track/1YyJRtFjLbxDKSwkT4oZTN"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146048,
+      "name": "Brown Fan Noise",
+      "url": "https://open.spotify.com/track/30C07kifcrut0Lz0x5yJkg"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Box Fan",
+        "url": "https://open.spotify.com/album/4F8Di8CAvS2VDpGHtjvUsP"
+      },
+      "artists": [
+        {
+          "name": "Robins Sound",
+          "url": "https://open.spotify.com/artist/7kWBfpJPJPpsFTsCD6C5Pv"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Brown Noise Box Fan",
+      "url": "https://open.spotify.com/track/63zxOjVo4jnzSiV7fDg0l4"
+    },
+    {
+      "album": {
+        "name": "Sleepy Fan Noise",
+        "url": "https://open.spotify.com/album/3PoRDhSdc7td4ALL2xFlxV"
+      },
+      "artists": [
+        {
+          "name": "ASMR Deluxe",
+          "url": "https://open.spotify.com/artist/6ymmMXSFB9EVMsSZykjkmm"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 156000,
+      "name": "Brown Noise Fan",
+      "url": "https://open.spotify.com/track/3OxY25mxIc83yJnMUUnQWn"
+    },
+    {
+      "album": {
+        "name": "Purring Fan Brown Noise",
+        "url": "https://open.spotify.com/album/65xvbKF8B3CeHzpmircwOP"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise Leeward",
+          "url": "https://open.spotify.com/artist/4EXfIwWsZ6ChJ74GyEg4MO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Brown Noise, Hushed",
+      "url": "https://open.spotify.com/track/2ZOvFQgVx6I7lMX4QQVky1"
+    },
+    {
+      "album": {
+        "name": "Calming Fan Sounds",
+        "url": "https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL"
+      },
+      "artists": [
+        {
+          "name": "Home Sounds",
+          "url": "https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 168000,
+      "name": "Calm Fan",
+      "url": "https://open.spotify.com/track/48FISy9hmvqREbJh6sdpSI"
+    },
+    {
+      "album": {
+        "name": "Calm Restful Box Fan Sounds",
+        "url": "https://open.spotify.com/album/5PnBXTlS3RMT2Ynjq6i4iC"
+      },
+      "artists": [
+        {
+          "name": "Emotional Support Fan",
+          "url": "https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189663,
+      "name": "Calm Restful Box Fan Sounds",
+      "url": "https://open.spotify.com/track/5Xwa50s98jHMvuK0Cgnmok"
+    },
+    {
+      "album": {
+        "name": "Relaxing ASMR Sounds",
+        "url": "https://open.spotify.com/album/6KRW1mWIkYjgUI9dnyfobT"
+      },
+      "artists": [
+        {
+          "name": "ASMR Mateo",
+          "url": "https://open.spotify.com/artist/7uEuyUsDa6GZxIRiQOzfsX"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307950,
+      "name": "Calming Air Conditioner",
+      "url": "https://open.spotify.com/track/04DX8cKaQFZkiy98uk4t5w"
+    },
+    {
+      "album": {
+        "name": "Bedroom Sleep Sounds",
+        "url": "https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd"
+      },
+      "artists": [
+        {
+          "name": "ASMR HOME",
+          "url": "https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 176000,
+      "name": "Calming Bedroom Breeze Sounds",
+      "url": "https://open.spotify.com/track/1noQJ6XAOz1iDJFkJnkTzN"
+    },
+    {
+      "album": {
+        "name": "Calming Box Fan",
+        "url": "https://open.spotify.com/album/4YbwGSvxym6DMgF3RRNo5u"
+      },
+      "artists": [
+        {
+          "name": "Les Dormeurs",
+          "url": "https://open.spotify.com/artist/3GWrORsTiWBEnokDMTquye"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Calming Box Fan",
+      "url": "https://open.spotify.com/track/0tnoSJZm1EqtJ91Hd9t4gj"
+    },
+    {
+      "album": {
+        "name": "Calming Box Fan Noise",
+        "url": "https://open.spotify.com/album/5auyWPVUjzot1WMMqtzrtC"
+      },
+      "artists": [
+        {
+          "name": "Noise Station",
+          "url": "https://open.spotify.com/artist/2NfMg903Rbr8UdXbjyGplm"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Calming Box Fan Noise",
+      "url": "https://open.spotify.com/track/5YrMfr0tnczfPHUozcb0QF"
+    },
+    {
+      "album": {
+        "name": "Calming Fan Noise",
+        "url": "https://open.spotify.com/album/26pzGPKJEOtZbLzpbOKt4H"
+      },
+      "artists": [
+        {
+          "name": "Abandoned Sound",
+          "url": "https://open.spotify.com/artist/2YDSEjq5ow5wHCgwnMbK0f"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 184800,
+      "name": "Calming Fan Noise",
+      "url": "https://open.spotify.com/track/6hMcQknhLDV2Qh8sSXSawM"
+    },
+    {
+      "album": {
+        "name": "Sleepy Fan Noise",
+        "url": "https://open.spotify.com/album/3PoRDhSdc7td4ALL2xFlxV"
+      },
+      "artists": [
+        {
+          "name": "ASMR Deluxe",
+          "url": "https://open.spotify.com/artist/6ymmMXSFB9EVMsSZykjkmm"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Calming Rotating Fan",
+      "url": "https://open.spotify.com/track/5msNX0K6XQ2p8VoMLmITa3"
+    },
+    {
+      "album": {
+        "name": "Car Fans For Deep Sleep",
+        "url": "https://open.spotify.com/album/2Jvoiadtrr9KkLP1G1kIQG"
+      },
+      "artists": [
+        {
+          "name": "White Noise Doctor",
+          "url": "https://open.spotify.com/artist/0Fk48JURmZQal1PvjuG4Ag"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 78000,
+      "name": "Car Fan Lower Speed",
+      "url": "https://open.spotify.com/track/4UKNWEU98EIZ820fficvUF"
+    },
+    {
+      "album": {
+        "name": "Chill With Fans",
+        "url": "https://open.spotify.com/album/7hieYXfsdXPfx0BtqwhvCm"
+      },
+      "artists": [
+        {
+          "name": "Silent Places",
+          "url": "https://open.spotify.com/artist/1c6wOnLBxfbHDjPoRcPVPW"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Chill With Fans",
+      "url": "https://open.spotify.com/track/4eYkHmvOvt6a3t80PRsbAd"
+    },
+    {
+      "album": {
+        "name": "Computer Room Sleep Therapy",
+        "url": "https://open.spotify.com/album/19BRrqPaBw8D41levHERoY"
+      },
+      "artists": [
+        {
+          "name": "Ventilate",
+          "url": "https://open.spotify.com/artist/7vcZrTl9VTexsr8GcJF3wA"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Computer Room Sleep Therapy",
+      "url": "https://open.spotify.com/track/1kG43SYO2QfcMXZyJGdLtB"
+    },
+    {
+      "album": {
+        "name": "Nightly Box Fan Chill",
+        "url": "https://open.spotify.com/album/5komoduY6WQ0EVMB4XoRF7"
+      },
+      "artists": [
+        {
+          "name": "Calmatics",
+          "url": "https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Cool Nocturnal Box Fan",
+      "url": "https://open.spotify.com/track/1mjHR53rlq7BsqHkzfgiPV"
+    },
+    {
+      "album": {
+        "name": "Evening Ac Fan",
+        "url": "https://open.spotify.com/album/4MBb8ofZ6ogp9bZ1Bs7xPH"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168874,
+      "name": "Cool Slumber Fan",
+      "url": "https://open.spotify.com/track/4R67SjhTu7G2RwIy8htn3s"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 131024,
+      "name": "Cozy Fan Soundscape (Remastered)",
+      "url": "https://open.spotify.com/track/2DT0EFEOhcZ2EAnraaFSC0"
+    },
+    {
+      "album": {
+        "name": "Currents of Cool Air",
+        "url": "https://open.spotify.com/album/4RdYXeXLA4m7PqMIiPYieH"
+      },
+      "artists": [
+        {
+          "name": "Steady Soothers",
+          "url": "https://open.spotify.com/artist/27j63jCz1F44eWrwtUBeJe"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Currents of Cool Air",
+      "url": "https://open.spotify.com/track/1Aldl4MwgpBy6YrE89G65k"
+    },
+    {
+      "album": {
+        "name": "Fan Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/0YEkPZ64ji8bJpu2ceIQce"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167336,
+      "name": "Dark Room And Table Fan (LP 3.8khz)",
+      "url": "https://open.spotify.com/track/7dzDAuMHoGJe3hoKfzEtEZ"
+    },
+    {
+      "album": {
+        "name": "Workplace Fans",
+        "url": "https://open.spotify.com/album/4DHcdRMpDZvWhHWE03Iicq"
+      },
+      "artists": [
+        {
+          "name": "Noise Recorder",
+          "url": "https://open.spotify.com/artist/4dP7FaHEym6UneIfaZhlSf"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Data Center Fan Ambience",
+      "url": "https://open.spotify.com/track/09Kd1HMedRxpiva06Wi1F2"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 159522,
+      "name": "Deep Fan (Filtered 2.6khz)",
+      "url": "https://open.spotify.com/track/44u6XnWByFqGqHLXVuMc9b"
+    },
+    {
+      "album": {
+        "name": "Deep Fan Noise",
+        "url": "https://open.spotify.com/album/2fNSjppZXYxTjCkRHuPhyE"
+      },
+      "artists": [
+        {
+          "name": "Noise Station",
+          "url": "https://open.spotify.com/artist/2NfMg903Rbr8UdXbjyGplm"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "Deep Fan Noise",
+      "url": "https://open.spotify.com/track/6ial0i324STPhggnmVSn3q"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner Pink Noise",
+        "url": "https://open.spotify.com/album/4BWmnO3nQ712fnEmBhdsFA"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Dehumidifier Pink Noise",
+      "url": "https://open.spotify.com/track/5wINlGlaDE9lm9f74LLXro"
+    },
+    {
+      "album": {
+        "name": "Noise for Sleep (Loopable With No Fade)",
+        "url": "https://open.spotify.com/album/0GfZxXKuZBiBcdmZ0hDbHx"
+      },
+      "artists": [
+        {
+          "name": "123 Sleep",
+          "url": "https://open.spotify.com/artist/5p2DzA0n3Ewwr3iDTVKtx5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 59103,
+      "name": "Desk Fan - Loopable With No Fade",
+      "url": "https://open.spotify.com/track/6TCuOBuCpf2eolEjf4qUVv"
+    },
+    {
+      "album": {
+        "name": "ASMR House",
+        "url": "https://open.spotify.com/album/7mVRi3wpR3vNesav7ziSzi"
+      },
+      "artists": [
+        {
+          "name": "Mind Tickle",
+          "url": "https://open.spotify.com/artist/3G4BQXIQ09Rb0JWFtjoDzk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263133,
+      "name": "Din of Desktop Computer",
+      "url": "https://open.spotify.com/track/5R9nmLtAi5ZVRigA3739zH"
+    },
+    {
+      "album": {
+        "name": "Dream Breeze",
+        "url": "https://open.spotify.com/album/5lw1wXg6rtUvi76mk154Yx"
+      },
+      "artists": [
+        {
+          "name": "Lucid",
+          "url": "https://open.spotify.com/artist/4PDgHpILxXUfE71E7bIU2j"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 105230,
+      "name": "Dream Breeze",
+      "url": "https://open.spotify.com/track/48A4NSgozuyAKwfzGbsj8a"
+    },
+    {
+      "album": {
+        "name": "Dreamland Box Fan",
+        "url": "https://open.spotify.com/album/41jdvOPoN4uos2km8WIB1J"
+      },
+      "artists": [
+        {
+          "name": "Noise Station",
+          "url": "https://open.spotify.com/artist/2NfMg903Rbr8UdXbjyGplm"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Dreamland Box Fan",
+      "url": "https://open.spotify.com/track/6bkdBG8UqI6U3PqJFEg3Qh"
+    },
+    {
+      "album": {
+        "name": "Bedroom Sleep Sounds",
+        "url": "https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd"
+      },
+      "artists": [
+        {
+          "name": "ASMR HOME",
+          "url": "https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Dreamy AC Fan Sounds",
+      "url": "https://open.spotify.com/track/3KENWEphynpCgEnX3kXk6h"
+    },
+    {
+      "album": {
+        "name": "Sleepy Winds",
+        "url": "https://open.spotify.com/album/5ijg5JySc4tAxjJQtFdBv8"
+      },
+      "artists": [
+        {
+          "name": "Erity",
+          "url": "https://open.spotify.com/artist/252S10kCSN54mC9V1Q5xV6"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 105301,
+      "name": "Drowsing Fan",
+      "url": "https://open.spotify.com/track/4rorNMIh6PEqMSTZLrKxbj"
+    },
+    {
+      "album": {
+        "name": "Easy Breezy",
+        "url": "https://open.spotify.com/album/1e872NLaoZQRMUEchyHsGl"
+      },
+      "artists": [
+        {
+          "name": "Sam Nova",
+          "url": "https://open.spotify.com/artist/71zAAoSy2UVnKgnxP4s63g"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 120124,
+      "name": "Easy Breezy",
+      "url": "https://open.spotify.com/track/10vi5YmgjUpekWtufXWWsW"
+    },
+    {
+      "album": {
+        "name": "Healing Womb Sounds for Baby Falling Asleep",
+        "url": "https://open.spotify.com/album/68sYLbAHiz1FydobQOMap1"
+      },
+      "artists": [
+        {
+          "name": "All Night Fan Noises for Baby Easy Sleep",
+          "url": "https://open.spotify.com/artist/4qrG02e1xRd57Z9MEs2Gpl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 61000,
+      "name": "Easy sleep fan noises",
+      "url": "https://open.spotify.com/track/4mNac1V3y5RPFksZHPbGZI"
+    },
+    {
+      "album": {
+        "name": "Evening Ac Fan",
+        "url": "https://open.spotify.com/album/4MBb8ofZ6ogp9bZ1Bs7xPH"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171865,
+      "name": "Evening Ac Fan",
+      "url": "https://open.spotify.com/track/5SXOjRSYqcyIsH5LekxyTT"
+    },
+    {
+      "album": {
+        "name": "ASMR Enviroments",
+        "url": "https://open.spotify.com/album/1zwU28wkpBKhCM32okzJ9a"
+      },
+      "artists": [
+        {
+          "name": "The Right Noises",
+          "url": "https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 96000,
+      "name": "Factory Aircon",
+      "url": "https://open.spotify.com/track/5mZW7viWYiSEKYbvKoWvVU"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/57unIiZ1PuxZ2X3r3GiW1l"
+      },
+      "artists": [
+        {
+          "name": "Fan Relax",
+          "url": "https://open.spotify.com/artist/118kpD3t03W3jFmByceEbU"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Fade Away - Seamless",
+      "url": "https://open.spotify.com/track/4lnafFWlE7YimAvJyeXMRZ"
+    },
+    {
+      "album": {
+        "name": "The Fan Collection",
+        "url": "https://open.spotify.com/album/1EfUnnXEA3h6DrQNd7HRdG"
+      },
+      "artists": [
+        {
+          "name": "Fade Away Sleep Sounds",
+          "url": "https://open.spotify.com/artist/5c7VpP33FVLibHz6LKoUgZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 375541,
+      "name": "Fan",
+      "url": "https://open.spotify.com/track/0nzG9pxS7FC75gbRrq4pFW"
+    },
+    {
+      "album": {
+        "name": "55 Pure Static Noises",
+        "url": "https://open.spotify.com/album/75Ee4fcfSZPVJMu5VnKO7w"
+      },
+      "artists": [
+        {
+          "name": "Pure Noise",
+          "url": "https://open.spotify.com/artist/1ENzZmAPgFiUCSCVWVLUOO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 203702,
+      "name": "Fan",
+      "url": "https://open.spotify.com/track/0uHpEnt7tzOid1P3q06q3p"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/1vp5LV4kMOCL3EykOnMVaE"
+      },
+      "artists": [
+        {
+          "name": "Naturistic",
+          "url": "https://open.spotify.com/artist/10NDoo1npubFxM55Q4YJ4E"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 75772,
+      "name": "Fan 13",
+      "url": "https://open.spotify.com/track/0zMQ0pWBSsDM5nBVFYDt1y"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/1vp5LV4kMOCL3EykOnMVaE"
+      },
+      "artists": [
+        {
+          "name": "Naturistic",
+          "url": "https://open.spotify.com/artist/10NDoo1npubFxM55Q4YJ4E"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 65358,
+      "name": "Fan 14",
+      "url": "https://open.spotify.com/track/1pZSWY8U4uADQYGcs805CK"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/1vp5LV4kMOCL3EykOnMVaE"
+      },
+      "artists": [
+        {
+          "name": "Naturistic",
+          "url": "https://open.spotify.com/artist/10NDoo1npubFxM55Q4YJ4E"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 67288,
+      "name": "Fan 15",
+      "url": "https://open.spotify.com/track/2fio99goPWgjci82rEGy84"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/1vp5LV4kMOCL3EykOnMVaE"
+      },
+      "artists": [
+        {
+          "name": "Naturistic",
+          "url": "https://open.spotify.com/artist/10NDoo1npubFxM55Q4YJ4E"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 109363,
+      "name": "Fan 5",
+      "url": "https://open.spotify.com/track/3UujawHvDw6ehpnYjuzXyz"
+    },
+    {
+      "album": {
+        "name": "Colorful Fan",
+        "url": "https://open.spotify.com/album/31nJadrylksNbjllXnFEtw"
+      },
+      "artists": [
+        {
+          "name": "Depth of Noise",
+          "url": "https://open.spotify.com/artist/5fqU7hizLIOQ6FxU9BrlwH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Fan Brown Noise",
+      "url": "https://open.spotify.com/track/3y0HUv9745xLwVpxi1gUYG"
+    },
+    {
+      "album": {
+        "name": "White Noise Babies \u2013 Noises for Babies",
+        "url": "https://open.spotify.com/album/4gQdh7EYEg6Gv5XguGJVDI"
+      },
+      "artists": [
+        {
+          "name": "Fan Noises for Sleeping",
+          "url": "https://open.spotify.com/artist/4RkvAOE0dZA5A7GjZc0cLn"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 60000,
+      "name": "Fan Calming Noise",
+      "url": "https://open.spotify.com/track/2Rnbm952L8Zckh7WU1b4yO"
+    },
+    {
+      "album": {
+        "name": "Fan Noises For Sleep And Meditation",
+        "url": "https://open.spotify.com/album/5d3OaOEY2OvslCRCqLLFns"
+      },
+      "artists": [
+        {
+          "name": "Abandoned Sound",
+          "url": "https://open.spotify.com/artist/2YDSEjq5ow5wHCgwnMbK0f"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Fan for Mindfulness",
+      "url": "https://open.spotify.com/track/5aJRFcdJyZZSJGeYAtvJJ7"
+    },
+    {
+      "album": {
+        "name": "White Noise Sleep Aid",
+        "url": "https://open.spotify.com/album/0H8sdynxqyZteSDmlPBx5U"
+      },
+      "artists": [
+        {
+          "name": "White Noise Therapy",
+          "url": "https://open.spotify.com/artist/1O7bUkov2v71fDS60GOfMD"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 214000,
+      "name": "Fan Noise",
+      "url": "https://open.spotify.com/track/2vf6O5Mn8hzyBIsUFTFRGe"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/4xfa3mCyDi234UcSJzYSeg"
+      },
+      "artists": [
+        {
+          "name": "Arnie Svensson",
+          "url": "https://open.spotify.com/artist/2c4t7MVOhTKEfz9tqIOrQa"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 201600,
+      "name": "Fan Noise 200Hz",
+      "url": "https://open.spotify.com/track/0BCy3UEMdzPWJAuEitAYNt"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/4xfa3mCyDi234UcSJzYSeg"
+      },
+      "artists": [
+        {
+          "name": "Arnie Svensson",
+          "url": "https://open.spotify.com/artist/2c4t7MVOhTKEfz9tqIOrQa"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Fan Noise 400Hz",
+      "url": "https://open.spotify.com/track/5sORQ67ve1LqVt7PAIHTke"
+    },
+    {
+      "album": {
+        "name": "Healing Womb Sounds for Baby Falling Asleep",
+        "url": "https://open.spotify.com/album/68sYLbAHiz1FydobQOMap1"
+      },
+      "artists": [
+        {
+          "name": "All Night Fan Noises for Baby Easy Sleep",
+          "url": "https://open.spotify.com/artist/4qrG02e1xRd57Z9MEs2Gpl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 61000,
+      "name": "Fan noise for better sleep",
+      "url": "https://open.spotify.com/track/2jxHBxglas75XlJu8xFbqK"
+    },
+    {
+      "album": {
+        "name": "Noise Loop Sounds. Fast Sleep Healing with Noise Sounds.",
+        "url": "https://open.spotify.com/album/0Osv6eSJlBGrpRUU8uTQ5J"
+      },
+      "artists": [
+        {
+          "name": "Go to Sleep Fast",
+          "url": "https://open.spotify.com/artist/28TWW9mahjTj8qexvuyMoP"
+        },
+        {
+          "name": "Sleep Helper",
+          "url": "https://open.spotify.com/artist/4kq9IMAKCQHyYOsJkWoJxc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 243880,
+      "name": "Fan Noise for Sleep (White Noise Sleep Healing)",
+      "url": "https://open.spotify.com/track/7uiJuEfaVmsYXeO8RMsMVw"
+    },
+    {
+      "album": {
+        "name": "Dream Breeze",
+        "url": "https://open.spotify.com/album/5lw1wXg6rtUvi76mk154Yx"
+      },
+      "artists": [
+        {
+          "name": "Lucid",
+          "url": "https://open.spotify.com/artist/4PDgHpILxXUfE71E7bIU2j"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 108923,
+      "name": "Fan Noises",
+      "url": "https://open.spotify.com/track/1HiB9og3epDWcFK2chtgXt"
+    },
+    {
+      "album": {
+        "name": "Fan of Fan",
+        "url": "https://open.spotify.com/album/6Y9TL1Ih4eNP94aZSP2yLw"
+      },
+      "artists": [
+        {
+          "name": "Robins Sound",
+          "url": "https://open.spotify.com/artist/7kWBfpJPJPpsFTsCD6C5Pv"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Fan of Fan",
+      "url": "https://open.spotify.com/track/0LsoqN0ayMRrnOclvbRPDe"
+    },
+    {
+      "album": {
+        "name": "Winds Of Sleep",
+        "url": "https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 112615,
+      "name": "Fan Of Sleep",
+      "url": "https://open.spotify.com/track/3X0TLnpNbg4MPTdyGVljm1"
+    },
+    {
+      "album": {
+        "name": "Peace and Relaxation Noise",
+        "url": "https://open.spotify.com/album/0VEitMGhxgxVrbapdCfqUd"
+      },
+      "artists": [
+        {
+          "name": "White Noise Relaxation",
+          "url": "https://open.spotify.com/artist/3nRCmlti96JKj7IwKFA93r"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 165140,
+      "name": "Fan Oscillations",
+      "url": "https://open.spotify.com/track/31BU1U2QiGVJINB0cb1Df4"
+    },
+    {
+      "album": {
+        "name": "Fans To Make You Rest",
+        "url": "https://open.spotify.com/album/4sYpk3pzq1kN5k2Hu7I2Ek"
+      },
+      "artists": [
+        {
+          "name": "The Night Ferry",
+          "url": "https://open.spotify.com/artist/5oJmfnmUzYimrw7CAk8Oyk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Fan Oscillator 3",
+      "url": "https://open.spotify.com/track/7KX9CAVgKVzfIzG7Luf4GH"
+    },
+    {
+      "album": {
+        "name": "Fans To Make You Rest",
+        "url": "https://open.spotify.com/album/4sYpk3pzq1kN5k2Hu7I2Ek"
+      },
+      "artists": [
+        {
+          "name": "The Night Ferry",
+          "url": "https://open.spotify.com/artist/5oJmfnmUzYimrw7CAk8Oyk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 136000,
+      "name": "Fan Oscillator 3 - Seamless",
+      "url": "https://open.spotify.com/track/6ezR2lsj6lMRY8JOUxK7EL"
+    },
+    {
+      "album": {
+        "name": "Colorful Fan",
+        "url": "https://open.spotify.com/album/31nJadrylksNbjllXnFEtw"
+      },
+      "artists": [
+        {
+          "name": "Depth of Noise",
+          "url": "https://open.spotify.com/artist/5fqU7hizLIOQ6FxU9BrlwH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 156000,
+      "name": "Fan Pink Noise",
+      "url": "https://open.spotify.com/track/5jfEUuQXxeHkiJdVm5P6Gs"
+    },
+    {
+      "album": {
+        "name": "Fan Pushing Air",
+        "url": "https://open.spotify.com/album/2O3nJmFMJx4ctT1AAuO0LX"
+      },
+      "artists": [
+        {
+          "name": "Robins Sound",
+          "url": "https://open.spotify.com/artist/7kWBfpJPJPpsFTsCD6C5Pv"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Fan Pushing Air",
+      "url": "https://open.spotify.com/track/7y2EoXFWBRPCv4i4KRyRYl"
+    },
+    {
+      "album": {
+        "name": "Fan Room",
+        "url": "https://open.spotify.com/album/4H4e6LRZkzIfyFd0cFOdm2"
+      },
+      "artists": [
+        {
+          "name": "Focusity",
+          "url": "https://open.spotify.com/artist/0uQ4Avqzi5zlR74bWLYpkF"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164091,
+      "name": "Fan Room",
+      "url": "https://open.spotify.com/track/3cXm095qQB3xbeu45rQcgT"
+    },
+    {
+      "album": {
+        "name": "Fan Noises For Sleep And Meditation",
+        "url": "https://open.spotify.com/album/5d3OaOEY2OvslCRCqLLFns"
+      },
+      "artists": [
+        {
+          "name": "Abandoned Sound",
+          "url": "https://open.spotify.com/artist/2YDSEjq5ow5wHCgwnMbK0f"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 170400,
+      "name": "Fan Swing White Noise",
+      "url": "https://open.spotify.com/track/6KcKfuTIk66RhDf9jpOqmn"
+    },
+    {
+      "album": {
+        "name": "Healing Fan Noises",
+        "url": "https://open.spotify.com/album/5eHk55HMYbxSOw5tEhrFp6"
+      },
+      "artists": [
+        {
+          "name": "Silent Places",
+          "url": "https://open.spotify.com/artist/1c6wOnLBxfbHDjPoRcPVPW"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Fan Tastic 741 Hz",
+      "url": "https://open.spotify.com/track/3pV0cAn4gW05BSkFAUGNBe"
+    },
+    {
+      "album": {
+        "name": "Colorful Fan",
+        "url": "https://open.spotify.com/album/31nJadrylksNbjllXnFEtw"
+      },
+      "artists": [
+        {
+          "name": "Depth of Noise",
+          "url": "https://open.spotify.com/artist/5fqU7hizLIOQ6FxU9BrlwH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Fan White Noise",
+      "url": "https://open.spotify.com/track/49uNsUUFZlFgWVqLo7YQyc"
+    },
+    {
+      "album": {
+        "name": "Celestial Cosmic White Noise for Baby Sleep",
+        "url": "https://open.spotify.com/album/0uG6NGUNsecKRdS7Z4tIkn"
+      },
+      "artists": [
+        {
+          "name": "Fan Noise for Sleep",
+          "url": "https://open.spotify.com/artist/2WP9EbBw6YPsZgaDewdgE3"
+        },
+        {
+          "name": "White Noise, Pink Noise, Brown Noise",
+          "url": "https://open.spotify.com/artist/5REqVwrgxaSn4nhfisfnA0"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 61264,
+      "name": "Fans & Ventilation Sound: Deep Sleep",
+      "url": "https://open.spotify.com/track/34EhcAmrSDuQqfcDyEYJDz"
+    },
+    {
+      "album": {
+        "name": "Tessellation",
+        "url": "https://open.spotify.com/album/7k3mBhWk5r3iuPYiSCyeM4"
+      },
+      "artists": [
+        {
+          "name": "Pure Noise",
+          "url": "https://open.spotify.com/artist/1ENzZmAPgFiUCSCVWVLUOO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 197021,
+      "name": "Faulty Fan",
+      "url": "https://open.spotify.com/track/7A79iQ8PdBmAgiAMB0NOtA"
+    },
+    {
+      "album": {
+        "name": "Purring Fan Brown Noise",
+        "url": "https://open.spotify.com/album/65xvbKF8B3CeHzpmircwOP"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise Leeward",
+          "url": "https://open.spotify.com/artist/4EXfIwWsZ6ChJ74GyEg4MO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Fresh Air Brown Noise",
+      "url": "https://open.spotify.com/track/3RZ788ke7o4xzEZSI3YzBS"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner Pink Noise",
+        "url": "https://open.spotify.com/album/4BWmnO3nQ712fnEmBhdsFA"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Gentle Breeze Pink Noise",
+      "url": "https://open.spotify.com/track/5jSsIanMmsmEhNltLjd40X"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner White Noise",
+        "url": "https://open.spotify.com/album/7diWLqeF5sHyFK4D1WOckr"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Gentle Breeze White Noise",
+      "url": "https://open.spotify.com/track/5j3HaftobHEr89XFLJUc2m"
+    },
+    {
+      "album": {
+        "name": "Household ASMR",
+        "url": "https://open.spotify.com/album/5sgpDN53G3nR6yPo0H5KN0"
+      },
+      "artists": [
+        {
+          "name": "ASMR Layla",
+          "url": "https://open.spotify.com/artist/29yYPUL6ELKFbIbV5DN0Iq"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 254545,
+      "name": "Gentle Buzz of a Cooling Fan",
+      "url": "https://open.spotify.com/track/13LagydAaQfLSEAhoKMQvX"
+    },
+    {
+      "album": {
+        "name": "Relaxing Box Fan Ambience",
+        "url": "https://open.spotify.com/album/6aSII2RT05ZQgcrNG4tgg0"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Gentle Draft",
+      "url": "https://open.spotify.com/track/4wdZolsfTg90AJsGtjaa89"
+    },
+    {
+      "album": {
+        "name": "Tropical Ceiling Fan",
+        "url": "https://open.spotify.com/album/6DbdTUR8kjfL9jwrg4ZZS1"
+      },
+      "artists": [
+        {
+          "name": "Slumberatronics",
+          "url": "https://open.spotify.com/artist/6gY0UbxnBwzDDMrmdQpwXQ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Gigantic Ceiling Fan",
+      "url": "https://open.spotify.com/track/2BpoQeX0aTY59uR39jHiSa"
+    },
+    {
+      "album": {
+        "name": "Good Night Breeze",
+        "url": "https://open.spotify.com/album/4So35rnEDebqG9JNEBDVmu"
+      },
+      "artists": [
+        {
+          "name": "Watts Recordings",
+          "url": "https://open.spotify.com/artist/0Aamp8tFQ9spSUC6uUbA7L"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 57735,
+      "name": "Good Night Breeze",
+      "url": "https://open.spotify.com/track/6GFGhT8YgL9uvLIpsIEEvy"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147645,
+      "name": "Grandmas Bedroom Fan (LP 4.8khz)",
+      "url": "https://open.spotify.com/track/1Y41WLZK5fKDfaJDmYURn1"
+    },
+    {
+      "album": {
+        "name": "Healing Box Fan",
+        "url": "https://open.spotify.com/album/1edLvsvUF98FLTm1SzOqd1"
+      },
+      "artists": [
+        {
+          "name": "Abandoned Sound",
+          "url": "https://open.spotify.com/artist/2YDSEjq5ow5wHCgwnMbK0f"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Healing Box Fan",
+      "url": "https://open.spotify.com/track/24GlzC2PIdMOO7q0UnILyp"
+    },
+    {
+      "album": {
+        "name": "Large Fans",
+        "url": "https://open.spotify.com/album/17PreSe3pwlu8bwO5fiRP8"
+      },
+      "artists": [
+        {
+          "name": "Ambiworld",
+          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 216483,
+      "name": "Heat pump fan",
+      "url": "https://open.spotify.com/track/1iNJRY6ycCPmxllaZN0R77"
+    },
+    {
+      "album": {
+        "name": "Heater Fan",
+        "url": "https://open.spotify.com/album/7yYL1CCF8UsBdFG7vxMDk6"
+      },
+      "artists": [
+        {
+          "name": "Binaural Recorders",
+          "url": "https://open.spotify.com/artist/7hhDQEEcoLGpUSpCbVgSWE"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 193632,
+      "name": "Heater Fan",
+      "url": "https://open.spotify.com/track/2gNsmYQYBwYTSHsQF7brkU"
+    },
+    {
+      "album": {
+        "name": "Hotel Mechanical Room Fans",
+        "url": "https://open.spotify.com/album/255M9hOmQP2bKFum6ACX6J"
+      },
+      "artists": [
+        {
+          "name": "Elvine",
+          "url": "https://open.spotify.com/artist/3udPu5UsIIGPmxUVqhjj2n"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181101,
+      "name": "Hotel Mechanical Room Fans",
+      "url": "https://open.spotify.com/track/5hjj03IzLbcJCsTSe0DxYm"
+    },
+    {
+      "album": {
+        "name": "Ventilation Units",
+        "url": "https://open.spotify.com/album/48usbs0Xig94maoMQZaOjE"
+      },
+      "artists": [
+        {
+          "name": "Contented",
+          "url": "https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Hotel Room Ventilation",
+      "url": "https://open.spotify.com/track/0zURUnlaUXVXeWUditdl6t"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 122890,
+      "name": "Huge Fan And Noise Sounds",
+      "url": "https://open.spotify.com/track/7vCf3NyT4ZWn3vPOtOeGO4"
+    },
+    {
+      "album": {
+        "name": "ASMR Enviroments",
+        "url": "https://open.spotify.com/album/1zwU28wkpBKhCM32okzJ9a"
+      },
+      "artists": [
+        {
+          "name": "The Right Noises",
+          "url": "https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 86000,
+      "name": "Industrial Fan",
+      "url": "https://open.spotify.com/track/2tw1OtnzTPN34ClEqmKhwB"
+    },
+    {
+      "album": {
+        "name": "Instant Sleep Fan",
+        "url": "https://open.spotify.com/album/1EUs7ojZseL1y1nKaDgrFV"
+      },
+      "artists": [
+        {
+          "name": "Drowse Off",
+          "url": "https://open.spotify.com/artist/318hciCz2MiTnD1Mgb0BBG"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Instant Sleep Fan - Seamless",
+      "url": "https://open.spotify.com/track/7ujhfEhPrdFZtCoW6NBS0F"
+    },
+    {
+      "album": {
+        "name": "Fan Noise ASMR",
+        "url": "https://open.spotify.com/album/6lLd0tGKWoHk1kpoHycWDU"
+      },
+      "artists": [
+        {
+          "name": "Watts Recordings",
+          "url": "https://open.spotify.com/artist/0Aamp8tFQ9spSUC6uUbA7L"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120124,
+      "name": "Keep Me Cool",
+      "url": "https://open.spotify.com/track/0YsiDIbrgvMF6P5tx9U775"
+    },
+    {
+      "album": {
+        "name": "Large Fans",
+        "url": "https://open.spotify.com/album/17PreSe3pwlu8bwO5fiRP8"
+      },
+      "artists": [
+        {
+          "name": "Ambiworld",
+          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199092,
+      "name": "Large boxed cooling fan at low rpm",
+      "url": "https://open.spotify.com/track/4r6zEH3u06RSTgUWcln9GW"
+    },
+    {
+      "album": {
+        "name": "Good Night Breeze",
+        "url": "https://open.spotify.com/album/4So35rnEDebqG9JNEBDVmu"
+      },
+      "artists": [
+        {
+          "name": "Watts Recordings",
+          "url": "https://open.spotify.com/artist/0Aamp8tFQ9spSUC6uUbA7L"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 60010,
+      "name": "Light Fan",
+      "url": "https://open.spotify.com/track/2a1HQAegvqpBCdrjnCInVy"
+    },
+    {
+      "album": {
+        "name": "Light Winds",
+        "url": "https://open.spotify.com/album/7JqK532hRp6n0n7nnOa38c"
+      },
+      "artists": [
+        {
+          "name": "Trenti",
+          "url": "https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 112615,
+      "name": "Light Winds",
+      "url": "https://open.spotify.com/track/5Y4merexrMCRJIrZN2VTkz"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/5aVcfTvhO7sS4z0A2SUfNU"
+      },
+      "artists": [
+        {
+          "name": "White Noise Sound Relax",
+          "url": "https://open.spotify.com/artist/2iUpJ398dkoIlxUanIUV1y"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 416000,
+      "name": "Long Fan",
+      "url": "https://open.spotify.com/track/5EPT4CyGG4DwIcg4Ojw00g"
+    },
+    {
+      "album": {
+        "name": "Low AC Fan Rumble",
+        "url": "https://open.spotify.com/album/5QaHQlL87Wbx4xLo5fN2YQ"
+      },
+      "artists": [
+        {
+          "name": "The Sound Project",
+          "url": "https://open.spotify.com/artist/7hvpPDMQNBvtA1laewrJQq"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Low AC Fan Rumble",
+      "url": "https://open.spotify.com/track/1N6h47vHFECrzCbuxW5KaL"
+    },
+    {
+      "album": {
+        "name": "Workspace Siesta",
+        "url": "https://open.spotify.com/album/2YvDKXRG7Sb8qPBlNMdPbV"
+      },
+      "artists": [
+        {
+          "name": "ASMR Fan-Tastic",
+          "url": "https://open.spotify.com/artist/40jkzlYRbhcXi5GNug4JCB"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174041,
+      "name": "Machine Hall",
+      "url": "https://open.spotify.com/track/3xhInmpdC67u7AeHpvLaEq"
+    },
+    {
+      "album": {
+        "name": "Server Room Sleep",
+        "url": "https://open.spotify.com/album/0qgd74EN3Yz5wVl5gClMkS"
+      },
+      "artists": [
+        {
+          "name": "Audio Hall",
+          "url": "https://open.spotify.com/artist/2oE6i58qqic0JnyKf7rqtI"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Mainframe Room",
+      "url": "https://open.spotify.com/track/586PEGpYDmt1hotOlipJGH"
+    },
+    {
+      "album": {
+        "name": "Moviing Big Fan",
+        "url": "https://open.spotify.com/album/3Yc0zeeWxAFXVNxK5mPaao"
+      },
+      "artists": [
+        {
+          "name": "XLD Library",
+          "url": "https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Moviing Big Fan",
+      "url": "https://open.spotify.com/track/1QQzN5ktJlUnnRmqrJQJ3p"
+    },
+    {
+      "album": {
+        "name": "My Fantastic Fan",
+        "url": "https://open.spotify.com/album/2RkgmYjVUP7PS9JjziLj8U"
+      },
+      "artists": [
+        {
+          "name": "Doze Off",
+          "url": "https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185856,
+      "name": "My Fantastic Fan",
+      "url": "https://open.spotify.com/track/1CnECvwZu3t8BpTWSZwJLq"
+    },
+    {
+      "album": {
+        "name": "Your Biggest Fan",
+        "url": "https://open.spotify.com/album/3Z03gGuuXpiML1L3UZb17M"
+      },
+      "artists": [
+        {
+          "name": "Soundiescape",
+          "url": "https://open.spotify.com/artist/5DaXk2jDrc8Ohsj4oVXR4B"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "Next To The Fan",
+      "url": "https://open.spotify.com/track/4YYTCd3XD5P4U7o3HNX7Tr"
+    },
+    {
+      "album": {
+        "name": "Calming Fan Noise",
+        "url": "https://open.spotify.com/album/26pzGPKJEOtZbLzpbOKt4H"
+      },
+      "artists": [
+        {
+          "name": "Abandoned Sound",
+          "url": "https://open.spotify.com/artist/2YDSEjq5ow5wHCgwnMbK0f"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 187200,
+      "name": "Noise For Inner Peace",
+      "url": "https://open.spotify.com/track/1HCnXHUQlW2AAEnwjJPGUU"
+    },
+    {
+      "album": {
+        "name": "Hair Dryer Sound Noises",
+        "url": "https://open.spotify.com/album/5GMXsaxBa6sp74OU8ggxuR"
+      },
+      "artists": [
+        {
+          "name": "Hair Dryer Sounds Collection",
+          "url": "https://open.spotify.com/artist/4vKU8aFv9gOtjNnQ78SmZE"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 63136,
+      "name": "Noises of Fan",
+      "url": "https://open.spotify.com/track/3c2P05qBjXQrwRt2yT0gkh"
+    },
+    {
+      "album": {
+        "name": "Oven Fans",
+        "url": "https://open.spotify.com/album/7BR8pciWteOsfiYwES6N78"
+      },
+      "artists": [
+        {
+          "name": "Noises Of Life",
+          "url": "https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 106255,
+      "name": "Noisy Fan",
+      "url": "https://open.spotify.com/track/7DHu5FqINNn4sUCpK00XuC"
+    },
+    {
+      "album": {
+        "name": "Light Winds",
+        "url": "https://open.spotify.com/album/7JqK532hRp6n0n7nnOa38c"
+      },
+      "artists": [
+        {
+          "name": "Trenti",
+          "url": "https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 110769,
+      "name": "Noisy Fan",
+      "url": "https://open.spotify.com/track/6v26gYLZ1ItllcbSdP5jxF"
+    },
+    {
+      "album": {
+        "name": "Noisy Heater Fan",
+        "url": "https://open.spotify.com/album/0bXBLJ25Wg2J7BYDWoKbHe"
+      },
+      "artists": [
+        {
+          "name": "Noise Geek",
+          "url": "https://open.spotify.com/artist/2OqvMCVtdXzDnIUY65XXgY"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180364,
+      "name": "Noisy Heater Fan",
+      "url": "https://open.spotify.com/track/7oVLYTZImP9wN5esLc4QEE"
+    },
+    {
+      "album": {
+        "name": "Noisy Room Fan",
+        "url": "https://open.spotify.com/album/1G2VIZB9sEFpcbu8KDHT9n"
+      },
+      "artists": [
+        {
+          "name": "Cooking And Baking",
+          "url": "https://open.spotify.com/artist/0331U5rRfW0Nudesa2is1V"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Noisy Room Fan",
+      "url": "https://open.spotify.com/track/1PDIRSai7Bz3xi48uHVn42"
+    },
+    {
+      "album": {
+        "name": "Office Enviroments Part 1",
+        "url": "https://open.spotify.com/album/4T108KgPSrzxWm4ImvuUJB"
+      },
+      "artists": [
+        {
+          "name": "Alex Slumber",
+          "url": "https://open.spotify.com/artist/220bhoAsBPF9N3gZJPgNtF"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 88500,
+      "name": "Office Fan - Seamless",
+      "url": "https://open.spotify.com/track/1TfDKjHEiCS3MJPcZuhHC0"
+    },
+    {
+      "album": {
+        "name": "Large Fans",
+        "url": "https://open.spotify.com/album/17PreSe3pwlu8bwO5fiRP8"
+      },
+      "artists": [
+        {
+          "name": "Ambiworld",
+          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201335,
+      "name": "Old AC system in warehouse",
+      "url": "https://open.spotify.com/track/4SA0GrFf6eQHMX7XAdKdW1"
+    },
+    {
+      "album": {
+        "name": "Tropical Ceiling Fan",
+        "url": "https://open.spotify.com/album/6DbdTUR8kjfL9jwrg4ZZS1"
+      },
+      "artists": [
+        {
+          "name": "Slumberatronics",
+          "url": "https://open.spotify.com/artist/6gY0UbxnBwzDDMrmdQpwXQ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176641,
+      "name": "Old Ceiling Fan",
+      "url": "https://open.spotify.com/track/1O9crVlUmi9xwwDwsjlAle"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner White Noise",
+        "url": "https://open.spotify.com/album/7diWLqeF5sHyFK4D1WOckr"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 208500,
+      "name": "Old Fan White Noise",
+      "url": "https://open.spotify.com/track/1SQXtDp1IS3TPUx0HV9fk9"
+    },
+    {
+      "album": {
+        "name": "Noisy Fans",
+        "url": "https://open.spotify.com/album/6qFuPdRhVGRMIMXqBLBoHG"
+      },
+      "artists": [
+        {
+          "name": "In Natura",
+          "url": "https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 205035,
+      "name": "Old large table fan",
+      "url": "https://open.spotify.com/track/4Ph0oGTUO9W1SJg3z9NiSO"
+    },
+    {
+      "album": {
+        "name": "Old Rumbling AC",
+        "url": "https://open.spotify.com/album/7nPjp652Mgve17FbTeF08F"
+      },
+      "artists": [
+        {
+          "name": "Back 2 Sleep",
+          "url": "https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142091,
+      "name": "Old Rumbling AC",
+      "url": "https://open.spotify.com/track/5cv2zmknjQEjHxDtr8UJjt"
+    },
+    {
+      "album": {
+        "name": "Small Fans",
+        "url": "https://open.spotify.com/album/3btR6iEz6kjNF7N78x0zqQ"
+      },
+      "artists": [
+        {
+          "name": "Ambiworld",
+          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384422,
+      "name": "Old table fan at full speed",
+      "url": "https://open.spotify.com/track/3cpxWgeQFq2t2oj856Fy2X"
+    },
+    {
+      "album": {
+        "name": "White Noise Relaxing Fans",
+        "url": "https://open.spotify.com/album/5Vxne3de8zcPhfJPvmKQmD"
+      },
+      "artists": [
+        {
+          "name": "Baby Sleep Sounds",
+          "url": "https://open.spotify.com/artist/5WtycUE7XrEbLtcaKHMhxJ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 224000,
+      "name": "Oscillating Fan",
+      "url": "https://open.spotify.com/track/5jeax20Rmlr4J07htudY08"
+    },
+    {
+      "album": {
+        "name": "Relaxing Box Fan Ambience",
+        "url": "https://open.spotify.com/album/6aSII2RT05ZQgcrNG4tgg0"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Oscillating Zephyr",
+      "url": "https://open.spotify.com/track/64psnDB8SnO4Xg1RwKp0fh"
+    },
+    {
+      "album": {
+        "name": "Calming Fan Sounds",
+        "url": "https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL"
+      },
+      "artists": [
+        {
+          "name": "Home Sounds",
+          "url": "https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Peaceful Fan",
+      "url": "https://open.spotify.com/track/0rjviwkFi0KdRMuzwTtEOR"
+    },
+    {
+      "album": {
+        "name": "Fan Noise",
+        "url": "https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151598,
+      "name": "Perfect Calming Fan",
+      "url": "https://open.spotify.com/track/2cACLijsYA7940SY1w57O9"
+    },
+    {
+      "album": {
+        "name": "Soothing Fan Sounds",
+        "url": "https://open.spotify.com/album/3Ru6zXljgYq1bLgieh1XzI"
+      },
+      "artists": [
+        {
+          "name": "Oxford Deluxe Noise",
+          "url": "https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121037,
+      "name": "Perfect Sleep Fan",
+      "url": "https://open.spotify.com/track/2QIQ2XwzJCQNRdnj7Jmqpg"
+    },
+    {
+      "album": {
+        "name": "Soothing Fan Sounds",
+        "url": "https://open.spotify.com/album/3Ru6zXljgYq1bLgieh1XzI"
+      },
+      "artists": [
+        {
+          "name": "Oxford Deluxe Noise",
+          "url": "https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137716,
+      "name": "Pitched Down Table Fan (Remastered)",
+      "url": "https://open.spotify.com/track/3Kkeavw4osWOLfzANeUx1p"
+    },
+    {
+      "album": {
+        "name": "Listening to Electrical Substations",
+        "url": "https://open.spotify.com/album/3QEVHd5MrK7Kp2nJpoBq6I"
+      },
+      "artists": [
+        {
+          "name": "Simplicit\u00e9",
+          "url": "https://open.spotify.com/artist/1vU0vxuF92c7UzrpZYfcqi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206037,
+      "name": "Power Line Hum at 1 PM",
+      "url": "https://open.spotify.com/track/6atqbSa3XIgfaWrfc0eUs1"
+    },
+    {
+      "album": {
+        "name": "Listening to Electrical Substations",
+        "url": "https://open.spotify.com/album/3QEVHd5MrK7Kp2nJpoBq6I"
+      },
+      "artists": [
+        {
+          "name": "Simplicit\u00e9",
+          "url": "https://open.spotify.com/artist/1vU0vxuF92c7UzrpZYfcqi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153296,
+      "name": "Power Line Hum at 2 PM",
+      "url": "https://open.spotify.com/track/4Cijwq04G3h8kGFgGXpfLk"
+    },
+    {
+      "album": {
+        "name": "Listening to Electrical Substations",
+        "url": "https://open.spotify.com/album/3QEVHd5MrK7Kp2nJpoBq6I"
+      },
+      "artists": [
+        {
+          "name": "Simplicit\u00e9",
+          "url": "https://open.spotify.com/artist/1vU0vxuF92c7UzrpZYfcqi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "Power Line Hum at 5 PM",
+      "url": "https://open.spotify.com/track/4CRKfXs93TokHuKycHe7ye"
+    },
+    {
+      "album": {
+        "name": "Purring Fan Brown Noise",
+        "url": "https://open.spotify.com/album/65xvbKF8B3CeHzpmircwOP"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise Leeward",
+          "url": "https://open.spotify.com/artist/4EXfIwWsZ6ChJ74GyEg4MO"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Purring Fan Brown Noise",
+      "url": "https://open.spotify.com/track/0xPrkYaUdp3BlwnS4AI4Ui"
+    },
+    {
+      "album": {
+        "name": "My Fantastic Fan",
+        "url": "https://open.spotify.com/album/2RkgmYjVUP7PS9JjziLj8U"
+      },
+      "artists": [
+        {
+          "name": "Doze Off",
+          "url": "https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 60010,
+      "name": "Ralaxing Breeze",
+      "url": "https://open.spotify.com/track/6tqri70z39HuefNLptcAR8"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner & Fan Sounds",
+        "url": "https://open.spotify.com/album/0RQrEFcbuzRCVAlgvP4395"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Relaxing Air Conditioner",
+      "url": "https://open.spotify.com/track/6LtKpVIvB9DVbYh0lUjXz2"
+    },
+    {
+      "album": {
+        "name": "Slow Fan Sleep",
+        "url": "https://open.spotify.com/album/7o8aezuaHHbSpdWdn3xwkt"
+      },
+      "artists": [
+        {
+          "name": "Byonde",
+          "url": "https://open.spotify.com/artist/33ceGoMDGHMOenQtt0Ls8q"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Relaxing Fans",
+      "url": "https://open.spotify.com/track/5xHv5zngzdMuQOOPY0YQ7m"
+    },
+    {
+      "album": {
+        "name": "Restful Resonance: Box Fan's Soothing Chorus",
+        "url": "https://open.spotify.com/album/3Uk8L9IY6XmRluzpnILqP8"
+      },
+      "artists": [
+        {
+          "name": "No Placebo",
+          "url": "https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147181,
+      "name": "Restful Resonance: Box Fan's Soothing Chorus",
+      "url": "https://open.spotify.com/track/5yHK9x8OwYfuzGgQBEqkHG"
+    },
+    {
+      "album": {
+        "name": "ASMR Noises",
+        "url": "https://open.spotify.com/album/21jlHfINkBEZeKu6nOqK9R"
+      },
+      "artists": [
+        {
+          "name": "Desi Eskil",
+          "url": "https://open.spotify.com/artist/4vDXxjHGMDyOaPyUdRXfQj"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185017,
+      "name": "Room Fans",
+      "url": "https://open.spotify.com/track/4vtFAu2IdR5gjXm8RpKpOB"
+    },
+    {
+      "album": {
+        "name": "Room Fans",
+        "url": "https://open.spotify.com/album/3K3JaZFUTo3KcR30AqVtOb"
+      },
+      "artists": [
+        {
+          "name": "Noiseility",
+          "url": "https://open.spotify.com/artist/4fcuiHnWEj5D0Cb5SJlcFn"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186636,
+      "name": "Room Fans",
+      "url": "https://open.spotify.com/track/1fNxIR041d6vZ1koRcjVVQ"
+    },
+    {
+      "album": {
+        "name": "Rumbling Air Conditioning",
+        "url": "https://open.spotify.com/album/3U6nBXSIuZpiuT5eisBGN4"
+      },
+      "artists": [
+        {
+          "name": "X Life",
+          "url": "https://open.spotify.com/artist/3l1uA3z1qYJMa2hCxYupbK"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194214,
+      "name": "Rumbling Air Conditioning",
+      "url": "https://open.spotify.com/track/4jR7ecdGBSMNS82kt2HCw5"
+    },
+    {
+      "album": {
+        "name": "Soothing Background Noises (a Gentle blend of White Noises, Rain, Clothes Dryers, Vacuums, Air Conditioners...)",
+        "url": "https://open.spotify.com/album/0X7Y8RhTXpEyr24cg1r1VR"
+      },
+      "artists": [
+        {
+          "name": "Collection Spa",
+          "url": "https://open.spotify.com/artist/0xDcpa1mYPKx0ltNHXVA5D"
+        },
+        {
+          "name": "All Night Sleeping",
+          "url": "https://open.spotify.com/artist/1WWydIiZ5TyQMn5giQrbBb"
+        },
+        {
+          "name": "White Noise Therapy & Massage Music",
+          "url": "https://open.spotify.com/artist/10IBb2NGnVrUdyoEUU9cyF"
+        },
+        {
+          "name": "Background Ambiances",
+          "url": "https://open.spotify.com/artist/5zEdJmrZJHyf9B63MGsGoY"
+        },
+        {
+          "name": "Baby Sleep White Noise",
+          "url": "https://open.spotify.com/artist/0VDjphz5zgT3eJZw74oLYZ"
+        },
+        {
+          "name": "Best Relaxing Spa",
+          "url": "https://open.spotify.com/artist/0BjJ7mS2KAL53zPnC74I2r"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 78894,
+      "name": "Rumbling Fan",
+      "url": "https://open.spotify.com/track/55HxPo6EToPjvj1jzNCyPf"
+    },
+    {
+      "album": {
+        "name": "Box Fan Oasis: Serenade of Relaxation",
+        "url": "https://open.spotify.com/album/5OcWj4JVBoQGfQGNCeGBKa"
+      },
+      "artists": [
+        {
+          "name": "Outside White Noise",
+          "url": "https://open.spotify.com/artist/5nHa2oeH3MYeyYSkB6hs9h"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150651,
+      "name": "Serene Slumber: Box Fan's Tranquil Tones",
+      "url": "https://open.spotify.com/track/33LgHov3fTmVIanPy7CoTz"
+    },
+    {
+      "album": {
+        "name": "Server Room Sleep",
+        "url": "https://open.spotify.com/album/0qgd74EN3Yz5wVl5gClMkS"
+      },
+      "artists": [
+        {
+          "name": "Audio Hall",
+          "url": "https://open.spotify.com/artist/2oE6i58qqic0JnyKf7rqtI"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Server Room",
+      "url": "https://open.spotify.com/track/1pElWzvVGe5ehFfkXOqW8v"
+    },
+    {
+      "album": {
+        "name": "Calming Fan Sounds",
+        "url": "https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL"
+      },
+      "artists": [
+        {
+          "name": "Home Sounds",
+          "url": "https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 168000,
+      "name": "Sleep Fan",
+      "url": "https://open.spotify.com/track/6mhcE0Yjn7cv8IvhVXBvmY"
+    },
+    {
+      "album": {
+        "name": "Fan Noises For Sleep And Meditation",
+        "url": "https://open.spotify.com/album/5d3OaOEY2OvslCRCqLLFns"
+      },
+      "artists": [
+        {
+          "name": "Abandoned Sound",
+          "url": "https://open.spotify.com/artist/2YDSEjq5ow5wHCgwnMbK0f"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 164400,
+      "name": "Sleep Fan Brown Noise",
+      "url": "https://open.spotify.com/track/28TSOmgOSqL2ggMrBxr7jX"
+    },
+    {
+      "album": {
+        "name": "Sleep Fan Deluxe",
+        "url": "https://open.spotify.com/album/0jbzXchbAjCeAV8ThLzU4Q"
+      },
+      "artists": [
+        {
+          "name": "Instant Recuperate",
+          "url": "https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Sleep Fan Deluxe",
+      "url": "https://open.spotify.com/track/5TH9uL268upuwzJCJAThGI"
+    },
+    {
+      "album": {
+        "name": "Box Fan Breezes: Whispers of Tranquility",
+        "url": "https://open.spotify.com/album/1Zrrj7QJqHJvSMGXOiAQCg"
+      },
+      "artists": [
+        {
+          "name": "Drippin FX",
+          "url": "https://open.spotify.com/artist/4fnU7LIoPAddOh4msghqf7"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140710,
+      "name": "Sleep Haven: Box Fan's Serenade for Peace",
+      "url": "https://open.spotify.com/track/5QlUxT21bTYAaHhVJmBzZB"
+    },
+    {
+      "album": {
+        "name": "Sleep Haven: Box Fan's Tranquil Whispers",
+        "url": "https://open.spotify.com/album/3tb7eRikpZM3TAJMgTB4b0"
+      },
+      "artists": [
+        {
+          "name": "Nozon",
+          "url": "https://open.spotify.com/artist/1NYlBYTFUeQJBzcZItcE9v"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137768,
+      "name": "Sleep Haven: Box Fan's Tranquil Whispers",
+      "url": "https://open.spotify.com/track/0YqAi6pSiNbJfafLMHYDH6"
+    },
+    {
+      "album": {
+        "name": "Tranquil Whispers: Box Fan Sleep Therapy",
+        "url": "https://open.spotify.com/album/4X3Awj4oiXSZKaB7qCo5PE"
+      },
+      "artists": [
+        {
+          "name": "Fan Fans",
+          "url": "https://open.spotify.com/artist/6vg3Al8inaxQiiwsbzccnF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Sleep Oasis: Box Fan Melodies",
+      "url": "https://open.spotify.com/track/1KMamrEkafIoLHUQltaUyx"
+    },
+    {
+      "album": {
+        "name": "Sleep Oasis: Box Fan's Serenade of Peace",
+        "url": "https://open.spotify.com/album/1crSouUeE6DysZrS741vGI"
+      },
+      "artists": [
+        {
+          "name": "Bits & Noise",
+          "url": "https://open.spotify.com/artist/7kcK3nZZHSgYrQLdexefpQ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147859,
+      "name": "Sleep Oasis: Box Fan's Serenade of Peace",
+      "url": "https://open.spotify.com/track/336zyx2Ep3L0fcITgim96c"
+    },
+    {
+      "album": {
+        "name": "Box Fan Breeze: Whispers of Relaxation",
+        "url": "https://open.spotify.com/album/1GaxE011WYRZha8TQEoqGb"
+      },
+      "artists": [
+        {
+          "name": "Dream Keepers",
+          "url": "https://open.spotify.com/artist/01lN1ygHi8b9ZnKfZhy02M"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124951,
+      "name": "Sleep Oasis: Box Fan's Serenade of Tranquility",
+      "url": "https://open.spotify.com/track/6Mw8UPpP8kOJjLAoMVlVuB"
+    },
+    {
+      "album": {
+        "name": "Relaxing Rhythms: Box Fan Melodies",
+        "url": "https://open.spotify.com/album/0oTjc8gKqULBLgAlhhkDgA"
+      },
+      "artists": [
+        {
+          "name": "Calor Malvado",
+          "url": "https://open.spotify.com/artist/2KBlE7vqrHghTXzMP1jgwK"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128506,
+      "name": "Sleep Soundly: Box Fan Sleep Aid",
+      "url": "https://open.spotify.com/track/1SIGSNCvHuXnzHqzuUxzOg"
+    },
+    {
+      "album": {
+        "name": "Box Fan Rest Sound",
+        "url": "https://open.spotify.com/album/7IA9117UkaGQCK0knSQmlB"
+      },
+      "artists": [
+        {
+          "name": "Fan Sound",
+          "url": "https://open.spotify.com/artist/257xzDOsf0FcLcCHwPBnRI"
+        },
+        {
+          "name": "Box Fan Noise",
+          "url": "https://open.spotify.com/artist/5PmNZtnfTSBO2zwcKPbCFX"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 436223,
+      "name": "Sleep Sounds Fan Loop",
+      "url": "https://open.spotify.com/track/3xL4JuQBw7GOJXzloNIIWN"
+    },
+    {
+      "album": {
+        "name": "Sleepy Winds",
+        "url": "https://open.spotify.com/album/5ijg5JySc4tAxjJQtFdBv8"
+      },
+      "artists": [
+        {
+          "name": "Erity",
+          "url": "https://open.spotify.com/artist/252S10kCSN54mC9V1Q5xV6"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 111245,
+      "name": "Sleep To the Winds",
+      "url": "https://open.spotify.com/track/5g7j4X2o9KegxVNij89MIQ"
+    },
+    {
+      "album": {
+        "name": "Sleepscape Symphony: Box Fan's Lullabies for Sleep",
+        "url": "https://open.spotify.com/album/1fi8jhn5t0HMOcOSKpQG01"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125216,
+      "name": "Sleepscape Symphony: Box Fan's Lullabies for Sleep",
+      "url": "https://open.spotify.com/track/4eiM45LfKFivj35FMykkCx"
+    },
+    {
+      "album": {
+        "name": "Sleepy Winds",
+        "url": "https://open.spotify.com/album/5ijg5JySc4tAxjJQtFdBv8"
+      },
+      "artists": [
+        {
+          "name": "Erity",
+          "url": "https://open.spotify.com/artist/252S10kCSN54mC9V1Q5xV6"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 110769,
+      "name": "Sleepy Winds",
+      "url": "https://open.spotify.com/track/2GDSVHwyV0fBAjhHUd4xri"
+    },
+    {
+      "album": {
+        "name": "Sleepy Windturbine",
+        "url": "https://open.spotify.com/album/7oTLWOxsWmSZH2n8RWxBS3"
+      },
+      "artists": [
+        {
+          "name": "Melatonement",
+          "url": "https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 116000,
+      "name": "Sleepy Windturbine",
+      "url": "https://open.spotify.com/track/092b3eQvOJfBiBE9OsWb1V"
+    },
+    {
+      "album": {
+        "name": "Slow Fan Sleep",
+        "url": "https://open.spotify.com/album/7o8aezuaHHbSpdWdn3xwkt"
+      },
+      "artists": [
+        {
+          "name": "Byonde",
+          "url": "https://open.spotify.com/artist/33ceGoMDGHMOenQtt0Ls8q"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 172000,
+      "name": "Slow Fan Sleep",
+      "url": "https://open.spotify.com/track/3ypeXRVEOG6vZAh3NuT2ph"
+    },
+    {
+      "album": {
+        "name": "Soft Box Fan Tones",
+        "url": "https://open.spotify.com/album/3l0nfCwmYdHfKqhmCLMvbg"
+      },
+      "artists": [
+        {
+          "name": "Embryo",
+          "url": "https://open.spotify.com/artist/1cIr8MUwUDalrp52BpyG88"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165707,
+      "name": "Soft Box Fan Tones",
+      "url": "https://open.spotify.com/track/0HLO9VGhXFNeIPctHwQZHE"
+    },
+    {
+      "album": {
+        "name": "Soft Box Fan Whispers",
+        "url": "https://open.spotify.com/album/32Vq9xnJNjFxHeOmyaRYoE"
+      },
+      "artists": [
+        {
+          "name": "DREAMCOVE",
+          "url": "https://open.spotify.com/artist/6csdJegl2ASJXwAswQPd1q"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170165,
+      "name": "Soft Box Fan Whispers",
+      "url": "https://open.spotify.com/track/42cghUCJsbFHJ9ab3Eqgm6"
+    },
+    {
+      "album": {
+        "name": "Soft Underground Furnace Fan",
+        "url": "https://open.spotify.com/album/0W48vGq4MYm1WS2UAwW0KA"
+      },
+      "artists": [
+        {
+          "name": "Inflament",
+          "url": "https://open.spotify.com/artist/4LbVCzMpbfkyz5EsNBjQSv"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158091,
+      "name": "Soft Underground Furnace Fan",
+      "url": "https://open.spotify.com/track/1A5HcJ0onbNnVDKcfVn29I"
+    },
+    {
+      "album": {
+        "name": "Soothing Box Fan",
+        "url": "https://open.spotify.com/album/02wxCz3yvmjuNesnbbOxBJ"
+      },
+      "artists": [
+        {
+          "name": "Abandoned Sound",
+          "url": "https://open.spotify.com/artist/2YDSEjq5ow5wHCgwnMbK0f"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Soothing Box Fan",
+      "url": "https://open.spotify.com/track/7lhf5uvJcoN84RUogCVDk9"
+    },
+    {
+      "album": {
+        "name": "Calm Restful Box Fan Sounds",
+        "url": "https://open.spotify.com/album/5PnBXTlS3RMT2Ynjq6i4iC"
+      },
+      "artists": [
+        {
+          "name": "Emotional Support Fan",
+          "url": "https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Soothing Box Fan for Sleep",
+      "url": "https://open.spotify.com/track/6qURDzirLSBLoURUafSZCM"
+    },
+    {
+      "album": {
+        "name": "Winds Of Sleep",
+        "url": "https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 105230,
+      "name": "Soothing Breeze",
+      "url": "https://open.spotify.com/track/6jqdXdM6N8c2lbZ0B5kJ4C"
+    },
+    {
+      "album": {
+        "name": "Soothing Breeze",
+        "url": "https://open.spotify.com/album/086kiBNrgLRYP7jh0WNBBO"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Architect",
+          "url": "https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Soothing Breeze",
+      "url": "https://open.spotify.com/track/6vwiUroQYreMhtdkCokCtF"
+    },
+    {
+      "album": {
+        "name": "Soothing Dream Fan",
+        "url": "https://open.spotify.com/album/1kd4XfTbYocpowu4nclzu2"
+      },
+      "artists": [
+        {
+          "name": "WOS Project",
+          "url": "https://open.spotify.com/artist/4R7xSJpwf9IsrGzUYNpyz0"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Soothing Dream Fan",
+      "url": "https://open.spotify.com/track/3eLAiLEczQ9fxsEUkOQUgU"
+    },
+    {
+      "album": {
+        "name": "Calming Fan Sounds",
+        "url": "https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL"
+      },
+      "artists": [
+        {
+          "name": "Home Sounds",
+          "url": "https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Soothing Fan",
+      "url": "https://open.spotify.com/track/5HQ4kVXRn4UyPwc3NxgwDj"
+    },
+    {
+      "album": {
+        "name": "Bedroom Sleep Sounds",
+        "url": "https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd"
+      },
+      "artists": [
+        {
+          "name": "ASMR HOME",
+          "url": "https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Soothing Flowing Air Sounds",
+      "url": "https://open.spotify.com/track/60isuZHIb24zg1QKPg2NNw"
+    },
+    {
+      "album": {
+        "name": "Fan Hypnosis",
+        "url": "https://open.spotify.com/album/4O3JywlUAKSETN8w8CrcJf"
+      },
+      "artists": [
+        {
+          "name": "ASMR Doze",
+          "url": "https://open.spotify.com/artist/2LQxmUm6LgVqKlTWuiFp2D"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 102000,
+      "name": "Soothing Panning Box Fan - Seamless",
+      "url": "https://open.spotify.com/track/2Jef9t38xnPQ2sH8AGM0HY"
+    },
+    {
+      "album": {
+        "name": "Good Night Breeze",
+        "url": "https://open.spotify.com/album/4So35rnEDebqG9JNEBDVmu"
+      },
+      "artists": [
+        {
+          "name": "Watts Recordings",
+          "url": "https://open.spotify.com/artist/0Aamp8tFQ9spSUC6uUbA7L"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 97706,
+      "name": "Soothing Wind",
+      "url": "https://open.spotify.com/track/3b4P1sNNeBdPnt6FPBpZqb"
+    },
+    {
+      "album": {
+        "name": "Fan Unwind",
+        "url": "https://open.spotify.com/album/2kLJVMJD2EjAXVchV5sLZj"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Sound Machine",
+          "url": "https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Stand Fan (High Speed)",
+      "url": "https://open.spotify.com/track/78jYangLaxVt3F0P6koVbE"
+    },
+    {
+      "album": {
+        "name": "Fan Unwind",
+        "url": "https://open.spotify.com/album/2kLJVMJD2EjAXVchV5sLZj"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Sound Machine",
+          "url": "https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Stand Fan (Low Speed)",
+      "url": "https://open.spotify.com/track/0735VDmziPNzjeSF6IaLtp"
+    },
+    {
+      "album": {
+        "name": "Light Winds",
+        "url": "https://open.spotify.com/album/7JqK532hRp6n0n7nnOa38c"
+      },
+      "artists": [
+        {
+          "name": "Trenti",
+          "url": "https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 105301,
+      "name": "Sudden Winds Of Sleep",
+      "url": "https://open.spotify.com/track/4A7py1e73Egn3G4JLnNHmw"
+    },
+    {
+      "album": {
+        "name": "Summer with Fan",
+        "url": "https://open.spotify.com/album/00JK0tikGqRcNUokLXlLPK"
+      },
+      "artists": [
+        {
+          "name": "The Sound Dome",
+          "url": "https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 192750,
+      "name": "Summer with Fan",
+      "url": "https://open.spotify.com/track/134VOQGPNxo3uHk5oR78BM"
+    },
+    {
+      "album": {
+        "name": "Best Loopable White Noise",
+        "url": "https://open.spotify.com/album/3C8KIgI0zGvKAdfVsBcb3Y"
+      },
+      "artists": [
+        {
+          "name": "Erik Eriksson",
+          "url": "https://open.spotify.com/artist/2c5WYCqQGs0UttiLCzVfOe"
+        },
+        {
+          "name": "White Noise Baby Sleep",
+          "url": "https://open.spotify.com/artist/4W12lEvVl5wectUtRNrvDh"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 72223,
+      "name": "Table Fan - Loopable With No Fade",
+      "url": "https://open.spotify.com/track/6YzzyEz4PU8DNB0xzAaWe1"
+    },
+    {
+      "album": {
+        "name": "Small Fans",
+        "url": "https://open.spotify.com/album/3btR6iEz6kjNF7N78x0zqQ"
+      },
+      "artists": [
+        {
+          "name": "Ambiworld",
+          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 332387,
+      "name": "Table fan at slow speed",
+      "url": "https://open.spotify.com/track/34iKolnzJvynn0GVsPemmF"
+    },
+    {
+      "album": {
+        "name": "Tranquil Box Fan",
+        "url": "https://open.spotify.com/album/4X2ErgM6FRLbgZgtGAzTza"
+      },
+      "artists": [
+        {
+          "name": "Shaping Clouds",
+          "url": "https://open.spotify.com/artist/0Bb5VKfNbEB7Vwd6hHWZfQ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147131,
+      "name": "Tranquil Box Fan",
+      "url": "https://open.spotify.com/track/3jZXwHqJcjrAnEoMlbOKgc"
+    },
+    {
+      "album": {
+        "name": "ASMR House",
+        "url": "https://open.spotify.com/album/7mVRi3wpR3vNesav7ziSzi"
+      },
+      "artists": [
+        {
+          "name": "Mind Tickle",
+          "url": "https://open.spotify.com/artist/3G4BQXIQ09Rb0JWFtjoDzk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252091,
+      "name": "Whispering Hard Drives",
+      "url": "https://open.spotify.com/track/0fiOjNYhn6g20dc6BqsjLK"
+    },
+    {
+      "album": {
+        "name": "Whispering Winds: Box Fan Naptime",
+        "url": "https://open.spotify.com/album/7GfHi4eRM0dkIWovS1nokK"
+      },
+      "artists": [
+        {
+          "name": "brozains",
+          "url": "https://open.spotify.com/artist/7gUQb4sAvvLplz558JypaA"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161038,
+      "name": "Whispering Winds: Box Fan Naptime",
+      "url": "https://open.spotify.com/track/7LOcpPZRqZcneWC8AnQlwZ"
+    },
+    {
+      "album": {
+        "name": "Whispers of Sleep: Box Fan's Soothing Harmony",
+        "url": "https://open.spotify.com/album/1YnzwFNJFTpgR0KsgMm6dI"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Specialists",
+          "url": "https://open.spotify.com/artist/2wNur6TVoTGoXd7VQR47EF"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139851,
+      "name": "Whispers of Sleep: Box Fan's Soothing Harmony",
+      "url": "https://open.spotify.com/track/7AgXS6Tqhzil6qxZzH2eQE"
+    },
+    {
+      "album": {
+        "name": "White Noise (Elevator Fan)",
+        "url": "https://open.spotify.com/album/1eDQ4EmLPK1472pz7jBBd6"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Peace",
+          "url": "https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531500,
+      "name": "White Noise (Elevator Fan)",
+      "url": "https://open.spotify.com/track/2ukdehDG7eyu4PUFZoJFnb"
+    },
+    {
+      "album": {
+        "name": "White Noise (Vent Fan)",
+        "url": "https://open.spotify.com/album/437MrVEL6cCTPcC8uMdPUI"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Peace",
+          "url": "https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 620500,
+      "name": "White Noise (Vent Fan)",
+      "url": "https://open.spotify.com/track/7htJAcM8GyCh9USJHy4Hsy"
+    },
+    {
+      "album": {
+        "name": "Calming Fan Noise",
+        "url": "https://open.spotify.com/album/26pzGPKJEOtZbLzpbOKt4H"
+      },
+      "artists": [
+        {
+          "name": "Abandoned Sound",
+          "url": "https://open.spotify.com/artist/2YDSEjq5ow5wHCgwnMbK0f"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 189600,
+      "name": "White Noise Dream",
+      "url": "https://open.spotify.com/track/10louPokrjJeKUrpiMfw2w"
+    },
+    {
+      "album": {
+        "name": "Sleepy Fan Noise",
+        "url": "https://open.spotify.com/album/3PoRDhSdc7td4ALL2xFlxV"
+      },
+      "artists": [
+        {
+          "name": "ASMR Deluxe",
+          "url": "https://open.spotify.com/artist/6ymmMXSFB9EVMsSZykjkmm"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "White Noise Fan",
+      "url": "https://open.spotify.com/track/06MHkVkRCnyzsTCk0XhqMR"
+    },
+    {
+      "album": {
+        "name": "White Noise Sleep Aid",
+        "url": "https://open.spotify.com/album/0H8sdynxqyZteSDmlPBx5U"
+      },
+      "artists": [
+        {
+          "name": "White Noise Therapy",
+          "url": "https://open.spotify.com/artist/1O7bUkov2v71fDS60GOfMD"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 304000,
+      "name": "White Noise Fan Sound",
+      "url": "https://open.spotify.com/track/0EjTKpMAvsPYmDlP5OIqvu"
+    },
+    {
+      "album": {
+        "name": "Fans & White Noise",
+        "url": "https://open.spotify.com/album/1GFg3n7lno3P927IUfJZw9"
+      },
+      "artists": [
+        {
+          "name": "Fans & White Noise",
+          "url": "https://open.spotify.com/artist/49w7pay4OAhZGURV5VM32d"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 203206,
+      "name": "White Noise: Electric Fans",
+      "url": "https://open.spotify.com/track/0lkBe4nmn0hKu0xEUFdd6p"
+    },
+    {
+      "album": {
+        "name": "Fans & White Noise",
+        "url": "https://open.spotify.com/album/1GFg3n7lno3P927IUfJZw9"
+      },
+      "artists": [
+        {
+          "name": "Fans & White Noise",
+          "url": "https://open.spotify.com/artist/49w7pay4OAhZGURV5VM32d"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 203702,
+      "name": "White Noise: Fan",
+      "url": "https://open.spotify.com/track/3AOPwVN6Kl9vZLsd24YXZj"
+    },
+    {
+      "album": {
+        "name": "White Noise: Calm & Collected",
+        "url": "https://open.spotify.com/album/0lKPaso24TJPCaov5MBQ1Y"
+      },
+      "artists": [
+        {
+          "name": "Outside Broadcast Recordings",
+          "url": "https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 208215,
+      "name": "White Noise: Fan Swell",
+      "url": "https://open.spotify.com/track/26kHNG7PiXy1X7I3wJDBm2"
+    },
+    {
+      "album": {
+        "name": "White Noise: Cleansing Noise",
+        "url": "https://open.spotify.com/album/1hPa12sFTkHPRiMRH4xLsi"
+      },
+      "artists": [
+        {
+          "name": "Outside Broadcast Recordings",
+          "url": "https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 227918,
+      "name": "White Noise: Rotating Fan",
+      "url": "https://open.spotify.com/track/35pI5XX4phBlv9ZL6TGKNg"
+    },
+    {
+      "album": {
+        "name": "Calming White Noises for Babies",
+        "url": "https://open.spotify.com/album/7GzRoCv5ratpayFSUrlkDi"
+      },
+      "artists": [
+        {
+          "name": "White Noise Babies",
+          "url": "https://open.spotify.com/artist/7DCv5iEOfzc6EEe4GbFcOM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 245000,
+      "name": "White Noise: Standing Fan",
+      "url": "https://open.spotify.com/track/0HEvc3KhYG7aLb3t9vcJ4f"
+    },
+    {
+      "album": {
+        "name": "Electronic White Noise Therapy",
+        "url": "https://open.spotify.com/album/7rGL3cyPxZCaxIN12UGJSl"
+      },
+      "artists": [
+        {
+          "name": "Outside Broadcast Recordings",
+          "url": "https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203441,
+      "name": "White Noise: Two Fans",
+      "url": "https://open.spotify.com/track/6YSPzI6GfyQ49WhNMEZB8m"
+    },
+    {
+      "album": {
+        "name": "Wide Old Fan",
+        "url": "https://open.spotify.com/album/6vz3zyRTiWtpNhh6WJbjyj"
+      },
+      "artists": [
+        {
+          "name": "Pure Spaces",
+          "url": "https://open.spotify.com/artist/4Xdi1VXQLrrTz9BwDdwQ7n"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178636,
+      "name": "Wide Old Fan",
+      "url": "https://open.spotify.com/track/1xob5jIMiizvMWJRiM6I75"
+    },
+    {
+      "album": {
+        "name": "The Fan Collection",
+        "url": "https://open.spotify.com/album/1EfUnnXEA3h6DrQNd7HRdG"
+      },
+      "artists": [
+        {
+          "name": "Fade Away Sleep Sounds",
+          "url": "https://open.spotify.com/artist/5c7VpP33FVLibHz6LKoUgZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 128595,
+      "name": "Window Fan on Low",
+      "url": "https://open.spotify.com/track/4Wg5aVNXw4y0ajflDp7CIK"
+    },
+    {
+      "album": {
+        "name": "Winds Of Sleep",
+        "url": "https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 118677,
+      "name": "Winds Of Sleep",
+      "url": "https://open.spotify.com/track/6rT5Qb9ISDVPq7eQgJ1jRR"
+    },
+    {
+      "album": {
+        "name": "Workplace Fans",
+        "url": "https://open.spotify.com/album/4DHcdRMpDZvWhHWE03Iicq"
+      },
+      "artists": [
+        {
+          "name": "Noise Recorder",
+          "url": "https://open.spotify.com/artist/4dP7FaHEym6UneIfaZhlSf"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Workspace Amp Fan",
+      "url": "https://open.spotify.com/track/2Bn7Bju9DwkC9UIA6rPyWf"
+    },
+    {
+      "album": {
+        "name": "Your Biggest Fan",
+        "url": "https://open.spotify.com/album/3Z03gGuuXpiML1L3UZb17M"
+      },
+      "artists": [
+        {
+          "name": "Soundiescape",
+          "url": "https://open.spotify.com/artist/5DaXk2jDrc8Ohsj4oVXR4B"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Your Biggest Fan",
+      "url": "https://open.spotify.com/track/6um3MKS4JKEzrokNtJ7KOu"
+    },
+    {
+      "album": {
+        "name": "Fan Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/0YEkPZ64ji8bJpu2ceIQce"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 157924,
+      "name": "Your Favourite Table Fan",
+      "url": "https://open.spotify.com/track/6bVLQ2UHiManiwZdVhCL1D"
+    },
+    {
+      "album": {
+        "name": "Zen Zone: Box Fan's Meditative Sounds",
+        "url": "https://open.spotify.com/album/7KGkGphlvwRSuUy6ni1kBh"
+      },
+      "artists": [
+        {
+          "name": "FX Sleep Creator",
+          "url": "https://open.spotify.com/artist/6YPpB1iVfPRurxJ7fNIevL"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123851,
+      "name": "Zen Zone: Box Fan's Meditative Sounds",
+      "url": "https://open.spotify.com/track/55KJXTW81mWD9zul5fb8yr"
+    },
+    {
+      "album": {
+        "name": "Everyday Tingles",
+        "url": "https://open.spotify.com/album/0MOtTcCkbXp8gmaX8gQ7el"
+      },
+      "artists": [
+        {
+          "name": "Autonomic Sensations",
+          "url": "https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187183,
+      "name": "\u00c9tude for Fan",
+      "url": "https://open.spotify.com/track/6kGR1hnTx0pe9DeHVzEF26"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUm4vT7WQxcD"
 }

@@ -1,479 +1,3105 @@
 {
-  "2022-09-09": 76506,
-  "2022-09-10": 76569,
-  "2022-09-11": 76619,
-  "2022-09-12": 76677,
-  "2022-09-13": 76731,
-  "2022-09-15": 76860,
-  "2022-09-16": 76903,
-  "2022-09-17": 76942,
-  "2022-09-18": 76990,
-  "2022-09-19": 77063,
-  "2022-09-20": 77122,
-  "2022-09-21": 77201,
-  "2022-09-22": 77278,
-  "2022-09-23": 77342,
-  "2022-09-24": 77396,
-  "2022-09-25": 77469,
-  "2022-09-26": 77555,
-  "2022-09-27": 77667,
-  "2022-09-28": 77736,
-  "2022-09-29": 77808,
-  "2022-09-30": 77877,
-  "2022-10-01": 77940,
-  "2022-10-02": 78009,
-  "2022-10-03": 78128,
-  "2022-10-04": 78196,
-  "2022-10-05": 78281,
-  "2022-10-06": 78368,
-  "2022-10-07": 78456,
-  "2022-10-08": 78545,
-  "2022-10-09": 78664,
-  "2022-10-10": 78707,
-  "2022-10-11": 78772,
-  "2022-10-12": 78853,
-  "2022-10-13": 78931,
-  "2022-10-14": 79027,
-  "2022-10-15": 79100,
-  "2022-10-16": 79164,
-  "2022-10-17": 79246,
-  "2022-10-18": 79335,
-  "2022-10-19": 79406,
-  "2022-10-20": 79496,
-  "2022-10-21": 79559,
-  "2022-10-22": 79618,
-  "2022-10-23": 79664,
-  "2022-10-24": 79758,
-  "2022-10-25": 79840,
-  "2022-10-26": 79910,
-  "2022-10-27": 79967,
-  "2022-10-28": 80029,
-  "2022-10-29": 80072,
-  "2022-10-30": 80144,
-  "2022-10-31": 80209,
-  "2022-11-01": 80301,
-  "2022-11-02": 80387,
-  "2022-11-03": 80473,
-  "2022-11-04": 80533,
-  "2022-11-05": 80588,
-  "2022-11-06": 80673,
-  "2022-11-07": 80785,
-  "2022-11-08": 80893,
-  "2022-11-09": 80984,
-  "2022-11-10": 81044,
-  "2022-11-11": 81100,
-  "2022-11-12": 81179,
-  "2022-11-13": 81246,
-  "2022-11-14": 81339,
-  "2022-11-15": 81429,
-  "2022-11-16": 81510,
-  "2022-11-17": 81590,
-  "2022-11-18": 81613,
-  "2022-11-19": 81634,
-  "2022-11-20": 81690,
-  "2022-11-21": 81741,
-  "2022-11-22": 81817,
-  "2022-11-23": 81893,
-  "2022-11-24": 82036,
-  "2022-11-25": 82148,
-  "2022-11-26": 82225,
-  "2022-11-27": 82310,
-  "2022-11-28": 82379,
-  "2022-11-29": 82453,
-  "2022-11-30": 82541,
-  "2022-12-01": 82601,
-  "2022-12-02": 82651,
-  "2022-12-03": 82752,
-  "2022-12-04": 82827,
-  "2022-12-05": 82905,
-  "2022-12-06": 82991,
-  "2022-12-07": 83079,
-  "2022-12-08": 83147,
-  "2022-12-09": 83232,
-  "2022-12-10": 83285,
-  "2022-12-11": 83372,
-  "2022-12-12": 83443,
-  "2022-12-13": 83543,
-  "2022-12-14": 83630,
-  "2022-12-15": 83716,
-  "2022-12-16": 83779,
-  "2022-12-17": 83851,
-  "2022-12-18": 83909,
-  "2022-12-19": 83980,
-  "2022-12-20": 84127,
-  "2022-12-21": 84127,
-  "2022-12-22": 84219,
-  "2022-12-24": 84490,
-  "2022-12-25": 84626,
-  "2022-12-26": 84782,
-  "2022-12-27": 84925,
-  "2022-12-28": 85057,
-  "2022-12-29": 85201,
-  "2022-12-30": 85312,
-  "2022-12-31": 85451,
-  "2023-01-01": 85547,
-  "2023-01-02": 85657,
-  "2023-01-03": 85799,
-  "2023-01-04": 85910,
-  "2023-01-05": 86018,
-  "2023-01-06": 86114,
-  "2023-01-07": 86232,
-  "2023-01-08": 86256,
-  "2023-01-09": 86371,
-  "2023-01-10": 86454,
-  "2023-01-11": 86532,
-  "2023-01-12": 86617,
-  "2023-01-13": 86684,
-  "2023-01-14": 86803,
-  "2023-01-15": 86819,
-  "2023-01-16": 86924,
-  "2023-01-17": 86993,
-  "2023-01-18": 87077,
-  "2023-01-19": 87158,
-  "2023-01-20": 87252,
-  "2023-01-21": 87316,
-  "2023-01-22": 87372,
-  "2023-01-23": 87442,
-  "2023-01-24": 87496,
-  "2023-01-25": 87572,
-  "2023-01-26": 87653,
-  "2023-01-27": 87696,
-  "2023-01-28": 87761,
-  "2023-01-29": 87828,
-  "2023-01-30": 87900,
-  "2023-01-31": 87900,
-  "2023-02-01": 88048,
-  "2023-02-02": 88114,
-  "2023-02-03": 88189,
-  "2023-02-04": 88283,
-  "2023-02-05": 88351,
-  "2023-02-06": 88416,
-  "2023-02-07": 88489,
-  "2023-02-08": 88616,
-  "2023-02-09": 88616,
-  "2023-02-10": 88673,
-  "2023-02-11": 88730,
-  "2023-02-12": 88844,
-  "2023-02-13": 88898,
-  "2023-02-14": 88898,
-  "2023-02-15": 88962,
-  "2023-02-16": 89027,
-  "2023-02-17": 89084,
-  "2023-02-18": 89181,
-  "2023-02-19": 89188,
-  "2023-02-20": 89249,
-  "2023-02-21": 89333,
-  "2023-02-22": 89402,
-  "2023-02-23": 89471,
-  "2023-02-24": 89531,
-  "2023-02-25": 89612,
-  "2023-02-26": 89665,
-  "2023-02-27": 89903,
-  "2023-02-28": 89903,
-  "2023-03-01": 89988,
-  "2023-03-02": 90082,
-  "2023-03-03": 90160,
-  "2023-03-04": 90224,
-  "2023-03-05": 90389,
-  "2023-03-06": 90389,
-  "2023-03-07": 90479,
-  "2023-03-08": 90555,
-  "2023-03-09": 90648,
-  "2023-03-10": 90708,
-  "2023-03-11": 90774,
-  "2023-03-12": 90837,
-  "2023-03-13": 90910,
-  "2023-03-14": 90983,
-  "2023-03-15": 91064,
-  "2023-03-16": 91128,
-  "2023-03-17": 91128,
-  "2023-03-18": 91250,
-  "2023-03-19": 91307,
-  "2023-03-20": 91380,
-  "2023-03-21": 91457,
-  "2023-03-22": 91532,
-  "2023-03-23": 91601,
-  "2023-03-24": 91601,
-  "2023-03-25": 91729,
-  "2023-03-26": 91790,
-  "2023-03-27": 91830,
-  "2023-03-28": 91880,
-  "2023-03-29": 91936,
-  "2023-03-30": 92025,
-  "2023-03-31": 92025,
-  "2023-04-01": 92074,
-  "2023-04-02": 92136,
-  "2023-04-03": 92187,
-  "2023-04-04": 92248,
-  "2023-04-05": 92301,
-  "2023-04-06": 92369,
-  "2023-04-07": 92427,
-  "2023-04-09": 92520,
-  "2023-04-10": 92585,
-  "2023-04-11": 92676,
-  "2023-04-12": 92676,
-  "2023-04-13": 92743,
-  "2023-04-14": 92776,
-  "2023-04-15": 92820,
-  "2023-04-16": 92879,
-  "2023-04-17": 92928,
-  "2023-04-18": 92994,
-  "2023-04-19": 93065,
-  "2023-04-20": 93137,
-  "2023-04-21": 93206,
-  "2023-04-22": 93263,
-  "2023-04-23": 93308,
-  "2023-04-24": 93386,
-  "2023-04-25": 93462,
-  "2023-04-26": 93533,
-  "2023-04-27": 93609,
-  "2023-04-28": 93656,
-  "2023-04-29": 93699,
-  "2023-04-30": 93773,
-  "2023-05-01": 93825,
-  "2023-05-02": 93893,
-  "2023-05-03": 93965,
-  "2023-05-04": 94028,
-  "2023-05-05": 94088,
-  "2023-05-06": 94132,
-  "2023-05-07": 94186,
-  "2023-05-08": 94261,
-  "2023-05-09": 94328,
-  "2023-05-10": 94377,
-  "2023-05-11": 94429,
-  "2023-05-12": 94478,
-  "2023-05-13": 94523,
-  "2023-05-14": 94566,
-  "2023-05-15": 94608,
-  "2023-05-16": 94658,
-  "2023-05-17": 94714,
-  "2023-05-18": 94750,
-  "2023-05-19": 94801,
-  "2023-05-20": 94931,
-  "2023-05-21": 94931,
-  "2023-05-22": 94931,
-  "2023-05-23": 95059,
-  "2023-05-24": 95158,
-  "2023-05-25": 95177,
-  "2023-05-26": 95224,
-  "2023-05-27": 95266,
-  "2023-05-28": 95319,
-  "2023-05-29": 95319,
-  "2023-05-30": 95416,
-  "2023-05-31": 95456,
-  "2023-06-01": 95528,
-  "2023-06-02": 95566,
-  "2023-06-03": 95614,
-  "2023-06-04": 95674,
-  "2023-06-05": 95738,
-  "2023-06-06": 95769,
-  "2023-06-07": 95835,
-  "2023-06-08": 95875,
-  "2023-06-09": 95923,
-  "2023-06-10": 95966,
-  "2023-06-11": 96013,
-  "2023-06-12": 96065,
-  "2023-06-13": 96132,
-  "2023-06-14": 96196,
-  "2023-06-15": 96233,
-  "2023-06-16": 96283,
-  "2023-06-17": 96331,
-  "2023-06-18": 96383,
-  "2023-06-19": 96427,
-  "2023-06-20": 96492,
-  "2023-06-21": 96550,
-  "2023-06-22": 96580,
-  "2023-06-23": 96624,
-  "2023-06-24": 96659,
-  "2023-06-25": 96696,
-  "2023-06-26": 96739,
-  "2023-06-27": 96789,
-  "2023-06-28": 96833,
-  "2023-06-29": 96875,
-  "2023-06-30": 96947,
-  "2023-07-01": 97084,
-  "2023-07-02": 97084,
-  "2023-07-03": 97164,
-  "2023-07-04": 97255,
-  "2023-07-05": 97357,
-  "2023-07-06": 97548,
-  "2023-07-07": 97548,
-  "2023-07-08": 97597,
-  "2023-07-09": 97661,
-  "2023-07-10": 97726,
-  "2023-07-11": 97812,
-  "2023-07-12": 97889,
-  "2023-07-13": 97953,
-  "2023-07-14": 98022,
-  "2023-07-15": 98099,
-  "2023-07-16": 98188,
-  "2023-07-17": 98280,
-  "2023-07-18": 98345,
-  "2023-07-19": 98428,
-  "2023-07-20": 98515,
-  "2023-07-21": 98590,
-  "2023-07-22": 98669,
-  "2023-07-23": 98719,
-  "2023-07-24": 98796,
-  "2023-07-25": 98890,
-  "2023-07-26": 98960,
-  "2023-07-27": 99024,
-  "2023-07-28": 99085,
-  "2023-07-29": 99175,
-  "2023-07-30": 99255,
-  "2023-07-31": 99324,
-  "2023-08-01": 99424,
-  "2023-08-02": 99524,
-  "2023-08-03": 99614,
-  "2023-08-04": 99716,
-  "2023-08-05": 99804,
-  "2023-08-06": 99956,
-  "2023-08-07": 99956,
-  "2023-08-08": 100025,
-  "2023-08-09": 100112,
-  "2023-08-10": 100192,
-  "2023-08-11": 100258,
-  "2023-08-12": 100342,
-  "2023-08-13": 100419,
-  "2023-08-14": 100478,
-  "2023-08-15": 100681,
-  "2023-08-16": 100681,
-  "2023-08-17": 100769,
-  "2023-08-18": 100852,
-  "2023-08-19": 100969,
-  "2023-08-20": 101041,
-  "2023-08-21": 101120,
-  "2023-08-22": 101192,
-  "2023-08-23": 101288,
-  "2023-08-24": 101385,
-  "2023-08-25": 101463,
-  "2023-08-26": 101541,
-  "2023-08-27": 101639,
-  "2023-08-28": 101716,
-  "2023-08-29": 101811,
-  "2023-08-30": 101919,
-  "2023-08-31": 102004,
-  "2023-09-01": 102199,
-  "2023-09-02": 102199,
-  "2023-09-03": 102287,
-  "2023-09-04": 102380,
-  "2023-09-05": 102460,
-  "2023-09-06": 102544,
-  "2023-09-07": 102616,
-  "2023-09-08": 102711,
-  "2023-09-09": 102794,
-  "2023-09-10": 102841,
-  "2023-09-11": 102932,
-  "2023-09-12": 103027,
-  "2023-09-13": 103127,
-  "2023-09-14": 103223,
-  "2023-09-15": 103323,
-  "2023-09-16": 103376,
-  "2023-09-17": 103479,
-  "2023-09-18": 103578,
-  "2023-09-19": 103685,
-  "2023-09-20": 103795,
-  "2023-09-21": 103931,
-  "2023-09-22": 104032,
-  "2023-09-23": 104123,
-  "2023-09-24": 104237,
-  "2023-09-25": 104350,
-  "2023-09-26": 104510,
-  "2023-09-27": 104617,
-  "2023-09-28": 104707,
-  "2023-09-29": 104782,
-  "2023-09-30": 104869,
-  "2023-10-01": 104982,
-  "2023-10-02": 105085,
-  "2023-10-03": 105192,
-  "2023-10-04": 105303,
-  "2023-10-05": 105431,
-  "2023-10-06": 105543,
-  "2023-10-07": 105640,
-  "2023-10-08": 105729,
-  "2023-10-09": 105838,
-  "2023-10-10": 105929,
-  "2023-10-11": 106123,
-  "2023-10-12": 106123,
-  "2023-10-13": 106196,
-  "2023-10-14": 106196,
-  "2023-10-15": 106196,
-  "2023-10-16": 106515,
-  "2023-10-17": 106612,
-  "2023-10-18": 106730,
-  "2023-10-19": 106828,
-  "2023-10-20": 106931,
-  "2023-10-21": 107016,
-  "2023-10-22": 107016,
-  "2023-10-23": 107289,
-  "2023-10-24": 107430,
-  "2023-10-25": 107554,
-  "2023-10-26": 107663,
-  "2023-10-27": 107761,
-  "2023-10-28": 107761,
-  "2023-10-29": 107761,
-  "2023-10-30": 108060,
-  "2023-10-31": 108060,
-  "2023-11-01": 108291,
-  "2023-11-02": 108433,
-  "2023-11-03": 108556,
-  "2023-11-04": 108556,
-  "2023-11-05": 108556,
-  "2023-11-06": 108870,
-  "2023-11-07": 108985,
-  "2023-11-08": 109095,
-  "2023-11-09": 109095,
-  "2023-11-10": 109304,
-  "2023-11-11": 109423,
-  "2023-11-12": 109517,
-  "2023-11-13": 109642,
-  "2023-11-14": 109642,
-  "2023-11-15": 109642,
-  "2023-11-16": 110012,
-  "2023-11-17": 110229,
-  "2023-11-18": 110229,
-  "2023-11-19": 110328,
-  "2023-11-20": 110328,
-  "2023-11-21": 110602,
-  "2023-11-22": 110725,
-  "2023-11-23": 110875,
-  "2023-11-24": 110875,
-  "2023-11-25": 111093,
-  "2023-11-26": 111093,
-  "2023-11-27": 111320,
-  "2023-11-28": 111320,
-  "2023-11-29": 111716,
-  "2023-11-30": 111716,
-  "2023-12-01": 111716,
-  "2023-12-02": 111949,
-  "2023-12-03": 111949,
-  "2023-12-04": 111949,
-  "2023-12-05": 112311,
-  "2023-12-06": 112452,
-  "2023-12-07": 112452,
-  "2023-12-08": 112452,
-  "2023-12-09": 112810,
-  "2023-12-10": 112810,
-  "2023-12-11": 113046,
-  "2023-12-12": 113046,
-  "2023-12-13": 113294,
-  "2023-12-14": 113423,
-  "2023-12-15": 113532,
-  "2023-12-16": 113617,
-  "2023-12-17": 113717,
-  "2023-12-18": 113837,
-  "2023-12-19": 113924,
-  "2023-12-20": 114031,
-  "2023-12-21": 114127,
-  "2023-12-22": 114221,
-  "2023-12-23": 114311,
-  "2023-12-24": 114403,
-  "2023-12-25": 114515,
-  "2023-12-26": 114646,
-  "2023-12-27": 114739,
-  "2023-12-30": 115045,
-  "2023-12-31": 115175,
-  "2024-01-01": 115238,
-  "2024-01-02": 115342,
-  "2024-01-03": 115448
+  "2024-01-17": 117262,
+  "date_first_scraped": "2022-09-09",
+  "description": "Crackling and popping sounds of fireplaces.",
+  "name": "Fire Sounds",
+  "tracks": [
+    {
+      "album": {
+        "name": "Abran Fuego",
+        "url": "https://open.spotify.com/album/2oL6oFEWl6Y8m5AkMMwDtq"
+      },
+      "artists": [
+        {
+          "name": "Temperatura Ambiente",
+          "url": "https://open.spotify.com/artist/0DX3XJ8Rwigr4m1Y6wmR71"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184027,
+      "name": "Abran Fuego",
+      "url": "https://open.spotify.com/track/7gqzfMBfbAzc7qN82zciwI"
+    },
+    {
+      "album": {
+        "name": "Ambient Fireplace",
+        "url": "https://open.spotify.com/album/3lkaQXPtbfBm7iVQLl1Swa"
+      },
+      "artists": [
+        {
+          "name": "Snoozy Fire",
+          "url": "https://open.spotify.com/artist/6vJIIw22s5gNqmgpNvjo7f"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ambient Fireplace",
+      "url": "https://open.spotify.com/track/2LqXzW8Zkrth7seC4xLM72"
+    },
+    {
+      "album": {
+        "name": "Beach Bonfire",
+        "url": "https://open.spotify.com/album/4KcUvIZAVvqdQRIH0whnWR"
+      },
+      "artists": [
+        {
+          "name": "Spark A Flame",
+          "url": "https://open.spotify.com/artist/2SOssJSZ1oZbXt1aGNpZkP"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Beach Bonfire",
+      "url": "https://open.spotify.com/track/4U9FnOxJKWGYQJFdkfPk2Z"
+    },
+    {
+      "album": {
+        "name": "Campfire Sounds",
+        "url": "https://open.spotify.com/album/3qT3XJhrTLgxViNJy3Dkxu"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 196774,
+      "name": "Birch Wood Burning Close",
+      "url": "https://open.spotify.com/track/7ydzKCAHI6irtu807lVHgG"
+    },
+    {
+      "album": {
+        "name": "Kindred Forest",
+        "url": "https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Birch Wood Fireplace",
+      "url": "https://open.spotify.com/track/1bZEpPCZ2qZZFU6yshhK4H"
+    },
+    {
+      "album": {
+        "name": "Blazer",
+        "url": "https://open.spotify.com/album/0V9IQKUZIN9T1Rhn2Ihy6a"
+      },
+      "artists": [
+        {
+          "name": "Little Log Lady",
+          "url": "https://open.spotify.com/artist/7mdGwbaaGnYpOH9DYHORwR"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Blazer",
+      "url": "https://open.spotify.com/track/0EE4aAm9uRM9bU8fGCruAK"
+    },
+    {
+      "album": {
+        "name": "Burning Flames",
+        "url": "https://open.spotify.com/album/0WBeT1ghgE3yeGUqcnu9fD"
+      },
+      "artists": [
+        {
+          "name": "Light Flame Lullaby",
+          "url": "https://open.spotify.com/artist/5WzNgIVaWIBINc0KZNLay4"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162725,
+      "name": "Bonfire Blues",
+      "url": "https://open.spotify.com/track/0sihTgYq26S5ux8hWRuFgg"
+    },
+    {
+      "album": {
+        "name": "Bonfire Dreams",
+        "url": "https://open.spotify.com/album/3Ab8K7eJTRBBeFqebr2gDQ"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bonfire Dreams",
+      "url": "https://open.spotify.com/track/4Tm5ra3IR7Hlzpss1xaMNA"
+    },
+    {
+      "album": {
+        "name": "Bonfire Flames",
+        "url": "https://open.spotify.com/album/6GUcuRGaZNamMFTTW8qx7z"
+      },
+      "artists": [
+        {
+          "name": "Wicked Heat",
+          "url": "https://open.spotify.com/artist/50g9TaMYa9g1nhlifbSx6x"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 183817,
+      "name": "Bonfire Flames",
+      "url": "https://open.spotify.com/track/2rMOjgiq8r4O6mqDeppl4W"
+    },
+    {
+      "album": {
+        "name": "Late night Spark",
+        "url": "https://open.spotify.com/album/1LAkau1I8xPnrVlfEJfKjm"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Brichwood Fire",
+      "url": "https://open.spotify.com/track/6kE61LV82bg5Bkm2yNLWEi"
+    },
+    {
+      "album": {
+        "name": "Burning Flames",
+        "url": "https://open.spotify.com/album/0WBeT1ghgE3yeGUqcnu9fD"
+      },
+      "artists": [
+        {
+          "name": "Light Flame Lullaby",
+          "url": "https://open.spotify.com/artist/5WzNgIVaWIBINc0KZNLay4"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "Burning Flames",
+      "url": "https://open.spotify.com/track/71clshG3c3OHNS1fJN64NB"
+    },
+    {
+      "album": {
+        "name": "Bonfire Dreams",
+        "url": "https://open.spotify.com/album/3Ab8K7eJTRBBeFqebr2gDQ"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 200000,
+      "name": "By the Fire For Hours",
+      "url": "https://open.spotify.com/track/0wanwZlaJIjaGRXeww2JvJ"
+    },
+    {
+      "album": {
+        "name": "Calming Fireplace",
+        "url": "https://open.spotify.com/album/6dBub7W143X09uYmZThqNK"
+      },
+      "artists": [
+        {
+          "name": "Ogie\u0144",
+          "url": "https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Cabin Warmth",
+      "url": "https://open.spotify.com/track/1YzaBLhCBYO9SAUoM3i7CK"
+    },
+    {
+      "album": {
+        "name": "Calming Fireplace",
+        "url": "https://open.spotify.com/album/6dBub7W143X09uYmZThqNK"
+      },
+      "artists": [
+        {
+          "name": "Ogie\u0144",
+          "url": "https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Calming Fireplace",
+      "url": "https://open.spotify.com/track/2enlGP6mWmEzouGT39UVSI"
+    },
+    {
+      "album": {
+        "name": "Fireplace Cure",
+        "url": "https://open.spotify.com/album/6tIumEOHRIHBGdR8B3LgFX"
+      },
+      "artists": [
+        {
+          "name": "Ogie\u0144",
+          "url": "https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242250,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/1Cwt5oNp3OsS1N0YZCAZUA"
+    },
+    {
+      "album": {
+        "name": "Peaceful Flame",
+        "url": "https://open.spotify.com/album/5z0FwCGD0bljHVZaj2p3A9"
+      },
+      "artists": [
+        {
+          "name": "Fire Scientist",
+          "url": "https://open.spotify.com/artist/1lWVALbH9pIS8Lttts3Bwz"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-16",
+      "duration_ms": 149500,
+      "name": "Campfire Cuddle",
+      "url": "https://open.spotify.com/track/2W81OkCbrmPjxnFfo6KUrd"
+    },
+    {
+      "album": {
+        "name": "Campfire FX",
+        "url": "https://open.spotify.com/album/7CzUi3rd2NN8Xf9gGFaSjL"
+      },
+      "artists": [
+        {
+          "name": "Campfire FX",
+          "url": "https://open.spotify.com/artist/4hcapURHDeQ5BjkOWH8L7Z"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160965,
+      "name": "Campfire FX 2",
+      "url": "https://open.spotify.com/track/71bJHyvTOhKRdft9ggF7Mo"
+    },
+    {
+      "album": {
+        "name": "Campfire in the Wilderness",
+        "url": "https://open.spotify.com/album/1YAdST8f10qrvTahHfrjvh"
+      },
+      "artists": [
+        {
+          "name": "Inside the Mountains",
+          "url": "https://open.spotify.com/artist/7skn0pRrIm20tOzceEkZTT"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 126293,
+      "name": "Campfire in the Wilderness",
+      "url": "https://open.spotify.com/track/0NDUFjfnFLDe7EkbVkRBre"
+    },
+    {
+      "album": {
+        "name": "Crackling Campfire",
+        "url": "https://open.spotify.com/album/1NMHie9uAZU8yy40EKfUic"
+      },
+      "artists": [
+        {
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 187221,
+      "name": "Campfire Lights Up the Forest Skies",
+      "url": "https://open.spotify.com/track/2CEcpa9XRIkz5VwFxcIHYv"
+    },
+    {
+      "album": {
+        "name": "Fire Sky",
+        "url": "https://open.spotify.com/album/7sJiEKdILc2vpIIb4yxAU7"
+      },
+      "artists": [
+        {
+          "name": "Flame Tones",
+          "url": "https://open.spotify.com/artist/2dGskL3PrUc02OIfrYmDnw"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 155295,
+      "name": "Campfire Lullaby",
+      "url": "https://open.spotify.com/track/66IlKyWu89zjer6aXUGdSR"
+    },
+    {
+      "album": {
+        "name": "Cave Campfire",
+        "url": "https://open.spotify.com/album/3NfPg0I2Dmp1gmGRbjIDyG"
+      },
+      "artists": [
+        {
+          "name": "Emberly Ash",
+          "url": "https://open.spotify.com/artist/0Nyxj4C0GUNOf7tR7cxGRm"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Cave Campfire",
+      "url": "https://open.spotify.com/track/1H4Cloc0B4i1VEtZ8aLvcf"
+    },
+    {
+      "album": {
+        "name": "Christmas Campfire",
+        "url": "https://open.spotify.com/album/2m6tZvVaPUJcMJJpQQha2H"
+      },
+      "artists": [
+        {
+          "name": "Warm 'n Cozy",
+          "url": "https://open.spotify.com/artist/4hn1couEh0YHd5ySnrYwml"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 126000,
+      "name": "Christmas Campfire",
+      "url": "https://open.spotify.com/track/6OAYmLZpkqJn2DFzoXDEo9"
+    },
+    {
+      "album": {
+        "name": "Christmas Fireplace",
+        "url": "https://open.spotify.com/album/04igMPYh1FVpPLiBAIn1Ah"
+      },
+      "artists": [
+        {
+          "name": "Fireplace FX Studio",
+          "url": "https://open.spotify.com/artist/0ss3k6gi8UKwa1OqqzUq9s"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 169023,
+      "name": "Christmas Fireplace",
+      "url": "https://open.spotify.com/track/5YtAcsHN8CIU4I6KsxBpH7"
+    },
+    {
+      "album": {
+        "name": "Warming Fireplace",
+        "url": "https://open.spotify.com/album/269yOoQvQNWMloEaWhPNSC"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Cottage light",
+      "url": "https://open.spotify.com/track/01NckKhk1BhBmGyIffNbxT"
+    },
+    {
+      "album": {
+        "name": "Cozy Embers",
+        "url": "https://open.spotify.com/album/6bYeKWM9wepgaD9BLK5OJX"
+      },
+      "artists": [
+        {
+          "name": "Wrap Yourself Up",
+          "url": "https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Cozy Embers",
+      "url": "https://open.spotify.com/track/49hJJ7yXYCKnjUdzZJalSG"
+    },
+    {
+      "album": {
+        "name": "Fire by the Lakehouse",
+        "url": "https://open.spotify.com/album/5dwOWIHPGIjtYSpfkKVZ4b"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "Cozy Fire",
+      "url": "https://open.spotify.com/track/15fCgHbM82X6OvGVVHkL6Z"
+    },
+    {
+      "album": {
+        "name": "Cozy Fire",
+        "url": "https://open.spotify.com/album/0F7b0yuRKEwFdrA6596P6f"
+      },
+      "artists": [
+        {
+          "name": "Fire Samplers",
+          "url": "https://open.spotify.com/artist/5epPnwu3YaG9VboEUKdwkS"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182766,
+      "name": "Cozy Fire",
+      "url": "https://open.spotify.com/track/6cbMxreZrN98tyrZ0zptZY"
+    },
+    {
+      "album": {
+        "name": "Cozy Fireplace",
+        "url": "https://open.spotify.com/album/0KzaYqAQ8X8WcA1mbl3TAz"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 112500,
+      "name": "Cozy Fireplace",
+      "url": "https://open.spotify.com/track/20ELpO5s9jyLoifWd0ZUea"
+    },
+    {
+      "album": {
+        "name": "Never Ending Flame",
+        "url": "https://open.spotify.com/album/3JmdsecNeOy9OScxvKWZ29"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Cozy Fireplace",
+      "url": "https://open.spotify.com/track/2MQKseFX88TCihybtBU7xM"
+    },
+    {
+      "album": {
+        "name": "Peaceful Fire",
+        "url": "https://open.spotify.com/album/2QSlf5IuDpoGJyHL6NB4wN"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 220374,
+      "name": "Cozy Fireplace",
+      "url": "https://open.spotify.com/track/3yeqaBiOJfVfJXRTvgQjyp"
+    },
+    {
+      "album": {
+        "name": "Campfire Sound",
+        "url": "https://open.spotify.com/album/3f0op5Utb8IYxHkF4CHx51"
+      },
+      "artists": [
+        {
+          "name": "firing melody",
+          "url": "https://open.spotify.com/artist/4iaF67LjC6dTfDPM6YQ0nP"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 161239,
+      "name": "Crackle Song",
+      "url": "https://open.spotify.com/track/1cTZN4ZW8SjMyQQX7ZpI5D"
+    },
+    {
+      "album": {
+        "name": "Crackling Ambience",
+        "url": "https://open.spotify.com/album/7qncaqPM076ukxhhUpngTR"
+      },
+      "artists": [
+        {
+          "name": "Fuego Ambiental",
+          "url": "https://open.spotify.com/artist/5mALv90wqGtMQgJ9dUcEOk"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Crackling Ambience",
+      "url": "https://open.spotify.com/track/0SBIWSLNk7XukHtP6selmi"
+    },
+    {
+      "album": {
+        "name": "Fireside Serenity",
+        "url": "https://open.spotify.com/album/4f2S2TxUBB7vAlRxC242Xm"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Crackling Comfort",
+      "url": "https://open.spotify.com/track/1RWBAvEXNyUrCq4OXoFqYr"
+    },
+    {
+      "album": {
+        "name": "Crackling Fire",
+        "url": "https://open.spotify.com/album/029RKkwtAr6EzZw1zmdns5"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 176000,
+      "name": "Crackling Fire",
+      "url": "https://open.spotify.com/track/0V5FMDt7vgUhC3YN22XWkN"
+    },
+    {
+      "album": {
+        "name": "Fire Sounds",
+        "url": "https://open.spotify.com/album/0kkxDGDHqiMEhAnb8YcqVB"
+      },
+      "artists": [
+        {
+          "name": "SleepTherapy",
+          "url": "https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386000,
+      "name": "Crackling Fire",
+      "url": "https://open.spotify.com/track/02Y1jX2M8RsZaZtygDHIAV"
+    },
+    {
+      "album": {
+        "name": "Crackling Fire For Sleep",
+        "url": "https://open.spotify.com/album/3kgBRKkQFId2L9gynhNu4D"
+      },
+      "artists": [
+        {
+          "name": "Fire Sounds For Sleep",
+          "url": "https://open.spotify.com/artist/4EmS3jL9sFwoecLG183maP"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 188703,
+      "name": "Crackling Fire For Sleep",
+      "url": "https://open.spotify.com/track/4FEEQzO6tlaERvHV1CWBLN"
+    },
+    {
+      "album": {
+        "name": "Fireplace Sounds",
+        "url": "https://open.spotify.com/album/6zIRnTM3IpvElVa5NkUlun"
+      },
+      "artists": [
+        {
+          "name": "Fire Sounds For Sleep",
+          "url": "https://open.spotify.com/artist/4EmS3jL9sFwoecLG183maP"
+        },
+        {
+          "name": "Relaxing Music Therapy",
+          "url": "https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN"
+        },
+        {
+          "name": "Fire Sounds",
+          "url": "https://open.spotify.com/artist/5O87bc3ld6OLoJTFE6gBUW"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 93196,
+      "name": "Crackling Fire Place Sound",
+      "url": "https://open.spotify.com/track/2DI3KDRteH70Axl0uhUxM0"
+    },
+    {
+      "album": {
+        "name": "Fire Crackling for Sleep",
+        "url": "https://open.spotify.com/album/2FbCGD2fEKvM2KFZunCq1h"
+      },
+      "artists": [
+        {
+          "name": "Fire Sounds For Sleep",
+          "url": "https://open.spotify.com/artist/4EmS3jL9sFwoecLG183maP"
+        },
+        {
+          "name": "Fire Sound",
+          "url": "https://open.spotify.com/artist/0Rvo00twsOT0BFq4pZPPmZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 64346,
+      "name": "Crackling Log in Fire Soundscape for Sleep (Loopable)",
+      "url": "https://open.spotify.com/track/1NIo6bGplcQiHJ4mZ3h64u"
+    },
+    {
+      "album": {
+        "name": "Down The Chimney",
+        "url": "https://open.spotify.com/album/1Yl1NHzGIJpskKYMS9BreE"
+      },
+      "artists": [
+        {
+          "name": "ASMR Doze",
+          "url": "https://open.spotify.com/artist/2LQxmUm6LgVqKlTWuiFp2D"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Down The Chimney",
+      "url": "https://open.spotify.com/track/5xkTQFYCCMSLEbKmCYfiak"
+    },
+    {
+      "album": {
+        "name": "Summer Flame",
+        "url": "https://open.spotify.com/album/4BbZaVnaFkB2eXYZpWoMt5"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Embers Tale",
+      "url": "https://open.spotify.com/track/5dP7E1HN408NzVEEQSt4dn"
+    },
+    {
+      "album": {
+        "name": "Never Ending Flame",
+        "url": "https://open.spotify.com/album/3JmdsecNeOy9OScxvKWZ29"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 192000,
+      "name": "Eternal Warmth",
+      "url": "https://open.spotify.com/track/52QyjnXqN2REQCSV5fgSOd"
+    },
+    {
+      "album": {
+        "name": "Ambient Fire",
+        "url": "https://open.spotify.com/album/0lQg3zgN5VpbFPc1GM7DuF"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Fire Noise",
+          "url": "https://open.spotify.com/artist/7aF8aODNz46rwW72VLcBO4"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 161239,
+      "name": "Falling Asleep To The Sparks",
+      "url": "https://open.spotify.com/track/1Wyi9eRdZ2fkLDBD9bxWXG"
+    },
+    {
+      "album": {
+        "name": "Fire And Flames",
+        "url": "https://open.spotify.com/album/5H75razmEKUz4LXQTj5IhC"
+      },
+      "artists": [
+        {
+          "name": "The Matchman",
+          "url": "https://open.spotify.com/artist/0S8JFG8qTWlPrUQihbUhtc"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Fire And Flames",
+      "url": "https://open.spotify.com/track/2s2OBfPCpkVKXVoXWPHgum"
+    },
+    {
+      "album": {
+        "name": "Fire Burning Sounds",
+        "url": "https://open.spotify.com/album/4I8bAYLkzOq0hI8IFTYQSt"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 185125,
+      "name": "Fire Burning Sounds",
+      "url": "https://open.spotify.com/track/43EwNhgWUo7TDo0fPKk6LC"
+    },
+    {
+      "album": {
+        "name": "Fire by the Beach",
+        "url": "https://open.spotify.com/album/3KVPTGPsGuQBTpD4ZpSTMr"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 192000,
+      "name": "Fire by the Beach",
+      "url": "https://open.spotify.com/track/6w1b5ztP4xvZoBHjENgPKj"
+    },
+    {
+      "album": {
+        "name": "Secret Fire",
+        "url": "https://open.spotify.com/album/66UTm3N51kqwVevdpljDk7"
+      },
+      "artists": [
+        {
+          "name": "Myrs",
+          "url": "https://open.spotify.com/artist/6xqQc4rYEbyc9YV7cHZY6Y"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Fire by the Lake",
+      "url": "https://open.spotify.com/track/1uQkY3qRVM18e2EyJ5h1P6"
+    },
+    {
+      "album": {
+        "name": "Fire by the Lake",
+        "url": "https://open.spotify.com/album/4rW24cLpNRWLZrYoFHgvlF"
+      },
+      "artists": [
+        {
+          "name": "Ray Karma",
+          "url": "https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Fire by the Lake",
+      "url": "https://open.spotify.com/track/70iZC6nt0rxAVE1hjPfNJa"
+    },
+    {
+      "album": {
+        "name": "Warm Fire Sounds",
+        "url": "https://open.spotify.com/album/3DGLWmcduBs0wKOVsq7MlS"
+      },
+      "artists": [
+        {
+          "name": "Flaming Music",
+          "url": "https://open.spotify.com/artist/59PhRw6WrbNH316zpHE97b"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "Fire By The River",
+      "url": "https://open.spotify.com/track/7i4OqAF8Zn0FSwMCxaJxPC"
+    },
+    {
+      "album": {
+        "name": "Hold the Flame",
+        "url": "https://open.spotify.com/album/6vftSLagUZdQZfiVO6jfSk"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 184000,
+      "name": "Fire Calmness",
+      "url": "https://open.spotify.com/track/1Yg7PkBMPcrPNLW6m3c0jx"
+    },
+    {
+      "album": {
+        "name": "Fire In The Forest",
+        "url": "https://open.spotify.com/album/3e42D5Iuvd8XYDQvhIOuom"
+      },
+      "artists": [
+        {
+          "name": "Fuego Del Bosque",
+          "url": "https://open.spotify.com/artist/10lN0W0yN0xwvO5MsBxquf"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 176000,
+      "name": "Fire In The Forest",
+      "url": "https://open.spotify.com/track/7LMXd6KHayLBP1q4STpDZo"
+    },
+    {
+      "album": {
+        "name": "Fire In The Woods",
+        "url": "https://open.spotify.com/album/1PmaRyyg3lZ7KmaleFjwYk"
+      },
+      "artists": [
+        {
+          "name": "Fire Campers",
+          "url": "https://open.spotify.com/artist/2I8Jzz5tJH6OXvNNbdnmEA"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 181838,
+      "name": "Fire In The Woods",
+      "url": "https://open.spotify.com/track/3wJfnLd46uEK86ZOimcTxl"
+    },
+    {
+      "album": {
+        "name": "Campfire in the Wilderness",
+        "url": "https://open.spotify.com/album/1YAdST8f10qrvTahHfrjvh"
+      },
+      "artists": [
+        {
+          "name": "Inside the Mountains",
+          "url": "https://open.spotify.com/artist/7skn0pRrIm20tOzceEkZTT"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 124586,
+      "name": "Fire in the Woods",
+      "url": "https://open.spotify.com/track/2tPSmU9kvAPC7CQLiUVWTu"
+    },
+    {
+      "album": {
+        "name": "Fire It Up",
+        "url": "https://open.spotify.com/album/77sDgvChjJ6Tn7NvPmZ4LG"
+      },
+      "artists": [
+        {
+          "name": "My Cozy Heat",
+          "url": "https://open.spotify.com/artist/4X6uyTlH2FvQLwY0wbnuEM"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Fire It Up",
+      "url": "https://open.spotify.com/track/0QVMpB2XtxORSGeEQQ9iLS"
+    },
+    {
+      "album": {
+        "name": "Fire Noise",
+        "url": "https://open.spotify.com/album/7e9QMcrQOzezkEkJ37EBSc"
+      },
+      "artists": [
+        {
+          "name": "The Creasefire",
+          "url": "https://open.spotify.com/artist/69cX9zNb9JW8zschtKgiE4"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179597,
+      "name": "Fire Noise",
+      "url": "https://open.spotify.com/track/5bwXUeCukPGL0lhGbP5786"
+    },
+    {
+      "album": {
+        "name": "Crackling Campfire",
+        "url": "https://open.spotify.com/album/1NMHie9uAZU8yy40EKfUic"
+      },
+      "artists": [
+        {
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 116736,
+      "name": "Fire on the Campsight",
+      "url": "https://open.spotify.com/track/2ZMUhS4Dli8SNzlTwsHT7p"
+    },
+    {
+      "album": {
+        "name": "Fire Pit Soothness",
+        "url": "https://open.spotify.com/album/5pk5w5QSDNFjPaIfXdWIj7"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Fire Pit Soothness",
+      "url": "https://open.spotify.com/track/7tvVf5OhUCkwrlKguyFLzd"
+    },
+    {
+      "album": {
+        "name": "Relaxing Fire Sounds",
+        "url": "https://open.spotify.com/album/7cDmLmvxigLFMBAGUgLvLW"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 174395,
+      "name": "Fire Pops and Crackles",
+      "url": "https://open.spotify.com/track/3Dcsq6Y2L4BydDEfeyXgBS"
+    },
+    {
+      "album": {
+        "name": "Flames Of Sleep",
+        "url": "https://open.spotify.com/album/7ylQnCCNsXkajWSuksUkxv"
+      },
+      "artists": [
+        {
+          "name": "Mirai",
+          "url": "https://open.spotify.com/artist/6oEZ7IsYCH7xwmb83A6eQx"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Fire, Fire, Flames Go Higher",
+      "url": "https://open.spotify.com/track/4Ps1kczS5HbebYnimFpfq0"
+    },
+    {
+      "album": {
+        "name": "FireFly",
+        "url": "https://open.spotify.com/album/4r3X2aA0R4QPVPZUPTx2f1"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "FireFly",
+      "url": "https://open.spotify.com/track/4RdYEEVYwOAVd6k0YILWZS"
+    },
+    {
+      "album": {
+        "name": "Eldstad",
+        "url": "https://open.spotify.com/album/4DILZZVvh6sWTO69lXc1yD"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Up",
+          "url": "https://open.spotify.com/artist/25eoUJUBgGI9M2OggQWwly"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 114000,
+      "name": "Firepit Ambience - Seamless",
+      "url": "https://open.spotify.com/track/7wGBwQGsq8Uv1PAVwV1W72"
+    },
+    {
+      "album": {
+        "name": "#Fireplace Sounds & Ambient Noises",
+        "url": "https://open.spotify.com/album/34wsv3x7NlzXPW1SvBElPX"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sounds Ambient Noises",
+          "url": "https://open.spotify.com/artist/1zL2evr0Tl2KJcHaLUbwc5"
+        },
+        {
+          "name": "Fireplace Sounds",
+          "url": "https://open.spotify.com/artist/7ivzTWQpvdv4d9UH3TcjRZ"
+        },
+        {
+          "name": "Relaxing Music Therapy",
+          "url": "https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 128016,
+      "name": "Fireplace Crackle",
+      "url": "https://open.spotify.com/track/0votT9A3bI6CTdb4TLUhzA"
+    },
+    {
+      "album": {
+        "name": "Fireplace Cure",
+        "url": "https://open.spotify.com/album/6tIumEOHRIHBGdR8B3LgFX"
+      },
+      "artists": [
+        {
+          "name": "Ogie\u0144",
+          "url": "https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 242250,
+      "name": "Fireplace Cure",
+      "url": "https://open.spotify.com/track/19VVXxS1vHheKAUPepjFnW"
+    },
+    {
+      "album": {
+        "name": "Light that Flame",
+        "url": "https://open.spotify.com/album/3CJxU8QpdSzV8JYPnlLnaT"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 200000,
+      "name": "Fireplace Dreaming",
+      "url": "https://open.spotify.com/track/63LPBPRYx2w1X73oss2Dzd"
+    },
+    {
+      "album": {
+        "name": "Fireplace Is The Best Place",
+        "url": "https://open.spotify.com/album/4tSpwRDiGMOBX9VCHPP6Y6"
+      },
+      "artists": [
+        {
+          "name": "Cozy Crackles",
+          "url": "https://open.spotify.com/artist/7p7c93M8NHKR74a6qVLhCa"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Fireplace Is The Best Place",
+      "url": "https://open.spotify.com/track/1E0WIR0gDGJjo7WDAMzFpu"
+    },
+    {
+      "album": {
+        "name": "Fireplace Noise",
+        "url": "https://open.spotify.com/album/6um6zi0uEm3LzDUnA6RpfM"
+      },
+      "artists": [
+        {
+          "name": "Firement",
+          "url": "https://open.spotify.com/artist/5k1ztv8OrzrXDwO7hGac31"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176645,
+      "name": "Fireplace Noise",
+      "url": "https://open.spotify.com/track/6viBvJPJF3iv8ZHvGiGIyb"
+    },
+    {
+      "album": {
+        "name": "Peaceful Flame",
+        "url": "https://open.spotify.com/album/5z0FwCGD0bljHVZaj2p3A9"
+      },
+      "artists": [
+        {
+          "name": "Fire Scientist",
+          "url": "https://open.spotify.com/artist/1lWVALbH9pIS8Lttts3Bwz"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Fireplace Of Warmth",
+      "url": "https://open.spotify.com/track/0tJgdYqPgtZzIcMdfQxyTH"
+    },
+    {
+      "album": {
+        "name": "Fireplace Relax",
+        "url": "https://open.spotify.com/album/2jzoJYjlkRofNFuUxSnx3x"
+      },
+      "artists": [
+        {
+          "name": "Warm Crackle",
+          "url": "https://open.spotify.com/artist/0EI9wbNyBWkWAnnINc7PUJ"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Fireplace Relax",
+      "url": "https://open.spotify.com/track/01QxpYeXx7MynqLg61HxgG"
+    },
+    {
+      "album": {
+        "name": "Sound of the Heat",
+        "url": "https://open.spotify.com/album/1VvMLyM4c7fblJiJZdnBi0"
+      },
+      "artists": [
+        {
+          "name": "Habit Of Flame",
+          "url": "https://open.spotify.com/artist/4SAp3XjIrtqbzGzsIJlrWX"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185721,
+      "name": "Fireplace Sound",
+      "url": "https://open.spotify.com/track/4D3oMWMknZ2eArJkXs8OsC"
+    },
+    {
+      "album": {
+        "name": "Fireside Serenity",
+        "url": "https://open.spotify.com/album/4f2S2TxUBB7vAlRxC242Xm"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198897,
+      "name": "Fireside Serenity",
+      "url": "https://open.spotify.com/track/29yAD1XNPDgKpYwQSvgaKr"
+    },
+    {
+      "album": {
+        "name": "FireFly",
+        "url": "https://open.spotify.com/album/4r3X2aA0R4QPVPZUPTx2f1"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 242062,
+      "name": "Flame Of Meditation",
+      "url": "https://open.spotify.com/track/5sOkrnh4CosKijo0bBOxLV"
+    },
+    {
+      "album": {
+        "name": "Flame Noise",
+        "url": "https://open.spotify.com/album/2Euexf7YOSXb9yGOPqvTc9"
+      },
+      "artists": [
+        {
+          "name": "Blaze Nights",
+          "url": "https://open.spotify.com/artist/5zKuHMLICKOse4JZNLsZ3n"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162725,
+      "name": "Flames Against The Cold",
+      "url": "https://open.spotify.com/track/4eRMOAXx2KR1hKnxNAO2i5"
+    },
+    {
+      "album": {
+        "name": "Flames Of Sleep",
+        "url": "https://open.spotify.com/album/7ylQnCCNsXkajWSuksUkxv"
+      },
+      "artists": [
+        {
+          "name": "Mirai",
+          "url": "https://open.spotify.com/artist/6oEZ7IsYCH7xwmb83A6eQx"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172221,
+      "name": "Flames Of Sleep",
+      "url": "https://open.spotify.com/track/1LRGa30hfzCxXqsjrvqgYt"
+    },
+    {
+      "album": {
+        "name": "Heated Spring",
+        "url": "https://open.spotify.com/album/27AhdYDdJoGR5tqQS4eks6"
+      },
+      "artists": [
+        {
+          "name": "Ray Karma",
+          "url": "https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 200000,
+      "name": "Flames Of Sleep",
+      "url": "https://open.spotify.com/track/14orDwXdM7aMbL7xk8xXcy"
+    },
+    {
+      "album": {
+        "name": "Hold the Flame",
+        "url": "https://open.spotify.com/album/6vftSLagUZdQZfiVO6jfSk"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 192000,
+      "name": "Flames Towards The Sky",
+      "url": "https://open.spotify.com/track/3wTRVnCoKTPdvhuSp6kXwt"
+    },
+    {
+      "album": {
+        "name": "Flaming Dreams",
+        "url": "https://open.spotify.com/album/4r9Bvmvfx5MMqVd63KqoYq"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Flaming Dreams",
+      "url": "https://open.spotify.com/track/1VNv0WUc6QQHJGLs32CvUG"
+    },
+    {
+      "album": {
+        "name": "Ochre Light",
+        "url": "https://open.spotify.com/album/49mpp39JixBUtzFnHUy6Rg"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Flammable",
+      "url": "https://open.spotify.com/track/5RTGtVtHpICtFrB0Jy8HHa"
+    },
+    {
+      "album": {
+        "name": "Relaxing Fire Sounds",
+        "url": "https://open.spotify.com/album/0VrYfRMHgVQekDurSPGbEq"
+      },
+      "artists": [
+        {
+          "name": "Forest FX Smith",
+          "url": "https://open.spotify.com/artist/2Ws74uPhxJrBWn95kKDqhq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125898,
+      "name": "Forest Fireplace",
+      "url": "https://open.spotify.com/track/3Rwg4IRbHo5axXdo2e3vxj"
+    },
+    {
+      "album": {
+        "name": "Furnace Warmth",
+        "url": "https://open.spotify.com/album/3DFkThdtiv8dezNk615wr8"
+      },
+      "artists": [
+        {
+          "name": "Krispy Fireplace",
+          "url": "https://open.spotify.com/artist/3620DZj56oKYWgLzbljbNk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Furnace Warmth",
+      "url": "https://open.spotify.com/track/1WfjkcMD91QD93kNvja6uU"
+    },
+    {
+      "album": {
+        "name": "Spread the Flame",
+        "url": "https://open.spotify.com/album/02rf29XdLpfXfhoO6yxwgg"
+      },
+      "artists": [
+        {
+          "name": "Lumi\u00e8re",
+          "url": "https://open.spotify.com/artist/7pWH6NDnA9OtjCt3KbfCno"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 242062,
+      "name": "Glowing Spark",
+      "url": "https://open.spotify.com/track/0de2lrDai09wpJXUrbCytb"
+    },
+    {
+      "album": {
+        "name": "Fire by the Lakehouse",
+        "url": "https://open.spotify.com/album/5dwOWIHPGIjtYSpfkKVZ4b"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "Glowing Warmth",
+      "url": "https://open.spotify.com/track/3BHnVRS4ec8CP2qiQHVGff"
+    },
+    {
+      "album": {
+        "name": "Light up the Room",
+        "url": "https://open.spotify.com/album/1sy7DklfTUV964uTTY4yrb"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Golden Flame",
+      "url": "https://open.spotify.com/track/6VE17Sv52Md2evGbIA8pTk"
+    },
+    {
+      "album": {
+        "name": "Warm Sleep",
+        "url": "https://open.spotify.com/album/1uZk8CdB5OqRWGQU1Jzqmh"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Golden light",
+      "url": "https://open.spotify.com/track/1OkFhoEiILNTtn0A4GM4Ew"
+    },
+    {
+      "album": {
+        "name": "Fire Pit Soothness",
+        "url": "https://open.spotify.com/album/5pk5w5QSDNFjPaIfXdWIj7"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "Healing Heat",
+      "url": "https://open.spotify.com/track/569QLjtmobX2HevAPH42Wk"
+    },
+    {
+      "album": {
+        "name": "Tranquil Embers",
+        "url": "https://open.spotify.com/album/6prHGBLNhAkSGy1O9doNLo"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Hearth Harmony",
+      "url": "https://open.spotify.com/track/1ESXHvwu7EZNBQqn6QaNF9"
+    },
+    {
+      "album": {
+        "name": "Relaxing Flames",
+        "url": "https://open.spotify.com/album/50j9xY9OlVnVIyyudXFt2A"
+      },
+      "artists": [
+        {
+          "name": "Flammables",
+          "url": "https://open.spotify.com/artist/3c3y1SqD7gg7a7UWTAj1PP"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183445,
+      "name": "Heat Meditation",
+      "url": "https://open.spotify.com/track/2aFBdbRuBZUzMMlfuo7jER"
+    },
+    {
+      "album": {
+        "name": "Bonfire Dreams",
+        "url": "https://open.spotify.com/album/3Ab8K7eJTRBBeFqebr2gDQ"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 200000,
+      "name": "Heat Nights",
+      "url": "https://open.spotify.com/track/4YEKb0ZnNUiAm5bkan8tk2"
+    },
+    {
+      "album": {
+        "name": "Light up the Room",
+        "url": "https://open.spotify.com/album/1sy7DklfTUV964uTTY4yrb"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 200000,
+      "name": "Heat the Cabin",
+      "url": "https://open.spotify.com/track/16M0U8fUmPakP1rD1dzUD8"
+    },
+    {
+      "album": {
+        "name": "Heated Room",
+        "url": "https://open.spotify.com/album/71l3QPVfj8gtSteoA1lFPa"
+      },
+      "artists": [
+        {
+          "name": "Lumi\u00e8re",
+          "url": "https://open.spotify.com/artist/7pWH6NDnA9OtjCt3KbfCno"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Heated Room",
+      "url": "https://open.spotify.com/track/5tEYaSl3lripQLNVh6al9O"
+    },
+    {
+      "album": {
+        "name": "Heated Spring",
+        "url": "https://open.spotify.com/album/27AhdYDdJoGR5tqQS4eks6"
+      },
+      "artists": [
+        {
+          "name": "Ray Karma",
+          "url": "https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 200000,
+      "name": "Heated Spring",
+      "url": "https://open.spotify.com/track/0a3fY4PSWXSUzV7rg1CGIK"
+    },
+    {
+      "album": {
+        "name": "Hold the Flame",
+        "url": "https://open.spotify.com/album/6vftSLagUZdQZfiVO6jfSk"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 168000,
+      "name": "Hold the Flame",
+      "url": "https://open.spotify.com/track/5NFKGBZirpvU0jkb5c2nDt"
+    },
+    {
+      "album": {
+        "name": "Secret Fire",
+        "url": "https://open.spotify.com/album/66UTm3N51kqwVevdpljDk7"
+      },
+      "artists": [
+        {
+          "name": "Myrs",
+          "url": "https://open.spotify.com/artist/6xqQc4rYEbyc9YV7cHZY6Y"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Holding the Flame",
+      "url": "https://open.spotify.com/track/6UslOwpENmu8Ft8Dd6HQHy"
+    },
+    {
+      "album": {
+        "name": "Holy Smoke",
+        "url": "https://open.spotify.com/album/5CRbgrbRTcwEmnyOHs69Ud"
+      },
+      "artists": [
+        {
+          "name": "Audio Nomad",
+          "url": "https://open.spotify.com/artist/1WnUXS4BhtPNBctBih7hYL"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147519,
+      "name": "Holy Smoke",
+      "url": "https://open.spotify.com/track/30p2a9fI1cHXDpNlN6rSIr"
+    },
+    {
+      "album": {
+        "name": "Fire by the Lake",
+        "url": "https://open.spotify.com/album/4rW24cLpNRWLZrYoFHgvlF"
+      },
+      "artists": [
+        {
+          "name": "Ray Karma",
+          "url": "https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 200000,
+      "name": "If Flames Could Talk",
+      "url": "https://open.spotify.com/track/66Bt2LFvq7HNiZVELQLjTl"
+    },
+    {
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/3V5zFedWf1vHV6aFhXnw0Q"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 200000,
+      "name": "Igniting Flames",
+      "url": "https://open.spotify.com/track/54TeEymLvZ898jcWZYTd0j"
+    },
+    {
+      "album": {
+        "name": "Fire by the Beach",
+        "url": "https://open.spotify.com/album/3KVPTGPsGuQBTpD4ZpSTMr"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 192000,
+      "name": "In Flames",
+      "url": "https://open.spotify.com/track/4kSIwTLwVUotP170UXKWAi"
+    },
+    {
+      "album": {
+        "name": "The Last Campfire",
+        "url": "https://open.spotify.com/album/1uMnJ96ErxxnwWoVwlhW4a"
+      },
+      "artists": [
+        {
+          "name": "The Extinguished",
+          "url": "https://open.spotify.com/artist/4Kkax37LqhKA1uDlP53Lcc"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144140,
+      "name": "In the Moment of the Heat",
+      "url": "https://open.spotify.com/track/6UxthfqMIV25DT1AbFZtbf"
+    },
+    {
+      "album": {
+        "name": "Campfire in the Wilderness",
+        "url": "https://open.spotify.com/album/1YAdST8f10qrvTahHfrjvh"
+      },
+      "artists": [
+        {
+          "name": "Inside the Mountains",
+          "url": "https://open.spotify.com/artist/7skn0pRrIm20tOzceEkZTT"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 124714,
+      "name": "Insects around the Campfire",
+      "url": "https://open.spotify.com/track/0Q5HeRNkm4K926PnMEh3eV"
+    },
+    {
+      "album": {
+        "name": "Kalahari Campfire",
+        "url": "https://open.spotify.com/album/6gfqJWTC6V6q8isAiws3kG"
+      },
+      "artists": [
+        {
+          "name": "Aqunu",
+          "url": "https://open.spotify.com/artist/7rqVJr6byVc4ItRXmbwhPG"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 84720,
+      "name": "Kalahari Campfire",
+      "url": "https://open.spotify.com/track/12KK3YLHCbOTlTcE45973L"
+    },
+    {
+      "album": {
+        "name": "Hold the Flame",
+        "url": "https://open.spotify.com/album/6vftSLagUZdQZfiVO6jfSk"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Keep Me Warm",
+      "url": "https://open.spotify.com/track/33rrcMquypDngnll5jHpb7"
+    },
+    {
+      "album": {
+        "name": "Cozy Fireplace",
+        "url": "https://open.spotify.com/album/0KzaYqAQ8X8WcA1mbl3TAz"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 112000,
+      "name": "Last Sparks Of Fire",
+      "url": "https://open.spotify.com/track/0ONwracddTYeoCPxL7eXbl"
+    },
+    {
+      "album": {
+        "name": "Late night Spark",
+        "url": "https://open.spotify.com/album/1LAkau1I8xPnrVlfEJfKjm"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 200000,
+      "name": "Late night Spark",
+      "url": "https://open.spotify.com/track/6gfunUy2bHjtviBt8laofh"
+    },
+    {
+      "album": {
+        "name": "Light up the Room",
+        "url": "https://open.spotify.com/album/1sy7DklfTUV964uTTY4yrb"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 200000,
+      "name": "Let it be fire",
+      "url": "https://open.spotify.com/track/6rtzfZEqwHyhPYe3NWI0dF"
+    },
+    {
+      "album": {
+        "name": "Warm Dreams",
+        "url": "https://open.spotify.com/album/4RuCk0On70MP7tvXMd8GLJ"
+      },
+      "artists": [
+        {
+          "name": "Varuna Recordings",
+          "url": "https://open.spotify.com/artist/14PnfeDCdj2PHrVMzTTddV"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Let's Make A Fire",
+      "url": "https://open.spotify.com/track/58mahzeQOpFybyxjO7uydo"
+    },
+    {
+      "album": {
+        "name": "That Cabin Warmth",
+        "url": "https://open.spotify.com/album/2JqW1oAjhy9B3jQWkuGBl6"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Light & Warmth",
+      "url": "https://open.spotify.com/track/1SxUEfgNHbFd5R6LMgR9bK"
+    },
+    {
+      "album": {
+        "name": "Heated Room",
+        "url": "https://open.spotify.com/album/71l3QPVfj8gtSteoA1lFPa"
+      },
+      "artists": [
+        {
+          "name": "Lumi\u00e8re",
+          "url": "https://open.spotify.com/artist/7pWH6NDnA9OtjCt3KbfCno"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 200000,
+      "name": "Light Sparks",
+      "url": "https://open.spotify.com/track/7ljEOsUqJwyKSpUsJQQGSa"
+    },
+    {
+      "album": {
+        "name": "Light that Flame",
+        "url": "https://open.spotify.com/album/3CJxU8QpdSzV8JYPnlLnaT"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 200000,
+      "name": "Light that Flame",
+      "url": "https://open.spotify.com/track/2l9ozKmObiVpfD08W6E9OC"
+    },
+    {
+      "album": {
+        "name": "Light up the Room",
+        "url": "https://open.spotify.com/album/1sy7DklfTUV964uTTY4yrb"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Light up the Room",
+      "url": "https://open.spotify.com/track/2o4FiuDaVRgroMBOfZaHKW"
+    },
+    {
+      "album": {
+        "name": "Light up the room",
+        "url": "https://open.spotify.com/album/1PHjZMkgDRu4Y3BS1s6E1l"
+      },
+      "artists": [
+        {
+          "name": "Ray Karma",
+          "url": "https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 200000,
+      "name": "Light up the room",
+      "url": "https://open.spotify.com/track/4W1bQZ2nGhBYEZatEEzsrI"
+    },
+    {
+      "album": {
+        "name": "Ruido de Chimenea",
+        "url": "https://open.spotify.com/album/24uCwkr3AxyqxWRJXDnWP9"
+      },
+      "artists": [
+        {
+          "name": "Calor Malvado",
+          "url": "https://open.spotify.com/artist/2KBlE7vqrHghTXzMP1jgwK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185737,
+      "name": "Llamas Calmantes",
+      "url": "https://open.spotify.com/track/1vjWahaOQYYNc2fjyWJLdS"
+    },
+    {
+      "album": {
+        "name": "Fuego Acogedor",
+        "url": "https://open.spotify.com/album/34A3oaZnRr3xsiRPDm8L4G"
+      },
+      "artists": [
+        {
+          "name": "Prueba De Llama",
+          "url": "https://open.spotify.com/artist/08XuVb1JLWHD1pKyb2bx6t"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191818,
+      "name": "Llamas Pac\u00edficas",
+      "url": "https://open.spotify.com/track/4mFhnBmB5K46q9gqU9awd4"
+    },
+    {
+      "album": {
+        "name": "Llamas Pesadas",
+        "url": "https://open.spotify.com/album/2iX4NU7RhAbRNV1Nlo1FBT"
+      },
+      "artists": [
+        {
+          "name": "The Extinguished",
+          "url": "https://open.spotify.com/artist/4Kkax37LqhKA1uDlP53Lcc"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178044,
+      "name": "Llamas Pesadas",
+      "url": "https://open.spotify.com/track/11KYxP2CcZ7ILRQAspD1jC"
+    },
+    {
+      "album": {
+        "name": "Logcabin Crackle",
+        "url": "https://open.spotify.com/album/6nqB2xfUzcq71Vd06p2ibn"
+      },
+      "artists": [
+        {
+          "name": "Little Log Lady",
+          "url": "https://open.spotify.com/artist/7mdGwbaaGnYpOH9DYHORwR"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Logcabin Crackle - Seamless",
+      "url": "https://open.spotify.com/track/0f3RTuR61j5TvPpiKmYspX"
+    },
+    {
+      "album": {
+        "name": "Warmth of Walpurgis",
+        "url": "https://open.spotify.com/album/1k9L2BmYYcngpj3RZPhJgw"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 186000,
+      "name": "Lonely Fire",
+      "url": "https://open.spotify.com/track/0p0TmpzpUpwIDE1xD3WWC6"
+    },
+    {
+      "album": {
+        "name": "Look at the Flame",
+        "url": "https://open.spotify.com/album/0hj8FLII6zyLSWiM2snq9Q"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 200000,
+      "name": "Look at the Flame",
+      "url": "https://open.spotify.com/track/6KTBe9xqWeux9xGGlMRqhU"
+    },
+    {
+      "album": {
+        "name": "Loop of Flames",
+        "url": "https://open.spotify.com/album/5rLUijunv7MMDnOJLH4Izh"
+      },
+      "artists": [
+        {
+          "name": "Heatly",
+          "url": "https://open.spotify.com/artist/0xSD0xgnjxFPmKVamaSDdF"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 181181,
+      "name": "Meditation Fire",
+      "url": "https://open.spotify.com/track/0DdKZA8e2vzKm8E7GLr1oQ"
+    },
+    {
+      "album": {
+        "name": "Relaxing Fire Sounds",
+        "url": "https://open.spotify.com/album/0VrYfRMHgVQekDurSPGbEq"
+      },
+      "artists": [
+        {
+          "name": "Forest FX Smith",
+          "url": "https://open.spotify.com/artist/2Ws74uPhxJrBWn95kKDqhq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 123689,
+      "name": "Nature Fire",
+      "url": "https://open.spotify.com/track/1PmdTmMxRrlmcdnY9dOrrD"
+    },
+    {
+      "album": {
+        "name": "Never Ending Flame",
+        "url": "https://open.spotify.com/album/3JmdsecNeOy9OScxvKWZ29"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 192000,
+      "name": "Never Ending Flame",
+      "url": "https://open.spotify.com/track/0jWHu5TFlyYCW0WBce7Dol"
+    },
+    {
+      "album": {
+        "name": "Never Ending Flame",
+        "url": "https://open.spotify.com/album/3JmdsecNeOy9OScxvKWZ29"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 192000,
+      "name": "Night Fire",
+      "url": "https://open.spotify.com/track/4BfXYzP6WDOenmlU31yb4U"
+    },
+    {
+      "album": {
+        "name": "Heated Room",
+        "url": "https://open.spotify.com/album/71l3QPVfj8gtSteoA1lFPa"
+      },
+      "artists": [
+        {
+          "name": "Lumi\u00e8re",
+          "url": "https://open.spotify.com/artist/7pWH6NDnA9OtjCt3KbfCno"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Nights By The Fire",
+      "url": "https://open.spotify.com/track/0iSbCwluvPxdaIPJjmBg8L"
+    },
+    {
+      "album": {
+        "name": "Warmth of Walpurgis",
+        "url": "https://open.spotify.com/album/1k9L2BmYYcngpj3RZPhJgw"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Nights By The Fireplace",
+      "url": "https://open.spotify.com/track/7cQi8o5cIkZodTsxZcYIXr"
+    },
+    {
+      "album": {
+        "name": "Open Fire Crackle",
+        "url": "https://open.spotify.com/album/0NW4QqLNNr4oEg40BaKIxa"
+      },
+      "artists": [
+        {
+          "name": "FX FORGERS",
+          "url": "https://open.spotify.com/artist/2n4DiQ6nowQupRgjoYPBwm"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 156779,
+      "name": "Open Fire Crackle 1",
+      "url": "https://open.spotify.com/track/6OYhX1hjw4z9VorIF5mDvg"
+    },
+    {
+      "album": {
+        "name": "Open Fire Crackle",
+        "url": "https://open.spotify.com/album/0NW4QqLNNr4oEg40BaKIxa"
+      },
+      "artists": [
+        {
+          "name": "FX FORGERS",
+          "url": "https://open.spotify.com/artist/2n4DiQ6nowQupRgjoYPBwm"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178629,
+      "name": "Open Fire Crackle 2",
+      "url": "https://open.spotify.com/track/3TOSK8STnMU2jsEOV079Ar"
+    },
+    {
+      "album": {
+        "name": "Open Fire Crackle",
+        "url": "https://open.spotify.com/album/0NW4QqLNNr4oEg40BaKIxa"
+      },
+      "artists": [
+        {
+          "name": "FX FORGERS",
+          "url": "https://open.spotify.com/artist/2n4DiQ6nowQupRgjoYPBwm"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "Open Fire Crackle 3",
+      "url": "https://open.spotify.com/track/4B3zkToP6ggtD5gF5zKvYj"
+    },
+    {
+      "album": {
+        "name": "Open Fire Zen",
+        "url": "https://open.spotify.com/album/1ysVjnN6xbEREfDzAf78ni"
+      },
+      "artists": [
+        {
+          "name": "Crackling ASMR",
+          "url": "https://open.spotify.com/artist/2I5u2mH0DBw7gO1nCAQ6Pe"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Open Fire Zen - Seamless",
+      "url": "https://open.spotify.com/track/10V5hCKT5cT8v94XduUyTl"
+    },
+    {
+      "album": {
+        "name": "Cozy Outdoor Fire",
+        "url": "https://open.spotify.com/album/24pD3JQxHt5eXvohGjUt7O"
+      },
+      "artists": [
+        {
+          "name": "Valborg",
+          "url": "https://open.spotify.com/artist/4zPf89I3Z8IXxDbreYEFSm"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Outdoor Fire",
+      "url": "https://open.spotify.com/track/2KuL9pDHxd0lEzJVTaipu7"
+    },
+    {
+      "album": {
+        "name": "Peaceful Country Fire",
+        "url": "https://open.spotify.com/album/4ra4Lh5XiGz0DxW7h395Uz"
+      },
+      "artists": [
+        {
+          "name": "Bristle Sweeps",
+          "url": "https://open.spotify.com/artist/3jt28JqrYGXknWSnuU4Xzk"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Peaceful Country Fire",
+      "url": "https://open.spotify.com/track/4y2R8OtHaRDyBLiIZ1bnin"
+    },
+    {
+      "album": {
+        "name": "Peaceful Fire",
+        "url": "https://open.spotify.com/album/2QSlf5IuDpoGJyHL6NB4wN"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 220374,
+      "name": "Peaceful Fire",
+      "url": "https://open.spotify.com/track/3OPCsoP51CKljqK7i3T9Le"
+    },
+    {
+      "album": {
+        "name": "#Fireplace Sounds & Ambient Noises",
+        "url": "https://open.spotify.com/album/34wsv3x7NlzXPW1SvBElPX"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sounds Ambient Noises",
+          "url": "https://open.spotify.com/artist/1zL2evr0Tl2KJcHaLUbwc5"
+        },
+        {
+          "name": "Fireplace Sounds",
+          "url": "https://open.spotify.com/artist/7ivzTWQpvdv4d9UH3TcjRZ"
+        },
+        {
+          "name": "Relaxing Music Therapy",
+          "url": "https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 243327,
+      "name": "Peaceful Fireplace",
+      "url": "https://open.spotify.com/track/3qnDJDILWQZCFGUxvQjZrb"
+    },
+    {
+      "album": {
+        "name": "Sizzling Fire",
+        "url": "https://open.spotify.com/album/1V4f8BYC0qyijsZUF4x1uW"
+      },
+      "artists": [
+        {
+          "name": "Releasing Heat",
+          "url": "https://open.spotify.com/artist/62RfAkLu3Ba11IsmYQHVar"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 182456,
+      "name": "Peaceful Flames",
+      "url": "https://open.spotify.com/track/3ay6LFArsCrxFbJfsMLzga"
+    },
+    {
+      "album": {
+        "name": "Tranquil Embers",
+        "url": "https://open.spotify.com/album/6prHGBLNhAkSGy1O9doNLo"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181311,
+      "name": "Radiant Fire",
+      "url": "https://open.spotify.com/track/6GJ4faNYpuEMX42Mw1PsTf"
+    },
+    {
+      "album": {
+        "name": "Read By The Fire",
+        "url": "https://open.spotify.com/album/5l3NbahKLY9EHGjJj1lBIl"
+      },
+      "artists": [
+        {
+          "name": "Prime Flames",
+          "url": "https://open.spotify.com/artist/7cO59XfIEU6ShqIrBsWXzG"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186160,
+      "name": "Read By The Fire",
+      "url": "https://open.spotify.com/track/3XjiFnQdMQk7UdMlCmpliG"
+    },
+    {
+      "album": {
+        "name": "Red August",
+        "url": "https://open.spotify.com/album/68MYbNwRzDACGNhB9wvFTq"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 192000,
+      "name": "Red August",
+      "url": "https://open.spotify.com/track/3wbFdRUEFXGMYqRiBq0g8W"
+    },
+    {
+      "album": {
+        "name": "Warming Fireplace",
+        "url": "https://open.spotify.com/album/269yOoQvQNWMloEaWhPNSC"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "Red Flame",
+      "url": "https://open.spotify.com/track/2p7dVBsy129j57yOMH3o0B"
+    },
+    {
+      "album": {
+        "name": "Reign of Fire",
+        "url": "https://open.spotify.com/album/4HnwnTaK8hxCU48A7ZKVVq"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "Reign of Fire",
+      "url": "https://open.spotify.com/track/0m0l1oAwWfdb96dEpzcP0N"
+    },
+    {
+      "album": {
+        "name": "Relaxing Fire Sounds",
+        "url": "https://open.spotify.com/album/7cDmLmvxigLFMBAGUgLvLW"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 155000,
+      "name": "Relaxing Fire Sound",
+      "url": "https://open.spotify.com/track/1zzdqvwCWawjaFXt5xuQx6"
+    },
+    {
+      "album": {
+        "name": "Fireplace Sounds and Crackling Fireplace for Relaxing Nights, Winter Nights Fireplace Sounds",
+        "url": "https://open.spotify.com/album/71TbrhkBvpKYZpd1DkQz4X"
+      },
+      "artists": [
+        {
+          "name": "Fire Sounds For Sleep",
+          "url": "https://open.spotify.com/artist/4EmS3jL9sFwoecLG183maP"
+        },
+        {
+          "name": "Fire Sounds",
+          "url": "https://open.spotify.com/artist/5O87bc3ld6OLoJTFE6gBUW"
+        },
+        {
+          "name": "Fireplace Sounds",
+          "url": "https://open.spotify.com/artist/7ivzTWQpvdv4d9UH3TcjRZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 155737,
+      "name": "Relaxing Reading by the Fireplace",
+      "url": "https://open.spotify.com/track/27htbQZZI0P3rbC0O6xEdN"
+    },
+    {
+      "album": {
+        "name": "Same Old Flame",
+        "url": "https://open.spotify.com/album/2BoTzjqegBTiuBeMQuxzvF"
+      },
+      "artists": [
+        {
+          "name": "Ray Karma",
+          "url": "https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "Same Old Flame",
+      "url": "https://open.spotify.com/track/4X5hfbIvuosh4OSvYSSPMN"
+    },
+    {
+      "album": {
+        "name": "Secret Fire",
+        "url": "https://open.spotify.com/album/66UTm3N51kqwVevdpljDk7"
+      },
+      "artists": [
+        {
+          "name": "Myrs",
+          "url": "https://open.spotify.com/artist/6xqQc4rYEbyc9YV7cHZY6Y"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Secret Fire",
+      "url": "https://open.spotify.com/track/6nCLH9PMWkhNakcS6z6GCK"
+    },
+    {
+      "album": {
+        "name": "Heated Spring",
+        "url": "https://open.spotify.com/album/27AhdYDdJoGR5tqQS4eks6"
+      },
+      "artists": [
+        {
+          "name": "Ray Karma",
+          "url": "https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 200000,
+      "name": "Sitting By The Fire",
+      "url": "https://open.spotify.com/track/2qx3WTAWAeO8KkfgnXfa62"
+    },
+    {
+      "album": {
+        "name": "Fire Crackle",
+        "url": "https://open.spotify.com/album/1m4E5FWFjwnhfReJagLK6y"
+      },
+      "artists": [
+        {
+          "name": "Fireplies",
+          "url": "https://open.spotify.com/artist/3T6qiVEyg7RBqTpam0rfKv"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 186056,
+      "name": "Sizzling Fire",
+      "url": "https://open.spotify.com/track/0WxJ0R83SabMRVr39yv4nD"
+    },
+    {
+      "album": {
+        "name": "Heat the Cold",
+        "url": "https://open.spotify.com/album/7tzTwd6tnIKjWdxigSLF1Q"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "Sleep By The Fire",
+      "url": "https://open.spotify.com/track/4gAM2JAlrmh45c5FyRxf8q"
+    },
+    {
+      "album": {
+        "name": "Tender Fire",
+        "url": "https://open.spotify.com/album/33O2REEcPsuIkq3qM9D9q5"
+      },
+      "artists": [
+        {
+          "name": "Haruna Fields",
+          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Sleep Close To The Fire",
+      "url": "https://open.spotify.com/track/1anOM3NUTrYjscG65fityh"
+    },
+    {
+      "album": {
+        "name": "Slept Like A Log",
+        "url": "https://open.spotify.com/album/1qMKC9gOdCyIabDoJYMPvv"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Sound Machine",
+          "url": "https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Slept Like A Log",
+      "url": "https://open.spotify.com/track/3I2HKmtAHRUF0WRcxzb5SX"
+    },
+    {
+      "album": {
+        "name": "Beach Fire Pile",
+        "url": "https://open.spotify.com/album/0huICvLhM402ETvHZ8mDQW"
+      },
+      "artists": [
+        {
+          "name": "Krispy Fireplace",
+          "url": "https://open.spotify.com/artist/3620DZj56oKYWgLzbljbNk"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 114000,
+      "name": "Snaps, Crackles and Pops",
+      "url": "https://open.spotify.com/track/3IUUgqEUGlNxOVUjlhHdW7"
+    },
+    {
+      "album": {
+        "name": "Soot Yourself",
+        "url": "https://open.spotify.com/album/2vW5dq1sThlJimbd84lzM2"
+      },
+      "artists": [
+        {
+          "name": "My Cozy Heat",
+          "url": "https://open.spotify.com/artist/4X6uyTlH2FvQLwY0wbnuEM"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Soot Yourself",
+      "url": "https://open.spotify.com/track/7IzUkwdP06HcyuUIP0EuRd"
+    },
+    {
+      "album": {
+        "name": "Sound of Flame",
+        "url": "https://open.spotify.com/album/6JHv3LN4QdmwYJF5HEYjqf"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "Sound of Flame",
+      "url": "https://open.spotify.com/track/5f2DnGdit0MwQSewdj5ySS"
+    },
+    {
+      "album": {
+        "name": "Sound of the Heat",
+        "url": "https://open.spotify.com/album/1VvMLyM4c7fblJiJZdnBi0"
+      },
+      "artists": [
+        {
+          "name": "Habit Of Flame",
+          "url": "https://open.spotify.com/artist/4SAp3XjIrtqbzGzsIJlrWX"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "Sound of the Heat",
+      "url": "https://open.spotify.com/track/1Rp7AaLttwSdlix6xcxUZk"
+    },
+    {
+      "album": {
+        "name": "Fireplace Ambience",
+        "url": "https://open.spotify.com/album/6vS2pg0rSeHFbQGHGLVUs1"
+      },
+      "artists": [
+        {
+          "name": "QFT Sounds",
+          "url": "https://open.spotify.com/artist/0j6pmxi7f72VhOk06oSKod"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 145709,
+      "name": "Sounds of Somber Fire",
+      "url": "https://open.spotify.com/track/267SmlGxsFTqrf9hK2FIKb"
+    },
+    {
+      "album": {
+        "name": "Fireplace Noise",
+        "url": "https://open.spotify.com/album/6um6zi0uEm3LzDUnA6RpfM"
+      },
+      "artists": [
+        {
+          "name": "Firement",
+          "url": "https://open.spotify.com/artist/5k1ztv8OrzrXDwO7hGac31"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183888,
+      "name": "Steady Fire",
+      "url": "https://open.spotify.com/track/7BwLybdFn9kHQTOEEggWyQ"
+    },
+    {
+      "album": {
+        "name": "Fire Sounds",
+        "url": "https://open.spotify.com/album/0h1A3L5S3mERq72tF3oWTR"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 170000,
+      "name": "Steady Fire Burning",
+      "url": "https://open.spotify.com/track/2rmDM66wPZfRg6300MhQOL"
+    },
+    {
+      "album": {
+        "name": "Summer Flame",
+        "url": "https://open.spotify.com/album/4BbZaVnaFkB2eXYZpWoMt5"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 200000,
+      "name": "Summer Flame",
+      "url": "https://open.spotify.com/track/67AChCRrSRvQzAEeCRnYxd"
+    },
+    {
+      "album": {
+        "name": "That Cabin Warmth",
+        "url": "https://open.spotify.com/album/2JqW1oAjhy9B3jQWkuGBl6"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "That Cabin Warmth",
+      "url": "https://open.spotify.com/track/7lXDI557voKM71ZPnIuy2Q"
+    },
+    {
+      "album": {
+        "name": "The Chimney Stove",
+        "url": "https://open.spotify.com/album/272ZoTccp9o5uP5dkZlxS8"
+      },
+      "artists": [
+        {
+          "name": "Flickerfire",
+          "url": "https://open.spotify.com/artist/2LWHVfyWpKHd02vsMaDzWo"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "The Chimney Stove",
+      "url": "https://open.spotify.com/track/27pChcRstKCqGzhGqevjCf"
+    },
+    {
+      "album": {
+        "name": "The Last Campfire",
+        "url": "https://open.spotify.com/album/1uMnJ96ErxxnwWoVwlhW4a"
+      },
+      "artists": [
+        {
+          "name": "The Extinguished",
+          "url": "https://open.spotify.com/artist/4Kkax37LqhKA1uDlP53Lcc"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 161039,
+      "name": "The Last Campfire",
+      "url": "https://open.spotify.com/track/5WgoC4zvSw0iB2rPWRQInV"
+    },
+    {
+      "album": {
+        "name": "The Melody of the Fire",
+        "url": "https://open.spotify.com/album/4Zp90zU8T7kKMm5doGdUb6"
+      },
+      "artists": [
+        {
+          "name": "Fire Chemistry",
+          "url": "https://open.spotify.com/artist/6lLPRRXGQ0vvSV3xCk5j9C"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 160590,
+      "name": "The Melody of the Fire",
+      "url": "https://open.spotify.com/track/2susFLmxFb3PpfngNrukOP"
+    },
+    {
+      "album": {
+        "name": "Sheltering Fireplace (Binaural 3D Audio)",
+        "url": "https://open.spotify.com/album/2AW54xhxqcySF33psC6NDu"
+      },
+      "artists": [
+        {
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 300373,
+      "name": "The Steady Fire and the Small Crackles",
+      "url": "https://open.spotify.com/track/5YAWkPz4uaQCkpJ2N1HHQT"
+    },
+    {
+      "album": {
+        "name": "Warm Dreams",
+        "url": "https://open.spotify.com/album/4RuCk0On70MP7tvXMd8GLJ"
+      },
+      "artists": [
+        {
+          "name": "Varuna Recordings",
+          "url": "https://open.spotify.com/artist/14PnfeDCdj2PHrVMzTTddV"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Warm Dreams",
+      "url": "https://open.spotify.com/track/2BrFiOzCDW5VBpd2Qok68p"
+    },
+    {
+      "album": {
+        "name": "Warm Sleep",
+        "url": "https://open.spotify.com/album/1uZk8CdB5OqRWGQU1Jzqmh"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 242062,
+      "name": "Warm Sleep",
+      "url": "https://open.spotify.com/track/34IOaNKAjTSvKCNteVS1Qo"
+    },
+    {
+      "album": {
+        "name": "Warming Fireplace",
+        "url": "https://open.spotify.com/album/269yOoQvQNWMloEaWhPNSC"
+      },
+      "artists": [
+        {
+          "name": "Ignatius",
+          "url": "https://open.spotify.com/artist/5eAnAcQS9AJ2pBiMZs0NWq"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 242062,
+      "name": "Warming Fireplace",
+      "url": "https://open.spotify.com/track/6vX1VhEYdFZm2po51WTOfr"
+    },
+    {
+      "album": {
+        "name": "Reign of Fire",
+        "url": "https://open.spotify.com/album/4HnwnTaK8hxCU48A7ZKVVq"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Warming Flame",
+      "url": "https://open.spotify.com/track/7IflV8fyjElXPwPhChT3mm"
+    },
+    {
+      "album": {
+        "name": "Red August",
+        "url": "https://open.spotify.com/album/68MYbNwRzDACGNhB9wvFTq"
+      },
+      "artists": [
+        {
+          "name": "ELD",
+          "url": "https://open.spotify.com/artist/2XSMkayT3NVFyY9O5fOP2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 192000,
+      "name": "Warming Flames",
+      "url": "https://open.spotify.com/track/4ddy537bdMvYLCCaKupb02"
+    },
+    {
+      "album": {
+        "name": "Warming Flames",
+        "url": "https://open.spotify.com/album/2zVqYLGlSEJ2OW2e6RjFVU"
+      },
+      "artists": [
+        {
+          "name": "Fire Harmony",
+          "url": "https://open.spotify.com/artist/4hUXF7qAiMMJ6I4jm1bivK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 153809,
+      "name": "Warming Flames",
+      "url": "https://open.spotify.com/track/0YAXLqo0KQW0OnAgol7rrW"
+    },
+    {
+      "album": {
+        "name": "Light up the room",
+        "url": "https://open.spotify.com/album/1PHjZMkgDRu4Y3BS1s6E1l"
+      },
+      "artists": [
+        {
+          "name": "Ray Karma",
+          "url": "https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Warming Flames",
+      "url": "https://open.spotify.com/track/5VrWtJqVWVE73FptPFz4Ed"
+    },
+    {
+      "album": {
+        "name": "Look at the Flame",
+        "url": "https://open.spotify.com/album/0hj8FLII6zyLSWiM2snq9Q"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 200000,
+      "name": "Warming Light",
+      "url": "https://open.spotify.com/track/5ER3k2XtpodLjxSmjzU65O"
+    },
+    {
+      "album": {
+        "name": "Fire & Sparks",
+        "url": "https://open.spotify.com/album/4Gnmhcic8ODRmyk3UIUL1k"
+      },
+      "artists": [
+        {
+          "name": "Fire Creator",
+          "url": "https://open.spotify.com/artist/3OwwaGqOstYK4uADW3dCN9"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162725,
+      "name": "Warming The House",
+      "url": "https://open.spotify.com/track/1pDUKdTTVxwTwzaZXckxiz"
+    },
+    {
+      "album": {
+        "name": "Warmth of Walpurgis",
+        "url": "https://open.spotify.com/album/1k9L2BmYYcngpj3RZPhJgw"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 184000,
+      "name": "Warmth of Walpurgis",
+      "url": "https://open.spotify.com/track/7pRxSnVUoLaGKXlBkdHkP1"
+    },
+    {
+      "album": {
+        "name": "Spring Fire",
+        "url": "https://open.spotify.com/album/3JhQKUgtDPeAnmITM5Rz3a"
+      },
+      "artists": [
+        {
+          "name": "Lumi\u00e8re",
+          "url": "https://open.spotify.com/artist/7pWH6NDnA9OtjCt3KbfCno"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Wholesome Flames",
+      "url": "https://open.spotify.com/track/2pd6uapNlfgrwnA9cD6lfP"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/3UlkPNErf6tKRgV63NIG0d"
+      },
+      "artists": [
+        {
+          "name": "Bonfire Sleep Sound",
+          "url": "https://open.spotify.com/artist/4qyBarAA064tSHmWNfEZ5y"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161239,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/32CgLBFA2Bvl3O71k0aLpy"
+    },
+    {
+      "album": {
+        "name": "Warmth of Walpurgis",
+        "url": "https://open.spotify.com/album/1k9L2BmYYcngpj3RZPhJgw"
+      },
+      "artists": [
+        {
+          "name": "FI. Ochre",
+          "url": "https://open.spotify.com/artist/06LSBzxnzO6uNItyI8TkkZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 168000,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/10V6MM02b9gk2YDaQdYixI"
+    },
+    {
+      "album": {
+        "name": "Same Old Flame",
+        "url": "https://open.spotify.com/album/2BoTzjqegBTiuBeMQuxzvF"
+      },
+      "artists": [
+        {
+          "name": "Ray Karma",
+          "url": "https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Wooden Fire",
+      "url": "https://open.spotify.com/track/1agzAN03kBYjwhA4pDIG9o"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaa8UmWJHYTU"
 }

@@ -1,173 +1,411 @@
 {
-  "2023-07-15": 2,
-  "2023-07-16": 13,
-  "2023-07-17": 26,
-  "2023-07-18": 37,
-  "2023-07-19": 69,
-  "2023-07-20": 96,
-  "2023-07-21": 117,
-  "2023-07-22": 147,
-  "2023-07-23": 171,
-  "2023-07-24": 199,
-  "2023-07-25": 216,
-  "2023-07-26": 253,
-  "2023-07-27": 297,
-  "2023-07-28": 335,
-  "2023-07-29": 364,
-  "2023-07-30": 410,
-  "2023-07-31": 436,
-  "2023-08-01": 459,
-  "2023-08-02": 479,
-  "2023-08-03": 508,
-  "2023-08-04": 548,
-  "2023-08-05": 581,
-  "2023-08-06": 638,
-  "2023-08-07": 638,
-  "2023-08-08": 658,
-  "2023-08-09": 694,
-  "2023-08-10": 715,
-  "2023-08-11": 742,
-  "2023-08-12": 766,
-  "2023-08-13": 800,
-  "2023-08-14": 828,
-  "2023-08-15": 882,
-  "2023-08-16": 882,
-  "2023-08-17": 912,
-  "2023-08-18": 940,
-  "2023-08-19": 962,
-  "2023-08-20": 1014,
-  "2023-08-21": 1045,
-  "2023-08-22": 1084,
-  "2023-08-23": 1110,
-  "2023-08-24": 1151,
-  "2023-08-25": 1198,
-  "2023-08-26": 1222,
-  "2023-08-27": 1249,
-  "2023-08-28": 1279,
-  "2023-08-29": 1304,
-  "2023-08-30": 1334,
-  "2023-08-31": 1358,
-  "2023-09-01": 1434,
-  "2023-09-02": 1434,
-  "2023-09-03": 1468,
-  "2023-09-04": 1501,
-  "2023-09-05": 1537,
-  "2023-09-06": 1575,
-  "2023-09-07": 1609,
-  "2023-09-08": 1642,
-  "2023-09-09": 1675,
-  "2023-09-10": 1721,
-  "2023-09-11": 1763,
-  "2023-09-12": 1802,
-  "2023-09-13": 1861,
-  "2023-09-14": 1896,
-  "2023-09-15": 1940,
-  "2023-09-16": 1979,
-  "2023-09-17": 1979,
-  "2023-09-18": 2048,
-  "2023-09-19": 2075,
-  "2023-09-20": 2098,
-  "2023-09-21": 2133,
-  "2023-09-22": 2157,
-  "2023-09-23": 2186,
-  "2023-09-24": 2186,
-  "2023-09-25": 2242,
-  "2023-09-26": 2275,
-  "2023-09-27": 2294,
-  "2023-09-28": 2323,
-  "2023-09-29": 2346,
-  "2023-09-30": 2346,
-  "2023-10-01": 2411,
-  "2023-10-02": 2436,
-  "2023-10-03": 2460,
-  "2023-10-04": 2483,
-  "2023-10-05": 2523,
-  "2023-10-06": 2560,
-  "2023-10-07": 2601,
-  "2023-10-08": 2635,
-  "2023-10-09": 2635,
-  "2023-10-10": 2693,
-  "2023-10-11": 2752,
-  "2023-10-12": 2752,
-  "2023-10-13": 2778,
-  "2023-10-14": 2778,
-  "2023-10-15": 2778,
-  "2023-10-16": 2778,
-  "2023-10-17": 2778,
-  "2023-10-18": 2778,
-  "2023-10-19": 2990,
-  "2023-10-20": 2990,
-  "2023-10-21": 2990,
-  "2023-10-22": 2990,
-  "2023-10-23": 3075,
-  "2023-10-24": 3099,
-  "2023-10-25": 3099,
-  "2023-10-26": 3099,
-  "2023-10-27": 3099,
-  "2023-10-28": 3099,
-  "2023-10-29": 3099,
-  "2023-10-30": 3099,
-  "2023-10-31": 3099,
-  "2023-11-01": 3099,
-  "2023-11-02": 3099,
-  "2023-11-03": 3099,
-  "2023-11-04": 3099,
-  "2023-11-05": 3099,
-  "2023-11-06": 3099,
-  "2023-11-07": 3099,
-  "2023-11-08": 3099,
-  "2023-11-09": 3099,
-  "2023-11-10": 3099,
-  "2023-11-11": 3620,
-  "2023-11-12": 3644,
-  "2023-11-13": 3644,
-  "2023-11-14": 3644,
-  "2023-11-15": 3644,
-  "2023-11-16": 3644,
-  "2023-11-17": 3835,
-  "2023-11-18": 3835,
-  "2023-11-19": 3835,
-  "2023-11-20": 3835,
-  "2023-11-21": 3835,
-  "2023-11-22": 3835,
-  "2023-11-23": 3960,
-  "2023-11-24": 3960,
-  "2023-11-25": 3960,
-  "2023-11-26": 3960,
-  "2023-11-27": 3960,
-  "2023-11-28": 3960,
-  "2023-11-29": 3960,
-  "2023-11-30": 3960,
-  "2023-12-01": 3960,
-  "2023-12-02": 3960,
-  "2023-12-03": 3960,
-  "2023-12-04": 3960,
-  "2023-12-05": 3960,
-  "2023-12-06": 3960,
-  "2023-12-07": 3960,
-  "2023-12-08": 3960,
-  "2023-12-09": 4517,
-  "2023-12-10": 4517,
-  "2023-12-11": 4574,
-  "2023-12-12": 4574,
-  "2023-12-13": 4574,
-  "2023-12-14": 4662,
-  "2023-12-15": 4678,
-  "2023-12-16": 4699,
-  "2023-12-17": 4722,
-  "2023-12-18": 4743,
-  "2023-12-19": 4764,
-  "2023-12-20": 4794,
-  "2023-12-21": 4818,
-  "2023-12-22": 4840,
-  "2023-12-23": 4862,
-  "2023-12-24": 4889,
-  "2023-12-25": 4919,
-  "2023-12-26": 4938,
-  "2023-12-27": 4958,
-  "2023-12-30": 5036,
-  "2023-12-31": 5050,
-  "2024-01-01": 5081,
-  "2024-01-02": 5099,
-  "2024-01-03": 5125
+  "2024-01-17": 5498,
+  "date_first_scraped": "2023-07-15",
+  "description": "All the Latin hits that have graced the top of the charts. Cover: Xavi",
+  "name": "Viva Latino No. 1s",
+  "tracks": [
+    {
+      "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "album": {
+        "name": "Despacito Feat. Justin Bieber (Remix)",
+        "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228826,
+      "name": "Despacito - Remix",
+      "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
+    },
+    {
+      "album": {
+        "name": "D\u00c1KITI",
+        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
+    },
+    {
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
+    },
+    {
+      "album": {
+        "name": "MIA (feat. Drake)",
+        "url": "https://open.spotify.com/album/2xqopbc18kE4p2lIUzoO0G"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210367,
+      "name": "MIA (feat. Drake)",
+      "url": "https://open.spotify.com/track/3Ueq2zboxwAbsvHrOjdEqz"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "album": {
+        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188361,
+      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214945,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "album": {
+        "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "album": {
+        "name": "TQG",
+        "url": "https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198360,
+      "name": "TQG",
+      "url": "https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx"
+    },
+    {
+      "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbzvkbLgvQvI"
 }

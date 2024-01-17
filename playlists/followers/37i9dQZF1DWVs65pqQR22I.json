@@ -1,298 +1,3331 @@
 {
-  "2023-03-11": 14,
-  "2023-03-12": 82,
-  "2023-03-13": 159,
-  "2023-03-14": 235,
-  "2023-03-15": 316,
-  "2023-03-16": 405,
-  "2023-03-17": 405,
-  "2023-03-18": 575,
-  "2023-03-19": 641,
-  "2023-03-20": 746,
-  "2023-03-21": 875,
-  "2023-03-22": 1012,
-  "2023-03-23": 1135,
-  "2023-03-24": 1135,
-  "2023-03-25": 1384,
-  "2023-03-26": 1487,
-  "2023-03-27": 1617,
-  "2023-03-28": 1748,
-  "2023-03-29": 1914,
-  "2023-03-30": 2128,
-  "2023-03-31": 2128,
-  "2023-04-01": 2228,
-  "2023-04-02": 2330,
-  "2023-04-03": 2447,
-  "2023-04-04": 2558,
-  "2023-04-05": 2671,
-  "2023-04-06": 2817,
-  "2023-04-07": 2923,
-  "2023-04-09": 3142,
-  "2023-04-10": 3253,
-  "2023-04-11": 3535,
-  "2023-04-12": 3535,
-  "2023-04-13": 3669,
-  "2023-04-14": 3782,
-  "2023-04-15": 3884,
-  "2023-04-16": 3985,
-  "2023-04-17": 4132,
-  "2023-04-18": 4287,
-  "2023-04-19": 4503,
-  "2023-04-20": 4657,
-  "2023-04-21": 4814,
-  "2023-04-22": 4949,
-  "2023-04-23": 5073,
-  "2023-04-24": 5243,
-  "2023-04-25": 5399,
-  "2023-04-26": 5598,
-  "2023-04-27": 5770,
-  "2023-04-28": 5909,
-  "2023-04-29": 6063,
-  "2023-04-30": 6191,
-  "2023-05-01": 6340,
-  "2023-05-02": 6496,
-  "2023-05-03": 6664,
-  "2023-05-04": 6801,
-  "2023-05-05": 6934,
-  "2023-05-06": 7069,
-  "2023-05-07": 7176,
-  "2023-05-08": 7326,
-  "2023-05-09": 7483,
-  "2023-05-10": 7621,
-  "2023-05-11": 7770,
-  "2023-05-12": 7917,
-  "2023-05-13": 8033,
-  "2023-05-14": 8156,
-  "2023-05-15": 8265,
-  "2023-05-16": 8390,
-  "2023-05-17": 8530,
-  "2023-05-18": 8659,
-  "2023-05-19": 8805,
-  "2023-05-20": 8989,
-  "2023-05-21": 8989,
-  "2023-05-22": 8989,
-  "2023-05-23": 9206,
-  "2023-05-24": 9368,
-  "2023-05-25": 9407,
-  "2023-05-26": 9487,
-  "2023-05-27": 9571,
-  "2023-05-28": 9659,
-  "2023-05-29": 9659,
-  "2023-05-30": 9832,
-  "2023-05-31": 9922,
-  "2023-06-01": 10025,
-  "2023-06-02": 10100,
-  "2023-06-03": 10161,
-  "2023-06-04": 10242,
-  "2023-06-05": 10322,
-  "2023-06-06": 10425,
-  "2023-06-07": 10517,
-  "2023-06-08": 10607,
-  "2023-06-09": 10693,
-  "2023-06-10": 10778,
-  "2023-06-11": 10849,
-  "2023-06-12": 10936,
-  "2023-06-13": 11021,
-  "2023-06-14": 11021,
-  "2023-06-15": 11171,
-  "2023-06-16": 11256,
-  "2023-06-17": 11308,
-  "2023-06-18": 11366,
-  "2023-06-19": 11425,
-  "2023-06-20": 11491,
-  "2023-06-21": 11584,
-  "2023-06-22": 11650,
-  "2023-06-23": 11742,
-  "2023-06-24": 11796,
-  "2023-06-25": 11845,
-  "2023-06-26": 11900,
-  "2023-06-27": 11977,
-  "2023-06-28": 12030,
-  "2023-06-29": 12105,
-  "2023-06-30": 12168,
-  "2023-07-01": 12300,
-  "2023-07-02": 12300,
-  "2023-07-03": 12371,
-  "2023-07-04": 12460,
-  "2023-07-05": 12534,
-  "2023-07-06": 12668,
-  "2023-07-07": 12668,
-  "2023-07-08": 12722,
-  "2023-07-09": 12757,
-  "2023-07-10": 12830,
-  "2023-07-11": 12917,
-  "2023-07-12": 12960,
-  "2023-07-13": 13018,
-  "2023-07-14": 13076,
-  "2023-07-15": 13122,
-  "2023-07-16": 13197,
-  "2023-07-17": 13250,
-  "2023-07-18": 13333,
-  "2023-07-19": 13405,
-  "2023-07-20": 13495,
-  "2023-07-21": 13563,
-  "2023-07-22": 13615,
-  "2023-07-23": 13672,
-  "2023-07-24": 13756,
-  "2023-07-25": 13846,
-  "2023-07-26": 13921,
-  "2023-07-27": 13991,
-  "2023-07-28": 14054,
-  "2023-07-29": 14143,
-  "2023-07-30": 14223,
-  "2023-07-31": 14298,
-  "2023-08-01": 14370,
-  "2023-08-02": 14461,
-  "2023-08-03": 14554,
-  "2023-08-04": 14630,
-  "2023-08-05": 14697,
-  "2023-08-06": 14860,
-  "2023-08-07": 14860,
-  "2023-08-08": 14935,
-  "2023-08-09": 15025,
-  "2023-08-10": 15114,
-  "2023-08-11": 15200,
-  "2023-08-12": 15266,
-  "2023-08-13": 15323,
-  "2023-08-14": 15410,
-  "2023-08-15": 15580,
-  "2023-08-16": 15580,
-  "2023-08-17": 15668,
-  "2023-08-18": 15772,
-  "2023-08-19": 15854,
-  "2023-08-20": 15914,
-  "2023-08-21": 15996,
-  "2023-08-22": 16098,
-  "2023-08-23": 16218,
-  "2023-08-24": 16312,
-  "2023-08-25": 16419,
-  "2023-08-26": 16500,
-  "2023-08-27": 16585,
-  "2023-08-28": 16676,
-  "2023-08-29": 16766,
-  "2023-08-30": 16860,
-  "2023-08-31": 16941,
-  "2023-09-01": 17132,
-  "2023-09-02": 17132,
-  "2023-09-03": 17207,
-  "2023-09-04": 17319,
-  "2023-09-05": 17435,
-  "2023-09-06": 17563,
-  "2023-09-07": 17684,
-  "2023-09-08": 17809,
-  "2023-09-09": 17899,
-  "2023-09-10": 17989,
-  "2023-09-11": 18091,
-  "2023-09-12": 18209,
-  "2023-09-13": 18327,
-  "2023-09-14": 18419,
-  "2023-09-15": 18530,
-  "2023-09-16": 18623,
-  "2023-09-17": 18717,
-  "2023-09-18": 18822,
-  "2023-09-19": 18943,
-  "2023-09-20": 19041,
-  "2023-09-21": 19169,
-  "2023-09-22": 19282,
-  "2023-09-23": 19365,
-  "2023-09-24": 19466,
-  "2023-09-25": 19562,
-  "2023-09-26": 19669,
-  "2023-09-27": 19727,
-  "2023-09-28": 19794,
-  "2023-09-29": 19883,
-  "2023-09-30": 19961,
-  "2023-10-01": 20030,
-  "2023-10-02": 20109,
-  "2023-10-03": 20203,
-  "2023-10-04": 20302,
-  "2023-10-05": 20403,
-  "2023-10-06": 20493,
-  "2023-10-07": 20567,
-  "2023-10-08": 20636,
-  "2023-10-09": 20697,
-  "2023-10-10": 20767,
-  "2023-10-11": 20950,
-  "2023-10-12": 20950,
-  "2023-10-13": 21065,
-  "2023-10-14": 21150,
-  "2023-10-15": 21227,
-  "2023-10-16": 21304,
-  "2023-10-17": 21405,
-  "2023-10-18": 21499,
-  "2023-10-19": 21590,
-  "2023-10-20": 21693,
-  "2023-10-21": 21757,
-  "2023-10-22": 21846,
-  "2023-10-23": 21950,
-  "2023-10-24": 22073,
-  "2023-10-25": 22177,
-  "2023-10-26": 22279,
-  "2023-10-27": 22379,
-  "2023-10-28": 22447,
-  "2023-10-29": 22520,
-  "2023-10-30": 22696,
-  "2023-10-31": 22696,
-  "2023-11-01": 22782,
-  "2023-11-02": 22878,
-  "2023-11-03": 22984,
-  "2023-11-04": 23065,
-  "2023-11-05": 23135,
-  "2023-11-06": 23245,
-  "2023-11-07": 23333,
-  "2023-11-08": 23466,
-  "2023-11-09": 23555,
-  "2023-11-10": 23641,
-  "2023-11-11": 23719,
-  "2023-11-12": 23784,
-  "2023-11-13": 23845,
-  "2023-11-14": 23927,
-  "2023-11-15": 23927,
-  "2023-11-16": 24115,
-  "2023-11-17": 24266,
-  "2023-11-18": 24266,
-  "2023-11-19": 24326,
-  "2023-11-20": 24403,
-  "2023-11-21": 24516,
-  "2023-11-22": 24598,
-  "2023-11-23": 24668,
-  "2023-11-24": 24738,
-  "2023-11-25": 24795,
-  "2023-11-26": 24886,
-  "2023-11-27": 24988,
-  "2023-11-28": 25078,
-  "2023-11-29": 25270,
-  "2023-11-30": 25270,
-  "2023-12-01": 25362,
-  "2023-12-02": 25440,
-  "2023-12-03": 25514,
-  "2023-12-04": 25596,
-  "2023-12-05": 25698,
-  "2023-12-06": 25793,
-  "2023-12-07": 25880,
-  "2023-12-08": 25992,
-  "2023-12-09": 26093,
-  "2023-12-10": 26191,
-  "2023-12-11": 26300,
-  "2023-12-12": 26414,
-  "2023-12-13": 26496,
-  "2023-12-14": 26608,
-  "2023-12-15": 26659,
-  "2023-12-16": 26765,
-  "2023-12-17": 26839,
-  "2023-12-18": 26915,
-  "2023-12-19": 26991,
-  "2023-12-20": 27070,
-  "2023-12-21": 27152,
-  "2023-12-22": 27238,
-  "2023-12-23": 27301,
-  "2023-12-24": 27379,
-  "2023-12-25": 27462,
-  "2023-12-26": 27526,
-  "2023-12-27": 27615,
-  "2023-12-30": 27871,
-  "2023-12-31": 27961,
-  "2024-01-01": 28045,
-  "2024-01-02": 28123,
-  "2024-01-03": 28215
+  "2024-01-17": 29617,
+  "date_first_scraped": "2023-03-11",
+  "description": "Dark noise to keep you sharp and focused during your study session. ",
+  "name": "Black Noise",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ambient Black Noise",
+        "url": "https://open.spotify.com/album/011O4hLo0E8wvkPNWqIZzq"
+      },
+      "artists": [
+        {
+          "name": "A.I.C 83",
+          "url": "https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197671,
+      "name": "Ambient Black Noise",
+      "url": "https://open.spotify.com/track/6T4wVXecRZTDtxSrsdTquP"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes To Black Noise",
+        "url": "https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe"
+      },
+      "artists": [
+        {
+          "name": "BGVV",
+          "url": "https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 118886,
+      "name": "Basic Black Noise",
+      "url": "https://open.spotify.com/track/6J2yyOFwtf0X3YHeuV7WUe"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleeping",
+        "url": "https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Sleep",
+          "url": "https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4"
+        },
+        {
+          "name": "Black Noise Loops",
+          "url": "https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 90084,
+      "name": "Binaural Black Noise",
+      "url": "https://open.spotify.com/track/3WLZhTokDDYoXEp2rUqEey"
+    },
+    {
+      "album": {
+        "name": "BLK NSE 001",
+        "url": "https://open.spotify.com/album/7K8USBKZ0t2g6IMH8ekIkQ"
+      },
+      "artists": [
+        {
+          "name": "Plectrasonics",
+          "url": "https://open.spotify.com/artist/2dyUwQxoYt3ersIjh4Z77v"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164347,
+      "name": "Black Boise Obsidian Waves",
+      "url": "https://open.spotify.com/track/5A74rkqQsEUJt9l8RF9wsr"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleeping",
+        "url": "https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Sleep",
+          "url": "https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4"
+        },
+        {
+          "name": "Black Noise Loops",
+          "url": "https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 90086,
+      "name": "Black Noise",
+      "url": "https://open.spotify.com/track/0Be0z5LBqoFKnPFa7zv0Tn"
+    },
+    {
+      "album": {
+        "name": "Black Noise Vol. 1",
+        "url": "https://open.spotify.com/album/42W13BUpgS9LHN7qEKG0fx"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "Black Noise (LP 83hz)",
+      "url": "https://open.spotify.com/track/3U4nVSlAR6yNlAF0UwZcYd"
+    },
+    {
+      "album": {
+        "name": "Soothing Black Noise",
+        "url": "https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc"
+      },
+      "artists": [
+        {
+          "name": "LBE Sound Factory",
+          "url": "https://open.spotify.com/artist/2KH7b9r4W32S6NlIKaf1Fc"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 135017,
+      "name": "Black Noise - Relaxation",
+      "url": "https://open.spotify.com/track/2LJK4Tr9BY9qz2N9vMtJLx"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleeping",
+        "url": "https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Sleep",
+          "url": "https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4"
+        },
+        {
+          "name": "Black Noise Loops",
+          "url": "https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 70370,
+      "name": "Black Noise 200 Hz",
+      "url": "https://open.spotify.com/track/5RtVe2D7d22mJHoWyeUs7t"
+    },
+    {
+      "album": {
+        "name": "Black Noise Loopable",
+        "url": "https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Therapy",
+          "url": "https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM"
+        },
+        {
+          "name": "Black Noise Loopable",
+          "url": "https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 95562,
+      "name": "Black Noise Atmosphere",
+      "url": "https://open.spotify.com/track/7BptRteRhIc7S6uUE4Yd8K"
+    },
+    {
+      "album": {
+        "name": "Relaxing Black Noise Sounds",
+        "url": "https://open.spotify.com/album/3mBWZqwhnCwlhzeWnX27YM"
+      },
+      "artists": [
+        {
+          "name": "Suburban DZ",
+          "url": "https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Black Noise Bliss",
+      "url": "https://open.spotify.com/track/2vzASEraCzNjxtKiyMMw6t"
+    },
+    {
+      "album": {
+        "name": "Black Noise Brainwaves",
+        "url": "https://open.spotify.com/album/0RxgWTvsPWPONveWKrt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Soundverb",
+          "url": "https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313562,
+      "name": "Black Noise Brainwaves",
+      "url": "https://open.spotify.com/track/26rQZ6fJl7zsWL9A6Dg5tv"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleeping",
+        "url": "https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Sleep",
+          "url": "https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4"
+        },
+        {
+          "name": "Black Noise Loops",
+          "url": "https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 89543,
+      "name": "Black Noise Calm Your Mind",
+      "url": "https://open.spotify.com/track/2xdwQs5ww2BeMmwyiQQwnX"
+    },
+    {
+      "album": {
+        "name": "Soothing Black Noise for Stress Relief",
+        "url": "https://open.spotify.com/album/2CsPVS3h8C0uahyXQqzl3W"
+      },
+      "artists": [
+        {
+          "name": "Noise Library",
+          "url": "https://open.spotify.com/artist/1wFEHvHdcbuWVxo6reRywR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 136719,
+      "name": "Black Noise Calmness",
+      "url": "https://open.spotify.com/track/42n0kVOXzIdDB7X6hs6qLb"
+    },
+    {
+      "album": {
+        "name": "Black Noise Catalyst",
+        "url": "https://open.spotify.com/album/1w6NpqkwpD0RCpZXT42tY7"
+      },
+      "artists": [
+        {
+          "name": "Noyze Freq",
+          "url": "https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324336,
+      "name": "Black Noise Catalyst",
+      "url": "https://open.spotify.com/track/4tqi2pEfw5SGlKhRRccjMs"
+    },
+    {
+      "album": {
+        "name": "Black Noise Detox",
+        "url": "https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1"
+      },
+      "artists": [
+        {
+          "name": "Doze Off",
+          "url": "https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 118949,
+      "name": "Black Noise Detox",
+      "url": "https://open.spotify.com/track/6wOzuuFkPC8B6D627hwMh3"
+    },
+    {
+      "album": {
+        "name": "Deep Sleep with Black Noise",
+        "url": "https://open.spotify.com/album/3AHDCQsMfbtu6Yed2NSoLA"
+      },
+      "artists": [
+        {
+          "name": "Crafting Audio",
+          "url": "https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "Black Noise Dreams",
+      "url": "https://open.spotify.com/track/1TJf1NqEz3KhyOwXWyWQXb"
+    },
+    {
+      "album": {
+        "name": "Black Noise Illusion",
+        "url": "https://open.spotify.com/album/1KdrVDgj7zg1FQdZhN7ecT"
+      },
+      "artists": [
+        {
+          "name": "aquamcaelo",
+          "url": "https://open.spotify.com/artist/3gkO4ZXcG2LyYFRuUn01eN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "Black Noise Echoes",
+      "url": "https://open.spotify.com/track/7ns9LIhwLORwcqlp1CmkrF"
+    },
+    {
+      "album": {
+        "name": "Black Noise Flow",
+        "url": "https://open.spotify.com/album/4aNzsxsepFfomWsCbpylAO"
+      },
+      "artists": [
+        {
+          "name": "Dinkotrons",
+          "url": "https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Black Noise Flow",
+      "url": "https://open.spotify.com/track/69giPBrDWEcyuTPVyPBG9m"
+    },
+    {
+      "album": {
+        "name": "Black Noise FLuff",
+        "url": "https://open.spotify.com/album/4RJIOa4oQTbjjKQU3u4fbr"
+      },
+      "artists": [
+        {
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Black Noise FLuff",
+      "url": "https://open.spotify.com/track/2DYugakipXLiLjIKNIo15K"
+    },
+    {
+      "album": {
+        "name": "Black Noise Focus",
+        "url": "https://open.spotify.com/album/5sP7LLLaBgw7pzMkWSfroY"
+      },
+      "artists": [
+        {
+          "name": "Linus Xio",
+          "url": "https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270466,
+      "name": "Black Noise Focus",
+      "url": "https://open.spotify.com/track/2NH1KZNvtssanbH5LSyd2d"
+    },
+    {
+      "album": {
+        "name": "Black Noise Therapy",
+        "url": "https://open.spotify.com/album/1x2hCe8u45zaDDTcMMJlH4"
+      },
+      "artists": [
+        {
+          "name": "Evomin",
+          "url": "https://open.spotify.com/artist/377XEfaskiPevvTMYzJvUb"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 168669,
+      "name": "Black Noise for a Good Night's Sleep",
+      "url": "https://open.spotify.com/track/0TO0pKnZmxIQr9cuvbtOx0"
+    },
+    {
+      "album": {
+        "name": "Black Noise for Inner Peace",
+        "url": "https://open.spotify.com/album/6xGyGZ5YoMEByVmdVge96G"
+      },
+      "artists": [
+        {
+          "name": "No Shapes Island",
+          "url": "https://open.spotify.com/artist/2yllrSykto1kVMIOhbwed4"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 119629,
+      "name": "Black Noise for Inner Peace",
+      "url": "https://open.spotify.com/track/1Cz9wBvWLeop8IWZuJTAnO"
+    },
+    {
+      "album": {
+        "name": "Black Noise for Insomnia",
+        "url": "https://open.spotify.com/album/74foFH0uTQQ7JIiikT5AfD"
+      },
+      "artists": [
+        {
+          "name": "Noise Factory",
+          "url": "https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 179486,
+      "name": "Black Noise for Insomnia",
+      "url": "https://open.spotify.com/track/6kGOLjPvXXhp9Qo6pOXBPS"
+    },
+    {
+      "album": {
+        "name": "The Calming Atmosphere of Black Noise",
+        "url": "https://open.spotify.com/album/6t7mWJyJ9gRUuuuExElIGh"
+      },
+      "artists": [
+        {
+          "name": "Bits & Noise",
+          "url": "https://open.spotify.com/artist/7kcK3nZZHSgYrQLdexefpQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143406,
+      "name": "Black Noise for Massage",
+      "url": "https://open.spotify.com/track/6EsJRKtDA5iqu2iRJPTcWz"
+    },
+    {
+      "album": {
+        "name": "Robots Treasure Black Noise",
+        "url": "https://open.spotify.com/album/2zXVBLKJ324oHVsvdnB9S6"
+      },
+      "artists": [
+        {
+          "name": "Utmost-@mos",
+          "url": "https://open.spotify.com/artist/2rTA4Aq0QblqZJ2AwY7R4n"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Black Noise For Robots",
+      "url": "https://open.spotify.com/track/1xtNokYAa7qTEqUnMLOWXZ"
+    },
+    {
+      "album": {
+        "name": "Black Noise For Sleep",
+        "url": "https://open.spotify.com/album/1ApPzA3mdMFjAI1Uxp94Kk"
+      },
+      "artists": [
+        {
+          "name": "Dreams of Dreams",
+          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 157312,
+      "name": "Black Noise For Sleep",
+      "url": "https://open.spotify.com/track/5eYtHYn4rz6eqsGM5dhKXV"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleeping",
+        "url": "https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Sleep",
+          "url": "https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4"
+        },
+        {
+          "name": "Black Noise Loops",
+          "url": "https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 89227,
+      "name": "Black Noise For Sleeping",
+      "url": "https://open.spotify.com/track/4cXiVvyYx7eGrbKc5Rn8JX"
+    },
+    {
+      "album": {
+        "name": "Black Noise Vol. 1",
+        "url": "https://open.spotify.com/album/42W13BUpgS9LHN7qEKG0fx"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149023,
+      "name": "Black Noise For Sleeping",
+      "url": "https://open.spotify.com/track/0J8jAEXeTS21eh1h2iBdCa"
+    },
+    {
+      "album": {
+        "name": "Black Noise For Focus",
+        "url": "https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151103,
+      "name": "Black Noise For Studying",
+      "url": "https://open.spotify.com/track/5oyU35dwkrMs67dzsye7sN"
+    },
+    {
+      "album": {
+        "name": "Black Noise for Mindfulness",
+        "url": "https://open.spotify.com/album/3IeWkygVTC4yflbvYt4spA"
+      },
+      "artists": [
+        {
+          "name": "Blimba",
+          "url": "https://open.spotify.com/artist/42XvJnFdC4wFTCn1aiMafa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "Black Noise for Yoga",
+      "url": "https://open.spotify.com/track/2pdPvcSE4kobDNwmTZkQuV"
+    },
+    {
+      "album": {
+        "name": "Black Noise EP 2",
+        "url": "https://open.spotify.com/album/0jWyuo8KyPYsSIwHrf1lga"
+      },
+      "artists": [
+        {
+          "name": "Sleep Liquids",
+          "url": "https://open.spotify.com/artist/5V9IfR9NEcllAjfEif5TBC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Black Noise Frequency - Seamless",
+      "url": "https://open.spotify.com/track/4juAycN0v3WqVzj3oQdZkU"
+    },
+    {
+      "album": {
+        "name": "Lights And Black Noise",
+        "url": "https://open.spotify.com/album/4i5FRp5NdxuIcWOmT0iYQY"
+      },
+      "artists": [
+        {
+          "name": "Noise Eternity",
+          "url": "https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
+      "duration_ms": 158864,
+      "name": "Black Noise From Space",
+      "url": "https://open.spotify.com/track/7A0DLnuNxVD2Whl4VIfT62"
+    },
+    {
+      "album": {
+        "name": "Waves & Black Noise",
+        "url": "https://open.spotify.com/album/2fxz3HVHCsn9fqh2eIebBr"
+      },
+      "artists": [
+        {
+          "name": "XLD Library",
+          "url": "https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 127738,
+      "name": "Black Noise FX",
+      "url": "https://open.spotify.com/track/3DCuoxRqt5URaDGPwtdlq9"
+    },
+    {
+      "album": {
+        "name": "Black Noise Ritual",
+        "url": "https://open.spotify.com/album/2xLJSlC4ZJiC41LbQui8Nq"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Rivers",
+          "url": "https://open.spotify.com/artist/3szZThecJLcLc88TcXALuU"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Black Noise Ghost Frequency",
+      "url": "https://open.spotify.com/track/6bCBk1mbwmkCzRiq21Bm0h"
+    },
+    {
+      "album": {
+        "name": "Black Noise Haven",
+        "url": "https://open.spotify.com/album/6ymMlHHmCbSgtf4qWTAXFU"
+      },
+      "artists": [
+        {
+          "name": "BCCF",
+          "url": "https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 156038,
+      "name": "Black Noise Haven",
+      "url": "https://open.spotify.com/track/3rXPHr1qTde5d7O64q99rl"
+    },
+    {
+      "album": {
+        "name": "Shadowed",
+        "url": "https://open.spotify.com/album/0445XHdWpLnzpmuC005AGv"
+      },
+      "artists": [
+        {
+          "name": "Gloomy Prospect",
+          "url": "https://open.spotify.com/artist/1OYRWeC9zr4IwNCE3V3I8g"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173824,
+      "name": "Black Noise Inner Peace",
+      "url": "https://open.spotify.com/track/16wb5P5l1oLwmQDpFS7sBw"
+    },
+    {
+      "album": {
+        "name": "Black Noise Loopable",
+        "url": "https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Therapy",
+          "url": "https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM"
+        },
+        {
+          "name": "Black Noise Loopable",
+          "url": "https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 133427,
+      "name": "Black Noise Loopable No Fade",
+      "url": "https://open.spotify.com/track/6DDZ4xQa6zeic65kTZVlyi"
+    },
+    {
+      "album": {
+        "name": "Healing Black Noise",
+        "url": "https://open.spotify.com/album/4vTf5vLobu75WEgLrpFKGu"
+      },
+      "artists": [
+        {
+          "name": "Naturelle",
+          "url": "https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 133003,
+      "name": "Black Noise Lullaby",
+      "url": "https://open.spotify.com/track/2dVNkNt8qRnnsEbzHWifHU"
+    },
+    {
+      "album": {
+        "name": "Calmed By The Black Noise",
+        "url": "https://open.spotify.com/album/00VOYEZMRvtzOwvKVMKd7K"
+      },
+      "artists": [
+        {
+          "name": "Odd Recordings",
+          "url": "https://open.spotify.com/artist/0lhOaH03r7Lvt8UpOBCHOk"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123600,
+      "name": "Black Noise Lullaby",
+      "url": "https://open.spotify.com/track/5C6rNHrxqyhhEw4EybyGJq"
+    },
+    {
+      "album": {
+        "name": "Black Noise Detox",
+        "url": "https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1"
+      },
+      "artists": [
+        {
+          "name": "Doze Off",
+          "url": "https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195347,
+      "name": "Black Noise Medicine",
+      "url": "https://open.spotify.com/track/3ErI5QWiPygevXOeeXntOO"
+    },
+    {
+      "album": {
+        "name": "Serene Black Noise Melodies",
+        "url": "https://open.spotify.com/album/00SIpBgbHleiWvn8U4uQqk"
+      },
+      "artists": [
+        {
+          "name": "Soundstars",
+          "url": "https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 155082,
+      "name": "Black Noise Meditation",
+      "url": "https://open.spotify.com/track/6j6JSiOY5hpeI9orUoY3UU"
+    },
+    {
+      "album": {
+        "name": "Relaxing Black Noise Sounds",
+        "url": "https://open.spotify.com/album/3mBWZqwhnCwlhzeWnX27YM"
+      },
+      "artists": [
+        {
+          "name": "Suburban DZ",
+          "url": "https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Black Noise Meditation",
+      "url": "https://open.spotify.com/track/16RdggNSGletPKlMX5QE3B"
+    },
+    {
+      "album": {
+        "name": "Placid Black Noise",
+        "url": "https://open.spotify.com/album/062LOMoeL90kizJiCxeVOS"
+      },
+      "artists": [
+        {
+          "name": "Contented",
+          "url": "https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Black Noise Mind Mull",
+      "url": "https://open.spotify.com/track/3ijpEiWNuUmARUHefxSOvd"
+    },
+    {
+      "album": {
+        "name": "The Sound of Oblivion",
+        "url": "https://open.spotify.com/album/3r9FKfDnjL79m8AlFU741X"
+      },
+      "artists": [
+        {
+          "name": "Ever Falling",
+          "url": "https://open.spotify.com/artist/2KJhBWi1u1HIuSZlw7nwXi"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169825,
+      "name": "Black Noise Oasis",
+      "url": "https://open.spotify.com/track/0maZtGPjjVCghxoE6qhV78"
+    },
+    {
+      "album": {
+        "name": "Soothing Black Noise for Stress Relief",
+        "url": "https://open.spotify.com/album/2CsPVS3h8C0uahyXQqzl3W"
+      },
+      "artists": [
+        {
+          "name": "Noise Library",
+          "url": "https://open.spotify.com/artist/1wFEHvHdcbuWVxo6reRywR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 118143,
+      "name": "Black Noise Relaxation",
+      "url": "https://open.spotify.com/track/0FDckXTmkKEo0rte0hroRr"
+    },
+    {
+      "album": {
+        "name": "Engage With Black Noise",
+        "url": "https://open.spotify.com/album/0PLAcdrgrd8yLQh2gMMskB"
+      },
+      "artists": [
+        {
+          "name": "Drowse Off",
+          "url": "https://open.spotify.com/artist/318hciCz2MiTnD1Mgb0BBG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Black Noise Rest",
+      "url": "https://open.spotify.com/track/4Th5NWS92jaMGFj0vSroMH"
+    },
+    {
+      "album": {
+        "name": "Shadowed",
+        "url": "https://open.spotify.com/album/0445XHdWpLnzpmuC005AGv"
+      },
+      "artists": [
+        {
+          "name": "Gloomy Prospect",
+          "url": "https://open.spotify.com/artist/1OYRWeC9zr4IwNCE3V3I8g"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164282,
+      "name": "Black Noise Sanctuary",
+      "url": "https://open.spotify.com/track/5Z3JPKNjYHTgdgJhG8glbB"
+    },
+    {
+      "album": {
+        "name": "Black Noise Serenade",
+        "url": "https://open.spotify.com/album/0wZLfU9UB14vFGGmxbDmND"
+      },
+      "artists": [
+        {
+          "name": "Vizzionz",
+          "url": "https://open.spotify.com/artist/3VU6EADz81WPaKVs9mP30w"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 150836,
+      "name": "Black Noise Serenade",
+      "url": "https://open.spotify.com/track/1fc4SHlUOYSEVDKgZDACnR"
+    },
+    {
+      "album": {
+        "name": "Black Velvety Noise",
+        "url": "https://open.spotify.com/album/1R9tBo1NBK2G5qlX0KuIb4"
+      },
+      "artists": [
+        {
+          "name": "Sleep Potential",
+          "url": "https://open.spotify.com/artist/6ILcQ2MsnRyFr5JCy3ulCv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Black Noise Sleep Potential",
+      "url": "https://open.spotify.com/track/3WhSvtiHgMZmX7ZQBykqGF"
+    },
+    {
+      "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/51gGDgzoPx2BKrcssfpXD7"
+      },
+      "artists": [
+        {
+          "name": "Digital Sounds Recordings",
+          "url": "https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 104025,
+      "name": "Black Noise Slumber",
+      "url": "https://open.spotify.com/track/4GIug5txfAWKuOBL2GCn8U"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleepy",
+        "url": "https://open.spotify.com/album/4ArxXYaDy6eQ84wKVQsMgO"
+      },
+      "artists": [
+        {
+          "name": "Calmatics",
+          "url": "https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192419,
+      "name": "Black Noise Snooze",
+      "url": "https://open.spotify.com/track/6iL9CPNmT5uWqkpDQN1Jlx"
+    },
+    {
+      "album": {
+        "name": "Black Noise Horizon",
+        "url": "https://open.spotify.com/album/7gxZVBSuFkUgZFk3zq9F2Q"
+      },
+      "artists": [
+        {
+          "name": "Hypnotic Hum",
+          "url": "https://open.spotify.com/artist/3oNp5NEMGyH4PwPNCDLLVb"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Black Noise Solace",
+      "url": "https://open.spotify.com/track/4ITsOTljlhrz70ZWHjMCBC"
+    },
+    {
+      "album": {
+        "name": "Lost In Black Noise",
+        "url": "https://open.spotify.com/album/0rCiDBPue0J2bnmLSl0AXo"
+      },
+      "artists": [
+        {
+          "name": "Deep Noise Machin",
+          "url": "https://open.spotify.com/artist/6xOYUbDXLImd6dSvQdBD5Q"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 160382,
+      "name": "Black Noise Songs",
+      "url": "https://open.spotify.com/track/1f1QfKUcavioBhq77fxHcH"
+    },
+    {
+      "album": {
+        "name": "Gentle Black Noise",
+        "url": "https://open.spotify.com/album/0Gv8mzDoswMXHLSKd6j02w"
+      },
+      "artists": [
+        {
+          "name": "Timmid",
+          "url": "https://open.spotify.com/artist/7biX22cIP5NyuORMdCWF8R"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 173127,
+      "name": "Black Noise Symphony",
+      "url": "https://open.spotify.com/track/6WcbLeNx4OkWKnn3HQkIqL"
+    },
+    {
+      "album": {
+        "name": "Black Noise For Focus",
+        "url": "https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "Black Noise Thunderstorm",
+      "url": "https://open.spotify.com/track/3d4bn6YHAmrSXD1U234F4v"
+    },
+    {
+      "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/51gGDgzoPx2BKrcssfpXD7"
+      },
+      "artists": [
+        {
+          "name": "Digital Sounds Recordings",
+          "url": "https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 112198,
+      "name": "Black Noise Tranquility",
+      "url": "https://open.spotify.com/track/10mhGALGkJ7FMxBsaEXHsw"
+    },
+    {
+      "album": {
+        "name": "Black Noise Universe",
+        "url": "https://open.spotify.com/album/1C54Fxxd49QProMvtY6Xhq"
+      },
+      "artists": [
+        {
+          "name": "Relaxatron",
+          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Black Noise Universe",
+      "url": "https://open.spotify.com/track/5LeViBU9IUPorzEzVEgyyj"
+    },
+    {
+      "album": {
+        "name": "BLK NSE 001",
+        "url": "https://open.spotify.com/album/7K8USBKZ0t2g6IMH8ekIkQ"
+      },
+      "artists": [
+        {
+          "name": "Plectrasonics",
+          "url": "https://open.spotify.com/artist/2dyUwQxoYt3ersIjh4Z77v"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183686,
+      "name": "Black Noise Voidance",
+      "url": "https://open.spotify.com/track/3pjaTJqHqDTvTSlc0SgGjK"
+    },
+    {
+      "album": {
+        "name": "Black Opal Dream",
+        "url": "https://open.spotify.com/album/4QoFfiDYebLXDIYtcvPzRK"
+      },
+      "artists": [
+        {
+          "name": "Vita Nova",
+          "url": "https://open.spotify.com/artist/73NuuIXGeBU7AyknDXY5A2"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145635,
+      "name": "Black Opal Dream",
+      "url": "https://open.spotify.com/track/0N1DWnhCPKHZtVQHG0nzfb"
+    },
+    {
+      "album": {
+        "name": "* sounds for deep sleep *",
+        "url": "https://open.spotify.com/album/6XbN18MC8VAasfRiC5YStB"
+      },
+      "artists": [
+        {
+          "name": "White Noise for Babies",
+          "url": "https://open.spotify.com/artist/4ZfEELHfyKd4odAb6YfDFw"
+        },
+        {
+          "name": "Deep Sleep",
+          "url": "https://open.spotify.com/artist/4gGGFclZZyED2i5BgzGAlD"
+        },
+        {
+          "name": "White Noise Therapy",
+          "url": "https://open.spotify.com/artist/1O7bUkov2v71fDS60GOfMD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 65000,
+      "name": "Black Screen White Noise",
+      "url": "https://open.spotify.com/track/5NdWzrFWmL5eDMATHfia6B"
+    },
+    {
+      "album": {
+        "name": "Black Velvety Noise",
+        "url": "https://open.spotify.com/album/1R9tBo1NBK2G5qlX0KuIb4"
+      },
+      "artists": [
+        {
+          "name": "Sleep Potential",
+          "url": "https://open.spotify.com/artist/6ILcQ2MsnRyFr5JCy3ulCv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Black Sleep Potion",
+      "url": "https://open.spotify.com/track/34DA3x4LP9rlPByHZJT51w"
+    },
+    {
+      "album": {
+        "name": "Black Opal Dream",
+        "url": "https://open.spotify.com/album/4QoFfiDYebLXDIYtcvPzRK"
+      },
+      "artists": [
+        {
+          "name": "Vita Nova",
+          "url": "https://open.spotify.com/artist/73NuuIXGeBU7AyknDXY5A2"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173871,
+      "name": "Black Tranquil",
+      "url": "https://open.spotify.com/track/4lW993OOjvwFvnppypybvF"
+    },
+    {
+      "album": {
+        "name": "Dark Tranquility (Black Noise)",
+        "url": "https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe"
+      },
+      "artists": [
+        {
+          "name": "Arx",
+          "url": "https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Blissful Nocturne - Black Noise",
+      "url": "https://open.spotify.com/track/7fUy5y5j1yVjJqGA9udLX7"
+    },
+    {
+      "album": {
+        "name": "Calm Black Noise",
+        "url": "https://open.spotify.com/album/5PhceYewMWBfTm07czylXP"
+      },
+      "artists": [
+        {
+          "name": "Hypnotronica",
+          "url": "https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184021,
+      "name": "Calm Black Noise",
+      "url": "https://open.spotify.com/track/7feU46h5FCm1tp8cb2G8hA"
+    },
+    {
+      "album": {
+        "name": "Relaxing Black Noise Sounds",
+        "url": "https://open.spotify.com/album/3mBWZqwhnCwlhzeWnX27YM"
+      },
+      "artists": [
+        {
+          "name": "Suburban DZ",
+          "url": "https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 180000,
+      "name": "Calm Low Black Noise",
+      "url": "https://open.spotify.com/track/2bCIoTVf4QjldvBgcADSou"
+    },
+    {
+      "album": {
+        "name": "Calm Me Down Black Noise",
+        "url": "https://open.spotify.com/album/2K98eaKEKPaVhAjDSFt2cu"
+      },
+      "artists": [
+        {
+          "name": "ATOM",
+          "url": "https://open.spotify.com/artist/0K8XPZ3XL6B0m6Hpd234lQ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164939,
+      "name": "Calm Me Down Black Noise",
+      "url": "https://open.spotify.com/track/5UA5xzJHYt5SOwQMK8rRVt"
+    },
+    {
+      "album": {
+        "name": "Calmed By The Black Noise",
+        "url": "https://open.spotify.com/album/00VOYEZMRvtzOwvKVMKd7K"
+      },
+      "artists": [
+        {
+          "name": "Odd Recordings",
+          "url": "https://open.spotify.com/artist/0lhOaH03r7Lvt8UpOBCHOk"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125037,
+      "name": "Calmed By The Black Noise",
+      "url": "https://open.spotify.com/track/5I1SjRSDetdb1cvhAhiVZD"
+    },
+    {
+      "album": {
+        "name": "Ambient Black Noise",
+        "url": "https://open.spotify.com/album/011O4hLo0E8wvkPNWqIZzq"
+      },
+      "artists": [
+        {
+          "name": "A.I.C 83",
+          "url": "https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186525,
+      "name": "Calming Black Noise",
+      "url": "https://open.spotify.com/track/47tESPYPBheJqY8usUSLuQ"
+    },
+    {
+      "album": {
+        "name": "Tranquil Black Noise",
+        "url": "https://open.spotify.com/album/7uQIqVmUs8BKNKlxXc7cQ6"
+      },
+      "artists": [
+        {
+          "name": "Dreams of Dreams",
+          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121164,
+      "name": "Calming Black Noise",
+      "url": "https://open.spotify.com/track/6bFsSsNF56OHRYqjzflEOW"
+    },
+    {
+      "album": {
+        "name": "Black Noise Serenade",
+        "url": "https://open.spotify.com/album/0wZLfU9UB14vFGGmxbDmND"
+      },
+      "artists": [
+        {
+          "name": "Vizzionz",
+          "url": "https://open.spotify.com/artist/3VU6EADz81WPaKVs9mP30w"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 146378,
+      "name": "Calming Black Noise",
+      "url": "https://open.spotify.com/track/25xWNfk4rIKBqig425Nb3C"
+    },
+    {
+      "album": {
+        "name": "Black Noise For Focus",
+        "url": "https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 159274,
+      "name": "Calming Black Noise (Remastered)",
+      "url": "https://open.spotify.com/track/0xXLoqrSDiUzfDOgt5WcUY"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes To Black Noise",
+        "url": "https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe"
+      },
+      "artists": [
+        {
+          "name": "BGVV",
+          "url": "https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 116657,
+      "name": "Close Your Eyes To Black Noise",
+      "url": "https://open.spotify.com/track/4WOtxDTW0KnW0t0QVFmi8F"
+    },
+    {
+      "album": {
+        "name": "Black Noise Relaxing Waves",
+        "url": "https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sauce",
+          "url": "https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Comforting Black Noise",
+      "url": "https://open.spotify.com/track/7s44WtrdDiebaITSSgBDTD"
+    },
+    {
+      "album": {
+        "name": "Black Noise EP 2",
+        "url": "https://open.spotify.com/album/0jWyuo8KyPYsSIwHrf1lga"
+      },
+      "artists": [
+        {
+          "name": "Sleep Liquids",
+          "url": "https://open.spotify.com/artist/5V9IfR9NEcllAjfEif5TBC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Controlled Black Noise",
+      "url": "https://open.spotify.com/track/6iRwQfjkbm2FHrnv6XOM3w"
+    },
+    {
+      "album": {
+        "name": "Black Noise Relaxing Waves",
+        "url": "https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sauce",
+          "url": "https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169074,
+      "name": "Cosy Black Noise",
+      "url": "https://open.spotify.com/track/09ws3AFzlKocLXqU1i493W"
+    },
+    {
+      "album": {
+        "name": "Black Noise For Focus",
+        "url": "https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 136480,
+      "name": "Dark Black Noise",
+      "url": "https://open.spotify.com/track/4N5LpmosYeCKkhICcNSYYV"
+    },
+    {
+      "album": {
+        "name": "Smoothed Black Noise",
+        "url": "https://open.spotify.com/album/0nAxr67oWTfgKVhIzTxpNM"
+      },
+      "artists": [
+        {
+          "name": "Prompt Unlax",
+          "url": "https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Dark Black Noise",
+      "url": "https://open.spotify.com/track/6fKY0nJXLdIvYGQyumBQlV"
+    },
+    {
+      "album": {
+        "name": "Dark Night Noise",
+        "url": "https://open.spotify.com/album/5E16FHldsoKBjuwjQjFXST"
+      },
+      "artists": [
+        {
+          "name": "Dreamstatician",
+          "url": "https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188599,
+      "name": "Dark Night Black Noise",
+      "url": "https://open.spotify.com/track/5nySIYtokupjcfe5BMv9zu"
+    },
+    {
+      "album": {
+        "name": "Dark Tranquility (Black Noise)",
+        "url": "https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe"
+      },
+      "artists": [
+        {
+          "name": "Arx",
+          "url": "https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Dark Tranquility - Black Noise",
+      "url": "https://open.spotify.com/track/1D2fTdEiwVdBQJrNMM9sgG"
+    },
+    {
+      "album": {
+        "name": "Black Noise",
+        "url": "https://open.spotify.com/album/7GwCED5n0diknVn0wcehU6"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Therapy",
+          "url": "https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM"
+        },
+        {
+          "name": "Black Noise Sleep",
+          "url": "https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 90548,
+      "name": "Deep Black Noise",
+      "url": "https://open.spotify.com/track/7CrjtaTHQCDKRARus0wmqW"
+    },
+    {
+      "album": {
+        "name": "Black Noise Loopable",
+        "url": "https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Therapy",
+          "url": "https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM"
+        },
+        {
+          "name": "Black Noise Loopable",
+          "url": "https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 122350,
+      "name": "Deep Black Noise Loopable",
+      "url": "https://open.spotify.com/track/3GDSYb86vncmhHNFNUhBxr"
+    },
+    {
+      "album": {
+        "name": "Deep Relaxation with Black Noise",
+        "url": "https://open.spotify.com/album/3r472qZO3RLPvLd98DXjXH"
+      },
+      "artists": [
+        {
+          "name": "Larnac HD",
+          "url": "https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 175550,
+      "name": "Deep Relaxation with Black Noise",
+      "url": "https://open.spotify.com/track/0tuHM1wthvIM3KC1lqwv8n"
+    },
+    {
+      "album": {
+        "name": "Deep Sleep with Black Noise",
+        "url": "https://open.spotify.com/album/3AHDCQsMfbtu6Yed2NSoLA"
+      },
+      "artists": [
+        {
+          "name": "Crafting Audio",
+          "url": "https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134489,
+      "name": "Deep Sleep with Black Noise",
+      "url": "https://open.spotify.com/track/6MtLwcCwKulC4dNCsQQ65i"
+    },
+    {
+      "album": {
+        "name": "Deep Slumber Black Noise",
+        "url": "https://open.spotify.com/album/7oBB1YbLWa6wZ4SNzhYvEF"
+      },
+      "artists": [
+        {
+          "name": "ASMR Mateo",
+          "url": "https://open.spotify.com/artist/7uEuyUsDa6GZxIRiQOzfsX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Deep Slumber Black Noise",
+      "url": "https://open.spotify.com/track/04ZrTWMreXX745Z72CuLdL"
+    },
+    {
+      "album": {
+        "name": "Black Noise Universe",
+        "url": "https://open.spotify.com/album/1C54Fxxd49QProMvtY6Xhq"
+      },
+      "artists": [
+        {
+          "name": "Relaxatron",
+          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189471,
+      "name": "Deep Space Black Noise",
+      "url": "https://open.spotify.com/track/2q2CHBYCTLbpZSff1J5m0G"
+    },
+    {
+      "album": {
+        "name": "Dream With Black Noise",
+        "url": "https://open.spotify.com/album/14Te59wMNtySSoYag6omf9"
+      },
+      "artists": [
+        {
+          "name": "Rivers Of Time",
+          "url": "https://open.spotify.com/artist/01HPpfT387ULSdN6EztPip"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Dream With Black Noise",
+      "url": "https://open.spotify.com/track/1daOLCUWcmN4R8QEnPTR9f"
+    },
+    {
+      "album": {
+        "name": "Slumber with Black Noise",
+        "url": "https://open.spotify.com/album/3LiwsPQCTtDo6pfiDd1S4u"
+      },
+      "artists": [
+        {
+          "name": "Dozy FX",
+          "url": "https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 182787,
+      "name": "Dreamscape with Black Noise",
+      "url": "https://open.spotify.com/track/4JcJ4KYNvTOF6sX2AD02ck"
+    },
+    {
+      "album": {
+        "name": "Nights with Black Noise",
+        "url": "https://open.spotify.com/album/387f3DHivXw4c8o0Si7Q0i"
+      },
+      "artists": [
+        {
+          "name": "Inscription",
+          "url": "https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 161239,
+      "name": "Dreamy Black Noise",
+      "url": "https://open.spotify.com/track/54zmBpVCyo2BE5prwIK8M9"
+    },
+    {
+      "album": {
+        "name": "Soothing Black Noise",
+        "url": "https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc"
+      },
+      "artists": [
+        {
+          "name": "LBE Sound Factory",
+          "url": "https://open.spotify.com/artist/2KH7b9r4W32S6NlIKaf1Fc"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153073,
+      "name": "Dreamy Black Noise",
+      "url": "https://open.spotify.com/track/1RLdr8NMS74dJBLRKvSSID"
+    },
+    {
+      "album": {
+        "name": "Deep Relaxation with Black Noise",
+        "url": "https://open.spotify.com/album/3r472qZO3RLPvLd98DXjXH"
+      },
+      "artists": [
+        {
+          "name": "Larnac HD",
+          "url": "https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 166891,
+      "name": "Dreamy Black Noise Melodies",
+      "url": "https://open.spotify.com/track/4DfymJ5juOs7RmFQKb2voF"
+    },
+    {
+      "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e"
+      },
+      "artists": [
+        {
+          "name": "Aurora Axis",
+          "url": "https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200417,
+      "name": "Dreamy Void - Black Noise",
+      "url": "https://open.spotify.com/track/0yZs7qrhyEcUlqxFl0oghk"
+    },
+    {
+      "album": {
+        "name": "Black Noise Slumber",
+        "url": "https://open.spotify.com/album/2CmI8r0pmlPqrzQV9gZmKl"
+      },
+      "artists": [
+        {
+          "name": "Snoozatronica",
+          "url": "https://open.spotify.com/artist/6Ik1AwpZwK66FCXtsdPaLt"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Drowsy Black Noise",
+      "url": "https://open.spotify.com/track/6aAd7o0qkHfBz1ZenR8fRO"
+    },
+    {
+      "album": {
+        "name": "Dreamy Black Noise",
+        "url": "https://open.spotify.com/album/5xiRrH7erxV3vAfmhqre3n"
+      },
+      "artists": [
+        {
+          "name": "FX Soundtrap",
+          "url": "https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161420,
+      "name": "Easy Black Noise",
+      "url": "https://open.spotify.com/track/12hevm4UsrGBTcAUZdknFv"
+    },
+    {
+      "album": {
+        "name": "Dark Tranquility (Black Noise)",
+        "url": "https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe"
+      },
+      "artists": [
+        {
+          "name": "Arx",
+          "url": "https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 160000,
+      "name": "Enigmatic Reverie - Black Noise",
+      "url": "https://open.spotify.com/track/3Yc4o13GHVPWJZa6uGrHV3"
+    },
+    {
+      "album": {
+        "name": "Harmonious Black Noise",
+        "url": "https://open.spotify.com/album/5rTO0oFjsYW5urVkgnsBou"
+      },
+      "artists": [
+        {
+          "name": "Lakshmi Roo",
+          "url": "https://open.spotify.com/artist/1JfWdDJgevvJTexlg05huU"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
+      "duration_ms": 133746,
+      "name": "Ethereal Black Noise",
+      "url": "https://open.spotify.com/track/3pe2XZVilCOoydQ8Kp21x6"
+    },
+    {
+      "album": {
+        "name": "Serene Black Noise Melodies",
+        "url": "https://open.spotify.com/album/00SIpBgbHleiWvn8U4uQqk"
+      },
+      "artists": [
+        {
+          "name": "Soundstars",
+          "url": "https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 147997,
+      "name": "Euphony of Black Noise",
+      "url": "https://open.spotify.com/track/4WIdwHatjxIC224UO4UwlR"
+    },
+    {
+      "album": {
+        "name": "Black Opal Dream",
+        "url": "https://open.spotify.com/album/4QoFfiDYebLXDIYtcvPzRK"
+      },
+      "artists": [
+        {
+          "name": "Vita Nova",
+          "url": "https://open.spotify.com/artist/73NuuIXGeBU7AyknDXY5A2"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Everlasting Black Noise",
+      "url": "https://open.spotify.com/track/2HFlg5MppHkkxW15wmqMFj"
+    },
+    {
+      "album": {
+        "name": "Delicate Black Noise",
+        "url": "https://open.spotify.com/album/1WhZbjAQu52jXBtUBx2dZ1"
+      },
+      "artists": [
+        {
+          "name": "Delicatessen Noise",
+          "url": "https://open.spotify.com/artist/5RxupLWXooqV5lxD8c4vCz"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188512,
+      "name": "Exquisite Black Noise",
+      "url": "https://open.spotify.com/track/51buzvWwqdxkVXexBG9ACe"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes To Black Noise",
+        "url": "https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe"
+      },
+      "artists": [
+        {
+          "name": "BGVV",
+          "url": "https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125573,
+      "name": "Focused Black Noise",
+      "url": "https://open.spotify.com/track/4706E26ijxiFCGJAC8RbRi"
+    },
+    {
+      "album": {
+        "name": "Soothing Black Noise",
+        "url": "https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc"
+      },
+      "artists": [
+        {
+          "name": "LBE Sound Factory",
+          "url": "https://open.spotify.com/artist/2KH7b9r4W32S6NlIKaf1Fc"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133692,
+      "name": "Focused Black Noise",
+      "url": "https://open.spotify.com/track/5rURzzYYHLowCCnERjNBu5"
+    },
+    {
+      "album": {
+        "name": "Focused Mind Black Noise",
+        "url": "https://open.spotify.com/album/5fZ4T8Ll08WOc4VXIdVcMo"
+      },
+      "artists": [
+        {
+          "name": "Linus Xio",
+          "url": "https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190894,
+      "name": "Focused Mind Black Noise",
+      "url": "https://open.spotify.com/track/1CaTOiBEuHSyMtF84KA9qM"
+    },
+    {
+      "album": {
+        "name": "Gentle Black Noise",
+        "url": "https://open.spotify.com/album/0Gv8mzDoswMXHLSKd6j02w"
+      },
+      "artists": [
+        {
+          "name": "Timmid",
+          "url": "https://open.spotify.com/artist/7biX22cIP5NyuORMdCWF8R"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 167926,
+      "name": "Gentle Black Noise",
+      "url": "https://open.spotify.com/track/6cKQ38a2sw68PwIUC5Gbxu"
+    },
+    {
+      "album": {
+        "name": "Ambient Black Noise",
+        "url": "https://open.spotify.com/album/011O4hLo0E8wvkPNWqIZzq"
+      },
+      "artists": [
+        {
+          "name": "A.I.C 83",
+          "url": "https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171664,
+      "name": "Gentle Static Black Noise",
+      "url": "https://open.spotify.com/track/5wghBv8Vw1g9GCg8qZJRBh"
+    },
+    {
+      "album": {
+        "name": "Black Noise Detox",
+        "url": "https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1"
+      },
+      "artists": [
+        {
+          "name": "Doze Off",
+          "url": "https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Healing Black Noise",
+      "url": "https://open.spotify.com/track/0X8ox5fpqRnq7yDgqX71Uw"
+    },
+    {
+      "album": {
+        "name": "Healing Black Noise",
+        "url": "https://open.spotify.com/album/1W59umcqmAWW0xYPU5v2ni"
+      },
+      "artists": [
+        {
+          "name": "Four Elements Sounds",
+          "url": "https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Healing Black Noise",
+      "url": "https://open.spotify.com/track/1ebZEnzqflZFmFNxoBcef3"
+    },
+    {
+      "album": {
+        "name": "Healing Black Noise",
+        "url": "https://open.spotify.com/album/4vTf5vLobu75WEgLrpFKGu"
+      },
+      "artists": [
+        {
+          "name": "Naturelle",
+          "url": "https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 139691,
+      "name": "Healing Black Noise",
+      "url": "https://open.spotify.com/track/2IswQJThBN7riJqBofP1gK"
+    },
+    {
+      "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/51gGDgzoPx2BKrcssfpXD7"
+      },
+      "artists": [
+        {
+          "name": "Digital Sounds Recordings",
+          "url": "https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 108483,
+      "name": "Healing Frequencies of Black Noise",
+      "url": "https://open.spotify.com/track/6mluEKukHRCKj2i0fWLxqd"
+    },
+    {
+      "album": {
+        "name": "Ethereal Slumber & Hypnotic Depths (Black Noise)",
+        "url": "https://open.spotify.com/album/7xRitZQaZnYeNzjQi6RONO"
+      },
+      "artists": [
+        {
+          "name": "Suburban DZ",
+          "url": "https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Hypnotic Depths - Black Noise",
+      "url": "https://open.spotify.com/track/3sJfhU9JUHzkA2HxHJdaVC"
+    },
+    {
+      "album": {
+        "name": "Black Noise EP 2",
+        "url": "https://open.spotify.com/album/0jWyuo8KyPYsSIwHrf1lga"
+      },
+      "artists": [
+        {
+          "name": "Sleep Liquids",
+          "url": "https://open.spotify.com/artist/5V9IfR9NEcllAjfEif5TBC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Infrasonic Black Noise",
+      "url": "https://open.spotify.com/track/4W9TsNGmpYzTPdYSH3srBD"
+    },
+    {
+      "album": {
+        "name": "Technical Silence",
+        "url": "https://open.spotify.com/album/0Xir6UD5a3WgPN7vwFtpBP"
+      },
+      "artists": [
+        {
+          "name": "Trip To Jupiter",
+          "url": "https://open.spotify.com/artist/6l9ylPMaOkRtfo28aDYNpw"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Infrasound (Black Noise)",
+      "url": "https://open.spotify.com/track/0IwBvFqcZQ2FjpZR4VngnT"
+    },
+    {
+      "album": {
+        "name": "Weightless Dream",
+        "url": "https://open.spotify.com/album/51CKud3W481cM9U4tpIjNo"
+      },
+      "artists": [
+        {
+          "name": "Vibe Industry",
+          "url": "https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173871,
+      "name": "Inhale Exhale To Black Noise",
+      "url": "https://open.spotify.com/track/6YjL19fXSIVmLsWBhYYxtr"
+    },
+    {
+      "album": {
+        "name": "Dreamy Black Noise",
+        "url": "https://open.spotify.com/album/5xiRrH7erxV3vAfmhqre3n"
+      },
+      "artists": [
+        {
+          "name": "FX Soundtrap",
+          "url": "https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134365,
+      "name": "Light Black Noise",
+      "url": "https://open.spotify.com/track/5ZOctelnhBRHyHCoYXypUQ"
+    },
+    {
+      "album": {
+        "name": "Black Noise Rhythm",
+        "url": "https://open.spotify.com/album/3T4tZ3iHq8I7tgKUotlE58"
+      },
+      "artists": [
+        {
+          "name": "Doctor Sleep",
+          "url": "https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "Lovely Black Noise",
+      "url": "https://open.spotify.com/track/3z8SlbLXpObh3JDWZpd8rl"
+    },
+    {
+      "album": {
+        "name": "Soft Black Noise Sounds",
+        "url": "https://open.spotify.com/album/0w0lgw1RQ8gBbpBdnVr0jn"
+      },
+      "artists": [
+        {
+          "name": "Hi Freq Samples",
+          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127959,
+      "name": "Lovely Black Noise Sound",
+      "url": "https://open.spotify.com/track/5JhO4MAG1ISDZWOuPLvOW0"
+    },
+    {
+      "album": {
+        "name": "Deep Slumber Black Noise",
+        "url": "https://open.spotify.com/album/7oBB1YbLWa6wZ4SNzhYvEF"
+      },
+      "artists": [
+        {
+          "name": "ASMR Mateo",
+          "url": "https://open.spotify.com/artist/7uEuyUsDa6GZxIRiQOzfsX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Low Distant Black Noise",
+      "url": "https://open.spotify.com/track/6Chi77pc8jH7XrjbETSW6K"
+    },
+    {
+      "album": {
+        "name": "Soothing Black Noise",
+        "url": "https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc"
+      },
+      "artists": [
+        {
+          "name": "LBE Sound Factory",
+          "url": "https://open.spotify.com/artist/2KH7b9r4W32S6NlIKaf1Fc"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123640,
+      "name": "LP 63hz Black Noise",
+      "url": "https://open.spotify.com/track/6ma1MQxXIB8tMVc4lTlRdR"
+    },
+    {
+      "album": {
+        "name": "Relaxing Black Noise",
+        "url": "https://open.spotify.com/album/3fYR0hAFxWrJQzuHqQuRLP"
+      },
+      "artists": [
+        {
+          "name": "Fabricants of Noise",
+          "url": "https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128545,
+      "name": "Meditation with Black Noise",
+      "url": "https://open.spotify.com/track/0oXdYvzojwAHfbSQTjnAFO"
+    },
+    {
+      "album": {
+        "name": "Nights with Black Noise",
+        "url": "https://open.spotify.com/album/387f3DHivXw4c8o0Si7Q0i"
+      },
+      "artists": [
+        {
+          "name": "Inscription",
+          "url": "https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 157524,
+      "name": "Mellow Black Noise",
+      "url": "https://open.spotify.com/track/1cmjf6zGYLnacOrfgj2TeU"
+    },
+    {
+      "album": {
+        "name": "Black Noise For Focus",
+        "url": "https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144805,
+      "name": "MKG Black Noise",
+      "url": "https://open.spotify.com/track/4OMvHV3bHcuiWVs7QY2JdB"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleeping",
+        "url": "https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Sleep",
+          "url": "https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4"
+        },
+        {
+          "name": "Black Noise Loops",
+          "url": "https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 90096,
+      "name": "Muffled Black Noise",
+      "url": "https://open.spotify.com/track/6qUMzKaMLPggQSUKg78H9H"
+    },
+    {
+      "album": {
+        "name": "Black Noise Ritual",
+        "url": "https://open.spotify.com/album/2xLJSlC4ZJiC41LbQui8Nq"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Rivers",
+          "url": "https://open.spotify.com/artist/3szZThecJLcLc88TcXALuU"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Nefarious Black Noise",
+      "url": "https://open.spotify.com/track/31GE7CWNk8ZBlLpPxJoz07"
+    },
+    {
+      "album": {
+        "name": "Nights with Black Noise",
+        "url": "https://open.spotify.com/album/387f3DHivXw4c8o0Si7Q0i"
+      },
+      "artists": [
+        {
+          "name": "Inscription",
+          "url": "https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 165697,
+      "name": "Nights with Black Noise",
+      "url": "https://open.spotify.com/track/5MkScpVqQ53sGNXMzGhSl0"
+    },
+    {
+      "album": {
+        "name": "BLK NSE 001",
+        "url": "https://open.spotify.com/album/7K8USBKZ0t2g6IMH8ekIkQ"
+      },
+      "artists": [
+        {
+          "name": "Plectrasonics",
+          "url": "https://open.spotify.com/artist/2dyUwQxoYt3ersIjh4Z77v"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163837,
+      "name": "Noiselessness",
+      "url": "https://open.spotify.com/track/1sxtXItV2vsuUAhH1KYEm5"
+    },
+    {
+      "album": {
+        "name": "Black Noise Vol. 1",
+        "url": "https://open.spotify.com/album/42W13BUpgS9LHN7qEKG0fx"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142172,
+      "name": "Peaceful Black Noise",
+      "url": "https://open.spotify.com/track/3rrxVDfT84TPPRmqHvtUs1"
+    },
+    {
+      "album": {
+        "name": "Healing Black Noise",
+        "url": "https://open.spotify.com/album/4vTf5vLobu75WEgLrpFKGu"
+      },
+      "artists": [
+        {
+          "name": "Naturelle",
+          "url": "https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 136719,
+      "name": "Peaceful Black Noise",
+      "url": "https://open.spotify.com/track/2TNqxwtc41JvEvgYNJLalz"
+    },
+    {
+      "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e"
+      },
+      "artists": [
+        {
+          "name": "Aurora Axis",
+          "url": "https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170870,
+      "name": "Peaceful Darkness - Black Noise",
+      "url": "https://open.spotify.com/track/7AKssyLSWIQaWyZ1NQAgHn"
+    },
+    {
+      "album": {
+        "name": "Pitch Black Noise",
+        "url": "https://open.spotify.com/album/1dnYK5bNWVP8M9oGz8ZTQC"
+      },
+      "artists": [
+        {
+          "name": "Slumbertronica",
+          "url": "https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Pitch Black Noise - Seamless",
+      "url": "https://open.spotify.com/track/3JlHTG4rOlMugwQBnbRts7"
+    },
+    {
+      "album": {
+        "name": "Placid Black Noise",
+        "url": "https://open.spotify.com/album/062LOMoeL90kizJiCxeVOS"
+      },
+      "artists": [
+        {
+          "name": "Contented",
+          "url": "https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "Placid Black Noise - Seamless",
+      "url": "https://open.spotify.com/track/53bFTZXzQF0Cyr1NT1r22h"
+    },
+    {
+      "album": {
+        "name": "Precision Black Noise",
+        "url": "https://open.spotify.com/album/4dbKAwo7geHFOsNeMGOfS1"
+      },
+      "artists": [
+        {
+          "name": "Noyze Freq",
+          "url": "https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296843,
+      "name": "Precision Black Noise",
+      "url": "https://open.spotify.com/track/1tu0CljjpVzkEsHEqbDUoh"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleeping",
+        "url": "https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Sleep",
+          "url": "https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4"
+        },
+        {
+          "name": "Black Noise Loops",
+          "url": "https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 70370,
+      "name": "Relaxing Black Noise",
+      "url": "https://open.spotify.com/track/1xeezarRnmhQaG2P4GUGSQ"
+    },
+    {
+      "album": {
+        "name": "Black Noise Loopable",
+        "url": "https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Therapy",
+          "url": "https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM"
+        },
+        {
+          "name": "Black Noise Loopable",
+          "url": "https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 129735,
+      "name": "Relaxing Black Noise",
+      "url": "https://open.spotify.com/track/4pjIbPnncl6elz81Yw7o9R"
+    },
+    {
+      "album": {
+        "name": "Relaxing Black Noise",
+        "url": "https://open.spotify.com/album/3fYR0hAFxWrJQzuHqQuRLP"
+      },
+      "artists": [
+        {
+          "name": "Fabricants of Noise",
+          "url": "https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133003,
+      "name": "Relaxing Black Noise",
+      "url": "https://open.spotify.com/track/6w1WwnWgkbTguF1jQBmFLB"
+    },
+    {
+      "album": {
+        "name": "Healing Black Noise",
+        "url": "https://open.spotify.com/album/1W59umcqmAWW0xYPU5v2ni"
+      },
+      "artists": [
+        {
+          "name": "Four Elements Sounds",
+          "url": "https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Relaxing Black Noise",
+      "url": "https://open.spotify.com/track/5CzMujCQaMoo8gTC4VR7Md"
+    },
+    {
+      "album": {
+        "name": "Relaxing Black Noise Sounds",
+        "url": "https://open.spotify.com/album/06EObZqoiaNp8MNG22dNnp"
+      },
+      "artists": [
+        {
+          "name": "Sleepness Orchestra",
+          "url": "https://open.spotify.com/artist/0sW4js5qCxePw9lLfKdRTv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 152082,
+      "name": "Relaxing Black Noise Sounds",
+      "url": "https://open.spotify.com/track/4xOcZ6xjUvjpmNOUwPYx4t"
+    },
+    {
+      "album": {
+        "name": "Black Noise Relaxing Waves",
+        "url": "https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sauce",
+          "url": "https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Relaxing Black Noise Waves",
+      "url": "https://open.spotify.com/track/6NaJlg3pGN7B8bFHt6nePo"
+    },
+    {
+      "album": {
+        "name": "Rested With Black Noise",
+        "url": "https://open.spotify.com/album/0lWKh9nharNGwtYzpEnWaf"
+      },
+      "artists": [
+        {
+          "name": "Winding Down",
+          "url": "https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 151250,
+      "name": "Rested With Black Noise",
+      "url": "https://open.spotify.com/track/5QubAzZM2TGhW4i85WzsWQ"
+    },
+    {
+      "album": {
+        "name": "Harmonious Black Noise",
+        "url": "https://open.spotify.com/album/5rTO0oFjsYW5urVkgnsBou"
+      },
+      "artists": [
+        {
+          "name": "Lakshmi Roo",
+          "url": "https://open.spotify.com/artist/1JfWdDJgevvJTexlg05huU"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 141177,
+      "name": "Restful Black Noise",
+      "url": "https://open.spotify.com/track/5kCPxgzPyyiSBMw0OXlwFD"
+    },
+    {
+      "album": {
+        "name": "Black Noise Haven",
+        "url": "https://open.spotify.com/album/6ymMlHHmCbSgtf4qWTAXFU"
+      },
+      "artists": [
+        {
+          "name": "BCCF",
+          "url": "https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163470,
+      "name": "Sensual Black Noise",
+      "url": "https://open.spotify.com/track/4Aqj0z0W7blJFBBHosVpRT"
+    },
+    {
+      "album": {
+        "name": "Dark Tranquility (Black Noise)",
+        "url": "https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe"
+      },
+      "artists": [
+        {
+          "name": "Arx",
+          "url": "https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Seraphic Equilibrium - Black Noise",
+      "url": "https://open.spotify.com/track/7IYEFcq06tIyv3y7enDrIC"
+    },
+    {
+      "album": {
+        "name": "Black Noise Haven",
+        "url": "https://open.spotify.com/album/6ymMlHHmCbSgtf4qWTAXFU"
+      },
+      "artists": [
+        {
+          "name": "BCCF",
+          "url": "https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182027,
+      "name": "Serendipitous Black Noise",
+      "url": "https://open.spotify.com/track/4I0BfEIZfJPkpGJTqGahCN"
+    },
+    {
+      "album": {
+        "name": "Peaceful Black Noise",
+        "url": "https://open.spotify.com/album/0TLWTVN5x5xCRx7D60HKXt"
+      },
+      "artists": [
+        {
+          "name": "Digital Sounds Recordings",
+          "url": "https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127159,
+      "name": "Serene Black Noise",
+      "url": "https://open.spotify.com/track/4KY3v44ESVbj8SGEAKNJ4l"
+    },
+    {
+      "album": {
+        "name": "Serene Black Noise Melodies",
+        "url": "https://open.spotify.com/album/00SIpBgbHleiWvn8U4uQqk"
+      },
+      "artists": [
+        {
+          "name": "Soundstars",
+          "url": "https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 159806,
+      "name": "Serene Black Noise Melodies",
+      "url": "https://open.spotify.com/track/6gU8MolsvmO35Y6wEeguVt"
+    },
+    {
+      "album": {
+        "name": "Peaceful Black Noise",
+        "url": "https://open.spotify.com/album/0TLWTVN5x5xCRx7D60HKXt"
+      },
+      "artists": [
+        {
+          "name": "Digital Sounds Recordings",
+          "url": "https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130261,
+      "name": "Silent Black Noise",
+      "url": "https://open.spotify.com/track/7DMpNcB4zFwjumxApzMdPb"
+    },
+    {
+      "album": {
+        "name": "Sleeping To The Black Noise",
+        "url": "https://open.spotify.com/album/3bpnlO13XIwHQDBYCfEA9f"
+      },
+      "artists": [
+        {
+          "name": "Noises Of Life",
+          "url": "https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 163469,
+      "name": "Sleeping To The Black Noise",
+      "url": "https://open.spotify.com/track/3PCj5llCd5b3E0pPVF1vqf"
+    },
+    {
+      "album": {
+        "name": "Black Noise Flow",
+        "url": "https://open.spotify.com/album/4aNzsxsepFfomWsCbpylAO"
+      },
+      "artists": [
+        {
+          "name": "Dinkotrons",
+          "url": "https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Sleeposinic Black Noise",
+      "url": "https://open.spotify.com/track/3yOzJnNeBmvWrQjNLesjES"
+    },
+    {
+      "album": {
+        "name": "Calm Me Down Black Noise",
+        "url": "https://open.spotify.com/album/2K98eaKEKPaVhAjDSFt2cu"
+      },
+      "artists": [
+        {
+          "name": "ATOM",
+          "url": "https://open.spotify.com/artist/0K8XPZ3XL6B0m6Hpd234lQ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142254,
+      "name": "Sleepy Black Noise",
+      "url": "https://open.spotify.com/track/4skhZxAdjEHQ8XCOhLuhQS"
+    },
+    {
+      "album": {
+        "name": "Robots Treasure Black Noise",
+        "url": "https://open.spotify.com/album/2zXVBLKJ324oHVsvdnB9S6"
+      },
+      "artists": [
+        {
+          "name": "Utmost-@mos",
+          "url": "https://open.spotify.com/artist/2rTA4Aq0QblqZJ2AwY7R4n"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178608,
+      "name": "Sleepy Black Robo-Noise",
+      "url": "https://open.spotify.com/track/5MutcU7kIiofO3HVbYPWBO"
+    },
+    {
+      "album": {
+        "name": "Relaxing Black Noise Sounds",
+        "url": "https://open.spotify.com/album/06EObZqoiaNp8MNG22dNnp"
+      },
+      "artists": [
+        {
+          "name": "Sleepness Orchestra",
+          "url": "https://open.spotify.com/artist/0sW4js5qCxePw9lLfKdRTv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 156538,
+      "name": "Slowly Falling In To Black Noise",
+      "url": "https://open.spotify.com/track/4rmunOjRcnYpmbbhukCXRo"
+    },
+    {
+      "album": {
+        "name": "Smoothed Black Noise",
+        "url": "https://open.spotify.com/album/0nAxr67oWTfgKVhIzTxpNM"
+      },
+      "artists": [
+        {
+          "name": "Prompt Unlax",
+          "url": "https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "Smoothed Black Noise",
+      "url": "https://open.spotify.com/track/3hZsr9h85sL56M0RKWjlpq"
+    },
+    {
+      "album": {
+        "name": "Snooze To Black Noise",
+        "url": "https://open.spotify.com/album/72XCOvMXL7Tanvivcn0E1Q"
+      },
+      "artists": [
+        {
+          "name": "FX Soundtrap",
+          "url": "https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146777,
+      "name": "Snooze To Black Noise",
+      "url": "https://open.spotify.com/track/3lnOw26XGomUsOwtCPluSE"
+    },
+    {
+      "album": {
+        "name": "Soft Black Noise Sounds",
+        "url": "https://open.spotify.com/album/0w0lgw1RQ8gBbpBdnVr0jn"
+      },
+      "artists": [
+        {
+          "name": "Hi Freq Samples",
+          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143629,
+      "name": "Soft Black Noise Sounds",
+      "url": "https://open.spotify.com/track/4ZarCPwhNngOzVwf4qvgiM"
+    },
+    {
+      "album": {
+        "name": "Black Velvety Noise",
+        "url": "https://open.spotify.com/album/1R9tBo1NBK2G5qlX0KuIb4"
+      },
+      "artists": [
+        {
+          "name": "Sleep Potential",
+          "url": "https://open.spotify.com/artist/6ILcQ2MsnRyFr5JCy3ulCv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178608,
+      "name": "Somniac Black Noise",
+      "url": "https://open.spotify.com/track/3p1cU1mhgwA7ETkdlS122u"
+    },
+    {
+      "album": {
+        "name": "Black Noise Sleeping",
+        "url": "https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Sleep",
+          "url": "https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4"
+        },
+        {
+          "name": "Black Noise Loops",
+          "url": "https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 80656,
+      "name": "Soothing Black Noise",
+      "url": "https://open.spotify.com/track/7zjUJLLOXBPfX85Jt1gPJq"
+    },
+    {
+      "album": {
+        "name": "Deep Sleep with Black Noise",
+        "url": "https://open.spotify.com/album/3AHDCQsMfbtu6Yed2NSoLA"
+      },
+      "artists": [
+        {
+          "name": "Crafting Audio",
+          "url": "https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137462,
+      "name": "Soothing Black Noise",
+      "url": "https://open.spotify.com/track/3N4uXY7qOuwjHKDU197jh8"
+    },
+    {
+      "album": {
+        "name": "Relaxing Black Noise Sounds",
+        "url": "https://open.spotify.com/album/3mBWZqwhnCwlhzeWnX27YM"
+      },
+      "artists": [
+        {
+          "name": "Suburban DZ",
+          "url": "https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 188000,
+      "name": "Soothing Black Noise",
+      "url": "https://open.spotify.com/track/7jNPNxCnPzntR3kRxJ62dA"
+    },
+    {
+      "album": {
+        "name": "Soothing Black Noise",
+        "url": "https://open.spotify.com/album/22nUkVFEFmchLMABL9DV8f"
+      },
+      "artists": [
+        {
+          "name": "W-Noise",
+          "url": "https://open.spotify.com/artist/1WyYW2KP02ZOzDl4e9HBuB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-24",
+      "duration_ms": 130496,
+      "name": "Soothing Black Noise",
+      "url": "https://open.spotify.com/track/74R25gUKJQs6ZB3WWqtvr2"
+    },
+    {
+      "album": {
+        "name": "Deep Relaxation with Black Noise",
+        "url": "https://open.spotify.com/album/3r472qZO3RLPvLd98DXjXH"
+      },
+      "artists": [
+        {
+          "name": "Larnac HD",
+          "url": "https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 170827,
+      "name": "Soothing Black Noise Dreams",
+      "url": "https://open.spotify.com/track/4KuTnvBFmgKqGqPZ5hD754"
+    },
+    {
+      "album": {
+        "name": "Black Noise for Insomnia",
+        "url": "https://open.spotify.com/album/74foFH0uTQQ7JIiikT5AfD"
+      },
+      "artists": [
+        {
+          "name": "Noise Factory",
+          "url": "https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 177912,
+      "name": "Soothing Black Noise for Sleep",
+      "url": "https://open.spotify.com/track/2ZaYDDTNawvwY8SNepYgne"
+    },
+    {
+      "album": {
+        "name": "Soothing Black Noise for Stress Relief",
+        "url": "https://open.spotify.com/album/2CsPVS3h8C0uahyXQqzl3W"
+      },
+      "artists": [
+        {
+          "name": "Noise Library",
+          "url": "https://open.spotify.com/artist/1wFEHvHdcbuWVxo6reRywR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 141177,
+      "name": "Soothing Black Noise for Stress Relief",
+      "url": "https://open.spotify.com/track/7CMA9TfhS7oADrkywOcDV6"
+    },
+    {
+      "album": {
+        "name": "Black Noise Oasis",
+        "url": "https://open.spotify.com/album/5ODc3OYAC4cpKlX0OixNzM"
+      },
+      "artists": [
+        {
+          "name": "Andiman",
+          "url": "https://open.spotify.com/artist/1eDXoT9A8y5E9xIDrHV4yH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
+      "duration_ms": 166440,
+      "name": "Soothing Black Noise Melodies",
+      "url": "https://open.spotify.com/track/4HipvEFQndZ0vmutKfNuA4"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Black Noise",
+        "url": "https://open.spotify.com/album/37ldp3at9nReMFHYCxSNhW"
+      },
+      "artists": [
+        {
+          "name": "White Noise Doctor",
+          "url": "https://open.spotify.com/artist/0Fk48JURmZQal1PvjuG4Ag"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "Sounds Of Black Noise",
+      "url": "https://open.spotify.com/track/0rNq3xydhqgSjFCEWnZyWS"
+    },
+    {
+      "album": {
+        "name": "Black Noise Loopable",
+        "url": "https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ"
+      },
+      "artists": [
+        {
+          "name": "Black Noise Therapy",
+          "url": "https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM"
+        },
+        {
+          "name": "Black Noise Loopable",
+          "url": "https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 78947,
+      "name": "Stable Black Noise",
+      "url": "https://open.spotify.com/track/0qyLFNg8i9mYQIjDwf05iF"
+    },
+    {
+      "album": {
+        "name": "Study in the Dark Black Noise",
+        "url": "https://open.spotify.com/album/5VLg6w1YiaRFyafixwfgby"
+      },
+      "artists": [
+        {
+          "name": "Xella Machina",
+          "url": "https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174175,
+      "name": "Study in the Dark Black Noise",
+      "url": "https://open.spotify.com/track/7iTX39RczgyO1FSLjmWIJK"
+    },
+    {
+      "album": {
+        "name": "Black Noise Focus",
+        "url": "https://open.spotify.com/album/2CUwuQubUxTo9K0aSheylV"
+      },
+      "artists": [
+        {
+          "name": "Doug Carrlas",
+          "url": "https://open.spotify.com/artist/3ZshreGfZ99jtTwoYcmmT5"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Study With Black Noise",
+      "url": "https://open.spotify.com/track/0D7mSWSnFbCyvhsidgEwGu"
+    },
+    {
+      "album": {
+        "name": "Black Noise Above The Clouds",
+        "url": "https://open.spotify.com/album/4UIi2owR6BWkpxr2vRa8Xl"
+      },
+      "artists": [
+        {
+          "name": "Better Sleep FX",
+          "url": "https://open.spotify.com/artist/7dOdXBOM3O9jPWDBTIXSMD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 118808,
+      "name": "Summer Night Black Noise",
+      "url": "https://open.spotify.com/track/53tH06QnnFibvnf8NBz2NA"
+    },
+    {
+      "album": {
+        "name": "Technical Silence",
+        "url": "https://open.spotify.com/album/0Xir6UD5a3WgPN7vwFtpBP"
+      },
+      "artists": [
+        {
+          "name": "Trip To Jupiter",
+          "url": "https://open.spotify.com/artist/6l9ylPMaOkRtfo28aDYNpw"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Technical Silence (Black Noise) - Seamless",
+      "url": "https://open.spotify.com/track/0olzAqaeMhPP6oTa9jAWm0"
+    },
+    {
+      "album": {
+        "name": "Equal Energy Black Noise",
+        "url": "https://open.spotify.com/album/76HFNsyJkBZrpPeLO2Uzrm"
+      },
+      "artists": [
+        {
+          "name": "Noise Nuance",
+          "url": "https://open.spotify.com/artist/2UnfTYtP7exZ2He2RZSBd5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169326,
+      "name": "Tenebrous Black Noise",
+      "url": "https://open.spotify.com/track/3LD0mWGePFs9sqGqij7J3j"
+    },
+    {
+      "album": {
+        "name": "Black Noise Requiem",
+        "url": "https://open.spotify.com/album/4X1WG8eDASlKaUnk8P8mNF"
+      },
+      "artists": [
+        {
+          "name": "Ethereal Skies",
+          "url": "https://open.spotify.com/artist/2BK676olrtJINcTJBtgTGs"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173865,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/646yViBui3Ogdf9F4wuCln"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes To Black Noise",
+        "url": "https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe"
+      },
+      "artists": [
+        {
+          "name": "BGVV",
+          "url": "https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 112198,
+      "name": "The Calm of Black Noise",
+      "url": "https://open.spotify.com/track/3SgTsC5VdmZ5v77rnjXoDz"
+    },
+    {
+      "album": {
+        "name": "Breathe Easy With Black Noise",
+        "url": "https://open.spotify.com/album/4QwQGKgsOoR2YScHn9tQIW"
+      },
+      "artists": [
+        {
+          "name": "Aum Balti",
+          "url": "https://open.spotify.com/artist/0Tvw6JStyvQslAwq4tkfvE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 173127,
+      "name": "The Calming Sound of Black Noise",
+      "url": "https://open.spotify.com/track/4EgzX3g8B8dhCSQyagCyBo"
+    },
+    {
+      "album": {
+        "name": "Soothing Black Noise for Stress Relief",
+        "url": "https://open.spotify.com/album/2CsPVS3h8C0uahyXQqzl3W"
+      },
+      "artists": [
+        {
+          "name": "Noise Library",
+          "url": "https://open.spotify.com/artist/1wFEHvHdcbuWVxo6reRywR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 130031,
+      "name": "The Healing Power of Black Noise",
+      "url": "https://open.spotify.com/track/6bCtECZLS9UdRyQDPDW7hz"
+    },
+    {
+      "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/51gGDgzoPx2BKrcssfpXD7"
+      },
+      "artists": [
+        {
+          "name": "Digital Sounds Recordings",
+          "url": "https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 113684,
+      "name": "The Soothing Sound of Black Noise",
+      "url": "https://open.spotify.com/track/5y6xbJ2lPTn95YvaqUZ2cX"
+    },
+    {
+      "album": {
+        "name": "Tranquil Black Noise",
+        "url": "https://open.spotify.com/album/7uQIqVmUs8BKNKlxXc7cQ6"
+      },
+      "artists": [
+        {
+          "name": "Dreams of Dreams",
+          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125634,
+      "name": "Tranquil Black Noise",
+      "url": "https://open.spotify.com/track/3DHtYe6uxhBUWzRqfGOM9I"
+    },
+    {
+      "album": {
+        "name": "Relaxing Black Noise",
+        "url": "https://open.spotify.com/album/3fYR0hAFxWrJQzuHqQuRLP"
+      },
+      "artists": [
+        {
+          "name": "Fabricants of Noise",
+          "url": "https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "Tranquil Black Noise",
+      "url": "https://open.spotify.com/track/16mqlk2a8x1JHZbQZcgI8J"
+    },
+    {
+      "album": {
+        "name": "Tune In To Black Noise",
+        "url": "https://open.spotify.com/album/6az4sQ25wvUX44FmNXxt4E"
+      },
+      "artists": [
+        {
+          "name": "Nature Calm",
+          "url": "https://open.spotify.com/artist/7q3i8BbWfYPSZmTMJtge2P"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Tune In To Black Noise Pt.2",
+      "url": "https://open.spotify.com/track/1SSDbd8BbKpW0kq08HK3wh"
+    },
+    {
+      "album": {
+        "name": "Black Noise For Sleep",
+        "url": "https://open.spotify.com/album/1ApPzA3mdMFjAI1Uxp94Kk"
+      },
+      "artists": [
+        {
+          "name": "Dreams of Dreams",
+          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131825,
+      "name": "Warm Black Noise",
+      "url": "https://open.spotify.com/track/71jCCS4SUjrgvebOA9x9NP"
+    },
+    {
+      "album": {
+        "name": "Catching The Black Noise",
+        "url": "https://open.spotify.com/album/1oMb0NNA9fVICpF3bNexIn"
+      },
+      "artists": [
+        {
+          "name": "W-Noise",
+          "url": "https://open.spotify.com/artist/1WyYW2KP02ZOzDl4e9HBuB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 115323,
+      "name": "Wave Black Noise Melody",
+      "url": "https://open.spotify.com/track/7eH9nvJdLI0FtpR2Xc5Wtq"
+    },
+    {
+      "album": {
+        "name": "Waves & Black Noise",
+        "url": "https://open.spotify.com/album/2fxz3HVHCsn9fqh2eIebBr"
+      },
+      "artists": [
+        {
+          "name": "XLD Library",
+          "url": "https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 123386,
+      "name": "Waves & Black Noise",
+      "url": "https://open.spotify.com/track/5O4m5I5fPIZLwjOPpqZKi2"
+    },
+    {
+      "album": {
+        "name": "Black Noise Tranquility",
+        "url": "https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e"
+      },
+      "artists": [
+        {
+          "name": "Aurora Axis",
+          "url": "https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Whispering Abyss - Black Noise",
+      "url": "https://open.spotify.com/track/45ZoRghEQkmPcyLgokWjTN"
+    },
+    {
+      "album": {
+        "name": "Gentle Black Noise",
+        "url": "https://open.spotify.com/album/0Gv8mzDoswMXHLSKd6j02w"
+      },
+      "artists": [
+        {
+          "name": "Timmid",
+          "url": "https://open.spotify.com/artist/7biX22cIP5NyuORMdCWF8R"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 169412,
+      "name": "Whispering Black Noise",
+      "url": "https://open.spotify.com/track/0IURcboVux36hpDCFlVpvF"
+    },
+    {
+      "album": {
+        "name": "Dark Tranquility (Black Noise)",
+        "url": "https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe"
+      },
+      "artists": [
+        {
+          "name": "Arx",
+          "url": "https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 158000,
+      "name": "Whispering Silence - Black Noise",
+      "url": "https://open.spotify.com/track/10cebxyoIa2aizTA2KUDyb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVs65pqQR22I"
 }

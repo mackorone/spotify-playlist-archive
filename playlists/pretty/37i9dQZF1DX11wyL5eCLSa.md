@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Depresión Sonora en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,752 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,095 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lxs Vampirxs](https://open.spotify.com/track/7BdvEr27dk6v2X8OY2ZPi0) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Lxs Vampirxs](https://open.spotify.com/album/7BzIXzDZRnFZEHo1OfYsfy) | 2:29 |
-| 2 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 |
-| 3 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 |
-| 4 | [estupefacientes](https://open.spotify.com/track/7mSibHik6n6bjNAI27CWb5) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [estupefacientes](https://open.spotify.com/album/5tbHg9Ktqq5aYnsP5xUdO9) | 3:34 |
+| 1 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 |
+| 2 | [estupefacientes](https://open.spotify.com/track/7mSibHik6n6bjNAI27CWb5) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [estupefacientes](https://open.spotify.com/album/5tbHg9Ktqq5aYnsP5xUdO9) | 3:34 |
+| 3 | [Decime](https://open.spotify.com/track/4GrktFU9YJBgZwDbtp45dO) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Cocoliche Life](https://open.spotify.com/album/4gv3OhieyZEVI0bjW7tIJc) | 3:39 |
+| 4 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 |
 | 5 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
 | 6 | [Te entiendo](https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Te entiendo](https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII) | 4:00 |
 | 7 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 | 100 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
 
-Snapshot ID: `MCwyZjhhODEyODI3ZjUwNDhhZDcwMTNmMjM5NDkwZTYyNDNmNDU5Yzk3`
+Snapshot ID: `MCxhMWUzNmY1MWY3OTczMjkwNGM0YzE4MThlYmZiZDgwODU4OWU5ZDQw`

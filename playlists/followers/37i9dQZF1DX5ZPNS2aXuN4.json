@@ -1,735 +1,2921 @@
 {
-  "2021-12-25": 11360,
-  "2021-12-26": 11364,
-  "2021-12-27": 11377,
-  "2021-12-28": 11377,
-  "2021-12-29": 11386,
-  "2021-12-30": 11397,
-  "2021-12-31": 11407,
-  "2022-01-01": 11412,
-  "2022-01-02": 11414,
-  "2022-01-03": 11418,
-  "2022-01-04": 11430,
-  "2022-01-05": 11437,
-  "2022-01-06": 11440,
-  "2022-01-07": 11447,
-  "2022-01-08": 11462,
-  "2022-01-09": 11462,
-  "2022-01-10": 11468,
-  "2022-01-11": 11480,
-  "2022-01-12": 11487,
-  "2022-01-13": 11492,
-  "2022-01-14": 11503,
-  "2022-01-15": 11522,
-  "2022-01-16": 11523,
-  "2022-01-17": 11543,
-  "2022-01-18": 11542,
-  "2022-01-19": 11548,
-  "2022-01-20": 11554,
-  "2022-01-21": 11565,
-  "2022-01-22": 11574,
-  "2022-01-23": 11582,
-  "2022-01-24": 11580,
-  "2022-01-25": 11582,
-  "2022-01-26": 11591,
-  "2022-01-27": 11597,
-  "2022-01-28": 11604,
-  "2022-01-29": 11608,
-  "2022-01-30": 11621,
-  "2022-01-31": 11635,
-  "2022-02-01": 11646,
-  "2022-02-02": 11651,
-  "2022-02-03": 11660,
-  "2022-02-04": 11667,
-  "2022-02-05": 11674,
-  "2022-02-06": 11681,
-  "2022-02-07": 11689,
-  "2022-02-08": 11697,
-  "2022-02-09": 11701,
-  "2022-02-10": 11705,
-  "2022-02-11": 11706,
-  "2022-02-12": 11710,
-  "2022-02-13": 11723,
-  "2022-02-14": 11728,
-  "2022-02-15": 11738,
-  "2022-02-16": 11751,
-  "2022-02-17": 11761,
-  "2022-02-18": 11764,
-  "2022-02-19": 11765,
-  "2022-02-20": 11771,
-  "2022-02-21": 11783,
-  "2022-02-22": 11792,
-  "2022-02-23": 11794,
-  "2022-02-24": 11806,
-  "2022-02-25": 11815,
-  "2022-02-26": 11821,
-  "2022-02-27": 11836,
-  "2022-02-28": 11836,
-  "2022-03-01": 11848,
-  "2022-03-02": 11849,
-  "2022-03-03": 11859,
-  "2022-03-04": 11868,
-  "2022-03-05": 11873,
-  "2022-03-06": 11884,
-  "2022-03-07": 11903,
-  "2022-03-08": 11913,
-  "2022-03-09": 11921,
-  "2022-03-10": 11932,
-  "2022-03-11": 11944,
-  "2022-03-12": 11959,
-  "2022-03-13": 11969,
-  "2022-03-14": 11977,
-  "2022-03-15": 11987,
-  "2022-03-16": 11999,
-  "2022-03-17": 12007,
-  "2022-03-18": 12017,
-  "2022-03-19": 12023,
-  "2022-03-20": 12023,
-  "2022-03-21": 12042,
-  "2022-03-22": 12050,
-  "2022-03-23": 12062,
-  "2022-03-24": 12073,
-  "2022-03-25": 12083,
-  "2022-03-26": 12099,
-  "2022-03-27": 12115,
-  "2022-03-28": 12132,
-  "2022-03-30": 12148,
-  "2022-03-31": 12160,
-  "2022-04-01": 12167,
-  "2022-04-02": 12180,
-  "2022-04-03": 12191,
-  "2022-04-04": 12201,
-  "2022-04-05": 12209,
-  "2022-04-06": 12221,
-  "2022-04-07": 12233,
-  "2022-04-08": 12242,
-  "2022-04-09": 12251,
-  "2022-04-10": 12265,
-  "2022-04-11": 12277,
-  "2022-04-12": 12279,
-  "2022-04-13": 12290,
-  "2022-04-14": 12292,
-  "2022-04-15": 12298,
-  "2022-04-16": 12300,
-  "2022-04-17": 12318,
-  "2022-04-18": 12326,
-  "2022-04-19": 12329,
-  "2022-04-20": 12335,
-  "2022-04-21": 12341,
-  "2022-04-22": 12348,
-  "2022-04-23": 12350,
-  "2022-04-24": 12354,
-  "2022-04-25": 12367,
-  "2022-04-26": 12375,
-  "2022-04-27": 12387,
-  "2022-04-28": 12400,
-  "2022-04-29": 12411,
-  "2022-04-30": 12419,
-  "2022-05-01": 12425,
-  "2022-05-02": 12425,
-  "2022-05-03": 12435,
-  "2022-05-04": 12444,
-  "2022-05-05": 12446,
-  "2022-05-06": 12456,
-  "2022-05-07": 12463,
-  "2022-05-08": 12476,
-  "2022-05-09": 12477,
-  "2022-05-10": 12477,
-  "2022-05-11": 12483,
-  "2022-05-12": 12493,
-  "2022-05-13": 12508,
-  "2022-05-14": 12518,
-  "2022-05-15": 12527,
-  "2022-05-16": 12528,
-  "2022-05-17": 12542,
-  "2022-05-18": 12548,
-  "2022-05-19": 12554,
-  "2022-05-20": 12565,
-  "2022-05-21": 12579,
-  "2022-05-22": 12579,
-  "2022-05-23": 12589,
-  "2022-05-24": 12596,
-  "2022-05-25": 12608,
-  "2022-05-26": 12615,
-  "2022-05-27": 12621,
-  "2022-05-28": 12630,
-  "2022-05-29": 12641,
-  "2022-05-30": 12645,
-  "2022-05-31": 12652,
-  "2022-06-01": 12664,
-  "2022-06-02": 12663,
-  "2022-06-03": 12676,
-  "2022-06-04": 12676,
-  "2022-06-05": 12681,
-  "2022-06-06": 12691,
-  "2022-06-07": 12698,
-  "2022-06-08": 12700,
-  "2022-06-09": 12705,
-  "2022-06-10": 12714,
-  "2022-06-11": 12728,
-  "2022-06-12": 12735,
-  "2022-06-13": 12742,
-  "2022-06-14": 12749,
-  "2022-06-15": 12755,
-  "2022-06-16": 12760,
-  "2022-06-17": 12771,
-  "2022-06-18": 12776,
-  "2022-06-19": 12793,
-  "2022-06-20": 12793,
-  "2022-06-21": 12805,
-  "2022-06-22": 12825,
-  "2022-06-23": 12825,
-  "2022-06-24": 12835,
-  "2022-06-25": 12846,
-  "2022-06-26": 12853,
-  "2022-06-27": 12860,
-  "2022-06-28": 12869,
-  "2022-06-29": 12879,
-  "2022-06-30": 12889,
-  "2022-07-01": 12894,
-  "2022-07-02": 12909,
-  "2022-07-03": 12912,
-  "2022-07-04": 12921,
-  "2022-07-05": 12934,
-  "2022-07-06": 12940,
-  "2022-07-07": 12943,
-  "2022-07-08": 12950,
-  "2022-07-09": 12960,
-  "2022-07-10": 12967,
-  "2022-07-11": 12971,
-  "2022-07-12": 12982,
-  "2022-07-13": 12998,
-  "2022-07-14": 13000,
-  "2022-07-15": 13010,
-  "2022-07-16": 13021,
-  "2022-07-17": 13036,
-  "2022-07-18": 13048,
-  "2022-07-19": 13058,
-  "2022-07-20": 13065,
-  "2022-07-21": 13078,
-  "2022-07-22": 13085,
-  "2022-07-23": 13092,
-  "2022-07-24": 13099,
-  "2022-07-25": 13111,
-  "2022-07-26": 13122,
-  "2022-07-27": 13124,
-  "2022-07-28": 13135,
-  "2022-07-29": 13147,
-  "2022-07-30": 13149,
-  "2022-07-31": 13149,
-  "2022-08-01": 13164,
-  "2022-08-02": 13178,
-  "2022-08-03": 13178,
-  "2022-08-04": 13186,
-  "2022-08-05": 13193,
-  "2022-08-06": 13203,
-  "2022-08-07": 13210,
-  "2022-08-08": 13228,
-  "2022-08-09": 13242,
-  "2022-08-10": 13252,
-  "2022-08-11": 13257,
-  "2022-08-12": 13270,
-  "2022-08-13": 13281,
-  "2022-08-14": 13295,
-  "2022-08-15": 13309,
-  "2022-08-16": 13314,
-  "2022-08-17": 13328,
-  "2022-08-18": 13341,
-  "2022-08-19": 13352,
-  "2022-08-20": 13358,
-  "2022-08-21": 13368,
-  "2022-08-22": 13380,
-  "2022-08-23": 13385,
-  "2022-08-24": 13390,
-  "2022-08-25": 13396,
-  "2022-08-26": 13414,
-  "2022-08-27": 13426,
-  "2022-08-28": 13443,
-  "2022-08-29": 13448,
-  "2022-08-30": 13450,
-  "2022-08-31": 13444,
-  "2022-09-01": 13438,
-  "2022-09-02": 13430,
-  "2022-09-03": 13438,
-  "2022-09-04": 13408,
-  "2022-09-05": 13423,
-  "2022-09-06": 13433,
-  "2022-09-07": 13443,
-  "2022-09-09": 13471,
-  "2022-09-10": 13476,
-  "2022-09-11": 13497,
-  "2022-09-12": 13517,
-  "2022-09-13": 13530,
-  "2022-09-15": 13564,
-  "2022-09-16": 13571,
-  "2022-09-17": 13590,
-  "2022-09-18": 13598,
-  "2022-09-19": 13621,
-  "2022-09-20": 13625,
-  "2022-09-21": 13637,
-  "2022-09-22": 13651,
-  "2022-09-23": 13662,
-  "2022-09-24": 13680,
-  "2022-09-25": 13692,
-  "2022-09-26": 13707,
-  "2022-09-27": 13718,
-  "2022-09-28": 13736,
-  "2022-09-29": 13747,
-  "2022-09-30": 13753,
-  "2022-10-01": 13766,
-  "2022-10-02": 13786,
-  "2022-10-03": 13802,
-  "2022-10-04": 13808,
-  "2022-10-05": 13813,
-  "2022-10-06": 13828,
-  "2022-10-07": 13839,
-  "2022-10-08": 13847,
-  "2022-10-09": 13866,
-  "2022-10-10": 13871,
-  "2022-10-11": 13889,
-  "2022-10-12": 13905,
-  "2022-10-13": 13917,
-  "2022-10-14": 13926,
-  "2022-10-15": 13935,
-  "2022-10-16": 13946,
-  "2022-10-17": 13963,
-  "2022-10-18": 13960,
-  "2022-10-19": 13984,
-  "2022-10-20": 13999,
-  "2022-10-21": 14008,
-  "2022-10-22": 14022,
-  "2022-10-23": 14042,
-  "2022-10-24": 14056,
-  "2022-10-25": 14067,
-  "2022-10-26": 14074,
-  "2022-10-27": 14086,
-  "2022-10-28": 14101,
-  "2022-10-29": 14106,
-  "2022-10-30": 14132,
-  "2022-10-31": 14153,
-  "2022-11-01": 14171,
-  "2022-11-02": 14186,
-  "2022-11-03": 14199,
-  "2022-11-04": 14213,
-  "2022-11-05": 14224,
-  "2022-11-06": 14244,
-  "2022-11-07": 14264,
-  "2022-11-08": 14271,
-  "2022-11-09": 14287,
-  "2022-11-10": 14302,
-  "2022-11-11": 14306,
-  "2022-11-12": 14311,
-  "2022-11-13": 14323,
-  "2022-11-14": 14332,
-  "2022-11-15": 14347,
-  "2022-11-16": 14361,
-  "2022-11-17": 14368,
-  "2022-11-18": 14372,
-  "2022-11-19": 14366,
-  "2022-11-20": 14384,
-  "2022-11-21": 14379,
-  "2022-11-22": 14411,
-  "2022-11-23": 14411,
-  "2022-11-24": 14454,
-  "2022-11-25": 14473,
-  "2022-11-26": 14487,
-  "2022-11-27": 14514,
-  "2022-11-28": 14547,
-  "2022-11-29": 14561,
-  "2022-11-30": 14570,
-  "2022-12-01": 14587,
-  "2022-12-02": 14597,
-  "2022-12-03": 14625,
-  "2022-12-04": 14638,
-  "2022-12-05": 14663,
-  "2022-12-06": 14683,
-  "2022-12-07": 14695,
-  "2022-12-08": 14705,
-  "2022-12-09": 14721,
-  "2022-12-10": 14742,
-  "2022-12-11": 14749,
-  "2022-12-12": 14772,
-  "2022-12-13": 14787,
-  "2022-12-14": 14798,
-  "2022-12-15": 14808,
-  "2022-12-16": 14819,
-  "2022-12-17": 14833,
-  "2022-12-18": 14851,
-  "2022-12-19": 14859,
-  "2022-12-20": 14879,
-  "2022-12-21": 14879,
-  "2022-12-22": 14886,
-  "2022-12-24": 14914,
-  "2022-12-25": 14920,
-  "2022-12-26": 14929,
-  "2022-12-27": 14947,
-  "2022-12-28": 14962,
-  "2022-12-29": 14969,
-  "2022-12-30": 14986,
-  "2022-12-31": 15003,
-  "2023-01-01": 15019,
-  "2023-01-02": 15028,
-  "2023-01-03": 15047,
-  "2023-01-04": 15061,
-  "2023-01-05": 15079,
-  "2023-01-06": 15106,
-  "2023-01-07": 15126,
-  "2023-01-08": 15127,
-  "2023-01-09": 15146,
-  "2023-01-10": 15158,
-  "2023-01-11": 15163,
-  "2023-01-12": 15184,
-  "2023-01-13": 15204,
-  "2023-01-14": 15225,
-  "2023-01-15": 15231,
-  "2023-01-16": 15246,
-  "2023-01-17": 15264,
-  "2023-01-18": 15277,
-  "2023-01-19": 15282,
-  "2023-01-20": 15302,
-  "2023-01-21": 15318,
-  "2023-01-22": 15329,
-  "2023-01-23": 15345,
-  "2023-01-24": 15358,
-  "2023-01-25": 15375,
-  "2023-01-26": 15386,
-  "2023-01-27": 15397,
-  "2023-01-28": 15411,
-  "2023-01-29": 15425,
-  "2023-01-30": 15439,
-  "2023-01-31": 15439,
-  "2023-02-01": 15454,
-  "2023-02-02": 15463,
-  "2023-02-03": 15478,
-  "2023-02-04": 15500,
-  "2023-02-05": 15515,
-  "2023-02-06": 15534,
-  "2023-02-07": 15549,
-  "2023-02-08": 15570,
-  "2023-02-09": 15570,
-  "2023-02-10": 15585,
-  "2023-02-11": 15599,
-  "2023-02-12": 15633,
-  "2023-02-13": 15645,
-  "2023-02-14": 15645,
-  "2023-02-15": 15659,
-  "2023-02-16": 15666,
-  "2023-02-17": 15688,
-  "2023-02-18": 15724,
-  "2023-02-19": 15727,
-  "2023-02-20": 15752,
-  "2023-02-21": 15762,
-  "2023-02-22": 15774,
-  "2023-02-23": 15782,
-  "2023-02-24": 15793,
-  "2023-02-25": 15812,
-  "2023-02-26": 15819,
-  "2023-02-27": 15851,
-  "2023-02-28": 15851,
-  "2023-03-01": 15858,
-  "2023-03-02": 15871,
-  "2023-03-03": 15883,
-  "2023-03-04": 15899,
-  "2023-03-05": 15931,
-  "2023-03-06": 15931,
-  "2023-03-07": 15950,
-  "2023-03-08": 15969,
-  "2023-03-09": 15985,
-  "2023-03-10": 16001,
-  "2023-03-11": 16013,
-  "2023-03-12": 16025,
-  "2023-03-13": 16041,
-  "2023-03-14": 16054,
-  "2023-03-15": 16072,
-  "2023-03-16": 16086,
-  "2023-03-17": 16086,
-  "2023-03-18": 16116,
-  "2023-03-19": 16131,
-  "2023-03-20": 16148,
-  "2023-03-21": 16164,
-  "2023-03-22": 16176,
-  "2023-03-23": 16187,
-  "2023-03-24": 16187,
-  "2023-03-25": 16224,
-  "2023-03-26": 16245,
-  "2023-03-27": 16268,
-  "2023-03-28": 16289,
-  "2023-03-29": 16298,
-  "2023-03-30": 16330,
-  "2023-03-31": 16330,
-  "2023-04-01": 16340,
-  "2023-04-02": 16355,
-  "2023-04-03": 16368,
-  "2023-04-04": 16380,
-  "2023-04-05": 16390,
-  "2023-04-06": 16404,
-  "2023-04-07": 16418,
-  "2023-04-09": 16448,
-  "2023-04-10": 16458,
-  "2023-04-11": 16494,
-  "2023-04-12": 16494,
-  "2023-04-13": 16507,
-  "2023-04-14": 16522,
-  "2023-04-15": 16534,
-  "2023-04-16": 16548,
-  "2023-04-17": 16559,
-  "2023-04-18": 16569,
-  "2023-04-19": 16593,
-  "2023-04-20": 16618,
-  "2023-04-21": 16630,
-  "2023-04-22": 16644,
-  "2023-04-23": 16658,
-  "2023-04-24": 16674,
-  "2023-04-25": 16684,
-  "2023-04-26": 16694,
-  "2023-04-27": 16710,
-  "2023-04-28": 16722,
-  "2023-04-29": 16734,
-  "2023-04-30": 16743,
-  "2023-05-01": 16761,
-  "2023-05-02": 16768,
-  "2023-05-03": 16778,
-  "2023-05-04": 16795,
-  "2023-05-05": 16809,
-  "2023-05-06": 16816,
-  "2023-05-07": 16828,
-  "2023-05-08": 16840,
-  "2023-05-09": 16858,
-  "2023-05-10": 16876,
-  "2023-05-11": 16883,
-  "2023-05-12": 16893,
-  "2023-05-13": 16906,
-  "2023-05-14": 16922,
-  "2023-05-15": 16934,
-  "2023-05-16": 16945,
-  "2023-05-17": 16950,
-  "2023-05-18": 16961,
-  "2023-05-19": 16969,
-  "2023-05-20": 17003,
-  "2023-05-21": 17003,
-  "2023-05-22": 17003,
-  "2023-05-23": 17027,
-  "2023-05-24": 17051,
-  "2023-05-25": 17054,
-  "2023-05-26": 17063,
-  "2023-05-27": 17079,
-  "2023-05-28": 17096,
-  "2023-05-29": 17096,
-  "2023-05-30": 17127,
-  "2023-05-31": 17142,
-  "2023-06-01": 17149,
-  "2023-06-02": 17159,
-  "2023-06-03": 17171,
-  "2023-06-04": 17186,
-  "2023-06-05": 17197,
-  "2023-06-06": 17207,
-  "2023-06-07": 17210,
-  "2023-06-08": 17215,
-  "2023-06-09": 17231,
-  "2023-06-10": 17242,
-  "2023-06-11": 17253,
-  "2023-06-12": 17265,
-  "2023-06-13": 17282,
-  "2023-06-14": 17300,
-  "2023-06-15": 17311,
-  "2023-06-16": 17324,
-  "2023-06-17": 17336,
-  "2023-06-18": 17345,
-  "2023-06-19": 17361,
-  "2023-06-20": 17373,
-  "2023-06-21": 17387,
-  "2023-06-22": 17401,
-  "2023-06-23": 17411,
-  "2023-06-24": 17422,
-  "2023-06-25": 17430,
-  "2023-06-26": 17443,
-  "2023-06-27": 17452,
-  "2023-06-28": 17459,
-  "2023-06-29": 17469,
-  "2023-06-30": 17481,
-  "2023-07-01": 17501,
-  "2023-07-02": 17501,
-  "2023-07-03": 17516,
-  "2023-07-04": 17522,
-  "2023-07-05": 17529,
-  "2023-07-06": 17547,
-  "2023-07-07": 17547,
-  "2023-07-08": 17554,
-  "2023-07-09": 17559,
-  "2023-07-10": 17565,
-  "2023-07-11": 17576,
-  "2023-07-12": 17582,
-  "2023-07-13": 17592,
-  "2023-07-14": 17598,
-  "2023-07-15": 17600,
-  "2023-07-16": 17616,
-  "2023-07-17": 17617,
-  "2023-07-18": 17624,
-  "2023-07-19": 17635,
-  "2023-07-20": 17642,
-  "2023-07-21": 17655,
-  "2023-07-22": 17663,
-  "2023-07-23": 17670,
-  "2023-07-24": 17682,
-  "2023-07-25": 17690,
-  "2023-07-26": 17698,
-  "2023-07-27": 17716,
-  "2023-07-28": 17728,
-  "2023-07-29": 17738,
-  "2023-07-30": 17741,
-  "2023-07-31": 17752,
-  "2023-08-01": 17763,
-  "2023-08-02": 17778,
-  "2023-08-03": 17787,
-  "2023-08-04": 17790,
-  "2023-08-05": 17796,
-  "2023-08-06": 17820,
-  "2023-08-07": 17820,
-  "2023-08-08": 17836,
-  "2023-08-09": 17851,
-  "2023-08-10": 17856,
-  "2023-08-11": 17873,
-  "2023-08-12": 17883,
-  "2023-08-13": 17893,
-  "2023-08-14": 17903,
-  "2023-08-15": 17924,
-  "2023-08-16": 17924,
-  "2023-08-17": 17933,
-  "2023-08-18": 17943,
-  "2023-08-19": 17955,
-  "2023-08-20": 17972,
-  "2023-08-21": 17988,
-  "2023-08-22": 17999,
-  "2023-08-23": 18010,
-  "2023-08-24": 18035,
-  "2023-08-25": 18048,
-  "2023-08-26": 18064,
-  "2023-08-27": 18077,
-  "2023-08-28": 18096,
-  "2023-08-29": 18104,
-  "2023-08-30": 18119,
-  "2023-08-31": 18134,
-  "2023-09-01": 18152,
-  "2023-09-02": 18152,
-  "2023-09-03": 18154,
-  "2023-09-04": 18166,
-  "2023-09-05": 18174,
-  "2023-09-06": 18184,
-  "2023-09-07": 18194,
-  "2023-09-08": 18200,
-  "2023-09-09": 18210,
-  "2023-09-10": 18219,
-  "2023-09-11": 18233,
-  "2023-09-12": 18246,
-  "2023-09-13": 18252,
-  "2023-09-14": 18262,
-  "2023-09-15": 18267,
-  "2023-09-16": 18276,
-  "2023-09-17": 18289,
-  "2023-09-18": 18297,
-  "2023-09-19": 18308,
-  "2023-09-20": 18315,
-  "2023-09-21": 18320,
-  "2023-09-22": 18315,
-  "2023-09-23": 18318,
-  "2023-09-24": 18322,
-  "2023-09-25": 18336,
-  "2023-09-26": 18349,
-  "2023-09-27": 18358,
-  "2023-09-28": 18366,
-  "2023-09-29": 18376,
-  "2023-09-30": 18385,
-  "2023-10-01": 18393,
-  "2023-10-02": 18409,
-  "2023-10-03": 18414,
-  "2023-10-04": 18424,
-  "2023-10-05": 18428,
-  "2023-10-06": 18431,
-  "2023-10-07": 18449,
-  "2023-10-08": 18453,
-  "2023-10-09": 18467,
-  "2023-10-10": 18472,
-  "2023-10-11": 18485,
-  "2023-10-12": 18485,
-  "2023-10-13": 18487,
-  "2023-10-14": 18494,
-  "2023-10-15": 18495,
-  "2023-10-16": 18503,
-  "2023-10-17": 18504,
-  "2023-10-18": 18517,
-  "2023-10-19": 18525,
-  "2023-10-20": 18530,
-  "2023-10-21": 18540,
-  "2023-10-22": 18550,
-  "2023-10-23": 18558,
-  "2023-10-24": 18557,
-  "2023-10-25": 18566,
-  "2023-10-26": 18580,
-  "2023-10-27": 18589,
-  "2023-10-28": 18591,
-  "2023-10-29": 18599,
-  "2023-10-30": 18611,
-  "2023-10-31": 18611,
-  "2023-11-01": 18616,
-  "2023-11-02": 18627,
-  "2023-11-03": 18636,
-  "2023-11-04": 18647,
-  "2023-11-05": 18656,
-  "2023-11-06": 18662,
-  "2023-11-07": 18671,
-  "2023-11-08": 18682,
-  "2023-11-09": 18689,
-  "2023-11-10": 18708,
-  "2023-11-11": 18716,
-  "2023-11-12": 18727,
-  "2023-11-13": 18738,
-  "2023-11-14": 18746,
-  "2023-11-15": 18746,
-  "2023-11-16": 18775,
-  "2023-11-17": 18789,
-  "2023-11-18": 18789,
-  "2023-11-19": 18804,
-  "2023-11-20": 18814,
-  "2023-11-21": 18824,
-  "2023-11-22": 18833,
-  "2023-11-23": 18839,
-  "2023-11-24": 18848,
-  "2023-11-25": 18855,
-  "2023-11-26": 18867,
-  "2023-11-27": 18878,
-  "2023-11-28": 18881,
-  "2023-11-29": 18898,
-  "2023-11-30": 18898,
-  "2023-12-01": 18911,
-  "2023-12-02": 18927,
-  "2023-12-03": 18941,
-  "2023-12-04": 18950,
-  "2023-12-05": 18963,
-  "2023-12-06": 18972,
-  "2023-12-07": 18987,
-  "2023-12-08": 18995,
-  "2023-12-09": 19009,
-  "2023-12-10": 19020,
-  "2023-12-11": 19025,
-  "2023-12-12": 19027,
-  "2023-12-13": 19035,
-  "2023-12-14": 19045,
-  "2023-12-15": 19051,
-  "2023-12-16": 19067,
-  "2023-12-17": 19075,
-  "2023-12-18": 19080,
-  "2023-12-19": 19078,
-  "2023-12-20": 19091,
-  "2023-12-21": 19099,
-  "2023-12-22": 19107,
-  "2023-12-23": 19119,
-  "2023-12-24": 19134,
-  "2023-12-25": 19143,
-  "2023-12-26": 19154,
-  "2023-12-27": 19171,
-  "2023-12-30": 19188,
-  "2023-12-31": 19193,
-  "2024-01-01": 19202,
-  "2024-01-02": 19203,
-  "2024-01-03": 19214
+  "2024-01-17": 19359,
+  "date_first_scraped": "2021-12-21",
+  "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
+  "name": "This Is Bart\u00f3k",
+  "tracks": [
+    {
+      "album": {
+        "name": "Szymanowski: Symphonies Nos. 1 & 2 / Bartok: Two Pictures",
+        "url": "https://open.spotify.com/album/2sRhdZUAexHRvvdy0jUHJc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Detroit Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 550840,
+      "name": "2 Pictures, Op.10 (Sz. 46): 2. Dorftanz",
+      "url": "https://open.spotify.com/track/3PoKD0XdeKoqeVgabNpBW9"
+    },
+    {
+      "album": {
+        "name": "Szymanowski: Symphonies Nos. 1 & 2 / Bartok: Two Pictures",
+        "url": "https://open.spotify.com/album/2HibqQ4RsF6BRNeRZlI84f"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Detroit Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550840,
+      "name": "2 Pictures, Op.10 (Sz. 46): 2. Dorftanz",
+      "url": "https://open.spotify.com/track/6i4eW4tmetHtmS3RFWNIQB"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Complete Solo Piano Works",
+        "url": "https://open.spotify.com/album/4SBn5kLoEQpTssXB3b2jjn"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192760,
+      "name": "3 Hungarian Folksongs from the Cs\u00eck District, BB 45b, Sz. 35a",
+      "url": "https://open.spotify.com/track/0OmEduH7nOdlkl4kOaLD3o"
+    },
+    {
+      "album": {
+        "name": "Zolt\u00e1n Kocsis plays Bart\u00f3k",
+        "url": "https://open.spotify.com/album/5ZJKtUEoReuPeBHjREHrpc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192760,
+      "name": "3 Hungarian Folksongs from the Cs\u00eck District, BB 45b, Sz. 35a",
+      "url": "https://open.spotify.com/track/5ovfrUhKlelQEQy1TOChLD"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Piano Works",
+        "url": "https://open.spotify.com/album/2gAwHfOLAwLbPz2Tn9uvV2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198298,
+      "name": "3 Hungarian Folksongs from the Cs\u00eck District, BB 45b, Sz. 35a",
+      "url": "https://open.spotify.com/track/1I1HDfAzH34vDqIf7Oslap"
+    },
+    {
+      "album": {
+        "name": "Echoes from an Empire",
+        "url": "https://open.spotify.com/album/7gjCwJ6Zif3L1JOR9DhX9c"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Karim Said",
+          "url": "https://open.spotify.com/artist/3KAFhuS6uJ1ZnVZXV7JSM5"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "3 Rondos on Slovak Folktunes, BB 92: No. 1. Andante",
+      "url": "https://open.spotify.com/track/5NhW6SeNDBaWclc73ZnRLn"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Complete Works for Piano Solo, Vol. 2 \u2013 The Romantic Bart\u00f3k",
+        "url": "https://open.spotify.com/album/2NYDZNpORZUw9Jon6Z1TYH"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Andreas Bach",
+          "url": "https://open.spotify.com/artist/3mie871VjIKR2EV34P1lhj"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 673800,
+      "name": "4 Piano Pieces, Sz. 22: No. 4. Scherzo",
+      "url": "https://open.spotify.com/track/0tlHSq6tvEB7ohg0aaL58d"
+    },
+    {
+      "album": {
+        "name": "Bartok: 5 Songs / Hungarian Folksongs",
+        "url": "https://open.spotify.com/album/6YmwcQKBGg6puz6vSTcmuk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Julia Hamari",
+          "url": "https://open.spotify.com/artist/4H3kRAUrqpZSAUUXtWm8jt"
+        },
+        {
+          "name": "Ilona Prunyi",
+          "url": "https://open.spotify.com/artist/4YwG4hDeSXGqjuzxQ5oWvZ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "5 Dal (5 Songs), BB 71: No. 2. Nyar: Szomjasan vagyva (Summer: Lying and Longing)",
+      "url": "https://open.spotify.com/track/1Pv0QKjixOJM0SWBqSzFnp"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Chorus",
+          "url": "https://open.spotify.com/artist/1cqgTAFV7jTXVQ3IXaYj8m"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172133,
+      "name": "A csodalatos mandarin (The Miraculous Mandarin), Op. 19, BB 82: The three tramps leap out, seize the Mandarin and tear him away from the girl",
+      "url": "https://open.spotify.com/track/5V2TPmELr4IwCKPoWyhCMk"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/2QpEu0fuS8PLaxjUyfvB2K"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Chorus",
+          "url": "https://open.spotify.com/artist/1cqgTAFV7jTXVQ3IXaYj8m"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172133,
+      "name": "A csod\u00e1latos mandarin (the Miraculous Mandarin), Op. 19, BB 82: The three tramps leap out, seize the Mandarin and tear him away from the girl",
+      "url": "https://open.spotify.com/track/4rFimGiIUwxDKZeRSGZpaa"
+    },
+    {
+      "album": {
+        "name": "Bartok: The Wooden Prince & Hungarian Pictures",
+        "url": "https://open.spotify.com/album/6bC20Iay4RExjEIRxidmR2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298826,
+      "name": "A fabol faragott kiralyfi (The Wooden Prince), Op. 13, BB 74: Prelude",
+      "url": "https://open.spotify.com/track/7taFiCLrKt3VwPTCVx5oYG"
+    },
+    {
+      "album": {
+        "name": "Bartok: Piano Music, Vol. 3: Out of Doors - Ten Easy Pieces - Allegro Barbaro",
+        "url": "https://open.spotify.com/album/7JT32DrNhWuisyprcTq1pB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169200,
+      "name": "Allegro barbaro, BB 63: Allegro barbaro, Sz. 49",
+      "url": "https://open.spotify.com/track/6MCtPu3IGdv24prLsTlt8S"
+    },
+    {
+      "album": {
+        "name": "Bartok: Piano Music, Vol. 3: Out of Doors - Ten Easy Pieces - Allegro Barbaro",
+        "url": "https://open.spotify.com/album/72tBW1YB0nFseu0fKkzSsS"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Allegro barbaro, BB 63: Allegro barbaro, Sz. 49",
+      "url": "https://open.spotify.com/track/6xlIxTI615UAXadCS2OIKP"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 1",
+        "url": "https://open.spotify.com/album/372MQsVjfQBLjge7tD72fx"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        },
+        {
+          "name": "Andrew Armstrong",
+          "url": "https://open.spotify.com/artist/11IpUdUFMdu2Ne6At8LmKm"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241266,
+      "name": "Andante in A Major, BB 26b",
+      "url": "https://open.spotify.com/track/1wC0GAAF4oOs3graC6rgA2"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 1",
+        "url": "https://open.spotify.com/album/2VgfIFqDJLhSRMHJDVV1x2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        },
+        {
+          "name": "Andrew Armstrong",
+          "url": "https://open.spotify.com/artist/11IpUdUFMdu2Ne6At8LmKm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241413,
+      "name": "Andante in A Major, BB 26b",
+      "url": "https://open.spotify.com/track/4TsFOEqZt0C1db2nm5xfdG"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Mikrokosmos Selections",
+        "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Georges Solchany",
+          "url": "https://open.spotify.com/artist/16U37rLAVgm1h8e0Q0pE0d"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454880,
+      "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
+      "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Piano Concertos Nos. 1 & 3 - Bart\u00f3k: Piano Concerto No. 3",
+        "url": "https://open.spotify.com/album/4cRYryVlLokaJ34KuZIzNM"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442093,
+      "name": "Bart\u00f3k: Piano Concerto No. 3 in E Major, Sz. 119: I. Allegretto",
+      "url": "https://open.spotify.com/track/1hFM1eQZbXFnGrI9Z86nrK"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos Nos 1 & 2",
+        "url": "https://open.spotify.com/album/3YZxpl68tpbSn5lEhD3y0u"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Fran\u00e7ois-Xavier Roth",
+          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 730813,
+      "name": "Bart\u00f3k: Violin Concerto No. 1, Sz. 36: II. Allegro giocoso",
+      "url": "https://open.spotify.com/track/2YXhapXWvp0v3yXcNzfrSZ"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Bluebeard's Castle, Op. 11, Sz. 48",
+        "url": "https://open.spotify.com/album/36dGchtqt2hLKTS2oeNHPx"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gustav Belacek",
+          "url": "https://open.spotify.com/artist/3yASyuRB3ljkWfheXMRdhX"
+        },
+        {
+          "name": "Andrea Mel\u00e1th",
+          "url": "https://open.spotify.com/artist/54aQlTz3Kq5fbNX4is2SsP"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526186,
+      "name": "Bluebeard's Castle, Op. 11, Sz. 48: L\u00e1sd a r\u00e9gi asszonyokat (7th Door)",
+      "url": "https://open.spotify.com/track/2CiEsmgNchRGnvHMIioM7U"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Bluebeard's Castle, Op. 11, Sz. 48",
+        "url": "https://open.spotify.com/album/285YaRxFlVCs7TRmzVLsfT"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gust\u00e1v Bel\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/1b3t1oVt9ffabmFs114Jt2"
+        },
+        {
+          "name": "Andrea Mel\u00e1th",
+          "url": "https://open.spotify.com/artist/54aQlTz3Kq5fbNX4is2SsP"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 526186,
+      "name": "Bluebeard's Castle, Op. 11, Sz. 48: L\u00e1sd a r\u00e9gi asszonyokat (7th Door)",
+      "url": "https://open.spotify.com/track/7lSHqnN0bKO1AicYwQtQtc"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Bluebeard's Castle, Op. 11, Sz. 48",
+        "url": "https://open.spotify.com/album/36dGchtqt2hLKTS2oeNHPx"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gustav Belacek",
+          "url": "https://open.spotify.com/artist/3yASyuRB3ljkWfheXMRdhX"
+        },
+        {
+          "name": "Andrea Mel\u00e1th",
+          "url": "https://open.spotify.com/artist/54aQlTz3Kq5fbNX4is2SsP"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236706,
+      "name": "Bluebeard's Castle, Op. 11, Sz. 48: Meg\u00e9rkezt\u00fcnk",
+      "url": "https://open.spotify.com/track/2QctBFpr15dzz45dZtqgmk"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Bluebeard's Castle, Op. 11, Sz. 48",
+        "url": "https://open.spotify.com/album/285YaRxFlVCs7TRmzVLsfT"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gust\u00e1v Bel\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/1b3t1oVt9ffabmFs114Jt2"
+        },
+        {
+          "name": "Andrea Mel\u00e1th",
+          "url": "https://open.spotify.com/artist/54aQlTz3Kq5fbNX4is2SsP"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236706,
+      "name": "Bluebeard's Castle, Op. 11, Sz. 48: Meg\u00e9rkezt\u00fcnk",
+      "url": "https://open.spotify.com/track/1wtuxHKnDtLKOcCKp5wxp7"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Bluebeard's Castle",
+        "url": "https://open.spotify.com/album/23YHlrLdUDW02JIqK294r7"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Elenz Zhidkova",
+          "url": "https://open.spotify.com/artist/3aPS5Zev3oT0AVgwgjc0aL"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Willard White",
+          "url": "https://open.spotify.com/artist/4vteTJJmyFSu91w1rxv1Xv"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365933,
+      "name": "Bluebeard's Castle: VI. Fifth Door - Bluebeard's Vast and Beautiful Kingdom",
+      "url": "https://open.spotify.com/track/4Vd3XrtbTMUDTT7UYc0o1F"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 652000,
+      "name": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
+      "url": "https://open.spotify.com/track/7KnuT7nqwqj3JjgqZ4EFil"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 604000,
+      "name": "Concerto for Orchestra, BB 123: V. Finale: Presto",
+      "url": "https://open.spotify.com/track/20vieBZvEjywy4WzTx4jvq"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Concerto For Orchestra; Dance Suite",
+        "url": "https://open.spotify.com/album/2Ev0JwFyUqjQ8xpXVmuDzt"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544413,
+      "name": "Concerto for Orchestra, Sz. 116: 1. Introduzione (Andante non troppo - Allegro vivace",
+      "url": "https://open.spotify.com/track/6EAqH2X8e3gE0oj7g2hEE6"
+    },
+    {
+      "album": {
+        "name": "B\u00e9la Bart\u00f3k: Music For Strings, Percussion & Celesta",
+        "url": "https://open.spotify.com/album/4ihSdcLHiglCBOiNVR2Fm4"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 546160,
+      "name": "Concerto for Orchestra, Sz. 116: 1. Introduzione (Andante non troppo - Allegro vivace",
+      "url": "https://open.spotify.com/track/6Dlwk1ub5CyeIwoRnawcQI"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/0N8Pc1tPapEsl3bZegVZZB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        },
+        {
+          "name": "Ali Rahbari",
+          "url": "https://open.spotify.com/artist/5z9TwyXm531XR9M6iMX5gc"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 652000,
+      "name": "Concerto for Orchestra, Sz. 116: I. Introduzione. Andante non troppo - Allegro vivace",
+      "url": "https://open.spotify.com/track/5w3T6It5oY39CAkPGTCPRp"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/0N8Pc1tPapEsl3bZegVZZB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        },
+        {
+          "name": "Ali Rahbari",
+          "url": "https://open.spotify.com/artist/5z9TwyXm531XR9M6iMX5gc"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 604000,
+      "name": "Concerto for Orchestra, Sz. 116: V. Finale. Presto",
+      "url": "https://open.spotify.com/track/6coi3l3wcWeXLA7Ybx1bL2"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6aKn6ZcFivykAj0fOxRIEZ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 604000,
+      "name": "Concerto for Orchestra, Sz. 116: V. Finale: Presto",
+      "url": "https://open.spotify.com/track/546ow6ppHJ563q6zUd5xXe"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concertos",
+        "url": "https://open.spotify.com/album/5wcok340bwuCkcVjriLZpo"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Yuri Bashmet",
+          "url": "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 871493,
+      "name": "Concerto For Viola And Orchestra, Op. Post. - Version: Tibor Serly: I. Moderato - Lento parlando",
+      "url": "https://open.spotify.com/track/1fNrbXNmmArLhhR2fYOOon"
+    },
+    {
+      "album": {
+        "name": "Work & Relax with Bart\u00f3k",
+        "url": "https://open.spotify.com/album/3bXPxVYSMqar7mAgRKVV9B"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Yuri Bashmet",
+          "url": "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 871493,
+      "name": "Concerto For Viola And Orchestra, Op. Post. - Version: Tibor Serly: I. Moderato - Lento parlando",
+      "url": "https://open.spotify.com/track/3rTow6K9m9uxvFlBmXwCHc"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concertos",
+        "url": "https://open.spotify.com/album/15c2GzCJuGpjJxVpkDJgxi"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Yuri Bashmet",
+          "url": "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 871493,
+      "name": "Concerto For Viola And Orchestra, Op.Post. - Version: Tibor Serly: 1. Moderato - Lento parlando",
+      "url": "https://open.spotify.com/track/55pJqG07kK1CKAGm8R8TtV"
+    },
+    {
+      "album": {
+        "name": "Bartok: Bela Bartok - A Portrait (Johnson)",
+        "url": "https://open.spotify.com/album/5XlhnZDx9S7U8exMPZhKDw"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Kalman Berkes",
+          "url": "https://open.spotify.com/artist/51xtcyMfCaz0wL3crV7SlH"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285786,
+      "name": "Contrasts, BB 116: II. Piheno (Relaxation): Lento",
+      "url": "https://open.spotify.com/track/6v16jarjPLHpWh7tvtZuFH"
+    },
+    {
+      "album": {
+        "name": "Bartok: Violin Sonatas Nos. 1 and 2 / Contrasts",
+        "url": "https://open.spotify.com/album/4qCJPLnNzeE3LJ7RmXUf3m"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Kalman Berkes",
+          "url": "https://open.spotify.com/artist/51xtcyMfCaz0wL3crV7SlH"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282066,
+      "name": "Contrasts, BB 116: II. Piheno: Lento",
+      "url": "https://open.spotify.com/track/6v7K28w0hkluHVaeZI5z7C"
+    },
+    {
+      "album": {
+        "name": "Bartok: Violin Sonatas Nos. 1 and 2 / Contrasts",
+        "url": "https://open.spotify.com/album/1nTRik2A24A2aJI9PYDHtt"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Kalman Berkes",
+          "url": "https://open.spotify.com/artist/51xtcyMfCaz0wL3crV7SlH"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282066,
+      "name": "Contrasts, Sz. 111, BB 116: II. Piheno: Lento",
+      "url": "https://open.spotify.com/track/3uChfqjGDxMubESFUrEHxf"
+    },
+    {
+      "album": {
+        "name": "Bartok: Bela Bartok - A Portrait (Johnson)",
+        "url": "https://open.spotify.com/album/5XlhnZDx9S7U8exMPZhKDw"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228480,
+      "name": "Dance Suite, BB 86a: I. Moderato",
+      "url": "https://open.spotify.com/track/7s1xggbVVdVr61AHY964qL"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Dance Suite, BB 86b: I. Moderato",
+      "url": "https://open.spotify.com/track/169brumljYWVi8tdxHBi21"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/2QpEu0fuS8PLaxjUyfvB2K"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228480,
+      "name": "Dance Suite, BB 86b: I. Moderato",
+      "url": "https://open.spotify.com/track/6VeNJg6a8cjZym39R4I9CP"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "Dance Suite, BB 86b: III. Allegro vivace",
+      "url": "https://open.spotify.com/track/3M9wbjm1D3MFjrLVOtTqYk"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/2QpEu0fuS8PLaxjUyfvB2K"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189800,
+      "name": "Dance Suite, BB 86b: III. Allegro vivace",
+      "url": "https://open.spotify.com/track/5IJ5znqT8xsLp91DXxUhHG"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "Dance Suite, BB 86b: IV. Molto tranquillo",
+      "url": "https://open.spotify.com/track/0aCTZe479Fv0AhMDiDtEIf"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/2QpEu0fuS8PLaxjUyfvB2K"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171600,
+      "name": "Dance Suite, BB 86b: IV. Molto tranquillo",
+      "url": "https://open.spotify.com/track/68hHekBb6lQfvrUkRaknXP"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Piano Works",
+        "url": "https://open.spotify.com/album/3LRCqap0DfYVNr4RH6ZWM6"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Alain Plan\u00e8s",
+          "url": "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257306,
+      "name": "Dance Suite, Sz 77: VI. Finale. Allegro",
+      "url": "https://open.spotify.com/track/74Jby8fyKAnjN3rAuiifwi"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: 44 Violin Duos",
+        "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Angela Chun",
+          "url": "https://open.spotify.com/artist/0IaciBSS1GF5SuqWKzM5wA"
+        },
+        {
+          "name": "Jennifer Chun",
+          "url": "https://open.spotify.com/artist/72ZCIaI1TqwaGRbEvbGBih"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127880,
+      "name": "Erd\u00e9lyi t\u00e1nc",
+      "url": "https://open.spotify.com/track/7np35tcxkRbHzm75KXbIXA"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Piano Works",
+        "url": "https://open.spotify.com/album/3LRCqap0DfYVNr4RH6ZWM6"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Alain Plan\u00e8s",
+          "url": "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266133,
+      "name": "Fifteen Hungarian Peasant Songs, Sz 71: Four Old Songs, I. Rubato",
+      "url": "https://open.spotify.com/track/63F1NC6jzhml1JisCZ2Jy1"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: 44 Violin Duos",
+        "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Angela Chun",
+          "url": "https://open.spotify.com/artist/0IaciBSS1GF5SuqWKzM5wA"
+        },
+        {
+          "name": "Jennifer Chun",
+          "url": "https://open.spotify.com/artist/72ZCIaI1TqwaGRbEvbGBih"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50133,
+      "name": "Forgat\u00f3s",
+      "url": "https://open.spotify.com/track/0kEhYk7x9tux02gC86vGSZ"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k",
+        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392000,
+      "name": "Four Orchestral Pieces Op. 12 (Sz 51): I. Preludio",
+      "url": "https://open.spotify.com/track/5SGqUwRIS8ycfFO4iepCMZ"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/4b2Zzk0foPXsLJfsgH9Osk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "Magyar kepek (Hungarian Sketches), BB 103: Swineherd's Dance",
+      "url": "https://open.spotify.com/track/1SonFKhzosvMtCPAfA5xb7"
+    },
+    {
+      "album": {
+        "name": "Bartok: Miraculous Mandarin (The) (Complete Ballet) / Hungarian Pictures / Dance Suite",
+        "url": "https://open.spotify.com/album/2QpEu0fuS8PLaxjUyfvB2K"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 138133,
+      "name": "Magyar k\u00e9pek (Hungarian Sketches), BB 103: Swineherd's Dance",
+      "url": "https://open.spotify.com/track/1kUgdBuZLmBiNSq5u1J3Hm"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Complete Solo Piano Works",
+        "url": "https://open.spotify.com/album/2QGqrHVhT67lWT1MYO4lqB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69000,
+      "name": "Mikrokosmos, Sz. 107 - Book 6: No. 149 Dance in Bulgarian Rhythm II",
+      "url": "https://open.spotify.com/track/14GM5RZ3p3JB1CM9WoS469"
+    },
+    {
+      "album": {
+        "name": "Zolt\u00e1n Kocsis plays Bart\u00f3k",
+        "url": "https://open.spotify.com/album/2bJYm8lAY3hQiLZivnlN38"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 69000,
+      "name": "Mikrokosmos, Sz. 107 - Book 6: No.149 Dance in Bulgarian Rhythm II",
+      "url": "https://open.spotify.com/track/2LVveXQf20vrnhUh3mw2Kc"
+    },
+    {
+      "album": {
+        "name": "Ditta P\u00e1sztory-Bart\u00f3k plays Bart\u00f3k",
+        "url": "https://open.spotify.com/album/1ITpLV3vxbpw4sM4UIrBsy"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Ditta Bartok-Pasztory",
+          "url": "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        {
+          "name": "Maria Comensoli",
+          "url": "https://open.spotify.com/artist/5nOOxcMPG9KTtj3jJxbSeB"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161466,
+      "name": "Mikrokosmos: 7 Pieces for 2 Pianos, 4 Hands, BB 120: No. 7. Ostinato: Vivacissimo (arr. of Vol. 6, No. 146)",
+      "url": "https://open.spotify.com/track/6nQEtXqLyiug0wZwvT38pj"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453000,
+      "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
+      "url": "https://open.spotify.com/track/6NEwZwRUI1gGoY2VtPQeeD"
+    },
+    {
+      "album": {
+        "name": "Bartok: Bela Bartok - A Portrait (Johnson)",
+        "url": "https://open.spotify.com/album/5XlhnZDx9S7U8exMPZhKDw"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 455600,
+      "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
+      "url": "https://open.spotify.com/track/5uyHqejcOMC1nKuqNLrWPy"
+    },
+    {
+      "album": {
+        "name": "Seiji Ozawa Anniversary",
+        "url": "https://open.spotify.com/album/5FjUPEEtyxLtqkNQUW9wDC"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Saito Kinen Orchestra",
+          "url": "https://open.spotify.com/artist/2Mi8xPOE8jSOZEeFjxVNdQ"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413146,
+      "name": "Music for Strings, Percussion and Celesta, Sz. 106: 3. Adagio",
+      "url": "https://open.spotify.com/track/5sGRmLMcs4MbkANPcLWcoY"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion & Celeste",
+        "url": "https://open.spotify.com/album/3iR3NtXTjJcSZU7DJk0Y4n"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Saito Kinen Orchestra",
+          "url": "https://open.spotify.com/artist/2Mi8xPOE8jSOZEeFjxVNdQ"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 413146,
+      "name": "Music for Strings, Percussion and Celesta, Sz. 106: 3. Adagio",
+      "url": "https://open.spotify.com/track/6I4cQbeV26MtNi42i5nVKI"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Music for Strings, Percussion & Celesta; Divertimento; Miraculous Mandarin Suite",
+        "url": "https://open.spotify.com/album/546ycLjWhMPxkN9YhD03ew"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393000,
+      "name": "Music for Strings, Percussion and Celesta, Sz. 106: I. Andante tranquillo",
+      "url": "https://open.spotify.com/track/1FFjTygElZaQxzBOu1Xo5U"
+    },
+    {
+      "album": {
+        "name": "B\u00e9la Bart\u00f3k: Music For Strings, Percussion & Celesta",
+        "url": "https://open.spotify.com/album/4ihSdcLHiglCBOiNVR2Fm4"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 394346,
+      "name": "Music for Strings, Percussion and Celesta, Sz. 106: I. Andante tranquillo",
+      "url": "https://open.spotify.com/track/193iKswklSU5w9amrMqyDO"
+    },
+    {
+      "album": {
+        "name": "B\u00e9la Bart\u00f3k: Music For Strings, Percussion & Celesta",
+        "url": "https://open.spotify.com/album/4FVQTSzT9067C4ZroM40qs"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 394346,
+      "name": "Music for Strings, Percussion and Celesta, Sz. 106: I. Andante tranquillo",
+      "url": "https://open.spotify.com/track/2NRiUcEi7U5CCScCqqxH4x"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/0N8Pc1tPapEsl3bZegVZZB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        },
+        {
+          "name": "Ali Rahbari",
+          "url": "https://open.spotify.com/artist/5z9TwyXm531XR9M6iMX5gc"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 453000,
+      "name": "Music for Strings, Percussion and Celesta, Sz. 106: III. Adagio",
+      "url": "https://open.spotify.com/track/4uDklRgRTjxkQPZYpOD7ci"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Complete Solo Piano Works",
+        "url": "https://open.spotify.com/album/4SBn5kLoEQpTssXB3b2jjn"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279986,
+      "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
+      "url": "https://open.spotify.com/track/1FcGgllli0gqSbrKRuSTOr"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Complete Solo Piano Works",
+        "url": "https://open.spotify.com/album/2QGqrHVhT67lWT1MYO4lqB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 279986,
+      "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
+      "url": "https://open.spotify.com/track/35zhVPPe9YZJmk5IbUmImN"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Works for Solo Piano, Vol. 4",
+        "url": "https://open.spotify.com/album/1wkpZYx1Fw5KtVrS4JZ8l6"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
+      "url": "https://open.spotify.com/track/66to0qDs0qnH0m4I0VWDW0"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Piano Concertos Nos. 1-3",
+        "url": "https://open.spotify.com/album/6BBKWlecXRKFyTFoqxa1TG"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Walter Weller",
+          "url": "https://open.spotify.com/artist/2bpDCQfn40ougxvt0dz7dJ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538040,
+      "name": "Piano Concerto No. 1, BB 91, Sz. 83: 2. Andante",
+      "url": "https://open.spotify.com/track/6kekodKqtsl83l9kVku2OO"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Piano Concertos Nos.1-3",
+        "url": "https://open.spotify.com/album/4dBDOc5M1nODzn7vIA127n"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "G\u00e9za Anda",
+          "url": "https://open.spotify.com/artist/5658BnFZoMz8CtydqPjk8S"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "Ferenc Fricsay",
+          "url": "https://open.spotify.com/artist/0BjUTtTzgWxoQkbGjz4NmZ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556426,
+      "name": "Piano Concerto No. 1, BB 91, Sz. 83: I. Allegro moderato - Allegro",
+      "url": "https://open.spotify.com/track/1digmGByFmf2Bu11vMGGxt"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k",
+        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373000,
+      "name": "Piano Concerto No. 2, BB 101, Sz. 95: III. Allegro molto",
+      "url": "https://open.spotify.com/track/7mnL1wVTvqWrQIrWVbPczg"
+    },
+    {
+      "album": {
+        "name": "Prokofiev & Bart\u00f3k: Piano Concertos",
+        "url": "https://open.spotify.com/album/1iF9gU2gIbIvWZLUeAqILU"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610933,
+      "name": "Piano Concerto No. 2, Sz. 95: I. Allegro",
+      "url": "https://open.spotify.com/track/6tEO7bieJDK8CAI0zplfu0"
+    },
+    {
+      "album": {
+        "name": "Prokofiev & Bart\u00f3k: Piano Concertos",
+        "url": "https://open.spotify.com/album/1iF9gU2gIbIvWZLUeAqILU"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 793493,
+      "name": "Piano Concerto No. 2, Sz. 95: II. Adagio - Presto - Pi\u00f9 adagio",
+      "url": "https://open.spotify.com/track/0aDkmWo5wgxyKUsdvkbkqB"
+    },
+    {
+      "album": {
+        "name": "Bartok: Rhapsodies Nos. 1 and 2 / Piano Quintet",
+        "url": "https://open.spotify.com/album/3kCU85cmmphen7BpsJRfqS"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 527400,
+      "name": "Piano Quintet, BB 33: Vivace (Scherzando)",
+      "url": "https://open.spotify.com/track/4TLf79n584bHDXPaldbkhK"
+    },
+    {
+      "album": {
+        "name": "Bartok: Rhapsodies Nos. 1 And 2 / Piano Quintet",
+        "url": "https://open.spotify.com/album/3WXg9ApkQ8cDUO2AdpKz6J"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527400,
+      "name": "Piano Quintet, BB 33: Vivace - Scherzando",
+      "url": "https://open.spotify.com/track/1ILSqTTfisGu8mgL3kqtca"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k",
+        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "Rhapsody For Violin And Orchestra No. 2 Sz 90: I. Lass\u00fa: Moderato",
+      "url": "https://open.spotify.com/track/6mpgrSwDbtMZ285O8ETIew"
+    },
+    {
+      "album": {
+        "name": "Bartok: Rhapsodies Nos. 1 And 2 / Piano Quintet",
+        "url": "https://open.spotify.com/album/3WXg9ApkQ8cDUO2AdpKz6J"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257399,
+      "name": "Rhapsody No. 1, BB 94a: Prima Parte 'Lassu': Moderato",
+      "url": "https://open.spotify.com/track/3hqXGZJs3yWGPFsmYCl7JD"
+    },
+    {
+      "album": {
+        "name": "Bartok: Rhapsodies Nos. 1 And 2 / Piano Quintet",
+        "url": "https://open.spotify.com/album/3WXg9ApkQ8cDUO2AdpKz6J"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278280,
+      "name": "Rhapsody No. 1, BB 94a: Prima Parte 'Lassu': Moderato",
+      "url": "https://open.spotify.com/track/2GZVPfkqcQD5W0Xb3gNpG6"
+    },
+    {
+      "album": {
+        "name": "Bartok: Rhapsodies Nos. 1 and 2 / Piano Quintet",
+        "url": "https://open.spotify.com/album/3kCU85cmmphen7BpsJRfqS"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257399,
+      "name": "Rhapsody No. 2 for Violin & Orchestra, Sz. 90:: Prima parte 'lassu': Moderato",
+      "url": "https://open.spotify.com/track/6GxjIy6VLodnoc9xViPrYV"
+    },
+    {
+      "album": {
+        "name": "Bartok: Rhapsodies Nos. 1 and 2 / Piano Quintet",
+        "url": "https://open.spotify.com/album/58Xp5MwHX1gHByf9nT4nu5"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257399,
+      "name": "Rhapsody No. 2 for Violin and Piano, BB 96a: Prima parte 'lassu': Moderato",
+      "url": "https://open.spotify.com/track/2Prh0MJwmoPAwUxLHuoUEQ"
+    },
+    {
+      "album": {
+        "name": "Romantic Piano Favourites, Vol. 1",
+        "url": "https://open.spotify.com/album/2oaSvxuYuQfltFyDaYxKAS"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Balazs Szokolay",
+          "url": "https://open.spotify.com/artist/6kJSScipaoehxfUqUTpiFw"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 29048,
+      "name": "Roman nepi tancok (Romanian Folk Dances), BB 68: Romanian Folk Dances, Sz 56",
+      "url": "https://open.spotify.com/track/12edUqCUDcO7Msb4X42Q2z"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Romanian Folk Dances, Sz. 56",
+        "url": "https://open.spotify.com/album/5cN3SnsXVmAil7xtDjwOKl"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Orchestra of the Swan",
+          "url": "https://open.spotify.com/artist/4Q6c37zCXu7UvWmUcROoVq"
+        },
+        {
+          "name": "David le Page",
+          "url": "https://open.spotify.com/artist/2ibsbvp3eHcQOgxZxVsk8x"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402253,
+      "name": "Romanian Folk Dances, Sz. 56 - Arr. for String Orchestra by Arthur Wilner",
+      "url": "https://open.spotify.com/track/2XokuveOGJtpPvhIb3nLvy"
+    },
+    {
+      "album": {
+        "name": "On Two Pianos",
+        "url": "https://open.spotify.com/album/1gaifBty5ynGfu5DIzumqh"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Nicolas Economou",
+          "url": "https://open.spotify.com/artist/7lG2YvP9ePFW3PwZfL83W6"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 49893,
+      "name": "Seven Pieces from Mikrokosmos: no.135 Perpetuum mobile",
+      "url": "https://open.spotify.com/track/3SdJEJIBxcd20TkdQXee55"
+    },
+    {
+      "album": {
+        "name": "On Two Pianos",
+        "url": "https://open.spotify.com/album/5ehHpfDnVZ8bva7wv9zVky"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Nicolas Economou",
+          "url": "https://open.spotify.com/artist/7lG2YvP9ePFW3PwZfL83W6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49893,
+      "name": "Seven Pieces from Mikrokosmos: no.135 Perpetuum mobile - Live",
+      "url": "https://open.spotify.com/track/64M1y2P7VuxfBEeoj55aaF"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Sonata For 2 Pianos And Percussion, Sz. 110 / Ravel: Ma m\u00e8re l'oye, M. 62; Rapsodie espagnole, M. 54",
+        "url": "https://open.spotify.com/album/5nMqNi2w7TF34eZLoM5xk9"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        },
+        {
+          "name": "Peter Sadlo",
+          "url": "https://open.spotify.com/artist/4c9kGa5k5luOxgOntT2A2v"
+        },
+        {
+          "name": "Edgar Guggeis",
+          "url": "https://open.spotify.com/artist/7Ady30rtabb3w263Ajz3kj"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "Sonata For 2 Pianos And Percussion, Sz. 110: 3. Allegro non troppo",
+      "url": "https://open.spotify.com/track/2dZAwI6vY2p3ebNn9rtY2n"
+    },
+    {
+      "album": {
+        "name": "The Art of Martha Argerich",
+        "url": "https://open.spotify.com/album/0UhrvDNPkFToubZpR8Dozc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        },
+        {
+          "name": "Peter Sadlo",
+          "url": "https://open.spotify.com/artist/4c9kGa5k5luOxgOntT2A2v"
+        },
+        {
+          "name": "Edgar Guggeis",
+          "url": "https://open.spotify.com/artist/7Ady30rtabb3w263Ajz3kj"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 375080,
+      "name": "Sonata For 2 Pianos And Percussion, Sz. 110: 3. Allegro non troppo",
+      "url": "https://open.spotify.com/track/2nQMmnlTIYdzHlmYb4bjIL"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Sonatas",
+        "url": "https://open.spotify.com/album/4sKZELunuNVCa0ZJN7hY5X"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 702266,
+      "name": "Sonata for Solo Violin in G Minor, Sz. 117: I. Tempo di Ciaccona",
+      "url": "https://open.spotify.com/track/60q5F3eZAix0vodIamukbp"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Sonatas",
+        "url": "https://open.spotify.com/album/3P9LfYgl9Y3JG4LaWNRG0Y"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 702266,
+      "name": "Sonata for solo violin Sz.117 in G Minor: I. Tempo di Ciaccona",
+      "url": "https://open.spotify.com/track/0A9yW33pIsvedUp1btir9w"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
+        "url": "https://open.spotify.com/album/4MNzfvklS2GO6cCuG7OfPI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433626,
+      "name": "Sonata for Solo Violin, BB 124, Sz. 117: III. Melodia. Adagio",
+      "url": "https://open.spotify.com/track/4Vq0SIJFvdmHirrC9fv4Vb"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
+        "url": "https://open.spotify.com/album/7JgiTh5ClL0IWDvdeaIRi0"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 433520,
+      "name": "Sonata for Solo Violin, Sz. 117, BB 124: III. Melodia: Adagio",
+      "url": "https://open.spotify.com/track/5zjRcZJ2ovQchCLfwELitx"
+    },
+    {
+      "album": {
+        "name": "Bartok: Complete String Quartets",
+        "url": "https://open.spotify.com/album/4BfClmPbz9bkaffnpuafzd"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Heath Quartet",
+          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 546920,
+      "name": "String Quartet No. 1, Sz. 40: I. Lento",
+      "url": "https://open.spotify.com/track/2SuYVTc3sdcWGqFm1rVunv"
+    },
+    {
+      "album": {
+        "name": "Bartok: Complete String Quartets",
+        "url": "https://open.spotify.com/album/44LynWVVBkG9EyTo05c5IX"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Heath Quartet",
+          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546920,
+      "name": "String Quartet No. 1, Sz. 40: I. Lento",
+      "url": "https://open.spotify.com/track/3sCKSszvRtvCbIOCGVgXAY"
+    },
+    {
+      "album": {
+        "name": "Bel\u00e1 Bart\u00f3k: String Quartets Nos. 2, 4, & 6",
+        "url": "https://open.spotify.com/album/2A0HR22J49ezOJHsztJ5KV"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Jerusalem Quartet",
+          "url": "https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351733,
+      "name": "String Quartet No. 4 in C Major, Op. 17, Sz. 91: String Quartet No. 4 in C Major, Op. 17, Sz. 91: V. Allegro molto",
+      "url": "https://open.spotify.com/track/5EO7sHpmpPWFI0mfCTV5NI"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k - Essentials",
+        "url": "https://open.spotify.com/album/1oqtRk4IlB9vVY49Qvx8qh"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Tokyo String Quartet",
+          "url": "https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 416000,
+      "name": "String Quartet No. 6, Sz. 114: 4. Mesto",
+      "url": "https://open.spotify.com/track/11a0UXboVjUqzuUODfSKjK"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: The String Quartets",
+        "url": "https://open.spotify.com/album/5tHG8pljpG926DuvpxBwXc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Tokyo String Quartet",
+          "url": "https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416000,
+      "name": "String Quartet No. 6, Sz. 114: 4. Mesto",
+      "url": "https://open.spotify.com/track/4wbvnvzu7hPtB7JNoMbsZE"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: The String Quartets",
+        "url": "https://open.spotify.com/album/2wj3eacd0znbG9mQWcHzJ5"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Tokyo String Quartet",
+          "url": "https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 416000,
+      "name": "String Quartet No.6, Sz. 114: 4. Mesto",
+      "url": "https://open.spotify.com/track/5H1GZNliYeaGHdRq0u7ZVN"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Complete Solo Piano Works",
+        "url": "https://open.spotify.com/album/2QGqrHVhT67lWT1MYO4lqB"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117533,
+      "name": "Suite, BB 70, Sz. 62 (Op. 14): 3. Allegro molto",
+      "url": "https://open.spotify.com/track/5pUTksPpy6ELqAwnbo7Laa"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Works for Solo Piano, Vol. 2",
+        "url": "https://open.spotify.com/album/4Hwqv5sAkqJU8I6lxZ2mtQ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 117533,
+      "name": "Suite, BB 70, Sz. 62 (Op.14): 3. Allegro molto",
+      "url": "https://open.spotify.com/track/3QDLS7aBeRYRBqVZ09FKAY"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Concerto for Orchestra; Dance Suite; The Miraculous Mandarin",
+        "url": "https://open.spotify.com/album/1krVupSmZVB0Hpn2J8v0xQ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1065613,
+      "name": "The Miraculous Mandarin, BB 82, Sz. 73 (Op.19) - Suite",
+      "url": "https://open.spotify.com/track/1Pioq0rEvqUxt7yuud1OKm"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Concerto for Orchestra; Dance Suite; The Miraculous Mandarin",
+        "url": "https://open.spotify.com/album/6eeTCx70gi5P31eM2O1pvI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1065613,
+      "name": "The Miraculous Mandarin, Op. 19, Sz. 73 (Suite)",
+      "url": "https://open.spotify.com/track/5fkrNzM7GME9z57bh8RhVj"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: The Miraculous Mandarin - Dance Suite - Contrasts",
+        "url": "https://open.spotify.com/album/3mxWy3mj34eO9atb70W91y"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "The Miraculous Mandarin, Sz. 73: Suddenly the Mandarin's Head Appears Between the Pillows",
+      "url": "https://open.spotify.com/track/7185CFfPIA3hbfAjcC5fUO"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: The Wooden Prince & Hungarian Pictues",
+        "url": "https://open.spotify.com/album/2JaxfQRodVKk7ZBm0Dro3x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298826,
+      "name": "The Wooden Prince, Op. 13, BB 74, Sz. 60: Opening - Orchestrated 1917",
+      "url": "https://open.spotify.com/track/3jIDcvr0AhkwFd2GLDB4iB"
+    },
+    {
+      "album": {
+        "name": "Bartok, E\u00f6tv\u00f6s, Ligeti",
+        "url": "https://open.spotify.com/album/5cF1fqW99VbAHoluASGHXN"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Patricia Kopatchinskaja",
+          "url": "https://open.spotify.com/artist/14Lewm6NkTHl5PGUzbFudC"
+        },
+        {
+          "name": "Frankfurt Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+        },
+        {
+          "name": "Peter E\u00f6tv\u00f6s",
+          "url": "https://open.spotify.com/artist/3pYJ8R30XjH8PutGI42wtL"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 601866,
+      "name": "Violin Concerto No 2: II.Andante tranquillo",
+      "url": "https://open.spotify.com/track/14qGuVs5sMpCMd8jSd0ER3"
+    },
+    {
+      "album": {
+        "name": "The World Of Violin",
+        "url": "https://open.spotify.com/album/5qZJxph7TlhCWJ6I1Zfqgr"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 519732,
+      "name": "Violin Concerto No. 1 (Op. posth), Sz36: 1. Andante sostenuto",
+      "url": "https://open.spotify.com/track/7MGF2cQD60FcDzKUnKZaAe"
+    },
+    {
+      "album": {
+        "name": "Brahms: Violin Concerto; Bart\u00f3k: Violin Concerto No.1",
+        "url": "https://open.spotify.com/album/2tfmu85VcqTOuqoGzLwLi2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519733,
+      "name": "Violin Concerto No. 1 (Op. posth), Sz36: 1. Andante sostenuto",
+      "url": "https://open.spotify.com/track/3VjFhqD2S4fUxWwAmO14gb"
+    },
+    {
+      "album": {
+        "name": "Bartok (The Best Of)",
+        "url": "https://open.spotify.com/album/0EmMkkDx2agLaFgAC55xC6"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 629960,
+      "name": "Violin Concerto No. 2, BB 117: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/5ICjfrq4tShFH8GG905wkd"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos No. 1 & 2",
+        "url": "https://open.spotify.com/album/6zWf25ozog6YJmKqOvxtCN"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 918026,
+      "name": "Violin Concerto No. 2, Sz. 112: I. Allegro non troppo (excerpt)",
+      "url": "https://open.spotify.com/track/6eJO3KPASyzKrVP9izfCEC"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/2QWfldlmPWdPvrSJ42sguH"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        },
+        {
+          "name": "Narodowa Orkiestra Symfoniczna Polskiego Radia",
+          "url": "https://open.spotify.com/artist/5wJU2iErPVY3o6ssijvY3H"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 625800,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/5eQzglLh0Hq8nj1Ow2X4E3"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/4MXMGFOC1XpKD4q0rI63GO"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625800,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/0zmi8xiLqw7T7paI4ufpk6"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/6jlF2Gz2BdMbZgNnYIf3I0"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 625800,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/7h31TCL1ZXVQvIGQSAgODu"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos No. 1 & 2",
+        "url": "https://open.spotify.com/album/6zWf25ozog6YJmKqOvxtCN"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556493,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/5VbKrfwOpSdXSdQmH7ByAX"
+    },
+    {
+      "album": {
+        "name": "Bartok, E\u00f6tv\u00f6s, Ligeti",
+        "url": "https://open.spotify.com/album/3TWUktoDymo3inYpD6yNpS"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Patricia Kopatchinskaja",
+          "url": "https://open.spotify.com/artist/14Lewm6NkTHl5PGUzbFudC"
+        },
+        {
+          "name": "Peter E\u00f6tv\u00f6s",
+          "url": "https://open.spotify.com/artist/3pYJ8R30XjH8PutGI42wtL"
+        },
+        {
+          "name": "Frankfurt Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601866,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/6yVbBDI2gPqKnSJDb6UbD3"
+    },
+    {
+      "album": {
+        "name": "Brahms: Violin Concerto; Bart\u00f3k: Violin Concerto No.1",
+        "url": "https://open.spotify.com/album/2voyoiXXgwsILAIPiwUMVi"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 519733,
+      "name": "Violin Concerto No.1 (Op.posth), Sz36: 1. Andante sostenuto",
+      "url": "https://open.spotify.com/track/32iRhbAjVQs3q5nt5eu7za"
+    },
+    {
+      "album": {
+        "name": "Bartok: Rhapsodies Nos. 1 and 2 / Piano Quintet",
+        "url": "https://open.spotify.com/album/3kCU85cmmphen7BpsJRfqS"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Gy\u00f6rgy Pauk",
+          "url": "https://open.spotify.com/artist/4FHDvIlpvSVTpXXsfMsEK0"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278280,
+      "name": "Violin Rhapsody No. 1, Sz. 86: I. Lass\u00fa. Moderato",
+      "url": "https://open.spotify.com/track/5tjiFvlt9moF2YZhFE77xd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5ZPNS2aXuN4"
 }

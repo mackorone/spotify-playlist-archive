@@ -1,580 +1,1449 @@
 {
-  "2022-05-30": 2232182,
-  "2022-05-31": 2233206,
-  "2022-06-01": 2235232,
-  "2022-06-02": 2235352,
-  "2022-06-03": 2236316,
-  "2022-06-04": 2237694,
-  "2022-06-05": 2239027,
-  "2022-06-06": 2240252,
-  "2022-06-07": 2241274,
-  "2022-06-08": 2242475,
-  "2022-06-09": 2243391,
-  "2022-06-10": 2244561,
-  "2022-06-11": 2245928,
-  "2022-06-12": 2247338,
-  "2022-06-13": 2248656,
-  "2022-06-14": 2249749,
-  "2022-06-15": 2250766,
-  "2022-06-16": 2251845,
-  "2022-06-17": 2252951,
-  "2022-06-18": 2254212,
-  "2022-06-19": 2256642,
-  "2022-06-20": 2256642,
-  "2022-06-21": 2257568,
-  "2022-06-22": 2259499,
-  "2022-06-23": 2259499,
-  "2022-06-24": 2260363,
-  "2022-06-25": 2261479,
-  "2022-06-26": 2262539,
-  "2022-06-27": 2263620,
-  "2022-06-28": 2264520,
-  "2022-06-29": 2265482,
-  "2022-06-30": 2266402,
-  "2022-07-01": 2267378,
-  "2022-07-02": 2268276,
-  "2022-07-03": 2269255,
-  "2022-07-04": 2270304,
-  "2022-07-05": 2271236,
-  "2022-07-06": 2272171,
-  "2022-07-07": 2273206,
-  "2022-07-08": 2274395,
-  "2022-07-09": 2275481,
-  "2022-07-10": 2276633,
-  "2022-07-11": 2277734,
-  "2022-07-12": 2278685,
-  "2022-07-13": 2279690,
-  "2022-07-14": 2280707,
-  "2022-07-15": 2281696,
-  "2022-07-16": 2282833,
-  "2022-07-17": 2283822,
-  "2022-07-18": 2284905,
-  "2022-07-19": 2285938,
-  "2022-07-20": 2286840,
-  "2022-07-21": 2287613,
-  "2022-07-22": 2288405,
-  "2022-07-23": 2289343,
-  "2022-07-24": 2290466,
-  "2022-07-25": 2291485,
-  "2022-07-26": 2292421,
-  "2022-07-27": 2293383,
-  "2022-07-28": 2294298,
-  "2022-07-29": 2295267,
-  "2022-07-30": 2298012,
-  "2022-07-31": 2298012,
-  "2022-08-01": 2299347,
-  "2022-08-02": 2301706,
-  "2022-08-03": 2301706,
-  "2022-08-04": 2302743,
-  "2022-08-05": 2303792,
-  "2022-08-06": 2304835,
-  "2022-08-07": 2306045,
-  "2022-08-08": 2307401,
-  "2022-08-09": 2308658,
-  "2022-08-10": 2310107,
-  "2022-08-11": 2311491,
-  "2022-08-12": 2312842,
-  "2022-08-13": 2314149,
-  "2022-08-14": 2315579,
-  "2022-08-15": 2317025,
-  "2022-08-16": 2318330,
-  "2022-08-17": 2319647,
-  "2022-08-18": 2321005,
-  "2022-08-19": 2322919,
-  "2022-08-20": 2337103,
-  "2022-08-21": 2349442,
-  "2022-08-22": 2359048,
-  "2022-08-23": 2363165,
-  "2022-08-24": 2366171,
-  "2022-08-25": 2368971,
-  "2022-08-26": 2371254,
-  "2022-08-27": 2373963,
-  "2022-08-28": 2376804,
-  "2022-08-29": 2379476,
-  "2022-08-30": 2381391,
-  "2022-08-31": 2382352,
-  "2022-09-01": 2383183,
-  "2022-09-02": 2383725,
-  "2022-09-03": 2383033,
-  "2022-09-04": 2384162,
-  "2022-09-05": 2386482,
-  "2022-09-06": 2388370,
-  "2022-09-07": 2390318,
-  "2022-09-09": 2394379,
-  "2022-09-10": 2396590,
-  "2022-09-11": 2398936,
-  "2022-09-12": 2401132,
-  "2022-09-13": 2402838,
-  "2022-09-15": 2408178,
-  "2022-09-16": 2411342,
-  "2022-09-17": 2424901,
-  "2022-09-18": 2433398,
-  "2022-09-19": 2439416,
-  "2022-09-20": 2443616,
-  "2022-09-21": 2447378,
-  "2022-09-22": 2451027,
-  "2022-09-23": 2454331,
-  "2022-09-24": 2457620,
-  "2022-09-25": 2460952,
-  "2022-09-26": 2464080,
-  "2022-09-27": 2466635,
-  "2022-09-28": 2469275,
-  "2022-09-29": 2471633,
-  "2022-09-30": 2474055,
-  "2022-10-01": 2476553,
-  "2022-10-02": 2479257,
-  "2022-10-03": 2481711,
-  "2022-10-04": 2483857,
-  "2022-10-05": 2485927,
-  "2022-10-06": 2488038,
-  "2022-10-07": 2490210,
-  "2022-10-08": 2492468,
-  "2022-10-09": 2496846,
-  "2022-10-10": 2497301,
-  "2022-10-11": 2499072,
-  "2022-10-12": 2500982,
-  "2022-10-13": 2502774,
-  "2022-10-14": 2504775,
-  "2022-10-15": 2506725,
-  "2022-10-16": 2509186,
-  "2022-10-17": 2511750,
-  "2022-10-18": 2513624,
-  "2022-10-19": 2515527,
-  "2022-10-20": 2517527,
-  "2022-10-21": 2519465,
-  "2022-10-22": 2521576,
-  "2022-10-23": 2523891,
-  "2022-10-24": 2526043,
-  "2022-10-25": 2527839,
-  "2022-10-26": 2529654,
-  "2022-10-27": 2531417,
-  "2022-10-28": 2533238,
-  "2022-10-29": 2535219,
-  "2022-10-30": 2537284,
-  "2022-10-31": 2539283,
-  "2022-11-01": 2540880,
-  "2022-11-02": 2542425,
-  "2022-11-03": 2543908,
-  "2022-11-04": 2545471,
-  "2022-11-05": 2547084,
-  "2022-11-06": 2548884,
-  "2022-11-07": 2550617,
-  "2022-11-08": 2551885,
-  "2022-11-09": 2553367,
-  "2022-11-10": 2554740,
-  "2022-11-11": 2556370,
-  "2022-11-12": 2558339,
-  "2022-11-13": 2560158,
-  "2022-11-14": 2562145,
-  "2022-11-15": 2563733,
-  "2022-11-16": 2565327,
-  "2022-11-17": 2566995,
-  "2022-11-18": 2567433,
-  "2022-11-19": 2567622,
-  "2022-11-20": 2569107,
-  "2022-11-21": 2571054,
-  "2022-11-22": 2573158,
-  "2022-11-23": 2575042,
-  "2022-11-24": 2578506,
-  "2022-11-25": 2581402,
-  "2022-11-26": 2583566,
-  "2022-11-27": 2585625,
-  "2022-11-28": 2587899,
-  "2022-11-29": 2589553,
-  "2022-11-30": 2591088,
-  "2022-12-01": 2592879,
-  "2022-12-02": 2594080,
-  "2022-12-03": 2596756,
-  "2022-12-04": 2598905,
-  "2022-12-05": 2600941,
-  "2022-12-06": 2602596,
-  "2022-12-07": 2604148,
-  "2022-12-08": 2606326,
-  "2022-12-09": 2608079,
-  "2022-12-10": 2609674,
-  "2022-12-11": 2611450,
-  "2022-12-12": 2613229,
-  "2022-12-13": 2614543,
-  "2022-12-14": 2615869,
-  "2022-12-15": 2617064,
-  "2022-12-16": 2618329,
-  "2022-12-17": 2619710,
-  "2022-12-18": 2621258,
-  "2022-12-19": 2622604,
-  "2022-12-20": 2625031,
-  "2022-12-21": 2625031,
-  "2022-12-22": 2626403,
-  "2022-12-24": 2629115,
-  "2022-12-25": 2630747,
-  "2022-12-26": 2632262,
-  "2022-12-27": 2633668,
-  "2022-12-28": 2635208,
-  "2022-12-29": 2636624,
-  "2022-12-30": 2638189,
-  "2022-12-31": 2639745,
-  "2023-01-01": 2641460,
-  "2023-01-02": 2642930,
-  "2023-01-03": 2644537,
-  "2023-01-04": 2645901,
-  "2023-01-05": 2647471,
-  "2023-01-06": 2649375,
-  "2023-01-07": 2652454,
-  "2023-01-08": 2652857,
-  "2023-01-09": 2655088,
-  "2023-01-10": 2656770,
-  "2023-01-11": 2658429,
-  "2023-01-12": 2660228,
-  "2023-01-13": 2661892,
-  "2023-01-14": 2665108,
-  "2023-01-15": 2665365,
-  "2023-01-16": 2667240,
-  "2023-01-17": 2668714,
-  "2023-01-18": 2670183,
-  "2023-01-19": 2671612,
-  "2023-01-20": 2673078,
-  "2023-01-21": 2674583,
-  "2023-01-22": 2676436,
-  "2023-01-23": 2678327,
-  "2023-01-24": 2679853,
-  "2023-01-25": 2681324,
-  "2023-01-26": 2682674,
-  "2023-01-27": 2684113,
-  "2023-01-28": 2685709,
-  "2023-01-29": 2687611,
-  "2023-01-30": 2689265,
-  "2023-01-31": 2689265,
-  "2023-02-01": 2692404,
-  "2023-02-02": 2694291,
-  "2023-02-03": 2695979,
-  "2023-02-04": 2697911,
-  "2023-02-05": 2699925,
-  "2023-02-06": 2702137,
-  "2023-02-07": 2703833,
-  "2023-02-08": 2707172,
-  "2023-02-09": 2707172,
-  "2023-02-10": 2708851,
-  "2023-02-11": 2710634,
-  "2023-02-12": 2714209,
-  "2023-02-13": 2715511,
-  "2023-02-14": 2715511,
-  "2023-02-15": 2716750,
-  "2023-02-16": 2718102,
-  "2023-02-17": 2719397,
-  "2023-02-18": 2722422,
-  "2023-02-19": 2722743,
-  "2023-02-20": 2723989,
-  "2023-02-21": 2725286,
-  "2023-02-22": 2726774,
-  "2023-02-23": 2728291,
-  "2023-02-24": 2729818,
-  "2023-02-25": 2732111,
-  "2023-02-26": 2733292,
-  "2023-02-27": 2736421,
-  "2023-02-28": 2736421,
-  "2023-03-01": 2737824,
-  "2023-03-02": 2739184,
-  "2023-03-03": 2740725,
-  "2023-03-04": 2742013,
-  "2023-03-05": 2745846,
-  "2023-03-06": 2745846,
-  "2023-03-07": 2747594,
-  "2023-03-08": 2749039,
-  "2023-03-09": 2750419,
-  "2023-03-10": 2751752,
-  "2023-03-11": 2753200,
-  "2023-03-12": 2755020,
-  "2023-03-13": 2757125,
-  "2023-03-14": 2759094,
-  "2023-03-15": 2760930,
-  "2023-03-16": 2762862,
-  "2023-03-17": 2762862,
-  "2023-03-18": 2766490,
-  "2023-03-19": 2768608,
-  "2023-03-20": 2770762,
-  "2023-03-21": 2772565,
-  "2023-03-22": 2774292,
-  "2023-03-23": 2776086,
-  "2023-03-24": 2776086,
-  "2023-03-25": 2779973,
-  "2023-03-26": 2782729,
-  "2023-03-27": 2785747,
-  "2023-03-28": 2788348,
-  "2023-03-29": 2790968,
-  "2023-03-30": 2795018,
-  "2023-03-31": 2795018,
-  "2023-04-01": 2798058,
-  "2023-04-02": 2800615,
-  "2023-04-03": 2802740,
-  "2023-04-04": 2805433,
-  "2023-04-05": 2807575,
-  "2023-04-06": 2809858,
-  "2023-04-07": 2811886,
-  "2023-04-09": 2816154,
-  "2023-04-10": 2818361,
-  "2023-04-11": 2822117,
-  "2023-04-12": 2822117,
-  "2023-04-13": 2823856,
-  "2023-04-14": 2825713,
-  "2023-04-15": 2827648,
-  "2023-04-16": 2829786,
-  "2023-04-17": 2832848,
-  "2023-04-18": 2835733,
-  "2023-04-19": 2838432,
-  "2023-04-20": 2841408,
-  "2023-04-21": 2844455,
-  "2023-04-22": 2847462,
-  "2023-04-23": 2850445,
-  "2023-04-24": 2853974,
-  "2023-04-25": 2857098,
-  "2023-04-26": 2859984,
-  "2023-04-27": 2863360,
-  "2023-04-28": 2867113,
-  "2023-04-29": 2870390,
-  "2023-04-30": 2873565,
-  "2023-05-01": 2876367,
-  "2023-05-02": 2878910,
-  "2023-05-03": 2881161,
-  "2023-05-04": 2883496,
-  "2023-05-05": 2885680,
-  "2023-05-06": 2887976,
-  "2023-05-07": 2890650,
-  "2023-05-08": 2893217,
-  "2023-05-09": 2895248,
-  "2023-05-10": 2897249,
-  "2023-05-11": 2899341,
-  "2023-05-12": 2901315,
-  "2023-05-13": 2903415,
-  "2023-05-14": 2905852,
-  "2023-05-15": 2908239,
-  "2023-05-16": 2910248,
-  "2023-05-17": 2912120,
-  "2023-05-18": 2913854,
-  "2023-05-19": 2915857,
-  "2023-05-20": 2920071,
-  "2023-05-21": 2920071,
-  "2023-05-22": 2920071,
-  "2023-05-23": 2923951,
-  "2023-05-24": 2927145,
-  "2023-05-25": 2927548,
-  "2023-05-26": 2929336,
-  "2023-05-27": 2931318,
-  "2023-05-28": 2933484,
-  "2023-05-29": 2933484,
-  "2023-05-30": 2937272,
-  "2023-05-31": 2939075,
-  "2023-06-01": 2940795,
-  "2023-06-02": 2942646,
-  "2023-06-03": 2944650,
-  "2023-06-04": 2946875,
-  "2023-06-05": 2948875,
-  "2023-06-06": 2950708,
-  "2023-06-07": 2952520,
-  "2023-06-08": 2954262,
-  "2023-06-09": 2955985,
-  "2023-06-10": 2957804,
-  "2023-06-11": 2959757,
-  "2023-06-12": 2961549,
-  "2023-06-13": 2963016,
-  "2023-06-14": 2964462,
-  "2023-06-15": 2966248,
-  "2023-06-16": 2967744,
-  "2023-06-17": 2969535,
-  "2023-06-18": 2971392,
-  "2023-06-19": 2973063,
-  "2023-06-20": 2974507,
-  "2023-06-21": 2975979,
-  "2023-06-22": 2977506,
-  "2023-06-23": 2979127,
-  "2023-06-24": 2980871,
-  "2023-06-25": 2982714,
-  "2023-06-26": 2984336,
-  "2023-06-27": 2985948,
-  "2023-06-28": 2987533,
-  "2023-06-29": 2989034,
-  "2023-06-30": 2990416,
-  "2023-07-01": 2993566,
-  "2023-07-02": 2993566,
-  "2023-07-03": 2995037,
-  "2023-07-04": 2996524,
-  "2023-07-05": 2997879,
-  "2023-07-06": 3000737,
-  "2023-07-07": 3000737,
-  "2023-07-08": 3002338,
-  "2023-07-09": 3003803,
-  "2023-07-10": 3005305,
-  "2023-07-11": 3006583,
-  "2023-07-12": 3007887,
-  "2023-07-13": 3009128,
-  "2023-07-14": 3010422,
-  "2023-07-15": 3011640,
-  "2023-07-16": 3013349,
-  "2023-07-17": 3014880,
-  "2023-07-18": 3016229,
-  "2023-07-19": 3017541,
-  "2023-07-20": 3018890,
-  "2023-07-21": 3020173,
-  "2023-07-22": 3021461,
-  "2023-07-23": 3023012,
-  "2023-07-24": 3024359,
-  "2023-07-25": 3025655,
-  "2023-07-26": 3026850,
-  "2023-07-27": 3028098,
-  "2023-07-28": 3029641,
-  "2023-07-29": 3031086,
-  "2023-07-30": 3032593,
-  "2023-07-31": 3034048,
-  "2023-08-01": 3035421,
-  "2023-08-02": 3036793,
-  "2023-08-03": 3038099,
-  "2023-08-04": 3039360,
-  "2023-08-05": 3040695,
-  "2023-08-06": 3043525,
-  "2023-08-07": 3043525,
-  "2023-08-08": 3044864,
-  "2023-08-09": 3046157,
-  "2023-08-10": 3047609,
-  "2023-08-11": 3049007,
-  "2023-08-12": 3050542,
-  "2023-08-13": 3052028,
-  "2023-08-14": 3053459,
-  "2023-08-15": 3056085,
-  "2023-08-16": 3056085,
-  "2023-08-17": 3057352,
-  "2023-08-18": 3058656,
-  "2023-08-19": 3060163,
-  "2023-08-20": 3061658,
-  "2023-08-21": 3063040,
-  "2023-08-22": 3064241,
-  "2023-08-23": 3065333,
-  "2023-08-24": 3066648,
-  "2023-08-25": 3068018,
-  "2023-08-26": 3069678,
-  "2023-08-27": 3071303,
-  "2023-08-28": 3072778,
-  "2023-08-29": 3074093,
-  "2023-08-30": 3075461,
-  "2023-08-31": 3076751,
-  "2023-09-01": 3079415,
-  "2023-09-02": 3079415,
-  "2023-09-03": 3080692,
-  "2023-09-04": 3082049,
-  "2023-09-05": 3083140,
-  "2023-09-06": 3084071,
-  "2023-09-07": 3085041,
-  "2023-09-08": 3086045,
-  "2023-09-09": 3087148,
-  "2023-09-10": 3088401,
-  "2023-09-11": 3089563,
-  "2023-09-12": 3090535,
-  "2023-09-13": 3091359,
-  "2023-09-14": 3092203,
-  "2023-09-15": 3092959,
-  "2023-09-16": 3093878,
-  "2023-09-17": 3095006,
-  "2023-09-18": 3096154,
-  "2023-09-19": 3097172,
-  "2023-09-20": 3098039,
-  "2023-09-21": 3099079,
-  "2023-09-22": 3099964,
-  "2023-09-23": 3101145,
-  "2023-09-24": 3102448,
-  "2023-09-25": 3103808,
-  "2023-09-26": 3104924,
-  "2023-09-27": 3105637,
-  "2023-09-28": 3106623,
-  "2023-09-29": 3107674,
-  "2023-09-30": 3108702,
-  "2023-10-01": 3109808,
-  "2023-10-02": 3110920,
-  "2023-10-03": 3111831,
-  "2023-10-04": 3112626,
-  "2023-10-05": 3113494,
-  "2023-10-06": 3114516,
-  "2023-10-07": 3116163,
-  "2023-10-08": 3117510,
-  "2023-10-09": 3118724,
-  "2023-10-10": 3117909,
-  "2023-10-11": 3117841,
-  "2023-10-12": 3117841,
-  "2023-10-13": 3117156,
-  "2023-10-14": 3116774,
-  "2023-10-15": 3117548,
-  "2023-10-16": 3118423,
-  "2023-10-17": 3119141,
-  "2023-10-18": 3119752,
-  "2023-10-19": 3120433,
-  "2023-10-20": 3121145,
-  "2023-10-21": 3121907,
-  "2023-10-22": 3122871,
-  "2023-10-23": 3123659,
-  "2023-10-24": 3124321,
-  "2023-10-25": 3125021,
-  "2023-10-26": 3125606,
-  "2023-10-27": 3126321,
-  "2023-10-28": 3126321,
-  "2023-10-29": 3128238,
-  "2023-10-30": 3129168,
-  "2023-10-31": 3129168,
-  "2023-11-01": 3130562,
-  "2023-11-02": 3131255,
-  "2023-11-03": 3131826,
-  "2023-11-04": 3132450,
-  "2023-11-05": 3133125,
-  "2023-11-06": 3133846,
-  "2023-11-07": 3134432,
-  "2023-11-08": 3134972,
-  "2023-11-09": 3135584,
-  "2023-11-10": 3136110,
-  "2023-11-11": 3136809,
-  "2023-11-12": 3137474,
-  "2023-11-13": 3138091,
-  "2023-11-14": 3138586,
-  "2023-11-15": 3138586,
-  "2023-11-16": 3139561,
-  "2023-11-17": 3140464,
-  "2023-11-18": 3140464,
-  "2023-11-19": 3141074,
-  "2023-11-20": 3141583,
-  "2023-11-21": 3142048,
-  "2023-11-22": 3142514,
-  "2023-11-23": 3142982,
-  "2023-11-24": 3142982,
-  "2023-11-25": 3144135,
-  "2023-11-26": 3144750,
-  "2023-11-27": 3145314,
-  "2023-11-28": 3145795,
-  "2023-11-29": 3146514,
-  "2023-11-30": 3146514,
-  "2023-12-01": 3146921,
-  "2023-12-02": 3147440,
-  "2023-12-03": 3147984,
-  "2023-12-04": 3148682,
-  "2023-12-05": 3149132,
-  "2023-12-06": 3149634,
-  "2023-12-07": 3150198,
-  "2023-12-08": 3150834,
-  "2023-12-09": 3151539,
-  "2023-12-10": 3152274,
-  "2023-12-11": 3152903,
-  "2023-12-12": 3152903,
-  "2023-12-13": 3154024,
-  "2023-12-14": 3154705,
-  "2023-12-15": 3155191,
-  "2023-12-16": 3155820,
-  "2023-12-17": 3156498,
-  "2023-12-18": 3157105,
-  "2023-12-19": 3157590,
-  "2023-12-20": 3158094,
-  "2023-12-21": 3158637,
-  "2023-12-22": 3159172,
-  "2023-12-23": 3159679,
-  "2023-12-24": 3160373,
-  "2023-12-25": 3160949,
-  "2023-12-26": 3161612,
-  "2023-12-27": 3162220,
-  "2023-12-30": 3164023,
-  "2023-12-31": 3164610,
-  "2024-01-01": 3165171,
-  "2024-01-02": 3165652,
-  "2024-01-03": 3166070
+  "2024-01-17": 3161980,
+  "date_first_scraped": "2022-05-30",
+  "description": "BLACKPINK in our area! Are you ready to Shut Down?",
+  "name": "This Is BLACKPINK",
+  "tracks": [
+    {
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163522,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ"
+    },
+    {
+      "album": {
+        "name": "As If It's Your Last",
+        "url": "https://open.spotify.com/album/6IzQb2kLydYNfzmKXvmndX"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213264,
+      "name": "As If It's Your Last",
+      "url": "https://open.spotify.com/track/1Zyd6zQnC6XIIzmg3hP7Ot"
+    },
+    {
+      "album": {
+        "name": "As If It's Your Last",
+        "url": "https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213264,
+      "name": "As If It's Your Last",
+      "url": "https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159168,
+      "name": "Bet You Wanna (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/1hPkiovjTqiJAJen4uyNRg"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161167,
+      "name": "Bet You Wanna (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
+    },
+    {
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240793,
+      "name": "BOOMBAYAH",
+      "url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e"
+    },
+    {
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240848,
+      "name": "BOOMBAYAH",
+      "url": "https://open.spotify.com/track/3yHQKddM8SVCRnuPSo3HPN"
+    },
+    {
+      "album": {
+        "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
+        "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240613,
+      "name": "BOOMBAYAH - Japanese Version",
+      "url": "https://open.spotify.com/track/5nIjOnMbC0QDMrYFLGx0yV"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161945,
+      "name": "Crazy Over You",
+      "url": "https://open.spotify.com/track/4yOqfpzmL4FvmXJTUgAMUP"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163945,
+      "name": "Crazy Over You",
+      "url": "https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209355,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211350,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
+    },
+    {
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201225,
+      "name": "DDU-DU DDU-DU (Remix)",
+      "url": "https://open.spotify.com/track/0NdEvupVBxG5zyVLGtpJpg"
+    },
+    {
+      "album": {
+        "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
+        "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "DDU-DU DDU-DU - Japanese Version",
+      "url": "https://open.spotify.com/track/4jUEHIrc443f743JbyLN0y"
+    },
+    {
+      "album": {
+        "name": "BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL (Live)",
+        "url": "https://open.spotify.com/album/4i0XmhtxZBPxwpgNeJ1Tvg"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210268,
+      "name": "DDU-DU DDU-DU - Live",
+      "url": "https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F"
+    },
+    {
+      "album": {
+        "name": "BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL - Live",
+        "url": "https://open.spotify.com/album/1Q2x3A0YKL8IB7FYL82QiS"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210268,
+      "name": "DDU-DU DDU-DU - Live",
+      "url": "https://open.spotify.com/track/69Bi7veKMrb2mRq00HkRyO"
+    },
+    {
+      "album": {
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201225,
+      "name": "DDU-DU DDU-DU - Remix",
+      "url": "https://open.spotify.com/track/4sz6sircK4Jn2SZSHgd96h"
+    },
+    {
+      "album": {
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201081,
+      "name": "Don't Know What To Do",
+      "url": "https://open.spotify.com/track/38SKB7UfhL6Sd6Joxex5yK"
+    },
+    {
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201081,
+      "name": "Don't Know What To Do",
+      "url": "https://open.spotify.com/track/7ibZWzytUh41z5ycK2I5N8"
+    },
+    {
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173134,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237076,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239100,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY"
+    },
+    {
+      "album": {
+        "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
+        "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237146,
+      "name": "FOREVER YOUNG - Japanese Version",
+      "url": "https://open.spotify.com/track/02h4inVwwNX1cMuGCDtsgV"
+    },
+    {
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207163,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162569,
+      "name": "Hard to Love",
+      "url": "https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q"
+    },
+    {
+      "album": {
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191030,
+      "name": "Hope Not",
+      "url": "https://open.spotify.com/track/3eZD5DZGibwxMAOaCMBg3k"
+    },
+    {
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191030,
+      "name": "Hope Not",
+      "url": "https://open.spotify.com/track/6euC2yxyQA6uztolUYnhiW"
+    },
+    {
+      "album": {
+        "name": "How You Like That",
+        "url": "https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181263,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3"
+    },
+    {
+      "album": {
+        "name": "How You Like That",
+        "url": "https://open.spotify.com/album/1AkGUEtocePYti6xefsECx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181263,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/6y6k14YN6MbKpGIv1Rk00Q"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182956,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
+    },
+    {
+      "album": {
+        "name": "Ice Cream (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Ice Cream (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX"
+    },
+    {
+      "album": {
+        "name": "Ice Cream (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0J1uiXQshfRtz2R8lgUlQk"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175813,
+      "name": "Ice Cream (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/60jpDubMmVyR5molJp2TCm"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177813,
+      "name": "Ice Cream (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
+    },
+    {
+      "album": {
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191225,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/4rsoLz7ZY1Ldz8dpm4Lqtg"
+    },
+    {
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191225,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/6MN6oiT2d7qxYEOwXwgV34"
+    },
+    {
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189052,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB"
+    },
+    {
+      "album": {
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191050,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+    },
+    {
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1"
+    },
+    {
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169797,
+      "name": "Love To Hate Me",
+      "url": "https://open.spotify.com/track/09JE599HkmbidwGWyD4ZGy"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171797,
+      "name": "Love To Hate Me",
+      "url": "https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192765,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194765,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
+    },
+    {
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168085,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
+    {
+      "album": {
+        "name": "SQUARE TWO",
+        "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "PLAYING WITH FIRE",
+      "url": "https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn"
+    },
+    {
+      "album": {
+        "name": "SQUARE TWO",
+        "url": "https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197355,
+      "name": "PLAYING WITH FIRE",
+      "url": "https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201122,
+      "name": "Pretty Savage",
+      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184677,
+      "name": "Ready For Love",
+      "url": "https://open.spotify.com/track/1Wwh6gmMeolwzbRzfZMY5b"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197789,
+      "name": "Really",
+      "url": "https://open.spotify.com/track/2URMA0ap6SAI8wFmcY1yta"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197789,
+      "name": "Really",
+      "url": "https://open.spotify.com/track/2r5oD7twaQTsv5KoRS6v16"
+    },
+    {
+      "album": {
+        "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
+        "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197360,
+      "name": "REALLY - Japanese Version",
+      "url": "https://open.spotify.com/track/6OKXcx7tClGAS0o2cOTl2v"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "See U Later",
+      "url": "https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198866,
+      "name": "See U Later",
+      "url": "https://open.spotify.com/track/3AyLh4R4D3fQfyqCsTdFf3"
+    },
+    {
+      "album": {
+        "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
+        "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "SEE U LATER - Japanese Version",
+      "url": "https://open.spotify.com/track/7IS4NciwYPs1wMywOKx69z"
+    },
+    {
+      "album": {
+        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+        "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/68GNh1ZjfSewE8uBCH3UnR"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169566,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/2XIaetAZTyR7oQfHh8DZ2B"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169566,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
+    },
+    {
+      "album": {
+        "name": "The Future Is Female",
+        "url": "https://open.spotify.com/album/5hbJ2lUh2tAmrWMSAX3AYa"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169566,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/6ITEzSECbETYVnHG76yj3B"
+    },
+    {
+      "album": {
+        "name": "Sour Candy (with BLACKPINK)",
+        "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157706,
+      "name": "Sour Candy (with BLACKPINK)",
+      "url": "https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv"
+    },
+    {
+      "album": {
+        "name": "SQUARE TWO",
+        "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230322,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/3tP6QKbXvtrxiDI7QwKyUf"
+    },
+    {
+      "album": {
+        "name": "SQUARE TWO",
+        "url": "https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230400,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/4TWHREp4wv0TmewqR6rgRd"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "Tally",
+      "url": "https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB"
+    },
+    {
+      "album": {
+        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
+        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "THE GIRLS - BLACKPINK THE GAME OST",
+      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222025,
+      "name": "The Happiest Girl",
+      "url": "https://open.spotify.com/track/1XoY4WZrvPIphBaikXGjF8"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
+    },
+    {
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211631,
+      "name": "WHISTLE",
+      "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
+    },
+    {
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211696,
+      "name": "WHISTLE",
+      "url": "https://open.spotify.com/track/7HWmJ1wBecOAMNGjC6SmKE"
+    },
+    {
+      "album": {
+        "name": "SQUARE TWO",
+        "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212419,
+      "name": "WHISTLE - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/20MOKIGONywL5xIoB7RRAR"
+    },
+    {
+      "album": {
+        "name": "SQUARE TWO",
+        "url": "https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212480,
+      "name": "WHISTLE - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/0doLJjIDrYkoXDb4b9Qa8n"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178923,
+      "name": "Yeah Yeah Yeah",
+      "url": "https://open.spotify.com/track/5y4WmuvFX1t3NdSId0MFOh"
+    },
+    {
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-13",
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179864,
+      "name": "You & Me (Coachella ver.)",
+      "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229201,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/1b0PG9Zd1HhOwq3n9QNkDg"
+    },
+    {
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231201,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DZBe6wPMXo.md) - [plain]
 
 > Gentle instrumental music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,632 likes - 47 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,398 likes - 47 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DZBe6wPMXo.md) - [plain]
 | 43 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
 | 44 | [Gnossiennes: No\. 4](https://open.spotify.com/track/5uaqfXP4wBosOea7QLokJP) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:36 |
 | 45 | [Ave](https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [All I Need](https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51) | 4:07 |
-| 46 | [Debussy: Piano Trio in G Major, L\. 5: III\. Andante espressivo](https://open.spotify.com/track/7ipHx0jgei0eK8xn3xoKIL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Debussy: Sonatas and Piano Trio](https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ) | 3:47 |
+| 46 | [Debussy: Piano Trio in G Major, CD 5, L\. 3: III\. Andante espressivo](https://open.spotify.com/track/7ipHx0jgei0eK8xn3xoKIL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L) | [Debussy: Sonatas and Piano Trio](https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ) | 3:47 |
 | 47 | [String Quartet No\. 1 in D Major, Op\. 11: II\. Andante cantabile](https://open.spotify.com/track/4eNSU0YbZE8RKRNDVNbyLm) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [New Haydn Quartet](https://open.spotify.com/artist/7wp6BctZqShWMtTzA5Bati) | [Tchaikovsky: String Quartets, Vol\. 1](https://open.spotify.com/album/5mAsoTf141wzQInlKzYWFH) | 6:35 |
 
 Snapshot ID: `MCw5OGZjYWE4YWFmOTBjNjBlNzM0MjhiMzFjMzNhMTY0M2I1MWUyZDZh`

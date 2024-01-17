@@ -1,148 +1,2087 @@
 {
-  "2023-08-09": 799,
-  "2023-08-10": 812,
-  "2023-08-11": 825,
-  "2023-08-12": 843,
-  "2023-08-13": 864,
-  "2023-08-14": 884,
-  "2023-08-15": 922,
-  "2023-08-16": 922,
-  "2023-08-17": 950,
-  "2023-08-18": 976,
-  "2023-08-19": 988,
-  "2023-08-20": 993,
-  "2023-08-21": 1008,
-  "2023-08-22": 1031,
-  "2023-08-23": 1050,
-  "2023-08-24": 1076,
-  "2023-08-25": 1092,
-  "2023-08-26": 1122,
-  "2023-08-27": 1137,
-  "2023-08-28": 1153,
-  "2023-08-29": 1166,
-  "2023-08-30": 1189,
-  "2023-08-31": 1214,
-  "2023-09-01": 1265,
-  "2023-09-02": 1265,
-  "2023-09-03": 1283,
-  "2023-09-04": 1300,
-  "2023-09-05": 1319,
-  "2023-09-06": 1337,
-  "2023-09-07": 1358,
-  "2023-09-08": 1380,
-  "2023-09-09": 1394,
-  "2023-09-10": 1406,
-  "2023-09-11": 1420,
-  "2023-09-12": 1431,
-  "2023-09-13": 1444,
-  "2023-09-14": 1464,
-  "2023-09-15": 1474,
-  "2023-09-16": 1498,
-  "2023-09-17": 1513,
-  "2023-09-18": 1528,
-  "2023-09-19": 1545,
-  "2023-09-20": 1566,
-  "2023-09-21": 1577,
-  "2023-09-22": 1602,
-  "2023-09-23": 1614,
-  "2023-09-24": 1621,
-  "2023-09-25": 1631,
-  "2023-09-26": 1640,
-  "2023-09-27": 1649,
-  "2023-09-28": 1663,
-  "2023-09-29": 1677,
-  "2023-09-30": 1699,
-  "2023-10-01": 1713,
-  "2023-10-02": 1733,
-  "2023-10-03": 1736,
-  "2023-10-04": 1757,
-  "2023-10-05": 1768,
-  "2023-10-06": 1786,
-  "2023-10-07": 1801,
-  "2023-10-08": 1809,
-  "2023-10-09": 1817,
-  "2023-10-10": 1828,
-  "2023-10-11": 1863,
-  "2023-10-12": 1863,
-  "2023-10-13": 1875,
-  "2023-10-14": 1881,
-  "2023-10-15": 1891,
-  "2023-10-16": 1893,
-  "2023-10-17": 1901,
-  "2023-10-18": 1905,
-  "2023-10-19": 1923,
-  "2023-10-20": 1940,
-  "2023-10-21": 1955,
-  "2023-10-22": 1968,
-  "2023-10-23": 1975,
-  "2023-10-24": 1987,
-  "2023-10-25": 2002,
-  "2023-10-26": 2012,
-  "2023-10-27": 2021,
-  "2023-10-28": 2032,
-  "2023-10-29": 2039,
-  "2023-10-30": 2053,
-  "2023-10-31": 2053,
-  "2023-11-01": 2068,
-  "2023-11-02": 2077,
-  "2023-11-03": 2082,
-  "2023-11-04": 2094,
-  "2023-11-05": 2100,
-  "2023-11-06": 2110,
-  "2023-11-07": 2114,
-  "2023-11-08": 2124,
-  "2023-11-09": 2137,
-  "2023-11-10": 2148,
-  "2023-11-11": 2160,
-  "2023-11-12": 2167,
-  "2023-11-13": 2174,
-  "2023-11-14": 2187,
-  "2023-11-15": 2187,
-  "2023-11-16": 2209,
-  "2023-11-17": 2228,
-  "2023-11-18": 2228,
-  "2023-11-19": 2239,
-  "2023-11-20": 2251,
-  "2023-11-21": 2260,
-  "2023-11-22": 2268,
-  "2023-11-23": 2275,
-  "2023-11-24": 2284,
-  "2023-11-25": 2296,
-  "2023-11-26": 2308,
-  "2023-11-27": 2320,
-  "2023-11-28": 2326,
-  "2023-11-29": 2344,
-  "2023-11-30": 2344,
-  "2023-12-01": 2353,
-  "2023-12-02": 2366,
-  "2023-12-03": 2386,
-  "2023-12-04": 2403,
-  "2023-12-05": 2420,
-  "2023-12-06": 2436,
-  "2023-12-07": 2442,
-  "2023-12-08": 2451,
-  "2023-12-09": 2464,
-  "2023-12-10": 2470,
-  "2023-12-11": 2478,
-  "2023-12-12": 2481,
-  "2023-12-13": 2487,
-  "2023-12-14": 2495,
-  "2023-12-15": 2499,
-  "2023-12-16": 2504,
-  "2023-12-17": 2506,
-  "2023-12-18": 2510,
-  "2023-12-19": 2516,
-  "2023-12-20": 2533,
-  "2023-12-21": 2546,
-  "2023-12-22": 2549,
-  "2023-12-23": 2551,
-  "2023-12-24": 2558,
-  "2023-12-25": 2561,
-  "2023-12-26": 2568,
-  "2023-12-27": 2572,
-  "2023-12-30": 2595,
-  "2023-12-31": 2604,
-  "2024-01-01": 2610,
-  "2024-01-02": 2614,
-  "2024-01-03": 2625
+  "2024-01-17": 2766,
+  "date_first_scraped": "2023-08-09",
+  "description": "Nuestra alma mater es la calle. La Santa Grifa en portada",
+  "name": "Los Malportados ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ahi voy",
+        "url": "https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225621,
+      "name": "Ahi voy",
+      "url": "https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy"
+    },
+    {
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/404WBaD5C2nZURNahDhDZu"
+      },
+      "artists": [
+        {
+          "name": "Tm Zaiko",
+          "url": "https://open.spotify.com/artist/6rRCboLhCMJPvte1IRHwsl"
+        },
+        {
+          "name": "ILUMINATIK BUFFON",
+          "url": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219245,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/6wHUzTthgr27sx5gmnGcoQ"
+    },
+    {
+      "album": {
+        "name": "8 Diamantes",
+        "url": "https://open.spotify.com/album/1Zg4Cot6eVwmbHimkp2zc0"
+      },
+      "artists": [
+        {
+          "name": "W. Corona",
+          "url": "https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223970,
+      "name": "Aqui no dominas nada",
+      "url": "https://open.spotify.com/track/1lGKVCGOgKSiDJbnvNUMyU"
+    },
+    {
+      "album": {
+        "name": "Atraco",
+        "url": "https://open.spotify.com/album/7unoNuT8rYo7C7WmPoq3qD"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo El Quetzal",
+          "url": "https://open.spotify.com/artist/6M7bd1arTLm5FJnNFYKzb6"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Atraco",
+      "url": "https://open.spotify.com/track/37585HGyOwyvroacx8gMwn"
+    },
+    {
+      "album": {
+        "name": "Aves",
+        "url": "https://open.spotify.com/album/5sl6uSvqM1XdJEPChi8akL"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 199500,
+      "name": "Aves",
+      "url": "https://open.spotify.com/track/2rSPCAmoC7rUxxLawaZNCD"
+    },
+    {
+      "album": {
+        "name": "Aves",
+        "url": "https://open.spotify.com/album/3dTZ7GIUqstVhcu0M9I0vR"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Aves",
+      "url": "https://open.spotify.com/track/4aJcMCvvT5C56DTlN6Y3Wj"
+    },
+    {
+      "album": {
+        "name": "Ballin",
+        "url": "https://open.spotify.com/album/3NKzCItIOFdN5Ck4B1coM3"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222700,
+      "name": "Ballin",
+      "url": "https://open.spotify.com/track/0Y4QksItnsW6mzEtH27fS0"
+    },
+    {
+      "album": {
+        "name": "BIEN",
+        "url": "https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD"
+      },
+      "artists": [
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        },
+        {
+          "name": "Doble P Ache Ene",
+          "url": "https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "BIEN",
+      "url": "https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e"
+    },
+    {
+      "album": {
+        "name": "Boombap",
+        "url": "https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Kintuper",
+          "url": "https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "Boombap",
+      "url": "https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah"
+    },
+    {
+      "album": {
+        "name": "BOOMBAP",
+        "url": "https://open.spotify.com/album/0jNLK0SIfOlYA9A3bsicAJ"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Kintuper",
+          "url": "https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ"
+        },
+        {
+          "name": "POLLO 821",
+          "url": "https://open.spotify.com/artist/035y0yO89K3Ry2LDbUkOib"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-12",
+      "duration_ms": 242823,
+      "name": "BOOMBAP",
+      "url": "https://open.spotify.com/track/0SLdDk7e4cnp8MFmcf16pi"
+    },
+    {
+      "album": {
+        "name": "Bosses",
+        "url": "https://open.spotify.com/album/6d1jFOmkfXAnoXjTm3PGJT"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211432,
+      "name": "Bosses",
+      "url": "https://open.spotify.com/track/3EI0WbXre6WTM3HTm70phi"
+    },
+    {
+      "album": {
+        "name": "Bueno Pa Lo Malo",
+        "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399230,
+      "name": "Bueno Pa Lo Malo",
+      "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
+    },
+    {
+      "album": {
+        "name": "Cachondo",
+        "url": "https://open.spotify.com/album/3xmW3rGo4G175wwqV8PZq7"
+      },
+      "artists": [
+        {
+          "name": "Chino Maniako",
+          "url": "https://open.spotify.com/artist/2PI6NF0fktDr7w3qyqfXyW"
+        },
+        {
+          "name": "Tm Zaiko",
+          "url": "https://open.spotify.com/artist/6rRCboLhCMJPvte1IRHwsl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209096,
+      "name": "Cachondo",
+      "url": "https://open.spotify.com/track/3MjDEgK4WpWvaz7ggT6QLi"
+    },
+    {
+      "album": {
+        "name": "Capos de Profesi\u00f3n",
+        "url": "https://open.spotify.com/album/2kZW84L12OFSrz0sgcJLWx"
+      },
+      "artists": [
+        {
+          "name": "TipoSierraBros",
+          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100235,
+      "name": "Capos de Profesi\u00f3n",
+      "url": "https://open.spotify.com/track/2mJIycc7SuiuFb7VRccD8n"
+    },
+    {
+      "album": {
+        "name": "certeros",
+        "url": "https://open.spotify.com/album/4M9iw709hphgt8LJVDzNTr"
+      },
+      "artists": [
+        {
+          "name": "Lil Wacho",
+          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215010,
+      "name": "certeros",
+      "url": "https://open.spotify.com/track/05XNGfkw7iWDYukQbiR4fc"
+    },
+    {
+      "album": {
+        "name": "Chalineras",
+        "url": "https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217033,
+      "name": "Chalineras",
+      "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
+    },
+    {
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Cholo en un Low",
+      "url": "https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY"
+    },
+    {
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/5bZ7Jgk7YE35ULHWO3wgHP"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242733,
+      "name": "Con el Coco Rapado",
+      "url": "https://open.spotify.com/track/13mi6Ut0rcnvj88hLsTHDx"
+    },
+    {
+      "album": {
+        "name": "Conoceras El Frio",
+        "url": "https://open.spotify.com/album/7tO7w8Zuxssr7wKZkqTdZJ"
+      },
+      "artists": [
+        {
+          "name": "Locura Terminal",
+          "url": "https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257146,
+      "name": "Conoceras El Frio",
+      "url": "https://open.spotify.com/track/77cvpRNS9DfI8Xh8uWi8I9"
+    },
+    {
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6HSQrTCUWwwv8HHIJkMHvD"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238329,
+      "name": "Corren Con Suerte",
+      "url": "https://open.spotify.com/track/4SevDviTh0QWWXMQz3JJYe"
+    },
+    {
+      "album": {
+        "name": "Cumbia Guanajuato",
+        "url": "https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339692,
+      "name": "Cumbia Guanajuato",
+      "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
+    },
+    {
+      "album": {
+        "name": "Cypher",
+        "url": "https://open.spotify.com/album/0rzIr66tetyEnqVL7Ypkrc"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Cypher",
+      "url": "https://open.spotify.com/track/3Er5VEk7QKeRkO5ThxVNbU"
+    },
+    {
+      "album": {
+        "name": "Mixtape Rich Vagos",
+        "url": "https://open.spotify.com/album/6Md2vrD9ioekgr6GmzF5ce"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "OPYI",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "C\u00e1llese",
+      "url": "https://open.spotify.com/track/360mOrU0yolwXKY8z2uEaE"
+    },
+    {
+      "album": {
+        "name": "De Abajo Pa'rriba",
+        "url": "https://open.spotify.com/album/2xQWLcU7XkscadXAhDmbJl"
+      },
+      "artists": [
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        },
+        {
+          "name": "Farock",
+          "url": "https://open.spotify.com/artist/68ozuRzjeeZGbKPU9b1nb2"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "De Abajo Pa'rriba",
+      "url": "https://open.spotify.com/track/6PjZKJvXhZcyBKSX0kNa7R"
+    },
+    {
+      "album": {
+        "name": "Derrochando Estilo",
+        "url": "https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt"
+      },
+      "artists": [
+        {
+          "name": "Chikis RA",
+          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "Derrochando Estilo",
+      "url": "https://open.spotify.com/track/4I98VytVQXNTScYphARAGH"
+    },
+    {
+      "album": {
+        "name": "El Bols\u00f3n",
+        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231177,
+      "name": "El Bols\u00f3n",
+      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
+    },
+    {
+      "album": {
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380200,
+      "name": "El Diablo Anda Suelto",
+      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
+    },
+    {
+      "album": {
+        "name": "El Largo V1",
+        "url": "https://open.spotify.com/album/2glwuU6kbHaFzKuNU5J9wv"
+      },
+      "artists": [
+        {
+          "name": "El Borrado M",
+          "url": "https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "El Largo V1",
+      "url": "https://open.spotify.com/track/4iBgsgrNa1V6rdEkxrD5Vq"
+    },
+    {
+      "album": {
+        "name": "En El Barrio",
+        "url": "https://open.spotify.com/album/7IBfh4NB9SG92PhyqfoI3x"
+      },
+      "artists": [
+        {
+          "name": "El Borrado M",
+          "url": "https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U"
+        },
+        {
+          "name": "El Lirikario",
+          "url": "https://open.spotify.com/artist/3Iouw6T9joHE8dX2TomvNM"
+        },
+        {
+          "name": "Lirik Dog",
+          "url": "https://open.spotify.com/artist/089lHQDlY6FIMtKzztdUAb"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255789,
+      "name": "En El Barrio",
+      "url": "https://open.spotify.com/track/6W89riCJaMblBi5CHhB6Vi"
+    },
+    {
+      "album": {
+        "name": "Viaje Sin Equipaje",
+        "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
+      },
+      "artists": [
+        {
+          "name": "Mr. Yosie Locote",
+          "url": "https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255843,
+      "name": "Entrada Sin Salida",
+      "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
+    },
+    {
+      "album": {
+        "name": "El Cuadro del Terror",
+        "url": "https://open.spotify.com/album/7paQhjni7vgcDvOOPNHQqH"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273294,
+      "name": "Equipado Pa la Guerra",
+      "url": "https://open.spotify.com/track/6VYLUQk2KoQew6sLJkRqXH"
+    },
+    {
+      "album": {
+        "name": "Estoy Bien Loco",
+        "url": "https://open.spotify.com/album/63uaLug81UDXYtuHTJk77O"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307826,
+      "name": "Estoy Bien Loco",
+      "url": "https://open.spotify.com/track/5u4XgdTpI3KAymxn9LZQxn"
+    },
+    {
+      "album": {
+        "name": "Xxxtrictamente para la Calle",
+        "url": "https://open.spotify.com/album/2ezsKDAs9nVbHAQA8Y0g9V"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Farsantes",
+      "url": "https://open.spotify.com/track/5YC0ubjqDKG7J52huxWwb7"
+    },
+    {
+      "album": {
+        "name": "FILO&KILO",
+        "url": "https://open.spotify.com/album/5RJipLUpIxCjrQwCYur2Rc"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Skinny Flex",
+          "url": "https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW"
+        },
+        {
+          "name": "NeURO",
+          "url": "https://open.spotify.com/artist/1dwEsns205j4fqya0jZNq7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "FILO&KILO",
+      "url": "https://open.spotify.com/track/2vB3Eb4TxXsC3cwmngD1Ns"
+    },
+    {
+      "album": {
+        "name": "Flight 0010",
+        "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "Dave Gars\u00eda",
+          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
+        },
+        {
+          "name": "Meny Mendez",
+          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130503,
+      "name": "Flight 0010",
+      "url": "https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ"
+    },
+    {
+      "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/0NAoesvR4n07viJtdUBqDE"
+      },
+      "artists": [
+        {
+          "name": "Chikis RA",
+          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178785,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/2kY8eaR1Y5T69uMhXw3h1s"
+    },
+    {
+      "album": {
+        "name": "HDP",
+        "url": "https://open.spotify.com/album/671zdpfcfgpxxEsEP3XUo5"
+      },
+      "artists": [
+        {
+          "name": "Duendy",
+          "url": "https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk"
+        },
+        {
+          "name": "Dorian Cracken",
+          "url": "https://open.spotify.com/artist/1qrJLoZNlTEVIg47qBWCnc"
+        },
+        {
+          "name": "Cuervo Loomi",
+          "url": "https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222631,
+      "name": "HDP",
+      "url": "https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp"
+    },
+    {
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/0tOj5weTJiOodUMVF1VjGM"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Carlos Luengo",
+          "url": "https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/2eCPG1bdKAqSYj1LL6upfN"
+    },
+    {
+      "album": {
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5b2rRtGErcIWSnKt9pd9Tq"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161555,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/6SokBtt443HT7pwaqbT0cC"
+    },
+    {
+      "album": {
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/5xdzsNhg4IP4FXUMiT70Be"
+      },
+      "artists": [
+        {
+          "name": "Don Tkt Hemafia",
+          "url": "https://open.spotify.com/artist/6YBqTxHlF9NKytDKR4I2aw"
+        },
+        {
+          "name": "69 Lokos",
+          "url": "https://open.spotify.com/artist/4sJC9ncqXO3ulcAhomHevu"
+        },
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267695,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/6SYOA4crkUyhgtsNrhpRd9"
+    },
+    {
+      "album": {
+        "name": "KUMBIA MAKABRA",
+        "url": "https://open.spotify.com/album/1oXkI5mJE3WtNJRnYDR2nt"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168042,
+      "name": "KUMBIA MAKABRA",
+      "url": "https://open.spotify.com/track/72BlB9Lok4jD7t1NCdPfAr"
+    },
+    {
+      "album": {
+        "name": "La Bachona",
+        "url": "https://open.spotify.com/album/0kl7f5ss7mwh8zaJD6Ggye"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171177,
+      "name": "La Bachona",
+      "url": "https://open.spotify.com/track/7vZoJVfJ14jZJaHtiYcHyM"
+    },
+    {
+      "album": {
+        "name": "La Calle Llora",
+        "url": "https://open.spotify.com/album/7ikJ4foUE0oHwoJdASOwlC"
+      },
+      "artists": [
+        {
+          "name": "Made X La Calle",
+          "url": "https://open.spotify.com/artist/65XnSO2UIDvG0zQIjcrFAJ"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        },
+        {
+          "name": "Alexis Linares",
+          "url": "https://open.spotify.com/artist/0mJWgWivNI3ioDcrlz5jy4"
+        },
+        {
+          "name": "Nueve Siete",
+          "url": "https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI"
+        },
+        {
+          "name": "Kush",
+          "url": "https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh"
+        },
+        {
+          "name": "Skubby.V",
+          "url": "https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290397,
+      "name": "La Calle Llora",
+      "url": "https://open.spotify.com/track/0YxCHyRniH8traBWNtmgoB"
+    },
+    {
+      "album": {
+        "name": "Frenia",
+        "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "La Cara de Loco",
+      "url": "https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ"
+    },
+    {
+      "album": {
+        "name": "High Con Class XIII",
+        "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252533,
+      "name": "La Feria Drogas y Muerte",
+      "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
+    },
+    {
+      "album": {
+        "name": "La Mision 3",
+        "url": "https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282598,
+      "name": "La Mision 3",
+      "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
+    },
+    {
+      "album": {
+        "name": "La Sombra",
+        "url": "https://open.spotify.com/album/2OEksELjCabVES5tiWoXcN"
+      },
+      "artists": [
+        {
+          "name": "El Borrado M",
+          "url": "https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "La Sombra",
+      "url": "https://open.spotify.com/track/5LcFkBiHvB5BtIGdmWCAa0"
+    },
+    {
+      "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1zK3TV2luYmgMTBgViW2Jc"
+      },
+      "artists": [
+        {
+          "name": "Krusha G",
+          "url": "https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw"
+        },
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5hSjKz5d9BNFLbVN1dJ0YV"
+    },
+    {
+      "album": {
+        "name": "Las Horas Pasan",
+        "url": "https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210625,
+      "name": "Las Horas Pasan",
+      "url": "https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a"
+    },
+    {
+      "album": {
+        "name": "Liga Malandra 2",
+        "url": "https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "Bear Busby",
+          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        },
+        {
+          "name": "Unex Msc",
+          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Liga Malandra 2",
+      "url": "https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B"
+    },
+    {
+      "album": {
+        "name": "Los Pizzas",
+        "url": "https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136520,
+      "name": "Los Pizzas",
+      "url": "https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR"
+    },
+    {
+      "album": {
+        "name": "Malandros",
+        "url": "https://open.spotify.com/album/1P1aEY6nhvRz6wWql4p40h"
+      },
+      "artists": [
+        {
+          "name": "Lil Wacho",
+          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207414,
+      "name": "Malandros",
+      "url": "https://open.spotify.com/track/2zt2gQGJOCHBijGuvl7HxM"
+    },
+    {
+      "album": {
+        "name": "Malandros en Tu Ciudad",
+        "url": "https://open.spotify.com/album/2VoHKU9RVPIuTaXN9oDVXP"
+      },
+      "artists": [
+        {
+          "name": "Don Tkt Hemafia",
+          "url": "https://open.spotify.com/artist/6YBqTxHlF9NKytDKR4I2aw"
+        },
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224339,
+      "name": "Malandros en Tu Ciudad",
+      "url": "https://open.spotify.com/track/3uBeeBHfBraoPn1qXy18pd"
+    },
+    {
+      "album": {
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/11VRX2kuSNHlVPmN6y3WsO"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217300,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/7KqsrXzjldoa9GakHd2jZf"
+    },
+    {
+      "album": {
+        "name": "Merca Fina",
+        "url": "https://open.spotify.com/album/38SRE2yA5N9HEzxfzGemFW"
+      },
+      "artists": [
+        {
+          "name": "Lil Wacho",
+          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        },
+        {
+          "name": "Maxo IR",
+          "url": "https://open.spotify.com/artist/0PXfNy7XDVO9w2YCHYedBo"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170054,
+      "name": "Merca Fina",
+      "url": "https://open.spotify.com/track/25r3SrosSfuUCRfgZoiUvS"
+    },
+    {
+      "album": {
+        "name": "Montecarlo",
+        "url": "https://open.spotify.com/album/1499LDt8XAKTpIPgtbn2zd"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Montecarlo",
+      "url": "https://open.spotify.com/track/0AGTMYewBJqWX8VltU4gVe"
+    },
+    {
+      "album": {
+        "name": "Mucho Wannabe",
+        "url": "https://open.spotify.com/album/2CPbobxLI6HGnEGpDCmIo1"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226046,
+      "name": "Mucho Wannabe",
+      "url": "https://open.spotify.com/track/6yi2nyqJtGm630oXGHUYbM"
+    },
+    {
+      "album": {
+        "name": "Muerto",
+        "url": "https://open.spotify.com/album/0eighnLpx6AXP4R5ADEEHB"
+      },
+      "artists": [
+        {
+          "name": "DJ Chulo NYC",
+          "url": "https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        },
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Dyce Payso",
+          "url": "https://open.spotify.com/artist/2m1Dl2eo3Lg9z1fB7j5Hin"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230634,
+      "name": "Muerto",
+      "url": "https://open.spotify.com/track/2KgVqNSNzrso4bqyVQCWq9"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico B\u00e9lico",
+        "url": "https://open.spotify.com/album/6gCNEc8cMwuTzba9Fz6fiq"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "M\u00e9xico B\u00e9lico",
+      "url": "https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN"
+    },
+    {
+      "album": {
+        "name": "Ni Miedo Ni Piedad",
+        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278181,
+      "name": "Ni Miedo Ni Piedad",
+      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
+    },
+    {
+      "album": {
+        "name": "No Cambio",
+        "url": "https://open.spotify.com/album/57mBr7meCLPPOVv7bS4WEU"
+      },
+      "artists": [
+        {
+          "name": "Mudo Beats",
+          "url": "https://open.spotify.com/artist/1TDWRnXFEYnOO4gUn1ZXN1"
+        },
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Vizual Dealer",
+          "url": "https://open.spotify.com/artist/55rW4Zyiqqky6OxedADMkY"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330230,
+      "name": "No Cambio",
+      "url": "https://open.spotify.com/track/4JU0mlUVCsyjAsDU5Y9GdZ"
+    },
+    {
+      "album": {
+        "name": "No Tengo Cura",
+        "url": "https://open.spotify.com/album/1Jx62LgAEuVk0PRRwk4g6S"
+      },
+      "artists": [
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        },
+        {
+          "name": "Maniako",
+          "url": "https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206473,
+      "name": "No Tengo Cura",
+      "url": "https://open.spotify.com/track/6lk6v8pYFjDbMxYZVMpHPR"
+    },
+    {
+      "album": {
+        "name": "Nos Van a Conocer",
+        "url": "https://open.spotify.com/album/3iXBS3JlOxBn65Q1uBTvLc"
+      },
+      "artists": [
+        {
+          "name": "Agw Beats",
+          "url": "https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy"
+        },
+        {
+          "name": "Char MX",
+          "url": "https://open.spotify.com/artist/4iE0sXv3Oyfskggb2BKjnW"
+        },
+        {
+          "name": "Kambu",
+          "url": "https://open.spotify.com/artist/57rDkxjPOZ5Tvy1MbSv9nQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Nos Van a Conocer",
+      "url": "https://open.spotify.com/track/1XcODam3aq5Zs70GFXlhei"
+    },
+    {
+      "album": {
+        "name": "Otra Bala",
+        "url": "https://open.spotify.com/album/3wXuxf14i0TeW7XUy01Xgu"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Otra Bala",
+      "url": "https://open.spotify.com/track/6aSyWYtMLf7S3XyOkZPvbo"
+    },
+    {
+      "album": {
+        "name": "Pa Arriba",
+        "url": "https://open.spotify.com/album/2rXzKNVYlPsgEN4yYUVy33"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "Pa Arriba",
+      "url": "https://open.spotify.com/track/7eQMkuflKhCY1MDHriexeo"
+    },
+    {
+      "album": {
+        "name": "Padre Mio",
+        "url": "https://open.spotify.com/album/5UUpRXv3OuRcenjZ8zVqF8"
+      },
+      "artists": [
+        {
+          "name": "Kloen Mk",
+          "url": "https://open.spotify.com/artist/43AIKX9G0r38WjeNTAhcXG"
+        },
+        {
+          "name": "Diablo 868",
+          "url": "https://open.spotify.com/artist/0z5rDk0aERPmeBSyeQEzfC"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292571,
+      "name": "Padre Mio",
+      "url": "https://open.spotify.com/track/0cMtiFwU0UzdzDaeyP4CqP"
+    },
+    {
+      "album": {
+        "name": "Para San Judas Tadeo",
+        "url": "https://open.spotify.com/album/0qIL2hu4SPrtxH2H3mYCqR"
+      },
+      "artists": [
+        {
+          "name": "El Borrado M",
+          "url": "https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258795,
+      "name": "Para San Judas Tadeo",
+      "url": "https://open.spotify.com/track/2RSMjz5w4rwYl96HtIlUQM"
+    },
+    {
+      "album": {
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/5OoEHWt4JIBppiNAgouGAi"
+      },
+      "artists": [
+        {
+          "name": "ILUMINATIK BUFFON",
+          "url": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
+        },
+        {
+          "name": "Bear Busby",
+          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "Iluminatik",
+          "url": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199560,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/5DvZUEmCZ6YghXnrZMLgV2"
+    },
+    {
+      "album": {
+        "name": "Activados y Prendidos",
+        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
+      },
+      "artists": [
+        {
+          "name": "Santa Estilo",
+          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Pesao",
+      "url": "https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP"
+    },
+    {
+      "album": {
+        "name": "Plakoson",
+        "url": "https://open.spotify.com/album/6ni2nMiyyoUY5DLvualRIU"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Kasto 4D",
+          "url": "https://open.spotify.com/artist/4lesNXoFfFC1D7GIiMgCm5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403018,
+      "name": "Plakoson",
+      "url": "https://open.spotify.com/track/0459iIAYkhum2IPb40SMbv"
+    },
+    {
+      "album": {
+        "name": "Por clave El Cabez\u00f3n",
+        "url": "https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189212,
+      "name": "Por clave El Cabez\u00f3n 2",
+      "url": "https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv"
+    },
+    {
+      "album": {
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/0geg6WkmgpfDc3QelX72Ax"
+      },
+      "artists": [
+        {
+          "name": "El Pajaro Cabrones",
+          "url": "https://open.spotify.com/artist/7DXrHVw3KFuueadXhQ21Ot"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219950,
+      "name": "Puro Bandido",
+      "url": "https://open.spotify.com/track/2ceLqIolrjctE7fGKU4ffA"
+    },
+    {
+      "album": {
+        "name": "Rap y Calle No. 15",
+        "url": "https://open.spotify.com/album/2vCrdTZlz1ilVKY1UrqCUg"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Tankeone",
+          "url": "https://open.spotify.com/artist/6CJ0EnASyencrooPZNBpaB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Rap y Calle No. 15",
+      "url": "https://open.spotify.com/track/1XCxkTqxdQu83IDH491H24"
+    },
+    {
+      "album": {
+        "name": "Rumbo Sin Salida",
+        "url": "https://open.spotify.com/album/2TN0uUMv3BXlH3AGjF1ymu"
+      },
+      "artists": [
+        {
+          "name": "Dub G",
+          "url": "https://open.spotify.com/artist/5SVHvnw9UIDoLNC745Lt8V"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246500,
+      "name": "Rumbo Sin Salida",
+      "url": "https://open.spotify.com/track/1FL67BEquB7eLtocMgVU68"
+    },
+    {
+      "album": {
+        "name": "Sangre Fr\u00eda",
+        "url": "https://open.spotify.com/album/0LqPMeRqfjt6ogzS8hxE7w"
+      },
+      "artists": [
+        {
+          "name": "Shainy",
+          "url": "https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Sangre Fr\u00eda",
+      "url": "https://open.spotify.com/track/7v7PbRe43fszZckZQkrzJz"
+    },
+    {
+      "album": {
+        "name": "Se Le Batalla",
+        "url": "https://open.spotify.com/album/5UgBCPw2xI04J69Sg0pGTY"
+      },
+      "artists": [
+        {
+          "name": "HR Dave",
+          "url": "https://open.spotify.com/artist/2ivk6qPEBKEAbtbV8hqw07"
+        },
+        {
+          "name": "El Pinche Brujo",
+          "url": "https://open.spotify.com/artist/1LjUlFOtTxcvWZQldBMSOW"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Se Le Batalla",
+      "url": "https://open.spotify.com/track/0VEgZAhQ59CxSnPAjay03D"
+    },
+    {
+      "album": {
+        "name": "Silencio En El Callejon",
+        "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "Silencio En El Callejon",
+      "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
+    },
+    {
+      "album": {
+        "name": "Sirenas",
+        "url": "https://open.spotify.com/album/7JjT7L58B3TIf1uU1kSlst"
+      },
+      "artists": [
+        {
+          "name": "Doce",
+          "url": "https://open.spotify.com/artist/6UyUVW2wU4bfMxJwdkSPcA"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "Adrian Be",
+          "url": "https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Sirenas",
+      "url": "https://open.spotify.com/track/6iAubZ1PiUa3EbN19jWAq8"
+    },
+    {
+      "album": {
+        "name": "Somos Bandoleros",
+        "url": "https://open.spotify.com/album/4maH00pRHJ1Gn427v40vq0"
+      },
+      "artists": [
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Yexay TMM",
+          "url": "https://open.spotify.com/artist/6W5QFI6K8P7rxXiYW3n4qu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213658,
+      "name": "Somos Bandoleros",
+      "url": "https://open.spotify.com/track/2BYUnUWvrIhpIlAvNZuJpz"
+    },
+    {
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/6WEtBN0HY8umVNrHFcGlzJ"
+      },
+      "artists": [
+        {
+          "name": "Tony Trampa",
+          "url": "https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7"
+        },
+        {
+          "name": "TALE$",
+          "url": "https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU"
+        },
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "Rich ODB",
+          "url": "https://open.spotify.com/artist/4wbmYiCWerkG8IQiJx6NpX"
+        },
+        {
+          "name": "Killa ODB",
+          "url": "https://open.spotify.com/artist/2HPoKDZTfkX52ENDHgqPm2"
+        },
+        {
+          "name": "Wesos El Savage",
+          "url": "https://open.spotify.com/artist/2Ei5kNvEc7wSrdaJDu3coa"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281052,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/60hha07HcgmqYb89l9o4NQ"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273485,
+      "name": "Tantas Veces",
+      "url": "https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB"
+    },
+    {
+      "album": {
+        "name": "Tiempos Violentos",
+        "url": "https://open.spotify.com/album/09cwd9LdcildlBqbXlmt9N"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228636,
+      "name": "Tiempos Violentos",
+      "url": "https://open.spotify.com/track/7efZc8DWKDmFzJdDVzlQcY"
+    },
+    {
+      "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349297,
+      "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
+    },
+    {
+      "album": {
+        "name": "Un Round M\u00e1s",
+        "url": "https://open.spotify.com/album/2wwvq1xGzvYtu35TxwbD3S"
+      },
+      "artists": [
+        {
+          "name": "Morel Under",
+          "url": "https://open.spotify.com/artist/0LvZ8BqFFdEcyBZlq2Y0OR"
+        },
+        {
+          "name": "Unex Msc",
+          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215053,
+      "name": "Un Round M\u00e1s",
+      "url": "https://open.spotify.com/track/2fNHb6nRpKLQOSdD6Z3uJB"
+    },
+    {
+      "album": {
+        "name": "Una Madre Llora",
+        "url": "https://open.spotify.com/album/0PYFde6TvdgoNlERpFDl4n"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154488,
+      "name": "Una Madre Llora",
+      "url": "https://open.spotify.com/track/6YT9Q9zhziCCy9lCL4NMNw"
+    },
+    {
+      "album": {
+        "name": "Disfrutando El Proceso",
+        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Una Ruedita",
+      "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
+    },
+    {
+      "album": {
+        "name": "Vagos y Malandros",
+        "url": "https://open.spotify.com/album/4MhGXeHDqv8NgmdyH8iCT9"
+      },
+      "artists": [
+        {
+          "name": "Pistolero Gunn Gunna",
+          "url": "https://open.spotify.com/artist/6U7WEVY9XxaWtQAzPabac3"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214812,
+      "name": "Vagos y Malandros",
+      "url": "https://open.spotify.com/track/3edKwfX44clLWe4B9Gbv21"
+    },
+    {
+      "album": {
+        "name": "Veladora",
+        "url": "https://open.spotify.com/album/5HrGdWT7IY9w69hOU7iZxM"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Veladora",
+      "url": "https://open.spotify.com/track/30yDSVehKwPgcOJRqzSdqb"
+    },
+    {
+      "album": {
+        "name": "Vengo de la Calle",
+        "url": "https://open.spotify.com/album/0xNIB1Pa3HwzpXjPrmSXsx"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo El Quetzal",
+          "url": "https://open.spotify.com/artist/6M7bd1arTLm5FJnNFYKzb6"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302574,
+      "name": "Vengo de la Calle",
+      "url": "https://open.spotify.com/track/2UKfYR96zQkzHXwSbfyGDC"
+    },
+    {
+      "album": {
+        "name": "Vienen y Se Van",
+        "url": "https://open.spotify.com/album/6nKGQ1Xt2iMtzuYMix4uI1"
+      },
+      "artists": [
+        {
+          "name": "Kerox",
+          "url": "https://open.spotify.com/artist/2Aps4lMllN6Ka9nwm47pcc"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "Vienen y Se Van",
+      "url": "https://open.spotify.com/track/0z05ilW50eCAZysnGMqvLU"
+    },
+    {
+      "album": {
+        "name": "Ya Los Vi",
+        "url": "https://open.spotify.com/album/57vS9qTWHysyeHNAc4RVEm"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238428,
+      "name": "Ya Los Vi",
+      "url": "https://open.spotify.com/track/3X6beXQM8BxLpZ1rYcYTa0"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5U6zglSmV86"
 }

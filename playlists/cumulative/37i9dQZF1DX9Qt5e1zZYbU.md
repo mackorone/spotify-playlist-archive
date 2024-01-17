@@ -4,14 +4,15 @@
 
 > These are the songs that have shaped <a href="spotify:artist:5ObBtv5VunwwhQaXXnUrsM">KennyHoopla's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-33 songs - 2 hr 5 min
+34 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1901 Bo Flex'd \- Passion Pit Remix](https://open.spotify.com/track/5TVT7oQdDbfTzIlb4h9slO) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix \(Remix Collection\)](https://open.spotify.com/album/71xE14rBkQAKCziEl0e6BA) | 4:14 | 2023-08-04 |  |
 | [Another Number](https://open.spotify.com/track/4za1ubo1tTBcAVrHEYDAzM) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [The Cribs](https://open.spotify.com/album/0bTPv3NxMIWhoREekojaW8) | 2:53 | 2023-08-04 |  |
 | [Anti\-Anti](https://open.spotify.com/track/49LwAJvjOP7kEZoCJihnN0) | [Snowden](https://open.spotify.com/artist/6Gb8mAVRq8aK1yfGnfVAg3) | [Anti\-Anti](https://open.spotify.com/album/312J338tGDj3Opad5DJJT4) | 3:55 | 2023-08-04 |  |
-| [Autonomy \(feat\. Cooper B\. Handy\)](https://open.spotify.com/track/0Pz21tEIrYH2teQMqffWN5) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5dfc4xJu4rrdd7oufQu73H) | 4:37 | 2023-08-04 |  |
+| [Autonomy \(feat\. Cooper B\. Handy\)](https://open.spotify.com/track/49iKmgvXbCwXxZrKmktTya) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG), [Lucy](https://open.spotify.com/artist/4EdUsCGAVQWUtLwVMnwKru) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 4:37 | 2023-08-04 |  |
+| [Autonomy \(feat\. Cooper B\. Handy\)](https://open.spotify.com/track/0Pz21tEIrYH2teQMqffWN5) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5dfc4xJu4rrdd7oufQu73H) | 4:37 | 2023-08-04 | 2024-01-13 |
 | [Blue Stripes](https://open.spotify.com/track/6kwyBdROdcbTn5EcLNG77j) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [MOMMY DON'T SPANK ME](https://open.spotify.com/album/07QtExfk8X4bPC1fnDi3hx) | 4:08 | 2023-08-04 |  |
 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 | 2023-08-04 |  |
 | [Eau D' Bedroom Dancing](https://open.spotify.com/track/0MRylncmeKOjDF14R8r6eK) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 2:55 | 2023-08-04 |  |

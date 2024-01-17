@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including songs from Wish.
 
-183 songs - 9 hr 15 min
+184 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [So Close \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/3XFkhxO5jo2hBOWNzIQ9UB) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:46 | 2022-10-07 |  |
 | [Some Day My Prince Will Come](https://open.spotify.com/track/0E2ARPr6Anq8l4dwsu8hbP) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 1:54 | 2022-04-01 |  |
 | [Some Things Never Change](https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:29 | 2022-04-01 |  |
+| [Something That I Want](https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:43 | 2024-01-08 |  |
 | [Something There \- Remastered 2018](https://open.spotify.com/track/54nheCglJ7KKy12Fr3QlKK) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [David Ogden Stiers](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP), [Jerry Orbach](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO), [Paige O'Hara](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM), [Robby Benson](https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP) | [Walt Disney Records The Legacy Collection: Beauty and the Beast](https://open.spotify.com/album/7hq1LYjKOhg1jn39YzbqVK) | 2:18 | 2022-04-01 |  |
 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 | 2022-04-01 |  |
 | [Stand Out](https://open.spotify.com/track/48UDhM2xL9wUuYLfrpK2Jv) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [A Goofy Movie](https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P) | 3:00 | 2022-04-01 |  |

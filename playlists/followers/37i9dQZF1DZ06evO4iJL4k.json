@@ -1,104 +1,1749 @@
 {
-  "2023-09-22": 208058,
-  "2023-09-23": 208058,
-  "2023-09-24": 208058,
-  "2023-09-25": 208058,
-  "2023-09-26": 208554,
-  "2023-09-27": 208554,
-  "2023-09-28": 208554,
-  "2023-09-29": 208554,
-  "2023-09-30": 208554,
-  "2023-10-01": 208554,
-  "2023-10-02": 208554,
-  "2023-10-03": 208554,
-  "2023-10-04": 208554,
-  "2023-10-05": 208554,
-  "2023-10-06": 208554,
-  "2023-10-07": 208554,
-  "2023-10-08": 208554,
-  "2023-10-09": 208554,
-  "2023-10-10": 208554,
-  "2023-10-11": 208554,
-  "2023-10-12": 208554,
-  "2023-10-13": 208554,
-  "2023-10-14": 208554,
-  "2023-10-15": 208554,
-  "2023-10-16": 208554,
-  "2023-10-17": 208554,
-  "2023-10-18": 208554,
-  "2023-10-19": 208554,
-  "2023-10-20": 208554,
-  "2023-10-21": 208554,
-  "2023-10-22": 208554,
-  "2023-10-23": 208554,
-  "2023-10-24": 208554,
-  "2023-10-25": 208554,
-  "2023-10-26": 208554,
-  "2023-10-27": 208554,
-  "2023-10-28": 208554,
-  "2023-10-29": 208554,
-  "2023-10-30": 208554,
-  "2023-10-31": 208554,
-  "2023-11-01": 208554,
-  "2023-11-02": 208554,
-  "2023-11-03": 208554,
-  "2023-11-04": 208554,
-  "2023-11-05": 208554,
-  "2023-11-06": 208554,
-  "2023-11-07": 208554,
-  "2023-11-08": 208554,
-  "2023-11-09": 208554,
-  "2023-11-10": 208554,
-  "2023-11-11": 214896,
-  "2023-11-12": 214896,
-  "2023-11-13": 214896,
-  "2023-11-14": 214896,
-  "2023-11-15": 214896,
-  "2023-11-16": 214896,
-  "2023-11-17": 214896,
-  "2023-11-18": 214896,
-  "2023-11-19": 214896,
-  "2023-11-20": 214896,
-  "2023-11-21": 214896,
-  "2023-11-22": 214896,
-  "2023-11-23": 214896,
-  "2023-11-24": 214896,
-  "2023-11-25": 214896,
-  "2023-11-26": 214896,
-  "2023-11-27": 214896,
-  "2023-11-28": 214896,
-  "2023-11-29": 214896,
-  "2023-11-30": 214896,
-  "2023-12-01": 214896,
-  "2023-12-02": 214896,
-  "2023-12-03": 214896,
-  "2023-12-04": 214896,
-  "2023-12-05": 214896,
-  "2023-12-06": 214896,
-  "2023-12-07": 214896,
-  "2023-12-08": 214896,
-  "2023-12-09": 214896,
-  "2023-12-10": 214896,
-  "2023-12-11": 214896,
-  "2023-12-12": 214896,
-  "2023-12-13": 214896,
-  "2023-12-14": 219102,
-  "2023-12-15": 219215,
-  "2023-12-16": 219392,
-  "2023-12-17": 219556,
-  "2023-12-18": 219714,
-  "2023-12-19": 219845,
-  "2023-12-20": 219935,
-  "2023-12-21": 220064,
-  "2023-12-22": 220236,
-  "2023-12-23": 220417,
-  "2023-12-24": 220583,
-  "2023-12-25": 220706,
-  "2023-12-26": 220833,
-  "2023-12-27": 220999,
-  "2023-12-30": 221507,
-  "2023-12-31": 221690,
-  "2024-01-01": 221808,
-  "2024-01-02": 221904,
-  "2024-01-03": 222012
+  "2024-01-17": 224467,
+  "date_first_scraped": "2023-09-22",
+  "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
+  "name": "This Is Filipe Ret",
+  "tracks": [
+    {
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "7 Meiota",
+      "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
+    },
+    {
+      "album": {
+        "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
+        "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300689,
+      "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
+      "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
+    },
+    {
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168167,
+      "name": "A Libertina",
+      "url": "https://open.spotify.com/track/3SB6agr5USMImS0LZrEyNm"
+    },
+    {
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "A Meu Favor",
+      "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
+    },
+    {
+      "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Acende a Vela",
+      "url": "https://open.spotify.com/track/4aTa2DgvWg9njylIa5KMl7"
+    },
+    {
+      "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "Al\u00e9m do Dinheiro",
+      "url": "https://open.spotify.com/track/7qLM93TElkbHLnLBNviq3y"
+    },
+    {
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Amor Livre - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU"
+    },
+    {
+      "album": {
+        "name": "Numa Margem Distante",
+        "url": "https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 88305,
+      "name": "Asfalto do Catete",
+      "url": "https://open.spotify.com/track/09fXcqx1zzseDgXTBT1Pbo"
+    },
+    {
+      "album": {
+        "name": "Bando",
+        "url": "https://open.spotify.com/album/6ooI3OR7HdGiiTMUWXgfQp"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 380689,
+      "name": "Bando",
+      "url": "https://open.spotify.com/track/0XQqDiOmHFnITVwNohti8w"
+    },
+    {
+      "album": {
+        "name": "Ca\u00e7ando Tesouro",
+        "url": "https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 224262,
+      "name": "Ca\u00e7ando Tesouro",
+      "url": "https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs"
+    },
+    {
+      "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Cidinho",
+          "url": "https://open.spotify.com/artist/6jiipNBcxUvaKPyxU7nBv7"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276491,
+      "name": "Chefe do Crime Perfeito",
+      "url": "https://open.spotify.com/track/6SWhcTNT762HkE26aBQgpw"
+    },
+    {
+      "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139534,
+      "name": "Corte Americano",
+      "url": "https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh"
+    },
+    {
+      "album": {
+        "name": "Dentro de Voc\u00ea",
+        "url": "https://open.spotify.com/album/5wSXLd7oIgwI6LGo3e0QzH"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235102,
+      "name": "Dentro de Voc\u00ea",
+      "url": "https://open.spotify.com/track/15kW9fqlnorhFhzJosKu0F"
+    },
+    {
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148863,
+      "name": "Dentro de Voc\u00ea / A Libertina - Ao Vivo",
+      "url": "https://open.spotify.com/track/65RtZeSSVw0rrHSgEAe063"
+    },
+    {
+      "album": {
+        "name": "Deus Perdoa",
+        "url": "https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Deus Perdoa",
+      "url": "https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp"
+    },
+    {
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Daniel Shadow",
+          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234614,
+      "name": "Dutumob",
+      "url": "https://open.spotify.com/track/57qFXE8nd2rJN2HUHOhkZ3"
+    },
+    {
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Daniel Shadow",
+          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 256069,
+      "name": "Estilo Livre",
+      "url": "https://open.spotify.com/track/0tWUelr0BaZW5m3cpClPRL"
+    },
+    {
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162438,
+      "name": "Estilo Livre - Ao Vivo",
+      "url": "https://open.spotify.com/track/6egNmHLmEDsSYx7dRPQVGe"
+    },
+    {
+      "album": {
+        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+        "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242526,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+      "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
+    },
+    {
+      "album": {
+        "name": "Show Case",
+        "url": "https://open.spotify.com/album/7JEu7nDWBE72tKNHsTnIzF"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137036,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7s4e0robYmfsPC89q4W5YA"
+    },
+    {
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237109,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KVsFLoEwauzCM6A7jxXPp"
+    },
+    {
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "EU SOU O TREM",
+      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
+    },
+    {
+      "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "F* F* M*",
+      "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
+    },
+    {
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227681,
+      "name": "Fa\u00e7a Voc\u00ea Mesmo",
+      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
+    },
+    {
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Good Vibe",
+      "url": "https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv"
+    },
+    {
+      "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
+    },
+    {
+      "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256997,
+      "name": "Invicto",
+      "url": "https://open.spotify.com/track/3ecQ7EFhQCJbPfM8fQ5JaD"
+    },
+    {
+      "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296122,
+      "name": "Isso Que \u00c9 Vida",
+      "url": "https://open.spotify.com/track/7JSCzHrg0FXEKJplK14ySy"
+    },
+    {
+      "album": {
+        "name": "Numa Margem Distante",
+        "url": "https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Start",
+          "url": "https://open.spotify.com/artist/2wDK7CcPdIb0WJ3SiYaf1h"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243716,
+      "name": "Jamais Ser\u00e3o",
+      "url": "https://open.spotify.com/track/2nDoREifQ978QhJXbnxLe8"
+    },
+    {
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "Konteiner",
+      "url": "https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit"
+    },
+    {
+      "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "Mindu",
+          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lenda",
+      "url": "https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6"
+    },
+    {
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB"
+    },
+    {
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210943,
+      "name": "Louco Pra Voltar",
+      "url": "https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc"
+    },
+    {
+      "album": {
+        "name": "Me Sinto Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214235,
+      "name": "Me Sinto Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
+    },
+    {
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195066,
+      "name": "Me Sinto Aben\u00e7oado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bysApQ8IhtbbfQKGWFHSy"
+    },
+    {
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "LODONI",
+          "url": "https://open.spotify.com/artist/3S2rkkMBRzNz7urXkLjb6n"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121463,
+      "name": "Melhor Agora",
+      "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
+    },
+    {
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220171,
+      "name": "Neur\u00f3tico de Guerra",
+      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
+    },
+    {
+      "album": {
+        "name": "Nike Air",
+        "url": "https://open.spotify.com/album/3QtMltV0KTHbPLad9URhso"
+      },
+      "artists": [
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 187657,
+      "name": "Nike Air",
+      "url": "https://open.spotify.com/track/13ZWKQn8RnPBLeNC0g0XGb"
+    },
+    {
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190241,
+      "name": "Nova Sorte",
+      "url": "https://open.spotify.com/track/05xyGlj1EKsjZHAR0wlD8L"
+    },
+    {
+      "album": {
+        "name": "Novinha Grandona",
+        "url": "https://open.spotify.com/album/0S038UJN1XgC1Asdx97gLJ"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 180800,
+      "name": "Novinha Grandona",
+      "url": "https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx"
+    },
+    {
+      "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "N\u00e3o Desista Agora",
+      "url": "https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4"
+    },
+    {
+      "album": {
+        "name": "Obstinado",
+        "url": "https://open.spotify.com/album/10Zjpt0jIDzij9ojE7vAui"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Jogzz",
+          "url": "https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 251520,
+      "name": "Obstinado",
+      "url": "https://open.spotify.com/track/6qR1DhILkxhbxivh8HUDaP"
+    },
+    {
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219553,
+      "name": "Paradoxo M\u00edtico",
+      "url": "https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS"
+    },
+    {
+      "album": {
+        "name": "Poesia Ac\u00fastica #6: Era uma Vez",
+        "url": "https://open.spotify.com/album/61wvaVHo5eUxZv44ztftMX"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Bob do Contra",
+          "url": "https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Maquiny",
+          "url": "https://open.spotify.com/artist/0ixIqccVXNU45qPhq3kWex"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577819,
+      "name": "Poesia Ac\u00fastica #6: Era uma Vez",
+      "url": "https://open.spotify.com/track/13Rf6RaZT13TW4xLQR3MQr"
+    },
+    {
+      "album": {
+        "name": "Poesia Ac\u00fastica #9: Melhor Forma",
+        "url": "https://open.spotify.com/album/6drqaBLJWKqoNlKvOQeBTm"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611076,
+      "name": "Poesia Ac\u00fastica #9: Melhor Forma",
+      "url": "https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk"
+    },
+    {
+      "album": {
+        "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
+        "url": "https://open.spotify.com/album/34N8rLUMtF7t2uDA4sHtKr"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472173,
+      "name": "Poesia Ac\u00fastica 12 - Pra Sempre",
+      "url": "https://open.spotify.com/track/4can6ssapSsRCEbZZfYL8K"
+    },
+    {
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 356810,
+      "name": "Poesias (Medley) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1sqpuFuRB2nToPIPTODcdI"
+    },
+    {
+      "album": {
+        "name": "Posturad\u00e3o",
+        "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
+      },
+      "artists": [
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "Posturad\u00e3o",
+      "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
+    },
+    {
+      "album": {
+        "name": "Prosperidade",
+        "url": "https://open.spotify.com/album/1JdxJWaisTJtKEZfkECmOv"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "AREN",
+          "url": "https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 237931,
+      "name": "Prosperidade",
+      "url": "https://open.spotify.com/track/7sG9CqpgxDM7YnXUybzzx9"
+    },
+    {
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
+    },
+    {
+      "album": {
+        "name": "Ritmo Do Crime",
+        "url": "https://open.spotify.com/album/3eGzFoARBUyPBPe5rOP9La"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 169043,
+      "name": "Ritmo Do Crime",
+      "url": "https://open.spotify.com/track/5yjd0lAp6zahxFdqWeI8qM"
+    },
+    {
+      "album": {
+        "name": "MUITA ONDA",
+        "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "SANTO AMARO",
+      "url": "https://open.spotify.com/track/2W1otaX5yQF4fCijymlvoM"
+    },
+    {
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143255,
+      "name": "Sonho Dos Cria",
+      "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
+    },
+    {
+      "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234252,
+      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
+      "url": "https://open.spotify.com/track/7pwSEJ0HuN067dxCiGvaUh"
+    },
+    {
+      "album": {
+        "name": "Numa Margem Distante",
+        "url": "https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 238863,
+      "name": "S\u00f3 Precisamos de N\u00f3s",
+      "url": "https://open.spotify.com/track/4oiVWCeHJvTQ8GCCAWORQg"
+    },
+    {
+      "album": {
+        "name": "Tudo do Melhor",
+        "url": "https://open.spotify.com/album/0AFvUWJbsl049V5M6De4bk"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "AREN",
+          "url": "https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273008,
+      "name": "Tudo do Melhor",
+      "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
+    },
+    {
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137943,
+      "name": "Vermelho Fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hx3eUopSeyzhIowdQmUBN"
+    },
+    {
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Johnny Monteiro",
+          "url": "https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240032,
+      "name": "Vivendo Avan\u00e7ado",
+      "url": "https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G"
+    },
+    {
+      "album": {
+        "name": "Viz\u00e3o de Cria 2",
+        "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
+      },
+      "artists": [
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306141,
+      "name": "Viz\u00e3o de Cria 2",
+      "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
+    },
+    {
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 308482,
+      "name": "Viz\u00e3o de Cria 2 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3qnAkLwN73KHA15W7HgLDs"
+    },
+    {
+      "album": {
+        "name": "Viz\u00e3o de Cria 3",
+        "url": "https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324413,
+      "name": "Viz\u00e3o de Cria 3",
+      "url": "https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT"
+    },
+    {
+      "album": {
+        "name": "Imaterial",
+        "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152582,
+      "name": "War",
+      "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k"
 }

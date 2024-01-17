@@ -1,569 +1,1623 @@
 {
-  "2022-06-10": 13735,
-  "2022-06-11": 13743,
-  "2022-06-12": 13753,
-  "2022-06-13": 13763,
-  "2022-06-14": 13769,
-  "2022-06-15": 13770,
-  "2022-06-16": 13774,
-  "2022-06-17": 13784,
-  "2022-06-18": 13786,
-  "2022-06-19": 13819,
-  "2022-06-20": 13819,
-  "2022-06-21": 13824,
-  "2022-06-22": 13841,
-  "2022-06-23": 13841,
-  "2022-06-24": 13846,
-  "2022-06-25": 13846,
-  "2022-06-26": 13852,
-  "2022-06-27": 13870,
-  "2022-06-28": 13877,
-  "2022-06-29": 13884,
-  "2022-06-30": 13888,
-  "2022-07-01": 13892,
-  "2022-07-02": 13908,
-  "2022-07-03": 13913,
-  "2022-07-04": 13925,
-  "2022-07-05": 13925,
-  "2022-07-06": 13925,
-  "2022-07-07": 13946,
-  "2022-07-08": 13956,
-  "2022-07-09": 13964,
-  "2022-07-10": 13969,
-  "2022-07-11": 13992,
-  "2022-07-12": 14001,
-  "2022-07-13": 14012,
-  "2022-07-14": 14017,
-  "2022-07-15": 14023,
-  "2022-07-16": 14032,
-  "2022-07-17": 14047,
-  "2022-07-18": 14067,
-  "2022-07-19": 14073,
-  "2022-07-20": 14085,
-  "2022-07-21": 14103,
-  "2022-07-22": 14118,
-  "2022-07-23": 14134,
-  "2022-07-24": 14148,
-  "2022-07-25": 14157,
-  "2022-07-26": 14168,
-  "2022-07-27": 14181,
-  "2022-07-28": 14192,
-  "2022-07-29": 14203,
-  "2022-07-30": 14226,
-  "2022-07-31": 14226,
-  "2022-08-01": 14239,
-  "2022-08-02": 14263,
-  "2022-08-03": 14263,
-  "2022-08-04": 14270,
-  "2022-08-05": 14277,
-  "2022-08-06": 14291,
-  "2022-08-07": 14306,
-  "2022-08-08": 14321,
-  "2022-08-09": 14335,
-  "2022-08-10": 14348,
-  "2022-08-11": 14372,
-  "2022-08-12": 14380,
-  "2022-08-13": 14394,
-  "2022-08-14": 14405,
-  "2022-08-15": 14418,
-  "2022-08-16": 14428,
-  "2022-08-17": 14451,
-  "2022-08-18": 14464,
-  "2022-08-19": 14478,
-  "2022-08-20": 14490,
-  "2022-08-21": 14500,
-  "2022-08-22": 14517,
-  "2022-08-23": 14522,
-  "2022-08-24": 14526,
-  "2022-08-25": 14537,
-  "2022-08-26": 14545,
-  "2022-08-27": 14557,
-  "2022-08-28": 14566,
-  "2022-08-29": 14575,
-  "2022-08-30": 14588,
-  "2022-08-31": 14596,
-  "2022-09-01": 14602,
-  "2022-09-02": 14614,
-  "2022-09-03": 14615,
-  "2022-09-04": 14624,
-  "2022-09-05": 14641,
-  "2022-09-06": 14649,
-  "2022-09-07": 14659,
-  "2022-09-09": 14686,
-  "2022-09-10": 14699,
-  "2022-09-11": 14711,
-  "2022-09-12": 14725,
-  "2022-09-13": 14733,
-  "2022-09-15": 14757,
-  "2022-09-16": 14763,
-  "2022-09-17": 14770,
-  "2022-09-18": 14776,
-  "2022-09-19": 14788,
-  "2022-09-20": 14805,
-  "2022-09-21": 14815,
-  "2022-09-22": 14820,
-  "2022-09-23": 14833,
-  "2022-09-24": 14833,
-  "2022-09-25": 14864,
-  "2022-09-26": 14884,
-  "2022-09-27": 14899,
-  "2022-09-28": 14916,
-  "2022-09-29": 14933,
-  "2022-09-30": 14946,
-  "2022-10-01": 14986,
-  "2022-10-02": 15026,
-  "2022-10-03": 15057,
-  "2022-10-04": 15084,
-  "2022-10-05": 15109,
-  "2022-10-06": 15133,
-  "2022-10-07": 15147,
-  "2022-10-08": 15168,
-  "2022-10-09": 15200,
-  "2022-10-10": 15205,
-  "2022-10-11": 15216,
-  "2022-10-12": 15230,
-  "2022-10-13": 15255,
-  "2022-10-14": 15270,
-  "2022-10-15": 15291,
-  "2022-10-16": 15312,
-  "2022-10-17": 15342,
-  "2022-10-18": 15343,
-  "2022-10-19": 15358,
-  "2022-10-20": 15369,
-  "2022-10-21": 15381,
-  "2022-10-22": 15399,
-  "2022-10-23": 15408,
-  "2022-10-24": 15422,
-  "2022-10-25": 15430,
-  "2022-10-26": 15441,
-  "2022-10-27": 15454,
-  "2022-10-28": 15468,
-  "2022-10-29": 15477,
-  "2022-10-30": 15486,
-  "2022-10-31": 15507,
-  "2022-11-01": 15518,
-  "2022-11-02": 15536,
-  "2022-11-03": 15544,
-  "2022-11-04": 15560,
-  "2022-11-05": 15571,
-  "2022-11-06": 15575,
-  "2022-11-07": 15582,
-  "2022-11-08": 15588,
-  "2022-11-09": 15598,
-  "2022-11-10": 15616,
-  "2022-11-11": 15624,
-  "2022-11-12": 15634,
-  "2022-11-13": 15647,
-  "2022-11-14": 15662,
-  "2022-11-15": 15671,
-  "2022-11-16": 15680,
-  "2022-11-17": 15691,
-  "2022-11-18": 15693,
-  "2022-11-19": 15700,
-  "2022-11-20": 15709,
-  "2022-11-21": 15722,
-  "2022-11-22": 15735,
-  "2022-11-23": 15740,
-  "2022-11-24": 15759,
-  "2022-11-25": 15778,
-  "2022-11-26": 15787,
-  "2022-11-27": 15791,
-  "2022-11-28": 15806,
-  "2022-11-29": 15819,
-  "2022-11-30": 15832,
-  "2022-12-01": 15844,
-  "2022-12-02": 15852,
-  "2022-12-03": 15859,
-  "2022-12-04": 15868,
-  "2022-12-05": 15887,
-  "2022-12-06": 15896,
-  "2022-12-07": 15911,
-  "2022-12-08": 15925,
-  "2022-12-09": 15932,
-  "2022-12-10": 15942,
-  "2022-12-11": 15947,
-  "2022-12-12": 15955,
-  "2022-12-13": 15974,
-  "2022-12-14": 15983,
-  "2022-12-15": 15987,
-  "2022-12-16": 16005,
-  "2022-12-17": 16015,
-  "2022-12-18": 16035,
-  "2022-12-19": 16047,
-  "2022-12-20": 16074,
-  "2022-12-21": 16074,
-  "2022-12-22": 16089,
-  "2022-12-24": 16106,
-  "2022-12-25": 16127,
-  "2022-12-26": 16133,
-  "2022-12-27": 16144,
-  "2022-12-28": 16148,
-  "2022-12-29": 16152,
-  "2022-12-30": 16158,
-  "2022-12-31": 16167,
-  "2023-01-01": 16176,
-  "2023-01-02": 16184,
-  "2023-01-03": 16198,
-  "2023-01-04": 16206,
-  "2023-01-05": 16213,
-  "2023-01-06": 16218,
-  "2023-01-07": 16228,
-  "2023-01-08": 16229,
-  "2023-01-09": 16242,
-  "2023-01-10": 16256,
-  "2023-01-11": 16260,
-  "2023-01-12": 16266,
-  "2023-01-13": 16274,
-  "2023-01-14": 16297,
-  "2023-01-15": 16301,
-  "2023-01-16": 16312,
-  "2023-01-17": 16318,
-  "2023-01-18": 16325,
-  "2023-01-19": 16333,
-  "2023-01-20": 16345,
-  "2023-01-21": 16354,
-  "2023-01-22": 16359,
-  "2023-01-23": 16368,
-  "2023-01-24": 16377,
-  "2023-01-25": 16387,
-  "2023-01-26": 16400,
-  "2023-01-27": 16414,
-  "2023-01-28": 16417,
-  "2023-01-29": 16423,
-  "2023-01-30": 16429,
-  "2023-01-31": 16429,
-  "2023-02-01": 16438,
-  "2023-02-02": 16447,
-  "2023-02-03": 16450,
-  "2023-02-04": 16460,
-  "2023-02-05": 16467,
-  "2023-02-06": 16477,
-  "2023-02-07": 16486,
-  "2023-02-08": 16501,
-  "2023-02-09": 16501,
-  "2023-02-10": 16506,
-  "2023-02-11": 16515,
-  "2023-02-12": 16532,
-  "2023-02-13": 16542,
-  "2023-02-14": 16542,
-  "2023-02-15": 16544,
-  "2023-02-16": 16558,
-  "2023-02-17": 16566,
-  "2023-02-18": 16580,
-  "2023-02-19": 16580,
-  "2023-02-20": 16581,
-  "2023-02-21": 16588,
-  "2023-02-22": 16591,
-  "2023-02-23": 16603,
-  "2023-02-24": 16611,
-  "2023-02-25": 16618,
-  "2023-02-26": 16621,
-  "2023-02-27": 16637,
-  "2023-02-28": 16637,
-  "2023-03-01": 16642,
-  "2023-03-02": 16651,
-  "2023-03-03": 16661,
-  "2023-03-04": 16665,
-  "2023-03-05": 16685,
-  "2023-03-06": 16685,
-  "2023-03-07": 16694,
-  "2023-03-08": 16700,
-  "2023-03-09": 16705,
-  "2023-03-10": 16716,
-  "2023-03-11": 16719,
-  "2023-03-12": 16723,
-  "2023-03-13": 16728,
-  "2023-03-14": 16739,
-  "2023-03-15": 16749,
-  "2023-03-16": 16749,
-  "2023-03-17": 16749,
-  "2023-03-18": 16772,
-  "2023-03-19": 16772,
-  "2023-03-20": 16786,
-  "2023-03-21": 16787,
-  "2023-03-22": 16797,
-  "2023-03-23": 16806,
-  "2023-03-24": 16806,
-  "2023-03-25": 16812,
-  "2023-03-26": 16820,
-  "2023-03-27": 16825,
-  "2023-03-28": 16827,
-  "2023-03-29": 16834,
-  "2023-03-30": 16841,
-  "2023-03-31": 16841,
-  "2023-04-01": 16845,
-  "2023-04-02": 16849,
-  "2023-04-03": 16859,
-  "2023-04-04": 16869,
-  "2023-04-05": 16869,
-  "2023-04-06": 16877,
-  "2023-04-07": 16880,
-  "2023-04-09": 16891,
-  "2023-04-10": 16899,
-  "2023-04-11": 16911,
-  "2023-04-12": 16911,
-  "2023-04-13": 16916,
-  "2023-04-14": 16928,
-  "2023-04-15": 16933,
-  "2023-04-16": 16942,
-  "2023-04-17": 16948,
-  "2023-04-18": 16955,
-  "2023-04-19": 16961,
-  "2023-04-20": 16967,
-  "2023-04-21": 16974,
-  "2023-04-22": 16976,
-  "2023-04-23": 16979,
-  "2023-04-24": 16994,
-  "2023-04-25": 17003,
-  "2023-04-26": 17014,
-  "2023-04-27": 17021,
-  "2023-04-28": 17028,
-  "2023-04-29": 17038,
-  "2023-04-30": 17042,
-  "2023-05-01": 17048,
-  "2023-05-02": 17057,
-  "2023-05-03": 17060,
-  "2023-05-04": 17064,
-  "2023-05-05": 17067,
-  "2023-05-06": 17071,
-  "2023-05-07": 17082,
-  "2023-05-08": 17092,
-  "2023-05-09": 17093,
-  "2023-05-10": 17097,
-  "2023-05-11": 17102,
-  "2023-05-12": 17108,
-  "2023-05-13": 17112,
-  "2023-05-14": 17120,
-  "2023-05-15": 17129,
-  "2023-05-16": 17140,
-  "2023-05-17": 17153,
-  "2023-05-18": 17161,
-  "2023-05-19": 17168,
-  "2023-05-20": 17189,
-  "2023-05-21": 17189,
-  "2023-05-22": 17189,
-  "2023-05-23": 17204,
-  "2023-05-24": 17227,
-  "2023-05-25": 17227,
-  "2023-05-26": 17232,
-  "2023-05-27": 17237,
-  "2023-05-28": 17245,
-  "2023-05-29": 17245,
-  "2023-05-30": 17261,
-  "2023-05-31": 17269,
-  "2023-06-01": 17277,
-  "2023-06-02": 17277,
-  "2023-06-03": 17285,
-  "2023-06-04": 17295,
-  "2023-06-05": 17297,
-  "2023-06-06": 17303,
-  "2023-06-07": 17309,
-  "2023-06-08": 17308,
-  "2023-06-09": 17318,
-  "2023-06-10": 17322,
-  "2023-06-11": 17329,
-  "2023-06-12": 17338,
-  "2023-06-13": 17349,
-  "2023-06-14": 17354,
-  "2023-06-15": 17362,
-  "2023-06-16": 17368,
-  "2023-06-17": 17378,
-  "2023-06-18": 17387,
-  "2023-06-19": 17390,
-  "2023-06-20": 17396,
-  "2023-06-21": 17400,
-  "2023-06-22": 17404,
-  "2023-06-23": 17413,
-  "2023-06-24": 17418,
-  "2023-06-25": 17428,
-  "2023-06-26": 17437,
-  "2023-06-27": 17445,
-  "2023-06-28": 17449,
-  "2023-06-29": 17455,
-  "2023-06-30": 17460,
-  "2023-07-01": 17473,
-  "2023-07-02": 17473,
-  "2023-07-03": 17478,
-  "2023-07-04": 17485,
-  "2023-07-05": 17488,
-  "2023-07-06": 17499,
-  "2023-07-07": 17499,
-  "2023-07-08": 17499,
-  "2023-07-09": 17513,
-  "2023-07-10": 17517,
-  "2023-07-11": 17520,
-  "2023-07-12": 17522,
-  "2023-07-13": 17528,
-  "2023-07-14": 17533,
-  "2023-07-15": 17541,
-  "2023-07-16": 17547,
-  "2023-07-17": 17549,
-  "2023-07-18": 17554,
-  "2023-07-19": 17556,
-  "2023-07-20": 17565,
-  "2023-07-21": 17566,
-  "2023-07-22": 17572,
-  "2023-07-23": 17579,
-  "2023-07-24": 17579,
-  "2023-07-25": 17589,
-  "2023-07-26": 17598,
-  "2023-07-27": 17604,
-  "2023-07-28": 17612,
-  "2023-07-29": 17614,
-  "2023-07-30": 17622,
-  "2023-07-31": 17627,
-  "2023-08-01": 17636,
-  "2023-08-02": 17640,
-  "2023-08-03": 17647,
-  "2023-08-04": 17657,
-  "2023-08-05": 17662,
-  "2023-08-06": 17673,
-  "2023-08-07": 17673,
-  "2023-08-08": 17681,
-  "2023-08-09": 17692,
-  "2023-08-10": 17694,
-  "2023-08-11": 17698,
-  "2023-08-12": 17698,
-  "2023-08-13": 17698,
-  "2023-08-14": 17720,
-  "2023-08-15": 17720,
-  "2023-08-16": 17720,
-  "2023-08-17": 17720,
-  "2023-08-18": 17720,
-  "2023-08-19": 17720,
-  "2023-08-20": 17744,
-  "2023-08-21": 17744,
-  "2023-08-22": 17759,
-  "2023-08-23": 17759,
-  "2023-08-24": 17759,
-  "2023-08-25": 17759,
-  "2023-08-26": 17789,
-  "2023-08-27": 17789,
-  "2023-08-28": 17800,
-  "2023-08-29": 17800,
-  "2023-08-30": 17800,
-  "2023-08-31": 17828,
-  "2023-09-01": 17833,
-  "2023-09-02": 17833,
-  "2023-09-03": 17833,
-  "2023-09-04": 17833,
-  "2023-09-05": 17833,
-  "2023-09-06": 17833,
-  "2023-09-07": 17833,
-  "2023-09-08": 17833,
-  "2023-09-09": 17833,
-  "2023-09-10": 17833,
-  "2023-09-11": 17833,
-  "2023-09-12": 17833,
-  "2023-09-13": 17833,
-  "2023-09-14": 17833,
-  "2023-09-15": 17833,
-  "2023-09-16": 17945,
-  "2023-09-17": 17945,
-  "2023-09-18": 17945,
-  "2023-09-19": 17979,
-  "2023-09-20": 17979,
-  "2023-09-21": 17979,
-  "2023-09-22": 17992,
-  "2023-09-23": 17992,
-  "2023-09-24": 17992,
-  "2023-09-25": 17992,
-  "2023-09-26": 18015,
-  "2023-09-27": 18015,
-  "2023-09-28": 18015,
-  "2023-09-29": 18015,
-  "2023-09-30": 18015,
-  "2023-10-01": 18015,
-  "2023-10-02": 18015,
-  "2023-10-03": 18015,
-  "2023-10-04": 18015,
-  "2023-10-05": 18015,
-  "2023-10-06": 18015,
-  "2023-10-07": 18015,
-  "2023-10-08": 18015,
-  "2023-10-09": 18015,
-  "2023-10-10": 18015,
-  "2023-10-11": 18085,
-  "2023-10-12": 18085,
-  "2023-10-13": 18085,
-  "2023-10-14": 18085,
-  "2023-10-15": 18085,
-  "2023-10-16": 18085,
-  "2023-10-17": 18085,
-  "2023-10-18": 18085,
-  "2023-10-19": 18085,
-  "2023-10-20": 18085,
-  "2023-10-21": 18085,
-  "2023-10-22": 18085,
-  "2023-10-23": 18085,
-  "2023-10-24": 18085,
-  "2023-10-25": 18085,
-  "2023-10-26": 18085,
-  "2023-10-27": 18085,
-  "2023-10-28": 18085,
-  "2023-10-29": 18085,
-  "2023-10-30": 18085,
-  "2023-10-31": 18085,
-  "2023-11-01": 18085,
-  "2023-11-02": 18085,
-  "2023-11-03": 18085,
-  "2023-11-04": 18085,
-  "2023-11-05": 18085,
-  "2023-11-06": 18085,
-  "2023-11-07": 18085,
-  "2023-11-08": 18085,
-  "2023-11-09": 18085,
-  "2023-11-10": 18085,
-  "2023-11-11": 18280,
-  "2023-11-12": 18280,
-  "2023-11-13": 18280,
-  "2023-11-14": 18280,
-  "2023-11-15": 18280,
-  "2023-11-16": 18280,
-  "2023-11-17": 18280,
-  "2023-11-18": 18280,
-  "2023-11-19": 18280,
-  "2023-11-20": 18280,
-  "2023-11-21": 18280,
-  "2023-11-22": 18280,
-  "2023-11-23": 18280,
-  "2023-11-24": 18280,
-  "2023-11-25": 18280,
-  "2023-11-26": 18280,
-  "2023-11-27": 18280,
-  "2023-11-28": 18280,
-  "2023-11-29": 18280,
-  "2023-11-30": 18280,
-  "2023-12-01": 18280,
-  "2023-12-02": 18280,
-  "2023-12-03": 18280,
-  "2023-12-04": 18280,
-  "2023-12-05": 18280,
-  "2023-12-06": 18280,
-  "2023-12-07": 18280,
-  "2023-12-08": 18280,
-  "2023-12-09": 18280,
-  "2023-12-10": 18280,
-  "2023-12-11": 18280,
-  "2023-12-12": 18280,
-  "2023-12-13": 18280,
-  "2023-12-14": 18469,
-  "2023-12-15": 18470,
-  "2023-12-16": 18480,
-  "2023-12-17": 18479,
-  "2023-12-18": 18490,
-  "2023-12-19": 18496,
-  "2023-12-20": 18501,
-  "2023-12-21": 18505,
-  "2023-12-22": 18510,
-  "2023-12-23": 18516,
-  "2023-12-24": 18522,
-  "2023-12-25": 18524,
-  "2023-12-26": 18532,
-  "2023-12-27": 18534,
-  "2023-12-30": 18547,
-  "2023-12-31": 18548,
-  "2024-01-01": 18550,
-  "2024-01-02": 18556,
-  "2024-01-03": 18558
+  "2024-01-17": 18579,
+  "date_first_scraped": "2022-06-10",
+  "description": "This is ClariS. The essential tracks, all in one playlist.",
+  "name": "This Is ClariS",
+  "tracks": [
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/5cBmwNnKGLPRCQWzFS0r0Y"
+    },
+    {
+      "album": {
+        "name": "Blue Canvas",
+        "url": "https://open.spotify.com/album/7GS0RipKu1bMAMMul4Q9mY"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227025,
+      "name": "Blue Canvas",
+      "url": "https://open.spotify.com/track/1tFRgAu3lDcldqS6Xx5WQj"
+    },
+    {
+      "album": {
+        "name": "ClariS \u301cSINGLE BEST 1st\u301c",
+        "url": "https://open.spotify.com/album/4QRz46oz5smqLdihwyl2bX"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "border",
+      "url": "https://open.spotify.com/track/1ZVZKOmy9RS4GhJ5Epj5MN"
+    },
+    {
+      "album": {
+        "name": "\u30b1\u30a2\u30ec\u30b9",
+        "url": "https://open.spotify.com/album/3oQVyEMEzbgROnz0MK3DiN"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 263400,
+      "name": "Bye-Bye Butterfly",
+      "url": "https://open.spotify.com/track/5aGnDhGLsKksgUbUGtQN5R"
+    },
+    {
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240533,
+      "name": "CheerS",
+      "url": "https://open.spotify.com/track/2aD6xzt5z68nhUAe78GVvv"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 262333,
+      "name": "Clear Sky",
+      "url": "https://open.spotify.com/track/4hyUMlOse5Cs037QohpGFM"
+    },
+    {
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition\uff09",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        },
+        {
+          "name": "GARNiDELiA",
+          "url": "https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259906,
+      "name": "clever",
+      "url": "https://open.spotify.com/track/7qNnUhpCnFBjOM37bysD0H"
+    },
+    {
+      "album": {
+        "name": "PARTY TIME",
+        "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269560,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/3lVjrhRTt8nQ99kan7pOmj"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 271560,
+      "name": "CLICK -season 02-",
+      "url": "https://open.spotify.com/track/3ey9NGmQAQ21guN77Kp1v1"
+    },
+    {
+      "album": {
+        "name": "CLICK -TV MIX-",
+        "url": "https://open.spotify.com/album/5LCXVRcG1D86tGtnzTmj7i"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 90786,
+      "name": "CLICK -TV MIX-",
+      "url": "https://open.spotify.com/track/0tvkAHEkyzrITMugyijmZy"
+    },
+    {
+      "album": {
+        "name": "SUMMER TRACKS -\u590f\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 305253,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4CUnP1yLlZOxdW5puFIZN9"
+    },
+    {
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 237280,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/1j2WgKVPAlGlX1AP1kzxDT"
+    },
+    {
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 213933,
+      "name": "Fairy Party",
+      "url": "https://open.spotify.com/track/1ijOD2KVBWe4p6kfhu80Wo"
+    },
+    {
+      "album": {
+        "name": "Fight!!",
+        "url": "https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 216346,
+      "name": "Fight!!",
+      "url": "https://open.spotify.com/track/5Vqe6O1inyJuf54FsCm5SL"
+    },
+    {
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition\uff09",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252746,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/31FWbJsuaaqqk87RwYRqNg"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258812,
+      "name": "irony",
+      "url": "https://open.spotify.com/track/3qLPnTQYkTObObPgncJQyS"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259213,
+      "name": "irony -season 02-",
+      "url": "https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB"
+    },
+    {
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 283240,
+      "name": "Last Squall",
+      "url": "https://open.spotify.com/track/0Htj6NEPvfBvZ13hG0QM4U"
+    },
+    {
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237730,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5"
+    },
+    {
+      "album": {
+        "name": "Parfaitone",
+        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 250186,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/20iLkzds9JViZjGm7BZQB2"
+    },
+    {
+      "album": {
+        "name": "Parfaitone",
+        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
+      "duration_ms": 235066,
+      "name": "missing you",
+      "url": "https://open.spotify.com/track/40AUDiMUMRhyx0IzQWY7MD"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291706,
+      "name": "nexus",
+      "url": "https://open.spotify.com/track/1j6UfYcCYnSJa1FpdFBMEr"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 294613,
+      "name": "nexus -season 02-",
+      "url": "https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB"
+    },
+    {
+      "album": {
+        "name": "WINTER TRACKS -\u51ac\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 290386,
+      "name": "ORION",
+      "url": "https://open.spotify.com/track/5hwhF9mnsPRQvJBSbZRoUG"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267626,
+      "name": "PRECIOUS",
+      "url": "https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX"
+    },
+    {
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255786,
+      "name": "PRIMALove",
+      "url": "https://open.spotify.com/track/0C0S6SJcJlAkPQHBT1qo7U"
+    },
+    {
+      "album": {
+        "name": "SECOND STORY",
+        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290693,
+      "name": "reunion",
+      "url": "https://open.spotify.com/track/3wvJE9X8azs237ZMPKsz33"
+    },
+    {
+      "album": {
+        "name": "SUMMER TRACKS \uff0d\u590f\u306e\u3046\u305f\uff0d",
+        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298906,
+      "name": "secret base \u301c\u541b\u304c\u304f\u308c\u305f\u3082\u306e\u301c",
+      "url": "https://open.spotify.com/track/1jdLeQ1vyU9POww0oY8Smy"
+    },
+    {
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248146,
+      "name": "SHIORI",
+      "url": "https://open.spotify.com/track/3OBGuiLR37GJP0H8csaE3n"
+    },
+    {
+      "album": {
+        "name": "PARTY TIME",
+        "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255706,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/5DvdcadbAkXdpITIKLycqx"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256426,
+      "name": "STEP -season 02-",
+      "url": "https://open.spotify.com/track/4jPW4GbHYbgWrNEpoS2mES"
+    },
+    {
+      "album": {
+        "name": "Parfaitone",
+        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254960,
+      "name": "Summer Delay",
+      "url": "https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/3PWVzMnK8ZtdanDMssCIeN"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Surely",
+      "url": "https://open.spotify.com/track/4NF9qpz2QP5IRdwZLdtsWC"
+    },
+    {
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/2DvBe1kVqRuZHzsVNZOu1p"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 227573,
+      "name": "Sweet Holic",
+      "url": "https://open.spotify.com/track/5jIa584Dyf6YzMFUsdWRkq"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260812,
+      "name": "treasure",
+      "url": "https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle",
+        "url": "https://open.spotify.com/album/7ti4tcjdsbO4J9aENCzaoX"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 230651,
+      "name": "Twinkle Twinkle",
+      "url": "https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f"
+    },
+    {
+      "album": {
+        "name": "SECOND STORY",
+        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2bQTmdOKGgqO2OT2jEVf1g"
+    },
+    {
+      "album": {
+        "name": "WHITE BREATH",
+        "url": "https://open.spotify.com/album/6pGPeXHobvENA0wuJOAzEf"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "WHITE BREATH",
+      "url": "https://open.spotify.com/track/60eixnGh71dTDl76Wpvd9J"
+    },
+    {
+      "album": {
+        "name": "White Love",
+        "url": "https://open.spotify.com/album/4Mk7ZN64AnujZEE2lgZ2JA"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336853,
+      "name": "White Love",
+      "url": "https://open.spotify.com/track/3B1EQrVkFiaHHTFbspLrwX"
+    },
+    {
+      "album": {
+        "name": "SECOND STORY",
+        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "with you",
+      "url": "https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL"
+    },
+    {
+      "album": {
+        "name": "\u306f\u3044\u304b\u3089\u3055\u3093\u304c\u901a\u308b",
+        "url": "https://open.spotify.com/album/0dca4QVNK34ZVjcive1X1y"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283389,
+      "name": "\u306f\u3044\u304b\u3089\u3055\u3093\u304c\u901a\u308b",
+      "url": "https://open.spotify.com/track/6QrS77ONjNMxEYsB2oUFMJ"
+    },
+    {
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition\uff09",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313453,
+      "name": "\u3072\u3089\u3072\u3089\u3000\u3072\u3089\u3089",
+      "url": "https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv"
+    },
+    {
+      "album": {
+        "name": "\u3075\u3049\u308a\u3089",
+        "url": "https://open.spotify.com/album/1HExkowmkR1bvHMvrP4AcJ"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224849,
+      "name": "\u3075\u3049\u308a\u3089",
+      "url": "https://open.spotify.com/track/10Oq2X4RVbAn4ZHOsVi7yn"
+    },
+    {
+      "album": {
+        "name": "\u3082\u3046\u3044\u3061\u3069 \u30eb\u30df\u30ca\u30b9",
+        "url": "https://open.spotify.com/album/3iAPqnmOiEYK1Il7Ngydj5"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        },
+        {
+          "name": "\u4e38\u5c71\u5f69 from Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/0N8XbKOOPtJqiSZcjKPfCI"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 261566,
+      "name": "\u3082\u3046\u3044\u3061\u3069 \u30eb\u30df\u30ca\u30b9",
+      "url": "https://open.spotify.com/track/2nMVkKOSXWlx39bDb6O3Ac"
+    },
+    {
+      "album": {
+        "name": "Parfaitone",
+        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 291760,
+      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/1rSTT91gK0K4CbLOrGtaxu"
+    },
+    {
+      "album": {
+        "name": "SHIORI",
+        "url": "https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243920,
+      "name": "\u30a2\u30a4\u30f2\u30a6\u30bf\u30a8",
+      "url": "https://open.spotify.com/track/4qfhuChuz77EaZrqKgwHEA"
+    },
+    {
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition\uff09",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272306,
+      "name": "\u30a2\u30cd\u30e2\u30cd",
+      "url": "https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231080,
+      "name": "\u30a2\u30ea\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/48bApuUSPxV0TY1CeBXFfe"
+    },
+    {
+      "album": {
+        "name": "PARTY TIME",
+        "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272960,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/1w25qP6ViEMw24RdawuWZC"
+    },
+    {
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition\uff09",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "\u30ab\u30e9\u30d5\u30eb -2017-",
+      "url": "https://open.spotify.com/track/1yGtzIGEap6EE5jsRly23m"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9\u3000\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d 2nd SEASON -\u899a\u9192\u524d\u591c-\u300dTheme Song Collection",
+        "url": "https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254716,
+      "name": "\u30b1\u30a2\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc"
+    },
+    {
+      "album": {
+        "name": "\u30b1\u30a2\u30ec\u30b9 (Slushii Remix) - SACRA BEATS Singles",
+        "url": "https://open.spotify.com/album/0ow5kLmDSNugPeajkl6uq5"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        },
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 178387,
+      "name": "\u30b1\u30a2\u30ec\u30b9 (Slushii Remix) - SACRA BEATS Singles",
+      "url": "https://open.spotify.com/track/0Frhp8XDDaf8S8upKYqPx2"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30a4\u30bb\u30ab\u30a4",
+        "url": "https://open.spotify.com/album/1ltLeck3h6VmSpk8k7plNl"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285457,
+      "name": "\u30b3\u30a4\u30bb\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/3OR2CPua0cNMJMrenVwhQ1"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "\u30b3\u30cd\u30af\u30c8",
+      "url": "https://open.spotify.com/track/3DZG4wc2NQbgjR2m8iXpG1"
+    },
+    {
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition\uff09",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270440,
+      "name": "\u30b3\u30cd\u30af\u30c8 -2017-",
+      "url": "https://open.spotify.com/track/13gcdbzfAArRm6RDhijxM7"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Music Collection",
+        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94720,
+      "name": "\u30b3\u30cd\u30af\u30c8 -\u30b2\u30fc\u30e0\u30a4\u30f3\u30b9\u30c8-",
+      "url": "https://open.spotify.com/track/6O7dVp1w20oN5dUjGVytoQ"
+    },
+    {
+      "album": {
+        "name": "WINTER TRACKS -\u51ac\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 270600,
+      "name": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30fb\u30a4\u30f4",
+      "url": "https://open.spotify.com/track/6uAXBkG7WNNFa4qg2xEYoH"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 294840,
+      "name": "\u30b5\u30e8\u30ca\u30e9\u306f\u8a00\u308f\u306a\u3044",
+      "url": "https://open.spotify.com/track/19eLFMCNvcHFWhfDa4hZUa"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "\u30b7\u30b0\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/768HgRPmiEeeVKB5URxOJt"
+    },
+    {
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 252720,
+      "name": "\u30b7\u30cb\u30ab\u30eb\u30b5\u30b9\u30da\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/4vn1bXoRyMZwqO4B9ihOTn"
+    },
+    {
+      "album": {
+        "name": "WINTER TRACKS -\u51ac\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 263440,
+      "name": "\u30b9\u30ce\u30fc\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/0Kb74cofcnavVwe4Tpcdv9"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30ce\u30fc\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2BalUGw6BefYls6CCAQzIa"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 263440,
+      "name": "\u30b9\u30ce\u30fc\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6Ng2bz2i6m8LWypHg8xRhM"
+    },
+    {
+      "album": {
+        "name": "SUMMER TRACKS \uff0d\u590f\u306e\u3046\u305f\uff0d",
+        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "\u30bf\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/6FnQ5TUNu8DJxKJDwYeFJR"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261413,
+      "name": "\u30ca\u30a4\u30b7\u30e7\u306e\u8a71",
+      "url": "https://open.spotify.com/track/0BDtQ3XsoRHYYcHvvVgFLE"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 259773,
+      "name": "\u30ca\u30a4\u30b7\u30e7\u306e\u8a71 -2017-",
+      "url": "https://open.spotify.com/track/4XvNtcm4lVIRyAo2k8cLzd"
+    },
+    {
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "\u30d2\u30c8\u30ea\u30b4\u30c8",
+      "url": "https://open.spotify.com/track/3Un2d5mEp5yLqaITkb1mS8"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 297453,
+      "name": "\u30d7\u30ed\u30df\u30b9",
+      "url": "https://open.spotify.com/track/6Eia9LTMWgMP7VELAES28o"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 269920,
+      "name": "\u30e1\u30e2\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/0lW1O9gkoDoqKuhCn8Gx2T"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30ea\u30b7\u30a2/\u30b7\u30af\u3099\u30ca\u30eb",
+        "url": "https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 209373,
+      "name": "\u30e6\u30cb\u30be\u30f3",
+      "url": "https://open.spotify.com/track/1oHL7ocJVNFGlfobC92OxX"
+    },
+    {
+      "album": {
+        "name": "SECOND STORY",
+        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251413,
+      "name": "\u30eb\u30df\u30ca\u30b9",
+      "url": "https://open.spotify.com/track/2imEBsXVoLpYTqkTAfycay"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 250440,
+      "name": "\u30eb\u30df\u30ca\u30b9 -2017-",
+      "url": "https://open.spotify.com/track/76Ek9Lbigy6mLTRZAau6lP"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 234506,
+      "name": "\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/6PGD1qYRbfRcVIWBJ97Eup"
+    },
+    {
+      "album": {
+        "name": "PRIMALove",
+        "url": "https://open.spotify.com/album/5Qq5eR5DCQczvzzLV7e1LX"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 269040,
+      "name": "\u51ac\u7a7a\u82b1\u706b",
+      "url": "https://open.spotify.com/track/6eArFjBGBVdWlCwOIZzmi5"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30a4\u30bb\u30ab\u30a4",
+        "url": "https://open.spotify.com/album/0TfV1UDf1V32Ec211rFduu"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260265,
+      "name": "\u541b\u304c\u3044\u308b\u3068",
+      "url": "https://open.spotify.com/track/7jo8v5u93nrxjfaFIBvUYC"
+    },
+    {
+      "album": {
+        "name": "SHIORI",
+        "url": "https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341746,
+      "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/4LggOGijGZuwoiYBXKoPM0"
+    },
+    {
+      "album": {
+        "name": "\u3075\u3049\u308a\u3089",
+        "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "\u541b\u8272",
+      "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
+    },
+    {
+      "album": {
+        "name": "\u3075\u3049\u308a\u3089",
+        "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222026,
+      "name": "\u5e7b\u60f3\u604b\u6155",
+      "url": "https://open.spotify.com/track/5JffCaDZNpGZkFU1mpiKoB"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279640,
+      "name": "\u5fd8\u308c\u3066\u3082\u3044\u3044\u3088",
+      "url": "https://open.spotify.com/track/4BbNUcHFb4ijbX1RYFDaU7"
+    },
+    {
+      "album": {
+        "name": "SUMMER TRACKS -\u590f\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 159520,
+      "name": "\u604b\u306e\u30d0\u30ab\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud"
+    },
+    {
+      "album": {
+        "name": "Fight!!",
+        "url": "https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228906,
+      "name": "\u604b\u5f85\u304b\u3050\u3084",
+      "url": "https://open.spotify.com/track/5ep05xtwwRBQWoFlkCBezI"
+    },
+    {
+      "album": {
+        "name": "Parfaitone",
+        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 226520,
+      "name": "\u65b0\u4e16\u754c\u30d3\u30fc\u30ca\u30b9",
+      "url": "https://open.spotify.com/track/2Ndh9WN97G5Bw4fWrYxk9V"
+    },
+    {
+      "album": {
+        "name": "SPRING TRACKS -\u6625\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/75iexQXsMr2LPouyL45o8U"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 284346,
+      "name": "\u660e\u65e5\u3001\u6625\u304c\u6765\u305f\u3089",
+      "url": "https://open.spotify.com/track/28E0uOrw97kb28l1lqSuWk"
+    },
+    {
+      "album": {
+        "name": "STEP",
+        "url": "https://open.spotify.com/album/7tIa5Dxx9YtZaL6npoy4jx"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 282213,
+      "name": "\u685c\u54b2\u304f",
+      "url": "https://open.spotify.com/track/4sEgpIXYobY9NRlQmoIBG1"
+    },
+    {
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 268440,
+      "name": "\u6ce3\u304b\u306a\u3044\u3088 - Clara solo ver.",
+      "url": "https://open.spotify.com/track/0Eqe56YVUzl6gFKVLXHK4l"
+    },
+    {
+      "album": {
+        "name": "\u6dcb\u3057\u3044\u71b1\u5e2f\u9b5a",
+        "url": "https://open.spotify.com/album/1hyaup1uQPsURjo4Eja3Lj"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266670,
+      "name": "\u6dcb\u3057\u3044\u71b1\u5e2f\u9b5a",
+      "url": "https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM"
+    },
+    {
+      "album": {
+        "name": "\u6dcb\u3057\u3044\u71b1\u5e2f\u9b5a",
+        "url": "https://open.spotify.com/album/5RhxWqFO2DZvw1NJjByTET"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 240360,
+      "name": "\u6dcb\u3057\u3044\u71b1\u5e2f\u9b5a -SCRAMBLES ver.-",
+      "url": "https://open.spotify.com/track/6vIANGW9UVlwgRYP4oolrY"
+    },
+    {
+      "album": {
+        "name": "PARTY TIME",
+        "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 240200,
+      "name": "\u7720\u308a\u59eb",
+      "url": "https://open.spotify.com/track/4C6L6e2wXdWXj4tw5TcLcP"
+    },
+    {
+      "album": {
+        "name": "Parfaitone",
+        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 193960,
+      "name": "\u77b3\u306e\u4e2d\u306e\u30ed\u30fc\u30ec\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/0GxGhggqr0zvTiFb5yEC4z"
+    },
+    {
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 254986,
+      "name": "\u967d\u3060\u307e\u308a",
+      "url": "https://open.spotify.com/track/092Ify2XiyScCNOpZlhDc9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO36zBDs"
 }

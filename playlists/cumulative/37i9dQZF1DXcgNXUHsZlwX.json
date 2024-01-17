@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 188320,
       "name": "Couleur pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/6tR8LvLFFzGqtDJ45Fc4TW"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 149015,
       "name": "Elle danse",
       "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 222186,
       "name": "En attendant l'aube",
       "url": "https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF"
@@ -2299,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Mitshuap",
+        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
+      },
+      "artists": [
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173083,
+      "name": "Grande fille",
+      "url": "https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN"
+    },
+    {
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 235800,
       "name": "J'aurai les cheveux longs",
       "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
@@ -5282,7 +5300,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 159589,
       "name": "New Favorite",
       "url": "https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj"
@@ -6120,7 +6138,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 223733,
       "name": "Post Mortem",
       "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
@@ -6218,7 +6236,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 195030,
       "name": "Prendre soin du beau",
       "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
@@ -6258,6 +6276,24 @@
       "duration_ms": 191739,
       "name": "Printemps",
       "url": "https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc"
+    },
+    {
+      "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
     },
     {
       "album": {
@@ -6572,7 +6608,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
@@ -6890,6 +6926,24 @@
       "duration_ms": 236355,
       "name": "Stains",
       "url": "https://open.spotify.com/track/3oSF0S8651gOA0EF8gKhjk"
+    },
+    {
+      "album": {
+        "name": "Sun and Time",
+        "url": "https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250747,
+      "name": "Sun and Time",
+      "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
     },
     {
       "album": {

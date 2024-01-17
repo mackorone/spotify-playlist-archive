@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,516,726 likes - 129 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,504,825 likes - 129 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 111 | [Ken](https://open.spotify.com/track/3oRRbrNXNLU21IYIcL0Ivb) | [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc) | [Diamond Back](https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A) | 6:19 |
 | 112 | [Eleanor](https://open.spotify.com/track/3acWM17VlZFZbYhgUKfpzt) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/0U3WgFMFWPqcR4xf1kEXLT) | 4:49 |
 | 113 | [All The Way](https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 5:35 |
-| 114 | [Two Sleepy People](https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX) | [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot) | [Stride](https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg) | 6:36 |
+| 114 | [Two Sleepy People](https://open.spotify.com/track/7otQlbcqXVYIIYQKO3o2Ga) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Stride](https://open.spotify.com/album/0O6aXFgmvoU9Ute7Ui5m8v) | 6:36 |
 | 115 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 |
 | 116 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 |
 | 117 | [Infant Eyes](https://open.spotify.com/track/7v6mocwA0qrPLoyLYpxq1G) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1vxRTqxedJxRmg8J11ZCuF) | 7:37 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 128 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |
 | 129 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 
-Snapshot ID: `MCxhNDk4NDUwOTYwY2ZhNTU1MmY4MTg1ODg5YzdiMjFmZDg5YWQwOTAw`
+Snapshot ID: `MCwzZjFhNDRmZDgyYjc0MDBjYjhhNTQ5YjFmMGI3ZDUwN2NkNjEyZjE5`

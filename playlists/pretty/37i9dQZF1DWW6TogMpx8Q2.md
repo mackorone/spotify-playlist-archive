@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Catch the week's hottest Cantopop songs by Hins Cheung, Serrini and more\. Cover: <a href="spotify:artist:6B9YF4eOv99klogeZUzkYM">Mirror</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,649 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,721 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 18 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 |
 | 19 | [活人鏢靶](https://open.spotify.com/track/5UQGMMFAummYZSdshJdo71) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:35 |
 | 20 | [信之卷](https://open.spotify.com/track/43AAdQfc9dodfuxkcKMZo3) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [信之卷](https://open.spotify.com/album/3RNW4B6DQWb8Bbbq2jCQaP) | 4:34 |
-| 21 | [我也難過的](https://open.spotify.com/track/2PkErrvrjQry3l1IhhJsor) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [我也難過的](https://open.spotify.com/album/2hFVXHct1VP9me00DzxDCj) | 4:38 |
+| 21 | [我也難過的](https://open.spotify.com/track/2PkErrvrjQry3l1IhhJsor) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/2hFVXHct1VP9me00DzxDCj) | 4:38 |
 | 22 | [鏡中鏡](https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [鏡中鏡](https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V) | 4:12 |
 | 23 | [i don't smoke & i don't drink](https://open.spotify.com/track/2BQIL0U5QdqK17n5o8KZB1) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [i don't smoke & i don't drink](https://open.spotify.com/album/3p2buXwB34FSSt8c7PJxc4) | 2:50 |
 | 24 | [初戀](https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [MIKE \(Deluxe Version\)](https://open.spotify.com/album/0bEkpw5Jt53O0uBEYQX2Co) | 3:29 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "<a href=\"https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=_XgO2G1FSCSxPX5m-q2Klw\">Eloff</a> se beste treffers vir die Nuwe Jaar!",
-  "name": "Nuwe Jaar Afrikaans",
+  "description": "Die nuutste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt?si=u8NseDH5Rfu7s_Tn0jl1tA\">Ryno Velvet</a> ",
+  "name": "Nuwe Afrikaans",
   "tracks": [
     {
       "album": {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 224213,
       "name": "'Til You Can't",
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 191428,
       "name": "Afrikaans, Ek Mis Jou",
       "url": "https://open.spotify.com/track/7fXKIMx1rTLklGYQu1VwU8"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 232533,
       "name": "Ai My Lam",
       "url": "https://open.spotify.com/track/2M9WfhGsONl31AMQNzwfsL"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 230750,
       "name": "As Jy Bid",
       "url": "https://open.spotify.com/track/5XOFgZpnRX4dzT07jUeZId"
@@ -696,7 +696,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 207812,
       "name": "Asseblief",
       "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 184026,
       "name": "ATKV",
       "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 234400,
       "name": "Awe",
       "url": "https://open.spotify.com/track/7k6XbhQIXIias5I0qCq3lw"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 150697,
       "name": "Bass Bliksem",
       "url": "https://open.spotify.com/track/3qXkT4jW4AmUVCpbjHaNU2"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 164376,
       "name": "Biertjies",
       "url": "https://open.spotify.com/track/56dsDJWcHLvInMlvn9uIBz"
@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Boerejol in Afrikaans",
+        "url": "https://open.spotify.com/album/2XLCeqljU66cow3bVJv6Go"
+      },
+      "artists": [
+        {
+          "name": "Anton Fitchat",
+          "url": "https://open.spotify.com/artist/243yC1bqCC4nSPMA5Zxs95"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212173,
+      "name": "Boerejol in Afrikaans",
+      "url": "https://open.spotify.com/track/7rJaTXyeY271TMK06hRNy0"
+    },
+    {
+      "album": {
         "name": "Boeremeisie",
         "url": "https://open.spotify.com/album/3mGCOx0NJRHAGVCdoy2tiU"
       },
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 179077,
       "name": "Boerepop",
       "url": "https://open.spotify.com/track/7dcRWabNlXjIEAE5jaXnee"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 210107,
       "name": "Bottervingers",
       "url": "https://open.spotify.com/track/7G1Nnk5VJ70BJ5jyKg7Hhe"
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 184004,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 193660,
       "name": "Daai Girl",
       "url": "https://open.spotify.com/track/6ivrpvgB86kwsySdLpjhV2"
@@ -2114,7 +2132,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": "2024-01-12",
       "duration_ms": 189941,
       "name": "Die Goeie Ou Dae",
       "url": "https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 317680,
       "name": "Die Lig",
       "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
@@ -2765,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Die Wors Song",
+        "url": "https://open.spotify.com/album/3tKymqLeAllgjh0LCcgI7C"
+      },
+      "artists": [
+        {
+          "name": "Peer Papsak",
+          "url": "https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165340,
+      "name": "Die Wors Song",
+      "url": "https://open.spotify.com/track/2UCudHlzKNBcJ1QVhZuce5"
+    },
+    {
+      "album": {
         "name": "DieVeilingPitCrew",
         "url": "https://open.spotify.com/album/7hFI51vZlEWWpjMogVbFU2"
       },
@@ -2830,7 +2866,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 213214,
       "name": "Dis Raak",
       "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
@@ -3044,7 +3080,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 180807,
       "name": "dose",
       "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
@@ -3792,7 +3828,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 204853,
       "name": "Gisteraand",
       "url": "https://open.spotify.com/track/5BXyxGP29VxbOIopmOpdBN"
@@ -3962,7 +3998,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 194277,
       "name": "Haar Naam Was Somer",
       "url": "https://open.spotify.com/track/6EoilsUTHrNfdslcBOBekC"
@@ -4450,7 +4486,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 194416,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0"
@@ -4720,7 +4756,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 215010,
       "name": "Hulle Weet Nie Wat Ons Weet Nie",
       "url": "https://open.spotify.com/track/6pLrj2Ljugd4wYH0KGmLys"
@@ -4940,7 +4976,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 150352,
       "name": "In My O\u00eb",
       "url": "https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr"
@@ -4958,7 +4994,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 221067,
       "name": "Inge 2",
       "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
@@ -5048,7 +5084,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 156240,
       "name": "Jan Asseblief Tog Squeeze My",
       "url": "https://open.spotify.com/track/3lGJjc6pZRlqPsGHEigkAk"
@@ -5304,7 +5340,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 173987,
       "name": "JY IS AL WAT EK HET",
       "url": "https://open.spotify.com/track/0svurugq2CYsP7zGByuUyg"
@@ -5514,7 +5550,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 176870,
       "name": "Karen",
       "url": "https://open.spotify.com/track/6AWCN7GsLXjVpm95Q1jKnw"
@@ -5680,7 +5716,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 211538,
       "name": "Kinders van die Warrelwind",
       "url": "https://open.spotify.com/track/5BOtjYYVTWqp1i40AuKYtP"
@@ -6148,7 +6184,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 230080,
       "name": "Koue Kole",
       "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
@@ -6220,7 +6256,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 165631,
       "name": "Kuilsrivier",
       "url": "https://open.spotify.com/track/7CIy4uYYM2KR3GieY3XDpi"
@@ -6238,7 +6274,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Kuslyn Koors",
       "url": "https://open.spotify.com/track/1mCtdOAvIzdIEpEodIxMe6"
@@ -6520,7 +6556,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 196229,
       "name": "Lag",
       "url": "https://open.spotify.com/track/1UYwq39O7eCWVgdv6w2eZr"
@@ -6664,7 +6700,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 216973,
       "name": "Lenteblomme",
       "url": "https://open.spotify.com/track/0c0f0jF5UHoynNFfhW0vjZ"
@@ -6884,7 +6920,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 211154,
       "name": "Liewe Jinne!",
       "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
@@ -6996,7 +7032,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 220554,
       "name": "Ligte Laag",
       "url": "https://open.spotify.com/track/63qxqOgqK8dwpMWYhAq0SD"
@@ -7032,7 +7068,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 199047,
       "name": "Los My",
       "url": "https://open.spotify.com/track/4V80FJoQ4F8683QSJTr4o1"
@@ -7050,7 +7086,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
@@ -7180,7 +7216,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 133246,
       "name": "Mal Maandagaande",
       "url": "https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA"
@@ -7234,7 +7270,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
@@ -7274,7 +7310,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 181394,
       "name": "Marie - Remix",
       "url": "https://open.spotify.com/track/5tuCeKFwV7VNbuYX3GmK49"
@@ -7364,7 +7400,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 167755,
       "name": "Mense Mense",
       "url": "https://open.spotify.com/track/76r2b2rGVqqd54GYQBY34H"
@@ -7814,7 +7850,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": "2024-01-12",
       "duration_ms": 219666,
       "name": "My Rede",
       "url": "https://open.spotify.com/track/63FtCyJDSrX5V86Q1uxlzA"
@@ -7832,7 +7868,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 219000,
       "name": "My Sonskyn",
       "url": "https://open.spotify.com/track/6LMmE9FaIYj7IxFJOopSwU"
@@ -7908,7 +7944,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Myne Vir Die Aand",
       "url": "https://open.spotify.com/track/6fu8zewjH9qnlW8vS4A8Ri"
@@ -8610,7 +8646,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 168846,
       "name": "OH NO!",
       "url": "https://open.spotify.com/track/1vPBFWHQnKaDHr5wAT6szU"
@@ -8810,7 +8846,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 265321,
       "name": "Ons Sal Jonk Bly",
       "url": "https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r"
@@ -9102,7 +9138,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
@@ -9330,7 +9366,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 210866,
       "name": "Plain Jane",
       "url": "https://open.spotify.com/track/3mfQiYcAWsPDIz80zih85u"
@@ -9420,7 +9456,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 217500,
       "name": "Ploeg Jy?",
       "url": "https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo"
@@ -9840,7 +9876,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 186923,
       "name": "Saaragaand",
       "url": "https://open.spotify.com/track/1Zg6bEg6lGkus6uV2VPdzO"
@@ -9858,7 +9894,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 209680,
       "name": "Sal Jy Bly",
       "url": "https://open.spotify.com/track/6G9EetNoeRcMJddmgxJhMz"
@@ -10126,7 +10162,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 141218,
       "name": "Shut Me Up",
       "url": "https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx"
@@ -10296,7 +10332,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 212533,
       "name": "Skobbejak",
       "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
@@ -10494,7 +10530,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 204560,
       "name": "Snowshoes",
       "url": "https://open.spotify.com/track/69BWKQ0qeTnPHdk4lxuLcD"
@@ -10596,7 +10632,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 163782,
       "name": "SOMER IN MY KEEL",
       "url": "https://open.spotify.com/track/3YJBQUKT339SszpO2vRYAX"
@@ -10614,7 +10650,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 180626,
       "name": "Something Like Olivia",
       "url": "https://open.spotify.com/track/1aiDlPLPljMFUylWjMZras"
@@ -11035,6 +11071,24 @@
     },
     {
       "album": {
+        "name": "Sterreval",
+        "url": "https://open.spotify.com/album/1yGzH2bIEChjXMqZnBUuvI"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236680,
+      "name": "Sterreval",
+      "url": "https://open.spotify.com/track/6jueUMxROt1rtTW7mBM7Cs"
+    },
+    {
+      "album": {
         "name": "Stockholm Sindroom",
         "url": "https://open.spotify.com/album/57ijDsuH6BoMrIRI76cGD7"
       },
@@ -11414,7 +11468,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 185220,
       "name": "Tappit",
       "url": "https://open.spotify.com/track/3m6AtGy5lijel7dhIjCj7a"
@@ -11468,7 +11522,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 241666,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
@@ -11728,7 +11782,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 238442,
       "name": "Tomorrow Is Closed",
       "url": "https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS"
@@ -11884,7 +11938,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 173286,
       "name": "Tydbom",
       "url": "https://open.spotify.com/track/6t7k0sK7VRK6uwch22bCqv"
@@ -12004,6 +12058,28 @@
       "duration_ms": 212720,
       "name": "Uit My Lyf",
       "url": "https://open.spotify.com/track/7iayMipigAHh8cY216RxPL"
+    },
+    {
+      "album": {
+        "name": "Umfaan",
+        "url": "https://open.spotify.com/album/4myCSx2hAUbHvs3JVeqrYY"
+      },
+      "artists": [
+        {
+          "name": "B+C",
+          "url": "https://open.spotify.com/artist/3K4syqj9H8aPFqQF65Nvi9"
+        },
+        {
+          "name": "Buddy Marais",
+          "url": "https://open.spotify.com/artist/0geB60egVWHoYP6f90ULiF"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225142,
+      "name": "Umfaan",
+      "url": "https://open.spotify.com/track/216HvJLzt4E6Wcl62ZuX5b"
     },
     {
       "album": {
@@ -12228,7 +12304,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 210324,
       "name": "Vat Jou Hoender",
       "url": "https://open.spotify.com/track/1aSzuwa31lyAhCXoebzi6f"
@@ -12578,7 +12654,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": "2024-01-12",
       "duration_ms": 178289,
       "name": "Voel",
       "url": "https://open.spotify.com/track/3nfvfPPlIamTKAARfxf7Bz"
@@ -12650,7 +12726,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 204444,
       "name": "Volksie Bonnet",
       "url": "https://open.spotify.com/track/0pxrHKgdDsiesTiidmDwDl"
@@ -12924,7 +13000,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 223546,
       "name": "Waar Gaan Ons Dans Vanaand?",
       "url": "https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB"
@@ -12942,7 +13018,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 207818,
       "name": "Waar Is My Maniere?",
       "url": "https://open.spotify.com/track/69BKmIJTufzcPZmnqHTLw7"
@@ -12960,7 +13036,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 145440,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
@@ -13260,7 +13336,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 172000,
       "name": "Welkom By My Party",
       "url": "https://open.spotify.com/track/2D5M8Bjxbacp8U9McEa0I7"
@@ -13300,7 +13376,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 196053,
       "name": "Whiskey Bent (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
@@ -13372,7 +13448,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 169194,
       "name": "Wildman",
       "url": "https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd"
@@ -13502,7 +13578,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
@@ -13560,6 +13636,24 @@
       "duration_ms": 233840,
       "name": "Word Wakker",
       "url": "https://open.spotify.com/track/3wkrBIpOW3QqKBPdttq15r"
+    },
+    {
+      "album": {
+        "name": "Wyn",
+        "url": "https://open.spotify.com/album/1aMOz9dCGypaewrzobd7dX"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158778,
+      "name": "Wyn",
+      "url": "https://open.spotify.com/track/5BODeqZ9b4hekIqt465IU0"
     },
     {
       "album": {

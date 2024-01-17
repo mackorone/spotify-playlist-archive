@@ -1,159 +1,1225 @@
 {
-  "2023-07-29": 441940,
-  "2023-07-30": 442135,
-  "2023-07-31": 442293,
-  "2023-08-01": 442479,
-  "2023-08-02": 442623,
-  "2023-08-03": 442803,
-  "2023-08-04": 442990,
-  "2023-08-05": 443190,
-  "2023-08-06": 443543,
-  "2023-08-07": 443543,
-  "2023-08-08": 443678,
-  "2023-08-09": 443879,
-  "2023-08-10": 444098,
-  "2023-08-11": 444318,
-  "2023-08-12": 444543,
-  "2023-08-13": 444543,
-  "2023-08-14": 444866,
-  "2023-08-15": 445013,
-  "2023-08-16": 445013,
-  "2023-08-17": 445401,
-  "2023-08-18": 445401,
-  "2023-08-19": 445839,
-  "2023-08-20": 446035,
-  "2023-08-21": 446225,
-  "2023-08-22": 446415,
-  "2023-08-23": 446527,
-  "2023-08-24": 446692,
-  "2023-08-25": 446692,
-  "2023-08-26": 447035,
-  "2023-08-27": 447226,
-  "2023-08-28": 447363,
-  "2023-08-29": 447529,
-  "2023-08-30": 447529,
-  "2023-08-31": 447838,
-  "2023-09-01": 448177,
-  "2023-09-02": 448177,
-  "2023-09-03": 448344,
-  "2023-09-04": 448344,
-  "2023-09-05": 448649,
-  "2023-09-06": 448789,
-  "2023-09-07": 448789,
-  "2023-09-08": 448789,
-  "2023-09-09": 448789,
-  "2023-09-10": 449514,
-  "2023-09-11": 449679,
-  "2023-09-12": 449679,
-  "2023-09-13": 449964,
-  "2023-09-14": 449964,
-  "2023-09-15": 449964,
-  "2023-09-16": 450488,
-  "2023-09-17": 450488,
-  "2023-09-18": 450488,
-  "2023-09-19": 450958,
-  "2023-09-20": 450958,
-  "2023-09-21": 450958,
-  "2023-09-22": 451426,
-  "2023-09-23": 451426,
-  "2023-09-24": 451426,
-  "2023-09-25": 451426,
-  "2023-09-26": 452109,
-  "2023-09-27": 452109,
-  "2023-09-28": 452109,
-  "2023-09-29": 452109,
-  "2023-09-30": 452109,
-  "2023-10-01": 452109,
-  "2023-10-02": 453051,
-  "2023-10-03": 453051,
-  "2023-10-04": 453051,
-  "2023-10-05": 453632,
-  "2023-10-06": 453853,
-  "2023-10-07": 453853,
-  "2023-10-08": 453853,
-  "2023-10-09": 453853,
-  "2023-10-10": 453853,
-  "2023-10-11": 454681,
-  "2023-10-12": 454681,
-  "2023-10-13": 454681,
-  "2023-10-14": 454681,
-  "2023-10-15": 454681,
-  "2023-10-16": 454681,
-  "2023-10-17": 454681,
-  "2023-10-18": 454681,
-  "2023-10-19": 454681,
-  "2023-10-20": 454681,
-  "2023-10-21": 454681,
-  "2023-10-22": 454681,
-  "2023-10-23": 454681,
-  "2023-10-24": 454681,
-  "2023-10-25": 454681,
-  "2023-10-26": 454681,
-  "2023-10-27": 454681,
-  "2023-10-28": 454681,
-  "2023-10-29": 454681,
-  "2023-10-30": 454681,
-  "2023-10-31": 454681,
-  "2023-11-01": 454681,
-  "2023-11-02": 454681,
-  "2023-11-03": 454681,
-  "2023-11-04": 454681,
-  "2023-11-05": 454681,
-  "2023-11-06": 454681,
-  "2023-11-07": 454681,
-  "2023-11-08": 454681,
-  "2023-11-09": 454681,
-  "2023-11-10": 454681,
-  "2023-11-11": 459469,
-  "2023-11-12": 459469,
-  "2023-11-13": 459469,
-  "2023-11-14": 459469,
-  "2023-11-15": 459469,
-  "2023-11-16": 459469,
-  "2023-11-17": 459469,
-  "2023-11-18": 459469,
-  "2023-11-19": 459469,
-  "2023-11-20": 459469,
-  "2023-11-21": 459469,
-  "2023-11-22": 459469,
-  "2023-11-23": 459469,
-  "2023-11-24": 459469,
-  "2023-11-25": 459469,
-  "2023-11-26": 459469,
-  "2023-11-27": 459469,
-  "2023-11-28": 459469,
-  "2023-11-29": 459469,
-  "2023-11-30": 459469,
-  "2023-12-01": 459469,
-  "2023-12-02": 459469,
-  "2023-12-03": 459469,
-  "2023-12-04": 459469,
-  "2023-12-05": 459469,
-  "2023-12-06": 459469,
-  "2023-12-07": 459469,
-  "2023-12-08": 459469,
-  "2023-12-09": 459469,
-  "2023-12-10": 459469,
-  "2023-12-11": 459469,
-  "2023-12-12": 459469,
-  "2023-12-13": 459469,
-  "2023-12-14": 463719,
-  "2023-12-15": 463833,
-  "2023-12-16": 463972,
-  "2023-12-17": 464155,
-  "2023-12-18": 464276,
-  "2023-12-19": 464386,
-  "2023-12-20": 464523,
-  "2023-12-21": 464656,
-  "2023-12-22": 464788,
-  "2023-12-23": 464938,
-  "2023-12-24": 465085,
-  "2023-12-25": 465202,
-  "2023-12-26": 465287,
-  "2023-12-27": 465410,
-  "2023-12-30": 465781,
-  "2023-12-31": 465956,
-  "2024-01-01": 466067,
-  "2024-01-02": 466160,
-  "2024-01-03": 466259
+  "2024-01-17": 467746,
+  "date_first_scraped": "2023-07-29",
+  "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
+  "name": "This Is Black Eyed Peas",
+  "tracks": [
+    {
+      "album": {
+        "name": "#WHERESTHELOVE",
+        "url": "https://open.spotify.com/album/2RiLLqGSyYhC3QMk8F0wUu"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "The World",
+          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325386,
+      "name": "#WHERESTHELOVE",
+      "url": "https://open.spotify.com/track/61pl7NmpG9R2KamTBAy5Yo"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303453,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6R1E3mgWYUgXsEIYrRnZoA"
+    },
+    {
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/716wcEhWeq3N1Id3L9mp6f"
+    },
+    {
+      "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 220327,
+      "name": "AUDIOS",
+      "url": "https://open.spotify.com/track/4kkbe9uszaUnNY1b4xUfzs"
+    },
+    {
+      "album": {
+        "name": "BAILAR CONTIGO",
+        "url": "https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223352,
+      "name": "BAILAR CONTIGO",
+      "url": "https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE"
+    },
+    {
+      "album": {
+        "name": "Be Nice",
+        "url": "https://open.spotify.com/album/0P4CwZG0hbF4FWdNYE5mxF"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 228714,
+      "name": "Be Nice",
+      "url": "https://open.spotify.com/track/04vIsaXxLIaRke6MQwxTxI"
+    },
+    {
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Bebot",
+      "url": "https://open.spotify.com/track/4nZwaKTdxczLpUHfLVAozA"
+    },
+    {
+      "album": {
+        "name": "MASTERS OF THE SUN VOL. 1",
+        "url": "https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275562,
+      "name": "BIG LOVE",
+      "url": "https://open.spotify.com/track/6eNeTj9NecqgP1VEqInpKg"
+    },
+    {
+      "album": {
+        "name": "I Gotta Feeling (International Version)",
+        "url": "https://open.spotify.com/album/3AZ8syx3I7qwH8yCSZXhou"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241920,
+      "name": "Boom Boom Guetta - David Guetta's Electro Hop Remix",
+      "url": "https://open.spotify.com/track/4jpQfNAq0qrCVMsswFbES4"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251440,
+      "name": "Boom Boom Pow",
+      "url": "https://open.spotify.com/track/3oDFtOhcN08qeDPAK6MEQG"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Music 31 (20 track Dell Bundle)",
+        "url": "https://open.spotify.com/album/70DTiFYxkFuou42yT6cSK2"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 216760,
+      "name": "Boom Boom Pow - Radio Edit",
+      "url": "https://open.spotify.com/track/19o5hmeKzaX5PauBO3lTHh"
+    },
+    {
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/6tp27J7xy18DQiQXut3GsF"
+    },
+    {
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239773,
+      "name": "Don't Phunk With My Heart",
+      "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
+    },
+    {
+      "album": {
+        "name": "DON'T YOU WORRY",
+        "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "DON'T YOU WORRY",
+      "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367413,
+      "name": "Don\u2019t Stop The Party",
+      "url": "https://open.spotify.com/track/61s24wRVyG7NP9m7EjdDKL"
+    },
+    {
+      "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200191,
+      "name": "DOUBLE D'Z",
+      "url": "https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV"
+    },
+    {
+      "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205048,
+      "name": "DURO HARD",
+      "url": "https://open.spotify.com/track/1dqAW18r3tHyy4Ou7PjB9e"
+    },
+    {
+      "album": {
+        "name": "El Teke Teke",
+        "url": "https://open.spotify.com/album/2E4AdaVSSNpAcyV8jb9oao"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177636,
+      "name": "El Teke Teke",
+      "url": "https://open.spotify.com/track/13N3Nd6nQMe5yDgo9wzUuV"
+    },
+    {
+      "album": {
+        "name": "eXplosion",
+        "url": "https://open.spotify.com/album/2oeDPXbXqgrYYXAJj9Iz3X"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "eXplosion",
+      "url": "https://open.spotify.com/track/6UkSkUIBJZaAiuAbflLa9j"
+    },
+    {
+      "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237714,
+      "name": "FEEL THE BEAT",
+      "url": "https://open.spotify.com/track/0pGC7cwCOakpvCFYiawNhM"
+    },
+    {
+      "album": {
+        "name": "Elephunk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/78CmZBgMOz93zoQwqxqZSy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242339,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/05LemKmLP4MR3GN45CznXO"
+    },
+    {
+      "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 232000,
+      "name": "GET DOWN",
+      "url": "https://open.spotify.com/track/58jvANBUVmKr8K3B87Kexg"
+    },
+    {
+      "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222522,
+      "name": "GIRL LIKE ME",
+      "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
+    },
+    {
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Gone Going",
+      "url": "https://open.spotify.com/track/7oJtjEkcsXLGcuXaZ8o2VJ"
+    },
+    {
+      "album": {
+        "name": "GUARANTEE (feat. J. Rey Soul) [SUMMER MIX]",
+        "url": "https://open.spotify.com/album/78g17CAmtDlt0ngIiZ8gGH"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "GUARANTEE (feat. J. Rey Soul) - SUMMER MIX",
+      "url": "https://open.spotify.com/track/1awobyPJIqyw2mgdjaFvoz"
+    },
+    {
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214893,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/3KDCYRQl4O681lkYI2sCqE"
+    },
+    {
+      "album": {
+        "name": "Elephunk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/78CmZBgMOz93zoQwqxqZSy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 182057,
+      "name": "Hey Mama - Jimmy Remix",
+      "url": "https://open.spotify.com/track/6d5oZGnCn7QoKBiiLr4Qmf"
+    },
+    {
+      "album": {
+        "name": "HIT IT (feat. Saweetie & Lele Pons)",
+        "url": "https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235428,
+      "name": "HIT IT (feat. Saweetie & Lele Pons)",
+      "url": "https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "Imma Be",
+      "url": "https://open.spotify.com/track/0oJMv049q8hEkes9w0L1J4"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219426,
+      "name": "Just Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"
+    },
+    {
+      "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 237600,
+      "name": "L.O.V.E.",
+      "url": "https://open.spotify.com/track/4Je05kXIyUbODEoTAmWufc"
+    },
+    {
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Let's Get It Started - Spike Mix",
+      "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "Love You Long Time",
+      "url": "https://open.spotify.com/track/5PdnrnroNNd7n3AOqvv4hD"
+    },
+    {
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249142,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
+    },
+    {
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/069LGoUMDaNgoKStPYdSi8"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229503,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/3bDD7GGvIzAZeHz2TOYD3A"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4sceISkCvRuDbd74AtKeEH"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262840,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/6U7GUjtamt2P0LcFod1dBT"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284373,
+      "name": "Meet Me Halfway",
+      "url": "https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274546,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4pLMepQdJY7IXkrgRAubSx"
+    },
+    {
+      "album": {
+        "name": "MUEVELO",
+        "url": "https://open.spotify.com/album/1JviwowNAeoLx0kQJ2A2h4"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254237,
+      "name": "MUEVELO",
+      "url": "https://open.spotify.com/track/6r0bDGDS8JJShneQkMAzj1"
+    },
+    {
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326960,
+      "name": "My Humps",
+      "url": "https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48"
+    },
+    {
+      "album": {
+        "name": "My Humps",
+        "url": "https://open.spotify.com/album/5gYvt08iJYSGmRnBRpXvUZ"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250986,
+      "name": "My Humps - Single Version",
+      "url": "https://open.spotify.com/track/4ThCFbTzk1ghQ3zcUUswtE"
+    },
+    {
+      "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221694,
+      "name": "NO MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso"
+    },
+    {
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Pump It",
+      "url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"
+    },
+    {
+      "album": {
+        "name": "Pump It",
+        "url": "https://open.spotify.com/album/1NkUiJ3j8F1BogXijapysS"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "Pump It - Travis Barker Remix Version",
+      "url": "https://open.spotify.com/track/4ozSTxfmp1qTZ8DzaZtY97"
+    },
+    {
+      "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "album": {
+        "name": "RITMO (Bad Boys For Life)",
+        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221714,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268840,
+      "name": "Rock That Body",
+      "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
+    },
+    {
+      "album": {
+        "name": "Shake Ya Boom Boom",
+        "url": "https://open.spotify.com/album/7GHotUAxNYMjGew9Wnz5N4"
+      },
+      "artists": [
+        {
+          "name": "Static & Ben El",
+          "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201142,
+      "name": "Shake Ya Boom Boom",
+      "url": "https://open.spotify.com/track/1gVZRO8RdxbaUuxKNRcFsd"
+    },
+    {
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296186,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
+    },
+    {
+      "album": {
+        "name": "SIMPLY THE BEST",
+        "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236190,
+      "name": "SIMPLY THE BEST",
+      "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273440,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/0iO9nE6zE8Oqcl8eXjxCJ7"
+    },
+    {
+      "album": {
+        "name": "Elephunk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/78CmZBgMOz93zoQwqxqZSy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 231105,
+      "name": "Sumthin For That Ass",
+      "url": "https://open.spotify.com/track/25NiLDDslQYmSc3tnlycEa"
+    },
+    {
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174906,
+      "name": "The Apl Song",
+      "url": "https://open.spotify.com/track/3RJscU6S1fLgCmH67OLIui"
+    },
+    {
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 312160,
+      "name": "The Boogie That Be",
+      "url": "https://open.spotify.com/track/12bZwKgVax8ibhwfiPgkQT"
+    },
+    {
+      "album": {
+        "name": "The Beginning (Deluxe)",
+        "url": "https://open.spotify.com/album/0BkpKcHw606at6Y2cp8kdE"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307640,
+      "name": "The Time (Dirty Bit)",
+      "url": "https://open.spotify.com/track/7vWFaMq63AwkFDhS2OAg5u"
+    },
+    {
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 406840,
+      "name": "They Don't Want Music",
+      "url": "https://open.spotify.com/track/4d1bLoK77pR9N6giV6spVB"
+    },
+    {
+      "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "TODO BUENO",
+      "url": "https://open.spotify.com/track/4FldXs1bcL6WUrpOcENkfD"
+    },
+    {
+      "album": {
+        "name": "TRANSLATION",
+        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234374,
+      "name": "VIDA LOCA",
+      "url": "https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE"
+    },
+    {
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272533,
+      "name": "Where Is The Love?",
+      "url": "https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RCiYg"
 }

@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Land Of The Living",
+        "url": "https://open.spotify.com/album/5L8kyQqKEvjOZVP0Oj4RiH"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218458,
+      "name": "Be Kind",
+      "url": "https://open.spotify.com/track/3gDhXk7X0o3IhtCO6MZBXs"
+    },
+    {
+      "album": {
         "name": "Be the Light (Radio Edit)",
         "url": "https://open.spotify.com/album/3gRP24p18Mq0q31FsvZiBi"
       },
@@ -816,7 +834,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-16",
       "duration_ms": 204378,
       "name": "Broken Vessels (Amazing Grace) - Retain Remix",
       "url": "https://open.spotify.com/track/73oAtotfBIqc4MYzT7nwPf"
@@ -2982,7 +3000,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
@@ -3990,7 +4008,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 150653,
       "name": "Keep Me",
       "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
@@ -6252,7 +6270,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 213868,
       "name": "Step Into The Fight - Gregatron Remix",
       "url": "https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD"

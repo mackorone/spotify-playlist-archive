@@ -1,735 +1,1755 @@
 {
-  "2021-12-25": 208061,
-  "2021-12-26": 208105,
-  "2021-12-27": 208202,
-  "2021-12-28": 208202,
-  "2021-12-29": 208253,
-  "2021-12-30": 208309,
-  "2021-12-31": 208357,
-  "2022-01-01": 208411,
-  "2022-01-02": 208427,
-  "2022-01-03": 208473,
-  "2022-01-04": 208532,
-  "2022-01-05": 208570,
-  "2022-01-06": 208628,
-  "2022-01-07": 208673,
-  "2022-01-08": 208777,
-  "2022-01-09": 208782,
-  "2022-01-10": 208844,
-  "2022-01-11": 208881,
-  "2022-01-12": 208905,
-  "2022-01-13": 208950,
-  "2022-01-14": 208995,
-  "2022-01-15": 209106,
-  "2022-01-16": 209113,
-  "2022-01-17": 209229,
-  "2022-01-18": 209236,
-  "2022-01-19": 209267,
-  "2022-01-20": 209304,
-  "2022-01-21": 209349,
-  "2022-01-22": 209373,
-  "2022-01-23": 209416,
-  "2022-01-24": 209472,
-  "2022-01-25": 209510,
-  "2022-01-26": 209549,
-  "2022-01-27": 209594,
-  "2022-01-28": 209647,
-  "2022-01-29": 209689,
-  "2022-01-30": 209746,
-  "2022-01-31": 209791,
-  "2022-02-01": 209837,
-  "2022-02-02": 209876,
-  "2022-02-03": 209910,
-  "2022-02-04": 209983,
-  "2022-02-05": 210024,
-  "2022-02-06": 210067,
-  "2022-02-07": 210106,
-  "2022-02-08": 210156,
-  "2022-02-09": 210186,
-  "2022-02-10": 210219,
-  "2022-02-11": 210250,
-  "2022-02-12": 210278,
-  "2022-02-13": 210323,
-  "2022-02-14": 210368,
-  "2022-02-15": 210381,
-  "2022-02-16": 210386,
-  "2022-02-17": 210414,
-  "2022-02-18": 210434,
-  "2022-02-19": 210463,
-  "2022-02-20": 210503,
-  "2022-02-21": 210526,
-  "2022-02-22": 210547,
-  "2022-02-23": 210558,
-  "2022-02-24": 210592,
-  "2022-02-25": 210641,
-  "2022-02-26": 210668,
-  "2022-02-27": 210735,
-  "2022-02-28": 210735,
-  "2022-03-01": 210770,
-  "2022-03-02": 210797,
-  "2022-03-03": 210837,
-  "2022-03-04": 210858,
-  "2022-03-05": 210920,
-  "2022-03-06": 210959,
-  "2022-03-07": 210977,
-  "2022-03-08": 211001,
-  "2022-03-09": 211045,
-  "2022-03-10": 211085,
-  "2022-03-11": 211120,
-  "2022-03-12": 211169,
-  "2022-03-13": 211217,
-  "2022-03-14": 211264,
-  "2022-03-15": 211309,
-  "2022-03-16": 211331,
-  "2022-03-17": 211358,
-  "2022-03-18": 211401,
-  "2022-03-19": 211426,
-  "2022-03-20": 211426,
-  "2022-03-21": 211491,
-  "2022-03-22": 211510,
-  "2022-03-23": 211539,
-  "2022-03-24": 211566,
-  "2022-03-25": 211596,
-  "2022-03-26": 211623,
-  "2022-03-27": 211662,
-  "2022-03-28": 211685,
-  "2022-03-30": 211744,
-  "2022-03-31": 211774,
-  "2022-04-01": 211808,
-  "2022-04-02": 211856,
-  "2022-04-03": 211902,
-  "2022-04-04": 211931,
-  "2022-04-05": 211960,
-  "2022-04-06": 211986,
-  "2022-04-07": 212018,
-  "2022-04-08": 212046,
-  "2022-04-09": 212086,
-  "2022-04-10": 212158,
-  "2022-04-11": 212204,
-  "2022-04-12": 212207,
-  "2022-04-13": 212236,
-  "2022-04-14": 212258,
-  "2022-04-15": 212293,
-  "2022-04-16": 212318,
-  "2022-04-17": 212357,
-  "2022-04-18": 212390,
-  "2022-04-19": 212411,
-  "2022-04-20": 212444,
-  "2022-04-21": 212474,
-  "2022-04-22": 212513,
-  "2022-04-23": 212542,
-  "2022-04-24": 212589,
-  "2022-04-25": 212637,
-  "2022-04-26": 212652,
-  "2022-04-27": 212685,
-  "2022-04-28": 212718,
-  "2022-04-29": 212775,
-  "2022-04-30": 212806,
-  "2022-05-01": 212847,
-  "2022-05-02": 212847,
-  "2022-05-03": 212878,
-  "2022-05-04": 212908,
-  "2022-05-05": 212933,
-  "2022-05-06": 212961,
-  "2022-05-07": 212990,
-  "2022-05-08": 213049,
-  "2022-05-09": 213058,
-  "2022-05-10": 213074,
-  "2022-05-11": 213088,
-  "2022-05-12": 213121,
-  "2022-05-13": 213135,
-  "2022-05-14": 213159,
-  "2022-05-15": 213189,
-  "2022-05-16": 213218,
-  "2022-05-17": 213244,
-  "2022-05-18": 213265,
-  "2022-05-19": 213275,
-  "2022-05-20": 213315,
-  "2022-05-21": 213367,
-  "2022-05-22": 213367,
-  "2022-05-23": 213395,
-  "2022-05-24": 213408,
-  "2022-05-25": 213440,
-  "2022-05-26": 213471,
-  "2022-05-27": 213496,
-  "2022-05-28": 213519,
-  "2022-05-29": 213541,
-  "2022-05-30": 213576,
-  "2022-05-31": 213605,
-  "2022-06-01": 213665,
-  "2022-06-02": 213665,
-  "2022-06-03": 213704,
-  "2022-06-04": 213738,
-  "2022-06-05": 213762,
-  "2022-06-06": 213797,
-  "2022-06-07": 213832,
-  "2022-06-08": 213850,
-  "2022-06-09": 213875,
-  "2022-06-10": 213914,
-  "2022-06-11": 213941,
-  "2022-06-12": 213969,
-  "2022-06-13": 213997,
-  "2022-06-14": 214024,
-  "2022-06-15": 214053,
-  "2022-06-16": 214079,
-  "2022-06-17": 214096,
-  "2022-06-18": 214134,
-  "2022-06-19": 214211,
-  "2022-06-20": 214211,
-  "2022-06-21": 214234,
-  "2022-06-22": 214282,
-  "2022-06-23": 214282,
-  "2022-06-24": 214307,
-  "2022-06-25": 214333,
-  "2022-06-26": 214365,
-  "2022-06-27": 214409,
-  "2022-06-28": 214456,
-  "2022-06-29": 214493,
-  "2022-06-30": 214547,
-  "2022-07-01": 214581,
-  "2022-07-02": 214617,
-  "2022-07-03": 214667,
-  "2022-07-04": 214689,
-  "2022-07-05": 214723,
-  "2022-07-06": 214757,
-  "2022-07-07": 214800,
-  "2022-07-08": 214830,
-  "2022-07-09": 214860,
-  "2022-07-10": 214909,
-  "2022-07-11": 214941,
-  "2022-07-12": 214958,
-  "2022-07-13": 214976,
-  "2022-07-14": 215012,
-  "2022-07-15": 215033,
-  "2022-07-16": 215063,
-  "2022-07-17": 215100,
-  "2022-07-18": 215134,
-  "2022-07-19": 215156,
-  "2022-07-20": 215192,
-  "2022-07-21": 215224,
-  "2022-07-22": 215248,
-  "2022-07-23": 215283,
-  "2022-07-24": 215315,
-  "2022-07-25": 215349,
-  "2022-07-26": 215392,
-  "2022-07-27": 215421,
-  "2022-07-28": 215444,
-  "2022-07-29": 215479,
-  "2022-07-30": 215535,
-  "2022-07-31": 215535,
-  "2022-08-01": 215568,
-  "2022-08-02": 215612,
-  "2022-08-03": 215612,
-  "2022-08-04": 215646,
-  "2022-08-05": 215678,
-  "2022-08-06": 215695,
-  "2022-08-07": 215720,
-  "2022-08-08": 215751,
-  "2022-08-09": 215774,
-  "2022-08-10": 215800,
-  "2022-08-11": 215834,
-  "2022-08-12": 215858,
-  "2022-08-13": 215904,
-  "2022-08-14": 215949,
-  "2022-08-15": 215983,
-  "2022-08-16": 216032,
-  "2022-08-17": 216059,
-  "2022-08-18": 216094,
-  "2022-08-19": 216116,
-  "2022-08-20": 216144,
-  "2022-08-21": 216179,
-  "2022-08-22": 216212,
-  "2022-08-23": 216242,
-  "2022-08-24": 216268,
-  "2022-08-25": 216301,
-  "2022-08-26": 216332,
-  "2022-08-27": 216355,
-  "2022-08-28": 216383,
-  "2022-08-29": 216411,
-  "2022-08-30": 216380,
-  "2022-08-31": 216305,
-  "2022-09-01": 216258,
-  "2022-09-02": 216286,
-  "2022-09-03": 216230,
-  "2022-09-04": 216103,
-  "2022-09-05": 216051,
-  "2022-09-06": 216066,
-  "2022-09-07": 216092,
-  "2022-09-09": 216154,
-  "2022-09-10": 216180,
-  "2022-09-11": 216211,
-  "2022-09-12": 216256,
-  "2022-09-13": 216298,
-  "2022-09-15": 216348,
-  "2022-09-16": 216384,
-  "2022-09-17": 216409,
-  "2022-09-18": 216444,
-  "2022-09-19": 216483,
-  "2022-09-20": 216506,
-  "2022-09-21": 216537,
-  "2022-09-22": 216557,
-  "2022-09-23": 216585,
-  "2022-09-24": 216626,
-  "2022-09-25": 216653,
-  "2022-09-26": 216676,
-  "2022-09-27": 216722,
-  "2022-09-28": 216780,
-  "2022-09-29": 216819,
-  "2022-09-30": 216857,
-  "2022-10-01": 216893,
-  "2022-10-02": 216952,
-  "2022-10-03": 216985,
-  "2022-10-04": 217030,
-  "2022-10-05": 217083,
-  "2022-10-06": 217125,
-  "2022-10-07": 217166,
-  "2022-10-08": 217230,
-  "2022-10-09": 217326,
-  "2022-10-10": 217331,
-  "2022-10-11": 217372,
-  "2022-10-12": 217401,
-  "2022-10-13": 217449,
-  "2022-10-14": 217492,
-  "2022-10-15": 217528,
-  "2022-10-16": 217567,
-  "2022-10-17": 217596,
-  "2022-10-18": 217636,
-  "2022-10-19": 217678,
-  "2022-10-20": 217709,
-  "2022-10-21": 217751,
-  "2022-10-22": 217801,
-  "2022-10-23": 217851,
-  "2022-10-24": 217895,
-  "2022-10-25": 217933,
-  "2022-10-26": 217985,
-  "2022-10-27": 218021,
-  "2022-10-28": 218060,
-  "2022-10-29": 218100,
-  "2022-10-30": 218134,
-  "2022-10-31": 218172,
-  "2022-11-01": 218226,
-  "2022-11-02": 218263,
-  "2022-11-03": 218293,
-  "2022-11-04": 218330,
-  "2022-11-05": 218395,
-  "2022-11-06": 218444,
-  "2022-11-07": 218488,
-  "2022-11-08": 218511,
-  "2022-11-09": 218555,
-  "2022-11-10": 218594,
-  "2022-11-11": 218647,
-  "2022-11-12": 218711,
-  "2022-11-13": 218760,
-  "2022-11-14": 218811,
-  "2022-11-15": 218849,
-  "2022-11-16": 218889,
-  "2022-11-17": 218915,
-  "2022-11-18": 218929,
-  "2022-11-19": 218913,
-  "2022-11-20": 218912,
-  "2022-11-21": 218948,
-  "2022-11-22": 219062,
-  "2022-11-23": 219047,
-  "2022-11-24": 219133,
-  "2022-11-25": 219224,
-  "2022-11-26": 219299,
-  "2022-11-27": 219339,
-  "2022-11-28": 219382,
-  "2022-11-29": 219417,
-  "2022-11-30": 219457,
-  "2022-12-01": 219503,
-  "2022-12-02": 219559,
-  "2022-12-03": 219591,
-  "2022-12-04": 219644,
-  "2022-12-05": 219699,
-  "2022-12-06": 219731,
-  "2022-12-07": 219784,
-  "2022-12-08": 219807,
-  "2022-12-09": 219852,
-  "2022-12-10": 219895,
-  "2022-12-11": 219929,
-  "2022-12-12": 219964,
-  "2022-12-13": 219992,
-  "2022-12-14": 220037,
-  "2022-12-15": 220074,
-  "2022-12-16": 220109,
-  "2022-12-17": 220148,
-  "2022-12-18": 220194,
-  "2022-12-19": 220236,
-  "2022-12-20": 220315,
-  "2022-12-21": 220315,
-  "2022-12-22": 220356,
-  "2022-12-24": 220418,
-  "2022-12-25": 220458,
-  "2022-12-26": 220505,
-  "2022-12-27": 220554,
-  "2022-12-28": 220597,
-  "2022-12-29": 220642,
-  "2022-12-30": 220677,
-  "2022-12-31": 220722,
-  "2023-01-01": 220800,
-  "2023-01-02": 220843,
-  "2023-01-03": 220887,
-  "2023-01-04": 220930,
-  "2023-01-05": 220978,
-  "2023-01-06": 221019,
-  "2023-01-07": 221101,
-  "2023-01-08": 221116,
-  "2023-01-09": 221150,
-  "2023-01-10": 221196,
-  "2023-01-11": 221240,
-  "2023-01-12": 221288,
-  "2023-01-13": 221339,
-  "2023-01-14": 221412,
-  "2023-01-15": 221423,
-  "2023-01-16": 221461,
-  "2023-01-17": 221496,
-  "2023-01-18": 221531,
-  "2023-01-19": 221598,
-  "2023-01-20": 221661,
-  "2023-01-21": 221713,
-  "2023-01-22": 221760,
-  "2023-01-23": 221807,
-  "2023-01-24": 221858,
-  "2023-01-25": 221885,
-  "2023-01-26": 221915,
-  "2023-01-27": 221938,
-  "2023-01-28": 221998,
-  "2023-01-29": 222031,
-  "2023-01-30": 222082,
-  "2023-01-31": 222082,
-  "2023-02-01": 222159,
-  "2023-02-02": 222211,
-  "2023-02-03": 222265,
-  "2023-02-04": 222305,
-  "2023-02-05": 222349,
-  "2023-02-06": 222405,
-  "2023-02-07": 222447,
-  "2023-02-08": 222506,
-  "2023-02-09": 222506,
-  "2023-02-10": 222549,
-  "2023-02-11": 222596,
-  "2023-02-12": 222711,
-  "2023-02-13": 222749,
-  "2023-02-14": 222749,
-  "2023-02-15": 222779,
-  "2023-02-16": 222828,
-  "2023-02-17": 222856,
-  "2023-02-18": 222951,
-  "2023-02-19": 222959,
-  "2023-02-20": 222980,
-  "2023-02-21": 223026,
-  "2023-02-22": 223056,
-  "2023-02-23": 223109,
-  "2023-02-24": 223146,
-  "2023-02-25": 223189,
-  "2023-02-26": 223223,
-  "2023-02-27": 223294,
-  "2023-02-28": 223294,
-  "2023-03-01": 223329,
-  "2023-03-02": 223370,
-  "2023-03-03": 223394,
-  "2023-03-04": 223436,
-  "2023-03-05": 223517,
-  "2023-03-06": 223517,
-  "2023-03-07": 223578,
-  "2023-03-08": 223605,
-  "2023-03-09": 223641,
-  "2023-03-10": 223687,
-  "2023-03-11": 223728,
-  "2023-03-12": 223779,
-  "2023-03-13": 223819,
-  "2023-03-14": 223859,
-  "2023-03-15": 223897,
-  "2023-03-16": 223941,
-  "2023-03-17": 223941,
-  "2023-03-18": 224011,
-  "2023-03-19": 224072,
-  "2023-03-20": 224120,
-  "2023-03-21": 224168,
-  "2023-03-22": 224202,
-  "2023-03-23": 224236,
-  "2023-03-24": 224236,
-  "2023-03-25": 224329,
-  "2023-03-26": 224360,
-  "2023-03-27": 224398,
-  "2023-03-28": 224440,
-  "2023-03-29": 224493,
-  "2023-03-30": 224569,
-  "2023-03-31": 224569,
-  "2023-04-01": 224607,
-  "2023-04-02": 224672,
-  "2023-04-03": 224726,
-  "2023-04-04": 224748,
-  "2023-04-05": 224806,
-  "2023-04-06": 224857,
-  "2023-04-07": 224879,
-  "2023-04-09": 224999,
-  "2023-04-10": 225038,
-  "2023-04-11": 225136,
-  "2023-04-12": 225136,
-  "2023-04-13": 225174,
-  "2023-04-14": 225234,
-  "2023-04-15": 225271,
-  "2023-04-16": 225325,
-  "2023-04-17": 225370,
-  "2023-04-18": 225424,
-  "2023-04-19": 225491,
-  "2023-04-20": 225549,
-  "2023-04-21": 225589,
-  "2023-04-22": 225636,
-  "2023-04-23": 225688,
-  "2023-04-24": 225737,
-  "2023-04-25": 225780,
-  "2023-04-26": 225837,
-  "2023-04-27": 225889,
-  "2023-04-28": 225950,
-  "2023-04-29": 225985,
-  "2023-04-30": 226028,
-  "2023-05-01": 226067,
-  "2023-05-02": 226101,
-  "2023-05-03": 226140,
-  "2023-05-04": 226197,
-  "2023-05-05": 226231,
-  "2023-05-06": 226287,
-  "2023-05-07": 226327,
-  "2023-05-08": 226376,
-  "2023-05-09": 226411,
-  "2023-05-10": 226448,
-  "2023-05-11": 226484,
-  "2023-05-12": 226538,
-  "2023-05-13": 226587,
-  "2023-05-14": 226628,
-  "2023-05-15": 226670,
-  "2023-05-16": 226718,
-  "2023-05-17": 226761,
-  "2023-05-18": 226797,
-  "2023-05-19": 226864,
-  "2023-05-20": 226975,
-  "2023-05-21": 226975,
-  "2023-05-22": 226975,
-  "2023-05-23": 227056,
-  "2023-05-24": 227140,
-  "2023-05-25": 227145,
-  "2023-05-26": 227171,
-  "2023-05-27": 227217,
-  "2023-05-28": 227261,
-  "2023-05-29": 227261,
-  "2023-05-30": 227372,
-  "2023-05-31": 227417,
-  "2023-06-01": 227456,
-  "2023-06-02": 227515,
-  "2023-06-03": 227564,
-  "2023-06-04": 227621,
-  "2023-06-05": 227661,
-  "2023-06-06": 227707,
-  "2023-06-07": 227730,
-  "2023-06-08": 227759,
-  "2023-06-09": 227808,
-  "2023-06-10": 227846,
-  "2023-06-11": 227895,
-  "2023-06-12": 227943,
-  "2023-06-13": 227973,
-  "2023-06-14": 227973,
-  "2023-06-15": 228036,
-  "2023-06-16": 228076,
-  "2023-06-17": 228095,
-  "2023-06-18": 228112,
-  "2023-06-19": 228114,
-  "2023-06-20": 228128,
-  "2023-06-21": 228133,
-  "2023-06-22": 228166,
-  "2023-06-23": 228225,
-  "2023-06-24": 228262,
-  "2023-06-25": 228309,
-  "2023-06-26": 228364,
-  "2023-06-27": 228401,
-  "2023-06-28": 228431,
-  "2023-06-29": 228458,
-  "2023-06-30": 228506,
-  "2023-07-01": 228595,
-  "2023-07-02": 228595,
-  "2023-07-03": 228631,
-  "2023-07-04": 228671,
-  "2023-07-05": 228707,
-  "2023-07-06": 228779,
-  "2023-07-07": 228779,
-  "2023-07-08": 228816,
-  "2023-07-09": 228871,
-  "2023-07-10": 228913,
-  "2023-07-11": 228960,
-  "2023-07-12": 228995,
-  "2023-07-13": 229052,
-  "2023-07-14": 229095,
-  "2023-07-15": 229132,
-  "2023-07-16": 229181,
-  "2023-07-17": 229216,
-  "2023-07-18": 229256,
-  "2023-07-19": 229297,
-  "2023-07-20": 229342,
-  "2023-07-21": 229380,
-  "2023-07-22": 229427,
-  "2023-07-23": 229470,
-  "2023-07-24": 229496,
-  "2023-07-25": 229542,
-  "2023-07-26": 229570,
-  "2023-07-27": 229614,
-  "2023-07-28": 229652,
-  "2023-07-29": 229691,
-  "2023-07-30": 229728,
-  "2023-07-31": 229761,
-  "2023-08-01": 229804,
-  "2023-08-02": 229836,
-  "2023-08-03": 229884,
-  "2023-08-04": 229928,
-  "2023-08-05": 229971,
-  "2023-08-06": 230055,
-  "2023-08-07": 230055,
-  "2023-08-08": 230092,
-  "2023-08-09": 230122,
-  "2023-08-10": 230180,
-  "2023-08-11": 230228,
-  "2023-08-12": 230277,
-  "2023-08-13": 230330,
-  "2023-08-14": 230385,
-  "2023-08-15": 230469,
-  "2023-08-16": 230469,
-  "2023-08-17": 230516,
-  "2023-08-18": 230561,
-  "2023-08-19": 230611,
-  "2023-08-20": 230674,
-  "2023-08-21": 230719,
-  "2023-08-22": 230769,
-  "2023-08-23": 230808,
-  "2023-08-24": 230853,
-  "2023-08-25": 230910,
-  "2023-08-26": 230972,
-  "2023-08-27": 231018,
-  "2023-08-28": 231064,
-  "2023-08-29": 231100,
-  "2023-08-30": 231129,
-  "2023-08-31": 231174,
-  "2023-09-01": 231228,
-  "2023-09-02": 231228,
-  "2023-09-03": 231256,
-  "2023-09-04": 231295,
-  "2023-09-05": 231333,
-  "2023-09-06": 231374,
-  "2023-09-07": 231417,
-  "2023-09-08": 231461,
-  "2023-09-09": 231510,
-  "2023-09-10": 231551,
-  "2023-09-11": 231592,
-  "2023-09-12": 231620,
-  "2023-09-13": 231685,
-  "2023-09-14": 231717,
-  "2023-09-15": 231761,
-  "2023-09-16": 231792,
-  "2023-09-17": 231837,
-  "2023-09-18": 231855,
-  "2023-09-19": 231885,
-  "2023-09-20": 231929,
-  "2023-09-21": 231963,
-  "2023-09-22": 231993,
-  "2023-09-23": 232026,
-  "2023-09-24": 232072,
-  "2023-09-25": 232122,
-  "2023-09-26": 232155,
-  "2023-09-27": 232185,
-  "2023-09-28": 232222,
-  "2023-09-29": 232250,
-  "2023-09-30": 232291,
-  "2023-10-01": 232337,
-  "2023-10-02": 232383,
-  "2023-10-03": 232422,
-  "2023-10-04": 232459,
-  "2023-10-05": 232499,
-  "2023-10-06": 232534,
-  "2023-10-07": 232552,
-  "2023-10-08": 232598,
-  "2023-10-09": 232627,
-  "2023-10-10": 232255,
-  "2023-10-11": 231938,
-  "2023-10-12": 231938,
-  "2023-10-13": 231611,
-  "2023-10-14": 231384,
-  "2023-10-15": 231355,
-  "2023-10-16": 231398,
-  "2023-10-17": 231425,
-  "2023-10-18": 231458,
-  "2023-10-19": 231506,
-  "2023-10-20": 231545,
-  "2023-10-21": 231577,
-  "2023-10-22": 231618,
-  "2023-10-23": 231678,
-  "2023-10-24": 231698,
-  "2023-10-25": 231740,
-  "2023-10-26": 231783,
-  "2023-10-27": 231858,
-  "2023-10-28": 231929,
-  "2023-10-29": 231992,
-  "2023-10-30": 232089,
-  "2023-10-31": 232089,
-  "2023-11-01": 232141,
-  "2023-11-02": 232195,
-  "2023-11-03": 232326,
-  "2023-11-04": 232458,
-  "2023-11-05": 232575,
-  "2023-11-06": 232666,
-  "2023-11-07": 232741,
-  "2023-11-08": 232804,
-  "2023-11-09": 232881,
-  "2023-11-10": 232943,
-  "2023-11-11": 233031,
-  "2023-11-12": 233086,
-  "2023-11-13": 233156,
-  "2023-11-14": 233191,
-  "2023-11-15": 233191,
-  "2023-11-16": 233287,
-  "2023-11-17": 233374,
-  "2023-11-18": 233374,
-  "2023-11-19": 233433,
-  "2023-11-20": 233478,
-  "2023-11-21": 233539,
-  "2023-11-22": 233612,
-  "2023-11-23": 233650,
-  "2023-11-24": 233697,
-  "2023-11-25": 233739,
-  "2023-11-26": 233786,
-  "2023-11-27": 233849,
-  "2023-11-28": 233891,
-  "2023-11-29": 233966,
-  "2023-11-30": 233966,
-  "2023-12-01": 234017,
-  "2023-12-02": 234074,
-  "2023-12-03": 234117,
-  "2023-12-04": 234161,
-  "2023-12-05": 234205,
-  "2023-12-06": 234239,
-  "2023-12-07": 234285,
-  "2023-12-08": 234326,
-  "2023-12-09": 234400,
-  "2023-12-10": 234480,
-  "2023-12-11": 234561,
-  "2023-12-12": 234626,
-  "2023-12-13": 234664,
-  "2023-12-14": 234736,
-  "2023-12-15": 234775,
-  "2023-12-16": 234826,
-  "2023-12-17": 234882,
-  "2023-12-18": 234946,
-  "2023-12-19": 235001,
-  "2023-12-20": 235051,
-  "2023-12-21": 235108,
-  "2023-12-22": 235167,
-  "2023-12-23": 235236,
-  "2023-12-24": 235302,
-  "2023-12-25": 235363,
-  "2023-12-26": 235410,
-  "2023-12-27": 235459,
-  "2023-12-30": 235610,
-  "2023-12-31": 235659,
-  "2024-01-01": 235711,
-  "2024-01-02": 235752,
-  "2024-01-03": 235790
+  "2024-01-17": 234343,
+  "date_first_scraped": "2021-12-21",
+  "description": "A journey through The Beatles' career.",
+  "name": "The Long and Winding Road",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330906,
+      "name": "A Day In The Life - Remix",
+      "url": "https://open.spotify.com/track/18qhv7DD1sEpgWffovGnhn"
+    },
+    {
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered",
+      "url": "https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA"
+    },
+    {
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered 2009",
+      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 152920,
+      "name": "A Hard Day's Night - Remastered 2015",
+      "url": "https://open.spotify.com/track/1pctwlBtIcKIjQMzsVcGHB"
+    },
+    {
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230386,
+      "name": "All You Need Is Love - Remastered",
+      "url": "https://open.spotify.com/track/3xMSaDC9TU6AQJIsxQB7MK"
+    },
+    {
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230386,
+      "name": "All You Need Is Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227760,
+      "name": "All You Need Is Love - Remastered 2015",
+      "url": "https://open.spotify.com/track/6KqiVlOLfDzJViJVAPym1p"
+    },
+    {
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149693,
+      "name": "And I Love Her - Remastered",
+      "url": "https://open.spotify.com/track/6mZGglJLWfy0HxbVL8i9BL"
+    },
+    {
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149693,
+      "name": "And I Love Her - Remastered 2009",
+      "url": "https://open.spotify.com/track/65vdMBskhx3akkG9vQlSH1"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 151413,
+      "name": "And I Love Her - Remastered 2009",
+      "url": "https://open.spotify.com/track/5BZshzyuOfIGxmVt6RK7vn"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 120493,
+      "name": "And Your Bird Can Sing - Remastered",
+      "url": "https://open.spotify.com/track/6RdvhWyzCULNTHcMbAXwXK"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120493,
+      "name": "And Your Bird Can Sing - Remastered 2009",
+      "url": "https://open.spotify.com/track/4KRgqwb4kvBuTz1utbYxfb"
+    },
+    {
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160520,
+      "name": "Baby It's You - Remastered",
+      "url": "https://open.spotify.com/track/5gnrZoSS7nbDYtHp32RFiI"
+    },
+    {
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160520,
+      "name": "Baby It's You - Remastered 2009",
+      "url": "https://open.spotify.com/track/2VmB1rF9FtfKUmFHDVnq8Q"
+    },
+    {
+      "album": {
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131866,
+      "name": "Can't Buy Me Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 131213,
+      "name": "Can't Buy Me Love - Remastered 2015",
+      "url": "https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259946,
+      "name": "Come Together - Remastered",
+      "url": "https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259946,
+      "name": "Come Together - Remastered 2009",
+      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258693,
+      "name": "Come Together - Remastered 2015",
+      "url": "https://open.spotify.com/track/3CEFDHJSiERlfwRujZ1CkJ"
+    },
+    {
+      "album": {
+        "name": "The Beatles",
+        "url": "https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Dear Prudence - 2018 Mix",
+      "url": "https://open.spotify.com/track/21pC0RPgkThjHlwpmCtxGb"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148893,
+      "name": "Drive My Car - Remastered",
+      "url": "https://open.spotify.com/track/02wfEb4PyvM4XvsqDNtqVm"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148893,
+      "name": "Drive My Car - Remastered 2009",
+      "url": "https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91"
+    },
+    {
+      "album": {
+        "name": "Beatles For Sale (Remastered)",
+        "url": "https://open.spotify.com/album/7BgGBZndAvDlKOcwe5rscZ"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163600,
+      "name": "Eight Days A Week - Remastered",
+      "url": "https://open.spotify.com/track/2B3ArhTa6DRox1W4CJZ1dM"
+    },
+    {
+      "album": {
+        "name": "Beatles For Sale (Remastered)",
+        "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "Eight Days A Week - Remastered 2009",
+      "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
+    },
+    {
+      "album": {
+        "name": "The Beatles",
+        "url": "https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144653,
+      "name": "Everybody's Got Something To Hide Except Me And My Monkey - 2018 Mix",
+      "url": "https://open.spotify.com/track/4pBM26oKtRWYK2UbYD4OlJ"
+    },
+    {
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144773,
+      "name": "Everybody's Got Something To Hide Except Me And My Monkey - Remastered",
+      "url": "https://open.spotify.com/track/0fDmdWRuV1mWwfn1NaoE67"
+    },
+    {
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144773,
+      "name": "Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009",
+      "url": "https://open.spotify.com/track/64P3zpRsDHIk7YTpRtaKYL"
+    },
+    {
+      "album": {
+        "name": "Beatles For Sale (Remastered)",
+        "url": "https://open.spotify.com/album/7BgGBZndAvDlKOcwe5rscZ"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146000,
+      "name": "Everybody's Trying To Be My Baby - Remastered",
+      "url": "https://open.spotify.com/track/3EbGioQyKyf4dycuiPOg3k"
+    },
+    {
+      "album": {
+        "name": "Beatles For Sale (Remastered)",
+        "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Everybody's Trying To Be My Baby - Remastered 2009",
+      "url": "https://open.spotify.com/track/4DZAH8eiqSAkMIE9l5D71U"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149240,
+      "name": "Got To Get You Into My Life - Remastered",
+      "url": "https://open.spotify.com/track/2qcQSnkcOivjyAAVZoQDVh"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149240,
+      "name": "Got To Get You Into My Life - Remastered 2009",
+      "url": "https://open.spotify.com/track/3tGhRLgcCP6SIZU3tbGl7l"
+    },
+    {
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208840,
+      "name": "Hello, Goodbye - Remastered",
+      "url": "https://open.spotify.com/track/7c76SiAfT7JkMiCm8BBCcP"
+    },
+    {
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208840,
+      "name": "Hello, Goodbye - Remastered 2009",
+      "url": "https://open.spotify.com/track/0vZ97gHhemKm6c64hTfJNA"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207786,
+      "name": "Hello, Goodbye - Remastered 2015",
+      "url": "https://open.spotify.com/track/0hqjsgWRfMBf2s8xsvRq1M"
+    },
+    {
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173946,
+      "name": "I Saw Her Standing There - Remastered",
+      "url": "https://open.spotify.com/track/63nTBScSLXWwyeizXi9Rmi"
+    },
+    {
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173946,
+      "name": "I Saw Her Standing There - Remastered 2009",
+      "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
+    },
+    {
+      "album": {
+        "name": "The Beatles - New Year's Workout",
+        "url": "https://open.spotify.com/album/4AWAZIuMdas1wV50kNkTv3"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 173946,
+      "name": "I Saw Her Standing There - Remastered 2009",
+      "url": "https://open.spotify.com/track/4snBNKn7vD8PeQDAUJX3rT"
+    },
+    {
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 119506,
+      "name": "I Wanna Be Your Man - Remastered",
+      "url": "https://open.spotify.com/track/2aibmsfQ8WFl2AfCkNi5RG"
+    },
+    {
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119506,
+      "name": "I Wanna Be Your Man - Remastered 2009",
+      "url": "https://open.spotify.com/track/0sIZcoe69iSym9AecvZ7CT"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146720,
+      "name": "I Want To Hold Your Hand - Remastered 2009",
+      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145746,
+      "name": "I Want To Hold Your Hand - Remastered 2015",
+      "url": "https://open.spotify.com/track/4DRBaZ760gyk7LWnaJFqsJ"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 145746,
+      "name": "I Want To Hold Your Hand - Remastered 2015",
+      "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146386,
+      "name": "I'm Looking Through You - Remastered",
+      "url": "https://open.spotify.com/track/6BzNvvSyF2Fe0BqsOcL8LS"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146386,
+      "name": "I'm Looking Through You - Remastered 2009",
+      "url": "https://open.spotify.com/track/5E3BVY66TEDexFutOO5GeS"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180320,
+      "name": "I'm Only Sleeping - Remastered",
+      "url": "https://open.spotify.com/track/3wAOX1N5M0ta3QNsokmhJV"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "I'm Only Sleeping - Remastered 2009",
+      "url": "https://open.spotify.com/track/2ylCrFiBu98SC0vFfaCent"
+    },
+    {
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/2pCqZLeavM2BMovJXsJEIV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered",
+      "url": "https://open.spotify.com/track/5V1AHQugSTASVez5ffJtFo"
+    },
+    {
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207680,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2017",
+      "url": "https://open.spotify.com/track/2iIRl5jf9beA2ExZWzn2nt"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 162373,
+      "name": "Michelle - Remastered",
+      "url": "https://open.spotify.com/track/0yZEKwCNhkyaqk1ZyCZU7A"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Michelle - Remastered 2009",
+      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
+    },
+    {
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169506,
+      "name": "Money (That's What I Want) - Remastered",
+      "url": "https://open.spotify.com/track/16aAwvjzWhM4Cgg5RYz2fA"
+    },
+    {
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Money (That's What I Want) - Remastered 2009",
+      "url": "https://open.spotify.com/track/3zw4FTrVNfy2teEkV9FOvh"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124693,
+      "name": "Norwegian Wood (This Bird Has Flown) - Remastered",
+      "url": "https://open.spotify.com/track/4DE42oDol0KHxympBsaiYu"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124693,
+      "name": "Norwegian Wood (This Bird Has Flown) - Remastered 2009",
+      "url": "https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163693,
+      "name": "Nowhere Man - Remastered",
+      "url": "https://open.spotify.com/track/1OpY6W5UY8xkfrnl3hlMJy"
+    },
+    {
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163693,
+      "name": "Nowhere Man - Remastered 2009",
+      "url": "https://open.spotify.com/track/5SUlhldQJtOhUr2GzH5RI7"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/3rCxVyqwgJlkqL8z2dZdHh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 121333,
+      "name": "Please Please Me - Mono / Remastered",
+      "url": "https://open.spotify.com/track/2Ekx8lzXbAh5KNyOvmmjH5"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 121333,
+      "name": "Please Please Me - Mono Version / Remastered 2009",
+      "url": "https://open.spotify.com/track/473McZs08uo5AIimJyAelZ"
+    },
+    {
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120853,
+      "name": "Please Please Me - Remastered 2009",
+      "url": "https://open.spotify.com/track/6EHuOufBeL6vk3TvVJB5qo"
+    },
+    {
+      "album": {
+        "name": "The Beatles",
+        "url": "https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500853,
+      "name": "Revolution 9 - 2018 Mix",
+      "url": "https://open.spotify.com/track/6FQkfaghoLt72rLmhsAqFy"
+    },
+    {
+      "album": {
+        "name": "Beatles For Sale (Remastered)",
+        "url": "https://open.spotify.com/album/7BgGBZndAvDlKOcwe5rscZ"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151280,
+      "name": "Rock And Roll Music - Remastered",
+      "url": "https://open.spotify.com/track/1Bx4cgnLSOTS5heoB2sIrb"
+    },
+    {
+      "album": {
+        "name": "Beatles For Sale (Remastered)",
+        "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151280,
+      "name": "Rock And Roll Music - Remastered 2009",
+      "url": "https://open.spotify.com/track/7Ho3T7ERfooiAfvODaMQ2N"
+    },
+    {
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 165466,
+      "name": "Roll Over Beethoven - Remastered",
+      "url": "https://open.spotify.com/track/5cRyBkxNi0EWEY6fZyPWnh"
+    },
+    {
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165466,
+      "name": "Roll Over Beethoven - Remastered 2009",
+      "url": "https://open.spotify.com/track/3idqWaBn3mRdsIodCU6uBi"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 140920,
+      "name": "She Loves You - Mono / Remastered",
+      "url": "https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/3rCxVyqwgJlkqL8z2dZdHh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142653,
+      "name": "She Loves You - Mono / Remastered",
+      "url": "https://open.spotify.com/track/7zmMlHeeN2DW8D8aKQYC0i"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142653,
+      "name": "She Loves You - Mono Version / Remastered 2009",
+      "url": "https://open.spotify.com/track/0qsS2A3hwicJCLtcaR6JRQ"
+    },
+    {
+      "album": {
+        "name": "Past Masters (Vols. 1 & 2 / Remastered)",
+        "url": "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141333,
+      "name": "She Loves You - Remastered 2009",
+      "url": "https://open.spotify.com/track/48JM82SHQTBYkhEYhMaOaa"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182293,
+      "name": "Something - Remastered",
+      "url": "https://open.spotify.com/track/7oSUp4yZ0FbuSvVmCxH2ty"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Something - Remastered 2009",
+      "url": "https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181413,
+      "name": "Something - Remastered 2015",
+      "url": "https://open.spotify.com/track/7mzNk14FElnA5DOKQyBrM0"
+    },
+    {
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247320,
+      "name": "Strawberry Fields Forever - Remastered",
+      "url": "https://open.spotify.com/track/5EuraV2jbqB15ihd3d2Hex"
+    },
+    {
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247320,
+      "name": "Strawberry Fields Forever - Remastered 2009",
+      "url": "https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158853,
+      "name": "Taxman - Remastered",
+      "url": "https://open.spotify.com/track/37ySfQ411eeAGzzjd6zsrT"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158853,
+      "name": "Taxman - Remastered 2009",
+      "url": "https://open.spotify.com/track/4BRkPBUxOYffM2QXVlq7aC"
+    },
+    {
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218186,
+      "name": "The Long And Winding Road - Remastered 2009",
+      "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219440,
+      "name": "The Long And Winding Road - Remastered 2015",
+      "url": "https://open.spotify.com/track/0Oroc0HXQaxs8ONgI7dLnw"
+    },
+    {
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189680,
+      "name": "Ticket To Ride - Remastered",
+      "url": "https://open.spotify.com/track/2zO5cQdHLBOPlnQqWeNCFM"
+    },
+    {
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Ticket To Ride - Remastered 2009",
+      "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191160,
+      "name": "Ticket To Ride - Remastered 2009",
+      "url": "https://open.spotify.com/track/55RzZKWf4ICmLH4ulzkXNG"
+    },
+    {
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133506,
+      "name": "Till There Was You - Remastered",
+      "url": "https://open.spotify.com/track/4w52uloVZcKSDRXB73Pi66"
+    },
+    {
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133506,
+      "name": "Till There Was You - Remastered 2009",
+      "url": "https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm"
+    },
+    {
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered",
+      "url": "https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD"
+    },
+    {
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "album": {
+        "name": "The Beatles",
+        "url": "https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285280,
+      "name": "While My Guitar Gently Weeps - 2018 Mix",
+      "url": "https://open.spotify.com/track/0ZqSsO2xoVvcrhpiRuqCmt"
+    },
+    {
+      "album": {
+        "name": "The Beatles",
+        "url": "https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101733,
+      "name": "Why Don't We Do It In The Road? - 2018 Mix",
+      "url": "https://open.spotify.com/track/6CD4ZmCgYyiECTOWjm5LqC"
+    },
+    {
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165293,
+      "name": "With A Little Help From My Friends - Remastered 2017",
+      "url": "https://open.spotify.com/track/08XKCwMrwEAyyfTCTGkkhg"
+    },
+    {
+      "album": {
+        "name": "Yellow Submarine (Remastered)",
+        "url": "https://open.spotify.com/album/47bcKzmKgmMPHXNVOWpLiu"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159720,
+      "name": "Yellow Submarine - Remastered",
+      "url": "https://open.spotify.com/track/6NqtddM4j4X9dG75yOmy0S"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158880,
+      "name": "Yellow Submarine - Remastered 2009",
+      "url": "https://open.spotify.com/track/50xwQXPtfNZFKFeZ0XePWc"
+    },
+    {
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 125666,
+      "name": "Yesterday - Remastered",
+      "url": "https://open.spotify.com/track/1e0hllQ23AG0QGFgezgLOq"
+    },
+    {
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 125533,
+      "name": "Yesterday - Remastered 2009",
+      "url": "https://open.spotify.com/track/3iD2CCv5bsJRIaqJRYD0uJ"
+    },
+    {
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125666,
+      "name": "Yesterday - Remastered 2009",
+      "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
+    },
+    {
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129120,
+      "name": "You've Got To Hide Your Love Away - Remastered",
+      "url": "https://open.spotify.com/track/6pTIIBntNSvDeUdZS3E8vz"
+    },
+    {
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129119,
+      "name": "You've Got To Hide Your Love Away - Remastered 2009",
+      "url": "https://open.spotify.com/track/4F1AgKpuFRMLEgtPETVwZk"
+    },
+    {
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148413,
+      "name": "Your Mother Should Know - Remastered",
+      "url": "https://open.spotify.com/track/61iJ2np62qzaMdEcGvjICc"
+    },
+    {
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148413,
+      "name": "Your Mother Should Know - Remastered 2009",
+      "url": "https://open.spotify.com/track/1dxbAIfCASqv6jix2R1Taj"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYHkSks5rujC"
 }

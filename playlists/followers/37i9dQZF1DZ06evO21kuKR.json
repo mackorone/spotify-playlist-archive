@@ -1,430 +1,1973 @@
 {
-  "2022-10-29": 64949,
-  "2022-10-30": 64973,
-  "2022-10-31": 65002,
-  "2022-11-01": 65029,
-  "2022-11-02": 65066,
-  "2022-11-03": 65101,
-  "2022-11-04": 65144,
-  "2022-11-05": 65176,
-  "2022-11-06": 65219,
-  "2022-11-07": 65248,
-  "2022-11-08": 65272,
-  "2022-11-09": 65295,
-  "2022-11-10": 65337,
-  "2022-11-11": 65396,
-  "2022-11-12": 65446,
-  "2022-11-13": 65481,
-  "2022-11-14": 65520,
-  "2022-11-15": 65556,
-  "2022-11-16": 65593,
-  "2022-11-17": 65620,
-  "2022-11-18": 65630,
-  "2022-11-19": 65643,
-  "2022-11-20": 65681,
-  "2022-11-21": 65711,
-  "2022-11-22": 65741,
-  "2022-11-23": 65782,
-  "2022-11-24": 65860,
-  "2022-11-25": 65947,
-  "2022-11-26": 65986,
-  "2022-11-27": 66042,
-  "2022-11-28": 66084,
-  "2022-11-29": 66115,
-  "2022-11-30": 66167,
-  "2022-12-01": 66212,
-  "2022-12-02": 66235,
-  "2022-12-03": 66291,
-  "2022-12-04": 66337,
-  "2022-12-05": 66388,
-  "2022-12-06": 66420,
-  "2022-12-07": 66470,
-  "2022-12-08": 66520,
-  "2022-12-09": 66575,
-  "2022-12-10": 66617,
-  "2022-12-11": 66661,
-  "2022-12-12": 66726,
-  "2022-12-13": 66758,
-  "2022-12-14": 66819,
-  "2022-12-15": 66883,
-  "2022-12-16": 66929,
-  "2022-12-17": 66979,
-  "2022-12-18": 67035,
-  "2022-12-19": 67071,
-  "2022-12-20": 67149,
-  "2022-12-21": 67149,
-  "2022-12-22": 67195,
-  "2022-12-24": 67305,
-  "2022-12-25": 67359,
-  "2022-12-26": 67409,
-  "2022-12-27": 67456,
-  "2022-12-28": 67494,
-  "2022-12-29": 67529,
-  "2022-12-30": 67588,
-  "2022-12-31": 67640,
-  "2023-01-01": 67696,
-  "2023-01-02": 67749,
-  "2023-01-03": 67809,
-  "2023-01-04": 67860,
-  "2023-01-05": 67900,
-  "2023-01-06": 67975,
-  "2023-01-07": 68055,
-  "2023-01-08": 68069,
-  "2023-01-09": 68129,
-  "2023-01-10": 68211,
-  "2023-01-11": 68285,
-  "2023-01-12": 68365,
-  "2023-01-13": 68467,
-  "2023-01-14": 68613,
-  "2023-01-15": 68626,
-  "2023-01-16": 68695,
-  "2023-01-17": 68757,
-  "2023-01-18": 68828,
-  "2023-01-19": 68893,
-  "2023-01-20": 68942,
-  "2023-01-21": 68990,
-  "2023-01-22": 69022,
-  "2023-01-23": 69042,
-  "2023-01-24": 69084,
-  "2023-01-25": 69132,
-  "2023-01-26": 69169,
-  "2023-01-27": 69204,
-  "2023-01-28": 69233,
-  "2023-01-29": 69270,
-  "2023-01-30": 69303,
-  "2023-01-31": 69303,
-  "2023-02-01": 69378,
-  "2023-02-02": 69412,
-  "2023-02-03": 69443,
-  "2023-02-04": 69486,
-  "2023-02-05": 69523,
-  "2023-02-06": 69564,
-  "2023-02-07": 69603,
-  "2023-02-08": 69683,
-  "2023-02-09": 69683,
-  "2023-02-10": 69722,
-  "2023-02-11": 69755,
-  "2023-02-12": 69825,
-  "2023-02-13": 69861,
-  "2023-02-14": 69861,
-  "2023-02-15": 69894,
-  "2023-02-16": 69919,
-  "2023-02-17": 69959,
-  "2023-02-18": 70036,
-  "2023-02-19": 70044,
-  "2023-02-20": 70065,
-  "2023-02-21": 70106,
-  "2023-02-22": 70145,
-  "2023-02-23": 70183,
-  "2023-02-24": 70227,
-  "2023-02-25": 70264,
-  "2023-02-26": 70288,
-  "2023-02-27": 70342,
-  "2023-02-28": 70342,
-  "2023-03-01": 70380,
-  "2023-03-02": 70417,
-  "2023-03-03": 70449,
-  "2023-03-04": 70496,
-  "2023-03-05": 70569,
-  "2023-03-06": 70569,
-  "2023-03-07": 70619,
-  "2023-03-08": 70648,
-  "2023-03-09": 70677,
-  "2023-03-10": 70717,
-  "2023-03-11": 70744,
-  "2023-03-12": 70781,
-  "2023-03-13": 70809,
-  "2023-03-14": 70831,
-  "2023-03-15": 70867,
-  "2023-03-16": 70867,
-  "2023-03-17": 70867,
-  "2023-03-18": 70975,
-  "2023-03-19": 70975,
-  "2023-03-20": 71035,
-  "2023-03-21": 71073,
-  "2023-03-22": 71095,
-  "2023-03-23": 71136,
-  "2023-03-24": 71136,
-  "2023-03-25": 71203,
-  "2023-03-26": 71237,
-  "2023-03-27": 71277,
-  "2023-03-28": 71314,
-  "2023-03-29": 71353,
-  "2023-03-30": 71428,
-  "2023-03-31": 71428,
-  "2023-04-01": 71456,
-  "2023-04-02": 71494,
-  "2023-04-03": 71520,
-  "2023-04-04": 71562,
-  "2023-04-05": 71591,
-  "2023-04-06": 71636,
-  "2023-04-07": 71680,
-  "2023-04-09": 71757,
-  "2023-04-10": 71771,
-  "2023-04-11": 71840,
-  "2023-04-12": 71840,
-  "2023-04-13": 71880,
-  "2023-04-14": 71923,
-  "2023-04-15": 71978,
-  "2023-04-16": 72005,
-  "2023-04-17": 72035,
-  "2023-04-18": 72063,
-  "2023-04-19": 72089,
-  "2023-04-20": 72128,
-  "2023-04-21": 72164,
-  "2023-04-22": 72223,
-  "2023-04-23": 72275,
-  "2023-04-24": 72299,
-  "2023-04-25": 72339,
-  "2023-04-26": 72373,
-  "2023-04-27": 72414,
-  "2023-04-28": 72482,
-  "2023-04-29": 72533,
-  "2023-04-30": 72576,
-  "2023-05-01": 72616,
-  "2023-05-02": 72656,
-  "2023-05-03": 72692,
-  "2023-05-04": 72736,
-  "2023-05-05": 72783,
-  "2023-05-06": 72813,
-  "2023-05-07": 72848,
-  "2023-05-08": 72879,
-  "2023-05-09": 72920,
-  "2023-05-10": 72954,
-  "2023-05-11": 72995,
-  "2023-05-12": 73038,
-  "2023-05-13": 73073,
-  "2023-05-14": 73100,
-  "2023-05-15": 73136,
-  "2023-05-16": 73169,
-  "2023-05-17": 73206,
-  "2023-05-18": 73245,
-  "2023-05-19": 73289,
-  "2023-05-20": 73358,
-  "2023-05-21": 73358,
-  "2023-05-22": 73358,
-  "2023-05-23": 73411,
-  "2023-05-24": 73478,
-  "2023-05-25": 73494,
-  "2023-05-26": 73539,
-  "2023-05-27": 73590,
-  "2023-05-28": 73654,
-  "2023-05-29": 73654,
-  "2023-05-30": 73733,
-  "2023-05-31": 73766,
-  "2023-06-01": 73818,
-  "2023-06-02": 73868,
-  "2023-06-03": 73929,
-  "2023-06-04": 73995,
-  "2023-06-05": 74039,
-  "2023-06-06": 74096,
-  "2023-06-07": 74132,
-  "2023-06-08": 74193,
-  "2023-06-09": 74238,
-  "2023-06-10": 74323,
-  "2023-06-11": 74407,
-  "2023-06-12": 74484,
-  "2023-06-13": 74548,
-  "2023-06-14": 74608,
-  "2023-06-15": 74683,
-  "2023-06-16": 74750,
-  "2023-06-17": 74816,
-  "2023-06-18": 74884,
-  "2023-06-19": 74945,
-  "2023-06-20": 75004,
-  "2023-06-21": 75070,
-  "2023-06-22": 75143,
-  "2023-06-23": 75195,
-  "2023-06-24": 75257,
-  "2023-06-25": 75310,
-  "2023-06-26": 75366,
-  "2023-06-27": 75415,
-  "2023-06-28": 75473,
-  "2023-06-29": 75534,
-  "2023-06-30": 75583,
-  "2023-07-01": 75717,
-  "2023-07-02": 75717,
-  "2023-07-03": 75768,
-  "2023-07-04": 75826,
-  "2023-07-05": 75887,
-  "2023-07-06": 76024,
-  "2023-07-07": 76024,
-  "2023-07-08": 76024,
-  "2023-07-09": 76146,
-  "2023-07-10": 76197,
-  "2023-07-11": 76229,
-  "2023-07-12": 76304,
-  "2023-07-13": 76364,
-  "2023-07-14": 76404,
-  "2023-07-15": 76451,
-  "2023-07-16": 76511,
-  "2023-07-17": 76564,
-  "2023-07-18": 76626,
-  "2023-07-19": 76681,
-  "2023-07-20": 76753,
-  "2023-07-21": 76812,
-  "2023-07-22": 76874,
-  "2023-07-23": 76946,
-  "2023-07-24": 76995,
-  "2023-07-25": 77050,
-  "2023-07-26": 77105,
-  "2023-07-27": 77165,
-  "2023-07-28": 77224,
-  "2023-07-29": 77290,
-  "2023-07-30": 77359,
-  "2023-07-31": 77425,
-  "2023-08-01": 77504,
-  "2023-08-02": 77545,
-  "2023-08-03": 77604,
-  "2023-08-04": 77656,
-  "2023-08-05": 77713,
-  "2023-08-06": 77810,
-  "2023-08-07": 77810,
-  "2023-08-08": 77859,
-  "2023-08-09": 77908,
-  "2023-08-10": 77955,
-  "2023-08-11": 78014,
-  "2023-08-12": 78014,
-  "2023-08-13": 78014,
-  "2023-08-14": 78146,
-  "2023-08-15": 78146,
-  "2023-08-16": 78146,
-  "2023-08-17": 78146,
-  "2023-08-18": 78146,
-  "2023-08-19": 78146,
-  "2023-08-20": 78449,
-  "2023-08-21": 78449,
-  "2023-08-22": 78528,
-  "2023-08-23": 78528,
-  "2023-08-24": 78528,
-  "2023-08-25": 78528,
-  "2023-08-26": 78729,
-  "2023-08-27": 78729,
-  "2023-08-28": 78813,
-  "2023-08-29": 78813,
-  "2023-08-30": 78813,
-  "2023-08-31": 78935,
-  "2023-09-01": 78990,
-  "2023-09-02": 78990,
-  "2023-09-03": 79106,
-  "2023-09-04": 79106,
-  "2023-09-05": 79106,
-  "2023-09-06": 79281,
-  "2023-09-07": 79281,
-  "2023-09-08": 79281,
-  "2023-09-09": 79281,
-  "2023-09-10": 79534,
-  "2023-09-11": 79534,
-  "2023-09-12": 79534,
-  "2023-09-13": 79707,
-  "2023-09-14": 79707,
-  "2023-09-15": 79707,
-  "2023-09-16": 79837,
-  "2023-09-17": 79837,
-  "2023-09-18": 79837,
-  "2023-09-19": 79960,
-  "2023-09-20": 79960,
-  "2023-09-21": 79960,
-  "2023-09-22": 80124,
-  "2023-09-23": 80124,
-  "2023-09-24": 80124,
-  "2023-09-25": 80124,
-  "2023-09-26": 80319,
-  "2023-09-27": 80319,
-  "2023-09-28": 80319,
-  "2023-09-29": 80319,
-  "2023-09-30": 80319,
-  "2023-10-01": 80319,
-  "2023-10-02": 80319,
-  "2023-10-03": 80319,
-  "2023-10-04": 80319,
-  "2023-10-05": 80716,
-  "2023-10-06": 80716,
-  "2023-10-07": 80716,
-  "2023-10-08": 80716,
-  "2023-10-09": 80716,
-  "2023-10-10": 80716,
-  "2023-10-11": 80944,
-  "2023-10-12": 80944,
-  "2023-10-13": 80944,
-  "2023-10-14": 80944,
-  "2023-10-15": 80944,
-  "2023-10-16": 80944,
-  "2023-10-17": 80944,
-  "2023-10-18": 80944,
-  "2023-10-19": 80944,
-  "2023-10-20": 80944,
-  "2023-10-21": 80944,
-  "2023-10-22": 80944,
-  "2023-10-23": 80944,
-  "2023-10-24": 80944,
-  "2023-10-25": 80944,
-  "2023-10-26": 80944,
-  "2023-10-27": 80944,
-  "2023-10-28": 80944,
-  "2023-10-29": 80944,
-  "2023-10-30": 80944,
-  "2023-10-31": 80944,
-  "2023-11-01": 80944,
-  "2023-11-02": 80944,
-  "2023-11-03": 80944,
-  "2023-11-04": 80944,
-  "2023-11-05": 80944,
-  "2023-11-06": 80944,
-  "2023-11-07": 80944,
-  "2023-11-08": 80944,
-  "2023-11-09": 80944,
-  "2023-11-10": 80944,
-  "2023-11-11": 81871,
-  "2023-11-12": 81871,
-  "2023-11-13": 81871,
-  "2023-11-14": 81871,
-  "2023-11-15": 81871,
-  "2023-11-16": 81871,
-  "2023-11-17": 81871,
-  "2023-11-18": 81871,
-  "2023-11-19": 81871,
-  "2023-11-20": 81871,
-  "2023-11-21": 81871,
-  "2023-11-22": 81871,
-  "2023-11-23": 81871,
-  "2023-11-24": 81871,
-  "2023-11-25": 81871,
-  "2023-11-26": 81871,
-  "2023-11-27": 81871,
-  "2023-11-28": 81871,
-  "2023-11-29": 81871,
-  "2023-11-30": 81871,
-  "2023-12-01": 81871,
-  "2023-12-02": 81871,
-  "2023-12-03": 81871,
-  "2023-12-04": 81871,
-  "2023-12-05": 81871,
-  "2023-12-06": 81871,
-  "2023-12-07": 81871,
-  "2023-12-08": 81871,
-  "2023-12-09": 81871,
-  "2023-12-10": 81871,
-  "2023-12-11": 81871,
-  "2023-12-12": 81871,
-  "2023-12-13": 81871,
-  "2023-12-14": 82849,
-  "2023-12-15": 82869,
-  "2023-12-16": 82909,
-  "2023-12-17": 82935,
-  "2023-12-18": 82956,
-  "2023-12-19": 82974,
-  "2023-12-20": 83007,
-  "2023-12-21": 83040,
-  "2023-12-22": 83060,
-  "2023-12-23": 83091,
-  "2023-12-24": 83108,
-  "2023-12-25": 83138,
-  "2023-12-26": 83155,
-  "2023-12-27": 83189,
-  "2023-12-30": 83282,
-  "2023-12-31": 83305,
-  "2024-01-01": 83339,
-  "2024-01-02": 83366,
-  "2024-01-03": 83385
+  "2024-01-17": 83561,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
+  "name": "This Is Moneybagg Yo",
+  "tracks": [
+    {
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128009,
+      "name": "50/50 (Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113826,
+      "name": "A Gangsta\u2019s Pain",
+      "url": "https://open.spotify.com/track/3bnM8xTlWUoaLh6JLogbw8"
+    },
+    {
+      "album": {
+        "name": "Welcome to O'Block",
+        "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 163760,
+      "name": "Ain't See It Coming (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH"
+    },
+    {
+      "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143957,
+      "name": "All Dat (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9"
+    },
+    {
+      "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169186,
+      "name": "All Of A Sudden",
+      "url": "https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA"
+    },
+    {
+      "album": {
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 168856,
+      "name": "Andale",
+      "url": "https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Life Or Death (Deluxe)",
+        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 156981,
+      "name": "Balloons (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
+    },
+    {
+      "album": {
+        "name": "Big 14 (feat. Offset & Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 247458,
+      "name": "Big 14 (feat. Offset & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw"
+    },
+    {
+      "album": {
+        "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+        "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 151272,
+      "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+      "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+    },
+    {
+      "album": {
+        "name": "Big League (with Yo Gotti, Moneybagg Yo, CMG The Label feat. Mozzy & Lil Poppa)",
+        "url": "https://open.spotify.com/album/0F7yQR5SY5IJ9G8xUg15h6"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 163876,
+      "name": "Big League (with Yo Gotti, Moneybagg Yo, CMG The Label feat. Mozzy & Lil Poppa)",
+      "url": "https://open.spotify.com/track/4i32zrLpygBg5Ruy1uqN78"
+    },
+    {
+      "album": {
+        "name": "Black Visa (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5N0BPcMSKk0vVeq6bTf8KI"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 193812,
+      "name": "Black Visa (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2HcxahHRWSkovC3pqGFa0G"
+    },
+    {
+      "album": {
+        "name": "90 Days",
+        "url": "https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 193812,
+      "name": "Black Visa (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/6PfBLANEsu1Xz5fQeFILkp"
+    },
+    {
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
+    },
+    {
+      "album": {
+        "name": "Public Housing",
+        "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184067,
+      "name": "Certified Dripper 2 (with MoneyBagg Yo)",
+      "url": "https://open.spotify.com/track/20sAxIvSvNJxcB8XPHm7ir"
+    },
+    {
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 211006,
+      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
+    },
+    {
+      "album": {
+        "name": "CODE (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192427,
+      "name": "CODE (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
+    },
+    {
+      "album": {
+        "name": "43VA HEARTLESS",
+        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 173396,
+      "name": "Dior (feat. Gunna)",
+      "url": "https://open.spotify.com/track/683tYxiTlWzupDpaZ2mCv4"
+    },
+    {
+      "album": {
+        "name": "2 Federal",
+        "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204557,
+      "name": "Doin 2 Much",
+      "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
+    },
+    {
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167332,
+      "name": "Don't Kno",
+      "url": "https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV"
+    },
+    {
+      "album": {
+        "name": "Big Doodie Lo",
+        "url": "https://open.spotify.com/album/76Eiy74blIlWShse7Iu8GL"
+      },
+      "artists": [
+        {
+          "name": "Doodie Lo",
+          "url": "https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141349,
+      "name": "Don't Worry (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/0jYuyvmZaMNUDQicdPXNMy"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "F My BM",
+      "url": "https://open.spotify.com/track/4ZXJVpAW39Qc1a0wCDoMx8"
+    },
+    {
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181773,
+      "name": "Fall Down (feat. Kevin Gates & Rvssian)",
+      "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
+    },
+    {
+      "album": {
+        "name": "Hunger Games 3",
+        "url": "https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212071,
+      "name": "Feel The Same Way (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5nh5iMaYliOmgrhohSNOtJ"
+    },
+    {
+      "album": {
+        "name": "Gangsta Art",
+        "url": "https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Lehla Samia",
+          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
+        },
+        {
+          "name": "Blac Youngsta",
+          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 298410,
+      "name": "Gangsta Art (Yo Gotti, Moneybagg Yo feat. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta)",
+      "url": "https://open.spotify.com/track/63u4taM8CTklMQhrcV3via"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123583,
+      "name": "GO! (with BIG30)",
+      "url": "https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG"
+    },
+    {
+      "album": {
+        "name": "43VA HEARTLESS",
+        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 151714,
+      "name": "Headstrong (feat. Kevin Gates)",
+      "url": "https://open.spotify.com/track/0Tuxvc11PSg4SyImVQYO4J"
+    },
+    {
+      "album": {
+        "name": "7220 (Deluxe)",
+        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134907,
+      "name": "Hear It Back (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1fz22sUZlpL9jZOWz02wws"
+    },
+    {
+      "album": {
+        "name": "Expensive Pain",
+        "url": "https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150527,
+      "name": "Hot (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5qyZ6LcHvBiIHLaoED8K4g"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 120736,
+      "name": "Hurt Man",
+      "url": "https://open.spotify.com/track/4UvXJmZ5Do77hqyNKfDRgm"
+    },
+    {
+      "album": {
+        "name": "Life Of A Hotboii",
+        "url": "https://open.spotify.com/album/02sXWcIVVNCGr6WE30UJyZ"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191926,
+      "name": "I Really (feat. 42 Dugg & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7qX5T4glBvqHlRxEZvQbvc"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 144032,
+      "name": "Just Say Det",
+      "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142451,
+      "name": "Keep It Low (feat. Future)",
+      "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
+    },
+    {
+      "album": {
+        "name": "Time Served (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Big Homiie G",
+          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 170423,
+      "name": "Kut Like Dat (feat. Big Homiie G)",
+      "url": "https://open.spotify.com/track/0y2KEjIeEWPK0UUEwkdUJ7"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106379,
+      "name": "Least Ian Lie",
+      "url": "https://open.spotify.com/track/2xxGU6YRlvN9yuvmW0KoJZ"
+    },
+    {
+      "album": {
+        "name": "Blockchain",
+        "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195153,
+      "name": "LLC (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89616,
+      "name": "Love It Here",
+      "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
+    },
+    {
+      "album": {
+        "name": "Time Served (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183318,
+      "name": "Me Vs Me",
+      "url": "https://open.spotify.com/track/1lUTmmPMAsxZBR2iK9CKDF"
+    },
+    {
+      "album": {
+        "name": "I Showed U So",
+        "url": "https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 191221,
+      "name": "Mind My Business (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/0FfSjdEzSiHGrYel609M4n"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142437,
+      "name": "Motion God",
+      "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
+    },
+    {
+      "album": {
+        "name": "Motion God",
+        "url": "https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 143147,
+      "name": "Motion God",
+      "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
+    },
+    {
+      "album": {
+        "name": "Time Served (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 199495,
+      "name": "No Chill (feat. Lil Baby & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/0K5a9PJkMiDXQZ58FY2w9H"
+    },
+    {
+      "album": {
+        "name": "Bet On Me",
+        "url": "https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 174758,
+      "name": "No Cutt (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2pQ4sMgskv2XeGCInss0qB"
+    },
+    {
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188606,
+      "name": "No Sucker (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
+    },
+    {
+      "album": {
+        "name": "Now or Neva (feat. Moneybagg Yo & YTB Fatt)",
+        "url": "https://open.spotify.com/album/3kDxLToBvaHZetsjwy605w"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104727,
+      "name": "Now or Neva (feat. Moneybagg Yo & YTB Fatt)",
+      "url": "https://open.spotify.com/track/7rx8jrF9kvwIr2lQIMPZLG"
+    },
+    {
+      "album": {
+        "name": "Ocean Spray",
+        "url": "https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 164776,
+      "name": "Ocean Spray",
+      "url": "https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "Ocean Spray",
+      "url": "https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt"
+    },
+    {
+      "album": {
+        "name": "On Wat U On (with GloRilla)",
+        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143533,
+      "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
+    },
+    {
+      "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 226346,
+      "name": "Out Of The Streets (feat. Moneybagg Yo & Hotboii)",
+      "url": "https://open.spotify.com/track/1insg7g7zxg7KORXUGwExw"
+    },
+    {
+      "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119939,
+      "name": "Pistol By Da Bed",
+      "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
+    },
+    {
+      "album": {
+        "name": "King Of Killbranch",
+        "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 165890,
+      "name": "Pressin' (feat. Quavo & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7Hveci3Jt42pvmRVL77kve"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 168135,
+      "name": "Projects",
+      "url": "https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi"
+    },
+    {
+      "album": {
+        "name": "PTPOM 2.0",
+        "url": "https://open.spotify.com/album/6Cb1ZozVRmOw4HlD4UY92u"
+      },
+      "artists": [
+        {
+          "name": "Mohead Mike",
+          "url": "https://open.spotify.com/artist/79Sxz4bJeibdabevi9PAVi"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162168,
+      "name": "PTPOM 2.0",
+      "url": "https://open.spotify.com/track/5sRNp1lJG6LBS1mQgDZOAb"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Quickie",
+      "url": "https://open.spotify.com/track/2kQJCELd0jWCTOgCDAauvj"
+    },
+    {
+      "album": {
+        "name": "Quickie",
+        "url": "https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 187826,
+      "name": "Quickie",
+      "url": "https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep"
+    },
+    {
+      "album": {
+        "name": "King Of Killbranch",
+        "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Big Homiie G",
+          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 139539,
+      "name": "Red Key (feat. Moneybagg Yo & Big Homiie G)",
+      "url": "https://open.spotify.com/track/623wWKHOUqSEdW3yfWrNeD"
+    },
+    {
+      "album": {
+        "name": "43VA HEARTLESS",
+        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162809,
+      "name": "Relentless Again",
+      "url": "https://open.spotify.com/track/6uWaErhSQM176jluMQCuD7"
+    },
+    {
+      "album": {
+        "name": "Rocky Road (with Kodak Black)",
+        "url": "https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178948,
+      "name": "Rocky Road (with Kodak Black)",
+      "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
+    },
+    {
+      "album": {
+        "name": "Rookie Of The Year",
+        "url": "https://open.spotify.com/album/24TL4BB4I6PlLw4Qfc1FVG"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120110,
+      "name": "Rookie Of The Year",
+      "url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR"
+    },
+    {
+      "album": {
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232048,
+      "name": "Run It Up (feat. Offset & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
+    },
+    {
+      "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155168,
+      "name": "Said Sum",
+      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
+    },
+    {
+      "album": {
+        "name": "Scared Money",
+        "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain: Reloaded",
+        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165772,
+      "name": "Scorpio",
+      "url": "https://open.spotify.com/track/0BFGDkrXAneskCJdudSCro"
+    },
+    {
+      "album": {
+        "name": "See Wat I\u2019m Sayin",
+        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146732,
+      "name": "See Wat I\u2019m Sayin",
+      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Sholl Is",
+      "url": "https://open.spotify.com/track/15NWXCx17rtI7pSP2HZjVN"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 122728,
+      "name": "Shottas (Lala)",
+      "url": "https://open.spotify.com/track/2Ox2c1WEJDeQCHTXPE3YKM"
+    },
+    {
+      "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142049,
+      "name": "Speak 4 Em",
+      "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"
+    },
+    {
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Special Remix (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI"
+    },
+    {
+      "album": {
+        "name": "Splash (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173161,
+      "name": "Splash (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
+    },
+    {
+      "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157480,
+      "name": "SRT (feat. BIG30 & Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
+    },
+    {
+      "album": {
+        "name": "Hall of Fame 2.0",
+        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108889,
+      "name": "Start Up Again (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/4O3bINhkGghgoKsOCr2HNz"
+    },
+    {
+      "album": {
+        "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
+        "url": "https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Blac Youngsta",
+          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 231085,
+      "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
+      "url": "https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 184489,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6kQIWvPDHKbwnjfdMEAMek"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain: Reloaded",
+        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133631,
+      "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
+      "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
+    },
+    {
+      "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 225350,
+      "name": "Talk To Me Nice (Feat. Meek Mill, Moneybagg Yo & Blxst)",
+      "url": "https://open.spotify.com/track/1FayZGI8Bm3R0sKWNsm1gV"
+    },
+    {
+      "album": {
+        "name": "Fed Baby\u2019s",
+        "url": "https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134675,
+      "name": "Tampering With Evidence",
+      "url": "https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 216000,
+      "name": "They Say",
+      "url": "https://open.spotify.com/track/5fjE21AbBw1O1G0q5dqjbI"
+    },
+    {
+      "album": {
+        "name": "Tick (Remix)",
+        "url": "https://open.spotify.com/album/4n9oScrvBtZEtPZMc4MoRI"
+      },
+      "artists": [
+        {
+          "name": "Big Homiie G",
+          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 252437,
+      "name": "Tick - Remix",
+      "url": "https://open.spotify.com/track/1FSDF18L99Lh99pbyhy1yH"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136899,
+      "name": "Time Today",
+      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136366,
+      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
+    },
+    {
+      "album": {
+        "name": "Too Hot (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 216357,
+      "name": "Too Hot (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9"
+    },
+    {
+      "album": {
+        "name": "Too Much (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 188869,
+      "name": "Too Much (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
+    },
+    {
+      "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "Trust Nothing (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
+    },
+    {
+      "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164753,
+      "name": "U Played (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain: Reloaded",
+        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 131005,
+      "name": "Wat Be Wrong??",
+      "url": "https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB"
+    },
+    {
+      "album": {
+        "name": "43VA HEARTLESS",
+        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 195111,
+      "name": "Wat3va I\u2019m Wit",
+      "url": "https://open.spotify.com/track/0Ys4jRPeQWfe4mMmoTgK9r"
+    },
+    {
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 186845,
+      "name": "Where Ya Bih @",
+      "url": "https://open.spotify.com/track/0p6sfWcC7BxC8Pj2DP8Vfr"
+    },
+    {
+      "album": {
+        "name": "WIG (with Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5tZ8u9BGc4sSOlwWYsAWPB"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 177986,
+      "name": "WIG (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3BN9oswkyJlCRzCQt1Gqug"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21kuKR"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 
 > Your queens are here Pink Panda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,737 likes - 135 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,778 likes - 135 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 | 54 | [Oh Yes](https://open.spotify.com/track/7pwScoWFAQYDuU2AX4hSNo) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Revolution](https://open.spotify.com/album/36DcKlfLytuKbpx4ELQKRf) | 3:23 |
 | 55 | [Miss U](https://open.spotify.com/track/72rqUkSp9jS29IrVo79V41) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Dear](https://open.spotify.com/album/6gIu2MCKFkXziZ6GL02MsX) | 4:06 |
 | 56 | [Evergreen](https://open.spotify.com/track/2sIMnDqSPF25zMTJACgUhi) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink UP](https://open.spotify.com/album/4hA6wnrxDRP4hkCrwBoy44) | 3:36 |
-| 57 | [You're My Garden](https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Strong Woman Do Bong Soon, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb) | 4:03 |
+| 57 | [You're My Garden](https://open.spotify.com/track/7msbS3OKtBn1EKDzzS6TZy) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Strong Woman Do Bong Soon, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5EGK6MNHsQiVs2HRnAHiqr) | 4:03 |
 | 58 | [Be With Me \(Duet\. 10cm\)](https://open.spotify.com/track/4mXANk6U0t0NbrMQCoRNEs) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Be With Me \(Duet\. 10cm\)](https://open.spotify.com/album/0ly98tyVLAitL5zpHF8SAF) | 3:36 |
 | 59 | [처음 느껴본 이별 \(FEAT\. 곽진언\)](https://open.spotify.com/track/6vTeq3LUudbmObtSWEqIMP) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [The Space](https://open.spotify.com/album/76L4Nk0YReykAK1z9sXh5x) | 4:04 |
 | 60 | [It's OK](https://open.spotify.com/track/4w2mDlYymPP5pJTa5i4vxo) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Dream](https://open.spotify.com/album/2G6b8wax6wLnR6zMixJCfA) | 3:10 |

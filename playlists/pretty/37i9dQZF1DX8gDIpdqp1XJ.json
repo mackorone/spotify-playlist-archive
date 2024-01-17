@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 878216,
+  "num_followers": 876608,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTE0NTJhODY5YTM3YjE0YmE4MDFiMTllM2I3ZWQ1MmRiYTZhODJk",
+  "snapshot_id": "MCxmMzBkYTI1ZDg1ODc4N2IzZjM5YzVhZGJmZjllNmYyYTE5MmQwYWYx",
   "tracks": [
     {
       "added_at": "2024-01-02 16:16:43",
@@ -115,6 +115,22 @@
       "duration_ms": 139039,
       "name": "Lust For Time",
       "url": "https://open.spotify.com/track/6ZvZ26Aq1EqyPw2zitkVLZ"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "My Best Friend",
+        "url": "https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "My Best Friend",
+      "url": "https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2"
     },
     {
       "added_at": "2024-01-02 16:16:43",
@@ -587,22 +603,6 @@
       "duration_ms": 279480,
       "name": "Sink or Swim",
       "url": "https://open.spotify.com/track/1lddVTsxR1k0waF1NqTbbn"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Tabadaboum",
-        "url": "https://open.spotify.com/album/0ajc0Cy1f3XqMxLojKZY1l"
-      },
-      "artists": [
-        {
-          "name": "Japanese Television",
-          "url": "https://open.spotify.com/artist/5LLn18vxU1UTY1ypouVGNW"
-        }
-      ],
-      "duration_ms": 212918,
-      "name": "Tabadaboum",
-      "url": "https://open.spotify.com/track/7qzj5s3D7Vo0FlEPqPOrD3"
     },
     {
       "added_at": "2023-10-10 18:55:59",

@@ -1,178 +1,393 @@
 {
-  "2023-07-10": 634,
-  "2023-07-11": 633,
-  "2023-07-12": 633,
-  "2023-07-13": 633,
-  "2023-07-14": 633,
-  "2023-07-15": 633,
-  "2023-07-16": 634,
-  "2023-07-17": 634,
-  "2023-07-18": 635,
-  "2023-07-19": 635,
-  "2023-07-20": 636,
-  "2023-07-21": 636,
-  "2023-07-22": 635,
-  "2023-07-23": 637,
-  "2023-07-24": 637,
-  "2023-07-25": 638,
-  "2023-07-26": 638,
-  "2023-07-27": 638,
-  "2023-07-28": 639,
-  "2023-07-29": 638,
-  "2023-07-30": 638,
-  "2023-07-31": 638,
-  "2023-08-01": 638,
-  "2023-08-02": 638,
-  "2023-08-03": 638,
-  "2023-08-04": 639,
-  "2023-08-05": 641,
-  "2023-08-06": 643,
-  "2023-08-07": 643,
-  "2023-08-08": 643,
-  "2023-08-09": 644,
-  "2023-08-10": 644,
-  "2023-08-11": 644,
-  "2023-08-12": 646,
-  "2023-08-13": 647,
-  "2023-08-14": 646,
-  "2023-08-15": 647,
-  "2023-08-16": 647,
-  "2023-08-17": 647,
-  "2023-08-18": 649,
-  "2023-08-19": 649,
-  "2023-08-20": 650,
-  "2023-08-21": 651,
-  "2023-08-22": 652,
-  "2023-08-23": 652,
-  "2023-08-24": 652,
-  "2023-08-25": 652,
-  "2023-08-26": 652,
-  "2023-08-27": 652,
-  "2023-08-28": 652,
-  "2023-08-29": 653,
-  "2023-08-30": 652,
-  "2023-08-31": 652,
-  "2023-09-01": 652,
-  "2023-09-02": 652,
-  "2023-09-03": 652,
-  "2023-09-04": 651,
-  "2023-09-05": 651,
-  "2023-09-06": 650,
-  "2023-09-07": 650,
-  "2023-09-08": 650,
-  "2023-09-09": 651,
-  "2023-09-10": 651,
-  "2023-09-11": 652,
-  "2023-09-12": 653,
-  "2023-09-13": 654,
-  "2023-09-14": 654,
-  "2023-09-15": 656,
-  "2023-09-16": 656,
-  "2023-09-17": 656,
-  "2023-09-18": 657,
-  "2023-09-19": 656,
-  "2023-09-20": 656,
-  "2023-09-21": 657,
-  "2023-09-22": 658,
-  "2023-09-23": 658,
-  "2023-09-24": 658,
-  "2023-09-25": 659,
-  "2023-09-26": 661,
-  "2023-09-27": 661,
-  "2023-09-28": 661,
-  "2023-09-29": 661,
-  "2023-09-30": 661,
-  "2023-10-01": 661,
-  "2023-10-02": 661,
-  "2023-10-03": 661,
-  "2023-10-04": 661,
-  "2023-10-05": 662,
-  "2023-10-06": 663,
-  "2023-10-07": 663,
-  "2023-10-08": 662,
-  "2023-10-09": 662,
-  "2023-10-10": 662,
-  "2023-10-11": 664,
-  "2023-10-12": 664,
-  "2023-10-13": 666,
-  "2023-10-14": 666,
-  "2023-10-15": 666,
-  "2023-10-16": 667,
-  "2023-10-17": 667,
-  "2023-10-18": 667,
-  "2023-10-19": 667,
-  "2023-10-20": 668,
-  "2023-10-21": 667,
-  "2023-10-22": 668,
-  "2023-10-23": 668,
-  "2023-10-24": 669,
-  "2023-10-25": 669,
-  "2023-10-26": 668,
-  "2023-10-27": 668,
-  "2023-10-28": 668,
-  "2023-10-29": 668,
-  "2023-10-30": 670,
-  "2023-10-31": 670,
-  "2023-11-01": 668,
-  "2023-11-02": 668,
-  "2023-11-03": 669,
-  "2023-11-04": 669,
-  "2023-11-05": 669,
-  "2023-11-06": 671,
-  "2023-11-07": 671,
-  "2023-11-08": 671,
-  "2023-11-09": 672,
-  "2023-11-10": 672,
-  "2023-11-11": 673,
-  "2023-11-12": 673,
-  "2023-11-13": 674,
-  "2023-11-14": 674,
-  "2023-11-15": 674,
-  "2023-11-16": 676,
-  "2023-11-17": 676,
-  "2023-11-18": 676,
-  "2023-11-19": 675,
-  "2023-11-20": 677,
-  "2023-11-21": 677,
-  "2023-11-22": 679,
-  "2023-11-23": 680,
-  "2023-11-24": 680,
-  "2023-11-25": 680,
-  "2023-11-26": 681,
-  "2023-11-27": 681,
-  "2023-11-28": 681,
-  "2023-11-29": 682,
-  "2023-11-30": 682,
-  "2023-12-01": 682,
-  "2023-12-02": 682,
-  "2023-12-03": 683,
-  "2023-12-04": 683,
-  "2023-12-05": 683,
-  "2023-12-06": 683,
-  "2023-12-07": 682,
-  "2023-12-08": 682,
-  "2023-12-09": 683,
-  "2023-12-10": 683,
-  "2023-12-11": 682,
-  "2023-12-12": 682,
-  "2023-12-13": 682,
-  "2023-12-14": 683,
-  "2023-12-15": 682,
-  "2023-12-16": 684,
-  "2023-12-17": 684,
-  "2023-12-18": 686,
-  "2023-12-19": 686,
-  "2023-12-20": 687,
-  "2023-12-21": 688,
-  "2023-12-22": 688,
-  "2023-12-23": 686,
-  "2023-12-24": 685,
-  "2023-12-25": 685,
-  "2023-12-26": 685,
-  "2023-12-27": 685,
-  "2023-12-30": 685,
-  "2023-12-31": 685,
-  "2024-01-01": 685,
-  "2024-01-02": 684,
-  "2024-01-03": 683
+  "2024-01-17": 685,
+  "date_first_scraped": "2023-07-10",
+  "description": "Mais que amigas, vizinhas! Ou\u00e7a as m\u00fasicas de 'Maldivas', estrelando Bruna Marquezine, Manu Gavassi e mais - s\u00f3 na Netflix.",
+  "name": "Maldivas Playlist Oficial",
+  "tracks": [
+    {
+      "album": {
+        "name": "7x na Semana",
+        "url": "https://open.spotify.com/album/7JFlYLbcgI7kPOUSDUJmZC"
+      },
+      "artists": [
+        {
+          "name": "CAROL CASTRO",
+          "url": "https://open.spotify.com/artist/7l7Zq6h9sy2YX1z9CZpsXU"
+        },
+        {
+          "name": "Eddu Chaves",
+          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "7x na Semana",
+      "url": "https://open.spotify.com/track/4DjmsguurgYNCjmotBXxuA"
+    },
+    {
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "album": {
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/7zBGmptU1G30JQZMSoHIwW"
+      },
+      "artists": [
+        {
+          "name": "Tana\u00eb",
+          "url": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228855,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/2TF4jJbAiWqHojuTzgPUrc"
+    },
+    {
+      "album": {
+        "name": "Incendiaria / Cobra Coral (from the Netflix Series \"Maldivas\")",
+        "url": "https://open.spotify.com/album/1Fxz3JAolhx0e9OkPTf9QN"
+      },
+      "artists": [
+        {
+          "name": "Sheron Menezes",
+          "url": "https://open.spotify.com/artist/0p7R7OI5BOPm2gXoKnih5W"
+        },
+        {
+          "name": "Samuel Melo",
+          "url": "https://open.spotify.com/artist/4BvrzGRlD20vLSbeDiwLVd"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133013,
+      "name": "Cobra Coral",
+      "url": "https://open.spotify.com/track/3DnivyDbqLZ2Nf7AdMRUk6"
+    },
+    {
+      "album": {
+        "name": "Songwriter Pop 2",
+        "url": "https://open.spotify.com/album/1o9GN6jGJtPJYPOOSDvGEC"
+      },
+      "artists": [
+        {
+          "name": "Nine One One",
+          "url": "https://open.spotify.com/artist/0g3drvUd9hMx7PKYN4OQWy"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232021,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/1j1NwlmcWMW2MEkqwXUmCw"
+    },
+    {
+      "album": {
+        "name": "A M\u00fasica do Olodum",
+        "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "Deusa do amor - Ao vivo",
+      "url": "https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY"
+    },
+    {
+      "album": {
+        "name": "Deve ser horr\u00edvel dormir sem mim",
+        "url": "https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155052,
+      "name": "Deve ser horr\u00edvel dormir sem mim",
+      "url": "https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j"
+    },
+    {
+      "album": {
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+    },
+    {
+      "album": {
+        "name": "Incendiaria / Cobra Coral (from the Netflix Series \"Maldivas\")",
+        "url": "https://open.spotify.com/album/1Fxz3JAolhx0e9OkPTf9QN"
+      },
+      "artists": [
+        {
+          "name": "Sheron Menezes",
+          "url": "https://open.spotify.com/artist/0p7R7OI5BOPm2gXoKnih5W"
+        },
+        {
+          "name": "Samuel Melo",
+          "url": "https://open.spotify.com/artist/4BvrzGRlD20vLSbeDiwLVd"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164013,
+      "name": "Incendiaria",
+      "url": "https://open.spotify.com/track/45sSziSBGJ5cBf96g01Tll"
+    },
+    {
+      "album": {
+        "name": "Rhonda",
+        "url": "https://open.spotify.com/album/7pko2Y0IVUtooEMyClGv0c"
+      },
+      "artists": [
+        {
+          "name": "Silvia Machete",
+          "url": "https://open.spotify.com/artist/6a3loWAysYxkjTW2bxxs8b"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188010,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/64XXXKS7TuTUqvE2HK1lqh"
+    },
+    {
+      "album": {
+        "name": "O Vaqueiro Chegou",
+        "url": "https://open.spotify.com/album/2H4nSXLgDTyiAGf7hfSdAU"
+      },
+      "artists": [
+        {
+          "name": "Ranieri",
+          "url": "https://open.spotify.com/artist/4v7s0n7JHe5h8TPBdKYkX4"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192078,
+      "name": "Mulher, Chap\u00e9u e Botina",
+      "url": "https://open.spotify.com/track/5xHDPaWHEqzAZ5oKTKjXBF"
+    },
+    {
+      "album": {
+        "name": "The Moonshine Music Co: Southern Soul",
+        "url": "https://open.spotify.com/album/0rRkYhTctzjQRePPXBsCwB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Kaplan",
+          "url": "https://open.spotify.com/artist/24sWopYyKz8oka3O4Cp1BC"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Once in a Thousand Years",
+      "url": "https://open.spotify.com/track/6GV1lq6e18wdrEZRGKJCMh"
+    },
+    {
+      "album": {
+        "name": "Some que ele vem atr\u00e1s",
+        "url": "https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194771,
+      "name": "Some que ele vem atr\u00e1s",
+      "url": "https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/1w197Eogn2NRkSmZQFNcKi"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD"
+    },
+    {
+      "album": {
+        "name": "Voa",
+        "url": "https://open.spotify.com/album/5f4bdDsJjcQw7rFy6pa81P"
+      },
+      "artists": [
+        {
+          "name": "Enzo Romani",
+          "url": "https://open.spotify.com/artist/522PTJr1Bx2IhUqvky81mO"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205835,
+      "name": "Somos um S\u00f3",
+      "url": "https://open.spotify.com/track/7uwQV7ayaMzokmsTA3XTHI"
+    },
+    {
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162866,
+      "name": "These Boots Are Made for Walkin'",
+      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
+    },
+    {
+      "album": {
+        "name": "The Very Special World Of Lee Hazlewood (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BshrFXTkg7Vhtdcqg0FpX"
+      },
+      "artists": [
+        {
+          "name": "Lee Hazlewood",
+          "url": "https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "These Boots Are Made For Walking",
+      "url": "https://open.spotify.com/track/7ABtsCLOCZ5N9aXtBezZBY"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "album": {
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
+    },
+    {
+      "album": {
+        "name": "CUTE BUT (still) PSYCHO",
+        "url": "https://open.spotify.com/album/74ic7SZ8UUWmYwgax1nHtw"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176454,
+      "name": "\u00e1udio de desculpas",
+      "url": "https://open.spotify.com/track/1JP3iGUerYKKYQwXGQGYks"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9zt7Z5fA3V9"
 }

@@ -1,6 +1,6 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 50957,
+  "num_followers": 50777,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "BLACKsummers'night (2009)",
         "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
       },
@@ -215,38 +231,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Estas Buena",
-        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Tu Pun Pun",
-      "url": "https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Ya Casi Vienen",
         "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
       },
@@ -263,34 +247,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+        "name": "Estas Buena",
+        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
         }
       ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "TU ME QUIERES?",
-        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "TU ME QUIERES?",
-      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+      "duration_ms": 212933,
+      "name": "Tu Pun Pun",
+      "url": "https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -315,6 +283,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "KI-KI",
         "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "TU ME QUIERES?",
+        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TU ME QUIERES?",
+      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 202760,
       "name": "Abayarde",
       "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Date Brillo Cadenita",
         "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
       },
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Qu\u00e9 L\u00e1stima",
-        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
+        "name": "G Wagon",
+        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
       },
       "artists": [
         {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 224869,
-      "name": "Qu\u00e9 L\u00e1stima",
-      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
+      "duration_ms": 209680,
+      "name": "G Wagon",
+      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -559,18 +555,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "G Wagon",
-        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
+        "name": "Qu\u00e9 L\u00e1stima",
+        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 209680,
-      "name": "G Wagon",
-      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
+      "duration_ms": 224869,
+      "name": "Qu\u00e9 L\u00e1stima",
+      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Spell 31",
-        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 195204,
-      "name": "Sister 2 Sister",
-      "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 160243,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Spell 31",
+        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 195204,
+      "name": "Sister 2 Sister",
+      "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Vete Y Dile",
         "url": "https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Booty Puty",
         "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+        "name": "A Quien Pueda Interesar",
+        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
       },
       "artists": [
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
         }
       ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+      "duration_ms": 161739,
+      "name": "Dormir Sola",
+      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Flavors 3",
         "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
       },
@@ -903,34 +919,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "A Tu Lado",
-        "url": "https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J"
+        "name": "50 \u00e9xitos de salsa cubana",
+        "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 185217,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Gimme Light",
-        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Gimme Light",
-      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
+      "duration_ms": 293173,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "50 \u00e9xitos de salsa cubana",
-        "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
+        "name": "Gimme Light",
+        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
         }
       ],
-      "duration_ms": 293173,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
+      "duration_ms": 149000,
+      "name": "Gimme Light",
+      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -987,22 +987,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj"
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J"
       },
       "artists": [
         {
-          "name": "Lil Viic",
-          "url": "https://open.spotify.com/artist/1wxP4p2fz72aCgmfymu0CZ"
-        },
-        {
-          "name": "Lennis Rodriguez",
-          "url": "https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 208203,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7"
+      "duration_ms": 185217,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1039,22 +1035,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Na Pa Ti (feat. Kofi)",
-        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/4gyoEgPnJ6yiZsazqXrucj"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Lil Viic",
+          "url": "https://open.spotify.com/artist/1wxP4p2fz72aCgmfymu0CZ"
         },
         {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+          "name": "Lennis Rodriguez",
+          "url": "https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z"
         }
       ],
-      "duration_ms": 173098,
-      "name": "Na Pa Ti (feat. Kofi)",
-      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+      "duration_ms": 208203,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/7HShBDHwZokDkH2qMEwqZ7"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1075,22 +1071,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "A Quien Pueda Interesar",
-        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Dormir Sola",
-      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Sigue y Sigue",
         "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
       },
@@ -1103,22 +1083,6 @@
       "duration_ms": 146269,
       "name": "Sigue y Sigue",
       "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Sabor a Salsa",
-        "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        }
-      ],
-      "duration_ms": 376013,
-      "name": "La rebelion",
-      "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1139,6 +1103,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Sabor a Salsa",
+        "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "duration_ms": 376013,
+      "name": "La rebelion",
+      "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Nueva Era",
         "url": "https://open.spotify.com/album/23HEGSjUL7dakX0quTzUdC"
       },
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Creature!",
         "url": "https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd"
       },
@@ -1167,6 +1167,38 @@
       "duration_ms": 155522,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 170481,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1195,38 +1227,6 @@
       "duration_ms": 235462,
       "name": "Mismo De Antes",
       "url": "https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 170481,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Haters y Fan\u00e1ticos",
-        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
       },
       "artists": [
         {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
         }
       ],
-      "duration_ms": 180853,
-      "name": "Fettuccine",
-      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
+      "duration_ms": 196000,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Los Rakas",
-        "url": "https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M"
+        "name": "Haters y Fan\u00e1ticos",
+        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
       },
       "artists": [
         {
-          "name": "Los Rakas",
-          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
-        },
-        {
-          "name": "Kafu Banton",
-          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
         }
       ],
-      "duration_ms": 176333,
-      "name": "Raka Party",
-      "url": "https://open.spotify.com/track/1zowgdEGsip4CUpyZI6nuN"
+      "duration_ms": 180853,
+      "name": "Fettuccine",
+      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1331,22 +1327,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
-      },
-      "artists": [
-        {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Sleng Teng Riddim",
         "url": "https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 260095,
       "name": "Budy Bye",
       "url": "https://open.spotify.com/track/5U3IT5EsLJ71XUVXaaG5ds"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Los Rakas",
+        "url": "https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M"
+      },
+      "artists": [
+        {
+          "name": "Los Rakas",
+          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+        },
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Raka Party",
+      "url": "https://open.spotify.com/track/1zowgdEGsip4CUpyZI6nuN"
     },
     {
       "added_at": "2023-06-20 14:37:46",

@@ -4,7 +4,7 @@
 
 > In honor of the little teams who could
 
-31 songs - 1 hr 56 min
+32 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Unstoppable](https://open.spotify.com/track/42OhLbytwk1T3pXMfN6QtN) | [Charm City Devils](https://open.spotify.com/artist/6oGScNAdDsfnfY0N4y0Zls) | [Sins](https://open.spotify.com/album/5NQyuaIDPBzBAXPKX691VI) | 3:20 | 2014-02-05 | 2022-07-29 |
 | [Unstoppable](https://open.spotify.com/track/628JBaLVW73RWhGCLw6cH3) | [Charm City Devils](https://open.spotify.com/artist/6oGScNAdDsfnfY0N4y0Zls) | [Sins](https://open.spotify.com/album/0WUNi8zh16ZzE4eGYmHtCo) | 3:20 | 2023-12-23 |  |
 | [Unstoppable](https://open.spotify.com/track/6YsqtuCZ2lvfrWXpCXMUAn) | [Charm City Devils](https://open.spotify.com/artist/6oGScNAdDsfnfY0N4y0Zls) | [Sins](https://open.spotify.com/album/4LbfY5lYoGoXKRwIWIZrY3) | 3:20 | 2022-07-29 | 2023-12-23 |
-| [What About Now](https://open.spotify.com/track/2wDG5STU4yPWUY2g3dwMdv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [What About Now \(Deluxe Version\)](https://open.spotify.com/album/1RQ4QHvRTEeaIIqARjCea1) | 3:44 | 2022-07-29 |  |
+| [What About Now](https://open.spotify.com/track/2wDG5STU4yPWUY2g3dwMdv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [What About Now \(Deluxe Version\)](https://open.spotify.com/album/1RQ4QHvRTEeaIIqARjCea1) | 3:44 | 2022-07-29 | 2024-01-14 |
+| [What About Now](https://open.spotify.com/track/2xpX9sgLf5Jc9uI7dfYW6o) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [What About Now \(Deluxe Version\)](https://open.spotify.com/album/7A7tfMDctYnuSOnC9Xn0y0) | 3:44 | 2024-01-14 |  |
 | [What About Now](https://open.spotify.com/track/3REnSIs1aoYKcpxYEY82rg) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [What About Now](https://open.spotify.com/album/0ygrVw5SYpWGQXD84CNdMW) | 3:44 | 2014-02-07 | 2022-07-29 |
 | [Without A Fight](https://open.spotify.com/track/7hH17WLxQlXuWgtmbLBURa) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Every Man For Himself \(Expanded Edition\)](https://open.spotify.com/album/6Z4FW5yorog5BtKsptAd47) | 3:20 | 2022-07-29 |  |
 | [Without A Fight](https://open.spotify.com/track/2F0s7uCEsfL7CgjB7Xm7L8) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Every Man For Himself \(Red Package\)](https://open.spotify.com/album/6IuM2CdfIMtqkEiQGVcHy7) | 3:20 | 2014-02-05 | 2022-07-29 |

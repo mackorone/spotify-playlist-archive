@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,089 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,666 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 48 | [DIL DEEWANA](https://open.spotify.com/track/4qHVuUaejwuIrrvuuMZyiA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Didi \- Free Hits](https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8) | 5:55 |
 | 49 | [Luka Chuppi](https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 6:36 |
 
-Snapshot ID: `MCxkZjI4NDlhZTlkMTIxZTgyNmU4MDM1NWU3OTY4NmM0MDAyYTYwOWU3`
+Snapshot ID: `MCwzMWExNTMzMWYyMzhhYmE0YzA4YmExMWUyY2YzYTc2MDZkZGQ4YzJl`

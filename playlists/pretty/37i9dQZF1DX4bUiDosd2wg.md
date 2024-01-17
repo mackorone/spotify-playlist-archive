@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,029 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,017 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 32 | [Around Thirty \(with Bob James\)](https://open.spotify.com/track/7G2j4OOUTIYJiYWevBskAS) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [KIM KWANG SEOK, AGAIN](https://open.spotify.com/album/3QBvfyxgNkrLZdAbrcznb2) | 4:42 |
 | 33 | [There is No one Like you](https://open.spotify.com/track/4IVamb5uivBasUfXsDSmDD) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [LEE SEUNG CHUL\-THE BEST LIVE \(WORLD TOUR\)](https://open.spotify.com/album/00KwiwUMAW7d13SUOgQhmN) | 3:39 |
 | 34 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 |
-| 35 | [편지할게요](https://open.spotify.com/track/43YpsYj6YW2kDPF06CsGZR) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [사랑해 \(Part.2\)](https://open.spotify.com/album/1Qjjlnra3hF2xAKGmuJ2zQ) | 4:46 |
+| 35 | [편지할게요](https://open.spotify.com/track/0jHRtgWauzb1mkANquNQ5T) | [Lena Park](https://open.spotify.com/artist/0haibpa9N2huTbnUiziBeF) | [사랑해 Pt 2](https://open.spotify.com/album/5MBUlTj7xtUnmXgNxl0Cp5) | 4:46 |
 | 36 | [Doll's Dream](https://open.spotify.com/track/2M3hBZOOShvYbRG4Fi9kGi) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Dramatic & Cinematic](https://open.spotify.com/album/6CN0xylhSXvdAudTU3ihQo) | 4:40 |
 | 37 | [P.S\. I Love You](https://open.spotify.com/track/3pdjuJyzeaF4Wa7ey20Kp0) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/3xwclNQx4vY9Axr6x3Giib) | 3:56 |
 | 38 | [내사랑 내곁에 \(김현식\)](https://open.spotify.com/track/0CmzoZPuhlCZGPpNDToL3R) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [<나는 가수다> \`호주 특별 공연\`](https://open.spotify.com/album/4rhIkswyzmgVP2lXxB3G85) | 4:38 |
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 150 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [광화문에서 At Gwanghwamun \- The 1st Mini Album](https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv) | 4:42 |
 | 151 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 |
 | 152 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
-| 153 | [Just Leave Me](https://open.spotify.com/track/3YN0q0v5QtNLtxKJN15cCp) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ASs7ts92epzIgCHlnJdIt) | 4:19 |
+| 153 | [Just Leave Me](https://open.spotify.com/track/2Ilx3JTEgcEpWYsZhyh7kW) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NcHBdgT7kYMoa3xX6jJne) | 4:19 |
 | 154 | [Making a new ending for this story](https://open.spotify.com/track/30H0FtOCtb5jESDvFcxqXZ) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 1st Digital Single "Making a new ending for this story"](https://open.spotify.com/album/5lvAt6IG8iOlKm4AVkxsqn) | 4:22 |
 | 155 | [Crazy](https://open.spotify.com/track/6gjmCJkyh45kw4vN7gv99o) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Your Diary](https://open.spotify.com/album/7Dhtxv7ePGy2nBTULdNt9s) | 3:34 |
 | 156 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |

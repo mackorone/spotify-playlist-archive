@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 211720,
       "name": "Junjou",
       "url": "https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q"
@@ -756,6 +756,24 @@
       "duration_ms": 278160,
       "name": "Ocean Side",
       "url": "https://open.spotify.com/track/6MMxBWWNfZKCi0hcTN6qqH"
+    },
+    {
+      "album": {
+        "name": "OCEAN SIDE",
+        "url": "https://open.spotify.com/album/43MH8ZrLAL15xHRmIyAr46"
+      },
+      "artists": [
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278160,
+      "name": "Ocean Side",
+      "url": "https://open.spotify.com/track/6T0a8AFfS62waTXaTAIhWR"
     },
     {
       "album": {
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 337306,
       "name": "\u30b5\u30b6\u30f3\u30af\u30ed\u30b9",
       "url": "https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq"
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 299106,
       "name": "\u541b\u306e\u30cf\u30fc\u30c8\u306f\u30de\u30ea\u30f3\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/04d2ceRCfAaBwuQfG1WwMK"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 344219,
       "name": "\u771f\u73e0\u306e\u30d4\u30a2\u30b9",
       "url": "https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad"
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 266480,
       "name": "\u96e8\u306e\u30a6\u30a7\u30f3\u30ba\u30c7\u30a4",
       "url": "https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x"

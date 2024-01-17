@@ -4,7 +4,7 @@
 
 > The very best of the alternative rock scene\. Cover: Teenage Wrist
 
-343 songs - 19 hr 41 min
+344 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Beautiful James](https://open.spotify.com/track/5Yw6htG6TZtkeMo9WLI0M7) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/2DSeL00fsmpeqEKnq3s13J) | 4:08 | 2021-09-17 | 2022-11-13 |
 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 | 2021-03-31 | 2023-09-09 |
 | [Big Shot](https://open.spotify.com/track/6Q2juI8CUrk1SR5rtoCqwT) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Big Shot](https://open.spotify.com/album/4wrKG8eeaYiItc2ASIWoJs) | 3:39 | 2021-03-31 | 2023-05-20 |
-| [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 | 2023-09-08 |  |
+| [Birds and the Bees](https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs) | 4:14 | 2023-09-08 |  |
+| [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 | 2023-09-08 | 2024-01-05 |
 | [Birthday Party](https://open.spotify.com/track/6AOkDgCpsnruITzR45dxry) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Birthday Party](https://open.spotify.com/album/7vauaZbyhkFCFizAC9LNY7) | 3:17 | 2023-10-05 |  |
 | [Black and Red](https://open.spotify.com/track/1DJVvKIX6niMWGUitYkM1f) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 3:39 | 2022-04-29 | 2023-03-18 |
 | [Black and Red](https://open.spotify.com/track/1wwdjuP8phPGC0v1Ufkjwn) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Black and Red](https://open.spotify.com/album/6t3ql7acEwZ0UyEqHJMiNw) | 3:39 | 2021-03-31 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Euphoria](https://open.spotify.com/track/20g6mjmuL2V8bHTx5MTubE) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Euphoria](https://open.spotify.com/album/1jslok7INBkcqKIei9zfPF) | 4:24 | 2021-05-21 | 2022-07-29 |
 | [Euphoria](https://open.spotify.com/track/6jnDRGCEEb9i1M37kHJJSd) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Lifeforms](https://open.spotify.com/album/268dFUW4rd5jZMdNcFp146) | 4:24 | 2022-04-29 | 2022-11-13 |
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 | 2023-08-09 |
-| [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 | 2023-03-17 | 2023-11-23 |
+| [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 | 2023-03-17 |  |
 | [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 | 2022-01-14 | 2023-08-09 |
 | [Far From Home](https://open.spotify.com/track/6zNL4rD2KOZFt83JlmrXLu) | [Bexley](https://open.spotify.com/artist/4svqYIReyb53k0Kaxun76R) | [Far From Home](https://open.spotify.com/album/3saPJWzfPRsvjqj2g7JwRU) | 3:47 | 2021-09-17 | 2022-01-15 |
 | [Fast Forward](https://open.spotify.com/track/4LShYaypRgtyXOeBKoPaO9) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Fast Forward](https://open.spotify.com/album/0aruiDx5jNCwEpVFzXthSB) | 3:14 | 2021-03-31 | 2022-01-24 |
@@ -149,7 +150,7 @@
 | [Hooves](https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Hooves](https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz) | 2:43 | 2023-03-17 | 2023-07-20 |
 | [Hooves](https://open.spotify.com/track/59gcuFEGvp32erxYFekyG4) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:43 | 2023-06-30 |  |
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-05 | 2023-07-01 |
-| [How Far Can You Push A Man?](https://open.spotify.com/track/16tDz8bSV96yJ5CQlhuVlG) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Taste The Sun](https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7) | 4:03 | 2023-09-08 |  |
+| [How Far Can You Push A Man?](https://open.spotify.com/track/16tDz8bSV96yJ5CQlhuVlG) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Taste The Sun](https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7) | 4:03 | 2023-09-08 | 2024-01-13 |
 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 | 2023-05-05 | 2023-09-28 |
 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 | 2022-01-14 |  |
 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 | 2021-11-12 |  |

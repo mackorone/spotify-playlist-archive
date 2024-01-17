@@ -1080,24 +1080,6 @@
     {
       "album": {
         "name": "Structures From Silence",
-        "url": "https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq"
-      },
-      "artists": [
-        {
-          "name": "Steve Roach",
-          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
-        }
-      ],
-      "date_added": "2023-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 803000,
-      "name": "Quiet Friend",
-      "url": "https://open.spotify.com/track/3m1ngci5oStKN96zAt9Y9M"
-    },
-    {
-      "album": {
-        "name": "Structures From Silence",
         "url": "https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh"
       },
       "artists": [
@@ -1112,6 +1094,24 @@
       "duration_ms": 803000,
       "name": "Quiet Friend",
       "url": "https://open.spotify.com/track/7eyrOUEsP04DjbMAIUKXEV"
+    },
+    {
+      "album": {
+        "name": "Structures From Silence (30th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq"
+      },
+      "artists": [
+        {
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 803000,
+      "name": "Quiet Friend - 30th Anniversary Remaster",
+      "url": "https://open.spotify.com/track/3m1ngci5oStKN96zAt9Y9M"
     },
     {
       "album": {

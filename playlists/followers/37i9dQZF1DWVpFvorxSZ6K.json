@@ -1,735 +1,909 @@
 {
-  "2021-12-25": 385802,
-  "2021-12-26": 385984,
-  "2021-12-27": 386308,
-  "2021-12-28": 386307,
-  "2021-12-29": 386486,
-  "2021-12-30": 386643,
-  "2021-12-31": 386778,
-  "2022-01-01": 387100,
-  "2022-01-02": 387145,
-  "2022-01-03": 387260,
-  "2022-01-04": 387385,
-  "2022-01-05": 387527,
-  "2022-01-06": 387654,
-  "2022-01-07": 387808,
-  "2022-01-08": 388087,
-  "2022-01-09": 388088,
-  "2022-01-10": 388237,
-  "2022-01-11": 388305,
-  "2022-01-12": 388368,
-  "2022-01-13": 388368,
-  "2022-01-14": 388368,
-  "2022-01-15": 388368,
-  "2022-01-16": 388368,
-  "2022-01-17": 388368,
-  "2022-01-18": 388368,
-  "2022-01-19": 388368,
-  "2022-01-20": 388368,
-  "2022-01-21": 388368,
-  "2022-01-22": 388368,
-  "2022-01-23": 388368,
-  "2022-01-24": 388368,
-  "2022-01-25": 388368,
-  "2022-01-26": 388368,
-  "2022-01-27": 388368,
-  "2022-01-28": 388368,
-  "2022-01-29": 388368,
-  "2022-01-30": 388368,
-  "2022-01-31": 388368,
-  "2022-02-01": 388368,
-  "2022-02-02": 388368,
-  "2022-02-03": 388368,
-  "2022-02-04": 388368,
-  "2022-02-05": 388368,
-  "2022-02-06": 388368,
-  "2022-02-07": 388368,
-  "2022-02-08": 388368,
-  "2022-02-09": 388368,
-  "2022-02-10": 388368,
-  "2022-02-11": 388368,
-  "2022-02-12": 388368,
-  "2022-02-13": 388368,
-  "2022-02-14": 388368,
-  "2022-02-15": 388368,
-  "2022-02-16": 388368,
-  "2022-02-17": 388368,
-  "2022-02-18": 388368,
-  "2022-02-19": 388368,
-  "2022-02-20": 388368,
-  "2022-02-21": 388368,
-  "2022-02-22": 388368,
-  "2022-02-23": 388368,
-  "2022-02-24": 388368,
-  "2022-02-25": 388368,
-  "2022-02-26": 388368,
-  "2022-02-27": 388368,
-  "2022-02-28": 388368,
-  "2022-03-01": 388368,
-  "2022-03-02": 388368,
-  "2022-03-03": 388368,
-  "2022-03-04": 388368,
-  "2022-03-05": 388368,
-  "2022-03-06": 388368,
-  "2022-03-07": 388368,
-  "2022-03-08": 388368,
-  "2022-03-09": 388368,
-  "2022-03-10": 388368,
-  "2022-03-11": 388368,
-  "2022-03-12": 388368,
-  "2022-03-13": 388368,
-  "2022-03-14": 388368,
-  "2022-03-15": 388368,
-  "2022-03-16": 388368,
-  "2022-03-17": 388368,
-  "2022-03-18": 388368,
-  "2022-03-19": 388368,
-  "2022-03-20": 388368,
-  "2022-03-21": 388368,
-  "2022-03-22": 388368,
-  "2022-03-23": 388368,
-  "2022-03-24": 388368,
-  "2022-03-25": 388368,
-  "2022-03-26": 388368,
-  "2022-03-27": 388368,
-  "2022-03-28": 388368,
-  "2022-03-30": 388368,
-  "2022-03-31": 388368,
-  "2022-04-01": 388368,
-  "2022-04-02": 388368,
-  "2022-04-03": 388368,
-  "2022-04-04": 388368,
-  "2022-04-05": 388368,
-  "2022-04-06": 388368,
-  "2022-04-07": 388368,
-  "2022-04-08": 388368,
-  "2022-04-09": 388368,
-  "2022-04-10": 388368,
-  "2022-04-11": 388368,
-  "2022-04-12": 388368,
-  "2022-04-13": 388368,
-  "2022-04-14": 388368,
-  "2022-04-15": 388368,
-  "2022-04-16": 388368,
-  "2022-04-17": 388368,
-  "2022-04-18": 388368,
-  "2022-04-19": 388368,
-  "2022-04-20": 388368,
-  "2022-04-21": 388368,
-  "2022-04-22": 388368,
-  "2022-04-23": 388368,
-  "2022-04-24": 388368,
-  "2022-04-25": 388368,
-  "2022-04-26": 388368,
-  "2022-04-27": 388368,
-  "2022-04-28": 388368,
-  "2022-04-29": 388368,
-  "2022-04-30": 388368,
-  "2022-05-01": 388368,
-  "2022-05-02": 388368,
-  "2022-05-03": 388368,
-  "2022-05-04": 388368,
-  "2022-05-05": 388368,
-  "2022-05-06": 388368,
-  "2022-05-07": 388368,
-  "2022-05-08": 388368,
-  "2022-05-09": 388368,
-  "2022-05-10": 388368,
-  "2022-05-11": 388368,
-  "2022-05-12": 388368,
-  "2022-05-13": 388368,
-  "2022-05-14": 388368,
-  "2022-05-15": 388368,
-  "2022-05-16": 388368,
-  "2022-05-17": 388368,
-  "2022-05-18": 388368,
-  "2022-05-19": 388368,
-  "2022-05-20": 388368,
-  "2022-05-21": 388368,
-  "2022-05-22": 388368,
-  "2022-05-23": 388368,
-  "2022-05-24": 388368,
-  "2022-05-25": 388368,
-  "2022-05-26": 388368,
-  "2022-05-27": 388368,
-  "2022-05-28": 388368,
-  "2022-05-29": 388368,
-  "2022-05-30": 388368,
-  "2022-05-31": 388368,
-  "2022-06-01": 388368,
-  "2022-06-02": 388368,
-  "2022-06-03": 388368,
-  "2022-06-04": 388368,
-  "2022-06-05": 388368,
-  "2022-06-06": 388368,
-  "2022-06-07": 388368,
-  "2022-06-08": 388368,
-  "2022-06-09": 388368,
-  "2022-06-10": 388368,
-  "2022-06-11": 388368,
-  "2022-06-12": 388368,
-  "2022-06-13": 388368,
-  "2022-06-14": 388368,
-  "2022-06-15": 388368,
-  "2022-06-16": 388368,
-  "2022-06-17": 388368,
-  "2022-06-18": 388368,
-  "2022-06-19": 388368,
-  "2022-06-20": 388368,
-  "2022-06-21": 388368,
-  "2022-06-22": 388368,
-  "2022-06-23": 388368,
-  "2022-06-24": 388368,
-  "2022-06-25": 388368,
-  "2022-06-26": 388368,
-  "2022-06-27": 388368,
-  "2022-06-28": 388368,
-  "2022-06-29": 388368,
-  "2022-06-30": 388368,
-  "2022-07-01": 388368,
-  "2022-07-02": 388368,
-  "2022-07-03": 388368,
-  "2022-07-04": 388368,
-  "2022-07-05": 388368,
-  "2022-07-06": 388368,
-  "2022-07-07": 388368,
-  "2022-07-08": 388368,
-  "2022-07-09": 388368,
-  "2022-07-10": 388368,
-  "2022-07-11": 388368,
-  "2022-07-12": 388368,
-  "2022-07-13": 388368,
-  "2022-07-14": 388368,
-  "2022-07-15": 388368,
-  "2022-07-16": 388368,
-  "2022-07-17": 388368,
-  "2022-07-18": 388368,
-  "2022-07-19": 388368,
-  "2022-07-20": 388368,
-  "2022-07-21": 388368,
-  "2022-07-22": 388368,
-  "2022-07-23": 388368,
-  "2022-07-24": 388368,
-  "2022-07-25": 388368,
-  "2022-07-26": 388368,
-  "2022-07-27": 388368,
-  "2022-07-28": 388368,
-  "2022-07-29": 388368,
-  "2022-07-30": 388368,
-  "2022-07-31": 388368,
-  "2022-08-01": 388368,
-  "2022-08-02": 388368,
-  "2022-08-03": 388368,
-  "2022-08-04": 388368,
-  "2022-08-05": 388368,
-  "2022-08-06": 388368,
-  "2022-08-07": 388368,
-  "2022-08-08": 388368,
-  "2022-08-09": 388368,
-  "2022-08-10": 388368,
-  "2022-08-11": 388368,
-  "2022-08-12": 388368,
-  "2022-08-13": 388368,
-  "2022-08-14": 388368,
-  "2022-08-15": 388368,
-  "2022-08-16": 388368,
-  "2022-08-17": 388368,
-  "2022-08-18": 388368,
-  "2022-08-19": 388368,
-  "2022-08-20": 388368,
-  "2022-08-21": 388368,
-  "2022-08-22": 388368,
-  "2022-08-23": 388368,
-  "2022-08-24": 388368,
-  "2022-08-25": 388368,
-  "2022-08-26": 388368,
-  "2022-08-27": 388368,
-  "2022-08-28": 388368,
-  "2022-08-29": 388368,
-  "2022-08-30": 388368,
-  "2022-08-31": 388368,
-  "2022-09-01": 388368,
-  "2022-09-02": 388368,
-  "2022-09-03": 388368,
-  "2022-09-04": 388368,
-  "2022-09-05": 388368,
-  "2022-09-06": 388368,
-  "2022-09-07": 388368,
-  "2022-09-09": 388368,
-  "2022-09-10": 388368,
-  "2022-09-11": 388368,
-  "2022-09-12": 388368,
-  "2022-09-13": 388368,
-  "2022-09-15": 388368,
-  "2022-09-16": 388368,
-  "2022-09-17": 388368,
-  "2022-09-18": 388368,
-  "2022-09-19": 388368,
-  "2022-09-20": 388368,
-  "2022-09-21": 388368,
-  "2022-09-22": 388368,
-  "2022-09-23": 388368,
-  "2022-09-24": 388368,
-  "2022-09-25": 388368,
-  "2022-09-26": 388368,
-  "2022-09-27": 388368,
-  "2022-09-28": 388368,
-  "2022-09-29": 388368,
-  "2022-09-30": 388368,
-  "2022-10-01": 388368,
-  "2022-10-02": 388368,
-  "2022-10-03": 388368,
-  "2022-10-04": 388368,
-  "2022-10-05": 388368,
-  "2022-10-06": 388368,
-  "2022-10-07": 388368,
-  "2022-10-08": 388368,
-  "2022-10-09": 388368,
-  "2022-10-10": 388368,
-  "2022-10-11": 388368,
-  "2022-10-12": 388368,
-  "2022-10-13": 388368,
-  "2022-10-14": 388368,
-  "2022-10-15": 388368,
-  "2022-10-16": 388368,
-  "2022-10-17": 388368,
-  "2022-10-18": 388368,
-  "2022-10-19": 388368,
-  "2022-10-20": 388368,
-  "2022-10-21": 388368,
-  "2022-10-22": 388368,
-  "2022-10-23": 388368,
-  "2022-10-24": 388368,
-  "2022-10-25": 388368,
-  "2022-10-26": 388368,
-  "2022-10-27": 388368,
-  "2022-10-28": 388368,
-  "2022-10-29": 388368,
-  "2022-10-30": 388368,
-  "2022-10-31": 388368,
-  "2022-11-01": 388368,
-  "2022-11-02": 388368,
-  "2022-11-03": 388368,
-  "2022-11-04": 388368,
-  "2022-11-05": 388368,
-  "2022-11-06": 388368,
-  "2022-11-07": 388368,
-  "2022-11-08": 388368,
-  "2022-11-09": 388368,
-  "2022-11-10": 388368,
-  "2022-11-11": 388368,
-  "2022-11-12": 388368,
-  "2022-11-13": 388368,
-  "2022-11-14": 388368,
-  "2022-11-15": 388368,
-  "2022-11-16": 388368,
-  "2022-11-17": 388368,
-  "2022-11-18": 388368,
-  "2022-11-19": 388368,
-  "2022-11-20": 388368,
-  "2022-11-21": 388368,
-  "2022-11-22": 388368,
-  "2022-11-23": 388368,
-  "2022-11-24": 388368,
-  "2022-11-25": 388368,
-  "2022-11-26": 388368,
-  "2022-11-27": 388368,
-  "2022-11-28": 388368,
-  "2022-11-29": 388368,
-  "2022-11-30": 388368,
-  "2022-12-01": 388368,
-  "2022-12-02": 388368,
-  "2022-12-03": 388368,
-  "2022-12-04": 388368,
-  "2022-12-05": 388368,
-  "2022-12-06": 388368,
-  "2022-12-07": 388368,
-  "2022-12-08": 388368,
-  "2022-12-09": 388368,
-  "2022-12-10": 388368,
-  "2022-12-11": 388368,
-  "2022-12-12": 388368,
-  "2022-12-13": 388368,
-  "2022-12-14": 388368,
-  "2022-12-15": 388368,
-  "2022-12-16": 388368,
-  "2022-12-17": 388368,
-  "2022-12-18": 388368,
-  "2022-12-19": 388368,
-  "2022-12-20": 388368,
-  "2022-12-21": 388368,
-  "2022-12-22": 388368,
-  "2022-12-24": 388368,
-  "2022-12-25": 388368,
-  "2022-12-26": 388368,
-  "2022-12-27": 388368,
-  "2022-12-28": 388368,
-  "2022-12-29": 388368,
-  "2022-12-30": 388368,
-  "2022-12-31": 388368,
-  "2023-01-01": 388368,
-  "2023-01-02": 388368,
-  "2023-01-03": 388368,
-  "2023-01-04": 388368,
-  "2023-01-05": 388368,
-  "2023-01-06": 388368,
-  "2023-01-07": 388368,
-  "2023-01-08": 388368,
-  "2023-01-09": 388368,
-  "2023-01-10": 388368,
-  "2023-01-11": 388368,
-  "2023-01-12": 388368,
-  "2023-01-13": 388368,
-  "2023-01-14": 388368,
-  "2023-01-15": 388368,
-  "2023-01-16": 388368,
-  "2023-01-17": 388368,
-  "2023-01-18": 388368,
-  "2023-01-19": 388368,
-  "2023-01-20": 388368,
-  "2023-01-21": 388368,
-  "2023-01-22": 388368,
-  "2023-01-23": 388368,
-  "2023-01-24": 388368,
-  "2023-01-25": 388368,
-  "2023-01-26": 388368,
-  "2023-01-27": 388368,
-  "2023-01-28": 388368,
-  "2023-01-29": 388368,
-  "2023-01-30": 388368,
-  "2023-01-31": 388368,
-  "2023-02-01": 388368,
-  "2023-02-02": 388368,
-  "2023-02-03": 388368,
-  "2023-02-04": 388368,
-  "2023-02-05": 388368,
-  "2023-02-06": 388368,
-  "2023-02-07": 388368,
-  "2023-02-08": 388368,
-  "2023-02-09": 388368,
-  "2023-02-10": 388368,
-  "2023-02-11": 388368,
-  "2023-02-12": 388368,
-  "2023-02-13": 388368,
-  "2023-02-14": 388368,
-  "2023-02-15": 388368,
-  "2023-02-16": 388368,
-  "2023-02-17": 388368,
-  "2023-02-18": 388368,
-  "2023-02-19": 388368,
-  "2023-02-20": 388368,
-  "2023-02-21": 388368,
-  "2023-02-22": 388368,
-  "2023-02-23": 388368,
-  "2023-02-24": 388368,
-  "2023-02-25": 388368,
-  "2023-02-26": 388368,
-  "2023-02-27": 388368,
-  "2023-02-28": 388368,
-  "2023-03-01": 388368,
-  "2023-03-02": 388368,
-  "2023-03-03": 388368,
-  "2023-03-04": 388368,
-  "2023-03-05": 388368,
-  "2023-03-06": 388368,
-  "2023-03-07": 388368,
-  "2023-03-08": 388368,
-  "2023-03-09": 388368,
-  "2023-03-10": 388368,
-  "2023-03-11": 388368,
-  "2023-03-12": 388368,
-  "2023-03-13": 388368,
-  "2023-03-14": 388368,
-  "2023-03-15": 388368,
-  "2023-03-16": 388368,
-  "2023-03-17": 388368,
-  "2023-03-18": 388368,
-  "2023-03-19": 388368,
-  "2023-03-20": 388368,
-  "2023-03-21": 388368,
-  "2023-03-22": 388368,
-  "2023-03-23": 388368,
-  "2023-03-24": 388368,
-  "2023-03-25": 388368,
-  "2023-03-26": 388368,
-  "2023-03-27": 388368,
-  "2023-03-28": 388368,
-  "2023-03-29": 388368,
-  "2023-03-30": 388368,
-  "2023-03-31": 388368,
-  "2023-04-01": 388368,
-  "2023-04-02": 388368,
-  "2023-04-03": 388368,
-  "2023-04-04": 388368,
-  "2023-04-05": 388368,
-  "2023-04-06": 388368,
-  "2023-04-07": 388368,
-  "2023-04-09": 388368,
-  "2023-04-10": 388368,
-  "2023-04-11": 388368,
-  "2023-04-12": 388368,
-  "2023-04-13": 388368,
-  "2023-04-14": 388368,
-  "2023-04-15": 388368,
-  "2023-04-16": 388368,
-  "2023-04-17": 388368,
-  "2023-04-18": 388368,
-  "2023-04-19": 388368,
-  "2023-04-20": 388368,
-  "2023-04-21": 388368,
-  "2023-04-22": 388368,
-  "2023-04-23": 388368,
-  "2023-04-24": 388368,
-  "2023-04-25": 388368,
-  "2023-04-26": 388368,
-  "2023-04-27": 388368,
-  "2023-04-28": 388368,
-  "2023-04-29": 388368,
-  "2023-04-30": 388368,
-  "2023-05-01": 388368,
-  "2023-05-02": 388368,
-  "2023-05-03": 388368,
-  "2023-05-04": 388368,
-  "2023-05-05": 388368,
-  "2023-05-06": 388368,
-  "2023-05-07": 388368,
-  "2023-05-08": 388368,
-  "2023-05-09": 388368,
-  "2023-05-10": 388368,
-  "2023-05-11": 388368,
-  "2023-05-12": 388368,
-  "2023-05-13": 388368,
-  "2023-05-14": 388368,
-  "2023-05-15": 388368,
-  "2023-05-16": 388368,
-  "2023-05-17": 388368,
-  "2023-05-18": 388368,
-  "2023-05-19": 388368,
-  "2023-05-20": 388368,
-  "2023-05-21": 388368,
-  "2023-05-22": 388368,
-  "2023-05-23": 388368,
-  "2023-05-24": 388368,
-  "2023-05-25": 388368,
-  "2023-05-26": 388368,
-  "2023-05-27": 388368,
-  "2023-05-28": 388368,
-  "2023-05-29": 388368,
-  "2023-05-30": 388368,
-  "2023-05-31": 388368,
-  "2023-06-01": 388368,
-  "2023-06-02": 388368,
-  "2023-06-03": 388368,
-  "2023-06-04": 388368,
-  "2023-06-05": 388368,
-  "2023-06-06": 388368,
-  "2023-06-07": 388368,
-  "2023-06-08": 388368,
-  "2023-06-09": 388368,
-  "2023-06-10": 388368,
-  "2023-06-11": 388368,
-  "2023-06-12": 388368,
-  "2023-06-13": 388368,
-  "2023-06-14": 388368,
-  "2023-06-15": 388368,
-  "2023-06-16": 388368,
-  "2023-06-17": 388368,
-  "2023-06-18": 388368,
-  "2023-06-19": 388368,
-  "2023-06-20": 388368,
-  "2023-06-21": 388368,
-  "2023-06-22": 388368,
-  "2023-06-23": 388368,
-  "2023-06-24": 388368,
-  "2023-06-25": 388368,
-  "2023-06-26": 388368,
-  "2023-06-27": 388368,
-  "2023-06-28": 388368,
-  "2023-06-29": 388368,
-  "2023-06-30": 388368,
-  "2023-07-01": 388368,
-  "2023-07-02": 388368,
-  "2023-07-03": 388368,
-  "2023-07-04": 388368,
-  "2023-07-05": 388368,
-  "2023-07-06": 388368,
-  "2023-07-07": 388368,
-  "2023-07-08": 388368,
-  "2023-07-09": 388368,
-  "2023-07-10": 388368,
-  "2023-07-11": 388368,
-  "2023-07-12": 388368,
-  "2023-07-13": 388368,
-  "2023-07-14": 388368,
-  "2023-07-15": 388368,
-  "2023-07-16": 388368,
-  "2023-07-17": 388368,
-  "2023-07-18": 388368,
-  "2023-07-19": 388368,
-  "2023-07-20": 388368,
-  "2023-07-21": 388368,
-  "2023-07-22": 388368,
-  "2023-07-23": 388368,
-  "2023-07-24": 388368,
-  "2023-07-25": 388368,
-  "2023-07-26": 388368,
-  "2023-07-27": 388368,
-  "2023-07-28": 388368,
-  "2023-07-29": 388368,
-  "2023-07-30": 388368,
-  "2023-07-31": 388368,
-  "2023-08-01": 388368,
-  "2023-08-02": 388368,
-  "2023-08-03": 388368,
-  "2023-08-04": 388368,
-  "2023-08-05": 388368,
-  "2023-08-06": 388368,
-  "2023-08-07": 388368,
-  "2023-08-08": 388368,
-  "2023-08-09": 388368,
-  "2023-08-10": 388368,
-  "2023-08-11": 388368,
-  "2023-08-12": 388368,
-  "2023-08-13": 388368,
-  "2023-08-14": 388368,
-  "2023-08-15": 388368,
-  "2023-08-16": 388368,
-  "2023-08-17": 388368,
-  "2023-08-18": 388368,
-  "2023-08-19": 388368,
-  "2023-08-20": 388368,
-  "2023-08-21": 388368,
-  "2023-08-22": 388368,
-  "2023-08-23": 388368,
-  "2023-08-24": 388368,
-  "2023-08-25": 388368,
-  "2023-08-26": 388368,
-  "2023-08-27": 388368,
-  "2023-08-28": 388368,
-  "2023-08-29": 388368,
-  "2023-08-30": 388368,
-  "2023-08-31": 388368,
-  "2023-09-01": 388368,
-  "2023-09-02": 388368,
-  "2023-09-03": 388368,
-  "2023-09-04": 388368,
-  "2023-09-05": 388368,
-  "2023-09-06": 388368,
-  "2023-09-07": 388368,
-  "2023-09-08": 388368,
-  "2023-09-09": 388368,
-  "2023-09-10": 388368,
-  "2023-09-11": 388368,
-  "2023-09-12": 388368,
-  "2023-09-13": 388368,
-  "2023-09-14": 388368,
-  "2023-09-15": 388368,
-  "2023-09-16": 388368,
-  "2023-09-17": 388368,
-  "2023-09-18": 388368,
-  "2023-09-19": 388368,
-  "2023-09-20": 388368,
-  "2023-09-21": 388368,
-  "2023-09-22": 388368,
-  "2023-09-23": 388368,
-  "2023-09-24": 388368,
-  "2023-09-25": 388368,
-  "2023-09-26": 388368,
-  "2023-09-27": 388368,
-  "2023-09-28": 388368,
-  "2023-09-29": 388368,
-  "2023-09-30": 388368,
-  "2023-10-01": 388368,
-  "2023-10-02": 388368,
-  "2023-10-03": 388368,
-  "2023-10-04": 388368,
-  "2023-10-05": 388368,
-  "2023-10-06": 388368,
-  "2023-10-07": 388368,
-  "2023-10-08": 388368,
-  "2023-10-09": 388368,
-  "2023-10-10": 388368,
-  "2023-10-11": 388368,
-  "2023-10-12": 388368,
-  "2023-10-13": 388368,
-  "2023-10-14": 388368,
-  "2023-10-15": 388368,
-  "2023-10-16": 388368,
-  "2023-10-17": 388368,
-  "2023-10-18": 388368,
-  "2023-10-19": 388368,
-  "2023-10-20": 388368,
-  "2023-10-21": 388368,
-  "2023-10-22": 388368,
-  "2023-10-23": 388368,
-  "2023-10-24": 388368,
-  "2023-10-25": 388368,
-  "2023-10-26": 388368,
-  "2023-10-27": 388368,
-  "2023-10-28": 388368,
-  "2023-10-29": 388368,
-  "2023-10-30": 388368,
-  "2023-10-31": 388368,
-  "2023-11-01": 388368,
-  "2023-11-02": 388368,
-  "2023-11-03": 388368,
-  "2023-11-04": 388368,
-  "2023-11-05": 388368,
-  "2023-11-06": 388368,
-  "2023-11-07": 388368,
-  "2023-11-08": 388368,
-  "2023-11-09": 388368,
-  "2023-11-10": 388368,
-  "2023-11-11": 388368,
-  "2023-11-12": 388368,
-  "2023-11-13": 388368,
-  "2023-11-14": 388368,
-  "2023-11-15": 388368,
-  "2023-11-16": 388368,
-  "2023-11-17": 388368,
-  "2023-11-18": 388368,
-  "2023-11-19": 388368,
-  "2023-11-20": 388368,
-  "2023-11-21": 388368,
-  "2023-11-22": 388368,
-  "2023-11-23": 388368,
-  "2023-11-24": 388368,
-  "2023-11-25": 388368,
-  "2023-11-26": 388368,
-  "2023-11-27": 388368,
-  "2023-11-28": 388368,
-  "2023-11-29": 388368,
-  "2023-11-30": 388368,
-  "2023-12-01": 388368,
-  "2023-12-02": 388368,
-  "2023-12-03": 388368,
-  "2023-12-04": 388368,
-  "2023-12-05": 388368,
-  "2023-12-06": 388368,
-  "2023-12-07": 388368,
-  "2023-12-08": 388368,
-  "2023-12-09": 388368,
-  "2023-12-10": 388368,
-  "2023-12-11": 388368,
-  "2023-12-12": 388368,
-  "2023-12-13": 388368,
-  "2023-12-14": 388368,
-  "2023-12-15": 388368,
-  "2023-12-16": 388368,
-  "2023-12-17": 388368,
-  "2023-12-18": 388368,
-  "2023-12-19": 388368,
-  "2023-12-20": 388368,
-  "2023-12-21": 388368,
-  "2023-12-22": 388368,
-  "2023-12-23": 388368,
-  "2023-12-24": 388368,
-  "2023-12-25": 388368,
-  "2023-12-26": 388368,
-  "2023-12-27": 388368,
-  "2023-12-30": 388368,
-  "2023-12-31": 388368,
-  "2024-01-01": 388368,
-  "2024-01-02": 388368,
-  "2024-01-03": 388368
+  "2024-01-17": 388368,
+  "date_first_scraped": "2021-12-21",
+  "description": "All of your favorite songs from the legendary singer-songwriter.",
+  "name": "This Is Leonard Cohen",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ten New Songs",
+        "url": "https://open.spotify.com/album/0AMbk6F6ZJ57OqlpB214gV"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385333,
+      "name": "A Thousand Kisses Deep",
+      "url": "https://open.spotify.com/track/1izTPgfFEyvc0hl7uYAzGt"
+    },
+    {
+      "album": {
+        "name": "Ten New Songs",
+        "url": "https://open.spotify.com/album/0AMbk6F6ZJ57OqlpB214gV"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322293,
+      "name": "Alexandra Leaving",
+      "url": "https://open.spotify.com/track/6UDouNjHCwal7zhVunKpGv"
+    },
+    {
+      "album": {
+        "name": "Popular Problems",
+        "url": "https://open.spotify.com/album/1WkGbKUjhOMru7uYl25jJb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "Almost Like the Blues",
+      "url": "https://open.spotify.com/track/0nlNtWasNLQRXBhAh06jvl"
+    },
+    {
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365520,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/7aAE5KL20Uycf3dswsaHjp"
+    },
+    {
+      "album": {
+        "name": "Songs Of Love And Hate",
+        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302013,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/2OXmMU1rITVtthEIh4A015"
+    },
+    {
+      "album": {
+        "name": "Songs From A Room",
+        "url": "https://open.spotify.com/album/2pTyJZOTqFYn2UPP30zZNl"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Bird on the Wire",
+      "url": "https://open.spotify.com/track/3M0QK0bYdiGMu6JNoPk8YG"
+    },
+    {
+      "album": {
+        "name": "New Skin For The Old Ceremony",
+        "url": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "Chelsea Hotel #2",
+      "url": "https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe"
+    },
+    {
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357960,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/2MeYsitFbcxoNVCO31Vjmz"
+    },
+    {
+      "album": {
+        "name": "Old Ideas",
+        "url": "https://open.spotify.com/album/3rKKkW53N1n2tAzZZw7sen"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Come Healing",
+      "url": "https://open.spotify.com/track/2hmsczw84d5O1dZgnDftRN"
+    },
+    {
+      "album": {
+        "name": "Various Positions",
+        "url": "https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280626,
+      "name": "Dance Me to the End of Love",
+      "url": "https://open.spotify.com/track/3mFzIFFFmEXTQs6BDAK2ZZ"
+    },
+    {
+      "album": {
+        "name": "Old Ideas",
+        "url": "https://open.spotify.com/album/3rKKkW53N1n2tAzZZw7sen"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/66wtQx26y4XcZqjIJV1LCK"
+    },
+    {
+      "album": {
+        "name": "Popular Problems",
+        "url": "https://open.spotify.com/album/1WkGbKUjhOMru7uYl25jJb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250520,
+      "name": "Did I Ever Love You",
+      "url": "https://open.spotify.com/track/2QCaIZQkKrDLmpSIcfQsDS"
+    },
+    {
+      "album": {
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334866,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
+    },
+    {
+      "album": {
+        "name": "Songs Of Love And Hate",
+        "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310773,
+      "name": "Famous Blue Raincoat",
+      "url": "https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE"
+    },
+    {
+      "album": {
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360133,
+      "name": "First We Take Manhattan",
+      "url": "https://open.spotify.com/track/6UEzGV76d96lYTA68iBO0B"
+    },
+    {
+      "album": {
+        "name": "Old Ideas",
+        "url": "https://open.spotify.com/album/3rKKkW53N1n2tAzZZw7sen"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/31HES4XMI99YKZAAhxsjj1"
+    },
+    {
+      "album": {
+        "name": "Various Positions",
+        "url": "https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277160,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9"
+    },
+    {
+      "album": {
+        "name": "Thanks for the Dance",
+        "url": "https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273093,
+      "name": "Happens to the Heart",
+      "url": "https://open.spotify.com/track/2DkpoHJ1h88e9dyc6SFIm2"
+    },
+    {
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176520,
+      "name": "Hey, That's No Way to Say Goodbye",
+      "url": "https://open.spotify.com/track/0wiwCdb8sWzz9ETztz8taE"
+    },
+    {
+      "album": {
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265186,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/5atFAXIgMXP378op4FaxBm"
+    },
+    {
+      "album": {
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "If I Didn't Have Your Love",
+      "url": "https://open.spotify.com/track/0WRusLjr3XEIBu44E8dFT6"
+    },
+    {
+      "album": {
+        "name": "Various Positions",
+        "url": "https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "If It Be Your Will",
+      "url": "https://open.spotify.com/track/2PMzWCQqhKyX1EVZ3xfZLe"
+    },
+    {
+      "album": {
+        "name": "Ten New Songs",
+        "url": "https://open.spotify.com/album/0AMbk6F6ZJ57OqlpB214gV"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293386,
+      "name": "In My Secret Life",
+      "url": "https://open.spotify.com/track/31TADh49q4s4jm6lGDeIrd"
+    },
+    {
+      "album": {
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261986,
+      "name": "It Seemed the Better Way",
+      "url": "https://open.spotify.com/track/1wDVl8APH2RbkEVTGtoq8C"
+    },
+    {
+      "album": {
+        "name": "Thanks for the Dance",
+        "url": "https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "It's Torn",
+      "url": "https://open.spotify.com/track/5juFtmBfy5jBAdhur9edB0"
+    },
+    {
+      "album": {
+        "name": "Songs From A Room",
+        "url": "https://open.spotify.com/album/2pTyJZOTqFYn2UPP30zZNl"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178506,
+      "name": "Lady Midnight",
+      "url": "https://open.spotify.com/track/0JyImnttoGAfZabt6Fyjko"
+    },
+    {
+      "album": {
+        "name": "New Skin For The Old Ceremony",
+        "url": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Lover Lover Lover",
+      "url": "https://open.spotify.com/track/5ilgu9Ds54wBPKL297K1iH"
+    },
+    {
+      "album": {
+        "name": "Thanks for the Dance",
+        "url": "https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/5jTFrebadVF0sinGqkuHsO"
+    },
+    {
+      "album": {
+        "name": "Popular Problems",
+        "url": "https://open.spotify.com/album/1WkGbKUjhOMru7uYl25jJb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216813,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/19y5sbhPCWJAOGcgKmKyCA"
+    },
+    {
+      "album": {
+        "name": "Popular Problems",
+        "url": "https://open.spotify.com/album/1WkGbKUjhOMru7uYl25jJb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279933,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/454DinyN4ouKpOrtEIIYQU"
+    },
+    {
+      "album": {
+        "name": "Old Ideas",
+        "url": "https://open.spotify.com/album/3rKKkW53N1n2tAzZZw7sen"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249253,
+      "name": "Show Me the Place",
+      "url": "https://open.spotify.com/track/1byNwPa0v6hga1QmPsqJUK"
+    },
+    {
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Sisters of Mercy",
+      "url": "https://open.spotify.com/track/6kWjYd3TKzXUh8jMBsm2mJ"
+    },
+    {
+      "album": {
+        "name": "Popular Problems",
+        "url": "https://open.spotify.com/album/1WkGbKUjhOMru7uYl25jJb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/5I2EVhgVWV0CElpY07bU5h"
+    },
+    {
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340560,
+      "name": "So Long, Marianne",
+      "url": "https://open.spotify.com/track/14CsqOaDkOkrZ49UJLtuOJ"
+    },
+    {
+      "album": {
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263480,
+      "name": "Steer Your Way",
+      "url": "https://open.spotify.com/track/53Em0dYoacDflMEROypSlD"
+    },
+    {
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+    },
+    {
+      "album": {
+        "name": "New Skin For The Old Ceremony",
+        "url": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246733,
+      "name": "Take This Longing",
+      "url": "https://open.spotify.com/track/5jrWQbZUFFI0KRAMW4teLx"
+    },
+    {
+      "album": {
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359426,
+      "name": "Take This Waltz - Paris Version",
+      "url": "https://open.spotify.com/track/4QbvmYYVLl8LNUsOXstLft"
+    },
+    {
+      "album": {
+        "name": "Thanks for the Dance",
+        "url": "https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253493,
+      "name": "Thanks for the Dance",
+      "url": "https://open.spotify.com/track/0LkDzYzNxLDU76KrFnudSu"
+    },
+    {
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401533,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/5l8lYrnPEM1ln3J4XaTcy5"
+    },
+    {
+      "album": {
+        "name": "Thanks for the Dance",
+        "url": "https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72266,
+      "name": "The Goal",
+      "url": "https://open.spotify.com/track/4rGOu09ZYgdOaET8BSai0w"
+    },
+    {
+      "album": {
+        "name": "Thanks for the Dance",
+        "url": "https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/6VXmfeZEeDbKgVBzQ5JyYN"
+    },
+    {
+      "album": {
+        "name": "Dear Heather",
+        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284906,
+      "name": "The Letters",
+      "url": "https://open.spotify.com/track/3tyG4HmvzZLlLwkUveXRSW"
+    },
+    {
+      "album": {
+        "name": "Thanks for the Dance",
+        "url": "https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "The Night of Santiago",
+      "url": "https://open.spotify.com/track/5FMKi4dq3hUdYeUvmwSIL0"
+    },
+    {
+      "album": {
+        "name": "Songs From A Room",
+        "url": "https://open.spotify.com/album/2pTyJZOTqFYn2UPP30zZNl"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205853,
+      "name": "The Partisan",
+      "url": "https://open.spotify.com/track/2E5vl5eF4M4QbaADGegVDP"
+    },
+    {
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307373,
+      "name": "The Stranger Song",
+      "url": "https://open.spotify.com/track/5BeT7nwfURe9hldXRhBMKM"
+    },
+    {
+      "album": {
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339053,
+      "name": "Tower of Song",
+      "url": "https://open.spotify.com/track/5OpDM7JORZzXPo0YIN3vYq"
+    },
+    {
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461906,
+      "name": "Waiting for the Miracle",
+      "url": "https://open.spotify.com/track/0xNWHoHZQEYo8iFH4QdwbK"
+    },
+    {
+      "album": {
+        "name": "New Skin For The Old Ceremony",
+        "url": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153493,
+      "name": "Who by Fire",
+      "url": "https://open.spotify.com/track/1JZ2NQMaA9oy4UeTI4oQcP"
+    },
+    {
+      "album": {
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2019-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284373,
+      "name": "You Want It Darker",
+      "url": "https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVpFvorxSZ6K"
 }

@@ -1,481 +1,1083 @@
 {
-  "2022-09-06": 132268,
-  "2022-09-07": 132259,
-  "2022-09-09": 132260,
-  "2022-09-10": 132284,
-  "2022-09-11": 132292,
-  "2022-09-12": 132282,
-  "2022-09-13": 132288,
-  "2022-09-15": 132295,
-  "2022-09-16": 132302,
-  "2022-09-17": 132298,
-  "2022-09-18": 132293,
-  "2022-09-19": 132287,
-  "2022-09-20": 132283,
-  "2022-09-21": 132279,
-  "2022-09-22": 132282,
-  "2022-09-23": 132268,
-  "2022-09-24": 132269,
-  "2022-09-25": 132265,
-  "2022-09-26": 132260,
-  "2022-09-27": 132247,
-  "2022-09-28": 132233,
-  "2022-09-29": 132221,
-  "2022-09-30": 132222,
-  "2022-10-01": 132223,
-  "2022-10-02": 132215,
-  "2022-10-03": 132214,
-  "2022-10-04": 132209,
-  "2022-10-05": 132213,
-  "2022-10-06": 132205,
-  "2022-10-07": 132209,
-  "2022-10-08": 132215,
-  "2022-10-09": 132211,
-  "2022-10-10": 132211,
-  "2022-10-11": 132199,
-  "2022-10-12": 132197,
-  "2022-10-13": 132175,
-  "2022-10-14": 132161,
-  "2022-10-15": 132159,
-  "2022-10-16": 132153,
-  "2022-10-17": 132150,
-  "2022-10-18": 132141,
-  "2022-10-19": 132121,
-  "2022-10-20": 132114,
-  "2022-10-21": 132120,
-  "2022-10-22": 132111,
-  "2022-10-23": 132108,
-  "2022-10-24": 132098,
-  "2022-10-25": 132088,
-  "2022-10-26": 132076,
-  "2022-10-27": 132065,
-  "2022-10-28": 132052,
-  "2022-10-29": 132043,
-  "2022-10-30": 132042,
-  "2022-10-31": 132050,
-  "2022-11-01": 132036,
-  "2022-11-02": 132041,
-  "2022-11-03": 132041,
-  "2022-11-04": 132041,
-  "2022-11-05": 132037,
-  "2022-11-06": 132043,
-  "2022-11-07": 132046,
-  "2022-11-08": 132045,
-  "2022-11-09": 132060,
-  "2022-11-10": 132049,
-  "2022-11-11": 132056,
-  "2022-11-12": 132048,
-  "2022-11-13": 132060,
-  "2022-11-14": 132058,
-  "2022-11-15": 132054,
-  "2022-11-16": 132055,
-  "2022-11-17": 132058,
-  "2022-11-18": 132035,
-  "2022-11-19": 132018,
-  "2022-11-20": 132023,
-  "2022-11-21": 132016,
-  "2022-11-22": 132014,
-  "2022-11-23": 132009,
-  "2022-11-24": 132026,
-  "2022-11-25": 132033,
-  "2022-11-26": 132038,
-  "2022-11-27": 132042,
-  "2022-11-28": 132038,
-  "2022-11-29": 132063,
-  "2022-11-30": 132084,
-  "2022-12-01": 132103,
-  "2022-12-02": 132157,
-  "2022-12-03": 132274,
-  "2022-12-04": 132397,
-  "2022-12-05": 132504,
-  "2022-12-06": 132568,
-  "2022-12-07": 132645,
-  "2022-12-08": 132729,
-  "2022-12-09": 132788,
-  "2022-12-10": 132884,
-  "2022-12-11": 132977,
-  "2022-12-12": 133091,
-  "2022-12-13": 133168,
-  "2022-12-14": 133244,
-  "2022-12-15": 133346,
-  "2022-12-16": 133461,
-  "2022-12-17": 133555,
-  "2022-12-18": 133657,
-  "2022-12-19": 133749,
-  "2022-12-20": 133932,
-  "2022-12-21": 133932,
-  "2022-12-22": 134036,
-  "2022-12-24": 134223,
-  "2022-12-25": 134306,
-  "2022-12-26": 134390,
-  "2022-12-27": 134525,
-  "2022-12-28": 134626,
-  "2022-12-29": 134727,
-  "2022-12-30": 134812,
-  "2022-12-31": 134899,
-  "2023-01-01": 134975,
-  "2023-01-02": 135061,
-  "2023-01-03": 135148,
-  "2023-01-04": 135230,
-  "2023-01-05": 135335,
-  "2023-01-06": 135432,
-  "2023-01-07": 135578,
-  "2023-01-08": 135590,
-  "2023-01-09": 135690,
-  "2023-01-10": 135771,
-  "2023-01-11": 135849,
-  "2023-01-12": 135945,
-  "2023-01-13": 136031,
-  "2023-01-14": 136167,
-  "2023-01-15": 136182,
-  "2023-01-16": 136284,
-  "2023-01-17": 136363,
-  "2023-01-18": 136447,
-  "2023-01-19": 136529,
-  "2023-01-20": 136608,
-  "2023-01-21": 136688,
-  "2023-01-22": 136754,
-  "2023-01-23": 136848,
-  "2023-01-24": 136910,
-  "2023-01-25": 136962,
-  "2023-01-26": 137031,
-  "2023-01-27": 137092,
-  "2023-01-28": 137163,
-  "2023-01-29": 137204,
-  "2023-01-30": 137249,
-  "2023-01-31": 137249,
-  "2023-02-01": 137341,
-  "2023-02-02": 137386,
-  "2023-02-03": 137421,
-  "2023-02-04": 137477,
-  "2023-02-05": 137531,
-  "2023-02-06": 137564,
-  "2023-02-07": 137615,
-  "2023-02-08": 137708,
-  "2023-02-09": 137708,
-  "2023-02-10": 137750,
-  "2023-02-11": 137770,
-  "2023-02-12": 137862,
-  "2023-02-13": 137896,
-  "2023-02-14": 137896,
-  "2023-02-15": 137947,
-  "2023-02-16": 137983,
-  "2023-02-17": 138005,
-  "2023-02-18": 138045,
-  "2023-02-19": 138056,
-  "2023-02-20": 138086,
-  "2023-02-21": 138115,
-  "2023-02-22": 138136,
-  "2023-02-23": 138143,
-  "2023-02-24": 138156,
-  "2023-02-25": 138177,
-  "2023-02-26": 138184,
-  "2023-02-27": 138221,
-  "2023-02-28": 138221,
-  "2023-03-01": 138244,
-  "2023-03-02": 138244,
-  "2023-03-03": 138251,
-  "2023-03-04": 138251,
-  "2023-03-05": 138288,
-  "2023-03-06": 138288,
-  "2023-03-07": 138296,
-  "2023-03-08": 138314,
-  "2023-03-09": 138335,
-  "2023-03-10": 138349,
-  "2023-03-11": 138404,
-  "2023-03-12": 138568,
-  "2023-03-13": 138933,
-  "2023-03-14": 139222,
-  "2023-03-15": 139521,
-  "2023-03-16": 139857,
-  "2023-03-17": 139857,
-  "2023-03-18": 140395,
-  "2023-03-19": 140714,
-  "2023-03-20": 141022,
-  "2023-03-21": 141310,
-  "2023-03-22": 141602,
-  "2023-03-23": 141892,
-  "2023-03-24": 141892,
-  "2023-03-25": 142438,
-  "2023-03-26": 142750,
-  "2023-03-27": 143049,
-  "2023-03-28": 143353,
-  "2023-03-29": 143695,
-  "2023-03-30": 144260,
-  "2023-03-31": 144260,
-  "2023-04-01": 144620,
-  "2023-04-02": 144928,
-  "2023-04-03": 145243,
-  "2023-04-04": 145509,
-  "2023-04-05": 145796,
-  "2023-04-06": 146097,
-  "2023-04-07": 146396,
-  "2023-04-09": 147006,
-  "2023-04-10": 147318,
-  "2023-04-11": 147894,
-  "2023-04-12": 147894,
-  "2023-04-13": 148211,
-  "2023-04-14": 148473,
-  "2023-04-15": 148715,
-  "2023-04-16": 148947,
-  "2023-04-17": 149199,
-  "2023-04-18": 149439,
-  "2023-04-19": 149676,
-  "2023-04-20": 149953,
-  "2023-04-21": 150249,
-  "2023-04-22": 150526,
-  "2023-04-23": 150794,
-  "2023-04-24": 151064,
-  "2023-04-25": 151318,
-  "2023-04-26": 151600,
-  "2023-04-27": 151813,
-  "2023-04-28": 152034,
-  "2023-04-29": 152265,
-  "2023-04-30": 152505,
-  "2023-05-01": 152737,
-  "2023-05-02": 152942,
-  "2023-05-03": 153155,
-  "2023-05-04": 153396,
-  "2023-05-05": 153590,
-  "2023-05-06": 153834,
-  "2023-05-07": 154070,
-  "2023-05-08": 154292,
-  "2023-05-09": 154508,
-  "2023-05-10": 154748,
-  "2023-05-11": 154975,
-  "2023-05-12": 155162,
-  "2023-05-13": 155378,
-  "2023-05-14": 155575,
-  "2023-05-15": 155788,
-  "2023-05-16": 156001,
-  "2023-05-17": 156189,
-  "2023-05-18": 156387,
-  "2023-05-19": 156591,
-  "2023-05-20": 156947,
-  "2023-05-21": 156947,
-  "2023-05-22": 156947,
-  "2023-05-23": 157304,
-  "2023-05-24": 157620,
-  "2023-05-25": 157682,
-  "2023-05-26": 157857,
-  "2023-05-27": 158067,
-  "2023-05-28": 158273,
-  "2023-05-29": 158273,
-  "2023-05-30": 158624,
-  "2023-05-31": 158831,
-  "2023-06-01": 159001,
-  "2023-06-02": 159169,
-  "2023-06-03": 159338,
-  "2023-06-04": 159514,
-  "2023-06-05": 159724,
-  "2023-06-06": 159899,
-  "2023-06-07": 160049,
-  "2023-06-08": 160206,
-  "2023-06-09": 160385,
-  "2023-06-10": 160579,
-  "2023-06-11": 160780,
-  "2023-06-12": 160930,
-  "2023-06-13": 161086,
-  "2023-06-14": 161256,
-  "2023-06-15": 161386,
-  "2023-06-16": 161522,
-  "2023-06-17": 161679,
-  "2023-06-18": 161834,
-  "2023-06-19": 161996,
-  "2023-06-20": 162135,
-  "2023-06-21": 162311,
-  "2023-06-22": 162471,
-  "2023-06-23": 162615,
-  "2023-06-24": 162771,
-  "2023-06-25": 162928,
-  "2023-06-26": 163100,
-  "2023-06-27": 163225,
-  "2023-06-28": 163354,
-  "2023-06-29": 163566,
-  "2023-06-30": 163732,
-  "2023-07-01": 164069,
-  "2023-07-02": 164069,
-  "2023-07-03": 164232,
-  "2023-07-04": 164392,
-  "2023-07-05": 164558,
-  "2023-07-06": 164882,
-  "2023-07-07": 164882,
-  "2023-07-08": 165063,
-  "2023-07-09": 165236,
-  "2023-07-10": 165397,
-  "2023-07-11": 165547,
-  "2023-07-12": 165720,
-  "2023-07-13": 165866,
-  "2023-07-14": 166021,
-  "2023-07-15": 166137,
-  "2023-07-16": 166321,
-  "2023-07-17": 166494,
-  "2023-07-18": 166667,
-  "2023-07-19": 166894,
-  "2023-07-20": 167075,
-  "2023-07-21": 167254,
-  "2023-07-22": 167411,
-  "2023-07-23": 167581,
-  "2023-07-24": 167727,
-  "2023-07-25": 167864,
-  "2023-07-26": 168021,
-  "2023-07-27": 168145,
-  "2023-07-28": 168304,
-  "2023-07-29": 168441,
-  "2023-07-30": 168627,
-  "2023-07-31": 168768,
-  "2023-08-01": 168932,
-  "2023-08-02": 169060,
-  "2023-08-03": 169234,
-  "2023-08-04": 169395,
-  "2023-08-05": 169558,
-  "2023-08-06": 169864,
-  "2023-08-07": 169864,
-  "2023-08-08": 170044,
-  "2023-08-09": 170191,
-  "2023-08-10": 170335,
-  "2023-08-11": 170468,
-  "2023-08-12": 170652,
-  "2023-08-13": 170796,
-  "2023-08-14": 170953,
-  "2023-08-15": 171228,
-  "2023-08-16": 171228,
-  "2023-08-17": 171369,
-  "2023-08-18": 171514,
-  "2023-08-19": 171651,
-  "2023-08-20": 171783,
-  "2023-08-21": 171937,
-  "2023-08-22": 172084,
-  "2023-08-23": 172239,
-  "2023-08-24": 172370,
-  "2023-08-25": 172481,
-  "2023-08-26": 172589,
-  "2023-08-27": 172708,
-  "2023-08-28": 172845,
-  "2023-08-29": 172999,
-  "2023-08-30": 173135,
-  "2023-08-31": 173270,
-  "2023-09-01": 173543,
-  "2023-09-02": 173543,
-  "2023-09-03": 173656,
-  "2023-09-04": 173828,
-  "2023-09-05": 173968,
-  "2023-09-06": 174127,
-  "2023-09-07": 174269,
-  "2023-09-08": 174421,
-  "2023-09-09": 174596,
-  "2023-09-10": 174784,
-  "2023-09-11": 174926,
-  "2023-09-12": 175082,
-  "2023-09-13": 175270,
-  "2023-09-14": 175415,
-  "2023-09-15": 175549,
-  "2023-09-16": 175686,
-  "2023-09-17": 175839,
-  "2023-09-18": 175983,
-  "2023-09-19": 176127,
-  "2023-09-20": 176261,
-  "2023-09-21": 176431,
-  "2023-09-22": 176563,
-  "2023-09-23": 176687,
-  "2023-09-24": 176856,
-  "2023-09-25": 177027,
-  "2023-09-26": 177208,
-  "2023-09-27": 177318,
-  "2023-09-28": 177478,
-  "2023-09-29": 177632,
-  "2023-09-30": 177786,
-  "2023-10-01": 177927,
-  "2023-10-02": 178041,
-  "2023-10-03": 178146,
-  "2023-10-04": 178299,
-  "2023-10-05": 178435,
-  "2023-10-06": 178580,
-  "2023-10-07": 178724,
-  "2023-10-08": 178872,
-  "2023-10-09": 179028,
-  "2023-10-10": 179153,
-  "2023-10-11": 179397,
-  "2023-10-12": 179397,
-  "2023-10-13": 179495,
-  "2023-10-14": 179635,
-  "2023-10-15": 179805,
-  "2023-10-16": 179972,
-  "2023-10-17": 180120,
-  "2023-10-18": 180282,
-  "2023-10-19": 180448,
-  "2023-10-20": 180609,
-  "2023-10-21": 180759,
-  "2023-10-22": 180906,
-  "2023-10-23": 181027,
-  "2023-10-24": 181147,
-  "2023-10-25": 181265,
-  "2023-10-26": 181420,
-  "2023-10-27": 181546,
-  "2023-10-28": 181700,
-  "2023-10-29": 181836,
-  "2023-10-30": 182095,
-  "2023-10-31": 182095,
-  "2023-11-01": 182226,
-  "2023-11-02": 182340,
-  "2023-11-03": 182470,
-  "2023-11-04": 182588,
-  "2023-11-05": 182726,
-  "2023-11-06": 182836,
-  "2023-11-07": 182958,
-  "2023-11-08": 183078,
-  "2023-11-09": 183180,
-  "2023-11-10": 183311,
-  "2023-11-11": 183448,
-  "2023-11-12": 183559,
-  "2023-11-13": 183698,
-  "2023-11-14": 183815,
-  "2023-11-15": 183815,
-  "2023-11-16": 184040,
-  "2023-11-17": 184286,
-  "2023-11-18": 184286,
-  "2023-11-19": 184375,
-  "2023-11-20": 184506,
-  "2023-11-21": 184621,
-  "2023-11-22": 184726,
-  "2023-11-23": 184826,
-  "2023-11-24": 184942,
-  "2023-11-25": 185049,
-  "2023-11-26": 185159,
-  "2023-11-27": 185274,
-  "2023-11-28": 185358,
-  "2023-11-29": 185630,
-  "2023-11-30": 185630,
-  "2023-12-01": 185759,
-  "2023-12-02": 185894,
-  "2023-12-03": 185999,
-  "2023-12-04": 186094,
-  "2023-12-05": 186226,
-  "2023-12-06": 186319,
-  "2023-12-07": 186467,
-  "2023-12-08": 186581,
-  "2023-12-09": 186744,
-  "2023-12-10": 186921,
-  "2023-12-11": 187102,
-  "2023-12-12": 187260,
-  "2023-12-13": 187419,
-  "2023-12-14": 187617,
-  "2023-12-15": 187734,
-  "2023-12-16": 187888,
-  "2023-12-17": 188029,
-  "2023-12-18": 188169,
-  "2023-12-19": 188290,
-  "2023-12-20": 188461,
-  "2023-12-21": 188590,
-  "2023-12-22": 188704,
-  "2023-12-23": 188827,
-  "2023-12-24": 188927,
-  "2023-12-25": 189047,
-  "2023-12-26": 189159,
-  "2023-12-27": 189277,
-  "2023-12-30": 189663,
-  "2023-12-31": 189784,
-  "2024-01-01": 189884,
-  "2024-01-02": 189995,
-  "2024-01-03": 190121
+  "2024-01-17": 191852,
+  "date_first_scraped": "2022-09-06",
+  "description": "Enjoy Music From \"JoJo's Bizarre Adventure\" series! \u30b8\u30e7\u30b8\u30e7\u306e\u6b74\u4ee3\u95a2\u9023\u697d\u66f2\u304c\u4e00\u5802\u306b\u4f1a\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9LUCKY LAND COMMUNICATIONS/\u96c6\u82f1\u793e\u30fb\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967aSO\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a -JOJO's Bizarre Adventure-\u30b7\u30ea\u30fc\u30ba",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2473874,
+      "name": "#01 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u5c0f\u91ce\u5927\u8f14\u300c\u5f90\u502b\u00d7\u627f\u592a\u90ce\u3000\u89aa\u5b50\u5f79\u5bfe\u8ac7\u300d",
+      "url": "https://open.spotify.com/episode/7L05z3dhNxgffDvcWpUpaY"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1753573,
+      "name": "#02 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u7530\u6751\u7766\u5fc3\u300c\u30a8\u30eb\u30e1\u30a7\u30b9\u306e\u9b45\u529b\u3001\u30a2\u30d5\u30ec\u30b3\u30a8\u30d4\u30bd\u30fc\u30c9\u306b\u8feb\u308b\uff01\u300d",
+      "url": "https://open.spotify.com/episode/0WPl6ifx7qiYpdvPkFNims"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1605694,
+      "name": "#03 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u7530\u6751\u7766\u5fc3\u300c\u5f90\u502b\u00d7\u30a8\u30eb\u30e1\u30a7\u30b9\u3001\u30b9\u30bf\u30f3\u30c9\u30c8\u30fc\u30af\u300d",
+      "url": "https://open.spotify.com/episode/1Nc00D2ymuK4rQhbDqEEh3"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1620009,
+      "name": "#04 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u4f0a\u702c\u8309\u8389\u4e5f\u300c\u30d5\u30fc\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba\u306e\u9b45\u529b\u3001\u5f90\u502b\u00d7\u30a8\u30eb\u30e1\u30a7\u30b9\u00d7\u30d5\u30fc\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba\u30013\u4eba\u306e\u7d46\u3092\u8a9e\u308b\u300d",
+      "url": "https://open.spotify.com/episode/2RkTUBkH3MwjXH6B3uzboy"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1512855,
+      "name": "#05 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u4f0a\u702c\u8309\u8389\u4e5f\u300c\u3082\u3057\u3082\u30b9\u30bf\u30f3\u30c9\u80fd\u529b\u306b\u76ee\u899a\u3081\u305f\u3089\uff1f\u3042\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306b\u306a\u308c\u305f\u3089\uff1f\u300d",
+      "url": "https://open.spotify.com/episode/5frW066KZUflTu2SiGy1Fh"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Stardust Crusaders O.S.T [Destination]",
+        "url": "https://open.spotify.com/album/1fLTdMU8DuK2TZKr12bVcc"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245586,
+      "name": "Akuyaku Kyousoukyoku",
+      "url": "https://open.spotify.com/track/4pudEMQK6XARck35F3exSf"
+    },
+    {
+      "album": {
+        "name": "Akuyaku Kyousoukyoku - Hol Horse&Boingo (TV edit)",
+        "url": "https://open.spotify.com/album/4usndDNRXIiDMkqwhg3uy3"
+      },
+      "artists": [
+        {
+          "name": "\u30db\u30eb\u30db\u30fc\u30b9",
+          "url": "https://open.spotify.com/artist/09FLbWkSkeiHzBQT9dtnMl"
+        },
+        {
+          "name": "\u30dc\u30a4\u30f3\u30b4",
+          "url": "https://open.spotify.com/artist/1rHmhZwZq6GhjgQGLNrwWH"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 96827,
+      "name": "Akuyaku Kyousoukyoku - Hol Horse&Boingo - TV edit",
+      "url": "https://open.spotify.com/track/4DcppU8fRbxpisunykVatV"
+    },
+    {
+      "album": {
+        "name": "Akuyaku Kyousoukyoku - Hol Horse&Boingo (TV edit)",
+        "url": "https://open.spotify.com/album/5jDMmuimKXAUqOfuanQL3z"
+      },
+      "artists": [
+        {
+          "name": "\u30db\u30eb\u30db\u30fc\u30b9",
+          "url": "https://open.spotify.com/artist/09FLbWkSkeiHzBQT9dtnMl"
+        },
+        {
+          "name": "\u30dc\u30a4\u30f3\u30b4",
+          "url": "https://open.spotify.com/artist/1rHmhZwZq6GhjgQGLNrwWH"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96827,
+      "name": "Akuyaku Kyousoukyoku - Hol Horse&Boingo - TV edit",
+      "url": "https://open.spotify.com/track/5XuNJS2K8eJn4hCK7O5LU4"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -O.S.T.] Battle Tendency [leicht verwendbar]",
+        "url": "https://open.spotify.com/album/7rRH32n9XtGHIpbHSfQbFH"
+      },
+      "artists": [
+        {
+          "name": "Taku Iwasaki",
+          "url": "https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201626,
+      "name": "awake",
+      "url": "https://open.spotify.com/track/1qqbzYjbflz9oo0nwqrKSz"
+    },
+    {
+      "album": {
+        "name": "BLOODY STREAM",
+        "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261920,
+      "name": "BLOODY STREAM",
+      "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -The anthology songs 2",
+        "url": "https://open.spotify.com/album/3eLV7aW42uF9bNyTaYhrjS"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309426,
+      "name": "BLOODY STREAM - mito remix ver.",
+      "url": "https://open.spotify.com/track/2Dw8K5XY626FqVFi1TqAkH"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture",
+        "url": "https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144862,
+      "name": "Canzoni preferite",
+      "url": "https://open.spotify.com/track/5aanhLobXHQ8ODj2LBJ077"
+    },
+    {
+      "album": {
+        "name": "chase",
+        "url": "https://open.spotify.com/album/1PVmWC0v2EES44AzAMFkHi"
+      },
+      "artists": [
+        {
+          "name": "batta",
+          "url": "https://open.spotify.com/artist/5vyNgIKfSHb5dvDvDXupGL"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145400,
+      "name": "chase",
+      "url": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -The anthology songs 2",
+        "url": "https://open.spotify.com/album/3eLV7aW42uF9bNyTaYhrjS"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269613,
+      "name": "Crazy my Beat",
+      "url": "https://open.spotify.com/track/7oerymdzyu2uCo4HVzdNF8"
+    },
+    {
+      "album": {
+        "name": "CRAZY NOISY BIZARRE TOWN",
+        "url": "https://open.spotify.com/album/3IRbWMKkKfhnTETLLsAMxp"
+      },
+      "artists": [
+        {
+          "name": "THE DU",
+          "url": "https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "CRAZY NOISY BIZARRE TOWN",
+      "url": "https://open.spotify.com/track/2TsyTag2aNa4wmUNmExzcI"
+    },
+    {
+      "album": {
+        "name": "CRAZY NOISY BIZARRE TOWN",
+        "url": "https://open.spotify.com/album/3IRbWMKkKfhnTETLLsAMxp"
+      },
+      "artists": [
+        {
+          "name": "THE DU",
+          "url": "https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187573,
+      "name": "CRAZY NOISY BIZARRE TOWN - EDM ARRANGE VER.",
+      "url": "https://open.spotify.com/track/2HR8ujhAog0t1TE4gBAROy"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Diamond is unbreakable O.S.T Vol.1 -Good Morning Morioh Cho- Music by Yugo Kanno",
+        "url": "https://open.spotify.com/album/047NzKZzhHtLaaedoKi0Cy"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "Diamond is unbreakable - Main Theme",
+      "url": "https://open.spotify.com/track/6GqMQUzxuTG88y5WZ0HYLr"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Diamond is unbreakable O.S.T Vol.2 -Good Night Morioh Cho- Music by Yugo Kanno",
+        "url": "https://open.spotify.com/album/6EjSwMnJ4X9QEbyxJJoKiT"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190520,
+      "name": "Diamond is unbreakable - Stand Hatsudo",
+      "url": "https://open.spotify.com/track/5DOen5nBZ36iOcLAKuFAv9"
+    },
+    {
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305666,
+      "name": "Distant Dreamer",
+      "url": "https://open.spotify.com/track/1uqXrzulcVflfeZDHbyjIs"
+    },
+    {
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/2OuWoPMcycxPMJVYc7o76n"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 305666,
+      "name": "Distant Dreamer",
+      "url": "https://open.spotify.com/track/4VMajpAU5WVMiteA8HclBK"
+    },
+    {
+      "album": {
+        "name": "Fighting Gold",
+        "url": "https://open.spotify.com/album/1UMwWm9cXGyMsjMCnmPxrA"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253185,
+      "name": "Fighting Gold",
+      "url": "https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS"
+    },
+    {
+      "album": {
+        "name": "KishibeROhan ha Ugokanai Theme",
+        "url": "https://open.spotify.com/album/6AHlfjwgfilkHGxEuB6TXf"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237014,
+      "name": "FINDING THE TRUTH",
+      "url": "https://open.spotify.com/track/52lYgkdeCJhWlNdII4xUsh"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -The anthology songs 1",
+        "url": "https://open.spotify.com/album/48MMqSMizzqodUM71W2Dux"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269640,
+      "name": "Fire of Soul",
+      "url": "https://open.spotify.com/track/0q7qskWlWOcVBQgDkAtzQc"
+    },
+    {
+      "album": {
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379240,
+      "name": "Freek'n You",
+      "url": "https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ"
+    },
+    {
+      "album": {
+        "name": "Great Days",
+        "url": "https://open.spotify.com/album/3u3WsbVPLT0fXiClx9GYD9"
+      },
+      "artists": [
+        {
+          "name": "Karen Aoki",
+          "url": "https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ"
+        },
+        {
+          "name": "\u30cf\u30bb\u30ac\u30ef\u30c0\u30a4\u30b9\u30b1",
+          "url": "https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243376,
+      "name": "Great Days",
+      "url": "https://open.spotify.com/track/1Ub6VfiTXgyV8HnsfzrZzC"
+    },
+    {
+      "album": {
+        "name": "Heaven\u2019s falling down",
+        "url": "https://open.spotify.com/album/4fJPCGw5H94MX6TGOe6gBd"
+      },
+      "artists": [
+        {
+          "name": "sana (sajou no hana)",
+          "url": "https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215572,
+      "name": "Heaven\u2019s falling down",
+      "url": "https://open.spotify.com/track/5viPEz1dLOhTXNEeZEscGH"
+    },
+    {
+      "album": {
+        "name": "Heaven\u2019s falling down",
+        "url": "https://open.spotify.com/album/4k9eadDUC9Mgab8rFcEiSS"
+      },
+      "artists": [
+        {
+          "name": "sana (sajou no hana)",
+          "url": "https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 215572,
+      "name": "Heaven\u2019s falling down",
+      "url": "https://open.spotify.com/track/6q8zgVqFyHm7tnrhe7gMMQ"
+    },
+    {
+      "album": {
+        "name": "Heaven\u2019s falling down (Dawning Ver.)",
+        "url": "https://open.spotify.com/album/6IKlaUpstRmBZeuTChMYvK"
+      },
+      "artists": [
+        {
+          "name": "sana (sajou no hana)",
+          "url": "https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93596,
+      "name": "Heaven\u2019s falling down - Dawning Ver.",
+      "url": "https://open.spotify.com/track/5QRrqq6JS5Nu1SBqVaSlzX"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Stardust Crusaders O.S.T ~Daydream~",
+        "url": "https://open.spotify.com/album/3fJ4pKdRGj90KQjX7Yw4Ij"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89906,
+      "name": "Hirusagarino Morioutyou",
+      "url": "https://open.spotify.com/track/10nGab5OtYD9KnWXSmXyqk"
+    },
+    {
+      "album": {
+        "name": "Savage Garden",
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Stardust Crusaders O.S.T. [Journey]",
+        "url": "https://open.spotify.com/album/2J0be2vacQ9Nq6bJOy852F"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121800,
+      "name": "Ikoi - Piano Ver.",
+      "url": "https://open.spotify.com/track/4yTZHUAl92UrfOrNfz4qNe"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture",
+        "url": "https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295575,
+      "name": "il vento d'oro",
+      "url": "https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.2 Intermezzo",
+        "url": "https://open.spotify.com/album/4cLP1UgLCeyEenAts75zt3"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145416,
+      "name": "incursione",
+      "url": "https://open.spotify.com/track/0AEG8qKaw6Kj7tHZTuI4Oh"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -O.S.T Phantom Blood [Destiny]",
+        "url": "https://open.spotify.com/album/5sDIScxAtWCV3Ehsn5cUPm"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u5c3e\u65e9\u4eba",
+          "url": "https://open.spotify.com/artist/0AJFWjU9y4C16lrdCrM9bn"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137280,
+      "name": "Ishikamen Josyou",
+      "url": "https://open.spotify.com/track/6oF5weSdHWvRqNKfNPlM6p"
+    },
+    {
+      "album": {
+        "name": "JOJO SONO CHINO SADAME",
+        "url": "https://open.spotify.com/album/0t9GYCbtohYvtA60qUBCHa"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262566,
+      "name": "JOJO SONO CHINO SADAME",
+      "url": "https://open.spotify.com/track/08q2CrXYf1ZaMbcKViPdVA"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -The anthology songs 1",
+        "url": "https://open.spotify.com/album/48MMqSMizzqodUM71W2Dux"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "JOJO SONO CHINO SADAME - Archetype Mix Ver.",
+      "url": "https://open.spotify.com/track/46Qjvv3Rg9ciravZaxTYhF"
+    },
+    {
+      "album": {
+        "name": "JoJo Sonochino Kioku~end of THE WORLD~",
+        "url": "https://open.spotify.com/album/2w1cFFSElKsA6VVqxbh6aO"
+      },
+      "artists": [
+        {
+          "name": "JO\u2606STARS \u301cTOMMY,Coda,JIN\u301c",
+          "url": "https://open.spotify.com/artist/6l9Y8mTIIt63S8okk7haDk"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263566,
+      "name": "JoJo Sonochino Kioku~end of THE WORLD~",
+      "url": "https://open.spotify.com/track/6x5R5nYhMCwfIJILBi25Ss"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Stardust Crusaders O.S.T ~Nightwalk~",
+        "url": "https://open.spotify.com/album/6lzPBA2THFUoWnboi85aQC"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Koukatsuna Nezumi",
+      "url": "https://open.spotify.com/track/7GOcaGMgjXCQtJf8TMAu75"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Stardust Crusaders O.S.T [Departure]",
+        "url": "https://open.spotify.com/album/0eF8omWNFE3HQEcKoZZhDC"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "Kouketsunaru Kyoukou",
+      "url": "https://open.spotify.com/track/0nA51z4UszHDnVihedcPFQ"
+    },
+    {
+      "album": {
+        "name": "Still Life (Talking)",
+        "url": "https://open.spotify.com/album/2hLXa5j81nsOy8KmqM1sSx"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338186,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/0Rr5Lw09CzqcchhsH0Pmhs"
+    },
+    {
+      "album": {
+        "name": "Still Life (Talking)",
+        "url": "https://open.spotify.com/album/5YnUbwAzrorRuvSJ0sCj7n"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 338186,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/2O7heTmxheKOe1T0jNBPd1"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -The anthology songs 1",
+        "url": "https://open.spotify.com/album/48MMqSMizzqodUM71W2Dux"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404466,
+      "name": "Miraiheno Isan -Jonathan's Ballad-",
+      "url": "https://open.spotify.com/track/7zwA5jezcEzenC1UorhZQy"
+    },
+    {
+      "album": {
+        "name": "The Screen Behind The Mirror",
+        "url": "https://open.spotify.com/album/7DYEllaK5Cxa2cbcCF1QDV"
+      },
+      "artists": [
+        {
+          "name": "Enigma",
+          "url": "https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Modern Crusaders",
+      "url": "https://open.spotify.com/track/65fqcmj2M1EiERwDoIflDt"
+    },
+    {
+      "album": {
+        "name": "Ultimate Yes: 35th Anniversary Collection",
+        "url": "https://open.spotify.com/album/37GBIGYhZlXUZA0NZ4ifHl"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512386,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/6KIFja6dizWkI7IpY0vmr8"
+    },
+    {
+      "album": {
+        "name": "Fragile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 510573,
+      "name": "Roundabout - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
+    },
+    {
+      "album": {
+        "name": "STAND PROUD",
+        "url": "https://open.spotify.com/album/4p5qdQrjYGuVwakXJ1hB4k"
+      },
+      "artists": [
+        {
+          "name": "Jin Hashimoto",
+          "url": "https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278066,
+      "name": "STAND PROUD",
+      "url": "https://open.spotify.com/track/3OqPSJsqe4LvcaVl7G6vV3"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -The anthology songs 3",
+        "url": "https://open.spotify.com/album/5MGmqY04cQTY3YUQpRp9EE"
+      },
+      "artists": [
+        {
+          "name": "Jin Hashimoto",
+          "url": "https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309026,
+      "name": "STAND PROUD - Dramatic Ver.",
+      "url": "https://open.spotify.com/track/1Rd9BnPgT6eRLwsvfUZauD"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -The anthology songs 3",
+        "url": "https://open.spotify.com/album/5MGmqY04cQTY3YUQpRp9EE"
+      },
+      "artists": [
+        {
+          "name": "Jin Hashimoto",
+          "url": "https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Star Platinum",
+      "url": "https://open.spotify.com/track/34CDBlgjypWjh6oYCSujNk"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Stardust Crusaders O.S.T [Departure]",
+        "url": "https://open.spotify.com/album/0eF8omWNFE3HQEcKoZZhDC"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307893,
+      "name": "Stardust Crusaders",
+      "url": "https://open.spotify.com/track/1xsExFad0m5ikHaejXZrcA"
+    },
+    {
+      "album": {
+        "name": "STONE OCEAN",
+        "url": "https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x"
+      },
+      "artists": [
+        {
+          "name": "ichigo from \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209744,
+      "name": "STONE OCEAN",
+      "url": "https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE"
+    },
+    {
+      "album": {
+        "name": "STONE OCEAN",
+        "url": "https://open.spotify.com/album/5oi3REKib6gbSmPjigEEOB"
+      },
+      "artists": [
+        {
+          "name": "ichigo from \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209744,
+      "name": "STONE OCEAN - English Ver.",
+      "url": "https://open.spotify.com/track/37jKhtJXXIEMBt7FDe0ldB"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -STONE OCEAN O.S.T.",
+        "url": "https://open.spotify.com/album/59jHnSsQJNpDH0emUDfPXR"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283094,
+      "name": "Theme of Stone Ocean",
+      "url": "https://open.spotify.com/track/3puQsyxs4ZCgCzt8GQHpNW"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3 O.S.T.",
+        "url": "https://open.spotify.com/album/0jkIDp65gHymoVhF62qUWw"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 283094,
+      "name": "Theme of Stone Ocean",
+      "url": "https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.3 Finare",
+        "url": "https://open.spotify.com/album/3MYc7n3EUljB6Qq2pwzECI"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "Uragirimonono Requiem - Diavolo Ver.",
+      "url": "https://open.spotify.com/track/4CoTazwZS0VXFHgqgmVT85"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.3 Finare",
+        "url": "https://open.spotify.com/album/3MYc7n3EUljB6Qq2pwzECI"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219187,
+      "name": "Uragirimonono Requiem - Giorno Ver.",
+      "url": "https://open.spotify.com/track/3q7hI6kxCAbj0yDTR4asML"
+    },
+    {
+      "album": {
+        "name": "Different Light (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203226,
+      "name": "Walk Like an Egyptian",
+      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
+    },
+    {
+      "album": {
+        "name": "Divas, Divas, Divas (50 Songs)",
+        "url": "https://open.spotify.com/album/0epy1rU60GUBXNtT0QjfJh"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 203866,
+      "name": "Walk Like an Egyptian",
+      "url": "https://open.spotify.com/track/6WvRGRyr64qWaKKIy65IoH"
+    },
+    {
+      "album": {
+        "name": "JOJO'S BIZARRE ADVENTURE -Diamond is unbreakable O.S.T Vol.1 -Good Morning Morioh Cho- Music by Yugo Kanno",
+        "url": "https://open.spotify.com/album/047NzKZzhHtLaaedoKi0Cy"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84786,
+      "name": "YOU ARE MY WOMAN/Alex Reid",
+      "url": "https://open.spotify.com/track/2eJjvI5NFznEpURl71EnfX"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044 \u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/3ZY4GpMESrino04Mxg3NIQ"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044 \u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
+          "url": "https://open.spotify.com/artist/4dlKSVK8ZQL819SWwpEwNt"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17922,
+      "name": "\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044 \u30b3\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/30bWgKYHsGECq5JbUqSAxQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7gGgYckDfuN"
 }

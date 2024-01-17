@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,268 likes - 83 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,336 likes - 83 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 50 | [Hura\-Haru](https://open.spotify.com/track/14uNVm8P3giMT9e5cGln7I) | [Feel Koplo](https://open.spotify.com/artist/1I7J7ZNNQne6VhffsSECR4) | [A Culture A 6](https://open.spotify.com/album/4Q7bvzlWs5CRy6fWCqZSHL) | 4:35 |
 | 51 | [Tiga Titik Hitam](https://open.spotify.com/track/7Fi3EyFExj8iIumylN29ne) | [Burgerkill](https://open.spotify.com/artist/77X41f0zoHXGhC3a3UvdJk) | [Berkarat](https://open.spotify.com/album/20Lby8PRGQSqfo7kJCz81W) | 5:32 |
 | 52 | [Mereguk Anti Depresan Lagi](https://open.spotify.com/track/4nWqe6ojnCrOZWsGHqdpWE) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [Mereguk Anti Depresan Lagi](https://open.spotify.com/album/7DxaK1trwu4UD76ldZ4JvI) | 3:51 |
-| 53 | [Berita Harian](https://open.spotify.com/track/69MOVP8IuQ2qOGhTO5H4UO) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Karet](https://open.spotify.com/album/51K8wlMSll4FQYNKWgk934) | 3:39 |
+| 53 | [Berita Harian](https://open.spotify.com/track/59f5nQg8cJ13gCveZvIhjo) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Karet](https://open.spotify.com/album/0itsjd6Jrhx08eITy5hjUj) | 3:37 |
 | 54 | [Terlalu Bodoh Untuk Bandung](https://open.spotify.com/track/5g6PU8X2fHhfvo0LPsfAhD) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Upaya Memaki](https://open.spotify.com/album/62I2WcvJ92kjMQXnKfQQ99) | 1:29 |
 | 55 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 |
 | 56 | [Musafir Anthem](https://open.spotify.com/track/1nPEAW7GDnfAmtWK8Eh4yb) | [Syarikat Idola Remaja](https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO) | [Musafir Anthem](https://open.spotify.com/album/7rcFEv0Bgv2mlLHkH0aCn6) | 3:36 |

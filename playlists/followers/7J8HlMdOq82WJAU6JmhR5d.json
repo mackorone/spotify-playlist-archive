@@ -1,735 +1,1287 @@
 {
-  "2021-12-25": 11542,
-  "2021-12-26": 11602,
-  "2021-12-27": 11600,
-  "2021-12-28": 11600,
-  "2021-12-29": 11595,
-  "2021-12-30": 11594,
-  "2021-12-31": 11590,
-  "2022-01-01": 11578,
-  "2022-01-02": 11576,
-  "2022-01-03": 11575,
-  "2022-01-04": 11567,
-  "2022-01-05": 11559,
-  "2022-01-06": 11559,
-  "2022-01-07": 11550,
-  "2022-01-08": 11543,
-  "2022-01-09": 11543,
-  "2022-01-10": 11537,
-  "2022-01-11": 11527,
-  "2022-01-12": 11526,
-  "2022-01-13": 11518,
-  "2022-01-14": 11512,
-  "2022-01-15": 11501,
-  "2022-01-16": 11501,
-  "2022-01-17": 11497,
-  "2022-01-18": 11497,
-  "2022-01-19": 11494,
-  "2022-01-20": 11492,
-  "2022-01-21": 11490,
-  "2022-01-22": 11488,
-  "2022-01-23": 11483,
-  "2022-01-24": 11480,
-  "2022-01-25": 11473,
-  "2022-01-26": 11469,
-  "2022-01-27": 11469,
-  "2022-01-28": 11466,
-  "2022-01-29": 11463,
-  "2022-01-30": 11459,
-  "2022-01-31": 11455,
-  "2022-02-01": 11454,
-  "2022-02-02": 11448,
-  "2022-02-03": 11447,
-  "2022-02-04": 11444,
-  "2022-02-05": 11439,
-  "2022-02-06": 11436,
-  "2022-02-07": 11434,
-  "2022-02-08": 11434,
-  "2022-02-09": 11433,
-  "2022-02-10": 11432,
-  "2022-02-11": 11430,
-  "2022-02-12": 11429,
-  "2022-02-13": 11426,
-  "2022-02-14": 11426,
-  "2022-02-15": 11422,
-  "2022-02-16": 11421,
-  "2022-02-17": 11415,
-  "2022-02-18": 11409,
-  "2022-02-19": 11409,
-  "2022-02-20": 11405,
-  "2022-02-21": 11405,
-  "2022-02-22": 11401,
-  "2022-02-23": 11397,
-  "2022-02-24": 11396,
-  "2022-02-25": 11395,
-  "2022-02-26": 11392,
-  "2022-02-27": 11389,
-  "2022-02-28": 11389,
-  "2022-03-01": 11390,
-  "2022-03-02": 11389,
-  "2022-03-03": 11388,
-  "2022-03-04": 11389,
-  "2022-03-05": 11388,
-  "2022-03-06": 11385,
-  "2022-03-07": 11385,
-  "2022-03-08": 11385,
-  "2022-03-09": 11384,
-  "2022-03-10": 11383,
-  "2022-03-11": 11381,
-  "2022-03-12": 11380,
-  "2022-03-13": 11377,
-  "2022-03-14": 11374,
-  "2022-03-15": 11375,
-  "2022-03-16": 11373,
-  "2022-03-17": 11368,
-  "2022-03-18": 11365,
-  "2022-03-19": 11364,
-  "2022-03-20": 11364,
-  "2022-03-21": 11364,
-  "2022-03-22": 11363,
-  "2022-03-23": 11361,
-  "2022-03-24": 11361,
-  "2022-03-25": 11359,
-  "2022-03-26": 11357,
-  "2022-03-27": 11357,
-  "2022-03-28": 11354,
-  "2022-03-30": 11348,
-  "2022-03-31": 11347,
-  "2022-04-01": 11345,
-  "2022-04-02": 11345,
-  "2022-04-03": 11343,
-  "2022-04-04": 11341,
-  "2022-04-05": 11341,
-  "2022-04-06": 11339,
-  "2022-04-07": 11338,
-  "2022-04-08": 11337,
-  "2022-04-09": 11336,
-  "2022-04-10": 11330,
-  "2022-04-11": 11329,
-  "2022-04-12": 11329,
-  "2022-04-13": 11330,
-  "2022-04-14": 11328,
-  "2022-04-15": 11328,
-  "2022-04-16": 11329,
-  "2022-04-17": 11329,
-  "2022-04-18": 11329,
-  "2022-04-19": 11329,
-  "2022-04-20": 11329,
-  "2022-04-21": 11328,
-  "2022-04-22": 11324,
-  "2022-04-23": 11323,
-  "2022-04-24": 11323,
-  "2022-04-25": 11322,
-  "2022-04-26": 11322,
-  "2022-04-27": 11322,
-  "2022-04-28": 11321,
-  "2022-04-29": 11318,
-  "2022-04-30": 11317,
-  "2022-05-01": 11317,
-  "2022-05-02": 11317,
-  "2022-05-03": 11317,
-  "2022-05-04": 11318,
-  "2022-05-05": 11316,
-  "2022-05-06": 11318,
-  "2022-05-07": 11317,
-  "2022-05-08": 11315,
-  "2022-05-09": 11315,
-  "2022-05-10": 11314,
-  "2022-05-11": 11314,
-  "2022-05-12": 11314,
-  "2022-05-13": 11314,
-  "2022-05-14": 11314,
-  "2022-05-15": 11312,
-  "2022-05-16": 11313,
-  "2022-05-17": 11314,
-  "2022-05-18": 11313,
-  "2022-05-19": 11312,
-  "2022-05-20": 11311,
-  "2022-05-21": 11310,
-  "2022-05-22": 11310,
-  "2022-05-23": 11310,
-  "2022-05-24": 11311,
-  "2022-05-25": 11309,
-  "2022-05-26": 11306,
-  "2022-05-27": 11304,
-  "2022-05-28": 11304,
-  "2022-05-29": 11304,
-  "2022-05-30": 11303,
-  "2022-05-31": 11302,
-  "2022-06-01": 11299,
-  "2022-06-02": 11299,
-  "2022-06-03": 11298,
-  "2022-06-04": 11296,
-  "2022-06-05": 11295,
-  "2022-06-06": 11296,
-  "2022-06-07": 11294,
-  "2022-06-08": 11294,
-  "2022-06-09": 11293,
-  "2022-06-10": 11293,
-  "2022-06-11": 11289,
-  "2022-06-12": 11289,
-  "2022-06-13": 11287,
-  "2022-06-14": 11288,
-  "2022-06-15": 11286,
-  "2022-06-16": 11285,
-  "2022-06-17": 11284,
-  "2022-06-18": 11283,
-  "2022-06-19": 11284,
-  "2022-06-20": 11284,
-  "2022-06-21": 11284,
-  "2022-06-22": 11285,
-  "2022-06-23": 11285,
-  "2022-06-24": 11284,
-  "2022-06-25": 11281,
-  "2022-06-26": 11282,
-  "2022-06-27": 11282,
-  "2022-06-28": 11282,
-  "2022-06-29": 11280,
-  "2022-06-30": 11278,
-  "2022-07-01": 11279,
-  "2022-07-02": 11279,
-  "2022-07-03": 11277,
-  "2022-07-04": 11277,
-  "2022-07-05": 11277,
-  "2022-07-06": 11277,
-  "2022-07-07": 11274,
-  "2022-07-08": 11274,
-  "2022-07-09": 11274,
-  "2022-07-10": 11275,
-  "2022-07-11": 11278,
-  "2022-07-12": 11276,
-  "2022-07-13": 11274,
-  "2022-07-14": 11275,
-  "2022-07-15": 11275,
-  "2022-07-16": 11275,
-  "2022-07-17": 11275,
-  "2022-07-18": 11274,
-  "2022-07-19": 11274,
-  "2022-07-20": 11273,
-  "2022-07-21": 11274,
-  "2022-07-22": 11272,
-  "2022-07-23": 11275,
-  "2022-07-24": 11274,
-  "2022-07-25": 11274,
-  "2022-07-26": 11273,
-  "2022-07-27": 11274,
-  "2022-07-28": 11273,
-  "2022-07-29": 11272,
-  "2022-07-30": 11270,
-  "2022-07-31": 11270,
-  "2022-08-01": 11270,
-  "2022-08-02": 11271,
-  "2022-08-03": 11271,
-  "2022-08-04": 11271,
-  "2022-08-05": 11270,
-  "2022-08-06": 11271,
-  "2022-08-07": 11271,
-  "2022-08-08": 11271,
-  "2022-08-09": 11269,
-  "2022-08-10": 11269,
-  "2022-08-11": 11266,
-  "2022-08-12": 11265,
-  "2022-08-13": 11264,
-  "2022-08-14": 11263,
-  "2022-08-15": 11261,
-  "2022-08-16": 11259,
-  "2022-08-17": 11261,
-  "2022-08-18": 11261,
-  "2022-08-19": 11261,
-  "2022-08-20": 11259,
-  "2022-08-21": 11258,
-  "2022-08-22": 11258,
-  "2022-08-23": 11258,
-  "2022-08-24": 11258,
-  "2022-08-25": 11259,
-  "2022-08-26": 11259,
-  "2022-08-27": 11258,
-  "2022-08-28": 11258,
-  "2022-08-29": 11257,
-  "2022-08-30": 11257,
-  "2022-08-31": 11255,
-  "2022-09-01": 11253,
-  "2022-09-02": 11254,
-  "2022-09-03": 11251,
-  "2022-09-04": 11248,
-  "2022-09-05": 11248,
-  "2022-09-06": 11248,
-  "2022-09-07": 11248,
-  "2022-09-09": 11248,
-  "2022-09-10": 11249,
-  "2022-09-11": 11252,
-  "2022-09-12": 11252,
-  "2022-09-13": 11249,
-  "2022-09-15": 11252,
-  "2022-09-16": 11251,
-  "2022-09-17": 11250,
-  "2022-09-18": 11249,
-  "2022-09-19": 11249,
-  "2022-09-20": 11249,
-  "2022-09-21": 11251,
-  "2022-09-22": 11251,
-  "2022-09-23": 11252,
-  "2022-09-24": 11252,
-  "2022-09-25": 11251,
-  "2022-09-26": 11251,
-  "2022-09-27": 11248,
-  "2022-09-28": 11248,
-  "2022-09-29": 11250,
-  "2022-09-30": 11249,
-  "2022-10-01": 11246,
-  "2022-10-02": 11248,
-  "2022-10-03": 11249,
-  "2022-10-04": 11249,
-  "2022-10-05": 11250,
-  "2022-10-06": 11249,
-  "2022-10-07": 11250,
-  "2022-10-08": 11248,
-  "2022-10-09": 11251,
-  "2022-10-10": 11250,
-  "2022-10-11": 11251,
-  "2022-10-12": 11254,
-  "2022-10-13": 11253,
-  "2022-10-14": 11254,
-  "2022-10-15": 11254,
-  "2022-10-16": 11254,
-  "2022-10-17": 11256,
-  "2022-10-18": 11256,
-  "2022-10-19": 11254,
-  "2022-10-20": 11254,
-  "2022-10-21": 11253,
-  "2022-10-22": 11253,
-  "2022-10-23": 11253,
-  "2022-10-24": 11253,
-  "2022-10-25": 11254,
-  "2022-10-26": 11257,
-  "2022-10-27": 11260,
-  "2022-10-28": 11262,
-  "2022-10-29": 11261,
-  "2022-10-30": 11263,
-  "2022-10-31": 11264,
-  "2022-11-01": 11263,
-  "2022-11-02": 11263,
-  "2022-11-03": 11265,
-  "2022-11-04": 11270,
-  "2022-11-05": 11271,
-  "2022-11-06": 11273,
-  "2022-11-07": 11278,
-  "2022-11-08": 11281,
-  "2022-11-09": 11281,
-  "2022-11-10": 11284,
-  "2022-11-11": 11284,
-  "2022-11-12": 11287,
-  "2022-11-13": 11287,
-  "2022-11-14": 11291,
-  "2022-11-15": 11294,
-  "2022-11-16": 11296,
-  "2022-11-17": 11295,
-  "2022-11-18": 11289,
-  "2022-11-19": 11287,
-  "2022-11-20": 11284,
-  "2022-11-21": 11287,
-  "2022-11-22": 11290,
-  "2022-11-23": 11291,
-  "2022-11-24": 11295,
-  "2022-11-25": 11295,
-  "2022-11-26": 11297,
-  "2022-11-27": 11296,
-  "2022-11-28": 11301,
-  "2022-11-29": 2264,
-  "2022-11-30": 2270,
-  "2022-12-01": 474,
-  "2022-12-02": 38,
-  "2022-12-03": 35,
-  "2022-12-04": 40,
-  "2022-12-05": 45,
-  "2022-12-06": 50,
-  "2022-12-07": 53,
-  "2022-12-08": 58,
-  "2022-12-09": 59,
-  "2022-12-10": 63,
-  "2022-12-11": 64,
-  "2022-12-12": 67,
-  "2022-12-13": 70,
-  "2022-12-14": 74,
-  "2022-12-15": 75,
-  "2022-12-16": 77,
-  "2022-12-17": 79,
-  "2022-12-18": 79,
-  "2022-12-19": 81,
-  "2022-12-20": 83,
-  "2022-12-21": 83,
-  "2022-12-22": 85,
-  "2022-12-24": 88,
-  "2022-12-25": 90,
-  "2022-12-26": 90,
-  "2022-12-27": 91,
-  "2022-12-28": 91,
-  "2022-12-29": 90,
-  "2022-12-30": 89,
-  "2022-12-31": 89,
-  "2023-01-01": 89,
-  "2023-01-02": 89,
-  "2023-01-03": 89,
-  "2023-01-04": 89,
-  "2023-01-05": 89,
-  "2023-01-06": 89,
-  "2023-01-07": 89,
-  "2023-01-08": 89,
-  "2023-01-09": 89,
-  "2023-01-10": 89,
-  "2023-01-11": 88,
-  "2023-01-12": 88,
-  "2023-01-13": 88,
-  "2023-01-14": 88,
-  "2023-01-15": 88,
-  "2023-01-16": 88,
-  "2023-01-17": 88,
-  "2023-01-18": 86,
-  "2023-01-19": 85,
-  "2023-01-20": 85,
-  "2023-01-21": 85,
-  "2023-01-22": 85,
-  "2023-01-23": 85,
-  "2023-01-24": 86,
-  "2023-01-25": 86,
-  "2023-01-26": 86,
-  "2023-01-27": 86,
-  "2023-01-28": 86,
-  "2023-01-29": 86,
-  "2023-01-30": 86,
-  "2023-01-31": 86,
-  "2023-02-01": 86,
-  "2023-02-02": 86,
-  "2023-02-03": 86,
-  "2023-02-04": 86,
-  "2023-02-05": 86,
-  "2023-02-06": 86,
-  "2023-02-07": 86,
-  "2023-02-08": 86,
-  "2023-02-09": 86,
-  "2023-02-10": 86,
-  "2023-02-11": 86,
-  "2023-02-12": 86,
-  "2023-02-13": 86,
-  "2023-02-14": 86,
-  "2023-02-15": 86,
-  "2023-02-16": 86,
-  "2023-02-17": 86,
-  "2023-02-18": 86,
-  "2023-02-19": 86,
-  "2023-02-20": 86,
-  "2023-02-21": 86,
-  "2023-02-22": 86,
-  "2023-02-23": 86,
-  "2023-02-24": 86,
-  "2023-02-25": 86,
-  "2023-02-26": 86,
-  "2023-02-27": 86,
-  "2023-02-28": 86,
-  "2023-03-01": 86,
-  "2023-03-02": 86,
-  "2023-03-03": 86,
-  "2023-03-04": 86,
-  "2023-03-05": 86,
-  "2023-03-06": 86,
-  "2023-03-07": 86,
-  "2023-03-08": 86,
-  "2023-03-09": 86,
-  "2023-03-10": 86,
-  "2023-03-11": 86,
-  "2023-03-12": 86,
-  "2023-03-13": 86,
-  "2023-03-14": 86,
-  "2023-03-15": 86,
-  "2023-03-16": 86,
-  "2023-03-17": 86,
-  "2023-03-18": 86,
-  "2023-03-19": 86,
-  "2023-03-20": 86,
-  "2023-03-21": 85,
-  "2023-03-22": 85,
-  "2023-03-23": 85,
-  "2023-03-24": 85,
-  "2023-03-25": 85,
-  "2023-03-26": 85,
-  "2023-03-27": 85,
-  "2023-03-28": 85,
-  "2023-03-29": 85,
-  "2023-03-30": 85,
-  "2023-03-31": 85,
-  "2023-04-01": 84,
-  "2023-04-02": 84,
-  "2023-04-03": 84,
-  "2023-04-04": 84,
-  "2023-04-05": 84,
-  "2023-04-06": 85,
-  "2023-04-07": 85,
-  "2023-04-09": 85,
-  "2023-04-10": 85,
-  "2023-04-11": 85,
-  "2023-04-12": 85,
-  "2023-04-13": 85,
-  "2023-04-14": 85,
-  "2023-04-15": 85,
-  "2023-04-16": 85,
-  "2023-04-17": 85,
-  "2023-04-18": 85,
-  "2023-04-19": 85,
-  "2023-04-20": 85,
-  "2023-04-21": 85,
-  "2023-04-22": 85,
-  "2023-04-23": 85,
-  "2023-04-24": 85,
-  "2023-04-25": 85,
-  "2023-04-26": 85,
-  "2023-04-27": 85,
-  "2023-04-28": 85,
-  "2023-04-29": 85,
-  "2023-04-30": 85,
-  "2023-05-01": 85,
-  "2023-05-02": 85,
-  "2023-05-03": 85,
-  "2023-05-04": 85,
-  "2023-05-05": 85,
-  "2023-05-06": 85,
-  "2023-05-07": 85,
-  "2023-05-08": 85,
-  "2023-05-09": 85,
-  "2023-05-10": 85,
-  "2023-05-11": 85,
-  "2023-05-12": 85,
-  "2023-05-13": 85,
-  "2023-05-14": 85,
-  "2023-05-15": 85,
-  "2023-05-16": 85,
-  "2023-05-17": 85,
-  "2023-05-18": 85,
-  "2023-05-19": 85,
-  "2023-05-20": 85,
-  "2023-05-21": 85,
-  "2023-05-22": 85,
-  "2023-05-23": 85,
-  "2023-05-24": 85,
-  "2023-05-25": 85,
-  "2023-05-26": 85,
-  "2023-05-27": 85,
-  "2023-05-28": 85,
-  "2023-05-29": 85,
-  "2023-05-30": 85,
-  "2023-05-31": 85,
-  "2023-06-01": 85,
-  "2023-06-02": 85,
-  "2023-06-03": 85,
-  "2023-06-04": 85,
-  "2023-06-05": 85,
-  "2023-06-06": 85,
-  "2023-06-07": 85,
-  "2023-06-08": 85,
-  "2023-06-09": 84,
-  "2023-06-10": 84,
-  "2023-06-11": 84,
-  "2023-06-12": 84,
-  "2023-06-13": 84,
-  "2023-06-14": 84,
-  "2023-06-15": 84,
-  "2023-06-16": 84,
-  "2023-06-17": 84,
-  "2023-06-18": 84,
-  "2023-06-19": 84,
-  "2023-06-20": 84,
-  "2023-06-21": 84,
-  "2023-06-22": 84,
-  "2023-06-23": 84,
-  "2023-06-24": 83,
-  "2023-06-25": 83,
-  "2023-06-26": 83,
-  "2023-06-27": 83,
-  "2023-06-28": 83,
-  "2023-06-29": 83,
-  "2023-06-30": 83,
-  "2023-07-01": 83,
-  "2023-07-02": 83,
-  "2023-07-03": 83,
-  "2023-07-04": 83,
-  "2023-07-05": 83,
-  "2023-07-06": 83,
-  "2023-07-07": 83,
-  "2023-07-08": 83,
-  "2023-07-09": 83,
-  "2023-07-10": 83,
-  "2023-07-11": 83,
-  "2023-07-12": 83,
-  "2023-07-13": 83,
-  "2023-07-14": 83,
-  "2023-07-15": 83,
-  "2023-07-16": 83,
-  "2023-07-17": 83,
-  "2023-07-18": 83,
-  "2023-07-19": 83,
-  "2023-07-20": 83,
-  "2023-07-21": 83,
-  "2023-07-22": 83,
-  "2023-07-23": 83,
-  "2023-07-24": 83,
-  "2023-07-25": 83,
-  "2023-07-26": 83,
-  "2023-07-27": 83,
-  "2023-07-28": 83,
-  "2023-07-29": 83,
-  "2023-07-30": 83,
-  "2023-07-31": 83,
-  "2023-08-01": 83,
-  "2023-08-02": 83,
-  "2023-08-03": 83,
-  "2023-08-04": 83,
-  "2023-08-05": 83,
-  "2023-08-06": 83,
-  "2023-08-07": 83,
-  "2023-08-08": 83,
-  "2023-08-09": 83,
-  "2023-08-10": 83,
-  "2023-08-11": 83,
-  "2023-08-12": 83,
-  "2023-08-13": 83,
-  "2023-08-14": 83,
-  "2023-08-15": 83,
-  "2023-08-16": 83,
-  "2023-08-17": 83,
-  "2023-08-18": 83,
-  "2023-08-19": 83,
-  "2023-08-20": 83,
-  "2023-08-21": 83,
-  "2023-08-22": 83,
-  "2023-08-23": 83,
-  "2023-08-24": 83,
-  "2023-08-25": 83,
-  "2023-08-26": 83,
-  "2023-08-27": 83,
-  "2023-08-28": 83,
-  "2023-08-29": 83,
-  "2023-08-30": 83,
-  "2023-08-31": 83,
-  "2023-09-01": 83,
-  "2023-09-02": 83,
-  "2023-09-03": 83,
-  "2023-09-04": 83,
-  "2023-09-05": 83,
-  "2023-09-06": 83,
-  "2023-09-07": 83,
-  "2023-09-08": 83,
-  "2023-09-09": 83,
-  "2023-09-10": 83,
-  "2023-09-11": 83,
-  "2023-09-12": 83,
-  "2023-09-13": 83,
-  "2023-09-14": 83,
-  "2023-09-15": 83,
-  "2023-09-16": 83,
-  "2023-09-17": 83,
-  "2023-09-18": 83,
-  "2023-09-19": 83,
-  "2023-09-20": 83,
-  "2023-09-21": 83,
-  "2023-09-22": 83,
-  "2023-09-23": 83,
-  "2023-09-24": 83,
-  "2023-09-25": 83,
-  "2023-09-26": 83,
-  "2023-09-27": 83,
-  "2023-09-28": 83,
-  "2023-09-29": 83,
-  "2023-09-30": 83,
-  "2023-10-01": 83,
-  "2023-10-02": 83,
-  "2023-10-03": 83,
-  "2023-10-04": 83,
-  "2023-10-05": 83,
-  "2023-10-06": 83,
-  "2023-10-07": 83,
-  "2023-10-08": 83,
-  "2023-10-09": 83,
-  "2023-10-10": 83,
-  "2023-10-11": 83,
-  "2023-10-12": 83,
-  "2023-10-13": 83,
-  "2023-10-14": 83,
-  "2023-10-15": 83,
-  "2023-10-16": 83,
-  "2023-10-17": 83,
-  "2023-10-18": 83,
-  "2023-10-19": 83,
-  "2023-10-20": 83,
-  "2023-10-21": 83,
-  "2023-10-22": 83,
-  "2023-10-23": 83,
-  "2023-10-24": 83,
-  "2023-10-25": 83,
-  "2023-10-26": 83,
-  "2023-10-27": 83,
-  "2023-10-28": 83,
-  "2023-10-29": 83,
-  "2023-10-30": 83,
-  "2023-10-31": 83,
-  "2023-11-01": 83,
-  "2023-11-02": 83,
-  "2023-11-03": 83,
-  "2023-11-04": 83,
-  "2023-11-05": 83,
-  "2023-11-06": 83,
-  "2023-11-07": 83,
-  "2023-11-08": 83,
-  "2023-11-09": 83,
-  "2023-11-10": 83,
-  "2023-11-11": 83,
-  "2023-11-12": 83,
-  "2023-11-13": 83,
-  "2023-11-14": 83,
-  "2023-11-15": 83,
-  "2023-11-16": 83,
-  "2023-11-17": 83,
-  "2023-11-18": 83,
-  "2023-11-19": 83,
-  "2023-11-20": 83,
-  "2023-11-21": 83,
-  "2023-11-22": 83,
-  "2023-11-23": 83,
-  "2023-11-24": 83,
-  "2023-11-25": 83,
-  "2023-11-26": 83,
-  "2023-11-27": 83,
-  "2023-11-28": 83,
-  "2023-11-29": 83,
-  "2023-11-30": 83,
-  "2023-12-01": 83,
-  "2023-12-02": 83,
-  "2023-12-03": 83,
-  "2023-12-04": 83,
-  "2023-12-05": 83,
-  "2023-12-06": 83,
-  "2023-12-07": 83,
-  "2023-12-08": 83,
-  "2023-12-09": 83,
-  "2023-12-10": 83,
-  "2023-12-11": 83,
-  "2023-12-12": 83,
-  "2023-12-13": 83,
-  "2023-12-14": 86,
-  "2023-12-15": 86,
-  "2023-12-16": 86,
-  "2023-12-17": 86,
-  "2023-12-18": 86,
-  "2023-12-19": 87,
-  "2023-12-20": 87,
-  "2023-12-21": 87,
-  "2023-12-22": 87,
-  "2023-12-23": 87,
-  "2023-12-24": 87,
-  "2023-12-25": 87,
-  "2023-12-26": 88,
-  "2023-12-27": 88,
-  "2023-12-30": 88,
-  "2023-12-31": 88,
-  "2024-01-01": 88,
-  "2024-01-02": 88,
-  "2024-01-03": 88
+  "2024-01-17": 87,
+  "date_first_scraped": "2021-12-21",
+  "description": "",
+  "name": "A Soft Piano Christmas",
+  "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/46zfewYmmVsU3sDnLMjTXC"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/07yTTMu0KdOVFXGnONq70v"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1gVc0hHR4O2g3eDPwX8CMn"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0byIYyVrEZkAg6cwl9gAfz"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5NVZvHywOX33YAOZduxxCI"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0zQ4J02tYSeCCwHIyXYoUG"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/11LCC0z6mZk9Mk8UVff2Rg"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1CRpttW8EKGeCeuUg5yuo7"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0vC2jwHlYlIBt0omi48bmm"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1RNzv8ufhQVyQIt6wYH2UY"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5NVZvHywOX33YAOZduxxCI"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1TtJJ7YP6JCQ3aH8PQpreD"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0pUvAtUzuXKBAFTzuvxLcL"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1gGlPQjBUdJ7mTtcumuFjC"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0pUvAtUzuXKBAFTzuvxLcL"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1zoEq36zYZOLY1xaAfxujU"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7c61x1Ib6uiyBut89oZQBD"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2BA9lxm5WcM1Ek98E70gav"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2DLDeRXsuBnTMtkBDghOcp"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/11LCC0z6mZk9Mk8UVff2Rg"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2DU5BBascxQF2g1zcL3peJ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2FfrdvaIfa9rTf1DnBs6aX"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1gVc0hHR4O2g3eDPwX8CMn"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2KlZUlzgIOcWTkAkpHcD9S"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1gVc0hHR4O2g3eDPwX8CMn"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2TmN1Q6XWnCV4BE7yNyTmt"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2i9tle5pcFC30juQxD8q4p"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/36wbWnwlHMPnchlke4pGbP"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/35tbXTZlU8oY7JXSfz2BX2"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3IMX6zQmyg6gZpmFmHYxiE"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7JgDv3Hv4QlA6w6v9yYq2m"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3OFVPnd0PkfVsOD0MF2BkA"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3U9kUtbt96KdmmGtt1c6EI"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3lykOhcfTlJmrlnVcXNpu0"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6PAOEFCeBAB3QyTVrkNvXT"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3qUCIw0vwknzxksvu5OrFf"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5NVZvHywOX33YAOZduxxCI"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3rAH1KQB8gVAi6aNWtrpq6"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6PAOEFCeBAB3QyTVrkNvXT"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3wa07vRutRz7omoaF8Y203"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1gVc0hHR4O2g3eDPwX8CMn"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/45yPqVg5dHBwsEK1Z72DwW"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/3XNGnpf2mWrkFGRfI67AmW"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4D0jUYYtsdJywfap3EZg3S"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2RarOAXZmYHWw3Zk23vyDa"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4XsCqXKu6sPdY0548ElOuX"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5NVZvHywOX33YAOZduxxCI"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4bLV6dcjnHejKFKUm2lShe"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5D1cCqqEUUlbTz0mrpb1DS"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0jN1WfdTAdNwP3dAPKUlym"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5QarVtsSmGDiIsCy49yLEs"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0pCLie2ziptu5IJwLPJzhI"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1tSOQefweVeEW65XKip9X0"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5XB4pCmfsspHUDOSTck6tM"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5NVZvHywOX33YAOZduxxCI"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5YYJodC5nrcYFMoZben8OQ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5qWWJm8kurh3zkfbTTwpR7"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0vC2jwHlYlIBt0omi48bmm"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/66mfPFzGKc6Y62YQx9QdZl"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0yHBhRyRiqllCI9rRjGMfx"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6h0GngooCXUoRnC2Qm7GiA"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5NVZvHywOX33YAOZduxxCI"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6svYbhJNpBNGMABD4aXD3n"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/780IDoevWnKdz4mf4UoGjO"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5NVZvHywOX33YAOZduxxCI"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7LjZkTF371GIY71RNcBhhn"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5AndhwkQZOMBNMbDeVrAAV"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7dI8S6I15B1VoKAAoHBKZ5"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/3iu4gkzcCFEY7MPr3uJkaK"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7vTU3jaddNDNycENrbH690"
+    },
+    {
+      "album": {
+        "name": "Quiet Christmas: Solo Piano",
+        "url": "https://open.spotify.com/album/3b68gZEVcnl4eeFfsowQaK"
+      },
+      "artists": [
+        {
+          "name": "Beegie Adair",
+          "url": "https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256613,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/7jXhebc6g6U7vmUqofctKV"
+    },
+    {
+      "album": {
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+      },
+      "artists": [
+        {
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263733,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/7vqQmFt1mXh5H68PUS3HpZ"
+    },
+    {
+      "album": {
+        "name": "Christmas Classics On Piano",
+        "url": "https://open.spotify.com/album/2z4Fmyp1S27K49o1eHLRmV"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134859,
+      "name": "Away In A Manger (Piano Version)",
+      "url": "https://open.spotify.com/track/6qq364Edy3rdoD3SXiG716"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/4YbNVHq2H8O6gg9ipsCGQK"
+      },
+      "artists": [
+        {
+          "name": "Michael Silverman",
+          "url": "https://open.spotify.com/artist/59PMoeYMK4U67YYzVWZGoi"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97829,
+      "name": "Away in the Manger",
+      "url": "https://open.spotify.com/track/2eCL6HqJTc5uxBPYIWQDnH"
+    },
+    {
+      "album": {
+        "name": "Instrumental Piano Xmas Music",
+        "url": "https://open.spotify.com/album/1qY8wVhzj5pDEYyADT5p9K"
+      },
+      "artists": [
+        {
+          "name": "The O'Neill Brothers Group",
+          "url": "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/0pxg2PC1vvyYDtzIhBHvN2"
+    },
+    {
+      "album": {
+        "name": "Christmas at the Piano",
+        "url": "https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Duncan",
+          "url": "https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213077,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/3KOJjkgH7r5nHamhCAmmb5"
+    },
+    {
+      "album": {
+        "name": "Christmas Favourites",
+        "url": "https://open.spotify.com/album/6k9vWtHRx68135B2YIpAN1"
+      },
+      "artists": [
+        {
+          "name": "Half Giant",
+          "url": "https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137064,
+      "name": "God Rest Ye Merry Gentlemen (Piano Version)",
+      "url": "https://open.spotify.com/track/6vB4uPVjC4sadwygZ2m7pj"
+    },
+    {
+      "album": {
+        "name": "Rockin' Around the Christmas Tree: Fun Christmas Songs",
+        "url": "https://open.spotify.com/album/6C6ecrPwCvAlAwJdDinr0d"
+      },
+      "artists": [
+        {
+          "name": "The O'Neill Brothers Group",
+          "url": "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247954,
+      "name": "Happy Christmas (War Is Over) [Instrumental Version]",
+      "url": "https://open.spotify.com/track/5fZIVmTYYXCDieEURgMwJ9"
+    },
+    {
+      "album": {
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+      },
+      "artists": [
+        {
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220773,
+      "name": "Holly, Ivy & Evergreen (The Holly & the Ivy, Oh Christmas Tree)",
+      "url": "https://open.spotify.com/track/2e9F77qXQzZlNKeQf3niAC"
+    },
+    {
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306173,
+      "name": "I Got It Bad And That Ain't Good",
+      "url": "https://open.spotify.com/track/2kpaRWsZTE96rmw0NBfP0c"
+    },
+    {
+      "album": {
+        "name": "Christmas at the Piano",
+        "url": "https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Duncan",
+          "url": "https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158748,
+      "name": "I Wish It Could Be Christmas Everyday",
+      "url": "https://open.spotify.com/track/0wPujtWCbSrEy5eylY7SAn"
+    },
+    {
+      "album": {
+        "name": "A Piano Christmas",
+        "url": "https://open.spotify.com/album/2MqdDdAlMBV1acG6uEsZ1X"
+      },
+      "artists": [
+        {
+          "name": "Christopher West",
+          "url": "https://open.spotify.com/artist/6FsXOVxLro1VeFa5c6jK1y"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "In the Bleak Midwinter - Christmas Piano",
+      "url": "https://open.spotify.com/track/4oUw6PvzQVJSqM4XPHwKrn"
+    },
+    {
+      "album": {
+        "name": "A Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315574,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/2JPjsCvn379yvhrQ3Mdlfv"
+    },
+    {
+      "album": {
+        "name": "Christmas Classics On Piano",
+        "url": "https://open.spotify.com/album/2z4Fmyp1S27K49o1eHLRmV"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176074,
+      "name": "Joy To The World (Piano Version)",
+      "url": "https://open.spotify.com/track/0OBXPJ5YRVJGYHAR78FtY2"
+    },
+    {
+      "album": {
+        "name": "Martinis & Mistletoe: Christmas Jazz Piano",
+        "url": "https://open.spotify.com/album/0rw4XLoRjCgmFylQkuBFjH"
+      },
+      "artists": [
+        {
+          "name": "Mason Embry Trio",
+          "url": "https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "O Christmas Tree",
+      "url": "https://open.spotify.com/track/6aPvFohVtmfvhXwApum5MP"
+    },
+    {
+      "album": {
+        "name": "Christmas Favourites",
+        "url": "https://open.spotify.com/album/6k9vWtHRx68135B2YIpAN1"
+      },
+      "artists": [
+        {
+          "name": "Half Giant",
+          "url": "https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "O Come O Come Emmanuel (Piano Version)",
+      "url": "https://open.spotify.com/track/4F3LK04xkjQSBn0kD4wUK5"
+    },
+    {
+      "album": {
+        "name": "Christmas Favorites - Volume 2",
+        "url": "https://open.spotify.com/album/1pY5Tx8t82kIBZeJwwWjHN"
+      },
+      "artists": [
+        {
+          "name": "Christmas Music Piano",
+          "url": "https://open.spotify.com/artist/7IuSnbAPEySACDDYEKdBcn"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112502,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/3Nq46Zx5hHSZGtwS1Dzzue"
+    },
+    {
+      "album": {
+        "name": "Christmas Piano",
+        "url": "https://open.spotify.com/album/2gYyEzmwxK0BBaXumbrygf"
+      },
+      "artists": [
+        {
+          "name": "Isaac Shepard",
+          "url": "https://open.spotify.com/artist/1DwN9SgcUTscLOl70fwS7b"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156110,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/6keo2fmh6aHU5aTdMijgYV"
+    },
+    {
+      "album": {
+        "name": "Bar Music Moods - Piano Christmas Edition",
+        "url": "https://open.spotify.com/album/2COlnBwj3erhL8zlJAbeh4"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Five Jazz Band",
+          "url": "https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187066,
+      "name": "Snowflakes",
+      "url": "https://open.spotify.com/track/4ysDXAN3TX9EJajWSsozHX"
+    },
+    {
+      "album": {
+        "name": "Bar Music Moods - Piano Christmas Edition",
+        "url": "https://open.spotify.com/album/2COlnBwj3erhL8zlJAbeh4"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Five Jazz Band",
+          "url": "https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291813,
+      "name": "Someone to watch over me",
+      "url": "https://open.spotify.com/track/0XTT6PvSOr277rofOPecQx"
+    },
+    {
+      "album": {
+        "name": "A Piano Christmas",
+        "url": "https://open.spotify.com/album/2MqdDdAlMBV1acG6uEsZ1X"
+      },
+      "artists": [
+        {
+          "name": "Christopher West",
+          "url": "https://open.spotify.com/artist/6FsXOVxLro1VeFa5c6jK1y"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Still, Still, Still - Christmas Piano",
+      "url": "https://open.spotify.com/track/5GoY7XXKsArFSwKmlRRJdj"
+    },
+    {
+      "album": {
+        "name": "Christmas Classics: Jazz Edition",
+        "url": "https://open.spotify.com/album/3IIL9yw2gvW7fUbkqg1rMa"
+      },
+      "artists": [
+        {
+          "name": "The Evergreen Trio",
+          "url": "https://open.spotify.com/artist/20vIrAPa9XfzrBf4z6H54v"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "The First Noel (Jazz Version)",
+      "url": "https://open.spotify.com/track/0N8NC3x07GiqRAkHIFa3YG"
+    },
+    {
+      "album": {
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+      },
+      "artists": [
+        {
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234573,
+      "name": "The Wassail Song (Here We Come A-Caroling)",
+      "url": "https://open.spotify.com/track/6s762qoRM0crwCOU63DLd6"
+    },
+    {
+      "album": {
+        "name": "Bar Music Moods - Piano Christmas Edition",
+        "url": "https://open.spotify.com/album/2COlnBwj3erhL8zlJAbeh4"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Five Jazz Band",
+          "url": "https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "There Is No Christmas Like A Home Christmas",
+      "url": "https://open.spotify.com/track/6Yar1jn8jxUR1VqR9VqW78"
+    },
+    {
+      "album": {
+        "name": "Martinis & Mistletoe: Christmas Jazz Piano",
+        "url": "https://open.spotify.com/album/0rw4XLoRjCgmFylQkuBFjH"
+      },
+      "artists": [
+        {
+          "name": "Mason Embry Trio",
+          "url": "https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239973,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/0gWpfyUrTKSavND3OhIJpt"
+    },
+    {
+      "album": {
+        "name": "A Piano Christmas",
+        "url": "https://open.spotify.com/album/2MqdDdAlMBV1acG6uEsZ1X"
+      },
+      "artists": [
+        {
+          "name": "Christopher West",
+          "url": "https://open.spotify.com/artist/6FsXOVxLro1VeFa5c6jK1y"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "Twelve Days of Christmas",
+      "url": "https://open.spotify.com/track/07hgAyhmt29WKznjaYFlQo"
+    },
+    {
+      "album": {
+        "name": "Christmas Piano",
+        "url": "https://open.spotify.com/album/70IMAyBu1KzdLsY5bwanHs"
+      },
+      "artists": [
+        {
+          "name": "Chemayne",
+          "url": "https://open.spotify.com/artist/3Wl6XL61V0pRkj13dgItId"
+        }
+      ],
+      "date_added": "2016-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118626,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/7djE736GUrIxw7HtHo0ZI8"
+    },
+    {
+      "album": {
+        "name": "Midnight Clear (Solo Piano Christmas)",
+        "url": "https://open.spotify.com/album/3AIeAwdIGpzbOeFStZjNSv"
+      },
+      "artists": [
+        {
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246386,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/1TNwhjINz41KN2RQdNC8PC"
+    },
+    {
+      "album": {
+        "name": "Martinis & Mistletoe: Christmas Jazz Piano",
+        "url": "https://open.spotify.com/album/0rw4XLoRjCgmFylQkuBFjH"
+      },
+      "artists": [
+        {
+          "name": "Mason Embry Trio",
+          "url": "https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5"
+        }
+      ],
+      "date_added": "2016-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226093,
+      "name": "Winter Weather / I've Got My Love To Keep Me Warm - Medley",
+      "url": "https://open.spotify.com/track/2rFXvFQc3qelulkmjbSaAM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/7J8HlMdOq82WJAU6JmhR5d"
 }

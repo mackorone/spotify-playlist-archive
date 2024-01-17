@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-08",
       "duration_ms": 250541,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/3rb2RMzmaK8VtWjhDhOLQb"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 231266,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 232031,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7m8fOpoHqXMkQBMFwDHltd"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 231253,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 303808,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2ADMJWa3Qq5iPA2tvMKyPD"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": "2024-01-17",
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-17",
       "duration_ms": 226309,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7AH5pivzIXEriMZuXAUwiJ"
@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264746,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ"
+    },
+    {
+      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 234213,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/0H8XeaJunhvpBdBFIYi6Sh"
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 297386,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/7Kq32bm2y1CWictMb4hxwO"
@@ -2777,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Real Back In Style",
+        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Multifaceted",
+      "url": "https://open.spotify.com/track/5j0Vc0Kw3lZ8yBDXDGvMzd"
+    },
+    {
+      "album": {
         "name": "My Oh My (Official Music Video)",
         "url": "https://open.spotify.com/album/2KRNKnolCAMsKVGhBN8P3Q"
       },
@@ -2792,7 +2828,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 183317,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/1H7MtM7oJ8S9NJi0a8gEyN"
@@ -2814,7 +2850,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 170746,
       "name": "My Oh My (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
@@ -2904,7 +2940,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-16",
       "duration_ms": 241237,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/5LNnf6yjzk8bpvYD1LMTvh"
@@ -2976,7 +3012,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 208708,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/6HWhCZfP4JJiDWFVRjA4Sc"
@@ -3360,7 +3396,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 240213,
       "name": "Rich $ex",
       "url": "https://open.spotify.com/track/4nH4FtQLLUONaSB1ph7Ubn"
@@ -3812,10 +3848,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 208186,
       "name": "Still Got Time",
       "url": "https://open.spotify.com/track/2GXUKWA052Uznsh3mm0eYA"
+    },
+    {
+      "album": {
+        "name": "Cover Sessions",
+        "url": "https://open.spotify.com/album/4jPt6rDZLTyi4oCtED2c8g"
+      },
+      "artists": [
+        {
+          "name": "Ben Schuller",
+          "url": "https://open.spotify.com/artist/7n4cyL40CdreXwIw00c8RX"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208186,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/4QHvhSmShQNeYAyXcnRwiM"
     },
     {
       "album": {
@@ -3852,7 +3906,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
@@ -3870,7 +3924,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 199741,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7Mv9xyVPvrnoV3fKIWYoyo"
@@ -4152,7 +4206,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 181503,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/67gc9yohVEYiLHiZdwZMVQ"
@@ -4170,7 +4224,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 231963,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/20MuVazoNMv6xjKPnRFOxG"
@@ -4530,7 +4584,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-15",
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"

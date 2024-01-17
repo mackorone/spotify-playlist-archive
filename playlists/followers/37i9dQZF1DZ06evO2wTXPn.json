@@ -1,289 +1,1461 @@
 {
-  "2023-03-20": 26892,
-  "2023-03-21": 26897,
-  "2023-03-22": 26902,
-  "2023-03-23": 26910,
-  "2023-03-24": 26910,
-  "2023-03-25": 26933,
-  "2023-03-26": 26939,
-  "2023-03-27": 26943,
-  "2023-03-28": 26955,
-  "2023-03-29": 26974,
-  "2023-03-30": 26995,
-  "2023-03-31": 26995,
-  "2023-04-01": 27003,
-  "2023-04-02": 27022,
-  "2023-04-03": 27039,
-  "2023-04-04": 27051,
-  "2023-04-05": 27060,
-  "2023-04-06": 27065,
-  "2023-04-07": 27072,
-  "2023-04-09": 27076,
-  "2023-04-10": 27083,
-  "2023-04-11": 27099,
-  "2023-04-12": 27099,
-  "2023-04-13": 27105,
-  "2023-04-14": 27107,
-  "2023-04-15": 27112,
-  "2023-04-16": 27123,
-  "2023-04-17": 27131,
-  "2023-04-18": 27141,
-  "2023-04-19": 27148,
-  "2023-04-20": 27158,
-  "2023-04-21": 27162,
-  "2023-04-22": 27175,
-  "2023-04-23": 27184,
-  "2023-04-24": 27190,
-  "2023-04-25": 27204,
-  "2023-04-26": 27217,
-  "2023-04-27": 27232,
-  "2023-04-28": 27244,
-  "2023-04-29": 27260,
-  "2023-04-30": 27269,
-  "2023-05-01": 27274,
-  "2023-05-02": 27280,
-  "2023-05-03": 27294,
-  "2023-05-04": 27303,
-  "2023-05-05": 27316,
-  "2023-05-06": 27322,
-  "2023-05-07": 27330,
-  "2023-05-08": 27340,
-  "2023-05-09": 27350,
-  "2023-05-10": 27361,
-  "2023-05-11": 27366,
-  "2023-05-12": 27371,
-  "2023-05-13": 27375,
-  "2023-05-14": 27380,
-  "2023-05-15": 27391,
-  "2023-05-16": 27401,
-  "2023-05-17": 27410,
-  "2023-05-18": 27416,
-  "2023-05-19": 27424,
-  "2023-05-20": 27441,
-  "2023-05-21": 27441,
-  "2023-05-22": 27441,
-  "2023-05-23": 27453,
-  "2023-05-24": 27464,
-  "2023-05-25": 27466,
-  "2023-05-26": 27476,
-  "2023-05-27": 27483,
-  "2023-05-28": 27488,
-  "2023-05-29": 27488,
-  "2023-05-30": 27501,
-  "2023-05-31": 27510,
-  "2023-06-01": 27520,
-  "2023-06-02": 27532,
-  "2023-06-03": 27543,
-  "2023-06-04": 27551,
-  "2023-06-05": 27571,
-  "2023-06-06": 27593,
-  "2023-06-07": 27609,
-  "2023-06-08": 27620,
-  "2023-06-09": 27629,
-  "2023-06-10": 27648,
-  "2023-06-11": 27656,
-  "2023-06-12": 27664,
-  "2023-06-13": 27674,
-  "2023-06-14": 27689,
-  "2023-06-15": 27697,
-  "2023-06-16": 27708,
-  "2023-06-17": 27715,
-  "2023-06-18": 27722,
-  "2023-06-19": 27724,
-  "2023-06-20": 27737,
-  "2023-06-21": 27741,
-  "2023-06-22": 27749,
-  "2023-06-23": 27755,
-  "2023-06-24": 27762,
-  "2023-06-25": 27774,
-  "2023-06-26": 27780,
-  "2023-06-27": 27789,
-  "2023-06-28": 27795,
-  "2023-06-29": 27801,
-  "2023-06-30": 27804,
-  "2023-07-01": 27824,
-  "2023-07-02": 27824,
-  "2023-07-03": 27836,
-  "2023-07-04": 27856,
-  "2023-07-05": 27886,
-  "2023-07-06": 27921,
-  "2023-07-07": 27921,
-  "2023-07-08": 27921,
-  "2023-07-09": 27940,
-  "2023-07-10": 27954,
-  "2023-07-11": 27959,
-  "2023-07-12": 27968,
-  "2023-07-13": 27979,
-  "2023-07-14": 27990,
-  "2023-07-15": 27994,
-  "2023-07-16": 28010,
-  "2023-07-17": 28017,
-  "2023-07-18": 28027,
-  "2023-07-19": 28036,
-  "2023-07-20": 28041,
-  "2023-07-21": 28050,
-  "2023-07-22": 28060,
-  "2023-07-23": 28064,
-  "2023-07-24": 28073,
-  "2023-07-25": 28077,
-  "2023-07-26": 28089,
-  "2023-07-27": 28101,
-  "2023-07-28": 28109,
-  "2023-07-29": 28119,
-  "2023-07-30": 28128,
-  "2023-07-31": 28133,
-  "2023-08-01": 28154,
-  "2023-08-02": 28164,
-  "2023-08-03": 28174,
-  "2023-08-04": 28186,
-  "2023-08-05": 28192,
-  "2023-08-06": 28208,
-  "2023-08-07": 28208,
-  "2023-08-08": 28211,
-  "2023-08-09": 28223,
-  "2023-08-10": 28232,
-  "2023-08-11": 28243,
-  "2023-08-12": 28243,
-  "2023-08-13": 28243,
-  "2023-08-14": 28267,
-  "2023-08-15": 28267,
-  "2023-08-16": 28267,
-  "2023-08-17": 28267,
-  "2023-08-18": 28267,
-  "2023-08-19": 28267,
-  "2023-08-20": 28328,
-  "2023-08-21": 28328,
-  "2023-08-22": 28336,
-  "2023-08-23": 28336,
-  "2023-08-24": 28336,
-  "2023-08-25": 28336,
-  "2023-08-26": 28391,
-  "2023-08-27": 28391,
-  "2023-08-28": 28410,
-  "2023-08-29": 28410,
-  "2023-08-30": 28410,
-  "2023-08-31": 28450,
-  "2023-09-01": 28458,
-  "2023-09-02": 28458,
-  "2023-09-03": 28458,
-  "2023-09-04": 28458,
-  "2023-09-05": 28458,
-  "2023-09-06": 28458,
-  "2023-09-07": 28458,
-  "2023-09-08": 28458,
-  "2023-09-09": 28458,
-  "2023-09-10": 28458,
-  "2023-09-11": 28458,
-  "2023-09-12": 28458,
-  "2023-09-13": 28458,
-  "2023-09-14": 28458,
-  "2023-09-15": 28458,
-  "2023-09-16": 28648,
-  "2023-09-17": 28648,
-  "2023-09-18": 28648,
-  "2023-09-19": 28681,
-  "2023-09-20": 28681,
-  "2023-09-21": 28681,
-  "2023-09-22": 28705,
-  "2023-09-23": 28705,
-  "2023-09-24": 28705,
-  "2023-09-25": 28705,
-  "2023-09-26": 28736,
-  "2023-09-27": 28736,
-  "2023-09-28": 28736,
-  "2023-09-29": 28736,
-  "2023-09-30": 28736,
-  "2023-10-01": 28736,
-  "2023-10-02": 28736,
-  "2023-10-03": 28736,
-  "2023-10-04": 28736,
-  "2023-10-05": 28736,
-  "2023-10-06": 28736,
-  "2023-10-07": 28736,
-  "2023-10-08": 28736,
-  "2023-10-09": 28736,
-  "2023-10-10": 28736,
-  "2023-10-11": 28849,
-  "2023-10-12": 28849,
-  "2023-10-13": 28849,
-  "2023-10-14": 28849,
-  "2023-10-15": 28849,
-  "2023-10-16": 28849,
-  "2023-10-17": 28849,
-  "2023-10-18": 28849,
-  "2023-10-19": 28849,
-  "2023-10-20": 28849,
-  "2023-10-21": 28849,
-  "2023-10-22": 28849,
-  "2023-10-23": 28849,
-  "2023-10-24": 28849,
-  "2023-10-25": 28849,
-  "2023-10-26": 28849,
-  "2023-10-27": 28849,
-  "2023-10-28": 28849,
-  "2023-10-29": 28849,
-  "2023-10-30": 28849,
-  "2023-10-31": 28849,
-  "2023-11-01": 28849,
-  "2023-11-02": 28849,
-  "2023-11-03": 28849,
-  "2023-11-04": 28849,
-  "2023-11-05": 28849,
-  "2023-11-06": 28849,
-  "2023-11-07": 28849,
-  "2023-11-08": 28849,
-  "2023-11-09": 28849,
-  "2023-11-10": 28849,
-  "2023-11-11": 29188,
-  "2023-11-12": 29188,
-  "2023-11-13": 29188,
-  "2023-11-14": 29188,
-  "2023-11-15": 29188,
-  "2023-11-16": 29188,
-  "2023-11-17": 29188,
-  "2023-11-18": 29188,
-  "2023-11-19": 29188,
-  "2023-11-20": 29188,
-  "2023-11-21": 29188,
-  "2023-11-22": 29188,
-  "2023-11-23": 29188,
-  "2023-11-24": 29188,
-  "2023-11-25": 29188,
-  "2023-11-26": 29188,
-  "2023-11-27": 29188,
-  "2023-11-28": 29188,
-  "2023-11-29": 29188,
-  "2023-11-30": 29188,
-  "2023-12-01": 29188,
-  "2023-12-02": 29188,
-  "2023-12-03": 29188,
-  "2023-12-04": 29188,
-  "2023-12-05": 29188,
-  "2023-12-06": 29188,
-  "2023-12-07": 29188,
-  "2023-12-08": 29188,
-  "2023-12-09": 29188,
-  "2023-12-10": 29188,
-  "2023-12-11": 29188,
-  "2023-12-12": 29188,
-  "2023-12-13": 29188,
-  "2023-12-14": 29432,
-  "2023-12-15": 29438,
-  "2023-12-16": 29441,
-  "2023-12-17": 29448,
-  "2023-12-18": 29452,
-  "2023-12-19": 29453,
-  "2023-12-20": 29464,
-  "2023-12-21": 29465,
-  "2023-12-22": 29471,
-  "2023-12-23": 29475,
-  "2023-12-24": 29480,
-  "2023-12-25": 29486,
-  "2023-12-26": 29487,
-  "2023-12-27": 29493,
-  "2023-12-30": 29499,
-  "2023-12-31": 29512,
-  "2024-01-01": 29519,
-  "2024-01-02": 29531,
-  "2024-01-03": 29530
+  "2024-01-17": 29632,
+  "date_first_scraped": "2023-03-20",
+  "description": "This is KURT. The essential tracks, all in one playlist.",
+  "name": "This Is KURT",
+  "tracks": [
+    {
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "10 Veces Mejor",
+      "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "16",
+      "url": "https://open.spotify.com/track/55ftDFrREvV7yzdsoe55Hl"
+    },
+    {
+      "album": {
+        "name": "50 Meses Tarde (Ptm)",
+        "url": "https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf"
+      },
+      "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214557,
+      "name": "50 Meses Tarde (Ptm)",
+      "url": "https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE"
+    },
+    {
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174106,
+      "name": "Amanec\u00ed Nublado",
+      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
+    },
+    {
+      "album": {
+        "name": "Atin Ang Gabi",
+        "url": "https://open.spotify.com/album/5nVmxNBrhSyhVVdgPTzYYk"
+      },
+      "artists": [
+        {
+          "name": "Hey Its Je",
+          "url": "https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 207908,
+      "name": "Atin Ang Gabi",
+      "url": "https://open.spotify.com/track/17RgTZudEsdSX1Ngm5h7W8"
+    },
+    {
+      "album": {
+        "name": "Byahe",
+        "url": "https://open.spotify.com/album/2qznBvIgV9bF6zTIlLkEmO"
+      },
+      "artists": [
+        {
+          "name": "Hey Its Je",
+          "url": "https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 197567,
+      "name": "Byahe",
+      "url": "https://open.spotify.com/track/3Fq5zE2NdCoGDtU2QuP8WD"
+    },
+    {
+      "album": {
+        "name": "B\u00f3rrame",
+        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "B\u00f3rrame",
+      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
+    },
+    {
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246173,
+      "name": "Como Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/1t8mt1PDXNzRxr2RPt9Ji0"
+    },
+    {
+      "album": {
+        "name": "Con Las Ganas",
+        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "Con Las Ganas",
+      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
+    },
+    {
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
+    },
+    {
+      "album": {
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 239320,
+      "name": "Doler\u00e1",
+      "url": "https://open.spotify.com/track/4ai1InCLeygWk2dwvvYCpX"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247213,
+      "name": "En Medio De Este Ruido",
+      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
+    },
+    {
+      "album": {
+        "name": "Encima De Mil",
+        "url": "https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Encima De Mil",
+      "url": "https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ"
+    },
+    {
+      "album": {
+        "name": "Despierto",
+        "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 189013,
+      "name": "Encima De Mil",
+      "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "Escap\u00e9monos",
+      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 208300,
+      "name": "Kapitel 1.2 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/4DgfaBr9C1HT3isZcVDaN2"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 226386,
+      "name": "Kapitel 1.3 & Kapitel 2.1 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/6kHgcNWyUVCqOet4Yhgx3l"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 191900,
+      "name": "Kapitel 2.2 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/0m66a6KwWIyx3bdPvDX7yd"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 232200,
+      "name": "Kapitel 2.3 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/6Lax6hORnWTLolXwEBEZm8"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 274200,
+      "name": "Kapitel 3.2 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/7prZIfKOmh3he01CQT1IR5"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 205200,
+      "name": "Kapitel 3.3 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/6s7OHMiFJb3AhF5LdLBOjg"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 185986,
+      "name": "Kapitel 3.4 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/47HyVMD5hpNbA49T0G2bRS"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 189300,
+      "name": "Kapitel 3.5 & Kapitel 4.1 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/7bvhVi8QhVxWVj4XRgXrMt"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 193300,
+      "name": "Kapitel 4.2 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/226qIu0Z9Kryuaj6Eqy1Ro"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 278900,
+      "name": "Kapitel 4.3 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/2XVVyz643oxZQTOLLOF42t"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 220773,
+      "name": "Kapitel 4.4 & Kapitel 5.1 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/5hMl0n8DL41e7jRaI5fTVR"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 319900,
+      "name": "Kapitel 5.2 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/1BdmIEWEmG9nwqzIHQnU9M"
+    },
+    {
+      "album": {
+        "name": "Kurt 3. Ein Horn \u2013 eine Mission",
+        "url": "https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 196700,
+      "name": "Kapitel 5.3 & Kapitel 6.1 - Kurt 3. Ein Horn \u2013 eine Mission",
+      "url": "https://open.spotify.com/track/43ol5y74hLh1p3VPJnagBh"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "La Mujer Perfecta",
+      "url": "https://open.spotify.com/track/5XR1WyZ0uOSHRNhP85QxT4"
+    },
+    {
+      "album": {
+        "name": "La Mujer Perfecta",
+        "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
+      },
+      "artists": [
+        {
+          "name": "Sindicato Del Ritmo",
+          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218573,
+      "name": "La Mujer Perfecta",
+      "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido En Vivo",
+        "url": "https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330880,
+      "name": "La Mujer Perfecta - En Vivo",
+      "url": "https://open.spotify.com/track/4tCrl2uIZgACyuGTSvPcbM"
+    },
+    {
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281546,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6ttAd4xtADjX1JZB6ObLTl"
+    },
+    {
+      "album": {
+        "name": "la vida viene y va",
+        "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215872,
+      "name": "la vida viene y va",
+      "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
+    },
+    {
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
+      },
+      "artists": [
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252285,
+      "name": "Leyenda",
+      "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
+    },
+    {
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "Lolis",
+      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207986,
+      "name": "Los D\u00edas Que Vendr\u00e1n",
+      "url": "https://open.spotify.com/track/2qmRGDSS7kQ0mRjfuNso9T"
+    },
+    {
+      "album": {
+        "name": "Hoods",
+        "url": "https://open.spotify.com/album/4UjA9gB2ct0Tyiy9ryI15d"
+      },
+      "artists": [
+        {
+          "name": "RAISAIN",
+          "url": "https://open.spotify.com/artist/1gdqmzAlBBZ2HL078KlSGt"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 153913,
+      "name": "Loup",
+      "url": "https://open.spotify.com/track/0vlAgGb9uEggSg6UEE7tME"
+    },
+    {
+      "album": {
+        "name": "Luna y Marea (feat. KURT)",
+        "url": "https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228731,
+      "name": "Luna y Marea (feat. KURT)",
+      "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
+    },
+    {
+      "album": {
+        "name": "Luz Prendida",
+        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "Luz Prendida",
+      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
+    },
+    {
+      "album": {
+        "name": "Me Entrego",
+        "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
+      },
+      "artists": [
+        {
+          "name": "Juan Solo",
+          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Me Entrego",
+      "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
+    },
+    {
+      "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
+    },
+    {
+      "album": {
+        "name": "In Between: The Collection",
+        "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 189799,
+      "name": "Never Have I Ever - Yo Nunca He... / Spanish Version",
+      "url": "https://open.spotify.com/track/73hSwzanDMxHtmzmXiPpzK"
+    },
+    {
+      "album": {
+        "name": "No Lo Est\u00e1s Logrando",
+        "url": "https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183706,
+      "name": "No Lo Est\u00e1s Logrando",
+      "url": "https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn"
+    },
+    {
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 184826,
+      "name": "No Te Olvido",
+      "url": "https://open.spotify.com/track/02fOTpdqf477rKRoH4LeiD"
+    },
+    {
+      "album": {
+        "name": "No Te Olvido",
+        "url": "https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "No Te Olvido",
+      "url": "https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT"
+    },
+    {
+      "album": {
+        "name": "NQSTA",
+        "url": "https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "NQSTA",
+      "url": "https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu"
+    },
+    {
+      "album": {
+        "name": "1997",
+        "url": "https://open.spotify.com/album/0klkzmA0qpleznc4TCug5e"
+      },
+      "artists": [
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "Otra Liza (Con KURT)",
+      "url": "https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5"
+    },
+    {
+      "album": {
+        "name": "Polvo De Gigantes",
+        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153440,
+      "name": "Polvo De Gigantes",
+      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "album": {
+        "name": "Por Su Amor (with KURT)",
+        "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221336,
+      "name": "Por Su Amor (with KURT)",
+      "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
+    },
+    {
+      "album": {
+        "name": "Hecho Para Ti",
+        "url": "https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ"
+    },
+    {
+      "album": {
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 201120,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Suerte",
+        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165960,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
+    },
+    {
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+    },
+    {
+      "album": {
+        "name": "unas ac\u00fasticas",
+        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Salto de Fe",
+      "url": "https://open.spotify.com/track/48EdXAASoIWLZviugfzfkw"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252560,
+      "name": "Se Fuerte Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1al",
+        "url": "https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Se\u00f1al",
+      "url": "https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido En Vivo",
+        "url": "https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307866,
+      "name": "Sin Ti - En Vivo",
+      "url": "https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv"
+    },
+    {
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196040,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3"
+    },
+    {
+      "album": {
+        "name": "unas ac\u00fasticas",
+        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "Sonre\u00edr",
+      "url": "https://open.spotify.com/track/3EYbyZ31BsZ96HEraj3za7"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209013,
+      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Muere Si Se Olvida",
+        "url": "https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173480,
+      "name": "S\u00f3lo Muere Si Se Olvida",
+      "url": "https://open.spotify.com/track/2heJtjlk2q37k1ciyw81KV"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Muere Si Se Olvida",
+        "url": "https://open.spotify.com/album/06eE8AIljE3ADQbE3KSZ50"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 173613,
+      "name": "S\u00f3lo Muere Si Se Olvida",
+      "url": "https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd"
+    },
+    {
+      "album": {
+        "name": "La Vida (Deluxe)",
+        "url": "https://open.spotify.com/album/2mCF7tagY5QWepheBHM236"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Te Dejo Libre",
+      "url": "https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx"
+    },
+    {
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157426,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+    },
+    {
+      "album": {
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230323,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY"
+    },
+    {
+      "album": {
+        "name": "Un Mill\u00f3n Como T\u00fa (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6ry4Fp9pZ6hWf5opR2Vj74"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279933,
+      "name": "Un Mill\u00f3n Como T\u00fa - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1oZ2hDOn8rJFQdFKQ9HXTu"
+    },
+    {
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "Vengo Del Futuro",
+      "url": "https://open.spotify.com/track/4mvtqRJpySaswY75a9WfVm"
+    },
+    {
+      "album": {
+        "name": "Surviving the Game",
+        "url": "https://open.spotify.com/album/3czXhfXFfJa3I811Rh6bhM"
+      },
+      "artists": [
+        {
+          "name": "Remnant",
+          "url": "https://open.spotify.com/artist/0cjUe5MBVQessZ3oTzsXdv"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 261456,
+      "name": "Visionz of Mine",
+      "url": "https://open.spotify.com/track/4q9IXqEDky5QzmyKedPg8q"
+    },
+    {
+      "album": {
+        "name": "Love Dealer",
+        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204511,
+      "name": "YA VA A VENIR",
+      "url": "https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wTXPn"
 }

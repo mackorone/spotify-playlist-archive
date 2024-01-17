@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "KING Returns",
+        "url": "https://open.spotify.com/album/1jpGnXd6QupHBhWfH7wFA7"
+      },
+      "artists": [
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216461,
+      "name": "Babaji",
+      "url": "https://open.spotify.com/track/3lqJMMSFVVCRqcA8qqT7Ft"
+    },
+    {
+      "album": {
         "name": "Bad-Nam",
         "url": "https://open.spotify.com/album/6rWhToggUTvJFynDRoBZU7"
       },
@@ -899,6 +917,28 @@
     },
     {
       "album": {
+        "name": "California Blaze",
+        "url": "https://open.spotify.com/album/1LCr8RKvVMWYuIxrdvbEBn"
+      },
+      "artists": [
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO"
+        },
+        {
+          "name": "Outfly",
+          "url": "https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161100,
+      "name": "California Blaze",
+      "url": "https://open.spotify.com/track/0qsDLoN3Tvb3aOoa3h4TnP"
+    },
+    {
+      "album": {
         "name": "Chhod Dala",
         "url": "https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT"
       },
@@ -1206,7 +1246,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 177107,
       "name": "Dil Se Dil Tak",
       "url": "https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe"
@@ -1324,6 +1364,24 @@
       "duration_ms": 158823,
       "name": "Duniya Makkaar",
       "url": "https://open.spotify.com/track/78C9fInl0QUYAQBsEenYVC"
+    },
+    {
+      "album": {
+        "name": "KING Returns",
+        "url": "https://open.spotify.com/album/1jpGnXd6QupHBhWfH7wFA7"
+      },
+      "artists": [
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211322,
+      "name": "Ethe Rakh",
+      "url": "https://open.spotify.com/track/0Y6ZBKtGC6YUo3ZAbU0tLL"
     },
     {
       "album": {
@@ -2026,7 +2084,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 188702,
       "name": "Industry Galat",
       "url": "https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq"
@@ -2805,6 +2863,32 @@
     },
     {
       "album": {
+        "name": "KAURA (Aura Of Kaur)",
+        "url": "https://open.spotify.com/album/3BEx6TlerpLR8UizNMD5s1"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Mehenga",
+      "url": "https://open.spotify.com/track/2TI6aZH0P90P0Hl1LH4Lsn"
+    },
+    {
+      "album": {
         "name": "Mere Yaar",
         "url": "https://open.spotify.com/album/3lzNDSREtv2HpZ0vqnVYHG"
       },
@@ -2863,7 +2947,7 @@
     },
     {
       "album": {
-        "name": "Moon (Tunnel Vision)",
+        "name": "Moon",
         "url": "https://open.spotify.com/album/1i0GJTRqV5rMSMc1r1DQr8"
       },
       "artists": [
@@ -2884,7 +2968,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186750,
-      "name": "Moon - Tunnel Vision",
+      "name": "Moon",
       "url": "https://open.spotify.com/track/6EtvIpTCxxWmtwQu0eL63C"
     },
     {
@@ -3091,7 +3175,7 @@
     },
     {
       "album": {
-        "name": "No ID (Tunnel Vision)",
+        "name": "No ID",
         "url": "https://open.spotify.com/album/0sOz3qB67vifJ7xChlGXWQ"
       },
       "artists": [
@@ -3108,7 +3192,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159600,
-      "name": "No ID - Tunnel Vision",
+      "name": "No ID",
       "url": "https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O"
     },
     {
@@ -3150,7 +3234,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 218142,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK"
@@ -3168,7 +3252,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 166299,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/2a5XIrIFr3jDlxP3xAYIc5"
@@ -3504,7 +3588,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 140125,
       "name": "Sab Kuch",
       "url": "https://open.spotify.com/track/4wZ9N55zJvZbsi868fb3Wt"
@@ -3770,7 +3854,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 162506,
       "name": "STRAP",
       "url": "https://open.spotify.com/track/1GmaStjvbOzszpxINI8oTi"
@@ -3840,6 +3924,24 @@
       "duration_ms": 156726,
       "name": "Sunti Kaha Hai",
       "url": "https://open.spotify.com/track/0JAPkDAXbRsMtQtsYkW3xP"
+    },
+    {
+      "album": {
+        "name": "Sup!",
+        "url": "https://open.spotify.com/album/5LQQcTthfUSnEewxOhFXuA"
+      },
+      "artists": [
+        {
+          "name": "Naezy",
+          "url": "https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "Sup!",
+      "url": "https://open.spotify.com/track/3L2wjV5FqiAwoIgXbMYBtJ"
     },
     {
       "album": {
@@ -4057,6 +4159,32 @@
     },
     {
       "album": {
+        "name": "Trapstar",
+        "url": "https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya"
+      },
+      "artists": [
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7"
+        },
+        {
+          "name": "BRAZY",
+          "url": "https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM"
+        },
+        {
+          "name": "Yeah Proof",
+          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174327,
+      "name": "Trapstar",
+      "url": "https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW"
+    },
+    {
+      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/0vmZ55s1DXlmyfDWPNwPGY"
       },
@@ -4072,7 +4200,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 160000,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/18sHkYJvvWhMnsE9BhDHgC"
@@ -4270,6 +4398,28 @@
       "duration_ms": 328421,
       "name": "WOH",
       "url": "https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN"
+    },
+    {
+      "album": {
+        "name": "Woh Ladka (Tunnel Vision)",
+        "url": "https://open.spotify.com/album/5cG8BJbVGS7x61u7YoV5CY"
+      },
+      "artists": [
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        },
+        {
+          "name": "Bandzo3rd",
+          "url": "https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Woh Ladka - Tunnel Vision",
+      "url": "https://open.spotify.com/track/07clR437zfjv7dMvggxiwl"
     },
     {
       "album": {

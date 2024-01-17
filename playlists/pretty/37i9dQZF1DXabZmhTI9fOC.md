@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,329 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,467 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 17 | [Say Something](https://open.spotify.com/track/25d67cENtRAzxKLu1eGEet) | [Josh Franklin](https://open.spotify.com/artist/6wCj7H435dTD7nFTl9PREo) | [Take Cover](https://open.spotify.com/album/6MZuB7goU0furttXld9zwA) | 4:01 |
 | 18 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
 | 19 | [Hit the Road Jack](https://open.spotify.com/track/5PIpdcCquAoTWTUUjK1tbY) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Hit the Road Jack](https://open.spotify.com/album/2JiWOGcnPYwlkQSdUn2ZGx) | 3:31 |
-| 20 | [About To Get Crazy](https://open.spotify.com/track/6L6ErHDSCYsDZ3RyFFRcTh) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Move With It](https://open.spotify.com/album/6c40DRTEn1jyN3q07kAxfM) | 3:06 |
+| 20 | [About To Get Crazy](https://open.spotify.com/track/3HtN9YBRCw6rIZIkmd3GGA) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Move With It](https://open.spotify.com/album/53nMmwWs7tA4XOTrJYS9Yo) | 3:06 |
 | 21 | [Closer](https://open.spotify.com/track/4X7ZR0vFM3vrYUJnBLUeuY) | [Moyr](https://open.spotify.com/artist/1zTGzMUzAEGmGZkmPqX0s1), [Juneau Marie](https://open.spotify.com/artist/6Y36VDxkSTewsgrtSaWhNV) | [Feed The Fever](https://open.spotify.com/album/5aGDn1PfQ0b3cPup6cpe3d) | 3:20 |
 | 22 | [Gimme That Sunshine](https://open.spotify.com/track/3X3Q0i7IsINhaDSXt4lGqj) | [Animal Island](https://open.spotify.com/artist/0NQYbrCaGSmlf1u6Xs8Zix) | [Animalistic](https://open.spotify.com/album/3ysb5nxgkEyUTEL1H5FRZR) | 3:20 |
 | 23 | [Love is an Accident](https://open.spotify.com/track/1z8k5pP1Gtw5WQFSYOn5dL) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:05 |

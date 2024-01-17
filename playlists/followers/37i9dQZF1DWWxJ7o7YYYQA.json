@@ -1,509 +1,1053 @@
 {
-  "2022-08-09": 9,
-  "2022-08-10": 28,
-  "2022-08-11": 41,
-  "2022-08-12": 53,
-  "2022-08-13": 65,
-  "2022-08-14": 84,
-  "2022-08-15": 116,
-  "2022-08-16": 132,
-  "2022-08-17": 152,
-  "2022-08-18": 157,
-  "2022-08-19": 164,
-  "2022-08-20": 172,
-  "2022-08-21": 185,
-  "2022-08-22": 203,
-  "2022-08-23": 210,
-  "2022-08-24": 215,
-  "2022-08-25": 225,
-  "2022-08-26": 236,
-  "2022-08-27": 242,
-  "2022-08-28": 251,
-  "2022-08-29": 275,
-  "2022-08-30": 287,
-  "2022-08-31": 299,
-  "2022-09-01": 312,
-  "2022-09-02": 322,
-  "2022-09-03": 335,
-  "2022-09-04": 338,
-  "2022-09-05": 359,
-  "2022-09-06": 367,
-  "2022-09-07": 376,
-  "2022-09-09": 386,
-  "2022-09-10": 391,
-  "2022-09-11": 397,
-  "2022-09-12": 415,
-  "2022-09-13": 415,
-  "2022-09-15": 415,
-  "2022-09-16": 415,
-  "2022-09-17": 415,
-  "2022-09-18": 415,
-  "2022-09-19": 415,
-  "2022-09-20": 415,
-  "2022-09-21": 415,
-  "2022-09-22": 415,
-  "2022-09-23": 415,
-  "2022-09-24": 415,
-  "2022-09-25": 415,
-  "2022-09-26": 415,
-  "2022-09-27": 415,
-  "2022-09-28": 415,
-  "2022-09-29": 415,
-  "2022-09-30": 415,
-  "2022-10-01": 415,
-  "2022-10-02": 415,
-  "2022-10-03": 415,
-  "2022-10-04": 415,
-  "2022-10-05": 415,
-  "2022-10-06": 415,
-  "2022-10-07": 415,
-  "2022-10-08": 415,
-  "2022-10-09": 415,
-  "2022-10-10": 415,
-  "2022-10-11": 415,
-  "2022-10-12": 415,
-  "2022-10-13": 415,
-  "2022-10-14": 415,
-  "2022-10-15": 415,
-  "2022-10-16": 415,
-  "2022-10-17": 415,
-  "2022-10-18": 415,
-  "2022-10-19": 415,
-  "2022-10-20": 415,
-  "2022-10-21": 415,
-  "2022-10-22": 415,
-  "2022-10-23": 415,
-  "2022-10-24": 415,
-  "2022-10-25": 415,
-  "2022-10-26": 415,
-  "2022-10-27": 415,
-  "2022-10-28": 415,
-  "2022-10-29": 415,
-  "2022-10-30": 415,
-  "2022-10-31": 415,
-  "2022-11-01": 415,
-  "2022-11-02": 415,
-  "2022-11-03": 415,
-  "2022-11-04": 415,
-  "2022-11-05": 415,
-  "2022-11-06": 415,
-  "2022-11-07": 415,
-  "2022-11-08": 415,
-  "2022-11-09": 415,
-  "2022-11-10": 415,
-  "2022-11-11": 415,
-  "2022-11-12": 415,
-  "2022-11-13": 415,
-  "2022-11-14": 415,
-  "2022-11-15": 415,
-  "2022-11-16": 415,
-  "2022-11-17": 415,
-  "2022-11-18": 415,
-  "2022-11-19": 415,
-  "2022-11-20": 415,
-  "2022-11-21": 415,
-  "2022-11-22": 415,
-  "2022-11-23": 415,
-  "2022-11-24": 415,
-  "2022-11-25": 415,
-  "2022-11-26": 415,
-  "2022-11-27": 415,
-  "2022-11-28": 415,
-  "2022-11-29": 415,
-  "2022-11-30": 415,
-  "2022-12-01": 415,
-  "2022-12-02": 415,
-  "2022-12-03": 415,
-  "2022-12-04": 415,
-  "2022-12-05": 415,
-  "2022-12-06": 415,
-  "2022-12-07": 415,
-  "2022-12-08": 415,
-  "2022-12-09": 415,
-  "2022-12-10": 415,
-  "2022-12-11": 415,
-  "2022-12-12": 415,
-  "2022-12-13": 415,
-  "2022-12-14": 415,
-  "2022-12-15": 415,
-  "2022-12-16": 415,
-  "2022-12-17": 415,
-  "2022-12-18": 415,
-  "2022-12-19": 415,
-  "2022-12-20": 415,
-  "2022-12-21": 415,
-  "2022-12-22": 415,
-  "2022-12-24": 415,
-  "2022-12-25": 415,
-  "2022-12-26": 415,
-  "2022-12-27": 415,
-  "2022-12-28": 415,
-  "2022-12-29": 415,
-  "2022-12-30": 415,
-  "2022-12-31": 415,
-  "2023-01-01": 415,
-  "2023-01-02": 415,
-  "2023-01-03": 415,
-  "2023-01-04": 415,
-  "2023-01-05": 415,
-  "2023-01-06": 415,
-  "2023-01-07": 415,
-  "2023-01-08": 415,
-  "2023-01-09": 415,
-  "2023-01-10": 415,
-  "2023-01-11": 415,
-  "2023-01-12": 415,
-  "2023-01-13": 415,
-  "2023-01-14": 415,
-  "2023-01-15": 415,
-  "2023-01-16": 415,
-  "2023-01-17": 415,
-  "2023-01-18": 415,
-  "2023-01-19": 415,
-  "2023-01-20": 415,
-  "2023-01-21": 415,
-  "2023-01-22": 415,
-  "2023-01-23": 415,
-  "2023-01-24": 415,
-  "2023-01-25": 415,
-  "2023-01-26": 415,
-  "2023-01-27": 415,
-  "2023-01-28": 415,
-  "2023-01-29": 415,
-  "2023-01-30": 415,
-  "2023-01-31": 415,
-  "2023-02-01": 415,
-  "2023-02-02": 415,
-  "2023-02-03": 415,
-  "2023-02-04": 415,
-  "2023-02-05": 415,
-  "2023-02-06": 415,
-  "2023-02-07": 415,
-  "2023-02-08": 415,
-  "2023-02-09": 415,
-  "2023-02-10": 415,
-  "2023-02-11": 415,
-  "2023-02-12": 415,
-  "2023-02-13": 415,
-  "2023-02-14": 415,
-  "2023-02-15": 415,
-  "2023-02-16": 415,
-  "2023-02-17": 415,
-  "2023-02-18": 415,
-  "2023-02-19": 415,
-  "2023-02-20": 415,
-  "2023-02-21": 415,
-  "2023-02-22": 415,
-  "2023-02-23": 415,
-  "2023-02-24": 415,
-  "2023-02-25": 415,
-  "2023-02-26": 415,
-  "2023-02-27": 415,
-  "2023-02-28": 415,
-  "2023-03-01": 415,
-  "2023-03-02": 415,
-  "2023-03-03": 415,
-  "2023-03-04": 415,
-  "2023-03-05": 415,
-  "2023-03-06": 415,
-  "2023-03-07": 415,
-  "2023-03-08": 415,
-  "2023-03-09": 415,
-  "2023-03-10": 415,
-  "2023-03-11": 415,
-  "2023-03-12": 415,
-  "2023-03-13": 415,
-  "2023-03-14": 415,
-  "2023-03-15": 415,
-  "2023-03-16": 415,
-  "2023-03-17": 415,
-  "2023-03-18": 415,
-  "2023-03-19": 415,
-  "2023-03-20": 415,
-  "2023-03-21": 415,
-  "2023-03-22": 415,
-  "2023-03-23": 415,
-  "2023-03-24": 415,
-  "2023-03-25": 415,
-  "2023-03-26": 415,
-  "2023-03-27": 415,
-  "2023-03-28": 415,
-  "2023-03-29": 415,
-  "2023-03-30": 415,
-  "2023-03-31": 415,
-  "2023-04-01": 415,
-  "2023-04-02": 415,
-  "2023-04-03": 415,
-  "2023-04-04": 415,
-  "2023-04-05": 415,
-  "2023-04-06": 415,
-  "2023-04-07": 415,
-  "2023-04-09": 415,
-  "2023-04-10": 415,
-  "2023-04-11": 415,
-  "2023-04-12": 415,
-  "2023-04-13": 415,
-  "2023-04-14": 415,
-  "2023-04-15": 415,
-  "2023-04-16": 415,
-  "2023-04-17": 415,
-  "2023-04-18": 415,
-  "2023-04-19": 415,
-  "2023-04-20": 415,
-  "2023-04-21": 415,
-  "2023-04-22": 415,
-  "2023-04-23": 415,
-  "2023-04-24": 415,
-  "2023-04-25": 415,
-  "2023-04-26": 415,
-  "2023-04-27": 415,
-  "2023-04-28": 415,
-  "2023-04-29": 415,
-  "2023-04-30": 415,
-  "2023-05-01": 415,
-  "2023-05-02": 415,
-  "2023-05-03": 415,
-  "2023-05-04": 415,
-  "2023-05-05": 415,
-  "2023-05-06": 415,
-  "2023-05-07": 415,
-  "2023-05-08": 415,
-  "2023-05-09": 415,
-  "2023-05-10": 415,
-  "2023-05-11": 415,
-  "2023-05-12": 415,
-  "2023-05-13": 415,
-  "2023-05-14": 415,
-  "2023-05-15": 415,
-  "2023-05-16": 415,
-  "2023-05-17": 415,
-  "2023-05-18": 415,
-  "2023-05-19": 415,
-  "2023-05-20": 415,
-  "2023-05-21": 415,
-  "2023-05-22": 415,
-  "2023-05-23": 415,
-  "2023-05-24": 415,
-  "2023-05-25": 415,
-  "2023-05-26": 415,
-  "2023-05-27": 415,
-  "2023-05-28": 415,
-  "2023-05-29": 415,
-  "2023-05-30": 415,
-  "2023-05-31": 415,
-  "2023-06-01": 415,
-  "2023-06-02": 415,
-  "2023-06-03": 415,
-  "2023-06-04": 415,
-  "2023-06-05": 415,
-  "2023-06-06": 415,
-  "2023-06-07": 415,
-  "2023-06-08": 415,
-  "2023-06-09": 415,
-  "2023-06-10": 415,
-  "2023-06-11": 415,
-  "2023-06-12": 415,
-  "2023-06-13": 415,
-  "2023-06-14": 415,
-  "2023-06-15": 415,
-  "2023-06-16": 415,
-  "2023-06-17": 415,
-  "2023-06-18": 415,
-  "2023-06-19": 415,
-  "2023-06-20": 415,
-  "2023-06-21": 415,
-  "2023-06-22": 415,
-  "2023-06-23": 415,
-  "2023-06-24": 415,
-  "2023-06-25": 415,
-  "2023-06-26": 415,
-  "2023-06-27": 415,
-  "2023-06-28": 415,
-  "2023-06-29": 415,
-  "2023-06-30": 415,
-  "2023-07-01": 415,
-  "2023-07-02": 415,
-  "2023-07-03": 415,
-  "2023-07-04": 415,
-  "2023-07-05": 415,
-  "2023-07-06": 415,
-  "2023-07-07": 415,
-  "2023-07-08": 415,
-  "2023-07-09": 415,
-  "2023-07-10": 415,
-  "2023-07-11": 415,
-  "2023-07-12": 415,
-  "2023-07-13": 415,
-  "2023-07-14": 415,
-  "2023-07-15": 415,
-  "2023-07-16": 415,
-  "2023-07-17": 415,
-  "2023-07-18": 415,
-  "2023-07-19": 415,
-  "2023-07-20": 415,
-  "2023-07-21": 415,
-  "2023-07-22": 415,
-  "2023-07-23": 415,
-  "2023-07-24": 415,
-  "2023-07-25": 415,
-  "2023-07-26": 415,
-  "2023-07-27": 415,
-  "2023-07-28": 415,
-  "2023-07-29": 415,
-  "2023-07-30": 415,
-  "2023-07-31": 415,
-  "2023-08-01": 415,
-  "2023-08-02": 415,
-  "2023-08-03": 415,
-  "2023-08-04": 415,
-  "2023-08-05": 415,
-  "2023-08-06": 415,
-  "2023-08-07": 415,
-  "2023-08-08": 415,
-  "2023-08-09": 415,
-  "2023-08-10": 415,
-  "2023-08-11": 415,
-  "2023-08-12": 415,
-  "2023-08-13": 415,
-  "2023-08-14": 415,
-  "2023-08-15": 415,
-  "2023-08-16": 415,
-  "2023-08-17": 415,
-  "2023-08-18": 415,
-  "2023-08-19": 415,
-  "2023-08-20": 415,
-  "2023-08-21": 415,
-  "2023-08-22": 415,
-  "2023-08-23": 415,
-  "2023-08-24": 415,
-  "2023-08-25": 415,
-  "2023-08-26": 415,
-  "2023-08-27": 415,
-  "2023-08-28": 415,
-  "2023-08-29": 415,
-  "2023-08-30": 415,
-  "2023-08-31": 415,
-  "2023-09-01": 415,
-  "2023-09-02": 415,
-  "2023-09-03": 415,
-  "2023-09-04": 415,
-  "2023-09-05": 415,
-  "2023-09-06": 415,
-  "2023-09-07": 415,
-  "2023-09-08": 415,
-  "2023-09-09": 415,
-  "2023-09-10": 415,
-  "2023-09-11": 415,
-  "2023-09-12": 415,
-  "2023-09-13": 415,
-  "2023-09-14": 415,
-  "2023-09-15": 415,
-  "2023-09-16": 415,
-  "2023-09-17": 415,
-  "2023-09-18": 415,
-  "2023-09-19": 415,
-  "2023-09-20": 415,
-  "2023-09-21": 415,
-  "2023-09-22": 415,
-  "2023-09-23": 415,
-  "2023-09-24": 415,
-  "2023-09-25": 415,
-  "2023-09-26": 415,
-  "2023-09-27": 415,
-  "2023-09-28": 415,
-  "2023-09-29": 415,
-  "2023-09-30": 415,
-  "2023-10-01": 415,
-  "2023-10-02": 415,
-  "2023-10-03": 415,
-  "2023-10-04": 415,
-  "2023-10-05": 415,
-  "2023-10-06": 415,
-  "2023-10-07": 415,
-  "2023-10-08": 415,
-  "2023-10-09": 415,
-  "2023-10-10": 415,
-  "2023-10-11": 415,
-  "2023-10-12": 415,
-  "2023-10-13": 415,
-  "2023-10-14": 415,
-  "2023-10-15": 415,
-  "2023-10-16": 415,
-  "2023-10-17": 415,
-  "2023-10-18": 415,
-  "2023-10-19": 415,
-  "2023-10-20": 415,
-  "2023-10-21": 415,
-  "2023-10-22": 415,
-  "2023-10-23": 415,
-  "2023-10-24": 415,
-  "2023-10-25": 415,
-  "2023-10-26": 415,
-  "2023-10-27": 415,
-  "2023-10-28": 415,
-  "2023-10-29": 415,
-  "2023-10-30": 415,
-  "2023-10-31": 415,
-  "2023-11-01": 415,
-  "2023-11-02": 415,
-  "2023-11-03": 415,
-  "2023-11-04": 415,
-  "2023-11-05": 415,
-  "2023-11-06": 415,
-  "2023-11-07": 415,
-  "2023-11-08": 415,
-  "2023-11-09": 415,
-  "2023-11-10": 415,
-  "2023-11-11": 415,
-  "2023-11-12": 415,
-  "2023-11-13": 415,
-  "2023-11-14": 415,
-  "2023-11-15": 415,
-  "2023-11-16": 415,
-  "2023-11-17": 415,
-  "2023-11-18": 415,
-  "2023-11-19": 415,
-  "2023-11-20": 415,
-  "2023-11-21": 415,
-  "2023-11-22": 415,
-  "2023-11-23": 415,
-  "2023-11-24": 415,
-  "2023-11-25": 415,
-  "2023-11-26": 415,
-  "2023-11-27": 415,
-  "2023-11-28": 415,
-  "2023-11-29": 415,
-  "2023-11-30": 415,
-  "2023-12-01": 415,
-  "2023-12-02": 415,
-  "2023-12-03": 415,
-  "2023-12-04": 415,
-  "2023-12-05": 415,
-  "2023-12-06": 415,
-  "2023-12-07": 415,
-  "2023-12-08": 415,
-  "2023-12-09": 415,
-  "2023-12-10": 415,
-  "2023-12-11": 415,
-  "2023-12-12": 415,
-  "2023-12-13": 415,
-  "2023-12-14": 415,
-  "2023-12-15": 415,
-  "2023-12-16": 415,
-  "2023-12-17": 415,
-  "2023-12-18": 415,
-  "2023-12-19": 415,
-  "2023-12-20": 415,
-  "2023-12-21": 415,
-  "2023-12-22": 415,
-  "2023-12-23": 415,
-  "2023-12-24": 415,
-  "2023-12-25": 415,
-  "2023-12-26": 415,
-  "2023-12-27": 415,
-  "2023-12-30": 415,
-  "2023-12-31": 415,
-  "2024-01-01": 415,
-  "2024-01-02": 415,
-  "2024-01-03": 415
+  "2024-01-17": 415,
+  "date_first_scraped": "2022-08-09",
+  "description": "Cultural juggernauts whose tracks have shifted global narratives by The Juggernaut. Cover: Riz Ahmed",
+  "name": "Spotlight: The Juggernaut",
+  "tracks": [
+    {
+      "album": {
+        "name": "Monsoon Wedding",
+        "url": "https://open.spotify.com/album/5Bpfo92VEEmMeVAkZJCxsp"
+      },
+      "artists": [
+        {
+          "name": "Mychael Danna",
+          "url": "https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313986,
+      "name": "Aaj Mera Jee Kardaa (Today My Heart Desires)",
+      "url": "https://open.spotify.com/track/7hwcldrt7qOkIBGconH2vi"
+    },
+    {
+      "album": {
+        "name": "Cashmere",
+        "url": "https://open.spotify.com/album/0wL2jTDIlsPrvwEm7Le0ML"
+      },
+      "artists": [
+        {
+          "name": "Swet Shop Boys",
+          "url": "https://open.spotify.com/artist/3ah2OYM4PbK5p1XIS5HfGD"
+        },
+        {
+          "name": "Riz Ahmed",
+          "url": "https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW"
+        },
+        {
+          "name": "Heems",
+          "url": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199244,
+      "name": "Aaja",
+      "url": "https://open.spotify.com/track/6GZeLGQrcw68odXY2P5pDu"
+    },
+    {
+      "album": {
+        "name": "Qurbani",
+        "url": "https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs"
+      },
+      "artists": [
+        {
+          "name": "Nazia Hassan",
+          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+        },
+        {
+          "name": "Feroz Khan",
+          "url": "https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Aap Jaisa Koi - Qurbani / Soundtrack Version",
+      "url": "https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE"
+    },
+    {
+      "album": {
+        "name": "Truthfully Speaking",
+        "url": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
+      },
+      "artists": [
+        {
+          "name": "Truth Hurts",
+          "url": "https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226440,
+      "name": "Addictive",
+      "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
+    },
+    {
+      "album": {
+        "name": "Amplifier",
+        "url": "https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan",
+          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "Amplifier",
+      "url": "https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz"
+    },
+    {
+      "album": {
+        "name": "Dil To Pagal Hai",
+        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
+      },
+      "artists": [
+        {
+          "name": "Uttam Singh",
+          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335386,
+      "name": "Are Re Are",
+      "url": "https://open.spotify.com/track/549FZ0BWEyIGVbo9FUOqPl"
+    },
+    {
+      "album": {
+        "name": "Big Fax - Single",
+        "url": "https://open.spotify.com/album/6EQ7LfsOrORHDDcM3chntZ"
+      },
+      "artists": [
+        {
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181017,
+      "name": "Big Fax",
+      "url": "https://open.spotify.com/track/2S02LvvwUmD4I4AIdpWNFR"
+    },
+    {
+      "album": {
+        "name": "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
+        "url": "https://open.spotify.com/album/3tOA9zT2Kg5lPln6oQcLfZ"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Jasmin Walia",
+          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238530,
+      "name": "Bom Diggy Diggy",
+      "url": "https://open.spotify.com/track/6qCNaRRr5xJALfNJvh0NAw"
+    },
+    {
+      "album": {
+        "name": "Brown Munde",
+        "url": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Gminxr",
+          "url": "https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS"
+        },
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Brown Munde",
+      "url": "https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4"
+    },
+    {
+      "album": {
+        "name": "BTSTU (Edit)",
+        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "BTSTU - Edit",
+      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
+    },
+    {
+      "album": {
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Sapna Awasthi",
+          "url": "https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416613,
+      "name": "Chaiyya Chaiyya",
+      "url": "https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s"
+    },
+    {
+      "album": {
+        "name": "Khal Nayak (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6A1URXGXtRFL0SwbE5uWHe"
+      },
+      "artists": [
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Ila Arun",
+          "url": "https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519360,
+      "name": "Choli Ke Peeche",
+      "url": "https://open.spotify.com/track/6oUqIyDXN04IgkeKHl7yL5"
+    },
+    {
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Chun-Li",
+      "url": "https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J"
+    },
+    {
+      "album": {
+        "name": "Yaadon Ki Baaraat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1fOkDGHASa0JmVw2kibMdV"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287840,
+      "name": "Chura Liya Hai Tumne Jo Dil Ko",
+      "url": "https://open.spotify.com/track/6Cm1O3r133Gmx8j5Z6Xshv"
+    },
+    {
+      "album": {
+        "name": "cold/mess",
+        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281218,
+      "name": "cold/mess",
+      "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
+    },
+    {
+      "album": {
+        "name": "Shut Up, Dude",
+        "url": "https://open.spotify.com/album/0WLZ8fN0sZn9Qoux0MUrND"
+      },
+      "artists": [
+        {
+          "name": "Das Racist",
+          "url": "https://open.spotify.com/artist/4iqAeIP1ynbt71G0Oi8VIt"
+        },
+        {
+          "name": "Heems",
+          "url": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "Combination Pizza Hut and Taco Bell",
+      "url": "https://open.spotify.com/track/3AOKTnqkgcG0WR3i0gwmPj"
+    },
+    {
+      "album": {
+        "name": "The Long Goodbye",
+        "url": "https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5"
+      },
+      "artists": [
+        {
+          "name": "Riz Ahmed",
+          "url": "https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151752,
+      "name": "Deal With It",
+      "url": "https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe"
+    },
+    {
+      "album": {
+        "name": "Rudaali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4K4inDaW2TgqkkOOdXTorN"
+      },
+      "artists": [
+        {
+          "name": "Bhupen Hazarika",
+          "url": "https://open.spotify.com/artist/31fDaUsley7Ms790N4CcSv"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235491,
+      "name": "Dil Hoom Hoom Kare - Male Version",
+      "url": "https://open.spotify.com/track/0hmOMmclTa0NytkPxB2Cbt"
+    },
+    {
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
+    },
+    {
+      "album": {
+        "name": "Hare Rama Hare Krishna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6TRrjbjCjixM6LBR3ygqqi"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Dum Maro Dum, Pt. 1",
+      "url": "https://open.spotify.com/track/2P7oyMgABQnLs7X5OLPe8X"
+    },
+    {
+      "album": {
+        "name": "Enjoy Enjaami",
+        "url": "https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT"
+      },
+      "artists": [
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279500,
+      "name": "Enjoy Enjaami",
+      "url": "https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9"
+    },
+    {
+      "album": {
+        "name": "Feet Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Feet Don't Fail Me Now",
+      "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+    },
+    {
+      "album": {
+        "name": "Dance Connection - The Compilation",
+        "url": "https://open.spotify.com/album/7H8XVQxSBwZnBPZlHwxwiI"
+      },
+      "artists": [
+        {
+          "name": "Bally Sagoo",
+          "url": "https://open.spotify.com/artist/0qmPtVxxIwxoW4QczZGsQZ"
+        },
+        {
+          "name": "Malkit Singh",
+          "url": "https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 703220,
+      "name": "Gur Nalon Ishq Mitha",
+      "url": "https://open.spotify.com/track/5h9f2B6A7V4k50j1UtrSBD"
+    },
+    {
+      "album": {
+        "name": "Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349826,
+      "name": "Ho Gaya Hai Tujhko To Pyar Sajna",
+      "url": "https://open.spotify.com/track/7jV2zwwRKvHoLA8WFr3SCN"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Riz Ahmed",
+          "url": "https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW"
+        },
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281596,
+      "name": "Immigrants (We Get The Job Done)",
+      "url": "https://open.spotify.com/track/0bPREZOF43e3EIu0zdfLBp"
+    },
+    {
+      "album": {
+        "name": "Indian Summer",
+        "url": "https://open.spotify.com/album/4EkC9TEJZou4xtes4e6CwG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248470,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/0t488LlnuTDRjklgkotom9"
+    },
+    {
+      "album": {
+        "name": "Slumdog Millionaire - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/2oJI1pZ52LD11fgIaxEdRx"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Tanvi Shah",
+          "url": "https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319346,
+      "name": "Jai Ho",
+      "url": "https://open.spotify.com/track/4i3MgUew8ynhf49Qwr4IP4"
+    },
+    {
+      "album": {
+        "name": "Jalebi Baby (Tesher x Jason Derulo)",
+        "url": "https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd"
+      },
+      "artists": [
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169154,
+      "name": "Jalebi Baby (Tesher x Jason Derulo)",
+      "url": "https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8"
+    },
+    {
+      "album": {
+        "name": "Woh Kaun Thi? (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/579fdKlYum67csQuigB0Z2"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257613,
+      "name": "Lag Ja Gale Se Phir",
+      "url": "https://open.spotify.com/track/1kKxvLPfgpG5NRJ9MAmYsu"
+    },
+    {
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2CpCvD6ZrMmiydad6IVEPU"
+      },
+      "artists": [
+        {
+          "name": "Labh Janjua",
+          "url": "https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7"
+        },
+        {
+          "name": "Sonu Kakkar",
+          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230468,
+      "name": "London Thumakda",
+      "url": "https://open.spotify.com/track/2qJAzSE6uC94oH2NRoPrGl"
+    },
+    {
+      "album": {
+        "name": "Made in India",
+        "url": "https://open.spotify.com/album/6RU0wl99jN8GaFtD0BXCZ3"
+      },
+      "artists": [
+        {
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266800,
+      "name": "Made in India",
+      "url": "https://open.spotify.com/track/6NVGAoLnJaooF97t8Kgs78"
+    },
+    {
+      "album": {
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462500,
+      "name": "Mohabbat",
+      "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+    },
+    {
+      "album": {
+        "name": "Panjabi MC: The Album",
+        "url": "https://open.spotify.com/album/3oBgmkaKhFwt7ZGihmBJ0C"
+      },
+      "artists": [
+        {
+          "name": "Panjabi MC",
+          "url": "https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Mundian to Bach Ke",
+      "url": "https://open.spotify.com/track/6dK1HEHZcQlh24bSU7pTaZ"
+    },
+    {
+      "album": {
+        "name": "Hum Se Hai Muqabala - Kadalan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IpHQbDLRRqd9sZQncIMD9"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143977,
+      "name": "Muqabala Muqabala",
+      "url": "https://open.spotify.com/track/0iG83qZ0ftWr43VggRYkp3"
+    },
+    {
+      "album": {
+        "name": "Sarpatta Parambarai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42NavG08x69GDTN5nnbovL"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Navz-47",
+          "url": "https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu"
+        },
+        {
+          "name": "Shan Vincent De Paul",
+          "url": "https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237750,
+      "name": "Neeye Oli",
+      "url": "https://open.spotify.com/track/11qgUXxN2YEGNOfDDUOT2K"
+    },
+    {
+      "album": {
+        "name": "Once Kings",
+        "url": "https://open.spotify.com/album/6DUCRqPCjNbtnXzMFJs4Tb"
+      },
+      "artists": [
+        {
+          "name": "Riz Ahmed",
+          "url": "https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220977,
+      "name": "Once Kings",
+      "url": "https://open.spotify.com/track/7xtVisRXsVnGjNkX4PiEcW"
+    },
+    {
+      "album": {
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
+      },
+      "artists": [
+        {
+          "name": "Indravathi Chauhan",
+          "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223325,
+      "name": "Oo Antava Oo Oo Antava",
+      "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
+    },
+    {
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+    },
+    {
+      "album": {
+        "name": "Pasoori",
+        "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
+      },
+      "artists": [
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224146,
+      "name": "Pasoori",
+      "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
+    },
+    {
+      "album": {
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "PILLOWTALK",
+      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
+    },
+    {
+      "album": {
+        "name": "Raavanan",
+        "url": "https://open.spotify.com/album/4Bz5Mfp1ond3RCJGRdgOBz"
+      },
+      "artists": [
+        {
+          "name": "Rolex Rasathy",
+          "url": "https://open.spotify.com/artist/2N7p9fqrrUSQbfAlCqPTPY"
+        },
+        {
+          "name": "Navz-47",
+          "url": "https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Raavanan",
+      "url": "https://open.spotify.com/track/5MXh9jcDFvbIEXscQyjQSX"
+    },
+    {
+      "album": {
+        "name": "Slumdog Millionaire - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/2oJI1pZ52LD11fgIaxEdRx"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Ila Arun",
+          "url": "https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "Ringa Ringa",
+      "url": "https://open.spotify.com/track/7xdgOUJ5vx0PBNW8p0lKTg"
+    },
+    {
+      "album": {
+        "name": "Bombay Dreams (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/4JTEvRSZEzOREv6bcL00ch"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Original London Cast of Bombay Dreams",
+          "url": "https://open.spotify.com/artist/7j90Qg7mEankYbvBBZQc3a"
+        },
+        {
+          "name": "Preeya Kalidas",
+          "url": "https://open.spotify.com/artist/7paXnMpu5BlEa5lAbYr3YF"
+        },
+        {
+          "name": "Raza Jaffrey",
+          "url": "https://open.spotify.com/artist/1XWTKpWDgUWQAb44UfPrsz"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254093,
+      "name": "Shakalaka Baby",
+      "url": "https://open.spotify.com/track/6Kqjgx09EOPAWTIWIySgv6"
+    },
+    {
+      "album": {
+        "name": "Tere Bin Nahin Lagda",
+        "url": "https://open.spotify.com/album/6pRUCs3b0OIK6cN0KlKBu7"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Partners in Rhyme",
+          "url": "https://open.spotify.com/artist/29EuGFxmto4dmwNkrthLK7"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343186,
+      "name": "Tere Bin Nahin Lagda",
+      "url": "https://open.spotify.com/track/5IjtBZpN78t7k9H5LzK89U"
+    },
+    {
+      "album": {
+        "name": "The Long Goodbye",
+        "url": "https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5"
+      },
+      "artists": [
+        {
+          "name": "Riz Ahmed",
+          "url": "https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Toba Tek Singh",
+      "url": "https://open.spotify.com/track/40YF7t5DgNQBXsrul31hdr"
+    },
+    {
+      "album": {
+        "name": "Tu Jhoom",
+        "url": "https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M"
+      },
+      "artists": [
+        {
+          "name": "Naseebo Lal",
+          "url": "https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a"
+        },
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397546,
+      "name": "Tu Jhoom",
+      "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
+    },
+    {
+      "album": {
+        "name": "Hum Se Hai Muqabala - Kadalan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IpHQbDLRRqd9sZQncIMD9"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Noel James",
+          "url": "https://open.spotify.com/artist/2rp7t72puDdjCwrA3WjJOk"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196115,
+      "name": "Urvashi Urvashi",
+      "url": "https://open.spotify.com/track/6jhIHvt64qw5O8ViJSYzug"
+    },
+    {
+      "album": {
+        "name": "Why This Kolaveri Di? (The Soup of Love)",
+        "url": "https://open.spotify.com/album/0s5zDTx3KA8LW5TzOs3CgE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259293,
+      "name": "Why This Kolaveri Di? - The Soup of Love",
+      "url": "https://open.spotify.com/track/2VGs7EmaIxq96Wcog6DQOc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWxJ7o7YYYQA"
 }

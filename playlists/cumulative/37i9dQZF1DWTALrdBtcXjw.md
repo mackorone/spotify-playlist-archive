@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-291 songs - 1 day 2 hr 18 min
+292 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Bye Bye Blackbird](https://open.spotify.com/track/3eCqeHM0bDAu5JRz1Zrlew) | [Enzo Orefice Trio](https://open.spotify.com/artist/10fF7C0hOnj8V3lDxH6PQH) | [Bye Bye Blackbird](https://open.spotify.com/album/5USF8sfRWdOU5tsCBG5cWh) | 7:00 | 2022-09-16 |  |
 | [C U](https://open.spotify.com/track/1OHKLMrJfMRsavzmCf3cOg) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6) | [C U](https://open.spotify.com/album/5ASPt0TPSbEvMg4yqrMK7G) | 5:20 | 2023-06-08 | 2023-09-23 |
 | [Cabin in the Sky](https://open.spotify.com/track/1OCmPNCqZH3PGoO0tbEWZ7) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6) | [The Time is Now](https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd) | 6:45 | 2022-02-18 | 2023-02-15 |
-| [Cambridge Place](https://open.spotify.com/track/6geba7EiMvkWk7h2XWzjb8) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Promise](https://open.spotify.com/album/3fovoZLSTt2B0UuGcmARs6) | 7:03 | 2020-03-31 |  |
+| [Cambridge Place](https://open.spotify.com/track/6geba7EiMvkWk7h2XWzjb8) | [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Promise](https://open.spotify.com/album/3fovoZLSTt2B0UuGcmARs6) | 7:03 | 2020-03-31 | 2024-01-14 |
 | [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 | 2020-04-17 | 2022-07-29 |
 | [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-28 |  |
 | [Cedar Waltzin' \~ Don't You Worry 'bout a Thing](https://open.spotify.com/track/1JJ3Wpkx2igFJEcBMq2gCS) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 8:23 | 2020-03-31 | 2022-04-28 |
@@ -210,6 +210,7 @@
 | [Pure Imagination](https://open.spotify.com/track/2HNYhs4PO9yCuAOS9srcHP) | [Kendra Collins Band](https://open.spotify.com/artist/2VEg5RG7lT8Ej8ZDf63MrO) | [Pure Imagination](https://open.spotify.com/album/5lVkJUkfgzHhpPKYiv3jhK) | 5:15 | 2022-11-12 | 2022-12-24 |
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2022-02-18 | 2022-04-15 |
 | [Radio bo](https://open.spotify.com/track/29z5CZ4isVNvPLL5OaXBKJ) | [Bojan Zulfikarpašić](https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD) | [Koreni](https://open.spotify.com/album/49D48Ki31VdmpjPEN3Qn3B) | 5:44 | 2023-06-21 |  |
+| [Rain Waltz](https://open.spotify.com/track/0sh8KoZ0GVwhdxpMNIsxcP) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1vxRTqxedJxRmg8J11ZCuF) | 7:01 | 2024-01-10 |  |
 | [Rain Waltz](https://open.spotify.com/track/3HMysWiZrkfQhSdX5OqQcq) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:01 | 2022-09-06 | 2023-12-23 |
 | [Rain Waltz](https://open.spotify.com/track/5IVCNqztB1lm7sTqXn3ww7) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:01 | 2020-03-31 | 2022-07-28 |
 | [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-02-02 |  |

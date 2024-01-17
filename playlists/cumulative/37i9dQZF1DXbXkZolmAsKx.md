@@ -4,7 +4,7 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-118 songs - 10 hr 16 min
+119 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Before Meaning Comes](https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:12 | 2022-08-11 |  |
 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 | 2022-08-11 |  |
 | [Blue Diamond](https://open.spotify.com/track/0uiQHwjtQpvEClMkYjEhBi) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Goodbye To Language](https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu) | 3:19 | 2023-06-07 | 2023-12-25 |
+| [Blue Diamond](https://open.spotify.com/track/6DYje8nscLyfBGXDyrF41C) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Goodbye To Language](https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN) | 3:19 | 2023-06-07 |  |
 | [Blue Diamond](https://open.spotify.com/track/61HzV6rpIurltIeJG2ewQg) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690), [Rocco DeLuca](https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh) | [Goodbye To Language](https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a) | 3:21 | 2022-08-11 | 2023-10-02 |
 | [Bridgets' Theme](https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 2:14 | 2022-08-11 |  |
 | [Calamus](https://open.spotify.com/track/204GTh8baiHsw4dM97xkmJ) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 5:10 | 2022-08-11 |  |
@@ -107,7 +108,7 @@
 | [Sunlight of Oneness](https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI) | [Phillip Wilkerson](https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp) | [Sunlight of Oneness and Very Amazing Now](https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v) | 9:16 | 2022-08-17 |  |
 | [Sunrise on the Mississippi](https://open.spotify.com/track/5CUVMOya16zes7XHR8Kja7) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [Fire Light](https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3) | 4:09 | 2022-09-20 |  |
 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 | 2022-08-11 |  |
-| [The Endless Battle of the Maudlin Ballade, Pt\. 2](https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR) | [Adam Wiltzie](https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J) | [Travels in Constants Volume 24](https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA) | 3:24 | 2022-08-11 |  |
+| [The Endless Battle of the Maudlin Ballade, Pt\. 2](https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR) | [Adam Wiltzie](https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J) | [Travels in Constants Volume 24](https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA) | 3:24 | 2022-08-11 | 2024-01-09 |
 | [The Last of Our Time Together](https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [The Last of Our Time Together](https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc) | 16:02 | 2022-08-17 |  |
 | [This Is Not My City](https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB) | [Dirty Beaches](https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8) | [Drifters / Love Is the Devil](https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl) | 3:42 | 2022-08-11 |  |
 | [Time, Being](https://open.spotify.com/track/6CSQGGObzhr6rRmYsatoSq) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 2:42 | 2022-08-11 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-91 songs - 5 hr 20 min
+93 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [I Wanna Feel](https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [I Wanna Feel](https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3) | 3:06 | 2023-02-28 |  |
 | [I Wish I Was a Punk Rocker \(with Flowers in My Hair\)](https://open.spotify.com/track/4mnTMsp8Cgf9TNiQMhH11L) | [Sandi Thom](https://open.spotify.com/artist/3xnfpcM4DC9zeHVuDhYICB) | [Smile...It Confuses People](https://open.spotify.com/album/2vh0Lg3vwmArk6KI0m9eb5) | 2:31 | 2023-02-28 |  |
 | [It Feels So Good \- Radio Edit](https://open.spotify.com/track/5GJOuVtD5nGTjlnqyZ0q3A) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/4ZLg8NqICOWQlPxVptBH4w) | 3:49 | 2023-02-28 |  |
+| [Jubel](https://open.spotify.com/track/6TskfnWx1j3SwB8r14bTty) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [Jubel](https://open.spotify.com/album/1DDTylkpgKVXNBHHJjIU8S) | 2:28 | 2023-02-28 |  |
 | [Jubel](https://open.spotify.com/track/39Mt7O98hpaXsOrBuRDePH) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [Jubel](https://open.spotify.com/album/48TUoolHm1FeQYx5jLAaQo) | 2:28 | 2023-02-28 | 2023-12-18 |
-| [Jubel \- Radio Edit](https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ) | 2:28 | 2023-02-28 |  |
+| [Jubel \- Radio Edit](https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ) | 2:28 | 2023-02-28 | 2024-01-15 |
 | [Jubel \- Radio Edit](https://open.spotify.com/track/7715F9Eg9SlfYb1qdMb9en) | [Shawkie](https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy), [3ario](https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil) | [Jubel \- Radio Edit](https://open.spotify.com/album/5FGTcarbUXSplzZDmsAwkQ) | 2:28 | 2023-02-28 | 2023-11-02 |
 | [Just A Little](https://open.spotify.com/track/1IMbmQCnl3h4m8NXqKee0g) | [Liberty X](https://open.spotify.com/artist/6htUPs3clIStnkvg5jimKZ) | [Thinking It Over](https://open.spotify.com/album/0MtOv630nV65kAilpk9a9F) | 3:56 | 2023-02-28 |  |
 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 | 2023-02-28 |  |
@@ -83,7 +84,8 @@
 | [Smile](https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:16 | 2023-02-28 |  |
 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 | 2023-02-28 |  |
 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu) | 3:38 | 2023-02-28 |  |
-| [Stereo Love \- UK Radio Edit](https://open.spotify.com/track/6TyXieyAu2z51H6VMPKRI4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/1g9MChpxVdgoyA7kMbcnfj) | 2:35 | 2023-02-28 |  |
+| [Stereo Love](https://open.spotify.com/track/2ZNbSbLeXhFEwLvbV6tJjK) | [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [Elianex](https://open.spotify.com/artist/2XIEM9f7J5MN9fTsdNthAM), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj) | [Stereo Love](https://open.spotify.com/album/2EOw23rlpH4xu9LikN3Oaq) | 2:35 | 2023-02-28 |  |
+| [Stereo Love \- UK Radio Edit](https://open.spotify.com/track/6TyXieyAu2z51H6VMPKRI4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/1g9MChpxVdgoyA7kMbcnfj) | 2:35 | 2023-02-28 | 2024-01-11 |
 | [Stronger](https://open.spotify.com/track/1gudTcOiMosmCC6EKEzomI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 5:12 | 2023-02-28 |  |
 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 | 2023-02-28 |  |
 | [Sweet Like Chocolate \(Radio Edit\)](https://open.spotify.com/track/3IFVskDtdJTwAZ0I8HGvoO) | [Shanks & Bigfoot](https://open.spotify.com/artist/2HdJwHponT4dLmV57ry159) | [Sweet Like Chocolate](https://open.spotify.com/album/1PZubkPoodI7JEON9ljzOC) | 3:30 | 2023-02-28 |  |

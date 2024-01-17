@@ -4,7 +4,7 @@
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-118 songs - 6 hr 57 min
+120 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2021-09-24 | 2022-12-01 |
 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4ijX6zDZKYdgACPwva2y0d) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Wolfine](https://open.spotify.com/album/1WR53EURavK2pIVJwS6qbv) | 2:47 | 2022-08-22 |  |
 | [Felina](https://open.spotify.com/track/7q3LolFezXFZttcirStxsD) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Season Finale](https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo) | 3:37 | 2021-09-24 | 2022-02-12 |
-| [Frikitona](https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Frikitona \- Single](https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk) | 3:03 | 2021-09-24 |  |
+| [Freakytona \(feat\. Plan B\)](https://open.spotify.com/track/5Ps2ZqATo5drFSEHtpp8lt) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Boy Wonder Presents Chosen Few Grandes Exitos](https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN) | 3:05 | 2023-04-20 |  |
+| [Frikitona](https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Frikitona \- Single](https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk) | 3:03 | 2021-09-24 | 2024-01-15 |
 | [Gata Fiera](https://open.spotify.com/track/39FpzJz9HbSiTxe97cK4LE) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/2Ad0DfADp2tuavRPiB7h17) | 3:28 | 2021-09-24 | 2023-12-21 |
 | [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/0xejnOURTSwXE4wuYshsxY) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg) | 3:28 | 2023-04-20 |  |
 | [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 3:28 | 2022-02-11 | 2023-11-04 |
@@ -104,7 +105,8 @@
 | [Sexy Movimiento](https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:29 | 2021-09-24 |  |
 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 | 2021-09-24 | 2022-12-01 |
 | [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 | 2022-09-30 |  |
-| [Siente El Boom \(feat\. Randy\)](https://open.spotify.com/track/5v0jVSPTspMrhweCCEfh5b) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Siente El Boom \(feat\. Randy\) \- Single](https://open.spotify.com/album/3o7NZFLc96xYBShbKQ3EgN) | 3:08 | 2021-09-24 |  |
+| [Siente El Boom \(feat\. Randy & Tito El Bambino\)](https://open.spotify.com/track/57zpFPybSWc4aNwDHV0kBo) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Boy Wonder Presents Chosen Few Grandes Exitos](https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN) | 3:12 | 2023-04-20 |  |
+| [Siente El Boom \(feat\. Randy\)](https://open.spotify.com/track/5v0jVSPTspMrhweCCEfh5b) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Siente El Boom \(feat\. Randy\)](https://open.spotify.com/album/3o7NZFLc96xYBShbKQ3EgN) | 3:08 | 2021-09-24 | 2024-01-16 |
 | [Sin Miedo](https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ) | 3:16 | 2023-04-20 | 2023-08-15 |
 | [Sin Miedo](https://open.spotify.com/track/6aibYCJcHtpQgwq35ohOKs) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/3IhY9gtZHtaGPjvWR8PCcp) | 3:17 | 2023-04-20 |  |
 | [Solos](https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 3:08 | 2022-08-22 |  |

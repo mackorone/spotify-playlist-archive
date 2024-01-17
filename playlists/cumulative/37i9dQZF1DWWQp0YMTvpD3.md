@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-342 songs - 17 hr 7 min
+343 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Slip N Slide](https://open.spotify.com/track/3TOtSGvIYxvtMihDlt7BXm) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Luxe](https://open.spotify.com/album/2uSZqQyCiSEUs4IIuPCMn8) | 3:07 | 2022-12-23 |  |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-02-11 |  |
 | [Sneeze](https://open.spotify.com/track/74481nLSrNAlMH2kgh84uj) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Sneeze](https://open.spotify.com/album/6xRxDeAhqPA4rqEFfCqCTP) | 2:42 | 2019-10-04 | 2022-02-12 |
-| [Snow In The Distance](https://open.spotify.com/track/3A4MQf1npDonTCo8L2D4HS) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 2:32 | 2023-03-17 |  |
+| [Snow In The Distance](https://open.spotify.com/track/0bjkjsN2X2IeXFRClxSfvw) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate Deluxe](https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR) | 2:32 | 2023-12-01 |  |
+| [Snow In The Distance](https://open.spotify.com/track/3A4MQf1npDonTCo8L2D4HS) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 2:32 | 2023-03-17 | 2024-01-05 |
 | [Soft Touch](https://open.spotify.com/track/0SqV6u3HBoMfje0k2CkB3d) | [Need For Speed](https://open.spotify.com/artist/1Dtses9ARjOholLUpr0rMN) | [Soft Touch](https://open.spotify.com/album/0gYTUadKK0rPk94tHBmxVq) | 4:05 | 2019-10-04 | 2022-02-12 |
 | [Soft Winds](https://open.spotify.com/track/0BbZDSQN2Qe9lCBCBFP9pk) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Soft Winds](https://open.spotify.com/album/7tluTh6geFfV77h6GBqZLg) | 4:40 | 2022-02-11 | 2022-07-22 |
 | [somewhat breezy](https://open.spotify.com/track/3UbbHzb70XtG3ozVzNXR6v) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [somewhat breezy](https://open.spotify.com/album/4YzDP6DkHpOEmRIRajmHQU) | 2:02 | 2021-10-26 | 2022-02-12 |

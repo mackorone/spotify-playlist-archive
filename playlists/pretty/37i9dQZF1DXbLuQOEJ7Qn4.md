@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > when bass music was life
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,841 likes - 57 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,052 likes - 57 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

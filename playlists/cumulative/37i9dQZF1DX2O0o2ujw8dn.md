@@ -4,13 +4,14 @@
 
 > Listen to the soundtracks of the drama BXXCH x RICH\. \(드라마 청담국제고등학교의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-62 songs - 2 hr 52 min
+63 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2023-06-07 |  |
 | [A Deserted corridor](https://open.spotify.com/track/1AHalu1Jyk1qbXIeYuS5CN) | [Chung Seung Hyun](https://open.spotify.com/artist/0lmEHjUNnlHaeFFeIOorpj), [NA HYUN JU](https://open.spotify.com/artist/0e4pvP9GZ9piejGy8CO1EV) | [Bitch X Rich \(Original Television Soundtrack\)](https://open.spotify.com/album/6BneV6D6HXc5BKY4uIMrTq) | 2:18 | 2023-07-05 |  |
-| [ACT!VE VOLCANO \(Feat\. Tabber\)](https://open.spotify.com/track/3rFsv0HmPQyh6WEbb8T4Ar) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [SYNDROMEZ](https://open.spotify.com/album/5FXgrFAzwOOZpT3KBhgfxy) | 4:06 | 2023-06-07 |  |
+| [ACT!VE VOLCANO \(Feat\. Tabber\)](https://open.spotify.com/track/3rFsv0HmPQyh6WEbb8T4Ar) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [SYNDROMEZ](https://open.spotify.com/album/5FXgrFAzwOOZpT3KBhgfxy) | 4:06 | 2023-06-07 | 2024-01-05 |
+| [ACT!VE VOLCANO \(Feat\. Tabber\)](https://open.spotify.com/track/0uNk3id2mMHLog7B1jP1Xi) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [SYNDROMEZ](https://open.spotify.com/album/7yevXWpk0GN0jy79E5rs36) | 4:06 | 2023-07-11 |  |
 | [Bad](https://open.spotify.com/track/7jZeCxP9zKttUDH364UoyZ) | [Chung Seung Hyun](https://open.spotify.com/artist/0lmEHjUNnlHaeFFeIOorpj), [김유겸](https://open.spotify.com/artist/2GxCqBX8r9clv7TAcv0UWz) | [Bitch X Rich \(Original Television Soundtrack\)](https://open.spotify.com/album/6BneV6D6HXc5BKY4uIMrTq) | 2:21 | 2023-07-05 |  |
 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 | 2023-06-07 |  |
 | [Bad guys](https://open.spotify.com/track/1bW0Zape2TDJVVqoCD6u5j) | [Chung Seung Hyun](https://open.spotify.com/artist/0lmEHjUNnlHaeFFeIOorpj), [NA HYUN JU](https://open.spotify.com/artist/0e4pvP9GZ9piejGy8CO1EV) | [Bitch X Rich \(Original Television Soundtrack\)](https://open.spotify.com/album/6BneV6D6HXc5BKY4uIMrTq) | 2:22 | 2023-07-05 |  |

@@ -1,370 +1,1153 @@
 {
-  "2022-12-29": 593767,
-  "2022-12-30": 594111,
-  "2022-12-31": 594345,
-  "2023-01-01": 594606,
-  "2023-01-02": 594879,
-  "2023-01-03": 595179,
-  "2023-01-04": 595457,
-  "2023-01-05": 595813,
-  "2023-01-06": 596280,
-  "2023-01-07": 596894,
-  "2023-01-08": 597007,
-  "2023-01-09": 597430,
-  "2023-01-10": 597757,
-  "2023-01-11": 598107,
-  "2023-01-12": 598540,
-  "2023-01-13": 598916,
-  "2023-01-14": 599625,
-  "2023-01-15": 599722,
-  "2023-01-16": 600137,
-  "2023-01-17": 600466,
-  "2023-01-18": 600828,
-  "2023-01-19": 601225,
-  "2023-01-20": 601529,
-  "2023-01-21": 601935,
-  "2023-01-22": 602378,
-  "2023-01-23": 602770,
-  "2023-01-24": 603153,
-  "2023-01-25": 603496,
-  "2023-01-26": 603860,
-  "2023-01-27": 604235,
-  "2023-01-28": 604637,
-  "2023-01-29": 604979,
-  "2023-01-30": 605316,
-  "2023-01-31": 605316,
-  "2023-02-01": 606013,
-  "2023-02-02": 606330,
-  "2023-02-03": 606707,
-  "2023-02-04": 607149,
-  "2023-02-05": 607527,
-  "2023-02-06": 607894,
-  "2023-02-07": 608237,
-  "2023-02-08": 608918,
-  "2023-02-09": 608918,
-  "2023-02-10": 609285,
-  "2023-02-11": 609675,
-  "2023-02-12": 610408,
-  "2023-02-13": 610725,
-  "2023-02-14": 610725,
-  "2023-02-15": 611083,
-  "2023-02-16": 611455,
-  "2023-02-17": 611855,
-  "2023-02-18": 612699,
-  "2023-02-19": 612771,
-  "2023-02-20": 613048,
-  "2023-02-21": 613389,
-  "2023-02-22": 613735,
-  "2023-02-23": 614033,
-  "2023-02-24": 614362,
-  "2023-02-25": 614918,
-  "2023-02-26": 615233,
-  "2023-02-27": 616136,
-  "2023-02-28": 616136,
-  "2023-03-01": 616508,
-  "2023-03-02": 616896,
-  "2023-03-03": 617329,
-  "2023-03-04": 617736,
-  "2023-03-05": 618630,
-  "2023-03-06": 618630,
-  "2023-03-07": 618979,
-  "2023-03-08": 619384,
-  "2023-03-09": 619776,
-  "2023-03-10": 620210,
-  "2023-03-11": 620643,
-  "2023-03-12": 621072,
-  "2023-03-13": 621505,
-  "2023-03-14": 621864,
-  "2023-03-15": 622280,
-  "2023-03-16": 622712,
-  "2023-03-17": 622712,
-  "2023-03-18": 623496,
-  "2023-03-19": 623933,
-  "2023-03-20": 624347,
-  "2023-03-21": 624685,
-  "2023-03-22": 625093,
-  "2023-03-23": 625474,
-  "2023-03-24": 625474,
-  "2023-03-25": 626278,
-  "2023-03-26": 626657,
-  "2023-03-27": 627029,
-  "2023-03-28": 627304,
-  "2023-03-29": 627605,
-  "2023-03-30": 628158,
-  "2023-03-31": 628158,
-  "2023-04-01": 628500,
-  "2023-04-02": 628825,
-  "2023-04-03": 629168,
-  "2023-04-04": 629406,
-  "2023-04-05": 629744,
-  "2023-04-06": 630241,
-  "2023-04-07": 630516,
-  "2023-04-09": 631148,
-  "2023-04-10": 631485,
-  "2023-04-11": 632158,
-  "2023-04-12": 632158,
-  "2023-04-13": 632686,
-  "2023-04-14": 632974,
-  "2023-04-15": 633338,
-  "2023-04-16": 633719,
-  "2023-04-17": 634047,
-  "2023-04-18": 634378,
-  "2023-04-19": 634825,
-  "2023-04-20": 635187,
-  "2023-04-21": 635517,
-  "2023-04-22": 635893,
-  "2023-04-23": 636229,
-  "2023-04-24": 636594,
-  "2023-04-25": 636925,
-  "2023-04-26": 637343,
-  "2023-04-27": 637716,
-  "2023-04-28": 638103,
-  "2023-04-29": 638462,
-  "2023-04-30": 638834,
-  "2023-05-01": 639175,
-  "2023-05-02": 639513,
-  "2023-05-03": 639803,
-  "2023-05-04": 640188,
-  "2023-05-05": 640488,
-  "2023-05-06": 640819,
-  "2023-05-07": 641117,
-  "2023-05-08": 641462,
-  "2023-05-09": 641762,
-  "2023-05-10": 642058,
-  "2023-05-11": 642384,
-  "2023-05-12": 642711,
-  "2023-05-13": 642984,
-  "2023-05-14": 643343,
-  "2023-05-15": 643619,
-  "2023-05-16": 643888,
-  "2023-05-17": 644196,
-  "2023-05-18": 644502,
-  "2023-05-19": 644865,
-  "2023-05-20": 645582,
-  "2023-05-21": 645582,
-  "2023-05-22": 645582,
-  "2023-05-23": 646182,
-  "2023-05-24": 646667,
-  "2023-05-25": 646772,
-  "2023-05-26": 647205,
-  "2023-05-27": 647644,
-  "2023-05-28": 648008,
-  "2023-05-29": 648008,
-  "2023-05-30": 648680,
-  "2023-05-31": 649008,
-  "2023-06-01": 649298,
-  "2023-06-02": 649632,
-  "2023-06-03": 649992,
-  "2023-06-04": 650360,
-  "2023-06-05": 650708,
-  "2023-06-06": 650984,
-  "2023-06-07": 651272,
-  "2023-06-08": 651562,
-  "2023-06-09": 651807,
-  "2023-06-10": 652138,
-  "2023-06-11": 652457,
-  "2023-06-12": 652812,
-  "2023-06-13": 653154,
-  "2023-06-14": 653439,
-  "2023-06-15": 653728,
-  "2023-06-16": 654057,
-  "2023-06-17": 654400,
-  "2023-06-18": 654727,
-  "2023-06-19": 655017,
-  "2023-06-20": 655279,
-  "2023-06-21": 655600,
-  "2023-06-22": 655959,
-  "2023-06-23": 656270,
-  "2023-06-24": 656678,
-  "2023-06-25": 657039,
-  "2023-06-26": 657407,
-  "2023-06-27": 657708,
-  "2023-06-28": 658022,
-  "2023-06-29": 658353,
-  "2023-06-30": 658724,
-  "2023-07-01": 659471,
-  "2023-07-02": 659471,
-  "2023-07-03": 659751,
-  "2023-07-04": 660045,
-  "2023-07-05": 660350,
-  "2023-07-06": 661031,
-  "2023-07-07": 661031,
-  "2023-07-08": 661415,
-  "2023-07-09": 661773,
-  "2023-07-10": 662124,
-  "2023-07-11": 662434,
-  "2023-07-12": 662715,
-  "2023-07-13": 663081,
-  "2023-07-14": 663444,
-  "2023-07-15": 663747,
-  "2023-07-16": 664138,
-  "2023-07-17": 664504,
-  "2023-07-18": 664851,
-  "2023-07-19": 665202,
-  "2023-07-20": 665522,
-  "2023-07-21": 665860,
-  "2023-07-22": 666298,
-  "2023-07-23": 666666,
-  "2023-07-24": 667059,
-  "2023-07-25": 667457,
-  "2023-07-26": 667728,
-  "2023-07-27": 668085,
-  "2023-07-28": 668423,
-  "2023-07-29": 668821,
-  "2023-07-30": 669251,
-  "2023-07-31": 669552,
-  "2023-08-01": 669955,
-  "2023-08-02": 670343,
-  "2023-08-03": 670839,
-  "2023-08-04": 671435,
-  "2023-08-05": 671960,
-  "2023-08-06": 672901,
-  "2023-08-07": 672901,
-  "2023-08-08": 673322,
-  "2023-08-09": 673757,
-  "2023-08-10": 674055,
-  "2023-08-11": 674315,
-  "2023-08-12": 674640,
-  "2023-08-13": 674948,
-  "2023-08-14": 675180,
-  "2023-08-15": 675767,
-  "2023-08-16": 675767,
-  "2023-08-17": 676138,
-  "2023-08-18": 676508,
-  "2023-08-19": 676861,
-  "2023-08-20": 677236,
-  "2023-08-21": 677527,
-  "2023-08-22": 677766,
-  "2023-08-23": 678136,
-  "2023-08-24": 678453,
-  "2023-08-25": 678791,
-  "2023-08-26": 679191,
-  "2023-08-27": 679481,
-  "2023-08-28": 680037,
-  "2023-08-29": 680442,
-  "2023-08-30": 680765,
-  "2023-08-31": 681088,
-  "2023-09-01": 681751,
-  "2023-09-02": 681751,
-  "2023-09-03": 682102,
-  "2023-09-04": 682419,
-  "2023-09-05": 682732,
-  "2023-09-06": 683045,
-  "2023-09-07": 683368,
-  "2023-09-08": 683692,
-  "2023-09-09": 684074,
-  "2023-09-10": 684422,
-  "2023-09-11": 684747,
-  "2023-09-12": 685049,
-  "2023-09-13": 685360,
-  "2023-09-14": 685658,
-  "2023-09-15": 686007,
-  "2023-09-16": 686330,
-  "2023-09-17": 686668,
-  "2023-09-18": 687002,
-  "2023-09-19": 687303,
-  "2023-09-20": 687569,
-  "2023-09-21": 687880,
-  "2023-09-22": 688146,
-  "2023-09-23": 688450,
-  "2023-09-24": 688739,
-  "2023-09-25": 689073,
-  "2023-09-26": 689373,
-  "2023-09-27": 689558,
-  "2023-09-28": 689800,
-  "2023-09-29": 690041,
-  "2023-09-30": 690318,
-  "2023-10-01": 690604,
-  "2023-10-02": 690881,
-  "2023-10-03": 691097,
-  "2023-10-04": 691375,
-  "2023-10-05": 691651,
-  "2023-10-06": 691921,
-  "2023-10-07": 692173,
-  "2023-10-08": 692369,
-  "2023-10-09": 692621,
-  "2023-10-10": 692653,
-  "2023-10-11": 692965,
-  "2023-10-12": 692965,
-  "2023-10-13": 693061,
-  "2023-10-14": 693061,
-  "2023-10-15": 693061,
-  "2023-10-16": 693578,
-  "2023-10-17": 693578,
-  "2023-10-18": 694008,
-  "2023-10-19": 694250,
-  "2023-10-20": 694250,
-  "2023-10-21": 694719,
-  "2023-10-22": 694719,
-  "2023-10-23": 695145,
-  "2023-10-24": 695330,
-  "2023-10-25": 695330,
-  "2023-10-26": 695764,
-  "2023-10-27": 696000,
-  "2023-10-28": 696000,
-  "2023-10-29": 696000,
-  "2023-10-30": 696675,
-  "2023-10-31": 696675,
-  "2023-11-01": 697072,
-  "2023-11-02": 697249,
-  "2023-11-03": 697468,
-  "2023-11-04": 697468,
-  "2023-11-05": 697468,
-  "2023-11-06": 698156,
-  "2023-11-07": 698156,
-  "2023-11-08": 698156,
-  "2023-11-09": 698156,
-  "2023-11-10": 699018,
-  "2023-11-11": 699237,
-  "2023-11-12": 699424,
-  "2023-11-13": 699424,
-  "2023-11-14": 699424,
-  "2023-11-15": 699424,
-  "2023-11-16": 699424,
-  "2023-11-17": 700602,
-  "2023-11-18": 700602,
-  "2023-11-19": 700602,
-  "2023-11-20": 700602,
-  "2023-11-21": 701126,
-  "2023-11-22": 701310,
-  "2023-11-23": 701516,
-  "2023-11-24": 701516,
-  "2023-11-25": 701828,
-  "2023-11-26": 701828,
-  "2023-11-27": 701828,
-  "2023-11-28": 701828,
-  "2023-11-29": 702614,
-  "2023-11-30": 702614,
-  "2023-12-01": 702614,
-  "2023-12-02": 702892,
-  "2023-12-03": 702892,
-  "2023-12-04": 702892,
-  "2023-12-05": 702892,
-  "2023-12-06": 703523,
-  "2023-12-07": 703523,
-  "2023-12-08": 703523,
-  "2023-12-09": 704042,
-  "2023-12-10": 704042,
-  "2023-12-11": 704416,
-  "2023-12-12": 704416,
-  "2023-12-13": 704704,
-  "2023-12-14": 704877,
-  "2023-12-15": 704957,
-  "2023-12-16": 705097,
-  "2023-12-17": 705196,
-  "2023-12-18": 705310,
-  "2023-12-19": 705401,
-  "2023-12-20": 705505,
-  "2023-12-21": 705643,
-  "2023-12-22": 705760,
-  "2023-12-23": 705897,
-  "2023-12-24": 706041,
-  "2023-12-25": 706143,
-  "2023-12-26": 706264,
-  "2023-12-27": 706353,
-  "2023-12-30": 706759,
-  "2023-12-31": 706880,
-  "2024-01-01": 706986,
-  "2024-01-02": 707084,
-  "2024-01-03": 707186
+  "2024-01-17": 708333,
+  "date_first_scraped": "2022-12-29",
+  "description": "Songs from some of the greatest films in the history of cinema.",
+  "name": "Hits From The Movies",
+  "tracks": [
+    {
+      "album": {
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+      },
+      "artists": [
+        {
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
+      "duration_ms": 290333,
+      "name": "(I've Had) The Time Of My Life - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F"
+    },
+    {
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "album": {
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "album": {
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
+    },
+    {
+      "album": {
+        "name": "Be My Baby: The Very Best of The Ronettes",
+        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
+    },
+    {
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+    },
+    {
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 216346,
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/3hMHG6lx9QHVcfYSUr5PoM"
+    },
+    {
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
+    },
+    {
+      "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221120,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
+    },
+    {
+      "album": {
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
+    },
+    {
+      "album": {
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "name": "L.V.",
+          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
+    },
+    {
+      "album": {
+        "name": "Wilson Phillips",
+        "url": "https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2"
+      },
+      "artists": [
+        {
+          "name": "Wilson Phillips",
+          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
+      "duration_ms": 266866,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"
+    },
+    {
+      "album": {
+        "name": "Secret Dreams and Forbidden Fire",
+        "url": "https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348333,
+      "name": "Holding Out for a Hero - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9"
+    },
+    {
+      "album": {
+        "name": "Hooked On A Feeling",
+        "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
+      },
+      "artists": [
+        {
+          "name": "Blue Swede",
+          "url": "https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp"
+        },
+        {
+          "name": "Bj\u00f6rn Skifs",
+          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
+    },
+    {
+      "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+    },
+    {
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "album": {
+        "name": "Face Value (Deluxe Editon)",
+        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336453,
+      "name": "In The Air Tonight - 2015 Remastered",
+      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits Volume One - The Singles",
+        "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289906,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
+    },
+    {
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+    },
+    {
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "album": {
+        "name": "Lady Marmalade",
+        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267960,
+      "name": "Lady Marmalade - Single Edit",
+      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "album": {
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326466,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
+    },
+    {
+      "album": {
+        "name": "Picture This (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
+      },
+      "artists": [
+        {
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
+      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
+    },
+    {
+      "album": {
+        "name": "First Band On The Moon (Remastered)",
+        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193953,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "album": {
+        "name": "Trading Snakeoil for Wolftickets",
+        "url": "https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z"
+      },
+      "artists": [
+        {
+          "name": "Gary Jules",
+          "url": "https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa"
+        },
+        {
+          "name": "Michael Andrews",
+          "url": "https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189506,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP"
+    },
+    {
+      "album": {
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
+    },
+    {
+      "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303373,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+    },
+    {
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "album": {
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "album": {
+        "name": "No Protection",
+        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270333,
+      "name": "Nothing's Gonna Stop Us Now",
+      "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520786,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+    },
+    {
+      "album": {
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217212,
+      "name": "Shallow - Radio Edit",
+      "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
+    },
+    {
+      "album": {
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+      },
+      "artists": [
+        {
+          "name": "Patrick Swayze",
+          "url": "https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD"
+        },
+        {
+          "name": "Wendy Fraser",
+          "url": "https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "She's Like the Wind (feat. Wendy Fraser) - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5"
+    },
+    {
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180055,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 285373,
+      "name": "Stayin Alive",
+      "url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
+    },
+    {
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285373,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Streets of Philadelphia - Single Edit",
+      "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
+    },
+    {
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+    },
+    {
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216906,
+      "name": "Summer Nights - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
+    },
+    {
+      "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+      "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234706,
+      "name": "This Is Me",
+      "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
+    },
+    {
+      "album": {
+        "name": "Just Once In My Life",
+        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218013,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+    },
+    {
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
+      "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
+    },
+    {
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+    },
+    {
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 272893,
+      "name": "When You Believe - from The Prince of Egypt",
+      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
+    },
+    {
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
+        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169266,
+      "name": "You're The One That I Want - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/0EvykocuR3aWthETr0OfFr"
+    },
+    {
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 169840,
+      "name": "You're The One That I Want - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
+    },
+    {
+      "album": {
+        "name": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
+        "url": "https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 170485,
+      "name": "You're The One That I Want - Remastered 2022",
+      "url": "https://open.spotify.com/track/4sX1ehtL58WodjOP9bKZ18"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXb69UWhjrXsW"
 }

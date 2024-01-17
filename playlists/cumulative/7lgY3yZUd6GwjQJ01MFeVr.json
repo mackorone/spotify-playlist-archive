@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "All your favourite Country songs in one place! Featuring: <a href=\"https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=kKJMQnyCQCy3pCG6FSOKlw\"> Zach Bryan</a>, Bailey Zimmerman, The Castellows, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more",
+  "description": "All your favourite Country songs in one place! Featuring: <a href=\"https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG?si=wKmxFkhFSnukEMGmNd8pSg\"> The Castellows</a>, Zach Bryan, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more",
   "name": "Complete Country",
   "tracks": [
     {
@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+    },
+    {
+      "album": {
         "name": "Cowboy Don\u2019t",
         "url": "https://open.spotify.com/album/3mZSYPQPoNheFwNc5ize7q"
       },
@@ -284,7 +302,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 213533,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/1TL5cJiLOfownWuk1zAaCZ"
@@ -338,7 +356,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 195826,
       "name": "Growin\u2019 Up Raising You",
       "url": "https://open.spotify.com/track/3iuh5xyutKj3TkMjACNLMo"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 196346,
       "name": "Hang of Hangin\u2019 On",
       "url": "https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT"
@@ -436,6 +454,24 @@
       "duration_ms": 163600,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
+    },
+    {
+      "album": {
+        "name": "I Know It\u2019ll Never End",
+        "url": "https://open.spotify.com/album/6FZBJXoiTOMGScOWc0uepS"
+      },
+      "artists": [
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155307,
+      "name": "I Know It\u2019ll Never End",
+      "url": "https://open.spotify.com/track/7mJF8GrNWZl5TRrGzqf6je"
     },
     {
       "album": {
@@ -647,7 +683,7 @@
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 150820,
+      "duration_ms": 151020,
       "name": "Miss Summer",
       "url": "https://open.spotify.com/track/402L1iawY3D4ZQjPiHT38e"
     },
@@ -1228,6 +1264,24 @@
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "album": {
+        "name": "You're My Texas",
+        "url": "https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202053,
+      "name": "You\u2019re My Texas",
+      "url": "https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm"
     }
   ],
   "url": "https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr"

@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Dont Blame Me",
+        "url": "https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS"
+      },
+      "artists": [
+        {
+          "name": "Interactive Noise",
+          "url": "https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 310375,
+      "name": "Dont Blame Me",
+      "url": "https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH"
+    },
+    {
+      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/2vO8jppjM5Ld8NbLPefGBc"
       },
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 236978,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
@@ -4182,7 +4200,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": "2024-01-16",
       "duration_ms": 284571,
       "name": "Road to You",
       "url": "https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K"
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 491666,
       "name": "Sapana - Avalon Remix",
       "url": "https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13"

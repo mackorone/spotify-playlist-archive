@@ -4,7 +4,7 @@
 
 > A playlist of all our songs released so far\. Our new album Faith Crisis Pt 1 is out February 16! <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
 
-46 songs - 2 hr 33 min
+47 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Stacking Chairs](https://open.spotify.com/track/7355r4wB8D6crALDxPZ8KR) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/70VPEuD4jUU7uPjBmP0D2o) | 3:08 | 2021-03-06 | 2021-03-19 |
 | [Summer Hill](https://open.spotify.com/track/3GXqr0aNLrAL2XAJKsbZqO) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 4:21 | 2021-03-19 |  |
 | [Tell Me Something](https://open.spotify.com/track/6Ti2rY45EGVPrFo6ufjvAB) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:16 | 2020-10-14 |  |
+| [Terrible News](https://open.spotify.com/track/2uyO1FusmMcWZjb7vW1MUb) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Terrible News](https://open.spotify.com/album/70zACGm4dI32ax2vGKB37m) | 2:52 | 2024-01-10 |  |
 | [Today We're The Greatest](https://open.spotify.com/track/022sOb3Gr0yg4YRyZ5xFVd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/3yxsWKZW1R1emQFfwvN2lL) | 3:47 | 2021-03-17 | 2023-09-26 |
 | [Today We're The Greatest](https://open.spotify.com/track/0zqJqiq9CIP7W77NrV1NpM) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:47 | 2021-03-19 |  |
 | [Your Love](https://open.spotify.com/track/7lBYQn8KX8zxlW9oJkYOCL) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:16 | 2020-10-14 |  |

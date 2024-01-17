@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 193962,
       "name": "A Night Off (feat. Lloyd)",
       "url": "https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 202453,
       "name": "BPW",
       "url": "https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": "2024-01-16",
       "duration_ms": 262711,
       "name": "GLU",
       "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Pull Over",
+        "url": "https://open.spotify.com/album/0t7F6632fADm90Kbd1V25j"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221448,
+      "name": "Pull Over",
+      "url": "https://open.spotify.com/track/2Z8Bs1coB5jruX75pmBG7F"
+    },
+    {
+      "album": {
         "name": "TWENTY88",
         "url": "https://open.spotify.com/album/4gqnsOwnA490OYq58VfJV3"
       },
@@ -2772,6 +2790,28 @@
       "duration_ms": 180303,
       "name": "Rehab (Winter In Paris)",
       "url": "https://open.spotify.com/track/0zWbYGQq5O1KQd0iqzgjP6"
+    },
+    {
+      "album": {
+        "name": "Ride It",
+        "url": "https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        },
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138393,
+      "name": "Ride It",
+      "url": "https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70"
     },
     {
       "album": {
@@ -3384,6 +3424,28 @@
       "duration_ms": 243306,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/0jq34bzlBreNWsnp8rvlvK"
+    },
+    {
+      "album": {
+        "name": "Full Circle: Sonic Book Two",
+        "url": "https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229838,
+      "name": "Taking Off",
+      "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
     },
     {
       "album": {
@@ -4010,7 +4072,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 232778,
       "name": "Zodiac Freak",
       "url": "https://open.spotify.com/track/5XbkYMeg7g7Tt7XMcBHGiJ"

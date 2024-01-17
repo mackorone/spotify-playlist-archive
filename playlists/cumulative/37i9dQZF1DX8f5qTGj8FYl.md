@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-259 songs - 17 hr 51 min
+260 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Cornish Hen](https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Cornish Hen](https://open.spotify.com/album/48okKBxYGZwTJar4SWrZZc) | 5:05 | 2021-11-19 | 2023-05-05 |
 | [Couple A Brownies](https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO) | [Soul Jazz Express](https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh) | [Soul Jazz Express](https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk) | 5:17 | 2020-11-13 |  |
 | [Curse of the Haggis](https://open.spotify.com/track/4OYjYFuyf71Sy7XCI0feR2) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 5:56 | 2020-11-13 |  |
-| [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 | 2020-11-13 |  |
+| [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 | 2020-11-13 | 2024-01-07 |
+| [Dallas](https://open.spotify.com/track/6MqBw0PbsgNiGf1amzt3dZ) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/4ZBpVOHgTELhVKj3kHN5Mo) | 3:34 | 2023-08-04 |  |
 | [Did It Again](https://open.spotify.com/track/0YmQkGWoYcqCrX4ODkG3RB) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Did It Again](https://open.spotify.com/album/5mUX4i1livQVwMsiY3wnNh) | 4:07 | 2021-03-05 | 2023-11-04 |
 | [Did It Again](https://open.spotify.com/track/5BKtywlUwpUUb9wAAqH7AN) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/0P3xpotuVfJghJHe4yLKqD) | 4:07 | 2023-08-04 |  |
 | [Do You Believe](https://open.spotify.com/track/7cmjo93UEPAgg8S69zX6Ca) | [Dr\. Delight](https://open.spotify.com/artist/5JSEvaXZzKFArz329teDzI) | [Got Me Like](https://open.spotify.com/album/4lC9Y6v4RbPxZxNLMh7RLY) | 3:45 | 2022-02-18 | 2022-04-21 |

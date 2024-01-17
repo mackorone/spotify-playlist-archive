@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-264 songs - 15 hr 48 min
+265 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Nu Beginning](https://open.spotify.com/track/35btHqeeA6qR7ToMRNKI3D) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Amber Navran](https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt) | [Nu Beginning](https://open.spotify.com/album/0cDn0DpGWprEjyZtH455xm) | 3:54 | 2023-08-04 |  |
 | [Obsession \(feat\. Muni Long\) \- Remix](https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Obsession \(feat\. Muni Long\) \[Remix\]](https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1) | 3:21 | 2022-11-18 |  |
 | [OFF](https://open.spotify.com/track/4NV1Hoah3ggnoOP7PlrWjh) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [OFF](https://open.spotify.com/album/40V87fTgyJKlza2IUyRA3f) | 4:38 | 2022-02-25 | 2022-03-18 |
-| [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2022-02-25 |  |
+| [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2022-02-25 | 2024-01-13 |
 | [Open](https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 2:54 | 2022-05-13 | 2023-10-08 |
 | [Organic](https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Organic](https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY) | 3:17 | 2022-02-25 | 2023-03-11 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 |  |
@@ -271,6 +271,7 @@
 | [Yamz](https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Yamz](https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ) | 4:05 | 2022-02-25 | 2022-03-26 |
 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 | 2022-02-25 | 2023-04-30 |
 | [You Got One](https://open.spotify.com/track/7DhOcyCu9WjUxY5kYNskVa) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Starfruit](https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz) | 3:25 | 2023-04-28 |  |
+| [Young Rich & In Love](https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:18 | 2024-01-12 |  |
 | [Your Turn \(feat\. Musiq Soulchild, Tish Hyman & 6LACK\)](https://open.spotify.com/track/29zlMCUoFqwWMMTFwY7rTI) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 5:19 | 2022-02-25 | 2022-05-14 |
 
 \*This playlist was first scraped on 2022-03-02. Prior content cannot be recovered.

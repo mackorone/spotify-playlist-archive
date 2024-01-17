@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,194 likes - 53 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,873 likes - 53 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 | 7 | [Ahir Bhairav \- Madhlayay Rupak Taal \- Instrumental](https://open.spotify.com/track/6TvRXexUmHDvmYTfnjSO1I) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Indradhanush / Rainbow \- Short Composition of Raga](https://open.spotify.com/album/3hbri34A4m5kDvN01iZBHX) | 10:36 |
 | 8 | [Raag Shobhavari](https://open.spotify.com/track/47INRaiHBWZBSevNaVS9a0) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3b0HAeRSfhgtVaa3KO7KB5) | 8:36 |
 | 9 | [Raga Ahiri Todi \(gat in Vilambit Ektaal\)](https://open.spotify.com/track/3XGCHE9x5Fh7TFwK9VfokU) | [Benjamin Shrivastav Shanson](https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl), [Partho Mukherjee](https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [The Art of the Indian Dilruba](https://open.spotify.com/album/3eG6qaUjKMWZ2bz8tG0GwR) | 15:32 |
-| 10 | [Raga \- Brindavani](https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo) | [B\. Sivaramakrishna Rao](https://open.spotify.com/artist/4l1a546qA59Fq7Qse3wzgW) | [Healing Ragas](https://open.spotify.com/album/68Ly5LFDwAmtMdEDmG1LUr) | 9:13 |
+| 10 | [Raga \- Brindavani](https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo) | [B\. Sivaramakrishna Rao](https://open.spotify.com/artist/6CgbREbxupEkAr0CqTHajh) | [Healing Ragas](https://open.spotify.com/album/68Ly5LFDwAmtMdEDmG1LUr) | 9:13 |
 | 11 | [Raga Patdeep \- Alap](https://open.spotify.com/track/2LOwDjRTCEV72ijYjHSZlu) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Aradhana](https://open.spotify.com/album/2tGZD01y5HosmqD4Lssg9k) | 7:15 |
 | 12 | [Raga Pilu \- Drut Gat \- Taal Dadra \- Instrumental](https://open.spotify.com/track/53mq11548RlkKVX5pAE7t1) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr), [Sabri Khan](https://open.spotify.com/artist/4jJPc9HPkYDNJxvloWDTqx) | [Celebrating the Legend \- Amjad Ali Khan](https://open.spotify.com/album/7x2PlNq4pjCvCtD3Q78yIL) | 12:47 |
 | 13 | [Raga Dhani](https://open.spotify.com/track/59gea5yN0eH2Xj73JWcsp7) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [The Art of the Indian Dilruba](https://open.spotify.com/album/3eG6qaUjKMWZ2bz8tG0GwR) | 9:55 |

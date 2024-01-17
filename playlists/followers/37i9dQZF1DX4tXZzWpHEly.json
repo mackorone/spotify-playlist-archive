@@ -1,200 +1,959 @@
 {
-  "2023-06-18": 47812,
-  "2023-06-19": 47836,
-  "2023-06-20": 47861,
-  "2023-06-21": 47888,
-  "2023-06-22": 47908,
-  "2023-06-23": 47936,
-  "2023-06-24": 47972,
-  "2023-06-25": 48000,
-  "2023-06-26": 48030,
-  "2023-06-27": 48053,
-  "2023-06-28": 48081,
-  "2023-06-29": 48105,
-  "2023-06-30": 48129,
-  "2023-07-01": 48177,
-  "2023-07-02": 48177,
-  "2023-07-03": 48199,
-  "2023-07-04": 48226,
-  "2023-07-05": 48252,
-  "2023-07-06": 48307,
-  "2023-07-07": 48307,
-  "2023-07-08": 48334,
-  "2023-07-09": 48369,
-  "2023-07-10": 48407,
-  "2023-07-11": 48431,
-  "2023-07-12": 48458,
-  "2023-07-13": 48467,
-  "2023-07-14": 48495,
-  "2023-07-15": 48513,
-  "2023-07-16": 48549,
-  "2023-07-17": 48580,
-  "2023-07-18": 48599,
-  "2023-07-19": 48628,
-  "2023-07-20": 48656,
-  "2023-07-21": 48673,
-  "2023-07-22": 48704,
-  "2023-07-23": 48733,
-  "2023-07-24": 48745,
-  "2023-07-25": 48774,
-  "2023-07-26": 48796,
-  "2023-07-27": 48822,
-  "2023-07-28": 48850,
-  "2023-07-29": 48880,
-  "2023-07-30": 48928,
-  "2023-07-31": 48951,
-  "2023-08-01": 48977,
-  "2023-08-02": 49001,
-  "2023-08-03": 49039,
-  "2023-08-04": 49057,
-  "2023-08-05": 49089,
-  "2023-08-06": 49157,
-  "2023-08-07": 49157,
-  "2023-08-08": 49185,
-  "2023-08-09": 49210,
-  "2023-08-10": 49231,
-  "2023-08-11": 49262,
-  "2023-08-12": 49308,
-  "2023-08-13": 49346,
-  "2023-08-14": 49375,
-  "2023-08-15": 49427,
-  "2023-08-16": 49427,
-  "2023-08-17": 49456,
-  "2023-08-18": 49476,
-  "2023-08-19": 49501,
-  "2023-08-20": 49528,
-  "2023-08-21": 49563,
-  "2023-08-22": 49601,
-  "2023-08-23": 49616,
-  "2023-08-24": 49643,
-  "2023-08-25": 49660,
-  "2023-08-26": 49693,
-  "2023-08-27": 49719,
-  "2023-08-28": 49748,
-  "2023-08-29": 49779,
-  "2023-08-30": 49822,
-  "2023-08-31": 49843,
-  "2023-09-01": 49909,
-  "2023-09-02": 49909,
-  "2023-09-03": 49944,
-  "2023-09-04": 49972,
-  "2023-09-05": 50001,
-  "2023-09-06": 50021,
-  "2023-09-07": 50056,
-  "2023-09-08": 50087,
-  "2023-09-09": 50124,
-  "2023-09-10": 50153,
-  "2023-09-11": 50198,
-  "2023-09-12": 50237,
-  "2023-09-13": 50272,
-  "2023-09-14": 50303,
-  "2023-09-15": 50331,
-  "2023-09-16": 50366,
-  "2023-09-17": 50409,
-  "2023-09-18": 50446,
-  "2023-09-19": 50475,
-  "2023-09-20": 50493,
-  "2023-09-21": 50517,
-  "2023-09-22": 50549,
-  "2023-09-23": 50580,
-  "2023-09-24": 50618,
-  "2023-09-25": 50650,
-  "2023-09-26": 50691,
-  "2023-09-27": 50707,
-  "2023-09-28": 50735,
-  "2023-09-29": 50756,
-  "2023-09-30": 50795,
-  "2023-10-01": 50826,
-  "2023-10-02": 50860,
-  "2023-10-03": 50881,
-  "2023-10-04": 50900,
-  "2023-10-05": 50913,
-  "2023-10-06": 50943,
-  "2023-10-07": 50981,
-  "2023-10-08": 51009,
-  "2023-10-09": 51033,
-  "2023-10-10": 51054,
-  "2023-10-11": 51094,
-  "2023-10-12": 51094,
-  "2023-10-13": 51115,
-  "2023-10-14": 51158,
-  "2023-10-15": 51190,
-  "2023-10-16": 51216,
-  "2023-10-17": 51234,
-  "2023-10-18": 51241,
-  "2023-10-19": 51267,
-  "2023-10-20": 51295,
-  "2023-10-21": 51324,
-  "2023-10-22": 51340,
-  "2023-10-23": 51378,
-  "2023-10-24": 51400,
-  "2023-10-25": 51416,
-  "2023-10-26": 51449,
-  "2023-10-27": 51474,
-  "2023-10-28": 51505,
-  "2023-10-29": 51532,
-  "2023-10-30": 51565,
-  "2023-10-31": 51565,
-  "2023-11-01": 51574,
-  "2023-11-02": 51596,
-  "2023-11-03": 51617,
-  "2023-11-04": 51641,
-  "2023-11-05": 51679,
-  "2023-11-06": 51692,
-  "2023-11-07": 51717,
-  "2023-11-08": 51730,
-  "2023-11-09": 51745,
-  "2023-11-10": 51768,
-  "2023-11-11": 51795,
-  "2023-11-12": 51815,
-  "2023-11-13": 51839,
-  "2023-11-14": 51861,
-  "2023-11-15": 51861,
-  "2023-11-16": 51902,
-  "2023-11-17": 51953,
-  "2023-11-18": 51953,
-  "2023-11-19": 51979,
-  "2023-11-20": 51997,
-  "2023-11-21": 52015,
-  "2023-11-22": 52043,
-  "2023-11-23": 52060,
-  "2023-11-24": 52072,
-  "2023-11-25": 52100,
-  "2023-11-26": 52135,
-  "2023-11-27": 52155,
-  "2023-11-28": 52179,
-  "2023-11-29": 52229,
-  "2023-11-30": 52229,
-  "2023-12-01": 52245,
-  "2023-12-02": 52260,
-  "2023-12-03": 52277,
-  "2023-12-04": 52299,
-  "2023-12-05": 52311,
-  "2023-12-06": 52335,
-  "2023-12-07": 52344,
-  "2023-12-08": 52359,
-  "2023-12-09": 52373,
-  "2023-12-10": 52388,
-  "2023-12-11": 52408,
-  "2023-12-12": 52414,
-  "2023-12-13": 52421,
-  "2023-12-14": 52432,
-  "2023-12-15": 52443,
-  "2023-12-16": 52470,
-  "2023-12-17": 52493,
-  "2023-12-18": 52503,
-  "2023-12-19": 52516,
-  "2023-12-20": 52524,
-  "2023-12-21": 52535,
-  "2023-12-22": 52540,
-  "2023-12-23": 52557,
-  "2023-12-24": 52591,
-  "2023-12-25": 52613,
-  "2023-12-26": 52627,
-  "2023-12-27": 52640,
-  "2023-12-30": 52683,
-  "2023-12-31": 52703,
-  "2024-01-01": 52731,
-  "2024-01-02": 52752,
-  "2024-01-03": 52768
+  "2024-01-17": 53000,
+  "date_first_scraped": "2023-06-18",
+  "description": "Country songs that soundtrack the great Australian outback",
+  "name": "Outback Tracks",
+  "tracks": [
+    {
+      "album": {
+        "name": "Against the Grain",
+        "url": "https://open.spotify.com/album/4jSskwRuBUEcGxYosdmds5"
+      },
+      "artists": [
+        {
+          "name": "Troy Kemp",
+          "url": "https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223647,
+      "name": "A Little More Country",
+      "url": "https://open.spotify.com/track/492kDhn2lpOQw5zWJ3aWuX"
+    },
+    {
+      "album": {
+        "name": "A Town Like This",
+        "url": "https://open.spotify.com/album/76zfVWlVWiWwgbLItoAHfz"
+      },
+      "artists": [
+        {
+          "name": "Cornell And Carr",
+          "url": "https://open.spotify.com/artist/1koPqZFMCgdMCj4zxQcIh8"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "A Town Like This",
+      "url": "https://open.spotify.com/track/0Styg7oirAtwLZMLCeq8os"
+    },
+    {
+      "album": {
+        "name": "Walks Of Life",
+        "url": "https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA"
+      },
+      "artists": [
+        {
+          "name": "Gina Jeffreys",
+          "url": "https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "A Woman Knows",
+      "url": "https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7"
+    },
+    {
+      "album": {
+        "name": "Aussie As",
+        "url": "https://open.spotify.com/album/1gmAfBfKaHUDtOaa7PBiPY"
+      },
+      "artists": [
+        {
+          "name": "Matt Scullion",
+          "url": "https://open.spotify.com/artist/2VcnJAwkrzgnZ1iEJ1b0ml"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "Aussie As",
+      "url": "https://open.spotify.com/track/47DzE0bNSqWj4z3mrPU3gj"
+    },
+    {
+      "album": {
+        "name": "The Outback Club",
+        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168226,
+      "name": "Boys from the Bush - Remastered 2017",
+      "url": "https://open.spotify.com/track/5tUpijqpFAlj13CGpuWn5s"
+    },
+    {
+      "album": {
+        "name": "Bury Me In Blue Jeans",
+        "url": "https://open.spotify.com/album/39vorNleYwSGm4eCWoq4kB"
+      },
+      "artists": [
+        {
+          "name": "Tailgate Drive",
+          "url": "https://open.spotify.com/artist/5Saz490V1lZlwrQ6kTPFI8"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243753,
+      "name": "Bury Me In Blue Jeans",
+      "url": "https://open.spotify.com/track/3E3ZNCCIZt5TOgjS0IYyQY"
+    },
+    {
+      "album": {
+        "name": "Frozen Rabbit",
+        "url": "https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177202,
+      "name": "Chain of Joy",
+      "url": "https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo"
+    },
+    {
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195426,
+      "name": "Chandelier of Stars",
+      "url": "https://open.spotify.com/track/0K8bNqCPf3DzxWOpS9U1Wc"
+    },
+    {
+      "album": {
+        "name": "I Love This Place",
+        "url": "https://open.spotify.com/album/4hVbCt4mcSoVHL77s68pC1"
+      },
+      "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "Chasin' Rodeo",
+      "url": "https://open.spotify.com/track/7fyKM08UEosHuJCktaBSvt"
+    },
+    {
+      "album": {
+        "name": "Country Proud",
+        "url": "https://open.spotify.com/album/34ChISQn8MdgUaizdyCdgi"
+      },
+      "artists": [
+        {
+          "name": "McAlister Kemp",
+          "url": "https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Country Proud",
+      "url": "https://open.spotify.com/track/1bWOv0G7rVKBIaJpOounzV"
+    },
+    {
+      "album": {
+        "name": "Long Five Days",
+        "url": "https://open.spotify.com/album/3Xn6NYkxkjdXhgHW0WoXH0"
+      },
+      "artists": [
+        {
+          "name": "The Sunny Cowgirls",
+          "url": "https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "Cuttin' Up B&S Style",
+      "url": "https://open.spotify.com/track/2BvMgmJfX93gDxhi3rxAwj"
+    },
+    {
+      "album": {
+        "name": "Adam Brand (International Version)",
+        "url": "https://open.spotify.com/album/4vQjK9Ihbo2U3FqxWWinaf"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173840,
+      "name": "Dirt Track Cowboys",
+      "url": "https://open.spotify.com/track/4QV8KkzHq3ks1wU9EH1yf3"
+    },
+    {
+      "album": {
+        "name": "1990's Country Music",
+        "url": "https://open.spotify.com/album/6Frd37vsqImapXXzi6VeX4"
+      },
+      "artists": [
+        {
+          "name": "James Blundell",
+          "url": "https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Down On The Farm",
+      "url": "https://open.spotify.com/track/6RmUdgJmukYV5v9FGoLlnp"
+    },
+    {
+      "album": {
+        "name": "Eulogy (For a Black Person)",
+        "url": "https://open.spotify.com/album/44gOj2edfrKTryLt5AueW6"
+      },
+      "artists": [
+        {
+          "name": "Kev Carmody",
+          "url": "https://open.spotify.com/artist/6vnGscqt7xfOycanuJEqq9"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554640,
+      "name": "Droving Women",
+      "url": "https://open.spotify.com/track/44EB5XxazUcTCeGsfem0xS"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155080,
+      "name": "Duncan - 1998 Remaster",
+      "url": "https://open.spotify.com/track/2EnHSj3GZ0pr7S3fka1zcf"
+    },
+    {
+      "album": {
+        "name": "Chaos and Bright Lights",
+        "url": "https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i"
+      },
+      "artists": [
+        {
+          "name": "The McClymonts",
+          "url": "https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174320,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z"
+    },
+    {
+      "album": {
+        "name": "Give Me Tonight",
+        "url": "https://open.spotify.com/album/4TthvZrRJoyLtj69E6IHFG"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220176,
+      "name": "Give Me Tonight",
+      "url": "https://open.spotify.com/track/45u6AHUadot6PPykL9Tmhl"
+    },
+    {
+      "album": {
+        "name": "Piece Of Me",
+        "url": "https://open.spotify.com/album/06AzmWtWOUCb5ZKJLh68b4"
+      },
+      "artists": [
+        {
+          "name": "Missy Lancaster",
+          "url": "https://open.spotify.com/artist/4D3jbGqN1G7WxpRYJ1R6gL"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/3RRFPAWfF7SzXtdePPQIr7"
+    },
+    {
+      "album": {
+        "name": "Adam & Brooke",
+        "url": "https://open.spotify.com/album/6jnnOv7dRx8nenDWoMfrC2"
+      },
+      "artists": [
+        {
+          "name": "Brooke McClymont & Adam Eckersley",
+          "url": "https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320893,
+      "name": "Highway Sky",
+      "url": "https://open.spotify.com/track/4Pda5mOC2wOK2LnhgAm6Vr"
+    },
+    {
+      "album": {
+        "name": "Mae Valley",
+        "url": "https://open.spotify.com/album/1F2w7aXInM21WMXzy2dtrm"
+      },
+      "artists": [
+        {
+          "name": "Mae Valley",
+          "url": "https://open.spotify.com/artist/5vRoP692tghSyI7wFV0gLB"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177935,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0uVGDMlCO2I9UZQHr8GfHG"
+    },
+    {
+      "album": {
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/1dhKkCg4qds2IbDLBzFxZD"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Rae",
+          "url": "https://open.spotify.com/artist/1k5Ro7O3YAzrVIZZYWrkjm"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208786,
+      "name": "Hunky Country Boys",
+      "url": "https://open.spotify.com/track/1R9W6g6PTKj1CPAneZWRWd"
+    },
+    {
+      "album": {
+        "name": "My Soundtrack",
+        "url": "https://open.spotify.com/album/3rXbPxmub3kqkPKfSwmore"
+      },
+      "artists": [
+        {
+          "name": "Matt Cornell",
+          "url": "https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221577,
+      "name": "It's Only Midnight",
+      "url": "https://open.spotify.com/track/72MgiAUltaFgHD3NVVUeoK"
+    },
+    {
+      "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/4QmYBlpB9dPCcoqgqtyhGY"
+      },
+      "artists": [
+        {
+          "name": "Natalie Pearson",
+          "url": "https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156047,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/647ys5EZXczaZvlBxhlx7M"
+    },
+    {
+      "album": {
+        "name": "Heartfirst",
+        "url": "https://open.spotify.com/album/2YpTMq0ClNeAKMy0zCPhlF"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202931,
+      "name": "Just A Little Crazy",
+      "url": "https://open.spotify.com/track/5IfrotxtQQFZkOcIILRpLa"
+    },
+    {
+      "album": {
+        "name": "The Great Country Songbook",
+        "url": "https://open.spotify.com/album/4pGp5C1NMtCKCDsuVFpoan"
+      },
+      "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        },
+        {
+          "name": "Adam Harvey",
+          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Lights on the Hill",
+      "url": "https://open.spotify.com/track/6bxrMOOJyjIAkbBcp5IPQh"
+    },
+    {
+      "album": {
+        "name": "In Our Blood",
+        "url": "https://open.spotify.com/album/0QVlVhvM3wTh7059MOM5hv"
+      },
+      "artists": [
+        {
+          "name": "Kaylens Rain",
+          "url": "https://open.spotify.com/artist/2fYyRW0iCIGiN1ju0KcWyO"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "Lost in the Moonshine",
+      "url": "https://open.spotify.com/track/1HWitJEgxfTFRWXTiRswwi"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/31q9R2jptLMylI1iDR68ON"
+      },
+      "artists": [
+        {
+          "name": "The Buckleys",
+          "url": "https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/5OOhLxTtBtUIYqlujP0ghn"
+    },
+    {
+      "album": {
+        "name": "Kickin' Up Dust",
+        "url": "https://open.spotify.com/album/5W5mmNSOK53lh0WyqPVIeW"
+      },
+      "artists": [
+        {
+          "name": "The Viper Creek Band",
+          "url": "https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227640,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/1islrJG5v7TIwGIl5xOdyp"
+    },
+    {
+      "album": {
+        "name": "Broken Lines",
+        "url": "https://open.spotify.com/album/1IlwXF0W69Am2wVpy7x88l"
+      },
+      "artists": [
+        {
+          "name": "Christie Lamb",
+          "url": "https://open.spotify.com/artist/4Pr9AicHS9itF9d7YdeN4F"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Old Country Soul",
+      "url": "https://open.spotify.com/track/47AUocSPT0VTvQlLdsKWD8"
+    },
+    {
+      "album": {
+        "name": "More Than Meets the Eye",
+        "url": "https://open.spotify.com/album/7pvDAwJtwbuO2Pzii10RVj"
+      },
+      "artists": [
+        {
+          "name": "Aleyce Simmonds",
+          "url": "https://open.spotify.com/artist/4iOWIaDsDuAWoCLOKhXMXQ"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Only on My Terms",
+      "url": "https://open.spotify.com/track/5B6spT0IUZmYAYxSAMag7q"
+    },
+    {
+      "album": {
+        "name": "Our Backyard",
+        "url": "https://open.spotify.com/album/4PlgsS1ACyg5VB8VhWuntC"
+      },
+      "artists": [
+        {
+          "name": "Travis Collins",
+          "url": "https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m"
+        },
+        {
+          "name": "Amber Lawrence",
+          "url": "https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274320,
+      "name": "Our Backyard",
+      "url": "https://open.spotify.com/track/5Huv9hIqjfj6nMfwr7Vl7h"
+    },
+    {
+      "album": {
+        "name": "Party Down Under",
+        "url": "https://open.spotify.com/album/6kTwLscyl9GiE3tk1oLvrK"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196775,
+      "name": "Party Down Under",
+      "url": "https://open.spotify.com/track/6voVE1ccTkRYYNE9BtkIqV"
+    },
+    {
+      "album": {
+        "name": "Porch Party",
+        "url": "https://open.spotify.com/album/3zDqzsltwTUG12EWuNeQlF"
+      },
+      "artists": [
+        {
+          "name": "Jayne Denham",
+          "url": "https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ"
+        },
+        {
+          "name": "Jasmine Rae",
+          "url": "https://open.spotify.com/artist/1k5Ro7O3YAzrVIZZYWrkjm"
+        },
+        {
+          "name": "Amber Lawrence",
+          "url": "https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201906,
+      "name": "Porch Party",
+      "url": "https://open.spotify.com/track/4bjbyyR9ic2znX20tAzC0H"
+    },
+    {
+      "album": {
+        "name": "Beautiful Circle",
+        "url": "https://open.spotify.com/album/4KNo99ec5fHrQk0ulmA2IM"
+      },
+      "artists": [
+        {
+          "name": "Sara Storer",
+          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
+        },
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5fH1pefToSzsa6ZqG3LVOt"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Raining on the Plains",
+      "url": "https://open.spotify.com/track/4vh4gdpGssQbhyZXcyU8RW"
+    },
+    {
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3SSqFC1C1m6ifsq2utV488"
+      },
+      "artists": [
+        {
+          "name": "Baylou",
+          "url": "https://open.spotify.com/artist/1iYr7AHxlh3luK6lU1jUf5"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "Rattlin' Chains",
+      "url": "https://open.spotify.com/track/4x0o5cK2uzbMehIxeL2szH"
+    },
+    {
+      "album": {
+        "name": "Real Class Act",
+        "url": "https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lumsden",
+          "url": "https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177502,
+      "name": "Roll On",
+      "url": "https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT"
+    },
+    {
+      "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/1URPuCbBlWAFM70nqACeKD"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Saturated",
+      "url": "https://open.spotify.com/track/1UUX3Ie4L5qCzRtjI8kmsW"
+    },
+    {
+      "album": {
+        "name": "Coro Drive",
+        "url": "https://open.spotify.com/album/1TMvAafJiN5nZJ8nYCJwPy"
+      },
+      "artists": [
+        {
+          "name": "Route 33",
+          "url": "https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "Showing Off",
+      "url": "https://open.spotify.com/track/2ftpWJhsGQ3kEMKXYd7KL2"
+    },
+    {
+      "album": {
+        "name": "So Long So Long",
+        "url": "https://open.spotify.com/album/0DrSVziCS5z1okRftdWpIh"
+      },
+      "artists": [
+        {
+          "name": "Darlinghurst",
+          "url": "https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180915,
+      "name": "So Long So Long",
+      "url": "https://open.spotify.com/track/5nGF0GD9p1lnKn8OdUNlUL"
+    },
+    {
+      "album": {
+        "name": "Stacks",
+        "url": "https://open.spotify.com/album/7An96Hf87OBmbvWNSpO3Vi"
+      },
+      "artists": [
+        {
+          "name": "Jayne Denham",
+          "url": "https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178921,
+      "name": "Stacks",
+      "url": "https://open.spotify.com/track/2GkgT0sVBPPfeHqzA7bh1w"
+    },
+    {
+      "album": {
+        "name": "Country Heart",
+        "url": "https://open.spotify.com/album/2K2u4aAoAwf3aJ5k8ZZF1c"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162694,
+      "name": "Storm Rollin In",
+      "url": "https://open.spotify.com/track/0CbMpsfgSHVwOXBPA1tyEX"
+    },
+    {
+      "album": {
+        "name": "Happy Days",
+        "url": "https://open.spotify.com/album/6ZCL4dPg9SOrU4ELio6IiZ"
+      },
+      "artists": [
+        {
+          "name": "The Sunny Cowgirls",
+          "url": "https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265648,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/5tR4IzOBMaDvscJepLX5Ar"
+    },
+    {
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/2YVoRvMleX9NQyNvUC3de0"
+      },
+      "artists": [
+        {
+          "name": "Travis Collins",
+          "url": "https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/5IwLILDE1d5yVI4bfXTV3K"
+    },
+    {
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/3i9IhP5dZwhEileTfygCBr"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272533,
+      "name": "The Captain",
+      "url": "https://open.spotify.com/track/3UaUq1TdT5jerdeCkIOFjG"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/0fP6sL5Q937oEJ5IawnlBM"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226446,
+      "name": "Walk a Country Mile",
+      "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
+    },
+    {
+      "album": {
+        "name": "Walk A Country Mile",
+        "url": "https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "Walk A Country Mile",
+      "url": "https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE"
+    },
+    {
+      "album": {
+        "name": "Looking for a Story",
+        "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 230360,
+      "name": "Waltzing Matilda 2000",
+      "url": "https://open.spotify.com/track/2KzeUrxM30mLlMTl97yWej"
+    },
+    {
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "Waltzing Matilda 2000",
+      "url": "https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU"
+    },
+    {
+      "album": {
+        "name": "Friday Arvo Beers",
+        "url": "https://open.spotify.com/album/6oyY9zsDo91bjOTLXpS1iB"
+      },
+      "artists": [
+        {
+          "name": "James Blundell",
+          "url": "https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD"
+        },
+        {
+          "name": "James Reyne",
+          "url": "https://open.spotify.com/artist/4v0Hh2bdIAJnaUqAOipfYs"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242533,
+      "name": "Way Out West",
+      "url": "https://open.spotify.com/track/1YXKsmwzAGt6R63tFeBSfx"
+    },
+    {
+      "album": {
+        "name": "What If I Was Willing",
+        "url": "https://open.spotify.com/album/7cPZTDXG4C8cHEEqab4iHw"
+      },
+      "artists": [
+        {
+          "name": "Deep Creek Road",
+          "url": "https://open.spotify.com/artist/3k46FD3ZStLNs73TwTgFxV"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210306,
+      "name": "What If I Was Willing",
+      "url": "https://open.spotify.com/track/0OKjR5SHiBZbYDv0M4pAz4"
+    },
+    {
+      "album": {
+        "name": "Slim Dusty Live",
+        "url": "https://open.spotify.com/album/44ANFDCI13LRwr4c8BFtRD"
+      },
+      "artists": [
+        {
+          "name": "Anne Kirkpatrick",
+          "url": "https://open.spotify.com/artist/60jrOXNbRmY2Mq0l0JFOme"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227853,
+      "name": "Where Country Is - Live From Australia/2000",
+      "url": "https://open.spotify.com/track/4BCPNtyHGhM1PTbm4A6skL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4tXZzWpHEly"
 }

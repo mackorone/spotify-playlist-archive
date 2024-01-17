@@ -1,464 +1,1899 @@
 {
-  "2022-09-25": 462991,
-  "2022-09-26": 463088,
-  "2022-09-27": 463156,
-  "2022-09-28": 463246,
-  "2022-09-29": 463322,
-  "2022-09-30": 463416,
-  "2022-10-01": 463513,
-  "2022-10-02": 463623,
-  "2022-10-03": 463726,
-  "2022-10-04": 463816,
-  "2022-10-05": 463890,
-  "2022-10-06": 463986,
-  "2022-10-07": 464070,
-  "2022-10-08": 464170,
-  "2022-10-09": 464356,
-  "2022-10-10": 464387,
-  "2022-10-11": 464457,
-  "2022-10-12": 464523,
-  "2022-10-13": 464604,
-  "2022-10-14": 464705,
-  "2022-10-15": 464814,
-  "2022-10-16": 464966,
-  "2022-10-17": 465052,
-  "2022-10-18": 465131,
-  "2022-10-19": 465233,
-  "2022-10-20": 465310,
-  "2022-10-21": 465427,
-  "2022-10-22": 465518,
-  "2022-10-23": 465631,
-  "2022-10-24": 465723,
-  "2022-10-25": 465801,
-  "2022-10-26": 465891,
-  "2022-10-27": 465986,
-  "2022-10-28": 466086,
-  "2022-10-29": 466174,
-  "2022-10-30": 466272,
-  "2022-10-31": 466363,
-  "2022-11-01": 466434,
-  "2022-11-02": 466526,
-  "2022-11-03": 466608,
-  "2022-11-04": 466694,
-  "2022-11-05": 466774,
-  "2022-11-06": 466865,
-  "2022-11-07": 466973,
-  "2022-11-08": 467043,
-  "2022-11-09": 467124,
-  "2022-11-10": 467203,
-  "2022-11-11": 467262,
-  "2022-11-12": 467357,
-  "2022-11-13": 467446,
-  "2022-11-14": 467533,
-  "2022-11-15": 467603,
-  "2022-11-16": 467673,
-  "2022-11-17": 467749,
-  "2022-11-18": 467748,
-  "2022-11-19": 467755,
-  "2022-11-20": 467838,
-  "2022-11-21": 467929,
-  "2022-11-22": 468035,
-  "2022-11-23": 468124,
-  "2022-11-24": 468328,
-  "2022-11-25": 468493,
-  "2022-11-26": 468582,
-  "2022-11-27": 468668,
-  "2022-11-28": 468794,
-  "2022-11-29": 468861,
-  "2022-11-30": 468962,
-  "2022-12-01": 469053,
-  "2022-12-02": 469090,
-  "2022-12-03": 469201,
-  "2022-12-04": 469291,
-  "2022-12-05": 469367,
-  "2022-12-06": 469456,
-  "2022-12-07": 469566,
-  "2022-12-08": 469656,
-  "2022-12-09": 469761,
-  "2022-12-10": 469826,
-  "2022-12-11": 469912,
-  "2022-12-12": 470009,
-  "2022-12-13": 470080,
-  "2022-12-14": 470157,
-  "2022-12-15": 470245,
-  "2022-12-16": 470321,
-  "2022-12-17": 470420,
-  "2022-12-18": 470512,
-  "2022-12-19": 470606,
-  "2022-12-20": 470754,
-  "2022-12-21": 470754,
-  "2022-12-22": 470848,
-  "2022-12-24": 471032,
-  "2022-12-25": 471129,
-  "2022-12-26": 471217,
-  "2022-12-27": 471322,
-  "2022-12-28": 471397,
-  "2022-12-29": 471511,
-  "2022-12-30": 471648,
-  "2022-12-31": 471799,
-  "2023-01-01": 471936,
-  "2023-01-02": 472065,
-  "2023-01-03": 472180,
-  "2023-01-04": 472295,
-  "2023-01-05": 472422,
-  "2023-01-06": 472531,
-  "2023-01-07": 472672,
-  "2023-01-08": 472701,
-  "2023-01-09": 472813,
-  "2023-01-10": 472937,
-  "2023-01-11": 473030,
-  "2023-01-12": 473140,
-  "2023-01-13": 473276,
-  "2023-01-14": 473472,
-  "2023-01-15": 473519,
-  "2023-01-16": 473644,
-  "2023-01-17": 473743,
-  "2023-01-18": 473834,
-  "2023-01-19": 473919,
-  "2023-01-20": 474009,
-  "2023-01-21": 474145,
-  "2023-01-22": 474271,
-  "2023-01-23": 474431,
-  "2023-01-24": 474534,
-  "2023-01-25": 474661,
-  "2023-01-26": 474751,
-  "2023-01-27": 474862,
-  "2023-01-28": 474966,
-  "2023-01-29": 475069,
-  "2023-01-30": 475200,
-  "2023-01-31": 475200,
-  "2023-02-01": 475489,
-  "2023-02-02": 475591,
-  "2023-02-03": 475681,
-  "2023-02-04": 475774,
-  "2023-02-05": 475902,
-  "2023-02-06": 475997,
-  "2023-02-07": 476097,
-  "2023-02-08": 476238,
-  "2023-02-09": 476238,
-  "2023-02-10": 476353,
-  "2023-02-11": 476478,
-  "2023-02-12": 476721,
-  "2023-02-13": 476816,
-  "2023-02-14": 476816,
-  "2023-02-15": 476936,
-  "2023-02-16": 477035,
-  "2023-02-17": 477138,
-  "2023-02-18": 477335,
-  "2023-02-19": 477361,
-  "2023-02-20": 477461,
-  "2023-02-21": 477570,
-  "2023-02-22": 477657,
-  "2023-02-23": 477725,
-  "2023-02-24": 477846,
-  "2023-02-25": 477976,
-  "2023-02-26": 478054,
-  "2023-02-27": 478252,
-  "2023-02-28": 478252,
-  "2023-03-01": 478359,
-  "2023-03-02": 478458,
-  "2023-03-03": 478560,
-  "2023-03-04": 478658,
-  "2023-03-05": 478904,
-  "2023-03-06": 478904,
-  "2023-03-07": 478982,
-  "2023-03-08": 479083,
-  "2023-03-09": 479182,
-  "2023-03-10": 479278,
-  "2023-03-11": 479379,
-  "2023-03-12": 479515,
-  "2023-03-13": 479644,
-  "2023-03-14": 479733,
-  "2023-03-15": 479835,
-  "2023-03-16": 479835,
-  "2023-03-17": 479835,
-  "2023-03-18": 480176,
-  "2023-03-19": 480176,
-  "2023-03-20": 480399,
-  "2023-03-21": 480505,
-  "2023-03-22": 480603,
-  "2023-03-23": 480677,
-  "2023-03-24": 480677,
-  "2023-03-25": 480884,
-  "2023-03-26": 481002,
-  "2023-03-27": 481120,
-  "2023-03-28": 481207,
-  "2023-03-29": 481266,
-  "2023-03-30": 481459,
-  "2023-03-31": 481459,
-  "2023-04-01": 481553,
-  "2023-04-02": 481660,
-  "2023-04-03": 481740,
-  "2023-04-04": 481846,
-  "2023-04-05": 481929,
-  "2023-04-06": 482017,
-  "2023-04-07": 482147,
-  "2023-04-09": 482399,
-  "2023-04-10": 482516,
-  "2023-04-11": 482700,
-  "2023-04-12": 482700,
-  "2023-04-13": 482794,
-  "2023-04-14": 482924,
-  "2023-04-15": 483035,
-  "2023-04-16": 483155,
-  "2023-04-17": 483256,
-  "2023-04-18": 483338,
-  "2023-04-19": 483458,
-  "2023-04-20": 483560,
-  "2023-04-21": 483655,
-  "2023-04-22": 483751,
-  "2023-04-23": 483843,
-  "2023-04-24": 483930,
-  "2023-04-25": 484027,
-  "2023-04-26": 484121,
-  "2023-04-27": 484217,
-  "2023-04-28": 484316,
-  "2023-04-29": 484397,
-  "2023-04-30": 484504,
-  "2023-05-01": 484575,
-  "2023-05-02": 484668,
-  "2023-05-03": 484754,
-  "2023-05-04": 484856,
-  "2023-05-05": 484924,
-  "2023-05-06": 485013,
-  "2023-05-07": 485113,
-  "2023-05-08": 485208,
-  "2023-05-09": 485293,
-  "2023-05-10": 485350,
-  "2023-05-11": 485428,
-  "2023-05-12": 485518,
-  "2023-05-13": 485629,
-  "2023-05-14": 485749,
-  "2023-05-15": 485843,
-  "2023-05-16": 485925,
-  "2023-05-17": 486018,
-  "2023-05-18": 486121,
-  "2023-05-19": 486208,
-  "2023-05-20": 486436,
-  "2023-05-21": 486436,
-  "2023-05-22": 486436,
-  "2023-05-23": 486636,
-  "2023-05-24": 486856,
-  "2023-05-25": 486897,
-  "2023-05-26": 487032,
-  "2023-05-27": 487157,
-  "2023-05-28": 487301,
-  "2023-05-29": 487301,
-  "2023-05-30": 487515,
-  "2023-05-31": 487633,
-  "2023-06-01": 487737,
-  "2023-06-02": 487827,
-  "2023-06-03": 487924,
-  "2023-06-04": 488012,
-  "2023-06-05": 488127,
-  "2023-06-06": 488239,
-  "2023-06-07": 488331,
-  "2023-06-08": 488421,
-  "2023-06-09": 488527,
-  "2023-06-10": 488670,
-  "2023-06-11": 488813,
-  "2023-06-12": 488885,
-  "2023-06-13": 488971,
-  "2023-06-14": 489070,
-  "2023-06-15": 489184,
-  "2023-06-16": 489262,
-  "2023-06-17": 489359,
-  "2023-06-18": 489452,
-  "2023-06-19": 489572,
-  "2023-06-20": 489669,
-  "2023-06-21": 489761,
-  "2023-06-22": 489851,
-  "2023-06-23": 489920,
-  "2023-06-24": 490003,
-  "2023-06-25": 490107,
-  "2023-06-26": 490210,
-  "2023-06-27": 490299,
-  "2023-06-28": 490370,
-  "2023-06-29": 490489,
-  "2023-06-30": 490572,
-  "2023-07-01": 490758,
-  "2023-07-02": 490758,
-  "2023-07-03": 490860,
-  "2023-07-04": 490949,
-  "2023-07-05": 491044,
-  "2023-07-06": 491242,
-  "2023-07-07": 491242,
-  "2023-07-08": 491242,
-  "2023-07-09": 491428,
-  "2023-07-10": 491548,
-  "2023-07-11": 491637,
-  "2023-07-12": 491723,
-  "2023-07-13": 491830,
-  "2023-07-14": 491933,
-  "2023-07-15": 492019,
-  "2023-07-16": 492156,
-  "2023-07-17": 492260,
-  "2023-07-18": 492348,
-  "2023-07-19": 492430,
-  "2023-07-20": 492430,
-  "2023-07-21": 492598,
-  "2023-07-22": 492677,
-  "2023-07-23": 492768,
-  "2023-07-24": 492870,
-  "2023-07-25": 492955,
-  "2023-07-26": 493030,
-  "2023-07-27": 493122,
-  "2023-07-28": 493122,
-  "2023-07-29": 493357,
-  "2023-07-30": 493357,
-  "2023-07-31": 493560,
-  "2023-08-01": 493638,
-  "2023-08-02": 493699,
-  "2023-08-03": 493809,
-  "2023-08-04": 493884,
-  "2023-08-05": 493977,
-  "2023-08-06": 494182,
-  "2023-08-07": 494182,
-  "2023-08-08": 494266,
-  "2023-08-09": 494357,
-  "2023-08-10": 494448,
-  "2023-08-11": 494527,
-  "2023-08-12": 494527,
-  "2023-08-13": 494527,
-  "2023-08-14": 494527,
-  "2023-08-15": 494527,
-  "2023-08-16": 494527,
-  "2023-08-17": 494527,
-  "2023-08-18": 494527,
-  "2023-08-19": 494527,
-  "2023-08-20": 495387,
-  "2023-08-21": 495387,
-  "2023-08-22": 495568,
-  "2023-08-23": 495568,
-  "2023-08-24": 495568,
-  "2023-08-25": 495568,
-  "2023-08-26": 495892,
-  "2023-08-27": 495892,
-  "2023-08-28": 496124,
-  "2023-08-29": 496124,
-  "2023-08-30": 496124,
-  "2023-08-31": 496387,
-  "2023-09-01": 496471,
-  "2023-09-02": 496471,
-  "2023-09-03": 496471,
-  "2023-09-04": 496471,
-  "2023-09-05": 496471,
-  "2023-09-06": 496471,
-  "2023-09-07": 496471,
-  "2023-09-08": 496471,
-  "2023-09-09": 496471,
-  "2023-09-10": 496471,
-  "2023-09-11": 496471,
-  "2023-09-12": 496471,
-  "2023-09-13": 496471,
-  "2023-09-14": 496471,
-  "2023-09-15": 496471,
-  "2023-09-16": 496471,
-  "2023-09-17": 496471,
-  "2023-09-18": 496471,
-  "2023-09-19": 496471,
-  "2023-09-20": 496471,
-  "2023-09-21": 496471,
-  "2023-09-22": 498200,
-  "2023-09-23": 498200,
-  "2023-09-24": 498200,
-  "2023-09-25": 498200,
-  "2023-09-26": 498540,
-  "2023-09-27": 498540,
-  "2023-09-28": 498540,
-  "2023-09-29": 498540,
-  "2023-09-30": 498540,
-  "2023-10-01": 498540,
-  "2023-10-02": 498540,
-  "2023-10-03": 498540,
-  "2023-10-04": 498540,
-  "2023-10-05": 498540,
-  "2023-10-06": 498540,
-  "2023-10-07": 498540,
-  "2023-10-08": 498540,
-  "2023-10-09": 498540,
-  "2023-10-10": 498540,
-  "2023-10-11": 498540,
-  "2023-10-12": 498540,
-  "2023-10-13": 498540,
-  "2023-10-14": 498540,
-  "2023-10-15": 498540,
-  "2023-10-16": 498540,
-  "2023-10-17": 498540,
-  "2023-10-18": 498540,
-  "2023-10-19": 498540,
-  "2023-10-20": 498540,
-  "2023-10-21": 498540,
-  "2023-10-22": 498540,
-  "2023-10-23": 498540,
-  "2023-10-24": 498540,
-  "2023-10-25": 498540,
-  "2023-10-26": 498540,
-  "2023-10-27": 498540,
-  "2023-10-28": 498540,
-  "2023-10-29": 498540,
-  "2023-10-30": 498540,
-  "2023-10-31": 498540,
-  "2023-11-01": 498540,
-  "2023-11-02": 498540,
-  "2023-11-03": 498540,
-  "2023-11-04": 498540,
-  "2023-11-05": 498540,
-  "2023-11-06": 498540,
-  "2023-11-07": 498540,
-  "2023-11-08": 498540,
-  "2023-11-09": 498540,
-  "2023-11-10": 498540,
-  "2023-11-11": 501901,
-  "2023-11-12": 501901,
-  "2023-11-13": 501901,
-  "2023-11-14": 501901,
-  "2023-11-15": 501901,
-  "2023-11-16": 501901,
-  "2023-11-17": 501901,
-  "2023-11-18": 501901,
-  "2023-11-19": 501901,
-  "2023-11-20": 501901,
-  "2023-11-21": 501901,
-  "2023-11-22": 501901,
-  "2023-11-23": 501901,
-  "2023-11-24": 501901,
-  "2023-11-25": 501901,
-  "2023-11-26": 501901,
-  "2023-11-27": 501901,
-  "2023-11-28": 501901,
-  "2023-11-29": 501901,
-  "2023-11-30": 501901,
-  "2023-12-01": 501901,
-  "2023-12-02": 501901,
-  "2023-12-03": 501901,
-  "2023-12-04": 501901,
-  "2023-12-05": 501901,
-  "2023-12-06": 501901,
-  "2023-12-07": 501901,
-  "2023-12-08": 501901,
-  "2023-12-09": 501901,
-  "2023-12-10": 501901,
-  "2023-12-11": 501901,
-  "2023-12-12": 501901,
-  "2023-12-13": 501901,
-  "2023-12-14": 504296,
-  "2023-12-15": 504357,
-  "2023-12-16": 504433,
-  "2023-12-17": 504516,
-  "2023-12-18": 504603,
-  "2023-12-19": 504657,
-  "2023-12-20": 504714,
-  "2023-12-21": 504785,
-  "2023-12-22": 504869,
-  "2023-12-23": 504948,
-  "2023-12-24": 505027,
-  "2023-12-25": 505090,
-  "2023-12-26": 505155,
-  "2023-12-27": 505244,
-  "2023-12-30": 505489,
-  "2023-12-31": 505572,
-  "2024-01-01": 505633,
-  "2024-01-02": 505696,
-  "2024-01-03": 505761
+  "2024-01-17": 505960,
+  "date_first_scraped": "2022-09-25",
+  "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
+  "name": "This Is Bob Dylan",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 412200,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ"
+    },
+    {
+      "album": {
+        "name": "John Wesley Harding",
+        "url": "https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/0Fnb2pfBfu0ka33d6Yki17"
+    },
+    {
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/3bXEPGWxOplvbLwyasRSW3"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 193093,
+      "name": "All the Tired Horses",
+      "url": "https://open.spotify.com/track/4nBjbqj7nKd7Rsa7HJ3VtX"
+    },
+    {
+      "album": {
+        "name": "Shadows in the Night",
+        "url": "https://open.spotify.com/album/2mVpSZrllFAWhOgCoyz8ow"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 178213,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/3tKCYhzgnMEExDtetcZknP"
+    },
+    {
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356706,
+      "name": "Ballad of a Thin Man",
+      "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
+    },
+    {
+      "album": {
+        "name": "Travelin' Thru, 1967 - 1969: The Bootleg Series, Vol. 15 (Sampler)",
+        "url": "https://open.spotify.com/album/1euXUeJobzra05wyBIrdtH"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123613,
+      "name": "Big River - Take 1",
+      "url": "https://open.spotify.com/track/0CS4pwHml8LCSdVJ1gIKU3"
+    },
+    {
+      "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 252893,
+      "name": "Black Rider",
+      "url": "https://open.spotify.com/track/2PqGXNc6kQp4iDRpi6SF5U"
+    },
+    {
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277106,
+      "name": "Boots of Spanish Leather",
+      "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
+    },
+    {
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "Buckets of Rain",
+      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
+    },
+    {
+      "album": {
+        "name": "Street-Legal",
+        "url": "https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397093,
+      "name": "Changing of the Guards",
+      "url": "https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2"
+    },
+    {
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 161466,
+      "name": "Corrina, Corrina",
+      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
+    },
+    {
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95933,
+      "name": "Country Pie",
+      "url": "https://open.spotify.com/track/2YehU3jLpb9bM5V6k8HmyA"
+    },
+    {
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 681400,
+      "name": "Desolation Row",
+      "url": "https://open.spotify.com/track/4n1ZGm3TxYmoYe1YR8cMus"
+    },
+    {
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0qfFt0ItzdJngdYWWxRkub"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 214320,
+      "name": "Dirt Road Blues - 2022 Remix",
+      "url": "https://open.spotify.com/track/6i2wVBUAzmKbUVURpE2RRh"
+    },
+    {
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 217400,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+    },
+    {
+      "album": {
+        "name": "Shot Of Love",
+        "url": "https://open.spotify.com/album/14cScWsd0lPdSlNFfr9AmA"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 371533,
+      "name": "Every Grain of Sand",
+      "url": "https://open.spotify.com/track/6MfOFYmw1TD9QDFSu0TEN1"
+    },
+    {
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 193493,
+      "name": "Everything Is Broken",
+      "url": "https://open.spotify.com/track/65Ywa7EspM0tSZreKwOmnL"
+    },
+    {
+      "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 360013,
+      "name": "False Prophet",
+      "url": "https://open.spotify.com/track/0JBFlDivbkrskU7oYnjdIU"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 195386,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3jDuXdGHAvCFOuCTbwYUhw"
+    },
+    {
+      "album": {
+        "name": "The Last Waltz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 351040,
+      "name": "Forever Young (feat. Bob Dylan) - Concert Version",
+      "url": "https://open.spotify.com/track/5S6wwhjhS8jt68st9x7D3R"
+    },
+    {
+      "album": {
+        "name": "Planet Waves",
+        "url": "https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296133,
+      "name": "Forever Young - Slow Version",
+      "url": "https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn"
+    },
+    {
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 195693,
+      "name": "From a Buick 6",
+      "url": "https://open.spotify.com/track/6txGFpco4cfgG1sA1MxLCp"
+    },
+    {
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Girl from the North Country",
+      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+    },
+    {
+      "album": {
+        "name": "The Complete Budokan 1978 (Live)",
+        "url": "https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243653,
+      "name": "Going, Going, Gone - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "url": "https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi"
+    },
+    {
+      "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253853,
+      "name": "Goodbye Jimmy Reed",
+      "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
+    },
+    {
+      "album": {
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 324800,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
+    },
+    {
+      "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 318013,
+      "name": "House of the Risin' Sun",
+      "url": "https://open.spotify.com/track/3yFRbFaSj8MeNuYaN21HIu"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512732,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN"
+    },
+    {
+      "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 276733,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/5AJT2Tk8mnDEnCtsikWVu2"
+    },
+    {
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143066,
+      "name": "I Threw It All Away",
+      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
+    },
+    {
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v"
+    },
+    {
+      "album": {
+        "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
+        "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 151840,
+      "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
+    },
+    {
+      "album": {
+        "name": "John Wesley Harding",
+        "url": "https://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 159360,
+      "name": "I'll Be Your Baby Tonight",
+      "url": "https://open.spotify.com/track/032kwZ9kg4yIaIPBOOIwlm"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 184093,
+      "name": "I'll Be Your Baby Tonight",
+      "url": "https://open.spotify.com/track/5EUtFLXes038LFd4InLWeX"
+    },
+    {
+      "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 392213,
+      "name": "I've Made Up My Mind to Give Myself to You",
+      "url": "https://open.spotify.com/track/5JqAHgYG2j9hwqCwKZpBUI"
+    },
+    {
+      "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "If Not for You",
+      "url": "https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq"
+    },
+    {
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 288000,
+      "name": "If You See Her, Say Hello",
+      "url": "https://open.spotify.com/track/3xNO6JUk9ySYjxuqzcZYRB"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-09",
+      "duration_ms": 418293,
+      "name": "Isis",
+      "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
+    },
+    {
+      "album": {
+        "name": "Another Side Of Bob Dylan",
+        "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
+    },
+    {
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252066,
+      "name": "It's All Over Now, Baby Blue",
+      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
+    },
+    {
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 449093,
+      "name": "It's Alright, Ma (I'm Only Bleeding)",
+      "url": "https://open.spotify.com/track/5Oer8yskMaCGXwGSfM7xr9"
+    },
+    {
+      "album": {
+        "name": "Infidels",
+        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376160,
+      "name": "Jokerman",
+      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
+    },
+    {
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290466,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 266080,
+      "name": "Just Like Tom Thumb's Blues",
+      "url": "https://open.spotify.com/track/7naITqWKtxEbiTHehogniH"
+    },
+    {
+      "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+    },
+    {
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "Lay, Lady, Lay",
+      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
+    },
+    {
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 369600,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171106,
+      "name": "Love Minus Zero",
+      "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
+    },
+    {
+      "album": {
+        "name": "Love Sick (Version 2)",
+        "url": "https://open.spotify.com/album/3TfZy4IYawdOfA2bNVq4Rr"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 406306,
+      "name": "Love Sick - Version 2",
+      "url": "https://open.spotify.com/track/2faGmidIwyUHhBafWzwocg"
+    },
+    {
+      "album": {
+        "name": "Time Out Of Mind",
+        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
+    },
+    {
+      "album": {
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 267106,
+      "name": "Man Gave Names to All the Animals",
+      "url": "https://open.spotify.com/track/5mGq3cybgQDZgTEbu9ldV9"
+    },
+    {
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273200,
+      "name": "Man in the Long Black Coat",
+      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
+    },
+    {
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271360,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+    },
+    {
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258973,
+      "name": "Meet Me in the Morning",
+      "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
+    },
+    {
+      "album": {
+        "name": "Mississippi (Version 2)",
+        "url": "https://open.spotify.com/album/4mAnAlXFfFIlnzNRV8cCfR"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 312600,
+      "name": "Mississippi - Version 2",
+      "url": "https://open.spotify.com/track/4T7zdEt6EPBYPINynERjCN"
+    },
+    {
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 312600,
+      "name": "Mississippi - Version 2",
+      "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
+    },
+    {
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304306,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Mozambique",
+      "url": "https://open.spotify.com/track/1gpQMd0R3blMSn8vhXU0Uu"
+    },
+    {
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330533,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
+    },
+    {
+      "album": {
+        "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
+        "url": "https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Roger McGuinn",
+          "url": "https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        },
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279906,
+      "name": "My Back Pages - Live at Madison Square Garden, New York, NY - October 1992",
+      "url": "https://open.spotify.com/track/0bIGNGUqgpB82sAksxonkZ"
+    },
+    {
+      "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 401360,
+      "name": "My Own Version of You",
+      "url": "https://open.spotify.com/track/3BQnez3qUm6hdKwxXly7Rw"
+    },
+    {
+      "album": {
+        "name": "Time Out Of Mind",
+        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 387733,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
+    },
+    {
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 430040,
+      "name": "Not Dark Yet - Version 1",
+      "url": "https://open.spotify.com/track/4tBwhmAibSxix5rKQ5zr4c"
+    },
+    {
+      "album": {
+        "name": "Not Dark Yet (Version 1)",
+        "url": "https://open.spotify.com/album/577uc6MHsDO7dJEPimNkmc"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 432133,
+      "name": "Not Dark Yet - Version 1",
+      "url": "https://open.spotify.com/track/5CdrxIu33WFVpa2qnuG3A1"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224733,
+      "name": "One More Cup of Coffee",
+      "url": "https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX"
+    },
+    {
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 292440,
+      "name": "One of Us Must Know (Sooner or Later)",
+      "url": "https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2"
+    },
+    {
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157933,
+      "name": "One Too Many Mornings",
+      "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
+    },
+    {
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107226,
+      "name": "Oxford Town",
+      "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 230680,
+      "name": "Pledging My Time",
+      "url": "https://open.spotify.com/track/219byIl0piDNkLQ4oYlm1l"
+    },
+    {
+      "album": {
+        "name": "Bob Dylan's Greatest Hits",
+        "url": "https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "Positively 4th Street",
+      "url": "https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb"
+    },
+    {
+      "album": {
+        "name": "The Essential Bob Dylan",
+        "url": "https://open.spotify.com/album/1y3abw64BlSEeFuuhjlke1"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 247866,
+      "name": "Positively 4th Street - Single Version",
+      "url": "https://open.spotify.com/track/4heMx0OAwfILu13Lf0VbBM"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 314586,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/5zP9ZGcH0uaHMe06I5vU5h"
+    },
+    {
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 327466,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/0c2DAekH6ZEnHhf8dM1leK"
+    },
+    {
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 274066,
+      "name": "Rainy Day Women #12 & 35",
+      "url": "https://open.spotify.com/track/7BkAlVpGwXXl3sYNn5OoJ7"
+    },
+    {
+      "album": {
+        "name": "The Complete Budokan 1978 (Live)",
+        "url": "https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169040,
+      "name": "Repossession Blues - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "url": "https://open.spotify.com/track/2UvVDBoJ2PQ6qknXhpQrcl"
+    },
+    {
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "Ring Them Bells",
+      "url": "https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 344333,
+      "name": "Romance in Durango",
+      "url": "https://open.spotify.com/track/1OT1G66Lt9EpKFWkwK8i9z"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 331493,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM"
+    },
+    {
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 166706,
+      "name": "She Belongs to Me",
+      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
+    },
+    {
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301133,
+      "name": "Shelter from the Storm",
+      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
+    },
+    {
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256800,
+      "name": "Simple Twist of Fate",
+      "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
+    },
+    {
+      "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 160000,
+      "name": "Song to Woody",
+      "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
+    },
+    {
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0qfFt0ItzdJngdYWWxRkub"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 461600,
+      "name": "Standing in the Doorway - 2022 Remix",
+      "url": "https://open.spotify.com/track/0sjFBMLwC03vm88eZSfDWT"
+    },
+    {
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 423666,
+      "name": "Stuck Inside of Mobile with the Memphis Blues Again",
+      "url": "https://open.spotify.com/track/1NYTj6JEw3IOh4ggiBh82h"
+    },
+    {
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141293,
+      "name": "Subterranean Homesick Blues",
+      "url": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
+    },
+    {
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341626,
+      "name": "Tangled up in Blue",
+      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
+    },
+    {
+      "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "The Man in Me",
+      "url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
+    },
+    {
+      "album": {
+        "name": "The Man in Me (Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978)",
+        "url": "https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 231960,
+      "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
+      "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
+    },
+    {
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 176266,
+      "name": "The Wicked Messenger",
+      "url": "https://open.spotify.com/track/3Svsq93gpeXiLrmntFOOYQ"
+    },
+    {
+      "album": {
+        "name": "Side Tracks",
+        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307800,
+      "name": "Things Have Changed - Single Version",
+      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
+    },
+    {
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127600,
+      "name": "To Be Alone with You",
+      "url": "https://open.spotify.com/track/7CuCP5OoLH77hJTibZQE4r"
+    },
+    {
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201133,
+      "name": "Tonight I'll Be Staying Here with You",
+      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
+    },
+    {
+      "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 211026,
+      "name": "Turkey Chase",
+      "url": "https://open.spotify.com/track/7huqsHcUto3D3TDHPWtuYQ"
+    },
+    {
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 451133,
+      "name": "Visions of Johanna",
+      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
+    },
+    {
+      "album": {
+        "name": "Watching the River Flow (From 'Shadow Kingdom')",
+        "url": "https://open.spotify.com/album/00PPrKBCj0AvPyw7rvvehR"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 180053,
+      "name": "Watching the River Flow",
+      "url": "https://open.spotify.com/track/3ektGwc8hlLCghIr93FY1H"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "Watching the River Flow",
+      "url": "https://open.spotify.com/track/55FxZy3uzoCIxWR4zYZIjX"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 303506,
+      "name": "What Was It You Wanted",
+      "url": "https://open.spotify.com/track/7otGDRpzw5bouxUwI5m08I"
+    },
+    {
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 265946,
+      "name": "When I Paint My Masterpiece",
+      "url": "https://open.spotify.com/track/43Wx5R35qqNVNOuk6GrRKR"
+    },
+    {
+      "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142946,
+      "name": "Winterlude",
+      "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
+    },
+    {
+      "album": {
+        "name": "The Basement Tapes",
+        "url": "https://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162880,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE"
+    },
+    {
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "You're Gonna Make Me Lonesome When You Go",
+      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bqAta"
 }

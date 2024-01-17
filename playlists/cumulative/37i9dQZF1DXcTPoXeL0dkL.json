@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-09",
       "duration_ms": 241297,
       "name": "Ceniza Fria",
       "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 290733,
       "name": "Como Te Olvido",
       "url": "https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U"
@@ -568,6 +568,24 @@
       "duration_ms": 182453,
       "name": "La creciente",
       "url": "https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M"
+    },
+    {
+      "album": {
+        "name": "30 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9"
+      },
+      "artists": [
+        {
+          "name": "Los Betos",
+          "url": "https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 252600,
+      "name": "La Gemela",
+      "url": "https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg"
     },
     {
       "album": {
@@ -872,7 +890,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 284520,
       "name": "Nunca Comprendi Tu Amor",
       "url": "https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU"
@@ -948,7 +966,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 252706,
       "name": "Parranda en el Cafetal",
       "url": "https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi"
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 289724,
       "name": "Un Osito Dormilon",
       "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"

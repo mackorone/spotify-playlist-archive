@@ -1,61 +1,1053 @@
 {
-  "2023-11-04": 4211,
-  "2023-11-05": 4222,
-  "2023-11-06": 4224,
-  "2023-11-07": 4227,
-  "2023-11-08": 4230,
-  "2023-11-09": 4233,
-  "2023-11-10": 4238,
-  "2023-11-11": 4248,
-  "2023-11-12": 4258,
-  "2023-11-13": 4266,
-  "2023-11-14": 4268,
-  "2023-11-15": 4268,
-  "2023-11-16": 4279,
-  "2023-11-17": 4280,
-  "2023-11-18": 4280,
-  "2023-11-19": 4287,
-  "2023-11-20": 4292,
-  "2023-11-21": 4297,
-  "2023-11-22": 4300,
-  "2023-11-23": 4301,
-  "2023-11-24": 4306,
-  "2023-11-25": 4308,
-  "2023-11-26": 4311,
-  "2023-11-27": 4321,
-  "2023-11-28": 4330,
-  "2023-11-29": 4342,
-  "2023-11-30": 4342,
-  "2023-12-01": 4347,
-  "2023-12-02": 4352,
-  "2023-12-03": 4365,
-  "2023-12-04": 4372,
-  "2023-12-05": 4373,
-  "2023-12-06": 4376,
-  "2023-12-07": 4374,
-  "2023-12-08": 4378,
-  "2023-12-09": 4389,
-  "2023-12-10": 4395,
-  "2023-12-11": 4404,
-  "2023-12-12": 4402,
-  "2023-12-13": 4407,
-  "2023-12-14": 4421,
-  "2023-12-15": 4423,
-  "2023-12-16": 4422,
-  "2023-12-17": 4431,
-  "2023-12-18": 4434,
-  "2023-12-19": 4443,
-  "2023-12-20": 4446,
-  "2023-12-21": 4451,
-  "2023-12-22": 4458,
-  "2023-12-23": 4465,
-  "2023-12-24": 4469,
-  "2023-12-25": 4473,
-  "2023-12-26": 4477,
-  "2023-12-27": 4487,
-  "2023-12-30": 4498,
-  "2023-12-31": 4503,
-  "2024-01-01": 4511,
-  "2024-01-02": 4518,
-  "2024-01-03": 4535
+  "2024-01-17": 4631,
+  "date_first_scraped": "2023-11-04",
+  "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
+  "name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
+  "tracks": [
+    {
+      "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/4vC3FYMFaYyLoG9ROtEGVU"
+    },
+    {
+      "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        },
+        {
+          "name": "HOHYUN",
+          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184028,
+      "name": "Alright!",
+      "url": "https://open.spotify.com/track/5hQICsPlW35Neg3BooISKp"
+    },
+    {
+      "album": {
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 191906,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S"
+    },
+    {
+      "album": {
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
+    },
+    {
+      "album": {
+        "name": "Before the Petals Fall",
+        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "Before the Petals Fall",
+      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
+    },
+    {
+      "album": {
+        "name": "Beyond Love",
+        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188706,
+      "name": "Beyond Love (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "album": {
+        "name": "Burn the Memory (Feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/6T8c5TiOFAOyjPMePQCQ1u"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196040,
+      "name": "Burn the Memory (Feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/4FvDB8RKvxZFpKljmOalwY"
+    },
+    {
+      "album": {
+        "name": "Can you stay (From Semantic Error)",
+        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Can you stay",
+      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
+    },
+    {
+      "album": {
+        "name": "HAAN X Chan : Synergy",
+        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "Peakboy (\ud53d\ubcf4\uc774)",
+          "url": "https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
+      "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
+    },
+    {
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148946,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa"
+    },
+    {
+      "album": {
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+      },
+      "artists": [
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "DA DA!",
+      "url": "https://open.spotify.com/track/6vvoQKMci0NB7Zbo10t61N"
+    },
+    {
+      "album": {
+        "name": "CEO-dol Mart (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181625,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9"
+    },
+    {
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "DEPEND ON YOU",
+      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
+    },
+    {
+      "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "album": {
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "album": {
+        "name": "See You in My 19th Life, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206064,
+      "name": "DOWN (Juicy Juicy)",
+      "url": "https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS"
+    },
+    {
+      "album": {
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164861,
+      "name": "Dream about You",
+      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+    },
+    {
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "album": {
+        "name": "Season Note",
+        "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-08",
+      "duration_ms": 209306,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
+    },
+    {
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+    },
+    {
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
+        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
+    },
+    {
+      "album": {
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
+    },
+    {
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/3IDzkP36HtCnTn3zt4mqpb"
+      },
+      "artists": [
+        {
+          "name": "Seunghui",
+          "url": "https://open.spotify.com/artist/2pUvBa7S10ktiy75OIsxs3"
+        },
+        {
+          "name": "Jiho",
+          "url": "https://open.spotify.com/artist/5k4usYTOytsTDumir9NDEb"
+        },
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5PSdIZyo4lxh8p2SPiPikf"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "album": {
+        "name": "Je N'aime Que Toi",
+        "url": "https://open.spotify.com/album/5yCszfyC8do90AeMrBa5dd"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Je N'aime Que Toi",
+      "url": "https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8"
+    },
+    {
+      "album": {
+        "name": "Let's Love",
+        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        },
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Let's Love",
+      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
+    },
+    {
+      "album": {
+        "name": "lost in you",
+        "url": "https://open.spotify.com/album/6srNs2YcyTHUPtsecgukZ0"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "lost in you",
+      "url": "https://open.spotify.com/track/18tTGSu8hgDb6r5z2C74OA"
+    },
+    {
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197613,
+      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
+    },
+    {
+      "album": {
+        "name": "World Peace Project Vol.2",
+        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220040,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+    },
+    {
+      "album": {
+        "name": "Maybe We Could Be a Thing",
+        "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        },
+        {
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176241,
+      "name": "Maybe We Could Be a Thing",
+      "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "album": {
+        "name": "Our Beloved BoA #4 - SM STATION",
+        "url": "https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217533,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3"
+    },
+    {
+      "album": {
+        "name": "Mm Mm",
+        "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166546,
+      "name": "Mm Mm (Prod. by Cosmic Boy)",
+      "url": "https://open.spotify.com/track/5FQZK2QsHAnu6i2tHpbwpP"
+    },
+    {
+      "album": {
+        "name": "blanc",
+        "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "UNE",
+          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 181495,
+      "name": "Mugshot (Feat. UNE)",
+      "url": "https://open.spotify.com/track/2euKIWbG8ahCaXIcr8RKer"
+    },
+    {
+      "album": {
+        "name": "NO MORE",
+        "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158045,
+      "name": "No More (Prod. Zion.T)",
+      "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
+    },
+    {
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
+    },
+    {
+      "album": {
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "album": {
+        "name": "Picture of you",
+        "url": "https://open.spotify.com/album/3WLs3in6kQskYA2bKsYQa9"
+      },
+      "artists": [
+        {
+          "name": "J.BASS",
+          "url": "https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln"
+        },
+        {
+          "name": "Hwang Moon Seob",
+          "url": "https://open.spotify.com/artist/0a9CLtjf2oj3OooJA0ZbTr"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178232,
+      "name": "Picture of You",
+      "url": "https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU"
+    },
+    {
+      "album": {
+        "name": "Pink!",
+        "url": "https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Pink!",
+      "url": "https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM"
+    },
+    {
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
+    },
+    {
+      "album": {
+        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257471,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
+    },
+    {
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "album": {
+        "name": "SummerSweet",
+        "url": "https://open.spotify.com/album/3djCKvCgZmdaM7aB3QlbwU"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "SummerSweet",
+      "url": "https://open.spotify.com/track/6eFTJraZWhyEmFa6Fx3MnZ"
+    },
+    {
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-13",
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229953,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197795,
+      "name": "TFW (That Feeling When)",
+      "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
+    },
+    {
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213377,
+      "name": "Thief (Feat. MINNIE of (G)I-DLE)",
+      "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
+    },
+    {
+      "album": {
+        "name": "Twenty (Prod. Jung Key)",
+        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
+      },
+      "artists": [
+        {
+          "name": "SWAN",
+          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219653,
+      "name": "Twenty (Prod. Jung Key)",
+      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
+    },
+    {
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
+    },
+    {
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "You Move Me (feat. SUNG SI KYUNG)",
+      "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
+    },
+    {
+      "album": {
+        "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
+        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255297,
+      "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
+      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY9pVDnNPGPE"
 }

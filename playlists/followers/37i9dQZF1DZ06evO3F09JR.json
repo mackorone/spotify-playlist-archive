@@ -1,580 +1,2135 @@
 {
-  "2022-05-30": 708,
-  "2022-05-31": 709,
-  "2022-06-01": 712,
-  "2022-06-02": 712,
-  "2022-06-03": 713,
-  "2022-06-04": 713,
-  "2022-06-05": 716,
-  "2022-06-06": 717,
-  "2022-06-07": 721,
-  "2022-06-08": 721,
-  "2022-06-09": 720,
-  "2022-06-10": 721,
-  "2022-06-11": 721,
-  "2022-06-12": 723,
-  "2022-06-13": 724,
-  "2022-06-14": 726,
-  "2022-06-15": 726,
-  "2022-06-16": 727,
-  "2022-06-17": 729,
-  "2022-06-18": 731,
-  "2022-06-19": 734,
-  "2022-06-20": 734,
-  "2022-06-21": 735,
-  "2022-06-22": 738,
-  "2022-06-23": 738,
-  "2022-06-24": 738,
-  "2022-06-25": 738,
-  "2022-06-26": 738,
-  "2022-06-27": 738,
-  "2022-06-28": 739,
-  "2022-06-29": 740,
-  "2022-06-30": 741,
-  "2022-07-01": 742,
-  "2022-07-02": 744,
-  "2022-07-03": 745,
-  "2022-07-04": 745,
-  "2022-07-05": 745,
-  "2022-07-06": 745,
-  "2022-07-07": 749,
-  "2022-07-08": 749,
-  "2022-07-09": 752,
-  "2022-07-10": 753,
-  "2022-07-11": 754,
-  "2022-07-12": 754,
-  "2022-07-13": 754,
-  "2022-07-14": 754,
-  "2022-07-15": 754,
-  "2022-07-16": 754,
-  "2022-07-17": 755,
-  "2022-07-18": 757,
-  "2022-07-19": 756,
-  "2022-07-20": 760,
-  "2022-07-21": 761,
-  "2022-07-22": 761,
-  "2022-07-23": 761,
-  "2022-07-24": 762,
-  "2022-07-25": 760,
-  "2022-07-26": 760,
-  "2022-07-27": 759,
-  "2022-07-28": 760,
-  "2022-07-29": 761,
-  "2022-07-30": 763,
-  "2022-07-31": 763,
-  "2022-08-01": 765,
-  "2022-08-02": 763,
-  "2022-08-03": 763,
-  "2022-08-04": 765,
-  "2022-08-05": 767,
-  "2022-08-06": 769,
-  "2022-08-07": 772,
-  "2022-08-08": 772,
-  "2022-08-09": 776,
-  "2022-08-10": 778,
-  "2022-08-11": 779,
-  "2022-08-12": 782,
-  "2022-08-13": 784,
-  "2022-08-14": 784,
-  "2022-08-15": 784,
-  "2022-08-16": 784,
-  "2022-08-17": 786,
-  "2022-08-18": 788,
-  "2022-08-19": 788,
-  "2022-08-20": 788,
-  "2022-08-21": 790,
-  "2022-08-22": 790,
-  "2022-08-23": 789,
-  "2022-08-24": 790,
-  "2022-08-25": 790,
-  "2022-08-26": 790,
-  "2022-08-27": 790,
-  "2022-08-28": 790,
-  "2022-08-29": 790,
-  "2022-08-30": 790,
-  "2022-08-31": 790,
-  "2022-09-01": 790,
-  "2022-09-02": 791,
-  "2022-09-03": 791,
-  "2022-09-04": 792,
-  "2022-09-05": 794,
-  "2022-09-06": 794,
-  "2022-09-07": 794,
-  "2022-09-09": 796,
-  "2022-09-10": 797,
-  "2022-09-11": 797,
-  "2022-09-12": 801,
-  "2022-09-13": 800,
-  "2022-09-15": 805,
-  "2022-09-16": 806,
-  "2022-09-17": 806,
-  "2022-09-18": 804,
-  "2022-09-19": 805,
-  "2022-09-20": 805,
-  "2022-09-21": 806,
-  "2022-09-22": 808,
-  "2022-09-23": 807,
-  "2022-09-24": 807,
-  "2022-09-25": 808,
-  "2022-09-26": 809,
-  "2022-09-27": 810,
-  "2022-09-28": 809,
-  "2022-09-29": 809,
-  "2022-09-30": 810,
-  "2022-10-01": 810,
-  "2022-10-02": 812,
-  "2022-10-03": 814,
-  "2022-10-04": 815,
-  "2022-10-05": 815,
-  "2022-10-06": 815,
-  "2022-10-07": 816,
-  "2022-10-08": 817,
-  "2022-10-09": 817,
-  "2022-10-10": 817,
-  "2022-10-11": 817,
-  "2022-10-12": 817,
-  "2022-10-13": 820,
-  "2022-10-14": 822,
-  "2022-10-15": 823,
-  "2022-10-16": 829,
-  "2022-10-17": 832,
-  "2022-10-18": 836,
-  "2022-10-19": 835,
-  "2022-10-20": 835,
-  "2022-10-21": 836,
-  "2022-10-22": 837,
-  "2022-10-23": 838,
-  "2022-10-24": 838,
-  "2022-10-25": 841,
-  "2022-10-26": 842,
-  "2022-10-27": 841,
-  "2022-10-28": 843,
-  "2022-10-29": 843,
-  "2022-10-30": 847,
-  "2022-10-31": 849,
-  "2022-11-01": 850,
-  "2022-11-02": 851,
-  "2022-11-03": 853,
-  "2022-11-04": 855,
-  "2022-11-05": 856,
-  "2022-11-06": 857,
-  "2022-11-07": 859,
-  "2022-11-08": 858,
-  "2022-11-09": 859,
-  "2022-11-10": 860,
-  "2022-11-11": 860,
-  "2022-11-12": 860,
-  "2022-11-13": 861,
-  "2022-11-14": 861,
-  "2022-11-15": 863,
-  "2022-11-16": 865,
-  "2022-11-17": 865,
-  "2022-11-18": 868,
-  "2022-11-19": 868,
-  "2022-11-20": 869,
-  "2022-11-21": 869,
-  "2022-11-22": 869,
-  "2022-11-23": 872,
-  "2022-11-24": 873,
-  "2022-11-25": 879,
-  "2022-11-26": 880,
-  "2022-11-27": 879,
-  "2022-11-28": 882,
-  "2022-11-29": 882,
-  "2022-11-30": 884,
-  "2022-12-01": 885,
-  "2022-12-02": 885,
-  "2022-12-03": 884,
-  "2022-12-04": 885,
-  "2022-12-05": 886,
-  "2022-12-06": 887,
-  "2022-12-07": 887,
-  "2022-12-08": 888,
-  "2022-12-09": 889,
-  "2022-12-10": 889,
-  "2022-12-11": 888,
-  "2022-12-12": 888,
-  "2022-12-13": 889,
-  "2022-12-14": 889,
-  "2022-12-15": 890,
-  "2022-12-16": 892,
-  "2022-12-17": 893,
-  "2022-12-18": 895,
-  "2022-12-19": 897,
-  "2022-12-20": 897,
-  "2022-12-21": 897,
-  "2022-12-22": 899,
-  "2022-12-24": 899,
-  "2022-12-25": 899,
-  "2022-12-26": 898,
-  "2022-12-27": 900,
-  "2022-12-28": 903,
-  "2022-12-29": 903,
-  "2022-12-30": 904,
-  "2022-12-31": 903,
-  "2023-01-01": 903,
-  "2023-01-02": 904,
-  "2023-01-03": 904,
-  "2023-01-04": 904,
-  "2023-01-05": 906,
-  "2023-01-06": 906,
-  "2023-01-07": 911,
-  "2023-01-08": 911,
-  "2023-01-09": 911,
-  "2023-01-10": 911,
-  "2023-01-11": 911,
-  "2023-01-12": 914,
-  "2023-01-13": 914,
-  "2023-01-14": 915,
-  "2023-01-15": 916,
-  "2023-01-16": 916,
-  "2023-01-17": 915,
-  "2023-01-18": 915,
-  "2023-01-19": 916,
-  "2023-01-20": 918,
-  "2023-01-21": 919,
-  "2023-01-22": 919,
-  "2023-01-23": 921,
-  "2023-01-24": 924,
-  "2023-01-25": 925,
-  "2023-01-26": 925,
-  "2023-01-27": 926,
-  "2023-01-28": 925,
-  "2023-01-29": 925,
-  "2023-01-30": 925,
-  "2023-01-31": 925,
-  "2023-02-01": 928,
-  "2023-02-02": 928,
-  "2023-02-03": 928,
-  "2023-02-04": 930,
-  "2023-02-05": 930,
-  "2023-02-06": 930,
-  "2023-02-07": 931,
-  "2023-02-08": 932,
-  "2023-02-09": 932,
-  "2023-02-10": 933,
-  "2023-02-11": 933,
-  "2023-02-12": 933,
-  "2023-02-13": 933,
-  "2023-02-14": 933,
-  "2023-02-15": 934,
-  "2023-02-16": 934,
-  "2023-02-17": 935,
-  "2023-02-18": 938,
-  "2023-02-19": 938,
-  "2023-02-20": 939,
-  "2023-02-21": 939,
-  "2023-02-22": 939,
-  "2023-02-23": 938,
-  "2023-02-24": 938,
-  "2023-02-25": 939,
-  "2023-02-26": 940,
-  "2023-02-27": 940,
-  "2023-02-28": 940,
-  "2023-03-01": 939,
-  "2023-03-02": 940,
-  "2023-03-03": 940,
-  "2023-03-04": 940,
-  "2023-03-05": 940,
-  "2023-03-06": 940,
-  "2023-03-07": 942,
-  "2023-03-08": 943,
-  "2023-03-09": 945,
-  "2023-03-10": 945,
-  "2023-03-11": 945,
-  "2023-03-12": 944,
-  "2023-03-13": 944,
-  "2023-03-14": 943,
-  "2023-03-15": 943,
-  "2023-03-16": 943,
-  "2023-03-17": 943,
-  "2023-03-18": 945,
-  "2023-03-19": 945,
-  "2023-03-20": 947,
-  "2023-03-21": 948,
-  "2023-03-22": 948,
-  "2023-03-23": 949,
-  "2023-03-24": 949,
-  "2023-03-25": 951,
-  "2023-03-26": 952,
-  "2023-03-27": 952,
-  "2023-03-28": 952,
-  "2023-03-29": 954,
-  "2023-03-30": 955,
-  "2023-03-31": 955,
-  "2023-04-01": 956,
-  "2023-04-02": 956,
-  "2023-04-03": 956,
-  "2023-04-04": 956,
-  "2023-04-05": 955,
-  "2023-04-06": 954,
-  "2023-04-07": 954,
-  "2023-04-09": 957,
-  "2023-04-10": 957,
-  "2023-04-11": 957,
-  "2023-04-12": 957,
-  "2023-04-13": 958,
-  "2023-04-14": 957,
-  "2023-04-15": 959,
-  "2023-04-16": 960,
-  "2023-04-17": 961,
-  "2023-04-18": 961,
-  "2023-04-19": 962,
-  "2023-04-20": 961,
-  "2023-04-21": 961,
-  "2023-04-22": 961,
-  "2023-04-23": 962,
-  "2023-04-24": 963,
-  "2023-04-25": 966,
-  "2023-04-26": 966,
-  "2023-04-27": 967,
-  "2023-04-28": 968,
-  "2023-04-29": 968,
-  "2023-04-30": 968,
-  "2023-05-01": 969,
-  "2023-05-02": 971,
-  "2023-05-03": 972,
-  "2023-05-04": 973,
-  "2023-05-05": 974,
-  "2023-05-06": 974,
-  "2023-05-07": 975,
-  "2023-05-08": 976,
-  "2023-05-09": 976,
-  "2023-05-10": 976,
-  "2023-05-11": 976,
-  "2023-05-12": 977,
-  "2023-05-13": 977,
-  "2023-05-14": 979,
-  "2023-05-15": 981,
-  "2023-05-16": 982,
-  "2023-05-17": 987,
-  "2023-05-18": 987,
-  "2023-05-19": 987,
-  "2023-05-20": 988,
-  "2023-05-21": 988,
-  "2023-05-22": 988,
-  "2023-05-23": 991,
-  "2023-05-24": 991,
-  "2023-05-25": 991,
-  "2023-05-26": 992,
-  "2023-05-27": 992,
-  "2023-05-28": 992,
-  "2023-05-29": 992,
-  "2023-05-30": 993,
-  "2023-05-31": 992,
-  "2023-06-01": 993,
-  "2023-06-02": 993,
-  "2023-06-03": 994,
-  "2023-06-04": 996,
-  "2023-06-05": 997,
-  "2023-06-06": 997,
-  "2023-06-07": 997,
-  "2023-06-08": 997,
-  "2023-06-09": 997,
-  "2023-06-10": 997,
-  "2023-06-11": 997,
-  "2023-06-12": 997,
-  "2023-06-13": 999,
-  "2023-06-14": 999,
-  "2023-06-15": 1003,
-  "2023-06-16": 1003,
-  "2023-06-17": 1003,
-  "2023-06-18": 1004,
-  "2023-06-19": 1004,
-  "2023-06-20": 1004,
-  "2023-06-21": 1003,
-  "2023-06-22": 1004,
-  "2023-06-23": 1006,
-  "2023-06-24": 1006,
-  "2023-06-25": 1007,
-  "2023-06-26": 1007,
-  "2023-06-27": 1008,
-  "2023-06-28": 1008,
-  "2023-06-29": 1007,
-  "2023-06-30": 1009,
-  "2023-07-01": 1010,
-  "2023-07-02": 1010,
-  "2023-07-03": 1010,
-  "2023-07-04": 1011,
-  "2023-07-05": 1012,
-  "2023-07-06": 1013,
-  "2023-07-07": 1013,
-  "2023-07-08": 1013,
-  "2023-07-09": 1015,
-  "2023-07-10": 1015,
-  "2023-07-11": 1018,
-  "2023-07-12": 1018,
-  "2023-07-13": 1019,
-  "2023-07-14": 1020,
-  "2023-07-15": 1020,
-  "2023-07-16": 1021,
-  "2023-07-17": 1020,
-  "2023-07-18": 1020,
-  "2023-07-19": 1023,
-  "2023-07-20": 1023,
-  "2023-07-21": 1023,
-  "2023-07-22": 1022,
-  "2023-07-23": 1022,
-  "2023-07-24": 1024,
-  "2023-07-25": 1026,
-  "2023-07-26": 1026,
-  "2023-07-27": 1026,
-  "2023-07-28": 1028,
-  "2023-07-29": 1029,
-  "2023-07-30": 1031,
-  "2023-07-31": 1032,
-  "2023-08-01": 1031,
-  "2023-08-02": 1031,
-  "2023-08-03": 1034,
-  "2023-08-04": 1036,
-  "2023-08-05": 1037,
-  "2023-08-06": 1039,
-  "2023-08-07": 1039,
-  "2023-08-08": 1039,
-  "2023-08-09": 1038,
-  "2023-08-10": 1040,
-  "2023-08-11": 1040,
-  "2023-08-12": 1040,
-  "2023-08-13": 1040,
-  "2023-08-14": 1044,
-  "2023-08-15": 1044,
-  "2023-08-16": 1044,
-  "2023-08-17": 1044,
-  "2023-08-18": 1044,
-  "2023-08-19": 1044,
-  "2023-08-20": 1050,
-  "2023-08-21": 1050,
-  "2023-08-22": 1052,
-  "2023-08-23": 1052,
-  "2023-08-24": 1052,
-  "2023-08-25": 1052,
-  "2023-08-26": 1059,
-  "2023-08-27": 1059,
-  "2023-08-28": 1060,
-  "2023-08-29": 1060,
-  "2023-08-30": 1060,
-  "2023-08-31": 1063,
-  "2023-09-01": 1066,
-  "2023-09-02": 1066,
-  "2023-09-03": 1066,
-  "2023-09-04": 1066,
-  "2023-09-05": 1066,
-  "2023-09-06": 1066,
-  "2023-09-07": 1066,
-  "2023-09-08": 1066,
-  "2023-09-09": 1066,
-  "2023-09-10": 1066,
-  "2023-09-11": 1066,
-  "2023-09-12": 1066,
-  "2023-09-13": 1066,
-  "2023-09-14": 1066,
-  "2023-09-15": 1066,
-  "2023-09-16": 1076,
-  "2023-09-17": 1076,
-  "2023-09-18": 1076,
-  "2023-09-19": 1079,
-  "2023-09-20": 1079,
-  "2023-09-21": 1079,
-  "2023-09-22": 1084,
-  "2023-09-23": 1084,
-  "2023-09-24": 1084,
-  "2023-09-25": 1084,
-  "2023-09-26": 1089,
-  "2023-09-27": 1089,
-  "2023-09-28": 1089,
-  "2023-09-29": 1089,
-  "2023-09-30": 1089,
-  "2023-10-01": 1089,
-  "2023-10-02": 1089,
-  "2023-10-03": 1089,
-  "2023-10-04": 1089,
-  "2023-10-05": 1089,
-  "2023-10-06": 1089,
-  "2023-10-07": 1089,
-  "2023-10-08": 1089,
-  "2023-10-09": 1089,
-  "2023-10-10": 1089,
-  "2023-10-11": 1099,
-  "2023-10-12": 1099,
-  "2023-10-13": 1099,
-  "2023-10-14": 1099,
-  "2023-10-15": 1099,
-  "2023-10-16": 1099,
-  "2023-10-17": 1099,
-  "2023-10-18": 1099,
-  "2023-10-19": 1099,
-  "2023-10-20": 1099,
-  "2023-10-21": 1099,
-  "2023-10-22": 1099,
-  "2023-10-23": 1099,
-  "2023-10-24": 1099,
-  "2023-10-25": 1099,
-  "2023-10-26": 1099,
-  "2023-10-27": 1099,
-  "2023-10-28": 1099,
-  "2023-10-29": 1099,
-  "2023-10-30": 1099,
-  "2023-10-31": 1099,
-  "2023-11-01": 1099,
-  "2023-11-02": 1099,
-  "2023-11-03": 1099,
-  "2023-11-04": 1099,
-  "2023-11-05": 1099,
-  "2023-11-06": 1099,
-  "2023-11-07": 1099,
-  "2023-11-08": 1099,
-  "2023-11-09": 1099,
-  "2023-11-10": 1099,
-  "2023-11-11": 1116,
-  "2023-11-12": 1116,
-  "2023-11-13": 1116,
-  "2023-11-14": 1116,
-  "2023-11-15": 1116,
-  "2023-11-16": 1116,
-  "2023-11-17": 1116,
-  "2023-11-18": 1116,
-  "2023-11-19": 1116,
-  "2023-11-20": 1116,
-  "2023-11-21": 1116,
-  "2023-11-22": 1116,
-  "2023-11-23": 1116,
-  "2023-11-24": 1116,
-  "2023-11-25": 1116,
-  "2023-11-26": 1116,
-  "2023-11-27": 1116,
-  "2023-11-28": 1116,
-  "2023-11-29": 1116,
-  "2023-11-30": 1116,
-  "2023-12-01": 1116,
-  "2023-12-02": 1116,
-  "2023-12-03": 1116,
-  "2023-12-04": 1116,
-  "2023-12-05": 1116,
-  "2023-12-06": 1116,
-  "2023-12-07": 1116,
-  "2023-12-08": 1116,
-  "2023-12-09": 1116,
-  "2023-12-10": 1116,
-  "2023-12-11": 1116,
-  "2023-12-12": 1116,
-  "2023-12-13": 1116,
-  "2023-12-14": 1150,
-  "2023-12-15": 1150,
-  "2023-12-16": 1151,
-  "2023-12-17": 1152,
-  "2023-12-18": 1152,
-  "2023-12-19": 1153,
-  "2023-12-20": 1155,
-  "2023-12-21": 1157,
-  "2023-12-22": 1156,
-  "2023-12-23": 1156,
-  "2023-12-24": 1157,
-  "2023-12-25": 1159,
-  "2023-12-26": 1159,
-  "2023-12-27": 1163,
-  "2023-12-30": 1165,
-  "2023-12-31": 1165,
-  "2024-01-01": 1165,
-  "2024-01-02": 1165,
-  "2024-01-03": 1166
+  "2024-01-17": 1181,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Alessandro Cortini. The essential tracks, all in one playlist.",
+  "name": "This Is Alessandro Cortini",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alessandro Cortini/Merzbow",
+        "url": "https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Merzbow",
+          "url": "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 288508,
+      "name": "AAMC",
+      "url": "https://open.spotify.com/track/3Xa5eV6Ct9fR2e2QXRa3oe"
+    },
+    {
+      "album": {
+        "name": "Alessandro Cortini/Merzbow",
+        "url": "https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Merzbow",
+          "url": "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 1363063,
+      "name": "ACMA",
+      "url": "https://open.spotify.com/track/1c7jZViK1RDHr9WOZzIvCV"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360072,
+      "name": "AMARO AMORE",
+      "url": "https://open.spotify.com/track/1Vs7jfCcvA5KFhbhLyvRYy"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 360072,
+      "name": "AMARO AMORE",
+      "url": "https://open.spotify.com/track/34aLJYyLaPXQoQEa2rls0a"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 302923,
+      "name": "AMORE AMARO",
+      "url": "https://open.spotify.com/track/2XkS3JibKUeLfIHzZm3ALd"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302923,
+      "name": "AMORE AMARO",
+      "url": "https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207920,
+      "name": "At First Sight",
+      "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
+    },
+    {
+      "album": {
+        "name": "Baresi",
+        "url": "https://open.spotify.com/album/0sBNgCtkmhq1eC7RR3UQ1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 294424,
+      "name": "Baresi",
+      "url": "https://open.spotify.com/track/3X0GKQRNLjVjNs3E5z695C"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315448,
+      "name": "BATTICUORE",
+      "url": "https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 315448,
+      "name": "BATTICUORE",
+      "url": "https://open.spotify.com/track/3mg0MOrXktHGEKhnNOT4h2"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 177720,
+      "name": "Behind Enemy Lines",
+      "url": "https://open.spotify.com/track/259aWf01uewSao9r9oBYP6"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 189333,
+      "name": "Black Hawks Down",
+      "url": "https://open.spotify.com/track/5SighFSFYzN69U4L7JhDLT"
+    },
+    {
+      "album": {
+        "name": "Bushido (Alessandro Cortini Re-Work)",
+        "url": "https://open.spotify.com/album/4bKDoYcDByQOhJvqoNgOsE"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Bushido (Alessandro Cortini Re-Work)",
+      "url": "https://open.spotify.com/track/00McKa13pdr3JQIaMHtsW6"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228626,
+      "name": "CC Pad",
+      "url": "https://open.spotify.com/track/5fQUBfDG5EZB5GcyiX8bRE"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476689,
+      "name": "CHIAROSCURO",
+      "url": "https://open.spotify.com/track/2n562udKyZbrdhQqtkIW8b"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 476689,
+      "name": "CHIAROSCURO",
+      "url": "https://open.spotify.com/track/3u640e6SGAEN0jkSIrPUcT"
+    },
+    {
+      "album": {
+        "name": "Alessandro Cortini/Merzbow",
+        "url": "https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Merzbow",
+          "url": "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 601426,
+      "name": "CMAA",
+      "url": "https://open.spotify.com/track/4ThWypGQKfkB07EoT1HkaK"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
+      "duration_ms": 257897,
+      "name": "CORRI",
+      "url": "https://open.spotify.com/track/1HfGfzqzd0zhXuIntkqqAq"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257897,
+      "name": "CORRI",
+      "url": "https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 173320,
+      "name": "Darkened Skies",
+      "url": "https://open.spotify.com/track/1MUsuNmzi1f8KvtvkB5AI6"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270604,
+      "name": "ECCO",
+      "url": "https://open.spotify.com/track/2zplGQ1MtHa4dMtGtRGpmS"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 270604,
+      "name": "ECCO",
+      "url": "https://open.spotify.com/track/37XnCTDFEs3K78dd0l722e"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328666,
+      "name": "Enter Exit",
+      "url": "https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 198670,
+      "name": "FIAMMA",
+      "url": "https://open.spotify.com/track/1KE0L2k11dJjpA6aDmRAId"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 198670,
+      "name": "FIAMMA",
+      "url": "https://open.spotify.com/track/7HcOxnmRUWI6t7GNKDAs7P"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 113066,
+      "name": "Finding Erewhon",
+      "url": "https://open.spotify.com/track/3dtVq79rjgIg5YF2VxJfSE"
+    },
+    {
+      "album": {
+        "name": "Nordic Flora Series, Pt. 3: Gore-Tex City",
+        "url": "https://open.spotify.com/album/02y1isyvMiP2I0no5y14aU"
+      },
+      "artists": [
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Drew McDowall",
+          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Fonus",
+      "url": "https://open.spotify.com/track/4JcfBaIDwUqeIQVSw8m063"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106866,
+      "name": "Forgotten Paths",
+      "url": "https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 245080,
+      "name": "From the Shadows",
+      "url": "https://open.spotify.com/track/2xzqqkdSOL9SKP6Qx34Iti"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57946,
+      "name": "Heart of the Volcano",
+      "url": "https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae"
+    },
+    {
+      "album": {
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/3qABNj1U8xKRORwWRkLEuw"
+      },
+      "artists": [
+        {
+          "name": "Roll the Dice",
+          "url": "https://open.spotify.com/artist/64Ub5tUgRolfKc6HgoSEzv"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361806,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/4O8FJIzm4sVtbs7bKvbN1j"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 170146,
+      "name": "I am a Ghost",
+      "url": "https://open.spotify.com/track/78a0zhjTEEHeALuCLsJLCS"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262373,
+      "name": "Illusion Of Time",
+      "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time (Teodor Wolgers Rework)",
+        "url": "https://open.spotify.com/album/0yF4JzJ0a96qaWLLhE9zcp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 215946,
+      "name": "Illusion Of Time - Teodor Wolgers Rework",
+      "url": "https://open.spotify.com/track/6uZ7HlryD5c0IU65ANbaj2"
+    },
+    {
+      "album": {
+        "name": "Immediate Horizon",
+        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299196,
+      "name": "Immediate Horizon 1",
+      "url": "https://open.spotify.com/track/3FaAMSO4RytHjUQ2CKUprQ"
+    },
+    {
+      "album": {
+        "name": "Immediate Horizon",
+        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367529,
+      "name": "Immediate Horizon 2",
+      "url": "https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs"
+    },
+    {
+      "album": {
+        "name": "Immediate Horizon",
+        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527193,
+      "name": "Immediate Horizon 3",
+      "url": "https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe"
+    },
+    {
+      "album": {
+        "name": "Immediate Horizon",
+        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 719507,
+      "name": "Immediate Horizon 4",
+      "url": "https://open.spotify.com/track/3sVoD2TNyGarLfFMKAHSVi"
+    },
+    {
+      "album": {
+        "name": "Immediate Horizon",
+        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383599,
+      "name": "Immediate Horizon 5",
+      "url": "https://open.spotify.com/track/5XGszMhQLTPpMhvL5Q3EaU"
+    },
+    {
+      "album": {
+        "name": "Iniziare",
+        "url": "https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342395,
+      "name": "Iniziare",
+      "url": "https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 216573,
+      "name": "Inside Restricted Area 01",
+      "url": "https://open.spotify.com/track/15tBrmd4jV9lRHCFtd4lDX"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 369546,
+      "name": "Inside The Ruins",
+      "url": "https://open.spotify.com/track/35ZNF2MIZ0QsYK1tGcONKJ"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114413,
+      "name": "Interrupted By The Cloud Of Light",
+      "url": "https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 342645,
+      "name": "LA STORIA",
+      "url": "https://open.spotify.com/track/1zNwVaR5uKDJTtrWssSMwc"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 342645,
+      "name": "LA STORIA",
+      "url": "https://open.spotify.com/track/3OwdOsj1MA6ut2aiqY46Ir"
+    },
+    {
+      "album": {
+        "name": "Scacco al Maestro - Volume 2",
+        "url": "https://open.spotify.com/album/67xUiBAxO2Mri7wxHd2Ulz"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 279413,
+      "name": "La tarantola dal ventre nero",
+      "url": "https://open.spotify.com/track/1yicvjJVBy78161FcNOXID"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 308813,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/1jHZ8q4QPVHaxunYsrScnR"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308813,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313543,
+      "name": "LO SPECCHIO",
+      "url": "https://open.spotify.com/track/5UsGULCoSIl588deHBqgFi"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 313543,
+      "name": "LO SPECCHIO",
+      "url": "https://open.spotify.com/track/7xhIDJMutxbf3iwtHi4wbI"
+    },
+    {
+      "album": {
+        "name": "Alessandro Cortini/Merzbow",
+        "url": "https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Merzbow",
+          "url": "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 1019203,
+      "name": "MAAC",
+      "url": "https://open.spotify.com/track/4Bq7pjMWPLLyto3F1nfw46"
+    },
+    {
+      "album": {
+        "name": "Alessandro Cortini/Merzbow",
+        "url": "https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Merzbow",
+          "url": "https://open.spotify.com/artist/5UezsklPScipW64XJm7qql"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 1234851,
+      "name": "MCAA",
+      "url": "https://open.spotify.com/track/4VoHOltKFlMuiMHbMEwH91"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 210720,
+      "name": "Megalomania",
+      "url": "https://open.spotify.com/track/6UCmtZZKwMKnzKcPEtUKcy"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 359444,
+      "name": "MOMENTI",
+      "url": "https://open.spotify.com/track/5Lo1qAr11682vpR8b74N4i"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359444,
+      "name": "MOMENTI",
+      "url": "https://open.spotify.com/track/6eLxFBOAUkoru90HVkacyO"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 98186,
+      "name": "Mourning the Fallen",
+      "url": "https://open.spotify.com/track/5oblJwpXzETf1DGPAeXXOg"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490870,
+      "name": "NESSUNO",
+      "url": "https://open.spotify.com/track/31wrcWjDXqJG1ix2GgHlyu"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 490870,
+      "name": "NESSUNO",
+      "url": "https://open.spotify.com/track/67pkFDREsQbXENCn57fbuj"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 136080,
+      "name": "Operation Citadel",
+      "url": "https://open.spotify.com/track/1dqLUaHIVw3VTCSu5mDw6W"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 203866,
+      "name": "Panther",
+      "url": "https://open.spotify.com/track/4EeoyH0Uh9VEkUn6dqVtCw"
+    },
+    {
+      "album": {
+        "name": "Perdonare",
+        "url": "https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292517,
+      "name": "Perdonare",
+      "url": "https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG"
+    },
+    {
+      "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297527,
+      "name": "Prima Emosfera",
+      "url": "https://open.spotify.com/track/6fgz4BRCyxBEnCrnOATDup"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Quantum Impact",
+      "url": "https://open.spotify.com/track/66vgYZLhHlqOynKYNTcMQn"
+    },
+    {
+      "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384657,
+      "name": "Quarta Emosfera",
+      "url": "https://open.spotify.com/track/4jv2QHX1EK7iSYT395wGeU"
+    },
+    {
+      "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461298,
+      "name": "Quinta Emosfera",
+      "url": "https://open.spotify.com/track/7dNWIGQs3AjqUWd1TdVg6V"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 219133,
+      "name": "Resist and Protect",
+      "url": "https://open.spotify.com/track/2BQWKfwYxK27HYmmcXQVTf"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 180920,
+      "name": "Retaliation",
+      "url": "https://open.spotify.com/track/5kScxhOPotAJiwbKWbM5NN"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343169,
+      "name": "SABBIA",
+      "url": "https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P"
+    },
+    {
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
+      "duration_ms": 343169,
+      "name": "SABBIA",
+      "url": "https://open.spotify.com/track/7GJpnJs4sEzrEaCWQY90Hs"
+    },
+    {
+      "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338434,
+      "name": "Seconda Emosfera",
+      "url": "https://open.spotify.com/track/2swOxJgEdleBGXTQiAOKQW"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218493,
+      "name": "Secrets of Golem Island",
+      "url": "https://open.spotify.com/track/44XbZoz0X4cKAScjpamfTb"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 515693,
+      "name": "SEMPRE",
+      "url": "https://open.spotify.com/track/1EXGsJtPkiUu90OkRTg4FY"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 515693,
+      "name": "SEMPRE",
+      "url": "https://open.spotify.com/track/7MJPlPyGxMsEehq3BgJsRE"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 185893,
+      "name": "Sentinels on Patrol",
+      "url": "https://open.spotify.com/track/1CORVHstYrHGOx7YLqZLFP"
+    },
+    {
+      "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463644,
+      "name": "Sesta Emosfera",
+      "url": "https://open.spotify.com/track/1buvtoupRp3gJfICXlHyZv"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102826,
+      "name": "Space Channel",
+      "url": "https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO"
+    },
+    {
+      "album": {
+        "name": "Spettri",
+        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518000,
+      "name": "Spettro I",
+      "url": "https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX"
+    },
+    {
+      "album": {
+        "name": "Spettri",
+        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488000,
+      "name": "Spettro II",
+      "url": "https://open.spotify.com/track/4fOacmPnsko7toPFVFHrgF"
+    },
+    {
+      "album": {
+        "name": "Spettri",
+        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508000,
+      "name": "Spettro III",
+      "url": "https://open.spotify.com/track/4dfKvKF398PyHCayVWUJBw"
+    },
+    {
+      "album": {
+        "name": "Spettri",
+        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Spettro IV",
+      "url": "https://open.spotify.com/track/7ayAahQbikfOt4KQ3lE9n6"
+    },
+    {
+      "album": {
+        "name": "Spettri",
+        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560000,
+      "name": "Spettro V",
+      "url": "https://open.spotify.com/track/42Lyb3FNr9Ezcspvo5A61l"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 246773,
+      "name": "Splinter Hell",
+      "url": "https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 118546,
+      "name": "Standing Vigilant",
+      "url": "https://open.spotify.com/track/0JbyJNFiUr6HHhJHYzYoga"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 313493,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/7676v3sYbrRj3gMncWzuvg"
+    },
+    {
+      "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414000,
+      "name": "Terza Emosfera",
+      "url": "https://open.spotify.com/track/45f3DBQNeenVkDNSvMfc9q"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 239306,
+      "name": "The Arrow",
+      "url": "https://open.spotify.com/track/05Q3tJhlDyHaQYKs8B6fsy"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 242080,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/4063F8GXIbDF6ioE144Gte"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 82240,
+      "name": "The Goliath",
+      "url": "https://open.spotify.com/track/3BPYSSsURFB3PHfn8VKx3I"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "The Hunt Begins",
+      "url": "https://open.spotify.com/track/21CJdaJkRDMz2UA3tNxORl"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 202600,
+      "name": "The Long Road",
+      "url": "https://open.spotify.com/track/1rfCCZxJcU1UA9oRfKLF8e"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55000,
+      "name": "To Live Another Day",
+      "url": "https://open.spotify.com/track/0uDw3vdZfUWIejxagpJEnC"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 57386,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4WMpCrohpDg6X9CP0zKcVh"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-28",
+      "duration_ms": 302834,
+      "name": "VERDE",
+      "url": "https://open.spotify.com/track/5ea8mvk7bTU7tUqCEWuRbn"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302834,
+      "name": "VERDE",
+      "url": "https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl"
+    },
+    {
+      "album": {
+        "name": "Vincere",
+        "url": "https://open.spotify.com/album/0QOiZ7kmSuZ1FwsDYxYr93"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447883,
+      "name": "Vincere",
+      "url": "https://open.spotify.com/track/2bCJY4qvQtBKa6r47i2vem"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 151106,
+      "name": "Walk with the Wolves",
+      "url": "https://open.spotify.com/track/5kqqAPXLsolWJ5lnIIejbV"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 527120,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/42V1mTUau3OIFKrBCMTrjV"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 73960,
+      "name": "Winds in the Misty Ridge",
+      "url": "https://open.spotify.com/track/3RmhZyWCQHnHBM2itlcMF4"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 195573,
+      "name": "Wonders of Auroa",
+      "url": "https://open.spotify.com/track/2FHmXp9zuzIjypetX5M124"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F09JR"
 }

@@ -1,717 +1,1057 @@
 {
-  "2022-01-12": 27397,
-  "2022-01-13": 31798,
-  "2022-01-14": 32662,
-  "2022-01-15": 32923,
-  "2022-01-16": 32924,
-  "2022-01-17": 32950,
-  "2022-01-18": 32950,
-  "2022-01-19": 32954,
-  "2022-01-20": 32957,
-  "2022-01-21": 32951,
-  "2022-01-22": 32950,
-  "2022-01-23": 32943,
-  "2022-01-24": 32943,
-  "2022-01-25": 32943,
-  "2022-01-26": 32938,
-  "2022-01-27": 32937,
-  "2022-01-28": 32935,
-  "2022-01-29": 32929,
-  "2022-01-30": 32926,
-  "2022-01-31": 32924,
-  "2022-02-01": 32921,
-  "2022-02-02": 32919,
-  "2022-02-03": 32916,
-  "2022-02-04": 32914,
-  "2022-02-05": 32910,
-  "2022-02-06": 32906,
-  "2022-02-07": 32905,
-  "2022-02-08": 32903,
-  "2022-02-09": 32896,
-  "2022-02-10": 32896,
-  "2022-02-11": 32893,
-  "2022-02-12": 32893,
-  "2022-02-13": 32892,
-  "2022-02-14": 32885,
-  "2022-02-15": 32873,
-  "2022-02-16": 32869,
-  "2022-02-17": 32860,
-  "2022-02-18": 32853,
-  "2022-02-19": 32846,
-  "2022-02-20": 32842,
-  "2022-02-21": 32838,
-  "2022-02-22": 32836,
-  "2022-02-23": 32831,
-  "2022-02-24": 32828,
-  "2022-02-25": 32831,
-  "2022-02-26": 32828,
-  "2022-02-27": 32822,
-  "2022-02-28": 32822,
-  "2022-03-01": 32818,
-  "2022-03-02": 32816,
-  "2022-03-03": 32814,
-  "2022-03-04": 32811,
-  "2022-03-05": 32808,
-  "2022-03-06": 32808,
-  "2022-03-07": 32809,
-  "2022-03-08": 32805,
-  "2022-03-09": 32799,
-  "2022-03-10": 32794,
-  "2022-03-11": 32789,
-  "2022-03-12": 32786,
-  "2022-03-13": 32780,
-  "2022-03-14": 32777,
-  "2022-03-15": 32777,
-  "2022-03-16": 32776,
-  "2022-03-17": 32775,
-  "2022-03-18": 32769,
-  "2022-03-19": 32769,
-  "2022-03-20": 32769,
-  "2022-03-21": 32767,
-  "2022-03-22": 32766,
-  "2022-03-23": 32766,
-  "2022-03-24": 32764,
-  "2022-03-25": 32762,
-  "2022-03-26": 32762,
-  "2022-03-27": 32763,
-  "2022-03-28": 32761,
-  "2022-03-30": 32755,
-  "2022-03-31": 32751,
-  "2022-04-01": 32749,
-  "2022-04-02": 32749,
-  "2022-04-03": 32747,
-  "2022-04-04": 32743,
-  "2022-04-05": 32739,
-  "2022-04-06": 32736,
-  "2022-04-07": 32738,
-  "2022-04-08": 32737,
-  "2022-04-09": 32733,
-  "2022-04-10": 32730,
-  "2022-04-11": 32728,
-  "2022-04-12": 32727,
-  "2022-04-13": 32725,
-  "2022-04-14": 32724,
-  "2022-04-15": 32722,
-  "2022-04-16": 32718,
-  "2022-04-17": 32717,
-  "2022-04-18": 32712,
-  "2022-04-19": 32712,
-  "2022-04-20": 32715,
-  "2022-04-21": 32714,
-  "2022-04-22": 32713,
-  "2022-04-23": 32711,
-  "2022-04-24": 32710,
-  "2022-04-25": 32709,
-  "2022-04-26": 32708,
-  "2022-04-27": 32708,
-  "2022-04-28": 32708,
-  "2022-04-29": 32703,
-  "2022-04-30": 32704,
-  "2022-05-01": 32702,
-  "2022-05-02": 32702,
-  "2022-05-03": 32700,
-  "2022-05-04": 32698,
-  "2022-05-05": 32696,
-  "2022-05-06": 32694,
-  "2022-05-07": 32692,
-  "2022-05-08": 32693,
-  "2022-05-09": 32693,
-  "2022-05-10": 32689,
-  "2022-05-11": 32692,
-  "2022-05-12": 32689,
-  "2022-05-13": 32688,
-  "2022-05-14": 32686,
-  "2022-05-15": 32687,
-  "2022-05-16": 32683,
-  "2022-05-17": 32681,
-  "2022-05-18": 32681,
-  "2022-05-19": 32680,
-  "2022-05-20": 32678,
-  "2022-05-21": 32677,
-  "2022-05-22": 32677,
-  "2022-05-23": 32676,
-  "2022-05-24": 32676,
-  "2022-05-25": 32677,
-  "2022-05-26": 32675,
-  "2022-05-27": 32674,
-  "2022-05-28": 32672,
-  "2022-05-29": 32669,
-  "2022-05-30": 32669,
-  "2022-05-31": 32668,
-  "2022-06-01": 32670,
-  "2022-06-02": 32668,
-  "2022-06-03": 32672,
-  "2022-06-04": 32670,
-  "2022-06-05": 32665,
-  "2022-06-06": 32666,
-  "2022-06-07": 32666,
-  "2022-06-08": 32666,
-  "2022-06-09": 32664,
-  "2022-06-10": 32663,
-  "2022-06-11": 32662,
-  "2022-06-12": 32660,
-  "2022-06-13": 32656,
-  "2022-06-14": 32654,
-  "2022-06-15": 32655,
-  "2022-06-16": 32657,
-  "2022-06-17": 32660,
-  "2022-06-18": 32658,
-  "2022-06-19": 32655,
-  "2022-06-20": 32655,
-  "2022-06-21": 32653,
-  "2022-06-22": 32653,
-  "2022-06-23": 32653,
-  "2022-06-24": 32652,
-  "2022-06-25": 32650,
-  "2022-06-26": 32648,
-  "2022-06-27": 32647,
-  "2022-06-28": 32644,
-  "2022-06-29": 32644,
-  "2022-06-30": 32643,
-  "2022-07-01": 32643,
-  "2022-07-02": 32641,
-  "2022-07-03": 32642,
-  "2022-07-04": 32644,
-  "2022-07-05": 32643,
-  "2022-07-06": 32643,
-  "2022-07-07": 32642,
-  "2022-07-08": 32641,
-  "2022-07-09": 32641,
-  "2022-07-10": 32638,
-  "2022-07-11": 32637,
-  "2022-07-12": 32639,
-  "2022-07-13": 32638,
-  "2022-07-14": 32636,
-  "2022-07-15": 32634,
-  "2022-07-16": 32631,
-  "2022-07-17": 32630,
-  "2022-07-18": 32631,
-  "2022-07-19": 32628,
-  "2022-07-20": 32628,
-  "2022-07-21": 32624,
-  "2022-07-22": 32623,
-  "2022-07-23": 32621,
-  "2022-07-24": 32621,
-  "2022-07-25": 32620,
-  "2022-07-26": 32620,
-  "2022-07-27": 32617,
-  "2022-07-28": 32614,
-  "2022-07-29": 32615,
-  "2022-07-30": 32611,
-  "2022-07-31": 32611,
-  "2022-08-01": 32608,
-  "2022-08-02": 32606,
-  "2022-08-03": 32606,
-  "2022-08-04": 32606,
-  "2022-08-05": 32612,
-  "2022-08-06": 32632,
-  "2022-08-07": 32646,
-  "2022-08-08": 32658,
-  "2022-08-09": 32664,
-  "2022-08-10": 32677,
-  "2022-08-11": 32692,
-  "2022-08-12": 32708,
-  "2022-08-13": 32716,
-  "2022-08-14": 32729,
-  "2022-08-15": 32742,
-  "2022-08-16": 32745,
-  "2022-08-17": 32766,
-  "2022-08-18": 32769,
-  "2022-08-19": 32784,
-  "2022-08-20": 32793,
-  "2022-08-21": 32814,
-  "2022-08-22": 32827,
-  "2022-08-23": 32837,
-  "2022-08-24": 32855,
-  "2022-08-25": 32876,
-  "2022-08-26": 32892,
-  "2022-08-27": 32903,
-  "2022-08-28": 32916,
-  "2022-08-29": 32935,
-  "2022-08-30": 32943,
-  "2022-08-31": 32950,
-  "2022-09-01": 32956,
-  "2022-09-02": 32960,
-  "2022-09-03": 32958,
-  "2022-09-04": 32976,
-  "2022-09-05": 32993,
-  "2022-09-06": 33011,
-  "2022-09-07": 33024,
-  "2022-09-09": 33044,
-  "2022-09-10": 33054,
-  "2022-09-11": 33067,
-  "2022-09-12": 33086,
-  "2022-09-13": 33104,
-  "2022-09-15": 33139,
-  "2022-09-16": 33152,
-  "2022-09-17": 33172,
-  "2022-09-18": 33182,
-  "2022-09-19": 33188,
-  "2022-09-20": 33204,
-  "2022-09-21": 33215,
-  "2022-09-22": 33225,
-  "2022-09-23": 33241,
-  "2022-09-24": 33253,
-  "2022-09-25": 33267,
-  "2022-09-26": 33278,
-  "2022-09-27": 33293,
-  "2022-09-28": 33302,
-  "2022-09-29": 33314,
-  "2022-09-30": 33327,
-  "2022-10-01": 33345,
-  "2022-10-02": 33359,
-  "2022-10-03": 33376,
-  "2022-10-04": 33394,
-  "2022-10-05": 33411,
-  "2022-10-06": 33423,
-  "2022-10-07": 33452,
-  "2022-10-08": 33463,
-  "2022-10-09": 33504,
-  "2022-10-10": 33507,
-  "2022-10-11": 33521,
-  "2022-10-12": 33575,
-  "2022-10-13": 33606,
-  "2022-10-14": 33629,
-  "2022-10-15": 33662,
-  "2022-10-16": 33686,
-  "2022-10-17": 33699,
-  "2022-10-18": 33714,
-  "2022-10-19": 33724,
-  "2022-10-20": 33748,
-  "2022-10-21": 33767,
-  "2022-10-22": 33788,
-  "2022-10-23": 33802,
-  "2022-10-24": 33819,
-  "2022-10-25": 33842,
-  "2022-10-26": 33867,
-  "2022-10-27": 33881,
-  "2022-10-28": 33901,
-  "2022-10-29": 33917,
-  "2022-10-30": 33935,
-  "2022-10-31": 33955,
-  "2022-11-01": 33971,
-  "2022-11-02": 33990,
-  "2022-11-03": 34000,
-  "2022-11-04": 34018,
-  "2022-11-05": 34034,
-  "2022-11-06": 34062,
-  "2022-11-07": 34069,
-  "2022-11-08": 34088,
-  "2022-11-09": 34099,
-  "2022-11-10": 34120,
-  "2022-11-11": 34133,
-  "2022-11-12": 34162,
-  "2022-11-13": 34182,
-  "2022-11-14": 34207,
-  "2022-11-15": 34227,
-  "2022-11-16": 34242,
-  "2022-11-17": 34254,
-  "2022-11-18": 34258,
-  "2022-11-19": 34258,
-  "2022-11-20": 34267,
-  "2022-11-21": 34279,
-  "2022-11-22": 34293,
-  "2022-11-23": 34303,
-  "2022-11-24": 34316,
-  "2022-11-25": 34333,
-  "2022-11-26": 34346,
-  "2022-11-27": 34358,
-  "2022-11-28": 34367,
-  "2022-11-29": 34377,
-  "2022-11-30": 34391,
-  "2022-12-01": 34405,
-  "2022-12-02": 34403,
-  "2022-12-03": 34413,
-  "2022-12-04": 34419,
-  "2022-12-05": 34430,
-  "2022-12-06": 34449,
-  "2022-12-07": 34457,
-  "2022-12-08": 34465,
-  "2022-12-09": 34478,
-  "2022-12-10": 34483,
-  "2022-12-11": 34495,
-  "2022-12-12": 34507,
-  "2022-12-13": 34521,
-  "2022-12-14": 34526,
-  "2022-12-15": 34541,
-  "2022-12-16": 34548,
-  "2022-12-17": 34559,
-  "2022-12-18": 34567,
-  "2022-12-19": 34575,
-  "2022-12-20": 34595,
-  "2022-12-21": 34595,
-  "2022-12-22": 34606,
-  "2022-12-24": 34626,
-  "2022-12-25": 34638,
-  "2022-12-26": 34647,
-  "2022-12-27": 34645,
-  "2022-12-28": 34651,
-  "2022-12-29": 34659,
-  "2022-12-30": 34671,
-  "2022-12-31": 34685,
-  "2023-01-01": 34691,
-  "2023-01-02": 34698,
-  "2023-01-03": 34711,
-  "2023-01-04": 34723,
-  "2023-01-05": 34738,
-  "2023-01-06": 34747,
-  "2023-01-07": 34766,
-  "2023-01-08": 34772,
-  "2023-01-09": 34787,
-  "2023-01-10": 34799,
-  "2023-01-11": 34803,
-  "2023-01-12": 34818,
-  "2023-01-13": 34825,
-  "2023-01-14": 34836,
-  "2023-01-15": 34834,
-  "2023-01-16": 34843,
-  "2023-01-17": 34850,
-  "2023-01-18": 34863,
-  "2023-01-19": 34885,
-  "2023-01-20": 34897,
-  "2023-01-21": 34908,
-  "2023-01-22": 34919,
-  "2023-01-23": 34935,
-  "2023-01-24": 34950,
-  "2023-01-25": 34964,
-  "2023-01-26": 34968,
-  "2023-01-27": 34985,
-  "2023-01-28": 34999,
-  "2023-01-29": 35019,
-  "2023-01-30": 35036,
-  "2023-01-31": 35036,
-  "2023-02-01": 35059,
-  "2023-02-02": 35069,
-  "2023-02-03": 35099,
-  "2023-02-04": 35126,
-  "2023-02-05": 35150,
-  "2023-02-06": 35171,
-  "2023-02-07": 35189,
-  "2023-02-08": 35222,
-  "2023-02-09": 35222,
-  "2023-02-10": 35237,
-  "2023-02-11": 35257,
-  "2023-02-12": 35286,
-  "2023-02-13": 35290,
-  "2023-02-14": 35290,
-  "2023-02-15": 35302,
-  "2023-02-16": 35326,
-  "2023-02-17": 35337,
-  "2023-02-18": 35372,
-  "2023-02-19": 35375,
-  "2023-02-20": 35391,
-  "2023-02-21": 35406,
-  "2023-02-22": 35422,
-  "2023-02-23": 35438,
-  "2023-02-24": 35457,
-  "2023-02-25": 35493,
-  "2023-02-26": 35503,
-  "2023-02-27": 35538,
-  "2023-02-28": 35538,
-  "2023-03-01": 35545,
-  "2023-03-02": 35559,
-  "2023-03-03": 35575,
-  "2023-03-04": 35596,
-  "2023-03-05": 35638,
-  "2023-03-06": 35638,
-  "2023-03-07": 35657,
-  "2023-03-08": 35679,
-  "2023-03-09": 35691,
-  "2023-03-10": 35715,
-  "2023-03-11": 35738,
-  "2023-03-12": 35764,
-  "2023-03-13": 35779,
-  "2023-03-14": 35783,
-  "2023-03-15": 35799,
-  "2023-03-16": 35811,
-  "2023-03-17": 35811,
-  "2023-03-18": 35852,
-  "2023-03-19": 35889,
-  "2023-03-20": 35915,
-  "2023-03-21": 35939,
-  "2023-03-22": 35957,
-  "2023-03-23": 35974,
-  "2023-03-24": 35974,
-  "2023-03-25": 36019,
-  "2023-03-26": 36058,
-  "2023-03-27": 36083,
-  "2023-03-28": 36093,
-  "2023-03-29": 36110,
-  "2023-03-30": 36136,
-  "2023-03-31": 36136,
-  "2023-04-01": 36141,
-  "2023-04-02": 36157,
-  "2023-04-03": 36171,
-  "2023-04-04": 36177,
-  "2023-04-05": 36199,
-  "2023-04-06": 36216,
-  "2023-04-07": 36228,
-  "2023-04-09": 36275,
-  "2023-04-10": 36289,
-  "2023-04-11": 36313,
-  "2023-04-12": 36313,
-  "2023-04-13": 36336,
-  "2023-04-14": 36350,
-  "2023-04-15": 36372,
-  "2023-04-16": 36398,
-  "2023-04-17": 36416,
-  "2023-04-18": 36428,
-  "2023-04-19": 36449,
-  "2023-04-20": 36451,
-  "2023-04-21": 36467,
-  "2023-04-22": 36489,
-  "2023-04-23": 36514,
-  "2023-04-24": 36540,
-  "2023-04-25": 36555,
-  "2023-04-26": 36572,
-  "2023-04-27": 36598,
-  "2023-04-28": 36632,
-  "2023-04-29": 36647,
-  "2023-04-30": 36672,
-  "2023-05-01": 36677,
-  "2023-05-02": 36688,
-  "2023-05-03": 36699,
-  "2023-05-04": 36715,
-  "2023-05-05": 36733,
-  "2023-05-06": 36745,
-  "2023-05-07": 36758,
-  "2023-05-08": 36769,
-  "2023-05-09": 36791,
-  "2023-05-10": 36798,
-  "2023-05-11": 36805,
-  "2023-05-12": 36819,
-  "2023-05-13": 36833,
-  "2023-05-14": 36853,
-  "2023-05-15": 36851,
-  "2023-05-16": 36863,
-  "2023-05-17": 36875,
-  "2023-05-18": 36890,
-  "2023-05-19": 36908,
-  "2023-05-20": 36943,
-  "2023-05-21": 36943,
-  "2023-05-22": 36943,
-  "2023-05-23": 36980,
-  "2023-05-24": 37001,
-  "2023-05-25": 37008,
-  "2023-05-26": 37021,
-  "2023-05-27": 37029,
-  "2023-05-28": 37034,
-  "2023-05-29": 37034,
-  "2023-05-30": 37056,
-  "2023-05-31": 37066,
-  "2023-06-01": 37083,
-  "2023-06-02": 37093,
-  "2023-06-03": 37108,
-  "2023-06-04": 37121,
-  "2023-06-05": 37134,
-  "2023-06-06": 37147,
-  "2023-06-07": 37151,
-  "2023-06-08": 37164,
-  "2023-06-09": 37176,
-  "2023-06-10": 37190,
-  "2023-06-11": 37199,
-  "2023-06-12": 37212,
-  "2023-06-13": 37221,
-  "2023-06-14": 37230,
-  "2023-06-15": 37241,
-  "2023-06-16": 37253,
-  "2023-06-17": 37271,
-  "2023-06-18": 37285,
-  "2023-06-19": 37293,
-  "2023-06-20": 37303,
-  "2023-06-21": 37313,
-  "2023-06-22": 37324,
-  "2023-06-23": 37336,
-  "2023-06-24": 37352,
-  "2023-06-25": 37366,
-  "2023-06-26": 37375,
-  "2023-06-27": 37384,
-  "2023-06-28": 37403,
-  "2023-06-29": 37414,
-  "2023-06-30": 37432,
-  "2023-07-01": 37452,
-  "2023-07-02": 37452,
-  "2023-07-03": 37466,
-  "2023-07-04": 37486,
-  "2023-07-05": 37492,
-  "2023-07-06": 37512,
-  "2023-07-07": 37512,
-  "2023-07-08": 37536,
-  "2023-07-09": 37547,
-  "2023-07-10": 37556,
-  "2023-07-11": 37559,
-  "2023-07-12": 37569,
-  "2023-07-13": 37579,
-  "2023-07-14": 37591,
-  "2023-07-15": 37600,
-  "2023-07-16": 37615,
-  "2023-07-17": 37620,
-  "2023-07-18": 37630,
-  "2023-07-19": 37645,
-  "2023-07-20": 37656,
-  "2023-07-21": 37664,
-  "2023-07-22": 37672,
-  "2023-07-23": 37692,
-  "2023-07-24": 37703,
-  "2023-07-25": 37711,
-  "2023-07-26": 37724,
-  "2023-07-27": 37736,
-  "2023-07-28": 37754,
-  "2023-07-29": 37767,
-  "2023-07-30": 37782,
-  "2023-07-31": 37793,
-  "2023-08-01": 37802,
-  "2023-08-02": 37812,
-  "2023-08-03": 37823,
-  "2023-08-04": 37838,
-  "2023-08-05": 37854,
-  "2023-08-06": 37878,
-  "2023-08-07": 37878,
-  "2023-08-08": 37888,
-  "2023-08-09": 37894,
-  "2023-08-10": 37909,
-  "2023-08-11": 37918,
-  "2023-08-12": 37931,
-  "2023-08-13": 37931,
-  "2023-08-14": 37964,
-  "2023-08-15": 37995,
-  "2023-08-16": 37995,
-  "2023-08-17": 38007,
-  "2023-08-18": 38022,
-  "2023-08-19": 38038,
-  "2023-08-20": 38047,
-  "2023-08-21": 38063,
-  "2023-08-22": 38075,
-  "2023-08-23": 38088,
-  "2023-08-24": 38108,
-  "2023-08-25": 38127,
-  "2023-08-26": 38145,
-  "2023-08-27": 38158,
-  "2023-08-28": 38171,
-  "2023-08-29": 38189,
-  "2023-08-30": 38189,
-  "2023-08-31": 38209,
-  "2023-09-01": 38234,
-  "2023-09-02": 38234,
-  "2023-09-03": 38245,
-  "2023-09-04": 38245,
-  "2023-09-05": 38264,
-  "2023-09-06": 38273,
-  "2023-09-07": 38273,
-  "2023-09-08": 38273,
-  "2023-09-09": 38273,
-  "2023-09-10": 38323,
-  "2023-09-11": 38334,
-  "2023-09-12": 38334,
-  "2023-09-13": 38364,
-  "2023-09-14": 38364,
-  "2023-09-15": 38393,
-  "2023-09-16": 38408,
-  "2023-09-17": 38408,
-  "2023-09-18": 38408,
-  "2023-09-19": 38436,
-  "2023-09-20": 38451,
-  "2023-09-21": 38464,
-  "2023-09-22": 38469,
-  "2023-09-23": 38469,
-  "2023-09-24": 38469,
-  "2023-09-25": 38469,
-  "2023-09-26": 38516,
-  "2023-09-27": 38516,
-  "2023-09-28": 38516,
-  "2023-09-29": 38516,
-  "2023-09-30": 38516,
-  "2023-10-01": 38516,
-  "2023-10-02": 38580,
-  "2023-10-03": 38580,
-  "2023-10-04": 38580,
-  "2023-10-05": 38607,
-  "2023-10-06": 38620,
-  "2023-10-07": 38620,
-  "2023-10-08": 38620,
-  "2023-10-09": 38620,
-  "2023-10-10": 38620,
-  "2023-10-11": 38656,
-  "2023-10-12": 38656,
-  "2023-10-13": 38663,
-  "2023-10-14": 38663,
-  "2023-10-15": 38663,
-  "2023-10-16": 38663,
-  "2023-10-17": 38663,
-  "2023-10-18": 38663,
-  "2023-10-19": 38663,
-  "2023-10-20": 38663,
-  "2023-10-21": 38663,
-  "2023-10-22": 38663,
-  "2023-10-23": 38663,
-  "2023-10-24": 38663,
-  "2023-10-25": 38663,
-  "2023-10-26": 38663,
-  "2023-10-27": 38663,
-  "2023-10-28": 38663,
-  "2023-10-29": 38663,
-  "2023-10-30": 38663,
-  "2023-10-31": 38663,
-  "2023-11-01": 38663,
-  "2023-11-02": 38663,
-  "2023-11-03": 38663,
-  "2023-11-04": 38663,
-  "2023-11-05": 38663,
-  "2023-11-06": 38663,
-  "2023-11-07": 38663,
-  "2023-11-08": 38663,
-  "2023-11-09": 38663,
-  "2023-11-10": 38663,
-  "2023-11-11": 38906,
-  "2023-11-12": 38906,
-  "2023-11-13": 38906,
-  "2023-11-14": 38906,
-  "2023-11-15": 38906,
-  "2023-11-16": 38906,
-  "2023-11-17": 38906,
-  "2023-11-18": 38906,
-  "2023-11-19": 38906,
-  "2023-11-20": 38906,
-  "2023-11-21": 38906,
-  "2023-11-22": 38906,
-  "2023-11-23": 38906,
-  "2023-11-24": 38906,
-  "2023-11-25": 38906,
-  "2023-11-26": 38906,
-  "2023-11-27": 38906,
-  "2023-11-28": 38906,
-  "2023-11-29": 38906,
-  "2023-11-30": 38906,
-  "2023-12-01": 38906,
-  "2023-12-02": 38906,
-  "2023-12-03": 38906,
-  "2023-12-04": 38906,
-  "2023-12-05": 38906,
-  "2023-12-06": 38906,
-  "2023-12-07": 38906,
-  "2023-12-08": 38906,
-  "2023-12-09": 38906,
-  "2023-12-10": 38906,
-  "2023-12-11": 38906,
-  "2023-12-12": 38906,
-  "2023-12-13": 38906,
-  "2023-12-14": 39256,
-  "2023-12-15": 39260,
-  "2023-12-16": 39272,
-  "2023-12-17": 39287,
-  "2023-12-18": 39297,
-  "2023-12-19": 39311,
-  "2023-12-20": 39321,
-  "2023-12-21": 39331,
-  "2023-12-22": 39339,
-  "2023-12-23": 39352,
-  "2023-12-24": 39366,
-  "2023-12-25": 39374,
-  "2023-12-26": 39377,
-  "2023-12-27": 39387,
-  "2023-12-30": 39408,
-  "2023-12-31": 39425,
-  "2024-01-01": 39434,
-  "2024-01-02": 39440,
-  "2024-01-03": 39450
+  "2024-01-17": 39527,
+  "date_first_scraped": "2022-01-12",
+  "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
+  "name": "This Is Jane's Addiction",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211037,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/6rlo6XpkwwlFRksxLsCqYK"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 214533,
+      "name": "Ain't No Right",
+      "url": "https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Been Caught Stealing",
+      "url": "https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 214706,
+      "name": "Been Caught Stealing",
+      "url": "https://open.spotify.com/track/4Qievb8Mqy0qxdLNVl02zt"
+    },
+    {
+      "album": {
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260466,
+      "name": "Been Caught Stealing - Studio Out-Take",
+      "url": "https://open.spotify.com/track/2ingbF0o8bNLy68jUCqahX"
+    },
+    {
+      "album": {
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 219533,
+      "name": "Broken People",
+      "url": "https://open.spotify.com/track/5N5o5FArQjWJdZhy00qmUK"
+    },
+    {
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 163773,
+      "name": "Chip Away",
+      "url": "https://open.spotify.com/track/7mlv1xHxHHv3PBcapEiJp7"
+    },
+    {
+      "album": {
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150373,
+      "name": "City - Soul Kiss 88",
+      "url": "https://open.spotify.com/track/1KncvzweVpOpMmKgth4yok"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 307733,
+      "name": "Classic Girl",
+      "url": "https://open.spotify.com/track/6Y6XXDCJsDYgde0FH6hlhl"
+    },
+    {
+      "album": {
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 269490,
+      "name": "Curiosity Kills",
+      "url": "https://open.spotify.com/track/0J95CJJXbOJ1ez5l6WXBFN"
+    },
+    {
+      "album": {
+        "name": "A Cabinet of Curiosities",
+        "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        },
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 258893,
+      "name": "Don't Call Me Nigger, Whitey (with Body Count)",
+      "url": "https://open.spotify.com/track/2vJY6FmgufXRAG5XAEmg52"
+    },
+    {
+      "album": {
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "End To The Lies",
+      "url": "https://open.spotify.com/track/7zQEPFd7ubM7PaNRx2UMBG"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 198733,
+      "name": "Everybody's Friend",
+      "url": "https://open.spotify.com/track/4BtRrC7LxO4kCLhyWEhvvV"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "Had a Dad",
+      "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
+    },
+    {
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232266,
+      "name": "I Would for You",
+      "url": "https://open.spotify.com/track/5Uad25kem80E7o7L3p5HLw"
+    },
+    {
+      "album": {
+        "name": "Up from the Catacombs: The Best of Jane's Addiction",
+        "url": "https://open.spotify.com/album/1yHjzdrnVBPzPRD8CTk5xz"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-24",
+      "duration_ms": 233626,
+      "name": "I Would For You - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/4cxwxr9Y4FPDeICr1LnCjs"
+    },
+    {
+      "album": {
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "I'll Hit You Back",
+      "url": "https://open.spotify.com/track/2qtXHxCj2sTZHwXQbAvIT0"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 181133,
+      "name": "Idiots Rule",
+      "url": "https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A"
+    },
+    {
+      "album": {
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/2xcFxFLi8CGvJLXBiVkHQj"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240748,
+      "name": "Irresistible Force",
+      "url": "https://open.spotify.com/track/0D7r6CIGNRvs0IvsDOunZr"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Jane Says",
+      "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231853,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/3k6L0H08zSY5yRDgqI8fqx"
+    },
+    {
+      "album": {
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467493,
+      "name": "Kettle Whistle",
+      "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
+    },
+    {
+      "album": {
+        "name": "A Cabinet of Curiosities",
+        "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "L.A. Medley: L.A. Woman / Nausea / Lexicon Devil - Live, 1989",
+      "url": "https://open.spotify.com/track/1emWNMyi5qMpp2zD7uYB6P"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242720,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW"
+    },
+    {
+      "album": {
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263266,
+      "name": "My Cat's Name Is Maceo - Demo",
+      "url": "https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY"
+    },
+    {
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212024,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "No One Leaving",
+      "url": "https://open.spotify.com/track/4IgQThPOeAndnA4VIuIRcX"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355626,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/0OY5dYogbCSH4zvzL1hrrG"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259666,
+      "name": "Ocean Size",
+      "url": "https://open.spotify.com/track/5lCjgHTEE7tbmzDVaCloGC"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 422400,
+      "name": "Of Course",
+      "url": "https://open.spotify.com/track/4Yl4zTUU8Tvhs5KjwjtH17"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 270533,
+      "name": "Pigs in Zen",
+      "url": "https://open.spotify.com/track/0MbbjxUwRG0nNbneLXKkHP"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-30",
+      "duration_ms": 327093,
+      "name": "Price I Pay",
+      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
+    },
+    {
+      "album": {
+        "name": "A Cabinet of Curiosities",
+        "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279226,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/1DpCCcdyR4GIknFDQVZfLm"
+    },
+    {
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243664,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
+    },
+    {
+      "album": {
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275333,
+      "name": "Slow Divers - Live",
+      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
+    },
+    {
+      "album": {
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259239,
+      "name": "So What!",
+      "url": "https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB"
+    },
+    {
+      "album": {
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313773,
+      "name": "Splash A Little Water On It",
+      "url": "https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
+      "duration_ms": 185160,
+      "name": "Standing in the Shower...Thinking",
+      "url": "https://open.spotify.com/track/7DzT745Oi9NI016FEkjWNa"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254839,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272386,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 254560,
+      "name": "Suffer Some",
+      "url": "https://open.spotify.com/track/2cTkuiLU9KFstJ2ikgrqPM"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376480,
+      "name": "Summertime Rolls",
+      "url": "https://open.spotify.com/track/2ziWygUNToqsrm3yNOD6SZ"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238106,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
+    },
+    {
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325291,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
+    },
+    {
+      "album": {
+        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
+        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326520,
+      "name": "Sympathy for the Devil - from Sons of Anarchy",
+      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 442400,
+      "name": "Ted, Just Admit It...",
+      "url": "https://open.spotify.com/track/2l7iDl470hxtX7FkzAA3wz"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344333,
+      "name": "The Riches",
+      "url": "https://open.spotify.com/track/0Cx7Zf4Aqlxd4lmHIRF7eL"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500266,
+      "name": "Then She Did...",
+      "url": "https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V"
+    },
+    {
+      "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648506,
+      "name": "Three Days",
+      "url": "https://open.spotify.com/track/05AW0o01NVyzWn52uM9boY"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-29",
+      "duration_ms": 325590,
+      "name": "To Match The Sun",
+      "url": "https://open.spotify.com/track/3XYHyEs2go41Bcsbn2vPXz"
+    },
+    {
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 214424,
+      "name": "Trip Away",
+      "url": "https://open.spotify.com/track/7KAm9ZLmSaqFnbHBGQx2M8"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "True Nature",
+      "url": "https://open.spotify.com/track/2iAo34ybicqwWVYM2aF3xr"
+    },
+    {
+      "album": {
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269613,
+      "name": "Twisted Tales",
+      "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
+    },
+    {
+      "album": {
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187746,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/5SleusK2Wc2SH46DVidSES"
+    },
+    {
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Up the Beach",
+      "url": "https://open.spotify.com/track/7CByzrzR4LCBxVI7lM8Ggv"
+    },
+    {
+      "album": {
+        "name": "A Cabinet of Curiosities",
+        "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 246933,
+      "name": "Whole Lotta Love - Live, 1987",
+      "url": "https://open.spotify.com/track/4TTnZh4sso8ir4DM7NQtAn"
+    },
+    {
+      "album": {
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Whores",
+      "url": "https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272360,
+      "name": "Wrong Girl",
+      "url": "https://open.spotify.com/track/4xAv0JDzl3NmWjVzbVmW3T"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXcOE4"
 }

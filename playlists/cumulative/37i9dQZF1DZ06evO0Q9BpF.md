@@ -4,7 +4,7 @@
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-57 songs - 5 hr 58 min
+58 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Ahí Estás Tú](https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Ahí Estás Tú](https://open.spotify.com/album/3WS3WMgCXg5JDaxXDn7AsW) | 5:56 | 2023-04-02 |  |
 | [Amanecer](https://open.spotify.com/track/5c9oAzlvPVPpxKCrhRccYm) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Emanuel](https://open.spotify.com/album/27dOnvXZkbLhiGusdxPkWY) | 4:37 | 2023-04-02 | 2023-11-11 |
 | [Bautízame \(feat\. Fernandinho\)](https://open.spotify.com/track/0IA4UvCV1k0ODw3lrrPvHg) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 7:13 | 2023-04-02 |  |
-| [Bienvenido](https://open.spotify.com/track/3nM1YF8bnbkS8HzZL9BfWd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:16 | 2023-04-02 |  |
+| [Bienvenido](https://open.spotify.com/track/3nM1YF8bnbkS8HzZL9BfWd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:16 | 2023-04-02 | 2024-01-06 |
 | [Blanco y Negro](https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 | 2023-04-02 |  |
+| [Cantar de Tu Amor](https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 4:36 | 2024-01-05 |  |
 | [Como En El Cielo \(feat\. Marcos Brunet\)](https://open.spotify.com/track/3ysJ1hNyG3eAy3IdPVFd4R) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Como En El Cielo \(feat\. Marcos Brunet\)](https://open.spotify.com/album/4u09zmFvxmof6OfmgZNQkn) | 7:19 | 2023-04-02 |  |
 | [Con Brazos Abiertos](https://open.spotify.com/track/4iHQl8ItjIyG79cSo5u0Me) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lau Guerra](https://open.spotify.com/artist/0mItElK8LuABlkUWi7gjn5), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 7:26 | 2023-04-02 |  |
 | [Corro a Ti](https://open.spotify.com/track/1TWzVI03Z8DIReVDszddt8) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 5:17 | 2023-04-02 |  |

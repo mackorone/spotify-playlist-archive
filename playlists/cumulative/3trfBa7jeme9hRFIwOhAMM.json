@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 175238,
       "name": "Boat",
       "url": "https://open.spotify.com/track/3dbrcgzn24PLEJ6Kc1WEjt"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 185624,
       "name": "Don't Touch",
       "url": "https://open.spotify.com/track/2csjKdfu4sncJWlgGRBjPm"
@@ -842,6 +842,24 @@
       "duration_ms": 201904,
       "name": "Goons",
       "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
+    },
+    {
+      "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/6Fprb6xp0vBAETSqwWm3SX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ores",
+          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123483,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/2CARgZ6KasNjGxIktGc9tP"
     },
     {
       "album": {
@@ -1703,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "Play This",
+        "url": "https://open.spotify.com/album/5CafRMGr7NziaPpmgzayl9"
+      },
+      "artists": [
+        {
+          "name": "Ness\u00f8",
+          "url": "https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b"
+        },
+        {
+          "name": "COZE",
+          "url": "https://open.spotify.com/artist/0CVGinSnFpDSMzwyIaeXpe"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Play This",
+      "url": "https://open.spotify.com/track/48Z4yM1fpxcPNlplg4TLV6"
+    },
+    {
+      "album": {
         "name": "Fantasy / Pop It EP",
         "url": "https://open.spotify.com/album/3tjfDyo9rMk1DtFfyGPNjt"
       },
@@ -1802,7 +1842,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 210000,
       "name": "Red Planet",
       "url": "https://open.spotify.com/track/5EYlPYsc0u1ev9ocjkgHJY"
@@ -1868,6 +1908,28 @@
       "duration_ms": 247832,
       "name": "Rewind Reverse",
       "url": "https://open.spotify.com/track/7vkfildOmCojeBvfQ836Qi"
+    },
+    {
+      "album": {
+        "name": "Rhythm Machine",
+        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Rhythm Machine",
+      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
     },
     {
       "album": {

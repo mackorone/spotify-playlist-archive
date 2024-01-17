@@ -1,40 +1,1081 @@
 {
-  "2023-11-25": 72524,
-  "2023-11-26": 72641,
-  "2023-11-27": 72730,
-  "2023-11-28": 72845,
-  "2023-11-29": 73085,
-  "2023-11-30": 73085,
-  "2023-12-01": 73187,
-  "2023-12-02": 73293,
-  "2023-12-03": 73402,
-  "2023-12-04": 73510,
-  "2023-12-05": 73613,
-  "2023-12-06": 73702,
-  "2023-12-07": 73792,
-  "2023-12-08": 73852,
-  "2023-12-09": 73890,
-  "2023-12-10": 73922,
-  "2023-12-11": 73963,
-  "2023-12-12": 74001,
-  "2023-12-13": 74034,
-  "2023-12-14": 74068,
-  "2023-12-15": 74084,
-  "2023-12-16": 74112,
-  "2023-12-17": 74136,
-  "2023-12-18": 74177,
-  "2023-12-19": 74224,
-  "2023-12-20": 74268,
-  "2023-12-21": 74298,
-  "2023-12-22": 74341,
-  "2023-12-23": 74367,
-  "2023-12-24": 74403,
-  "2023-12-25": 74429,
-  "2023-12-26": 74470,
-  "2023-12-27": 74513,
-  "2023-12-30": 74594,
-  "2023-12-31": 74619,
-  "2024-01-01": 74654,
-  "2024-01-02": 74684,
-  "2024-01-03": 74712
+  "2024-01-17": 74689,
+  "date_first_scraped": "2023-11-25",
+  "description": "The most chill instrumental oud sounds.",
+  "name": "Chill-oud",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aicha",
+        "url": "https://open.spotify.com/album/3RRJUlqb8IJvxRKTyCG4h5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Alshaiba",
+          "url": "https://open.spotify.com/artist/3draSJS8Ixp5PoZv1oWfwx"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255061,
+      "name": "Aicha",
+      "url": "https://open.spotify.com/track/21wo3e3K1h5zy03Q3Nkk4E"
+    },
+    {
+      "album": {
+        "name": "HandMade",
+        "url": "https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9"
+      },
+      "artists": [
+        {
+          "name": "Charbel Rouhana",
+          "url": "https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL"
+        },
+        {
+          "name": "The Beirut Oriental Ensemble",
+          "url": "https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290426,
+      "name": "Al bint el shalabiya",
+      "url": "https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd"
+    },
+    {
+      "album": {
+        "name": "Music of Spanish Streets and New Flamenco Gypsy Guitar (For Best Romantic Ambience, Lounge, Dining, Spa, Party)",
+        "url": "https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv"
+      },
+      "artists": [
+        {
+          "name": "Andrei Krylov",
+          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 251068,
+      "name": "Alhambra Arabic Moorish Princess Song for Flamenco Guitar",
+      "url": "https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu"
+    },
+    {
+      "album": {
+        "name": "Takasim Oud",
+        "url": "https://open.spotify.com/album/5VtmMnIVUz5jxBC9KxHUuZ"
+      },
+      "artists": [
+        {
+          "name": "Amer Ammouri",
+          "url": "https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104880,
+      "name": "Arayib (Houzam)",
+      "url": "https://open.spotify.com/track/5q5Oz2kAYx76a23pc8Tk1q"
+    },
+    {
+      "album": {
+        "name": "Oud (The Legend of Arabic Music)",
+        "url": "https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg"
+      },
+      "artists": [
+        {
+          "name": "Aarif Jaman",
+          "url": "https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200746,
+      "name": "Bayati",
+      "url": "https://open.spotify.com/track/4E70hItpq5sRXMaSWg8Qrf"
+    },
+    {
+      "album": {
+        "name": "Aoud Around the Arab World",
+        "url": "https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD"
+      },
+      "artists": [
+        {
+          "name": "Munir Bachir",
+          "url": "https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171906,
+      "name": "Bent El Chalabiya",
+      "url": "https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs"
+    },
+    {
+      "album": {
+        "name": "Kali City",
+        "url": "https://open.spotify.com/album/1g7Di1F9H4wCaHhhftOlo9"
+      },
+      "artists": [
+        {
+          "name": "Karim Baggili",
+          "url": "https://open.spotify.com/artist/6cpxFdmwZjoZphfYF1p3Mu"
+        },
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269940,
+      "name": "Big Fish - Instrumentale",
+      "url": "https://open.spotify.com/track/0izmNKhsS5HgKPTCKdNSQ0"
+    },
+    {
+      "album": {
+        "name": "Taksim Trio",
+        "url": "https://open.spotify.com/album/7pDyWGWfciTjfl6z1ewx1P"
+      },
+      "artists": [
+        {
+          "name": "Taksim Trio",
+          "url": "https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2"
+        },
+        {
+          "name": "Aytac Dogan",
+          "url": "https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi"
+        },
+        {
+          "name": "H\u00fcsn\u00fc Senlendirici",
+          "url": "https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF"
+        },
+        {
+          "name": "Ismail Tuncbilek",
+          "url": "https://open.spotify.com/artist/4RnKYAfktqnvcbjkbQC7Fm"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460440,
+      "name": "Bi\u00e7are",
+      "url": "https://open.spotify.com/track/0p0dR8t4lqyMrXUWw4fJPW"
+    },
+    {
+      "album": {
+        "name": "Drab Zeen",
+        "url": "https://open.spotify.com/album/4ROXK7Hp0z9BJtX5j4cndo"
+      },
+      "artists": [
+        {
+          "name": "Toufic Farroukh",
+          "url": "https://open.spotify.com/artist/1qEcIbzDD8hnKqIuFA0Uag"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142306,
+      "name": "Callipyge",
+      "url": "https://open.spotify.com/track/7y3dNztX8wlDmkbRd5QgWg"
+    },
+    {
+      "album": {
+        "name": "The Dancing Oud",
+        "url": "https://open.spotify.com/album/2v6zc4jQl8G9WoPX9lxnuk"
+      },
+      "artists": [
+        {
+          "name": "Omar Bashir",
+          "url": "https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382040,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/6pbcfkv8cVwksZWoqSbf9a"
+    },
+    {
+      "album": {
+        "name": "Buddha Bar - Best Of",
+        "url": "https://open.spotify.com/album/4yUEy000KIV0TmU7AlDGne"
+      },
+      "artists": [
+        {
+          "name": "Amanaska",
+          "url": "https://open.spotify.com/artist/1OVwwL5UzympXO9NrpDUuY"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252840,
+      "name": "Cetacea",
+      "url": "https://open.spotify.com/track/0pvwii7cZPahFOflWwsbmL"
+    },
+    {
+      "album": {
+        "name": "Contes d'un mis\u00e9rable luth",
+        "url": "https://open.spotify.com/album/0cCrNAvXZNoi4EDGPZgE5n"
+      },
+      "artists": [
+        {
+          "name": "Abderraouf Ouertani",
+          "url": "https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409386,
+      "name": "D'un cr\u00e9puscule, l'autre",
+      "url": "https://open.spotify.com/track/4XOYQUsG8n48Q7HoTKahOX"
+    },
+    {
+      "album": {
+        "name": "Ahi",
+        "url": "https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF"
+      },
+      "artists": [
+        {
+          "name": "Taksim Trio",
+          "url": "https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216114,
+      "name": "Devlerin A\u015fk\u0131",
+      "url": "https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu"
+    },
+    {
+      "album": {
+        "name": "Hungry People",
+        "url": "https://open.spotify.com/album/37ZVvmVPYFCyaDdNZaSRof"
+      },
+      "artists": [
+        {
+          "name": "Rabih Abou-Khalil",
+          "url": "https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT"
+        },
+        {
+          "name": "Jarrod Cagwin",
+          "url": "https://open.spotify.com/artist/5sWtE2cBLTTbo9bfrNOYN0"
+        },
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        },
+        {
+          "name": "Gavino Murgia",
+          "url": "https://open.spotify.com/artist/6iCQomJORy2bN4R47rVTvP"
+        },
+        {
+          "name": "Michel Godard",
+          "url": "https://open.spotify.com/artist/1A25jYWj9rD6Co1KbnBGav"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334861,
+      "name": "Dreams Of A Dying City",
+      "url": "https://open.spotify.com/track/6ZEmjcKnZvbWV2qBvDR3rm"
+    },
+    {
+      "album": {
+        "name": "Reve",
+        "url": "https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Rouane",
+          "url": "https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297726,
+      "name": "Evasion",
+      "url": "https://open.spotify.com/track/7Cl0zb7UjCTyfM3Ake3PHF"
+    },
+    {
+      "album": {
+        "name": "An Armenian In America",
+        "url": "https://open.spotify.com/album/3B53HQY2j0FkwfT8jeyrwW"
+      },
+      "artists": [
+        {
+          "name": "Ara Dinkjian",
+          "url": "https://open.spotify.com/artist/1yu2nsRarrGq79v5gNCX6X"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256959,
+      "name": "Even If You Leave",
+      "url": "https://open.spotify.com/track/3i8YW2Jy2ANDRi0f5VQhwD"
+    },
+    {
+      "album": {
+        "name": "Our Story",
+        "url": "https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f"
+      },
+      "artists": [
+        {
+          "name": "Hawa Dafi",
+          "url": "https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "Faragh",
+      "url": "https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM"
+    },
+    {
+      "album": {
+        "name": "Ayn Trio",
+        "url": "https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ"
+      },
+      "artists": [
+        {
+          "name": "Basel Zayed",
+          "url": "https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195746,
+      "name": "Farah",
+      "url": "https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ"
+    },
+    {
+      "album": {
+        "name": "ISMET DEMIRHAN",
+        "url": "https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo"
+      },
+      "artists": [
+        {
+          "name": "ismet Demirhan",
+          "url": "https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287550,
+      "name": "FIRAT",
+      "url": "https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj"
+    },
+    {
+      "album": {
+        "name": "Concerto Al Andalus",
+        "url": "https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5"
+      },
+      "artists": [
+        {
+          "name": "Marcel Khalifa",
+          "url": "https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59706,
+      "name": "Flamenco",
+      "url": "https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3"
+      },
+      "artists": [
+        {
+          "name": "Lena Chamamyan",
+          "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322506,
+      "name": "Hal Asmar El-Lon",
+      "url": "https://open.spotify.com/track/1LJfErM0iTdKxp2BOM3sEA"
+    },
+    {
+      "album": {
+        "name": "Makan",
+        "url": "https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50"
+      },
+      "artists": [
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139600,
+      "name": "Imtinan",
+      "url": "https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6"
+    },
+    {
+      "album": {
+        "name": "Abu Nawas Rhapsody",
+        "url": "https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103653,
+      "name": "Interl'Oud",
+      "url": "https://open.spotify.com/track/0rxhy4Vi3vo1TH8ylMZOY3"
+    },
+    {
+      "album": {
+        "name": "Aoud Around the Arab World",
+        "url": "https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD"
+      },
+      "artists": [
+        {
+          "name": "Munir Bachir",
+          "url": "https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Johny Guitar",
+      "url": "https://open.spotify.com/track/71RIAQgC2zK6hU1Y5g6mtE"
+    },
+    {
+      "album": {
+        "name": "Beyond The Sky",
+        "url": "https://open.spotify.com/album/1hQroOWdQx1RXgmjIjrWtS"
+      },
+      "artists": [
+        {
+          "name": "Brian Keane",
+          "url": "https://open.spotify.com/artist/0YF3htY87UKOd5AOQwEuPh"
+        },
+        {
+          "name": "Omar Faruk Tekbilek",
+          "url": "https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319826,
+      "name": "Kolaymi",
+      "url": "https://open.spotify.com/track/3tT7GisdKZYPW1suW2GVqm"
+    },
+    {
+      "album": {
+        "name": "The Last Flight (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ATO4rHQtMdrZ5c7p3abPA"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        },
+        {
+          "name": "Chkrrr",
+          "url": "https://open.spotify.com/artist/5YiDQX5JOajMOvlQsf2PrB"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112480,
+      "name": "L'obstin\u00e9e I",
+      "url": "https://open.spotify.com/track/6r31Pw3pw6N8i6kwfc2kx2"
+    },
+    {
+      "album": {
+        "name": "Hassan Sabi",
+        "url": "https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
+        },
+        {
+          "name": "Abby Abdel-Khalek",
+          "url": "https://open.spotify.com/artist/6oF5zlYqpF2tYRrJnAc1VT"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152816,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/5qUJSNYh21XNIdr6K0knAY"
+    },
+    {
+      "album": {
+        "name": "Abu Nawas Rhapsody",
+        "url": "https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549546,
+      "name": "Les ondes orientales",
+      "url": "https://open.spotify.com/track/7qJ3fjjufJ4VYvUguGne0y"
+    },
+    {
+      "album": {
+        "name": "Longing (Best of Omar Faruk Tekbilek)",
+        "url": "https://open.spotify.com/album/3aKIaTCMukq8X8JsUteUqc"
+      },
+      "artists": [
+        {
+          "name": "Omar Faruk Tekbilek",
+          "url": "https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361840,
+      "name": "Long Wait",
+      "url": "https://open.spotify.com/track/2kkAw4ryowf5wBv2lUI0Lr"
+    },
+    {
+      "album": {
+        "name": "Ahi",
+        "url": "https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF"
+      },
+      "artists": [
+        {
+          "name": "Taksim Trio",
+          "url": "https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378503,
+      "name": "Lotus Feet",
+      "url": "https://open.spotify.com/track/5nrENJiiZa2H3MwhT2Yggs"
+    },
+    {
+      "album": {
+        "name": "To My Father",
+        "url": "https://open.spotify.com/album/5IQmbdf0EFqGyuwpV6J85n"
+      },
+      "artists": [
+        {
+          "name": "Omar Bashir",
+          "url": "https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250400,
+      "name": "Makam Ajam / Tala'a Mint Beit Abouha - Takassim",
+      "url": "https://open.spotify.com/track/1ahxUKddfqp0ZRTySX4vwZ"
+    },
+    {
+      "album": {
+        "name": "The Bluebird, the Mystic and the Fool",
+        "url": "https://open.spotify.com/album/1bQ9D3Vvx6EnKKb4aZ8WfO"
+      },
+      "artists": [
+        {
+          "name": "Joseph Tawadros",
+          "url": "https://open.spotify.com/artist/17wNBDPLkNYdnmAKwiwbih"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65630,
+      "name": "Miss A",
+      "url": "https://open.spotify.com/track/1xXLzy2BJD7yJDd6xAat55"
+    },
+    {
+      "album": {
+        "name": "The Long March",
+        "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262253,
+      "name": "More Than Once",
+      "url": "https://open.spotify.com/track/67Amwno0hyp64jMbP0HbA9"
+    },
+    {
+      "album": {
+        "name": "Charbel Rouhana: the Art of the Middle Eastern Oud - New Perspectives On Trad. Maqams",
+        "url": "https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6"
+      },
+      "artists": [
+        {
+          "name": "Charbel Rouhana",
+          "url": "https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL"
+        },
+        {
+          "name": "Antoine Khalife",
+          "url": "https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld"
+        },
+        {
+          "name": "Imane Homsy",
+          "url": "https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R"
+        },
+        {
+          "name": "Bassam Saleh",
+          "url": "https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv"
+        },
+        {
+          "name": "Ali El Khatib",
+          "url": "https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk"
+        },
+        {
+          "name": "Albert Rouhana",
+          "url": "https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81920,
+      "name": "Mouassal",
+      "url": "https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF"
+    },
+    {
+      "album": {
+        "name": "Hassan Sabi",
+        "url": "https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136759,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/0nqKh7q35gKJSXv7VuqtH7"
+    },
+    {
+      "album": {
+        "name": "Nafas",
+        "url": "https://open.spotify.com/album/4LwyNUteskctw7AwVmQSQy"
+      },
+      "artists": [
+        {
+          "name": "Rabih Abou-Khalil",
+          "url": "https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT"
+        },
+        {
+          "name": "Selim Kusur",
+          "url": "https://open.spotify.com/artist/3B2ZGMKcVz6MLE2R3SYcSi"
+        },
+        {
+          "name": "Glen Velez",
+          "url": "https://open.spotify.com/artist/15iQ5XT6Esaps90Qp8XlXr"
+        },
+        {
+          "name": "Setrak Sarkissian",
+          "url": "https://open.spotify.com/artist/1QLQGJzb3i3sH7rAuVaAsc"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94000,
+      "name": "Nafas",
+      "url": "https://open.spotify.com/track/2MOrdaDFhHoyTpefyvQWCF"
+    },
+    {
+      "album": {
+        "name": "Charbel Rouhana: the Art of the Middle Eastern Oud - New Perspectives On Trad. Maqams",
+        "url": "https://open.spotify.com/album/56H6omd7p4dFyx1gPMEM6e"
+      },
+      "artists": [
+        {
+          "name": "Imane Homsy",
+          "url": "https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R"
+        },
+        {
+          "name": "Charbel Rouhana",
+          "url": "https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 135053,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/49ppdLKp66bzhMWoK3wlzy"
+    },
+    {
+      "album": {
+        "name": "Asf\u00e2r",
+        "url": "https://open.spotify.com/album/3MJ3XAgSv92V5VcZTBXYlx"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279506,
+      "name": "Naww\u00e2r",
+      "url": "https://open.spotify.com/track/70WgBnBaeDzJWxJTjgFijm"
+    },
+    {
+      "album": {
+        "name": "Oud (The Legend of Arabic Music)",
+        "url": "https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg"
+      },
+      "artists": [
+        {
+          "name": "Aarif Jaman",
+          "url": "https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 194186,
+      "name": "Nugriz",
+      "url": "https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/6KEMRKPWrk56GSXRX1jJBf"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/5sFJcINPGw2PjZHg4soZoK"
+    },
+    {
+      "album": {
+        "name": "Singing with Swallows of Sigh",
+        "url": "https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX"
+      },
+      "artists": [
+        {
+          "name": "Alireza Ghorbani",
+          "url": "https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX"
+        },
+        {
+          "name": "Siavash Valipour",
+          "url": "https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT"
+        },
+        {
+          "name": "Bamdad Ensemble",
+          "url": "https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Oud",
+      "url": "https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV"
+    },
+    {
+      "album": {
+        "name": "Fann (Arabic Traditional Music)",
+        "url": "https://open.spotify.com/album/6MG1BuCZGrYy5j910ubH1s"
+      },
+      "artists": [
+        {
+          "name": "Hussein Mohamed Aly",
+          "url": "https://open.spotify.com/artist/0dq4xBuWu91EjmwCBjJft0"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 766840,
+      "name": "Saltana",
+      "url": "https://open.spotify.com/track/0sZeSBseexWaFsFjl2ZUR4"
+    },
+    {
+      "album": {
+        "name": "Alabanza - Tasabih",
+        "url": "https://open.spotify.com/album/4NsiDOK7VsDTJoEQQvzCK0"
+      },
+      "artists": [
+        {
+          "name": "Saber Abdelsattar",
+          "url": "https://open.spotify.com/artist/2TtJW54EuW7FoqRimKehA5"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275493,
+      "name": "Sama' Ay Sihr Misr",
+      "url": "https://open.spotify.com/track/3iflS35RQOA8uPKQ9TF455"
+    },
+    {
+      "album": {
+        "name": "Arabian Classics for Belly Dance",
+        "url": "https://open.spotify.com/album/1RYwe9ttWsCXR7o5wYbava"
+      },
+      "artists": [
+        {
+          "name": "Salatin Al Tarab Orchestra",
+          "url": "https://open.spotify.com/artist/4hTMpf0ODUmFlW4uzJTx6l"
+        },
+        {
+          "name": "Amer Ammouri",
+          "url": "https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62840,
+      "name": "Solo oud (feat. Amer Ammouri)",
+      "url": "https://open.spotify.com/track/0it5BioYQs1dC6VKDgbaH1"
+    },
+    {
+      "album": {
+        "name": "Souk Okaz",
+        "url": "https://open.spotify.com/album/3af9UPxr1VkRwmp5rPdJcB"
+      },
+      "artists": [
+        {
+          "name": "Jean-Marie Riachi",
+          "url": "https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349214,
+      "name": "Souk Okaz",
+      "url": "https://open.spotify.com/track/0M9KszKXLp1kjRTB5td9cT"
+    },
+    {
+      "album": {
+        "name": "Un homme libre",
+        "url": "https://open.spotify.com/album/7immQi68cW0cg675tlCsmI"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Rouane",
+          "url": "https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428222,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/5zKoRVSbZ3UQJX9Son7eJK"
+    },
+    {
+      "album": {
+        "name": "Laissez passer",
+        "url": "https://open.spotify.com/album/0acmEZwZrpPj30Tpp1MyAD"
+      },
+      "artists": [
+        {
+          "name": "TootArd",
+          "url": "https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294186,
+      "name": "Syrian Blues",
+      "url": "https://open.spotify.com/track/4qUWmZRExYRJPI0N1Jluqk"
+    },
+    {
+      "album": {
+        "name": "Iraq - Irak : The Art of the '\u00fbd",
+        "url": "https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x"
+      },
+      "artists": [
+        {
+          "name": "Munir Bashir",
+          "url": "https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575333,
+      "name": "Taqs\u00eem en maq\u00e2m : Nahawand-kab\u00eer",
+      "url": "https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B"
+    },
+    {
+      "album": {
+        "name": "Borders Behind",
+        "url": "https://open.spotify.com/album/0F2DIyzw0isWT9wC4ldz5G"
+      },
+      "artists": [
+        {
+          "name": "Adnan Joubran",
+          "url": "https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252294,
+      "name": "That Moment When",
+      "url": "https://open.spotify.com/track/5D6pCmqhtc7UT470FPQbL0"
+    },
+    {
+      "album": {
+        "name": "Khameer",
+        "url": "https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC"
+      },
+      "artists": [
+        {
+          "name": "Basel Rajoub",
+          "url": "https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264693,
+      "name": "Turkish Coffee",
+      "url": "https://open.spotify.com/track/3169aUzrWTznvVupy1f20E"
+    },
+    {
+      "album": {
+        "name": "Le Voyage De Sahar",
+        "url": "https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO"
+      },
+      "artists": [
+        {
+          "name": "Anouar Brahem",
+          "url": "https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379253,
+      "name": "Vague / E la nave va",
+      "url": "https://open.spotify.com/track/6avLwPGZvr93PaxBARH5dA"
+    },
+    {
+      "album": {
+        "name": "Divine Shadows",
+        "url": "https://open.spotify.com/album/5hJvV7d7gztkrgyibyPHTM"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458533,
+      "name": "Wind & Shadows",
+      "url": "https://open.spotify.com/track/1N39pRKuXdhGBglZRJbmY0"
+    },
+    {
+      "album": {
+        "name": "Kelebek / The Butterfly (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/23treRoNBDr6nTpG9zp12k"
+      },
+      "artists": [
+        {
+          "name": "Brian Keane",
+          "url": "https://open.spotify.com/artist/0YF3htY87UKOd5AOQwEuPh"
+        },
+        {
+          "name": "Omar Faruk Tekbilek",
+          "url": "https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247706,
+      "name": "Zeynep's Romance",
+      "url": "https://open.spotify.com/track/46SUVokaUmUCcGTRqX7fM3"
+    },
+    {
+      "album": {
+        "name": "Aoud Around the Arab World",
+        "url": "https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD"
+      },
+      "artists": [
+        {
+          "name": "Munir Bachir",
+          "url": "https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Zourouni",
+      "url": "https://open.spotify.com/track/4J7npFq7vLfUxuWvOq4Ttx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWhuJcTXO5hW"
 }

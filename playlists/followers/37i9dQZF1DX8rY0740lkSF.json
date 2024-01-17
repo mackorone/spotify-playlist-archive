@@ -1,342 +1,3053 @@
 {
-  "2023-01-26": 720,
-  "2023-01-27": 800,
-  "2023-01-28": 828,
-  "2023-01-29": 842,
-  "2023-01-30": 854,
-  "2023-01-31": 854,
-  "2023-02-01": 904,
-  "2023-02-02": 931,
-  "2023-02-03": 962,
-  "2023-02-04": 991,
-  "2023-02-05": 1017,
-  "2023-02-06": 1048,
-  "2023-02-07": 1066,
-  "2023-02-08": 1087,
-  "2023-02-09": 1087,
-  "2023-02-10": 1098,
-  "2023-02-11": 1113,
-  "2023-02-12": 1133,
-  "2023-02-13": 1143,
-  "2023-02-14": 1143,
-  "2023-02-15": 1160,
-  "2023-02-16": 1170,
-  "2023-02-17": 1183,
-  "2023-02-18": 1244,
-  "2023-02-19": 1247,
-  "2023-02-20": 1263,
-  "2023-02-21": 1276,
-  "2023-02-22": 1286,
-  "2023-02-23": 1299,
-  "2023-02-24": 1307,
-  "2023-02-25": 1328,
-  "2023-02-26": 1336,
-  "2023-02-27": 1359,
-  "2023-02-28": 1359,
-  "2023-03-01": 1367,
-  "2023-03-02": 1373,
-  "2023-03-03": 1387,
-  "2023-03-04": 1399,
-  "2023-03-05": 1419,
-  "2023-03-06": 1419,
-  "2023-03-07": 1429,
-  "2023-03-08": 1439,
-  "2023-03-09": 1447,
-  "2023-03-10": 1450,
-  "2023-03-11": 1468,
-  "2023-03-12": 1477,
-  "2023-03-13": 1477,
-  "2023-03-14": 1483,
-  "2023-03-15": 1492,
-  "2023-03-16": 1501,
-  "2023-03-17": 1501,
-  "2023-03-18": 1523,
-  "2023-03-19": 1543,
-  "2023-03-20": 1570,
-  "2023-03-21": 1577,
-  "2023-03-22": 1579,
-  "2023-03-23": 1585,
-  "2023-03-24": 1585,
-  "2023-03-25": 1609,
-  "2023-03-26": 1620,
-  "2023-03-27": 1626,
-  "2023-03-28": 1629,
-  "2023-03-29": 1644,
-  "2023-03-30": 1696,
-  "2023-03-31": 1696,
-  "2023-04-01": 1712,
-  "2023-04-02": 1718,
-  "2023-04-03": 1735,
-  "2023-04-04": 1747,
-  "2023-04-05": 1757,
-  "2023-04-06": 1778,
-  "2023-04-07": 1784,
-  "2023-04-09": 1806,
-  "2023-04-10": 1816,
-  "2023-04-11": 1836,
-  "2023-04-12": 1836,
-  "2023-04-13": 1848,
-  "2023-04-14": 1848,
-  "2023-04-15": 1867,
-  "2023-04-16": 1876,
-  "2023-04-17": 1884,
-  "2023-04-18": 1890,
-  "2023-04-19": 1900,
-  "2023-04-20": 1912,
-  "2023-04-21": 1921,
-  "2023-04-22": 1942,
-  "2023-04-23": 1955,
-  "2023-04-24": 1967,
-  "2023-04-25": 1971,
-  "2023-04-26": 1982,
-  "2023-04-27": 1994,
-  "2023-04-28": 2011,
-  "2023-04-29": 2016,
-  "2023-04-30": 2025,
-  "2023-05-01": 2046,
-  "2023-05-02": 2057,
-  "2023-05-03": 2069,
-  "2023-05-04": 2077,
-  "2023-05-05": 2082,
-  "2023-05-06": 2099,
-  "2023-05-07": 2104,
-  "2023-05-08": 2120,
-  "2023-05-09": 2130,
-  "2023-05-10": 2144,
-  "2023-05-11": 2152,
-  "2023-05-12": 2160,
-  "2023-05-13": 2168,
-  "2023-05-14": 2174,
-  "2023-05-15": 2193,
-  "2023-05-16": 2204,
-  "2023-05-17": 2214,
-  "2023-05-18": 2221,
-  "2023-05-19": 2225,
-  "2023-05-20": 2253,
-  "2023-05-21": 2253,
-  "2023-05-22": 2253,
-  "2023-05-23": 2262,
-  "2023-05-24": 2277,
-  "2023-05-25": 2276,
-  "2023-05-26": 2283,
-  "2023-05-27": 2294,
-  "2023-05-28": 2305,
-  "2023-05-29": 2305,
-  "2023-05-30": 2313,
-  "2023-05-31": 2321,
-  "2023-06-01": 2334,
-  "2023-06-02": 2342,
-  "2023-06-03": 2350,
-  "2023-06-04": 2356,
-  "2023-06-05": 2365,
-  "2023-06-06": 2373,
-  "2023-06-07": 2381,
-  "2023-06-08": 2389,
-  "2023-06-09": 2395,
-  "2023-06-10": 2406,
-  "2023-06-11": 2414,
-  "2023-06-12": 2422,
-  "2023-06-13": 2454,
-  "2023-06-14": 2458,
-  "2023-06-15": 2465,
-  "2023-06-16": 2470,
-  "2023-06-17": 2477,
-  "2023-06-18": 2489,
-  "2023-06-19": 2504,
-  "2023-06-20": 2515,
-  "2023-06-21": 2520,
-  "2023-06-22": 2525,
-  "2023-06-23": 2530,
-  "2023-06-24": 2539,
-  "2023-06-25": 2545,
-  "2023-06-26": 2550,
-  "2023-06-27": 2557,
-  "2023-06-28": 2561,
-  "2023-06-29": 2572,
-  "2023-06-30": 2581,
-  "2023-07-01": 2586,
-  "2023-07-02": 2586,
-  "2023-07-03": 2592,
-  "2023-07-04": 2596,
-  "2023-07-05": 2607,
-  "2023-07-06": 2616,
-  "2023-07-07": 2616,
-  "2023-07-08": 2628,
-  "2023-07-09": 2637,
-  "2023-07-10": 2644,
-  "2023-07-11": 2647,
-  "2023-07-12": 2654,
-  "2023-07-13": 2666,
-  "2023-07-14": 2676,
-  "2023-07-15": 2683,
-  "2023-07-16": 2695,
-  "2023-07-17": 2703,
-  "2023-07-18": 2709,
-  "2023-07-19": 2716,
-  "2023-07-20": 2722,
-  "2023-07-21": 2731,
-  "2023-07-22": 2739,
-  "2023-07-23": 2747,
-  "2023-07-24": 2753,
-  "2023-07-25": 2757,
-  "2023-07-26": 2763,
-  "2023-07-27": 2773,
-  "2023-07-28": 2776,
-  "2023-07-29": 2782,
-  "2023-07-30": 2793,
-  "2023-07-31": 2798,
-  "2023-08-01": 2808,
-  "2023-08-02": 2818,
-  "2023-08-03": 2825,
-  "2023-08-04": 2834,
-  "2023-08-05": 2843,
-  "2023-08-06": 2861,
-  "2023-08-07": 2861,
-  "2023-08-08": 2867,
-  "2023-08-09": 2876,
-  "2023-08-10": 2881,
-  "2023-08-11": 2883,
-  "2023-08-12": 2890,
-  "2023-08-13": 2902,
-  "2023-08-14": 2908,
-  "2023-08-15": 2924,
-  "2023-08-16": 2924,
-  "2023-08-17": 2928,
-  "2023-08-18": 2936,
-  "2023-08-19": 2949,
-  "2023-08-20": 2959,
-  "2023-08-21": 2968,
-  "2023-08-22": 2974,
-  "2023-08-23": 2980,
-  "2023-08-24": 2988,
-  "2023-08-25": 2992,
-  "2023-08-26": 2998,
-  "2023-08-27": 3004,
-  "2023-08-28": 3014,
-  "2023-08-29": 3029,
-  "2023-08-30": 3037,
-  "2023-08-31": 3039,
-  "2023-09-01": 3079,
-  "2023-09-02": 3079,
-  "2023-09-03": 3092,
-  "2023-09-04": 3109,
-  "2023-09-05": 3116,
-  "2023-09-06": 3142,
-  "2023-09-07": 3156,
-  "2023-09-08": 3171,
-  "2023-09-09": 3189,
-  "2023-09-10": 3216,
-  "2023-09-11": 3235,
-  "2023-09-12": 3254,
-  "2023-09-13": 3275,
-  "2023-09-14": 3291,
-  "2023-09-15": 3312,
-  "2023-09-16": 3330,
-  "2023-09-17": 3348,
-  "2023-09-18": 3363,
-  "2023-09-19": 3375,
-  "2023-09-20": 3382,
-  "2023-09-21": 3398,
-  "2023-09-22": 3413,
-  "2023-09-23": 3427,
-  "2023-09-24": 3438,
-  "2023-09-25": 3447,
-  "2023-09-26": 3484,
-  "2023-09-27": 3492,
-  "2023-09-28": 3507,
-  "2023-09-29": 3520,
-  "2023-09-30": 3531,
-  "2023-10-01": 3546,
-  "2023-10-02": 3562,
-  "2023-10-03": 3584,
-  "2023-10-04": 3606,
-  "2023-10-05": 3627,
-  "2023-10-06": 3653,
-  "2023-10-07": 3677,
-  "2023-10-08": 3700,
-  "2023-10-09": 3710,
-  "2023-10-10": 3722,
-  "2023-10-11": 3754,
-  "2023-10-12": 3754,
-  "2023-10-13": 3771,
-  "2023-10-14": 3784,
-  "2023-10-15": 3805,
-  "2023-10-16": 3814,
-  "2023-10-17": 3832,
-  "2023-10-18": 3855,
-  "2023-10-19": 3866,
-  "2023-10-20": 3876,
-  "2023-10-21": 3890,
-  "2023-10-22": 3903,
-  "2023-10-23": 3910,
-  "2023-10-24": 3922,
-  "2023-10-25": 3931,
-  "2023-10-26": 3942,
-  "2023-10-27": 3970,
-  "2023-10-28": 3970,
-  "2023-10-29": 3970,
-  "2023-10-30": 4032,
-  "2023-10-31": 4032,
-  "2023-11-01": 4060,
-  "2023-11-02": 4072,
-  "2023-11-03": 4093,
-  "2023-11-04": 4110,
-  "2023-11-05": 4131,
-  "2023-11-06": 4143,
-  "2023-11-07": 4160,
-  "2023-11-08": 4182,
-  "2023-11-09": 4193,
-  "2023-11-10": 4210,
-  "2023-11-11": 4225,
-  "2023-11-12": 4237,
-  "2023-11-13": 4251,
-  "2023-11-14": 4262,
-  "2023-11-15": 4262,
-  "2023-11-16": 4290,
-  "2023-11-17": 4322,
-  "2023-11-18": 4322,
-  "2023-11-19": 4333,
-  "2023-11-20": 4353,
-  "2023-11-21": 4357,
-  "2023-11-22": 4370,
-  "2023-11-23": 4394,
-  "2023-11-24": 4394,
-  "2023-11-25": 4424,
-  "2023-11-26": 4450,
-  "2023-11-27": 4467,
-  "2023-11-28": 4478,
-  "2023-11-29": 4508,
-  "2023-11-30": 4508,
-  "2023-12-01": 4531,
-  "2023-12-02": 4542,
-  "2023-12-03": 4553,
-  "2023-12-04": 4568,
-  "2023-12-05": 4583,
-  "2023-12-06": 4594,
-  "2023-12-07": 4615,
-  "2023-12-08": 4632,
-  "2023-12-09": 4633,
-  "2023-12-10": 4635,
-  "2023-12-11": 4639,
-  "2023-12-12": 4639,
-  "2023-12-13": 4646,
-  "2023-12-14": 4651,
-  "2023-12-15": 4650,
-  "2023-12-16": 4652,
-  "2023-12-17": 4654,
-  "2023-12-18": 4658,
-  "2023-12-19": 4657,
-  "2023-12-20": 4663,
-  "2023-12-21": 4666,
-  "2023-12-22": 4670,
-  "2023-12-23": 4674,
-  "2023-12-24": 4676,
-  "2023-12-25": 4680,
-  "2023-12-26": 4686,
-  "2023-12-27": 4692,
-  "2023-12-30": 4700,
-  "2023-12-31": 4706,
-  "2024-01-01": 4710,
-  "2024-01-02": 4715,
-  "2024-01-03": 4716
+  "2024-01-17": 4772,
+  "date_first_scraped": "2023-01-26",
+  "description": "Music from \"Tales of Series!\". \u300e\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6\u300f\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002",
+  "name": "Tales of Series \u300e\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6\u300f\u30b7\u30ea\u30fc\u30ba",
+  "tracks": [
+    {
+      "album": {
+        "name": "Tales of Destiny Original Soundtrack (PS ver.)",
+        "url": "https://open.spotify.com/album/2M3AedSMM72rkop7Lx9xnn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94942,
+      "name": "A kingdom - PS ver.",
+      "url": "https://open.spotify.com/track/021o1I3x3vv5c7Kd2oG6ES"
+    },
+    {
+      "album": {
+        "name": "Tales of Symphonia (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ww0UclZziAyyPLE5SBrcB"
+      },
+      "artists": [
+        {
+          "name": "Tales of Series SOUND TEAM",
+          "url": "https://open.spotify.com/artist/0LWp1yWrTW7avBLV0VTKkw"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135346,
+      "name": "A Snow Light",
+      "url": "https://open.spotify.com/track/5HDDCTVBhNatIMHPZYM3gA"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30f3\u30d5\u30a9\u30cb\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6OBsrV2DaARvZurlzGy4ZV"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 135346,
+      "name": "A snow light",
+      "url": "https://open.spotify.com/track/3ZtRnLrXwAkId82D9FdGZK"
+    },
+    {
+      "album": {
+        "name": "Tales of Vesperia Original Soundtrack",
+        "url": "https://open.spotify.com/album/2KGNKcTfC3s7S9paQTpDhB"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412426,
+      "name": "A Story Ends, A Journey Begins",
+      "url": "https://open.spotify.com/track/2XcBFOQIqraVrLc5zKXW2P"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE ABYSS Original Soundtrack",
+        "url": "https://open.spotify.com/album/3aE5ihWUWdqPCpjUBynH71"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378893,
+      "name": "Awkward justice",
+      "url": "https://open.spotify.com/track/6KOSrjBJaQZFQEawV8SJTc"
+    },
+    {
+      "album": {
+        "name": "Tales of Destiny Original Soundtrack (PS2 ver.)",
+        "url": "https://open.spotify.com/album/31mgzMzxMlmrECs83vudyM"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157986,
+      "name": "Bare its fangs - PS2 ver.",
+      "url": "https://open.spotify.com/track/0m5gtEoNHRSLogdn7TQl90"
+    },
+    {
+      "album": {
+        "name": "TALES OF LEGENDIA Original Soundtrack",
+        "url": "https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "Battle Artist",
+      "url": "https://open.spotify.com/track/7sirJywqf84KwuX2gi8BiB"
+    },
+    {
+      "album": {
+        "name": "Tales of Rebirth Original Soundtrack",
+        "url": "https://open.spotify.com/album/0xyiCx6ETJ1txjnSzwImPl"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217706,
+      "name": "Battle organization",
+      "url": "https://open.spotify.com/track/0T4perRQXKjlGEbdzuSYvG"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30ea\u30d0\u30fc\u30b9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7Mq5w9Bd1pNS2ysbRrhwSR"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 217706,
+      "name": "Battle organization",
+      "url": "https://open.spotify.com/track/0mrVdPTgljiptcENa3KfUs"
+    },
+    {
+      "album": {
+        "name": "TALES OF XILLIA Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ELrHq6HrVN6jgSyC0XhBn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192813,
+      "name": "Believe in Myself",
+      "url": "https://open.spotify.com/track/5tpVbJ4DYc9CilncYXbYwW"
+    },
+    {
+      "album": {
+        "name": "TALES OF ARISE - Beyond the Dawn Original Soundtrack",
+        "url": "https://open.spotify.com/album/2HL2ppkJtrzXl1lu96JVGY"
+      },
+      "artists": [
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        },
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97029,
+      "name": "Beyond the Dawn",
+      "url": "https://open.spotify.com/track/1alyWxibSGkmwbwZYy9Hhe"
+    },
+    {
+      "album": {
+        "name": "TALES OF LEGENDIA Original Soundtrack",
+        "url": "https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0"
+      },
+      "artists": [
+        {
+          "name": "kanon",
+          "url": "https://open.spotify.com/artist/1POnf4Z5Xyrs3wHoet3Qlv"
+        },
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Birds Chirp, and I Sing",
+      "url": "https://open.spotify.com/track/7r2ZdRqQPF2v0pi0U5pn1y"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE WORLD RADIANT MYTHOLOGY Original Soundtrack",
+        "url": "https://open.spotify.com/album/66owe3I9UTRvk2bgQCKK0m"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201640,
+      "name": "Blazing!",
+      "url": "https://open.spotify.com/track/1SRYaXUZ0bv00w0plVF0jZ"
+    },
+    {
+      "album": {
+        "name": "Tales of Destiny2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0P88kq7BhJvQvHJ3z9IfLG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "BREAK INTO FRAGMENTS",
+      "url": "https://open.spotify.com/track/2BdfKWPLMXWt4ssEptZty7"
+    },
+    {
+      "album": {
+        "name": "TALES OF XILLIA Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ELrHq6HrVN6jgSyC0XhBn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 194986,
+      "name": "Captivated by the Journey",
+      "url": "https://open.spotify.com/track/6czeRCK3bTo8OkMHKH3uUh"
+    },
+    {
+      "album": {
+        "name": "Tales of Eternia Original Soundtrack",
+        "url": "https://open.spotify.com/album/3dY45M95oRRqUcODX3RIdc"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76834,
+      "name": "CELESTIA BATTLE",
+      "url": "https://open.spotify.com/track/3VZ300bsRIhNAGV8CMt5Bu"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE TEMPEST Original Soundtrack",
+        "url": "https://open.spotify.com/album/3LfTIv5xHnFBnuf45TJoMM"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "Confrontation",
+      "url": "https://open.spotify.com/track/6ViRkambGq8oD2pmnL4eU7"
+    },
+    {
+      "album": {
+        "name": "Tales of Destiny2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0P88kq7BhJvQvHJ3z9IfLG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "COUP DE GRBCE",
+      "url": "https://open.spotify.com/track/4XBn3LPL5V9qHBFG71CEW4"
+    },
+    {
+      "album": {
+        "name": "TALES OF HEARTS Original Soundtrack",
+        "url": "https://open.spotify.com/album/4WtkXWp0JRTpmXP9m38G7O"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149213,
+      "name": "Crystal Knights of the Valentin Church",
+      "url": "https://open.spotify.com/track/3Ux2YnhEZY8JKNOvxV0F1N"
+    },
+    {
+      "album": {
+        "name": "Tales of Graces Original Soundtrack",
+        "url": "https://open.spotify.com/album/0KWvhNUg2rsxNjkVb0Fy77"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Dance of the Unified Water",
+      "url": "https://open.spotify.com/track/3Bir4JVD93uPyIyyPDql9t"
+    },
+    {
+      "album": {
+        "name": "TALES OF XILLIA Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ELrHq6HrVN6jgSyC0XhBn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132426,
+      "name": "Daring Sword",
+      "url": "https://open.spotify.com/track/3Kfkv0zz92VVG5taS6sKPQ"
+    },
+    {
+      "album": {
+        "name": "TALES OF PHANTASIA Original Soundtrack (PS ver.)",
+        "url": "https://open.spotify.com/album/10BBc4mrdNlPpwumDtcVJn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142920,
+      "name": "DECISIVE - PS ver.",
+      "url": "https://open.spotify.com/track/4tj3FISprKdppLPjyvb69d"
+    },
+    {
+      "album": {
+        "name": "Tales of Graces Original Soundtrack",
+        "url": "https://open.spotify.com/album/0KWvhNUg2rsxNjkVb0Fy77"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158120,
+      "name": "Draw the Sword! Be Alert!",
+      "url": "https://open.spotify.com/track/56KxnSpNAp05UiQYKNQMjb"
+    },
+    {
+      "album": {
+        "name": "TALES OF HEARTS Original Soundtrack",
+        "url": "https://open.spotify.com/album/4WtkXWp0JRTpmXP9m38G7O"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319973,
+      "name": "Eien No Ashita - ENDING VERSION",
+      "url": "https://open.spotify.com/track/6JzEYqzVDednTG0jnDZHvA"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE TEMPEST Original Soundtrack",
+        "url": "https://open.spotify.com/album/3LfTIv5xHnFBnuf45TJoMM"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153640,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/2X6dCrkkGuEnJOVbkkfMcc"
+    },
+    {
+      "album": {
+        "name": "Tales of Symphonia (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ww0UclZziAyyPLE5SBrcB"
+      },
+      "artists": [
+        {
+          "name": "Tales of Series SOUND TEAM",
+          "url": "https://open.spotify.com/artist/0LWp1yWrTW7avBLV0VTKkw"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131052,
+      "name": "Fatalize",
+      "url": "https://open.spotify.com/track/3XpR1GVHaipueICYhKlCwD"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30f3\u30d5\u30a9\u30cb\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6OBsrV2DaARvZurlzGy4ZV"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 131052,
+      "name": "Fatalize",
+      "url": "https://open.spotify.com/track/5nRWWBjA1moGyH7Ya1a57r"
+    },
+    {
+      "album": {
+        "name": "TALES OF PHANTASIA Original Soundtrack (PS ver.)",
+        "url": "https://open.spotify.com/album/10BBc4mrdNlPpwumDtcVJn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "FIGHTING OF THE SPIRIT - PS ver.",
+      "url": "https://open.spotify.com/track/06iE7cZ7fdeufLmjOXuWgk"
+    },
+    {
+      "album": {
+        "name": "TALES OF PHANTASIA Original Soundtrack (PS ver.)",
+        "url": "https://open.spotify.com/album/10BBc4mrdNlPpwumDtcVJn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184240,
+      "name": "FINAL ACT - PS ver.",
+      "url": "https://open.spotify.com/track/5fRZOedPu3CvVOPaIJbCLX"
+    },
+    {
+      "album": {
+        "name": "Tales of Rebirth Original Soundtrack",
+        "url": "https://open.spotify.com/album/0xyiCx6ETJ1txjnSzwImPl"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472400,
+      "name": "Final episode",
+      "url": "https://open.spotify.com/track/59vvURDnlhPmgq9leCjnwi"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30ea\u30d0\u30fc\u30b9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7Mq5w9Bd1pNS2ysbRrhwSR"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 472400,
+      "name": "Final episode",
+      "url": "https://open.spotify.com/track/5XC54CYrktXDwChz571ANO"
+    },
+    {
+      "album": {
+        "name": "TALES OF HEARTS Original Soundtrack",
+        "url": "https://open.spotify.com/album/4WtkXWp0JRTpmXP9m38G7O"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146920,
+      "name": "Fly! Anti-air!!",
+      "url": "https://open.spotify.com/track/4E0kXOxXqZ0xBxkncHc5sq"
+    },
+    {
+      "album": {
+        "name": "TALES OF XILLIA2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/6MvivpTSzJtr38xEoMc7nN"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "For the Sake of Mutual Proof",
+      "url": "https://open.spotify.com/track/2QxbGaAh9i7EhYzkF4vclv"
+    },
+    {
+      "album": {
+        "name": "TALES OF VS. Original Soundtrack",
+        "url": "https://open.spotify.com/album/1JkIGewWwEESJyU1zYbrml"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "Furnace of the Battle -ARRANGED- (from Tales of Hearts)",
+      "url": "https://open.spotify.com/track/1pi0OB5XiTSy2RMdorMGC9"
+    },
+    {
+      "album": {
+        "name": "Tales of Vesperia Original Soundtrack",
+        "url": "https://open.spotify.com/album/2KGNKcTfC3s7S9paQTpDhB"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168920,
+      "name": "Furnace of War",
+      "url": "https://open.spotify.com/track/4fZ1HVzoTs2GrR2PDuC2Je"
+    },
+    {
+      "album": {
+        "name": "Tales of Vesperia Original Soundtrack",
+        "url": "https://open.spotify.com/album/2KGNKcTfC3s7S9paQTpDhB"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Fury Sparks",
+      "url": "https://open.spotify.com/track/01LQYdoIWuGxazrx81ZVxe"
+    },
+    {
+      "album": {
+        "name": "TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142160,
+      "name": "GLIMMER SPIRE - X ver.",
+      "url": "https://open.spotify.com/track/49jimDfp3G0A3LVqW78GXe"
+    },
+    {
+      "album": {
+        "name": "TALES OF XILLIA2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/6MvivpTSzJtr38xEoMc7nN"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243160,
+      "name": "Global Corporation: Clanspia Inc.",
+      "url": "https://open.spotify.com/track/3rDIudo1x6sio16dHwNJWZ"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE TEMPEST Original Soundtrack",
+        "url": "https://open.spotify.com/album/3LfTIv5xHnFBnuf45TJoMM"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138960,
+      "name": "Grassy plain",
+      "url": "https://open.spotify.com/track/3UobDs7GdqWFMZzf0wHeVD"
+    },
+    {
+      "album": {
+        "name": "Tales of Eternia Original Soundtrack",
+        "url": "https://open.spotify.com/album/3dY45M95oRRqUcODX3RIdc"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 72695,
+      "name": "GREAT BATTLE 1",
+      "url": "https://open.spotify.com/track/5GJk1b9G2kCq36orLNvIjB"
+    },
+    {
+      "album": {
+        "name": "Tales of Eternia Original Soundtrack",
+        "url": "https://open.spotify.com/album/3dY45M95oRRqUcODX3RIdc"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 62316,
+      "name": "GREAT BATTLE 2",
+      "url": "https://open.spotify.com/track/4Yqt8VxHW1YV6dclanUYIz"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE WORLD RADIANT MYTHOLOGY2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5MSKIPRlLksLAeqmMw40w1"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Holy Crusade",
+      "url": "https://open.spotify.com/track/5UCMAWqKz96VQo42mhCS6y"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30ea\u30d0\u30fc\u30b9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7Mq5w9Bd1pNS2ysbRrhwSR"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 288706,
+      "name": "Icy edge",
+      "url": "https://open.spotify.com/track/03NlSZDhJlnT8f13CyYIe7"
+    },
+    {
+      "album": {
+        "name": "Tales of Rebirth Original Soundtrack",
+        "url": "https://open.spotify.com/album/0xyiCx6ETJ1txjnSzwImPl"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288706,
+      "name": "Icy edge",
+      "url": "https://open.spotify.com/track/2sKRHN53jThWqUoWdMJLM6"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE WORLD RADIANT MYTHOLOGY2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5MSKIPRlLksLAeqmMw40w1"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192280,
+      "name": "into the battle",
+      "url": "https://open.spotify.com/track/2VX4aNabIddgD8dd5zWOAC"
+    },
+    {
+      "album": {
+        "name": "TALES OF XILLIA2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/6MvivpTSzJtr38xEoMc7nN"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "Keep Moving Forward, 'Til the Sword Dies",
+      "url": "https://open.spotify.com/track/5dgqfovfooclnDG909UJrg"
+    },
+    {
+      "album": {
+        "name": "Tales of Innocence Original Soundtrack",
+        "url": "https://open.spotify.com/album/7cXxalhJ80cTTik4xR9CCU"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103626,
+      "name": "Keep On Walking",
+      "url": "https://open.spotify.com/track/4YBgQphxktUjbqJ6yjcPQT"
+    },
+    {
+      "album": {
+        "name": "Tales of Arise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/74coE6457t07plLwF26Bmo"
+      },
+      "artists": [
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        },
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "Land of Green",
+      "url": "https://open.spotify.com/track/4P78Jj2KjgyEqMvMBcN3AU"
+    },
+    {
+      "album": {
+        "name": "Tales of Destiny Original Soundtrack (PS2 ver.)",
+        "url": "https://open.spotify.com/album/31mgzMzxMlmrECs83vudyM"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "Leon-Irony of fate - PS2 ver.",
+      "url": "https://open.spotify.com/track/2sruGpes0XcWnf9yWa8H9J"
+    },
+    {
+      "album": {
+        "name": "TALES OF LEGENDIA Original Soundtrack",
+        "url": "https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u85e4\u307e\u3086\u307f",
+          "url": "https://open.spotify.com/artist/09Zj6pVKQ3a2CNvDB6qB1h"
+        },
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295066,
+      "name": "Light of the Fireflies",
+      "url": "https://open.spotify.com/track/3iHdoPJOpxtFgQacCUe7E3"
+    },
+    {
+      "album": {
+        "name": "Tales of Symphonia (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ww0UclZziAyyPLE5SBrcB"
+      },
+      "artists": [
+        {
+          "name": "Tales of Series SOUND TEAM",
+          "url": "https://open.spotify.com/artist/0LWp1yWrTW7avBLV0VTKkw"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112880,
+      "name": "Like a Glint of Light",
+      "url": "https://open.spotify.com/track/678JQXTVciU3X05AR1plgA"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30f3\u30d5\u30a9\u30cb\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6OBsrV2DaARvZurlzGy4ZV"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 112880,
+      "name": "Like a glint of light",
+      "url": "https://open.spotify.com/track/0xvuGbRWlgwgCpB0EmOGRP"
+    },
+    {
+      "album": {
+        "name": "Tales of Graces Original Soundtrack",
+        "url": "https://open.spotify.com/album/0KWvhNUg2rsxNjkVb0Fy77"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170906,
+      "name": "Mad Dance",
+      "url": "https://open.spotify.com/track/43Jj4C9RD2M039wZolRYcb"
+    },
+    {
+      "album": {
+        "name": "Tales of Eternia Original Soundtrack",
+        "url": "https://open.spotify.com/album/3dY45M95oRRqUcODX3RIdc"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81346,
+      "name": "MAIN TITLE",
+      "url": "https://open.spotify.com/track/23yDQg2IsrNqSAWVGuyAiN"
+    },
+    {
+      "album": {
+        "name": "Tales of Vesperia Original Soundtrack",
+        "url": "https://open.spotify.com/album/2KGNKcTfC3s7S9paQTpDhB"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200560,
+      "name": "March of Brave Vesperia",
+      "url": "https://open.spotify.com/track/1RHjd9zO4jdzKdx3dYsqDd"
+    },
+    {
+      "album": {
+        "name": "Tales of Eternia Original Soundtrack",
+        "url": "https://open.spotify.com/album/3dY45M95oRRqUcODX3RIdc"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86819,
+      "name": "MID BOSS2",
+      "url": "https://open.spotify.com/track/4OoydJVf1At8ZW6KaNjGXm"
+    },
+    {
+      "album": {
+        "name": "TALES OF XILLIA Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ELrHq6HrVN6jgSyC0XhBn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220346,
+      "name": "Milla's Theme ~Mission~",
+      "url": "https://open.spotify.com/track/54IUvV8fVCJPnvkIe8rFLB"
+    },
+    {
+      "album": {
+        "name": "Tales of Symphonia: Dawn of the New World (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/00ZJUfJVthDRk01pDVx5TT"
+      },
+      "artists": [
+        {
+          "name": "Tales of Series SOUND TEAM",
+          "url": "https://open.spotify.com/artist/0LWp1yWrTW7avBLV0VTKkw"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123973,
+      "name": "NEKONIN!",
+      "url": "https://open.spotify.com/track/3XlzaGyNZPU6gNg4FiObMq"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE WORLD RADIANT MYTHOLOGY Original Soundtrack",
+        "url": "https://open.spotify.com/album/66owe3I9UTRvk2bgQCKK0m"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196120,
+      "name": "New Frontier",
+      "url": "https://open.spotify.com/track/1hubZEvfeDQmmEE4IZCMWP"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE ABYSS Original Soundtrack",
+        "url": "https://open.spotify.com/album/3aE5ihWUWdqPCpjUBynH71"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "New world",
+      "url": "https://open.spotify.com/track/0lQMmXDBAqWyj3JigzLyic"
+    },
+    {
+      "album": {
+        "name": "Tales of Arise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/74coE6457t07plLwF26Bmo"
+      },
+      "artists": [
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        },
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203786,
+      "name": "Night & Light - Destruction -",
+      "url": "https://open.spotify.com/track/4dCUiuIsLjMxnCV1eMRcC3"
+    },
+    {
+      "album": {
+        "name": "Tales of Arise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/74coE6457t07plLwF26Bmo"
+      },
+      "artists": [
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        },
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438306,
+      "name": "One Strike, One Beat",
+      "url": "https://open.spotify.com/track/6PNN8O5235I7kaOt1GjQz3"
+    },
+    {
+      "album": {
+        "name": "Tales of Arise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/74coE6457t07plLwF26Bmo"
+      },
+      "artists": [
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        },
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209653,
+      "name": "Paradise of Coexistence",
+      "url": "https://open.spotify.com/track/5sBDKz3OaIBleTYv4QcjPT"
+    },
+    {
+      "album": {
+        "name": "Tales of Symphonia: Dawn of the New World (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/00ZJUfJVthDRk01pDVx5TT"
+      },
+      "artists": [
+        {
+          "name": "Tales of Series SOUND TEAM",
+          "url": "https://open.spotify.com/artist/0LWp1yWrTW7avBLV0VTKkw"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189173,
+      "name": "Person Who Conceives Frenzy",
+      "url": "https://open.spotify.com/track/57Wq1FRITpvuG1rUHvEAbb"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE WORLD RADIANT MYTHOLOGY2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5MSKIPRlLksLAeqmMw40w1"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "Primal rages",
+      "url": "https://open.spotify.com/track/03kIlZ3pQpwMk7JzqwABlb"
+    },
+    {
+      "album": {
+        "name": "Tales of Eternia Original Soundtrack",
+        "url": "https://open.spotify.com/album/3dY45M95oRRqUcODX3RIdc"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96060,
+      "name": "RACHEANS",
+      "url": "https://open.spotify.com/track/0BgJILiSczCBs4EOnSg3oB"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE WORLD RADIANT MYTHOLOGY2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5MSKIPRlLksLAeqmMw40w1"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149746,
+      "name": "Radiant Mythology #2(Main Title)",
+      "url": "https://open.spotify.com/track/72IMxUzl5tOCZUTNpKUmZ2"
+    },
+    {
+      "album": {
+        "name": "Tales of Symphonia: Dawn of the New World (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/00ZJUfJVthDRk01pDVx5TT"
+      },
+      "artists": [
+        {
+          "name": "Tales of Series SOUND TEAM",
+          "url": "https://open.spotify.com/artist/0LWp1yWrTW7avBLV0VTKkw"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "RAISING A CURTAIN",
+      "url": "https://open.spotify.com/track/5XcDTn4xlNCCOOisuBvBXk"
+    },
+    {
+      "album": {
+        "name": "TALES OF PHANTASIA Original Soundtrack (PS ver.)",
+        "url": "https://open.spotify.com/album/10BBc4mrdNlPpwumDtcVJn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270866,
+      "name": "RAISING A CURTAIN - PS ver.",
+      "url": "https://open.spotify.com/track/6akOxlKCJJNdDSymPCvMh3"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE TEMPEST Original Soundtrack",
+        "url": "https://open.spotify.com/album/3LfTIv5xHnFBnuf45TJoMM"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106466,
+      "name": "Reda",
+      "url": "https://open.spotify.com/track/5pvgf9hbcWJZTAvl2fofRa"
+    },
+    {
+      "album": {
+        "name": "Tales of Zestiria Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fCKIWmZavVykTcwTvQpnE"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "Rise, My Own Heart",
+      "url": "https://open.spotify.com/track/0RXLkGy4Zz8fu0zZ6Iycp5"
+    },
+    {
+      "album": {
+        "name": "Tales of Graces Original Soundtrack",
+        "url": "https://open.spotify.com/album/0KWvhNUg2rsxNjkVb0Fy77"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174813,
+      "name": "Royal Capital ~Majestic Grandeur~",
+      "url": "https://open.spotify.com/track/6yIq0pt7tfYTJdClhPVC88"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE WORLD RADIANT MYTHOLOGY Original Soundtrack",
+        "url": "https://open.spotify.com/album/66owe3I9UTRvk2bgQCKK0m"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207373,
+      "name": "Sad memory",
+      "url": "https://open.spotify.com/track/34wfE3cZmTsp5Zm69cLcc7"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE WORLD RADIANT MYTHOLOGY Original Soundtrack",
+        "url": "https://open.spotify.com/album/66owe3I9UTRvk2bgQCKK0m"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199560,
+      "name": "See U again",
+      "url": "https://open.spotify.com/track/0VaG81WYw8h05bHU65P0Ir"
+    },
+    {
+      "album": {
+        "name": "Tales of Berseria Original Soundtrack",
+        "url": "https://open.spotify.com/album/3lhsPr3MFPUdfLKRJm0AIe"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Shout your soul",
+      "url": "https://open.spotify.com/track/30MGPl5Xon65BUBTEaeqlV"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30d9\u30eb\u30bb\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1pg2yt74t6MXmoAxRGYrgK"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 216480,
+      "name": "Shout your soul",
+      "url": "https://open.spotify.com/track/5Wylwr7hgCUs0KEA04jB12"
+    },
+    {
+      "album": {
+        "name": "TALES OF VS. Original Soundtrack",
+        "url": "https://open.spotify.com/album/1JkIGewWwEESJyU1zYbrml"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "Silver Heroes",
+      "url": "https://open.spotify.com/track/1sLILWKpxBMCR3mv5QTlEQ"
+    },
+    {
+      "album": {
+        "name": "Tales of Innocence Original Soundtrack",
+        "url": "https://open.spotify.com/album/7cXxalhJ80cTTik4xR9CCU"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96266,
+      "name": "Slash With Thy Sword",
+      "url": "https://open.spotify.com/track/59aNcNqQNqvHCKtU2DatI0"
+    },
+    {
+      "album": {
+        "name": "Tales of Innocence Original Soundtrack",
+        "url": "https://open.spotify.com/album/7cXxalhJ80cTTik4xR9CCU"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141560,
+      "name": "Smash With Thy Sword",
+      "url": "https://open.spotify.com/track/262qJq7TqP12BzPhafJnVO"
+    },
+    {
+      "album": {
+        "name": "Tales of Zestiria Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fCKIWmZavVykTcwTvQpnE"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "Sorey's Theme -Shepherd-",
+      "url": "https://open.spotify.com/track/2nLeK4hzjwe6J174AJGVPU"
+    },
+    {
+      "album": {
+        "name": "Tales of Destiny2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0P88kq7BhJvQvHJ3z9IfLG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132733,
+      "name": "STEP TO TOMORROW",
+      "url": "https://open.spotify.com/track/3TEBonWRrp44hqoAUXb8Nn"
+    },
+    {
+      "album": {
+        "name": "TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65440,
+      "name": "SYMPTOM",
+      "url": "https://open.spotify.com/track/4jbyWc1SnQ8aSLzpZtc7uM"
+    },
+    {
+      "album": {
+        "name": "TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159120,
+      "name": "TAKE UP THE CROSS - X ver.",
+      "url": "https://open.spotify.com/track/4nswyQlRqmtbQRxiqKQBha"
+    },
+    {
+      "album": {
+        "name": "TALES OF VS. Original Soundtrack",
+        "url": "https://open.spotify.com/album/1JkIGewWwEESJyU1zYbrml"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89560,
+      "name": "TALES OF VS.",
+      "url": "https://open.spotify.com/track/6VFr4VvAymi7ht9MJk1H25"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE ABYSS Original Soundtrack",
+        "url": "https://open.spotify.com/album/3aE5ihWUWdqPCpjUBynH71"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "The arrow was shot",
+      "url": "https://open.spotify.com/track/7taqyxMaYixfjOpUtQPdsm"
+    },
+    {
+      "album": {
+        "name": "TALES OF VS. Original Soundtrack",
+        "url": "https://open.spotify.com/album/1JkIGewWwEESJyU1zYbrml"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 206746,
+      "name": "The arrow was shot -ARRANGED- (from Tales of the Abyss)",
+      "url": "https://open.spotify.com/track/0hgK1DODpTYpcVdnnsg7Sk"
+    },
+    {
+      "album": {
+        "name": "Tales of Destiny2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0P88kq7BhJvQvHJ3z9IfLG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291040,
+      "name": "THE DECISION TO THE FUTURE-MIST",
+      "url": "https://open.spotify.com/track/1CVJGwPwJmv9B9w2cnPS4s"
+    },
+    {
+      "album": {
+        "name": "TALES OF THE ABYSS Original Soundtrack",
+        "url": "https://open.spotify.com/album/3aE5ihWUWdqPCpjUBynH71"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "The Floating Imperial City",
+      "url": "https://open.spotify.com/track/3ZfKjZ1oY9uuzDaORq3EXc"
+    },
+    {
+      "album": {
+        "name": "Tales of Symphonia (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ww0UclZziAyyPLE5SBrcB"
+      },
+      "artists": [
+        {
+          "name": "Tales of Series SOUND TEAM",
+          "url": "https://open.spotify.com/artist/0LWp1yWrTW7avBLV0VTKkw"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "The Land of Sylvarant",
+      "url": "https://open.spotify.com/track/3af5WmvcXAsfVMzwu4cTTv"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30f3\u30d5\u30a9\u30cb\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6OBsrV2DaARvZurlzGy4ZV"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 211653,
+      "name": "The land of Sylvarant",
+      "url": "https://open.spotify.com/track/2RMzQm1JV1uv7tF2KHskCN"
+    },
+    {
+      "album": {
+        "name": "TALES OF XILLIA Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ELrHq6HrVN6jgSyC0XhBn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246120,
+      "name": "The Lands of Another Country",
+      "url": "https://open.spotify.com/track/1RdlELlKQ8ZRD3DEMJRsMw"
+    },
+    {
+      "album": {
+        "name": "TALES OF HEARTS Original Soundtrack",
+        "url": "https://open.spotify.com/album/4WtkXWp0JRTpmXP9m38G7O"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136306,
+      "name": "The Looming Witch",
+      "url": "https://open.spotify.com/track/4OURGAut30iFJvTz0rPCkE"
+    },
+    {
+      "album": {
+        "name": "TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "THE SECOND ACT - X ver.",
+      "url": "https://open.spotify.com/track/38hyBU2GzJMndiBpNUZl2A"
+    },
+    {
+      "album": {
+        "name": "Tales of Zestiria Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fCKIWmZavVykTcwTvQpnE"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207920,
+      "name": "The Spirit Guides With the Melodies of Water",
+      "url": "https://open.spotify.com/track/6hAEy1C6QJuXfTgKMdclkI"
+    },
+    {
+      "album": {
+        "name": "Tales of Zestiria Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fCKIWmZavVykTcwTvQpnE"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359213,
+      "name": "The Way of the Katz",
+      "url": "https://open.spotify.com/track/0HUYSrRCOVhaz1Y5MKOtCq"
+    },
+    {
+      "album": {
+        "name": "Tales of Symphonia: Dawn of the New World (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/00ZJUfJVthDRk01pDVx5TT"
+      },
+      "artists": [
+        {
+          "name": "Tales of Series SOUND TEAM",
+          "url": "https://open.spotify.com/artist/0LWp1yWrTW7avBLV0VTKkw"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "The Wilderness of Sadness",
+      "url": "https://open.spotify.com/track/0gycYJbtRRzlmre76CsDZZ"
+    },
+    {
+      "album": {
+        "name": "Tales of Berseria Original Soundtrack",
+        "url": "https://open.spotify.com/album/3lhsPr3MFPUdfLKRJm0AIe"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308013,
+      "name": "The will that opposes reason",
+      "url": "https://open.spotify.com/track/4otqQnevkd2YBjABKIxRRm"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30d9\u30eb\u30bb\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1pg2yt74t6MXmoAxRGYrgK"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 308013,
+      "name": "The will that opposes reason",
+      "url": "https://open.spotify.com/track/5MuY9yDRATSm8om61wLT6x"
+    },
+    {
+      "album": {
+        "name": "Tales of Berseria Original Soundtrack",
+        "url": "https://open.spotify.com/album/3lhsPr3MFPUdfLKRJm0AIe"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137053,
+      "name": "The world of ice and snow",
+      "url": "https://open.spotify.com/track/5eqovQUwZuSESbm3wsNM2g"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30d9\u30eb\u30bb\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1pg2yt74t6MXmoAxRGYrgK"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 137053,
+      "name": "The world of ice and snow",
+      "url": "https://open.spotify.com/track/7HiF1xucWz8qupXg0bYdqn"
+    },
+    {
+      "album": {
+        "name": "TALES OF XILLIA2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/6MvivpTSzJtr38xEoMc7nN"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "The World that Would Have Existed",
+      "url": "https://open.spotify.com/track/3q7J6YnQGzyBZPKj4e8FnB"
+    },
+    {
+      "album": {
+        "name": "Tales of Berseria Original Soundtrack",
+        "url": "https://open.spotify.com/album/3lhsPr3MFPUdfLKRJm0AIe"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Theme of Velvet",
+      "url": "https://open.spotify.com/track/2zxZYEubceKeIe0cQJch0s"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30d9\u30eb\u30bb\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1pg2yt74t6MXmoAxRGYrgK"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 198333,
+      "name": "Theme of Velvet",
+      "url": "https://open.spotify.com/track/6FI4RBb7MVYY0Wc9ubdFet"
+    },
+    {
+      "album": {
+        "name": "TALES OF VS. Original Soundtrack",
+        "url": "https://open.spotify.com/album/1JkIGewWwEESJyU1zYbrml"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Thirst for Victory -ARRANGED- (from Tales of Legendia)",
+      "url": "https://open.spotify.com/track/6uDjcIsOasbUfUJlirgwCh"
+    },
+    {
+      "album": {
+        "name": "Tales of Destiny Original Soundtrack (PS ver.)",
+        "url": "https://open.spotify.com/album/2M3AedSMM72rkop7Lx9xnn"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93205,
+      "name": "Unfinished world - PS ver.",
+      "url": "https://open.spotify.com/track/3ciGRyJSC859LUDEzIuKWX"
+    },
+    {
+      "album": {
+        "name": "We Still",
+        "url": "https://open.spotify.com/album/21Xcrmvf3pjK3ZpE0HxphT"
+      },
+      "artists": [
+        {
+          "name": "KANKAKU PIERO",
+          "url": "https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "We Still",
+      "url": "https://open.spotify.com/track/0k7icTuRmF2wr5PB1fNE9u"
+    },
+    {
+      "album": {
+        "name": "TALES OF LEGENDIA Original Soundtrack",
+        "url": "https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118306,
+      "name": "We'll Meet in Front of the Fountain",
+      "url": "https://open.spotify.com/track/5aoCJNvXVhe3XV6ljPRWV9"
+    },
+    {
+      "album": {
+        "name": "Tales of Rebirth Original Soundtrack",
+        "url": "https://open.spotify.com/album/0xyiCx6ETJ1txjnSzwImPl"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371520,
+      "name": "Will",
+      "url": "https://open.spotify.com/track/3hUrx4qN08mBS9c1cw9cDo"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30ea\u30d0\u30fc\u30b9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7Mq5w9Bd1pNS2ysbRrhwSR"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 371520,
+      "name": "Will",
+      "url": "https://open.spotify.com/track/6TZ1yLe10kMmp1HUqtKOkJ"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a4\u30ce\u30bb\u30f3\u30b9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/572mMP6FcNK9014D7KRybq"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 103626,
+      "name": "\u305d\u306e\u6b69\u307f\u3001\u6b62\u307e\u308b\u3053\u3068\u306a\u304f",
+      "url": "https://open.spotify.com/track/3vQPwgH2RXxLKVe5cTSwbw"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30f3\u30d5\u30a9\u30cb\u30a2 -\u30e9\u30bf\u30c8\u30b9\u30af\u306e\u9a0e\u58eb- \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4roxN1Rb9jlyeZVsoPIVZG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 123973,
+      "name": "\u306d\u3053\u306b\u3093!",
+      "url": "https://open.spotify.com/track/2kpcSchI9jDhNTcxJFetVk"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30bc\u30b9\u30c6\u30a3\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6b3BkP0qiuNEaVMEEvTRjT"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 359213,
+      "name": "\u306d\u3053\u306b\u3093\u9053",
+      "url": "https://open.spotify.com/track/09n6eSoJOZGlIHQiTJ6msV"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30bc\u30b9\u30c6\u30a3\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6b3BkP0qiuNEaVMEEvTRjT"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 227466,
+      "name": "\u30b9\u30ec\u30a4\u306e\u30c6\u30fc\u30de ~\u5c0e\u5e2b~",
+      "url": "https://open.spotify.com/track/2dxexhW6bR7Lk3ctUwlXlL"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30ec\u30b8\u30a7\u30f3\u30c7\u30a3\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4cikwDn0cWSc2AhV6ucJ1R"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 203266,
+      "name": "\u30d0\u30c8\u30eb\u30fb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/3j79JLxVUjyohC2qOXG27R"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1h7F1YCzJ4pgRnib8SqZxp"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 220346,
+      "name": "\u30df\u30e9\u306e\u30c6\u30fc\u30de ~\u4f7f\u547d~",
+      "url": "https://open.spotify.com/track/1fCctaaLc76FqaXJH5LNbQ"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b6 \u30c6\u30f3\u30da\u30b9\u30c8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6mRnQSpGzdnF0wFJmfpxKL"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 106466,
+      "name": "\u30ec\u30c0\u306e\u8857",
+      "url": "https://open.spotify.com/track/7jqjEdCJCu464FJRTX2v9y"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a4\u30ce\u30bb\u30f3\u30b9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/572mMP6FcNK9014D7KRybq"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 103533,
+      "name": "\u30fb\u30fb\u30fbhave a good rest time",
+      "url": "https://open.spotify.com/track/0L2TvIMMgQqWBtsbgxpfvA"
+    },
+    {
+      "album": {
+        "name": "Tales of Innocence Original Soundtrack",
+        "url": "https://open.spotify.com/album/7cXxalhJ80cTTik4xR9CCU"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103533,
+      "name": "\u30fb\u30fb\u30fbhave a good rest time",
+      "url": "https://open.spotify.com/track/0qNhniIz5UZS1uBZst2juN"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a22 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6t2J1NtjmuPAX3qq1FiC3q"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 243160,
+      "name": "\u4e16\u754c\u4f01\u696d\u30af\u30e9\u30f3\u30b9\u30d4\u30a2\u793e",
+      "url": "https://open.spotify.com/track/4xRwIExPrHVGPaXz2nZdXw"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a22 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6t2J1NtjmuPAX3qq1FiC3q"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 264400,
+      "name": "\u4e92\u3044\u306e\u8a3c\u306e\u70ba\u306b",
+      "url": "https://open.spotify.com/track/1RW6USLwWe46etIujBIoT7"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a4\u30ce\u30bb\u30f3\u30b9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/572mMP6FcNK9014D7KRybq"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 96266,
+      "name": "\u5263\u3092\u4ee5\u3063\u3066\u5207\u308a\u62d3\u3051",
+      "url": "https://open.spotify.com/track/1lGS2t2Gq2gOhEpWa3kJUZ"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a4\u30ce\u30bb\u30f3\u30b9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/572mMP6FcNK9014D7KRybq"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 141560,
+      "name": "\u5263\u3092\u4ee5\u3063\u3066\u6253\u3061\u7815\u3051",
+      "url": "https://open.spotify.com/track/4TzowJfwkHshzYKRguFHOx"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30bc\u30b9\u30c6\u30a3\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6b3BkP0qiuNEaVMEEvTRjT"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 184586,
+      "name": "\u596e\u3044\u7acb\u3066\u3001\u5df1\u306e\u5fc3",
+      "url": "https://open.spotify.com/track/0lp0D1CtI3aSAjimf2TLbP"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b6 \u30c6\u30f3\u30da\u30b9\u30c8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6mRnQSpGzdnF0wFJmfpxKL"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 197626,
+      "name": "\u5bfe\u6c7a!",
+      "url": "https://open.spotify.com/track/0bTdvINMlslKGOtdO90A1C"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1h7F1YCzJ4pgRnib8SqZxp"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 192813,
+      "name": "\u5df1\u3092\u4fe1\u3058\u3066",
+      "url": "https://open.spotify.com/track/1FIOf9BRRNR6HTkp5XYsqF"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30f3\u30d5\u30a9\u30cb\u30a2 -\u30e9\u30bf\u30c8\u30b9\u30af\u306e\u9a0e\u58eb- \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4roxN1Rb9jlyeZVsoPIVZG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 174866,
+      "name": "\u5e55\u958b\u3051",
+      "url": "https://open.spotify.com/track/1AtfLfyeUzO4O2DcFBMoOM"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30ec\u30b8\u30a7\u30f3\u30c7\u30a3\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4cikwDn0cWSc2AhV6ucJ1R"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 118306,
+      "name": "\u5f85\u3061\u5408\u308f\u305b\u306f\u5674\u6c34\u5e83\u5834\u3067",
+      "url": "https://open.spotify.com/track/6NI6fiFY6FF6tf7oMTblvi"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30f3\u30d5\u30a9\u30cb\u30a2 -\u30e9\u30bf\u30c8\u30b9\u30af\u306e\u9a0e\u58eb- \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4roxN1Rb9jlyeZVsoPIVZG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 215760,
+      "name": "\u60b2\u3057\u307f\u306e\u8352\u91ce",
+      "url": "https://open.spotify.com/track/3TPBTQyKjeMFi8XK6Y65Ln"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1h7F1YCzJ4pgRnib8SqZxp"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 194986,
+      "name": "\u65c5\u306b\u9b45\u305b\u3089\u308c\u3066",
+      "url": "https://open.spotify.com/track/4iS6kMrDKxHL7V9iNk027w"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30bc\u30b9\u30c6\u30a3\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6b3BkP0qiuNEaVMEEvTRjT"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 207920,
+      "name": "\u6c34\u306e\u8abf\u3079\u306f\u970a\u9727\u306e\u5c0e\u304d",
+      "url": "https://open.spotify.com/track/1dcQaXJ52XA3UcYENX9dJl"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1h7F1YCzJ4pgRnib8SqZxp"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 132426,
+      "name": "\u6c7a\u6b7b\u306e\u5263",
+      "url": "https://open.spotify.com/track/5Hk0UxhcjppvwkvAPuHLn4"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30f3\u30d5\u30a9\u30cb\u30a2 -\u30e9\u30bf\u30c8\u30b9\u30af\u306e\u9a0e\u58eb- \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4roxN1Rb9jlyeZVsoPIVZG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 189173,
+      "name": "\u72c2\u6c17\u3092\u5b55\u3080\u8005",
+      "url": "https://open.spotify.com/track/6YI5ksC10QGMErLsixItOX"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1h7F1YCzJ4pgRnib8SqZxp"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 246120,
+      "name": "\u7570\u56fd\u306e\u5927\u5730",
+      "url": "https://open.spotify.com/track/4MOZlQkD0MnCOnMSkWa4l5"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30a8\u30af\u30b7\u30ea\u30a22 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6t2J1NtjmuPAX3qq1FiC3q"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 163493,
+      "name": "\u7a81\u304d\u9032\u3081\u3001\u305d\u306e\u5203\u5c3d\u304d\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/1TN9xSe81Efwgg2JjOd7Be"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b6 \u30c6\u30f3\u30da\u30b9\u30c8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6mRnQSpGzdnF0wFJmfpxKL"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 138960,
+      "name": "\u8349\u539f",
+      "url": "https://open.spotify.com/track/3IgUKk4ZeLRVoJeH3a00ow"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30ec\u30b8\u30a7\u30f3\u30c7\u30a3\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4cikwDn0cWSc2AhV6ucJ1R"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u85e4 \u307e\u3086\u307f",
+          "url": "https://open.spotify.com/artist/1D4cfhxxGmFjs32eMuikBo"
+        },
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 295066,
+      "name": "\u86cd\u706b",
+      "url": "https://open.spotify.com/track/5XtkUrAG7U1xPxfOnu9HzK"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b6 \u30c6\u30f3\u30da\u30b9\u30c8 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6mRnQSpGzdnF0wFJmfpxKL"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 153640,
+      "name": "\u906d\u9047",
+      "url": "https://open.spotify.com/track/0FvPhy1D0beAxzYcGbFrfg"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30ec\u30b8\u30a7\u30f3\u30c7\u30a3\u30a2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4cikwDn0cWSc2AhV6ucJ1R"
+      },
+      "artists": [
+        {
+          "name": "kanon",
+          "url": "https://open.spotify.com/artist/1POnf4Z5Xyrs3wHoet3Qlv"
+        },
+        {
+          "name": "\u30c6\u30a4\u30eb\u30ba \u30aa\u30d6 \u30b7\u30ea\u30fc\u30ba SOUND TEAM",
+          "url": "https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL"
+        },
+        {
+          "name": "Bandai Namco Game Music",
+          "url": "https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 232506,
+      "name": "\u9ce5\u306f\u9cf4\u304d\u3001\u50d5\u306f\u6b4c\u3046",
+      "url": "https://open.spotify.com/track/5QHWZsd3wASsen4tn04F2X"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8rY0740lkSF"
 }

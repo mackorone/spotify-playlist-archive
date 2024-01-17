@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjkhfyRmxay.md) - [plain]
 
 > Canciones tranquilas para meditación y el tiempo de yoga familiar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138 likes - 194 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142 likes - 194 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,226 +1,355 @@
 {
-  "2023-05-23": 0,
-  "2023-05-24": 0,
-  "2023-05-25": 0,
-  "2023-05-26": 0,
-  "2023-05-27": 0,
-  "2023-05-28": 0,
-  "2023-05-29": 0,
-  "2023-05-30": 0,
-  "2023-05-31": 0,
-  "2023-06-01": 0,
-  "2023-06-02": 0,
-  "2023-06-03": 0,
-  "2023-06-04": 0,
-  "2023-06-05": 0,
-  "2023-06-06": 0,
-  "2023-06-07": 1,
-  "2023-06-08": 1,
-  "2023-06-09": 1,
-  "2023-06-10": 1,
-  "2023-06-11": 1,
-  "2023-06-12": 1,
-  "2023-06-13": 1,
-  "2023-06-14": 1,
-  "2023-06-15": 1,
-  "2023-06-16": 1,
-  "2023-06-17": 1,
-  "2023-06-18": 1,
-  "2023-06-19": 1,
-  "2023-06-20": 1,
-  "2023-06-21": 1,
-  "2023-06-22": 1,
-  "2023-06-23": 1,
-  "2023-06-24": 1,
-  "2023-06-25": 1,
-  "2023-06-26": 1,
-  "2023-06-27": 1,
-  "2023-06-28": 1,
-  "2023-06-29": 1,
-  "2023-06-30": 1,
-  "2023-07-01": 1,
-  "2023-07-02": 1,
-  "2023-07-03": 1,
-  "2023-07-04": 1,
-  "2023-07-05": 1,
-  "2023-07-06": 1,
-  "2023-07-07": 1,
-  "2023-07-08": 1,
-  "2023-07-09": 1,
-  "2023-07-10": 1,
-  "2023-07-11": 1,
-  "2023-07-12": 1,
-  "2023-07-13": 1,
-  "2023-07-14": 1,
-  "2023-07-15": 1,
-  "2023-07-16": 1,
-  "2023-07-17": 1,
-  "2023-07-18": 1,
-  "2023-07-19": 1,
-  "2023-07-20": 1,
-  "2023-07-21": 1,
-  "2023-07-22": 1,
-  "2023-07-23": 1,
-  "2023-07-24": 1,
-  "2023-07-25": 1,
-  "2023-07-26": 1,
-  "2023-07-27": 1,
-  "2023-07-28": 1,
-  "2023-07-29": 1,
-  "2023-07-30": 1,
-  "2023-07-31": 1,
-  "2023-08-01": 1,
-  "2023-08-02": 1,
-  "2023-08-03": 1,
-  "2023-08-04": 1,
-  "2023-08-05": 1,
-  "2023-08-06": 1,
-  "2023-08-07": 1,
-  "2023-08-08": 1,
-  "2023-08-09": 1,
-  "2023-08-10": 1,
-  "2023-08-11": 1,
-  "2023-08-12": 1,
-  "2023-08-13": 1,
-  "2023-08-14": 1,
-  "2023-08-15": 1,
-  "2023-08-16": 1,
-  "2023-08-17": 1,
-  "2023-08-18": 1,
-  "2023-08-19": 1,
-  "2023-08-20": 1,
-  "2023-08-21": 1,
-  "2023-08-22": 1,
-  "2023-08-23": 1,
-  "2023-08-24": 1,
-  "2023-08-25": 1,
-  "2023-08-26": 1,
-  "2023-08-27": 1,
-  "2023-08-28": 1,
-  "2023-08-29": 1,
-  "2023-08-30": 1,
-  "2023-08-31": 1,
-  "2023-09-01": 1,
-  "2023-09-02": 1,
-  "2023-09-03": 1,
-  "2023-09-04": 1,
-  "2023-09-05": 1,
-  "2023-09-06": 1,
-  "2023-09-07": 1,
-  "2023-09-08": 1,
-  "2023-09-09": 1,
-  "2023-09-10": 1,
-  "2023-09-11": 1,
-  "2023-09-12": 1,
-  "2023-09-13": 1,
-  "2023-09-14": 1,
-  "2023-09-15": 1,
-  "2023-09-16": 1,
-  "2023-09-17": 1,
-  "2023-09-18": 1,
-  "2023-09-19": 1,
-  "2023-09-20": 1,
-  "2023-09-21": 1,
-  "2023-09-22": 1,
-  "2023-09-23": 1,
-  "2023-09-24": 1,
-  "2023-09-25": 1,
-  "2023-09-26": 1,
-  "2023-09-27": 1,
-  "2023-09-28": 1,
-  "2023-09-29": 1,
-  "2023-09-30": 1,
-  "2023-10-01": 1,
-  "2023-10-02": 1,
-  "2023-10-03": 1,
-  "2023-10-04": 1,
-  "2023-10-05": 1,
-  "2023-10-06": 1,
-  "2023-10-07": 1,
-  "2023-10-08": 1,
-  "2023-10-09": 1,
-  "2023-10-10": 1,
-  "2023-10-11": 1,
-  "2023-10-12": 1,
-  "2023-10-13": 1,
-  "2023-10-14": 1,
-  "2023-10-15": 1,
-  "2023-10-16": 1,
-  "2023-10-17": 1,
-  "2023-10-18": 1,
-  "2023-10-19": 1,
-  "2023-10-20": 1,
-  "2023-10-21": 1,
-  "2023-10-22": 1,
-  "2023-10-23": 1,
-  "2023-10-24": 1,
-  "2023-10-25": 1,
-  "2023-10-26": 1,
-  "2023-10-27": 1,
-  "2023-10-28": 1,
-  "2023-10-29": 1,
-  "2023-10-30": 1,
-  "2023-10-31": 1,
-  "2023-11-01": 1,
-  "2023-11-02": 1,
-  "2023-11-03": 1,
-  "2023-11-04": 1,
-  "2023-11-05": 1,
-  "2023-11-06": 1,
-  "2023-11-07": 1,
-  "2023-11-08": 1,
-  "2023-11-09": 1,
-  "2023-11-10": 1,
-  "2023-11-11": 1,
-  "2023-11-12": 1,
-  "2023-11-13": 1,
-  "2023-11-14": 1,
-  "2023-11-15": 1,
-  "2023-11-16": 1,
-  "2023-11-17": 1,
-  "2023-11-18": 1,
-  "2023-11-19": 1,
-  "2023-11-20": 1,
-  "2023-11-21": 1,
-  "2023-11-22": 1,
-  "2023-11-23": 1,
-  "2023-11-24": 1,
-  "2023-11-25": 1,
-  "2023-11-26": 1,
-  "2023-11-27": 1,
-  "2023-11-28": 1,
-  "2023-11-29": 1,
-  "2023-11-30": 1,
-  "2023-12-01": 1,
-  "2023-12-02": 1,
-  "2023-12-03": 1,
-  "2023-12-04": 1,
-  "2023-12-05": 1,
-  "2023-12-06": 1,
-  "2023-12-07": 1,
-  "2023-12-08": 1,
-  "2023-12-09": 1,
-  "2023-12-10": 1,
-  "2023-12-11": 1,
-  "2023-12-12": 1,
-  "2023-12-13": 1,
-  "2023-12-14": 1,
-  "2023-12-15": 1,
-  "2023-12-16": 1,
-  "2023-12-17": 1,
-  "2023-12-18": 1,
-  "2023-12-19": 1,
-  "2023-12-20": 1,
-  "2023-12-21": 1,
-  "2023-12-22": 1,
-  "2023-12-23": 1,
-  "2023-12-24": 1,
-  "2023-12-25": 1,
-  "2023-12-26": 1,
-  "2023-12-27": 1,
-  "2023-12-30": 1,
-  "2023-12-31": 1,
-  "2024-01-01": 1,
-  "2024-01-02": 1,
-  "2024-01-03": 1
+  "2024-01-17": 1,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "Raise less corn",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Builders and the Butchers",
+        "url": "https://open.spotify.com/album/6SS996f1ts4ue2txHeDGyq"
+      },
+      "artists": [
+        {
+          "name": "The Builders and The Butchers",
+          "url": "https://open.spotify.com/artist/3fwCB7lIrdjKWiFN4vz99j"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209306,
+      "name": "Black Dresses",
+      "url": "https://open.spotify.com/track/0ErVG3P2bJvIMiThIItcwj"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283413,
+      "name": "Dust Bowl Dance",
+      "url": "https://open.spotify.com/track/2QIt8RWdk5ZJneKTt4sZnK"
+    },
+    {
+      "album": {
+        "name": "Growing up in Reverse",
+        "url": "https://open.spotify.com/album/0PRRJGAy5IP3psjf4DISsu"
+      },
+      "artists": [
+        {
+          "name": "Kate Stephenson",
+          "url": "https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Eat the Rich",
+      "url": "https://open.spotify.com/track/1TMFdi5f9iQp9udGHMCR7F"
+    },
+    {
+      "album": {
+        "name": "Bad Wiring",
+        "url": "https://open.spotify.com/album/5J1O0XL0vTNQ6NH8oAqOey"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Lewis",
+          "url": "https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "Exactly What Nobody Wanted",
+      "url": "https://open.spotify.com/track/4rQ0OUx8hMFqR2joOVs6Ss"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212480,
+      "name": "Highwomen",
+      "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93414,
+      "name": "Leader of a New Regime",
+      "url": "https://open.spotify.com/track/2ruVkS2EM4wgpILg5vd7mX"
+    },
+    {
+      "album": {
+        "name": "Lost Causes",
+        "url": "https://open.spotify.com/album/1GL5L5C3EjfJSqC7S8oPG4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kahn",
+          "url": "https://open.spotify.com/artist/1GbANWoIzqQxtZYXQ0KzwV"
+        },
+        {
+          "name": "Painted Bird",
+          "url": "https://open.spotify.com/artist/1hLu0siSFjsW0BYMCWVibp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "March of the Jobless Corps",
+      "url": "https://open.spotify.com/track/3fAn8w42CBkUh4Em7mCFlS"
+    },
+    {
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/4CqlHgip2WIdvtqJ8BXMhW"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160008,
+      "name": "People",
+      "url": "https://open.spotify.com/track/39sJbSgJmIrB9J1pkRbpaX"
+    },
+    {
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+    },
+    {
+      "album": {
+        "name": "Redesigning Women",
+        "url": "https://open.spotify.com/album/6jmzqSFT9ulrf8xSicynDp"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Redesigning Women",
+      "url": "https://open.spotify.com/track/2XhiUG5cGOkiFsdPLMKV4z"
+    },
+    {
+      "album": {
+        "name": "Rich People",
+        "url": "https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX"
+      },
+      "artists": [
+        {
+          "name": "Carsie Blanton",
+          "url": "https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158441,
+      "name": "Rich People",
+      "url": "https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM"
+    },
+    {
+      "album": {
+        "name": "Aquarium Drunkard's Lagniappe Session",
+        "url": "https://open.spotify.com/album/5kBjhTQFxJKU9dl64yBr4w"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177607,
+      "name": "Save the People",
+      "url": "https://open.spotify.com/track/2gIJJuiRMrmAM4Lo7jFJSw"
+    },
+    {
+      "album": {
+        "name": "If I Had a Hammer: Songs of Hope and Struggle",
+        "url": "https://open.spotify.com/album/21k0wecYa9yprQ937HR62H"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Solidarity Forever",
+      "url": "https://open.spotify.com/track/5NShvMH3lRmQPW4qc0hYKY"
+    },
+    {
+      "album": {
+        "name": "Nilsson Sings Newman",
+        "url": "https://open.spotify.com/album/3iIaJ5KOzksixKpJwdpQnz"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127400,
+      "name": "The Beehive State",
+      "url": "https://open.spotify.com/track/11jbwaXDDNk0zRWfQkqv3b"
+    },
+    {
+      "album": {
+        "name": "New Skin For The Old Ceremony",
+        "url": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179546,
+      "name": "There Is a War",
+      "url": "https://open.spotify.com/track/5bPDYLggBz5xEvJJW5SUy5"
+    },
+    {
+      "album": {
+        "name": "This Land is Your Land: The Asch Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt"
+      },
+      "artists": [
+        {
+          "name": "Woody Guthrie",
+          "url": "https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139693,
+      "name": "This Land is Your Land",
+      "url": "https://open.spotify.com/track/3ZjrfGcb3A2PMGA1vRNgSk"
+    },
+    {
+      "album": {
+        "name": "Vote 'Em Out",
+        "url": "https://open.spotify.com/album/6k7HZ97yPzcIXzrmLwhkMb"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140746,
+      "name": "Vote 'Em Out",
+      "url": "https://open.spotify.com/track/1YX1kcNiWLk1GVYEDWsaNg"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/73Ny0Q4lPlVfgSCAJCA8JW"
 }

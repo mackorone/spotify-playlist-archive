@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/3LKddDEC4veAwqoUNKWizM"
+      },
+      "artists": [
+        {
+          "name": "Louie Thesinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204018,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6Imq8YhHb4vmcNRMhj0QaI"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida",
         "url": "https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu"
       },

@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-79 songs - 5 hr 48 min
+80 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [The Town I Loved So Well](https://open.spotify.com/track/7u7T75NCbh5lYJD7534lU8) | [Phil Coulter](https://open.spotify.com/artist/3Hm9DJ7Xa8YgiCAa7MoSiP) | [Words & Music](https://open.spotify.com/album/0M92K8j05LBgzimZTi3y6a) | 6:25 | 2021-10-12 | 2022-07-29 |
 | [The Turfman From Ardee](https://open.spotify.com/track/1g9ojIWqBvaR1eXqXcEqhI) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [A Mouthful of The Mary Wallopers](https://open.spotify.com/album/00IPpzD5bAX0vtU6GG3tYz) | 1:52 | 2022-03-07 |  |
 | [The Way Young Lovers Do \- 1999 Remaster](https://open.spotify.com/track/6lFrlUB7dEKJXftFNCCR8A) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 3:17 | 2021-10-12 | 2022-03-08 |
-| [The West Coast Of Clare](https://open.spotify.com/track/51iBStlAJlUriO53s93F6l) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P) | 5:26 | 2021-10-12 |  |
+| [The West Coast of Clare](https://open.spotify.com/track/3mTkN13P0kiUtKWhAtbAP0) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/7ngRumkLaxTRd7vNsirCns) | 5:26 | 2023-11-14 |  |
+| [The West Coast Of Clare](https://open.spotify.com/track/51iBStlAJlUriO53s93F6l) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P) | 5:26 | 2021-10-12 | 2024-01-04 |
 | [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 | 2022-03-11 |  |
 | [The Wild Rover](https://open.spotify.com/track/1h0T3Lc5K2sj0oTHAzpUCE) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Young People](https://open.spotify.com/album/7uruJbMIWhZ8MjeyC1WZK3) | 10:14 | 2022-03-11 | 2022-11-13 |
 | [The Wild Rover](https://open.spotify.com/track/46OM25ic12D0F50xsFHIkx) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4gmZBugeRCmP6Kmkm7DCes) | 10:14 | 2021-10-12 | 2022-07-29 |

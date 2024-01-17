@@ -264,7 +264,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 116906,
       "name": "100K",
       "url": "https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-17",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -5372,7 +5372,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -5822,7 +5822,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 156413,
       "name": "Celui qui part",
       "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-10",
       "duration_ms": 207611,
       "name": "Children of the Sky (a Starfield song)",
       "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
@@ -7764,7 +7764,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -11000,7 +11000,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -11294,7 +11294,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
@@ -13190,7 +13190,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -14110,7 +14110,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 205800,
       "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
       "url": "https://open.spotify.com/track/17LZKLjQxH2w67xMa8mWML"
@@ -14186,7 +14186,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 184173,
       "name": "J't'emm\u00e8ne au vent",
       "url": "https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0"
@@ -15306,7 +15306,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 231960,
       "name": "L'aventurier",
       "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
@@ -16016,7 +16016,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 173427,
       "name": "La League",
       "url": "https://open.spotify.com/track/38KQ5zKDeF3kUH18ZjzBbZ"
@@ -18233,6 +18233,24 @@
     },
     {
       "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "album": {
         "name": "Spleen",
         "url": "https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD"
       },
@@ -20390,7 +20408,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-16",
       "duration_ms": 180908,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG"
@@ -20964,6 +20982,24 @@
       "duration_ms": 164986,
       "name": "Murder",
       "url": "https://open.spotify.com/track/3LK81r3yptHlliNgLBo1UC"
+    },
+    {
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
       "album": {
@@ -21652,7 +21688,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-17",
       "duration_ms": 202186,
       "name": "No love",
       "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
@@ -22156,7 +22192,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-07",
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77"
@@ -22623,6 +22659,28 @@
     },
     {
       "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
+    },
+    {
+      "album": {
         "name": "2069'",
         "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
       },
@@ -22811,6 +22869,24 @@
     },
     {
       "album": {
+        "name": "Parapluie",
+        "url": "https://open.spotify.com/album/1iA5D7sBXDGAITkSWPIqDF"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176125,
+      "name": "Parapluie",
+      "url": "https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B"
+    },
+    {
+      "album": {
         "name": "M\u00e9lo",
         "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
       },
@@ -22894,7 +22970,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 246440,
       "name": "Partenaire Particulier",
       "url": "https://open.spotify.com/track/0S4dVpqBLnBFj4wdB4UDMd"
@@ -24182,7 +24258,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -27742,7 +27818,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR"
@@ -28518,7 +28594,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - Remastered",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
@@ -28565,6 +28641,32 @@
     },
     {
       "album": {
+        "name": "Saison 2",
+        "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Killemv",
+          "url": "https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf"
+        },
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "T'aimerais (feat. Ziak)",
+      "url": "https://open.spotify.com/track/2Tm9ujeEWuBBsg6OPlRqvg"
+    },
+    {
+      "album": {
         "name": "T'aimerais (feat. Ziak)",
         "url": "https://open.spotify.com/album/39BFIcWfCAGva6bjZ7MoUX"
       },
@@ -28574,13 +28676,17 @@
           "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         },
         {
+          "name": "Killemv",
+          "url": "https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf"
+        },
+        {
           "name": "Ziak",
           "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
         }
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 153253,
       "name": "T'aimerais (feat. Ziak)",
       "url": "https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa"
@@ -29026,6 +29132,32 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "album": {
+        "name": "Temps en temps (feat. Kore)",
+        "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        },
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153649,
+      "name": "Temps en temps (feat. Kore)",
+      "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {
       "album": {
@@ -30464,7 +30596,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "Tu connais",
       "url": "https://open.spotify.com/track/3rIX5DA9rUk89KUOZdGFaN"
@@ -31006,7 +31138,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 147788,
       "name": "Urus",
       "url": "https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI"
@@ -31578,7 +31710,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -31750,6 +31882,28 @@
       "duration_ms": 169645,
       "name": "When Love Sucks (feat. Dido)",
       "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "album": {
@@ -32004,6 +32158,24 @@
       "duration_ms": 133762,
       "name": "Yebba\u2019s Heartbreak",
       "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "album": {

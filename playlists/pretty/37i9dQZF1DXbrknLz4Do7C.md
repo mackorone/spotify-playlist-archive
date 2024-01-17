@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: <a href="spotify:artist:55qfDfgj4Qi3JGe6KpqGtC">Blessing Offor</a>  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,233 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,331 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

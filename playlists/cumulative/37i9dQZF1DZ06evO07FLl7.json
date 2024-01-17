@@ -734,6 +734,28 @@
     {
       "album": {
         "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
+        "url": "https://open.spotify.com/album/5U1zfJbVLAGHq6DfYCCkUH"
+      },
+      "artists": [
+        {
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205515,
+      "name": "Os Pretinho Bem",
+      "url": "https://open.spotify.com/track/3zMrFioc8zQT7F5XPfyu4N"
+    },
+    {
+      "album": {
+        "name": "Pedras, Flechas, Lan\u00e7as, Espadas e Espelhos",
         "url": "https://open.spotify.com/album/4usW6TOvukNX0PIxczZjQ6"
       },
       "artists": [
@@ -748,7 +770,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 205515,
       "name": "Os Pretinho Bem",
       "url": "https://open.spotify.com/track/6524TC8wLqGylEM6RZL23O"

@@ -1,3 +1,873 @@
 {
-  "2024-01-03": 9
+  "2024-01-17": 2170,
+  "date_first_scraped": "2024-01-03",
+  "description": "Listen to the soundtracks of the Maestra. (\ub9c8\uc5d0\uc2a4\ud2b8\ub77c \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
+  "name": "\ub9c8\uc5d0\uc2a4\ud2b8\ub77c (Maestra: Strings of Truth)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Brahms: 21 Hungarian Dances",
+        "url": "https://open.spotify.com/album/4ItbBO7SVJLn7HU6BXrmKV"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",
+      "url": "https://open.spotify.com/track/2oLjhx7w8Hyd3gry9cCXr7"
+    },
+    {
+      "album": {
+        "name": "A Whole New World (From \"Aladdin\")",
+        "url": "https://open.spotify.com/album/3QKlFrb003pEc0I321wmSt"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163240,
+      "name": "A Whole New World - From \"Aladdin\"",
+      "url": "https://open.spotify.com/track/7pJ4qUAXYKIObqrHpN09Ds"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphony No. 6 \"Pastoral\"",
+        "url": "https://open.spotify.com/album/1kGJis704qkvZIWOIsKjA0"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "Beethoven: Symphony No. 6 in F Major, Op. 68 \"Pastoral\": IV. Gewitter. Sturm. Allegro -",
+      "url": "https://open.spotify.com/track/2pOR6p3xnfKv2cNe3DqCVl"
+    },
+    {
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Cello Concerto",
+        "url": "https://open.spotify.com/album/2DkUvnxlZmEMBmPOmzC4lE"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726266,
+      "name": "Cello Concerto in B Minor, Op. 104, B. 191: II. Adagio ma non troppo",
+      "url": "https://open.spotify.com/track/3z3wCIsXBj8yeBAl35hf0C"
+    },
+    {
+      "album": {
+        "name": "Maestra Audio Liner",
+        "url": "https://open.spotify.com/album/6ZSZtsahW78yXJ4zenOQad"
+      },
+      "artists": [
+        {
+          "name": "Jea",
+          "url": "https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25000,
+      "name": "Curated by JeA",
+      "url": "https://open.spotify.com/track/345dzgbWZZzWwOVgufJfbC"
+    },
+    {
+      "album": {
+        "name": "Maestra Audio Liner",
+        "url": "https://open.spotify.com/album/6ZSZtsahW78yXJ4zenOQad"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31250,
+      "name": "Curated by Sumi Jo",
+      "url": "https://open.spotify.com/track/7if8YWZvvldFhHH7GkMPTJ"
+    },
+    {
+      "album": {
+        "name": "Symphonic Queen - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2cxk26Jcp16zhJv77IFd2v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Mercury",
+          "url": "https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Matthew Freeman",
+          "url": "https://open.spotify.com/artist/1jWA34qvde90HAhYqjxXun"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222546,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/2ruB0oOIk52u2AWmiWrGgd"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4bg3HYoBFNRe6ZkMDSjJsF"
+      },
+      "artists": [
+        {
+          "name": "Jung Jae-Min",
+          "url": "https://open.spotify.com/artist/4Wm2dUQAzkLP6OOvA8heBv"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257548,
+      "name": "G.F. Handel - Passacaglia for 2 Violin and Orchestra",
+      "url": "https://open.spotify.com/track/22BCbvreiyC2ddabNmJ7tM"
+    },
+    {
+      "album": {
+        "name": "He's a Pirate / Davy Jones (From \"Pirates of the Caribbean: Dead Man's Chest\")",
+        "url": "https://open.spotify.com/album/4oIh8FzevbAIT6aPTpQgYU"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Danish National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6kClxEibflIbA231B95OYX"
+        },
+        {
+          "name": "Ludwig Wicki",
+          "url": "https://open.spotify.com/artist/2MclOoZqoxERDUziTaStUc"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274474,
+      "name": "He's a Pirate / Davy Jones (From \"Pirates of the Caribbean: Dead Man's Chest\")",
+      "url": "https://open.spotify.com/track/4ZpoUVBJTa7sZMWkAsg0wy"
+    },
+    {
+      "album": {
+        "name": "John Williams - 40 Years Of Film Music",
+        "url": "https://open.spotify.com/album/0fIiu7F0xN7MXXoOE9JJPq"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291320,
+      "name": "Hedwig's Theme - From \"Harry Potter and the Philosopher's Stone\"",
+      "url": "https://open.spotify.com/track/0QlpQ1jiTo4EzA1WwTxLZo"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6uceWDHcg3lbaCkrO8KMNI"
+      },
+      "artists": [
+        {
+          "name": "Jea",
+          "url": "https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "I Have Died",
+      "url": "https://open.spotify.com/track/2SltZPTlTmEQSUtxSW4G4Y"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv"
+      },
+      "artists": [
+        {
+          "name": "MADDY",
+          "url": "https://open.spotify.com/artist/4hbRDpV950DlOSNCP4qhcf"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "It's coming to end",
+      "url": "https://open.spotify.com/track/79yUMhWV8H0gPC1JDppd9E"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv"
+      },
+      "artists": [
+        {
+          "name": "MADDY",
+          "url": "https://open.spotify.com/artist/4hbRDpV950DlOSNCP4qhcf"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "It's coming to end - Korean Version",
+      "url": "https://open.spotify.com/track/6uj9EP9Rg4tEjZKZ69fqY5"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc131\uc6b0",
+          "url": "https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174359,
+      "name": "Love in Memory",
+      "url": "https://open.spotify.com/track/1Dy4emXlutyGLay7eZaurY"
+    },
+    {
+      "album": {
+        "name": "Classical Relaxation Music Now! Modern Hit Songs Go Orchestral",
+        "url": "https://open.spotify.com/album/7iKTx0otrolj5iyBautXDP"
+      },
+      "artists": [
+        {
+          "name": "Pop Orchestral Academy of Los Angeles",
+          "url": "https://open.spotify.com/artist/1PBooXcEWQsAWJ2gCoKRRH"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Love Story (Originally Performed by Taylor Swift) [Orchestral Version]",
+      "url": "https://open.spotify.com/track/4JIF72y6XeCGSY6muiuvQG"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4bg3HYoBFNRe6ZkMDSjJsF"
+      },
+      "artists": [
+        {
+          "name": "ALi",
+          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189657,
+      "name": "Luminous Conatus",
+      "url": "https://open.spotify.com/track/68gQD3kc5fkO2t64UhwH4s"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc131\uc6b0",
+          "url": "https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178274,
+      "name": "Maestra",
+      "url": "https://open.spotify.com/track/42BXOexgmI7FOurhzOsqD0"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6uceWDHcg3lbaCkrO8KMNI"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\ubbfc\uc12d",
+          "url": "https://open.spotify.com/artist/76hRm2ke9s874xysV8Rf8e"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220965,
+      "name": "Mendelssohn : 2nd Movement from Violin Concerto In E Minor Op.64",
+      "url": "https://open.spotify.com/track/7bYr5SdlOyTT9RJBQKK5RR"
+    },
+    {
+      "album": {
+        "name": "WORLD DREAMS",
+        "url": "https://open.spotify.com/album/5xIlbLoLnwYrlPj7FsYqo5"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "\u65b0\u65e5\u672c\u30d5\u30a3\u30eb\u30ef\u30fc\u30eb\u30c9\u30c9\u30ea\u30fc\u30e0\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
+          "url": "https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277973,
+      "name": "Mission Impossible",
+      "url": "https://open.spotify.com/track/25Nj8x1RP1c29ywgkR5zD5"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/4LCmBtq3t02jUGi7pyHFLv"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253581,
+      "name": "My Day",
+      "url": "https://open.spotify.com/track/0KVC3Nv6tvyuxdIyxPHFMI"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/4LCmBtq3t02jUGi7pyHFLv"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253581,
+      "name": "My Day - Instrumental",
+      "url": "https://open.spotify.com/track/0hUWVMdo4S20uKX1abwuwq"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/4LCmBtq3t02jUGi7pyHFLv"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288003,
+      "name": "My Day - Orchestra Version",
+      "url": "https://open.spotify.com/track/67RtWmuvSo9o8V6SHjNiOF"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/4LCmBtq3t02jUGi7pyHFLv"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288026,
+      "name": "My Day - Orchestra Version Instrumental",
+      "url": "https://open.spotify.com/track/00RvWWbwO5TgEbITkiS7zM"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/2bMpQME3OZBkaij6oPvBIv"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc131\uc6b0",
+          "url": "https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149087,
+      "name": "Piano for Maestra",
+      "url": "https://open.spotify.com/track/4zeg3MkyLvDgTehW5uPYv0"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/5aWbMx5q4RnXQ8kZrd5V70"
+      },
+      "artists": [
+        {
+          "name": "Ra.L",
+          "url": "https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/1nlMvcpuuDtClpD9z2PPYV"
+    },
+    {
+      "album": {
+        "name": "Johann Strauss II: Walzer Und Polkas",
+        "url": "https://open.spotify.com/album/7rTDIH2l3iAGqCNwWhCBTR"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss I",
+          "url": "https://open.spotify.com/artist/4WMHJgeJCssiGW3ssUT7eb"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "Ferenc Fricsay",
+          "url": "https://open.spotify.com/artist/0BjUTtTzgWxoQkbGjz4NmZ"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137666,
+      "name": "Radetzky-Marsch, Op. 228",
+      "url": "https://open.spotify.com/track/2iU5PG4qrbS0jBL4a7kCpB"
+    },
+    {
+      "album": {
+        "name": "Red Flavor (Orchestra Version) - SM STATION",
+        "url": "https://open.spotify.com/album/6Fxc4F5iiG8YisFZ8gOwMY"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        },
+        {
+          "name": "Inyoung Park",
+          "url": "https://open.spotify.com/artist/5dLUk1Gy9zRizXEPFUUf04"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Red Flavor - Orchestra Version",
+      "url": "https://open.spotify.com/track/6ISvENhyKPxx13XWfzrKSp"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov Variations",
+        "url": "https://open.spotify.com/album/63PKBCJO4rZRgejds1VMCf"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
+      "url": "https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz"
+    },
+    {
+      "album": {
+        "name": "Songs from the Arc of Life",
+        "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "Salut d'Amour, Op. 12",
+      "url": "https://open.spotify.com/track/0P7UwPB9vL74bD6gzYaKIu"
+    },
+    {
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Serenade for Strings, Czech Suite",
+        "url": "https://open.spotify.com/album/41RV3g6Fjyzfe31bEXtMNT"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Prague Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
+        },
+        {
+          "name": "Petr Skvor",
+          "url": "https://open.spotify.com/artist/3X4vtZfo29CzvenatIDhf1"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432533,
+      "name": "Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse",
+      "url": "https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/5aWbMx5q4RnXQ8kZrd5V70"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc131\uc6b0",
+          "url": "https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD"
+        },
+        {
+          "name": "\uc2e0\ubbfc\uc12d",
+          "url": "https://open.spotify.com/artist/76hRm2ke9s874xysV8Rf8e"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325956,
+      "name": "Sunflower I Waltz - Allegretto",
+      "url": "https://open.spotify.com/track/1Wmi3U8vMqI7xSjyTuEBNV"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/5aWbMx5q4RnXQ8kZrd5V70"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc131\uc6b0",
+          "url": "https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD"
+        },
+        {
+          "name": "\uc2e0\ubbfc\uc12d",
+          "url": "https://open.spotify.com/artist/76hRm2ke9s874xysV8Rf8e"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349816,
+      "name": "Sunflower II Adagio",
+      "url": "https://open.spotify.com/track/2QIBJFbaC5pNCMNMI7BPRi"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/5aWbMx5q4RnXQ8kZrd5V70"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc131\uc6b0",
+          "url": "https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD"
+        },
+        {
+          "name": "\uc2e0\ubbfc\uc12d",
+          "url": "https://open.spotify.com/artist/76hRm2ke9s874xysV8Rf8e"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304556,
+      "name": "Sunflower III Moderato con moto",
+      "url": "https://open.spotify.com/track/10m1L40jijQoNbNbvZJgTG"
+    },
+    {
+      "album": {
+        "name": "Maestra (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/5aWbMx5q4RnXQ8kZrd5V70"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc131\uc6b0",
+          "url": "https://open.spotify.com/artist/3KADrcBIRH5elcUi54l4qD"
+        },
+        {
+          "name": "\uc2e0\ubbfc\uc12d",
+          "url": "https://open.spotify.com/artist/76hRm2ke9s874xysV8Rf8e"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415650,
+      "name": "Sunflower IV Andante maestoso",
+      "url": "https://open.spotify.com/track/2uk0UDxfsZWegSqmM65vPj"
+    },
+    {
+      "album": {
+        "name": "Super Mario: The Classics (Orchestrated)",
+        "url": "https://open.spotify.com/album/7HUTC5vsvYbHA4Q7XbSe0w"
+      },
+      "artists": [
+        {
+          "name": "The Marcus Hedges Trend Orchestra",
+          "url": "https://open.spotify.com/artist/123epI2OFu37F7VsnOBn9F"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117165,
+      "name": "Super Mario Bros. Theme",
+      "url": "https://open.spotify.com/track/6TquKIHz5dG9Y1cXm6a8yI"
+    },
+    {
+      "album": {
+        "name": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
+        "url": "https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726320,
+      "name": "Symphonic Variation \"Merry-Go-Round + Cave of Mind\" - from 'Howl\u2019s Moving Castle'",
+      "url": "https://open.spotify.com/track/7tP1PK3eeSaEaMPgzL50LC"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Complete Symphonies",
+        "url": "https://open.spotify.com/album/6rjR4P5IfH31YnA2SN8cAU"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Heidelberg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1FH6ekmNO33FleISWH4Uee"
+        },
+        {
+          "name": "Thomas Fey",
+          "url": "https://open.spotify.com/artist/3t71S74rdie9ZSdbOonNke"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597586,
+      "name": "Symphony No. 4 in A Major, Op. 90, MWV N16 \"Italian\": I. Allegro vivace",
+      "url": "https://open.spotify.com/track/6lbU79ekl7KRqa4tDccFkj"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "The Imperial March (Darth Vader's Theme)",
+      "url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto - Souvenir d'un lieu cher",
+        "url": "https://open.spotify.com/album/5wkDcDWyYYRZNG3HPBI64f"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1102240,
+      "name": "Violin Concerto in D Major, Op. 35, TH 59: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/4X0v1lc0k2rMvshaYky1mh"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: The Four Seasons",
+        "url": "https://open.spotify.com/album/7nXsdgfAlJjRBBP6J0ehw2"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Nigel Kennedy",
+          "url": "https://open.spotify.com/artist/7AANfmLM36QqH6QsOQnV3h"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": III. Presto",
+      "url": "https://open.spotify.com/track/2nnXe7n3Vivs7OfQKRsfWD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9Uq4r3Htg4F"
 }

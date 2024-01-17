@@ -1,175 +1,3315 @@
 {
-  "2023-07-13": 151591,
-  "2023-07-14": 152091,
-  "2023-07-15": 152438,
-  "2023-07-16": 152942,
-  "2023-07-17": 153330,
-  "2023-07-18": 153678,
-  "2023-07-19": 154037,
-  "2023-07-20": 154376,
-  "2023-07-21": 154671,
-  "2023-07-22": 155029,
-  "2023-07-23": 155371,
-  "2023-07-24": 155662,
-  "2023-07-25": 155939,
-  "2023-07-26": 156230,
-  "2023-07-27": 156593,
-  "2023-07-28": 156893,
-  "2023-07-29": 157235,
-  "2023-07-30": 157580,
-  "2023-07-31": 157908,
-  "2023-08-01": 158158,
-  "2023-08-02": 158391,
-  "2023-08-03": 158626,
-  "2023-08-04": 158887,
-  "2023-08-05": 159179,
-  "2023-08-06": 159697,
-  "2023-08-07": 159697,
-  "2023-08-08": 159891,
-  "2023-08-09": 160094,
-  "2023-08-10": 160285,
-  "2023-08-11": 160414,
-  "2023-08-12": 160585,
-  "2023-08-13": 160781,
-  "2023-08-14": 160945,
-  "2023-08-15": 161162,
-  "2023-08-16": 161162,
-  "2023-08-17": 161281,
-  "2023-08-18": 161386,
-  "2023-08-19": 161506,
-  "2023-08-20": 161651,
-  "2023-08-21": 161768,
-  "2023-08-22": 161848,
-  "2023-08-23": 161894,
-  "2023-08-24": 161981,
-  "2023-08-25": 162070,
-  "2023-08-26": 162129,
-  "2023-08-27": 162259,
-  "2023-08-28": 162354,
-  "2023-08-29": 162423,
-  "2023-08-30": 162482,
-  "2023-08-31": 162506,
-  "2023-09-01": 162571,
-  "2023-09-02": 162571,
-  "2023-09-03": 162603,
-  "2023-09-04": 162622,
-  "2023-09-05": 162635,
-  "2023-09-06": 162667,
-  "2023-09-07": 162764,
-  "2023-09-08": 162899,
-  "2023-09-09": 163159,
-  "2023-09-10": 163649,
-  "2023-09-11": 164029,
-  "2023-09-12": 164300,
-  "2023-09-13": 164516,
-  "2023-09-14": 164779,
-  "2023-09-15": 164994,
-  "2023-09-16": 165219,
-  "2023-09-17": 165219,
-  "2023-09-18": 165841,
-  "2023-09-19": 166003,
-  "2023-09-20": 166192,
-  "2023-09-21": 166340,
-  "2023-09-22": 166475,
-  "2023-09-23": 166675,
-  "2023-09-24": 166675,
-  "2023-09-25": 167050,
-  "2023-09-26": 167148,
-  "2023-09-27": 167223,
-  "2023-09-28": 167285,
-  "2023-09-29": 167360,
-  "2023-09-30": 167491,
-  "2023-10-01": 167618,
-  "2023-10-02": 167717,
-  "2023-10-03": 167785,
-  "2023-10-04": 167858,
-  "2023-10-05": 167920,
-  "2023-10-06": 167963,
-  "2023-10-07": 168057,
-  "2023-10-08": 168146,
-  "2023-10-09": 168146,
-  "2023-10-10": 168238,
-  "2023-10-11": 168287,
-  "2023-10-12": 168287,
-  "2023-10-13": 168289,
-  "2023-10-14": 168289,
-  "2023-10-15": 168289,
-  "2023-10-16": 168289,
-  "2023-10-17": 168289,
-  "2023-10-18": 168289,
-  "2023-10-19": 168494,
-  "2023-10-20": 168494,
-  "2023-10-21": 168494,
-  "2023-10-22": 168494,
-  "2023-10-23": 168531,
-  "2023-10-24": 168540,
-  "2023-10-25": 168540,
-  "2023-10-26": 168540,
-  "2023-10-27": 168540,
-  "2023-10-28": 168540,
-  "2023-10-29": 168540,
-  "2023-10-30": 168540,
-  "2023-10-31": 168540,
-  "2023-11-01": 168540,
-  "2023-11-02": 168658,
-  "2023-11-03": 168658,
-  "2023-11-04": 168658,
-  "2023-11-05": 168658,
-  "2023-11-06": 168658,
-  "2023-11-07": 168658,
-  "2023-11-08": 168658,
-  "2023-11-09": 168658,
-  "2023-11-10": 168658,
-  "2023-11-11": 168772,
-  "2023-11-12": 168785,
-  "2023-11-13": 168785,
-  "2023-11-14": 168785,
-  "2023-11-15": 168785,
-  "2023-11-16": 168785,
-  "2023-11-17": 168827,
-  "2023-11-18": 168827,
-  "2023-11-19": 168827,
-  "2023-11-20": 168827,
-  "2023-11-21": 168827,
-  "2023-11-22": 168827,
-  "2023-11-23": 168890,
-  "2023-11-24": 168890,
-  "2023-11-25": 168890,
-  "2023-11-26": 168890,
-  "2023-11-27": 168890,
-  "2023-11-28": 168890,
-  "2023-11-29": 168890,
-  "2023-11-30": 168890,
-  "2023-12-01": 168890,
-  "2023-12-02": 168890,
-  "2023-12-03": 168890,
-  "2023-12-04": 168890,
-  "2023-12-05": 168890,
-  "2023-12-06": 168890,
-  "2023-12-07": 168890,
-  "2023-12-08": 168890,
-  "2023-12-09": 168777,
-  "2023-12-10": 168777,
-  "2023-12-11": 168851,
-  "2023-12-12": 168851,
-  "2023-12-13": 168851,
-  "2023-12-14": 168901,
-  "2023-12-15": 168912,
-  "2023-12-16": 168933,
-  "2023-12-17": 168972,
-  "2023-12-18": 168989,
-  "2023-12-19": 169011,
-  "2023-12-20": 169020,
-  "2023-12-21": 169026,
-  "2023-12-22": 169050,
-  "2023-12-23": 169063,
-  "2023-12-24": 169104,
-  "2023-12-25": 169128,
-  "2023-12-26": 169172,
-  "2023-12-27": 169206,
-  "2023-12-30": 169302,
-  "2023-12-31": 169346,
-  "2024-01-01": 169355,
-  "2024-01-02": 169356,
-  "2024-01-03": 169348
+  "2024-01-17": 169559,
+  "date_first_scraped": "2023-07-13",
+  "description": "All-new performances by the cast and exclusive content. How many wonders can one playlist hold?",
+  "name": "The Little Mermaid Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23426,
+      "name": "Ariel in Love - Remastered 2014",
+      "url": "https://open.spotify.com/track/6Tjv4MKFLSiGgBlIkLdgLo"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249760,
+      "name": "Ariel Left Behind - Remastered 2014",
+      "url": "https://open.spotify.com/track/3d2wBgJ5UDk1U5k0xC2CVz"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98640,
+      "name": "Ariel Regains Her Voice",
+      "url": "https://open.spotify.com/track/3NNMwejeVXJs1Ix2K0PPMy"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82853,
+      "name": "Ariel's Goodbye",
+      "url": "https://open.spotify.com/track/270OUjwWypMvDPuMX0nTb8"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45160,
+      "name": "Ariel's Grotto",
+      "url": "https://open.spotify.com/track/64E18729k1O3LDktG3DGR6"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82853,
+      "name": "Bedtime",
+      "url": "https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sierra Boggess as Ariel",
+          "url": "https://open.spotify.com/artist/1j4a3bBWYNjecFqxcjRtr5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183760,
+      "name": "Beyond My Wildest Dreams",
+      "url": "https://open.spotify.com/track/07Ikb6oVQ5bddOktyquwFL"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Carriage Ride",
+      "url": "https://open.spotify.com/track/49Egq9tkpWXUqGp89824R5"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140600,
+      "name": "Crab On a Plate / Bedtime - Remastered 2014",
+      "url": "https://open.spotify.com/track/33bKuIzM6hGsFQMER8X82o"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Triton",
+          "url": "https://open.spotify.com/artist/32Lw7bsIKsecEhwXGUbdlp"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40426,
+      "name": "Daughters of Triton",
+      "url": "https://open.spotify.com/track/3nN3RstyJA9LlIQvnkkKtD"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Mersisters - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/40gAnqVkjZdEzBOR4kTWAe"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79066,
+      "name": "Daughters of Triton",
+      "url": "https://open.spotify.com/track/6rKVAvjHcxAzZ1BHtwh5yC"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "RILEY",
+          "url": "https://open.spotify.com/artist/5AKj7LRRQHfYPsCKfsptga"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111543,
+      "name": "Daughters of Triton - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/5wojWJBETK9off57QwnWlc"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Triton",
+          "url": "https://open.spotify.com/artist/32Lw7bsIKsecEhwXGUbdlp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52560,
+      "name": "Daughters of Triton - Remastered 2014",
+      "url": "https://open.spotify.com/track/5qzlaLWKfJynOiBS6MRZol"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56013,
+      "name": "Daughters of Triton - Synth Demo",
+      "url": "https://open.spotify.com/track/7agke8wyi9NbRCxKI9DPom"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112466,
+      "name": "Destroying the Grotto - Remastered 2014",
+      "url": "https://open.spotify.com/track/0YUkAyVUVr7bflO8vJvRzv"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114786,
+      "name": "Destruction of the Grotto",
+      "url": "https://open.spotify.com/track/4XSeqYsvd3UOv7biLD1J8z"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96853,
+      "name": "Dinglehopper",
+      "url": "https://open.spotify.com/track/5VTPGa09zJNqDUZKCggGpI"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid 2",
+        "url": "https://open.spotify.com/album/7K2x3w8QLIGYljgafIP0pC"
+      },
+      "artists": [
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        },
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Rob Paulsen",
+          "url": "https://open.spotify.com/artist/3oSARazhHRKsb7MfiCPUpY"
+        },
+        {
+          "name": "Clancy Brown",
+          "url": "https://open.spotify.com/artist/6ram7Ibc9op5v56h2DQmLN"
+        },
+        {
+          "name": "Kay E Kuter",
+          "url": "https://open.spotify.com/artist/6vmiXFxvTZH0E3F1OlSTqm"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "Down to the Sea",
+      "url": "https://open.spotify.com/track/5O3XZbXoPs3KD87OH3sO31"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223013,
+      "name": "Eric to the Rescue",
+      "url": "https://open.spotify.com/track/5hE6mgwyI0Qsco7ec7YeNy"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141773,
+      "name": "Eric's Decision",
+      "url": "https://open.spotify.com/track/5xmwvUyYqYaiucwJvFwIq1"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84093,
+      "name": "Eric's Library",
+      "url": "https://open.spotify.com/track/6sAnYBCJ5HfU17eVIWLqva"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91240,
+      "name": "Eric's Ship",
+      "url": "https://open.spotify.com/track/3kNq0BOiDts51su7WWWRMZ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30080,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/6llaeUEQcqJgaBXp5Fpw2c"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28226,
+      "name": "Fanfare - Remastered 2014",
+      "url": "https://open.spotify.com/track/6QVcoBQnMJgsFCZHILZtvt"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Jonah Hauer-King",
+          "url": "https://open.spotify.com/artist/2I2IofADiLp0tdtqaGUwkb"
+        },
+        {
+          "name": "John Dagleish",
+          "url": "https://open.spotify.com/artist/483wgjzEGiSxTRqZOW9f3I"
+        },
+        {
+          "name": "Christopher Fairbank",
+          "url": "https://open.spotify.com/artist/6PaIVi2hYqnCyu9exuBdl0"
+        },
+        {
+          "name": "Ensemble - The Little Mermaid",
+          "url": "https://open.spotify.com/artist/3WoPXSBmNV9DJnxZgnU224"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88520,
+      "name": "Fathoms Below",
+      "url": "https://open.spotify.com/track/5Z9T0S3Yq4FgOGJMYUsvSM"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Merwin Foard as Pilot",
+          "url": "https://open.spotify.com/artist/3fCXc1wr3LDv2bfrqNQVrx"
+        },
+        {
+          "name": "Sailors - The Little Mermaid Broadway",
+          "url": "https://open.spotify.com/artist/4FBNXk4vVgEpL3yT1IYMsq"
+        },
+        {
+          "name": "Sean Palmer as Prince Eric",
+          "url": "https://open.spotify.com/artist/5sPZ2JvkLT9u9kOmDRQS7N"
+        },
+        {
+          "name": "Jonathan Freeman as Grimsby",
+          "url": "https://open.spotify.com/artist/0DkqxhIlrFRS09gQxlPYJq"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154506,
+      "name": "Fathoms Below",
+      "url": "https://open.spotify.com/track/5IbCV9Icebx8rR6wAp5hhP"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Ship's Chorus",
+          "url": "https://open.spotify.com/artist/6lVfv13tNN5AORH9RWA6aN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101266,
+      "name": "Fathoms Below",
+      "url": "https://open.spotify.com/track/7qiVTClmhIrNT0fqDO8a6g"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146104,
+      "name": "Fathoms Below - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/51SWt10JEUEFpFPBWVRgOb"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Ship's Chorus",
+          "url": "https://open.spotify.com/artist/6lVfv13tNN5AORH9RWA6aN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101693,
+      "name": "Fathoms Below - Remastered 2014",
+      "url": "https://open.spotify.com/track/4DWHTqEiDyJiRl0mD4k0g8"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Fathoms Below - Work Tape Version",
+      "url": "https://open.spotify.com/track/4I27o8rHN4OaSQwEdZCjR8"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145640,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/0rvVWUrt6mTA4f3wNKk8cF"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sean Palmer as Prince Eric",
+          "url": "https://open.spotify.com/artist/5sPZ2JvkLT9u9kOmDRQS7N"
+        },
+        {
+          "name": "Sierra Boggess as Ariel",
+          "url": "https://open.spotify.com/artist/1j4a3bBWYNjecFqxcjRtr5"
+        },
+        {
+          "name": "Ensemble - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/08GEqHGsKncsWA3b4xsaKd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153520,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/2nJ38YXkzKwV8r18LKh8GX"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "The Little Mermaid Live! Orchestra",
+          "url": "https://open.spotify.com/artist/2t2Ekjzp6tgkyewjQdcaIG"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105013,
+      "name": "Finale - From \"The Little Mermaid Live!\"/Instrumental",
+      "url": "https://open.spotify.com/track/5FzLY0JnGCsVue3bf5b5br"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38040,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/4R6rBFYjrRe0C7H49cA2Sp"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "Fireworks - Remastered 2014",
+      "url": "https://open.spotify.com/track/4cIIESCOcLp3duLS9v3TiY"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130880,
+      "name": "Fireworks / The Gigue - Score Piano Demo",
+      "url": "https://open.spotify.com/track/4WZ4r6mCowaGAQ5WdBzMdA"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85133,
+      "name": "Flotsam and Jetsam",
+      "url": "https://open.spotify.com/track/7viHe16yM8Zb7I8A2L35R3"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107426,
+      "name": "Flotsam and Jetsam - Remastered 2014",
+      "url": "https://open.spotify.com/track/4TDaE5XCqZmITxgQJYiPpP"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid 2",
+        "url": "https://open.spotify.com/album/7K2x3w8QLIGYljgafIP0pC"
+      },
+      "artists": [
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        },
+        {
+          "name": "Tara Charendoff",
+          "url": "https://open.spotify.com/artist/67gayetrbYX7ypoIPGxMwt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149213,
+      "name": "For A Moment - From \"The Little Mermaid 2: Return to the Sea\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/7Lm3gZ205a92FcGPizOSiD"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248066,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/3hL1kg1aSLuh3siwWI11sV"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid 2",
+        "url": "https://open.spotify.com/album/7K2x3w8QLIGYljgafIP0pC"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Give A Little Love",
+      "url": "https://open.spotify.com/track/6MAOk1QpfZgmSmTfSFK8Sq"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/3ChNbqbiPteCoYtufO79qw"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201013,
+      "name": "Happy Ending - Remastered 2014",
+      "url": "https://open.spotify.com/track/7iyjWJQ5MHNOnIYdaHnjEk"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151026,
+      "name": "Happy Ending - Score Piano Demo",
+      "url": "https://open.spotify.com/track/5PNOdWd6KBTzsAS27coA3i"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sean Palmer as Prince Eric",
+          "url": "https://open.spotify.com/artist/5sPZ2JvkLT9u9kOmDRQS7N"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195946,
+      "name": "Her Voice",
+      "url": "https://open.spotify.com/track/0hfFDkS845UKM3BIKXmFBo"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157640,
+      "name": "Her Voice - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/25Rkeo4HiKZeGYNhzmPzuk"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid 2",
+        "url": "https://open.spotify.com/album/7K2x3w8QLIGYljgafIP0pC"
+      },
+      "artists": [
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        },
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Tara Charendoff",
+          "url": "https://open.spotify.com/artist/67gayetrbYX7ypoIPGxMwt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104560,
+      "name": "Here On The Land And Sea (Finale)",
+      "url": "https://open.spotify.com/track/1yNYm00TNA30I7UA8svSdh"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid 2",
+        "url": "https://open.spotify.com/album/7K2x3w8QLIGYljgafIP0pC"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188240,
+      "name": "Hot, Hot, Hot",
+      "url": "https://open.spotify.com/track/5dwkPmyDCoaLqZHRWYccwN"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Korbich as Scuttle",
+          "url": "https://open.spotify.com/artist/3IdfF8j5nmyuiNJBwO2QE1"
+        },
+        {
+          "name": "Gulls - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/0XNLvasNRE3NdlZyhYpshu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151480,
+      "name": "Human Stuff",
+      "url": "https://open.spotify.com/track/0XhC8bfStML9ygBmfOt1JJ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sherie Rene Scott as Ursula",
+          "url": "https://open.spotify.com/artist/1HhkosdGea2IQL7o103ue8"
+        },
+        {
+          "name": "Tyler Maynard as Flotsam",
+          "url": "https://open.spotify.com/artist/1cg9dBeBHkzYW62YeNvGT2"
+        },
+        {
+          "name": "Derrick Baskin as Jetsam",
+          "url": "https://open.spotify.com/artist/1SHdJvAhKFspvRrLbOJjyd"
+        },
+        {
+          "name": "Eels - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/1eYaaCkRwYoaPfKEJaYdh4"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297920,
+      "name": "I Want the Good Times Back",
+      "url": "https://open.spotify.com/track/0ABxAcsRWlqckkyONsfP67"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sherie Rene Scott as Ursula",
+          "url": "https://open.spotify.com/artist/1HhkosdGea2IQL7o103ue8"
+        },
+        {
+          "name": "Tyler Maynard as Flotsam",
+          "url": "https://open.spotify.com/artist/1cg9dBeBHkzYW62YeNvGT2"
+        },
+        {
+          "name": "Derrick Baskin as Jetsam",
+          "url": "https://open.spotify.com/artist/1SHdJvAhKFspvRrLbOJjyd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98933,
+      "name": "I Want the Good Times Back (Reprise)",
+      "url": "https://open.spotify.com/track/3zeranG6JeC4PXlesNtPYr"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sierra Boggess as Ariel",
+          "url": "https://open.spotify.com/artist/1j4a3bBWYNjecFqxcjRtr5"
+        },
+        {
+          "name": "Sean Palmer as Prince Eric",
+          "url": "https://open.spotify.com/artist/5sPZ2JvkLT9u9kOmDRQS7N"
+        },
+        {
+          "name": "Tituss Burgess as Sebastian",
+          "url": "https://open.spotify.com/artist/2dAaUqWf44TmGx6pSX1PX8"
+        },
+        {
+          "name": "Norm Lewis as King Triton",
+          "url": "https://open.spotify.com/artist/0iUK0aKzaMEQ0Da2maYCJ2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295080,
+      "name": "If Only (Quartet)",
+      "url": "https://open.spotify.com/track/08iT1Hdv5gjPPlvSj7OUTZ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Norm Lewis as King Triton",
+          "url": "https://open.spotify.com/artist/0iUK0aKzaMEQ0Da2maYCJ2"
+        },
+        {
+          "name": "Sierra Boggess as Ariel",
+          "url": "https://open.spotify.com/artist/1j4a3bBWYNjecFqxcjRtr5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105826,
+      "name": "If Only (Reprise)",
+      "url": "https://open.spotify.com/track/3Tcv2Ck5n0R7wrd4q7mB7K"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176477,
+      "name": "If Only - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/1WM0k6YUk7GwnxXjnDMNnC"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid 2",
+        "url": "https://open.spotify.com/album/7K2x3w8QLIGYljgafIP0pC"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "Iko Iko",
+      "url": "https://open.spotify.com/track/23aCuzSRlKDTTTS9Un0a6D"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402493,
+      "name": "Interrupting the Wedding / Ursula's Defeat - Remastered 2014",
+      "url": "https://open.spotify.com/track/3fMNFMqw9UMBgDB7qVwBud"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192080,
+      "name": "Intro Ariel - Remastered 2014",
+      "url": "https://open.spotify.com/track/6j8VTZHBMLzoQ3LtMKh6u3"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "Intro Ursula - Remastered 2014",
+      "url": "https://open.spotify.com/track/61TMOu8oggJtl82XrFLmKe"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94560,
+      "name": "Jig",
+      "url": "https://open.spotify.com/track/2z1GLjAEXNefOX1stGBb7f"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114173,
+      "name": "Journey to Ursula",
+      "url": "https://open.spotify.com/track/3cBoVj4t07W4PTNfJETQ6c"
+    },
+    {
+      "album": {
+        "name": "Disneymania 5",
+        "url": "https://open.spotify.com/album/4QUVJSHDCCMW1hxXvpMxMf"
+      },
+      "artists": [
+        {
+          "name": "Ashley Tisdale",
+          "url": "https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/77ltWp9xNbfhldXx3IEqVx"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Awkwafina",
+          "url": "https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx"
+        },
+        {
+          "name": "Jacob Tremblay",
+          "url": "https://open.spotify.com/artist/1RuyU38m8bFrOef3EeRHM8"
+        },
+        {
+          "name": "Ensemble - The Little Mermaid",
+          "url": "https://open.spotify.com/artist/3WoPXSBmNV9DJnxZgnU224"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196586,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/2f2F4z8BOi15hum9aEVDUP"
+    },
+    {
+      "album": {
+        "name": "Disney Guitar: Joy",
+        "url": "https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192905,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/1NLYSmhjkWIkcsm94qNXwX"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Chill",
+        "url": "https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173081,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/2huXICYr99NnodThC8me1m"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163400,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Tituss Burgess as Sebastian",
+          "url": "https://open.spotify.com/artist/2dAaUqWf44TmGx6pSX1PX8"
+        },
+        {
+          "name": "Animals - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/6BvQ03P0MyquyrZAFCgi6e"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/3YicD1Orx2WTSg4SUbjNWb"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137133,
+      "name": "Kiss the Girl (Island Band Reprise)",
+      "url": "https://open.spotify.com/track/080Y8JpIQlWuTwnn4Plgr8"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152134,
+      "name": "Kiss the Girl - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/5SPfGbErrimHvgW4VzTQZo"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160880,
+      "name": "Kiss the Girl - Remastered 2014",
+      "url": "https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161613,
+      "name": "Kiss the Girl - Synth Demo B",
+      "url": "https://open.spotify.com/track/7iQ2U4yGLaJsxGXSWR2ddP"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "John Treacy Egan as Chef Louis",
+          "url": "https://open.spotify.com/artist/70oeZ4rD1DxRh0QOG8Cbmd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114826,
+      "name": "Les Poissons",
+      "url": "https://open.spotify.com/track/1ZexZ95CxsvvDqsG2FTtwM"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Rene Auberjonois",
+          "url": "https://open.spotify.com/artist/5vLv7RBpAmIPypST2zhKUw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95706,
+      "name": "Les Poissons",
+      "url": "https://open.spotify.com/track/04LkB4linu702YDzlrQNDi"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Chefs - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/1NF0HFafAUGQ3MxB0ZO3s3"
+        },
+        {
+          "name": "John Treacy Egan as Chef Louis",
+          "url": "https://open.spotify.com/artist/70oeZ4rD1DxRh0QOG8Cbmd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116906,
+      "name": "Les Poissons (Reprise)",
+      "url": "https://open.spotify.com/track/2YzGO93Vh3EqlYstxoOyiR"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "John Stamos",
+          "url": "https://open.spotify.com/artist/3bVFCD8huf39y8tZ0wbtRb"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Les Poissons - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/2Ha6KZvOX8r8zzYBhhY9lr"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Rene Auberjonois",
+          "url": "https://open.spotify.com/artist/5vLv7RBpAmIPypST2zhKUw"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131253,
+      "name": "Les Poissons - Remastered 2014",
+      "url": "https://open.spotify.com/track/4aaUnoxAA7KrrugaXZtNFP"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123546,
+      "name": "Les Poissons - Synth Demo",
+      "url": "https://open.spotify.com/track/3mIktpljT6UVTXWEIs4A9d"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128853,
+      "name": "Les Poissons - Work Tape Demo",
+      "url": "https://open.spotify.com/track/5Yy2sIVNDW40Y1t7jsZ1Dm"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86213,
+      "name": "Main Titles - Remastered 2014",
+      "url": "https://open.spotify.com/track/7buVDKfQhJrFXQOpeVieW9"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86186,
+      "name": "Main Titles - The Little Mermaid",
+      "url": "https://open.spotify.com/track/09HBvmj0dUeQYHGbKJefR5"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102053,
+      "name": "Marketplace",
+      "url": "https://open.spotify.com/track/3GVe0SY46alvzdLsbw4wwa"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61480,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/4yrhFFKNsnPHf4rR2XGIJS"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69346,
+      "name": "Miss Manners - Remastered 2014",
+      "url": "https://open.spotify.com/track/0kDg9pp6N5UMBoiz4nif3b"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid 2",
+        "url": "https://open.spotify.com/album/7K2x3w8QLIGYljgafIP0pC"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169040,
+      "name": "Octopus's Garden",
+      "url": "https://open.spotify.com/track/2EPDjGmxLyouIfSRRji5q5"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "On Land - Remastered 2014",
+      "url": "https://open.spotify.com/track/4Q1MoinhINmUw6p5FnGkQI"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sean Palmer as Prince Eric",
+          "url": "https://open.spotify.com/artist/5sPZ2JvkLT9u9kOmDRQS7N"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262026,
+      "name": "One Step Closer",
+      "url": "https://open.spotify.com/track/5Kwv0VoK9SIdt6RMRusora"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59973,
+      "name": "Opening Title",
+      "url": "https://open.spotify.com/track/2jQ3O9AZ93oRvg18XCChiE"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/2z1o3f89JMMzneTQXT8e0w"
+    },
+    {
+      "album": {
+        "name": "Part of Your World",
+        "url": "https://open.spotify.com/album/0FtycwGYu9y81sqzreqg1o"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/2qugSPZT4ft2CLV8zgrSdB"
+    },
+    {
+      "album": {
+        "name": "Disney Guitar: Breathe",
+        "url": "https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184450,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/2SvuVrSQb1AAhxPtgzb65p"
+    },
+    {
+      "album": {
+        "name": "Disney Princess Piano",
+        "url": "https://open.spotify.com/album/2rMzWCO0R028IyDSr5qUHN"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250255,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/4MxOMgpwSVchqBTlUFcABb"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/2HRhVQ0yo1jIvXoRTCIdEz"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207440,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/45Ho6P0rArsyEyFkT5hvp0"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195493,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT"
+    },
+    {
+      "album": {
+        "name": "Disneymania 5",
+        "url": "https://open.spotify.com/album/4QUVJSHDCCMW1hxXvpMxMf"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/37sYuRiFy8wfkfCnllJQLu"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sierra Boggess as Ariel",
+          "url": "https://open.spotify.com/artist/1j4a3bBWYNjecFqxcjRtr5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204573,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/1iVkEiZS6ijZ76KeMsrXG6"
+    },
+    {
+      "album": {
+        "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
+        "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344466,
+      "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
+      "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93240,
+      "name": "Part of Your World (Reprise II)",
+      "url": "https://open.spotify.com/track/0ZNT9xAVvwsUYwkEHUio0S"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157106,
+      "name": "Part of Your World (Reprise)",
+      "url": "https://open.spotify.com/track/1aYdJNJT480JVCPYayogh6"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137853,
+      "name": "Part of Your World (Reprise)",
+      "url": "https://open.spotify.com/track/1YzCSIwQ1wlchlqoRrAh1c"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sierra Boggess as Ariel",
+          "url": "https://open.spotify.com/artist/1j4a3bBWYNjecFqxcjRtr5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122813,
+      "name": "Part of Your World (Reprise)",
+      "url": "https://open.spotify.com/track/2jxJF5RaHcqcUyg3T3FHpW"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132298,
+      "name": "Part of Your World (Reprise) - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183946,
+      "name": "Part of Your World (Reprise)/ Ursula Plots - Remastered 2014",
+      "url": "https://open.spotify.com/track/2Va3duYVgt1eMRKoIPomZr"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190830,
+      "name": "Part of Your World - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/05ET8TiuscvijP4b4b1Jg9"
+    },
+    {
+      "album": {
+        "name": "We Love Disney",
+        "url": "https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Part Of Your World - From \"The Little Mermaid\"",
+      "url": "https://open.spotify.com/track/4UW8c9JSzoyjErfmmMkInw"
+    },
+    {
+      "album": {
+        "name": "Disney Goes Classical",
+        "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Kaori Muraji",
+          "url": "https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252813,
+      "name": "Part Of Your World - From \"The Little Mermaid\"",
+      "url": "https://open.spotify.com/track/464ugbhLm0zZ2zCaRMwg6n"
+    },
+    {
+      "album": {
+        "name": "Disney's Fairy Tale Weddings",
+        "url": "https://open.spotify.com/album/6zDt4j28xSMo28ZfrjZese"
+      },
+      "artists": [
+        {
+          "name": "Jack Jezzro",
+          "url": "https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281840,
+      "name": "Part of Your World - Instrumental",
+      "url": "https://open.spotify.com/track/0XqviKc9FiF9uUFv7aM4XF"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211680,
+      "name": "Part of Your World - Remastered 2014",
+      "url": "https://open.spotify.com/track/5JtHmpBXxW6Uj9U32zKRB5"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "Part of Your World - Synth Demo",
+      "url": "https://open.spotify.com/track/4kdzbxVI6swoNnGsyepSUg"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146800,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/3nGQdDpPPUGeCLwnXUf4BY"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Melissa McCarthy",
+          "url": "https://open.spotify.com/artist/7Ctc7ZLdwiEF0BGzG4pOul"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282013,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/2OOdeu2Q1yQmQabgp07FOe"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Pat Carroll",
+          "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sherie Rene Scott as Ursula",
+          "url": "https://open.spotify.com/artist/1HhkosdGea2IQL7o103ue8"
+        },
+        {
+          "name": "Sierra Boggess as Ariel",
+          "url": "https://open.spotify.com/artist/1j4a3bBWYNjecFqxcjRtr5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320293,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/5TwMVNl4Uh5XyZILQbID8J"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sherie Rene Scott as Ursula",
+          "url": "https://open.spotify.com/artist/1HhkosdGea2IQL7o103ue8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111760,
+      "name": "Poor Unfortunate Souls (Reprise)",
+      "url": "https://open.spotify.com/track/5d3FbEwSLgvWJelZwaIu8Q"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51565,
+      "name": "Poor Unfortunate Souls (Reprise) - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/3bpsdb5a4edtFBRT4C03LH"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31706,
+      "name": "Poor Unfortunate Souls (Reprise) - Remastered 2014",
+      "url": "https://open.spotify.com/track/0fRldNqPvYpY38ZK6WmucC"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306853,
+      "name": "Poor Unfortunate Souls - Basic Synth Demo",
+      "url": "https://open.spotify.com/track/61Axbu8wksbfebp0HnjxXy"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332040,
+      "name": "Poor Unfortunate Souls - Final Synth Mockup",
+      "url": "https://open.spotify.com/track/77GPsCv4W5v7nHQAbHf5iJ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273986,
+      "name": "Poor Unfortunate Souls - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/1Snc9JxELoLK8f0tR0SR86"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Pat Carroll",
+          "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289413,
+      "name": "Poor Unfortunate Souls - Remastered 2014",
+      "url": "https://open.spotify.com/track/6Quc0dmaDfzdcBts8rCRSJ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Korbich as Scuttle",
+          "url": "https://open.spotify.com/artist/3IdfF8j5nmyuiNJBwO2QE1"
+        },
+        {
+          "name": "Gulls - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/0XNLvasNRE3NdlZyhYpshu"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244226,
+      "name": "Positoovity",
+      "url": "https://open.spotify.com/track/2dcBxm5NKMzEvRpwzRmr0s"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100066,
+      "name": "Sebastian and Triton - Remastered 2014",
+      "url": "https://open.spotify.com/track/1Ki6C5Vgw8SWXM2RPPZ280"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28586,
+      "name": "Sebastian Relents - Remastered 2014",
+      "url": "https://open.spotify.com/track/541OvjloNTZUHXwOFLa4s6"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44786,
+      "name": "Sebastian's Dilemma - Remastered 2014",
+      "url": "https://open.spotify.com/track/677CJ71E9JmONsocBsl6Sn"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92640,
+      "name": "Shark Attack",
+      "url": "https://open.spotify.com/track/6Mbls5OLRVNQjYVbps335D"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82733,
+      "name": "She's Got Legs - Remastered 2014",
+      "url": "https://open.spotify.com/track/6N8kuV2hbiF23B7DFSLeyl"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "B. D'Addario as Flounder",
+          "url": "https://open.spotify.com/artist/3gXU0TLSwAmVvvNzp7NN3u"
+        },
+        {
+          "name": "Mersisters - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/40gAnqVkjZdEzBOR4kTWAe"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219640,
+      "name": "She's In Love",
+      "url": "https://open.spotify.com/track/5eHx8TOZ7UIQLtd6aUWKkK"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211106,
+      "name": "Shipwreck",
+      "url": "https://open.spotify.com/track/37ylqIwROrwgeSonEEXMba"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112866,
+      "name": "Shipwreck Graveyard",
+      "url": "https://open.spotify.com/track/4wZhxkPDq12NnrSfcTxqSk"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Ensemble - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/08GEqHGsKncsWA3b4xsaKd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120133,
+      "name": "Storm at Sea",
+      "url": "https://open.spotify.com/track/0yLjkpa51CN1uiryMDOrtt"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Tyler Maynard as Flotsam",
+          "url": "https://open.spotify.com/artist/1cg9dBeBHkzYW62YeNvGT2"
+        },
+        {
+          "name": "Derrick Baskin as Jetsam",
+          "url": "https://open.spotify.com/artist/1SHdJvAhKFspvRrLbOJjyd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113080,
+      "name": "Sweet Child",
+      "url": "https://open.spotify.com/track/4AONRuRx872zyuIK3wyf3P"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Tyler Maynard as Flotsam",
+          "url": "https://open.spotify.com/artist/1cg9dBeBHkzYW62YeNvGT2"
+        },
+        {
+          "name": "Derrick Baskin as Jetsam",
+          "url": "https://open.spotify.com/artist/1SHdJvAhKFspvRrLbOJjyd"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72853,
+      "name": "Sweet Child (Reprise)",
+      "url": "https://open.spotify.com/track/0zYDXbTk7IMoS5NA6Pcu6i"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Princesses - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/2AUEsql5nqNgMVgdEAiSog"
+        },
+        {
+          "name": "Jonathan Freeman as Grimsby",
+          "url": "https://open.spotify.com/artist/0DkqxhIlrFRS09gQxlPYJq"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93320,
+      "name": "The Contest",
+      "url": "https://open.spotify.com/track/7FzcQTmkQZdm0aN54xdj8c"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53346,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/2EKBuU7i5ZEPQ8kueG6jAa"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67413,
+      "name": "The Rescue",
+      "url": "https://open.spotify.com/track/2Sp72wzIphmcZ97QR6SK9a"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Awkwafina",
+          "url": "https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121813,
+      "name": "The Scuttlebutt",
+      "url": "https://open.spotify.com/track/2wLDS3oCMufFrvwN2IK3Bt"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Mellow",
+        "url": "https://open.spotify.com/album/4ovr3kfZ5mYWOgC7AJzdOC"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145061,
+      "name": "The Scuttlebutt",
+      "url": "https://open.spotify.com/track/2j8zTizPd8PhV5SP8eoRy9"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200253,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/1aFMjuT8pGkwG3lRMtl9BO"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "The Storm - Remastered 2014",
+      "url": "https://open.spotify.com/track/22Lk5L0VO4uTNXjbAIgFWO"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155733,
+      "name": "The Storm - Score Piano Demo",
+      "url": "https://open.spotify.com/track/7rpohekAaoApKcDdoanK4t"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73720,
+      "name": "The Sun Sets",
+      "url": "https://open.spotify.com/track/5qywM3933flqk0ArLruPDF"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83600,
+      "name": "The Truth - Remastered 2014",
+      "url": "https://open.spotify.com/track/274aj1uIIyAGhnyh9bILa9"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sierra Boggess as Ariel",
+          "url": "https://open.spotify.com/artist/1j4a3bBWYNjecFqxcjRtr5"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94600,
+      "name": "The World Above",
+      "url": "https://open.spotify.com/track/6Jlkb1Wh08RYHstWScsTvg"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Norm Lewis as King Triton",
+          "url": "https://open.spotify.com/artist/0iUK0aKzaMEQ0Da2maYCJ2"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77946,
+      "name": "The World Above (Reprise)",
+      "url": "https://open.spotify.com/track/5q6AzKGeIHmrGReupqYYfr"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid 2",
+        "url": "https://open.spotify.com/album/7K2x3w8QLIGYljgafIP0pC"
+      },
+      "artists": [
+        {
+          "name": "Max Casella",
+          "url": "https://open.spotify.com/artist/6ZpL3BxODab84CTGSL7UO8"
+        },
+        {
+          "name": "Stephen Furst",
+          "url": "https://open.spotify.com/artist/0iqVePRr6ygUVDBpy4ePAN"
+        },
+        {
+          "name": "Tara Charendoff",
+          "url": "https://open.spotify.com/artist/67gayetrbYX7ypoIPGxMwt"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119746,
+      "name": "Tip And Dash",
+      "url": "https://open.spotify.com/track/1PYcTH3sW1ab78bxN3qvNF"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87186,
+      "name": "Tour of the Kingdom",
+      "url": "https://open.spotify.com/track/4PlV7I8ahzOop6wtgVFfik"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86333,
+      "name": "Tour of the Kingdom - Remastered 2014",
+      "url": "https://open.spotify.com/track/1y6dg9UaOQcK8IgDbFoMGe"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109706,
+      "name": "Triton Reprimands - Remastered 2014",
+      "url": "https://open.spotify.com/track/6JRrSzcNHlnKSV81kfShtO"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151346,
+      "name": "Triton's Fury",
+      "url": "https://open.spotify.com/track/4JA3PKCy0hIEr30Dk0RDot"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152600,
+      "name": "Triton's Kingdom",
+      "url": "https://open.spotify.com/track/3MKAx3DwH7UrYgg5CMHgYi"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Cast - The Little Mermaid",
+          "url": "https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/7Cux0Rc1hY5Pt5T28apnzv"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Motivation",
+        "url": "https://open.spotify.com/album/5Kw2dnoZorNMGsW31AvbNh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/3hY1WHSoTcXupacS3ffmz7"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sea Creatures - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/3Mjqu4fkZU4T85WaXejqbe"
+        },
+        {
+          "name": "Tituss Burgess as Sebastian",
+          "url": "https://open.spotify.com/artist/2dAaUqWf44TmGx6pSX1PX8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246093,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/4MimthDKiYVMCqDBJEiw1U"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
+      },
+      "artists": [
+        {
+          "name": "Sea Creatures - The Little Mermaid Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/3Mjqu4fkZU4T85WaXejqbe"
+        },
+        {
+          "name": "Tituss Burgess as Sebastian",
+          "url": "https://open.spotify.com/artist/2dAaUqWf44TmGx6pSX1PX8"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74826,
+      "name": "Under the Sea (Reprise)",
+      "url": "https://open.spotify.com/track/2JEQiyNx2BuERPuQG6qNT4"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181089,
+      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204040,
+      "name": "Under the Sea - Remastered 2014",
+      "url": "https://open.spotify.com/track/30TqV1kFpiOwOsZ6UEqwMy"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282826,
+      "name": "Under the Sea - Synth Demo",
+      "url": "https://open.spotify.com/track/7n6HYuUvnHPEgnI5Cnk2NZ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Ursula Battle",
+      "url": "https://open.spotify.com/track/2CLtVloxjJJCR7mt4mosom"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112240,
+      "name": "Ursula's Lair",
+      "url": "https://open.spotify.com/track/5knXVTwbRUI8b7VDXK05rc"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137506,
+      "name": "Ursula's Lair - Remastered 2014",
+      "url": "https://open.spotify.com/track/4pmBYv7RjfTc4PVKMCrpqx"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91800,
+      "name": "Ursula's Potion",
+      "url": "https://open.spotify.com/track/2bJqhLSnZhlKDMddxcv2VL"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89893,
+      "name": "Ursula's Reveal",
+      "url": "https://open.spotify.com/track/4Ch1BhuVJSEh38WIXqyZL2"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63586,
+      "name": "Vanessa's Trick",
+      "url": "https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138986,
+      "name": "Wedding Announcement",
+      "url": "https://open.spotify.com/track/6pLXq0DvTX9j3RNMUiwGMx"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Jonah Hauer-King",
+          "url": "https://open.spotify.com/artist/2I2IofADiLp0tdtqaGUwkb"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "Wild Uncharted Waters",
+      "url": "https://open.spotify.com/track/7qdAWUszZjbgKmXOcTZbXf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbrfD7naNJCL"
 }

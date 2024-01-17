@@ -1,322 +1,4343 @@
 {
-  "2023-02-15": 82478,
-  "2023-02-16": 82557,
-  "2023-02-17": 82664,
-  "2023-02-18": 82860,
-  "2023-02-19": 82881,
-  "2023-02-20": 82967,
-  "2023-02-21": 83039,
-  "2023-02-22": 83150,
-  "2023-02-23": 83227,
-  "2023-02-24": 83321,
-  "2023-02-25": 83412,
-  "2023-02-26": 83465,
-  "2023-02-27": 83610,
-  "2023-02-28": 83610,
-  "2023-03-01": 83665,
-  "2023-03-02": 83699,
-  "2023-03-03": 83755,
-  "2023-03-04": 83800,
-  "2023-03-05": 83917,
-  "2023-03-06": 83917,
-  "2023-03-07": 83974,
-  "2023-03-08": 84027,
-  "2023-03-09": 84084,
-  "2023-03-10": 84137,
-  "2023-03-11": 84196,
-  "2023-03-12": 84258,
-  "2023-03-13": 84308,
-  "2023-03-14": 84362,
-  "2023-03-15": 84418,
-  "2023-03-16": 84477,
-  "2023-03-17": 84477,
-  "2023-03-18": 84597,
-  "2023-03-19": 84656,
-  "2023-03-20": 84728,
-  "2023-03-21": 84779,
-  "2023-03-22": 84849,
-  "2023-03-23": 84912,
-  "2023-03-24": 84912,
-  "2023-03-25": 84989,
-  "2023-03-26": 85049,
-  "2023-03-27": 85104,
-  "2023-03-28": 85164,
-  "2023-03-29": 85213,
-  "2023-03-30": 85330,
-  "2023-03-31": 85330,
-  "2023-04-01": 85387,
-  "2023-04-02": 85432,
-  "2023-04-03": 85493,
-  "2023-04-04": 85539,
-  "2023-04-05": 85590,
-  "2023-04-06": 85646,
-  "2023-04-07": 85701,
-  "2023-04-09": 85792,
-  "2023-04-10": 85858,
-  "2023-04-11": 85961,
-  "2023-04-12": 85961,
-  "2023-04-13": 86019,
-  "2023-04-14": 86088,
-  "2023-04-15": 86132,
-  "2023-04-16": 86199,
-  "2023-04-17": 86256,
-  "2023-04-18": 86307,
-  "2023-04-19": 86354,
-  "2023-04-20": 86410,
-  "2023-04-21": 86465,
-  "2023-04-22": 86519,
-  "2023-04-23": 86590,
-  "2023-04-24": 86639,
-  "2023-04-25": 86707,
-  "2023-04-26": 86736,
-  "2023-04-27": 86788,
-  "2023-04-28": 86836,
-  "2023-04-29": 86898,
-  "2023-04-30": 86944,
-  "2023-05-01": 87002,
-  "2023-05-02": 87053,
-  "2023-05-03": 87096,
-  "2023-05-04": 87143,
-  "2023-05-05": 87204,
-  "2023-05-06": 87248,
-  "2023-05-07": 87292,
-  "2023-05-08": 87354,
-  "2023-05-09": 87417,
-  "2023-05-10": 87455,
-  "2023-05-11": 87513,
-  "2023-05-12": 87564,
-  "2023-05-13": 87631,
-  "2023-05-14": 87699,
-  "2023-05-15": 87750,
-  "2023-05-16": 87817,
-  "2023-05-17": 87891,
-  "2023-05-18": 87936,
-  "2023-05-19": 87987,
-  "2023-05-20": 88097,
-  "2023-05-21": 88097,
-  "2023-05-22": 88097,
-  "2023-05-23": 88207,
-  "2023-05-24": 88310,
-  "2023-05-25": 88324,
-  "2023-05-26": 88384,
-  "2023-05-27": 88428,
-  "2023-05-28": 88487,
-  "2023-05-29": 88487,
-  "2023-05-30": 88585,
-  "2023-05-31": 88647,
-  "2023-06-01": 88698,
-  "2023-06-02": 88745,
-  "2023-06-03": 88810,
-  "2023-06-04": 88871,
-  "2023-06-05": 88931,
-  "2023-06-06": 88974,
-  "2023-06-07": 89014,
-  "2023-06-08": 89055,
-  "2023-06-09": 89104,
-  "2023-06-10": 89174,
-  "2023-06-11": 89249,
-  "2023-06-12": 89293,
-  "2023-06-13": 89348,
-  "2023-06-14": 89362,
-  "2023-06-15": 89381,
-  "2023-06-16": 72784,
-  "2023-06-17": 72784,
-  "2023-06-18": 72784,
-  "2023-06-19": 72784,
-  "2023-06-20": 72784,
-  "2023-06-21": 72784,
-  "2023-06-22": 72784,
-  "2023-06-23": 72784,
-  "2023-06-24": 72784,
-  "2023-06-25": 72784,
-  "2023-06-26": 72784,
-  "2023-06-27": 72784,
-  "2023-06-28": 72784,
-  "2023-06-29": 72784,
-  "2023-06-30": 72784,
-  "2023-07-01": 72784,
-  "2023-07-02": 72784,
-  "2023-07-03": 72784,
-  "2023-07-04": 72784,
-  "2023-07-05": 72784,
-  "2023-07-06": 72784,
-  "2023-07-07": 72784,
-  "2023-07-08": 72784,
-  "2023-07-09": 72784,
-  "2023-07-10": 72784,
-  "2023-07-11": 72784,
-  "2023-07-12": 72784,
-  "2023-07-13": 72784,
-  "2023-07-14": 72784,
-  "2023-07-15": 72784,
-  "2023-07-16": 72784,
-  "2023-07-17": 72784,
-  "2023-07-18": 72784,
-  "2023-07-19": 72784,
-  "2023-07-20": 72784,
-  "2023-07-21": 72784,
-  "2023-07-22": 72784,
-  "2023-07-23": 72784,
-  "2023-07-24": 72784,
-  "2023-07-25": 72784,
-  "2023-07-26": 72784,
-  "2023-07-27": 72784,
-  "2023-07-28": 72784,
-  "2023-07-29": 72784,
-  "2023-07-30": 72784,
-  "2023-07-31": 72784,
-  "2023-08-01": 72784,
-  "2023-08-02": 72784,
-  "2023-08-03": 72784,
-  "2023-08-04": 72784,
-  "2023-08-05": 72784,
-  "2023-08-06": 72784,
-  "2023-08-07": 72784,
-  "2023-08-08": 72784,
-  "2023-08-09": 72784,
-  "2023-08-10": 72784,
-  "2023-08-11": 72784,
-  "2023-08-12": 72784,
-  "2023-08-13": 72784,
-  "2023-08-14": 72784,
-  "2023-08-15": 72784,
-  "2023-08-16": 72784,
-  "2023-08-17": 72784,
-  "2023-08-18": 72784,
-  "2023-08-19": 72784,
-  "2023-08-20": 72784,
-  "2023-08-21": 72784,
-  "2023-08-22": 72784,
-  "2023-08-23": 72784,
-  "2023-08-24": 72784,
-  "2023-08-25": 72784,
-  "2023-08-26": 72784,
-  "2023-08-27": 72784,
-  "2023-08-28": 72784,
-  "2023-08-29": 72784,
-  "2023-08-30": 72784,
-  "2023-08-31": 72784,
-  "2023-09-01": 72784,
-  "2023-09-02": 72784,
-  "2023-09-03": 72784,
-  "2023-09-04": 72784,
-  "2023-09-05": 72784,
-  "2023-09-06": 72784,
-  "2023-09-07": 72784,
-  "2023-09-08": 72784,
-  "2023-09-09": 72784,
-  "2023-09-10": 72784,
-  "2023-09-11": 72784,
-  "2023-09-12": 72784,
-  "2023-09-13": 72784,
-  "2023-09-14": 72784,
-  "2023-09-15": 72784,
-  "2023-09-16": 72784,
-  "2023-09-17": 72784,
-  "2023-09-18": 72784,
-  "2023-09-19": 72784,
-  "2023-09-20": 72784,
-  "2023-09-21": 72784,
-  "2023-09-22": 72784,
-  "2023-09-23": 72784,
-  "2023-09-24": 72784,
-  "2023-09-25": 72784,
-  "2023-09-26": 72784,
-  "2023-09-27": 72784,
-  "2023-09-28": 72784,
-  "2023-09-29": 72784,
-  "2023-09-30": 72784,
-  "2023-10-01": 72784,
-  "2023-10-02": 72784,
-  "2023-10-03": 72784,
-  "2023-10-04": 72784,
-  "2023-10-05": 72784,
-  "2023-10-06": 72784,
-  "2023-10-07": 72784,
-  "2023-10-08": 72784,
-  "2023-10-09": 72784,
-  "2023-10-10": 72784,
-  "2023-10-11": 72784,
-  "2023-10-12": 72784,
-  "2023-10-13": 72784,
-  "2023-10-14": 72784,
-  "2023-10-15": 72784,
-  "2023-10-16": 72784,
-  "2023-10-17": 72784,
-  "2023-10-18": 72784,
-  "2023-10-19": 72784,
-  "2023-10-20": 72784,
-  "2023-10-21": 72784,
-  "2023-10-22": 72784,
-  "2023-10-23": 72784,
-  "2023-10-24": 72784,
-  "2023-10-25": 72784,
-  "2023-10-26": 72784,
-  "2023-10-27": 72784,
-  "2023-10-28": 72784,
-  "2023-10-29": 72784,
-  "2023-10-30": 72784,
-  "2023-10-31": 72784,
-  "2023-11-01": 72784,
-  "2023-11-02": 72784,
-  "2023-11-03": 72784,
-  "2023-11-04": 72784,
-  "2023-11-05": 72784,
-  "2023-11-06": 72784,
-  "2023-11-07": 72784,
-  "2023-11-08": 72784,
-  "2023-11-09": 72784,
-  "2023-11-10": 72784,
-  "2023-11-11": 72784,
-  "2023-11-12": 72784,
-  "2023-11-13": 72784,
-  "2023-11-14": 72784,
-  "2023-11-15": 72784,
-  "2023-11-16": 72784,
-  "2023-11-17": 72784,
-  "2023-11-18": 72784,
-  "2023-11-19": 72784,
-  "2023-11-20": 72784,
-  "2023-11-21": 72784,
-  "2023-11-22": 72784,
-  "2023-11-23": 72784,
-  "2023-11-24": 72784,
-  "2023-11-25": 72784,
-  "2023-11-26": 72784,
-  "2023-11-27": 72784,
-  "2023-11-28": 72784,
-  "2023-11-29": 72784,
-  "2023-11-30": 72784,
-  "2023-12-01": 72784,
-  "2023-12-02": 72784,
-  "2023-12-03": 72784,
-  "2023-12-04": 72784,
-  "2023-12-05": 72784,
-  "2023-12-06": 72784,
-  "2023-12-07": 72784,
-  "2023-12-08": 72784,
-  "2023-12-09": 72784,
-  "2023-12-10": 72784,
-  "2023-12-11": 72784,
-  "2023-12-12": 72784,
-  "2023-12-13": 72784,
-  "2023-12-14": 72784,
-  "2023-12-15": 72784,
-  "2023-12-16": 72784,
-  "2023-12-17": 72784,
-  "2023-12-18": 72784,
-  "2023-12-19": 72784,
-  "2023-12-20": 72784,
-  "2023-12-21": 72784,
-  "2023-12-22": 72784,
-  "2023-12-23": 72784,
-  "2023-12-24": 72784,
-  "2023-12-25": 72784,
-  "2023-12-26": 72784,
-  "2023-12-27": 72784,
-  "2023-12-30": 72784,
-  "2023-12-31": 72784,
-  "2024-01-01": 72784,
-  "2024-01-02": 72784,
-  "2024-01-03": 72784
+  "2024-01-17": 72784,
+  "date_first_scraped": "2023-02-15",
+  "description": "Best of Lata Mangeshkar, all in one playlist. ",
+  "name": "This is Lata Mangeshkar ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Kati Patang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315760,
+      "name": "Aaj Na Chodenge - Reprise",
+      "url": "https://open.spotify.com/track/6ULuZZaprXMB79riIxZZOb"
+    },
+    {
+      "album": {
+        "name": "Remembering Lata Didi",
+        "url": "https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "Aaj Phir Jeene Ki Tamanna Hai",
+      "url": "https://open.spotify.com/track/4oVe35J85UANHSlQYXmDaP"
+    },
+    {
+      "album": {
+        "name": "Masterworks Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251414,
+      "name": "Aaja Piya Tohe Pyar Doon (From \"Baharon Ke Sapne\")",
+      "url": "https://open.spotify.com/track/7HCQpQGrg2FJT9mdBs75rm"
+    },
+    {
+      "album": {
+        "name": "Chori Chori (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QhuFKn0eSrmf64IhtBzfW"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265743,
+      "name": "Aaja Sanam Madhur Chandni Men",
+      "url": "https://open.spotify.com/track/4mvkokOAbfjx2J2TVgwVtf"
+    },
+    {
+      "album": {
+        "name": "Maine Pyar Kiya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3flrttGG0qyeMjI08VeBEV"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315173,
+      "name": "Aaja Shaam Hone Aaee",
+      "url": "https://open.spotify.com/track/58rxMpqsxedlELmyHFHIbk"
+    },
+    {
+      "album": {
+        "name": "Ghar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6td0tvC7Gl8X7tasGXz32y"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329659,
+      "name": "Aajkal Paon Zaamin Par Nahin Padte",
+      "url": "https://open.spotify.com/track/5TqFHX4Qm3QncAgQPFN6EX"
+    },
+    {
+      "album": {
+        "name": "Krazy Kishore",
+        "url": "https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Aap Ki Ankhon Mein Kuch (From \"Ghar\")",
+      "url": "https://open.spotify.com/track/0DIGEuLzTRIF9jtmKQlPW4"
+    },
+    {
+      "album": {
+        "name": "Masterworks Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "Aap Ki Nazron Ne Samjha (From \"Anpadh\")",
+      "url": "https://open.spotify.com/track/7KoJExPLSJNymJRSDR56UF"
+    },
+    {
+      "album": {
+        "name": "Shankar Husain (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qfrinb0xAzRcNTNHbaezn"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252186,
+      "name": "Aap Yun Faaslon Se",
+      "url": "https://open.spotify.com/track/6aWjeN58PnP1qhDkMgbbLa"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "Aasman Ke Neeche (From \"Jewel Thief\")",
+      "url": "https://open.spotify.com/track/4W2Stivb8VcIIZslIOGJmJ"
+    },
+    {
+      "album": {
+        "name": "Mera Gaon Mera Desh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2N81TMWOFEtDsBnHeSgwiv"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333908,
+      "name": "Aaya Aaya Atariya Pe",
+      "url": "https://open.spotify.com/track/5xTVLxiN1Ujj4fqDrfqUeJ"
+    },
+    {
+      "album": {
+        "name": "Maine Pyar Kiya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3flrttGG0qyeMjI08VeBEV"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Usha Mangeshkar",
+          "url": "https://open.spotify.com/artist/3R2OMv8JpXLy6ZIW7Qxz59"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Shailendra Singh",
+          "url": "https://open.spotify.com/artist/2lgp536k08u3n6rgIW0lNf"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407000,
+      "name": "Aaya Mausam Dosti Ka",
+      "url": "https://open.spotify.com/track/2VzbJbkuCADgL9i76g708P"
+    },
+    {
+      "album": {
+        "name": "Remembering Lata Didi",
+        "url": "https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412426,
+      "name": "Aayega Aanewala",
+      "url": "https://open.spotify.com/track/7hQ85VFEXecqg9YuolCCEG"
+    },
+    {
+      "album": {
+        "name": "Aan Milo Sajna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7zUAxLMwwDyDWddsqjnp1Y"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390546,
+      "name": "Ab Aan Milo Sajna",
+      "url": "https://open.spotify.com/track/3U3ZjzGIdlczwsNeVWQE9S"
+    },
+    {
+      "album": {
+        "name": "Daag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4HSME1KsN5bnL1i9IL6aCb"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330750,
+      "name": "Ab Chahe Maa Roothe Ya Baba",
+      "url": "https://open.spotify.com/track/5wO67V5hTQFhffw6AlMjjs"
+    },
+    {
+      "album": {
+        "name": "Master Musician S. D. Burman",
+        "url": "https://open.spotify.com/album/7hSQrl0Wf9OYYNF00ct3mF"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281426,
+      "name": "Ab Ke Sajan Sawan Mein (From \"Chupke Chupke\")",
+      "url": "https://open.spotify.com/track/6kIPySHAhvraQEsgYRMEOl"
+    },
+    {
+      "album": {
+        "name": "Abhimaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3hDjh0RzZAgQrgpIDLpvdk"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285133,
+      "name": "Ab To Hai Tumse Har Khushi Apni",
+      "url": "https://open.spotify.com/track/4cUpgEYyiGKI7vaP7drLzL"
+    },
+    {
+      "album": {
+        "name": "Aan Milo Sajna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7zUAxLMwwDyDWddsqjnp1Y"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298746,
+      "name": "Achha To Hum Chalte Hain",
+      "url": "https://open.spotify.com/track/7raINQOObFAROImDKGI89i"
+    },
+    {
+      "album": {
+        "name": "Remembering Lata Didi",
+        "url": "https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377998,
+      "name": "Ae Mere Watan Ke Logon",
+      "url": "https://open.spotify.com/track/056HIJECv0SVAkUslrVse8"
+    },
+    {
+      "album": {
+        "name": "Agar Tum Na Hote (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6gdqMOTSUgCUu2JFnGdPlp"
+      },
+      "artists": [
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254184,
+      "name": "Agar Tum Na Hote - Female Version",
+      "url": "https://open.spotify.com/track/6bd3RszjfhMqkVH0zIUFSo"
+    },
+    {
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Gurdas Maan",
+          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
+        },
+        {
+          "name": "Pritha Mazumdar",
+          "url": "https://open.spotify.com/artist/0NHOjXrjKEiChop2sZkhdS"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427781,
+      "name": "Aisa Des Hai Mera",
+      "url": "https://open.spotify.com/track/4M7pu2MwyGysZM4deGXueq"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315613,
+      "name": "Ajib Dastan Hai Yeh (From \"Dil Apna Aur Preet Parai\")",
+      "url": "https://open.spotify.com/track/5VGNtow5pqQXFa0a1QAIBb"
+    },
+    {
+      "album": {
+        "name": "Mujhse Dosti Karoge",
+        "url": "https://open.spotify.com/album/1VesTRIpHfgTwcGxMmnfTg"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377312,
+      "name": "Andekhi Anjaani",
+      "url": "https://open.spotify.com/track/3cL1Lpn7e4fKeEwi68S9Hd"
+    },
+    {
+      "album": {
+        "name": "Mera Gaon Mera Desh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2N81TMWOFEtDsBnHeSgwiv"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418478,
+      "name": "Apni Prem Kahaniyan",
+      "url": "https://open.spotify.com/track/77g821OHoJiNTdy3COG30u"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323326,
+      "name": "Are Jane Kaise Kab Kahan Iqrar (From \"Shakti\")",
+      "url": "https://open.spotify.com/track/5Vh6jVXA7KjtbXkXgjBEtX"
+    },
+    {
+      "album": {
+        "name": "Dil To Pagal Hai",
+        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
+      },
+      "artists": [
+        {
+          "name": "Uttam Singh",
+          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335386,
+      "name": "Are Re Are",
+      "url": "https://open.spotify.com/track/549FZ0BWEyIGVbo9FUOqPl"
+    },
+    {
+      "album": {
+        "name": "Razia Sultan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DRpPf4p78FiUuQhYuMm5V"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339066,
+      "name": "Aye-Dil-E-Nadan, Pt. 1",
+      "url": "https://open.spotify.com/track/4GPR2blOOTmvo1cW2rTM7J"
+    },
+    {
+      "album": {
+        "name": "Aradhana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kMiiLFW6EXspbezKJnFUe"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Baghon Mein Bahar Hai",
+      "url": "https://open.spotify.com/track/2UqMmlbttOi14NINtdDDbK"
+    },
+    {
+      "album": {
+        "name": "Flash Back - Lata Mangeshkar with Tabassum",
+        "url": "https://open.spotify.com/album/6Ux6Eczfu1lFP1KHIVnubx"
+      },
+      "artists": [
+        {
+          "name": "Tabassum",
+          "url": "https://open.spotify.com/artist/1nnDcAGbCZYOMCsddidWCX"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "Bahon Mein Chale Aao (From \"Anamika\")",
+      "url": "https://open.spotify.com/track/2q3VUz3UgA3PVFFRJOMObF"
+    },
+    {
+      "album": {
+        "name": "Padosan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VT7umC9rMz960sp6v8d6K"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282466,
+      "name": "Bhai Battur",
+      "url": "https://open.spotify.com/track/153fw0r8m0NsBs4YiJgBJT"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233053,
+      "name": "Bheegi Bheegi Raaton Mein (From \"Ajnabee\")",
+      "url": "https://open.spotify.com/track/1MOguHUU3ebLM4C5u20duQ"
+    },
+    {
+      "album": {
+        "name": "Dil To Pagal Hai",
+        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
+      },
+      "artists": [
+        {
+          "name": "Uttam Singh",
+          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255242,
+      "name": "Bholi Si Surat",
+      "url": "https://open.spotify.com/track/0dova5UHQl7K3VlKu1pyEQ"
+    },
+    {
+      "album": {
+        "name": "Albela (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1JITRa3jlkGBQhHhCkl6Xn"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "C. Ramchandra",
+          "url": "https://open.spotify.com/artist/4tuzg2QDbDF6ytPrszs4q1"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233706,
+      "name": "Bholi Surat Dil Ke Khote",
+      "url": "https://open.spotify.com/track/7ATgZzvFJVhSntkzRgt2nv"
+    },
+    {
+      "album": {
+        "name": "Julie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3dillOeeOQpaW4DOBxaGMX"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302411,
+      "name": "Bhool Gaya Sub Kuchh",
+      "url": "https://open.spotify.com/track/0WaHcfbzLbsjiBiwuxlkLR"
+    },
+    {
+      "album": {
+        "name": "Do Raaste (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1a4sX2drStU5nV6k5JzF4i"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 346470,
+      "name": "Bindiya Chamke Gi",
+      "url": "https://open.spotify.com/track/0Is8MSBOFmkzxQrev3xYu0"
+    },
+    {
+      "album": {
+        "name": "Lata Didi - Free Hits",
+        "url": "https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346470,
+      "name": "BINDIYA CHAMKE GI",
+      "url": "https://open.spotify.com/track/24KJqChVEkGv0nmYTm3tfq"
+    },
+    {
+      "album": {
+        "name": "Caravan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7cQLF08KjM9FAxGHKIkxs6"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270506,
+      "name": "Chadhti Jawani Meri Chaal Mastani",
+      "url": "https://open.spotify.com/track/2jiJTq2bfJnWrebCEGDotJ"
+    },
+    {
+      "album": {
+        "name": "Doosara Aadmi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5mioRIUzcAowXtbudlbTx1"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396666,
+      "name": "Chal Kahin Door Nikal Jayen",
+      "url": "https://open.spotify.com/track/4zApLAWRoqAc3gylGx8DLA"
+    },
+    {
+      "album": {
+        "name": "Pakeezah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/725323yYZyNi4SzBVto6f0"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217129,
+      "name": "Chalo Dildar Chalo",
+      "url": "https://open.spotify.com/track/4tO2BqioXhRzf3OLx1NlO5"
+    },
+    {
+      "album": {
+        "name": "Remembering Lata Didi",
+        "url": "https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353653,
+      "name": "Chalte Chalte Yun Hi Koi",
+      "url": "https://open.spotify.com/track/1KpTS270MT96OszvcFVdlk"
+    },
+    {
+      "album": {
+        "name": "Aradhana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kMiiLFW6EXspbezKJnFUe"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242506,
+      "name": "Chanda Hai Tu Mera Suraj Hai Tu",
+      "url": "https://open.spotify.com/track/2QT3N16dYd2xAuzYmRRRMb"
+    },
+    {
+      "album": {
+        "name": "Saraswatichandra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JGQAuctvLMJ0siYpusira"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Chandan Sa Badan Chanchal Chitwan - Female Vocals",
+      "url": "https://open.spotify.com/track/29v8pcX1P3E2XIWj5lARUV"
+    },
+    {
+      "album": {
+        "name": "Hum Aapke Hain Koun (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wzQyLymXegR9Wpngfo2pB"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267533,
+      "name": "Chocolate Lime Juice",
+      "url": "https://open.spotify.com/track/3nPP1hrLu0QD4VgUS1CjnF"
+    },
+    {
+      "album": {
+        "name": "Do Raaste (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1a4sX2drStU5nV6k5JzF4i"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329274,
+      "name": "Chup Gaye Sare Nazare",
+      "url": "https://open.spotify.com/track/47oE1sGVKBgdYNSjLRrYxU"
+    },
+    {
+      "album": {
+        "name": "Gambler",
+        "url": "https://open.spotify.com/album/5TWtCYE6UZnRjB68YCpEQl"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "Churi Nahin Yeh Mera Dil Hai - Gambler / Soundtrack Version",
+      "url": "https://open.spotify.com/track/5fPZ5gf3WoddQSF49Zqf5I"
+    },
+    {
+      "album": {
+        "name": "Sargam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f8Ki35LTXKgVQ1J0XQxvh"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315986,
+      "name": "Dafli Wale Dafli Baja",
+      "url": "https://open.spotify.com/track/1Z8DbdYPT6DJxBF4SXdsUm"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320733,
+      "name": "Dekha Ek Khwab (From \"Silsila\")",
+      "url": "https://open.spotify.com/track/6eu75OSNNFbQncfV3jbJ3a"
+    },
+    {
+      "album": {
+        "name": "Love Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44fFhDbxWRxP6fgA0gzxg8"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Amit Kumar",
+          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336967,
+      "name": "Dekho Maine Dekha Hai Ek Sapna",
+      "url": "https://open.spotify.com/track/2wzL4qF4EVxvhDRjS3PYhK"
+    },
+    {
+      "album": {
+        "name": "Gora Aur Kala (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6gh2MukM7Xt09aMDh9Xc2r"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298186,
+      "name": "Dheere Dheere Bol Koi Sun Na Le",
+      "url": "https://open.spotify.com/track/6pLKkikQIumYXROIlLGcMc"
+    },
+    {
+      "album": {
+        "name": "Hum Aapke Hain Koun (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wzQyLymXegR9Wpngfo2pB"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320826,
+      "name": "Dhiktana, Pt. 1",
+      "url": "https://open.spotify.com/track/1iTnFrKiOYDhwccL8VTGdP"
+    },
+    {
+      "album": {
+        "name": "Hum Aapke Hain Koun (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wzQyLymXegR9Wpngfo2pB"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Shailendra Singh",
+          "url": "https://open.spotify.com/artist/2lgp536k08u3n6rgIW0lNf"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487306,
+      "name": "Dhiktana, Pt. 2",
+      "url": "https://open.spotify.com/track/2TMgqtpZvVmbBxqhKxApqb"
+    },
+    {
+      "album": {
+        "name": "Dil To Pagal Hai",
+        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
+      },
+      "artists": [
+        {
+          "name": "Uttam Singh",
+          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318432,
+      "name": "Dholna",
+      "url": "https://open.spotify.com/track/6O8ZM3IKYcSBzpnuxpCAQr"
+    },
+    {
+      "album": {
+        "name": "Hum Aapke Hain Koun",
+        "url": "https://open.spotify.com/album/12fGgOW7c90CEDYvr1Vpsa"
+      },
+      "artists": [
+        {
+          "name": "Madhuri Dixit",
+          "url": "https://open.spotify.com/artist/0cGUyn1Hk4stZda7WqMAbS"
+        },
+        {
+          "name": "Salman Khan",
+          "url": "https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI"
+        },
+        {
+          "name": "Renuka Sahane",
+          "url": "https://open.spotify.com/artist/0NHkXwCTNyrxecIOl08jpl"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59519,
+      "name": "Dialogues (Hum Aapke Hain Koun)",
+      "url": "https://open.spotify.com/track/1JIpTqNYDoO8izwIiTZki7"
+    },
+    {
+      "album": {
+        "name": "Lata Didi - Free Hits",
+        "url": "https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355265,
+      "name": "DIL DEEWANA",
+      "url": "https://open.spotify.com/track/4qHVuUaejwuIrrvuuMZyiA"
+    },
+    {
+      "album": {
+        "name": "Maine Pyar Kiya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3flrttGG0qyeMjI08VeBEV"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 354426,
+      "name": "Dil Deewana - Female Vocals",
+      "url": "https://open.spotify.com/track/5M7LdQfurIG70nbvlSAO07"
+    },
+    {
+      "album": {
+        "name": "Lag Ja Gale - Best of Lata Mangeshkar and Madan Mohan",
+        "url": "https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow"
+      },
+      "artists": [
+        {
+          "name": "Bhupinder Singh",
+          "url": "https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498544,
+      "name": "Dil Dhundta Hai (From \"Mausam\")",
+      "url": "https://open.spotify.com/track/3XKJIxFhfBifApOXa50w87"
+    },
+    {
+      "album": {
+        "name": "Rudaali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4K4inDaW2TgqkkOOdXTorN"
+      },
+      "artists": [
+        {
+          "name": "Bhupen Hazarika",
+          "url": "https://open.spotify.com/artist/31fDaUsley7Ms790N4CcSv"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "Dil Hoom Hoom Kare - Female Version",
+      "url": "https://open.spotify.com/track/5A3tZCjNhmqtmNUNbjOZeL"
+    },
+    {
+      "album": {
+        "name": "Anari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IQ9K4BWEVmRJoyqD2ScMN"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280266,
+      "name": "Dil Ki Nazar Se",
+      "url": "https://open.spotify.com/track/6piailrPPrz3xGKrQpP52W"
+    },
+    {
+      "album": {
+        "name": "Jewel Thief (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4hWOjuJMb5nuTiLSMTF0fV"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318866,
+      "name": "Dil Pukare Aare Aare",
+      "url": "https://open.spotify.com/track/4zfAAXkcUorS1r5gBJLfTz"
+    },
+    {
+      "album": {
+        "name": "Madhumati (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6DUq0IMq75xMZuQpJKJSmm"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207293,
+      "name": "Dil Tadap Tadap Ke Kah Raha",
+      "url": "https://open.spotify.com/track/3BhrEWJmIt4lgE5CHKc5cN"
+    },
+    {
+      "album": {
+        "name": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250466,
+      "name": "Dil To Hai Dil",
+      "url": "https://open.spotify.com/track/6tiOP8NeOeFmcTV2KenYYh"
+    },
+    {
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265926,
+      "name": "Do Pal",
+      "url": "https://open.spotify.com/track/7fyIuR4aaWb6iltlAoSkxF"
+    },
+    {
+      "album": {
+        "name": "Bahu Begum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0caLLfbNlG7H7PAwydsKap"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192746,
+      "name": "Duniya Kare Sawaal To Ham",
+      "url": "https://open.spotify.com/track/5xu7mya8HE7yafo467giT4"
+    },
+    {
+      "album": {
+        "name": "Dil To Pagal Hai",
+        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
+      },
+      "artists": [
+        {
+          "name": "Uttam Singh",
+          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206001,
+      "name": "Ek Duje Ke Vaaste",
+      "url": "https://open.spotify.com/track/5ytl9khoVW9e0il8oVX5ob"
+    },
+    {
+      "album": {
+        "name": "Pukar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OQnAi9EjuGLW3AMJ2zOry"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kids",
+          "url": "https://open.spotify.com/artist/0a63ibJwG5TRXeYuAIVZvz"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397413,
+      "name": "Ek Tu Hi Bharosa",
+      "url": "https://open.spotify.com/track/4ioXcpExOaErZC40b7KUeD"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292855,
+      "name": "Gaata Rahe Mera Dil (From \"Guide\")",
+      "url": "https://open.spotify.com/track/3lckSqgPVQsds7BpITo3eA"
+    },
+    {
+      "album": {
+        "name": "Awara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1X5M3U0FYU3sqmw8otYVWA"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221664,
+      "name": "Ghar Aaya Mera Pardesi",
+      "url": "https://open.spotify.com/track/5rDBedJDALfhjYAqanYGHn"
+    },
+    {
+      "album": {
+        "name": "Masterworks Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260079,
+      "name": "Gir Gaya Jhumka Girne Do (From \"Jugnu\")",
+      "url": "https://open.spotify.com/track/6GXfy68Lb9DjcrrsDAm1Pw"
+    },
+    {
+      "album": {
+        "name": "Krazy Kishore",
+        "url": "https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254933,
+      "name": "Goom Hai Kisi Ke Pyar Mein (From \"Raampur Ka Lakshman\")",
+      "url": "https://open.spotify.com/track/1dTjGJjcFBbB2HegJk61mB"
+    },
+    {
+      "album": {
+        "name": "Samadhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7s4lAqqVKvLaIJ5MdFZPDz"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Amirbai Karnataki",
+          "url": "https://open.spotify.com/artist/025NPyHBtWC9aQM4STXI5V"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Gore Gore O Banke Chhore",
+      "url": "https://open.spotify.com/track/17TAWEy8ZxUkIDoHMoEPeK"
+    },
+    {
+      "album": {
+        "name": "Roti",
+        "url": "https://open.spotify.com/album/6kh8wgRD8UMX2tkZwtKD6v"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291626,
+      "name": "Gore Rang Pe Itna Gumaan Na Kar - From \"Roti\"",
+      "url": "https://open.spotify.com/track/6ISF8WtUVBrjXB1rL1PMFu"
+    },
+    {
+      "album": {
+        "name": "Gumnaam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6iQEiJ4pMNjNWOURlb7KJL"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319082,
+      "name": "Gumnaam Hai Koi Badnaam Hai Koi",
+      "url": "https://open.spotify.com/track/56uBWbsLwEznt8QWbI4w3V"
+    },
+    {
+      "album": {
+        "name": "Sholay",
+        "url": "https://open.spotify.com/album/3Gf4EpBBlrHidHFQ4ikM6K"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326173,
+      "name": "Haa Jab Tak Hai Jaan - From \"Sholay\"",
+      "url": "https://open.spotify.com/track/5n4U9MzOchgcyouhWWWsgD"
+    },
+    {
+      "album": {
+        "name": "Ek Duuje Ke Liye (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/64zvuGkf1bauJb97BJaalB"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365920,
+      "name": "Ham Bane Tum Bane",
+      "url": "https://open.spotify.com/track/42mZ3BtKsRL1PzSVZkcUzi"
+    },
+    {
+      "album": {
+        "name": "Parasmani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vlM3GvYhfYrZWiGIs01TK"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kamal Barot",
+          "url": "https://open.spotify.com/artist/0wRUTMxBoXTdtHAtJU0LN5"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Hansta Hua Noorani Chehra",
+      "url": "https://open.spotify.com/track/5cjwMtWieH57DwbWVBhHCe"
+    },
+    {
+      "album": {
+        "name": "Barsaat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kQNA934VKsG2PM3zJZdSG"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188560,
+      "name": "Hawa Mein Udta Jaye",
+      "url": "https://open.spotify.com/track/4CHMgTLE7B1zGUGzi7k5yG"
+    },
+    {
+      "album": {
+        "name": "Masterworks Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Haye Re Haye (From \"Humjoli\")",
+      "url": "https://open.spotify.com/track/3vjwuySPKZAxERgXZJqW2Z"
+    },
+    {
+      "album": {
+        "name": "Tere Mere Sapne",
+        "url": "https://open.spotify.com/album/1asznJe1sUI9j85u3OHC5I"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243093,
+      "name": "Hey Maine Kasam Li - From \"Tere Mere Sapne \"",
+      "url": "https://open.spotify.com/track/321q6xi6UdCFO87YFsA0hh"
+    },
+    {
+      "album": {
+        "name": "Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349826,
+      "name": "Ho Gaya Hai Tujhko To Pyar Sajna",
+      "url": "https://open.spotify.com/track/7jV2zwwRKvHoLA8WFr3SCN"
+    },
+    {
+      "album": {
+        "name": "Mr. Natwarlal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Oaae7v2p2wxjIGoy3YnBc"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292200,
+      "name": "Ho Pardesia, Pt. 1",
+      "url": "https://open.spotify.com/track/3zSCLAIYQBr8HRzHLcOKIC"
+    },
+    {
+      "album": {
+        "name": "Night Out With Pancham",
+        "url": "https://open.spotify.com/album/2f4tobwhMqZl5ryHi6TwuG"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270733,
+      "name": "Hum Dono Do Premi (From \"Ajanabee\")",
+      "url": "https://open.spotify.com/track/1kKwc9ShlAsIodsG5i1IWR"
+    },
+    {
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257645,
+      "name": "Hum To Bhai Jaise Hain",
+      "url": "https://open.spotify.com/track/1eR6d1EuujPXYHXEKgK6VU"
+    },
+    {
+      "album": {
+        "name": "Bobby (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1thLuxHLnTsvQYW8BuD6OC"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Shailendra Singh",
+          "url": "https://open.spotify.com/artist/2lgp536k08u3n6rgIW0lNf"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427223,
+      "name": "Hum Tum Ek Kamre Mein",
+      "url": "https://open.spotify.com/track/7tgQvdHXUf2N2eB1zrlbWl"
+    },
+    {
+      "album": {
+        "name": "Rocky",
+        "url": "https://open.spotify.com/album/78L9TjZw5IN7bI31lmonhT"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360373,
+      "name": "Hum Tumse Mile - From \"Rocky\"",
+      "url": "https://open.spotify.com/track/1XPVW9NZXQfSLellqhwozj"
+    },
+    {
+      "album": {
+        "name": "Mohabbatein",
+        "url": "https://open.spotify.com/album/2HeqbIcBcggDsgNCHcGN1h"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473025,
+      "name": "Humko Humise Chura Lo",
+      "url": "https://open.spotify.com/track/4T3VAoUDvCJkX5OSYXnng0"
+    },
+    {
+      "album": {
+        "name": "Amar Akbar Anthony",
+        "url": "https://open.spotify.com/album/55NxNTAZ8bSlGYjWcAxbGf"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453400,
+      "name": "Humko Tumse Ho Gaya Hai Pyar - Amar Akbar Anthony / Soundtrack Version",
+      "url": "https://open.spotify.com/track/7cqSZn61vxGzPuc2UuQC5e"
+    },
+    {
+      "album": {
+        "name": "Ram Teri Ganga Maili (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ASt0wBEpXn3pTmg79hcHA"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Suresh Wadkar",
+          "url": "https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325840,
+      "name": "Husn Pahadon Ka",
+      "url": "https://open.spotify.com/track/7DAYugqIB4tYlCVslbgAyT"
+    },
+    {
+      "album": {
+        "name": "Shree 420 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06IaiBtDfA82datti9r8da"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273213,
+      "name": "Ichak Dana Beechak Dana",
+      "url": "https://open.spotify.com/track/4giSzPnADn5XopvD49sUal"
+    },
+    {
+      "album": {
+        "name": "Pakeezah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/725323yYZyNi4SzBVto6f0"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219515,
+      "name": "Inhin Logon Ne",
+      "url": "https://open.spotify.com/track/6HT84RqFrC0wmQy4LvW0cn"
+    },
+    {
+      "album": {
+        "name": "Aandhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1NKtPOPg46NGNPltVbWI32"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296306,
+      "name": "Is Mod Se Jate Hain - Duet",
+      "url": "https://open.spotify.com/track/1os8EZQ7v3ZjInGg1qvtq9"
+    },
+    {
+      "album": {
+        "name": "Chhaya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6DUmXYdFi5hw3pQbLpSSgI"
+      },
+      "artists": [
+        {
+          "name": "Talat Mahmood",
+          "url": "https://open.spotify.com/artist/2fi9hpqNbi5neTbKSqG0vW"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235333,
+      "name": "Itna Na Mujhse Tu Pyar Badha - Duet",
+      "url": "https://open.spotify.com/track/5U3LJ3XtA63pGWMeskRULX"
+    },
+    {
+      "album": {
+        "name": "Mujhse Dosti Karoge",
+        "url": "https://open.spotify.com/album/1VesTRIpHfgTwcGxMmnfTg"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345808,
+      "name": "Jaane Dil Mein",
+      "url": "https://open.spotify.com/track/2tqCK7OS3BU5pvLIXtObvj"
+    },
+    {
+      "album": {
+        "name": "Sunny (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0dLpwIpgiQkcGGoFmUjArH"
+      },
+      "artists": [
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328757,
+      "name": "Jaane Kya Baat Hai",
+      "url": "https://open.spotify.com/track/5pqYCdrseet7xqaRoX9oe3"
+    },
+    {
+      "album": {
+        "name": "Betaab (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1tYfwsvzaRNtQgxiXnUCSs"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Shabbir Kumar",
+          "url": "https://open.spotify.com/artist/3M8OKPsQvP1U8WkG5lY4Vy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429800,
+      "name": "Jab Hum Jawan Honge",
+      "url": "https://open.spotify.com/track/0yAQlClR4gowlIc9teLejk"
+    },
+    {
+      "album": {
+        "name": "Aap Ki Kasam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3LLksUfnZhR0jADZxp23X1"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337133,
+      "name": "Jai Jai Shiv Shankar",
+      "url": "https://open.spotify.com/track/55VziCfu44wMSBaHSPYEGr"
+    },
+    {
+      "album": {
+        "name": "Bheegi Palken",
+        "url": "https://open.spotify.com/album/241Ufz6Mr3WFRyIqXJ8m3d"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217680,
+      "name": "Janam Janam Ka Saath Hai - From \"Bheegi Palken\"",
+      "url": "https://open.spotify.com/track/5BfnDHMUXi7aXZ9q0LgcGN"
+    },
+    {
+      "album": {
+        "name": "Bheegi Palken",
+        "url": "https://open.spotify.com/album/241Ufz6Mr3WFRyIqXJ8m3d"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242560,
+      "name": "Janam Janam Ka Saath Hai - From \"Bheegi Palken\"",
+      "url": "https://open.spotify.com/track/579MsFhBB3PMRGHDBGBj3f"
+    },
+    {
+      "album": {
+        "name": "Remembering Lata Didi",
+        "url": "https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299160,
+      "name": "Jane Kyon Log Mohabbat Kiya",
+      "url": "https://open.spotify.com/track/1LxbDhVBIKfCFZMLhgBIMo"
+    },
+    {
+      "album": {
+        "name": "Jeevan Mrityu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5mUpwCOBbzObwEANN20drs"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328693,
+      "name": "Jhilmil Sitaron Ka Angan Hoga - Duet",
+      "url": "https://open.spotify.com/track/1TpIzV7n4h8oSkY2sTI2pX"
+    },
+    {
+      "album": {
+        "name": "Don (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0avWVNdAm5tK8fQnLHDKYD"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Jiska Mujhe Tha Intezar",
+      "url": "https://open.spotify.com/track/6CwuoBJZ0GvG0gECLpZU22"
+    },
+    {
+      "album": {
+        "name": "Barsaat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kQNA934VKsG2PM3zJZdSG"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Jiya Beqarar Hai",
+      "url": "https://open.spotify.com/track/70w0vFZM1Q6TMX6qTuFco3"
+    },
+    {
+      "album": {
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "M. G. Sreekumar",
+          "url": "https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Jiya Jale",
+      "url": "https://open.spotify.com/track/16W3Eqvgh4Sl84RoHZYnNV"
+    },
+    {
+      "album": {
+        "name": "Taj Mahal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1N02XmSkScYE8kwfqj97lT"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Jo Wada Kiya Woh Nibhana Padega, Pt. 2",
+      "url": "https://open.spotify.com/track/7eWfK5Mq3YwApoEpKmm1DF"
+    },
+    {
+      "album": {
+        "name": "Humforlatadidi",
+        "url": "https://open.spotify.com/album/5SEwkuBauaQPFfqF4wxkqr"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298579,
+      "name": "Kabhi Kabhi Mere Dil Mein (Duet)",
+      "url": "https://open.spotify.com/track/3fv7fFA81kccqQc7FV5c7Y"
+    },
+    {
+      "album": {
+        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471946,
+      "name": "Kabhi Khushi Kabhie Gham",
+      "url": "https://open.spotify.com/track/0eGtFJBfYUKF2CvNZJEu3M"
+    },
+    {
+      "album": {
+        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Kabhi Khushi Kabhie Gham - Sad Version, 2",
+      "url": "https://open.spotify.com/track/6csDlzCjNZXrGpuIExoDOg"
+    },
+    {
+      "album": {
+        "name": "Maine Pyar Kiya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3flrttGG0qyeMjI08VeBEV"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504000,
+      "name": "Kabootar Ja Ja Ja",
+      "url": "https://open.spotify.com/track/0TrLa2h6qIoSkhs6R0QwMQ"
+    },
+    {
+      "album": {
+        "name": "Apna Desh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0oK3df9angrWqZ782nQv3j"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282389,
+      "name": "Kajra Lagake Gajra Sajake",
+      "url": "https://open.spotify.com/track/7nCmEUOYipfS7P9Dv6rbaX"
+    },
+    {
+      "album": {
+        "name": "Hare Rama Hare Krishna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6TRrjbjCjixM6LBR3ygqqi"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297026,
+      "name": "Kanchi Re Kanchi Re",
+      "url": "https://open.spotify.com/track/7lbE66zJzaMHM6lcd4Y8OJ"
+    },
+    {
+      "album": {
+        "name": "Aap Ki Kasam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3LLksUfnZhR0jADZxp23X1"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310813,
+      "name": "Karvaten Badalte Rahe",
+      "url": "https://open.spotify.com/track/2UOJRY0ujuCf7cw8mHJeY4"
+    },
+    {
+      "album": {
+        "name": "Junglee (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5i2AYpXwYqw1A2ozMZAlt3"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209149,
+      "name": "Kashmir Ki Kali Hoon Main",
+      "url": "https://open.spotify.com/track/1Q3wKWvuu4rySydsJrVqF5"
+    },
+    {
+      "album": {
+        "name": "Kasme Vaade",
+        "url": "https://open.spotify.com/album/7pMqcDVZ2sKN28GxUrRHuV"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285826,
+      "name": "Kasme Vaade Nibhayenge Hum - Part I - From \"Kasme Vaade\"",
+      "url": "https://open.spotify.com/track/1Uk5Y5StpSIFIzYJ7EJZvY"
+    },
+    {
+      "album": {
+        "name": "One Two Ka Four (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZKzjHzlBYcITjstA0bWLH"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326884,
+      "name": "Khamoshiyan Gangunane Lagi, Pt. 1",
+      "url": "https://open.spotify.com/track/4k0lNA0hoVHUP5QbO0uv3k"
+    },
+    {
+      "album": {
+        "name": "Dostana",
+        "url": "https://open.spotify.com/album/0c6CGUUkQAL7ZZTUK2WVj3"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "Kitna Asan Hai Kehna Bhool Jao - From \"Dostana\"",
+      "url": "https://open.spotify.com/track/0ie2ECY9MUKLlqEjSCBiuz"
+    },
+    {
+      "album": {
+        "name": "Dil To Pagal Hai",
+        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
+      },
+      "artists": [
+        {
+          "name": "Uttam Singh",
+          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330684,
+      "name": "Koi Ladki Hai",
+      "url": "https://open.spotify.com/track/1U07iG4qnbKP8ui3VidZN4"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338796,
+      "name": "Kora Kagaz Tha Yeh Man Mera (From \"Aradhana\")",
+      "url": "https://open.spotify.com/track/58XCR4OiSlFULlDmACjrF8"
+    },
+    {
+      "album": {
+        "name": "Mera Gaon Mera Desh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2N81TMWOFEtDsBnHeSgwiv"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299567,
+      "name": "Kuchh Kehta Hai Ye Savan",
+      "url": "https://open.spotify.com/track/706iqGgPkURfJc40HC3VVP"
+    },
+    {
+      "album": {
+        "name": "Baharon Ke Sapne (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1IbLpnrwUi1MXG9KSe6CGw"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332904,
+      "name": "Kya Janu Sajan",
+      "url": "https://open.spotify.com/track/2WN6jSyFQDEwbH63vTBKTt"
+    },
+    {
+      "album": {
+        "name": "Rocky",
+        "url": "https://open.spotify.com/album/78L9TjZw5IN7bI31lmonhT"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384413,
+      "name": "Kya Yahi Pyar Hai - From \"Rocky\"",
+      "url": "https://open.spotify.com/track/77ZlwcRm8mRAszhszeSxln"
+    },
+    {
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Yash Chopra",
+          "url": "https://open.spotify.com/artist/4uQodNxbtN3iAuSGSEg8QJ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371957,
+      "name": "Kyon Hawa",
+      "url": "https://open.spotify.com/track/2cNeEQhITgmjkk5SHd5IXY"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257613,
+      "name": "Lag Ja Gale Se Phir (From \"Woh Kaun Thi\")",
+      "url": "https://open.spotify.com/track/6clAHjokFftNtzUjOfH7WK"
+    },
+    {
+      "album": {
+        "name": "Hum Aapke Hain Koun (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wzQyLymXegR9Wpngfo2pB"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Lo Chali Main",
+      "url": "https://open.spotify.com/track/1zIqI7jbNrhZtY0QhTslK3"
+    },
+    {
+      "album": {
+        "name": "Rang De Basanti (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396506,
+      "name": "Luka Chuppi",
+      "url": "https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME"
+    },
+    {
+      "album": {
+        "name": "Jab Pyaar Kisise Hota Hai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yNSrUyyhZuKSSvlkrx2Uk"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Madhosh Dil Ki Dhadkan",
+      "url": "https://open.spotify.com/track/5JWuNK80jSLK1jQyFInWqG"
+    },
+    {
+      "album": {
+        "name": "Padosan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VT7umC9rMz960sp6v8d6K"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308933,
+      "name": "Main Chali Main Chali",
+      "url": "https://open.spotify.com/track/0SjsmiVrSm2YClkKkMGg1o"
+    },
+    {
+      "album": {
+        "name": "Utsav (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5pn21vv9EAB6IVA2DuUxk1"
+      },
+      "artists": [
+        {
+          "name": "Laxmikant\u2013Pyarelal",
+          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Man Kyoon Behka Re Behka Aadhi Raat Ko",
+      "url": "https://open.spotify.com/track/3ClX9Fv2i4mzRUhWUxkpod"
+    },
+    {
+      "album": {
+        "name": "Pakeezah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/725323yYZyNi4SzBVto6f0"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293386,
+      "name": "Mausam Hai Ashiqana",
+      "url": "https://open.spotify.com/track/3xxxLBUgzeDK4aLBS8dJyH"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286694,
+      "name": "Mehndi Laga Ke Rakhna (From \"Dilwale Dulhania Le Jayenge\")",
+      "url": "https://open.spotify.com/track/6fAd7h8Jt3Hsf764rn7kEV"
+    },
+    {
+      "album": {
+        "name": "Remembering Lata Didi",
+        "url": "https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363200,
+      "name": "Mera Saaya Saath Hoga",
+      "url": "https://open.spotify.com/track/0za65XON6dtr5CE6LMQMkV"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256440,
+      "name": "Mere Khwabon Mein (From \"Dilwale Dulhania Le Jayenge\")",
+      "url": "https://open.spotify.com/track/4gYBJIMEnBB0Ylz7VSAMNt"
+    },
+    {
+      "album": {
+        "name": "Naseeb",
+        "url": "https://open.spotify.com/album/7uX9ELrmSUuEe3ce7RKT7B"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378106,
+      "name": "Mere Naseeb Mein - From \"Naseeb\"",
+      "url": "https://open.spotify.com/track/1bu76GGuqWs2jX8ZuDuzBW"
+    },
+    {
+      "album": {
+        "name": "Masterworks Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298474,
+      "name": "Milo Na Tum To Ham Ghabraye (From \"Heer Raanjha\")",
+      "url": "https://open.spotify.com/track/6JRqW2QosewUb7gM5crVbH"
+    },
+    {
+      "album": {
+        "name": "Trishul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Qlu5gzbYJDr6E85T2PVpQ"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279160,
+      "name": "Mohabbat Bade Kaam Ki Cheez Hai",
+      "url": "https://open.spotify.com/track/6mV9faa2C6tYgRmyPk2puC"
+    },
+    {
+      "album": {
+        "name": "Bobby (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1thLuxHLnTsvQYW8BuD6OC"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Shailendra Singh",
+          "url": "https://open.spotify.com/artist/2lgp536k08u3n6rgIW0lNf"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362573,
+      "name": "Mujhe Kuchh Kahna Hai",
+      "url": "https://open.spotify.com/track/29fNLta0BIlXSwKTgvJmZx"
+    },
+    {
+      "album": {
+        "name": "Aap Aye Bahaar Ayee (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2PPlEj4YXCozA3YNbfIs"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381160,
+      "name": "Mujhe Teri Mohabbat Ka Sahara",
+      "url": "https://open.spotify.com/track/4DXibQ4cMpwu3qYPdzXPq4"
+    },
+    {
+      "album": {
+        "name": "Hum Aapke Hain Koun (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wzQyLymXegR9Wpngfo2pB"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362173,
+      "name": "Mujhse Juda Hokar",
+      "url": "https://open.spotify.com/track/2DB9QGwW9ArN10j89DcypN"
+    },
+    {
+      "album": {
+        "name": "Kati Patang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260993,
+      "name": "Na Koi Umang Hai",
+      "url": "https://open.spotify.com/track/6oeZiImrATEBW61WfkQRby"
+    },
+    {
+      "album": {
+        "name": "Humforlatadidi",
+        "url": "https://open.spotify.com/album/5SEwkuBauaQPFfqF4wxkqr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Bhupinder Singh",
+          "url": "https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335306,
+      "name": "Naam Goom Jayega",
+      "url": "https://open.spotify.com/track/2cgWbm4hCO9G1NUCcn19r9"
+    },
+    {
+      "album": {
+        "name": "Lag Ja Gale - Best of Lata Mangeshkar and Madan Mohan",
+        "url": "https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385131,
+      "name": "Naina Barse Rimjhim Rimjhim (From \"Woh Kaun Thi\")",
+      "url": "https://open.spotify.com/track/37SaNhJK2rviDHVgXPpNv0"
+    },
+    {
+      "album": {
+        "name": "Pyar Ka Mausam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ha4n6modesV6DO9sAvipT"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308706,
+      "name": "Ni Sultana Re",
+      "url": "https://open.spotify.com/track/4K2FHmr4bx9UoHj72oXqlV"
+    },
+    {
+      "album": {
+        "name": "Hero (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6yQsPqhpbIN49FGws6o2Dv"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380440,
+      "name": "Nindiya Se Jagi Bahar",
+      "url": "https://open.spotify.com/track/0W7WqMBoEJLWJ46uZ0C08v"
+    },
+    {
+      "album": {
+        "name": "Jab Pyaar Kisise Hota Hai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yNSrUyyhZuKSSvlkrx2Uk"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263920,
+      "name": "O Jaana Na Jaana, Pt. 1",
+      "url": "https://open.spotify.com/track/41o3yT1TB8lnwzk3Ne5SSw"
+    },
+    {
+      "album": {
+        "name": "Lagaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1emmJiAJRnSYETup4o1UsM"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318946,
+      "name": "O Paalanhaare",
+      "url": "https://open.spotify.com/track/5wPr9KuSfGBwGCi6NgJoVv"
+    },
+    {
+      "album": {
+        "name": "Chori Chori (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QhuFKn0eSrmf64IhtBzfW"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273107,
+      "name": "Panchhi Banoon Udti Phiroon",
+      "url": "https://open.spotify.com/track/6I74QpdGxj1i1oTvEC5PXx"
+    },
+    {
+      "album": {
+        "name": "Pa Se Pancham",
+        "url": "https://open.spotify.com/album/0y9JEMAQI4wev6dxx9XfXD"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347318,
+      "name": "Panna Ki Tamanna Hai (From \"Heera Panna\")",
+      "url": "https://open.spotify.com/track/2ZiO4sTAk1FGWqgLXP9kSI"
+    },
+    {
+      "album": {
+        "name": "Bazaar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Talat Aziz",
+          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308733,
+      "name": "Phir Chiddi Raat",
+      "url": "https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx"
+    },
+    {
+      "album": {
+        "name": "Saraswatichandra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JGQAuctvLMJ0siYpusira"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286066,
+      "name": "Phool Tumhe Bheja Hai Khat Mein",
+      "url": "https://open.spotify.com/track/66lGRYDq5J6Wgv7q7ymlua"
+    },
+    {
+      "album": {
+        "name": "Abhimaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3hDjh0RzZAgQrgpIDLpvdk"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251973,
+      "name": "Piya Bina Piya Bina",
+      "url": "https://open.spotify.com/track/2ziKr5ARPlaEzgmy5PYMwA"
+    },
+    {
+      "album": {
+        "name": "Guide (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2vdYAsm1WgUauImlYaqRbU"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509466,
+      "name": "Piya Tose Naina Laage Re",
+      "url": "https://open.spotify.com/track/167vjUqFTFeSamxeZytBKn"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260426,
+      "name": "Pyar Hua Iqrar Hua (From \"Shree 420\")",
+      "url": "https://open.spotify.com/track/4GnWuUsBp9PoWIiigz8DUb"
+    },
+    {
+      "album": {
+        "name": "Dil To Pagal Hai",
+        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
+      },
+      "artists": [
+        {
+          "name": "Uttam Singh",
+          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405028,
+      "name": "Pyar Kar",
+      "url": "https://open.spotify.com/track/339XumxyHEbiKREnsOZXVN"
+    },
+    {
+      "album": {
+        "name": "Woh 7 Din",
+        "url": "https://open.spotify.com/album/0CaCtzzRHd7lc14Uxw4P9S"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Shabbir Kumar",
+          "url": "https://open.spotify.com/artist/3M8OKPsQvP1U8WkG5lY4Vy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411840,
+      "name": "Pyar Kiya Nahin Jata - From \"Woh 7 Din\"",
+      "url": "https://open.spotify.com/track/6fp3Z1YFgrEci3meVmJJHM"
+    },
+    {
+      "album": {
+        "name": "Remembering Lata Didi",
+        "url": "https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381080,
+      "name": "Pyar Kiya To Darna Kya",
+      "url": "https://open.spotify.com/track/1EezmZapxk6dDafoJuou6k"
+    },
+    {
+      "album": {
+        "name": "Amar Prem (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2eUczyrgWxGjL6jDXZDxBl"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318484,
+      "name": "Raina Beeti Jaye",
+      "url": "https://open.spotify.com/track/4vJ8iKlaXGyuREfmY2ZWkG"
+    },
+    {
+      "album": {
+        "name": "Shree 420 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06IaiBtDfA82datti9r8da"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360893,
+      "name": "Ramaiya Vastavaiya",
+      "url": "https://open.spotify.com/track/37YVXy2OMYyT91185rBOsc"
+    },
+    {
+      "album": {
+        "name": "Manzil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dd8y4Bo2nHvkW5nmM1UdR"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Rimjhim Gire Sawan - Duet",
+      "url": "https://open.spotify.com/track/4Twn7Z9eg4tmhFzLlmZsSE"
+    },
+    {
+      "album": {
+        "name": "Saagar",
+        "url": "https://open.spotify.com/album/6nSHpOQPQUbv9vVs14QAMF"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "Saagar Kinare - From \"Saagar\"",
+      "url": "https://open.spotify.com/track/0MB0WmGJN3cjiPb14EmOIz"
+    },
+    {
+      "album": {
+        "name": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350666,
+      "name": "Salame Ishq Meri Jaan",
+      "url": "https://open.spotify.com/track/2I3tlRJXVDuBDvfVOywwUU"
+    },
+    {
+      "album": {
+        "name": "Remembering Lata Didi",
+        "url": "https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375506,
+      "name": "Satyam Shivam Sundaram",
+      "url": "https://open.spotify.com/track/5cdCRSepipz5pLSdud29aB"
+    },
+    {
+      "album": {
+        "name": "Satyam Shivam Sundaram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58s332mhv3WrkdXgmvYCXS"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "Satyam Shivam Sundaram, Pt. 1",
+      "url": "https://open.spotify.com/track/2Nyzt4T9f7VDbAS4ZO6XXV"
+    },
+    {
+      "album": {
+        "name": "Milan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1AXStvax5tZhvxpbsYqcsZ"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328800,
+      "name": "Sawan Ka Mahina",
+      "url": "https://open.spotify.com/track/1CD8kjfHhJQQgzNqmIMFmU"
+    },
+    {
+      "album": {
+        "name": "Love in Tokyo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3u2FxL3onJAawtVsRrimd9"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253257,
+      "name": "Sayonara Sayonara",
+      "url": "https://open.spotify.com/track/01b0TeyxTgDphNYCAme6ka"
+    },
+    {
+      "album": {
+        "name": "Albela (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1JITRa3jlkGBQhHhCkl6Xn"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "C. Ramchandra",
+          "url": "https://open.spotify.com/artist/4tuzg2QDbDF6ytPrszs4q1"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Sham Dhale Khidki Tale",
+      "url": "https://open.spotify.com/track/6dWfuQ8Get4WW3nz2uNkJh"
+    },
+    {
+      "album": {
+        "name": "Lucky: No Time For Love",
+        "url": "https://open.spotify.com/album/13TuLH2TzmgUKu1j4u6kx1"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387026,
+      "name": "Shayad Yahi To Pyar Hai",
+      "url": "https://open.spotify.com/track/0Y4yEiDOL63Z8ePK3HSQvg"
+    },
+    {
+      "album": {
+        "name": "Remembering Lata Didi",
+        "url": "https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346480,
+      "name": "Sheesha Ho Ya Dil Ho",
+      "url": "https://open.spotify.com/track/5ymaHdFoAsFgCQ58riwbOy"
+    },
+    {
+      "album": {
+        "name": "Prem Pujari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4km18oNszsUd067elMhTw9"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304813,
+      "name": "Shokhiyon Mein Ghola Jaye",
+      "url": "https://open.spotify.com/track/5ebdGvBpzZl1PKiedwm6AP"
+    },
+    {
+      "album": {
+        "name": "Albela (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1JITRa3jlkGBQhHhCkl6Xn"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "C. Ramchandra",
+          "url": "https://open.spotify.com/artist/4tuzg2QDbDF6ytPrszs4q1"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251893,
+      "name": "Shola Jo Bhadke",
+      "url": "https://open.spotify.com/track/76KQ5ipv2o1znv855WNVng"
+    },
+    {
+      "album": {
+        "name": "Ram Teri Ganga Maili (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ASt0wBEpXn3pTmg79hcHA"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314049,
+      "name": "Sun Sahiba Sun",
+      "url": "https://open.spotify.com/track/1pn0wX6ko9xwhfp3IaEc8z"
+    },
+    {
+      "album": {
+        "name": "Asli Naqli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ti9x3Gnv6gkzaQtRYmqtl"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "Tera Mera Pyar Amar",
+      "url": "https://open.spotify.com/track/6xxX3xcKdHv6AyNmJnA4ES"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354013,
+      "name": "Tere Bina Zindagi Se (From \"Aandhi\")",
+      "url": "https://open.spotify.com/track/0GeRudbh3e3WY3yws8dO3Y"
+    },
+    {
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331676,
+      "name": "Tere Liye",
+      "url": "https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x"
+    },
+    {
+      "album": {
+        "name": "Chandni (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0V3fAalHOjrakWGRwVHhft"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Babla Mehta",
+          "url": "https://open.spotify.com/artist/1T9OoG7UpwFdav6EGJ9v7U"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333200,
+      "name": "Tere Mere Honthon Pe",
+      "url": "https://open.spotify.com/track/6blnFi2QWy5Xnv9jwPnLfx"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294333,
+      "name": "Tere Mere Milan Ki Yeh Raina (From \"Abhimaan\")",
+      "url": "https://open.spotify.com/track/4oUJpT44uR4ShMHqp4J0OR"
+    },
+    {
+      "album": {
+        "name": "Nagin",
+        "url": "https://open.spotify.com/album/5Tn2PgQHK7SC3ZqhQH617r"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mahendra Kapoor",
+          "url": "https://open.spotify.com/artist/6MoG33ssSzwwE3YJS4e6hu"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329826,
+      "name": "Tere Sang Pyar Main Nahin Torna - Part 2 - Nagin / Soundtrack Version",
+      "url": "https://open.spotify.com/track/0RAvWQHan5kEUPueG32LLE"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Teri Bindiya Re (From \"Abhimaan\")",
+      "url": "https://open.spotify.com/track/0x4ep73GsOujupPBVjwHgb"
+    },
+    {
+      "album": {
+        "name": "Darr (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7xGWECEsvj4iI3CajtZ1GH"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366573,
+      "name": "Tu Mere Samne",
+      "url": "https://open.spotify.com/track/08XzRV4mGjGwbpvYw68xBk"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303960,
+      "name": "Tujhe Dekha To (From \"Dilwale Dulhania Le Jayenge\")",
+      "url": "https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf"
+    },
+    {
+      "album": {
+        "name": "Asli Naqli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ti9x3Gnv6gkzaQtRYmqtl"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Tujhe Jeevan Ki Dor Se",
+      "url": "https://open.spotify.com/track/1YOBKE8wqS1YUSkwNXos4Q"
+    },
+    {
+      "album": {
+        "name": "Masoom (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4PK2ilLdNmtDx3ncsULbiL"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220106,
+      "name": "Tujhse Naraz Nahin Zindagi - Female Vocals",
+      "url": "https://open.spotify.com/track/5nqDS264yIVi2vj38aNkAU"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252360,
+      "name": "Tum Aa Gaye Ho Noor Aa Gaya (From \"Aandhi\")",
+      "url": "https://open.spotify.com/track/46vtbOdgiQHYQgBRwn1sYr"
+    },
+    {
+      "album": {
+        "name": "Adalat",
+        "url": "https://open.spotify.com/album/2A6oVYmSWbE7464I1lqyoD"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206560,
+      "name": "Tumse Dur Rehke - From \"Adalat\"",
+      "url": "https://open.spotify.com/track/5QVBXZlsxaOQSK6ODi615a"
+    },
+    {
+      "album": {
+        "name": "Pyar Jhukta Nahin",
+        "url": "https://open.spotify.com/album/1wpktILRvtCWsWSqQSrwWK"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Shabbir Kumar",
+          "url": "https://open.spotify.com/artist/3M8OKPsQvP1U8WkG5lY4Vy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412337,
+      "name": "Tumse Milkar Na Jane",
+      "url": "https://open.spotify.com/track/1CljcFs9C5K3V7esJYGTTu"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287504,
+      "name": "Wada Kar Le Sajna (From \"Haath Ki Safai\")",
+      "url": "https://open.spotify.com/track/5N5RmSEq6WoIciRvZoarSH"
+    },
+    {
+      "album": {
+        "name": "The Golden Years, Vol. 1",
+        "url": "https://open.spotify.com/album/2Zzk6zrMzW0V5lPXdM1eRR"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311266,
+      "name": "Wada Karo - From \"Aa Gale Lag Jaa\"",
+      "url": "https://open.spotify.com/track/6jsh1e9MRqbfy8tI38f71k"
+    },
+    {
+      "album": {
+        "name": "Dil Tujhko Diya",
+        "url": "https://open.spotify.com/album/6V4NxpYQnLjHAik6S4zdLY"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361293,
+      "name": "Wada Na Tod - From \"Dil Tujhko Diya\"",
+      "url": "https://open.spotify.com/track/1Eu8k38S6dFMuool5amlmR"
+    },
+    {
+      "album": {
+        "name": "Hum Aapke Hain Koun (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wzQyLymXegR9Wpngfo2pB"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255066,
+      "name": "Wah Wah Ramji",
+      "url": "https://open.spotify.com/track/1Kj19iEGWgzAH28ZnBFjmj"
+    },
+    {
+      "album": {
+        "name": "Anari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IQ9K4BWEVmRJoyqD2ScMN"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264730,
+      "name": "Woh Chand Khila Woh Tare Hanse, Pt. 2",
+      "url": "https://open.spotify.com/track/5y85TFf3uqXZ29saeXLhec"
+    },
+    {
+      "album": {
+        "name": "Shagird (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/34hP62rESb0f50MnHRrB7x"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353506,
+      "name": "Woh Hai Zara Khafa Khafa",
+      "url": "https://open.spotify.com/track/7hWJABKFlASuT36B5Jfsbd"
+    },
+    {
+      "album": {
+        "name": "Patita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1AO1npNUV93OKmz3J7X3lW"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "Yaad Kiya Dil Ne",
+      "url": "https://open.spotify.com/track/4SIyELnEXAxSzXbWQ5MorW"
+    },
+    {
+      "album": {
+        "name": "Lekin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7qmGaQpTwiimvbheYIooGs"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305880,
+      "name": "Yara Seeli Seeli",
+      "url": "https://open.spotify.com/track/2bvSrOKLBSM6spSHLfdnZp"
+    },
+    {
+      "album": {
+        "name": "Humforlatadidi",
+        "url": "https://open.spotify.com/album/5SEwkuBauaQPFfqF4wxkqr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286296,
+      "name": "Ye Samaa Samaa Hai Pyar Ka",
+      "url": "https://open.spotify.com/track/4vXuRuHYd0xzy3OmIUWD9z"
+    },
+    {
+      "album": {
+        "name": "Prem Rog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6bwmc3vDzwpPFILHwbZMKp"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388560,
+      "name": "Yeh Galiyan Yeh Chaubara",
+      "url": "https://open.spotify.com/track/5cuIwNK5CiVRITCRKywR2W"
+    },
+    {
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343066,
+      "name": "Yeh Hum Aa Gaye Hain Kahaan",
+      "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
+    },
+    {
+      "album": {
+        "name": "Masterworks Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474906,
+      "name": "Yeh Kahan Aa Gaye Hum (From \"Silsila\")",
+      "url": "https://open.spotify.com/track/4aZ428dOn67xa2i02kDmru"
+    },
+    {
+      "album": {
+        "name": "Masterworks Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269626,
+      "name": "Yeh Raat Bheegi Bheegi (From \"Chori Chori\")",
+      "url": "https://open.spotify.com/track/0VwIeFFPs7BQTyDdlK9q6N"
+    },
+    {
+      "album": {
+        "name": "Julie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3dillOeeOQpaW4DOBxaGMX"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336614,
+      "name": "Yeh Raaten",
+      "url": "https://open.spotify.com/track/747xb33Nv17zfV4L0hOsHf"
+    },
+    {
+      "album": {
+        "name": "Sachaa Jhutha",
+        "url": "https://open.spotify.com/album/5VFC5NmbiFSCSsVMOTiJOo"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257386,
+      "name": "Yunhi Tum Mujhse - From \"Sachaa Jhutha\"",
+      "url": "https://open.spotify.com/track/2NBY05e6mIWtXtDJfdV853"
+    },
+    {
+      "album": {
+        "name": "Ghulami",
+        "url": "https://open.spotify.com/album/34cdNS4hJhxR9PgGBshL58"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Shabbir Kumar",
+          "url": "https://open.spotify.com/artist/3M8OKPsQvP1U8WkG5lY4Vy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446280,
+      "name": "Zeehale Muskin - From \"Ghulami\"",
+      "url": "https://open.spotify.com/track/6kagFuQmw7UtUkbVHNEuYl"
+    },
+    {
+      "album": {
+        "name": "Mohabbatein",
+        "url": "https://open.spotify.com/album/2HeqbIcBcggDsgNCHcGN1h"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143360,
+      "name": "Zinda Rehti Hain Unki Mohabbatein",
+      "url": "https://open.spotify.com/track/3HYF4u13huHTkHQnBgit3N"
+    },
+    {
+      "album": {
+        "name": "Meri Jung (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0j71NhJ8RsaMAAj6b6XEG6"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Nitin Mukesh",
+          "url": "https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414400,
+      "name": "Zindagi Har Kadam Ek Nai Jung Hai, Pt. 1",
+      "url": "https://open.spotify.com/track/136NoWEp2MN7LrNYIgMkpM"
+    },
+    {
+      "album": {
+        "name": "Kranti (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15h0Vgw7G6cRVBJ81ST8aB"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Nitin Mukesh",
+          "url": "https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422066,
+      "name": "Zindagi Ki Na Toote Ladi",
+      "url": "https://open.spotify.com/track/7jNRqjf8iAdm7lPiANChtu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9lOZlcP2WJM"
 }

@@ -4,7 +4,7 @@
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-54 songs - 6 hr 27 min
+55 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Melodic Group Shapes iii](https://open.spotify.com/track/1CQa0vRTpL47Fc179A82OX) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Sound Patterns \(Remastered\)](https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA) | 0:38 | 2021-08-20 |  |
 | [Music Of The Spheres](https://open.spotify.com/track/5lW1aLs1hpggoLJDdA94G1) | [Johanna M\. Beyer](https://open.spotify.com/artist/66BM967JJOmv1gne6F72DA) | [An Anthology Of Noise And Electronic Music Vol.2](https://open.spotify.com/album/2P8UMtdO8F1uHUgHaNu6Kb) | 6:00 | 2021-08-20 |  |
 | [Norton Computer for Peace](https://open.spotify.com/track/5mTiuOPAp47dwfdLmDA2GP) | [Doris Norton](https://open.spotify.com/artist/7MrgEI0WTL3jjrHkQqpMCW) | [Nortoncomputerforpeace](https://open.spotify.com/album/1yec29YqhaDa3WF0dw2wZI) | 3:24 | 2021-08-20 |  |
-| [Novus Pt\. 1: Soul's Journey](https://open.spotify.com/track/7ryUfJfr9GehdSJrTTybbC) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 6:51 | 2021-08-20 |  |
+| [Novus Pt\. 1: Soul's Journey](https://open.spotify.com/track/06xEke6qRCcYRRbEkFoYvh) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/2MZbpYRRu5BhPIEPA2Gd8L) | 6:51 | 2021-08-20 |  |
+| [Novus Pt\. 1: Soul's Journey](https://open.spotify.com/track/7ryUfJfr9GehdSJrTTybbC) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 6:51 | 2021-08-20 | 2024-01-15 |
 | [Onírico](https://open.spotify.com/track/5MAauMhjPUul3YHOkt5HJN) | [Jocy de Oliveira](https://open.spotify.com/artist/5FZUC2wh2N9pXGipTsl1be) | [Fata Morgana](https://open.spotify.com/album/6S2GsLoj34b8GU5wBVYa6T) | 8:37 | 2021-08-20 |  |
 | [Pauline Oliveros \- I of IV](https://open.spotify.com/track/77rz0oP8SyYU6blsUaSITK) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [New Sounds In Electronic Music](https://open.spotify.com/album/3BYafbZd7fagfbsd10HItL) | 20:32 | 2021-08-20 |  |
 | [Pop & Pour' Coca\-Cola Logo](https://open.spotify.com/track/2iVN27xHh6Z6jVKC2ZSNq1) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Lixiviation](https://open.spotify.com/album/5MoK224rgWrUtFY1gtJ44A) | 0:07 | 2021-08-20 |  |

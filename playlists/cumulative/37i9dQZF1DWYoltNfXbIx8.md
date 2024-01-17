@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-111 songs - 10 hr 40 min
+112 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 | 2022-02-25 |  |
 | [Mano de Fé](https://open.spotify.com/track/1rXh5lDcW9sMeBizF2awvd) | [Potencial 3](https://open.spotify.com/artist/6nZg0XOctvjji1pPvsOjNH) | [Mano de Fé](https://open.spotify.com/album/4PmbdwTs4hoYztsDs60T1j) | 4:16 | 2022-02-25 |  |
 | [Mantenha o Respeito](https://open.spotify.com/track/5scK80Nrz12oGUnQGcPgg1) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [Usuário](https://open.spotify.com/album/6IprXLAWCQtujK6LHFt9bn) | 3:16 | 2022-02-25 |  |
-| [Matemática na Prática](https://open.spotify.com/track/7z7wZz5bLUqVCynB5763rk) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 4:30 | 2022-02-25 |  |
+| [Matemática na Prática](https://open.spotify.com/track/7z7wZz5bLUqVCynB5763rk) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/2LpWCjcNCMyi3UhN8ZeGa4) | 4:30 | 2022-02-25 | 2024-01-06 |
+| [Matemática Na Prática](https://open.spotify.com/track/3DMQMn1xpkfBBOqlzziupj) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Das Trevas à Luz](https://open.spotify.com/album/3Enl5PklqXTyO1kRZzBfMI) | 4:31 | 2022-12-02 |  |
 | [Mágico de Oz](https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:36 | 2022-02-25 |  |
 | [Meu Filho Minhas Regras](https://open.spotify.com/track/0Dlh7GZRUh2so0f3oHdSPe) | [Visáo De Rua](https://open.spotify.com/artist/4Vaxb77sF92LF9z8ODEYzD) | [Ruas de Sangue](https://open.spotify.com/album/684stUH00OGoXW4J8jACwR) | 6:00 | 2022-02-25 |  |
 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 | 2022-02-25 |  |
@@ -64,7 +65,7 @@
 | [O Homem estragou tudo](https://open.spotify.com/track/3QF009hr5Vu9o6d3z3ViQ0) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Direto do Campo de Extermínio](https://open.spotify.com/album/3SStKpKrLzkfETa9i73mMn) | 5:15 | 2022-12-02 |  |
 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 | 2022-02-25 |  |
 | [Oitavo Anjo](https://open.spotify.com/track/73ZFqSslPNdKZBRmGcGzKW) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [Provérbios 13](https://open.spotify.com/album/4tWDp6fP9O3wNfko1UCaQo) | 5:28 | 2022-02-25 | 2022-07-29 |
-| [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 | 2022-02-25 |  |
+| [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 | 2022-02-25 |  |
 | [Olha O Menino](https://open.spotify.com/track/0ptYXDqZ9GVPhJGPbUG8yY) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 3:53 | 2022-02-25 |  |
 | [Paz Interior](https://open.spotify.com/track/5hO76mbTvvaKqpo3EmMb8N) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 6:06 | 2022-02-25 |  |
 | [Pânico na Zona Sul](https://open.spotify.com/track/5MS06gIb0ertXR7JENsTQL) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:40 | 2022-02-25 |  |

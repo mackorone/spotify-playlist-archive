@@ -1,298 +1,1451 @@
 {
-  "2023-03-11": 34914,
-  "2023-03-12": 34937,
-  "2023-03-13": 34969,
-  "2023-03-14": 34998,
-  "2023-03-15": 35015,
-  "2023-03-16": 35015,
-  "2023-03-17": 35015,
-  "2023-03-18": 35108,
-  "2023-03-19": 35108,
-  "2023-03-20": 35167,
-  "2023-03-21": 35188,
-  "2023-03-22": 35213,
-  "2023-03-23": 35235,
-  "2023-03-24": 35235,
-  "2023-03-25": 35273,
-  "2023-03-26": 35298,
-  "2023-03-27": 35313,
-  "2023-03-28": 35332,
-  "2023-03-29": 35361,
-  "2023-03-30": 35397,
-  "2023-03-31": 35397,
-  "2023-04-01": 35417,
-  "2023-04-02": 35439,
-  "2023-04-03": 35455,
-  "2023-04-04": 35480,
-  "2023-04-05": 35504,
-  "2023-04-06": 35529,
-  "2023-04-07": 35566,
-  "2023-04-09": 35616,
-  "2023-04-10": 35636,
-  "2023-04-11": 35698,
-  "2023-04-12": 35698,
-  "2023-04-13": 35721,
-  "2023-04-14": 35745,
-  "2023-04-15": 35773,
-  "2023-04-16": 35808,
-  "2023-04-17": 35837,
-  "2023-04-18": 35861,
-  "2023-04-19": 35880,
-  "2023-04-20": 35906,
-  "2023-04-21": 35925,
-  "2023-04-22": 35956,
-  "2023-04-23": 35974,
-  "2023-04-24": 35993,
-  "2023-04-25": 36016,
-  "2023-04-26": 36038,
-  "2023-04-27": 36055,
-  "2023-04-28": 36076,
-  "2023-04-29": 36088,
-  "2023-04-30": 36109,
-  "2023-05-01": 36134,
-  "2023-05-02": 36149,
-  "2023-05-03": 36175,
-  "2023-05-04": 36197,
-  "2023-05-05": 36209,
-  "2023-05-06": 36228,
-  "2023-05-07": 36243,
-  "2023-05-08": 36261,
-  "2023-05-09": 36282,
-  "2023-05-10": 36304,
-  "2023-05-11": 36320,
-  "2023-05-12": 36336,
-  "2023-05-13": 36361,
-  "2023-05-14": 36379,
-  "2023-05-15": 36398,
-  "2023-05-16": 36409,
-  "2023-05-17": 36435,
-  "2023-05-18": 36464,
-  "2023-05-19": 36485,
-  "2023-05-20": 36533,
-  "2023-05-21": 36533,
-  "2023-05-22": 36533,
-  "2023-05-23": 36578,
-  "2023-05-24": 36609,
-  "2023-05-25": 36620,
-  "2023-05-26": 36644,
-  "2023-05-27": 36654,
-  "2023-05-28": 36682,
-  "2023-05-29": 36682,
-  "2023-05-30": 36754,
-  "2023-05-31": 36785,
-  "2023-06-01": 36803,
-  "2023-06-02": 36824,
-  "2023-06-03": 36844,
-  "2023-06-04": 36866,
-  "2023-06-05": 36887,
-  "2023-06-06": 36897,
-  "2023-06-07": 36928,
-  "2023-06-08": 36941,
-  "2023-06-09": 36964,
-  "2023-06-10": 36981,
-  "2023-06-11": 37003,
-  "2023-06-12": 37032,
-  "2023-06-13": 37052,
-  "2023-06-14": 37064,
-  "2023-06-15": 37079,
-  "2023-06-16": 37099,
-  "2023-06-17": 37122,
-  "2023-06-18": 37139,
-  "2023-06-19": 37157,
-  "2023-06-20": 37166,
-  "2023-06-21": 37186,
-  "2023-06-22": 37208,
-  "2023-06-23": 37221,
-  "2023-06-24": 37243,
-  "2023-06-25": 37259,
-  "2023-06-26": 37280,
-  "2023-06-27": 37295,
-  "2023-06-28": 37304,
-  "2023-06-29": 37313,
-  "2023-06-30": 37345,
-  "2023-07-01": 37397,
-  "2023-07-02": 37397,
-  "2023-07-03": 37411,
-  "2023-07-04": 37421,
-  "2023-07-05": 37447,
-  "2023-07-06": 37479,
-  "2023-07-07": 37479,
-  "2023-07-08": 37479,
-  "2023-07-09": 37514,
-  "2023-07-10": 37536,
-  "2023-07-11": 37552,
-  "2023-07-12": 37565,
-  "2023-07-13": 37581,
-  "2023-07-14": 37598,
-  "2023-07-15": 37610,
-  "2023-07-16": 37634,
-  "2023-07-17": 37651,
-  "2023-07-18": 37665,
-  "2023-07-19": 37673,
-  "2023-07-20": 37684,
-  "2023-07-21": 37696,
-  "2023-07-22": 37714,
-  "2023-07-23": 37743,
-  "2023-07-24": 37757,
-  "2023-07-25": 37772,
-  "2023-07-26": 37787,
-  "2023-07-27": 37806,
-  "2023-07-28": 37835,
-  "2023-07-29": 37842,
-  "2023-07-30": 37860,
-  "2023-07-31": 37882,
-  "2023-08-01": 37902,
-  "2023-08-02": 38109,
-  "2023-08-03": 38140,
-  "2023-08-04": 38159,
-  "2023-08-05": 38172,
-  "2023-08-06": 38219,
-  "2023-08-07": 38219,
-  "2023-08-08": 38225,
-  "2023-08-09": 38245,
-  "2023-08-10": 38258,
-  "2023-08-11": 38277,
-  "2023-08-12": 38277,
-  "2023-08-13": 38277,
-  "2023-08-14": 38343,
-  "2023-08-15": 38343,
-  "2023-08-16": 38343,
-  "2023-08-17": 38343,
-  "2023-08-18": 38343,
-  "2023-08-19": 38343,
-  "2023-08-20": 38442,
-  "2023-08-21": 38442,
-  "2023-08-22": 38479,
-  "2023-08-23": 38479,
-  "2023-08-24": 38479,
-  "2023-08-25": 38479,
-  "2023-08-26": 38554,
-  "2023-08-27": 38554,
-  "2023-08-28": 38603,
-  "2023-08-29": 38603,
-  "2023-08-30": 38603,
-  "2023-08-31": 38646,
-  "2023-09-01": 38666,
-  "2023-09-02": 38666,
-  "2023-09-03": 38666,
-  "2023-09-04": 38666,
-  "2023-09-05": 38666,
-  "2023-09-06": 38666,
-  "2023-09-07": 38666,
-  "2023-09-08": 38666,
-  "2023-09-09": 38666,
-  "2023-09-10": 38853,
-  "2023-09-11": 38853,
-  "2023-09-12": 38853,
-  "2023-09-13": 38853,
-  "2023-09-14": 38853,
-  "2023-09-15": 38853,
-  "2023-09-16": 39090,
-  "2023-09-17": 39090,
-  "2023-09-18": 39090,
-  "2023-09-19": 39163,
-  "2023-09-20": 39163,
-  "2023-09-21": 39163,
-  "2023-09-22": 39230,
-  "2023-09-23": 39230,
-  "2023-09-24": 39230,
-  "2023-09-25": 39230,
-  "2023-09-26": 39301,
-  "2023-09-27": 39301,
-  "2023-09-28": 39301,
-  "2023-09-29": 39301,
-  "2023-09-30": 39301,
-  "2023-10-01": 39301,
-  "2023-10-02": 39301,
-  "2023-10-03": 39301,
-  "2023-10-04": 39301,
-  "2023-10-05": 39301,
-  "2023-10-06": 39301,
-  "2023-10-07": 39301,
-  "2023-10-08": 39301,
-  "2023-10-09": 39301,
-  "2023-10-10": 39301,
-  "2023-10-11": 39524,
-  "2023-10-12": 39524,
-  "2023-10-13": 39524,
-  "2023-10-14": 39524,
-  "2023-10-15": 39524,
-  "2023-10-16": 39524,
-  "2023-10-17": 39524,
-  "2023-10-18": 39524,
-  "2023-10-19": 39524,
-  "2023-10-20": 39524,
-  "2023-10-21": 39524,
-  "2023-10-22": 39524,
-  "2023-10-23": 39524,
-  "2023-10-24": 39524,
-  "2023-10-25": 39524,
-  "2023-10-26": 39524,
-  "2023-10-27": 39524,
-  "2023-10-28": 39524,
-  "2023-10-29": 39524,
-  "2023-10-30": 39524,
-  "2023-10-31": 39524,
-  "2023-11-01": 39524,
-  "2023-11-02": 39524,
-  "2023-11-03": 39524,
-  "2023-11-04": 39524,
-  "2023-11-05": 39524,
-  "2023-11-06": 39524,
-  "2023-11-07": 39524,
-  "2023-11-08": 39524,
-  "2023-11-09": 39524,
-  "2023-11-10": 39524,
-  "2023-11-11": 40023,
-  "2023-11-12": 40023,
-  "2023-11-13": 40023,
-  "2023-11-14": 40023,
-  "2023-11-15": 40023,
-  "2023-11-16": 40023,
-  "2023-11-17": 40023,
-  "2023-11-18": 40023,
-  "2023-11-19": 40023,
-  "2023-11-20": 40023,
-  "2023-11-21": 40023,
-  "2023-11-22": 40023,
-  "2023-11-23": 40023,
-  "2023-11-24": 40023,
-  "2023-11-25": 40023,
-  "2023-11-26": 40023,
-  "2023-11-27": 40023,
-  "2023-11-28": 40023,
-  "2023-11-29": 40023,
-  "2023-11-30": 40023,
-  "2023-12-01": 40023,
-  "2023-12-02": 40023,
-  "2023-12-03": 40023,
-  "2023-12-04": 40023,
-  "2023-12-05": 40023,
-  "2023-12-06": 40023,
-  "2023-12-07": 40023,
-  "2023-12-08": 40023,
-  "2023-12-09": 40023,
-  "2023-12-10": 40023,
-  "2023-12-11": 40023,
-  "2023-12-12": 40023,
-  "2023-12-13": 40023,
-  "2023-12-14": 40417,
-  "2023-12-15": 40427,
-  "2023-12-16": 40443,
-  "2023-12-17": 40449,
-  "2023-12-18": 40461,
-  "2023-12-19": 40466,
-  "2023-12-20": 40488,
-  "2023-12-21": 40503,
-  "2023-12-22": 40509,
-  "2023-12-23": 40529,
-  "2023-12-24": 40543,
-  "2023-12-25": 40553,
-  "2023-12-26": 40566,
-  "2023-12-27": 40581,
-  "2023-12-30": 40607,
-  "2023-12-31": 40618,
-  "2024-01-01": 40633,
-  "2024-01-02": 40635,
-  "2024-01-03": 40643
+  "2024-01-17": 40744,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
+  "name": "This Is Ana B\u00e1rbara",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Mi Me Respetas",
+        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150148,
+      "name": "A Mi Me Respetas",
+      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "album": {
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194333,
+      "name": "Ahora Me Toca a Mi",
+      "url": "https://open.spotify.com/track/5OZgyid8qEyB2QZuF3JyK1"
+    },
+    {
+      "album": {
+        "name": "Alma Perdida",
+        "url": "https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 235180,
+      "name": "Alma perdida",
+      "url": "https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA"
+    },
+    {
+      "album": {
+        "name": "Bienvenida La Vida",
+        "url": "https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234208,
+      "name": "Amor Perfecto",
+      "url": "https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo"
+    },
+    {
+      "album": {
+        "name": "Amor y Veneno",
+        "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209732,
+      "name": "Amor y Veneno",
+      "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
+    },
+    {
+      "album": {
+        "name": "Te Atrapar\u00e9 Bandido",
+        "url": "https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179773,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK"
+    },
+    {
+      "album": {
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281440,
+      "name": "Capullo Y Sorullo",
+      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
+    },
+    {
+      "album": {
+        "name": "Color Esperanza / S\u00f3lo le Pido a Dios (Versi\u00f3n M\u00e9xico)",
+        "url": "https://open.spotify.com/album/1eQ25ITdG0bmvBlRCtACk2"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "Beto Cuevas",
+          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        },
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Erik Rubin",
+          "url": "https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n"
+        },
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        },
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        },
+        {
+          "name": "Mario Domm",
+          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
+        },
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        },
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        },
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Sabo Romo",
+          "url": "https://open.spotify.com/artist/2xqM9QBD5UgmHWfUbqfs1M"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223906,
+      "name": "Color Esperanza / S\u00f3lo le Pido a Dios - Versi\u00f3n M\u00e9xico",
+      "url": "https://open.spotify.com/track/6Z48v2xlf3H66cgxz6Rxg3"
+    },
+    {
+      "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261293,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
+    },
+    {
+      "album": {
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 229579,
+      "name": "Conmigo Nada",
+      "url": "https://open.spotify.com/track/0Hbp6SvMb07JUw596swZTl"
+    },
+    {
+      "album": {
+        "name": "Yuri",
+        "url": "https://open.spotify.com/album/7C2u8zacX2l48XqqDWTStW"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 198293,
+      "name": "Cosas del Amor (with Ana Barbara)",
+      "url": "https://open.spotify.com/track/1Sr81TR1aUDZdPVNIHQyww"
+    },
+    {
+      "album": {
+        "name": "Cuenta Conmigo (Feat. Ana B\u00e1rbara)",
+        "url": "https://open.spotify.com/album/7DRMVvRCbDtg4jsvyZMtqT"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 183213,
+      "name": "Cuenta Conmigo (Feat. Ana B\u00e1rbara)",
+      "url": "https://open.spotify.com/track/6utkB9P58tbbHwXzEYxeIO"
+    },
+    {
+      "album": {
+        "name": "De Vez En Cuando",
+        "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213329,
+      "name": "De Vez En Cuando",
+      "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
+    },
+    {
+      "album": {
+        "name": "El Consejo",
+        "url": "https://open.spotify.com/album/5lv57HsjC4fLY5XYBWxRrF"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 239031,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/0l2TR5bQDGeMdozWEA0YOy"
+    },
+    {
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239031,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo"
+    },
+    {
+      "album": {
+        "name": "El Ultimo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
+        {
+          "name": "Jorge Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/5O2KyWcHYBmjmobgNLumcb"
+        },
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        },
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Emmanuele",
+          "url": "https://open.spotify.com/artist/7HBONupvCpvcMp1ZxK84Ii"
+        },
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        },
+        {
+          "name": "Alberto \"Beto\" Zapata",
+          "url": "https://open.spotify.com/artist/20VNXin5fi626FsmioiExE"
+        },
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
+        },
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Wilkins",
+          "url": "https://open.spotify.com/artist/5Awnuu794580X3uHQGx78O"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5gr23KYBk2FyIBx5xpHVjE"
+        },
+        {
+          "name": "Melina Leon",
+          "url": "https://open.spotify.com/artist/5oj50e6WeS3yFv92YDOfXA"
+        },
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
+      "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
+    },
+    {
+      "album": {
+        "name": "Veinticinco",
+        "url": "https://open.spotify.com/album/5kMOVXa9KmVVgZSOE6xA96"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "Enamorado Y Sin Ti",
+      "url": "https://open.spotify.com/track/4YPp8ZNDC7Mwoxl378F1d8"
+    },
+    {
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 239506,
+      "name": "Entre Ella Y Yo",
+      "url": "https://open.spotify.com/track/3yfjiOCMa9VNZ5cYdUHIrV"
+    },
+    {
+      "album": {
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "Eso No Es De Hombres",
+      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
+    },
+    {
+      "album": {
+        "name": "La Gorda Linda",
+        "url": "https://open.spotify.com/album/5p4AIAvFarT9TzSPYI6sa6"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 223200,
+      "name": "Estar A Tu Lado",
+      "url": "https://open.spotify.com/track/2hpqKfCVvMgMR3hHomg8LA"
+    },
+    {
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
+    },
+    {
+      "album": {
+        "name": "Fruta Prohibida",
+        "url": "https://open.spotify.com/album/186sbJdKHVH7OM5MuBtdUv"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-10",
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/7wzBcwQYUyboa2w56LWlIP"
+    },
+    {
+      "album": {
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
+    },
+    {
+      "album": {
+        "name": "La Jugada",
+        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
+    },
+    {
+      "album": {
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/62nLNuTjFfyJczHfln6mw2"
+    },
+    {
+      "album": {
+        "name": "Loca De Amar",
+        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275893,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY"
+    },
+    {
+      "album": {
+        "name": "Loca De Amar",
+        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/3s3pbToR5GZYv7lis5utk1"
+    },
+    {
+      "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "Los Besos No Se Dan En La Camisa",
+      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271466,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Me Asusta Pero Me Gusta",
+      "url": "https://open.spotify.com/track/5f4nU53KDcZc5gLUnyIKJh"
+    },
+    {
+      "album": {
+        "name": "Mentiras Bonitas",
+        "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188644,
+      "name": "Mentiras Bonitas",
+      "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
+    },
+    {
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184469,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2oK0C7gT4VOoYSG80I0DPo"
+    },
+    {
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6o7i9pTUqE8FC6WbqtKqMa"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 184469,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4JIGvUeyXTKEzZ8mv0ApKl"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/09oFND2pC7tobyRfNVYzjQ"
+    },
+    {
+      "album": {
+        "name": "Nada de Ti",
+        "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223578,
+      "name": "Nada de Ti",
+      "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
+    },
+    {
+      "album": {
+        "name": "Nadie Me Vera Llorar (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Nadie Me Vera Llorar - (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL"
+    },
+    {
+      "album": {
+        "name": "No Es Brujeria",
+        "url": "https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "No Es Brujeria",
+      "url": "https://open.spotify.com/track/0nZUAnwrg9l0QUqW8O8sbb"
+    },
+    {
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "No Llorar\u00e9",
+      "url": "https://open.spotify.com/track/1EXlMcLvZlN21kugkLI8SC"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "No Me Amenaces",
+      "url": "https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "No Se Que Voy A Hacer",
+      "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
+    },
+    {
+      "album": {
+        "name": "No Volver\u00e9",
+        "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192680,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
+    },
+    {
+      "album": {
+        "name": "Vozes",
+        "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213173,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
+    },
+    {
+      "album": {
+        "name": "Para No Extra\u00f1arte Tanto",
+        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233536,
+      "name": "Para No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
+    },
+    {
+      "album": {
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 193560,
+      "name": "Pens\u00e1ndolo Bien",
+      "url": "https://open.spotify.com/track/0IuCoCIjEbd0oYyuqyVYII"
+    },
+    {
+      "album": {
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "Prefiero Tomar",
+      "url": "https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB"
+    },
+    {
+      "album": {
+        "name": "Loca De Amar",
+        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 229573,
+      "name": "Principio Y Fin",
+      "url": "https://open.spotify.com/track/5pncUsL0FvKOFlJO9uKuKV"
+    },
+    {
+      "album": {
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208431,
+      "name": "Que Ironia - Original Mix",
+      "url": "https://open.spotify.com/track/2JWxpraTEhfOA3cBxgUTRi"
+    },
+    {
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189309,
+      "name": "Que Poca",
+      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
+    },
+    {
+      "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK"
+      },
+      "artists": [
+        {
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213812,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198360,
+      "name": "Quise Olvidar",
+      "url": "https://open.spotify.com/track/7e35lHCloNPRNSH1F3xVc1"
+    },
+    {
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172514,
+      "name": "Reza y Reza",
+      "url": "https://open.spotify.com/track/6Z6FqnImFvNvxg9aHW2HKz"
+    },
+    {
+      "album": {
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295209,
+      "name": "Rompiendo Cadenas - Original mix",
+      "url": "https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi"
+    },
+    {
+      "album": {
+        "name": "Solos",
+        "url": "https://open.spotify.com/album/4MZ3QFD6pxd9uQvjsX0SpR"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Solos",
+      "url": "https://open.spotify.com/track/1oQtCWxfOZwyfy2Vl3yy6w"
+    },
+    {
+      "album": {
+        "name": "Rompiendo Cadenas",
+        "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "Te Llevaste - Original mix",
+      "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
+    },
+    {
+      "album": {
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Te Regalo La Lluvia",
+      "url": "https://open.spotify.com/track/2KsxQoFWqOzGkCrEQWEvKZ"
+    },
+    {
+      "album": {
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 233626,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/2QyPrHTHXRmdyizq5MGBEF"
+    },
+    {
+      "album": {
+        "name": "Necesito Olvidarte",
+        "url": "https://open.spotify.com/album/55XhUs9Cx4KtWxIRjLxOPr"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184426,
+      "name": "Todo Lo Aprend\u00ed De Ti",
+      "url": "https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT"
+    },
+    {
+      "album": {
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198853,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR"
+    },
+    {
+      "album": {
+        "name": "Ven a Cantar",
+        "url": "https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261497,
+      "name": "Ven a Cantar",
+      "url": "https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg"
+    },
+    {
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230493,
+      "name": "Y Siempre",
+      "url": "https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul"
+    },
+    {
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Ya No Te Creo Nada",
+      "url": "https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6"
+    },
+    {
+      "album": {
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215906,
+      "name": "Yo Ya No Estoy",
+      "url": "https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mOf7x"
 }

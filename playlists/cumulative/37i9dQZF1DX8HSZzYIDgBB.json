@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Atl\u00e2ntico",
+        "url": "https://open.spotify.com/album/6QkPq5Kq4T5g5OGBgI7ImR"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461000,
+      "name": "Alegria Em Movimento",
+      "url": "https://open.spotify.com/track/6LzFrazsIFzzqzcFGVJt89"
+    },
+    {
+      "album": {
         "name": "Alma Carnavalera",
         "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 242961,
       "name": "Boca Chica",
       "url": "https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": "2024-01-09",
       "duration_ms": 263096,
       "name": "Contra La Corriente",
       "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
@@ -1054,6 +1072,24 @@
       "duration_ms": 197886,
       "name": "Conversaciones",
       "url": "https://open.spotify.com/track/2JoIsTLmlVGiY2y602IkZN"
+    },
+    {
+      "album": {
+        "name": "Cool Down (Ice Cream Donut)",
+        "url": "https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te"
+      },
+      "artists": [
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222990,
+      "name": "Cool Down (Ice Cream Donut)",
+      "url": "https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp"
     },
     {
       "album": {
@@ -1254,7 +1290,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 185920,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
@@ -1464,7 +1500,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": "2024-01-17",
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 194000,
       "name": "El Tonto",
       "url": "https://open.spotify.com/track/1QbjXGsTITFUIxPauH3wJR"
@@ -1828,7 +1864,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 198048,
       "name": "Flores",
       "url": "https://open.spotify.com/track/01TNtLLUp9z4cA0JjlaKqM"
@@ -1846,7 +1882,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 198048,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 262156,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/2rOhcW4XLwq7qdJDO30xAQ"
@@ -2784,7 +2820,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 174236,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/1cmy6Wcr8PtNsTxjzP3ttG"
@@ -2918,7 +2954,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 227057,
       "name": "Los Fines de Semana",
       "url": "https://open.spotify.com/track/7rBXuya4uCZ0WXbX9RX8sT"
@@ -3464,7 +3500,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 162120,
       "name": "Monumento",
       "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
@@ -4638,7 +4674,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 153062,
       "name": "Sabata",
       "url": "https://open.spotify.com/track/4XhU47wfklTbNr5o7xzw2e"
@@ -4656,7 +4692,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 228793,
       "name": "Sabe a Tu Nombre",
       "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
@@ -4696,7 +4732,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 265187,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/47o3EFBMHF6d7HgKbmA0oo"
@@ -5020,7 +5056,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 242215,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
@@ -5322,6 +5358,24 @@
       "duration_ms": 153898,
       "name": "Ten\u00edas Que Avisar",
       "url": "https://open.spotify.com/track/1sk6pQToLuNIzMMwxBFWc6"
+    },
+    {
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
       "album": {

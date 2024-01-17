@@ -1,426 +1,487 @@
 {
-  "2022-11-02": 774,
-  "2022-11-03": 778,
-  "2022-11-04": 779,
-  "2022-11-05": 779,
-  "2022-11-06": 780,
-  "2022-11-07": 783,
-  "2022-11-08": 784,
-  "2022-11-09": 789,
-  "2022-11-10": 788,
-  "2022-11-11": 787,
-  "2022-11-12": 788,
-  "2022-11-13": 786,
-  "2022-11-14": 789,
-  "2022-11-15": 790,
-  "2022-11-16": 792,
-  "2022-11-17": 794,
-  "2022-11-18": 795,
-  "2022-11-19": 794,
-  "2022-11-20": 794,
-  "2022-11-21": 797,
-  "2022-11-22": 795,
-  "2022-11-23": 798,
-  "2022-11-24": 800,
-  "2022-11-25": 802,
-  "2022-11-26": 804,
-  "2022-11-27": 805,
-  "2022-11-28": 806,
-  "2022-11-29": 805,
-  "2022-11-30": 806,
-  "2022-12-01": 808,
-  "2022-12-02": 809,
-  "2022-12-03": 811,
-  "2022-12-04": 814,
-  "2022-12-05": 815,
-  "2022-12-06": 817,
-  "2022-12-07": 817,
-  "2022-12-08": 819,
-  "2022-12-09": 819,
-  "2022-12-10": 821,
-  "2022-12-11": 823,
-  "2022-12-12": 822,
-  "2022-12-13": 824,
-  "2022-12-14": 826,
-  "2022-12-15": 826,
-  "2022-12-16": 828,
-  "2022-12-17": 827,
-  "2022-12-18": 831,
-  "2022-12-19": 835,
-  "2022-12-20": 838,
-  "2022-12-21": 838,
-  "2022-12-22": 838,
-  "2022-12-24": 839,
-  "2022-12-25": 838,
-  "2022-12-26": 839,
-  "2022-12-27": 839,
-  "2022-12-28": 838,
-  "2022-12-29": 838,
-  "2022-12-30": 838,
-  "2022-12-31": 840,
-  "2023-01-01": 841,
-  "2023-01-02": 844,
-  "2023-01-03": 845,
-  "2023-01-04": 846,
-  "2023-01-05": 846,
-  "2023-01-06": 845,
-  "2023-01-07": 846,
-  "2023-01-08": 846,
-  "2023-01-09": 848,
-  "2023-01-10": 850,
-  "2023-01-11": 851,
-  "2023-01-12": 850,
-  "2023-01-13": 853,
-  "2023-01-14": 856,
-  "2023-01-15": 856,
-  "2023-01-16": 854,
-  "2023-01-17": 858,
-  "2023-01-18": 857,
-  "2023-01-19": 858,
-  "2023-01-20": 860,
-  "2023-01-21": 862,
-  "2023-01-22": 863,
-  "2023-01-23": 864,
-  "2023-01-24": 866,
-  "2023-01-25": 867,
-  "2023-01-26": 869,
-  "2023-01-27": 870,
-  "2023-01-28": 871,
-  "2023-01-29": 876,
-  "2023-01-30": 876,
-  "2023-01-31": 876,
-  "2023-02-01": 879,
-  "2023-02-02": 878,
-  "2023-02-03": 877,
-  "2023-02-04": 878,
-  "2023-02-05": 879,
-  "2023-02-06": 880,
-  "2023-02-07": 882,
-  "2023-02-08": 885,
-  "2023-02-09": 885,
-  "2023-02-10": 885,
-  "2023-02-11": 885,
-  "2023-02-12": 888,
-  "2023-02-13": 889,
-  "2023-02-14": 889,
-  "2023-02-15": 889,
-  "2023-02-16": 888,
-  "2023-02-17": 888,
-  "2023-02-18": 889,
-  "2023-02-19": 888,
-  "2023-02-20": 889,
-  "2023-02-21": 891,
-  "2023-02-22": 891,
-  "2023-02-23": 890,
-  "2023-02-24": 891,
-  "2023-02-25": 893,
-  "2023-02-26": 893,
-  "2023-02-27": 896,
-  "2023-02-28": 896,
-  "2023-03-01": 896,
-  "2023-03-02": 896,
-  "2023-03-03": 898,
-  "2023-03-04": 899,
-  "2023-03-05": 905,
-  "2023-03-06": 905,
-  "2023-03-07": 905,
-  "2023-03-08": 906,
-  "2023-03-09": 905,
-  "2023-03-10": 905,
-  "2023-03-11": 910,
-  "2023-03-12": 912,
-  "2023-03-13": 912,
-  "2023-03-14": 915,
-  "2023-03-15": 924,
-  "2023-03-16": 932,
-  "2023-03-17": 932,
-  "2023-03-18": 938,
-  "2023-03-19": 948,
-  "2023-03-20": 958,
-  "2023-03-21": 965,
-  "2023-03-22": 967,
-  "2023-03-23": 973,
-  "2023-03-24": 973,
-  "2023-03-25": 988,
-  "2023-03-26": 995,
-  "2023-03-27": 1003,
-  "2023-03-28": 1008,
-  "2023-03-29": 1015,
-  "2023-03-30": 1032,
-  "2023-03-31": 1032,
-  "2023-04-01": 1045,
-  "2023-04-02": 1056,
-  "2023-04-03": 1069,
-  "2023-04-04": 1073,
-  "2023-04-05": 1082,
-  "2023-04-06": 1087,
-  "2023-04-07": 1089,
-  "2023-04-09": 1098,
-  "2023-04-10": 1103,
-  "2023-04-11": 1112,
-  "2023-04-12": 1112,
-  "2023-04-13": 1114,
-  "2023-04-14": 1119,
-  "2023-04-15": 1129,
-  "2023-04-16": 1137,
-  "2023-04-17": 1144,
-  "2023-04-18": 1151,
-  "2023-04-19": 1161,
-  "2023-04-20": 1165,
-  "2023-04-21": 1169,
-  "2023-04-22": 1182,
-  "2023-04-23": 1197,
-  "2023-04-24": 1200,
-  "2023-04-25": 1204,
-  "2023-04-26": 1208,
-  "2023-04-27": 1215,
-  "2023-04-28": 1218,
-  "2023-04-29": 1227,
-  "2023-04-30": 1231,
-  "2023-05-01": 1236,
-  "2023-05-02": 1238,
-  "2023-05-03": 1245,
-  "2023-05-04": 1254,
-  "2023-05-05": 1260,
-  "2023-05-06": 1267,
-  "2023-05-07": 1270,
-  "2023-05-08": 1274,
-  "2023-05-09": 1276,
-  "2023-05-10": 1282,
-  "2023-05-11": 1290,
-  "2023-05-12": 1297,
-  "2023-05-13": 1300,
-  "2023-05-14": 1302,
-  "2023-05-15": 1308,
-  "2023-05-16": 1314,
-  "2023-05-17": 1321,
-  "2023-05-18": 1325,
-  "2023-05-19": 1336,
-  "2023-05-20": 1339,
-  "2023-05-21": 1339,
-  "2023-05-22": 1339,
-  "2023-05-23": 1351,
-  "2023-05-24": 1366,
-  "2023-05-25": 1367,
-  "2023-05-26": 1371,
-  "2023-05-27": 1375,
-  "2023-05-28": 1378,
-  "2023-05-29": 1378,
-  "2023-05-30": 1391,
-  "2023-05-31": 1400,
-  "2023-06-01": 1404,
-  "2023-06-02": 1409,
-  "2023-06-03": 1417,
-  "2023-06-04": 1421,
-  "2023-06-05": 1427,
-  "2023-06-06": 1435,
-  "2023-06-07": 1439,
-  "2023-06-08": 1445,
-  "2023-06-09": 1452,
-  "2023-06-10": 1452,
-  "2023-06-11": 1456,
-  "2023-06-12": 1459,
-  "2023-06-13": 1466,
-  "2023-06-14": 1472,
-  "2023-06-15": 1476,
-  "2023-06-16": 1478,
-  "2023-06-17": 1481,
-  "2023-06-18": 1486,
-  "2023-06-19": 1487,
-  "2023-06-20": 1490,
-  "2023-06-21": 1490,
-  "2023-06-22": 1492,
-  "2023-06-23": 1496,
-  "2023-06-24": 1500,
-  "2023-06-25": 1504,
-  "2023-06-26": 1515,
-  "2023-06-27": 1519,
-  "2023-06-28": 1524,
-  "2023-06-29": 1527,
-  "2023-06-30": 1531,
-  "2023-07-01": 1537,
-  "2023-07-02": 1537,
-  "2023-07-03": 1540,
-  "2023-07-04": 1543,
-  "2023-07-05": 1551,
-  "2023-07-06": 1553,
-  "2023-07-07": 1553,
-  "2023-07-08": 1555,
-  "2023-07-09": 1560,
-  "2023-07-10": 1564,
-  "2023-07-11": 1563,
-  "2023-07-12": 1569,
-  "2023-07-13": 1572,
-  "2023-07-14": 1582,
-  "2023-07-15": 1587,
-  "2023-07-16": 1590,
-  "2023-07-17": 1593,
-  "2023-07-18": 1596,
-  "2023-07-19": 1599,
-  "2023-07-20": 1599,
-  "2023-07-21": 1603,
-  "2023-07-22": 1609,
-  "2023-07-23": 1617,
-  "2023-07-24": 1618,
-  "2023-07-25": 1618,
-  "2023-07-26": 1620,
-  "2023-07-27": 1626,
-  "2023-07-28": 1629,
-  "2023-07-29": 1637,
-  "2023-07-30": 1645,
-  "2023-07-31": 1656,
-  "2023-08-01": 1661,
-  "2023-08-02": 1666,
-  "2023-08-03": 1668,
-  "2023-08-04": 1677,
-  "2023-08-05": 1683,
-  "2023-08-06": 1695,
-  "2023-08-07": 1695,
-  "2023-08-08": 1697,
-  "2023-08-09": 1699,
-  "2023-08-10": 1702,
-  "2023-08-11": 1705,
-  "2023-08-12": 1709,
-  "2023-08-13": 1710,
-  "2023-08-14": 1716,
-  "2023-08-15": 1726,
-  "2023-08-16": 1726,
-  "2023-08-17": 1733,
-  "2023-08-18": 1737,
-  "2023-08-19": 1741,
-  "2023-08-20": 1743,
-  "2023-08-21": 1749,
-  "2023-08-22": 1752,
-  "2023-08-23": 1754,
-  "2023-08-24": 1757,
-  "2023-08-25": 1763,
-  "2023-08-26": 1767,
-  "2023-08-27": 1769,
-  "2023-08-28": 1770,
-  "2023-08-29": 1774,
-  "2023-08-30": 1774,
-  "2023-08-31": 1777,
-  "2023-09-01": 1783,
-  "2023-09-02": 1783,
-  "2023-09-03": 1787,
-  "2023-09-04": 1788,
-  "2023-09-05": 1791,
-  "2023-09-06": 1795,
-  "2023-09-07": 1795,
-  "2023-09-08": 1800,
-  "2023-09-09": 1800,
-  "2023-09-10": 1801,
-  "2023-09-11": 1806,
-  "2023-09-12": 1807,
-  "2023-09-13": 1809,
-  "2023-09-14": 1811,
-  "2023-09-15": 1809,
-  "2023-09-16": 1812,
-  "2023-09-17": 1812,
-  "2023-09-18": 1822,
-  "2023-09-19": 1823,
-  "2023-09-20": 1822,
-  "2023-09-21": 1826,
-  "2023-09-22": 1829,
-  "2023-09-23": 1833,
-  "2023-09-24": 1833,
-  "2023-09-25": 1833,
-  "2023-09-26": 1842,
-  "2023-09-27": 1844,
-  "2023-09-28": 1844,
-  "2023-09-29": 1846,
-  "2023-09-30": 1846,
-  "2023-10-01": 1849,
-  "2023-10-02": 1853,
-  "2023-10-03": 1855,
-  "2023-10-04": 1858,
-  "2023-10-05": 1861,
-  "2023-10-06": 1861,
-  "2023-10-07": 1864,
-  "2023-10-08": 1865,
-  "2023-10-09": 1865,
-  "2023-10-10": 1869,
-  "2023-10-11": 1873,
-  "2023-10-12": 1873,
-  "2023-10-13": 1874,
-  "2023-10-14": 1874,
-  "2023-10-15": 1874,
-  "2023-10-16": 1874,
-  "2023-10-17": 1874,
-  "2023-10-18": 1874,
-  "2023-10-19": 1874,
-  "2023-10-20": 1874,
-  "2023-10-21": 1874,
-  "2023-10-22": 1874,
-  "2023-10-23": 1874,
-  "2023-10-24": 1897,
-  "2023-10-25": 1897,
-  "2023-10-26": 1897,
-  "2023-10-27": 1897,
-  "2023-10-28": 1897,
-  "2023-10-29": 1897,
-  "2023-10-30": 1897,
-  "2023-10-31": 1897,
-  "2023-11-01": 1897,
-  "2023-11-02": 1897,
-  "2023-11-03": 1897,
-  "2023-11-04": 1897,
-  "2023-11-05": 1897,
-  "2023-11-06": 1897,
-  "2023-11-07": 1897,
-  "2023-11-08": 1897,
-  "2023-11-09": 1897,
-  "2023-11-10": 1897,
-  "2023-11-11": 1936,
-  "2023-11-12": 1940,
-  "2023-11-13": 1940,
-  "2023-11-14": 1940,
-  "2023-11-15": 1940,
-  "2023-11-16": 1940,
-  "2023-11-17": 1950,
-  "2023-11-18": 1950,
-  "2023-11-19": 1950,
-  "2023-11-20": 1950,
-  "2023-11-21": 1950,
-  "2023-11-22": 1950,
-  "2023-11-23": 1969,
-  "2023-11-24": 1969,
-  "2023-11-25": 1969,
-  "2023-11-26": 1969,
-  "2023-11-27": 1969,
-  "2023-11-28": 1969,
-  "2023-11-29": 1969,
-  "2023-11-30": 1969,
-  "2023-12-01": 1969,
-  "2023-12-02": 1969,
-  "2023-12-03": 1969,
-  "2023-12-04": 1969,
-  "2023-12-05": 1969,
-  "2023-12-06": 1969,
-  "2023-12-07": 1969,
-  "2023-12-08": 1969,
-  "2023-12-09": 2024,
-  "2023-12-10": 2024,
-  "2023-12-11": 2027,
-  "2023-12-12": 2027,
-  "2023-12-13": 2027,
-  "2023-12-14": 2038,
-  "2023-12-15": 2039,
-  "2023-12-16": 2045,
-  "2023-12-17": 2049,
-  "2023-12-18": 2055,
-  "2023-12-19": 2057,
-  "2023-12-20": 2064,
-  "2023-12-21": 2067,
-  "2023-12-22": 2073,
-  "2023-12-23": 2079,
-  "2023-12-24": 2083,
-  "2023-12-25": 2095,
-  "2023-12-26": 2095,
-  "2023-12-27": 2098,
-  "2023-12-30": 2115,
-  "2023-12-31": 2121,
-  "2024-01-01": 2125,
-  "2024-01-02": 2131,
-  "2024-01-03": 2138
+  "2024-01-17": 2203,
+  "date_first_scraped": "2022-11-02",
+  "description": "Looking for a singer who dominated an era in the Korean music industry and then disappeared, aka 'SUGAR MAN'. This is the official playlist of JTBC <Sugar Man>. (\ub300\ud55c\ubbfc\uad6d \uac00\uc694\uacc4\uc758 \ud55c \uc2dc\ub300\ub97c \ud48d\ubbf8\ud588\ub2e4\uac00 \uc0ac\ub77c\uc9c4 \uac00\uc218, \uc77c\uba85 '\uc288\uac00\ub9e8 (SUGAR MAN)'\uc744 \ucc3e\uc544\uac11\ub2c8\ub2e4. JTBC \uc288\uac00\ub9e8\uc758 \uc624\ud53c\uc15c \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc785\ub2c8\ub2e4.)",
+  "name": "Sugarman (\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 \uc288\uac00\ub9e8)",
+  "tracks": [
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.9",
+        "url": "https://open.spotify.com/album/5mpjSVGHsTG9e6WqiKWvcd"
+      },
+      "artists": [
+        {
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184600,
+      "name": "9 TO5",
+      "url": "https://open.spotify.com/track/5acZErudouHe1jGt4CBLAu"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.10",
+        "url": "https://open.spotify.com/album/2G0nZeunLDqIcT42F2d7hA"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "Don\u2032t cry",
+      "url": "https://open.spotify.com/track/73uYd8iywS8v8oo8Mf3VJO"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.12",
+        "url": "https://open.spotify.com/album/1fPjvXDXebM9q1HPwP9B7Y"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268054,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/0iqWrDgGeYQCF3WgAuUSni"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.8",
+        "url": "https://open.spotify.com/album/7DqwV9yB89XrSAw1SlA3pr"
+      },
+      "artists": [
+        {
+          "name": "\uc5ec\uc790\uc544\uc774\ub4e4",
+          "url": "https://open.spotify.com/artist/0barWeINEZRJUsZIOr8pjQ"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/3hMtT4xgDCXPd7WLPzBZX9"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.6",
+        "url": "https://open.spotify.com/album/1HvSDEZyIMAgevtxNw69jV"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258071,
+      "name": "Y (Prod. by AVIN)",
+      "url": "https://open.spotify.com/track/4BA8QcJf8vUQwHRzsvfJV4"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.9",
+        "url": "https://open.spotify.com/album/5mpjSVGHsTG9e6WqiKWvcd"
+      },
+      "artists": [
+        {
+          "name": "\ubabd\ub2c8",
+          "url": "https://open.spotify.com/artist/383GcLB5kPPOvzXR2Vf1io"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "\ub09c\uad1c\ucc2e\uc544",
+      "url": "https://open.spotify.com/track/38P03Tphp8A2SoqA7mzFIZ"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.13",
+        "url": "https://open.spotify.com/album/62oHiP43b3A0j8wigHtpP3"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267786,
+      "name": "\ub108\uc5d0\uac8c \ub09c \ub098\uc5d0\uac8c \ub10c",
+      "url": "https://open.spotify.com/track/0xk9JJtMY7bf5omWZMQrhL"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.1",
+        "url": "https://open.spotify.com/album/21tHCkAqBKyLaDkVFUSjSY"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275793,
+      "name": "\ub108\uc758 \ub9c8\uc74c\uc744 \ub0b4\uac8c \uc900\ub2e4\uba74(Feat. Colde)",
+      "url": "https://open.spotify.com/track/3zkcs1iiiww43l00bXjEWh"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.1",
+        "url": "https://open.spotify.com/album/21tHCkAqBKyLaDkVFUSjSY"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "\ub3c4 (\u9053)",
+      "url": "https://open.spotify.com/track/7G7LDanh7rapWMHp9Z5tAW"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.12",
+        "url": "https://open.spotify.com/album/1fPjvXDXebM9q1HPwP9B7Y"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212066,
+      "name": "\ub77c\ub77c\ub77c",
+      "url": "https://open.spotify.com/track/0K1r8FHgfCCmy6MdmuR4yf"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.2",
+        "url": "https://open.spotify.com/album/4FhtWkUBEynCwQkY9urWJY"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "\ub9ac\ubca0\uce74",
+      "url": "https://open.spotify.com/track/35ScqzLUjqK1db7cPnRKvy"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.13",
+        "url": "https://open.spotify.com/album/62oHiP43b3A0j8wigHtpP3"
+      },
+      "artists": [
+        {
+          "name": "\uc7a5\uc900",
+          "url": "https://open.spotify.com/artist/5yES1lbfHCYiyoMu2lytl3"
+        },
+        {
+          "name": "TAG",
+          "url": "https://open.spotify.com/artist/6wWzrvB5m2BSseIfpeWtJX"
+        },
+        {
+          "name": "Kei(\uae40\uc9c0\uc5f0)",
+          "url": "https://open.spotify.com/artist/7iNpNRwtBogISqdh1nPazB"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "\ubc84\uc2a4\uc548\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/27Mtoumk8uvzmqQ2liLTbk"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.6",
+        "url": "https://open.spotify.com/album/1HvSDEZyIMAgevtxNw69jV"
+      },
+      "artists": [
+        {
+          "name": "Solji",
+          "url": "https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205833,
+      "name": "\ubcc4\uc774\uc9c4\ub2e4\ub124",
+      "url": "https://open.spotify.com/track/6vSlTLPptaokWwBL39Aq64"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.2",
+        "url": "https://open.spotify.com/album/4FhtWkUBEynCwQkY9urWJY"
+      },
+      "artists": [
+        {
+          "name": "Hoppipolla",
+          "url": "https://open.spotify.com/artist/6tuuLiMw18vnZB8hJaodJc"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242938,
+      "name": "\uc11c\ubc29\ub2d8",
+      "url": "https://open.spotify.com/track/6l7GofU09yI7MFJVr9slAH"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.7",
+        "url": "https://open.spotify.com/album/4phijxV42Q96d83k4tGeWz"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268086,
+      "name": "\uc138\uc0c1\uc740 \uc694\uc9c0\uacbd",
+      "url": "https://open.spotify.com/track/59ZLyp7UNdVdSQOHPwz6qh"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.3",
+        "url": "https://open.spotify.com/album/7lm4fy4gIFsGgGQs2YP4Ch"
+      },
+      "artists": [
+        {
+          "name": "\ub7ec\ube14\ub9ac\uc988",
+          "url": "https://open.spotify.com/artist/0iXLfVe2AT74DuWxYtEUku"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216081,
+      "name": "\uc2ac\ud508 \uc5bc\uad74 (Produced by DAVINK)",
+      "url": "https://open.spotify.com/track/12NBDvVP1V20DenNldYEOD"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.3",
+        "url": "https://open.spotify.com/album/7lm4fy4gIFsGgGQs2YP4Ch"
+      },
+      "artists": [
+        {
+          "name": "\ub7ec\ube14\ub9ac\uc988",
+          "url": "https://open.spotify.com/artist/0iXLfVe2AT74DuWxYtEUku"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216081,
+      "name": "\uc2ac\ud508 \uc5bc\uad74 (Produced by DAVINK) (Inst.)",
+      "url": "https://open.spotify.com/track/57OMPu6jizxikhfIZMEfxd"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.8",
+        "url": "https://open.spotify.com/album/7DqwV9yB89XrSAw1SlA3pr"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269500,
+      "name": "\uc2ac\ud508\uc5b8\uc57d\uc2dd",
+      "url": "https://open.spotify.com/track/41hZADOxxW2hVs5ZpVajzP"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.5",
+        "url": "https://open.spotify.com/album/4ZbgcyI7itYzm7VLHeXK78"
+      },
+      "artists": [
+        {
+          "name": "UV",
+          "url": "https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235342,
+      "name": "\uc544\ube60\uc640 \ud568\uaed8 \ub69c\ube44\ub69c\ubc14 (EDM Ver.)",
+      "url": "https://open.spotify.com/track/3uwptxJs474a97j6gon52G"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.5",
+        "url": "https://open.spotify.com/album/4ZbgcyI7itYzm7VLHeXK78"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        },
+        {
+          "name": "\uae40\uac15\ud6c8",
+          "url": "https://open.spotify.com/artist/5MaHb08RgH51LpQfHUI6EJ"
+        },
+        {
+          "name": "Sarang",
+          "url": "https://open.spotify.com/artist/3dvlk58vxfToLIvhzt1ZvZ"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192470,
+      "name": "\uc544\ube60\uc758 \ub9d0\uc500 (Feat. Sarang)",
+      "url": "https://open.spotify.com/track/0F6hdJwOynqsZT0AAzLCIL"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.7",
+        "url": "https://open.spotify.com/album/4phijxV42Q96d83k4tGeWz"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "\uc5ec\uc790\ub294 \ub0a8\uc790\ub97c \uafc8\uafb8\uac8c \ud574",
+      "url": "https://open.spotify.com/track/4aTyirlJkzTnVMmEI7QZzd"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.3",
+        "url": "https://open.spotify.com/album/7lm4fy4gIFsGgGQs2YP4Ch"
+      },
+      "artists": [
+        {
+          "name": "DAYBREAK",
+          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246306,
+      "name": "\uc6d0\ud558\uace0 \uc6d0\ub9dd\ud558\uc8e0",
+      "url": "https://open.spotify.com/track/05b8b4jRQkK110IJv1zUxc"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.4",
+        "url": "https://open.spotify.com/album/39WY1XgiUiYKwCLVwUuVAs"
+      },
+      "artists": [
+        {
+          "name": "GIANT PINK",
+          "url": "https://open.spotify.com/artist/4yvE3ttbP5uRwBQ0ZrhOPi"
+        },
+        {
+          "name": "Kisum",
+          "url": "https://open.spotify.com/artist/1CArfopvfCxakFJHup55FW"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153986,
+      "name": "\uc990\uac70\uc6b4\uc0dd\ud65c",
+      "url": "https://open.spotify.com/track/29kB8zXt1NPUkyS63pm6IW"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.10",
+        "url": "https://open.spotify.com/album/2G0nZeunLDqIcT42F2d7hA"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5r6XNnWJjkKkxfKMJzX4ms"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.4",
+        "url": "https://open.spotify.com/album/39WY1XgiUiYKwCLVwUuVAs"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160453,
+      "name": "\uce89\uce89",
+      "url": "https://open.spotify.com/track/1hwHxhQMugnLkbeGQSUCME"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcDZD15lRfNn"
 }

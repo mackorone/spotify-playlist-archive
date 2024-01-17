@@ -4,7 +4,7 @@
 
 > New England music breaking waves\. Cover: <a href="spotify:artist:1DN9Pgv4fiAaRSSgiisj5G">Felix!</a>
 
-457 songs - 20 hr 46 min
+458 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,8 @@
 | [YAMI YUGI MOTO](https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [YAMI YUGI MOTO](https://open.spotify.com/album/6ElRJqOiiUC2UgaSjzaKz3) | 1:57 | 2022-09-09 | 2022-10-01 |
 | [Ye Not Crazy](https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Ye Not Crazy](https://open.spotify.com/album/19KpEHCcxkTNQWm0O0aa9w) | 3:46 | 2022-05-13 | 2022-10-26 |
 | [YEA yEa YEA](https://open.spotify.com/track/4cGMLUZEr8HU6QPlcUcZ2r) | [Caev](https://open.spotify.com/artist/0mkMBdJb4grjol3blckHxe) | [HiiiDroLickSss](https://open.spotify.com/album/2lnSd02vYpJQpvMl7H1fjC) | 2:05 | 2022-07-22 | 2022-10-26 |
-| [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 | 2023-01-13 |  |
+| [Yeah Yeah](https://open.spotify.com/track/3FScVu3qZNU2isUYNvCwh4) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/5jjL60rm8RzpoEQ3vs7lDf) | 2:46 | 2023-12-15 |  |
+| [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 | 2023-01-13 | 2024-01-11 |
 | [You Cant Stop The Rain](https://open.spotify.com/track/5kJv8nDJg3e3HQotHYBAJZ) | [Monie Dale](https://open.spotify.com/artist/0eUUufXuNo5CZB8g3Nb0SB) | [You Cant Stop The Rain](https://open.spotify.com/album/4w7txBHPd661rpguwfQcwC) | 1:37 | 2022-01-29 | 2022-02-26 |
 | [You're In My Head Again](https://open.spotify.com/track/54ndoENxwcG18ZDzfKlixa) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [You're In My Head Again](https://open.spotify.com/album/2W6AykxnDVDm3BMovGocO1) | 2:30 | 2023-07-14 | 2023-10-14 |
 | [Younger](https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ) | [Kayla Thompson](https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3) | [Younger](https://open.spotify.com/album/592eABOwz4EtzLKV0KgUKF) | 3:32 | 2022-03-11 | 2022-03-18 |

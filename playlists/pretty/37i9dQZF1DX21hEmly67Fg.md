@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,853 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,150 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,25 +26,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 16 | [Blinding Lights](https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj) | 2:53 |
 | 17 | [Clown](https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Clown](https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo) | 3:47 |
 | 18 | [Everybody's Changing](https://open.spotify.com/track/67IbvYxDxsgmgGa5XKj1d6) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Everybody's Changing](https://open.spotify.com/album/2ZQgqizSwUEQ69bmBBVkuo) | 3:22 |
-| 19 | [As It Was \(arr\. string quartet\)](https://open.spotify.com/track/4HE4FZmT05tZuN9NlBeE4f) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [As It Was \(arr\. string quartet\)](https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3) | 3:51 |
-| 20 | [Night Changes](https://open.spotify.com/track/5PgHmtuPjhreShfiZXK6mH) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Night Changes](https://open.spotify.com/album/0XScF6kh4dPuFX757xUyZF) | 3:23 |
-| 21 | [From Both Sides Now](https://open.spotify.com/track/0y1QJXvmb5iRXd11JJf9Hi) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [From Both Sides Now](https://open.spotify.com/album/7leRuOJAVfQIAPkVFBhEKz) | 4:12 |
-| 22 | [God Help the Outcasts](https://open.spotify.com/track/6Gc3wspd9Xqx4BlGHxWpqE) | [Vanessa Khan](https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV) | [God Help the Outcasts](https://open.spotify.com/album/07leyNFhgegG6d02Be7wck) | 2:08 |
-| 23 | [Basket Case](https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM) | [Thomas Bryan Parker](https://open.spotify.com/artist/1Vx6UkHtcpcqVTg0pGY9fn) | [Basket Case](https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4) | 2:49 |
-| 24 | [Ghost](https://open.spotify.com/track/7DCs0VpiINdXfpz8VgC4sD) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Ghost](https://open.spotify.com/album/7Fq1BHzu1qsdmUsIGMrJU2) | 2:34 |
-| 25 | [The winner takes it all](https://open.spotify.com/track/3JH5SNLLiwxnp1IVFb8AYw) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [The winner takes it all](https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3) | 3:53 |
-| 26 | [Don't Dream It's Over](https://open.spotify.com/track/4OECCOjePxmHXVGo54go9F) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Don't Dream It's Over](https://open.spotify.com/album/4Tn2th2kFSCl3dbHNFdE3y) | 3:08 |
-| 27 | [Run](https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Run](https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3) | 3:41 |
-| 28 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 |
-| 29 | [Theme From The Deer Hunter](https://open.spotify.com/track/0In8hRbe0nWrlaJuyFtx2Z) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Theme From The Deer Hunter](https://open.spotify.com/album/2wvMb6eQTqbWfe15zqwQSR) | 2:50 |
-| 30 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 |
-| 31 | [Hello](https://open.spotify.com/track/6wXcmmbuKgyCz5nnU7T4lI) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Hello](https://open.spotify.com/album/6mOZiUSBptJqx5zzDlbBlG) | 3:57 |
-| 32 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 |
-| 33 | [In My Room](https://open.spotify.com/track/4cOUlfphQg9EvowvpwABvg) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [At My Piano](https://open.spotify.com/album/2wA42FpaNT9PKJn1RLdWwO) | 3:07 |
-| 34 | [STAY](https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [STAY](https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw) | 3:08 |
-| 35 | [You're The Inspiration](https://open.spotify.com/track/7ePt0ghR9CVmCmcuAdkTX8) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [You're The Inspiration](https://open.spotify.com/album/5oD1eJKrw3ev9DsL88TN9F) | 2:23 |
-| 36 | [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 |
-| 37 | [Mad World](https://open.spotify.com/track/5i4lA76ZEBQW1loZX82FXf) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Mad World](https://open.spotify.com/album/48GQzdBZgZEy5UKanRwHvi) | 3:17 |
+| 19 | [Night Changes](https://open.spotify.com/track/5PgHmtuPjhreShfiZXK6mH) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Night Changes](https://open.spotify.com/album/0XScF6kh4dPuFX757xUyZF) | 3:23 |
+| 20 | [From Both Sides Now](https://open.spotify.com/track/0y1QJXvmb5iRXd11JJf9Hi) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [From Both Sides Now](https://open.spotify.com/album/7leRuOJAVfQIAPkVFBhEKz) | 4:12 |
+| 21 | [God Help the Outcasts](https://open.spotify.com/track/6Gc3wspd9Xqx4BlGHxWpqE) | [Vanessa Khan](https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV) | [God Help the Outcasts](https://open.spotify.com/album/07leyNFhgegG6d02Be7wck) | 2:08 |
+| 22 | [Basket Case](https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM) | [Thomas Bryan Parker](https://open.spotify.com/artist/1Vx6UkHtcpcqVTg0pGY9fn) | [Basket Case](https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4) | 2:49 |
+| 23 | [The winner takes it all](https://open.spotify.com/track/3JH5SNLLiwxnp1IVFb8AYw) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [The winner takes it all](https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3) | 3:53 |
+| 24 | [Don't Dream It's Over](https://open.spotify.com/track/4OECCOjePxmHXVGo54go9F) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Don't Dream It's Over](https://open.spotify.com/album/4Tn2th2kFSCl3dbHNFdE3y) | 3:08 |
+| 25 | [As It Was \(arr\. string quartet\)](https://open.spotify.com/track/4HE4FZmT05tZuN9NlBeE4f) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [As It Was \(arr\. string quartet\)](https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3) | 3:51 |
+| 26 | [Run](https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Run](https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3) | 3:41 |
+| 27 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 |
+| 28 | [Theme From The Deer Hunter](https://open.spotify.com/track/0In8hRbe0nWrlaJuyFtx2Z) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Theme From The Deer Hunter](https://open.spotify.com/album/2wvMb6eQTqbWfe15zqwQSR) | 2:50 |
+| 29 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 |
+| 30 | [Hello](https://open.spotify.com/track/6wXcmmbuKgyCz5nnU7T4lI) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Hello](https://open.spotify.com/album/6mOZiUSBptJqx5zzDlbBlG) | 3:57 |
+| 31 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 |
+| 32 | [In My Room](https://open.spotify.com/track/4cOUlfphQg9EvowvpwABvg) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [At My Piano](https://open.spotify.com/album/2wA42FpaNT9PKJn1RLdWwO) | 3:07 |
+| 33 | [STAY](https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [STAY](https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw) | 3:08 |
+| 34 | [You're The Inspiration](https://open.spotify.com/track/7ePt0ghR9CVmCmcuAdkTX8) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [You're The Inspiration](https://open.spotify.com/album/5oD1eJKrw3ev9DsL88TN9F) | 2:23 |
+| 35 | [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 |
+| 36 | [Mad World](https://open.spotify.com/track/5i4lA76ZEBQW1loZX82FXf) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Mad World](https://open.spotify.com/album/48GQzdBZgZEy5UKanRwHvi) | 3:17 |
+| 37 | [Ghost](https://open.spotify.com/track/7DCs0VpiINdXfpz8VgC4sD) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Ghost](https://open.spotify.com/album/7Fq1BHzu1qsdmUsIGMrJU2) | 2:34 |
 | 38 | [Tattoo](https://open.spotify.com/track/4oJ0J34QTkknq9ciWkb3O8) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Tattoo](https://open.spotify.com/album/4mSPv9m5vsDzPjzxocDbDt) | 3:09 |
 | 39 | [Photograph](https://open.spotify.com/track/38bPQvz2gp0uTG1bI6rVlT) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Photograph](https://open.spotify.com/album/5IK0TUzQUiNdOqwIqRIbEv) | 3:08 |
 | 40 | [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 89 | [Gatekeeper](https://open.spotify.com/track/1tFDLeuRNjkpdwiej6gCZH) | [Fauré Quartett](https://open.spotify.com/artist/4RUUet9z5AWXyt9dn6asqN) | [Popsongs](https://open.spotify.com/album/0Od9iGE0VH3ISl3dJwYJ7z) | 2:13 |
 | 90 | [My Heart Will Go On](https://open.spotify.com/track/7g7zKzgHOmRYYyYWr66gTW) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [Piano Cover](https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi) | 3:11 |
 
-Snapshot ID: `MCw4ODFjYTcxZWJjYmUyMWIwMTAxNjE2MDFkNWIxNzYyNGNjOTMzMDhl`
+Snapshot ID: `MCxkZDExMzgwMmMxNjUxMzYzNGU4MTYyZGZlMWE1M2Q1NjFhZjk3MmZh`

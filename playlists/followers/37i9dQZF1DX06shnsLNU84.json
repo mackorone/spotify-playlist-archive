@@ -1,595 +1,679 @@
 {
-  "2022-05-15": 1396,
-  "2022-05-16": 1402,
-  "2022-05-17": 1417,
-  "2022-05-18": 1432,
-  "2022-05-19": 1437,
-  "2022-05-20": 1451,
-  "2022-05-21": 1475,
-  "2022-05-22": 1475,
-  "2022-05-23": 1486,
-  "2022-05-24": 1494,
-  "2022-05-25": 1500,
-  "2022-05-26": 1513,
-  "2022-05-27": 1523,
-  "2022-05-28": 1536,
-  "2022-05-29": 1543,
-  "2022-05-30": 1546,
-  "2022-05-31": 1552,
-  "2022-06-01": 1559,
-  "2022-06-02": 1560,
-  "2022-06-03": 1563,
-  "2022-06-04": 1572,
-  "2022-06-05": 1587,
-  "2022-06-06": 1590,
-  "2022-06-07": 1600,
-  "2022-06-08": 1606,
-  "2022-06-09": 1612,
-  "2022-06-10": 1619,
-  "2022-06-11": 1622,
-  "2022-06-12": 1628,
-  "2022-06-13": 1638,
-  "2022-06-14": 1647,
-  "2022-06-15": 1653,
-  "2022-06-16": 1664,
-  "2022-06-17": 1675,
-  "2022-06-18": 1676,
-  "2022-06-19": 1697,
-  "2022-06-20": 1697,
-  "2022-06-21": 1706,
-  "2022-06-22": 1719,
-  "2022-06-23": 1719,
-  "2022-06-24": 1728,
-  "2022-06-25": 1735,
-  "2022-06-26": 1740,
-  "2022-06-27": 1743,
-  "2022-06-28": 1749,
-  "2022-06-29": 1759,
-  "2022-06-30": 1761,
-  "2022-07-01": 1775,
-  "2022-07-02": 1779,
-  "2022-07-03": 1789,
-  "2022-07-04": 1793,
-  "2022-07-05": 1798,
-  "2022-07-06": 1802,
-  "2022-07-07": 1808,
-  "2022-07-08": 1811,
-  "2022-07-09": 1815,
-  "2022-07-10": 1821,
-  "2022-07-11": 1826,
-  "2022-07-12": 1832,
-  "2022-07-13": 1836,
-  "2022-07-14": 1845,
-  "2022-07-15": 1853,
-  "2022-07-16": 1855,
-  "2022-07-17": 1859,
-  "2022-07-18": 1866,
-  "2022-07-19": 1877,
-  "2022-07-20": 1881,
-  "2022-07-21": 1887,
-  "2022-07-22": 1893,
-  "2022-07-23": 1898,
-  "2022-07-24": 1905,
-  "2022-07-25": 1910,
-  "2022-07-26": 1917,
-  "2022-07-27": 1924,
-  "2022-07-28": 1928,
-  "2022-07-29": 1931,
-  "2022-07-30": 1947,
-  "2022-07-31": 1947,
-  "2022-08-01": 1956,
-  "2022-08-02": 1963,
-  "2022-08-03": 1963,
-  "2022-08-04": 1968,
-  "2022-08-05": 1972,
-  "2022-08-06": 1979,
-  "2022-08-07": 1983,
-  "2022-08-08": 1991,
-  "2022-08-09": 1993,
-  "2022-08-10": 1997,
-  "2022-08-11": 2003,
-  "2022-08-12": 2013,
-  "2022-08-13": 2020,
-  "2022-08-14": 2026,
-  "2022-08-15": 2030,
-  "2022-08-16": 2037,
-  "2022-08-17": 2039,
-  "2022-08-18": 2042,
-  "2022-08-19": 2046,
-  "2022-08-20": 2050,
-  "2022-08-21": 2054,
-  "2022-08-22": 2059,
-  "2022-08-23": 2065,
-  "2022-08-24": 2071,
-  "2022-08-25": 2077,
-  "2022-08-26": 2083,
-  "2022-08-27": 2083,
-  "2022-08-28": 2085,
-  "2022-08-29": 2090,
-  "2022-08-30": 2090,
-  "2022-08-31": 2088,
-  "2022-09-01": 2100,
-  "2022-09-02": 2103,
-  "2022-09-03": 2110,
-  "2022-09-04": 2116,
-  "2022-09-05": 2118,
-  "2022-09-06": 2127,
-  "2022-09-07": 2130,
-  "2022-09-09": 2140,
-  "2022-09-10": 2146,
-  "2022-09-11": 2150,
-  "2022-09-12": 2157,
-  "2022-09-13": 2160,
-  "2022-09-15": 2166,
-  "2022-09-16": 2174,
-  "2022-09-17": 2178,
-  "2022-09-18": 2181,
-  "2022-09-19": 2186,
-  "2022-09-20": 2190,
-  "2022-09-21": 2192,
-  "2022-09-22": 2194,
-  "2022-09-23": 2195,
-  "2022-09-24": 2201,
-  "2022-09-25": 2205,
-  "2022-09-26": 2209,
-  "2022-09-27": 2212,
-  "2022-09-28": 2218,
-  "2022-09-29": 2220,
-  "2022-09-30": 2220,
-  "2022-10-01": 2228,
-  "2022-10-02": 2225,
-  "2022-10-03": 2230,
-  "2022-10-04": 2232,
-  "2022-10-05": 2237,
-  "2022-10-06": 2243,
-  "2022-10-07": 2247,
-  "2022-10-08": 2252,
-  "2022-10-09": 2254,
-  "2022-10-10": 2255,
-  "2022-10-11": 2258,
-  "2022-10-12": 2261,
-  "2022-10-13": 2264,
-  "2022-10-14": 2269,
-  "2022-10-15": 2274,
-  "2022-10-16": 2279,
-  "2022-10-17": 2286,
-  "2022-10-18": 2287,
-  "2022-10-19": 2290,
-  "2022-10-20": 2296,
-  "2022-10-21": 2300,
-  "2022-10-22": 2306,
-  "2022-10-23": 2309,
-  "2022-10-24": 2315,
-  "2022-10-25": 2319,
-  "2022-10-26": 2322,
-  "2022-10-27": 2328,
-  "2022-10-28": 2332,
-  "2022-10-29": 2336,
-  "2022-10-30": 2338,
-  "2022-10-31": 2339,
-  "2022-11-01": 2346,
-  "2022-11-02": 2348,
-  "2022-11-03": 2355,
-  "2022-11-04": 2359,
-  "2022-11-05": 2361,
-  "2022-11-06": 2365,
-  "2022-11-07": 2367,
-  "2022-11-08": 2368,
-  "2022-11-09": 2372,
-  "2022-11-10": 2377,
-  "2022-11-11": 2381,
-  "2022-11-12": 2389,
-  "2022-11-13": 2389,
-  "2022-11-14": 2398,
-  "2022-11-15": 2401,
-  "2022-11-16": 2402,
-  "2022-11-17": 2407,
-  "2022-11-18": 2409,
-  "2022-11-19": 2407,
-  "2022-11-20": 2413,
-  "2022-11-21": 2411,
-  "2022-11-22": 2425,
-  "2022-11-23": 2423,
-  "2022-11-24": 2446,
-  "2022-11-25": 2449,
-  "2022-11-26": 2459,
-  "2022-11-27": 2462,
-  "2022-11-28": 2465,
-  "2022-11-29": 2467,
-  "2022-11-30": 2473,
-  "2022-12-01": 2490,
-  "2022-12-02": 2492,
-  "2022-12-03": 2502,
-  "2022-12-04": 2513,
-  "2022-12-05": 2518,
-  "2022-12-06": 2521,
-  "2022-12-07": 2528,
-  "2022-12-08": 2532,
-  "2022-12-09": 2532,
-  "2022-12-10": 2535,
-  "2022-12-11": 2534,
-  "2022-12-12": 2535,
-  "2022-12-13": 2539,
-  "2022-12-14": 2543,
-  "2022-12-15": 2545,
-  "2022-12-16": 2550,
-  "2022-12-17": 2551,
-  "2022-12-18": 2556,
-  "2022-12-19": 2561,
-  "2022-12-20": 2564,
-  "2022-12-21": 2564,
-  "2022-12-22": 2568,
-  "2022-12-24": 2565,
-  "2022-12-25": 2568,
-  "2022-12-26": 2570,
-  "2022-12-27": 2570,
-  "2022-12-28": 2573,
-  "2022-12-29": 2575,
-  "2022-12-30": 2581,
-  "2022-12-31": 2585,
-  "2023-01-01": 2592,
-  "2023-01-02": 2595,
-  "2023-01-03": 2596,
-  "2023-01-04": 2598,
-  "2023-01-05": 2602,
-  "2023-01-06": 2606,
-  "2023-01-07": 2614,
-  "2023-01-08": 2613,
-  "2023-01-09": 2623,
-  "2023-01-10": 2628,
-  "2023-01-11": 2631,
-  "2023-01-12": 2635,
-  "2023-01-13": 2645,
-  "2023-01-14": 2652,
-  "2023-01-15": 2656,
-  "2023-01-16": 2662,
-  "2023-01-17": 2661,
-  "2023-01-18": 2664,
-  "2023-01-19": 2668,
-  "2023-01-20": 2671,
-  "2023-01-21": 2673,
-  "2023-01-22": 2675,
-  "2023-01-23": 2682,
-  "2023-01-24": 2685,
-  "2023-01-25": 2686,
-  "2023-01-26": 2688,
-  "2023-01-27": 2690,
-  "2023-01-28": 2691,
-  "2023-01-29": 2696,
-  "2023-01-30": 2701,
-  "2023-01-31": 2701,
-  "2023-02-01": 2716,
-  "2023-02-02": 2718,
-  "2023-02-03": 2725,
-  "2023-02-04": 2724,
-  "2023-02-05": 2727,
-  "2023-02-06": 2728,
-  "2023-02-07": 2732,
-  "2023-02-08": 2745,
-  "2023-02-09": 2745,
-  "2023-02-10": 2745,
-  "2023-02-11": 2747,
-  "2023-02-12": 2752,
-  "2023-02-13": 2757,
-  "2023-02-14": 2757,
-  "2023-02-15": 2764,
-  "2023-02-16": 2767,
-  "2023-02-17": 2770,
-  "2023-02-18": 2774,
-  "2023-02-19": 2774,
-  "2023-02-20": 2772,
-  "2023-02-21": 2780,
-  "2023-02-22": 2781,
-  "2023-02-23": 2786,
-  "2023-02-24": 2792,
-  "2023-02-25": 2796,
-  "2023-02-26": 2800,
-  "2023-02-27": 2805,
-  "2023-02-28": 2805,
-  "2023-03-01": 2809,
-  "2023-03-02": 2815,
-  "2023-03-03": 2821,
-  "2023-03-04": 2826,
-  "2023-03-05": 2833,
-  "2023-03-06": 2833,
-  "2023-03-07": 2836,
-  "2023-03-08": 2840,
-  "2023-03-09": 2844,
-  "2023-03-10": 2849,
-  "2023-03-11": 2851,
-  "2023-03-12": 2859,
-  "2023-03-13": 2862,
-  "2023-03-14": 2870,
-  "2023-03-15": 2883,
-  "2023-03-16": 2894,
-  "2023-03-17": 2894,
-  "2023-03-18": 2938,
-  "2023-03-19": 2953,
-  "2023-03-20": 2973,
-  "2023-03-21": 2995,
-  "2023-03-22": 3009,
-  "2023-03-23": 3021,
-  "2023-03-24": 3021,
-  "2023-03-25": 3054,
-  "2023-03-26": 3073,
-  "2023-03-27": 3101,
-  "2023-03-28": 3112,
-  "2023-03-29": 3125,
-  "2023-03-30": 3155,
-  "2023-03-31": 3155,
-  "2023-04-01": 3182,
-  "2023-04-02": 3203,
-  "2023-04-03": 3227,
-  "2023-04-04": 3244,
-  "2023-04-05": 3270,
-  "2023-04-06": 3284,
-  "2023-04-07": 3292,
-  "2023-04-09": 3326,
-  "2023-04-10": 3339,
-  "2023-04-11": 3383,
-  "2023-04-12": 3383,
-  "2023-04-13": 3397,
-  "2023-04-14": 3421,
-  "2023-04-15": 3435,
-  "2023-04-16": 3452,
-  "2023-04-17": 3470,
-  "2023-04-18": 3490,
-  "2023-04-19": 3509,
-  "2023-04-20": 3521,
-  "2023-04-21": 3545,
-  "2023-04-22": 3555,
-  "2023-04-23": 3571,
-  "2023-04-24": 3585,
-  "2023-04-25": 3603,
-  "2023-04-26": 3621,
-  "2023-04-27": 3642,
-  "2023-04-28": 3660,
-  "2023-04-29": 3678,
-  "2023-04-30": 3694,
-  "2023-05-01": 3711,
-  "2023-05-02": 3731,
-  "2023-05-03": 3741,
-  "2023-05-04": 3769,
-  "2023-05-05": 3776,
-  "2023-05-06": 3795,
-  "2023-05-07": 3812,
-  "2023-05-08": 3831,
-  "2023-05-09": 3849,
-  "2023-05-10": 3862,
-  "2023-05-11": 3881,
-  "2023-05-12": 3903,
-  "2023-05-13": 3923,
-  "2023-05-14": 3941,
-  "2023-05-15": 3958,
-  "2023-05-16": 3979,
-  "2023-05-17": 3991,
-  "2023-05-18": 4008,
-  "2023-05-19": 4029,
-  "2023-05-20": 4053,
-  "2023-05-21": 4053,
-  "2023-05-22": 4053,
-  "2023-05-23": 4075,
-  "2023-05-24": 4104,
-  "2023-05-25": 4105,
-  "2023-05-26": 4123,
-  "2023-05-27": 4134,
-  "2023-05-28": 4145,
-  "2023-05-29": 4145,
-  "2023-05-30": 4170,
-  "2023-05-31": 4183,
-  "2023-06-01": 4194,
-  "2023-06-02": 4206,
-  "2023-06-03": 4215,
-  "2023-06-04": 4234,
-  "2023-06-05": 4251,
-  "2023-06-06": 4269,
-  "2023-06-07": 4286,
-  "2023-06-08": 4301,
-  "2023-06-09": 4315,
-  "2023-06-10": 4332,
-  "2023-06-11": 4348,
-  "2023-06-12": 4360,
-  "2023-06-13": 4367,
-  "2023-06-14": 4381,
-  "2023-06-15": 4385,
-  "2023-06-16": 4394,
-  "2023-06-17": 4408,
-  "2023-06-18": 4417,
-  "2023-06-19": 4440,
-  "2023-06-20": 4452,
-  "2023-06-21": 4459,
-  "2023-06-22": 4467,
-  "2023-06-23": 4479,
-  "2023-06-24": 4492,
-  "2023-06-25": 4501,
-  "2023-06-26": 4505,
-  "2023-06-27": 4517,
-  "2023-06-28": 4524,
-  "2023-06-29": 4534,
-  "2023-06-30": 4546,
-  "2023-07-01": 4568,
-  "2023-07-02": 4568,
-  "2023-07-03": 4577,
-  "2023-07-04": 4586,
-  "2023-07-05": 4600,
-  "2023-07-06": 4626,
-  "2023-07-07": 4626,
-  "2023-07-08": 4636,
-  "2023-07-09": 4652,
-  "2023-07-10": 4663,
-  "2023-07-11": 4673,
-  "2023-07-12": 4684,
-  "2023-07-13": 4698,
-  "2023-07-14": 4715,
-  "2023-07-15": 4717,
-  "2023-07-16": 4724,
-  "2023-07-17": 4739,
-  "2023-07-18": 4745,
-  "2023-07-19": 4760,
-  "2023-07-20": 4776,
-  "2023-07-21": 4780,
-  "2023-07-22": 4789,
-  "2023-07-23": 4799,
-  "2023-07-24": 4809,
-  "2023-07-25": 4822,
-  "2023-07-26": 4828,
-  "2023-07-27": 4842,
-  "2023-07-28": 4848,
-  "2023-07-29": 4858,
-  "2023-07-30": 4866,
-  "2023-07-31": 4877,
-  "2023-08-01": 4888,
-  "2023-08-02": 4900,
-  "2023-08-03": 4904,
-  "2023-08-04": 4912,
-  "2023-08-05": 4924,
-  "2023-08-06": 4943,
-  "2023-08-07": 4943,
-  "2023-08-08": 4949,
-  "2023-08-09": 4961,
-  "2023-08-10": 4974,
-  "2023-08-11": 4982,
-  "2023-08-12": 4995,
-  "2023-08-13": 4994,
-  "2023-08-14": 5001,
-  "2023-08-15": 5023,
-  "2023-08-16": 5023,
-  "2023-08-17": 5041,
-  "2023-08-18": 5051,
-  "2023-08-19": 5062,
-  "2023-08-20": 5070,
-  "2023-08-21": 5077,
-  "2023-08-22": 5082,
-  "2023-08-23": 5095,
-  "2023-08-24": 5110,
-  "2023-08-25": 5117,
-  "2023-08-26": 5128,
-  "2023-08-27": 5134,
-  "2023-08-28": 5146,
-  "2023-08-29": 5153,
-  "2023-08-30": 5156,
-  "2023-08-31": 5160,
-  "2023-09-01": 5172,
-  "2023-09-02": 5172,
-  "2023-09-03": 5176,
-  "2023-09-04": 5179,
-  "2023-09-05": 5181,
-  "2023-09-06": 5187,
-  "2023-09-07": 5192,
-  "2023-09-08": 5192,
-  "2023-09-09": 5200,
-  "2023-09-10": 5200,
-  "2023-09-11": 5210,
-  "2023-09-12": 5212,
-  "2023-09-13": 5218,
-  "2023-09-14": 5225,
-  "2023-09-15": 5230,
-  "2023-09-16": 5234,
-  "2023-09-17": 5247,
-  "2023-09-18": 5251,
-  "2023-09-19": 5256,
-  "2023-09-20": 5260,
-  "2023-09-21": 5269,
-  "2023-09-22": 5276,
-  "2023-09-23": 5281,
-  "2023-09-24": 5288,
-  "2023-09-25": 5297,
-  "2023-09-26": 5312,
-  "2023-09-27": 5312,
-  "2023-09-28": 5319,
-  "2023-09-29": 5325,
-  "2023-09-30": 5329,
-  "2023-10-01": 5338,
-  "2023-10-02": 5346,
-  "2023-10-03": 5348,
-  "2023-10-04": 5353,
-  "2023-10-05": 5359,
-  "2023-10-06": 5363,
-  "2023-10-07": 5364,
-  "2023-10-08": 5372,
-  "2023-10-09": 5378,
-  "2023-10-10": 5381,
-  "2023-10-11": 5388,
-  "2023-10-12": 5388,
-  "2023-10-13": 5391,
-  "2023-10-14": 5401,
-  "2023-10-15": 5407,
-  "2023-10-16": 5416,
-  "2023-10-17": 5422,
-  "2023-10-18": 5423,
-  "2023-10-19": 5424,
-  "2023-10-20": 5433,
-  "2023-10-21": 5436,
-  "2023-10-22": 5438,
-  "2023-10-23": 5443,
-  "2023-10-24": 5451,
-  "2023-10-25": 5452,
-  "2023-10-26": 5459,
-  "2023-10-27": 5464,
-  "2023-10-28": 5472,
-  "2023-10-29": 5472,
-  "2023-10-30": 5483,
-  "2023-10-31": 5483,
-  "2023-11-01": 5489,
-  "2023-11-02": 5497,
-  "2023-11-03": 5503,
-  "2023-11-04": 5507,
-  "2023-11-05": 5509,
-  "2023-11-06": 5516,
-  "2023-11-07": 5522,
-  "2023-11-08": 5529,
-  "2023-11-09": 5532,
-  "2023-11-10": 5540,
-  "2023-11-11": 5539,
-  "2023-11-12": 5543,
-  "2023-11-13": 5547,
-  "2023-11-14": 5552,
-  "2023-11-15": 5552,
-  "2023-11-16": 5559,
-  "2023-11-17": 5569,
-  "2023-11-18": 5569,
-  "2023-11-19": 5568,
-  "2023-11-20": 5571,
-  "2023-11-21": 5577,
-  "2023-11-22": 5584,
-  "2023-11-23": 5586,
-  "2023-11-24": 5591,
-  "2023-11-25": 5601,
-  "2023-11-26": 5604,
-  "2023-11-27": 5609,
-  "2023-11-28": 5611,
-  "2023-11-29": 5622,
-  "2023-11-30": 5622,
-  "2023-12-01": 5625,
-  "2023-12-02": 5630,
-  "2023-12-03": 5635,
-  "2023-12-04": 5636,
-  "2023-12-05": 5639,
-  "2023-12-06": 5641,
-  "2023-12-07": 5647,
-  "2023-12-08": 5651,
-  "2023-12-09": 5660,
-  "2023-12-10": 5667,
-  "2023-12-11": 5671,
-  "2023-12-12": 5674,
-  "2023-12-13": 5678,
-  "2023-12-14": 5690,
-  "2023-12-15": 5692,
-  "2023-12-16": 5701,
-  "2023-12-17": 5705,
-  "2023-12-18": 5711,
-  "2023-12-19": 5714,
-  "2023-12-20": 5720,
-  "2023-12-21": 5725,
-  "2023-12-22": 5727,
-  "2023-12-23": 5732,
-  "2023-12-24": 5734,
-  "2023-12-25": 5737,
-  "2023-12-26": 5742,
-  "2023-12-27": 5744,
-  "2023-12-30": 5763,
-  "2023-12-31": 5768,
-  "2024-01-01": 5771,
-  "2024-01-02": 5778,
-  "2024-01-03": 5779
+  "2024-01-17": 5839,
+  "date_first_scraped": "2022-05-15",
+  "description": "Enjoy the JTBC drama 'Thirty-Nine' OSTs in a different way with the special contents. You can watch this drama on Netflix as well. (JTBC \ub4dc\ub77c\ub9c8 '\uc11c\ub978, \uc544\ud649'\uc758 OST\ub97c \ud2b9\ubcc4\ud55c \ucee8\ud150\uce20\uc640 \ud568\uaed8 \uc0c9\ub2e4\ub974\uac8c \uc990\uaca8\ubcf4\uc138\uc694. \ub137\ud50c\ub9ad\uc2a4\uc5d0\uc11c\ub3c4 \uc11c\ub978, \uc544\ud649\uc744 \uac10\uc0c1\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
+  "name": "Thirty-Nine (\uc11c\ub978, \uc544\ud649)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154573,
+      "name": "a Peony - Orchestra Version",
+      "url": "https://open.spotify.com/track/26Kd6CnP1tTof4bcCC5tfX"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154840,
+      "name": "a Peony - Piano Solo Version",
+      "url": "https://open.spotify.com/track/18al1VAwxMbVYltcXpx8G2"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "a time-limited life",
+      "url": "https://open.spotify.com/track/3yMbyqZ1VqvxxyjlcEjSid"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122040,
+      "name": "And next year, Spring",
+      "url": "https://open.spotify.com/track/6rVXtzh6bvvRb7fj5pMLRD"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "Dongmin",
+          "url": "https://open.spotify.com/artist/20FU40yDl0imB96HzE4lp9"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126146,
+      "name": "Bonbon",
+      "url": "https://open.spotify.com/track/4JLqqJ7O4Iev7Jtz256YYa"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159733,
+      "name": "Bucket list",
+      "url": "https://open.spotify.com/track/0rQQrNmX6uPP31Y5uvErvb"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN JU",
+          "url": "https://open.spotify.com/artist/2ovwxDane6t3NPywEM08SJ"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72080,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/0kVl8FGGv9TTkh9nbOksfL"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104786,
+      "name": "Dear my friend",
+      "url": "https://open.spotify.com/track/4rwPbvRhjshp3NImvg1M27"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf"
+      },
+      "artists": [
+        {
+          "name": "Jung Joonil",
+          "url": "https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229101,
+      "name": "Did - Thirty-nine Instrumental Version",
+      "url": "https://open.spotify.com/track/2PKuQxcVQZiyizrDfuqmtS"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf"
+      },
+      "artists": [
+        {
+          "name": "Jung Joonil",
+          "url": "https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229101,
+      "name": "Did - Thirty-nine Version",
+      "url": "https://open.spotify.com/track/54LmAfM47Qn5ZgH16XV1lY"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/3BjLHt5kF6e5flkboJnYcW"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177776,
+      "name": "I was a fool",
+      "url": "https://open.spotify.com/track/5BmzKqyffhNjoWDW5QsDI2"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/3BjLHt5kF6e5flkboJnYcW"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "I was a fool - Instrumental",
+      "url": "https://open.spotify.com/track/0vqJ6VjtlA4K1LxktMYtJq"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3SEHTx0lgdfmbswBht0tCS"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "In your days",
+      "url": "https://open.spotify.com/track/5E24Cqg0gcD2zrgxxgh0sn"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3SEHTx0lgdfmbswBht0tCS"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238546,
+      "name": "In your days - Instrumental",
+      "url": "https://open.spotify.com/track/4WUmV713gXJP0OiXSgkZD8"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63866,
+      "name": "It wasn\u2019t an accident",
+      "url": "https://open.spotify.com/track/6qlio7HOK1OudJHFcYxTpg"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "One Absurd day",
+      "url": "https://open.spotify.com/track/6kzGBCXMuElfYrsXAHkjk5"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "Dongmin",
+          "url": "https://open.spotify.com/artist/20FU40yDl0imB96HzE4lp9"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "Our little time",
+      "url": "https://open.spotify.com/track/4tLQrywnE5W1bWUli8K7u0"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/2enD4NH4CNlaUSBUdSolWQ"
+      },
+      "artists": [
+        {
+          "name": "CAR, THE GARDEN",
+          "url": "https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245697,
+      "name": "Peony",
+      "url": "https://open.spotify.com/track/3zJej8fwVcE1eHLuSc1ICs"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/2enD4NH4CNlaUSBUdSolWQ"
+      },
+      "artists": [
+        {
+          "name": "CAR, THE GARDEN",
+          "url": "https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245697,
+      "name": "Peony - Instrumental",
+      "url": "https://open.spotify.com/track/00f9sufKLI1OIWOM5re2DN"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "Dongmin",
+          "url": "https://open.spotify.com/artist/20FU40yDl0imB96HzE4lp9"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166146,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1jigzzpJtbAM2wnqiK9N3S"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN JU",
+          "url": "https://open.spotify.com/artist/2ovwxDane6t3NPywEM08SJ"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "So-So-Fa",
+      "url": "https://open.spotify.com/track/0UB2NPSfSf8wjU828EHHHq"
+    },
+    {
+      "album": {
+        "name": "39 - Special messages from the soundtrack performers",
+        "url": "https://open.spotify.com/album/1B3sI2paWhcveAvaweJCs7"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25941,
+      "name": "Special Message from Fromm",
+      "url": "https://open.spotify.com/track/0h8H5WPDYm8znTpGAzPuIb"
+    },
+    {
+      "album": {
+        "name": "39 - Special messages from the soundtrack performers",
+        "url": "https://open.spotify.com/album/1B3sI2paWhcveAvaweJCs7"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16382,
+      "name": "Special Message from Whee In",
+      "url": "https://open.spotify.com/track/4P3QfsyDic6NqVBgA7UBzk"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3XQXgsluskowvlFGZIKTQ7"
+      },
+      "artists": [
+        {
+          "name": "Kang Asol",
+          "url": "https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231435,
+      "name": "Still here",
+      "url": "https://open.spotify.com/track/69r9DFmi5uStx44buSi0sm"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3XQXgsluskowvlFGZIKTQ7"
+      },
+      "artists": [
+        {
+          "name": "Kang Asol",
+          "url": "https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230880,
+      "name": "Still here - Instrumental",
+      "url": "https://open.spotify.com/track/7HuIdSkzc2cm2jUZDd3ukN"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/6UsoiG7ypgjvgTMZsa5kCO"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265048,
+      "name": "That's all",
+      "url": "https://open.spotify.com/track/2GA13uuobpA88h5zPXm0E3"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/6UsoiG7ypgjvgTMZsa5kCO"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265048,
+      "name": "That's all - Instrumental",
+      "url": "https://open.spotify.com/track/6DgksMoHrVFWT1fom7ZaEH"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137146,
+      "name": "The Inconvenient Truth",
+      "url": "https://open.spotify.com/track/1mzwJxdlM47ytxGsiqXfHU"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43813,
+      "name": "Thirty-Nine - Opening Title Version",
+      "url": "https://open.spotify.com/track/4Qns8fOvz275UWySFT9Wxi"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "Dongmin",
+          "url": "https://open.spotify.com/artist/20FU40yDl0imB96HzE4lp9"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101720,
+      "name": "Thousands of nights",
+      "url": "https://open.spotify.com/track/5MCIIO7ve7L9orV8xcwozN"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uc804\uc9c4\ud76c",
+          "url": "https://open.spotify.com/artist/55SXjFwttf52nY0wdI8fhP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115812,
+      "name": "Three friends",
+      "url": "https://open.spotify.com/track/6KxKEWaMOf94M8SVQZrqV8"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128026,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/5kWMvYflBZBsZgXBkhjnol"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145666,
+      "name": "Wanna go see the two peonies?",
+      "url": "https://open.spotify.com/track/7nLtD9HRt5mv0tSiTaOXoY"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158506,
+      "name": "We never should\u2019ve met",
+      "url": "https://open.spotify.com/track/0TnVX8qt3NMHjwxDX2Glrr"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        },
+        {
+          "name": "Dongmin",
+          "url": "https://open.spotify.com/artist/20FU40yDl0imB96HzE4lp9"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134573,
+      "name": "We\u2019re 39 years old",
+      "url": "https://open.spotify.com/track/0eNKdPo6gCsuWghgGAJWWg"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "Lil Fish",
+          "url": "https://open.spotify.com/artist/3MnAiI9nnVd0Rle9lWpde6"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125546,
+      "name": "Woo hoo hoo",
+      "url": "https://open.spotify.com/track/3zYuG6yM3IFsIaXkC6RCvq"
+    },
+    {
+      "album": {
+        "name": "Thirty-nine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX"
+      },
+      "artists": [
+        {
+          "name": "\uad8c\uc601\ucc2c",
+          "url": "https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111893,
+      "name": "Year 2000",
+      "url": "https://open.spotify.com/track/5x187wwmFQNi5HQTrqkFQZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX06shnsLNU84"
 }

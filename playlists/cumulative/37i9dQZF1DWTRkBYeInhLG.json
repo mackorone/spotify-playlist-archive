@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Harapan",
+        "url": "https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77"
+      },
+      "artists": [
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288333,
+      "name": "Belum Siap Kehilangan",
+      "url": "https://open.spotify.com/track/7KXVbdLU70pHjYsVZg47KO"
+    },
+    {
+      "album": {
         "name": "Benar-Benar",
         "url": "https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69"
       },
@@ -346,7 +364,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 206183,
       "name": "COBA CINTAKU",
       "url": "https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-14",
       "duration_ms": 240473,
       "name": "Indah Pada Waktunya",
       "url": "https://open.spotify.com/track/28Gd45dRqr92unRNIOxSWZ"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 266111,
       "name": "Percayalah",
       "url": "https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet"
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 269242,
       "name": "THANK YOU 4 LOVIN\u2019 ME",
       "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"

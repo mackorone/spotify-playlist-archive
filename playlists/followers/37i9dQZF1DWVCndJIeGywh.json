@@ -1,621 +1,1617 @@
 {
-  "2022-04-19": 30344,
-  "2022-04-20": 30371,
-  "2022-04-21": 30393,
-  "2022-04-22": 30412,
-  "2022-04-23": 30450,
-  "2022-04-24": 30498,
-  "2022-04-25": 30545,
-  "2022-04-26": 30565,
-  "2022-04-27": 30612,
-  "2022-04-28": 30638,
-  "2022-04-29": 30697,
-  "2022-04-30": 30730,
-  "2022-05-01": 30780,
-  "2022-05-02": 30780,
-  "2022-05-03": 30807,
-  "2022-05-04": 30837,
-  "2022-05-05": 30866,
-  "2022-05-06": 30889,
-  "2022-05-07": 30921,
-  "2022-05-08": 30975,
-  "2022-05-09": 30977,
-  "2022-05-10": 30991,
-  "2022-05-11": 31015,
-  "2022-05-12": 31042,
-  "2022-05-13": 31071,
-  "2022-05-14": 31093,
-  "2022-05-15": 31121,
-  "2022-05-16": 31145,
-  "2022-05-17": 31170,
-  "2022-05-18": 31191,
-  "2022-05-19": 31209,
-  "2022-05-20": 31235,
-  "2022-05-21": 31285,
-  "2022-05-22": 31285,
-  "2022-05-23": 31312,
-  "2022-05-24": 31340,
-  "2022-05-25": 31356,
-  "2022-05-26": 31377,
-  "2022-05-27": 31400,
-  "2022-05-28": 31411,
-  "2022-05-29": 31433,
-  "2022-05-30": 31462,
-  "2022-05-31": 31482,
-  "2022-06-01": 31587,
-  "2022-06-02": 31588,
-  "2022-06-03": 31673,
-  "2022-06-04": 31727,
-  "2022-06-05": 31783,
-  "2022-06-06": 31816,
-  "2022-06-07": 31846,
-  "2022-06-08": 31878,
-  "2022-06-09": 31895,
-  "2022-06-10": 31913,
-  "2022-06-11": 31927,
-  "2022-06-12": 31956,
-  "2022-06-13": 31980,
-  "2022-06-14": 32001,
-  "2022-06-15": 32023,
-  "2022-06-16": 32036,
-  "2022-06-17": 32054,
-  "2022-06-18": 32074,
-  "2022-06-19": 32124,
-  "2022-06-20": 32124,
-  "2022-06-21": 32146,
-  "2022-06-22": 32204,
-  "2022-06-23": 32204,
-  "2022-06-24": 32219,
-  "2022-06-25": 32244,
-  "2022-06-26": 32265,
-  "2022-06-27": 32293,
-  "2022-06-28": 32311,
-  "2022-06-29": 32336,
-  "2022-06-30": 32356,
-  "2022-07-01": 32378,
-  "2022-07-02": 32408,
-  "2022-07-03": 32438,
-  "2022-07-04": 32470,
-  "2022-07-05": 32478,
-  "2022-07-06": 32479,
-  "2022-07-07": 32494,
-  "2022-07-08": 32515,
-  "2022-07-09": 32542,
-  "2022-07-10": 32561,
-  "2022-07-11": 32570,
-  "2022-07-12": 32597,
-  "2022-07-13": 32617,
-  "2022-07-14": 32639,
-  "2022-07-15": 32663,
-  "2022-07-16": 32682,
-  "2022-07-17": 32711,
-  "2022-07-18": 32732,
-  "2022-07-19": 32764,
-  "2022-07-20": 32780,
-  "2022-07-21": 32794,
-  "2022-07-22": 32815,
-  "2022-07-23": 32838,
-  "2022-07-24": 32870,
-  "2022-07-25": 32907,
-  "2022-07-26": 32947,
-  "2022-07-27": 32987,
-  "2022-07-28": 33018,
-  "2022-07-29": 33041,
-  "2022-07-30": 33103,
-  "2022-07-31": 33103,
-  "2022-08-01": 33139,
-  "2022-08-02": 33173,
-  "2022-08-03": 33173,
-  "2022-08-04": 33190,
-  "2022-08-05": 33226,
-  "2022-08-06": 33248,
-  "2022-08-07": 33271,
-  "2022-08-08": 33294,
-  "2022-08-09": 33313,
-  "2022-08-10": 33343,
-  "2022-08-11": 33367,
-  "2022-08-12": 33381,
-  "2022-08-13": 33406,
-  "2022-08-14": 33423,
-  "2022-08-15": 33444,
-  "2022-08-16": 33468,
-  "2022-08-17": 33489,
-  "2022-08-18": 33518,
-  "2022-08-19": 33547,
-  "2022-08-20": 33569,
-  "2022-08-21": 33598,
-  "2022-08-22": 33625,
-  "2022-08-23": 33646,
-  "2022-08-24": 33665,
-  "2022-08-25": 33687,
-  "2022-08-26": 33712,
-  "2022-08-27": 33739,
-  "2022-08-28": 33766,
-  "2022-08-29": 33788,
-  "2022-08-30": 33812,
-  "2022-08-31": 33822,
-  "2022-09-01": 33841,
-  "2022-09-02": 33855,
-  "2022-09-03": 33875,
-  "2022-09-04": 33884,
-  "2022-09-05": 33895,
-  "2022-09-06": 33911,
-  "2022-09-07": 33932,
-  "2022-09-09": 34012,
-  "2022-09-10": 34754,
-  "2022-09-11": 35584,
-  "2022-09-12": 36098,
-  "2022-09-13": 36439,
-  "2022-09-15": 36690,
-  "2022-09-16": 36749,
-  "2022-09-17": 36789,
-  "2022-09-18": 36854,
-  "2022-09-19": 36928,
-  "2022-09-20": 37097,
-  "2022-09-21": 37176,
-  "2022-09-22": 37241,
-  "2022-09-23": 37308,
-  "2022-09-24": 37349,
-  "2022-09-25": 37410,
-  "2022-09-26": 37460,
-  "2022-09-27": 37507,
-  "2022-09-28": 37550,
-  "2022-09-29": 37589,
-  "2022-09-30": 37638,
-  "2022-10-01": 37683,
-  "2022-10-02": 37726,
-  "2022-10-03": 37762,
-  "2022-10-04": 37786,
-  "2022-10-05": 37810,
-  "2022-10-06": 37835,
-  "2022-10-07": 37858,
-  "2022-10-08": 37875,
-  "2022-10-09": 37943,
-  "2022-10-10": 37951,
-  "2022-10-11": 37974,
-  "2022-10-12": 38003,
-  "2022-10-13": 38047,
-  "2022-10-14": 38078,
-  "2022-10-15": 38101,
-  "2022-10-16": 38130,
-  "2022-10-17": 38161,
-  "2022-10-18": 38180,
-  "2022-10-19": 38197,
-  "2022-10-20": 38219,
-  "2022-10-21": 38229,
-  "2022-10-22": 38256,
-  "2022-10-23": 38280,
-  "2022-10-24": 38310,
-  "2022-10-25": 38338,
-  "2022-10-26": 38357,
-  "2022-10-27": 38386,
-  "2022-10-28": 38411,
-  "2022-10-29": 38437,
-  "2022-10-30": 38460,
-  "2022-10-31": 38495,
-  "2022-11-01": 38524,
-  "2022-11-02": 38549,
-  "2022-11-03": 38583,
-  "2022-11-04": 38611,
-  "2022-11-05": 38634,
-  "2022-11-06": 38663,
-  "2022-11-07": 38691,
-  "2022-11-08": 38712,
-  "2022-11-09": 38740,
-  "2022-11-10": 38774,
-  "2022-11-11": 38810,
-  "2022-11-12": 38846,
-  "2022-11-13": 38871,
-  "2022-11-14": 38921,
-  "2022-11-15": 38950,
-  "2022-11-16": 38972,
-  "2022-11-17": 39006,
-  "2022-11-18": 39018,
-  "2022-11-19": 39015,
-  "2022-11-20": 39024,
-  "2022-11-21": 39041,
-  "2022-11-22": 39069,
-  "2022-11-23": 39112,
-  "2022-11-24": 39188,
-  "2022-11-25": 39269,
-  "2022-11-26": 39328,
-  "2022-11-27": 39497,
-  "2022-11-28": 40374,
-  "2022-11-29": 40415,
-  "2022-11-30": 40482,
-  "2022-12-01": 40539,
-  "2022-12-02": 40577,
-  "2022-12-03": 40597,
-  "2022-12-04": 40634,
-  "2022-12-05": 40673,
-  "2022-12-06": 40705,
-  "2022-12-07": 40738,
-  "2022-12-08": 40772,
-  "2022-12-09": 40791,
-  "2022-12-10": 40821,
-  "2022-12-11": 40857,
-  "2022-12-12": 40897,
-  "2022-12-13": 40931,
-  "2022-12-14": 40974,
-  "2022-12-15": 41009,
-  "2022-12-16": 41047,
-  "2022-12-17": 41090,
-  "2022-12-18": 41136,
-  "2022-12-19": 41187,
-  "2022-12-20": 41249,
-  "2022-12-21": 41249,
-  "2022-12-22": 41284,
-  "2022-12-24": 41342,
-  "2022-12-25": 41402,
-  "2022-12-26": 41434,
-  "2022-12-27": 41466,
-  "2022-12-28": 41497,
-  "2022-12-29": 41517,
-  "2022-12-30": 41544,
-  "2022-12-31": 41574,
-  "2023-01-01": 41591,
-  "2023-01-02": 41611,
-  "2023-01-03": 41653,
-  "2023-01-04": 41691,
-  "2023-01-05": 41726,
-  "2023-01-06": 41764,
-  "2023-01-07": 41812,
-  "2023-01-08": 41820,
-  "2023-01-09": 41844,
-  "2023-01-10": 41874,
-  "2023-01-11": 41898,
-  "2023-01-12": 41914,
-  "2023-01-13": 41948,
-  "2023-01-14": 41982,
-  "2023-01-15": 41990,
-  "2023-01-16": 42030,
-  "2023-01-17": 42056,
-  "2023-01-18": 42086,
-  "2023-01-19": 42108,
-  "2023-01-20": 42131,
-  "2023-01-21": 42157,
-  "2023-01-22": 42184,
-  "2023-01-23": 42215,
-  "2023-01-24": 42246,
-  "2023-01-25": 42275,
-  "2023-01-26": 42300,
-  "2023-01-27": 42331,
-  "2023-01-28": 42360,
-  "2023-01-29": 42402,
-  "2023-01-30": 42433,
-  "2023-01-31": 42433,
-  "2023-02-01": 42500,
-  "2023-02-02": 42534,
-  "2023-02-03": 42574,
-  "2023-02-04": 42596,
-  "2023-02-05": 42631,
-  "2023-02-06": 42678,
-  "2023-02-07": 42718,
-  "2023-02-08": 42784,
-  "2023-02-09": 42784,
-  "2023-02-10": 42831,
-  "2023-02-11": 42851,
-  "2023-02-12": 42915,
-  "2023-02-13": 42951,
-  "2023-02-14": 42951,
-  "2023-02-15": 42985,
-  "2023-02-16": 43011,
-  "2023-02-17": 43036,
-  "2023-02-18": 43102,
-  "2023-02-19": 43108,
-  "2023-02-20": 43137,
-  "2023-02-21": 43165,
-  "2023-02-22": 43182,
-  "2023-02-23": 43213,
-  "2023-02-24": 43240,
-  "2023-02-25": 43286,
-  "2023-02-26": 43308,
-  "2023-02-27": 43367,
-  "2023-02-28": 43367,
-  "2023-03-01": 43394,
-  "2023-03-02": 43419,
-  "2023-03-03": 43449,
-  "2023-03-04": 43464,
-  "2023-03-05": 43528,
-  "2023-03-06": 43528,
-  "2023-03-07": 43537,
-  "2023-03-08": 43561,
-  "2023-03-09": 43593,
-  "2023-03-10": 43620,
-  "2023-03-11": 43635,
-  "2023-03-12": 43665,
-  "2023-03-13": 43703,
-  "2023-03-14": 43726,
-  "2023-03-15": 43752,
-  "2023-03-16": 43778,
-  "2023-03-17": 43778,
-  "2023-03-18": 43832,
-  "2023-03-19": 43854,
-  "2023-03-20": 43888,
-  "2023-03-21": 43908,
-  "2023-03-22": 43930,
-  "2023-03-23": 43947,
-  "2023-03-24": 43947,
-  "2023-03-25": 43995,
-  "2023-03-26": 44013,
-  "2023-03-27": 44037,
-  "2023-03-28": 44056,
-  "2023-03-29": 44082,
-  "2023-03-30": 44148,
-  "2023-03-31": 44148,
-  "2023-04-01": 44166,
-  "2023-04-02": 44194,
-  "2023-04-03": 44212,
-  "2023-04-04": 44242,
-  "2023-04-05": 44268,
-  "2023-04-06": 44296,
-  "2023-04-07": 44325,
-  "2023-04-09": 44384,
-  "2023-04-10": 44417,
-  "2023-04-11": 44469,
-  "2023-04-12": 44469,
-  "2023-04-13": 44490,
-  "2023-04-14": 44519,
-  "2023-04-15": 44535,
-  "2023-04-16": 44580,
-  "2023-04-17": 44599,
-  "2023-04-18": 44638,
-  "2023-04-19": 44683,
-  "2023-04-20": 44708,
-  "2023-04-21": 44740,
-  "2023-04-22": 44780,
-  "2023-04-23": 44819,
-  "2023-04-24": 44846,
-  "2023-04-25": 44879,
-  "2023-04-26": 44916,
-  "2023-04-27": 44947,
-  "2023-04-28": 44971,
-  "2023-04-29": 44996,
-  "2023-04-30": 45016,
-  "2023-05-01": 45054,
-  "2023-05-02": 45102,
-  "2023-05-03": 45124,
-  "2023-05-04": 45150,
-  "2023-05-05": 45190,
-  "2023-05-06": 45225,
-  "2023-05-07": 45344,
-  "2023-05-08": 45414,
-  "2023-05-09": 45462,
-  "2023-05-10": 45506,
-  "2023-05-11": 45545,
-  "2023-05-12": 45583,
-  "2023-05-13": 45612,
-  "2023-05-14": 45630,
-  "2023-05-15": 45658,
-  "2023-05-16": 45695,
-  "2023-05-17": 45715,
-  "2023-05-18": 45736,
-  "2023-05-19": 45766,
-  "2023-05-20": 45839,
-  "2023-05-21": 45839,
-  "2023-05-22": 45839,
-  "2023-05-23": 45902,
-  "2023-05-24": 45953,
-  "2023-05-25": 45962,
-  "2023-05-26": 45985,
-  "2023-05-27": 46020,
-  "2023-05-28": 46044,
-  "2023-05-29": 46044,
-  "2023-05-30": 46090,
-  "2023-05-31": 46108,
-  "2023-06-01": 46133,
-  "2023-06-02": 46152,
-  "2023-06-03": 46176,
-  "2023-06-04": 46206,
-  "2023-06-05": 46237,
-  "2023-06-06": 46270,
-  "2023-06-07": 46296,
-  "2023-06-08": 46312,
-  "2023-06-09": 46326,
-  "2023-06-10": 46348,
-  "2023-06-11": 46376,
-  "2023-06-12": 46394,
-  "2023-06-13": 46415,
-  "2023-06-14": 46424,
-  "2023-06-15": 46437,
-  "2023-06-16": 46473,
-  "2023-06-17": 46492,
-  "2023-06-18": 46513,
-  "2023-06-19": 46539,
-  "2023-06-20": 46552,
-  "2023-06-21": 46577,
-  "2023-06-22": 46596,
-  "2023-06-23": 46607,
-  "2023-06-24": 46626,
-  "2023-06-25": 46646,
-  "2023-06-26": 46664,
-  "2023-06-27": 46685,
-  "2023-06-28": 46714,
-  "2023-06-29": 46729,
-  "2023-06-30": 46753,
-  "2023-07-01": 46789,
-  "2023-07-02": 46789,
-  "2023-07-03": 46799,
-  "2023-07-04": 46827,
-  "2023-07-05": 46848,
-  "2023-07-06": 46898,
-  "2023-07-07": 46898,
-  "2023-07-08": 46909,
-  "2023-07-09": 46939,
-  "2023-07-10": 46968,
-  "2023-07-11": 46987,
-  "2023-07-12": 47017,
-  "2023-07-13": 47026,
-  "2023-07-14": 47045,
-  "2023-07-15": 47056,
-  "2023-07-16": 47090,
-  "2023-07-17": 47118,
-  "2023-07-18": 47121,
-  "2023-07-19": 47145,
-  "2023-07-20": 47166,
-  "2023-07-21": 47194,
-  "2023-07-22": 47205,
-  "2023-07-23": 47228,
-  "2023-07-24": 47256,
-  "2023-07-25": 47276,
-  "2023-07-26": 47298,
-  "2023-07-27": 47321,
-  "2023-07-28": 47337,
-  "2023-07-29": 47358,
-  "2023-07-30": 47372,
-  "2023-07-31": 47381,
-  "2023-08-01": 47402,
-  "2023-08-02": 47421,
-  "2023-08-03": 47449,
-  "2023-08-04": 47473,
-  "2023-08-05": 47492,
-  "2023-08-06": 47559,
-  "2023-08-07": 47559,
-  "2023-08-08": 47589,
-  "2023-08-09": 47612,
-  "2023-08-10": 47639,
-  "2023-08-11": 47661,
-  "2023-08-12": 47681,
-  "2023-08-13": 47695,
-  "2023-08-14": 47720,
-  "2023-08-15": 47750,
-  "2023-08-16": 47750,
-  "2023-08-17": 47775,
-  "2023-08-18": 47805,
-  "2023-08-19": 47827,
-  "2023-08-20": 47855,
-  "2023-08-21": 47889,
-  "2023-08-22": 47924,
-  "2023-08-23": 47951,
-  "2023-08-24": 47976,
-  "2023-08-25": 47983,
-  "2023-08-26": 48005,
-  "2023-08-27": 48033,
-  "2023-08-28": 48050,
-  "2023-08-29": 48071,
-  "2023-08-30": 48099,
-  "2023-08-31": 48132,
-  "2023-09-01": 48164,
-  "2023-09-02": 48164,
-  "2023-09-03": 48182,
-  "2023-09-04": 48199,
-  "2023-09-05": 48206,
-  "2023-09-06": 48228,
-  "2023-09-07": 48232,
-  "2023-09-08": 48244,
-  "2023-09-09": 48272,
-  "2023-09-10": 48292,
-  "2023-09-11": 48308,
-  "2023-09-12": 48330,
-  "2023-09-13": 48353,
-  "2023-09-14": 48362,
-  "2023-09-15": 48374,
-  "2023-09-16": 48389,
-  "2023-09-17": 48417,
-  "2023-09-18": 48432,
-  "2023-09-19": 48456,
-  "2023-09-20": 48470,
-  "2023-09-21": 48487,
-  "2023-09-22": 48501,
-  "2023-09-23": 48511,
-  "2023-09-24": 48537,
-  "2023-09-25": 48558,
-  "2023-09-26": 48577,
-  "2023-09-27": 48591,
-  "2023-09-28": 48611,
-  "2023-09-29": 48622,
-  "2023-09-30": 48637,
-  "2023-10-01": 48652,
-  "2023-10-02": 48681,
-  "2023-10-03": 48708,
-  "2023-10-04": 48724,
-  "2023-10-05": 48737,
-  "2023-10-06": 48748,
-  "2023-10-07": 48761,
-  "2023-10-08": 48787,
-  "2023-10-09": 48795,
-  "2023-10-10": 48815,
-  "2023-10-11": 48840,
-  "2023-10-12": 48840,
-  "2023-10-13": 48860,
-  "2023-10-14": 48873,
-  "2023-10-15": 48892,
-  "2023-10-16": 48918,
-  "2023-10-17": 48949,
-  "2023-10-18": 48966,
-  "2023-10-19": 48990,
-  "2023-10-20": 49011,
-  "2023-10-21": 49028,
-  "2023-10-22": 49040,
-  "2023-10-23": 49058,
-  "2023-10-24": 49077,
-  "2023-10-25": 49092,
-  "2023-10-26": 49108,
-  "2023-10-27": 49126,
-  "2023-10-28": 49154,
-  "2023-10-29": 49182,
-  "2023-10-30": 49226,
-  "2023-10-31": 49226,
-  "2023-11-01": 49239,
-  "2023-11-02": 49262,
-  "2023-11-03": 49277,
-  "2023-11-04": 49302,
-  "2023-11-05": 49318,
-  "2023-11-06": 49336,
-  "2023-11-07": 49349,
-  "2023-11-08": 49365,
-  "2023-11-09": 49391,
-  "2023-11-10": 49413,
-  "2023-11-11": 49429,
-  "2023-11-12": 49446,
-  "2023-11-13": 49465,
-  "2023-11-14": 49482,
-  "2023-11-15": 49482,
-  "2023-11-16": 49519,
-  "2023-11-17": 49567,
-  "2023-11-18": 49567,
-  "2023-11-19": 49591,
-  "2023-11-20": 49621,
-  "2023-11-21": 49651,
-  "2023-11-22": 49673,
-  "2023-11-23": 49680,
-  "2023-11-24": 49706,
-  "2023-11-25": 49729,
-  "2023-11-26": 49751,
-  "2023-11-27": 49774,
-  "2023-11-28": 49797,
-  "2023-11-29": 49839,
-  "2023-11-30": 49839,
-  "2023-12-01": 49863,
-  "2023-12-02": 49882,
-  "2023-12-03": 49911,
-  "2023-12-04": 49933,
-  "2023-12-05": 49955,
-  "2023-12-06": 49974,
-  "2023-12-07": 49997,
-  "2023-12-08": 50013,
-  "2023-12-09": 50033,
-  "2023-12-10": 50051,
-  "2023-12-11": 50069,
-  "2023-12-12": 50093,
-  "2023-12-13": 50110,
-  "2023-12-14": 50136,
-  "2023-12-15": 50154,
-  "2023-12-16": 50169,
-  "2023-12-17": 50194,
-  "2023-12-18": 50216,
-  "2023-12-19": 50230,
-  "2023-12-20": 50253,
-  "2023-12-21": 50269,
-  "2023-12-22": 50283,
-  "2023-12-23": 50318,
-  "2023-12-24": 50333,
-  "2023-12-25": 50362,
-  "2023-12-26": 50381,
-  "2023-12-27": 50396,
-  "2023-12-30": 50466,
-  "2023-12-31": 50506,
-  "2024-01-01": 50520,
-  "2024-01-02": 50541,
-  "2024-01-03": 50567
+  "2024-01-17": 50928,
+  "date_first_scraped": "2022-04-19",
+  "description": "Relax and enjoy the best of British classical music. ",
+  "name": "Classically British",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alwyn, W.: Piano Music, Vol. 2 - 12 Preludes / Contes Barbares / Movements",
+        "url": "https://open.spotify.com/album/5PzqHd8Pql5B5cWMshZlVs"
+      },
+      "artists": [
+        {
+          "name": "William Alwyn",
+          "url": "https://open.spotify.com/artist/33yO64zQ3GSPwEC6ok4BDP"
+        },
+        {
+          "name": "Ashley Wass",
+          "url": "https://open.spotify.com/artist/3uAZQWPMvD19hIhFI6TWgN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138266,
+      "name": "2 Irish Pieces: No. 1. From the Countryside",
+      "url": "https://open.spotify.com/track/3h1U34AiOBjsFnr6FwxXkj"
+    },
+    {
+      "album": {
+        "name": "Delius: On Hearing the First Cuckoo in Spring",
+        "url": "https://open.spotify.com/album/2779Ea7m4zmW4C9DCGlait"
+      },
+      "artists": [
+        {
+          "name": "Frederick Delius",
+          "url": "https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        },
+        {
+          "name": "David Lloyd-Jones",
+          "url": "https://open.spotify.com/artist/3VWrnOYO3VBCE9MAleAQM4"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444733,
+      "name": "3 Small Tone Poems: No. 3. Spring Morning",
+      "url": "https://open.spotify.com/track/25YcFabsNxSngqK8XfNRPO"
+    },
+    {
+      "album": {
+        "name": "Respighi's Ancient Airs and Dances Suite No. 3: Orchestral Favourites, Vol. II",
+        "url": "https://open.spotify.com/album/6MJnhDnixnndK2ed8ftOPZ"
+      },
+      "artists": [
+        {
+          "name": "John Ireland",
+          "url": "https://open.spotify.com/artist/0QzZLY6jZif9KbXnxaLIUV"
+        },
+        {
+          "name": "English String Orchestra",
+          "url": "https://open.spotify.com/artist/0Wq8OfD0P2x7Bztxt4KD0z"
+        },
+        {
+          "name": "William Boughton",
+          "url": "https://open.spotify.com/artist/1bZY8SMJERHFv2Prfo0E6T"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297733,
+      "name": "A Downland Suite: III. Minuet",
+      "url": "https://open.spotify.com/track/7KrqmjP4qCLpE687ikvdok"
+    },
+    {
+      "album": {
+        "name": "ENGLISH STRING MINIATURES, Vol. 4",
+        "url": "https://open.spotify.com/album/3aHnqYoeNpy7hjqqSoEhcQ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Royal Northern Sinfonia",
+          "url": "https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd"
+        },
+        {
+          "name": "David Lloyd-Jones",
+          "url": "https://open.spotify.com/artist/3VWrnOYO3VBCE9MAleAQM4"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425160,
+      "name": "A Moorside Suite, H. 173: Nocturne",
+      "url": "https://open.spotify.com/track/23FphmJAdkmOaZCIoBBpoY"
+    },
+    {
+      "album": {
+        "name": "Parry: Boult Conducts Parry",
+        "url": "https://open.spotify.com/album/202mFWoLcwhxWjQPal3fcP"
+      },
+      "artists": [
+        {
+          "name": "Hubert Parry",
+          "url": "https://open.spotify.com/artist/4DAmH51BfQpej5UEP0dZ3u"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Adrian Boult",
+          "url": "https://open.spotify.com/artist/3YjLvhwK5zw7N5S5oX0DVl"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129866,
+      "name": "An English Suite: VI. Air",
+      "url": "https://open.spotify.com/track/0hrLD6K49oODwEsdPjLHfN"
+    },
+    {
+      "album": {
+        "name": "Boult Conducts Parry",
+        "url": "https://open.spotify.com/album/2n3vpZkiEEoHiCs67qr8Gf"
+      },
+      "artists": [
+        {
+          "name": "Hubert Parry",
+          "url": "https://open.spotify.com/artist/4DAmH51BfQpej5UEP0dZ3u"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Adrian Boult",
+          "url": "https://open.spotify.com/artist/3YjLvhwK5zw7N5S5oX0DVl"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129866,
+      "name": "An English Suite: VI. Air",
+      "url": "https://open.spotify.com/track/2efKq529N82NR7JJwAgnWL"
+    },
+    {
+      "album": {
+        "name": "The English Viola",
+        "url": "https://open.spotify.com/album/5L28fof2nWQNBwMmDvxtDA"
+      },
+      "artists": [
+        {
+          "name": "Frank Bridge",
+          "url": "https://open.spotify.com/artist/7rj5B6cNPEJhWLnZAPSw9c"
+        },
+        {
+          "name": "Enik\u0151 Magyar",
+          "url": "https://open.spotify.com/artist/5ofQKCICPwvadwzRKWYqwe"
+        },
+        {
+          "name": "Tadashi Imai",
+          "url": "https://open.spotify.com/artist/32s7vjlyqSCLwqDvqkkTuw"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214106,
+      "name": "Berceuse (Arr. For viola and piano)",
+      "url": "https://open.spotify.com/track/6tWg05l8fgCms52XX9qI2C"
+    },
+    {
+      "album": {
+        "name": "Queen's Platinum Jubilee Classical Music",
+        "url": "https://open.spotify.com/album/4agVxFg16QsfMcm6fUDWAG"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "BBC Scottish symphony orchestra",
+          "url": "https://open.spotify.com/artist/1PbPBgJV68KjkK2gZg4SrI"
+        },
+        {
+          "name": "Rory Macdonald",
+          "url": "https://open.spotify.com/artist/1ekxcAi999bgwLaTQGdMPU"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 323460,
+      "name": "Bonnie Banks of Loch Lomond",
+      "url": "https://open.spotify.com/track/02H7whuO3Cpcp4Q9GJ1rLK"
+    },
+    {
+      "album": {
+        "name": "Homecoming - A Scottish Fantasy (Mirror)",
+        "url": "https://open.spotify.com/album/02lp2UGBdVVzAlUiqaj5Py"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        },
+        {
+          "name": "Rory Macdonald",
+          "url": "https://open.spotify.com/artist/1ekxcAi999bgwLaTQGdMPU"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323460,
+      "name": "Bonnie Banks of Loch Lomond",
+      "url": "https://open.spotify.com/track/0ICeSJSWlKnYDm0WUuAreq"
+    },
+    {
+      "album": {
+        "name": "Homecoming - A Scottish Fantasy",
+        "url": "https://open.spotify.com/album/0g7TIXzN5aKi2nKI6yu7rz"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        },
+        {
+          "name": "Rory Macdonald",
+          "url": "https://open.spotify.com/artist/1ekxcAi999bgwLaTQGdMPU"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 323460,
+      "name": "Bonnie Banks of Loch Lomond",
+      "url": "https://open.spotify.com/track/3hrjylhK1zf4iALZQKE2ed"
+    },
+    {
+      "album": {
+        "name": "Holst: Double Concerto / St Paul's Suite / Brook Green Suite",
+        "url": "https://open.spotify.com/album/6Y3u5ufMRQU8pCjSSl3zN0"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "English Sinfonia",
+          "url": "https://open.spotify.com/artist/43Nyp1sl8Hu85Q7KvLHscq"
+        },
+        {
+          "name": "Howard Griffiths",
+          "url": "https://open.spotify.com/artist/6htlEU4z5WGJCDAkOFGGDq"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125080,
+      "name": "Brook Green Suite: II. Air",
+      "url": "https://open.spotify.com/track/5rDjdlYDk9rE3PMoMvQXMY"
+    },
+    {
+      "album": {
+        "name": "Warlock: Capriol Suite; Songs",
+        "url": "https://open.spotify.com/album/5tBbsSMBFaO6YRQ6AYnZaz"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 129346,
+      "name": "Capriol Suite: 2. Pavane",
+      "url": "https://open.spotify.com/track/3wiVgTg4rfxzoAsjZnMBWn"
+    },
+    {
+      "album": {
+        "name": "Fantasia on Greensleeves",
+        "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130266,
+      "name": "Capriol Suite: 2. Pavane",
+      "url": "https://open.spotify.com/track/3E4rvztxhbzzDBr76f64AG"
+    },
+    {
+      "album": {
+        "name": "Fantasia on Greensleeves (2 CDs)",
+        "url": "https://open.spotify.com/album/0zhE4fNwh2s4B4bEm7O1Qz"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 130266,
+      "name": "Capriol Suite: 2. Pavane",
+      "url": "https://open.spotify.com/track/6kTaMP9A0d3Ct0AbXpZmW7"
+    },
+    {
+      "album": {
+        "name": "Fantasia on Greensleeves (2 CDs)",
+        "url": "https://open.spotify.com/album/0zhE4fNwh2s4B4bEm7O1Qz"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Nicholas Kraemer",
+          "url": "https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144266,
+      "name": "Capriol Suite: 5. Pied-en- l'air",
+      "url": "https://open.spotify.com/track/1b2I4V1vbLWkun384jk1Tv"
+    },
+    {
+      "album": {
+        "name": "Fantasia on Greensleeves",
+        "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Nicholas Kraemer",
+          "url": "https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144266,
+      "name": "Capriol Suite: 5. Pied-en- l'air",
+      "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Relaxation Album",
+        "url": "https://open.spotify.com/album/6qu1sVtV7Yx0mOMrvWdgyR"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Nicholas Kraemer",
+          "url": "https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144920,
+      "name": "Capriol Suite: 5. Pied-en- l'air",
+      "url": "https://open.spotify.com/track/0PHKg158j2NawA23X1ld3R"
+    },
+    {
+      "album": {
+        "name": "Elgar Wand of Youth",
+        "url": "https://open.spotify.com/album/2Q2kNHYUdMm4jp8SgLJxW4"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272133,
+      "name": "Chanson de nuit, Op.15 No.1",
+      "url": "https://open.spotify.com/track/6zdKHXRRPZtfO7V8f0plz4"
+    },
+    {
+      "album": {
+        "name": "Miniatures (British Light Music)",
+        "url": "https://open.spotify.com/album/3LYMNBKaw3LSUtdrswHMEV"
+      },
+      "artists": [
+        {
+          "name": "Gordon Jacob",
+          "url": "https://open.spotify.com/artist/7pTcS325aaWWsWMEpXCyma"
+        },
+        {
+          "name": "RTE Concert Orchestra",
+          "url": "https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk"
+        },
+        {
+          "name": "Ernest Tomlinson",
+          "url": "https://open.spotify.com/artist/7wd8XZb1G0c5ZfY7bIGm0X"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Cradle Song",
+      "url": "https://open.spotify.com/track/5hi1G0Kc0w0SSWXBzxix0Z"
+    },
+    {
+      "album": {
+        "name": "The Lark Ascending collection",
+        "url": "https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy"
+      },
+      "artists": [
+        {
+          "name": "Frederick Delius",
+          "url": "https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349760,
+      "name": "Delius: 2 Pieces for Small Orchestra: No. 1, On Hearing the First Cuckoo in Spring",
+      "url": "https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS"
+    },
+    {
+      "album": {
+        "name": "Farrar: Orchestral Works",
+        "url": "https://open.spotify.com/album/00t3iZLtfVTUOwJODy5yVj"
+      },
+      "artists": [
+        {
+          "name": "Ernest Bristow Farrar",
+          "url": "https://open.spotify.com/artist/4Wl3kuwqeKGqGTUncsDIrP"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Alasdair Mitchell",
+          "url": "https://open.spotify.com/artist/179TL1zyAcddQov56oBvuS"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299600,
+      "name": "English Pastoral Impressions, Op. 26: I. Spring Morning. Allegro moderato",
+      "url": "https://open.spotify.com/track/4TKjVsIUM3qdTG8pATuQyx"
+    },
+    {
+      "album": {
+        "name": "Farrar: Orchestral Music",
+        "url": "https://open.spotify.com/album/7d7lw7XfTF7R6sPNRazx7b"
+      },
+      "artists": [
+        {
+          "name": "John Farrar",
+          "url": "https://open.spotify.com/artist/3qOJwDZ69EXvsUm4st5aau"
+        },
+        {
+          "name": "Alasdair Mitchell",
+          "url": "https://open.spotify.com/artist/179TL1zyAcddQov56oBvuS"
+        },
+        {
+          "name": "Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h"
+        },
+        {
+          "name": "Howard Shelley",
+          "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299600,
+      "name": "English Pastoral Impressions: I. Spring Morning",
+      "url": "https://open.spotify.com/track/2wVBNJmzLw1efmwFl8tSa8"
+    },
+    {
+      "album": {
+        "name": "Elgar: Enigma Variations, Introduction & Allegro",
+        "url": "https://open.spotify.com/album/2vQtQJf7AgGgiz9k4kJZ1e"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264586,
+      "name": "Enigma Variations: Variation IX. Nimrod - Adagio",
+      "url": "https://open.spotify.com/track/1vZNfxBoUaVCMpbzXGpdw9"
+    },
+    {
+      "album": {
+        "name": "Potter: Sinfonia \"De Profundis\" / Finnegan's Wake",
+        "url": "https://open.spotify.com/album/0priyV6TuKyQiMgCyCVdjL"
+      },
+      "artists": [
+        {
+          "name": "Archibald James Potter",
+          "url": "https://open.spotify.com/artist/6rsk1BIXh8MsXa9bMc6DDN"
+        },
+        {
+          "name": "RT\u00c9 National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1UKYHr4TXjVaLFkQ0Y0Frq"
+        },
+        {
+          "name": "Robert Houlihan",
+          "url": "https://open.spotify.com/artist/1GejqauHzKdyqE2GjKrBaf"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516773,
+      "name": "Fantasia Gaelach No. 1",
+      "url": "https://open.spotify.com/track/48Fx5ur3KtKBPGha402Sce"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Tallis Fantasia; Fantasia on Greensleeves; The Lark Ascending etc.",
+        "url": "https://open.spotify.com/album/6u55IhWdtkNdHobaGFTjDU"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Iona Brown",
+          "url": "https://open.spotify.com/artist/4EQ6Hw3KV9S80ZG1swsFN5"
+        },
+        {
+          "name": "Trevor Connah",
+          "url": "https://open.spotify.com/artist/2LigLLnGPPIzLZMyScwQKe"
+        },
+        {
+          "name": "Stephen Shingles",
+          "url": "https://open.spotify.com/artist/0j2P4TtJ6MuqncwEHeRvUN"
+        },
+        {
+          "name": "Kenneth Heath",
+          "url": "https://open.spotify.com/artist/376oz9UwQfpxO5xxgQplBS"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 911750,
+      "name": "Fantasia on a Theme by Thomas Tallis",
+      "url": "https://open.spotify.com/track/6Mf7oE0z8vae3TnyN4mOYk"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Tallis Fantasia; Fantasia on Greensleeves; The Lark Ascending etc.",
+        "url": "https://open.spotify.com/album/49fD8z3scrgWpCnfkGtbSI"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Iona Brown",
+          "url": "https://open.spotify.com/artist/4EQ6Hw3KV9S80ZG1swsFN5"
+        },
+        {
+          "name": "Trevor Connah",
+          "url": "https://open.spotify.com/artist/2LigLLnGPPIzLZMyScwQKe"
+        },
+        {
+          "name": "Stephen Shingles",
+          "url": "https://open.spotify.com/artist/0j2P4TtJ6MuqncwEHeRvUN"
+        },
+        {
+          "name": "Kenneth Heath",
+          "url": "https://open.spotify.com/artist/376oz9UwQfpxO5xxgQplBS"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 913200,
+      "name": "Fantasia on a Theme by Thomas Tallis",
+      "url": "https://open.spotify.com/track/04daeztQJg7lyDDAHJ70rT"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Tallis Fantasia; Fantasia on Greensleeves; The Lark Ascending etc.",
+        "url": "https://open.spotify.com/album/6u55IhWdtkNdHobaGFTjDU"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255106,
+      "name": "Fantasia on Greensleeves",
+      "url": "https://open.spotify.com/track/1Fs1s0aq92xky1T7E7HAs3"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Tallis Fantasia; Fantasia on Greensleeves; The Lark Ascending etc.",
+        "url": "https://open.spotify.com/album/49fD8z3scrgWpCnfkGtbSI"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255106,
+      "name": "Fantasia on Greensleeves",
+      "url": "https://open.spotify.com/track/7ewaVft9jaB3eXlcvWPiVI"
+    },
+    {
+      "album": {
+        "name": "Pastoral Classical",
+        "url": "https://open.spotify.com/album/1hY1021W7uxCJEb1mBVG8M"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257320,
+      "name": "Fantasia on Greensleeves",
+      "url": "https://open.spotify.com/track/3R8Ma4IeuPBPRso8HPyNH0"
+    },
+    {
+      "album": {
+        "name": "Dreams and Fancies: English Music for Solo Guitar",
+        "url": "https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Arnold",
+          "url": "https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e"
+        },
+        {
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123537,
+      "name": "Fantasy for Guitar Op. 107: III. Arietta 1",
+      "url": "https://open.spotify.com/track/5EEYKvwrOhDDKTR2yeaxD7"
+    },
+    {
+      "album": {
+        "name": "Bainton & Clifford: Orchestral Works, Vol. 2",
+        "url": "https://open.spotify.com/album/2bQ0HcPbI1TC9qDvN8EvDY"
+      },
+      "artists": [
+        {
+          "name": "Hubert Clifford",
+          "url": "https://open.spotify.com/artist/0mjpvNyRMwDM8QRULI5v5j"
+        },
+        {
+          "name": "Martyn Brabbins",
+          "url": "https://open.spotify.com/artist/0HVBIS5X7c4Pxa7KnabPMN"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257599,
+      "name": "Five English Nursery Tunes: IV. Curly Locks",
+      "url": "https://open.spotify.com/track/4Tw4RHNQxVrUQPZRUfTPj1"
+    },
+    {
+      "album": {
+        "name": "This is the Day: Music on Royal Occasions",
+        "url": "https://open.spotify.com/album/1EbxP2aC9lpKRDk5lhcO5Y"
+      },
+      "artists": [
+        {
+          "name": "William Walton",
+          "url": "https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93840,
+      "name": "Henry V: Henry V: Touch her soft lips and part",
+      "url": "https://open.spotify.com/track/5WEmDvDiRpE7p3y8SMMAPJ"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Orchestral Works",
+        "url": "https://open.spotify.com/album/1WtkMorn7OOgwNue1ZAMU5"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "New Queen's Hall Orchestra",
+          "url": "https://open.spotify.com/artist/0Glb0asFeeDAMZy9N8v3Qo"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 827533,
+      "name": "In the Fen Country - Symphonic Impression",
+      "url": "https://open.spotify.com/track/0B2HVKYROcV0bsPdzgFOIu"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Orchestral Works (2 CDs)",
+        "url": "https://open.spotify.com/album/0Vh3UlH079RDyXneNNHNiR"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "New Queen's Hall Orchestra",
+          "url": "https://open.spotify.com/artist/0Glb0asFeeDAMZy9N8v3Qo"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 827533,
+      "name": "In the Fen Country - Symphonic Impression",
+      "url": "https://open.spotify.com/track/2LVxtNVlQLyKqKxfLq5cag"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Fantasia on a Theme by Thomas Tallis/The Lark Ascending etc.",
+        "url": "https://open.spotify.com/album/3jdT2sgf1yAfuRZAxIRdq6"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "New Queen's Hall Orchestra",
+          "url": "https://open.spotify.com/artist/0Glb0asFeeDAMZy9N8v3Qo"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 836000,
+      "name": "In the Fen Country - Symphonic Impression",
+      "url": "https://open.spotify.com/track/1pAOVsuV6MvIl3lpLwjeZ2"
+    },
+    {
+      "album": {
+        "name": "Introit: The Music of Gerald Finzi",
+        "url": "https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ"
+      },
+      "artists": [
+        {
+          "name": "Gerald Finzi",
+          "url": "https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP"
+        },
+        {
+          "name": "Thomas Gould",
+          "url": "https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "Nicholas Collon",
+          "url": "https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514559,
+      "name": "Introit, Op. 6",
+      "url": "https://open.spotify.com/track/0vtnj7q97oezVuAPy93sO2"
+    },
+    {
+      "album": {
+        "name": "Purcell / Handel: Theatre Music",
+        "url": "https://open.spotify.com/album/5hDM58o2ym0GwqFVOg3FN5"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Nancy Argenta",
+          "url": "https://open.spotify.com/artist/6AWyB0AhI3gzsAbe9cksLF"
+        },
+        {
+          "name": "CBC Vancouver Orchestra",
+          "url": "https://open.spotify.com/artist/6dAIdF6nONpHdHJ1QPT6Sk"
+        },
+        {
+          "name": "Monica Huggett",
+          "url": "https://open.spotify.com/artist/4E2Rqf4KfXgR2aVt8FvIkh"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85933,
+      "name": "King Arthur, Z. 628, \"The British Worthy\": Air",
+      "url": "https://open.spotify.com/track/3snc9m6T0b0TuxtSEsmP4U"
+    },
+    {
+      "album": {
+        "name": "The Highgrove Suite",
+        "url": "https://open.spotify.com/album/44xkm86Q4MT0xItEpR9FL6"
+      },
+      "artists": [
+        {
+          "name": "Hubert Parry",
+          "url": "https://open.spotify.com/artist/4DAmH51BfQpej5UEP0dZ3u"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Patrick Hawes",
+          "url": "https://open.spotify.com/artist/4gNi0FcGr0mqvS38AmQwBQ"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132080,
+      "name": "Lady Radnor Suite: Slow Minuet",
+      "url": "https://open.spotify.com/track/0P4g2ViuE2tXge6LQX3xxp"
+    },
+    {
+      "album": {
+        "name": "British Composers: Best of British",
+        "url": "https://open.spotify.com/album/2BUQ3aXxlpzk049DuK2JFM"
+      },
+      "artists": [
+        {
+          "name": "Ernest Tomlinson",
+          "url": "https://open.spotify.com/artist/7wd8XZb1G0c5ZfY7bIGm0X"
+        },
+        {
+          "name": "Pro Arte Orchestra",
+          "url": "https://open.spotify.com/artist/7HqusleTbGzo4P4ZByRp82"
+        },
+        {
+          "name": "George Weldon",
+          "url": "https://open.spotify.com/artist/2u600cfCDAs8ydyNfDp226"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Little Serenade",
+      "url": "https://open.spotify.com/track/0gVUeUB3G8BemW1AYxexGM"
+    },
+    {
+      "album": {
+        "name": "Introit: The Music of Gerald Finzi",
+        "url": "https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ"
+      },
+      "artists": [
+        {
+          "name": "Gerald Finzi",
+          "url": "https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP"
+        },
+        {
+          "name": "Amy Dickson",
+          "url": "https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "Nicholas Collon",
+          "url": "https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160240,
+      "name": "Lo, the full, final sacrifice, Op. 26: Amen - Instrumental",
+      "url": "https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW"
+    },
+    {
+      "album": {
+        "name": "Calming Classical",
+        "url": "https://open.spotify.com/album/4B4tvScQ3w1Ef4z4v31BPS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Finzi",
+          "url": "https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP"
+        },
+        {
+          "name": "Amy Dickson",
+          "url": "https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "Nicholas Collon",
+          "url": "https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160240,
+      "name": "Lo, the full, final sacrifice, Op. 26: Amen - Instrumental",
+      "url": "https://open.spotify.com/track/5XzDvuxvJ8U63VO6QGNqF9"
+    },
+    {
+      "album": {
+        "name": "Introit: The Music of Gerald Finzi",
+        "url": "https://open.spotify.com/album/20rh3R6NUkx62DX4CYhnWw"
+      },
+      "artists": [
+        {
+          "name": "Gerald Finzi",
+          "url": "https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP"
+        },
+        {
+          "name": "Amy Dickson",
+          "url": "https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "Nicholas Collon",
+          "url": "https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160240,
+      "name": "Lo, the full, final sacrifice, Op.26: Amen - Instrumental",
+      "url": "https://open.spotify.com/track/5j2W2Ev9tukxk27a8yULOw"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Fantasia on a Theme by Thomas Tallis/The Lark Ascending etc.",
+        "url": "https://open.spotify.com/album/3jdT2sgf1yAfuRZAxIRdq6"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "New Queen's Hall Orchestra",
+          "url": "https://open.spotify.com/artist/0Glb0asFeeDAMZy9N8v3Qo"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642826,
+      "name": "Norfolk Rhapsody No. 1 in E minor",
+      "url": "https://open.spotify.com/track/5ZdxrqbhWVJeA6Y0r4Ic7R"
+    },
+    {
+      "album": {
+        "name": "Queen's Platinum Jubilee Classical Music",
+        "url": "https://open.spotify.com/album/4agVxFg16QsfMcm6fUDWAG"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "New Queen's Hall Orchestra",
+          "url": "https://open.spotify.com/artist/0Glb0asFeeDAMZy9N8v3Qo"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 642826,
+      "name": "Norfolk Rhapsody No. 1 in E minor",
+      "url": "https://open.spotify.com/track/7jwd4yXnnUSW9QaqEmec5x"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Orchestral Works (2 CDs)",
+        "url": "https://open.spotify.com/album/0Vh3UlH079RDyXneNNHNiR"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "New Queen's Hall Orchestra",
+          "url": "https://open.spotify.com/artist/0Glb0asFeeDAMZy9N8v3Qo"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 644600,
+      "name": "Norfolk Rhapsody No.1 in E minor",
+      "url": "https://open.spotify.com/track/1t04Z9hjSHJuwTIbfr0D3H"
+    },
+    {
+      "album": {
+        "name": "African Heritage Symphonic Series, Vol. 1",
+        "url": "https://open.spotify.com/album/2uWmtnkepfi7rZLijWYDhU"
+      },
+      "artists": [
+        {
+          "name": "Samuel Coleridge-Taylor",
+          "url": "https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR"
+        },
+        {
+          "name": "Chicago Sinfonietta",
+          "url": "https://open.spotify.com/artist/0nJUvfl1KRRYUc3ZcQqvXM"
+        },
+        {
+          "name": "Paul Freeman",
+          "url": "https://open.spotify.com/artist/6KIWAOKwNIWHHDFcwbTa3p"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Petite suite de concert, Op. 77: II. Demande et reponse",
+      "url": "https://open.spotify.com/track/21N78cECanDkxanBKedEke"
+    },
+    {
+      "album": {
+        "name": "Handel Variations",
+        "url": "https://open.spotify.com/album/21lcyOutL6OClPcldmOP3Q"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/0dfAHJmRg7JtCbitsageQG"
+    },
+    {
+      "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/21lNww10aD2NEIr6mR7JyJ"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Charlie Siem",
+          "url": "https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS"
+        },
+        {
+          "name": "Paul Goodwin",
+          "url": "https://open.spotify.com/artist/4GamZjZFOQyMp7LNx81GwZ"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174773,
+      "name": "Salut d'amour, Op. 12",
+      "url": "https://open.spotify.com/track/2WZNkbVqATzXscJ6VgYJeo"
+    },
+    {
+      "album": {
+        "name": "The British Project",
+        "url": "https://open.spotify.com/album/7uTezuDJQQG35KVgL8XUCI"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        },
+        {
+          "name": "Mirga Gra\u017einyt\u0117-Tyla",
+          "url": "https://open.spotify.com/artist/5wVbvpGikqowoq81OuLiO5"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290241,
+      "name": "Sospiri Op. 70",
+      "url": "https://open.spotify.com/track/70vYhxEiIea8KDKEX9414h"
+    },
+    {
+      "album": {
+        "name": "Parry: Complete Symphonies",
+        "url": "https://open.spotify.com/album/7BifYyAgu0NW8wrlXKXEsK"
+      },
+      "artists": [
+        {
+          "name": "Hubert Parry",
+          "url": "https://open.spotify.com/artist/4DAmH51BfQpej5UEP0dZ3u"
+        },
+        {
+          "name": "Matthias Bamert",
+          "url": "https://open.spotify.com/artist/0GlFlZLYjxYakEMBgiYvu9"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 656506,
+      "name": "Symphony No. 1 in G Major: II. Andante",
+      "url": "https://open.spotify.com/track/4R0HSUOpKXwSfi6VoflHHv"
+    },
+    {
+      "album": {
+        "name": "Butterworth: Orchestral Works & Works for Voice & Orchestra",
+        "url": "https://open.spotify.com/album/2cSctA5dRq2lbeCNdlCWyQ"
+      },
+      "artists": [
+        {
+          "name": "George Butterworth",
+          "url": "https://open.spotify.com/artist/1ycAL0HM7ZTCRtM96fFh7C"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        },
+        {
+          "name": "Kriss Russman",
+          "url": "https://open.spotify.com/artist/1W61uM2HZabj6UkKcbn252"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364320,
+      "name": "The Banks of Green Willow",
+      "url": "https://open.spotify.com/track/4XlRR3blRopmuH0RBSDizm"
+    },
+    {
+      "album": {
+        "name": "Ireland: Orchestral and Choral Works",
+        "url": "https://open.spotify.com/album/4XqBYLcps6yl9MT0HP0NfH"
+      },
+      "artists": [
+        {
+          "name": "John Ireland",
+          "url": "https://open.spotify.com/artist/0QzZLY6jZif9KbXnxaLIUV"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "The Holy Boy",
+      "url": "https://open.spotify.com/track/29BLAM36BvOVrGIPiqXGJS"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: The Lark Ascending",
+        "url": "https://open.spotify.com/album/45Us2sjqFPyDUfDUbCtD9G"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Andrew Davis",
+          "url": "https://open.spotify.com/artist/1Q9HCWdqbiui9pOsDtYkXW"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Tasmin Little",
+          "url": "https://open.spotify.com/artist/0yB2SgzCCYb9uhjd4BG4pP"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 933075,
+      "name": "The Lark Ascending",
+      "url": "https://open.spotify.com/track/4YPPXfCUuKEWvvsnl64BEA"
+    },
+    {
+      "album": {
+        "name": "And the Bridge Is Love: English Music for Strings",
+        "url": "https://open.spotify.com/album/2l32JEBWyfWR54PFuaKtXR"
+      },
+      "artists": [
+        {
+          "name": "William Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4qNj7MDugKEhRNC8F32tNE"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Julian Lloyd Webber",
+          "url": "https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271853,
+      "name": "The Moon (version for strings)",
+      "url": "https://open.spotify.com/track/05y7FttJgrRiMmq1C5Ut57"
+    },
+    {
+      "album": {
+        "name": "Holst: The Planets",
+        "url": "https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517000,
+      "name": "The Planets, Op. 32: 2. Venus, the Bringer of Peace",
+      "url": "https://open.spotify.com/track/0kEBYD0sMCPtsfpwFLG9aj"
+    },
+    {
+      "album": {
+        "name": "Binge: Elizabethan Serenade, Scottish Rhapsody & Other Works",
+        "url": "https://open.spotify.com/album/1AfPFGePwizjN4vTECGrp9"
+      },
+      "artists": [
+        {
+          "name": "Ronald Binge",
+          "url": "https://open.spotify.com/artist/5gY5dmigRymk4wP0jb7DsG"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Ernest Tomlinson",
+          "url": "https://open.spotify.com/artist/7wd8XZb1G0c5ZfY7bIGm0X"
+        },
+        {
+          "name": "Unknown Artist",
+          "url": "https://open.spotify.com/artist/74Ch11L4833kZ9VfyziR3K"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "The Watermill",
+      "url": "https://open.spotify.com/track/3smnCrtNXulGB5TfRrLYN5"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Tallis Fantasia; Fantasia on Greensleeves; The Lark Ascending etc.",
+        "url": "https://open.spotify.com/album/1oiPWDZq2qXtlfOQUwgL7F"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Iona Brown",
+          "url": "https://open.spotify.com/artist/4EQ6Hw3KV9S80ZG1swsFN5"
+        },
+        {
+          "name": "Trevor Connah",
+          "url": "https://open.spotify.com/artist/2LigLLnGPPIzLZMyScwQKe"
+        },
+        {
+          "name": "Stephen Shingles",
+          "url": "https://open.spotify.com/artist/0j2P4TtJ6MuqncwEHeRvUN"
+        },
+        {
+          "name": "Kenneth Heath",
+          "url": "https://open.spotify.com/artist/376oz9UwQfpxO5xxgQplBS"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 913200,
+      "name": "Vaughan Williams: Tallis Fantasia",
+      "url": "https://open.spotify.com/track/4Y9JhnZTzt3yOI5rjB9Hru"
+    },
+    {
+      "album": {
+        "name": "Quilter: Where the Rainbow Ends / Country Pieces",
+        "url": "https://open.spotify.com/album/426ytgd0lZfnVgbSpPDQeR"
+      },
+      "artists": [
+        {
+          "name": "Roger Quilter",
+          "url": "https://open.spotify.com/artist/3uFNhCH4eh3y1BN0sPwQzC"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "Where the Rainbow Ends Suite (version for orchestra): No. 1a Rainbow Land",
+      "url": "https://open.spotify.com/track/5TUsaGKzu3qz7cJGxUWXcD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVCndJIeGywh"
 }

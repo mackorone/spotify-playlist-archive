@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Rezz",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Rezz &amp; Subtronics",
   "name": "Bass Drop",
   "tracks": [
     {
@@ -326,6 +326,28 @@
       "duration_ms": 150857,
       "name": "Big Bank",
       "url": "https://open.spotify.com/track/4VcoVWo2v3pkhbIqYjgFKf"
+    },
+    {
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260001,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
     },
     {
       "album": {

@@ -1,368 +1,1991 @@
 {
-  "2022-12-31": 156076,
-  "2023-01-01": 156211,
-  "2023-01-02": 156291,
-  "2023-01-03": 156399,
-  "2023-01-04": 156504,
-  "2023-01-05": 156610,
-  "2023-01-06": 156735,
-  "2023-01-07": 156897,
-  "2023-01-08": 156919,
-  "2023-01-09": 157001,
-  "2023-01-10": 157066,
-  "2023-01-11": 157160,
-  "2023-01-12": 157268,
-  "2023-01-13": 157363,
-  "2023-01-14": 157549,
-  "2023-01-15": 157577,
-  "2023-01-16": 157664,
-  "2023-01-17": 157729,
-  "2023-01-18": 157808,
-  "2023-01-19": 157896,
-  "2023-01-20": 157983,
-  "2023-01-21": 158086,
-  "2023-01-22": 158181,
-  "2023-01-23": 158305,
-  "2023-01-24": 158398,
-  "2023-01-25": 158495,
-  "2023-01-26": 158588,
-  "2023-01-27": 158704,
-  "2023-01-28": 158809,
-  "2023-01-29": 158949,
-  "2023-01-30": 159045,
-  "2023-01-31": 159045,
-  "2023-02-01": 159226,
-  "2023-02-02": 159308,
-  "2023-02-03": 159421,
-  "2023-02-04": 159527,
-  "2023-02-05": 159634,
-  "2023-02-06": 159737,
-  "2023-02-07": 159836,
-  "2023-02-08": 160036,
-  "2023-02-09": 160036,
-  "2023-02-10": 160131,
-  "2023-02-11": 160221,
-  "2023-02-12": 160400,
-  "2023-02-13": 160481,
-  "2023-02-14": 160481,
-  "2023-02-15": 160547,
-  "2023-02-16": 160628,
-  "2023-02-17": 160731,
-  "2023-02-18": 160923,
-  "2023-02-19": 160938,
-  "2023-02-20": 161028,
-  "2023-02-21": 161126,
-  "2023-02-22": 161214,
-  "2023-02-23": 161277,
-  "2023-02-24": 161384,
-  "2023-02-25": 161513,
-  "2023-02-26": 161603,
-  "2023-02-27": 161797,
-  "2023-02-28": 161797,
-  "2023-03-01": 161862,
-  "2023-03-02": 161967,
-  "2023-03-03": 162064,
-  "2023-03-04": 162173,
-  "2023-03-05": 162388,
-  "2023-03-06": 162388,
-  "2023-03-07": 162488,
-  "2023-03-08": 162572,
-  "2023-03-09": 162645,
-  "2023-03-10": 162739,
-  "2023-03-11": 162831,
-  "2023-03-12": 162926,
-  "2023-03-13": 163011,
-  "2023-03-14": 163087,
-  "2023-03-15": 163181,
-  "2023-03-16": 163181,
-  "2023-03-17": 163181,
-  "2023-03-18": 163454,
-  "2023-03-19": 163454,
-  "2023-03-20": 163611,
-  "2023-03-21": 163702,
-  "2023-03-22": 163761,
-  "2023-03-23": 163861,
-  "2023-03-24": 163861,
-  "2023-03-25": 164051,
-  "2023-03-26": 164180,
-  "2023-03-27": 164281,
-  "2023-03-28": 164369,
-  "2023-03-29": 164464,
-  "2023-03-30": 164645,
-  "2023-03-31": 164645,
-  "2023-04-01": 164736,
-  "2023-04-02": 164824,
-  "2023-04-03": 164931,
-  "2023-04-04": 165027,
-  "2023-04-05": 165109,
-  "2023-04-06": 165206,
-  "2023-04-07": 165306,
-  "2023-04-09": 165457,
-  "2023-04-10": 165540,
-  "2023-04-11": 165719,
-  "2023-04-12": 165719,
-  "2023-04-13": 165817,
-  "2023-04-14": 165911,
-  "2023-04-15": 166016,
-  "2023-04-16": 166141,
-  "2023-04-17": 166252,
-  "2023-04-18": 166330,
-  "2023-04-19": 166425,
-  "2023-04-20": 166521,
-  "2023-04-21": 166647,
-  "2023-04-22": 166761,
-  "2023-04-23": 166856,
-  "2023-04-24": 166957,
-  "2023-04-25": 167053,
-  "2023-04-26": 167148,
-  "2023-04-27": 167248,
-  "2023-04-28": 167359,
-  "2023-04-29": 167463,
-  "2023-04-30": 167572,
-  "2023-05-01": 167666,
-  "2023-05-02": 167761,
-  "2023-05-03": 167843,
-  "2023-05-04": 167927,
-  "2023-05-05": 168019,
-  "2023-05-06": 168100,
-  "2023-05-07": 168216,
-  "2023-05-08": 168317,
-  "2023-05-09": 168407,
-  "2023-05-10": 168535,
-  "2023-05-11": 168621,
-  "2023-05-12": 168740,
-  "2023-05-13": 168887,
-  "2023-05-14": 169000,
-  "2023-05-15": 169093,
-  "2023-05-16": 169203,
-  "2023-05-17": 169302,
-  "2023-05-18": 169401,
-  "2023-05-19": 169491,
-  "2023-05-20": 169685,
-  "2023-05-21": 169685,
-  "2023-05-22": 169685,
-  "2023-05-23": 169857,
-  "2023-05-24": 170022,
-  "2023-05-25": 170048,
-  "2023-05-26": 170118,
-  "2023-05-27": 170233,
-  "2023-05-28": 170350,
-  "2023-05-29": 170350,
-  "2023-05-30": 170532,
-  "2023-05-31": 170609,
-  "2023-06-01": 170706,
-  "2023-06-02": 170809,
-  "2023-06-03": 170926,
-  "2023-06-04": 171041,
-  "2023-06-05": 171118,
-  "2023-06-06": 171202,
-  "2023-06-07": 171296,
-  "2023-06-08": 171391,
-  "2023-06-09": 171474,
-  "2023-06-10": 171549,
-  "2023-06-11": 171643,
-  "2023-06-12": 171696,
-  "2023-06-13": 171750,
-  "2023-06-14": 171804,
-  "2023-06-15": 171848,
-  "2023-06-16": 171893,
-  "2023-06-17": 171967,
-  "2023-06-18": 172039,
-  "2023-06-19": 172107,
-  "2023-06-20": 172150,
-  "2023-06-21": 172215,
-  "2023-06-22": 172275,
-  "2023-06-23": 172343,
-  "2023-06-24": 172409,
-  "2023-06-25": 172479,
-  "2023-06-26": 172537,
-  "2023-06-27": 172593,
-  "2023-06-28": 172646,
-  "2023-06-29": 172699,
-  "2023-06-30": 172773,
-  "2023-07-01": 172910,
-  "2023-07-02": 172910,
-  "2023-07-03": 172973,
-  "2023-07-04": 173026,
-  "2023-07-05": 173104,
-  "2023-07-06": 173242,
-  "2023-07-07": 173242,
-  "2023-07-08": 173302,
-  "2023-07-09": 173369,
-  "2023-07-10": 173431,
-  "2023-07-11": 173477,
-  "2023-07-12": 173523,
-  "2023-07-13": 173574,
-  "2023-07-14": 173635,
-  "2023-07-15": 173697,
-  "2023-07-16": 173799,
-  "2023-07-17": 173863,
-  "2023-07-18": 173928,
-  "2023-07-19": 173975,
-  "2023-07-20": 174021,
-  "2023-07-21": 174058,
-  "2023-07-22": 174131,
-  "2023-07-23": 174193,
-  "2023-07-24": 174230,
-  "2023-07-25": 174299,
-  "2023-07-26": 174361,
-  "2023-07-27": 174416,
-  "2023-07-28": 174504,
-  "2023-07-29": 174564,
-  "2023-07-30": 174623,
-  "2023-07-31": 174674,
-  "2023-08-01": 174730,
-  "2023-08-02": 174797,
-  "2023-08-03": 174857,
-  "2023-08-04": 174940,
-  "2023-08-05": 175020,
-  "2023-08-06": 175144,
-  "2023-08-07": 175144,
-  "2023-08-08": 175192,
-  "2023-08-09": 175254,
-  "2023-08-10": 175317,
-  "2023-08-11": 175392,
-  "2023-08-12": 175461,
-  "2023-08-13": 175461,
-  "2023-08-14": 175580,
-  "2023-08-15": 175631,
-  "2023-08-16": 175631,
-  "2023-08-17": 175726,
-  "2023-08-18": 175726,
-  "2023-08-19": 175854,
-  "2023-08-20": 175910,
-  "2023-08-21": 175965,
-  "2023-08-22": 176025,
-  "2023-08-23": 176088,
-  "2023-08-24": 176166,
-  "2023-08-25": 176166,
-  "2023-08-26": 176297,
-  "2023-08-27": 176379,
-  "2023-08-28": 176431,
-  "2023-08-29": 176431,
-  "2023-08-30": 176431,
-  "2023-08-31": 176650,
-  "2023-09-01": 176761,
-  "2023-09-02": 176761,
-  "2023-09-03": 176823,
-  "2023-09-04": 176823,
-  "2023-09-05": 176823,
-  "2023-09-06": 177026,
-  "2023-09-07": 177026,
-  "2023-09-08": 177026,
-  "2023-09-09": 177026,
-  "2023-09-10": 177329,
-  "2023-09-11": 177379,
-  "2023-09-12": 177379,
-  "2023-09-13": 177482,
-  "2023-09-14": 177482,
-  "2023-09-15": 177482,
-  "2023-09-16": 177662,
-  "2023-09-17": 177662,
-  "2023-09-18": 177662,
-  "2023-09-19": 177838,
-  "2023-09-20": 177838,
-  "2023-09-21": 177838,
-  "2023-09-22": 178019,
-  "2023-09-23": 178019,
-  "2023-09-24": 178019,
-  "2023-09-25": 178019,
-  "2023-09-26": 178288,
-  "2023-09-27": 178288,
-  "2023-09-28": 178288,
-  "2023-09-29": 178288,
-  "2023-09-30": 178288,
-  "2023-10-01": 178288,
-  "2023-10-02": 178732,
-  "2023-10-03": 178732,
-  "2023-10-04": 178732,
-  "2023-10-05": 178921,
-  "2023-10-06": 178993,
-  "2023-10-07": 178993,
-  "2023-10-08": 178993,
-  "2023-10-09": 178993,
-  "2023-10-10": 178993,
-  "2023-10-11": 179270,
-  "2023-10-12": 179270,
-  "2023-10-13": 179270,
-  "2023-10-14": 179270,
-  "2023-10-15": 179270,
-  "2023-10-16": 179270,
-  "2023-10-17": 179270,
-  "2023-10-18": 179270,
-  "2023-10-19": 179270,
-  "2023-10-20": 179270,
-  "2023-10-21": 179270,
-  "2023-10-22": 179270,
-  "2023-10-23": 179270,
-  "2023-10-24": 179270,
-  "2023-10-25": 179270,
-  "2023-10-26": 179270,
-  "2023-10-27": 179270,
-  "2023-10-28": 179270,
-  "2023-10-29": 179270,
-  "2023-10-30": 179270,
-  "2023-10-31": 179270,
-  "2023-11-01": 179270,
-  "2023-11-02": 179270,
-  "2023-11-03": 179270,
-  "2023-11-04": 179270,
-  "2023-11-05": 179270,
-  "2023-11-06": 179270,
-  "2023-11-07": 179270,
-  "2023-11-08": 179270,
-  "2023-11-09": 179270,
-  "2023-11-10": 179270,
-  "2023-11-11": 180940,
-  "2023-11-12": 180940,
-  "2023-11-13": 180940,
-  "2023-11-14": 180940,
-  "2023-11-15": 180940,
-  "2023-11-16": 180940,
-  "2023-11-17": 180940,
-  "2023-11-18": 180940,
-  "2023-11-19": 180940,
-  "2023-11-20": 180940,
-  "2023-11-21": 180940,
-  "2023-11-22": 180940,
-  "2023-11-23": 180940,
-  "2023-11-24": 180940,
-  "2023-11-25": 180940,
-  "2023-11-26": 180940,
-  "2023-11-27": 180940,
-  "2023-11-28": 180940,
-  "2023-11-29": 180940,
-  "2023-11-30": 180940,
-  "2023-12-01": 180940,
-  "2023-12-02": 180940,
-  "2023-12-03": 180940,
-  "2023-12-04": 180940,
-  "2023-12-05": 180940,
-  "2023-12-06": 180940,
-  "2023-12-07": 180940,
-  "2023-12-08": 180940,
-  "2023-12-09": 180940,
-  "2023-12-10": 180940,
-  "2023-12-11": 180940,
-  "2023-12-12": 180940,
-  "2023-12-13": 180940,
-  "2023-12-14": 182658,
-  "2023-12-15": 182694,
-  "2023-12-16": 182757,
-  "2023-12-17": 182807,
-  "2023-12-18": 182857,
-  "2023-12-19": 182912,
-  "2023-12-20": 182977,
-  "2023-12-21": 183029,
-  "2023-12-22": 183057,
-  "2023-12-23": 183121,
-  "2023-12-24": 183162,
-  "2023-12-25": 183211,
-  "2023-12-26": 183260,
-  "2023-12-27": 183320,
-  "2023-12-30": 183540,
-  "2023-12-31": 183617,
-  "2024-01-01": 183674,
-  "2024-01-02": 183700,
-  "2024-01-03": 183730
+  "2024-01-17": 184204,
+  "date_first_scraped": "2022-12-31",
+  "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
+  "name": "This Is Mot\u00f6rhead",
+  "tracks": [
+    {
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 176360,
+      "name": "(I Won't) Pay Your Price",
+      "url": "https://open.spotify.com/track/3Y7Oo8QVUKqVLU4ojeWkun"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 191066,
+      "name": "(We Are) The Roadcrew",
+      "url": "https://open.spotify.com/track/3AQmSnKePd4DOCxiQxADd8"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "(We Are) The Roadcrew",
+      "url": "https://open.spotify.com/track/4n5OX6FX4jcyow16EP3LaL"
+    },
+    {
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "1916",
+      "url": "https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 166360,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
+    },
+    {
+      "album": {
+        "name": "Another Perfect Day (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4WoY5iVHPMk3duAINlW7MK"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 251000,
+      "name": "Back at the Funny Farm",
+      "url": "https://open.spotify.com/track/6yzBxTrtlBhm8nXbZIBqS1"
+    },
+    {
+      "album": {
+        "name": "Kiss of Death",
+        "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 220813,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/0EXoM6WD1gWVDB6Y2kRH2f"
+    },
+    {
+      "album": {
+        "name": "Bomber (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 220160,
+      "name": "Bomber",
+      "url": "https://open.spotify.com/track/1I4el8B1ZZKF3OGzmXDH9T"
+    },
+    {
+      "album": {
+        "name": "Bomber",
+        "url": "https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Bomber",
+      "url": "https://open.spotify.com/track/5YxehSAZjBMcCIUlxGPit9"
+    },
+    {
+      "album": {
+        "name": "Bastards",
+        "url": "https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299786,
+      "name": "Born To Raise Hell",
+      "url": "https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS"
+    },
+    {
+      "album": {
+        "name": "The World Is Yours",
+        "url": "https://open.spotify.com/album/3w6OQUsrAPQsPUC1fBkdv6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315560,
+      "name": "Brotherhood Of Man",
+      "url": "https://open.spotify.com/track/0hubXoyvsuxkq3UA2tfSeG"
+    },
+    {
+      "album": {
+        "name": "Bullet In Your Brain",
+        "url": "https://open.spotify.com/album/3yn75PrdYZssPvj8kwKpN4"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 197040,
+      "name": "Bullet In Your Brain",
+      "url": "https://open.spotify.com/track/4TDdlKWf59N0wqBTipYzcJ"
+    },
+    {
+      "album": {
+        "name": "Bastards",
+        "url": "https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/4tNx0zCy4Ujs7b5IufkjQb"
+    },
+    {
+      "album": {
+        "name": "Another Perfect Day (40th Anniversary)",
+        "url": "https://open.spotify.com/album/5AsFm6eJVG3335fYjuC5kM"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193294,
+      "name": "Climber (Demo)",
+      "url": "https://open.spotify.com/track/65QBqRSfT0UH5YZPvJuNl7"
+    },
+    {
+      "album": {
+        "name": "Climber (Demo)",
+        "url": "https://open.spotify.com/album/2SY1gA9CauKUlABy2UjWGm"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 193294,
+      "name": "Climber - Demo",
+      "url": "https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "Damage Case",
+      "url": "https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 182133,
+      "name": "Damage Case",
+      "url": "https://open.spotify.com/track/5VtZWqbYE9vkVSbvqNmg2D"
+    },
+    {
+      "album": {
+        "name": "Orgasmatron",
+        "url": "https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 266653,
+      "name": "Deaf Forever",
+      "url": "https://open.spotify.com/track/4U9PDEya4AvkU4yLDRIhsM"
+    },
+    {
+      "album": {
+        "name": "The L\u00f6st Tapes, Vol. 5",
+        "url": "https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250786,
+      "name": "Doctor Rock (Live at Download Festival, Donington, England, June 13, 2008)",
+      "url": "https://open.spotify.com/track/0qkYLlozbEJMgYWrYa8Qyt"
+    },
+    {
+      "album": {
+        "name": "Rock N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274440,
+      "name": "Eat the Rich",
+      "url": "https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V"
+    },
+    {
+      "album": {
+        "name": "Rock N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 274672,
+      "name": "Eat the Rich",
+      "url": "https://open.spotify.com/track/3XDkKF2P82Om5ZjAfxX2Y4"
+    },
+    {
+      "album": {
+        "name": "Bad Magic",
+        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 136866,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/1KYfhcM7K7Ahs6opoG4cd0"
+    },
+    {
+      "album": {
+        "name": "Bad Magic: SERIOUSLY BAD MAGIC",
+        "url": "https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 136866,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/6PMwlVmXwdTUm4B7x5HU4x"
+    },
+    {
+      "album": {
+        "name": "Enter Sandman EP",
+        "url": "https://open.spotify.com/album/6TSfhXrlydR29cJUEh1PyL"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312066,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/1qCzMC5pDBqNp0IhpM63PL"
+    },
+    {
+      "album": {
+        "name": "Enter Sandman EP",
+        "url": "https://open.spotify.com/album/66s72H4sebolFClzRV107Z"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 312066,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/5n9saQtKvEnGKfbGStiMNF"
+    },
+    {
+      "album": {
+        "name": "Bad Magic: SERIOUSLY BAD MAGIC",
+        "url": "https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 140333,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/0nNWoloOqRaGYHnPhWkOPM"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201240,
+      "name": "Fast and Loose",
+      "url": "https://open.spotify.com/track/0lfddylH264Q3wDvHLddFW"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 201240,
+      "name": "Fast and Loose",
+      "url": "https://open.spotify.com/track/5rmrkIsEaff7cwtMNKNrMP"
+    },
+    {
+      "album": {
+        "name": "Another Perfect Day (40th Anniversary)",
+        "url": "https://open.spotify.com/album/5AsFm6eJVG3335fYjuC5kM"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 264106,
+      "name": "Fast One (Demo)",
+      "url": "https://open.spotify.com/track/2DpKUXgAncWPZ5dn3TEZFI"
+    },
+    {
+      "album": {
+        "name": "Another Perfect Day (40th Anniversary)",
+        "url": "https://open.spotify.com/album/7lk5pKAAkajxNUzPylklZq"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 264106,
+      "name": "Fast One - Demo",
+      "url": "https://open.spotify.com/track/5cnKHdAacW4NbCS5SmJSOB"
+    },
+    {
+      "album": {
+        "name": "Bad Magic: SERIOUSLY BAD MAGIC",
+        "url": "https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-21",
+      "duration_ms": 215093,
+      "name": "Fire Storm Hotel",
+      "url": "https://open.spotify.com/track/5lQArH5hK6UjiFPivtuXuU"
+    },
+    {
+      "album": {
+        "name": "Iron Fist (Deluxe 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 188653,
+      "name": "Go to Hell - 40th Anniversary Master",
+      "url": "https://open.spotify.com/track/5UwpBndztMkz2kEeHcj71B"
+    },
+    {
+      "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199499,
+      "name": "God Save The Queen",
+      "url": "https://open.spotify.com/track/0ZuyXUQM2yAFIbmTOTXAbi"
+    },
+    {
+      "album": {
+        "name": "Kiss of Death",
+        "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 261186,
+      "name": "God Was Never on Your Side",
+      "url": "https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi"
+    },
+    {
+      "album": {
+        "name": "Kiss of Death",
+        "url": "https://open.spotify.com/album/3yaIGCUARNrRL6HXa0bioG"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261186,
+      "name": "God Was Never on Your Side",
+      "url": "https://open.spotify.com/track/71LmwNWHchuDe1QwrEKsB1"
+    },
+    {
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149026,
+      "name": "Going To Brazil",
+      "url": "https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr"
+    },
+    {
+      "album": {
+        "name": "Greedy Bastards",
+        "url": "https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252333,
+      "name": "Greedy Bastards",
+      "url": "https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg"
+    },
+    {
+      "album": {
+        "name": "Iron Fist (Deluxe 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 183960,
+      "name": "Heart of Stone - 40th Anniversary Master",
+      "url": "https://open.spotify.com/track/4KskpdMziCdakzY6BJnZYL"
+    },
+    {
+      "album": {
+        "name": "The L\u00f6st Tapes, Vol. 4 (Live in Heilbronn 1984)",
+        "url": "https://open.spotify.com/album/7JZtTrkPykywMjnwnzqwkS"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 201733,
+      "name": "Heart of Stone - Live at Sporthalle, Heilbronn, 29th December 1984",
+      "url": "https://open.spotify.com/track/1UBa4IdLsWdARhUOkxSBSd"
+    },
+    {
+      "album": {
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275160,
+      "name": "Hellraiser",
+      "url": "https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI"
+    },
+    {
+      "album": {
+        "name": "Hellraiser (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3pn1WoMZ18F0Mn2qfWx4Cq"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Lemmy",
+          "url": "https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd"
+        },
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295881,
+      "name": "Hellraiser - 30th Anniversary Edition",
+      "url": "https://open.spotify.com/track/7iD5t0YgWvIIrvZtw6IIxQ"
+    },
+    {
+      "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260720,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
+    },
+    {
+      "album": {
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255800,
+      "name": "I Ain't No Nice Guy",
+      "url": "https://open.spotify.com/track/4cmC2SW1RVZusILirCrsCs"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 256160,
+      "name": "I Ain't No Nice Guy",
+      "url": "https://open.spotify.com/track/7g2wO2WeCBrBHWrgB22Fae"
+    },
+    {
+      "album": {
+        "name": "Overnight Sensation",
+        "url": "https://open.spotify.com/album/1JmTrg7IxFirYtV1S3yKSi"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391693,
+      "name": "I Don't Believe a Word",
+      "url": "https://open.spotify.com/track/4oxS9mNh1GideHUkcEWFYC"
+    },
+    {
+      "album": {
+        "name": "Overnight Sensation",
+        "url": "https://open.spotify.com/album/08NAL0fDCPpDNayW9jjzfB"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 391693,
+      "name": "I Don't Believe a Word",
+      "url": "https://open.spotify.com/track/6k2FLvtZpCcv4uRh4CiBhL"
+    },
+    {
+      "album": {
+        "name": "I Got Mine (Live at Montreux 2007)",
+        "url": "https://open.spotify.com/album/18aWYih7Du1hBqPqJFpvQK"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 284733,
+      "name": "I Got Mine - Live at Montreux, 2007",
+      "url": "https://open.spotify.com/track/2rncIbmaHGpKrmzxEGcBJV"
+    },
+    {
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 193666,
+      "name": "I'm so Bad (Baby I Don't Care)",
+      "url": "https://open.spotify.com/track/1ELzeo039sulsVsbs9eQZO"
+    },
+    {
+      "album": {
+        "name": "Iron Fist (Deluxe 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 159213,
+      "name": "I'm the Doctor - 40th Anniversary Master",
+      "url": "https://open.spotify.com/track/1naK1PsfLp3zjwdY3NxJah"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "In the Name of Tragedy",
+      "url": "https://open.spotify.com/track/0jVKdXM4LQm94SP33rNbi9"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 183640,
+      "name": "In the Name of Tragedy",
+      "url": "https://open.spotify.com/track/1DhCdQMyNLklKGxBheRFxL"
+    },
+    {
+      "album": {
+        "name": "Iron Fist",
+        "url": "https://open.spotify.com/album/728HEEgXa98wouqC8nOdQR"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171906,
+      "name": "Iron Fist",
+      "url": "https://open.spotify.com/track/5GLfSOVpSKwPBlqfjGqvfy"
+    },
+    {
+      "album": {
+        "name": "Iron Fist (Expanded Edition)",
+        "url": "https://open.spotify.com/album/52mCdg2gKWlWbx0prHdejd"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 173560,
+      "name": "Iron Fist",
+      "url": "https://open.spotify.com/track/15uss75SOwMaCQyBma5UlD"
+    },
+    {
+      "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199249,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH"
+    },
+    {
+      "album": {
+        "name": "The Boys Of Ladbroke Grove",
+        "url": "https://open.spotify.com/album/4odEMh1B3bNvNAwIvsjsmU"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        },
+        {
+          "name": "The Brains",
+          "url": "https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 194950,
+      "name": "Keep Us On The Road (Live) [The Brains Mix]",
+      "url": "https://open.spotify.com/track/2WItOigPNcXeMExEKgW9OY"
+    },
+    {
+      "album": {
+        "name": "All the Aces",
+        "url": "https://open.spotify.com/album/13NfYO9kPsulhr0QpklkHF"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278373,
+      "name": "Killed by Death",
+      "url": "https://open.spotify.com/track/2XvVueul226rT8g4DQuKSK"
+    },
+    {
+      "album": {
+        "name": "No Remorse",
+        "url": "https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 279306,
+      "name": "Killed by Death",
+      "url": "https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 253453,
+      "name": "Life's a Bitch",
+      "url": "https://open.spotify.com/track/08qd7KzrvVKwEU5mfBnU8j"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 216053,
+      "name": "Live to Win",
+      "url": "https://open.spotify.com/track/1uFaq4v8tZbF6g7afvC8AD"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/1HAdmhaL114vlPpdp58Ww3"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 164733,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/5R6OAv09z0kAV7Ll8olOH4"
+    },
+    {
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327546,
+      "name": "Love Me Forever",
+      "url": "https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 200080,
+      "name": "Love Me Like a Reptile",
+      "url": "https://open.spotify.com/track/5pHQZlekYdxTQExJWe1KSp"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "Love Me Like a Reptile",
+      "url": "https://open.spotify.com/track/6X072JM07roPKz9TJnYfWw"
+    },
+    {
+      "album": {
+        "name": "The L\u00f6st Tapes, Vol. 4 (Live in Heilbronn 1984)",
+        "url": "https://open.spotify.com/album/7JZtTrkPykywMjnwnzqwkS"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-27",
+      "duration_ms": 185600,
+      "name": "Metropolis - Live at Sporthalle, Heilbronn, 29th December 1984",
+      "url": "https://open.spotify.com/track/0JaWMlB8iyfQ5yC6XM5Gdv"
+    },
+    {
+      "album": {
+        "name": "Motorhead",
+        "url": "https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "Mot\u00f6rhead",
+      "url": "https://open.spotify.com/track/2iZYdnXBFW4r54HhQKanlg"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "No Class",
+      "url": "https://open.spotify.com/track/2iBtKDOBYvIMcGvsbmyYn5"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 158733,
+      "name": "No Class",
+      "url": "https://open.spotify.com/track/7tcjO6ihGhcKi5mRu0jXZy"
+    },
+    {
+      "album": {
+        "name": "One Track Mind (Live at Hull City Hall, 22/6/1983)",
+        "url": "https://open.spotify.com/album/4aQFtLSp3Uux25rRtFrejZ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 245266,
+      "name": "One Track Mind - Live at Hull City Hall, 22/6/1983",
+      "url": "https://open.spotify.com/track/4vRcgWjmYHGToSJyJvEEIu"
+    },
+    {
+      "album": {
+        "name": "Orgasmatron",
+        "url": "https://open.spotify.com/album/6jHRYw1JsUNParuSI9BtFX"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 323640,
+      "name": "Orgasmatron",
+      "url": "https://open.spotify.com/track/3RqNRquosVuv2C6AT6HLGT"
+    },
+    {
+      "album": {
+        "name": "Orgasmatron",
+        "url": "https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324506,
+      "name": "Orgasmatron",
+      "url": "https://open.spotify.com/track/3FXkhPqETD7nkZsr1Vr7qX"
+    },
+    {
+      "album": {
+        "name": "The L\u00f6st Tapes, Vol. 5",
+        "url": "https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 149093,
+      "name": "Over the Top (Live at Download Festival, Donington, England, June 13, 2008)",
+      "url": "https://open.spotify.com/track/1n1mXoqx7fzapLVRKq7ZBp"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 311133,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313520,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Girlschool",
+        "url": "https://open.spotify.com/album/2KN9p0XSOmycyt4ZzMKJGB"
+      },
+      "artists": [
+        {
+          "name": "Girlschool",
+          "url": "https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8"
+        },
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 167226,
+      "name": "Please Don't Touch (feat. Mot\u00f6rhead)",
+      "url": "https://open.spotify.com/track/2fZKtGjQ5vWLDWm6AhfvQ1"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Girlschool",
+        "url": "https://open.spotify.com/album/2CjpvOVU8ThxJM9ghDngID"
+      },
+      "artists": [
+        {
+          "name": "Girlschool",
+          "url": "https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8"
+        },
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167226,
+      "name": "Please Don't Touch (feat. Mot\u00f6rhead)",
+      "url": "https://open.spotify.com/track/6Ud2ag3Rxz2ak0KhLG3KXP"
+    },
+    {
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85866,
+      "name": "Ramones",
+      "url": "https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j"
+    },
+    {
+      "album": {
+        "name": "Rock N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 227746,
+      "name": "Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/2rl61dFTIVAiqa57zr2Ed3"
+    },
+    {
+      "album": {
+        "name": "Rock N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227746,
+      "name": "Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/738MwM1wbo84IO5DaQma1e"
+    },
+    {
+      "album": {
+        "name": "Another Perfect Day (40th Anniversary)",
+        "url": "https://open.spotify.com/album/7lk5pKAAkajxNUzPylklZq"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 235853,
+      "name": "Rock It - 40th Anniversary Master",
+      "url": "https://open.spotify.com/track/05vCecrK8rmXkVwSiO3Hyw"
+    },
+    {
+      "album": {
+        "name": "Mot\u00f6rizer",
+        "url": "https://open.spotify.com/album/47eOItno8EgqlZlSNW54Ru"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126733,
+      "name": "Rock Out",
+      "url": "https://open.spotify.com/track/2iZPbUUBaw4BrIUVsUOf1u"
+    },
+    {
+      "album": {
+        "name": "Mot\u00f6rizer",
+        "url": "https://open.spotify.com/album/35j1gGsSSnTWtOqnRI18hT"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 126733,
+      "name": "Rock Out",
+      "url": "https://open.spotify.com/track/4cEBku3RXce9XiDlNU6WaU"
+    },
+    {
+      "album": {
+        "name": "Rosalie (Live at Montreux, 2007)",
+        "url": "https://open.spotify.com/album/6Df3KmcbNaG4J58O7kKkGp"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 206720,
+      "name": "Rosalie - Live at Montreux, 2007",
+      "url": "https://open.spotify.com/track/1M169HdmaULWWirleVw1Ls"
+    },
+    {
+      "album": {
+        "name": "The 80's Hits",
+        "url": "https://open.spotify.com/album/1vEIgUvhwBKVxR04NUBV0k"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 188906,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2RoyisRkyMf99baMYQx7Vh"
+    },
+    {
+      "album": {
+        "name": "Bad Magic: SERIOUSLY BAD MAGIC",
+        "url": "https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 194666,
+      "name": "Shoot Out All of Your Lights",
+      "url": "https://open.spotify.com/track/2tkoCWcpWLYmZL3pzMrqTK"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 158746,
+      "name": "Shoot You in the Back",
+      "url": "https://open.spotify.com/track/2ubqQVBTjD4RNEmxmqq6qV"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158746,
+      "name": "Shoot You in the Back",
+      "url": "https://open.spotify.com/track/4JNkbfZvtzhySiNSPwiUgm"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Smiling Like a Killer",
+      "url": "https://open.spotify.com/track/0qLSsQuXKJtyksRccXkZSM"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 164733,
+      "name": "Smiling Like a Killer",
+      "url": "https://open.spotify.com/track/2Iwy3PQDlKJ1XwyEoAPiDE"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 160000,
+      "name": "Stay Clean",
+      "url": "https://open.spotify.com/track/0vcccE7VjUlGjOcXYiWXgn"
+    },
+    {
+      "album": {
+        "name": "Overkill (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Stay Clean",
+      "url": "https://open.spotify.com/track/7duLhTL7l71Vcp7IFUdhYd"
+    },
+    {
+      "album": {
+        "name": "Bad Magic",
+        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324426,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx"
+    },
+    {
+      "album": {
+        "name": "Bad Magic: SERIOUSLY BAD MAGIC",
+        "url": "https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 192973,
+      "name": "Teach Them How To Bleed",
+      "url": "https://open.spotify.com/track/03nI9nWuShqmWPhXRngQsy"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 255600,
+      "name": "The Chase Is Better Than the Catch",
+      "url": "https://open.spotify.com/track/1NoJzyzXzZWHGRVYxlM5u6"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256986,
+      "name": "The Chase Is Better Than the Catch",
+      "url": "https://open.spotify.com/track/16CovcwRSjvpz0I4ZFflUv"
+    },
+    {
+      "album": {
+        "name": "Bad Magic: SERIOUSLY BAD MAGIC",
+        "url": "https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 173493,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/0AuxHaBLGxjJ6XuxTwL5fz"
+    },
+    {
+      "album": {
+        "name": "Iron Fist (Deluxe 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 190120,
+      "name": "The Doctor - Jacksons Studio Demos - October 1981",
+      "url": "https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz"
+    },
+    {
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 166000,
+      "name": "The Hammer",
+      "url": "https://open.spotify.com/track/05pK81o3qm38lC1pzXS11K"
+    },
+    {
+      "album": {
+        "name": "Bad Magic",
+        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "Thunder & Lightning",
+      "url": "https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c"
+    },
+    {
+      "album": {
+        "name": "Bad Magic",
+        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245080,
+      "name": "Till The End",
+      "url": "https://open.spotify.com/track/1n89RaAdJ19i3vZHwhcHVu"
+    },
+    {
+      "album": {
+        "name": "March Or Die",
+        "url": "https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Too Good To Be True",
+      "url": "https://open.spotify.com/track/2r4KEU4enoON5SiUCL4HLV"
+    },
+    {
+      "album": {
+        "name": "Bad Magic",
+        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "Victory Or Die",
+      "url": "https://open.spotify.com/track/2CiA531WXraGbovitMCPM1"
+    },
+    {
+      "album": {
+        "name": "We Are Mot\u00f6rhead",
+        "url": "https://open.spotify.com/album/2sqUz4v6XuHJL8k6R1WztI"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 141826,
+      "name": "We Are Mot\u00f6rhead",
+      "url": "https://open.spotify.com/track/29o3PAov4DX7xGSJT2tCdh"
+    },
+    {
+      "album": {
+        "name": "We Are Mot\u00f6rhead",
+        "url": "https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141826,
+      "name": "We Are Mot\u00f6rhead",
+      "url": "https://open.spotify.com/track/2G7ZL3xi1L9Jop31vXfqJu"
+    },
+    {
+      "album": {
+        "name": "Bad Magic",
+        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "When The Sky Comes Looking For You",
+      "url": "https://open.spotify.com/track/7eQC1gaRWWK1bZI4i6ddne"
+    },
+    {
+      "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229499,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "Whorehouse Blues",
+      "url": "https://open.spotify.com/track/29ppgTZrKMFw6bAZmGU4AW"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 232653,
+      "name": "Whorehouse Blues",
+      "url": "https://open.spotify.com/track/6DzNf5yqXpAAtie15t3MVx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UHpXG"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch in the new year, handpicked by our curators\. Cover: DEBBY FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,872 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,894 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 45 | [Repeat](https://open.spotify.com/track/5tcC7bQ4fQ6WkvWxT73ZsI) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [Repeat](https://open.spotify.com/album/3km7QoPe665Vk3e4tEu9Jt) | 3:20 |
 | 46 | [Highly Unrecommended](https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Highly Unrecommended](https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx) | 3:22 |
 | 47 | [28 BARS](https://open.spotify.com/track/1lCz8ybnOw12NH0ZmVXxVH) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [28 BARS](https://open.spotify.com/album/7F1N7nrbUAHUAcaP268cPI) | 1:34 |
-| 48 | [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 |
+| 48 | [27](https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg) | 3:18 |
 | 49 | [Tinted](https://open.spotify.com/track/2UAOiqkLurWgF8rZwUXbsu) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Tinted](https://open.spotify.com/album/1DxF8rtW3YLMsKniifJ0mG) | 2:38 |
 | 50 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 |
 

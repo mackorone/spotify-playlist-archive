@@ -438,7 +438,7 @@
     {
       "album": {
         "name": "Savage Life 2",
-        "url": "https://open.spotify.com/album/06J105KDZyAjOjca0RToRL"
+        "url": "https://open.spotify.com/album/1G0oedmq62QqpuBEeFD7yZ"
       },
       "artists": [
         {
@@ -457,6 +457,32 @@
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250026,
+      "name": "Independent (feat. Boosie Badazz & Lil Phat)",
+      "url": "https://open.spotify.com/track/0tdjTo4xacmmF7eINqaM8z"
+    },
+    {
+      "album": {
+        "name": "Savage Life 2",
+        "url": "https://open.spotify.com/album/06J105KDZyAjOjca0RToRL"
+      },
+      "artists": [
+        {
+          "name": "Webbie",
+          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "Lil Phat",
+          "url": "https://open.spotify.com/artist/3QnIBUOS4mUzs67rZ8r4c9"
+        }
+      ],
+      "date_added": "2021-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
       "duration_ms": 250026,
       "name": "Independent (feat. Lil' Boosie and Lil' Phat)",
       "url": "https://open.spotify.com/track/65D95SmygxGCQGiI64eaZf"

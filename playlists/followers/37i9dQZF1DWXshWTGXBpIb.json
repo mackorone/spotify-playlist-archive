@@ -1,188 +1,605 @@
 {
-  "2023-06-30": 5,
-  "2023-07-01": 15,
-  "2023-07-02": 15,
-  "2023-07-03": 16,
-  "2023-07-04": 19,
-  "2023-07-05": 28,
-  "2023-07-06": 38,
-  "2023-07-07": 38,
-  "2023-07-08": 45,
-  "2023-07-09": 54,
-  "2023-07-10": 58,
-  "2023-07-11": 67,
-  "2023-07-12": 77,
-  "2023-07-13": 86,
-  "2023-07-14": 95,
-  "2023-07-15": 104,
-  "2023-07-16": 119,
-  "2023-07-17": 125,
-  "2023-07-18": 133,
-  "2023-07-19": 149,
-  "2023-07-20": 163,
-  "2023-07-21": 168,
-  "2023-07-22": 184,
-  "2023-07-23": 196,
-  "2023-07-24": 207,
-  "2023-07-25": 217,
-  "2023-07-26": 230,
-  "2023-07-27": 247,
-  "2023-07-28": 262,
-  "2023-07-29": 271,
-  "2023-07-30": 288,
-  "2023-07-31": 300,
-  "2023-08-01": 316,
-  "2023-08-02": 326,
-  "2023-08-03": 338,
-  "2023-08-04": 348,
-  "2023-08-05": 355,
-  "2023-08-06": 372,
-  "2023-08-07": 372,
-  "2023-08-08": 382,
-  "2023-08-09": 393,
-  "2023-08-10": 409,
-  "2023-08-11": 422,
-  "2023-08-12": 432,
-  "2023-08-13": 438,
-  "2023-08-14": 451,
-  "2023-08-15": 479,
-  "2023-08-16": 479,
-  "2023-08-17": 492,
-  "2023-08-18": 509,
-  "2023-08-19": 526,
-  "2023-08-20": 533,
-  "2023-08-21": 539,
-  "2023-08-22": 551,
-  "2023-08-23": 562,
-  "2023-08-24": 571,
-  "2023-08-25": 582,
-  "2023-08-26": 594,
-  "2023-08-27": 605,
-  "2023-08-28": 613,
-  "2023-08-29": 624,
-  "2023-08-30": 639,
-  "2023-08-31": 657,
-  "2023-09-01": 700,
-  "2023-09-02": 700,
-  "2023-09-03": 716,
-  "2023-09-04": 734,
-  "2023-09-05": 752,
-  "2023-09-06": 763,
-  "2023-09-07": 784,
-  "2023-09-08": 804,
-  "2023-09-09": 827,
-  "2023-09-10": 858,
-  "2023-09-11": 879,
-  "2023-09-12": 907,
-  "2023-09-13": 928,
-  "2023-09-14": 957,
-  "2023-09-15": 983,
-  "2023-09-16": 1012,
-  "2023-09-17": 1044,
-  "2023-09-18": 1066,
-  "2023-09-19": 1087,
-  "2023-09-20": 1114,
-  "2023-09-21": 1150,
-  "2023-09-22": 1177,
-  "2023-09-23": 1199,
-  "2023-09-24": 1230,
-  "2023-09-25": 1256,
-  "2023-09-26": 1275,
-  "2023-09-27": 1298,
-  "2023-09-28": 1329,
-  "2023-09-29": 1355,
-  "2023-09-30": 1372,
-  "2023-10-01": 1392,
-  "2023-10-02": 1417,
-  "2023-10-03": 1440,
-  "2023-10-04": 1457,
-  "2023-10-05": 1493,
-  "2023-10-06": 1511,
-  "2023-10-07": 1529,
-  "2023-10-08": 1559,
-  "2023-10-09": 1584,
-  "2023-10-10": 1610,
-  "2023-10-11": 1666,
-  "2023-10-12": 1666,
-  "2023-10-13": 1700,
-  "2023-10-14": 1733,
-  "2023-10-15": 1769,
-  "2023-10-16": 1808,
-  "2023-10-17": 1826,
-  "2023-10-18": 1843,
-  "2023-10-19": 1861,
-  "2023-10-20": 1879,
-  "2023-10-21": 1891,
-  "2023-10-22": 1907,
-  "2023-10-23": 1929,
-  "2023-10-24": 1945,
-  "2023-10-25": 1967,
-  "2023-10-26": 1990,
-  "2023-10-27": 2009,
-  "2023-10-28": 2035,
-  "2023-10-29": 2054,
-  "2023-10-30": 2093,
-  "2023-10-31": 2093,
-  "2023-11-01": 2104,
-  "2023-11-02": 2124,
-  "2023-11-03": 2145,
-  "2023-11-04": 2165,
-  "2023-11-05": 2181,
-  "2023-11-06": 2195,
-  "2023-11-07": 2217,
-  "2023-11-08": 2232,
-  "2023-11-09": 2253,
-  "2023-11-10": 2271,
-  "2023-11-11": 2300,
-  "2023-11-12": 2312,
-  "2023-11-13": 2319,
-  "2023-11-14": 2331,
-  "2023-11-15": 2331,
-  "2023-11-16": 2372,
-  "2023-11-17": 2416,
-  "2023-11-18": 2416,
-  "2023-11-19": 2436,
-  "2023-11-20": 2447,
-  "2023-11-21": 2461,
-  "2023-11-22": 2482,
-  "2023-11-23": 2494,
-  "2023-11-24": 2514,
-  "2023-11-25": 2526,
-  "2023-11-26": 2542,
-  "2023-11-27": 2550,
-  "2023-11-28": 2560,
-  "2023-11-29": 2590,
-  "2023-11-30": 2590,
-  "2023-12-01": 2611,
-  "2023-12-02": 2627,
-  "2023-12-03": 2648,
-  "2023-12-04": 2667,
-  "2023-12-05": 2683,
-  "2023-12-06": 2704,
-  "2023-12-07": 2718,
-  "2023-12-08": 2727,
-  "2023-12-09": 2735,
-  "2023-12-10": 2741,
-  "2023-12-11": 2744,
-  "2023-12-12": 2749,
-  "2023-12-13": 2765,
-  "2023-12-14": 2773,
-  "2023-12-15": 2779,
-  "2023-12-16": 2788,
-  "2023-12-17": 2799,
-  "2023-12-18": 2807,
-  "2023-12-19": 2820,
-  "2023-12-20": 2829,
-  "2023-12-21": 2836,
-  "2023-12-22": 2848,
-  "2023-12-23": 2849,
-  "2023-12-24": 2858,
-  "2023-12-25": 2865,
-  "2023-12-26": 2874,
-  "2023-12-27": 2879,
-  "2023-12-30": 2896,
-  "2023-12-31": 2905,
-  "2024-01-01": 2915,
-  "2024-01-02": 2918,
-  "2024-01-03": 2926
+  "2024-01-17": 3033,
+  "date_first_scraped": "2023-06-30",
+  "description": "Featuring Daddy Yankee, Ozuna, Zion & Lennox  & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
+  "name": "Fuego #057",
+  "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ"
+    },
+    {
+      "album": {
+        "name": "Reggaeton Hall of Fame, Vol. 1",
+        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 157701,
+      "name": "Agarrala",
+      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
+    },
+    {
+      "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala (Remix)",
+      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
+    },
+    {
+      "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala - Remix",
+      "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
+    },
+    {
+      "album": {
+        "name": "Algarete",
+        "url": "https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131497,
+      "name": "Algarete",
+      "url": "https://open.spotify.com/track/6Fxs2k9ds8PQNDWQqZtzoe"
+    },
+    {
+      "album": {
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Roto (Remix)",
+        "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275040,
+      "name": "Coraz\u00f3n Roto - Remix",
+      "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
+    },
+    {
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226520,
+      "name": "Dile Que Tu Me Quieres",
+      "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
+    },
+    {
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "DON & TEGO",
+      "url": "https://open.spotify.com/track/6wTX1zUPc2qdQnDZnVhuoV"
+    },
+    {
+      "album": {
+        "name": "Los Reyes del Perreo",
+        "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "name": "Baby Ranks",
+          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164693,
+      "name": "El Tiburon",
+      "url": "https://open.spotify.com/track/7xzcR7ChznJF5KgDS7exYA"
+    },
+    {
+      "album": {
+        "name": "En To Lao",
+        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195033,
+      "name": "En To Lao",
+      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
+    },
+    {
+      "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235525,
+      "name": "ID",
+      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
+    },
+    {
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154626,
+      "name": "Kaleidosc\u00f3pica",
+      "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ"
+    },
+    {
+      "album": {
+        "name": "Los Bandoleros Reloaded",
+        "url": "https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265586,
+      "name": "La Vecinita",
+      "url": "https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu"
+    },
+    {
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+    },
+    {
+      "album": {
+        "name": "Club16, Jota Rosa Presents Vol. 2",
+        "url": "https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d"
+      },
+      "artists": [
+        {
+          "name": "Club16",
+          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
+        },
+        {
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+        },
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "Motel Fantasy (feat. Jovaan)",
+      "url": "https://open.spotify.com/track/71JZR24WV5houJR9Ul4BrQ"
+    },
+    {
+      "album": {
+        "name": "Mas Flow, Vol. 1",
+        "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
+      },
+      "artists": [
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "M\u00e9tele Saz\u00f3n",
+      "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
+    },
+    {
+      "album": {
+        "name": "Wisin Y Yandel Presentan: Los Vaqueros",
+        "url": "https://open.spotify.com/album/5gHKtewt6CtuGLiAj2m3XC"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232493,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/2cOLPCuhMrTzrErYHwVFAj"
+    },
+    {
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
+    },
+    {
+      "album": {
+        "name": "Rolls-Royce",
+        "url": "https://open.spotify.com/album/4oqhWvUVK4EunS0ALx8svu"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205901,
+      "name": "Rolls-Royce",
+      "url": "https://open.spotify.com/track/0MvBwodAYMxyL4VHqFI1QM"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295176,
+      "name": "Safaera",
+      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
+    },
+    {
+      "album": {
+        "name": "Tentretiene",
+        "url": "https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "Tentretiene",
+      "url": "https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "TU AMIGO",
+      "url": "https://open.spotify.com/track/25EpqnbVRzegM4RxXlHhDW"
+    },
+    {
+      "album": {
+        "name": "TU LA TIENES",
+        "url": "https://open.spotify.com/album/2eT29jUyCd1xjNVr1DFYT9"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169994,
+      "name": "TU LA TIENES",
+      "url": "https://open.spotify.com/track/7mGr665pnl56czu20KVroU"
+    },
+    {
+      "album": {
+        "name": "UNA GATITA",
+        "url": "https://open.spotify.com/album/5NvXFJGob15teasQMemNSs"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "UNA GATITA",
+      "url": "https://open.spotify.com/track/118L1MNuM8D0mAlK2i0kpl"
+    },
+    {
+      "album": {
+        "name": "Yankee 150",
+        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242667,
+      "name": "Yankee 150",
+      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
+    },
+    {
+      "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232019,
+      "name": "Yo Voy (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXshWTGXBpIb"
 }

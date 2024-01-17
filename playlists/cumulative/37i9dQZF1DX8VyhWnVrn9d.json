@@ -2183,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128186,
+      "name": "Tabaco Mascao",
+      "url": "https://open.spotify.com/track/30Q48f3hKqmUaTP4s35JeD"
+    },
+    {
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/19sUt3izOtuq4tRI5iSwe7"
       },

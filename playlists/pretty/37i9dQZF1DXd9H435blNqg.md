@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,802 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,196 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 3 | [Come on Now \(Take From Me\)](https://open.spotify.com/track/2IXKXOsEJNTuKvs0eq5h3H) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 3:32 |
 | 4 | [American Cars](https://open.spotify.com/track/5iAIpBBCsNhxXFismnBeQV) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Thunder Above You](https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa) | 3:45 |
 | 5 | [Oh My My](https://open.spotify.com/track/3f8WNNyHJMxYBCTAoRTPle) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Oh My My](https://open.spotify.com/album/3cntJ1GcTKQC7F8OqMuFY8) | 3:39 |
-| 6 | [I Wish I Was An Angel](https://open.spotify.com/track/2Efifc8Ly5EZTt8Dvk7M3A) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 2:22 |
+| 6 | [The Streets](https://open.spotify.com/track/5NawOYMMhBtYX5zv1Fea8O) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [The Streets](https://open.spotify.com/album/5tjucbZZ4HhSKF5LPtfF0x) | 2:43 |
 | 7 | [Loud And Clear](https://open.spotify.com/track/2c4ZAjhZluqa2toXdydyxl) | [The Family Rain](https://open.spotify.com/artist/60HxU5pfO88nduyocuUuYE) | [Machete Western](https://open.spotify.com/album/0OMxSOoXck7ZxWjTpRXuLI) | 3:09 |
 | 8 | [Don't You Touch The Radio](https://open.spotify.com/track/5DBDBwRbdSx2d0GLg3pwzD) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Don't You Touch The Radio](https://open.spotify.com/album/1LYwctumRpZsbrH1uDl02R) | 3:39 |
 | 9 | [Baby I Call Hell \- Deap Vally's Version](https://open.spotify.com/track/5TJlACqFa0qpuz37s4juHA) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Baby I Call Hell \(Deap Vally's Version\)](https://open.spotify.com/album/2RyOnjlZ5xBcyr6ldyQDmI) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `MCwzNTNjMTE1ZjIxYmMxYTQ3ZWRiZDNmYTAzNmE0YmFiNzFjZDdjZGEz`
+Snapshot ID: `MCw4NjllYTBlNWU4NzcxOWJlNzAxMzkzM2RjNWZmYzc0ZmIzZjhiYmM0`

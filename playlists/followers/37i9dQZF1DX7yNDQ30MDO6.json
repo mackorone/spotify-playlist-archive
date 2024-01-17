@@ -1,735 +1,909 @@
 {
-  "2021-12-25": 78073,
-  "2021-12-26": 78085,
-  "2021-12-27": 78130,
-  "2021-12-28": 78130,
-  "2021-12-29": 78143,
-  "2021-12-30": 78161,
-  "2021-12-31": 78181,
-  "2022-01-01": 78222,
-  "2022-01-02": 78240,
-  "2022-01-03": 78244,
-  "2022-01-04": 78257,
-  "2022-01-05": 78257,
-  "2022-01-06": 78260,
-  "2022-01-07": 78287,
-  "2022-01-08": 78320,
-  "2022-01-09": 78322,
-  "2022-01-10": 78351,
-  "2022-01-11": 78347,
-  "2022-01-12": 78353,
-  "2022-01-13": 78353,
-  "2022-01-14": 78353,
-  "2022-01-15": 78353,
-  "2022-01-16": 78353,
-  "2022-01-17": 78353,
-  "2022-01-18": 78353,
-  "2022-01-19": 78353,
-  "2022-01-20": 78353,
-  "2022-01-21": 78353,
-  "2022-01-22": 78353,
-  "2022-01-23": 78353,
-  "2022-01-24": 78353,
-  "2022-01-25": 78353,
-  "2022-01-26": 78353,
-  "2022-01-27": 78353,
-  "2022-01-28": 78353,
-  "2022-01-29": 78353,
-  "2022-01-30": 78353,
-  "2022-01-31": 78353,
-  "2022-02-01": 78353,
-  "2022-02-02": 78353,
-  "2022-02-03": 78353,
-  "2022-02-04": 78353,
-  "2022-02-05": 78353,
-  "2022-02-06": 78353,
-  "2022-02-07": 78353,
-  "2022-02-08": 78353,
-  "2022-02-09": 78353,
-  "2022-02-10": 78353,
-  "2022-02-11": 78353,
-  "2022-02-12": 78353,
-  "2022-02-13": 78353,
-  "2022-02-14": 78353,
-  "2022-02-15": 78353,
-  "2022-02-16": 78353,
-  "2022-02-17": 78353,
-  "2022-02-18": 78353,
-  "2022-02-19": 78353,
-  "2022-02-20": 78353,
-  "2022-02-21": 78353,
-  "2022-02-22": 78353,
-  "2022-02-23": 78353,
-  "2022-02-24": 78353,
-  "2022-02-25": 78353,
-  "2022-02-26": 78353,
-  "2022-02-27": 78353,
-  "2022-02-28": 78353,
-  "2022-03-01": 78353,
-  "2022-03-02": 78353,
-  "2022-03-03": 78353,
-  "2022-03-04": 78353,
-  "2022-03-05": 78353,
-  "2022-03-06": 78353,
-  "2022-03-07": 78353,
-  "2022-03-08": 78353,
-  "2022-03-09": 78353,
-  "2022-03-10": 78353,
-  "2022-03-11": 78353,
-  "2022-03-12": 78353,
-  "2022-03-13": 78353,
-  "2022-03-14": 78353,
-  "2022-03-15": 78353,
-  "2022-03-16": 78353,
-  "2022-03-17": 78353,
-  "2022-03-18": 78353,
-  "2022-03-19": 78353,
-  "2022-03-20": 78353,
-  "2022-03-21": 78353,
-  "2022-03-22": 78353,
-  "2022-03-23": 78353,
-  "2022-03-24": 78353,
-  "2022-03-25": 78353,
-  "2022-03-26": 78353,
-  "2022-03-27": 78353,
-  "2022-03-28": 78353,
-  "2022-03-30": 78353,
-  "2022-03-31": 78353,
-  "2022-04-01": 78353,
-  "2022-04-02": 78353,
-  "2022-04-03": 78353,
-  "2022-04-04": 78353,
-  "2022-04-05": 78353,
-  "2022-04-06": 78353,
-  "2022-04-07": 78353,
-  "2022-04-08": 78353,
-  "2022-04-09": 78353,
-  "2022-04-10": 78353,
-  "2022-04-11": 78353,
-  "2022-04-12": 78353,
-  "2022-04-13": 78353,
-  "2022-04-14": 78353,
-  "2022-04-15": 78353,
-  "2022-04-16": 78353,
-  "2022-04-17": 78353,
-  "2022-04-18": 78353,
-  "2022-04-19": 78353,
-  "2022-04-20": 78353,
-  "2022-04-21": 78353,
-  "2022-04-22": 78353,
-  "2022-04-23": 78353,
-  "2022-04-24": 78353,
-  "2022-04-25": 78353,
-  "2022-04-26": 78353,
-  "2022-04-27": 78353,
-  "2022-04-28": 78353,
-  "2022-04-29": 78353,
-  "2022-04-30": 78353,
-  "2022-05-01": 78353,
-  "2022-05-02": 78353,
-  "2022-05-03": 78353,
-  "2022-05-04": 78353,
-  "2022-05-05": 78353,
-  "2022-05-06": 78353,
-  "2022-05-07": 78353,
-  "2022-05-08": 78353,
-  "2022-05-09": 78353,
-  "2022-05-10": 78353,
-  "2022-05-11": 78353,
-  "2022-05-12": 78353,
-  "2022-05-13": 78353,
-  "2022-05-14": 78353,
-  "2022-05-15": 78353,
-  "2022-05-16": 78353,
-  "2022-05-17": 78353,
-  "2022-05-18": 78353,
-  "2022-05-19": 78353,
-  "2022-05-20": 78353,
-  "2022-05-21": 78353,
-  "2022-05-22": 78353,
-  "2022-05-23": 78353,
-  "2022-05-24": 78353,
-  "2022-05-25": 78353,
-  "2022-05-26": 78353,
-  "2022-05-27": 78353,
-  "2022-05-28": 78353,
-  "2022-05-29": 78353,
-  "2022-05-30": 78353,
-  "2022-05-31": 78353,
-  "2022-06-01": 78353,
-  "2022-06-02": 78353,
-  "2022-06-03": 78353,
-  "2022-06-04": 78353,
-  "2022-06-05": 78353,
-  "2022-06-06": 78353,
-  "2022-06-07": 78353,
-  "2022-06-08": 78353,
-  "2022-06-09": 78353,
-  "2022-06-10": 78353,
-  "2022-06-11": 78353,
-  "2022-06-12": 78353,
-  "2022-06-13": 78353,
-  "2022-06-14": 78353,
-  "2022-06-15": 78353,
-  "2022-06-16": 78353,
-  "2022-06-17": 78353,
-  "2022-06-18": 78353,
-  "2022-06-19": 78353,
-  "2022-06-20": 78353,
-  "2022-06-21": 78353,
-  "2022-06-22": 78353,
-  "2022-06-23": 78353,
-  "2022-06-24": 78353,
-  "2022-06-25": 78353,
-  "2022-06-26": 78353,
-  "2022-06-27": 78353,
-  "2022-06-28": 78353,
-  "2022-06-29": 78353,
-  "2022-06-30": 78353,
-  "2022-07-01": 78353,
-  "2022-07-02": 78353,
-  "2022-07-03": 78353,
-  "2022-07-04": 78353,
-  "2022-07-05": 78353,
-  "2022-07-06": 78353,
-  "2022-07-07": 78353,
-  "2022-07-08": 78353,
-  "2022-07-09": 78353,
-  "2022-07-10": 78353,
-  "2022-07-11": 78353,
-  "2022-07-12": 78353,
-  "2022-07-13": 78353,
-  "2022-07-14": 78353,
-  "2022-07-15": 78353,
-  "2022-07-16": 78353,
-  "2022-07-17": 78353,
-  "2022-07-18": 78353,
-  "2022-07-19": 78353,
-  "2022-07-20": 78353,
-  "2022-07-21": 78353,
-  "2022-07-22": 78353,
-  "2022-07-23": 78353,
-  "2022-07-24": 78353,
-  "2022-07-25": 78353,
-  "2022-07-26": 78353,
-  "2022-07-27": 78353,
-  "2022-07-28": 78353,
-  "2022-07-29": 78353,
-  "2022-07-30": 78353,
-  "2022-07-31": 78353,
-  "2022-08-01": 78353,
-  "2022-08-02": 78353,
-  "2022-08-03": 78353,
-  "2022-08-04": 78353,
-  "2022-08-05": 78353,
-  "2022-08-06": 78353,
-  "2022-08-07": 78353,
-  "2022-08-08": 78353,
-  "2022-08-09": 78353,
-  "2022-08-10": 78353,
-  "2022-08-11": 78353,
-  "2022-08-12": 78353,
-  "2022-08-13": 78353,
-  "2022-08-14": 78353,
-  "2022-08-15": 78353,
-  "2022-08-16": 78353,
-  "2022-08-17": 78353,
-  "2022-08-18": 78353,
-  "2022-08-19": 78353,
-  "2022-08-20": 78353,
-  "2022-08-21": 78353,
-  "2022-08-22": 78353,
-  "2022-08-23": 78353,
-  "2022-08-24": 78353,
-  "2022-08-25": 78353,
-  "2022-08-26": 78353,
-  "2022-08-27": 78353,
-  "2022-08-28": 78353,
-  "2022-08-29": 78353,
-  "2022-08-30": 78353,
-  "2022-08-31": 78353,
-  "2022-09-01": 78353,
-  "2022-09-02": 78353,
-  "2022-09-03": 78353,
-  "2022-09-04": 78353,
-  "2022-09-05": 78353,
-  "2022-09-06": 78353,
-  "2022-09-07": 78353,
-  "2022-09-09": 78353,
-  "2022-09-10": 78353,
-  "2022-09-11": 78353,
-  "2022-09-12": 78353,
-  "2022-09-13": 78353,
-  "2022-09-15": 78353,
-  "2022-09-16": 78353,
-  "2022-09-17": 78353,
-  "2022-09-18": 78353,
-  "2022-09-19": 78353,
-  "2022-09-20": 78353,
-  "2022-09-21": 78353,
-  "2022-09-22": 78353,
-  "2022-09-23": 78353,
-  "2022-09-24": 78353,
-  "2022-09-25": 78353,
-  "2022-09-26": 78353,
-  "2022-09-27": 78353,
-  "2022-09-28": 78353,
-  "2022-09-29": 78353,
-  "2022-09-30": 78353,
-  "2022-10-01": 78353,
-  "2022-10-02": 78353,
-  "2022-10-03": 78353,
-  "2022-10-04": 78353,
-  "2022-10-05": 78353,
-  "2022-10-06": 78353,
-  "2022-10-07": 78353,
-  "2022-10-08": 78353,
-  "2022-10-09": 78353,
-  "2022-10-10": 78353,
-  "2022-10-11": 78353,
-  "2022-10-12": 78353,
-  "2022-10-13": 78353,
-  "2022-10-14": 78353,
-  "2022-10-15": 78353,
-  "2022-10-16": 78353,
-  "2022-10-17": 78353,
-  "2022-10-18": 78353,
-  "2022-10-19": 78353,
-  "2022-10-20": 78353,
-  "2022-10-21": 78353,
-  "2022-10-22": 78353,
-  "2022-10-23": 78353,
-  "2022-10-24": 78353,
-  "2022-10-25": 78353,
-  "2022-10-26": 78353,
-  "2022-10-27": 78353,
-  "2022-10-28": 78353,
-  "2022-10-29": 78353,
-  "2022-10-30": 78353,
-  "2022-10-31": 78353,
-  "2022-11-01": 78353,
-  "2022-11-02": 78353,
-  "2022-11-03": 78353,
-  "2022-11-04": 78353,
-  "2022-11-05": 78353,
-  "2022-11-06": 78353,
-  "2022-11-07": 78353,
-  "2022-11-08": 78353,
-  "2022-11-09": 78353,
-  "2022-11-10": 78353,
-  "2022-11-11": 78353,
-  "2022-11-12": 78353,
-  "2022-11-13": 78353,
-  "2022-11-14": 78353,
-  "2022-11-15": 78353,
-  "2022-11-16": 78353,
-  "2022-11-17": 78353,
-  "2022-11-18": 78353,
-  "2022-11-19": 78353,
-  "2022-11-20": 78353,
-  "2022-11-21": 78353,
-  "2022-11-22": 78353,
-  "2022-11-23": 78353,
-  "2022-11-24": 78353,
-  "2022-11-25": 78353,
-  "2022-11-26": 78353,
-  "2022-11-27": 78353,
-  "2022-11-28": 78353,
-  "2022-11-29": 78353,
-  "2022-11-30": 78353,
-  "2022-12-01": 78353,
-  "2022-12-02": 78353,
-  "2022-12-03": 78353,
-  "2022-12-04": 78353,
-  "2022-12-05": 78353,
-  "2022-12-06": 78353,
-  "2022-12-07": 78353,
-  "2022-12-08": 78353,
-  "2022-12-09": 78353,
-  "2022-12-10": 78353,
-  "2022-12-11": 78353,
-  "2022-12-12": 78353,
-  "2022-12-13": 78353,
-  "2022-12-14": 78353,
-  "2022-12-15": 78353,
-  "2022-12-16": 78353,
-  "2022-12-17": 78353,
-  "2022-12-18": 78353,
-  "2022-12-19": 78353,
-  "2022-12-20": 78353,
-  "2022-12-21": 78353,
-  "2022-12-22": 78353,
-  "2022-12-24": 78353,
-  "2022-12-25": 78353,
-  "2022-12-26": 78353,
-  "2022-12-27": 78353,
-  "2022-12-28": 78353,
-  "2022-12-29": 78353,
-  "2022-12-30": 78353,
-  "2022-12-31": 78353,
-  "2023-01-01": 78353,
-  "2023-01-02": 78353,
-  "2023-01-03": 78353,
-  "2023-01-04": 78353,
-  "2023-01-05": 78353,
-  "2023-01-06": 78353,
-  "2023-01-07": 78353,
-  "2023-01-08": 78353,
-  "2023-01-09": 78353,
-  "2023-01-10": 78353,
-  "2023-01-11": 78353,
-  "2023-01-12": 78353,
-  "2023-01-13": 78353,
-  "2023-01-14": 78353,
-  "2023-01-15": 78353,
-  "2023-01-16": 78353,
-  "2023-01-17": 78353,
-  "2023-01-18": 78353,
-  "2023-01-19": 78353,
-  "2023-01-20": 78353,
-  "2023-01-21": 78353,
-  "2023-01-22": 78353,
-  "2023-01-23": 78353,
-  "2023-01-24": 78353,
-  "2023-01-25": 78353,
-  "2023-01-26": 78353,
-  "2023-01-27": 78353,
-  "2023-01-28": 78353,
-  "2023-01-29": 78353,
-  "2023-01-30": 78353,
-  "2023-01-31": 78353,
-  "2023-02-01": 78353,
-  "2023-02-02": 78353,
-  "2023-02-03": 78353,
-  "2023-02-04": 78353,
-  "2023-02-05": 78353,
-  "2023-02-06": 78353,
-  "2023-02-07": 78353,
-  "2023-02-08": 78353,
-  "2023-02-09": 78353,
-  "2023-02-10": 78353,
-  "2023-02-11": 78353,
-  "2023-02-12": 78353,
-  "2023-02-13": 78353,
-  "2023-02-14": 78353,
-  "2023-02-15": 78353,
-  "2023-02-16": 78353,
-  "2023-02-17": 78353,
-  "2023-02-18": 78353,
-  "2023-02-19": 78353,
-  "2023-02-20": 78353,
-  "2023-02-21": 78353,
-  "2023-02-22": 78353,
-  "2023-02-23": 78353,
-  "2023-02-24": 78353,
-  "2023-02-25": 78353,
-  "2023-02-26": 78353,
-  "2023-02-27": 78353,
-  "2023-02-28": 78353,
-  "2023-03-01": 78353,
-  "2023-03-02": 78353,
-  "2023-03-03": 78353,
-  "2023-03-04": 78353,
-  "2023-03-05": 78353,
-  "2023-03-06": 78353,
-  "2023-03-07": 78353,
-  "2023-03-08": 78353,
-  "2023-03-09": 78353,
-  "2023-03-10": 78353,
-  "2023-03-11": 78353,
-  "2023-03-12": 78353,
-  "2023-03-13": 78353,
-  "2023-03-14": 78353,
-  "2023-03-15": 78353,
-  "2023-03-16": 78353,
-  "2023-03-17": 78353,
-  "2023-03-18": 78353,
-  "2023-03-19": 78353,
-  "2023-03-20": 78353,
-  "2023-03-21": 78353,
-  "2023-03-22": 78353,
-  "2023-03-23": 78353,
-  "2023-03-24": 78353,
-  "2023-03-25": 78353,
-  "2023-03-26": 78353,
-  "2023-03-27": 78353,
-  "2023-03-28": 78353,
-  "2023-03-29": 78353,
-  "2023-03-30": 78353,
-  "2023-03-31": 78353,
-  "2023-04-01": 78353,
-  "2023-04-02": 78353,
-  "2023-04-03": 78353,
-  "2023-04-04": 78353,
-  "2023-04-05": 78353,
-  "2023-04-06": 78353,
-  "2023-04-07": 78353,
-  "2023-04-09": 78353,
-  "2023-04-10": 78353,
-  "2023-04-11": 78353,
-  "2023-04-12": 78353,
-  "2023-04-13": 78353,
-  "2023-04-14": 78353,
-  "2023-04-15": 78353,
-  "2023-04-16": 78353,
-  "2023-04-17": 78353,
-  "2023-04-18": 78353,
-  "2023-04-19": 78353,
-  "2023-04-20": 78353,
-  "2023-04-21": 78353,
-  "2023-04-22": 78353,
-  "2023-04-23": 78353,
-  "2023-04-24": 78353,
-  "2023-04-25": 78353,
-  "2023-04-26": 78353,
-  "2023-04-27": 78353,
-  "2023-04-28": 78353,
-  "2023-04-29": 78353,
-  "2023-04-30": 78353,
-  "2023-05-01": 78353,
-  "2023-05-02": 78353,
-  "2023-05-03": 78353,
-  "2023-05-04": 78353,
-  "2023-05-05": 78353,
-  "2023-05-06": 78353,
-  "2023-05-07": 78353,
-  "2023-05-08": 78353,
-  "2023-05-09": 78353,
-  "2023-05-10": 78353,
-  "2023-05-11": 78353,
-  "2023-05-12": 78353,
-  "2023-05-13": 78353,
-  "2023-05-14": 78353,
-  "2023-05-15": 78353,
-  "2023-05-16": 78353,
-  "2023-05-17": 78353,
-  "2023-05-18": 78353,
-  "2023-05-19": 78353,
-  "2023-05-20": 78353,
-  "2023-05-21": 78353,
-  "2023-05-22": 78353,
-  "2023-05-23": 78353,
-  "2023-05-24": 78353,
-  "2023-05-25": 78353,
-  "2023-05-26": 78353,
-  "2023-05-27": 78353,
-  "2023-05-28": 78353,
-  "2023-05-29": 78353,
-  "2023-05-30": 78353,
-  "2023-05-31": 78353,
-  "2023-06-01": 78353,
-  "2023-06-02": 78353,
-  "2023-06-03": 78353,
-  "2023-06-04": 78353,
-  "2023-06-05": 78353,
-  "2023-06-06": 78353,
-  "2023-06-07": 78353,
-  "2023-06-08": 78353,
-  "2023-06-09": 78353,
-  "2023-06-10": 78353,
-  "2023-06-11": 78353,
-  "2023-06-12": 78353,
-  "2023-06-13": 78353,
-  "2023-06-14": 78353,
-  "2023-06-15": 78353,
-  "2023-06-16": 78353,
-  "2023-06-17": 78353,
-  "2023-06-18": 78353,
-  "2023-06-19": 78353,
-  "2023-06-20": 78353,
-  "2023-06-21": 78353,
-  "2023-06-22": 78353,
-  "2023-06-23": 78353,
-  "2023-06-24": 78353,
-  "2023-06-25": 78353,
-  "2023-06-26": 78353,
-  "2023-06-27": 78353,
-  "2023-06-28": 78353,
-  "2023-06-29": 78353,
-  "2023-06-30": 78353,
-  "2023-07-01": 78353,
-  "2023-07-02": 78353,
-  "2023-07-03": 78353,
-  "2023-07-04": 78353,
-  "2023-07-05": 78353,
-  "2023-07-06": 78353,
-  "2023-07-07": 78353,
-  "2023-07-08": 78353,
-  "2023-07-09": 78353,
-  "2023-07-10": 78353,
-  "2023-07-11": 78353,
-  "2023-07-12": 78353,
-  "2023-07-13": 78353,
-  "2023-07-14": 78353,
-  "2023-07-15": 78353,
-  "2023-07-16": 78353,
-  "2023-07-17": 78353,
-  "2023-07-18": 78353,
-  "2023-07-19": 78353,
-  "2023-07-20": 78353,
-  "2023-07-21": 78353,
-  "2023-07-22": 78353,
-  "2023-07-23": 78353,
-  "2023-07-24": 78353,
-  "2023-07-25": 78353,
-  "2023-07-26": 78353,
-  "2023-07-27": 78353,
-  "2023-07-28": 78353,
-  "2023-07-29": 78353,
-  "2023-07-30": 78353,
-  "2023-07-31": 78353,
-  "2023-08-01": 78353,
-  "2023-08-02": 78353,
-  "2023-08-03": 78353,
-  "2023-08-04": 78353,
-  "2023-08-05": 78353,
-  "2023-08-06": 78353,
-  "2023-08-07": 78353,
-  "2023-08-08": 78353,
-  "2023-08-09": 78353,
-  "2023-08-10": 78353,
-  "2023-08-11": 78353,
-  "2023-08-12": 78353,
-  "2023-08-13": 78353,
-  "2023-08-14": 78353,
-  "2023-08-15": 78353,
-  "2023-08-16": 78353,
-  "2023-08-17": 78353,
-  "2023-08-18": 78353,
-  "2023-08-19": 78353,
-  "2023-08-20": 78353,
-  "2023-08-21": 78353,
-  "2023-08-22": 78353,
-  "2023-08-23": 78353,
-  "2023-08-24": 78353,
-  "2023-08-25": 78353,
-  "2023-08-26": 78353,
-  "2023-08-27": 78353,
-  "2023-08-28": 78353,
-  "2023-08-29": 78353,
-  "2023-08-30": 78353,
-  "2023-08-31": 78353,
-  "2023-09-01": 78353,
-  "2023-09-02": 78353,
-  "2023-09-03": 78353,
-  "2023-09-04": 78353,
-  "2023-09-05": 78353,
-  "2023-09-06": 78353,
-  "2023-09-07": 78353,
-  "2023-09-08": 78353,
-  "2023-09-09": 78353,
-  "2023-09-10": 78353,
-  "2023-09-11": 78353,
-  "2023-09-12": 78353,
-  "2023-09-13": 78353,
-  "2023-09-14": 78353,
-  "2023-09-15": 78353,
-  "2023-09-16": 78353,
-  "2023-09-17": 78353,
-  "2023-09-18": 78353,
-  "2023-09-19": 78353,
-  "2023-09-20": 78353,
-  "2023-09-21": 78353,
-  "2023-09-22": 78353,
-  "2023-09-23": 78353,
-  "2023-09-24": 78353,
-  "2023-09-25": 78353,
-  "2023-09-26": 78353,
-  "2023-09-27": 78353,
-  "2023-09-28": 78353,
-  "2023-09-29": 78353,
-  "2023-09-30": 78353,
-  "2023-10-01": 78353,
-  "2023-10-02": 78353,
-  "2023-10-03": 78353,
-  "2023-10-04": 78353,
-  "2023-10-05": 78353,
-  "2023-10-06": 78353,
-  "2023-10-07": 78353,
-  "2023-10-08": 78353,
-  "2023-10-09": 78353,
-  "2023-10-10": 78353,
-  "2023-10-11": 78353,
-  "2023-10-12": 78353,
-  "2023-10-13": 78353,
-  "2023-10-14": 78353,
-  "2023-10-15": 78353,
-  "2023-10-16": 78353,
-  "2023-10-17": 78353,
-  "2023-10-18": 78353,
-  "2023-10-19": 78353,
-  "2023-10-20": 78353,
-  "2023-10-21": 78353,
-  "2023-10-22": 78353,
-  "2023-10-23": 78353,
-  "2023-10-24": 78353,
-  "2023-10-25": 78353,
-  "2023-10-26": 78353,
-  "2023-10-27": 78353,
-  "2023-10-28": 78353,
-  "2023-10-29": 78353,
-  "2023-10-30": 78353,
-  "2023-10-31": 78353,
-  "2023-11-01": 78353,
-  "2023-11-02": 78353,
-  "2023-11-03": 78353,
-  "2023-11-04": 78353,
-  "2023-11-05": 78353,
-  "2023-11-06": 78353,
-  "2023-11-07": 78353,
-  "2023-11-08": 78353,
-  "2023-11-09": 78353,
-  "2023-11-10": 78353,
-  "2023-11-11": 78353,
-  "2023-11-12": 78353,
-  "2023-11-13": 78353,
-  "2023-11-14": 78353,
-  "2023-11-15": 78353,
-  "2023-11-16": 78353,
-  "2023-11-17": 78353,
-  "2023-11-18": 78353,
-  "2023-11-19": 78353,
-  "2023-11-20": 78353,
-  "2023-11-21": 78353,
-  "2023-11-22": 78353,
-  "2023-11-23": 78353,
-  "2023-11-24": 78353,
-  "2023-11-25": 78353,
-  "2023-11-26": 78353,
-  "2023-11-27": 78353,
-  "2023-11-28": 78353,
-  "2023-11-29": 78353,
-  "2023-11-30": 78353,
-  "2023-12-01": 78353,
-  "2023-12-02": 78353,
-  "2023-12-03": 78353,
-  "2023-12-04": 78353,
-  "2023-12-05": 78353,
-  "2023-12-06": 78353,
-  "2023-12-07": 78353,
-  "2023-12-08": 78353,
-  "2023-12-09": 78353,
-  "2023-12-10": 78353,
-  "2023-12-11": 78353,
-  "2023-12-12": 78353,
-  "2023-12-13": 78353,
-  "2023-12-14": 78353,
-  "2023-12-15": 78353,
-  "2023-12-16": 78353,
-  "2023-12-17": 78353,
-  "2023-12-18": 78353,
-  "2023-12-19": 78353,
-  "2023-12-20": 78353,
-  "2023-12-21": 78353,
-  "2023-12-22": 78353,
-  "2023-12-23": 78353,
-  "2023-12-24": 78353,
-  "2023-12-25": 78353,
-  "2023-12-26": 78353,
-  "2023-12-27": 78353,
-  "2023-12-30": 78353,
-  "2023-12-31": 78353,
-  "2024-01-01": 78353,
-  "2024-01-02": 78353,
-  "2024-01-03": 78353
+  "2024-01-17": 78353,
+  "date_first_scraped": "2021-12-21",
+  "description": "The best of Biffy Clyro, all in one place. Mon the Biff!",
+  "name": "This Is Biffy Clyro",
+  "tracks": [
+    {
+      "album": {
+        "name": "Blackened Sky",
+        "url": "https://open.spotify.com/album/7CeOKgXp0fjrdbfOKbW1zH"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207493,
+      "name": "27",
+      "url": "https://open.spotify.com/track/53egVzE7Y0wQmHxSU89tgD"
+    },
+    {
+      "album": {
+        "name": "Blackened Sky",
+        "url": "https://open.spotify.com/album/7CeOKgXp0fjrdbfOKbW1zH"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "57",
+      "url": "https://open.spotify.com/track/2KIk6Spi9YWXzfSYUFXjkO"
+    },
+    {
+      "album": {
+        "name": "A Hunger In Your Haunt",
+        "url": "https://open.spotify.com/album/6KbmzvqXq3IxqjhJOFEKPh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229155,
+      "name": "A Hunger In Your Haunt",
+      "url": "https://open.spotify.com/track/6fO5kCic9UU6AFPet7jFBn"
+    },
+    {
+      "album": {
+        "name": "Balance, Not Symmetry (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2uZD6LBzoRX90llmDnOzXE"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261006,
+      "name": "All Singing and All Dancing",
+      "url": "https://open.spotify.com/track/4plMohViHqukLshtIDd8vy"
+    },
+    {
+      "album": {
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "Animal Style",
+      "url": "https://open.spotify.com/track/0bDH0mzS4gq70BtGef9ZZm"
+    },
+    {
+      "album": {
+        "name": "Balance, Not Symmetry (From the Original Motion Picture Soundtrack 'Balance, Not Symmetry')",
+        "url": "https://open.spotify.com/album/3vwkXEU6I2QWh2zn3jzmdW"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181536,
+      "name": "Balance, Not Symmetry - From the Original Motion Picture Soundtrack 'Balance, Not Symmetry'",
+      "url": "https://open.spotify.com/track/4q1OTfs2sXiIAHMsyGusUn"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237813,
+      "name": "Biblical",
+      "url": "https://open.spotify.com/track/5o1SyGe6l3EKbw0KiTQH2m"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244867,
+      "name": "Black Chandelier",
+      "url": "https://open.spotify.com/track/2LWFw1lxYO3uX3T1kGhJpp"
+    },
+    {
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "Booooom, Blast & Ruin",
+      "url": "https://open.spotify.com/track/5eHm89VReTazb1adjhibhv"
+    },
+    {
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301080,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/1aKNbn5AsDWydycvr1gYBa"
+    },
+    {
+      "album": {
+        "name": "Similarities",
+        "url": "https://open.spotify.com/album/5IRRC3nCfo3LygsxQ6AWKB"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180680,
+      "name": "Children's Limbs",
+      "url": "https://open.spotify.com/track/60M2nCwMLcxIVtYzM4YLQ9"
+    },
+    {
+      "album": {
+        "name": "Balance, Not Symmetry (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2uZD6LBzoRX90llmDnOzXE"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208136,
+      "name": "Different Kind of Love",
+      "url": "https://open.spotify.com/track/4tSffon3EPBe3ywLKMWx6i"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311493,
+      "name": "Different People",
+      "url": "https://open.spotify.com/track/7o7uyFo9y78d3li0wEkepY"
+    },
+    {
+      "album": {
+        "name": "End Of / Instant History (Single Version)",
+        "url": "https://open.spotify.com/album/3cquq1U5RFfwwJdBlOWTsE"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277426,
+      "name": "End Of",
+      "url": "https://open.spotify.com/track/1ipOB0A4qmm1eCHyNb1JvP"
+    },
+    {
+      "album": {
+        "name": "The Myth of The Happily Ever After",
+        "url": "https://open.spotify.com/album/79TV8acvMeGKGbsBUKvwCI"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256838,
+      "name": "Errors In The History Of God",
+      "url": "https://open.spotify.com/track/4EgZsimoWRGu3TtqqoQSMZ"
+    },
+    {
+      "album": {
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187240,
+      "name": "Flammable",
+      "url": "https://open.spotify.com/track/61H0Vj9yok6fosG1LgoqPr"
+    },
+    {
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255159,
+      "name": "Folding Stars",
+      "url": "https://open.spotify.com/track/6ON4V4Bs0TYI7yk8VgnXqN"
+    },
+    {
+      "album": {
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252280,
+      "name": "Friends and Enemies",
+      "url": "https://open.spotify.com/track/5dFTHjCbrbaRJnK76bMveM"
+    },
+    {
+      "album": {
+        "name": "Infinity Land",
+        "url": "https://open.spotify.com/album/0kvUAJNvBbJhj9kwy1IqBg"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310360,
+      "name": "Glitter And Trauma",
+      "url": "https://open.spotify.com/track/0jTFRC6JeSp4zX3VHB3Mx5"
+    },
+    {
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "God & Satan",
+      "url": "https://open.spotify.com/track/6aihKTSpfxixl9uqm4hNEy"
+    },
+    {
+      "album": {
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213946,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/6R5cOiOWpjSjnKnlBLfjcp"
+    },
+    {
+      "album": {
+        "name": "Instant History",
+        "url": "https://open.spotify.com/album/2zRS3sRmhixjg6MvO1yxh2"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197912,
+      "name": "Instant History - Single Version",
+      "url": "https://open.spotify.com/track/78Whqvk23AqxailSEMv83F"
+    },
+    {
+      "album": {
+        "name": "Blackened Sky",
+        "url": "https://open.spotify.com/album/7CeOKgXp0fjrdbfOKbW1zH"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263080,
+      "name": "Justboy",
+      "url": "https://open.spotify.com/track/3eDyQzwGY4q2TpDe6IBEjS"
+    },
+    {
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318893,
+      "name": "Living Is a Problem Because Everything Dies",
+      "url": "https://open.spotify.com/track/3P2ZrYyjtlbmGEl0VXD1r6"
+    },
+    {
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/4XH0EkwkbzFl965SMHFTlG"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236079,
+      "name": "Machines",
+      "url": "https://open.spotify.com/track/2BdtN16BPZ6HVuFn7yx1pl"
+    },
+    {
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258573,
+      "name": "Many of Horror",
+      "url": "https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31"
+    },
+    {
+      "album": {
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/5ivzjrIrZaUK640ZCJDvlx"
+    },
+    {
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201146,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/7ID1obCK75QsDQuf9pEVxK"
+    },
+    {
+      "album": {
+        "name": "Infinity Land",
+        "url": "https://open.spotify.com/album/0kvUAJNvBbJhj9kwy1IqBg"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253826,
+      "name": "My Recovery Injection",
+      "url": "https://open.spotify.com/track/6YEqhIZ5reeDUcYWJBN66O"
+    },
+    {
+      "album": {
+        "name": "North Of No South (Edit)",
+        "url": "https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216903,
+      "name": "North Of No South - Edit",
+      "url": "https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU"
+    },
+    {
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230799,
+      "name": "Now I'm Everyone",
+      "url": "https://open.spotify.com/track/6Wfc5F6i2h66oSQZ46fFCd"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235026,
+      "name": "Opposite",
+      "url": "https://open.spotify.com/track/5jiUJZ7EQadvIr52caQXUj"
+    },
+    {
+      "album": {
+        "name": "The Vertigo of Bliss",
+        "url": "https://open.spotify.com/album/2pcww0Katmc63TDbyS0JB3"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242693,
+      "name": "Questions and Answers",
+      "url": "https://open.spotify.com/track/0hH1onXZkT4HiHeYtAN7LH"
+    },
+    {
+      "album": {
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217933,
+      "name": "Re-arrange",
+      "url": "https://open.spotify.com/track/6iv3Fclf4l11hQGYs8KbGc"
+    },
+    {
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "Saturday Superhouse",
+      "url": "https://open.spotify.com/track/1WRG8FZVdM1lhizxoXRPr3"
+    },
+    {
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208613,
+      "name": "Semi-Mental",
+      "url": "https://open.spotify.com/track/7A6fPqOOt0TJtIWRbYxWjE"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Sounds Like Balloons",
+      "url": "https://open.spotify.com/track/11Ipy4FtS5DQKvZ7B4FBzm"
+    },
+    {
+      "album": {
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265113,
+      "name": "Stingin' Belle",
+      "url": "https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ"
+    },
+    {
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "That Golden Rule",
+      "url": "https://open.spotify.com/track/5W2qdWVMLheEl0nLnQktuW"
+    },
+    {
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "The Captain",
+      "url": "https://open.spotify.com/track/1louej4PYOVIVbagP1taO0"
+    },
+    {
+      "album": {
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217360,
+      "name": "The Champ",
+      "url": "https://open.spotify.com/track/5uEnSz3GJbQeI1bEhvzKyb"
+    },
+    {
+      "album": {
+        "name": "The Vertigo of Bliss",
+        "url": "https://open.spotify.com/album/2pcww0Katmc63TDbyS0JB3"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221466,
+      "name": "The Ideal Height",
+      "url": "https://open.spotify.com/track/4k89kHqZLUEJv1LVDh7lwy"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "The Joke's on Us",
+      "url": "https://open.spotify.com/track/0VQPaFVOiUWGlYDL1tUewi"
+    },
+    {
+      "album": {
+        "name": "Tiny Indoor Fireworks",
+        "url": "https://open.spotify.com/album/15JQPwn3EouyzXeZ8gMQF5"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195853,
+      "name": "Tiny Indoor Fireworks",
+      "url": "https://open.spotify.com/track/5SvlfB8HuBSYpAIpCkRC3L"
+    },
+    {
+      "album": {
+        "name": "Unknown Male 01",
+        "url": "https://open.spotify.com/album/3lV4G0BqDur5G7vZwlimpQ"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368960,
+      "name": "Unknown Male 01",
+      "url": "https://open.spotify.com/track/768wF93WAaExWS57CzNg45"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239040,
+      "name": "Victory Over the Sun",
+      "url": "https://open.spotify.com/track/119zQmCUSi1aoE5Wo8fTMW"
+    },
+    {
+      "album": {
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248493,
+      "name": "Weird Leisure",
+      "url": "https://open.spotify.com/track/0cJZTQ1x6ko3gbtoLKaoQe"
+    },
+    {
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143053,
+      "name": "Who's Got a Match?",
+      "url": "https://open.spotify.com/track/2xnnH2ZObp5hxWmlzIGa9G"
+    },
+    {
+      "album": {
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248517,
+      "name": "Wolves of Winter",
+      "url": "https://open.spotify.com/track/53PRWlUheFaWrYUAnNHqBD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7yNDQ30MDO6"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 567 likes - 188 songs - 13 hr 17 min
+[codym2011](https://open.spotify.com/user/codym2011) - 567 likes - 190 songs - 13 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,5 +196,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 186 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 187 | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/track/3D9FCxbeOUllhH9Abp6Li8) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [SET IT OFF](https://open.spotify.com/album/63t7vut87yv0e4G2DEUCvf) | 3:08 |
 | 188 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 |
+| 189 | [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 |
+| 190 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 |
 
-Snapshot ID: `MjA2LDljZTEzM2RjYjUxOWEzMzZjZDJjNjQxYWI2MGNhMjViZjkzZDIyOWE=`
+Snapshot ID: `MjA4LDkwOWU1ZmZiMDQ2MTFhZTY0NGM2MDJhNTQ2ZTA0NGY1YjBhNGM3MGI=`

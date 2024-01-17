@@ -1,579 +1,1363 @@
 {
-  "2022-05-31": 183095,
-  "2022-06-01": 183334,
-  "2022-06-02": 183356,
-  "2022-06-03": 183490,
-  "2022-06-04": 183636,
-  "2022-06-05": 183761,
-  "2022-06-06": 183866,
-  "2022-06-07": 184008,
-  "2022-06-08": 184184,
-  "2022-06-09": 184299,
-  "2022-06-10": 184436,
-  "2022-06-11": 184563,
-  "2022-06-12": 184684,
-  "2022-06-13": 184804,
-  "2022-06-14": 184935,
-  "2022-06-15": 185068,
-  "2022-06-16": 185186,
-  "2022-06-17": 185314,
-  "2022-06-18": 185422,
-  "2022-06-19": 185671,
-  "2022-06-20": 185671,
-  "2022-06-21": 185790,
-  "2022-06-22": 186018,
-  "2022-06-23": 186018,
-  "2022-06-24": 186159,
-  "2022-06-25": 186286,
-  "2022-06-26": 186380,
-  "2022-06-27": 186491,
-  "2022-06-28": 186613,
-  "2022-06-29": 186764,
-  "2022-06-30": 186885,
-  "2022-07-01": 187035,
-  "2022-07-02": 187167,
-  "2022-07-03": 187317,
-  "2022-07-04": 187436,
-  "2022-07-05": 187540,
-  "2022-07-06": 187540,
-  "2022-07-07": 187743,
-  "2022-07-08": 187913,
-  "2022-07-09": 188044,
-  "2022-07-10": 188217,
-  "2022-07-11": 188356,
-  "2022-07-12": 188504,
-  "2022-07-13": 188637,
-  "2022-07-14": 188761,
-  "2022-07-15": 188961,
-  "2022-07-16": 189170,
-  "2022-07-17": 189409,
-  "2022-07-18": 189604,
-  "2022-07-19": 189796,
-  "2022-07-20": 189958,
-  "2022-07-21": 190127,
-  "2022-07-22": 190321,
-  "2022-07-23": 190524,
-  "2022-07-24": 190718,
-  "2022-07-25": 190912,
-  "2022-07-26": 191130,
-  "2022-07-27": 191324,
-  "2022-07-28": 191554,
-  "2022-07-29": 191820,
-  "2022-07-30": 192258,
-  "2022-07-31": 192258,
-  "2022-08-01": 192497,
-  "2022-08-02": 192983,
-  "2022-08-03": 192983,
-  "2022-08-04": 193270,
-  "2022-08-05": 193558,
-  "2022-08-06": 193930,
-  "2022-08-07": 194310,
-  "2022-08-08": 194679,
-  "2022-08-09": 194998,
-  "2022-08-10": 195356,
-  "2022-08-11": 195777,
-  "2022-08-12": 196287,
-  "2022-08-13": 196840,
-  "2022-08-14": 197487,
-  "2022-08-15": 198443,
-  "2022-08-16": 199629,
-  "2022-08-17": 200949,
-  "2022-08-18": 202089,
-  "2022-08-19": 203218,
-  "2022-08-20": 204268,
-  "2022-08-21": 205238,
-  "2022-08-22": 206167,
-  "2022-08-23": 207095,
-  "2022-08-24": 207997,
-  "2022-08-25": 208833,
-  "2022-08-26": 209812,
-  "2022-08-27": 210850,
-  "2022-08-28": 211766,
-  "2022-08-29": 212509,
-  "2022-08-30": 213145,
-  "2022-08-31": 213760,
-  "2022-09-01": 214400,
-  "2022-09-02": 215155,
-  "2022-09-03": 215981,
-  "2022-09-04": 216918,
-  "2022-09-05": 218064,
-  "2022-09-06": 219312,
-  "2022-09-07": 220736,
-  "2022-09-09": 224053,
-  "2022-09-10": 226253,
-  "2022-09-11": 228288,
-  "2022-09-12": 230497,
-  "2022-09-13": 232524,
-  "2022-09-15": 235675,
-  "2022-09-16": 236919,
-  "2022-09-17": 237908,
-  "2022-09-18": 238855,
-  "2022-09-19": 239659,
-  "2022-09-20": 240480,
-  "2022-09-21": 241487,
-  "2022-09-22": 242907,
-  "2022-09-23": 244329,
-  "2022-09-24": 244329,
-  "2022-09-25": 247050,
-  "2022-09-26": 248411,
-  "2022-09-27": 249733,
-  "2022-09-28": 251044,
-  "2022-09-29": 252367,
-  "2022-09-30": 253598,
-  "2022-10-01": 254748,
-  "2022-10-02": 255774,
-  "2022-10-03": 256733,
-  "2022-10-04": 257644,
-  "2022-10-05": 258349,
-  "2022-10-06": 258990,
-  "2022-10-07": 259645,
-  "2022-10-08": 260325,
-  "2022-10-09": 261377,
-  "2022-10-10": 261543,
-  "2022-10-11": 262089,
-  "2022-10-12": 262611,
-  "2022-10-13": 263095,
-  "2022-10-14": 263603,
-  "2022-10-15": 264129,
-  "2022-10-16": 264617,
-  "2022-10-17": 265097,
-  "2022-10-18": 265605,
-  "2022-10-19": 266071,
-  "2022-10-20": 266536,
-  "2022-10-21": 266998,
-  "2022-10-22": 267499,
-  "2022-10-23": 267958,
-  "2022-10-24": 268318,
-  "2022-10-25": 268751,
-  "2022-10-26": 269156,
-  "2022-10-27": 269500,
-  "2022-10-28": 269921,
-  "2022-10-29": 270288,
-  "2022-10-30": 270682,
-  "2022-10-31": 270994,
-  "2022-11-01": 271388,
-  "2022-11-02": 271709,
-  "2022-11-03": 272073,
-  "2022-11-04": 272418,
-  "2022-11-05": 272775,
-  "2022-11-06": 273084,
-  "2022-11-07": 273338,
-  "2022-11-08": 273621,
-  "2022-11-09": 273941,
-  "2022-11-10": 274252,
-  "2022-11-11": 274556,
-  "2022-11-12": 274851,
-  "2022-11-13": 275107,
-  "2022-11-14": 275297,
-  "2022-11-15": 275543,
-  "2022-11-16": 275796,
-  "2022-11-17": 276064,
-  "2022-11-18": 276105,
-  "2022-11-19": 276151,
-  "2022-11-20": 276404,
-  "2022-11-21": 276661,
-  "2022-11-22": 276880,
-  "2022-11-23": 277126,
-  "2022-11-24": 277674,
-  "2022-11-25": 278083,
-  "2022-11-26": 278319,
-  "2022-11-27": 278561,
-  "2022-11-28": 278753,
-  "2022-11-29": 278966,
-  "2022-11-30": 279158,
-  "2022-12-01": 279451,
-  "2022-12-02": 279664,
-  "2022-12-03": 280006,
-  "2022-12-04": 280291,
-  "2022-12-05": 280507,
-  "2022-12-06": 280773,
-  "2022-12-07": 280993,
-  "2022-12-08": 281239,
-  "2022-12-09": 281487,
-  "2022-12-10": 281736,
-  "2022-12-11": 281941,
-  "2022-12-12": 282138,
-  "2022-12-13": 282306,
-  "2022-12-14": 282543,
-  "2022-12-15": 282785,
-  "2022-12-16": 283041,
-  "2022-12-17": 283271,
-  "2022-12-18": 283521,
-  "2022-12-19": 283696,
-  "2022-12-20": 284056,
-  "2022-12-21": 284056,
-  "2022-12-22": 284293,
-  "2022-12-24": 284788,
-  "2022-12-25": 284995,
-  "2022-12-26": 285174,
-  "2022-12-27": 285364,
-  "2022-12-28": 285536,
-  "2022-12-29": 285689,
-  "2022-12-30": 285920,
-  "2022-12-31": 286133,
-  "2023-01-01": 286318,
-  "2023-01-02": 286468,
-  "2023-01-03": 286654,
-  "2023-01-04": 286807,
-  "2023-01-05": 287010,
-  "2023-01-06": 287265,
-  "2023-01-07": 287578,
-  "2023-01-08": 287648,
-  "2023-01-09": 287852,
-  "2023-01-10": 288075,
-  "2023-01-11": 288264,
-  "2023-01-12": 288466,
-  "2023-01-13": 288659,
-  "2023-01-14": 289047,
-  "2023-01-15": 289087,
-  "2023-01-16": 289248,
-  "2023-01-17": 289437,
-  "2023-01-18": 289626,
-  "2023-01-19": 289796,
-  "2023-01-20": 290009,
-  "2023-01-21": 290256,
-  "2023-01-22": 290456,
-  "2023-01-23": 290665,
-  "2023-01-24": 290862,
-  "2023-01-25": 291045,
-  "2023-01-26": 291264,
-  "2023-01-27": 291495,
-  "2023-01-28": 291784,
-  "2023-01-29": 292057,
-  "2023-01-30": 292242,
-  "2023-01-31": 292242,
-  "2023-02-01": 292677,
-  "2023-02-02": 292850,
-  "2023-02-03": 293069,
-  "2023-02-04": 293298,
-  "2023-02-05": 293504,
-  "2023-02-06": 293689,
-  "2023-02-07": 293885,
-  "2023-02-08": 294309,
-  "2023-02-09": 294309,
-  "2023-02-10": 294536,
-  "2023-02-11": 294766,
-  "2023-02-12": 295197,
-  "2023-02-13": 295436,
-  "2023-02-14": 295436,
-  "2023-02-15": 295657,
-  "2023-02-16": 295920,
-  "2023-02-17": 296202,
-  "2023-02-18": 296783,
-  "2023-02-19": 296821,
-  "2023-02-20": 296969,
-  "2023-02-21": 297243,
-  "2023-02-22": 297520,
-  "2023-02-23": 297772,
-  "2023-02-24": 298066,
-  "2023-02-25": 298490,
-  "2023-02-26": 298706,
-  "2023-02-27": 299303,
-  "2023-02-28": 299303,
-  "2023-03-01": 299582,
-  "2023-03-02": 299890,
-  "2023-03-03": 300207,
-  "2023-03-04": 300487,
-  "2023-03-05": 300971,
-  "2023-03-06": 300971,
-  "2023-03-07": 301232,
-  "2023-03-08": 301461,
-  "2023-03-09": 301708,
-  "2023-03-10": 301912,
-  "2023-03-11": 302186,
-  "2023-03-12": 302388,
-  "2023-03-13": 302550,
-  "2023-03-14": 302796,
-  "2023-03-15": 303016,
-  "2023-03-16": 303016,
-  "2023-03-17": 303016,
-  "2023-03-18": 303680,
-  "2023-03-19": 303680,
-  "2023-03-20": 304109,
-  "2023-03-21": 304296,
-  "2023-03-22": 304526,
-  "2023-03-23": 304689,
-  "2023-03-24": 304689,
-  "2023-03-25": 305151,
-  "2023-03-26": 305395,
-  "2023-03-27": 305616,
-  "2023-03-28": 305845,
-  "2023-03-29": 306093,
-  "2023-03-30": 306481,
-  "2023-03-31": 306481,
-  "2023-04-01": 306715,
-  "2023-04-02": 306951,
-  "2023-04-03": 307183,
-  "2023-04-04": 307553,
-  "2023-04-05": 307873,
-  "2023-04-06": 308188,
-  "2023-04-07": 308484,
-  "2023-04-09": 308995,
-  "2023-04-10": 309302,
-  "2023-04-11": 309976,
-  "2023-04-12": 309976,
-  "2023-04-13": 310349,
-  "2023-04-14": 310734,
-  "2023-04-15": 311069,
-  "2023-04-16": 311358,
-  "2023-04-17": 311594,
-  "2023-04-18": 311873,
-  "2023-04-19": 312140,
-  "2023-04-20": 312439,
-  "2023-04-21": 312749,
-  "2023-04-22": 313031,
-  "2023-04-23": 313315,
-  "2023-04-24": 313577,
-  "2023-04-25": 313902,
-  "2023-04-26": 314186,
-  "2023-04-27": 314544,
-  "2023-04-28": 314926,
-  "2023-04-29": 315326,
-  "2023-04-30": 315661,
-  "2023-05-01": 315958,
-  "2023-05-02": 316219,
-  "2023-05-03": 316470,
-  "2023-05-04": 316722,
-  "2023-05-05": 317030,
-  "2023-05-06": 317349,
-  "2023-05-07": 317656,
-  "2023-05-08": 317966,
-  "2023-05-09": 318284,
-  "2023-05-10": 318603,
-  "2023-05-11": 318935,
-  "2023-05-12": 319301,
-  "2023-05-13": 319691,
-  "2023-05-14": 320037,
-  "2023-05-15": 320326,
-  "2023-05-16": 320616,
-  "2023-05-17": 321029,
-  "2023-05-18": 321425,
-  "2023-05-19": 321786,
-  "2023-05-20": 322460,
-  "2023-05-21": 322460,
-  "2023-05-22": 322460,
-  "2023-05-23": 323164,
-  "2023-05-24": 323772,
-  "2023-05-25": 323880,
-  "2023-05-26": 324216,
-  "2023-05-27": 324586,
-  "2023-05-28": 324917,
-  "2023-05-29": 324917,
-  "2023-05-30": 325535,
-  "2023-05-31": 326043,
-  "2023-06-01": 326511,
-  "2023-06-02": 326972,
-  "2023-06-03": 327373,
-  "2023-06-04": 327752,
-  "2023-06-05": 328044,
-  "2023-06-06": 328428,
-  "2023-06-07": 328881,
-  "2023-06-08": 329406,
-  "2023-06-09": 329848,
-  "2023-06-10": 330442,
-  "2023-06-11": 330875,
-  "2023-06-12": 331318,
-  "2023-06-13": 331775,
-  "2023-06-14": 332215,
-  "2023-06-15": 332687,
-  "2023-06-16": 333121,
-  "2023-06-17": 333557,
-  "2023-06-18": 333989,
-  "2023-06-19": 334369,
-  "2023-06-20": 334831,
-  "2023-06-21": 335268,
-  "2023-06-22": 335643,
-  "2023-06-23": 336046,
-  "2023-06-24": 336447,
-  "2023-06-25": 336826,
-  "2023-06-26": 337205,
-  "2023-06-27": 337582,
-  "2023-06-28": 337907,
-  "2023-06-29": 338246,
-  "2023-06-30": 338569,
-  "2023-07-01": 339272,
-  "2023-07-02": 339272,
-  "2023-07-03": 339602,
-  "2023-07-04": 339951,
-  "2023-07-05": 340257,
-  "2023-07-06": 340863,
-  "2023-07-07": 340863,
-  "2023-07-08": 341300,
-  "2023-07-09": 341685,
-  "2023-07-10": 342001,
-  "2023-07-11": 342377,
-  "2023-07-12": 342730,
-  "2023-07-13": 343112,
-  "2023-07-14": 343425,
-  "2023-07-15": 343691,
-  "2023-07-16": 344072,
-  "2023-07-17": 344358,
-  "2023-07-18": 344643,
-  "2023-07-19": 344943,
-  "2023-07-20": 345279,
-  "2023-07-21": 345670,
-  "2023-07-22": 346023,
-  "2023-07-23": 346357,
-  "2023-07-24": 346629,
-  "2023-07-25": 346904,
-  "2023-07-26": 347187,
-  "2023-07-27": 347494,
-  "2023-07-28": 347789,
-  "2023-07-29": 348041,
-  "2023-07-30": 348264,
-  "2023-07-31": 348456,
-  "2023-08-01": 348707,
-  "2023-08-02": 348954,
-  "2023-08-03": 349197,
-  "2023-08-04": 349452,
-  "2023-08-05": 349717,
-  "2023-08-06": 350296,
-  "2023-08-07": 350296,
-  "2023-08-08": 350544,
-  "2023-08-09": 350829,
-  "2023-08-10": 351120,
-  "2023-08-11": 351376,
-  "2023-08-12": 351376,
-  "2023-08-13": 351376,
-  "2023-08-14": 352219,
-  "2023-08-15": 352219,
-  "2023-08-16": 352219,
-  "2023-08-17": 353097,
-  "2023-08-18": 353097,
-  "2023-08-19": 353097,
-  "2023-08-20": 354007,
-  "2023-08-21": 354007,
-  "2023-08-22": 354512,
-  "2023-08-23": 354512,
-  "2023-08-24": 355095,
-  "2023-08-25": 355095,
-  "2023-08-26": 355899,
-  "2023-08-27": 355899,
-  "2023-08-28": 356676,
-  "2023-08-29": 356676,
-  "2023-08-30": 356676,
-  "2023-08-31": 357768,
-  "2023-09-01": 358433,
-  "2023-09-02": 358433,
-  "2023-09-03": 358778,
-  "2023-09-04": 358778,
-  "2023-09-05": 358778,
-  "2023-09-06": 359632,
-  "2023-09-07": 359632,
-  "2023-09-08": 359632,
-  "2023-09-09": 359632,
-  "2023-09-10": 361047,
-  "2023-09-11": 361047,
-  "2023-09-12": 361047,
-  "2023-09-13": 362233,
-  "2023-09-14": 362233,
-  "2023-09-15": 362233,
-  "2023-09-16": 363358,
-  "2023-09-17": 363358,
-  "2023-09-18": 363358,
-  "2023-09-19": 364413,
-  "2023-09-20": 364413,
-  "2023-09-21": 364413,
-  "2023-09-22": 365543,
-  "2023-09-23": 365543,
-  "2023-09-24": 365543,
-  "2023-09-25": 365543,
-  "2023-09-26": 367116,
-  "2023-09-27": 367116,
-  "2023-09-28": 367116,
-  "2023-09-29": 367116,
-  "2023-09-30": 367116,
-  "2023-10-01": 367116,
-  "2023-10-02": 369592,
-  "2023-10-03": 369592,
-  "2023-10-04": 369592,
-  "2023-10-05": 370863,
-  "2023-10-06": 371226,
-  "2023-10-07": 371226,
-  "2023-10-08": 371226,
-  "2023-10-09": 371226,
-  "2023-10-10": 371226,
-  "2023-10-11": 372939,
-  "2023-10-12": 372939,
-  "2023-10-13": 372939,
-  "2023-10-14": 372939,
-  "2023-10-15": 372939,
-  "2023-10-16": 372939,
-  "2023-10-17": 372939,
-  "2023-10-18": 372939,
-  "2023-10-19": 372939,
-  "2023-10-20": 372939,
-  "2023-10-21": 372939,
-  "2023-10-22": 372939,
-  "2023-10-23": 372939,
-  "2023-10-24": 372939,
-  "2023-10-25": 372939,
-  "2023-10-26": 372939,
-  "2023-10-27": 372939,
-  "2023-10-28": 372939,
-  "2023-10-29": 372939,
-  "2023-10-30": 372939,
-  "2023-10-31": 372939,
-  "2023-11-01": 372939,
-  "2023-11-02": 372939,
-  "2023-11-03": 372939,
-  "2023-11-04": 372939,
-  "2023-11-05": 372939,
-  "2023-11-06": 372939,
-  "2023-11-07": 372939,
-  "2023-11-08": 372939,
-  "2023-11-09": 372939,
-  "2023-11-10": 372939,
-  "2023-11-11": 380676,
-  "2023-11-12": 380676,
-  "2023-11-13": 380676,
-  "2023-11-14": 380676,
-  "2023-11-15": 380676,
-  "2023-11-16": 380676,
-  "2023-11-17": 380676,
-  "2023-11-18": 380676,
-  "2023-11-19": 380676,
-  "2023-11-20": 380676,
-  "2023-11-21": 380676,
-  "2023-11-22": 380676,
-  "2023-11-23": 380676,
-  "2023-11-24": 380676,
-  "2023-11-25": 380676,
-  "2023-11-26": 380676,
-  "2023-11-27": 380676,
-  "2023-11-28": 380676,
-  "2023-11-29": 380676,
-  "2023-11-30": 380676,
-  "2023-12-01": 380676,
-  "2023-12-02": 380676,
-  "2023-12-03": 380676,
-  "2023-12-04": 380676,
-  "2023-12-05": 380676,
-  "2023-12-06": 380676,
-  "2023-12-07": 380676,
-  "2023-12-08": 380676,
-  "2023-12-09": 380676,
-  "2023-12-10": 380676,
-  "2023-12-11": 380676,
-  "2023-12-12": 380676,
-  "2023-12-13": 380676,
-  "2023-12-14": 386155,
-  "2023-12-15": 386276,
-  "2023-12-16": 386404,
-  "2023-12-17": 386561,
-  "2023-12-18": 386649,
-  "2023-12-19": 386784,
-  "2023-12-20": 386917,
-  "2023-12-21": 387057,
-  "2023-12-22": 387164,
-  "2023-12-23": 387311,
-  "2023-12-24": 387448,
-  "2023-12-25": 387553,
-  "2023-12-26": 387653,
-  "2023-12-27": 387765,
-  "2023-12-30": 388142,
-  "2023-12-31": 388269,
-  "2024-01-01": 388399,
-  "2024-01-02": 388472,
-  "2024-01-03": 388571
+  "2024-01-17": 389985,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Ghost. The essential tracks, all in one playlist.",
+  "name": "This Is Ghost",
+  "tracks": [
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290946,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/55hOoPBqFhebHwepr33mak"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 394746,
+      "name": "Bible",
+      "url": "https://open.spotify.com/track/1nXzRFoBuTvgvYUifcAcus"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 394746,
+      "name": "Bible",
+      "url": "https://open.spotify.com/track/5HCUDC7WkyGRYgS8fuI3Wt"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
+    },
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362093,
+      "name": "Cirice",
+      "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
+    },
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 362093,
+      "name": "Cirice",
+      "url": "https://open.spotify.com/track/5j3iBuHq6vv7VcBo4Y2QrK"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Con Clavi Con Dio",
+      "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
+    },
+    {
+      "album": {
+        "name": "If You Have Ghost",
+        "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313413,
+      "name": "Crucified",
+      "url": "https://open.spotify.com/track/0PSWSiRXsxsLAEdEhaJAId"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298573,
+      "name": "Darkness At The Heart Of My Love",
+      "url": "https://open.spotify.com/track/6vXceKic4ACImU0bC3oecd"
+    },
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 337560,
+      "name": "Deus In Absentia",
+      "url": "https://open.spotify.com/track/07Z6ZLq3AL67uETyThNgoH"
+    },
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337560,
+      "name": "Deus In Absentia",
+      "url": "https://open.spotify.com/track/5t8Qb2sDIgyj57pcrEjsCC"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 66360,
+      "name": "Devil Church",
+      "url": "https://open.spotify.com/track/2o2UpxEGdYpJqSAAmEgpRD"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241106,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 241106,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/5aFBJJDEPNFrZVCPUqeDe9"
+    },
+    {
+      "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/3woAIned4wtKWyy5AZqg5v"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231106,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/08fNsjCflSbHEPDCvAtGnR"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269706,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 269706,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4RmigACdwE02FV3yP5xXlP"
+    },
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242640,
+      "name": "From The Pinnacle To The Pit",
+      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
+    },
+    {
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449240,
+      "name": "Ghuleh / Zombie Queen",
+      "url": "https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH"
+    },
+    {
+      "album": {
+        "name": "Infestissumam (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 449240,
+      "name": "Ghuleh / Zombie Queen",
+      "url": "https://open.spotify.com/track/4yrxgaL6zAsxkeMCwCtORS"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316040,
+      "name": "Griftwood",
+      "url": "https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk"
+    },
+    {
+      "album": {
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "Hanging Around",
+      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
+    },
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253173,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196106,
+      "name": "Hunter\u2019s Moon",
+      "url": "https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246040,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/0quRJVHIYA7nqC3WFvFW3s"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 246040,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/5a6XgGtGrCjE7qJ5qPtFZd"
+    },
+    {
+      "album": {
+        "name": "If You Have Ghost",
+        "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292146,
+      "name": "I'm A Marionette",
+      "url": "https://open.spotify.com/track/2uhOsvOIziDXeJ9zFdFs2j"
+    },
+    {
+      "album": {
+        "name": "If You Have Ghost",
+        "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "If You Have Ghosts",
+      "url": "https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH"
+    },
+    {
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102426,
+      "name": "Infestissumam",
+      "url": "https://open.spotify.com/track/7BwScOUaIcnABifoNlK9e9"
+    },
+    {
+      "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
+    },
+    {
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238813,
+      "name": "Jigolo Har Megiddo",
+      "url": "https://open.spotify.com/track/1nLPwEsvylaNyep39luNRw"
+    },
+    {
+      "album": {
+        "name": "Infestissumam (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-12",
+      "duration_ms": 238813,
+      "name": "Jigolo Har Megiddo",
+      "url": "https://open.spotify.com/track/3rge6turCzJ92oF4EkUwZ4"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302040,
+      "name": "Kaisarion",
+      "url": "https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0"
+    },
+    {
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195693,
+      "name": "Kiss The Go-Goat",
+      "url": "https://open.spotify.com/track/56k2ztFw7hQRzDeoe80pJo"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "Life Eternal",
+      "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 207120,
+      "name": "Life Eternal",
+      "url": "https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz"
+    },
+    {
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Missionary Man",
+      "url": "https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 222840,
+      "name": "Missionary Man",
+      "url": "https://open.spotify.com/track/29NX2dMLjvmtD8HQek1AFQ"
+    },
+    {
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353320,
+      "name": "Monstrance Clock",
+      "url": "https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 247373,
+      "name": "Mummy Dust",
+      "url": "https://open.spotify.com/track/0zL2CizOnEyMoT90JIZ8FF"
+    },
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "Mummy Dust",
+      "url": "https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313693,
+      "name": "Nocturnal Me",
+      "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 313693,
+      "name": "Nocturnal Me",
+      "url": "https://open.spotify.com/track/618X9Viet4Bli058EL23WF"
+    },
+    {
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249146,
+      "name": "Per Aspera Ad Inferi",
+      "url": "https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS"
+    },
+    {
+      "album": {
+        "name": "Infestissumam (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 249146,
+      "name": "Per Aspera Ad Inferi",
+      "url": "https://open.spotify.com/track/7yD3gWx3XTQ7UZivdvabv7"
+    },
+    {
+      "album": {
+        "name": "Phantom Of The Opera",
+        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443386,
+      "name": "Phantom Of The Opera",
+      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "Prime Mover",
+      "url": "https://open.spotify.com/track/13Tw9FDhXVN5brv974A46H"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 268746,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268746,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278106,
+      "name": "Satan Prayer",
+      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
+    },
+    {
+      "album": {
+        "name": "Infestissumam (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 311333,
+      "name": "SECULAR HAZE",
+      "url": "https://open.spotify.com/track/47Y1Jtxa3c8VCqLZm157IJ"
+    },
+    {
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311333,
+      "name": "SECULAR HAZE",
+      "url": "https://open.spotify.com/track/778qeqoqQt2eNFfqdrVsyo"
+    },
+    {
+      "album": {
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/5mDIfAdPnZRt3yuO60O005"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 245160,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/1dgO96QXgopptwjnaeIC5l"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196946,
+      "name": "Spillways",
+      "url": "https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN"
+    },
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 315360,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 56306,
+      "name": "Sp\u00f6ksonat",
+      "url": "https://open.spotify.com/track/5yLxJlzVcyXXFhljuklZx6"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 239293,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239293,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236040,
+      "name": "Stand by Him",
+      "url": "https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL"
+    },
+    {
+      "album": {
+        "name": "Stay [Feat. Patrick Wilson]",
+        "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        {
+          "name": "Patrick Wilson",
+          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234220,
+      "name": "Stay [Feat. Patrick Wilson]",
+      "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
+    },
+    {
+      "album": {
+        "name": "If You Have Ghost",
+        "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337720,
+      "name": "Waiting For The Night",
+      "url": "https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 348333,
+      "name": "Watcher In The Sky",
+      "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
+    },
+    {
+      "album": {
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "We Don\u2019t Need Another Hero",
+      "url": "https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 210320,
+      "name": "Witch Image",
+      "url": "https://open.spotify.com/track/0bog7rv4F6iffTSWcYQHeq"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210320,
+      "name": "Witch Image",
+      "url": "https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1"
+    },
+    {
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/5c3spKKQap7PKfmlTF7c0e"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350186,
+      "name": "Year Zero",
+      "url": "https://open.spotify.com/track/1MdC1WDXrEzrpQwxb5mEXC"
+    },
+    {
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 350186,
+      "name": "Year Zero",
+      "url": "https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK"
+    },
+    {
+      "album": {
+        "name": "13 Commandments",
+        "url": "https://open.spotify.com/album/1jIpMY1agd8Uvd9cc9woTH"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364533,
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/12OqhoWuHEzQ7AJMBS0WFJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO12mjqo"
 }

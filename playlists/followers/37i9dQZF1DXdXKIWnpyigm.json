@@ -1,735 +1,1035 @@
 {
-  "2021-12-25": 36805,
-  "2021-12-26": 36818,
-  "2021-12-27": 36836,
-  "2021-12-28": 36836,
-  "2021-12-29": 36856,
-  "2021-12-30": 36866,
-  "2021-12-31": 36874,
-  "2022-01-01": 36884,
-  "2022-01-02": 36895,
-  "2022-01-03": 36904,
-  "2022-01-04": 36922,
-  "2022-01-05": 36932,
-  "2022-01-06": 36935,
-  "2022-01-07": 36946,
-  "2022-01-08": 36958,
-  "2022-01-09": 36958,
-  "2022-01-10": 36975,
-  "2022-01-11": 36978,
-  "2022-01-12": 36988,
-  "2022-01-13": 36988,
-  "2022-01-14": 36988,
-  "2022-01-15": 36988,
-  "2022-01-16": 36988,
-  "2022-01-17": 36988,
-  "2022-01-18": 36988,
-  "2022-01-19": 36988,
-  "2022-01-20": 36988,
-  "2022-01-21": 36988,
-  "2022-01-22": 36988,
-  "2022-01-23": 36988,
-  "2022-01-24": 36988,
-  "2022-01-25": 36988,
-  "2022-01-26": 36988,
-  "2022-01-27": 36988,
-  "2022-01-28": 36988,
-  "2022-01-29": 36988,
-  "2022-01-30": 36988,
-  "2022-01-31": 36988,
-  "2022-02-01": 36988,
-  "2022-02-02": 36988,
-  "2022-02-03": 36988,
-  "2022-02-04": 36988,
-  "2022-02-05": 36988,
-  "2022-02-06": 36988,
-  "2022-02-07": 36988,
-  "2022-02-08": 36988,
-  "2022-02-09": 36988,
-  "2022-02-10": 36988,
-  "2022-02-11": 36988,
-  "2022-02-12": 36988,
-  "2022-02-13": 36988,
-  "2022-02-14": 36988,
-  "2022-02-15": 36988,
-  "2022-02-16": 36988,
-  "2022-02-17": 36988,
-  "2022-02-18": 36988,
-  "2022-02-19": 36988,
-  "2022-02-20": 36988,
-  "2022-02-21": 36988,
-  "2022-02-22": 36988,
-  "2022-02-23": 36988,
-  "2022-02-24": 36988,
-  "2022-02-25": 36988,
-  "2022-02-26": 36988,
-  "2022-02-27": 36988,
-  "2022-02-28": 36988,
-  "2022-03-01": 36988,
-  "2022-03-02": 36988,
-  "2022-03-03": 36988,
-  "2022-03-04": 36988,
-  "2022-03-05": 36988,
-  "2022-03-06": 36988,
-  "2022-03-07": 36988,
-  "2022-03-08": 36988,
-  "2022-03-09": 36988,
-  "2022-03-10": 36988,
-  "2022-03-11": 36988,
-  "2022-03-12": 36988,
-  "2022-03-13": 36988,
-  "2022-03-14": 36988,
-  "2022-03-15": 36988,
-  "2022-03-16": 36988,
-  "2022-03-17": 36988,
-  "2022-03-18": 36988,
-  "2022-03-19": 36988,
-  "2022-03-20": 36988,
-  "2022-03-21": 36988,
-  "2022-03-22": 36988,
-  "2022-03-23": 36988,
-  "2022-03-24": 36988,
-  "2022-03-25": 36988,
-  "2022-03-26": 36988,
-  "2022-03-27": 36988,
-  "2022-03-28": 36988,
-  "2022-03-30": 36988,
-  "2022-03-31": 36988,
-  "2022-04-01": 36988,
-  "2022-04-02": 36988,
-  "2022-04-03": 36988,
-  "2022-04-04": 36988,
-  "2022-04-05": 36988,
-  "2022-04-06": 36988,
-  "2022-04-07": 36988,
-  "2022-04-08": 36988,
-  "2022-04-09": 36988,
-  "2022-04-10": 36988,
-  "2022-04-11": 36988,
-  "2022-04-12": 36988,
-  "2022-04-13": 36988,
-  "2022-04-14": 36988,
-  "2022-04-15": 36988,
-  "2022-04-16": 36988,
-  "2022-04-17": 36988,
-  "2022-04-18": 36988,
-  "2022-04-19": 36988,
-  "2022-04-20": 36988,
-  "2022-04-21": 36988,
-  "2022-04-22": 36988,
-  "2022-04-23": 36988,
-  "2022-04-24": 36988,
-  "2022-04-25": 36988,
-  "2022-04-26": 36988,
-  "2022-04-27": 36988,
-  "2022-04-28": 36988,
-  "2022-04-29": 36988,
-  "2022-04-30": 36988,
-  "2022-05-01": 36988,
-  "2022-05-02": 36988,
-  "2022-05-03": 36988,
-  "2022-05-04": 36988,
-  "2022-05-05": 36988,
-  "2022-05-06": 36988,
-  "2022-05-07": 36988,
-  "2022-05-08": 36988,
-  "2022-05-09": 36988,
-  "2022-05-10": 36988,
-  "2022-05-11": 36988,
-  "2022-05-12": 36988,
-  "2022-05-13": 36988,
-  "2022-05-14": 36988,
-  "2022-05-15": 36988,
-  "2022-05-16": 36988,
-  "2022-05-17": 36988,
-  "2022-05-18": 36988,
-  "2022-05-19": 36988,
-  "2022-05-20": 36988,
-  "2022-05-21": 36988,
-  "2022-05-22": 36988,
-  "2022-05-23": 36988,
-  "2022-05-24": 36988,
-  "2022-05-25": 36988,
-  "2022-05-26": 36988,
-  "2022-05-27": 36988,
-  "2022-05-28": 36988,
-  "2022-05-29": 36988,
-  "2022-05-30": 36988,
-  "2022-05-31": 36988,
-  "2022-06-01": 36988,
-  "2022-06-02": 36988,
-  "2022-06-03": 36988,
-  "2022-06-04": 36988,
-  "2022-06-05": 36988,
-  "2022-06-06": 36988,
-  "2022-06-07": 36988,
-  "2022-06-08": 36988,
-  "2022-06-09": 36988,
-  "2022-06-10": 36988,
-  "2022-06-11": 36988,
-  "2022-06-12": 36988,
-  "2022-06-13": 36988,
-  "2022-06-14": 36988,
-  "2022-06-15": 36988,
-  "2022-06-16": 36988,
-  "2022-06-17": 36988,
-  "2022-06-18": 36988,
-  "2022-06-19": 36988,
-  "2022-06-20": 36988,
-  "2022-06-21": 36988,
-  "2022-06-22": 36988,
-  "2022-06-23": 36988,
-  "2022-06-24": 36988,
-  "2022-06-25": 36988,
-  "2022-06-26": 36988,
-  "2022-06-27": 36988,
-  "2022-06-28": 36988,
-  "2022-06-29": 36988,
-  "2022-06-30": 36988,
-  "2022-07-01": 36988,
-  "2022-07-02": 36988,
-  "2022-07-03": 36988,
-  "2022-07-04": 36988,
-  "2022-07-05": 36988,
-  "2022-07-06": 36988,
-  "2022-07-07": 36988,
-  "2022-07-08": 36988,
-  "2022-07-09": 36988,
-  "2022-07-10": 36988,
-  "2022-07-11": 36988,
-  "2022-07-12": 36988,
-  "2022-07-13": 36988,
-  "2022-07-14": 36988,
-  "2022-07-15": 36988,
-  "2022-07-16": 36988,
-  "2022-07-17": 36988,
-  "2022-07-18": 36988,
-  "2022-07-19": 36988,
-  "2022-07-20": 36988,
-  "2022-07-21": 36988,
-  "2022-07-22": 36988,
-  "2022-07-23": 36988,
-  "2022-07-24": 36988,
-  "2022-07-25": 36988,
-  "2022-07-26": 36988,
-  "2022-07-27": 36988,
-  "2022-07-28": 36988,
-  "2022-07-29": 36988,
-  "2022-07-30": 36988,
-  "2022-07-31": 36988,
-  "2022-08-01": 36988,
-  "2022-08-02": 36988,
-  "2022-08-03": 36988,
-  "2022-08-04": 36988,
-  "2022-08-05": 36988,
-  "2022-08-06": 36988,
-  "2022-08-07": 36988,
-  "2022-08-08": 36988,
-  "2022-08-09": 36988,
-  "2022-08-10": 36988,
-  "2022-08-11": 36988,
-  "2022-08-12": 36988,
-  "2022-08-13": 36988,
-  "2022-08-14": 36988,
-  "2022-08-15": 36988,
-  "2022-08-16": 36988,
-  "2022-08-17": 36988,
-  "2022-08-18": 36988,
-  "2022-08-19": 36988,
-  "2022-08-20": 36988,
-  "2022-08-21": 36988,
-  "2022-08-22": 36988,
-  "2022-08-23": 36988,
-  "2022-08-24": 36988,
-  "2022-08-25": 36988,
-  "2022-08-26": 36988,
-  "2022-08-27": 36988,
-  "2022-08-28": 36988,
-  "2022-08-29": 36988,
-  "2022-08-30": 36988,
-  "2022-08-31": 36988,
-  "2022-09-01": 36988,
-  "2022-09-02": 36988,
-  "2022-09-03": 36988,
-  "2022-09-04": 36988,
-  "2022-09-05": 36988,
-  "2022-09-06": 36988,
-  "2022-09-07": 36988,
-  "2022-09-09": 36988,
-  "2022-09-10": 36988,
-  "2022-09-11": 36988,
-  "2022-09-12": 36988,
-  "2022-09-13": 36988,
-  "2022-09-15": 36988,
-  "2022-09-16": 36988,
-  "2022-09-17": 36988,
-  "2022-09-18": 36988,
-  "2022-09-19": 36988,
-  "2022-09-20": 36988,
-  "2022-09-21": 36988,
-  "2022-09-22": 36988,
-  "2022-09-23": 36988,
-  "2022-09-24": 36988,
-  "2022-09-25": 36988,
-  "2022-09-26": 36988,
-  "2022-09-27": 36988,
-  "2022-09-28": 36988,
-  "2022-09-29": 36988,
-  "2022-09-30": 36988,
-  "2022-10-01": 36988,
-  "2022-10-02": 36988,
-  "2022-10-03": 36988,
-  "2022-10-04": 36988,
-  "2022-10-05": 36988,
-  "2022-10-06": 36988,
-  "2022-10-07": 36988,
-  "2022-10-08": 36988,
-  "2022-10-09": 36988,
-  "2022-10-10": 36988,
-  "2022-10-11": 36988,
-  "2022-10-12": 36988,
-  "2022-10-13": 36988,
-  "2022-10-14": 36988,
-  "2022-10-15": 36988,
-  "2022-10-16": 36988,
-  "2022-10-17": 36988,
-  "2022-10-18": 36988,
-  "2022-10-19": 36988,
-  "2022-10-20": 36988,
-  "2022-10-21": 36988,
-  "2022-10-22": 36988,
-  "2022-10-23": 36988,
-  "2022-10-24": 36988,
-  "2022-10-25": 36988,
-  "2022-10-26": 36988,
-  "2022-10-27": 36988,
-  "2022-10-28": 36988,
-  "2022-10-29": 36988,
-  "2022-10-30": 36988,
-  "2022-10-31": 36988,
-  "2022-11-01": 36988,
-  "2022-11-02": 36988,
-  "2022-11-03": 36988,
-  "2022-11-04": 36988,
-  "2022-11-05": 36988,
-  "2022-11-06": 36988,
-  "2022-11-07": 36988,
-  "2022-11-08": 36988,
-  "2022-11-09": 36988,
-  "2022-11-10": 36988,
-  "2022-11-11": 36988,
-  "2022-11-12": 36988,
-  "2022-11-13": 36988,
-  "2022-11-14": 36988,
-  "2022-11-15": 36988,
-  "2022-11-16": 36988,
-  "2022-11-17": 36988,
-  "2022-11-18": 36988,
-  "2022-11-19": 36988,
-  "2022-11-20": 36988,
-  "2022-11-21": 36988,
-  "2022-11-22": 36988,
-  "2022-11-23": 36988,
-  "2022-11-24": 36988,
-  "2022-11-25": 36988,
-  "2022-11-26": 36988,
-  "2022-11-27": 36988,
-  "2022-11-28": 36988,
-  "2022-11-29": 36988,
-  "2022-11-30": 36988,
-  "2022-12-01": 36988,
-  "2022-12-02": 36988,
-  "2022-12-03": 36988,
-  "2022-12-04": 36988,
-  "2022-12-05": 36988,
-  "2022-12-06": 36988,
-  "2022-12-07": 36988,
-  "2022-12-08": 36988,
-  "2022-12-09": 36988,
-  "2022-12-10": 36988,
-  "2022-12-11": 36988,
-  "2022-12-12": 36988,
-  "2022-12-13": 36988,
-  "2022-12-14": 36988,
-  "2022-12-15": 36988,
-  "2022-12-16": 36988,
-  "2022-12-17": 36988,
-  "2022-12-18": 36988,
-  "2022-12-19": 36988,
-  "2022-12-20": 36988,
-  "2022-12-21": 36988,
-  "2022-12-22": 36988,
-  "2022-12-24": 36988,
-  "2022-12-25": 36988,
-  "2022-12-26": 36988,
-  "2022-12-27": 36988,
-  "2022-12-28": 36988,
-  "2022-12-29": 36988,
-  "2022-12-30": 36988,
-  "2022-12-31": 36988,
-  "2023-01-01": 36988,
-  "2023-01-02": 36988,
-  "2023-01-03": 36988,
-  "2023-01-04": 36988,
-  "2023-01-05": 36988,
-  "2023-01-06": 36988,
-  "2023-01-07": 36988,
-  "2023-01-08": 36988,
-  "2023-01-09": 36988,
-  "2023-01-10": 36988,
-  "2023-01-11": 36988,
-  "2023-01-12": 36988,
-  "2023-01-13": 36988,
-  "2023-01-14": 36988,
-  "2023-01-15": 36988,
-  "2023-01-16": 36988,
-  "2023-01-17": 36988,
-  "2023-01-18": 36988,
-  "2023-01-19": 36988,
-  "2023-01-20": 36988,
-  "2023-01-21": 36988,
-  "2023-01-22": 36988,
-  "2023-01-23": 36988,
-  "2023-01-24": 36988,
-  "2023-01-25": 36988,
-  "2023-01-26": 36988,
-  "2023-01-27": 36988,
-  "2023-01-28": 36988,
-  "2023-01-29": 36988,
-  "2023-01-30": 36988,
-  "2023-01-31": 36988,
-  "2023-02-01": 36988,
-  "2023-02-02": 36988,
-  "2023-02-03": 36988,
-  "2023-02-04": 36988,
-  "2023-02-05": 36988,
-  "2023-02-06": 36988,
-  "2023-02-07": 36988,
-  "2023-02-08": 36988,
-  "2023-02-09": 36988,
-  "2023-02-10": 36988,
-  "2023-02-11": 36988,
-  "2023-02-12": 36988,
-  "2023-02-13": 36988,
-  "2023-02-14": 36988,
-  "2023-02-15": 36988,
-  "2023-02-16": 36988,
-  "2023-02-17": 36988,
-  "2023-02-18": 36988,
-  "2023-02-19": 36988,
-  "2023-02-20": 36988,
-  "2023-02-21": 36988,
-  "2023-02-22": 36988,
-  "2023-02-23": 36988,
-  "2023-02-24": 36988,
-  "2023-02-25": 36988,
-  "2023-02-26": 36988,
-  "2023-02-27": 36988,
-  "2023-02-28": 36988,
-  "2023-03-01": 36988,
-  "2023-03-02": 36988,
-  "2023-03-03": 36988,
-  "2023-03-04": 36988,
-  "2023-03-05": 36988,
-  "2023-03-06": 36988,
-  "2023-03-07": 36988,
-  "2023-03-08": 36988,
-  "2023-03-09": 36988,
-  "2023-03-10": 36988,
-  "2023-03-11": 36988,
-  "2023-03-12": 36988,
-  "2023-03-13": 36988,
-  "2023-03-14": 36988,
-  "2023-03-15": 36988,
-  "2023-03-16": 36988,
-  "2023-03-17": 36988,
-  "2023-03-18": 36988,
-  "2023-03-19": 36988,
-  "2023-03-20": 36988,
-  "2023-03-21": 36988,
-  "2023-03-22": 36988,
-  "2023-03-23": 36988,
-  "2023-03-24": 36988,
-  "2023-03-25": 36988,
-  "2023-03-26": 36988,
-  "2023-03-27": 36988,
-  "2023-03-28": 36988,
-  "2023-03-29": 36988,
-  "2023-03-30": 36988,
-  "2023-03-31": 36988,
-  "2023-04-01": 36988,
-  "2023-04-02": 36988,
-  "2023-04-03": 36988,
-  "2023-04-04": 36988,
-  "2023-04-05": 36988,
-  "2023-04-06": 36988,
-  "2023-04-07": 36988,
-  "2023-04-09": 36988,
-  "2023-04-10": 36988,
-  "2023-04-11": 36988,
-  "2023-04-12": 36988,
-  "2023-04-13": 36988,
-  "2023-04-14": 36988,
-  "2023-04-15": 36988,
-  "2023-04-16": 36988,
-  "2023-04-17": 36988,
-  "2023-04-18": 36988,
-  "2023-04-19": 36988,
-  "2023-04-20": 36988,
-  "2023-04-21": 36988,
-  "2023-04-22": 36988,
-  "2023-04-23": 36988,
-  "2023-04-24": 36988,
-  "2023-04-25": 36988,
-  "2023-04-26": 36988,
-  "2023-04-27": 36988,
-  "2023-04-28": 36988,
-  "2023-04-29": 36988,
-  "2023-04-30": 36988,
-  "2023-05-01": 36988,
-  "2023-05-02": 36988,
-  "2023-05-03": 36988,
-  "2023-05-04": 36988,
-  "2023-05-05": 36988,
-  "2023-05-06": 36988,
-  "2023-05-07": 36988,
-  "2023-05-08": 36988,
-  "2023-05-09": 36988,
-  "2023-05-10": 36988,
-  "2023-05-11": 36988,
-  "2023-05-12": 36988,
-  "2023-05-13": 36988,
-  "2023-05-14": 36988,
-  "2023-05-15": 36988,
-  "2023-05-16": 36988,
-  "2023-05-17": 36988,
-  "2023-05-18": 36988,
-  "2023-05-19": 36988,
-  "2023-05-20": 36988,
-  "2023-05-21": 36988,
-  "2023-05-22": 36988,
-  "2023-05-23": 36988,
-  "2023-05-24": 36988,
-  "2023-05-25": 36988,
-  "2023-05-26": 36988,
-  "2023-05-27": 36988,
-  "2023-05-28": 36988,
-  "2023-05-29": 36988,
-  "2023-05-30": 36988,
-  "2023-05-31": 36988,
-  "2023-06-01": 36988,
-  "2023-06-02": 36988,
-  "2023-06-03": 36988,
-  "2023-06-04": 36988,
-  "2023-06-05": 36988,
-  "2023-06-06": 36988,
-  "2023-06-07": 36988,
-  "2023-06-08": 36988,
-  "2023-06-09": 36988,
-  "2023-06-10": 36988,
-  "2023-06-11": 36988,
-  "2023-06-12": 36988,
-  "2023-06-13": 36988,
-  "2023-06-14": 36988,
-  "2023-06-15": 36988,
-  "2023-06-16": 36988,
-  "2023-06-17": 36988,
-  "2023-06-18": 36988,
-  "2023-06-19": 36988,
-  "2023-06-20": 36988,
-  "2023-06-21": 36988,
-  "2023-06-22": 36988,
-  "2023-06-23": 36988,
-  "2023-06-24": 36988,
-  "2023-06-25": 36988,
-  "2023-06-26": 36988,
-  "2023-06-27": 36988,
-  "2023-06-28": 36988,
-  "2023-06-29": 36988,
-  "2023-06-30": 36988,
-  "2023-07-01": 36988,
-  "2023-07-02": 36988,
-  "2023-07-03": 36988,
-  "2023-07-04": 36988,
-  "2023-07-05": 36988,
-  "2023-07-06": 36988,
-  "2023-07-07": 36988,
-  "2023-07-08": 36988,
-  "2023-07-09": 36988,
-  "2023-07-10": 36988,
-  "2023-07-11": 36988,
-  "2023-07-12": 36988,
-  "2023-07-13": 36988,
-  "2023-07-14": 36988,
-  "2023-07-15": 36988,
-  "2023-07-16": 36988,
-  "2023-07-17": 36988,
-  "2023-07-18": 36988,
-  "2023-07-19": 36988,
-  "2023-07-20": 36988,
-  "2023-07-21": 36988,
-  "2023-07-22": 36988,
-  "2023-07-23": 36988,
-  "2023-07-24": 36988,
-  "2023-07-25": 36988,
-  "2023-07-26": 36988,
-  "2023-07-27": 36988,
-  "2023-07-28": 36988,
-  "2023-07-29": 36988,
-  "2023-07-30": 36988,
-  "2023-07-31": 36988,
-  "2023-08-01": 36988,
-  "2023-08-02": 36988,
-  "2023-08-03": 36988,
-  "2023-08-04": 36988,
-  "2023-08-05": 36988,
-  "2023-08-06": 36988,
-  "2023-08-07": 36988,
-  "2023-08-08": 36988,
-  "2023-08-09": 36988,
-  "2023-08-10": 36988,
-  "2023-08-11": 36988,
-  "2023-08-12": 36988,
-  "2023-08-13": 36988,
-  "2023-08-14": 36988,
-  "2023-08-15": 36988,
-  "2023-08-16": 36988,
-  "2023-08-17": 36988,
-  "2023-08-18": 36988,
-  "2023-08-19": 36988,
-  "2023-08-20": 36988,
-  "2023-08-21": 36988,
-  "2023-08-22": 36988,
-  "2023-08-23": 36988,
-  "2023-08-24": 36988,
-  "2023-08-25": 36988,
-  "2023-08-26": 36988,
-  "2023-08-27": 36988,
-  "2023-08-28": 36988,
-  "2023-08-29": 36988,
-  "2023-08-30": 36988,
-  "2023-08-31": 36988,
-  "2023-09-01": 36988,
-  "2023-09-02": 36988,
-  "2023-09-03": 36988,
-  "2023-09-04": 36988,
-  "2023-09-05": 36988,
-  "2023-09-06": 36988,
-  "2023-09-07": 36988,
-  "2023-09-08": 36988,
-  "2023-09-09": 36988,
-  "2023-09-10": 36988,
-  "2023-09-11": 36988,
-  "2023-09-12": 36988,
-  "2023-09-13": 36988,
-  "2023-09-14": 36988,
-  "2023-09-15": 36988,
-  "2023-09-16": 36988,
-  "2023-09-17": 36988,
-  "2023-09-18": 36988,
-  "2023-09-19": 36988,
-  "2023-09-20": 36988,
-  "2023-09-21": 36988,
-  "2023-09-22": 36988,
-  "2023-09-23": 36988,
-  "2023-09-24": 36988,
-  "2023-09-25": 36988,
-  "2023-09-26": 36988,
-  "2023-09-27": 36988,
-  "2023-09-28": 36988,
-  "2023-09-29": 36988,
-  "2023-09-30": 36988,
-  "2023-10-01": 36988,
-  "2023-10-02": 36988,
-  "2023-10-03": 36988,
-  "2023-10-04": 36988,
-  "2023-10-05": 36988,
-  "2023-10-06": 36988,
-  "2023-10-07": 36988,
-  "2023-10-08": 36988,
-  "2023-10-09": 36988,
-  "2023-10-10": 36988,
-  "2023-10-11": 36988,
-  "2023-10-12": 36988,
-  "2023-10-13": 36988,
-  "2023-10-14": 36988,
-  "2023-10-15": 36988,
-  "2023-10-16": 36988,
-  "2023-10-17": 36988,
-  "2023-10-18": 36988,
-  "2023-10-19": 36988,
-  "2023-10-20": 36988,
-  "2023-10-21": 36988,
-  "2023-10-22": 36988,
-  "2023-10-23": 36988,
-  "2023-10-24": 36988,
-  "2023-10-25": 36988,
-  "2023-10-26": 36988,
-  "2023-10-27": 36988,
-  "2023-10-28": 36988,
-  "2023-10-29": 36988,
-  "2023-10-30": 36988,
-  "2023-10-31": 36988,
-  "2023-11-01": 36988,
-  "2023-11-02": 36988,
-  "2023-11-03": 36988,
-  "2023-11-04": 36988,
-  "2023-11-05": 36988,
-  "2023-11-06": 36988,
-  "2023-11-07": 36988,
-  "2023-11-08": 36988,
-  "2023-11-09": 36988,
-  "2023-11-10": 36988,
-  "2023-11-11": 36988,
-  "2023-11-12": 36988,
-  "2023-11-13": 36988,
-  "2023-11-14": 36988,
-  "2023-11-15": 36988,
-  "2023-11-16": 36988,
-  "2023-11-17": 36988,
-  "2023-11-18": 36988,
-  "2023-11-19": 36988,
-  "2023-11-20": 36988,
-  "2023-11-21": 36988,
-  "2023-11-22": 36988,
-  "2023-11-23": 36988,
-  "2023-11-24": 36988,
-  "2023-11-25": 36988,
-  "2023-11-26": 36988,
-  "2023-11-27": 36988,
-  "2023-11-28": 36988,
-  "2023-11-29": 36988,
-  "2023-11-30": 36988,
-  "2023-12-01": 36988,
-  "2023-12-02": 36988,
-  "2023-12-03": 36988,
-  "2023-12-04": 36988,
-  "2023-12-05": 36988,
-  "2023-12-06": 36988,
-  "2023-12-07": 36988,
-  "2023-12-08": 36988,
-  "2023-12-09": 36988,
-  "2023-12-10": 36988,
-  "2023-12-11": 36988,
-  "2023-12-12": 36988,
-  "2023-12-13": 36988,
-  "2023-12-14": 36988,
-  "2023-12-15": 36988,
-  "2023-12-16": 36988,
-  "2023-12-17": 36988,
-  "2023-12-18": 36988,
-  "2023-12-19": 36988,
-  "2023-12-20": 36988,
-  "2023-12-21": 36988,
-  "2023-12-22": 36988,
-  "2023-12-23": 36988,
-  "2023-12-24": 36988,
-  "2023-12-25": 36988,
-  "2023-12-26": 36988,
-  "2023-12-27": 36988,
-  "2023-12-30": 36988,
-  "2023-12-31": 36988,
-  "2024-01-01": 36988,
-  "2024-01-02": 36988,
-  "2024-01-03": 36988
+  "2024-01-17": 36988,
+  "date_first_scraped": "2021-12-21",
+  "description": "The essential Ryan Adams, all in one place.",
+  "name": "This Is Ryan Adams (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Strangers Almanac [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/35lWNQB6g0vI0EeBtg8iJM"
+      },
+      "artists": [
+        {
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234213,
+      "name": "16 Days",
+      "url": "https://open.spotify.com/track/3iGsgSQ9L8DBWAsHPnXg8T"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226036,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
+    },
+    {
+      "album": {
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225253,
+      "name": "Ashes & Fire",
+      "url": "https://open.spotify.com/track/0oZw3H6FPKh60aEFvL3q2Z"
+    },
+    {
+      "album": {
+        "name": "Strangers Almanac",
+        "url": "https://open.spotify.com/album/53meDquvaqbLtcZO1ESvg3"
+      },
+      "artists": [
+        {
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151266,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/11sn1atrCmDEMvIsSRfdMZ"
+    },
+    {
+      "album": {
+        "name": "Baby I Love You",
+        "url": "https://open.spotify.com/album/0jeQl3GruPQyRKe0h4wU8a"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204233,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/1npZLnadIut8UfjsqYSOBh"
+    },
+    {
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201693,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+    },
+    {
+      "album": {
+        "name": "Cardinology",
+        "url": "https://open.spotify.com/album/3fAOT6lWvmiLG3xcRm5bGX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136173,
+      "name": "Born Into A Light",
+      "url": "https://open.spotify.com/track/1KDU4tjBrSmRy8SAPjZ3lu"
+    },
+    {
+      "album": {
+        "name": "Burn in the Night",
+        "url": "https://open.spotify.com/album/57QaX1N6ExL3y1bl527nC8"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134546,
+      "name": "Burn in the Night",
+      "url": "https://open.spotify.com/track/004VOnBMIHtzuYdWMpekqM"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0RQfpORyDFGutT607SZNzH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189403,
+      "name": "Call Me on Your Way Back Home",
+      "url": "https://open.spotify.com/track/2KcJilosB6XbFg2jr6bdcd"
+    },
+    {
+      "album": {
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143626,
+      "name": "Chains Of Love",
+      "url": "https://open.spotify.com/track/1HeuEDA1PyJX339oaJJ9jN"
+    },
+    {
+      "album": {
+        "name": "Cold Roses",
+        "url": "https://open.spotify.com/album/2SFYxhXzGyODfbqSTwOWT9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "Cherry Lane",
+      "url": "https://open.spotify.com/track/6L6HBByWYrWIJC6OEbIwD8"
+    },
+    {
+      "album": {
+        "name": "Cardinology",
+        "url": "https://open.spotify.com/album/3TuyKmdV3hLSIojkZCkkyK"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236733,
+      "name": "Cobwebs",
+      "url": "https://open.spotify.com/track/10b7HwTt8jpy62GQhBlbn0"
+    },
+    {
+      "album": {
+        "name": "Cold Roses",
+        "url": "https://open.spotify.com/album/2SFYxhXzGyODfbqSTwOWT9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276426,
+      "name": "Cold Roses",
+      "url": "https://open.spotify.com/track/1OQ5KGrAGVvYKFSdIO71K9"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318102,
+      "name": "Come Pick Me Up",
+      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0RQfpORyDFGutT607SZNzH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128248,
+      "name": "Damn Sam (I Love a Woman That Rains)",
+      "url": "https://open.spotify.com/track/3pwA50PN54RfJ7wSLZ3Vyb"
+    },
+    {
+      "album": {
+        "name": "Strangers Almanac [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/35lWNQB6g0vI0EeBtg8iJM"
+      },
+      "artists": [
+        {
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278346,
+      "name": "Dancing With The Women At The Bar",
+      "url": "https://open.spotify.com/track/2YJzQONXwkRSlJQuDmVHfK"
+    },
+    {
+      "album": {
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220680,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2"
+    },
+    {
+      "album": {
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258973,
+      "name": "Dirty Rain",
+      "url": "https://open.spotify.com/track/3XVLfJbADi7F1p5Rh1UTGw"
+    },
+    {
+      "album": {
+        "name": "Do You Laugh When You Lie? (Pax Am Singles Series, Vol.4)",
+        "url": "https://open.spotify.com/album/2N7BJGvatkYzFRcR5TGCkJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147146,
+      "name": "Do You Laugh When You Lie?",
+      "url": "https://open.spotify.com/track/1QdM6yIGn84YTt61bMKbta"
+    },
+    {
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/7ypd9BywGTQ1fwggsZ3Fru"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239546,
+      "name": "Do You Still Love Me?",
+      "url": "https://open.spotify.com/track/2lz8pL2v1G6FOr9JHZnZsI"
+    },
+    {
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/6DniHyvMZenIWk5l6ZTeOe"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/3f1ZVqGrCBE06GQfzAM0Bw"
+    },
+    {
+      "album": {
+        "name": "Cold Roses",
+        "url": "https://open.spotify.com/album/2SFYxhXzGyODfbqSTwOWT9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311320,
+      "name": "Easy Plateau",
+      "url": "https://open.spotify.com/track/0HHg87rlaJbfEeGT2LmJdc"
+    },
+    {
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/6v5VheA381OPWwqRt0E9mm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340666,
+      "name": "English Girls Approximately",
+      "url": "https://open.spotify.com/track/1fui7m6YJkgaXJE5vcWei3"
+    },
+    {
+      "album": {
+        "name": "Everybody Knows EP",
+        "url": "https://open.spotify.com/album/1X3iH1cmqL0ptR883zfgDX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145146,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/1KAeChQ1BIivHiYsZqnZ1f"
+    },
+    {
+      "album": {
+        "name": "Strangers Almanac",
+        "url": "https://open.spotify.com/album/53meDquvaqbLtcZO1ESvg3"
+      },
+      "artists": [
+        {
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271840,
+      "name": "Everything I Do",
+      "url": "https://open.spotify.com/track/2rDYNF5uhI8C09wDe2pGVR"
+    },
+    {
+      "album": {
+        "name": "Cold Roses",
+        "url": "https://open.spotify.com/album/2SFYxhXzGyODfbqSTwOWT9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283706,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0L6WZouqtDb9fXBD0DUaAa"
+    },
+    {
+      "album": {
+        "name": "Ryan Adams",
+        "url": "https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "Gimme Something Good",
+      "url": "https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ"
+    },
+    {
+      "album": {
+        "name": "Cardinology",
+        "url": "https://open.spotify.com/album/3fAOT6lWvmiLG3xcRm5bGX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175746,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/4vvrxOdxSPsvdrJbrql9pI"
+    },
+    {
+      "album": {
+        "name": "I Do Not Feel Like Being Good",
+        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "How Much Light",
+      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
+    },
+    {
+      "album": {
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "I Love You But I Don't Know What To Say",
+      "url": "https://open.spotify.com/track/0XUV9eC4BkoPQDI8t7CqUl"
+    },
+    {
+      "album": {
+        "name": "Cold Roses",
+        "url": "https://open.spotify.com/album/2SFYxhXzGyODfbqSTwOWT9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278066,
+      "name": "If I Am A Stranger",
+      "url": "https://open.spotify.com/track/2rM9XnaqoiPDXe7ZK3ZR0b"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0RQfpORyDFGutT607SZNzH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338923,
+      "name": "In My Time of Need",
+      "url": "https://open.spotify.com/track/5sQMJuGExm4D9q3wfVxnLC"
+    },
+    {
+      "album": {
+        "name": "Pneumonia",
+        "url": "https://open.spotify.com/album/2bhNcl3XIZLnReJMb0PpYo"
+      },
+      "artists": [
+        {
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Jacksonville Skyline",
+      "url": "https://open.spotify.com/track/011FqkHgBjUEXvozYtJyRR"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301013,
+      "name": "La Cienega Just Smiled",
+      "url": "https://open.spotify.com/track/0RCLN8khBH2i3SG52Gx4ts"
+    },
+    {
+      "album": {
+        "name": "Cold Roses",
+        "url": "https://open.spotify.com/album/2SFYxhXzGyODfbqSTwOWT9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203533,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/0sqbsPWLIi6biNBHV43yzI"
+    },
+    {
+      "album": {
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172186,
+      "name": "Lucky Now",
+      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
+    },
+    {
+      "album": {
+        "name": "Cold Roses",
+        "url": "https://open.spotify.com/album/2SFYxhXzGyODfbqSTwOWT9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351533,
+      "name": "Magnolia Mountain",
+      "url": "https://open.spotify.com/track/5Old57byYZu8dc1hrMMvuh"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0RQfpORyDFGutT607SZNzH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192732,
+      "name": "My Winding Wheel",
+      "url": "https://open.spotify.com/track/6u1n5lZMNRY75zxlO96hGt"
+    },
+    {
+      "album": {
+        "name": "Ryan Adams",
+        "url": "https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "My Wrecking Ball",
+      "url": "https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226693,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 579506,
+      "name": "Nobody Girl",
+      "url": "https://open.spotify.com/track/2YqjAMK5eeSkdnNBF7Omsm"
+    },
+    {
+      "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/2mLIJwfgNPGjpuKaN7njPm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151960,
+      "name": "Oh My God, Whatever, Etc.",
+      "url": "https://open.spotify.com/track/4AAo2jSIOpiXGVZpMNAbkf"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296724,
+      "name": "Oh My Sweet Carolina",
+      "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
+    },
+    {
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367386,
+      "name": "Out of the Woods",
+      "url": "https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV"
+    },
+    {
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246440,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/391ijHd2drZtRfz5v0LqLf"
+    },
+    {
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4FDF5dOMM4aid3QYdr2P58"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478640,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/5UPIs8S1TFhMbTpxh36pSx"
+    },
+    {
+      "album": {
+        "name": "Cold Roses",
+        "url": "https://open.spotify.com/album/2SFYxhXzGyODfbqSTwOWT9"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams & The Cardinals",
+          "url": "https://open.spotify.com/artist/5GHv1pBOWOQxIE6WQBq88Q"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301986,
+      "name": "Sweet Illusions",
+      "url": "https://open.spotify.com/track/0fWQQoAUdEmYGPa5WgC817"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250106,
+      "name": "Sylvia Plath",
+      "url": "https://open.spotify.com/track/0Vof9g11F4cbctYIR5UXTk"
+    },
+    {
+      "album": {
+        "name": "Ten Songs From Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/5b6XzRIvTdE2zA5ZspDZ52"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271455,
+      "name": "Sylvia Plath - Live At Carnegie Hall / 11/15/2014",
+      "url": "https://open.spotify.com/track/2SgXL1s1CUOEtyvbzolaLQ"
+    },
+    {
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4FDF5dOMM4aid3QYdr2P58"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400933,
+      "name": "The Sadness",
+      "url": "https://open.spotify.com/track/2iR0JQfiMibT0dgW3zFIM7"
+    },
+    {
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/6v5VheA381OPWwqRt0E9mm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233653,
+      "name": "This House Is Not For Sale",
+      "url": "https://open.spotify.com/track/4sLnzszjoOlqFIJolvdNol"
+    },
+    {
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/11ysaRvSbiUKCsBFd5L7X5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199373,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/4KPBof2O21CqJfETjdcRa2"
+    },
+    {
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/7ypd9BywGTQ1fwggsZ3Fru"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201506,
+      "name": "To Be Without You",
+      "url": "https://open.spotify.com/track/2AYCnwO5TE1rvH9kvN9jyj"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184671,
+      "name": "To Be Young (Is to Be Sad, Is to Be High)",
+      "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
+    },
+    {
+      "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158293,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "When The Stars Go Blue",
+      "url": "https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX"
+    },
+    {
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2018-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248280,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdXKIWnpyigm"
 }

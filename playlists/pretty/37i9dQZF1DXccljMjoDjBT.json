@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
-  "num_followers": 270201,
+  "num_followers": 272469,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 264333,
       "name": "Right Here Waiting",
       "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
@@ -180,9 +164,25 @@
           "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+        "name": "Street Talk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw"
       },
       "artists": [
         {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
         }
       ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+      "duration_ms": 219720,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -235,34 +235,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Street Talk (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw"
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
       "artists": [
         {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Foolish Heart",
-      "url": "https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 324040,
-      "name": "Biggest Part of Me",
-      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
         }
       ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+      "duration_ms": 324040,
+      "name": "Biggest Part of Me",
+      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -335,6 +319,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Hearts In Motion",
         "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 292800,
       "name": "Sara",
       "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 264986,
-      "name": "Kiss on My List",
-      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -491,6 +475,22 @@
       "duration_ms": 304693,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Kiss on My List",
+      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 362466,
+      "name": "The Last Worthless Evening",
+      "url": "https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Just Another Day in Paradise",
         "url": "https://open.spotify.com/album/0EVRwTd2fEIgupTxZTcWRN"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 362466,
-      "name": "The Last Worthless Evening",
-      "url": "https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 292786,
       "name": "I Just Can't Let Go",
       "url": "https://open.spotify.com/track/5K27xdI3aPGoyXnxdcan82"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Bill LaBounty",
+        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Bill LaBounty",
-        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
-      },
-      "artists": [
-        {
-          "name": "Bill LaBounty",
-          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "A HOLE IN THE WALL",
         "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 259266,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/1NI2i1BjKiVrEYCC0WTug4"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "All Dressed Up",
+        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
+      },
+      "artists": [
+        {
+          "name": "David Roberts",
+          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
+        }
+      ],
+      "duration_ms": 254457,
+      "name": "Boys of Autumn",
+      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -847,18 +863,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "All Dressed Up",
-        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
+        "name": "The Right Place",
+        "url": "https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv"
       },
       "artists": [
         {
-          "name": "David Roberts",
-          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
         }
       ],
-      "duration_ms": 254457,
-      "name": "Boys of Autumn",
-      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
+      "duration_ms": 262706,
+      "name": "Really Want to Know You - Remastered Version",
+      "url": "https://open.spotify.com/track/672L8kwlwJu5w8D6MWyvDC"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -875,22 +891,6 @@
       "duration_ms": 294400,
       "name": "Alien",
       "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "The Right Place",
-        "url": "https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Really Want to Know You - Remastered Version",
-      "url": "https://open.spotify.com/track/672L8kwlwJu5w8D6MWyvDC"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Throwing It All Away",
+      "url": "https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Monsoon",
         "url": "https://open.spotify.com/album/0krvUaO5oHXzEduLU57ct7"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
+        "name": "No Fun Aloud",
+        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
       },
       "artists": [
         {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Throwing It All Away",
-      "url": "https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB"
+      "duration_ms": 245306,
+      "name": "I Found Somebody",
+      "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1019,22 +1035,6 @@
       "duration_ms": 368800,
       "name": "Desert Moon",
       "url": "https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "No Fun Aloud",
-        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "I Found Somebody",
-      "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
     },
     {
       "added_at": "2023-03-30 14:38:10",

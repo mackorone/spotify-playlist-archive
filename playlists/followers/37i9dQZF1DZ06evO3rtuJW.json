@@ -1,430 +1,2407 @@
 {
-  "2022-10-29": 28393,
-  "2022-10-30": 28406,
-  "2022-10-31": 28418,
-  "2022-11-01": 28428,
-  "2022-11-02": 28436,
-  "2022-11-03": 28449,
-  "2022-11-04": 28462,
-  "2022-11-05": 28473,
-  "2022-11-06": 28492,
-  "2022-11-07": 28507,
-  "2022-11-08": 28516,
-  "2022-11-09": 28529,
-  "2022-11-10": 28548,
-  "2022-11-11": 28561,
-  "2022-11-12": 28592,
-  "2022-11-13": 28610,
-  "2022-11-14": 28619,
-  "2022-11-15": 28628,
-  "2022-11-16": 28645,
-  "2022-11-17": 28663,
-  "2022-11-18": 28660,
-  "2022-11-19": 28668,
-  "2022-11-20": 28688,
-  "2022-11-21": 28701,
-  "2022-11-22": 28717,
-  "2022-11-23": 28740,
-  "2022-11-24": 28778,
-  "2022-11-25": 28813,
-  "2022-11-26": 28823,
-  "2022-11-27": 28835,
-  "2022-11-28": 28856,
-  "2022-11-29": 28874,
-  "2022-11-30": 28894,
-  "2022-12-01": 28908,
-  "2022-12-02": 28925,
-  "2022-12-03": 28941,
-  "2022-12-04": 28967,
-  "2022-12-05": 28980,
-  "2022-12-06": 29001,
-  "2022-12-07": 29021,
-  "2022-12-08": 29049,
-  "2022-12-09": 29084,
-  "2022-12-10": 29100,
-  "2022-12-11": 29121,
-  "2022-12-12": 29141,
-  "2022-12-13": 29155,
-  "2022-12-14": 29172,
-  "2022-12-15": 29183,
-  "2022-12-16": 29198,
-  "2022-12-17": 29216,
-  "2022-12-18": 29241,
-  "2022-12-19": 29258,
-  "2022-12-20": 29294,
-  "2022-12-21": 29294,
-  "2022-12-22": 29316,
-  "2022-12-24": 29344,
-  "2022-12-25": 29362,
-  "2022-12-26": 29374,
-  "2022-12-27": 29396,
-  "2022-12-28": 29415,
-  "2022-12-29": 29445,
-  "2022-12-30": 29465,
-  "2022-12-31": 29493,
-  "2023-01-01": 29515,
-  "2023-01-02": 29543,
-  "2023-01-03": 29557,
-  "2023-01-04": 29578,
-  "2023-01-05": 29595,
-  "2023-01-06": 29605,
-  "2023-01-07": 29638,
-  "2023-01-08": 29634,
-  "2023-01-09": 29651,
-  "2023-01-10": 29675,
-  "2023-01-11": 29692,
-  "2023-01-12": 29712,
-  "2023-01-13": 29728,
-  "2023-01-14": 29759,
-  "2023-01-15": 29763,
-  "2023-01-16": 29783,
-  "2023-01-17": 29809,
-  "2023-01-18": 29832,
-  "2023-01-19": 29855,
-  "2023-01-20": 29872,
-  "2023-01-21": 29883,
-  "2023-01-22": 29894,
-  "2023-01-23": 29903,
-  "2023-01-24": 29916,
-  "2023-01-25": 29929,
-  "2023-01-26": 29939,
-  "2023-01-27": 29945,
-  "2023-01-28": 29950,
-  "2023-01-29": 29957,
-  "2023-01-30": 29963,
-  "2023-01-31": 29963,
-  "2023-02-01": 29975,
-  "2023-02-02": 29984,
-  "2023-02-03": 29997,
-  "2023-02-04": 30006,
-  "2023-02-05": 30022,
-  "2023-02-06": 30027,
-  "2023-02-07": 30033,
-  "2023-02-08": 30056,
-  "2023-02-09": 30056,
-  "2023-02-10": 30069,
-  "2023-02-11": 30070,
-  "2023-02-12": 30087,
-  "2023-02-13": 30098,
-  "2023-02-14": 30098,
-  "2023-02-15": 30101,
-  "2023-02-16": 30109,
-  "2023-02-17": 30120,
-  "2023-02-18": 30142,
-  "2023-02-19": 30148,
-  "2023-02-20": 30153,
-  "2023-02-21": 30154,
-  "2023-02-22": 30161,
-  "2023-02-23": 30169,
-  "2023-02-24": 30177,
-  "2023-02-25": 30193,
-  "2023-02-26": 30200,
-  "2023-02-27": 30206,
-  "2023-02-28": 30206,
-  "2023-03-01": 30238,
-  "2023-03-02": 30249,
-  "2023-03-03": 30264,
-  "2023-03-04": 30278,
-  "2023-03-05": 30295,
-  "2023-03-06": 30295,
-  "2023-03-07": 30305,
-  "2023-03-08": 30315,
-  "2023-03-09": 30325,
-  "2023-03-10": 30345,
-  "2023-03-11": 30358,
-  "2023-03-12": 30369,
-  "2023-03-13": 30376,
-  "2023-03-14": 30392,
-  "2023-03-15": 30404,
-  "2023-03-16": 30404,
-  "2023-03-17": 30404,
-  "2023-03-18": 30438,
-  "2023-03-19": 30438,
-  "2023-03-20": 30459,
-  "2023-03-21": 30474,
-  "2023-03-22": 30484,
-  "2023-03-23": 30495,
-  "2023-03-24": 30495,
-  "2023-03-25": 30515,
-  "2023-03-26": 30525,
-  "2023-03-27": 30535,
-  "2023-03-28": 30538,
-  "2023-03-29": 30544,
-  "2023-03-30": 30566,
-  "2023-03-31": 30566,
-  "2023-04-01": 30576,
-  "2023-04-02": 30578,
-  "2023-04-03": 30585,
-  "2023-04-04": 30587,
-  "2023-04-05": 30600,
-  "2023-04-06": 30607,
-  "2023-04-07": 30624,
-  "2023-04-09": 30640,
-  "2023-04-10": 30644,
-  "2023-04-11": 30661,
-  "2023-04-12": 30661,
-  "2023-04-13": 30670,
-  "2023-04-14": 30676,
-  "2023-04-15": 30679,
-  "2023-04-16": 30685,
-  "2023-04-17": 30686,
-  "2023-04-18": 30697,
-  "2023-04-19": 30696,
-  "2023-04-20": 30707,
-  "2023-04-21": 30706,
-  "2023-04-22": 30718,
-  "2023-04-23": 30722,
-  "2023-04-24": 30727,
-  "2023-04-25": 30732,
-  "2023-04-26": 30745,
-  "2023-04-27": 30751,
-  "2023-04-28": 30771,
-  "2023-04-29": 30788,
-  "2023-04-30": 30812,
-  "2023-05-01": 30820,
-  "2023-05-02": 30829,
-  "2023-05-03": 30838,
-  "2023-05-04": 30851,
-  "2023-05-05": 30866,
-  "2023-05-06": 30871,
-  "2023-05-07": 30883,
-  "2023-05-08": 30888,
-  "2023-05-09": 30893,
-  "2023-05-10": 30913,
-  "2023-05-11": 30920,
-  "2023-05-12": 30934,
-  "2023-05-13": 30947,
-  "2023-05-14": 30955,
-  "2023-05-15": 30961,
-  "2023-05-16": 30973,
-  "2023-05-17": 30983,
-  "2023-05-18": 30995,
-  "2023-05-19": 31007,
-  "2023-05-20": 31026,
-  "2023-05-21": 31026,
-  "2023-05-22": 31026,
-  "2023-05-23": 31046,
-  "2023-05-24": 31063,
-  "2023-05-25": 31067,
-  "2023-05-26": 31078,
-  "2023-05-27": 31085,
-  "2023-05-28": 31095,
-  "2023-05-29": 31095,
-  "2023-05-30": 31105,
-  "2023-05-31": 31106,
-  "2023-06-01": 31117,
-  "2023-06-02": 31124,
-  "2023-06-03": 31133,
-  "2023-06-04": 31135,
-  "2023-06-05": 31138,
-  "2023-06-06": 31140,
-  "2023-06-07": 31144,
-  "2023-06-08": 31150,
-  "2023-06-09": 31155,
-  "2023-06-10": 31163,
-  "2023-06-11": 31172,
-  "2023-06-12": 31177,
-  "2023-06-13": 31181,
-  "2023-06-14": 31189,
-  "2023-06-15": 31199,
-  "2023-06-16": 31211,
-  "2023-06-17": 31213,
-  "2023-06-18": 31224,
-  "2023-06-19": 31234,
-  "2023-06-20": 31248,
-  "2023-06-21": 31245,
-  "2023-06-22": 31251,
-  "2023-06-23": 31260,
-  "2023-06-24": 31263,
-  "2023-06-25": 31268,
-  "2023-06-26": 31277,
-  "2023-06-27": 31283,
-  "2023-06-28": 31291,
-  "2023-06-29": 31292,
-  "2023-06-30": 31299,
-  "2023-07-01": 31310,
-  "2023-07-02": 31310,
-  "2023-07-03": 31312,
-  "2023-07-04": 31318,
-  "2023-07-05": 31320,
-  "2023-07-06": 31325,
-  "2023-07-07": 31325,
-  "2023-07-08": 31325,
-  "2023-07-09": 31340,
-  "2023-07-10": 31348,
-  "2023-07-11": 31355,
-  "2023-07-12": 31360,
-  "2023-07-13": 31369,
-  "2023-07-14": 31379,
-  "2023-07-15": 31379,
-  "2023-07-16": 31385,
-  "2023-07-17": 31388,
-  "2023-07-18": 31391,
-  "2023-07-19": 31400,
-  "2023-07-20": 31400,
-  "2023-07-21": 31406,
-  "2023-07-22": 31415,
-  "2023-07-23": 31421,
-  "2023-07-24": 31423,
-  "2023-07-25": 31429,
-  "2023-07-26": 31431,
-  "2023-07-27": 31443,
-  "2023-07-28": 31454,
-  "2023-07-29": 31457,
-  "2023-07-30": 31457,
-  "2023-07-31": 31459,
-  "2023-08-01": 31469,
-  "2023-08-02": 31481,
-  "2023-08-03": 31487,
-  "2023-08-04": 31491,
-  "2023-08-05": 31500,
-  "2023-08-06": 31510,
-  "2023-08-07": 31510,
-  "2023-08-08": 31514,
-  "2023-08-09": 31519,
-  "2023-08-10": 31527,
-  "2023-08-11": 31537,
-  "2023-08-12": 31537,
-  "2023-08-13": 31537,
-  "2023-08-14": 31537,
-  "2023-08-15": 31537,
-  "2023-08-16": 31537,
-  "2023-08-17": 31537,
-  "2023-08-18": 31537,
-  "2023-08-19": 31537,
-  "2023-08-20": 31586,
-  "2023-08-21": 31586,
-  "2023-08-22": 31604,
-  "2023-08-23": 31604,
-  "2023-08-24": 31604,
-  "2023-08-25": 31604,
-  "2023-08-26": 31630,
-  "2023-08-27": 31630,
-  "2023-08-28": 31636,
-  "2023-08-29": 31636,
-  "2023-08-30": 31636,
-  "2023-08-31": 31646,
-  "2023-09-01": 31651,
-  "2023-09-02": 31651,
-  "2023-09-03": 31651,
-  "2023-09-04": 31651,
-  "2023-09-05": 31651,
-  "2023-09-06": 31651,
-  "2023-09-07": 31651,
-  "2023-09-08": 31651,
-  "2023-09-09": 31651,
-  "2023-09-10": 31651,
-  "2023-09-11": 31651,
-  "2023-09-12": 31651,
-  "2023-09-13": 31651,
-  "2023-09-14": 31651,
-  "2023-09-15": 31651,
-  "2023-09-16": 31763,
-  "2023-09-17": 31763,
-  "2023-09-18": 31763,
-  "2023-09-19": 31773,
-  "2023-09-20": 31773,
-  "2023-09-21": 31773,
-  "2023-09-22": 31791,
-  "2023-09-23": 31791,
-  "2023-09-24": 31791,
-  "2023-09-25": 31791,
-  "2023-09-26": 31815,
-  "2023-09-27": 31815,
-  "2023-09-28": 31815,
-  "2023-09-29": 31815,
-  "2023-09-30": 31815,
-  "2023-10-01": 31815,
-  "2023-10-02": 31815,
-  "2023-10-03": 31815,
-  "2023-10-04": 31815,
-  "2023-10-05": 31815,
-  "2023-10-06": 31815,
-  "2023-10-07": 31815,
-  "2023-10-08": 31815,
-  "2023-10-09": 31815,
-  "2023-10-10": 31815,
-  "2023-10-11": 31815,
-  "2023-10-12": 31815,
-  "2023-10-13": 31815,
-  "2023-10-14": 31815,
-  "2023-10-15": 31815,
-  "2023-10-16": 31815,
-  "2023-10-17": 31815,
-  "2023-10-18": 31815,
-  "2023-10-19": 31815,
-  "2023-10-20": 31815,
-  "2023-10-21": 31815,
-  "2023-10-22": 31815,
-  "2023-10-23": 31815,
-  "2023-10-24": 31815,
-  "2023-10-25": 31815,
-  "2023-10-26": 31815,
-  "2023-10-27": 31815,
-  "2023-10-28": 31815,
-  "2023-10-29": 31815,
-  "2023-10-30": 31815,
-  "2023-10-31": 31815,
-  "2023-11-01": 31815,
-  "2023-11-02": 31815,
-  "2023-11-03": 31815,
-  "2023-11-04": 31815,
-  "2023-11-05": 31815,
-  "2023-11-06": 31815,
-  "2023-11-07": 31815,
-  "2023-11-08": 31815,
-  "2023-11-09": 31815,
-  "2023-11-10": 31815,
-  "2023-11-11": 31986,
-  "2023-11-12": 31986,
-  "2023-11-13": 31986,
-  "2023-11-14": 31986,
-  "2023-11-15": 31986,
-  "2023-11-16": 31986,
-  "2023-11-17": 31986,
-  "2023-11-18": 31986,
-  "2023-11-19": 31986,
-  "2023-11-20": 31986,
-  "2023-11-21": 31986,
-  "2023-11-22": 31986,
-  "2023-11-23": 31986,
-  "2023-11-24": 31986,
-  "2023-11-25": 31986,
-  "2023-11-26": 31986,
-  "2023-11-27": 31986,
-  "2023-11-28": 31986,
-  "2023-11-29": 31986,
-  "2023-11-30": 31986,
-  "2023-12-01": 31986,
-  "2023-12-02": 31986,
-  "2023-12-03": 31986,
-  "2023-12-04": 31986,
-  "2023-12-05": 31986,
-  "2023-12-06": 31986,
-  "2023-12-07": 31986,
-  "2023-12-08": 31986,
-  "2023-12-09": 31986,
-  "2023-12-10": 31986,
-  "2023-12-11": 31986,
-  "2023-12-12": 31986,
-  "2023-12-13": 31986,
-  "2023-12-14": 32145,
-  "2023-12-15": 32147,
-  "2023-12-16": 32152,
-  "2023-12-17": 32156,
-  "2023-12-18": 32166,
-  "2023-12-19": 32171,
-  "2023-12-20": 32175,
-  "2023-12-21": 32177,
-  "2023-12-22": 32177,
-  "2023-12-23": 32181,
-  "2023-12-24": 32184,
-  "2023-12-25": 32187,
-  "2023-12-26": 32185,
-  "2023-12-27": 32186,
-  "2023-12-30": 32199,
-  "2023-12-31": 32200,
-  "2024-01-01": 32203,
-  "2024-01-02": 32203,
-  "2024-01-03": 32207
+  "2024-01-17": 32181,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is G Herbo. The essential tracks, all in one playlist.",
+  "name": "This Is G Herbo",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rich Slave",
+        "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "1 Scale (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5gmkw2031VVIboYqPIjSWB"
+    },
+    {
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244329,
+      "name": "2 Chains",
+      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
+    },
+    {
+      "album": {
+        "name": "Pedro Activated",
+        "url": "https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W"
+      },
+      "artists": [
+        {
+          "name": "Top5",
+          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204000,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
+    },
+    {
+      "album": {
+        "name": "Add It Up",
+        "url": "https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 169416,
+      "name": "Add It Up",
+      "url": "https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA"
+    },
+    {
+      "album": {
+        "name": "Add It Up (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/0jhDS6QHDbWLapC8gifh9n"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169416,
+      "name": "Add It Up (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/63CppbO1NyPUpnMHJ5lYDo"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 109281,
+      "name": "All That (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 166916,
+      "name": "Any Other Way",
+      "url": "https://open.spotify.com/track/2tCtzpukuW4P20KmAcQ2P6"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 131115,
+      "name": "Aye (feat. Offset)",
+      "url": "https://open.spotify.com/track/3O0W0PorDwqsEuZRl7A9Pi"
+    },
+    {
+      "album": {
+        "name": "B'CUZ (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 171616,
+      "name": "B'CUZ (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x"
+    },
+    {
+      "album": {
+        "name": "Blanco 6",
+        "url": "https://open.spotify.com/album/2yRwXVqJ8Bz1jYUEghIsTk"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 171719,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk"
+    },
+    {
+      "album": {
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 205644,
+      "name": "Been A While",
+      "url": "https://open.spotify.com/track/0B0uobFNRxL0yr1zFZ0Fgw"
+    },
+    {
+      "album": {
+        "name": "The D.O.A. Tape",
+        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153826,
+      "name": "Being Honest (Remix) [feat. G Herbo]",
+      "url": "https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw"
+    },
+    {
+      "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 145862,
+      "name": "Blues (feat. Future)",
+      "url": "https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n"
+    },
+    {
+      "album": {
+        "name": "Beyond Bulletproof",
+        "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243530,
+      "name": "Body Count (feat. King Von & G Herbo)",
+      "url": "https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f"
+    },
+    {
+      "album": {
+        "name": "In the Loop We Trust, Vol. 1",
+        "url": "https://open.spotify.com/album/6YEsiUXs2zlA9w8Wka3N0Y"
+      },
+      "artists": [
+        {
+          "name": "Loopy Ferrell",
+          "url": "https://open.spotify.com/artist/08igzqNklOkX5U1jfdwcvK"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 160000,
+      "name": "Can't Quit (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3e6iKL9KlM3FOW5IQWzHX6"
+    },
+    {
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 145968,
+      "name": "Change (Gun Shots)",
+      "url": "https://open.spotify.com/track/6bEuvxnlot2M9SnyryuqLZ"
+    },
+    {
+      "album": {
+        "name": "Trench Baby 3",
+        "url": "https://open.spotify.com/album/0WcrXk7wQoVhbQSvIFpPMx"
+      },
+      "artists": [
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 167000,
+      "name": "Chase Em Down (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP"
+    },
+    {
+      "album": {
+        "name": "Beam Me Up Scotty",
+        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 231983,
+      "name": "Chi-Raq (with G Herbo)",
+      "url": "https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex"
+    },
+    {
+      "album": {
+        "name": "Me vs. Me",
+        "url": "https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Chicago to Memphis (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2mNoak5bp3xjAOAWgWtLrS"
+    },
+    {
+      "album": {
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "Chiraq Demons (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
+    },
+    {
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Yosohn",
+          "url": "https://open.spotify.com/artist/28X3uK2mhWGNFwFy145ZD4"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 191383,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/3HrG6ycYoTtDce6NmBqYTb"
+    },
+    {
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221815,
+      "name": "Cry No More",
+      "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
+    },
+    {
+      "album": {
+        "name": "Gangsta Grillz: Mvrda Gvng",
+        "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Sugarhill Ddot",
+          "url": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 232433,
+      "name": "Danger (with DJ Drama, G Herbo & Sugarhill Ddot)",
+      "url": "https://open.spotify.com/track/1ZSjmPEiMr1kLT0ipTPzZt"
+    },
+    {
+      "album": {
+        "name": "Cottonwood 2",
+        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 202065,
+      "name": "DISABILITY CHECKS (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6hlQBPN4v4LPR2SzDGbsaW"
+    },
+    {
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167965,
+      "name": "DON'T LEAVE ME (feat. G Herbo & Lil Durk)",
+      "url": "https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP"
+    },
+    {
+      "album": {
+        "name": "SLICK ALMIGHTY",
+        "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Drench Gang (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 117269,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6ap34UKRf5aCSvrryCUZSv"
+    },
+    {
+      "album": {
+        "name": "Humble Beast (Deluxe)",
+        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161753,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4HNFreT8wNv9oOFC5RQew9"
+    },
+    {
+      "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "Facetime (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 174043,
+      "name": "Feel This",
+      "url": "https://open.spotify.com/track/2XZu4fjdBW6NuLUCsBMy9M"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 173014,
+      "name": "Flashbacks (with Jeremih)",
+      "url": "https://open.spotify.com/track/3s01d9z41qw037YXOPlQqd"
+    },
+    {
+      "album": {
+        "name": "Swervo",
+        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 163480,
+      "name": "Focused",
+      "url": "https://open.spotify.com/track/1jUz3W4cXv56omhrUacbwH"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 170094,
+      "name": "Fuck Opps",
+      "url": "https://open.spotify.com/track/0b8uFzqvwKiwMQ3hhzrt68"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Yosohn",
+          "url": "https://open.spotify.com/artist/28X3uK2mhWGNFwFy145ZD4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 141962,
+      "name": "FWM (with Yosohn)",
+      "url": "https://open.spotify.com/track/6FgLgiZfogBrRLUKTL9DpW"
+    },
+    {
+      "album": {
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
+      "album": {
+        "name": "Glitches",
+        "url": "https://open.spotify.com/album/33zs2J5lgdvrtKwJwQRKOh"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 118889,
+      "name": "Glitches (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO"
+    },
+    {
+      "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161627,
+      "name": "Go Part 1 (with G Herbo)",
+      "url": "https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164770,
+      "name": "High Speed",
+      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 160718,
+      "name": "Him",
+      "url": "https://open.spotify.com/track/50XKj7DDE5cFGpV6z90SD9"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 166562,
+      "name": "History",
+      "url": "https://open.spotify.com/track/1NGOnyxsMjFJ2TOttcjMQV"
+    },
+    {
+      "album": {
+        "name": "Swervo",
+        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214344,
+      "name": "Honestly (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Hood Cycle (Bonus)",
+      "url": "https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb"
+    },
+    {
+      "album": {
+        "name": "Switch Music",
+        "url": "https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 177732,
+      "name": "Hot Summer (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/66F8wUZW98EOg0CfSa6ILI"
+    },
+    {
+      "album": {
+        "name": "ONLY BUILT 4 DIAMOND LINKS",
+        "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 142759,
+      "name": "I Told Her (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5ybvTSA7a1w5ARhT2wpP4O"
+    },
+    {
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210586,
+      "name": "idk that bitch (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 162218,
+      "name": "It's Something In Me",
+      "url": "https://open.spotify.com/track/6s3JnDyFFq4VX5yFDZL7je"
+    },
+    {
+      "album": {
+        "name": "ALMETHA\u2019S SON",
+        "url": "https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA"
+      },
+      "artists": [
+        {
+          "name": "SwaVay",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 202257,
+      "name": "KICK DOOR",
+      "url": "https://open.spotify.com/track/3hrNmOrVieY0t27DijFfYH"
+    },
+    {
+      "album": {
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Bibby",
+          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "Kill Shit (feat. Lil Bibby) - Bonus Track",
+      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 179209,
+      "name": "Last Time (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4bgfOF85wLRLtVtDeuwlNH"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179209,
+      "name": "Last Time (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
+    },
+    {
+      "album": {
+        "name": "Walk Down World",
+        "url": "https://open.spotify.com/album/473RR17P3qtAmh22uLUqhX"
+      },
+      "artists": [
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 170166,
+      "name": "LAY IT DOWN (with G Herbo)",
+      "url": "https://open.spotify.com/track/3q6OyOAeVbwqCZQJWP7HhR"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164992,
+      "name": "Letter to My Love",
+      "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
+    },
+    {
+      "album": {
+        "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
+        "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
+      },
+      "artists": [
+        {
+          "name": "Lil Blessin",
+          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228251,
+      "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
+      "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
+    },
+    {
+      "album": {
+        "name": "Humble Beast (Deluxe)",
+        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209786,
+      "name": "Man Now",
+      "url": "https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59"
+    },
+    {
+      "album": {
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 221468,
+      "name": "Me, Myself & I (with A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh"
+    },
+    {
+      "album": {
+        "name": "My City (FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149263,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB"
+    },
+    {
+      "album": {
+        "name": "FAST X (Sped Up / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124508,
+      "name": "My City - Sped Up",
+      "url": "https://open.spotify.com/track/7y037ZKbgyiO1xXwToyxJn"
+    },
+    {
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200490,
+      "name": "Never Scared (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 165203,
+      "name": "No Guts, No Glory",
+      "url": "https://open.spotify.com/track/2U31fKHbKf50KsrdccRCeL"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Drench",
+          "url": "https://open.spotify.com/artist/2Cw0UbFabztsBGoddiyQLe"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 119058,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/6VCmEzSf3XXdFJPIsk4I0r"
+    },
+    {
+      "album": {
+        "name": "No Te Veo",
+        "url": "https://open.spotify.com/album/0wT5Pk945dl41rZGzS7J04"
+      },
+      "artists": [
+        {
+          "name": "Amaru Cloud",
+          "url": "https://open.spotify.com/artist/06ezMzQs6hP65feMAjteNY"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 146928,
+      "name": "No Te Veo",
+      "url": "https://open.spotify.com/track/2iUb6SjtowOleA5KrKvjdh"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 141073,
+      "name": "Off Days",
+      "url": "https://open.spotify.com/track/5DqzcJHpURu7rq5uUj5ce4"
+    },
+    {
+      "album": {
+        "name": "Levon James",
+        "url": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157759,
+      "name": "On Yo Ass",
+      "url": "https://open.spotify.com/track/1GieuvkMLaSeu57s1BRVNP"
+    },
+    {
+      "album": {
+        "name": "Rookie Of The Year",
+        "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175729,
+      "name": "Onna Come Up (feat. G Herbo) [Remix]",
+      "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
+    },
+    {
+      "album": {
+        "name": "Onna Come Up (feat. G Herbo) [Remix]",
+        "url": "https://open.spotify.com/album/68E8KEIn6CawoxJetxyYRl"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 175729,
+      "name": "Onna Come Up (feat. G Herbo) [Remix]",
+      "url": "https://open.spotify.com/track/6bCWyr3C3ngZdwizTYWQTG"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/0ULanxcKMGRnPcxWXks2w4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 188246,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/34GXBoC7dTw0s6d6vGfYOT"
+    },
+    {
+      "album": {
+        "name": "Paraphernalia 2.0 (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/5salZxwbYxM9BF54yeI6vf"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 145688,
+      "name": "Paraphernalia 2.0 (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5vGKgOsISQNVqAjIRwdry5"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196433,
+      "name": "Party in Heaven",
+      "url": "https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220380,
+      "name": "Perfect Match (feat. 42 Dugg & G Herbo)",
+      "url": "https://open.spotify.com/track/42L59PO4HHI9OMxjtIoX2q"
+    },
+    {
+      "album": {
+        "name": "Plenty",
+        "url": "https://open.spotify.com/album/097aY57QMnEguasSbYWyoW"
+      },
+      "artists": [
+        {
+          "name": "FaZe Kaysan",
+          "url": "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 238421,
+      "name": "Plenty",
+      "url": "https://open.spotify.com/track/0jpyhIyvdVZUagbPP9IiZI"
+    },
+    {
+      "album": {
+        "name": "Plenty",
+        "url": "https://open.spotify.com/album/4MZXuEnQWt8bpqTRCpPOyY"
+      },
+      "artists": [
+        {
+          "name": "FaZe Kaysan",
+          "url": "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238421,
+      "name": "Plenty",
+      "url": "https://open.spotify.com/track/3OZoJykI0r4G7ycbRXkDhw"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232064,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans",
+        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208422,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
+    },
+    {
+      "album": {
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 194262,
+      "name": "PURE (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1GOifqA2EoXqxwFB5aFrWI"
+    },
+    {
+      "album": {
+        "name": "Quagen",
+        "url": "https://open.spotify.com/album/1WEZlyqmg306dk6Ot8dd3L"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 160465,
+      "name": "Quagen",
+      "url": "https://open.spotify.com/track/4XzYDjSECJx8zxVwVPbn9t"
+    },
+    {
+      "album": {
+        "name": "Raining",
+        "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 222740,
+      "name": "Raining (feat. Yung Bleu & Murda Beatz)",
+      "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+    },
+    {
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162217,
+      "name": "Real One",
+      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
+    },
+    {
+      "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Real Oppy (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/475bx5gQq2PATODjuDmXJ8"
+      },
+      "artists": [
+        {
+          "name": "SheedTs",
+          "url": "https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176027,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u"
+    },
+    {
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Ridin Wit It",
+      "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
+    },
+    {
+      "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188053,
+      "name": "Sessions",
+      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 153207,
+      "name": "Shaderoom",
+      "url": "https://open.spotify.com/track/56VdUlGYjJOeHd4FPZoutA"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 176588,
+      "name": "Shordie (with Gunna)",
+      "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
+    },
+    {
+      "album": {
+        "name": "4GOD II",
+        "url": "https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139541,
+      "name": "Skeme (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6ds1oPJafnw3gDfjjJj1Aq"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 138718,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/4XR8LZWfJkrXJOS8zaC5DA"
+    },
+    {
+      "album": {
+        "name": "Statement",
+        "url": "https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140173,
+      "name": "Statement",
+      "url": "https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S"
+    },
+    {
+      "album": {
+        "name": "Stress Relief (with G Herbo)",
+        "url": "https://open.spotify.com/album/6AGBXSBIDKCAuRYZIXOBMi"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 160145,
+      "name": "Stress Relief (with G Herbo)",
+      "url": "https://open.spotify.com/track/3furL4HLywxNWxxfTB7wVJ"
+    },
+    {
+      "album": {
+        "name": "Stress Relief (with G Herbo)",
+        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160145,
+      "name": "Stress Relief (with G Herbo)",
+      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 170806,
+      "name": "Survivor's Outro",
+      "url": "https://open.spotify.com/track/17WII2fbPxGhBLsAyhhzpP"
+    },
+    {
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 170806,
+      "name": "Survivor's Outro",
+      "url": "https://open.spotify.com/track/4XFHwsNr0CwsVLc7DLIGpX"
+    },
+    {
+      "album": {
+        "name": "Few Good Things",
+        "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 222830,
+      "name": "Survivor\u2019s Guilt (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2CDnFIBP90FNiHhCFzoWHo"
+    },
+    {
+      "album": {
+        "name": "Swervo",
+        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
+      "duration_ms": 192053,
+      "name": "Swervo",
+      "url": "https://open.spotify.com/track/1jzCbckrl7q2fELDrvkyCS"
+    },
+    {
+      "album": {
+        "name": "Shiesty Season - Spring Deluxe",
+        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "No More Heroes",
+          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
+      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
+    },
+    {
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 160725,
+      "name": "T.O.P.",
+      "url": "https://open.spotify.com/track/0C0H3ceDDykj8FQR51gMZP"
+    },
+    {
+      "album": {
+        "name": "TO THE MOON (feat. Fivio Foreign, Russ Millions & Sam Tompkins) [Drill Remix]",
+        "url": "https://open.spotify.com/album/0ddJiwySvz540rC18Qn2aY"
+      },
+      "artists": [
+        {
+          "name": "JNR CHOI",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        },
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "TO THE MOON (feat. Fivio Foreign, Russ Millions & Sam Tompkins) - Drill Remix",
+      "url": "https://open.spotify.com/track/3rF1pPjaDjWuIUCTXpMGIv"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 174265,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/7yf7fcI9uOUyxfrtShR5GV"
+    },
+    {
+      "album": {
+        "name": "BEEZY",
+        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "TRY & SEE (feat. Future, G Herbo & Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
+    },
+    {
+      "album": {
+        "name": "Summer Songs 2",
+        "url": "https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 155773,
+      "name": "Up Next 3",
+      "url": "https://open.spotify.com/track/2uCncSbMLOMF6rlA2ThdGO"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196045,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/6XwauVfp0v51OnRzZqBzVR"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 171680,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/2HFXYVDmkTNXTOtAZJvf1r"
+    },
+    {
+      "album": {
+        "name": "Who is Nardo Wick?",
+        "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279573,
+      "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+      "url": "https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX"
+    },
+    {
+      "album": {
+        "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+        "url": "https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 279853,
+      "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+      "url": "https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH"
+    },
+    {
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+    },
+    {
+      "album": {
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199302,
+      "name": "Write Your Name",
+      "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rtuJW"
 }

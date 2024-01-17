@@ -1,472 +1,1461 @@
 {
-  "2022-09-17": 12511,
-  "2022-09-18": 12517,
-  "2022-09-19": 12521,
-  "2022-09-20": 12523,
-  "2022-09-21": 12533,
-  "2022-09-22": 12543,
-  "2022-09-23": 12552,
-  "2022-09-24": 12552,
-  "2022-09-25": 12565,
-  "2022-09-26": 12566,
-  "2022-09-27": 12574,
-  "2022-09-28": 12586,
-  "2022-09-29": 12597,
-  "2022-09-30": 12606,
-  "2022-10-01": 12615,
-  "2022-10-02": 12621,
-  "2022-10-03": 12625,
-  "2022-10-04": 12637,
-  "2022-10-05": 12641,
-  "2022-10-06": 12648,
-  "2022-10-07": 12644,
-  "2022-10-08": 12644,
-  "2022-10-09": 12655,
-  "2022-10-10": 12659,
-  "2022-10-11": 12661,
-  "2022-10-12": 12666,
-  "2022-10-13": 12674,
-  "2022-10-14": 12684,
-  "2022-10-15": 12692,
-  "2022-10-16": 12699,
-  "2022-10-17": 12707,
-  "2022-10-18": 12720,
-  "2022-10-19": 12724,
-  "2022-10-20": 12736,
-  "2022-10-21": 12755,
-  "2022-10-22": 12766,
-  "2022-10-23": 12774,
-  "2022-10-24": 12787,
-  "2022-10-25": 12818,
-  "2022-10-26": 12835,
-  "2022-10-27": 12859,
-  "2022-10-28": 12865,
-  "2022-10-29": 12874,
-  "2022-10-30": 12888,
-  "2022-10-31": 12899,
-  "2022-11-01": 12901,
-  "2022-11-02": 12916,
-  "2022-11-03": 12924,
-  "2022-11-04": 12937,
-  "2022-11-05": 12953,
-  "2022-11-06": 12958,
-  "2022-11-07": 12964,
-  "2022-11-08": 12969,
-  "2022-11-09": 12984,
-  "2022-11-10": 12989,
-  "2022-11-11": 13003,
-  "2022-11-12": 13015,
-  "2022-11-13": 13024,
-  "2022-11-14": 13033,
-  "2022-11-15": 13039,
-  "2022-11-16": 13049,
-  "2022-11-17": 13059,
-  "2022-11-18": 13063,
-  "2022-11-19": 13067,
-  "2022-11-20": 13077,
-  "2022-11-21": 13096,
-  "2022-11-22": 13092,
-  "2022-11-23": 13101,
-  "2022-11-24": 13124,
-  "2022-11-25": 13147,
-  "2022-11-26": 13154,
-  "2022-11-27": 13159,
-  "2022-11-28": 13160,
-  "2022-11-29": 13168,
-  "2022-11-30": 13174,
-  "2022-12-01": 13185,
-  "2022-12-02": 13193,
-  "2022-12-03": 13204,
-  "2022-12-04": 13212,
-  "2022-12-05": 13218,
-  "2022-12-06": 13224,
-  "2022-12-07": 13237,
-  "2022-12-08": 13245,
-  "2022-12-09": 13255,
-  "2022-12-10": 13258,
-  "2022-12-11": 13274,
-  "2022-12-12": 13285,
-  "2022-12-13": 13295,
-  "2022-12-14": 13303,
-  "2022-12-15": 13312,
-  "2022-12-16": 13320,
-  "2022-12-17": 13319,
-  "2022-12-18": 13330,
-  "2022-12-19": 13340,
-  "2022-12-20": 13354,
-  "2022-12-21": 13354,
-  "2022-12-22": 13366,
-  "2022-12-24": 13390,
-  "2022-12-25": 13398,
-  "2022-12-26": 13403,
-  "2022-12-27": 13412,
-  "2022-12-28": 13420,
-  "2022-12-29": 13427,
-  "2022-12-30": 13435,
-  "2022-12-31": 13443,
-  "2023-01-01": 13453,
-  "2023-01-02": 13453,
-  "2023-01-03": 13467,
-  "2023-01-04": 13473,
-  "2023-01-05": 13480,
-  "2023-01-06": 13491,
-  "2023-01-07": 13498,
-  "2023-01-08": 13497,
-  "2023-01-09": 13508,
-  "2023-01-10": 13523,
-  "2023-01-11": 13535,
-  "2023-01-12": 13546,
-  "2023-01-13": 13562,
-  "2023-01-14": 13588,
-  "2023-01-15": 13589,
-  "2023-01-16": 13597,
-  "2023-01-17": 13611,
-  "2023-01-18": 13614,
-  "2023-01-19": 13623,
-  "2023-01-20": 13633,
-  "2023-01-21": 13646,
-  "2023-01-22": 13656,
-  "2023-01-23": 13666,
-  "2023-01-24": 13676,
-  "2023-01-25": 13688,
-  "2023-01-26": 13700,
-  "2023-01-27": 13715,
-  "2023-01-28": 13726,
-  "2023-01-29": 13732,
-  "2023-01-30": 13737,
-  "2023-01-31": 13737,
-  "2023-02-01": 13759,
-  "2023-02-02": 13769,
-  "2023-02-03": 13779,
-  "2023-02-04": 13801,
-  "2023-02-05": 13808,
-  "2023-02-06": 13822,
-  "2023-02-07": 13838,
-  "2023-02-08": 13856,
-  "2023-02-09": 13856,
-  "2023-02-10": 13872,
-  "2023-02-11": 13883,
-  "2023-02-12": 13902,
-  "2023-02-13": 13914,
-  "2023-02-14": 13914,
-  "2023-02-15": 13929,
-  "2023-02-16": 13948,
-  "2023-02-17": 13966,
-  "2023-02-18": 13986,
-  "2023-02-19": 13988,
-  "2023-02-20": 13996,
-  "2023-02-21": 14020,
-  "2023-02-22": 14028,
-  "2023-02-23": 14043,
-  "2023-02-24": 14063,
-  "2023-02-25": 14074,
-  "2023-02-26": 14092,
-  "2023-02-27": 14121,
-  "2023-02-28": 14121,
-  "2023-03-01": 14126,
-  "2023-03-02": 14136,
-  "2023-03-03": 14146,
-  "2023-03-04": 14150,
-  "2023-03-05": 14171,
-  "2023-03-06": 14171,
-  "2023-03-07": 14177,
-  "2023-03-08": 14181,
-  "2023-03-09": 14192,
-  "2023-03-10": 14197,
-  "2023-03-11": 14210,
-  "2023-03-12": 14219,
-  "2023-03-13": 14221,
-  "2023-03-14": 14231,
-  "2023-03-15": 14234,
-  "2023-03-16": 14234,
-  "2023-03-17": 14234,
-  "2023-03-18": 14261,
-  "2023-03-19": 14261,
-  "2023-03-20": 14271,
-  "2023-03-21": 14278,
-  "2023-03-22": 14283,
-  "2023-03-23": 14291,
-  "2023-03-24": 14291,
-  "2023-03-25": 14311,
-  "2023-03-26": 14319,
-  "2023-03-27": 14327,
-  "2023-03-28": 14332,
-  "2023-03-29": 14339,
-  "2023-03-30": 14353,
-  "2023-03-31": 14353,
-  "2023-04-01": 14362,
-  "2023-04-02": 14367,
-  "2023-04-03": 14370,
-  "2023-04-04": 14373,
-  "2023-04-05": 14383,
-  "2023-04-06": 14388,
-  "2023-04-07": 14389,
-  "2023-04-09": 14412,
-  "2023-04-10": 14414,
-  "2023-04-11": 14429,
-  "2023-04-12": 14429,
-  "2023-04-13": 14436,
-  "2023-04-14": 14449,
-  "2023-04-15": 14464,
-  "2023-04-16": 14469,
-  "2023-04-17": 14476,
-  "2023-04-18": 14483,
-  "2023-04-19": 14488,
-  "2023-04-20": 14493,
-  "2023-04-21": 14496,
-  "2023-04-22": 14507,
-  "2023-04-23": 14507,
-  "2023-04-24": 14512,
-  "2023-04-25": 14516,
-  "2023-04-26": 14522,
-  "2023-04-27": 14533,
-  "2023-04-28": 14549,
-  "2023-04-29": 14558,
-  "2023-04-30": 14570,
-  "2023-05-01": 14578,
-  "2023-05-02": 14585,
-  "2023-05-03": 14595,
-  "2023-05-04": 14606,
-  "2023-05-05": 14612,
-  "2023-05-06": 14612,
-  "2023-05-07": 14623,
-  "2023-05-08": 14630,
-  "2023-05-09": 14636,
-  "2023-05-10": 14647,
-  "2023-05-11": 14650,
-  "2023-05-12": 14652,
-  "2023-05-13": 14660,
-  "2023-05-14": 14668,
-  "2023-05-15": 14676,
-  "2023-05-16": 14684,
-  "2023-05-17": 14697,
-  "2023-05-18": 14706,
-  "2023-05-19": 14713,
-  "2023-05-20": 14728,
-  "2023-05-21": 14728,
-  "2023-05-22": 14728,
-  "2023-05-23": 14741,
-  "2023-05-24": 14760,
-  "2023-05-25": 14763,
-  "2023-05-26": 14774,
-  "2023-05-27": 14778,
-  "2023-05-28": 14788,
-  "2023-05-29": 14788,
-  "2023-05-30": 14811,
-  "2023-05-31": 14818,
-  "2023-06-01": 14824,
-  "2023-06-02": 14837,
-  "2023-06-03": 14848,
-  "2023-06-04": 14872,
-  "2023-06-05": 14885,
-  "2023-06-06": 14892,
-  "2023-06-07": 14898,
-  "2023-06-08": 14909,
-  "2023-06-09": 14919,
-  "2023-06-10": 14930,
-  "2023-06-11": 14939,
-  "2023-06-12": 14952,
-  "2023-06-13": 14956,
-  "2023-06-14": 14968,
-  "2023-06-15": 14989,
-  "2023-06-16": 14999,
-  "2023-06-17": 15014,
-  "2023-06-18": 15019,
-  "2023-06-19": 15030,
-  "2023-06-20": 15044,
-  "2023-06-21": 15058,
-  "2023-06-22": 15069,
-  "2023-06-23": 15083,
-  "2023-06-24": 15090,
-  "2023-06-25": 15096,
-  "2023-06-26": 15103,
-  "2023-06-27": 15107,
-  "2023-06-28": 15114,
-  "2023-06-29": 15117,
-  "2023-06-30": 15127,
-  "2023-07-01": 15133,
-  "2023-07-02": 15133,
-  "2023-07-03": 15137,
-  "2023-07-04": 15146,
-  "2023-07-05": 15145,
-  "2023-07-06": 15162,
-  "2023-07-07": 15162,
-  "2023-07-08": 15162,
-  "2023-07-09": 15179,
-  "2023-07-10": 15187,
-  "2023-07-11": 15189,
-  "2023-07-12": 15195,
-  "2023-07-13": 15195,
-  "2023-07-14": 15201,
-  "2023-07-15": 15203,
-  "2023-07-16": 15208,
-  "2023-07-17": 15211,
-  "2023-07-18": 15222,
-  "2023-07-19": 15228,
-  "2023-07-20": 15228,
-  "2023-07-21": 15238,
-  "2023-07-22": 15249,
-  "2023-07-23": 15257,
-  "2023-07-24": 15262,
-  "2023-07-25": 15264,
-  "2023-07-26": 15274,
-  "2023-07-27": 15277,
-  "2023-07-28": 15277,
-  "2023-07-29": 15302,
-  "2023-07-30": 15302,
-  "2023-07-31": 15318,
-  "2023-08-01": 15323,
-  "2023-08-02": 15325,
-  "2023-08-03": 15324,
-  "2023-08-04": 15328,
-  "2023-08-05": 15333,
-  "2023-08-06": 15345,
-  "2023-08-07": 15345,
-  "2023-08-08": 15348,
-  "2023-08-09": 15358,
-  "2023-08-10": 15372,
-  "2023-08-11": 15386,
-  "2023-08-12": 15386,
-  "2023-08-13": 15386,
-  "2023-08-14": 15386,
-  "2023-08-15": 15386,
-  "2023-08-16": 15386,
-  "2023-08-17": 15386,
-  "2023-08-18": 15386,
-  "2023-08-19": 15386,
-  "2023-08-20": 15460,
-  "2023-08-21": 15460,
-  "2023-08-22": 15476,
-  "2023-08-23": 15476,
-  "2023-08-24": 15476,
-  "2023-08-25": 15476,
-  "2023-08-26": 15514,
-  "2023-08-27": 15514,
-  "2023-08-28": 15523,
-  "2023-08-29": 15523,
-  "2023-08-30": 15523,
-  "2023-08-31": 15528,
-  "2023-09-01": 15532,
-  "2023-09-02": 15532,
-  "2023-09-03": 15532,
-  "2023-09-04": 15532,
-  "2023-09-05": 15532,
-  "2023-09-06": 15532,
-  "2023-09-07": 15532,
-  "2023-09-08": 15532,
-  "2023-09-09": 15532,
-  "2023-09-10": 15532,
-  "2023-09-11": 15532,
-  "2023-09-12": 15532,
-  "2023-09-13": 15532,
-  "2023-09-14": 15532,
-  "2023-09-15": 15532,
-  "2023-09-16": 15621,
-  "2023-09-17": 15621,
-  "2023-09-18": 15621,
-  "2023-09-19": 15621,
-  "2023-09-20": 15621,
-  "2023-09-21": 15621,
-  "2023-09-22": 15645,
-  "2023-09-23": 15645,
-  "2023-09-24": 15645,
-  "2023-09-25": 15645,
-  "2023-09-26": 15661,
-  "2023-09-27": 15661,
-  "2023-09-28": 15661,
-  "2023-09-29": 15661,
-  "2023-09-30": 15661,
-  "2023-10-01": 15661,
-  "2023-10-02": 15661,
-  "2023-10-03": 15661,
-  "2023-10-04": 15661,
-  "2023-10-05": 15661,
-  "2023-10-06": 15661,
-  "2023-10-07": 15661,
-  "2023-10-08": 15661,
-  "2023-10-09": 15661,
-  "2023-10-10": 15661,
-  "2023-10-11": 15661,
-  "2023-10-12": 15661,
-  "2023-10-13": 15661,
-  "2023-10-14": 15661,
-  "2023-10-15": 15661,
-  "2023-10-16": 15661,
-  "2023-10-17": 15661,
-  "2023-10-18": 15661,
-  "2023-10-19": 15661,
-  "2023-10-20": 15661,
-  "2023-10-21": 15661,
-  "2023-10-22": 15661,
-  "2023-10-23": 15661,
-  "2023-10-24": 15661,
-  "2023-10-25": 15661,
-  "2023-10-26": 15661,
-  "2023-10-27": 15661,
-  "2023-10-28": 15661,
-  "2023-10-29": 15661,
-  "2023-10-30": 15661,
-  "2023-10-31": 15661,
-  "2023-11-01": 15661,
-  "2023-11-02": 15661,
-  "2023-11-03": 15661,
-  "2023-11-04": 15661,
-  "2023-11-05": 15661,
-  "2023-11-06": 15661,
-  "2023-11-07": 15661,
-  "2023-11-08": 15661,
-  "2023-11-09": 15661,
-  "2023-11-10": 15661,
-  "2023-11-11": 15803,
-  "2023-11-12": 15803,
-  "2023-11-13": 15803,
-  "2023-11-14": 15803,
-  "2023-11-15": 15803,
-  "2023-11-16": 15803,
-  "2023-11-17": 15803,
-  "2023-11-18": 15803,
-  "2023-11-19": 15803,
-  "2023-11-20": 15803,
-  "2023-11-21": 15803,
-  "2023-11-22": 15803,
-  "2023-11-23": 15803,
-  "2023-11-24": 15803,
-  "2023-11-25": 15803,
-  "2023-11-26": 15803,
-  "2023-11-27": 15803,
-  "2023-11-28": 15803,
-  "2023-11-29": 15803,
-  "2023-11-30": 15803,
-  "2023-12-01": 15803,
-  "2023-12-02": 15803,
-  "2023-12-03": 15803,
-  "2023-12-04": 15803,
-  "2023-12-05": 15803,
-  "2023-12-06": 15803,
-  "2023-12-07": 15803,
-  "2023-12-08": 15803,
-  "2023-12-09": 15803,
-  "2023-12-10": 15803,
-  "2023-12-11": 15803,
-  "2023-12-12": 15803,
-  "2023-12-13": 15803,
-  "2023-12-14": 15879,
-  "2023-12-15": 15884,
-  "2023-12-16": 15889,
-  "2023-12-17": 15898,
-  "2023-12-18": 15898,
-  "2023-12-19": 15900,
-  "2023-12-20": 15904,
-  "2023-12-21": 15904,
-  "2023-12-22": 15903,
-  "2023-12-23": 15916,
-  "2023-12-24": 15919,
-  "2023-12-25": 15929,
-  "2023-12-26": 15932,
-  "2023-12-27": 15934,
-  "2023-12-30": 15946,
-  "2023-12-31": 15951,
-  "2024-01-01": 15953,
-  "2024-01-02": 15954,
-  "2024-01-03": 15954
+  "2024-01-17": 15997,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is zebrahead. The essential tracks, all in one playlist.",
+  "name": "This Is zebrahead",
+  "tracks": [
+    {
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198892,
+      "name": "A Long Way Down",
+      "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
+    },
+    {
+      "album": {
+        "name": "A Long Way Down",
+        "url": "https://open.spotify.com/album/1mQ8KcLBD0bvlbIcYWdlNi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 198947,
+      "name": "A Long Way Down",
+      "url": "https://open.spotify.com/track/5lQUnOC74U3C0MjyjJwwaJ"
+    },
+    {
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183242,
+      "name": "All My Friends Are Nobodies",
+      "url": "https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 135693,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/2NWWVcMgYuzHHotD9ZZLm7"
+    },
+    {
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/5vB0cxSvzXuVh15EDD0Cej"
+    },
+    {
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 171715,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0FT0CFCKVCaWtIpC8HI3Tn"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 201947,
+      "name": "Be Careful What You Wish For",
+      "url": "https://open.spotify.com/track/4jtdv8OcWH7vyM9nelV0tD"
+    },
+    {
+      "album": {
+        "name": "Get Nice!",
+        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225340,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
+    },
+    {
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 196720,
+      "name": "Broadcast To The World",
+      "url": "https://open.spotify.com/track/1LRgvH3K5JpnOf50lFyNFC"
+    },
+    {
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187516,
+      "name": "Call Your Friends",
+      "url": "https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp"
+    },
+    {
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192510,
+      "name": "Chasing the Sun",
+      "url": "https://open.spotify.com/track/6Wmhm5sTC0fpIBCvVH2uQF"
+    },
+    {
+      "album": {
+        "name": "Waste Of Mind",
+        "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145733,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/4NAm3aWUkQlQcAll13HVEt"
+    },
+    {
+      "album": {
+        "name": "The Bonus Brothers (Japan Only Bonus Tracks)",
+        "url": "https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 167506,
+      "name": "Dance Sucka!",
+      "url": "https://open.spotify.com/track/2934brZqRQ88sdlLVZoztY"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 203571,
+      "name": "Death By Disco",
+      "url": "https://open.spotify.com/track/36aABTmgem7FZCa030y9Ck"
+    },
+    {
+      "album": {
+        "name": "The Early Years - Revisited",
+        "url": "https://open.spotify.com/album/7Jss3QVea2jKy9X7FgsU7I"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        },
+        {
+          "name": "Jean-Ken Johnny",
+          "url": "https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Devil on My Shoulder (feat. Jean Ken Johnny)",
+      "url": "https://open.spotify.com/track/7rTyQP1gwGW15NTUawp3WI"
+    },
+    {
+      "album": {
+        "name": "The Bonus Brothers (Japan Only Bonus Tracks)",
+        "url": "https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 216746,
+      "name": "Down Without a Fight",
+      "url": "https://open.spotify.com/track/0oXKsquvboVD6qFut5U9YU"
+    },
+    {
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
+    },
+    {
+      "album": {
+        "name": "Evil Anonymous",
+        "url": "https://open.spotify.com/album/6XrDxDfccAIF248JyKIMvS"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/6fB3DvO3syABrIW527ISKA"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/0hgsziS63NRPOR0YoCzMkD"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 240533,
+      "name": "F.L.F.U.",
+      "url": "https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5"
+    },
+    {
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240533,
+      "name": "F.L.F.U.",
+      "url": "https://open.spotify.com/track/7CAF2YK0IvvUFiQhGwiqF0"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1SMMq7Zupw6IHw7Hvy4xb0"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 189466,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/5bsJbow5ouEx8bHJRr54Ky"
+    },
+    {
+      "album": {
+        "name": "Waste Of Mind",
+        "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 224226,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/2GtvF6M8PbpuWRvfdq5BK3"
+    },
+    {
+      "album": {
+        "name": "Waste Of Mind",
+        "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211760,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r"
+    },
+    {
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163767,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217487,
+      "name": "Hell Yeah!",
+      "url": "https://open.spotify.com/track/28q2v77HT5TrNO4Spm4AYk"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 244160,
+      "name": "Hello Tomorrow",
+      "url": "https://open.spotify.com/track/1lGPTDBGbDKJnpxEg9GMsi"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244160,
+      "name": "Hello Tomorrow",
+      "url": "https://open.spotify.com/track/6QOJ4SBinwUPns1dj4ylio"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173788,
+      "name": "Homesick for Hope",
+      "url": "https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs"
+    },
+    {
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 222248,
+      "name": "I'm Just Here for the Free Beer",
+      "url": "https://open.spotify.com/track/2AHkeMOdgNNNbWj3KmqLE5"
+    },
+    {
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200018,
+      "name": "If Your Looking for Your Knife...I Think My Back Found It",
+      "url": "https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/2mZVENOSjFDXtUgWzucYEo"
+    },
+    {
+      "album": {
+        "name": "Wanna Sell Your Soul? - EP",
+        "url": "https://open.spotify.com/album/0WRr0WoJcCyzU6XECYEakr"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137507,
+      "name": "Is It Hot in Here?",
+      "url": "https://open.spotify.com/track/2JoMYA6pq2ZWhRLDZqA5aP"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196076,
+      "name": "Just The Tip",
+      "url": "https://open.spotify.com/track/0Jc21Wm0Ssr3AJJyzoz9Ji"
+    },
+    {
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179178,
+      "name": "Keep It to Myself",
+      "url": "https://open.spotify.com/track/5x973aFd6Tj4nuvcT69TeW"
+    },
+    {
+      "album": {
+        "name": "Lay Me to Rest",
+        "url": "https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "Lay Me to Rest",
+      "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
+    },
+    {
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
+    },
+    {
+      "album": {
+        "name": "Licking on a Knife for Fun",
+        "url": "https://open.spotify.com/album/6YLu3SPZRdXbxfW4VP5NUk"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/7dva5TF6de5kEEO6E63s8c"
+    },
+    {
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156440,
+      "name": "Lobotomy For Dummies",
+      "url": "https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193925,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
+    },
+    {
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190075,
+      "name": "Middle Seat Blues",
+      "url": "https://open.spotify.com/track/3TTZSzruGpNwO54bdhjCHO"
+    },
+    {
+      "album": {
+        "name": "Middle Seat Blues",
+        "url": "https://open.spotify.com/album/1CyQE3ghzFgt9RBF1Ga6R4"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 190075,
+      "name": "Middle Seat Blues",
+      "url": "https://open.spotify.com/track/4HJJyFnQKbGwPYpWCuhGqv"
+    },
+    {
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 218349,
+      "name": "Murder on the Airwaves",
+      "url": "https://open.spotify.com/track/1koGwmY1E4vEXlDpi7Uv82"
+    },
+    {
+      "album": {
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/12DybI8HFDephDlG0JkqrZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 193273,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/22L3BjZDqU8ETWa1wfwdah"
+    },
+    {
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194657,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/1Jkhd7PGnybdLLVRYgVWZN"
+    },
+    {
+      "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
+    },
+    {
+      "album": {
+        "name": "The World's On Fire",
+        "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        },
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/4qcXBDltsFoCFeERHYfFKE"
+    },
+    {
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/7IWrIlIVDc6wDioyrU3lN7"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 167779,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/70fXq5ZlK9MYEuoHLuD6Na"
+    },
+    {
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 168872,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/0OM9ZTTdf2DAitov20CZ5l"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165640,
+      "name": "Over the Edge",
+      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 165640,
+      "name": "Over the Edge",
+      "url": "https://open.spotify.com/track/5dmIlDC9WT84BmwK2h8ZmI"
+    },
+    {
+      "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Playmate of the Year",
+      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+    },
+    {
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165386,
+      "name": "Postcards From Hell",
+      "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
+    },
+    {
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210547,
+      "name": "Public Enemy Number One",
+      "url": "https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE"
+    },
+    {
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Rated \"U\" For Ugly",
+      "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199226,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/0ZJyEBDBgRFeYQrE1S5QQf"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 199226,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7vJziOrwBGtGshVapxEE9x"
+    },
+    {
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 214052,
+      "name": "Running With Wolves",
+      "url": "https://open.spotify.com/track/1lZxVX5uiK9Q5VTuZJLqca"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 191023,
+      "name": "Russian Roulette Is for Lovers?",
+      "url": "https://open.spotify.com/track/2c1FRsX6xUDalTZ5duta8v"
+    },
+    {
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 191023,
+      "name": "Russian Roulette Is for Lovers?",
+      "url": "https://open.spotify.com/track/6eXTQ6yAWOpvgBkOcadUxv"
+    },
+    {
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190013,
+      "name": "Save Your Breath",
+      "url": "https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA"
+    },
+    {
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206178,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
+    },
+    {
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176803,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
+    },
+    {
+      "album": {
+        "name": "Panty Raid (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205786,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239505,
+      "name": "The Juggernauts",
+      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
+    },
+    {
+      "album": {
+        "name": "The Perfect Crime",
+        "url": "https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206826,
+      "name": "The Perfect Crime",
+      "url": "https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9"
+    },
+    {
+      "album": {
+        "name": "Waste Of Mind",
+        "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 237466,
+      "name": "The Real Me",
+      "url": "https://open.spotify.com/track/1ThKFoMgBmSy6IzZCx7RkM"
+    },
+    {
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 195133,
+      "name": "The Set-Up",
+      "url": "https://open.spotify.com/track/2Aw502eWK9NavndTlBzLuk"
+    },
+    {
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "The Walking Dead",
+      "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
+    },
+    {
+      "album": {
+        "name": "Get Nice!",
+        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 202008,
+      "name": "Truck Stops and Tail Lights",
+      "url": "https://open.spotify.com/track/4bZ2daBnecuENVj2m3RP7J"
+    },
+    {
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV"
+    },
+    {
+      "album": {
+        "name": "Panty Raid (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 150880,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/7qeqgonHwWFBnjaocPW4lb"
+    },
+    {
+      "album": {
+        "name": "The Bonus Brothers (Japan Only Bonus Tracks)",
+        "url": "https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227390,
+      "name": "We\u2019re Not a Cover Band, We\u2019re a Tribute Band",
+      "url": "https://open.spotify.com/track/2c6XGY8oaMu6c0u0ggP81q"
+    },
+    {
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175272,
+      "name": "We\u2019re Not Alright",
+      "url": "https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu"
+    },
+    {
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183282,
+      "name": "When Both Sides Suck, We\u2019re All Winners",
+      "url": "https://open.spotify.com/track/3zxYNAUaz1gqFgINPBqjv8"
+    },
+    {
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171897,
+      "name": "Who Brings a Knife to a Gunfight?",
+      "url": "https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM"
+    },
+    {
+      "album": {
+        "name": "WWE: Wreckless Intent",
+        "url": "https://open.spotify.com/album/2m4KqjduGuZ3Vd4xdCnwMc"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 187360,
+      "name": "With Legs Like That (Maria)",
+      "url": "https://open.spotify.com/track/37WKcLIJyGNQKBwaYAKVkx"
+    },
+    {
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203694,
+      "name": "Worse Than This",
+      "url": "https://open.spotify.com/track/4wjCtIESmOrufJnqpCNeNs"
+    },
+    {
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "You Don\u2019t Know Anything About Me",
+      "url": "https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO441VhO"
 }

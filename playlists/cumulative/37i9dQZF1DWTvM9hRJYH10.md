@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters\. Cover: The Castellows
+> Music from Nashville's emerging Singers and Songwriters\. Cover: Georgia Webster
 
-316 songs - 16 hr 43 min
+318 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [As Close As I Can Get To You](https://open.spotify.com/track/3IwpztNJjpH6HOjna5JwuT) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Country To Me](https://open.spotify.com/album/3BYm0scVPtHamYtO6vqgeV) | 3:17 | 2023-05-03 |  |
 | [As Close As I Can Get To You](https://open.spotify.com/track/4gCfshwX0bnt2ZBkz5RWOO) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [As Close As I Can Get To You](https://open.spotify.com/album/68VzH6Py1gE7BXQ0s8Blhx) | 3:17 | 2022-06-10 | 2023-05-07 |
 | [As I Go](https://open.spotify.com/track/1MCwq7D5Rep3JFFp6h9Bux) | [Remy Garrison](https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV) | [As I Go](https://open.spotify.com/album/6wT8C45rgAma8d0yVoa9Z5) | 3:22 | 2023-06-02 |  |
+| [Attention](https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Attention](https://open.spotify.com/album/4aEpV2d6LOIsKqsmdueLTD) | 3:37 | 2024-01-12 |  |
 | [Bar Friends](https://open.spotify.com/track/5NfFDWE3FzgXo0Mg7N4MEm) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends](https://open.spotify.com/album/5Z81UYgt8SNzIRh2emPnPi) | 3:06 | 2021-12-31 | 2022-02-12 |
 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 | 2022-04-08 |  |
 | [Because of You](https://open.spotify.com/track/40721hE3Dr4ciKWSsmL3Sa) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/7eI0RyVZwhaH1MtYgTcKiK) | 3:05 | 2022-04-29 |  |
@@ -225,6 +226,7 @@
 | [Pill for This \(from Songland\)](https://open.spotify.com/track/7IQlF0sWkkztpejeIKnftW) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [Pill for This \(from Songland\)](https://open.spotify.com/album/2r1WiGYZP7wsuC0RBZucGe) | 2:53 | 2021-12-31 | 2022-01-08 |
 | [Plans](https://open.spotify.com/track/0N3psvwvlEP8Mw5GFBeaWd) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Plans](https://open.spotify.com/album/3MUpsZrhs4lDNkpNkepWGt) | 2:35 | 2021-12-31 | 2022-02-12 |
 | [Port City](https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Port City](https://open.spotify.com/album/4D56Jhz6zigKLQ3Y1WYuSz) | 3:50 | 2022-03-18 |  |
+| [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 | 2024-01-12 |  |
 | [Pretty Damn Close](https://open.spotify.com/track/4GEP4c32r8w23n7vOTrSUD) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Pretty Damn Close](https://open.spotify.com/album/3Bgy4hqtatQewljCLoW9Ob) | 3:45 | 2021-12-31 |  |
 | [Push & Pull](https://open.spotify.com/track/4cMGt04mMdpCq7LyNuOYzr) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Push & Pull](https://open.spotify.com/album/3E0XbQUeBsXhsRDHrLxS4X) | 3:07 | 2021-12-31 | 2023-01-14 |
 | [Reckless](https://open.spotify.com/track/1rnvSdz7bj6yZzyUeNqTkp) | [Johnny Gates](https://open.spotify.com/artist/2qwlFTAV2LVhQ01ljAyWJz) | [Reckless](https://open.spotify.com/album/5hzqphd8wma3P9ika7i6Yn) | 2:58 | 2021-12-31 | 2022-02-12 |

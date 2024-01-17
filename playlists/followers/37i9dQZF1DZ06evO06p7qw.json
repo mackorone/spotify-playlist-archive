@@ -1,100 +1,583 @@
 {
-  "2023-09-26": 122198,
-  "2023-09-27": 122198,
-  "2023-09-28": 122198,
-  "2023-09-29": 122198,
-  "2023-09-30": 122198,
-  "2023-10-01": 122198,
-  "2023-10-02": 122861,
-  "2023-10-03": 122861,
-  "2023-10-04": 122861,
-  "2023-10-05": 123236,
-  "2023-10-06": 123368,
-  "2023-10-07": 123368,
-  "2023-10-08": 123368,
-  "2023-10-09": 123368,
-  "2023-10-10": 123368,
-  "2023-10-11": 123989,
-  "2023-10-12": 123989,
-  "2023-10-13": 123989,
-  "2023-10-14": 123989,
-  "2023-10-15": 123989,
-  "2023-10-16": 123989,
-  "2023-10-17": 123989,
-  "2023-10-18": 123989,
-  "2023-10-19": 123989,
-  "2023-10-20": 123989,
-  "2023-10-21": 123989,
-  "2023-10-22": 123989,
-  "2023-10-23": 123989,
-  "2023-10-24": 123989,
-  "2023-10-25": 123989,
-  "2023-10-26": 123989,
-  "2023-10-27": 123989,
-  "2023-10-28": 123989,
-  "2023-10-29": 123989,
-  "2023-10-30": 123989,
-  "2023-10-31": 123989,
-  "2023-11-01": 123989,
-  "2023-11-02": 123989,
-  "2023-11-03": 123989,
-  "2023-11-04": 123989,
-  "2023-11-05": 123989,
-  "2023-11-06": 123989,
-  "2023-11-07": 123989,
-  "2023-11-08": 123989,
-  "2023-11-09": 123989,
-  "2023-11-10": 123989,
-  "2023-11-11": 127582,
-  "2023-11-12": 127582,
-  "2023-11-13": 127582,
-  "2023-11-14": 127582,
-  "2023-11-15": 127582,
-  "2023-11-16": 127582,
-  "2023-11-17": 127582,
-  "2023-11-18": 127582,
-  "2023-11-19": 127582,
-  "2023-11-20": 127582,
-  "2023-11-21": 127582,
-  "2023-11-22": 127582,
-  "2023-11-23": 127582,
-  "2023-11-24": 127582,
-  "2023-11-25": 127582,
-  "2023-11-26": 127582,
-  "2023-11-27": 127582,
-  "2023-11-28": 127582,
-  "2023-11-29": 127582,
-  "2023-11-30": 127582,
-  "2023-12-01": 127582,
-  "2023-12-02": 127582,
-  "2023-12-03": 127582,
-  "2023-12-04": 127582,
-  "2023-12-05": 127582,
-  "2023-12-06": 127582,
-  "2023-12-07": 127582,
-  "2023-12-08": 127582,
-  "2023-12-09": 127582,
-  "2023-12-10": 127582,
-  "2023-12-11": 127582,
-  "2023-12-12": 127582,
-  "2023-12-13": 127582,
-  "2023-12-14": 131108,
-  "2023-12-15": 131222,
-  "2023-12-16": 131324,
-  "2023-12-17": 131424,
-  "2023-12-18": 131512,
-  "2023-12-19": 131596,
-  "2023-12-20": 131704,
-  "2023-12-21": 131813,
-  "2023-12-22": 131900,
-  "2023-12-23": 131996,
-  "2023-12-24": 132062,
-  "2023-12-25": 132114,
-  "2023-12-26": 132183,
-  "2023-12-27": 132290,
-  "2023-12-30": 132607,
-  "2023-12-31": 132700,
-  "2024-01-01": 132762,
-  "2024-01-02": 132822,
-  "2024-01-03": 132927
+  "2024-01-17": 134308,
+  "date_first_scraped": "2023-09-26",
+  "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
+  "name": "This Is Manuel Medrano",
+  "tracks": [
+    {
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229405,
+      "name": "Afuera Del Planeta",
+      "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
+    },
+    {
+      "album": {
+        "name": "Amen (Spanglish Version)",
+        "url": "https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD"
+      },
+      "artists": [
+        {
+          "name": "Stereo Jane",
+          "url": "https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196619,
+      "name": "Amen - Spanglish Version",
+      "url": "https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F"
+    },
+    {
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225838,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
+    },
+    {
+      "album": {
+        "name": "Buena",
+        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218013,
+      "name": "Buena",
+      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
+    },
+    {
+      "album": {
+        "name": "Cielo (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183422,
+      "name": "Cielo (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
+    },
+    {
+      "album": {
+        "name": "Munay",
+        "url": "https://open.spotify.com/album/0FgVN5QSvcQFhPtaAMVDpG"
+      },
+      "artists": [
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235611,
+      "name": "Complicidad (feat. Manuel Medrano)",
+      "url": "https://open.spotify.com/track/6lah9kMrDgQDcPLgmJfRdG"
+    },
+    {
+      "album": {
+        "name": "Elementales",
+        "url": "https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227875,
+      "name": "C\u00f3mo Haces",
+      "url": "https://open.spotify.com/track/0nIUbQVpDSv8wQTY2qwW4u"
+    },
+    {
+      "album": {
+        "name": "Desde Que Te Vi",
+        "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Desde Que Te Vi",
+      "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
+    },
+    {
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169398,
+      "name": "Donde Nadie Pueda Ir",
+      "url": "https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv"
+    },
+    {
+      "album": {
+        "name": "Este Momento",
+        "url": "https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206778,
+      "name": "Este Momento",
+      "url": "https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN"
+    },
+    {
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142253,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f"
+    },
+    {
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Hay Una Luz Dentro De Ti",
+      "url": "https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK"
+    },
+    {
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197186,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
+    },
+    {
+      "album": {
+        "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
+        "url": "https://open.spotify.com/album/78LoJthaoIuMaRNZGduMdh"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244262,
+      "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
+      "url": "https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2"
+    },
+    {
+      "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224999,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/3AS2NiyobOcS454xthOByC"
+    },
+    {
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157360,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7DwLHGbapLZRCIuWS0K6BQ"
+    },
+    {
+      "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195970,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
+    },
+    {
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197680,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY"
+    },
+    {
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "Nenita",
+      "url": "https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO"
+    },
+    {
+      "album": {
+        "name": "No S\u00e9 Si Salga El Sol (Remix)",
+        "url": "https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188753,
+      "name": "No S\u00e9 Si Salga El Sol - Remix",
+      "url": "https://open.spotify.com/track/0gw6orix5diJLOahicJhj6"
+    },
+    {
+      "album": {
+        "name": "Polvo De Estrellas",
+        "url": "https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu"
+      },
+      "artists": [
+        {
+          "name": "Alberto Plaza",
+          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227429,
+      "name": "Polvo De Estrellas",
+      "url": "https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE"
+    },
+    {
+      "album": {
+        "name": "Puro Sentimiento",
+        "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186397,
+      "name": "Puro Sentimiento",
+      "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 183926,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
+    },
+    {
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256948,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
+    },
+    {
+      "album": {
+        "name": "Te Lastim\u00e9",
+        "url": "https://open.spotify.com/album/3NiY4M0jMYZP9NkAziX41p"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221211,
+      "name": "Te Lastim\u00e9",
+      "url": "https://open.spotify.com/track/644e2A7OrjKecbT31eZ3dU"
+    },
+    {
+      "album": {
+        "name": "Tropical Jesus",
+        "url": "https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188222,
+      "name": "Todo Estaba Bien",
+      "url": "https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9"
+    },
+    {
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
+    },
+    {
+      "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+    },
+    {
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241382,
+      "name": "\u00bfC\u00f3mo Hacer Para Olvidarte?",
+      "url": "https://open.spotify.com/track/7p8JhjfckxcuOF0Weixvfa"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO06p7qw"
 }

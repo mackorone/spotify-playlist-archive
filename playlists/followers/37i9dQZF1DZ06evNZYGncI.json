@@ -1,579 +1,1017 @@
 {
-  "2022-05-31": 740329,
-  "2022-06-01": 741157,
-  "2022-06-02": 741227,
-  "2022-06-03": 741591,
-  "2022-06-04": 741958,
-  "2022-06-05": 742337,
-  "2022-06-06": 742718,
-  "2022-06-07": 743088,
-  "2022-06-08": 743609,
-  "2022-06-09": 743919,
-  "2022-06-10": 744393,
-  "2022-06-11": 744830,
-  "2022-06-12": 745283,
-  "2022-06-13": 745619,
-  "2022-06-14": 746076,
-  "2022-06-15": 746486,
-  "2022-06-16": 746927,
-  "2022-06-17": 747361,
-  "2022-06-18": 747837,
-  "2022-06-19": 748533,
-  "2022-06-20": 748533,
-  "2022-06-21": 748951,
-  "2022-06-22": 749796,
-  "2022-06-23": 749796,
-  "2022-06-24": 750238,
-  "2022-06-25": 750735,
-  "2022-06-26": 751130,
-  "2022-06-27": 751512,
-  "2022-06-28": 751963,
-  "2022-06-29": 752409,
-  "2022-06-30": 752893,
-  "2022-07-01": 753384,
-  "2022-07-02": 753873,
-  "2022-07-03": 754264,
-  "2022-07-04": 754636,
-  "2022-07-05": 755051,
-  "2022-07-06": 755051,
-  "2022-07-07": 755882,
-  "2022-07-08": 756320,
-  "2022-07-09": 756777,
-  "2022-07-10": 757186,
-  "2022-07-11": 757560,
-  "2022-07-12": 757964,
-  "2022-07-13": 758365,
-  "2022-07-14": 758758,
-  "2022-07-15": 759206,
-  "2022-07-16": 759692,
-  "2022-07-17": 760131,
-  "2022-07-18": 760559,
-  "2022-07-19": 761006,
-  "2022-07-20": 761483,
-  "2022-07-21": 762147,
-  "2022-07-22": 762771,
-  "2022-07-23": 763378,
-  "2022-07-24": 763929,
-  "2022-07-25": 764399,
-  "2022-07-26": 764911,
-  "2022-07-27": 765445,
-  "2022-07-28": 765981,
-  "2022-07-29": 766574,
-  "2022-07-30": 767711,
-  "2022-07-31": 767711,
-  "2022-08-01": 768165,
-  "2022-08-02": 769085,
-  "2022-08-03": 769085,
-  "2022-08-04": 769624,
-  "2022-08-05": 770131,
-  "2022-08-06": 770763,
-  "2022-08-07": 771357,
-  "2022-08-08": 771869,
-  "2022-08-09": 772501,
-  "2022-08-10": 773065,
-  "2022-08-11": 773585,
-  "2022-08-12": 774161,
-  "2022-08-13": 774682,
-  "2022-08-14": 775165,
-  "2022-08-15": 775624,
-  "2022-08-16": 776124,
-  "2022-08-17": 776687,
-  "2022-08-18": 777219,
-  "2022-08-19": 777786,
-  "2022-08-20": 778339,
-  "2022-08-21": 778828,
-  "2022-08-22": 779286,
-  "2022-08-23": 779818,
-  "2022-08-24": 780367,
-  "2022-08-25": 780915,
-  "2022-08-26": 781530,
-  "2022-08-27": 782106,
-  "2022-08-28": 782592,
-  "2022-08-29": 782969,
-  "2022-08-30": 783027,
-  "2022-08-31": 782524,
-  "2022-09-01": 781969,
-  "2022-09-02": 781444,
-  "2022-09-03": 780266,
-  "2022-09-04": 780013,
-  "2022-09-05": 780342,
-  "2022-09-06": 780757,
-  "2022-09-07": 781208,
-  "2022-09-09": 782159,
-  "2022-09-10": 782612,
-  "2022-09-11": 783034,
-  "2022-09-12": 783299,
-  "2022-09-13": 783692,
-  "2022-09-15": 784567,
-  "2022-09-16": 784979,
-  "2022-09-17": 785425,
-  "2022-09-18": 785789,
-  "2022-09-19": 786141,
-  "2022-09-20": 786530,
-  "2022-09-21": 786984,
-  "2022-09-22": 787476,
-  "2022-09-23": 787944,
-  "2022-09-24": 788345,
-  "2022-09-25": 788761,
-  "2022-09-26": 789101,
-  "2022-09-27": 789538,
-  "2022-09-28": 789957,
-  "2022-09-29": 790494,
-  "2022-09-30": 791029,
-  "2022-10-01": 791624,
-  "2022-10-02": 791955,
-  "2022-10-03": 792225,
-  "2022-10-04": 792581,
-  "2022-10-05": 792958,
-  "2022-10-06": 793481,
-  "2022-10-07": 793936,
-  "2022-10-08": 794460,
-  "2022-10-09": 795150,
-  "2022-10-10": 795219,
-  "2022-10-11": 795620,
-  "2022-10-12": 796021,
-  "2022-10-13": 796448,
-  "2022-10-14": 796919,
-  "2022-10-15": 797368,
-  "2022-10-16": 797804,
-  "2022-10-17": 798178,
-  "2022-10-18": 798544,
-  "2022-10-19": 798978,
-  "2022-10-20": 799438,
-  "2022-10-21": 799871,
-  "2022-10-22": 800395,
-  "2022-10-23": 800800,
-  "2022-10-24": 801141,
-  "2022-10-25": 801551,
-  "2022-10-26": 802049,
-  "2022-10-27": 802486,
-  "2022-10-28": 802963,
-  "2022-10-29": 803345,
-  "2022-10-30": 803669,
-  "2022-10-31": 803954,
-  "2022-11-01": 804319,
-  "2022-11-02": 804676,
-  "2022-11-03": 805074,
-  "2022-11-04": 805489,
-  "2022-11-05": 805912,
-  "2022-11-06": 806287,
-  "2022-11-07": 806554,
-  "2022-11-08": 806956,
-  "2022-11-09": 807356,
-  "2022-11-10": 807809,
-  "2022-11-11": 808268,
-  "2022-11-12": 808712,
-  "2022-11-13": 809002,
-  "2022-11-14": 809317,
-  "2022-11-15": 809686,
-  "2022-11-16": 810025,
-  "2022-11-17": 810424,
-  "2022-11-18": 810488,
-  "2022-11-19": 810552,
-  "2022-11-20": 810871,
-  "2022-11-21": 811222,
-  "2022-11-22": 811454,
-  "2022-11-23": 811760,
-  "2022-11-24": 812446,
-  "2022-11-25": 812953,
-  "2022-11-26": 813278,
-  "2022-11-27": 813590,
-  "2022-11-28": 813837,
-  "2022-11-29": 814145,
-  "2022-11-30": 814520,
-  "2022-12-01": 814894,
-  "2022-12-02": 815157,
-  "2022-12-03": 815685,
-  "2022-12-04": 816090,
-  "2022-12-05": 816415,
-  "2022-12-06": 816909,
-  "2022-12-07": 817359,
-  "2022-12-08": 817842,
-  "2022-12-09": 818358,
-  "2022-12-10": 818801,
-  "2022-12-11": 819125,
-  "2022-12-12": 819479,
-  "2022-12-13": 819946,
-  "2022-12-14": 820383,
-  "2022-12-15": 820779,
-  "2022-12-16": 821206,
-  "2022-12-17": 821644,
-  "2022-12-18": 822060,
-  "2022-12-19": 822401,
-  "2022-12-20": 823251,
-  "2022-12-21": 823251,
-  "2022-12-22": 823721,
-  "2022-12-24": 824567,
-  "2022-12-25": 824933,
-  "2022-12-26": 825173,
-  "2022-12-27": 825531,
-  "2022-12-28": 825887,
-  "2022-12-29": 826242,
-  "2022-12-30": 826614,
-  "2022-12-31": 826992,
-  "2023-01-01": 827323,
-  "2023-01-02": 827566,
-  "2023-01-03": 827885,
-  "2023-01-04": 828214,
-  "2023-01-05": 828582,
-  "2023-01-06": 828969,
-  "2023-01-07": 829497,
-  "2023-01-08": 829578,
-  "2023-01-09": 829853,
-  "2023-01-10": 830224,
-  "2023-01-11": 830637,
-  "2023-01-12": 831041,
-  "2023-01-13": 831475,
-  "2023-01-14": 832143,
-  "2023-01-15": 832202,
-  "2023-01-16": 832559,
-  "2023-01-17": 832883,
-  "2023-01-18": 833317,
-  "2023-01-19": 833772,
-  "2023-01-20": 834192,
-  "2023-01-21": 834640,
-  "2023-01-22": 835046,
-  "2023-01-23": 835392,
-  "2023-01-24": 835795,
-  "2023-01-25": 836272,
-  "2023-01-26": 836662,
-  "2023-01-27": 837078,
-  "2023-01-28": 837496,
-  "2023-01-29": 837862,
-  "2023-01-30": 838182,
-  "2023-01-31": 838182,
-  "2023-02-01": 838902,
-  "2023-02-02": 839303,
-  "2023-02-03": 839734,
-  "2023-02-04": 840176,
-  "2023-02-05": 840556,
-  "2023-02-06": 840930,
-  "2023-02-07": 841284,
-  "2023-02-08": 841965,
-  "2023-02-09": 841965,
-  "2023-02-10": 842159,
-  "2023-02-11": 842304,
-  "2023-02-12": 842340,
-  "2023-02-13": 842347,
-  "2023-02-14": 842347,
-  "2023-02-15": 842356,
-  "2023-02-16": 842360,
-  "2023-02-17": 842359,
-  "2023-02-18": 842357,
-  "2023-02-19": 842346,
-  "2023-02-20": 842319,
-  "2023-02-21": 842307,
-  "2023-02-22": 842301,
-  "2023-02-23": 842264,
-  "2023-02-24": 842265,
-  "2023-02-25": 842249,
-  "2023-02-26": 842231,
-  "2023-02-27": 842148,
-  "2023-02-28": 842148,
-  "2023-03-01": 842124,
-  "2023-03-02": 842126,
-  "2023-03-03": 842106,
-  "2023-03-04": 842101,
-  "2023-03-05": 842037,
-  "2023-03-06": 842037,
-  "2023-03-07": 841994,
-  "2023-03-08": 841984,
-  "2023-03-09": 841933,
-  "2023-03-10": 841879,
-  "2023-03-11": 841855,
-  "2023-03-12": 841839,
-  "2023-03-13": 841810,
-  "2023-03-14": 841793,
-  "2023-03-15": 841753,
-  "2023-03-16": 841743,
-  "2023-03-17": 841743,
-  "2023-03-18": 841695,
-  "2023-03-19": 841655,
-  "2023-03-20": 841608,
-  "2023-03-21": 841599,
-  "2023-03-22": 841589,
-  "2023-03-23": 841558,
-  "2023-03-24": 841558,
-  "2023-03-25": 841538,
-  "2023-03-26": 841507,
-  "2023-03-27": 841496,
-  "2023-03-28": 841488,
-  "2023-03-29": 841475,
-  "2023-03-30": 841433,
-  "2023-03-31": 841433,
-  "2023-04-01": 841454,
-  "2023-04-02": 841442,
-  "2023-04-03": 841406,
-  "2023-04-04": 841382,
-  "2023-04-05": 841366,
-  "2023-04-06": 841343,
-  "2023-04-07": 841336,
-  "2023-04-09": 841281,
-  "2023-04-10": 841265,
-  "2023-04-11": 841203,
-  "2023-04-12": 841203,
-  "2023-04-13": 841161,
-  "2023-04-14": 841132,
-  "2023-04-15": 841141,
-  "2023-04-16": 841111,
-  "2023-04-17": 841070,
-  "2023-04-18": 841031,
-  "2023-04-19": 840997,
-  "2023-04-20": 840924,
-  "2023-04-21": 840873,
-  "2023-04-22": 840865,
-  "2023-04-23": 840837,
-  "2023-04-24": 840834,
-  "2023-04-25": 840795,
-  "2023-04-26": 840772,
-  "2023-04-27": 840765,
-  "2023-04-28": 840769,
-  "2023-04-29": 840752,
-  "2023-04-30": 840745,
-  "2023-05-01": 840706,
-  "2023-05-02": 840687,
-  "2023-05-03": 840653,
-  "2023-05-04": 840634,
-  "2023-05-05": 840640,
-  "2023-05-06": 840617,
-  "2023-05-07": 840584,
-  "2023-05-08": 840598,
-  "2023-05-09": 840569,
-  "2023-05-10": 840558,
-  "2023-05-11": 840500,
-  "2023-05-12": 840464,
-  "2023-05-13": 840407,
-  "2023-05-14": 840345,
-  "2023-05-15": 840280,
-  "2023-05-16": 840191,
-  "2023-05-17": 840138,
-  "2023-05-18": 840195,
-  "2023-05-19": 840531,
-  "2023-05-20": 841367,
-  "2023-05-21": 841367,
-  "2023-05-22": 841367,
-  "2023-05-23": 842163,
-  "2023-05-24": 842987,
-  "2023-05-25": 843118,
-  "2023-05-26": 843576,
-  "2023-05-27": 844053,
-  "2023-05-28": 844427,
-  "2023-05-29": 844427,
-  "2023-05-30": 845102,
-  "2023-05-31": 845546,
-  "2023-06-01": 845981,
-  "2023-06-02": 846454,
-  "2023-06-03": 846932,
-  "2023-06-04": 847418,
-  "2023-06-05": 847793,
-  "2023-06-06": 848268,
-  "2023-06-07": 848772,
-  "2023-06-08": 849340,
-  "2023-06-09": 849818,
-  "2023-06-10": 850392,
-  "2023-06-11": 850843,
-  "2023-06-12": 851298,
-  "2023-06-13": 851764,
-  "2023-06-14": 852352,
-  "2023-06-15": 852888,
-  "2023-06-16": 853384,
-  "2023-06-17": 853951,
-  "2023-06-18": 854351,
-  "2023-06-19": 854723,
-  "2023-06-20": 855158,
-  "2023-06-21": 855642,
-  "2023-06-22": 856226,
-  "2023-06-23": 856646,
-  "2023-06-24": 857081,
-  "2023-06-25": 857511,
-  "2023-06-26": 857887,
-  "2023-06-27": 858349,
-  "2023-06-28": 858775,
-  "2023-06-29": 859209,
-  "2023-06-30": 859668,
-  "2023-07-01": 860511,
-  "2023-07-02": 860511,
-  "2023-07-03": 860832,
-  "2023-07-04": 861238,
-  "2023-07-05": 861630,
-  "2023-07-06": 862426,
-  "2023-07-07": 862426,
-  "2023-07-08": 862831,
-  "2023-07-09": 863130,
-  "2023-07-10": 863419,
-  "2023-07-11": 863723,
-  "2023-07-12": 864082,
-  "2023-07-13": 864484,
-  "2023-07-14": 864860,
-  "2023-07-15": 865121,
-  "2023-07-16": 865528,
-  "2023-07-17": 865838,
-  "2023-07-18": 866182,
-  "2023-07-19": 866561,
-  "2023-07-20": 866916,
-  "2023-07-21": 867329,
-  "2023-07-22": 867696,
-  "2023-07-23": 868050,
-  "2023-07-24": 868393,
-  "2023-07-25": 868742,
-  "2023-07-26": 869113,
-  "2023-07-27": 869536,
-  "2023-07-28": 869990,
-  "2023-07-29": 870332,
-  "2023-07-30": 870710,
-  "2023-07-31": 871022,
-  "2023-08-01": 871318,
-  "2023-08-02": 871683,
-  "2023-08-03": 872070,
-  "2023-08-04": 872411,
-  "2023-08-05": 872728,
-  "2023-08-06": 873354,
-  "2023-08-07": 873354,
-  "2023-08-08": 873662,
-  "2023-08-09": 874003,
-  "2023-08-10": 874322,
-  "2023-08-11": 874660,
-  "2023-08-12": 875041,
-  "2023-08-13": 875041,
-  "2023-08-14": 875645,
-  "2023-08-15": 876333,
-  "2023-08-16": 876333,
-  "2023-08-17": 876642,
-  "2023-08-18": 877037,
-  "2023-08-19": 877471,
-  "2023-08-20": 877824,
-  "2023-08-21": 878097,
-  "2023-08-22": 878426,
-  "2023-08-23": 878771,
-  "2023-08-24": 879167,
-  "2023-08-25": 879576,
-  "2023-08-26": 880036,
-  "2023-08-27": 880362,
-  "2023-08-28": 880635,
-  "2023-08-29": 880933,
-  "2023-08-30": 880933,
-  "2023-08-31": 881654,
-  "2023-09-01": 882471,
-  "2023-09-02": 882471,
-  "2023-09-03": 882856,
-  "2023-09-04": 882856,
-  "2023-09-05": 883455,
-  "2023-09-06": 883765,
-  "2023-09-07": 883765,
-  "2023-09-08": 883765,
-  "2023-09-09": 883765,
-  "2023-09-10": 885277,
-  "2023-09-11": 885592,
-  "2023-09-12": 885592,
-  "2023-09-13": 886297,
-  "2023-09-14": 886297,
-  "2023-09-15": 887080,
-  "2023-09-16": 887464,
-  "2023-09-17": 887464,
-  "2023-09-18": 887464,
-  "2023-09-19": 888291,
-  "2023-09-20": 888642,
-  "2023-09-21": 888964,
-  "2023-09-22": 889306,
-  "2023-09-23": 889306,
-  "2023-09-24": 889306,
-  "2023-09-25": 889306,
-  "2023-09-26": 890528,
-  "2023-09-27": 890528,
-  "2023-09-28": 890528,
-  "2023-09-29": 890528,
-  "2023-09-30": 890528,
-  "2023-10-01": 890528,
-  "2023-10-02": 892399,
-  "2023-10-03": 892399,
-  "2023-10-04": 892399,
-  "2023-10-05": 893266,
-  "2023-10-06": 893637,
-  "2023-10-07": 893637,
-  "2023-10-08": 893637,
-  "2023-10-09": 893637,
-  "2023-10-10": 893637,
-  "2023-10-11": 894602,
-  "2023-10-12": 894602,
-  "2023-10-13": 894500,
-  "2023-10-14": 894500,
-  "2023-10-15": 894500,
-  "2023-10-16": 894500,
-  "2023-10-17": 894500,
-  "2023-10-18": 894500,
-  "2023-10-19": 894500,
-  "2023-10-20": 894500,
-  "2023-10-21": 894500,
-  "2023-10-22": 894500,
-  "2023-10-23": 894500,
-  "2023-10-24": 894500,
-  "2023-10-25": 894500,
-  "2023-10-26": 894500,
-  "2023-10-27": 894500,
-  "2023-10-28": 894500,
-  "2023-10-29": 894500,
-  "2023-10-30": 894500,
-  "2023-10-31": 894500,
-  "2023-11-01": 894500,
-  "2023-11-02": 894500,
-  "2023-11-03": 894500,
-  "2023-11-04": 894500,
-  "2023-11-05": 894500,
-  "2023-11-06": 894500,
-  "2023-11-07": 894500,
-  "2023-11-08": 894500,
-  "2023-11-09": 894500,
-  "2023-11-10": 894500,
-  "2023-11-11": 902705,
-  "2023-11-12": 902705,
-  "2023-11-13": 902705,
-  "2023-11-14": 902705,
-  "2023-11-15": 902705,
-  "2023-11-16": 902705,
-  "2023-11-17": 902705,
-  "2023-11-18": 902705,
-  "2023-11-19": 902705,
-  "2023-11-20": 902705,
-  "2023-11-21": 902705,
-  "2023-11-22": 902705,
-  "2023-11-23": 902705,
-  "2023-11-24": 902705,
-  "2023-11-25": 902705,
-  "2023-11-26": 902705,
-  "2023-11-27": 902705,
-  "2023-11-28": 902705,
-  "2023-11-29": 902705,
-  "2023-11-30": 902705,
-  "2023-12-01": 902705,
-  "2023-12-02": 902705,
-  "2023-12-03": 902705,
-  "2023-12-04": 902705,
-  "2023-12-05": 902705,
-  "2023-12-06": 902705,
-  "2023-12-07": 902705,
-  "2023-12-08": 902705,
-  "2023-12-09": 902705,
-  "2023-12-10": 902705,
-  "2023-12-11": 902705,
-  "2023-12-12": 902705,
-  "2023-12-13": 902705,
-  "2023-12-14": 911432,
-  "2023-12-15": 911720,
-  "2023-12-16": 912118,
-  "2023-12-17": 912404,
-  "2023-12-18": 912674,
-  "2023-12-19": 912932,
-  "2023-12-20": 913242,
-  "2023-12-21": 913518,
-  "2023-12-22": 913799,
-  "2023-12-23": 914110,
-  "2023-12-24": 914387,
-  "2023-12-25": 914624,
-  "2023-12-26": 914848,
-  "2023-12-27": 915108,
-  "2023-12-30": 915916,
-  "2023-12-31": 916184,
-  "2024-01-01": 916429,
-  "2024-01-02": 916587,
-  "2024-01-03": 916787
+  "2024-01-17": 918222,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Slipknot. The essential tracks, all in one playlist.",
+  "name": "This Is Slipknot",
+  "tracks": [
+    {
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345693,
+      "name": "'Til We Die",
+      "url": "https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "(sic)",
+      "url": "https://open.spotify.com/track/1g8lVIsEkDaGD1nKw6fwUb"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340400,
+      "name": "Adderall",
+      "url": "https://open.spotify.com/track/1PcANFoqnDsexSHXpWrn8Q"
+    },
+    {
+      "album": {
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/0E3OlFC9aoCO37szpGrqfH"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 276035,
+      "name": "Adderall - No Intro",
+      "url": "https://open.spotify.com/track/6jsgDXBHbzXWv0Lsbmorf2"
+    },
+    {
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284760,
+      "name": "All Hope Is Gone",
+      "url": "https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0"
+    },
+    {
+      "album": {
+        "name": "All Out Life",
+        "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340132,
+      "name": "All Out Life",
+      "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
+    },
+    {
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332906,
+      "name": "AOV",
+      "url": "https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+    },
+    {
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275839,
+      "name": "Birth Of The Cruel",
+      "url": "https://open.spotify.com/track/7I6p0xNYahHpUUXj785URX"
+    },
+    {
+      "album": {
+        "name": "Bone Church",
+        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327240,
+      "name": "Bone Church",
+      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
+    },
+    {
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385818,
+      "name": "Critical Darling",
+      "url": "https://open.spotify.com/track/3XFaGEb6daqdj39ThpJ2XI"
+    },
+    {
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "Custer",
+      "url": "https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf"
+    },
+    {
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268586,
+      "name": "Dead Memories",
+      "url": "https://open.spotify.com/track/0HAr4QR1xI8nwC7VfzYidu"
+    },
+    {
+      "album": {
+        "name": "Adderall",
+        "url": "https://open.spotify.com/album/0E3OlFC9aoCO37szpGrqfH"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 64364,
+      "name": "Death March",
+      "url": "https://open.spotify.com/track/1LeHl5s8Bep4Ngl238B9Cm"
+    },
+    {
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308306,
+      "name": "Disasterpiece",
+      "url": "https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252613,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
+    },
+    {
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "Everything Ends",
+      "url": "https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236360,
+      "name": "Eyeless",
+      "url": "https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ"
+    },
+    {
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 294000,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/00WbLoO3bSlUdAy8al106S"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 263093,
+      "name": "H377",
+      "url": "https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 211320,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315906,
+      "name": "Hive Mind",
+      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
+    },
+    {
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 157826,
+      "name": "I Am Hated",
+      "url": "https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3"
+    },
+    {
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225066,
+      "name": "Killpop",
+      "url": "https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0"
+    },
+    {
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241466,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 376226,
+      "name": "Medicine for the Dead",
+      "url": "https://open.spotify.com/track/0qFBuG34m8V4LMgYUMYPV7"
+    },
+    {
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220293,
+      "name": "My Plague",
+      "url": "https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i"
+    },
+    {
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315177,
+      "name": "Nero Forte",
+      "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
+    },
+    {
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "People = Shit",
+      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
+    },
+    {
+      "album": {
+        "name": "All Hope Is Gone (10th Anniversary)",
+        "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284120,
+      "name": "Psychosocial",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259733,
+      "name": "Pulse of the Maggots",
+      "url": "https://open.spotify.com/track/0at89DgpVeImkVrQ0htbVm"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265453,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio"
+    },
+    {
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251697,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/4SsgF844NGbl7UFcymqWKy"
+    },
+    {
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286560,
+      "name": "Skeptic",
+      "url": "https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1"
+    },
+    {
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276146,
+      "name": "Snuff",
+      "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
+    },
+    {
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355540,
+      "name": "Solway Firth",
+      "url": "https://open.spotify.com/track/6WCkyaVmut83CtBFEUhDo4"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159773,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/2W2eaLVKv9NObcLXlYRZZo"
+    },
+    {
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277800,
+      "name": "Sulfur",
+      "url": "https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Surfacing",
+      "url": "https://open.spotify.com/track/0iget4icTqUya9wtpvCTF2"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319426,
+      "name": "The Blister Exists",
+      "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289226,
+      "name": "The Chapeltown Rag",
+      "url": "https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo"
+    },
+    {
+      "album": {
+        "name": "The Dying Song (Time To Sing)",
+        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 291660,
+      "name": "The Chapeltown Rag",
+      "url": "https://open.spotify.com/track/3NzQKU2n3sdUGL67cppEea"
+    },
+    {
+      "album": {
+        "name": "The Chapeltown Rag",
+        "url": "https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 291660,
+      "name": "The Chapeltown Rag",
+      "url": "https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw"
+    },
+    {
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342821,
+      "name": "The Devil in I",
+      "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK"
+    },
+    {
+      "album": {
+        "name": "The Dying Song (Time To Sing)",
+        "url": "https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
+    },
+    {
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "The Heretic Anthem",
+      "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"
+    },
+    {
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325171,
+      "name": "The Negative One",
+      "url": "https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3"
+    },
+    {
+      "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260773,
+      "name": "Unsainted",
+      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
+    },
+    {
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315506,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "Vermilion",
+      "url": "https://open.spotify.com/track/0fX9KPa0i9RGDI59gI90i9"
+    },
+    {
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "Vermilion, Pt. 2",
+      "url": "https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD"
+    },
+    {
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "Wait and Bleed",
+      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231146,
+      "name": "Warranty",
+      "url": "https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1"
+    },
+    {
+      "album": {
+        "name": "Yen",
+        "url": "https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 283786,
+      "name": "Yen",
+      "url": "https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0"
+    },
+    {
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283786,
+      "name": "Yen",
+      "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYGncI"
 }

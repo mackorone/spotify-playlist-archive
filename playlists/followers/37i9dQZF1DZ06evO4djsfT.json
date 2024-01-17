@@ -1,291 +1,1463 @@
 {
-  "2023-03-18": 18489,
-  "2023-03-19": 18489,
-  "2023-03-20": 18529,
-  "2023-03-21": 18550,
-  "2023-03-22": 18582,
-  "2023-03-23": 18599,
-  "2023-03-24": 18599,
-  "2023-03-25": 18634,
-  "2023-03-26": 18663,
-  "2023-03-27": 18690,
-  "2023-03-28": 18708,
-  "2023-03-29": 18731,
-  "2023-03-30": 18777,
-  "2023-03-31": 18777,
-  "2023-04-01": 18806,
-  "2023-04-02": 18828,
-  "2023-04-03": 18845,
-  "2023-04-04": 18865,
-  "2023-04-05": 18876,
-  "2023-04-06": 18890,
-  "2023-04-07": 18911,
-  "2023-04-09": 18939,
-  "2023-04-10": 18945,
-  "2023-04-11": 18980,
-  "2023-04-12": 18980,
-  "2023-04-13": 18994,
-  "2023-04-14": 19007,
-  "2023-04-15": 19022,
-  "2023-04-16": 19045,
-  "2023-04-17": 19059,
-  "2023-04-18": 19072,
-  "2023-04-19": 19085,
-  "2023-04-20": 19098,
-  "2023-04-21": 19117,
-  "2023-04-22": 19140,
-  "2023-04-23": 19152,
-  "2023-04-24": 19170,
-  "2023-04-25": 19177,
-  "2023-04-26": 19189,
-  "2023-04-27": 19201,
-  "2023-04-28": 19223,
-  "2023-04-29": 19239,
-  "2023-04-30": 19249,
-  "2023-05-01": 19265,
-  "2023-05-02": 19284,
-  "2023-05-03": 19309,
-  "2023-05-04": 19327,
-  "2023-05-05": 19339,
-  "2023-05-06": 19357,
-  "2023-05-07": 19370,
-  "2023-05-08": 19387,
-  "2023-05-09": 19404,
-  "2023-05-10": 19416,
-  "2023-05-11": 19436,
-  "2023-05-12": 19455,
-  "2023-05-13": 19469,
-  "2023-05-14": 19485,
-  "2023-05-15": 19501,
-  "2023-05-16": 19512,
-  "2023-05-17": 19521,
-  "2023-05-18": 19534,
-  "2023-05-19": 19550,
-  "2023-05-20": 19583,
-  "2023-05-21": 19583,
-  "2023-05-22": 19583,
-  "2023-05-23": 19613,
-  "2023-05-24": 19636,
-  "2023-05-25": 19640,
-  "2023-05-26": 19651,
-  "2023-05-27": 19665,
-  "2023-05-28": 19676,
-  "2023-05-29": 19676,
-  "2023-05-30": 19705,
-  "2023-05-31": 19717,
-  "2023-06-01": 19734,
-  "2023-06-02": 19752,
-  "2023-06-03": 19767,
-  "2023-06-04": 19773,
-  "2023-06-05": 19786,
-  "2023-06-06": 19797,
-  "2023-06-07": 19821,
-  "2023-06-08": 19836,
-  "2023-06-09": 19856,
-  "2023-06-10": 19873,
-  "2023-06-11": 19888,
-  "2023-06-12": 19911,
-  "2023-06-13": 19926,
-  "2023-06-14": 19926,
-  "2023-06-15": 19955,
-  "2023-06-16": 19965,
-  "2023-06-17": 19980,
-  "2023-06-18": 19998,
-  "2023-06-19": 20014,
-  "2023-06-20": 20029,
-  "2023-06-21": 20046,
-  "2023-06-22": 20065,
-  "2023-06-23": 20081,
-  "2023-06-24": 20098,
-  "2023-06-25": 20113,
-  "2023-06-26": 20124,
-  "2023-06-27": 20131,
-  "2023-06-28": 20145,
-  "2023-06-29": 20157,
-  "2023-06-30": 20166,
-  "2023-07-01": 20536,
-  "2023-07-02": 20536,
-  "2023-07-03": 20544,
-  "2023-07-04": 20560,
-  "2023-07-05": 20565,
-  "2023-07-06": 20593,
-  "2023-07-07": 20593,
-  "2023-07-08": 20593,
-  "2023-07-09": 20630,
-  "2023-07-10": 20649,
-  "2023-07-11": 20679,
-  "2023-07-12": 20705,
-  "2023-07-13": 20728,
-  "2023-07-14": 20752,
-  "2023-07-15": 20771,
-  "2023-07-16": 20795,
-  "2023-07-17": 20534,
-  "2023-07-18": 20499,
-  "2023-07-19": 20505,
-  "2023-07-20": 20505,
-  "2023-07-21": 20549,
-  "2023-07-22": 20559,
-  "2023-07-23": 20581,
-  "2023-07-24": 20592,
-  "2023-07-25": 20619,
-  "2023-07-26": 20638,
-  "2023-07-27": 20648,
-  "2023-07-28": 20648,
-  "2023-07-29": 20684,
-  "2023-07-30": 20684,
-  "2023-07-31": 20715,
-  "2023-08-01": 20739,
-  "2023-08-02": 20768,
-  "2023-08-03": 20787,
-  "2023-08-04": 20802,
-  "2023-08-05": 20817,
-  "2023-08-06": 20852,
-  "2023-08-07": 20852,
-  "2023-08-08": 20876,
-  "2023-08-09": 20891,
-  "2023-08-10": 20900,
-  "2023-08-11": 20922,
-  "2023-08-12": 20922,
-  "2023-08-13": 20922,
-  "2023-08-14": 20922,
-  "2023-08-15": 20922,
-  "2023-08-16": 20922,
-  "2023-08-17": 20922,
-  "2023-08-18": 20922,
-  "2023-08-19": 20922,
-  "2023-08-20": 21159,
-  "2023-08-21": 21159,
-  "2023-08-22": 21196,
-  "2023-08-23": 21196,
-  "2023-08-24": 21196,
-  "2023-08-25": 21196,
-  "2023-08-26": 21269,
-  "2023-08-27": 21269,
-  "2023-08-28": 21313,
-  "2023-08-29": 21313,
-  "2023-08-30": 21313,
-  "2023-08-31": 21370,
-  "2023-09-01": 21395,
-  "2023-09-02": 21395,
-  "2023-09-03": 21395,
-  "2023-09-04": 21395,
-  "2023-09-05": 21395,
-  "2023-09-06": 21395,
-  "2023-09-07": 21395,
-  "2023-09-08": 21395,
-  "2023-09-09": 21395,
-  "2023-09-10": 21395,
-  "2023-09-11": 21395,
-  "2023-09-12": 21395,
-  "2023-09-13": 21395,
-  "2023-09-14": 21395,
-  "2023-09-15": 21395,
-  "2023-09-16": 21395,
-  "2023-09-17": 21395,
-  "2023-09-18": 21395,
-  "2023-09-19": 21395,
-  "2023-09-20": 21395,
-  "2023-09-21": 21395,
-  "2023-09-22": 21715,
-  "2023-09-23": 21715,
-  "2023-09-24": 21715,
-  "2023-09-25": 21715,
-  "2023-09-26": 21758,
-  "2023-09-27": 21758,
-  "2023-09-28": 21758,
-  "2023-09-29": 21758,
-  "2023-09-30": 21758,
-  "2023-10-01": 21758,
-  "2023-10-02": 21758,
-  "2023-10-03": 21758,
-  "2023-10-04": 21758,
-  "2023-10-05": 21758,
-  "2023-10-06": 21758,
-  "2023-10-07": 21758,
-  "2023-10-08": 21758,
-  "2023-10-09": 21758,
-  "2023-10-10": 21758,
-  "2023-10-11": 21758,
-  "2023-10-12": 21758,
-  "2023-10-13": 21758,
-  "2023-10-14": 21758,
-  "2023-10-15": 21758,
-  "2023-10-16": 21758,
-  "2023-10-17": 21758,
-  "2023-10-18": 21758,
-  "2023-10-19": 21758,
-  "2023-10-20": 21758,
-  "2023-10-21": 21758,
-  "2023-10-22": 21758,
-  "2023-10-23": 21758,
-  "2023-10-24": 21758,
-  "2023-10-25": 21758,
-  "2023-10-26": 21758,
-  "2023-10-27": 21758,
-  "2023-10-28": 21758,
-  "2023-10-29": 21758,
-  "2023-10-30": 21758,
-  "2023-10-31": 21758,
-  "2023-11-01": 21758,
-  "2023-11-02": 21758,
-  "2023-11-03": 21758,
-  "2023-11-04": 21758,
-  "2023-11-05": 21758,
-  "2023-11-06": 21758,
-  "2023-11-07": 21758,
-  "2023-11-08": 21758,
-  "2023-11-09": 21758,
-  "2023-11-10": 21758,
-  "2023-11-11": 22309,
-  "2023-11-12": 22309,
-  "2023-11-13": 22309,
-  "2023-11-14": 22309,
-  "2023-11-15": 22309,
-  "2023-11-16": 22309,
-  "2023-11-17": 22309,
-  "2023-11-18": 22309,
-  "2023-11-19": 22309,
-  "2023-11-20": 22309,
-  "2023-11-21": 22309,
-  "2023-11-22": 22309,
-  "2023-11-23": 22309,
-  "2023-11-24": 22309,
-  "2023-11-25": 22309,
-  "2023-11-26": 22309,
-  "2023-11-27": 22309,
-  "2023-11-28": 22309,
-  "2023-11-29": 22309,
-  "2023-11-30": 22309,
-  "2023-12-01": 22309,
-  "2023-12-02": 22309,
-  "2023-12-03": 22309,
-  "2023-12-04": 22309,
-  "2023-12-05": 22309,
-  "2023-12-06": 22309,
-  "2023-12-07": 22309,
-  "2023-12-08": 22309,
-  "2023-12-09": 22309,
-  "2023-12-10": 22309,
-  "2023-12-11": 22309,
-  "2023-12-12": 22309,
-  "2023-12-13": 22309,
-  "2023-12-14": 22619,
-  "2023-12-15": 22630,
-  "2023-12-16": 22635,
-  "2023-12-17": 22646,
-  "2023-12-18": 22654,
-  "2023-12-19": 22659,
-  "2023-12-20": 22666,
-  "2023-12-21": 22676,
-  "2023-12-22": 22687,
-  "2023-12-23": 22696,
-  "2023-12-24": 22704,
-  "2023-12-25": 22708,
-  "2023-12-26": 22721,
-  "2023-12-27": 22729,
-  "2023-12-30": 22754,
-  "2023-12-31": 22761,
-  "2024-01-01": 22770,
-  "2024-01-02": 22778,
-  "2024-01-03": 22783
+  "2024-01-17": 22983,
+  "date_first_scraped": "2023-03-18",
+  "description": "This is KB. The essential tracks, all in one playlist.",
+  "name": "This Is KB",
+  "tracks": [
+    {
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219242,
+      "name": "100",
+      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196132,
+      "name": "10K",
+      "url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5"
+    },
+    {
+      "album": {
+        "name": "Another Win",
+        "url": "https://open.spotify.com/album/7veYjJEJdSVMaxU9NBIObU"
+      },
+      "artists": [
+        {
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225621,
+      "name": "Another Win",
+      "url": "https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210783,
+      "name": "Armies",
+      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208377,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL"
+    },
+    {
+      "album": {
+        "name": "What's Understood",
+        "url": "https://open.spotify.com/album/5yjpMVAQ1f4DurUP67RcKR"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 247128,
+      "name": "Back Soon",
+      "url": "https://open.spotify.com/track/4H20Cd4jvIZsdOKnFuCGAM"
+    },
+    {
+      "album": {
+        "name": "Be Alright (Remix)",
+        "url": "https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222854,
+      "name": "Be Alright - Remix",
+      "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
+    },
+    {
+      "album": {
+        "name": "The Epilogue.",
+        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173179,
+      "name": "Built For This",
+      "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
+    },
+    {
+      "album": {
+        "name": "COMA",
+        "url": "https://open.spotify.com/album/1R9kIu20SZDjdKj3KpysYL"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191644,
+      "name": "Can\u2019t Tell It All (Remix)",
+      "url": "https://open.spotify.com/track/3HVeUY3tYnCg7yHe3JN0bS"
+    },
+    {
+      "album": {
+        "name": "Weight & Glory",
+        "url": "https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Church Clap",
+      "url": "https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4nrf0EltbsBbUX5fSJjF2W"
+      },
+      "artists": [
+        {
+          "name": "116",
+          "url": "https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 237411,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/7cSgDrUh6ZAv25JgOPlyOB"
+    },
+    {
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
+    },
+    {
+      "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Cardec Drums",
+          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203195,
+      "name": "Danza",
+      "url": "https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP"
+    },
+    {
+      "album": {
+        "name": "Die Rich",
+        "url": "https://open.spotify.com/album/7gHS6ywjV1BSg0roKiEoR0"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ray Emmanuel",
+          "url": "https://open.spotify.com/artist/1VDmG7pIFozqBrmj0LynQd"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 242840,
+      "name": "Die Rich",
+      "url": "https://open.spotify.com/track/6BKu8kCqUoQy0BFgnOYMJr"
+    },
+    {
+      "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 240911,
+      "name": "Dnou",
+      "url": "https://open.spotify.com/track/2fBhHFsXlV23ENM4nEBsVT"
+    },
+    {
+      "album": {
+        "name": "DNOU2",
+        "url": "https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 224668,
+      "name": "DNOU2",
+      "url": "https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM"
+    },
+    {
+      "album": {
+        "name": "EZ",
+        "url": "https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181163,
+      "name": "EZ",
+      "url": "https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV"
+    },
+    {
+      "album": {
+        "name": "Glory 2 Glory",
+        "url": "https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl"
+    },
+    {
+      "album": {
+        "name": "We Belong",
+        "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177219,
+      "name": "God Speed",
+      "url": "https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC"
+    },
+    {
+      "album": {
+        "name": "Graves",
+        "url": "https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
+    },
+    {
+      "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223107,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
+    },
+    {
+      "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 269627,
+      "name": "I Am Not the One",
+      "url": "https://open.spotify.com/track/5PRBy8y79B3xM2Kx3tJbmb"
+    },
+    {
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Mattie of For Today",
+          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236353,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
+    },
+    {
+      "album": {
+        "name": "IGWT",
+        "url": "https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179233,
+      "name": "IGWT",
+      "url": "https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
+        },
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 142096,
+      "name": "Imagine That",
+      "url": "https://open.spotify.com/track/1qpxR8VW5hi9i06ADbCq5O"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 206669,
+      "name": "Intro to Glory",
+      "url": "https://open.spotify.com/track/35xnvEvl4IXhaS617S3Elq"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "King Jesus",
+      "url": "https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX"
+    },
+    {
+      "album": {
+        "name": "King Jesus",
+        "url": "https://open.spotify.com/album/5YJm6pkNV8vFWjqDc9LNDD"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 168000,
+      "name": "King Jesus",
+      "url": "https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259328,
+      "name": "Let It Reign (feat. Bizzle)",
+      "url": "https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah"
+    },
+    {
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Justin Ebach",
+          "url": "https://open.spotify.com/artist/7lAEeQHAtYITsUktcK80m9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 259271,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/5TYKPiZtHh02L0Xx8Prkiv"
+    },
+    {
+      "album": {
+        "name": "Lincoln",
+        "url": "https://open.spotify.com/album/1BgrsZr2sx0dEiK18sZGd9"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 267469,
+      "name": "Lincoln",
+      "url": "https://open.spotify.com/track/7KsSc1CI3GAbcsqv2t0G6K"
+    },
+    {
+      "album": {
+        "name": "Long Live the Champion",
+        "url": "https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Yariel",
+          "url": "https://open.spotify.com/artist/2eu1Av4h29jABu0xlHSt2T"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263118,
+      "name": "Long Live the Champion",
+      "url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp"
+    },
+    {
+      "album": {
+        "name": "Let's Be Honest - EP",
+        "url": "https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136384,
+      "name": "Long Way (feat. KB)",
+      "url": "https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP"
+    },
+    {
+      "album": {
+        "name": "Man Up",
+        "url": "https://open.spotify.com/album/6fSKi6TfeqQazb9QlpfRUy"
+      },
+      "artists": [
+        {
+          "name": "116",
+          "url": "https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 207197,
+      "name": "Man up Anthem",
+      "url": "https://open.spotify.com/track/4HSyxvkoA2MKKVh13ruWLI"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161856,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
+    },
+    {
+      "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb"
+    },
+    {
+      "album": {
+        "name": "No Chains",
+        "url": "https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222651,
+      "name": "No Chains",
+      "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
+    },
+    {
+      "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246545,
+      "name": "Not Today Satan",
+      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
+    },
+    {
+      "album": {
+        "name": "Now They Know",
+        "url": "https://open.spotify.com/album/6lpJPDD0Z1nY8HtvPBjG2c"
+      },
+      "artists": [
+        {
+          "name": "116",
+          "url": "https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72"
+        },
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270325,
+      "name": "Now They Know",
+      "url": "https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79"
+    },
+    {
+      "album": {
+        "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205386,
+      "name": "O God Forgive Us",
+      "url": "https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J"
+    },
+    {
+      "album": {
+        "name": "On 10",
+        "url": "https://open.spotify.com/album/1o2f9ssb08V2XSRichmBT1"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 187601,
+      "name": "On 10",
+      "url": "https://open.spotify.com/track/2KR3XkJdsVJrF1ISG1QbLy"
+    },
+    {
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246346,
+      "name": "One Sixteen",
+      "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
+    },
+    {
+      "album": {
+        "name": "Never Land",
+        "url": "https://open.spotify.com/album/5HMbGgihB0YZlcLzqAKqa5"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 213946,
+      "name": "Paganini",
+      "url": "https://open.spotify.com/track/66UXoQx5oMbil1UWDXDIW0"
+    },
+    {
+      "album": {
+        "name": "Clouds Are Clearing: Mixtape 1A",
+        "url": "https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Dan Rivera",
+          "url": "https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 257349,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2S9t3jIPnEs7zlTzZHPbEQ"
+    },
+    {
+      "album": {
+        "name": "American Prodigal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
+    },
+    {
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254449,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/7qzqx1R7HHWKcwioMAqX2M"
+    },
+    {
+      "album": {
+        "name": "The Messenger 4: Independents Day",
+        "url": "https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U"
+      },
+      "artists": [
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259615,
+      "name": "Smoke Free",
+      "url": "https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ"
+    },
+    {
+      "album": {
+        "name": "So Tired (feat. Bizzle & Zhalarina)",
+        "url": "https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        },
+        {
+          "name": "Zhalarina",
+          "url": "https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208717,
+      "name": "So Tired (feat. Bizzle & Zhalarina)",
+      "url": "https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk"
+    },
+    {
+      "album": {
+        "name": "Start Right Here (HGA Version)",
+        "url": "https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173575,
+      "name": "Start Right Here (HGA Version)",
+      "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 207448,
+      "name": "Talk to Me Nice",
+      "url": "https://open.spotify.com/track/7dp1ONlSA4YoKd0jbSDUBP"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7CHHpR5lbHnnNdY2blhDhi"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 240516,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/2qFykEZQhO43nt6Kbg0IFk"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229807,
+      "name": "The Name (feat. Koryn Hawthorne)",
+      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+    },
+    {
+      "album": {
+        "name": "The Divine Storm",
+        "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207129,
+      "name": "The Power +",
+      "url": "https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L"
+    },
+    {
+      "album": {
+        "name": "Heroes for Sale",
+        "url": "https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238146,
+      "name": "The Saints",
+      "url": "https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167164,
+      "name": "Too God",
+      "url": "https://open.spotify.com/track/69M2s5Rm5aLPcCbznvrZnT"
+    },
+    {
+      "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254040,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc"
+    },
+    {
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237496,
+      "name": "Undefeated (feat. KB)",
+      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
+    },
+    {
+      "album": {
+        "name": "The End.",
+        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216586,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170761,
+      "name": "Who the Son Sets Free",
+      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
+    },
+    {
+      "album": {
+        "name": "Wholehearted",
+        "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182095,
+      "name": "Wholehearted",
+      "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
+    },
+    {
+      "album": {
+        "name": "Worship in the Moshpit",
+        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190480,
+      "name": "Worship in the Moshpit",
+      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225809,
+      "name": "Yes Song",
+      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
+    },
+    {
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 241460,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/3KXeP6ABCId10NPis7RQps"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4djsfT"
 }

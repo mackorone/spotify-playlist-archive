@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JeuYQRSLDs.md) - [plain]
 
 > Featuring El Alfa, Farruko, Omega, ROSALÍA & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,958 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,010 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 |
 | 2 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 3 | [Si Te Vas / Que Tengo Que Hacer \- Original Remix](https://open.spotify.com/track/0OyHCmkCp2qZJ44ZKB26fX) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [El Dueño Del Flow \(Bonus Track Version\)](https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep) | 4:05 |
+| 3 | [Si Te Vas / Que Tengo Que Hacer \- Original Remix](https://open.spotify.com/track/0OyHCmkCp2qZJ44ZKB26fX) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [El Dueño Del Flow \(Bonus Track Version\)](https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep) | 4:05 |
 | 4 | [Rómpela](https://open.spotify.com/track/6mwROK8Er0EZdXwbwuiHIJ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [One Six](https://open.spotify.com/artist/2mObH2CyMvLbmG5RQCeO0d) | [Rómpela](https://open.spotify.com/album/6Z5sESQanxhvXqNbEMhQGd) | 3:04 |
 | 5 | [Háblame de Miami](https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Háblame de Miami](https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE) | 2:38 |
 | 6 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |

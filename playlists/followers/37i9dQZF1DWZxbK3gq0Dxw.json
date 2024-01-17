@@ -1,313 +1,379 @@
 {
-  "2023-02-24": 131750,
-  "2023-02-25": 155823,
-  "2023-02-26": 162821,
-  "2023-02-27": 173767,
-  "2023-02-28": 173767,
-  "2023-03-01": 177910,
-  "2023-03-02": 182968,
-  "2023-03-03": 186573,
-  "2023-03-04": 188422,
-  "2023-03-05": 190726,
-  "2023-03-06": 190726,
-  "2023-03-07": 191520,
-  "2023-03-08": 191953,
-  "2023-03-09": 192358,
-  "2023-03-10": 192641,
-  "2023-03-11": 192874,
-  "2023-03-12": 193101,
-  "2023-03-13": 193302,
-  "2023-03-14": 193450,
-  "2023-03-15": 193500,
-  "2023-03-16": 193568,
-  "2023-03-17": 193568,
-  "2023-03-18": 193693,
-  "2023-03-19": 193779,
-  "2023-03-20": 193812,
-  "2023-03-21": 193884,
-  "2023-03-22": 193940,
-  "2023-03-23": 194009,
-  "2023-03-24": 194009,
-  "2023-03-25": 194147,
-  "2023-03-26": 194202,
-  "2023-03-27": 194256,
-  "2023-03-28": 194256,
-  "2023-03-29": 194241,
-  "2023-03-30": 194307,
-  "2023-03-31": 194307,
-  "2023-04-01": 194330,
-  "2023-04-02": 194359,
-  "2023-04-03": 194375,
-  "2023-04-04": 194358,
-  "2023-04-05": 194363,
-  "2023-04-06": 194355,
-  "2023-04-07": 194335,
-  "2023-04-09": 194324,
-  "2023-04-10": 194318,
-  "2023-04-11": 194290,
-  "2023-04-12": 194290,
-  "2023-04-13": 194252,
-  "2023-04-14": 194231,
-  "2023-04-15": 194229,
-  "2023-04-16": 194252,
-  "2023-04-17": 194235,
-  "2023-04-18": 194196,
-  "2023-04-19": 194207,
-  "2023-04-20": 194178,
-  "2023-04-21": 194165,
-  "2023-04-22": 194162,
-  "2023-04-23": 194169,
-  "2023-04-24": 194150,
-  "2023-04-25": 194112,
-  "2023-04-26": 194113,
-  "2023-04-27": 194100,
-  "2023-04-28": 194097,
-  "2023-04-29": 194086,
-  "2023-04-30": 194088,
-  "2023-05-01": 194063,
-  "2023-05-02": 194043,
-  "2023-05-03": 194007,
-  "2023-05-04": 194000,
-  "2023-05-05": 193978,
-  "2023-05-06": 193981,
-  "2023-05-07": 193970,
-  "2023-05-08": 193955,
-  "2023-05-09": 193923,
-  "2023-05-10": 193907,
-  "2023-05-11": 193893,
-  "2023-05-12": 193874,
-  "2023-05-13": 193860,
-  "2023-05-14": 193851,
-  "2023-05-15": 193818,
-  "2023-05-16": 193802,
-  "2023-05-17": 193806,
-  "2023-05-18": 193792,
-  "2023-05-19": 193802,
-  "2023-05-20": 193806,
-  "2023-05-21": 193806,
-  "2023-05-22": 193806,
-  "2023-05-23": 193809,
-  "2023-05-24": 193794,
-  "2023-05-25": 193791,
-  "2023-05-26": 193773,
-  "2023-05-27": 193783,
-  "2023-05-28": 193776,
-  "2023-05-29": 193776,
-  "2023-05-30": 193759,
-  "2023-05-31": 193746,
-  "2023-06-01": 193739,
-  "2023-06-02": 193718,
-  "2023-06-03": 193720,
-  "2023-06-04": 193703,
-  "2023-06-05": 193697,
-  "2023-06-06": 193682,
-  "2023-06-07": 193655,
-  "2023-06-08": 193649,
-  "2023-06-09": 193637,
-  "2023-06-10": 193624,
-  "2023-06-11": 193622,
-  "2023-06-12": 193590,
-  "2023-06-13": 193581,
-  "2023-06-14": 193559,
-  "2023-06-15": 193541,
-  "2023-06-16": 193532,
-  "2023-06-17": 193529,
-  "2023-06-18": 193506,
-  "2023-06-19": 193507,
-  "2023-06-20": 193482,
-  "2023-06-21": 193474,
-  "2023-06-22": 193462,
-  "2023-06-23": 193459,
-  "2023-06-24": 193456,
-  "2023-06-25": 193449,
-  "2023-06-26": 193450,
-  "2023-06-27": 193416,
-  "2023-06-28": 193420,
-  "2023-06-29": 193419,
-  "2023-06-30": 193418,
-  "2023-07-01": 193422,
-  "2023-07-02": 193422,
-  "2023-07-03": 193398,
-  "2023-07-04": 193372,
-  "2023-07-05": 193345,
-  "2023-07-06": 193322,
-  "2023-07-07": 193322,
-  "2023-07-08": 193297,
-  "2023-07-09": 193276,
-  "2023-07-10": 193262,
-  "2023-07-11": 193241,
-  "2023-07-12": 193235,
-  "2023-07-13": 193203,
-  "2023-07-14": 193198,
-  "2023-07-15": 193193,
-  "2023-07-16": 193189,
-  "2023-07-17": 193171,
-  "2023-07-18": 193153,
-  "2023-07-19": 193132,
-  "2023-07-20": 193127,
-  "2023-07-21": 193118,
-  "2023-07-22": 193118,
-  "2023-07-23": 193112,
-  "2023-07-24": 193121,
-  "2023-07-25": 193108,
-  "2023-07-26": 193090,
-  "2023-07-27": 193078,
-  "2023-07-28": 193068,
-  "2023-07-29": 193065,
-  "2023-07-30": 193042,
-  "2023-07-31": 193029,
-  "2023-08-01": 193027,
-  "2023-08-02": 193009,
-  "2023-08-03": 192984,
-  "2023-08-04": 192969,
-  "2023-08-05": 192980,
-  "2023-08-06": 192967,
-  "2023-08-07": 192967,
-  "2023-08-08": 192949,
-  "2023-08-09": 192927,
-  "2023-08-10": 192920,
-  "2023-08-11": 192926,
-  "2023-08-12": 192925,
-  "2023-08-13": 192934,
-  "2023-08-14": 192924,
-  "2023-08-15": 192896,
-  "2023-08-16": 192896,
-  "2023-08-17": 192898,
-  "2023-08-18": 192901,
-  "2023-08-19": 192885,
-  "2023-08-20": 192878,
-  "2023-08-21": 192890,
-  "2023-08-22": 192894,
-  "2023-08-23": 192869,
-  "2023-08-24": 192857,
-  "2023-08-25": 192864,
-  "2023-08-26": 192854,
-  "2023-08-27": 192843,
-  "2023-08-28": 192833,
-  "2023-08-29": 192827,
-  "2023-08-30": 192797,
-  "2023-08-31": 192799,
-  "2023-09-01": 192788,
-  "2023-09-02": 192788,
-  "2023-09-03": 192770,
-  "2023-09-04": 192759,
-  "2023-09-05": 192737,
-  "2023-09-06": 192717,
-  "2023-09-07": 192688,
-  "2023-09-08": 192659,
-  "2023-09-09": 192647,
-  "2023-09-10": 192634,
-  "2023-09-11": 192625,
-  "2023-09-12": 192610,
-  "2023-09-13": 192607,
-  "2023-09-14": 192596,
-  "2023-09-15": 192593,
-  "2023-09-16": 192580,
-  "2023-09-17": 192557,
-  "2023-09-18": 192524,
-  "2023-09-19": 192531,
-  "2023-09-20": 192513,
-  "2023-09-21": 192499,
-  "2023-09-22": 192492,
-  "2023-09-23": 192492,
-  "2023-09-24": 192484,
-  "2023-09-25": 192461,
-  "2023-09-26": 192442,
-  "2023-09-27": 192430,
-  "2023-09-28": 192436,
-  "2023-09-29": 192428,
-  "2023-09-30": 192426,
-  "2023-10-01": 192416,
-  "2023-10-02": 192408,
-  "2023-10-03": 192407,
-  "2023-10-04": 192399,
-  "2023-10-05": 192381,
-  "2023-10-06": 192376,
-  "2023-10-07": 192363,
-  "2023-10-08": 192355,
-  "2023-10-09": 192331,
-  "2023-10-10": 192283,
-  "2023-10-11": 192200,
-  "2023-10-12": 192200,
-  "2023-10-13": 192135,
-  "2023-10-14": 192112,
-  "2023-10-15": 192104,
-  "2023-10-16": 192101,
-  "2023-10-17": 192078,
-  "2023-10-18": 192068,
-  "2023-10-19": 192050,
-  "2023-10-20": 192050,
-  "2023-10-21": 192042,
-  "2023-10-22": 192026,
-  "2023-10-23": 192009,
-  "2023-10-24": 192001,
-  "2023-10-25": 191978,
-  "2023-10-26": 191971,
-  "2023-10-27": 191966,
-  "2023-10-28": 191960,
-  "2023-10-29": 191951,
-  "2023-10-30": 191901,
-  "2023-10-31": 191901,
-  "2023-11-01": 191894,
-  "2023-11-02": 191876,
-  "2023-11-03": 191857,
-  "2023-11-04": 191851,
-  "2023-11-05": 191832,
-  "2023-11-06": 191804,
-  "2023-11-07": 191787,
-  "2023-11-08": 191773,
-  "2023-11-09": 191759,
-  "2023-11-10": 191748,
-  "2023-11-11": 191740,
-  "2023-11-12": 191730,
-  "2023-11-13": 191720,
-  "2023-11-14": 191700,
-  "2023-11-15": 191700,
-  "2023-11-16": 191632,
-  "2023-11-17": 191607,
-  "2023-11-18": 191607,
-  "2023-11-19": 191592,
-  "2023-11-20": 191565,
-  "2023-11-21": 191546,
-  "2023-11-22": 191522,
-  "2023-11-23": 191496,
-  "2023-11-24": 191483,
-  "2023-11-25": 191469,
-  "2023-11-26": 191456,
-  "2023-11-27": 191439,
-  "2023-11-28": 191420,
-  "2023-11-29": 191346,
-  "2023-11-30": 191346,
-  "2023-12-01": 191294,
-  "2023-12-02": 191263,
-  "2023-12-03": 191241,
-  "2023-12-04": 191231,
-  "2023-12-05": 191214,
-  "2023-12-06": 191184,
-  "2023-12-07": 191155,
-  "2023-12-08": 191132,
-  "2023-12-09": 191117,
-  "2023-12-10": 191095,
-  "2023-12-11": 191076,
-  "2023-12-12": 191067,
-  "2023-12-13": 191049,
-  "2023-12-14": 191040,
-  "2023-12-15": 191027,
-  "2023-12-16": 191028,
-  "2023-12-17": 191014,
-  "2023-12-18": 190999,
-  "2023-12-19": 190977,
-  "2023-12-20": 190962,
-  "2023-12-21": 190935,
-  "2023-12-22": 190925,
-  "2023-12-23": 190909,
-  "2023-12-24": 190903,
-  "2023-12-25": 190890,
-  "2023-12-26": 190886,
-  "2023-12-27": 190874,
-  "2023-12-30": 190837,
-  "2023-12-31": 190816,
-  "2024-01-01": 190809,
-  "2024-01-02": 190796,
-  "2024-01-03": 190779
+  "2024-01-17": 190345,
+  "date_first_scraped": "2023-02-24",
+  "description": "The Cracker Island experience, all in one playlist. ",
+  "name": "Gorillaz presents Cracker Island",
+  "tracks": [
+    {
+      "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
+    },
+    {
+      "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111066,
+      "name": "Captain Chicken (feat. Del The Funky Homosapien)",
+      "url": "https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2"
+    },
+    {
+      "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150316,
+      "name": "Controllah (feat. MC Bin Laden)",
+      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
+    },
+    {
+      "album": {
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153264,
+      "name": "Crocadillaz (feat. De La Soul and Dawn Penn)",
+      "url": "https://open.spotify.com/track/07bE8BmqXXMGUiAHcZwl2q"
+    },
+    {
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+        "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/49ozuucNvoHNstYChqEzPU"
+    },
+    {
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230141,
+      "name": "Oil (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
+    },
+    {
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206410,
+      "name": "Possession Island (feat. Beck)",
+      "url": "https://open.spotify.com/track/0gclZ31Oo7rysAQDg7HguD"
+    },
+    {
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Adeleye Omotayo",
+          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266338,
+      "name": "Silent Running (feat. Adeleye Omotayo)",
+      "url": "https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1"
+    },
+    {
+      "album": {
+        "name": "Silent Running (feat. Adeleye Omotayo)",
+        "url": "https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Adeleye Omotayo",
+          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 266338,
+      "name": "Silent Running (feat. Adeleye Omotayo)",
+      "url": "https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg"
+    },
+    {
+      "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Adeleye Omotayo",
+          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263213,
+      "name": "Silent Running (feat. Adeleye Omotayo) [2D Piano Version]",
+      "url": "https://open.spotify.com/track/4zcXwePxXk3SkjaPwOZ3TO"
+    },
+    {
+      "album": {
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
+    },
+    {
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/67BbnzIuXFd5knDLwB3mkN"
+    },
+    {
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211549,
+      "name": "Tarantula",
+      "url": "https://open.spotify.com/track/0rnGYYBw32ALUIiuEgwv2c"
+    },
+    {
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211031,
+      "name": "The Tired Influencer",
+      "url": "https://open.spotify.com/track/1Wld681KIdy5ZosdDb5bfz"
+    },
+    {
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZxbK3gq0Dxw"
 }

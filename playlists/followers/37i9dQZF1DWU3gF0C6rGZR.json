@@ -1,569 +1,1995 @@
 {
-  "2022-06-10": 21820,
-  "2022-06-11": 21875,
-  "2022-06-12": 21963,
-  "2022-06-13": 22063,
-  "2022-06-14": 22105,
-  "2022-06-15": 22155,
-  "2022-06-16": 22219,
-  "2022-06-17": 22281,
-  "2022-06-18": 22352,
-  "2022-06-19": 22519,
-  "2022-06-20": 22519,
-  "2022-06-21": 22578,
-  "2022-06-22": 22689,
-  "2022-06-23": 22689,
-  "2022-06-24": 22738,
-  "2022-06-25": 22797,
-  "2022-06-26": 22857,
-  "2022-06-27": 22919,
-  "2022-06-28": 22967,
-  "2022-06-29": 23025,
-  "2022-06-30": 23072,
-  "2022-07-01": 23132,
-  "2022-07-02": 23208,
-  "2022-07-03": 23293,
-  "2022-07-04": 23361,
-  "2022-07-05": 23419,
-  "2022-07-06": 23487,
-  "2022-07-07": 23549,
-  "2022-07-08": 23610,
-  "2022-07-09": 23677,
-  "2022-07-10": 23748,
-  "2022-07-11": 23821,
-  "2022-07-12": 23885,
-  "2022-07-13": 23946,
-  "2022-07-14": 24006,
-  "2022-07-15": 24073,
-  "2022-07-16": 24147,
-  "2022-07-17": 24219,
-  "2022-07-18": 24307,
-  "2022-07-19": 24354,
-  "2022-07-20": 24409,
-  "2022-07-21": 24460,
-  "2022-07-22": 24521,
-  "2022-07-23": 24588,
-  "2022-07-24": 24666,
-  "2022-07-25": 24747,
-  "2022-07-26": 24807,
-  "2022-07-27": 24844,
-  "2022-07-28": 24900,
-  "2022-07-29": 24958,
-  "2022-07-30": 25084,
-  "2022-07-31": 25084,
-  "2022-08-01": 25167,
-  "2022-08-02": 25271,
-  "2022-08-03": 25271,
-  "2022-08-04": 25325,
-  "2022-08-05": 25377,
-  "2022-08-06": 25445,
-  "2022-08-07": 25511,
-  "2022-08-08": 25559,
-  "2022-08-09": 25615,
-  "2022-08-10": 25670,
-  "2022-08-11": 25733,
-  "2022-08-12": 25791,
-  "2022-08-13": 25855,
-  "2022-08-14": 25907,
-  "2022-08-15": 25960,
-  "2022-08-16": 26023,
-  "2022-08-17": 26077,
-  "2022-08-18": 26136,
-  "2022-08-19": 26223,
-  "2022-08-20": 26295,
-  "2022-08-21": 26371,
-  "2022-08-22": 26442,
-  "2022-08-23": 26488,
-  "2022-08-24": 26548,
-  "2022-08-25": 26614,
-  "2022-08-26": 26657,
-  "2022-08-27": 26713,
-  "2022-08-28": 26784,
-  "2022-08-29": 26853,
-  "2022-08-30": 26916,
-  "2022-08-31": 26984,
-  "2022-09-01": 27040,
-  "2022-09-02": 27100,
-  "2022-09-03": 27168,
-  "2022-09-04": 27239,
-  "2022-09-05": 27300,
-  "2022-09-06": 27340,
-  "2022-09-07": 27383,
-  "2022-09-09": 27473,
-  "2022-09-10": 27521,
-  "2022-09-11": 27592,
-  "2022-09-12": 27653,
-  "2022-09-13": 27707,
-  "2022-09-15": 27806,
-  "2022-09-16": 27849,
-  "2022-09-17": 27903,
-  "2022-09-18": 27970,
-  "2022-09-19": 28057,
-  "2022-09-20": 28094,
-  "2022-09-21": 28148,
-  "2022-09-22": 28201,
-  "2022-09-23": 28258,
-  "2022-09-24": 28330,
-  "2022-09-25": 28408,
-  "2022-09-26": 28479,
-  "2022-09-27": 28534,
-  "2022-09-28": 28590,
-  "2022-09-29": 28649,
-  "2022-09-30": 28710,
-  "2022-10-01": 28771,
-  "2022-10-02": 28862,
-  "2022-10-03": 28942,
-  "2022-10-04": 29001,
-  "2022-10-05": 29052,
-  "2022-10-06": 29115,
-  "2022-10-07": 29181,
-  "2022-10-08": 29254,
-  "2022-10-09": 29386,
-  "2022-10-10": 29407,
-  "2022-10-11": 29479,
-  "2022-10-12": 29538,
-  "2022-10-13": 29598,
-  "2022-10-14": 29660,
-  "2022-10-15": 29733,
-  "2022-10-16": 29819,
-  "2022-10-17": 29886,
-  "2022-10-18": 29931,
-  "2022-10-19": 29992,
-  "2022-10-20": 30057,
-  "2022-10-21": 30142,
-  "2022-10-22": 30198,
-  "2022-10-23": 30289,
-  "2022-10-24": 30359,
-  "2022-10-25": 30407,
-  "2022-10-26": 30479,
-  "2022-10-27": 30559,
-  "2022-10-28": 30652,
-  "2022-10-29": 30745,
-  "2022-10-30": 30835,
-  "2022-10-31": 30907,
-  "2022-11-01": 30981,
-  "2022-11-02": 31066,
-  "2022-11-03": 31110,
-  "2022-11-04": 31184,
-  "2022-11-05": 31258,
-  "2022-11-06": 31346,
-  "2022-11-07": 31421,
-  "2022-11-08": 31499,
-  "2022-11-09": 31572,
-  "2022-11-10": 31631,
-  "2022-11-11": 31697,
-  "2022-11-12": 31780,
-  "2022-11-13": 31849,
-  "2022-11-14": 31931,
-  "2022-11-15": 32015,
-  "2022-11-16": 32098,
-  "2022-11-17": 32166,
-  "2022-11-18": 32184,
-  "2022-11-19": 32173,
-  "2022-11-20": 32197,
-  "2022-11-21": 32264,
-  "2022-11-22": 32346,
-  "2022-11-23": 32425,
-  "2022-11-24": 32591,
-  "2022-11-25": 32824,
-  "2022-11-26": 32977,
-  "2022-11-27": 33092,
-  "2022-11-28": 33186,
-  "2022-11-29": 33238,
-  "2022-11-30": 33329,
-  "2022-12-01": 33407,
-  "2022-12-02": 33475,
-  "2022-12-03": 33497,
-  "2022-12-04": 33599,
-  "2022-12-05": 33692,
-  "2022-12-06": 33760,
-  "2022-12-07": 33833,
-  "2022-12-08": 33901,
-  "2022-12-09": 33973,
-  "2022-12-10": 34011,
-  "2022-12-11": 34083,
-  "2022-12-12": 34172,
-  "2022-12-13": 34224,
-  "2022-12-14": 34286,
-  "2022-12-15": 34363,
-  "2022-12-16": 34417,
-  "2022-12-17": 34469,
-  "2022-12-18": 34544,
-  "2022-12-19": 34611,
-  "2022-12-20": 34722,
-  "2022-12-21": 34722,
-  "2022-12-22": 34793,
-  "2022-12-24": 34906,
-  "2022-12-25": 34989,
-  "2022-12-26": 35051,
-  "2022-12-27": 35117,
-  "2022-12-28": 35213,
-  "2022-12-29": 35272,
-  "2022-12-30": 35359,
-  "2022-12-31": 35429,
-  "2023-01-01": 35520,
-  "2023-01-02": 35580,
-  "2023-01-03": 35654,
-  "2023-01-04": 35731,
-  "2023-01-05": 35799,
-  "2023-01-06": 35876,
-  "2023-01-07": 36003,
-  "2023-01-08": 36031,
-  "2023-01-09": 36119,
-  "2023-01-10": 36184,
-  "2023-01-11": 36243,
-  "2023-01-12": 36316,
-  "2023-01-13": 36387,
-  "2023-01-14": 36535,
-  "2023-01-15": 36555,
-  "2023-01-16": 36634,
-  "2023-01-17": 36692,
-  "2023-01-18": 36759,
-  "2023-01-19": 36837,
-  "2023-01-20": 36910,
-  "2023-01-21": 36996,
-  "2023-01-22": 37099,
-  "2023-01-23": 37176,
-  "2023-01-24": 37245,
-  "2023-01-25": 37303,
-  "2023-01-26": 37370,
-  "2023-01-27": 37422,
-  "2023-01-28": 37507,
-  "2023-01-29": 37608,
-  "2023-01-30": 37690,
-  "2023-01-31": 37690,
-  "2023-02-01": 37830,
-  "2023-02-02": 37891,
-  "2023-02-03": 37964,
-  "2023-02-04": 38029,
-  "2023-02-05": 38115,
-  "2023-02-06": 38193,
-  "2023-02-07": 38253,
-  "2023-02-08": 38343,
-  "2023-02-09": 38343,
-  "2023-02-10": 38402,
-  "2023-02-11": 38478,
-  "2023-02-12": 38646,
-  "2023-02-13": 38706,
-  "2023-02-14": 38706,
-  "2023-02-15": 38781,
-  "2023-02-16": 38855,
-  "2023-02-17": 38907,
-  "2023-02-18": 39099,
-  "2023-02-19": 39113,
-  "2023-02-20": 39181,
-  "2023-02-21": 39248,
-  "2023-02-22": 39326,
-  "2023-02-23": 39405,
-  "2023-02-24": 39477,
-  "2023-02-25": 39573,
-  "2023-02-26": 39639,
-  "2023-02-27": 39804,
-  "2023-02-28": 39804,
-  "2023-03-01": 39874,
-  "2023-03-02": 39948,
-  "2023-03-03": 40018,
-  "2023-03-04": 40071,
-  "2023-03-05": 40235,
-  "2023-03-06": 40235,
-  "2023-03-07": 40285,
-  "2023-03-08": 40342,
-  "2023-03-09": 40404,
-  "2023-03-10": 40475,
-  "2023-03-11": 40534,
-  "2023-03-12": 40613,
-  "2023-03-13": 40690,
-  "2023-03-14": 40730,
-  "2023-03-15": 40799,
-  "2023-03-16": 40851,
-  "2023-03-17": 40851,
-  "2023-03-18": 40969,
-  "2023-03-19": 41041,
-  "2023-03-20": 41114,
-  "2023-03-21": 41185,
-  "2023-03-22": 41241,
-  "2023-03-23": 41306,
-  "2023-03-24": 41306,
-  "2023-03-25": 41448,
-  "2023-03-26": 41539,
-  "2023-03-27": 41614,
-  "2023-03-28": 41671,
-  "2023-03-29": 41752,
-  "2023-03-30": 41863,
-  "2023-03-31": 41863,
-  "2023-04-01": 41934,
-  "2023-04-02": 41995,
-  "2023-04-03": 42076,
-  "2023-04-04": 42137,
-  "2023-04-05": 42189,
-  "2023-04-06": 42235,
-  "2023-04-07": 42293,
-  "2023-04-09": 42416,
-  "2023-04-10": 42469,
-  "2023-04-11": 42596,
-  "2023-04-12": 42596,
-  "2023-04-13": 42654,
-  "2023-04-14": 42706,
-  "2023-04-15": 42755,
-  "2023-04-16": 42841,
-  "2023-04-17": 42892,
-  "2023-04-18": 42946,
-  "2023-04-19": 43019,
-  "2023-04-20": 43061,
-  "2023-04-21": 43129,
-  "2023-04-22": 43182,
-  "2023-04-23": 43249,
-  "2023-04-24": 43327,
-  "2023-04-25": 43365,
-  "2023-04-26": 43421,
-  "2023-04-27": 43479,
-  "2023-04-28": 43541,
-  "2023-04-29": 43614,
-  "2023-04-30": 43692,
-  "2023-05-01": 43744,
-  "2023-05-02": 43797,
-  "2023-05-03": 43846,
-  "2023-05-04": 43897,
-  "2023-05-05": 43944,
-  "2023-05-06": 44012,
-  "2023-05-07": 44069,
-  "2023-05-08": 44134,
-  "2023-05-09": 44173,
-  "2023-05-10": 44232,
-  "2023-05-11": 44278,
-  "2023-05-12": 44335,
-  "2023-05-13": 44384,
-  "2023-05-14": 44448,
-  "2023-05-15": 44501,
-  "2023-05-16": 44544,
-  "2023-05-17": 44592,
-  "2023-05-18": 44657,
-  "2023-05-19": 44719,
-  "2023-05-20": 44875,
-  "2023-05-21": 44875,
-  "2023-05-22": 44875,
-  "2023-05-23": 45016,
-  "2023-05-24": 45118,
-  "2023-05-25": 45136,
-  "2023-05-26": 45205,
-  "2023-05-27": 45270,
-  "2023-05-28": 45332,
-  "2023-05-29": 45332,
-  "2023-05-30": 45411,
-  "2023-05-31": 45447,
-  "2023-06-01": 45491,
-  "2023-06-02": 45538,
-  "2023-06-03": 45586,
-  "2023-06-04": 45628,
-  "2023-06-05": 45686,
-  "2023-06-06": 45741,
-  "2023-06-07": 45773,
-  "2023-06-08": 45822,
-  "2023-06-09": 45877,
-  "2023-06-10": 45933,
-  "2023-06-11": 45989,
-  "2023-06-12": 46040,
-  "2023-06-13": 46088,
-  "2023-06-14": 46088,
-  "2023-06-15": 46173,
-  "2023-06-16": 46213,
-  "2023-06-17": 46271,
-  "2023-06-18": 46332,
-  "2023-06-19": 46385,
-  "2023-06-20": 46435,
-  "2023-06-21": 46480,
-  "2023-06-22": 46515,
-  "2023-06-23": 46559,
-  "2023-06-24": 46602,
-  "2023-06-25": 46664,
-  "2023-06-26": 46709,
-  "2023-06-27": 46744,
-  "2023-06-28": 46795,
-  "2023-06-29": 46846,
-  "2023-06-30": 46882,
-  "2023-07-01": 46969,
-  "2023-07-02": 46969,
-  "2023-07-03": 47021,
-  "2023-07-04": 47069,
-  "2023-07-05": 47099,
-  "2023-07-06": 47177,
-  "2023-07-07": 47177,
-  "2023-07-08": 47235,
-  "2023-07-09": 47290,
-  "2023-07-10": 47349,
-  "2023-07-11": 47395,
-  "2023-07-12": 47424,
-  "2023-07-13": 47470,
-  "2023-07-14": 47512,
-  "2023-07-15": 47543,
-  "2023-07-16": 47611,
-  "2023-07-17": 47647,
-  "2023-07-18": 47687,
-  "2023-07-19": 47730,
-  "2023-07-20": 47781,
-  "2023-07-21": 47831,
-  "2023-07-22": 47885,
-  "2023-07-23": 47932,
-  "2023-07-24": 47988,
-  "2023-07-25": 48030,
-  "2023-07-26": 48087,
-  "2023-07-27": 48134,
-  "2023-07-28": 48199,
-  "2023-07-29": 48248,
-  "2023-07-30": 48307,
-  "2023-07-31": 48347,
-  "2023-08-01": 48397,
-  "2023-08-02": 48442,
-  "2023-08-03": 48505,
-  "2023-08-04": 48541,
-  "2023-08-05": 48593,
-  "2023-08-06": 48699,
-  "2023-08-07": 48699,
-  "2023-08-08": 48749,
-  "2023-08-09": 48808,
-  "2023-08-10": 48860,
-  "2023-08-11": 48909,
-  "2023-08-12": 48963,
-  "2023-08-13": 49025,
-  "2023-08-14": 49079,
-  "2023-08-15": 49182,
-  "2023-08-16": 49182,
-  "2023-08-17": 49245,
-  "2023-08-18": 49299,
-  "2023-08-19": 49343,
-  "2023-08-20": 49409,
-  "2023-08-21": 49469,
-  "2023-08-22": 49523,
-  "2023-08-23": 49559,
-  "2023-08-24": 49637,
-  "2023-08-25": 49692,
-  "2023-08-26": 49763,
-  "2023-08-27": 49819,
-  "2023-08-28": 49878,
-  "2023-08-29": 49920,
-  "2023-08-30": 49974,
-  "2023-08-31": 50036,
-  "2023-09-01": 50140,
-  "2023-09-02": 50140,
-  "2023-09-03": 50175,
-  "2023-09-04": 50245,
-  "2023-09-05": 50277,
-  "2023-09-06": 50325,
-  "2023-09-07": 50371,
-  "2023-09-08": 50430,
-  "2023-09-09": 50499,
-  "2023-09-10": 50563,
-  "2023-09-11": 50632,
-  "2023-09-12": 50683,
-  "2023-09-13": 50738,
-  "2023-09-14": 50793,
-  "2023-09-15": 50838,
-  "2023-09-16": 50895,
-  "2023-09-17": 50953,
-  "2023-09-18": 51008,
-  "2023-09-19": 51065,
-  "2023-09-20": 51101,
-  "2023-09-21": 51151,
-  "2023-09-22": 51204,
-  "2023-09-23": 51251,
-  "2023-09-24": 51320,
-  "2023-09-25": 51383,
-  "2023-09-26": 51444,
-  "2023-09-27": 51467,
-  "2023-09-28": 51535,
-  "2023-09-29": 51586,
-  "2023-09-30": 51651,
-  "2023-10-01": 51703,
-  "2023-10-02": 51758,
-  "2023-10-03": 51800,
-  "2023-10-04": 51835,
-  "2023-10-05": 51882,
-  "2023-10-06": 51940,
-  "2023-10-07": 51999,
-  "2023-10-08": 52062,
-  "2023-10-09": 52101,
-  "2023-10-10": 52163,
-  "2023-10-11": 52263,
-  "2023-10-12": 52263,
-  "2023-10-13": 52325,
-  "2023-10-14": 52369,
-  "2023-10-15": 52417,
-  "2023-10-16": 52485,
-  "2023-10-17": 52550,
-  "2023-10-18": 52593,
-  "2023-10-19": 52638,
-  "2023-10-20": 52689,
-  "2023-10-21": 52730,
-  "2023-10-22": 52786,
-  "2023-10-23": 52839,
-  "2023-10-24": 52885,
-  "2023-10-25": 52925,
-  "2023-10-26": 52969,
-  "2023-10-27": 53027,
-  "2023-10-28": 53071,
-  "2023-10-29": 53119,
-  "2023-10-30": 53218,
-  "2023-10-31": 53218,
-  "2023-11-01": 53262,
-  "2023-11-02": 53307,
-  "2023-11-03": 53346,
-  "2023-11-04": 53383,
-  "2023-11-05": 53441,
-  "2023-11-06": 53478,
-  "2023-11-07": 53511,
-  "2023-11-08": 53542,
-  "2023-11-09": 53588,
-  "2023-11-10": 53640,
-  "2023-11-11": 53698,
-  "2023-11-12": 53755,
-  "2023-11-13": 53804,
-  "2023-11-14": 53840,
-  "2023-11-15": 53840,
-  "2023-11-16": 53925,
-  "2023-11-17": 54008,
-  "2023-11-18": 54008,
-  "2023-11-19": 54071,
-  "2023-11-20": 54125,
-  "2023-11-21": 54213,
-  "2023-11-22": 54294,
-  "2023-11-23": 54337,
-  "2023-11-24": 54384,
-  "2023-11-25": 54422,
-  "2023-11-26": 54474,
-  "2023-11-27": 54541,
-  "2023-11-28": 54586,
-  "2023-11-29": 54695,
-  "2023-11-30": 54695,
-  "2023-12-01": 54757,
-  "2023-12-02": 54804,
-  "2023-12-03": 54858,
-  "2023-12-04": 54908,
-  "2023-12-05": 54951,
-  "2023-12-06": 54987,
-  "2023-12-07": 55041,
-  "2023-12-08": 55087,
-  "2023-12-09": 55139,
-  "2023-12-10": 55188,
-  "2023-12-11": 55234,
-  "2023-12-12": 55279,
-  "2023-12-13": 55316,
-  "2023-12-14": 55355,
-  "2023-12-15": 55393,
-  "2023-12-16": 55433,
-  "2023-12-17": 55479,
-  "2023-12-18": 55529,
-  "2023-12-19": 55570,
-  "2023-12-20": 55607,
-  "2023-12-21": 55658,
-  "2023-12-22": 55704,
-  "2023-12-23": 55751,
-  "2023-12-24": 55802,
-  "2023-12-25": 55853,
-  "2023-12-26": 55898,
-  "2023-12-27": 55965,
-  "2023-12-30": 56154,
-  "2023-12-31": 56210,
-  "2024-01-01": 56262,
-  "2024-01-02": 56316,
-  "2024-01-03": 56361
+  "2024-01-17": 57125,
+  "date_first_scraped": "2022-06-10",
+  "description": "Las obras maestras de dos enormes compositores, una tras otra. No hay fallo.  ",
+  "name": "Dos Iconos: Serrat y Sabina",
+  "tracks": [
+    {
+      "album": {
+        "name": "Mi Ni\u00f1ez",
+        "url": "https://open.spotify.com/album/6RzoogbXeI8wyvYrIIPvj5"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237960,
+      "name": "... De Carton Piedra",
+      "url": "https://open.spotify.com/track/2c5JCtbmsFDc2KU6cjX0Zu"
+    },
+    {
+      "album": {
+        "name": "Nos Sobran Los Motivos",
+        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319053,
+      "name": "19 Dias y 500 Noches - En Directo",
+      "url": "https://open.spotify.com/track/3LXFi1Xk9qJsYXYEjDcuVH"
+    },
+    {
+      "album": {
+        "name": "Fisica Y Quimica",
+        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248893,
+      "name": "A la Orilla de la Chimenea",
+      "url": "https://open.spotify.com/track/6NQvRUIZZ2z5EUaFd9OloQ"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399800,
+      "name": "A Mis Cuarenta y Diez - Directo",
+      "url": "https://open.spotify.com/track/1npWsipDCzTEemCdmx6LrS"
+    },
+    {
+      "album": {
+        "name": "En Transito",
+        "url": "https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "A Quien Corresponda",
+      "url": "https://open.spotify.com/track/4t4fIoyjRSUgfVd9DgyDQx"
+    },
+    {
+      "album": {
+        "name": "En Transito",
+        "url": "https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "A Usted",
+      "url": "https://open.spotify.com/track/5k3IIxkZbvGoWdEPhw6Z2L"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506226,
+      "name": "Ahora Que... - Directo",
+      "url": "https://open.spotify.com/track/3bu5gmkhGYUysONHZ3SGyp"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320866,
+      "name": "Algo Personal (with Calle 13)",
+      "url": "https://open.spotify.com/track/7J9TwCVXcyXywLqAGwlr9S"
+    },
+    {
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110266,
+      "name": "Aquellas Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
+    },
+    {
+      "album": {
+        "name": "Dos Pajaros De Un Tiro",
+        "url": "https://open.spotify.com/album/4J0sq1BDEOPbEsSlAI17u6"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437946,
+      "name": "Aquellas Peque\u00f1as Cosas/Ruido/El Muerto Vivo",
+      "url": "https://open.spotify.com/track/4gb4XHuuwSIHAORP2p7K5y"
+    },
+    {
+      "album": {
+        "name": "Ara Que Tinc Vint Anys",
+        "url": "https://open.spotify.com/album/67773pV5RK9l7mfnfjqHNS"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "Ara Que Tinc Vint Anys",
+      "url": "https://open.spotify.com/track/3sbFL6MOViiY2cmVeRLTWY"
+    },
+    {
+      "album": {
+        "name": "Hotel, Dulce Hotel",
+        "url": "https://open.spotify.com/album/4UBv7VLi5eBakkBymrMCN4"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306133,
+      "name": "Asi Estoy Yo Sin Ti",
+      "url": "https://open.spotify.com/track/345wiXlfRlPPmZE9qOLpcq"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516080,
+      "name": "Barbi Superestar - Directo",
+      "url": "https://open.spotify.com/track/5H6EWrxnOEDF9VQzPclOqa"
+    },
+    {
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177933,
+      "name": "Barquito de Papel",
+      "url": "https://open.spotify.com/track/2HEPFHV2TuDkukfvIhtL4v"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254253,
+      "name": "Caballo de Carton",
+      "url": "https://open.spotify.com/track/7dLrfebVWL7om3SEEQucqI"
+    },
+    {
+      "album": {
+        "name": "Cada Loco Con Su Tema",
+        "url": "https://open.spotify.com/album/5RX5mfuHRA7QIriJ693QG3"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336693,
+      "name": "Cada Loco Con Su Tema",
+      "url": "https://open.spotify.com/track/1thgvw4iBQEUTzcGKOPwhy"
+    },
+    {
+      "album": {
+        "name": "Mucho Sabina",
+        "url": "https://open.spotify.com/album/5pr2R3J9kR06c9RmRGlvqa"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266586,
+      "name": "Calle Melancolia",
+      "url": "https://open.spotify.com/track/5ZAqs1W68ldSzJ0mUO16l4"
+    },
+    {
+      "album": {
+        "name": "Serrat En Directo",
+        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "Cambalache - En Directo",
+      "url": "https://open.spotify.com/track/1kGPp4f8aILk1LqV6tjOZI"
+    },
+    {
+      "album": {
+        "name": "Lo Niego Todo",
+        "url": "https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214386,
+      "name": "Canci\u00f3n de Primavera",
+      "url": "https://open.spotify.com/track/3tiEGqbz4QWM3XwV2livG0"
+    },
+    {
+      "album": {
+        "name": "Dedicado A Antonio Machado, Poeta",
+        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "Cantares",
+      "url": "https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ"
+    },
+    {
+      "album": {
+        "name": "Dos Pajaros De Un Tiro",
+        "url": "https://open.spotify.com/album/4J0sq1BDEOPbEsSlAI17u6"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410640,
+      "name": "Cantares / Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/0yPvbFAi5I9XlOicaaaZaS"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276346,
+      "name": "Can\u00e7o de Bressol",
+      "url": "https://open.spotify.com/track/1moN2GDZ9aQyVqrOihzwl4"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324653,
+      "name": "Cerrado por Derribo - Directo",
+      "url": "https://open.spotify.com/track/2W01qEZvwq4sGjje8RWSm4"
+    },
+    {
+      "album": {
+        "name": "Lo Niego Todo",
+        "url": "https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229733,
+      "name": "Churumbelas",
+      "url": "https://open.spotify.com/track/7J1s6413EwV23HuQ5A6cUU"
+    },
+    {
+      "album": {
+        "name": "Com Ho Fa El Vent",
+        "url": "https://open.spotify.com/album/7amxIKMZZQE8AUkrXaje1O"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96066,
+      "name": "Com Ho Fa el Vent",
+      "url": "https://open.spotify.com/track/1UnRlYQY1fyPrOqIKpLLfR"
+    },
+    {
+      "album": {
+        "name": "Mentiras Piadosas",
+        "url": "https://open.spotify.com/album/7IriScvheoIW22aJFAxEao"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301040,
+      "name": "Con la Frente Marchita",
+      "url": "https://open.spotify.com/track/1iRf1TGSCLaxU7O7iBLiuV"
+    },
+    {
+      "album": {
+        "name": "Serrat & Sabina (En El Luna Park - Argentina)",
+        "url": "https://open.spotify.com/album/1lzXpjoeiViNubwrLq5nDC"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291320,
+      "name": "Con la Frente Marchita - En el Luna Park - Argentina",
+      "url": "https://open.spotify.com/track/3IWgoQLcvVVPhVAcpYeGbB"
+    },
+    {
+      "album": {
+        "name": "Yo, Mi, Me, Contigo",
+        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
+    },
+    {
+      "album": {
+        "name": "La Sonrisa de Krahe",
+        "url": "https://open.spotify.com/album/2BNUR1CxHqNFuPwTdia7PS"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208146,
+      "name": "Coplas Pat\u00e9ticas",
+      "url": "https://open.spotify.com/track/1m8H0tv9NvOW9Uck7DG1PV"
+    },
+    {
+      "album": {
+        "name": "Coplas Pat\u00e9ticas",
+        "url": "https://open.spotify.com/album/3MDbpYL0a1jqiY5FYzNuTL"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208146,
+      "name": "Coplas Pat\u00e9ticas",
+      "url": "https://open.spotify.com/track/2eKndfo2kO68N1oqYrLAtt"
+    },
+    {
+      "album": {
+        "name": "El Simbolo y el Cuate",
+        "url": "https://open.spotify.com/album/2GknfWNukaXr5gTMRrkfL8"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176866,
+      "name": "De un Mundo Raro",
+      "url": "https://open.spotify.com/track/4d4jkPX1mpLJ7IECgwlQja"
+    },
+    {
+      "album": {
+        "name": "Serrat En Directo",
+        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195813,
+      "name": "De Vez en Cuando la Vida - En Directo",
+      "url": "https://open.spotify.com/track/6ZamvCT3Kc154A4amDloeI"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281826,
+      "name": "Dieguitos y Mafaldas - Directo",
+      "url": "https://open.spotify.com/track/3mHM00zrF1fmDzlTzUAtPM"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257480,
+      "name": "Donde Habita el Olvido - Directo",
+      "url": "https://open.spotify.com/track/7GAfYSIsC82zKw3TlieI5C"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288160,
+      "name": "El Caso de la Rubia Platino",
+      "url": "https://open.spotify.com/track/4t3SZAVRsVx5oTcQfAVCyN"
+    },
+    {
+      "album": {
+        "name": "Serrat en Bellas Artes (Directo M\u00e9xico)",
+        "url": "https://open.spotify.com/album/7kOxIx5NZ9dFbArJFMNZIY"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261560,
+      "name": "El Titiritero - Directo M\u00e9xico",
+      "url": "https://open.spotify.com/track/3PjTUuYX87fitBBaRhFaVa"
+    },
+    {
+      "album": {
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353466,
+      "name": "Elegia",
+      "url": "https://open.spotify.com/track/1gHBTPy2c3xsUMR8dVmsBT"
+    },
+    {
+      "album": {
+        "name": "En Transito",
+        "url": "https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254893,
+      "name": "Esos Locos Bajitos",
+      "url": "https://open.spotify.com/track/47tWQbVn9bJZfH83QiDebk"
+    },
+    {
+      "album": {
+        "name": "El Simbolo y el Cuate",
+        "url": "https://open.spotify.com/album/2GknfWNukaXr5gTMRrkfL8"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Esos Locos Bajitos - En Directo",
+      "url": "https://open.spotify.com/track/0n5ovSsvaK2vgz40oSg9Qm"
+    },
+    {
+      "album": {
+        "name": "Dedicado A Antonio Machado, Poeta",
+        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77906,
+      "name": "Espa\u00f1olito",
+      "url": "https://open.spotify.com/track/1QxwjJhroDhlT7BC77Rlbt"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343120,
+      "name": "Eva Tomando el Sol",
+      "url": "https://open.spotify.com/track/3rEVEZK3Dq8t0HxUNMHZML"
+    },
+    {
+      "album": {
+        "name": "Mi Ni\u00f1ez",
+        "url": "https://open.spotify.com/album/6RzoogbXeI8wyvYrIIPvj5"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/3uczGVEmktxNt15VoBALL6"
+    },
+    {
+      "album": {
+        "name": "Dedicado A Antonio Machado, Poeta",
+        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151960,
+      "name": "He Andado Muchos Caminos",
+      "url": "https://open.spotify.com/track/4GHlOu6XgP4mNZJjCsDwZv"
+    },
+    {
+      "album": {
+        "name": "En Transito",
+        "url": "https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Hoy Puede Ser un Gran D\u00eda",
+      "url": "https://open.spotify.com/track/5YxgSArh0FDP0CEDuZcYnC"
+    },
+    {
+      "album": {
+        "name": "Diario De Un Peaton",
+        "url": "https://open.spotify.com/album/3b7tKskjkIsYIYYmmx9JTu"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294813,
+      "name": "La Canci\u00f3n M\u00e1s Hermosa del Mundo",
+      "url": "https://open.spotify.com/track/5UNKhmppwHMhqV2s9iYX6a"
+    },
+    {
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229040,
+      "name": "La Mujer Que Yo Quiero",
+      "url": "https://open.spotify.com/track/7woFqgcnG5w6xBGHC2wlXY"
+    },
+    {
+      "album": {
+        "name": "La Orquesta Del Titanic",
+        "url": "https://open.spotify.com/album/108E4NOKo5WRgoDADcLkCd"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291760,
+      "name": "La Orquesta Del Titanic",
+      "url": "https://open.spotify.com/track/0vYFJle5JBYOVViBUfPuv0"
+    },
+    {
+      "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/10CPq3R1c4Lq9nH4qVA8Eg"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/6eQ3D0DF3y6huX7eKSPBS7"
+    },
+    {
+      "album": {
+        "name": "Mucho Mas Que Dos (Live In Concert)",
+        "url": "https://open.spotify.com/album/3YIcphCTjJcjbpMnHFPGmW"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        },
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        },
+        {
+          "name": "Juan Echanove",
+          "url": "https://open.spotify.com/artist/5m1eLmKw3DVxtBGpfrhiEm"
+        },
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        },
+        {
+          "name": "Manolo Tena",
+          "url": "https://open.spotify.com/artist/7gyFPwPjI8N3wIyTghT7xw"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        },
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        },
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326893,
+      "name": "La Puerta De Alcal\u00e1 - En Directo",
+      "url": "https://open.spotify.com/track/6M7dGTUF47RRGGPqHBTn6P"
+    },
+    {
+      "album": {
+        "name": "Dedicado A Antonio Machado, Poeta",
+        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139466,
+      "name": "La Saeta",
+      "url": "https://open.spotify.com/track/5d6NoRmMBfFoNRjrWKIPBf"
+    },
+    {
+      "album": {
+        "name": "Lo Niego Todo",
+        "url": "https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Las Noches de Domingo Acaban Mal",
+      "url": "https://open.spotify.com/track/1TKEz423jjs9Qxj1prVJN4"
+    },
+    {
+      "album": {
+        "name": "Lo Niego Todo",
+        "url": "https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295373,
+      "name": "Leningrado",
+      "url": "https://open.spotify.com/track/5nZoN9TU6MATEcWg4NWVSa"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330733,
+      "name": "Llueve Sobre Mojado",
+      "url": "https://open.spotify.com/track/22SDPt6PeiyySI2TZCdRm1"
+    },
+    {
+      "album": {
+        "name": "Lo Niego Todo",
+        "url": "https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281426,
+      "name": "Lo Niego Todo",
+      "url": "https://open.spotify.com/track/6oV8HazS5rJB3jU3oPhYep"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "Lucia (with Silvio Rodr\u00edguez)",
+      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "Mas de Cien Mentiras - En Directo",
+      "url": "https://open.spotify.com/track/4Nt5ZxHaMELMnGmrL5pn6v"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287413,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/1MT0Z24LifpPyEfxBN8ybR"
+    },
+    {
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
+    },
+    {
+      "album": {
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Menos Tu Vientre",
+      "url": "https://open.spotify.com/track/5NclNbBF2yekUmxapVjGfA"
+    },
+    {
+      "album": {
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353266,
+      "name": "Nanas de la Cebolla",
+      "url": "https://open.spotify.com/track/1joUuNG5lEcjY2OxUJwL5J"
+    },
+    {
+      "album": {
+        "name": "Dos Pajaros De Un Tiro",
+        "url": "https://open.spotify.com/album/4J0sq1BDEOPbEsSlAI17u6"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251506,
+      "name": "No Hago Otra Cosa Que Pensar en Ti",
+      "url": "https://open.spotify.com/track/0t3yaLPmfvNfsShotQeXxs"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452106,
+      "name": "Noches de Boda / Y Nos Dieron las Diez - Directo Luna Park",
+      "url": "https://open.spotify.com/track/54FxYkqJZEEYSwNDemLigt"
+    },
+    {
+      "album": {
+        "name": "Nos Sobran Los Motivos",
+        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344840,
+      "name": "Nos Sobran los Motivos - En Directo",
+      "url": "https://open.spotify.com/track/3gY2q8M3a03KpwOGj0zt88"
+    },
+    {
+      "album": {
+        "name": "Serrat & Sabina (En El Luna Park - Argentina)",
+        "url": "https://open.spotify.com/album/1lzXpjoeiViNubwrLq5nDC"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330613,
+      "name": "Ocupen Su Localidad / Hoy Puede Ser un Gran Dia - En el Luna Park - Argentina",
+      "url": "https://open.spotify.com/track/56vU1zf9Dz8ySx6zhu3pI3"
+    },
+    {
+      "album": {
+        "name": "Alivio De Luto",
+        "url": "https://open.spotify.com/album/1XA93CqciNikc80pvDzRGm"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189106,
+      "name": "Pajaros de Portugal",
+      "url": "https://open.spotify.com/track/6sG8qSVahalz0Bg1VZTnFs"
+    },
+    {
+      "album": {
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170906,
+      "name": "Para la Libertad",
+      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+    },
+    {
+      "album": {
+        "name": "Dedicado A Antonio Machado, Poeta",
+        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135093,
+      "name": "Parabola",
+      "url": "https://open.spotify.com/track/1iYsg65dfhhfE6dqhnySj2"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "Paraules D'amor (with Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/0YXXPIjcELmd6vZkBwS4T4"
+    },
+    {
+      "album": {
+        "name": "Partido a Partido",
+        "url": "https://open.spotify.com/album/3DikvOmqaP4EI7E2ajWMQs"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220810,
+      "name": "Partido a Partido",
+      "url": "https://open.spotify.com/track/6yGQ5s5denSu8fX0VHGh69"
+    },
+    {
+      "album": {
+        "name": "Discograf\u00eda en Castellano",
+        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/099StFOYvyeMEYQU6jxuyr"
+    },
+    {
+      "album": {
+        "name": "Fisica Y Quimica",
+        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295333,
+      "name": "Peor para el Sol",
+      "url": "https://open.spotify.com/track/5ifVQVLUnIk46RRZ90WH7S"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544253,
+      "name": "Pero Qu\u00e9 Hermosas Eran - Directo",
+      "url": "https://open.spotify.com/track/7EETUtuOtr8t1B9GIxgWVz"
+    },
+    {
+      "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/10CPq3R1c4Lq9nH4qVA8Eg"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "Poco Antes de Que Den las Diez",
+      "url": "https://open.spotify.com/track/6yQDSRsf88Ko4tNyRguORF"
+    },
+    {
+      "album": {
+        "name": "Pongamos que Hablo De Madrid",
+        "url": "https://open.spotify.com/album/7hlblvbsLqXpyKR0wDpuEd"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Pongamos Que Hablo de Madrid",
+      "url": "https://open.spotify.com/track/5Mk78wLlqsNuxIxDBkI9Ms"
+    },
+    {
+      "album": {
+        "name": "Mucho Sabina",
+        "url": "https://open.spotify.com/album/5pr2R3J9kR06c9RmRGlvqa"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 245800,
+      "name": "Pongamos Que Hablo de Madrid",
+      "url": "https://open.spotify.com/track/4L3gOv26fhKuOZCOaZgQYj"
+    },
+    {
+      "album": {
+        "name": "Juana La Loca Y Otros Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4k4KkYzf0ii0qRqJtjGMY7"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246453,
+      "name": "Pongamos Que Hablo De Madrid",
+      "url": "https://open.spotify.com/track/6EPmR4Oup5RKX8Tw2hlJOe"
+    },
+    {
+      "album": {
+        "name": "Lo Niego Todo",
+        "url": "https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Por Delicadeza (with Leiva)",
+      "url": "https://open.spotify.com/track/5swet7SN0apSl38ZtRZCxH"
+    },
+    {
+      "album": {
+        "name": "Esta Boca Es Mia",
+        "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "Por el Bulevar de los Sue\u00f1os Rotos",
+      "url": "https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9"
+    },
+    {
+      "album": {
+        "name": "En Transito",
+        "url": "https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "Porque la Queria",
+      "url": "https://open.spotify.com/track/0Ouo0zsL6LG6ZSl96TRM7z"
+    },
+    {
+      "album": {
+        "name": "Lo Niego Todo",
+        "url": "https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227680,
+      "name": "Postdata",
+      "url": "https://open.spotify.com/track/34DIwlo2i3s5Piug6nHzK9"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Sabina y Viceversa",
+          "url": "https://open.spotify.com/artist/77JFXiVvftzgV1WRx2mNve"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242880,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/0ycxYAX6UbfhOFk7XiorRc"
+    },
+    {
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278106,
+      "name": "Que Va a Ser de Ti",
+      "url": "https://open.spotify.com/track/1yhdRrgE0E8f4gs0wQKu60"
+    },
+    {
+      "album": {
+        "name": "Dos Pajaros De Un Tiro",
+        "url": "https://open.spotify.com/album/4J0sq1BDEOPbEsSlAI17u6"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261546,
+      "name": "Quien Me Ha Robado El Mes De Abril",
+      "url": "https://open.spotify.com/track/4MAAqkjHMGF7qTjDBWoTgj"
+    },
+    {
+      "album": {
+        "name": "Lo Niego Todo",
+        "url": "https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248053,
+      "name": "Quien M\u00e1s, Quien Menos",
+      "url": "https://open.spotify.com/track/6UjyBdjTzlHA3wA2agPWBA"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294973,
+      "name": "Qui\u00e9n Me Ha Robado el Mes de Abril",
+      "url": "https://open.spotify.com/track/1fm8q8fynkggbVDXShFoiw"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401093,
+      "name": "Romance de Curro el Palmo (with Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/4X0PosrsGsQKbeVVlHJTjM"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262426,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/3i4LJ0XpihytzLLBbjhLpe"
+    },
+    {
+      "album": {
+        "name": "Serrat En Directo",
+        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336346,
+      "name": "Seria Fantastic - En Directo",
+      "url": "https://open.spotify.com/track/6icfNbSCHCEFCCD1ln01Lc"
+    },
+    {
+      "album": {
+        "name": "Mi Ni\u00f1ez",
+        "url": "https://open.spotify.com/album/6RzoogbXeI8wyvYrIIPvj5"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7HKvbzKAD3C8RjUCdxTytl"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303106,
+      "name": "Siete Crisantemos",
+      "url": "https://open.spotify.com/track/4Ynw6cXE7N2mJtJVlleRo0"
+    },
+    {
+      "album": {
+        "name": "Serrat En Directo",
+        "url": "https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256733,
+      "name": "Sinceramente Tuyo - En Directo",
+      "url": "https://open.spotify.com/track/5QX8OMORM2qlgazZ4rnZgg"
+    },
+    {
+      "album": {
+        "name": "Cansiones (Tarres / Serrat)",
+        "url": "https://open.spotify.com/album/1LfSGUUCSqbm0BsLs73STR"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Soy Lo Prohibido",
+      "url": "https://open.spotify.com/track/7r0Uc4YIFfwxTDkmkdeHOI"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Quico Pi de la Serra",
+          "url": "https://open.spotify.com/artist/4UxtpuDQoNjkxJ42Z6Qilt"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216200,
+      "name": "Temps Era Temps (with Quico Pi de la Serra)",
+      "url": "https://open.spotify.com/track/3G9pubPryHhTewQs0yiktH"
+    },
+    {
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Tio Alberto",
+      "url": "https://open.spotify.com/track/7gTFFOFM1VF5e9uy98suHw"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 249813,
+      "name": "Tiramisu de Limon",
+      "url": "https://open.spotify.com/track/4W9jNeSYxoe10Dtqb8w0xr"
+    },
+    {
+      "album": {
+        "name": "Vinagre Y Rosas",
+        "url": "https://open.spotify.com/album/2KhZpzpA0WTSIeJfPvHoD6"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251986,
+      "name": "Tiramisu de Limon",
+      "url": "https://open.spotify.com/track/0x8BlHc0tPoiY8zAzsD2Wa"
+    },
+    {
+      "album": {
+        "name": "Tiramisu de Limon",
+        "url": "https://open.spotify.com/album/33N9DXjW7WSxskbx4FMeRQ"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251986,
+      "name": "Tiramisu de Limon",
+      "url": "https://open.spotify.com/track/2RWQo5F0iGGSluBZyaOyxc"
+    },
+    {
+      "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/10CPq3R1c4Lq9nH4qVA8Eg"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151773,
+      "name": "Tu Nombre Me Sabe a Yerba",
+      "url": "https://open.spotify.com/track/3z3DtBS12kXOwaWDlYhh6i"
+    },
+    {
+      "album": {
+        "name": "500 Noches para una Crisis (En Directo)",
+        "url": "https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288013,
+      "name": "Una Canci\u00f3n para la Magdalena - Directo",
+      "url": "https://open.spotify.com/track/6GNN6bwXY656oi15ymkbiW"
+    },
+    {
+      "album": {
+        "name": "En Transito",
+        "url": "https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369600,
+      "name": "Una de Piratas",
+      "url": "https://open.spotify.com/track/62dpgbAjQ1hZxEGQAVoRRu"
+    },
+    {
+      "album": {
+        "name": "Fisica Y Quimica",
+        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302933,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275706,
+      "name": "Y Si Amanece por Fin",
+      "url": "https://open.spotify.com/track/549MXL7AHiCGDGtzE13uNX"
+    },
+    {
+      "album": {
+        "name": "Dos Pajaros De Un Tiro",
+        "url": "https://open.spotify.com/album/4J0sq1BDEOPbEsSlAI17u6"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389680,
+      "name": "Y Sin Embargo",
+      "url": "https://open.spotify.com/track/7FIHe9wfzmOAGMrmqPBkGm"
+    },
+    {
+      "album": {
+        "name": "Esencial Joaquin Sabina",
+        "url": "https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271093,
+      "name": "Y Sin Embargo",
+      "url": "https://open.spotify.com/track/3uJ51H6KQNKtwcVm0owsG3"
+    },
+    {
+      "album": {
+        "name": "Lo Niego Todo",
+        "url": "https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340693,
+      "name": "\u00bfQu\u00e9 Estoy Haciendo Aqu\u00ed?",
+      "url": "https://open.spotify.com/track/6sMK5NZtcziMoEwKXBlQOL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWU3gF0C6rGZR"
 }
